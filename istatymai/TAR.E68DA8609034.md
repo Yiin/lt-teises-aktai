@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -224,6 +224,14 @@ BENDROSIOS NUOSTATOS
 
 
 2. Alternatyviojo kolektyvinio investavimo subjekto dalyvis – kolektyvinio investavimo subjekto investicinių vienetų ar akcijų įsigijęs arba į tikrąją ūkinę bendriją ar komanditinę ūkinę bendriją įnašą įnešęs asmuo – investicinio fondo investicinio vieneto savininkas, akcinės bendrovės, uždarosios akcinės bendrovės akcininkas, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrasis narys ar komanditorius.
+
+
+
+
+21. Alternatyviojo kolektyvinio investavimo subjekto informacijos išankstinis platinimas (toliau – išankstinis platinimas) – tiesioginis ar netiesioginis informacijos apie alternatyviojo kolektyvinio investavimo subjekto valdymo įmonės valdomo ar dar neįsteigto alternatyviojo kolektyvinio investavimo subjekto investavimo strategiją arba idėjas teikimas arba komunikacija šio subjekto valdymo įmonės iniciatyva arba jos vardu Europos Sąjungoje ar Europos ekonominėje erdvėje gyvenantiems ar registruotas buveines turintiems potencialiems profesionaliesiems investuotojams, siekiant patikrinti jų susidomėjimą dar neįsteigtu alternatyviuoju kolektyvinio investavimo subjektu arba valdomu alternatyviuoju kolektyvinio investavimo subjektu, apie kurio ketinimą platinti investicinius vienetus ar akcijas dar nepranešta pagal kolektyvinių investavimo subjektų veiklą reglamentuojančiuose įstatymuose nustatytą tvarką valstybėje narėje, kurioje gyvena ar turi registruotas buveines potencialūs profesionalieji investuotojai, kai toks informacijos teikimas ar komunikacija nė vienu atveju neprilygsta pasiūlymui potencialiam profesionaliajam investuotojui investuoti į to alternatyviojo kolektyvinio investavimo subjekto investicinius vienetus ar akcijas arba investicinių vienetų ar akcijų platinimui, kaip nurodyta šio įstatymo 391 straipsnyje.
+Papildyta straipsnio dalimi:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -562,7 +570,18 @@ Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 
 
 
-5. Valdymo įmonei, teikiančiai šio straipsnio 3 dalies 1–4 punktuose nurodytas investicines paslaugas, mutatis mutandis taikomi Finansinių priemonių rinkų įstatymo 2 straipsnio 7 dalies, 13, 16 ir 28–31 straipsnių reikalavimai ir juos įgyvendinantys priežiūros institucijos teisės aktai.
+5. Valdymo įmonė turi teisę savo veikloje, neperžengdama licencijoje jai nustatytų teisių, pasitelkti priklausomus tarpininkus ir šiuo tikslu mutatis mutandis turi vadovautis Finansinių priemonių rinkų įstatymo 16 straipsnio 1 dalies ir 36 straipsnio nuostatomis. Valdymo įmonei, teikiančiai šio straipsnio 3 dalies 1–4 punktuose nurodytas investicines paslaugas, mutatis mutandis taikomi Finansinių priemonių rinkų įstatymo 2 straipsnio 7 dalies, 13, 16 ir 28–31 straipsniuose nustatyti reikalavimai ir juos įgyvendinantys priežiūros institucijos teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+51. Šio straipsnio 5 dalyje ir šio įstatymo 14 straipsnio 10 dalyje nurodyti priklausomi tarpininkai suprantami kaip fiziniai ar juridiniai asmenys, kurie, veikdami išimtinai vienos valdymo įmonės vardu ir šiai įmonei esant visapusiškai ir besąlygiškai atsakingai už jos priklausomo tarpininko veiksmus ar neveikimą, kiek tai susiję su priklausomo tarpininko veikla valdymo įmonės vardu, turi teisę teikti tik tas Finansinių priemonių rinkų įstatymo 36 straipsnio 1 dalyje nurodytas paslaugas, kurias turi teisę teikti ta valdymo įmonė pagal jai išduotą licenciją.
+Papildyta straipsnio dalimi:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -1380,6 +1399,13 @@ REIKALAVIMAI VALDYMO ĮMONIŲ VEIKLAI
 
 
 9. Tai, kad valdymo įmonė dalį savo funkcijų pavedė atlikti kitam fiziniam asmeniui ar įmonei, neatleidžia valdymo įmonės nuo atsakomybės už tinkamą jų atlikimą. Valdymo įmonė neturi teisės pavesti kitam fiziniam asmeniui ar įmonei atlikti tiek savo funkcijų, kad iš esmės jų nebeturėtų. Sprendžiant dėl atitikties šiam reikalavimui vadovaujamasi 2012 m. gruodžio 19 d. Komisijos deleguotojo reglamento (ES) Nr. 231/2013, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2011/61/ES nuostatos dėl išimčių, bendrųjų veiklos sąlygų, depozitoriumų, finansinio sverto, skaidrumo ir priežiūros (OL 2013 L 83, p. 1), 82 straipsnyje nustatytais kriterijais.
+
+
+
+
+10. Kai valdymo įmonė savo veiklai vykdyti pasitelkia priklausomus tarpininkus, tai nėra laikoma kolektyvinio investavimo subjekto valdymo funkcijos – rinkodaros, įskaitant platinimą, pavedimu. Valdymo įmonė visapusiškai ir besąlygiškai atsako už priklausomo tarpininko veiksmus ar neveikimą, kiek tai susiję su priklausomo tarpininko veikla valdymo įmonės vardu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
 
@@ -1612,7 +1638,15 @@ INVESTUOTOJAMS IR PRIEŽIŪROS INSTITUCIJAI TEIKIAMA INFORMACIJA
 
 
 
-18) šio įstatymo 19 ir 20 straipsniuose nurodytos informacijos apie kolektyvinio investavimo subjektus atskleidimo taisykles.
+18) šio įstatymo 19 ir 20 straipsniuose nurodytos informacijos apie kolektyvinio investavimo subjektus atskleidimo taisykles;
+
+
+
+
+19) informaciją, nurodytą Reglamente (ES) 2019/2088. 
+Papildyta straipsnio punktu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -1801,7 +1835,18 @@ VALDYMO ĮMONĖS IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ METŲ VEIKLOS ATASKAITOS 
 
 
 
-8) kita svarbi informacija, iš kurios investuotojai galėtų daryti pagrįstas išvadas dėl kolektyvinio investavimo subjekto ir jo veiklos rezultatų. 
+8) informaciją, nurodytą Reglamente (ES) 2019/2088; 
+Papildyta straipsnio punktu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+9) kita svarbi informacija, iš kurios investuotojai galėtų daryti pagrįstas išvadas dėl kolektyvinio investavimo subjekto ir jo veiklos rezultatų. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -2894,6 +2939,84 @@ LIETUVOS RESPUBLIKOJE, KITOJE VALSTYBĖJE NARĖJE LICENCIJĄ GAVUSIŲ VALDYMO Į
  
 
 
+391 straipsnis. Išankstinio platinimo Lietuvos Respublikoje ir kitoje valstybėje narėje reikalavimai
+
+
+1. Lietuvos Respublikoje ar kitoje valstybėje narėje licenciją gavusi valdymo įmonė gali Lietuvos Respublikoje ir kitoje valstybėje narėje vykdyti išankstinį platinimą, skirtą tik potencialiems profesionaliesiems investuotojams. Išankstinio platinimo metu negali būti teikiama tokia informacija, kuri:
+
+
+1) yra pakankama, kad investuotojai galėtų įsipareigoti įsigyti konkretaus kolektyvinio investavimo subjekto investicinių vienetų ar akcijų;
+
+
+
+
+2) prilygsta įsigijimo paraiškai, įsipareigojimo investuoti sutarčiai, investavimo sutarčiai ir jų projektams ar panašiems dokumentams; 
+
+
+
+
+3) prilygsta kolektyvinio investavimo subjekto steigimo dokumentams, prospektui arba kitiems galutiniams dar neįsteigto kolektyvinio investavimo subjekto siūlymo dokumentams. 
+
+
+
+
+
+
+2. Teikiamuose prospekto arba kitų dar neįsteigto kolektyvinio investavimo subjekto siūlymo dokumentų projektuose neturi būti visos informacijos, kurios pakaktų, kad investuotojai galėtų priimti investavimo sprendimus, ir turi būti aiškiai nurodyta, kad:
+
+
+1) dokumentais nėra siūloma įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų ir
+
+
+
+
+2) dokumentuose pateikta informacija neturėtų būti vadovaujamasi, nes ji yra neišsami ir gali būti keičiama. 
+
+
+
+
+
+
+3. Valdymo įmonė užtikrina, kad išankstinio platinimo metu investuotojai neįsigytų kolektyvinio investavimo subjekto investicinių vienetų ar akcijų. Investuotojai, kuriems buvo siūloma įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų vykdant išankstinį platinimą, gali įsigyti to kolektyvinio investavimo subjekto investicinių vienetų ar akcijų tik platinimo, leidžiamo pagal šio įstatymo 40, 41 ar 42 straipsnį ar vykdomo gavus Kolektyvinio investavimo subjektų įstatymo 8 straipsnyje ar Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo 28 straipsnio 1 dalyje ar 30 straipsnio 1 dalyje nurodytą priežiūros institucijos sprendimą, metu.
+
+
+
+
+4. Kai per 18 mėnesių nuo išankstinio platinimo pradžios profesionalieji investuotojai įsigyja kolektyvinio investavimo subjekto investicinių vienetų ar akcijų, kurie buvo nurodyti išankstinio platinimo metu pateiktoje informacijoje, tai laikoma investicinių vienetų ar akcijų platinimu ir taikomi šio įstatymo 40, 41 ir 42 straipsniuose, Kolektyvinio investavimo subjektų įstatymo 8 straipsnyje ar Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo 28 straipsnio 1 dalyje ar 30 straipsnio 1 dalyje nurodyti reikalavimai. 
+
+
+
+
+5. Valdymo įmonė per dvi savaites nuo išankstinio platinimo kitoje valstybėje narėje ar Lietuvos Respublikoje pradžios apie tai raštu, įskaitant elektroninę formą, informuoja priežiūros instituciją. Pateikiamoje informacijoje nurodoma, kuriose valstybėse narėse ir kuriais laikotarpiais yra (ar buvo) vykdomas išankstinis platinimas, taip pat pateikiamas trumpas išankstinio platinimo aprašymas, be kita ko, informacija apie pristatytas investavimo strategijas ir, kai taikytina, kolektyvinio investavimo subjektų ir kolektyvinio investavimo subjekto subfondų, įtrauktų į išankstinį platinimą, sąrašas. Priežiūros institucija nedelsdama, ne vėliau kaip per 5 darbo dienas nuo pateiktos informacijos gavimo dienos, informuoja valstybių narių, kuriose valdymo įmonė vykdo ar vykdė išankstinį platinimą, priežiūros institucijas. Kai išankstinį platinimą Lietuvos Respublikoje vykdo kitoje valstybėje narėje licenciją gavusi valdymo įmonė, priežiūros institucija gali paprašyti valdymo įmonės buveinės valstybės narės priežiūros institucijos pateikti išsamesnę informaciją apie Lietuvos Respublikos teritorijoje vykdomą arba vykdytą išankstinį platinimą.
+
+
+
+
+6. Priežiūros institucija nereikalauja, kad valdymo įmonė nurodytų išankstinio platinimo turinį ar adresatus arba įvykdytų kokias nors kitas sąlygas ar reikalavimus, kurie nėra nustatyti šiame straipsnyje, prieš jai pradedant vykdyti išankstinį platinimą.
+
+
+
+
+7. Išankstinį platinimą valdymo įmonės vardu gali vykdyti finansų maklerio įmonė, kredito įstaiga, priklausomas tarpininkas, valdymo įmonė, turinti valdymo įmonės licenciją pagal Kolektyvinio investavimo subjektų įstatymą ir (arba) Lietuvos Respublikoje licenciją pagal šį įstatymą gavusios alternatyviųjų kolektyvinio investavimo subjektų valdymo įmonės, arba kitose valstybėse narėse įsteigta finansų maklerio įmonė, kredito įstaiga, priklausomas tarpininkas, valdymo įmonė.
+
+
+
+
+8. Subjektams, nurodytiems šio straipsnio 7 dalyje, taikomos šiame straipsnyje nustatytos pareigos, kurios taikomos valdymo įmonei dėl išankstinio platinimo.
+
+
+
+
+9. Valdymo įmonė užtikrina, kad jos vykdomas išankstinis platinimas būtų įformintas rašytiniais dokumentais.
+
+
+Papildyta straipsniu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
 40 straipsnis. Valdymo įmonės teisė platinti investicinius vienetus ar akcijas profesionaliesiems investuotojams Lietuvos Respublikoje 
 
 
@@ -3008,7 +3131,20 @@ LIETUVOS RESPUBLIKOJE, KITOJE VALSTYBĖJE NARĖJE LICENCIJĄ GAVUSIŲ VALDYMO Į
 
 
 
-2. Prieš pradėdama platinti Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, Lietuvos Respublikoje licenciją gavusi valdymo įmonė priežiūros institucijai kartu su šio straipsnio 1 dalies 1 punkte nurodytu pranešimu turi nurodyti, kurioje valstybėje narėje ketina platinti kolektyvinio investavimo subjekto investicinius vienetus ar akcijas profesionaliesiems investuotojams, taip pat pateikti informaciją apie kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo tvarką. 
+2. Prieš pradėdama platinti Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, Lietuvos Respublikoje licenciją gavusi valdymo įmonė priežiūros institucijai kartu su šio straipsnio 1 dalies 1 punkte nurodytu pranešimu turi nurodyti, kurioje valstybėje narėje ketina platinti kolektyvinio investavimo subjekto investicinius vienetus ar akcijas profesionaliesiems investuotojams, taip pat nurodyti:
+
+
+1) kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo tvarką;
+
+
+
+
+2) būtiną kontaktinę informaciją, įskaitant buveinę (adresą) Lietuvos Respublikoje, sąskaitai faktūrai išrašyti arba norint pranešti apie bet kokius priimančiosios valstybės narės teisės aktuose nustatytus priežiūros institucijos taikomus mokesčius ar rinkliavas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -3033,17 +3169,26 @@ LIETUVOS RESPUBLIKOJE, KITOJE VALSTYBĖJE NARĖJE LICENCIJĄ GAVUSIŲ VALDYMO Į
 
 
 
-7. Apie visus pagal šio straipsnio 1 ir 2 dalis pateiktos informacijos planuojamus esminius pakeitimus priežiūros institucijai turi būti pranešama iš anksto, tačiau ne vėliau kaip prieš mėnesį iki planuojamų pakeitimų įgyvendinimo dienos. Priežiūros institucija, pastebėjusi, kad po atlikto pakeitimo Lietuvos Respublikoje įsteigtos valdymo įmonės atliekamas Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto valdymas nebeatitiks šio įstatymo keliamų reikalavimų, nedelsdama informuoja Lietuvos Respublikoje įsteigtą valdymo įmonę, kad ji negali įgyvendinti planuoto pakeitimo.
+7. Apie visus pagal šio straipsnio 1 ir 2 dalis pateiktos informacijos planuojamus esminius pakeitimus priežiūros institucijai turi būti pranešama iš anksto, tačiau ne vėliau kaip prieš mėnesį iki planuojamų pakeitimų įgyvendinimo dienos. Priežiūros institucija, pastebėjusi, kad po atlikto pakeitimo Lietuvos Respublikoje įsteigtos valdymo įmonės atliekamas Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto valdymas nebeatitiks šio įstatymo keliamų reikalavimų, per 15 darbo dienų nuo šioje dalyje nurodytos informacijos gavimo dienos informuoja Lietuvos Respublikoje įsteigtą valdymo įmonę, kad ji negali įgyvendinti planuoto pakeitimo. Priežiūros institucija nedelsdama, ne vėliau kaip per 5 darbo dienas nuo valdymo įmonės informavimo dienos, informuoja valdymo įmonės priimančiosios valstybės narės priežiūros instituciją apie tai, kad valdymo įmonė negali įgyvendinti planuoto pakeitimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
 
-8. Apie neplanuoto pagal šio straipsnio 1 ir 2 dalis pateiktos informacijos esminio pakeitimo faktą Lietuvos Respublikoje įsteigta valdymo įmonė privalo nedelsdama pranešti priežiūros institucijai. Jeigu po atlikto pakeitimo valdymo įmonės atliekamas kolektyvinio investavimo subjekto valdymas nebeatitinka šio įstatymo ar jo įgyvendinamųjų teisės aktų reikalavimų, priežiūros institucija reikalauja nutraukti bet kokią veiklą, kuri pažeidžia šių teisės aktų nuostatas, ir prireikus imasi ir kitų šio įstatymo 58 straipsnyje nustatytų veiksmų.
+8. Apie neplanuoto pagal šio straipsnio 1 ir 2 dalis pateiktos informacijos esminio pakeitimo faktą Lietuvos Respublikoje įsteigta valdymo įmonė privalo nedelsdama, ne vėliau kaip per 5 darbo dienas nuo informacijos esminio pakeitimo dienos, pranešti priežiūros institucijai. Jeigu po atlikto pakeitimo valdymo įmonės atliekamas kolektyvinio investavimo subjekto valdymas nebeatitinka šio įstatymo ar jo įgyvendinamųjų teisės aktų reikalavimų, priežiūros institucija reikalauja nutraukti bet kokią veiklą, kuri pažeidžia šių teisės aktų nuostatas, ir prireikus imasi ir kitų šio įstatymo 58 straipsnyje nustatytų veiksmų. Apie veiksmus, kurių ėmėsi, priežiūros institucija nepagrįstai nedelsdama, ne vėliau kaip per 5 darbo dienas nuo sprendimo imtis veiksmų priėmimo dienos, informuoja valdymo įmonės priimančiosios valstybės narės priežiūros institucijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
 
-9. Jeigu siūlyti ar įvykdyti pakeitimai yra priežiūros institucijai priimtini ir nedaro įtakos Lietuvos Respublikoje licenciją gavusios valdymo įmonės vykdomam valstybėje narėje įsteigto kolektyvinio investavimo subjekto valdymui arba Lietuvos Respublikoje licenciją gavusi valdymo įmonė atitinka šiame įstatyme nustatytus reikalavimus, priežiūros institucija nedelsdama apie tokius pakeitimus praneša valdymo įmonės priimančiosios valstybės narės priežiūros institucijoms.
+9. Jeigu siūlyti ar įvykdyti pakeitimai yra priežiūros institucijai priimtini ir nedaro įtakos Lietuvos Respublikoje licenciją gavusios valdymo įmonės vykdomam valstybėje narėje įsteigto alternatyviojo kolektyvinio investavimo subjekto valdymui arba Lietuvos Respublikoje licenciją gavusi valdymo įmonė atitinka šiame įstatyme nustatytus reikalavimus, priežiūros institucija apie tokius pakeitimus per mėnesį nuo informacijos gavimo dienos praneša valdymo įmonės priimančiosios valstybės narės priežiūros institucijoms.
+Straipsnio dalies pakeitimai:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -3067,6 +3212,64 @@ LIETUVOS RESPUBLIKOJE, KITOJE VALSTYBĖJE NARĖJE LICENCIJĄ GAVUSIŲ VALDYMO Į
  
 
 
+
+
+
+
+411 straipsnis. Valdymo įmonės valdomų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo kitose valstybėse narėse nutraukimo tvarka
+
+
+1. Valdymo įmonė gali nutraukti kai kurių arba visų savo valdomų kolektyvinio investavimo subjektų kitoje valstybėje narėje vykdomą investicinių vienetų ar akcijų platinimą, apie kurį ji pranešė pagal šio įstatymo 41 straipsnio 1 dalies 1 punktą, kai įvykdomos visos šios sąlygos:
+
+
+1) pateikiamas išsamus pasiūlymas, netaikant jokių mokesčių ar atskaitymų, išpirkti visus tokius investicinius vienetus ar akcijas, kuriuos turi investuotojai kitoje valstybėje narėje, išskyrus atvejus dėl uždarojo tipo kolektyvinio investavimo subjektų ir investicinių fondų, reglamentuojamų 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/760 dėl Europos ilgalaikių investicijų fondų. Šis pasiūlymas turi būti viešai skelbiamas investuotojui pateiktuose kolektyvinio investavimo subjekto dokumentuose nurodytoje interneto svetainėje bent 30 darbo dienų iki investicinių vienetų ar akcijų platinimo nutraukimo dienos, taip pat pateikiamas tiesiogiai arba per finansinius tarpininkus individualiai kiekvienam investuotojui, kurio tapatybė yra žinoma, toje valstybėje narėje;
+
+
+
+
+2) ketinimas nutraukti investicinių vienetų ar akcijų platinimą toje valstybėje narėje paskelbiamas viešai investuotojui pateiktuose kolektyvinio investavimo subjekto dokumentuose nurodytoje interneto svetainėje arba raštu pranešama kiekvienam kolektyvinio investavimo subjekto investicinių vienetų ar akcijų turinčiam investuotojui; 
+
+
+
+
+3) visi susitarimai su finansų tarpininkais ar įgaliotais asmenimis pakeičiami arba nutraukiami nuo investicinių vienetų ar akcijų platinimo toje valstybėje narėje nutraukimo dienos, siekiant užtikrinti, kad nebūtų naujų ar tolesnių tiesioginių ar netiesioginių investicinių vienetų ar akcijų, nurodytų šio straipsnio 2 dalyje nurodytame pranešime, siūlymų. 
+
+
+
+
+
+
+2. Valdymo įmonė ne vėliau kaip prieš mėnesį iki numatomo investicinių vienetų ar akcijų platinimo toje valstybėje narėje nutraukimo dienos priežiūros institucijai pateikia pranešimą, kuriame pateikiama šio straipsnio 1 dalyje nurodyta informacija.
+
+
+
+
+3. Nuo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo nutraukimo dienos valdymo įmonė neteikia jokių naujų ar tolesnių tiesioginių ar netiesioginių to kolektyvinio investavimo subjekto investicinių vienetų ar akcijų siūlymų toje valstybėje narėje, kurioje ji pateikė pranešimą nutraukti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimą pagal šio straipsnio 2 dalį. 
+
+
+
+
+4. Priežiūros institucija patikrina, ar pagal šio straipsnio 2 dalį valdymo įmonės pateiktame pranešime yra pateikta šio straipsnio 1 dalyje nurodyta informacija, ir ne vėliau kaip per 15 darbo dienų nuo išsamaus pranešimo gavimo dienos perduoda tą pranešimą tų valstybių narių, kuriose nutraukiamas kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimas, priežiūros institucijoms ir Europos vertybinių popierių ir rinkų institucijai. Perdavusi pranešimą, priežiūros institucija apie tai nedelsdama, ne vėliau kaip per 5 darbo dienas, praneša valdymo įmonei.
+
+
+
+
+5. Valdymo įmonė 36 mėnesius nuo investicinių vienetų ar akcijų platinimo nutraukimo dienos valstybėje narėje, nurodytoje šio straipsnio 2 dalyje nurodytame pranešime, negali vykdyti su kolektyvinio investavimo subjekto investiciniais vienetais ar akcijomis, nurodytais pranešime arba susijusiais su panašiomis investavimo strategijomis ar idėjomis, susijusio išankstinio platinimo. 
+
+
+
+
+6. Valdymo įmonė privalo teikti ir skelbti investuotojams, kurie nepasinaudojo galimybe pareikalauti išpirkti jų turimus investicinius vienetus ar akcijas, ir teikti priežiūros institucijai informaciją, kurios reikalaujama pagal šio įstatymo 18, 19, 20 ir 22 straipsnius, Kolektyvinio investavimo subjektų įstatymo 8 straipsnį ar Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo 28 straipsnio 1 dalį ar 30 straipsnio 1 dalį. Valdymo įmonė šiai informacijai pateikti gali naudoti visas elektronines ar kitas nuotolinio ryšio priemones.
+
+
+
+
+7. Priežiūros institucija kitos valstybės narės, kurioje nutraukiamas kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimas pagal šio straipsnio 1 dalį, priežiūros institucijoms perduoda informaciją apie visus šio įstatymo 40 straipsnio 2, 3 ir (ar) 4 dalyse nurodytų dokumentų ir informacijos pakeitimus.
+
+
+Papildyta straipsniu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -3148,14 +3351,28 @@ LIETUVOS RESPUBLIKOJE, KITOJE VALSTYBĖJE NARĖJE LICENCIJĄ GAVUSIŲ VALDYMO Į
 
 
 
-2) šio straipsnio 2 dalies 2 punkte nurodytu atveju – šio įstatymo 40 straipsnio 2 dalies 1–5 punktuose ir 3 dalyje nurodytus dokumentus ir informaciją, pagrindinės informacijos investuotojams dokumentą, jeigu toks dokumentas rengiamas, arba pagrindinės informacijos dokumentą, informaciją apie kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo tvarką Lietuvos Respublikoje; informaciją apie valdymo įmonės atstovą Lietuvos Respublikoje – jo buveinę (adresą) Lietuvos Respublikoje, telefono numerį, elektroninio pašto adresą, interneto svetainės, kurioje skelbiama informacija apie kolektyvinio investavimo subjektą, adresą, paaiškinimus, kokiu būdu bus užtikrinamas investuotojų teisės gauti informaciją ir jos pakeitimus, gauti mokėjimus, kai išperkami investiciniai vienetai ar akcijos ir atliekami kiti mokėjimai, įgyvendinimas, sprendžiami ginčai su investuotojais.
+2) šio straipsnio 2 dalies 2 punkte nurodytu atveju – šio įstatymo 40 straipsnio 2 dalies 1–5 punktuose ir 3 dalyje nurodytus dokumentus ir informaciją, pagrindinės informacijos investuotojams dokumentą, jeigu toks dokumentas rengiamas, arba pagrindinės informacijos dokumentą, informaciją apie kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo tvarką Lietuvos Respublikoje; informaciją apie valdymo įmonės atstovą Lietuvos Respublikoje – jo buveinę (adresą) Lietuvos Respublikoje, jeigu tokią turi, telefono numerį, elektroninio pašto adresą, interneto svetainės, kurioje skelbiama informacija apie kolektyvinio investavimo subjektą, adresą, paaiškinimus, kokiu būdu bus užtikrinamas investuotojų teisės gauti informaciją ir jos pakeitimus, gauti mokėjimus, kai išperkami investiciniai vienetai ar akcijos ir atliekami kiti mokėjimai, įgyvendinimas, sprendžiami ginčai su investuotojais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+3) informaciją apie priemones ir procedūras, kurios bus taikomos užtikrinant šio straipsnio 10 dalyje nurodytas galimybes. 
+Papildyta straipsnio punktu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
 
 
 
-4. Šio straipsnio 3 dalies 2 punkte nurodytu valdymo įmonės, kitoje valstybėje narėje licenciją valdyti kolektyvinio investavimo subjektus gavusios valdymo įmonės atstovu gali būti tik Lietuvos Respublikoje įsteigtas juridinis asmuo, turintis teisę teikti investicines paslaugas, taip pat valstybėje narėje įsteigto juridinio asmens filialas, turintis teisę teikti investicines paslaugas Lietuvos Respublikoje. 
+4. Neteko galios nuo 2021-12-29. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -3185,17 +3402,98 @@ LIETUVOS RESPUBLIKOJE, KITOJE VALSTYBĖJE NARĖJE LICENCIJĄ GAVUSIŲ VALDYMO Į
 
 
 
-10. Apie neplanuoto esminio šio straipsnio 3 dalyje nurodytos informacijos pakeitimo faktą valdymo įmonė, kitoje valstybėje narėje licenciją gavusi valdymo įmonė privalo nedelsdamos pranešti priežiūros institucijai. Jeigu atlikus pakeitimą šiame straipsnyje nustatyti reikalavimai nėra tenkinami, priežiūros institucija reikalauja nutraukti bet kokią veiklą, kuri pažeidžia šio įstatymo ar jo įgyvendinamųjų teisės aktų nuostatas, ir prireikus imasi ir kitų šio įstatymo 58 straipsnyje nustatytų veiksmų.
+10. Kitoje valstybėje narėje licenciją valdyti kolektyvinio investavimo subjektus gavusi valdymo įmonė, kuri gavo leidimą platinti kolektyvinio investavimo subjekto investicinius vienetus ar akcijas neprofesionaliesiems investuotojams Lietuvos Respublikoje, privalo užtikrinti, kad platinant investicinius vienetus ar akcijas kiekvienoje valstybėje narėje būtų sudarytos šios galimybės:
+
+
+1) paraiškas įsigyti arba išpirkti investicinius vienetus ar akcijas, mokėjimo ar išpirkimo pavedimus dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų tvarkyti laikantis kolektyvinio investavimo subjekto steigimo dokumentuose nustatytų sąlygų; 
 
 
 
 
-11. Šio įstatymo 42 straipsnio 2 ir 3 dalių nuostatos, išskyrus nuostatas dėl Europos vertybinių popierių ir rinkų priežiūros institucijos, priežiūros institucijai taikomos mutatis mutandis.
+2) investuotojams pateikti informaciją, kaip šios dalies 1 punkte nurodytos paraiškos gali būti tvarkomos ir kaip išmokamos lėšos už išperkamus investicinius vienetus ar akcijas; 
 
 
 
 
-12. Kitoje valstybėje narėje įsteigtiems kolektyvinio investavimo subjektams, skirtiems investuotojams, atitinkantiems Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme informuotiesiems investuotojams nustatytus kriterijus, šis straipsnis taikomas mutatis mutandis. Tokiems kolektyvinio investavimo subjektams šio straipsnio 1 dalyje nurodytas leidimas gali būti suteikiamas, jeigu:
+3) taikyti procedūras ir priemones, palengvinančias su investuotojo teisėmis, atsirandančiomis, kai investuotojas įsigyja kolektyvinio investavimo subjekto investicinių vienetų ar akcijų, susijusios informacijos tvarkymą;
+
+
+
+
+4) investuotojams susipažinti su informacija ir dokumentais, reikalaujamais pagal šio įstatymo 18, 19, 20 ir 22 straipsnius, Kolektyvinio investavimo subjektų įstatymo 8 straipsnį ar Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo 28 straipsnio 1 dalį ar 30 straipsnio 1 dalį, ir gauti šios informacijos ir dokumentų kopijas;
+
+
+
+
+5) teikti investuotojams informaciją, susijusią su šioje dalyje nurodytomis galimybėmis, patvariojoje laikmenoje; 
+
+
+
+
+6) veikti kaip kontaktiniam asmeniui bendraujant su priežiūros institucijomis. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+11. Kitoje valstybėje narėje licenciją valdyti kolektyvinio investavimo subjektus gavusi valdymo įmonė, platinanti savo valdomų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas Lietuvos Respublikoje, gali neturėti fizinio atstovo Lietuvos Respublikos teritorijoje ir neprivalo paskirti kitos trečiosios šalies šio straipsnio 10 dalyje nurodytoms galimybėms užtikrinti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+12. Valdymo įmonė užtikrina, kad šio straipsnio 10 dalyje nurodytoms galimybėms sudaryti skirtos procedūros, įskaitant elektronines, būtų:
+
+
+1) prieinamos šio įstatymo 43 straipsnio 6 dalyje nurodyta kalba; 
+
+
+
+
+2) taikomos pačios valdymo įmonės, kitos trečiosios šalies, kuriai taikomos šio įstatymo ir jo įgyvendinamųjų teisės aktų, reglamentuojančių šio straipsnio 10 dalyje nurodytų galimybių užtikrinimą, nuostatos, arba tiek pačios valdymo įmonės, tiek trečiosios šalies. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+13. Jeigu taikant šio straipsnio 12 dalies 2 punktą užtikrinti galimybes pavedama kitai trečiajai šaliai, toks pavedimas patvirtinamas rašytine sutartimi, kurioje nurodoma, kurių šio straipsnio 10 dalyje nurodytų galimybių valdymo įmonė neužtikrina pati, ir tai, kad kita trečioji šalis, kuriai pavestos tam tikros valdymo įmonės funkcijos, iš valdymo įmonės gauna visą reikiamą informaciją ir dokumentus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+14. Apie neplanuoto esminio šio straipsnio 3 dalyje nurodytos informacijos pakeitimo faktą valdymo įmonė, kitoje valstybėje narėje licenciją gavusi valdymo įmonė privalo nedelsdamos pranešti priežiūros institucijai. Jeigu atlikus pakeitimą šiame straipsnyje nustatyti reikalavimai nėra tenkinami, priežiūros institucija reikalauja nutraukti bet kokią veiklą, kuri pažeidžia šio įstatymo ar jo įgyvendinamųjų teisės aktų nuostatas, ir prireikus imasi ir kitų šio įstatymo 58 straipsnyje nustatytų veiksmų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+15. Šio įstatymo 42 straipsnio 2 ir 3 dalių nuostatos, išskyrus nuostatas dėl Europos vertybinių popierių ir rinkų priežiūros institucijos, priežiūros institucijai taikomos mutatis mutandis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
+
+
+
+
+16. Kitoje valstybėje narėje įsteigtiems kolektyvinio investavimo subjektams, skirtiems investuotojams, atitinkantiems Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme informuotiesiems investuotojams nustatytus kriterijus, šis straipsnis taikomas mutatis mutandis. Tokiems kolektyvinio investavimo subjektams šio straipsnio 1 dalyje nurodytas leidimas gali būti suteikiamas, jeigu:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 1) kitoje valstybėje narėje įsteigtas kolektyvinio investavimo subjektas atitinka reikalavimus, nustatytus Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, ir jo investiciniai vienetai ar akcijos gali būti platinami tik aiškiai apibrėžtai neprofesionaliųjų investuotojų grupei, atitinkančiai Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme nustatytus kriterijus, buveinės valstybėje narėje ir 
@@ -3210,10 +3508,60 @@ LIETUVOS RESPUBLIKOJE, KITOJE VALSTYBĖJE NARĖJE LICENCIJĄ GAVUSIŲ VALDYMO Į
 
 
 
-13. Valdymo įmonės, taip pat kitoje valstybėje narėje licenciją gavusios valdymo įmonės teisės platinti savo valdomų trečiojoje valstybėje įsteigtų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas neprofesionaliesiems investuotojams Lietuvos Respublikoje įgijimui šis straipsnis taikomas mutatis mutandis.
+17. Valdymo įmonės, taip pat kitoje valstybėje narėje licenciją gavusios valdymo įmonės teisės platinti savo valdomų trečiojoje valstybėje įsteigtų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas neprofesionaliesiems investuotojams Lietuvos Respublikoje įgijimui šis straipsnis taikomas mutatis mutandis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
 
+
+
+
+
+431 straipsnis. Kitoje valstybėje narėje licenciją gavusios valdymo įmonės valdomų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo Lietuvos Respublikoje nutraukimo tvarka 
+
+
+1. Kitoje valstybėje narėje licenciją gavusi valdymo įmonė gali nutraukti kai kurių arba visų savo valdomų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimą Lietuvos Respublikoje tik valdymo įmonės buveinės valstybės narės priežiūros institucijai pranešus jai apie jos pranešimo dėl atitinkamo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo nutraukimo Lietuvos Respublikoje bei kitų būtinų pateikti dokumentų perdavimą priežiūros institucijai ir kai įvykdomos visos šios sąlygos:
+
+
+1) pateikiamas išsamus pasiūlymas, netaikant jokių mokesčių ar atskaitymų, išpirkti visus tokius investicinius vienetus ar akcijas, kuriuos turi investuotojai Lietuvos Respublikoje, išskyrus atvejus dėl uždarojo tipo kolektyvinio investavimo subjektų ir investicinių fondų, reglamentuojamų Reglamentu (ES) 2015/760. Šis pasiūlymas turi būti viešai skelbiamas investuotojams pateiktuose kolektyvinio investavimo subjekto dokumentuose nurodytoje interneto svetainėje bent 30 darbo dienų iki platinimo nutraukimo dienos ir pateikiamas tiesiogiai arba per finansinius tarpininkus individualiai kiekvienam investuotojui, kurio tapatybė yra žinoma, Lietuvos Respublikoje;
+
+
+
+
+2) ketinimas nutraukti tokių investicinių vienetų ar akcijų platinimą Lietuvos Respublikoje paskelbiamas viešai investuotojams pateiktuose kolektyvinio investavimo subjekto dokumentuose nurodytoje interneto svetainėje arba raštu pranešama kiekvienam kolektyvinio investavimo subjekto investicinių vienetų ar akcijų turinčiam Lietuvos Respublikos investuotojui; 
+
+
+
+
+3) visi susitarimai su finansų tarpininkais ar įgaliotais asmenimis pakeičiami arba nutraukiami nuo investicinių vienetų ar akcijų platinimo Lietuvos Respublikoje nutraukimo dienos, siekiant užtikrinti, kad nebūtų naujų ar tolesnių tiesioginių ar netiesioginių investicinių vienetų ar akcijų, nurodytų šioje dalyje nurodytame pranešime, siūlymų. 
+
+
+
+
+
+
+2. Nuo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo nutraukimo dienos valdymo įmonė neteikia jokių naujų ar tolesnių tiesioginių ar netiesioginių to valdomo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų, kurių platinimas nutrauktas, siūlymų Lietuvos Respublikoje.
+
+
+
+
+3. Valdymo įmonė 36 mėnesius nuo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo nutraukimo dienos Lietuvos Respublikoje negali vykdyti su to kolektyvinio investavimo subjekto ar investavimo strategijomis ar idėjomis, panašaus kolektyvinio investavimo subjekto investiciniais vienetais ar akcijomis susijusio išankstinio platinimo.
+
+
+
+
+4. Kitoje valstybėje narėje licenciją gavusi valdymo įmonė privalo vykdyti šio įstatymo 18, 19, 20 ir 22 straipsniuose ir Kolektyvinio investavimo subjektų įstatymo II skyriaus antrajame skirsnyje ar Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo III skyriuje nustatytą pareigą skelbti ir teikti informaciją apie kolektyvinio investavimo subjekto veiklą investuotojams Lietuvos Respublikoje, kurie nepasinaudojo galimybe pareikalauti išpirkti jų turimus investicinius vienetus ar akcijas. Valdymo įmonė šiai informacijai pateikti gali naudoti visas elektronines ar kitas nuotolinio ryšio priemones. 
+
+
+
+
+5. Nuo informacijos, nurodytos šio straipsnio 1 dalyje, gavimo iš valdymo įmonės buveinės valstybės narės priežiūros institucijos dienos priežiūros institucija nereikalauja, kad kitoje valstybėje narėje licenciją gavusi valdymo įmonė įrodytų, kad laikosi Lietuvos Respublikos teisės aktų, kuriais reglamentuojami investicinių vienetų ar akcijų platinimo reikalavimai, kaip nurodyta Reglamento (ES) 2019/1156 5 straipsnyje, nuostatų.
+
+
+Papildyta straipsniu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 
@@ -3865,9 +4213,10 @@ DEPOZITORIUMO IR VALDYMO ĮMONIŲ PRIEŽIŪRA
 
 
 
-12. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir turi šiame ir kituose Lietuvos Respublikos įstatymuose, taip pat Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131 ir Reglamente (ES) 2019/1156 kompetentingai institucijai nustatytas teises ir pareigas. 
+12. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir turi šiame ir kituose Lietuvos Respublikos įstatymuose, taip pat Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156 ir Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas teises ir pareigas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
 
@@ -3907,9 +4256,10 @@ Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 
 
 
-5) kitas šiame ir kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131 ir Reglamente (ES) 2019/1156 nustatytas funkcijas. 
+5) kitas šiame ir kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156 ir Reglamente (ES) 2019/2088 nustatytas funkcijas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
 
@@ -3937,9 +4287,10 @@ Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 
 
 
-3. Priežiūros institucija, įgyvendindama Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013 ir Reglamento (ES) 2019/1156 jai pavestas funkcijas, turi šio straipsnio 2 dalies 1 ir 2 punktuose, šio įstatymo 60 straipsnio 1 dalies 8, 9 punktuose, taip pat Lietuvos banko įstatymo 42 straipsnio 4 dalies 2, 3, 6, 7, 8, 9, 10, 11 punktuose ir 42 straipsnio 8 ir 9 dalyse nustatytas teises. 
+3. Priežiūros institucija, įgyvendindama Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) 2019/1156 ir Reglamento (ES) 2019/2088 jai pavestas funkcijas, turi šio straipsnio 2 dalies 1 ir 2 punktuose, šio įstatymo 60 straipsnio 1 dalies 8, 9 punktuose, taip pat Lietuvos banko įstatymo 42 straipsnio 4 dalies 2, 3, 6, 7, 8, 9, 10, 11 punktuose ir 8, 9 dalyse nustatytas teises.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
 
@@ -4150,7 +4501,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Priežiūros institucija valdymo įmonėms, pažeidusioms Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) Nr. 231/2013, Reglamento (ES) Nr. 2017/1131 ar Reglamento (ES) 2019/1156 nuostatas, turi teisę:
+2. Priežiūros institucija valdymo įmonėms, pažeidusioms Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) Nr. 231/2013, Reglamento (ES) Nr. 2017/1131, Reglamento (ES) 2019/1156 ar Reglamento (ES) 2019/2088 nuostatas, turi teisę:
 
 
 1) taikyti šio straipsnio 1 dalies 1, 2, 3, 4 ir 5 punktuose nurodytas poveikio priemones;
@@ -4158,11 +4509,12 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2) taikyti atitinkamai Reglamento (ES) Nr. 345/2013 21 straipsnio 2 dalies b punkte, Reglamento (ES) Nr. 346/2013 22 straipsnio 2 dalies b punkte nurodytas poveikio priemones. 
+2) taikyti atitinkamai Reglamento (ES) Nr. 345/2013 21 straipsnio 2 dalies b punkte, Reglamento (ES) Nr. 346/2013 22 straipsnio 2 dalies b punkte nurodytas poveikio priemones.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
 
@@ -4222,9 +4574,10 @@ Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 
 
 
-5) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) Nr. 2017/1131 ar Reglamente (ES) 2019/1156 nustatyti reikalavimai; 
+5) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156 ar Reglamente (ES) 2019/2088 nustatyti reikalavimai;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
 
@@ -4347,61 +4700,67 @@ Respublikos Prezidentė                            �
 
 
  
+ 
 Lietuvos Respublikos 
-alternatyviųjų kolektyvinio investavimo 
-subjektų valdytojų įstatymo 
+alternatyviųjų kolektyvinio
+investavimo subjektų valdytojų įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
+1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2017/2402.
 
 
 
 
-2. 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010 (OL 2011 L 174, p. 1), su pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES (OL 2014 L 173, p. 349). 
+2. 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1160. 
 
 
 
 
-3. 2012 m. gruodžio 19 d. Komisijos deleguotasis reglamentas (ES) Nr. 231/2013, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2011/61/ES nuostatos dėl išimčių, bendrųjų veiklos sąlygų, depozitoriumų, finansinio sverto, skaidrumo ir priežiūros (OL 2013 L 83, p. 1).
+3. 2012 m. gruodžio 19 d. Komisijos deleguotasis reglamentas (ES) Nr. 231/2013, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2011/61/ES nuostatos dėl išimčių, bendrųjų veiklos sąlygų, depozitoriumų, finansinio sverto, skaidrumo ir priežiūros, su paskutiniais pakeitimais, padarytais 2018 m. liepos 12 d. Komisijos deleguotuoju reglamentu (ES) 2018/1618.
 
 
 
 
-4. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1).
+4. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156.
 
 
 
 
-5. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18).
+5. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156.
 
 
 
 
-6. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/14/ES, kuria iš dalies keičiamos Direktyva 2003/41/EB dėl įstaigų, atsakingų už profesinių pensijų skyrimą, veiklos ir priežiūros, Direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo ir Direktyva 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kiek tai susiję su per dideliu kliovimusi kredito reitingais (OL 2013 L 145, p. 1).
+6. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/14/ES, kuria iš dalies keičiamos Direktyva 2003/41/EB dėl įstaigų, atsakingų už profesinių pensijų skyrimą, veiklos ir priežiūros, Direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo ir Direktyva 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kiek tai susiję su per dideliu kliovimusi kredito reitingais, su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2341. 
 
 
 
 
-7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8).
+7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų su paskutiniais pakeitimais, padarytais 2018 m. balandžio 10 d. Komisijos deleguotuoju reglamentu (ES) 2018/990.
 
 
 
 
-8. 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1991, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų ir Reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2017 L 293, p. 1).
+8. 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1991, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų ir Reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų.
 
 
 
 
-9. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1156 dėl palankesnių sąlygų tarpvalstybiniu mastu platinti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas sudarymo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 345/2013, (ES) Nr.  346/2013 ir (ES) Nr. 1286/2014 (OL 2019 L 188, p. 55). 
-Papildyta straipsnio dalimi:
-Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+9. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1156 dėl palankesnių sąlygų tarpvalstybiniu mastu platinti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas sudarymo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 345/2013, (ES) Nr. 346/2013 ir (ES) Nr. 1286/2014.
+
+
+
+
+10. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
+
+
+Priedo pakeitimai:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
-
-
  
  
 Pakeitimai:
@@ -4445,3 +4804,8 @@ Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdyto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2958, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11329
 Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 6 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 3, 4, 14, 18, 22, 41, 43, 55, 56, 60, 61 straipsnių, priedo pakeitimo ir Įstatymo papildymo 39-1, 41-1 ir 43-1 straipsniais įstatymas
