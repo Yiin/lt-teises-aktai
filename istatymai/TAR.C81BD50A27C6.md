@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-10-01 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2022-02-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -2649,12 +2650,24 @@ Sveikatos priežiūros įstaigų teises nustato Sveikatos sistemos įstatymas, �
 
 
 
+41) ESPBI IS veiklą reguliuojančių teisės aktų nustatyta tvarka sudaryti sutartį dėl naudojimosi ESPBI IS ir ESPBI IS pildyti elektroninius dokumentus bei teikti jų duomenis į ESPBI IS; 
+TAR pastaba. 45. Straipsnio 1 dalies 4-1 punkto papildymas įsigalioja nuo 2022-09-01.
+Papildyta straipsnio punktu:
+Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
+ 
+
+
+
+
 5) užtikrinti lygias pacientų teises į teikiamas sveikatos priežiūros paslaugas;
 
 
 
 
-6) atlyginti teikiant paslaugas paciento sveikatai padarytą žalą;
+6) mokėti įmokas, reikalingas pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, į Vyriausybės įgaliotos institucijos administruojamą sąskaitą, kurioje kaupiamos asmens sveikatos priežiūros įstaigų įmokos pacientų sveikatai padarytai žalai atlyginti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
+ 
 
 
 
@@ -3875,3 +3888,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 19 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10, 11, 27, 29, 33 ir 39 straipsnių pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir 45 straipsnių pakeitimo įstatymas
