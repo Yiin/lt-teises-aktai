@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -1955,7 +1955,10 @@ Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 
 
-16. Kai reimportuojamos laikinai išvežtos už Europos Sąjungos teritorijos ribų remontuoti, perdirbti, pritaikyti ar panašioms operacijoms atlikti prekės, neatsižvelgiant į šio straipsnio 15 dalies nuostatas, jų apmokestinamąją vertę sudaro už Europos Sąjungos teritorijos ribų suteiktų atitinkamų paslaugų vertė, nustatyta vadovaujantis šio straipsnio nuostatomis.
+16. Kai reimportuojamos laikinai išvežtos už Europos Sąjungos teritorijos ribų remontuoti, perdirbti, pritaikyti ar panašioms operacijoms atlikti prekės, neatsižvelgiant į šio straipsnio 15 dalies nuostatas, jų apmokestinamąją vertę sudaro už Europos Sąjungos teritorijos ribų suteiktų atitinkamų paslaugų vertė, nustatyta vadovaujantis šio straipsnio nuostatomis. Iš šios apskaičiuotos vertės atimama paslaugų, kurios pagal šio Įstatymo 13 straipsnio arba kitos valstybės narės apmokestinimą PVM reglamentuojančių teisės aktų nuostatas laikomos suteiktomis šalies ar Europos Sąjungos teritorijoje, apmokestinamoji vertė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+ 
 
 
 
@@ -7814,6 +7817,14 @@ pridėtinės vertės mokesčio įstatymo
 
 
 
+51. 2009 m. spalio 19 d. Tarybos direktyva 2009/132/EB dėl Direktyvos 2006/112/EB 143 straipsnio b ir c punktų taikymo, neapmokestinant galutinio tam tikrų prekių importo pridėtinės vertės mokesčiu, su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 5 d. Tarybos direktyva (ES) 2017/2455.
+Papildyta punktu:
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+ 
+
+
+
+
 6. 2011 m. gegužės 30 d. Tarybos įgyvendinimo sprendimas 2011/335/ES, kuriuo leidžiama Lietuvos Respublikai taikyti priemonę, kuria nukrypstama nuo Tarybos direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos 287 straipsnio.
 
 
@@ -8191,3 +8202,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-429, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14645
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 4-1, 15, 40, 47 straipsnių ir 2 priedo pakeitimo įstatymas
