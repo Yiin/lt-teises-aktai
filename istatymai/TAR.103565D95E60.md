@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.103565D95E60"
 
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-13 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3248, i. k. 1061010ISTA000X-745
  
@@ -3118,7 +3118,10 @@ INFORMACIJOS ATSKLEIDIMAS
 
 
 
-3) tai, ar taikant investavimo metodą atsižvelgiama į aplinkos, klimato kaitos, socialinius ir organizacijos valdymo veiksnius ir kaip tai daroma, ir
+3) tai, ar taikant investavimo metodą atsižvelgiama į aplinkos, klimato kaitos, socialinius ir organizacijos valdymo veiksnius ir kaip tai daroma, bei tai, kaip įgyvendinamas Reglamentas (ES) 2019/2088, ir 
+Straipsnio punkto pakeitimai:
+Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
+ 
 
 
 
@@ -3288,7 +3291,18 @@ PENSIJŲ ASOCIACIJŲ VEIKLOS PRIEŽIŪRA
 
 
 
-4) atlieka kitas šiame ir kituose įstatymuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytas funkcijas.
+4) atlieka Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas funkcijas; 
+Papildyta straipsnio punktu:
+Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
+ 
+
+
+
+
+5) atlieka kitas šiame ir kituose įstatymuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
+ 
 
 
 
@@ -3562,7 +3576,10 @@ Priežiūros institucija taiko šias poveikio priemones:
 
 
 
-11) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai;
+11) pažeisti Reglamente (EB) Nr. 1060/2009 ar Reglamente (ES) 2019/2088 nustatyti reikalavimai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
+ 
 
 
 
@@ -3923,44 +3940,50 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
- 
-Lietuvos Respublikos 
-profesinių pensijų kaupimo 
-įstatymo
+Lietuvos Respublikos
+profesinių pensijų kaupimo įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1998 m. birželio 29 d. Tarybos direktyva 98/49/EB dėl pagal darbo sutartį dirbančių asmenų ir savarankiškai dirbančių asmenų, judančių Bendrijoje, teisių į papildomą pensiją išsaugojimo (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 323).
+1. 1998 m. birželio 29 d. Tarybos direktyva 98/49/EB dėl pagal darbo sutartį dirbančių asmenų ir savarankiškai dirbančių asmenų, judančių Bendrijoje, teisių į papildomą pensiją išsaugojimo.
 
 
 
 
-2. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (OL 2006 L 204, p. 23). 
+2. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo.
 
 
 
 
-3. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2008/94/EB dėl darbuotojų apsaugos jų darbdaviui tapus nemokiam (OL 2008 L 283, p. 36).
+3. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2008/94/EB dėl darbuotojų apsaugos jų darbdaviui tapus nemokiam su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1794.
 
 
 
 
-4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1). 
+4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/2402.
 
 
 
 
-5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/50/ES dėl būtiniausių reikalavimų darbuotojų judumui tarp valstybių narių didinti gerinant teisių į papildomą pensiją įgijimą ir išsaugojimą (OL 2014 L 128, p. 1).
+5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/50/ES dėl būtiniausių reikalavimų darbuotojų judumui tarp valstybių narių didinti gerinant teisių į papildomą pensiją įgijimą ir išsaugojimą.
 
 
 
 
-6. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2341 dėl profesinių pensijų įstaigų (PPĮ) veiklos ir priežiūros (OL 2016 L 354, p. 37).
+6. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2341 dėl profesinių pensijų įstaigų (PPĮ) veiklos ir priežiūros.
 
 
+
+
+7. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
+
+
+Priedo pakeitimai:
+Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
+ 
 
 
 
@@ -4041,3 +4064,8 @@ Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 5, 7, 5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1852, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00017
 Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 56, 59, 63 straipsnių ir priedo pakeitimo įstatymas
