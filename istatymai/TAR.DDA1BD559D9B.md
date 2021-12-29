@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2020-04-30 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
  
@@ -2745,7 +2745,18 @@ Priežiūros institucija atlieka šias funkcijas:
 
 
 
-4) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas. 
+4) atlieka Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas funkcijas; 
+Papildyta straipsnio punktu:
+Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
+ 
+
+
+
+
+5) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
+ 
 
 
 
@@ -2942,7 +2953,10 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
-7) pažeidžiami Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai;
+7) pažeidžiami Reglamente (ES) Nr. 1286/2014 ir Reglamente (ES) 2019/2088 nustatyti reikalavimai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
+ 
 
 
 
@@ -3103,8 +3117,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos
-papildomo savanoriško
+Lietuvos Respublikos 
+papildomo savanoriško 
 pensijų kaupimo įstatymo
 priedas
  
@@ -3112,11 +3126,17 @@ priedas
  
 
 
-1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55).
+1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156.
+
+
+
+
+2. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 
 
 Priedo pakeitimai:
 Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
+Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
  
 
 
@@ -3227,3 +3247,8 @@ Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2855, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08969
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 57, 58-2 straipsnių ir priedo pakeitimo įstatymas
