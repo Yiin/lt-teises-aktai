@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/49b1ec5050b211eb9dc7b575f08e8bea"
 
 # Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2021-12-31
+ 
+Įstatymas paskelbtas: TAR 2021-01-07, i. k. 2021-00255
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS KONTROLĖS ĮSTATYMO NR. I-907 PAKEITIMO
 ĮSTATYMAS
@@ -1430,7 +1437,7 @@ Valstybinio audito ataskaitos ir išvados, valstybinio audito rekomendacijų įg
 
 
 
-2. 2022 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės kontrolės įstatymo 2 straipsnio 3 dalies redakcija:
+2. 2023 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės kontrolės įstatymo 2 straipsnio 3 dalies redakcija:
 
 
 
@@ -1444,12 +1451,12 @@ Valstybinio audito ataskaitos ir išvados, valstybinio audito rekomendacijų įg
 
 
 
-3. 2022 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Valstybės kontrolės įstatymo 8 straipsnio 2 dalies redakcija:
+3. 2023 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Valstybės kontrolės įstatymo 8 straipsnio 2 dalies redakcija:
 
 
 
 
-„2. Valstybės kontrolė, kaip aukščiausioji audito institucija, kiekvienais metais atlieka šioje dalyje nurodytų metinių ataskaitų rinkinių auditus ir teikia Seimui ir šiuos ataskaitų rinkinius parengusiems viešojo sektoriaus subjektams valstybinio audito išvadas ir valstybinio audito ataskaitas, t. y. dėl: 
+„2. Valstybės kontrolė, kaip aukščiausioji audito institucija, kiekvienais metais atlieka šioje dalyje nurodytų metinių ataskaitų rinkinių auditus ir teikia Seimui ir šiuos ataskaitų rinkinius parengusiems viešojo sektoriaus subjektams valstybinio audito išvadas ir valstybinio audito ataskaitas, t. y. dėl:
 
 
 1) valstybės metinių ataskaitų rinkinio;
@@ -1462,12 +1469,12 @@ Valstybinio audito ataskaitos ir išvados, valstybinio audito rekomendacijų įg
 
 
 
-3) Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio; 
+3) Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio;
 
 
 
 
-4) Pensijų anuitetų fondo metinių ataskaitų rinkinio; 
+4) Pensijų anuitetų fondo metinių ataskaitų rinkinio;
 
 
 
@@ -1483,7 +1490,7 @@ Valstybinio audito ataskaitos ir išvados, valstybinio audito rekomendacijų įg
 
 
 
-4. 2022 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Valstybės kontrolės įstatymo 9 straipsnio 1 dalies 7 punkto redakcija:
+4. 2023 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Valstybės kontrolės įstatymo 9 straipsnio 1 dalies 7 punkto redakcija:
 
 
 
@@ -1497,7 +1504,7 @@ Valstybinio audito ataskaitos ir išvados, valstybinio audito rekomendacijų įg
 
 
 
-5. 2022 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Valstybės kontrolės įstatymo 14 straipsnio 1 dalies redakcija:
+5. 2023 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Valstybės kontrolės įstatymo 14 straipsnio 1 dalies redakcija:
 
 
 
@@ -1511,10 +1518,12 @@ Valstybinio audito ataskaitos ir išvados, valstybinio audito rekomendacijų įg
 
 
 
-6. Valstybės kontrolierius iki 2021 m. birželio 30 d. priima šio įstatymo įgyvenamuosius teisės aktus.
+6. Valstybės kontrolierius iki 2021 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
  
-
-
 
 
 
@@ -1560,3 +1569,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 pakeitimo įstatymo Nr. XIV-135 2 straipsnio pakeitimo įstatymas
