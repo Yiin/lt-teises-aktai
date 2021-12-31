@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-30
+Suvestinė redakcija nuo 2021-12-31 iki 2022-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -107,11 +107,12 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 2,5 tūkstančio eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Jeigu uždarosios akcinės bendrovės siūlomos akcijos ar jų siūlymas atitinka bent vieną iš Vertybinių popierių įstatyme ir (arba) 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12), nustatytų sąlygų, kai vertybinius popierius viešai siūlant nereikalaujama paskelbti prospekto, akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka Finansinių priemonių rinkų įstatyme nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme nustatytus kriterijus, nėra laikomas vertybinių popierių viešu siūlymu. 
+4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 2,5 tūkstančio eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Jeigu uždarosios akcinės bendrovės siūlomos akcijos ar jų siūlymas atitinka bent vieną iš Vertybinių popierių įstatyme ir (arba) 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su visais pakeitimais nustatytų sąlygų, kai vertybinius popierius viešai siūlant nereikalaujama paskelbti prospekto, akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka Finansinių priemonių rinkų įstatyme nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme nustatytus kriterijus, nėra laikomas vertybinių popierių viešu siūlymu.
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
+Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
  
 
 
@@ -7729,3 +7730,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 7 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-241, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08845
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 41-1 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 55 ir 78 straipsnių pakeitimo įstatymas
