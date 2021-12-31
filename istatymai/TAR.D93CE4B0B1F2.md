@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d93ce4b0b1f211eab9d9cd0c85e0b745"
 
 # Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2021-12-31
+ 
+Įstatymas paskelbtas: TAR 2020-06-19, i. k. 2020-13469
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS SKOLOS ĮSTATYMO NR. I-1508 PAKEITIMO
 ĮSTATYMAS
@@ -819,25 +826,27 @@ VALSTYBĖS SKOLOS
 2 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 
-1. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės skolos įstatymo 11 straipsnio 2 dalis įsigalioja 2022 m. sausio 1 d.
+1. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės skolos įstatymo 11 straipsnio 2 dalis įsigalioja 2023 m. sausio 1 d.
 
 
 
 
-2. Šio įstatymo 1 straipsnyje išdėstyto Valstybės skolos įstatymo 11 straipsnio 2 dalies nuostatos taikomos rengiant 2022 metų ir vėliau prasidedančių ataskaitinių laikotarpių metinių nacionalinių finansinių ataskaitų rinkinius.
+2. Šio įstatymo 1 straipsnyje išdėstyto Valstybės skolos įstatymo 11 straipsnio 2 dalies nuostatos taikomos rengiant 2023 metų ir vėliau prasidedančių ataskaitinių laikotarpių metinių nacionalinių finansinių ataskaitų rinkinius.
 
 
 
 
-3. Ataskaitų rinkiniams, rengiamiems už iki 2022 metų prasidedančius ataskaitinius laikotarpius, taikomos šio įstatymo 1 straipsnyje išdėstyto Valstybės skolos įstatymo 11 straipsnio 1 dalies nuostatos.
+3. Ataskaitų rinkiniams, rengiamiems už iki 2023 metų prasidedančius ataskaitinius laikotarpius, taikomos šio įstatymo 1 straipsnyje išdėstyto Valstybės skolos įstatymo 11 straipsnio 1 dalies nuostatos.
 
 
 
 
-4. Šio įstatymo 1 straipsnyje išdėstyto Valstybės skolos įstatymo 11 straipsnio 1 dalis galioja iki 2021 m. gruodžio 31 d.
+4. Šio įstatymo 1 straipsnyje išdėstyto Valstybės skolos įstatymo 11 straipsnio 1 dalis galioja iki 2022 m. gruodžio 31 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-845, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27744
  
-
-
 
 
 
@@ -846,3 +855,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-845, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27744
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymo Nr. XIII-3031 2 straipsnio pakeitimo įstatymas
