@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-08-12 iki 2021-12-30
+Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -397,6 +397,14 @@ Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
  
 
 
+
+
+40. Lietuvos kariuomenės veteranas – Lietuvos Respublikos pilietis profesinės karo tarnybos karys, atliekantis nuolatinę karo tarnybą kariuomenėje, karys savanoris ar kitas savanoriškos nenuolatinės karo tarnybos karys, atliekantis krašto apsaugos savanorių karo tarnybą, ištarnavęs Lietuvos kariuomenėje ne mažiau kaip 20 metų arba nepertraukiamai ne mažiau kaip 30 dienų dalyvavęs tarptautinėse operacijose ar specialiosiose misijose, arba garbingai atlikdamas tarnybą paleistas iš karo tarnybos dėl sveikatos sutrikimo, kuris atsirado dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, ar dėl priežasčių, susijusių su kario statusu, arba Sovietų Socialistinių Respublikų Sąjungos (toliau – SSRS) karinės agresijos laikotarpiu, 1991 m. sausio 11 d. – rugpjūčio 21 d., tarnaudamas krašto apsaugos sistemoje gynęs Lietuvos laisvę ir nepriklausomybę ir krašto apsaugos sistemoje tarnavęs iki 1993 m. rugpjūčio 31 d., iki Rusijos kariuomenės išvedimo iš Lietuvos Respublikos teritorijos.
+Papildyta straipsnio dalimi:
+Nr. XIV-670, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24297
+ 
+
+
 Straipsnio pakeitimai:
 Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. IX-1359, 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
@@ -405,7 +413,7 @@ Nr. IX-2560, 2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
 Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 Nr. X-1558, 2008-05-22, Žin., 2008, Nr. 65-2457 (2008-06-07)
 Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
-Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)                     
+Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
  
@@ -1138,9 +1146,18 @@ Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
 
 
 
-22) vykdo kitus įstatymų, Vyriausybės ir Ministro Pirmininko jam suteiktus įgaliojimus.
+22) suteikia Lietuvos Respublikos piliečiui profesinės karo tarnybos kariui, kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui Lietuvos kariuomenės veterano vardą pagal nustatytą Lietuvos kariuomenės veterano vardo suteikimo tvarką ir patvirtintus Lietuvos kariuomenės veterano vardo suteikimo nuostatus. Lietuvos kariuomenės veterano vardo netenkama teismo sprendimu; 
+Papildyta straipsnio punktu:
+Nr. XIV-670, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24297
+ 
+
+
+
+
+23) vykdo kitus įstatymų, Vyriausybės ir Ministro Pirmininko jam suteiktus įgaliojimus.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+Nr. XIV-670, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24297
  
 
 
@@ -2415,6 +2432,14 @@ Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
 9. Karys privalo laikytis karių etikos kodekso reikalavimų. Šį kodeksą tvirtina krašto apsaugos ministras kariuomenės vado teikimu.
 
 
+
+
+10. Lietuvos Respublikos piliečiui profesinės karo tarnybos kariui, ištarnavusiam Lietuvos kariuomenėje ne mažiau kaip 20 metų arba nepertraukiamai ne mažiau kaip 30 dienų dalyvavusiam tarptautinėse operacijose ar specialiosiose misijose, arba garbingai atliekant tarnybą paleistam iš karo tarnybos dėl sveikatos sutrikimo, kuris atsirado dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, ar dėl priežasčių, susijusių su kario statusu, arba SSRS karinės agresijos laikotarpiu, 1991 m. sausio 11 d. – rugpjūčio 21 d., tarnaujant krašto apsaugos sistemoje gynusiam Lietuvos laisvę ir nepriklausomybę ir tarnavusiam iki 1993 m. rugpjūčio 31 d., iki Rusijos kariuomenės išvedimo iš Lietuvos Respublikos teritorijos, vadovaujantis krašto apsaugos ministro patvirtintais Lietuvos kariuomenės veterano vardo suteikimo nuostatais suteikiamas Lietuvos kariuomenės veterano vardas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-670, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24297
+ 
+
+
 Straipsnio pakeitimai:
 Nr. VIII-1668, 00.05.09, Žin., 2000, Nr.42-1194 (00.05.24)
 Nr. IX-2560, 2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
@@ -2445,6 +2470,14 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 4. Kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui, pavyzdingai ištarnavusiam ne mažiau kaip 10 metų arba ypač pasižymėjusiam vykdant tarnybos užduotis, gali būti suteiktas Garbės savanorio ar Savanoriškos nenuolatinės karo tarnybos garbės kario vardas. Garbės savanorio ar Savanoriškos nenuolatinės karo tarnybos garbės kario vardo suteikimo ir Garbės ženklo nuostatus tvirtina krašto apsaugos ministras. 
+
+
+
+
+5. Lietuvos Respublikos piliečiui kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui, atliekančiam krašto apsaugos savanorių karo tarnybą, ištarnavusiam Lietuvos kariuomenėje ne mažiau kaip 20 metų arba nepertraukiamai ne mažiau kaip 30 dienų dalyvavusiam tarptautinėse operacijose ar specialiosiose misijose, arba garbingai atliekant tarnybą paleistam iš karo tarnybos dėl sveikatos sutrikimo, kuris atsirado dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, ar dėl priežasčių, susijusių su kario statusu, arba SSRS karinės agresijos laikotarpiu, 1991 m. sausio 11 d. – rugpjūčio 21 d., tarnaujant krašto apsaugos sistemoje gynusiam Lietuvos laisvę ir nepriklausomybę ir tarnavusiam iki 1993 m. rugpjūčio 31 d., iki Rusijos kariuomenės išvedimo iš Lietuvos Respublikos teritorijos, vadovaujantis krašto apsaugos ministro patvirtintais Lietuvos kariuomenės veterano vardo suteikimo nuostatais suteikiamas Lietuvos kariuomenės veterano vardas.
+Papildyta straipsnio dalimi:
+Nr. XIV-670, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24297
+ 
 
 
 Straipsnio pakeitimai:
@@ -4219,7 +4252,7 @@ Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 
 3. Nustatomi šie karių laipsniai:
-Sausumos, specialiųjų operacijų                                             Karinių jūrų pajėgų karių
+Sausumos, specialiųjų operacijų                                           Karinių jūrų pajėgų karių
 ir karinių oro pajėgų karių
  
 
@@ -6735,3 +6768,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-512, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17356
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 18 straipsnio pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-670, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24297
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 10, 21 ir 22 straipsnių pakeitimo įstatymas
