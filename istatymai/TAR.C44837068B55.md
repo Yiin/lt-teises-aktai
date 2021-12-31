@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2021-10-09 iki 2021-12-30
+Suvestinė redakcija nuo 2021-12-31 iki 2022-01-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -1541,9 +1541,10 @@ Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
 
 
 
-5) prieš pradedant naudotis finansų įstaigos ar kito įpareigotojo subjekto paslaugomis, į jo mokėjimo sąskaitą iš kliento vardu kredito įstaigoje, kuri yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi, turimos sąskaitos atliekamas mokėjimo pavedimas ir pateikiama Lietuvos Respublikos teisės aktų nustatyta tvarka patvirtinta popierinė tapatybę patvirtinančio dokumento kopija. Tapatybę patvirtinančio dokumento kopijos tvirtinimo ir pateikimo tvarką nustato Finansinių nusikaltimų tyrimo tarnyba. 
+5) prieš pradedant naudotis finansų įstaigos ar kito įpareigotojo subjekto paslaugomis, į jo mokėjimo sąskaitą iš kliento vardu kredito, mokėjimo ar elektroninių pinigų įstaigoje, kuri yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi, turimos sąskaitos atliekamas mokėjimo pavedimas ir pateikiama Lietuvos Respublikos teisės aktų nustatyta tvarka patvirtinta popierinė tapatybę patvirtinančio dokumento kopija. Tapatybę patvirtinančio dokumento kopijos tvirtinimo ir pateikimo tvarką nustato Finansinių nusikaltimų tyrimo tarnyba.
 Straipsnio punkto pakeitimai:
 Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
  
 
 
@@ -1907,9 +1908,10 @@ Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
 
 
 
-7) užtikrinti, kad tada, kai klientui atidaroma sąskaita, pirmasis kliento mokėjimas būtų atliekamas iš kredito įstaigoje turimos to kliento sąskaitos, kai kredito įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi.
+7) užtikrinti, kad tada, kai klientui atidaroma sąskaita, pirmasis kliento mokėjimas būtų atliekamas iš kredito, mokėjimo ar elektroninių pinigų įstaigoje turimos to kliento sąskaitos, kai kredito, mokėjimo ar elektroninių pinigų įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi.
 Straipsnio punkto pakeitimai:
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
  
 
 
@@ -2197,7 +2199,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-10) indėlių, priimamų iš fizinių asmenų, atvejais, kai bendrai per kalendorinius metus priimamų indėlių vertei taikoma 30 000 eurų arba ją atitinkančios sumos užsienio valiuta riba ir sukaupta indėlio, palūkanų ar kita mokėtina suma yra grąžinama tik į kliento kredito įstaigoje turimą sąskaitą, iš kurios buvo pervedamos lėšos indėliui laikyti, kaip nurodyta šio straipsnio 2 dalies 2 punkte. 
+10) indėlių, priimamų iš fizinių asmenų, atvejais, kai bendrai per kalendorinius metus priimamų indėlių vertei taikoma 30 000 eurų arba ją atitinkančios sumos užsienio valiuta riba ir sukaupta indėlio, palūkanų ar kita mokėtina suma yra grąžinama tik į kliento kredito, mokėjimo ar elektroninių pinigų įstaigoje turimą sąskaitą, iš kurios buvo pervedamos lėšos indėliui laikyti, kaip nurodyta šio straipsnio 2 dalies 2 punkte;
+Straipsnio punkto pakeitimai:
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+ 
 
 
 
@@ -2212,7 +2217,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2) užtikrinti, kad pirmasis kliento mokėjimas būtų atliekamas iš kredito įstaigoje turimos sąskaitos, kai kredito įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi. 
+2) užtikrinti, kad pirmasis kliento mokėjimas būtų atliekamas iš kredito, mokėjimo ar elektroninių pinigų įstaigoje turimos sąskaitos, kai kredito, mokėjimo ar elektroninių pinigų įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi.
+Straipsnio punkto pakeitimai:
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3675,7 +3683,10 @@ d) vidaus kontrolės procedūrų reikalavimus, nurodytus šio įstatymo 29 strai
 
 
 
-5) laikinas teisės finansų įstaigoms ir kitiems įpareigotiesiems subjektams disponuoti lėšomis, esančiomis sąskaitose kredito įstaigose, ir (ar) kitu turtu apribojimas;
+5) laikinas teisės finansų įstaigoms ir kitiems įpareigotiesiems subjektams disponuoti lėšomis, esančiomis sąskaitose kredito, mokėjimo ar elektroninių pinigų įstaigose, ir (ar) kitu turtu apribojimas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+ 
 
 
 
@@ -4566,3 +4577,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 5, 24, 48, 51 straipsnių ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, 36 straipsnių pakeitimo įstatymas
