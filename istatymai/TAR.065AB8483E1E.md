@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-30
+Suvestinė redakcija nuo 2021-12-31 iki 2022-04-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -426,7 +426,65 @@ BENDROSIOS NUOSTATOS
 
 
 
-74. Viešasis asmuo – valstybės politikas, teisėjas, valstybės ar savivaldybės pareigūnas, politinės partijos ir (ar) asociacijos vadovas, kuris dėl einamų pareigų arba savo darbo pobūdžio nuolat dalyvauja valstybinėje ar visuomeninėje veikloje, arba kitas fizinis asmuo, jeigu jis turi viešojo administravimo įgaliojimus ar administruoja viešųjų paslaugų teikimą arba jeigu jo nuolatinė veikla turi reikšmės viešiesiems reikalams.
+74. Viešasis asmuo yra:
+
+
+1) valstybės politikas;
+
+
+
+
+2) teisėjas;
+
+
+
+
+3) valstybės ar savivaldybės pareigūnas, valstybės tarnautojas, asmuo, valstybės ar savivaldybės institucijoje ar įstaigoje dirbantis pagal darbo sutartį, jeigu jo priimami sprendimai ar veikla daro įtaką visuomenei, taip pat šiose institucijose ar įstaigose sudarytų darbo grupių, komitetų, komisijų, tarybų ir kitų kolegialių institucijų narys;
+
+
+
+
+4) valstybės ar savivaldybės kontroliuojamos įmonės ar įstaigos vadovas arba valdymo organo narys;
+
+
+
+
+5) politinės partijos valdymo organo arba rinkimų komiteto narys;
+
+
+
+
+6) kandidatas rinkimuose (viešojo asmens statusas išlaikomas ir po rinkimų laikotarpiu, kuris yra lygus vienai kadencijai tos institucijos, į kurią asmuo kandidatavo);
+
+
+
+
+7) juridinio asmens, kuris sudaro viešųjų pirkimų sutartis ir (arba) vykdo viešųjų pirkimų sutartis subrangovo teisėmis, vadovas arba dalyvis, turintis 1/4 ar daugiau balsų dalyvių susirinkime;
+
+
+
+
+8) lobistas arba asmuo, kuris veikia lobistinę veiklą vykdančių juridinių asmenų vardu;
+
+
+
+
+9) asociacijos arba viešosios įstaigos, kurios per pastaruosius 4 metus yra gavusios valstybės ir (arba) savivaldybių finansavimą, vadovas arba dalyvis, turintis 1/4 ar daugiau balsų dalyvių susirinkime;
+
+
+
+
+10) visuomenėje žinomas fizinis asmuo, populiarus socialinių tinklų veikėjas arba tinklaraštininkas, formuojantys tikslinių visuomenės grupių nuomonę įvairiais klausimais ir (arba) už šią veiklą gaunantys pajamas, jeigu jų veikla turi reikšmės viešiesiems reikalams; 
+
+
+
+
+11) kitas fizinis asmuo, turintis viešojo administravimo įgaliojimus ir (arba) administruojantis viešųjų paslaugų teikimą, ir (arba) dėl savo veiksmų ar padėties patekęs į viešumą, jeigu jo veikla turi reikšmės viešiesiems reikalams.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-867, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27774
+ 
 
 
 
@@ -5183,3 +5241,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-240, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08842
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 ir 6 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-867, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27774
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 straipsnio pakeitimo įstatymas
