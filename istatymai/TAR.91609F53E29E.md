@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-30
+Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -34,7 +34,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas apibrėžia socialinių paslaugų sampratą, tikslus ir rūšis, reglamentuoja socialinių paslaugų valdymą, skyrimą ir teikimą, socialinės globos įstaigų licencijavimą, finansavimą, mokėjimą už socialines paslaugas bei ginčų, susijusių su socialinėmis paslaugomis, nagrinėjimą.
+1. Šis įstatymas apibrėžia socialinių paslaugų sampratą, jų tikslus ir rūšis, reglamentuoja socialinių paslaugų valdymą, skyrimą ir teikimą, socialinės globos įstaigų licencijavimą, finansavimą, mokėjimą už socialines paslaugas, ginčų, susijusių su socialinėmis paslaugomis, nagrinėjimą, socialinio darbo sampratą, jo įgyvendinimo sritis ir principus, socialinio darbo lygmenis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -52,22 +55,25 @@ Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Asmuo su sunkia negalia: 
+1. Asmuo su sunkia negalia:
 
 
-1) vaikas su sunkia negalia – asmuo, kuriam pagal šį įstatymą nustatytas visiško nesavarankiškumo lygis ir pagal Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymą (toliau – Neįgaliųjų socialinės integracijos įstatymas) pripažintas sunkaus neįgalumo lygis;
-
-
-
-
-2) suaugęs asmuo su sunkia negalia – asmuo, kuriam pagal šį įstatymą nustatytas visiško nesavarankiškumo lygis ir kuris pagal Neįgaliųjų socialinės integracijos įstatymą yra pripažintas nedarbingu;
+1) vaikas su sunkia negalia – vaikas, kuriam pagal šį įstatymą nustatytas visiško nesavarankiškumo lygis ir kuriam pagal Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymą nustatytas sunkus neįgalumo lygis;
 
 
 
 
-3) senatvės pensijos amžių sukakęs asmuo su sunkia negalia – sukakęs senatvės pensijos amžių asmuo, kuriam pagal šį įstatymą nustatytas visiško nesavarankiškumo lygis. 
+2) suaugęs asmuo su sunkia negalia – asmuo, kuriam pagal šį įstatymą nustatytas visiško nesavarankiškumo lygis ir kuriam pagal Neįgaliųjų socialinės integracijos įstatymą nustatytas 0–25 procentų darbingumo lygis;
 
 
+
+
+3) senatvės pensijos amžių sukakęs asmuo su sunkia negalia – sukakęs senatvės pensijos amžių asmuo, kuriam pagal šį įstatymą nustatytas visiško nesavarankiškumo lygis.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -113,7 +119,18 @@ Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
 
 
 
-9. Socialinės globos norma – Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos patvirtinti socialinės globos teikimo vaikams, suaugusiems asmenims su negalia, senyvo amžiaus asmenims, socialinę riziką patiriantiems suaugusiems asmenims principai ir charakteristikos. 
+9. Socialinės globos normos – Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtinti socialinės globos teikimo vaikams, vaikams su negalia, suaugusiems asmenims su negalia, senyvo amžiaus asmenims, socialinę riziką patiriantiems suaugusiems asmenims principai ir charakteristikos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
+91. Socialinis darbuotojas – šio įstatymo 20 straipsnio 6 dalyje nustatytus reikalavimus atitinkantis asmuo, dirbantis socialinį darbą ir profesinę veiklą grindžiantis šio įstatymo 20 straipsnio 4 dalyje nustatytais socialinio darbo įgyvendinimo principais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -123,12 +140,18 @@ Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
 
 
 
-11. Suaugęs asmuo su negalia – darbingo amžiaus asmuo, kuris dėl neįgalumo yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+11. Suaugęs asmuo su negalia – asmuo, kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 55 procentų ar mažesnis darbingumo lygis arba specialiųjų poreikių lygis ir kuris dėl neįgalumo yra iš dalies ar visiškai netekęs gebėjimų savarankiškai rūpintis asmeniniu (šeimos) gyvenimu, dalyvauti visuomenės gyvenime.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
 
-12. Vaikas su negalia – vaikas iki 18 metų, kuris dėl neįgalumo yra iš dalies ar visiškai neįgijęs jo amžių atitinkančio savarankiškumo ir kurio galimybės ugdytis bei dalyvauti visuomenės gyvenime yra ribotos. 
+12. Vaikas su negalia – vaikas, kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas neįgalumo lygis ir kuris dėl neįgalumo yra iš dalies ar visiškai neįgijęs amžių atitinkančio savarankiškumo, ir kurio galimybės ugdytis ir dalyvauti visuomenės gyvenime yra ribotos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -215,7 +238,38 @@ Socialinės paslaugos valdomos, skiriamos ir teikiamos vadovaujantis šiais prin
 
 
 
-8) visapusiškumo. Socialinės paslaugos valdomos, skiriamos ir teikiamos derinant jas su pinigine socialine parama, vaiko teisių apsauga, užimtumu, sveikatos priežiūra, švietimu ir ugdymu, socialinio būsto suteikimu, specialiosios pagalbos priemonėmis. 
+8) visapusiškumo. Socialinės paslaugos valdomos, skiriamos ir teikiamos derinant jas su pinigine socialine parama, vaiko teisių apsauga, užimtumu, sveikatos priežiūra, švietimu ir ugdymu, socialinio būsto suteikimu, specialiosios pagalbos priemonėmis;
+
+
+
+
+9) įgalinimo. Teikiant socialines paslaugas, dirbama su asmeniu (šeima) ir jo aplinka, siekiant skatinti asmens (šeimos) iniciatyvumą, priimant sprendimus ir sąmoningai prisiimant už juos atsakomybę; 
+Papildyta straipsnio punktu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
+10) subsidiarumo. Valdant, skiriant ir teikiant socialines paslaugas, laikomasi subsidiarumo principo, kuriuo vadovaujantis pagalba organizuojama taip, kad valstybės ir (ar) savivaldybių institucijų rūpestis būtų nukreiptas į įgalinančios aplinkos kūrimą socialinių paslaugų teikėjų ir asmenų, šeimų, bendruomenių visaverčiam funkcionavimui, gerbiant, skatinant ir padedant išlaikyti asmens, šeimos, bendruomenės orumą, iniciatyvą ir solidarumą, neperimant atsakomybių ir užduočių, kurias gali atlikti pats asmuo, pati šeima, pati bendruomenė; 
+Papildyta straipsnio punktu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
+11) asmens garbės ir orumo apsaugos. Socialinių paslaugų srities darbuotojas gerbia kiekvieno asmens (kiekvienos šeimos) teisę į laisvą apsisprendimą dėl socialinių paslaugų asmeniui (šeimai), pripažįsta visus asmenis (visas šeimas), kuriems (kurioms) reikia jo pagalbos, nepaisydamas lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos ir kt.; 
+Papildyta straipsnio punktu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
+12) partnerystės. Savivaldybių institucijos, organizuodamos socialines paslaugas, įtraukia savivaldybės teritorijoje veikiančius socialinių paslaugų teikėjus į socialinių paslaugų planavimą, teikimą ir stebėseną.
+Papildyta straipsnio punktu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -860,13 +914,14 @@ Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 
 
 
-9. Vaikus globojančiai šeimai, globėjams (rūpintojams), budintiems globotojams, įtėviams ir šeimynų dalyviams ar besirengiantiems jais tapti asmenims kiekvienoje savivaldybėje nuolat teikiama Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos atestuotų asmenų ir kitų specialistų pagalba, užtikrinanti jų prižiūrimų, globojamų (rūpinamų) ar įvaikintų vaikų visapusį vystymąsi ir ugdymą.
+9. Vaikus globojančiai šeimai, globėjams (rūpintojams), budintiems globotojams, įtėviams (esant įtėvių prašymui) ir šeimynų dalyviams ar besirengiantiems jais tapti asmenims kiekvienoje savivaldybėje nuolat teikiama Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos atestuotų asmenų ir kitų specialistų pagalba, užtikrinanti visapusį jų prižiūrimų, globojamų (rūpinamų) ar įvaikintų vaikų vystymąsi ir ugdymą.
 Papildyta straipsnio dalimi:
 Nr. XII-2193, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20220
 Straipsnio dalies pakeitimai:
 Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 Nr. XIII-1292, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10596
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -1210,74 +1265,172 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 20 straipsnis. Socialinis darbas
 
 
-1. Socialinis darbas yra profesinė veikla, kuri įgalina žmones, šeimas, bendruomenes ir visuomenę spręsti tarpusavio santykių ir socialines problemas, skatindama socialinę kaitą, gerindama gyvenimo kokybę ir stiprindama solidarumą bei socialinį teisingumą. 
+1. Socialinį darbą dirba socialiniai darbuotojai. Socialinis darbas yra į praktinę veiklą orientuota profesinė veikla, įgalinanti asmenis, šeimas, asmenų (šeimų) grupes ir bendruomenes spręsti tarpusavio santykių, socialines problemas ir (ar) išvengti galimų socialinių problemų ateityje, skatinanti socialinę kaitą, gerinanti gyvenimo kokybę, užtikrinanti žmogaus teises, didinanti socialinę įtrauktį ir stiprinanti solidarumą bei socialinį teisingumą.
 
 
 
 
-2. Socialinį darbą dirba socialiniai darbuotojai. 
+2. Socialinio darbo lygmenys:
+
+
+1) mikrolygmuo – socialinis darbas orientuotas į asmenis ir (ar) šeimas. Tai yra asmenų ir (ar) šeimų psichosocialinis konsultavimas, tarpininkavimas, atvejo vadyba ir kita asmeniui (šeimai) būtina pagalba;
 
 
 
 
-3. Dirbti socialiniu darbuotoju turi teisę:
+2) mezolygmuo – socialinis darbas orientuotas į mažas asmenų (šeimų) grupes, institucijas ir (ar) organizacijas, veiklą vykdančias socialinio darbo įgyvendinimo srityse. Tai yra socialinių paslaugų organizavimas, koordinavimas ir teikimas asmenims (šeimoms) ir (ar) jų grupėms;
+
+
+
+
+3) makrolygmuo – socialinis darbas orientuotas į bendruomenės socialinius pokyčius, veikla vykdoma bendruomenėje įvairiose socialinio darbo įgyvendinimo srityse, socialiniams darbuotojams dalyvaujant socialinės politikos įgyvendinimo procesuose. Tai yra bendruomenės veiklos planavimas, organizavimas, bendruomeniškumo plėtra ir kt.
+
+
+
+
+
+
+3. Socialinio darbo įgyvendinimo sritys:
+
+
+1) socialinė apsauga – socialinis darbuotojas, veikdamas socialinės apsaugos srityje, dirba socialinį darbą: teikia socialines paslaugas ir kitą reikalingą pagalbą asmenims, šeimoms, asmenų (šeimų) grupėms, patiriančioms socialinių iššūkių, įgalindamas asmenis, šeimas, asmenų (šeimų) grupes išvengti galimų socialinių problemų ir (ar) socialinės rizikos atsiradimo ir (ar) spręsti socialines problemas, palaikyti socialinius ryšius su visuomene, kurdamas tvirtą, abipusiu pasitikėjimu grindžiamą ryšį; 
+
+
+
+
+2) sveikatos priežiūra – socialinis darbuotojas, veikdamas sveikatos priežiūros specialistų komandoje, dirba socialinį darbą, siekdamas įgalinti pacientą ir jo šeimą spręsti dėl ligos ir (ar) negalios atsiradusias psichosocialines problemas, užtikrindamas į pacientą orientuotų paslaugų teikimą ir jo tęstinumą bendruomenėje;
+
+
+
+
+3) švietimas – socialinis darbuotojas, veikdamas švietimo srityje, dirba socialinį darbą, siekdamas įgalinti sunkumų formaliojo švietimo sistemoje patiriančius asmenis ir (ar) mokykloje nesimokančius vaikus. Veikdamas neformaliojo švietimo srityje, socialinis darbuotojas konsultuoja asmenis, šeimas, asmenų (šeimų) grupes, ugdo asmenų (šeimų) socialines ir emocines kompetencijas bei gyvenimo įgūdžius ir (ar) įtraukia juos (jas) į neformaliojo švietimo veiklas, telkia asmens (šeimos) ir bendruomenės išteklius, siekdamas užtikrinti sėkmingą jų socializaciją;
+
+
+
+
+4) teisėtvarka – socialinis darbuotojas, veikdamas teisėtvarkos srityje, dirba socialinį darbą su įtariamuoju, kaltinamuoju, nuteistuoju ir (ar) nukentėjusiuoju pripažintu asmeniu ir (ar) siekia jų socialinės integracijos ir resocializacijos;
+
+
+
+
+5) užimtumas – socialinis darbuotojas, veikdamas užimtumo srityje, siekia asmens užimtumo ir socialinės įtraukties didinimo;
+
+
+
+
+6) krašto apsauga – socialinis darbuotojas, veikdamas krašto apsaugos srityje, organizuoja socialinių paslaugų teikimą krašto apsaugos sistemoje tarnaujantiems (dirbantiems) asmenims, atsargos ir dimisijos kariams, taip pat krašto apsaugos sistemoje tarnaujančių (dirbančių) asmenų, atsargos ir dimisijos karių artimiesiems, giminaičiams, kaip jie apibrėžti Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68 straipsnio 7 dalyje, siekdamas padėti asmeniui spręsti socialines problemas ir (ar) jų išvengti ateityje.
+
+
+
+
+
+
+4. Socialinis darbuotojas profesinėje veikloje vadovaujasi šio įstatymo 4 straipsnio 11 punkte nurodytu principu ir šiais socialinio darbo įgyvendinimo principais:
+
+
+1) sąžiningumo – socialinis darbuotojas veikia sąžiningai, patikimai, empatiškai, pirmenybę teikdamas geriausiems asmens (šeimos) interesams;
+
+
+
+
+2) bendradarbiavimo – socialinis darbuotojas siekia kurti, palaikyti ir stiprinti santykius tarp asmenų, šeimų, bendruomenių ir santykius visuomenėje, kurdamas ir skatindamas dialogą, asmens, šeimos, bendruomenės ir visuomenės dalyvavimą ir įsitraukimą; 
+
+
+
+
+3) profesionalumo užtikrinimo – socialinis darbuotojas analizuoja savo profesinėje veikloje priimamus sprendimus, atliekamus veiksmus, pasiektus rezultatus ir nuolat tobulina profesinę kompetenciją. 
+
+
+
+
+
+
+5. Socialinis darbuotojas nuolat, ne mažiau kaip 16 akademinių valandų per kalendorinius metus, tobulina profesinę kompetenciją, jo veikla vertinama socialinės apsaugos ir darbo ministro nustatyta tvarka. 
+
+
+
+
+6. Dirbti socialiniu darbuotoju turi teisę:
 
 
 1) asmuo, įgijęs socialinio darbo kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį arba baigęs socialinio darbo studijų krypties programą ir įgijęs socialinių mokslų kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį, arba 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
- 
 
 
 
 
-2) asmuo, iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį ir socialinio darbuotojo kvalifikaciją ar baigęs socialinio darbo studijų programą, ar socialinės apsaugos ir darbo ministro nustatyta tvarka baigęs socialinio darbuotojo praktinei veiklai pasirengti skirtus mokymus, arba 
+2) asmuo, iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį ir socialinio darbuotojo kvalifikaciją ar baigęs socialinio darbo studijų programą, ar socialinės apsaugos ir darbo ministro nustatyta tvarka baigęs socialinio darbuotojo praktinei veiklai pasirengti skirtus mokymus, arba
 
 
 
 
-3) asmuo, įgijęs socialinės pedagogikos kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį ar socialinio pedagogo kvalifikaciją, jeigu jis dirbs su vaikais ir (arba) šeimomis. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
- 
+3) asmuo, įgijęs socialinės pedagogikos kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį ar socialinio pedagogo kvalifikaciją, jeigu jis dirba su vaikais ir (arba) šeimomis.
 
 
 
 
 
 
-4. Socialinis darbuotojas socialinių paslaugų teikimo tikslais turi teisę tvarkyti asmens duomenis, įskaitant ypatingus asmens duomenis, susijusius su sveikatos būkle ar teistumu, vadovaudamasis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
-Papildyta straipsnio dalimi:
-Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
- 
+7. Socialinių paslaugų įstaigos socialinių paslaugų teikimo tikslais turi teisę tvarkyti asmens duomenis, įskaitant specialių kategorijų asmens duomenis, susijusius su asmens sveikatos būkle (asmeniui diagnozuotos ligos, skirtas gydymas, vartojami medikamentai, nustatytas neįgalumo ir (ar) darbingumo lygis), taip pat duomenis apie neišnykusį ar nepanaikintą teistumą (nusikalstamų veikų pobūdis, apkaltinamųjų nuosprendžių skaičius), vadovaudamosi Reglamentu (ES) 2016/679 ir kitais asmens duomenų apsaugą bei tvarkymą reglamentuojančiais teisės aktais. 
 
 
 
 
-5. Socialinis darbuotojas nuolat, ne mažiau kaip 16 akademinių valandų per kalendorinius metus, tobulina profesinę kompetenciją, jo praktinė veikla vertinama socialinės apsaugos ir darbo ministro nustatyta tvarka.  
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
- 
+8. Socialinis darbuotojas turi teisę:
+
+
+1) pasirinkti asmens (šeimos) ir (ar) bendruomenės poreikius atitinkančius socialinio darbo metodus;
 
 
 
 
-6. Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar Šveicarijos Konfederacijoje išduoti aukštojo mokslo diplomai, diplomai, pažymėjimai ir kiti kvalifikaciją patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais, kad juos įgijusieji dirbtų socialiniais darbuotojais Lietuvos Respublikoje.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
- 
+2) dirbti psichologiškai ir (ar) fiziškai saugioje aplinkoje, higienos normas atitinkančioje darbo vietoje;
 
 
 
 
-7. Šio straipsnio 3 ir 4 dalies reikalavimai netaikomi iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos ne ilgiau kaip 2 metams komandiruojamam į Lietuvos Respubliką socialiniam darbuotojui, jeigu jis atitinka darbovietės, iš kurios yra siunčiamas, įsisteigimo valstybės teisės aktuose nustatytus reikalavimus. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
- 
+3) atsisakyti dirbti su agresyviai besielgiančiu asmeniu (šeima), jeigu toks asmens (šeimos) elgesys kelia grėsmę jo sveikatai ir (ar) gyvybei ir jeigu darbdavys neužtikrina dar bent vieno socialinių paslaugų srities darbuotojo ir (ar) bent vieno socialinio darbo įgyvendinimo srityse dirbančio specialisto dalyvavimo.
+
+
+
+
+
+
+9. Socialinis darbuotojas privalo:
+
+
+1) skatinti socialinę kaitą visais socialinio darbo lygmenimis, domėtis socialinio darbo naujovėmis, jas taikyti socialiniame darbe;
+
+
+
+
+2) laikytis socialinio darbo įgyvendinimo principų.
+
+
+
+
+
+
+10. Socialinis darbuotojas atsako už asmens (šeimos) ir (ar) bendruomenės poreikius atitinkančių socialinio darbo metodų pasirinkimą ir taikymą visais socialinio darbo lygmenimis.
+
+
+
+
+11. Socialinis darbuotojas, nesant jo kaltės, neatsako už asmens (šeimos) ir (ar) bendruomenės elgesį, asmens (šeimos) ir (ar) bendruomenės priimtus sprendimus ir jų padarinius.
+
+
+
+
+12. Europos Sąjungos valstybių narių piliečių, Europos ekonominės erdvės valstybių piliečių, Šveicarijos Konfederacijos piliečių, trečiųjų valstybių piliečių socialinių darbuotojų profesinės kvalifikacijos, įgytos Europos Sąjungos, Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje bei trečiosiose valstybėse, pripažįstamos Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo nustatyta tvarka.
+
+
+
+
+13. Šio straipsnio 6 ir 7 dalių reikalavimai netaikomi iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos ne ilgiau kaip 2 metams į Lietuvos Respubliką komandiruojamam socialiniam darbuotojui, jeigu jis atitinka darbovietės, iš kurios yra siunčiamas, įsisteigimo reikalavimus, nustatytus valstybės teisės aktuose.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -2350,94 +2503,18 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-36 straipsnis. Įstatymo įgyvendinimas
-
-
-1. Vyriausybė ar jos įgaliota institucija iki 2006 m. balandžio 1 d. patvirtina:
-
-
-1) mokėjimo už socialines paslaugas tvarkos aprašą;
-
-
-
-
-2) asmens (šeimos) socialinių paslaugų poreikio nustatymo ir skyrimo tvarkos aprašą bei socialinės globos poreikio vaikui su negalia, suaugusiam asmeniui su negalia, senyvo amžiaus asmeniui nustatymo metodikas; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+36 straipsnis. Neteko galios nuo 2021-12-31.
+Straipsnio pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
 
 
-3) socialinių darbuotojų ir socialinių darbuotojų padėjėjų kvalifikacinius reikalavimus; 
-
-
-
-
-4) socialinių darbuotojų ir socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo tvarkos bei socialinių darbuotojų atestacijos tvarkos aprašus; 
-
-
-
-
-5) socialinių paslaugų katalogą.
-
-
-
-
-
-
-2. Vyriausybė ar jos įgaliota institucija iki 2006 m. liepos 1 d. patvirtina:
-
-
-1) socialinės globos normas; 
-
-
-
-
-2) Socialinių paslaugų priežiūros departamento nuostatus; 
-
-
-
-
-3) socialinių paslaugų planavimo metodiką;
-
-
-
-
-4) socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodiką.
-
-
-
-
-
-
-3. Neteko galios nuo 2010-05-08
-Straipsnio dalies naikinimas:
-Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+37 straipsnis. Neteko galios nuo 2021-12-31.
+Straipsnio pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
-
-
-
-
-
-
-37 straipsnis. Reikalavimai socialiniams darbuotojams 
-
-
-1. Per 5 metus nuo šio įstatymo įsigaliojimo reikiamo išsilavinimo neturintys socialiniai darbuotojai turi įgyti profesinį išsilavinimą, nustatytą šio įstatymo 20 straipsnio 4 dalyje. 
-
-
-
-
-2. Jeigu per šio straipsnio 1 dalyje nustatytą laiką asmuo neįgyja reikiamo išsilavinimo, jis netenka teisės eiti socialinio darbuotojo pareigų, išskyrus socialinius darbuotojus, kuriems iki reikiamo išsilavinimo įgijimo liko mažiau negu pusė šio straipsnio 1 dalyje nustatyto termino.
-
-
-
-
-3. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos socialiniams darbuotojams, kuriems nuo šio įstatymo įsigaliojimo iki senatvės pensijos amžiaus liko ne daugiau kaip 7 metai. 
- 
-
-
 
 
 
@@ -2694,3 +2771,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-359, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13162
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3, 4, 6, 8, 11, 14, 15, 16, 17, 18, 19, 20, 26, 29, 34, 38 straipsnių pakeitimo, Įstatymo papildymo 6-1, 19-3, 20-1, 20-2 straipsniais ir 36, 37 straipsnių pripažinimo netekusiais galios įstatymas
