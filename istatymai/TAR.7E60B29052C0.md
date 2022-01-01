@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
  
@@ -161,9 +161,17 @@ Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 
 
-13) Vyriausybės atstovams.
+13) Vyriausybės atstovams;
 Papildyta straipsnio punktu:
 Nr. XIII-1481, 2018-09-18, paskelbta TAR 2018-09-24, i. k. 2018-14925
+ 
+
+
+
+
+14) žvalgybos kontrolieriams.
+Papildyta straipsnio punktu:
+Nr. XIV-873, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26910
  
 
 
@@ -817,6 +825,21 @@ IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
  13 
 
 
+ 15. 
+ Žvalgybos kontrolierių įstaiga: 
+   
+
+
+ 15.1. 
+ įstaigos vadovas 
+ 15,5 
+
+
+ 15.2. 
+ žvalgybos kontrolieriai 
+ 14,5 
+
+
 
 Pastaba. Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis apskaičiuojamas proporcingai dirbtam laikui.
  
@@ -943,6 +966,7 @@ Nr. XIII-1481, 2018-09-18, paskelbta TAR 2018-09-24, i. k. 2018-14925
 Nr. XIII-1972, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03170
 Nr. XIII-2431, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16069
 Nr. XIII-2751, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21567
+Nr. XIV-873, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26910
  
 
 
@@ -1322,3 +1346,8 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2751, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21567
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 5 straipsnio ir priedėlio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-873, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26910
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2 straipsnio ir priedėlio pakeitimo įstatymas
