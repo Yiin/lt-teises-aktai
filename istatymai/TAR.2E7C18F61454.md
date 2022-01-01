@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -321,7 +321,7 @@ Prašymai dėl užsienio teismų sprendimų pripažinimo ir vykdymo, gauti iki C
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
  
  
@@ -22993,7 +22993,10 @@ Negalima išieškoti iš sumų, kurios priklauso skolininkui kaip:
 
 
 
-7) valstybinė socialinio draudimo našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinio socialinio draudimo pensijų įstatymą, valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinių pensijų įstatymą, pareigūnų ir karių valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą, valstybinė signataro našlaičių renta, Respublikos Prezidento našlaičių valstybinė renta;
+7) socialinio draudimo našlaičių pensija ir socialinio draudimo našlių pensija, mokamos pagal Lietuvos Respublikos socialinio draudimo pensijų įstatymą, valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos valstybinių pensijų įstatymą, pareigūnų ir karių valstybinė našlaičių pensija, mokama pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą, valstybinė signataro našlaičių renta, Respublikos Prezidento našlaičių valstybinė renta; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-722, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25840
+ 
 
 
 
@@ -23006,9 +23009,17 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 
 
-9) laisvės atėmimo vietos įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės Lietuvos Respublikos bausmių vykdymo kodekso 92 straipsnio 2 dalyje nustatytų dydžių. 
+9) laisvės atėmimo vietos įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės Lietuvos Respublikos bausmių vykdymo kodekso 92 straipsnio 2 dalyje nustatytų dydžių; 
 Papildyta straipsnio punktu:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
+ 
+
+
+
+
+10) vienišo asmens išmoka, mokama pagal Lietuvos Respublikos vienišo asmens išmokos įstatymą. 
+Papildyta straipsnio punktu:
+Nr. XIV-722, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25840
  
 
 
@@ -23182,7 +23193,10 @@ Nr. XI-1843, 2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
 746 straipsnis. Išieškojimo iš hipoteka ar įkeitimu įkeisto turto tvarkos ypatumai
 
 
-1. Priėmęs vykdyti vykdomąjį įrašą, antstolis skolininkui išsiunčia raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą per vieną mėnesį nuo raginimo įteikimo dienos, o raginimo kopiją išsiunčia įkaito davėjui (kai jis nėra skolininkas) ir kitiems Hipotekos registre nurodytiems kreditoriams. Šiame raginime turi būti nurodyta skolininko teisė pateikti duomenis apie įvykdytą hipoteka ar įkeitimu užtikrintą įsipareigojimą ar jo dalį. Raginimo turiniui ir įteikimui mutatis mutandis taikomos šio Kodekso XLVI skyriaus normos.
+1. Priėmęs vykdyti vykdomąjį įrašą, antstolis skolininkui išsiunčia raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą per vieną mėnesį nuo raginimo įteikimo dienos, o raginimo kopiją išsiunčia įkaito davėjui (kai jis nėra skolininkas) ir kitiems viešame registre nurodytiems kreditoriams. Šiame raginime turi būti nurodyta skolininko teisė pateikti duomenis apie įvykdytą hipoteka ar įkeitimu užtikrintą įsipareigojimą ar jo dalį. Raginimo turiniui ir įteikimui mutatis mutandis taikomos šio Kodekso XLVI skyriaus normos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2724, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00083
+ 
 
 
 
@@ -23192,10 +23206,11 @@ Nr. XI-1843, 2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
 
 
 
-3. Jeigu skolininkas, gavęs antstolio raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, per raginime nurodytą terminą neįvykdo hipoteka ar įkeitimu užtikrinto skolinio įsipareigojimo, antstolis nustato įkeisto turto administravimą arba įkeistą turtą realizuoja priverstine tvarka. Hipotekos ar įkeitimo kreditoriaus prašymu skolininko pasiūlytam pirkėjui ar varžytynėse pardavęs įkeistą turtą ir surašęs turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą arba įkeistą turtą perdavęs hipotekos ar įkeitimo kreditoriui ir surašęs neparduoto iš varžytynių turto perdavimo išieškotojui aktą, antstolis nedelsdamas apie tai praneša Hipotekos registrui ir pateikia tai patvirtinančius dokumentus. 
+3. Jeigu skolininkas, gavęs antstolio raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, per raginime nurodytą terminą neįvykdo hipoteka ar įkeitimu užtikrinto skolinio įsipareigojimo, antstolis nustato įkeisto turto administravimą arba įkeistą turtą realizuoja priverstine tvarka. Hipotekos ar įkeitimo kreditoriaus prašymu skolininko pasiūlytam pirkėjui ar varžytynėse pardavęs įkeistą turtą ir surašęs turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą arba įkeistą turtą perdavęs hipotekos ar įkeitimo kreditoriui ir surašęs neparduoto iš varžytynių turto perdavimo išieškotojui aktą, antstolis nedelsdamas apie tai praneša viešam registrui ir pateikia tai patvirtinančius dokumentus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+Nr. XIII-2724, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00083
  
 
 
@@ -25561,3 +25576,8 @@ Lietuvos Respublikos civilinio proceso kodekso 570, 629, 631, 663, 668, 688, 689
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
 Lietuvos Respublikos civilinio proceso kodekso 3, 801 straipsnių, LX skyriaus ketvirtojo, penktojo ir šeštojo skirsnių pavadinimų pakeitimo ir Kodekso papildymo 799-1 straipsniu įstatymas
+ 
+53.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-722, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25840
+Lietuvos Respublikos civilinio proceso kodekso 739 straipsnio pakeitimo įstatymas
