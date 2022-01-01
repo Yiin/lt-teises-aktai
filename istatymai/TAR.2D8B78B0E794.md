@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2021-09-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-08-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -48,7 +48,10 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 2. Šis įstatymas netaikomas:
 
 
-1) valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos, administracijai (instituto vadovui, vadovo pavaduotojui, moksliniam sekretoriui), mokslo darbuotojams ir kitiems tyrėjams;
+1) valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos, vadovui, vadovo pavaduotojui, moksliniam sekretoriui, mokslo darbuotojams ir kitiems tyrėjams;
+Straipsnio punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -177,7 +180,10 @@ b) A2 lygio – pareigybės, kurioms būtinas ne žemesnis kaip aukštasis unive
 
 
 
-2) struktūrinių padalinių vadovai ir jų pavaduotojai, kurių pareigybės priskiriamos A (A1 ar A2) arba B lygiui, atsižvelgiant į būtiną išsilavinimą toms pareigoms eiti;
+2) administracijos padalinių vadovai ir jų pavaduotojai, kurių pareigybės priskiriamos A (A1 ar A2) arba B lygiui, atsižvelgiant į būtiną išsilavinimą toms pareigoms eiti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -323,7 +329,10 @@ DARBO UŽMOKESTIS IR MATERIALINĖS PAŠALPOS
 
 
 
-2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje. Jeigu kolektyvinės sutarties nėra, darbdavys privalo nustatyti darbo apmokėjimo sistemą ir padaryti ją prieinamą visiems darbuotojams susipažinti. Savininko teises ir pareigas įgyvendinanti institucija nustato jos valdymo sričiai priskirtų biudžetinių įstaigų vadovų darbo apmokėjimo sistemą. Prieš nustatant ar keičiant darbo apmokėjimo sistemą, turi būti įvykdytos darbuotojų informavimo ir konsultavimo procedūros Lietuvos Respublikos darbo kodekso nustatyta tvarka (prieš nustatant ar keičiant biudžetinių įstaigų vadovų darbo apmokėjimo sistemą, savininko teises ir pareigas įgyvendinanti institucija informuoja apie tai jos valdymo sričiai priskirtų biudžetinių įstaigų vadovus).
+2. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje. Jeigu kolektyvinės sutarties nėra, darbdavys privalo nustatyti darbo apmokėjimo sistemą ir padaryti ją prieinamą visiems darbuotojams susipažinti. Savininko teises ir pareigas įgyvendinanti institucija nustato jos valdymo sričiai priskirtų biudžetinių įstaigų vadovų darbo apmokėjimo sistemą. Prieš nustatant ar keičiant darbo apmokėjimo sistemą, turi būti įvykdytos darbuotojų informavimo ir konsultavimo procedūros Lietuvos Respublikos darbo kodekso nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -341,10 +350,12 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 6 straipsnis. Pareiginės algos bazinis dydis
 
 
-Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga apskaičiuojama: atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų pareiginės algos bazinis dydis, atsižvelgus į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui bei kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Jeigu nacionalinė kolektyvinė sutartis nesudaryta arba pakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertinęs ir atsižvelgęs į šioje dalyje numatytas aplinkybes, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės. 
+Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų pareiginės algos bazinis dydis, atsižvelgus į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui bei kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas. Jeigu nacionalinė kolektyvinė sutartis nesudaryta arba nepakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertinęs ir atsižvelgęs į šiame straipsnyje numatytas aplinkybes, tvirtina Seimas. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
-
-
 
 
 
@@ -365,15 +376,19 @@ Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
 
 
 
-3. Biudžetinių įstaigų struktūrinių padalinių vadovų ir jų pavaduotojų, išskyrus mokyklų ugdymą organizuojančių skyrių vedėjus ir švietimo pagalbos įstaigų skyrių vedėjus, kurių darbas laikomas pedagoginiu, pareiginės algos pastovioji dalis darbo apmokėjimo sistemoje nustatoma pagal šio įstatymo 2 priedą, atsižvelgiant į pareigybės lygį, vadovaujamo darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo vadovaujama įmonėms, įstaigoms ir organizacijoms ir (ar) jų padaliniams, profesinio darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo dirbamas darbas, analogiškas pareigybės aprašyme nustatytam tam tikros profesijos ar specialybės darbui, arba vykdytos funkcijos, analogiškos pareigybės aprašyme nustatytoms funkcijoms, kitus darbo apmokėjimo sistemoje nustatytus kriterijus.
+3. Biudžetinių įstaigų administracijos padalinių vadovų ir jų pavaduotojų, išskyrus mokyklų ugdymą organizuojančių skyrių vedėjus ir švietimo pagalbos įstaigų skyrių vedėjus, kurių darbas laikomas pedagoginiu, pareiginės algos pastoviosios dalies koeficientas darbo apmokėjimo sistemoje nustatomas pagal šio įstatymo 2 priedą, atsižvelgiant į pareigybės lygį, vadovaujamo darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo vadovaujama įmonėms, įstaigoms ir organizacijoms ir (ar) jų padaliniams, profesinio darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo dirbamas darbas, analogiškas pareigybės aprašyme nustatytam tam tikros profesijos ar specialybės darbui, arba vykdytos funkcijos, analogiškos pareigybės aprašyme nustatytoms funkcijoms, kitus darbo apmokėjimo sistemoje nustatytus kriterijus.
 Straipsnio dalies pakeitimai:
 Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
 
 
-4. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus, jų pavaduotojus, struktūrinių padalinių vadovus ir jų pavaduotojus, mokytojus (išskyrus trenerius), pagalbos mokiniui specialistus ir darbininkus, pareiginės algos pastovioji dalis darbo apmokėjimo sistemoje nustatoma pagal šio įstatymo 3 ir 4 priedus, atsižvelgiant į pareigybės lygį, profesinio darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo dirbamas darbas, analogiškas pareigybės aprašyme nustatytam tam tikros profesijos ar specialybės darbui, arba vykdytos funkcijos, analogiškos pareigybės aprašyme nustatytoms funkcijoms, kitus darbo apmokėjimo sistemoje nustatytus kriterijus.
+4. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus, jų pavaduotojus, administracijos padalinių vadovus ir jų pavaduotojus, mokytojus (išskyrus trenerius), pagalbos mokiniui specialistus ir darbininkus, pareiginės algos pastoviosios dalies koeficientas darbo apmokėjimo sistemoje nustatomas pagal šio įstatymo 3 ir 4 priedus, atsižvelgiant į pareigybės lygį, profesinio darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo dirbamas darbas, analogiškas pareigybės aprašyme nustatytam tam tikros profesijos ar specialybės darbui, arba vykdytos funkcijos, analogiškos pareigybės aprašyme nustatytoms funkcijoms, kitus darbo apmokėjimo sistemoje nustatytus kriterijus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -396,9 +411,10 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 
 
 
-8. Nustatant pareiginės algos pastoviąją dalį, papildomai įvertinamas nacionalinių, valstybinių ir savivaldybių kultūros ir meno įstaigų aukščiausiojo profesinio meninio lygio kultūros ir meno darbuotojų nacionaliniu ir tarptautiniu mastu įgytas pripažinimas, Vyriausybės ar jos įgaliotos institucijos nustatytas tam tikrų profesijų atstovų trūkumas Lietuvos Respublikos darbo rinkoje, trenerių ar socialinių paslaugų srities darbuotojų aukšta kvalifikacinė kategorija, nustatyta pagal tam tikrai darbuotojų grupei keliamus kvalifikacinius reikalavimus. Šiais atvejais šio įstatymo 1, 2, 3, 4 ir 5 prieduose nustatyti pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 100 procentų. Trenerio pareiginės algos pastovioji dalis didinama, atsižvelgiant į jo turimą kvalifikacinę kategoriją: jeigu trenerio kvalifikacinė kategorija pirma, jo pareiginės algos pastovioji dalis didinama 45 procentais, jeigu antra, – 55 procentais, jeigu trečia, – 65 procentais, jeigu ketvirta, – 75 procentais, jeigu penkta, – 90 procentų, jeigu šešta, – 100 procentų. Treneriams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 40 procentų. Socialinių paslaugų srities darbuotojo pareiginės algos pastovioji dalis didinama, atsižvelgiant į jo turimą kvalifikacinę kategoriją: jeigu socialinių paslaugų srities darbuotojo kvalifikacinė kategorija pirma (žemiausia), jo pareiginės algos pastovioji dalis didinama 15 procentų, jeigu antra (aukštesnė), – 20 procentų, jeigu trečia (aukščiausia), – 30 procentų. Socialinių paslaugų srities darbuotojams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 10 procentų. 
+8. Nustatant pareiginės algos pastoviąją dalį, papildomai įvertinamas nacionalinių, valstybinių ir savivaldybių kultūros ir meno įstaigų aukščiausio profesinio meninio lygio kultūros ir meno darbuotojų nacionaliniu ir tarptautiniu mastu įgytas pripažinimas, Vyriausybės ar jos įgaliotos institucijos nustatytas tam tikrų profesijų atstovų trūkumas Lietuvos Respublikos darbo rinkoje, trenerių ar socialinių paslaugų srities darbuotojų aukšta kvalifikacinė kategorija, nustatyta pagal tam tikrai darbuotojų grupei keliamus kvalifikacinius reikalavimus. Šiais atvejais šio įstatymo 1, 2, 3, 4 ir 5 prieduose nustatyti pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 100 procentų. Trenerio pareiginės algos pastoviosios dalies koeficientas didinamas atsižvelgiant į jo turimą kvalifikacinę kategoriją: jeigu trenerio kvalifikacinė kategorija pirma, jo pareiginės algos pastoviosios dalies koeficientas didinamas 45 procentais, jeigu antra, – 55 procentais, jeigu trečia, – 65 procentais, jeigu ketvirta, – 75 procentais, jeigu penkta, – 90 procentų, jeigu šešta, – 100 procentų. Treneriams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 40 procentų. Socialinių paslaugų srities darbuotojo pareiginės algos pastoviosios dalies koeficientas didinamas atsižvelgiant į jo turimą kvalifikacinę kategoriją: jeigu socialinių paslaugų srities darbuotojo kvalifikacinė kategorija pirma (žemiausia), jo pareiginės algos pastoviosios dalies koeficientas didinamas 15 procentų, jeigu antra (aukštesnė), – 20 procentų, jeigu trečia (aukščiausia), – 30 procentų. Socialinių paslaugų srities darbuotojams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 10 procentų. Biudžetinių įstaigų administracijos padalinių vadovų pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 20 procentų, jeigu biudžetinės įstaigos administracijos padalinio vadovo vadovaujamo administracijos padalinio pareigybių skaičius, numatytas biudžetinės įstaigos pareigybių sąraše, yra vienas šimtas ir daugiau.
 Straipsnio dalies pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -409,7 +425,10 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 
 
 
-10. Biudžetinės įstaigos darbuotojo pareiginės algos pastoviosios dalies koeficientą pagal darbo apmokėjimo sistemoje numatytus kriterijus ir koeficientų dydžius nustato biudžetinės įstaigos vadovas, o biudžetinės įstaigos vadovo – savininko teises ir pareigas įgyvendinanti institucija. 
+10. Biudžetinės įstaigos darbuotojo pareiginės algos pastoviosios dalies koeficientą pagal darbo apmokėjimo sistemoje numatytus kriterijus ir koeficientų dydžius nustato į pareigas priimantis asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -487,46 +506,42 @@ Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
 9 straipsnis. Pareiginės algos kintamoji dalis
 
 
-1. Biudžetinių įstaigų darbuotojų pareiginės algos kintamosios dalies nustatymas priklauso nuo praėjusių metų veiklos vertinimo pagal darbuotojui nustatytas metines užduotis, siektinus rezultatus ir jų vertinimo rodiklius bei gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus atvejus.
+1. Biudžetinių įstaigų darbuotojų pareiginės algos kintamosios dalies dydis priklauso nuo jų praėjusių metų veiklos vertinimo pagal nustatytas metines užduotis, siektinus rezultatus ir jų vertinimo rodiklius bei gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas, išskyrus šio straipsnio 3 ir 4 dalyse nurodytus atvejus.
 
 
 
 
-2. Pareiginės algos kintamoji dalis, atsižvelgiant į praėjusių metų veiklos vertinimą, nustatoma iki kito biudžetinės įstaigos darbuotojų kasmetinio veiklos vertinimo ir gali siekti iki 40 procentų pareiginės algos pastoviosios dalies, išskyrus šio straipsnio 4 dalyje nurodytą atvejį. Jeigu pareiginės algos pastovioji dalis padidinta pagal šio įstatymo 7 straipsnio 6, 7 ir 8 dalis, kintamoji dalis skaičiuojama nuo padidinto pastoviosios dalies koeficiento. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
- 
+2. Pareiginės algos kintamoji dalis, atsižvelgiant į praėjusių metų veiklos vertinimą, gali siekti iki 40 procentų pareiginės algos pastoviosios dalies, išskyrus šio straipsnio 4 dalyje nurodytą atvejį, ir mokama iki biudžetinės įstaigos darbuotojo kito kasmetinio veiklos vertinimo metu priimto šio įstatymo 14 straipsnio 9 ar 11 dalyje nurodyto sprendimo įsigaliojimo dienos. Jeigu pareiginės algos pastoviosios dalies koeficientas padidintas pagal šio įstatymo 7 straipsnio 6, 7 ir 8 dalis, kintamoji dalis skaičiuojama nuo padidintos pastoviosios dalies.
 
 
 
 
-3. Biudžetinės įstaigos darbuotojo pareiginės algos kintamoji dalis gali būti nustatyta priėmimo į darbą metu, pasibaigus išbandymo terminui, taip pat darbuotojui grįžus iš vaiko priežiūros atostogų, atsižvelgiant į darbuotojo profesinę kvalifikaciją ir jam keliamus uždavinius, tačiau ji negali būti didesnė kaip 20 procentų pareiginės algos pastoviosios dalies ir negali būti mokama ilgiau kaip iki to darbuotojo kito kasmetinio veiklos vertinimo. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
- 
+3. Biudžetinės įstaigos darbuotojo pareiginės algos kintamoji dalis gali būti nustatyta nuo jo darbo biudžetinėje įstaigoje pradžios arba pasibaigus išbandymo terminui, taip pat darbuotojui grįžus iš atostogų vaikui prižiūrėti, atsižvelgiant į darbuotojo profesinę kvalifikaciją ir jam keliamus uždavinius, tačiau ji negali būti didesnė kaip 20 procentų pareiginės algos pastoviosios dalies ir negali būti mokama ilgiau kaip iki to darbuotojo kito kasmetinio (nacionalinių ir valstybinių kultūros ir meno įstaigų darbuotojams, kurie viešo spektaklio, koncerto ar kito renginio metu atlieka profesionaliojo scenos meno kūrinius ir kurių pareigybių sąrašą tvirtina Lietuvos Respublikos kultūros ministras (toliau – nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjai) – iki atitinkamo mėnesio, atsižvelgiant į nacionalinių ir valstybinių kultūros ir meno įstaigų repertuarų programas) veiklos vertinimo metu priimto šio įstatymo 14 straipsnio 9 ar 11 dalyje nurodyto sprendimo įsigaliojimo dienos.
 
 
 
 
-4. Nacionalinių ir valstybinių kultūros ir meno įstaigų vadovams pareiginės algos kintamosios dalies nustatymas priklauso nuo jų veiklos užduočių ir vertinimo rodiklių praėjusiais metais ir ji gali siekti iki 160 procentų nustatytos pareiginės algos pastoviosios dalies dydžio. Nacionalinių ir valstybinių kultūros ir meno įstaigų vadovams pareiginės algos kintamoji dalis nustatoma iki kito nacionalinių ir valstybinių kultūros ir meno įstaigų vadovų kasmetinio veiklos vertinimo. Nacionalinių ir valstybinių kultūros ir meno įstaigų darbuotojų, kurie viešo spektaklio, koncerto ar kito renginio metu atlieka profesionaliojo scenos meno kūrinius ir kurių pareigybių sąrašą tvirtina Lietuvos Respublikos kultūros ministras (toliau – nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjai), pareiginės algos kintamosios dalies nustatymas priklauso nuo einamųjų metų mėnesio (mėnesių) veiklos užduočių ir vertinimo rodiklių ir gali siekti iki 160 procentų nustatytos pareiginės algos pastoviosios dalies dydžio, bet negali viršyti nacionalinių ir valstybinių kultūros ir meno įstaigų darbo užmokesčiui skirtų lėšų ir turi būti nurodytas mokėjimo terminas, atsižvelgiant į veiklos užduočių pobūdį, sudėtingumą, apimtį ir kiekį. 
+4. Nacionalinių ir valstybinių kultūros ir meno įstaigų vadovų pareiginės algos kintamoji dalis priklauso nuo jų veiklos užduočių, vertinimo rodiklių praėjusiais metais ir gali siekti iki 160 procentų nustatytos pareiginės algos pastoviosios dalies dydžio. Nacionalinių ir valstybinių kultūros ir meno įstaigų vadovams pareiginės algos kintamoji dalis mokama iki kito kasmetinio veiklos vertinimo metu priimto šio įstatymo 14 straipsnio 9 dalyje nurodyto sprendimo įsigaliojimo dienos. Nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų pareiginės algos kintamoji dalis priklauso nuo mėnesio (mėnesių) veiklos užduočių, vertinimo rodiklių ir gali siekti iki 160 procentų nustatytos pareiginės algos pastoviosios dalies dydžio, bet negali viršyti nacionalinių ir valstybinių kultūros ir meno įstaigų darbo užmokesčiui skirtų lėšų, taip pat turi būti nurodytas jos mokėjimo terminas, atsižvelgiant į veiklos užduočių pobūdį, sudėtingumą, apimtį ir kiekį. Nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams pareiginės algos kintamoji dalis nustatoma mėnesiui (mėnesiams) ir mokama iki atitinkamo mėnesio veiklos vertinimo metu priimto šio įstatymo 14 straipsnio 11 dalyje nurodyto sprendimo įsigaliojimo dienos.
 
 
 
 
-5. Perkėlus biudžetinės įstaigos darbuotoją į kitas pareigas toje pačioje biudžetinėje įstaigoje, pareiginės algos kintamosios dalies procentinis dydis, nustatytas už praėjusių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – už einamųjų metų mėnesio (mėnesių) veiklos vertinimą, išlieka iki kito biudžetinės įstaigos darbuotojo kasmetinio (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – iki einamųjų metų atitinkamo mėnesio, atsižvelgiant į nacionalinių ir valstybinių kultūros ir meno įstaigų repertuarų programas) veiklos vertinimo.
+5. Perkėlus biudžetinės įstaigos darbuotoją į kitas pareigas toje pačioje biudžetinėje įstaigoje arba kitoje biudžetinėje įstaigoje (biudžetinės įstaigos reorganizavimo atveju), pareiginės algos kintamosios dalies procentinis dydis, nustatytas už praėjusių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – už mėnesio (mėnesių) veiklos vertinimą, išlieka iki kito biudžetinės įstaigos darbuotojo kasmetinio (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – iki atitinkamo mėnesio, atsižvelgiant į nacionalinių ir valstybinių kultūros ir meno įstaigų repertuarų programas) veiklos vertinimo metu priimto šio įstatymo 14 straipsnio 11 dalyje nurodyto sprendimo įsigaliojimo dienos.
 
 
 
 
-6. Konkrečius pareiginės algos kintamosios dalies procentinius dydžius pagal biudžetinės įstaigos darbo apmokėjimo sistemą nustato biudžetinės įstaigos vadovas ar jo įgaliotas asmuo, o biudžetinės įstaigos vadovui – savininko teises ir pareigas įgyvendinanti institucija, įvertinusi biudžetinės įstaigos vadovo praėjusių metų veiklą. 
+6. Konkrečius pareiginės algos kintamosios dalies procentinius dydžius pagal biudžetinės įstaigos darbo apmokėjimo sistemą nustato į pareigas priimantis asmuo.
 
 
 
 
 7. Darbininkams pareiginės algos kintamoji dalis nenustatoma.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
-
-
 
 
 
@@ -638,7 +653,10 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 
 
 
-3. Nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams gali būti skiriamos premijos, labai gerai įvertinus jų einamųjų metų mėnesio (mėnesių) veiklą, tačiau bendras metinis premijų dydis negali viršyti atlikėjo paskutinio nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjui nustatytos pareiginės algos pastoviosios dalies dydžio.
+3. Nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams gali būti skiriamos premijos, labai gerai įvertinus jų mėnesio (mėnesių) veiklą, tačiau bendras metinis nacionalinės ar valstybinės kultūros ir meno įstaigos atlikėjo premijų dydis negali viršyti paskutinio jam nustatytos pareiginės algos pastoviosios dalies dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -672,40 +690,40 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 
 
 
-14 straipsnis. Biudžetinių įstaigų darbuotojų kasmetinio (einamųjų metų mėnesio (mėnesių) veiklos vertinimas ir skatinimas
+14 straipsnis. Biudžetinių įstaigų darbuotojų kasmetinis (mėnesio (mėnesių) veiklos vertinimas ir skatinimas
 
 
-1. Biudžetinių įstaigų darbuotojų kasmetinio veiklos vertinimo tikslas – įvertinti biudžetinių įstaigų darbuotojų, išskyrus darbininkus, mokytojus ir pagalbos mokiniui specialistus, praėjusių kalendorinių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – einamųjų metų) veiklą pagal nustatytas metines (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams – pagal einamųjų metų mėnesio (mėnesių) užduotis, siektinus rezultatus, jų vertinimo rodiklius ir gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas.
-
-
-
-
-2. Kultūros ir meno darbuotojų, socialinių paslaugų srities darbuotojų, sveikatos priežiūros specialistų, švietimo įstaigų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų praėjusių kalendorinių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – einamųjų metų mėnesio (mėnesių) veikla vertinama vadovaujantis atitinkamai Lietuvos Respublikos kultūros ministro, socialinės apsaugos ir darbo ministro, sveikatos apsaugos ministro, švietimo, mokslo ir sporto ministro patvirtintu atitinkamos srities kultūros ir meno darbuotojų, socialinių paslaugų srities darbuotojų, sveikatos priežiūros specialistų ar švietimo įstaigų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų veiklos vertinimo tvarkos aprašu. Kitų biudžetinių įstaigų darbuotojų praėjusių kalendorinių metų veikla vertinama vadovaujantis Vyriausybės ar jos įgaliotos institucijos patvirtintu Biudžetinių įstaigų darbuotojų veiklos vertinimo tvarkos aprašu. 
+1. Biudžetinių įstaigų darbuotojų kasmetinio veiklos vertinimo tikslas – įvertinti biudžetinių įstaigų darbuotojų, išskyrus darbininkus, mokytojus ir pagalbos mokiniui specialistus, praėjusių kalendorinių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – mėnesio (mėnesių) veiklą pagal nustatytas metines (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams – pagal mėnesio (mėnesių) veiklos) užduotis, siektinus rezultatus, jų vertinimo rodiklius ir gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas. 
 
 
 
 
-3. Kiekvienais metais iki sausio 31 dienos (švietimo įstaigos vadovams – iki kovo 1 dienos) savininko teises ir pareigas įgyvendinanti institucija ar jos įgaliotas asmuo, vadovaudamiesi Vyriausybės ar atitinkamo ministro, nurodyto šio straipsnio 2 dalyje, nustatyta tvarka ir atsižvelgdami į metinio veiklos plano priemones, biudžetinių įstaigų vadovams nustato metines užduotis, susijusias su biudžetinių įstaigų metinio veiklos plano priemonėmis arba su metinio veiklos plano priemonėmis ir su biudžetinės įstaigos vidaus administravimu bei veiklos efektyvumo didinimu, siektinus rezultatus ir jų vertinimo rodiklius. Priėmus į pareigas biudžetinės įstaigos vadovą, metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai nustatomi per vieną mėnesį nuo jo priėmimo į pareigas dienos. Jeigu biudžetinės įstaigos vadovas priimamas į pareigas naujai kadencijai, iki einamųjų metų pabaigos jam galioja einamųjų metų pradžioje nustatytos metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai. Jeigu, priėmus į pareigas biudžetinės įstaigos vadovą, iki einamųjų metų pabaigos lieka mažiau kaip 6 mėnesiai, biudžetinės įstaigos vadovui metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai einamiesiems kalendoriniams metams gali būti nenustatomi. Prireikus nustatytos metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai einamaisiais metais gali būti vieną kartą pakeisti arba papildyti, bet ne vėliau kaip iki spalio 1 dienos. Biudžetinių įstaigų vadovams nustatytos metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai skelbiami vadovą į pareigas priimančio asmens ir biudžetinės įstaigos, kurioje vadovas eina pareigas, interneto svetainėje. 
+2. Kultūros ir meno darbuotojų, socialinių paslaugų srities darbuotojų, sveikatos priežiūros specialistų, švietimo įstaigų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų praėjusių kalendorinių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – mėnesio (mėnesių) veikla vertinama vadovaujantis atitinkamai kultūros ministro, Lietuvos Respublikos socialinės apsaugos ir darbo ministro, Lietuvos Respublikos sveikatos apsaugos ministro, švietimo, mokslo ir sporto ministro patvirtintu atitinkamos srities kultūros ir meno darbuotojų, socialinių paslaugų srities darbuotojų, sveikatos priežiūros specialistų ar švietimo įstaigų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų veiklos vertinimo tvarkos aprašu. Kitų biudžetinių įstaigų darbuotojų praėjusių kalendorinių metų veikla vertinama vadovaujantis Vyriausybės ar jos įgaliotos institucijos patvirtintu biudžetinių įstaigų darbuotojų veiklos vertinimo tvarkos aprašu.
 
 
 
 
-4. Kiekvienais metais iki sausio 31 dienos (švietimo įstaigos vadovų – iki kovo 1 dienos) savininko teises ir pareigas įgyvendinanti institucija ar jos įgaliotas asmuo įvertina biudžetinių įstaigų vadovų (išskyrus biudžetinių įstaigų vadovus, kurie buvo priimti į pareigas praėjusiais metais, iki metų pabaigos likus mažiau kaip 6 mėnesiams, jeigu jiems metinės užduotys buvo nenustatytos) praėjusių metų veiklą pagal nustatytas metines užduotis, siektinus rezultatus ir jų vertinimo rodiklius bei gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas, vadovaudamiesi Vyriausybės ar atitinkamo ministro, nurodyto šio straipsnio 2 dalyje, nustatyta tvarka. Biudžetinės įstaigos vadovo praėjusių metų veikla gali būti vertinama labai gerai, gerai, patenkinamai ir nepatenkinamai. Jeigu biudžetinės įstaigos vadovo metinė veikla įvertinama nepatenkinamai 2 metus iš eilės, savininko teises ir pareigas įgyvendinanti institucija (savivaldybių biudžetinių įstaigų, išskyrus švietimo įstaigas ir seniūnijas – biudžetines įstaigas, – merai) priima sprendimą biudžetinės įstaigos vadovą atleisti iš pareigų, nutraukia su juo sudarytą darbo sutartį per 10 darbo dienų nuo paskutinio kasmetinio veiklos vertinimo ir neišmoka jam išeitinės išmokos.
+3. Kiekvienais metais iki kovo 1 dienos į pareigas priimantis asmuo ar jo įgaliotas asmuo Vyriausybės ar atitinkamo ministro, nurodyto šio straipsnio 2 dalyje, nustatyta tvarka, atsižvelgdami į metinio veiklos plano priemones, biudžetinių įstaigų vadovams nustato metines užduotis, susijusias su biudžetinės įstaigos metinio veiklos plano priemonėmis arba su metinio veiklos plano priemonėmis ir su biudžetinės įstaigos vidaus administravimu bei veiklos efektyvumo didinimu, siektinus rezultatus ir jų vertinimo rodiklius. Priėmus į pareigas biudžetinės įstaigos vadovą, metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai nustatomi per vieną mėnesį nuo jo darbo biudžetinėje įstaigoje pradžios. Jeigu biudžetinės įstaigos vadovas priimamas į pareigas naujai kadencijai, iki einamųjų metų pabaigos jam galioja einamųjų metų pradžioje nustatytos metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai. Jeigu biudžetinės įstaigos vadovo darbo biudžetinėje įstaigoje pradžios data yra vėlesnė negu spalio 1 diena, jam metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai einamiesiems kalendoriniams metams nenustatomi. Prireikus nustatytos metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai einamaisiais metais gali būti pakeisti arba papildyti, bet ne vėliau kaip iki spalio 1 dienos. Biudžetinių įstaigų vadovams nustatytos metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai skelbiami vadovą į pareigas priimančio asmens ir biudžetinės įstaigos, kurioje vadovas eina pareigas, interneto svetainėse.
 
 
 
 
-5. Metinės veiklos užduotys, susijusios su darbuotojo funkcijomis, siektini rezultatai ir jų vertinimo rodikliai biudžetinės įstaigos darbuotojui turi būti nustatyti kiekvienais metais iki sausio 31 dienos, einamaisiais metais priimtam biudžetinės įstaigos darbuotojui ar grįžusiam iš atostogų vaikui prižiūrėti – per vieną mėnesį nuo priėmimo ar grįžimo į pareigas dienos, nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų veiklos užduotys, siektini rezultatai ir vertinimo rodikliai – prieš repertuaro naujos programos pradžią. Jeigu, priėmus į pareigas biudžetinės įstaigos darbuotojus, išskyrus nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjus, iki einamųjų kalendorinių metų pabaigos lieka mažiau kaip 6 mėnesiai, jiems metinės veiklos užduotys, siektini rezultatai ir jų vertinimo rodikliai einamiesiems kalendoriniams metams gali būti nenustatomi.
+4. Kiekvienais metais iki kovo 1 dienos į pareigas priimantis asmuo ar jo įgaliotas asmuo įvertina biudžetinių įstaigų vadovų (išskyrus biudžetinių įstaigų vadovus, kurių darbo biudžetinėje įstaigoje pradžios data praėjusiais metais buvo vėlesnė negu spalio 1 diena) praėjusių metų veiklą pagal nustatytas metines užduotis, siektinus rezultatus, jų vertinimo rodiklius ir gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas Vyriausybės ar atitinkamo ministro, nurodyto šio straipsnio 2 dalyje, nustatyta tvarka. Biudžetinės įstaigos vadovo praėjusių metų veikla gali būti vertinama labai gerai, gerai, patenkinamai ir nepatenkinamai. Jeigu biudžetinės įstaigos vadovo metinė veikla įvertinama nepatenkinamai 2 metus iš eilės, į pareigas priimantis asmuo (savivaldybių biudžetinių įstaigų, išskyrus švietimo įstaigas ir seniūnijas – biudžetines įstaigas, – merai) priima sprendimą biudžetinės įstaigos vadovą atleisti iš pareigų, nutraukia su juo sudarytą darbo sutartį per 10 darbo dienų nuo šio sprendimo įsigaliojimo dienos ir neišmoka jam išeitinės išmokos.
 
 
 
 
-6. Metines veiklos užduotis, siektinus rezultatus ir jų vertinimo rodiklius biudžetinės įstaigos darbuotojams, išskyrus šių įstaigų vadovus, nustato ir kasmetinį (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – einamųjų metų mėnesio (mėnesių) veiklos vertinimą atlieka tiesioginis jų vadovas. 
+5. Metinės užduotys, susijusios su darbuotojo funkcijomis, siektini rezultatai ir jų vertinimo rodikliai biudžetinės įstaigos darbuotojui (išskyrus biudžetinių įstaigų vadovus) turi būti nustatyti kiekvienais metais iki kovo 1 dienos; biudžetinės įstaigos darbuotojui, kurio darbo biudžetinėje įstaigoje pradžios ar perkėlimo į kitas pareigas data, ar grįžimo iš atostogų vaikui prižiūrėti data yra ne vėlesnė negu spalio 1 diena, – einamaisiais metais per vieną mėnesį nuo darbo biudžetinėje įstaigoje pradžios, perkėlimo ar grįžimo į pareigas dienos; nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų veiklos užduotys, siektini rezultatai ir vertinimo rodikliai – prieš pradedant įgyvendinti naują repertuaro programą. Biudžetinės įstaigos darbuotojui, kuris grįžo iš atostogų vaikui prižiūrėti vėliau negu spalio 1 dieną ar kurio darbo biudžetinėje įstaigoje pradžios ar perkėlimo į kitas pareigas data yra vėlesnė negu spalio 1 diena, išskyrus nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjus, metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai einamiesiems metams nenustatomi. Prireikus nustatytos metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai einamaisiais metais gali būti pakeisti arba papildyti, bet ne vėliau kaip iki spalio 1 dienos. Prireikus nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams nustatytos veiklos užduotys, siektini rezultatai ir jų vertinimo rodikliai gali būti pakeisti arba papildyti, bet ne vėliau kaip iki repertuarų programų įgyvendinimo pabaigos.
 
 
 
 
-7. Biudžetinių įstaigų darbuotojų praėjusių metų, o nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų einamųjų metų mėnesio (mėnesių) veikla gali būti įvertinama:
+6. Metines užduotis, siektinus rezultatus ir jų vertinimo rodiklius biudžetinės įstaigos darbuotojams, išskyrus šių įstaigų vadovus, nustato ir kasmetinį (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – mėnesio (mėnesių) jų veiklos vertinimą atlieka tiesioginis jų vadovas.
+
+
+
+
+7. Biudžetinių įstaigų darbuotojų praėjusių metų veikla, o nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų mėnesio (mėnesių) veikla gali būti įvertinama:
 
 
 1) labai gerai;
@@ -730,81 +748,77 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 
 
 
-8. Biudžetinių įstaigų darbuotojų, išskyrus nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjus, veikla įvertinama kiekvienais metais iki sausio 31 dienos, jeigu darbuotojas ne trumpiau kaip 6 mėnesius per praėjusius kalendorinius metus ėjo pareigas toje biudžetinėje įstaigoje ir tais atvejais, kai biudžetinės įstaigos darbuotojui metinės užduotys, siektini rezultatai ir jų vertinimo rodikliai buvo nustatyti likus mažiau kaip 6 mėnesiams iki kalendorinių metų pabaigos. Nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų einamųjų metų mėnesio (mėnesių) veiklos vertinimo periodiškumas nustatomas atsižvelgiant į einamųjų metų nacionalinių ir valstybinių kultūros ir meno įstaigų repertuarų programas. Jų veikla įvertinama po repertuarų programų įgyvendinimo, bet ne vėliau kaip iki kito mėnesio pabaigos.
+8. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus bei nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjus, veikla įvertinama kiekvienais metais iki kovo 1 dienos, jeigu darbuotojo darbo biudžetinėje įstaigoje pradžios data buvo ne vėlesnė negu spalio 1 diena. Nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų mėnesio (mėnesių) veiklos vertinimo periodiškumas nustatomas atsižvelgiant į nacionalinių ir valstybinių kultūros ir meno įstaigų repertuarų programas. Jų veikla įvertinama baigus įgyvendinti repertuarų programas, bet ne vėliau kaip iki kito mėnesio pabaigos.
 
 
 
 
-9. Savininko teises ir pareigas įgyvendinanti institucija ar jos įgaliotas asmuo Vyriausybės nustatyta tvarka, dalyvaujant biudžetinės įstaigos darbuotojų atstovavimą įgyvendinantiems asmenims, o vertinant mokyklų vadovų veiklą – mokyklos taryboms, švietimo pagalbos įstaigų vadovų veiklą – švietimo pagalbos įstaigų savivaldos institucijoms, jeigu savivalda yra (o jeigu švietimo pagalbos įstaigose savivaldos institucijų nėra, – darbuotojų atstovavimą įgyvendinantiems asmenims), įvertinusi biudžetinės įstaigos vadovo praėjusių kalendorinių metų veiklą:
+9. Į pareigas priimantis asmuo Vyriausybės nustatyta tvarka, dalyvaujant biudžetinės įstaigos darbuotojų atstovavimą įgyvendinantiems asmenims, o švietimo, mokslo ir sporto ministro nustatyta tvarka vertinant mokyklų vadovų veiklą, – mokyklos taryboms, vertinant švietimo pagalbos įstaigų vadovų veiklą, – švietimo pagalbos įstaigų savivaldos institucijoms, jeigu jos yra (jeigu švietimo pagalbos įstaigose savivaldos institucijų nėra, – darbuotojų atstovavimą įgyvendinantiems asmenims), jeigu biudžetinės įstaigos vadovo praėjusių kalendorinių metų veikla įvertinama:
 
 
-1) labai gerai, – biudžetinės įstaigos vadovui iki kito biudžetinės įstaigos kasmetinio veiklos vertinimo nustato pareiginės algos kintamosios dalies dydį, ne mažesnį kaip 15 procentų pareiginės algos pastoviosios dalies, ir gali skirti premiją pagal darbo apmokėjimo sistemoje nustatytą tvarką ir dydžius;
-
-
-
-
-2) gerai, – biudžetinės įstaigos vadovui iki kito biudžetinės įstaigos kasmetinio veiklos vertinimo nustato pareiginės algos kintamosios dalies dydį, ne mažesnį kaip 5 procentai pareiginės algos pastoviosios dalies pagal darbo apmokėjimo sistemoje nustatytą tvarką ir dydžius; 
+1) labai gerai, biudžetinės įstaigos vadovui nustato pareiginės algos kintamosios dalies dydį, ne mažesnį kaip 15 procentų pareiginės algos pastoviosios dalies, ir gali skirti premiją pagal darbo apmokėjimo sistemoje nustatytą tvarką ir dydžius;
 
 
 
 
-3) patenkinamai, – biudžetinės įstaigos vadovui iki kito biudžetinės įstaigos kasmetinio veiklos vertinimo nenustato pareiginės algos kintamosios dalies dydžio; 
+2) gerai, biudžetinės įstaigos vadovui nustato pareiginės algos kintamosios dalies dydį, ne mažesnį kaip 5 procentai pareiginės algos pastoviosios dalies, pagal darbo apmokėjimo sistemoje nustatytą tvarką ir dydžius;
 
 
 
 
-4) nepatenkinamai, – biudžetinės įstaigos vadovui, išskyrus mokyklos vadovą, iki kito biudžetinės įstaigos vadovo kasmetinio veiklos vertinimo nustato mažesnį pareiginės algos pastoviosios dalies koeficientą, tačiau ne mažesnį, negu šio įstatymo 1 priede tai pareigybei pagal vadovaujamo darbo patirtį numatytas minimalus koeficientas, mokyklos vadovui iki kito biudžetinės įstaigos vadovo kasmetinio veiklos vertinimo nustato vienetu mažesnį pareiginės algos pastoviosios dalies koeficientą. Su biudžetinės įstaigos vadovu gali būti sudarytas rezultatų gerinimo planas (pagal Darbo kodekso 57 straipsnio 5 dalį), kurio vykdymas įvertinamas ne anksčiau kaip po 2 mėnesių. Rezultatų gerinimo plano vykdymo rezultatus įvertinus nepatenkinamai, su biudžetinės įstaigos vadovu gali būti nutraukiama darbo sutartis pagal Darbo kodekso 57 straipsnio 1 dalies 2 punktą. 
-Straipsnio punkto pakeitimai:
-Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
- 
+3) patenkinamai, biudžetinės įstaigos vadovui nenustato pareiginės algos kintamosios dalies dydžio;
 
 
 
 
-
-
-10. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinės įstaigos vadovą, tiesioginis vadovas, kartu su biudžetinės įstaigos darbuotojų atstovavimą įgyvendinančiais asmenimis įvertinęs biudžetinės įstaigos darbuotojo praėjusių kalendorinių metų, o nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – einamųjų metų mėnesio (mėnesių) veiklą:
-
-
-1) labai gerai, teikia vertinimo išvadą biudžetinės įstaigos vadovui ar jo įgaliotam asmeniui su siūlymu nustatyti iki kito biudžetinės įstaigos darbuotojų kasmetinio veiklos vertinimo, o nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams – mėnesiui (mėnesiams) pareiginės algos kintamosios dalies dydį, ne mažesnį kaip 15 procentų pareiginės algos pastoviosios dalies, ir gali siūlyti skirti premiją pagal darbo apmokėjimo sistemoje nustatytą tvarką ir dydžius; 
-
-
-
-
-2) gerai, teikia vertinimo išvadą biudžetinės įstaigos vadovui ar jo įgaliotam asmeniui su siūlymu nustatyti iki kito biudžetinės įstaigos darbuotojų kasmetinio veiklos vertinimo, o nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams – mėnesiui (mėnesiams) pareiginės algos kintamosios dalies dydį, ne mažesnį kaip 5 procentai pareiginės algos pastoviosios dalies dydžio pagal darbo apmokėjimo sistemoje nustatytą tvarką ir dydžius; 
-
-
-
-
-3) patenkinamai, teikia vertinimo išvadą biudžetinės įstaigos vadovui ar jo įgaliotam asmeniui su siūlymu nenustatyti pareiginės algos kintamosios dalies dydžio;
-
-
-
-
-4) nepatenkinamai, teikia vertinimo išvadą biudžetinės įstaigos vadovui ar jo įgaliotam asmeniui su siūlymu iki kito kasmetinio veiklos vertinimo darbuotojui, išskyrus mokyklos vadovo pavaduotoją ugdymui ir mokyklos ugdymą organizuojančio skyriaus vedėją, nustatyti mažesnį pareiginės algos pastoviosios dalies koeficientą, tačiau ne mažesnį, negu šio įstatymo 1, 2, 3 ir 4 prieduose tai pareigybei pagal vadovaujamo darbo patirtį ir (ar) profesinę darbo patirtį numatytas minimalus pareiginės algos pastoviosios dalies koeficientas, mokyklos vadovo pavaduotojui ugdymui, mokyklos ugdymą organizuojančio skyriaus vedėjui nustatyti vienetu mažesnį pareiginės algos pastoviosios dalies koeficientą. Su darbuotoju gali būti sudarytas rezultatų gerinimo planas (pagal Darbo kodekso 57 straipsnio 5 dalį), kurio vykdymas įvertinamas ne anksčiau kaip po 2 mėnesių. Rezultatų gerinimo plano vykdymo rezultatus įvertinus nepatenkinamai, su darbuotoju gali būti nutraukiama darbo sutartis pagal Darbo kodekso 57 straipsnio 1 dalies 2 punktą.
-Straipsnio punkto pakeitimai:
-Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
- 
+4) nepatenkinamai, biudžetinės įstaigos vadovui, išskyrus mokyklos vadovą, nustato mažesnį pareiginės algos pastoviosios dalies koeficientą, tačiau ne mažesnį, negu šio įstatymo 1 ir 5 prieduose tai pareigybei pagal vadovaujamo darbo patirtį numatytas minimalus koeficientas; mokyklos vadovui nustato vienetu mažesnį pareiginės algos pastoviosios dalies koeficientą. Su biudžetinės įstaigos vadovu gali būti sudarytas rezultatų gerinimo planas (pagal Darbo kodekso 57 straipsnio 5 dalį), kurio vykdymas įvertinamas ne anksčiau kaip po 2 mėnesių. Rezultatų gerinimo plano vykdymo rezultatus įvertinus nepatenkinamai, su biudžetinės įstaigos vadovu sudaryta darbo sutartis gali būti nutraukiama pagal Darbo kodekso 57 straipsnio 1 dalies 2 punktą. 
 
 
 
 
 
 
-11. Biudžetinės įstaigos vadovas ar jo įgaliotas asmuo, gavęs iš tiesioginių vadovų darbuotojų įvertinimą, per 10 darbo dienų priima motyvuotą sprendimą pritarti arba nepritarti biudžetinės įstaigos darbuotojo tiesioginio vadovo siūlymams dėl šio straipsnio 10 dalyje numatytų nuostatų įgyvendinimo. Šis sprendimas galioja iki kito biudžetinės įstaigos darbuotojų kasmetinio veiklos vertinimo. Priėmus sprendimą pritarti motyvuotam siūlymui, šis siūlymas įgyvendinamas ne vėliau kaip per 2 mėnesius nuo šioje dalyje nurodyto sprendimo priėmimo dienos ir galioja iki kito biudžetinės įstaigos darbuotojų kasmetinio veiklos vertinimo. Savininko teises ir pareigas įgyvendinančios institucijos ar jos įgalioto asmens siūlymas dėl biudžetinės įstaigos vadovo kasmetinio veiklos vertinimo įgyvendinamas ne vėliau kaip per 2 mėnesius nuo šio straipsnio 9 dalyje nurodyto sprendimo priėmimo dienos ir galioja iki kito biudžetinės įstaigos vadovo kasmetinio veiklos vertinimo.
+10. Tiesioginis biudžetinės įstaigos darbuotojo, išskyrus biudžetinės įstaigos vadovą, vadovas, kartu su biudžetinės įstaigos darbuotojų atstovavimą įgyvendinančiais asmenimis įvertinęs biudžetinės įstaigos darbuotojo praėjusių kalendorinių metų, o nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – mėnesio (mėnesių) veiklą:
+
+
+1) labai gerai, teikia vertinimo išvadą į pareigas priimančiam asmeniui su siūlymu nustatyti darbuotojui pareiginės algos kintamosios dalies dydį, ne mažesnį kaip 15 procentų pareiginės algos pastoviosios dalies, ir gali siūlyti skirti premiją pagal darbo apmokėjimo sistemoje nustatytą tvarką ir dydžius;
 
 
 
 
-12. Biudžetinės įstaigos darbuotojas priimtus sprendimus dėl jo kasmetinio veiklos vertinimo turi teisę skųsti darbo ginčams nagrinėti nustatyta tvarka.
+2) gerai, teikia vertinimo išvadą į pareigas priimančiam asmeniui su siūlymu nustatyti darbuotojui pareiginės algos kintamosios dalies dydį, ne mažesnį kaip 5 procentai pareiginės algos pastoviosios dalies dydžio, pagal darbo apmokėjimo sistemoje nustatytą tvarką ir dydžius;
+
+
+
+
+3) patenkinamai, teikia vertinimo išvadą į pareigas priimančiam asmeniui su siūlymu nenustatyti darbuotojui pareiginės algos kintamosios dalies dydžio;
+
+
+
+
+4) nepatenkinamai, teikia vertinimo išvadą į pareigas priimančiam asmeniui su siūlymu darbuotojui, išskyrus mokyklos vadovo pavaduotoją ugdymui ir mokyklos ugdymą organizuojančio skyriaus vedėją, nustatyti mažesnį pareiginės algos pastoviosios dalies koeficientą, tačiau ne mažesnį, negu šio įstatymo 1, 2, 3, 4 ir 5 prieduose tai pareigybei pagal vadovaujamo darbo patirtį ir (ar) profesinę darbo patirtį numatytas minimalus pareiginės algos pastoviosios dalies koeficientas; mokyklos vadovo pavaduotojui ugdymui, mokyklos ugdymą organizuojančio skyriaus vedėjui nustatyti vienetu mažesnį pareiginės algos pastoviosios dalies koeficientą. Su darbuotoju gali būti sudarytas rezultatų gerinimo planas (pagal Darbo kodekso 57 straipsnio 5 dalį), kurio vykdymas įvertinamas ne anksčiau kaip po 2 mėnesių. Rezultatų gerinimo plano vykdymo rezultatus įvertinus nepatenkinamai, su darbuotoju sudaryta darbo sutartis gali būti nutraukiama pagal Darbo kodekso 57 straipsnio 1 dalies 2 punktą.
+
+
+
+
+
+
+11. Į pareigas priimantis asmuo, gavęs iš tiesioginio vadovo darbuotojo įvertinimą, per 10 darbo dienų priima motyvuotą sprendimą pritarti arba nepritarti biudžetinės įstaigos darbuotojo tiesioginio vadovo siūlymui dėl šio straipsnio 10 dalyje numatytų nuostatų įgyvendinimo. Šis sprendimas galioja iki kito biudžetinės įstaigos darbuotojo kasmetinio veiklos vertinimo (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjų – mėnesio (mėnesių) veiklos vertinimo) metu priimto motyvuoto sprendimo pritarti arba nepritarti biudžetinės įstaigos darbuotojo tiesioginio vadovo siūlymui įsigaliojimo dienos. Į pareigas priimančio asmens šio straipsnio 9 dalyje nurodytas sprendimas galioja iki kito biudžetinės įstaigos vadovo kasmetinio veiklos vertinimo metu priimto šio straipsnio 9 dalyje nurodyto sprendimo įsigaliojimo dienos. Jeigu į pareigas priimantis asmuo įgaliojo kitą asmenį įvertinti biudžetinės įstaigos vadovo praėjusių kalendorinių metų veiklą, į pareigas priimantis asmuo, gavęs iš įgalioto asmens biudžetinės įstaigos vadovo įvertinimą, per 10 darbo dienų priima motyvuotą sprendimą pritarti arba nepritarti įgalioto asmens siūlymui dėl šio straipsnio 9 dalyje numatytų nuostatų įgyvendinimo. Šis sprendimas galioja iki kito biudžetinės įstaigos vadovo kasmetinio veiklos vertinimo metu priimto motyvuoto sprendimo pritarti arba nepritarti įgalioto asmens siūlymui įsigaliojimo dienos.
+
+
+
+
+12. Biudžetinės įstaigos darbuotojas priimtus sprendimus dėl jo kasmetinio veiklos vertinimo turi teisę skųsti nustatyta darbo ginčų nagrinėjimo tvarka.
 
 
 
 
 13. Jeigu dėl biudžetinės įstaigos darbuotojo laikinojo nedarbingumo, komandiruotės, atostogų ar kitų svarbių priežasčių praleidžiami šio straipsnio 3, 4, 5 ar 8 dalyje nurodyti terminai, darbuotojo veikla įvertinama per 5 darbo dienas nuo šių priežasčių išnykimo dienos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
-
-
 
 
 
@@ -894,7 +908,6 @@ darbo apmokėjimo ir komisijų narių atlygio
 už darbą įstatymo 
 1 priedas
  
- 
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI 
  
 (Baziniais dydžiais)
@@ -914,57 +927,57 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS AL
 
  I grupė  (201 ir daugiau pareigybių) 
  iki 5 
- 7,1–14,1 
- 6,4–12,7 
+ 9,1–14,1 
+ 8,4–12,7 
 
 
  nuo daugiau kaip 5 iki 10 
- 7,2–14,5 
- 6,5–13 
+ 9,2–14,5 
+ 8,5–13 
 
 
  daugiau kaip 10 
- 7,3–14,8 
- 6,6–13,6 
+ 9,3–14,8 
+ 8,6–13,6 
 
 
  II grupė  (51–200 pareigybių) 
  iki 5 
- 6,8–13,7 
- 6,2–12,3 
+ 8,8–13,7 
+ 8,2–12,3 
 
 
  nuo daugiau kaip 5 iki 10 
- 6,9–13,9 
- 6,3–12,5 
+ 8,9–13,9 
+ 8,3–12,5 
 
 
  daugiau kaip 10 
- 7–14,1 
- 6,4–12,7 
+ 9–14,1 
+ 8,4–12,7 
 
 
  III grupė (50 ir mažiau pareigybių) 
  iki 5 
- 6,5–13,3 
- 6–11,9 
+ 8,5–13,3 
+ 8–11,9 
 
 
  nuo daugiau kaip 5 iki 10 
- 6,6–13,5 
- 6,1–12,2 
+ 8,6–13,5 
+ 8,1–12,2 
 
 
  daugiau kaip 10 
- 6,7–13,7 
- 6,2–12,3 
+ 8,7–13,7 
+ 8,2–12,3 
 
 
 
- 
  
 Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -973,16 +986,16 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų 
-darbo apmokėjimo ir komisijų narių atlygio 
-už darbą įstatymo
+darbo apmokėjimo ir komisijų narių 
+atlygio už darbą įstatymo
 2 priedas
  
-VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
+VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS PADALINIŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
 
 
 I SKYRIUS
-VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
+VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS PADALINIŲ VADOVŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
 (Baziniais dydžiais)
 
@@ -1009,30 +1022,30 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
  iki 5 
- 5,9–10,5 
- 6–10,7 
- 6,1–12 
- 4,8–9,8 
- 5–10 
- 5,2–10,2 
+ 7,4–10,5 
+ 7,5–10,7 
+ 7,6–12 
+ 6,3–9,9 
+ 6,5–10,1 
+ 6,7–10,3 
 
 
  nuo daugiau kaip 5 iki 10 
- 6–10,6 
- 6,1–10,9 
- 6,2–12,1 
- 5–10 
- 5,2–10,2 
- 5,3–10,4 
+ 7,5–10,6 
+ 7,6–10,9 
+ 7,7–12,1 
+ 6,5–10,1 
+ 6,7–10,3 
+ 6,8–10,5 
 
 
  daugiau kaip 10 
- 6,1–10,7 
- 6,2–11,2 
- 6,3–12,2 
- 5,2–10,2 
- 5,3–10,4 
- 5,4–10,6 
+ 7,6–10,7 
+ 7,7–11,2 
+ 7,8–12,2 
+ 6,7–10,3 
+ 6,8–10,5 
+ 6,9–10,6 
 
 
 
@@ -1042,7 +1055,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
 II SKYRIUS
-VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
+VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS PADALINIŲ VADOVŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
 (Baziniais dydžiais)
 
@@ -1069,30 +1082,30 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
  iki 5 
- 5,4–9,5 
- 5,5–10,6 
- 5,6–11,8 
- 4,7–8,9 
- 4,8–9 
- 4,9–9,2 
+ 6,9–9,5 
+ 7,0–10,6 
+ 7,1–11,8 
+ 6,2–9,0 
+ 6,3–9,1 
+ 6,4–9,3 
 
 
  nuo daugiau kaip 5 iki 10 
- 5,5–9,6 
- 5,6–10,7 
- 5,7–11,9 
- 4,8–9 
- 4,9–9,2 
- 5–9,4 
+ 7,0–9,6 
+ 7,1–10,7 
+ 7,2–11,9 
+ 6,3–9,1 
+ 6,4–9,3 
+ 6,5–9,5 
 
 
  daugiau kaip 10 
- 5,6–9,7 
- 5,7–10,8 
- 5,8–12 
- 4,9–9,2 
- 5–9,4 
- 5,2–9,5  
+ 7,1–9,7 
+ 7,2–10,8 
+ 7,3–12 
+ 6,4–9,3 
+ 6,5–9,5 
+ 6,7–9,6  
 
 
 
@@ -1101,6 +1114,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1133,23 +1147,24 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ, SU KURIAIS SUDARYTOS SUTARTYS
 
 
  A lygis 
- 5–8,4 
- 5,1–9,4 
- 5,2–10,5 
- 5,3–11,6 
+ 5,5–8,4 
+ 5,6–9,4 
+ 5,7–10,5 
+ 5,8–11,6 
 
 
  B lygis 
- 4,6–8,1 
- 4,7–8,2 
- 4,8–8,4 
- 4,9–8,9 
+ 5,1–8,1 
+ 5,2–8,2 
+ 5,3–8,4 
+ 5,4–8,9 
 
 
 
  
 Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1182,16 +1197,17 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGO
 
 
  C lygis 
- 4,2–5,9 
- 4,3–6 
- 4,4–6,2 
- 4,5–7,8 
+ 4,7–6,2 
+ 4,8–6,3 
+ 4,9–6,5 
+ 5–7,8 
 
 
 
  
 Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1245,56 +1261,56 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
  Mokytojas 
- 6,91 
- 6,94 
- 7,0 
- 7,13 
- 7,35 
- 7,38 
- 7,42 
+ 7,44 
+ 7,47 
+ 7,53 
+ 7,67 
+ 7,91 
+ 7,94 
+ 7,98 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 7,43 
- 7,44 
- 7,45 
- 7,49 
- 7,51 
- 7,54 
- 7,59 
+ 7,99 
+ 8,01 
+ 8,02 
+ 8,06 
+ 8,08 
+ 8,11 
+ 8,17 
 
 
  Vyresnysis mokytojas 
 
- 7,6 
- 7,63 
- 7,67 
- 7,97 
- 8,01 
- 8,05 
+ 8,18 
+ 8,21 
+ 8,25 
+ 8,58 
+ 8,62 
+ 8,66 
 
 
  Mokytojas metodininkas 
 
 
- 8,12 
- 8,27 
- 8,53 
- 8,57 
- 8,62 
+ 8,74 
+ 8,9 
+ 9,18 
+ 9,22 
+ 9,28 
 
 
  Mokytojas ekspertas 
 
 
- 9,24 
- 9,39 
- 9,63 
- 9,67 
- 9,71 
+ 9,94 
+ 10,1 
+ 10,36 
+ 10,4 
+ 10,45 
 
 
 
@@ -1302,6 +1318,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
  
 Punkto pakeitimai:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1479,56 +1496,56 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
  Mokytojas 
- 6,91 
- 6,94 
- 7,0 
- 7,13 
- 7,35 
- 7,38 
- 7,42 
+ 7,44 
+ 7,47 
+ 7,53 
+ 7,67 
+ 7,91 
+ 7,94 
+ 7,98 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 7,43 
- 7,44 
- 7,45 
- 7,49 
- 7,51 
- 7,54 
- 7,59 
+ 7,99 
+ 8,01 
+ 8,02 
+ 8,06 
+ 8,08 
+ 8,11 
+ 8,17 
 
 
  Vyresnysis mokytojas 
 
- 7,6 
- 7,63 
- 7,67 
- 7,97 
- 8,01 
- 8,05 
+ 8,18 
+ 8,21 
+ 8,25 
+ 8,58 
+ 8,62 
+ 8,66 
 
 
  Mokytojas metodininkas 
 
 
- 8,12 
- 8,27 
- 8,53 
- 8,57 
- 8,62 
+ 8,74 
+ 8,9 
+ 9,18 
+ 9,22 
+ 9,28 
 
 
  Mokytojas ekspertas 
 
 
- 9,24 
- 9,39 
- 9,63 
- 9,67 
- 9,71 
+ 9,94 
+ 10,1 
+ 10,36 
+ 10,4 
+ 10,45 
 
 
 
@@ -1536,6 +1553,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
  
 Punkto pakeitimai:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1631,12 +1649,17 @@ Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
 
 
 
-16. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą mokyklose (ikimokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (ikimokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 26 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 2 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
+16. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą mokyklose (ikimokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (ikimokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
 
-17. Meninio ugdymo mokytojų, dirbančių pagal ikimokyklinio ir (arba) priešmokyklinio ugdymo programas, darbo laikas per savaitę yra 26 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 2 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
+17. Meninio ugdymo mokytojų, dirbančių pagal ikimokyklinio ir (arba) priešmokyklinio ugdymo programas, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1677,56 +1700,56 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
  Mokytojas 
- 6,91 
- 6,94 
- 7,0 
- 7,13 
- 7,35 
- 7,38 
- 7,42 
+ 7,44 
+ 7,47 
+ 7,53 
+ 7,67 
+ 7,91 
+ 7,94 
+ 7,98 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 7,43 
- 7,44 
- 7,45 
- 7,49 
- 7,51 
- 7,54 
- 7,59 
+ 7,99 
+ 8,01 
+ 8,02 
+ 8,06 
+ 8,08 
+ 8,11 
+ 8,17 
 
 
  Vyresnysis mokytojas 
 
- 7,6 
- 7,63 
- 7,67 
- 7,97 
- 8,01 
- 8,05 
+ 8,18 
+ 8,21 
+ 8,25 
+ 8,58 
+ 8,62 
+ 8,66 
 
 
  Mokytojas metodininkas 
 
 
- 8,12 
- 8,27 
- 8,53 
- 8,57 
- 8,62 
+ 8,74 
+ 8,9 
+ 9,18 
+ 9,22 
+ 9,28 
 
 
  Mokytojas ekspertas 
 
 
- 9,24 
- 9,39 
- 9,63 
- 9,67 
- 9,71 
+ 9,94 
+ 10,1 
+ 10,36 
+ 10,4 
+ 10,45 
 
 
 
@@ -1734,6 +1757,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
  
 Punkto pakeitimai:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1809,7 +1833,9 @@ Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
 
 
 
-22. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą mokyklose (priešmokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (priešmokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 26 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 2 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.). 
+22. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą mokyklose (priešmokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (priešmokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.).
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1823,6 +1849,7 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
 23. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
+ 
 
 
 
@@ -1850,59 +1877,62 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas 
- 6,91 
- 6,94 
- 7,0 
- 7,13 
- 7,35 
- 7,38 
- 7,42 
+ 7,44 
+ 7,47 
+ 7,53 
+ 7,67 
+ 7,91 
+ 7,94 
+ 7,98 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas 
- 7,43 
- 7,44 
- 7,45 
- 7,49 
- 7,51 
- 7,54 
- 7,59 
+ 7,99 
+ 8,01 
+ 8,02 
+ 8,06 
+ 8,08 
+ 8,11 
+ 8,17 
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas 
 
- 7,6 
- 7,63 
- 7,67 
- 7,97 
- 8,01 
- 8,05 
+ 8,18 
+ 8,21 
+ 8,25 
+ 8,58 
+ 8,62 
+ 8,66 
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas 
 
 
- 8,12 
- 8,27 
- 8,53 
- 8,57 
- 8,62 
+ 8,74 
+ 8,9 
+ 9,18 
+ 9,22 
+ 9,28 
 
 
  Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas 
 
 
- 9,24 
- 9,39 
- 9,63 
- 9,67 
- 9,71 
+ 9,94 
+ 10,1 
+ 10,36 
+ 10,4 
+ 10,45 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -1971,12 +2001,18 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 27. Darbo laikas per savaitę:
 
 
-27.1. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, sutrikusio vystymosi kūdikių namuose su ikimokyklinio ir priešmokyklinio amžiaus vaikais, – 32 valandos, iš jų 22 valandos skiriamos tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 10 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita);
+27.1. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, sutrikusio vystymosi kūdikių namuose su ikimokyklinio ir priešmokyklinio amžiaus vaikais, – 34 valandos, iš jų 22 valandos skiriamos tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 12 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita);
+Papunkčio pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
 
-27.2. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, su mokyklinio amžiaus vaikais, – 28 valandos, iš jų 18 valandų skiriama tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 10 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita);
+27.2. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, su mokyklinio amžiaus vaikais, – 30 valandų, iš jų 18 valandų skiriama tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 12 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita);
+Papunkčio pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -2025,59 +2061,62 @@ PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ IR ŠVIETIMO PAGALBOS
 
 
  Psichologo asistentas, specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas 
- 6,91 
- 6,94 
- 7,0 
- 7,13 
- 7,35 
- 7,38 
- 7,42 
+ 7,44 
+ 7,47 
+ 7,53 
+ 7,67 
+ 7,91 
+ 7,94 
+ 7,98 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas, ketvirtos kategorijos psichologas 
- 7,43 
- 7,44 
- 7,45 
- 7,49 
- 7,51 
- 7,54 
- 7,59 
+ 7,99 
+ 8,01 
+ 8,02 
+ 8,06 
+ 8,08 
+ 8,11 
+ 8,17 
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas, vyresnysis socialinis pedagogas, trečios kategorijos psichologas 
 
- 7,6 
- 7,63 
- 7,67 
- 7,97 
- 8,01 
- 8,05 
+ 8,18 
+ 8,21 
+ 8,25 
+ 8,58 
+ 8,62 
+ 8,66 
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas, socialinis pedagogas metodininkas, antros kategorijos psichologas 
 
 
- 8,12 
- 8,27 
- 8,53 
- 8,57 
- 8,62 
+ 8,74 
+ 8,9 
+ 9,18 
+ 9,22 
+ 9,28 
 
 
- Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas, socialinis pedagogas ekspertas, pirmos kategorijos psichologas 
+ Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas, socialinis pedagogas ekspertas,  pirmos kategorijos psichologas 
 
 
- 9,24 
- 9,39 
- 9,63 
- 9,67 
- 9,71 
+ 9,94 
+ 10,1 
+ 10,36 
+ 10,4 
+ 10,45 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -2176,10 +2215,10 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 
 
  Auklėtojas, koncertmeisteris, akompaniatorius 
- 5,1 
- 5,2 
- 5,25 
- 5,3 
+ 5,5 
+ 5,7 
+ 5,8 
+ 5,85 
 
 
 
@@ -2196,33 +2235,34 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 
 
  Auklėtojas, koncertmeisteris, akompaniatorius  
- 5,4 
- 5,45 
- 5,5 
+ 5,9 
+ 5,95 
+ 6 
 
 
  Vyresnysis auklėtojas, vyresnysis koncertmeisteris, vyresnysis akompaniatorius  
- 5,6 
- 5,65 
- 5,7 
+ 6,05 
+ 6,1 
+ 6,15 
 
 
  Auklėtojas metodininkas, koncertmeisteris metodininkas, akompaniatorius metodininkas  
- 5,75 
- 5,8 
- 5,85 
+ 6,20 
+ 6,25 
+ 6,3 
 
 
  Auklėtojas ekspertas, koncertmeisteris ekspertas, akompaniatorius ekspertas 
- 5,95 
- 6,02 
- 6,17 
+ 6,40 
+ 6,48 
+ 6,64 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -2278,17 +2318,25 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 
 
 
-35. Koncertmeisterių ir akompaniatorių, dirbančių mokykloje, darbo laikas per savaitę yra 26 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 2 valandos – netiesioginiam darbui su mokiniais (pasiruošti pamokoms, renginiams ir metodinei veiklai). 
+35. Koncertmeisterių ir akompaniatorių, dirbančių mokykloje, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (pasiruošti pamokoms, renginiams ir metodinei veiklai).
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
 
-36. Auklėtojų, dirbančių bendrojo ugdymo mokyklose (išskyrus bendrojo ugdymo mokyklas, skirtas mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, ir sanatorijų mokyklas), darbo laikas per savaitę yra 30 valandų, iš jų 28 valandos skiriamos tiesioginiam darbui su mokiniais, 2 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.). 
+36. Auklėtojų, dirbančių bendrojo ugdymo mokyklose (išskyrus bendrojo ugdymo mokyklas, skirtas mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, ir sanatorijų mokyklas), darbo laikas per savaitę yra 32 valandos, iš jų 28 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.).
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
 
-37. Auklėtojų, dirbančių su mokyklinio amžiaus vaikais bendrojo ugdymo mokyklose (grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose, vaikų socializacijos centruose, socialinės globos įstaigose, skirtose vaikams, darbo laikas per savaitę yra 26 valandos, iš jų 24 valandos per savaitę skiriamos tiesioginiam darbui su mokiniais, 2 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.).
+37. Auklėtojų, dirbančių su mokyklinio amžiaus vaikais bendrojo ugdymo mokyklose (grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose, vaikų socializacijos centruose, socialinės globos įstaigose, skirtose vaikams, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.).
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -2311,18 +2359,21 @@ PAGALBOS MOKINIUI SPECIALISTŲ, NENURODYTŲ ŠIO PRIEDO IV, V IR VI SKYRIUOSE, P
 
 
  iki 10  
- 5,95 
+ 6,4 
 
 
  nuo daugiau kaip 10 iki 15  
- 6,65 
+ 7,16 
 
 
  daugiau kaip 15  
- 7,35 
+ 7,91 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -2377,7 +2428,6 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 
 
 42. Mokyklų vadovų pareiginės algos pastoviosios dalies koeficientai:
- 
 (Baziniais dydžiais)
 
 
@@ -2391,9 +2441,9 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
    
 
 
- iki 10 metų  
- nuo daugiau kaip 10 iki 15 metų 
- daugiau kaip 15 metų 
+ iki 10  
+ nuo daugiau kaip 10 iki 15  
+ daugiau kaip 15  
 
 
 
@@ -2403,37 +2453,37 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 
 
  iki 200 
- 10,71 
- 11,1 
- 11,37 
+ 12,54 
+ 13 
+ 13,31 
 
 
 
  201–400 
- 11,7 
- 11,8 
- 11,81 
+ 13,7 
+ 13,82 
+ 13,83 
 
 
 
  401–600 
- 11,74 
- 11,82 
- 11,85 
+ 13,75 
+ 13,84 
+ 13,88 
 
 
 
  601–1 000 
- 12,6 
- 12,62 
- 12,65 
+ 14,75 
+ 14,78 
+ 14,81 
 
 
 
  1 001 ir daugiau 
- 12,62 
- 12,64 
- 12,68 
+ 14,78 
+ 14,8 
+ 14,85 
 
 
 
@@ -2441,13 +2491,13 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
  
 Punkto pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
 
 
 43. Mokyklų vadovų pavaduotojų ugdymui pareiginės algos pastoviosios dalies koeficientai: 
- 
 (Baziniais dydžiais)
 
 
@@ -2465,21 +2515,22 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 
 
  iki 500 
- 10,44 
- 10,46 
- 10,48 
+ 12,23 
+ 12,25 
+ 12,27 
 
 
  501 ir daugiau 
- 10,5 
- 10,65 
- 10,8 
+ 12,30 
+ 12,47 
+ 12,65 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -2549,7 +2600,6 @@ MOKYKLŲ UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ PAREIGINĖS ALGOS PASTOVIOSI
 
 
 47. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai: 
- 
 (Baziniais dydžiais)
 
 
@@ -2559,21 +2609,22 @@ MOKYKLŲ UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ PAREIGINĖS ALGOS PASTOVIOSI
 
 
  iki 10  
- 9,1 
+ 10,66 
 
 
  nuo daugiau kaip 10 iki 15  
- 9,5 
+ 11,12 
 
 
  daugiau kaip 15  
- 10 
+ 11,71 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -2651,55 +2702,58 @@ X SKYRIUS
  vadovų pavaduotojų 
 
 
- 201 ir daugiau pareigybių 
+ 201 ir daugiau  
  iki 5 
- 10,65–14,1 
- 9,6–12,7 
+ 12,47–14,1 
+ 11,24–12,7 
 
 
  nuo daugiau kaip 5 iki 10 
- 10,8–14,5 
- 9,75–13 
+   12,65–14,5 
+ 11,42–13 
 
 
  daugiau kaip 10 
- 10,95–14,8 
- 9,9–13,6 
+ 12,82–14,8 
+ 11,59–13,6 
 
 
- 51–200 pareigybių 
+ 51–200  
  iki 5 
- 10,2–13,7 
- 9,3–12,3 
+ 11,94–13,7 
+ 10,89–12,3 
 
 
  nuo daugiau kaip 5 iki 10 
- 10,35–13,9 
- 9,45–12,5 
+ 12,12–13,9 
+ 11,07–12,5 
 
 
  daugiau kaip 10 
- 10,5–14,1 
- 9,6–12,7 
+ 12,3–14,1 
+ 11,24–12,7 
 
 
- 50 ir mažiau pareigybių 
+ 50 ir mažiau  
  iki 5 
- 9,75–13,3 
- 9–11,9 
+ 11,42–13,3 
+ 10,54–11,9 
 
 
  nuo daugiau kaip 5 iki 10 
- 9,9–13,5 
- 9,15–12,2 
+ 11,59–13,5 
+ 10,71–12,2 
 
 
  daugiau kaip 10 
- 10,05–13,7 
- 9,3–12,3 
+ 11,77–13,7 
+ 10,89–12,3 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -2731,33 +2785,36 @@ X SKYRIUS
 
 
  iki 5 
- 8,61–10,5 
- 8,76–10,7 
- 8,91–12 
- 7–9,8 
- 7,3–10 
- 7,6–10,2 
+ 10,08–10,5 
+ 10,26–10,7 
+ 10,43–12 
+ 8,2–9,8 
+ 8,55–10 
+ 8,9–10,2 
 
 
  nuo daugiau kaip 5 iki 10 
- 8,76–10,6 
- 8,91–10,9 
- 9,05–12,1 
- 7,3–10 
- 7,6–10,2 
- 7,74–10,4 
+ 10,26–10,6 
+ 10,43–10,9 
+ 10,6–12,1 
+ 8,55–10 
+ 8,9–10,2 
+ 9,06–10,4 
 
 
  daugiau kaip 10 
- 8,91–10,7 
- 9,05–11,2 
- 9,2–12,2 
- 7,6–10,2 
- 7,74–10,4 
- 7,88–10,6 
+ 10,43–10,7 
+ 10,6–11,2 
+ 10,77–12,2 
+ 8,9–10,2 
+ 9,06–10,4 
+ 9,23–10,6 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
 
 
@@ -2839,3 +2896,8 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 7, 8, 14 straipsnių ir 5 priedo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 3, 5, 6, 7, 9, 12, 14 straipsnių ir 1, 2, 3, 4, 5 priedų pakeitimo įstatymas
