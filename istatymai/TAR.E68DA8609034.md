@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -1643,8 +1643,10 @@ INVESTUOTOJAMS IR PRIEŽIŪROS INSTITUCIJAI TEIKIAMA INFORMACIJA
 
 
 
-19) informaciją, nurodytą Reglamente (ES) 2019/2088. 
+19) informaciją, nurodytą Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose.
 Papildyta straipsnio punktu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+Straipsnio punkto pakeitimai:
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
@@ -1835,8 +1837,10 @@ VALDYMO ĮMONĖS IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ METŲ VEIKLOS ATASKAITOS 
 
 
 
-8) informaciją, nurodytą Reglamente (ES) 2019/2088; 
+8) informaciją, nurodytą Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose;
 Papildyta straipsnio punktu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+Straipsnio punkto pakeitimai:
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
  
 
@@ -4213,7 +4217,7 @@ DEPOZITORIUMO IR VALDYMO ĮMONIŲ PRIEŽIŪRA
 
 
 
-12. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir turi šiame ir kituose Lietuvos Respublikos įstatymuose, taip pat Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156 ir Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas teises ir pareigas.
+12. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir turi šiame ir kituose Lietuvos Respublikos įstatymuose, taip pat Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas teises ir pareigas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
@@ -4256,7 +4260,7 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 
-5) kitas šiame ir kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156 ir Reglamente (ES) 2019/2088 nustatytas funkcijas.
+5) kitas šiame ir kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 nustatytas funkcijas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
@@ -4287,7 +4291,7 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 
-3. Priežiūros institucija, įgyvendindama Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) 2019/1156 ir Reglamento (ES) 2019/2088 jai pavestas funkcijas, turi šio straipsnio 2 dalies 1 ir 2 punktuose, šio įstatymo 60 straipsnio 1 dalies 8, 9 punktuose, taip pat Lietuvos banko įstatymo 42 straipsnio 4 dalies 2, 3, 6, 7, 8, 9, 10, 11 punktuose ir 8, 9 dalyse nustatytas teises.
+3. Priežiūros institucija, įgyvendindama Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) 2019/1156, Reglamento (ES) 2019/2088 ir Reglamento (ES) 2020/852 jai pavestas funkcijas, turi šio straipsnio 2 dalies 1 ir 2 punktuose, šio įstatymo 60 straipsnio 1 dalies 8, 9 punktuose, taip pat Lietuvos banko įstatymo 42 straipsnio 4 dalies 2, 3, 6, 7, 8, 9, 10, 11 punktuose ir 8, 9 dalyse nustatytas teises.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
@@ -4501,7 +4505,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Priežiūros institucija valdymo įmonėms, pažeidusioms Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) Nr. 231/2013, Reglamento (ES) Nr. 2017/1131, Reglamento (ES) 2019/1156 ar Reglamento (ES) 2019/2088 nuostatas, turi teisę:
+2. Priežiūros institucija valdymo įmonėms, pažeidusioms Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) Nr. 231/2013, Reglamento (ES) Nr. 2017/1131, Reglamento (ES) 2019/1156, Reglamento (ES) 2019/2088 ar Reglamento (ES) 2020/852 5, 6 ir 7 straipsnių nuostatas, turi teisę:
 
 
 1) taikyti šio straipsnio 1 dalies 1, 2, 3, 4 ir 5 punktuose nurodytas poveikio priemones;
@@ -4574,7 +4578,7 @@ Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
 
 
 
-5) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156 ar Reglamente (ES) 2019/2088 nustatyti reikalavimai;
+5) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) Nr. 2017/1131, Reglamente (ES) 2019/1156, Reglamente (ES) 2019/2088 ar Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
@@ -4756,6 +4760,14 @@ priedas
 
 
 10. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
+
+
+
+
+11. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088.
+Papildyta punktu:
+Nr. XIV-802, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27380
+ 
 
 
 Priedo pakeitimai:
