@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2021-12-04 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-28
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -590,7 +590,7 @@ Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
@@ -600,6 +600,7 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 Nr. XIII-3172, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15504
 Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354
 Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -1177,7 +1178,10 @@ ADMINISTRACINIŲ NUOBAUDŲ IR ADMINISTRACINIO POVEIKIO PRIEMONIŲ SKYRIMAS
 1. Šio kodekso 610 straipsnyje nustatytais pagrindais surašant administracinį nurodymą:
 
 
-1) asmeniui siūloma sumokėti pusę minimalios baudos, nustatytos šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą;
+1) asmeniui siūloma sumokėti pusę minimalios baudos, nustatytos šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
+ 
 
 
 
@@ -1212,7 +1216,10 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-2. Šio kodekso 612 straipsnyje numatytais atvejais administraciniu nurodymu siūlomos baudos dydis lygus pusei didžiausios minimalios baudos, o kai asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – didžiausia minimali bauda, nustatyta šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika. Jeigu šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika, numatyta administracinio poveikio priemonė – privalomas asmeniui suteiktos specialiosios teisės atėmimas, specialiosios teisės atėmimo trukmė lygi ilgiausiam šiuose straipsniuose nustatytam minimaliam skiriamo specialiosios teisės atėmimo terminui.
+2. Šio kodekso 612 straipsnyje numatytais atvejais administraciniu nurodymu siūlomos baudos dydis lygus pusei didžiausios minimalios baudos, o kai asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – didžiausia minimali bauda, nustatyta šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika. Jeigu šio kodekso straipsniuose, pagal kuriuos kvalifikuojama asmens veika, numatyta administracinio poveikio priemonė – privalomas asmeniui suteiktos specialiosios teisės atėmimas, specialiosios teisės atėmimo trukmė lygi ilgiausiam šiuose straipsniuose nustatytam minimaliam skiriamo specialiosios teisės atėmimo terminui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
+ 
 
 
 Straipsnio pakeitimai:
@@ -11244,10 +11251,10 @@ užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų
 
 
 
-321 straipsnis. Patekimas į branduolinės energetikos objekto aikštelę neturint tam teisės
+321 straipsnis. Patekimas į saugomą objektą, kuriame yra nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto, arba į branduolinės energetikos objekto aikštelę neturint tam teisės
 
 
-1. Patekimas ar bandymas patekti į branduolinės energetikos objekto aikštelę neturint tam teisės
+1. Patekimas ar bandymas patekti į saugomą objektą, kuriame yra nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto, arba į branduolinės energetikos objekto aikštelę neturint tam teisės
 užtraukia baudą nuo trisdešimt iki septyniasdešimt eurų.
 
 
@@ -11259,6 +11266,7 @@ užtraukia baudą nuo penkiasdešimt iki dviejų šimtų penkiasdešimt eurų.
 
 Straipsnio pakeitimai:
 Nr. XIII-289, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07278
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -11288,18 +11296,10 @@ užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsaki
 
 
 
-323 straipsnis. Energijos ar energijos išteklių tiekimo sistemų ir jų įrengimų sugadinimas arba savavališkas prietaisų pastatymas, perkėlimas, įjungimas į tinklą, taip pat kiti jų eksploatavimo taisyklių pažeidimai
-
-
-Energijos ar energijos išteklių tiekimo sistemų ir jų įrengimų sugadinimas arba savavališkas prietaisų pastatymas, perkėlimas, įjungimas į tinklą, taip pat kiti jų eksploatavimo taisyklių pažeidimai, kurie galėjo būti avarijos priežastis,
-
-
-
-
-užtraukia įspėjimą arba baudą asmenims nuo keturiolikos iki trisdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+323 straipsnis. Neteko galios nuo 2022-01-01
+Straipsnio naikinimas:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
-
-
 
 
 
@@ -11320,19 +11320,20 @@ užtraukia įspėjimą arba baudą asmenims nuo trisdešimt iki vieno šimto ket
 
 
 
-325 straipsnis. Energetikos (elektros, šilumos, gamtinių ar suskystintų naftos dujų, naftos ar naftos produktų) įrenginių įrengimo, eksploatavimo ir saugos norminių aktų pažeidimas
+325 straipsnis. Energetikos įrenginių įrengimo, eksploatavimo ir saugos norminių aktų pažeidimas
 
 
-Energetikos (elektros, šilumos, gamtinių ar suskystintų naftos dujų, naftos ar naftos produktų) įrenginių įrengimo, eksploatavimo ir saugos norminių aktų pažeidimas
+Energetikos įrenginių įrengimo, eksploatavimo ir saugos norminių aktų pažeidimas
 
 
 
 
-užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų ir įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų iki keturių šimtų keturiasdešimt eurų.
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų iki keturių šimtų keturiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
- 
-
-
 
 
 
@@ -11355,18 +11356,34 @@ užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsaki
 
 
 
-327 straipsnis. Energetikos objektų ir įrenginių apsaugos taisyklių pažeidimas 
+327 straipsnis. Energijos ar energijos išteklių tiekimo sistemų ir jų įrenginių sugadinimas ir (arba) energetikos objektų ir įrenginių apsaugos norminių aktų pažeidimas
 
 
-Energetikos objektų ir įrenginių apsaugos taisyklių pažeidimas
+1. Energijos ar energijos išteklių tiekimo sistemų ir jų įrenginių sugadinimas ir (arba) energetikos objektų ir įrenginių apsaugos norminių aktų pažeidimas, nesukėlęs energetikos objektų ir (ar) įrenginių veikimo trikdžių ir neturėjęs įtakos saugiam, patikimam ar nenutrūkstamam energetikos objektų ir (ar) įrenginių veikimui,
+užtraukia baudą asmenims nuo septyniasdešimt iki vieno šimto penkiasdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki šešių šimtų eurų.
 
 
 
 
-užtraukia įspėjimą arba baudą asmenims nuo keturiolikos iki trisdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+3. Energijos ar energijos išteklių tiekimo sistemų ir jų įrenginių sugadinimas ir (arba) energetikos objektų ir įrenginių apsaugos norminių aktų pažeidimas, sukėlęs energetikos objektų ir (ar) įrenginių veikimo trikdžių arba turėjęs įtakos saugiam, patikimam ar nenutrūkstamam energetikos objektų ir (ar) įrenginių veikimui,
+užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo trijų šimtų iki šešių šimtų eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių keturių šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
-
-
 
 
 
@@ -12109,6 +12126,26 @@ užtraukia baudą asmenims nuo trijų šimtų iki šešių šimtų eurų ir juri
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
 užtraukia baudą asmenims nuo šešių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo septynių šimtų iki vieno tūkstančio eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
+ 
+
+
+
+
+3427 straipsnis. Integruotos kenksmingųjų organizmų kontrolės bendrųjų principų laikymosi pažeidimas 
+
+
+1. Integruotos kenksmingųjų organizmų kontrolės bendrųjų principų laikymosi pažeidimas 
+užtraukia baudą asmenims nuo trisdešimt iki vieno šimto eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki vieno šimto penkiasdešimt eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo vieno šimto iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų. 
 
 
 Papildyta straipsniu:
@@ -14525,10 +14562,12 @@ užtraukia baudą laivų valdytojams – asmenims arba juridinių asmenų vadova
 
 
 
-24. Teisės aktuose nustatytų reikalavimų dėl jūrų laivo avarijos ar incidento tyrimo metu gautos informacijos konfidencialumo užtikrinimo pažeidimas 
+24. Teisės aktuose nustatytų reikalavimų dėl laivo avarijos ar incidento tyrimo metu gautos informacijos konfidencialumo užtikrinimo pažeidimas 
 užtraukia baudą asmenims nuo vieno tūkstančio iki trijų tūkstančių eurų. 
 Papildyta straipsnio dalimi:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Straipsnio dalies pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -14824,7 +14863,7 @@ užtraukia baudą asmenims nuo šešiolikos iki trisdešimt eurų ir juridinių 
 4131 straipsnis. Reikalavimų dėl eismo saugos rekomendacijų, saugos rekomendacijų vertinimo pažeidimas
 
 
-Reikalavimų dėl geležinkelių transporto katastrofos, eismo įvykio ar rikto tyrimo eismo saugos rekomendacijų, jūrų laivo avarijos ar incidento tyrimo saugos rekomendacijų, orlaivio avarijos ar incidento tyrimo saugos rekomendacijų įvertinimo pažeidimas
+Reikalavimų dėl geležinkelių transporto katastrofos, eismo įvykio ar rikto tyrimo eismo saugos rekomendacijų, laivo avarijos ar incidento tyrimo saugos rekomendacijų, orlaivio avarijos ar incidento tyrimo saugos rekomendacijų įvertinimo pažeidimas 
 
 
 
@@ -14832,18 +14871,18 @@ Reikalavimų dėl geležinkelių transporto katastrofos, eismo įvykio ar rikto 
 užtraukia baudą asmenims nuo penkiasdešimt iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki vieno tūkstančio dviejų šimtų eurų. 
 
 
-Papildyta straipsniu:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Straipsnio pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
 
 
-414 straipsnis. Neeksploatuojamų transporto priemonių laikymas bendrojo naudojimo vietose
+414 straipsnis. Neeksploatuojamų ir negalimų eksploatuoti transporto priemonių laikymas bendrojo naudojimo vietose
 
 
-1. Neeksploatuojamos, paliktos be priežiūros transporto priemonės laikymas bendrojo naudojimo vietose ir po savivaldybės, policijos ar kitos suinteresuotos institucijos pareigūno rašytinio perspėjimo nesiėmimas priemonių ja pasirūpinti
-užtraukia baudą transporto priemonių savininkams nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
+1. Neeksploatuojamos ar negalimos eksploatuoti transporto priemonės laikymas bendrojo naudojimo vietose
+užtraukia įspėjimą transporto priemonių savininkams (valdytojams).
 
 
 
@@ -14854,10 +14893,12 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-3. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą gali būti skiriamas transporto priemonės konfiskavimas.
+3. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą gali būti skiriamas transporto priemonės konfiskavimas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
  
-
-
 
 
 
@@ -18988,11 +19029,12 @@ Neatvykimas į privalomąją karo tarnybą, savanorišką nenuolatinę karo tarn
 
 
 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki keturių šimtų penkiasdešimt eurų. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2681, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21322
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -19031,17 +19073,19 @@ užtraukia baudą nuo dviejų šimtų penkiasdešimt iki vieno tūkstančio penk
 560 straipsnis. Karo prievolininkų pareigų nevykdymas
 
 
-1. Lietuvos Respublikos karo prievolės įstatyme nustatytų karo prievolininkų pareigų, išskyrus šio kodekso 558 straipsnyje numatytus atvejus, nevykdymas, paskirtų atlikti alternatyviąją krašto apsaugos tarnybą karo prievolininkų pareigų nevykdymas 
-užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
+1. Lietuvos Respublikos karo prievolės įstatyme nustatytų karo prievolininkų pareigų, išskyrus šio kodekso 558 straipsnyje numatytus atvejus, nevykdymas, paskirtų atlikti alternatyviąją krašto apsaugos tarnybą karo prievolininkų pareigų nevykdymas
+užtraukia baudą nuo šešiasdešimt iki devyniasdešimt eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo devyniasdešimt iki dviejų šimtų dešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
-
-
 
 
 
@@ -19316,43 +19360,30 @@ Kiekvienas administracinėn atsakomybėn traukiamas asmuo, taip pat nukentėjusy
 573 straipsnis. Šaukimų ir kitų procesinių dokumentų įteikimas administracinio nusižengimo teisenoje dalyvaujantiems asmenims 
 
 
-1. Šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims siunčiami registruotu laišku arba elektroniniu paštu. Registruotas laiškas siunčiamas į asmens oficialiai deklaruotą gyvenamąją vietą arba kitą žinomą asmens gyvenamąją vietą, arba jo darbovietę, arba mokymo įstaigą, arba Užimtumo tarnybą prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba), jeigu asmuo yra registruotas bedarbiu, išskyrus atvejus, kai šaukimai įteikiami administracinio nusižengimo teisenoje dalyvaujantiems asmenims atvykus į instituciją, kurios pareigūnas atliko administracinio nusižengimo tyrimą, arba į teismą. Šaukimai ir kiti procesiniai dokumentai visais atvejais įteikiami asmeniškai, o kai administracinio nusižengimo teisenoje dalyvaujančio asmens įteikimo metu nėra, – kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių, darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje – asmeniui, atsakingam už korespondencijos priėmimą. Šie asmenys privalo kuo greičiau perduoti šaukimą ar kitą procesinį dokumentą adresatui. Procesinio dokumento įteikimo diena laikoma jo įteikimo adresatui, kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių ar darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje už korespondencijos priėmimą atsakingam asmeniui diena. Atsisakymas priimti procesinį dokumentą arba pasirašyti dėl jo gavimo prilygsta procesinio dokumento įteikimui. Šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims gali būti siunčiami elektroniniu paštu, kai asmenys elektroninio pašto adresą nurodė valstybės informacinėse sistemose ar registruose, kurie naudojami elektroniniu būdu teikiamoms paslaugoms gauti ar prievolėms įvykdyti. Kai asmenys elektroninio pašto adreso nenurodė valstybės informacinėse sistemose ar registruose, šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims elektroniniu paštu gali būti siunčiami asmeniui išreiškus pageidavimą gauti procesinius dokumentus konkrečioje administracinio nusižengimo byloje elektroniniu paštu. 
+1. Šaukimus ir kitus procesinius dokumentus administracinio nusižengimo teisenoje dalyvaujantiems asmenims administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija siunčia per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą (toliau – E. pristatymo sistema), elektroniniu paštu, kitomis elektroninių ryšių priemonėmis arba registruotąja pašto siunta. Registruotoji pašto siunta siunčiama į asmens oficialiai deklaruotą gyvenamąją vietą arba kitą žinomą asmens gyvenamąją vietą, arba jo darbovietę, arba mokymo įstaigą, arba Užimtumo tarnybą prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba), jeigu asmuo yra registruotas bedarbiu, išskyrus atvejus, kai šaukimai įteikiami administracinio nusižengimo teisenoje dalyvaujantiems asmenims atvykus į instituciją, kurios pareigūnas atliko administracinio nusižengimo tyrimą. Šaukimai ir kiti procesiniai dokumentai visais atvejais įteikiami asmeniškai, o kai administracinio nusižengimo teisenoje dalyvaujančio asmens įteikimo metu nėra, – kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių, darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje – asmeniui, atsakingam už korespondencijos priėmimą. Šie asmenys privalo kuo greičiau perduoti šaukimą ar kitą procesinį dokumentą adresatui. Procesinio dokumento, kuris siunčiamas registruotąja pašto siunta, įteikimo diena laikoma jo įteikimo adresatui, kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių ar darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje už korespondencijos priėmimą atsakingam asmeniui diena. Atsisakymas priimti procesinį dokumentą, siunčiamą registruotąja pašto siunta, arba pasirašyti dėl jo gavimo prilygsta procesinio dokumento įteikimui. Šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims gali būti siunčiami elektroniniu paštu, kai asmenys elektroninio pašto adresą nurodė Lietuvos Respublikos gyventojų registre (toliau – Gyventojų registras) ar valstybės informacinėse sistemose ar registruose, kurie naudojami elektroniniu būdu teikiamoms paslaugoms gauti ar prievolėms įvykdyti. Kai asmenys elektroninio pašto adreso nenurodė Gyventojų registre ar valstybės informacinėse sistemose ar registruose, šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims elektroniniu paštu gali būti siunčiami asmeniui išreiškus pageidavimą gauti procesinius dokumentus konkrečioje administracinio nusižengimo byloje elektroniniu paštu.
+
+
+
+
+2. Teismas šaukimus ir kitus procesinius dokumentus administracinio nusižengimo teisenoje dalyvaujantiems asmenims siunčia elektroninių ryšių priemonėmis teisingumo ministro nustatyta tvarka ir forma arba registruotąja pašto siunta. Registruotosios pašto siuntos įteikimui taikomos šio straipsnio 1 dalies nuostatos. Institucijai, kurios pareigūnas atliko administracinio nusižengimo tyrimą, kitiems viešojo administravimo subjektams, advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, Lietuvos Respublikos Seimo kontrolieriams, žvalgybos kontrolieriams, lygių galimybių kontrolieriui, vaiko teisių apsaugos kontrolieriui, valstybės ir savivaldybių įmonėms, finansų įstaigoms, draudimo ir audito įmonėms, teismo ekspertams, bankroto administratoriams ir restruktūrizavimo administratoriams teismas šaukimus, pranešimus, skundų, nutarimų (nutarčių) kopijas (nuorašus) ir kitus procesinius dokumentus įteikia elektroninių ryšių priemonėmis. Elektroninių ryšių priemonėmis šaukimai, pranešimai, skundų kopijos (nuorašai) ir kiti procesiniai dokumentai taip pat įteikiami asmenims, kuriems teisės aktuose ar su teismų ar administracinį nusižengimą tiriančios arba bylą nagrinėjančios institucijos informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga priimti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims teismas šaukimus, pranešimus, skundų kopijas (nuorašus) ir kitus procesinius dokumentus įteikia šio straipsnio 1 dalyje nurodytomis elektroninių ryšių priemonėmis, jeigu jie pageidauja procesinius dokumentus gauti tokiu būdu ir yra nurodę gavėjo E. pristatymo sistemos elektroninio pristatymo dėžutės adresą, elektroninio pašto adresą arba kitą elektroninių ryšių priemonių adresą.
 Straipsnio dalies pakeitimai:
-Nr. XIII-954, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21666
-Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIV-870, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26907
  
 
 
 
 
-2. Administracinėn atsakomybėn traukiamam asmeniui, nukentėjusiajam, kurie buvo šaukiami į administracinio nusižengimo bylos nagrinėjimą, apie tolesnį bylos nagrinėjimą gali būti pranešama neregistruotu laišku ar kitu būdu siunčiamu pranešimu, išskyrus šio kodekso 629 straipsnio 2 dalyje numatytus atvejus.
+3. Administracinėn atsakomybėn traukiamam asmeniui, nukentėjusiajam, kurie buvo šaukiami į administracinio nusižengimo bylos nagrinėjimą, apie tolesnį bylos nagrinėjimą gali būti pranešama neregistruotąja pašto siunta, išskyrus šio kodekso 629 straipsnio 2 dalyje numatytus atvejus.
 
 
 
 
-3. Neteko galios nuo 2021-07-01.
-Straipsnio dalies pakeitimai:
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
+4. Šiame kodekse nustatytais atvejais ir tvarka įteikiant administracinio nusižengimo teisenoje dalyvaujančiam asmeniui ar kitiems asmenims procesinį dokumentą per E. pristatymo sistemą, kai elektroninio pristatymo dėžutė yra aktyvi, elektroniniu paštu arba kitomis elektroninių ryšių priemonėmis, procesinio dokumento įteikimo diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
  
-
-
-
-
-4. Institucijai, kurios pareigūnas atliko administracinio nusižengimo tyrimą, kitiems viešojo administravimo subjektams, advokatams, advokatų padėjėjams, antstoliams, antstolių padėjėjams, notarams, Lietuvos Respublikos Seimo kontrolieriams, lygių galimybių kontrolieriui, vaiko teisių apsaugos kontrolieriui, valstybės ir savivaldybių įmonėms, finansų įstaigoms, draudimo ir audito įmonėms, teismo ekspertams, bankroto administratoriams ir restruktūrizavimo administratoriams teismas šaukimus, pranešimus, skundų, nutarimų (nutarčių) kopijas (nuorašus) ir kitus procesinius dokumentus įteikia elektroninių ryšių priemonėmis. Elektroninių ryšių priemonėmis šaukimai, pranešimai, skundų kopijos (nuorašai) ir kiti procesiniai dokumentai taip pat įteikiami asmenims, kuriems teisės aktuose ar su teismų ar administracinį nusižengimą tiriančios arba bylą nagrinėjančios institucijos informacinės sistemos valdytoju sudarytoje sutartyje nustatyta pareiga priimti procesinius dokumentus elektroninių ryšių priemonėmis. Kitiems asmenims teismas šaukimus, pranešimus, skundų kopijas (nuorašus) ir kitus procesinius dokumentus įteikia elektroninių ryšių priemonėmis, jeigu jie pageidauja procesinius dokumentus gauti tokiu būdu ir yra nurodę gavėjo elektroninio pašto adresą arba kitą elektroninių ryšių priemonių adresą. Teismo šaukimų, pranešimų, skundų kopijų (nuorašų) ir kitų procesinių dokumentų įteikimo elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
-
-
-
-
-5. Šiame kodekse nustatytais atvejais ir tvarka įteikiant administracinio nusižengimo teisenoje dalyvaujančiam asmeniui ar kitiems asmenims procesinį dokumentą elektroniniu paštu ar elektroninių ryšių priemonėmis, procesinio dokumento įteikimo diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
- 
-
-
 
 
 
@@ -19360,10 +19391,27 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 574 straipsnis. Procesinių dokumentų pateikimas elektroninių ryšių priemonėmis
 
 
-Procesiniai dokumentai (skundai, prašymai, paaiškinimai ir kt.) teismui, administracinio nusižengimo bylą ne teismo tvarka nagrinėjančiai institucijai gali būti pateikiami elektroninės formos elektroninių ryšių priemonėmis. Procesinių dokumentų pateikimo teismui elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras. Kai procesinis dokumentas teismui ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjančiai institucijai pateikiamas elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama Lietuvos Respublikos teismų įstatyme (toliau – Teismų įstatymas) nustatytais būdais. Jeigu procesiniai dokumentai išsiųsti elektroninių ryšių priemonėmis iki paskutinės termino dienos dvidešimt ketvirtos valandos nulis minučių, procesinis terminas nelaikomas praleistu.
+1. Skundai, prašymai, paaiškinimai ir kiti procesiniai dokumentai administracinio nusižengimo bylą ne teismo tvarka nagrinėjančiai institucijai gali būti pateikiami per E. pristatymo sistemą, elektroniniu paštu arba kitomis elektroninių ryšių priemonėmis. 
+
+
+
+
+2. Teismui skundai, prašymai, paaiškinimai ir kiti procesiniai dokumentai elektroninių ryšių priemonėmis gali būti teikiami teisingumo ministro nustatyta tvarka ir forma.
+
+
+
+
+3. Teikiant procesinius dokumentus šiame straipsnyje nustatyta tvarka, asmens tapatybė patvirtinama Lietuvos Respublikos teismų įstatyme nustatytais būdais.
+
+
+
+
+4. Jeigu procesiniai dokumentai išsiųsti elektroninių ryšių priemonėmis iki paskutinės termino dienos dvidešimt ketvirtos valandos nulis minučių, laikoma, kad procesinis terminas nepraleistas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
  
-
-
 
 
 
@@ -19432,7 +19480,10 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-3) teikti raštu ar elektroninių ryšių priemonėmis paaiškinimus nagrinėjant bylą rašytinio proceso tvarka; 
+3) pateikti elektroninių ryšių priemonėmis, pašto siunta arba tiesiogiai administracinio nusižengimo tyrimą atliekančiam pareigūnui, teismui ar kitai administracinio nusižengimo bylą ne teismo tvarka nagrinėjančiai institucijai paaiškinimus nagrinėjant bylą rašytinio proceso tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
+ 
 
 
 
@@ -19495,15 +19546,17 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 578 straipsnis. Nukentėjusysis
 
 
-1. Nukentėjusiuoju administracinio nusižengimo byloje laikomas fizinis arba juridinis asmuo, kuriam administraciniu nusižengimu padaryta fizinė, turtinė ar neturtinė žala. Asmuo pripažįstamas nukentėjusiuoju administracinį nusižengimą tiriančio pareigūno sprendimu, kuris įforminamas įrašu administracinio nusižengimo protokole, arba administracinio nusižengimo bylą ne teismo tvarka nagrinėjančios institucijos (pareigūno) nutarimu ar teismo nutartimi.
+1. Nukentėjusiuoju administracinio nusižengimo byloje laikomas fizinis asmuo, kuriam administraciniu nusižengimu padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, kuriam administraciniu nusižengimu padaryta turtinė ar neturtinė žala. Asmuo pripažįstamas nukentėjusiuoju administracinį nusižengimą tiriančio pareigūno sprendimu, kuris administracinio nusižengimo tyrimo metu įforminamas įrašu administracinio nusižengimo protokole arba nutarimu, o administracinio nusižengimo bylos nagrinėjimo metu – administracinio nusižengimo bylą ne teismo tvarka nagrinėjančios institucijos (pareigūno) nutarimu ar teismo nutartimi. Administracinį nusižengimą tiriančio pareigūno atsisakymas pripažinti asmenį, kuris pranešė apie administracinio nusižengimo požymių turinčios veikos padarymą ir nurodė, kad šia veika jam padaryta fizinė, turtinė ar neturtinė žala, nukentėjusiuoju įrašomas į ne teismo tvarka priimtą nutarimą administracinio nusižengimo byloje ir gali būti skundžiamas teismui šio kodekso nustatyta tvarka.
 
 
 
 
-2. Nukentėjusysis gali būti apklaustas kaip liudytojas.
+2. Nukentėjusysis ar asmuo, kuris pranešė apie administracinio nusižengimo požymių turinčios veikos padarymą ir nurodė, kad šia veika jam padaryta fizinė, turtinė ar neturtinė žala, ir kurį administracinį nusižengimą tiriantis pareigūnas atsisakė pripažinti nukentėjusiuoju, gali būti apklaustas kaip liudytojas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
-
-
 
 
 
@@ -19524,7 +19577,10 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-3) teikti raštu ar elektroninių ryšių priemonėmis paaiškinimus nagrinėjant bylą rašytinio proceso tvarka;
+3) pateikti elektroninių ryšių priemonėmis, pašto siunta arba tiesiogiai administracinio nusižengimo tyrimą atliekančiam pareigūnui, teismui ar kitai administracinio nusižengimo bylą ne teismo tvarka nagrinėjančiai institucijai paaiškinimus nagrinėjant bylą rašytinio proceso tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
+ 
 
 
 
@@ -19577,6 +19633,13 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 3. Už melagingų parodymų davimą teisme nukentėjusysis atsako pagal Lietuvos Respublikos baudžiamojo kodekso (toliau – Baudžiamasis kodeksas) 235 straipsnį. Už melagingų parodymų davimą administracinio nusižengimo tyrimo ir administracinio nusižengimo nagrinėjimo ne teismo tvarka metu nukentėjusysis atsako pagal šio kodekso 224 straipsnio 2 dalį.
+
+
+
+
+4. Asmuo, kuris pranešė apie administracinio nusižengimo požymių turinčios veikos padarymą ir nurodė, kad šia veika jam padaryta fizinė, turtinė ar neturtinė žala, ir kurį administracinį nusižengimą tiriantis pareigūnas atsisakė pripažinti nukentėjusiuoju toje administracinio nusižengimo byloje, turi šio straipsnio 1 ir 2 dalyse nurodytas teises ir pareigas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -19724,7 +19787,10 @@ Kai administracinėn atsakomybėn traukiamas asmuo ir nukentėjusysis yra nepiln
 
 
 
-2. Įgaliotas atstovas turi teisę susipažinti su bylos medžiaga, dalyvauti nagrinėjant bylą žodinio proceso tvarka, pareikšti prašymus, teikti raštu ar elektroninių ryšių priemonėmis paaiškinimus nagrinėjant bylą rašytinio proceso tvarka, nustatyta tvarka skųsti priimtus procesinius sprendimus.
+2. Įgaliotas atstovas turi teisę susipažinti su bylos medžiaga, dalyvauti nagrinėjant bylą žodinio proceso tvarka, pareikšti prašymus, pateikti elektroninių ryšių priemonėmis, pašto siunta arba tiesiogiai administracinio nusižengimo tyrimą atliekančiam pareigūnui, teismui ar kitai administracinio nusižengimo bylą ne teismo tvarka nagrinėjančiai institucijai paaiškinimus nagrinėjant bylą rašytinio proceso tvarka, nustatyta tvarka skųsti priimtus procesinius sprendimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
+ 
 
 
 
@@ -19926,10 +19992,11 @@ Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 
 
 
-14) Valstybinės energetikos reguliavimo tarybos – dėl šio kodekso 1882 straipsnyje, 323, 324, 325, 326, 327, 328, 329, 330, 331, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+14) Valstybinės energetikos reguliavimo tarybos – dėl šio kodekso 1882 straipsnyje, 324, 325, 326, 327, 328, 329, 330, 331, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
 Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -20089,11 +20156,12 @@ Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
 
 
 
-331) Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos ir jam pavaldžių įstaigų – dėl šio kodekso 71, 76, 77, 108, 109, 115, 137, 226, 481, 485, 490 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508 straipsniuose numatytų administracinių nusižengimų; 
+331) Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos ir jam pavaldžių įstaigų – dėl šio kodekso 71, 76, 77, 108, 109, 115, 137, 226, 481, 485, 490, 492 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508 straipsniuose numatytų administracinių nusižengimų; 
 Papildyta straipsnio punktu:
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 Straipsnio punkto pakeitimai:
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -20322,7 +20390,7 @@ Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 
 
 
-57) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 139, 156, 224 straipsniuose, 3081 straipsnio 5, 7 dalyse, 312, 337, 338, 341, 342, 3421, 3422, 3423, 3424, 3425, 3426, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+57) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 139, 156, 224 straipsniuose, 3081 straipsnio 5, 7 dalyse, 312, 337, 338, 341, 342, 3421, 3422, 3423, 3424, 3425, 3426, 3427, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
@@ -20707,9 +20775,10 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-94) jūrų laivų avarijų ir incidentų tyrimo vadovas (vadovai) – dėl šio kodekso 401 straipsnio 1, 24 dalyse, 4131, 505 straipsniuose numatytų administracinių nusižengimų;
+94) laivų avarijų ir incidentų tyrimo vadovas (vadovai) – dėl šio kodekso 401 straipsnio 1, 24 dalyse, 4131, 505 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -20799,9 +20868,17 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-102) Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 224, 505, 507, 528, 530, 532, 535, 538, 539, 541, 542 straipsniuose numatytų administracinių nusižengimų.
+102) Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 224, 505, 507, 528, 530, 532, 535, 538, 539, 541, 542 straipsniuose numatytų administracinių nusižengimų;
 Papildyta straipsnio punktu:
 Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
+ 
+
+
+
+
+103) Lietuvos Respublikos žvalgybos kontrolierių įstaigos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų.
+Papildyta straipsnio punktu:
+Nr. XIV-870, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26907
  
 
 
@@ -21427,13 +21504,14 @@ Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
 603 straipsnis. Priverstinis transporto priemonės nuvežimas
 
 
-Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose, kuriose pagal Kelių eismo taisykles draudžiama sustoti ar stovėti, sustojimas ar stovėjimas nesilaikant kelio ženklų ir ženklinimo reikalavimų), 420 straipsnyje, 422 straipsnio 2, 3, 4, 5 dalyse, 423 straipsnyje, 424 straipsnio 2, 3, 4 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427 straipsnyje numatytus administracinius nusižengimus, kai tai trukdo saugiam transporto priemonių ar pėsčiųjų eismui, kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba kitaip pažeidžia kitų asmenų teises, taip pat padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, policijos pareigūnai turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priverstinai nuvežti transporto priemonę. Nuvežtą transporto priemonę leidžiama susigrąžinti pašalinus grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, trukdymą saugiam transporto priemonių ar pėsčiųjų eismui, kitų asmenų teisių pažeidimą. Padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, transporto priemonė grąžinama (išskyrus atvejus, kai ji konfiskuojama ar šio straipsnio nustatyta tvarka realizuojama arba sunaikinama) tik po to, kai išnagrinėjama administracinio nusižengimo byla. Apie transporto priemonės grąžinimą pažymima nutarime. Kai transporto priemonė nuosavybės teise priklauso ne administracinėn atsakomybėn traukiamam asmeniui, ji grąžinama jos savininkui (valdytojui) institucijos, kurios pareigūnas surašė administracinio nusižengimo protokolą, vadovo ar jo įgalioto asmens sprendimu iki administracinio nusižengimo bylos išnagrinėjimo, jeigu tai nepakenks administracinio nusižengimo teisenai. Šiuo atveju transporto priemonės savininkas (valdytojas) privalo užtikrinti, kad transporto priemonė nebūtų parduota ar kitaip perleista kitiems asmenims arba sumažinta jos vertė pakeičiant komplektaciją iki nutarimo administracinio nusižengimo byloje apskundimo termino pabaigos (apskundus nutarimą – iki galutinio teismo nutarimo (nutarties) įsiteisėjimo), o įsiteisėjus nutarimui konfiskuoti transporto priemonę – iki nutarimo vykdymo, taip pat užtikrinti, kad transporto priemonė būtų Lietuvos Respublikos teritorijoje nuo nutarimo konfiskuoti transporto priemonę įsiteisėjimo dienos. Kai transporto priemonės, kuri priverstinai nuvežta padarius administracinį nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, saugojimas, priežiūra ir laikymas viršija transporto priemonės vertę ir ji negali būti grąžinama savininkui (valdytojui), administracinį nusižengimą tiriančio pareigūno nutarimu ši transporto priemonė realizuojama arba sunaikinama Civilinio proceso kodekse nustatyta areštuoto turto realizavimo tvarka. Kai byloje įsiteisėja teismo nutarimas (nutartis), kuriuo (kuria) nepriimtas sprendimas konfiskuoti transporto priemonę, teisėtam valdytojui atlyginama realizuotos arba sunaikintos transporto priemonės vertė. 
+Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose, kuriose pagal Kelių eismo taisykles draudžiama sustoti ar stovėti, sustojimas ar stovėjimas nesilaikant kelio ženklų ir ženklinimo reikalavimų), 420 straipsnyje, 422 straipsnio 2, 3, 4, 5 dalyse, 423 straipsnyje, 424 straipsnio 2, 3, 4 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427 straipsnyje numatytus administracinius nusižengimus, kai tai trukdo saugiam transporto priemonių ar pėsčiųjų eismui, kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba kitaip pažeidžia kitų asmenų teises, taip pat padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, administracinio nusižengimo teiseną pradėję ar administracinio nusižengimo tyrimą atliekantys pareigūnai turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priverstinai nuvežti transporto priemonę. Nuvežtą transporto priemonę leidžiama susigrąžinti pašalinus grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, trukdymą saugiam transporto priemonių ar pėsčiųjų eismui, kitų asmenų teisių pažeidimą. Padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, transporto priemonė grąžinama (išskyrus atvejus, kai ji konfiskuojama ar šiame straipsnyje nustatyta tvarka realizuojama arba sunaikinama) tik po to, kai išnagrinėjama administracinio nusižengimo byla. Apie transporto priemonės grąžinimą pažymima nutarime. Kai transporto priemonė nuosavybės teise priklauso ne administracinėn atsakomybėn traukiamam asmeniui, ji grąžinama jos savininkui (valdytojui) institucijos, kurios pareigūnas surašė administracinio nusižengimo protokolą, vadovo ar jo įgalioto asmens sprendimu iki administracinio nusižengimo bylos išnagrinėjimo, jeigu tai nepakenks administracinio nusižengimo teisenai. Šiuo atveju transporto priemonės savininkas (valdytojas) privalo užtikrinti, kad transporto priemonė nebūtų parduota ar kitaip perleista kitiems asmenims arba sumažinta jos vertė pakeičiant komplektaciją iki nutarimo administracinio nusižengimo byloje apskundimo termino pabaigos (apskundus nutarimą – iki galutinio teismo nutarimo (nutarties) įsiteisėjimo), o įsiteisėjus nutarimui konfiskuoti transporto priemonę – iki nutarimo vykdymo, taip pat užtikrinti, kad transporto priemonė būtų Lietuvos Respublikos teritorijoje nuo nutarimo konfiskuoti transporto priemonę įsiteisėjimo dienos. Kai transporto priemonės, kuri priverstinai nuvežta padarius administracinį nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, saugojimas, priežiūra ir laikymas viršija transporto priemonės vertę ir ji negali būti grąžinama savininkui (valdytojui), administracinį nusižengimą tiriančio pareigūno nutarimu ši transporto priemonė realizuojama arba sunaikinama Civilinio proceso kodekse nustatyta areštuoto turto realizavimo tvarka. Kai byloje įsiteisėja teismo nutarimas (nutartis), kuriuo (kuria) nepriimtas sprendimas konfiskuoti transporto priemonę, teisėtam valdytojui atlyginama realizuotos arba sunaikintos transporto priemonės vertė.
 
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIV-264, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08866
  
 
 
@@ -21547,7 +21625,10 @@ TYRIMO PABAIGA, ADMINISTRACINIO NUSIŽENGIMO PROTOKOLAS IR ADMINISTRACINIS NUROD
 608 straipsnis. Administracinio nusižengimo protokolo surašymas
 
 
-1. Baigęs administracinio nusižengimo tyrimą, jį atlikęs pareigūnas surašo administracinio nusižengimo protokolą. Protokolas surašomas dalyvaujant administracinėn atsakomybėn traukiamam asmeniui.
+1. Baigęs administracinio nusižengimo tyrimą, jį atlikęs pareigūnas surašo administracinio nusižengimo protokolą. Prieš rašydamas administracinio nusižengimo protokolą, pareigūnas patikrina, ar fizinis asmuo, kuriam administraciniu nusižengimu padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, kuriam administraciniu nusižengimu padaryta turtinė ar neturtinė žala, yra pripažintas nukentėjusiuoju. Nustatęs, kad šis asmuo nukentėjusiuoju nepripažintas, pareigūnas jį pripažįsta nukentėjusiuoju ir šį sprendimą įrašo į administracinio nusižengimo protokolą. Protokolas surašomas dalyvaujant administracinėn atsakomybėn traukiamam asmeniui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
+ 
 
 
 
@@ -21596,6 +21677,14 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 6. Atlikus administracinio nusižengimo tyrimą, kai nustatoma šio kodekso 591 straipsnyje numatyta aplinkybė, institucija, kurios pareigūnas atliko tyrimą, priima nutarimą nutraukti administracinio nusižengimo teiseną. 
 
 
+
+
+7. Prieš priimant šio straipsnio 6 dalyje nurodytą nutarimą, turi būti įvertinta, ar yra fizinis asmuo, nurodęs, kad jam padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, nurodęs, kad jam padaryta turtinė ar neturtinė žala. Sprendimas pripažinti arba atsisakyti pripažinti šioje dalyje nurodytą asmenį nukentėjusiuoju įrašomas į nutarimą. Šio straipsnio nuostatos netaikomos, jeigu administracinio nusižengimo bylos teisena nutraukiama šio kodekso 591 straipsnio 6 ir 8 punktuose nustatytais pagrindais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
  
@@ -21606,10 +21695,12 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 609 straipsnis. Administracinio nusižengimo protokolo turinys
 
 
-1. Administracinio nusižengimo protokole nurodoma: jo surašymo data ir vieta, tyrimą atlikusio ir protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, darbo vieta, telefono numeris ir kt., užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, adresai, telefono numeriai ir kt.; administracinėn atsakomybėn traukiamo asmens paaiškinimas dėl administracinio nusižengimo, jo aplinkybių; administracinėn atsakomybėn traukiamo asmens prašymas nerašyti administracinio nurodymo, jei asmuo dėl to kreipėsi į protokolą rašantį pareigūną; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo surašymo metu; administracinėn atsakomybėn traukiamo asmens pageidavimu – jo prašymas siųsti ir gauti procesinius dokumentus elektroninių ryšių priemonėmis; administracinėn atsakomybėn traukiamo asmens reikalavimas nagrinėti bylą žodinio proceso tvarka, jei šis reikalavimas buvo pareikštas; kiti bylai išnagrinėti būtini duomenys. Protokolą pasirašo jį surašęs asmuo ir administracinėn atsakomybėn traukiamas asmuo, išskyrus šio kodekso 608 straipsnio 1 dalyje nustatytus atvejus, kai protokolas gali būti surašytas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant; kai yra liudytojų ir nukentėjusiųjų, protokolą gali pasirašyti ir šie asmenys. 
+1. Administracinio nusižengimo protokole nurodoma: jo surašymo data ir vieta, tyrimą atlikusio ir protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, E. pristatymo dėžutės adresas, elektroninio pašto adresas ar telefono numeris, darbo vieta ir kt., užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; sprendimas pripažinti fizinį ar juridinį asmenį nukentėjusiuoju; nukentėjusiųjų, jeigu jų yra, vardai, pavardės (kai nukentėjusysis – fizinis asmuo), pavadinimai ir atstovų duomenys (kai nukentėjusysis – juridinis asmuo), jų adresai, elektroninio pašto adresai, telefono numeriai; liudytojų, jeigu jų yra, vardai, pavardės, adresai, E. pristatymo dėžučių adresai, elektroninio pašto adresai, telefono numeriai ir kt.; administracinėn atsakomybėn traukiamo asmens paaiškinimas dėl administracinio nusižengimo, jo aplinkybių; administracinėn atsakomybėn traukiamo asmens prašymas nerašyti administracinio nurodymo, jei asmuo dėl to kreipėsi į protokolą rašantį pareigūną; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo surašymo metu; administracinėn atsakomybėn traukiamo asmens pageidavimu – jo prašymas siųsti ir gauti procesinius dokumentus elektroninių ryšių priemonėmis; administracinėn atsakomybėn traukiamo asmens reikalavimas nagrinėti bylą žodinio proceso tvarka, jei šis reikalavimas buvo pareikštas; kiti bylai išnagrinėti būtini duomenys. Protokolą pasirašo jį surašęs asmuo ir administracinėn atsakomybėn traukiamas asmuo, išskyrus šio kodekso 608 straipsnio 1 dalyje nustatytus atvejus, kai protokolas gali būti surašytas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant; kai yra liudytojų ir nukentėjusiųjų, protokolą gali pasirašyti ir šie asmenys. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
 Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -21669,13 +21760,14 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 610 straipsnis. Administracinio nurodymo surašymo pagrindai ir jo įvykdymo padariniai
 
 
-1. Administracinis nurodymas – į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos savo noru sumokėti baudą, lygią pusei minimalios baudos, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 415 straipsnio  1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos teisės vairuoti transporto priemones atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas sutikti su teisės vairuoti transporto priemones atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos specialiosios teisės, išskyrus teisę vairuoti transporto priemones, atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos grąžinti specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai (sutikti su specialiosios teisės atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui). 
+1. Administracinis nurodymas – į administracinio nusižengimo protokolą įrašomas pasiūlymas asmeniui per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos savo noru sumokėti baudą, lygią pusei minimalios baudos, o jei asmuo padarė pakartotinį administracinį nusižengimą, numatytą šio kodekso 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje, – minimalią baudą, nustatytą šio kodekso specialiosios dalies straipsnyje (straipsnio dalyje), kuriame (kurioje) nustatyta atsakomybė už asmens padarytą administracinį nusižengimą. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos teisės vairuoti transporto priemones atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas sutikti su teisės vairuoti transporto priemones atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui. Kai šio kodekso specialiosios dalies straipsnyje, kuriame nustatyta atsakomybė už asmens padarytą administracinį nusižengimą, nustatytas privalomas asmeniui suteiktos specialiosios teisės, išskyrus teisę vairuoti transporto priemones, atėmimas, į administracinio nusižengimo protokolą įrašomas pasiūlymas per penkiolika kalendorinių dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai administracinio nusižengimo protokolas su administraciniu nurodymu surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, – per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo su administraciniu nurodymu išsiuntimo dienos grąžinti specialiąją teisę patvirtinančius dokumentus atitinkamai institucijai (sutikti su specialiosios teisės atėmimu šio kodekso 33 straipsnio 1 dalies 3 punkte nustatytam terminui). 
 Straipsnio dalies pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
+Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
  
 
 
@@ -21689,9 +21781,10 @@ Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
 
 
 
-2) asmuo per metus padarė pakartotinį administracinį nusižengimą, išskyrus šio kodekso 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje numatytus administracinius nusižengimus;
+2) asmuo per metus padarė pakartotinį administracinį nusižengimą, išskyrus šio kodekso 414 straipsnio 1 dalyje, 415 straipsnio 1, 2 ir 6 dalyse, 416 straipsnio 2, 3, 4 ir 5 dalyse, 417 straipsnyje, 418 straipsnio 1 dalyje, 419 straipsnio 1 dalyje, 420 straipsnio 1 dalyje, 421 straipsnyje, 432 straipsnio 1 dalyje, 459 straipsnio 1, 4 ir 5 dalyse, 463 straipsnyje numatytus administracinius nusižengimus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
+Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
  
 
 
@@ -21753,15 +21846,15 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-611 straipsnis. Administracinio nusižengimo protokolo ir administracinio nurodymo surašymas tais atvejais, kai nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje
+611 straipsnis. Administracinio nusižengimo protokolo, administracinio nurodymo ir nutarimo surašymas tais atvejais, kai nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje
 
 
-1. Kai šio kodekso 264 straipsnio 1 ir 2 dalyse (transporto priemonių važiavimas ar stovėjimas pažeidžiant nustatytus reikalavimus), 278 straipsnio 2 dalyje, 282 straipsnyje, 415 straipsnio 1 dalyje, 2 dalyje (transporto priemonių, kurios nustatyta tvarka neįregistruotos (neperregistruotos) arba be privalomosios techninės apžiūros, vairavimas), 6 ir 7 dalyse, 416, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 431 straipsnio 1 ir 2 dalyse, 432 straipsnyje, 459 straipsnio 1, 4, 5, 6 ir 7 dalyse, 463 straipsnyje numatytas administracinis nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje, administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) surašomas ir siunčiamas transporto priemonės savininkui (valdytojui). Jei administracinį nusižengimą padarė kitas asmuo, transporto priemonės savininkas (valdytojas) turi per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo išsiuntimo dienos pranešti institucijai (institucijos teritoriniam padaliniui), kurios pareigūnas nustatė administracinį nusižengimą, jos nurodytu būdu duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu valdė transporto priemonės savininkui (valdytojui) priklausančią transporto priemonę ar ja naudojosi, arba institucijai pareikalavus atvykti į instituciją (institucijos teritorinį padalinį), kurios pareigūnas nustatė administracinį nusižengimą. Transporto priemonės savininko (valdytojo) nurodytam asmeniui surašomas ir siunčiamas naujas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas), o transporto priemonės savininkui (valdytojui) surašytas administracinio nusižengimo protokolas su administraciniu nurodymu (ar tik administracinio nusižengimo protokolas) pripažįstamas negaliojančiu.
+1. Kai šio kodekso 264 straipsnio 1 ir 2 dalyse (transporto priemonių važiavimas ar stovėjimas pažeidžiant nustatytus reikalavimus), 278 straipsnio 2 dalyje, 282, 414 straipsniuose, 415 straipsnio 1 dalyje, 2 dalyje (transporto priemonių, kurios nustatyta tvarka neįregistruotos (neperregistruotos) arba be privalomosios techninės apžiūros, vairavimas), 6 ir 7 dalyse, 416, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 431 straipsnio 1 ir 2 dalyse, 432 straipsnyje, 459 straipsnio 1, 4, 5, 6 ir 7 dalyse, 463 straipsnyje numatytas administracinis nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje, administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas) surašomas ir siunčiamas transporto priemonės savininkui (valdytojui). Jei administracinį nusižengimą padarė kitas asmuo, transporto priemonės savininkas (valdytojas) turi per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo (nutarimo) išsiuntimo dienos pranešti institucijai (institucijos teritoriniam padaliniui), kurios pareigūnas nustatė administracinį nusižengimą, jos nurodytu būdu duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu valdė transporto priemonės savininkui (valdytojui) priklausančią transporto priemonę ar ja naudojosi, arba institucijai pareikalavus atvykti į instituciją (institucijos teritorinį padalinį), kurios pareigūnas nustatė administracinį nusižengimą. Transporto priemonės savininko (valdytojo) nurodytam asmeniui surašomas ir siunčiamas naujas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas), o transporto priemonės savininkui (valdytojui) surašytas administracinio nusižengimo protokolas su administraciniu nurodymu (ar tik administracinio nusižengimo protokolas) ar nutarimas pripažįstamas negaliojančiu.
 
 
 
 
-2. Kai transporto priemonės savininkas (valdytojas) yra juridinis asmuo, apie šio straipsnio 1 dalyje nurodytą administracinį nusižengimą pranešama šio juridinio asmens vadovui. Juridinio asmens vadovas ar kitas atsakingas asmuo per tris darbo dienas nuo pranešimo apie administracinį nusižengimą gavimo dienos privalo pranešti duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o dėl šio kodekso 415 straipsnio 1 dalyje, 431 straipsnio 1 ir 2 dalyse ar 459 straipsnio 1, 4, 5, 6 ir 7 dalyse nurodyto administracinio nusižengimo – taip pat duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio nusižengimo padarymo metu buvo atsakingas už transporto priemonės, kuria padarytas nusižengimas, valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymą arba už transporto priemonės savininkui (valdytojui) Saugaus eismo automobilių keliais įstatyme nustatytų reikalavimų vykdymą ar atitinkamai apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuriam administracinio nusižengimo padarymo metu buvo pavesta vadovauti krovinių ar keleivių vežimo veiklai. Šiam asmeniui surašomas ir siunčiamas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas). Juridinio asmens, kuris perdavė transporto priemonę naudoti pagal lizingo (finansinės nuomos), išperkamosios nuomos ar kitą sutartį (toliau – lizingo sutartis), vadovas ar kitas atsakingas asmuo privalo pranešti duomenis apie fizinį asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą) arba juridinį asmenį (juridinio asmens pavadinimą, kodą, buveinės adresą), kuriam pagal lizingo sutartį transporto priemonė perduota valdyti.
+2. Kai transporto priemonės savininkas (valdytojas) yra juridinis asmuo, apie šio straipsnio 1 dalyje nurodytą administracinį nusižengimą pranešama šio juridinio asmens vadovui. Juridinio asmens vadovas ar kitas atsakingas asmuo per tris darbo dienas nuo pranešimo apie administracinį nusižengimą gavimo dienos privalo pranešti duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o dėl šio kodekso 415 straipsnio 1 dalyje, 431 straipsnio 1 ir 2 dalyse ar 459 straipsnio 1, 4, 5, 6 ir 7 dalyse nurodyto administracinio nusižengimo – taip pat duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio nusižengimo padarymo metu buvo atsakingas už transporto priemonės, kuria padarytas nusižengimas, valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymą arba už transporto priemonės savininkui (valdytojui) Saugaus eismo automobilių keliais įstatyme nustatytų reikalavimų vykdymą, ar atitinkamai apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuriam administracinio nusižengimo padarymo metu buvo pavesta vadovauti krovinių ar keleivių vežimo veiklai. Šiam asmeniui surašomas ir siunčiamas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas). Juridinio asmens, kuris perdavė transporto priemonę naudoti pagal lizingo (finansinės nuomos), išperkamosios nuomos ar kitą sutartį (toliau – lizingo sutartis), vadovas ar kitas atsakingas asmuo privalo pranešti duomenis apie fizinį asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą) arba juridinį asmenį (juridinio asmens pavadinimą, kodą, buveinės adresą), kuriam pagal lizingo sutartį transporto priemonė perduota valdyti.
 
 
 
@@ -21772,15 +21865,14 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 4. Už šio straipsnio 1 dalyje nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu; kiti bylai išnagrinėti būtini duomenys. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas nepasirašomas. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
- 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
 Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 Nr. XIII-3219, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15755
+Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
+Nr. XIV-575, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21915
  
 
 
@@ -21896,7 +21988,10 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-2. Jeigu paaiškinimai nebuvo pateikti administracinio nusižengimo tyrimo metu arba nagrinėti administracinio nusižengimo bylą įgaliotas pareigūnas nusprendžia, kad paaiškinimai yra nepakankami ir būtina juos papildyti, institucija, gavusi administracinio nusižengimo protokolą ir kitą bylos medžiagą, registruotu paštu siunčia administracinėn atsakomybėn traukiamam asmeniui ir nukentėjusiajam prašymus pateikti paaiškinimus dėl administracinio nusižengimo, jo aplinkybių. Prireikus prašymas pateikti parodymus, eksperto išvadą ar specialisto paaiškinimą pateikiamas ir liudytojams, ekspertams ir specialistams. Šioje dalyje nurodyti paaiškinimai ir parodymai turi būti pateikti per keturiolika kalendorinių dienų nuo prašymo išsiuntimo dienos. Paaiškinimų ar parodymų nepateikimas laiku neužkerta kelio nagrinėti administracinio nusižengimo bylą.
+2. Jeigu paaiškinimai nebuvo pateikti administracinio nusižengimo tyrimo metu arba nagrinėti administracinio nusižengimo bylą įgaliotas pareigūnas nusprendžia, kad paaiškinimai yra nepakankami ir būtina juos papildyti, institucija, gavusi administracinio nusižengimo protokolą ir kitą bylos medžiagą, šio kodekso 573 straipsnio 1 dalyje nustatyta tvarka siunčia administracinėn atsakomybėn traukiamam asmeniui ir nukentėjusiajam prašymus pateikti paaiškinimus dėl administracinio nusižengimo, jo aplinkybių. Prireikus prašymas pateikti parodymus, eksperto išvadą ar specialisto paaiškinimą pateikiamas ir liudytojams, ekspertams ir specialistams. Šioje dalyje nurodyti paaiškinimai ir parodymai turi būti pateikti per keturiolika kalendorinių dienų nuo prašymo išsiuntimo dienos. Paaiškinimų ar parodymų nepateikimas laiku neužkerta kelio nagrinėti administracinio nusižengimo bylą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
+ 
 
 
 
@@ -21919,15 +22014,22 @@ Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
 617 straipsnis. Aplinkybės, nustatytinos nagrinėjant administracinio nusižengimo bylą ne teismo tvarka
 
 
-1. Pareigūnas, nagrinėdamas administracinio nusižengimo bylą ne teismo tvarka, privalo nustatyti: ar buvo padarytas administracinis nusižengimas, ar šis asmuo kaltas dėl jo padarymo, ar jis trauktinas administracinėn atsakomybėn, ar nėra šio kodekso 591 straipsnyje nurodytų aplinkybių, ar yra atsakomybę lengvinančių ir sunkinančių aplinkybių, ar padaryta turtinė žala, taip pat kitas aplinkybes, turinčias reikšmės bylai teisingai išnagrinėti.
+1. Pareigūnas, nagrinėdamas administracinio nusižengimo bylą ne teismo tvarka, privalo nustatyti: ar buvo padarytas administracinis nusižengimas, ar šis asmuo kaltas dėl jo padarymo, ar jis trauktinas administracinėn atsakomybėn, ar nėra šio kodekso 591 straipsnyje nurodytų aplinkybių, ar yra atsakomybę lengvinančių ir sunkinančių aplinkybių, ar administraciniu nusižengimu buvo padaryta fizinė, turtinė ar neturtinė žala, ar fizinis asmuo, kuriam administraciniu nusižengimu padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, kuriam administraciniu nusižengimu padaryta turtinė ar neturtinė žala, pripažintas nukentėjusiuoju, taip pat kitas aplinkybes, turinčias reikšmės bylai teisingai išnagrinėti.
 
 
 
 
-2. Nagrinėdamas administracinio nusižengimo bylą ne teismo tvarka, pareigūnas turi teisę pakeisti nuorodą į šio kodekso straipsnį, straipsnio dalį ar kitą teisės aktą, kuriame nustatyta atsakomybė už šį nusižengimą, jeigu administracinio nusižengimo protokole nurodyta administracinio nusižengimo esmė yra įrodyta, tačiau suklysta nurodant šio kodekso straipsnį, straipsnio dalį ar kitą teisės aktą, kuriame nustatyta atsakomybė už padarytą administracinį nusižengimą.
+2. Pareigūnas, nustatęs, kad fizinis asmuo, kuriam administraciniu nusižengimu padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, kuriam administraciniu nusižengimu padaryta turtinė ar neturtinė žala, nepripažintas nukentėjusiuoju, privalo atidėti administracinio nusižengimo bylos nagrinėjimą, šį fizinį ar juridinį asmenį pripažinti nukentėjusiuoju, šio kodekso nustatyta tvarka įteikti administracinio nusižengimo protokolą, jam ir kitiems administracinio nusižengimo teisenoje dalyvaujantiems asmenims pranešti apie nustatytą naują bylos nagrinėjimo datą, laiką ir vietą.
+
+
+
+
+3. Nagrinėdamas administracinio nusižengimo bylą ne teismo tvarka, pareigūnas turi teisę pakeisti nuorodą į šio kodekso straipsnį, straipsnio dalį ar kitą teisės aktą, kuriame nustatyta atsakomybė už šį nusižengimą, jeigu administracinio nusižengimo protokole nurodyta administracinio nusižengimo esmė yra įrodyta, tačiau suklysta nurodant šio kodekso straipsnį, straipsnio dalį ar kitą teisės aktą, kuriame nustatyta atsakomybė už padarytą administracinį nusižengimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
-
-
 
 
 
@@ -21940,7 +22042,10 @@ Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
 
 
 
-2. Šio straipsnio 1 dalyje nurodytame nutarime turi būti: nutarimą priėmusio pareigūno pareigos, vardas, pavardė; administracinio nusižengimo bylos nagrinėjimo data; duomenys apie administracinėn atsakomybėn traukiamą asmenį; duomenys apie kitus administracinio nusižengimo teisenoje dalyvaujančius asmenis; išdėstytos ir motyvuotai įvertintos bylos nagrinėjimo metu nustatytos aplinkybės; nurodytas šio kodekso straipsnis, straipsnio dalis, kuriuose nustatyta atsakomybė už asmens padarytą administracinį nusižengimą; nurodytas specialusis įstatymas ar kitas teisės aktas, kurio reikalavimus asmuo pažeidė; administracinio nusižengimo byloje priimtas sprendimas.
+2. Šio straipsnio 1 dalyje nurodytame nutarime turi būti: nutarimą priėmusio pareigūno pareigos, vardas, pavardė; administracinio nusižengimo bylos nagrinėjimo data; duomenys apie administracinėn atsakomybėn traukiamą asmenį; sprendimas pripažinti ar atsisakyti pripažinti fizinį ar juridinį asmenį nukentėjusiuoju, jų vardai ir pavardės (kai nukentėjusysis – fizinis asmuo), pavadinimai ir atstovų duomenys (kai nukentėjusysis – juridinis asmuo), jų adresai, elektroninio pašto adresai, telefono numeriai; duomenys apie kitus administracinio nusižengimo teisenoje dalyvaujančius asmenis; išdėstytos ir motyvuotai įvertintos bylos nagrinėjimo metu nustatytos aplinkybės; nurodytas šio kodekso straipsnis, straipsnio dalis, kuriuose nustatyta atsakomybė už asmens padarytą administracinį nusižengimą; nurodytas specialusis įstatymas ar kitas teisės aktas, kurio reikalavimus asmuo pažeidė; administracinio nusižengimo byloje priimtas sprendimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
+ 
 
 
 
@@ -21997,19 +22102,20 @@ Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
 620 straipsnis. Nutarimo kopijos (nuorašo) įteikimas
 
 
-1. Nutarimo administracinio nusižengimo byloje kopija (nuorašas) per tris darbo dienas nuo nutarimo priėmimo dienos registruotu paštu išsiunčiama ar išduodama asmeniui, dėl kurio nutarimas priimtas, nukentėjusiajam, o šio kodekso 615 straipsnio 2 dalyje nurodytais atvejais – ir institucijai, kurios pareigūnas atliko administracinio nusižengimo tyrimą. Jeigu įgaliota institucija nutraukė šio kodekso 592 straipsnio 3 ir 4 dalyse nustatytais atvejais pradėtą administracinio nusižengimo teiseną, nutarimo nutraukti administracinio nusižengimo teiseną kopija (nuorašas) išsiunčiama ir prokurorui, surašiusiam nutarimą perduoti turimą medžiagą įgaliotai institucijai administracinio nusižengimo teisenai pradėti ir administracinio nusižengimo protokolui surašyti. Šio kodekso 573 straipsnio 4 dalyje nurodytais atvejais nutarimų kopijos (nuorašai) siunčiamos elektroninių ryšių priemonėmis. 
+1. Nutarimo administracinio nusižengimo byloje kopija (nuorašas) per tris darbo dienas nuo nutarimo priėmimo dienos išsiunčiama šio kodekso 573 straipsnio 1 dalyje nustatyta tvarka ar išduodama asmeniui, dėl kurio nutarimas priimtas, nukentėjusiajam, o šio kodekso 615 straipsnio 2 dalyje nurodytais atvejais – ir institucijai, kurios pareigūnas atliko administracinio nusižengimo tyrimą. Jeigu įgaliota institucija nutraukė šio kodekso 592 straipsnio 3 ir 4 dalyse nustatytais atvejais pradėtą administracinio nusižengimo teiseną, nutarimo nutraukti administracinio nusižengimo teiseną kopija (nuorašas) išsiunčiama ir prokurorui, surašiusiam nutarimą perduoti turimą medžiagą įgaliotai institucijai administracinio nusižengimo teisenai pradėti ir administracinio nusižengimo protokolui surašyti. Šio kodekso 608 straipsnio 6 dalyje nurodyto nutarimo nutraukti administracinio nusižengimo teiseną šio kodekso 591 straipsnio 1 punkte numatytu pagrindu kopija (nuorašas) išsiunčiama ir asmeniui, kuris pranešė apie administracinio nusižengimo požymių turinčios veikos padarymą, jeigu jis yra nurodęs, kad šia veika jam padaryta fizinė, turtinė ar neturtinė žala. 
 Straipsnio dalies pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
-Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
 
 
-2. Bylose dėl šio kodekso 229 straipsnio 1 dalyje ir 482 straipsnyje numatytų administracinių nusižengimų, dėl asmens, kuriam ginklas ir šaudmenys patikėti dėl tarnybinių pareigų arba perduoti laikinai naudotis, nutarimo kopija (nuorašas) taip pat išsiunčiama ginklą ir šaudmenis patikėjusiam ar perdavusiam juridiniam asmeniui.
+2. Bylose dėl šio kodekso 229 straipsnio 1 dalyje ir 482 straipsnyje numatytų administracinių nusižengimų, dėl asmens, kuriam ginklas ir šaudmenys patikėti dėl tarnybinių pareigų arba perduoti laikinai naudotis, nutarimo kopija (nuorašas) šio kodekso 573 straipsnio 1 dalyje nustatyta tvarka taip pat išsiunčiama ginklą ir šaudmenis patikėjusiam ar perdavusiam juridiniam asmeniui. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
  
-
-
 
 
 
@@ -22024,12 +22130,13 @@ NE TEISMO TVARKA PRIIMTŲ NUTARIMŲ ADMINISTRACINIŲ NUSIŽENGIMŲ BYLOSE APSKUN
 621 straipsnis. Teisė apskųsti nutarimą administracinio nusižengimo byloje
 
 
-Šio kodekso 615 straipsnio 1 dalyje nurodytų institucijų nutarimus, taip pat šio kodekso 608 straipsnio 6 dalyje nurodytus nutarimus administracinių nusižengimų bylose apylinkės teismui gali apskųsti asmuo, dėl kurio atitinkamas nutarimas priimtas, nukentėjusysis (ar jų atstovai), o šio kodekso 592 straipsnio 5 dalyje nurodytais atvejais – ir prokuroras. 
+Šio kodekso 615 straipsnio 1 dalyje nurodytų institucijų nutarimus, taip pat šio kodekso 608 straipsnio 6 dalyje nurodytus nutarimus administracinių nusižengimų bylose apylinkės teismui gali apskųsti asmuo, dėl kurio atitinkamas nutarimas priimtas, nukentėjusysis (ar jų atstovai), o šio kodekso 592 straipsnio 5 dalyje nurodytais atvejais – ir prokuroras. Šio kodekso 591 straipsnio 1 punkte nustatytu pagrindu priimtus šio kodekso 608 straipsnio 6 dalyje nurodytus nutarimus apylinkės teismui gali apskųsti asmuo, kuris pranešė apie administracinio nusižengimo požymių turinčios veikos padarymą, jeigu jis yra nurodęs, kad šia veika jam padaryta fizinė, turtinė ar neturtinė žala. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -22043,9 +22150,10 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-2. Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje paduodamas per šį nutarimą priėmusią instituciją. Šiai institucijai turi būti pateikta tiek skundo dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje kopijų (nuorašų), kad po vieną būtų galima įteikti kitiems šio kodekso 621 straipsnyje nurodytiems asmenims ir nutarimą ne teismo tvarka priėmusiai institucijai, išskyrus atvejus, kai pagal šio kodekso 573 straipsnio 4 dalį šiems asmenims procesiniai dokumentai įteikiami elektroninių ryšių priemonėmis. Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje gali būti paduodamas elektroninių ryšių priemonėmis. Institucija per penkias darbo dienas, jeigu įstatymuose nenustatytas kitas terminas, skundą dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje kartu su byla persiunčia atitinkamam apylinkės teismui.
+2. Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje paduodamas per šį nutarimą priėmusią instituciją. Šiai institucijai turi būti pateikta tiek skundo dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje kopijų (nuorašų), kad po vieną būtų galima įteikti visiems šio kodekso 621 straipsnyje nurodytiems asmenims ir nutarimą ne teismo tvarka priėmusiai institucijai, išskyrus atvejus, kai šiems asmenims procesiniai dokumentai įteikiami elektroninių ryšių priemonėmis. Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje gali būti paduodamas elektroninių ryšių priemonėmis, pašto siunta arba tiesiogiai. Institucija per penkias darbo dienas, jeigu įstatymuose nenustatytas kitas terminas, skundą dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje kartu su byla persiunčia atitinkamam apylinkės teismui elektroninių ryšių priemonėmis, registruotąja pašto siunta arba pateikia tiesiogiai teismui. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
  
 
 
@@ -22067,15 +22175,17 @@ Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo bylo
 624 straipsnis. Skundo dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje turinys ir forma
 
 
-1. Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje paduodamas raštu ir pasirašytas jį paduodančio asmens. Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje, pateiktas elektroninių ryšių priemonėmis asmens tapatybę patvirtinus Teismų įstatyme nustatytais būdais, laikomas pasirašytu. Skundų dėl ne teismo tvarka priimtų nutarimų administracinių nusižengimų bylose pateikimo teismui elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras. 
+1. Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje paduodamas raštu, pasirašytas jį paduodančio asmens. Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje, pateiktas elektroninių ryšių priemonėmis asmens tapatybę patvirtinus Teismų įstatyme nustatytais būdais, laikomas pasirašytu. Skundų dėl ne teismo tvarka priimtų nutarimų administracinių nusižengimų bylose pateikimo teismui elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras. 
 
 
 
 
-2. Skunde dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje turi būti nurodyta: apylinkės teismo, kuriam skundas paduodamas, pavadinimas; administracinio nusižengimo byla, dėl kurios paduodamas skundas; skundžiamo nutarimo administracinio nusižengimo byloje (jo dalies) esmė; nutarimo administracinio nusižengimo byloje apskundimo pagrindai ir motyvai; skundą paduodančio asmens prašymai, įskaitant asmens pageidavimą siųsti ir gauti procesinius dokumentus elektroninių ryšių priemonėmis. Elektroninių ryšių priemonėmis paduodamame skunde turi būti nurodytas skundą paduodančio asmens ar jo atstovo elektroninio pašto adresas, telefono ir fakso numeriai, kitų elektroninių ryšių priemonių adresai.
+2. Skunde dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje turi būti nurodyta: apylinkės teismo, kuriam skundas paduodamas, pavadinimas; administracinio nusižengimo byla, dėl kurios paduodamas skundas; skundžiamo nutarimo administracinio nusižengimo byloje (jo dalies) esmė; nutarimo administracinio nusižengimo byloje apskundimo pagrindai ir motyvai; skundą paduodančio asmens prašymai, įskaitant asmens pageidavimą siųsti ir gauti procesinius dokumentus elektroninių ryšių priemonėmis. Elektroninių ryšių priemonėmis paduodamame skunde taip pat turi būti nurodytas skundą paduodančio asmens ar jo atstovo E. pristatymo dėžutės adresas, elektroninio pašto adresas arba kitų elektroninių ryšių priemonių adresas ar telefono numeris. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
  
-
-
 
 
 
@@ -22522,9 +22632,10 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-2. Išnagrinėjus administracinio nusižengimo bylą žodinio proceso tvarka, nutarimo (nutarties) rezoliucinė dalis paskelbiama žodžiu, taip pat trumpai išdėstomi sprendimo motyvai; institucijos, kurios pareigūnas atliko administracinio nusižengimo tyrimą, atstovui, asmeniui, dėl kurio šis nutarimas (nutartis) priimtas, ir nukentėjusiajam išduodamos nutarimo (nutarties) administracinio nusižengimo byloje kopijos (nuorašai). Jeigu šie asmenys nedalyvavo skelbiant nutarimą (nutartį), nutarimo (nutarties) kopijos (nuorašai) jiems išsiunčiamos registruotu paštu per tris darbo dienas nuo nutarimo (nutarties) paskelbimo. Šio kodekso 573 straipsnio 4 dalyje numatytais atvejais nutarimas (nutartis) administracinio nusižengimo byloje siunčiamas elektroninių ryšių priemonėmis. 
+2. Išnagrinėjus administracinio nusižengimo bylą žodinio proceso tvarka, nutarimo (nutarties) rezoliucinė dalis paskelbiama žodžiu, taip pat trumpai išdėstomi sprendimo motyvai; institucijos, kurios pareigūnas atliko administracinio nusižengimo tyrimą, atstovui, asmeniui, dėl kurio šis nutarimas (nutartis) priimtas, ir nukentėjusiajam išduodamos nutarimo (nutarties) administracinio nusižengimo byloje kopijos (nuorašai). Jeigu šie asmenys nedalyvavo skelbiant nutarimą (nutartį), nutarimo (nutarties) kopijos (nuorašai) jiems išsiunčiamos šio kodekso 573 straipsnio 2 dalyje nustatyta tvarka per tris darbo dienas nuo nutarimo (nutarties) paskelbimo. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2482, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17980
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
  
 
 
@@ -22743,12 +22854,13 @@ APELIACINIS PROCESAS DĖL PIRMOSIOS INSTANCIJOS TEISMO PROCESINIŲ SPRENDIMŲ
 644 straipsnis. Pirmosios instancijos teismo nutarimo (nutarties) apskundimas apeliacine tvarka
 
 
-Apylinkių teismų nutarimus ir nutartis, priimtus išnagrinėjus administracinių nusižengimų bylas pirmosios instancijos teisme, administracinėn atsakomybėn traukiamas asmuo, nutarimą administracinio nusižengimo byloje ne teismo tvarka priėmusi institucija ar institucija, kurios pareigūnas atliko administracinio nusižengimo tyrimą, taip pat nukentėjusysis (ar jų atstovai) ir įgaliotos institucijos nutarimą nutraukti šio kodekso 592 straipsnio 3 ir 4 dalyse nustatytais atvejais pradėtą administracinio nusižengimo teiseną apskundęs prokuroras gali apskųsti apeliacine tvarka apygardos teismui. 
+Apylinkių teismų nutarimus ir nutartis, priimtus išnagrinėjus administracinių nusižengimų bylas pirmosios instancijos teisme, administracinėn atsakomybėn traukiamas asmuo, nutarimą administracinio nusižengimo byloje ne teismo tvarka priėmusi institucija ar institucija, kurios pareigūnas atliko administracinio nusižengimo tyrimą, nukentėjusysis (ar jų atstovai), taip pat šio kodekso 591 straipsnio 1 punkte nustatytu pagrindu priimtą šio kodekso 608 straipsnio 6 dalyje nurodytą nutarimą apskundęs asmuo, pranešęs apie administracinio nusižengimo požymių turinčios veikos padarymą, jeigu jis yra nurodęs, kad šia veika jam padaryta fizinė, turtinė ar neturtinė žala, ir įgaliotos institucijos nutarimą nutraukti šio kodekso 592 straipsnio 3 ir 4 dalyse nustatytais atvejais pradėtą administracinio nusižengimo teiseną apskundęs prokuroras gali apskųsti apeliacine tvarka apygardos teismui. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -22768,9 +22880,10 @@ Apeliacinis procesas vyksta pagal tas pačias taisykles kaip ir procesas pirmosi
 646 straipsnis. Pirmosios instancijos teismo nutarimo (nutarties) administracinio nusižengimo byloje apskundimo terminas ir tvarka
 
 
-1. Apeliacinis skundas dėl pirmosios instancijos teismo nutarimo (nutarties) administracinio nusižengimo byloje (toliau – apeliacinis skundas) paduodamas apygardos teismui per nutarimą (nutartį) administracinio nusižengimo byloje priėmusį apylinkės teismą. Kai apylinkės teismas, per kurį paduodamas apeliacinis skundas, yra sudarytas iš teismo rūmų, apeliacinis skundas gali būti paduodamas bet kuriems to teismo rūmams.
+1. Apeliacinis skundas dėl pirmosios instancijos teismo nutarimo (nutarties) administracinio nusižengimo byloje (toliau – apeliacinis skundas) paduodamas elektroninių ryšių priemonėmis, pašto siunta arba tiesiogiai apygardos teismui per nutarimą (nutartį) administracinio nusižengimo byloje priėmusį apylinkės teismą. Kai apylinkės teismas, per kurį paduodamas apeliacinis skundas, yra sudarytas iš teismo rūmų, apeliacinis skundas gali būti paduodamas bet kuriems to teismo rūmams. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2482, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17980
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
  
 
 
@@ -22802,15 +22915,17 @@ Nr. XII-2482, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17980
 647 straipsnis. Apeliacinio skundo turinys ir forma
 
 
-1. Apeliacinis skundas paduodamas raštu, pasirašytas skundą paduodančio asmens (ar jo atstovo). Apeliacinis skundas apygardos teismui gali būti paduodamas elektroninių ryšių priemonėmis. Apeliacinis skundas, paduodamas elektroninių ryšių priemonėmis asmens tapatybę patvirtinus Teismų įstatyme nustatytais būdais, laikomas pasirašytu. Apeliacinių skundų padavimo teismui elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras. 
+1. Apeliacinis skundas paduodamas raštu, pasirašytas skundą paduodančio asmens (ar jo atstovo). Apeliacinis skundas, paduodamas elektroninių ryšių priemonėmis asmens tapatybę patvirtinus Teismų įstatyme nustatytais būdais, laikomas pasirašytu. Apeliacinių skundų padavimo teismui elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras. 
 
 
 
 
-2. Apeliaciniame skunde turi būti nurodyta: apygardos teismo pavadinimas; administracinio nusižengimo byla, kurioje paduodamas apeliacinis skundas; skundžiamo apylinkės teismo nutarimo (nutarties) administracinio nusižengimo byloje ar jo (jos) dalies esmė; nutarimo (nutarties) apskundimo pagrindai ir motyvai; apeliacinį skundą padavusio asmens prašymai. Apeliacinį skundą padavęs asmuo pateikia tiek skundo ir jo priedų kopijų (nuorašų), kad po vieną tektų visiems šio kodekso 644 straipsnyje nurodytiems asmenims, išskyrus atvejus, kai pagal šio kodekso 573 straipsnio 4 dalį šiems asmenims procesiniai dokumentai įteikiami elektroninių ryšių priemonėmis.
+2. Apeliaciniame skunde turi būti nurodyta: apygardos teismo pavadinimas; administracinio nusižengimo byla, kurioje paduodamas apeliacinis skundas; skundžiamo apylinkės teismo nutarimo (nutarties) administracinio nusižengimo byloje ar jo (jos) dalies esmė; nutarimo (nutarties) apskundimo pagrindai ir motyvai; apeliacinį skundą padavusio asmens prašymai. Apeliacinį skundą padavęs asmuo pateikia tiek skundo ir jo priedų kopijų (nuorašų), kad po vieną tektų visiems šio kodekso 644 straipsnyje nurodytiems asmenims, išskyrus atvejus, kai šiems asmenims procesiniai dokumentai įteikiami elektroninių ryšių priemonėmis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
  
-
-
 
 
 
@@ -23474,22 +23589,31 @@ Nr. XIII-2331, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12373
 
 
 XXXIX SKYRIUS
-TURTINĖS ŽALOS IR TEISMO IŠLAIDŲ ATLYGINIMAS
+ŽALOS IR TEISMO IŠLAIDŲ ATLYGINIMAS 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
-664 straipsnis. Turtinės žalos atlyginimas
+664 straipsnis. Žalos atlyginimas
 
 
-1. Administraciniu nusižengimu padarytą turtinę žalą administracinį nusižengimą padaręs asmuo gali atlyginti savo noru. Tokiu atveju padarytos turtinės žalos dydis nustatomas nukentėjusiojo ir administracinį nusižengimą padariusio asmens rašytiniu susitarimu, kuriame nukentėjusysis patvirtina žalos atlyginimo faktą.
+1. Administraciniu nusižengimu padarytą žalą administracinį nusižengimą padaręs asmuo gali atlyginti savo noru. Tokiu atveju padarytos žalos dydis nustatomas nukentėjusiojo ir administracinį nusižengimą padariusio asmens rašytiniu susitarimu, kuriame nukentėjusysis patvirtina žalos atlyginimo faktą.
 
 
 
 
-2. Tais atvejais, kai administracinį nusižengimą padaręs asmuo neatlygina turtinės žalos savo noru arba nesusitariama dėl turtinės žalos dydžio ir jos atlyginimo būdo, žalos atlyginimą priteisia teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija tuo pačiu nutarimu, kuriuo skiriama administracinė nuobauda. 
+2. Tais atvejais, kai administracinį nusižengimą padaręs asmuo neatlygina turtinės žalos savo noru arba nesusitariama dėl turtinės žalos dydžio ir jos atlyginimo būdo, žalos atlyginimą priteisia teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija tuo pačiu nutarimu, kuriuo skiriama administracinė nuobauda.
+
+
+
+
+3. Kai administraciniu nusižengimu padaryta fizinė ar neturtinė žala ir jos neatlygino administracinį nusižengimą padaręs asmuo, teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) nutarime konstatuoja, kad buvo padaryta fizinė ar neturtinė žala, ir klausimas dėl šios žalos dydžio nagrinėjamas civilinio proceso tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
-
-
 
 
 
@@ -23497,9 +23621,10 @@ TURTINĖS ŽALOS IR TEISMO IŠLAIDŲ ATLYGINIMAS
 665 straipsnis. Turtinės žalos atlyginimas nesusitarus
 
 
-1. Jeigu, nagrinėjant administracinio nusižengimo bylą apylinkės ar apygardos teisme arba ne teismo tvarka institucijoje, padarytos turtinės žalos dydį galima nustatyti neatidėjus šios bylos nagrinėjimo, administracinio nusižengimo bylą nagrinėjantis teismas ar institucija gali priteisti nukentėjusiajam žalos atlyginimą. Teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija, priteisdami nukentėjusiajam žalą, nustato žalos atlyginimo terminą. Nustatant šį terminą, būtina atsižvelgti į turtinės žalos dydį ir administracinėn atsakomybėn traukiamo asmens finansinę padėtį. Administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija gali priteisti tik vieno šimto penkiasdešimt eurų neviršijančios turtinės žalos atlyginimą.
+1. Jeigu, nagrinėjant administracinio nusižengimo bylą apylinkės ar apygardos teisme arba ne teismo tvarka institucijoje, padarytos turtinės žalos dydį galima nustatyti neatidėjus šios bylos nagrinėjimo, administracinio nusižengimo bylą nagrinėjantis teismas ar institucija gali priteisti nukentėjusiajam žalos atlyginimą. Teismas ar administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija, priteisdami nukentėjusiajam žalą, nustato žalos atlyginimo terminą. Nustatant šį terminą, būtina atsižvelgti į turtinės žalos dydį ir administracinėn atsakomybėn traukiamo asmens finansinę padėtį. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
 
 
@@ -24102,7 +24227,6 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
- 
 Lietuvos Respublikos 
 administracinių nusižengimų kodekso 
 priedas
@@ -24111,1122 +24235,592 @@ priedas
  
 
 
-1. 1995 m. liepos 26 d. Konvencija dėl Europos Bendrijų finansinių interesų apsaugos, parengta vadovaujantis Europos Sąjungos sutarties K.3 straipsniu (OL 2004 m. specialusis leidimas, 19 skyrius, 8 tomas, p. 57).
+1. 1995 m. liepos 26 d. Konvencija dėl Europos Bendrijų finansinių interesų apsaugos, parengta vadovaujantis Europos Sąjungos sutarties K.3 straipsniu.
 
 
 
 
-2. 1998 m. birželio 18 d. Tarybos direktyva 98/41/EB dėl įplaukiančiuose į ir išplaukiančiuose iš Bendrijos valstybių narių uostų keleiviniuose laivuose esančių asmenų registracijos (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 127) su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB)  Nr. 1137/2008 (OL 2008 L 311, p. 1).
+2. 1998 m. birželio 18 d. Tarybos direktyva 98/41/EB dėl įplaukiančiuose į ir išplaukiančiuose iš Bendrijos valstybių narių uostų keleiviniuose laivuose esančių asmenų registracijos su paskutiniais pakeitimais, padarytais 2017 m. lapkričio 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2109.
 
 
 
 
-3. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 77) su paskutiniais pakeitimas, padarytais 2018 m. kovo 8 d. Komisijos direktyva (ES) 2018/350. 
-Papildyta punktu:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Punkto pakeitimai:
-Nr. XIII-3262, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15886
- 
+3. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. 
 
 
 
 
-4. 2001 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2001/80/EB dėl tam tikrų teršalų, išmetamų į orą iš didelių kurą deginančių įrenginių, kiekio apribojimo (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 299) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+4. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso, reglamentuojančio žmonėms skirtus vaistus, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.
 
 
 
 
-5. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso, reglamentuojančio žmonėms skirtus vaistus (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 69), su paskutiniais pakeitimais, padarytais 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/26/ES (OL 2012 L 299, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+5. 2002 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2002/59/EB, įdiegianti Bendrijos laivų eismo stebėsenos ir informacijos sistemą ir panaikinanti Tarybos direktyvą 93/75/EEB, su paskutiniais pakeitimais, padarytais 2019 m. birželio 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.
 
 
 
 
-6. 2002 m. birželio 27 d. Europos Parlamento ir Tarybos direktyva 2002/59/EB, įdiegianti Bendrijos laivų eismo stebėsenos ir informacijos sistemą ir panaikinanti Tarybos direktyvą 93/75/EEB (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 12), su paskutiniais pakeitimais, padarytais 2014 m. spalio 28 d. Komisijos direktyva 2014/100/ES (OL 2014 L 308, p. 82).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+6. 2002 m. lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai atvykti, vykti tranzitu ir apsigyventi.
 
 
 
 
-7. 2002 m. lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai atvykti, vykti tranzitu ir apsigyventi (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 64).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+7. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo.
 
 
 
 
-8. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 650).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+8. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų su paskutiniais pakeitimais, padarytais 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 298/2008.
 
 
 
 
-9. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 432).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+9. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1830/2003 dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB.
 
 
 
 
-10. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1830/2003 dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+10. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB, su paskutiniais pakeitimais, padarytais 2020 m. gegužės 18 d. Komisijos deleguotuoju sprendimu (ES) 2020/1071. 
 
 
 
 
-11. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 631), su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos sprendimu (ES) 2015/1814 (OL 2015 L 264, p. 1). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+11. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 261/2004, nustatantis bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinantis Reglamentą (EEB) Nr. 295/91.
 
 
 
 
-12. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 261/2004, nustatantis bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinantis Reglamentą (EEB) Nr. 295/91 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+12. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) su paskutiniais pakeitimais, padarytais 2018 m. vasario 26 d. Komisijos deleguotuoju reglamentu (ES) 2018/729. 
 
 
 
 
-13. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 46) su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1258/2013) (OL 2013 L 333, p. 21). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+13. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus, su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 596/2009.
 
 
 
 
-14. 2004 m. kovo 31 d.  Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 291).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+14. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/42/EB dėl lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikruose dažuose, lakuose ir transporto priemonių pakartotinės apdailos produktuose, išmetamų kiekių ribojimo ir iš dalies keičianti Direktyvą 1999/13/EB su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/112/EB.
 
 
 
 
-15. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/42/EB dėl lakiųjų organinių junginių, susidarančių naudojant organinius tirpiklius tam tikruose dažuose, lakuose ir transporto priemonių pakartotinės apdailos produktuose, išmetamų kiekių ribojimo ir iš dalies keičianti Direktyvą 1999/13/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 376) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/112/EB (OL 2008 L 345, p. 68).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+15. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams su paskutiniais pakeitimais, padarytais 2020 m. balandžio 27 d. Komisijos deleguotuoju reglamentu (ES) Nr. 2020/1118.
 
 
 
 
-16. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 160) su paskutiniais pakeitimais, padarytais 2010 m. balandžio 6 d. Komisijos reglamentu (ES) Nr. 285/2010 (OL 2010 L 87, p. 19).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+16. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo.
 
 
 
 
-17. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
+17. 2004 m. gruodžio 6 d. Tarybos reglamentas (EB) Nr. 2182/2004 dėl į euro monetas panašių medalių ir žetonų su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 46/2009.
 
 
 
 
-18. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/49/EB dėl saugos Bendrijos geležinkeliuose ir iš dalies pakeičianti Tarybos direktyvą 95/18/EB dėl geležinkelio įmonių licencijavimo bei Direktyvą 2001/14/EB dėl geležinkelių infrastruktūros pajėgumų paskirstymo, mokesčių už naudojimąsi geležinkelių infrastruktūra ėmimo ir saugos sertifikavimo (Saugos geležinkeliuose direktyva) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 227) su paskutiniais pakeitimais, padarytais 2014 m. liepos 9 d. Komisijos direktyva 2014/88/ES (OL 2014 L 201, p. 9). 
-Papildyta punktu:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+18. 2004 m. gruodžio 6 d. Tarybos reglamentas (EB) Nr. 2183/2004, išplečiantis Reglamento (EB) Nr. 2182/2004 dėl į euro monetas panašių medalių ir žetonų taikymą nedalyvaujančioms valstybėms narėms, su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 47/2009.
 
 
 
 
-19. Neteko galios 2020-02-08. 
-Punkto pakeitimai:
-Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+19. 2004 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 111/2005, nustatantis prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles, su paskutiniais pakeitimais, padarytais 2018 m. vasario 26 d. Komisijos deleguotuoju reglamentu (ES) 2018/729.
 
 
 
 
-20. Neteko galios nuo 2020-07-10
-Punkto naikinimas:
-Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+20. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB.
 
 
 
 
-21. 2004 m. gruodžio 6 d. Tarybos reglamentas (EB) Nr. 2182/2004 dėl į euro monetas panašių medalių ir žetonų (OL 2004 L 373, p. 1) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 46/2009 (OL 2009 L 17, p. 5).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+21. 2005 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2111/2005 dėl oro vežėjų, kuriems taikomas draudimas vykdyti veiklą Bendrijoje, Bendrijos sąrašo sudarymo ir oro transporto keleivių informavimo apie skrydį vykdančio oro vežėjo tapatybę bei panaikinantis Direktyvos 2004/36/EB 9 straipsnį su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.
 
 
 
 
-22. 2004 m. gruodžio 6 d. Tarybos reglamentas (EB) Nr. 2183/2004, išplečiantis Reglamento (EB) Nr. 2182/2004 dėl į euro monetas panašių medalių ir žetonų taikymą nedalyvaujančioms valstybėms narėms (OL 2004 L 373, p. 7), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 47/2009 (OL 2009 L 17, p. 7).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+22. 2005 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2173/2005 dėl FLEGT licencijavimo schemos medienos importui į Europos bendriją sukūrimo su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010.
 
 
 
 
-23. 2004 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 111/2005, nustatantis prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles (OL 2005 L 22, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1259/2013 (OL 2013 L 330, p. 30).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+23. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Reglamentą (EEB) Nr. 3820/85 su paskutiniais pakeitimais, padarytais 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 165/2014.
 
 
 
 
-24. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB (OL 2009 L 280, p. 52).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+24. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 10 d. Komisijos reglamentu (ES) 2015/2002.
 
 
 
 
-25. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/60/EB dėl finansų sistemos apsaugos nuo jos panaudojimo pinigų plovimui ir teroristų finansavimui (OL 2005 L 309, p. 15).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+25. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru.
 
 
 
 
-26. 2005 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2111/2005 dėl oro vežėjų, kuriems taikomas draudimas vykdyti veiklą Bendrijoje, Bendrijos sąrašo sudarymo ir oro transporto keleivių informavimo apie skrydį vykdančio oro vežėjo tapatybę bei panaikinantis Direktyvos 2004/36/EB 9 straipsnį (OL 2005 L 344, p. 15).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+26. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/849.
 
 
 
 
-27. 2005 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2173/2005 dėl FLEGT licencijavimo schemos medienos importui į Europos bendriją sukūrimo (OL 2005 L 347, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+27. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1901/2006 dėl pediatrijoje vartojamų vaistinių preparatų, iš dalies keičiantis Reglamentą (EEB) Nr. 1768/92, Direktyvą 2001/20/EB, Direktyvą 2001/83/EB ir Reglamentą (EB) Nr. 726/2004, su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/5.
 
 
 
 
-28. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Reglamentą (EEB) Nr. 3820/85 (OL 2006 L 102, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+28. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su paskutiniais pakeitimais, padarytais 2020 m. balandžio 7 d. Komisijos reglamentu (ES) 2020/507. 
 
 
 
 
-29. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2011 m. liepos 11 d. Komisijos reglamentu (ES) Nr. 664/2011 (OL 2011 L 182, p. 2).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+29. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1931/2006, nustatantis vietinio eismo per valstybių narių išorines sausumos sienas taisykles ir iš dalies keičiantis Šengeno konvencijos nuostatas, su paskutiniais pakeitimais, padarytais 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1342/2011. 
 
 
 
 
-30. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).      
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+30. 2006 m. gruodžio 22 d. Komisijos reglamentas (EB) Nr. 2023/2006 dėl medžiagų ir gaminių, skirtų liestis su maistu, geros gamybos praktikos su paskutiniais pakeitimais, padarytais 2008 m. kovo 27 d. Komisijos reglamentu (EB) Nr. 282/2008.
 
 
 
 
-31. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo (OL 2006 L 266, p. 1) su paskutiniais pakeitimais, padarytais 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/103/EB (OL 2008 L 327, p. 7).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+31. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų.
 
 
 
 
-32. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1901/2006 dėl pediatrijoje vartojamų vaistinių preparatų, iš dalies keičiantis Reglamentą (EEB) Nr. 1768/92, Direktyvą 2001/20/EB, Direktyvą 2001/83/EB ir Reglamentą (EB) Nr. 726/2004 (OL 2006 L 378, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+32. 2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/50/EB dėl aplinkos oro kokybės ir švaresnio oro Europoje su paskutiniais pakeitimais, padarytais 2015 m. rugpjūčio 28 d. Komisijos direktyva (ES) 2015/1480.
 
 
 
 
-33. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. gegužės 20 d. Komisijos reglamentu (ES) Nr. 494/2011 (OL 2011 L 134, p. 2). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+33. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 765/2008, nustatantis su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantis Reglamentą (EEB) Nr. 339/93, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1020.
 
 
 
 
-34. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1931/2006, nustatantis vietinio eismo per valstybių narių išorines sausumos sienas taisykles ir iš dalies keičiantis Šengeno konvencijos nuostatas (OL 2006 L 405, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1342/2011 (OL 2011 L 347, p. 41). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+34. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių su paskutiniais pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/696.
 
 
 
 
-35. 2006 m. gruodžio 22 d. Komisijos reglamentas (EB) Nr. 2023/2006 dėl medžiagų ir gaminių, skirtų liestis su maistu, geros gamybos praktikos (OL 2006 L 384, p. 75).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+35. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999, su paskutiniais pakeitimais, padarytais 2011 m. kovo 1 d. Komisijos reglamentu (ES) Nr. 202/2011.
 
 
 
 
-36. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+36. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/851.
 
 
 
 
-37. 2008 m. sausio 15 d. Europos Parlamento ir Tarybos direktyvos 2008/1/EB dėl taršos integruotos prevencijos ir kontrolės (OL 2008 L 24, p. 8) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+37. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/104/EB dėl darbo per laikinojo įdarbinimo įmones.
 
 
 
 
-38. 2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/50/EB dėl aplinkos oro kokybės ir švaresnio oro Europoje (OL 2008 L 152, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+38. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006, su paskutiniais pakeitimais, padarytais 2019 m. spalio 4 d. Komisijos deleguotuoju reglamentu (ES) 2020/217.
 
 
 
 
-39. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 765/2008, nustatantis su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantis Reglamentą (EEB) Nr. 339/93 (OL 2008 L 218, p. 30).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+39. 2008 m. gruodžio 18 d. Tarybos reglamentas (EB) Nr. 44/2009, iš dalies keičiantis Reglamentą (EB) Nr. 1338/2001, nustatantį priemones, būtinas euro apsaugai nuo padirbinėjimo.
 
 
 
 
-40. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+40. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/16/EB dėl uosto valstybės kontrolės su paskutiniais pakeitimais, padarytais 2017 m. lapkričio 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2110. 
 
 
 
 
-41. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999 (OL 2008 L 286, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. kovo 1 d. Komisijos reglamentu (ES) Nr. 202/2011 (OL 2011 L 57, p. 10).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+41. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/18/EB, nustatanti pagrindinius principus, taikomus avarijų jūrų transporto sektoriuje tyrimui, ir iš dalies keičianti Tarybos direktyvą 1999/35/EB ir Europos Parlamento ir Tarybos direktyvą 2002/59/EB. 
 
 
 
 
-42. Neteko galios nuo 2008-04-28.
-Punkto pakeitimai:
-Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+42. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/30/EB, iš dalies keičianti Direktyvos 98/70/EB nuostatas dėl benzino, dyzelinių degalų (dyzelino) ir gazolių kokybės rodiklių, nustatanti šiltnamio efektą sukeliančių dujų stebėsenos ir mažinimo mechanizmą, iš dalies keičianti Tarybos direktyvos 1999/32/EB nuostatas dėl vidaus vandens kelių laivų kuro kokybės rodiklių ir panaikinanti Direktyvą 93/12/EEB, su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1513. 
 
 
 
 
-43. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas (OL 2008 L 312, p. 3).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+43. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006, su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1999.
 
 
 
 
-44. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/104/EB dėl darbo per laikinojo įdarbinimo įmones (OL 2008 L 327, p. 9).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+44. 2009 m. gegužės 6 d. Parlamento ir Tarybos direktyva 2009/41/EB dėl riboto genetiškai modifikuotų mikroorganizmų naudojimo. 
 
 
 
 
-45. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2011 m. kovo 10 d. Komisijos reglamentu (ES) Nr. 286/2011 (OL 2011 L 83, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+45. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1005/2009 dėl ozono sluoksnį ardančių medžiagų su paskutiniais pakeitimais, padarytais 2017 m. kovo 29 d. Komisijos reglamentu (ES) Nr. 2017/605.
 
 
 
 
-46. 2008 m. gruodžio 18 d.  Tarybos reglamentas (EB) Nr. 44/2009, iš dalies keičiantis Reglamentą (EB) Nr. 1338/2001, nustatantį priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2009 L 17, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+46. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/126/EB dėl II pakopos benzino garų grąžinimo degalinėse variklinių transporto priemonių bakus pildant degalų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. 
 
 
 
 
-47. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/18/EB, nustatanti pagrindinius principus, taikomus avarijų jūrų transporto sektoriuje tyrimui, ir iš dalies keičianti Tarybos direktyvą 1999/35/EB ir Europos Parlamento ir Tarybos direktyvą 2002/59/EB (OL 2009 L 131, p. 114) 
-Papildyta punktu:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+47. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1381.
 
 
 
 
-48. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/16/EB dėl uosto valstybės kontrolės (OL 2009 L 131, p. 57) su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu  (ES) 2015/757 (OL 2015 L 123, p. 55). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+48. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.
 
 
 
 
-49. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/30/EB, iš dalies keičianti Direktyvos 98/70/EB nuostatas dėl benzino, dyzelinių degalų (dyzelino) ir gazolių kokybės rodiklių, nustatanti šiltnamio efektą sukeliančių dujų stebėsenos ir mažinimo mechanizmą, iš dalies keičianti Tarybos direktyvos 1999/32/EB nuostatas dėl vidaus vandens kelių laivų kuro kokybės rodiklių ir panaikinanti Direktyvą 93/12/EEB (OL 2009 L 140, p. 88), su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1513 (OL 2015 L 239, p. 1). 
-Papildyta punktu:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Punkto numeracijos pakeitimas:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+49. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1241.
 
 
 
 
-50. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006 (OL 2009 L 140, p. 114).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+50. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinantis Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB, su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 19 d. Komisijos reglamentu (ES) 2018/2026.
 
 
 
 
-51. 2009 m. gegužės 6 d. Parlamento ir Tarybos direktyva 2009/41/EB dėl riboto genetiškai modifikuotų mikroorganizmų naudojimo (OL 2009 L 125, p. 75). 
-Papildyta punktu:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Punkto numeracijos pakeitimas:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+51. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 66/2010 dėl ES ekologinio ženklo su paskutiniais pakeitimais, padarytais 2017 m. spalio 24 d. Komisijos reglamentu (ES) 2017/1941.
 
 
 
 
-52. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/101/EB dėl apsaugos priemonių, kurių valstybės narės reikalauja iš Sutarties 48 straipsnio antroje pastraipoje apibrėžtų bendrovių siekiant apsaugoti narių ir trečiųjų asmenų interesus, koordinavimo, siekiant suvienodinti tokias apsaugos priemones (OL 2009 L 258, p. 11).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+52. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1223/2009 dėl kosmetikos gaminių su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Komisijos reglamentu (ES) 2019/1966.
 
 
 
 
-53. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1005/2009 dėl ozono sluoksnį ardančių medžiagų (OL 2009 L 286, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. rugpjūčio 18 d. Komisijos reglamentu (ES) Nr. 744/2010 (OL 2010 L 218, p. 2).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+53. 2010 m. kovo 25 d. Komisijos reglamentas (ES) Nr. 255/2010, kuriuo nustatomos bendrosios oro eismo srautų valdymo taisyklės, su paskutiniais pakeitimais, padarytais 2017 m. lapkričio 20 d. Komisijos įgyvendinimo reglamentu (ES) 2017/2159. 
 
 
 
 
-54. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/126/EB dėl II pakopos benzino garų grąžinimo degalinėse variklinių transporto priemonių bakus pildant degalų (OL 2009 L 285, p. 36). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+54. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 995/2010, kuriuo nustatomos veiklos vykdytojų, pateikiančių rinkai medieną ir medienos produktus, pareigos, su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010.
 
 
 
 
-55. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1381. 
-Punkto pakeitimai:
-Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+55. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB, su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139. 
 
 
 
 
-551. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. 
-Papildyta punktu:
-Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
- 
+56. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės).
 
 
 
 
-56. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/812 (OL 2015 L 133, p. 1). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+57. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004.
 
 
 
 
-57. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 66/2010 dėl ES ekologinio ženklo (OL 2010 L 27, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+58. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004.
 
 
 
 
-58. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinantis Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+59. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 305/2011, kuriuo nustatomos suderintos statybos produktų rinkodaros sąlygos ir panaikinama Tarybos direktyva 89/106/EEB, su paskutiniais pakeitimais, padarytais 2014 m. vasario 24 d. Komisijos deleguotuoju reglamentu (ES) Nr. 574/2014.
 
 
 
 
-59. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1223/2009 dėl kosmetikos gaminių (OL 2009 L 342, p. 59).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+60. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės, su paskutiniais pakeitimais, padarytais 2020 m. birželio 22 d. Komisijos įgyvendinimo reglamentu (ES) 2020/863.
 
 
 
 
-60. 2010 m. kovo 25 d. Komisijos reglamentas (ES) Nr. 255/2010, kuriuo nustatomos bendrosios oro eismo srautų valdymo taisyklės (OL 2010 L 80, p. 10). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+61. 2011 m. lapkričio 3 d. Komisijos reglamentas (ES) Nr. 1178/2011, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su civilinės aviacijos orlaivių įgula susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2020 m. kovo 4 d. Komisijos deleguotuoju reglamentu (ES) 2020/723. 
 
 
 
 
-61. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB (OL 2010 L 295, p. 35), su paskutiniais pakeitimais, padarytais 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 376/2014 (OL 2014 L 122, p. 18). 
-Papildyta punktu:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+62. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES. 
 
 
 
 
-62. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 995/2010, kuriuo nustatomos veiklos vykdytojų, pateikiančių rinkai medieną ir medienos produktus, pareigos (OL 2010 L 295, p. 23).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+63. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR.
 
 
 
 
-63. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+64. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo su paskutiniais pakeitimais, padarytais 2019 m. rugpjūčio 8 d. Komisijos deleguotuoju reglamentu (ES) 2019/1825.
 
 
 
 
-64. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+65. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 601/2012 dėl išmetamųjų šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 19 d. Komisijos įgyvendinimo reglamentu (ES) 2018/2066. 
 
 
 
 
-65. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2011 L 55, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+66. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB.
 
 
 
 
-66. Neteko galios nuo 2021-07-01
-Punkto naikinimas:
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+67. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/849. 
 
 
 
 
-67. 2011 m. kovo  9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 305/2011, kuriuo nustatomos suderintos statybos produktų rinkodaros sąlygos ir panaikinama Tarybos direktyva 89/106/EEB (OL 2011 L 88, p. 5).  
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+68. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo su paskutiniais pakeitimais, padarytais 2019 m. liepos 23 d. Komisijos deleguotuoju reglamentu (ES) 2019/1701.
 
 
 
 
-68. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės (OL 2011 L 112, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+69. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2019 m. rugpjūčio 1 d. Komisijos įgyvendinimo reglamentu 2019/1387. 
 
 
 
 
-681. 2011 m. lapkričio 3 d. Komisijos reglamentas (ES) Nr. 1178/2011, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su civilinės aviacijos orlaivių įgula susiję techniniai reikalavimai ir administracinės procedūros (OL 2011 L 311, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. liepos 27 d. Komisijos reglamentu (ES) 2018/1065 (OL 2018 L 192, p. 31). 
-Papildyta punktu:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+70. 2013 m. sausio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 168/2013 dėl dviračių ir triračių transporto priemonių bei keturračių patvirtinimo ir rinkos priežiūros su paskutiniais pakeitimais, padarytais 2019 m. sausio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/129. 
 
 
 
 
-69. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+71. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų su paskutiniais pakeitimais, padarytais 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/1991. 
 
 
 
 
-70. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+72. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų su paskutiniais pakeitimais, padarytais 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/1991. 
 
 
 
 
-71. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012  dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+73. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011, su paskutiniais pakeitimais, padarytais 2019 m. kovo 12 d. Komisijos deleguotuoju reglamentu (ES) 2019/1122. 
 
 
 
 
-72. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 600/2012 dėl išmetamo šiltnamio efektą sukeliančių dujų kiekio ataskaitų ir tonkilometrių duomenų ataskaitų patikros ir vertintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 1). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+74. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/29/ES dėl valstybių narių įstatymų, susijusių su pirotechnikos gaminių tiekimu rinkai, suderinimo (nauja redakcija).
 
 
 
 
-73. 2012 m. birželio 21 d. Komisijos reglamentas (ES) Nr. 601/2012 dėl išmetamųjų šiltnamio efektą sukeliančių dujų kiekio stebėsenos ir ataskaitų teikimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB (OL 2012 L 181, p. 30). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+75. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2014 m. lapkričio 7 d. Tarybos direktyva 2014/102/ES.
 
 
 
 
-74. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų (OL 2012 L 197, p. 38). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+76. 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1257/2013 dėl laivų perdirbimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 1013/2006 ir Direktyva 2009/16/EB, su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos sprendimu (ES) 2018/853. 
 
 
 
 
-75. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB (OL 2012 L 197, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+77. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000, su paskutiniais pakeitimais, padarytais 2020 m. balandžio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/560.
 
 
 
 
-76. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas Nr. (ES) 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+78. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1241. 
 
 
 
 
-761. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. liepos 23 d. Komisijos reglamentu (ES) 2018/1042 (OL 2018 L 188, p. 3). 
-Papildyta punktu:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+79. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo.
 
 
 
 
-77. Neteko galios nuo 2021-06-02
-Punkto naikinimas:
-Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+80. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139. 
 
 
 
 
-771. 2013 m. sausio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 168/2013 dėl dviračių ir triračių transporto priemonių bei keturračių patvirtinimo ir rinkos priežiūros (OL 2013 L 60, p. 52). 
-Papildyta punktu:
-Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
- 
+81. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/47/ES dėl Sąjungoje važinėjančių komercinių transporto priemonių techninio patikrinimo kelyje, kuria panaikinama Direktyva 2000/30/EB. 
 
 
 
 
-78. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+82. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB, su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139. 
 
 
 
 
-79. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+83. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 511/2014 dėl Nagojos protokolo dėl galimybės naudotis genetiniais ištekliais ir sąžiningo bei teisingo naudos, gaunamos juos naudojant, pasidalijimo naudotojams skirtų atitikties priemonių Sąjungoje. 
 
 
 
 
-80. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011 (OL 2013 L 122, p. 1). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+84. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006.
 
 
 
 
-81. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/29/ES dėl valstybių narių įstatymų, susijusių su pirotechnikos gaminių tiekimu rinkai, suderinimo (nauja redakcija) (OL 2013 L 178, p. 27).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+85. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų. 
 
 
 
 
-82. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+86. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB. 
 
 
 
 
-821. 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1257/2013 dėl laivų perdirbimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 1013/2006 ir Direktyva 2009/16/EB (OL 2013 L 330, p. 1). 
-Papildyta punktu:
-Nr. XIII-2800, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02852
- 
+87. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo su paskutiniais pakeitimais, padarytais 2016 m. spalio 26 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/2031. 
 
 
 
 
-83. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000 (OL 2013 L 354, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+88. 2014 m. lapkričio 26 d. Komisijos reglamentas (ES) Nr. 1321/2014 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo su paskutiniais pakeitimais, padarytais 2020 m. vasario 25 d. Komisijos įgyvendinimo reglamentu (ES) 2020/270. 
 
 
 
 
-84. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB (OL 2013 L 354, p. 22). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+89. 2015 m. vasario 20 d. Komisijos reglamentas (ES) 2015/340, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su skrydžių vadovų licencijomis ir pažymėjimais susiję techniniai reikalavimai ir administracinės procedūros, iš dalies keičiamas Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012 ir panaikinamas Komisijos reglamentas (ES) Nr. 805/2011. 
 
 
 
 
-85. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo (OL 2014 L 60, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+90. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/652, kuria nustatomi skaičiavimo metodai ir atskaitomybės reikalavimai pagal Europos Parlamento ir Tarybos direktyvą 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės, su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1999. 
 
 
 
 
-86. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+91. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB, su paskutiniais pakeitimais, padarytais 2016 m. rugsėjo 22 d. Komisijos deleguotuoju reglamentu (ES) 2016/2071. 
 
 
 
 
-87. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/47/ES dėl Sąjungoje važinėjančių komercinių transporto priemonių techninio patikrinimo kelyje, kuria panaikinama Direktyva 2000/30/EB (OL 2014 L 127, p. 134). 
-Papildyta punktu:
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+92. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2177.
 
 
 
 
-88. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62). 
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+93. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą.
 
 
 
 
-89. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 511/2014 dėl Nagojos protokolo dėl galimybės naudotis genetiniais ištekliais ir sąžiningo bei teisingo naudos, gaunamos juos naudojant, pasidalijimo naudotojams skirtų atitikties priemonių Sąjungoje (OL 2014 L 150, p. 59). 
-Papildyta straipsnio dalimi:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+94. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos su paskutiniais pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/700.
 
 
 
 
-90. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195).
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+95. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/801 dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų (nauja redakcija). 
 
 
 
 
-91. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų (OL 2014 L 157, p. 1). 
-Papildyta punktu:
-Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
-Punkto numeracijos pakeitimas:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+96. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/802 dėl sieros kiekio sumažinimo tam tikrose skystojo kuro rūšyse. 
 
 
 
 
-92. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB (OL 2014 L 257, p. 73). 
-Papildyta punktu:
-Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
-Punkto numeracijos pakeitimas:
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+97. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1012 dėl zootechninių ir genealoginių reikalavimų, taikomų grynaveislių veislinių gyvūnų ir hibridinių veislinių kiaulių veisimui, prekybai jais bei jų genetinės medžiagos produktais ir jų įvežimui į Sąjungą, kuriuo iš dalies keičiami Reglamentas (ES) 652/2014, Tarybos direktyvos 89/608/EEB ir 90/425/EEB bei panaikinami tam tikri gyvūnų veisimo srities aktai. 
 
 
 
 
-93. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo (OL 2014 L 317, p. 35). 
-Papildyta punktu:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Punkto numeracijos pakeitimas:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+98. 2016 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1148 dėl priemonių aukštam bendram tinklų ir informacinių sistemų saugumo lygiui visoje Sąjungoje užtikrinti. 
 
 
 
 
-931. 2014 m. lapkričio 26 d. Komisijos reglamentas (ES) Nr. 1321/2014 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2014 L 362, p. 1) su paskutiniais pakeitimais, padarytais 2018 m. rugpjūčio 14 d. Komisijos reglamentu (ES) 2018/1142 (OL 2018 L 207, p. 2). 
-Papildyta punktu:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+99. 2016 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1628 dėl reikalavimų, susijusių su ne keliais judančių mechanizmų vidaus degimo variklių dujinių ir kietųjų dalelių išmetamųjų teršalų ribinėmis vertėmis ir tipo patvirtinimu, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1024/2012 ir (ES) Nr. 167/2013 ir iš dalies keičiama bei panaikinama Direktyva 97/68/EB, su paskutiniais pakeitimais, padarytais 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1040. 
 
 
 
 
-932. 2015 m. vasario 20 d. Komisijos reglamentas (ES) 2015/340, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su skrydžių vadovų licencijomis ir pažymėjimais susiję techniniai reikalavimai ir administracinės procedūros, iš dalies keičiamas Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012 ir panaikinamas Komisijos reglamentas (ES) Nr. 805/2011 (OL 2015 L 63, p. 1). 
-Papildyta punktu:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+100. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas), su paskutiniais pakeitimais, padarytais 2019 m. spalio 10 d. Komisijos deleguotuoju reglamentu (ES) 2019/2127. 
 
 
 
 
-94. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/652, kuria nustatomi skaičiavimo metodai ir atskaitomybės reikalavimai pagal Europos Parlamento ir Tarybos direktyvą 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės (OL 2015 L 107, p. 26). 
-Papildyta punktu:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Punkto numeracijos pakeitimas:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+101. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/821, kuriuo nustatomos alavo, tantalo, volframo, jų rūdų ir aukso iš konfliktinių ir didelės rizikos zonų Sąjungos importuotojų prievolės dėl išsamaus tiekimo grandinės patikrinimo.
 
 
 
 
-95. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/757 dėl jūrų transporto išmetamo anglies dioksido kiekio stebėsenos, ataskaitų teikimo ir tikrinimo, kuriuo iš dalies keičiama Direktyva 2009/16/EB (OL 2015 L 123, p. 55). 
-Papildyta punktu:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Punkto numeracijos pakeitimas:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+102. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008. 
 
 
 
 
-96. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2015/1525, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2015 L 243, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
-Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
- 
+103. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu. 
 
 
 
 
-97. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/801 dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų (nauja redakcija) (OL 2016 L 132, p. 21). 
-Papildyta straipsnio dalimi:
-Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
- 
+104. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
 
 
 
 
-98. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/802 dėl sieros kiekio sumažinimo tam tikrose skystojo kuro rūšyse (OL 2016 L 132, p. 58). 
-Papildyta straipsnio dalimi:
-Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
- 
+105. 2017 m. lapkričio 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2110 dėl inspektavimo, kuriuo užtikrinamas saugus reguliariąsias paslaugas teikiančių ro-ro keleivinių laivų ir greitaeigių keleivinių laivų eksploatavimas, sistemos ir kuria iš dalies keičiama Direktyva 2009/16/EB dėl uosto valstybės kontrolės ir panaikinama Tarybos direktyva 1999/35/EB.
 
 
 
 
-99. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1012 dėl zootechninių ir genealoginių reikalavimų, taikomų grynaveislių veislinių gyvūnų ir hibridinių veislinių kiaulių veisimui, prekybai jais bei jų genetinės medžiagos produktais ir jų įvežimui į Sąjungą, kuriuo iš dalies keičiami Reglamentas (ES) 652/2014, Tarybos direktyvos 89/608/EEB ir 90/425/EEB bei panaikinami tam tikri gyvūnų veisimo srities aktai (OL 2016 L 171, p. 66). 
-Papildyta straipsnio dalimi:
-Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
- 
+106. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/858 dėl motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, komponentų ir atskirų techninių mazgų patvirtinimo ir rinkos priežiūros, kuriuo iš dalies keičiami reglamentai (EB) Nr. 715/2007 ir (EB) Nr. 595/2009 bei panaikinama Direktyva 2007/46/EB.
 
 
 
 
-100. 2016 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1148 dėl priemonių aukštam bendram tinklų ir informacinių sistemų saugumo lygiui visoje Sąjungoje užtikrinti (OL 2016, L 194, p. 1.) 
-Papildyta punktu:
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
-Punkto numeracijos pakeitimas:
-Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
- 
+107. 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1139 dėl bendrųjų civilinės aviacijos taisyklių ir kuriuo įsteigiama Europos Sąjungos aviacijos saugos agentūra, iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 2111/2005, (EB) Nr. 1008/2008, (ES) Nr. 996/2010, (ES) Nr. 376/2014 ir direktyvos 2014/30/ES ir 2014/53/ES bei panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 552/2004 ir (EB) Nr. 216/2008 bei Tarybos reglamentas (EEB) Nr. 3922/91. 
 
 
 
 
-1001. 2016 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1628 dėl reikalavimų, susijusių su ne keliais judančių mechanizmų vidaus degimo variklių dujinių ir kietųjų dalelių išmetamųjų teršalų ribinėmis vertėmis ir tipo patvirtinimu, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1024/2012 ir (ES) Nr. 167/2013 ir iš dalies keičiama bei panaikinama Direktyva 97/68/EB (OL 2016 L 252, p. 53). 
-Papildyta punktu:
-Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
- 
+108. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1672 dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas Reglamentas (EB) Nr. 1889/2005.
 
 
 
 
-1002. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas) (OL 2017 L 95, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. kovo 12 d. Komisijos deleguotuoju reglamentu (ES) 2019/1012 (OL 2019 L 165, p. 4). 
-Papildyta punktu:
-Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
- 
+109. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija).
 
 
 
 
-1003. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/821, kuriuo nustatomos alavo, tantalo, volframo, jų rūdų ir aukso iš konfliktinių ir didelės rizikos zonų Sąjungos importuotojų prievolės dėl išsamaus tiekimo grandinės patikrinimo (OL 2017 L 130, p. 1). 
-Papildyta punktu:
-Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757
- 
+110. 2018 m. gruodžio 19 d. Komisijos įgyvendinimo reglamentas (ES) 2018/2067 dėl duomenų patikros ir tikrintojų akreditavimo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB. 
 
 
 
 
-101. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
-Papildyta punktu:
-Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
-Punkto numeracijos pakeitimas:
-Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
-Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
-Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
-Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
- 
+111. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/788 dėl Europos piliečių iniciatyvos su pakeitimais, padarytais 2019 m. liepos 23 d. Komisijos deleguotuoju reglamentu (ES) 2019/1673.
 
 
 
 
-102. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1). 
-Papildyta punktu:
-Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
- 
+112. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/880 dėl kultūros vertybių įvežimo ir importo.
 
 
 
 
-1021. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/858 dėl motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, komponentų ir atskirų techninių mazgų patvirtinimo ir rinkos priežiūros, kuriuo iš dalies keičiami reglamentai (EB) Nr. 715/2007 ir (EB) Nr. 595/2009 bei panaikinama Direktyva 2007/46/EB (OL 2018 L 151, p. 1).
-Papildyta punktu:
-Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
- 
+113. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/881 dėl ENISA (Europos Sąjungos kibernetinio saugumo agentūros) ir informacinių ir ryšių technologijų kibernetinio saugumo sertifikavimo, kuriuo panaikinamas Reglamentas (ES) Nr. 526/2013 (Kibernetinio saugumo aktas).
 
 
 
 
-103. 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1139 dėl bendrųjų civilinės aviacijos taisyklių ir kuriuo įsteigiama Europos Sąjungos aviacijos saugos agentūra, iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 2111/2005, (EB) Nr. 1008/2008, (ES) Nr. 996/2010, (ES) Nr. 376/2014 ir direktyvos 2014/30/ES ir 2014/53/ES bei panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 552/2004 ir (EB) Nr. 216/2008 bei Tarybos reglamentas (EEB) Nr. 3922/91 (OL 2018 L 212, p. 1). 
-Papildyta punktu:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+114. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo.
 
 
 
 
-1031. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1672 dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas Reglamentas (EB) Nr. 1889/2005. 
-Papildyta punktu:
-Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
- 
+115. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų su paskutiniais pakeitimais, padarytais 2020 m. balandžio 8 d. Komisijos deleguotuoju reglamentu (ES) 2020/784.
 
 
 
 
-104. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija). 
-Papildyta punktu:
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
- 
+116. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1148 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 1907/2006 ir panaikinamas Reglamentas (ES) Nr. 98/2013.
 
 
 
 
-105. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/788 dėl Europos piliečių iniciatyvos. 
-Papildyta punktu:
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
-Punkto numeracijos pakeitimas:
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
- 
-
-
-
-
-1051. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/880 dėl kultūros vertybių įvežimo ir importo. 
-Papildyta punktu:
-Nr. XIV-609, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23531
-Punkto numeracijos pakeitimas:
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
- 
-
-
-
-
-106. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/881 dėl ENISA (Europos Sąjungos kibernetinio saugumo agentūros) ir informacinių ir ryšių technologijų kibernetinio saugumo sertifikavimo, kuriuo panaikinamas Reglamentas (ES) Nr. 526/2013 (Kibernetinio saugumo aktas). 
-Papildyta straipsnio dalimi:
-Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
- 
-
-
-
-
-1061. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. 
-Papildyta punktu:
-Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
-Punkto numeracijos pakeitimas:
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
- 
-
-
-
-
-107. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45). 
-Papildyta punktu:
-Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855
-Punkto numeracijos pakeitimas:
-Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
- 
-
-
-
-
-108. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1148 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 1907/2006 ir panaikinamas Reglamentas (ES) Nr. 98/2013. 
-Papildyta punktu:
-Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
-Punkto numeracijos pakeitimas:
-Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
- 
-
-
-
-
-109. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės. 
-Papildyta punktu:
-Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
-Punkto numeracijos pakeitimas:
-Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
- 
+117. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
 
 
 Priedo pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
  
  
  
@@ -25961,3 +25555,43 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio ir pr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-714, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25141
 Lietuvos Respublikos administracinių nusižengimų kodekso 29 ir 247 straipsnių pakeitimo įstatymas
+ 
+147.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3318, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21259
+Lietuvos Respublikos administracinių nusižengimų kodekso 185 ir 589 straipsnių pakeitimo įstatymas
+ 
+148.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-264, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08866
+Lietuvos Respublikos administracinių nusižengimų kodekso 603 straipsnio pakeitimo įstatymas
+ 
+149.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-266, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08868
+Lietuvos Respublikos administracinių nusižengimų kodekso 33, 414, 610 ir 611 straipsnių pakeitimo įstatymas
+ 
+150.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
+Lietuvos Respublikos administracinių nusižengimų kodekso 573, 574, 577, 579, 585, 609, 616, 620, 622, 624, 637, 646 ir 647 straipsnių pakeitimo įstatymas
+ 
+151.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-464, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15523
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 96-1, 362-1 straipsniais įstatymas
+ 
+152.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-575, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21915
+Lietuvos Respublikos administracinių nusižengimų kodekso 33, 414, 610 ir 611 straipsnių pakeitimo įstatymo Nr. XIV-266 4 straipsnio pakeitimo įstatymas
+ 
+153.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 33, 223, 321, 325, 327, 401, 413-1, 558, 560, 569, 578, 579, 589, 608, 609, 610, 611, 617, 618, 620, 621, 644, 664, 665 straipsnių, XXXIX skyriaus pavadinimo ir priedo pakeitimo ir 323 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+154.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-870, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26907
+Lietuvos Respublikos administracinių nusižengimų kodekso 573 ir 589 straipsnių pakeitimo įstatymas
