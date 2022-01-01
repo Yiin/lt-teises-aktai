@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2020-11-19 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -65,7 +65,10 @@ Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
 
 
 
-3. Programos finansavimo lėšos – valstybės biudžeto pajamų dalis, fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių tikslinės lėšos, skirtos Programai finansuoti.
+3. Programos finansavimo lėšos – valstybės biudžeto lėšos, fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių tikslinės lėšos, skirtos Programai finansuoti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
+ 
 
 
 
@@ -83,78 +86,18 @@ Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
 
 
 
-3 straipsnis. Programos finansavimo šaltiniai
-
-
-Programos finansavimo šaltiniai yra:
-
-
-1) dalis akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai; 
-
-
-
-
-2) dalis akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas automobiliams;
-
-
-
-
-3) mokestis už Lietuvos Respublikoje įregistruotas krovinines transporto priemones; 
-
-
-
-
-4) kelių naudotojo mokestis; 
-
-
-
-
-5) mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+3 straipsnis. Neteko galios nuo 2022-01-01.
+Straipsnio pakeitimai:
+Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
  
 
 
 
 
-6) mokestis už eismo ribojimą;
-
-
-
-
-7) fizinių, juridinių asmenų, kitų organizacijų, jų padalinių ir užsienio valstybių tikslinės lėšos;
-
-
-
-
-8) lėšos iš sumokėtų ar išieškotų baudų už nustatyto greičio viršijimą, užfiksuotą stacionariąja Kelių eismo taisyklių pažeidimų fiksavimo įranga, įrengta valstybinės reikšmės keliuose.
+4 straipsnis. Neteko galios nuo 2022-01-01.
+Straipsnio pakeitimai:
+Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
  
-
-
-
-
-
-
-
-
-4 straipsnis. Dalis akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai, ir dalis akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas automobiliams
-
-
-1. Programai finansuoti skiriama 50 procentų, o nuo 2021 m. sausio 1 d. – 52 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai.
-TAR pastaba. Pripažinti, kad kad Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 4 straipsnio 1 dalis (2019 m. gegužės 16 d. redakcija, įsigaliojusi 2020 m. sausio 1 d.; TAR, 2019-05-24, Nr. 8304) prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
-Straipsnio dalies pakeitimai:
-Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
-Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
-Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
- 
-
-
-
-
-2. Akcizo pajamų atskaitymus kiekvieną mėnesį iki kito mėnesio 25 dienos apskaičiuoja ir skiria Programai finansuoti Lietuvos Respublikos finansų ministerija.
- 
-
-
 
 
 
@@ -310,7 +253,10 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-8 straipsnis. Kiti Programos finansavimo šaltiniai
+8 straipsnis. Kiti mokesčiai ir finansavimo šaltiniai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
+ 
 
 
 1. Mokesčio už eismo ribojimą valstybinės reikšmės keliuose dirbant įvairius darbus keliuose, kelių juostose ar jų apsaugos zonose, rengiant įvairius masinius (pvz., sporto ir kitus) renginius, kai ribojamas ar uždaromas eismas, tarifai nurodyti šio įstatymo 4 priede. Šio mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato susisiekimo ministras. Mokestis už eismo ribojimą valstybinės reikšmės keliuose nemokamas, kai darbai atliekami iš Programos finansavimo lėšų ir kai įrengiamos, rekonstruojamos ar taisomos (remontuojamos) melioracijos sistemos kelių apsaugos zonoje, jeigu nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai.
@@ -331,33 +277,33 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-9 straipsnis. Programos finansavimo lėšų naudojimas
+9 straipsnis. Programos finansavimo lėšų naudojimas 
 
 
-1. Programos finansavimo lėšos naudojamos valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra: 
+1. Programos finansavimo lėšos naudojamos valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra:
 
 
-1) keliams tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; 
-
-
-
-
-2) keliams, tiltams, viadukams, estakadoms, tuneliams, gamybiniams-buitiniams kelių statiniams, pralaidoms projektuoti, projektų ekspertizėms atlikti, kelių priežiūros ir tinklo plėtros programoms rengti, mokslo tiriamiesiems darbams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, vykdyti;
+1) keliams tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
 
 
 
-3) keliams, kelių statiniams ir jų užimamai žemei inventorizuoti; 
+2) keliams, tiltams, viadukams, estakadoms, tuneliams, gamybiniams ir buitiniams kelio statiniams, pralaidoms projektuoti, projektų ekspertizėms atlikti, kelių priežiūros ir tinklo plėtros programoms rengti, mokslo tiriamiesiems darbams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, vykdyti;
 
 
 
 
-4) tiltams, viadukams, estakadoms tuneliams ir gamybiniams-buitiniams kelių statiniams apskaityti, statyti, rekonstruoti, taisyti (remontuoti), inventorizuoti ir prižiūrėti;
+3) keliams, kelio statiniams ir jų užimamai žemei inventorizuoti;
 
 
 
 
-5) kelių tiesimo, taisymo (remonto) ir priežiūros darbų techninei kontrolei, kelių, tiltų, viadukų, estakadų ir tunelių specialiesiems tyrimams, laboratoriniams darbams, kelių statinių statybos techninei priežiūrai, saugos ir paskirties valstybinei priežiūrai atlikti;
+4) tiltams, viadukams, estakadoms, tuneliams, gamybiniams ir buitiniams kelio statiniams apskaityti, statyti, rekonstruoti, taisyti (remontuoti), inventorizuoti ir prižiūrėti;
+
+
+
+
+5) kelių tiesimo, taisymo (remonto) ir priežiūros darbų techninei kontrolei, kelių, tiltų, viadukų, estakadų ir tunelių specialiesiems tyrimams, laboratoriniams darbams, kelio statinių statybos techninei priežiūrai, saugos ir paskirties valstybinei priežiūrai atlikti;
 
 
 
@@ -372,12 +318,12 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-8) poilsio aikštelėms, maršrutinio transporto sustojimo vietoms, paviljonams, pavėsinėms, tualetams ir kitiems prie kelio esantiems techniniams įrenginiams, oro sąlygų keliuose stebėjimo, transporto eismo apskaitos ir valdymo sistemoms ir kitiems kelio statiniams plėtoti; 
+8) poilsio aikštelėms, maršrutinio transporto sustojimo vietoms, paviljonams, pavėsinėms, tualetams ir kitiems prie kelio esantiems techniniams įrenginiams, oro sąlygų keliuose stebėjimo, transporto eismo apskaitos ir valdymo sistemoms ir kitiems kelio statiniams plėtoti;
 
 
 
 
-9) kelių informacinėms sistemoms kurti; 
+9) kelių informacinėms sistemoms kurti;
 
 
 
@@ -387,35 +333,32 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-11) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti; 
+11) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti;
 
 
 
 
-12) Lietuvos Respublikos valstybės biudžeto lėšų, skirtų keliams tiesti, rekonstruoti, taisyti (remontuoti) ir saugaus eismo priemonėms įgyvendinti, daliai padengti vykdant Europos Sąjungos paramos lėšomis bendrai finansuojamus projektus; 
+12) Lietuvos Respublikos valstybės biudžeto lėšų, skirtų keliams tiesti, rekonstruoti, taisyti (remontuoti) ir saugaus eismo priemonėms įgyvendinti, daliai padengti vykdant Europos Sąjungos paramos lėšomis bendrai finansuojamus projektus;
 
 
 
 
-13) Lietuvos Respublikos susisiekimo ministerijos įgaliotos viešosios įstaigos Transporto kompetencijų agentūros funkcijoms, nurodytoms Saugaus eismo automobilių keliais įstatymo 10 straipsnio 12 dalyje, atlikti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
- 
+13) Lietuvos Respublikos susisiekimo ministerijos įgaliotos viešosios įstaigos Transporto kompetencijų agentūros funkcijoms, nurodytoms Saugaus eismo automobilių keliais įstatymo 10 straipsnio 12 dalyje, atlikti;
 
 
 
 
-14) išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas, tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius, apmokėti, aplinkos apsaugos reikmėms ir apsaugos nuo triukšmo statiniams prie kelių statyti, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius; 
+14) tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius patirtoms išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas apmokėti, aplinkos apsaugos reikmėms ir apsaugos nuo triukšmo statiniams prie kelių statyti, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius;
 
 
 
 
-15) bendradarbiavimui su užsienio valstybėmis kelių tinklo plėtros ir užtikrinimo, kad šis tinklas veiktų, klausimais finansuoti; 
+15) bendradarbiavimui su užsienio valstybėmis kelių tinklo plėtros ir užtikrinimo, kad šis tinklas veiktų, klausimais finansuoti;
 
 
 
 
-16) teisės aktams ir normatyviniams dokumentams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, rengti; 
+16) teisės aktams ir normatyviniams dokumentams, susijusiems su kelių tinklo plėtra ir užtikrinimu, kad šis tinklas veiktų, rengti;
 
 
 
@@ -425,26 +368,17 @@ Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
 
 
 
-18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir valstybės įmonės Lietuvos automobilių kelių direkcijos išlaikymo išlaidoms apmokėti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
- 
+18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir valstybės įmonės Lietuvos automobilių kelių direkcijos išlaikymo išlaidoms apmokėti;
 
 
 
 
-19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir valstybės įmonės Lietuvos automobilių kelių direkcijos paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
- 
+19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir valstybės įmonės Lietuvos automobilių kelių direkcijos paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti;
 
 
 
 
-20) kelių naudotojo mokesčiui, mokesčiams už Lietuvos Respublikoje įregistruotas krovinines transporto priemones, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, už eismo ribojimą administruoti ir jų surinkimo priežiūrai atlikti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
- 
+20) mokesčiams už Lietuvos Respublikoje įregistruotas krovinines transporto priemones, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, už eismo ribojimą administruoti ir jų surinkimo priežiūrai atlikti;
 
 
 
@@ -454,33 +388,39 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-22) saugaus eismo keliuose programoms ir jų priemonėms įgyvendinti (tarp jų keliuose įrengtai stacionariajai Kelių eismo taisyklių pažeidimų fiksavimo įrangai prižiūrėti, gaunamai informacijai apdoroti ir kitoms saugaus eismo programoms įgyvendinti, naudojant lėšas iš sumokėtų ar išieškotų baudų už nustatyto greičio viršijimą); 
+22) saugaus eismo keliuose programoms ir jų priemonėms įgyvendinti (tarp jų keliuose įrengtai stacionariajai Kelių eismo taisyklių pažeidimų fiksavimo įrangai prižiūrėti, gaunamai informacijai apdoroti ir kitoms saugaus eismo programoms įgyvendinti, naudojant lėšas iš sumokėtų ar išieškotų baudų už stacionariąja Kelių eismo taisyklių pažeidimų fiksavimo įranga užfiksuotus administracinius nusižengimus);
 
 
 
 
-23) viešosios įstaigos Centrinės projektų valdymo agentūros (toliau – CPVA) veiklai, susijusiai su Programos lėšų, skiriamų valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, priežiūra, užtikrinti; 
-Papildyta straipsnio punktu:
-Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
- 
+23) viešosios įstaigos Centrinės projektų valdymo agentūros (toliau – CPVA) veiklai, susijusiai su Programos lėšų, skiriamų valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, priežiūra, užtikrinti;
 
 
 
 
-24) kitoms kelių srities reikmėms finansuoti. 
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
- 
+24) Lietuvos transporto saugos administracijos veiklai, susijusiai su eismo dalyvių švietimu eismo saugumo srityje;
 
 
 
 
-2. Programos finansavimo lėšos naudojamos valstybės institucijų ar viešųjų įstaigų, kurių dalininkė yra valstybė, valstybės įmonių, savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomam vietinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra:
+25) Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos gaunamai informacijai apdoroti, organizacinėms ir eksploatacinėms išlaidoms padengti, saugaus eismo programoms ir jų priemonėms įgyvendinti;
+
+
+
+
+26) Informatikos ir ryšių departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos informacijai apdoroti ir Administracinių nusižengimų registrui palaikyti ir tobulinti;
+
+
+
+
+27) kitoms kelių srities reikmėms finansuoti.
+
+
+
+
+
+
+2. Programos finansavimo lėšos naudojamos savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomam vietinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, tai yra:
 
 
 1) keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
@@ -488,12 +428,12 @@ Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
 
 
 
-2) kelių, kelių statinių ir jų užimamos žemės teisinei registracijai būtinoms procedūroms atlikti, daiktinėms teisėms į žemę, šių teisių suvaržymams, juridiniams faktams registruoti;
+2) kelių, kelio statinių ir jų užimamos žemės teisinei registracijai būtinoms procedūroms atlikti, daiktinėms teisėms į žemę, šių teisių suvaržymams, juridiniams faktams registruoti;
 
 
 
 
-3) tiltams, viadukams, estakadoms, tuneliams, pralaidoms projektuoti, apskaityti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+3) tiltams, viadukams, estakadoms, tuneliams, pralaidoms projektuoti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
 
 
@@ -508,135 +448,124 @@ Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
 
 
 
-6) techninėms eismo reguliavimo ir kitoms inžinerinėms saugaus eismo priemonėms projektuoti, įrengti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+6) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti;
 
 
 
 
-7) ekstremaliųjų situacijų, ekstremaliųjų įvykių ir įvykių padariniams keliuose likviduoti;
+7) kelio juostoje esančioms automobilių stovėjimo aikštelėms, viešojo transporto stotelėms ir paviljonams įrengti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
 
 
 
-8) apšvietimui keliuose įrengti, rekonstruoti, taisyti (remontuoti);
+8) institucijų ar įstaigų, atsakingų už vietinės reikšmės viešuosius kelius, paskoloms, naudojamoms vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), grąžinti ir palūkanoms mokėti;
 
 
 
 
-9) kelio juostoje esančioms automobilių stovėjimo aikštelėms, viešojo transporto stotelėms ir paviljonams įrengti, statyti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+9) tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius patirtoms išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, naikinamus želdinius ir kitas naudmenas apmokėti, aplinkos apsaugos reikmėms, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius;
 
 
 
 
-10) šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+10) Programos finansavimo lėšų naudojimo pagal paskirtį kontrolei, darbų kokybės kontrolės priežiūrai vietinės reikšmės kelių objektuose;
 
 
 
 
-11) institucijų ar įstaigų, atsakingų už vietinės reikšmės viešuosius kelius, paskoloms, naudojamoms vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), grąžinti ir palūkanoms mokėti;
+11) viešojo sektoriaus ir privačios partnerystės būdu įgyvendinamiems vietinės reikšmės viešiesiems keliams projektuoti, tiesti, rekonstruoti, taisyti (remontuoti), paskoloms grąžinti ir palūkanoms mokėti, projektų išlaidoms finansuoti;
 
 
 
 
-12) išlaidoms už skirtą žemę, nukeliamus ar (ir) griaunamus pastatus ir kitus statinius, želdinius ir kitas naudmenas, tiesiant, rekonstruojant, taisant (remontuojant), prižiūrint kelius, apmokėti, aplinkos apsaugos reikmėms, žemės rekultivavimo darbams vykdyti tiesiant ir taisant (remontuojant) kelius;
+12) želdinių gyvenamųjų vietovių gatvių raudonosiose linijose įrengimui saugaus eismo tikslais ir priežiūrai finansuoti;
 
 
 
 
-13) stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis;
+13) darnaus judumo priemonėms (esamiems šaligatviams, pėsčiųjų takams, pėsčiųjų viadukams ir tiltams, pėsčiųjų estakadoms, pėsčiųjų perėjoms (įskaitant požemines) pritaikyti specialiųjų poreikių turintiems žmonėms; viešojo transporto infrastruktūrai; viešojo transporto eismui organizuoti; dviračių statymo infrastruktūrai; stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis; elektrinių transporto priemonių (išskyrus elektromobilius) viešosioms įkrovimo prieigoms; šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; pėsčiųjų, dviračių takų įrenginiams (tvorelėms ir pan.)) įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
 
 
 
-14) Programos finansavimo lėšų naudojimo pagal paskirtį kontrolei, darbų kokybės kontrolės priežiūrai vietinės reikšmės kelių objektuose. 
+14) inžinerinėms saugaus eismo priemonėms (važiuojamajai kelio daliai siaurinti; įvažiavimų į teritorijas zonoms pertvarkyti; važiuojamajai kelio daliai iškreivinti; iškiliosioms greičio mažinimo priemonėms (greičio mažinimo kalneliams) įrengti; kelio įrenginiams (saugos salelėms, sankryžoms, pėsčiųjų perėjoms); greičio mažinimo priemonėms ties gyvenamosios teritorijos pradžia, siekiant sumažinti galimą per didelį transporto priemonių greitį ir parodyti, kad keičiasi važiavimo režimas (miesto vartai), įrengti; kelio ženklams įrengti; kelio dangai ženklinti; šviesoforams įrengti; tvoroms, kelio apsauginių atitvarų sistemoms, signaliniams stulpeliams įrengti; kelio veidrodžiams įrengti; elektroniniams įrenginiams (greičio kontrolės priemonėms, informacinėms momentinio važiavimo greičio švieslentėms, kintamosios informacijos ženklams (stendams)  įrengti ir prižiūrėti; apšvietimui keliuose) ir kitoms priemonėms įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
- 
 
 
+15) įgyvendinant vietinės reikšmės kelių projektus būtiniems vietinės reikšmės ir valstybinės reikšmės kelių statinių sujungimo darbams, kuriuos vykdant nekeičiami valstybinės reikšmės kelio (statinio) elementų (sankryžų, nuovažų) geometriniai parametrai, finansuoti;
 
 
-3. Specialiajai vietinės reikšmės žvyrkelių asfaltavimo programai finansuoti skiriama 2 procentai, o nuo 2021 m. sausio 1 d. – 4 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai. 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 3 dalis (2019 m. gegužės 16 d. redakcija, įsigaliojusi 2020 m. sausio 1 d.; TAR, 2019-05-24, Nr. 8304) prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
-Papildyta straipsnio dalimi:
-Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
-Straipsnio dalies pakeitimai:
-Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
- 
 
 
+16) valstybinėje ir savivaldybių žemėje daugiabučių namų kiemų vidaus kelių (gatvių) ir daugiabučių namų gyventojų automobilių stovėjimo aikštelėms įrengti, rekonstruoti, taisyti (remontuoti)  ir prižiūrėti, neatsižvelgiant į tai, ar atlikta šių inžinerinių statinių teisinė registracija.
 
 
-4. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina valstybės įmonė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą vykdo CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija. Susisiekimo ministras kiekvienais metais atsiskaito Seimui už Programos finansavimo lėšų panaudojimą.
-Straipsnio dalies pakeitimai:
-Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
-Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
- 
 
 
 
 
-5. Programos finansavimo lėšos naudojamos pagal iki atitinkamų metų vasario 1 dienos Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keliais, finansuoti.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2118, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08302
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
-Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
- 
+3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina valstybės įmonė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą vykdo CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija. 
 
 
 
 
-6. Metinėje lėšų naudojimo sąmatoje numatoma 30 procentų Programos finansavimo lėšų valstybės institucijų ar viešųjų įstaigų, kurių dalininkė yra valstybė, valstybės įmonių, savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomiems vietinės reikšmės keliams tiesti, taisyti, prižiūrėti ir saugaus eismo sąlygoms užtikrinti.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
-Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
- 
+4. Programos finansavimo lėšos naudojamos pagal per mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą trejų metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki trejų metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos valstybės įmonė Lietuvos automobilių kelių direkcija ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir 2 dalyse numatytų veiklų finansavimo ne didesnei kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumai. Trejų metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka.  
 
 
 
 
-7. Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos bilieto kainai kompensuoti:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
-Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
- 
+5. Trejų metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 1 dalyje nustatytoms veikloms numatoma 67 procentai Programos finansavimo lėšų.
 
 
-1) neįgaliųjų ir jų nuosavybės ar kitokiu teisėtu pagrindu valdomų automobilių, kuriuos jie vairuoja arba kuriais jie važiuoja; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
- 
 
 
+6. Trejų metų Programos finansavimo lėšų naudojimo sąmatoje šio straipsnio 2 dalyje nustatytoms veikloms, taip pat skoloms (jeigu jų yra) sumokėti ir išlaidoms kompensuoti, kai deklaruojamos patirtos ir apmokėtos išlaidos už praėjusiais finansiniais metais atliktus darbus ir suteiktas paslaugas, kurių vertė neviršijo praėjusiais finansiniais metais planuotų asignavimų, numatoma 33 procentai Programos finansavimo lėšų, iš kurių iki 9 procentų Vyriausybės nustatyta tvarka paskirstoma atrinktiems valstybei svarbiems vietinės reikšmės kelių objektams finansuoti, likusi dalis, ne mažiau kaip 91 procentas,  valstybės įmonės Lietuvos automobilių kelių direkcijos paskirstoma taip:
 
 
-2) tarnybos reikalais vykstančių greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės pareigūnų, Lietuvos kariuomenėje tarnaujančių karių, valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų ir šiame punkte nurodytų institucijų ir tarnybų transporto priemonių; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
- 
+1) vietinės reikšmės keliams Birštono, Druskininkų, Palangos miesto ir Neringos savivaldybėse – 2 procentai, iš kurių 50 procentų šioms savivaldybėms paskirstoma po lygiai ir 50 procentų – pagal per paskutinius 12 mėnesių suteiktų nakvynių apgyvendinimo įstaigose skaičių (vadovaujamasi Lietuvos statistikos departamento duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.); lėšos paskirstomos toms savivaldybėms, kurių savivaldybių tarybos, vadovaudamosi Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymu, patvirtino savivaldybės infrastruktūros plėtros įmokos tarifą (tarifus);
+TAR pastaba. 9 straipsnio 6 dalies 1 punktas įsigalioja 2022-03-01.
 
 
 
 
-3) Klaipėdos miesto savivaldybės tarnybinių transporto priemonių, valstybės tarnautojų ir darbuotojų, atliekančių tarnybines funkcijas ir dirbančių darbus Klaipėdos miesto dalyje Smiltynėje; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
- 
+2) savivaldybių institucijų valdomiems vietinės reikšmės keliams – 98 procentai, iš kurių miestų savivaldybių vietinės reikšmės keliams – 35 procentai, kitų savivaldybių vietinės reikšmės keliams – 65 procentai. Šios lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Lietuvos statistikos departamento duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų ir pagal motorizuoto eismo kelių ilgį, nurodytą savivaldybių tarybų iki einamųjų biudžetinių metų sausio 1 d. patvirtintuose kelių sąrašuose, kuriuose taip pat nurodomas kelio numeris ir kelio pavadinimas, – 50 procentų. Nuo 2025 metų Programos finansavimo lėšos savivaldybėms paskirstomos pagal nuolatinių gyventojų skaičių (vadovaujamasi Lietuvos statistikos departamento duomenimis, skelbiamais einamųjų biudžetinių metų vasario 1 d.) – 50 procentų ir pagal Nekilnojamojo turto registre iki einamųjų biudžetinių metų sausio 1 d. įregistruotų motorizuoto eismo kelių ilgį – 50 procentų. 
 
 
 
 
-4) tolimojo, vietinio (miesto) reguliaraus susisiekimo autobusų, dviračių, autocisternų, kuriomis vežamas kuras į Kuršių neriją, ir transporto priemonių, kuriomis gabenamas biokuras į Kuršių neriją; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3420, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24269
- 
+
+
+7. Ne mažiau kaip 50 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama turtui įsigyti – vietinės reikšmės keliams tiesti, rekonstruoti ir kapitališkai remontuoti; ne mažiau kaip 10 procentų Programos finansavimo lėšų, skirtų savivaldybių institucijų valdomiems vietinės reikšmės keliams, turi būti naudojama saugaus eismo priemonėms ir darnaus judumo priemonėms vietinės reikšmės keliuose finansuoti. 
+
+
+
+
+8. Savivaldybių institucijos Programos finansavimo lėšas paskirsto vadovaudamosi savivaldybių tarybų nustatyta tvarka, pagal kurią turi būti sudaromos viešai skelbiamos savivaldybės interneto svetainėje ir nuolat atnaujinamos vietinės reikšmės kelių objektų prioritetinės eilės. Vietinės reikšmės kelių objektų prioritetinės eilės sudaromos ne trumpesniam kaip trejų metų laikotarpiui. 
+TAR pastaba. 9 straipsnio 8 dalis įsigalioja 2022-03-01.
+
+
+
+
+9. Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos bilieto kainai kompensuoti:
+
+
+1) neįgaliųjų ir jų nuosavybės ar kitokiu teisėtu pagrindu valdomų automobilių, kuriuos jie vairuoja arba kuriais jie važiuoja;
+
+
+
+
+2) tarnybos reikalais vykstančių greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės pareigūnų, Lietuvos kariuomenėje tarnaujančių karių, valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų ir šiame punkte nurodytų institucijų ir tarnybų transporto priemonių;
+
+
+
+
+3) Klaipėdos miesto savivaldybės tarnybinių transporto priemonių, valstybės tarnautojų ir darbuotojų, atliekančių tarnybines funkcijas ir dirbančių darbus Klaipėdos miesto dalyje Smiltynėje;
+
+
+
+
+4) tolimojo, vietinio (miesto) reguliaraus susisiekimo autobusų, dviračių, autocisternų, kuriomis vežami degalai į Kuršių neriją, ir transporto priemonių, kuriomis gabenamas biokuras į Kuršių neriją;
 
 
 
@@ -646,39 +575,24 @@ Nr. XIII-3420, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24269
 
 
 
-6) Klaipėdos miesto savivaldybės įmonių ir įstaigų transporto priemonių ir darbuotojų, dirbančių darbus Klaipėdos miesto dalyje Smiltynėje; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
- 
+6) Klaipėdos miesto savivaldybės įmonių ir įstaigų transporto priemonių ir darbuotojų, dirbančių darbus Klaipėdos miesto dalyje Smiltynėje;
 
 
 
 
 7) Neringos mieste ir Klaipėdos miesto dalyje Smiltynėje gyvenamąją vietą deklaravusių asmenų ir jų transporto priemonių;
-Straipsnio punkto pakeitimai:
-Nr. XII-2315, 2016-04-14, paskelbta TAR 2016-04-18, i. k. 2016-09858
- 
 
 
 
 
 8) darbo reikalais vykstančių miškų urėdijos, kuriai perduotas valdyti Kuršių nerijoje esantis valstybinės miško žemės sklypas, darbuotojų ir jos transporto priemonių.
-Papildyta straipsnio punktu:
-Nr. XII-2571, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20663
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
  
-
-
-
-
-
-
-8. Programos finansavimo lėšos pagal Vyriausybės nustatytą tvarką naudojamos gyventojų ir jų lengvųjų automobilių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
-Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
- 
-
-
 
 
 
@@ -740,6 +654,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos 
@@ -830,9 +746,10 @@ Priedo pakeitimai:
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
  
+part_eeb5fe3931ce489fae9e59aec22c4baa_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -945,9 +862,10 @@ KELIŲ NAUDOTOJO MOKESČIO RIBINIAI TARIFAI
 Priedo pakeitimai:
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
  
+part_1e19b874a13b492cb4668d57f3a7cd62_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -1133,7 +1051,10 @@ MOKESČIO UŽ NAUDOJIMĄSI KELIAIS VAŽIUOJANT SUNKIASVORĖMIS TRANSPORTO PRIEMO
 
 
 
-4. Mokestis nustatomas sumuojant mokesčius už kiekvienos ašies (ašių) didžiausiosios leidžiamosios ašies (ašių) apkrovos viršijimą.
+4. Mokestis nustatomas sumuojant mokesčius už kiekvienos ašies (ašių) didžiausiosios leidžiamosios ašies (ašių) apkrovos viršijimą. Jeigu sunkiasvorės motorinės transporto priemonės ar jų junginio ašies (ašių) apkrova su kroviniu ar be jo viršija 8 t, tokioms sunkiasvorėms motorinėms transporto priemonėms ar jų junginiams taikomas vienkartinis tarifas, kuris apskaičiuojamas taip: prie didžiausiojo ribinio tarifo pridedamas papildomas 2 eurų mokestis už kiekvieną ašies (ašių) apkrovos viršijimą 1 t.
+Punkto pakeitimai:
+Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
+ 
 
 
 
@@ -1309,9 +1230,10 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 Priedo pakeitimai:
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
  
+part_3a804eb8080b413fb24350b538e2f327_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -1465,9 +1387,10 @@ Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 
 
 
+part_13500aa429c2408e89328812418bd17d_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -1493,8 +1416,7 @@ Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
  
 
 
-
-
+part_ce02f3a5172f4814bcc7f54fcd934107_end
 
 
 Pakeitimai:
@@ -1705,4 +1627,9 @@ Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3420, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24269
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir įstatymo papildymo 6-1 straipsniu įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 8, 9 straipsnių, 3 priedo pakeitimo ir 3, 4 straipsnių pripažinimo netekusiais galios įstatymas
