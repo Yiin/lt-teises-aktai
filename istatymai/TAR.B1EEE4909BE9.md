@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b1eee4909be911ea9515f752ff221ec9"
 
 # Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas
 
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+ 
+Įstatymas paskelbtas: TAR 2020-05-22, i. k. 2020-10869
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SAVIVALDYBIŲ INFRASTRUKTŪROS PLĖTROS
 ĮSTATYMAS
@@ -79,7 +86,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Savivaldybės infrastruktūros plėtros įmoka – vienkartinė savivaldybės tarybos sprendimu nustatyto dydžio įmoka, kurią savivaldybei moka Lietuvos Respublikos ar užsienio valstybės fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, pateikę prašymą gauti statybą leidžiantį dokumentą statiniui statyti ar rekonstruoti teritorijoje, kurioje pagal galiojančius teritorijų planavimo dokumentus numatoma savivaldybės infrastruktūros plėtra, ir (ar) planuojantys toje teritorijoje statyti ar rekonstruoti inžinerinį statinį, kuriam reikalinga savivaldybės infrastruktūra, tačiau statybą leidžiančio dokumento nereikia. 
+7. Savivaldybės infrastruktūros plėtros įmoka – pagal savivaldybės tarybos sprendimu tvirtinamą tarifą apskaičiuojama vienkartinė įmoka, kurią savivaldybei moka Lietuvos Respublikos ar užsienio valstybės fizinis ar juridinis asmuo, kita organizacija ar jų padalinys, pateikę prašymą gauti statybą leidžiantį dokumentą naujam statiniui statyti ar esamam rekonstruoti teritorijoje, kurioje pagal galiojančius teritorijų planavimo dokumentus numatoma savivaldybės infrastruktūra, ir (ar) planuojantys toje teritorijoje statyti ar rekonstruoti  statinį, kuris nepriklauso savivaldybės infrastruktūrai ir kuriam reikalinga savivaldybės infrastruktūra, tačiau statybą leidžiančio dokumento nereikia.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -174,15 +184,22 @@ Lietuvos Respublikos aplinkos ministerija kartu su kitomis ministerijomis rengia
 
 
 
-5) tvirtina savivaldybės infrastruktūros plėtros priemonių planą (toliau – priemonių planas), savivaldybės infrastruktūros plėtros rėmimo programos (toliau – Programa) lėšų panaudojimo planą ir ataskaitą;
+5) tvirtinamo savivaldybės strateginio veiklos plano prieduose išdėsto savivaldybės infrastruktūros plėtros priemonių sąrašą, šių priemonių įgyvendinimo terminus, nurodo vykdytojus, lėšų šaltinius, kitą su savivaldybės infrastruktūros plėtra susijusią informaciją (toliau – priemonių planas), taip pat pateikia savivaldybės infrastruktūros plėtros rėmimo programos (toliau – Programa) lėšų panaudojimo ateinančiais kalendoriniais metais planą;
 
 
 
 
-6) nustato savivaldybės infrastruktūros plėtros įmokos mokėjimo ir atleidimo nuo jos mokėjimo tvarką, taip pat patvirtina kriterijus, pagal kuriuos nustatoma, kada savivaldybės infrastruktūros plėtros įmoka nemokama arba mokama dalimis.
+6) iki einamųjų metų gruodžio 15 dienos tvirtina Programos lėšų panaudojimo ataskaitą už praėjusius kalendorinius metus;
+
+
+
+
+7) nustato savivaldybės infrastruktūros plėtros įmokos mokėjimo ir atleidimo nuo jos mokėjimo tvarką, taip pat patvirtina kriterijus, pagal kuriuos nustatoma, kada savivaldybės infrastruktūros plėtros įmoka nemokama arba mokama dalimis.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
  
-
-
 
 
 
@@ -275,7 +292,10 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS PLANAVIMAS IR ĮGYVENDINIMAS
 
 
 
-3. Savivaldybių administracijų valstybės tarnautojais, atliekančiais savivaldybės vyriausiojo inžinieriaus funkcijas, numatytas šiame įstatyme, turi teisę būti asmenys, atitinkantys šiuos reikalavimus: turintys aukštąjį universitetinį ar aukštąjį koleginį technologijos mokslų srities inžinerijos krypčių grupės ar lygiavertį aukštąjį universitetinį ar aukštąjį koleginį inžinerinį išsilavinimą, 3 metų profesinę patirtį einant teritorijų planavimo ar statinių statybos techninės veiklos pagrindinių sričių vadovo pareigas arba 3 metų darbo teritorijų planavimo valstybinės priežiūros srityse patirtį ir išmanantys teisės aktus, reglamentuojančius teritorijų planavimą, statinių projektavimą, statybą, teritorijų planavimo ir statybos valstybinę priežiūrą. 
+3. Savivaldybės administracijos valstybės tarnautoju, atliekančiu savivaldybės vyriausiojo inžinieriaus funkcijas, numatytas šiame įstatyme, turi teisę būti statybos inžinierius, kaip jis apibrėžtas Statybos įstatyme, turintis statybos techninės veiklos pagrindinių sričių vadovo kvalifikacijos atestatą arba 3 metų darbo patirtį teritorijų planavimo, statybos ir (ar) teritorijų planavimo ir statybos valstybinės priežiūros srityse, jeigu pagal einamas pareigas jis tiesiogiai dalyvavo išduodant statybą leidžiančius dokumentus, surašant statybos užbaigimo aktus, tvirtinant deklaracijas apie statybos užbaigimą, rengiant normatyvinius statybos techninius ar normatyvinius statinio saugos ir paskirties dokumentus, rengiant architektus ar statybos inžinierius mokslo ir studijų institucijose,  ir išmanantis teisės aktus, reglamentuojančius teritorijų planavimą, statinių projektavimą, statybą, teritorijų planavimo ir statybos valstybinę priežiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -291,7 +311,10 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS PLANAVIMAS IR ĮGYVENDINIMAS
 7 straipsnis. Savivaldybės infrastruktūros plėtros organizavimas ir įgyvendinimas
 
 
-1. Savivaldybės infrastruktūros plėtrą organizuoja savivaldybės infrastruktūros plėtros organizatorius pagal savivaldybės tarybos tvirtinamus savivaldybės infrastruktūros plėtros organizatoriaus veiklos prioritetus, planavimo organizatoriaus metinius veiklos planus, savivaldybės ir (ar) vietovės lygmens teritorijų planavimo dokumentus. 
+1. Savivaldybės infrastruktūros plėtrą organizuoja savivaldybės infrastruktūros plėtros organizatorius pagal priemonių planą, planavimo organizatoriaus metinius veiklos planus, savivaldybės ir (ar) vietovės lygmens teritorijų planavimo dokumentus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -337,7 +360,7 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS PLANAVIMAS IR ĮGYVENDINIMAS
 
 
 
-3. Savivaldybės infrastruktūros plėtros sutartis sudaroma, kai planuojama statyti naują ir (ar) rekonstruoti esamą pastatą, kitą inžinerinį statinį, kuris nėra savivaldybės infrastruktūra, ir (ar) esamą inžinerinį statinį rekonstruoti į pastatą, kuriems naudoti reikalinga savivaldybės infrastruktūros plėtra. Savivaldybės infrastruktūros plėtros sutartis turi apimti savivaldybės infrastruktūros, reikalingos planuojamam statyti naujam ir (ar) rekonstruoti esamam pastatui ir (ar) esamam inžineriniam statiniui rekonstruoti į pastatą, projektavimą, įrengimą ir (ar) statybą. Savivaldybės infrastruktūros plėtros sutartis nesudaroma, kai:
+3. Savivaldybės infrastruktūros plėtros sutartis sudaroma, kai planuojama statyti naują ir (ar) rekonstruoti esamą pastatą, inžinerinį statinį, kuris nepriklauso savivaldybės infrastruktūrai, ir (ar) esamą inžinerinį statinį rekonstruoti į pastatą, kuriems naudoti reikalinga savivaldybės infrastruktūros plėtra. Savivaldybės infrastruktūros plėtros sutartis turi apimti savivaldybės infrastruktūros, reikalingos planuojamam statyti naujam ir (ar) rekonstruoti esamam pastatui, inžineriniam statiniui, kuris nepriklauso savivaldybės infrastruktūrai, ir (ar) esamam inžineriniam statiniui rekonstruoti į pastatą, projektavimą, įrengimą ir (ar) statybą. Savivaldybės infrastruktūros plėtros sutartis nesudaroma, kai:
 
 
 1) savivaldybės infrastruktūros plėtra nesusijusi su konkretaus statytojo (vystytojo) reikmėmis ir ją savo lėšomis įgyvendina savivaldybės infrastruktūros valdytojai;
@@ -350,9 +373,12 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS PLANAVIMAS IR ĮGYVENDINIMAS
 
 
 
-3) siekiama įrengti ar pastatyti kompleksinio ir (ar) specialiojo teritorijų planavimo dokumentuose nesuplanuotą savivaldybės infrastruktūrą. Šiuo atveju savivaldybės infrastruktūros plėtros sutartis sudaroma tik po to, kai savivaldybės infrastruktūros plėtros iniciatorius, vadovaudamasis Teritorijų planavimo įstatymo 6 straipsnio 3 dalies nuostatomis, sudaro teritorijų planavimo proceso inicijavimo sutartį, parengia atitinkamą teritorijų planavimo dokumentą ir atitinkama institucija jį patvirtina. 
+3) siekiama įrengti ar pastatyti kompleksinio ir (ar) specialiojo teritorijų planavimo dokumentuose nesuplanuotą savivaldybės infrastruktūrą. Šiuo atveju savivaldybės infrastruktūros plėtros sutartis sudaroma tik po to, kai savivaldybės infrastruktūros plėtros iniciatorius, vadovaudamasis Teritorijų planavimo įstatymo 6 straipsnio 3 dalies nuostatomis, sudaro teritorijų planavimo proceso inicijavimo sutartį, parengia atitinkamą teritorijų planavimo dokumentą ir atitinkama institucija jį patvirtina.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -550,12 +576,12 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 2. Prioritetinės savivaldybės infrastruktūros plėtra finansuojama iš: 
 
 
-1) Programos dalies, kurią sudaro prioritetinės savivaldybės infrastruktūros plėtros įmokos, lėšų;
+1) Programos lėšų dalies, sudarytos iš prioritetinės savivaldybės infrastruktūros plėtros įmokų;
 
 
 
 
-2) kitų savivaldybės biudžeto lėšų ir (ar) kituose įstatymuose nustatytais atvejais – iš savivaldybės infrastruktūros valdytojų biudžeto lėšų;
+2) kitų savivaldybės biudžeto lėšų ir (ar) kituose įstatymuose nustatytais atvejais – iš savivaldybės infrastruktūros valdytojų lėšų;
 
 
 
@@ -568,6 +594,9 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 4) kituose įstatymuose nustatytų programų lėšų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -575,19 +604,27 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 3. Neprioritetinės savivaldybės infrastruktūros plėtra finansuojama iš: 
 
 
-1) privačių savivaldybės infrastruktūros plėtros iniciatoriaus (iniciatorių), įgyvendinančio (įgyvendinančių) neprioritetinės savivaldybės infrastruktūros plėtrą pagal savivaldybės infrastruktūros plėtros sutartį, lėšų, kompensuojamų šio įstatymo 13 straipsnio 2 ir 4 dalyse nustatyta tvarka;
+1) Programos lėšų dalies, kuri yra  sudaryta iš neprioritetinės savivaldybės infrastruktūros plėtros įmokų ir viršija lėšų poreikį kompensacijoms už savivaldybės infrastruktūros plėtros iniciatoriaus lėšomis įrengtą neprioritetinę savivaldybės infrastruktūrą mokėti;
 
 
 
 
-2) kitų savivaldybės biudžeto lėšų ir (ar) kituose įstatymuose nustatytais atvejais – iš savivaldybės infrastruktūros valdytojų biudžeto lėšų;
+2) privačių savivaldybės infrastruktūros plėtros iniciatoriaus (iniciatorių), įgyvendinančio (įgyvendinančių) neprioritetinės savivaldybės infrastruktūros plėtrą pagal savivaldybės infrastruktūros plėtros sutartį, lėšų, kompensuojamų šio įstatymo 13 straipsnio 2 ir 4 dalyse nustatyta tvarka;
 
 
 
 
-3) kituose įstatymuose nustatytų programų lėšų.
+3) kitų savivaldybės biudžeto lėšų ir (ar) kituose įstatymuose nustatytais atvejais – iš savivaldybės infrastruktūros valdytojų lėšų;
 
 
+
+
+4) kituose įstatymuose nustatytų programų lėšų.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -628,7 +665,10 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 
 
 
-4. Programos lėšų dalis, kurią sudaro neprioritetinės savivaldybės infrastruktūros plėtros įmokos, naudojamos kompensuoti už savivaldybės infrastruktūros plėtros iniciatoriaus lėšomis įrengtą neprioritetinę savivaldybės infrastruktūrą vadovaujantis šio įstatymo 13 straipsnio nuostatomis.
+4. Programos lėšų dalis, kurią sudaro neprioritetinės savivaldybės infrastruktūros plėtros įmokos, naudojama kompensuoti už savivaldybės infrastruktūros plėtros iniciatoriaus lėšomis įrengtą neprioritetinę savivaldybės infrastruktūrą vadovaujantis šio įstatymo 13 straipsnio nuostatomis. Neprioritetinės savivaldybės infrastruktūros plėtrai gali būti naudojama tik šio įstatymo 11 straipsnio 3 dalies 1 punkte nurodyta Programos lėšų dalis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -653,7 +693,10 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 
 
 
-9. Einamųjų metų pabaigoje infrastruktūros plėtros organizatorius parengia priemonių planą ir Programos lėšų panaudojimo planą ir pateikia juos Komisijai tikrinti. Komisija ne vėliau kaip per 10 darbo dienų nuo šių planų pateikimo tikrinti dienos parengia išvadą dėl jų atitikties galiojantiems teritorijų planavimo dokumentų sprendiniams, patvirtintiems strateginiams savivaldybės plėtros planams. Savivaldybės infrastruktūros plėtros organizatorius priemonių planą ir Programos lėšų panaudojimo planą kartu su Komisijos išvada teikia tvirtinti savivaldybės tarybai ne vėliau kaip iki savivaldybės biudžeto patvirtinimo.
+9. Einamųjų metų pabaigoje infrastruktūros plėtros organizatorius parengia priemonių planą ir Programos lėšų panaudojimo planą ir pateikia juos Komisijai tikrinti. Komisija ne vėliau kaip per 10 darbo dienų nuo šių planų pateikimo tikrinti dienos parengia išvadą dėl jų atitikties galiojantiems teritorijų planavimo dokumentų sprendiniams, patvirtintiems strateginiams savivaldybės plėtros planams. Savivaldybės infrastruktūros plėtros organizatorius priemonių planą ir Programos lėšų panaudojimo planą, išdėstytus savivaldybės strateginio veiklos plano atskiruose prieduose, kartu su Komisijos išvada teikia tvirtinti savivaldybės tarybai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -699,7 +742,10 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 
 
 
-4. Kompensacijos už prioritetinės savivaldybės infrastruktūros plėtrą pagal teritorijų planavimo dokumentuose nustatytus vystymo etapus, savivaldybės infrastruktūros plėtros sutartyse nustatytas kompensavimo sąlygas, savivaldybės infrastruktūros perdavimo savivaldybės infrastruktūros valdytojui (valdytojams) terminą mokamos iš savivaldybės biudžeto ir (ar) kituose įstatymuose nustatytais atvejais – iš savivaldybės infrastruktūros valdytojo biudžeto, taip pat iš Programos lėšų, sukauptų iš prioritetinės savivaldybės infrastruktūros įmokų. Programos lėšos, sukauptos iš prioritetinės infrastruktūros įmokų, naudojamos, kai kompensacijoms mokėti kitų savivaldybės ir (ar) savivaldybės infrastruktūros valdytojų biudžeto lėšų nepakanka. Savivaldybė ir (ar) savivaldybės infrastruktūros valdytojas privalo kompensuoti savivaldybės infrastruktūros plėtros sutartyje numatytas savivaldybės infrastruktūros plėtros iniciatoriaus išlaidas, patirtas įgyvendinant savivaldybės infrastruktūros plėtros sutartyje numatytos prioritetinės savivaldybės infrastruktūros plėtrą. Kompensacijos už neprioritetinės savivaldybės infrastruktūros plėtrą mokamos iš savivaldybės infrastruktūros plėtros įmokų, kurios surenkamos iš statytojų (vystytojų), prisijungiančių prie savivaldybės infrastruktūros plėtros iniciatoriaus pastatytos ar įrengtos savivaldybės infrastruktūros. Kompensacijos už neprioritetinės infrastruktūros plėtrą nemokamos, kai prie savivaldybės infrastruktūros plėtros iniciatoriaus pastatytos ar įrengtos savivaldybės infrastruktūros nauji statytojai (vystytojai) neprisijungia.
+4. Kompensacijos už prioritetinės savivaldybės infrastruktūros plėtrą pagal teritorijų planavimo dokumentuose nustatytus vystymo etapus, savivaldybės infrastruktūros plėtros sutartyse nustatytas kompensavimo sąlygas, savivaldybės infrastruktūros perdavimo savivaldybės infrastruktūros valdytojui (valdytojams) terminą mokamos iš savivaldybės biudžeto ir (ar) kituose įstatymuose nustatytais atvejais – iš savivaldybės infrastruktūros valdytojo biudžeto, taip pat iš Programos lėšų, sukauptų iš prioritetinės savivaldybės infrastruktūros įmokų. Savivaldybė ir (ar) savivaldybės infrastruktūros valdytojas privalo kompensuoti savivaldybės infrastruktūros plėtros sutartyje numatytas savivaldybės infrastruktūros plėtros iniciatoriaus išlaidas, patirtas įgyvendinant savivaldybės infrastruktūros plėtros sutartyje numatytos prioritetinės savivaldybės infrastruktūros plėtrą. Kompensacijos už neprioritetinės savivaldybės infrastruktūros plėtrą mokamos iš savivaldybės infrastruktūros plėtros įmokų, kurios surenkamos iš statytojų (vystytojų), prisijungiančių prie savivaldybės infrastruktūros plėtros iniciatoriaus pastatytos ar įrengtos savivaldybės infrastruktūros. Kompensacijos už neprioritetinės infrastruktūros plėtrą nemokamos, kai prie savivaldybės infrastruktūros plėtros iniciatoriaus pastatytos ar įrengtos savivaldybės infrastruktūros nauji statytojai (vystytojai) neprisijungia.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -730,7 +776,10 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 
 
 
-2. Savivaldybės infrastruktūros plėtros įmokos dalis, skirta savivaldybės infrastruktūros projektavimui, statybai ir (ar) įrengimui finansuoti, apskaičiuojama statinio ar statinio rekonstravimo į pastatą projekte nurodytą pastato (pastatų) bendrąjį plotą (kvadratiniais metrais) ir (ar) inžineriniu statiniu, kuris nėra savivaldybės infrastruktūra ir jo naudojimui reikalinga savivaldybės infrastruktūra, užstatytą plotą (kvadratiniais metrais) padauginant iš savivaldybės tarybos sprendimu patvirtinto savivaldybės infrastruktūros plėtros įmokos tarifo. Pastato rekonstravimo atveju savivaldybės infrastruktūros plėtros įmokos dalis apskaičiuojama rekonstruojamo pastato padidėjusią bendrojo ploto dalį (kvadratiniais metrais) padauginant iš savivaldybės tarybos sprendimu patvirtinto įmokos tarifo. 
+2. Savivaldybės infrastruktūros plėtros įmokos dalis, skirta savivaldybės infrastruktūros projektavimui, statybai ir (ar) įrengimui finansuoti, apskaičiuojama statinio statybos ar statinio rekonstravimo projekte nurodytą pastato (pastatų) bendrąjį plotą (kvadratiniais metrais) ir (ar) inžineriniu statiniu, kuris nepriklauso savivaldybės infrastruktūrai ir jo naudojimui reikalinga savivaldybės infrastruktūra, užstatytą plotą (kvadratiniais metrais) padauginant iš savivaldybės tarybos sprendimu patvirtinto savivaldybės infrastruktūros plėtros įmokos tarifo. Pastato rekonstravimo atveju savivaldybės infrastruktūros plėtros įmokos dalis apskaičiuojama rekonstruojamo pastato padidėjusią bendrojo ploto dalį (kvadratiniais metrais) padauginant iš savivaldybės tarybos sprendimu patvirtinto įmokos tarifo. Inžinerinio statinio, kuris nepriklauso savivaldybės infrastruktūrai ir jo naudojimui reikalinga savivaldybės infrastruktūra, rekonstravimo atveju savivaldybės infrastruktūros plėtros įmokos dalis apskaičiuojama padidėjusią užstatyto ploto dalį (kvadratiniais metrais) padauginant iš savivaldybės tarybos sprendimu patvirtinto įmokos tarifo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -740,7 +789,9 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 
 
 
-4. Savivaldybės infrastruktūros plėtros įmoką apskaičiuoja savivaldybės infrastruktūros plėtros organizatorius pagal Vyriausybės nutarimu tvirtinamą Savivaldybės infrastruktūros plėtros įmokos nustatymo metodiką, įvertinęs savivaldybės infrastruktūros plėtros poreikį (vartotojų skaičių ir numatomą jo pokytį, savivaldybės infrastruktūros išvystymo lygį). Savivaldybės infrastruktūros plėtros įmokos tarifą (tarifus) tvirtina savivaldybės taryba. Teritorijose (zonose) gali būti tvirtinami skirtingi savivaldybės infrastruktūros plėtros įmokos tarifai, diferencijuojant pagal pastatų ir (ar) pagrindinę žemės naudojimo paskirtį, savivaldybės infrastruktūros išvystymo lygį ir plėtros poreikį. 
+4. Savivaldybės infrastruktūros plėtros įmoką apskaičiuoja savivaldybės infrastruktūros plėtros organizatorius pagal Vyriausybės nutarimu tvirtinamą Savivaldybės infrastruktūros plėtros įmokos nustatymo metodiką, taikydamas savivaldybės tarybos sprendimu patvirtintą savivaldybės infrastruktūros plėtros įmokos tarifą (tarifus). Teritorijose (zonose) gali būti tvirtinami skirtingi savivaldybės infrastruktūros plėtros įmokos tarifai, atsižvelgiant į Savivaldybės infrastruktūros plėtros įmokos nustatymo metodikoje rekomenduojamus tarifų koeficientus, diferencijuojamus pagal pastatų ir (ar) pagrindinę žemės naudojimo paskirtį, savivaldybės infrastruktūros išvystymo lygį ir plėtros poreikį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
  
 
 
@@ -751,15 +802,18 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 15 straipsnis. Savivaldybės infrastruktūros plėtros įmokos mokėtojai
 
 
-1. Savivaldybės infrastruktūros plėtros įmoką moka naujai statomo, rekonstruojamo pastato, esamą inžinerinį statinį rekonstruojančio į pastatą ir (ar) kito inžinerinio statinio, kuris nėra savivaldybės infrastruktūra ir jo naudojimui reikalinga savivaldybės infrastruktūra, statytojas (vystytojas), išskyrus šio straipsnio 2 ir 3 dalyse numatytus atvejus.
+1. Savivaldybės infrastruktūros plėtros įmoką teritorijoje, kurioje pagal galiojančius teritorijų planavimo dokumentus numatoma savivaldybės infrastruktūra, moka naujai statomo, rekonstruojamo pastato, esamą inžinerinį statinį rekonstruojančio į pastatą ir (ar) kito inžinerinio statinio, kuris nepriklauso savivaldybės infrastruktūrai ir jo naudojimui reikalinga savivaldybės infrastruktūra, statytojas (vystytojas), išskyrus šio straipsnio 2 ir 3 dalyse numatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
 
-2. Savivaldybės infrastruktūros plėtros įmoka nemokama, kai išduotas statybą leidžiantis dokumentas šių statinių statybai ar rekonstrukcijai:
+2. Savivaldybės infrastruktūros plėtros įmoka nemokama, kai statybą leidžiantis dokumentas išduodamas šių statinių statybai ar rekonstravimui:
 
 
-1) valstybei svarbaus projekto statiniui (statiniams) ar statiniui (statiniams) valstybei svarbaus projekto teritorijoje, kurios ribas nustato Vyriausybė;
+1) valstybei svarbaus projekto statiniui (statiniams) ir (ar) valstybei svarbiam projektui įgyvendinti skirtam statiniui (statiniams) valstybei svarbaus projekto teritorijoje, kurios ribas nustato Vyriausybė;
 
 
 
@@ -769,14 +823,30 @@ SAVIVALDYBĖS INFRASTRUKTŪROS PLĖTROS FINANSAVIMAS
 
 
 
-3) savivaldybės infrastruktūros ir (ar) jos aptarnavimui skirtiems statiniams. 
+3) savivaldybės infrastruktūros ir (ar) jos aptarnavimui skirtiems statiniams; 
 
 
 
 
+4) statiniams, skirtiems krašto apsaugos sistemos institucijų funkcijoms vykdyti, statomiems krašto apsaugos tikslams skirtose teritorijose;
 
 
-3. Nuo savivaldybės infrastruktūros plėtros įmokos atleidžiami statytojai (vystytojai), kai pagal savivaldybės infrastruktūros plėtros sutartį jų lėšomis suprojektuotos, pastatytos ir (ar) įrengtos savivaldybės infrastruktūros išlaidos ne mažesnės negu šioje sutartyje numatyta savivaldybės infrastruktūros plėtros įmoka. Tuo atveju, kai statytojo (vystytojo) lėšomis suprojektuotos, pastatytos ir (ar) įrengtos savivaldybės infrastruktūros išlaidos mažesnės negu sutartyje numatyta savivaldybės infrastruktūros plėtros įmoka, statytojas (vystytojas) sumoka šį skirtumą, apskaičiuojamą vadovaujantis šio įstatymo 13 straipsnio 3 dalimi. 
+
+
+5) užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms, Europos Sąjungos institucijoms, jų įsteigtoms įstaigoms, tarptautinėms organizacijoms ir jų atstovybėms, kurios naudojasi privilegijomis ir imunitetais pagal Lietuvos Respublikos tarptautines sutartis ir kitus teisės aktus.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
+
+
+
+
+3. Nuo savivaldybės infrastruktūros plėtros įmokos atleidžiami statytojai (vystytojai), kai pagal savivaldybės infrastruktūros plėtros sutartį jų lėšomis suprojektuotos, pastatytos ir (ar) įrengtos savivaldybės infrastruktūros išlaidos yra ne mažesnės, negu apskaičiuota savivaldybės infrastruktūros plėtros įmoka. Šiuo atveju savivaldybės infrastruktūros plėtros iniciatoriams išmokamos kompensacijos už inžinerinės savivaldybės infrastruktūros plėtrą dydis lygus savivaldybės infrastruktūros plėtros sutartyje nustatytų savivaldybės infrastruktūros plėtros išlaidų ir savivaldybės infrastruktūros plėtros įmokos skirtumui. Tuo atveju, kai statytojo (vystytojo) lėšomis suprojektuotos, pastatytos ir (ar) įrengtos savivaldybės infrastruktūros išlaidos mažesnės, negu apskaičiuota savivaldybės infrastruktūros plėtros įmoka, statytojas (vystytojas) sumoka šį skirtumą, apskaičiuojamą vadovaujantis šio įstatymo 13 straipsnio 3 dalimi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -814,7 +884,18 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-3. Šio įstatymo 4 straipsnio 1 dalies 2 punkto nuostatos įsigalioja 2022 m. sausio 1 d.
+3. Šio įstatymo 4 straipsnio 1 dalies 2 punkto nuostatos įsigalioja 2023 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
+
+
+
+
+31. Lietuvos Respublikos aplinkos ministras ir Lietuvos Respublikos žemės ūkio ministras iki 2022 m. gruodžio 31 d. priima šio įstatymo 4 straipsnio 1 dalies 2 punkte nurodytoms funkcijoms įgyvendinti reikalingą teisės aktą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+ 
 
 
 
@@ -849,3 +930,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
+Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymo Nr. XIII-2895 2, 4, 6, 7, 8, 11, 12, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas
