@@ -13,12 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-02-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
  
-Nauja redakcija nuo 2020-09-01:
-Nr. XIII-3041, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13953
+Nauja redakcija nuo 2022-01-01:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
  
 LIETUVOS RESPUBLIKOS
 REGIONINĖS PLĖTROS
@@ -48,12 +48,12 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Funkcinė zona – ekonominiais ar socialiniais ryšiais pasižyminti ir (ar) bendrai naudojamą infrastruktūrą ir (ar) paslaugų tinklą turinti teritorija, kurios vystymas numatytas regiono plėtros plane ar kelių regionų plėtros planuose. 
+1. Funkcinė zona – dviejų ar daugiau savivaldybių tarybų bendru sutarimu formuojama Lietuvos Respublikos administracinių vienetų ribų nesaistoma vientisa teritorija, pasižyminti esamais ar kuriamais ekonominiais ir (arba) socialiniais ryšiais, skirta viešosioms paslaugoms bendrai teikti ir (arba) esamos ir (ar) būsimos viešosios infrastruktūros objektams bendrai steigti ir (ar) naudoti.
 
 
 
 
-2. Išankstinė sąlyga – Regionų plėtros programoje nustatytas reikalavimas, skirtas Lietuvos Respublikos Vyriausybės tvirtinamuose planavimo dokumentuose nustatytų uždavinių veiksmingam ir rezultatyviam įgyvendinimui užtikrinti, kurį įgyvendinus įgyjama teisė regiono plėtros plano priemonėms įgyvendinti naudoti Regionų plėtros programoje numatytus finansinius išteklius.
+2. Išankstinė sąlyga – Lietuvos Respublikos regionų plėtros programoje nustatytas Lietuvos Respublikos Vyriausybės tvirtinamuose planavimo dokumentuose nustatytų uždavinių veiksmingam ir rezultatyviam įgyvendinimui užtikrinti skirtas reikalavimas, kurį įgyvendinus įgyjama teisė regiono plėtros plano priemonėms įgyvendinti naudoti Regionų plėtros programoje numatytus finansinius išteklius.
 
 
 
@@ -68,15 +68,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Regiono plėtros taryba – konkrečios apskrities savivaldybių įsteigtas juridinis asmuo, planuojantis ir koordinuojantis nacionalinės regioninės politikos įgyvendinimą toje apskrityje, skatinantis apskrities socialinę ir ekonominę plėtrą bei apskrities savivaldybių bendradarbiavimą, atstovaujantis regionui.
+5. Regiono plėtros taryba – konkrečios apskrities savivaldybių įsteigtas juridinis asmuo, planuojantis ir koordinuojantis nacionalinės regioninės politikos įgyvendinimą toje apskrityje, skatinantis apskrities socialinę ir ekonominę plėtrą ir apskrities savivaldybių bendradarbiavimą, atstovaujantis regionui.
 
 
 
 
-6. Tikslinė teritorija – teritorija, išskirta pagal Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus, siekiant bent vieno iš šių tikslų:
+6. Tikslinė teritorija – teritorija, pagal Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus išskirta siekiant bent vieno iš šių tikslų:
 
 
-1) papildomai skatinti palankių sąlygų socialinei ir ekonominei plėtrai neturinčios teritorijos vystymąsi, mažinant socialinius ar ekonominius skirtumus tarp regionų arba regiono vidinius socialinius ar ekonominius netolygumus;
+1) papildomai skatinti palankių socialinės ir ekonominės plėtros sąlygų neturinčios teritorijos vystymąsi, mažinant socialinius ar ekonominius skirtumus tarp regionų arba regiono vidinius socialinius ar ekonominius netolygumus;
 
 
 
@@ -87,9 +87,14 @@ BENDROSIOS NUOSTATOS
 
 
 3) padėti prisitaikyti prie iš esmės pasikeitusių ekonominės ar socialinės aplinkos sąlygų.
+
+
+
+
+
+
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos strateginio valdymo įstatyme ir Lietuvos Respublikos viešojo administravimo įstatyme.
  
-
-
 
 
 
@@ -145,7 +150,7 @@ NACIONALINĖS REGIONINĖS POLITIKOS TIKSLAS, UŽDAVINIAI, PLANAVIMAS IR ĮGYVEND
 
 
 
-2) kitose Vyriausybės tvirtinamose plėtros programose, kuriomis įgyvendinamos Lietuvos Respublikos teritorijos bendrajame plane nustatytos regioninio vystymo nuostatos;
+2) kitose Vyriausybės tvirtinamose plėtros programose, kuriomis prisidedama prie nacionalinės regioninės politikos tikslo siekimo ir uždavinių įgyvendinimo;
 
 
 
@@ -157,37 +162,42 @@ NACIONALINĖS REGIONINĖS POLITIKOS TIKSLAS, UŽDAVINIAI, PLANAVIMAS IR ĮGYVEND
 
 
 
-2. Regionų plėtros programa – 4–10 metų trukmės planavimo dokumentas, kuriame, siekiant įgyvendinti Valstybės pažangos strategiją ir jos pagrindu Vyriausybės patvirtintus planavimo dokumentus, taip pat Lietuvos Respublikos teritorijos bendrajame plane nustatytas teritorijos naudojimo privalomąsias nuostatas, nustatoma: 
+2. Regionų plėtros programa – 4–10 metų trukmės planavimo dokumentas, kuriame siekiant įgyvendinti Valstybės pažangos strategiją ir jos pagrindu Vyriausybės patvirtintus planavimo dokumentus ir atsižvelgiant į Lietuvos Respublikos teritorijos bendrajame plane nustatytas teritorijos naudojimo privalomąsias nuostatas:
 
 
-1) regionų socialinės, ekonominės ir demografinės būklės ir vystymosi tendencijų lyginamosios analizės pagrindiniai duomenys; 
-
-
-
-
-2) regionų plėtros uždaviniai ir jų įgyvendinimo stebėsenai skirti poveikio rodikliai (tai yra kiekybiškai ir kokybiškai išreikšti dydžiai, rodantys esamos būklės pokytį, kurio siekiama įgyvendinant regionų plėtros uždavinius) konkrečių regionų lygmeniu; 
+1) atskleidžiamos regioninės plėtros problemos ir regionų vystymosi tendencijos, pateikiami jų tarpusavio sąsajų ir teritorinės sklaidos analizės rezultatai;
 
 
 
 
-3) tikslinių teritorijų (jeigu tokias yra išskyrusi Vyriausybė ar jos įgaliota institucija) vystymo tikslai, uždaviniai ir jų įgyvendinimo stebėsenai skirti poveikio rodikliai (tai yra kiekybiškai ir kokybiškai išreikšti dydžiai, rodantys esamos būklės pokytį, kurio siekiama įgyvendinant tikslinės teritorijos vystymo tikslus ir uždavinius); 
+2) nurodomos Nacionaliniame pažangos plane nustatytų pažangos uždavinių įgyvendinimo kryptys, už kurias pagal įstatymuose nustatytą kompetenciją atsakingos regionų plėtros tarybos ir (ar) savivaldybės; 
 
 
 
 
-4) išankstinės sąlygos; 
+3) pateikiami esamos būklės pokytį sprendžiant regioninės plėtros problemas rodantys poveikio rodikliai pagal regionus;
 
 
 
 
-5) preliminarūs regionams skirti finansiniai ištekliai.
+4) nustatomi tikslinių teritorijų (jeigu jas yra išskyrusi Vyriausybė ar jos įgaliota institucija) vystymo tikslai, uždaviniai ir jų įgyvendinimo stebėsenai skirti poveikio rodikliai (tai yra kiekybiškai ir kokybiškai išreikšti dydžiai, rodantys esamos būklės pokytį, kurio siekiama įgyvendinant tikslinės teritorijos vystymo tikslus ir uždavinius); 
+
+
+
+
+5) nurodomos išankstinės sąlygos;
+
+
+
+
+6) nurodomas preliminarus pažangos lėšų kiekvienam regionui poreikis.
 
 
 
 
 
 
-3. Regionų plėtros programa rengiama ir tvirtinama vadovaujantis šiuo įstatymu ir Vyriausybės nustatyta tvarka. Regionų plėtros programos įgyvendinimo stebėsena, vertinimas ir atsiskaitymas už pasiektą pažangą atliekami Vyriausybės nustatyta tvarka.
+3. Regionų plėtros programa rengiama, tvirtinama, jos įgyvendinimo stebėsena, vertinimas ir atsiskaitymas už pasiektą pažangą vykdomi vadovaujantis šiuo įstatymu, Strateginio valdymo įstatymu ir Vyriausybės tvirtinama Strateginio valdymo metodika.
 
 
 
@@ -195,39 +205,29 @@ NACIONALINĖS REGIONINĖS POLITIKOS TIKSLAS, UŽDAVINIAI, PLANAVIMAS IR ĮGYVEND
 4. Regionų plėtros planai – 4–10 metų trukmės planavimo dokumentai, kuriuose atsižvelgiant į Lietuvos Respublikos teritorijos bendrajame plane nustatytas teritorijos naudojimo privalomąsias nuostatas:
 
 
-1) pateikiama išsami konkretaus regiono situacijos analizė; 
+1) nustatoma regiono plėtros plano teritorinė aprėptis, pateikiami išsamūs konkretaus regiono situacijos analizės rezultatai, atskleidžiamos problemos ir jų priežastys regione; 
 
 
 
 
-2) įvertinamas numatomas Vyriausybės patvirtintų planavimo dokumentų įgyvendinimo poveikis konkretaus regiono lygmeniu;
+2) nustatomi regiono plėtros tikslai ir jų poveikio rodikliai, regiono plėtros uždaviniai ir jų rezultato rodikliai;
 
 
 
 
-3) prireikus detalizuojamos konkrečiam regionui Regionų plėtros programoje nustatytos išankstinės sąlygos;
+3) nurodomi savivaldybių tarybų bendru sutarimu suformuotų funkcinių zonų vystymo veiksmai; 
 
 
 
 
-4) nurodomi regiono plėtros tikslai ir uždaviniai;
-
-
-
-
-5) suplanuojamos regiono plėtros tikslus ir uždavinius įgyvendinančios priemonės ir (ar) projektai, nurodomi preliminarūs kiekvienai priemonei ir (ar) projektui įgyvendinti reikalingi finansiniai ištekliai;
-
-
-
-
-6) nustatomi rezultato rodikliai, tai yra kiekybiškai arba kokybiškai išreikšti dydžiai, kuriais matuojami produktų, sukurtų įgyvendinant regiono plėtros plano priemones ar projektus, nauda tikslinei grupei, institucijai, regiono plėtrai ir pan., panaudojimo mastas ir (ar) kokybės pagerėjimas.
+4) suplanuojamos regiono plėtros tikslų ir uždavinių įgyvendinimo pažangos priemonės, nurodomas preliminarus pažangos lėšų poreikis kiekvienai pažangos priemonei įgyvendinti ir pažangos priemonių įgyvendinimo rezultato ir produkto rodikliai.
 
 
 
 
 
 
-5. Regionų plėtros planai rengiami, įgyvendinami, jų įgyvendinimo stebėsena, vertinimas, priežiūra ir atsiskaitymas už pasiektą pažangą atliekami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+5. Regionų plėtros planai rengiami, tvirtinami, įgyvendinami, jų įgyvendinimo stebėsena, vertinimas ir atsiskaitymas už pasiektą pažangą vyksta vadovaujantis šiuo įstatymu, Strateginio valdymo įstatymu ir Strateginio valdymo metodika.
  
 
 
@@ -238,17 +238,28 @@ NACIONALINĖS REGIONINĖS POLITIKOS TIKSLAS, UŽDAVINIAI, PLANAVIMAS IR ĮGYVEND
 5 straipsnis. Regionų plėtros planų įgyvendinimo finansavimas
 
 
-1. Regionų plėtros planų tikslų ir uždavinių įgyvendinimo priemonės ir projektai finansuojami iš valstybės biudžeto (įskaitant Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas) ir savivaldybių biudžetų lėšų ir gali būti finansuojami iš kitų šaltinių.
+1. Regionų plėtros planų pažangos priemonės ir projektai finansuojami iš valstybės biudžeto (įskaitant Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas) ir savivaldybių biudžetų lėšų ir gali būti finansuojami iš kitų šaltinių.
 
 
 
 
-2. Regionų plėtros programoje planuojant finansinius išteklius regionams, užtikrinama, kad regionų plėtros planams įgyvendinti būtų nustatoma Lietuvos Respublikai ekonominės, socialinės ir teritorinės sanglaudos tikslui skiriamų Sutarties dėl Europos Sąjungos veikimo 162, 176 ir 177 straipsniuose nurodytų Europos Sąjungos fondų (toliau – ES fondai) lėšų dalis. Regionų plėtros planams įgyvendinti nustatoma ES fondų lėšų dalis nuo Lietuvos Respublikai skiriamų ES fondų lėšų, išreikšta procentine išraiška, turi būti ne mažesnė kaip 85 procentai vidutinės paskutinių trejų finansinių metų vietos valdžios sektoriaus išlaidų bendrojo kapitalo formavimui dalies, palyginti su visu valdžios sektoriumi (toliau – minimali ES fondų lėšų dalis regionams). Minimali ES fondų lėšų dalis regionams apskaičiuojama pagal formulę:
-MINd = 0,85 x ((Ivvn + Ivvn-1 + Ivvn-2) / (Ivsn + Ivsn-1 + Ivsn-2)), kurioje:
-MINd – minimali ES fondų lėšų dalis regionams;
-Ivvn – vietinės valdžios išlaidos bendrojo kapitalo formavimui pagal Lietuvos statistikos departamento paskelbtą dydį n-aisiais metais;
-Ivsn – valdžios sektoriaus išlaidos bendrojo kapitalo formavimui pagal Lietuvos statistikos departamento paskelbtą dydį n-aisiais metais.
+2. Regionų plėtros programoje planuojant pažangos lėšas regionams, užtikrinama, kad regionų plėtros planams įgyvendinti būtų nustatoma Lietuvos Respublikai ekonominės, socialinės ir teritorinės sanglaudos tikslui skiriamų Sutarties dėl Europos Sąjungos veikimo 162, 176 ir 177 straipsniuose nurodytų Europos Sąjungos fondų (toliau – ES fondai) lėšų dalis. Regionų plėtros planams įgyvendinti nustatoma ES fondų lėšų dalis nuo Lietuvos Respublikai skiriamų ES fondų lėšų, išreikšta procentais, turi būti ne mažesnė kaip 85 procentai vidutinės paskutinių trejų finansinių metų vietos valdžios sektoriaus išlaidų bendrojo kapitalo formavimui dalies, palyginti su visu valdžios sektoriumi (toliau – minimali ES fondų lėšų dalis regionams). Minimali ES fondų lėšų dalis regionams apskaičiuojama pagal formulę: MINd = 0,85 x ((Ivvn + Ivvn-1 + Ivvn-2) / (Ivsn + Ivsn-1 + Ivsn-2)), čia:
+
+
+1) MINd – minimali ES fondų lėšų dalis regionams;
+
+
+
+
+2) Ivvn – vietinės valdžios išlaidos bendrojo kapitalo formavimui pagal Lietuvos statistikos departamento paskelbtą dydį n-aisiais metais;
+
+
+
+
+3) Ivsn – valdžios sektoriaus išlaidos bendrojo kapitalo formavimui pagal Lietuvos statistikos departamento paskelbtą dydį n-aisiais metais.
  
+
+
 
 
 
@@ -258,30 +269,30 @@ Ivsn – valdžios sektoriaus išlaidos bendrojo kapitalo formavimui pagal Lietu
 6 straipsnis. Nacionalinės regioninės politikos įgyvendinimo priemonės ir jų taikymas
 
 
-1. Nacionalinė regioninė politika įgyvendinama taikant šias priemones: 
+1. Nacionalinė regioninė politika įgyvendinama taikant šias priemones:
 
 
-1) teikiant valstybės pagalbą, skirtą papildomoms investicijoms ar ekonominei veiklai palankių sąlygų socialinei ir ekonominei plėtrai neturinčiose teritorijose skatinti;
-
-
-
-
-2) vykdant administracinį reglamentavimą ir (ar) nustatant viešųjų paslaugų teikimo tvarką, darančius įtaką atskirų regionų socialinei ir ekonominei plėtrai, siekiant mažinti socialinius ir ekonominius skirtumus tarp regionų ir pačiuose regionuose; 
+1) teikiant valstybės pagalbą, skirtą papildomoms investicijoms ar ekonominei veiklai palankių socialinės ir ekonominės plėtros sąlygų neturinčiose teritorijose skatinti;
 
 
 
 
-3) vykdant Vyriausybės patvirtintuose planavimo dokumentuose nustatytas priemones, kuriomis įgyvendinamos Lietuvos Respublikos teritorijos bendrajame plane nustatytos regioninio vystymo nuostatos;
+2) vykdant administracinį reglamentavimą ir (ar) nustatant viešųjų paslaugų teikimo tvarką, darančius įtaką atskirų regionų socialinei ir ekonominei plėtrai, siekiant mažinti socialinius ir ekonominius skirtumus tarp regionų ir pačiuose regionuose;
 
 
 
 
-4) skatinant investicijas ir bendradarbiavimą, skirtus regionų, esančių prie Lietuvos ir kaimyninės valstybės bendros sausumos ar jūros sienos, nustatytoms bendroms problemoms spręsti;
+3) įgyvendinant Vyriausybės patvirtintas pažangos ir kitas priemones;
 
 
 
 
-5) vykdant regionų plėtros planų priemonėms įgyvendinti atrinktus projektus;
+4) skatinant investicijas ir bendradarbiavimą, skirtus prie Lietuvos ir kaimyninės valstybės bendros sausumos ar jūros sienos esančių regionų bendroms problemoms spręsti;
+
+
+
+
+5) vykdant regionų plėtros planų pažangos priemonėms įgyvendinti atrinktus projektus;
 
 
 
@@ -291,24 +302,29 @@ Ivsn – valdžios sektoriaus išlaidos bendrojo kapitalo formavimui pagal Lietu
 
 
 
-7) taikant finansavimo priemones labiau išsivysčiusio regiono vidiniams socialiniams ir ekonominiams netolygumams mažinti;
+7) skatinant funkcinių zonų formavimą viešosios infrastruktūros ir (ar) viešųjų paslaugų tinklo efektyvumui didinti;
 
 
 
 
-8) teikiant tyrimų, analizės, prognozavimo, konsultavimo paslaugas ir metodinę, techninę pagalbą regionų plėtros taryboms ir valstybės ir savivaldybių institucijoms ir įstaigoms, vykdančioms šios dalies 1–6 punktuose nurodytas priemones. 
+8) skiriant finansavimą, skirtą labiau išsivysčiusio regiono vidiniams socialiniams ir ekonominiams netolygumams mažinti;
+
+
+
+
+9) stiprinant regionų plėtros tarybų ir savivaldybių kompetenciją, reikalingą atliekant šiame įstatyme joms nustatytas funkcijas. 
 
 
 
 
 
 
-2. Savivaldybėse, kurios nėra apskrities savivaldybių įsteigtos regiono plėtros tarybos dalyvės, šio straipsnio 1 dalyje nurodytos nacionalinės regioninės politikos įgyvendinimo priemonės gali būti taikomos tik tuo atveju, jeigu tam pritaria tos apskrities regiono plėtros taryba.
+2. Savivaldybėse, kurios nėra apskrities savivaldybių įsteigtos regiono plėtros tarybos dalyvės, šio straipsnio 1 dalies 5 ir 6 punktuose nurodytos nacionalinės regioninės politikos įgyvendinimo priemonės gali būti taikomos tik tuo atveju, kai tam pritaria tos apskrities regiono plėtros taryba.
 
 
 
 
-3. Regiono plėtros tarybai svarstant klausimus dėl regioninės politikos planavimo, jos įgyvendinimo, lėšų panaudojimo, gali dalyvauti savivaldybės, nesančios regiono plėtros taryboje, jeigu tam pritaria regiono plėtros taryba.
+3. Regiono plėtros tarybai svarstant klausimus dėl regiono plėtros planavimo, regiono plėtros plano įgyvendinimo, pažangos lėšų panaudojimo, gali dalyvauti savivaldybės, kurios nėra regiono plėtros tarybos dalyvės, jeigu tam pritaria regiono plėtros taryba.
  
 
 
@@ -319,7 +335,7 @@ Ivsn – valdžios sektoriaus išlaidos bendrojo kapitalo formavimui pagal Lietu
 7 straipsnis. Regioninės svarbos projektai
 
 
-1. Projektą regioninės svarbos projektu, tai yra projektu, kurio įgyvendinimas turės esminę teigiamą įtaką regiono ekonominei, socialinei, demografinei ar aplinkos būklei ir (ar) atskiros ūkio šakos (sektoriaus) būklei, pripažįsta regiono plėtros taryba, vadovaudamasi Vyriausybės nustatytais projekto poveikio nacionalinės regioninės politikos tikslui ir uždaviniams įgyvendinti vertinimo kriterijais. 
+1. Projektą regioninės svarbos projektu, tai yra projektu, kurio įgyvendinimas turės esminės teigiamos įtakos regiono ekonominei, socialinei, demografinei ar aplinkos būklei ir (ar) atskiros ūkio šakos (sektoriaus) būklei, pripažįsta regiono plėtros taryba, vadovaudamasi Vyriausybės nustatytais projekto poveikio nacionalinės regioninės politikos tikslui ir uždaviniams įgyvendinti vertinimo kriterijais. 
 
 
 
@@ -329,12 +345,17 @@ Ivsn – valdžios sektoriaus išlaidos bendrojo kapitalo formavimui pagal Lietu
 
 
 
-3. Regiono plėtros taryba pripažįsta netekusiu galios regiono plėtros tarybos sprendimą, kuriuo projektas pripažintas regioninės svarbos projektu, jeigu regioninės svarbos projektas nebeatitinka kriterijų, kuriais remiantis regiono projektas pripažintas regioninės svarbos projektu. 
+3. Regiono plėtros taryba pripažįsta netekusiu galios regiono plėtros tarybos sprendimą, kuriuo projektas pripažintas regioninės svarbos projektu, jeigu paaiškėja, kad regioninės svarbos projektas neatitinka kriterijų, kuriais remiantis projektas pripažintas regioninės svarbos projektu, taip pat jeigu projekto vykdytojas atsisako įgyvendinti regioninės svarbos projektą arba jeigu yra Viešojo administravimo įstatyme nustatyti administracinio sprendimo pripažinimo netekusiu galios pagrindai. 
 
 
 
 
-4. Projekto pripažinimo regioninės svarbos projektu, regioninės svarbos projekto įgyvendinimo priežiūros ir regiono plėtros tarybos sprendimo, kuriuo projektas pripažintas regioninės svarbos projektu, pripažinimo netekusiu galios priėmimo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+4. Regiono plėtros taryba gali pakeisti regiono plėtros tarybos sprendimą, kuriuo projektas pripažintas regioninės svarbos projektu, jeigu nustatoma, kad pasikeitė aplinkybės, lėmusios to sprendimo priėmimą. Regiono plėtros tarybos sprendimas negali būti keičiamas, jeigu yra šio straipsnio 3 dalyje nustatytos aplinkybės, dėl kurių regiono plėtros tarybos sprendimas turi būti pripažintas netekusiu galios. 
+
+
+
+
+5. Projekto pripažinimo regioninės svarbos projektu, regioninės svarbos projekto įgyvendinimo priežiūros ir regiono plėtros tarybos sprendimo, kuriuo projektas pripažintas regioninės svarbos projektu, pakeitimo ar pripažinimo netekusiu galios priėmimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
  
 
 
@@ -386,7 +407,7 @@ NACIONALINĘ REGIONINĘ POLITIKĄ FORMUOJANTYS IR ĮGYVENDINANTYS SUBJEKTAI IR J
 Vyriausybė:
 
 
-1) tvirtina Regionų plėtros programą ir kitas plėtros programas, kuriomis įgyvendinamos Lietuvos Respublikos teritorijos bendrajame plane nustatytos regioninio vystymo nuostatos; 
+1) tvirtina Regionų plėtros programą ir kitas plėtros programas, kuriomis prisidedama prie nacionalinės regioninės politikos tikslo siekimo ir uždavinių įgyvendinimo;
 
 
 
@@ -396,17 +417,17 @@ Vyriausybė:
 
 
 
-3) tvirtina arba suteikia įgaliojimus tvirtinti tikslinių teritorijų išskyrimo kriterijus ir išskiria arba suteikia įgaliojimus išskirti tikslines teritorijas pagal patvirtintus tikslinių teritorijų išskyrimo kriterijus;
+3) tvirtina arba suteikia įgaliojimus tvirtinti tikslinių teritorijų išskyrimo kriterijus ir pagal patvirtintus tikslinių teritorijų išskyrimo kriterijus išskiria arba suteikia įgaliojimus išskirti tikslines teritorijas;
 
 
 
 
-4) priima sprendimus dėl finansavimo priemonių taikymo labiau išsivysčiusių regionų vidiniams socialiniams ir ekonominiams netolygumams mažinti;
+4) priima sprendimus dėl finansavimo, skirto labiau išsivysčiusių regionų vidiniams socialiniams ir ekonominiams netolygumams mažinti;
 
 
 
 
-5) tvirtina įstaigų, kurių savininkė ar dalininkė yra valstybė, teikiančių ministerijoms ir regionų plėtros taryboms tyrimų, analizės, prognozavimo ir konsultavimo paslaugas, sąrašą (toliau – ekspertinių valstybės įstaigų sąrašas);
+5) siekdama darnios socialinės, ekonominės ir teritorinės plėtros, koordinuoja skirtingų valstybės veiklos sričių politikos priemonių įgyvendinimą;
 
 
 
@@ -427,7 +448,7 @@ Vyriausybė:
 1. Lietuvos Respublikos vidaus reikalų ministerija, formuodama nacionalinę regioninę politiką, organizuodama, koordinuodama ir kontroliuodama nacionalinės regioninės politikos įgyvendinimą:
 
 
-1) rengia Regionų plėtros programą, koordinuoja ir kontroliuoja jos įgyvendinimą;
+1) rengia Regionų plėtros programą, organizuoja ir kontroliuoja jos įgyvendinimą;
 
 
 
@@ -442,12 +463,12 @@ Vyriausybė:
 
 
 
-4) vertina regionų plėtros planų ir jų pakeitimo projektus, ar jie atitinka nacionalinės regioninės politikos tikslą ir uždavinius, ir teikia išvadas ir pasiūlymus dėl jų regionų plėtros taryboms; 
+4) vertina, ar regionų plėtros planų ir jų pakeitimo projektai atitinka nacionalinės regioninės politikos tikslą ir uždavinius, ir teikia regionų plėtros taryboms išvadas ir pasiūlymus dėl regionų plėtros planų ir jų pakeitimo projektų; 
 
 
 
 
-5) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka stebi regionų plėtros planų rezultatų rodiklių, išankstinių sąlygų įgyvendinimo pažangą ir teikia pasiūlymus regionų plėtros taryboms dėl regionų plėtros planų tikslinimo, kad būtų pasiekti poveikio ir rezultato rodikliai konkrečiame regione ir įgyvendintos išankstinės sąlygos;
+5) vadovaudamasi Strateginio valdymo metodika, stebi regionų plėtros planuose nustatytų poveikio ir rezultato rodiklių, išankstinių sąlygų įgyvendinimo pažangą ir teikia regionų plėtros taryboms pasiūlymus dėl regionų plėtros planų tikslinimo;
 
 
 
@@ -467,22 +488,23 @@ Vyriausybė:
 
 
 
-9) teikia metodinę ir techninę pagalbą valstybės institucijoms ir įstaigoms regioninės plėtros skatinimo priemonių rengimo ir įgyvendinimo klausimais;
+9) teikia valstybės institucijoms ir įstaigoms metodinę ir techninę pagalbą regioninės plėtros skatinimo priemonių rengimo ir įgyvendinimo klausimais;
 
 
 
 
-10) teikia pasiūlymus Vyriausybei dėl įstaigų, kurių savininkė ar dalininkė yra valstybė, įtraukimo į ekspertinių valstybės įstaigų sąrašą; 
+10) organizuoja Nacionalinės regioninės plėtros tarybos posėdžius;
 
 
 
 
-11) organizuoja Nacionalinės regioninės plėtros tarybos posėdžius;
+11) apibendrina ir teikia regiono plėtros tarybai svarstyti valstybės ir savivaldybių institucijų ir įstaigų pasiūlymus dėl projektų įtraukimo į regiono plėtros tarybos Lietuvos Respublikos vidaus reikalų ministro nustatyta tvarka sudaromus ir tvirtinamus siūlomų finansuoti projektų sąrašus;
+TAR pastaba. 10 straipsnio 1 dalies 11 punktas įsigalioja 2022 m. liepos 1 d. ir galioja iki 2023 m. gruodžio 31 d.
 
 
 
 
-12) atlieka kitas šiame ir kituose įstatymuose, Lietuvos Respublikos Seimo nutarimuose ir Vyriausybės nutarimuose nustatytas funkcijas, susijusias su nacionalinės regioninės politikos formavimu, įgyvendinimo organizavimu, koordinavimu ir kontrole.
+12) atlieka kitas šiame ir kituose įstatymuose, Lietuvos Respublikos Seimo ir Vyriausybės nutarimuose nustatytas funkcijas, susijusias su nacionalinės regioninės politikos formavimu, įgyvendinimo organizavimu, koordinavimu ir kontrole.
 
 
 
@@ -492,17 +514,22 @@ Vyriausybė:
 2. Kitos ministerijos, dalyvaudamos formuojant nacionalinę regioninę politiką: 
 
 
-1) pagal kompetenciją teikia Vidaus reikalų ministerijai pasiūlymus ir išvadas dėl Regionų plėtros programos;
+1) pagal kompetenciją teikia Vidaus reikalų ministerijai ir regionų plėtros taryboms pasiūlymus dėl Vyriausybės tvirtinamų programavimo lygmens dokumentų nuostatų įtraukimo į Regionų plėtros programą ir regionų plėtros planus;
 
 
 
 
-2) pagal kompetenciją konsultuoja regionų plėtros tarybas dėl regionų plėtros planuose planuojamų regiono plėtrai aktualių priemonių nustatymo;
+2) pagal kompetenciją teikia Vidaus reikalų ministerijai pasiūlymus ir išvadas dėl Regionų plėtros programos;
 
 
 
 
-3) pagal kompetenciją vertina, ar regionų plėtros planų ir jų pakeitimo projektai dera su Vyriausybės patvirtintų planavimo dokumentų tikslais ir uždaviniais.
+3) pagal kompetenciją konsultuoja regionų plėtros tarybas dėl regionų plėtros planuose planuojamų regiono plėtrai aktualių priemonių nustatymo;
+
+
+
+
+4) pagal kompetenciją vertina, ar regionų plėtros planų ir jų pakeitimo projektai dera su Vyriausybės patvirtintų planavimo dokumentų tikslais ir uždaviniais.
  
 
 
@@ -515,12 +542,12 @@ Vyriausybė:
 11 straipsnis. Nacionalinė regioninės plėtros taryba ir jos įgaliojimai 
 
 
-1. Nacionalinė regioninės plėtros taryba yra kolegiali Vyriausybės ir Vidaus reikalų ministerijos patariamoji institucija nacionalinės regioninės politikos formavimo ir įgyvendinimo klausimais. Į Nacionalinę regioninės plėtros tarybą įtraukiami ministerijų ir kitų valstybės institucijų ir įstaigų atstovai, regionų plėtros tarybų kolegijų pirmininkai ir Lietuvos savivaldybių asociacijos atstovas. Po vieną atstovą į Nacionalinę regioninės plėtros tarybą turi teisę deleguoti Lietuvos Respublikos darbo kodekso nustatyta tvarka į Lietuvos Respublikos trišalę tarybą atrinktos darbdavių ir profesinių sąjungų organizacijos ir po vieną nevyriausybinių organizacijų atstovą – Nevyriausybinių organizacijų taryba ir Nacionalinė bendruomeninių organizacijų taryba. 
+1. Nacionalinė regioninės plėtros taryba yra kolegiali Vyriausybės ir Vidaus reikalų ministerijos patariamoji institucija nacionalinės regioninės politikos formavimo ir įgyvendinimo klausimais. Į Nacionalinę regioninės plėtros tarybą įtraukiami ministerijų ir kitų valstybės institucijų ir įstaigų atstovai, regionų plėtros tarybų kolegijų pirmininkai ir Lietuvos savivaldybių asociacijos atstovas. Deleguoti po vieną atstovą į Nacionalinę regioninės plėtros tarybą turi teisę Lietuvos Respublikos darbo kodekso nustatyta tvarka į Lietuvos Respublikos trišalę tarybą atrinktos darbdavių ir profesinių sąjungų organizacijos ir deleguoti po vieną nevyriausybinių organizacijų atstovą – Nevyriausybinių organizacijų taryba ir Nacionalinė bendruomeninių organizacijų taryba. 
 
 
 
 
-2. Nacionalinės regioninės plėtros tarybos institucinę sudėtį ir pirmininką tvirtina Vyriausybė, o personalinę sudėtį ir darbo reglamentą – vidaus reikalų ministras. Nacionalinės regioninės plėtros tarybos pirmininku skiriamas vienas iš regionų plėtros tarybų kolegijų pirmininkų.
+2. Nacionalinės regioninės plėtros tarybos institucinę sudėtį tvirtina Vyriausybė, o personalinę sudėtį ir darbo reglamentą – vidaus reikalų ministras. Nacionalinės regioninės plėtros tarybos pirmininką iš regionų plėtros tarybų kolegijų pirmininkų renka Nacionalinė regioninės plėtros taryba Nacionalinės regioninės plėtros tarybos darbo reglamente nustatyta tvarka.
 
 
 
@@ -538,7 +565,7 @@ Vyriausybė:
 
 
 
-3) svarsto šios dalies 1 punkte nurodytų planavimo dokumentų įgyvendinimo pažangą, prireikus teikia pasiūlymus Vyriausybei ir Vidaus reikalų ministerijai dėl šių dokumentų tobulinimo;
+3) svarsto šios dalies 1 punkte nurodytų planavimo dokumentų įgyvendinimo pažangą, prireikus teikia Vyriausybei ir Vidaus reikalų ministerijai pasiūlymus dėl šių dokumentų tobulinimo;
 
 
 
@@ -564,7 +591,7 @@ Vyriausybė:
 1. Regiono plėtros tarybos veiklos tikslai:
 
 
-1) planuoti ir koordinuoti nacionalinės regioninės politikos įgyvendinimą konkrečiame regione ir bendrai su kitomis regionų plėtros tarybomis, savivaldybių institucijomis ir įstaigomis įgyvendinamas regioninės plėtros skatinimo priemones;
+1) planuoti ir koordinuoti nacionalinės regioninės politikos įgyvendinimą konkrečiame regione ir kartu su kitomis regionų plėtros tarybomis, savivaldybių institucijomis ir įstaigomis įgyvendinamas regioninės plėtros skatinimo priemones;
 
 
 
@@ -574,7 +601,7 @@ Vyriausybė:
 
 
 
-3) skatinti savivaldybių bendradarbiavimą, siekiant padidinti funkcinių zonų vystymo ir viešųjų paslaugų teikimo organizavimo efektyvumą;
+3) skatinti savivaldybių bendradarbiavimą siekiant padidinti funkcinių zonų vystymo ir viešųjų paslaugų teikimo organizavimo efektyvumą;
 
 
 
@@ -586,7 +613,7 @@ Vyriausybė:
 
 
 
-2. Regiono plėtros taryba veikia regiono gyventojų interesais pagal šiuo ir kitais įstatymais, Vyriausybės nutarimais ir savivaldybių tarybų sprendimais jai suteiktą kompetenciją.
+2. Regiono plėtros taryba veikia regiono gyventojų interesais pagal šiame ir kituose įstatymuose, Vyriausybės nutarimuose ir savivaldybių tarybų sprendimuose jai nustatytą kompetenciją.
 
 
 
@@ -599,37 +626,37 @@ Vyriausybė:
 
 
 
-2) svarsto ir teikia pasiūlymus Vidaus reikalų ministerijai ir kitoms Vyriausybės tvirtinamus planavimo dokumentus rengiančioms valstybės institucijoms, įstaigoms dėl Regionų plėtros programos ir kitų Vyriausybės tvirtinamų planavimo dokumentų, kurių įgyvendinimas gali turėti poveikį regiono plėtrai, projektų; 
+2) teikia Vidaus reikalų ministerijai ir kitoms Vyriausybės tvirtinamus planavimo dokumentus rengiančioms valstybės institucijoms, įstaigoms pasiūlymus dėl Regionų plėtros programos ir kitų Vyriausybės tvirtinamų planavimo dokumentų, kurių įgyvendinimas gali turėti poveikį regiono plėtrai, projektų;
 
 
 
 
-3) teikia pasiūlymus savivaldybių taryboms dėl savivaldybių strateginių plėtros planų;
+3) teikia Vidaus reikalų ministerijai pasiūlymus dėl spręstinų regioninės plėtros problemų ir poveikio rodiklių;
 
 
 
 
-4) koordinuoja Regionų plėtros programoje regionui nustatytų išankstinių sąlygų įgyvendinimą arba pagal kompetenciją jas įgyvendina; 
+4) teikia savivaldybių taryboms pasiūlymus dėl savivaldybių strateginių plėtros planų;
 
 
 
 
-5) suderinusi su kitomis regionų plėtros tarybomis arba šios regiono plėtros tarybos dalyvėmis nesančių savivaldybių tarybomis nustato bendrų su kitais regionais ir (ar) savivaldybėmis funkcinių zonų vystymo tikslus, uždavinius ir koordinuoja jų įgyvendinimą;
+5) koordinuoja Regionų plėtros programoje regionui nustatytų išankstinių sąlygų įgyvendinimą arba pagal kompetenciją jas įgyvendina;
 
 
 
 
-6) teikia pasiūlymus Vidaus reikalų ministerijai ir kitoms ministerijoms dėl teisės aktų, kurių įgyvendinimas gali turėti poveikį regiono plėtrai, projektų;
+6) teikia Vidaus reikalų ministerijai ir kitoms ministerijoms pasiūlymus dėl teisės aktų, kurių įgyvendinimas gali turėti poveikį regiono plėtrai, projektų;
 
 
 
 
-7) pripažįsta projektus regioninės svarbos projektais, atlieka šių projektų įgyvendinimo priežiūrą ir sprendžia dėl regiono plėtros tarybos sprendimų, kuriais projektai pripažinti regioninės svarbos projektais, pripažinimo netekusiais galios;
+7) pripažįsta projektus regioninės svarbos projektais, atlieka šių projektų įgyvendinimo priežiūrą ir sprendžia dėl regiono plėtros tarybos sprendimų, kuriais projektai pripažinti regioninės svarbos projektais, pakeitimo ar pripažinimo netekusiais galios;
 
 
 
 
-8) pagal kompetenciją dalyvauja rengiant programas, skirtas regionų, esančių prie Lietuvos ir kaimyninės valstybės bendros sausumos ar jūros sienos, problemoms spręsti, ir atliekant jų įgyvendinimo stebėseną; 
+8) pagal kompetenciją dalyvauja rengiant programas, skirtas prie Lietuvos ir kaimyninės valstybės bendros sausumos ar jūros sienos esančių regionų bendroms problemoms spręsti, ir atliekant šių programų įgyvendinimo stebėseną;
 
 
 
@@ -645,14 +672,9 @@ Vyriausybė:
 
 
 11) atlieka kitas šiame ir kituose įstatymuose, Vyriausybės nutarimuose nustatytas regiono plėtros tarybos funkcijas.
-
-
-
-
-
-
-4. Regiono plėtros taryba gali atlikti ir kitas regiono plėtros tarybos nuostatuose nustatytas funkcijas, kurios neatsiejamai susijusios su šio straipsnio 1 dalyje nurodytais regiono plėtros tarybos veiklos tikslais.
  
+
+
 
 
 
@@ -665,7 +687,7 @@ Vyriausybė:
 1. Savivaldybių tarybos:
 
 
-1) teikia pasiūlymus regiono plėtros tarybai dėl savivaldybėje numatomų įgyvendinti projektų pripažinimo regioninės svarbos projektais; 
+1) teikia regiono plėtros tarybai pasiūlymus dėl savivaldybėje numatomų įgyvendinti projektų pripažinimo regioninės svarbos projektais; 
 
 
 
@@ -675,7 +697,12 @@ Vyriausybė:
 
 
 
-3) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
+3) teikia regiono plėtros tarybai pasiūlymus dėl funkcinių zonų vystymo veiksmų įtraukimo į regiono plėtros planą;
+
+
+
+
+4) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
 
 
 
@@ -685,7 +712,7 @@ Vyriausybė:
 2. Savivaldybių vykdomosios institucijos:
 
 
-1) vadovaudamosi savivaldybių tarybų patvirtintais planavimo dokumentais ir (ar) kitais savivaldybių tarybų priimtais sprendimais, teikia pasiūlymus regiono plėtros tarybai dėl regiono plėtros plano ir jo pakeitimų;
+1) vadovaudamosi savivaldybių tarybų patvirtintais planavimo dokumentais ir (ar) kitais savivaldybių tarybų priimtais sprendimais, teikia pasiūlymus regiono plėtros tarybai dėl regiono plėtros plano ir jo pakeitimo;
 
 
 
@@ -710,30 +737,30 @@ Vyriausybė:
 
 
 
-14 straipsnis. Kompetencijų centras
+14 straipsnis. Kompetencijų tinklas
 
 
-1. Kompetencijų centrą sudaro į Vyriausybės patvirtintą ekspertinių valstybės įstaigų sąrašą įtrauktos įstaigos ir Vidaus reikalų ministerijos Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka atrinkti šias paslaugas teiksiantys ekspertai (toliau – išorės ekspertai). Vidaus reikalų ministerija viešai skelbia šių įstaigų ir išorės ekspertų sąrašą. 
-
-
-
-
-2. Kompetencijų centras ministerijoms ir regionų plėtros taryboms teikia tyrimų, analizės, prognozavimo ir konsultavimo paslaugas, reikalingas rengiant ar įgyvendinant Regionų plėtros programą ir regionų plėtros planus, sprendimus dėl savivaldybių viešųjų paslaugų teikimo administravimo įgaliojimų perdavimo regiono plėtros tarybai.
+1. Kompetencijų tinklo tikslas – padėti regionų plėtros taryboms ir savivaldybėms įgyvendinti šiame įstatyme nustatytas jų funkcijas. 
 
 
 
 
-3. Kompetencijų centro paslaugos teikiamos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+2. Kompetencijų tinklo dalyviai:
+
+
+1) įstaigos, kurių savininkė ar dalininkė yra valstybė ir kurios atlieka tyrimus, teikia metodinę pagalbą, konsultuoja, atlieka kitas formuojant ir įgyvendinant nacionalinę regioninę politiką aktualias funkcijas; 
 
 
 
 
-4. Kompetencijų centro paslaugų teikimo rezultatai (tyrimai, analizės, prognozės ir teikiant konsultavimo paslaugas parengtos rekomendacijos) ir šių paslaugų teikimo metu surinkti ar parengti dokumentai, išskyrus dokumentus ar jų dalis, kurių viešą skelbimą ir (ar) pakartotinį naudojimą riboja teisės aktai, skelbiami viešai, sudarant galimybę pakartotinai naudoti šiuos dokumentus komerciniais arba nekomerciniais tikslais. 
+2) ekspertai ir (ar) jų grupės, Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka atrinkti Vidaus reikalų ministerijos ar jos įgaliotos institucijos.
 
 
 
 
-5. Kompetencijų centro paslaugų teikimą koordinuoja ir teikiamų paslaugų kokybę prižiūri Vyriausybės įgaliota institucija.
+
+
+3. Vidaus reikalų ministerija viešai skelbia informaciją apie kompetencijų tinklo dalyvius ir veiklą, koordinuoja kompetencijų tinklo dalyvių ir regionų plėtros tarybų, savivaldybių bendradarbiavimą.
  
 
 
@@ -753,7 +780,7 @@ Vyriausybės įgaliota įstaiga prie Vidaus reikalų ministerijos:
 
 
 2) atlieka kitas teisės aktuose nustatytas funkcijas.
-TAR pastaba. 15 straipsnis įsigalioja 2021 m. kovo 1 d. ir galioja iki 2023 m. gruodžio 31 d.
+TAR pastaba. 15 straipsnis galioja iki 2022 m. birželio 30 d.
  
 
 
@@ -788,10 +815,10 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-4. Regiono plėtros tarybai neleidžiama:
+4. Regiono plėtros tarybai draudžiama:
 
 
-1) neatlygintinai perduoti regiono plėtros tarybos turtą nuosavybėn pagal patikėjimo ar panaudos sutartį regiono plėtros tarybos dalyviui ar juridiniam asmeniui, kurio savininku ar dalyviu yra regiono plėtros tarybos dalyvis (išskyrus šio įstatymo 30 straipsnio 7 dalyje nustatytą atvejį);
+1) neatlygintinai perduoti regiono plėtros tarybos turtą nuosavybėn pagal patikėjimo ar panaudos sutartį regiono plėtros tarybos dalyviui ar juridiniam asmeniui, kurio savininkas ar dalyvis yra regiono plėtros tarybos dalyvis (išskyrus šio įstatymo 30 straipsnio 7 dalyje nustatytą atvejį);
 
 
 
@@ -806,12 +833,12 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-4) suteikti paskolas;
+4) teikti paskolas;
 
 
 
 
-5) steigti juridinį asmenį, kurio civilinė atsakomybė už juridinio asmens prievoles yra neribota, arba būti jo dalyviu.
+5) steigti juridinius asmenis, kurių civilinė atsakomybė už jų prievoles yra neribota, arba būti tokių juridinių asmenų dalyviu.
 
 
 
@@ -887,7 +914,7 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-9) steigiamojo susirinkimo sušaukimo ir jo sprendimų priėmimo tvarka;
+9) steigiamojo susirinkimo šaukimo ir jo sprendimų priėmimo tvarka;
 
 
 
@@ -909,7 +936,7 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-7. Iki regiono plėtros tarybos įregistravimo Juridinių asmenų registre regiono plėtros tarybos steigėjai, atsižvelgdami į vidaus reikalų ministro patvirtintus pavyzdinius regiono plėtros tarybos nuostatus, parengia regiono plėtros tarybos nuostatų projektą, sušaukia steigiamąjį susirinkimą, kuriame patvirtina regiono plėtros tarybos nuostatus, regiono plėtros tarybos kolegijos (toliau – Kolegija) personalinę sudėtį ir darbo reglamentą, o Kolegija paskiria regiono plėtros tarybos administracijos direktorių. Regiono plėtros tarybos steigiamajame susirinkime turi teisę balsuoti visi regiono plėtros tarybos steigėjai. Vienas steigėjas steigiamajame susirinkime turi vieną balsą. Steigiamos regiono plėtros tarybos vardu veikia steigimo sutartyje nurodytas arba steigiamojo susirinkimo įgaliotas asmuo. 
+7. Iki regiono plėtros tarybos įregistravimo Juridinių asmenų registre regiono plėtros tarybos steigėjai, atsižvelgdami į vidaus reikalų ministro patvirtintus pavyzdinius regiono plėtros tarybos nuostatus, parengia regiono plėtros tarybos nuostatų projektą, sušaukia steigiamąjį susirinkimą, jame patvirtina regiono plėtros tarybos nuostatus, regiono plėtros tarybos kolegijos (toliau – kolegija) personalinę sudėtį ir kolegijos darbo reglamentą, o kolegija paskiria regiono plėtros tarybos administracijos direktorių. Regiono plėtros tarybos steigiamajame susirinkime turi teisę balsuoti visi regiono plėtros tarybos steigėjai. Vienas steigėjas steigiamajame susirinkime turi vieną balsą. Steigiamos regiono plėtros tarybos vardu veikia steigimo sutartyje nurodytas arba steigiamojo susirinkimo įgaliotas asmuo. 
 
 
 
@@ -948,7 +975,7 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-5) dalyvių stojamųjų įnašų ir dalyvių mokesčių mokėjimo tvarka, jeigu nuostatuose nenurodyta, kad ji bus patvirtinta atskiru dokumentu;
+5) regiono plėtros tarybos dalyvių stojamųjų įnašų ir dalyvių mokesčių mokėjimo tvarka, jeigu nuostatuose nenurodyta, kad ji bus nustatyta atskiru dokumentu;
 
 
 
@@ -958,7 +985,7 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-7) Kolegijos kompetencija ir jos sudarymo tvarka; 
+7) kolegijos kompetencija ir jos sudarymo tvarka; 
 
 
 
@@ -978,7 +1005,7 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-11) informacijos apie regiono plėtros tarybos veiklą pateikimo visuomenei tvarka;
+11) informacijos apie regiono plėtros tarybos veiklą teikimo visuomenei tvarka;
 
 
 
@@ -1000,7 +1027,7 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-3. Regiono plėtros tarybos visuotinio dalyvių susirinkimo, Kolegijos ir regiono plėtros tarybos administracijos direktoriaus kompetencijos, Kolegijos sudarymo ir administracijos direktoriaus skyrimo tvarkos nurodyti nereikia, jeigu ji nesiskiria nuo šiame įstatyme nustatytųjų ir apie tai nurodoma regiono plėtros tarybos nuostatuose.
+3. Regiono plėtros tarybos visuotinio dalyvių susirinkimo, kolegijos ir regiono plėtros tarybos administracijos direktoriaus kompetencijos, kolegijos sudarymo ir regiono plėtros tarybos administracijos direktoriaus skyrimo tvarkos nurodyti nereikia, jeigu tai nesiskiria nuo šiame įstatyme nustatytųjų ir apie tai nurodoma regiono plėtros tarybos nuostatuose.
 
 
 
@@ -1021,12 +1048,12 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 19 straipsnis. Regiono plėtros tarybos dalyviai
 
 
-1. Visi regiono plėtros tarybos steigėjai nuo regiono plėtros tarybos įregistravimo Juridinių asmenų registre tampa jos dalyviais ir įgyja šiame ir kituose įstatymuose, regiono plėtros tarybos nuostatuose nustatytas dalyvio teises. 
+1. Visi regiono plėtros tarybos steigėjai nuo regiono plėtros tarybos įregistravimo Juridinių asmenų registre tampa regiono plėtros tarybos dalyviais ir įgyja šiame ir kituose įstatymuose, regiono plėtros tarybos nuostatuose nustatytas dalyvio teises. 
 
 
 
 
-2. Regiono plėtros tarybos dalyvis turi šias neturtines teises:
+2. Regiono plėtros tarybos dalyviai turi šias neturtines teises:
 
 
 1) dalyvauti ir balsuoti regiono plėtros tarybos visuotiniame dalyvių susirinkime;
@@ -1039,7 +1066,7 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 
 
 
-3) išstoti iš regiono plėtros tarybos. Tokiu atveju stojamieji dalyvio įnašai ir dalyvio mokesčiai ar kitaip regiono plėtros tarybos nuosavybėn perduotos lėšos ir turtas negrąžinami;
+3) išstoti iš regiono plėtros tarybos. Šiuo atveju dalyvio stojamasis įnašas ir dalyvio mokesčiai ar kitaip regiono plėtros tarybos nuosavybėn perduotos lėšos ir turtas negrąžinami;
 
 
 
@@ -1062,7 +1089,7 @@ REGIONO PLĖTROS TARYBOS STATUSAS, STEIGIMAS, VALDYMAS, VEIKLA, FINANSAVIMAS, PA
 20 straipsnis. Regiono plėtros tarybos organai
 
 
-Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo organai – Kolegija ir regiono plėtros tarybos administracijos direktorius.
+Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas, valdymo organai – kolegija ir regiono plėtros tarybos administracijos direktorius.
  
 
 
@@ -1081,12 +1108,12 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-2) laikydamasis šio įstatymo 22 straipsnio 1, 2 ir 3 dalyse nustatytų reikalavimų, priima sprendimą dėl Kolegijos narių skaičiaus ir sudėties;
+2) laikydamasis šio įstatymo 22 straipsnio 1, 2 ir 3 dalyse nustatytų reikalavimų, priima sprendimą dėl kolegijos narių skaičiaus ir sudėties;
 
 
 
 
-3) tvirtina Kolegijos personalinę sudėtį ir Kolegijos darbo reglamentą;
+3) tvirtina kolegijos personalinę sudėtį ir kolegijos darbo reglamentą;
 
 
 
@@ -1116,7 +1143,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-9) priima sprendimą dėl regiono plėtros tarybos dalyvių stojamųjų įnašų ir dalyvių mokesčių dydžio, mokėjimo tvarkos, kai tokia tvarka nėra nustatyta regiono plėtros tarybos nuostatuose;
+9) priima sprendimus dėl regiono plėtros tarybos dalyvių stojamųjų įnašų ir dalyvių mokesčių dydžio, mokėjimo tvarkos, kai ši tvarka nenustatyta regiono plėtros tarybos nuostatuose;
 
 
 
@@ -1143,7 +1170,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-3. Visuotiniame dalyvių susirinkime sprendžiamojo balso teisę turi visi regiono plėtros tarybos dalyviai. Vienas dalyvis visuotiniame dalyvių susirinkime turi vieną balsą. 
+3. Visuotiniame dalyvių susirinkime sprendžiamojo balso teisę turi visi regiono plėtros tarybos dalyviai. Kiekvienas regiono plėtros tarybos dalyvis visuotiniame dalyvių susirinkime turi vieną balsą. 
 
 
 
@@ -1159,12 +1186,12 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 22 straipsnis. Kolegijos sudarymas
 
 
-1. Kolegija sudaroma iš visų regiono plėtros tarybos steigėjomis (dalyvėmis) esančių savivaldybių merų ir savivaldybių tarybų deleguotų šių savivaldybių tarybų narių (toliau – Kolegijos nariai). 
+1. Kolegija sudaroma iš visų regiono plėtros tarybos steigėjomis (dalyvėmis) esančių savivaldybių merų ir savivaldybių tarybų deleguotų šių savivaldybių tarybų narių (toliau – kolegijos nariai). 
 
 
 
 
-2. Sudarant Kolegiją, turi būti užtikrinama, kad bendras Kolegijos narių skaičius nebūtų didesnis kaip šių dviejų skaičių suma:
+2. Sudarant kolegiją, turi būti užtikrinama, kad bendras kolegijos narių skaičius nebūtų didesnis kaip šių dviejų skaičių suma:
 
 
 1) regiono plėtros tarybos steigėjomis (dalyvėmis) esančių savivaldybių skaičiaus, padauginto iš 2; 
@@ -1172,32 +1199,32 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-2) regiono plėtros tarybos steigėjomis (dalyvėmis) esančių savivaldybių gyventojų skaičiaus, padalinto iš 35 000. 
+2) regiono plėtros tarybos steigėjomis (dalyvėmis) esančių savivaldybių gyventojų skaičiaus, padalinto iš 35 000. 
 
 
 
 
 
 
-3. Nustatant Kolegijoje savivaldybei atstovaujančių narių skaičių, turi būti užtikrinama, kad:
+3. Nustatant kolegijoje savivaldybei atstovaujančių narių skaičių, turi būti užtikrinama, kad:
 
 
-1) kiekvienai savivaldybei Kolegijoje atstovautų ne mažiau kaip du Kolegijos nariai; 
-
-
-
-
-2) kiekvienai savivaldybei atstovaujančių Kolegijos narių skaičius būtų ne mažesnis kaip savivaldybės gyventojų skaičius, padalintas iš 35 000, išskyrus atvejį, kai šis skaičius viršytų 1/3 visų Kolegijos narių;
+1) kiekvienai savivaldybei kolegijoje atstovautų ne mažiau kaip du kolegijos nariai; 
 
 
 
 
-3) vienai savivaldybei atstovaujančių Kolegijos narių skaičius būtų ne didesnis už 1/3 visų Kolegijos narių;
+2) kiekvienai savivaldybei atstovaujančių kolegijos narių skaičius būtų ne mažesnis kaip savivaldybės gyventojų skaičius, padalintas iš 35 000, išskyrus atvejį, kai šis skaičius viršytų 1/3 visų kolegijos narių;
 
 
 
 
-4) savivaldybei, kurios gyventojų skaičius, padalintas iš 35 000, yra didesnis už 1/3 visų Kolegijos narių, atstovautų 1/3 Kolegijos narių.
+3) vienai savivaldybei atstovaujančių kolegijos narių skaičius būtų ne didesnis už 1/3 visų kolegijos narių;
+
+
+
+
+4) savivaldybei, kurios gyventojų skaičius, padalintas iš 35 000, yra didesnis už 1/3 visų kolegijos narių, atstovautų 1/3 kolegijos narių.
 
 
 
@@ -1209,12 +1236,12 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-5. Savivaldybės gyventojų skaičius nustatomas pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir nustatytais terminais.
+5. Savivaldybės gyventojų skaičius nustatomas pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio registro nuostatuose nustatyta tvarka ir terminais.
 
 
 
 
-6. Regiono savivaldybių tarybų į Kolegiją deleguoti atstovai turi būti nepriekaištingos reputacijos. 
+6. Regiono savivaldybių tarybų į kolegiją deleguoti atstovai turi būti nepriekaištingos reputacijos. 
 
 
 
@@ -1288,84 +1315,84 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-4) priima sprendimus dėl projektų pripažinimo regioninės svarbos projektais, taip pat sprendimus dėl regiono plėtros tarybų sprendimų, kuriais projektai pripažinti regioninės svarbos projektais, pripažinimo netekusiais galios;
+4) priima sprendimus dėl projektų pripažinimo regioninės svarbos projektais, taip pat sprendimus dėl regiono plėtros tarybos sprendimų, kuriais projektai pripažinti regioninės svarbos projektais, pakeitimo ar pripažinimo netekusiais galios;
 
 
 
 
-5) nustato kompetencijų centro paslaugų regiono plėtros tarybai poreikį; 
+5) priima sprendimus dėl atstovavimo regionui tarptautinėse regionų bendradarbiavimo organizacijose ir dėl regiono plėtros tarybos bendradarbiavimo su kitų valstybių regionais; 
 
 
 
 
-6) priima sprendimus dėl atstovavimo regionui tarptautinėse regionų bendradarbiavimo organizacijose ir dėl regiono plėtros tarybos bendradarbiavimo su kitų valstybių regionais; 
+6) priima sprendimus dėl pasiūlymų teikimo savivaldybių taryboms perduoti savivaldybių viešųjų paslaugų teikimo administravimo įgaliojimus regiono plėtros tarybai, o savivaldybių taryboms priėmus sprendimą perduoti konkrečius viešųjų paslaugų teikimo administravimo įgaliojimus regiono plėtros tarybai, priima sprendimus dėl šių įgaliojimų įgyvendinimo;
 
 
 
 
-7) priima sprendimus dėl pasiūlymų teikimo savivaldybių taryboms perduoti savivaldybių viešųjų paslaugų teikimo administravimo įgaliojimus regiono plėtros tarybai, o savivaldybių taryboms priėmus sprendimą perduoti konkrečius viešųjų paslaugų teikimo administravimo įgaliojimus regiono plėtros tarybai, priima sprendimus dėl tokių įgaliojimų įgyvendinimo;
+7) tvirtina regiono plėtros tarybos metinį veiklos planą ir metinę veiklos ataskaitą;
 
 
 
 
-8) tvirtina regiono plėtros tarybos metinį veiklos planą ir metinę veiklos ataskaitą;
+8) skiria regiono plėtros tarybos administracijos direktorių ir atleidžia jį iš pareigų;
 
 
 
 
-9) skiria regiono plėtros tarybos administracijos direktorių ir atleidžia jį iš pareigų;
+9) priima sprendimus dėl kituose įstatymuose ir Vyriausybės nutarimuose nustatytų regiono plėtros tarybos funkcijų įgyvendinimo;
 
 
 
 
-10) priima sprendimus dėl kituose įstatymuose ir Vyriausybės nutarimuose regiono plėtros tarybai nustatytų funkcijų įgyvendinimo, taip pat atlieka kitas šiame įstatyme Kolegijai nustatytas funkcijas. 
+10) atlieka kitas šiame įstatyme kolegijai nustatytas funkcijas.
 
 
 
 
 
 
-2. Regiono plėtros tarybos nuostatuose gali būti Kolegijai nustatyta atlikti ir kitas šiam ir kitiems įstatymams neprieštaraujančias funkcijas.
+2. Regiono plėtros tarybos nuostatuose gali būti kolegijai nustatyta atlikti ir kitas šiam ir kitiems įstatymams neprieštaraujančias funkcijas.
 
 
 
 
-3. Kolegija šio straipsnio 1 dalyje nurodytus sprendimus priima regiono plėtros tarybos vardu.
+3. Kolegija šio straipsnio 1 dalies 1–9 punktuose nurodytus sprendimus priima regiono plėtros tarybos vardu.
 
 
 
 
-4. Kolegija sprendimus priima visų Kolegijos narių balsų dauguma, išskyrus šio straipsnio 5 dalyje nurodytus sprendimus.
+4. Kolegija sprendimus priima visų kolegijos narių balsų dauguma, išskyrus šio straipsnio 5 dalyje nurodytus sprendimus.
 
 
 
 
-5. Kolegija sprendimus, kuriais tvirtinamas ar keičiamas regiono plėtros planas, ir šio straipsnio 1 dalies 4 punkte nurodytus sprendimus priima 4/5 visų Kolegijos narių balsų dauguma. Šioje dalyje nurodyti Kolegijos sprendimai skelbiami Teisės aktų registre Lietuvos Respublikos teisėkūros pagrindų įstatymo nustatyta tvarka. 
+5. Kolegija sprendimus, kuriais tvirtinamas ar keičiamas regiono plėtros planas, ir šio straipsnio 1 dalies 4 punkte nurodytus sprendimus priima 4/5 visų kolegijos narių balsų dauguma. Šioje dalyje nurodyti kolegijos sprendimai skelbiami Teisės aktų registre Lietuvos Respublikos teisėkūros pagrindų įstatymo nustatyta tvarka. 
 
 
 
 
-6. Kolegijoje sprendžiamojo balso teisę turi visi Kolegijos nariai. Vienas Kolegijos narys turi vieną balsą. 
+6. Kolegijoje sprendžiamojo balso teisę turi visi kolegijos nariai. Kiekvienas kolegijos narys turi vieną balsą. 
 
 
 
 
-7. Kolegija gali pakeisti arba panaikinti savo sprendimus, jeigu nustatoma, kad pasikeitė aplinkybės, lėmusios regiono plėtros tarybos sprendimo priėmimą, ir (ar) nepasiekiami regiono plėtros tarybos priimto sprendimo tikslai.
+7. Kolegija gali pakeisti arba pripažinti netekusiais galios savo sprendimus, jeigu nustatoma, kad pasikeitė aplinkybės, lėmusios regiono plėtros tarybos sprendimo priėmimą, ir (ar) nepasiekiami regiono plėtros tarybos priimto sprendimo tikslai.
 
 
 
 
-8. Kolegijos pagrindinė veiklos forma – Kolegijos posėdžiai. 
+8. Pagrindinė kolegijos veiklos forma – kolegijos posėdžiai. 
 
 
 
 
-9. Kolegija iš Kolegijos narių renka Kolegijos pirmininką ir jo pavaduotoją, atšaukia juos iš šių pareigų. Pirmąjį Kolegijos posėdį kviečia ir laikotarpiu, iki Kolegija išrenka regiono plėtros tarybos Kolegijos pirmininką, Kolegijos posėdžiams pirmininkauja vyriausias pagal amžių Kolegijos narys.
+9. Kolegija iš savo narių renka kolegijos pirmininką ir pirmininko pavaduotoją, atšaukia juos iš šių pareigų. Pirmąjį kolegijos posėdį šaukia ir laikotarpiu, iki kolegija išrenka kolegijos pirmininką, kolegijos posėdžiams pirmininkauja vyriausias pagal amžių kolegijos narys.
 
 
 
 
-10. Kolegija iš darbdavių, profesinių sąjungų organizacijų, bendruomeninių ir kitų nevyriausybinių organizacijų (toliau – partneriai) atstovų sudaro patariamąją Kolegijos partnerių grupę. 
+10. Kolegija iš darbdavių, profesinių sąjungų organizacijų, bendruomeninių ir kitų nevyriausybinių organizacijų (toliau – partneriai) atstovų sudaro patariamąją kolegijos partnerių grupę. 
 
 
 
@@ -1373,29 +1400,29 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 11. Partnerių grupė:
 
 
-1) svarsto regiono plėtros plano ir jo pakeitimų, regiono plėtros tarybos sprendimų dėl projektų pripažinimo regioninės svarbos projektais, taip pat regiono plėtros plano įgyvendinimo ataskaitų projektus ir dėl šių dokumentų teikia išvadas Kolegijai;
+1) svarsto regiono plėtros plano ir jo pakeitimų, regiono plėtros tarybos sprendimų dėl projektų pripažinimo regioninės svarbos projektais, taip pat regiono plėtros plano įgyvendinimo ataskaitų projektus ir dėl šių dokumentų teikia išvadas kolegijai;
 
 
 
 
-2) Kolegijos prašymu svarsto kitus su nacionalinės regioninės politikos tikslo ir uždavinių įgyvendinimu regione susijusius klausimus ir teikia nuomonę Kolegijai;
+2) kolegijos prašymu svarsto kitus su nacionalinės regioninės politikos tikslo ir uždavinių įgyvendinimu regione susijusius klausimus ir teikia nuomonę kolegijai;
 
 
 
 
-3) savo iniciatyva gali svarstyti bet kurį Kolegijoje svarstomą klausimą ir teikti dėl jo nuomonę Kolegijai.
+3) savo iniciatyva gali svarstyti bet kurį kolegijoje svarstomą klausimą ir teikti dėl jo nuomonę kolegijai.
 
 
 
 
 
 
-12. Jeigu Kolegija, priimdama sprendimą, neatsižvelgia į partnerių grupės pateiktas pastabas, pasiūlymus arba atsižvelgia į juos iš dalies, apie Kolegijos argumentus partnerių grupė turi būti informuota Kolegijos darbo reglamente nustatyta tvarka.
+12. Jeigu kolegija, priimdama sprendimą, neatsižvelgia į partnerių grupės pateiktas pastabas, pasiūlymus arba atsižvelgia į juos iš dalies, apie kolegijos argumentus partnerių grupė turi būti informuota kolegijos darbo reglamente nustatyta tvarka.
 
 
 
 
-13. Atstovus į partnerių grupę deleguoja darbdavių ir profesinių sąjungų organizacijos, Lietuvos Respublikos darbo kodekso nustatyta tvarka atrinktos į Lietuvos Respublikos trišalę tarybą, Nevyriausybinių organizacijų taryba ir Nacionalinė bendruomeninių organizacijų taryba. Į partnerių grupę deleguoti atstovai turi būti nepriekaištingos reputacijos, kaip ji suprantama pagal šio įstatymo 22 straipsnio 7 dalį.
+13. Atstovus į partnerių grupę deleguoja darbdavių ir profesinių sąjungų organizacijos, Darbo kodekso nustatyta tvarka atrinktos į Lietuvos Respublikos trišalę tarybą, Nevyriausybinių organizacijų taryba ir Nacionalinė bendruomeninių organizacijų taryba. Į partnerių grupę deleguoti atstovai turi būti nepriekaištingos reputacijos, kaip ji suprantama pagal šio įstatymo 22 straipsnio 7 dalį.
 
 
 
@@ -1423,24 +1450,24 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-2) dalyvauti Kolegijos posėdžiuose patariamojo balso teise;
+2) dalyvauti kolegijos posėdžiuose patariamojo balso teise;
 
 
 
 
-3) dalyvauti Kolegijos sudaromų darbo grupių veikloje.
+3) dalyvauti kolegijos sudaromų darbo grupių veikloje.
 
 
 
 
 
 
-16. Partneriams partnerių grupėje atstovaujantiems asmenims Kolegijos darbo reglamente gali būti nustatyta ir kitų šiam įstatymui neprieštaraujančių teisių. 
+16. Partneriams partnerių grupėje atstovaujantiems asmenims kolegijos darbo reglamente gali būti nustatyta ir kitų šiam įstatymui neprieštaraujančių teisių. 
 
 
 
 
-17. Partnerių ir jų atstovų atrankos ir partnerių grupės veiklos tvarka nustatoma Kolegijos darbo reglamente.
+17. Partnerių ir jų atstovų atrankos ir partnerių grupės veiklos tvarka nustatoma kolegijos darbo reglamente.
  
 
 
@@ -1448,43 +1475,43 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-24 straipsnis. Kolegijos nario pareigos ir įgaliojimų pasibaigimas
+24 straipsnis. Kolegijos narių pareigos ir įgaliojimų pabaiga
 
 
-1. Kolegijos narys privalo:
+1. Kolegijos nariai privalo:
 
 
-1) dalyvauti Kolegijos posėdžiuose; 
-
-
-
-
-2) Kolegijos sprendimu atstovauti regiono plėtros tarybai;
+1) dalyvauti kolegijos posėdžiuose; 
 
 
 
 
-3) apie esamą interesų konfliktą informuoti Kolegijos pirmininką, kai jo nėra, – Kolegijos pirmininko pavaduotoją (Kolegijos pirmininkas, o kai jo nėra, – Kolegijos pirmininko pavaduotojas apie esamą interesų konfliktą privalo informuoti kitus Kolegijos narius), pareikšti apie nusišalinimą ir jokia forma nedalyvauti toliau rengiant, svarstant ar priimant Kolegijos sprendimą, dėl kurio kyla interesų konfliktas.
+2) kolegijos sprendimu atstovauti regiono plėtros tarybai;
+
+
+
+
+3) apie esamą interesų konfliktą informuoti kolegijos pirmininką, kai jo nėra, – kolegijos pirmininko pavaduotoją (kolegijos pirmininkas, o kai jo nėra, – kolegijos pirmininko pavaduotojas apie esamą interesų konfliktą privalo informuoti kitus kolegijos narius), pareikšti apie nusišalinimą ir jokia forma nedalyvauti toliau rengiant, svarstant ar priimant kolegijos sprendimą, dėl kurio kyla interesų konfliktas.
 
 
 
 
 
 
-2. Kolegijos pirmininkas, kai jo nėra, – Kolegijos pirmininko pavaduotojas, be šio straipsnio 1 dalyje nurodytų pareigų, turi šias pareigas:
+2. Kolegijos pirmininkas, kai jo nėra, – kolegijos pirmininko pavaduotojas, be šio straipsnio 1 dalyje nurodytų pareigų, turi šias pareigas:
 
 
-1) sudaryti Kolegijos posėdžių darbotvarkes; 
-
-
-
-
-2) pirmininkauti Kolegijos posėdžiams;
+1) sudaryti kolegijos posėdžių darbotvarkes; 
 
 
 
 
-3) pasirašyti Kolegijos posėdžių protokolus ir priimtus sprendimus;
+2) pirmininkauti kolegijos posėdžiams;
+
+
+
+
+3) pasirašyti kolegijos posėdžių protokolus ir priimtus sprendimus;
 
 
 
@@ -1494,14 +1521,14 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-5) atlikti kitas šiame įstatyme ir Kolegijos darbo reglamente Kolegijos pirmininkui nustatytas pareigas.
+5) atlikti kitas šiame įstatyme ir kolegijos darbo reglamente nustatytas kolegijos pirmininko pareigas.
 
 
 
 
 
 
-3. Kolegijos nario įgaliojimai pasibaigia, kai pasibaigia ar nutrūksta savivaldybės mero ar savivaldybės tarybos nario įgaliojimai. Po savivaldybių tarybų rinkimų regiono plėtros tarybos dalyvėmis esančių savivaldybių tarybos privalo deleguoti savo atstovus į Kolegiją ne vėliau kaip per 2 mėnesius nuo pirmojo naujos savivaldybės tarybos posėdžio. 
+3. Kolegijos nario įgaliojimai pasibaigia, kai pasibaigia ar nutrūksta savivaldybės mero ar savivaldybės tarybos nario įgaliojimai. Po savivaldybių tarybų rinkimų regiono plėtros tarybos dalyvėmis esančių savivaldybių tarybos privalo deleguoti savo atstovus į kolegiją ne vėliau kaip per 2 mėnesius nuo pirmojo naujos savivaldybės tarybos posėdžio. 
 
 
 
@@ -1519,7 +1546,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-3) jis per 12 mėnesių nedalyvavo daugiau kaip pusėje Kolegijos posėdžių, kai nėra objektyvių nuo paties Kolegijos nario nepriklausančių priežasčių;
+3) jis per 12 mėnesių nedalyvavo daugiau kaip pusėje kolegijos posėdžių, kai nėra objektyvių nuo paties kolegijos nario nepriklausančių priežasčių;
 
 
 
@@ -1531,7 +1558,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-5. Pasibaigus Kolegijos nario, kuris yra deleguotas savivaldybės tarybos, įgaliojimams šio straipsnio 4 dalyje nustatytais pagrindais, regiono plėtros tarybos dalyvėmis esančių savivaldybių tarybos privalo deleguoti savo atstovus į Kolegiją ne vėliau kaip per 2 mėnesius nuo ankstesnio Kolegijos nario įgaliojimų pasibaigimo. 
+5. Pasibaigus kolegijos nario, kuris yra deleguotas savivaldybės tarybos, įgaliojimams šio straipsnio 4 dalyje nustatytais pagrindais, regiono plėtros tarybos dalyvėmis esančių savivaldybių tarybos privalo deleguoti savo atstovus į kolegiją ne vėliau kaip per 2 mėnesius nuo ankstesnio kolegijos nario įgaliojimų pabaigos dienos. 
  
 
 
@@ -1539,20 +1566,20 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-25 straipsnis. Kolegijos nario darbo apmokėjimas
+25 straipsnis. Kolegijos narių darbo apmokėjimas
 
 
-1. Už darbo laiką atliekant Kolegijos nario pareigas Kolegijos nariui (išskyrus Kolegijos nariu esantį savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją) mokamas atlyginimas iš Vidaus reikalų ministerijai regiono plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kai Kolegijos nario pareigų atlikimas yra neatsiejamai susijęs su šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu. Kolegijos nario darbo laikas apskaičiuojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Atlyginimą Kolegijos nariui moka regiono plėtros taryba. 
-
-
-
-
-2. Už darbo laiką atliekant Kolegijos nario pareigas (išskyrus Kolegijos nariu esantį savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją), kurios nėra susijusios su šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu, Kolegijos nariui gali būti mokamas atlyginimas iš šio įstatymo 28 straipsnio 3 dalyje nurodytų regiono plėtros tarybos lėšų, jeigu regiono plėtros tarybos visuotinis dalyvių susirinkimas taip nusprendžia.
+1. Už darbo laiką atliekant kolegijos nario pareigas kolegijos nariui (išskyrus kolegijos narį – savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją) mokamas atlyginimas iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kai kolegijos nario pareigų atlikimas yra neatsiejamai susijęs su šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu. Kolegijos narių darbo laikas apskaičiuojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Atlyginimą kolegijos nariams moka regiono plėtros taryba. 
 
 
 
 
-3. Kolegijos nariui mokėtinas atlyginimas apskaičiuojamas pagal Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio, įskaitant individualias įmones, dydį regione, atsižvelgiant į faktiškai dirbtą laiką atliekant Kolegijos nario pareigas. Kolegijos pirmininkui ir jo pavaduotojui, kai jis nesant Kolegijos pirmininko atlieka jo pareigas, atlyginimas už laiką, praleistą Kolegijos posėdžiuose ir jiems rengiantis, papildomai mokama 30 procentų faktiškai apskaičiuoto Kolegijos nario atlyginimo už kiekvieną Kolegijos posėdį. 
+2. Už darbo laiką atliekant kolegijos nario pareigas (išskyrus kolegijos narį – savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją), kurios nesusijusios su šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu, kolegijos nariui gali būti mokamas atlyginimas iš šio įstatymo 28 straipsnio 3 dalyje nurodytų regiono plėtros tarybos lėšų, jeigu regiono plėtros tarybos visuotinis dalyvių susirinkimas taip nusprendžia.
+
+
+
+
+3. Kolegijos nariams mokėtinas atlyginimas apskaičiuojamas pagal Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio, įskaitant individualias įmones, dydį regione, atsižvelgiant į faktiškai dirbtą laiką atliekant kolegijos nario pareigas. Kolegijos pirmininkui ir pirmininko pavaduotojui, kai jis nesant kolegijos pirmininko atlieka jo pareigas, atlyginimas už laiką, praleistą kolegijos posėdžiuose ir jiems rengiantis, papildomai mokama 30 procentų faktiškai apskaičiuoto kolegijos nario atlyginimo už kiekvieną kolegijos posėdį. 
 
 
 
@@ -1562,12 +1589,18 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-5. Kolegijos narys turi teisę atsisakyti atlyginimo už darbą Kolegijoje, Kolegijos darbo reglamente nustatyta tvarka pateikdamas prašymą administracijos direktoriui dėl Kolegijos nario pareigų atlikimo neatlygintinai (tai yra visuomeniniais pagrindais). Tokį prašymą pateikusiam Kolegijos nariui atlyginimas neskaičiuojamas ir nemokamas, taip pat neskaičiuojami ir nemokami teisės aktų nustatyti privalomi mokesčiai, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokos.
+5. Kolegijos narys turi teisę atsisakyti atlyginimo už darbą kolegijoje, kolegijos darbo reglamente nustatyta tvarka pateikdamas regiono plėtros tarybos administracijos direktoriui prašymą dėl kolegijos nario pareigų atlikimo neatlygintinai (tai yra visuomeniniais pagrindais). Tokį prašymą pateikusiam kolegijos nariui atlyginimas neskaičiuojamas ir nemokamas, taip pat neskaičiuojami ir nemokami teisės aktų nustatyti privalomi mokesčiai, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokos.
 
 
 
 
-6. Kolegijos narys atleidžiamas nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje tuo laiku, kai jis atlieka Kolegijos nario pareigas.
+6. Kolegijos nariui regiono plėtros taryba apmoka komandiruotės išlaidas, kai kolegijos narys už savivaldybės, kurios meras ar savivaldybės tarybos narys jis yra, ribų atlieka šio įstatymo 24 straipsnio 2 dalies 4 punkte nustatytą kolegijos pirmininko pareigą, kolegijos sprendimu atstovauja regiono plėtros tarybai ar kolegijos sprendimu dalyvauja veikloje, skirtoje kolegijos nario pareigoms atlikti reikalingai kolegijos nario kvalifikacijai tobulinti. Kolegijos nario komandiruotės išlaidos, neatsiejamai susijusios su šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu ar su kolegijos nario dalyvavimu jo kvalifikacijai tobulinti skirtoje veikloje, apmokamos iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kitos kolegijos nario komandiruotės išlaidos – iš šio įstatymo 28 straipsnio 3 dalyje nurodytų regiono plėtros tarybos lėšų. Kolegijos nariams komandiruotės išlaidos apmokamos Vyriausybės nustatyta tvarka.
+TAR pastaba. 25 straipsnio 6 dalis įsigalioja 2022 m. kovo 1 d.
+
+
+
+
+7. Kolegijos narys atleidžiamas nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje tuo laiku, kai jis atlieka kolegijos nario pareigas.
  
 
 
@@ -1581,12 +1614,12 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 1. Regiono plėtros tarybos administracijos direktorius (toliau – administracijos direktorius) yra vienasmenis regiono plėtros tarybos valdymo organas ‒ juridinio asmens vadovas. Administracijos direktoriaus pareigos:
 
 
-1) organizuoti ir kontroliuoti regiono plėtros tarybos administracijos darbą, kad būtų įgyvendinami regiono plėtros tarybos veiklos tikslai ir atliekamos regiono plėtros tarybos ir jos organų funkcijos;
+1) organizuoti ir kontroliuoti regiono plėtros tarybos administracijos (toliau – administracija) darbą, kad būtų įgyvendinami regiono plėtros tarybos veiklos tikslai ir atliekamos regiono plėtros tarybos ir jos organų funkcijos;
 
 
 
 
-2) sudaryti darbo sutartis su regiono plėtros tarybos administracijos darbuotojais ir jas nutraukti, įgyvendinti kitus darbdavio įgaliojimus darbo teisės srityje;
+2) sudaryti darbo sutartis su administracijos darbuotojais ir jas nutraukti, įgyvendinti kitus darbdavio įgaliojimus darbo teisės srityje;
 
 
 
@@ -1596,22 +1629,22 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-4) užtikrinti šio įstatymo 23 straipsnio 11 dalyje nurodytų dokumentų pateikimą regiono plėtros tarybos partnerių grupei ir partnerių grupės išvados, kuri pateikta dėl šių dokumentų, pateikimą Kolegijai;
+4) užtikrinti šio įstatymo 23 straipsnio 11 dalyje nurodytų dokumentų pateikimą regiono plėtros tarybos partnerių grupei ir partnerių grupės išvados, kuri pateikta dėl šių dokumentų, pateikimą kolegijai;
 
 
 
 
-5) užtikrinti metinių veiklos planų parengimą ir pateikimą visuotiniam dalyvių susirinkimui ir Kolegijai;
+5) užtikrinti regiono plėtros tarybos metinių veiklos planų parengimą ir pateikimą visuotiniam dalyvių susirinkimui ir kolegijai;
 
 
 
 
-6) užtikrinti metinių finansinių ataskaitų rinkinio parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliekamas) visuotiniam dalyvių susirinkimui ir Juridinių asmenų registrui;
+6) užtikrinti regiono plėtros tarybos metinių finansinių ataskaitų rinkinio parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliekamas) visuotiniam dalyvių susirinkimui ir Juridinių asmenų registro tvarkytojui;
 
 
 
 
-7) užtikrinti duomenų, nurodytų Civilinio kodekso 2.66 straipsnyje, pateikimą Juridinių asmenų registrui; 
+7) užtikrinti duomenų, nurodytų Civilinio kodekso 2.66 straipsnyje, pateikimą Juridinių asmenų registro tvarkytojui; 
 
 
 
@@ -1621,7 +1654,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-9) tvirtinti regiono plėtros tarybos administracijos darbo reglamentą;
+9) tvirtinti administracijos darbo reglamentą;
 
 
 
@@ -1631,34 +1664,34 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-11) atlikti kitas šiame įstatyme ir kituose teisės aktuose jam nustatytas pareigas.
+11) atlikti kitas šiame įstatyme, regiono plėtros tarybos nuostatuose ir kituose teisės aktuose nustatytas administracijos direktoriaus pareigas.
 
 
 
 
 
 
-2. Administracijos direktorius veikia regiono plėtros tarybos vardu su kitais asmenimis tais klausimais, kurie šiuo įstatymu ir regiono plėtros tarybos nuostatais nepriskirti Kolegijai ir visuotiniam dalyvių susirinkimui.
+2. Administracijos direktorius veikia regiono plėtros tarybos vardu su kitais asmenimis tais klausimais, kurie šiame įstatyme ir regiono plėtros tarybos nuostatuose nepriskirti kolegijos ir regiono plėtros tarybos visuotinio dalyvių susirinkimo kompetencijai.
 
 
 
 
-3. Administracijos direktorius atsiskaito už savo ir regiono plėtros tarybos administracijos veiklą teikdamas regiono plėtros tarybos metines veiklos ataskaitas Kolegijai.
+3. Administracijos direktorius atsiskaito už savo ir administracijos veiklą teikdamas regiono plėtros tarybos metines veiklos ataskaitas kolegijai.
 
 
 
 
-4. Administracijos direktorius priimamas į pareigas konkurso, organizuojamo ir vykdomo Vyriausybės nustatyta tvarka, būdu kadencijai, kuri prasideda nuo jo priėmimo į pareigas dienos ir baigiasi, kai Kolegija, sudaryta po savivaldybių tarybų ir merų rinkimų iš naujai kadencijai išrinktų savivaldybių tarybų narių ir merų, susirenka į pirmąjį Kolegijos posėdį. Kai steigiama regiono plėtros taryba, administracijos direktoriaus kadencija prasideda nuo regiono plėtros tarybos įregistravimo Juridinių asmenų registre. Tas pats asmuo tos pačios regiono plėtros tarybos administracijos direktoriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. 
+4. Administracijos direktorius priimamas į pareigas konkurso, organizuojamo ir vykdomo Vyriausybės nustatyta tvarka, būdu. Administracijos direktoriaus kadencija prasideda nuo jo priėmimo į pareigas dienos ir baigiasi, kai kolegija, sudaryta po savivaldybių tarybų ir merų rinkimų iš naujai kadencijai išrinktų savivaldybių tarybų narių ir merų, susirenka į pirmąjį kolegijos posėdį. Kai steigiama regiono plėtros taryba, administracijos direktoriaus kadencija prasideda nuo regiono plėtros tarybos įregistravimo Juridinių asmenų registre. Tas pats asmuo tos pačios regiono plėtros tarybos administracijos direktoriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. 
 
 
 
 
-5. Darbo sutartį su regiono plėtros tarybos administracijos direktoriumi regiono plėtros tarybos vardu sudaro ir ją nutraukia Kolegijos pirmininkas arba kitas Kolegijos įgaliotas asmuo.
+5. Darbo sutartį su administracijos direktoriumi regiono plėtros tarybos vardu sudaro ir ją nutraukia kolegijos pirmininkas arba kitas kolegijos įgaliotas asmuo.
 
 
 
 
-6. Pasibaigus administracijos direktoriaus pirmai kadencijai, Kolegija pirmajame posėdyje priima sprendimą atleisti administracijos direktorių iš pareigų arba sprendimą skirti administracijos direktorių antrai kadencijai. Pasibaigus antrai kadencijai, administracijos direktorius yra atleidžiamas iš pareigų. Jeigu Kolegija priima sprendimą atleisti administracijos direktorių iš pareigų, su juo sudaryta darbo sutartis pasibaigia Darbo kodekso nustatyta tvarka. Tol, kol administracijos direktorius nėra paskirtas, administracijos direktoriaus pareigas eina Kolegijos pirmininko arba laikinai Kolegijos pirmininko pareigas einančio Kolegijos nario siūlymu Kolegijos paskirtas regiono plėtros tarybos administracijos darbuotojas. Konkursas į regiono plėtros tarybos administracijos direktoriaus pareigas turi būti paskelbtas per vieną mėnesį nuo ankstesnio administracijos direktoriaus atleidimo iš pareigų dienos.
+6. Pasibaigus administracijos direktoriaus pirmai kadencijai, kolegija pirmajame posėdyje priima sprendimą atleisti administracijos direktorių iš pareigų arba sprendimą skirti administracijos direktorių antrai kadencijai. Pasibaigus antrai kadencijai, administracijos direktorius yra atleidžiamas iš pareigų. Jeigu kolegija priima sprendimą atleisti administracijos direktorių iš pareigų, su juo sudaryta darbo sutartis pasibaigia Darbo kodekso nustatyta tvarka. Tol, kol administracijos direktorius nėra paskirtas, administracijos direktoriaus pareigas eina kolegijos pirmininko arba laikinai kolegijos pirmininko pareigas einančio kolegijos nario siūlymu kolegijos paskirtas administracijos darbuotojas. Konkursas į administracijos direktoriaus pareigas turi būti paskelbtas per vieną mėnesį nuo ankstesnio administracijos direktoriaus atleidimo iš pareigų dienos.
 
 
 
@@ -1668,15 +1701,15 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-8. Administracijos direktorius gali būti kito juridinio asmens darbuotoju ar organo nariu, tik gavęs Kolegijos sutikimą. Kolegija sprendimą dėl sutikimo administracijos direktoriui būti kito juridinio asmens darbuotoju ar organo nariu priima gavusi administracijos direktoriaus rašytinį prašymą. Šis administracijos direktoriaus prašymas turi būti išnagrinėtas per 20 darbo dienų nuo jo pateikimo Kolegijos pirmininkui dienos. Sutikimas duodamas, jeigu administracijos direktoriaus buvimas kito juridinio asmens darbuotoju ar organo nariu nesukelia interesų konflikto, nekliudo jam tinkamai atlikti pareigų, nurodytų šiame ir kituose įstatymuose ir regiono plėtros tarybos nuostatuose. Kolegijos sprendimas atsisakyti duoti sutikimą gali būti skundžiamas administraciniam teismui.
+8. Administracijos direktorius gali būti kito juridinio asmens darbuotoju ar organo nariu tik gavęs kolegijos sutikimą. Kolegija sprendimą dėl sutikimo administracijos direktoriui būti kito juridinio asmens darbuotoju ar organo nariu priima gavusi administracijos direktoriaus rašytinį prašymą. Šis administracijos direktoriaus prašymas turi būti išnagrinėtas per 20 darbo dienų nuo jo pateikimo kolegijos pirmininkui dienos. Sutikimas duodamas, jeigu administracijos direktoriaus buvimas kito juridinio asmens darbuotoju ar organo nariu nekelia interesų konflikto, nekliudo jam tinkamai atlikti pareigų, nurodytų šiame ir kituose įstatymuose ir regiono plėtros tarybos nuostatuose. Kolegijos sprendimas atsisakyti duoti sutikimą administracijos direktoriui būti kito juridinio asmens darbuotoju ar organo nariu gali būti skundžiamas administraciniam teismui.
 
 
 
 
-9. Administracijos direktorius turi būti atleistas iš pareigų nepasibaigus jo kadencijai, jeigu:
+9. Administracijos direktorius turi būti atleistas iš pareigų nesibaigus jo kadencijai, jeigu:
 
 
-1) Kolegija du kartus iš eilės nepatvirtina regiono plėtros tarybos metinės veiklos ataskaitos;
+1) kolegija du kartus iš eilės nepatvirtina regiono plėtros tarybos metinės veiklos ataskaitos;
 
 
 
@@ -1698,20 +1731,20 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-10. Tiek, kiek nereglamentuoja šis įstatymas, regiono plėtros tarybos administracijos direktoriaus darbo santykiams taikomos Darbo kodekso nuostatos.
+10. Tiek, kiek nereglamentuoja šis įstatymas, administracijos direktoriaus darbo santykiams taikomos Darbo kodekso nuostatos.
 
 
 
 
-11. Regiono plėtros tarybos administracija:
+11. Administracija:
 
 
-1) rengia dokumentus, kuriuos, vadovaudamasi šiuo įstatymu, kitais teisės aktais ir regiono plėtros tarybos nuostatais, turi tvirtinti Kolegija ar visuotinis dalyvių susirinkimas;
+1) rengia dokumentus, kuriuos, vadovaudamasi šiuo įstatymu, kitais teisės aktais ir regiono plėtros tarybos nuostatais, turi tvirtinti kolegija ar regiono plėtros tarybos visuotinis dalyvių susirinkimas;
 
 
 
 
-2) koordinuoja Kolegijos sprendimų įgyvendinimą, atlieka jų įgyvendinimo stebėseną arba pati įgyvendina Kolegijos sprendimus;
+2) koordinuoja kolegijos sprendimų įgyvendinimą, atlieka jų įgyvendinimo stebėseną arba pati įgyvendina kolegijos sprendimus;
 
 
 
@@ -1726,24 +1759,24 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-5) organizuoja Kolegijos, visuotinio dalyvių susirinkimo posėdžius, atlieka šių regiono plėtros tarybos organų sekretoriato funkcijas;
+5) organizuoja kolegijos, regiono plėtros tarybos visuotinio dalyvių susirinkimo posėdžius, atlieka šių regiono plėtros tarybos organų sekretoriato funkcijas;
 
 
 
 
-6) atlieka kitas regiono plėtros tarybos nuostatuose regiono plėtros tarybos administracijai nustatytas funkcijas.
+6) atlieka kitas regiono plėtros tarybos nuostatuose nustatytas administracijos funkcijas.
 
 
 
 
 
 
-12. Regiono plėtros tarybos administracijos darbuotojai negali būti regiono plėtros tarybos, kurioje jie dirba, Kolegijos nariais. Regiono plėtros tarybos administracijos darbuotojai, turintys viešojo administravimo įgaliojimus, turi būti nepriekaištingos reputacijos, kaip ji suprantama pagal šio įstatymo 22 straipsnio 7 dalį.
+12. Administracijos darbuotojai negali būti regiono plėtros tarybos, kurioje jie dirba, kolegijos nariais. Administracijos darbuotojai, turintys viešojo administravimo įgaliojimus, turi būti nepriekaištingos reputacijos, kaip ji suprantama pagal šio įstatymo 22 straipsnio 7 dalį.
 
 
 
 
-13. Kolegija, turėdama duomenų, keliančių pagrįstų abejonių dėl kandidato į administracijos direktoriaus pareigas ar administracijos direktoriaus atitikties šio straipsnio 7 ir 8 dalyse nustatytiems reikalavimams, o administracijos direktorius, turėdamas duomenų, keliančių pagrįstų abejonių dėl kandidato į administracijos darbuotojo, turinčio viešojo administravimo įgaliojimus, pareigas ar tokius įgaliojimus turinčio administracijos darbuotojo atitikties šiame įstatyme nustatytam nepriekaištingos reputacijos reikalavimui, turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, kad šios pateiktų apie tokį asmenį jų turimą informaciją. Institucijos, įstaigos ir įmonės tokią informaciją turi pateikti ne vėliau kaip per 5 darbo dienas nuo prašymo pateikti tokią informaciją gavimo dienos, jeigu teisės aktuose nenustatyta kitaip.
+13. Kolegija, turėdama duomenų, keliančių pagrįstų abejonių dėl kandidato į administracijos direktoriaus pareigas ar administracijos direktoriaus atitikties šio straipsnio 7 ir 8 dalyse nustatytiems reikalavimams, o administracijos direktorius, turėdamas duomenų, keliančių pagrįstų abejonių dėl kandidato į administracijos darbuotojo, turinčio viešojo administravimo įgaliojimus, pareigas ar viešojo administravimo įgaliojimus turinčio administracijos darbuotojo atitikties šiame įstatyme nustatytiems nepriekaištingos reputacijos reikalavimams turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, kad šios pateiktų apie tokį asmenį jų turimą informaciją. Institucijos, įstaigos ir įmonės šią informaciją turi pateikti ne vėliau kaip per 5 darbo dienas nuo prašymo pateikti informaciją gavimo dienos, jeigu teisės aktuose nenustatyta kitaip.
  
 
 
@@ -1779,17 +1812,17 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-2. Regiono plėtros tarybos administracijos direktoriaus ir administracijos darbuotojų darbo apmokėjimo sistemoje (toliau – darbo apmokėjimo sistema), atsižvelgiant į šio straipsnio nuostatas, nustatomi administracijos direktoriaus ir administracijos darbuotojų pareigybių pareiginės algos nustatymo kriterijai (išsilavinimas, profesinio ir (ar) vadovaujamo darbo patirtis, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir pan.) ir pagal kiekvieną kriterijų nustatyti konkretūs pareiginės algos koeficientų dydžiai, detalizuojama šio straipsnio 5–9 dalyse nustatyta priemokų ir premijų skyrimo tvarka, mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą tvarka ir dydžiai. 
+2. Administracijos direktoriaus ir administracijos darbuotojų darbo apmokėjimo sistemoje (toliau – darbo apmokėjimo sistema), atsižvelgiant į šio straipsnio nuostatas, nustatomi administracijos direktoriaus ir administracijos darbuotojų pareigybių pareiginės algos nustatymo kriterijai (išsilavinimas, profesinio ir (ar) vadovaujamo darbo patirtis, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir pan.) ir pagal kiekvieną kriterijų nustatyti konkretūs pareiginės algos koeficientų dydžiai, detalizuojama šio straipsnio 5–9 dalyse nustatyta priemokų ir premijų skyrimo tvarka, mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą tvarka ir dydžiai. 
 
 
 
 
-3. Administracijos direktoriaus ir administracijos darbuotojų pareiginė alga nustatoma pareiginės algos koeficientais. Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio.
+3. Administracijos direktoriaus ir administracijos darbuotojų pareiginė alga nustatoma pareiginės algos koeficientais. Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų, darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio.
 
 
 
 
-4. Administracijos direktoriaus pareiginės algos koeficientą nustato Kolegija iš šio įstatymo priede atitinkamai pareigybei nustatyto pareiginės algos koeficientų intervalo, atsižvelgdama į darbo apmokėjimo sistemoje nustatytus pareiginės algos nustatymo kriterijus ir pareiginės algos koeficientų dydžius. Administracijos darbuotojo pareiginės algos koeficientą pagal darbo apmokėjimo tvarkos apraše nustatytus pareiginės algos nustatymo kriterijus ir koeficientų dydžius nustato administracijos direktorius. Administracijos direktoriaus ir administracijos darbuotojo pareiginė alga sulygstama darbo sutartyje. 
+4. Administracijos direktoriaus pareiginės algos koeficientą nustato kolegija iš šio įstatymo priede šiai pareigybei nustatyto pareiginės algos koeficientų intervalo, atsižvelgdama į darbo apmokėjimo sistemoje nustatytus pareiginės algos nustatymo kriterijus ir pareiginės algos koeficientų dydžius. Administracijos darbuotojo pareiginės algos koeficientą pagal darbo apmokėjimo tvarkos apraše nustatytus pareiginės algos nustatymo kriterijus ir koeficientų dydžius nustato administracijos direktorius. Administracijos direktoriaus ir administracijos darbuotojo pareiginė alga sulygstama darbo sutartyje. 
 
 
 
@@ -1814,7 +1847,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-7. Administracijos direktoriui ir administracijos darbuotojams, neviršijant regiono plėtros tarybos lėšų, skirtų darbo užmokesčiui, gali būti skiriamos premijos už pasiektus labai gerus regiono plėtros tarybos veiklos rezultatus ir (ar) labai gerą konkrečių užduočių atlikimą. Kiekvienu atveju, nurodytu šioje dalyje, nurodyta premija gali būti skiriama ne daugiau kaip kartą per finansinius metus ir negali viršyti pareiginės algos dydžio. Premija negali būti skiriama administracijos direktoriui ar administracijos darbuotojui, per paskutinius 12 mėnesių padariusiam darbo pareigų pažeidimą.
+7. Administracijos direktoriui ir administracijos darbuotojams, neviršijant regiono plėtros tarybos lėšų, skirtų darbo užmokesčiui, gali būti skiriamos premijos už pasiektus labai gerus regiono plėtros tarybos veiklos rezultatus ir (ar) labai gerą konkrečių užduočių atlikimą. Kiekvienu šioje dalyje nurodytu atveju ši premija gali būti skiriama ne daugiau kaip kartą per finansinius metus ir ji negali viršyti pareiginės algos dydžio. Šioje dalyje nurodyta premija negali būti skiriama administracijos direktoriui ar administracijos darbuotojui, per paskutinius 12 mėnesių padariusiam darbo pareigų pažeidimą.
 
 
 
@@ -1824,7 +1857,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-9. Šio straipsnio 5 ir 7 dalyse nurodytas priemokas ir premijas administracijos direktoriui skiria regiono plėtros tarybos visuotinis dalyvių susirinkimas Kolegijos teikimu, administracijos darbuotojui – administracijos direktorius. 
+9. Šio straipsnio 5 ir 7 dalyse nurodytas priemokas ir premijas administracijos direktoriui skiria regiono plėtros tarybos visuotinis dalyvių susirinkimas kolegijos teikimu, administracijos darbuotojui – administracijos direktorius. 
 
 
 
@@ -1834,7 +1867,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-11. Administracijos direktoriui ir administracijos darbuotojams gali būti mokama už dalyvavimą regiono plėtros tarybos įgyvendinamuose Europos Sąjungos, tarptautinių organizacijų, tarptautinių finansinių institucijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kurie turi konkrečius ir išmatuojamus tikslus, atitinkančius regiono plėtros tarybos veiklos tikslus, ir kuriems yra nustatytas įgyvendinimo terminas ir numatytas atskiras biudžetas, iš Europos Sąjungos, tarptautinių organizacijų, tarptautinių finansinių institucijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas ir įkainius. Šioje dalyje nurodytos išmokos nėra įskaičiuojamos į administracijos direktoriaus ir administracijos darbuotojo darbo užmokestį, apskaičiuotą pagal šiame įstatyme nustatytas administracijos direktoriaus ir administracijos darbuotojų darbo apmokėjimo sąlygas. Už laiką, kurį administracijos direktorius ir administracijos darbuotojas dalyvauja minėtuose paramos teikimo projektuose ir už kurį gauna išmokas iš Europos Sąjungos, tarptautinių organizacijų, tarptautinių finansinių institucijų, užsienio valstybių lėšų, skirtų minėtiems paramos teikimo projektams įgyvendinti, darbo užmokestis, apskaičiuotas pagal šiame įstatyme nustatytas administracijos direktoriaus ir administracijos darbuotojų darbo apmokėjimo sąlygas, administracijos direktoriui ir administracijos darbuotojui nemokamas. 
+11. Administracijos direktoriui ir administracijos darbuotojams gali būti mokama už dalyvavimą regiono plėtros tarybos įgyvendinamuose Europos Sąjungos, tarptautinių organizacijų, tarptautinių finansinių institucijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kurie turi konkrečius ir išmatuojamus tikslus, atitinkančius regiono plėtros tarybos veiklos tikslus, ir kuriems yra nustatytas įgyvendinimo terminas ir numatytas atskiras biudžetas, iš Europos Sąjungos, tarptautinių organizacijų, tarptautinių finansinių institucijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas ir įkainius. Šioje dalyje nurodytos išmokos neįskaičiuojamos į administracijos direktoriaus ir administracijos darbuotojų darbo užmokestį, apskaičiuotą pagal šiame įstatyme nustatytas administracijos direktoriaus ir administracijos darbuotojų darbo apmokėjimo sąlygas. Už laiką, kurį administracijos direktorius ir administracijos darbuotojai dalyvauja šioje dalyje nurodytuose paramos teikimo projektuose ir už kurį gauna išmokas iš Europos Sąjungos, tarptautinių organizacijų, tarptautinių finansinių institucijų, užsienio valstybių lėšų, skirtų tiems paramos teikimo projektams įgyvendinti, darbo užmokestis, apskaičiuotas pagal šiame įstatyme nustatytas administracijos direktoriaus ir administracijos darbuotojų darbo apmokėjimo sąlygas, administracijos direktoriui ir administracijos darbuotojams nemokamas. 
  
 
 
@@ -1848,12 +1881,12 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 1. Valstybė remia regionų plėtros tarybas:
 
 
-1) valstybės biudžeto lėšomis finansuodama regiono plėtros tarybos funkcijų, nurodytų šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose, atlikimą, taip pat Kolegijos narių, administracijos direktoriaus ir administracijos darbuotojų kvalifikacijos tobulinimą;
+1) valstybės biudžeto lėšomis finansuodama regiono plėtros tarybos funkcijų, nurodytų šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose, atlikimą, taip pat kolegijos narių, administracijos direktoriaus ir administracijos darbuotojų kvalifikacijos tobulinimą;
 
 
 
 
-2) neatlygintinai teikdama regiono plėtros tarybai kompetencijų centro paslaugas, nurodytas šio įstatymo 14 straipsnio 2 dalyje.
+2) sudarydama galimybę regionų plėtros taryboms neatlygintinai gauti šio įstatymo 14 straipsnio 2 dalyje nurodytų kompetencijų tinklo dalyvių pagalbą, kurios reikia atliekant šiame įstatyme nustatytas regiono plėtros tarybos funkcijas.
 
 
 
@@ -1896,17 +1929,17 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 29 straipsnis. Regiono plėtros tarybos metinių finansinių ataskaitų rinkinys, metinė veiklos ataskaita ir auditas
 
 
-1. Regiono plėtros tarybos metinių finansinių ataskaitų rinkinys ir metinė veiklos ataskaita rengiami Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. 
+1. Regiono plėtros tarybos metinių finansinių ataskaitų rinkinys ir metinė veiklos ataskaita rengiami Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
 
 
 
 
-2. Regiono plėtros taryba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Juridinių asmenų registro tvarkytojui turi pateikti regiono plėtros tarybos metinių finansinių ataskaitų rinkinį, o kai atliktas metinių finansinių ataskaitų auditas, – audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada, taip pat metinę veiklos ataskaitą. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+2. Regiono plėtros taryba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Juridinių asmenų registro tvarkytojui turi pateikti regiono plėtros tarybos metinių finansinių ataskaitų rinkinį, o kai atliktas metinių finansinių ataskaitų auditas, – audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada, taip pat metinę veiklos ataskaitą. Šie Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
 
 
 
 
-3. Regiono plėtros tarybos finansinių ataskaitų auditas turi būti atliekamas, jeigu paskutinę finansinių metų dieną finansinės būklės ataskaitoje nurodyto turto vertė viršija 1 800 000 eurų arba jeigu pajamos per ataskaitinius finansinius metus viršija 3 500 000 eurų.
+3. Regiono plėtros tarybos finansinių ataskaitų auditas turi būti atliekamas, jeigu paskutinę finansinių metų dieną finansinės būklės ataskaitoje nurodyto regiono plėtros tarybos turto vertė viršija 1 800 000 eurų arba jeigu regiono plėtros tarybos pajamos per ataskaitinius finansinius metus viršija 3 500 000 eurų.
 
 
 
@@ -1932,7 +1965,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-3. Jeigu regiono plėtros taryboje liko mažiau dalyvių negu 3/4 apskrityje esančių savivaldybių, per 30 dienų apie tokį dalyvių sumažėjimą regiono plėtros taryba turi pranešti Juridinių asmenų registro tvarkytojui Juridinių asmenų registro nuostatuose nustatyta tvarka. 
+3. Kai regiono plėtros taryboje lieka mažiau dalyvių negu 3/4 apskrityje esančių savivaldybių, per 30 dienų nuo šio dalyvių sumažėjimo apie tai regiono plėtros taryba turi pranešti Juridinių asmenų registro tvarkytojui Juridinių asmenų registro nuostatuose nustatyta tvarka. 
 
 
 
@@ -1947,7 +1980,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 
-6. Jeigu regiono plėtros taryboje lieka mažiau dalyvių negu 3/4 apskrityje esančių savivaldybių arba jeigu kitais Civilinio kodekso nustatytais pagrindais priimamas sprendimas likviduoti regiono plėtros tarybą, regiono plėtros taryba netenka įgaliojimų vykdyti šio įstatymo 12 straipsnio 3 dalyje nustatytų regiono plėtros tarybos funkcijų. Šiais atvejais sutartys dėl regiono plėtros tarybos patvirtinto regiono plėtros plano priemonių įgyvendinimo (toliau – projektų sutartys) toliau vykdomos šiose projektų sutartyse nustatyta tvarka. Naujos projektų sutartys nesudaromos. Tolesnę regiono plėtros plano priemonių, dėl kurių įgyvendinimo vykdomos projektų sutartys, įgyvendinimo stebėseną atlieka Vidaus reikalų ministerija.
+6. Kai regiono plėtros taryboje lieka mažiau dalyvių negu 3/4 apskrityje esančių savivaldybių arba kai kitais Civilinio kodekso nustatytais pagrindais priimamas sprendimas likviduoti regiono plėtros tarybą, regiono plėtros taryba netenka įgaliojimų vykdyti šio įstatymo 12 straipsnio 3 dalyje nustatytų regiono plėtros tarybos funkcijų. Šiais atvejais sutartys dėl regiono plėtros tarybos patvirtinto regiono plėtros plano priemonių įgyvendinimo (toliau – projektų sutartys) toliau vykdomos šiose projektų sutartyse nustatyta tvarka. Naujos projektų sutartys nesudaromos. Tolesnę regiono plėtros plano priemonių, dėl kurių įgyvendinimo vykdomos projektų sutartys, įgyvendinimo stebėseną atlieka Vidaus reikalų ministerija.
 
 
 
@@ -1986,7 +2019,6 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas ir valdymo
 
 
 6) pateikti Juridinių asmenų registro tvarkytojui regiono plėtros tarybos likvidavimo aktą ir kitus dokumentus, reikalingus regiono plėtros tarybai išregistruoti.
- 
 
 
 
@@ -2045,28 +2077,7 @@ REGIONŲ PLĖTROS TARYBŲ ADMINISTRACIJŲ DIREKTORIŲ IR ADMINISTRACIJŲ DARBUOT
 
 
  
-Šiame priede nurodytoms regionų plėtros tarybų administracijų darbuotojų pareigybėms priskiriamos funkcijos:
-
-
-1. Eksperto pareigybei priskiriamos regiono situacijos analizės, regiono plėtros plano projekto ir kitų regiono plėtros tarybos sprendimų projektų rengimo, taip pat tyrimų regiono plėtros tarybos sprendimų projektams pagrįsti atlikimo funkcijos. 
-
-
-
-
-2. Vyriausiojo specialisto pareigybei priskiriamos regiono plėtros plano (priemonių, projektų) įgyvendinimo valdymo funkcijos. 
-
-
-
-
-3. Vyresniojo specialisto pareigybei priskiriamos bendrosios funkcijos, t. y. funkcijos, padedančios užtikrinti regiono plėtros tarybos vidaus administravimą, funkcionavimą. 
-
-
-
-
-4. Eksperto, vyriausiojo specialisto ir (ar) vyresniojo specialisto pareigybei, be šio priedo 1, 2 ar 3 punkte nurodytų funkcijų, gali būti priskiriamos ir kitos su regiono plėtros tarybos nuostatuose nustatytomis regiono plėtros tarybos funkcijomis susijusios funkcijos.
-
-
-part_b4d0810066ee404ba1aa47ef1942c4f9_end
+part_09c5d5f32de14ec4a863fc589c4bef58_end
 
 
  
@@ -2129,4 +2140,9 @@ Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3041, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13953
+Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas
