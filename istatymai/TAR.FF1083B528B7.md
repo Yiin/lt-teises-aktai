@@ -18,9 +18,10 @@ Redaguota : 1995 07 21
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-11-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-01-03
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
  
@@ -2444,7 +2445,10 @@ Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
 
 
 
-2) turinčiam ne mažesnę kaip 3 metų darbo rengiant saugomų teritorijų specialiojo teritorijų planavimo dokumentus patirtį;
+2) turinčiam ne mažesnę kaip 3 metų darbo rengiant saugomų teritorijų specialiojo teritorijų planavimo dokumentus arba rengiant ne žemesnio negu savivaldybės lygmens kompleksinio teritorijų planavimo dokumentus, jeigu juose buvo sprendžiami atitinkami saugomų teritorijų specialiojo teritorijų planavimo dokumentui priskirtini uždaviniai, patirtį;
+Straipsnio punkto pakeitimai:
+Nr. XIV-599, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23520
+ 
 
 
 
@@ -3219,4 +3223,9 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 20, 27, 30, 33 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-502, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15878
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 28-1 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-599, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23520
 Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 28-1 straipsnio pakeitimo įstatymas
