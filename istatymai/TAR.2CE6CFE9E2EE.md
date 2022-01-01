@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -529,9 +529,11 @@ Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
 
 
 
-2. Asmeniui, turinčiam teisę gauti šalpos našlaičių pensiją, ši pensija skiriama ir mokama, nors šis asmuo turi teisę gauti valstybinę socialinio draudimo našlaičių pensiją, valstybinę našlaičių pensiją už mirusį kitą iš tėvų (įtėvių) ar vienišo asmens išmoką. 
+2. Asmeniui, turinčiam teisę gauti šalpos našlaičių pensiją, ši pensija skiriama ir mokama, nors šis asmuo turi teisę gauti socialinio draudimo netekto darbingumo (invalidumo) pensiją, socialinio draudimo senatvės pensiją, socialinio draudimo senatvės pensiją neįgaliajam, socialinio draudimo našlaičių pensiją, valstybinę našlaičių pensiją už mirusį kitą iš tėvų (įtėvių) ar vienišo asmens išmoką.
 Straipsnio dalies pakeitimai:
 Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
+Nr. XIV-230, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07272
+Nr. XIV-354, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13157
  
 
 
@@ -682,9 +684,10 @@ Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
 
 
 
-6. Asmenims, turintiems teisę gauti šalpos neįgalumo pensiją ir šalpos senatvės pensiją arba šalpos neįgalumo ar senatvės pensiją ir šalpos kompensaciją, jų pasirinkimu mokama tik viena iš šių šalpos išmokų. Kai šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodyti asmenys, kuriems yra skiriamos ir mokamos šalpos neįgalumo pensijos, sukanka senatvės pensijos amžių, be atskiro jų prašymo jiems yra skiriama ir mokama atitinkamai šio įstatymo 8 straipsnio 5 dalies 1 ir 2 punktuose nurodyto dydžio šalpos senatvės pensija. 
+6. Asmenims, turintiems teisę gauti šalpos neįgalumo pensiją ir šalpos senatvės pensiją arba šalpos neįgalumo ar šalpos senatvės pensiją ir šalpos kompensaciją, jų pasirinkimu mokama tik viena iš šių šalpos išmokų. Kai šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodyti asmenys, kuriems yra skiriamos ir mokamos šalpos neįgalumo pensijos, sukanka senatvės pensijos amžių, be atskiro jų prašymo jiems yra skiriama ir mokama atitinkamai šio įstatymo 8 straipsnio 5 dalies 1 ir 2 punktuose nurodyto dydžio šalpos senatvės pensija. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+Nr. XIV-230, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07272
  
 
 
@@ -738,9 +741,11 @@ Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
 
 
 
-13. Asmeniui, kuriam paskirta šalpos išmoka, įgijus teisę gauti pensiją ar pensijų išmoką, kuri (jeigu asmuo įgijo teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, išskyrus šio įstatymo 7 straipsnio 1 dalies 1 ir 2 punktuose nustatytus atvejus, šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį jam paskirta pensija ar pensijų išmoka, kuri (jeigu asmeniui paskirta daugiau negu viena pensija ar pensijų išmoka – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, pirmos dienos, išskyrus šio straipsnio 151 dalies 1 punkte nustatytą atvejį, kai šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį gauta informacija ir (ar) duomenys apie užsienio valstybių pensijas ir pensijų išmokas. Asmeniui, gaunančiam pensiją ar pensijų išmoką, kuri (jeigu asmuo gauna daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra mažesnė už šalpos neįgalumo, šalpos senatvės pensiją, šalpos našlaičių pensiją ar šalpos kompensaciją arba bendrą jų sumą, jeigu asmuo gauna daugiau negu vieną iš šių šalpos išmokų, šios šalpos išmokos skiriamos ir mokamos nuo tos dienos, nuo kurios nutrauktas pensijos ar pensijų išmokos mokėjimas, išskyrus šio straipsnio 131 dalyje nustatytą atvejį.
+13. Asmeniui, kuriam paskirta šalpos išmoka, įgijus teisę gauti pensiją ar pensijų išmoką, kuri (jeigu asmuo įgijo teisę gauti daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, išskyrus šio įstatymo 7 straipsnio 1 dalies 1 ir 2 punktuose, 10 straipsnio 2 dalyje nustatytus atvejus, šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį jam paskirta pensija ar pensijų išmoka, kuri (jeigu asmeniui paskirta daugiau negu viena pensija ar pensijų išmoka – bendra jų suma) yra didesnė arba tokio paties dydžio kaip šalpos išmoka, pirmos dienos, išskyrus šio straipsnio 151  dalies 1 punkte nustatytą atvejį, kai šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio, einančio po mėnesio, kurį gauta informacija ir (ar) duomenys apie užsienio valstybių pensijas ir pensijų išmokas. Asmeniui, gaunančiam pensiją  ar pensijų išmoką, kuri (jeigu asmuo gauna daugiau negu vieną pensiją ar pensijų išmoką – bendra jų suma) yra mažesnė už šalpos neįgalumo, šalpos senatvės pensiją, šalpos našlaičių pensiją ar šalpos kompensaciją arba bendrą jų sumą, jeigu asmuo gauna daugiau negu vieną iš šių šalpos išmokų, šios šalpos išmokos skiriamos ir mokamos nuo tos dienos, nuo kurios nutrauktas pensijos ar pensijų išmokos mokėjimas, išskyrus šio straipsnio 131 dalyje ir šio įstatymo 10 straipsnio 2 dalyje nustatytus atvejus.
 Straipsnio dalies pakeitimai:
 Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
+Nr. XIV-230, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07272
+Nr. XIV-480, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15859
  
 
 
@@ -1224,7 +1229,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
  
 
@@ -1379,3 +1384,18 @@ Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 7, 10, 13 ir 22-1 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 7, 10, 13, 15 ir 22 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-230, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07272
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 10 ir 15 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-354, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13157
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 10 ir 15 straipsnių pakeitimo įstatymo Nr. XIV-230 1 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-480, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15859
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 10 ir 15 straipsnių pakeitimo įstatymo Nr. XIV-230 2 straipsnio pakeitimo įstatymas
