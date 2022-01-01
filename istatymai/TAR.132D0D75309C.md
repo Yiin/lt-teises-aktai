@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2020-10-14 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -562,6 +562,12 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 
 7. Įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
 
+71. Socialinės atsakomybės ataskaitoje taip pat pateikiama Reglamento (ES) 2020/852 8 straipsnyje nurodyta informacija.
+TAR pastaba. 71  dalis taikoma rengiant 2022 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių įmonių metinius pranešimus.
+Papildyta straipsnio dalimi:
+Nr. XIV-807, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27385
+ 
+
 8. Įmonė, kuri parengia atskirą ataskaitą, kurioje pateikiama socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira socialinės atsakomybės ataskaita), gali neįtraukti socialinės atsakomybės ataskaitos į metinį pranešimą, kaip reikalaujama šio įstatymo 23 straipsnio 4 dalyje, jeigu atskira socialinės atsakomybės ataskaita praėjus ne ilgesniam kaip trijų mėnesių laikotarpiui po paskutinės finansinių metų dienos skelbiama viešai įmonės interneto svetainėje, o metiniame pranešime pateikiama nuoroda į ją.
 
 9. Jeigu įmonė pateikė socialinės atsakomybės ataskaitą arba atskirą socialinės atsakomybės ataskaitą, laikoma, kad ji pateikė ir šio įstatymo 23 straipsnio 2 dalies 2 punkte nurodytą nefinansinę informaciją.
@@ -808,4 +814,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3316, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21255
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 3, 16, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-807, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27385
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 23-2 straipsnio pakeitimo įstatymas
 
