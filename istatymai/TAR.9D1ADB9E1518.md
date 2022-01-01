@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2021-11-13 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -210,7 +210,10 @@ Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 
 
 
-14. Pakuočių atliekų tvarkymo organizavimo sutartis – trišalė sutartis tarp savivaldybės (arba tarp savivaldybės (kelių savivaldybių) įsteigto juridinio asmens, kuriam pavesta administruoti komunalinių atliekų tvarkymo sistemą) ir gamintojų ir importuotojų organizacijos, ir atliekų tvarkytojo dėl pakuočių atliekų rūšiuojamojo surinkimo, vežimo, perdirbimo, naudojimo. Pakuočių atliekų tvarkymo organizavimo sutartyje turi būti nurodyta: sutarties sudarymo, įsigaliojimo ir nutraukimo tvarka; infrastruktūros plėtros ir naudojimo sąlygos; paslaugų teikimo tvarka ir sąlygos; kainos nustatymo tvarka; atsiskaitymo tvarka; šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą; pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka; sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka. Pavyzdinę sutarties formą tvirtina Vyriausybė arba jos įgaliota institucija.
+14. Pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartis – daugiašalė sutartis tarp savivaldybės (arba savivaldybės pavedimu – komunalinių atliekų tvarkymo sistemos administratoriaus), jos Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka parinkto pakuočių atliekų tvarkytojo ir gamintojų ir importuotojų organizacijų dėl pakuočių atliekų rūšiuojamojo surinkimo ir vežimo, pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros, jos įrengimo, atnaujinimo, priežiūros ir plėtros, šių paslaugų ir veiklų administravimo ir finansavimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -565,7 +568,10 @@ Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 
 
 
-2) organizuoti rūšiuojamąjį surinkimą, vežimą, paruošimą naudoti, naudojimą visų pakuočių atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektus Lietuvos Respublikos vidaus rinkai supakuotus gaminius, ir (ar) dalyvauti organizuojant tokių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose ir, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių vienkartinę pakuotę pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, dalyvauti užstato už vienkartines pakuotes sistemoje;
+2) organizuoti rūšiuojamąjį surinkimą, vežimą, paruošimą naudoti, įskaitant pradinį apdorojimą, naudojimą visų pakuočių atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektus Lietuvos Respublikos vidaus rinkai supakuotus gaminius, ir, jeigu Lietuvos Respublikos vidaus rinkai tiekia supakuotus gaminius juos perleisdami kitiems asmenims Lietuvos Respublikos teritorijoje, dalyvauti organizuojant tokių pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, ir, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių vienkartinę pakuotę pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, dalyvauti užstato už vienkartines pakuotes sistemoje, ir, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių daugkartines pakuotes pagal šio įstatymo 11 straipsnio 1 dalį nustatytas užstatas, dalyvauti užstato už daugkartines pakuotes sistemoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -575,7 +581,10 @@ Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 
 
 
-4) apmokėti šios dalies 2 punkte nurodyto pakuočių atliekų surinkimo, vežimo, paruošimo naudoti ir naudojimo išlaidas ir (ar) dalyvavimo užstato už vienkartines pakuotes sistemoje išlaidas, susijusias su užstato sistemoje surenkamų vienkartinių pakuočių atliekų sutvarkymu ir užstato už vienkartines pakuotes sistemos administravimu, taip pat šios dalies 3 punkte nurodyto visuomenės informavimo organizavimo ir vykdymo išlaidas;
+4) apmokėti šios dalies 2 punkte nurodyto pakuočių atliekų rūšiuojamojo surinkimo, vežimo, paruošimo naudoti, įskaitant pradinį apdorojimą, ir naudojimo išlaidas ir, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių vienkartinę pakuotę pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, dalyvavimo užstato už vienkartines pakuotes sistemoje išlaidas, susijusias su užstato sistemoje surenkamų vienkartinių pakuočių atliekų sutvarkymu ir užstato už vienkartines pakuotes sistemos administravimu, ir, jeigu tiekia Lietuvos Respublikos vidaus rinkai gaminius, už kurių daugkartinę pakuotę pagal šio įstatymo 11 straipsnio 1 dalį nustatytas užstatas, dalyvavimo užstato už daugkartines pakuotes sistemoje išlaidas, susijusias su daugkartinių pakuočių surinkimu užstato sistemoje, taip pat šios dalies 3 punkte nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -816,32 +825,62 @@ Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 
 
 
-3. Pakuočių atliekų tvarkymo organizavimo licencija gali būti išduodama tik tai organizacijai, kuriai organizuoti pakuočių atliekų tvarkymą kaip jos dalyviai ar sutartiniais pagrindais pavedė ne mažiau kaip 10 procentų visų Lietuvos Respublikos vidaus rinkai tiekiamų pakuočių tiekiantys gamintojai ir importuotojai. Organizacija, gavusi licenciją ir sudariusi visas šio straipsnio 4 dalies 1 ir 2 punktuose numatytas sutartis, gamintojų ir importuotojų pareigas, nurodytas šio įstatymo 7 straipsnio 1 dalies 2, 3 ir 4 punktuose, gali pradėti vykdyti nuo kalendorinių metų sausio 1 dienos.
+3. Pakuočių atliekų tvarkymo organizavimo licencija gali būti išduodama tik tai organizacijai, kuriai organizuoti pakuočių atliekų tvarkymą kaip jos dalyviai pavedė ne mažiau kaip 5 procentus visų Lietuvos Respublikos vidaus rinkai tiekiamų vienkartinių pakuočių tiekiantys gamintojai ir importuotojai. Organizacija, gavusi licenciją ir sudariusi visas šio straipsnio 4 dalies 1 ir 2 punktuose numatytas sutartis, gamintojų ir importuotojų pareigas, nurodytas šio įstatymo 7 straipsnio 1 dalies 2, 3 ir 4 punktuose, gali pradėti vykdyti nuo kalendorinių metų sausio 1 dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
 
-4. Siekdama įvykdyti šio įstatymo 7 straipsnio 1 dalies 2 punkte gamintojams ir importuotojams nustatytą pareigą, organizacija privalo sudaryti sutartis: 
+4. Siekdama įvykdyti šio įstatymo 7 straipsnio 1 dalies 2 punkte gamintojams ir importuotojams nustatytą pareigą, organizacija privalo sudaryti šias sutartis:
 
 
-1) su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl bendradarbiavimo organizuojant komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamąjį surinkimą, vežimą ir paruošimą naudoti. Šiose sutartyse turi būti numatyta bendradarbiavimo eksploatuojant komunalinių atliekų sraute susidarančių pakuočių atliekų surinkimo sistemą, šviečiant ir informuojant gyventojus pakuočių atliekų tvarkymo klausimais sąlygos, komunalinių atliekų sraute susidarančių pakuočių atliekų surinkimo sistemos infrastruktūros plėtros finansavimo tvarka, komunalinių atliekų sraute susidarančių pakuočių atliekų surinkėjų parinkimo tvarka;
-
-
-
-
-2) ne vėliau kaip iki einamųjų kalendorinių metų I ketvirčio pabaigos pakuočių atliekų tvarkymo organizavimo sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) ir pagal šios dalies 1 punkte nurodytose sutartyse nustatytą tvarką parinktais atliekų surinkėjais dėl komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo, paruošimo naudoti ir naudojimo. Šiose sutartyse turi būti numatyta komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo, paruošimo naudoti, naudojimo finansavimo (išlaidų apmokėjimo) tvarka, pakuočių atliekų sutvarkymą patvirtinančių dokumentų pateikimo tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka. Esant daugiau nei vienai organizacijai, šiame punkte nurodytos sutartys pasirašomos vienodomis sąlygomis;
+1) bendradarbiavimo sutartis su visomis savivaldybėmis dėl komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros plėtros ir jos finansavimo (jeigu planuojama aplinkos ministro nustatytus būtinuosius reikalavimus, nurodytus šios dalies 2 punkte, viršijanti komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros plėtra) ir bendradarbiavimo šviečiant ir informuojant visuomenę pakuočių atliekų tvarkymo klausimais. Šiose sutartyse turi būti numatyta bendradarbiavimo šviečiant ir informuojant visuomenę pakuočių atliekų tvarkymo klausimais sąlygos, komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros plėtros ir jos finansavimo tvarka (jeigu planuojama aplinkos ministro nustatytus būtinuosius reikalavimus, nurodytus šios dalies 2 punkte, viršijanti komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros plėtra);
 
 
 
 
-3) su pagal aplinkos ministro nustatytą tvarką organizacijos išrinktais pakuočių atliekų surinkėjais dėl ne komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo, paruošimo naudoti, naudojimo arba su pagal aplinkos ministro nustatytą tvarką organizacijos išrinktais pakuočių atliekų surinkėjais dėl ne komunalinių atliekų sraute susidarančių pakuočių atliekų surinkimo, vežimo, paruošimo naudoti ir pakuočių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti pakuočių atliekų panaudojimo (taip, kad būtų užtikrintas pakuočių atliekų rūšiuojamasis surinkimas, vežimas ir paruošimas naudoti visose Lietuvos Respublikos savivaldybėse). Šiose sutartyse turi būti numatyta apmokėjimo už ne komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamąjį surinkimą, vežimą, paruošimą naudoti, naudojimą tvarka, ne komunalinių atliekų sraute susidarančių pakuočių atliekų sutvarkymą patvirtinančių dokumentų pateikimo tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
+2) savivaldybėms (arba savivaldybių pavedimu – komunalinių atliekų tvarkymo sistemos administratoriams) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka pagal būtinuosius reikalavimus, taikomus pakuočių atliekų, susidarančių komunalinių atliekų sraute, rūšiuojamojo surinkimo ir vežimo paslaugos teikimui, pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūrai, jos įrengimui, atnaujinimui, priežiūrai, plėtrai ir šių paslaugų ir veiklų administravimui, parinkus pakuočių atliekų tvarkytojus, kurie teiks komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo ir vežimo šios dalies 3 punkte nurodytiems pakuočių atliekų tvarkytojams paslaugą, pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartis su visomis tokius pakuočių atliekų tvarkytojus parinkusiomis savivaldybėmis (arba savivaldybių pavedimu – su komunalinių atliekų tvarkymo sistemos administratoriais) ir jų parinktais pakuočių atliekų tvarkytojais. Būtinuosius reikalavimus komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo ir vežimo paslaugos teikimui, pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūrai, jos įrengimui, priežiūrai, atnaujinimui ir plėtrai (įskaitant reikalavimus rūšiuojamojo surinkimo priemonių tipui, dydžiui, išdėstymo tankiui, žymėjimui, identifikacinės sistemos diegimui, ištuštinimo dažniui) ir šių veiklų finansavimo tvarkai, šių paslaugų ir veiklų administravimui ir jo išlaidų apmokėjimo tvarkai (toliau – būtinieji reikalavimai) ir būtinąsias pakuočių atliekų tvarkymo organizavimo ir finansavimo sutarties sąlygas tvirtina aplinkos ministras. Esant daugiau kaip vienai organizacijai, visos organizacijos pasirašo vieną bendrą pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartį su savivaldybe (arba savivaldybės pavedimu – su komunalinių atliekų tvarkymo sistemos administratoriumi) ir kiekvienu savivaldybės (arba savivaldybės pavedimu – komunalinių atliekų tvarkymo sistemos administratoriaus) parinktu pakuočių atliekų tvarkytoju. Jeigu organizacija per vieną kalendorinį mėnesį nuo dienos, kai savivaldybė (arba savivaldybės pavedimu – komunalinių atliekų tvarkymo sistemos administratorius) ją informavo apie savivaldybės (arba savivaldybės pavedimu – komunalinių atliekų tvarkymo sistemos administratoriaus) šiame punkte nustatyta tvarka parinktus pakuočių atliekų tvarkytojus, nepasirašo pakuočių atliekų tvarkymo organizavimo ir finansavimo sutarties ar, pasirašiusi šią sutartį, nevykdo šioje sutartyje numatyto įsipareigojimo finansuoti pakuočių atliekų rūšiuojamojo surinkimo sistemos veikimą pagal aplinkos ministro nustatytus būtinuosius reikalavimus, pakuočių atliekų rūšiuojamojo surinkimo sistemos veikimas pagal aplinkos ministro nustatytus būtinuosius reikalavimus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka finansuojamas iš lėšų, gautų pagal šio straipsnio 51 dalyje nurodytus finansavimo dokumentus;
 
 
 
 
+3) su organizacijos pagal aplinkos ministro nustatytą tvarką parinktais pakuočių atliekų tvarkytojais dėl komunalinių atliekų sraute susidarančių pakuočių atliekų, rūšiuojamojo surinkimo būdu surinktų savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, paruošimo naudoti, įskaitant pradinį apdorojimą, naudojimo. Esant daugiau kaip vienai organizacijai, visos organizacijos kartu parenka pagal aplinkos ministro nustatytą tvarką šiame punkte nurodytus pakuočių atliekų tvarkytojus ir su kiekvienu parinktu pakuočių atliekų tvarkytoju pasirašo vieną bendrą sutartį. Šiose sutartyse turi būti numatyta apmokėjimo už komunalinių atliekų sraute susidarančių pakuočių atliekų, rūšiuojamojo surinkimo būdu surinktų savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, paruošimą naudoti, įskaitant pradinį apdorojimą, naudojimą tvarka, komunalinių atliekų sraute susidarančių pakuočių atliekų sutvarkymą įrodančių dokumentų pateikimo tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka. Jeigu organizacija, pasirašiusi šiame punkte nurodytas sutartis, nevykdo šiose sutartyse numatyto įsipareigojimo apmokėti komunalinių atliekų sraute susidarančių pakuočių atliekų, rūšiuojamojo surinkimo būdu surinktų savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, paruošimo naudoti, įskaitant pradinį apdorojimą, naudojimo išlaidas, tokių pakuočių atliekų, rūšiuojamojo surinkimo būdu surinktų savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, paruošimo naudoti, įskaitant pradinį apdorojimą, naudojimo išlaidos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos iš lėšų, gautų pagal šio straipsnio 51 dalyje nurodytus finansavimo dokumentus;
 
 
-5. Organizacija šio straipsnio 4 dalies 2 punkte nurodytas išlaidas ir komunalinių atliekų sraute susidarančių pakuočių atliekų surinkimo sistemos infrastruktūros plėtrą turi finansuoti proporcingai jos dalyvių ir organizuoti pakuočių atliekų tvarkymą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus rinkai tiektiems gaminiams supakuoti panaudotų pakuočių kiekį.
+
+
+4) su organizacijos pagal aplinkos ministro nustatytą tvarką parinktais pakuočių atliekų tvarkytojais dėl nekomunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo, surinktų pakuočių atliekų paruošimo naudoti, įskaitant pradinį apdorojimą, naudojimo (taip, kad visų Lietuvos Respublikos savivaldybių teritorijose būtų užtikrintas pakuočių atliekų rūšiuojamasis surinkimas, vežimas, surinktų pakuočių atliekų paruošimas naudoti, įskaitant pradinį apdorojimą). Šiose sutartyse turi būti numatyta apmokėjimo už nekomunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamąjį surinkimą, vežimą, surinktų pakuočių atliekų paruošimą naudoti, įskaitant pradinį apdorojimą, naudojimą tvarka, nekomunalinių atliekų sraute susidarančių pakuočių atliekų sutvarkymą įrodančių dokumentų pateikimo tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
+
+
+
+
+41. Organizacija privalo šio straipsnio 4 dalies 1 punkte nurodytose bendradarbiavimo su savivaldybėmis sutartyse nustatyta tvarka finansuoti komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros plėtrą (jeigu planuojama aplinkos ministro nustatytus būtinuosius reikalavimus, nurodytus šio straipsnio 4 dalies 2 punkte, viršijanti komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros plėtra) arba šio straipsnio 4 dalies 2 punkte nurodytose pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartyse nustatyta tvarka finansuoti komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūrą, jos įrengimą, priežiūrą, atnaujinimą ir plėtrą, šių paslaugų ir veiklų administravimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
+
+
+
+
+5. Organizacija šio straipsnio 4 dalies 2 ir 3 punktuose nurodytas išlaidas ir komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūrą, jos įrengimą, priežiūrą, atnaujinimą, plėtrą ir komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo ir vežimo paslaugų teikimą, šių paslaugų ir veiklų administravimą turi finansuoti proporcingai jos dalyvių ir organizuoti pakuočių atliekų tvarkymą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus rinkai tiektiems gaminiams supakuoti panaudotų pakuočių kiekį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
+
+
+
+
+51. Organizacija privalo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais licencijas išduodančiai institucijai pateikti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad bus finansuojamas komunalinių atliekų sraute susidarančių pakuočių atliekų tvarkymas, įskaitant pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūrą, jos įrengimą, atnaujinimą, priežiūrą ir plėtrą, šių paslaugų ir veiklų administravimą, sumai, lygiai 1/4 komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamajam surinkimui, vežimui, paruošimui naudoti, įskaitant pradinį apdorojimą, ir naudojimui bei Vyriausybės nustatytų pakuočių atliekų tvarkymo užduočių vykdymui skirtos lėšų sumos, nurodytos organizacijos metinėje ataskaitoje apie praėjusių ataskaitinių metų atliekų tvarkymo veiklos organizavimo plano vykdymą ir atliekų tvarkymo finansavimo schemoje ir visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programoje numatytų priemonių įgyvendinimą. Tokių dokumentų sudarymo, pateikimo ir jų reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -882,6 +921,14 @@ Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 
 
 9. Organizacijos atstovai į kontrolės tarybą skiriami organizacijos valdymo organų sprendimu. Organizacijos valdymo organas atstovus į kontrolės tarybą paskiria ne ilgesnei negu trejų metų kadencijai, užtikrindamas galimybę kiekvienam organizacijos dalyviui tapti kontrolės tarybos nariu. Tas pats asmuo negali eiti pareigų dvi kadencijas iš eilės.
+
+
+
+
+10. Organizacija, nustatydama įmokų už pakuočių atliekų tvarkymą, kurias organizacijai turi mokėti organizacijos nariai ir pavedimo davėjai (toliau – organizacijos įkainiai), dydžius, privalo juos diferencijuoti atsižvelgdama į pakuotėms pagaminti naudotų medžiagų rūšis, kurioms Vyriausybė ar jos įgaliota institucija nustatė pakuočių atliekų tvarkymo užduotis, ir į atitinkamos pakuočių rūšies tinkamumą pakartotinai naudoti ir perdirbti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 Straipsnio pakeitimai:
