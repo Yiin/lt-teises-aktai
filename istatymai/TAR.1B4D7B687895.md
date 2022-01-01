@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2020-12-30 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -242,9 +242,10 @@ Nr. XIV-111, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28967
 
 
 
-2) atlieka finansų rinkos priežiūrą, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63) (toliau – Reglamentas (ES) Nr. 1024/2013), nuostatas šias funkcijas atlieka Europos centrinis bankas, taip pat pagal Reglamentą (ES) Nr. 1024/2013 nacionalinei priežiūros institucijai priskirtas funkcijas;
+2) atlieka finansų rinkos priežiūrą, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas šias funkcijas atlieka Europos Centrinis Bankas, taip pat pagal Reglamentą (ES) Nr. 1024/2013 nacionalinei priežiūros institucijai priskirtas funkcijas;
 Straipsnio punkto pakeitimai:
 Nr. XII-1691, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07667
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -278,9 +279,11 @@ Nr. XIII-2836, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06995
 
 
 
-8) vykdo Lietuvos Respublikos įstatymais finansų sektoriaus subjektų pertvarkymo institucijai priskirtas funkcijas, išskyrus atvejus, kai pagal 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (OL 2014 L 225, p. 1) (toliau – Reglamentas (ES) Nr. 806/2014) nuostatas šias funkcijas atlieka Bendra pertvarkymo valdyba, taip pat pagal Reglamentą (ES) Nr. 806/2014 atlieka nacionalinei pertvarkymo institucijai priskirtas funkcijas.
+8) atlieka Lietuvos Respublikos įstatymais finansų sektoriaus subjektų pertvarkymo institucijai priskirtas funkcijas, išskyrus atvejus, kai pagal 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (su visais pakeitimais), nuostatas šias funkcijas atlieka Bendra pertvarkymo valdyba, taip pat pagal Reglamentą (ES) Nr. 806/2014 atlieka nacionalinei pertvarkymo institucijai priskirtas funkcijas.
 Papildyta straipsnio punktu:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
+Straipsnio punkto pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -455,9 +458,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-14) vadovaudamasi Finansinio tvarumo įstatymo nuostatomis priima sprendimus dėl finansų sektoriaus subjektų pertvarkymo, kreipiasi į teismą dėl bankroto bylų iškėlimo prižiūrimiems finansų rinkos dalyviams;
+14) vadovaudamasi Finansinio tvarumo įstatymo, kitų Lietuvos Respublikos teisės aktų ir taikytinų Europos Sąjungos teisės aktų nuostatomis, priima sprendimus dėl finansų sektoriaus subjektų pertvarkymo planų tvirtinimo, minimalaus nuosavų lėšų ir tinkamų įsipareigojimų dydžio reikalavimo nustatymo, kapitalo priemonių ir tinkamų įsipareigojimų nurašymo ir (arba) konvertavimo atskirai nuo pertvarkymo veiksmų, pertvarkymo, Bendros pertvarkymo valdybos sprendimų įgyvendinimo ir kitus su finansų sektoriaus subjektų pertvarkymo institucijai priskirtų funkcijų atlikimu susijusius sprendimus, kreipiasi į teismą dėl bankroto bylų iškėlimo prižiūrimiems finansų rinkos dalyviams;
 Straipsnio punkto pakeitimai:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -1341,10 +1345,11 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, pensijų anuitetų mokėtojas, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai. 
+1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, pensijų anuitetų mokėtojas, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos, valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -1382,9 +1387,10 @@ Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 
 
 
-6) atlieka Lietuvos Respublikos finansų įstaigų įstatymo, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo, Lietuvos Respublikos mokėjimų įstatymo, Lietuvos Respublikos vartotojų teisių apsaugos įstatymo ir kitų įstatymų Lietuvos bankui priskirtas funkcijas; 
+6) atlieka Lietuvos Respublikos finansų įstaigų įstatymo, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo, Lietuvos Respublikos mokėjimų įstatymo, Lietuvos Respublikos vartotojų teisių apsaugos įstatymo ir kitų įstatymų Lietuvos bankui priskirtas funkcijas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -1429,9 +1435,17 @@ Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
 
 
 
-14) atlieka pensijų anuitetų mokėtojo vykdomos pensijų anuitetų mokėjimo veiklos priežiūrą ir kitas Lietuvos Respublikos pensijų kaupimo įstatyme Lietuvos bankui priskirtas funkcijas. 
+14) atlieka pensijų anuitetų mokėtojo vykdomos pensijų anuitetų mokėjimo veiklos priežiūrą ir kitas Lietuvos Respublikos pensijų kaupimo įstatyme Lietuvos bankui priskirtas funkcijas;
 Papildyta straipsnio punktu:
 Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
+ 
+
+
+
+
+15) atlieka mišrios veiklos finansų kontroliuojančiųjų įmonių, įsteigtų Lietuvos Respublikoje, finansų kontroliuojančiųjų bendrovių, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitas Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Lietuvos bankui priskirtas funkcijas.
+Papildyta straipsnio punktu:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -1795,7 +1809,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-6. Lietuvos bankas turi teisę viešai paskelbti savo teisės aktų arba 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12) (toliau – Reglamentas (ES) Nr. 1093/2010), 32 straipsnyje nustatyta tvarka atlikto testavimo nepalankiausiomis sąlygomis rezultatus ir perduoti juos Europos bankininkystės institucijai. 
+6. Lietuvos bankas turi teisę viešai paskelbti savo teisės aktų arba 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (su visais pakeitimais), 32 straipsnyje nustatyta tvarka atlikto testavimo nepalankiausiomis sąlygomis rezultatus ir perduoti juos Europos bankininkystės institucijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
@@ -1846,17 +1863,26 @@ Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
 
 
 
-9) Europos vertybinių popierių ir rinkų institucijai, kaip numatyta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84);
+9) Europos vertybinių popierių ir rinkų institucijai, kaip numatyta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (su visais pakeitimais);
+Straipsnio punkto pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
 
-10) Europos draudimo ir profesinių pensijų institucijai, kaip nustatyta Lietuvos Respublikos draudimo įstatyme ir 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48);
+10) Europos draudimo ir profesinių pensijų institucijai, kaip nustatyta Lietuvos Respublikos draudimo įstatyme ir 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (su visais pakeitimais);
+Straipsnio punkto pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
 
-11) Europos sisteminės rizikos valdybai, kai ši informacija reikšminga jos funkcijoms, vykdomoms pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1), atlikti, o kritinėmis situacijomis – nedelsiant;
+11) Europos sisteminės rizikos valdybai, kai ši informacija reikšminga jos funkcijoms, vykdomoms pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (su visais pakeitimais), atlikti, o kritinėmis situacijomis – nedelsiant;
+Straipsnio punkto pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
@@ -1866,7 +1892,10 @@ Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
 
 
 
-13) centrinėms kredito unijoms, taip pat sutartinėms arba institucinėms užtikrinimo sistemoms, nurodytoms 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) 113 straipsnio 7 dalyje, jeigu ji reikalinga jų funkcijoms atlikti; 
+13) centrinėms kredito unijoms, taip pat sutartinėms arba institucinėms užtikrinimo sistemoms, nurodytoms 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (su visais pakeitimais) 113 straipsnio 7 dalyje, jeigu ji reikalinga jų funkcijoms atlikti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
@@ -1876,9 +1905,10 @@ Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
 
 
 
-15) kritinėmis situacijomis, kaip nustatyta Lietuvos Respublikos bankų įstatymo 59 straipsnio 8 dalyje ir 701 straipsnio 5 dalyje, Lietuvos Respublikos finansų ministerijai ir kitų Europos Sąjungos valstybių narių centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su pensijų asociacijų, kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, jeigu ji reikalinga jų funkcijoms atlikti; 
+15) kritinėmis situacijomis, kaip nustatyta Lietuvos Respublikos bankų įstatymo 59 straipsnio 10 dalyje ir 701 straipsnio 5 dalyje, Lietuvos Respublikos finansų ministerijai ir kitų Europos Sąjungos valstybių narių centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su pensijų asociacijų, kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, jeigu ji reikalinga jų funkcijoms atlikti;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -1897,14 +1927,41 @@ Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 
 
-18) kitoms valstybės institucijoms, jeigu ši informacija reikalinga jų funkcijoms atlikti ir jeigu tai būtina dėl finansų rinkos priežiūros, pažeidimų prevencijos arba prižiūrimų finansų rinkos dalyvių pertvarkymo. 
+18) kitoms valstybės institucijoms, jeigu ši informacija reikalinga jų funkcijoms atlikti ir jeigu tai būtina dėl finansų rinkos priežiūros, pažeidimų prevencijos arba prižiūrimų finansų rinkos dalyvių pertvarkymo;
+
+
+
+
+19) Tarptautiniam valiutos fondui ir Pasaulio bankui, jeigu ji reikalinga konkrečioms jų funkcijoms, susijusioms su finansų sektoriaus vertinimo programai parengti atliekamais vertinimais, atlikti;
+Papildyta straipsnio punktu:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
+
+
+
+
+20) Tarptautinių atsiskaitymų bankui, jeigu ji reikalinga konkrečioms jo funkcijoms, susijusioms su kiekybiniais poveikio tyrimais, atlikti;
+Papildyta straipsnio punktu:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
+
+
+
+
+21) Finansinio stabilumo tarybai, jeigu ji reikalinga jos vykdomai priežiūrai atlikti. 
+Papildyta straipsnio punktu:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
 
 
 
-8. Šio straipsnio 7 dalies 3–7, 12, 14, 16, 17 ir 18 punktuose nurodytoms institucijoms priežiūros tikslais gauta informacija gali būti perduodama, jeigu joms taikomi reikalavimai saugoti informaciją yra ne mažesni, negu nustatyta šiame įstatyme. 
+8. Šio straipsnio 7 dalies 3–7, 12, 14, 16–21 punktuose nurodytoms institucijoms priežiūros tikslais gauta informacija gali būti perduodama, jeigu joms taikomi reikalavimai saugoti informaciją yra ne mažesni, negu nustatyta šiame įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
@@ -1914,21 +1971,38 @@ Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 
 
 
-10. Priežiūros tikslais iš užsienio valstybės, kuri yra Europos Sąjungos valstybė narė, finansinių paslaugų teikimo veiklos, draudimo veiklos ir finansų rinkų priežiūros institucijos gauta informacija arba informacija, gauta kitoje Europos Sąjungos valstybėje narėje atlikto patikrinimo metu, gali būti perduota pagal šio straipsnio 7 dalies 3, 5, 12, 13, 15, 16, 17 ir 18 punktus arba šio straipsnio 9 dalį, jeigu yra gautas informaciją pateikusios institucijos arba Europos Sąjungos valstybės narės, kurioje buvo atliktas patikrinimas, priežiūros institucijos sutikimas, ir tik tam tikslui, dėl kurio duotas sutikimas. 
+10. Pagal šio straipsnio 7 dalies 19–21 punktus informacija perduodama tik pateikus prašymą, kuriame prašymą teikianti įstaiga nurodo konkrečias užduotis, kurioms atlikti pagal teisės aktais nustatytus įgaliojimus būtina prašoma informacija. Prašyme turi būti tiksliai nurodyta prašoma informacija ir jos atskleidimo ar perdavimo būdas. Informacija perduodama tik prašymą pateikusios įstaigos nurodytiems asmenims, kurie atlieka su prašymą pateikusios įstaigos įgaliojimais tiesiogiai susijusias funkcijas. Informacija, iš kurios tiesiogiai ar netiesiogiai galima nustatyti konkrečių asmens duomenų, gali būti teikiama tik Lietuvos banko patalpose. 
+Papildyta straipsnio dalimi:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
 
-11. Jeigu priežiūros tikslais gautą informaciją sudaro asmens duomenys, Lietuvos bankas ir kiti asmenys, kuriems ši informacija perduota, juos tvarko asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka.
+11. Priežiūros tikslais iš užsienio valstybės, kuri yra Europos Sąjungos valstybė narė, finansinių paslaugų teikimo veiklos, draudimo veiklos ir finansų rinkų priežiūros institucijos gauta informacija arba informacija, gauta kitoje Europos Sąjungos valstybėje narėje atlikto patikrinimo metu, gali būti perduota pagal šio straipsnio 7 dalies 3, 5, 12, 13, 15, 16–21 punktus arba šio straipsnio 9 dalį, jeigu yra gautas informaciją pateikusios institucijos arba Europos Sąjungos valstybės narės, kurioje buvo atliktas patikrinimas, priežiūros institucijos sutikimas, ir tik tam tikslui, dėl kurio duotas sutikimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
 
-12. Šio straipsnio nuostatos mutatis mutandis taikomos ir informacijai, gautai informavimo ar statistikos tikslais pagal Bankų įstatymo 70 straipsnio 1 ir 2 dalis. 
+12. Jeigu priežiūros tikslais gautą informaciją sudaro asmens duomenys, Lietuvos bankas ir kiti asmenys, kuriems ši informacija perduota, juos tvarko asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
+
+
+
+
+13. Šio straipsnio nuostatos mutatis mutandis taikomos ir informacijai, gautai informavimo ar statistikos tikslais pagal Bankų įstatymo 70 straipsnio 1 ir 2 dalis. 
 Straipsnio pakeitimai:
 Nr. IX-2069, 2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
 Nr. XI-557, 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
 Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 Straipsnio pakeitimai:
@@ -1990,17 +2064,34 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-5. Motyvuotu asmens, kuriam duotas privalomas nurodymas, prašymu Lietuvos bankas turi teisę privalomo nurodymo įvykdymo terminą atidėti, jeigu įvykdyti duoto privalomo nurodymo laiku asmuo negali dėl objektyvių priežasčių ir Lietuvos bankui yra pateikti tai pagrindžiantys įrodymai.
+5. Lietuvos banko sprendimas duoti privalomus nurodymus turi būti motyvuotas ir grindžiamas tik tais įrodymais, su kuriais asmuo, kuriam duodamas privalomas nurodymas, turėjo galimybę susipažinti šio straipsnio 2 dalyje nustatyta tvarka. Lietuvos banko sprendime turi būti nurodytas jo priėmimo teisinis pagrindas, faktiniai duomenys, sudarantys privalomų nurodymų davimo pagrindus, asmens, kuriam duodamas privalomas nurodymas, paaiškinimai ir jų vertinimas, sprendimo apskundimo tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
 
-6. Privalomas nurodymas, kuris taikomas laikinai, taikomas iki Lietuvos banko sprendime dėl privalomo nurodymo davimo nurodyto termino, kuris gali būti nurodytas kaip konkreti data, laiko tarpas arba susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent Lietuvos bankas priima sprendimą jį atšaukti prieš nustatytą terminą. Lietuvos bankas nedelsdamas, ne vėliau kaip per 5 darbo dienas nuo tos dienos, kurią nustato, kad pagrindas taikyti privalomą nurodymą išnyko, atšaukia laikinai taikomą privalomą nurodymą.
+6. Motyvuotu asmens, kuriam duotas privalomas nurodymas, prašymu Lietuvos bankas turi teisę privalomo nurodymo įvykdymo terminą atidėti, jeigu įvykdyti duoto privalomo nurodymo laiku asmuo negali dėl objektyvių priežasčių ir Lietuvos bankui yra pateikti tai pagrindžiantys įrodymai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 
 
-7. Privalomų nurodymų davimas neatima teisės Lietuvos bankui kartu taikyti ir finansų rinką reglamentuojančiuose įstatymuose nustatytų poveikio priemonių. 
+7. Privalomas nurodymas, kuris taikomas laikinai, taikomas iki Lietuvos banko sprendime dėl privalomo nurodymo davimo nurodyto termino, kuris gali būti nurodytas kaip konkreti data, laiko tarpas arba susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent Lietuvos bankas priima sprendimą jį atšaukti prieš nustatytą terminą. Lietuvos bankas nedelsdamas, ne vėliau kaip per 5 darbo dienas nuo tos dienos, kurią nustato, kad pagrindas taikyti privalomą nurodymą išnyko, atšaukia laikinai taikomą privalomą nurodymą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
+
+
+
+
+8. Privalomų nurodymų davimas neatima teisės Lietuvos bankui kartu taikyti ir finansų rinką reglamentuojančiuose įstatymuose nustatytų poveikio priemonių. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
 
 
 Papildyta straipsniu:
@@ -3147,6 +3238,12 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDO
  2 000 Eur 
 
 
+ 31. 
+ Mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje 
+ – 
+ 5 000 Eur 
+
+
 
  
 Priedo pakeitimai:
@@ -3155,6 +3252,7 @@ Nr. XII-2692, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26830
 Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
@@ -3179,7 +3277,7 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ SEKTORIAUS SUBJEKTŲ PERTVAR
 
 
  1. 
- Lietuvos Respublikoje licencijuoti bankai, Centrinė kredito unija, kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje 
+ Lietuvos Respublikoje licencijuoti bankai, centrinė kredito unija, kitose negu Europos ekonominės erdvės valstybėse licencijuotų užsienio bankų filialai, įsteigti Lietuvos Respublikoje 
  Vidutinis metinis turtas 
  0,0043 proc. 
 
@@ -3191,7 +3289,7 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ SEKTORIAUS SUBJEKTŲ PERTVAR
 
 
  3. 
- Lietuvos Respublikoje licencijuotos finansų maklerio įmonės, kurioms taikomas Finansinių priemonių rinkų įstatymo 121 straipsnio 2 dalyje nustatytas reikalavimas 
+ Lietuvos Respublikoje licencijuotos finansų maklerio įmonės, kurioms taikomas Finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje nustatytas reikalavimas 
  Metinės pajamos 
  0,075 proc. 
 
@@ -3242,6 +3340,8 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ SEKTORIAUS SUBJEKTŲ PERTVAR
  
 Papildyta priedu:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
+Priedo pakeitimai:
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -3249,113 +3349,105 @@ Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 
  
 Lietuvos Respublikos
-Lietuvos banko įstatymo 
+Lietuvos banko įstatymo
 3 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1957 m. kovo 25 d. Europos Bendrijos steigimo sutartis su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1). 
+1. 1957 m. kovo 25 d. Europos Bendrijos steigimo sutartis su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi.
 
 
 
 
-2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1). 
+2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi.
 
 
 
 
-3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3603/93, nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 27). 
+3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3603/93, nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu.
 
 
 
 
-4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 30). 
+4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu.
 
 
 
 
-5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 152), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009 (OL 2009 L 17, p. 1).
+5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo, su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009.
 
 
 
 
-6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 157).
+6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos, su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 45/2009.
 
 
 
 
-7. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89).
+7. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES.
 
 
 
 
-8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
+8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/2402. 
 
 
 
 
-9. 2010 m. rugsėjo 16 d. Europos Centrinio Banko sprendimas ECB/2010/14 dėl eurų banknotų autentiškumo ir tinkamumo apyvartai tikrinimo bei pakartotinio išleidimo į apyvartą (OL 2010 L 267, p. 1) su paskutiniais pakeitimais, padarytais 2012 m. rugsėjo 7 d. Europos Centrinio Banko sprendimu ECB/2012/19 (OL 2012 L 253, p. 19).
+9. 2010 m. rugsėjo 16 d. Europos Centrinio Banko sprendimas ECB/2010/14 dėl eurų banknotų autentiškumo ir tinkamumo apyvartai tikrinimo bei pakartotinio išleidimo į apyvartą su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 5 d. Europos Centrinio Banko sprendimu (ES) 2019/2195.
 
 
 
 
-10. 2010 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1210/2010 dėl euro monetų autentiškumo tikrinimo ir apyvartai netinkamų euro monetų tvarkymo (OL 2010 L 339, p. 1).
+10. 2010 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1210/2010 dėl euro monetų autentiškumo tikrinimo ir apyvartai netinkamų euro monetų tvarkymo.
 
 
 
 
-11. 2011 m. gruodžio 22 d. Europos sisteminės rizikos valdybos rekomendacija ESRV/2011/3 dėl nacionalinių institucijų įgaliojimų makrolygio rizikos ribojimo srityje (OL 2012 C 41, p. 1).
+11. 2011 m. gruodžio 22 d. Europos sisteminės rizikos valdybos rekomendacija ESRV/2011/3 dėl nacionalinių institucijų įgaliojimų makrolygio rizikos ribojimo srityje. 
 
 
 
 
-12. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
+12. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/878.
 
 
 
 
-13. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014, L 352, p. 1). 
+13. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
 
 
 
 
-14. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12). 
-Papildyta punktu:
-Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
- 
+14. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156.
 
 
 
 
-15. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8). 
-Papildyta punktu:
-Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
-Punkto numeracijos pakeitimas:
-Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
- 
+15. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su paskutiniais pakeitimais, padarytais 2021 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/337.
 
 
 
 
-151. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES (OL 2018 L 156, p. 43). 
-Papildyta punktu:
-Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
- 
+16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų.
 
 
 
 
-16. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28). 
-Papildyta punktu:
-Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
- 
+17. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771. 
+
+
+
+
+18. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES.
 
 
 Priedo pakeitimai:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
 
 
@@ -3644,3 +3736,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 15 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-111, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28967
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 38 straipsnių ir šeštojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43, 43-2 straipsnių ir 1, 2, 3 priedų pakeitimo įstatymas
