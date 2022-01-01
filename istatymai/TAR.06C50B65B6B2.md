@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2018-07-17 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
  
@@ -31,9 +31,10 @@ Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato asignavimų žalai, atsiradusiai dėl valdžios institucijų neteisėtų veiksmų, atlyginti naudojimą, žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimą ne teismo tvarka, Europos Žmogaus Teisių Teismo ir Jungtinių Tautų Žmogaus teisių komiteto bei kitų tarptautinių institucijų, kurių jurisdikciją ar kompetenciją spręsti dėl Lietuvos Respublikos jurisdikcijai priklausančių asmenų teisių pažeidimų yra pripažinusi Lietuvos Respublika (toliau – tarptautinės institucijos), sprendimų vykdymą, taip pat valstybės regreso (atgręžtinio reikalavimo) teisės į žalą padariusį asmenį įgyvendinimo tvarką ir atstovavimą valstybei ir Lietuvos Respublikos Vyriausybei.
+1. Šis įstatymas nustato žalos kompensavimą ne teismo tvarka asmenims, kuriems buvo pritaikytas suėmimas, tačiau kurie įsiteisėjusiu teismo nuosprendžiu buvo išteisinti, arba kuriems įsiteisėjusia nutartimi ar nutarimu ikiteisminis tyrimas buvo nutrauktas, asignavimų žalai, atsiradusiai dėl valdžios institucijų neteisėtų veiksmų, atlyginti naudojimą, žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimą ne teismo tvarka, Europos Žmogaus Teisių Teismo ir Jungtinių Tautų Žmogaus teisių komiteto bei kitų tarptautinių institucijų, kurių jurisdikciją ar kompetenciją spręsti dėl Lietuvos Respublikos jurisdikcijai priklausančių asmenų teisių pažeidimų yra pripažinusi Lietuvos Respublika (toliau – tarptautinės institucijos), sprendimų vykdymą, taip pat valstybės regreso (atgręžtinio reikalavimo) teisės į žalą padariusį asmenį įgyvendinimo tvarką ir atstovavimą valstybei ir Lietuvos Respublikos Vyriausybei. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
+Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
  
 
 
@@ -169,6 +170,34 @@ Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010IST
 
 
 
+21 straipsnis. Žalos dėl kardomosios priemonės – suėmimo taikymo kompensavimas
+
+
+1. Teisę ne teismo tvarka gauti iki 50 bazinių socialinių išmokų dydžio piniginę kompensaciją, skirtą atlyginti dėl suėmimo pritaikymo patirtą realią turtinę žalą, t. y. turto netekimą arba sugadinimą, turėtas išlaidas, negautas pajamas (negautą darbo užmokestį ar kitas darbines pajamas atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas, taip pat negautas socialines ir kitas išmokas), turi asmuo, kuris įsiteisėjusiu teismo nuosprendžiu buvo išteisintas arba kuriam priimta nutartis ar nutarimas nutraukti ikiteisminį tyrimą Lietuvos Respublikos baudžiamojo proceso kodekso 212 straipsnio 1 dalies 1 ir 2 punktuose nustatytais pagrindais, išskyrus atvejus, kai ikiteisminis tyrimas buvo nutrauktas suėjus apkaltinamojo nuosprendžio priėmimo senaties terminui arba atsisakyta asmenį persekioti baudžiamąja tvarka Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatytais pagrindais. Asmuo turi teisę ne vėliau kaip per vienus metus nuo nutarties ar nutarimo nutraukti ikiteisminį tyrimą arba išteisinamojo nuosprendžio įsiteisėjimo dienos Teisingumo ministerijai pateikti Lietuvos Respublikos teisingumo ministro patvirtintos formos prašymą skirti šioje dalyje nurodytą piniginę kompensaciją. Kartu su prašymu turi būti pateikti dokumentai, patvirtinantys prašomos piniginės kompensacijos dydį ir asmens tapatybę, taip pat pridedama įsiteisėjusi teismo nutartis skirti suėmimą ir įsiteisėjęs nutarimas, nutartis ar išteisinamasis nuosprendis. 
+
+
+
+
+2. Teisingumo ministerija, nagrinėdama prašymą skirti piniginę kompensaciją, turi teisę gauti iš valstybės institucijų, įstaigų, kitų juridinių ir fizinių asmenų informaciją, reikalingą šiai kompensacijai apskaičiuoti.
+
+
+
+
+3. Teisingumo ministerija ne vėliau kaip per 3 mėnesius nuo asmens prašymo skirti piniginę kompensaciją ir visų jai apskaičiuoti reikalingų dokumentų gavimo dienos turi šiam asmeniui pateikti motyvuotą rašytinį sprendimą dėl piniginės kompensacijos skyrimo ar atsisakymo ją skirti. Atsisakyti skirti piniginę kompensaciją Teisingumo ministerija gali tik tuo atveju, kai pateikti ne visi šio straipsnio 1 dalyje nurodyti dokumentai arba žala jau buvo atlyginta ne teismo tvarka pagal šio įstatymo 3 straipsnį, arba asmuo kreipėsi į teismą šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+4. Asmuo, kuris nesutinka su Teisingumo ministerijos sprendimu dėl kompensacijos ar jos atsisako, turi teisę kreiptis dėl žalos atlyginimo šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Asmuo, ne teismo tvarka gavęs piniginę kompensaciją, turi teisę dėl žalos atlyginimo kreiptis į teismą Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jeigu šiuo atveju teismas priteisia žalos atlyginimą, jis mažinamas atžvelgiant į asmeniui jau išmokėtos piniginės kompensacijos dydį. 
+
+
+Papildyta straipsniu:
+Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
+ 
+
+
+
+
 3 straipsnis. Žalos atlyginimas ne teismo tvarka
 
 
@@ -183,12 +212,26 @@ Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010IST
 2. Ne teismo tvarka neatlyginama žala asmeniui:
 
 
-1) dėl kurio teismas yra priėmęs sprendimą dėl žalos, atsiradusios dėl tų pačių neteisėtų veiksmų, arba patvirtinęs taikos sutartį;
+1) kuriam šio įstatymo 21 straipsnyje nustatyta tvarka paskirta piniginė kompensacija; 
+Papildyta straipsnio punktu:
+Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
+ 
 
 
 
 
-2) kuris baudžiamosios bylos ikiteisminio tyrimo ar nagrinėjimo teisme metu arba administracinio teisės pažeidimo bylos teisenos metu save apkalbinėdamas ar kitaip kliudė nustatyti tiesą, slapstėsi ir taip prisidėjo prie žalos atsiradimo.
+2) dėl kurio teismas yra priėmęs sprendimą dėl žalos, atsiradusios dėl tų pačių neteisėtų veiksmų, arba patvirtinęs taikos sutartį;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
+ 
+
+
+
+
+3) kuris baudžiamosios bylos ikiteisminio tyrimo ar nagrinėjimo teisme metu arba administracinio teisės pažeidimo bylos teisenos metu save apkalbinėdamas ar kitaip kliudė nustatyti tiesą, slapstėsi ir taip prisidėjo prie žalos atsiradimo.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
+ 
 
 
 
@@ -488,8 +531,8 @@ Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
 
@@ -497,6 +540,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
+ 
 Lietuvos Respublikos 
 žalos, atsiradusios dėl valdžios institucijų
 neteisėtų veiksmų, atlyginimo ir
@@ -575,3 +621,11 @@ Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėt�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1380, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12048
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei įstatymo Nr. IX-895 5 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 1, 3 straipsnių pakeitimo ir įstatymo papildymo 2-1 straipsniu įstatymas
+ 
+ 
+part_19fa5b06dfad4c37adc2b9df878e67c9_end
