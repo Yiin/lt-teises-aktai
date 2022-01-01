@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -138,6 +138,7 @@ Nr. XIII-2892, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10793
 15. Valstybinis socialinis draudimas (toliau – socialinis draudimas) – valstybinės socialinės apsaugos sistemos dalis, kurios priemonėmis visiškai ar iš dalies kompensuojamos apdraustiesiems asmenims ir įstatymų nustatytais atvejais jų šeimų nariams dėl draudžiamųjų įvykių prarastos darbo pajamos arba įstatymų nustatytais atvejais šioje dalyje nurodytiems asmenims išmokamos įstatymų nustatyto dydžio išmokos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -213,9 +214,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 4 straipsnis. Asmenų, turinčių darbo santykius arba santykius, savo esme atitinkančius darbo santykius, socialinis draudimas
 
 
-1. Asmenys, dirbantys pagal darbo sutartis Lietuvos Respublikos teritorijoje (įskaitant komandiruotus į Lietuvos Respubliką ilgesniam negu vienų metų laikotarpiui asmenis) arba ne Lietuvos Respublikos teritorijoje, bet pagal darbo sutartis, sudarytas su Lietuvos Respublikoje registruotais draudėjais, jeigu vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis arba Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais nenustatyta kitaip, asmenys, atlygintinai einantys narystės pagrindu renkamąsias ar skiriamąsias pareigas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas pagal autorines sutartis, iš sporto veiklos ar atlikėjo veiklos, draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+1. Asmenys, dirbantys pagal darbo sutartis Lietuvos Respublikos teritorijoje (įskaitant komandiruotus į Lietuvos Respubliką ilgesniam negu vienų metų laikotarpiui asmenis) arba ne Lietuvos Respublikos teritorijoje, bet pagal darbo sutartis, sudarytas su Lietuvos Respublikoje registruotais draudėjais, jeigu vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis arba Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais nenustatyta kitaip, asmenys, atlygintinai einantys pareigas, į kurias asmenį skiria ar deleguoja jo darbdavys kaip savo atstovą ir už tai moka atlygį, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas pagal autorines sutartis, iš sporto veiklos ar atlikėjo veiklos, draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -261,7 +263,10 @@ Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
 
 
-6. Asmenys, gaunantys tantjemas arba atlygį už jų veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, ir mažųjų bendrijų vadovai, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, draudžiami pensijų socialiniu draudimu.
+6. Asmenys, gaunantys tantjemas arba atlygį už jų veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, išskyrus šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodytas pareigas, ir mažųjų bendrijų vadovai, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, draudžiami pensijų socialiniu draudimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
 
 
 
@@ -362,7 +367,10 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 
 
-9. Gaunantys darbo užmokestį nuteistieji laisvės atėmimu asmenys jų darbo laikotarpiu draudžiami tik nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu. Socialinio draudimo įmokas šiuo atveju privalo mokėti draudėjai.
+9. Neteko galios nuo 2022-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3026, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13464
+ 
 
 
 
@@ -411,9 +419,10 @@ SOCIALINIO DRAUDIMO ĮMOKOS IR IŠMOKOS
 8 straipsnis. Socialinio draudimo įmokos, jų tarifai 
 
 
-1. Socialinio draudimo įmokos, skirtos šio įstatymo 3 straipsnio 1 dalyje nurodytų socialinio draudimo rūšių išmokoms finansuoti, mokamos į Fondo biudžetą. Šio įstatymo 3 straipsnio 1 dalies 1, 2, 3 ir 6 punktuose nurodytų socialinio draudimo rūšių įmokos mokamos pagal apdraustiesiems patvirtintus įmokų tarifus, o 3 straipsnio 1 dalies 4 ir 5 punktuose – pagal draudėjams patvirtintus įmokų tarifus. 
+1. Socialinio draudimo įmokos, skirtos šio įstatymo 3 straipsnio 1 dalyje nurodytų socialinio draudimo rūšių išmokoms finansuoti, mokamos į Fondo biudžetą. Šio įstatymo 3 straipsnio 1 dalies 1, 2, 3 ir 6 punktuose nurodytų socialinio draudimo rūšių įmokos mokamos pagal apdraustiesiems patvirtintus įmokų tarifus, o šio įstatymo 3 straipsnio 1 dalies 4 ir 5 punktuose – pagal draudėjams patvirtintus įmokų tarifus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -455,9 +464,11 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-2. Savarankiškai dirbančių asmenų (išskyrus asmenis, kurie gauna pajamas iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, nesiversdami atitinkama individualia veikla) socialinio draudimo stažas nustatomas pagal sumokėtas socialinio draudimo įmokas. Asmenų, kurie gauna pajamas iš sporto ar atlikėjo veiklos, pagal autorines sutartis, nesiversdami atitinkama individualia veikla, ar asmenų, gaunančių tantjemas arba atlygį už jų veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, socialinio draudimo stažas nustatomas pagal priskaičiuotas socialinio draudimo įmokas. Jeigu šios įmokos sumokėtos arba priskaičiuotos nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio socialinio draudimo stažas. Tais atvejais, kai įmokos sumokėtos arba priskaičiuotos nuo mažesnės arba didesnės negu minimalioji mėnesinė alga sumos, socialinio draudimo stažas laikomas proporcingai mažesniu arba didesniu. Šioje dalyje nurodytų asmenų socialinio draudimo stažas taip pat nustatomas pagal ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros, ligos dėl nelaimingų atsitikimų darbe ir profesinių ligų, nedarbo ir dalinio darbo socialinio draudimo išmokų iš Fondo gavimo laikotarpius. 
+2. Savarankiškai dirbančių asmenų, nurodytų šio įstatymo 5 straipsnio 2 ir 3 dalyse, socialinio draudimo stažas nustatomas pagal sumokėtas socialinio draudimo įmokas. Asmenų, kurie gauna pajamas iš sporto ar atlikėjo veiklos, pagal autorines sutartis, nesiversdami atitinkama individualia veikla, ar asmenų, gaunančių tantjemas arba atlygį už jų veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, mažųjų bendrijų vadovų, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, ar šio įstatymo 4 straipsnio 6 dalyje nurodytų asmenų, atlygintinai einančių renkamąsias ar skiriamąsias pareigas, socialinio draudimo stažas nustatomas pagal priskaičiuotas socialinio draudimo įmokas. Jeigu šios įmokos sumokėtos arba priskaičiuotos nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio socialinio draudimo stažas. Tais atvejais, kai įmokos sumokėtos arba priskaičiuotos nuo mažesnės arba didesnės negu minimalioji mėnesinė alga sumos, socialinio draudimo stažas laikomas proporcingai mažesniu arba didesniu. Šioje dalyje nurodytų asmenų socialinio draudimo stažas taip pat nustatomas pagal ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros, ligos dėl nelaimingų atsitikimų darbe ir profesinių ligų, nedarbo ir dalinio darbo socialinio draudimo išmokų iš Fondo gavimo laikotarpius. 
 Papildyta straipsnio dalimi:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+Straipsnio dalies pakeitimai:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -529,7 +540,15 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-11) atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis.
+11) atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis;
+
+
+
+
+12) atlygį už einamas renkamąsias ar skiriamąsias pareigas. 
+Papildyta straipsnio punktu:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
 
 
 
@@ -560,7 +579,10 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 
 
 
-4. Šio įstatymo 5 straipsnio 3 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos nuo minimaliosios mėnesinės algos.
+4. Šio įstatymo 5 straipsnio 3 dalyje nurodytų asmenų socialinio draudimo įmokos skaičiuojamos nuo minimaliosios mėnesinės algos. Asmenų, kurie pagal verslo liudijimą dirba ne visą kalendorinį mėnesį ir nėra pateikę prašymo sumokėti socialinio draudimo įmokas už visą kalendorinį mėnesį, socialinio draudimo įmokos skaičiuojamos verslo liudijimo galiojimo laikotarpiu, pagal veiklos vykdymo kalendorinių dienų skaičių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
 
 
 
@@ -703,7 +725,10 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-10) teismų priteistos ir išieškotos sumos turtinei žalai, išskyrus negautas pajamas, ir neturtinei žalai atlyginti;
+10) teismų ir darbo ginčų komisijų priteistos ir išieškotos sumos turtinei žalai, išskyrus negautas pajamas, ir neturtinei žalai atlyginti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
 
 
 
@@ -885,10 +910,11 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-4. Šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytų asmenų socialinio draudimo įmokos mokamos taip: individualios įmonės moka įmokas už šių įmonių savininkus, mažosios bendrijos – už jų narius, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos – už jų tikruosius narius, šeimynos – už šeimynos dalyvius nuo individualios įmonės, mažosios bendrijos, bendrijos ar šeimynos įregistravimo Juridinių asmenų registre dienos, kiti savarankiškai dirbantys asmenys jiems priklausančias mokėti socialinio draudimo įmokas moka į Fondo lėšų sąskaitą nuo veiklos vykdymo pradžios iki veiklos pabaigos. Verslo liudijimus turintys asmenys socialinio draudimo įmokas sumoka už verslo liudijimo galiojimo laiką, o jeigu asmuo pagal verslo liudijimą dirba ne visą kalendorinį mėnesį, pagal asmens pateiktą Fondo valdybos direktoriaus patvirtintos formos prašymą Fondo valdybos teritoriniam skyriui gali būti sumokėtos socialinio draudimo įmokos už visą kalendorinį mėnesį, prašymą pateikiant Fondo valdybos teritoriniam skyriui ne vėliau kaip iki asmens metinės pajamų mokesčio deklaracijos už laikotarpį, į kurį įeina šis mėnuo, pateikimo Valstybinei mokesčių inspekcijai termino paskutinės dienos. 
+4. Šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytų asmenų socialinio draudimo įmokos mokamos taip: individualios įmonės moka įmokas už šių įmonių savininkus, mažosios bendrijos – už jų narius, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos – už jų tikruosius narius, šeimynos – už šeimynos dalyvius nuo individualios įmonės, mažosios bendrijos, bendrijos ar šeimynos įregistravimo Juridinių asmenų registre dienos, kiti savarankiškai dirbantys asmenys jiems priklausančias mokėti socialinio draudimo įmokas moka į Fondo lėšų sąskaitą nuo veiklos vykdymo pradžios iki veiklos pabaigos. Verslo liudijimus turintys asmenys socialinio draudimo įmokas moka už verslo liudijimo galiojimo laikotarpio veiklos vykdymo kalendorines dienas. Jeigu asmuo pagal verslo liudijimą dirba ne visą kalendorinį mėnesį, pagal asmens pateiktą Fondo valdybos direktoriaus patvirtintos formos prašymą Fondo valdybos teritoriniam skyriui gali būti sumokėtos socialinio draudimo įmokos už visą kalendorinį mėnesį, prašymą pateikiant Fondo valdybos teritoriniam skyriui ne vėliau kaip iki asmens metinės pajamų mokesčio deklaracijos už laikotarpį, į kurį įeina šis mėnuo, pateikimo Valstybinei mokesčių inspekcijai termino paskutinės dienos. Jeigu asmuo socialinio draudimo įmokų pagal pateiktą prašymą nesumoka, prašymo galiojimas nutrūksta ir socialinio draudimo įmokos skaičiuojamos už verslo liudijimo galiojimo laikotarpio veiklos vykdymo kalendorines dienas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -988,11 +1014,52 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 14 straipsnis. Socialinio draudimo išmokos
 
 
-Socialinio draudimo išmokos – Socialinio draudimo pensijų įstatyme, Ligos ir motinystės socialinio draudimo įstatyme, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme bei Nedarbo socialinio draudimo įstatyme numatytos išmokos. 
+1. Socialinio draudimo išmokos – Socialinio draudimo pensijų įstatyme, Ligos ir motinystės socialinio draudimo įstatyme, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme bei Nedarbo socialinio draudimo įstatyme numatytos išmokos.
+
+
+
+
+2. Fondo biudžeto lėšomis finansuojamos šios su asmens draudžiamosiomis pajamomis susijusios socialinio draudimo išmokos:
+
+
+1) Socialinio draudimo pensijų įstatyme nustatyta individualioji socialinio draudimo pensijos dalis, taip pat Socialinio draudimo pensijų įstatymo 9 straipsnio 3 dalyje nustatytos kompensacijos ir pensijos; 
+
+
+
+
+2) Ligos ir motinystės socialinio draudimo įstatyme nustatytos ligos (neįskaitant darbdavio mokamų už dvi pirmąsias ligos dienas), profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros išmokos;
+
+
+
+
+3) Nedarbo socialinio draudimo įstatyme nustatytos nedarbo socialinio draudimo ir dalinio darbo išmokos;
+
+
+
+
+4) Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokos, netekto darbingumo vienkartinės ir periodinės kompensacijos bei vienkartinės ir periodinės draudimo išmokos apdraustajam mirus.
+
+
+
+
+
+
+3. Valstybės biudžeto lėšomis finansuojami papildomai Fondo biudžetui nustatyti įpareigojimai ir (ar) su asmens draudžiamosiomis pajamomis nesusijusios išmokos:
+
+
+1) Socialinio draudimo pensijų įstatyme nustatyta bendroji socialinio draudimo pensijos dalis; 
+
+
+
+
+2) Ligos ir motinystės socialinio draudimo įstatyme nustatytos išmokos dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino bei motinystės, tėvystės ir vaiko priežiūros išmokų skirtumai, mokami dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino dėl COVID-19 ligos (koronaviruso infekcijos) ir (ar) jos plitimo grėsmės. 
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -1125,6 +1192,19 @@ Apdraustieji asmenys, socialinio draudimo išmokų ir kitų išmokų, kurių mok
 
 
 
+181 straipsnis. Draudėjų, apdraustųjų asmenų, socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėjų duodamų įgaliojimų jų vardu atlikti veiksmus, susijusius su Fondo administravimo įstaigomis, ypatumai
+
+
+Draudėjai, apdraustieji, socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėjai turi teisę įgalioti savo atstovą atsiimti jiems mokamas išmokas, kurias pristato paslaugų teikėjai, su kuriais Fondo administravimo įstaigos yra sudariusios išmokų pristatymo sutartis, atlikti kitus veiksmus (sudaryti sandorius), susijusius su Fondo administravimo įstaigomis, joms teikiant administracines paslaugas ir vykdant kitas funkcijas, ne tik įformindami įgaliojimą Lietuvos Respublikos civiliniame kodekse numatyta tvarka, bet ir pateikę pasirašytą Fondo valdybos direktoriaus patvirtintos formos įgaliojimą Fondo valdybos direktoriaus nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
+
+
+
+
 19 straipsnis. Atsakomybė už ne laiku ir neteisingą socialinio draudimo įmokų mokėjimą
 
 
@@ -1141,19 +1221,21 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti socialinio draudimo įmokų sumokėjimą netenka galios ir vykdomas socialinio draudimo įmokų įsiskolinimo išieškojimas priverstine tvarka. Savarankiškai dirbančiam asmeniui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, socialinio draudimo įmokų įsiskolinimas neatidedamas. 
+3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti socialinio draudimo įmokų sumokėjimą netenka galios ir vykdomas socialinio draudimo įmokų įsiskolinimo išieškojimas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, socialinio draudimo įmokų įsiskolinimas neatidedamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
 
 
-4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą netenka galios ir vykdomas delspinigių išieškojimas priverstine tvarka. Savarankiškai dirbančiam asmeniui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas neatidedamas. 
+4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą netenka galios ir vykdomas delspinigių išieškojimas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas neatidedamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -1197,9 +1279,11 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 
 
-10. Šio įstatymo 20 straipsnyje nurodytais būdais pradėtos laiku nesumokėtų socialinio draudimo įmokų, delspinigių, palūkanų ir baudų priverstinio išieškojimo procedūros tęsiamos, iki sueina jų priverstinio išieškojimo senaties terminas. Jeigu priimamas sprendimas atidėti socialinio draudimo įmokų įsiskolinimo sumokėjimą, delspinigių ar baudų išieškojimą, priverstinio išieškojimo senaties terminas nutraukiamas. Tokiu atveju nutrauktas priverstinio išieškojimo senaties terminas tęsiamas nuo to momento, kai netenka galios sprendimas, kuriuo atitinkamos sumos sumokėjimas ar išieškojimas buvo atidėtas. Pasibaigus socialinio draudimo įmokų skolų priverstinio išieškojimo senaties terminui, Fondo administravimo įstaigos neturi teisės imtis jokių šių įmokų, su jomis susijusių priskaičiuotų delspinigių, baudų ar palūkanų išieškojimo veiksmų. 
+10. Šio įstatymo 20 straipsnyje nurodytais būdais pradėtos laiku nesumokėtų socialinio draudimo įmokų, delspinigių, palūkanų ir baudų priverstinio išieškojimo procedūros tęsiamos nepaisant to, kad jų vykdymo metu pasibaigia jų priverstinio išieškojimo senaties terminas. Jeigu priimamas sprendimas atidėti socialinio draudimo įmokų įsiskolinimo sumokėjimą, delspinigių ar baudų išieškojimą, priverstinio išieškojimo senaties terminas nutrūksta. Tokiu atveju nutrūkęs priverstinio išieškojimo senaties terminas prasideda iš naujo nuo to momento, kai netenka galios sprendimas, kuriuo atitinkamos sumos sumokėjimas ar išieškojimas buvo atidėtas. 
+TAR pastaba. 19 straipsnio 10 dalies nuostatos taikomos ir įstatymo Nr. XIV-750 įsigaliojimo (2022-01-01) susidariusioms valstybinio socialinio draudimo įmokų, delspinigių, palūkanų ir baudų skoloms.
 Straipsnio dalies pakeitimai:
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -1238,7 +1322,10 @@ Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
 Fondo administravimo įstaigos Vyriausybei paskelbus karantiną, kurio metu nustatyti ūkinės veiklos apribojimai (toliau – karantinas), draudėjams, įtrauktiems į Valstybinės mokesčių inspekcijos paskelbtą mokesčių mokėtojų, nukentėjusių dėl karantino, sąrašą, taiko šią supaprastintą socialinio draudimo įmokų, baudų, palūkanų ir delspinigių įsiskolinimo mokėjimo, palūkanų ir delspinigių skaičiavimo tvarką:
 
 
-1) nepriklausomai nuo draudėjo prašomos atidėti socialinio draudimo įmokų, baudų, palūkanų ir (ar) delspinigių įsiskolinimo (toliau – įsiskolinimas) sumos, sprendimus dėl įsiskolinimo mokėjimo atidėjimo priima Fondo valdybos teritoriniai skyriai;
+1) sprendimus dėl draudėjo socialinio draudimo įmokų, baudų, palūkanų ir (ar) delspinigių įsiskolinimo  (toliau – įsiskolinimas) mokėjimo atidėjimo visais atvejais priima Fondo valdybos teritoriniai skyriai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
 
 
 
@@ -1365,7 +1452,10 @@ Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
 
 
 
-2. Jeigu socialinio draudimo išmokos ar kitos išmokos, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, neteisėtai išmokėtos dėl jų gavėjų kaltės, susidariusi permoka Fondo valdybos teritorinio skyriaus direktoriaus arba jo pavaduotojo sprendimu išieškoma iš bet kurios gavėjo gaunamos socialinio draudimo išmokos, mokamos tam asmeniui iš Fondo lėšų ir (ar) bet kurios kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams. Išieškomos sumos dydis per mėnesį negali viršyti 50 procentų gavėjui priklausančios socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, sumos. Jeigu asmuo jokių socialinio draudimo išmokų ar kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, negauna, permoka išieškoma teismo tvarka.
+2. Jeigu socialinio draudimo išmokos ar kitos išmokos, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, neteisėtai išmokėtos dėl jų gavėjų kaltės, susidariusi permoka Fondo valdybos teritorinio skyriaus direktoriaus arba jo įgalioto valstybės tarnautojo sprendimu išieškoma iš bet kurios gavėjo gaunamos socialinio draudimo išmokos, mokamos tam asmeniui iš Fondo lėšų, ir (ar) bet kurios kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams. Išieškomos sumos dydis per mėnesį negali viršyti 50 procentų gavėjui priklausančios socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, sumos. Tokios išmokų permokos iš jų gavėjų išieškomos šio įstatymo 20 straipsnyje nustatytais būdais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
 
 
 
@@ -1374,6 +1464,14 @@ Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
 Straipsnio dalies pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
+
+
+
+
+4. Kai socialinio draudimo išmokų permoka susidaro ne dėl draudėjų ar apdraustųjų asmenų kaltės, dėl išmokų permokos priteisimo Fondo administravimo įstaigos gali kreiptis į apygardos administracinį teismą su pareiškimu dėl teismo įsakymo išdavimo. 
+Papildyta straipsnio dalimi:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -1427,23 +1525,29 @@ SOCIALINIO DRAUDIMO FINANSAI IR TURTAS
 23 straipsnis. Fondo biudžeto ir valstybės biudžeto santykiai
 
 
-1. Socialinio draudimo pensijų bendroji dalis finansuojama valstybės biudžeto lėšomis. Jeigu faktinės išlaidos socialinio draudimo pensijų bendrajai daliai yra didesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, Fondo biudžetui iš valstybės biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos faktinės išlaidos. Jeigu faktinės išlaidos socialinio draudimo pensijų bendrajai daliai yra mažesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, valstybės biudžetui iš Fondo biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos faktinės išlaidos.
+1. Nurašytoms kaupiamųjų pensijų įmokų skoloms kompensuoti skiriami asignavimai iš valstybės biudžeto.
 
 
 
 
-2. Valstybės biudžeto asignavimų Fondo biudžetui dydžiai nustatomi Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu ir Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.
+2. Jeigu šio įstatymo 14 straipsnio 3 dalyje numatytų išmokų ir šio straipsnio 1 dalyje numatytų nurašytų skolų faktinės išlaidos yra didesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, Fondo biudžetui iš valstybės biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos faktinės išlaidos. Jeigu faktinės šio įstatymo 14 straipsnio 3 dalyje numatytų išmokų ir šio straipsnio 1 dalyje numatytų nurašytų skolų išlaidos yra mažesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, valstybės biudžetui iš Fondo biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos faktinės išlaidos.
 
 
 
 
-3. Asignavimai iš valstybės biudžeto skiriami, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja kurios nors socialinio draudimo rūšies išlaidos arba sumažėja pajamos, o socialinio draudimo įmokų tarifai šiai socialinio draudimo rūšiai nekeičiami arba keičiami nepakankamu dydžiu. 
+3. Valstybės biudžeto asignavimų Fondo biudžetui dydžiai nustatomi Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu ir Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.
+
+
+
+
+4. Asignavimai iš valstybės biudžeto skiriami, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja kurios nors socialinio draudimo rūšies išlaidos arba sumažėja pajamos, o socialinio draudimo įmokų tarifai šiai socialinio draudimo rūšiai nekeičiami arba keičiami nepakankamu dydžiu. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -1990,7 +2094,9 @@ Nr. XIII-2853, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08967
 
 
 
-9) pripažinti socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolas beviltiškomis, jeigu jų neįmanoma išieškoti dėl objektyvių priežasčių arba jas priverstinai išieškoti netikslinga socialiniu ir (ar) ekonominiu požiūriu, kai: nerasta socialinio draudimo įmokų mokėtojo turto arba rastas turtas yra nelikvidus (mažai likvidus); priverstinio išieškojimo išlaidos didesnės už socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolą; netikslinga priverstinai išieškoti nepriemoką, nes fizinio asmens ekonominė (socialinė) padėtis yra sunki: fiziniam asmeniui teikiama piniginė socialinė parama nepasiturintiems gyventojams; 
+9) Neteko galios nuo 2022-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 Straipsnio punkto pakeitimai:
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
@@ -2021,7 +2127,15 @@ Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
 
 
 
-14) nustatyti atvejus, kai draudėjams, apdraustiesiems asmenims, socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėjams dokumentai įteikiami tik telekomunikacijų galiniais įrenginiais arba juos viešai paskelbiant.
+14) nustatyti atvejus, kai draudėjams, apdraustiesiems asmenims, socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėjams dokumentai įteikiami tik telekomunikacijų galiniais įrenginiais arba juos viešai paskelbiant;
+
+
+
+
+15) nustatyti sąlygas ir tvarką, kuriomis asmenų žodžiu pateikti prašymai (įskaitant nuotoliniu būdu, naudojant telekomunikacijų galinius įrenginius pateiktus prašymus) Fondo administravimo įstaigoms jų kompetencijos klausimais prilyginami raštu pateiktiems (ir, kai keliamas toks reikalavimas, – pasirašytiems) prašymams ir sukelia tas pačias teisines pasekmes kaip raštu pateikti prašymai (nustatytos sąlygos ir tvarka turi apimti taikymo sritis (prašymų rūšis), asmenų identifikavimą, autentifikavimą užtikrinančias procedūras, jų ir prašymo turinio fiksavimą (įrašymą) ir įrašų saugojimą). 
+Papildyta straipsnio punktu:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
 
 
 
@@ -2044,7 +2158,10 @@ Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
 
 
 
-2. Fondo valdybos teritoriniai skyriai yra išlaikomi iš Fondo lėšų ir veikia pagal šį įstatymą ir Fondo valdybos direktoriaus tvirtinamus Fondo valdybos teritorinių skyrių nuostatus.
+2. Fondo valdybos teritoriniai skyriai yra išlaikomi iš Fondo lėšų ir veikia pagal šį įstatymą ir Fondo valdybos direktoriaus tvirtinamus Fondo valdybos teritorinių skyrių nuostatus. Jų organizacines valdymo struktūras tvirtina Fondo valdybos direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
 
 
 
@@ -2184,9 +2301,18 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 
 
 
-23) vykdo kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+23) Fondo valdybos direktoriaus nustatyta tvarka pripažįsta socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolas beviltiškomis, jeigu jų neįmanoma išieškoti dėl objektyvių priežasčių arba jas priverstinai išieškoti netikslinga socialiniu ir (ar) ekonominiu požiūriu, kai: nerasta socialinio draudimo įmokų mokėtojo turto arba rastas turtas yra nelikvidus (mažai likvidus); priverstinio išieškojimo išlaidos didesnės už socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolą; netikslinga priverstinai išieškoti nepriemoką, nes fizinio asmens ekonominė (socialinė) padėtis yra sunki – fiziniam asmeniui teikiama piniginė socialinė parama nepasiturintiems gyventojams; 
+Papildyta straipsnio punktu:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+ 
+
+
+
+
+24) vykdo kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -2199,9 +2325,10 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 341 straipsnis. Fondo administravimo įstaigų atliekama neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumo ir teisėtumo asmeniui, turinčiam teisę gauti ar gaunančiam išmoką, priežiūra
 
 
-1. Prižiūrėdama neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą asmeniui, turinčiam teisę gauti ar gaunančiam ligos išmoką, netekto darbingumo pensiją ar kitą išmoką, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms (toliau šiame straipsnyje kartu – išmokos), Fondo administravimo įstaiga turi teisę pasitelkti universitetinių ir respublikinių ligoninių, teikiančių antrinio ir tretinio lygio specializuotas asmens sveikatos priežiūros paslaugas (toliau – asmens sveikatos priežiūros įstaigos), su kuriomis sudaryta sutartis (toliau – sutartis), gydytojus specialistus (toliau – gydytojai specialistai) klausimams pagal jų kompetenciją spręsti. Prireikus Fondo administravimo įstaiga gali kreiptis į tokią sutartį sudariusią asmens sveikatos priežiūros įstaigą dėl papildomo asmens sveikatos ištyrimo. Už asmens sveikatos priežiūros įstaigos, su kuria sudaryta sutartis, suteiktas paslaugas Fondo administravimo įstaiga sumoka iš Fondo biudžeto. 
+1. Prižiūrėdama neįgalumo lygio, laikinojo nedarbingumo ar darbingumo lygio, jo priežasties, atsiradimo laiko ar termino nustatymo pagrįstumą ir teisėtumą asmeniui, turinčiam teisę gauti ar gaunančiam ligos išmoką, netekto darbingumo pensiją ar kitą išmoką, kurių skyrimas ir (ar) mokėjimas pavestas Fondo administravimo įstaigoms (toliau šiame straipsnyje kartu – išmokos), Fondo administravimo įstaiga turi teisę pasitelkti universitetinių ir respublikinių ligoninių, teikiančių antrinio ir tretinio lygio specializuotas asmens sveikatos priežiūros paslaugas (toliau – asmens sveikatos priežiūros įstaigos), gydytojus specialistus (toliau – gydytojai specialistai) klausimams pagal jų kompetenciją spręsti. Prireikus Fondo administravimo įstaiga gali kreiptis į asmens sveikatos priežiūros įstaigą dėl papildomo asmens sveikatos ištyrimo, kurį asmens sveikatos priežiūros įstaiga privalo atlikti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Už asmens sveikatos priežiūros įstaigos suteiktas paslaugas Fondo administravimo įstaiga sumoka iš Fondo biudžeto pagal socialinės apsaugos ir darbo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro patvirtintus įkainius. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
 
 
@@ -2240,18 +2367,12 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 35 straipsnis. Socialinio draudimo rezervinis fondas
 
 
-1. Socialinio draudimo rezervinis fondas privalomai sudaromas kiekvienais biudžetiniais metais pervedant į jį Fondo įplaukų dalį, viršijančią Fondo įprastinės ir investicinės veiklos išlaidas ir metų pabaigoje negrąžintų paskolų sumą bei įvertinus kasos apyvartos lėšų pokytį. Pasiekus Socialinio draudimo rezervinio fondo dydį, lygų paskutinių praėjusių metų Fondo įprastinės ir investicinės veiklos metinei išlaidų sumai, įplaukų dalis, viršijanti šias išlaidas ir metų pabaigoje negrąžintų paskolų sumą, naudojama socialinio draudimo reikmėms.
-Straipsnio dalies pakeitimai:
-Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
- 
+1. Socialinio draudimo rezervinis fondas privalomai sudaromas kiekvienais biudžetiniais metais pervedant į jį Fondo įplaukų dalį, viršijančią Fondo įprastinės ir investicinės veiklos išlaidas, įsipareigojimų pagal finansinės nuomos (lizingo) sutartis išlaidas ir metų pabaigoje negrąžintų paskolų sumą bei įvertinus kasos apyvartos lėšų pokytį. Pasiekus Socialinio draudimo rezervinio fondo dydį, lygų paskutinių praėjusių metų Fondo įprastinės, investicinės veiklos bei įsipareigojimų pagal finansinės nuomos (lizingo) sutartis metinei išlaidų sumai, įplaukų dalis, viršijanti šias išlaidas ir metų pabaigoje negrąžintų paskolų sumą, naudojama socialinio draudimo reikmėms.
 
 
 
 
-2. Socialinio draudimo rezervinio fondo veiklą reglamentuoja Vyriausybės tvirtinami Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatai, kuriuose nustatomi Socialinio draudimo rezervinio fondo sudarymo šaltiniai, dydis, panaudojimo, audito tvarka, veikla ir atskaitomybė.
-Straipsnio dalies pakeitimai:
-Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
- 
+2. Socialinio draudimo rezervinio fondo veiklą reglamentuoja Vyriausybės tvirtinami Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatai, kuriuose nustatomi Socialinio draudimo rezervinio fondo sudarymo šaltiniai, dydis, panaudojimo atvejai, lėšų investavimo, audito tvarka, veikla ir atskaitomybė.
 
 
 
@@ -2261,10 +2382,12 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-4. Socialinio draudimo rezervinio fondo lėšos naudojamos Vyriausybės sprendimu, tik įvertinus ekonominę padėtį, kai socialinio draudimo išmokas reglamentuojančiuose įstatymuose nurodytoms atitinkamoms išmokoms finansuoti nepakanka atitinkamos socialinio draudimo rūšies Fondo pajamų.
+4. Socialinio draudimo rezervinio fondo lėšos naudojamos Vyriausybės sprendimu (išskyrus Vyriausybės tvirtinamuose Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatuose nustatytus atvejus, kai Vyriausybės sprendimai nepriimami), tik įvertinus ekonominę padėtį, kai socialinio draudimo išmokas reglamentuojančiuose įstatymuose nurodytoms atitinkamoms išmokoms finansuoti nepakanka atitinkamos socialinio draudimo rūšies Fondo pajamų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
  
-
-
 
 
 
@@ -2522,7 +2645,10 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 
 
-7. Šio įstatymo 20 straipsnio 3 dalies 2 punkte numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatuose nustatyta tvarka. Sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.
+7. Šio įstatymo 20 straipsnio 3 dalies 2 punkte numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami priklausomai nuo įkeisto objekto – Nekilnojamojo turto registrui arba Sutarčių ir teisių suvaržymų registrui ir priverstinė hipoteka (įkeitimas) įregistruojama atitinkamai Nekilnojamojo turto registre arba Sutarčių ir teisių suvaržymų registre šio registro nuostatuose nustatyta tvarka. Sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2737, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00112
+ 
 
 
 
@@ -3312,3 +3438,18 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-357, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13160
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 41 straipsnio pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2737, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00112
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 40 straipsnio pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3026, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13464
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 straipsnio pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 4, 8, 9, 10, 11, 12, 14, 19, 19-1, 21, 23, 32, 33, 34, 34-1, 35 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
