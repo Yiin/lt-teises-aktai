@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-11-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 61-2183, i. k. 1041010ISTA0IX-2127
  
@@ -160,7 +160,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-20. Kredito įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansų įstaigų įstatyme, įskaitant Finansų įstaigų įstatymo 1 straipsnio 3 dalyje nurodytas įstaigas ir kredito unijas, taip pat kitos valstybės narės įmonė, atitinkanti tos valstybės narės teisės aktuose nustatytą kredito įstaigos apibrėžimą, įskaitant 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyvos 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (OL 2006 L 177, p. 1) 2 straipsnyje išvardytas įstaigas.
+20. Kredito įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansų įstaigų įstatyme, įskaitant Finansų įstaigų įstatymo 1 straipsnio 3 dalyje nurodytas įstaigas ir kredito unijas, taip pat kitos valstybės narės įmonė, atitinkanti tos valstybės narės teisės aktuose nustatytą kredito įstaigos apibrėžimą, įskaitant 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyvos 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (su visais pakeitimais), 2 straipsnio 5 dalyje išvardytas įstaigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
+ 
 
 
 
@@ -556,7 +559,10 @@ FINANSINIO UŽTIKRINIMO IR UŽSKAITOS SUSITARIMŲ VYKDYMAS
 
 
 
-8. Finansinio užtikrinimo susitarimas įsigalioja jame nustatytais terminais, nepaisant užstato davėjo ar užstato gavėjo likvidavimo procedūros arba reorganizavimo priemonių taikymo.
+8. Finansinio užtikrinimo susitarimas įsigalioja ir vykdomas jame nustatytomis sąlygomis, nepaisant užstato davėjo ar užstato gavėjo likvidavimo procedūros arba reorganizavimo priemonių taikymo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
+ 
 
 
 
@@ -772,22 +778,20 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
  
- 
- 
+
 Lietuvos Respublikos 
-finansinio užtikrinimo susitarimų
-įstatymo
+finansinio užtikrinimo susitarimų įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito (OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
+1. 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES.
 
 
 Priedo pakeitimai:
-Nr. XII-2061, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19172
+Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
  
  
  
@@ -817,3 +821,11 @@ Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1252, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09920
 Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 5 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 2, 9 straipsnių ir priedo pakeitimo įstatymas
+ 
+ 
+part_d385bc25ff604860886c7e9ca4cb4c50_end
