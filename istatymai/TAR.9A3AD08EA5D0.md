@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-09-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -770,7 +770,10 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 
 
-5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius brandos egzaminus, išskyrus atvejus, kai asmuo švietimo ir mokslo ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų.
+5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius brandos egzaminus, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų. Vidurinį išsilavinimą įgijusių asmenų mokymosi rezultatai apibendrinami ir fiksuojami dalykų metiniais ir išlaikytų brandos egzaminų įvertinimais. Asmens brandos egzaminų įvertinimai atitinka aukštesnįjį, pagrindinį ar patenkinamą pasiekimų lygius ir jų ribas, nustatytas švietimo, mokslo ir sporto ministro tvirtinamose brandos egzaminų programose. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-655, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25024
+ 
 
 
 
@@ -923,7 +926,10 @@ Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
 
 
 
-2. Neformaliojo vaikų švietimo programas vykdo neformaliojo vaikų švietimo ir kitos švietimo įstaigos, laisvieji mokytojai, kiti švietimo teikėjai. Neformaliajam vaikų švietimui priskiriamas taip pat ir formalųjį švietimą papildantis ugdymas, kurį vykdo muzikos, dailės, kitos menų ir sporto mokyklos. Bendruosius iš valstybės ar savivaldybių biudžetų finansuojamų neformaliojo švietimo programų kriterijus nustato švietimo ir mokslo ministras. 
+2. Neformaliojo vaikų švietimo programas vykdo neformaliojo vaikų švietimo ir kitos švietimo įstaigos, laisvieji mokytojai, kiti švietimo teikėjai. Neformaliajam vaikų švietimui priskiriamas taip pat ir formalųjį švietimą papildantis ugdymas, kurį vykdo muzikos, dailės, kitos menų, sporto mokyklos, Lietuvos aukštosios mokyklos, taip pat pagal švietimo, mokslo ir sporto ministro patvirtintą gamtamokslio, technologinio, inžinerinio, matematinio ugdymo atviros prieigos centro veiklos aprašą veiklą vykdančios švietimo įstaigos. Bendruosius iš valstybės ar savivaldybių biudžetų finansuojamų neformaliojo vaikų švietimo ir formalųjį švietimą papildančio ugdymo programų kriterijus nustato švietimo, mokslo ir sporto ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-339, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12790
+ 
 
 
 
@@ -1477,26 +1483,32 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 
-2. Valstybė finansuoja ar kitaip skatina lituanistinio švietimo veiklas užsienyje, lietuvių kilmės užsieniečius ir užsieniečius, kurie mokosi lietuvių kalbos ar studijuoja lietuvių kalbą ir kultūrą.
+2. Valstybė finansuoja ir kitaip skatina lituanistinio švietimo veiklas užsienyje, užsieniečius, kurie mokosi lietuvių kalbos ar studijuoja lietuvių kalbą ir kultūrą.
 
 
 
 
-3. Pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos (įgaliotų) institucijos (institucijų) programą skiriama lėšų švietimo įstaigoms ir lituanistikos (baltistikos) centrams užsienyje, kuriuose mokoma lietuvių kalbos ar lietuvių kalba (toliau – lituanistinio švietimo įstaiga). Lituanistinio švietimo įstaigoms užsienyje valstybės turtas gali būti perduodamas panaudos pagrindais.
+3. Švietimo, mokslo ir sporto ministro nustatyta tvarka sudaromos galimybės užsienio lietuviams mokytis lietuvių kalba Lietuvos Respublikos mokyklose. Užsienio lietuviais laikomi Lietuvos Respublikos piliečiai, gyvenantys užsienyje, ir lietuvių kilmės užsieniečiai, jų vaikai, vaikaičiai, provaikaičiai. Lietuvių kilmės užsieniečiu laikomas užsienietis, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra ar buvo lietuviai ir pats asmuo pripažįsta save lietuviu.
 
 
 
 
-4. Švietimo ir mokslo ministro nustatyta tvarka sudaromos galimybės lietuvių kilmės užsieniečiams ir išeiviams mokytis lietuvių kalba Lietuvos Respublikos mokyklose. Išeiviais laikomi Lietuvos Respublikos piliečiai, ne mažiau kaip 3 metus gyvenantys užsienyje, arba užsienio valstybių piliečiai, netekę Lietuvos Respublikos pilietybės. Lietuvių kilmės užsieniečiu laikomas užsienietis, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra ar buvo lietuviai ir pats asmuo pripažįsta save lietuviu.
+4. Švietimo, mokslo ir sporto ministro įgaliota institucija organizuoja užsienio lietuvių ir užsieniečių lietuvių kalbos pasiekimų vertinimą (nustatant lietuvių kalbos mokėjimo lygį) pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos pasiekimų vertinimo organizavimo, vykdymo ir apmokėjimo tvarkos aprašą. Lietuvių kalbos mokėjimo lygiai nustatomi pagal Europos Tarybos inicijuotus Bendruosius Europos kalbų mokymosi, mokymo ir vertinimo metmenis. Įvertinus lietuvių kalbos pasiekimus, asmeniui išduodamas jo lietuvių kalbos mokėjimo lygį patvirtinantis pažymėjimas; šio pažymėjimo turinį, formą ir išdavimo tvarką nustato švietimo, mokslo ir sporto ministras.
 
 
 
 
-5. Vyriausybės nustatyta tvarka remiami ir skatinami asmenys, vykdantys ar vykstantys vykdyti lituanistinį švietimą užsienyje. Asmenų pedagoginės veiklos laikotarpis lituanistinio švietimo srityje užsienyje įskaitomas į pedagoginio darbo stažą švietimo ir mokslo ministro nustatyta tvarka.
+5. Vyriausybės nustatyta tvarka remiami ir skatinami asmenys, vykdantys ar vykstantys vykdyti lituanistinį švietimą užsienyje. Asmenų pedagoginės veiklos laikotarpis lituanistinio švietimo srityje užsienyje įskaitomas į pedagoginio darbo stažą švietimo, mokslo ir sporto ministro nustatyta tvarka.
+
+
+
+
+6. Lituanistinio švietimo įstaigoms užsienyje valstybės turtas gali būti perduodamas panaudos pagrindais. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2010, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18318
+Nr. XIV-796, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27373
  
 
 
@@ -1636,6 +1648,15 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 2. Priėmimo į valstybinę ir savivaldybės bendrojo ugdymo mokyklą tvarką nustato savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), vadovaudamasi švietimo ir mokslo ministro patvirtintais bendraisiais priėmimo kriterijais.
+
+
+
+
+21. Prašymų dėl priėmimo į valstybines ir savivaldybių mokyklas, vykdančias ikimokyklinio, priešmokyklinio, pradinio, pagrindinio, vidurinio ugdymo programas, pateikimas, mokinių eilės sudarymas, priimtų mokinių sąrašų patvirtinimas, informacijos apie priėmimą į mokyklą pateikimas, kvietimas pasirašyti mokymo sutartį ir jos pasirašymas, mokinių duomenų tvarkymas vykdomi centralizuotai, švietimo, mokslo ir sporto ministro nustatyta tvarka.
+TAR pastaba. Straipsnio papildymas 21  dalimi įsigalioja 2026-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIII-2894, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10796
+ 
 
 
 
@@ -4322,9 +4343,10 @@ Nr. XIII-1396, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11324
 69 straipsnis. Materialinė parama
 
 
-1. Mokiniui, kuris mokosi pagal profesinio mokymo programas siekdamas įgyti pirmąją kvalifikaciją arba keisti kvalifikaciją pagal Lietuvos Respublikos užimtumo įstatymą arba Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymą, taip pat vidaus reikalų profesinio mokymo įstaigos mokiniui Vyriausybės nustatyta tvarka gali būti mokama stipendija, skiriama materialinė parama. 
+1. Mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas ar jų modulius, stipendijų ar kitos materialinės paramos mokėjimą nustato Profesinio mokymo įstatymas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+Nr. XIV-537, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20296
  
 
 
@@ -4486,7 +4508,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
  
 LIETUVOS RESPUBLIKOS 
 AUKŠČIAUSIOSIOS TARYBOS
-PIRMININKO PAVADUOTOJAS                                              BRONISLOVAS KUZMICKAS 
+PIRMININKO PAVADUOTOJAS                                               BRONISLOVAS KUZMICKAS 
  
  
 
@@ -4805,3 +4827,28 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 7, 8, 24, 36, 47 ir 67 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 14, 21 ir 23 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2894, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10796
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 29 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-339, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12790
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 15 straipsnio pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-537, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20296
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 69 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-655, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25024
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-796, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27373
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 25 straipsnio pakeitimo įstatymas
