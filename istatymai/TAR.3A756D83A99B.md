@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-10-16 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
  
@@ -85,6 +85,19 @@ BENDROSIOS NUOSTATOS
 
 
 
+21 straipsnis. Lietuvos Respublikos prekybos atstovybė
+
+
+Lietuvos Respublikos prekybos atstovybė – Lietuvos Respublikos ekonomikos ir inovacijų ministerijos atstovybė, veikianti užsienyje ir padedanti įgyvendinti valstybės ekonomikos politiką (toliau – prekybos atstovybė).
+
+
+Papildyta straipsniu:
+Nr. XIV-557, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21225
+ 
+
+
+
+
 3 straipsnis. Biudžetinės įstaigos teisės ir pareigos 
 
 
@@ -114,6 +127,14 @@ Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
 
 
 
+41. Ekonomikos ir inovacijų ministerija, jos savininko teises ir pareigas įgyvendinančios institucijos pritarimu, gali steigti ir panaikinti prekybos atstovybes. 
+Papildyta straipsnio dalimi:
+Nr. XIV-557, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21225
+ 
+
+
+
+
 5. Biudžetinei įstaigai draudžiama:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
@@ -128,7 +149,10 @@ Nr. XIII-935, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21610
 
 
 
-2) steigti atstovybes;
+2) steigti atstovybes (išskyrus prekybos atstovybes);
+Straipsnio punkto pakeitimai:
+Nr. XIV-557, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21225
+ 
 
 
 
@@ -1028,3 +1052,13 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9-1 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-548, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21635
 Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9-1 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3310, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21248
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir 14 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-557, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21225
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 3 straipsnio pakeitimo ir Įstatymo papildymo 2-1 straipsniu įstatymas
