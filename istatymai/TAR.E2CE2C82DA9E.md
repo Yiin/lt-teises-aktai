@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2020-12-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
  
@@ -1027,55 +1027,95 @@ Nr. X-1821, 2008-11-14, Žin., 2008, Nr. 137-5370 (2008-11-29)
 
 
 
-221 straipsnis. Reikalavimai veiklos ataskaitai
+221 straipsnis. Veiklos ataskaitai taikomi reikalavimai 
 
 
 1. Veiklos ataskaitoje pateikiama:
 
 
-1) informacija apie viešojo sektoriaus subjekto metinius veiklos rezultatus, atsižvelgiant į veiklos tikslų pasiekimą. Viešojo sektoriaus subjektas, įgyvendinantis asignavimų valdytojo strateginį veiklos planą, teikia informaciją apie metinius veiklos rezultatus, pasiektus vykdant asignavimų valdytojo strateginį veiklos planą;
+1) informacija apie viešojo sektoriaus subjekto metinius veiklos rezultatus, atsižvelgiant į veiklos tikslų pasiekimą vykdant viešojo sektoriaus subjekto metinį veiklos planą. Viešojo sektoriaus subjektas, įgyvendinantis asignavimų valdytojo strateginį veiklos planą, teikia informaciją apie metinius veiklos rezultatus, pasiektus vykdant asignavimų valdytojo strateginį veiklos planą;
 
 
 
 
-2) informacija apie atliktus darbus ir kita su viešojo sektoriaus subjekto metiniais veiklos rezultatais susijusi informacija.
+2) informacija apie atliktus darbus ir kita su viešojo sektoriaus subjekto metiniais veiklos rezultatais susijusi informacija;
+
+
+
+
+3) finansinių ir nefinansinių veiklos rezultatų analizės aprašas, kuriame veiklos rezultatai susieti su atliktais darbais ar įgyvendintomis priemonėmis ir jiems sunaudotais ištekliais, prireikus nuorodos į kitose ataskaitose pateiktus duomenis ir papildomi šių duomenų paaiškinimai;
+
+
+
+
+4) kita informacija, kurios reikia Vyriausybės veiklos ataskaitai parengti. Šią informaciją veiklos ataskaitoje teikia viešojo sektoriaus subjektai, kuriems taikomas Lietuvos Respublikos strateginio valdymo įstatymas.
 
 
 
 
 
 
-2. Veiklos ataskaitos ir grupės veiklos ataskaitos parengimo tvarką nustato ir šio straipsnio 1 ir 4 dalyse nurodytą informaciją detalizuoja Vyriausybė ar jos įgaliota institucija. 
+2. Veiklos ataskaitos, grupės veiklos ataskaitos ir Vyriausybės veiklos ataskaitos parengimo tvarką nustato ir šio straipsnio 1, 4 ir 5 dalyse nurodytą informaciją detalizuoja Vyriausybė ar jos įgaliota institucija. 
 
 
 
 
-3. Savivaldybės taryba gali nustatyti kitokią savivaldybių kontroliuojamų viešojo sektoriaus subjektų veiklos ataskaitos ir grupės veiklos ataskaitos parengimo tvarką ir (arba) kitokią negu šio straipsnio 1 dalyje nurodytą veiklos atskaitoje ar grupės veiklos ataskaitoje pateikiamą informaciją.
+3. Savivaldybės taryba gali nustatyti kitokią savivaldybių kontroliuojamų viešojo sektoriaus subjektų veiklos ataskaitos ir grupės veiklos ataskaitos parengimo tvarką ir (arba) kitokią negu šio straipsnio 1 dalyje nurodytą veiklos atskaitoje ar grupės veiklos ataskaitoje pateikiamą informaciją. 
 
 
 
 
-4. Viešojo sektoriaus subjektas, kurio teisinė forma yra viešoji įstaiga, jeigu atitinka Viešųjų įstaigų įstatymo 11 straipsnio 6 dalyje nurodytas bent dvi sąlygas, veiklos ataskaitoje, be šio straipsnio 1 ir (arba) 3 dalyse nurodytos informacijos, turi pateikti informaciją apie:
-
-
-1) kiekvieno vadovaujamas pareigas einančio asmens atlyginimą per ataskaitinius metus (atskirai nurodant premijas, priemokas ir kitokias išmokas); 
+4. Vyriausybės veiklos ataskaita apima Lietuvos Respublikos Ministro Pirmininko pranešimą, informaciją apie artimiausio laikotarpio Vyriausybės veiklos prioritetus, Valstybės pažangos strategijoje nustatytų valstybės vystymosi krypčių ir jų vertinimo rodiklių reikšmių, Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme patvirtintų valstybės veiklos srityse siekiamų pagrindinių pažangos uždavinių ir jų vertinimo rodiklių, kurie nustatyti Nacionaliniame pažangos plane, reikšmių, Vyriausybės programoje nustatytų valstybės veiklos gairių ir jų vertinimo rodiklių reikšmių pasiekimą atitinkamais finansiniais metais ir kitą susijusią informaciją pagal valstybės veiklos sritis.
 
 
 
 
-2) kiekvieną reikšmingą sandorį, kaip jis nustatytas šio straipsnio 2 dalyje nurodytame Vyriausybės ar jos įgaliotos institucijos patvirtintame tvarkos apraše, sudarytą per ataskaitinius metus, nurodant sandorio šalis (juridinio asmens teisinė forma, pavadinimas, kodas, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį, buveinė (adresas); fizinio asmens vardas, pavardė, adresas korespondencijai), objektą ir vertę;
+5. Siekiant skaidrumo, viešojo sektoriaus subjekto, kurio teisinė forma yra viešoji įstaiga arba regiono plėtros taryba ir kurio finansinės ataskaitos turi būti audituotos pagal Lietuvos Respublikos viešųjų įstaigų įstatymą arba Lietuvos Respublikos regioninės plėtros įstatymą, veiklos ataskaitoje taip pat turi būti pateikta informacija apie:
+
+
+1) kiekvieno vadovaujamas pareigas einančio asmens atlyginimą per ataskaitinius metus (atskirai nurodant premijas, priemokas ir kitokias išmokas);
 
 
 
 
-3) per ataskaitinius metus sudarytus sandorius su susijusiomis šalimis, kaip jie nustatyti šio straipsnio 2 dalyje nurodytame Vyriausybės ar jos įgaliotos institucijos patvirtintame tvarkos apraše, nurodant sandorio šalis (juridinio asmens teisinė forma, pavadinimas, kodas, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį, buveinė (adresas); fizinio asmens vardas, pavardė, adresas korespondencijai), objektą ir vertę.
-TAR pastaba. 221 straipsnio nuostatos taikomos rengiant 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių veiklos ataskaitas ir grupės veiklos ataskaitas.
+2) kiekvieną reikšmingą sandorį, sudarytą per ataskaitinius metus, nurodant sandorio šalis (juridinio asmens teisinę formą, pavadinimą, kodą, buveinę (adresą); fizinio asmens vardą, pavardę, adresą korespondencijai), objektą ir vertę;
 
 
 
 
-Papildyta straipsniu:
-Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
+3) per ataskaitinius metus sudarytus sandorius su susijusiomis šalimis, nurodant sandorio šalis (juridinio asmens teisinę formą, pavadinimą, kodą, buveinę (adresą); fizinio asmens vardą, pavardę, adresą korespondencijai), objektą ir vertę. 
+
+
+
+
+
+
+6. Savivaldybės veiklos ataskaita apima:
+
+
+1) mero pranešimą, informaciją apie mero veiklos rezultatus;
+
+
+
+
+2) informaciją apie regionų plėtros programoje, regiono plėtros plane nustatytų uždavinių ir jų vertinimo rodiklių reikšmių pasiekimą atitinkamais finansiniais metais;
+
+
+
+
+3) šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytą informaciją;
+
+
+
+
+4) papildomą informaciją, jeigu savivaldybės taryba nustato tokią informaciją pateikti.
+TAR pastaba. 221 straipsnio nuostatos taikomos 2022 metų ataskaitinio laikotarpio ataskaitų rinkiniams.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-854, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27752
  
 
 
@@ -1585,8 +1625,11 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 
 
 
-4. Vyriausybė teikia Seimui Vyriausybės veiklos ataskaitą, atsižvelgdama į šio straipsnio 2 dalyje nurodytas veiklos ataskaitas, kiekvienais metais ne vėliau kaip iki kovo 31 dienos.
-TAR pastaba. 321 straipsnio nuostatos taikomos rengiant 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių veiklos ataskaitas ir grupės veiklos ataskaitas.
+4. Vyriausybė teikia Seimui Vyriausybės veiklos ataskaitą, atsižvelgdama į šio straipsnio 2 dalyje nurodytas veiklos ataskaitas, kiekvienais metais ne vėliau kaip iki gegužės 15 dienos.
+TAR pastaba. 4 dalies nuostatos taikomos 2022 metų ataskaitinio laikotarpio ataskaitų rinkiniams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-854, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27752
+ 
 
 
 Papildyta straipsniu:
@@ -1824,3 +1867,8 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 19 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3434, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24610
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 2 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-854, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27752
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 22-1 ir 32-1 straipsnių pakeitimo įstatymas
