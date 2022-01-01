@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
  
@@ -384,7 +384,18 @@ Gyvenamosios vietos nedeklaruoja:
 
 
 
-11) valstybės pavadinimą ir išvykimo datą (kai deklaruojamas išvykimas iš Lietuvos Respublikos).
+11) asmens kontaktinius duomenis, t. y. Nacionalinės elektroninių siuntų pristatymo naudojant pašto tinklą informacinės sistemos elektroninio pristatymo dėžutės (toliau – elektroninio pristatymo dėžutė) adresą, elektroninio pašto adresą, fiksuotojo ar judriojo ryšio telefono numerį, jeigu asmuo juos turi; šis reikalavimas netaikomas, kai deklaruojama nepilnamečio gyvenamoji vieta; 
+Papildyta straipsnio punktu:
+Nr. XIV-420, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14577
+ 
+
+
+
+
+12) kai deklaruojamas išvykimas iš Lietuvos Respublikos, valstybės pavadinimą, išvykimo datą ir asmens kontaktinius duomenis, t. y. elektroninio pristatymo dėžutės adresą, elektroninio pašto adresą, fiksuotojo ar judriojo ryšio telefono numerį, jeigu asmuo juos turi.
+Straipsnio punkto pakeitimai:
+Nr. XIV-420, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14577
+ 
 
 
 
@@ -419,7 +430,10 @@ Gyvenamosios vietos nedeklaruoja:
 
 
 
-6) kontaktiniai duomenys (telefono numeris ir (ar) elektroninio pašto adresas, taip pat įstaigos ar organizacijos, teikiančios benamiui socialines paslaugas, adresas ar vietos, kurioje faktiškai dažniausiai gyvena asmuo, dėl ne nuo jo priklausančių priežasčių negalintis deklaruoti gyvenamosios vietos, adresas) – kai prašymą įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą pateikia šio įstatymo 6 straipsnio 1 dalies 1, 2, 5 ir 6 punktuose nurodyti asmenys;
+6) asmens kontaktiniai duomenys, t. y. elektroninio pristatymo dėžutės adresas, elektroninio pašto adresas, fiksuotojo ar judriojo ryšio telefono numeris, jeigu asmuo juos turi, taip pat įstaigos ar organizacijos, teikiančios benamiui socialines paslaugas, adresas ar vietos, kurioje faktiškai dažniausiai gyvena asmuo, dėl ne nuo jo priklausančių priežasčių negalintis deklaruoti gyvenamosios vietos, adresas, – kai prašymą įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą pateikia šio įstatymo 6 straipsnio 1 dalies 1, 2, 5 ir 6 punktuose nurodyti asmenys;
+Straipsnio punkto pakeitimai:
+Nr. XIV-420, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14577
+ 
 
 
 
@@ -651,7 +665,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -660,6 +674,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos
@@ -748,3 +764,11 @@ Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1870, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00222
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 4 ir 10 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-420, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14577
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 7 straipsnio pakeitimo įstatymas
+ 
+ 
+part_be9d153934a94a0cb7228a6ae3691e9c_end
