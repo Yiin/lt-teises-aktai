@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-05-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
  
@@ -2167,7 +2167,10 @@ Teisės į valstybės finansuojamą profesinį mokymą neturi:
 38 straipsnis. Materialinė parama
 
 
-1. Mokiniams, kurie mokosi pagal profesinio mokymo programas siekdami įgyti pirmąją kvalifikaciją, pataisos pareigūnų profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokamos stipendijos ir teikiama kita materialinė parama.
+1. Mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas ar jų modulius, siekdami įgyti pirmąją kvalifikaciją, pataisos pareigūnų profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokamos stipendijos ir teikiama kita materialinė parama. Mokymosi stipendija nemokama mokiniams, neturintiems teisės į valstybės finansuojamą vietą, o mokiniams, kuriems laikinai atimta ar apribota laisvė, nemokama socialinė stipendija ir neteikiama kita materialinė parama.
+Straipsnio dalies pakeitimai:
+Nr. XIV-536, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20295
+ 
 
 
 
@@ -2350,7 +2353,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                      ALGIRDAS BRAZAUSKAS
  
  
 
@@ -2470,3 +2473,8 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 14 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3154, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14369
 Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 36 ir 38 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-536, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20295
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 38 straipsnio pakeitimo įstatymas
