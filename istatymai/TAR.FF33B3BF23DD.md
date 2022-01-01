@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -1834,6 +1834,14 @@ Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
 Nr. XIII-1561, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17476
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
+
+
+101. Jeigu pirmą kartą arba po 12 mėnesių laikotarpio, kai baigėsi paciento gydymo laikotarpis prieš tai elektroniniame recepte išrašytu kompensuojamuoju vaistiniu preparatu, pakartotinai tik bendriniu pavadinimu (nepaisant stiprumo ir farmacinės formos) kompensuojamasis vaistinis preparatas išrašomas elektroniniame recepte su žyma „Pirmas paskyrimas“, vaistinėje pacientui parduodamas (išduodamas) kompensuojamasis vaistinis preparatas, už kurio to paties bendrinio pavadinimo, stiprumo ir tos pačios farmacinės formos vaistinių preparatų dozuotę Kompensuojamųjų vaistinių preparatų kainyno grupėje bazinei kainai apskaičiuoti nustatyta paciento priemoka yra mažiausia (toliau – kompensuojamasis vaistinis preparatas su mažiausia paciento priemoka), išskyrus atvejus, kai sveikatos apsaugos ministro nustatyta tvarka nustatomas kompensuojamojo vaistinio preparato su mažiausia paciento priemoka tiekimo sutrikimas arba kai pacientui negali būti parduotas (išduotas) kompensuojamojo vaistinio preparato su mažiausia paciento priemoka dozuočių skaičius, kuris atitinka nurodytąjį recepte ar sveikatos apsaugos ministro patvirtintas leidžiamas parduoti (išduoti) vaistinių preparatų dozuočių skaičiaus ribas. Sveikatos apsaugos ministras leidžiamas parduoti (išduoti) vaistinių preparatų dozuočių skaičiaus ribas tvirtina atsižvelgdamas į registruotų vaistinių preparatų pakuočių dydžius ir jų dalijimo galimybes. Jeigu pacientui negali būti parduotas (išduotas) kompensuojamasis vaistinis preparatas su mažiausia paciento priemoka, parduodamas (išduodamas) kitas iš eilės kompensuojamasis vaistinis preparatas, kuriam nustatyta mažiausia paciento priemoka. Jeigu šioje dalyje nurodytomis sąlygomis pacientas atsisako įsigyti kompensuojamąjį vaistinį preparatą su mažiausia paciento priemoka, jam gali būti parduotas (išduotas) kitas recepte nurodyto bendrinio pavadinimo, stiprumo ir farmacinės formos kompensuojamasis vaistinis preparatas, pacientui sumokant šio vaistinio preparato paciento priemoką. 
+Papildyta straipsnio dalimi:
+Nr. XIV-385, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14067
  
 
 
@@ -8592,7 +8600,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_0839a2cc4cb74b7f861adcd1c07945d9_end
+part_eedfb1a5d55d4ca79ccdeadd8605a7bb_end
 
 
 Pakeitimai:
