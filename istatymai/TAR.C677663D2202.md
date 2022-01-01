@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-05-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -662,13 +662,13 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 11. Gyventojo pajamos iš darbo santykių arba jų esmę atitinkančių santykių (išskyrus ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas), tantjemos ar atlygis už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamas vietoj tantjemų arba kartu su tantjemomis, iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, gautos pajamos pagal autorines sutartis, taip pat mažųjų bendrijų vadovų, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, pagal civilinę (paslaugų) sutartį už vadovavimo veiklą gautos pajamos apmokestinamos taip:
 
 
-1) metinė pajamų dalis, neviršijanti 60 vidutinių šalies darbo užmokesčių (toliau – VDU) dydžio sumos, taikomos apdraustųjų asmenų 2021 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą;
+1) metinė pajamų dalis, neviršijanti 60 vidutinių šalies darbo užmokesčių (toliau – VDU) dydžio sumos, taikomos apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą;
 
 
 
 
-2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų 2021 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą. 
-TAR pastaba. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų mokestinio laikotarpio pajamas.
+2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.
+TAR pastaba. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 
 Straipsnio dalies pakeitimai:
@@ -1337,9 +1337,12 @@ Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
 
 
 
-202) palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą Lietuvos Respublikos vartojimo kredito įstatyme ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą Lietuvos Respublikos sutelktinio finansavimo įstatyme ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį; 
+202) palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą Lietuvos Respublikos vartojimo kredito įstatyme ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą Lietuvos Respublikos sutelktinio finansavimo įstatyme arba 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį;
+TAR pastaba. 17 straipsnio 1 dalies 202 punktas taikomas palūkanoms už lėšas, suteiktas nuo 2022-01-01 iki 2022-11-10 per sutelktinio finansavimo platformą Lietuvos Respublikos sutelktinio finansavimo įstatyme nustatyta tvarka, neatsižvelgiant į tai, kuriuo mokestiniu laikotarpiu šios palūkanos buvo gautos.
 Papildyta straipsnio punktu:
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
+Straipsnio punkto pakeitimai:
+Nr. XIV-829, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27721
  
 
 
@@ -1965,19 +1968,43 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 20 straipsnis. Neapmokestinamasis pajamų dydis 
 
 
-1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 800 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, taikomas tokia tvarka:
+
+
+1) MNPD negali būti didesnis negu 5 520 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos; 
 
 
 
- Gyventojui taikytinas MNPD = 4 800 – 0,18 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių). 
+
+2) kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, tačiau neviršija 20 136 eurų per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 
 
-TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų ir vėlesnių mokestinių laikotarpių pajamas.
+ Gyventojui taikytinas MNPD = 5 520 – 0,26 × (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių); 
+
+
+
+ 
+
+
+
+
+3) kai GMP viršija 20 136 eurus per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+
+
+
+ Gyventojui taikytinas MNPD = 4 800 – 0,18 × (GMP – 12 × 642). 
+
+
+
+TAR pastaba. 1 dalis taikoma apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas.
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 Nr. XIII-3084, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14359
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+Nr. XIV-713, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25140
  
 
 
@@ -1986,26 +2013,40 @@ Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 400  eurų;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 460 eurų;
 
 
 
 
-2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
+2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, tačiau neviršija 1 678 eurų, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
 
 
- Gyventojui taikytinas mėnesio NPD = 400 – 0,18 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis). 
+ Gyventojui taikytinas mėnesio NPD = 460 – 0,26 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis); 
 
 
 
-TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų ir vėlesnių mokestinių laikotarpių pajamas.
+ 
+
+
+
+
+3) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija 1 678 eurus, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
+
+
+
+ Gyventojui taikytinas mėnesio NPD = 400 – 0,18 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – 642). 
+
+
+
+TAR pastaba. 2 dalis taikoma apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 Nr. XIII-3084, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14359
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+Nr. XIV-713, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25140
  
 
 
@@ -2026,11 +2067,12 @@ Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 
 
 
-6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 645 eurai. Asmenims, kuriems nustatytas  30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra  600 eurų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui. 
-TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pajamas.
+6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 740 eurų. Asmenims, kuriems nustatytas  30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 690 eurų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.
+TAR pastaba. 6 dalis taikoma apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+Nr. XIV-713, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25140
  
 
 
@@ -2107,8 +2149,9 @@ Nr. XIV-62, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27623
 
 
 
-4) sumos, sumokėtos už paties nuolatinio Lietuvos gyventojo ar jo sutuoktinio naudai atliktus pastatų ir kitų statinių apdailos ir bet kokio remonto, išskyrus daugiabučių gyvenamųjų namų atnaujinimą (modernizavimą), darbus, suteiktas lengvųjų automobilių remonto, nepilnamečių vaikų (įvaikių, globotinių, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje), iki 18 metų priežiūros paslaugas, kai šiuos darbus atlieka ir šias paslaugas suteikia Lietuvos Respublikoje įregistruotas mokesčių mokėtojas arba registruotis mokesčių mokėtoju privalantis asmuo. 
-TAR pastaba. 4 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2019, 2020, 2021 metų mokestinių laikotarpių pajamas.
+4) Neteko galios nuo 2022-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 Papildyta straipsnio punktu:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
  
@@ -2123,8 +2166,8 @@ Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 
 
 
-3. Bendra atimamų išlaidų, nurodytų šio straipsnio 1 dalyje, suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomi šio Įstatymo 6 straipsnio 1, 11 ir 12 dalyse nustatyti pajamų mokesčio tarifai, sumos, apskaičiuotos šio Įstatymo 16 straipsnio 1 dalyje nustatyta tvarka, atėmus šio Įstatymo 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Šio straipsnio 1 dalies 1, 2 ir 21 punktuose nurodytų išlaidų suma bet kokiu atveju negali viršyti 1 500 eurų, o šio straipsnio 1 dalies 4 punkte nurodytų išlaidų suma – 2 000 eurų. 
-TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019, 2020, 2021 metų mokestinių laikotarpių pajamas.
+3. Bendra atimamų išlaidų, nurodytų šio straipsnio 1 dalyje, suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomi šio Įstatymo 6 straipsnio 1, 11 ir 12 dalyse nustatyti pajamų mokesčio tarifai, sumos, apskaičiuotos šio Įstatymo 16 straipsnio 1 dalyje nustatyta tvarka, atėmus šio Įstatymo 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Šio straipsnio 1 dalies 1, 2 ir 21 punktuose nurodytų išlaidų suma bet kokiu atveju negali viršyti 1 500 eurų. 
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-170, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29860
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
@@ -2921,6 +2964,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+ 
 Lietuvos Respublikos
 gyventojų pajamų mokesčio
 įstatymo priedas
@@ -3471,3 +3515,8 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 21 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-829, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27721
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio ir priedo pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-713, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25140
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 straipsnio pakeitimo įstatymas
