@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-02
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -634,9 +634,10 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 1. Valstybinė vartotojų teisių apsaugos tarnyba atlieka šias funkcijas:
 
 
-1) užtikrina vartotojų teisių apsaugą, prižiūri, ar rinkai tiekiami ne maisto produktai atitinka ne maisto produktų saugą, kokybę, ženklinimą nustatančių teisės aktų reikalavimus; 
+1) prižiūri, kaip verslininkai laikosi šiame įstatyme ir Civiliniame kodekse nustatytų vartotojų teisių apsaugos reikalavimų, taip pat ar rinkai tiekiami ne maisto produktai atitinka ne maisto produktų saugą, kokybę, ženklinimą nustatančių teisės aktų reikalavimus;
 Straipsnio punkto pakeitimai:
 Nr. XII-1866, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10766
+Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
  
 
 
@@ -2771,16 +2772,7 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus
 
 
-1. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) 2018/302 3, 4 straipsniuose ir 5 straipsnio 1 ir 2 dalyse, Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.353 straipsnio 8 dalyje, 6.359, 6.3591 straipsniuose, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse, taip pat šio įstatymo 441 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) Nr. 524/2013 14 straipsnyje, šio įstatymo 5 straipsnio 3, 4 ir 5 dalyse, 21 straipsnio 2 ir 3 dalyse nurodytų reikalavimų nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo dviejų šimtų penkiasdešimt iki dviejų tūkstančių penkių šimtų eurų baudą.
-Straipsnio dalies pakeitimai:
-Nr. XII-1256, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14862
-Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
-Nr. XII-2757, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26961
-Nr. XIII-1600, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18211
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
-Nr. XIV-229, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07271
- 
+1. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) 2018/302 3, 4 straipsniuose ir 5 straipsnio 1 ir 2 dalyse, Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.22820 straipsnio 2 ir 3 dalyse, 6.22823 straipsnio 11, 12 ir 13 dalyse, 6.353 straipsnio 8 dalyje, 6.359, 6.3591 straipsniuose, 6.364 straipsnio 1 ir 2 dalyse, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse, taip pat šio įstatymo 441 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą verslininkui gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) Nr. 524/2013 14 straipsnyje, šio įstatymo 5 straipsnio 3, 4 ir 5 dalyse, 21 straipsnio 2 ir 3 dalyse nurodytų reikalavimų nesilaikymą verslininkui gali skirti nuo dviejų šimtų penkiasdešimt iki dviejų tūkstančių penkių šimtų eurų baudą. Tais atvejais, kai pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Valstybinė vartotojų teisių apsaugos tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už šioje dalyje nurodytus pažeidimus verslininkui gali taikyti nuobaudą – įspėjimą, neskirdama baudos.
 
 
 
@@ -2790,39 +2782,39 @@ Nr. XIV-229, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07271
 
 
 
-3. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pardavėjas, paslaugų teikėjas, padarę pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo Valstybinei vartotojų teisių apsaugos tarnybai tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą. Valstybinė vartotojų teisių apsaugos tarnyba gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes.
+3. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad verslininkas, padaręs pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo Valstybinei vartotojų teisių apsaugos tarnybai tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą. Valstybinė vartotojų teisių apsaugos tarnyba gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes.
 
 
 
 
-4. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad pardavėjas, paslaugų teikėjas kliudė atlikti tyrimą, slėpė padarytą pažeidimą arba pakartotinai per vienus metus padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas.
+4. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad verslininkas kliudė atlikti tyrimą, slėpė padarytą pažeidimą arba pakartotinai per vienus metus padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas.
 
 
 
 
-5. Skundą dėl Valstybinės vartotojų teisių apsaugos tarnybos nutarimo skirti baudą nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių atitinkama bauda pardavėjui, paslaugų teikėjui būtų akivaizdžiai per didelė, nes neproporcinga padarytam pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę baudą, negu šio straipsnio 1 dalyje nustatyta minimali bauda.
+5. Skundą dėl Valstybinės vartotojų teisių apsaugos tarnybos nutarimo skirti baudą nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių atitinkama bauda verslininkui būtų akivaizdžiai per didelė, nes neproporcinga padarytam pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę baudą, negu šio straipsnio 1 dalyje nustatyta minimali bauda.
 
 
 
 
-6. Už informacijos, reikalingos tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą gali būti skiriama bauda nuo vieno tūkstančio iki penkių tūkstančių eurų. Už vengimą Valstybinės vartotojų teisių apsaugos tarnybos reikalavimu atvykti ir pateikti paaiškinimus, jeigu prieš tai pardavėjas, paslaugų teikėjas buvo įspėtas, gali būti skiriama bauda  nuo keturių šimtų iki dviejų tūkstančių eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1256, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14862
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
- 
+6. Už informacijos, reikalingos Valstybinės vartotojų teisių apsaugos tarnybos tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą verslininkui gali būti skiriama bauda nuo vieno tūkstančio iki penkių tūkstančių eurų. Už vengimą Valstybinės vartotojų teisių apsaugos tarnybos reikalavimu atvykti ir pateikti paaiškinimus, jeigu prieš tai verslininkas buvo įspėtas, gali būti skiriama bauda nuo keturių šimtų iki dviejų tūkstančių eurų.
 
 
 
 
-7. Lietuvos bankas prižiūri, kaip Lietuvos banko įstatymo 42 straipsnio 1 dalyje nurodyti prižiūrimi finansų rinkos dalyviai laikosi šio įstatymo aštuntojo skirsnio nuostatų, ir už šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje ir 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą taiko prižiūrimiems finansų rinkos dalyviams poveikio priemones ir duoda privalomus nurodymus, vadovaudamasis Lietuvos banko įstatymu ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių vykdymo priežiūra priskirta Lietuvos bankui. Valstybinė vartotojų teisių apsaugos tarnyba už šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje ir 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą kitiems pardavėjams, paslaugų teikėjams gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
+7. Lietuvos bankas prižiūri, kaip Lietuvos banko įstatymo 42 straipsnio 1 dalyje nurodyti prižiūrimi finansų rinkos dalyviai laikosi šio įstatymo aštuntojo skirsnio nuostatų, ir už šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje ir 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą taiko prižiūrimiems finansų rinkos dalyviams poveikio priemones ir duoda privalomus nurodymus, vadovaudamasis Lietuvos banko įstatymu ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių vykdymo priežiūra priskirta Lietuvos bankui. Valstybinė vartotojų teisių apsaugos tarnyba už šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje ir 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą kitiems verslininkams gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą.
+
+
+
+
+8. Bauda pagal šį straipsnį negali būti skiriama, jeigu nuo pažeidimo padarymo dienos praėjo daugiau kaip treji metai.
 
 
 Straipsnio pakeitimas:
 Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 Nr. XII-701, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00066
+Straipsnio pakeitimai:
+Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
  
 
 
@@ -3343,7 +3335,6 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
- 
 Lietuvos Respublikos 
 vartotojų teisių apsaugos įstatymo 
 priedas
@@ -3352,71 +3343,63 @@ priedas
  
 
 
-1. 1999 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva 1999/44/EB dėl vartojimo prekių pardavimo ir susijusių garantijų tam tikrų aspektų (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 223) su paskutiniais pakeitimais, padarytais 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES (OL 2011 L 304, p. 64).
+1. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/65/EB dėl nuotolinės prekybos vartotojams skirtomis finansinėmis paslaugomis ir iš dalies keičianti Tarybos direktyvą 90/619/EEB ir direktyvas 97/7/EB ir 98/27/EB su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366.
 
 
 
 
-2. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/65/EB dėl nuotolinės prekybos vartotojams skirtomis finansinėmis paslaugomis ir iš dalies keičianti Tarybos direktyvą 90/619/EEB ir direktyvas 97/7/EB ir 98/27/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 321) su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 (OL 2015 L 337, p. 35).
+2. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
 
 
 
 
-3. Neteko galios nuo 2020-01-17
-Punkto naikinimas:
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
+3. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/22/EB dėl ieškinių dėl uždraudimo ginant vartotojų interesus su paskutiniais pakeitimais, padarytais 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/302.
 
 
 
 
-4. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais (OL 2009 L 33, p. 10).
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302.
 
 
 
 
-5. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/22/EB dėl ieškinių dėl uždraudimo ginant vartotojų interesus (OL 2009 L 110, p. 30) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 524/2013 (OL 2013 L 165, p. 1).
+5. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB.
 
 
 
 
-6. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB (OL 2011 L 304, p. 64), su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 (OL 2015 L 326, p. 1).
+6. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 524/2013 dėl elektroninio vartotojų ginčų sprendimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB.
 
 
 
 
-7. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (OL 2013 L 165, p. 63).
+7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB.
 
 
 
 
-8. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 524/2013 dėl elektroninio vartotojų ginčų sprendimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB (OL 2013 L 165, p. 1).
+8. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su pakeitimais, padarytais 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/302.
 
 
 
 
-9. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB (OL 2015 L 337, p. 35).
+9. 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/302 dėl nepagrįsto geografinio blokavimo ir kitų formų diskriminavimo dėl klientų pilietybės, gyvenamosios vietos arba įsisteigimo vietos vidaus rinkoje problemos sprendimo, kuriuo iš dalies keičiami reglamentai (EB) Nr. 2006/2004 ir (ES) 2017/2394 ir Direktyva 2009/22/EB.
 
 
 
 
-10. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28). 
-Papildyta punktu:
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
+10. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų.
 
 
 
 
-11. 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/302 dėl nepagrįsto geografinio blokavimo ir kitų formų diskriminavimo dėl klientų pilietybės, gyvenamosios vietos arba įsisteigimo vietos vidaus rinkoje problemos sprendimo, kuriuo iš dalies keičiami reglamentai (EB) Nr. 2006/2004 ir (ES) 2017/2394 ir Direktyva 2009/22/EB (OL 2018 L 60, p. 1).
-Punkto numeracijos pakeitimas:
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
+11. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.
 
 
 Priedo pakeitimai:
 Nr. XIII-1096, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06735
 Nr. XIII-1600, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18211
+Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
  
 
 
@@ -3584,3 +3567,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 10 ir 17 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-229, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07271
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 40 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, 40 straipsnių ir priedo pakeitimo įstatymas
