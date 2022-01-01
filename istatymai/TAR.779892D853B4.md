@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -145,11 +145,12 @@ Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
 
 
-10. Finansų kontroliuojančioji bendrovė – kaip apibrėžta 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013)  4 straipsnio 1 dalies 20 punkte. 
+10. Finansų kontroliuojančioji bendrovė – kaip apibrėžta 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (su visais pakeitimais) 4 straipsnio 1 dalies 20 punkte.
 Straipsnio dalies pakeitimai:
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
 Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
 Nr. XII-1549, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04829
+Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
  
 
 
@@ -792,10 +793,11 @@ Nr. XII-377, 2013-06-18, Žin., 2013, Nr. 68-3411 (2013-06-28), i. k. 1131010IST
 
 
 
-3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas priežiūrą atlieka  Europos centrinis bankas (toliau – priežiūros institucija). 
+3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas priežiūrą atlieka Europos Centrinis Bankas (toliau – priežiūros institucija).
 Straipsnio dalies pakeitimai:
 Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
 Nr. XII-1694, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07670
+Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
  
 
 
@@ -2076,12 +2078,18 @@ FINANSŲ ĮSTAIGOS VERSLO RIZIKA IR JOS APRIBOJIMAS
 5. Finansų įstaiga kliento įsipareigojimų įvykdymui užtikrinti negali priimti: 
 
 
-1) kliento arba trečiojo asmens turto, kuris jau įkeistas pagal kitą sandorį, įkeitimo, išskyrus atvejį, kai šio turto įkeitimas yra įregistruotas hipotekos registre; 
+1) kliento arba trečiojo asmens turto, kuris jau įkeistas pagal kitą sandorį, įkeitimo, išskyrus atvejį, kai šio turto įkeitimas yra įregistruotas priklausomai nuo įkeisto turto – Nekilnojamojo turto registre arba Sutarčių ir teisių suvaržymų registre; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2732, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00107
+ 
 
 
 
 
-2) kliento arba trečiojo asmens turto, kurio įkeitimas yra įregistruotas hipotekos registre, įkeitimo, kai šiuo įkeitimu užtikrinta kliento prievolė kitiems kreditoriams (kreditoriaus reikalavimas) yra didesnė kaip 70 procentų įkeisto turto vertės; 
+2) kliento arba trečiojo asmens turto, kurio įkeitimas yra įregistruotas priklausomai nuo įkeisto turto – Nekilnojamojo turto registre arba Sutarčių ir teisių suvaržymų registre, įkeitimo, kai šiuo įkeitimu užtikrinta kliento prievolė kitiems kreditoriams (kreditoriaus reikalavimas) yra didesnė kaip 70 procentų įkeisto turto vertės; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2732, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00107
+ 
 
 
 
@@ -2530,6 +2538,14 @@ Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
  
 
 
+
+
+4. Priežiūros institucija gali pareikalauti pakeisti auditą atliekančią audito įmonę, kai ji neatlieka šiame Įstatyme ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme nustatytų pareigų.
+Papildyta straipsnio dalimi:
+Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA00X-1680
  
@@ -2951,6 +2967,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 finansų įstaigų įstatymo
 priedas
@@ -2959,23 +2976,24 @@ priedas
  
 
 
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7).
+1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366.
 
 
 
 
-2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
+2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/878.
 
 
 
 
-3. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB (OL 2015 L 337, p. 35).
+3. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB.
 
 
 Priedo pakeitimai:
 Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
 Nr. XII-1549, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04829
 Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
+Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
  
  
  
@@ -3115,3 +3133,13 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 18, 44 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, 26 straipsnių ir priedo pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2732, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00107
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 31 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 4, 44 straipsnių ir priedo pakeitimo įstatymas
