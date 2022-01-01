@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-22
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -2550,9 +2550,11 @@ Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
 
 
 
-41. Socialinės paslaugos senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia, iki 2007 m. sausio 1 d. pradėjusiems gauti ilgalaikę socialinę globą apskričių viršininkų socialinių paslaugų įstaigose ir nepertraukiamai ją gavusiems iki 2020 m. spalio 31 d. imtinai, nuo 2020 m. lapkričio 1 d. finansuojamos iš valstybės biudžeto lėšų, netaikant šio įstatymo aštuntojo skirsnio nuostatų. 
+41. Socialinės paslaugos senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia, iki 2007 m. sausio 1 d. pradėjusiems gauti ilgalaikę socialinę globą apskričių viršininkų socialinių paslaugų įstaigose ir nepertraukiamai ją gavusiems iki 2020 m. spalio 31 d. imtinai, nuo 2020 m. lapkričio 1 d. socialinės apsaugos ir darbo ministro nustatyta tvarka finansuojamos iš valstybės biudžeto lėšų, netaikant šio įstatymo aštuntojo skirsnio nuostatų.
 Papildyta straipsnio dalimi:
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
