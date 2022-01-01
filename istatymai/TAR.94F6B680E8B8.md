@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2021-07-03 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-05-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -1412,7 +1412,10 @@ Nr. XI-1961, 2012-04-12, Žin., 2012, Nr. 48-2330 (2012-04-24)
 
 
 
-2. Asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 1–5 dalyse, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos.
+2. Asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 1–5 dalyse, ir 4 straipsnio 6 dalyje nurodyti asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-751, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26583
+ 
 
 
 
@@ -3469,3 +3472,13 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 10 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 15, 21, 22 ir 23 straipsnių pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3315, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21253
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir 35 straipsnių pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-751, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26583
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 17 straipsnio pakeitimo įstatymas
