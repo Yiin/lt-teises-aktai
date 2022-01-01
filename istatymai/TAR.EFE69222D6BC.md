@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-01-02
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
  
@@ -915,7 +915,10 @@ Lietuvos Respublikos Vyriausybė:
 3. Inžinerinius tinklus, valstybinės reikšmės kelius valdančios institucijos ir įmonės, geležinkelių infrastruktūros valdytojai žemės ūkio ministro nustatyta tvarka:
 
 
-1) priima per Topografijos ir inžinerinės infrastruktūros informacinę sistemą pateiktus topografinius planus ir inžinerinių tinklų planus, kuriuose pažymėti jų valdomų inžinerinės infrastruktūros objektų erdviniai duomenys, gavę savivaldybių kreipimusis juos vertina ir teikia savivaldybėms vertinimo išvadą bei turimą papildomą informaciją;
+1) priima per Topografijos ir inžinerinės infrastruktūros informacinę sistemą pateiktus topografinius planus ir inžinerinių tinklų planus, kuriuose pažymėti jų valdomų inžinerinės infrastruktūros objektų erdviniai duomenys, per Topografijos ir inžinerinės infrastruktūros informacinę sistemą gavę savivaldybių kreipimusis juos vertina ir teikia savivaldybėms vertinimo išvadą bei turimą papildomą informaciją;
+Straipsnio punkto pakeitimai:
+Nr. XIV-362, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13164
+ 
 
 
 
@@ -2073,7 +2076,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
 
@@ -2081,6 +2084,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos
@@ -2133,3 +2138,6 @@ Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 17 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-362, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13164
 Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 pakeitimo įstatymas
+ 
+ 
+part_acbd622ae6214fb19c4516326ca51a64_end
