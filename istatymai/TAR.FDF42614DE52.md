@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
  
@@ -46,11 +46,12 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymas nustato nedarbo soci
 2 straipsnis. Nedarbo draudimas
 
 
-Nedarbo draudimas yra socialinio draudimo rūšis. Nedarbo draudimas įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl nedarbo ar dalinio darbo negautas pajamas arba jų dalį. 
+Nedarbo draudimas yra valstybinio socialinio draudimo rūšis. Iš nedarbo draudimo lėšų įstatymų nustatytais atvejais kompensuojamos šios rūšies draudimu apdraustiems asmenims dėl nedarbo ar dalinio darbo negautos pajamos ar jų dalis arba šio įstatymo nustatytais atvejais mokamos šiame įstatyme nustatyto dydžio išmokos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
+Nr. XIV-754, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26586
  
 
 
@@ -554,7 +555,10 @@ NEDARBO DRAUDIMO LĖŠOS, ATSAKOMYBĖ
 
 
 
-2. Nedarbo draudimo pajamas sudaro draudėjų mokamos valstybinio socialinio draudimo įmokos šiai draudimo rūšiai. Įmokų tarifas nedarbo draudimui kiekvienais metais tvirtinamas Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. 
+2. Nedarbo draudimo pajamas sudaro draudėjų mokamos valstybinio socialinio draudimo įmokos šiai draudimo rūšiai, delspinigiai, palūkanos ir baudos. Nedarbo draudimo pajamų dalį gali sudaryti valstybės biudžeto lėšos ir lėšos, skirtos iš Valstybinio socialinio draudimo rezervinio fondo Lietuvos Respublikos Vyriausybės tvirtinamuose Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatuose nustatyta tvarka. Įmokų tarifas nedarbo draudimui kiekvienais metais tvirtinamas Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-754, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26586
+ 
 
 
 Straipsnio pakeitimai:
@@ -790,3 +794,8 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 11 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-360, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13163
 Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 13 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-754, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26586
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 2 ir 19 straipsnių pakeitimo įstatymas
