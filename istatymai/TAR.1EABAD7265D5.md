@@ -21,7 +21,7 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
  
@@ -2530,8 +2530,6 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 47 straipsnis. Pagrindinės informacijos investuotojams dokumentas
 
 
-1. Valdymo įmonė ir investicinė bendrovė-valdytoja parengia kiekvieno savo valdomo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, vadovaujamasi Kolektyvinio investavimo subjektų įstatyme arba Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais.
-1 dalies redakcija nuo 2022-01-01:
 1. Valdymo įmonė ir investicinė bendrovė-valdytoja parengia kiekvieno savo valdomo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, laikomasi Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
@@ -2606,10 +2604,10 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 501 straipsnis. Su tvarumu susijusios informacijos teikimo investuotojams tvarka
 
 
-Prieš pradedant investuoti valdymo įmonė investuotojams turi pateikti informaciją, nurodytą Reglamente (ES) 2019/2088. 
+Prieš pradedant investuoti valdymo įmonė investuotojams turi pateikti informaciją, nurodytą Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose.
 
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
  
 
@@ -2715,9 +2713,11 @@ VALDYMO ĮMONIŲ IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ AUDITAS IR METŲ IR PUSME
 
 
 
-41) informacija, nurodyta Reglamente (ES) 2019/2088; 
-TAR pastaba. 52 straipsnio 2 dalies 41 punkto nuostatos taikomos rengiant 2021 metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
+41) informacija, nurodyta Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose;
+TAR pastaba. 52 straipsnio 2 dalies 41 punkto nuostatos taikomos rengiant 2022 ir vėlesnių metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
 Papildyta straipsnio punktu:
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
+Straipsnio punkto pakeitimai:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
  
 
@@ -2744,9 +2744,11 @@ Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 
 
 
-21) informacija, nurodyta Reglamente (ES) 2019/2088; 
-TAR pastaba. 52 straipsnio 3 dalies 21 punkto nuostatos taikomos rengiant 2021 metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
+21) informacija, nurodyta Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose;
+TAR pastaba. 52 straipsnio 3 dalies 21 punkto nuostatos taikomos rengiant 2022 ir vėlesnių metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
 Papildyta straipsnio punktu:
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
+Straipsnio punkto pakeitimai:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
  
 
@@ -3158,7 +3160,7 @@ VALDYMO ĮMONIŲ IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLOS PRIEŽIŪRA
 
 
 
-4) atlieka kitas šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose ir Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas funkcijas.
+4) atlieka kitas šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas.
 Straipsnio punkto pakeitimai:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
  
@@ -3363,7 +3365,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-7) pažeidžiami Reglamente (ES) Nr. 1286/2014 ir Reglamente (ES) 2019/2088 nustatyti reikalavimai;
+7) pažeidžiami Reglamente (ES) Nr. 1286/2014, Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai;
 Straipsnio punkto pakeitimai:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
  
@@ -3506,6 +3508,14 @@ priedas
 
 
 3. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
+
+
+
+
+4. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. 
+Papildyta punktu:
+Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
+ 
 
 
 Priedo pakeitimai:
