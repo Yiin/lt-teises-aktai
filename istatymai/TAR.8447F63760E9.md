@@ -18,9 +18,10 @@ Projektas XXXX XX XX Nr
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-05-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -5475,7 +5476,7 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 93 straipsnis. Informacija draudėjui
 
 
-1. Visa informacija, kurią draudimo ar perdraudimo produktų platintojas teikia esamiems ar galimiems draudėjams, apdraustiesiems, naudos gavėjams ar nukentėjusiems tretiesiems asmenims, įskaitant reklaminę informaciją, turi būti teisinga, aiški ir neklaidinanti. Draudimo ar perdraudimo produktų platintojas, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali reklamuoti savo paslaugas visomis prieinamomis ryšio priemonėmis, laikydamiesi priežiūros institucijos patvirtintų reklamos formą ir turinį reglamentuojančių taisyklių, kuriomis siekiama užtikrinti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesus. Reklaminė informacija turi būti aiškiai atpažįstama. Draudimo ar perdraudimo produktų platintojas atskleidžia informaciją, nurodytą Reglamente (ES) 2019/2088.
+1. Visa informacija, kurią draudimo ar perdraudimo produktų platintojas teikia esamiems ar galimiems draudėjams, apdraustiesiems, naudos gavėjams ar nukentėjusiems tretiesiems asmenims, įskaitant reklaminę informaciją, turi būti teisinga, aiški ir neklaidinanti. Draudimo ar perdraudimo produktų platintojas, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali reklamuoti savo paslaugas visomis prieinamomis ryšio priemonėmis, laikydamiesi priežiūros institucijos patvirtintų reklamos formą ir turinį reglamentuojančių taisyklių, kuriomis siekiama užtikrinti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesus. Reklaminė informacija turi būti aiškiai atpažįstama. Draudimo ar perdraudimo produktų platintojas atskleidžia informaciją, nurodytą Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose.
 Straipsnio dalies pakeitimai:
 Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
  
@@ -9703,7 +9704,7 @@ Priežiūros institucija, įgyvendindama šio įstatymo nuostatas, atlieka šias
 
 
 
-8) atlieka kitas šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose ir Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas funkcijas.
+8) atlieka kitas šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas.
 Straipsnio punkto pakeitimai:
 Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
  
@@ -10039,6 +10040,14 @@ Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
 
 
 161) pažeisti Reglamente (ES) 2019/2088 nustatyti reikalavimai; 
+Papildyta straipsnio punktu:
+Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
+ 
+
+
+
+
+162) pažeisti Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai;
 Papildyta straipsnio punktu:
 Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
  
@@ -11039,6 +11048,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos
 draudimo įstatymo
@@ -11116,13 +11127,20 @@ priedas
 14. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 
 
+
+
+15. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. 
+Papildyta punktu:
+Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
+ 
+
+
 Priedo pakeitimai:
 Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
 Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
 Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
  
-
-
+part_4e4e1e84adc24802af9add48cd4205f0_end
 
 
 Pakeitimai:
