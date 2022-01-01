@@ -15,7 +15,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-07-01 iki 2021-12-31
+ 
+ 
+
+Įstatymas netenka galios 2022-09-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1381, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15851
+Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2022-01-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
  
@@ -174,6 +182,11 @@ RINKIMŲ ORGANIZAVIMAS
 3) atleistas iš darbo, pareigų ar praradęs teisę verstis atitinkama veikla už neatitiktį įstatymuose keliamiems nepriekaištingos reputacijos reikalavimams ir teisės aktuose nustatytų etikos normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla praradimo dienos nepraėjo treji metai;
 
 4) yra įstatymų nustatyta tvarka uždraustos organizacijos narys.
+
+5. Vyriausioji rinkimų komisija savo interneto svetainėje per 3 dienas atitinkamai nuo Vyriausiosios rinkimų komisijos sprendimo sudaryti savivaldybių rinkimų komisijas įsigaliojimo ir nuo savivaldybių rinkimų komisijų sprendimų sudaryti apylinkių rinkimų komisijas įsigaliojimo skelbia rinkimų komisijų narių sąrašus ir duomenis apie tuos narius (jų vardus, pavardes, pareigas, komisijos narį pasiūliusį subjektą, savivaldybių ir rinkimų apylinkių pavadinimus bei numerius, telefono numerį ir elektroninio pašto adresą). Rinkimų komisijų narių sąrašai skelbiami ir tikslinami ne ilgiau kaip iki politinės kampanijos laikotarpio pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
+ 
 
 13 straipsnis. Savivaldybių rinkimų komisijų sudarymas 
 
@@ -688,15 +701,47 @@ Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
 
 4. Jeigu atmetus neskaičiuotinus parašus pretendentą būti kandidatu į Respublikos Prezidentus remia ne mažiau kaip 20 tūkstančių rinkėjų, Vyriausioji rinkimų komisija ne vėliau kaip per 24 valandas privalo įregistruoti asmenį kandidatu į Respublikos Prezidentus. Vyriausiosios rinkimų komisijos atsisakymas įregistruoti asmenį kandidatu į Respublikos Prezidentus ne vėliau kaip per 3 kalendorines dienas gali būti apskųstas Lietuvos vyriausiajam administraciniam teismui, o šis privalo skundą išnagrinėti per 72 valandas. Į šį terminą įskaitomos ir poilsio bei švenčių dienos. Lietuvos vyriausiojo administracinio teismo sprendimas įsiteisėja nuo jo paskelbimo.
 
-5. Pretendentai būti kandidatais į Respublikos Prezidentus kandidato į Respublikos Prezidentus statusą įgyja, kai Vyriausioji rinkimų komisija juos įregistruoja kandidatais į Respublikos Prezidentus ir savo interneto svetainėje paskelbia kandidatais į Respublikos Prezidentus įregistruotų asmenų sąrašą.
+5. Pretendentai būti kandidatais į Respublikos Prezidentus kandidato į Respublikos Prezidentus statusą įgyja, kai Vyriausioji rinkimų komisija juos įregistruoja kandidatais į Respublikos Prezidentus ir savo interneto svetainėje paskelbia kandidatais į Respublikos Prezidentus įregistruotų asmenų sąrašą (nurodo kiekvieno kandidato į Respublikos Prezidentus vardą, pavardę, iškėlusią partiją arba kad išsikėlė pats). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
+ 
 
-6. Likus iki rinkimų dienos ne mažiau kaip 30 dienų, Vyriausioji rinkimų komisija oficialiai paskelbia visų kandidatais į Respublikos Prezidentus įregistruotų asmenų sąrašą ir ne vėliau kaip per 24 valandas nuo šio sąrašo paskelbimo išduoda šiems asmenims kandidato į Respublikos Prezidentus pažymėjimus.
+6. Likus iki rinkimų dienos ne mažiau kaip 30 dienų, Vyriausioji rinkimų komisija oficialiai paskelbia visų kandidatais į Respublikos Prezidentus įregistruotų asmenų sąrašą (nurodo kiekvieno kandidato į Respublikos Prezidentus vardą, pavardę, iškėlusią partiją arba kad išsikėlė pats) ir ne vėliau kaip per 24 valandas nuo šio sąrašo paskelbimo išduoda šiems asmenims kandidato į Respublikos Prezidentus pažymėjimus. Kandidatų į Respublikos Prezidentus sąrašo duomenys nuo jų paskelbimo dienos Vyriausiosios rinkimų komisijos interneto svetainėje skelbiami neterminuotai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
+ 
 
 7. Kai pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straipsnį arba Respublikos Prezidento rinkimai pagal Konstitucijos 89 straipsnio 1 dalį rengiami per 2 mėnesius nuo rinkimų datos paskelbimo, pretendentai būti kandidatais į Respublikos Prezidentus privalo Vyriausiajai rinkimų komisijai pateikti jiems išduotus šio įstatymo 37 straipsnyje nurodytus rinkėjų parašų rinkimo lapus ne vėliau kaip likus 40 dienų iki rinkimų.
 
 8. Jeigu pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straipsnį arba Respublikos Prezidento rinkimai pagal Konstitucijos 89 straipsnio 1 dalį rengiami anksčiau kaip per 2 mėnesius nuo rinkimų datos paskelbimo, šio straipsnio 6 ir 7 dalyse nurodyti 30 ir 40 dienų terminai trumpinami tiek dienų, kiek jų trūksta iki 2 mėnesių termino.
 
 9. Jeigu pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straipsnį arba Respublikos Prezidento rinkimai pagal Konstitucijos 89 straipsnio 1 dalį rengiami anksčiau kaip per 2 mėnesius nuo rinkimų datos paskelbimo, jie negali būti surengti anksčiau kaip per 45 dienas nuo rinkimų datos paskelbimo.
+ 
+
+381 straipsnis. Duomenų apie kandidatus skelbimas
+
+1. Pagal kandidatų į Respublikos Prezidentus pateiktus pareiškinius ir kitus dokumentus Vyriausiosios rinkimų komisijos interneto svetainėje neterminuotai skelbiama ši informacija apie kandidatus: 
+
+1) informacija apie kandidatą į Respublikos Prezidentus: vardas, pavardė, gimimo data, darbovietė einamos pareigos (tarnyba), narystė politinėje partijoje ir asociacijose; šio įstatymo 2 straipsnio 1 dalyje, 36 straipsnio 3 dalyje ir Seimo rinkimų įstatymo 2 straipsnio 2 dalyje, 38 straipsnio 3 dalyje nurodyti duomenys: ar jis yra Lietuvos Respublikos pilietis pagal kilmę; ar jis ne mažiau kaip 3 pastaruosius metus gyveno Lietuvoje; ar jis yra, ar buvo ir kada buvo kitos valstybės (kitų valstybių) pilietis; ar nėra priesaika ar pasižadėjimu susijęs su užsienio valstybe, duomenys apie tokią priesaiką ar tokį pasižadėjimą; ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės; šio įstatymo 3 straipsnio 1 dalyje nurodyti duomenys apie ryšius su buvusios SSRS specialiosiomis tarnybomis (struktūromis); 
+
+2) kandidato į Respublikos Prezidentus biografija; 
+
+3) kandidato gyventojų pajamų mokesčio ir gyventojo turto deklaracijų pagrindinių duomenų išrašai, patvirtinti Valstybinės mokesčių inspekcijos; 
+
+4) kandidato privačių interesų deklaracija; 
+
+5) ar dalyvauja visuomeninėje veikloje; 
+
+6) kita kandidato į Respublikos Prezidentus nurodyta informacija, kurią jis norėtų paskelbti.
+
+2. Informacija apie kandidatų į Respublikos Prezidentus gimimo vietą, tautybę, išsilavinimą, užsienio kalbų mokėjimą, pomėgius, šeiminę padėtį, sutuoktinio ar sutuoktinės vardą (pavardę), vaikų vardus (pavardes), telefono numerį, elektroninio pašto adresą Vyriausiosios rinkimų komisijos interneto svetainėje skelbiama iki politinės kampanijos laikotarpio pabaigos.
+
+3. Kandidatų į Respublikos Prezidentus duomenys: vardas, pavardė, iškėlusi partija arba kad išsikėlė pats, taip pat rinkimų rezultatai (gauti balsai) Vyriausiosios rinkimų komisijos interneto svetainėje skelbiami neterminuotai.
+
+4. Kandidato į Respublikos Prezidentus asmens kodas, paso arba asmens tapatybės kortelės numeris, nuolatinės gyvenamosios vietos adresas viešai neskelbiami. 
+
+Papildyta straipsniu:
+Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
  
 
 39 straipsnis. Kandidato į Respublikos Prezidentus patikėtiniai
@@ -706,6 +751,11 @@ Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
 2. Kandidato į Respublikos Prezidentus patikėtinis turi teisę kandidato į Respublikos Prezidentus pavedimu jam atstovauti susitikimuose su rinkėjais, visuomenės informavimo priemonėse, rinkti lėšas rinkimams finansuoti, taip pat atlikti kitus kandidato į Respublikos Prezidentus pavedimus, kurie neprieštarauja įstatymams.
 
 3. Kandidatas į Respublikos Prezidentus gali bet kada atšaukti savo patikėtinį. Vyriausioji rinkimų komisija, gavusi tokį kandidato į Respublikos Prezidentus prašymą, priima sprendimą dėl patikėtinio atšaukimo ir viešai šį sprendimą paskelbia. 
+
+4. Vyriausioji rinkimų komisija politinės kampanijos laikotarpiu savo interneto svetainėje skelbia kandidato į Respublikos Prezidentus patikėtinio duomenis (vardą ir pavardę, telefono numerį, elektroninio pašto adresą). 
+Papildyta straipsnio dalimi:
+Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
+ 
 
 40 straipsnis. Respublikos Prezidento rinkimų stebėtojai
 
@@ -731,7 +781,10 @@ Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
 
 2) savivaldybės rinkimų komisija – stebėti rinkimus visoje savivaldybės teritorijoje arba tos savivaldybės konkrečiose rinkimų apylinkėse.
 
-5. Rinkimų stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant lygiateisiškumo tarp politinių partijų, kandidatų ir nevyriausybinių organizacijų siūlomų rinkimų stebėtojų principo laikymąsi. 
+5. Rinkimų stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant politinių partijų, kandidatų ir nevyriausybinių organizacijų siūlomų rinkimų stebėtojų lygiateisiškumo principo laikymąsi. Vyriausioji rinkimų komisija politinės kampanijos laikotarpiu savo interneto svetainėje skelbia rinkimų stebėtojų duomenis (vardą, pavardę, rinkimų stebėtoją pasiūliusį subjektą, savivaldybių ir rinkimų apylinkių pavadinimus bei numerį). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
+ 
 
 6. Rinkimų komisijos gali atsisakyti registruoti rinkimų stebėtoją, jeigu jis neatitinka šio įstatymo reikalavimų ar jo veikla neatitinka Konstitucijos ar įstatymų, arba panaikinti rinkimų stebėtojo registravimą, jeigu jis pažeidžia Konstituciją ar įstatymus, nesilaiko Vyriausiosios rinkimų komisijos sprendimų. Rinkimų stebėtojo registravimas gali būti panaikintas jį įregistravusios rinkimų komisijos arba aukštesnės rinkimų komisijos pirmininko. Rinkimų stebėtoją pasiūliusiam asmeniui pranešama apie atsisakymą išduoti rinkimų stebėtojo pažymėjimą arba apie registravimo panaikinimą.
 
