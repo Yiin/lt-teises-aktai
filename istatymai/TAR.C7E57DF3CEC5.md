@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2021-06-15 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -34,22 +34,27 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato investavimo Lietuvos Respublikoje sąlygas, investuotojų teises ir investicijų apsaugos priemones visų rūšių investicijoms.
+1. Šis įstatymas nustato investavimo Lietuvos Respublikoje sąlygas, investuotojų teises ir šiame įstatyme nurodytų investicijų apsaugos priemones. 
 
 
 
 
-2. Investavimo į komercinius bankus, kitas kredito įstaigas, draudimo įmones bei kitas finansine veikla besiverčiančias įmones ypatumus nustato šių įmonių ir įstaigų veiklą reglamentuojantys Lietuvos Respublikos įstatymai.
+2. Valstybės ir savivaldybių investavimas reglamentuotas Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos regioninės plėtros įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme ir Lietuvos Respublikos vietos savivaldos įstatyme.
 
 
 
 
-3. Šio įstatymo ketvirtajame2 skirsnyje nustatomas specialus teisinis reguliavimas taikomas investavimui į stambius projektus skatinti, todėl šiems teisiniams santykiams kiti įstatymai taikomi tiek, kiek tai neprieštarauja šio įstatymo ketvirtajam2 skirsniui. 
-Papildyta straipsnio dalimi:
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
+3. Investavimo į komercinius bankus, kitas kredito įstaigas, draudimo įmones ir kitas finansine veikla besiverčiančias įmones ypatumus nustato šių įmonių ir įstaigų veiklą reglamentuojantys Lietuvos Respublikos įstatymai.
+
+
+
+
+4. Šio įstatymo ketvirtajame2 skirsnyje nustatytas specialus teisinis reguliavimas taikomas investavimui į stambius projektus skatinti, todėl šiems teisiniams santykiams kiti įstatymai taikomi tiek, kiek tai neprieštarauja šio įstatymo ketvirtajam2 skirsniui.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
  
-
-
 
 
 
@@ -72,9 +77,10 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 
 
 
-4. Investuotojai – Lietuvos Respublika bei užsienio valstybės, tarptautinės organizacijos, Lietuvos Respublikos ir užsienio juridiniai ir fiziniai asmenys, kurie Lietuvos Respublikos įstatymų nustatyta tvarka investuoja nuosavą, skolintą ar patikėjimo teise valdomą bei naudojamą turtą.
+4. Investuotojas – užsienio valstybė, tarptautinė organizacija, Lietuvos Respublikos arba užsienio juridinis ar fizinis asmuo, kurie Lietuvos Respublikos įstatymų nustatyta tvarka investuoja nuosavą, skolintą ar patikėjimo teise valdomą ir naudojamą turtą ir kurie Lietuvos Respublikos valstybės skolos įstatymo nustatyta tvarka nepriskiriami valdžios sektoriui.
 Straipsnio dalies pakeitimai:
 Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA00IX-450
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
  
 
 
@@ -85,7 +91,10 @@ Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA
 
 
 
-6. Investavimo objektas – ūkio subjekto nuosavas kapitalas, visų rūšių vertybiniai popieriai, ilgalaikis materialusis turtas ir ilgalaikis nematerialusis turtas. 
+6. Investavimo objektas – investuojamas investuotojo nuosavas, skolintas ar patikėjimo teise valdomas ir naudojamas turtas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
+ 
 
 
 
@@ -297,9 +306,10 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 2. Investicijų rūšys pagal investuotojo nuolatinę buveinę (rezidavimą):
 
 
-1) vidaus investicijos – Lietuvos valstybės, Lietuvos Respublikos fizinių ir juridinių asmenų investicijos Lietuvos Respublikoje;
+1) vidaus investicijos – Lietuvos Respublikos fizinių ir juridinių asmenų investicijos Lietuvos Respublikoje;
 Straipsnio punkto pakeitimai:
 Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA00IX-450
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
  
 
 
@@ -315,7 +325,10 @@ Nr. IX-450, 2001-07-11, Žin., 2001, Nr. 64-2329 (2001-07-25), i. k. 1011010ISTA
 3. Investicijų rūšys pagal investuotojo statusą:
 
 
-1) valstybės investicijos – investicijos valstybės poreikiams tenkinti nacionalinio biudžeto, valstybės (savivaldybių) fondų lėšomis, Lietuvos valstybės (savivaldybių) vardu gautomis paskolomis, valstybės (savivaldybių) įmonių lėšomis ir kitu valstybės (savivaldybių) turtu bei valstybės (savivaldybių) suteikiamomis paskolų garantijomis;
+1) neteko galios nuo 2022-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
+ 
 
 
 
@@ -535,7 +548,7 @@ Investavimo laisvosiose ekonominėse zonose ypatumus reglamentuoja Lietuvos Resp
 
 
 
-3. Tam, kad teritorija galėtų tapti pramonės parku, savivaldybės taryba turi užtikrinti, kad tokia teritorija atitiktų šias pramonės parkui privalomas sąlygas:
+3. Sprendimai dėl teritorijų planavimo dokumentų, kuriais planuojama pramonės parko teritorija, rengimo ir pramonės parko steigimo priimami vadovaujantis Lietuvos Respublikos teritorijų planavimo įstatymu, Lietuvos Respublikos teritorijos bendrojo plano koncepcija ir kitais teisės aktais, reglamentuojančiais teritorijų planavimą. Tam, kad teritorija galėtų tapti pramonės parku, savivaldybės taryba turi užtikrinti, kad ta teritorija atitiktų šiuos pramonės parkui privalomus reikalavimus:
 
 
 1) teritorija turi būti numatyta teritorijų planavimo dokumentuose;
@@ -548,30 +561,19 @@ Investavimo laisvosiose ekonominėse zonose ypatumus reglamentuoja Lietuvos Resp
 
 
 
-3) teritorijos vystymo projektui Lietuvos Respublikos Seimo ar Lietuvos Respublikos Vyriausybės nutarimu turi būti suteiktas valstybei svarbaus projekto statusas;
+3) teritorijos vystymo projektas Lietuvos Respublikos Vyriausybės nutarimu yra pripažintas valstybei svarbiu projektu;
 
 
 
 
-4) Lietuvos Respublikos Vyriausybės įgaliota institucija turi būti patvirtinusi su savivaldybės taryba suderintą pramonės parko plėtros planą. Tuo atveju, kai pramonės parkas steigiamas privačioje pramoninėje teritorijoje, jo plėtros planą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
- 
+4) Lietuvos Respublikos Vyriausybės įgaliota institucija turi būti patvirtinusi su savivaldybės taryba suderintą pramonės parko plėtros planą. Tuo atveju, kai pramonės parkas steigiamas privačioje pramoninėje teritorijoje, jo plėtros planą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
 
 
 
-4. Neteko galios nuo 2020-08-01
-Straipsnio dalies naikinimas:
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
- 
 
 
-
-
-5. Pramonės parko plėtros plane turi būti nurodomi pramonės parko plėtros tikslai, uždaviniai, vertinimo kriterijai ir jų reikšmės, taip pat nustatyta:
+4. Pramonės parko plėtros plane turi būti nurodyti pramonės parko plėtros tikslai, uždaviniai, vertinimo kriterijai ir jų reikšmės, taip pat nustatyta:
 
 
 1) pramonės parke numatomos ūkinės komercinės veiklos rūšys;
@@ -584,7 +586,7 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 
 
 
-3) pramonės parko sklypų parinkimo ir naudojimo ypatumai (sklypai infrastruktūrai, verslui plėtoti ir kita);
+3) pramonės parko sklypų parinkimo ir naudojimo ypatumai (sklypai, skirti infrastruktūrai, verslui plėtoti, ir kita);
 
 
 
@@ -599,7 +601,7 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 
 
 
-6) Lietuvos Respublikos įstatymų nustatytos pramonės parko steigėjo numatomos sudaryti specialios investavimo, verslo ir kitos sąlygos pramonės parke veikiantiems ūkio subjektams;
+6) Lietuvos Respublikos įstatymuose nustatytos pramonės parko steigėjo numatomos sudaryti specialios investavimo, verslo ir kitos sąlygos, taikomos pramonės parke veikiantiems ūkio subjektams;
 
 
 
@@ -611,22 +613,22 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 
 
 
-6. Kai teritorija atitinka visas šio straipsnio 3 dalyje nustatytas pramonės parkui privalomas sąlygas, savivaldybės taryba priima sprendimą dėl pramonės parko įsteigimo, pramonės parko veiklos termino ir jo pakeitimo sąlygų ir pramonės parko operatoriaus (savivaldybės administracijos) paskyrimo arba atrinkimo viešo konkurso būdu. 
+5. Kai teritorija atitinka visus šio straipsnio 3 dalyje nustatytus pramonės parkui privalomus reikalavimus, savivaldybės taryba priima sprendimą dėl pramonės parko įsteigimo, pramonės parko veiklos termino ir jo keitimo sąlygų, pramonės parko operatoriaus (savivaldybės administracijos) paskyrimo arba atrinkimo viešo konkurso būdu.
 
 
 
 
-7. Pramonės parko veikla organizuojama ir investavimas pramonės parke atliekamas vadovaujantis konkretaus pramonės parko plėtros planu, kurį tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
+6. Pramonės parko veikla organizuojama ir investavimas pramonės parke atliekamas vadovaujantis konkretaus pramonės parko plėtros planu. Pramonės parko plėtros planą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija.
 
 
 
 
-8. Tais atvejais, kai įsteigus pramonės parką savivaldybės taryba priima sprendimą dėl pramonės parko operatoriaus atrinkimo viešo konkurso būdu, jį viešo konkurso būdu atrenka savivaldybės administracija, vadovaudamasi Lietuvos Respublikos civilinio kodekso 6.947–6.952 straipsnių nuostatomis. Kol pramonės parko operatorius neatrinktas, už pramonės parko veiklos organizavimą yra atsakinga savivaldybės administracija. Tais atvejais, kai pramonės parkas steigiamas privačioje pramoninėje teritorijoje, viešas konkursas pramonės parko operatoriui atrinkti nėra skelbiamas ir pramonės parko veiklą organizuoja privačios pramoninės teritorijos valdytojas. 
+7. Tais atvejais, kai įsteigus pramonės parką savivaldybės taryba priima sprendimą dėl pramonės parko operatoriaus atrinkimo viešo konkurso būdu, pramonės parko operatorių viešo konkurso būdu atrenka savivaldybės administracija vadovaudamasi Lietuvos Respublikos civilinio kodekso 6.947–6.952 straipsnių nuostatomis. Kol pramonės parko operatorius neatrinktas, už pramonės parko veiklos organizavimą yra atsakinga savivaldybės administracija. Tais atvejais, kai pramonės parkas steigiamas privačioje pramoninėje teritorijoje, pramonės parko operatoriaus atrankos viešas konkursas neskelbiamas ir pramonės parko veiklą organizuoja privačios pramoninės teritorijos valdytojas.
 
 
 
 
-9. Tais atvejais, kai pramonės parko operatorius atrenkamas viešo konkurso būdu, pramonės parko operatoriaus veikla, teisės ir pareigos, atsakomybė, sprendimų priėmimas, atlygis už veiklą ir kitos sąlygos nustatomos pramonės parko steigėjo (savivaldybės tarybos) ir viešo konkurso būdu atrinkto pramonės parko operatoriaus sutartyje. Sutartyje nustatomos šios pagrindinės sąlygos:
+8. Tais atvejais, kai pramonės parko operatorius atrenkamas viešo konkurso būdu, pramonės parko operatoriaus veikla, teisės ir pareigos, atsakomybė, sprendimų priėmimas, atlygis už veiklą ir kitos sąlygos nustatomos pramonės parko steigėjo (savivaldybės tarybos) ir viešo konkurso būdu atrinkto pramonės parko operatoriaus sutartyje. Šioje sutartyje nustatomos šios pagrindinės sąlygos:
 
 
 1) pramonės parko operatoriaus teikiamų paslaugų pobūdis ir mastas, kokybiniai reikalavimai;
@@ -696,26 +698,26 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 
 
 
-10. Tais atvejais, kai savivaldybės taryba priima sprendimą dėl pramonės parko operatoriaus (savivaldybės administracijos) paskyrimo, pramonės parko operatoriaus veikla, teisės ir pareigos, atsakomybė, sprendimų priėmimas ir kitos sąlygos nustatomos savivaldybės tarybos sprendime. 
+9. Tais atvejais, kai savivaldybės taryba priima sprendimą dėl pramonės parko operatoriaus (savivaldybės administracijos) paskyrimo, pramonės parko operatoriaus veikla, teisės ir pareigos, atsakomybė, sprendimų priėmimas ir kitos sąlygos nustatomos savivaldybės tarybos sprendime.
 
 
 
 
-11. Pramonės parko operatoriui valstybinės ir savivaldybės žemės sklypai pramonės parko teritorijoje išnuomojami Lietuvos Respublikos žemės įstatymo nustatyta tvarka. Privačios žemės sklypai pramonės parko operatoriui gali būti išnuomojami Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Pramonės parko operatorius turi teisę pagal valstybinės ir (ar) savivaldybės žemės nuomos sutartyje nustatytus reikalavimus ir sąlygas subnuomoti pramonės parko operatoriui išnuomotus valstybinės ir (ar) savivaldybių žemės sklypus (jų dalis) pramonės parko įmonėms.
+10. Pramonės parko operatoriui valstybinės ir savivaldybės žemės sklypai pramonės parko teritorijoje išnuomojami Lietuvos Respublikos žemės įstatymo nustatyta tvarka. Privačios žemės sklypai pramonės parko operatoriui gali būti išnuomojami Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Pramonės parko operatorius turi teisę pagal valstybinės ir (ar) savivaldybės žemės nuomos sutartyje nustatytus reikalavimus ir sąlygas subnuomoti pramonės parko operatoriui išnuomotus valstybinės ir (ar) savivaldybių žemės sklypus (jų dalis) pramonės parko įmonėms.
 
 
 
 
-12. Pramonės parko teritorijoje gali veikti pramonės parko operatorius, pramonės parko įmonės. Kiti ūkio subjektai, kaip jie apibrėžti Lietuvos Respublikos konkurencijos įstatyme, veikę šioje teritorijoje iki pramonės parko įsteigimo, gali tęsti veiklą, jeigu jie su pramonės parko operatoriumi sudaro aptarnavimo paslaugų teikimo sutartį.
+11. Pramonės parko teritorijoje gali veikti pramonės parko operatorius, pramonės parko įmonės. Kiti ūkio subjektai, veikę šioje teritorijoje iki pramonės parko įsteigimo, gali tęsti veiklą, jeigu jie su pramonės parko operatoriumi sudaro aptarnavimo paslaugų teikimo sutartį.
 
 
 
 
-13. Valstybės (savivaldybės) nuosavybės statiniai ir infrastruktūros objektai, esantys pramonės parke, gali būti išnuomoti, perduoti naudotis panaudos pagrindais arba parduoti pramonės parko operatoriui Lietuvos Respublikos įstatymų nustatyta tvarka. 
+12. Valstybės (savivaldybės) nuosavybės statiniai ir infrastruktūros objektai, esantys pramonės parke, gali būti išnuomoti, perduoti naudotis panaudos pagrindais arba parduoti pramonės parko operatoriui Lietuvos Respublikos įstatymų, reglamentuojančių disponavimą valstybės ir (ar) savivaldybių turtu, nustatytais atvejais ir tvarka.
 
 
-Papildyta straipsniu:
-Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+Straipsnio pakeitimai:
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
  
 
 
@@ -768,24 +770,18 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
  
 
 
-12 straipsnis. Valstybinė investicijų politika
+12 straipsnis. Valstybinė investicijų skatinimo politika
 
 
-1. Valstybė sudaro palankias sąlygas privačioms investicijoms ir užtikrina efektyvų valstybės lėšų, skirtų investicijoms ar jų skatinimui, panaudojimą siekiant valstybės ekonominės ir socialinės plėtros. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
- 
+1. Valstybė sudaro palankias sąlygas privačioms investicijoms ir užtikrina efektyvų valstybės lėšų, skirtų investavimui skatinti, panaudojimą siekiant kuo didesnės ekonominės ir socialinės naudos.
 
 
 
 
-2. Valstybė remia investicijas 13 straipsnyje nustatytais būdais, kai: 
+2. Valstybė skatina investicijas šio įstatymo 13 straipsnyje nustatytais būdais, kai:
 
 
-1) šio įstatymo 13 straipsnio 1 dalies 6 punkte nustatyta minimali investicijų suma yra investuojama į priemones perspektyvių ūkio šakų įmonių technologijoms atnaujinti ir modernizuoti, šalies ekologinei situacijai gerinti, smulkiajam ir vidutiniam verslui plėtoti; 
-Straipsnio punkto pakeitimai:
-Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
- 
+1) šio įstatymo 13 straipsnio 1 dalies 6 punkte nustatyta minimali investicijų suma yra investuojama į priemones, skirtas perspektyvių ūkio šakų įmonių technologijoms atnaujinti ir modernizuoti, šalies ekologinei situacijai gerinti, smulkiajam ir vidutiniam verslui plėtoti;
 
 
 
@@ -795,136 +791,80 @@ Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
 
 
 
-3) investuojama į nebaigtus statyti pastatus (statinius), kurių negalima užbaigti dėl lėšų stokos ar kurie dėl užsitęsusio statybos proceso tampa nereikalingi (netinkami naudoti pagal paskirtį) valstybės (savivaldybių) institucijoms;
+3) investuojama į nebaigtus statyti pastatus (statinius), kurių statybos negalima užbaigti dėl lėšų stokos ar kurie dėl užsitęsusios statybos tampa nereikalingi (netinkami naudoti pagal paskirtį) valstybės (savivaldybių) institucijoms;
 
 
 
 
-4) investuojama į problemines teritorijas (valstybės teritorijos dalis, kuriose yra specifinių socialinių ir ekonominių problemų, atitinkančių Vyriausybės nustatytus probleminių teritorijų kriterijus);
+4) investuojama į tikslines teritorijas (valstybės teritorijos dalis, išskirtas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos) siekiant bent vieno iš Regioninės plėtros įstatymo 2 straipsnio 6 dalyje nustatytų tikslų;
 
 
 
 
-5) investuojama į laisvąsias ekonomines zonas, mokslo ir technologijų parkus, pramonės parkus; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+5) investuojama į laisvąsias ekonomines zonas, mokslo ir technologijų parkus, pramonės parkus;
+
+
+
+
+6) investuojama į inovacijas, žinių ekonomikos branduolius – klasterius (geografines tarpusavyje sujungtas tam tikros srities įmonių santalkas);
+
+
+
+
+7) investuojama į įsteigimą naujų ne trumpiau kaip trejus metus išlaikomų darbo vietų, kuriose įdarbintų ne mažiau kaip 20 asmenų atitinkamų metų vidutinis bruto darbo užmokestis (taikoma kiekvienam asmeniui atskirai) būtų ne mažesnis kaip Lietuvos statistikos departamento skelbiamas savivaldybės, kurioje investuojama, vidutinis mėnesinis bruto darbo užmokestis, įskaitant individualias įmones;
+
+
+
+
+8) investuojama į stambų projektą šio įstatymo ketvirtajame2 skirsnyje nustatyta tvarka.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
  
 
 
 
 
-6) investuojama į inovacijas, žinių ekonomikos branduolius – klasterius (geografines tarpusavyje sujungtas tam tikros srities įmonių ir institucijų santalkas); 
-
-
-
-
-7) investuojama į įsteigimą naujų ne trumpiau kaip trejus metus išlaikomų darbo vietų, kuriose įdarbintų ne mažiau kaip 20 asmenų atitinkamų metų vidutinis darbo užmokestis būtų ne mažesnis kaip Lietuvos statistikos departamento skelbiamas savivaldybės, kurioje investuojama, vidutinis mėnesinis darbo užmokestis; 
-Papildyta straipsnio punktu:
-Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
-Straipsnio punkto pakeitimai:
-Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
- 
-
-
-
-
-8) investuojama į stambų projektą šio įstatymo ketvirtajame2 skirsnyje nustatyta tvarka. 
-Papildyta straipsnio punktu:
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
- 
-
-
-
-
-3. Valstybė, atsižvelgdama į Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus parametrus, gali skirti lėšų bei suteikti paskolas ir paskolų garantijas investicijoms ūkio sektoriams restruktūrizuoti, ekonominiams bei socialiniams skirtumams tarp atskirų šalies regionų sumažinti, naujoms darbo vietoms kurti bei stichinių nelaimių padariniams likviduoti. 
-
-
-
-
-4. Valstybė, siekdama skatinti investicijas smulkiojo ir vidutinio verslo ir ūkio subjektų veiklos pradžios, vykdymo ir plėtros, urbanizuotų ar urbanizuojamų teritorijų plėtros, būsto ir viešosios arba viešajam interesui tenkinti skirtos infrastruktūros objektų atnaujinimo ir plėtros, energijos vartojimo efektyvumo, žemės ūkio produktų gamybos ir perdirbimo srityse, gali skirti lėšų finansinėms priemonėms įgyvendinti ir (arba) fondų fondams valdyti.
-Papildyta straipsnio dalimi:
-Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
-Straipsnio dalies pakeitimai:
-Nr. XIII-296, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06974
- 
-
-
-
-
-5. Valdyti fondų fondą arba įgyvendinti finansines priemones, kai fondų fondas nesteigiamas, Lietuvos Respublikos Vyriausybė paveda Lietuvos Respublikos Vyriausybės įsteigtoms ir valstybės valdomoms finansų įstaigoms, išskyrus atvejus, kai fondų fondą valdo ir (arba) finansines priemones įgyvendina, jei fondų fondas nesteigiamas, tarptautinės finansų institucijos. 
-Papildyta straipsnio dalimi:
-Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
- 
-
-
-
-
-6. Šio straipsnio 4 ir 5 dalyse nurodytos finansinės priemonės suprantamos kaip nacionalinio biudžeto, Europos Sąjungos, tarptautinių finansų institucijų ir (ar) kitomis lėšomis įgyvendinamos paskolų, garantijų, rizikos kapitalo investicijų arba kitos priemonės, kurioms finansuoti ir (ar) įgyvendinti skirtos lėšos (ar jų dalis) grįžta ir pakartotinai naudojamos tiems patiems finansinės priemonės kūrimo metu nustatytiems tikslams, o fondų fondas suprantamas kaip fondas, skirtas finansinėms priemonėms įgyvendinti.
-Papildyta straipsnio dalimi:
-Nr. XII-1898, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11088
- 
-
-
-
-
-
-
-13 straipsnis. Investavimo skatinimas 
+13 straipsnis Investavimo skatinimas
 
 
 1. Investavimas skatinamas šiais būdais:
 
 
-1) investuotojams teikiamos mokesčių lengvatos, kurias nustato atitinkami mokesčių įstatymai;
+1) investuotojams teikiamos mokesčių lengvatos, kurias nustato mokesčių įstatymai;
 
 
 
 
-2) darbuotojų perkvalifikavimo ir darbo vietų steigimo išlaidos iš dalies ar visiškai padengiamos Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; 
-Straipsnio punkto pakeitimai:
-Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
-Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
- 
+2) darbuotojų perkvalifikavimo ir darbo vietų steigimo išlaidos iš dalies ar visiškai padengiamos Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
 
 
 
 
-3) Lietuvos ir užsienio kreditoriams, suteikusiems paskolas investicijų projektams įgyvendinti, teikiamos valstybės (savivaldybių) garantijos Lietuvos Respublikos įstatymų nustatyta tvarka;
+3) Lietuvos ir užsienio kreditoriams, suteikusiems paskolas investicijų projektams įgyvendinti, Lietuvos Respublikos įstatymų nustatyta tvarka teikiamos valstybės (savivaldybių) garantijos;
 
 
 
 
-4) paskolų, skirtų ūkio subjektams investicijų projektams įgyvendinti,  grąžinimą bankams gali užtikrinti Vyriausybės įsteigtų garantijų institucijų arba draudimo įmonių teikiamos garantijos arba šių paskolų draudimas;
+4) paskolų, skirtų ūkio subjektams investicijų projektams įgyvendinti, grąžinimą bankams gali užtikrinti Lietuvos Respublikos Vyriausybės įsteigtų garantijų institucijų arba draudimo įmonių teikiamos garantijos arba šių paskolų draudimas;
 
 
 
 
-5) dėl ne mažesnių kaip 200 mln. litų ir atitinkančių Lietuvos Respublikos Vyriausybės nustatytus kriterijus investicijų Vyriausybės ar jos įgaliotos institucijos iki 2001 m. rugsėjo 1 d. sudarytos su strateginiais investuotojais investicijų sutartys vykdomos pagal jose nustatytas specialias investavimo ir verslo sąlygas;
+5) dėl ne mažesnių kaip 58 000 000 eurų ir Lietuvos Respublikos Vyriausybės nustatytus kriterijus atitinkančių investicijų Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos iki 2001 m. rugsėjo 1 d. sudarytos su strateginiais investuotojais investicijų sutartys vykdomos pagal jose nustatytas specialias investavimo ir verslo sąlygas;
 
 
 
 
-6) dėl ne mažesnių kaip 1 448 100 eurų vertės privačių investicijų į investicijų projektą ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos. Šiems investuotojams taip pat taikomos šio įstatymo 131 straipsnyje numatytos specialios investavimo, verslo ir kitos sąlygos, jeigu jie atitinka šio įstatymo 131 straipsnyje nustatytus kriterijus; 
-Straipsnio punkto pakeitimai:
-Nr. XI-1116, 2010-11-12, Žin., 2010, Nr. 139-7100 (2010-11-27), i. k. 1101010ISTA0XI-1116
-Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
-Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
-Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
-Nr. XIV-377, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13518
- 
+6) dėl ne mažesnių kaip 1 448 100 eurų vertės privačių investicijų į investicijų projektą ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos. Šiems investuotojams taip pat taikomos šio įstatymo 131 straipsnyje numatytos specialios investavimo, verslo ir kitos sąlygos, jeigu jie atitinka šio įstatymo 131 straipsnyje nustatytus kriterijus;
 
 
 
 
-7) investicijoms į gamybos, pramonės ar paslaugų (išskyrus viešąsias paslaugas) sritis savivaldybė sudaro investicijų sutartis, atitinkančias savivaldybės tarybos nustatytus kriterijus. Specialios investavimo, verslo ar žemės sklypo parinkimo sąlygos tokiose sutartyse nustatomos pagal savivaldybės kompetenciją; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
- 
+7) dėl investicijų į gamybos, pramonės ar paslaugų (išskyrus viešąsias paslaugas) sritis savivaldybė sudaro investicijų sutartis, atitinkančias savivaldybės tarybos nustatytus kriterijus ir (ar) Lietuvos Respublikos Vyriausybės nustatytus projekto poveikio nacionalinės regioninės politikos tikslui pasiekti ir uždaviniams įgyvendinti vertinimo kriterijus, kuriais remdamasi regiono plėtros taryba projektą pripažino regioninės svarbos projektu. Specialios investavimo, verslo ar žemės sklypo parinkimo sąlygos tokiose sutartyse nustatomos pagal savivaldybės kompetenciją;
 
 
 
@@ -934,89 +874,54 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 
 
 
-9) infrastruktūra iki investicinio žemės sklypo, atitinkančio Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus, ribos ir (ar) jo ribose įrengiama ir (ar) sutvarkoma ir (ar) investicinis žemės sklypas vystomas valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Investuotojo pageidavimu, gavus laisvosios ekonominės zonos valdymo bendrovės, pramonės parko operatoriaus sutikimą, kuris duodamas, jeigu investuotojo pageidavimas atitinka Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 81 straipsnyje įtvirtintus valstybės turto valdymo, naudojimo ir disponavimo juo principus, infrastruktūra laisvojoje ekonominėje zonoje, pramonės parke įrengiama ir (ar) sutvarkoma investuotojo lėšomis teisės aktų nustatyta tvarka. 
-Straipsnio punkto pakeitimai:
-Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
-Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
- 
+9) infrastruktūra iki investicinio žemės sklypo, atitinkančio Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus, ribos ir (ar) jo ribose įrengiama ir (ar) sutvarkoma ir (ar) investicinis žemės sklypas vystomas valstybės ir (ar) savivaldybės Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Investuotojo pageidavimu, gavus laisvosios ekonominės zonos valdymo bendrovės, pramonės parko operatoriaus sutikimą, kuris duodamas, jeigu investuotojo pageidavimas atitinka Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 9 straipsnyje nustatytus valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo principus, infrastruktūra laisvojoje ekonominėje zonoje, pramonės parke įrengiama ir (ar) sutvarkoma investuotojo lėšomis teisės aktų nustatyta tvarka;
 
 
 
 
-10) privatūs subjektai turi teisę inicijuoti (pasisiūlyti įgyvendinti) viešojo ir privataus sektorių partnerystės projektus Lietuvos Respublikos Vyriausybės nustatyta tvarka, o įgaliotos viešojo sektoriaus institucijos turi priimti sprendimus dėl siūlomų iniciatyvų; 
-Papildyta straipsnio punktu:
-Nr. XII-1082, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10852
- 
+10) privatūs subjektai turi teisę inicijuoti (pasisiūlyti įgyvendinti) viešojo ir privataus sektorių partnerystės projektus Lietuvos Respublikos Vyriausybės nustatyta tvarka, o įgaliotos viešojo sektoriaus institucijos turi priimti sprendimus dėl siūlomų iniciatyvų;
 
 
 
 
-11) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos; 
-Straipsnio punkto pakeitimai:
-Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
-Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1082, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10852
- 
+11) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos;
 
 
 
 
-12) investicijoms į stambius projektus sudaromos stambių projektų investicijų sutartys; 
-Papildyta straipsnio punktu:
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
- 
+12) dėl investicijų į stambius projektus sudaromos stambių projektų investicijų sutartys;
 
 
 
 
-13) laisvųjų ekonominių zonų įmonėms taikomos šio įstatymo 155 straipsnio 3 dalyje numatytos specialios investavimo ir verslo sąlygos. 
-Papildyta straipsnio punktu:
-Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
- 
+13) laisvųjų ekonominių zonų įmonėms taikomos šio įstatymo 155 straipsnio 3 dalyje numatytos specialios investavimo ir verslo sąlygos.
 
 
 
 
 
 
-2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2527, 2004-11-02, Žin., 2004, Nr. 167-6106 (2004-11-17), i. k. 1041010ISTA0IX-2527
- 
+2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą.
 
 
 
 
-3. Investicijų projektai, susiję su juridinio asmens steigimu, plėtra, veiklos įvairinimu ar esminiu pakeitimu, yra koordinuojami, dėl jų teikiama informacija, susijusi su paramos ir (ar) valstybės pagalbos gavimu ir jos panaudojimu šiems investicijų projektams įgyvendinti. 
-Papildyta straipsnio dalimi:
-Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
- 
+3. Investicijų projektai, susiję su juridinio asmens steigimu, plėtra, veiklos įvairinimu ar esminiu pakeitimu, yra koordinuojami, dėl jų teikiama informacija, susijusi su paramos ir (ar) valstybės pagalbos gavimu ir jos panaudojimu šiems investicijų projektams įgyvendinti.
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodytą investicijų projektų koordinavimą, informacijos teikimą, taip pat investicijų projektų, kuriems lėšos skiriamos iš valstybės biudžeto, išskyrus Europos Sąjungos ir kitos finansinės paramos lėšas, įgyvendinimo kontrolę vykdo, konsultacijas tiesioginių užsienio investicijų pritraukimo į šalies gamybos ir paslaugų sektorius klausimais ir informaciją apie investicijų aplinką Lietuvos ūkio subjektams ir užsienio investuotojams teikia Lietuvos Respublikos ekonomikos ir inovacijų ministro įgaliota viešoji įstaiga, kurios savininko teises ir pareigas įgyvendina Lietuvos Respublikos ekonomikos ir inovacijų ministerija. 
-Papildyta straipsnio dalimi:
-Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
-Straipsnio dalies pakeitimai:
-Nr. XIV-377, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13518
- 
+4. Šio straipsnio 3 dalyje nurodytą investicijų projektų koordinavimą, informacijos teikimą, taip pat investicijų projektų, kuriems lėšos skiriamos iš valstybės biudžeto, išskyrus Europos Sąjungos ir kitos finansinės paramos lėšas, įgyvendinimo kontrolę vykdo, konsultacijas tiesioginių užsienio investicijų pritraukimo į šalies gamybos ir paslaugų sektorius klausimais ir informaciją apie investicijų aplinką Lietuvos ūkio subjektams ir užsienio investuotojams teikia Lietuvos Respublikos Vyriausybės įgaliota viešoji įstaiga, kurios savininko teises ir pareigas įgyvendina Lietuvos Respublikos ekonomikos ir inovacijų ministerija.
 
 
 
 
-5. Šio straipsnio 3 ir 4 dalyse nustatyta veikla yra finansuojama iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
-Papildyta straipsnio dalimi:
-Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
-Straipsnio dalies pakeitimai:
-Nr. XIV-377, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13518
- 
+5. Šio straipsnio 3 ir 4 dalyse nustatyta veikla finansuojama iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
  
 
 
@@ -1926,3 +1831,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2 ir 14 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-377, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13518
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13 straipsnio pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas
