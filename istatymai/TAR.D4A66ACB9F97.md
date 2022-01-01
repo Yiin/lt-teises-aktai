@@ -18,9 +18,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
 
-
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
  
@@ -292,7 +292,7 @@ Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 
 
-37) politinės partijos nariai ir jų šeimos nariai, išskyrus asmenis, kurių politinės partijos nario mokestis per kalendorinius metus neviršija 360 eurų.
+37) politinės partijos nariai ir jų šeimos nariai, išskyrus asmenis, kurių politinės partijos nario mokestis per kalendorinius metus neviršija 360 eurų;
 Straipsnio punkto pakeitimai:
 Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
  
@@ -300,11 +300,20 @@ Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
 
 
 
+38) žvalgybos kontrolieriai ir jų šeimos nariai. 
+Papildyta straipsnio punktu:
+Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
+ 
 
 
-2. Šio straipsnio 1 dalies 1–23 ir 29–36 punktuose nurodyti asmenys privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Šio straipsnio 1 dalies 1–24, 27–35, 37 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose ar aukštosiose mokyklose pagal dieninės ir nuolatinės studijų formų programas, asmenys laikotarpiu nuo bendrojo ugdymo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).
+
+
+
+
+2. Šio straipsnio 1 dalies 1–23, 29–36 ir 38 punktuose nurodyti asmenys privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Šio straipsnio 1 dalies 1–24, 27–35, 37 ir 38 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose ar aukštosiose mokyklose pagal dieninės ir nuolatinės studijų formų programas, asmenys laikotarpiu nuo bendrojo ugdymo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).
 Straipsnio dalies pakeitimai:
 Nr. XII-1587, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05702
+Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
  
 
 
@@ -390,7 +399,9 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 3 straipsnis. Deklaruojamas turtas
 
 
-1. Šio Įstatymo 2 straipsnio 1 dalies 1–24, 27–37 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:
+1. Šio Įstatymo 2 straipsnio 1 dalies 1–24, 27–38 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
 
 
 1) nekilnojamąjį daiktą, įskaitant nebaigtą statyti statinį;
@@ -512,7 +523,10 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 5 straipsnis. Turto deklaravimo tvarka
 
 
-1. Šio Įstatymo 2 straipsnio 1 dalies 1–23, 29–37 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
+1. Šio Įstatymo 2 straipsnio 1 dalies 1–23, 29–38 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
+ 
 
 
 
@@ -717,7 +731,10 @@ Mokesčio administratorius tikrina, ar deklaracijose nurodyti duomenys yra teisi
 9 straipsnis. Atsakomybė už šio Įstatymo pažeidimą
 
 
-1. Šio Įstatymo 2 straipsnio 1 dalies 1–23, 26, 29–37 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas laiku arba iš viso jų nepateikę, taip pat šio Įstatymo 2 straipsnio 1 dalies 24 ir 28 punktuose nurodyti turtą deklaruoti privalantys gyventojai, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka.
+1. Šio Įstatymo 2 straipsnio 1 dalies 1–23, 26, 29–38 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas laiku arba iš viso jų nepateikę, taip pat šio Įstatymo 2 straipsnio 1 dalies 24 ir 28 punktuose nurodyti turtą deklaruoti privalantys gyventojai, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
+ 
 
 
 
@@ -753,10 +770,11 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 
 
 
-2. Kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių, Europos Parlamento narių, Ministro Pirmininko, ministrų, Vyriausybės kanclerio, Vyriausybės kanclerio pavaduotojų, Ministro Pirmininko patarėjų, viceministrų, savivaldybių tarybų narių, ministerijų kanclerių, Lietuvos Respublikos teismų pirmininkų, teismų pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų, Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios administracinių ginčų komisijos narių, generalinio prokuroro, generalinio prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus, valstybės kontrolieriaus pavaduotojų, kitų Valstybės kontrolės darbuotojų, Seimo kontrolierių, Vyriausybės įstaigų, prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų, valstybės ir savivaldybių įstaigų, kitų biudžetinių įstaigų vadovų, jų pavaduotojų, viešųjų įstaigų, kurių steigėja ar dalininkė yra valstybė ar savivaldybė, vadovų, jų pavaduotojų, valstybės ir savivaldybių įmonių, strateginę reikšmę nacionaliniam saugumui turinčių valstybės ir savivaldybės įmonių ir akcinių bendrovių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovų, jų pavaduotojų, akcinių bendrovių, kurių akcininkė yra valstybė ar savivaldybė, vadovų, jų pavaduotojų, politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos banko valdybos pirmininko, valdybos pirmininko pavaduotojų ir valdybos narių, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų, valstybės saugumo sistemos valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti, bei jų šeimos narių ir kriminalinės žvalgybos subjektų valstybės tarnautojų ir pareigūnų, kurių veiklą reglamentuoja Kriminalinės žvalgybos įstatymas ir Žvalgybos įstatymas, ir jų šeimos narių bei žvalgybos pareigūnų ir jų šeimos narių deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
+2. Kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių, Europos Parlamento narių, Ministro Pirmininko, ministrų, Vyriausybės kanclerio, Vyriausybės kanclerio pavaduotojų, Ministro Pirmininko patarėjų, viceministrų, savivaldybių tarybų narių, ministerijų kanclerių, Lietuvos Respublikos teismų pirmininkų, teismų pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų, Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios administracinių ginčų komisijos narių, generalinio prokuroro, generalinio prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus, valstybės kontrolieriaus pavaduotojų, kitų Valstybės kontrolės darbuotojų, Seimo kontrolierių, žvalgybos kontrolierių, Vyriausybės įstaigų, prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų, valstybės ir savivaldybių įstaigų, kitų biudžetinių įstaigų vadovų, jų pavaduotojų, viešųjų įstaigų, kurių steigėja ar dalininkė yra valstybė ar savivaldybė, vadovų, jų pavaduotojų, valstybės ir savivaldybių įmonių, strateginę reikšmę nacionaliniam saugumui turinčių valstybės ir savivaldybės įmonių ir akcinių bendrovių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovų, jų pavaduotojų, akcinių bendrovių, kurių akcininkė yra valstybė ar savivaldybė, vadovų, jų pavaduotojų, politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos banko valdybos pirmininko, valdybos pirmininko pavaduotojų ir valdybos narių, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų, valstybės saugumo sistemos valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti, bei jų šeimos narių ir kriminalinės žvalgybos subjektų valstybės tarnautojų ir pareigūnų, kurių veiklą reglamentuoja Kriminalinės žvalgybos įstatymas ir Žvalgybos įstatymas, ir jų šeimos narių bei žvalgybos pareigūnų ir jų šeimos narių deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 Nr. XIV-139, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00261
+Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
  
 
 
@@ -795,7 +813,6 @@ Nr. IX-2060, 2004-03-16, Žin., 2004, Nr. 47-1551 (2004-03-30)
 
 
 
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
  
@@ -804,12 +821,13 @@ RESPUBLIKOS PREZIDENTAS                            �
  
  
  
+
+ 
+
  
  
-
-
-
-
+part_a03114f18cd04161a4302f853c14061c_end
+part_846b26794989409a9978f3903c7c2a31_end
 
 
 
@@ -1050,3 +1068,8 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2 ir 7
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-139, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00261
 Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 ir 10 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 3, 5, 9 ir 10 straipsnių pakeitimo įstatymas
