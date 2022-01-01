@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-05-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -970,7 +970,10 @@ Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
 
 
 
-5) transporto priemonės ašies (ašių) apkrova yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą daugiau kaip 8 t.
+5) transporto priemonės ašies (ašių) apkrova yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą daugiau kaip 8 t, išskyrus išimtį, numatytą šio straipsnio 22 dalyje. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-866, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27772
+ 
 
 
 
@@ -1058,6 +1061,29 @@ Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
 3) policijos automobilis priekyje ir automobilis su įjungtais oranžiniais žybčiojančiais švyturėliais gale, jeigu didžiagabaritės ir (ar) sunkiasvorės transporto priemonės plotis su kroviniu ar be jo yra didesnis kaip 4,50 m ir (ar) ilgis didesnis kaip 30,00 m.
 
 
+
+
+
+
+22. Šio straipsnio 15 dalies 5 punkte nustatyta didžiausiosios leidžiamos naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovos viršijimo daugiau kaip 8 t riba gali būti netaikoma šiomis sąlygomis:
+
+
+1) didžiagabaritės ir (ar) sunkiasvorės transporto priemonės savininkas ar valdytojas savo lėšomis organizuoja išsamią važiavimo maršruto analizę, apimančią kelio juostos ir kelio statinių laikančiųjų konstrukcijų savybių ir būklės įvertinimą; važiavimo maršruto analizė atliekama vadovaujantis kompetentingų institucijų, atsakingų už kelių infrastruktūros reglamentavimą, priimtais teisės aktais; važiavimo maršruto analizę atlieka pagal Lietuvos standartą LST EN ISO/IEC 17025:2018 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ akredituotos laboratorijos;
+
+
+
+
+2) didžiagabaritės ir (ar) sunkiasvorės transporto priemonės savininkas ar valdytojas su kelio savininku, kai kelias yra vietinės reikšmės, kelią patikėjimo teise valdančiu subjektu, kai kelias yra valstybinės reikšmės, sudaro sutartį dėl kelio ir (ar) kelio statinių paprastojo ar kapitalinio remonto (arba kelio taisymo ir (ar) kelio statinių atstatymo), reikalingo šiuo keliu pravažiavus didžiagabaritei ir (ar) sunkiasvorei transporto priemonei, šios transporto priemonės savininko ir (ar) valdytojo lėšomis; sutartyje turi būti nurodytas kelio taisymo ir (ar) kelio statinių atstatymo terminas, siektini kelio taisymo ir (ar) kelio statinių atstatymo rodikliai;
+
+
+
+
+3) kelio savininkas ar valdytojas didžiagabaritės ir (ar) sunkiasvorės transporto priemonės savininko ar valdytojo lėšomis atlieka šios transporto priemonės maršruto apimamų kelių būklės tyrimą prieš šiai transporto priemonei važiuojant šiuo maršrutu ir (ar) juo pravažiavus ir nustato būklės pokytį. Kelių būklės tyrimas atliekamas vadovaujantis kompetentingų institucijų, atsakingų už kelių infrastruktūros reglamentavimą, priimtais teisės aktais. Kelių būklės tyrimą atlieka pagal Lietuvos standartą LST EN ISO/IEC 17025:2018 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ akredituotos laboratorijos.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-866, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27772
+ 
 
 
 Straipsnio pakeitimai:
@@ -1277,3 +1303,8 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 12 ir 13 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
 Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 18 ir 20 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-866, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27772
+Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas
