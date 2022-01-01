@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -813,7 +813,10 @@ Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 
 
 
-5. Žvalgybos institucijų veiksmai ar neveikimas, susiję su asmens duomenų tvarkymu nacionalinio saugumo ar gynybos tikslais galimai pažeidžiant šio įstatymo ar Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo nuostatas, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, taip pat asmuo turi teisę kreiptis į Seimo kontrolierių Lietuvos Respublikos Seimo kontrolierių įstatymo nustatyta tvarka.
+5. Žvalgybos institucijų veiksmai ar neveikimas, susiję su asmens duomenų tvarkymu nacionalinio saugumo ar gynybos tikslais galimai pažeidžiant šio įstatymo ar Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo nuostatas, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, taip pat asmuo turi teisę kreiptis į žvalgybos kontrolierių Lietuvos Respublikos žvalgybos kontrolierių įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
+ 
 
 
 Papildyta straipsniu:
@@ -1134,13 +1137,33 @@ Nr. XII-2382, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14743
 
 
 
-23 straipsnis. Skundų dėl žvalgybos pareigūnų, vykdančių žvalgybą ir kontržvalgybą, veiksmų tyrimas ir nagrinėjimas 
+221 straipsnis. Žvalgybos institucijų nepriklausoma išorės kontrolė
 
 
-Skundus dėl žvalgybos pareigūnų veiksmų, pažeidžiančių žmogaus teises ar laisves, vykdant žvalgybą ir kontržvalgybą, tiria ir nagrinėja Lietuvos Respublikos Seimo kontrolieriai Lietuvos Respublikos Seimo kontrolierių įstatymo nustatyta tvarka. 
+1. Žvalgybos institucijų nepriklausomą išorės kontrolę Žvalgybos kontrolierių įstatymo nustatyta tvarka atlieka žvalgybos kontrolieriai.
+
+
+
+
+2. Žvalgybos pareigūnai turi teisę tiesiogiai kreiptis į žvalgybos kontrolierių dėl žvalgybos institucijos vykdomos galimai neteisėtos veiklos ir (ar) jos priimtų galimai neteisėtų sprendimų dėl asmenų, kurių atžvilgiu vykdoma žvalgybinė veikla. 
+
+
+Papildyta straipsniu:
+Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
  
 
 
+
+
+23 straipsnis. Skundų dėl žvalgybos pareigūnų, vykdančių žvalgybą ir kontržvalgybą, veiksmų nagrinėjimas
+
+
+Fizinių ir juridinių asmenų pateiktus skundus dėl žvalgybos institucijų ir (ar) žvalgybos pareigūnų veiksmų, pažeidžiančių žmogaus teises ar laisves, vykdant žvalgybą ir kontržvalgybą, nagrinėja žvalgybos kontrolieriai Žvalgybos kontrolierių įstatymo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
+ 
 
 
 
@@ -4221,3 +4244,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 14, 16 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3245, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15883
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 27 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 16-1, 23 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
