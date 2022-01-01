@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
  
@@ -131,9 +132,10 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 
 
-8) neturi sveikatos sutrikimų, dėl kurių negalėtų atlikti notaro pareigų. Tikrintis sveikatą einant notaro pareigas taip pat privaloma kas penkeri metai. Notarų sveikatos reikalavimus ir sveikatos tikrinimo tvarką nustato Lietuvos Respublikos sveikatos apsaugos ministras ir Lietuvos Respublikos teisingumo ministras. 
+8) neteko galio nuo 2022-01-01;
 Straipsnio punkto pakeitimai:
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
  
 
 
@@ -185,9 +187,11 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 
 
 
-Lietuvos Respublikos teisingumo ministerija turi teisę gauti iš visų teisėsaugos institucijų, Lietuvos Respublikos sveikatos priežiūros įstaigų, valstybės ir savivaldybių institucijų, valstybės registrų ir informacinių sistemų informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus įsitikinti, kad asmuo atitinka šio straipsnio 2 ir 3 dalyse nustatytus reikalavimus. 
+Lietuvos Respublikos teisingumo ministerija turi teisę gauti iš visų teisėsaugos institucijų, valstybės ir savivaldybių institucijų, valstybės registrų ir informacinių sistemų informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus įsitikinti, kad asmuo atitinka šio straipsnio antrojoje ir trečiojoje dalyse nustatytus reikalavimus.
 Papildyta straipsnio dalimi:
 Nr. XIII-3215, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15752
+Straipsnio dalies pakeitimai:
+Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
  
 
 
@@ -1403,7 +1407,10 @@ Notaro įgaliojimai pasibaigia:
 
 
 
-4) kai jis neatitinka šio įstatymo 3 straipsnio antrosios dalies 8 punkto reikalavimų;
+4) neteko galios nuo 2022-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
+ 
 
 
 
@@ -2249,7 +2256,10 @@ Nuosavybės teisės į nekilnojamąjį daiktą perleidimo sutartyse notaras nuro
 
 
 
-Tvirtindamas hipotekos (įkeitimo) sandorius, notaras nurodo sandorio sudarymo laiką (valandą ir minutes). Patvirtinęs hipotekos (įkeitimo) sandorį, hipotekos (įkeitimo) pabaigą, nustatęs priverstinę hipoteką (įkeitimą), notaras duomenis apie hipoteką (įkeitimą) perduoda Hipotekos registrui įregistruoti Hipotekos registro nuostatų nustatyta tvarka.
+Tvirtindamas hipotekos (įkeitimo) sandorius, notaras nurodo sandorio sudarymo laiką (valandą ir minutes). Patvirtinęs hipotekos (įkeitimo) sandorį, hipotekos (įkeitimo) pabaigą, nustatęs priverstinę hipoteką (įkeitimą), notaras duomenis apie hipoteką (įkeitimą) perduoda priklausomai nuo įkeisto objekto – Nekilnojamojo turto registrui arba Sutarčių ir teisių suvaržymų registrui įregistruoti šio registro nuostatų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2728, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00092
+ 
 
 
 Straipsnio pakeitimai:
@@ -2328,7 +2338,10 @@ Notaras gali patvirtinti įgaliojimą vieno ar kelių asmenų vardu, išduodamą
 491 straipsnis. Vykdomųjų įrašų dėl priverstinio išieškojimo pagal hipotekos (įkeitimo) ir pagal notarine forma patvirtintų sandorių, iš kurių atsiranda piniginės prievolės, kreditoriaus prašymą atlikimo ir apskundimo tvarka 
 
 
-Notaras, gavęs hipotekos (įkeitimo) kreditoriaus prašymą dėl vykdomojo įrašo atlikimo, patikrina, ar vykdomąjį įrašą dėl priverstinio išieškojimo pagal hipotekos (įkeitimo) kreditoriaus prašymą pateikia asmuo, kuris yra hipotekos (įkeitimo) kreditorius; ar hipotekos (įkeitimo) kreditoriaus prašyme dėl vykdomojo įrašo atlikimo nurodyti duomenys atitinka Hipotekos registre nurodytus duomenis; ar pasibaigęs hipoteka (įkeitimu) užtikrintos prievolės įvykdymo terminas, o tuo atveju, kai kreditorius reikalauja prieš terminą patenkinti hipoteka (įkeitimu) užtikrintą reikalavimą, ar kreditoriaus nurodyti pagrindai yra nustatyti įstatymuose. Patikrinęs šiuos duomenis, notaras, prieš atlikdamas vykdomąjį įrašą, išsiunčia skolininkui pranešimą, kuriame turi būti nurodyti hipotekos (įkeitimo) kreditoriaus pateikti duomenys ir siūlymas ne vėliau kaip per dvidešimt dienų nuo pranešimo skolininkui išsiuntimo dienos sumokėti kreditoriui skolą ir apie prievolės įvykdymą raštu pranešti notarui arba pateikti notarui duomenis dėl hipotekos (įkeitimo) kreditoriaus reikalavimo nepagrįstumo. Atsižvelgdamas į hipotekos (įkeitimo) kreditoriaus ir skolininko pateiktus duomenis, notaras atlieka vykdomąjį įrašą arba motyvuotai atsisako jį atlikti. Notaras turi teisę įstatymų nustatytais atvejais panaikinti vykdomąjį įrašą. 
+Notaras, gavęs hipotekos (įkeitimo) kreditoriaus prašymą dėl vykdomojo įrašo atlikimo, patikrina, ar vykdomąjį įrašą dėl priverstinio išieškojimo pagal hipotekos (įkeitimo) kreditoriaus prašymą pateikia asmuo, kuris yra hipotekos (įkeitimo) kreditorius; ar hipotekos (įkeitimo) kreditoriaus prašyme dėl vykdomojo įrašo atlikimo nurodyti duomenys atitinka priklausomai nuo įkeisto objekto – Nekilnojamojo turto registre arba Sutarčių ir teisių suvaržymų registre nurodytus duomenis; ar pasibaigęs hipoteka (įkeitimu) užtikrintos prievolės įvykdymo terminas, o tuo atveju, kai kreditorius reikalauja prieš terminą patenkinti hipoteka (įkeitimu) užtikrintą reikalavimą, ar kreditoriaus nurodyti pagrindai yra nustatyti įstatymuose. Patikrinęs šiuos duomenis, notaras, prieš atlikdamas vykdomąjį įrašą, išsiunčia skolininkui pranešimą, kuriame turi būti nurodyti hipotekos (įkeitimo) kreditoriaus pateikti duomenys ir siūlymas ne vėliau kaip per dvidešimt dienų nuo pranešimo skolininkui išsiuntimo dienos sumokėti kreditoriui skolą ir apie prievolės įvykdymą raštu pranešti notarui arba pateikti notarui duomenis dėl hipotekos (įkeitimo) kreditoriaus reikalavimo nepagrįstumo. Atsižvelgdamas į hipotekos (įkeitimo) kreditoriaus ir skolininko pateiktus duomenis, notaras atlieka vykdomąjį įrašą arba motyvuotai atsisako jį atlikti. Notaras turi teisę įstatymų nustatytais atvejais panaikinti vykdomąjį įrašą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2728, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00092
+ 
 
 
 
@@ -2637,7 +2650,7 @@ Nr. IX-1311, 2003-01-23, Žin., 2003, Nr. 15-598 (2003-02-12)
 
 
 LIETUVOS RESPUBLIKOS
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                   VYTAUTAS LANDSBERGIS
+AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                    VYTAUTAS LANDSBERGIS
  
 Vilnius, 1992 m. rugsėjo 15 d.
 Nr. I-2882 
@@ -2832,3 +2845,13 @@ Lietuvos Respublikos notariato įstatymo Nr. I-2882 27 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-204, 2021-03-23, paskelbta TAR 2021-03-31, i. k. 2021-06548
 Lietuvos Respublikos notariato įstatymo Nr. I-2882 28, 36, 50 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2728, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00092
+Lietuvos Respublikos notariato įstatymo Nr. I-2882 46 ir 49-1 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
+Lietuvos Respublikos notariato įstatymo Nr. I-2882 3 ir 23 straipsnių pakeitimo įstatymas
