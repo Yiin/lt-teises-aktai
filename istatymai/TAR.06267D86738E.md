@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2021-05-28 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-26
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -253,6 +253,11 @@ Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
 4) yra įstatymų nustatyta tvarka uždraustos organizacijos narys.
 
 5. Rinkimų komisijų nariams ir pirmininkams Vyriausioji rinkimų komisija jos nustatyta tvarka organizuoja mokymus.
+
+6. Vyriausioji rinkimų komisija per 3 dienas nuo Vyriausiosios rinkimų komisijos sprendimo sudaryti apygardų rinkimų komisijas įsigaliojimo ir per 3 dienas nuo apygardų rinkimų komisijų sprendimų sudaryti apylinkių rinkimų komisijas įsigaliojimo savo interneto svetainėje skelbia rinkimų komisijų narių sąrašus ir duomenis apie rinkimų komisijų narius (jų vardus, pavardes, pareigas, komisijos narį pasiūliusį subjektą, rinkimų apygardų ir apylinkių pavadinimus bei numerius, telefono numerį ir elektroninio pašto adresą). Rinkimų komisijų narių sąrašai skelbiami ir tikslinami ne ilgiau kaip iki politinės kampanijos laikotarpio pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
+ 
 
 Straipsnio pakeitimai:
 Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
@@ -943,6 +948,32 @@ Straipsnio pakeitimai:
 Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
  
 
+391 straipsnis. Duomenų apie kandidatus skelbimas
+
+1. Pagal partijų, kandidatų, taip pat jų atstovų rinkimams pateiktus pareiškinius ir kitus dokumentus Vyriausiosios rinkimų komisijos interneto svetainėje neterminuotai skelbiama ši informacija apie kandidatą:
+
+1) informacija apie kandidatą į Seimo narius: vardas, pavardė, gimimo data, darbovietė, einamos pareigos (tarnyba), narystė politinėje partijoje ir asociacijose; šio įstatymo 2 straipsnio 2 dalyje, 38 straipsnio 3 dalyje nurodyti duomenys: ar kandidatas nėra priesaika ar pasižadėjimu susijęs su užsienio valstybe, duomenys apie tokią priesaiką ar tokį pasižadėjimą; ar jis yra, ar buvo ir kada buvo kitos valstybės (kitų valstybių) pilietis; ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės; šio įstatymo 98 straipsnio 1 ir 3 dalyse nurodyti duomenys apie bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis ir apie tai, ar įsiteisėjusiu teismo nuosprendžiu buvo pripažintas kaltu dėl nusikalstamos veikos;
+
+2) kandidato biografija;
+
+3) gyventojų pajamų mokesčio ir gyventojo turto deklaracijų, pateiktų Valstybinei mokesčių inspekcijai, pagrindinių duomenų išrašai, patvirtinti tos mokesčių inspekcijos, kuriai deklaracijos buvo pateiktos;
+
+4) kandidato privačių interesų deklaracija;
+
+5) ar kandidatas dalyvauja visuomeninėje veikloje; 
+
+6) kita kandidato nurodyta informacija, kurią jis norėtų paskelbti.
+
+2. Informacija apie kandidatų gimimo vietą, tautybę, išsilavinimą, užsienio kalbų mokėjimą, pomėgius, šeiminę padėtį, sutuoktinio ar sutuoktinės vardą (pavardę), vaikų vardus (pavardes), telefono numerį, elektroninio pašto adresą Vyriausiosios rinkimų komisijos interneto svetainėje skelbiama iki politinės kampanijos laikotarpio pabaigos.
+
+3. Kandidatų duomenys: vardas, pavardė, iškėlusi partija arba kad išsikėlė patys, taip pat rinkimų rezultatai (gauti balsai; gauti pirmumo balsai; priešrinkiminis numeris kandidatų sąraše; porinkiminis numeris kandidatų sąraše; gauti mandatai; rinkimų apygarda) Vyriausiosios rinkimų komisijos interneto svetainėje skelbiami neterminuotai.
+
+4. Kandidato asmens kodas, paso arba asmens tapatybės kortelės numeris, nuolatinės gyvenamosios vietos adresas viešai neskelbiami. 
+
+Papildyta straipsniu:
+Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
+ 
+
 40 straipsnis. Atstovas rinkimams
 
 1. Vyriausiojoje ar apygardos rinkimų komisijoje atstovas rinkimams visais klausimais atstovauja jį tam įgaliojusiai partijai, piliečiui, išsikėlusiam ir įregistruotam kandidatu į Seimo narius. Rinkimų komisijos posėdžiuose jis turi patariamojo balso teisę ir teisę pareikšti atskirąją nuomonę visais svarstomais klausimais. Atstovas rinkimams rinkimų apygardos, kurios rinkimų komisijoje jis įgaliotas atstovauti, teritorijoje turi visas rinkimų stebėtojo teises. Paskelbus Seimo rinkimų datą, partijų įgaliojimai atstovauti joms rinkimų komisijose Vyriausiajai rinkimų komisijai gali būti pateikti kitą dieną po to, kai buvo sudaryta atitinkama rinkimų komisija. Jeigu atstovo rinkimams kandidatūra atitinka šio įstatymo reikalavimus, Vyriausioji rinkimų komisija ne vėliau kaip per tris dienas registruoja jo įgaliojimą ir išduoda atstovo rinkimams pažymėjimą. Atstovo rinkimams įgaliojimas pasibaigia suėjus 20 dienų po rinkimų galutinių rezultatų oficialaus paskelbimo. Atstovo rinkimams atitinkamoje rinkimų komisijoje įgaliojimai pasibaigia taip pat suėjus 20 dienų po pareiškinių dokumentų pateikimo, jeigu partija, politinė organizacija tos rinkimų apygardos teritorijoje neturi kandidato (kandidatų).
@@ -951,6 +982,11 @@ Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
  
 
 2. Iki rinkimų dienos partija, pilietis, išsikėlęs kandidatu, įgaliojimą atstovauti gali bet kada atšaukti ir įgalioti atstovu rinkimams kitą asmenį. Šiuo atveju atstovas rinkimams turi būti įregistruotas, jam išduotas pažymėjimas, o ankstesniojo atstovo rinkimams registravimas nutrauktas ne vėliau kaip per 3 dienas.
+
+3. Vyriausioji rinkimų komisija politinės kampanijos laikotarpiu savo interneto svetainėje skelbia atstovų rinkimams duomenis (vardą, pavardę, atstovą rinkimams pasiūliusį subjektą, rinkimų apygardos pavadinimą ir numerį). 
+Papildyta straipsnio dalimi:
+Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
+ 
 
 41 straipsnis. Rinkimų užstatas
 
@@ -1036,13 +1072,14 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 
 45 straipsnis. Kandidatų ir kandidatų sąrašų paskelbimas
 
-Likus ne mažiau kaip 30 dienų iki rinkimų, Vyriausioji rinkimų komisija savo interneto svetainėje paskelbia rinkimuose dalyvaujančių partijų ir koalicijų kandidatų sąrašus, kandidatų sąrašams burtais suteiktus rinkimų numerius, šių sąrašų kandidatų rinkimų numerius, taip pat vienmandatėse rinkimų apygardose iškeltus kandidatus. Vyriausioji rinkimų komisija kandidatų į Seimo narius pažymėjimus su juose įrašytais kandidatų rinkimų numeriais perduoda atstovui rinkimams. Kandidato rinkimų numeris jo suteikimo metu yra tapatus kandidato eilės numeriui keliamų kandidatų sąraše (jungtiniame sąraše). Suteiktas kandidato rinkimų numeris negali būti keičiamas iki rinkimų galutinių rezultatų oficialaus paskelbimo. 
+Likus ne mažiau kaip 30 dienų iki rinkimų, Vyriausioji rinkimų komisija savo interneto svetainėje paskelbia rinkimuose dalyvaujančių partijų ir koalicijų kandidatų sąrašus ir duomenis apie juose įrašytus kandidatus (vardą, pavardę, iškėlusią partiją), kandidatų sąrašams burtais suteiktus rinkimų numerius, šių sąrašų kandidatų rinkimų numerius, taip pat vienmandatėse rinkimų apygardose išsikėlusius ir iškeltus kandidatus (vardą, pavardę, iškėlusią partiją arba kad išsikėlė pats). Vyriausioji rinkimų komisija kandidatų į Seimo narius pažymėjimus su juose įrašytais kandidatų rinkimų numeriais perduoda atstovui rinkimams. Kandidato rinkimų numeris jo suteikimo momentu yra tapatus kandidato eilės numeriui keliamų kandidatų sąraše (jungtiniame sąraše). Suteiktas kandidato rinkimų numeris negali būti keičiamas iki rinkimų galutinių rezultatų oficialaus paskelbimo. Šiame straipsnyje nurodyta informacija nuo jos paskelbimo dienos Vyriausiosios rinkimų komisijos interneto svetainėje skelbiama neterminuotai. 
 
 Straipsnio pakeitimai:
 Nr. XI-815, 2010-05-18, Žin., 2010, Nr. 63-3093 (2010-05-31)
 Nr. XI-2338, 2012-11-06, Žin., 2012, Nr. 132-6666 (2012-11-15)
 Straipsnio pakeitimai:
 Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
  
 
 ŠEŠTASIS SKIRSNIS
@@ -1337,7 +1374,10 @@ Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
 
 2) apygardos rinkimų komisija – stebėti rinkimus visoje rinkimų apygardoje arba tos rinkimų apygardos konkrečiose rinkimų apylinkėse.
 
-5. Rinkimų stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant lygiateisiškumo tarp politinių partijų, kandidatų ir nevyriausybinių organizacijų siūlomų rinkimų stebėtojų principo laikymąsi.
+5. Rinkimų stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant politinių partijų, kandidatų ir nevyriausybinių organizacijų siūlomų rinkimų stebėtojų lygiateisiškumo principo laikymąsi. Vyriausioji rinkimų komisija politinės kampanijos laikotarpiu savo interneto svetainėje skelbia rinkimų stebėtojų duomenis (vardą, pavardę, rinkimų stebėtoją pasiūliusį subjektą, rinkimų apygardų ir apylinkių pavadinimus bei numerį). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
+ 
 
 6. Rinkimų komisijos gali atsisakyti registruoti rinkimų stebėtoją, jeigu jis neatitinka šio įstatymo reikalavimų ar jo veikla neatitinka Konstitucijos ar įstatymų, arba panaikinti rinkimų stebėtojo registravimą, jeigu jis pažeidžia Konstituciją ar įstatymus, nesilaiko Vyriausiosios rinkimų komisijos sprendimų. Rinkimų stebėtojo registravimas gali būti panaikintas jį įregistravusios rinkimų komisijos arba aukštesnės rinkimų komisijos pirmininko. Rinkimų stebėtoją pasiūliusiam asmeniui pranešama apie atsisakymą išduoti rinkimų stebėtojo pažymėjimą arba apie registravimo panaikinimą.
 
