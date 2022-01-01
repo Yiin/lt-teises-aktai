@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-11-13 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-05-23
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -383,10 +383,7 @@ Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
 Biudžeto asignavimų valdytojas turi teisę:
 
 
-1) biudžetiniais metais, ne vėliau kaip likus 10 dienų iki atitinkamo ketvirčio pabaigos, keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka praneša apie tai Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai bendrųjų asignavimų išlaidoms, iš jų – darbo užmokesčiui, sumų. Asignavimų sumos išlaidoms, iš jų – darbo užmokesčiui, yra maksimalios ir jų ekonomija, jeigu nėra įsiskolinimų, gali būti naudojama turtui įsigyti ir investicijų projektams, kuriems numatyta skirti lėšų atitinkamų metų valstybės investicijų programoje arba savivaldybių biudžetuose, papildomai finansuoti, išskyrus kituose įstatymuose, reglamentuojančiuose savivaldybių biudžetų lėšų naudojimą, nustatytus atvejus. Asignavimų sumos turtui įsigyti ekonomija, jeigu nėra įsiskolinimų, gali būti naudojama investicijų projektams, kuriems numatyta skirti lėšų atitinkamų metų valstybės investicijų programoje arba savivaldybių biudžetuose, papildomai finansuoti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
- 
+1) biudžetiniais metais keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka praneša apie tai Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai bendrųjų asignavimų, iš jų darbo užmokesčiui, sumų. Asignavimai darbo užmokesčiui yra maksimalūs ir gali būti naudojami tik su darbo užmokesčiu susijusioms išlaidoms ir darbdavių išmokoms, kurios pervedamos ne per socialinio draudimo sistemą, finansuoti. Nepanaudota asignavimų tęstinei veiklai, išskyrus asignavimus darbo užmokesčiui, suma, jeigu nėra įsiskolinimų, gali būti naudojama investicijų projektams, kurie finansuojami iš tęstinės veiklos lėšų, o kai investicijų projektų nėra, – pažangos priemonėms, jeigu investicijų projektams ar pažangos priemonėms numatyta skirti lėšų atitinkamų metų valstybės arba savivaldybių biudžetuose, papildomai finansuoti, išskyrus kituose įstatymuose, reglamentuojančiuose savivaldybių biudžetų lėšų naudojimą, nustatytus atvejus; 
 
 
 
@@ -396,26 +393,15 @@ Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 
 
-3) sudarydamas programų ir programų sąmatų projektus, teikti programų bei jų sąmatų alternatyvas (valstybės biudžeto asignavimų valdytojas – Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – atitinkamai savivaldybės administracijai);
-
-
-
-
-4) įsiskolinimams padengti skirti lėšas iš bendros patvirtintų asignavimų išlaidoms ekonomijos (išskyrus Europos Sąjungos finansinės paramos ir kitos gaunamos finansinės paramos bei bendrojo finansavimo lėšas, nepanaudotas savivaldybių biudžetų lėšas, kurių naudojimą nustato kiti įstatymai, reglamentuojantys nepanaudotų savivaldybių biudžetų lėšų naudojimą), nekeisdamas patvirtintų sąmatų nepriklausomai nuo asignavimų paskirstymo pagal funkcijas ir programas;
-Straipsnio punkto pakeitimai:
-Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
- 
-
-
-
-
-5) nustatyti ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas ir turinčių pavaldžių biudžetinių įstaigų, vadovams šio straipsnio 1–4 punktuose nustatytas teises ir apie tai pranešti Finansų ministerijai.
+3) nustatyti ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas ir turinčių pavaldžių biudžetinių įstaigų, vadovams šio straipsnio 1 ir 2 punktuose nustatytas teises ir apie tai pranešti Finansų ministerijai.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
+Straipsnio pakeitimai:
+Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
  
 
 
@@ -2227,3 +2213,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 37 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 6, 10, 14, 18, 19, 20, 26, 27, 30, 31, 32, 33, 34 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3309, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21246
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 35 ir 38 straipsnių pakeitimo įstatymas
