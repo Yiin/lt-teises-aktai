@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -3909,7 +3909,11 @@ Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 
 
-4. Ketvirtąja eile tenkinami kiti kredito unijos kreditorių, išskyrus nurodytus šio straipsnio 1, 2, 3, 5 ir 6 dalyse, reikalavimai.
+4. Ketvirtąja eile tenkinami kiti kredito unijos kreditorių, išskyrus nurodytus šio straipsnio 1, 2, 3 ir 5 dalyse, reikalavimai.
+TAR pastaba. 77 straipsnio 4 dalies nuostatos taikomas bankroto procesams, pradėtiems po įstatymo Nr. XIV-770 įsigaliojimo dienos (2022-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XIV-770, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26899
+ 
 
 
 
@@ -3919,7 +3923,10 @@ Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 
 
-6. Šeštąja eile tenkinami kredito unijos stebėtojų tarybos narių, valdybos narių ir kredito unijos administracijos vadovo reikalavimai.
+6. Neteko galios nuo 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-770, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26899
+ 
 
 
 
@@ -4124,3 +4131,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 7 ir 8 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-110, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28966
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 57 ir 61 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-770, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26899
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 77 straipsnio pakeitimo įstatymas
