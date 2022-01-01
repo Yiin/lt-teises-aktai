@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -256,9 +256,25 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
+221. Įskaitinis eismo įvykis – eismo įvykis, per kurį buvo sužeistas ar žuvo bent vienas žmogus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
+
+
 23. Istorinė motorinė transporto priemonė – prieš 30 metų ar anksčiau pagaminta transporto priemonė, kurios modelis nebegaminamas mažiausiai 15 metų ir kuri yra originali, tinkama eksploatuoti, bet nenaudojama kasdienėms reikmėms. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
+ 
+
+
+
+
+231. Juodoji dėmė – avaringa kelio arba gatvės vieta, kurioje įskaitinių eismo įvykių skaičius yra pasiekęs susisiekimo ministro nustatytą ribinę reikšmę. 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
  
 
 
@@ -272,7 +288,25 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-25. Kelio saugumo auditas – nepriklausomas išsamus sisteminis ir techninis kelio infrastruktūros projekto saugumo charakteristikų patikrinimas ir kelio būklės įvertinimas kelių eismo saugumo užtikrinimo požiūriu visais projekto įgyvendinimo etapais: planavimo, projektavimo, tiesimo (rekonstrukcijos) ir eksploatavimo.
+241. Kelio ruožo saugumo kategorija – kategorija, prie kurios priskiriami kelių tinklo kelio ruožai pagal objektyviai įvertintą jų saugumo lygį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
+
+
+242. Kelių infrastruktūros projektas – poveikį kelių eismui darantis projektas, pagal kurį įrengiama nauja kelių infrastruktūra arba pertvarkomas esamas kelių tinklas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
+
+
+25. Kelių saugumo auditas – nepriklausomas išsamus sisteminis ir techninis kelių infrastruktūros projekto patikrinimas ir kelių būklės įvertinimas eismo saugumo užtikrinimo požiūriu visais šio projekto įgyvendinimo etapais: planavimo, projektavimo, tiesimo ar rekonstravimo ir pradinio eksploatavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -280,7 +314,17 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-26. Kelio saugumo tikrinimas – periodinis tikrinimas, ar kelias ir jo elementai atitinka saugaus eismo reikalavimus ir ar nėra saugumo tikslais šalintinų defektų.
+251. Kelių saugumo auditorius – fizinis asmuo, turintis kelių saugumo auditoriaus pažymėjimą, kuriuo suteikiama teisė atlikti kelių saugumo auditą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
+
+
+26. Neteko galios nuo 2022-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -434,7 +478,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-45. Oficialus vizitas – užsienio valstybės, tarptautinės organizacijos arba religinės bendrijos oficialaus asmens apsilankymas Lietuvos Respublikoje Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko, užsienio reikalų ministro arba kito Vyriausybės nario, taip pat kariuomenės vado oficialiu kvietimu kviečiančiajai institucijai ir oficialaus asmens institucijai susitarus dėl vizito oficialaus statuso.
+45. Neteko galios nuo 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-265, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08867
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -472,6 +518,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
+471. Pažeidžiamas eismo dalyvis – pėsčiasis, dviračio, motorinio dviračio vairuotojas ar keleivis, kitas eismo dalyvis – mopedo, motociklo, triračio, lengvojo keturračio, keturračio ar galingojo keturračio vairuotojas ar keleivis, kurie eisme dalyvauja nebūdami motorinėje transporto priemonėje (kabinoje (salone) arba kėbule). 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
+
+
 48. Periodinis profesinis vairuotojų mokymas – C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių ir jų junginių su priekabomis vairuotojų mokymas teisės aktų nustatytu dažnumu siekiant tobulinti profesinę kvalifikaciją vežti krovinius ar keleivius komerciniais tikslais ir suteikti vairuotojo profesinės kvalifikacijos periodinio tobulinimo pažymėjimą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
@@ -504,7 +558,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-52. Poveikio kelių saugumui vertinimas – strateginis lyginamasis naujo kelio tiesimo ar esamo kelio rekonstrukcijos poveikio greta esančio kelių tinklo saugumui vertinimas.
+52. Poveikio kelių saugumui vertinimas – strateginė lyginamoji naujo kelio ar esamo kelių tinklo pakeitimo poveikio gretimo kelių tinklo saugumui analizė. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -571,6 +627,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 60. Puspriekabė – su motorine transporto priemone sukabinama priekaba, kurios dalis remiasi į motorinę transporto priemonę ir kurios masės dalis, taip pat krovinio masės dalis tenka motorinei transporto priemonei.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
+ 
+
+
+
+
+601. Reguliarus kelio saugumo patikrinimas – periodinis patikrinimas, ar kelias ir jo elementai atitinka eismo saugumo reikalavimus ir ar nėra saugumo tikslais šalintinų defektų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
  
 
 
@@ -669,6 +733,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 72. Teisės vairuoti transporto priemones atėmimas – teismo ar kitos kompetentingos institucijos priimtas sprendimas nustatytam terminui atimti iš asmens teisę vairuoti transporto priemones ar uždrausti naudotis šia teise.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
+ 
+
+
+
+
+721. Tikslinis kelio saugumo patikrinimas – tyrimas, per kurį vietoje atliekama esamo kelio arba kelio ruožo apžiūra ir kuriuo siekiama nustatyti pavojingas sąlygas, defektus ir problemas, lemiančius eismo įvykių ir eismo dalyvių sužeidimų rizikos padidėjimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
  
 
 
@@ -890,6 +962,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
 
 
+
+
+98. Viso kelių tinklo saugumo vertinimas – procedūra, kurios metu vertinama kelių tinklo eismo įvykių rizika ir kelių ruožai suskirstomi pagal kelio ruožo saugumo kategorijas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XIII-1139, 2018-05-10, paskelbta TAR 2018-05-15, i. k. 2018-07790
  
@@ -1034,29 +1114,29 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-62 straipsnis. Techninės apžiūros kontrolieriaus nepriekaištinga reputacija
+62 straipsnis. Techninės apžiūros kontrolierių, kelių saugumo auditorių, asmenų, atliekančių poveikio kelių saugumui vertinimą, asmenų, dėstančių kelių saugumo auditorių kompetencijos įgijimo ir (arba) kelių saugumo auditorių kompetencijos tobulinimo kursus, nepriekaištinga reputacija
 
 
-Asmuo negali būti laikomas nepriekaištingos reputacijos ir būti techninės apžiūros kontrolieriumi, jeigu jis:
+Asmuo negali būti laikomas nepriekaištingos reputacijos ir būti techninės apžiūros kontrolieriumi, kelių saugumo auditoriumi, asmeniu, atliekančiu poveikio kelių saugumui vertinimą, asmeniu, dėstančiu kelių saugumo auditorių kompetencijos įgijimo ir (arba) kelių saugumo auditorių kompetencijos tobulinimo kursus, jeigu jis:
 
 
-1) įstatymų nustatyta tvarka pripažintas kaltu dėl nusikaltimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą; 
-
-
-
-
-2) įstatymų nustatyta tvarka pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
+1) pripažintas kaltu dėl nusikaltimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
 
 
 
 
-3) piktnaudžiauja alkoholiu, narkotinėmis, psichotropinėmis ar kitomis psichiką veikiančiomis medžiagomis. 
+2) pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
 
 
 
 
-Papildyta straipsniu:
-Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+3) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
  
 
 
@@ -1172,9 +1252,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 1. Užtikrindama eismo saugumą, Susisiekimo ministerija arba jos įgaliotos institucijos:
 
 
-1) tvirtina techninius motorinių transporto priemonių ir jų priekabų reikalavimus, nustato motorinių transporto priemonių ir jų priekabų trūkumų, aptinkamų privalomosios techninės apžiūros ir techninio patikrinimo metu, sąrašą ir jų klasifikaciją, tvirtina motorinių transporto priemonių ir jų priekabų gamybos ir perdirbimo reikalavimus, normatyvinius statybos techninius dokumentus, nustatančius kelių rekonstrukcijos, kelių projektavimo, kelių saugumo audito, poveikio kelio saugumui vertinimo, kelių saugumo patikrinimo, kelių tinklo saugumo lygio ir didelio avaringumo ruožų nustatymo reikalavimus ir tvarką; 
+1) tvirtina techninius motorinių transporto priemonių ir jų priekabų reikalavimus, nustato motorinių transporto priemonių ir jų priekabų trūkumų, aptinkamų privalomosios techninės apžiūros ir techninio patikrinimo metu, sąrašą ir jų klasifikaciją, tvirtina motorinių transporto priemonių ir jų priekabų gamybos ir perdirbimo reikalavimus, normatyvinius statybos techninius dokumentus, nustatančius kelių projektavimo, tiesimo, rekonstravimo, remonto, priežiūros reikalavimus ir tvarką, taip pat dokumentus, nustatančius eismo organizavimo, juodųjų dėmių nustatymo, tyrimo ir šalinimo, kelių saugumo audito atlikimo, poveikio kelių saugumui vertinimo, kelių saugumo auditorių mokymo, egzaminavimo, pažymėjimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo reikalavimus ir tvarką; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
  
 
 
@@ -1563,7 +1644,10 @@ Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 
 
 
-4) rūpinasi vietinės reikšmės kelių ir gatvių priežiūra, transporto infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir rekonstravimu, organizuoja kelių saugumo audito, poveikio kelio saugumui vertinimo, kelių saugumo patikrinimo, didelio avaringumo ruožų ir saugumo lygio nustatymo kelių tinkle atlikimą vietinės reikšmės keliuose ir gatvėse, organizuoja medicinos pagalbos teikimą eismo įvykiuose nukentėjusiems asmenims;
+4) rūpinasi vietinės reikšmės kelių ir gatvių priežiūra, transporto infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir rekonstravimu, organizuoja kelių saugumo audito, juodųjų dėmių nustatymo, tyrimo ir šalinimo atlikimą vietinės reikšmės keliuose ir gatvėse, organizuoja medicinos pagalbos teikimą eismo įvykiuose nukentėjusiems asmenims, gali organizuoti savivaldybei priklausančių vietinės reikšmės kelių ir gatvių poveikio kelių saugumui vertinimą, reguliarų kelio saugumo patikrinimą, kelių darbo vietų aptvėrimo saugumo patikrinimą ir viso kelių tinklo saugumo vertinimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
 
 
 
@@ -1728,7 +1812,10 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 
 
-5) organizuoja kelių saugumo audito, poveikio kelių saugumui vertinimo, kelių saugumo patikrinimo, didelio avaringumo ruožų ir saugumo lygio nustatymo kelių tinkle atlikimą valstybinės reikšmės keliuose;
+5) organizuoja kelių saugumo audito, poveikio kelių saugumui vertinimo atlikimą, juodųjų dėmių šalinimą valstybinės reikšmės keliuose; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
 
 
 
@@ -1751,31 +1838,66 @@ Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 12. Užtikrindama eismo saugumą, viešoji įstaiga Transporto kompetencijų agentūra:
 
 
-1) atlieka valstybinės reikšmės kelių saugos stebėseną ir analizę;
+1) atlieka eismo saugumo rodiklių stebėseną ir analizę;
 
 
 
 
-2) atlieka kelių saugos valdymą;
+2) atlieka eismo įvykių tyrimus kelių infrastruktūros saugumo požiūriu;
 
 
 
 
-3) atlieka eismo įvykių ir avaringų vietų analizę ir stebėseną;
+3) tvarko eismo įvykių duomenis, atlieka jų stebėseną ir statistinę analizę;
 
 
 
 
-4) priskiria kelių saugos lygius;
+4) teikia su eismo saugumu susijusią informaciją Lietuvos Respublikos ir tarptautinėms institucijoms, įstaigoms, valstybės įmonėms, bendrovėms ir kitoms organizacijoms, susijusioms su eismo saugumo sritimi;
 
 
 
 
-5) teikia pasiūlymus dėl Valstybinės eismo saugumo programos rengimo. 
+5) teikia Susisiekimo ministerijai pasiūlymus dėl Valstybinės eismo saugumo programos rengimo;
 
 
-Papildyta straipsnio dalimi:
-Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+
+
+6) tvirtina valstybinės reikšmės kelių poveikio kelių saugumui vertinimo, reguliarių kelio saugumo patikrinimų, kelių darbo vietų aptvėrimo saugumo patikrinimų, viso kelių tinklo saugumo vertinimo procedūras, kelių infrastruktūros saugumo valdymo gaires;
+
+
+
+
+7) atlieka valstybinės reikšmės kelių poveikio kelių saugumui vertinimą, kuriuo remdamasi pateikia išvadą, taip pat atlieka reguliarius kelio saugumo patikrinimus, kelių darbo vietų aptvėrimo saugumo patikrinimus, viso kelių tinklo saugumo vertinimą, kuriuo remdamasi rengia, reguliariai atnaujina ir, suderinusi su Susisiekimo ministerija, tvirtina prioritetinių veiksmų planą;
+
+
+
+
+8) nustato juodąsias dėmes valstybinės reikšmės keliuose ir atlieka jų tyrimą;
+
+
+
+
+9) egzaminuoja kelių saugumo auditorius, išduoda kelių saugumo auditoriaus pažymėjimus, sustabdo kelių saugumo auditoriaus pažymėjimų galiojimą, panaikina kelių saugumo auditoriaus pažymėjimų galiojimo sustabdymą, panaikina kelių saugumo auditoriaus pažymėjimų galiojimą ir atlieka kelių saugumo auditorių veiklos priežiūrą; 
+
+
+
+
+10) teikia Susisiekimo ministerijai pasiūlymus dėl juodųjų dėmių nustatymo, tyrimo ir šalinimo, kelių saugumo audito atlikimo, kelių saugumo auditorių mokymo, egzaminavimo, kelių saugumo auditorių pažymėjimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo, poveikio kelių saugumui vertinimo reikalavimų ir tvarkos;
+
+
+
+
+11) atlieka kelių saugumo auditorių kompetencijos įgijimo ir kompetencijos tobulinimo kursų organizavimo ir dėstymo priežiūrą; 
+
+
+
+
+12) atlieka kitas šiame įstatyme nustatytas funkcijas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
  
 
 
@@ -1817,12 +1939,18 @@ Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 
 
-2. Eismo saugumo priemonės įgyvendinamos projektuojant, tiesiant, rekonstruojant, taisant (remontuojant) ir prižiūrint kelius, vadovaujantis Lietuvos kelių projektavimo normatyviniais dokumentais, Lietuvos Respublikos standartais ir kitais normatyviniais teisės aktais.
+2. Eismo saugumo priemonės įgyvendinamos projektuojant, tiesiant, rekonstruojant, taisant (remontuojant) ir prižiūrint kelius, vadovaujantis Lietuvos kelių projektavimo normatyviniais dokumentais, Lietuvos Respublikos standartais ir kitais normatyviniais teisės aktais. Eismo organizavimą reglamentuojančiais teisės aktais turi būti siekiama užtikrinti eismo organizavimo priemonių (šviesoforų, kelio ženklų ir kelių ženklinimo) įskaitomumą ir pastebimumą vairuotojams ir automatizuotoms pagalbinėms vairavimo sistemoms. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
 
 
 
 
-3. Prižiūrint kelius (gatves) vieną kartą per metus privalo būti nustatomi kelių saugumo ir didelio avaringumo ruožai, ne rečiau kaip vieną kartą per 3 metus atliekamas kelių saugumo patikrinimas. Prieš atliekant kelių (gatvių) tiesimo ir rekonstrukcijos darbus turi būti atliekamas kelio projekto poveikio kelio saugumui vertinimas ir kelio saugumo auditas.
+3. Neteko galios nuo 2022-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
 
 
 
@@ -1880,6 +2008,245 @@ Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 Straipsnio pakeitimai:
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
+ 
+
+
+
+
+111 straipsnis. Kelių infrastruktūros saugumo valdymo procedūrų įgyvendinimas
+
+
+1. Kelių infrastruktūros saugumo valdymo procedūroms taikomi šie reikalavimai:
+
+
+1) turi būti atliekamas visų viešajam eismui skirtų projektuojamų, tiesiamų ar jau eksploatuojamų kelių ir gatvių kelių saugumo auditas; 
+
+
+
+
+2) turi būti atliekamas planuojamų, projektuojamų, tiesiamų ar jau eksploatuojamų transeuropiniam kelių tinklui priklausančių kelių, automagistralių, greitkelių ir magistralinių kelių poveikio kelių saugumui vertinimas, reguliarus kelio saugumo patikrinimas, kelių darbo vietų aptvėrimo saugumo patikrinimas ir viso kelių tinklo saugumo vertinimas;
+
+
+
+
+3) turi būti atliekamas ne miesto teritorijose esančių kelių, kurie nenaudojami susisiekimui su šalia vietinės reikšmės kelių esančiomis privačiomis teritorijomis ir kurie buvo nutiesti pasinaudojus Europos Sąjungos lėšomis, išskyrus susisiekimui skirtą infrastruktūrą, kuri nėra skirta motorinių transporto priemonių eismui (pavyzdžiui, dviračių takai arba keliai, kurie nėra suprojektuoti tranzitiniam eismui, arba privažiuojamieji vietinės reikšmės keliai, kuriais privažiuojama prie pramonės, žemės ūkio ar miškų ūkio objektų ar teritorijų), ir tokių kelių projektų poveikio kelių saugumui vertinimas, reguliarus kelio saugumo patikrinimas, kelių darbo vietų aptvėrimo saugumo patikrinimas ir viso kelių tinklo saugumo vertinimas; 
+
+
+
+
+4) gali būti atliekamas krašto ir rajoninių kelių poveikio kelių saugumui vertinimas, reguliarus kelio saugumo patikrinimas, kelių darbo vietų aptvėrimo saugumo patikrinimas ir viso kelių tinklo saugumo vertinimas;
+
+
+
+
+5) savivaldybės administracijos direktoriaus nustatyta tvarka gali būti atliekamas savivaldybėms priklausančių vietinės reikšmės kelių ir gatvių poveikio kelių saugumui vertinimas, reguliarus kelio saugumo patikrinimas, kelių darbo vietų aptvėrimo saugumo patikrinimas ir viso kelių tinklo saugumo vertinimas.
+
+
+
+
+
+
+2. Prieš patvirtinant kelių infrastruktūros projektą, susisiekimo ministro nustatyta tvarka atliekamas naujo kelio ar svarbaus esamo kelių tinklo pakeitimo poveikio kelių saugumui vertinimas. Valstybinės reikšmės kelių poveikio kelių saugumui vertinimą susisiekimo ministro nustatyta tvarka organizuoja planuojamo kelio savininkas (valdytojas). Poveikio kelių saugumui vertinimo išvada privaloma kelio savininkui (valdytojui). Jeigu kelio savininkas (valdytojas) nesutinka su poveikio kelių saugumui vertinimo išvada arba jos dalimi, kelio savininkas (valdytojas) pateikia poveikio kelių saugumui vertinimo išvadą pateikusiam subjektui nesutikimo argumentus (nesutikimo argumentai įforminami kelio savininko (valdytojo) protokolu arba raštu ir pridedami prie poveikio kelių saugumui vertinimo išvados) ir jų pagrindu gali neatsižvelgti į poveikio kelių saugumui vertinimo išvadą arba jos dalį.
+
+
+
+
+3. Kelių saugumo auditas yra neatsiejama kelių infrastruktūros projekto dalis. Kelių saugumo auditas atliekamas rengiant projektą, taip pat prieš pradedant eksploatuoti kelią ir pradiniu kelio eksploatavimo etapu. Kelio savininkas (valdytojas) kelių saugumo auditoriaus veiklos priežiūros tikslais viešosios įstaigos Transporto kompetencijų agentūros prašymu privalo pateikti kelių saugumo auditą atlikusio asmens duomenis ir su kelių saugumo auditu susijusią informaciją. Jeigu kelių saugumo auditą atlieka asmenų grupė, bent vienas šios grupės narys turi būti kelių saugumo auditorius.
+
+
+
+
+4. Reguliarus kelio saugumo patikrinimas atliekamas pagal reguliarių kelio saugumo patikrinimų procedūrą nustatytu periodiškumu ir tvarka. Kelių darbo vietų aptvėrimo saugumo patikrinimas atliekamas pagal kelių darbo vietų aptvėrimo saugumo patikrinimų procedūrą nustatytu periodiškumu ir tvarka.
+
+
+
+
+5. Ne rečiau kaip kas 5 metus atliekamas viso kelių tinklo saugumo vertinimas, juo remiantis parengiamas prioritetinių veiksmų planas. Prioritetinių veiksmų planą įgyvendina kelio savininkas (valdytojas).
+
+
+
+
+6. Atliekant viso kelių tinklo saugumo vertinimą, pagal poreikį atliekamas tikslinis kelio saugumo patikrinimas, siekiant nustatyti kelio (gatvės) defektus ar problemines vietas, dėl kurių padidėja eismo įvykių ir eismo dalyvių sužeidimo rizika.
+
+
+
+
+7. Įgyvendinant kelių infrastruktūros saugumo valdymo procedūras (poveikio kelių saugumui vertinimą, kelių saugumo auditą, reguliarų kelio saugumo patikrinimą, kelių darbo vietų aptvėrimo saugumo patikrinimą ir viso kelių tinklo saugumo vertinimą) atsižvelgiama į pažeidžiamų eismo dalyvių poreikius.
+
+
+
+
+8. Kelių saugumo audito išvados privalomos kelio savininkui (valdytojui). Jeigu kelio savininkas (valdytojas) nesutinka su kelių saugumo audito išvadomis arba jų dalimi, kelio savininkas (valdytojas) pateikia kelių saugumo auditoriui nesutikimo argumentus (nesutikimo argumentai įforminami kelio savininko (valdytojo) protokolu arba raštu ir pridedami prie kelių saugumo audito išvados) ir jų pagrindu gali neatsižvelgti į kelių saugumo audito išvadą arba jos dalį.
+
+
+
+
+9. Juodosios dėmės nustatomos, tiriamos ir šalinamos kasmet susisiekimo ministro nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
+
+
+112 straipsnis. Reikalavimai kelių saugumo auditoriams, asmenims, organizuojantiems ir dėstantiems kelių saugumo auditorių kompetencijos įgijimo ir (arba) kelių saugumo auditorių kompetencijos tobulinimo kursus, asmenims, atliekantiems poveikio kelių saugumui vertinimą
+
+
+1. Kelių saugumo auditorius turi atitikti šiuos reikalavimus:
+
+
+1) turėti aukštąjį išsilavinimą kelių projektavimo, kelių saugumo inžinerijos arba eismo įvykių analizės srityse, įgytą baigus statybos inžinerijos arba transporto inžinerijos studijas, arba jam prilygintą išsilavinimą, arba turėti ne mažesnę kaip 3 metų dalyvavimo atliekant kelių saugumo auditus patirtį;
+
+
+
+
+2) būti nepriekaištingos reputacijos;
+
+
+
+
+3) būti užbaigęs kelių saugumo auditorių mokymą, išlaikęs kelių saugumo auditoriaus egzaminą ir gavęs kelių saugumo auditoriaus kompetenciją patvirtinantį pažymėjimą;
+
+
+
+
+4) turėti teisę vairuoti bent vienos kategorijos transporto priemones, išskyrus atvejį, kai dėl sveikatos būklės asmuo negali vairuoti transporto priemonių (tai asmuo turi įrodyti atitinkamais gydymo įstaigos išduotais dokumentais).
+
+
+
+
+
+
+2. Kelių saugumo auditorius negali dalyvauti audituojamo kelių infrastruktūros projekto rengimo ar įgyvendinimo darbuose, turi vengti viešųjų ir privačių interesų konflikto, kad būtų užtikrintas nešališkumas ir objektyvumas. Kelių saugumo auditorius veiklos priežiūros tikslais viešosios įstaigos Transporto kompetencijų agentūros prašymu privalo pateikti atliktų kelių saugumo auditų ataskaitas, vykdyti viešosios įstaigos Transporto kompetencijų agentūros nurodymus dėl kelių saugumo auditoriaus veiklos, taip pat sudaryti galimybę viešajai įstaigai Transporto kompetencijų agentūrai atlikti kelių saugumo auditoriaus veiklos priežiūrą.
+
+
+
+
+3. Asmuo, pageidaujantis atlikti kelių saugumo auditą, privalo susisiekimo ministro nustatyta tvarka įgyti kelių saugumo auditoriaus kompetenciją. Kelių saugumo auditoriaus kompetencija įgyjama kelių saugumo auditoriaus kompetencijos įgijimo kursuose; juos išklausius, viešojoje įstaigoje Transporto kompetencijų agentūroje laikomas kelių saugumo auditoriaus kompetencijos įgijimo egzaminas. Išlaikiusiam kelių saugumo auditoriaus kompetencijos įgijimo egzaminą asmeniui viešoji įstaiga Transporto kompetencijų agentūra ne vėliau kaip per 5 darbo dienas nuo egzamino išlaikymo dienos išduoda kelių saugumo auditoriaus pažymėjimą, suteikiantį teisę atlikti kelių saugumo auditą. Asmeniui leidžiama atlikti kelių saugumo auditą tik turint galiojantį kelių saugumo auditoriaus pažymėjimą.
+
+
+
+
+4. Kelių saugumo auditoriaus kompetencija tobulinama susisiekimo ministro nustatytu periodiškumu kelių saugumo auditoriaus kompetencijos tobulinimo kursuose; juos išklausius, viešojoje įstaigoje Transporto kompetencijų agentūroje laikomas kelių saugumo auditoriaus kompetencijos tobulinimo egzaminas. Vietoj kelių saugumo auditoriaus kompetencijos tobulinimo kursų susisiekimo ministro nustatyta tvarka gali būti užskaitytas dokumentas, kuriuo patvirtinama, kad asmuo tobulino kelių saugumo auditoriaus kompetenciją eismo saugumo arba eismo organizavimo srityje. Kelių saugumo auditoriui, kuris nustatytu periodiškumu neišklausė kelių saugumo auditoriaus kompetencijos tobulinimo kursų ir neišlaikė kelių saugumo auditoriaus kompetencijos tobulinimo egzamino, sustabdomas kelių saugumo auditoriaus pažymėjimo galiojimas. Pašalinus priežastis, lėmusias kelių saugumo auditoriaus pažymėjimo galiojimo sustabdymą, kelių saugumo auditoriaus pažymėjimo galiojimo sustabdymas panaikinamas.
+
+
+
+
+5. Viešoji įstaiga Transporto kompetencijų agentūra ne vėliau kaip per 5 darbo dienas nuo šioje dalyje nurodytų aplinkybių paaiškėjimo dienos panaikina kelių saugumo auditoriaus pažymėjimo galiojimą, kai kelių saugumo auditorius:
+
+
+1) miršta;
+
+
+
+
+2) pateikė prašymą panaikinti kelių saugumo auditoriaus pažymėjimo galiojimą;
+
+
+
+
+3) neatitinka bent vieno šio straipsnio 1 dalyje nustatyto reikalavimo;
+
+
+
+
+4) pažeidžia nors vieną iš šio straipsnio 2 dalyje nustatytų reikalavimų arba jo (jų) nevykdo;
+
+
+
+
+5) atlikdamas kelių saugumo auditą padarė eismo saugumo srities teisės aktų pažeidimų, kurie gali kelti grėsmę eismo saugumui, ir tai kelių saugumo auditorių veiklos priežiūros metu užfiksavo viešoji įstaiga Transporto kompetencijų agentūra;
+
+
+
+
+6) per 2 metus nuo kelių saugumo auditoriaus pažymėjimo galiojimo sustabdymo neįvykdė šio straipsnio 4 dalyje nustatytų reikalavimų dėl kelių saugumo auditoriaus kompetencijos tobulinimo.
+
+
+
+
+
+
+6. Asmuo, kuriam už šio straipsnio 5 dalies 4 arba 5 punkte nurodytus pažeidimus buvo panaikintas kelių saugumo auditoriaus pažymėjimo galiojimas, gali gauti kitą kelių saugumo auditoriaus pažymėjimą ne anksčiau kaip po vienų metų nuo viešosios įstaigos Transporto kompetencijų agentūros sprendimo panaikinti kelių saugumo auditoriaus pažymėjimo galiojimą.
+
+
+
+
+7. Asmuo, atliekantis poveikio kelių saugumui vertinimą, privalo atitikti šio straipsnio 1 dalies 2 ir 4 punktuose nustatytus reikalavimus, taip pat šio straipsnio 1 dalies 1 punkte nustatytus reikalavimus arba turėti ne mažesnę kaip 3 metų dalyvavimo atliekant poveikio kelių saugumui vertinimą patirtį.
+
+
+
+
+8. Asmuo, organizuojantis kelių saugumo auditorių kompetencijos įgijimo ir (arba) kelių saugumo auditorių kompetencijos tobulinimo kursus, privalo:
+
+
+1) suderinti mokymo programą su viešąja įstaiga Transporto kompetencijų agentūra ir užtikrinti mokymo kokybę;
+
+
+
+
+2) vykdyti viešosios įstaigos Transporto kompetencijų agentūros nurodymus dėl materialiųjų ir metodinių išteklių naudojimo, tinkamo kursų organizavimo, taip pat sudaryti galimybę viešajai įstaigai Transporto kompetencijų agentūrai atlikti kelių saugumo auditorių kompetencijos įgijimo ir kompetencijos tobulinimo kursų organizavimo ir dėstymo priežiūrą.
+
+
+
+
+
+
+9. Asmuo, dėstantis kelių saugumo auditorių kompetencijos įgijimo ir (arba) kelių saugumo auditorių kompetencijos tobulinimo kursus, privalo:
+
+
+1) turėti aukštąjį išsilavinimą kelių projektavimo, kelių saugumo inžinerijos arba eismo įvykių analizės srityse, įgytą baigus statybos inžinerijos arba transporto inžinerijos studijas, arba jam prilygintą išsilavinimą, arba turėti ne mažesnę kaip 3 metų dalyvavimo atliekant kelių saugumo auditus patirtį;
+
+
+
+
+2) būti nepriekaištingos reputacijos;
+
+
+
+
+3) turėti teisę vairuoti bent vienos kategorijos transporto priemones, išskyrus atvejį, kai dėl sveikatos būklės asmuo negali vairuoti transporto priemonių (tai asmuo turi įrodyti atitinkamais gydymo įstaigos išduotais dokumentais);
+
+
+
+
+4) dėstyti šiuos kursus pagal susisiekimo ministro nustatytus reikalavimus atitinkančią mokymo programą, suderintą su viešąja įstaiga Transporto kompetencijų agentūra, ir užtikrinti mokymo kokybę;
+
+
+
+
+5) vykdyti šio straipsnio 8 dalies 2 punkte nustatytus reikalavimus.
+
+
+
+
+
+
+10. Asmenų atitiktį keliamiems kelių saugumo auditorių, asmenų, atliekančių poveikio kelių saugumui vertinimą, asmenų, dėstančių kelių saugumo auditorių kompetencijos įgijimo ir (arba) kelių saugumo auditorių kompetencijos tobulinimo kursus, reikalavimams tikrina viešoji įstaiga Transporto kompetencijų agentūra.
+
+
+
+
+11. Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje įgytą kelių saugumo auditoriaus profesinę kvalifikaciją pripažįsta Vyriausybės įgaliota institucija, vadovaudamasi Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu. Fiziniai asmenys, įgiję kelių saugumo auditoriaus profesinę kvalifikaciją Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje, gali teikti kelių saugumo auditoriaus paslaugas Lietuvos Respublikoje laikinai ir kartais Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
+
+
+113 straipsnis. Atlyginimas už viešosios įstaigos Transporto kompetencijų agentūros teikiamas administracines paslaugas
+
+
+Už viešosios įstaigos Transporto kompetencijų agentūros teikiamas administracines paslaugas imamas atlyginimas. Atlyginimo dydis nustatomas (apskaičiuojamas) vadovaujantis ekonomiškai pagrįsta paslaugos savikaina. Į paslaugos savikainą negali būti įtraukiamos su konkrečios paslaugos teikimu nesusijusios sąnaudos. Paslaugos savikainos (išlaidų) dydis turi būti pagrindžiamas vadovaujantis šiais ekonominiais rodikliais: viešosios įstaigos Transporto kompetencijų agentūros praėjusių finansinių metų materialinių ir joms prilygintų sąnaudų (ilgalaikio materialiojo turto nusidėvėjimo ir nematerialiojo turto amortizacijos, komunalinių paslaugų, ryšio, remonto ir panašiai) ir darbo sąnaudų (darbo užmokesčio, socialinio draudimo įmokų ir darbuotojų mokymų), turėtų teikiant konkrečią paslaugą, detalizavimu ir numatomos teikti konkrečios paslaugos galimų šių sąnaudų apskaičiavimu. Atlyginimo dydžio nustatymo (apskaičiavimo) metodiką nustato Vyriausybė, o konkrečius jo dydžius, vadovaudamasis šia metodika, – susisiekimo ministras. 
+
+
+Papildyta straipsniu:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
  
 
 
@@ -2399,6 +2766,14 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 6. Savivaldžio automobilio valdytojas privalo užtikrinti saugų savivaldžio automobilio dalyvavimą viešajame eisme. Savivaldžio automobilio valdytojas prilyginamas motorinės transporto priemonės vairuotojui tuo metu, kai perima savivaldžio automobilio valdymą. 
+
+
+
+
+7. Transporto priemonės savininkas (valdytojas) privalo užtikrinti, kad bendrojo naudojimo vietose nebūtų laikoma neeksploatuojama transporto priemonė (transporto priemonė, kuri dėl akivaizdžių trūkumų ar išorinių požymių nenaudojama ar negali būti naudojama pagal tikslinę paskirtį) arba negalima eksploatuoti transporto priemonė (transporto priemonė, kuriai šio įstatymo nustatytais pagrindais ilgiau kaip tris mėnesius yra sustabdytas ar panaikintas leidimas dalyvauti viešajame eisme, arba ilgiau kaip tris mėnesius neįregistruota ar ilgiau kaip tris mėnesius išregistruota transporto priemonė).
+Papildyta straipsnio dalimi:
+Nr. XIV-267, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08870
+ 
 
 
 Straipsnio pakeitimai:
@@ -3524,54 +3899,70 @@ Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveik
 33 straipsnis. Transporto priemonės priverstinis nuvežimas arba uždraudimas toliau važiuoti
 
 
-1. Priverstinai transporto priemonė gali būti nuvežama į ūkio subjekto, kuriam suteikta teisė verstis tokia ūkine komercine veikla, transporto priemonių stovėjimo aikštelę arba uždraudžiama transporto priemonei toliau važiuoti, jei transporto priemonės valdytojas, naudodamas transporto priemonę, sukelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba trukdo saugiam transporto priemonių ar pėsčiųjų eismui ir pažeidžia KET reikalavimus.
+1. Kai įtariama, kad transporto priemonė vairuojama neblaivaus ar apsvaigusio nuo psichiką veikiančių medžiagų asmens, taip pat kai yra Lietuvos Respublikos administracinių nusižengimų kodekso 603 straipsnyje nustatyti pagrindai, transporto priemonė gali būti priverstinai nuvežama į institucijos, kurios pareigūnas priėmė sprendimą transporto priemonę priverstinai nuvežti, ar į ūkio subjekto, kuriam suteikta teisė verstis tokia ūkine komercine veikla, transporto priemonių stovėjimo aikštelę, o transporto priemonės savininko (valdytojo) sutikimu ji gali būti pastatoma ir į kitą transporto priemonių stovėjimo aikštelę ar vietą, kurioje leidžiama transporto priemonėms stovėti (jeigu tai nepakenks baudžiamajam procesui ar administracinio nusižengimo teisenai).
 
 
 
 
-2. Nustačius didelį ir (ar) pavojingą trūkumą, susijusį su krovinio išdėstymu ir (ar) jo pritvirtinimu, uždraudžiama N2, N3, O3 ir O4 klasių transporto priemonei toliau važiuoti ir laikinai paimami transporto priemonės registracijos dokumentai, kol bus pašalinti krovinio išdėstymo ir (ar) jo pritvirtinimo trūkumai.
+2. Nustačius transporto priemonės techninės būklės, krovinių ar keleivių vežimo tvarkos pažeidimų, vairuotojų vairavimo ir poilsio režimo reikalavimų pažeidimų, kai tolesnis važiavimas kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, taip pat nustačius N2, N3, O3, O4 klasės transporto priemonės didelį ir (ar) pavojingą trūkumą, susijusį su krovinio išdėstymu ir (ar) jo pritvirtinimu, uždraudžiama transporto priemonei toliau važiuoti, kol pašalinama grėsmė eismo dalyvių ar kitų asmenų sveikatai ar gyvybei. Dėl didelio ir (ar) pavojingo trūkumo, susijusio su krovinio išdėstymu ir (ar) jo pritvirtinimu, uždraudus toliau važiuoti N2, N3, O3, O4  klasės transporto priemonei, laikinai paimami transporto priemonės registracijos dokumentai, kol bus pašalinti krovinio išdėstymo ir (ar) jo pritvirtinimo trūkumai.
 
 
 
 
-3. Pradinio techninio patikrinimo kelyje ar išsamesnio techninio patikrinimo techninės apžiūros įmonėje metu nustačius didelį ir (ar) pavojingą trūkumą, uždraudžiama M2, M3, N2, N3, O3, O4 klasių transporto priemonei, T5 kategorijos ratiniam traktoriui, kurie dažniausiai naudojami viešuosiuose keliuose vežimams už atlygį ir kurių didžiausias projektinis greitis yra didesnis kaip 40 km/h, toliau važiuoti ir laikinai paimami transporto priemonės registracijos dokumentai, kol bus pašalinti nustatyti dideli ir (ar) pavojingi trūkumai. Nustačius Lietuvoje registruotos transporto priemonės pavojingą trūkumą, panaikinamas privalomosios techninės apžiūros dokumentų galiojimas. Uždraudus transporto priemonei toliau važiuoti, policijos ar Lietuvos transporto saugos administracijos pareigūnai gali išduoti leidimą transporto priemonei nuvykti iki vienos iš artimiausių remonto vietų, kurioje galima pašalinti nustatytus trūkumus, jeigu pavojingi trūkumai gali būti ištaisyti taip, kad būtų galima nuvažiuoti iki šios remonto vietos nesukeliant tiesioginio pavojaus toje transporto priemonėje esančių asmenų ar kitų eismo dalyvių saugumui. 
+3. Pradinio techninio patikrinimo kelyje ar išsamesnio techninio patikrinimo techninės apžiūros įmonėje metu nustačius didelį ir (ar) pavojingą trūkumą, uždraudžiama M2, M3, N2, N3, O3, O4  klasės transporto priemonei, T5 kategorijos ratiniam traktoriui, kurie dažniausiai naudojami viešuosiuose keliuose vežimams už atlygį ir kurių didžiausias projektinis greitis yra didesnis kaip 40 km/h, toliau važiuoti ir laikinai paimami transporto priemonės registracijos dokumentai, kol bus pašalinti nustatyti dideli ir (ar) pavojingi trūkumai. Nustačius Lietuvoje registruotos transporto priemonės pavojingą trūkumą, panaikinamas privalomosios techninės apžiūros dokumentų galiojimas. Uždraudus transporto priemonei toliau važiuoti, policijos ar Lietuvos transporto saugos administracijos pareigūnai gali išduoti leidimą transporto priemonei nuvykti iki vienos iš artimiausių remonto vietų, kurioje galima pašalinti nustatytus trūkumus, jeigu pavojingi trūkumai gali būti ištaisyti taip, kad būtų galima nuvažiuoti iki šios remonto vietos nesukeliant tiesioginio pavojaus toje transporto priemonėje esančių asmenų ar kitų eismo dalyvių saugumui.
 
 
 
 
-4. Priverstinai transporto priemonė gali būti nuvežama į kitą vietą iš vietų, kuriose leidžiama transporto priemonėms stovėti, jei trukdo šias vietas valyti ir tvarkyti savivaldybės vykdomosios institucijos prašymu arba jei trukdo valstybės institucijoms ar įstaigoms atlikti gelbėjimo darbus arba likviduoti avarijos padarinius, ir iš vietų, kurios turi būti atlaisvintos dėl rengiamo oficialaus vizito. Šioje dalyje numatytais atvejais transporto priemonės savininkas ar valdytojas neatlygina išlaidų, susijusių su transporto priemonės priverstiniu nuvežimu.
+4. Transporto priemonė priverstinai gali būti nuvežama į kitą vietą iš vietų, kuriose leidžiama transporto priemonėms stovėti, šiais atvejais:
+
+
+1) kai stovinti transporto priemonė trukdo valyti ir (ar) tvarkyti vietą, kurioje ji stovi;
 
 
 
 
-5. Sprendimą dėl priverstinio transporto priemonės nuvežimo ar uždraudimo toliau važiuoti, jei yra šio straipsnio 1 dalyje nustatyti pagrindai, ir sprendimą dėl uždraudimo toliau važiuoti, jei yra šio straipsnio 2 ir 3 dalyse nustatyti pagrindai, gali priimti policijos ar Lietuvos transporto saugos administracijos pareigūnai, o jei yra šio straipsnio 4 dalyje nustatyti pagrindai, – policijos ar Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai.
+2) kai stovinti transporto priemonė trukdo valstybės institucijoms ar įstaigoms atlikti gelbėjimo darbus arba likviduoti avarijos padarinius; 
 
 
 
 
-6. Policijos pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės nuvežimo, praneša transporto priemonės savininkui (valdytojui) apie priimtą sprendimą dėl priverstinio transporto priemonės nuvežimo.
+3) vizito saugumą užtikrinančios institucijos prašymu, jei vieta, kurioje stovi transporto priemonė, turi būti atlaisvinta dėl rengiamo Lietuvos Respublikos oficialaus svečio vizito.
 
 
 
 
-7. Priverstinio transporto priemonių nuvežimo ir uždraudimo toliau važiuoti tvarką, M2, M3, N2, N3, O3 ir O4 klasių kelių transporto priemonių ir T5 kategorijos ratinių traktorių techninių patikrinimų organizavimo Lietuvos Respublikos keliuose taisykles nustato Vyriausybė arba jos įgaliota institucija.
+
+
+5. Sprendimą dėl priverstinio transporto priemonės nuvežimo šio straipsnio 1 dalyje nustatytais pagrindais ir sprendimą dėl uždraudimo toliau važiuoti šio straipsnio 2 ir 3 dalyse nustatytais pagrindais gali priimti padarytą administracinį nusižengimą ar nusikalstamą veiką tirti įgaliotos institucijos pareigūnai. Šio straipsnio 4 dalies 1 punkte nustatytais atvejais sprendimą dėl priverstinio transporto priemonės nuvežimo priima policijos arba savivaldybių vykdomųjų institucijų pareigūnai, šio straipsnio 4 dalies 2 punkte nustatytais atvejais – policijos arba Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai, o šio straipsnio 4 dalies 3 punkte nustatytais atvejais – policijos pareigūnai.
 
 
 
 
-8. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonės stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonės stovėjimo aikštelėje, ūkio subjektui transporto priemonės savininkas ir valdytojas atlygina solidariai. Šios išlaidos atlyginamos arba adekvatus prievolės atlyginti išlaidas įvykdymo užtikrinimas Civiliniame kodekse nustatytais būdais ir tvarka pateikiamas iki transporto priemonės paėmimo iš transporto priemonės stovėjimo aikštelės.
+6. Pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės nuvežimo, apie jį praneša transporto priemonės savininkui (valdytojui).
 
 
 
 
-9. Išlaidas, susijusias su išsamesnio techninio patikrinimo atlikimu techninės apžiūros įmonėje, transporto priemonės trūkumų šalinimu, padengia transporto priemonės valdytojas ir (ar) vairuotojas. 
+7. Priverstinio transporto priemonių nuvežimo ir uždraudimo toliau važiuoti tvarką, M2, M3, N2, N3, O3, O4  klasės kelių transporto priemonių ir T5 kategorijos ratinių traktorių techninių patikrinimų organizavimo Lietuvos Respublikos keliuose taisykles nustato Vyriausybė arba jos įgaliota institucija.
+
+
+
+
+8. Išlaidas, susijusias su priverstiniu transporto priemonės nuvežimu į transporto priemonių stovėjimo aikštelę šio straipsnio 1 dalyje nurodytais atvejais ir jos saugojimu transporto priemonių stovėjimo aikštelėje, ūkio subjektui ir (ar) išlaidas patyrusiai institucijai transporto priemonės savininkas ir valdytojas atlygina solidariai. Šios išlaidos atlyginamos arba adekvatus prievolės atlyginti išlaidas įvykdymo užtikrinimas Civiliniame kodekse nustatytais būdais ir tvarka pateikiamas iki transporto priemonės paėmimo iš transporto priemonių stovėjimo aikštelės. Šio straipsnio 4 dalyje numatytais atvejais transporto priemonės savininkas ar valdytojas išlaidų, susijusių su transporto priemonės priverstiniu nuvežimu, neatlygina.
+
+
+
+
+9. Išlaidas, susijusias su išsamesnio techninio patikrinimo atlikimu techninės apžiūros įmonėje, transporto priemonės trūkumų šalinimu, padengia transporto priemonės valdytojas ir (ar) vairuotojas.
+
+
 Straipsnio pakeitimai:
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-766, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18819
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+Nr. XIV-265, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08867
  
 
 
@@ -3583,7 +3974,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
  
  
 
@@ -3646,7 +4037,10 @@ priedas
 
 
 
-10. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/96/EB dėl kelių infrastruktūros saugumo valdymo (OL 2008 L 319, p. 59).
+10. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/96/EB dėl kelių infrastruktūros saugumo valdymo su paskutiniais pakeitimais, padarytais 2019 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1936. 
+Punkto pakeitimai:
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
 
 
 
@@ -3990,3 +4384,18 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-288, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09690
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 22 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-265, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08867
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 33 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-267, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08870
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 20 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 6-2, 10, 11 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 11-2, 11-3  straipsniais įstatymas
