@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2021-11-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -3603,7 +3603,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-11. Pertvarkius pagal žemės konsolidacijos projektą įkeistą (įkeistus) žemės sklypą (sklypus), hipoteka apima žemės savininkui pagal žemės konsolidacijos sutartį perduotą (perduotus) vietoj turėto įkeisto (įkeistų) žemės sklypo (sklypų) žemės konsolidacijos projekte konsoliduotą (konsoliduotus) žemės sklypą (sklypus). Nekilnojamojo turto registro tvarkytojas apie įkeisto žemės sklypo konsolidaciją ir jo naujus kadastro bei unikalius numerius praneša Lietuvos Respublikos hipotekos registrui per 3 darbo dienas nuo perduoto pagal žemės konsolidacijos sutartį žemės sklypo, teisių į jį, šių teisių suvaržymų ir juridinių faktų įregistravimo Nekilnojamojo turto registre. 
+11. Pertvarkius pagal žemės konsolidacijos projektą įkeistą (įkeistus) žemės sklypą (sklypus), hipoteka apima žemės savininkui pagal žemės konsolidacijos sutartį perduotą (perduotus) vietoj turėto įkeisto (įkeistų) žemės sklypo (sklypų) žemės konsolidacijos projekte konsoliduotą (konsoliduotus) žemės sklypą (sklypus).
+Straipsnio dalies pakeitimai:
+Nr. XIII-2738, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00113
+ 
 
 
 
@@ -3933,3 +3936,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 23 straipsnių pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 Lietuvos Respublikos žemės įstatymo Nr. I-446 45, 46, 47 ir 48 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2738, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00113
+Lietuvos Respublikos žemės įstatymo Nr. I-446 52 straipsnio pakeitimo įstatymas
