@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -1067,7 +1067,10 @@ Pagrindiniai registrai yra valstybės registrai, kuriuose registruojami:
 
 
 
-3) nekilnojamasis turtas ir teisės į jį;
+3) nekilnojamasis turtas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2729, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00093
+ 
 
 
 
@@ -1082,7 +1085,9 @@ Pagrindiniai registrai yra valstybės registrai, kuriuose registruojami:
 
 
 
-6) daiktų ir turtinių teisių įkeitimas.
+6) daiktinės teisės.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2729, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00093
  
 
 
@@ -2840,3 +2845,8 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-250, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08864
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 29 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2729, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00093
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 16 straipsnio pakeitimo įstatymas
