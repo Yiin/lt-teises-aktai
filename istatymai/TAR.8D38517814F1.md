@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2021-11-13 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-02-28
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -370,7 +370,10 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
-33. Gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo sutartis – trišalė sutartis tarp savivaldybės (arba tarp savivaldybės (kelių savivaldybių) įsteigto juridinio asmens, kuriam pavesta administruoti komunalinių atliekų tvarkymo sistemą) ir gamintojo ir (ar) importuotojo, ir (ar) gamintojų ir importuotojų organizacijos ir atliekų tvarkytojo dėl komunalinių atliekų sraute susidarančių gaminių ir (ar) pakuočių atliekų rūšiuojamojo surinkimo, vežimo, paruošimo perdirbti, naudoti ir perdirbimo, naudojimo. Šioje sutartyje turi būti nurodyta: sutarties sudarymo, įsigaliojimo ir nutraukimo tvarka; komunalinių atliekų sraute susidarančių gaminių ir (ar) pakuočių atliekų surinkimo sistemos infrastruktūros plėtros ir naudojimo sąlygos; paslaugų teikimo tvarka ir sąlygos; kainos nustatymo tvarka; atsiskaitymo tvarka; šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą; pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka; sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka. Pavyzdinę sutarties formą tvirtina Vyriausybė arba jos įgaliota institucija.
+33. Gaminių atliekų tvarkymo organizavimo finansavimo sutartis – daugiašalė sutartis tarp savivaldybės (arba savivaldybės pavedimu – komunalinių atliekų tvarkymo sistemos administratoriaus) ir gamintojo ir (ar) importuotojo, ir (ar) gamintojų ir importuotojų organizacijos ir atliekų tvarkytojo dėl buitinių elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse finansavimo ir šių aikštelių eksploatavimo dalinio finansavimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -1057,7 +1060,6 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 4. Jeigu, vadovaujantis šio straipsnio 1 ir 3 dalyse nustatytais reikalavimais, nėra Europos Sąjungos ir (ar) Lietuvos Respublikos teisės aktais nustatytų konkrečių atliekų nebelaikymo atliekomis kriterijų atskiriems atliekų srautams, aplinkos ministro įgaliota institucija gali priimti sprendimą dėl konkrečių atliekų nebelaikymo atliekomis atvejų arba taikyti priemones, norėdama patikrinti, ar tam tikros atliekos nebelaikomos atliekomis, atsižvelgdama į šio straipsnio 1 dalyje nustatytas sąlygas ir prireikus į šio straipsnio 3 dalyje nustatytus reikalavimus, taip pat į teršalų ribines vertes.
-TAR pastaba. 4 dalis įsigalioja 2022-01-01.
 
 
 
@@ -2496,7 +2498,10 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-12. Atliekų tvarkytojas, teikiantis komunalinių atliekų tvarkymo paslaugą, šią veiklą savivaldybės teritorijoje gali vykdyti tik tuo atveju, jeigu jį išrenka savivaldybė ar komunalinių atliekų tvarkymo sistemos administratorius. Savivaldybė ar savivaldybės pavedimu komunalinių atliekų tvarkymo sistemos administratorius, išrinkęs šio straipsnio 11 dalyje nustatyta tvarka komunalinių atliekų tvarkymo paslaugą teikiančius atliekų tvarkytojus, privalo per 5 darbo dienas informuoti komunalinių atliekų turėtojus, paskelbdamas savivaldybės nustatyta tvarka šių atliekų tvarkytojų pavadinimus ir kontaktinius duomenis.
+12. Atliekų tvarkytojas, teikiantis komunalinių atliekų, įskaitant komunalinių atliekų sraute susidarančias pakuočių atliekas, tvarkymo paslaugą, šią veiklą savivaldybės teritorijoje gali vykdyti tik tuo atveju, jeigu jį parenka savivaldybė ar savivaldybės pavedimu komunalinių atliekų tvarkymo sistemos administratorius (netaikoma atliekų tvarkytojams, surenkantiems gaminių ir pakuočių atliekas papildančiose atliekų surinkimo sistemose). Savivaldybė ar savivaldybės pavedimu komunalinių atliekų tvarkymo sistemos administratorius, parinkęs šio straipsnio 11 dalyje nustatyta tvarka komunalinių atliekų tvarkymo paslaugą teikiančius atliekų tvarkytojus, privalo per 5 darbo dienas informuoti komunalinių atliekų turėtojus, paskelbdamas savivaldybės nustatyta tvarka šių atliekų tvarkytojų pavadinimus ir kontaktinius duomenis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -2519,7 +2524,44 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 
 
-16. Siekdamos užtikrinti geros kokybės ir prieinamų komunalinių atliekų tvarkymo paslaugų teikimą visiems savivaldybės teritorijos gyventojams, organizuodamos komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų tvarkymą, savivaldybės (arba savivaldybių įsteigti juridiniai asmenys, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis sudaryti šio Įstatymo 342, 343 straipsniuose ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje nurodytas gaminių ir pakuočių atliekų tvarkymo organizavimo sutartis. Komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų surinkėjus savivaldybės turi išrinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
+16. Siekdamos užtikrinti geros kokybės ir prieinamų komunalinių atliekų tvarkymo paslaugų teikimą visiems savivaldybės teritorijos gyventojams, organizuodamos komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų tvarkymą, savivaldybės (arba savivaldybių pavedimu – komunalinių atliekų tvarkymo sistemos administratoriai) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis sudaryti šias sutartis:
+
+
+1) šio Įstatymo 342 ir 343 straipsniuose nurodytas gaminių atliekų tvarkymo organizavimo finansavimo sutartis; 
+
+
+
+
+2) Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje nurodytas bendradarbiavimo sutartis ir pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartis, kaip numatyta šio straipsnio 162 dalyje.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+161. Komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų tvarkytojus savivaldybės ar savivaldybės pavedimu komunalinių atliekų tvarkymo sistemos administratoriai turi parinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka (netaikoma, kai elektros ir elektroninės įrangos ir pakuočių atliekas atliekų tvarkytojai surenka papildančiose atliekų surinkimo sistemose). 
+Papildyta straipsnio dalimi:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+162. Savivaldybės (arba savivaldybių pavedimu – komunalinių atliekų tvarkymo sistemos administratoriai) su gamintojų ir importuotojų organizacijomis, kurioms išduotos pakuočių atliekų tvarkymo organizavimo licencijos, sudaro Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje nurodytas pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartis, jeigu Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka parenka komunalinių atliekų sraute susidarančių pakuočių atliekų surinkimo ir vežimo paslaugą teikiančius atliekų tvarkytojus pagal aplinkos ministro patvirtintus būtinuosius reikalavimus, taikomus pakuočių atliekų, susidarančių komunalinių atliekų sraute, rūšiuojamojo surinkimo paslaugos teikimui. 
+Papildyta straipsnio dalimi:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+163. Jeigu savivaldybės, parinkdamos šio straipsnio 162 dalyje nurodytus atliekų tvarkytojus (arba savivaldybių pavedimu – komunalinių atliekų tvarkymo sistemos administratoriai), nustato papildomus reikalavimus pakuočių atliekų, susidarančių komunalinių atliekų sraute, rūšiuojamojo surinkimo ir vežimo paslaugai teikti, už šių papildomų reikalavimų, išskyrus papildomus reikalavimus rūšiuojamojo surinkimo priemonių ištuštinimo dažniui, vykdymo išlaidų apmokėjimą atsakingos savivaldybės (arba savivaldybių pavedimu – komunalinių atliekų tvarkymo sistemos administratoriai). Savivaldybės (arba savivaldybių pavedimu – komunalinių atliekų tvarkymo sistemos administratoriai) gali susitarti su gamintojų ir importuotojų organizacijomis, kurioms išduotos pakuočių atliekų tvarkymo organizavimo licencijos, dėl tokių išlaidų apmokėjimo gamintojų ir importuotojų lėšomis, tokį susitarimą įtraukiant į šio straipsnio 16 dalyje nurodytas pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -3198,7 +3240,10 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 4. Siekdama įvykdyti šio Įstatymo 341 straipsnyje elektros ir elektroninės įrangos gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti:
 
 
-1) sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl buitinių elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo dalinio finansavimo. Šiose sutartyse turi būti numatyta elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų aikštelėse ir šių aikštelių eksploatavimo išlaidų dalinio finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių įrengtų didelių gabaritų atliekų aikštelių infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka; 
+1) gaminių atliekų tvarkymo organizavimo finansavimo sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl buitinių elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse finansavimo ir šių aikštelių eksploatavimo dalinio finansavimo. Šiose sutartyse turi būti numatyta elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų aikštelėse finansavimo ir šių aikštelių eksploatavimo išlaidų dalinio finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių įrengtų didelių gabaritų atliekų aikštelių infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -3236,7 +3281,10 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 1. Vykdydami šio Įstatymo 341 straipsnyje nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai buitinių elektros ir elektroninės įrangos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
 
 
-1) sudaryti sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl buitinių elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo dalinio finansavimo. Šiose sutartyse turi būti numatyta elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo išlaidų dalinio finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių įrengtų didelių gabaritų atliekų aikštelių infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+1) sudaryti gaminių atliekų tvarkymo organizavimo finansavimo sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl buitinių elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse finansavimo ir šių aikštelių eksploatavimo dalinio finansavimo. Šiose sutartyse turi būti numatyta elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų aikštelėse finansavimo ir šių aikštelių eksploatavimo išlaidų dalinio finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių įrengtų didelių gabaritų atliekų aikštelių infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -4610,52 +4658,81 @@ c) visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programą;
 1. Licencijos turėtojas privalo laikytis šių licencijuojamos veiklos sąlygų:
 
 
-1) vykdyti atliekų tvarkymo veiklos organizavimo plane, atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programoje numatytas priemones;
+1) vykdyti atliekų tvarkymo veiklos organizavimo plane, atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų prevencijos ir tvarkymo klausimais programoje numatytas priemones;
+TAR pastaba. 1 punktas įsigalioja 2023-01-01.
 
 
 
 
-2) organizuoti gaminių ar pakuočių atliekų tvarkymą ir (ar) dalyvauti organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose ir įvykdyti gamintojams ir importuotojams Vyriausybės nustatytas gaminių ar pakuočių atliekų tvarkymo užduotis;
+2) organizuoti gaminių ar pakuočių atliekų tvarkymą ir dalyvauti organizuojant komunalinių atliekų sraute susidarančių gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose ir įvykdyti gamintojams ir importuotojams Vyriausybės nustatytas gaminių ar pakuočių atliekų tvarkymo užduotis;
 
 
 
 
-3) licencijuojamos veiklos priežiūrą atliekančiai institucijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti atliekų tvarkymo veiklos organizavimo plano vykdymo ir atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programoje numatytų priemonių įgyvendinimo ataskaitą;
+3) licencijuojamos veiklos priežiūrą atliekančiai institucijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti atliekų tvarkymo veiklos organizavimo plano vykdymo ir atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų prevencijos ir tvarkymo klausimais programoje numatytų priemonių įgyvendinimo ataskaitą;
+TAR pastaba. 3 punktas įsigalioja 2023-01-01.
 
 
 
 
-4) kartu su šios dalies 3 punkte nurodyta ataskaita licencijuojamos veiklos priežiūrą atliekančiai institucijai pateikti pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą ir su Lietuvos auditorių rūmais suderintą licencijos turėtojo patikrinimo techninę užduotį nepriklausomo auditoriaus parengtą faktinių pastebėjimų dėl atliekų tvarkymo organizavimo veiklos atitikties atliekų tvarkymo veiklos organizavimo plane numatytoms priemonėms, atliekų tvarkymo finansavimo schemai, visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programai ataskaitą ir šią ataskaitą paskelbti licencijos turėtojo interneto svetainėje;
+4) kartu su šios dalies 3 punkte nurodyta ataskaita licencijuojamos veiklos priežiūrą atliekančiai institucijai pateikti pagal veiklos patikrinimo techninę užduotį auditoriaus parengtą faktinių pastebėjimų ataskaitą ir šią ataskaitą paskelbti licencijos turėtojo interneto svetainėje;
+TAR pastaba. 4 punktas įsigalioja 2023-01-01.
 
 
 
 
-5) kartu su šios dalies 3 punkte nurodyta ataskaita licencijuojamos veiklos priežiūrą atliekančiai institucijai pateikti nepriklausomo auditoriaus išvadą dėl licencijos turėtojo metinės finansinės ataskaitos;
+5) kartu su šios dalies 3 punkte nurodyta ataskaita licencijuojamos veiklos priežiūrą atliekančiai institucijai pateikti metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada;
+TAR pastaba. 5 punktas įsigalioja 2023-01-01.
 
 
 
 
-6) licencijuojamos veiklos priežiūrą atliekančiai institucijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kas ketvirtį teikti informaciją apie praėjusį ketvirtį vykdytas atliekų tvarkymo veiklos organizavimo plane, atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programoje numatytas priemones;
+6) licencijuojamos veiklos priežiūrą atliekančiai institucijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kas ketvirtį teikti informaciją apie praėjusį ketvirtį vykdytas atliekų tvarkymo veiklos organizavimo plane, atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų prevencijos ir tvarkymo klausimais programoje numatytas priemones;
+TAR pastaba. 6 punktas įsigalioja 2023-01-01.
 
 
 
 
-7) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais licencijas išduodančiai institucijai kiekvienais metais pateikti dokumentą, įrodantį, kad elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymas bus finansuojamas (taikoma elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licencijas turintiems licencijos turėtojams).
+7) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais licencijas išduodančiai institucijai kiekvienais metais pateikti dokumentą, įrodantį, kad elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių, pakuočių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymas bus finansuojamas (taikoma elektros ir elektroninės įrangos, alyvos, baterijų ir akumuliatorių, pakuočių atliekų ar eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licencijų turėtojams);
+
+
+
+
+8) sudaryti šio Įstatymo 30 straipsnio 16 dalyje nurodytas gaminių atliekų tvarkymo organizavimo finansavimo sutartis ir (ar) pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartis bei šiose sutartyse ir šio Įstatymo 342 straipsnio 5 dalyje ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 5 dalyje nustatyta tvarka finansuoti komunalinių atliekų sraute susidarančių gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose ir komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros priežiūrą, atnaujinimą ir plėtrą pagal Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 4 dalies 2 punkte nurodytus būtinuosius reikalavimus komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo ir vežimo paslaugos teikimui;
+
+
+
+
+9) sudaryti šio Įstatymo 30 straipsnio 16 dalyje nurodytas bendradarbiavimo sutartis bei šiose sutartyse ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 5 dalyje nustatyta tvarka finansuoti komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros priežiūrą, atnaujinimą ir plėtrą, jeigu planuojama Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 4 dalies 2 punkte nurodytus aplinkos ministro nustatytus būtinuosius reikalavimus viršijanti komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo sistemos infrastruktūros plėtra (taikoma Organizacijoms, kurioms išduota pakuočių atliekų tvarkymo organizavimo licencija);
+
+
+
+
+10) sudaryti Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 4 dalies 3 punkte nurodytas sutartis dėl komunalinių atliekų sraute susidarančių pakuočių atliekų, rūšiuojamojo surinkimo būdu surinktų savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, paruošimo naudoti, įskaitant pradinį apdorojimą, naudojimo bei šiose sutartyse ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 5 dalyje nustatyta tvarka apmokėti rūšiuojamojo surinkimo būdu savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose surinktų pakuočių atliekų paruošimo naudoti, įskaitant pradinį apdorojimą, naudojimo išlaidas (taikoma Organizacijoms, kurioms išduota pakuočių atliekų tvarkymo organizavimo licencija);
+
+
+
+
+11) praėjusių finansinių metų turto, nuosavo kapitalo, finansavimo sumų ir įsipareigojimų balansas turi būti teigiamas.
 
 
 
 
 
 
-2. Šio straipsnio 1 dalies 3 punkte nurodytą ataskaitą licencijos turėtojas privalo kiekvienais metais pateikti visuomenei susipažinti, šią ataskaitą paskelbdamas savo interneto svetainėje.
+2. Licencijos turėtojas privalo aplinkos ministro nustatyta tvarka ir terminais kiekvienais metais savo interneto svetainėje paskelbti šio straipsnio 1 dalies 3 punkte nurodytą ataskaitą, įskaitant privalomus su šia ataskaita paskelbti šio straipsnio 1 dalies 4 ir 5 punktuose nurodytus dokumentus, kaip numatyta Lietuvos Respublikos asociacijų įstatyme ir Lietuvos Respublikos viešųjų įstaigų įstatyme. Licencijos turėtojo interneto svetainėje turi būti skelbiami ne mažiau kaip penkerių paskutinių ataskaitinių metų dokumentai, nurodyti šio straipsnio 1 dalies 4 ir 5 punktuose.
+TAR pastaba. 2 dalis įsigalioja 2023-01-01.
 
 
 
 
 3. Licencijos turėtojas kartu su šio straipsnio 1 dalies 3 punkte nurodyta ataskaita ir šio straipsnio 1 dalies 4 ir 5 punktuose nurodytais dokumentais privalo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka licencijuojamos veiklos priežiūrą atliekančiai institucijai pateikti informaciją ir (ar) dokumentus, įrodančius, kad licencijos turėtojas laikosi licencijuojamos veiklos sąlygų: pasirašytų sutarčių kopijas, išskyrus sutartyse pateiktą konfidencialią informaciją, gaminių ar pakuočių atliekų sutvarkymą įrodančių dokumentų kopijas, sąskaitas faktūras ir (ar) kitus dokumentus ir medžiagą, įrodančius, kad organizuotos ir vykdytos konkrečios visuomenės informavimo priemonės, dokumentus, įrodančius, kad apmokėtos gaminių ar pakuočių atliekų tvarkymo išlaidos ir visuomenės švietimo ir informavimo (gaminių ar pakuočių atliekų tvarkymo klausimais) priemonių organizavimo ir vykdymo išlaidos, kaip numatyta šiame Įstatyme ir Pakuočių ir pakuočių atliekų tvarkymo įstatyme.
+TAR pastaba. 3 dalis įsigalioja 2023-01-01.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
-
-
 
 
 
@@ -4717,7 +4794,10 @@ c) visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programą;
 
 
 
-3) paaiškėja, kad licencijos turėtojas neatitinka bent vieno iš kolektyviai gaminių ar pakuočių atliekų tvarkymą organizuojančioms gamintojų ir importuotojų organizacijoms nustatytų reikalavimų, nurodytų šio Įstatymo 342 straipsnio 4 ir 5 dalyse, 345 straipsnio 3 dalyje, 3412 straipsnio 3 dalyje, 3416 straipsnio 3 dalyje, 3419 straipsnio 2 dalyje, 3422 straipsnio 2, 3, 6, 7, 9, 10, 11, 12, 14 dalyse ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 3, 4, 5, 6, 7, 9 dalyse.
+3) paaiškėja, kad licencijos turėtojas neatitinka bent vieno iš kolektyviai gaminių ar pakuočių atliekų tvarkymą organizuojančioms gamintojų ir importuotojų organizacijoms nustatytų reikalavimų, nurodytų šio Įstatymo 345 straipsnio 3 dalyje, 3412 straipsnio 3 dalyje, 3416 straipsnio 3 dalyje, 3419 straipsnio 2 dalyje, 3422 straipsnio 2, 3, 6, 7, 9, 10, 11, 12, 14 dalyse ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 3, 6, 7, 9 dalyse.
+Straipsnio punkto pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
