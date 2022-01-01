@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-11-13 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -5921,58 +5921,105 @@ Ozono sluoksnį ardančių medžiagų naudojimas laboratorijos ir analizės reik
 
 
 
-111 straipsnis. Juridinių asmenų atsakomybė už neteisėtą naudingųjų iškasenų ir (arba) grunto naudojimą, gavybą ir žemės gelmių ertmių naudojimą 
+111 straipsnis. Juridinių asmenų atsakomybė už žemės gelmių išteklių, ertmių ir (arba) grunto naudojimo reikalavimų pažeidimus
 
 
-Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas ir (arba) gavyba, kai neteisėtai naudota ir (arba) išgauta iki 10 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
-
-
-
-
-Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas ir (arba) gavyba, kai neteisėtai naudota ir (arba) išgauta 10 kubinių metrų ir daugiau, bet mažiau kaip 100 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų. 
+Žemės gelmių išteklių, ertmių ir (arba) grunto naudojimą reglamentuojančių teisės aktų reikalavimų pažeidimas užtraukia baudą nuo vieno šimto šešiasdešimt iki trijų šimtų penkiasdešimt eurų. 
 
 
 
 
-Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas ir (arba) gavyba, kai neteisėtai naudota ir (arba) išgauta 100 kubinių metrų ir daugiau, bet mažiau kaip 1 000 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo aštuonių tūkstančių iki septyniolikos tūkstančių eurų. 
+Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, kai neteisėtai naudota iki 20 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
 
 
 
 
-Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas ir (arba) gavyba, kai neteisėtai naudota ir (arba) išgauta 1 000 kubinių metrų ir daugiau nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo septyniolikos tūkstančių iki keturiasdešimt tūkstančių eurų. 
+Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, kai neteisėtai naudota 20 kubinių metrų ir daugiau, bet mažiau kaip 100 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų. 
 
 
 
 
-Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas ir (arba) gavyba, padaryti pakartotinai, kai neteisėtai naudota ir (arba) išgauta iki 10 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
+Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, kai neteisėtai naudota 100 kubinių metrų ir daugiau, bet mažiau kaip 1 000 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo aštuonių tūkstančių iki septyniolikos tūkstančių eurų. 
 
 
 
 
-Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas ir (arba) gavyba, padaryti pakartotinai, kai neteisėtai naudota ir (arba) išgauta 10 kubinių metrų ir daugiau, bet mažiau kaip 100 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, kai neteisėtai naudota 1 000 kubinių metrų ir daugiau nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo septyniolikos tūkstančių iki keturiasdešimt tūkstančių eurų. 
 
 
 
 
-Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas ir (arba) gavyba, padaryti pakartotinai, kai neteisėtai naudota ir (arba) išgauta 100 kubinių metrų ir daugiau, bet mažiau kaip 1 000 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo septyniolikos tūkstančių iki trisdešimt penkių tūkstančių eurų.
+Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, padarytas pakartotinai, kai neteisėtai naudota iki 20 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo vieno tūkstančio septynių šimtų iki keturių tūkstančių eurų.
 
 
 
 
-Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas ir (arba) gavyba, padaryti pakartotinai, kai neteisėtai naudota ir (arba) išgauta 1 000 kubinių metrų ir daugiau nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo trisdešimt penkių tūkstančių iki aštuoniasdešimt tūkstančių eurų.
+Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, padarytas pakartotinai, kai neteisėtai naudota 20 kubinių metrų ir daugiau, bet mažiau kaip 100 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
 
 
-Neteisėtas angliavandenilių naudojimas ir (arba) gavyba užtraukia baudą nuo penkiasdešimt penkių tūkstančių iki vieno šimto penkiasdešimt tūkstančių eurų.
+Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, padarytas pakartotinai, kai neteisėtai naudota 100 kubinių metrų ir daugiau, bet mažiau kaip 1 000 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo septyniolikos tūkstančių iki trisdešimt penkių tūkstančių eurų.
 
 
 
 
-Neteisėtas žemės gelmių ertmių, metalų rūdų iškasenų ir vertingųjų mineralų naudojimas ir (arba) gavyba užtraukia baudą nuo keturiolikos tūkstančių iki trisdešimt tūkstančių eurų.
+Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, padarytas pakartotinai, kai neteisėtai naudota 1 000 kubinių metrų ir daugiau nemetalinių naudingųjų iškasenų ir (arba) grunto, užtraukia baudą nuo trisdešimt penkių tūkstančių iki aštuoniasdešimt tūkstančių eurų.
+
+
+
+
+Neteisėtas angliavandenilių naudojimas užtraukia baudą nuo penkiasdešimt penkių tūkstančių iki vieno šimto penkiasdešimt tūkstančių eurų.
+
+
+
+
+Neteisėtas žemės gelmių ertmių, metalų rūdų iškasenų ir vertingųjų mineralų naudojimas užtraukia baudą nuo keturiolikos tūkstančių iki trisdešimt tūkstančių eurų.
+
+
+
+
+Neteisėtas požeminio vandens naudojimas užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių penkių šimtų eurų.
+
+
+
+
+Neteisėtas požeminio vandens naudojimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių šešių šimtų iki trijų tūkstančių aštuonių šimtų eurų.
+
+
+
+
+Požeminio vandens naudojimas pažeidžiant leidime naudoti požeminio vandens išteklius nustatytas sąlygas užtraukia baudą nuo trijų šimtų keturiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+
+
+
+Požeminio vandens naudojimas pažeidžiant leidime naudoti požeminio vandens išteklius nustatytas sąlygas, padarytas pakartotinai, užtraukia baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų. 
+
+
+
+
+Nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas pažeidžiant leidime naudoti žemės gelmių išteklius nustatytas sąlygas ir (ar) nesilaikant žemės gelmių naudojimo plano ar žemės gelmių naudojimo projekto, ar grunto išteklių naudojimo projekto sprendinių užtraukia baudą nuo trijų šimtų devyniasdešimt iki devynių šimtų keturiasdešimt eurų.
+
+
+
+
+Žemės gelmių ertmių, metalų rūdų ir vertingųjų mineralų naudojimas pažeidžiant leidime naudoti žemės gelmių išteklius ar ertmes nustatytas sąlygas ir (ar) nesilaikant žemės gelmių naudojimo plano sprendinių užtraukia baudą nuo aštuonių šimtų iki dviejų tūkstančių penkių šimtų eurų.
+
+
+
+
+Angliavandenilių naudojimas pažeidžiant leidime naudoti angliavandenilių išteklius nustatytas sąlygas arba nesilaikant angliavandenilių išteklių naudojimo projekto sprendinių užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki keturių tūkstančių aštuonių šimtų eurų.
+
+
+
+
+Angliavandenilių tyrimo ir (arba) naudojimo gręžinių, įrenginių ir prijungtosios infrastruktūros įrengimas, gręžinių konservavimas ir likvidavimas ir (arba) angliavandenilių naudojimas pažeidžiant avarijų jūroje prevencijos ir likvidavimo tvarką užtraukia baudą nuo keturių tūkstančių iki šešių tūkstančių eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
  
-
-
 
 
 
