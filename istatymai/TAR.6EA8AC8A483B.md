@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -249,6 +249,19 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
+81. Geležinkelio stotelė – tarpstotyje įrengta vieta keleiviams išlipti iš traukinio ir įlipti į jį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
+
+
+
+
+82. Geležinkelio stotis – geležinkelio kelių, pastatų, statinių ir įrenginių kompleksas, užimantis tam tikrą žemės sklypą ir skirtas traukiniams priimti, skirstyti, formuoti, praleisti ir išleisti, keleiviams, bagažo ir (ar) krovinių siuntėjams (gavėjams) aptarnauti. 
+
+
+
+
 9. Geležinkelių infrastruktūra – geležinkelio keliai, išskyrus geležinkelio kelius, esančius geležinkelių riedmenų techninės priežiūros atlikimo vietose (depuose, cechuose, dirbtuvėse), kiti statiniai, geležinkelių infrastruktūros objektų užimama žemė, įranga ir įrenginiai, būtini geležinkelių transporto eismui organizuoti ir valdyti bei geležinkelių transporto eismo saugai užtikrinti.
 
 
@@ -267,7 +280,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-12. Geležinkelių paslaugų įrenginio operatorius – fizinis ar juridinis asmuo, kita organizacija, juridinio asmens, kitos organizacijos padalinys, kurie yra atsakingi už vieno ar daugiau geležinkelių paslaugų įrenginių valdymą arba vienos ar daugiau su geležinkelių transportu susijusių pagrindinių, papildomų ir (ar) pagalbinių paslaugų, teikiamų šio Kodekso 301 straipsnyje nurodytuose geležinkelių paslaugų įrenginiuose, teikimą geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms. 
+12. Geležinkelių paslaugų įrenginio operatorius – fizinis ar juridinis asmuo, kita organizacija, juridinio asmens, kitos organizacijos padalinys, kurie yra atsakingi už vieno ar daugiau geležinkelių paslaugų įrenginių valdymą arba vienos ar daugiau su geležinkelių transportu susijusių pagrindinių, papildomų ir (ar) pagalbinių paslaugų teikimą geležinkelių paslaugų įrenginiuose. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
@@ -301,7 +314,7 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
-16. Geležinkelių transporto objektas – geležinkelių infrastruktūros elementas, keleivių, bagažo ir krovinių terminalas, su juo susijęs statinys ir įrenginys, kuris gali būti atskirtas nuo geležinkelių infrastruktūros kito elemento ir savarankiškai funkcionuoti, taip pat geležinkelių riedmenys.
+16. Geležinkelių transporto objektas – geležinkelių infrastruktūros elementas, keleivių, bagažo ir krovos terminalas, su juo susijęs statinys ir įrenginys, kuris gali būti atskirtas nuo geležinkelių infrastruktūros kito elemento ir savarankiškai funkcionuoti, taip pat geležinkelių riedmenys. 
 
 
 
@@ -322,6 +335,11 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 20. Grįžratis – ratas su geležinkelio kelio bėgiais geležinkelių riedmenims apgręžti ar paleisti į kitą geležinkelio kelią.
+
+
+
+
+201. Karinio krovinio vežimas – Lietuvos kariuomenės ar atvykstančių pajėgų karių grupės, kurią sudaro ne mažiau kaip 4 kariai, ginkluotės, technikos, materialinio aprūpinimo krovinių, įskaitant pavojinguosius krovinius, vežimas, jeigu jų siuntėjas, gavėjas ir (arba) mokėtojas yra Šiaurės Atlanto sutarties organizacija ir (arba) Europos Sąjungos valstybės narės organizacija arba siuntėjas ir gavėjas veikia šių (šios) organizacijų (organizacijos) įgalioti. 
 
 
 
@@ -359,7 +377,17 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
-26. Krovinių terminalas – vieta, kuri skirta įvairiarūšio transporto vienetams perkrauti ir saugoti, kai bent viena transporto rūšis yra geležinkelių transportas.
+251. Krovinio iškrovimas – fizinis krovinio iškėlimas iš geležinkelių riedmenų ar transportavimo geležinkelių riedmenimis taros, kai iškeltas krovinys nepakraunamas į geležinkelių riedmenis ar kitą transportavimo geležinkelių riedmenimis tarą. 
+
+
+
+
+252. Krovinio pakrovimas – fizinis krovinio įkėlimas į geležinkelių riedmenis ar transportavimo geležinkelių riedmenimis tarą, kai krovinys įkeliamas ne iš geležinkelių riedmenų ar transportavimo geležinkelių riedmenimis taros. 
+
+
+
+
+26. Krovos terminalas – vieta su joje esančia įranga ar be jos, skirta kroviniui (įskaitant įvairiarūšio transporto vienetus) pakrauti, iškrauti, perkrauti ir (ar) saugoti, kai bent viena transporto rūšis yra geležinkelių transportas. 
 
 
 
@@ -400,6 +428,11 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
+311. Negabaritinio krovinio vežimas – krovinio, kurio matmenys viršija pakrovos gabaritą, vežimas. 
+
+
+
+
 32. Pagrįstas pelnas – geležinkelių paslaugų įrenginio operatoriaus nuosavo kapitalo grąžos norma, kuri nustatoma atsižvelgiant į riziką, įskaitant pajamų gavimo riziką arba tokios rizikos nebuvimą, ir kuri atitinka susijusių paslaugų, teikiamų atitinkamuose geležinkelių paslaugų įrenginiuose, sektoriaus pastarųjų vienų metų pelno normos vidurkį. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
@@ -409,14 +442,6 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 33. Pakrovos gabaritas – skersinis kontūras (statmenas geležinkelio kelio ašiai), kuriame turi tilpti į atvirus geležinkelių riedmenis pakrautas krovinys (įskaitant pakuotę ir tvirtinimo elementus), geležinkelių riedmenims stovint tiesiame horizontaliame geležinkelio kelyje.
-
-
-
-
-331. Paraiška skirti viešosios geležinkelių infrastruktūros pajėgumus – prašymas skirti viešosios geležinkelių infrastruktūros pajėgumus rengiant tarnybinį traukinių tvarkaraštį. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
- 
 
 
 
@@ -434,20 +459,17 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-342. Paskutinės minutės paraiška skirti viešosios geležinkelių infrastruktūros pajėgumus (toliau – paskutinės minutės paraiška) – prašymas skirti viešosios geležinkelių infrastruktūros pajėgumus, pateiktas tarnybinio traukinių tvarkaraščio galiojimo laikotarpiu. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
- 
-
-
-
-
 35. Perpildyta viešoji geležinkelių infrastruktūra (toliau – perpildyta infrastruktūra) – infrastruktūra, kurioje negali būti patenkinta visa viešosios geležinkelių infrastruktūros pajėgumų paklausa tam tikru metu net ir derinant paraiškas skirti tuos pačius viešosios geležinkelių infrastruktūros pajėgumus.
 
 
 
 
 36. Perspektyvi alternatyva – galimybė naudotis kitais geležinkelių paslaugų įrenginiais, kurie geležinkelio įmonei (vežėjui) yra ekonomiškai priimtini ir kuriais naudodamasi geležinkelio įmonė (vežėjas) gali teikti atitinkamas keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugas.
+
+
+
+
+361. Pervaža – geležinkelio kelio susikirtimo su automobilių keliu viename lygyje vieta. 
 
 
 
@@ -462,7 +484,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-381. Suinteresuotieji asmenys – pareiškėjai, šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės, taip pat keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu tarptautiniais ir (ar) vietiniais maršrutais paslaugas ketinantys teikti asmenys, kurie pageidauja pareikšti savo nuomonę apie tai, kokią įtaką tarnybinis traukinių tvarkaraštis gali turėti jų galimybei teikti šias paslaugas per šio tvarkaraščio galiojimo laikotarpį. 
+381. Suinteresuotieji asmenys – pareiškėjai, šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės, taip pat kiti asmenys, kurie informavo viešosios geležinkelių infrastruktūros valdytoją apie tai, kad nori pareikšti savo nuomonę dėl to, kokią įtaką tarnybinis traukinių tvarkaraštis gali turėti jų galimybei įsigyti keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu tarptautiniais ir (ar) vietiniais maršrutais vežimo paslaugas per šio tvarkaraščio galiojimo laikotarpį. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
@@ -485,7 +507,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-42. Tranzitas – krovinių, kurie neiškraunami ir nepakraunami Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teritorijoje, ar keleivių, kurie neįlaipinami ir neišlaipinami Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teritorijoje, vežimas per Lietuvos Respublikos teritoriją.
+42. Tranzitas – traukinio, kertančio išorinę Europos Sąjungos sieną, vykimas per Lietuvos Respublikos teritoriją, kai šiuo traukiniu vežami kroviniai neiškraunami ir nepakraunami Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teritorijoje, o keleiviai neįlaipinami ir neišlaipinami Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teritorijoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
@@ -526,7 +551,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-47. Viešoji geležinkelių infrastruktūra – geležinkelių infrastruktūra, skirta viešiesiems ir ūkio subjektų poreikiams tenkinti – keleiviams, bagažui ir (ar) kroviniams vežti, manevruoti ir (ar) važiuoti į geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ir iš jos.
+47. Viešoji geležinkelių infrastruktūra – geležinkelių infrastruktūra viešiesiems ir ūkio subjektų poreikiams tenkinti – keleiviams, bagažui ir (ar) kroviniams vežti ir (ar) važiuoti į geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ir iš jos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
@@ -632,10 +660,11 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-52. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos transporto lengvatų įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Reglamente (ES) Nr. 913/2010, Reglamente (ES) 2015/1100, Reglamente (ES) 2017/2177. 
+52. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos transporto lengvatų įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatyme, Reglamente (ES) Nr. 913/2010, Reglamente (ES) 2015/1100, Reglamente (ES) 2017/2177. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 Nr. XIII-3419, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24575
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -656,9 +685,10 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 Geležinkelių transporto veiklos principai yra šie:
 
 
-1) nediskriminacinė Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje įsteigtų ir saugos sertifikatą įgijusių geležinkelio įmonių (vežėjų) prieiga prie viešosios geležinkelių infrastruktūros, geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų paslaugų;
+1) nediskriminacinė Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje įsteigtų ir bendrąjį saugos sertifikatą įgijusių geležinkelio įmonių (vežėjų) prieiga prie viešosios geležinkelių infrastruktūros, geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų su geležinkelių transportu susijusių pagrindinių, papildomų ir (ar) pagalbinių paslaugų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -705,15 +735,19 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-3. Specialūs viešųjų keleivių vežimo geležinkelių transportu paslaugų apskaitos reikalavimai nustatyti 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (toliau – Reglamentas (EB) Nr. 1370/2007) ir šio Kodekso 12 straipsnio 4 dalyje.
+3. Specialieji viešųjų keleivių vežimo geležinkelių transportu paslaugų apskaitos reikalavimai nustatyti Reglamente (EB) Nr. 1370/2007 ir šio Kodekso 12 straipsnio 10 dalyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
 
-4. Specialieji viešosios geležinkelių infrastruktūros valdymo apskaitos reikalavimai nustatyti šio Kodekso 241 straipsnyje. 
+4. Specialieji viešosios geležinkelių infrastruktūros valdytojo veiklos apskaitos reikalavimai nustatyti šio Kodekso 241 straipsnyje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -868,9 +902,10 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 1. Rinkos reguliuotojo funkcijos yra šios:
 
 
-1) savo iniciatyva ar pagal pareiškėjų skundus privaloma išankstine ne teismo tvarka nagrinėti viešosios geležinkelių infrastruktūros valdytojo, geležinkelių paslaugų įrenginių operatorių, geležinkelio įmonių (vežėjų), institucijų, įstaigų ar organizacijų veiksmus ir (ar) neveikimą, įskaitant pagal kompetenciją priimtus sprendimus dėl teisės naudotis viešąja geležinkelių infrastruktūra, geležinkelių paslaugų įrenginiais ir juose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ir (ar) pagalbinėmis paslaugomis sąlygų geležinkelio įmonėms (vežėjams) apribojimo, Tinklo nuostatų turinio, viešosios geležinkelių infrastruktūros pajėgumų skyrimo, geležinkelio įmonės (vežėjo) mokėtino užmokesčio už minimalųjį prieigos paketą sudedamųjų dalių ar dydžio, taip pat užmokesčių už naudojimąsi geležinkelių paslaugų įrenginiais ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis paslaugomis ir užmokesčių už su geležinkelių transportu susijusias pagalbines ir papildomas paslaugas dydžių, kriterijų, kuriais remiantis yra nustatoma, kad viešosios geležinkelių infrastruktūros pajėgumai ar jų dalis nenaudojami reguliariai, vežimo geležinkelių transportu rinkos segmentų, kuriuose gali būti taikomi antkainiai, sąrašo, geležinkelių transporto eismo valdymo, viešosios geležinkelių infrastruktūros atnaujinimo planavimo ir planinės arba neplaninės viešosios geležinkelių infrastruktūros techninės priežiūros, taip pat viešosios geležinkelių infrastruktūros valdytojo atitikties šio Kodekso 23, 24, 241, 242, 26 ir 28 straipsniuose nustatytiems reikalavimams, susijusiems su viešosios geležinkelių infrastruktūros valdytojo valdymo, esminių viešosios geležinkelių infrastruktūros valdytojo funkcijų nešališkumu, viešosios geležinkelių infrastruktūros valdytojo funkcijų perdavimu kitiems asmenims, viešosios geležinkelių infrastruktūros valdytojo finansiniu skaidrumu; rinkos reguliuotojas pareiškėjų skundus nagrinėja ir sprendimus dėl jų priima Vyriausybės nustatyta tvarka; 
+1) savo iniciatyva ar pagal pareiškėjų skundus privaloma išankstine ne teismo tvarka nagrinėti viešosios geležinkelių infrastruktūros valdytojo, geležinkelių paslaugų įrenginių operatorių, geležinkelio įmonių (vežėjų), institucijų, įstaigų ar organizacijų veiksmus ir (ar) neveikimą, įskaitant pagal kompetenciją priimtus sprendimus dėl teisės naudotis viešąja geležinkelių infrastruktūra, geležinkelių paslaugų įrenginiais ir juose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ir (ar) pagalbinėmis paslaugomis sąlygų geležinkelio įmonėms (vežėjams) apribojimo, Tinklo nuostatų turinio, viešosios geležinkelių infrastruktūros pajėgumų skyrimo, mokėtino užmokesčio už minimalųjį prieigos paketą sudedamųjų dalių ar dydžio, užmokesčio už skirtus, bet nepanaudotus viešosios geležinkelių infrastruktūros pajėgumus, taip pat užmokesčių už naudojimąsi geležinkelių paslaugų įrenginiais ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis paslaugomis ir užmokesčių už su geležinkelių transportu susijusias pagalbines ir papildomas paslaugas dydžių, kriterijų, kuriais remiantis yra nustatoma, kad viešosios geležinkelių infrastruktūros pajėgumai ar jų dalis nenaudojami reguliariai, vežimo geležinkelių transportu rinkos segmentų, kuriuose gali būti taikomi antkainiai, sąrašo, geležinkelių transporto eismo valdymo, viešosios geležinkelių infrastruktūros atnaujinimo planavimo ir planinės arba neplaninės viešosios geležinkelių infrastruktūros techninės priežiūros, taip pat viešosios geležinkelių infrastruktūros valdytojo atitikties šio Kodekso 23, 24, 241, 242, 26 ir 28 straipsniuose nustatytiems reikalavimams, susijusiems su viešosios geležinkelių infrastruktūros valdytojo valdymo, esminių viešosios geležinkelių infrastruktūros valdytojo funkcijų nešališkumu, viešosios geležinkelių infrastruktūros valdytojo funkcijų perdavimu kitiems asmenims, viešosios geležinkelių infrastruktūros valdytojo finansiniu skaidrumu; rinkos reguliuotojas pareiškėjų skundus nagrinėja ir sprendimus dėl jų priima Vyriausybės nustatyta tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -1132,7 +1167,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 10. Rinkos reguliuotojo funkcijų finansavimo tvarka:
 
 
-1) rinkos reguliuotojo funkcijos finansuojamos iš geležinkelio įmonių (vežėjų) mokamų įmokų. Geležinkelio įmonės (vežėjo) įmoka apskaičiuojama pagal šios įmonės (vežėjo) praėjusių metų faktinę darbo Lietuvos Respublikos geležinkelių tinkle apimtį bruto tonkilometriais. Šios įmokos dydis yra 5 eurai už vieną milijoną bruto tonkilometrių;
+1) rinkos reguliuotojo funkcijos finansuojamos iš geležinkelio įmonių (vežėjų) mokamų įmokų; geležinkelio įmonės (vežėjo) įmoka apskaičiuojama pagal šios įmonės (vežėjo) praėjusių metų faktinę darbo Lietuvos Respublikos geležinkelių tinkle apimtį bruto tonkilometriais; šios įmokos dydis yra 10 eurų už vieną milijoną bruto tonkilometrių; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
@@ -1662,10 +1700,13 @@ Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 
 
-10. Valstybės lėšos, skirtos geležinkelio įmonei (vežėjui) viešosioms paslaugoms teikti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai. 
+10. Valstybės biudžeto lėšos ir (ar) savivaldybių, kurios nusprendė iš dalies finansuoti geležinkelio įmonės (vežėjo) nuostolius, patirtus teikiant viešąsias paslaugas jų teritorijoje, lėšos, skirtos geležinkelio įmonei (vežėjui) nuostoliams, patirtiems teikiant viešąsias paslaugas, kompensuoti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai.
 Straipsnio pakeitimai:
 Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
+Straipsnio dalies pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 Straipsnio pakeitimai:
@@ -1758,59 +1799,54 @@ Geležinkelių infrastruktūros objektai yra šie:
 
 
 
-2) geležinkelio kelias ir geležinkelio kelio pagrindas, sankasos ir pylimai, iškasos, drenažo kanalai ir tranšėjos, mūrinės tranšėjos, pralaidos, sutvirtinimo sienos, apsauginiai želdiniai, peronai ir prekių platformos keleivių geležinkelio stotyse ir krovinių terminaluose; pėsčiųjų takai, geležinkelio kelių aptvėrimų sienos, tvoros, aptvarai, priešgaisrinės juostos, šildymo prietaisai, bėgių sankirtos, užtvaros nuo sniego;
+2) geležinkelio kelias ir geležinkelio kelio sankasą sudarantys elementai: pylimai, iškasos, drenažo tinklai, mūrinės tranšėjos, pralaidos, atraminės sienelės, apsauginiai želdiniai, peronai ir prekių platformos, įskaitant geležinkelio kelio sankasą sudarančius elementus, esančius keleivių geležinkelio stotyse ir stotelėse bei krovos terminaluose; geležinkelių infrastruktūros valdytojo darbuotojų tarnybinėms reikmėms skirti vidaus keliai ir pėsčiųjų takai, geležinkelio kelių aptvėrimų sienos, tvoros, aptvarai; priešgaisrinės juostos, iešmų, bėgių sankirtų ir panašių objektų šildymo įrenginiai, geležinkelio kelių sankirtos, užtvaros nuo sniego;
 
 
 
 
-3) inžineriniai statiniai: tiltai, pralaidos ir kiti viadukai, tuneliai, dengtos iškasos ir kitos pravažiuoti po geležinkelio sankasomis skirtos vietos, nuo griūčių ir krentančių akmenų apsaugantys statiniai ir kiti panašaus pobūdžio inžineriniai statiniai;
+3) geležinkelio tiltai, viadukai, estakados, pralaidos, tuneliai, dengtos iškasos, apsaugos nuo griūčių ir krintančių akmenų statiniai ir kiti panašaus pobūdžio geležinkelio kelio priklausiniai;
 
 
 
 
-4) pervažos, taip pat kelių eismo saugą užtikrinanti įranga;
+4) pervažos ir jose esanti eismo saugumą automobilių keliais užtikrinanti įranga;
 
 
 
 
-5) bėgiai, bėgiai su įpjovomis ir gretbėgiai, pabėgiai ir išilginiai pabėgiai, smulkieji geležinkelio kelio tvirtinimo elementai, balastas, taip pat akmens skalda ir smėlis, iešmai, bėgių sankirtos, grįžračiai ir kilnojamosios platformos (išskyrus platformas, skirtas išimtinai lokomotyvams), taip pat kiti panašaus pobūdžio įrenginiai;
+5) bėgiai, bėgiai su įpjovomis ir gretbėgiai, pabėgiai ir balasto neturinčio kelio plokštės, viršutinės geležinkelio kelio konstrukcijos elementai, antpilo (balasto – akmens skaldos, žvyro, smėlio ar kitos birios rupios mineralinės medžiagos) sluoksnis; iešmai, bėgių sankirtos, grįžračiai ir kilnojamosios platformos (išskyrus platformas, skirtas išimtinai lokomotyvams), taip pat kiti panašaus pobūdžio viršutinę geležinkelio kelio konstrukciją sudarantys įrenginiai;
 
 
 
 
-6) automobilių keliai ir pėsčiųjų takai, skirti automobiliams privažiuoti ar keleiviams prieiti prie geležinkelio kelių;
+6) geležinkelio stočių ir stotelių teritorijose esantys automobilių keliai automobiliams privažiuoti prie prekių platformų ir pėsčiųjų takai keleiviams prieiti prie peronų;
 
 
 
 
-7) saugos, signalizacijos ir telekomunikacijų įrenginiai atvirame geležinkelio kelyje, sumontuoti geležinkelio stotyse, taip pat signalizacijai ir telekomunikacijoms reikalingos elektros srovės gamybos, transformavimo ir skirstymo įrenginiai, šiems įrenginiams skirti pastatai, stabdikliai;
+7) geležinkelių transporto eismo saugos, signalizacijos ir telekomunikacijų įrenginiai, įrengti geležinkelio kelyje, geležinkelio stotyse ir geležinkelio keliuose tarp geležinkelio stočių (toliau – tarpstotis), taip pat tik signalizacijai ir telekomunikacijoms reikalingos elektros srovės gamybos, transformavimo ir skirstymo įrenginiai ir statiniai iki suderintos su skirstomųjų tinklų operatoriumi elektros tinklo eksploatavimo ribos, šiems įrenginiams skirti pastatai, stabdikliai;
 
 
 
 
-8) apšvietimo įrenginiai, skirti geležinkelių transporto eismui ir geležinkelių transporto eismo saugai užtikrinti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
- 
+8) apšvietimo įrenginiai geležinkelių transporto eismui ir geležinkelių transporto eismo saugai užtikrinti; 
 
 
 
 
-9) elektros energijos transformavimo ir perdavimo įrenginiai, būtini traukai užtikrinti: pastotės, energijos tiekimo kabeliai, nutiesti tarp pastočių ir kontaktinių laidų, kontaktinis geležinkelių tinklas ir atramos, trečiasis bėgis su atramomis;
+9) elektros energijos transformavimo ir perdavimo įrenginiai ir statiniai, būtini traukos srovei užtikrinti: pastotės, energijos tiekimo kabeliai, nutiesti tarp pastočių ir kontaktinių laidų, kontaktinis geležinkelių tinklas ir atramos, trečiasis bėgis su atramomis;
 
 
 
 
-10) geležinkelių infrastruktūros valdytojo naudojami pastatai, įskaitant šiuose pastatuose esančių įrenginių dalį, skirtą transporto mokesčiams surinkti. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
- 
+10) geležinkelių infrastruktūros valdytojo naudojami pastatai, įskaitant šių pastatų dalį ir juose esančius įrenginius, skirtus naudojimosi geležinkelių infrastruktūra užmokesčiui surinkti.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -1845,23 +1881,20 @@ Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 
 
-17 straipsnis. Geležinkelio stotis 
+17 straipsnis. Geležinkelio stoties ir stotelės įrengimo reikalavimai, pavadinimų suteikimas
 
 
-1. Geležinkelio stotį sudaro geležinkelio kelių, pastatų, statinių ir įrenginių kompleksas, užimantis tam tikrą žemės sklypą ir skirtas traukiniams priimti, skirstyti, formuoti, praleisti ir išleisti, keleiviams, bagažo ar krovinių siuntėjams (gavėjams) aptarnauti.
-
-
-
-
-2. Kiekviena geležinkelio stotis turi Vyriausybės suteiktą pavadinimą.
+1. Techninius geležinkelio stoties ir stotelės įrengimo reikalavimus nustato susisiekimo ministras.
 
 
 
 
-3. Reikalavimai geležinkelio stotims nustatomi Techninio geležinkelių naudojimo nuostatuose. Šiuos nuostatus tvirtina susisiekimo ministras.
+2. Geležinkelio stoties ir stotelės pavadinimą suteikia Vyriausybė, šio Kodekso 9 straipsnio 1 dalyje nustatytu atveju priimdama sprendimą dėl tokio objekto statybos, arba geležinkelio stoties ar stotelės valdytojas, vadovaudamasis susisiekimo ministro nustatytais geležinkelio stočių ir stotelių pavadinimų suteikimo principais.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
-
-
 
 
 
@@ -1900,7 +1933,10 @@ Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 
 
 
-4. Geležinkelio želdinių apsaugos zonose, ne miško paskirties žemėje augantys medžiai, jų grupės, krūmai kertami, genimi ar pertvarkomi aplinkos ministro nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
+4. Neteko galios nuo 2022-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
@@ -1918,34 +1954,31 @@ Nr. XIII-2176, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09950
 
 
 
-20 straipsnis. Pervažos ir perėjos 
+20 straipsnis. Geležinkelio kelio susikirtimo su automobilių keliais ir pėsčiųjų srautais vietų įrengimas
 
 
-1. Pervaža – geležinkelio kelio susikirtimo su automobilių keliu viename lygyje vieta.
-
-
-
-
-2. Vietose, kuriose valstybinės reikšmės automobilių keliai susikerta su geležinkelio keliais, turi būti įrengiamos reguliuojamos ar nereguliuojamos pervažos arba viadukai.
+1. Vietose, kuriose valstybinės reikšmės automobilių keliai susikerta su geležinkelio keliais, turi būti įrengiamos reguliuojamos ar nereguliuojamos pervažos, viadukai, tuneliai ar kelių transporto eismui skirtos pralaidos.
 
 
 
 
-3. Vietose, kuriose pėsčiųjų srautai kerta geležinkelio kelius, įrengiamos perėjos.
+2. Vietose, kuriose pėsčiųjų srautai kerta geležinkelio kelius, įrengiamos perėjos, pėsčiųjų viadukai, tuneliai ar pralaidos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
 
 
+21 straipsnis. Pervažų, perėjų, pralaidų, viadukų ir tunelių įrengimas ir priežiūra 
 
 
-21 straipsnis. Pervažų ir perėjų įrengimas ir priežiūra 
+1. Pervažos, perėjos, kelių transporto ir (ar) pėsčiųjų eismui skirtos pralaidos, viadukai ir tuneliai įrengiami:
 
 
-1. Pervažos ar perėjos įrengiamos:
-
-
-1) kai tiesiamas naujas geležinkelio kelias, – geležinkelio kelio sankirtoje su esamais valstybinės reikšmės automobilių keliais iš geležinkelio kelią tiesiančių subjektų lėšų;
+1) kai tiesiamas naujas geležinkelio kelias, – geležinkelio kelio sankirtoje su esamais valstybinės reikšmės automobilių keliais, gatvėmis, dviračių ir (ar) pėsčiųjų takais iš geležinkelio kelią tiesiančių subjektų lėšų;
 
 
 
@@ -1955,40 +1988,41 @@ Nr. XIII-2176, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09950
 
 
 
-3) kai geležinkelio kelias nutiestas, – iš fizinių ir (ar) juridinių asmenų, suinteresuotų pervažos įrengimu, lėšų, jeigu geležinkelių infrastruktūros valdytojas pritaria pervažos įrengimui.
+3) kai geležinkelio kelias nutiestas, – iš fizinių ir (ar) juridinių asmenų, suinteresuotų pervažos, perėjos (jeigu geležinkelių infrastruktūros valdytojas pritaria pervažos ar perėjos įrengimui), kelių transporto ir (ar) pėsčiųjų eismui skirtos pralaidos, viaduko ar tunelio įrengimu, lėšų.
 
 
 
 
 
 
-2. Vietinės reikšmės automobilių kelių sankirtoje su geležinkelio keliu pervažas ar perėjas, suderinę su geležinkelių infrastruktūros valdytoju, įrengia ir prižiūri suinteresuoti fiziniai ar juridiniai asmenys iš savo lėšų. 
+2. Vietinės reikšmės automobilių kelių, gatvių, dviračių ir (ar) pėsčiųjų takų sankirtoje su geležinkelio keliu pervažas ar perėjas, suderinę su geležinkelių infrastruktūros valdytoju, kelių transporto ir (ar) pėsčiųjų eismui vietinės reikšmės automobilių keliais skirtas pralaidas, viadukus ar tunelius įrengia ir prižiūri suinteresuoti fiziniai ar juridiniai asmenys iš savo lėšų. 
 
 
 
 
-3. Leidimą įrengti pervažą ar perėją išduoda geležinkelių infrastruktūros valdytojas, atsižvelgdamas į technines galimybes ir eismo saugos reikalavimus.
+3. Leidimą įrengti pervažą ar perėją išduoda geležinkelių infrastruktūros valdytojas, atsižvelgdamas į technines galimybes ir Specialiųjų žemės naudojimo sąlygų įstatyme nurodytas specialiąsias žemės naudojimo sąlygas geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonose.
 
 
 
 
-4. Pervažos ir perėjos turi būti įrengtos pagal Statybos įstatymo ir susisiekimo ministro patvirtintų Pervažų įrengimo ir naudojimo taisyklių reikalavimus.
+4. Pervažos ir perėjos turi būti įrengtos pagal Statybos įstatyme nustatytus ir susisiekimo ministro tvirtinamus pervažų ir perėjų įrengimo ir naudojimo reikalavimus.
 
 
 
 
-5. Valstybinės reikšmės automobilių kelių sankirtoje su geležinkelio keliu pervažas ir perėjas prižiūri geležinkelių infrastruktūros valdytojas.
+5. Valstybinės reikšmės automobilių kelių sankirtoje su geležinkelio keliu įrengtas pervažas ir perėjas prižiūri geležinkelių infrastruktūros valdytojas. Kelių transporto ir (ar) pėsčiųjų eismui valstybinės reikšmės keliais skirtas pralaidas, viadukus ir tunelius prižiūri valstybinės reikšmės kelių valdytojas.
 
 
 
 
-6. Suinteresuotų fizinių ar juridinių asmenų ir geležinkelių infrastruktūros valdytojo susitarimu esamos pervažos ar perėjos gali būti perkeltos į kitą vietą, uždarytos arba panaikintos. Pervažos ir perėjos perkeliamos į kitą vietą, uždaromos arba panaikinamos suinteresuoto asmens lėšomis.
+6. Suinteresuotų fizinių ar juridinių asmenų ir geležinkelių infrastruktūros valdytojo susitarimu esamos pervažos ar perėjos gali būti perkeltos į kitą vietą, uždarytos arba panaikintos. Pervažos ir perėjos perkeliamos į kitą vietą, uždaromos arba panaikinamos asmens, suinteresuoto pervažos ar perėjos uždarymu arba perkėlimu, lėšomis.
+
+
 Straipsnio pakeitimai:
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
-
-
 Straipsnio pakeitimai:
 Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -2072,9 +2106,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-4. Viešosios geležinkelių infrastruktūros turtas yra valdomas pagal šio turto patikėjimo sutartį, kurią su viešosios geležinkelių infrastruktūros valdytoju sudaro Susisiekimo ministerija. Sukurtas naujas viešosios geležinkelių infrastruktūros turtas inventorizuojamas ir registruojamas valstybės biudžeto lėšomis. Viešosios geležinkelių infrastruktūros valdytojas parengia ir tvarko patikėjimo teise valdomo viešosios geležinkelių infrastruktūros turto ir turto, valdomo kitais teisėtais pagrindais, sąrašą, atsižvelgiant į kurį nustatoma, kokio finansavimo reikia šiam turtui atnaujinti ir modernizuoti, taip pat atskirai nurodo viešosios geležinkelių infrastruktūros atnaujinimo ir modernizavimo išlaidas. 
+4. Viešosios geležinkelių infrastruktūros turtas yra valdomas pagal šio turto patikėjimo sutartį, kurią su viešosios geležinkelių infrastruktūros valdytoju sudaro Susisiekimo ministerija. Šioje dalyje nurodyto turto patikėjimo sutartis galioja, kol akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtai dukterinei bendrovei yra pavesta vykdyti šio Kodekso 24 straipsnyje nurodytas viešosios geležinkelių infrastruktūros valdytojo funkcijas. Sukurtą naują ar modernizuotą viešosios geležinkelių infrastruktūros turtą inventorizuoja ir Nekilnojamojo turto registre registruoja viešosios geležinkelių infrastruktūros valdytojas valstybės biudžeto lėšomis. Viešosios geležinkelių infrastruktūros valdytojas parengia ir tvarko šio Kodekso 24 straipsnyje nurodytoms viešosios infrastruktūros valdytojo funkcijoms vykdyti naudojamo turto ir patikėjimo teise valdomo viešosios geležinkelių infrastruktūros turto sąrašą, atskirai išskirdamas patikėjimo teise valdomą viešosios geležinkelių infrastruktūros turtą, į kurį atsižvelgus nustatoma, kokio finansavimo reikia viešosios geležinkelių infrastruktūros turtui atnaujinti ir modernizuoti, taip pat atskirai nurodo viešosios geležinkelių infrastruktūros atnaujinimo ir modernizavimo išlaidas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -2146,7 +2181,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-12. Išlaidos, patiriamos atliekant šio Kodekso 24 straipsnyje nurodytas viešosios geležinkelių infrastruktūros valdytojo funkcijas, apmokamos iš užmokesčio už minimalųjį prieigos paketą, valstybės biudžeto lėšų, skiriamų pagal šio straipsnio 13 dalyje nurodytą sutartį, valstybės biudžeto lėšų, skiriamų viešosios geležinkelių infrastruktūros atnaujinimo, modernizavimo ir plėtros projektams įgyvendinti, paskolų, kitų lėšų.
+12. Išlaidos, patiriamos atliekant šio Kodekso 24 straipsnyje nurodytas viešosios geležinkelių infrastruktūros valdytojo funkcijas, apmokamos iš užmokesčio už minimalųjį prieigos paketą, užmokesčio už naudojimąsi viešąja geležinkelių infrastruktūra tranzito geležinkelių transportu paslaugoms teikti, užmokesčio už skirtus, bet nepanaudotus viešosios geležinkelių infrastruktūros pajėgumus, pajamų, gautų iš viešosios geležinkelių infrastruktūros objektų nuomos, valstybės biudžeto lėšų, skiriamų pagal šio straipsnio 13 dalyje nurodytą sutartį, valstybės biudžeto lėšų, skiriamų viešosios geležinkelių infrastruktūros atnaujinimo, modernizavimo ir plėtros projektams įgyvendinti, paskolų, kitų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
@@ -2223,9 +2261,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-16. Viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartyje numatomas valstybės biudžeto finansavimas turi būti pakankamas, kad tais atvejais, kai veiklos sąlygos yra įprastos, per ne ilgesnį kaip 5 metų laikotarpį būtų išlaikytas viešosios geležinkelių infrastruktūros valdytojo pajamų (gautų iš užmokesčio už minimalųjį prieigos paketą, užmokesčio už naudojimąsi Lietuvos valstybei nuosavybės teise priklausančiais geležinkelių paslaugų įrenginiais, valdomais viešosios geležinkelių infrastruktūros valdytojo, nurodytais šio Kodekso 301 straipsnyje, ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ar pagalbinėmis paslaugomis, papildomų pajamų iš kitos komercinės veiklos, negrąžinamų pajamų iš privačių šaltinių ir valstybės biudžeto lėšų) ir sąnaudų balansas. Viešosios geležinkelių infrastruktūros valdytojas susisiekimo ministro nustatyta tvarka parengia ir paskelbia veiklos planą, suderintą su Vyriausybės tvirtinama viešosios geležinkelių infrastruktūros plėtros programa ir atitinkantį Viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartyje numatomą valstybės biudžeto finansavimą. 
+16. Viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartyje planuojamas valstybės biudžeto finansavimas turi būti pakankamas, kad tais atvejais, kai veiklos sąlygos yra įprastos, per ne ilgesnį kaip 5 metų laikotarpį būtų išlaikytas viešosios geležinkelių infrastruktūros valdytojo pajamų, gautų iš užmokesčio už minimalųjį prieigos paketą, užmokesčio už naudojimąsi viešąja geležinkelių infrastruktūra tranzito geležinkelių transportu paslaugoms teikti, užmokesčio už skirtus, bet nepanaudotus viešosios geležinkelių infrastruktūros pajėgumus, papildomų pajamų iš kitos komercinės veiklos, negrąžinamų pajamų iš privačių šaltinių ir valstybės biudžeto lėšų ir sąnaudų, patirtų vykdant Kodekso 24 straipsnyje nurodytas viešosios geležinkelių infrastruktūros valdytojo funkcijas, balansas. Viešosios geležinkelių infrastruktūros valdytojas susisiekimo ministro nustatyta tvarka parengia ir paskelbia veiklos planą, suderintą su Vyriausybės tvirtinama nacionaline susisiekimo plėtros programa ir atitinkantį viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartyje planuojamą valstybės biudžeto finansavimą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -2423,17 +2462,17 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 241 straipsnis. Viešosios geležinkelių infrastruktūros valdytojo finansinio skaidrumo reikalavimai
 
 
-1. Akcinė bendrovė „Lietuvos geležinkeliai“, viešosios geležinkelių infrastruktūros valdytojas turi užtikrinti, kad viešosios geležinkelių infrastruktūros valdytojo apskaita būtų atskira nuo kitų vertikaliosios integracijos įmonių grupės juridinių asmenų apskaitos ir kad būtų sudaromos atskiros pelno (nuostolių) ataskaitos ir balansai.
+1. Akcinė bendrovė „Lietuvos geležinkeliai“, viešosios geležinkelių infrastruktūros valdytojas turi užtikrinti, kad viešosios geležinkelių infrastruktūros valdytojo apskaita būtų atskira nuo kitų vertikaliosios integracijos įmonių grupės juridinių asmenų apskaitos ir kad būtų sudaromos atskiros pelno (nuostolių) ataskaitos ir balansai. Viešosios geležinkelių infrastruktūros valdytojas taip pat privalo atskirai tvarkyti viešosios geležinkelių infrastruktūros valdytojo veiklos, apimančios šio Kodekso 24 straipsnyje nurodytų funkcijų vykdymą, apskaitą ir sudaryti atskirą šios veiklos pelno (nuostolių) ataskaitą ir balansą.
 
 
 
 
-2. Viešosios geležinkelių infrastruktūros valdytojas negali tiesiogiai ar netiesiogiai suteikti paskolos geležinkelio įmonėms (vežėjams), o geležinkelio įmonės (vežėjai) negali tiesiogiai ar netiesiogiai suteikti paskolos viešosios geležinkelių infrastruktūros valdytojui, išskyrus šio straipsnio 3 dalyje nustatytą atvejį. 
+2. Viešosios geležinkelių infrastruktūros valdytojas negali tiesiogiai ar netiesiogiai suteikti paskolos geležinkelio įmonėms (vežėjams), o geležinkelio įmonės (vežėjai) negali tiesiogiai ar netiesiogiai suteikti paskolos viešosios geležinkelių infrastruktūros valdytojui, išskyrus šio straipsnio 3 dalyje nustatytą atvejį. 
 
 
 
 
-3. Vertikaliosios integracijos įmonių grupės juridiniai asmenys vieni kitiems paskolas teikia, išmoka, grąžina ir moka palūkanas pagal Lietuvos banko skelbiamą suteikiamų paskolų vidutinę paskolų palūkanų normą. Tokių paskolų teikimo sąlygos nustatomos įvertinus įmonės, kuriai ketinama suteikti paskolą, rizikingumą.
+3. Vertikaliosios integracijos įmonių grupės juridiniai asmenys vieni kitiems paskolas teikia, išmoka, grąžina ir moka palūkanas pagal rinkos kainą ir sąlygas, atitinkančias juridinio asmens, kuriam suteikiama paskola, rizikingumą.
 
 
 
@@ -2453,11 +2492,41 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-7. Pajamas, gautas iš viešosios geležinkelių infrastruktūros objektų nuomos, užmokesčio už minimalųjį prieigos paketą, ir valstybės biudžeto lėšas, skirtas viešosios geležinkelių infrastruktūros valdytojo veiklai finansuoti, viešosios geležinkelių infrastruktūros valdytojas turi apskaityti atskirai ir naudoti tik viešosios geležinkelių infrastruktūros valdytojo veiklai, įskaitant paskolų grąžinimą ir palūkanų mokėjimą. Viešosios geležinkelių infrastruktūros valdytojui atitinkamų metų tarnybinio traukinių tvarkaraščio galiojimo laikotarpiu surinkus užmokestį už minimalųjį prieigos paketą ir per tą laikotarpį jo nepanaudojus, viešosios geležinkelių infrastruktūros valdytojo sprendimu šios lėšos per ne ilgesnį kaip 5 metų laikotarpį naudojamos viešosios geležinkelių infrastruktūros techninei priežiūrai, atnaujinimui ir (ar) plėtrai. Viešosios geležinkelių infrastruktūros valdytojui nepanaudojus užmokesčio už minimalųjį prieigos paketą šioje dalyje nustatyta tvarka, teisės aktų, reglamentuojančių dividendų apskaičiavimą, nustatyta tvarka apskaičiuoti dividendai mokami į valstybės biudžetą. 
+7. Pajamas, gautas vykdant viešosios geležinkelių infrastruktūros valdytojo veiklą, ir valstybės biudžeto lėšas, skirtas viešosios geležinkelių infrastruktūros valdytojo veiklai finansuoti, viešosios geležinkelių infrastruktūros valdytojas turi naudoti tik viešosios geležinkelių infrastruktūros valdytojo veiklai, įskaitant viešosios geležinkelių infrastruktūros valdytojo veiklai vykdyti paimtų paskolų grąžinimą ir palūkanų mokėjimą.
 
 
-Papildyta straipsniu:
-Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+
+
+8. Apskaičiuotas viešosios geležinkelių infrastruktūros valdytojo veiklos rezultatas (grynasis ataskaitinių finansinių metų pelnas (nuostoliai) viešosios geležinkelių infrastruktūros valdytojo akcininko sprendimu yra paskirstomas Lietuvos Respublikos akcinių bendrovių įstatymo nustatyta tvarka.
+
+
+
+
+9. Šio straipsnio 8 dalyje nurodyto veiklos rezultato apskaičiavimo ir jo panaudojimo tvarkos aprašą tvirtina susiekimo ministras.
+
+
+
+
+10. Viešosios geležinkelių infrastruktūros valdytojo dividendai skirstomi ir mokami Akcinių bendrovių įstatymo nustatyta tvarka, išskyrus šio straipsnio 11 ir 12 dalyse nustatytas išimtis.
+
+
+
+
+11. Viešosios geležinkelių infrastruktūros valdytojo dividendai, paskirti atsižvelgiant į šio straipsnio 9 dalies nustatyta tvarka apskaičiuotą rezultatą, negali būti išmokėti viešosios geležinkelių infrastruktūros valdytojo akcininkui, jeigu akcininkas yra juridinis asmuo, sudarantis vertikaliosios integracijos įmonių grupę ir kontroliuojantis viešosios geležinkelių infrastruktūros valdytoją.
+
+
+
+
+12. Šio straipsnio 11 dalyje nurodyti viešosios geležinkelių infrastruktūros valdytojo dividendai į valstybės biudžetą mokami tiesiogiai tais atvejais, kai šio straipsnio 8 dalyje nurodyto veiklos rezultato likutis per 5 finansinius metus nuo jo susidarymo Akcinių bendrovių įstatymo nustatyta tvarka buvo priskirtas nepaskirstytam pelnui (nuostoliams), perkeliamam (perkeliamiems) į kitus finansinius metus. Viešosios geležinkelių infrastruktūros valdytojo akcininko sprendimu šio straipsnio 11 dalyje nurodyti viešosios geležinkelių infrastruktūros valdytojo dividendai gali būti mokami tiesiogiai į valstybės biudžetą ir nepasibaigus šioje dalyje nurodytam terminui.
+
+
+
+
+13. Šio straipsnio 12 dalyje nustatytu atveju viešosios geležinkelių infrastruktūros valdytojo į valstybės biudžetą tiesiogiai sumokėta šio straipsnio 11 dalyje nurodytų viešosios geležinkelių infrastruktūros valdytojo dividendų suma apskaitoma kaip viešosios geležinkelių infrastruktūros valdytojo akcininko mokamų į valstybės biudžetą dividendų dalis.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -2824,7 +2893,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-4. Geležinkelių transporto eismo organizavimo ir valdymo tvarką nustato Geležinkelių transporto eismo saugos įstatymas, susisiekimo ministro patvirtintos Geležinkelių eismo taisyklės ir kiti geležinkelių transporto eismo valdymą reglamentuojantys teisės aktai.
+4. Geležinkelių transporto eismas organizuojamas ir valdomas 2019 m. gegužės 16 d. Komisijos įgyvendinimo reglamento (ES) 2019/773 dėl Europos Sąjungos geležinkelių sistemos traukinių eismo organizavimo ir valdymo posistemio sąveikos techninės specifikacijos, kuriuo panaikinamas Sprendimas 2012/757/ES, šiame įgyvendinimo reglamente nustatytais atvejais viešosios geležinkelių infrastruktūros valdytojo ir susisiekimo ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
@@ -2832,6 +2904,16 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 5. Užtikrindamas geležinkelių transporto eismo valdymą, viešosios geležinkelių infrastruktūros valdytojas užtikrina, kad su geležinkelio įmonėmis (vežėjais) susijusių sutrikimų atveju joms būtų laiku suteikta visapusiška prieiga prie atitinkamos informacijos. Viešosios geležinkelių infrastruktūros valdytojas papildomą prieigą prie geležinkelių transporto eismo valdymo proceso geležinkelio įmonėms (vežėjams) suteikia skaidriai ir jų nediskriminuodamas. 
 Straipsnio pakeitimai:
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+
+
+
+
+51. Informacijos apie laikinus ir iš anksto suplanuotus naudojimosi viešosios geležinkelių infrastruktūros pajėgumais apribojimus, būtinus viešosios geležinkelių infrastruktūros statybos, remonto ir (ar) techninės priežiūros darbams atlikti ir apimančius traukinių greičio, ilgio, gabarito, svorio, traukos tipo apribojimus, paskelbimo, konsultavimosi dėl šių apribojimų ir derinimo tvarką nustato susisiekimo ministras.
+Straipsnio pakeitimai:
+Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+Papildyta straipsnio dalimi:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 Straipsnio pakeitimai:
@@ -3429,12 +3511,18 @@ GELEŽINKELIŲ PASLAUGŲ ĮRENGINIAI, JŲ VALDYMAS IR NAUDOJIMAS, ŠIUOSE ĮRENG
 Geležinkelių paslaugų įrenginiai yra šie:
 
 
-1) keleivių geležinkelio stotys, jų pastatai ir kiti įrenginiai, kelionių informacijos skelbimo ir bilietų įsigijimo paslaugai teikti tinkamos vietos;
+1) keleivių geležinkelio stotys, stotelės, jų pastatai ir kiti įrenginiai, išskyrus keleivių geležinkelio stotyse ir stotelėse esančius peronus, kelionių informacijos skelbimo ir bilietų įsigijimo paslaugai teikti tinkamos vietos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
 
-2) krovinių terminalai;
+2) krovos terminalai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
+ 
 
 
 
@@ -3564,7 +3652,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 2. Papildomos paslaugos yra šios:
 
 
-1) traukos srovės, už kurią sąskaitose faktūrose mokesčiai nurodomi atskirai nuo mokesčių už naudojimąsi elektros energijos tiekimo įrenginiais, teikimas;
+1) traukos srovės, už kurią sąskaitose faktūrose užmokestis nurodomas atskirai nuo užmokesčio už minimalųjį prieigos paketą, apskaičiuoto už naudojimąsi elektros energijos tiekimo įrenginiais, traukos srovei užtikrinti, tiekimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-632, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24225
+ 
 
 
 
@@ -3632,6 +3723,14 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
+6. Jeigu šio Kodekso 303 straipsnio 2 dalies 1 punkte nurodytai su geležinkelių transportu susijusiai papildomai paslaugai gauti geležinkelio įmonė (vežėjas) geležinkelių paslaugų įrenginio operatoriumi pasirenka nepriklausomą tiekėją, nurodytą Lietuvos Respublikos elektros energetikos įstatyme, apie šį pasirinkimą geležinkelio įmonės (vežėjo) pasirinktas nepriklausomas tiekėjas ne vėliau kaip per 10 darbo dienų nuo naudojimosi geležinkelių paslaugų įrenginiais sutarties su geležinkelio įmone (vežėju) sudarymo dienos informuoja viešosios geležinkelių infrastruktūros valdytoją.
+Papildyta straipsnio dalimi:
+Nr. XIV-632, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24225
+ 
+
+
+
+
 
 
 304 straipsnis. Užmokestis už naudojimąsi geležinkelių paslaugų įrenginiais, juose esančiais geležinkelio keliais ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ir pagalbinėmis paslaugomis 
@@ -3661,9 +3760,18 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-4. Užmokestį už su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas nustato geležinkelių įrenginių operatorius. Jeigu su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas teikia vienas paslaugų teikėjas, užmokestis už šias paslaugas negali būti didesnis už jų teikimo išlaidas, pridėjus pagrįstą pelną. 
+4. Užmokestį už su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas nustato geležinkelių paslaugų įrenginio operatorius. Jeigu su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas teikia vienas paslaugų teikėjas, užmokestis už šias paslaugas negali būti didesnis už jų teikimo išlaidas, pridėjus pagrįstą pelną. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+Nr. XIV-632, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24225
+ 
+
+
+
+
+41. Jeigu šio Kodekso 303 straipsnio 2 dalies 1 punkte nurodytą su geležinkelių transportu susijusią papildomą paslaugą teikia geležinkelių paslaugų įrenginio operatorius, kuris yra ir viešosios geležinkelių infrastruktūros valdytojas, užmokestis už šią paslaugą negali būti mažesnis už šios paslaugos teikimo išlaidas.
+Papildyta straipsnio dalimi:
+Nr. XIV-632, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24225
  
 
 
