@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b4c4374095ec11ea9515f752ff221ec9"
 
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2021-11-13 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-10-14
  
 Įstatymas paskelbtas: TAR 2020-05-14, i. k. 2020-10395
  
@@ -28,6 +28,9 @@ ELEKTROS ENERGETIKOS ĮSTATYMO NR. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44
 Vilnius
  
  
+
+ 
+
  
  
 
@@ -401,82 +404,10 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 
 
 
-11 straipsnis. 44 straipsnio pakeitimas
-
-
-Pakeisti 44 straipsnį ir jį išdėstyti taip:
-
-
-
-
-„44 straipsnis. Elektros energijos garantinis tiekimas
-
-
-1. Vartotojams, nepasirinkusiems nepriklausomo elektros energijos tiekėjo ar kai jų pasirinktas nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su vartotojais sąlygomis, nutraukia veiklą arba elektros energijos pirkimo–pardavimo sutartį, užtikrinamas garantinis tiekimas šiame straipsnyje nustatyta tvarka ir sąlygomis.
-
-
-
-
-2. Garantinis elektros energijos tiekėjas garantinį tiekimą atlieka laikydamasis šių sąlygų:
-
-
-1) garantinis tiekimas vartotojui užtikrinamas, kai vartotojas, ne vėliau kaip prieš 3 savaites iki nepriklausomo tiekėjo nutraukiamos veiklos arba su vartotoju sudarytos elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties nutraukimo gavęs nepriklausomo tiekėjo rašytinį ar elektroninių ryšių priemonėmis pateiktą įspėjimą, per 2 savaites nuo šio pranešimo gavimo dienos nepasirenka kito nepriklausomo tiekėjo ar paaiškėja šio straipsnio 3 dalyje nurodytos aplinkybės – tokiais atvejais vartotojų su nepriklausomu tiekėju sudaryta elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartis laikoma nutraukta. Garantinis tiekimas vartotojams užtikrinamas persiuntimo paslaugos teikimo sutarties su skirstomųjų tinklų operatoriumi pagrindu. Vartotojams, kurie tokios sutarties nėra sudarę, garantinis elektros energijos tiekimas užtikrinamas pagal garantinio elektros energijos tiekėjo viešai skelbiamas garantinio elektros energijos tiekimo užtikrinimo ir persiuntimo paslaugos teikimo sąlygas, kurios rengiamos Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka. Vartotojui, kuriam užtikrinamas garantinis tiekimas, nusprendusiam sudaryti elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju, garantinis tiekimas nutraukiamas ne vėliau kaip per 3 savaites nuo nepriklausomo tiekėjo pranešimo garantiniam elektros energijos tiekėjui pateikimo dienos. Garantinio tiekimo trukmė – ne ilgiau kaip 6 mėnesiai, išskyrus pažeidžiamus vartotojus. Jeigu per 6 mėnesius vartotojas, išskyrus pažeidžiamus vartotojus, nepasirenka naujo nepriklausomo tiekėjo, garantinis elektros energijos tiekėjas įgyja teisę nutraukti elektros energijos tiekimą vartotojui. Apie garantinio tiekimo nutraukimą garantinis elektros energijos tiekėjas įspėja vartotoją ne vėliau kaip prieš 3 savaites iki elektros energijos tiekimo nutraukimo dienos;
-
-
-
-
-2) jeigu vartotojas, kuriam buvo suteiktas garantinis tiekimas, garantinio tiekimo laikotarpiu pasirenka nepriklausomą tiekėją, vartotojas privalo sumokėti garantiniam elektros energijos tiekėjui už suvartotą elektros energiją pagal garantinio elektros energijos tiekėjo pateiktą mokėjimo dokumentą;
-
-
-
-
-3) vartotojams, kuriems užtikrinamas garantinis tiekimas, išskyrus pažeidžiamus vartotojus, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinei praėjusio ataskaitinio mėnesio elektros energijos biržos kainai, susiformavusiai Lietuvos kainų zonoje, pritaikius koeficientą 1,25. Garantinio tiekimo kaina pažeidžiamiems vartotojams apskaičiuojama kaip vidutinė praėjusio ataskaitinio mėnesio elektros energijos biržos kainos, susiformavusios Lietuvos kainų zonoje, ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainos, kurią nustato Taryba, suma. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir garantinio elektros energijos tiekėjo patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas garantinio elektros energijos tiekėjo sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 4 punkte nurodytą metodiką. Garantinio tiekimo kainą apskaičiuoja ir nustato garantinis elektros energijos tiekėjas bei paskelbia ją savo interneto svetainėje.
-
-
-
-
-
-
-3. Šio straipsnio 2 dalies 1 punkte nurodytas 3 savaičių nepriklausomo tiekėjo pranešimo terminas netaikomas ir garantinis tiekimas užtikrinamas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo bet kurios iš šių aplinkybių atsiradimo:
-
-
-1) vartotojo pasirinktas nepriklausomas tiekėjas pažeidžia reguliuojamos veiklos sąlygas ir Taryba sustabdo ar panaikina elektros energijos tiekimo veiklos leidimo galiojimą;
-
-
-
-
-2) balansavimo energijos tiekėjas ar perdavimo sistemos operatorius nutraukia balansavimo energijos pirkimo–pardavimo sutartį su nepriklausomu tiekėju ir nėra balansavimo energijos pirkimo–pardavimo sutarties su kitu balansavimo tiekėju;
-
-
-
-
-3) nepriklausomam tiekėjui yra iškelta bankroto byla arba kreditorių susirinkime priimtas nutarimas vykdyti bankroto procedūras ne teismo tvarka;
-
-
-
-
-4) kitais tiesiogiai nuo nepriklausomo tiekėjo veiksmų nepriklausančiais atvejais, dėl kurių nepriklausomas tiekėjas nebegali vykdyti prisiimtų įsipareigojimų tiekti elektros energiją vartotojams (force majeure).
-
-
-
-
-
-
-4. Nepriklausomas tiekėjas privalo nedelsdamas, ne vėliau kaip per vieną darbo dieną nuo šio straipsnio 3 dalyje nustatytų aplinkybių atsiradimo, savo vartotojams ir atitinkamam tinklų operatoriui pranešti apie garantinio tiekimo pradžią ir pagrindą, o vartotojams – ir apie asmenį, vykdysiantį garantinio tiekimo funkciją, ir jo kontaktinius duomenis. Vartotojai, kurių suvartotos elektros energijos apskaitos prietaisų rodmenys nėra nuskaitomi nuotoliniu būdu, nedelsdami, ne vėliau kaip per 3 darbo dienas nuo garantinio tiekimo pradžios, jeigu apie tai jie buvo tinkamai informuoti, privalo užfiksuoti faktinius elektros energijos apskaitos prietaiso rodmenis ir juos pranešti tinklų operatoriui. Jeigu nepriklausomi tiekėjai ar vartotojai neįvykdo ar tinkamai neįvykdo šioje dalyje nustatytų pareigų, garantinio tiekimo metu tiekiamos elektros energijos kiekis nustatomas Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka.
-
-
-
-
-5. Vartotojai, kuriems šiame straipsnyje nustatyta tvarka ir sąlygomis užtikrinamas garantinis tiekimas, atsiskaito su asmeniu, atliekančiu garantinio tiekimo funkciją, už garantinį tiekimą, taip pat su tinklų operatoriais, kaip nurodyta šio įstatymo 40 straipsnio 1 dalyje ir 46 straipsnio 5 dalyje, už elektros energijos persiuntimą perdavimo ir (ar) skirstomaisiais tinklais, sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas.“
+11 straipsnis. Neteko galios nuo 2022-01-01
+Straipsnio naikinimas:
+Nr. XIV-631, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24223
  
-
-
-
-
-
-
-
-
 
 
 
@@ -833,7 +764,10 @@ Pakeisti 67 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-4. Šio įstatymo 11 straipsnis įsigalioja 2023 m. sausio 1 d.
+4. Neteko galios nuo 2022-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-631, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24223
+ 
 
 
 
@@ -894,3 +828,11 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-605, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23527
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymo Nr. XIII-2900 22 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-631, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24223
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymo Nr. XIII-2900 22 straipsnio pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+ 
+part_1b47dc03b3184ce29e03ac987dada6ce_end
