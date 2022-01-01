@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -175,7 +175,10 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 
 
 
-3) teisę į naują ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką įgyja be pertraukos kitą dieną po ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo pabaigos, o ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas anksčiau paskirtai ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokai gauti yra sumokėję šio straipsnio 1 ar 2 punkte nustatyta tvarka. 
+3) teisę į naują ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką įgyja be pertraukos kitą dieną po ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo pabaigos, o ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas anksčiau paskirtai ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokai gauti yra sumokėję šios dalies 1 ar 2 punkte nustatyta tvarka.
+Straipsnio punkto pakeitimai:
+Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -781,10 +784,11 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-6. Savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti ligos išmoką, ši išmoka mokama neatsižvelgiant į pajamas, gautas vykdant jų, kaip Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų savarankiškai dirbančių asmenų, veiklą. Mokant ligos išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas. 
+6. Tik savarankiškai dirbantiems asmenims, nurodytiems Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje, įgijusiems teisę gauti ligos išmoką, ši išmoka mokama neatsižvelgiant į pajamas, gautas vykdant jų, kaip Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje nurodytų savarankiškai dirbančių asmenų, veiklą. Turintiems darbo ar tarnybos santykius su darbdaviu (darbdaviais) ir vykdantiems savarankišką veiklą apdraustiesiems asmenims, įgijusiems teisę gauti ligos išmoką, ši išmoka mokama, jeigu šie asmenys laikinojo nedarbingumo metu nedirbo ir nevykdė veiklos kaip asmenys, nurodyti Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalyje. Mokant ligos išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas, o jeigu meno kūrėjo statusą turintis asmuo gauna nedarbo socialinio draudimo išmoką, jam ligos išmoka pagal šį įstatymą nemokama.
 Straipsnio dalies pakeitimai:
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
 Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
+Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
  
 
 
@@ -1448,7 +1452,10 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO LĖŠOS LIGOS SOCIALINIAM DRAUDIMUI IR MOT
 
 
 
-2. Ligos socialinio draudimo ir motinystės socialinio draudimo pajamas sudaro šiai draudimo rūšiai draudėjų ir apdraustųjų asmenų mokamos privalomosios valstybinio socialinio draudimo įmokos, delspinigiai ir baudos. Ligos socialinio draudimo ir motinystės socialinio draudimo pajamų dalį gali sudaryti lėšos, skirtos iš Valstybinio socialinio draudimo rezervinio fondo Vyriausybės tvirtinamuose Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatuose nustatyta tvarka.
+2. Ligos socialinio draudimo ir motinystės socialinio draudimo pajamas sudaro šiai draudimo rūšiai draudėjų ir apdraustųjų asmenų mokamos privalomosios valstybinio socialinio draudimo įmokos, delspinigiai, palūkanos ir baudos. Ligos socialinio draudimo ir motinystės socialinio draudimo pajamų dalį gali sudaryti valstybės biudžeto lėšos ir lėšos, skirtos iš Valstybinio socialinio draudimo rezervinio fondo Vyriausybės tvirtinamuose Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+ 
 
 
 
@@ -1901,3 +1908,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 11-1, 14, 18, 21, 24, 33 straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 6, 8, 9, 10, 11, 11-1, 14, 16, 22, 23 ir 30 straipsnių pakeitimo įstatymas
