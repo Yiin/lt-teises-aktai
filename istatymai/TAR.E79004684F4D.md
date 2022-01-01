@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-10-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 59-1462, i. k. 0951010ISTA000I-976
  
@@ -219,77 +219,82 @@ Nr. XI-1910, 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
 1. Zonoje įmonėms draudžiamos šios kapitalo investavimo ir veiklos sritys:
 
 
-1) ūkinė komercinė veikla, susijusi su valstybės saugumo ir gynybos užtikrinimu, taip pat ginklų, šaudmenų, sprogmenų gamyba, laikymu ar pardavimu, kenksmingu poveikiu aplinkai; 
+1) ūkinė komercinė veikla, susijusi su valstybės saugumo ir gynybos užtikrinimu, taip pat ginklų, šaudmenų, sprogmenų gamyba, laikymu ar pardavimu;
 
 
 
 
-2) pavojingų ir radioaktyviųjų medžiagų gamyba, perdirbimas, laikymas, nukenksminimas; 
+2) cheminių medžiagų, įrašytų į autorizuotinų cheminių medžiagų sąrašą, nurodytą 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su paskutiniais pakeitimais, padarytais 2021 m. rugpjūčio 4 d. Komisijos reglamentu (ES) 2021/1297, (toliau – Reglamentas (EB) Nr. 1907/2006) XIV priede, ar į kandidatinį labai didelį susirūpinimą keliančių cheminių medžiagų autorizacijos sąrašą pagal Reglamento (EB) Nr. 1907/2006 59 straipsnį, gamyba ir laikymas, išskyrus atvejus, kai šias medžiagas laiko įmonės, naudojančios jas savo gaminių gamyboje;
 
 
 
 
-3) aplinkai pavojingų medžiagų gamyba, deginimas;
+3) pavojingųjų atliekų tvarkymas, išskyrus pavojingųjų atliekų paruošimą naudoti ir perdirbimą, mokslinę ir techninę pažangą atitinkančiomis technologijomis ir (ar) geriausiais prieinamais gamybos būdais (GPGB), taip pat nepavojingųjų ir pavojingųjų atliekų šalinimas;
 
 
 
 
-4) narkotikų, narkotinių, stipriai veikiančių ir nuodingųjų medžiagų, išskyrus vaistinius preparatus, kurių sudėtyje yra narkotinių ir (ar) psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamus kontroliuojamų narkotinių ir psichotropinių medžiagų sąrašus, gamyba, pardavimas ir laikymas; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
+4) radioaktyviųjų medžiagų gamyba ir naudojimas, radioaktyviųjų atliekų tvarkymas;
+
+
+
+
+5) narkotikų, narkotinių, stipriai veikiančių ir nuodingųjų medžiagų, išskyrus vaistinius preparatus, kurių sudėtyje yra narkotinių ir (ar) psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamus kontroliuojamų narkotinių ir psichotropinių medžiagų sąrašus, gamyba, pardavimas ir laikymas;
+
+
+
+
+6) kultūrų, kuriose yra narkotinių, stipriai veikiančių ir nuodingųjų medžiagų, perdirbimas, pardavimas ir laikymas;
+
+
+
+
+7) degtinės, likerio ir kitų spiritinių gėrimų gamyba;
+
+
+
+
+8) tabako gaminių gamyba;
+
+
+
+
+9) vertybinių popierių, piniginių ženklų ir monetų, pašto ženklų gamyba;
+
+
+
+
+10) lošimo namų (kazino) steigimas ir laikymas;
+
+
+
+
+11) loterijų organizavimas;
+
+
+
+
+12) radijo ir televizijos laidų rengimas ir transliavimas, išskyrus spaustuvių, radijo ir televizijos techninį aptarnavimą;
+
+
+
+
+13) ligonių, sergančių pavojingomis ir ypač pavojingomis infekcinėmis, tarp jų ir venerinėmis bei užkrečiamosiomis odos ligomis, agresyvios formos psichinėmis ligomis, gydymas;
+
+
+
+
+14) gyvulių, sergančių ypač pavojingomis ligomis, gydymas;
+
+
+
+
+15) darbo migracijos klausimų tvarkymas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-835, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27727
  
-
-
-
-
-5) kultūrų, kuriose yra narkotinių, stipriai veikiančių ir nuodingųjų medžiagų, perdirbimas, pardavimas ir laikymas; 
-
-
-
-
-6) degtinės, likerio ir kitų spiritinių gėrimų gamyba;
-
-
-
-
-7) tabako gaminių gamyba;
-
-
-
-
-8) vertybinių popierių, piniginių ženklų ir monetų, pašto ženklų gamyba;
-
-
-
-
-9) lošimo namų (kazino) steigimas ir laikymas;
-
-
-
-
-10) loterijų organizavimas;
-
-
-
-
-11) radijo ir televizijos laidų rengimas ir transliavimas, išskyrus spaustuvių, radijo ir televizijos techninį aptarnavimą; 
-
-
-
-
-12) ligonių, sergančių pavojingomis ir ypač pavojingomis infekcinėmis, tarp jų ir venerinėmis bei užkrečiamosiomis odos ligomis, agresyvios formos psichinėmis ligomis, gydymas; 
-
-
-
-
-13) gyvulių, sergančių ypač pavojingomis ligomis, gydymas;
-
-
-
-
-14) darbo migracijos klausimų tvarkymas.
-
-
 
 
 
@@ -1186,3 +1191,8 @@ Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2286, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12175
 Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 21 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-835, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27727
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 8 straipsnio pakeitimo įstatymas
