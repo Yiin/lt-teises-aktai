@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2021-12-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-23
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -1512,9 +1512,28 @@ BENDROSIOS TAISYKLĖS
 
 
 
-2) vykdant pirkimo sutartis būtų laikomasi aplinkos apsaugos, socialinės ir darbo teisės įpareigojimų, nustatytų Europos Sąjungos, nacionalinėje teisėje, kolektyvinėse sutartyse ir šio įstatymo 7 priede nurodytose tarptautinėse konvencijose. 
+2) vykdant pirkimo sutartis būtų laikomasi aplinkos apsaugos, socialinės ir darbo teisės įpareigojimų, nustatytų Europos Sąjungos, nacionalinėje teisėje, kolektyvinėse sutartyse ir šio įstatymo 7 priede nurodytose tarptautinėse konvencijose;
 
 
+
+
+3) įsigyjant prekes, paslaugas ar darbus būtų skatinama inovatyvių produktų pasiūla ir užtikrinama, kad Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais būtų pasiekti inovatyvių viešųjų pirkimų rodikliai;
+
+
+
+
+4) įsigyjant prekes, paslaugas ar darbus būtų daroma kuo mažesnė įtaka klimato kaitai, aplinkos taršai, atliekų susidarymui, gamtos išteklių naudojimui, ekosistemų ir jų paslaugų būklei ir (ar) kitam neigiamam poveikiui aplinkai ir užtikrinama, kad įstatymuose įtvirtintais, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka būtų taikomi atsinaujinančių išteklių ir (ar) energijos naudojimo, energijos vartojimo efektyvumo ir aplinkos apsaugos reikalavimai ir (ar) kriterijai;
+
+
+
+
+5) įsigyjant prekes, paslaugas ar darbus būtų prisidedama prie socialinių klausimų, pavyzdžiui, remiamų asmenų įdarbinimo, sąžiningo darbo užmokesčio mokėjimo, lyčių lygių galimybių ir nediskriminavimo kitais pagrindais principų įgyvendinimo, psichologinio smurto darbo aplinkoje prevencijos ir pagalbos asmenims, patyrusiems tokį smurtą, priemonių įgyvendinimo klausimų, sprendimo ir užtikrinama, kad Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais būtų taikomi socialiniai reikalavimai ir (arba) kriterijai.
+TAR pastaba. 2 dalies 5 punktas įsigalioja 2023-01-01. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
+ 
 
 
 
@@ -1934,20 +1953,29 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 37 straipsnis. Tarptautinio pirkimo, supaprastinto pirkimo ir mažos vertės pirkimo atlikimas
 
 
-1. Tarptautinį ar supaprastintą pirkimą perkantysis subjektas atlieka šiame įstatyme nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
+1. Tarptautinį ar supaprastintą pirkimą perkantysis subjektas atlieka šiame įstatyme nustatyta tvarka, išskyrus šio straipsnio 2 ir 4 dalyse nurodytus atvejus.
 
 
 
 
 2. Atliekant mažos vertės pirkimus taikomos šio įstatymo I skyriaus, 44, 47 straipsnių, 68 straipsnio 1 dalies, 90 straipsnio, 94 straipsnio 5, 6, 7 ir 9 dalių, 99 straipsnio, VI ir VII skyriaus nuostatos ir perkančiojo subjekto patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu mažos vertės neskelbiamas pirkimas atliekamas šio įstatymo 79 straipsnio 1 dalies 3 punkte, 3 dalies 1, 2 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis ar į mažos vertės neskelbiamą pirkimą kviečiamas tik vienas tiekėjas, šio įstatymo 34 straipsnio reikalavimų, išskyrus 34 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Be to, gali būti nesilaikoma šio įstatymo 90 straipsnio reikalavimų, jeigu atliekamas mažos vertės neskelbiamas pirkimas, kurio numatoma pirkimo sutarties vertė yra mažesnė kaip 10 000 Eur (dešimt tūkstančių eurų) be pridėtinės vertės mokesčio.
+2 dalies redakcija nuo 2023-01-01:
+2. Atliekant mažos vertės pirkimus taikomos šio įstatymo I skyriaus, 44, 47 straipsnių, 68 straipsnio 1 dalies, 90 straipsnio, 94 straipsnio 5, 6, 7 ir 9 dalių, 99 straipsnio, VI ir VII skyrių nuostatos ir perkančiojo subjekto patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu mažos vertės neskelbiamas pirkimas atliekamas šio įstatymo 79 straipsnio 1 dalies 3 punkte, 3 dalies 1, 2 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis ar į mažos vertės neskelbiamą pirkimą kviečiamas tik vienas tiekėjas, šio įstatymo 34 straipsnyje nustatytų reikalavimų, išskyrus 34 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Be to, gali būti nesilaikoma šio įstatymo 90 straipsnyje nustatytų reikalavimų, jeigu atliekamas mažos vertės neskelbiamas pirkimas, kurio numatoma pirkimo sutarties vertė yra mažesnė kaip 15 000 Eur (penkiolika tūkstančių eurų) be pridėtinės vertės mokesčio.
 
 
 
 
-3. Mažos vertės pirkimai atliekami pagal perkančiojo subjekto, vadovaujantis šiuo įstatymu, patvirtintas taisykles. Šias taisykles perkantysis subjektas ne vėliau kaip per 3 darbo dienas nuo jų patvirtinimo paskelbia Centrinėje viešųjų pirkimų informacinėje sistemoje ir perkančiojo subjekto interneto svetainėje, specialiai tam skirtoje skiltyje (toliau – pirkėjo profilis), jeigu perkantysis subjektas turi savo interneto svetainę.
+3. Mažos vertės pirkimai atliekami pagal perkančiojo subjekto vadovaujantis šiuo įstatymu patvirtintas taisykles. Šias taisykles perkantysis subjektas ne vėliau kaip per 3 darbo dienas nuo jų patvirtinimo paskelbia Centrinėje viešųjų pirkimų informacinėje sistemoje ir perkančiojo subjekto interneto svetainėje, specialiai tam skirtoje skiltyje (toliau – pirkėjo profilis), jeigu perkantysis subjektas turi savo interneto svetainę.
+
+
+
+
+4. Perkantiesiems subjektams, kurių per einamuosius finansinius metus prekėms, paslaugoms ir darbams įsigyti sudaromų sutarčių bendra vertė neviršija 30 000 Eur (trisdešimt tūkstančių eurų) (be pridėtinės vertės mokesčio), atliekant šiuos pirkimus, šio įstatymo reikalavimai, išskyrus šio įstatymo 29 ir 102 straipsnius, netaikomi. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
-
-
 
 
 
@@ -1988,9 +2016,10 @@ PIRKIMO PLANAVIMAS IR PASIRENGIMAS PIRKIMUI
 1. Perkantysis subjektas, siekdamas pasirengti pirkimui ir pranešti tiekėjams apie savo pirkimų planus ir reikalavimus, gali:
 
 
-1) prašyti suteikti ir gauti nepriklausomų ekspertų, institucijų arba rinkos dalyvių konsultacijas, taip pat konsultuotis su visuomene. Šiomis konsultacijomis remiamasi pirkimo metu, jeigu dėl tokių konsultacijų nėra iškreipiama konkurencija ir pažeidžiami nediskriminavimo ir skaidrumo principai. Perkančiajam subjektui nusprendus paskelbti kvietimą suteikti šiame punkte nurodytas konsultacijas, šis kvietimas turi būti skelbiamas Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka; 
+1) prašyti suteikti ir gauti nepriklausomų ekspertų, institucijų arba rinkos dalyvių konsultacijas, taip pat konsultuotis su visuomene. Šiomis konsultacijomis remiamasi pirkimo metu, jeigu dėl tokių konsultacijų nėra iškreipiama konkurencija ir pažeidžiami nediskriminavimo ir skaidrumo principai. Perkančiojo subjekto kvietimas suteikti konsultaciją ir kita susijusi informacija apie konsultacijas turi būti skelbiami Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka. Rinkos dalyvių konsultacijos yra privalomos pirkimo, apie kurį turi būti skelbiama, atveju, jeigu per paskutinius 12 mėnesių atliekant paskutinį tokių pačių ar panašių prekių, paslaugų ar darbų pirkimą, apie kurį buvo privaloma skelbti, nebuvo gauta nė viena arba gauta tik viena tinkama paraiška ar pasiūlymas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
 
 
@@ -2728,6 +2757,13 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 7. Jeigu perkantysis subjektas rengia susitikimą su tiekėjais dėl pirkimo dokumentų, jis surašo šio susitikimo protokolą. Protokole fiksuojami visi šio susitikimo metu pateikti klausimai dėl pirkimo dokumentų ir atsakymai į juos. Informacija apie planuojamą susitikimą su tiekėjais ir po susitikimo parengtas protokolo išrašas paskelbiami Centrinėje viešųjų pirkimų informacinėje sistemoje. 
+
+
+
+
+8. Perkantysis subjektas, gavęs tiekėjo prašymą, pateikia prekių, paslaugų ar darbų technines specifikacijas, kurias jis reguliariai nurodo pirkimo sutartyse, arba technines specifikacijas, jeigu dalyvauti pirkime kviečiama reguliariu orientaciniu skelbimu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
 
 
@@ -3324,40 +3360,42 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 63 straipsnis. Informacijos nuslėpimas ar melagingos informacijos pateikimas arba dokumentų nepateikimas
 
 
-1. Perkantysis subjektas ne vėliau kaip per 10 dienų Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia informaciją apie tiekėją, kuris pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėją, kuris dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal mutatis mutandis taikomo Viešųjų pirkimų įstatymo 50 straipsnį, kai:
+1. Perkantysis subjektas Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia šią informaciją apie tiekėją (tiekėjų grupės atveju – apie visus grupės narius), kuris pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėją, kuris dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal mutatis mutandis taikomo Viešųjų pirkimų įstatymo 50 straipsnį:
 
 
-1) jis buvo pašalintas iš pirkimo procedūros;
-
-
-
-
-2) priimtas teismo sprendimas.
+1) tiekėjo pavadinimas (jeigu tiekėjas yra fizinis asmuo, – vardas ir pavardė), perkančiojo subjekto sprendimo pašalinti tiekėją pagal mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 straipsnio 4 dalies 4 punktą iš pirkimo procedūros priėmimo data ir priežastys, dėl kurių priimtas šis sprendimas;
 
 
 
 
-
-
-2. Mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 straipsnio 4 dalies 4 punkte ir šio straipsnio 1 dalyje nurodytas terminas skaičiuojamas:
-
-
-1) jeigu tiekėjas neteikė pretenzijos ar nesikreipė į teismą, ginčydamas perkančiojo subjekto sprendimą dėl jo pašalinimo iš pirkimo procedūros, – nuo šio įstatymo 108 straipsnio 1 dalies 1 punkte nurodyto termino pabaigos;
+2) tiekėjo kreipimosi į teismą, kuriuo ginčijamas perkančiojo subjekto sprendimas pašalinti tiekėją iš pirkimo procedūros, data;
 
 
 
 
-2) jeigu tiekėjas kreipėsi į teismą, ginčydamas perkančiojo subjekto sprendimą dėl jo pašalinimo iš pirkimo procedūros, – nuo teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, įsiteisėjimo dienos.
+3) galutinio teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, kuriuo ginčijamas perkančiojo subjekto sprendimas dėl jo pašalinimo iš pirkimo procedūros, įsiteisėjimo data ir nuoroda į šį sprendimą.
 
 
 
 
 
 
-3. Perkantysis subjektas, Centrinėje viešųjų pirkimų informacinėje sistemoje paskelbęs šio straipsnio 1 dalyje nurodytą informaciją, ne vėliau kaip per 3 darbo dienas apie tai informuoja tiekėją.
+2. Perkantysis subjektas šio straipsnio 1 dalyje nurodytą informaciją paskelbia nedelsdamas, bet ne anksčiau kaip tiekėjo informavimo pagal šio straipsnio 3 dalį dieną ir ne vėliau kaip per 10 dienų nuo šio straipsnio 1 dalies 1–3 punktuose nurodytų įvykių dienos. Jeigu šio straipsnio 1 dalies 2 punkte nurodytas tiekėjo reikalavimas galutiniu teismo sprendimu yra patenkinamas, perkantysis subjektas nedelsdamas, bet ne vėliau kaip per 10 dienų nuo teismo sprendimo įsiteisėjimo dienos, pašalina šio straipsnio 1 dalyje nurodytą informaciją apie tiekėją.
+
+
+
+
+3. Perkantysis subjektas nedelsdamas, bet ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 1 dalies 1–3 punktuose nurodytų įvykių dienos, informuoja tiekėją apie tai, kad bus paskelbta šio straipsnio 1 dalyje nurodyta informacija. Tiekėjas turi teisę Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka pateikti šio straipsnio 1 dalies 1 punkte nurodytos informacijos paaiškinimą. 
+
+
+
+
+4. Šiame straipsnyje nurodytos informacijos paskelbimo tikslas – informuoti perkančiąsias organizacijas, perkančiuosius subjektus ar suteikiančiąsias institucijas apie galimą tiekėjo pašalinimo iš pirkimo procedūros ar dalyvio pašalinimo iš koncesijos suteikimo procedūros pagrindą. Viešųjų pirkimų tarnyba, atlikdama šio įstatymo 101 straipsnio 1 dalies 10 punkte nustatytą funkciją, užtikrina, kad šiame straipsnyje nustatyta informacija būtų skelbiama ne ilgiau kaip vienus metus nuo perkančiojo subjekto sprendimo pašalinti tiekėją pagal mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 straipsnio 4 dalies 4 punkto nuostatas iš pirkimo procedūros priėmimo dienos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
-
-
 
 
 
@@ -3535,9 +3573,10 @@ d) gyvavimo ciklo pabaigos išlaidas, pavyzdžiui, atliekų surinkimo, perdirbim
 66 straipsnis. Neįprastai maža pasiūlyta kaina 
 
 
-1. Perkantysis subjektas reikalauja, kad dalyvis pagrįstų pasiūlyme nurodytą prekių, paslaugų, darbų ar jų sudedamųjų dalių kainą arba sąnaudas, jeigu jos atrodo neįprastai mažos. Pasiūlyme nurodyta prekių, paslaugų ar darbų kaina arba sąnaudos visais atvejais turi būti laikomos neįprastai mažomis, jeigu jos yra 30 ir daugiau procentų mažesnės už visų tiekėjų, kurių pasiūlymai neatmesti dėl kitų priežasčių ir kurių pasiūlyta kaina neviršija pirkimui skirtų lėšų, nustatytų ir užfiksuotų perkančiojo subjekto rengiamuose dokumentuose prieš pradedant pirkimo procedūrą, pasiūlytų kainų arba sąnaudų aritmetinį vidurkį. 
+1. Perkantysis subjektas reikalauja, kad dalyvis (supaprastinto pirkimo atveju – ekonomiškai naudingiausią pasiūlymą pateikęs tiekėjas) pagrįstų pasiūlyme nurodytą prekių, paslaugų, darbų ar jų sudedamųjų dalių kainą arba sąnaudas, jeigu jos atrodo neįprastai mažos. Pasiūlyme nurodyta prekių, paslaugų ar darbų kaina arba sąnaudos visais atvejais turi būti laikomos neįprastai mažomis, jeigu jos yra 30 ir daugiau procentų mažesnės už visų tiekėjų, kurių pasiūlymai neatmesti dėl kitų priežasčių ir kurių pasiūlyta kaina neviršija pirkimui skirtų lėšų, nustatytų ir užfiksuotų perkančiojo subjekto rengiamuose dokumentuose prieš pradedant pirkimo procedūrą, pasiūlytų kainų arba sąnaudų aritmetinį vidurkį. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
 
 
@@ -5423,7 +5462,10 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė yra mažesnė kaip 3 000 Eur (trys tūkstančiai eurų) (be pridėtinės vertės mokesčio).
+7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 5 000 Eur (penkių tūkstančių eurų) (be pridėtinės vertės mokesčio). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
+ 
 
 
 
@@ -5448,9 +5490,10 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-9. Perkantysis subjektas laimėjusio dalyvio pasiūlymą, sudarytą pirkimo sutartį, preliminariąją sutartį ir šių sutarčių pakeitimus, išskyrus informaciją, kurios atskleidimas prieštarautų informacijos ir duomenų apsaugą reguliuojantiems teisės aktams arba visuomenės interesams, pažeistų teisėtus konkretaus tiekėjo komercinius interesus arba turėtų neigiamą poveikį tiekėjų konkurencijai, ne vėliau kaip per 15 dienų nuo pirkimo sutarties ar preliminariosios sutarties sudarymo ar jų pakeitimo, bet ne vėliau kaip iki pirmojo mokėjimo pagal jas pradžios Viešųjų pirkimų tarnybos nustatyta tvarka turi paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje. Šis reikalavimas netaikomas laimėjusio dalyvio pasiūlymui, kai pasiūlymas pateikiamas žodžiu, arba sudarytai pirkimo sutarčiai, kai pirkimo sutartis sudaroma žodžiu, pirkimams, kurie atlikti neskelbiamų derybų būdu (mažos vertės pirkimų atveju – neskelbiant apie pirkimą) esant šio įstatymo 79 straipsnio 1 dalies 3 punkto b ir c papunkčiuose ir 6 dalies 5, 6, 7 punktuose nustatytoms sąlygoms, jeigu jų metu laimėjusiu dalyviu nustatomas fizinis asmuo, ir esant šio įstatymo 79 straipsnio 1 dalies 3 punkto a papunktyje nustatytai sąlygai, taip pat laimėjusio dalyvio pasiūlymo, pirkimo sutarties ar preliminariosios sutarties dalims, kai nėra techninių galimybių tokiu būdu paskelbti informacijos. Tokiu atveju perkantysis subjektas turi sudaryti galimybę susipažinti su nepaskelbtomis laimėjusio dalyvio pasiūlymo, pirkimo sutarties ar preliminariosios sutarties dalimis. 
+9. Perkantysis subjektas raštu pateiktą laimėjusio dalyvio pasiūlymą (išskyrus atvejus, kai pirkimo sutartis sudaroma žodžiu), raštu sudarytą pirkimo sutartį, preliminariąją sutartį ir šių sutarčių pakeitimus, išskyrus informaciją, kurios atskleidimas prieštarautų informacijos ir duomenų apsaugą reguliuojantiems teisės aktams arba visuomenės interesams, pažeistų teisėtus konkretaus tiekėjo komercinius interesus arba turėtų neigiamą poveikį tiekėjų konkurencijai, ne vėliau kaip per 15 dienų nuo pirkimo sutarties ar preliminariosios sutarties sudarymo ar jų pakeitimo, bet ne vėliau kaip iki pirmojo mokėjimo pagal jas pradžios Viešųjų pirkimų tarnybos nustatyta tvarka turi paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje. Šis reikalavimas netaikomas pirkimams, kurie atlikti neskelbiamų derybų būdu (mažos vertės pirkimų atveju – neskelbiant apie pirkimą) esant šio įstatymo 79 straipsnio 1 dalies 3 punkto b ir c papunkčiuose ir 6 dalies 5, 6, 7 punktuose nustatytoms sąlygoms, jeigu jų metu laimėjusiu dalyviu nustatomas fizinis asmuo, ir esant šio įstatymo 79 straipsnio 1 dalies 3 punkto a papunktyje nustatytai sąlygai, taip pat laimėjusio dalyvio pasiūlymo, pirkimo sutarties ar preliminariosios sutarties dalims, kai nėra techninių galimybių tokiu būdu paskelbti informacijos. Tokiu atveju perkantysis subjektas turi sudaryti galimybę susipažinti su nepaskelbtomis laimėjusio dalyvio pasiūlymo, pirkimo sutarties ar preliminariosios sutarties dalimis. Informacija apie žodžiu sudarytas pirkimų sutartis skelbiama Viešųjų pirkimų tarnybos nustatyta tvarka. Šioje dalyje nurodytas perkančiojo subjekto pareigas atlieka centrinė perkančioji organizacija, jeigu dėl šių pareigų atlikimo yra sudarytas perkančiojo subjekto ir centrinės perkančiosios organizacijos susitarimas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
 
 
@@ -5776,57 +5819,50 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-99 straipsnis. Pirkimo sutarties neįvykdymas ar netinkamas įvykdymas 
+99 straipsnis. Pirkimo sutarties neįvykdymas ar netinkamas įvykdymas
 
 
-1. Perkantysis subjektas ne vėliau kaip per 10 dienų Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus (tiekėjų grupės atveju – visus grupės narius), taip pat apie ūkio subjektus, kurių pajėgumais rėmėsi tiekėjas ir kurie su tiekėju prisiėmė solidarią atsakomybę už pirkimo sutarties įvykdymą pagal šio įstatymo 62 straipsnio 5 dalį, jeigu pažeidimas įvykdytas dėl tos pirkimo sutarties dalies, kuriai jie buvo pasitelkti, kai:
+1. Perkantysis subjektas Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia šią informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus (tiekėjų grupės atveju – visus grupės narius), taip pat apie ūkio subjektus, kurių pajėgumais rėmėsi tiekėjas ir kurie su tiekėju prisiėmė solidarią atsakomybę už pirkimo sutarties įvykdymą pagal šio įstatymo 62 straipsnio 5 dalį, jeigu pažeidimas įvykdytas dėl tos pirkimo sutarties dalies, kuriai jie buvo pasitelkti:
 
 
-1) sutartis nutraukta dėl esminio pirkimo sutarties pažeidimo, kaip nustatyta Civiliniame kodekse (toliau – esminis pirkimo sutarties pažeidimas), arba priimtas perkančiojo subjekto sprendimas, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė sutartyje nustatytą sankciją; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+1) tiekėjo pavadinimas (jeigu tiekėjas yra fizinis asmuo, – vardas ir pavardė), perkančiojo subjekto sprendimo nutraukti pirkimo sutartį dėl esminio pirkimo sutarties pažeidimo, kaip nustatyta Civilinio kodekso 6.217 straipsnyje (toliau – esminis pirkimo sutarties pažeidimas), arba perkančiojo subjekto sprendimo, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė pirkimo sutartyje nustatytą sankciją, priėmimo data ir priežastys, dėl kurių priimtas šis sprendimas; 
+
+
+
+
+2) tiekėjo kreipimosi į teismą, kuriuo ginčijamas perkančiojo subjekto sprendimas nutraukti pirkimo sutartį dėl esminio pirkimo sutarties pažeidimo ar sprendimas, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė pirkimo sutartyje nustatytą sankciją, data;
+
+
+
+
+3) galutinio teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, kuriuo  ginčijamas pirkimo sutarties nutraukimas dėl esminio pirkimo sutarties pažeidimo ar perkančiojo subjekto sprendimas, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė pirkimo sutartyje nustatytą sankciją, įsiteisėjimo data ir nuoroda į šį sprendimą;
+
+
+
+
+4) teismo sprendimo, kuriuo tenkinamas perkančiojo subjekto reikalavimas atlyginti nuostolius, patirtus dėl to, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais, įsiteisėjimo data.
+
+
+
+
+
+
+2. Perkantysis subjektas šio straipsnio 1 dalyje nurodytą informaciją paskelbia nedelsdamas, bet ne anksčiau, negu tiekėjui pateikė informaciją pagal šio straipsnio 3 dalį, ir ne vėliau kaip per 10 dienų nuo šio straipsnio 1 dalies 1–4 punktuose nurodytų įvykių dienos. Jeigu šio straipsnio 1 dalies 2 punkte nurodytas tiekėjo reikalavimas galutiniu teismo sprendimu yra patenkinamas, perkantysis subjektas nedelsdamas, bet ne vėliau kaip per 10 dienų nuo teismo sprendimo įsiteisėjimo dienos, pašalina šio straipsnio 1 dalyje nurodytą informaciją apie tiekėją.
+
+
+
+
+3. Perkantysis subjektas nedelsdamas, bet ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 1 dalies 1–4 punktuose nurodytų įvykių dienos, informuoja tiekėją apie tai, kad bus paskelbta šio straipsnio 1 dalyje nurodyta informacija. Tiekėjas turi teisę Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka pateikti šio straipsnio 1 dalies 1 punkte nurodytos informacijos paaiškinimą. 
+
+
+
+
+4. Šiame straipsnyje nurodytos informacijos paskelbimo tikslas – informuoti perkančiąsias organizacijas, perkančiuosius subjektus ar suteikiančiąsias institucijas apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus. Viešųjų pirkimų tarnyba, atlikdama šio įstatymo 101 straipsnio 1 dalies 10 punkte nustatytą funkciją, užtikrina, kad šiame straipsnyje nustatyta informacija būtų skelbiama ne ilgiau kaip 3 metus nuo perkančiojo subjekto sprendimo nutraukti pirkimo sutartį dėl esminio pirkimo sutarties pažeidimo arba perkančiojo subjekto sprendimo, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė pirkimo sutartyje nustatytą sankciją, priėmimo dienos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
-
-
-
-
-2) priimtas teismo sprendimas, kuriuo tenkinamas perkančiojo subjekto reikalavimas atlyginti nuostolius, patirtus dėl to, kad tiekėjas sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais.
-
-
-
-
-
-
-2. Šio straipsnio 1 dalyje ir mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 straipsnio 4 dalies 6 punkte nurodytas terminas skaičiuojamas:
-
-
-1) jeigu tiekėjas nesikreipė į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo ar perkančiojo subjekto sprendimą, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė sutartyje nustatytą sankciją, – nuo šio įstatymo 108 straipsnio 4 dalyje nurodyto termino pabaigos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
- 
-
-
-
-
-2) jeigu tiekėjas kreipėsi į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo ar perkančiojo subjekto sprendimą, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė sutartyje nustatytą sankciją, – nuo teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, įsiteisėjimo dienos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
- 
-
-
-
-
-3) nuo teismo sprendimo, kuriuo tenkinamas perkančiojo subjekto reikalavimas atlyginti nuostolius, patirtus dėl to, kad tiekėjas sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais, įsiteisėjimo dienos. 
-
-
-
-
-
-
-3. Perkantysis subjektas, Centrinėje viešųjų pirkimų informacinėje sistemoje paskelbęs šio straipsnio 1 dalyje nurodytą informaciją, ne vėliau kaip per 3 darbo dienas apie tai informuoja tiekėją.
- 
-
-
 
 
 
@@ -5924,6 +5960,14 @@ Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
 
 
 
+41) nustato pirkimų specialisto žinių patikrinimo turinio reikalavimus ir juos skelbia savo interneto svetainėje; 
+Papildyta straipsnio punktu:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
+ 
+
+
+
+
 5) renka, kaupia ir analizuoja informaciją apie pirkimus, sudarytas pirkimų sutartis, preliminariąsias sutartis ir pirkimo sutarčių įvykdymo rezultatus, pirkimų ginčus, nustatytus pirkimų tvarkos pažeidimus ir pirkimų praktikoje pasitaikančias problemas. Šią informaciją, išskyrus konfidencialią, skelbia Viešųjų pirkimų tarnybos interneto svetainėje ir (arba) Centrinėje viešųjų pirkimų informacinėje sistemoje ir teikia Europos Komisijai, valstybės ir savivaldybių institucijoms ir įstaigoms; 
 
 
@@ -5949,7 +5993,10 @@ Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
 
 
 
-10) administruoja perkančiųjų subjektų pagal šio įstatymo 99 straipsnio 1 dalį paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus ir pagal šio įstatymo 63 straipsnio 2 dalį paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėjus, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal mutatis mutandis taikomo Viešųjų pirkimų įstatymo 50 straipsnį;
+10) administruoja perkančiųjų subjektų pagal šio įstatymo 99 straipsnio 1 dalį paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus ir pagal šio įstatymo 63 straipsnio 1 dalį paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėjus, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal mutatis mutandis taikomo Viešųjų pirkimų įstatymo 50 straipsnio nuostatas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
+ 
 
 
 
@@ -6062,7 +6109,7 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-102 straipsnis. Perkančiųjų subjektų registracija ir pirkimų ataskaitos 
+102 straipsnis. Perkančiųjų subjektų registracija ir pirkimų ataskaitos
 
 
 1. Perkantysis subjektas registruojasi Centrinėje viešųjų pirkimų informacinėje sistemoje pagal Viešųjų pirkimų tarnybos nustatytą tvarką.
@@ -6073,30 +6120,34 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 2. Perkantysis subjektas Centrinės viešųjų pirkimų informacinės sistemos priemonėmis Viešųjų pirkimų tarnybai pateikia:
 
 
-1) kiekvienų pirkimo procedūrų, įskaitant ir pirkimo procedūras, kurių metu sudaroma preliminarioji sutartis ar sudaroma pirkimo sutartis preliminariosios sutarties pagrindu, sukuriama dinaminė pirkimo sistema ar sudaroma pirkimo sutartis jos pagrindu, ataskaitą per 15 dienų pasibaigus pirkimo procedūroms, bet ne vėliau kaip iki pirmojo mokėjimo pagal sudarytą pirkimo sutartį pradžios. Ši ataskaita neteikiama, kai pirkimo sutartis sudaroma pagal šio įstatymo 80 straipsnio 2 dalį atlikus supaprastintą pirkimą, atliekant pirkimą pagal šio įstatymo 90 straipsnio 1 dalį ar mažos vertės pirkimą;
+1) kiekvienų šio įstatymo 37 straipsnio 1 dalyje nurodytų pirkimų procedūrų, įskaitant ir pirkimo procedūras, kurių metu sudaroma preliminarioji sutartis ar sudaroma pirkimo sutartis preliminariosios sutarties pagrindu, sukuriama dinaminė pirkimo sistema ar sudaroma pirkimo sutartis jos pagrindu, ataskaitą per 15 dienų pasibaigus pirkimo procedūroms, bet ne vėliau kaip iki pirmojo mokėjimo pagal sudarytą pirkimo sutartį pradžios. Ši ataskaita neteikiama, kai pirkimo sutartis sudaroma pagal šio įstatymo 80 straipsnio 2 dalį atlikus supaprastintą pirkimą;
 
 
 
 
-2) visų per kalendorinius metus sudarytų pirkimo sutarčių, kai sudarytos pirkimo sutarties nereikalaujama paskelbti pagal šio įstatymo 94 straipsnio 9 dalies nuostatas, ataskaitą per 30 dienų pasibaigus ataskaitiniams kalendoriniams metams. 
+2) visų per kalendorinius metus sudarytų pirkimo sutarčių, kai pirkimo sutartis sudaroma atliekant šio įstatymo 37 straipsnio 2 ir 4 dalyse nurodytus pirkimus, atliekant supaprastintą pirkimą pagal šio įstatymo 80 straipsnio 2 dalį, ataskaitą per 30 dienų pasibaigus ataskaitiniams kalendoriniams metams.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+
+
+
+
+3. Tuo atveju, kai pirkimai atliekami pagal šio įstatymo 90 straipsnio 1 dalį, šio straipsnio 2 dalyje nurodytas ataskaitas teikia centrinė perkančioji organizacija. Pirkimų procedūrų, kurių metu pirkimo sutartys sudaromos preliminariųjų sutarčių ar dinaminių pirkimų sistemų pagrindu, atveju ataskaitos gali būti teikiamos kas mėnesį, ne vėliau kaip per 5 darbo dienas mėnesiui pasibaigus, Viešųjų pirkimų tarnybos nustatyta tvarka. 
+
+
+
+
+4. Informaciją, kuri turi būti teikiama šio straipsnio 2 ir 3 dalyse nurodytose ataskaitose, ataskaitų reikalavimus ir jų standartines formas nustato Viešųjų pirkimų tarnyba. Jeigu Viešųjų pirkimų tarnybos teisės aktuose reikalaujama pirkimo procedūros ataskaitose pateikti informaciją, kuri jau pateikta skelbime apie sudarytą pirkimo sutartį ar preliminariąją sutartį, parengtame pagal šio įstatymo 46 straipsnį, perkantysis subjektas, pildydamas šią ataskaitą, gali pateikti nuorodą į tą skelbimą.
+
+
+
+
+5. Šio straipsnio 2 ir 3 dalyse nurodytos ataskaitos ir šio įstatymo 100 straipsnio 9 dalyje nurodyti duomenys, išskyrus informaciją, kurios atskleidimas prieštarautų informacijos ir duomenų apsaugą reguliuojantiems teisės aktams arba visuomenės interesams, pažeistų teisėtus konkretaus tiekėjo komercinius interesus arba turėtų neigiamą poveikį tiekėjų konkurencijai, skelbiami Centrinėje viešųjų pirkimų informacinėje sistemoje. Perkantysis subjektas, laikydamasis šioje dalyje nustatytų reikalavimų, šio straipsnio 2 dalyje nurodytas ataskaitas gali paskelbti ir pirkėjo profilyje. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
-
-
-
-
-3. Informaciją, kuri turi būti teikiama šio straipsnio 2 dalyje nurodytose ataskaitose, ataskaitų reikalavimus ir jų standartines formas nustato Viešųjų pirkimų tarnyba. Jeigu Viešųjų pirkimų tarnybos teisės aktuose reikalaujama pirkimo procedūros ataskaitose pateikti informaciją, kuri jau pateikta skelbime apie sudarytą pirkimo sutartį ar preliminariąją sutartį, parengtame pagal šio įstatymo 46 straipsnį, perkantysis subjektas, pildydamas šią ataskaitą, gali pateikti nuorodą į tą skelbimą.
-
-
-
-
-4. Šio straipsnio 2 dalyje nurodytos ataskaitos ir šio įstatymo 100 straipsnio 9 dalyje nurodyti duomenys, išskyrus informaciją, kurios atskleidimas prieštarautų informacijos ir duomenų apsaugą reguliuojantiems teisės aktams arba visuomenės interesams, pažeistų teisėtus konkretaus tiekėjo komercinius interesus arba turėtų neigiamą poveikį tiekėjų konkurencijai, skelbiami Centrinėje viešųjų pirkimų informacinėje sistemoje. Perkantysis subjektas, laikydamasis šioje dalyje nustatytų reikalavimų, šio straipsnio 2 dalyje nurodytas ataskaitas gali paskelbti ir pirkėjo profilyje.
- 
-
-
 
 
 
@@ -6625,7 +6676,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
  
 
@@ -7397,3 +7448,8 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-252, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08626
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 48 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 31, 34, 37, 39, 48, 49, 63, 66, 68, 90, 94, 99, 101, 102, 114 straipsnių pakeitimo ir Įstatymo papildymo 90-1 straipsniu įstatymas
