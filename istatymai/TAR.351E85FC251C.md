@@ -20,14 +20,17 @@ LIETUVOS RESPUBLIKOS SUTARČIŲ REGISTRO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-07-15 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 139-7115, i. k. 1101010ISTA0XI-1140
  
-Nauja redakcija nuo 2016-07-15:
-Nr. XII-2548, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19353
+Nauja redakcija nuo 2022-01-01:
+Nr. XIII-2727, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00091
  
-LIETUVOS RESPUBLIKOS SUTARČIŲ REGISTRO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS
+SUTARČIŲ IR TEISIŲ SUVARŽYMŲ REGISTRO
+ĮSTATYMAS
+ 
  
 2010 m. lapkričio 16 d. Nr. XI-1140
 Vilnius
@@ -37,7 +40,7 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Sutarčių registro objektus ir jų registravimo tvarką, Sutarčių registre registruojamų duomenų tvarkymą, Sutarčių registro valdytoją, tvarkytojo skyrimo tvarką ir finansavimą.
+Šis įstatymas nustato Sutarčių ir teisių suvaržymų registro objektus, jų registravimo ir registro duomenų tvarkymo pagrindus, Sutarčių ir teisių suvaržymų registro valdytoją, tvarkytojo skyrimo tvarką, šio registro finansavimo šaltinius, reorganizavimo ir likvidavimo tvarką ir registro duomenų teisinį statusą.
  
 
 
@@ -45,20 +48,20 @@ Vilnius
 
 
 
-2 straipsnis. Sutarčių registras
+2 straipsnis. Sutarčių ir teisių suvaržymų registras
 
 
-1. Sutarčių registras yra valstybės registras. 
-
-
-
-
-2. Sutarčių registro paskirtis – registruoti šio įstatymo 4 straipsnio 1 dalyje nurodytus Sutarčių registro objektus, rinkti, kaupti, apdoroti, sisteminti, saugoti ir teikti fiziniams ir juridiniams asmenims bei susijusiems registrams Sutarčių registro duomenis, atlikti kitus Sutarčių registro duomenų tvarkymo veiksmus.
+1. Sutarčių ir teisių suvaržymų registras yra valstybės registras. 
 
 
 
 
-3. Sutarčių registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+2. Sutarčių ir teisių suvaržymų registro paskirtis – registruoti šio įstatymo 4 straipsnyje nurodytus Sutarčių ir teisių suvaržymų registro objektus, rinkti, kaupti, apdoroti, sisteminti, saugoti ir teikti asmenims bei susijusiems registrams Sutarčių ir teisių suvaržymų registro duomenis, atlikti kitus Sutarčių ir teisių suvaržymų registro duomenų tvarkymo veiksmus.
+
+
+
+
+3. Sutarčių ir teisių suvaržymų registrą steigia ir šio registro nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
  
 
 
@@ -66,42 +69,10 @@ Vilnius
 
 
 
-3 straipsnis. Sutarčių registro valdytojas ir tvarkytojas
+3 straipsnis. Sutarčių ir teisių suvaržymų registro valdytojas ir tvarkytojas
 
 
-Sutarčių registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė.
- 
- 
-
-
-
-
-
-
-4 straipsnis. Sutarčių registro objektai
-
-
-1. Sutarčių registro objektai yra:
-
-
-1) daiktų pirkimo–pardavimo išsimokėtinai, kai neregistruojami daiktai įsigyti paslaugoms teikti arba įmonės verslui, sutartys;
-
-
-
-
-2) pirkimo–pardavimo su atpirkimo teise, kai neregistruojami daiktai perkami paslaugoms teikti arba įmonės verslui, sutartys;
-
-
-
-
-3) lizingo (finansinės nuomos), kurio dalykas yra neregistruojamas daiktas, skirtas naudoti verslo tikslams, sutartys.
-
-
-
-
-
-
-2. Visos šio straipsnio 1 dalyje išvardytos sutartys toliau šiame įstatyme vadinamos sutartimis. 
+Sutarčių ir teisių suvaržymų registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė.
  
 
 
@@ -109,188 +80,38 @@ Sutarčių registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, �
 
 
 
-5 straipsnis. Sutarčių registro duomenys
+4 straipsnis. Sutarčių ir teisių suvaržymų registro objektai
 
 
-1. Sutarčių registre tvarkomi duomenys apie daiktų pirkimo–pardavimo išsimokėtinai sutartis: 
+Sutarčių ir teisių suvaržymų registro objektai yra:
 
 
-1) registro objekto identifikavimo kodas;
+1) įkeitimai (išskyrus Lietuvos Respublikos nekilnojamojo turto registre įregistruotų turtinių teisių į nekilnojamuosius daiktus įkeitimą);
 
 
 
 
-2) sutarties sudarymo data;
+2) Lietuvos Respublikos civilinio kodekso 1.98 straipsnio 3 dalyje ir 4.177 straipsnyje nurodyto turto hipotekos, taip pat 4.184 straipsnyje nurodytos sąlyginės hipotekos;
 
 
 
 
-3) sutarties numeris;
+3) neregistruojamų daiktų pirkimo–pardavimo išsimokėtinai sutartys;
 
 
 
 
-4) sutarties šalys;
+4) neregistruojamų daiktų pirkimo–pardavimo su atpirkimo teise sutartys;
 
 
 
 
-5) sutarties ar jos pakeitimo įregistravimo data ir laikas;
+5) lizingo (finansinės nuomos), kurio dalykas yra neregistruojamas daiktas, sutartys;
 
 
 
 
-6) sutarties dalykas;
-
-
-
-
-7) nuosavybės teisės perėjimo pirkėjui momentas;
-
-
-
-
-8) galutinis atsiskaitymo terminas;
-
-
-
-
-9) duomenų pakeitimo pagrindas ir data;
-
-
-
-
-10) sutarties išregistravimo pagrindas, data ir laikas;
-
-
-
-
-11) kita informacija.
-
-
-
-
-
-
-2. Sutarčių registre tvarkomi duomenys apie pirkimo–pardavimo su atpirkimo teise sutartis: 
-
-
-1) registro objekto identifikavimo kodas;
-
-
-
-
-2) sutarties sudarymo data;
-
-
-
-
-3) sutarties numeris;
-
-
-
-
-4) sutarties šalys;
-
-
-
-
-5) sutarties ar jos pakeitimo įregistravimo data ir laikas;
-
-
-
-
-6) sutarties dalykas;
-
-
-
-
-7) atpirkimo teisės terminas;
-
-
-
-
-8) pageidavimo pasinaudoti atpirkimo teise įregistravimo data ir laikas;
-
-
-
-
-9) pageidavimo pasinaudoti atpirkimo teise atšaukimo įregistravimo data ir laikas;
-
-
-
-
-10) duomenų pakeitimo pagrindas ir data;
-
-
-
-
-11) sutarties išregistravimo pagrindas, data ir laikas;
-
-
-
-
-12) kita informacija.
-
-
-
-
-
-
-3. Sutarčių registre tvarkomi duomenys apie lizingo (finansinės nuomos) sutartis: 
-
-
-1) registro objekto identifikavimo kodas;
-
-
-
-
-2) sutarties sudarymo data;
-
-
-
-
-3) sutarties numeris;
-
-
-
-
-4) sutarties šalys;
-
-
-
-
-5) sutarties ar jos pakeitimo įregistravimo data ir laikas;
-
-
-
-
-6) sutarties dalykas;
-
-
-
-
-7) nuosavybės teisės perėjimo lizingo gavėjui momentas;
-
-
-
-
-8) galutinis atsiskaitymo terminas;
-
-
-
-
-9) duomenų pakeitimo pagrindas ir data;
-
-
-
-
-10) sutarties išregistravimo pagrindas, data ir laikas;
-
-
-
-
-11) kita informacija.
+6) neregistruojamų daiktų nuomos (panaudos) sutartys.
  
 
 
@@ -300,35 +121,10 @@ Sutarčių registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, �
 
 
 
-6 straipsnis. Sutarčių registro objektų registravimas ir duomenų tvarkymas
+5 straipsnis. Sutarčių ir teisių suvaržymų registro objektų registravimas ir registro duomenų tvarkymas
 
 
-1. Sudarius sutartį, ją pakeitus arba jai pasibaigus (ją nutraukus), Sutarčių registro tvarkytojui pateikiamas pranešimas apie sutarties sudarymą ar jos pakeitimą arba sutarties pabaigą (nutraukimą).
-
-
-
-
-2. Pranešimas apie sutarties pabaigą (nutraukimą) Sutarčių registro tvarkytojui pateikiamas tik tuo atveju, jeigu duomenų teikėjas buvo pateikęs prašymą automatiškai (be atskiro pranešimo) neišregistruoti sutarties iš registro. Šiuo atveju sutartis išregistruojama tik gavus pranešimą apie sutarties pabaigą (nutraukimą), išskyrus atvejus, kai vėlesniu sutarties pakeitimu nustatytas naujas galutinis atsiskaitymo terminas, kuriuo remiantis sutartis išregistruojama automatiškai (be atskiro pranešimo).
-
-
-
-
-3. Sutartis laikoma įregistruota nuo to momento, kai duomenys įrašomi į Sutarčių registrą ir registro objektui suteikiamas identifikavimo kodas.
-
-
-
-
-4. Sutarčių registre įregistravus sutartį ar jos pakeitimą arba išregistravus sutartį, parengiamas pranešimas apie sutarties ar jos pakeitimo įregistravimą arba sutarties išregistravimą ir išsiunčiamas duomenų teikėjui.
-
-
-
-
-5. Jeigu pranešime nenurodyti reikalingi duomenys arba jie nurodyti netiksliai, sudarytą sutartį ar jos pakeitimą arba pabaigą (nutraukimą) įregistruoti arba išregistruoti atsisakoma ir nurodomi atsisakymo motyvai. 
-
-
-
-
-6. Pirkimo–pardavimo išsimokėtinai ir lizingo (finansinės nuomos) sutartys automatiškai (be atskiro pranešimo) išregistruojamos praėjus vieniems metams nuo galutinio atsiskaitymo termino pabaigos. Pirkimo–pardavimo su atpirkimo teise sutartys automatiškai (be atskiro pranešimo) išregistruojamos praėjus penkeriems metams nuo sutarties įregistravimo Sutarčių registre dienos. 
+Sutarčių ir teisių suvaržymų registro objektai registruojami ir registro duomenys tvarkomi Sutarčių ir teisių suvaržymų registro nuostatuose nustatyta tvarka.
  
 
 
@@ -336,10 +132,10 @@ Sutarčių registro valdytoja yra Lietuvos Respublikos teisingumo ministerija, �
 
 
 
-7 straipsnis. Sutarčių registro finansavimas
+6 straipsnis. Sutarčių ir teisių suvaržymų registro finansavimas
 
 
-Sutarčių registras finansuojamas lėšomis, gautomis už registro objektų registravimą, registro duomenų ir kitų paslaugų teikimą, taip pat iš kitų Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių.
+Sutarčių ir teisių suvaržymų registras finansuojamas lėšomis, gautomis už registro objektų registravimą, registro duomenų ir kitų paslaugų teikimą, taip pat iš kitų Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių.
  
 
 
@@ -347,10 +143,10 @@ Sutarčių registras finansuojamas lėšomis, gautomis už registro objektų reg
 
 
 
-8 straipsnis. Sutarčių registro reorganizavimas ir likvidavimas
+7 straipsnis. Sutarčių ir teisių suvaržymų registro reorganizavimas ir likvidavimas
 
 
-Sutarčių registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo ir Vyriausybės nustatyta tvarka.
+Sutarčių ir teisių suvaržymų registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo ir Vyriausybės nustatyta tvarka.
  
 
 
@@ -358,10 +154,10 @@ Sutarčių registras reorganizuojamas ir likviduojamas Lietuvos Respublikos vals
 
 
 
-9 straipsnis. Sutarčių registro duomenų teisinis statusas 
+8 straipsnis. Sutarčių ir teisių suvaržymų registro duomenų teisinis statusas 
 
 
-Visi Sutarčių registro nuostatų nustatyta tvarka Sutarčių registre iki šio įstatymo įsigaliojimo ir jam įsigaliojus įregistruotų sutarčių duomenys laikomi teisingais ir išsamiais, kol jie nenuginčyti įstatymų nustatyta tvarka.
+Visi Sutarčių ir teisių suvaržymų registro duomenys laikomi teisingais ir išsamiais tol, kol jie nenuginčyti įstatymų nustatyta tvarka.
 
 
 
@@ -371,6 +167,7 @@ Visi Sutarčių registro nuostatų nustatyta tvarka Sutarčių registre iki šio
  
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+ 
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
@@ -384,4 +181,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2548, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19353
+Lietuvos Respublikos sutarčių registro įstatymo Nr. XI-1140 pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2727, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00091
 Lietuvos Respublikos sutarčių registro įstatymo Nr. XI-1140 pakeitimo įstatymas
