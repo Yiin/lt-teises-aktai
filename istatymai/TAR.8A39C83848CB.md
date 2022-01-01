@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2021-07-30 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-04
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -2639,7 +2639,10 @@ Nr. XII-1851, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10597
 
 
 
-2. Rašytinės formos sandoriai sudaromi surašant vieną dokumentą, pasirašomą visų sandorio šalių, arba šalims apsikeičiant atskirais dokumentais. Rašytinės formos dokumentui prilyginami šalių pasirašyti dokumentai, perduoti telegrafinio, faksimilinio ryšio ar kitokiais telekomunikacijų galiniais įrenginiais, jeigu yra užtikrinta teksto apsauga ir galima identifikuoti parašą.
+2. Rašytinės formos sandoriai sudaromi surašant vieną dokumentą, pasirašomą visų sandorio šalių, arba šalims apsikeičiant atskirais dokumentais. Rašytinės formos dokumentui prilyginami šalių pasirašyti dokumentai, perduoti telekomunikacijų galiniais įrenginiais, jeigu yra užtikrinta teksto apsauga ir galima identifikuoti parašą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -3786,7 +3789,9 @@ Savaitėmis skaičiuojamas terminas pasibaigia atitinkamą paskutinės termino s
 
 
 
-2. Visi rašytiniai pareiškimai ir pranešimai, įteikti paštui ar telegrafui arba perduoti kitomis ryšio priemonėmis iki paskutinės termino dienos dvidešimt ketvirtos valandos nulis minučių, laikomi atliktais laiku.
+2. Visi rašytiniai pareiškimai ir pranešimai, įteikti paštui arba perduoti ryšio priemonėmis iki paskutinės termino dienos dvidešimt ketvirtos valandos nulis minučių, laikomi atliktais laiku.
+Straipsnio dalies pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
  
 
 
@@ -3871,17 +3876,10 @@ Ieškinio senatis – tai įstatymų nustatytas laiko tarpas (terminas), per kur
 
 
 
-5. Sutrumpintas šešių mėnesių ieškinio senaties terminas taikomas:
-
-
-1) ieškiniams dėl netesybų (baudos, delspinigių) išieškojimo;
-
-
-
-
-2) ieškiniams dėl parduotų daiktų trūkumų.
-
-
+5. Sutrumpintas šešių mėnesių ieškinio senaties terminas taikomas ieškiniams dėl netesybų (baudos, delspinigių) išieškojimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
@@ -3896,27 +3894,49 @@ Ieškinio senatis – tai įstatymų nustatytas laiko tarpas (terminas), per kur
 
 
 
-8. Sutrumpintas trejų metų ieškinio senaties terminas taikomas reikalavimams dėl padarytos žalos atlyginimo, tarp jų ir reikalavimams atlyginti žalą, atsiradusią dėl netinkamos kokybės produkcijos.
+8. Sutrumpintas dvejų metų ieškinio senaties terminas taikomas reikalavimams dėl prekių, paslaugų ar skaitmeninio turinio trūkumų (netinkamos kokybės). 
+Papildyta straipsnio dalimi:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
 
-9. Sutrumpintas penkerių metų ieškinio senaties terminas taikomas reikalavimams dėl palūkanų ir kitokių periodinių išmokų išieškojimo.
+9. Sutrumpintas trejų metų ieškinio senaties terminas taikomas reikalavimams dėl padarytos žalos atlyginimo, tarp jų ir reikalavimams atlyginti žalą, atsiradusią dėl netinkamos kokybės produkcijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
 
-10. Reikalavimams dėl atliktų darbų trūkumų taikomi šio kodekso šeštojoje knygoje nustatyti sutrumpinti ieškinio senaties terminai.
+10. Sutrumpintas penkerių metų ieškinio senaties terminas taikomas reikalavimams dėl palūkanų ir kitokių periodinių išmokų išieškojimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
 
-11. Iš krovinių, keleivių ir bagažo vežimo atsirandantiems reikalavimams taikomi atskirų transporto rūšių kodeksuose (įstatymuose) nustatyti ieškinio senaties terminai. 
+11. Reikalavimams dėl atliktų darbų trūkumų taikomi šio kodekso šeštojoje knygoje nustatyti sutrumpinti ieškinio senaties terminai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
 
-12. Šalių susitarimu pakeisti ieškinio senaties terminus ir jų skaičiavimo tvarką draudžiama.
+12. Iš krovinių, keleivių ir bagažo vežimo atsirandantiems reikalavimams taikomi atskirų transporto rūšių kodeksuose (įstatymuose) nustatyti ieškinio senaties terminai. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+13. Šalių susitarimu pakeisti ieškinio senaties terminus ir jų skaičiavimo tvarką draudžiama.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
  
 
 
@@ -5607,12 +5627,26 @@ Nr. XII-365, 2013-06-13, Žin., 2013, Nr. 68-3406 (2013-06-28)
 
 
 
-4) juridinio asmens kodas;
+4) juridinio asmens Nacionalinės elektroninių siuntų pristatymo naudojant pašto tinklą informacinės sistemos elektroninio pristatymo dėžutės (toliau – elektroninio pristatymo dėžutė) adresas; 
+Papildyta straipsnio punktu:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-5) registras, kuriame kaupiami ir saugomi duomenys apie tą juridinį asmenį.
+5) juridinio asmens kodas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
+
+
+
+
+6) registras, kuriame kaupiami ir saugomi duomenys apie tą juridinį asmenį.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -5789,7 +5823,10 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-3. Visas susirašinėjimas su juridiniu asmeniu yra laikomas tinkamu, kai jis vyksta juridinio asmens buveinės adresu, taip pat atsižvelgiant į šio straipsnio 2 dalį, jeigu juridinis asmuo aiškiai nenurodė kitaip.
+3. Visas susirašinėjimas su juridiniu asmeniu yra laikomas tinkamu, kai jis vyksta juridinio asmens buveinės adresu arba juridinio asmens elektroninio pristatymo dėžutės adresu, taip pat atsižvelgiant į šio straipsnio 2 dalį, jeigu juridinis asmuo aiškiai nenurodė kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -5933,7 +5970,10 @@ Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)
 
 
 
-2. Juridinio asmens filialo nuostatuose taip pat turi būti nurodoma informacija apie filialą įsteigusį asmenį, nustatyta šio kodekso 2.44 straipsnio 1 dalies 1, 2, 4 ir 5 punktuose, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti filialo valdymo organus, priimti sprendimus dėl filialo teisinio statuso.
+2. Juridinio asmens filialo nuostatuose taip pat turi būti nurodoma informacija apie filialą įsteigusį asmenį, nustatyta šio kodekso 2.44 straipsnio 1 dalies 1, 2, 5 ir 6 punktuose, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti filialo valdymo organus, priimti sprendimus dėl filialo teisinio statuso.
+Straipsnio dalies pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -6276,52 +6316,90 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-5) juridinio asmens organai; 
+5) juridinio asmens elektroninio pristatymo dėžutės adresas; 
+Papildyta straipsnio punktu:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-6) juridinio asmens valdymo organų nariai (vardas, pavardė, asmens kodas, gyvenamoji vieta);
+6) juridinio asmens organai; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-7) juridinio asmens valdymo organų nariai ir juridinio asmens dalyviai, turintys teisę juridinio asmens vardu sudaryti sandorius, jų teisių ribos; 
+7) juridinio asmens valdymo organų nariai (vardas, pavardė, asmens kodas, gyvenamoji vieta);
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-8) juridinio asmens filialai ir atstovybės (pavadinimai, kodai, buveinės, filialų ir atstovybių valdymo organų nariai); 
+8) juridinio asmens valdymo organų nariai ir juridinio asmens dalyviai, turintys teisę juridinio asmens vardu sudaryti sandorius, jų teisių ribos; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-9) juridinio asmens veiklos apribojimai;
+9) juridinio asmens filialai ir atstovybės (pavadinimai, kodai, buveinės, filialų ir atstovybių valdymo organų nariai); 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-10) juridinio asmens teisinis statusas;
+10) juridinio asmens veiklos apribojimai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-11) juridinio asmens pasibaigimas; 
+11) juridinio asmens teisinis statusas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-12) juridinio asmens registro duomenų ir dokumentų keitimo datos; 
+12) juridinio asmens pasibaigimas; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-13) juridinio asmens finansiniai metai;
+13) juridinio asmens registro duomenų ir dokumentų keitimo datos; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
 
-14) kiti įstatymų numatyti duomenys.
+14) juridinio asmens finansiniai metai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
+
+
+
+
+15) kiti įstatymų numatyti duomenys.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -20830,7 +20908,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-2. Sujungus kelis įkeistus nekilnojamuosius daiktus, kiekvieno iš jų hipoteka apima po sujungimo suformuotą nekilnojamąjį daiktą. Hipotekos kreditorių reikalavimų tenkinimo eilė nustatoma pagal hipotekos įregistravimo Hipotekos registre laiką.
+2. Sujungus kelis įkeistus nekilnojamuosius daiktus, kiekvieno iš jų hipoteka apima po sujungimo suformuotą nekilnojamąjį daiktą. Hipotekos kreditorių reikalavimų tenkinimo eilė nustatoma pagal hipotekos įregistravimo viešame registre laiką.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 Straipsnio pakeitimai:
@@ -20983,7 +21064,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-4. Įmonės hipoteka registruojama Hipotekos registre. Juridinių asmenų registre ir Nekilnojamojo turto registre registruojamas juridinis faktas, kad juridinio asmens turtas įkeistas pagal įmonės hipotekos taisykles. 
+4. Įmonės hipoteka registruojama viešame registre.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 
@@ -21127,9 +21211,11 @@ Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
 
 
 
-4. Duomenys apie sąlyginės hipotekos sąlygos, su kuria siejamas hipotekos galiojimas, atsiradimą ar pabaigą pateikiami Hipotekos registrui Hipotekos registro nuostatuose nustatyta tvarka. 
+4. Duomenys apie sąlyginės hipotekos sąlygos, su kuria siejamas hipotekos galiojimas, atsiradimą ar pabaigą pateikiami viešam registrui šio registro nuostatų nustatyta tvarka.
 Papildyta straipsnio dalimi:
 Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
  
 
 
@@ -21142,15 +21228,15 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-Antrasis skirsnis
-Hipotekos įregistravimas
+ANTRASIS SKIRSNIS
+HIPOTEKOS ĮREGISTRAVIMAS
  
 
 
 4.185 straipsnis. Hipotekos įforminimas ir įregistravimas
 
 
-1. Hipotekos sandoris turi būti notarinės formos. 
+1. Hipotekos sandoris turi būti notarinės formos.
 
 
 
@@ -21165,27 +21251,25 @@ Hipotekos įregistravimas
 
 
 
-4. Hipotekos sandorį patvirtinęs notaras Hipotekos registro nuostatų nustatyta tvarka pateikia Hipotekos registrui duomenis apie hipoteką hipotekai įregistruoti. 
+4. Hipotekos sandorį patvirtinęs notaras pateikia viešam registrui šio registro nuostatų nustatyta tvarka duomenis hipotekai įregistruoti. 
 
 
 
 
-5. Priverstinė hipoteka nustatoma teismo, notaro arba įstatymų įgalioto pareigūno ar institucijos sprendimu. Priverstinę hipoteką nustatęs teismas, notaras, įstatymų įgaliotas pareigūnas ar institucija arba kreditorius duomenis hipotekai įregistruoti pateikia Hipotekos registro nuostatų nustatyta tvarka.
+5. Priverstinė hipoteka nustatoma teismo, notaro arba įstatymų įgalioto pareigūno ar institucijos sprendimu. Priverstinę hipoteką nustatęs teismas, notaras, įstatymų įgaliotas pareigūnas ar institucija arba kreditorius duomenis hipotekai įregistruoti pateikia viešo registro nuostatų nustatyta tvarka.
 
 
 
 
-6. Hipotekos sandorio pakeitimai turi būti tokios pat formos kaip ir hipotekos sandoris ir yra registruojami Hipotekos registre ta pačia tvarka kaip ir hipoteka. Priverstinės hipotekos pakeitimai nustatomi ta pačia tvarka kaip ir priverstinė hipoteka. 
+6. Hipotekos sandorio pakeitimai turi būti tokios pat formos kaip ir hipotekos sandoris, hipotekos pakeitimo duomenys įrašomi viešame registre ta pačia tvarka kaip ir hipoteka. Priverstinės hipotekos pakeitimai nustatomi ta pačia tvarka kaip ir priverstinė hipoteka.
 
 
 
 
-7. Hipotekos registro duomenys yra vieši, jie laikomi teisingais ir išsamiais, kol nenuginčyti įstatymų nustatyta tvarka. Įrodinėti savo teises remdamiesi Hipotekos registre įregistruotais juridiniais faktais gali tik sąžiningi tretieji asmenys.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
+7. Viešo registro duomenys apie hipoteką yra vieši, jie laikomi teisingais ir išsamiais tol, kol nenuginčyti įstatymų nustatyta tvarka. Įrodinėti savo teises remdamiesi viešame registre įregistruota hipoteka gali tik sąžiningi tretieji asmenys.
  
+
+
 
 
 
@@ -21193,7 +21277,7 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 4.186 straipsnis. Hipotekos sandorio turinys
 
 
-1. Hipotekos sandoryje turi būti nurodyta: sandorio sudarymo vieta, data ir laikas, skolininkas, kreditorius ir įkaito davėjas (kai skolininkas ir įkaito davėjas ne tas pats asmuo), jų gyvenamoji vieta (buveinė), hipotekos objektas, hipoteka užtikrinta prievolė (prievolės) ir jos (jų) konkretus ar maksimalus dydis, prievolės įvykdymo terminas, hipotekos sandorio originalo egzempliorių skaičius ir subjektai, kuriems sandorio sudarymo metu perduodami originalo egzemplioriai. Įmonės hipotekos, sąlyginės hipotekos ir maksimaliosios hipotekos sandoriuose privalo būti nurodyta hipotekos rūšis. Sąlyginės hipotekos sandoryje nurodoma sąlyga, su kuria siejamas hipotekos galiojimas. 
+1. Hipotekos sandoryje turi būti nurodyta: sandorio sudarymo vieta, data ir laikas, skolininkas, kreditorius ir įkaito davėjas (kai skolininkas ir įkaito davėjas ne tas pats asmuo), jų gyvenamoji vieta (buveinė), hipotekos objektas, hipoteka užtikrinta prievolė (prievolės) ir jos (jų) konkretus ar maksimalus dydis, prievolės įvykdymo terminas, hipotekos sandorio originalo egzempliorių skaičius ir subjektai, kuriems sandorio sudarymo metu perduodami originalo egzemplioriai. Įmonės hipotekos, sąlyginės hipotekos ir maksimaliosios hipotekos sandoriuose privalo būti nurodyta hipotekos rūšis. Sąlyginės hipotekos sandoryje nurodoma sąlyga, su kuria siejamas hipotekos galiojimas.
 
 
 
@@ -21203,22 +21287,20 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-3. Šalių susitarimu arba vienašaliu įkeičiamo daikto savininko pareiškimu gali būti nustatyta, kad hipotekos sandoris yra vertybinis popierius. Šiuo atveju hipotekos sandoris sudaromas kaip atskiras sandoris vienu egzemplioriumi, kuris perduodamas hipotekos kreditoriui. 
+3. Šalių susitarimu arba vienašaliu įkeičiamo daikto savininko pareiškimu gali būti nustatyta, kad hipotekos sandoris yra vertybinis popierius. Šiuo atveju hipotekos sandoris sudaromas kaip atskiras sandoris vienu egzemplioriumi, kuris perduodamas hipotekos kreditoriui.
 
 
 
 
-4. Tais atvejais, kai keliems kreditoriams atstovauja vienas atstovas, kreditorių susitarimu arba vienašaliu įkeičiamo daikto savininko pareiškimu hipotekos sandoryje gali būti nustatyta, kad Hipotekos registre kaip kreditorius nurodomas tik kreditorių atstovas. Šiuo atveju Hipotekos registre turi būti nurodytas atstovavimo pagrindas.
+4. Tais atvejais, kai keliems kreditoriams atstovauja vienas atstovas, kreditorių susitarimu arba vienašaliu įkeičiamo daikto savininko pareiškimu hipotekos sandoryje gali būti nustatyta, kad viešame registre kaip kreditorius nurodomas tik kreditorių atstovas. Šiuo atveju viešame registre turi būti nurodytas atstovavimo pagrindas.
 
 
 
 
-5. Hipotekos sandoryje, kurį vienašališkai surašo įkeičiamo daikto savininkas, kreditorius gali būti nenurodytas. Prieš sąžiningus trečiuosius asmenis pareikštinę hipoteką galima naudoti nuo kreditoriaus nurodymo Hipotekos registre momento.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
+5. Hipotekos sandoryje, kurį vienašališkai surašo įkeičiamo daikto savininkas, kreditorius gali būti nenurodytas. Prieš sąžiningus trečiuosius asmenis pareikštinę hipoteką galima naudoti nuo kreditoriaus nurodymo viešame registre momento.
  
+
+
 
 
 
@@ -21231,32 +21313,30 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-2. Prieš sąžiningus trečiuosius asmenis hipotekos sandoris gali būti naudojamas tik tuo atveju, kai hipoteka Hipotekos registro nuostatų nustatyta tvarka įregistruota Hipotekos registre. 
+2. Prieš sąžiningus trečiuosius asmenis hipotekos sandoris gali būti naudojamas tik tuo atveju, kai hipoteka įregistruota viešame registre šio registro nuostatų nustatyta tvarka. 
 
 
 
 
-3. Priverstinė hipoteka įsigalioja nuo jos įregistravimo Hipotekos registre momento.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
+3. Priverstinė hipoteka įsigalioja nuo jos įregistravimo viešame registre momento.
  
 
 
 
 
-4.188 straipsnis. Hipotekos sandorio ir Hipotekos registro duomenų neatitikimas
 
 
-Kai hipotekos sandorio tekstas nesutampa su Hipotekos registro duomenimis, sprendžiamąją galią turi Hipotekos registro duomenys.
+4.188 straipsnis. Hipotekos sandorio ir viešo registro duomenų neatitikimas
 
 
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
+Kai hipotekos sandorio tekstas nesutampa su viešo registro duomenimis, sprendžiamąją galią turi viešo registro duomenys.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
  
-
-
 
 
 
@@ -21279,12 +21359,18 @@ Hipotekos perleidimas ir įkeitimas
 
 
 
-3. Kai hipotekos sandoris yra vertybinis popierius, hipoteka užtikrintas reikalavimas perleidžiamas perduodant hipotekos sandorį indosamentu (hipotekos kreditoriaus įrašu, kuriuo hipotekos sandoris perduodamas kitam asmeniui). Indosamentas turi būti įrašytas hipotekos sandoryje nurodant asmenį, kuriam perleidžiamas hipotekos reikalavimas, taip pat pasirašytas indosanto (hipotekos kreditoriaus) ir įregistruotas Hipotekos registre. 
+3. Kai hipotekos sandoris yra vertybinis popierius, hipoteka užtikrintas reikalavimas perleidžiamas perduodant hipotekos sandorį indosamentu (hipotekos kreditoriaus įrašu, kuriuo hipotekos sandoris perduodamas kitam asmeniui). Indosamentas turi būti įrašytas hipotekos sandoryje nurodant asmenį, kuriam perleidžiamas hipotekos reikalavimas, taip pat pasirašytas indosanto (hipotekos kreditoriaus) ir įregistruotas viešame registre.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 
 
-4. Hipoteka užtikrinto reikalavimo ar jo dalies perleidimas, hipotekos teisės perleidimas, hipotekos sandorio indosamentas gali būti panaudoti prieš sąžiningus trečiuosius asmenis įregistravus Hipotekos registre Hipotekos registro nuostatų nustatyta tvarka.
+4. Hipoteka užtikrinto reikalavimo ar jo dalies perleidimas, hipotekos teisės perleidimas, hipotekos sandorio indosamentas gali būti panaudoti prieš sąžiningus trečiuosius asmenis įregistravus viešame registre šio registro nuostatų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 Straipsnio pakeitimai:
@@ -21322,8 +21408,8 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-Ketvirtasis skirsnis
-Skolos išieškojimas hipotekos kreditoriaus naudai
+KETVIRTASIS SKIRSNIS
+SKOLOS IŠIEŠKOJIMAS HIPOTEKOS KREDITORIAUS NAUDAI
  
 
 
@@ -21340,12 +21426,12 @@ Skolos išieškojimas hipotekos kreditoriaus naudai
 
 
 
-3. Prašyme atlikti vykdomąjį įrašą hipotekos kreditorius nurodo hipotekos kodą Hipotekos registre, negrąžintos skolos dydį, skolininką, įkaito davėją ir jų adresus (buveines). Už prašyme nurodytų duomenų teisingumą atsako hipotekos kreditorius.
+3. Prašyme atlikti vykdomąjį įrašą hipotekos kreditorius nurodo hipotekos kodą viešame registre, negrąžintos skolos dydį, skolininką, įkaito davėją ir jų adresus (buveines). Už prašyme nurodytų duomenų teisingumą atsako hipotekos kreditorius.
 
 
 
 
-4. Notaras, patikrinęs, ar hipotekos kreditoriaus prašyme nurodyti duomenys atitinka Hipotekos registro duomenis, prieš atlikdamas vykdomąjį įrašą, skolininkui išsiunčia pranešimą, kuriame turi būti nurodyti hipotekos kreditoriaus pateikti duomenys ir siūlymas ne vėliau kaip per dvidešimt dienų nuo pranešimo skolininkui išsiuntimo dienos sumokėti kreditoriui skolą ir apie prievolės įvykdymą raštu pranešti notarui arba pateikti notarui duomenis dėl hipotekos kreditoriaus reikalavimo nepagrįstumo. Atsižvelgdamas į kreditoriaus ir skolininko pateiktus duomenis, notaras atlieka vykdomąjį įrašą arba motyvuotai atsisako jį atlikti. Vykdomuoju įrašu notaras siūlo išieškoti iš skolininko hipotekos kreditoriaus nurodytą per hipotekos sandoryje nustatytą terminą nesumokėtą hipoteka užtikrinto skolinio įsipareigojimo sumą arba nesumokėtos skolos dalį su priklausančiomis palūkanomis. Apie vykdomojo įrašo atlikimo faktą notaras nedelsdamas praneša Hipotekos registrui ir vykdomojo įrašo kopiją išsiunčia skolininkui ir įkaito davėjui. Nuo vykdomojo įrašo įregistravimo Hipotekos registre dienos skolininkas neturi teisės disponuoti įkeistu turtu be kreditoriaus sutikimo.
+4. Notaras, patikrinęs, ar hipotekos kreditoriaus prašyme nurodyti duomenys atitinka viešo registro duomenis, prieš atlikdamas vykdomąjį įrašą, skolininkui išsiunčia pranešimą, kuriame turi būti nurodyti hipotekos kreditoriaus pateikti duomenys ir siūlymas ne vėliau kaip per dvidešimt dienų nuo pranešimo skolininkui išsiuntimo dienos sumokėti kreditoriui skolą ir apie prievolės įvykdymą raštu pranešti notarui arba pateikti notarui duomenis dėl hipotekos kreditoriaus reikalavimo nepagrįstumo. Atsižvelgdamas į kreditoriaus ir skolininko pateiktus duomenis, notaras atlieka vykdomąjį įrašą arba motyvuotai atsisako jį atlikti. Vykdomuoju įrašu notaras siūlo išieškoti iš skolininko hipotekos kreditoriaus nurodytą per hipotekos sandoryje nustatytą terminą nesumokėtą hipoteka užtikrinto skolinio įsipareigojimo sumą arba nesumokėtos skolos dalį su priklausančiomis palūkanomis. Apie vykdomojo įrašo atlikimo faktą notaras nedelsdamas praneša viešam registrui ir vykdomojo įrašo kopiją išsiunčia skolininkui ir įkaito davėjui. Nuo vykdomojo įrašo įregistravimo viešame registre dienos skolininkas neturi teisės disponuoti įkeistu turtu be kreditoriaus sutikimo.
 
 
 
@@ -21355,7 +21441,7 @@ Skolos išieškojimas hipotekos kreditoriaus naudai
 
 
 
-6. Jeigu iki vykdomojo įrašo pateikimo antstoliui vykdyti, skolininkas prievolę įvykdo sumokėdamas pinigus į notaro depozitinę sąskaitą, skolininko ar kreditoriaus prašymu notaras vykdomąjį įrašą panaikina ir apie tai praneša kreditoriui ir Hipotekos registrui.
+6. Jeigu iki vykdomojo įrašo pateikimo antstoliui vykdyti skolininkas prievolę įvykdo sumokėdamas pinigus į notaro depozitinę sąskaitą, skolininko ar kreditoriaus prašymu notaras vykdomąjį įrašą panaikina ir apie tai praneša kreditoriui ir viešam registrui.
 
 
 
@@ -21365,17 +21451,15 @@ Skolos išieškojimas hipotekos kreditoriaus naudai
 
 
 
-8. Iki varžytynių pradžios skolininko (įkaito davėjo) ir hipotekos kreditoriaus susitarimu hipotekos objektas gali būti hipotekos kreditoriaus ir skolininko (įkaito davėjo) notarine forma sudarytu sandoriu perleidžiamas hipotekos kreditoriaus nuosavybėn arba trečiajam asmeniui Civilinio proceso kodekso 704 straipsnio nustatyta tvarka. Kelis kartus įkeistas daiktas gali būti realizuojamas hipotekos kreditoriaus ir įkaito davėjo sandoryje nustatytu būdu tik visų kreditorių sutikimu.
+8. Iki varžytynių pradžios skolininko (įkaito davėjo) ir hipotekos kreditoriaus susitarimu hipotekos objektas gali būti hipotekos kreditoriaus ir skolininko (įkaito davėjo) notarine forma sudarytu sandoriu perleidžiamas hipotekos kreditoriaus nuosavybėn arba trečiajam asmeniui Civilinio proceso kodekso 704 straipsnyje nustatyta tvarka. Kelis kartus įkeistas daiktas gali būti realizuojamas hipotekos kreditoriaus ir įkaito davėjo sandoryje nustatytu būdu tik visų kreditorių sutikimu.
 
 
 
 
-9. Kai išieškoma pagal maksimaliąją hipoteką, notaras vykdomąjį įrašą atlieka nesvarbu, ar skolos dydis yra užfiksuotas. Jeigu maksimaliosios hipotekos skolos dydis nėra užfiksuotas, notaras tai pažymi vykdomajame įraše.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
+9. Kai išieškoma pagal maksimaliąją hipoteką, notaras vykdomąjį įrašą atlieka, nesvarbu, ar skolos dydis yra užfiksuotas, ar ne. Jeigu maksimaliosios hipotekos skolos dydis nėra užfiksuotas, notaras tai pažymi vykdomajame įraše.
  
+
+
 
 
 
@@ -21388,7 +21472,7 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-2. Nuo vykdomojo įrašo įregistravimo Hipotekos registre dienos įkeistos įmonės valdymo organai be išankstinio rašytinio hipotekos kreditoriaus (kol nepaskirtas turto administratorius) arba turto administratoriaus sutikimo neturi teisės disponuoti turtu, kuris yra įmonės hipotekos objektas.
+2. Nuo vykdomojo įrašo įregistravimo viešame registre dienos įkeistos įmonės valdymo organai be išankstinio rašytinio hipotekos kreditoriaus (kol nepaskirtas turto administratorius) arba turto administratoriaus sutikimo neturi teisės disponuoti turtu, kuris yra įmonės hipotekos objektas.
 
 
 
@@ -21404,11 +21488,9 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 5. Paaiškėjus, kad iš administruojamo įkeisto įmonės turto gaunamų pajamų negalima patenkinti hipoteka užtikrinto reikalavimo, turto administratorius (kreditorius) gali kreiptis į antstolį dėl visos įmonės pardavimo šio kodekso 6.402–6.410 straipsniuose nustatyta tvarka. Šiuo atveju turto administratorius veikia kaip pardavėjas. Jeigu paaiškėja, kad visą įmonę parduoti neįmanoma arba ekonomiškai netikslinga, turto administratorius (kreditorius) gali kreiptis į antstolį dėl įmonės turto pardavimo dalimis.
-
-
-Kodeksas papildytas straipsniu:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
  
+
+
 
 
 
@@ -21416,12 +21498,12 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 4.193 straipsnis. Hipotekos kreditoriaus teisė patenkinti savo reikalavimą iš įkeisto daikto
 
 
-1. Jeigu realizavus įkeistą daiktą gaunama mažesnė suma, negu priklauso hipotekos kreditoriui, jis turi teisę reikalauti išieškoti iš kito skolininko turto bendra įstatymų nustatyta tvarka. 
+1. Jeigu realizavus įkeistą daiktą gaunama mažesnė suma, negu priklauso hipotekos kreditoriui, jis turi teisę reikalauti išieškoti iš skolininko kito turto bendra įstatymų nustatyta tvarka. 
 
 
 
 
-2. Jeigu daiktas įkeistas kelis kartus, hipotekos kreditorių reikalavimai patenkinami pagal hipotekos įregistravimo Hipotekos registre laiką eilės tvarka.
+2. Jeigu daiktas įkeistas kelis kartus, hipotekos kreditorių reikalavimai patenkinami pagal hipotekos įregistravimo viešame registre laiką eilės tvarka.
 
 
 
@@ -21452,11 +21534,9 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 8. Jeigu įkeistas daiktas pereina valstybės ar savivaldybės nuosavybėn paveldėjimo teise arba įkeistas bešeimininkis daiktas perduodamas teismo sprendimu valstybės ar savivaldybės nuosavybėn, hipotekos kreditoriaus reikalavimą tenkina valstybė ar savivaldybė, bet ne daugiau, negu yra įkeisto daikto vertė.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
  
+
+
 
 
 
@@ -21500,17 +21580,15 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-5. Nuo vykdomojo įrašo įregistravimo Hipotekos registre dienos skolininkas (įkaito davėjas) turi teisę perleisti hipotekos objektą tik kreditoriaus sutikimu. Kreditorius, įsitikinęs skolininko pasiūlyto pirkėjo mokumu, privalo duoti sutikimą sudaryti perleidimo sandorį, jeigu įkeisto daikto pardavimo kaina atitinka hipoteka užtikrinto pagrindinio reikalavimo ir iš šio reikalavimo atsirandančių palūkanų dydį. Pardavus įkeistą daiktą gautų lėšų suma, reikalinga hipotekos kreditoriaus reikalavimui patenkinti, turi būti pervesta į notaro, tvirtinančio perleidimo sandorį, depozitinę sąskaitą. 
+5. Nuo duomenų apie vykdomąjį įrašą įrašymo viešame registre dienos skolininkas (įkaito davėjas) turi teisę perleisti hipotekos objektą tik kreditoriaus sutikimu. Kreditorius, įsitikinęs skolininko pasiūlyto pirkėjo mokumu, privalo duoti sutikimą sudaryti perleidimo sandorį, jeigu įkeisto daikto pardavimo kaina atitinka hipoteka užtikrinto pagrindinio reikalavimo ir iš šio reikalavimo atsirandančių palūkanų dydį. Pardavus įkeistą daiktą gautų lėšų suma, reikalinga hipotekos kreditoriaus reikalavimui patenkinti, turi būti pervesta į notaro, tvirtinančio perleidimo sandorį, depozitinę sąskaitą.
 
 
 
 
 6. Jeigu kreditorius pradėjo nepagrįstą išieškojimą be pagrindo arba pareiškė nepagrįstą reikalavimą, skolininkas (įkaito davėjas) turi teisę ginčyti kreditoriaus veiksmų teisėtumą ieškinio teisenos tvarka. Ieškinio padavimas nesustabdo išieškojimo veiksmų. Išieškojimas gali būti sustabdytas tik įstatymų nustatytais atvejais teismui pritaikius laikinąsias apsaugos priemones.
-
-
-Kodeksas papildytas straipsniu:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
  
+
+
 
 
 
@@ -21534,11 +21612,9 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 4. Jeigu įkeisto daikto savininkas įvykdė skolininko įsipareigojimą arba jeigu jo daiktas buvo parduotas iš viešųjų varžytynių, jis įgyja į skolininką atgręžtinio reikalavimo teisę dėl sumokėtos sumos ar dėl daikto praradimo patirtų nuostolių atlyginimo.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
  
+
+
 
 
 
@@ -21564,7 +21640,7 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-4) daugiau kaip trisdešimčia procentų sumažėjo hipotekos objekto vertė, o skolininkas neįvykdė įsipareigojimo dalies, kuria sumažėjo daikto vertė, ir šios įsipareigojimo dalies nepadengė gauta draudimo suma;
+4) daugiau kaip trisdešimt procentų sumažėjo hipotekos objekto vertė, o skolininkas neįvykdė įsipareigojimo dalies, kuria sumažėjo daikto vertė, ir šios įsipareigojimo dalies nepadengė gauta draudimo suma;
 
 
 
@@ -21581,30 +21657,27 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-2. Jeigu įkeisto daikto vertė sumažėjo, o skolininkas neįvykdė įsipareigojimo dalies, kuria sumažėjo daikto vertė, arba daiktas žuvo, kreditoriai turi teisę į daikto draudimo sumą, neviršijančią jų reikalavimų sumos, išmokamą tokia pat eile, kokia turėjo būti patenkinti jų reikalavimai. Gavus raštišką visų kreditorių sutikimą, draudimo suma gali būti išmokama įkeisto daikto savininkui.
+2. Jeigu įkeisto daikto vertė sumažėjo, o skolininkas neįvykdė įsipareigojimo dalies, kuria sumažėjo daikto vertė, arba daiktas žuvo, kreditoriai turi teisę į daikto draudimo sumą, neviršijančią jų reikalavimų sumos, išmokamą tokia pat eile, kokia turėjo būti patenkinti jų reikalavimai. Gavus rašytinį visų kreditorių sutikimą, draudimo suma gali būti išmokama įkeisto daikto savininkui.
 
 
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
+
+
+Skirsnio pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
  
 
 
 
 
-
-
-Penktasis skirsnis
-Hipotekos PABAIGA
+PENKTASIS SKIRSNIS
+HIPOTEKOS PABAIGA
  
 
 
 4.197 straipsnis. Hipotekos pabaigos pagrindai
 
 
-1. Priverstinis įkeisto daikto realizavimas hipotekos kreditoriaus prašymu išlaisvina jį nuo visų galiojančių hipotekų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
- 
+1. Priverstinis įkeisto daikto realizavimas hipotekos kreditoriaus prašymu išlaisvina jį nuo visų galiojančių hipotekų.
 
 
 
@@ -21627,7 +21700,7 @@ Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
 
 
 
-4) hipotekos objektas žuvo;
+4) hipotekos objektas žuvo, išnyko arba teisės aktų nustatyta tvarka panaikintas;
 
 
 
@@ -21654,22 +21727,19 @@ Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
 
 
 
-6. Sąžiningo hipotekos kreditoriaus teisė lieka galioti net ir tuo atveju, kai hipotekos sandoris pripažįstamas negaliojančiu tokiu pagrindu, už kurį hipotekos kreditorius neatsako. Kai hipotekos sandoris įstatymų nustatyta tvarka pripažintas negaliojančiu ir nėra būtinybės ginti sąžiningo hipotekos kreditoriaus, Hipotekos registre įregistruota hipoteka baigiama ir išregistruojama iš Hipotekos registro pateikus įsiteisėjusį teismo sprendimą dėl hipotekos sandorio pripažinimo negaliojančiu.
+6. Sąžiningo hipotekos kreditoriaus teisė lieka galioti net ir tuo atveju, kai hipotekos sandoris pripažįstamas negaliojančiu tokiu pagrindu, už kurį hipotekos kreditorius neatsako. Kai hipotekos sandoris įstatymų nustatyta tvarka pripažintas negaliojančiu ir nėra būtinybės ginti sąžiningo hipotekos kreditoriaus, viešame registre įregistruota hipoteka baigiama ir išregistruojama iš viešo registro pateikus įsiteisėjusį teismo sprendimą dėl hipotekos sandorio pripažinimo negaliojančiu.
 
 
 
 
-7. Pasibaigusi hipoteka išregistruojama iš Hipotekos registro. Hipotekos kreditoriaus, skolininko arba turto savininko prašymas dėl hipotekos pabaigos pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda Hipotekos registrui. Sąlyginė hipoteka, sudaryta siekiant įsigyti nuosavybės teise nekilnojamąjį daiktą Civilinio proceso kodekso VI dalyje nustatyta tvarka, išregistruojama iš Hipotekos registro pagal antstolio pranešimą, kad sąlyginę hipoteką sudaręs asmuo netapo šio turto savininku. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+7. Pasibaigusi hipoteka išregistruojama iš viešo registro. Hipotekos kreditoriaus, skolininko arba įkaito davėjo prašymas išregistruoti pasibaigusią hipoteką pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda viešam registrui. Šio straipsnio 2 dalies 1 punkte nustatytais pagrindais pasibaigusi hipoteka taip pat gali būti išregistruojama hipotekos kreditoriaus, skolininko arba įkaito davėjo prašymu, pateiktu informacinių technologijų priemonėmis viešam registrui šio registro nuostatų nustatyta tvarka (kai prašymą išregistruoti pasibaigusią hipoteką teikia skolininkas arba įkaito davėjas, hipotekos kreditorius privalo informacinių technologijų priemonėmis pateikti hipotekos pabaigos patvirtinimą). Sąlyginė hipoteka, sudaryta siekiant įsigyti nuosavybės teise nekilnojamąjį daiktą Civilinio proceso kodekso VI dalyje nustatyta tvarka, išregistruojama iš viešo registro pagal antstolio pranešimą, kad sąlyginę hipoteką sudaręs asmuo netapo šio turto savininku.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
  
-
-
-Straipsnio pakeitimai:
-Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
- 
-
-
 
 
 
@@ -21902,7 +21972,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 4.207 straipsnis. Įkeitimo teisės išlikimas, įkeistojo daikto nuosavybės teisei perėjus kitam asmeniui
 
 
-1. Įkeistojo daikto nuosavybės teisei perėjus iš įkaito davėjo kitam asmeniui, įkeitimas lieka galioti, kai įkeitimo objektas buvo perduotas įkaito turėtojui arba kai įkeitimo sandoris buvo įregistruotas Hipotekos registre, jeigu įstatymuose ar įkeitimo sandoryje nenustatyta kitaip. Ši taisyklė taip pat taikoma ir tais atvejais, kai įkeitimo objektas yra turtinės teisės.
+1. Įkeistojo daikto nuosavybės teisei perėjus iš įkaito davėjo kitam asmeniui, įkeitimas lieka galioti, kai įkeitimo objektas buvo perduotas įkaito turėtojui arba kai įkeitimo sandoris buvo įregistruotas viešame registre, jeigu įstatymuose ar įkeitimo sandoryje nenustatyta kitaip. Ši taisyklė taip pat taikoma ir tais atvejais, kai įkeitimo objektas yra turtinės teisės.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 
@@ -21933,29 +22006,36 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-4.209 straipsnis. Įkeitimo sandorio forma 
+4.209 straipsnis. Įkeitimo sandorio forma
 
 
-1. Kai įkeitimo objektas perduodamas kreditoriui, sudaromas rašytinis įkeitimo sandoris. Rašytinės formos nesilaikymas įkeitimo sandorį daro negaliojantį. 
-
-
-
-
-2. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, įkeitimo sandorį ir įkeitimo objekto savininko vienašalį pareiškimą įkeisti daiktus ar turtines teises tvirtina notaras ir jie registruojami Hipotekos registre. 
+1. Kai įkeitimo objektas perduodamas kreditoriui, sudaromas rašytinis įkeitimo sandoris. Šio sandorio pagrindu atsiradęs įkeitimas gali būti registruojamas viešame registre. Šioje dalyje nurodytas įkeitimo sandoris gali būti sudaromas informacinių technologijų priemonėmis, įregistruojant įkeitimą viešame registre šio registro nuostatų nustatyta tvarka. Rašytinės formos nesilaikymas įkeitimo sandorį daro negaliojantį.
 
 
 
 
-3. Įkeitimo sandoris gali būti sudaromas kaip atskiras sandoris arba susitarimas dėl įkeitimo gali būti įtrauktas į sandorį, iš kurio atsiranda pagrindinė prievolė.
+2. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, įkeitimo sandorį ir įkeitimo objekto savininko vienašalį pareiškimą įkeisti daiktus ar turtines teises tvirtina notaras, išskyrus šio straipsnio 3 dalyje nustatytą išimtį, ir jie registruojami viešame registre. 
 
 
 
 
-4. Įkeitimo sandorio šalys yra įkaito davėjas, skolininkas, kreditorius ir asmuo, kuriam perduotas įkeitimo objektas. Kai įkeitimo objektas įkeičiamas vienašaliu jo savininko pareiškimu, įkeitimo sandorio šalis yra tik įkaito davėjas.
+3. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, o kreditorius, skolininkas ir įkaito davėjas (kai skolininkas ir įkaito davėjas yra ne tas pats asmuo) yra juridiniai asmenys, įkeitimo sandoris, įkeitimo objekto savininko vienašalis pareiškimas įkeisti daiktus ar turtines teises taip pat gali būti sudaromi informacinių technologijų priemonėmis, įregistruojant įkeitimą viešame registre šio registro nuostatų nustatyta tvarka.
+
+
+
+
+4. Įkeitimo sandoris gali būti sudaromas kaip atskiras sandoris arba susitarimas dėl įkeitimo gali būti įtrauktas į sandorį, iš kurio atsiranda pagrindinė prievolė.
+
+
+
+
+5. Įkeitimo sandorio šalys yra įkaito davėjas, skolininkas, kreditorius ir asmuo, kuriam perduotas įkeitimo objektas. Kai įkeitimo objektas įkeičiamas vienašaliu jo savininko pareiškimu, įkeitimo sandorio šalis yra tik įkaito davėjas.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
+Straipsnio pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
  
 
 
@@ -21974,12 +22054,18 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-3. Tais atvejais, kai keliems kreditoriams atstovauja vienas atstovas, kreditorių susitarimu arba įkeičiamo daikto savininko vienašaliu pareiškimu įkeitimo sandoryje gali būti nustatyta, kad Hipotekos registre kaip kreditorius nurodomas tik kreditorių atstovas. Šiuo atveju Hipotekos registre turi būti nurodytas atstovavimo pagrindas.
+3. Tais atvejais, kai keliems kreditoriams atstovauja vienas atstovas, kreditorių susitarimu arba įkeičiamo daikto savininko vienašaliu pareiškimu įkeitimo sandoryje gali būti nustatyta, kad viešame registre kaip kreditorius nurodomas tik kreditorių atstovas. Šiuo atveju viešame registre turi būti nurodytas atstovavimo pagrindas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 
 
-4. Įkeitimo sandoryje, kurį vienašališkai surašo įkeičiamo daikto savininkas, kreditorius gali būti nenurodytas. Prieš sąžiningus trečiuosius asmenis pareikštinį įkeitimą galima naudoti nuo kreditoriaus nurodymo Hipotekos registre momento.
+4. Įkeitimo sandoryje, kurį vienašališkai surašo įkeičiamo daikto savininkas, kreditorius gali būti nenurodytas. Prieš sąžiningus trečiuosius asmenis pareikštinį įkeitimą galima naudoti nuo kreditoriaus nurodymo viešame registre momento.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 Straipsnio pakeitimai:
@@ -22015,7 +22101,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-2. Kai dėl to paties įkeitimo objekto yra sudaryti keli įkeitimo sandoriai, įregistruoti Hipotekos registre, pirmumo teisę turi anksčiau Hipotekos registre įregistruotu įkeitimo sandoriu užtikrintas reikalavimas.
+2. Kai dėl to paties įkeitimo objekto yra sudaryti keli įkeitimo sandoriai, įregistruoti viešame registre, pirmumo teisę turi anksčiau viešame registre įregistruotu įkeitimo sandoriu užtikrintas reikalavimas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 Straipsnio pakeitimai:
@@ -22033,7 +22122,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-2. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, prieš sąžiningus trečiuosius asmenis įkeitimas gali būti panaudotas tik tuo atveju, kai įkeitimo teisė įregistruota Hipotekos registro nuostatų nustatyta tvarka Hipotekos registre.
+2. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, prieš sąžiningus trečiuosius asmenis įkeitimas gali būti panaudotas tik tuo atveju, kai įkeitimo teisė įregistruota viešame registre šio registro nuostatų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 Straipsnio pakeitimai:
@@ -22200,7 +22292,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-2. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, įkeitimu užtikrintos reikalavimo teisės perleidimas gali būti panaudotas prieš trečiuosius asmenis nuo šios teisės perleidimo įregistravimo momento. Kai įkeitimo objektas perduodamas kreditoriui, įkeitimu užtikrintos reikalavimo teisės perleidimas gali būti panaudotas prieš trečiuosius asmenis nuo įkeitimo objekto valdymo perleidimo naujajam kreditoriui.
+2. Kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, įkeitimu užtikrintos reikalavimo teisės perleidimas gali būti panaudotas prieš trečiuosius asmenis nuo šios teisės perleidimo įregistravimo viešame registre momento. Kai įkeitimo objektas perduodamas kreditoriui, įkeitimu užtikrintos reikalavimo teisės perleidimas gali būti panaudotas prieš trečiuosius asmenis nuo įkeitimo objekto valdymo perleidimo naujajam kreditoriui.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 Straipsnio pakeitimai:
@@ -22253,7 +22348,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-3. Pasibaigęs įkeitimas, kai įkeitimo objektas perduodamas trečiajam asmeniui arba paliekamas įkaito davėjui, išregistruojamas iš Hipotekos registro. Kreditoriaus, skolininko arba turto savininko prašymas dėl įkeitimo pabaigos pateikiamas notarui, o šis duomenis apie įkeitimo pabaigą perduoda Hipotekos registrui.
+3. Pasibaigęs įkeitimas išregistruojamas iš viešo registro. Kreditorius, skolininkas arba įkaito davėjas prašymą išregistruoti pasibaigusį įkeitimą informacinių technologijų priemonėmis pateikia viešam registrui šio registro nuostatų nustatyta tvarka (kai prašymą išregistruoti pasibaigusį įkeitimą teikia skolininkas arba įkaito davėjas, kreditorius privalo informacinių technologijų priemonėmis pateikti įkeitimo pabaigos patvirtinimą). Kreditoriaus, skolininko arba įkaito davėjo prašymas išregistruoti pasibaigusį įkeitimą taip pat gali būti pateikiamas notarui, o šis duomenis apie įkeitimo pabaigą perduoda viešam registrui.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 
@@ -22291,7 +22389,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-5. Nuo vykdomojo įrašo įregistravimo Hipotekos registre dienos skolininkas (įkaito davėjas) turi teisę perleisti įkeistą turtą kreditoriaus sutikimu. Kreditorius, įsitikinęs skolininko (įkaito davėjo) pasiūlyto pirkėjo mokumu, privalo duoti sutikimą sudaryti perleidimo sandorį, jeigu įkeisto daikto pardavimo kaina atitinka įkeitimu užtikrinto pagrindinio reikalavimo ir iš šio reikalavimo atsirandančių palūkanų dydį.
+5. Nuo vykdomojo įrašo įregistravimo viešame registre dienos skolininkas (įkaito davėjas) turi teisę perleisti įkeistą turtą kreditoriaus sutikimu. Kreditorius, įsitikinęs skolininko (įkaito davėjo) pasiūlyto pirkėjo mokumu, privalo duoti sutikimą sudaryti perleidimo sandorį, jeigu įkeisto daikto pardavimo kaina atitinka įkeitimu užtikrinto pagrindinio reikalavimo ir iš šio reikalavimo atsirandančių palūkanų dydį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 
@@ -27506,7 +27607,10 @@ Reikalavimo perleidimo sutarties formai taikomi tokie pat reikalavimai kaip ir p
 
 
 
-2. Jeigu perleidžiamas reikalavimas, kurio įvykdymas užtikrintas įkeitimu (hipoteka), tai tokio reikalavimo perleidimas turi būti pažymimas hipotekos registre. Šiuo atveju pradinis kreditorius su naujuoju kreditoriumi privalo imtis priemonių, kad būtų padaryti atitinkami įrašai hipotekos registre.
+2. Jeigu perleidžiamas reikalavimas, kurio įvykdymas užtikrintas įkeitimu (hipoteka), tai tokio reikalavimo perleidimas turi būti pažymimas viešame registre. Šiuo atveju pradinis kreditorius su naujuoju kreditoriumi privalo imtis priemonių, kad būtų padaryti atitinkami įrašai viešame registre.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+ 
 
 
 
@@ -28795,10 +28899,12 @@ SUTARČIŲ SUDARYMAS
 6.166 straipsnis. Žinojimo prezumpcija
 
 
-Preziumuojama, kad oferta, akceptas, jų atšaukimas ar kitoks pranešimas tapo žinomi adresatui tuo momentu, kai jie pasiekė adresato gyvenamąją ar verslo vietą (buveinę), išskyrus atvejus, kai adresatas įrodo, kad ne dėl jo ar ne dėl jo darbuotojų kaltės jam nebuvo įmanoma gauti tokį pranešimą.
+Preziumuojama, kad oferta, akceptas, jų atšaukimas ar kitoks pranešimas tapo žinomi adresatui tuo momentu, kai jie pasiekė adresato gyvenamąją ar verslo vietą (buveinę) ar elektroninio pristatymo dėžutę, išskyrus atvejus, kai adresatas įrodo, kad ne dėl jo ar ne dėl jo darbuotojų kaltės jam nebuvo įmanoma gauti tokio pranešimo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
  
-
-
 
 
 
@@ -29288,7 +29394,10 @@ SUTARČIŲ GALIA IR FORMA
 
 
 
-2. Kai pagal įstatymus ar šalių susitarimą sutartis turi būti paprastos rašytinės formos, ji gali būti sudaroma tiek surašant vieną šalių pasirašomą dokumentą, tiek ir apsikeičiant raštais, telegramomis, telefonogramomis, telefakso pranešimais ar kitokiais telekomunikacijų galiniais įrenginiais perduodama informacija, jeigu yra užtikrinta teksto apsauga ir galima identifikuoti jį siuntusios šalies parašą.
+2. Kai pagal įstatymus ar šalių susitarimą sutartis turi būti paprastos rašytinės formos, ji gali būti sudaroma tiek surašant vieną šalių pasirašomą dokumentą, tiek ir apsikeičiant raštais ar telekomunikacijų galiniais įrenginiais perduodama informacija, jeigu yra užtikrinta teksto apsauga ir galima identifikuoti jį siuntusios šalies parašą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -30136,9 +30245,6 @@ VARTOJIMO SUTARTYS
 
 
 1. Vartojimo sutartimi verslininkas įsipareigoja perduoti vartotojui prekes nuosavybės teise arba suteikti paslaugas vartotojui, o vartotojas įsipareigoja priimti prekes ar paslaugas ir sumokėti jų kainą. Šio kodekso nustatytais atvejais vartojimo sutartimis laikomos ir kitos verslininko ir vartotojo sudarytos sutartys.
-Straipsnio dalies pakeitimai:
-Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
- 
 
 
 
@@ -30153,10 +30259,77 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 
 
-4. Šiame skyriuje preke laikomas materialus kilnojamasis daiktas, išskyrus daiktus, kurie yra realizuojami Civilinio proceso kodekso nustatyta tvarka vykdymo proceso metu, ir kitas įstatymų nustatytas išimtis. Elektros energija, vanduo ir gamtinės dujos taip pat laikomi prekėmis, jeigu parduodamas jų ribotas tūris arba nustatytas kiekis. Šio kodekso 6.2284 straipsnio tikslais preke laikomas ir nekilnojamasis daiktas, taip pat šilumos ir elektros energija, vanduo, gamtinės dujos. 
+4. Prekė:
+
+
+1) materialus kilnojamasis daiktas;
+
+
+
+
+2) elektros energija, vanduo ir gamtinės dujos, kai parduodamas ribotas jų tūris arba nustatytas kiekis;
+
+
+
+
+3) materialus kilnojamasis daiktas, į kurį įtrauktas skaitmeninis turinys ar skaitmeninė paslauga arba kuris yra su skaitmeniniu turiniu ar skaitmenine paslauga susietas taip, kad be jų negalėtų atlikti savo funkcijų (toliau – skaitmeninių elementų turinti prekė).
+
+
+
+
+
+
+5. Skaitmeninis turinys – skaitmenine forma sukurti ir pateikti duomenys.
+
+
+
+
+6. Skaitmeninė paslauga:
+
+
+1) paslauga, kuria vartotojui sudaromos sąlygos skaitmenine forma kurti, tvarkyti, saugoti duomenis arba turėti prieigą prie jų;
+
+
+
+
+2) paslauga, kuria sudaromos sąlygos skaitmenine forma dalytis duomenimis, kuriuos įkėlė arba sukūrė vartotojas ar kiti tos paslaugos naudotojai, arba atlikti kitus sąveikos su tais duomenimis veiksmus.
+
+
+
+
+
+
+7. Funkcionalumas – skaitmeninio turinio ar skaitmeninės paslaugos gebėjimas atlikti funkcijas pagal paskirtį.
+
+
+
+
+8. Integravimas – skaitmeninio turinio ar skaitmeninės paslaugos susiejimas su vartotojo skaitmeninės aplinkos komponentais ir įtraukimas į juos, kad būtų galima skaitmeninį turinį ar skaitmeninę paslaugą naudoti laikantis šiame skyriuje nustatytų skaitmeninio turinio ir skaitmeninių paslaugų kokybės reikalavimų.
+
+
+
+
+9. Sąveikumas – skaitmeninio turinio ar skaitmeninės paslaugos gebėjimas veikti su kita aparatine ar programine įranga negu ta, su kuria tos pačios rūšies skaitmeninis turinys ar skaitmeninės paslaugos paprastai yra naudojami.
+
+
+
+
+10. Skaitmeninė aplinka – aparatinė įranga, programinė įranga ir bet koks tinklo ryšys, naudojami vartotojo prieigai prie skaitmeninio turinio ar skaitmeninės paslaugos arba naudojimuisi jais.
+
+
+
+
+11. Skaitmeninio turinio ar skaitmeninės paslaugos kaina – pinigai arba skaitmeninis jų vertės atitikmuo už pateiktus skaitmeninį turinį ar skaitmeninę paslaugą.
+
+
+
+
+12. Suderinamumas – skaitmeninio turinio ar skaitmeninės paslaugos gebėjimas veikti su aparatine ar programine įranga, su kuria tos pačios rūšies skaitmeninis turinys ar skaitmeninės paslaugos yra paprastai naudojami, kai nėra būtinybės keisti skaitmeninio turinio ar skaitmeninės paslaugos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
  
-
-
 
 
 
@@ -30586,9 +30759,10 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 
 
-3) verslininko buveinės adresas ir, jei turi, telefono ryšio, fakso numeriai ir elektroninio pašto adresas, kuriais vartotojas gali susisiekti su verslininku, ir, jeigu reikalinga, duomenys apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu reikalinga, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso; 
+3) verslininko buveinės adresas, elektroninio pristatymo dėžutės adresas ir, jei turi, telefono ryšio, fakso numeriai ir elektroninio pašto adresas, kuriais vartotojas gali susisiekti su verslininku, ir, jeigu reikalinga, duomenys apie verslininką, kurio vardu veikiama (vardas ir pavardė ar pavadinimas, buveinės adresas). Verslininko ir, jeigu reikalinga, verslininko, kurio vardu veikiama, ekonominės veiklos vietos adresas, kuriuo vartotojas gali pateikti skundus, nurodomas, jeigu ekonominės veiklos vietos adresas skiriasi nuo buveinės adreso;
 Straipsnio punkto pakeitimai:
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
  
 
 
@@ -31054,18 +31228,25 @@ Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
 
 
 
-6.22812 straipsnis. Vartojimo sutarčių dėl skaitmeninio turinio teikimo ypatumai
+6.22812 straipsnis. Vartotojų teisės atsisakyti vartojimo sutarčių dėl skaitmeninio turinio teikimo ypatumai
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
-1. Vartojimo sutartimi dėl skaitmeninio turinio teikimo verslininkas įsipareigoja vartotojui suteikti patvariojoje laikmenoje neįrašytą skaitmeninį turinį (duomenis, kurie kuriami ir pateikiami skaitmenine forma). 
+1. Neteko galios nuo 2022-01-01. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2756, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26960
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
  
 
 
 
 
-2. Vartojimo sutartims dėl skaitmeninio turinio teikimo taikomos šio skyriaus nuostatos, jeigu šiame kodekse ar kituose įstatymuose nenustatyta kitaip.
+2. Neteko galios nuo 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
@@ -31144,12 +31325,18 @@ Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
 
 
 
-2. Kokybės garantija negali suvaržyti vartotojo teisių, nustatytų šio kodekso 6.363 straipsnyje. 
+2. Kokybės garantija negali suvaržyti vartotojo teisių, nustatytų šio kodekso 6.3641 straipsnyje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
 
-3. Kokybės garantija turi būti pateikta valstybine kalba. Joje turi būti nurodyta, kad kokybės garantija nevaržo vartotojo teisių įsigijus netinkamos kokybės prekę ar paslaugą, taip pat kokybės garantijoje aiškiai ir suprantamai turi būti nurodytas garantijos teikėjo pavadinimas ir buveinės adresas ir išdėstytos garantijos sąlygos, įskaitant trukmę, taikymo teritoriją, informaciją, reikalingą reikalavimams dėl garantijos pareikšti. 
+3. Kokybės garantija turi būti pateikta valstybine kalba. Joje turi būti nurodyta, kad kokybės garantija nevaržo vartotojo teisių įsigijus netinkamos kokybės prekę ar paslaugą, taip pat kokybės garantijoje aiškiai ir suprantamai turi būti nurodytas garantijos teikėjo pavadinimas, buveinės adresas, elektroninio pristatymo dėžutės adresas ir išdėstytos garantijos sąlygos, įskaitant trukmę, taikymo teritoriją, informaciją, reikalingą reikalavimams dėl garantijos pareikšti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -31192,9 +31379,582 @@ Jeigu verslininkas neįvykdo savo prievolių pagal vartojimo sutartį, nuostoli�
 
 
 3. Pareiga įrodyti, kad vartotojas išreiškė valią sudaryti vartojimo sutartį (užsakė prekes ar paslaugas) tenka verslininkui.
+
+
+
+
+
+
+6.22817 straipsnis. Vartojimo sutartys dėl skaitmeninio turinio ir skaitmeninių paslaugų teikimo
+
+
+1. Šio kodekso 6.22817–6.22824 straipsnių nuostatos taikomos sutartims, pagal kurias verslininkas teikia arba įsipareigoja teikti skaitmeninį turinį ar skaitmeninę paslaugą vartotojui, o vartotojas sumoka ar įsipareigoja sumokėti skaitmeninio turinio ar skaitmeninės paslaugos kainą. Šių straipsnių nuostatos taikomos ir tais atvejais, kai skaitmeninis turinys ar skaitmeninė paslauga yra kuriami pagal vartotojo nurodymus.
+
+
+
+
+2. Be to, šio kodekso 6.22817–6.22824 straipsnių nuostatos taikomos, kai verslininkas teikia arba įsipareigoja vartotojui teikti skaitmeninį turinį ar skaitmeninę paslaugą, o vartotojas verslininkui pateikia arba įsipareigoja pateikti asmens duomenis, išskyrus atvejus, kai tuos duomenis verslininkas tvarko tik siekdamas teikti skaitmeninį turinį ar skaitmeninę paslaugą arba užtikrinti teisės aktuose nustatytų reikalavimų įgyvendinimą ir netvarko tų duomenų jokiais kitais tikslais.
+
+
+
+
+3. Šio kodekso 6.22817–6.22824 straipsnių nuostatos taip pat taikomos fizinėms laikmenoms, kurios naudojamos tik kaip skaitmeninio turinio pateikimo priemonė, išskyrus šio kodekso 6.22818 straipsnį ir 6.22822 straipsnio 1, 2 ir 3 dalis.
+
+
+
+
+4. Šio kodekso 6.22817–6.22824 straipsnių nuostatos netaikomos skaitmeniniam turiniui ir skaitmeninėms paslaugoms, kurie yra įtraukti į skaitmeninių elementų turinčias prekes arba su jomis susieti ir teikiami kartu su šiomis prekėmis pagal tą pačią pirkimo–pardavimo sutartį, neatsižvelgiant į tai, ar skaitmeninį turinį arba skaitmeninę paslaugą teikia pardavėjas ar kitas asmuo. Kilus abejonių, ar į prekę įtraukto arba su ja susieto skaitmeninio turinio ar į prekę įtrauktos arba su ja susietos skaitmeninės paslaugos teikimas yra pirkimo–pardavimo sutarties dalykas, laikoma, kad pirkimo–pardavimo sutartis apima jų teikimą.
+
+
+
+
+5. Šio kodekso 6.22817–6.22824 straipsnių nuostatos netaikomos sutartims dėl:
+
+
+1) paslaugų, kurios nėra skaitmeninės paslaugos, teikimo, nors verslininkas naudoja skaitmenines formas ar skaitmenines priemones paslaugos rezultatui sukurti, pateikti arba perduoti vartotojui;
+
+
+
+
+2) elektroninių ryšių paslaugų, išskyrus su numeriu nesiejamas asmenų tarpusavio ryšio paslaugas, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme;
+
+
+
+
+3) sveikatos priežiūros paslaugų;
+
+
+
+
+4) nuotolinio lošimo paslaugų, sudarytų individualiu vartotojo prašymu;
+
+
+
+
+5) finansinių paslaugų;
+
+
+
+
+6) verslininko pagal laisvo naudojimo ir atvirojo kodo licenciją siūlomos programinės įrangos, kai vartotojas nemoka skaitmeninio turinio ar skaitmeninės paslaugos kainos ir jo pateiktus asmens duomenis verslininkas tvarko tik siekdamas pagerinti tos programinės įrangos saugumą, suderinamumą ar sąveikumą;
+
+
+
+
+7) skaitmeninio turinio teikimo, kai jis teikiamas visuomenei kitu – ne transliacijos signalu per pasirodymą ar renginį, pavyzdžiui, skaitmeninėmis kinematografijos projekcijomis;
+
+
+
+
+8) skaitmeninio turinio, kurį pateikė viešojo sektoriaus institucijos pagal Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymą.
+
+
+
+
+
+
+6. Jeigu pagal tą pačią vartojimo sutartį teikiami skaitmeninis turinys ar skaitmeninės paslaugos ir kitos paslaugos arba parduodama prekė, šio kodekso 6.22817–6.22824 straipsnių nuostatos taikomos tik sutarties daliai dėl skaitmeninio turinio ar skaitmeninės paslaugos teikimo.
+
+
+
+
+7. Jeigu kituose įstatymuose ar Europos Sąjungos teisės aktuose, reglamentuojančiuose asmens duomenų apsaugą, nustatytos kitokios negu šio kodekso 6.22817–6.22824 straipsnių normos, šių straipsnių normos taikomos tiek, kiek jos neprieštarauja asmens duomenų apsaugą reglamentuojančioms normoms.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
  
 
 
+
+
+6.22818 straipsnis. Skaitmeninio turinio ar skaitmeninių paslaugų teikimas
+
+
+1. Verslininkas skaitmeninį turinį ar skaitmeninę paslaugą turi pateikti vartotojui nedelsdamas po sutarties sudarymo, nebent sutarties šalys susitaria kitaip.
+
+
+
+
+2. Verslininko pareiga pateikti skaitmeninį turinį ar skaitmeninę paslaugą vartotojui yra įvykdyta, kai:
+
+
+1) vartotojui arba vartotojo tuo tikslu pasirinktam fiziniam ar virtualiam įrenginiui pateikiami ar padaromi prieinami skaitmeninis turinys ar bet kokios priemonės, tinkamos prieigai prie skaitmeninio turinio gauti arba jam atsisiųsti;
+
+
+
+
+2) vartotojui arba vartotojo tuo tikslu pasirinktam fiziniam ar virtualiam įrenginiui yra suteikta prieiga prie skaitmeninės paslaugos.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.22819 straipsnis. Skaitmeninio turinio ir skaitmeninių paslaugų kokybės reikalavimai
+
+
+1. Verslininkas privalo teikti vartotojui skaitmeninį turinį ar skaitmeninę paslaugą, atitinkančius šiame straipsnyje nustatytus reikalavimus.
+
+
+
+
+2. Skaitmeninis turinys ar skaitmeninė paslauga turi atitikti visus šiuos reikalavimus, jeigu jie yra taikytini:
+
+
+1) atitikti aprašymą, kiekį ir kokybę ir turėti funkcionalumo, suderinamumo, sąveikumo ir kitas savybes, kaip numatyta sutartyje;
+
+
+
+
+2) atitikti konkrečią paskirtį, dėl kurios vartotojui reikia skaitmeninio turinio ar skaitmeninės paslaugos, apie kurią vartotojas pranešė verslininkui vėliausiai tada, kai buvo sudaroma sutartis, ir dėl kurios verslininkas sutiko;
+
+
+
+
+3) būti pateikti kartu su visais priedais, instrukcijomis (įskaitant įdiegimo instrukcijas) ir pagalba vartotojui, kaip numatyta sutartyje;
+
+
+
+
+4) atnaujinami, kaip numatyta sutartyje.
+
+
+
+
+
+
+3. Skaitmeninis turinys arba skaitmeninė paslauga taip pat turi atitikti visus šiuos reikalavimus:
+
+
+1) atitikti paskirtį, dėl kurios tos pačios rūšies skaitmeninis turinys ar skaitmeninės paslaugos paprastai naudojami, atsižvelgiant į taikomas teisės normas, techninius standartus, o jeigu jų nėra, – į elgesio kodeksus;
+
+
+
+
+2) atitikti kiekį ir turėti tokias kokybės ir veikimo savybes (įskaitant su funkcionalumu, suderinamumu, prieinamumu, nuoseklumu ir saugumu susijusias savybes), kuriomis paprastai pasižymi tokios pat rūšies skaitmeninis turinys ar skaitmeninės paslaugos ir kurių vartotojas gali pagrįstai tikėtis atsižvelgiant į skaitmeninio turinio ar skaitmeninės paslaugos pobūdį ir į bet kokius verslininko ar kitų asmenų, dalyvavusių tiekimo grandinėje, arba jų vardu pateiktus viešus pareiškimus, visų pirma, reklamuojant turinį ar paslaugas arba juos ženklinant, išskyrus šio straipsnio 4 dalyje nurodytus atvejus;
+
+
+
+
+3) jeigu taikytina, turi būti pateikti kartu su visais priedais ir instrukcijomis, kurias gauti vartotojas gali pagrįstai tikėtis;
+
+
+
+
+4) atitikti verslininko iki sutarties sudarymo pateiktas skaitmeninio turinio ar skaitmeninės paslaugos bandomąsias arba demonstracines versijas.
+
+
+
+
+
+
+4. Šio straipsnio 3 dalies 2 punkte nurodyti vieši pareiškimai verslininko neįpareigoja, jeigu jis įrodo, kad yra bent viena iš šių sąlygų:
+
+
+1) verslininkas nežinojo ir dėl pagrįstos priežasties negalėjo žinoti apie viešą pareiškimą;
+
+
+
+
+2) iki sutarties sudarymo momento viešas pareiškimas buvo pataisytas tokiu pat ar panašiu būdu, kokiu buvo pateiktas;
+
+
+
+
+3) viešas pareiškimas negalėjo turėti įtakos vartotojo sprendimui įsigyti skaitmeninį turinį ar skaitmeninę paslaugą.
+
+
+
+
+
+
+5. Verslininkas turi užtikrinti, kad vartotojas būtų informuotas apie naujinius (įskaitant saugumo naujinius), kurie yra būtini siekiant užtikrinti skaitmeninio turinio ar skaitmeninės paslaugos tinkamą kokybę, ir kad šie naujiniai vartotojui būtų teikiami tokiu laikotarpiu:
+
+
+1) kurį pagal sutartį turi būti teikiamas skaitmeninis turinys ar skaitmeninė paslauga, kai sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikru laikotarpiu;
+
+
+
+
+2) kokio vartotojas gali pagrįstai tikėtis atsižvelgiant į skaitmeninio turinio ar skaitmeninės paslaugos rūšį ir paskirtį bei sutarties aplinkybes ir pobūdį, kai sutartyje numatyti vienkartinis skaitmeninio turinio ar skaitmeninės paslaugos teikimo veiksmas ar atskirų teikimo veiksmų seka.
+
+
+
+
+
+
+6. Jeigu vartotojas per protingą terminą neįdiegia verslininko pagal šio straipsnio 5 dalį pateiktų naujinių, verslininkas nėra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos trūkumus, kuriuos lemia tik naujinio neįdiegimas, jeigu yra abi šios sąlygos:
+
+
+1) verslininkas informavo vartotoją apie naujinio prieinamumą ir pasekmes jo neįdiegus;
+
+
+
+
+2) vartotojas neįdiegia naujinio arba jį įdiegia netinkamai ne dėl to, kad jam pateiktos netikslios įdiegimo instrukcijos.
+
+
+
+
+
+
+7. Jeigu sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, verslininkas yra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos tinkamą teikimą šiuo laikotarpiu.
+
+
+
+
+8. Jeigu sudarant sutartį vartotojas buvo aiškiai informuotas apie tai, kad konkreti skaitmeninio turinio ar skaitmeninės paslaugos savybė neatitinka šio straipsnio 3, 4 ar 5 dalyje nustatytų reikalavimų, ir vartotojas, sudarydamas sutartį, aiškiai ir atskirai su tuo sutiko, laikoma, kad skaitmeninis turinys ar skaitmeninė paslauga yra tinkamos kokybės.
+
+
+
+
+9. Jeigu sutarties šalys nesusitaria kitaip, turi būti pateikta skaitmeninio turinio ar skaitmeninės paslaugos naujausia versija, prieinama sutarties sudarymo momentu.
+
+
+
+
+10. Verslininkas yra atsakingas už trūkumus, atsiradusius dėl skaitmeninio turinio ar skaitmeninės paslaugos netinkamo integravimo į vartotojo skaitmeninę aplinką, šiais atvejais:
+
+
+1) skaitmeninio turinio ar skaitmeninės paslaugos integravimą atliko verslininkas arba jis už tai yra atsakingas;
+
+
+
+
+2) skaitmeninio turinio ar skaitmeninės paslaugos integravimą turėjo atlikti vartotojas ir netinkamas integravimas buvo atliktas dėl netikslių instrukcijų, kurias pateikė verslininkas.
+
+
+
+
+
+
+11. Jeigu dėl kitų asmenų intelektinės nuosavybės teisių ar kitų teisių pažeidimo panaikinama ar apribojama vartotojo galimybė naudotis skaitmeniniu turiniu ar skaitmenine paslauga, vartotojas gali ginti savo teises vadovaudamasis  šio kodekso 6.22822 straipsnio 4–9 dalių nuostatomis.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.22820 straipsnis. Garantija pagal įstatymą
+
+
+1. Verslininkas yra atsakingas vartotojui, jeigu skaitmeninis turinys ar skaitmeninė paslauga nebuvo pateikti pagal šio kodekso 6.22818 straipsnyje nustatytus reikalavimus.
+
+
+
+
+2. Jeigu sutartyje numatyti vienkartinis skaitmeninio turinio ar skaitmeninės paslaugos teikimo veiksmas ar atskirų teikimo veiksmų seka, verslininkas yra atsakingas už bet kokią skaitmeninio turinio ar skaitmeninės paslaugos neatitiktį šio kodekso 6.22819 straipsnyje nustatytiems reikalavimams, kuri buvo skaitmeninio turinio ar skaitmeninės paslaugos pateikimo metu ir paaiškėjo ne vėliau kaip per dvejus metus nuo pateikimo momento.
+
+
+
+
+3. Jeigu sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, verslininkas yra atsakingas už bet kokią skaitmeninio turinio ar skaitmeninės paslaugos neatitiktį šio kodekso 6.22819 straipsnyje nustatytiems reikalavimams, kuri atsirado ar paaiškėjo sutartyje numatytu skaitmeninio turinio ar skaitmeninės paslaugos teikimo laikotarpiu.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.22821 straipsnis. Pareiga įrodyti
+
+
+1. Pareiga įrodyti, kad skaitmeninis turinys arba skaitmeninė paslauga buvo pateikti laikantis šio kodekso 6.22818 straipsnyje nustatytų reikalavimų, tenka verslininkui.
+
+
+
+
+2. Jeigu sutartyje numatyti vienkartinis skaitmeninio turinio ar skaitmeninės paslaugos teikimo veiksmas ar atskirų teikimo veiksmų seka ir per vienerius metus nuo skaitmeninio turinio ar skaitmeninės paslaugos pateikimo momento paaiškėja netinkama jų kokybė, pareiga įrodyti, kad skaitmeninis turinys ar skaitmeninė paslauga jų pateikimo metu atitiko kokybės reikalavimus, tenka verslininkui.
+
+
+
+
+3. Jeigu sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį ir per jį paaiškėja netinkama skaitmeninio turinio ar skaitmeninės paslaugos kokybė, pareiga įrodyti, kad skaitmeninis turinys ar skaitmeninė paslauga sutartyje numatytu laikotarpiu atitinka kokybės reikalavimus, tenka verslininkui. 
+
+
+
+
+4. Šio straipsnio 2 ir 3 dalių nuostatos netaikomos, jeigu verslininkas įrodo, kad vartotojo skaitmeninė aplinka yra nesuderinama su skaitmeninio turinio ar skaitmeninės paslaugos techniniais reikalavimais, ir jeigu jis aiškiai ir suprantamai informavo vartotoją apie tokius reikalavimus iki sutarties sudarymo.
+
+
+
+
+5. Vartotojas turi bendradarbiauti su verslininku tiek, kiek tai pagrįstai įmanoma ir būtina siekiant išsiaiškinti, ar skaitmeninio turinio ar skaitmeninės paslaugos trūkumo, paaiškėjusio šio kodekso 6.22820 straipsnio 2 ar 3 dalyje nurodytu laikotarpiu, priežastis yra susijusi su vartotojo skaitmenine aplinka. Vartotojo pareiga bendradarbiauti apima bendradarbiavimą tik techniškai prieinamomis priemonėmis, dėl kurių vartotojas patiria mažiausiai suvaržymų. Jeigu vartotojas nebendradarbiauja, o verslininkas iki sutarties sudarymo aiškiai ir suprantamai jį informavo apie reikalavimą bendradarbiauti, pareiga įrodyti skaitmeninio turinio ar skaitmeninės paslaugos netinkamą kokybę tenka vartotojui.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.22822 straipsnis. Vartotojo teisės skaitmeninio turinio ar skaitmeninės paslaugos neteikimo ar netinkamos kokybės atvejais
+
+
+1. Jeigu verslininkas neįvykdo savo pareigos teikti skaitmeninį turinį ar skaitmeninę paslaugą pagal šio kodekso 6.22818 straipsnį, vartotojas pateikia verslininkui reikalavimą teikti skaitmeninį turinį ar skaitmeninę paslaugą. Jeigu pateikus šį reikalavimą verslininkas neteikia skaitmeninio turinio ar skaitmeninės paslaugos nedelsdamas ar per sutarties šalių aiškiai sutartą papildomą terminą, vartotojas turi teisę vienašališkai nutraukti sutartį.
+
+
+
+
+2. Šio straipsnio 1 dalies nuostatos netaikomos ir vartotojas turi teisę nedelsdamas vienašališkai nutraukti sutartį, jeigu:
+
+
+1) verslininkas pareiškė arba, atsižvelgiant į aplinkybes, yra aišku, kad jis skaitmeninio turinio ar skaitmeninės paslaugos neteiks;
+
+
+
+
+2) vartotojas ir verslininkas susitarė arba, atsižvelgiant į su sutarties sudarymu susijusias aplinkybes, yra aišku, kad skaitmeninio turinio ar skaitmeninės paslaugos teikimas per sutartyje nustatytą terminą turi esminės reikšmės vartotojui, o verslininkas per nustatytą terminą jų neteikė.
+
+
+
+
+
+
+3. Vartotojui nutraukiant sutartį šio straipsnio 1 ar 2 dalyje numatytais pagrindais, taikomos šio kodekso 6.22823 straipsnio nuostatos.
+
+
+
+
+4. Jeigu skaitmeninis turinys ar skaitmeninė paslauga neatitinka šio kodekso 6.22819 straipsnyje nustatytų reikalavimų, vartotojas pagal šio straipsnio nuostatas turi teisę į tai, kad skaitmeninio turinio ar skaitmeninės paslaugos teikimo trūkumai būtų ištaisyti, sumažinta skaitmeninio turinio ar skaitmeninės paslaugos kaina arba vienašališkai nutraukta sutartis.
+
+
+
+
+5. Vartotojas turi teisę į skaitmeninio turinio ar skaitmeninės paslaugos teikimo trūkumų ištaisymą, išskyrus atvejus, kai to neįmanoma padaryti arba jeigu dėl to verslininkas patirtų neproporcingų išlaidų, atsižvelgiant į visas aplinkybes, įskaitant:
+
+
+1) skaitmeninio turinio ar skaitmeninės paslaugos vertę, jeigu nebūtų trūkumų;
+
+
+
+
+2) trūkumų reikšmingumą.
+
+
+
+
+
+
+6. Verslininkas privalo ištaisyti skaitmeninio turinio ar skaitmeninės paslaugos trūkumus laikydamasis visų šių reikalavimų:
+
+
+1) per protingą terminą nuo momento, kai vartotojas informavo verslininką apie trūkumus;
+
+
+
+
+2) nemokamai;
+
+
+
+
+3) nesukeldamas vartotojui didelių nepatogumų atsižvelgiant į skaitmeninio turinio ar skaitmeninės paslaugos pobūdį ir paskirtį, dėl kurios vartotojui reikalingi skaitmeninis turinys ar skaitmeninė paslauga.
+
+
+
+
+
+
+7. Vartotojas turi teisę į skaitmeninio turinio ar skaitmeninės paslaugos kainos sumažinimą, kai skaitmeninis turinys ar skaitmeninė paslauga teikiami už skaitmeninio turinio ar skaitmeninės paslaugos kainą, arba teisę į vienašališką sutarties nutraukimą bet kuriuo iš šių atvejų:
+
+
+1) neįmanoma ištaisyti skaitmeninio turinio ar skaitmeninės paslaugos trūkumų arba dėl to verslininkas patirtų neproporcingų išlaidų atsižvelgiant į visas aplinkybes;
+
+
+
+
+2) verslininkas neištaisė skaitmeninio turinio ar skaitmeninės paslaugos trūkumų pagal šio straipsnio 6 dalį;
+
+
+
+
+3) skaitmeninio turinio ar skaitmeninės paslaugos trūkumų atsirado po to, kai verslininkas bandė užtikrinti tinkamą skaitmeninio turinio ar skaitmeninės paslaugos kokybę;
+
+
+
+
+4) trūkumas yra esminis;
+
+
+
+
+5) verslininkas pareiškė arba iš aplinkybių yra aišku, kad jis per protingą terminą neištaisys skaitmeninio turinio ar skaitmeninės paslaugos trūkumų arba tai sukels didelių nepatogumų vartotojui.
+
+
+
+
+
+
+8. Skaitmeninio turinio ar skaitmeninės paslaugos kainos sumažinimas turi būti proporcingas vartotojui teikiamų skaitmeninio turinio ar skaitmeninės paslaugos vertės sumažėjimui, palyginti su skaitmeninio turinio ar skaitmeninės paslaugos verte, kurią jie turėtų, jeigu būtų tinkamos kokybės. Tais atvejais, kai sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį ir vartotojas moka skaitmeninio turinio ar skaitmeninės paslaugos kainą, ji sumažinama už skaitmeninio turinio ar skaitmeninės paslaugos teikimą laikotarpiu, kurį nebuvo užtikrinta tinkama skaitmeninio turinio ar skaitmeninės paslaugos kokybė.
+
+
+
+
+9. Vartotojas turi teisę nutraukti sutartį, kurioje numatyta jo pareiga sumokėti skaitmeninio turinio ar skaitmeninės paslaugos kainą už skaitmeninio turinio ar skaitmeninės paslaugos teikimą, tik tuo atveju, kai trūkumas nėra nedidelis. Pareiga įrodyti, kad trūkumas yra nedidelis, tenka verslininkui. 
+
+
+
+
+10. Vartotojas turi teisę sustabdyti skaitmeninio turinio ar skaitmeninės paslaugos kainos ar jos dalies mokėjimą, iki verslininkas ištaisys skaitmeninio turinio ar skaitmeninės paslaugos trūkumus.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.22823 straipsnis. Sutarties nutraukimas
+
+
+1. Šis straipsnis taikomas, kai vartotojas nutraukia sutartį vadovaudamasis šio kodekso 6.22822 straipsnio 1, 2 ar 7 dalies arba 6.22824 straipsnio nuostatomis.
+
+
+
+
+2. Vartotojas savo teisę nutraukti sutartį įgyvendina pateikdamas verslininkui pareiškimą, kuriame išreiškiamas jo sprendimas nutraukti sutartį.
+
+
+
+
+3. Nutraukus sutartį, verslininkas turi grąžinti vartotojui visas šio pagal sutartį sumokėtas sumas. Kai sutartyje numatytas skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį ir vartotojas moka skaitmeninio turinio ar skaitmeninės paslaugos kainą, jeigu iki sutarties nutraukimo skaitmeninis turinys ar skaitmeninė paslauga tam tikrą laikotarpį buvo teikiami tinkamos kokybės, verslininkas vartotojui turi grąžinti sumokėtos kainos dalį, proporcingą laikotarpiui, kurį skaitmeninis turinys ar skaitmeninė paslauga buvo netinkamos kokybės, ir kitą vartotojo iš anksto sumokėtos kainos dalį už likusį sutarties, jeigu ji nebūtų buvusi nutraukta, laikotarpį.
+
+
+
+
+4. Nutraukus sutartį, verslininkas turi laikytis įstatymuose ir Europos Sąjungos teisės aktuose, reglamentuojančiuose asmens duomenų apsaugą, nustatytų vartotojo asmens duomenų apsaugos reikalavimų.
+
+
+
+
+5. Verslininkas turi nenaudoti bet kokio skaitmeninio turinio, kurį vartotojas pateikė ar sukūrė naudodamas verslininko pateiktą skaitmeninį turinį ar skaitmeninę paslaugą ir kuris nelaikomas asmens duomenimis, išskyrus atvejus, kai toks turinys:
+
+
+1) negali būti panaudotas kitoje aplinkoje negu verslininko suteikti skaitmeninis turinys ar skaitmeninė paslauga;
+
+
+
+
+2) susijęs tik su vartotojo veikla naudojantis verslininko suteiktais skaitmeniniu turiniu ar skaitmenine paslauga;
+
+
+
+
+3) buvo susietas su kitais duomenimis ir negali būti atsietas arba atsiejimas sukeltų neproporcingų išlaidų;
+
+
+
+
+4) buvo sukurtas vartotojo kartu su kitais asmenimis ir kiti vartotojai gali toliau naudotis turiniu.
+
+
+
+
+
+
+6. Verslininkas, gavęs vartotojo prašymą, turi padaryti prieinamą vartotojui skaitmeninį turinį, kurį vartotojas pateikė ar sukūrė naudodamas verslininko teikiamus skaitmeninį turinį ar skaitmeninę paslaugą ir kuris nėra laikomas asmens duomenimis, išskyrus šio straipsnio 5 dalies 1, 2 ir 3 punktuose numatytus atvejus. Vartotojas turi teisę šį skaitmeninį turinį atgauti nemokamai, verslininkui nesudarant kliūčių, per protingą terminą ir įprastai naudojamu kompiuterio skaitomu formatu. 
+
+
+
+
+7. Nutraukus sutartį, verslininkas turi teisę apriboti vartotojo galimybę toliau naudotis skaitmeniniu turiniu ar skaitmenine paslauga nebesuteikdamas vartotojui prieigos prie skaitmeninio turinio ar skaitmeninės paslaugos, deaktyvuodamas vartotojo paskyrą ar kitu būdu.
+
+
+
+
+8. Nutraukus sutartį, vartotojas turi nesinaudoti skaitmeniniu turiniu ar skaitmenine paslauga ir nesuteikti galimybės jais naudotis kitiems asmenims.
+
+
+
+
+9. Jeigu skaitmeninis turinys buvo pateiktas fizinėje laikmenoje, vartotojas, gavęs verslininko prašymą, turi nedelsdamas grąžinti fizinę laikmeną verslininkui. Grąžinimo išlaidos tenka verslininkui. Verslininkas turi teisę pateikti prašymą grąžinti fizinę laikmeną per keturiolika dienų nuo dienos, kurią verslininkas gavo vartotojo sprendimą nutraukti sutartį.
+
+
+
+
+10. Vartotojas neturi mokėti už skaitmeninio turinio ar skaitmeninės paslaugos naudojimą laikotarpiu iki sutarties nutraukimo, kuriuo skaitmeninis turinys ar skaitmeninė paslauga buvo netinkamos kokybės.
+
+
+
+
+11. Verslininkas turi grąžinti vartotojui sumą dėl skaitmeninio turinio ar skaitmeninės paslaugos kainos sumažinimo arba sutarties nutraukimo ne vėliau kaip per keturiolika dienų nuo dienos, kurią verslininkas buvo informuotas apie vartotojo sprendimą reikalauti sumažinti kainą arba nutraukti sutartį.
+
+
+
+
+12. Grąžinti vartotojui visas sumokėtas sumas verslininkas turi tokiu pačiu mokėjimo būdu, kokį naudojo vartotojas mokėdamas už skaitmeninį turinį ar skaitmeninę paslaugą, nebent vartotojas aiškiai sutinka dėl kitokio būdo ir dėl to jis nepatiria jokių papildomų išlaidų.
+
+
+
+
+13. Draudžiama verslininkui reikalauti iš vartotojo bet kokio užmokesčio už vartotojo sumokėtų sumų grąžinimą.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.22824 straipsnis. Skaitmeninio turinio ar skaitmeninės paslaugos pakeitimas
+
+
+1. Jeigu sutartyje numatyta, kad skaitmeninis turinys ar skaitmeninė paslauga turi būti teikiami ar padaromi prieinami vartotojui tam tikrą laikotarpį, verslininkas turi teisę pakeisti skaitmeninį turinį ar skaitmeninę paslaugą daugiau, negu tai yra būtina skaitmeninio turinio ar skaitmeninės paslaugos tinkamai kokybei užtikrinti, kai yra visos šios sąlygos:
+
+
+1) sutartyje leidžiama tai daryti ir yra nurodyta pagrįsta pakeitimo priežastis;
+
+
+
+
+2) pakeitimas nelemia papildomų vartotojo išlaidų;
+
+
+
+
+3) vartotojui aiškiai ir suprantamai pranešama apie pakeitimą;
+
+
+
+
+4) šio straipsnio 2 dalyje nurodytais atvejais vartotojui patvariojoje laikmenoje pakankamai iš anksto suteikiama informacija apie pakeitimo ypatybes ir laiką, taip pat apie vartotojo teisę nutraukti sutartį vadovaujantis šio straipsnio 2 dalimi arba apie teisę išlaikyti skaitmeninį turinį ar skaitmeninę paslaugą be pakeitimų pagal šio straipsnio 3 dalį.
+
+
+
+
+
+
+2. Vartotojas turi teisę nutraukti sutartį, jeigu skaitmeninio turinio ar skaitmeninės paslaugos pakeitimas daro neigiamą poveikį jo prieigai prie skaitmeninio turinio ar skaitmeninės paslaugos arba naudojimuisi jais, išskyrus atvejus, kai neigiamas poveikis yra nedidelis.  Vartotojas turi teisę nutraukti sutartį per trisdešimt dienų nuo šio straipsnio 1 dalies 4 punkte nurodytos informacijos gavimo dienos arba nuo momento, kai buvo pakeisti skaitmeninis turinys ar skaitmeninė paslauga, atsižvelgiant į tai, kas įvyko vėliau, ir nepatirti išlaidų. Vartotojui nutraukus sutartį, taikomos šio kodekso 6.22823 straipsnio nuostatos.
+
+
+
+
+3. Šio straipsnio 2 dalies nuostatos netaikomos, jeigu verslininkas suteikia vartotojui galimybę nepatiriant papildomų išlaidų išlaikyti nepakeistą skaitmeninį turinį ar skaitmeninę paslaugą ir yra užtikrinama tinkama skaitmeninio turinio ar skaitmeninės paslaugos kokybė.
+
+
+
+
+4. Šio straipsnio nuostatos netaikomos tais atvejais, kai pagal tą pačią vartojimo sutartį teikiami skaitmeninis turinys ar skaitmeninė paslauga ir interneto prieigos paslauga arba su numeriu siejama asmenų tarpusavio ryšių paslauga.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
@@ -34166,6 +34926,84 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 
 
+6.3501 straipsnis. Taikymo ribos
+
+
+1. Šio skirsnio nuostatos taikomos vartojimo pirkimo–pardavimo sutartims, įskaitant sutartis dėl prekių, kurios turi būti pagamintos.
+
+
+
+
+2. Šio skirsnio nuostatos netaikomos sutartims dėl skaitmeninio turinio ar skaitmeninės paslaugos teikimo, išskyrus skaitmeninį turinį ir skaitmenines paslaugas, kurie atitinka šiuos reikalavimus: 
+
+
+1) yra įtraukti į skaitmeninių elementų turinčią prekę arba su ja susieti taip, kad be skaitmeninio turinio ar skaitmeninės paslaugos ši prekė negalėtų atlikti savo funkcijų;
+
+
+
+
+2) teikiami kartu su skaitmeninių elementų turinčia preke pagal tą pačią pirkimo–pardavimo sutartį, neatsižvelgiant į tai, ar skaitmeninį turinį ar skaitmeninę paslaugą teikia pardavėjas ar kitas asmuo. Kilus abejonių, ar į prekę įtraukto arba su ja susieto skaitmeninio turinio ar į prekę įtrauktos arba su ja susietos skaitmeninės paslaugos teikimas yra  pirkimo–pardavimo sutarties dalykas, laikoma, kad pirkimo–pardavimo sutartis apima jų teikimą.
+
+
+
+
+
+
+3. Šio skirsnio nuostatos netaikomos:
+
+
+1) fizinėms laikmenoms, naudojamoms tik kaip skaitmeninio turinio pateikimo priemonė;
+
+
+
+
+2) prekėms, kurios realizuojamos Civilinio proceso kodekso nustatyta tvarka vykdymo proceso metu, ir kitais įstatymų nustatytais atvejais;
+
+
+
+
+3) naudotų prekių pirkimui–pardavimui viešajame aukcione;
+
+
+
+
+4) gyvų gyvūnų pirkimui–pardavimui.
+
+
+
+
+
+
+4. Šiame skirsnyje:
+
+
+1) funkcionalumas – prekių gebėjimas atlikti funkcijas pagal paskirtį;
+
+
+
+
+2) suderinamumas – prekių gebėjimas veikti su aparatine ar programine įranga, su kuria tos pačios rūšies prekės yra paprastai naudojamos, kai nėra būtinybės keisti prekių, aparatinės ar programinės įrangos;
+
+
+
+
+3) sąveikumas – prekių gebėjimas veikti su kita aparatine ar programine įranga negu ta, su kuria tos pačios rūšies prekės yra paprastai naudojamos;
+
+
+
+
+4) patvarumas – prekių, kai jos naudojamos įprastai, gebėjimas išlaikyti savo reikalingas funkcijas ir veikimo savybes.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
 6.351 straipsnis. Vartojimo pirkimo–pardavimo sutarties forma
 
 
@@ -34498,150 +35336,397 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 
 
 
-6.363 straipsnis. Daikto kokybė (atitiktis sutarčiai) ir pirkėjo teisės, kai jam parduotas netinkamos kokybės daiktas
+6.363 straipsnis. Prekių kokybės reikalavimai
 
 
-1. Laikoma, kad pardavėjas visais atvejais garantuoja daiktų kokybę (garantija pagal įstatymą). 
+1. Pardavėjas privalo pristatyti vartotojui šiame straipsnyje nustatytus reikalavimus atitinkančias prekes.
 
 
 
 
-2. Parduodamas daiktas turi būti tinkamos kokybės, t. y. daikto savybės turi atitikti vartojimo pirkimo–pardavimo sutartį. Pardavėjas atsako pirkėjui už bet kokią daikto neatitiktį sutarčiai, esančią daikto perdavimo metu.
+2. Prekės turi atitikti visus šiuos reikalavimus, jeigu jie yra taikytini:
 
 
+1) atitikti aprašymą, rūšį, kiekį ir kokybę ir turėti funkcionalumo, suderinamumo, sąveikumo ir kitas savybes, kaip numatyta pirkimo–pardavimo sutartyje;
 
 
-3. Daikto savybės atitinka sutartį, jeigu:
 
 
-1) daiktas atitinka pardavėjo pateiktą aprašymą ir turi tokias savybes kaip ir daiktas, kurį pardavėjas pateikė kaip pavyzdį ar modelį;
+2) atitikti bet kokią konkrečią paskirtį, dėl kurios vartotojui reikia šių prekių, apie kurią vartotojas pranešė pardavėjui vėliausiai pirkimo–pardavimo sutarties sudarymo metu ir dėl kurios pardavėjas sutiko;
 
 
 
 
-2) daiktas tinka naudoti tam, kam tokios rūšies daiktai paprastai naudojami;
+3) būti pristatytos su visais priedais ir instrukcijomis (įskaitant įdiegimo instrukcijas), kaip numatyta pirkimo–pardavimo sutartyje;
 
 
 
 
-3) daiktas tinka naudoti pagal konkrečią paskirtį, apie kurią pirkėjas pranešė pardavėjui sutarties sudarymo metu ir su kuria pardavėjas sutiko;
+4) būti tiekiamos su naujiniais, kaip numatyta pirkimo–pardavimo sutartyje.
 
 
 
 
-4) daiktas atitinka kokybės rodiklius, kurie paprastai yra būdingi to paties pobūdžio daiktams ir kurių pirkėjas gali pagrįstai tikėtis pagal daikto pobūdį ir daikto gamintojo, jo atstovo ar pardavėjo viešai paskelbtus pareiškimus, įskaitant reklamą ir daiktų ženklinimą, dėl daikto konkrečių savybių.
 
 
+3. Prekės taip pat turi atitikti visus šiuos reikalavimus:
 
 
+1) atitikti paskirtį, dėl kurios tos rūšies prekės paprastai naudojamos, atsižvelgiant į taikomas teisės normas, techninius standartus, o jeigu jų nėra, – į elgesio kodeksus;
 
 
-4. Pardavėjo neįpareigoja šio straipsnio 3 dalies 4 punkte nurodyti vieši pareiškimai, jeigu jis įrodo, kad: 
 
 
-1) apie atitinkamą pareiškimą nežinojo ir negalėjo žinoti;
+2) kai taikytina, būti tokios kokybės kaip pavyzdys ar modelis, kurį pardavėjas vartotojui pateikė iki sutarties sudarymo, ir atitikti to pavyzdžio ar modelio aprašymą;
 
 
 
 
-2) pareiškimas buvo ištaisytas iki sutarties sudarymo momento; 
+3) kai taikytina, būti pristatytos kartu su tokiais priedais (įskaitant pakuotę, įdiegimo ar kitas instrukcijas), kuriuos gauti vartotojas gali pagrįstai tikėtis;
 
 
 
 
-3) sprendimui pirkti daiktą pareiškimas negalėjo turėti įtakos.
+4) atitikti kiekį ir turėti tokias savybes (įskaitant su patvarumu, funkcionalumu, suderinamumu ir saugumu susijusias savybes) ir ypatybes, kuriomis paprastai pasižymi tokios pat rūšies prekės ir kurių vartotojas gali pagrįstai tikėtis atsižvelgiant į prekių pobūdį ir į bet kokius pardavėjo ar kitų asmenų (įskaitant gamintoją) arba jų vardu pateiktus viešus pareiškimus, visų pirma, prekes reklamuojant ar jas ženklinant.
 
 
 
 
 
 
-5. Jeigu sutarties sudarymo metu pirkėjas žinojo arba negalėjo nežinoti apie tai, kad daiktas neatitinka sutarties, arba jeigu ši neatitiktis atsirado dėl pirkėjo pateiktų medžiagų, laikoma, kad daiktas buvo tinkamos kokybės. 
+4. Šio straipsnio 3 dalies 4 punkte nurodyti vieši pareiškimai pardavėjo neįpareigoja, jeigu jis įrodo, kad yra bent viena iš šių sąlygų:
 
 
+1) pardavėjas nežinojo ir dėl pagrįstos priežasties negalėjo žinoti apie viešą pareiškimą;
 
 
-6. Jeigu pirkimo–pardavimo sutartyje numatytas daikto instaliavimas, įrengimas ar montavimas ir daiktą instaliavo, įrengė ar sumontavo pardavėjas arba jo pasitelkti tretieji asmenys, bet koks dėl netinkamo daikto instaliavimo, įrengimo ar montavimo atsiradęs trūkumas prilyginamas daikto kokybės trūkumui. Ši taisyklė taip pat taikoma ir tais atvejais, kai daiktą turi instaliuoti, įrengti ar montuoti pirkėjas ir netinkamo instaliavimo, įrengimo ar montavimo priežastis yra instrukcijos trūkumai.
 
 
+2) iki sutarties sudarymo momento viešas pareiškimas buvo pataisytas tokiu pat ar panašiu būdu, kokiu buvo pateiktas;
 
 
-7. Pirkėjas, kuriam buvo parduotas netinkamos kokybės daiktas, savo pasirinkimu turi teisę per šio kodekso 6.338 straipsnyje nurodytą terminą:
 
 
-1) reikalauti iš pardavėjo nemokamai pašalinti daikto trūkumus (pataisyti daiktą);
+3) viešas pareiškimas negalėjo turėti įtakos vartotojo sprendimui įsigyti prekę.
 
 
 
 
-2) reikalauti iš pardavėjo nemokamai pakeisti netinkamos kokybės daiktą tinkamos kokybės daiktu;
 
 
+5. Skaitmeninių elementų turinčių prekių pardavėjas turi užtikrinti, kad vartotojas būtų informuotas apie naujinius (įskaitant su saugumu susijusius naujinius), kurie yra būtini siekiant užtikrinti tinkamą šių prekių kokybę, ir kad šie naujiniai būtų teikiami:
 
 
-3) reikalauti iš pardavėjo atitinkamai sumažinti kainą;
+1) tokį laikotarpį, kokio vartotojas gali pagrįstai tikėtis atsižvelgiant į prekės rūšį ir paskirtį, skaitmeninius elementus bei sutarties aplinkybes ir pobūdį, kai pirkimo–pardavimo sutartyje numatytas vienkartinis skaitmeninio turinio ar skaitmeninės paslaugos teikimo veiksmas;
 
 
 
 
-4) vienašališkai nutraukti sutartį ir pareikalauti sugrąžinti sumokėtą kainą.
+2) šio kodekso 6.364 straipsnio 2 dalyje nurodytą laikotarpį, kai pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį.
 
 
 
 
 
 
-8. Pirkėjas neturi teisės nutraukti sutarties, jeigu daikto trūkumas yra mažareikšmis. Pirkėjui nutraukus sutartį dėl daikto netinkamos kokybės, pardavėjas privalo nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo daikto grąžinimo dienos, grąžinti sumokėtą kainą. Netinkamos kokybės daikto grąžinimo išlaidos tenka pardavėjui. Pardavėjas, grąžindamas pirkėjui sumokėtą kainą, neturi teisės iš jos išskaičiuoti sumą, kuria sumažėjo daikto vertė dėl jo naudojimo ar daikto išvaizdos praradimo arba dėl kitokių aplinkybių.
-TAR pastaba. Nustatytas keturiolikos dienų terminas taikomas po įstatymo Nr. XIII-64 įsigaliojimo (2017-11-01) sudarytoms vartojimo pirkimo–pardavimo sutartims.
-Straipsnio dalies pakeitimai:
-Nr. XIII-64, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29145
- 
+6. Jeigu vartotojas per protingą terminą neįdiegia pagal šio straipsnio 5 dalį pateiktų naujinių, pardavėjas nėra atsakingas už trūkumus, kuriuos lemia tik naujinio neįdiegimas, jeigu yra abi šios sąlygos:
 
 
+1) pardavėjas informavo vartotoją apie naujinio prieinamumą ir pasekmes jo neįdiegus;
 
 
-9. Visais atvejais pirkėjas turi teisę į nuostolių, atsiradusių dėl netinkamos kokybės prekės pardavimo, atlyginimą. Nuostoliais laikomos ir prekės trūkumų pašalinimo išlaidos, jeigu, pardavėjui per protingą terminą jų nepašalinus, trūkumus pašalino pirkėjas ar jo pasitelkti tretieji asmenys. 
 
 
+2) vartotojas neįdiegia naujinio arba jį įdiegia netinkamai ne dėl jam pateiktų netikslių įdiegimo instrukcijų.
 
 
-10. Pardavėjas atsako už daikto trūkumus, kurie išaiškėja per dvejus metus nuo daikto perdavimo, jeigu įstatymai ar sutartis nenumato ilgesnio termino. Šiame straipsnyje nustatytoms pirkėjo teisėms taikomas dvejų metų ieškinio senaties terminas.
 
 
 
 
-11. Jeigu neįrodoma kitaip, daikto trūkumai, išaiškėję per 6 mėnesius nuo daikto perdavimo, laikomi buvusiais perdavimo metu, išskyrus atvejus, kai tai yra nesuderinama su daikto ar jo trūkumo pobūdžiu.
+7. Jeigu sudarant pirkimo–pardavimo sutartį vartotojas buvo aiškiai informuotas apie tai, kad konkreti prekės savybė neatitinka šio straipsnio 3 ar 5 dalyje nustatytų reikalavimų, ir jis, sudarydamas sutartį, aiškiai ir atskirai su tuo sutiko, laikoma, kad prekė yra tinkamos kokybės. 
+
+
+
+
+8. Pardavėjas yra atsakingas už trūkumus, atsiradusius dėl netinkamo prekių įdiegimo (instaliavimo, įrengimo ar montavimo), šiais atvejais:
+
+
+1) įdiegimas yra  pirkimo–pardavimo sutarties dalykas ir jį atliko pardavėjas arba jis už tai yra atsakingas;
+
+
+
+
+2) įdiegimą turėjo atlikti vartotojas ir tai buvo padaryta netinkamai dėl netikslių įdiegimo instrukcijų, kurias pateikė pardavėjas, o skaitmeninių elementų turinčių prekių netinkamo įdiegimo atveju – pardavėjas ar skaitmeninio turinio ar skaitmeninės paslaugos teikėjas.
+
+
+
+
+
+
+9. Jeigu dėl kitų asmenų intelektinės nuosavybės ar kitų teisių pažeidimo panaikinama ar apribojama vartotojo galimybė naudotis preke, vartotojas gali ginti savo teises vadovaudamasis šio kodekso 6.3641 straipsnio nuostatomis.
 
 
 Straipsnio pakeitimai:
 Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
+Straipsnio pakeitimai:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
  
 
 
 
 
-6.364 straipsnis. Kainų skirtumo atlyginimas
+6.364 straipsnis. Garantija pagal įstatymą
 
 
-1. Jeigu pardavėjas pakeičia netinkamos kokybės daiktą tinkamos kokybės daiktu, tai jis neturi teisės reikalauti iš pirkėjo atlyginti vartojimo pirkimo–pardavimo sutartyje numatytos kainos ir daikto kainos, galiojusios jo pakeitimo ar teismo arba kitokios institucijos sprendimo, įpareigojančio pakeisti daiktą, priėmimo momentu, skirtumą.
-
-
-
-
-2. Kai netinkamos kokybės daiktas keičiamas kitu analogišku, kuris skiriasi pagal matmenis, modelį, rūšį ar kitus požymius, pirkėjas turi atlyginti sutartyje numatytos kainos ir naujo daikto kainos, galiojusios keitimo momentu, skirtumą. Jeigu pirkėjas kainų skirtumo neatlygina, tai kainų skirtumas nustatomas pagal teismo arba kitokios institucijos sprendimo pakeisti prekę priėmimo metu galiojusias kainas.
+1. Pardavėjas yra atsakingas vartotojui už bet kokią prekių (įskaitant skaitmeninių elementų turinčias prekes) kokybės reikalavimų neatitiktį prekės pristatymo momentu ir paaiškėjusią ne vėliau kaip per dvejus metus nuo prekės pristatymo (garantija pagal įstatymą). 
 
 
 
 
-3. Kai pirkėjas reikalauja atitinkamai sumažinti netinkamos kokybės daikto kainą, atsižvelgiama į daikto kainą šio reikalavimo pareiškimo momentu, o jeigu pardavėjas pirkėjo reikalavimo netenkino, – į kainą teismo arba kitokios institucijos sprendimo dėl kainos sumažinimo priėmimo momentu.
+2. Jeigu skaitmeninių elementų turinčios prekės pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, pardavėjas yra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos trūkumus, kurių atsiranda ar kurie paaiškėja per dvejus metus nuo skaitmeninių elementų turinčios prekės pristatymo. Jeigu sutartyje numatytas ilgiau negu dvejus metus trunkantis nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas, pardavėjas yra atsakingas už skaitmeninio turinio ar skaitmeninės paslaugos trūkumus, kurių atsiranda ar kurie paaiškėja šiuo sutartyje numatytu skaitmeninio turinio ar skaitmeninės paslaugos teikimo laikotarpiu.
 
 
 
 
-4. Pirkėjas, grąžindamas prastos kokybės daiktą pardavėjui, turi teisę reikalauti atlyginti nustatytos sutartyje kainos ir kainos, galiojančios jo reikalavimo patenkinimo momentu, o jeigu jo reikalavimo pardavėjas netenkina, – teismo arba kitokios institucijos sprendimo priėmimo momentu, skirtumą.
+3. Pardavėjas ir vartotojas gali susitarti dėl trumpesnio, negu nustatyta šio straipsnio 1 ir 2 dalyse, pardavėjo atsakomybės už naudotas prekes termino, tačiau šis terminas negali būti trumpesnis negu vieneri metai.
+
+
+
+
+4. Prekės (įskaitant skaitmeninių elementų turinčias prekes) trūkumas, kuris paaiškėja per vienerius metus nuo jos pristatymo, laikomas buvusiu pristatant prekę, nebent pardavėjas įrodo kitaip arba kai tai nesuderinama su prekės pobūdžiu ar trūkumo pobūdžiu.
+
+
+
+
+5. Jeigu skaitmeninių elementų turinčios prekės pirkimo–pardavimo sutartyje numatytas nuolatinis skaitmeninio turinio ar skaitmeninės paslaugos teikimas tam tikrą laikotarpį, pareiga įrodyti, kad skaitmeninis turinys ar skaitmeninė paslauga yra tinkamos kokybės šio straipsnio 2 dalyje nurodytu laikotarpiu, tenka pardavėjui, jeigu trūkumas paaiškėja šiuo laikotarpiu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
  
 
 
+
+
+6.3641 straipsnis. Vartotojo teisės, kai prekė yra netinkamos kokybės
+
+
+1. Jeigu prekė neatitinka kokybės reikalavimų, vartotojas pagal šiame straipsnyje nustatytas sąlygas turi teisę reikalauti, kad būtų užtikrinta tinkama prekės kokybė, proporcingai sumažinta prekės kaina, arba vienašališkai nutraukti pirkimo–pardavimo sutartį.
+
+
+
+
+2. Kad būtų užtikrinta tinkama prekės kokybė, vartotojas turi teisę pasirinkti reikalauti prekę pataisyti (remontuoti) arba reikalauti ją pakeisti, išskyrus atvejus, kai reikalavimo nebūtų įmanoma įvykdyti arba pardavėjas dėl to patirtų neproporcingų išlaidų, palyginti su išlaidomis kitam reikalavimui įgyvendinti, atsižvelgiant į visas aplinkybes, įskaitant: 
+
+
+1) prekės vertę, jeigu prekė neturėtų trūkumų;
+
+
+
+
+2) prekės trūkumų (neatitikties) reikšmingumą;
+
+
+
+
+3) tai, ar kitokio reikalavimo taikymas nesukeltų nepatogumų vartotojui.
+
+
+
+
+
+
+3. Pardavėjas turi teisę atsisakyti užtikrinti tinkamą prekės kokybę, jeigu prekės neįmanoma pataisyti ar pakeisti arba jeigu dėl to pardavėjas patirtų neproporcingų išlaidų, atsižvelgiant į visas aplinkybes, įskaitant šio straipsnio 2 dalies 1 ir 2 punktuose nurodytąsias.
+
+
+
+
+4. Vartotojas turi teisę reikalauti proporcingai sumažinti prekės kainą arba nutraukti pirkimo–pardavimo sutartį, vadovaudamasis šio kodekso 6.3643 straipsniu, jeigu:
+
+
+1) pardavėjas prekės nepataisė ar nepakeitė arba prekės pataisymas ar pakeitimas neatitinka šio kodekso 6.3642 straipsnio 2 ir 3 dalyse nustatytų reikalavimų, arba pardavėjas, vadovaudamasis šio straipsnio 3 dalimi, atsisakė užtikrinti tinkamą prekės kokybę;
+
+
+
+
+2) prekės trūkumas atsirado, nors pardavėjas bandė užtikrinti prekės kokybę;
+
+
+
+
+3) prekės trūkumas yra esminis;
+
+
+
+
+4) pardavėjas pareiškė ar iš aplinkybių yra aišku, kad jis per protingą terminą neužtikrins tinkamos prekės kokybės arba tai sukels didelių nepatogumų vartotojui.
+
+
+
+
+
+
+5. Vartotojas neturi teisės nutraukti sutartį, jeigu trūkumas yra nedidelis. Pareiga įrodyti, kad trūkumas yra nedidelis, tenka pardavėjui.
+
+
+
+
+6. Vartotojas turi teisę sustabdyti prekės kainos ar jos dalies mokėjimą, iki pardavėjas įvykdys šiame skirsnyje nustatytas pardavėjo pareigas.
+
+
+
+
+7. Vartotojas turi teisę į žalos, atsiradusios dėl netinkamos prekės kokybės, atlyginimą.
+
+
+
+
+8. Vartotojas, siekdamas įgyvendinti šiame straipsnyje nustatytas teises, privalo pranešti pardavėjui apie prekės kokybės reikalavimų neatitiktį ne vėliau kaip per du mėnesius nuo neatitikties aptikimo dienos. Pareiga įrodyti, kad vartotojas praleido šį terminą, tenka pardavėjui. 
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.3642 straipsnis. Prekės pataisymas ar pakeitimas
+
+
+1. Pardavėjas turi pareigą užtikrinti, kad prekė būtų pataisyta ar pakeista, laikantis šių reikalavimų:
+
+
+1) nemokamai – netaikant mokesčių už prekei pataisyti ar pakeisti būtinas išlaidas, įskaitant išlaidas už pašto, vežimo paslaugas, už darbą ar medžiagas;
+
+
+
+
+2) per protingą terminą nuo momento, kai vartotojas informavo pardavėją apie netinkamą prekės kokybę;
+
+
+
+
+3) nesukeliant vartotojui didelių nepatogumų, atsižvelgiant į prekės pobūdį ir paskirtį, dėl kurios prekė reikalinga vartotojui.
+
+
+
+
+
+
+2. Vartotojas grąžina prekę pardavėjui, kad ji būtų pataisyta ar pakeista. Prekės grąžinimo išlaidos tenka pardavėjui.
+
+
+
+
+3. Jeigu iki trūkumo paaiškėjimo prekė buvo tinkamai įdiegta (instaliuota, įrengta ar įmontuota), atsižvelgiant į jos pobūdį ir paskirtį, pardavėjo pareiga pataisyti ar pakeisti prekę apima ir prekės pašalinimą bei pataisytos ar pakeistos prekės įdiegimą arba išlaidų už prekės pašalinimą ir įdiegimą padengimą.
+
+
+
+
+4. Pardavėjas neturi teisės reikalauti iš vartotojo sumokėti už įprastinį pakeistų prekių naudojimą laikotarpiu iki jų pakeitimo.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.3643 straipsnis. Kainos sumažinimas ir pirkimo–pardavimo sutarties nutraukimas
+
+
+1. Kainos sumažinimas turi būti proporcingas vartotojo gautos prekės vertės sumažėjimui, palyginti su verte, kurią prekė turėtų, jeigu nebūtų trūkumų.
+
+
+
+
+2. Vartotojas savo teisę nutraukti pirkimo–pardavimo sutartį įgyvendina pateikdamas pardavėjui pareiškimą, kuriame išreiškia sprendimą nutraukti pirkimo–pardavimo sutartį.
+
+
+
+
+3. Kai paaiškėja tik dalies pagal pirkimo–pardavimo sutartį pristatytų prekių trūkumai ir yra šio kodekso 6.3641 straipsnyje nustatytas pagrindas nutraukti sutartį, vartotojas turi teisę nutraukti pirkimo–pardavimo sutartį tik dėl prekių su trūkumais, taip pat dėl kitų kartu įgytų tiesiogiai susijusių prekių.
+
+
+
+
+4. Vartotojui nutraukus pirkimo–pardavimo sutartį:
+
+
+1) vartotojas turi grąžinti pardavėjui prekę pardavėjo sąskaita;
+
+
+
+
+2) pardavėjas, gavęs sugrąžintą prekę arba vartotojo pateiktus įrodymus, kad prekė buvo išsiųsta, turi ne vėliau kaip per keturiolika dienų grąžinti vartotojui už prekę sumokėtą kainą.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
+
+
+
+
+6.3644 straipsnis. Prekės kokybės garantijos (komercinės garantijos) ypatumai
+
+
+1. Prekės kokybės garantija (komercinė garantija) – pardavėjo arba gamintojo (garanto) įsipareigojimas vartotojui, papildomas prekės garantijai pagal įstatymą, grąžinti sumokėtą kainą ar pakeisti, pataisyti prekes ar teikti jų priežiūros paslaugas, jeigu prekės neatitinka kokybės garantijos dokumente arba reklamoje, paskelbtoje sudarant sutartį arba iki jos sudarymo, išdėstytų sąlygų ar kitų reikalavimų, nesusijusių su nustatytaisiais šio kodekso 6.363 straipsnyje. Šiame straipsnyje gamintoju laikomas prekių gamintojas, prekių importuotojas į Europos Sąjungą ar bet koks asmuo, ant prekių nurodantis savo pavadinimą, prekės ženklą ar kitą skiriamąjį ženklą.
+
+
+
+
+2. Prekės kokybės garantija įpareigoja garantą pagal sąlygas, kurios nustatytos kokybės garantijos dokumente ir susijusioje reklamoje, paskelbtoje sudarant sutartį arba iki jos sudarymo. Jeigu kiti teisės aktai nenustato kitaip, kai gamintojas suteikia vartotojui kokybės garantiją dėl prekės patvarumo tam tikru laikotarpiu, gamintojas yra tiesiogiai atsakingas vartotojui už prekės pataisymą arba pakeitimą pagal šio kodekso 6.3642 straipsnį visą šios garantijos galiojimo laikotarpį. Gamintojas kokybės garantijos dėl prekės patvarumo dokumente gali vartotojui siūlyti palankesnes sąlygas.
+
+
+
+
+3. Jeigu kokybės garantijos dokumente nustatytos sąlygos vartotojui yra ne tokios palankios kaip nurodytosios susijusioje reklamoje, taikomos reklamoje nurodytos sąlygos, išskyrus atvejus, kai iki sutarties sudarymo reklama buvo ištaisyta tokiu pačiu ar panašiu būdu, kaip buvo paskelbta.
+
+
+
+
+4. Kokybės garantijos dokumentas turi būti pateikiamas vartotojui patvariojoje laikmenoje ne vėliau kaip pristatant prekes. Kokybės garantijos dokumentas turi būti išreikštas aiškia ir suprantama kalba. Jame turi būti nurodyta visa ši informacija:
+
+
+1) aiškus pareiškimas, kad dėl netinkamos prekės kokybės vartotojas pagal įstatymą turi teisę reikalauti iš pardavėjo užtikrinti nemokamą šio kodekso 6.3641 straipsnyje nustatytų teisių įgyvendinimą ir kad prekės kokybės garantija neturi įtakos šių teisių įgyvendinimui;
+
+
+
+
+2) garanto pavadinimas ir adresas;
+
+
+
+
+3) procedūra, kurios turi laikytis vartotojas, kad būtų užtikrintas prekės kokybės garantijos įvykdymas;
+
+
+
+
+4) prekė, kuriai taikoma kokybės garantija;
+
+
+
+
+5) prekės kokybės garantijos sąlygos.
+
+
+
+
+
+
+5. Vartotojas turi teisę reikalauti taikyti prekės kokybės garantiją neatsižvelgiant į tai, kad ji suteikta pažeidžiant šio straipsnio 4 dalyje nustatytus reikalavimus.
+
+
+Papildyta straipsniu:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 
@@ -35933,6 +37018,14 @@ Daiktų pardavimas aukcionO BŪDU
 
 
 5. Kai, įvykus aukcionui, sutartį sudaro verslininkas ir vartotojas, šiai sutarčiai taikomos vartojimo sutartis reglamentuojančios normos, jeigu kiti įstatymai nenustato ko kita. Sudarant sutartį viešojo aukciono būdu, šio kodekso 6.2287 straipsnio 1 dalies 2 ir 3 punktuose nurodyta informacija gali būti pateikiama apie aukciono vedėją.
+
+
+
+
+6. Kai, įvykus viešajam aukcionui dėl naudotos prekės, sutartį sudaro verslininkas ir vartotojas, vartotojui turi būti lengvai prieinama aiški ir išsami informacija, kad šiai sutarčiai netaikomos vartojimo pirkimo–pardavimo sutarčių ypatumus reglamentuojančios šio kodekso normos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+ 
 
 
 Straipsnio pakeitimai:
@@ -38835,10 +39928,12 @@ Prieš parduodamas ar kitaip perleisdamas nuomojamą žemės sklypą arba jį į
 6.561 straipsnis. Draudimas išnuomoti įkeistą žemę
 
 
-Jeigu įkeistos žemės savininkas sutartyje nustatytu laiku neįvykdo skolinio įsipareigojimo ir hipotekos teisėjas priima nutartį areštuoti įkeistą žemę, šią žemę draudžiama išnuomoti.
+Jeigu įkeistos žemės savininkas sutartyje nustatytu laiku neįvykdo skolinio įsipareigojimo ir viešame registre yra žyma apie atliktą notaro vykdomąjį įrašą, šią žemę draudžiama išnuomoti.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
  
-
-
 
 
 
@@ -46884,7 +47979,10 @@ Tretieji asmenys turi teisę įmokėti pinigus į indėlininko sąskaitą, jeigu
 
 
 
-2. Indėlininko knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas, adresas ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties sąlygos, taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos apskaičiuotos ir išmokėtos palūkanos.
+2. Indėlininko knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas, adresas, elektroninio pristatymo dėžutės adresas ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties sąlygos, taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos apskaičiuotos ir išmokėtos palūkanos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -48894,7 +49992,10 @@ Draudimo sutartimi viena šalis (draudikas) įsipareigoja už sutartyje nustatyt
 
 
 
-2) draudiko pavadinimas ir buveinės adresas;
+2) draudiko pavadinimas, buveinės adresas ir elektroninio pristatymo dėžutės adresas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+ 
 
 
 
@@ -49020,7 +50121,9 @@ Nr. XII-503, 2013-07-02, Žin., 2013, Nr. 75-3774 (2013-07-13)
 
 
 
-8. Sudarant draudimo sutartį ir jos galiojimo metu draudikas privalo suteikti draudėjui šią informaciją: draudiko pavadinimą, draudiko įmonės rūšį, adresą, draudiko padalinio ar draudiko atstovo adresą (jei draudimo sutartis sudaroma ne draudiko buveinėje), iš draudimo sutarties kylančių ar su ja susijusių ginčų sprendimo tvarką, draudiko elgesį, kai draudėjas pažeidžia draudimo sutarties sąlygas, galimus draudimo rizikos padidėjimo atvejus bei kitą draudimo veiklą reglamentuojančiuose teisės aktuose nurodytą informaciją.
+8. Sudarant draudimo sutartį ir jos galiojimo metu draudikas privalo suteikti draudėjui šią informaciją: draudiko pavadinimą, draudiko įmonės rūšį, adresą, elektroninio pristatymo dėžutės adresą, draudiko padalinio ar draudiko atstovo adresą (jei draudimo sutartis sudaroma ne draudiko buveinėje), iš draudimo sutarties kylančių ar su ja susijusių ginčų sprendimo tvarką, draudiko elgesį, kai draudėjas pažeidžia draudimo sutarties sąlygas, galimus draudimo rizikos padidėjimo atvejus bei kitą draudimo veiklą reglamentuojančiuose teisės aktuose nurodytą informaciją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
  
 
 
@@ -49511,7 +50614,7 @@ Draudėjas turi teisę pakeisti apdraustą asmenį kitu asmeniu tik gavęs rašy
 
 
 
-Lietuvos Respublikos
+Lietuvos Respublikos 
 civilinio kodekso
 priedas
  
@@ -49519,7 +50622,7 @@ priedas
  
 
 
-1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais.
+1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais su pakeitimais, padarytais 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES.
 
 
 
@@ -49529,46 +50632,47 @@ priedas
 
 
 
-3. 1999 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva 1999/44/EB dėl vartojimo prekių pardavimo ir susijusių garantijų tam tikrų aspektų.
+3. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
 
 
 
 
-4. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302.
 
 
 
 
-5. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB.
+5. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
 
 
 
 
-6. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos.
+6. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo.
 
 
 
 
-7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
+7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
 
 
 
 
-8. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo.
+8. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų.
 
 
 
 
-9. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
-
-
+9. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.
 Kodeksas papildytas priedu:
 Nr. XI-1619, 2011-10-13, Žin., 2011, Nr. 129-6108 (2011-10-27)
 Priedo pakeitimai:
 Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
-Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753
+Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753)
+
+
 Priedo pakeitimai:
 Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
  
 
 
@@ -50073,3 +51177,18 @@ Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
 Lietuvos Respublikos civilinio kodekso 2.54, 2.64, 2.71, 2.72 straipsnių ir priedo pakeitimo įstatymas
+ 
+54.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2723, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00082
+Lietuvos Respublikos civilinio kodekso 4.173, 4.177 straipsnių, ketvirtosios knygos II dalies XI skyriaus antrojo skirsnio, 4.184, 4.189 straipsnių, ketvirtosios knygos II dalies XI skyriaus ketvirtojo ir penktojo skirsnių, 4.207, 4.209, 4.210, 4.212, 4.213, 4.223, 4.224, 4.225, 6.104, 6.561 straipsnių pakeitimo įstatymas
+ 
+55.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-421, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14578
+Lietuvos Respublikos civilinio kodekso 1.73, 1.122, 2.44, 2.49, 2.54, 2.66, 6.166, 6.192, 6.228-7, 6.228-14, 6.901, 6.991 ir 6.993 straipsnių pakeitimo įstatymas
+ 
+56.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-466, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15844
+Lietuvos Respublikos civilinio kodekso 1.125, 6.228-1, 6.228-12, 6.228-14, 6.363, 6.364, 6.419 straipsnių ir priedo pakeitimo ir Kodekso papildymo 6.228-17, 6.228-18, 6.228-19, 6.228-20, 6.228-21, 6.228-22, 6.228-23, 6.228-24, 6.350-1, 6.364-1, 6.364-2, 6.364-3, 6.364-4 straipsniais įstatymas
