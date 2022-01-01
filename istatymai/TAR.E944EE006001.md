@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e944ee00600111e4bad5c03f56793630"
 
 # Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-22
  
 Įstatymas paskelbtas: TAR 2014-10-30, i. k. 2014-15180
+ 
+TAR pastaba. Paramos būstui įsigyti ar išsinuomoti įstatymo 13 straipsnis taikomas prašymams suteikti paramą būstui įsigyti, pateiktiems po 2021 m. gruodžio 31 d., išskyrus šiuos atvejus:  jeigu asmenys ar šeimos iki 2021 m. gruodžio 31 d. yra gavę valstybės iš dalies kompensuojamą būsto kreditą ir subsidiją šio kredito daliai apmokėti, papildoma subsidija jiems suteikiama, vadovaujantis iki įstatymo Nr. XIV-809 įsigaliojimo dienos (2022-01-01) galiojusių nuostatų nustatyta tvarka.  Savivaldybės būsto pardavimo procedūros, pradėtos iki 2021 m. gruodžio 31 d., baigiamos vykdyti iki šio įstatymo įsigaliojimo dienos galiojusių nuostatų nustatyta tvarka. 7. Prašymai dėl Paramos būstui įsigyti ar išsinuomoti įstatymo 8 straipsnyje nurodytos teisės nustatymo, pateikti iki 2021 m. gruodžio 31 d., baigiami nagrinėti, vadovaujantis nuo 2022 m. sausio 1 d. įsigaliojančiomis šio įstatymo nuostatomis.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 21 ir 25 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2019-09-01:
 Nr. XIII-1959, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02742
@@ -415,7 +420,10 @@ Teisę į valstybės iš dalies kompensuojamą būsto kreditą ir į išperkamos
 2) įsigyja pirmą būstą Lietuvos Respublikos teritorijoje arba atitinka vieną iš šių sąlygų:
 
 
-a) pastaruosius 5 metus iki prašymo suteikti paramą būstui įsigyti pateikimo dienos ir šio prašymo pateikimo metu neturi būsto nuosavybės teise ir nebuvo pasinaudoję šia paramos forma ar finansine paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms vadovaujantis Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymu;
+a) pastaruosius 5 metus iki prašymo suteikti paramą būstui įsigyti pateikimo dienos, šio prašymo pateikimo metu, taip pat teisės į valstybės iš dalies kompensuojamą būsto kreditą ir į išperkamosios būsto nuomos mokesčio dalies kompensaciją nustatymo metu neturi būsto nuosavybės teise ir nebuvo pasinaudoję šia paramos forma ar finansine paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms, vadovaujantis Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymu; 
+Papunkčio pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -448,7 +456,10 @@ c) neįgalusis ar šeima, kurioje yra neįgalusis, nuosavybės teise turi būst�
 
 
 
-2) neturi Lietuvos Respublikos teritorijoje nuosavybės teise būsto arba nuosavybės teise turimas būstas, Nekilnojamojo turto kadastro duomenimis, yra fiziškai nusidėvėjęs daugiau kaip 60 procentų, arba nuosavybės teise turimo būsto naudingasis plotas, tenkantis vienam asmeniui ar šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų arba mažesnis kaip 14 kvadratinių metrų, jeigu šeimoje yra neįgalusis arba asmuo, sergantis sunkia lėtinės ligos, įrašytos į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, forma.
+2) neturi Lietuvos Respublikos teritorijoje nuosavybės teise būsto arba nuosavybės teise turimas būstas, Nekilnojamojo turto kadastro duomenimis, yra fiziškai nusidėvėjęs daugiau kaip 60 procentų, arba nuosavybės teise turimo būsto naudingasis plotas (visų Lietuvos Respublikoje nuosavybės teise turimų būstų naudingųjų plotų suma), tenkantis (tenkanti) vienam asmeniui ar šeimos nariui, yra mažesnis (mažesnė) kaip 10 arba 14 kvadratinių metrų, jeigu šeimoje yra neįgalusis arba asmuo, sergantis sunkia lėtinės ligos, įrašytos į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, forma. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -460,7 +471,9 @@ c) neįgalusis ar šeima, kurioje yra neįgalusis, nuosavybės teise turi būst�
 
 
 
-3. Asmenys ir šeimos, su kuriais socialinio būsto nuomos sutartis nutraukta jiems pažeidus socialinio būsto nuomos sutarties sąlygas, teisę į socialinio būsto nuomą įgyja po 5 metų nuo socialinio būsto nuomos sutarties nutraukimo dienos, jeigu savivaldybės taryba nenustato trumpesnio termino. 
+3. Neteko galios nuo 2022-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
  
 
 
@@ -479,7 +492,10 @@ Teisę į būsto nuomos mokesčio dalies kompensaciją turi asmenys ir šeimos, 
 
 
 
-2) neturi Lietuvos Respublikos teritorijoje nuosavybės teise būsto arba nuosavybės teise turimas būstas, Nekilnojamojo turto kadastro duomenimis, yra fiziškai nusidėvėjęs daugiau kaip 60 procentų, arba nuosavybės teise turimo būsto naudingasis plotas, tenkantis vienam asmeniui ar šeimos nariui, yra mažesnis kaip 10 kvadratinių metrų arba mažesnis kaip 14 kvadratinių metrų, jeigu šeimoje yra neįgalusis arba asmuo, sergantis sunkia lėtinės ligos, įrašytos į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, forma;
+2) neturi Lietuvos Respublikos teritorijoje nuosavybės teise būsto arba nuosavybės teise turimas būstas, Nekilnojamojo turto kadastro duomenimis, yra fiziškai nusidėvėjęs daugiau kaip 60 procentų, arba nuosavybės teise turimo būsto naudingasis plotas (visų Lietuvos Respublikoje nuosavybės teise turimų būstų naudingųjų plotų suma), tenkantis (tenkanti) vienam asmeniui ar šeimos nariui, yra mažesnis (mažesnė) kaip 10 arba 14 kvadratinių metrų, jeigu šeimoje yra neįgalusis arba asmuo, sergantis sunkia lėtinės ligos, įrašytos į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, forma; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -564,7 +580,10 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-4. Nustatant asmenų ir šeimų teisę į paramą būstui įsigyti ar išsinuomoti, skaičiuojamos asmenų ir šeimų grynosios pajamos, gautos iš bendros gautų pajamų sumos atskaičius gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokas. Asmenų ir šeimų pajamos, gautos pagal individualios veiklos vykdymo pažymą, skaičiuojamos atskaičius leidžiamus atskaitymus. 
+4. Nustatant asmenų ir šeimų teisę į paramą būstui įsigyti ar išsinuomoti, skaičiuojamos asmenų ir šeimų grynosios pajamos, gautos iš bendros gautų pajamų sumos atskaičius gyventojų pajamų mokestį, valstybinio socialinio draudimo, privalomojo sveikatos draudimo įmokas ir pinigines lėšas vaikui (įvaikiui) išlaikyti (alimentus) iš jas mokančio asmens pajamų. Asmenų ir šeimų pajamos, gautos pagal individualios veiklos vykdymo pažymą, skaičiuojamos atskaičius leidžiamus atskaitymus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -592,20 +611,17 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 12 straipsnis. Valstybės iš dalies kompensuojamų būsto kreditų teikimo tvarka ir šių kreditų dydžiai
 
 
-1. Valstybės iš dalies kompensuojamų būsto kreditų teikimo ir subsidijų valstybės iš dalies kompensuojamų būsto kreditų daliai apmokėti teikimo tvarką nustato Vyriausybė.
+1. Valstybės iš dalies kompensuojamų būsto kreditų teikimo ir subsidijų valstybės iš dalies kompensuojamų būsto kreditų daliai apmokėti teikimo tvarką nustato socialinės apsaugos ir darbo ministras.
 
 
 
 
-2. Valstybės iš dalies kompensuojamus būsto kreditus pageidaujantys teikti kredito davėjai su Socialinės apsaugos ir darbo ministerija ar jos įgaliota institucija sudaro sutartis dėl valstybės iš dalies kompensuojamų būsto kreditų teikimo (subsidijų finansavimo) tvarkos. Sutartyse turi būti nustatyti šių kreditų teikimo metiniai limitai, valstybės iš dalies kompensuojamo būsto kredito dalies (subsidijos) apmokėjimo tvarka ir reikalavimas įregistruoti hipoteką už valstybės iš dalies kompensuojamą būsto kreditą įsigyjamam būstui.
+2. Valstybės iš dalies kompensuojamus būsto kreditus pageidaujantys teikti kredito davėjai su Socialinės apsaugos ir darbo ministerija ar jos įgaliota institucija sudaro sutartis dėl valstybės iš dalies kompensuojamų būsto kreditų teikimo (subsidijų finansavimo) tvarkos. Sutartyse turi būti nustatyta valstybės iš dalies kompensuojamo būsto kredito dalies (subsidijos) apmokėjimo tvarka ir reikalavimas įregistruoti hipoteką už valstybės iš dalies kompensuojamą būsto kreditą įsigyjamam būstui.
 
 
 
 
-3. Valstybės iš dalies kompensuojamų būsto kreditų teikimo bendrą metinį limitą nustato socialinės apsaugos ir darbo ministras, atsižvelgdamas į valstybės biudžeto asignavimus valstybės iš dalies kompensuojamiems būsto kreditams teikti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
- 
+3. Subsidijos valstybės iš dalies kompensuojamų būsto kreditų daliai apmokėti teikiamos laikantis eiliškumo, atsižvelgiant į šioms subsidijoms skirtus atitinkamų metų valstybės biudžeto asignavimus. Jeigu yra panaudoti visi atitinkamų metų valstybės biudžeto asignavimai, skirti subsidijoms valstybės iš dalies kompensuojamų būsto kreditų daliai apmokėti, asmenys ir šeimos, atitinkantys šio įstatymo 13 straipsnio 1 dalies 1 punkto reikalavimus, pagal šio įstatymo 7 straipsnyje nurodyto prašymo užregistravimo savivaldybės administracijoje datą ir laiką įrašomi į Asmenų ir šeimų, laukiančių subsidijos valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti, sąrašą. Tokiu atveju subsidijos valstybės iš dalies kompensuojamų būsto kreditų daliai apmokėti teikiamos, skyrus papildomų einamųjų ar kitų metų valstybės biudžeto asignavimų.
 
 
 
@@ -630,56 +646,135 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-5. Ne daugiau kaip 25 procentai valstybės iš dalies kompensuojamo būsto kredito sumos gali būti panaudota žemės sklypui, kuriame yra būstas arba planuojama jį statyti, įsigyti.
+5. Ne daugiau kaip 25 procentai valstybės iš dalies kompensuojamo būsto kredito sumos gali būti panaudota žemės sklypui, kuriame yra būstas arba planuojama jį statyti, įsigyti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
  
 
 
 
 
+13 straipsnis. Subsidijų valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti teikimo sąlygos ir dydžiai
 
 
-13 straipsnis. Subsidijų valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti teikimo sąlygos 
+1. Subsidija valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti teikiama šių kreditų gavėjams, jeigu jie atitinka visas šias sąlygas:
 
 
-1. Subsidija valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti teikiama šių kreditų gavėjams, jeigu jie atitinka šio įstatymo 8 straipsnyje nustatytus reikalavimus ir jeigu jie:
-
-
-1) prašymo suteikti paramą būstui įsigyti pateikimo metu yra buvę likę be tėvų globos (rūpybos) asmenys iki 36 metų ar jų šeimos, taip pat šeimos, auginančios tris ar daugiau vaikų ir (ar) vaikų, kuriems nustatyta nuolatinė globa (rūpyba), neįgalieji arba šeimos, kuriose yra neįgaliųjų, apmokama 20 procentų suteikto valstybės iš dalies kompensuojamo būsto kredito (ar šio būsto kredito likučio) sumos;
+1) prašymo suteikti paramą būstui įsigyti pateikimo metu atitinka šio įstatymo 8 straipsnyje nustatytus reikalavimus ir šio straipsnio 2 dalyje nurodytus asmenų ir šeimų  požymius; 
 
 
 
 
-2) prašymo suteikti paramą būstui įsigyti pateikimo metu yra jaunos šeimos, auginančios vieną ar daugiau vaikų, ir šeimos, kuriose vienas iš vaikų tėvų yra miręs, apmokama 10 procentų suteikto valstybės iš dalies kompensuojamo būsto kredito (ar šio būsto kredito likučio) sumos. 
+2) teisės į paramą būstui įsigyti nustatymo metu atitinka šio įstatymo 8 straipsnyje nustatytus reikalavimus.
 
 
 
 
 
 
-2. Asmenims ir šeimoms suteikta subsidija valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti Vyriausybės nustatyta tvarka gali būti panaudota šio kredito pradiniam įnašui padengti. 
+2. Teikiamų subsidijų valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti dydžiai yra:
+
+
+1) 15 procentų suteikto valstybės iš dalies kompensuojamo būsto kredito (ar šio kredito likučio) sumos – jaunoms šeimoms, neauginančioms vaikų ar vaikų, kuriems nustatyta nuolatinė globa (rūpyba);
 
 
 
 
-3. Jeigu valstybės iš dalies kompensuojamas būsto kreditas suteikiamas būsto statybai, asmenims ir šeimoms, turintiems teisę į subsidiją valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti, ši subsidija išmokama tik užbaigus būsto statybas Lietuvos Respublikos statybos įstatymo nustatyta tvarka.
+2) 20 procentų suteikto valstybės iš dalies kompensuojamo būsto kredito (ar šio kredito likučio) sumos – jaunoms šeimoms, auginančioms vieną vaiką ar vieną vaiką, kuriam nustatyta nuolatinė globa (rūpyba);
 
 
 
 
-4. Jeigu valstybės iš dalies kompensuojamo būsto kredito gavėjas teisę į subsidiją valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti įgijo po to, kai gavo valstybės iš dalies kompensuojamą būsto kreditą, suteiktą iš kredito davėjams nustatyto valstybės iš dalies kompensuojamų būsto kreditų teikimo metinio limito, subsidija apskaičiuojama pagal valstybės iš dalies kompensuojamo būsto kredito likučio sumą, buvusią tą dieną, kai valstybės iš dalies kompensuojamo būsto kredito gavėjas kreipėsi į kredito davėją su prašymu pakeisti su kredito davėju sudarytą sutartį dėl valstybės iš dalies kompensuojamo būsto kredito teikimo.
+3) 25 procentai suteikto valstybės iš dalies kompensuojamo būsto kredito (ar šio kredito likučio) sumos – jaunoms šeimoms, auginančioms du vaikus ar du vaikus, kuriems (ar vienam iš jų) nustatyta nuolatinė globa (rūpyba);
 
 
 
 
-5. Jeigu valstybės iš dalies kompensuojamo būsto kredito gavėjas, pasinaudojęs šio straipsnio 1 dalyje nurodyta subsidija, įgyja teisę į didesnę šio straipsnio 1 dalyje nurodytą subsidiją, jam papildomai suteikiama šių subsidijų dydžių skirtumo subsidija (toliau – papildoma subsidija). Papildomos subsidijos suma apskaičiuojama pagal valstybės iš dalies kompensuojamo būsto kredito likučio sumą, buvusią tą dieną, kai valstybės iš dalies kompensuojamo būsto kredito gavėjas kreipėsi į kredito davėją su prašymu pakeisti su kredito davėju sudarytą sutartį dėl valstybės iš dalies kompensuojamo būsto kredito teikimo. Valstybės iš dalies kompensuojamo būsto kredito gavėjas, norintis pasinaudoti papildoma subsidija, turi būti įvykdęs pagal kreditavimo sutartį, sudarytą su kredito davėju, prisiimtus skolinius įsipareigojimus iki tos dienos, kurią kreipiasi į kredito davėją su prašymu pakeisti minėtą sutartį.
+4) 30 procentų suteikto valstybės iš dalies kompensuojamo būsto kredito (ar šio kredito likučio) sumos:
+
+
+a) šeimoms, auginančioms tris ar daugiau vaikų ir (ar) tris ar daugiau vaikų, kuriems (ar vienam, ar keliems iš jų) nustatyta nuolatinė globa (rūpyba);
 
 
 
 
-6. Tuo atveju, kai valstybės iš dalies kompensuojamo būsto kredito gavėjas, kuriam suteikta subsidija valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti, gautą valstybės iš dalies kompensuojamą būsto kreditą grąžina kredito davėjui anksčiau kaip per 5 metus arba už šį kreditą įsigytą būstą per pirmuosius 5 metus nuo kreditavimo sutarties sudarymo dienos perleidžia kito asmens nuosavybėn, sutartyje dėl valstybės iš dalies kompensuojamo būsto kredito teikimo (subsidijų finansavimo) tvarkos nustatyta tvarka iš kredito gavėjo išieškoma valstybės suteikta subsidija ir išieškota subsidijos suma pervedama į valstybės biudžetą.
+b) neįgaliesiems arba šeimoms, kuriose yra neįgaliųjų;
+
+
+
+
+c) asmenims iki 36 metų, kurie yra buvę likę be tėvų globos (rūpybos), ar jų šeimoms;
+
+
+
+
+d) šeimoms, kuriose motina arba tėvas, globėjas (rūpintojas) vieni augina vieną ar daugiau vaikų ir (ar) vaiką (vaikus), kuriam (kuriems) nustatyta nuolatinė globa (rūpyba).
+
+
+
+
+
+
+
+
+3. Asmenims ir šeimoms suteikta subsidija valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti socialinės apsaugos ir darbo ministro nustatyta tvarka gali būti panaudota šio kredito pradiniam įnašui padengti. 
+
+
+
+
+4. Jeigu valstybės iš dalies kompensuojamas būsto kreditas suteikiamas būsto statybai, asmenims ir šeimoms, turintiems teisę į subsidiją valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti, ši subsidija išmokama tik užbaigus būsto statybas Lietuvos Respublikos statybos įstatymo nustatyta tvarka.
+
+
+
+
+5. Jeigu valstybės iš dalies kompensuojamo būsto kredito gavėjas teisę į subsidiją valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti įgijo po to, kai gavo valstybės iš dalies kompensuojamą būsto kreditą, subsidija apskaičiuojama pagal valstybės iš dalies kompensuojamo būsto kredito likučio sumą, buvusią tą dieną, kai valstybės iš dalies kompensuojamo būsto kredito gavėjas kreipėsi į kredito davėją su prašymu pakeisti su kredito davėju sudarytą sutartį dėl valstybės iš dalies kompensuojamo būsto kredito teikimo.
+
+
+
+
+6. Jeigu valstybės iš dalies kompensuojamo būsto kredito gavėjas, pasinaudojęs šio straipsnio 2 dalyje nurodyta subsidija, įgyja teisę į didesnę šio straipsnio 2 dalyje nurodytą subsidiją, jam ne eilės tvarka papildomai suteikiama šių subsidijų dydžių skirtumo subsidija (toliau – papildoma subsidija). Papildomos subsidijos suma apskaičiuojama pagal valstybės iš dalies kompensuojamo būsto kredito likučio sumą, buvusią tą dieną, kai valstybės iš dalies kompensuojamo būsto kredito gavėjas kreipėsi į šio kredito davėją su prašymu pakeisti su juo sudarytą sutartį dėl valstybės iš dalies kompensuojamo būsto kredito teikimo. Jei būsto kredito suma viršija šio įstatymo 12 straipsnio 4 dalyje nurodytą sumą, valstybės iš dalies kompensuojamo būsto kredito dalies ir kredito dalies, kuri viršija šią sumą, grąžinimas turi būti išdėstomas ir administruojamas atskirais kredito įmokų grafikais. Valstybės iš dalies kompensuojamo būsto kredito gavėjas, norintis pasinaudoti papildoma subsidija, turi būti įvykdęs pagal kreditavimo sutartį, sudarytą su kredito davėju, prisiimtus skolinius įsipareigojimus iki tos dienos, kurią kreipiasi į kredito davėją su prašymu pakeisti minėtą sutartį.
+
+
+
+
+7. Kai valstybės iš dalies kompensuojamo būsto kredito gavėjas, kuriam suteikta subsidija valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti, gautą valstybės iš dalies kompensuojamą būsto kreditą kredito davėjui grąžina anksčiau kaip per 5 metus arba už šį kreditą įsigytą būstą per pirmuosius 5 metus nuo kreditavimo sutarties sudarymo dienos perleidžia kito asmens nuosavybėn, sutartyje dėl valstybės iš dalies kompensuojamo būsto kredito teikimo (subsidijų finansavimo) tvarkos nustatyta tvarka iš kredito gavėjo išieškoma valstybės suteikta subsidija ir išieškota subsidijos suma pervedama į valstybės biudžetą.
+
+
+
+
+8. Šio straipsnio 7 dalies nuostatos dėl gautos subsidijos valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti grąžinimo netaikomos šiais atvejais:
+
+
+1) nenugalimos jėgos (force majeure) aplinkybėmis;
+
+
+
+
+2) jeigu pasikeičia už valstybės iš dalies kompensuojamo būsto kreditą įsigyto būsto savininkas dėl paveldėjimo, kai paveldi šeimos nariai, kurie įskaitomi į šeimos sudėtį pagal šio įstatymo 2 straipsnio 11 dalies nuostatas;
+
+
+
+
+3) šeimai nutraukus santuoką, jeigu nuosavybės teisė pereina vienam iš buvusių sutuoktinių, ar nutraukus registruotos partnerystės sutartį, jeigu nuosavybės teisė pereina vienai iš registruotos partnerystės sutarties šalių;
+
+
+
+
+4) jeigu šeima nori perleisti už valstybės iš dalies kompensuojamo būsto kreditą įsigytą būstą kito asmens nuosavybėn, siekdama jį pakeisti į kitą būstą; 
+
+
+
+
+5) jeigu už valstybės iš dalies kompensuojamo būsto kreditą įsigytas būstas parduodamas priverstinio vykdymo tvarka arba fizinio asmens bankroto proceso metu. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
  
-
-
 
 
 
@@ -690,7 +785,10 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 1. Savivaldybės būsto fondą sudaro socialiniai būstai ir savivaldybės būstai, kurie nuomojami:
 
 
-1) šio įstatymo 20 straipsnio 6 dalyje numatytu atveju;
+1) šio įstatymo 20 straipsnio 7 dalyje numatytu atveju; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -705,7 +803,31 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-4) savivaldybės tarybos sprendimu kitais tikslais, vadovaujantis Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu. 
+4) savivaldybės tarybos sprendimu kitais tikslais, vadovaujantis Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu; 
+
+
+
+
+5) savivaldybės tarybos nustatyta tvarka asmenims ir šeimoms, per pastaruosius vienus metus netekusiems vienintelio Lietuvos Respublikos teritorijoje nuosavybės teise turėto būsto dėl gaisrų, potvynių, stiprių vėjų ar dėl kitų nuo žmogaus valios nepriklausančių aplinkybių; 
+Papildyta straipsnio punktu:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
+
+
+
+
+6) kitais Civiliniame kodekse numatytais atvejais, kai gyvenamosios patalpos perduotos savivaldybei nuosavybės teise Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
+
+
+
+
+7) šio įstatymo 31 straipsnio 1 dalyje numatytu atveju. 
+Papildyta straipsnio punktu:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -791,7 +913,10 @@ Nr. XIII-2752, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21602
 
 
 
-16 straipsnis. Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, apskaita ir socialinio būsto nuomos tvarka
+16 straipsnis. Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, apskaita, socialinio būsto nuomos tvarka ir savivaldybės administracijos funkcijos
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 1. Asmenys ir šeimos, atitinkantys šio įstatymo 9 straipsnio 1 dalyje nustatytus reikalavimus, taip pat asmenys ir šeimos, pagal šio įstatymo 9 straipsnio 2 dalį turintys teisę į socialinio būsto nuomos sąlygų pagerinimą, šio įstatymo 7 straipsnyje nustatyta tvarka savivaldybės administracijai pateikę prašymą, įrašomi į Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašą pagal prašymo užregistravimo savivaldybės administracijoje datą ir laiką. Šis sąrašas tvarkomas savivaldybės administracijos direktoriaus nustatyta tvarka. Asmenys ir šeimos, įrašyti į šioje dalyje nurodytą sąrašą, skirstomi į šias grupes:
@@ -847,7 +972,20 @@ Nr. XIII-2752, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21602
 
 
 
-2) jų deklaruoto turto vertė ar pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, daugiau kaip 25 procentais viršija šio įstatymo 11 straipsnio 3 dalyje nustatytus metinius pajamų ir turto dydžius; jų buvimo Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąraše laikotarpis 3 metus nuo jų išbraukimo dienos nurodomas Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašo priede; 
+2) Gyventojų turto deklaravimo įstatyme nustatyta tvarka deklaruoto turto vertė ar pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, viršija šio įstatymo 11 straipsnio 3 dalyje nustatytus metinius pajamų ir turto dydžius:
+
+
+a) daugiau kaip 35 procentais arba
+
+
+
+
+b) daugiau kaip 50 procentų, jeigu asmuo yra be šeimos ar jeigu šeimoje motina arba tėvas, globėjas (rūpintojas) vienas augina vieną ar daugiau vaikų ir (arba) vaiką (vaikus), kuriam (kuriems) nustatyta nuolatinė globa (rūpyba), ar jeigu asmuo yra neįgalusis, ar jeigu šeimoje yra neįgaliųjų; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -897,6 +1035,22 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
+41. Šio straipsnio 4 dalies 2 punkte numatytais atvejais asmenų ir šeimų buvimo Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąraše laikotarpis 3 metus nuo jų išbraukimo iš jo dienos nurodomas šio sąrašo priede. 
+Papildyta straipsnio dalimi:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
+
+
+
+
+42. Esant dėl užkrečiamųjų ligų plitimo Vyriausybės paskelbtai valstybės lygio ekstremaliajai situacijai ir (ar) karantinui, taip pat juos atšaukus, iki kitų metų birželio 1 dienos asmenys ir šeimos, kurių turto vertė ar pajamos, kaip nurodyta šio straipsnio 4 dalies 2 punkte, viršija metinius pajamų ir turto dydžius, iš Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašo neišbraukiami. 
+Papildyta straipsnio dalimi:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
+
+
+
+
 5. Savivaldybės administracija ne vėliau kaip iki einamųjų metų rugsėjo 1 dienos priima sprendimą išbraukti asmenį ar šeimą iš Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašo. Apie sprendimą išbraukti asmenį ar šeimą, išskyrus šio straipsnio 4 dalies 3 punkte numatytą atvejį, savivaldybės administracija per 10 darbo dienų nuo sprendimo priėmimo dienos raštu informuoja asmenį ar šeimą pagal paskutinę žinomą jų gyvenamąją vietą. 
 
 
@@ -912,7 +1066,10 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-8. Savivaldybės tarybos nustatyta tvarka socialinis būstas gali būti išnuomojamas ir neįrašytiems į Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašą asmenims bei šeimoms, jeigu šie asmenys ir šeimos Lietuvos Respublikos teritorijoje nuosavybės teise neturi kito būsto:
+8. Savivaldybės tarybos nustatyta tvarka socialinis būstas gali būti išnuomojamas ir neįrašytiems į Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašą asmenims bei šeimoms, jeigu šie asmenys ir šeimos Lietuvos Respublikos teritorijoje nuosavybės teise neturi kito būsto ir jeigu su jais per 6 mėnesius iki kreipimosi dėl paramos būstui išsinuomoti dienos nebuvo nutraukta socialinio būsto nuomos sutartis dėl jos sąlygų pažeidimo šio įstatymo 20 straipsnio 5 dalies 5–7 punktuose numatytais atvejais:
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
 
 
 1) netekusiems Lietuvos Respublikos teritorijoje nuosavybės teise turėto būsto dėl gaisrų, potvynių, stiprių vėjų ar dėl kitų nuo žmogaus valios nepriklausančių aplinkybių; šiuo atveju į savivaldybės administraciją asmuo ar šeima šio įstatymo 7 straipsnyje nustatyta tvarka privalo kreiptis ne vėliau kaip per vienus metus nuo nurodytų aplinkybių atsiradimo dienos;
@@ -945,7 +1102,10 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-7) neįgaliesiems, vieniems auginantiems vaiką (vaikus) ar (ir) vaiką (vaikus), kuriam (kuriems) nustatyta nuolatinė globa (rūpyba); 
+7) šeimoms, kuriose motina arba tėvas, globėjas (rūpintojas) vieni augina vieną ar daugiau vaikų ir (arba) vaiką (vaikus), kuriam (kuriems) nustatyta nuolatinė globa (rūpyba); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -960,9 +1120,11 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-10) likusiems be tėvų globos asmenims, palikusiems socialinės globos, grupinio gyvenimo ir (ar) savarankiško gyvenimo namus. 
+10) likusiems be tėvų globos asmenims, palikusiems socialinės globos, grupinio gyvenimo ir (ar) savarankiško gyvenimo namus per pastaruosius 5 metus iki prašymo suteikti paramą būstui išsinuomoti pateikimo dienos. 
 Papildyta straipsnio punktu:
 Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
+Straipsnio punkto pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
  
 
 
@@ -976,6 +1138,43 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 10. Asmenų ir šeimų, kuriems išnuomotas socialinis būstas arba kurie gauna būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensaciją, apskaita tvarkoma socialinės apsaugos ir darbo ministro nustatyta tvarka.
+
+
+
+
+11. Savivaldybės administracija asmenims ir šeimoms, įrašytiems į Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašą:
+
+
+1) Lietuvos Respublikos socialinių paslaugų įstatymo nustatyta tvarka planuoja ir organizuoja socialines paslaugas, siekdama skatinti šių asmenų ir šeimų socialinį ir ekonominį aktyvumą ir savarankiškumą pagal jų poreikius ir galimybes;
+TAR pastaba. 1 punktas įsigalioja 2023-01-01.
+
+
+
+
+2) pagal poreikį organizuoja pagalbą siekiant jiems gauti būsto nuomos mokesčio dalies kompensaciją. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
+
+
+
+
+12. Savivaldybės administracija:
+
+
+1) asmenims ir šeimoms, kuriems išnuomotas socialinis būstas, planuoja ir organizuoja socialines paslaugas, kaip nurodyta šio straipsnio 11 dalies 1 punkte;
+TAR pastaba. 1 punktas įsigalioja 2023-01-01.
+
+
+
+
+2) savivaldybės tarybos nustatyta tvarka tikrina išnuomoto socialinio būsto būklę, duomenis apie mokesčių už komunalines paslaugas mokėjimą, taip pat tikrina, ar šis būstas naudojamas pagal paskirtį, ar laikomasi kitų jo nuomos sutartyje nustatytų sąlygų. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
  
 
 
@@ -1020,7 +1219,10 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 18 straipsnis. Būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis
 
 
-1. Asmenims ir šeimoms, turintiems teisę į būsto nuomos mokesčio dalies kompensaciją pagal šio įstatymo 10 straipsnį ar į išperkamosios būsto nuomos mokesčio dalies kompensaciją pagal šio įstatymo 8 straipsnį, būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis nustatomas pagal bazinį būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydį, kurį nustato socialinės apsaugos ir darbo ministras, vadovaudamasis Vyriausybės patvirtinta Savivaldybės būsto, socialinio būsto nuomos mokesčių ir būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydžio apskaičiavimo metodika, ir kuris negali būti mažesnis negu Vyriausybės nustatytas minimalus bazinis būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis. 
+1. Asmenims ir šeimoms, turintiems teisę į būsto nuomos mokesčio dalies kompensaciją pagal šio įstatymo 10 straipsnį ar į išperkamosios būsto nuomos mokesčio dalies kompensaciją pagal šio įstatymo 8 straipsnį, būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis nustatomas pagal bazinį būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydį, kurį nustato socialinės apsaugos ir darbo ministras, vadovaudamasis Vyriausybės patvirtinta metodika, ir kuris negali būti mažesnis negu Vyriausybės nustatytas minimalus bazinis būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -1089,12 +1291,12 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 20 straipsnis. Socialinio būsto nuomos sutarties sudarymas, keitimas ir nutraukimas
 
 
-1. Socialinio būsto nuomos sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Civiliniu kodeksu ir šiuo įstatymu. Socialinio būsto nuomos sutarties pavyzdinę formą tvirtina socialinės apsaugos ir darbo ministras.
+1. Socialinio būsto nuomos sutartis sudaroma, keičiama ir nutraukiama, vadovaujantis Civiliniu kodeksu ir šiuo įstatymu. Socialinio būsto nuomos sutarties pavyzdinę formą tvirtina socialinės apsaugos ir darbo ministras.
 
 
 
 
-2. Socialinio būsto nuomos sutartis gali būti keičiama ir asmeniui ar šeimai išnuomojamas kitas būstas, jeigu asmuo ar šeima įgyja teisę į kitokio negu nuomojamas naudingojo ploto socialinį būstą pagal šio įstatymo 15 straipsnyje nustatytą socialinio būsto naudingojo ploto normatyvą arba jeigu asmuo ar šeimos narys tampa neįgaliuoju ir jam (šeimai) yra nuomojamas neįgaliesiems specialiai nepritaikytas socialinis būstas. 
+2. Socialinio būsto nuomos sutartis gali būti keičiama ir asmeniui ar šeimai išnuomojamas kitas būstas, jeigu asmuo ar šeima įgyja teisę į kitokio naudingojo ploto socialinį būstą, negu nuomojamas, pagal šio įstatymo 15 straipsnyje nustatytą socialinio būsto naudingojo ploto normatyvą arba jeigu asmuo ar šeimos narys tampa neįgaliuoju ir jam (šeimai) nuomojamas neįgaliesiems specialiai nepritaikytas socialinis būstas.
 
 
 
@@ -1109,7 +1311,7 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-5. Socialinio būsto nuomos sutartis nutraukiama, kai:
+5. Socialinio būsto nuomos sutartis nutraukiama, jeigu:
 
 
 1) asmuo ar šeima įsigyja būstą nuosavybės teise, išskyrus atvejus, kai įsigyto būsto naudingasis plotas, tenkantis vienam šeimos nariui, yra mažesnis už nustatytą šio įstatymo 9 straipsnio 1 dalies 2 punkte;
@@ -1117,7 +1319,17 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-2) Gyventojų turto deklaravimo įstatyme nustatyta tvarka deklaruoto turto vertė ar pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, daugiau kaip 25 procentais viršija šio įstatymo 11 straipsnio 3 dalyje nustatytus metinius pajamų ir turto dydžius;
+2) Gyventojų turto deklaravimo įstatyme nustatyta tvarka deklaruoto turto vertė ar pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, viršija šio įstatymo 11 straipsnio 3 dalyje nustatytus metinius pajamų ir turto dydžius:
+
+
+a) daugiau kaip 35 procentais arba
+
+
+
+
+b) daugiau kaip 50 procentų, jeigu asmuo yra be šeimos ar jeigu šeimoje motina arba tėvas, globėjas (rūpintojas) vienas augina vieną ar daugiau vaikų, ir (arba) vaiką (vaikus), kuriam (kuriems) nustatyta nuolatinė globa (rūpyba), ar jeigu asmuo yra neįgalusis, ar jeigu šeimoje yra neįgaliųjų;
+
+
 
 
 
@@ -1127,22 +1339,109 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 
-4) asmuo ar šeima pasibaigus kalendoriniams metams, iki kitų metų gegužės 1 dienos, arba dėl svarbių priežasčių (ligos, kai asmuo gydomas stacionare, sužalojimo, nėštumo, likus 70 kalendorinių dienų iki gimdymo, gimdymo ir praėjus 56 kalendorinėms dienoms po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – 70 kalendorinių dienų), dėl savivaldybės, kurios administracijai pateikė prašymą suteikti paramą būstui išsinuomoti, teritorijoje paskelbtos epidemijos, stichinės nelaimės arba nelaimingo atsitikimo, dėl šeimos narių ar artimųjų giminaičių mirties, priežiūros ar slaugymo, dėl sulaikymo, suėmimo, arešto atlikimo, dėl Karo prievolės įstatyme nustatytų pareigų vykdymo) iki kitų metų birželio 1 dienos nepateikė turto (įskaitant gautas pajamas) deklaracijos Gyventojų turto deklaravimo įstatyme nustatyta tvarka;
+4) asmuo ar šeima pasibaigus kalendoriniams metams iki kitų metų gegužės 1 dienos arba dėl svarbių priežasčių (ligos, jeigu asmuo ar šeima gydomi stacionare, sužalojimo, nėštumo, likus 70 kalendorinių dienų iki gimdymo, gimdymo ir praėjus 56 kalendorinėms dienoms po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ar daugiau vaikų – 70 kalendorinių dienų), dėl savivaldybės, kurios administracijai pateikė prašymą suteikti paramą būstui išsinuomoti, teritorijoje paskelbtos epidemijos, stichinės nelaimės arba nelaimingo atsitikimo, dėl šeimos narių ar artimųjų giminaičių mirties, priežiūros ar slaugymo, dėl sulaikymo, suėmimo, arešto, dėl Karo prievolės įstatyme nustatytų pareigų vykdymo) iki kitų metų birželio 1 dienos nepateikė turto (įskaitant gautas pajamas) deklaracijos Gyventojų turto deklaravimo įstatyme nustatyta tvarka;
 
 
 
 
-5) kitais Civiliniame kodekse numatytais atvejais.
+5) nuomininko įsiskolinimas už socialinio būsto nuomą ir (ar) mokesčius už komunalines paslaugas viršija šešių mėnesių socialinio būsto nuomos mokesčio sumą ir jis atsisako šio įstatymo 16 straipsnio 11 dalies 1 punkte nurodytų socialinių paslaugų ar nebendradarbiauja su savivaldybės administracija dėl šių paslaugų teikimo;
+
+
+
+
+6) socialinis būstas naudojamas ne pagal paskirtį;
+
+
+
+
+7) kitais Civiliniame kodekse numatytais atvejais.
 
 
 
 
 
 
-6. Jeigu asmens ar šeimos, nuomojančio (nuomojančios) socialinį būstą, Gyventojų turto deklaravimo įstatyme nustatyta tvarka deklaruoto turto vertė ar pajamos, pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnį įskaitomos į asmens ar šeimos gaunamas pajamas, daugiau kaip 25 procentais viršija šio įstatymo 11 straipsnio 3 dalyje nustatytus metinius pajamų ir turto dydžius, asmens ar šeimos prašymu savivaldybės tarybos nustatytos tvarkos apraše numatytais atvejais šis būstas nuomojamas kaip savivaldybės būstas rinkos kainomis, vadovaujantis Vyriausybės patvirtinta Savivaldybės būsto, socialinio būsto nuomos mokesčių ir būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydžio apskaičiavimo metodika, jeigu asmuo ar šeima neturi nuosavybės teise kito būsto. Savivaldybės būsto nuomos sutartis sudaroma, keičiama ir nutraukiama vadovaujantis Civiliniu kodeksu.
+6. Esant dėl užkrečiamųjų ligų plitimo Vyriausybės paskelbtai valstybės lygio ekstremaliajai situacijai ir (ar) karantinui, taip pat juos atšaukus, iki kitų metų birželio 1 dienos, viršijus metinius pajamų ir turto dydžius, kaip nurodyta šio straipsnio 5 dalies 2 punkte, socialinio būsto nuomos sutartis nenutraukiama.
+
+
+
+
+7. Jeigu asmens ar šeimos, nuomojančio (nuomojančios) socialinį būstą, Gyventojų turto deklaravimo įstatyme nustatyta tvarka deklaruoto turto vertė ar pajamos, pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnį įskaitomos į asmens ar šeimos gaunamas pajamas, viršija šio įstatymo 11 straipsnio 3 dalyje nustatytus metinius pajamų ir turto dydžius, kaip numatyta šio straipsnio 5 dalies 2 punkte, šio asmens ar šeimos prašymu šis būstas nuomojamas kaip savivaldybės būstas, jeigu asmuo ar šeima Lietuvos Respublikoje nuosavybės teise neturi kito būsto ir jeigu:
+
+
+1) asmeniui iki senatvės pensijos amžiaus sukakties yra likę 5 ar mažiau metų;
+
+
+
+
+2) asmuo yra neįgalusis arba šeimoje yra neįgaliųjų;
+
+
+
+
+3) šeima augina tris ar daugiau vaikų ir (ar) vaikų, kuriems nustatyta nuolatinė globa (rūpyba);
+
+
+
+
+4) kitais savivaldybės tarybos patvirtintame tvarkos apraše nustatytais atvejais.
+
+
+
+
+
+
+8. Jeigu planuojama nutraukti socialinio būsto nuomos sutartį šio straipsnio 5 dalies 2,  4–7 punktuose numatytais atvejais, iki asmens ar šeimos, neturinčių nuosavybės teise kito būsto, iškeldinimo savivaldybės administracija planuoja ir organizuoja socialines paslaugas Socialinių paslaugų įstatymo ir kitų teisės aktų, reguliuojančių laikiną apgyvendinimą ar apgyvendinimą nakvynės namuose, nustatyta tvarka – padeda asmeniui ar šeimai susirasti kitas gyvenamąsias patalpas arba organizuoja pagalbą jiems išsinuomojant būstą ir gaunant būsto nuomos mokesčio dalies kompensaciją, jeigu šis asmuo ar šeima negali apsirūpinti būstu savarankiškai.
+
+
+
+
+9. Savivaldybės būstas nuomojamas rinkos kaina, išskyrus atvejus, kai jis nuomojamas Lietuvos Respublikoje nuosavybės teise kito būsto neturintiems:
+
+
+1) asmeniui, kuriam iki senatvės pensijos amžiaus sukakties yra likę 5 ar mažiau metų, ar kitam asmeniui, kuris yra be šeimos;
+
+
+
+
+2) asmeniui, kuris yra neįgalusis, ar šeimai, kurioje yra neįgaliųjų;
+
+
+
+
+3) šeimai, auginančiai tris ar daugiau vaikų ir (ar) vaikų, kuriems nustatyta nuolatinė globa (rūpyba);
+
+
+
+
+4) šeimai, kurioje motina arba tėvas, globėjas (rūpintojas) vienas augina vieną ar daugiau vaikų ir (arba) vaiką (vaikus), kuriam (kuriems) nustatyta nuolatinė globa (rūpyba);
+
+
+
+
+5) šio įstatymo 25 straipsnio 1 dalies 5 punkte nurodytiems asmenims.
+
+
+
+
+
+
+10. Savivaldybės būsto nuomos mokesčio dydį apskaičiuoja savivaldybės administracija ar kitas subjektas, turintis teisės aktų suteiktus įgaliojimus, pagal amortizacinius atskaitymus nusidėvėjimui atkurti, vietovės pataisos koeficientą, būsto naudingąjį plotą, nusidėvėjimą, aprūpinimą komunaliniais patogumais ir rinkos pataisos koeficientą, vadovaudamiesi Vyriausybės patvirtinta metodika. Savivaldybės taryba tvirtina amortizacinius atskaitymus nusidėvėjimui atkurti, pataisos koeficientą, rodantį būsto būklę (nusidėvėjimą), ir nustato rinkos pataisos koeficientą.
+
+
+
+
+11. Šio straipsnio 9 dalyje numatytais atvejais savivaldybės būsto nuomos mokestis negali viršyti socialinio būsto nuomos kainos daugiau kaip 20 procentų. Šiais atvejais mutatis mutandis taikomos šio įstatymo nuostatos dėl turto ir gautų pajamų deklaravimo ir savivaldybės būstas nuomojamas tol, kol asmenų ir šeimų deklaruoto turto vertė ir pajamos neviršija šio įstatymo 11 straipsnio 1 dalyje nustatytų pajamų ir turto dydžių, išskyrus atvejus, kai šio įstatymo nustatyta tvarka būstas turi būti nuomojamas savivaldybės būsto nuomos sąlygomis.
+
+
+
+
+12. Savivaldybės būsto nuomos sutartis sudaroma, keičiama ir nutraukiama, vadovaujantis Civiliniu kodeksu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
  
-
-
 
 
 
@@ -1150,7 +1449,10 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 21 straipsnis. Socialinio būsto nuomos mokesčio dydžio nustatymas 
 
 
-1. Savivaldybės taryba, vadovaudamasi Vyriausybės patvirtinta Savivaldybės būsto, socialinio būsto nuomos mokesčių ir būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydžio apskaičiavimo metodika, nustato socialinio būsto nuomos mokesčio dydį.
+1. Socialinio būsto nuomos mokesčio dydį apskaičiuoja savivaldybės administracija ar kitas subjektas, turintis teisės aktų suteiktus įgaliojimus, pagal amortizacinius atskaitymus nusidėvėjimui atkurti, vietovės pataisos koeficientą, būsto naudingąjį plotą, nusidėvėjimą ir aprūpinimą komunaliniais patogumais, vadovaudamiesi Vyriausybės patvirtinta metodika. Savivaldybės taryba tvirtina amortizacinius atskaitymus nusidėvėjimui atkurti ir pataisos koeficientą, rodantį būsto būklę (nusidėvėjimą). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
 
 
 
@@ -1246,7 +1548,11 @@ SAVIVALDYBĖS BŪSTO IR PAGALBINIO ŪKIO PASKIRTIES PASTATŲ PARDAVIMAS
 25 straipsnis. Savivaldybės būsto ir pagalbinio ūkio paskirties pastatų pardavimo atvejai 
 
 
-1. Savivaldybei nuosavybės teise priklausantis būstas parduodamas laikantis nuostatos, kad jo pardavimo kaina nebus didesnė negu kaina, kuri Lietuvos Respublikos butų privatizavimo įstatyme nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir patikslinta atsižvelgiant į infliaciją, šiais atvejais:
+1. Savivaldybei nuosavybės teise priklausantis būstas savivaldybės tarybos sprendimu parduodamas kaina, kuri nustatoma pagal rinkos vertę, apskaičiuotą Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka, ir kuri mažinama remiantis pardavimo metu Lietuvos statistikos departamento apskaičiuotu gyvenamųjų pastatų statybos sąnaudų elementų kainų pokyčiu, palyginti su 1998 m. liepos 1 d. gyvenamųjų pastatų statybos sąnaudų elementų kainomis. Šioje dalyje nustatyta tvarka apskaičiuota kaina papildomai mažinama 50 procentų. Savivaldybei nuosavybės teise priklausantis būstas parduodamas šiais atvejais:“
+ 
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
 
 
 1) kai būstą perka nuomininkai, kuriems Butų privatizavimo įstatyme nustatyta tvarka Lietuvos Respublikos Seimo sudaryta Butų privatizavimo komisija iki 1998 m. liepos 1 d. buvo išdavusi leidimus privatizuoti nuomojamus būstus pagal Butų privatizavimo įstatymą; 
@@ -1519,3 +1825,8 @@ Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-37, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27345
 Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 5 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 21 ir 25 straipsnių pakeitimo įstatymas
