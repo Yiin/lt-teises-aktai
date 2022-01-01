@@ -15,16 +15,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E"
 
 Projektas XXXX XX XX Nr
 
-Suvestinė redakcija nuo 2017-06-28 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3517, i. k. 1011010ISTA00IX-576
+ 
+TAR pastaba. Įstatymas Nr. XIV-808 taikomas rengiant 2022 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių įmonių grupės konsoliduotuosius metinius pranešimus
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-808, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27386
+Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo Nr. IX-576 10 ir 10-1 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2015-07-01:
 Nr. XII-1697, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08119
  
-LIETUVOS RESPUBLIKOS
-ĮMONIŲ GRUPIŲ KONSOLIDUOTOSIOS FINANSINĖS ATSKAITOMYBĖS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS  ĮMONIŲ GRUPIŲ KONSOLIDUOTOSIOS ATSKAITOMYBĖS ĮSTATYMAS
  
 2001 m. lapkričio 6 d. Nr. IX-576
 Vilnius
@@ -253,9 +256,11 @@ Nr. XIII-95, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29407
 
 3. Įmonių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, konsoliduotajame metiniame pranešime, be šio straipsnio 2 dalyje nustatytos informacijos, turi būti aprašomi įmonių grupės vidaus kontrolės ir rizikos valdymo sistemų, susijusių su konsoliduotųjų finansinių ataskaitų sudarymu, pagrindiniai požymiai.
 
-4. Viešojo intereso įmonės, kurios yra didelės įmonių grupės, kurios vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus paskutinę finansinių metų dieną viršija 500, patronuojančiosios įmonės, be šio straipsnio 2 ir 3 dalyse nustatytos informacijos, į konsoliduotąjį metinį pranešimą įtraukia konsoliduotąją socialinės atsakomybės ataskaitą, išskyrus šio įstatymo 101 straipsnio 8 dalyje nustatytą atvejį. 
+4. Viešojo intereso įmonės, kurios yra didelės įmonių grupės, kurios vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus paskutinę finansinių metų dieną viršija 500, patronuojančiosios įmonės, be šio straipsnio 2 ir 3 dalyse nustatytos informacijos, į konsoliduotąjį metinį pranešimą įtraukia konsoliduotąją socialinės atsakomybės ataskaitą, išskyrus šio įstatymo 101 straipsnio 9 dalyje nustatytą atvejį.
 Papildyta straipsnio dalimi:
 Nr. XIII-95, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29407
+Straipsnio dalies pakeitimai:
+Nr. XIV-808, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27386
  
 
 5. Įmonių veiklą reglamentuojančiuose įstatymuose ir kituose teisės aktuose arba įmonės įstatuose gali būti nustatyta ir daugiau konsoliduotojo metinio pranešimo sudarymo reikalavimų. 
@@ -292,13 +297,30 @@ Nr. XIII-95, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29407
 
 6. Patronuojančioji įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Konsoliduotojoje socialinės atsakomybės ataskaitoje nurodoma, kokiomis sistemomis ar metodikomis vadovautasi.
 
-7. Patronuojančioji įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti konsoliduotąją socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis šiuo įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Konsoliduotajame metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
+7. Konsoliduotojoje socialinės atsakomybės ataskaitoje taip pat pateikiama Reglamento (ES) 2020/852 8 straipsnyje nurodyta informacija. 
+Papildyta straipsnio dalimi:
+Nr. XIV-808, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27386
+ 
 
-8. Patronuojančioji įmonė, kuri parengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, gali neįtraukti konsoliduotosios socialinės atsakomybės ataskaitos į konsoliduotąjį metinį pranešimą, kaip reikalaujama šio įstatymo 10 straipsnio 4 dalyje, jeigu atskira konsoliduotoji socialinės atsakomybės ataskaita praėjus ne ilgesniam kaip trijų mėnesių laikotarpiui po paskutinės finansinių metų dienos skelbiama viešai patronuojančiosios įmonės interneto svetainėje, o konsoliduotajame metiniame pranešime pateikiama nuoroda į ją.
+8. Patronuojančioji įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti konsoliduotąją socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis šiuo įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Konsoliduotajame metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-808, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27386
+ 
 
-9. Jeigu patronuojančioji įmonė pateikė konsoliduotąją socialinės atsakomybės ataskaitą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą, laikoma, kad ji pateikė ir šio įstatymo 10 straipsnio 2 dalies 2 punkte nurodytą nefinansinę informaciją.
+9. Patronuojančioji įmonė, kuri parengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, gali neįtraukti konsoliduotosios socialinės atsakomybės ataskaitos į konsoliduotąjį metinį pranešimą, kaip reikalaujama šio įstatymo 10 straipsnio 4 dalyje, jeigu atskira konsoliduotoji socialinės atsakomybės ataskaita praėjus ne ilgesniam kaip trijų mėnesių laikotarpiui po paskutinės finansinių metų dienos skelbiama viešai patronuojančiosios įmonės interneto svetainėje, o konsoliduotajame metiniame pranešime pateikiama nuoroda į ją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-808, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27386
+ 
 
-10. Auditorius ar audito įmonė patikrina, ar buvo pateikta konsoliduotoji socialinės atsakomybės ataskaita arba atskira konsoliduotoji socialinės atsakomybės ataskaita, ir tai nurodo auditoriaus išvadoje. 
+10. Jeigu patronuojančioji įmonė pateikė konsoliduotąją socialinės atsakomybės ataskaitą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą, laikoma, kad ji pateikė ir šio įstatymo 10 straipsnio 2 dalies 2 punkte nurodytą nefinansinę informaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-808, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27386
+ 
+
+11. Auditorius ar audito įmonė patikrina, ar buvo pateikta konsoliduotoji socialinės atsakomybės ataskaita arba atskira konsoliduotoji socialinės atsakomybės ataskaita, ir tai nurodo auditoriaus išvadoje. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-808, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27386
+ 
 
 Papildyta straipsniu:
 Nr. XIII-95, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29407
@@ -483,4 +505,14 @@ Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybė
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-469, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10831
 Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo Nr. IX-576 2 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-682, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25107
+Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo Nr. IX-576 pavadinimo, 3, 8, 9, 10, 10-1, 12, 15 straipsnių, ketvirtojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-808, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27386
+Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo Nr. IX-576 10 ir 10-1 straipsnių pakeitimo įstatymas
 
