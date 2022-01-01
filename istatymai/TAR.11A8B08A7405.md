@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -184,7 +184,10 @@ Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 
 
 
-6) nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus Bausmių vykdymo kodekso 68 straipsnyje nustatyta tvarka; 
+6) Neteko galios nuo 2022-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
+ 
 
 
 
@@ -452,7 +455,10 @@ Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
 
 
 
-6. Suimtųjų dienotvarkėje privalo būti numatytas darbo, poilsio, buvimo gryname ore, mokymosi, socialinėms ir psichologinėms programoms skirtas laikas.
+6. Suimtųjų dienotvarkėje privalo būti numatytas poilsio, užimtumo, buvimo gryname ore, socialinėms ir psichologinėms programoms skirtas laikas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
+ 
 
 
 
@@ -518,7 +524,10 @@ Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 
 
 
-5) nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus. 
+5) Neteko galios nuo 2022-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -748,35 +757,47 @@ Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
 22 straipsnis. Suimtųjų teisė pasimatyti
 
 
-1. Tardymo izoliatoriaus administracija suimtajam leidžia pasimatyti, jeigu nėra gautas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas neleisti suimtajam pasimatyti. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo pasimatymas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nurodo neleisti suimtajam pasimatyti, jam ir tardymo izoliatoriaus administracijai turi būti nurodoma šio draudimo trukmė, asmenys, su kuriais neleidžiama pasimatyti, ir kitos aplinkybės, dėl kurių draudimą būtina taikyti.
+1. Tardymo izoliatoriaus administracija suimtajam leidžia pasimatyti, jeigu nėra gautas suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinis nurodymas neleisti suimtajam pasimatyti. Duoti šį nurodymą galima tik siekiant užkirsti kelią nusikalstamoms veikoms ar kitiems teisės aktų pažeidimams, apsaugoti kitų asmenų teises ir laisves arba kai suimtojo pasimatymas galėtų pakenkti ikiteisminio tyrimo sėkmei. Jeigu ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nurodo neleisti suimtajam pasimatyti, jam ir tardymo izoliatoriaus administracijai turi būti nurodoma šio draudimo trukmė, asmenys, su kuriais neleidžiama pasimatyti, ir kitos aplinkybės, dėl kurių draudimą būtina taikyti.
 
 
 
 
-2. Suimtojo pasimatymų skaičius neribojamas. Vienas suimtojo pasimatymas gali trukti ne ilgiau kaip tris valandas.
+2. Suimtiesiems leidžiama pasimatyti ne dažniau kaip vieną kartą per dieną. Suimtųjų pasimatymai vyksta prižiūrint tardymo izoliatoriaus administracijai arba neprižiūrint. Pasimatymas neatskiriant lankytojų ir suimtojo gali vykti ne dažniau kaip vieną kartą per mėnesį. Suimtieji pasirenka, kaip įgyvendins savo teisę pasimatyti.
 
 
 
 
-3. Šio įstatymo 12 straipsnio 2 dalyje nurodyti asmenys turi teisę į vieną pasimatymą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
- 
+3. Prižiūrint tardymo izoliatoriaus administracijai suimtiesiems leidžiama pasimatyti šiais būdais: 
+
+
+1) nuotoliniu būdu – iki 2 valandų;
 
 
 
 
-4. Suimtojo pasimatymai vyksta tardymo izoliatoriaus atstovo akivaizdoje specialiose patalpose, įrengtose taip, kad lankytojų ir suimtojo fizinis kontaktas negalimas.
+2) specialiose tardymo izoliatoriaus patalpose, įrengtose taip, kad lankytojų ir suimtojo fizinis kontaktas negalimas, – iki 2 valandų;
 
 
 
 
-5. Suimtojo pasimatymas su sutuoktiniu, sugyventiniu, artimaisiais giminaičiais arba asmeniu, su kuriuo suimtasis turi bendrą vaiką, jei nei suimtasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras suimtojo ir į pasimatymą atvykusio asmens vaikas, ne dažniau kaip vieną kartą per mėnesį gali vykti neatskiriant lankytojų ir suimtojo. Šioje dalyje numatyti pasimatymai vyksta tardymo izoliatoriaus atstovo akivaizdoje, tačiau pokalbio nesiklausoma.
+3) tardymo izoliatoriaus patalpose, neatskiriant suimtojo nuo lankytojų, – iki 3 valandų.
 
 
 
 
-6. Suimtojo pasimatymas su sutuoktiniu, sugyventiniu arba asmeniu, su kuriuo suimtasis turi bendrą vaiką, jei nei suimtasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras suimtojo ir į pasimatymą atvykusio asmens vaikas, gali vykti be tardymo izoliatoriaus atstovo. Šį pasimatymą tardymo izoliatoriaus direktorius ar jo įgaliotas pareigūnas gali suteikti galiojančių nuobaudų neturinčiam suimtajam ne anksčiau kaip po dviejų savaičių nuo suimtojo uždarymo į tardymo izoliatorių dienos, vėliau toks pasimatymas gali būti suteikiamas ne dažniau kaip vieną kartą per mėnesį. Šioje dalyje nurodyti pasimatymai vyksta specialiai įrengtose uždarose patalpose ne ilgiau kaip vieną parą. Į ilgalaikius pasimatymus atvykusiems asmenims sudaromos sąlygos įsigyti maisto produktų tardymo izoliatorių parduotuvėse arba, kai yra galimybių, jiems nemokamai tiekiamas šio įstatymo 44 straipsnio 5 dalyje nurodytas maistas. Į ilgalaikius pasimatymus atvykusių asmenų apsipirkimo pataisos įstaigų parduotuvėse ir maitinimo tvarką nustato Kalėjimų departamento direktorius.
+
+
+4. Šio straipsnio 3 dalyje nurodyti pasimatymai vyksta tardymo izoliatoriaus atstovo akivaizdoje, tačiau pokalbio nesiklausoma. Šio straipsnio 3 dalies 3 punkte nurodyto pasimatymo metu suimtajam leidžiama pasimatyti tik su sutuoktiniu (sugyventiniu), artimaisiais giminaičiais ir asmeniu, su kuriuo suimtasis turi bendrą vaiką, jei nei suimtasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras suimtojo ir į pasimatymą atvykusio asmens vaikas. 
+
+
+
+
+5. Suimtojo pasimatymas su sutuoktiniu, sugyventiniu arba asmeniu, su kuriuo suimtasis turi bendrą vaiką, jei nei suimtasis, nei šis asmuo nėra susituokęs su kitu asmeniu arba neturi sugyventinių ir šis vaikas yra Lietuvos Respublikos teisės aktų nustatyta tvarka registruotas kaip bendras suimtojo ir į pasimatymą atvykusio asmens vaikas, gali vykti neprižiūrint tardymo izoliatoriaus administracijai. Šį pasimatymą tardymo izoliatoriaus direktorius ar jo įgaliotas pareigūnas gali suteikti galiojančių nuobaudų neturinčiam suimtajam ne anksčiau kaip po dviejų savaičių nuo suimtojo uždarymo į tardymo izoliatorių dienos, vėliau toks pasimatymas gali būti suteikiamas ne dažniau kaip vieną kartą per mėnesį.
+
+
+
+
+6. Šio straipsnio 5 dalyje nurodyti pasimatymai vyksta specialiai įrengtose uždarose patalpose ne ilgiau kaip 24 valandas. Šio pasimatymo metu suimtojo arba lankytojų pageidavimu Kalėjimų departamento direktoriaus nustatyta tvarka jiems nemokamai tiekiamas Bausmių vykdymo kodekso 173 straipsnio 4 dalyje nurodytas maistas arba sudaromos sąlygos tardymo izoliatoriuje įsigyti maisto produktų.
 
 
 
@@ -786,11 +807,12 @@ Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 
 
 
-8. Pasimatymų tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+8. Pasimatymų tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
  
 
 
@@ -1073,7 +1095,10 @@ Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 
 
 
-5) pasibaigus pasivaikščiojimui ir ilgalaikiam pasimatymui, sutvarkyti tam skirtą vietą ar patalpą.
+5) pasibaigus pasivaikščiojimui ir pasimatymui, sutvarkyti tam skirtą vietą ar patalpą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
+ 
 
 
 
@@ -1351,33 +1376,25 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-39 straipsnis. Suimtųjų materialinė atsakomybė
+39 straipsnis. Suimtųjų valstybei padarytos turtinės žalos atlyginimas
 
 
-1. Suimtieji atsako už jų buvimo tardymo izoliatoriuose metu valstybei padarytą žalą:
-
-
-1) už žalą, padarytą atliekant darbines pareigas, – tiek, kokio dydžio žalos atlyginimą nustato Lietuvos Respublikos darbo įstatymai;
+1. Suimtieji privalo atlyginti visą jų buvimo tardymo izoliatoriuose metu valstybei padarytą turtinę žalą.
 
 
 
 
-2) už žalą, padarytą kitokiais veiksmais, – tiek, kokio dydžio žalos atlyginimą nustato Civilinis kodeksas.
+2. Suimtųjų valstybei padarytos turtinės žalos atlyginimas išieškomas motyvuotu tardymo izoliatoriaus direktoriaus nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais turtinės žalos atlyginimas išieškomas bendrais Lietuvos Respublikos įstatymų nustatytais pagrindais ir tvarka.
 
 
 
 
+3. Valstybei padarytos turtinės žalos atlyginimo dalis, kurios pagal tardymo izoliatoriaus direktoriaus nutarimą išieškoti žalos atlyginimą neatlygino paleistas iš tardymo izoliatoriaus asmuo, išieškoma Civilinio proceso kodekso nustatyta tvarka. 
 
 
-2. Suimtųjų valstybei padarytos žalos atlyginimas išieškomas motyvuotu tardymo izoliatoriaus direktoriaus nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais žalos atlyginimas išieškomas bendrais Lietuvos Respublikos įstatymų nustatytais pagrindais ir tvarka.
-
-
-
-
-3. Valstybei padarytos žalos atlyginimo dalis, kurios pagal tardymo izoliatoriaus direktoriaus nutarimą išieškoti žalos atlyginimą paleistas iš tardymo izoliatoriaus asmuo iki galo neatlygino, išieškoma Civilinio proceso kodekso nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
  
-
-
 
 
 
@@ -1389,46 +1406,80 @@ SUIMTŲJŲ UŽIMTUMAS IR JŲ SOCIALINIŲ POREIKIŲ TENKINIMAS
  
 
 
-40 straipsnis. Suimtųjų įtraukimas į darbą
+40 straipsnis. Suimtųjų užimtumas
 
 
-1. Tardymo izoliatoriuose, jei yra galimybė dirbti, suimtieji gali dirbti tik jų rašytiniu prašymu ir šių suimtųjų ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam dirbti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalyje nurodytiems asmenims, norintiems dirbti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+1. Tardymo izoliatoriaus administracija, organizuodama suimtųjų užimtumą, privalo kiekvienam suimtajam pasiūlyti įvairios prasmingos veiklos, kad  bendras suimtojo už kameros ribų praleidžiamas laikas būtų ne trumpesnis kaip keturios valandos per parą.
+
+
+
+
+2. Suimtųjų užimtumo įvairia prasminga veikla formos:
+
+
+1) bendrasis ugdymas;
+
+
+
+
+2) nuotolinės studijos;
+
+
+
+
+3) individuali veikla;
+
+
+
+
+4) dalyvavimas kultūrinėje, švietėjiškoje, sporto veikloje;
+
+
+
+
+5) darbinė veikla.
+
+
+
+
+
+
+3. Tardymo izoliatoriaus administracija, organizuodama suimtųjų užimtumą:
+
+
+1) konsultuoja suimtuosius, siekdama padidinti jų motyvaciją pradėti ar tęsti mokymąsi tardymo izoliatoriuje veikiančioje bendrojo ugdymo mokykloje;
+
+
+
+
+2) sudaro sąlygas suimtiesiems nuotoliniu būdu studijuoti už tardymo izoliatoriaus teritorijos ribų veikiančiose švietimo įstaigose;
+
+
+
+
+3) padeda suimtiesiems įsigyti jų individualiai veiklai reikalingų priemonių;
+
+
+
+
+4) organizuoja kultūrinius, švietėjiškus ir sporto renginius.
+
+
+
+
+
+
+4. Suimtųjų užimtumas, kai tai būtina, organizuojamas laikantis šio įstatymo 10 straipsnyje nustatytų reikalavimų. 
+
+
+
+
+5. Jei yra galimybė, suimtieji gali jų rašytiniu prašymu užsiimti darbine veikla. Suimtųjų užimtumas darbine veikla nelaikomas darbo santykiais ir darbo teisę reglamentuojantys teisės aktai suimtųjų užimtumo darbine veikla nereglamentuoja. Darbine veikla suimtiesiems leidžiama užsiimti tik tardymo izoliatoriaus teritorijoje. Už darbinės veiklos rezultatus, atsižvelgdama į šios veiklos sudėtingumą, apimtis ir veiklai atlikti skirtą laiką, tardymo izoliatoriaus administracija suimtiesiems moka pinigines išmokas. Šių išmokų apskaičiavimo tvarką nustato Kalėjimų departamento direktorius. Darbine veikla pataisos įstaigoje užsiimantiems suimtiesiems piniginės išmokos mokamos iš socialinės paramos nuteistiesiems fonde sukauptų lėšų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
  
-
-
-
-
-2. Suimtieji gali dirbti tik tardymo izoliatoriaus teritorijoje ir turi būti užtikrintas šio įstatymo 10 straipsnio reikalavimų vykdymas.
-
-
-
-
-3. Tardymo izoliatoriuose laikomiems asmenims draudžiama dirbti darbus ir eiti pareigas, nustatytas Bausmių vykdymo kodekso 2 priede.
-
-
-
-
-4. Suimtiesiems nustatoma ne ilgesnė kaip aštuonių valandų darbo diena. Darbo (pamainos) pradžią ir pabaigą nustato tardymo izoliatoriaus direktorius, vadovaudamasis šio įstatymo 11 straipsnio 6 dalies nuostatomis. Suimtiesiems suteikiamos dvi poilsio dienos per savaitę. Dirbti negali būti skiriama švenčių ir poilsio dienomis. Suimtųjų darbas organizuojamas remiantis darbuotojų saugą ir sveikatą reglamentuojančiais teisės aktais.
-
-
-
-
-5. Suimtieji valstybiniu socialiniu draudimu nedraudžiami, išskyrus Lietuvos Respublikos įstatymų nustatytą nelaimingų atsitikimų darbe ir profesinių ligų socialinį draudimą. Suimtieji gali draustis savanorišku valstybiniu socialiniu draudimu nustatyta tvarka arba sudaryti pensijos sutartis su pensijų fondais įstatymų nustatyta tvarka ir sąlygomis.
-
-
-
-
-6. Už suimtųjų darbą apmokama atsižvelgiant į jo kiekį ir kokybę Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-
-
-
-
-7. Suimtieji, kurie tardymo izoliatoriuose dirbdami neteko darbingumo, turi teisę į žalos atlyginimą Lietuvos Respublikos įstatymų nustatyta tvarka.
- 
-
-
 
 
 
@@ -1456,15 +1507,15 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-42 straipsnis. Socialinis darbas ir užimtumas
+42 straipsnis. Socialinis darbas su suimtaisiais
 
 
-1. Socialinį darbą su suimtaisiais ir jų užimtumą organizuoja tardymo izoliatorių administracija.
+1. Socialinį darbą su suimtaisiais organizuoja tardymo izoliatoriaus administracija.
 
 
 
 
-2. Pagrindinės užimtumo formos yra šios:
+2. Pagrindinės socialinio darbo su suimtaisiais formos:
 
 
 1) socialinis ir teisinis švietimas;
@@ -1477,24 +1528,19 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-3) pagalba sprendžiant suimtųjų problemas;
-
-
-
-
-4) kultūros, sporto ir kiti renginiai.
+3) pagalba sprendžiant suimtųjų problemas.
 
 
 
 
 
 
-3. Socialinis darbas su suimtaisiais ir jų užimtumas, kai tai būtina, organizuojamas laikantis šio įstatymo 10 straipsnyje nustatytų reikalavimų.
-Straipsnio dalies pakeitimai:
-Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+3. Socialinis darbas su suimtaisiais, kai tai būtina, organizuojamas laikantis šio įstatymo 10 straipsnyje nustatytų reikalavimų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
  
-
-
 
 
 
@@ -1721,7 +1767,7 @@ PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
  
 
