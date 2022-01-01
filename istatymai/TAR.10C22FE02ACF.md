@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10c22fe02acf11eabe008ea93139d588"
 
 # Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2019-12-30, i. k. 2019-21534
  
@@ -55,7 +55,10 @@ Vilnius
 
 
 
-3. Registracija – Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo nustatyta tvarka M1 klasei ir N1 klasei priskirtos motorinės transporto priemonės  įregistravimas Kelių transporto priemonių registre arba duomenų apie pasikeitusį Kelių transporto priemonių registre įregistruotos M1 klasei ir N1 klasei priskirtos motorinės transporto priemonės valdytoją įrašymas į šį registrą, išskyrus atvejus, kai keičiami transporto priemonės valdytojo duomenys: juridinio asmens pavadinimas arba fizinio asmens vardas ir (ar) pavardė, o po duomenų pakeitimo faktinis motorinės transporto priemonės valdytojas nesikeičia.
+3. Registracija – Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo nustatyta tvarka M1 klasei ir N1 klasei priskirtos motorinės transporto priemonės įregistravimas Kelių transporto priemonių registre arba duomenų apie pasikeitusį Kelių transporto priemonių registre įregistruotos M1 klasei ir N1 klasei priskirtos motorinės transporto priemonės valdytoją įrašymas į šį registrą, išskyrus atvejus, kai keičiami transporto priemonės valdytojo duomenys: juridinio asmens pavadinimas arba fizinio asmens vardas ir (ar) pavardė, tačiau faktinis į šį registrą įrašytas motorinės transporto priemonės valdytojas pakeitus valdytojo duomenis nesikeičia, arba į šį registrą įrašomas naujas motorinės transporto priemonės valdytojas buvusio valdytojo, kuris buvo motorinės transporto priemonės savininkas, mirties atveju.
+Straipsnio dalies pakeitimai:
+Nr. XIV-727, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25845
+ 
 
 
 
@@ -493,3 +496,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3423, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24250
 Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymo Nr. XIII-2690 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-727, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25845
+Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymo Nr. XIII-2690 2 straipsnio pakeitimo įstatymas
