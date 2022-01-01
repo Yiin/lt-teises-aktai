@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2021-12-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -1662,12 +1662,18 @@ TAR pastaba. Sveikatos priežiūros įstaigų darbuotojams darbo užmokestis per
 
 
 
-2. Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros įstaigų, sudariusių sutartis su teritorinėmis ligonių kasomis dėl paslaugų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, patirtos išlaidos, susijusios su šių įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu pagal šio straipsnio 1 dalį, apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis sveikatos apsaugos ministro nustatyta tvarka. Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros įstaigų, nesudariusių sutarčių su teritorinėmis ligonių kasomis dėl paslaugų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, patirtos išlaidos, susijusios su šių įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu pagal šio straipsnio 1 dalį, apmokamos valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka. 
+2. Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros įstaigų  išlaidos, susijusios su šių įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu pagal šio straipsnio 1 dalį, apmokamos valstybės biudžeto lėšomis sveikatos apsaugos ministro, suderinus su finansų ministru, nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-748, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26578
+ 
 
 
 
 
-3. Lietuvos nacionalinei sveikatos sistemai nepriklausančių sveikatos priežiūros įstaigų patirtos išlaidos, susijusios su sveikatos priežiūros įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu, nustatomos ir apmokamos iš valstybės biudžeto lėšų su šiomis įstaigomis Vyriausybės nustatyta tvarka sudaromose sutartyse numatytomis sąlygomis. 
+3. Iš valstybės biudžeto lėšų sveikatos apsaugos ministro, suderinus su finansų ministru, nustatyta tvarka apmokama ta dalis Lietuvos nacionalinei sveikatos sistemai nepriklausančių sveikatos priežiūros įstaigų išlaidų, susijusių su sveikatos priežiūros įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu, kuri atitinka šio straipsnio 1 dalyje nustatytas darbo užmokesčio didinimo sąlygas ir neviršija šio straipsnio 1 dalyje nustatytų darbo užmokesčio didinimo dydžių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-748, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26578
+ 
 
 
 Papildyta straipsniu:
@@ -2060,3 +2066,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-620, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23538
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 18 ir 40 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-748, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26578
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 32-1 straipsnio pakeitimo įstatymas
