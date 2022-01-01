@@ -13,18 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2024-07-14
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
  
  
 
  
-LIETUVOS RESPUBLIKOS
-KLIMATO KAITOS VALDYMO FINANSINIŲ INSTRUMENTŲ
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KLIMATO KAITOS VALDYMO ĮSTATYMAS 
  
 2009 m. liepos 7 d. Nr. XI-329 Vilnius
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
@@ -55,7 +56,10 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Anglies dioksido ekvivalentas – metano (CH4), azoto suboksido (N2O), hidrofluorangliavandenilių (HFC), perfluorangliavandenilių (PFC), sieros heksafluorido (SF6) dujų kiekis, kuris daro tokį patį poveikį klimato kaitai kaip viena tona anglies dioksido.
+1. Anglies dioksido ekvivalentas – metano (CH4), azoto suboksido (N2O), hidrofluorangliavandenilių (HFC), perfluorangliavandenilių (PFC), sieros heksafluorido (SF6), azoto trifluorido (NF3) dujų kiekis, kuris daro tokį patį poveikį klimato kaitai kaip viena tona anglies dioksido (CO2).
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -124,7 +128,10 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 
 
-13. Šiltnamio efektą sukeliančios dujos (išmetamieji teršalai) – anglies dioksidas (CO2), metanas (CH4), azoto suboksidas (N2O), hidrofluorangliavandeniliai (HFC), perfluorangliavandeniliai (PFC) ir sieros heksafluoridas (SF6).
+13. Šiltnamio efektą sukeliančios dujos (ŠESD) – anglies dioksidas (CO2), metanas (CH4), azoto suboksidas (N2O), hidrofluorangliavandeniliai (HFC), perfluorangliavandeniliai (PFC), sieros heksafluoridas (SF6) ir azoto trifluoridas (NF3).
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -140,6 +147,13 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 
 16. Veiklos vykdytojas – asmuo, kuris valdo ir (ar) naudoja Lietuvos Respublikos teritorijoje esančius šiltnamio efektą sukeliančias dujas išmetančius įrenginius ir pagal Lietuvos Respublikos teisės aktus turi lemiamų ekonominių svertų įrenginių techninio funkcionavimo klausimams spręsti, arba orlaivio naudotojas, kurių veikla patenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą. 
+
+
+
+
+17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2018/841.
+Papildyta straipsnio dalimi:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
@@ -229,7 +243,10 @@ Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
 
 
 
-3. Nacionalinės klimato kaitos valdymo politikos kryptis nustato Lietuvos Respublikos Seimas tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Ilgesnės negu 10 metų trukmės nacionalinės klimato kaitos valdymo politikos tikslus ir uždavinius nustato Seimas tvirtindamas Nacionalinę klimato kaitos valdymo darbotvarkę. Nacionalinės klimato kaitos valdymo politikos 10 metų strateginius tikslus ir (arba) pažangos uždavinius tvirtina Lietuvos Respublikos Vyriausybė Nacionaliniame pažangos plane. Nacionalinės klimato kaitos valdymo politikos priemones Nacionaliniame pažangos plane ir Nacionalinėje klimato kaitos valdymo darbotvarkėje numatytiems uždaviniams įgyvendinti Vyriausybė suplanuoja nacionalinėse plėtros programose ir Nacionalinės klimato kaitos valdymo darbotvarkės plane. 
+3. Nacionalinės klimato kaitos valdymo politikos kryptis nustato Lietuvos Respublikos Seimas tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Ilgesnės negu 10 metų trukmės nacionalinės klimato kaitos valdymo politikos tikslus ir uždavinius nustato Seimas tvirtindamas Nacionalinę klimato kaitos valdymo darbotvarkę. Nacionalinės klimato kaitos valdymo politikos 10 metų strateginius tikslus ir (ar) pažangos uždavinius tvirtina Lietuvos Respublikos Vyriausybė Nacionaliniame pažangos plane. Nacionalinės klimato kaitos valdymo politikos priemones Nacionaliniame pažangos plane ir Nacionalinėje klimato kaitos valdymo darbotvarkėje numatytiems uždaviniams įgyvendinti Vyriausybė suplanuoja nacionalinėse plėtros programose ir Nacionaliniame energetikos ir klimato srities veiksmų plane (toliau – NEKS veiksmų planas). NEKS veiksmų plano priemonės ir projektai įgyvendinami rengiant ir įgyvendinant nacionalines plėtros programas ir jų priemones pagal Vyriausybės tvirtinamos Strateginio valdymo metodikos reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 Straipsnio pakeitimai:
@@ -289,16 +306,20 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 
 
-3. Kiekvienais kalendoriniais metais veiklos vykdytojai iki aplinkos ministro nustatyto termino privalo atsisakyti tokio apyvartinių taršos leidimų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus jų išmestam į atmosferą anglies dioksido kiekiui, išreikštam tonomis, ir (ar) anglies dioksido ekvivalento kiekiui, išreikštam tonomis, ir tai deklaruoti Sąjungos šiltnamio efektą sukeliančių dujų registre. Veiklos vykdytojai vietoj apyvartinių taršos leidimų gali atsisakyti Europos Komisijos nustatyto kiekio Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje pripažįstamų bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetų ir (ar) patvirtintų išmetamųjų teršalų mažinimo vienetų. 
+3. Kiekvienais kalendoriniais metais veiklos vykdytojai iki aplinkos ministro nustatyto termino privalo atsisakyti tokio apyvartinių taršos leidimų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus jų išmestam į atmosferą anglies dioksido kiekiui, išreikštam tonomis, ir (ar) anglies dioksido ekvivalento kiekiui, išreikštam tonomis, ir tai deklaruoti Sąjungos šiltnamio efektą sukeliančių dujų registre.
 Straipsnio dalies pakeitimai:
 Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
 Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
 
 
-4. Veiklos vykdytojai ir (ar) kiti asmenys apyvartinius taršos leidimus gali mainyti į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje pripažįstamų bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetus ir (ar) patvirtintus išmetamųjų teršalų mažinimo vienetus. 
+4. Neteko galios nuo 2022-01-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -372,7 +393,10 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 
 
-2. Veiklos vykdytojas, teikdamas paraišką dėl taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo su leidimu išmesti šiltnamio efektą sukeliančias dujas, leidimą išduodančiai institucijai papildomai pateikia aplinkos ministro nustatytos formos įsipareigojimą atsisakyti apyvartinių taršos leidimų ir (ar) Kioto vienetų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus į atmosferą išmestam ir nepriklausomo vertintojo patikrintam šiltnamio efektą sukeliančių dujų kiekiui.
+2. Veiklos vykdytojas, teikdamas paraišką dėl taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo su leidimu išmesti šiltnamio efektą sukeliančias dujas, leidimą išduodančiai institucijai papildomai pateikia aplinkos ministro nustatytos formos įsipareigojimą atsisakyti apyvartinių taršos leidimų kiekio, kuris yra lygiavertis per praėjusius kalendorinius metus į atmosferą išmestam ir nepriklausomo vertintojo patikrintam šiltnamio efektą sukeliančių dujų kiekiui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -406,15 +430,23 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 
 
-3. Apyvartiniai taršos leidimai galioja Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo galiojimo laikotarpiu. 
+3. Apyvartiniai taršos leidimai galioja neterminuotai. Nuo 2021 m. sausio 1 d. išduotų apyvartinių taršos leidimų, kuriems taikomas 10 metų laikotarpis atsiskaitymams už išmestą šiltnamio efektą sukeliančių dujų kiekį, galiojimo pradžia laikomi to laikotarpio pirmieji metai.
 Straipsnio dalies pakeitimai:
 Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
 
 
 4. Apyvartiniai taršos leidimai panaikinami veiklos vykdytojo arba asmens, turinčio teisę disponuoti apyvartiniais taršos leidimais, prašymu aplinkos ministro nustatyta tvarka arba pasibaigus įmonei. 
+
+
+
+
+5. Draudžiama disponuoti Sąjungos šiltnamio efektą sukeliančių dujų registre veiklos vykdytojo sąskaitoje turimais apyvartiniais taršos leidimais, kurie buvo paskirti nemokamai, kai veiklos vykdytojui iškeliama bankroto byla. Iškėlus veiklos vykdytojui bankroto bylą, šiais apyvartiniais taršos leidimais galima atsiskaityti tik už bankrutuojančio veiklos vykdytojo išmestą šiltnamio efektą sukeliančių dujų kiekį, o likę nepanaudoti apyvartiniai taršos leidimai grąžinami į Sąjungos šiltnamio efektą sukeliančių dujų registre esančią apyvartinių taršos leidimų paskirstymo sąskaitą.
+Papildyta straipsnio dalimi:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
@@ -440,7 +472,10 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 
 
-4. Kai nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo siūlo sudaryti sandorį, už kurį būtų atsiskaitoma nauju ilgalaikiu materialiuoju turtu, Vyriausybė įvertina šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos pateiktą aplinkosauginės ir finansinės naudos reikšmingumo pagrindimą. Pagrindimas parengiamas Vyriausybės nustatyta tvarka, numatant, kad turi būti įvertintas ir pagrįstas ekvivalentiškų gautinų lėšų už perleidžiamus nustatytosios normos vienetus ir siūlomo naujo ilgalaikio materialiojo turto verčių skirtumas. Vyriausybė gali priimti sprendimą, kad nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo už perleidžiamus nustatytosios normos vienetus gali atsiskaityti ekvivalentišku lėšų už perleidžiamus nustatytosios normos vienetus kiekiui nauju ilgalaikiu materialiuoju turtu, kuris atitinka Europos ir Lietuvos standartų reikalavimus ir bus naudojamas klimato kaitą mažinantiems šio įstatymo 10 straipsnio 3 dalies 1 ir 2 punktuose nurodytų Klimato kaitos programos lėšų panaudojimo krypčių projektams ir (ar) priemonėms įgyvendinti (toliau – turtas). Nustatytosios normos vienetų vertė nustatoma pagal šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos derybų būdu su nustatytosios normos vienetus perkančiąja valstybe ar jos įgaliotu asmeniu sutartą Lietuvos Respublikai palankiausią kainą.
+4. Kai nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo siūlo sudaryti sandorį, už kurį būtų atsiskaitoma nauju ilgalaikiu materialiuoju turtu, Vyriausybė įvertina Vyriausybės įgaliotos institucijos pateiktą aplinkosauginės ir finansinės naudos reikšmingumo pagrindimą. Pagrindimas parengiamas Vyriausybės nustatyta tvarka, numatant, kad turi būti įvertintas ir pagrįstas ekvivalentiškų gautinų lėšų už perleidžiamus nustatytosios normos vienetus ir siūlomo naujo ilgalaikio materialiojo turto verčių skirtumas. Vyriausybė gali priimti sprendimą, kad nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo už perleidžiamus nustatytosios normos vienetus gali atsiskaityti ekvivalentišku lėšų už perleidžiamus nustatytosios normos vienetus kiekiui nauju ilgalaikiu materialiuoju turtu, kuris atitinka Europos ir Lietuvos standartų reikalavimus ir bus naudojamas klimato kaitą mažinantiems šio įstatymo 10 straipsnio 3 dalies 1 ir 2 punktuose nurodytų Klimato kaitos programos lėšų panaudojimo krypčių projektams ir (ar) priemonėms įgyvendinti (toliau – turtas). Nustatytosios normos vienetų vertė nustatoma pagal Vyriausybės įgaliotos institucijos derybų būdu su nustatytosios normos vienetus perkančiąja valstybe ar jos įgaliotu asmeniu sutartą Lietuvos Respublikai palankiausią kainą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -506,7 +541,10 @@ Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
 3. Programos lėšos naudojamos:
 
 
-1) energijos vartojimo ir gamybos efektyvumo didinimo projektams: gyvenamiesiems namams ir visuomeninės paskirties pastatams modernizuoti, kitiems projektams, kurie leidžia efektyviausiai sumažinti išmetamų šiltnamio efektą sukeliančių dujų kiekį energetikos, pramonės, statybos, transporto, žemės ūkio, atliekų tvarkymo ir kitose srityse, įgyvendinti;
+1) energijos vartojimo efektyvumo didinimo projektams: gyvenamiesiems namams ir visuomeninės paskirties pastatams modernizuoti; kitiems projektams, kurie leidžia efektyviausiai sumažinti išmetamų šiltnamio efektą sukeliančių dujų kiekį energetikos, pramonės, statybos, transporto, žemės ūkio, atliekų tvarkymo ir kitose srityse, įgyvendinti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -516,15 +554,19 @@ Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
 
 
 
-3) Nacionaliniame pažangos plane ir Nacionalinės klimato kaitos valdymo darbotvarkėje numatytus nacionalinės klimato kaitos valdymo politikos uždavinius įgyvendinančių nacionalinių plėtros programų ir Nacionalinės klimato kaitos valdymo darbotvarkės plano priemonėms ir jas įgyvendinantiems projektams vykdyti; 
+3) Nacionaliniame pažangos plane ir Nacionalinėje klimato kaitos valdymo darbotvarkėje numatytus nacionalinės klimato kaitos valdymo politikos uždavinius įgyvendinančių NEKS veiksmų plano ir nacionalinių plėtros programų priemonėms ir jas įgyvendinantiems projektams vykdyti;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
 
 
-4) miškams atkurti ir įveisti;
+4) žemės naudojimo, žemės naudojimo keitimo ir miškininkystės sektoriaus šiltnamio efektą sukeliančių dujų absorbcinėms galimybėms didinti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -544,7 +586,10 @@ Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
 
 
 
-8) Programos lėšų administravimui ir Sąjungos šiltnamio efektą sukeliančių dujų registro administravimui finansuoti. 
+8) Programos lėšoms ir Sąjungos šiltnamio efektą sukeliančių dujų registrui administruoti, nacionalinėms išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos ir prognozių rengimo sistemoms parengti, politikos ir priemonių poveikio klimato kaitos švelninimui vertinti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -557,29 +602,34 @@ Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
 4. Programos lėšų valdymo bendrosios nuostatos:
 
 
-1) metines Programos lėšų panaudojimo sąmatas ir ataskaitas rengia ir programos lėšas administruoja Vyriausybės įgaliota institucija;
+1) ketverių metų Programos investicijų planus, metines Programos lėšų panaudojimo ataskaitas rengia ir Programos lėšas administruoja Aplinkos ministerija;
 
 
 
 
-2) metines Programos lėšų panaudojimo sąmatas ir ataskaitas, apsvarstytas su Nacionaliniu klimato kaitos komitetu ir Seimo Aplinkos apsaugos komitetu, tvirtina Vyriausybė arba jos įgaliota institucija;
+2) ketverių metų Programos investicijų planus ir jų pakeitimus, apsvarstytus su Seimo Aplinkos apsaugos komitetu, tvirtina Vyriausybė; 
 
 
 
 
-3) Programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, naudojamos kitiems metams numatytoms šio straipsnio 3 dalies 1–7 punktuose nurodytoms priemonėms finansuoti. 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 10 straipsnio 4 dalies (2018 m. birželio 30 d. redakcija; TAR, 2018-07-05, Nr. 11504) 3 punktas prieštarauja Lietuvos Respublikos Konstitucijos 129 straipsniui, 131 straipsnio 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+3) metines Programos lėšų panaudojimo praėjusių kalendorinių metų ataskaitas Aplinkos ministerija teikia Vyriausybei ir Seimo Aplinkos apsaugos komitetui;
+
+
+
+
+4) kartu su ketverių metų Programos investicijų planais ir metinėmis Programos lėšų panaudojimo praėjusių kalendorinių metų ataskaitomis pateikiama informacija apie planuojamus šiltnamio efektą sukeliančių dujų kiekio sumažinimus kiekvienai finansavimo krypčiai.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
 
 
-5. Jeigu Vyriausybė pagal šio įstatymo 9 straipsnio 4 dalį priima sprendimą dėl nustatytosios normos vienetų įsigijimo ir perleidimo sandorio sudarymo, pagal kurį nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo mainais už perleidžiamus nustatytosios normos vienetus atsiskaito turtu, ir šio straipsnio 4 dalies 1 punkte nurodyta Vyriausybės įgaliota institucija pasirašo nustatytosios normos vienetų įsigijimo ir perleidimo sutartį, mainais už perleistus nustatytosios normos vienetus gautas turtas Vyriausybės sprendimu perduodamas šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų Programos lėšų panaudojimo krypčių projektus ir (ar) priemones įgyvendinantiems subjektams:
+5. Jeigu Vyriausybė pagal šio įstatymo 9 straipsnio 4 dalį priima sprendimą dėl nustatytosios normos vienetų įsigijimo ir perleidimo sandorio sudarymo, pagal kurį nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo mainais už perleidžiamus nustatytosios normos vienetus atsiskaito turtu, ir jeigu šio įstatymo 9 straipsnio 4 dalyje nurodyta Vyriausybės įgaliota institucija pasirašo nustatytosios normos vienetų įsigijimo ir perleidimo sutartį, mainais už perleistus nustatytosios normos vienetus gautas turtas Vyriausybės sprendimu perduodamas šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų Programos lėšų panaudojimo krypčių projektus ir (ar) priemones įgyvendinantiems subjektams:
 
 
 1) savivaldybėms nuosavybėn jų funkcijoms įgyvendinti, kai yra savivaldybės tarybos sutikimas;
@@ -587,25 +637,29 @@ Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 
 
 
-2) valstybės institucijoms ir įstaigoms valdyti, naudoti ir disponuoti šiuo turtu patikėjimo teise. 
+2) valstybės institucijoms ir įstaigoms valdyti, naudoti ir disponuoti šiuo turtu patikėjimo teise.
 
 
-Papildyta straipsnio dalimi:
-Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
 
 
-6. Turto priėmimo–perdavimo aktą pasirašo šio straipsnio 5 dalies 1 ir 2 punktuose nurodyti turtą perimantys subjektai ir šio straipsnio 4 dalies 1 punkte nurodyta Vyriausybės įgaliota institucija. 
+6. Turto priėmimo–perdavimo aktą pasirašo šio straipsnio 5 dalies 1 ir 2 punktuose nurodyti turtą perimantys subjektai ir šio įstatymo 9 straipsnio 4 dalyje nurodyta Vyriausybės įgaliota institucija.
 Papildyta straipsnio dalimi:
 Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
 
 
-7. Nacionalinį klimato kaitos komitetą – Vyriausybės įgaliotos institucijos, administruojančios Programos lėšas, patariamąjį organą – sudaro valstybės institucijų, asociacijų, mokslo ir studijų institucijų ir kitų institucijų atstovai. Nacionalinio klimato kaitos komiteto sudėtį ir veiklos nuostatus tvirtina aplinkos ministras. Nacionalinis klimato kaitos komitetas nėra juridinis asmuo.
+7. Neteko galios nuo 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
  
@@ -660,7 +714,9 @@ BENDRAI ĮGYVENDINAMI IR ŠVARIOS PLĖTROS PROJEKTAI
 
 
 
-5. Veiklos vykdytojai ir (ar) ūkio subjektai, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą, gali panaudoti bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetus ir patvirtintus išmetamųjų teršalų mažinimo vienetus jiems nustatyto išmetamų šiltnamio efektą sukeliančių dujų sumažinimo tikslo daliai užskaityti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+5. Veiklos vykdytojai ir (ar) ūkio subjektai, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą, gali panaudoti bendrai įgyvendinamų ir švarios plėtros projektų veiklos išmetamųjų teršalų mažinimo vienetus ir patvirtintus išmetamųjų teršalų mažinimo vienetus jiems nustatyto išmetamų šiltnamio efektą sukeliančių dujų sumažinimo tikslo iki 2020 m. gruodžio 31 d. daliai užskaityti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
@@ -678,7 +734,10 @@ SĄJUNGOS ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ REGISTRAS
 12 straipsnis. Sąjungos šiltnamio efektą sukeliančių dujų registro naudojimas
 
 
-1. Lietuvos Respublikai, jos teritorijoje registruotiems veiklos vykdytojams ir (ar) jai priskirtiems administruoti orlaivių naudotojams nuosavybės teise priklausantys Kioto vienetai, apyvartiniai taršos leidimai, Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams paskirti metinių šiltnamio efektą sukeliančių dujų kiekio vienetai registruojami Sąjungos šiltnamio efektą sukeliančių dujų registre esančiose Lietuvos Respublikos jurisdikcijai priklausančiose sąskaitose.
+1. Lietuvos Respublikai, jos teritorijoje registruotiems veiklos vykdytojams ir (ar) jai priskirtiems administruoti orlaivių naudotojams nuosavybės teise priklausantys Kioto vienetai, apyvartiniai taršos leidimai, Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams paskirti metinių šiltnamio efektą sukeliančių dujų kiekio vienetai ir žemės naudojimo, žemės naudojimo keitimo ir miškininkystės sektoriaus išmetamo ir absorbuoto šiltnamio efektą sukeliančių dujų kiekio vienetai, sukaupti pagal Europos Sąjungos teisės aktų, reglamentuojančių žemės naudojimo, žemės naudojimo keitimo ir miškininkystės sektoriaus lankstumo priemones, reikalavimus, registruojami Sąjungos šiltnamio efektą sukeliančių dujų registre esančiose Lietuvos Respublikos jurisdikcijai priklausančiose sąskaitose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -724,7 +783,10 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 3. Atestatai išduodami ne vėliau kaip per 20 darbo dienų nuo visų tinkamai įformintų dokumentų ir reikalingos atestatui gauti informacijos pateikimo dienos. Jeigu per nustatytą terminą sprendimas išduoti atestatą nepriimamas, nelaikoma, kad atestatas išduotas. Jeigu sprendimui priimti reikalinga papildoma informacija iš kitų institucijų, įstaigų arba kitų fizinių ar juridinių asmenų, sprendimo priėmimo terminas gali būti vieną kartą pratęstas iki 10 darbo dienų, apie tai informavus pareiškėją iki šioje dalyje nurodyto atestato išdavimo termino pabaigos. Atestatai išduodami neterminuotam laikui šio straipsnio 1 dalyje nurodytiems fiziniams ir juridiniams asmenims, kurie atitinka šiuos reikalavimus:
 
 
-1) juridinis asmuo atestuojamai veiklai atlikti yra įdarbinęs ne mažesnį kaip aplinkos ministro nustatytą skaičių darbuotojų, turinčių teisės aktų nustatyta tvarka arba kitos valstybės narės atsakingos institucijos išduotą pažymėjimą, patvirtinantį kvalifikaciją atlikti šaldymo įrangos patikrą dėl fluorintų šiltnamio efektą sukeliančių dujų nuotėkio, ją montuoti, eksploatuoti, atlikti jos techninę priežiūrą ir (ar) surinkti fluorintas šiltnamio efektą sukeliančias dujas iš šaldymo įrangos, o fizinis asmuo turi šiame punkte nurodytą pažymėjimą;
+1) juridiniame asmenyje atestuojamai veiklai atlikti dirba ne mažesnis kaip aplinkos ministro nustatytas skaičius darbuotojų, turinčių teisės aktų nustatyta tvarka arba kitos valstybės narės atsakingos institucijos išduotą pažymėjimą, patvirtinantį kvalifikaciją atlikti šaldymo įrangos patikrą dėl fluorintų šiltnamio efektą sukeliančių dujų nuotėkio, ją montuoti, eksploatuoti, atlikti jos techninę priežiūrą ir (ar) surinkti fluorintas šiltnamio efektą sukeliančias dujas iš šaldymo įrangos, o fizinis asmuo turi šiame punkte nurodytą pažymėjimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -792,19 +854,22 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 6. Atestato galiojimo sustabdymas panaikinamas:
 
 
-1) atestato turėtojui per šio straipsnio 2 dalyje nurodytos Aplinkos ministerijos įgaliotos institucijos nustatytą terminą pateikus patikslintus duomenis, kai atestato galiojimas sustabdytas šio straipsnio 5 dalies 1 punkte numatytais pagrindais, išskyrus atvejus, kai buvo pateikti suklastoti dokumentai;
+1) atestato turėtojui per 30 kalendorinių dienų pateikus patikslintus duomenis, kai atestato galiojimas sustabdytas šio straipsnio 5 dalies 1 punkte numatytais pagrindais, išskyrus atvejus, kai buvo pateikti suklastoti dokumentai;
 
 
 
 
-2) atestato turėtojui per šio straipsnio 2 dalyje nurodytos Aplinkos ministerijos įgaliotos institucijos nustatytą terminą užtikrinus atitiktį šio straipsnio 3 dalyje nustatytiems reikalavimams, kai atestato galiojimas sustabdytas šio straipsnio 5 dalies 2 punkte numatytais pagrindais;
+2) atestato turėtojui per 30 kalendorinių dienų užtikrinus atitiktį šio straipsnio 3 dalyje nustatytiems reikalavimams, kai atestato galiojimas sustabdytas šio straipsnio 5 dalies 2 punkte numatytais pagrindais;
 
 
 
 
-3) atestato turėtojo prašymu, kai atestato galiojimas sustabdytas šio straipsnio 5 dalies 3 punkte numatytais pagrindais.
+3) atestato turėtojo prašymu, kai atestato galiojimas sustabdytas šio straipsnio 5 dalies 3 punkte numatytais pagrindais.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -822,12 +887,18 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 
 
-3) atestato turėtojas po atestato galiojimo sustabdymo per nurodytą terminą nepateikė patikslintų duomenų, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 1 punkte numatytais pagrindais;
+3) atestato turėtojas po atestato galiojimo sustabdymo per 30 kalendorinių dienų nepateikė patikslintų duomenų, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 1 punkte numatytais pagrindais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
 
-4) atestato turėtojas per šio straipsnio 2 dalyje nurodytos Aplinkos ministerijos įgaliotos institucijos nustatytą terminą neužtikrino atitikties šio straipsnio 3 dalyje nustatytiems reikalavimams, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 2 punkte numatytais pagrindais;
+4) atestato turėtojas per 30 kalendorinių dienų neužtikrino atitikties šio straipsnio 3 dalyje nustatytiems reikalavimams, jeigu atestato galiojimas sustabdytas šio straipsnio 5 dalies 2 punkte numatytais pagrindais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
 
 
 
@@ -875,8 +946,69 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 
 
+
+
+122 straipsnis. Transporto priemonių oro kondicionierių pildymo fluorintomis šiltnamio efektą sukeliančiomis dujomis paslaugos kokybės užtikrinimo garantinio termino nustatymas 
+
+
+Atlikus transporto priemonių oro kondicionierių pildymo fluorintomis šiltnamio efektą sukeliančiomis dujomis paslaugą, transporto priemonių oro kondicionierių pildymo fluorintomis šiltnamio efektą sukeliančiomis dujomis veiklos vykdytojas privalo suteikti oro kondicionieriaus pildymo paslaugos kokybės garantinį terminą, ne trumpesnį kaip trims mėnesiams.
+
+
+Papildyta straipsniu:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+ 
+
+
 Papildyta skirsniu:
 Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
+ 
+
+
+
+
+PENKTASIS2 SKIRSNIS
+NACIONALINĖS IŠMETAMŲ Į ATMOSFERĄ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ APSKAITOS IR PROGNOZIŲ RENGIMO SISTEMOS
+ 
+
+
+123 straipsnis. Nacionalinė išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos sistema
+
+
+1. Aplinkos ministras paskiria už nacionalinės išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos ataskaitos rengimą ir teikimą atsakingas institucijas, nustato šios ataskaitos (ar jos atskirų dalių) rengimo ir teikimo tvarką, periodiškumą ir terminus. Nacionalinės išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos paskirtis – įvertinti iš atskirų šaltinių dėl žmogaus veiklos išmetamų ir absorbuojamų šiltnamio efektą sukeliančių dujų kiekį, taip pat užtikrinti šiltnamio efektą sukeliančių dujų apskaitos duomenų parengimą laiku, skaidrumą, tikslumą, nuoseklumą, palyginamumą ir išsamumą. 
+
+
+
+
+2. Siekiant užtikrinti nacionalinės išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos kokybę ir siekiant į apskaitos procesą įtraukti Lietuvos mokslo ir studijų institucijas, kitas institucijas, aplinkos ministras sudaro Nacionalinės išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos ataskaitos rengimo darbo grupę, tvirtina jos sudėtį ir darbo reglamentą. Nacionalinės išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos ataskaitos rengimo darbo grupės veiklos tikslas – atlikti ekspertines duomenų analizes, apskaičiuoti išmetamų ir absorbuojamų šiltnamio efektą sukeliančių dujų kiekį atskiruose energetikos, transporto, pramonės procesų ir produktų naudojimo, žemės ūkio, atliekų, žemės naudojimo, žemės naudojimo keitimo ir miškininkystės sektoriuose. Nacionalinės išmetamų į atmosferą šiltnamio efektą sukeliančių dujų apskaitos ataskaitos rengimo darbo grupės narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+124 straipsnis. Nacionalinė išmetamų į atmosferą šiltnamio efektą sukeliančių dujų prognozių rengimo sistema 
+
+
+Vyriausybė arba jos įgaliota institucija nustato nacionalinę politikos ir priemonių poveikio vertinimo, šiltnamio efektą sukeliančių dujų kiekio prognozių ir ataskaitų rengimo ir teikimo tvarką ir paskiria atsakingas už politikos ir priemonių poveikio vertinimą ir modeliavimu pagrįstą iš atskirų šaltinių dėl žmogaus veiklos išmetamo ir absorbuojamo šiltnamio efektą sukeliančių dujų kiekio prognozavimą institucijas.
+ 
+ 
+
+
+
+
+
+
+125 straipsnis. Nacionalinis klimato kaitos komitetas
+
+
+Nepriklausomoms mokslinėms konsultacijoms nacionalinės klimato kaitos valdymo politikos formavimo, vertinimo ir įgyvendinimo klausimais teikti sudaromas Nacionalinis klimato kaitos komitetas, kurio sudėtį ir veiklos nuostatus tvirtina aplinkos ministras. Nacionalinis klimato kaitos komitetas yra patariamoji Aplinkos ministerijos institucija, neturinti juridinio asmens statuso, sudaryta iš mokslo ir studijų institucijų atstovų.
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
@@ -903,18 +1035,14 @@ Skiriama vieno šimto eurų atitinkamai pagal Europos vartotojų kainų indeksą
 
 
 
-3) veiklos vykdytojams už kiekvieną išmestą į atmosferą anglies dioksido toną ar anglies dioksido ekvivalentą, dėl kurio šio įstatymo 5 straipsnio 3 dalyje nustatytu terminu jie neatsisako apyvartinių taršos leidimų ir (ar) išmetamųjų teršalų mažinimo vienetų, ir (ar) patvirtintų išmetamųjų teršalų sumažinimo vienetų, arba
-
-
-
-
-4) veiklos vykdytojams, kurie per kalendorinius metus išmeta į atmosferą didesnį šiltnamio efektą sukeliančių dujų kiekį, negu išmesti leidžia praėjusiais kalendoriniais metais turėti ir (ar) šio įstatymo 5 straipsnio 4 dalyje nustatytais pagrindais įsigyti apyvartiniai taršos leidimai ir (ar) vykdant bendrai įgyvendinamus ir (ar) švarios plėtros projektus įsigyti išmetamųjų teršalų mažinimo vienetai, ir (ar) patvirtinti išmetamųjų teršalų sumažinimo vienetai, – už kiekvieną anglies dioksido toną ar anglies dioksido ekvivalentą. 
+3) veiklos vykdytojams už kiekvieną išmestą į atmosferą anglies dioksido toną ar anglies dioksido ekvivalentą, dėl kurio šio įstatymo 5 straipsnio 3 dalyje nustatytu terminu jie neatsisako apyvartinių taršos leidimų.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
@@ -1137,9 +1265,10 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 
 
-3. Asmenys, kuriems paskirta ekonominė bauda už šio įstatymo 13 straipsnio 3 ir 4 punktuose nurodytas veikas, neatleidžiami nuo įsipareigojimo atsisakyti apyvartinių taršos leidimų ir (ar) Kioto vienetų, atitinkančių tą perteklinį išmetamų šiltnamio efektą sukeliančių dujų kiekį, kuris susidarytų, jeigu būtų atsisakoma kitų kalendorinių metų leidimų ir (ar) Kioto vienetų. 
+3. Asmenys, kuriems paskirta ekonominė bauda už šio įstatymo 13 straipsnio 3 punkte nurodytas veikas, neatleidžiami nuo įsipareigojimo atsisakyti apyvartinių taršos leidimų, atitinkančių tą perteklinį išmetamų šiltnamio efektą sukeliančių dujų kiekį, kuris susidarytų, jeigu būtų atsisakoma kitų kalendorinių metų apyvartinių taršos leidimų.
 Straipsnio dalies pakeitimai:
 Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
@@ -1210,10 +1339,8 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
 
  
-Lietuvos Respublikos 
-klimato kaitos 
-valdymo finansinių 
-instrumentų įstatymo 
+Lietuvos Respublikos
+klimato kaitos valdymo įstatymo
 1 priedas 
  
  
@@ -1427,89 +1554,97 @@ VEIKLOS RŪŠIŲ SĄRAŠAS
 
 
  29. 
- Aviacija Orlaivių skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą arba iš jo. Šiai veiklai nepriskiriami: a) skrydžiai, išskirtinai skirti skraidinti šalies, kuri nėra valstybė narė, oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, jei tai įrodo atitinkamas statuso žymuo skrydžio plane; b) kariniais orlaiviais atliekami kariniai skrydžiai ir muitinės bei policijos tarnybų skrydžiai; c) skrydžiai, susiję su paieška ir gelbėjimu, gaisrų gesinimo skrydžiai, humanitariniai skrydžiai ir greitosios medicinos pagalbos skrydžiai, kuriuos leido atitinkama kompetentinga institucija; d) visi skrydžiai, atliekami išskirtinai pagal vizualiųjų skrydžių taisykles, kaip apibrėžta Tarptautinės civilinės aviacijos konvencijos (Čikagos konvencijos) 2 priede; e) skrydžiai be tarpinių nutūpimų, užbaigiami orlaivio pakilimo aerodrome; f) mokomieji skrydžiai, skirti išskirtinai gauti licenciją arba skrydžio įgulai – įgyti kvalifikaciją, jei tai įrodo atitinkamas žymuo skrydžio plane tuo atveju, jei skrydis nėra skirtas keleiviams ir (arba) kroviniams skraidinti arba orlaivio padėčiai nustatyti ar orlaiviui perkelti; g) skrydžiai, skirti išskirtinai moksliniams tyrimams atlikti arba orlaiviams ar įrangai (naudojamai ore arba antžeminei) tikrinti, bandyti ar patvirtinti; h) orlaivio, kurio patvirtinta didžiausioji kilimo masė yra ne didesnė kaip 5 700 kg, skrydžiai; i) skrydžiai, atliekami vykdant su viešosiomis paslaugomis susijusius įsipareigojimus, kurie nustatyti pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 1) maršrutams atokiausiuose regionuose, kaip nurodyta Sutarties dėl Europos Sąjungos veikimo 355 straipsnio 1 dalyje, arba maršrutams, kuriais per metus siūloma pervežti ne daugiau kaip 30 000 keleivių; ir j) skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka komercinės oro transporto priemonės naudotojas, vykdantis: – mažiau negu 243 skrydžius per tris iš eilės keturių mėnesių laikotarpius; arba – skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 10 000 tonų. Skrydžiai, kurių vienintelis tikslas – skraidinti valstybės narės oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, pagal šį punktą šiai veiklai negali būti nepriskiriami; k) nuo 2013 m. sausio 1 d. iki 2030 m. gruodžio 31 d. – skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka nekomercinės oro transporto priemonės naudotojas, vykdantis skrydžius, kurių bendras metinis išmetamų teršalų kiekis yra mažesnis kaip 1 000 tonų. 
+ Aviacija Orlaivių skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą arba iš jo. Šiai veiklai nepriskiriami: a) skrydžiai, išskirtinai skirti skraidinti šalies, kuri nėra valstybė narė, oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, jei tai įrodo atitinkamas statuso žymuo skrydžio plane; b) kariniais orlaiviais atliekami kariniai skrydžiai ir muitinės bei policijos tarnybų skrydžiai; c) skrydžiai, susiję su paieška ir gelbėjimu, gaisrų gesinimo skrydžiai, humanitariniai skrydžiai ir greitosios medicinos pagalbos skrydžiai, kuriuos leido atitinkama kompetentinga institucija; d) visi skrydžiai, atliekami išskirtinai pagal vizualiųjų skrydžių taisykles, kaip apibrėžta Tarptautinės civilinės aviacijos konvencijos (Čikagos konvencijos) 2 priede; e) skrydžiai be tarpinių nutūpimų, užbaigiami orlaivio pakilimo aerodrome; f) mokomieji skrydžiai, skirti išskirtinai gauti licenciją arba skrydžio įgulai – įgyti kvalifikaciją, jei tai įrodo atitinkamas žymuo skrydžio plane tuo atveju, jei skrydis nėra skirtas keleiviams ir (arba) kroviniams skraidinti arba orlaivio padėčiai nustatyti ar orlaiviui perkelti; g) skrydžiai, skirti išskirtinai moksliniams tyrimams atlikti arba orlaiviams ar įrangai (naudojamai ore arba antžeminei) tikrinti, bandyti ar patvirtinti; h) orlaivio, kurio patvirtinta didžiausioji kilimo masė yra ne didesnė kaip 5 700 kg, skrydžiai; i) skrydžiai, atliekami vykdant su viešosiomis paslaugomis susijusius įsipareigojimus, kurie nustatyti pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių maršrutams atokiausiuose regionuose, kaip nurodyta Sutarties dėl Europos Sąjungos veikimo 355 straipsnio 1 dalyje, arba maršrutams, kuriais per metus siūloma pervežti ne daugiau kaip 30 000 keleivių; ir j) skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka komercinės oro transporto priemonės naudotojas, vykdantis: – mažiau negu 243 skrydžius per tris iš eilės keturių mėnesių laikotarpius; arba – skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 10 000 tonų. Skrydžiai, kurie nurodyti šio punkto l ir m papunkčiuose arba kurių vienintelis tikslas – skraidinti valstybės narės oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, pagal šį punktą šiai veiklai negali būti nepriskiriami; k) nuo 2013 m. sausio 1 d. iki 2030 m. gruodžio 31 d. – skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka nekomercinės oro transporto priemonės naudotojas, vykdantis skrydžius, kurių bendras metinis išmetamų teršalų kiekis yra mažesnis kaip 1 000 tonų (įskaitant teršalus, išmetamus vykdant šio punkto l ir m papunkčiuose nurodytus skrydžius); l) skrydžiai iš Šveicarijos Konfederacijoje esančių aerodromų į Europos ekonominėje erdvėje esančius aerodromus; m) skrydžiai iš Jungtinės Karalystės teritorijoje esančių aerodromų į Europos ekonominės erdvės teritorijoje esančius aerodromus. 
  Anglies dioksidas 
  Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai orlaivio naudotojams taikomi nuo 2012 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.     
 
 
 
  
-Punkto pakeitimai:
-Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
-Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
+
+
+Priedo pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
 
 
 
 
-
-
  
-Lietuvos Respublikos 
-klimato kaitos 
-valdymo finansinių 
-instrumentų įstatymo 
+Lietuvos Respublikos
+klimato kaitos valdymo įstatymo
 2 priedas 
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 631), su paskutiniais pakeitimais, padarytais 2018 m. kovo 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/410 (OL 2018 L 76, p. 3). 
-Punkto pakeitimai:
-Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
+1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB, su paskutiniais pakeitimais, padarytais 2020 m. gegužės 18 d. Komisijos deleguotuoju sprendimu (ES) 2020/1071. 
+
+
+
+
+2. 2008 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 303/2008, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 842/2006 nustatomi būtiniausi įmonių sertifikavimo ir darbuotojų atestavimo, susijusio su stacionaria šaldymo, oro kondicionavimo įranga ir šilumos siurbliais, kuriuose yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų, reikalavimai ir pažymėjimų abipusio pripažinimo sąlygos. 
+
+
+
+
+3. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos sprendimas Nr. 406/2009/EB dėl valstybių narių pastangų mažinti jų šiltnamio efektą sukeliančių dujų emisijas, Bendrijai siekiant įvykdyti įsipareigojimus iki 2020 m. sumažinti šiltnamio efektą sukeliančių dujų emisijas.
+
+
+
+
+4. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011, su paskutiniais pakeitimais, padarytais 2019 m. kovo 12 d. Komisijos deleguotuoju reglamentu (ES) 2019/1123. 
+
+
+
+
+5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006. 
+
+
+
+
+6. 2015 m. lapkričio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2015/2067, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) Nr. 517/2014 nustatomi fizinių asmenų sertifikavimo, susijusio su stacionaria šaldymo, oro kondicionavimo, šilumos siurblių įranga ir izoterminių sunkvežimių ir priekabų šaldymo įrenginiais, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų, ir įmonių sertifikavimo, susijusio su stacionaria šaldymo, oro kondicionavimo ir šilumos siurblių įranga, kurioje yra fluorintų šiltnamio efektą sukeliančių dujų, būtiniausi reikalavimai ir abipusio pripažinimo sąlygos.
+
+
+
+
+7. 2017 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2392, kuriuo iš dalies keičiama Direktyva 2003/87/EB, siekiant išlaikyti dabartinius jos taikymo aviacijos veiklai apribojimus ir pasirengti nuo 2021 m. įgyvendinti pasaulinę rinkos priemonę.
+
+
+
+
+8. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/841 dėl šiltnamio efektą sukeliančių dujų, išmetamų ir absorbuojamų dėl žemės naudojimo, žemės naudojimo keitimo ir miškininkystės, kiekio įtraukimo į 2030 m. klimato ir energetikos politikos strategiją, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 525/2013 ir Sprendimas Nr. 529/2013/ES, su paskutiniais pakeitimais, padarytais 2020 m. spalio 28 d. Komisijos deleguotuoju reglamentu (ES) 2021/268.
+
+
+
+
+9. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/842, kuriuo, prisidedant prie klimato politikos veiksmų, kad būtų vykdomi įsipareigojimai pagal Paryžiaus susitarimą, valstybėms narėms nustatomi įpareigojimai 2021–2030 m. laikotarpiu sumažinti išmetamų šiltnamio efektą sukeliančių dujų metinį kiekį, ir iš dalies keičiamas Reglamentas (ES) Nr. 525/2013.
+
+
+
+
+10. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1999 dėl energetikos sąjungos ir klimato politikos veiksmų valdymo, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 663/2009 ir (EB) Nr. 715/2009, Europos Parlamento ir Tarybos direktyvos 94/22/EB, 98/70/EB, 2009/31/EB, 2009/73/EB, 2010/31/ES, 2012/27/ES ir 2013/30/ES, Tarybos direktyvos 2009/119/EB ir (ES) 2015/652 ir panaikinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 525/2013, su paskutiniais pakeitimais, padarytais 2019 m. kovo 19 d. Europos Parlamento ir Tarybos sprendimu (ES) 2019/504.
+
+
+
+
+11. 2020 m. gegužės 18 d. Komisijos deleguotasis sprendimas (ES) 2020/1071, kuriuo dėl ES šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos netaikymo atvykstamiesiems skrydžiams iš Šveicarijos iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2003/87/EB.
+
+
+
+
+12. 2020 m. rugpjūčio 7 d. Komisijos įgyvendinimo reglamentas 2020/1208 dėl informacijos, valstybių narių teikiamos pagal Europos Parlamento ir Tarybos reglamentą (ES) 2018/1999, struktūros, formato, teikimo tvarkos ir peržiūros, kuriuo panaikinamas Komisijos įgyvendinimo reglamentas (ES) Nr. 749/2014.
+
+
+
+
+13. 2021 m. birželio 17 d. Komisijos deleguotasis reglamentas (ES) 2021/1416, kuriuo dėl Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos netaikymo atvykstamiesiems skrydžiams iš Jungtinės Karalystės iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2003/87/EB.
+
+
+Priedo pakeitimai:
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
  
-
-
-
-
-2. 2013 m. gegužės 2 d. Komisijos reglamentas (ES) Nr. 389/2013, kuriuo pagal Europos Parlamento ir Tarybos direktyvą 2003/87/EB ir Europos Parlamento ir Tarybos sprendimus Nr. 280/2004/EB ir Nr. 406/2009/EB įsteigiamas Sąjungos registras ir panaikinami Komisijos reglamentai (ES) Nr. 920/2010 ir Nr. 1193/2011 (OL 2013 L 122, p. 1). 
-Punkto pakeitimai:
-Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
- 
-
-
-
-
-3. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos sprendimas Nr. 406/2009/EB dėl valstybių narių pastangų mažinti jų šiltnamio efektą sukeliančių dujų emisijas, Bendrijai siekiant įvykdyti įsipareigojimus iki 2020 m. sumažinti šiltnamio efektą sukeliančių dujų emisijas (OL 2009 L 140, p. 136).
-
-
-
-
-4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES)  Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195). 
-Papildyta punktu:
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
-Punkto pakeitimai:
-Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
- 
-
-
-
-
-5. 2008 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 303/2008, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 842/2006 nustatomi būtiniausi įmonių sertifikavimo ir darbuotojų atestavimo, susijusio su stacionaria šaldymo, oro kondicionavimo įranga ir šilumos siurbliais, kuriuose yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų, reikalavimai ir pažymėjimų abipusio pripažinimo sąlygos (OL 2008 L 92, p. 3). 
-Papildyta punktu:
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
- 
-
-
-
-
-6. 2008 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 304/2008, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 842/2006 nustatomi būtiniausi įmonių sertifikavimo ir darbuotojų atestavimo, susijusio su stacionariomis priešgaisrinėmis sistemomis ir gesintuvais, kuriuose yra tam tikrų fluorintų šiltnamio efektą sukeliančių dujų, reikalavimai ir pažymėjimų abipusio pripažinimo sąlygos (OL 2008 L 92, p. 12). 
-Papildyta punktu:
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
- 
-
-
-
-
-7. 2017 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2392, kuriuo iš dalies keičiama Direktyva 2003/87/EB, siekiant išlaikyti dabartinius jos taikymo aviacijos veiklai apribojimus ir pasirengti nuo 2021 m. įgyvendinti pasaulinę rinkos priemonę (OL 2017 L 350, p. 7). 
-Papildyta punktu:
-Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
-Punkto pakeitimai:
-Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
- 
-
-
  
  
 Pakeitimai:
@@ -1553,3 +1688,8 @@ Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
 Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 antrojo skirsnio pavadinimo, 3, 4, 9, 10 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-674, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24299
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 pavadinimo, 2, 3, 5, 7, 8, 9, 10, 11, 12, 12-1, 13, 20 straipsnių, 1 ir 2 priedų pakeitimo ir Įstatymo papildymo 12-2 straipsniu ir penktuoju-2 skirsniu įstatymas
