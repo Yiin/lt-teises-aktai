@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-26
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1951,17 +1951,8 @@ Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
 
 
 
-7. Atrenkant pretendentus į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas, įvertinamos kiekvieno pretendento profesinės žinios ir įgūdžiai, gebėjimas teorines žinias ir įgūdžius taikyti praktiškai, darbo teisėju arba kito teisinio darbo stažas, kiti kiekybiniai ir kokybiniai teisinės veiklos rodikliai, etikos reikalavimų laikymasis profesinėje ir kitoje veikloje, mokslinė ir pedagoginė veikla, papildomai gali būti atsižvelgiama į teismo, kuriame teisėjas dirba ir į kurį pretenduoja, teisėjų kolektyvų nuomonę. 
-
-
-
-
-8. Atrankos komisija savo išvadoje dėl pretendentų į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas Respublikos Prezidentui motyvuotai nurodo vieną ar kelis asmenis, tinkamiausius būti apylinkės teismo teisėjais. 
-
-
-
-
-9. Pretendentas, dalyvavęs atrankoje į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas, turi teisę per septynias dienas po Atrankos komisijos išvadų paskelbimo pateikti Aukščiausiajam Teismui skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų įvertinimui. Aukščiausiasis Teismas, priėmęs skundą, turi teisę sustabdyti teisėjo skyrimo į tą apylinkės teismą procedūrą, apie tokį sprendimą nedelsiant pranešdamas Respublikos Prezidento kanceliarijai. Šiuos skundus Aukščiausiajame Teisme nagrinėja trijų teisėjų kolegija. Skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų įvertinimui, Aukščiausiasis Teismas turi išnagrinėti ne vėliau kaip per trisdešimt dienų nuo skundo gavimo dienos. Aukščiausiasis Teismas, pripažinęs, kad atrankos į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas metu buvo padaryta esminių procedūrinių pažeidimų, turėjusių įtakos objektyviam atrankoje dalyvavusių pretendentų įvertinimui, gali įpareigoti Atrankos komisiją iš naujo įvertinti atrankoje dalyvavusį ir skundą pateikusį pretendentą arba Atrankos komisijos išvadą panaikinti. Tokiu atveju atranka į to apylinkės teismo laisvas arba atsilaisvinsiančias teisėjų vietas atliekama iš naujo.
+7. Atrenkant pretendentus į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas, įvertinamos kiekvieno pretendento asmeninės būdo ir pažintinės savybės, profesinės žinios ir įgūdžiai, gebėjimas teorines žinias ir įgūdžius taikyti praktiškai, darbo teisėju arba kito teisinio darbo stažas, kiti kiekybiniai ir kokybiniai teisinės veiklos rodikliai, etikos reikalavimų laikymasis profesinėje ir kitoje veikloje, mokslinė ir pedagoginė veikla, papildomai gali būti atsižvelgiama į teismo, kuriame teisėjas dirba ir į kurį pretenduoja, teisėjų kolektyvų nuomonę.
+TAR pastaba. 551 straipsnio 7 dalies nuostatos taikomos asmenims, dalyvaujantiems pretendentų į laisvas arba atsilaisvinančias apylinkės teismo teisėjų vietas, teisėjų karjeros siekiančių asmenų, kandidatų į teismo pirmininko, teismo pirmininko pavaduotojo ar skyriaus pirmininko pareigas atrankose, paskelbtose po 2022-01-01.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
  
@@ -1969,7 +1960,37 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
-10. Atrankos komisijos išvados dėl pretendentų į laisvas arba atsilaisvinsiančias teisėjų vietas Respublikos Prezidento nesaisto.
+8. Pretendentų į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas asmenines būdo ir pažintines savybes vertina Atrankos komisija. Nustatant asmenines būdo ir pažintines savybes, asmens kompetencijų vertinimui, atskleidžiančiam asmens pasirengimą būti teisėju, atlikti pasitelkiami ekspertai. Ekspertai pasitelkiami ir asmens kompetencijų vertinimas atliekamas Teisėjų tarybos nustatyta tvarka. Asmens kompetencijų vertinimas atliekamas iš naujo, jei nuo ankstesnio vertinimo praėjo daugiau kaip penkeri metai arba asmens prašymu, kai nuo ankstesnio vertinimo praėjo daugiau kaip treji metai. Asmens kompetencijų vertinimo rezultatai pateikiami Nacionalinės teismų administracijos direktoriui arba jo įgaliotam asmeniui, taip pat pretendentui į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas. Su asmens kompetencijų vertinimo rezultatais susipažinti ir juos naudoti gali Respublikos Prezidentas, vidinį teismų administravimą ir teismų administracinės veiklos priežiūrą atliekantys subjektai, Nacionalinės teismų administracijos direktorius ar jų įgalioti asmenys, Atrankos komisijos, Nuolatinės teisėjų veiklos vertinimo komisijos prie Teisėjų tarybos (toliau – Vertinimo komisija), Teisėjų etikos ir drausmės komisijos, Teisėjų garbės teismo ir Teisėjų tarybos nariai, kai tai būtina teisės aktuose nustatytoms jų funkcijoms atlikti. Kiti asmenys susipažinti su asmens kompetencijų vertinimo rezultatais ir juos naudoti gali tik įstatymų numatytais atvejais ir pagrindais. 
+TAR pastaba. 551 straipsnio 8 dalies nuostatos taikomos asmenims, dalyvaujantiems pretendentų į laisvas arba atsilaisvinančias apylinkės teismo teisėjų vietas, teisėjų karjeros siekiančių asmenų, kandidatų į teismo pirmininko, teismo pirmininko pavaduotojo ar skyriaus pirmininko pareigas atrankose, paskelbtose po 2022-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+ 
+
+
+
+
+9. Atrankos komisija savo išvadoje dėl pretendentų į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas Respublikos Prezidentui motyvuotai nurodo vieną ar kelis asmenis, tinkamiausius būti apylinkės teismo teisėjais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+ 
+
+
+
+
+10. Pretendentas, dalyvavęs atrankoje į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas, turi teisę per septynias dienas po Atrankos komisijos išvadų paskelbimo pateikti Aukščiausiajam Teismui skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų įvertinimui. Aukščiausiasis Teismas, priėmęs skundą, turi teisę sustabdyti teisėjo skyrimo į tą apylinkės teismą procedūrą, apie tokį sprendimą nedelsiant pranešdamas Respublikos Prezidento kanceliarijai. Šiuos skundus Aukščiausiajame Teisme nagrinėja trijų teisėjų kolegija. Skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų įvertinimui, Aukščiausiasis Teismas turi išnagrinėti ne vėliau kaip per trisdešimt dienų nuo skundo gavimo dienos. Aukščiausiasis Teismas, pripažinęs, kad atrankos į laisvas arba atsilaisvinsiančias apylinkės teismo teisėjų vietas metu buvo padaryta esminių procedūrinių pažeidimų, turėjusių įtakos objektyviam atrankoje dalyvavusių pretendentų įvertinimui, gali įpareigoti Atrankos komisiją iš naujo įvertinti atrankoje dalyvavusį ir skundą pateikusį pretendentą arba Atrankos komisijos išvadą panaikinti. Tokiu atveju atranka į to apylinkės teismo laisvas arba atsilaisvinsiančias teisėjų vietas atliekama iš naujo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+ 
+
+
+
+
+11. Atrankos komisijos išvados dėl pretendentų į laisvas arba atsilaisvinsiančias teisėjų vietas Respublikos Prezidento nesaisto.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -2428,23 +2449,16 @@ Nr. XI-1479, 2011-06-21, Žin., 2011, Nr. 78-3804 (2011-06-30)
 
 
 
-691 straipsnis. Teisėjų karjeros siekiančių asmenų atranka
+691 straipsnis. Teisėjų karjeros siekiančių asmenų atranka
 
 
-1. Teisėjų karjeros siekiančių asmenų atranka į laisvas teisėjų vietas vyksta pagal Teisėjų karjeros siekiančių asmenų atrankos nuostatus, kuriuos tvirtina Teisėjų taryba. Atrenkant teisėjų karjeros siekiančius asmenis, įvertinami kiekvieno pretendento darbo teisėju kokybė, dalykinės ir asmeninės savybės, organizaciniai gebėjimai bei pirmenybę suteikiantys privalumai. Teisėjų karjeros siekiančių asmenų vertinimo kriterijus nustato Teisėjų taryba.
-
-
-
-
-2. Kai teisės krypties socialinių mokslų daktarai ir habilituoti daktarai, prokurorai, advokatai siekia tapti apygardos administracinio teismo, apygardos teismo, Vyriausiojo administracinio teismo, Apeliacinio teismo ir Aukščiausiojo Teismo teisėjais, įvertinamos tik jų asmeninės savybės ir bendrieji gebėjimai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
- 
+1. Atrenkant teisėjų karjeros siekiančius asmenis, įvertinami kiekvieno pretendento darbo pobūdis ir kokybė, asmeninės būdo ir pažintinės savybės ir pirmenybę suteikiantys privalumai. Asmeninės būdo ir pažintinės savybės vertinamos šio Įstatymo 551 straipsnio 8 dalyje nustatyta tvarka. Teisėjų karjeros siekiančių asmenų vertinimo kriterijus nustato Teisėjų taryba.
 
 
 
 
-3. Teisėjų karjeros siekiančius asmenis atrenka šio Įstatymo 551 straipsnio 1 dalyje nurodyta Atrankos komisija. Teisėjų karjeros siekiančių asmenų atrankai taikomi šio Įstatymo 551 straipsnio reikalavimai.
+2. Teisėjų karjeros siekiančius asmenis atrenka Atrankos komisija pagal Teisėjų karjeros siekiančių asmenų vertinimo kriterijus šio Įstatymo 551 straipsnyje nustatyta tvarka.
+TAR pastaba. 691 straipsnis taikomas asmenims, dalyvaujantiems pretendentų į laisvas arba atsilaisvinančias apylinkės teismo teisėjų vietas, teisėjų karjeros siekiančių asmenų, kandidatų į teismo pirmininko, teismo pirmininko pavaduotojo ar skyriaus pirmininko pareigas atrankose, paskelbtose po 2022 m. sausio 1 d.
 
 
 Įstatymas papildytas straipsniu:
@@ -2453,6 +2467,8 @@ Straipsnio pakeitimai:
 Nr. IX-2240, 2004-05-18, Žin., 2004, Nr. 84-3042 (2004-05-25)
 Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
 Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
+Straipsnio pakeitimai:
+Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
  
 
 
@@ -2620,7 +2636,11 @@ ir Vyriausiojo administracinio teismo pirmininko, pirmininko
 pavaduotojo, skyriaus pirmininko skyrimo tvarka
 
 
-1. Kandidatūras į laisvas arba atsilaisvinsiančias apylinkės teismo, apygardos administracinio teismo, apygardos teismo, Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko vietas parenka šio Įstatymo 551 straipsnio 1 dalyje nurodyta Atrankos komisija pagal Teisėjų tarybos patvirtintus Teisėjų karjeros siekiančių asmenų atrankos nuostatus ir Teisėjų karjeros siekiančių asmenų vertinimo kriterijus.
+1. Kandidatūras į laisvas arba atsilaisvinsiančias apylinkės teismo, apygardos administracinio teismo, apygardos teismo, Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko vietas atrenka Atrankos komisija pagal Teisėjų karjeros siekiančių asmenų vertinimo kriterijus šio Įstatymo 551 straipsnyje nustatyta tvarka. Kandidatų asmeninės būdo ir pažintinės savybės vertinamos šio Įstatymo 551 straipsnio 8 dalyje nustatyta tvarka.
+TAR pastaba. 76 straipsnio 1 dalies nuostatos taikomos asmenims, dalyvaujantiems pretendentų į laisvas arba atsilaisvinančias apylinkės teismo teisėjų vietas, teisėjų karjeros siekiančių asmenų, kandidatų į teismo pirmininko, teismo pirmininko pavaduotojo ar skyriaus pirmininko pareigas atrankose, paskelbtose po 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+ 
 
 
 
@@ -2675,7 +2695,11 @@ Nr. XI-240, 2009-04-28, Žin., 2009, Nr. 54-2138 (2009-05-12)
 78 straipsnis. Apeliacinio teismo pirmininko, skyriaus pirmininko skyrimo tvarka
 
 
-1. Kandidatūras į laisvas arba atsilaisvinsiančias Apeliacinio teismo pirmininko, skyriaus pirmininko vietas atrenka šio Įstatymo 551 straipsnio 1 dalyje nurodyta Atrankos komisija pagal Teisėjų tarybos patvirtintus Teisėjų karjeros siekiančių asmenų atrankos nuostatus ir Teisėjų karjeros siekiančių asmenų vertinimo kriterijus.
+1. Kandidatūras į laisvas arba atsilaisvinsiančias Apeliacinio teismo pirmininko, skyriaus pirmininko vietas atrenka Atrankos komisija pagal Teisėjų karjeros siekiančių asmenų vertinimo kriterijus šio Įstatymo 551 straipsnyje nustatyta tvarka. Kandidatų asmeninės būdo ir pažintinės savybės vertinamos šio Įstatymo 551 straipsnio 8 dalyje nustatyta tvarka.
+TAR pastaba. 78 straipsnio 1 dalies nuostatos taikomos asmenims, dalyvaujantiems pretendentų į laisvas arba atsilaisvinančias apylinkės teismo teisėjų vietas, teisėjų karjeros siekiančių asmenų, kandidatų į teismo pirmininko, teismo pirmininko pavaduotojo ar skyriaus pirmininko pareigas atrankose, paskelbtose po 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+ 
 
 
 
@@ -5208,7 +5232,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                          ALGIRDAS BRAZAUSKAS
  
  
 
