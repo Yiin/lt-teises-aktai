@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
  
@@ -1021,7 +1021,10 @@ PROFESIONALIOJO SCENOS MENO ĮSTAIGŲ FINANSAVIMAS
 
 
 
-4. Kultūros rėmimo fondas gali finansuoti nacionalinių, valstybinių teatrų ir koncertinių įstaigų profesionaliojo scenos meno įstaigos kultūrinės edukacijos projektus.
+4. Lietuvos kultūros taryba gali finansuoti nacionalinių, valstybinių teatrų ir koncertinių įstaigų profesionaliojo scenos meno įstaigos kultūrinės edukacijos projektus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-698, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25126
+ 
 
 
 
@@ -1315,3 +1318,8 @@ Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 4 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3135, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15381
 Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 6 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-698, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25126
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 16 straipsnio pakeitimo įstatymas
