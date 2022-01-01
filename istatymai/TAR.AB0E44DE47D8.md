@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinasis įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1656, i. k. 0971010ISTAVIII-366
  
@@ -684,7 +684,10 @@ Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
 
 
 
-22 straipsnis. Žalos atlyginimo mokėjimo terminai
+22 straipsnis. Žalos atlyginimo mokėjimo ypatumai ir mokėjimo terminai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-755, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26587
+ 
 
 
 1. Žalos atlyginimas nukentėjusiajam mokamas nuo darbingumo netekimo (dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga) nustatymo dienos, jeigu dėl netekto darbingumo kompensacijos skyrimo kreipiamasi per 3 metus nuo teisės į kompensaciją atsiradimo dienos.
@@ -693,6 +696,14 @@ Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
 
 
 2. Jeigu nukentėjusysis dėl žalos atlyginimo kreipėsi praėjus trejiems metams nuo teisės į žalos atlyginimą atsiradimo dienos, žalos atlyginimas mokamas nuo kreipimosi dienos.
+
+
+
+
+3. Periodinės netekto darbingumo kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas išmokos mokėtojo sprendimu stabdomas, kai šių išmokų gavėjas įsiteisėjusiu teismo sprendimu yra pripažintas nežinia kur esančiu arba gauti duomenys apie aplinkybes, sudarančias pagrindą nuspręsti, kad asmuo prarado teisę gauti išmoką. Kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas sustabdomas nuo mėnesio, einančio po to mėnesio, kurį atsirado šioje dalyje nurodytos aplinkybės, pirmos dienos. Išnykus šioje dalyje nustatytoms aplinkybėms, kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas išmokos mokėtojo sprendimu pratęsiamas nuo mokėjimo sustabdymo dienos, jeigu teisė gauti šias išmokas asmeniui buvo išlikusi. Jeigu paaiškėja, kad asmuo, kuriam kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas buvo sustabdytas, yra miręs (paskelbtas mirusiu), jo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio (paskelbto mirusiu) asmens turtas, pateikusiems paveldėjimo teisės liudijimą, o mirusį (paskelbtą mirusiu) kompensacijos gavėją pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą, išmokama mirusiam (paskelbtam mirusiu) asmeniui priklausiusi kompensacijos ar žalos atlyginimo netekus maitintojo suma nuo mokėjimo sustabdymo dienos iki jo mirties (paskelbimo mirusiu) dienos, bet ne daugiau kaip už 3 metus.
+Papildyta straipsnio dalimi:
+Nr. XIV-755, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26587
+ 
 
 
 Straipsnio pakeitimai:
@@ -873,3 +884,8 @@ Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar sus
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
 Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 18 ir 18-1 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-755, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26587
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 22 straipsnio pakeitimo įstatymas
