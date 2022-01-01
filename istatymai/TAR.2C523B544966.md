@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Įstatymas netenka galios 2022-09-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1163, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15209
+Lietuvos Respublikos referendumo konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2022-01-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
  
@@ -177,6 +182,11 @@ REFERENDUMO INICIJAVIMAS IR PASKELBIMAS
 8. Jeigu po grupės įregistravimo Vyriausiojoje rinkimų komisijoje dienos iki piliečių parašų rinkimo lapų išdavimo dienos šios grupės narys atšaukia savo parašą dėl prašymo įregistruoti grupę ir šios grupės narių lieka mažiau kaip 15, laikoma, kad piliečių referendumo paskelbimo iniciatyva nutrūko.
 
 9. Vyriausioji rinkimų komisija užtikrina referendumui siūlomo sprendimo atitiktį Konstitucijai ir šio įstatymo 7 straipsnyje nustatytiems reikalavimams. Įvertinusi atitiktį šiems reikalavimams, Vyriausioji rinkimų komisija sprendžia dėl grupės registravimo ir piliečių parašų lapų išdavimo.
+
+10. Vyriausioji rinkimų komisija savo interneto svetainėje skelbia grupės narių vardus ir pavardes. Šie grupės narių duomenys skelbiami 10 metų nuo grupės įregistravimo Vyriausiojoje rinkimų komisijoje dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
+ 
 
 12 straipsnis. Piliečių parašų rinkimas
 
@@ -454,6 +464,11 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
  
 
+9. Vyriausioji rinkimų komisija savo interneto svetainėje per 3 dienas nuo Vyriausiosios rinkimų komisijos sprendimo sudaryti savivaldybių referendumo komisijas įsigaliojimo skelbia savivaldybių referendumo komisijų narių sąrašus ir duomenis apie juos (narių vardus, pavardes, pareigas, komisijos narį pasiūliusį subjektą, telefono numerį ir elektroninio pašto adresą). Savivaldybių referendumo komisijų narių sąrašai skelbiami ir tikslinami ne ilgiau kaip 3 mėnesius nuo galutinių referendumo rezultatų paskelbimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
+ 
+
 24 straipsnis. Savivaldybės referendumo komisijos įgaliojimai
 
 Savivaldybės referendumo komisija:
@@ -514,6 +529,11 @@ Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
 7. Apylinkių referendumo komisijų pirmininkus iš komisijos narių skiria savivaldybių referendumo komisijos.
 
 8. Apylinkės referendumo komisija pirmame posėdyje išsirenka komisijos pirmininko pavaduotoją ir sekretorių. 
+
+9. Vyriausioji rinkimų komisija savo interneto svetainėje per 3 dienas nuo savivaldybių referendumo komisijų sprendimų sudaryti apylinkių referendumo komisijas įsigaliojimo skelbia apylinkių referendumo komisijų narių sąrašus ir duomenis apie juos (narių vardus, pavardes, pareigas, komisijos narį pasiūliusį subjektą, telefono numerį ir elektroninio pašto adresą). Apylinkių referendumo komisijų narių sąrašai skelbiami ir tikslinami ne ilgiau kaip 3 mėnesius nuo galutinių referendumo rezultatų paskelbimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
+ 
 
 27 straipsnis. Apylinkės referendumo komisijos įgaliojimai 
 
@@ -858,7 +878,10 @@ Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
 
 2) savivaldybės referendumo komisija – stebėti referendumą visoje savivaldybės teritorijoje arba tos savivaldybės konkrečiose referendumo apylinkėse.
 
-5. Referendumo stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant politinių partijų, grupės ir nevyriausybinių organizacijų siūlomų referendumo stebėtojų lygiateisiškumo principo laikymąsi. 
+5. Referendumo stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant politinių partijų, grupės ir nevyriausybinių organizacijų siūlomų referendumo stebėtojų lygiateisiškumo principo laikymąsi. Vyriausioji rinkimų komisija savo interneto svetainėje skelbia referendumo stebėtojų duomenis (vardą, pavardę, referendumo stebėtoją pasiūliusį subjektą, savivaldybės ir referendumo apylinkės pavadinimą bei numerį). Referendumo stebėtojų duomenys skelbiami ne ilgiau kaip 3 mėnesius po galutinių referendumo rezultatų paskelbimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
+ 
 
 6. Referendumo komisija gali atsisakyti registruoti referendumo stebėtoją, jeigu jis neatitinka šio įstatymo reikalavimų ar jo veikla neatitinka Konstitucijos ar įstatymų, arba panaikinti referendumo stebėtojo registravimą, jeigu jis pažeidžia Konstituciją ar įstatymus, nesilaiko Vyriausiosios rinkimų komisijos sprendimų. Referendumo stebėtojo registravimą gali panaikinti jį įregistravusios referendumo komisijos arba aukštesnės referendumo komisijos pirmininkas. Referendumo stebėtoją pasiūliusiam asmeniui pranešama apie atsisakymą išduoti referendumo stebėtojo pažymėjimą arba apie referendumo stebėtojo registravimo panaikinimą.
 
@@ -1380,7 +1403,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
  
  
