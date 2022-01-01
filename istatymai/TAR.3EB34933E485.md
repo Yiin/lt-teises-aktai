@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2021-05-28 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -3874,7 +3874,10 @@ Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
 
 
 
-2. Šio straipsnio 1 dalies 1 punkte numatytais atvejais mokesčių administratorius duomenis apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsdamas, ne vėliau kaip per 24 valandas, pateikia Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatų nustatyta tvarka.
+2. Šio straipsnio 1 dalies 1 punkte numatytais atvejais mokesčių administratorius duomenis apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsdamas, ne vėliau kaip per 24 valandas, pateikia priklausomai nuo įkeisto objekto – Nekilnojamojo turto registrui arba Sutarčių ir teisių suvaržymų registrui ir priverstinė hipoteka (įkeitimas) įregistruojama atitinkamai Nekilnojamojo turto registre arba Sutarčių ir teisių suvaržymų registre šio registro nuostatų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2733, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00108
+ 
 
 
 Straipsnio pakeitimai:
@@ -6576,7 +6579,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LAIKINAI EINANTIS 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                 ARTŪRAS PAULAUSKAS 
+RESPUBLIKOS PREZIDENTO PAREIGAS                                   ARTŪRAS PAULAUSKAS 
  
 
 
@@ -6893,3 +6896,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 16 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40 straipsnio pakeitimo ir Įstatymo papildymo 42-4 straipsniu įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2733, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00108
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 103 straipsnio pakeitimo įstatymas
