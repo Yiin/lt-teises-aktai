@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997.05.13)
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2020-06-30 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 24-0; Žin. 1993, Nr.6-120, i. k. 0931010ISTA0000I-67
  
@@ -1408,6 +1409,59 @@ Nr. XI-1783, 2011-12-06, Žin., 2011, Nr. 154-7262 (2011-12-17)
 
 
 
+411 straipsnis. Informacinių ir elektroninių ryšių technologijų naudojimas 
+
+
+Asmenys turi teisę pateikti šio įstatymo nustatyta tvarka nagrinėjamus prašymus, paklausimus ir kitus su jų nagrinėjimu susijusius dokumentus Konstituciniam Teismui per Nacionalinę elektroninių siuntų pristatymo naudojant pašto tinklą informacinę sistemą (toliau – E. pristatymo sistema), kitomis elektroninių ryšių priemonėmis, paštu arba tiesiogiai. Šių dokumentų pateikimo kitomis elektroninių ryšių priemonėmis tvarka nustatoma Konstitucinio Teismo reglamente.
+
+
+
+
+Kai prašymas ar paklausimas Konstituciniam Teismui pateikiamas per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis, kiti su jų nagrinėjimu susiję dokumentai Konstituciniam Teismui teikiami tuo pačiu būdu, kaip buvo pateiktas prašymas ar paklausimas. 
+
+
+
+
+Dokumentai, susiję su šio įstatymo nustatyta tvarka nagrinėjamais prašymais ir paklausimais, įteikiami:
+
+
+1) per E. pristatymo sistemą. Jeigu E. pristatymo sistemos elektroninio pristatymo dėžutė (toliau – elektroninio pristatymo dėžutė) yra neaktyvi, dokumentas siunčiamas per E. pristatymo sistemą, bet įteikiamas kaip registruotoji pašto siunta; 
+
+
+
+
+2) kitomis elektroninių ryšių priemonėmis;
+
+
+
+
+3) registruotąja pašto siunta. 
+
+
+
+
+
+
+Atsisakymas priimti registruotąja pašto siunta įteikiamą dokumentą arba pasirašyti dėl jo gavimo laikomas tinkamu dokumento įteikimu.
+
+
+
+
+Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia Konstituciniam Teismui, teikiamos neatlygintinai.
+
+
+
+
+Per E. pristatymo sistemą, kai elektroninio pristatymo dėžutė yra aktyvi, ir kitomis elektroninių ryšių priemonėmis išsiųsti dokumentai yra laikomi įteiktais kitą darbo dieną po jų išsiuntimo dienos. 
+
+
+Papildyta straipsniu:
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+ 
+
+
+
+
 42 straipsnis. Konstitucinio Teismo šaukimai 
 
 
@@ -1416,7 +1470,10 @@ Dalyvaujantiems byloje asmenims ir jų atstovams Teismo šaukimais pranešama ap
 
 
 
-Šaukimai pristatomi per kurjerius ar paštu. Šaukimo įteikimo adresatui laikas pažymimas įteikiamajame šaukime ir Teismui grąžintinoje šaukimo dalyje su parašu apie šaukimo įteikimą.
+Šaukimai pristatomi paštu. Šaukimo įteikimo adresatui laikas pažymimas įteikiamajame šaukime ir Teismui grąžintinoje šaukimo dalyje su parašu apie šaukimo įteikimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+ 
 
 
 
@@ -2355,7 +2412,10 @@ Asmuo turi teisę paduoti Konstituciniam Teismui prašymą ištirti įstatymų a
 
 
 
-Jeigu šio straipsnio antrojoje dalyje nurodyto asmens prašymas įteiktas paštui, kurjeriui arba išsiųstas elektroninių ryšių priemonėmis iki šio straipsnio antrosios dalies 3 punkte nustatyto prašymo pateikimo Konstituciniam Teismui termino paskutinės dienos dvidešimt ketvirtos valandos, šis terminas nelaikomas praleistu.
+Jeigu šio straipsnio antrojoje dalyje nurodyto asmens prašymas įteiktas pašto paslaugos teikėjui arba išsiųstas per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis iki šio straipsnio antrosios dalies 3 punkte nustatyto prašymo pateikimo Konstituciniam Teismui termino paskutinės dienos dvidešimt ketvirtos valandos, šis terminas nelaikomas praleistu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+ 
 
 
 
@@ -2428,7 +2488,10 @@ Prašyme ištirti teisės akto atitikimą Konstitucijai turi būti nurodyta:
 
 
 
-Prašymą pasirašo valstybės institucijos, kuriai suteikta teisė kreiptis į Konstitucinį Teismą, vadovas. Vyriausybės prašymas turi būti paremtas Vyriausybės nutarimu, kuris pridedamas prie teikiamų dokumentų. Seimo narių grupės prašymą pasirašo visi Seimo nariai, kurie su prašymu kreipiasi į Konstitucinį Teismą, kartu nurodydami savo grupės atstovą (atstovus); Seimo narių parašai turi būti patvirtinti Seimo Pirmininko ar Seimo Pirmininko pavaduotojo parašu. Tais atvejais, kai prašymas pateikiamas elektroninių ryšių priemonėmis elektronine forma, valstybės institucijos, kuriai suteikta teisė kreiptis į Konstitucinį Teismą, vadovas prašymą pasirašo pažangiuoju elektroniniu parašu, o elektroninių ryšių priemonėmis elektronine forma teikiamas Seimo narių grupės prašymas patvirtinamas Seimo Pirmininko ar Seimo Pirmininko pavaduotojo pažangiuoju elektroniniu parašu.
+Prašymą pasirašo valstybės institucijos, kuriai suteikta teisė kreiptis į Konstitucinį Teismą, vadovas. Vyriausybės prašymas turi būti paremtas Vyriausybės nutarimu, kuris pridedamas prie teikiamų dokumentų. Seimo narių grupės prašymą pasirašo visi Seimo nariai, kurie su prašymu kreipiasi į Konstitucinį Teismą, kartu nurodydami savo grupės atstovą (atstovus); Seimo narių parašai turi būti patvirtinti Seimo Pirmininko ar Seimo Pirmininko pavaduotojo parašu. Tais atvejais, kai prašymas teikiamas per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis elektronine forma, valstybės institucijos, kuriai suteikta teisė kreiptis į Konstitucinį Teismą, vadovas prašymą pasirašo kvalifikuotu elektroniniu parašu, o elektroninių ryšių priemonėmis elektronine forma teikiamas Seimo narių grupės prašymas patvirtinamas Seimo Pirmininko ar Seimo Pirmininko pavaduotojo kvalifikuotu elektroniniu parašu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+ 
 
 
 
@@ -2458,7 +2521,10 @@ Prie prašymo gali būti pridedamas siūlomų iškviesti į Konstitucinio Teismo
 
 
 
-Prašymas ir šio straipsnio trečiojoje dalyje nurodyti jo priedai pateikiami Konstituciniam Teismui. Prašymas ir jo priedai gali būti pateikiami elektroninių ryšių priemonėmis elektronine forma. Prašymų ir jų priedų pateikimo elektroninių ryšių priemonėmis tvarka nustatoma Konstitucinio Teismo reglamente.
+Prašymas ir šio straipsnio trečiojoje dalyje nurodyti jo priedai Konstituciniam Teismui pateikiami šio įstatymo 411 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+ 
 
 
 Straipsnio pakeitimai:
@@ -2530,10 +2596,11 @@ Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
 
 
 
-Teismo nutartis pateikiama Konstituciniam Teismui, išskyrus atvejus, kai Konstituciniame Teisme dėl to paties dalyko jau yra priimtas prašymas. Teismo nutartis gali būti pateikiama elektroninių ryšių priemonėmis elektronine forma. Teismo nutarčių pateikimo elektroninių ryšių priemonėmis tvarka nustatoma Konstitucinio Teismo reglamente.
+Teismo nutartis Konstituciniam Teismui pateikiama šio įstatymo 411 straipsnyje nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XII-1703, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08037
 Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
  
 
 
@@ -2560,7 +2627,10 @@ Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens prašyme Konsti
 
 
 
-2) prašymą teikiančio asmens vardas, pavardė (pavadinimas), asmens kodas (kodas), gyvenamoji vieta (buveinė) ir elektroninio pašto adresas, telefono numeris (jeigu šis asmuo juos turi), taip pat atstovo, jeigu jis yra, vardas, pavardė ir adresas, atstovo elektroninio pašto adresas, telefono numeris (jeigu žinomi); 
+2) prašymą teikiančio asmens vardas, pavardė (pavadinimas), asmens kodas (kodas), gyvenamoji vieta (buveinė) ir elektroninio pristatymo dėžutės adresas, elektroninio pašto adresas, telefono numeris (jeigu šis asmuo juos turi), taip pat atstovo, jeigu jis yra, vardas, pavardė ir adresas, atstovo elektroninio pristatymo dėžutės adresas, elektroninio pašto adresas, telefono numeris (jeigu žinomi);
+Straipsnio punkto pakeitimai:
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+ 
 
 
 
@@ -2617,7 +2687,10 @@ Prašyme turi būti aiškiai, tiksliai ir suprantamai suformuluota šio straipsn
 
 
 
-Prašymą pasirašo jį teikiantis asmuo arba jo atstovas. Kai prašymas teikiamas elektroninių ryšių priemonėmis, prašymą teikiantis asmuo jį pasirašo pažangiuoju elektroniniu parašu. Už prašymą teikiantį asmenį, kuris negali pasirašyti, prašymą pasirašo jo įgaliotas asmuo, nurodydamas priežastį, dėl kurios prašymą teikiantis asmuo pats negali jo pasirašyti. Šioje dalyje nustatytų reikalavimų neatitinkantis prašymas neregistruojamas ir grąžinamas jį pateikusiam asmeniui.
+Prašymą pasirašo jį teikiantis asmuo arba jo atstovas. Kai prašymas teikiamas elektroninių ryšių priemonėmis, prašymą teikiantis asmuo jį pasirašo kvalifikuotu elektroniniu parašu. Už prašymą teikiantį asmenį, kuris negali pasirašyti, prašymą pasirašo jo įgaliotas asmuo, nurodydamas priežastį, dėl kurios prašymą teikiantis asmuo pats negali jo pasirašyti. Šioje dalyje nustatytų reikalavimų neatitinkantis prašymas neregistruojamas ir grąžinamas jį pateikusiam asmeniui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+ 
 
 
 
@@ -2662,7 +2735,10 @@ Prie prašymo pridedama:
 
 
 
-Prašymas ir šio straipsnio ketvirtojoje dalyje nurodyti jo priedai pateikiami Konstituciniam Teismui. Prašymas ir jo priedai gali būti pateikiami ir elektroninių ryšių priemonėmis. Prašymo ir jo priedų pateikimo elektroninių ryšių priemonėmis tvarka nustatoma Konstitucinio Teismo reglamente.
+Prašymas ir šio straipsnio ketvirtojoje dalyje nurodyti jo priedai Konstituciniam Teismui pateikiami šio įstatymo 411 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+ 
 
 
 Papildyta straipsniu:
@@ -3016,9 +3092,10 @@ Prie paklausimo gali būti pridėtas siūlomų iškviesti į Konstitucinio Teism
 
 
 
-Paklausimas ir būtini jo priedai pateikiami Konstituciniam Teismui su nuorašais po 9 egzempliorius. Konstitucinio Teismo pirmininkas prireikus gali pareikalauti ir kitų priedų nuorašų – iki 9 egzempliorių. Tais atvejais, kai paklausimas ir būtini jo priedai pateikiami elektroninių ryšių priemonėmis elektronine forma, reikalavimas pateikti 9 egzempliorius netaikomas. Paklausimų ir jų priedų pateikimo elektroninių ryšių priemonėmis tvarka nustatoma Konstitucinio Teismo reglamente.
+Paklausimas ir būtini jo priedai pateikiami Konstituciniam Teismui su nuorašais po 9 egzempliorius. Konstitucinio Teismo pirmininkas prireikus gali pareikalauti ir kitų priedų nuorašų – iki 9 egzempliorių. Tais atvejais, kai paklausimas ir būtini jo priedai pateikiami per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis elektronine forma, reikalavimas pateikti 9 egzempliorius netaikomas. Paklausimai ir jų priedai Konstituciniam Teismui pateikiami šio įstatymo 411 straipsnyje nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XII-1703, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08037
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
  
 
 
@@ -3326,7 +3403,7 @@ Konstitucinio Teismo posėdžiai vyksta jo nuolatinėje būstinėje.
  
  
 LAIKINAI EINANTIS 
-RESPUBLIKOS PREZIDENTO PAREIGAS                             ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                              ALGIRDAS BRAZAUSKAS
  
 Vilnius, 1993 m. vasario 3 d.
 Nr. I-67 
@@ -3449,3 +3526,8 @@ Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3094, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14363
 Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 8 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
+Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 papildymo 41-1 straipsniu ir 42, 65, 66, 67, 67-1, 76 straipsnių pakeitimo įstatymas
