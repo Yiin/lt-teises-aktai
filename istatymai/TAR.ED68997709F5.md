@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -2816,7 +2816,10 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 
-36 straipsnis. Diplomatinėms atstovybėms, konsulinėms įstaigoms, Europos Sąjungos institucijoms, jų įsteigtoms įstaigoms ir tarptautinių organizacijų atstovybėms, taip pat šių atstovybių ir konsulinių įstaigų personalui ir jo šeimos nariams skirtos prekės
+36 straipsnis. Diplomatinėms atstovybėms, konsulinėms įstaigoms, Europos Sąjungos institucijoms, jų įsteigtoms įstaigoms, agentūroms ir tarptautinių organizacijų atstovybėms, taip pat šių atstovybių ir konsulinių įstaigų personalui ir jo šeimos nariams skirtos prekės 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
+ 
 
 
 1. Importo PVM neapmokestinamos prekės, įvežamos užsienio valstybių diplomatinių atstovybių ar konsulinių įstaigų Lietuvos Respublikoje oficialiai veiklai. Importo PVM taip pat neapmokestinamos įvežamos prekės, skirtos šių diplomatinių atstovybių ir konsulinių įstaigų narių ir kartu gyvenančių jų šeimos narių asmeniniam naudojimui ir (arba) įsikūrimui, jeigu šie asmenys nėra Lietuvos Respublikos piliečiai, o jų nuolatinė gyvenamoji vieta nėra Lietuvos Respublika. Importo PVM taip pat neapmokestinamos prekės, skirtos užsienio valstybių diplomatinėms atstovybėms ar konsulinėms įstaigoms kitose valstybėse narėse, ar jų nariams, laikantis tos valstybės narės nustatytų sąlygų ir apribojimų. Šioje dalyje nurodytos prekės importo PVM neapmokestinamos tik tuo atveju, kai jos gali būti atleistos nuo importo muitų.
@@ -2825,6 +2828,15 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 2. Importo PVM neapmokestinamos prekės, kurias įveža Europos Sąjungos institucijos, Europos centrinis bankas, Europos investicijų bankas, Europos Sąjungos įsteigtos įstaigos, kurioms taikomas Protokolas dėl Europos Sąjungos privilegijų ir imunitetų. Šioje dalyje nurodytos prekės importo PVM neapmokestinamos laikantis šiame protokole ir pagal jį sudarytuose susitarimuose ar susitarimuose dėl būstinės steigimo nustatytų sąlygų ir apribojimų, jeigu tokiu būdu neiškraipoma konkurencija.
+
+
+
+
+21. Importo PVM neapmokestinamos Europos Komisijos arba Europos Sąjungos institucijų įsteigtos įstaigos, agentūros įvežamos prekės, kurios skirtos šioje dalyje nurodytiems subjektams Europos Sąjungos teisės aktais pavestoms užduotims, susijusioms su COVID-19 ligos (koronaviruso infekcijos) valdymu, vykdyti ir kurios vėliau nebus tiekiamos už atlygį. Šios dalies nuostatos taikomos, kol Europos Komisija ar Europos Sąjungos institucijos įsteigta įstaiga, agentūra informuoja Lietuvos Respubliką apie jų nebetaikymą. 
+TAR pastaba. 36 straipsnio 21 dalies nuostatos taikomos prekėms ir paslaugoms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį ar importo pridėtinės vertės mokestį atsirado nuo 2021-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
+ 
 
 
 
@@ -2841,7 +2853,11 @@ Pastaba. 36 straipsnio 4 dalyje nustatytos lengvatos taip pat taikomos prekėms,
 
 
 
-5. Šio straipsnio nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+5. Šiame straipsnyje nustatytos PVM lengvatos taikomos tiesiogiai arba grąžinant PVM už Lietuvos Respublikoje importuotas prekes. Konkrečią šio straipsnio nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+TAR pastaba. 36 straipsnio 5 dalies nuostatos taikomos prekėms ir paslaugoms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį ar importo pridėtinės vertės mokestį atsirado nuo 2021-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
+ 
 
 
 Straipsnio pakeitimai:
@@ -3308,7 +3324,10 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 
-47 straipsnis. Diplomatinėms atstovybėms, konsulinėms įstaigoms, Europos Sąjungos institucijoms, jų įsteigtoms įstaigoms ir tarptautinėms organizacijoms ar jų atstovybėms, taip pat šių atstovybių ir konsulinių įstaigų personalui ir jo šeimos nariams skirtos prekės ir paslaugos
+47 straipsnis. Diplomatinėms atstovybėms, konsulinėms įstaigoms, Europos Sąjungos institucijoms, jų įsteigtoms įstaigoms, agentūroms ir tarptautinėms organizacijoms ar jų atstovybėms, taip pat šių atstovybių ir konsulinių įstaigų personalui ir jo šeimos nariams skirtos prekės ir paslaugos
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
+ 
 
 
 1. Tiekiamos prekės ir (arba) teikiamos paslaugos, skirtos užsienio valstybių diplomatinių atstovybių ar konsulinių įstaigų Lietuvos Respublikoje oficialiai veiklai, apmokestinamos taikant 0 procentų PVM tarifą. Taikant 0 procentų PVM tarifą taip pat apmokestinamos šių diplomatinių atstovybių ar konsulinių įstaigų narių, išskyrus aptarnaujantį personalą, ir kartu gyvenančių jų šeimos narių asmeniniam naudojimui tiekiamos prekės ir teikiamos paslaugos, jeigu šie asmenys nėra Lietuvos Respublikos piliečiai ir jų nuolatinė gyvenamoji vieta nėra Lietuvos Respublika. Prekių ir paslaugų, už kurias sumokėtas PVM negrąžinamas, sąrašą nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
@@ -3342,6 +3361,15 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 7. Taikant 0 procentų PVM tarifą apmokestinamas prekių tiekimas ir paslaugų teikimas Europos Sąjungos institucijoms, Europos centriniam bankui, Europos investicijų bankui, Europos Sąjungos įsteigtoms įstaigoms, kurioms taikomas Protokolas dėl Europos Sąjungos privilegijų ir imunitetų. Šioje dalyje nurodytos prekės importo PVM neapmokestinamos laikantis šiame protokole ir pagal jį sudarytuose susitarimuose ar susitarimuose dėl būstinės steigimo nustatytų sąlygų ir apribojimų, jeigu tokiu būdu neiškraipoma konkurencija.
+
+
+
+
+71. Taikant 0 procentų PVM tarifą apmokestinamas prekių tiekimas ir paslaugų teikimas Europos Komisijai arba Europos Sąjungos institucijų įsteigtoms įstaigoms, agentūroms, jeigu tokios prekės ir paslaugos skirtos šioje dalyje nurodytiems subjektams Europos Sąjungos teisės aktais pavestoms užduotims, susijusioms su COVID-19 ligos (koronaviruso infekcijos) valdymu, vykdyti ir jeigu vėliau šios prekės ir paslaugos nebus tiekiamos ar teikiamos už atlygį. Šios dalies nuostatos taikomos, kol Europos Komisija ar šioje dalyje nurodytas prekes ir (ar) paslaugas gavusi Europos Sąjungos institucijos įsteigta įstaiga, agentūra informuoja Lietuvos Respubliką apie jų netaikymą.
+TAR pastaba. 47 straipsnio 71 dalies nuostatos taikomos prekėms ir paslaugoms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį ar importo pridėtinės vertės mokestį atsirado nuo 2021-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
+ 
 
 
 
@@ -7802,7 +7830,10 @@ pridėtinės vertės mokesčio įstatymo
 
 
 
-3. 2006 m. lapkričio 28 d. Tarybos direktyva 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 21 d. Tarybos direktyva (ES) 2019/1995. 
+3. 2006 m. lapkričio 28 d. Tarybos direktyva 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos su paskutiniais pakeitimais, padarytais 2021 m. liepos 13 d. Tarybos direktyva (ES) 2021/1159.
+Punkto pakeitimai:
+Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
+ 
 
 
 
@@ -8207,3 +8238,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 4-1, 15, 40, 47 straipsnių ir 2 priedo pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 36, 47 straipsnių ir 2 priedo pakeitimo įstatymas
