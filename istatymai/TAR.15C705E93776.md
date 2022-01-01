@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-12-31 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -2308,7 +2308,10 @@ Nr. X-1558, 2008-05-22, Žin., 2008, Nr. 65-2457 (2008-06-07)
 
 
 
-12. Į Akademiją priimami vidurinį išsilavinimą įgiję, profesinei karo tarnybai tinkantys ir krašto apsaugos ministro nustatytas priėmimo į Akademiją studijuoti pagal universitetinių studijų, karinio rengimo ir neformaliojo švietimo programas sąlygas atitinkantys asmenys. Priimamas į Akademiją kariūnu asmuo pasirašo su Akademija kariūno tarnybos sutartį, kuria įsipareigoja studijuoti ir vykdyti kitas kariūno pareigas, o po studijų – tarnauti profesinėje karo tarnyboje, jeigu studijų baigimo dieną būtų į ją pakviestas. Kariūnai kviečiami į profesinę karo tarnybą atsižvelgiant į jų studijų ir karinio rengimo rezultatus ir krašto apsaugos sistemos bei karo tarnybos poreikius. Jeigu studijas arba karinio rengimo programą Akademijoje baigusiam kariūnui nepasiūloma sudaryti profesinės karo tarnybos sutarties, jis yra išleidžiamas į atsargą.
+12. Studijuoti į Akademiją priimami vidurinį išsilavinimą įgiję, profesinei karo tarnybai tinkantys ir krašto apsaugos ministro nustatytas priėmimo į Akademiją studijuoti pagal universitetinių studijų, karinio rengimo ir neformaliojo švietimo programas sąlygas atitinkantys asmenys. Priimamas į Akademiją kariūnu asmuo pasirašo su Akademija kariūno tarnybos sutartį, kuria įsipareigoja studijuoti ir vykdyti kitas kariūno pareigas, o po studijų – tarnauti profesinėje karo tarnyboje, jeigu studijų baigimo dieną būtų į ją pakviestas. Kariūnai kviečiami į profesinę karo tarnybą atsižvelgiant į jų studijų ir karinio rengimo rezultatus ir krašto apsaugos sistemos bei karo tarnybos poreikius. Jeigu studijas arba karinio rengimo programą Akademijoje baigusiam kariūnui nepasiūloma sudaryti profesinės karo tarnybos sutarties, jis yra išleidžiamas į atsargą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-338, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12787
+ 
 
 
 
@@ -2332,6 +2335,50 @@ Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
 
 
 16. Pagal Krašto apsaugos ministerijos susitarimus su kitomis valstybės institucijomis ar atitinkamomis kitų valstybių institucijomis Akademijos statuto ir kitų teisės aktų nustatyta tvarka Akademijoje gali studijuoti kitų valstybės institucijų valstybės tarnautojai, taip pat užsienio valstybių piliečiai.
+
+
+
+
+17. Akademija kartu su Akademijos statute nustatytomis sąlygomis ir tvarka atrinkta bendrojo ugdymo mokykla (toliau – atrinkta bendrojo ugdymo mokykla) gali vykdyti formalųjį švietimą papildančio ugdymo programą mokiniams, kurie mokosi pagal pagrindinio ugdymo antrosios dalies programą ir vidurinio ugdymo programą. Bendrojo ugdymo mokykla atrenkama pagal Akademijos statute nustatytus mokinių pasiekimų ir pažangos ir formaliojo švietimo bei formalųjį švietimą papildančio ugdymo programų vykdymo užtikrinimo kriterijus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-338, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12787
+ 
+
+
+
+
+18. Formalųjį švietimą papildančio ugdymo programą, ugdančią fizines galias ir asmens vertybines orientacijas, leidžiančią tapti aktyviu visuomenės nariu, savarankišku, atsakingu, disciplinuotu, patriotiškai nusiteikusiu žmogumi, užtikrinant asmenybės saviraiškos poreikius, tvirtina Akademijos viršininkas kartu su atrinktos bendrojo ugdymo mokyklos direktoriumi. Formalųjį švietimą papildančio ugdymo programos Akademijoje trukmė – 4 metai. Atrinkta bendrojo ugdymo mokykla kiekvienais metais pagal Akademijos viršininko ir atrinktos bendrojo ugdymo mokyklos direktoriaus nustatytas sąlygas  suformuoja ne didesnę kaip 24 mokinių klasę. Už mokinių mokymąsi pagal formaliojo švietimo programas atsako atrinkta bendrojo ugdymo mokykla. 
+Papildyta straipsnio dalimi:
+Nr. XIV-338, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12787
+ 
+
+
+
+
+19. Pagal formalųjį švietimą papildančio ugdymo programą Akademijoje ugdomiems mokiniams vykstant atostogų, atlyginamos jų kelionių iš Akademijos į gyvenamąją vietą ir atgal į Akademiją išlaidos. Mokinių kelionių išlaidų atlyginimo tvarką, maksimalų per dieną į abi puses nuvažiuojamą atstumą, už kurį atlyginamos kelionės išlaidos, nustato Vyriausybė arba jos įgaliota institucija. Mokiniai jų ugdymo pagal formalųjį švietimą papildančio ugdymo programą Akademijoje laikotarpiu aprūpinami:
+
+
+1) maistu, patenkinančiu vaikų maisto medžiagų fiziologinius poreikius, ugdant sveikos mitybos įgūdžius, pagal sveikatos apsaugos ministro patvirtintas rekomenduojamas paros maistinių medžiagų ir energijos normas, atsižvelgiant į vaikų amžiaus grupes;
+
+
+
+
+2) gyvenamąja patalpa, atitinkančia higienos normų reikalavimus bei apgyvendinimo paslaugų sveikatos saugos reikalavimus;
+
+
+
+
+3) standartizuota apranga (uniforma);
+
+
+
+
+4) ugdymo priemonėmis ir įranga, būtina formalųjį švietimą papildančio ugdymo programai įgyvendinti.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-338, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12787
+ 
 
 
 Straipsnio pakeitimai:
@@ -4252,7 +4299,7 @@ Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
 
 
 3. Nustatomi šie karių laipsniai:
-Sausumos, specialiųjų operacijų                                           Karinių jūrų pajėgų karių
+Sausumos, specialiųjų operacijų                                             Karinių jūrų pajėgų karių
 ir karinių oro pajėgų karių
  
 
@@ -4272,7 +4319,7 @@ seržantas, seržantas specialistas                      �
 vyresnysis seržantas, vyresnysis seržantas          vyresnysis seržantas, vyresnysis
 specialistas                                                                           seržantas specialistas
 štabo seržantas, štabo seržantas     štabo laivūnas, štabo laivūnas
-specialistas                                                                           specialistas
+specialistas                                                                           specialistas
 viršila                                                                                   laivūnas
 seržantas majoras                                                                  vyresnysis laivūnas
  
@@ -5426,19 +5473,29 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 
 
-8. Profesinės karo tarnybos kariai aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems mokama maitinimosi išlaidų piniginė kompensacija. Maitinimosi išlaidų piniginės kompensacijos mokėjimo tvarką ir dydžius nustato Vyriausybė. Maitinimosi išlaidų piniginė kompensacija nemokama kariams, turintiems žvalgybos pareigūno statusą, kariams, išsiųstiems į mokymo įstaigas ar tarnybos vietą užsienyje, kur jie visiškai išlaikomi, kariams, tarnaujantiems ne krašto apsaugos sistemos institucijose Lietuvoje, kariams, išleistiems vaiko priežiūros ar nemokamų atostogų, taip pat kariams, atliekantiems tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, išskyrus karius, kurių faktinė tarnybos atlikimo (rezidavimo) vieta yra Lietuvos Respublikoje. 
+8. Profesinės karo tarnybos kariai aprūpinami arba iš dalies aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems mokama maitinimosi išlaidų piniginė kompensacija. Iš dalies maistu aprūpintiems profesinės karo tarnybos kariams mokama maitinimosi išlaidų piniginė kompensacija mažinama sunaudotų maisto produktų ir maisto žaliavų, skirtų fiziologinei mitybos normai užtikrinti, kaina. Iš dalies maistu aprūpintiems ir maistu neaprūpintiems profesinės karo tarnybos kariams krašto apsaugos ministro nustatyta tvarka ir atvejais gali būti sudaromos sąlygos neatlygintinai pasimaitinti krašto apsaugos sistemos institucijų maitinimą organizuojančiuose padaliniuose. Iš dalies maistu aprūpintiems ir maistu neaprūpintiems profesinės karo tarnybos kariams, kurie neatlygintinai pasimaitino krašto apsaugos sistemos institucijų maitinimą organizuojančiuose padaliniuose, maitinimosi išlaidų piniginė kompensacija mažinama profesinės karo tarnybos kario neatlygintinam pasimaitinimui sunaudotų maisto produktų ir maisto žaliavų kaina. Maitinimosi išlaidų piniginė kompensacija nemokama kariams, turintiems žvalgybos pareigūno statusą, kariams, užsienio valstybėje aprūpintiems maistu arba kai jiems užsienio valstybė moka maitinimuisi skirtas išmokas, kariams, tarnaujantiems ne krašto apsaugos sistemos institucijose Lietuvoje, kariams, išleistiems vaiko priežiūros ar nemokamų atostogų, taip pat kariams, atliekantiems tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, išskyrus karius, kurių faktinė tarnybos atlikimo (rezidavimo) vieta yra Lietuvos Respublikoje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
+Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
  
 
 
 
 
-9. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai pratybų, mokymų ar tarnybos užduočių vykdymo laikotarpiu aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems išmokama maitinimosi išlaidų piniginė kompensacija. Maitinimosi išlaidų piniginės kompensacijos mokėjimo tvarką ir dydžius nustato Vyriausybė. 
+9. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, taip pat aktyviojo kariuomenės personalo rezervo kariai pratybų, mokymų ar tarnybos užduočių vykdymo laikotarpiu aprūpinami arba iš dalies aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems mokama maitinimosi išlaidų piniginė kompensacija. Iš dalies maistu aprūpintiems kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams mokama maitinimosi išlaidų piniginė kompensacija mažinama sunaudotų maisto produktų ir maisto žaliavų, skirtų fiziologinei mitybos normai užtikrinti, kaina. Iš dalies maistu aprūpintiems ir maistu neaprūpintiems kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams krašto apsaugos ministro nustatyta tvarka ir atvejais gali būti sudaromos sąlygos neatlygintinai pasimaitinti krašto apsaugos sistemos institucijų maitinimą organizuojančiuose padaliniuose. Iš dalies maistu aprūpintiems ir neaprūpintiems maistu kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, aktyviojo kariuomenės personalo rezervo kariams, kurie neatlygintinai pasimaitino krašto apsaugos sistemos institucijų maitinimą organizuojančiuose padaliniuose, maitinimosi išlaidų piniginė kompensacija mažinama kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario, aktyviojo kariuomenės personalo rezervo kario neatlygintinam pasimaitinimui sunaudotų maisto produktų ir maisto žaliavų kaina. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
+ 
+
+
+
+
+91. Maitinimosi išlaidų piniginės kompensacijos dydį nustato Vyriausybė. Karių aprūpinimo maistu sąlygas, atvejus ir tvarką, taip pat maitinimosi išlaidų piniginės kompensacijos ir jos dalies apskaičiavimo ir mokėjimo tvarką nustato krašto apsaugos ministras. 
+Papildyta straipsnio dalimi:
+Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
  
 
 
@@ -6282,6 +6339,8 @@ Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo
@@ -6312,9 +6371,10 @@ profesinės karo tarnybos karių tiesiogiai vykdomos Pareigos, susijusios su ypa
 Papildyta priedu:
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
  
+part_1a02dd7f5c584bffb0b877304d540429_end
 
 
-
+ 
 
  
 Pakeitimai:
@@ -6568,8 +6628,7 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-07-02, Žin., 2002, Nr. 69-2832 (2002-07-05)
 DĖL LIETUVOS RESPUBLIKOS KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 48 STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
-
-
+part_d52a9b31439c4e788d5394c120126b27_end
  
  
 Pakeitimai:
@@ -6773,3 +6832,11 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-670, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24297
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 10, 21 ir 22 straipsnių pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-338, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12787
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 20 straipsnio pakeitimo įstatymas
+ 
+ 
+part_c0733c34aeee45b3bda56f58cd62ee8e_end
