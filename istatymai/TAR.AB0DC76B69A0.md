@@ -18,13 +18,18 @@ LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
  
-LIETUVOS RESPUBLIKOS  TEISĖJŲ ATLYGINIMŲ  ĮSTATYMAS
+Nauja redakcija nuo 2022-01-01:
+Nr. XIV-708, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25134
+ 
+LIETUVOS RESPUBLIKOS 
+TEISĖJŲ DARBO APMOKĖJIMO ĮSTATYMAS
  
 2008 m. lapkričio 6 d. Nr. X-1771
 Vilnius
@@ -34,7 +39,7 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Lietuvos Respublikos teisėjų atlyginimų dydžius ir jų skaičiavimo tvarką.
+Šis įstatymas nustato Lietuvos Respublikos teisėjų atlyginimų dydžius ir jų darbo apmokėjimo sąlygas.
  
 
 
@@ -45,7 +50,7 @@ Vilnius
 2 straipsnis. Įstatymo taikymas
 
 
-Šio įstatymo nustatyti atlyginimai taikomi šių teismų pirmininkams, jų pavaduotojams, skyrių pirmininkams ir teisėjams (toliau – teisėjai):
+Šiame įstatyme nustatyti atlyginimai taikomi šių teismų pirmininkams, pirmininkų pavaduotojams, skyrių pirmininkams ir teisėjams (toliau – teisėjai):
 
 
 1) Lietuvos Respublikos Konstitucinio Teismo;
@@ -63,15 +68,13 @@ Vilnius
 
 
 
-3 straipsnis. Atlyginimo ir pareiginės algos bazinis dydis
+3 straipsnis. Teisėjų atlyginimo ir pareiginės algos bazinis dydis
 
 
-Teisėjų atlyginimų skaičiavimui taikomas atlyginimo ir pareiginės algos bazinis dydis (toliau – bazinis dydis), kurį ateinantiems metams Lietuvos Respublikos Vyriausybės teikimu, įvertinus teisėjams atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė.
-
-
-Straipsnio pakeitimai:
-Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA000XI-83
+Teisėjų atlyginimams skaičiuoti taikomas Lietuvos Respublikos Seimo patvirtintas tam tikrų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Ateinančių finansinių metų bazinis dydis, atsižvelgus į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui bei kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas. Jeigu nacionalinė kolektyvinė sutartis nesudaryta arba nepakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Lietuvos Respublikos Vyriausybės teikimu, įvertinęs šiame straipsnyje numatytas aplinkybes ir į jas atsižvelgęs, tvirtina Seimas. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
  
+
+
 
 
 
@@ -79,27 +82,42 @@ Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA
 4 straipsnis. Teisėjų atlyginimas
 
 
-1. Lietuvos Respublikos Konstitucinio Teismo teisėjų atlyginimas apskaičiuojamas atitinkamą atlyginimo koeficientą, nustatytą šio įstatymo priedėlyje, padauginus iš bazinio dydžio.
+1. Konstitucinio Teismo teisėjų atlyginimas apskaičiuojamas šio įstatymo priede nustatytą atlyginimo koeficientą padauginus iš bazinio dydžio.
 
 
 
 
-2. Bendrosios kompetencijos ir specializuotų teismų pirmininkų, jų pavaduotojų, skyrių pirmininkų ir teisėjų (toliau – bendrosios kompetencijos ir specializuotų teismų teisėjai) atlyginimas susideda iš:
+2. Bendrosios kompetencijos ir specializuotų teismų teisėjų atlyginimą sudaro:
 
 
-1) pareiginės algos;
-
-
-
-
-2) priedo už ištarnautus Lietuvos valstybei metus;
+1) pareiginė alga;
 
 
 
 
-3) priemokos už padidėjusį darbo krūvį. 
-Papildyta straipsnio punktu:
-Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
+2) priedas už tarnybos Lietuvos valstybei stažą;
+
+
+
+
+3) mokėjimas už darbą ir budėjimą poilsio ir švenčių dienomis, pavadavimą;
+
+
+
+
+4) priemoka už padidėjusį darbo krūvį. 
+
+
+
+
+
+
+3. Bendrosios kompetencijos ir specializuotų teismų teisėjų pareiginė alga apskaičiuojama  šio įstatymo priede nustatytą pareiginės algos koeficientą padauginus iš bazinio dydžio.
+
+
+
+
+4. Duomenys apie teisėjų atlyginimus yra vieši. Jie teikiami Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo nustatyta tvarka.
  
 
 
@@ -107,17 +125,15 @@ Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
 
 
 
-3. Bendrosios kompetencijos ir specializuotų teismų teisėjų pareiginė alga apskaičiuojama atitinkamos pareiginės algos koeficientą, nustatytą šio įstatymo priedėlyje, padauginus iš bazinio dydžio.
+5 straipsnis. Priedas už tarnybos Lietuvos valstybei stažą
+
+
+1. Bendrosios kompetencijos ir specializuotų teismų teisėjams mokamas priedas už tarnybos Lietuvos valstybei stažą, nurodytą Lietuvos Respublikos valstybės tarnybos įstatymo 47 straipsnio 1 ir 2 dalyse. Tarnybos Lietuvos valstybei stažo skaičiavimo tvarką nustato Vyriausybė.
 
 
 
 
-4. Lietuvos Respublikos Konstitucinio Teismo teisėjų atlyginimas ir bendrosios kompetencijos bei specializuotų teismų teisėjų pareiginė alga apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis skaitmuo būtų 0 arba 5.
-
-
-
-
-5. Duomenys apie teisėjų atlyginimus yra vieši. Šie duomenys teikiami vadovaujantis Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nustatyta tvarka.
+2. Priedą už tarnybos Lietuvos valstybei stažą sudaro vienas procentas bendrosios kompetencijos ar specializuoto teismo teisėjo pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus, tačiau šio priedo dydis neturi viršyti 30 procentų pareiginės algos.
  
 
 
@@ -125,15 +141,40 @@ Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
 
 
 
-5 straipsnis. Priedas už ištarnautus Lietuvos valstybei metus
+6 straipsnis. Mokėjimas už bendrosios kompetencijos ir specializuotų teismų teisėjų darbą ir budėjimą poilsio ir švenčių dienomis bei pavadavimą 
 
 
-1. Bendrosios kompetencijos ir specializuotų teismų teisėjams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d. einant pareigas, nurodytas Valstybės tarnybos įstatymo 4 straipsnio 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42 straipsnio 1 dalyje, apskaičiuoti pagal Lietuvos Respublikos Vyriausybės patvirtintas Tarnybos Lietuvos valstybei stažo skaičiavimo taisykles.
+1. Bendrosios kompetencijos ir specializuotų teismų teisėjams už darbą poilsio ir švenčių dienomis mokama, kai jie atlieka Lietuvos Respublikos baudžiamojo proceso kodekse, Lietuvos Respublikos civilinio proceso kodekse ir kituose įstatymuose nustatytas teisėjo funkcijas, kurių iš anksto nebuvo galima suplanuoti ir numatyti ir kurių dėl teisinių ir (ar) faktinių kliūčių negalima atlikti kitu laiku ar atidėti kitai darbo dienai (toliau – neatidėliotini veiksmai).
 
 
 
 
-2. Priedą už ištarnautus valstybei metus sudaro 3 procentai teisėjo pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis neturi viršyti 30 procentų pareiginės algos.
+2. Bendrosios kompetencijos ir specializuotų teismų teisėjams už budėjimą poilsio ir švenčių dienomis mokama, kai pagal bendrosios kompetencijos ar specializuoto teismo pirmininko ar jo įgalioto bendrosios kompetencijos ar specializuoto teismo teisėjo patvirtintą bendrosios kompetencijos ar specializuoto teismo teisėjų budėjimo grafiką bendrosios kompetencijos ar specializuoto teismo teisėjas turi būti nurodytoje vietoje (bendrosios kompetencijos ar specializuotame teisme arba namuose) poilsio ir švenčių dienomis, kad prireikus galėtų atlikti neatidėliotinus veiksmus.
+
+
+
+
+3. Už darbą ir budėjimą bendrosios kompetencijos ar specializuotame teisme poilsio ir švenčių dienomis bendrosios kompetencijos ar specializuoto teismo teisėjo pasirinkimu mokamas dvigubo bendrosios kompetencijos ar specializuoto teismo teisėjo pareiginės algos su priedu už tarnybos Lietuvos valstybei stažą dydžio atlygis arba jam artimiausią mėnesį suteikiamas dvigubos trukmės poilsio laikas, arba šis poilsio laikas pridedamas prie kasmetinių atostogų. Už suteiktą poilsio laiką bendrosios kompetencijos ar specializuoto teismo teisėjui mokamas jo pareiginės algos su priedu už tarnybos Lietuvos valstybei stažą dydžio atlygis.
+
+
+
+
+4. Už budėjimą poilsio ir švenčių dienomis namuose bendrosios kompetencijos ar specializuoto teismo teisėjui mokama 50 procentų jo pareiginės algos su priedu už tarnybos Lietuvos valstybei stažą dydžio atlygis proporcingai budėtam laikui. Už darbą atvykus į bendrosios kompetencijos ar specializuotą teismą atlikti neatidėliotinų veiksmų poilsio ir švenčių dienomis mokama šio straipsnio 3 dalyje nustatyta tvarka. 
+
+
+
+
+5. Bendrosios kompetencijos ir specializuotų teismų teisėjams už darbą ir budėjimą poilsio ir švenčių dienomis mokama pagal darbo laiko apskaitos žiniaraščiuose pažymėtą laiką. Budėjimo namuose laikas į darbo laiką neįskaičiuojamas, išskyrus laiką, per kurį, atvykus į bendrosios kompetencijos ar specializuotą teismą, faktiškai atlikti neatidėliotini veiksmai.
+
+
+
+
+6. Kai Aukščiausiojo Teismo, Apeliacinio teismo ar apygardos teismo pirmininką Lietuvos Respublikos teismų įstatymo nustatyta tvarka pavaduoja didesnį šiame teisme teisėjo darbo stažą turintis skyriaus pirmininkas, apskaičiuojant jo atlyginimą taikomas atitinkamai Aukščiausiojo Teismo, Apeliacinio teismo ar apygardos teismo pirmininko pareiginės algos koeficientas. Kai bendrosios kompetencijos ar specializuoto teismo pirmininką, pirmininko pavaduotoją ar skyriaus pirmininką Teismų įstatymo nustatyta tvarka pavaduoja didžiausią darbo stažą šiame teisme turintis bendrosios kompetencijos ar specializuoto teismo teisėjas, apskaičiuojant jo atlyginimą taikomas atitinkamai bendrosios kompetencijos ar specializuoto teismo pirmininko, pirmininko pavaduotojo ar skyriaus pirmininko pareiginės algos koeficientas.
+
+
+
+
+7. Mokėjimo už bendrosios kompetencijos ir specializuotų teismų teisėjų darbą ir budėjimą poilsio ir švenčių dienomis bei pavadavimą tvarką nustato Teisėjų taryba.
  
 
 
@@ -141,48 +182,15 @@ Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
 
 
 
-51 straipsnis. Priemoka už padidėjusį darbo krūvį 
+7 straipsnis. Priemoka už padidėjusį darbo krūvį
 
 
-1. Bendrosios kompetencijos ar specializuoto teismo teisėjui mokama ne didesnė kaip 30 procentų jo pareiginės algos dydžio priemoka už padidėjusį darbo krūvį, kai yra padidėjęs darbų mastas dėl iš anksto nenumatytų priežasčių žymiai padaugėjus gaunamų nagrinėti tam tikros kategorijos bylų per mėnesį. 
-
-
-
-
-2. Priemokų už padidėjusį darbo krūvį skyrimo ir mokėjimo bendrosios kompetencijos ir specializuotų teismų teisėjams tvarką nustato Teisėjų taryba. Bendrosios kompetencijos ir specializuotų teismų teisėjams mokamos priemokos už padidėjusį darbo krūvį dydį nustato bendrosios kompetencijos ar  specializuoto teismo pirmininkas.
-
-
-Papildyta straipsniu:
-Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
- 
+1. Bendrosios kompetencijos ar specializuoto teismo teisėjui mokama ne didesnė kaip 30 procentų jo pareiginės algos dydžio priemoka už padidėjusį darbo krūvį, kai yra padidėjęs darbų mastas atliekant kito to paties bendrosios kompetencijos ar specializuoto teismo (ar tų pačių teismo rūmų) teisėjo funkcijas (kai laikinai neužimtos to paties bendrosios kompetencijos ar specializuoto teismo teisėjo pareigos bendrosios kompetencijos ar specializuotame teisme (ar tuose pačiuose teismo rūmuose) arba kai to paties bendrosios kompetencijos ar specializuoto teismo (ar tų pačių teismo rūmų) teisėjas laikinai negali eiti bendrosios kompetencijos ar specializuoto teismo teisėjo pareigų) arba kai dėl iš anksto nenumatytų priežasčių yra žymiai padidėjęs gaunamų tam tikros kategorijos bylų skaičius per mėnesį.
 
 
 
 
-6 straipsnis. Vienkartinė priemoka
-
-
-1. Bendrosios kompetencijos ir specializuotų teismų teisėjams metų pabaigoje už viršvalandinį darbą, darbą poilsio ir švenčių dienomis atliekant teisėjo funkcijas, nurodytas Baudžiamojo proceso kodekse, Civilinio proceso kodekse bei kituose įstatymuose, išmokama ne didesnė kaip pareiginės algos dydžio vienkartinė priemoka. Ji mokama neviršijant atitinkamų metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme teismui nustatytų asignavimų darbo užmokesčiui. Jeigu šių lėšų nepakanka, taip pat jei teisėjas institucijoje nėra išdirbęs visų metų, priemokos dydis perskaičiuojamas proporcingai esamoms darbo užmokesčio lėšoms ir tais metais dirbtam laikui.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos teisėjų atlyginimų įstatymo 6 straipsnio 1 dalis (Žin., 2008, Nr. 131-5022) tiek, kiek ribojama teisėjų teisė gauti teisingą atlyginimą už viršvalandinį darbą, už darbą švenčių ir poilsio dienomis, prieštarauja Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „Kiekvienas žmogus <...> turi teisę <...> gauti teisingą apmokėjimą už darbą <...>“, konstituciniam teisinės valstybės principui.
-Straipsnio dalies pakeitimai:
-2011-02-14, Žin., 2011, Nr. 20-967 (2011-02-17), i. k. 1111000NUTARG111145            
- 
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo sąlygas ir tvarką nustato Teisėjų taryba.
- 
-
-
-
-
-
-
-7 straipsnis. Įstatymo įgyvendinimas
-
-
-Kol bus patvirtintas naujas bazinis dydis, skaičiuojant teisėjų atlyginimus, vadovaujamasi Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos bazinio dydžio, taikomo 2008 metais, įstatymu (Žin., 2007, Nr. 80-3224).
+2. Priemokų už padidėjusį darbo krūvį skyrimo ir mokėjimo bendrosios kompetencijos ir specializuotų teismų teisėjams tvarką nustato Teisėjų taryba. Bendrosios kompetencijos ir specializuotų teismų teisėjams mokamos priemokos už padidėjusį darbo krūvį dydį nustato bendrosios kompetencijos ar specializuoto teismo pirmininkas. 
  
 
 
@@ -199,60 +207,65 @@ RESPUBLIKOS PREZIDENTAS                             
  
 
 
-
-
-
-
- 
-Lietuvos Respublikos 
-teisėjų atlyginimų įstatymo 
-priedėlis
  
 
 
-I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
+
+
+ 
+
  
-(Baziniais dydžiais)
+Lietuvos Respublikos
+teisėjų darbo apmokėjimo įstatymo
+priedas
+ 
+LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMO IR BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS KOEFICIENTAI
+ 
+
+
+I SKYRIUS
+LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMO KOEFICIENTAI
  
 
 
 
  Eil. Nr. 
- Pareigybės 
- Atlyginimo koeficientas 
+ Pareigybė 
+ Atlyginimo koeficientas  
 
 
  1. 
- Lietuvos Respublikos Konstitucinio Teismo pirmininkas (ar jį pavaduojantis teisėjas) 
+ Konstitucinio Teismo pirmininkas (ar pirmininką pavaduojantis Konstitucinio Teismo teisėjas) 
  32,3 
 
 
  2. 
- Lietuvos Respublikos Konstitucinio Teismo teisėjas 
+ Konstitucinio Teismo teisėjas 
  29,35 
 
 
 
  
-
-
-
-
-II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
  
-(Baziniais dydžiais)
+ 
+
+
+
+
+II SKYRIUS
+BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS KOEFICIENTAI
  
 
 
 
  Eil. Nr. 
- Įstaigos pavadinimas 
- Pareiginės algos koeficientas 
+ Teismo pavadinimas 
+ Pareiginės algos koeficientas  
 
 
- pirmininko ar jį pavaduojančiojo (kai nėra etatinio pavaduotojo) 
- pirmininko pavaduotojo 
- skyriaus pirmininko 
+ pirmininko ar pirmininką pavaduojančio teisėjo  (kai nėra pirmininko pavaduotojo pareigybės) 
+ pirmininko pavaduotojo ar jį pavaduojančio teisėjo 
+ skyriaus pirmininko ar jį pavaduojančio teisėjo 
  teisėjo 
 
 
@@ -283,7 +296,7 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
 
 
  4. 
- Apygardų teismai 
+ Apygardos teismas 
  19,2 
  – 
  18,2 
@@ -291,7 +304,7 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
 
 
  5. 
- Apygardų administraciniai teismai 
+ Apygardos administracinis teismas 
  19,2 
  18,2 
  – 
@@ -299,7 +312,7 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
 
 
  6. 
- Apylinkių teismai 
+ Apylinkės teismas 
  18,2 
  17,2 
  – 
@@ -310,19 +323,6 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
  
 
 
-Priedo pakeitimai:
-Nr. XI-235, 2009-04-28, Žin., 2009, Nr. 49-1940 (2009-04-30), i. k. 1091010ISTA00XI-235
-Nr. XI-362, 2009-07-17, Žin., 2009, Nr. 91-3917 (2009-07-31), i. k. 1091010ISTA00XI-362
-Nr. XI-952, 2010-06-30, Žin., 2010, Nr. 82-4306 (2010-07-13), i. k. 1101010ISTA00XI-952
-Nr. XI-953, 2010-06-30, Žin., 2010, Nr. 82-4307 (2010-07-13), i. k. 1101010ISTA00XI-953
-Nr. XI-1728, 2011-11-22, Žin., 2011, Nr. 150-7043 (2011-12-08), i. k. 1111010ISTA0XI-1728
-Nr. XI-1729, 2011-11-22, Žin., 2011, Nr. 150-7044 (2011-12-08), i. k. 1111010ISTA0XI-1729
-Nr. XII-112, 2012-12-20, Žin., 2012, Nr. 155-7990 (2012-12-31), i. k. 1121010ISTA0XII-112
-Nr. XII-113, 2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31), i. k. 1121010ISTA0XII-113
-Nr. XII-518, 2013-09-19, Žin., 2013, Nr. 102-5027 (2013-09-28), i. k. 1131010ISTA0XII-518
-Nr. XII-519, 2013-09-19, Žin., 2013, Nr. 102-5028 (2013-09-28), i. k. 1131010ISTA0XII-519
-Nr. XIII-1689, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20188
- 
  
  
 Pakeitimai:
@@ -354,7 +354,7 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstat
  
 6.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2011-02-14, Žin., 2011, Nr. 20-967 (2011-02-17), i. k. 1111000NUTARG111145                
+2011-02-14, Žin., 2011, Nr. 20-967 (2011-02-17), i. k. 1111000NUTARG111145                
 Dėl Lietuvos Respublikos teisėjų atlyginimų įstatymo (2008 m. lapkričio 6 d. redakcija) 4 straipsnio 2 dalies 2 punkto, 5 straipsnio 1 dalies, 6 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
  
 7.
@@ -396,3 +396,11 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo Nr. X-1771 priedėlio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-509, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16270
 Lietuvos Respublikos teisėjų atlyginimų įstatymo Nr. X-1771 4 straipsnio pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-708, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25134
+Lietuvos Respublikos teisėjų atlyginimų įstatymo Nr. X-1771 pakeitimo įstatymas
+ 
+ 
+part_ad85159a6d104d78bb2e96533e31a294_end
