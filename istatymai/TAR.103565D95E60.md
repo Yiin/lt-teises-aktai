@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.103565D95E60"
 
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3248, i. k. 1061010ISTA000X-745
  
@@ -3118,7 +3118,7 @@ INFORMACIJOS ATSKLEIDIMAS
 
 
 
-3) tai, ar taikant investavimo metodą atsižvelgiama į aplinkos, klimato kaitos, socialinius ir organizacijos valdymo veiksnius ir kaip tai daroma, bei tai, kaip įgyvendinamas Reglamentas (ES) 2019/2088, ir 
+3) tai, ar taikant investavimo metodą atsižvelgiama į aplinkos, klimato kaitos, socialinius ir organizacijos valdymo veiksnius ir kaip tai daroma, bei tai, kaip įgyvendinamas Reglamentas (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniai, ir 
 Straipsnio punkto pakeitimai:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
  
@@ -3291,8 +3291,10 @@ PENSIJŲ ASOCIACIJŲ VEIKLOS PRIEŽIŪRA
 
 
 
-4) atlieka Reglamente (ES) 2019/2088 kompetentingai institucijai nustatytas funkcijas; 
+4) atlieka Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas; 
 Papildyta straipsnio punktu:
+Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
+Straipsnio punkto pakeitimai:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
  
 
@@ -3576,7 +3578,7 @@ Priežiūros institucija taiko šias poveikio priemones:
 
 
 
-11) pažeisti Reglamente (EB) Nr. 1060/2009 ar Reglamente (ES) 2019/2088 nustatyti reikalavimai; 
+11) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) 2019/2088 ar Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
  
@@ -3940,6 +3942,9 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
+ 
+
+ 
 Lietuvos Respublikos
 profesinių pensijų kaupimo įstatymo
 priedas
@@ -3981,11 +3986,18 @@ priedas
 7. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
 
 
-Priedo pakeitimai:
+
+
+8. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088.
+Papildyta punktu:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
  
 
 
+Priedo pakeitimai:
+Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
+ 
+part_4defdbc1cb4e48498f0bf06040161ed8_end
 
 
  
