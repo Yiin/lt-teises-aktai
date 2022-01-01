@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB"
 
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-02-28
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 60-1398, i. k. 0971010ISTAVIII-238
  
@@ -145,7 +145,7 @@ b) renka, kaupia, sistemina ir apibendrina medžiagą apie okupacinių režimų 
 
 
 
-c) renka, analizuoja ir apibendrina medžiagą apie pasipriešinimo okupaciniams režimams procesus ir dalyvius bei pasipriešinimą 1990–1991 m. SSRS agresijai atkūrus Lietuvos nepriklausomybę;
+c) renka, analizuoja ir apibendrina medžiagą apie pasipriešinimo okupaciniams režimams procesus ir dalyvius bei pasipriešinimą 1990–1991 m. SSRS vykdytai agresijai atkūrus Lietuvos nepriklausomybę;
 
 
 
@@ -160,12 +160,12 @@ e) sudaro karių savanorių, laisvės kovų dalyvių ir asmenų, nukentėjusių 
 
 
 
-f) tiria archyvinę medžiagą ir teikia informaciją juridiniams ir fiziniams asmenims apie okupacijų laikotarpiu žuvusius, dingusius be žinios, represuotus, persekiotus, nukentėjusius nuo 1939–1990 m. okupacijų ir 1990–1991 m. SSRS vykdytos agresijos atkūrus Lietuvos nepriklausomybę Lietuvos gyventojus, pasipriešinimo okupacijoms dalyvius; 
+f) tiria archyvinę medžiagą ir teikia informaciją juridiniams ir fiziniams asmenims apie okupacijų laikotarpiu žuvusius, dingusius be žinios, represuotus, persekiotus, nukentėjusius nuo 1939–1990 m. okupacijų ir 1990–1991 m. SSRS vykdytos agresijos atkūrus Lietuvos nepriklausomybę Lietuvos gyventojus, pasipriešinimo okupacijoms dalyvius;
 
 
 
 
-g) rūpinasi dokumentų, susijusių su genocidu ir rezistencija, paieškomis Lietuvoje ir kitose valstybėse, jų sugrąžinimu ar kopijų įsigijimu, kaupia rašytinę, fotografuotinę, garso, filmuotą medžiagą apie genocidą ir rezistenciją;
+g) rūpinasi dokumentų, susijusių su genocidu ir rezistencija, paieškomis Lietuvoje ir kitose valstybėse, jų sugrąžinimu ar kopijų įsigijimu, kaupia rašytinę, fotografuotinę, garso, filmuotą medžiagą apie genocidą ir rezistenciją; 
 
 
 
@@ -180,7 +180,7 @@ i) bendradarbiauja su teisėsaugos institucijomis, tiriančiomis kitų valstybi�
 
 
 
-j) tikrina, analizuoja ir skelbia buvusios SSRS specialiųjų tarnybų dokumentus;
+j) tikrina, analizuoja ir skelbia buvusios SSRS specialiųjų tarnybų dokumentus; 
 
 
 
@@ -200,17 +200,17 @@ a) dalyvauja įgyvendinant valstybės politiką tremties ir rezistencijos muziej
 
 
 
-b) bendradarbiauja su Lietuvos Respublikos švietimo, mokslo ir sporto ministerija, Lietuvos Respublikos kultūros ministerija, Lietuvos Respublikos krašto apsaugos ministerija ir mokymo įstaigomis, teikia metodinę pagalbą įgyvendinant jaunimo patriotinio ugdymo ir visuomenės pilietiškumo programas;
+b) bendradarbiauja su Lietuvos Respublikos švietimo, mokslo ir sporto ministerija, Lietuvos Respublikos kultūros ministerija, Lietuvos Respublikos krašto apsaugos ministerija ir švietimo įstaigomis, teikia metodinę pagalbą įgyvendinant jaunimo patriotinio ugdymo ir visuomenės pilietiškumo programas;
 
 
 
 
-c) inicijuoja, skatina ir remia memorialinių kompleksų, paminklų statybos, atminimo ženklų, kino filmų, monografijų kūrimo projektus ir skelbia viešus konkursus jiems įgyvendinti;
+c) inicijuoja, skatina ir remia memorialinių kompleksų, paminklų statybos, atminimo ženklų, meno kūrinių, monografijų kūrimo projektus ir skelbia viešus konkursus jiems įgyvendinti Lietuvos Respublikos teritorijoje ir užsienyje, prieš tai suderinęs veiksmus su atitinkama užsienio valstybe; 
 
 
 
 
-d) dalyvauja steigiant kovų ir kančių memorialą Vilniuje, rūpinasi istorinio paminklinio komplekso – buvusių KGB rūmų – autentiškumo išsaugojimu ir laipsnišku Okupacijų ir laisvės kovų muziejaus išplėtimu, taip pat tinkamų saugoti sąlygų sudarymu neatsiejamai šio memorialinio komplekso daliai – buvusiems KGB archyvams;
+d) dalyvauja steigiant kovų ir kančių memorialą Vilniuje, rūpinasi istorinio paminklinio komplekso – buvusių KGB rūmų – autentiškumo išsaugojimu ir nuosekliu Okupacijų ir laisvės kovų muziejaus išplėtimu, taip pat tinkamų saugoti sąlygų sudarymu neatsiejamai šiam memorialinio komplekso daliai – buvusiems KGB archyvams;
 
 
 
@@ -225,17 +225,17 @@ f) rengia siūlymus dėl valstybės mastu atmintinų su Lietuvos gyventojų geno
 
 
 
-g) rengia siūlymus dėl karių savanorių ir laisvės kovų dalyvių apdovanojimo, taip pat jų turėtų laipsnių ir apdovanojimų atkūrimo;
+g) rengia siūlymus dėl karių savanorių ir laisvės kovų dalyvių apdovanojimo, taip pat jų turėtų laipsnių ir apdovanojimų atkūrimo; 
 
 
 
 
-h) rengia Lietuvos ir kitų šalių ekspedicijas į tremties, žudynių, pasipriešinimo kovų vietas ir dalyvauja šiose ekspedicijose, renka kraštotyros medžiagą, liudytojų parodymus, dalyvauja tarptautiniuose projektuose, kuriais siekiama įamžinti genocido aukų atminimą;
+h) rengia Lietuvos ir kitų šalių ekspedicijas į tremties, žudynių, pasipriešinimo kovų, Lietuvos gyventojų palaidojimo ar užkasimo vietas ir dalyvauja šiose ekspedicijose, renka kraštotyros medžiagą, liudytojų parodymus, dalyvauja tarptautiniuose projektuose, kuriais siekiama įamžinti genocido aukų atminimą;
 
 
 
 
-i) rengia nuolatines ekspozicijas Okupacijų ir laisvės kovų muziejuje, taip pat kilnojamąsias parodas, panaudodamas Centro padalinių tyrimo rezultatus ir sukauptą medžiagą, kaupia muziejaus fondus, juos sistemina, saugo ir tvarko, rengia ir įgyvendina edukacines programas studentams ir moksleiviams;
+i) rengia nuolatines ekspozicijas Okupacijų ir laisvės kovų muziejuje, taip pat kilnojamąsias parodas, panaudodamas Centro padalinių tyrimo rezultatus ir sukauptą medžiagą, kaupia muziejaus fondus, juos sistemina, saugo ir tvarko, rengia ir įgyvendina edukacines programas studentams ir moksleiviams; 
 
 
 
@@ -250,15 +250,21 @@ a) inicijuoja, rengia ar dalyvauja rengiant įstatymų ir kitų okupacijos padar
 
 
 
-b) teikia siūlymus dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo ar pakartotinio bylų tyrimo atsiradus naujų duomenų apie jų veiklą, siūlo iš naujo ištirti šių asmenų bylas.
+b) teikia siūlymus dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo ar pakartotinio bylų tyrimo atsiradus naujų duomenų apie jų veiklą, siūlo iš naujo ištirti šių asmenų bylas;
 
 
+
+
+
+
+4) remdamasis istoriniais šaltiniais ir Lietuvos gyventojų registro duomenimis, inicijuoja ir organizuoja okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų palaikų paiešką; Lietuvos Respublikos teritorijoje ir užsienyje ieško šių asmenų giminaičių; organizuoja okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų palaikų identifikavimą; šiuo tikslu organizuoja tvarkymą ar tvarko rastų neatpažintų ieškomų okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų ir jų giminaičių genetinių (DNR), biologinių mėginių bazę, identifikavimui reikalingus duomenis.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2322, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12366
+Nr. XIV-728, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25846
  
 
 
@@ -525,3 +531,8 @@ Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2322, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12366
 Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 preambulės, 2, 4, 5, 6 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-728, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25846
+Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo Nr. VIII-238 5 straipsnio pakeitimo įstatymas
