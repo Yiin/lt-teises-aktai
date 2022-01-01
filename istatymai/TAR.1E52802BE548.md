@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-12-04 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -698,11 +698,10 @@ Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
 
 
 
-6. Visuotinio dalininkų susirinkimo įgaliotas asmuo viešosios įstaigos vardu sudaro darbo sutartį su viešosios įstaigos vadovu ir ją nutraukia. Kai visuotinis dalininkų susirinkimas priima sprendimą atšaukti viešosios įstaigos vadovą, su viešosios įstaigos vadovu sudaryta darbo sutartis nutraukiama. Darbo ginčai tarp viešosios įstaigos vadovo ir viešosios įstaigos nagrinėjami teisme.
-TAR pastaba. 9 straipsnio 6 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
-9 straipsnio 6 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+6. Visuotinio dalininkų susirinkimo įgaliotas asmuo viešosios įstaigos vardu sudaro darbo sutartį su viešosios įstaigos vadovu ir ją nutraukia. Kai visuotinis dalininkų susirinkimas priima sprendimą atšaukti viešosios įstaigos vadovą, su viešosios įstaigos vadovu sudaryta darbo sutartis nutraukiama. Su viešosios įstaigos, kuri nėra priskiriama prie viešojo sektoriaus subjektų ir kuri Juridinių asmenų registre yra registruota kaip nevyriausybinė organizacija, vadovu vietoj darbo sutarties gali būti sudaroma savanoriškos veiklos sutartis. Darbo ginčai tarp viešosios įstaigos vadovo ir viešosios įstaigos nagrinėjami teisme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+Nr. XIV-574, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21914
  
 
 
@@ -1654,3 +1653,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11-1 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-683, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25108
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 9, 10, 11, 11-1, 12, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-574, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21914
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 9 straipsnio pakeitimo įstatymas
