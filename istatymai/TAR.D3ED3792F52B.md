@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-12-22 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-13
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -77,6 +77,14 @@ BENDROSIOS NUOSTATOS
 
 
 
+61. Prekybos atstovas – karjeros valstybės tarnautojas, priimtas ar perkeltas į prekybos atstovo pareigas Lietuvos Respublikos prekybos atstovybėje užsienyje ir padedantis įgyvendinti valstybės ekonomikos politiką. 
+Papildyta straipsnio dalimi:
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
+ 
+
+
+
+
 7. Statutinis valstybės tarnautojas – valstybės tarnautojas, kurio tarnybą reglamentuoja įstatymu patvirtintas statutas arba Lietuvos Respublikos diplomatinės tarnybos įstatymas, nustatantys priėmimo į valstybės tarnybą, tarnybos atlikimo, darbo užmokesčio, socialinių garantijų, atleidimo, atsakomybės ir kitas su tarnybos ypatumais susijusias sąlygas.
 
 
@@ -97,9 +105,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Valstybės tarnyba – valstybės ir savivaldybių institucijose ir įstaigose pareigas einančių asmenų profesinė veikla, kuria atliekamos viešojo administravimo funkcijos arba užtikrinamas diplomatinės tarnybos institucijų funkcionavimas, arba padedama valstybės ar vietos valdžią įgyvendinantiems asmenims atlikti jiems nustatytas funkcijas, išskyrus ūkinio ir (ar) techninio pobūdžio funkcijas.
+11. Valstybės tarnyba – valstybės ir savivaldybių institucijose ir įstaigose pareigas einančių asmenų profesinė veikla, kuria atliekamos viešojo administravimo funkcijos arba užtikrinamas diplomatinės tarnybos institucijų ar prekybos atstovybių užsienyje funkcionavimas, arba padedama valstybės ar vietos valdžią įgyvendinantiems asmenims atlikti jiems nustatytas funkcijas, išskyrus ūkinio ir (ar) techninio pobūdžio funkcijas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2989, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12821
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
  
 
 
@@ -719,6 +728,14 @@ Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 
 4. Jeigu kiti įstatymai (išskyrus Seimo statute, Lietuvos Respublikos Prezidento įstatyme ir Lietuvos Respublikos Vyriausybės įstatyme nustatytas šių institucijų kanclerių priėmimo į pareigas sąlygas, Korupcijos prevencijos įstatymą, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymą ir Vietos savivaldos įstatyme, Lietuvos Respublikos savivaldybių administracinės priežiūros įstatyme, Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatyme nustatytas įstaigos vadovų priėmimo į pareigas sąlygas) nustato kitokias priėmimo į valstybės tarnautojo pareigas sąlygas, taikomos šio įstatymo nuostatos.
+
+
+
+
+41. Į prekybos atstovo pareigas priimama arba su rašytiniu sutikimu perkeliama ne ilgiau kaip 3 metams, o kai yra tarnybinė būtinybė, šis terminas gali būti pratęstas vieną kartą iki vienų metų. Perkėlimo į prekybos atstovo pareigas, atšaukimo iš jų tvarką, tarnybos užsienyje ypatumus ir kitas prekybos atstovų veiklos sąlygas nustato Vyriausybė ar jos įgaliota institucija.
+Papildyta straipsnio dalimi:
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
+ 
 
 
 
@@ -2652,7 +2669,17 @@ Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 
 
 
-10. Kiti įstatymai gali nustatyti ir kitų garantijų.
+10. Prekybos atstovams ir kartu su jais užsienyje gyvenantiems šeimos nariams taikomos specialiesiems atašė nustatytos socialinės ir kitos garantijos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
+ 
+
+
+
+
+11. Kiti įstatymai gali nustatyti ir kitų garantijų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
  
 
 
@@ -3155,9 +3182,9 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
  10. 
  specialistas, teismo administracijos sekretorius, teismo posėdžių sekretorius 
 
- 5,6–11 
- 5,3–10,5 
- 5–9,5 
+ 6,1–11 
+ 5,8–10,5 
+ 5,5–9,5 
 
 
 
@@ -3170,6 +3197,7 @@ Nr. XIII-2809, 2020-03-12, paskelbta TAR 2020-03-17, i. k. 2020-05602
 Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
 Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
 Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
+Nr. XIV-711, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25137
  
 
 
@@ -4224,3 +4252,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5, 21, 49 strai
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT201-A-N15/2021, 2021-12-22, paskelbta TAR 2021-12-22, i. k. 2021-26640
 Dėl Lietuvos Respublikos valstybės tarnybos įstatymo (2018 m. birželio 29 d. redakcija) 40 straipsnio 1 dalies 3 punkto, 41 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-711, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25137
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeitimo įstatymas
