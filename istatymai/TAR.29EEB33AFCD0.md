@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-07-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -45,7 +45,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Šio įstatymo nuostatos taikomos atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63) (toliau – Reglamentas (ES) Nr. 1024/2013), ir jo įgyvendinamųjų teisės aktų nuostatas.
+3. Šio įstatymo nuostatos taikomos atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, ir jo įgyvendinamųjų teisės aktų nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
@@ -81,7 +83,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), įsteigta institucija.
+6. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (su visais pakeitimais) įsteigta institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+ 
 
 
 
@@ -136,9 +141,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-13. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme (toliau – Finansų įstaigų įstatymas), Lietuvos Respublikos finansinio tvarumo įstatyme (toliau – Finansinio tvarumo įstatymas), Lietuvos Respublikos vertybinių popierių įstatyme, 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) (toliau – Reglamentas (ES) Nr. 575/2013) ir 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).
+13. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (su visais pakeitimais) ir 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (su visais pakeitimais).
 Straipsnio dalies pakeitimai:
 Nr. XIII-2023, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05394
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
@@ -475,7 +481,15 @@ CENTRINĖS KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 
 
-14) kitų valstybės institucijų išduotos išvados, leidimai ar kiti dokumentai dėl pasirengimo teikti licencines finansines paslaugas, jeigu to reikalauja kiti įstatymai. 
+14) kitų valstybės institucijų išduotos išvados, leidimai ar kiti dokumentai dėl pasirengimo teikti licencines finansines paslaugas, jeigu to reikalauja kiti įstatymai;
+
+
+
+
+15) organizacinės vidaus struktūros aprašymas.
+Papildyta straipsnio punktu:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+ 
 
 
 
@@ -825,9 +839,10 @@ Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
 
 
 
-5. Centrinė kredito unija, grąžindama asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, pajinius įnašus, turi teisę atidėti pajinių įnašų visos sumos grąžinimą ar apriboti pajinių įnašų dalies sumos grąžinimą neribotam laikui, jeigu toks atidėjimas ar apribojimas yra pagrįstas ir proporcingas atsižvelgiant į 2014 m. sausio 7 d. Komisijos deleguotojo reglamento (ES) Nr. 241/2014, kuriuo papildomos Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 nuostatos, susijusios su įstaigų nuosavų lėšų reikalavimų techniniais reguliavimo standartais (OL 2014 L 74, p. 8) (toliau – Reglamentas (ES) Nr. 241/2014), 10 straipsnio 3 dalies nuostatas. Apie sprendimą atsiskaityti, atidėti pajinių įnašų visos sumos grąžinimą ar apriboti pajinių įnašų dalies sumos grąžinimą asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, centrinė kredito unija nedelsdama privalo raštu pranešti priežiūros institucijai. Išnykus pajinių įnašų grąžinimo atidėjimo ar apribojimo pagrindui, centrinė kredito unija privalo nedelsdama spręsti klausimą dėl pajinių įnašų visos ar dalies sumos grąžinimo. 
+5. Centrinė kredito unija, grąžindama asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, pajinius įnašus, turi teisę atidėti pajinių įnašų visos sumos grąžinimą ar apriboti pajinių įnašų dalies sumos grąžinimą neribotam laikui, jeigu toks atidėjimas ar apribojimas yra pagrįstas ir proporcingas atsižvelgiant į 2014 m. sausio 7 d. Komisijos deleguotojo reglamento (ES) Nr. 241/2014, kuriuo papildomos Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 nuostatos, susijusios su įstaigų nuosavų lėšų reikalavimų techniniais reguliavimo standartais, 10 straipsnio 3 dalies nuostatas. Apie sprendimą atsiskaityti, atidėti pajinių įnašų visos sumos grąžinimą ar apriboti pajinių įnašų dalies sumos grąžinimą asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, centrinė kredito unija nedelsdama privalo raštu pranešti priežiūros institucijai. Išnykus pajinių įnašų grąžinimo atidėjimo ar apribojimo pagrindui, centrinė kredito unija privalo nedelsdama spręsti klausimą dėl pajinių įnašų visos ar dalies sumos grąžinimo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
@@ -1970,7 +1985,9 @@ CENTRINĖS KREDITO UNIJOS VEIKLOS RIZIKA IR JOS APRIBOJIMAS, CENTRINĖS KREDITO 
 
 
 
-4. Paskirstymui iš kapitalo rezervų taikomi priežiūros institucijos vadovaujantis Europos Sąjungos teisės aktais nustatyti apribojimai.
+4. Neteko galios nuo 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
@@ -2446,7 +2463,10 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-6) sumažinti su centrinės kredito unijos veikla, produktais ir sistemomis susijusią riziką; 
+6) sumažinti su centrinės kredito unijos veikla, produktais ir sistemomis, įskaitant tretiesiems asmenims perduotą veiklą, susijusią riziką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+ 
 
 
 
@@ -2516,7 +2536,15 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-20) atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar centrinės kredito unijos veiklos trūkumai arba kad centrinės kredito unijos veikla būtų stabili ir patikima. 
+20) atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar centrinės kredito unijos veiklos trūkumai arba kad centrinės kredito unijos veikla būtų stabili ir patikima;
+
+
+
+
+21) pateikti priežiūros institucijai reikalavimų laikymosi atkūrimo planą, parengtą pagal šio įstatymo ir Reglamento (ES) Nr. 575/2013 reikalavimus, ir nustatyti galutinį šio plano įgyvendinimo terminą, įskaitant to plano patobulinimus atsižvelgiant į jo taikymo sritį ir galutinį įgyvendinimo terminą. 
+Papildyta straipsnio punktu:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+ 
 
 
 
@@ -2548,7 +2576,7 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-5. Priežiūros institucija, nustačiusi, kad centrinė kredito unija pažeidžia šio įstatymo, Reglamento (ES) Nr. 575/2013, 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2014, L 173, p. 84), 3, 4, 5, 6, 7, 14, 15, 16, 17, 24, 25 ir 26 straipsnių reikalavimus, arba turėdama duomenų, kad artimiausiu metu dėl sparčiai blogėjančios finansinės būklės centrinė kredito unija juos pažeis, turi teisę centrinei kredito unijai duoti šio straipsnio 2 dalies 14 ir 15 punktuose nustatytus ir šiuos privalomus nurodymus:
+5. Priežiūros institucija, nustačiusi, kad centrinė kredito unija pažeidžia šio įstatymo, Reglamento (ES) Nr. 575/2013, 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, 3, 4, 5, 6, 7, 14, 15, 16, 17, 24, 25 ir 26 straipsnių reikalavimus, arba turėdama duomenų, kad artimiausiu metu dėl sparčiai blogėjančios finansinės būklės centrinė kredito unija juos pažeis, turi teisę centrinei kredito unijai duoti šio straipsnio 2 dalies 14 ir 15 punktuose nustatytus ir šiuos privalomus nurodymus:
 
 
 1) įgyvendinti vieną ar daugiau gaivinimo plane, parengtame pagal Finansinio tvarumo įstatymo 4–11 straipsnių nuostatas, nustatytų procedūrų ar priemonių arba gaivinimo planą atnaujinti, kai šioje dalyje nustatytų nurodymų taikymą paskatinusios aplinkybės skiriasi nuo galiojančiame gaivinimo plane nustatytų prielaidų, ir įgyvendinti vieną ar daugiau atnaujintame gaivinimo plane nustatytų procedūrų ar priemonių per priežiūros institucijos nustatytą laikotarpį, užtikrinant, kad būtų pašalintos šioje dalyje nustatytų priemonių taikymą paskatinusios aplinkybės;
@@ -2566,7 +2594,7 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-4) pakeisti centrinės kredito unijos verslo strategiją; 
+4) pakeisti centrinės kredito unijos verslo strategiją;
 
 
 
@@ -2574,6 +2602,9 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 5) pakeisti centrinės kredito unijos teisinę ir organizacinę ar veiklos struktūrą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+ 
 
 
 
@@ -2593,30 +2624,53 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-9. Pagal šio straipsnio 2 dalį priežiūros institucija, nustatydama tinkamą individualaus centrinės kredito unijos kapitalo reikalavimo dydį arba tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgia į kiekybinius ir kokybinius priežiūrinio tikrinimo ir vertinimo rezultatus, sisteminės rizikos įvertinimą, centrinės kredito unijos valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus.
+9. Šio straipsnio 2 dalies 10 punkte nustatytas privalomas nurodymas gali būti duodamas tik tuo atveju, jeigu centrinė kredito unija iš esmės tos pačios prašomos informacijos priežiūros institucijai nėra pateikusi arba neteikia kitais būdais ar forma. 
+Papildyta straipsnio dalimi:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+ 
 
 
 
 
-10. Priežiūros institucija nuomonę dėl indėlių draudžiamojo įvykio, kaip jis apibrėžtas Indėlių ir įsipareigojimų investuotojams draudimo įstatyme, patvirtinimo raštu pateikia ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti centrinė kredito unija dėl su savo finansine padėtimi tiesiogiai susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir to negalės padaryti artimiausiu metu. 
+10. Pagal šio straipsnio 2 dalies 2 ir 11 punktus priežiūros institucija, nustatydama tinkamą individualaus centrinės kredito unijos kapitalo reikalavimo dydį arba tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgia į kiekybinius ir kokybinius priežiūrinio tikrinimo ir vertinimo rezultatus, centrinės kredito unijos valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+ 
+
+
+
+
+11. Priežiūros institucija nuomonę dėl indėlių draudžiamojo įvykio, kaip jis apibrėžtas Indėlių ir įsipareigojimų investuotojams draudimo įstatyme, patvirtinimo raštu pateikia ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti centrinė kredito unija dėl su savo finansine padėtimi tiesiogiai susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir to negalės padaryti artimiausiu metu. 
 Papildyta straipsnio dalimi:
 Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
 
 
-11. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti centrinės kredito unijos organų ir centrinės kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti centrinės kredito unijos organų, komitetų ir centrinės kredito unijos vadovų veiklą.
+12. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti centrinės kredito unijos organų ir centrinės kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti centrinės kredito unijos organų, komitetų ir centrinės kredito unijos vadovų veiklą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
 
 
-12. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie centrinės kredito unijos skolininkus. Centrinė kredito unija priežiūros institucijai privalo teikti duomenis apie savo skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka. 
+13. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie centrinės kredito unijos skolininkus. Centrinė kredito unija priežiūros institucijai privalo teikti duomenis apie savo skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+ 
+
+
+
+
+14. Priežiūros institucija pertvarkymo instituciją informuoja apie pagal šio straipsnio 2 dalies 2 punktą nustatytus papildomus kapitalo reikalavimo dydžius.
+Papildyta straipsnio dalimi:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
@@ -3036,7 +3090,9 @@ CENTRINĖS KREDITO UNIJOS PABAIGA
 
 
 
-2. Centrinė kredito unija negali būti pertvarkoma.
+2. Centrinė kredito unija negali būti pertvarkoma į kitos teisinės formos juridinį asmenį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
@@ -3493,10 +3549,7 @@ Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
 70 straipsnis. Kreditorių reikalavimų tenkinimo eilė
 
 
-1. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
- 
+1. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais.
 
 
 
@@ -3506,10 +3559,7 @@ Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
 
 
 
-3. Trečiąja eile tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų, dėl suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija, taip pat Garantinio fondo administratoriaus ir (ar) valstybei atstovaujančių institucijų atgręžtiniai reikalavimai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
- 
+3. Trečiąja eile tenkinami reikalavimai dėl mokesčių ir kitų mokėjimų į biudžetą bei valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų, dėl suteiktų paskolų, gautų valstybės vardu ir su valstybės garantija, taip pat Garantinio fondo administratoriaus ir (ar) valstybei atstovaujančių institucijų atgręžtiniai reikalavimai.
 
 
 
@@ -3537,30 +3587,30 @@ Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
 
 
 
-3) sutartiniuose dokumentuose, susijusiuose su emisija, ir prospekte, kai jis rengiamas, nustatyta, kad skolos priemonės turėtojo reikalavimas bus tenkinamas šioje dalyje nustatyta šeštąja eile.
+3) sutartiniuose dokumentuose ir prospekte, susijusiame su emisija, kai jis rengiamas, nustatyta, kad skolos priemonės turėtojo reikalavimas bus tenkinamas šioje dalyje nustatyta šeštąja eile.
 
 
 
 
 
 
-7. Septintąja eile tenkinami kreditorių reikalavimai dėl centrinei kredito unijai suteiktų pasitikėtinių (subordinuotų) paskolų ir centrinės kredito unijos išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius, išskyrus šio straipsnio 8 dalyje nurodytus reikalavimus.
+7. Septintąja eile tenkinami kreditorių reikalavimai dėl centrinei kredito unijai suteiktų pasitikėtinių (subordinuotų) paskolų ir centrinės kredito unijos išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius, išskyrus šio straipsnio 8 ir 9 dalyse nurodytus reikalavimus.
 
 
 
 
-8. Aštuntąja eile tenkinami kreditorių reikalavimai dėl centrinės kredito unijos išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius ir kurių įsigijimo sandoriuose numatyta, kad pagal juos reikalavimai tenkinami tik po kitų centrinės kredito unijos kreditorių reikalavimų, įskaitant reikalavimus dėl centrinei kredito unijai suteiktų pasitikėtinių (subordinuotų) paskolų ir kitų centrinės kredito unijos išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius.
+8. Aštuntąja eile tenkinami kreditorių reikalavimai dėl kapitalo priemonių, atitinkančių Reglamento (ES) Nr. 575/2013 63 straipsnyje nustatytas sąlygas. Jeigu šioje dalyje nurodyta kapitalo priemonė tik iš dalies pripažįstama nuosavomis lėšomis, visi iš tokios priemonės kylantys reikalavimai tenkinami šioje dalyje nustatyta eile.
 
 
 
 
-9. Devintąja eile tenkinami centrinės kredito unijos stebėtojų tarybos, valdybos ir centrinės kredito unijos administracijos vadovų reikalavimai.
-TAR pastaba. 70 straipsnyje nustatyta kreditorių reikalavimų tenkinimo eilė taikoma bankroto procedūroms, pradėtoms po įstatymo Nr. XIII-2023 įsigaliojimo dienos (2019-04-04), išskyrus šiuos kreditorių reikalavimus:
-kreditorių reikalavimų, atsiradusių dėl 70 straipsnio 6 dalyje nurodytų ir toje dalyje nustatytus reikalavimus atitinkančių skolos priemonių, kurias centrinė kredito unija išleido iki įstatymo Nr. XIII-2023 įsigaliojimo dienos (2019-04-04), tenkinimo eilei nustatyti taikomos iki šio įstatymo įsigaliojimo galiojusios Centrinių kredito unijų įstatymo 70 straipsnio nuostatos.
+9. Devintąja eile tenkinami kreditorių reikalavimai dėl kapitalo priemonių, atitinkančių Reglamento (ES) Nr. 575/2013 52 straipsnio 1 dalyje nustatytas sąlygas. Jeigu šioje dalyje nurodyta kapitalo priemonė tik iš dalies pripažįstama nuosavomis lėšomis, visi iš tokios priemonės kylantys reikalavimai tenkinami šioje dalyje nustatyta eile.
+TAR pastaba. 70 straipsnio nuostatos dėl kreditorių reikalavimų tenkinimo eilės taikomos pertvarkymo procedūroms, vykdomoms pagal Lietuvos Respublikos finansinio tvarumo įstatymą, ir bankroto procesams, kurie pradėti po įstatymo Nr. XIV-765 įsigaliojimo dienos (2022-01-01), išskyrus Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 2, 70 straipsnių ir priedo pakeitimo įstatymo Nr. XIII-2023 4 straipsnio 2 dalyje nustatytą atvejį.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2023, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05394
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
 
 
@@ -3582,38 +3632,39 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
-Lietuvos Respublikos 
-centrinių kredito unijų įstatymo 
+Lietuvos Respublikos
+centrinių kredito unijų įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1986 m. gruodžio 8 d. Tarybos direktyva 86/635/EEB dėl bankų ir kitų finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 157), su paskutiniais pakeitimais, padarytais 2003 m. birželio 23 d. Europos Parlamento ir Tarybos direktyva 2003/51/EB (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 273).
+1. 1986 m. gruodžio 8 d. Tarybos direktyva 86/635/EEB dėl bankų ir kitų finansų įstaigų metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės su paskutiniais pakeitimais, padarytais 2003 m. birželio 23 d. Europos Parlamento ir Tarybos direktyva 2003/51/EB.
 
 
 
 
-2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
+2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/878.
 
 
 
 
-3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų (OL 2014 L 173, p. 149). 
+3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų.
 
 
 
 
-4. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190), su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2399 (OL 2017 L 345, p. 96).
-Punkto pakeitimai:
-Nr. XIII-2023, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05394
+4. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879.
+
+
+Priedo pakeitimai:
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
  
-
-
-
-
+part_b4ae92e6bea94c4296276b79a7899a1b_end
 
 
  
@@ -3785,3 +3836,8 @@ Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 8 ir 9 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 49 ir 55 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 1, 2, 8, 15, 34, 49, 61, 70 straipsnių ir priedo pakeitimo įstatymas
