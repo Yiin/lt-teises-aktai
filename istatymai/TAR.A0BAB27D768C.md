@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-04-20
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -70,7 +70,10 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 
 
-2. Vadovaudamasi šio įstatymo nustatytais Nacionalinio saugumo pagrindais, Vyriausybė Valstybės gynimo tarybos pritarimu teikia Seimui tvirtinti Nacionalinio saugumo strategiją, įtvirtinančią valstybės nacionalinio saugumo sistemos plėtros, užsienio, gynybos ir vidaus politikos prioritetus, ilgalaikius bei vidutinio laikotarpio uždavinius. Valstybės gynimo taryba svarsto, kaip vykdoma Nacionalinio saugumo strategija, ir teikia rekomendacijas ją keisti. Strategija gali būti pagal poreikį tikslinama atsižvelgiant į saugumo padėties pokyčius.
+2. Vadovaudamasi šio įstatymo nustatytais Nacionalinio saugumo pagrindais, Vyriausybė Valstybės gynimo tarybos pritarimu teikia Seimui tvirtinti Nacionalinio saugumo strategiją – svarbiausių saugios valstybės raidą apibrėžiančių nuostatų visumą. Nacionalinio saugumo strategijoje nustatomi esminiai nacionalinio saugumo interesai, pagrindiniai rizikos veiksniai, pavojai ir grėsmės šiems interesams, valstybės nacionalinio saugumo sistemos plėtros, užsienio, gynybos ir vidaus politikos prioritetai, ilgojo laikotarpio valstybės saugumo užtikrinimo uždaviniai. Valstybės gynimo taryba svarsto, kaip įgyvendinama Nacionalinio saugumo strategija, ir teikia rekomendacijas dėl jos keitimo. Nacionalinio saugumo strategija gali būti pagal poreikį atnaujinama ir tikslinama atsižvelgiant į saugumo padėties pokyčius, tačiau ne rečiau kaip kas 5 metus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-839, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27731
+ 
 
 
 Straipsnio pakeitimai:
@@ -1174,3 +1177,8 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3440, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24617
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-839, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27731
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 3 straipsnio pakeitimo įstatymas
