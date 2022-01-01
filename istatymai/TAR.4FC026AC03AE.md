@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2021-07-23 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-01-04
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -4398,20 +4398,20 @@ VIDAUS TARNYBOS SISTEMOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
 
  13 
  Vyriausiasis patrulis, vyriausiasis postinis, skyrininkas, jaunesnysis specialistas, vyriausiasis ugniagesys gelbėtojas, viršila, jaunesnysis budėtojas, vyresnysis kovotojas 
- 5,2–11,5 
- 4,7–11 
+ 5,4–11,5 
+ 5,2–11 
 
 
  14 
  Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gelbėtojas, vyresnysis pasienietis, kovotojas 
- 4,9–11 
- 4,5–10,5 
+ 5,1–11 
+ 5,0–10,5 
 
 
  15 
  Postinis, patrulis, pasienietis, ugniagesys gelbėtojas 
- 4,7–10,5 
- 4,4–10 
+ 4,9–10,5 
+ 4,9–10 
 
 
 
@@ -4420,6 +4420,7 @@ Priedo pakeitimai:
 Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 Nr. XIV-268, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08871
+Nr. XIV-712, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25139
  
 
 
@@ -4713,3 +4714,8 @@ Lietuvos Respublikos vidaus tarnybos statuto priedo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-507, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16267
 Lietuvos Respublikos vidaus tarnybos statuto 31-1 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-712, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25139
+Lietuvos Respublikos vidaus tarnybos statuto priedo pakeitimo įstatymas
