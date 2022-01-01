@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13BA31BA9E61"
 
 # Lietuvos Respublikos dizaino įstatymas
 
-Suvestinė redakcija nuo 2020-04-25 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4980, i. k. 1021010ISTA0IX-1181
  
@@ -1925,7 +1925,10 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 
 
 
-2. Gavęs hipotekos ar Turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į dizainą, Valstybinis patentų biuras teisės į dizainą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos dizaino registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje. 
+2. Gavęs Sutarčių ir teisių suvaržymų registro ar Turto arešto aktų registro tvarkytojo pranešimą apie įkeistą ar areštuotą teisę į dizainą, Valstybinis patentų biuras teisės į dizainą įkeitimo ar arešto duomenis įrašo į Lietuvos Respublikos dizaino registrą ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2731, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00106
+ 
 
 
 Straipsnio pakeitimai:
@@ -2508,3 +2511,8 @@ Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 2, 16, 51-1 straipsnių ir pr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2858, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08722
 Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 32 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2731, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00106
+Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 42 straipsnio pakeitimo įstatymas
