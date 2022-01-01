@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-03-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -54,12 +54,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Korupcija – valstybės tarnautojo ar jam prilyginto asmens tiesioginis ar netiesioginis siekimas, reikalavimas arba priėmimas turtinės ar kitokios asmeninės naudos (dovanos, paslaugos, pažado, privilegijos) sau ar kitam asmeniui už atlikimą arba neatlikimą veiksmų pagal einamas pareigas, taip pat valstybės tarnautojo ar jam prilyginto asmens veiksmai arba neveikimas siekiant, reikalaujant turtinės ar kitokios asmeninės naudos sau arba kitam asmeniui ar šią naudą priimant, taip pat tiesioginis ar netiesioginis siūlymas ar suteikimas valstybės tarnautojui, jam prilygintam asmeniui turtinės ar kitokios asmeninės naudos (dovanos, paslaugos, pažado, privilegijos) už atlikimą arba neatlikimą veiksmų pagal valstybės tarnautojo ar jam prilyginto asmens einamas pareigas, taip pat tarpininkavimas darant šioje dalyje nurodytas veikas.
+2. Neteko galios nuo 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
+ 
 
 
 
 
-3. Korupcinio pobūdžio nusikalstamos veikos – kyšininkavimas, prekyba poveikiu, papirkimas, kitos nusikalstamos veikos, jeigu jos padarytos viešojo administravimo sektoriuje arba teikiant viešąsias paslaugas siekiant sau ar kitiems asmenims naudos: piktnaudžiavimas tarnybine padėtimi arba įgaliojimų viršijimas, piktnaudžiavimas oficialiais įgaliojimais, dokumentų ar matavimo priemonių suklastojimas, sukčiavimas, turto pasisavinimas ar iššvaistymas, tarnybos paslapties ir komercinės paslapties atskleidimas, neteisingų duomenų apie pajamas, pelną ar turtą pateikimas, nusikalstamu būdu įgytų pinigų ar turto legalizavimas, kišimasis į valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens veiklą ar kitos nusikalstamos veikos, kai tokių veikų padarymu siekiama ar reikalaujama kyšio, papirkimo arba nuslėpti ar užmaskuoti kyšininkavimą ar papirkimą. 
+3. Neteko galios nuo 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
+ 
 
 
 
@@ -89,12 +95,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-9. Šiame straipsnyje vartojama „valstybės tarnautojo ar jam prilyginto asmens“ sąvoka atitinka Lietuvos Respublikos baudžiamajame kodekse įtvirtintą šios sąvokos išaiškinimą.
+9. Neteko galios nuo 2022-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
+ 
 
 
 
 
-10. Kitos šio įstatymo 67 ir 68 straipsniuose vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos policijos įstatyme.
+10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos korupcijos prevencijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir Lietuvos Respublikos policijos įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
  
 
 
@@ -158,13 +169,15 @@ Specialiųjų tyrimų tarnybos veiklos tikslas – mažinti korupciją, kuri kel
 
 
 
-7 straipsnis. Specialiųjų tyrimų tarnybos uždaviniai 
+7 straipsnis. Specialiųjų tyrimų tarnybos uždaviniai
 
 
-Specialiųjų tyrimų tarnybos uždaviniai – Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka vykdyti baudžiamąjį persekiojimą dėl korupcinio pobūdžio nusikalstamų veikų, kriminalinę žvalgybą, korupcijos prevenciją, antikorupcinį visuomenės švietimą ir informavimą, analitinę antikorupcinę žvalgybą ir kitus įstatymuose ir kituose teisės aktuose Specialiųjų tyrimų tarnybai nustatytus uždavinius.
+Specialiųjų tyrimų tarnybos uždaviniai – Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka vykdyti baudžiamąjį persekiojimą dėl korupcinio pobūdžio nusikalstamų veikų, kriminalinę žvalgybą, korupcijos prevenciją, didinti antikorupcinį sąmoningumą, vykdyti analitinę antikorupcinę žvalgybą ir kitus įstatymuose ir kituose teisės aktuose Specialiųjų tyrimų tarnybai nustatytus uždavinius.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
  
-
-
 
 
 
@@ -235,12 +248,18 @@ Specialiųjų tyrimų tarnybos uždaviniai – Lietuvos Respublikos įstatymų i
 2. Specialiųjų tyrimų tarnyba turi šias pareigas:
 
 
-1) pagal savo kompetenciją dalyvauti įgyvendinant Nacionalinio saugumo strategiją, Nacionalinę kovos su korupcija programą ir kitas nusikalstamumo kontrolės ir prevencijos programas;
+1) pagal savo kompetenciją dalyvauti įgyvendinant Nacionalinio saugumo strategiją, Nacionalinę darbotvarkę korupcijos prevencijos klausimais ir kitas nusikalstamumo kontrolės ir prevencijos programas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
+ 
 
 
 
 
-2) stebėti, apibendrinti ir dalyvauti koordinuojant kitų valstybės ir savivaldybių bei ne valstybės įstaigų veiksmus įgyvendinant Nacionalinę kovos su korupcija programą ir kitas korupcijos kontrolės ir prevencijos programas;
+2) stebėti, apibendrinti ir dalyvauti koordinuojant viešojo ir privataus sektorių subjektų veiksmus įgyvendinant Nacionalinę darbotvarkę korupcijos prevencijos klausimais ir korupcijos prevencijos planus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
+ 
 
 
 
@@ -3022,7 +3041,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -3221,3 +3240,8 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 23 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 51, 52, 54 ir 60 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 2, 7 ir 8 straipsnių pakeitimo įstatymas
