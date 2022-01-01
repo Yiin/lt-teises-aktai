@@ -18,9 +18,10 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2022-12-23
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -653,7 +654,10 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 
 
-4) rengia ir teikia Seimui valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą; organizuoja valstybės biudžeto vykdymą, teikia Seimui valstybės biudžeto įvykdymo apyskaitą; taip pat teikia Seimui Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų rodiklių patvirtinimo įstatymų projektus bei Valstybinio socialinio draudimo fondo biudžeto ir Privalomojo sveikatos draudimo fondo vykdymo ataskaitas;
+4) rengia ir teikia Seimui valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą; organizuoja valstybės biudžeto vykdymą, teikia Seimui valstybės metinių ataskaitų rinkinį; taip pat teikia Seimui Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų rodiklių patvirtinimo įstatymų projektus bei valstybės socialinių fondų, Pensijų anuitetų fondo, Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinius ir nacionalinį metinių ataskaitų rinkinį;
+Straipsnio punkto pakeitimai:
+Nr. XIV-549, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21636
+ 
 
 
 
@@ -1380,19 +1384,19 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 
 
-301 straipsnis. Vyriausybės įsteigtos kitos biudžetinės įstaigos
+301 straipsnis. Vyriausybės įsteigtos kitos įstaigos
 
 
-1. Vyriausybė gali steigti biudžetines įstaigas, kurios centralizuotai atlieka dalį viešojo sektoriaus subjektų bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo ir kitų pagalbinio pobūdžio funkcijų), kurios padeda įgyvendinti įstaigai teisės aktuose nustatytus uždavinius. Šių funkcijų apimtį nustato Vyriausybė. 
+1. Vyriausybė gali steigti įstaigas, kurios centralizuotai atlieka dalį viešojo sektoriaus subjektų bendrųjų funkcijų (buhalterinės apskaitos, dokumentų valdymo, personalo administravimo, viešųjų pirkimų procedūrų atlikimo ir kitos pagalbinio pobūdžio funkcijos), kurios padeda įgyvendinti įstaigai teisės aktuose nustatytus uždavinius. Šių funkcijų apimtį nustato Vyriausybė.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytų biudžetinių įstaigų nuostatus tvirtina Vyriausybė, o jų struktūrą – Vyriausybė arba jos pavedimu atitinkamos biudžetinės įstaigos vadovas.
+2. Šio straipsnio 1 dalyje nurodytų įstaigų nuostatus ar įstatus tvirtina Vyriausybė ar jos pavedimu atitinkamos valdymo srities ministras, o jų struktūrą – Vyriausybė arba jos pavedimu atitinkamos valdymo srities ministras ar atitinkamos įstaigos vadovas.
 
 
-Papildyta straipsniu:
-Nr. XIII-934, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21609
+Straipsnio pakeitimai:
+Nr. XIV-549, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21636
  
 
 
@@ -2549,3 +2553,8 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 29-1 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-788, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27364
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-549, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21636
+Lietuvos Respublikos vyriausybės įstatymo Nr. I-464 22 ir 30-1 straipsnių pakeitimo įstatymas
