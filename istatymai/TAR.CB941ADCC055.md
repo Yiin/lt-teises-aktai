@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
+Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
+ 
+TAR pastaba. Asmenims, kurie įstatymo Nr. XIV-621 įsigaliojimo dieną (2022-01-01) turi neetatinio aplinkos apsaugos inspektoriaus galias, jos gali būti pratęsiamos  įstatymo Nr. XIV-621 nustatyta tvarka. Asmenims, kurie įstatymo Nr. XIV-621 įsigaliojimo dieną (2022-01-01) turi neetatinio aplinkos apsaugos inspektoriaus galias, taikomi iki įstatymo Nr. XIV-621  įsigaliojimo (2022-01-01) nustatyti reikalavimai, kuriuos turi atitikti neetatinis aplinkos apsaugos inspektorius. Neetatinio aplinkos apsaugos inspektoriaus galios gali būti panaikinamos iki įstatymo Nr. XIV-621 įsigaliojimo (2022-01-01) nustatyta tvarka ir pagrindais, bet ne vėliau kaip iki neetatinio aplinkos apsaugos inspektoriaus galių suteikimo termino pabaigos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 4, 12, 47, 48, 49, 50, 53 straipsnių pakeitimo ir Įstatymo papildymo 48-1 straipsniu įstatymas
  
  
 LIETUVOS RESPUBLIKOS
@@ -281,9 +286,10 @@ Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 
 
 
-4) atsakomybės neišvengiamumo principas – aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai turi siekti, kad kiekvienas asmuo, padaręs aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, būtų nustatytas, patrauktas teisinėn atsakomybėn, nubaustas, visiškai atlygintų aplinkai padarytą žalą bei pašalintų pažeidimo sukeltas neigiamas pasekmes; 
+4) atsakomybės neišvengiamumo principas – aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai turi siekti, kad asmuo, padaręs aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, būtų nustatytas, patrauktas teisinėn atsakomybėn, nubaustas, visiškai atlygintų aplinkai padarytą žalą ir pašalintų pažeidimo sukeltas neigiamas pasekmes;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
  
 
 
@@ -679,7 +685,10 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 
 
 
-15) gavę pranešimą apie aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus, imtis visų priemonių, kad pažeidimas būtų išaiškintas ir nustatyti pažeidėjai, o jei patys to padaryti negali, informuoti kompetentingą valstybės instituciją, kad ši imtųsi priemonių pažeidimui išaiškinti ir pažeidėjui nustatyti;
+15) gavę pranešimą ir (ar) informaciją apie galimus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimus, imtis priemonių, kad pažeidimas būtų išaiškintas ir nustatyti pažeidėjai, o jeigu patys to padaryti negali, informuoti kompetentingą valstybės instituciją, kad ši imtųsi priemonių pažeidimui išaiškinti ir pažeidėjui nustatyti. Priimant sprendimą dėl reagavimo ar nereagavimo į pranešimus ar gautą informaciją apie galimus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimus, įvertinamas informacijos pagrįstumas, patikimumas, įtariamo pažeidimo keliama grėsmė saugomai vertybei (reikšmingumas), institucijos išteklių naudojimo efektyvumas ir pagrįstumas. Sprendimų dėl reagavimo į pranešimus ir (ar) informaciją apie galimus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimus priėmimo tvarką nustato aplinkos ministras ar jo įgaliota institucija;
+Straipsnio punkto pakeitimai:
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
+ 
 
 
 
@@ -1969,11 +1978,13 @@ Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 47 straipsnis. Reikalavimai asmenims, norintiems tapti neetatiniais aplinkos apsaugos inspektoriais
 
 
-Neetatiniais aplinkos apsaugos inspektoriais gali tapti Lietuvos Respublikos piliečiai, sulaukę 18 metų, turintys nepriekaištingą reputaciją aplinkos apsaugos srityje, neturintys teistumo už sunkius, labai sunkius nusikaltimus ar nusikaltimus aplinkai, taip pat kuriems per paskutinius vienerius metus nebuvo įsiteisėjęs teismo apkaltinamasis nuosprendis už baudžiamuosius nusižengimus aplinkai, nebausti administracinėmis nuobaudomis už teisės pažeidimus aplinkos apsaugos, gamtos išteklių naudojimo, gamtos, istorijos ir kultūros paminklų apsaugos srityje, norintys saugoti aplinką bei šalies gamtinius išteklius nuo neteisėtos veikos, išlaikę egzaminus pagal aplinkos ministro nustatytą programą.
+Neetatiniais aplinkos apsaugos inspektoriais gali tapti Lietuvos Respublikos piliečiai, sulaukę 18 metų, esantys nepriekaištingos reputacijos aplinkos apsaugos srityje: neturintys teistumo, kuriems per paskutinius vienus metus nebuvo įsiteisėjęs teismo apkaltinamasis nuosprendis už baudžiamuosius nusižengimus aplinkai, kurie neturi administracinių nuobaudų už teisės pažeidimus aplinkos apsaugos, gamtos išteklių naudojimo, gamtos, istorijos ir kultūros paminklų apsaugos srityje, taip pat buvę aplinkos apsaugos valstybinės kontrolės pareigūnai, kurie nebuvo atleisti už tarnybinius nusižengimus arba nuo kurių atleidimo dienos praėjo daugiau kaip 5 metai, taip pat buvę neetatiniai aplinkos apsaugos inspektoriai, kuriems neetatinių aplinkos apsaugos inspektorių galios nebuvo panaikintos šio įstatymo 53 straipsnio 1 dalies 3 ir 5 punktuose numatytais pagrindais arba nuo galių panaikinimo dienos praėjo daugiau kaip 5 metai. Asmenys, pretenduojantys tapti neetatiniais aplinkos apsaugos inspektoriais, turi pagal mokymo programą išklausyti mokymo kursą ir išlaikyti testą. Šis reikalavimas netaikomas buvusiems (atleistiems ne daugiau kaip prieš 5 metus) aplinkos apsaugos valstybinės kontrolės pareigūnams. Neetatinio aplinkos apsaugos inspektoriaus mokymo kurso programą ir testavimo tvarką nustato aplinkos ministras ar jo įgaliota institucija.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
+Straipsnio pakeitimai:
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
  
 
 
@@ -1982,34 +1993,41 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 48 straipsnis. Neetatinių aplinkos apsaugos inspektorių galių suteikimas
 
 
-1. Neetatiniams aplinkos apsaugos inspektoriams galios suteikiamos vieneriems metams. Priėmimo į neetatinius aplinkos apsaugos inspektorius tvarką nustato aplinkos ministras.
+1. Neetatiniams aplinkos apsaugos inspektoriams galios suteikiamos 5 metams ir gali būti pratęsiamos kas 5 metai. Prieš suteikiant neetatiniams aplinkos apsaugos inspektoriams galias, tikrinama, ar asmens žinios, kvalifikacija ir reputacija atitinka neetatiniam aplinkos apsaugos inspektoriui keliamus reikalavimus. Asmenų, ketinančių tapti neetatiniais aplinkos apsaugos inspektoriais, atitikties keliamiems reikalavimams, nustatytiems šiame įstatyme, patikrinimo, neetatinių aplinkos apsaugos inspektorių galių suteikimo ir pratęsimo tvarką nustato aplinkos ministras ar jo įgaliota institucija.
 
 
 
 
-2. Neetatiniams aplinkos apsaugos inspektoriams išduodami jų galias patvirtinantys aplinkos ministro nustatyto pavyzdžio pažymėjimai. 
-
-
-
-
-3. Pažymėjimus neetatiniams aplinkos apsaugos inspektoriams išduoda Aplinkos apsaugos departamentas prie Aplinkos ministerijos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
-Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
- 
-
-
-
-
-4. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos vadovas suteikia galias neetatiniams aplinkos apsaugos inspektoriams veikti visoje Lietuvos Respublikos teritorijoje ar jos dalyje. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
-Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
- 
+2. Neetatiniams aplinkos apsaugos inspektoriams galios suteikiamos ir pratęsiamos Aplinkos apsaugos departamento prie Aplinkos ministerijos vadovo ar jo įgalioto asmens sprendimu. Neetatinio aplinkos apsaugos inspektoriaus galias patvirtinančius pažymėjimus išduoda Aplinkos apsaugos departamentas prie Aplinkos ministerijos. Neetatinio aplinkos apsaugos inspektoriaus pažymėjimo formą tvirtina aplinkos ministras ar jo įgaliota institucija.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
+Straipsnio pakeitimai:
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
+ 
+
+
+
+
+481 straipsnis. Neetatinių aplinkos apsaugos inspektorių veiklos organizavimas ir vertinimas
+
+
+1. Aplinkos apsaugos departamentas prie Aplinkos ministerijos organizuoja neetatinių aplinkos apsaugos inspektorių veiklą, renka, sistemina ir analizuoja informaciją apie neetatinių aplinkos apsaugos inspektorių veiklos rezultatus, vertina neetatinių aplinkos apsaugos inspektorių veiklos efektyvumą ir atitiktį keliamiems reikalavimams, rengia kvalifikacijos tobulinimo mokymus.
+
+
+
+
+2. Neetatiniai aplinkos apsaugos inspektoriai yra atskaitingi Aplinkos apsaugos departamentui prie Aplinkos ministerijos.
+
+
+
+
+3. Aplinkos ministras ar jo įgaliota institucija nustato neetatinių aplinkos apsaugos inspektorių funkcijų atlikimo ir kvalifikacijos tobulinimo mokymų organizavimo tvarką, veiklos vertinimo kriterijus, elgesio taisykles.
+
+
+Papildyta straipsniu:
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
  
 
 
@@ -2018,40 +2036,38 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 49 straipsnis. Neetatinių aplinkos apsaugos inspektorių pareigos
 
 
-1. Neetatiniai aplinkos apsaugos inspektoriai, tikrindami, ar fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų reikalavimų, privalo:
+1. Neetatiniai aplinkos apsaugos inspektoriai, tikrindami, ar fiziniai ir juridiniai asmenys laikosi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų, privalo:
 
 
-1) užfiksavę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, pagal savo kompetenciją imtis priemonių užkirsti jam kelią, išsiaiškinti priežastis bei pažeidimą padariusius asmenis. Kai neetatiniai aplinkos apsaugos inspektoriai pagal savo kompetenciją negali imtis priemonių dėl aplinkos apsaugos įstatymų pažeidimų, jie privalo apie tokius pažeidimus pranešti aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ar aplinkos apsaugos valstybinės kontrolės pareigūnams; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
- 
+1) pastebėję daromą aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, nedelsdami pranešti Aplinkos apsaugos departamentui prie Aplinkos ministerijos, pagal šiame įstatyme neetatiniams aplinkos apsaugos inspektoriams nustatytą kompetenciją imtis priemonių užkirsti pažeidimui kelią, nustatyti aplinkybes, liudytojus ar suteikti kitokią pagalbą aplinkos apsaugos valstybinės kontrolės pareigūnams, tiriantiems pažeidimą;
 
 
 
 
-2) pranešti aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ar aplinkos apsaugos valstybinės kontrolės pareigūnams apie pastebėtus avarinius ir kitus aplinkos užteršimo, gyvūnų žuvimo, augalijos naikinimo bei ekologinių pokyčių atvejus ir dalyvauti organizuojant pasekmių likvidavimą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
- 
+2) pranešti Aplinkos apsaugos departamentui prie Aplinkos ministerijos apie pastebėtus avarinius ir kitus aplinkos užteršimo, gyvūnų žuvimo, augalijos naikinimo, ekologinių pokyčių atvejus ir dalyvauti likviduojant padarinius;
 
 
 
 
-3) išsiaiškinę aplinkos apsaugos įstatymų pažeidimą, nustatyta tvarka perduoti aplinkos apsaugos valstybinės kontrolės pareigūnams arba įstatymų nustatyta tvarka kitiems pareigūnams ar institucijoms pažeidimą fiksuojančius įrodymus.
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
- 
+3) užfiksavę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimų pažeidimą, nustatyta tvarka perduoti aplinkos apsaugos valstybinės kontrolės pareigūnams arba įstatymų nustatyta tvarka kitiems pareigūnams ar institucijoms pažeidimą fiksuojančius įrodymus.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytų pareigų, taip pat kitų neetatinių aplinkos apsaugos inspektorių funkcijų atlikimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+
+
+2. Neetatiniai aplinkos apsaugos inspektoriai, atlikdami funkcijas, privalo laikytis įstatymų ir kitų teisės aktų reikalavimų, visuotinai priimtinų elgesio ir etikos normų, gerbti ir užtikrinti žmogaus teises ir laisves, laiku ir tiksliai atlikti patikėtas užduotis, vykdyti teisėtus aplinkos apsaugos valstybinės kontrolės pareigūnų nurodymus.
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalyse numatytų pareigų, taip pat kitų neetatinių aplinkos apsaugos inspektorių funkcijų atlikimo tvarką nustato aplinkos ministras ar jo įgaliota institucija.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
+Straipsnio pakeitimai:
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
  
 
 
@@ -2060,7 +2076,22 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 50 straipsnis. Neetatinių aplinkos apsaugos inspektorių teisės
 
 
-1. Neetatiniai aplinkos apsaugos inspektoriai turi teisę naudodami technines priemones fiksuoti asmenis, įtariamus darant ar darančius aplinkos apsaugos ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus, šių asmenų veiksmus ir jų transporto priemones. 
+1. Neetatiniai aplinkos apsaugos inspektoriai turi teisę:
+
+
+1) reikalauti, kad asmenys laikytųsi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimų, nutrauktų daromus aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimų pažeidimus;
+
+
+
+
+2) techninėmis priemonėmis fiksuoti asmenis, įtariamus darant ar darančius aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimus, šių asmenų veiksmus ir jų transporto priemones;
+
+
+
+
+3) aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimų prevencijai aplinkos ministro ar jo įgaliotos institucijos nustatyta tvarka patruliuoti savarankiškai (ne mažiau kaip po 2 neetatinius aplinkos apsaugos inspektorius).
+
+
 
 
 
@@ -2068,26 +2099,34 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 2. Neetatiniai aplinkos apsaugos inspektoriai kartu su aplinkos apsaugos valstybinės kontrolės pareigūnais turi teisę:
 
 
-1) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, patekti į ūkinių objektų teritorijas ir atlikti aplinkos apsaugos valstybinės kontrolės pareigūnų pavestas užduotis aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimams išaiškinti ar jų pasekmėms likviduoti;
+1) įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, patekti į ūkinių objektų teritorijas ir atlikti aplinkos apsaugos valstybinės kontrolės pareigūnų pavestas užduotis aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimams išaiškinti ar jų padariniams likviduoti;
 
 
 
 
-2) tikrinti asmenų ir pareigūnų dokumentus, suteikiančius teisę naudoti gamtos išteklius; 
+2) tikrinti asmenų dokumentus, suteikiančius teisę naudoti gamtos išteklius; 
 
 
 
 
-3) padėti aplinkos apsaugos valstybinės kontrolės pareigūnams atlikti kontrolinius pirkimus, pristatyti administracinėn atsakomybėn traukiamą asmenį jo sutikimu į atitinkamų institucijų patalpas administracinio nusižengimo protokolui surašyti; reikalauti asmens tapatybę patvirtinančių dokumentų pažeidėjo asmens tapatybei nustatyti, o jos nenustačius, – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo. 
+3) padėti aplinkos apsaugos valstybinės kontrolės pareigūnams atlikti kontrolinius pirkimus, pristatyti administracinėn atsakomybėn traukiamą asmenį jo sutikimu į atitinkamų institucijų patalpas administracinio nusižengimo protokolui surašyti; reikalauti asmens tapatybę patvirtinančių dokumentų pažeidėjo asmens tapatybei nustatyti, jos nenustačius – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
- 
+
+
+
+
+3. Neetatiniai aplinkos apsaugos inspektoriai, kurie yra žvejybos ar medžioklės plotų naudotojai ar juridinių asmenų, kurie yra žvejybos ar medžioklės plotų naudotojai, nariai ar darbuotojai, vadovaudamiesi šio įstatymo 49 straipsnio 3 dalyje nurodyta tvarka, turi teisę naudojamuose žvejybos ar medžioklės plotuose, vykdant medžioklės ar žvejybos ploto naudotojui įstatymuose nustatytas pareigas, savarankiškai (dalyvaujant ne mažiau kaip 2 neetatiniams aplinkos apsaugos inspektoriams) tikrinti asmenų dokumentus, suteikiančius teisę naudoti gamtos išteklius.
+
+
+
+
+4. Neetatiniai aplinkos apsaugos inspektoriai funkcijas atlieka koordinuojami aplinkos apsaugos valstybinės kontrolės pareigūno.
 
 
 Straipsnio pakeitimai:
 Nr. XII-2638, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24614
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
  
 
 
@@ -2145,26 +2184,75 @@ Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
 
 
 
-53 straipsnis. Neetatinių aplinkos apsaugos inspektorių atsakomybė
+53 straipsnis. Neetatinių aplinkos apsaugos inspektorių galių panaikinimas, sustabdymas ir atsakomybė
 
 
-1. Neetatiniams aplinkos apsaugos inspektoriams, nedalyvaujantiems arba neaktyviai dalyvaujantiems aplinkos apsaugos valstybinės kontrolės veikloje, suteiktos galios gali būti nepratęsiamos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
+1. Neetatiniam aplinkos apsaugos inspektoriui galios panaikinamos ir (ar) nepratęsiamos:
+
+
+1) jo prašymu;
+
+
+
+
+2) jeigu jis ilgiau kaip vienus metus neatlieka neetatinio aplinkos apsaugos inspektoriaus funkcijų;
+
+
+
+
+3) dėl neetatinio aplinkos apsaugos inspektoriaus vardo diskreditavimo;
+
+
+
+
+4) jeigu jis nebeatitinka šio įstatymo 47 straipsnyje nustatytų reikalavimų;
+
+
+
+
+5) jeigu jis netinkamai atlieka neetatinio aplinkos apsaugos inspektoriaus pareigas ir (ar) funkcijas, viršija jam suteiktas galias, piktnaudžiauja suteiktomis galiomis, vykdo veiklą, nesuderinamą su neetatinio aplinkos apsaugos inspektoriaus statusu, sukeliančią interesų konfliktą atliekant neetatinio aplinkos apsaugos inspektoriaus funkcijas.
+
+
+
+
+
+
+2. Neetatiniam aplinkos apsaugos inspektoriui galios sustabdomos:
+
+
+1) jo prašymu;
+
+
+
+
+2) jeigu dėl jo atliekamas tyrimas dėl veiksmų viršijus suteiktas galias ar jomis piktnaudžiaujant, netinkamai atliekant pareigas ir (ar) funkcijas ar su neetatinio aplinkos apsaugos inspektoriaus statusu ir pareigų atlikimu nesuderinamos veiklos, sukeliančios interesų konfliktą atliekant neetatinio aplinkos apsaugos inspektoriaus funkcijas;
+
+
+
+
+3) jeigu jis įtariamas padaręs nusikaltimą, baudžiamąjį nusižengimą aplinkai, administracinį nusižengimą aplinkos apsaugos, gamtos išteklių naudojimo, gamtos, istorijos ir kultūros paminklų apsaugos srityje.
+
+
+
+
+
+
+3. Atvejus, kada laikoma, kad neetatinis aplinkos apsaugos inspektorius vykdė veiklą, nesuderinamą su neetatinio aplinkos apsaugos inspektoriaus statusu, diskreditavo neetatinio aplinkos apsaugos inspektoriaus vardą, nustato Aplinkos apsaugos departamento prie Aplinkos ministerijos vadovas.
+
+
+
+
+4. Neetatiniams aplinkos apsaugos inspektoriams galios sustabdomos ir panaikinamos Aplinkos apsaugos departamento prie Aplinkos ministerijos vadovo ar jo įgalioto asmens sprendimu. Neetatinių aplinkos apsaugos inspektorių galių sustabdymo ir panaikinimo tvarką nustato aplinkos ministras ar jo įgaliota institucija.
+
+
+
+
+5. Neetatiniai aplinkos apsaugos inspektoriai, viršiję jiems suteiktas galias ar jomis piktnaudžiavę, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
  
-
-
-
-
-2. Inspektoriams, piktnaudžiaujantiems suteiktomis galiomis, vykdantiems veiklą, nesuderinamą su neetatinio aplinkos apsaugos inspektoriaus statusu, suteiktos galios atšaukiamos. 
-
-
-
-
-3. Neetatiniai aplinkos apsaugos inspektoriai, viršiję jiems suteiktas galias, atsako įstatymų nustatyta tvarka. 
- 
-
-
 
 
 
@@ -2404,3 +2492,8 @@ Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3195, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15388
 Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 1, 2, 3, 4, 6, 8, 9, 11, 12, 14, 39-8, 46, 48, 49, 50, 53 ir 54 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-621, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23539
+Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 4, 12, 47, 48, 49, 50, 53 straipsnių pakeitimo ir Įstatymo papildymo 48-1 straipsniu įstatymas
