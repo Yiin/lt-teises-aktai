@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2021-12-31 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -5466,7 +5466,10 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-2) paskelbė vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka parengtą ir patvirtintą prospektą ar parengė šio Įstatymo 78 straipsnio 2 dalyje nurodytą informacinį dokumentą apie bendrovę ir jos siūlomą obligacijų emisiją tais atvejais, kai vieną iš šių dokumentų privalu rengti ar skelbti.
+2) paskelbė vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka parengtą ir patvirtintą prospektą ar parengė šio Įstatymo 78 straipsnio 2 dalyje nurodytą informacinį dokumentą apie bendrovę ir jos siūlomą obligacijų emisiją arba 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamento (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, nustatyta tvarka parengė pagrindinės informacijos apie investiciją dokumentą tais atvejais, kai vieną iš šių dokumentų privalu rengti ar skelbti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
+ 
 
 
 
@@ -7240,11 +7243,12 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių ar uždarosios akcinės bendrovės obligacijų bendra pardavimo vertė yra 1–8 milijonai eurų per 12 mėnesių laikotarpį, prieš viešą jų siūlymą Lietuvos Respublikoje turi būti parengtas ir paskelbtas informacinis dokumentas Vertybinių popierių įstatymo nustatyta tvarka. 
+2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių ar uždarosios akcinės bendrovės obligacijų bendra pardavimo vertė yra 1–8 milijonai eurų per 12 mėnesių laikotarpį, prieš viešą jų siūlymą Lietuvos Respublikoje turi būti parengtas ir paskelbtas informacinis dokumentas Vertybinių popierių įstatymo nustatyta tvarka arba, kai akcijos ar obligacijos platinamos per sutelktinio finansavimo paslaugų teikėjo sutelktinio finansavimo platformą, turi būti parengtas pagrindinės informacijos apie investiciją dokumentas, kaip tai nustatyta Reglamente (ES) 2020/1503.
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
 Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
+Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
  
 
 
