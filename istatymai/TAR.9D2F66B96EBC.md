@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2023-05-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -560,10 +560,12 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 8 straipsnis. Atlyginimas už Agentūros teikiamas administracines paslaugas
 
 
-Už Agentūros teikiamas administracines paslaugas imamas atlyginimas. Atlyginimo dydis nustatomas (apskaičiuojamas) vadovaujantis ekonomiškai pagrįsta paslaugos savikaina. Į paslaugos savikainą negali būti įtraukiamos su konkrečios paslaugos teikimu nesusijusios sąnaudos. Paslaugos savikainos (išlaidų) dydis turi būti pagrindžiamas vadovaujantis šiais ekonominiais rodikliais: Agentūros praėjusių finansinių metų materialinių ir joms prilygintų sąnaudų (ilgalaikio materialiojo turto nusidėvėjimo ir nematerialiojo turto amortizacijos, komunalinių paslaugų, ryšio, remonto ir panašiai) ir darbo sąnaudų (darbo užmokesčio, socialinio draudimo įmokų ir darbuotojų mokymų), turėtų teikiant konkrečią paslaugą, detalizavimu ir numatomos teikti konkrečios paslaugos galimų šių sąnaudų apskaičiavimu. Atlyginimo dydžio nustatymo (apskaičiavimo) metodiką nustato Vyriausybė, o konkrečius jo dydžius, vadovaudamasis šia metodika, – susisiekimo ministras.
+Už Agentūros teikiamas administracines paslaugas imamas atlyginimas. Atlyginimo dydis nustatomas (apskaičiuojamas) vadovaujantis ekonomiškai pagrįsta paslaugos savikaina. Į paslaugos savikainą negali būti įtraukiamos su konkrečios paslaugos teikimu nesusijusios sąnaudos. Paslaugos savikainos (išlaidų) dydis turi būti pagrindžiamas vadovaujantis šiais ekonominiais rodikliais: Agentūros praėjusių finansinių metų materialinių ir joms prilygintų sąnaudų (ilgalaikio materialiojo turto nusidėvėjimo ir nematerialiojo turto amortizacijos, komunalinių paslaugų, ryšio, remonto ir panašiai) ir darbo sąnaudų (darbo užmokesčio, socialinio draudimo įmokų ir darbuotojų mokymų), turėtų teikiant konkrečią paslaugą, detalizavimu ir numatomos teikti konkrečios paslaugos galimų šių sąnaudų apskaičiavimu. Atlyginimo dydžio nustatymo (apskaičiavimo) metodiką nustato Vyriausybė, o konkrečius jo dydžius, vadovaudamasis šia metodika, – susisiekimo ministras. Susisiekimo ministras, tvirtindamas konkrečius atlyginimo už Agentūros teikiamas administracines paslaugas dydžius, nustato 30 procentų nuolaidas už leidimų naudotis ne tarptautinių oro uostų aerodromais, lauko aikštelėmis, orlaiviais, kurie nenaudojami komercinei veiklai, išdavimą ir lengvojo orlaivio piloto licencijos, piloto mėgėjo licencijos, sklandytuvo piloto licencijos, oro baliono piloto licencijos, orlaivių, kurių sertifikuota kilimo masė ne didesnė kaip 5 670 kg, techninės priežiūros specialisto licencijos išdavimą, jeigu pateikiama deklaracija, kuria patvirtinama, kad turint šiuos leidimus ar licencijas nebus vykdoma komercinė veikla. Skirtumas tarp šių paslaugų sąnaudų ir nustatytų nuolaidų dengiamas iš Susisiekimo ministerijai skirtų valstybės biudžeto asignavimų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
-
-
 
 
 
@@ -1764,14 +1766,20 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 
 
-5) atitikti šio straipsnio 7 dalyje nustatytus reikalavimus.
+5) atitikti Reglamente (ES) 2015/1998 ir šio įstatymo 411 straipsnio 2 dalyje nustatytus išsamaus asmens reputacijos patikrinimo reikalavimus. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
 
 
 
-3. Asmenys, kurie vykdys asmenų, rankinio bagažo, nešulių, krovinių skyriuje vežamo bagažo, krovinių ir pašto, vežėjo pašto ir medžiagų, orlaivio atsargų ir oro uosto atsargų, transporto priemonių patikrą, patekimo kontrolę ar taikys kitokias saugumo kontrolės priemones riboto patekimo zonoje, priimami į darbą arba paskiriami eiti pareigas, jeigu jie atitinka  Reglamente (ES) 2015/1998 ir šio straipsnio 7 dalyje nustatytus reikalavimus. Šie asmenys privalo būti baigę Reglamente (ES) 2015/1998 nustatytus atitinkamus aviacijos saugumo mokymus. Asmenys, kurie taikys patikros ar patekimo kontrolės priemones, prieš pradėdami savarankiškai atlikti šias funkcijas susisiekimo ministro nustatyta tvarka turi būti išlaikę egzaminus Agentūroje.
+3. Asmenys, nurodyti Reglamento (ES) 2015/1998 priedo 11.1.1 punkte ir 11.1.2 punkto c papunktyje, turi atitikti Reglamente (ES) 2015/1998 ir šio įstatymo 411 straipsnio 2 dalyje nustatytus išsamaus asmens reputacijos patikrinimo reikalavimus. Asmenys, nurodyti Reglamento (ES) 2015/1998 priedo 11.1.2 punkto a ir b papunkčiuose, turi atitikti Reglamente (ES) 2015/1998 ir šio įstatymo 411 straipsnio 1 dalyje nustatytus standartinio asmens reputacijos patikrinimo reikalavimus. Šioje dalyje minimi asmenys privalo būti baigę Reglamente (ES) 2015/1998 nustatytus atitinkamus aviacijos saugumo mokymus. Asmenys, nurodyti Reglamento (ES) 2015/1998 priedo 11.2.3.1–11.2.3.5 punktuose, prieš pradėdami savarankiškai atlikti šias funkcijas, susisiekimo ministro nustatyta tvarka turi būti išlaikę egzaminus Agentūroje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -1791,27 +1799,10 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 
 
-7. Oro uostą valdanti įmonė pažymėjimą, kuriuo suteikiama teisė asmeniui nelydimam patekti į oro uosto riboto patekimo zoną, oro navigacijos paslaugas teikianti įmonė pažymėjimą, kuriuo suteikiama teisė asmeniui nelydimam pateikti į oro navigacijos paslaugas teikiančios įmonės kontroliuojamąją zoną, Agentūra Lietuvos Respublikos civilinio orlaivio įgulos nario pažymėjimą ar Lietuvos Respublikos civilinės aviacijos inspektoriaus pažymėjimą išduoda tik nepriekaištingos reputacijos asmenims. Asmuo nelaikomas esąs nepriekaištingos reputacijos, jeigu:
-
-
-1) jis buvo nuteistas už sunkų ar labai sunkų nusikaltimą, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas;
-
-
-
-
-2) buvo nuteistas už nesunkų, apysunkį ar neatsargų nusikaltimą ir teistumas nėra išnykęs ar panaikintas;
-
-
-
-
-3) per paskutinius vienus metus iki šioje dalyje nurodytų pažymėjimų išdavimo ar priėmimo į darbą, ar paskyrimo eiti pareigas, nurodytas šio straipsnio 1 ir 3 dalyse, dienos jam buvo skirtos administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus;
-
-
-
-
-4) buvo nuteistas už baudžiamąjį nusižengimą ir yra neatlikęs paskirtos bausmės (išskyrus atvejus, kai asmuo atleistas nuo bausmės atlikimo).
-
-
+7. Oro uostą valdanti įmonė pažymėjimą, kuriuo suteikiama teisė asmeniui nelydimam patekti į Lietuvos Respublikos oro uosto riboto patekimo zoną, oro navigacijos paslaugas Lietuvos Respublikoje teikianti įmonė pažymėjimą, kuriuo suteikiama teisė asmeniui nelydimam patekti į oro navigacijos paslaugas teikiančios įmonės kontroliuojamąją zoną, Lietuvos Respublikos oro vežėjas orlaivio įgulos nario pažymėjimą, Agentūra Lietuvos Respublikos civilinio orlaivio įgulos nario pažymėjimą ar Lietuvos Respublikos civilinės aviacijos inspektoriaus pažymėjimą išduoda tik asmenims, kurie atitinka Reglamente (ES) 2015/1998 ir šio įstatymo 411 straipsnio 2 dalyje nustatytus išsamaus asmens reputacijos patikrinimo reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -1829,10 +1820,150 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 
 
-10. Agentūra, oro uostas, oro navigacijos paslaugas teikianti įmonė, vežėjas ir subjektas, taikantis aviacijos saugumo priemones ir veikiantis oro uosto teritorijoje ar už jos ribų, ir tiekiantis prekes arba teikiantis paslaugas oro uostuose ar per juos, turi teisę kreiptis į Lietuvos Respublikos ir užsienio valstybių atitinkamas institucijas, fizinius ir juridinius asmenis dėl informacijos, reikalingos asmens nepriekaištingai reputacijai nustatyti, pateikimo ir pareikalauti, kad asmuo pateiktų papildomus dokumentus ir informaciją, reikšmingus nepriekaištingai reputacijai įvertinti.
+10. Reglamento (ES) 2015/1998 priedo 1.0.6 ir 1.7 punktuose numatyta civilinės aviacijos ypatingos svarbos informacinė infrastruktūra nustatoma ir apsauga nuo kibernetinių grėsmių vykdoma vadovaujantis Lietuvos Respublikos kibernetinio saugumo įstatymu ir jo įgyvendinamųjų teisės aktų nuostatomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
+
+
+
+
+411 straipsnis. Asmens reputacijos patikrinimas
+
+
+1. Standartinio asmens reputacijos patikrinimo išvada negali būti teigiama, jeigu yra nustatyta bent viena iš aplinkybių, nurodytų šio straipsnio 2 dalies 1–4 ir 9 punktuose. 
+
+
+
+
+2. Išsamaus asmens reputacijos patikrinimo išvada negali būti teigiama, jeigu yra nustatyta bent viena iš šių aplinkybių:
+
+
+1) asmuo buvo nuteistas už neatsargų, nesunkų ar apysunkį nusikaltimą ir teistumas nėra išnykęs ar panaikintas;
+
+
+
+
+2) asmuo buvo nuteistas už sunkų ar labai sunkų nusikaltimą ir (arba) už teroristinius ir (ar) su teroristine veikla susijusius nusikaltimus, neatsižvelgiant į tai, ar teistumas yra išnykęs ar panaikintas;
+
+
+
+
+3) asmuo buvo nuteistas už baudžiamąjį nusižengimą ir yra neatlikęs paskirtos bausmės (išskyrus atvejus, kai asmuo atleistas nuo bausmės atlikimo);
+
+
+
+
+4) per pastaruosius 2 metus iki asmens kreipimosi gauti šio įstatymo 41 straipsnio 7 dalyje nurodytus pažymėjimus ar paskyrimo eiti pareigas, nurodytas šio įstatymo 41 straipsnio 1 dalyje, ar iki šio įstatymo 41 straipsnio 3 dalyje nurodytų asmenų pradinio saugumo mokymų, kuriuose pateikiama dėl svarbos saugumui viešai neprieinama informacija, pradžios asmeniui buvo skirtos bent dvi administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus;
+
+
+
+
+5) asmuo, turėdamas Lietuvos Respublikai priešiškų interesų, bendradarbiauja ar yra bendradarbiavęs, palaiko ar palaikė ryšius su užsienio valstybės karine, žvalgybos ar saugumo tarnyba arba su asmeniu, bendradarbiaujančiu ar palaikančiu ryšius su užsienio valstybės karine, žvalgybos ar saugumo tarnyba;
+
+
+
+
+6) asmuo dalyvauja ar dalyvavo teroristinės organizacijos ar teroristinės grupės veikloje arba palaiko ar palaikė ryšius su asmeniu, priklausančiu teroristinei organizacijai ar grupei; 
+
+
+
+
+7) asmuo dalyvauja ar per pastaruosius 5 metus dalyvavo neregistruoto judėjimo veikloje, jeigu toks dalyvavimas sudaro pagrindą manyti, kad asmuo, kuriam būtinas išsamus asmens reputacijos patikrinimas, netinkamas konkrečiai funkcijai atlikti;
+
+
+
+
+8) šio straipsnio 3 dalies 3 punkte nurodytos institucijos neturi galimybės gauti ar negauna iš atitinkamų užsienio valstybių institucijų patikimos informacijos apie užsienio valstybės pilietį arba asmenį be pilietybės, taip pat Lietuvos Respublikos pilietį, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, dėl šios dalies 5, 6 ir 7 punktuose nurodytų aplinkybių arba iš atitinkamų institucijų gauta informacija kelia pagrįstų abejonių dėl šios informacijos patikimumo;
+
+
+
+
+9) asmuo atsisako ar negali pateikti šio straipsnio 7 ir 9 dalyse nurodytų dokumentų ir duomenų arba nesutinka būti tikrinamas, arba tikrinimo metu sąmoningai pateikia neteisingus duomenis.
+
+
+
+
+
+
+3. Informaciją dėl šio straipsnio 2 dalies 1–8 punktuose nurodytų aplinkybių teikia:
+
+
+1) LTSA – dėl aplinkybių, nurodytų šio straipsnio 2 dalies 4 punkte; 
+
+
+
+
+2) Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl aplinkybių, nurodytų šio straipsnio 2 dalies 1, 2 ir 3 punktuose;
+
+
+
+
+3) Lietuvos Respublikos valstybės saugumo departamentas ir Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos – dėl aplinkybių, nurodytų šio straipsnio 2 dalies 5–8 punktuose.
+
+
+
+
+
+
+4. Tais atvejais, kai atliekamas standartinis asmens reputacijos patikrinimas, šio straipsnio 3 dalies 1 ir 2 punktuose nurodytos institucijos informaciją dėl šio straipsnio 2 dalies 1–4 punktuose nurodytų aplinkybių buvimo pateikia oro uostą valdančiai įmonei, vežėjui, aviacijos saugumo priemones taikančiam subjektui ar asmeniui pagal jų prašymus ne vėliau kaip per 10 darbo dienų nuo rašytinio prašymo pateikti nurodytą informaciją gavimo dienos. 
+
+
+
+
+5. Vežėjai ir aviacijos saugumo priemones taikantys subjektai, atlikdami išsamų asmens reputacijos patikrinimą pagal šio įstatymo 41 straipsnio 3 dalį, taip pat oro navigacijos paslaugas teikiančios įmonės ir Agentūra, atlikdamos išsamų asmens reputacijos patikrinimą pagal šio įstatymo 41 straipsnio 7 dalį, kreipiasi į LTSA su prašymu pateikti pažymą, ar vertinant įdarbinamą asmenį yra aplinkybių, nurodytų šio straipsnio 2 dalies 1–8 punktuose. Tais atvejais, jeigu dėl šio straipsnio 2 dalies 1–4 punktuose nurodytų aplinkybių buvimo į šio straipsnio 3 dalies 1 ir 2 punktuose nurodytas institucijas kreipiasi patys asmenys, LTSA pateikiamas prašymas pateikti pažymą tik dėl šio straipsnio 2 dalies 5–8 punktuose nurodytų aplinkybių buvimo. 
+
+
+
+
+6. Oro uostą valdanti įmonė, atlikdama išsamų asmens reputacijos patikrinimą pagal šio įstatymo 41 straipsnio 3 ir 7 dalis, į šio straipsnio 3 dalyje nurodytas institucijas su prašymu kreipiasi tiesiogiai. Tais atvejais, jeigu dėl šio straipsnio 2 dalies 1–4 punktuose nurodytų aplinkybių buvimo į šio straipsnio 3 dalies 1 ir 2 punktuose nurodytas institucijas kreipiasi patys asmenys, LTSA pateikiamas prašymas pateikti pažymą tik dėl šio straipsnio 2 dalies 5–8 punktuose nurodytų aplinkybių buvimo. Šio straipsnio 3 dalyje nurodytos institucijos pateikia informaciją dėl šio straipsnio 2 dalies 1–8 punktuose nurodytų aplinkybių ne vėliau kaip per 20 darbo dienų nuo oro uostą valdančios įmonės rašytinio prašymo pateikti informaciją apie tikrinamą asmenį gavimo dienos. Šis terminas institucijos motyvuotu sprendimu gali būti pratęstas ne ilgiau kaip iki 30 darbo dienų.
+
+
+
+
+7. Šio straipsnio 4, 5 ir 6 dalyse minimuose prašymuose turi būti nurodytas asmens vardas, pavardė ir asmens kodas ar kitokie asmens identifikavimo duomenys (gimimo data, asmens tapatybės dokumento identifikacinis numeris), jeigu asmuo neturi asmens kodo, taip pat dėl kurių šio straipsnio 2 dalyje nurodytų aplinkybių buvimo ar nebuvimo prašoma pateikti pažymą.
+
+
+
+
+8. Gavusi šio straipsnio 5 dalyje nurodytą prašymą LTSA per 3 darbo dienas nuo prašymo gavimo ir atsižvelgdama į prašyme nurodytų tikrintinų aplinkybių apimtį kreipiasi atitinkamai į šio straipsnio 3 dalies 2 ir 3 punktuose nurodytas institucijas dėl informacijos, ar yra aplinkybių, nurodytų šio straipsnio 2 dalies 1, 2, 3 ir (ar) 5–8 punktuose. Patikrinusios informaciją apie tikrinamą asmenį dėl aplinkybių pagal šio straipsnio 2 dalies 1, 2, 3 ir (ar) 5–8 punktus, šio straipsnio 3 dalies 2 ir (ar) 3 punktuose nurodytos institucijos pateikia ją ne vėliau kaip per 20 darbo dienų nuo LTSA rašytinio kreipimosi pateikti informaciją apie tikrinamą asmenį gavimo dienos. Šis terminas šio straipsnio 3 dalies 2 ir 3 punktuose nurodytų institucijų motyvuotu sprendimu gali būti pratęstas ne ilgiau kaip iki 30 darbo dienų. Gavusi iš šio straipsnio 3 dalies 2 ir (ar) 3 punktuose nurodytų institucijų informaciją, taip pat patikrinusi, ar nėra aplinkybių, nurodytų šio straipsnio 2 dalies 4 punkte, LTSA per 3 darbo dienas nuo paskutinės informacijos iš šio straipsnio 3 dalies 2 ir (ar) 3 punktuose nurodytų institucijų gavimo dienos pateikia pažymą, kurioje nurodoma, ar yra apie tikrinamą asmenį šio straipsnio 2 dalies 1–8 punktuose nurodytų aplinkybių, ar jų nėra.
+
+
+
+
+9. Tais atvejais, kai tikrinami asmenys yra užsienio valstybės piliečiai arba asmenys be pilietybės, taip pat Lietuvos Respublikos piliečiai, kurių nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje arba kurie per pastaruosius 5 metus ilgiau kaip 6 mėnesius gyveno užsienyje, informaciją dėl šio straipsnio 2 dalies 1, 2 ir 3 punktuose nurodytų aplinkybių ir ją patvirtinančius dokumentus, išduotus asmens pilietybės šalies arba asmens be pilietybės, taip pat Lietuvos Respublikos piliečio, kurio nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, atveju – asmens gyvenamosios šalies kompetentingų institucijų, pateikia patys tikrinami asmenys juos į pareigas skiriančiam subjektui.
+
+
+
+
+10. Išsamus asmens reputacijos patikrinimas atliekamas pakartotinai ne vėliau kaip po 12 mėnesių nuo paskutinės šio straipsnio 3 dalyje nurodytų institucijų informacijos dėl šio straipsnio 2 dalyje nurodytų aplinkybių gavimo dienos, kai dėl šios informacijos kreipiasi oro uostą valdanti įmonė, arba nuo šio straipsnio 8 dalyje nurodytos LTSA pažymos dėl asmens reputacijos pateikimo dienos. Asmuo gali būti papildomai tikrinamas ir nepasibaigus vienų metų terminui, jeigu oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai, aviacijos saugumo priemones taikantys subjektai ar Agentūra gauna duomenų, kad galėjo atsirasti šio straipsnio 2 dalies 1–9 punktuose nurodytų aplinkybių.
+
+
+
+
+11. Standartinis asmens reputacijos patikrinimas atliekamas pakartotinai ne vėliau kaip po 3 metų nuo paskutinės informacijos dėl šio straipsnio 2 dalyje nurodytų aplinkybių gavimo iš šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų institucijų dienos. Asmuo gali būti papildomai tikrinamas ir nepasibaigus 3 metų terminui, jeigu oro uostą valdanti įmonė, vežėjas ar aviacijos saugumo priemones taikantis subjektas gauna duomenų, kad galėjo atsirasti šio straipsnio 2 dalies 1–4 punktuose nurodytų aplinkybių.
+
+
+
+
+12. Oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai, aviacijos saugumo priemones taikantys subjektai ir Agentūra šiame straipsnyje nustatyta tvarka pateiktą informaciją gali naudoti tik priimdami sprendimą dėl asmens, pretenduojančio eiti ar einančio pareigas arba norinčio gauti pažymėjimą, tinkamumo ir šiame straipsnyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti ar kitaip atskleisti tretiesiems asmenims, išskyrus teisės aktuose nustatytus atvejus.
+
+
+
+
+13. Oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai, aviacijos saugumo priemones taikantys subjektai, Agentūra ir institucijos bei įstaigos privalo užtikrinti, kad tikrinamo asmens duomenys, gauti šiame straipsnyje nustatyta tvarka, būtų tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+
+
+
+
+14. Šiame straipsnyje nurodyti dokumentai saugomi Lietuvos Respublikos dokumentų ir archyvų įstatymo ir Lietuvos vyriausiojo archyvaro nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -2561,7 +2692,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -2569,6 +2700,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos
@@ -2732,9 +2865,10 @@ PIRMASIS ANTŽEMINIŲ PASLAUGŲ SĄRAŠAS
 
 
 
+part_d483426308b84a51b6059bf0bcb812cc_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -2808,9 +2942,10 @@ ANTRASIS ANTŽEMINIŲ PASLAUGŲ SĄRAŠAS
 
 
 
+part_39ce474ccb10486a969017c75eb04d5c_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -3105,3 +3240,6 @@ Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 5, 6, 8, 12, 16, 24, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-525, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19618
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 11 ir 33 straipsnių pakeitimo įstatymas
+ 
+ 
+part_332f1c5b2eea4a2e989b62b4c54e3f52_end
