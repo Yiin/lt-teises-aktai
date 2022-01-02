@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-07-21
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -473,6 +473,32 @@ Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 
 
 
+22. Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 1 punkto b papunktyje nurodyti bankai, gavę licenciją Lietuvos Respublikos finansinių priemonių rinkų įstatymo nustatyta tvarka, prašymą jiems išduoti banko licenciją pagal šį straipsnį pateikia ne vėliau kaip tą dieną, kai atsiranda viena iš šių aplinkybių:
+
+
+1) vidutinė mėnesio viso turto vertė, apskaičiuojama per 12 iš eilės einančių mėnesių laikotarpį, yra lygi arba viršija 30 milijardų eurų arba
+
+
+
+
+2) vidutinė mėnesio viso turto vertė, apskaičiuojama per 12 iš eilės einančių mėnesių laikotarpį, yra mažesnė negu 30 milijardų eurų, o bankas, kurio viso turto vertė individualiai yra mažesnė negu 30 milijardų eurų ir kuris vykdo Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies 3 ir 6 punktuose nurodytą veiklą ir priklauso bankų grupei, kurios bendra konsoliduoto turto vertė lygi arba viršija 30 milijardų eurų, abu šiuos vertės dydžius apskaičiuoja kaip 12 iš eilės einančių mėnesių laikotarpio turto vertės vidurkį. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
+ 
+
+
+
+
+23. Šio straipsnio 22 dalyje nurodyti bankai ir toliau gali vykdyti veiklą, nurodytą Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies 3 ir 6 punktuose, kol gaus banko licenciją pagal šį straipsnį. Priežiūros institucija pakartotinės licencijos išdavimo atveju užtikrina, kad būtų atsižvelgta į informaciją, kuri buvo pateikta esamai licencijai gauti.
+Papildyta straipsnio dalimi:
+Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
+ 
+
+
+
+
 3. Licencija išduodama neterminuotam laikui.
 
 
@@ -694,7 +720,15 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-3) bankas neįmoka pirmosios (avansinės) draudimo įmokos pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą, jei jis privalo ją mokėti ar jeigu draudimas nutraukiamas.
+3) bankas neįmoka pirmosios (avansinės) draudimo įmokos pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą, jei jis privalo ją mokėti ar jeigu draudimas nutraukiamas;
+
+
+
+
+4) bankas savo licenciją naudoja tik Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies 3 ir 6 punktuose nurodytai veiklai vykdyti ir 5 metus iš eilės jo turto vertė nesiekė šio įstatymo 9 straipsnio 22 dalyje nustatytų dydžių.
+Papildyta straipsnio punktu:
+Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
+ 
 
 
 
@@ -4053,7 +4087,18 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 
 
-15) padaromi kiti šio Įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl banko ar užsienio banko filialo veiklos arba finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai arba sutriktų Lietuvos Respublikos bankų sistemos funkcionavimas.
+15) vykdant bent vieną iš Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies 3 ir 6 punktuose nurodytų veiklų, pasiekiama šio įstatymo 9 straipsnio 22 dalyje nurodyta ribinė vertė ir neturima banko licencijos; 
+Papildyta straipsnio punktu:
+Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
+ 
+
+
+
+
+16) padaromi kiti šio Įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimai arba yra grėsmė, kad dėl banko ar užsienio banko filialo veiklos arba finansinės būklės būtų pažeisti visuomenės ir (arba) klientų interesai arba sutriktų Lietuvos Respublikos bankų sistemos funkcionavimas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
+ 
 
 
 
@@ -5370,6 +5415,8 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
+ 
+
  
 Lietuvos Respublikos
 bankų įstatymo
@@ -5428,8 +5475,7 @@ Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
 Priedo pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
  
-
-
+part_295197a06e024d75b19ad7b436347d83_end
 
 
 Pakeitimai:
@@ -5646,3 +5692,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 papildymo dešimtuoju-1 skirsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 9, 16, 48, 52, 57, 59, 67, 70-1, 72, 87 straipsnių, priedo pakeitimo ir Įstatymo papildymo 70-3 straipsniu įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10 ir 73 straipsnių pakeitimo įstatymas
