@@ -18,9 +18,10 @@ Neoficialus ?statymo tekstas
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-07-21
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -482,7 +483,10 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 
 
 
-18) sprendžia klausimus dėl finansų rinką reglamentuojančiuose įstatymuose nustatytų licencijų, leidimų, sutikimų, pritarimų, neprieštaravimų išdavimo, jų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir atšaukimo (galiojimo panaikinimo);
+18) sprendžia klausimus dėl finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatytų licencijų, leidimų, sutikimų, pritarimų, neprieštaravimų išdavimo, jų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir atšaukimo (galiojimo panaikinimo);
+Straipsnio punkto pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+ 
 
 
 
@@ -1345,11 +1349,12 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, pensijų anuitetų mokėtojas, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos, valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje.
+1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), kontroliuojančiosios investicinės bendrovės, investicinės kontroliuojančiosios bendrovės, mišrią veiklą vykdančios kontroliuojančiosios bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos, valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
  
 
 
@@ -1373,10 +1378,11 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 
 
 
-4) atlieka finansų maklerio įmonių, finansų maklerio įmonės priklausomų tarpininkų, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, informacijos apie sandorius paslaugų teikėjų, lyginamojo indekso administratorių, prižiūrimų duomenų tiekėjų, valdymo įmonių, investicinių bendrovių, centrinių vertybinių popierių depozitoriumų, užsienio valstybių centrinių vertybinių popierių depozitoriumų filialų, įsteigtų Lietuvos Respublikoje, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Lietuvos bankui priskirtas funkcijas; 
+4) atlieka finansų maklerio įmonių, finansų maklerio įmonės priklausomų tarpininkų, finansų patarėjo įmonių, reguliuojamų rinkų operatorių, informacijos apie sandorius paslaugų teikėjų, lyginamojo indekso administratorių, prižiūrimų duomenų tiekėjų, valdymo įmonių, investicinių bendrovių, centrinių vertybinių popierių depozitoriumų, užsienio valstybių centrinių vertybinių popierių depozitoriumų filialų, įsteigtų Lietuvos Respublikoje, depozitoriumų, užsienio valstybių finansų maklerio įmonių ir valdymo įmonių filialų, įsteigtų Lietuvos Respublikoje, pensijų asociacijų, kontroliuojančiųjų investicinių bendrovių, investicinių kontroliuojančiųjų bendrovių, mišrią veiklą vykdančių kontroliuojančiųjų bendrovių ir emitentų priežiūrą ir kitas Lietuvos Respublikos finansinių priemonių rinkų įstatymo, Lietuvos Respublikos vertybinių popierių įstatymo, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo, Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo, Lietuvos Respublikos pensijų kaupimo įstatymo, Lietuvos Respublikos profesinių pensijų kaupimo įstatymo, Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo Lietuvos bankui priskirtas funkcijas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
  
 
 
@@ -1420,7 +1426,10 @@ Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
 
 
 
-11) atlieka sutelktinio finansavimo platformos operatorių priežiūrą ir kitas Lietuvos Respublikos sutelktinio finansavimo įstatymo Lietuvos bankui priskirtas funkcijas;
+11) atlieka sutelktinio finansavimo platformos operatorių priežiūrą ir kitas Lietuvos Respublikos sutelktinio finansavimo įstatymo Lietuvos bankui priskirtas funkcijas, taip pat atlieka sutelktinio finansavimo paslaugų teikėjų priežiūrą ir kitas Reglamento (ES) 2020/1503 kompetentingai institucijai priskirtas funkcijas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+ 
 
 
 
@@ -1481,12 +1490,18 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 
 
 
-5) raštu atkreipti prižiūrimų finansų rinkos dalyvių ir kitų asmenų dėmesį į pažeidimus ir jų veiklos trūkumus, už kuriuos netaikytini įstatymų nustatyti privalomi nurodymai ar poveikio priemonės, ir siūlyti imtis priemonių, kad būtų pašalinti pažeidimai, trūkumai, jų priežastys ir sąlygos;
+5) raštu atkreipti prižiūrimų finansų rinkos dalyvių ir kitų asmenų dėmesį į pažeidimus ir jų veiklos trūkumus, už kuriuos netaikytini įstatymų ir Europos Sąjungos teisės aktų nustatyti privalomi nurodymai ar poveikio priemonės, ir siūlyti imtis priemonių, kad būtų pašalinti pažeidimai, trūkumai, jų priežastys ir sąlygos;
+Straipsnio punkto pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+ 
 
 
 
 
-6) šiame ir kituose finansų rinką reglamentuojančiuose įstatymuose nustatytais atvejais ir tvarka duoti privalomus nurodymus prižiūrimiems finansų rinkos dalyviams;
+6) šiame ir kituose finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatytais atvejais ir tvarka duoti privalomus nurodymus prižiūrimiems finansų rinkos dalyviams ir kitiems asmenims;
+Straipsnio punkto pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+ 
 
 
 
@@ -1840,15 +1855,19 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 
 
 
-5) užsienio valstybių kredito įstaigų ir kitų finansinių paslaugų teikimo veiklos, draudimo veiklos ir finansų rinkų priežiūros institucijoms, jeigu ji reikalinga priežiūros funkcijai atlikti, taip pat Europos centriniam bankui, kai pagal Reglamento (ES) Nr. 1024/2013 nuostatas finansų rinkos priežiūros funkciją atlieka Europos centrinis bankas; 
+5) Europos Komisijai, užsienio valstybių kredito įstaigų ir kitų finansinių paslaugų teikimo veiklos, draudimo veiklos ir finansų rinkų priežiūros institucijoms, jeigu ji reikalinga priežiūros funkcijai atlikti, taip pat Europos centriniam bankui, kai pagal Reglamento (ES) Nr. 1024/2013 nuostatas finansų rinkos priežiūros funkciją atlieka Europos Centrinis Bankas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
  
 
 
 
 
-6) Europos centrinių bankų sistemos centriniams bankams ir kitoms panašias funkcijas atliekančioms institucijoms, jeigu ji reikalinga teisės aktuose nustatytoms jų funkcijoms, įskaitant pinigų politikos vykdymą ir likvidumo užtikrinimą, mokėjimo, tarpuskaitos ir atsiskaitymo sistemų priežiūrą ir finansinės sistemos stabilumo užtikrinimą, atlikti, o kritinėmis situacijomis – Europos centrinių bankų sistemos centriniams bankams nedelsiant;
+6) Europos bankininkystės institucijai, Europos vertybinių popierių ir rinkų institucijai, Europos sisteminės rizikos valdybai, Europos Centriniam Bankui, Europos centrinių bankų sistemai, valstybių narių centriniams bankams ir kitoms panašias funkcijas atliekančioms institucijoms, jeigu ji reikalinga teisės aktuose nustatytoms jų funkcijoms, įskaitant pinigų politikos vykdymą ir likvidumo užtikrinimą, mokėjimo, tarpuskaitos ir atsiskaitymo sistemų priežiūrą ir finansinės sistemos stabilumo užtikrinimą, atlikti, o kritinėmis situacijomis – Europos centrinių bankų sistemai nedelsiant;
+Straipsnio punkto pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+ 
 
 
 
@@ -2016,26 +2035,26 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 431 straipsnis. Prašymų išduoti licenciją, leidimą, sutikimą arba atlikti kitus veiksmus nagrinėjimas ir Lietuvos banko sprendimai
 
 
-1. Prašymų išduoti finansų rinką reglamentuojančiuose teisės aktuose nustatytas licencijas, leidimus, sutikimus, pritarimus arba atlikti kitus veiksmus (toliau visi kartu šiame straipsnyje – leidimai) pateikimo, nagrinėjimo ir leidimų išdavimo sąlygas ir tvarką bei detalius pateikiamų dokumentų reikalavimus nustato Reglamentas (ES) Nr. 1024/2013, finansų rinką reglamentuojantys įstatymai ir jų įgyvendinamieji teisės aktai. 
+1. Prašymų išduoti finansų rinką reglamentuojančiuose teisės aktuose ir Europos Sąjungos teisės aktuose nustatytas licencijas, leidimus, sutikimus, pritarimus arba atlikti kitus veiksmus (toliau visi kartu šiame straipsnyje – leidimai) pateikimo, nagrinėjimo ir leidimų išdavimo sąlygas ir tvarką bei detalius pateikiamų dokumentų reikalavimus nustato Reglamentas (ES) Nr. 1024/2013, finansų rinką reglamentuojantys įstatymai, Europos Sąjungos teisės aktai ir jų įgyvendinamieji teisės aktai.
 
 
 
 
-2. Prašymas išduoti leidimą išnagrinėjamas ir sprendimas priimamas per 30 dienų nuo prašymo ir visų reikalaujamų dokumentų pateikimo dienos arba per kitus finansų rinką reglamentuojančiuose įstatymuose nustatytus terminus. Jeigu pateikti dokumentai turi formos ar turinio trūkumų arba pateikti ne visi dokumentai ar informacija, reikalingi sprendimui priimti, Lietuvos bankas turi teisę pareikalauti pašalinti trūkumus ir (ar) pateikti trūkstamus dokumentus ar informaciją. Be to, Lietuvos bankas turi teisę pareikalauti papildomų dokumentų ir informacijos, reikalingų sprendimui priimti. Jeigu Lietuvos bankas motyvuotai pareikalauja papildomų dokumentų ir informacijos arba juos savarankiškai pateikia leidimo prašantis asmuo, prašymo išnagrinėjimo ir sprendimo priėmimo terminas, jeigu finansų rinką reglamentuojančiuose įstatymuose nenustatyta kitaip, skaičiuojamas nuo papildomų dokumentų ir informacijos gavimo dienos.
+2. Prašymas išduoti leidimą išnagrinėjamas ir sprendimas priimamas per 30 dienų nuo prašymo ir visų reikalaujamų dokumentų pateikimo dienos arba per kitus finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatytus terminus. Jeigu pateikti dokumentai turi formos ar turinio trūkumų arba pateikti ne visi dokumentai ar informacija, reikalingi sprendimui priimti, Lietuvos bankas turi teisę pareikalauti pašalinti trūkumus ir (ar) pateikti trūkstamus dokumentus ar informaciją. Be to, Lietuvos bankas turi teisę pareikalauti papildomų dokumentų ir informacijos, reikalingų sprendimui priimti. Jeigu Lietuvos bankas motyvuotai pareikalauja papildomų dokumentų ir informacijos arba juos savarankiškai pateikia leidimo prašantis asmuo, prašymo išnagrinėjimo ir sprendimo priėmimo terminas, jeigu finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nenustatyta kitaip, skaičiuojamas nuo papildomų dokumentų ir informacijos gavimo dienos.
 
 
 
 
-3. Lietuvos bankas turi teisę atsisakyti išduoti leidimą, jeigu yra pakankamas pagrindas manyti, kad išdavus leidimą bus pažeidžiami prižiūrimų finansų rinkos dalyvių klientų interesai arba kils pavojus finansų sistemos stabilumui ir patikimumui ar kitiems viešiesiems interesams, taip pat jeigu yra kiti finansų rinką reglamentuojančiuose įstatymuose nustatyti leidimo neišdavimo pagrindai.
+3. Lietuvos bankas turi teisę atsisakyti išduoti leidimą, jeigu yra pakankamas pagrindas manyti, kad išdavus leidimą bus pažeidžiami prižiūrimų finansų rinkos dalyvių klientų interesai arba kils pavojus finansų sistemos stabilumui ir patikimumui ar kitiems viešiesiems interesams, taip pat jeigu yra kiti finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatyti leidimo neišdavimo pagrindai.
 
 
 
 
-4. Apie priimtą sprendimą dėl leidimo išdavimo Lietuvos bankas ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos informuoja pareiškėjus, jeigu finansų rinką reglamentuojančiuose teisės aktuose nenustatyta kitaip. Lietuvos banko atsisakymas išduoti leidimą turi būti motyvuotas. 
+4. Apie priimtą sprendimą dėl leidimo išdavimo Lietuvos bankas ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos informuoja pareiškėjus, jeigu finansų rinką reglamentuojančiuose teisės aktuose nenustatyta kitaip. Lietuvos banko atsisakymas išduoti leidimą turi būti motyvuotas.
 
 
-Papildyta straipsniu:
-Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
+Straipsnio pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
  
 
 
@@ -2044,7 +2063,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 432 straipsnis. Lietuvos banko duodami privalomi nurodymai
 
 
-1. Lietuvos bankas duoda finansų rinką reglamentuojančiuose įstatymuose nustatytus privalomus nurodymus, jeigu yra bent vienas iš finansų rinką reglamentuojančiuose įstatymuose nustatytų privalomų nurodymų taikymo pagrindų.
+1. Lietuvos bankas duoda finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatytus privalomus nurodymus, jeigu yra bent vienas iš finansų rinką reglamentuojančiuose įstatymuose ar Europos Sąjungos teisės aktuose nustatytų privalomų nurodymų taikymo pagrindų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+ 
 
 
 
@@ -2088,7 +2110,9 @@ Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 
 
 
-8. Privalomų nurodymų davimas neatima teisės Lietuvos bankui kartu taikyti ir finansų rinką reglamentuojančiuose įstatymuose nustatytų poveikio priemonių. 
+8. Privalomų nurodymų davimas neatima teisės Lietuvos bankui kartu taikyti ir finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatytų poveikio priemonių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
@@ -2234,7 +2258,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-14. Lietuvos bankas tam pačiam asmeniui gali taikyti vieną arba kelias poveikio priemones. Poveikio priemonės pritaikymas neatleidžia asmens nuo pareigos, už kurios nevykdymą pritaikyta poveikio priemonė, atlikimo. Poveikio priemonės taikymas juridiniams asmenims neatleidžia jų vadovų ir darbuotojų nuo įstatymuose nustatytos civilinės, administracinės ar baudžiamosios atsakomybės, taip pat neužkerta kelio Lietuvos bankui svarstyti klausimą dėl finansų rinką reglamentuojančiuose įstatymuose nustatytų Lietuvos banko išduotų licencijų, leidimų, sutikimų, pritarimų, neprieštaravimų galiojimo sustabdymo ir galiojimo panaikinimo (atšaukimo).
+14. Lietuvos bankas tam pačiam asmeniui gali taikyti vieną arba kelias poveikio priemones. Poveikio priemonės pritaikymas neatleidžia asmens nuo pareigos, už kurios nevykdymą pritaikyta poveikio priemonė, atlikimo. Poveikio priemonės taikymas juridiniams asmenims neatleidžia jų vadovų ir darbuotojų nuo įstatymuose nustatytos civilinės, administracinės ar baudžiamosios atsakomybės, taip pat neužkerta kelio Lietuvos bankui svarstyti klausimą dėl finansų rinką reglamentuojančiuose įstatymuose ir Europos Sąjungos teisės aktuose nustatytų Lietuvos banko išduotų licencijų, leidimų, sutikimų, pritarimų, neprieštaravimų galiojimo sustabdymo ir galiojimo panaikinimo (atšaukimo).
+Straipsnio dalies pakeitimai:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+ 
 
 
 
@@ -2316,7 +2343,7 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 437 straipsnis. Pranešimas apie pažeidimus
 
 
-Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato priemones, kurios skatintų pranešti apie finansų rinką reglamentuojančių teisės aktų, įskaitant Reglamentą (ES) Nr. 575/2013, Reglamentą (ES) Nr. 600/2014, Reglamentą (ES) Nr. 909/2014, Reglamentą (ES) Nr. 596/2014, Reglamentą (ES) Nr. 1286/2014, Reglamentą (ES) 2017/1129 ar jų įgyvendinamuosius teisės aktus, nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
+Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato priemones, kurios skatintų pranešti apie finansų rinką reglamentuojančių teisės aktų, įskaitant Reglamentą (ES) Nr. 575/2013, Reglamentą (ES) Nr. 600/2014, Reglamentą (ES) Nr. 909/2014, Reglamentą (ES) Nr. 596/2014, Reglamentą (ES) Nr. 1286/2014, Reglamentą (ES) 2017/1129, 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos Reglamentą (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, ar jų įgyvendinamuosius teisės aktus, nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
 
 
 1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros; 
@@ -2334,13 +2361,14 @@ Lietuvos Respublikos pranešėjų apsaugos įstatymas ir Lietuvos bankas nustato
 
 
 
-4) užtikrinama tinkama finansų rinkos dalyvio darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio. 
+4) užtikrinama tinkama finansų rinkos dalyvio darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
  
 
 
@@ -3036,6 +3064,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos
 Lietuvos banko įstatymo 
@@ -3173,7 +3203,7 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDO
 
 
  20. 
- Sutelktinio finansavimo platformos operatoriai 
+ Sutelktinio finansavimo platformos operatoriai arba sutelktinio finansavimo paslaugų teikėjai 
  – 
  3 000 Eur 
 
@@ -3253,12 +3283,14 @@ Nr. XII-2771, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26971
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
+part_7898dcf4cc174946b2d9d7ae5e4f3968_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -3343,9 +3375,10 @@ Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Priedo pakeitimai:
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
+part_031d3bfedc85439e94321dee662b313c_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -3444,13 +3477,20 @@ Lietuvos banko įstatymo
 18. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES.
 
 
+
+
+19. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
+Papildyta punktu:
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+ 
+
+
 Priedo pakeitimai:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
-
-
+part_55fc40a85bc3467f821af67c3027e100_end
 
 
  
@@ -3741,3 +3781,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 38 straipsnių ir še
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43, 43-2 straipsnių ir 1, 2, 3 priedų pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymas
