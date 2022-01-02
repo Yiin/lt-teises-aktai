@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
  
@@ -1449,7 +1449,9 @@ KOORDINATORIAUS SKYRIMAS, FUNKCIJOS IR PRIEŽIŪROS INSTITUCIJŲ BENDRADARBIAVIM
 
 
 
-4. Lietuvos Respublikos priežiūros institucija užtikrina, kad šio straipsnio 3 dalyje nurodytos priemonės padės pasiekti papildomos priežiūros tikslus, ir apie šias priemones praneša kitoms priežiūros institucijoms ir Europos Komisijai.
+4. Lietuvos Respublikos priežiūros institucija užtikrina, kad šio straipsnio 3 dalyje nurodytos priemonės padės pasiekti papildomos priežiūros tikslus, ir apie šias priemones praneša kitoms priežiūros institucijoms, Europos bankininkystės institucijai ir Europos Komisijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-830, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27722
  
 
 
@@ -1482,7 +1484,10 @@ priedas
  
 
 
-1. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl finansiniam konglomeratui priklausančių kredito įstaigų, draudimo įmonių ir investicinių firmų papildomos priežiūros ir iš dalies keičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB bei 2000/12/EB, su paskutiniais pakeitimais, padarytais 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2011/89/ES.
+1. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl finansiniam konglomeratui priklausančių kredito įstaigų, draudimo įmonių ir investicinių firmų papildomos priežiūros ir iš dalies keičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB bei 2000/12/EB, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2034.
+Punkto pakeitimai:
+Nr. XIV-830, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27722
+ 
 
 
 
@@ -1526,3 +1531,8 @@ Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-768, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26897
 Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 1, 2, 12 straipsnių, priedo pakeitimo ir Įstatymo papildymo antruoju-1 skirsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-830, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27722
+Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 19 straipsnio ir priedo pakeitimo įstatymas
