@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2021-12-31 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-01-27
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -141,7 +141,10 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
 
 
-7. Finansų įstaigos – Lietuvos Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų įmonės, Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžtos mokėjimo įstaigos, Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme apibrėžtos elektroninių pinigų įstaigos, Lietuvos Respublikos valiutos keityklos operatorių įstatyme apibrėžti valiutos keityklos operatoriai, Lietuvos Respublikos sutelktinio finansavimo įstatyme apibrėžti sutelktinio finansavimo platformų operatoriai, Lietuvos Respublikos vartojimo kredito įstatyme ir Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatyme apibrėžti tarpusavio skolinimo platformų operatoriai, Lietuvos Respublikos draudimo įstatyme apibrėžtos draudimo įmonės, vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, taip pat investicinės kintamojo kapitalo bendrovės ir informuotiesiems investuotojams skirti kolektyvinio investavimo subjektai ir tik šiuos subjektus valdančios valdymo įmonės; šių užsienio finansų įstaigų filialai, įsteigti Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigos ir mokėjimo įstaigos, kurių buveinė yra kitoje Europos Sąjungos valstybėje narėje, teikiančios paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis.
+7. Finansų įstaigos – Lietuvos Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų įmonės, Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžtos mokėjimo įstaigos, Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme apibrėžtos elektroninių pinigų įstaigos, Lietuvos Respublikos valiutos keityklos operatorių įstatyme apibrėžti valiutos keityklos operatoriai, Lietuvos Respublikos sutelktinio finansavimo įstatyme apibrėžti sutelktinio finansavimo platformų operatoriai arba 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, apibrėžti sutelktinio finansavimo paslaugų teikėjai, įsteigti Lietuvos Respublikoje, Lietuvos Respublikos vartojimo kredito įstatyme ir Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatyme apibrėžti tarpusavio skolinimo platformų operatoriai, Lietuvos Respublikos draudimo įstatyme apibrėžtos draudimo įmonės, vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, taip pat investicinės kintamojo kapitalo bendrovės ir informuotiesiems investuotojams skirti kolektyvinio investavimo subjektai ir tik šiuos subjektus valdančios valdymo įmonės; šių užsienio finansų įstaigų filialai, įsteigti Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigos ir mokėjimo įstaigos, kurių buveinė yra kitoje Europos Sąjungos valstybėje narėje, teikiančios paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+ 
 
 
 
@@ -554,7 +557,10 @@ Nr. XIV-334, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12773
 4 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją atsakingų institucijų pareigos
 
 
-1. Lietuvos bankas patvirtina kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, sutelktinio finansavimo platformų operatoriams, tarpusavio skolinimo platformų operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms, depozitoriumui ir užsienio valstybių šioje dalyje nurodytų subjektų filialams, įsteigtiems Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigoms ir mokėjimo įstaigoms, kurių buveinė yra kitoje valstybėje narėje, teikiančioms paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus šioje dalyje nurodytų nurodymų įgyvendinimo klausimais.
+1. Lietuvos bankas patvirtina kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, sutelktinio finansavimo platformų operatoriams arba sutelktinio finansavimo paslaugų teikėjams, tarpusavio skolinimo platformų operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms, depozitoriumui ir užsienio valstybių šioje dalyje nurodytų subjektų filialams, įsteigtiems Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigoms ir mokėjimo įstaigoms, kurių buveinė yra kitoje valstybėje narėje, teikiančioms paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus šioje dalyje nurodytų nurodymų įgyvendinimo klausimais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+ 
 
 
 
@@ -2207,6 +2213,22 @@ Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 
 
+11) sutelktinio finansavimo paslaugų ir tarpusavio skolinimo paslaugų teikimo atvejais, kai bendra kliento per kalendorinius metus vienoje sutelktinio finansavimo platformoje arba vienoje tarpusavio skolinimo platformoje investuojama suma neviršija 30 000 eurų arba ją atitinkančios sumos užsienio valiuta ir sukaupta palūkanų ar kita mokėtina suma grąžinama tik į kliento kredito, mokėjimo ar elektroninių pinigų įstaigoje turimą sąskaitą, iš kurios buvo pervedamos lėšos, kaip nurodyta šio straipsnio 2 dalies 2 punkte; 
+Papildyta straipsnio punktu:
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+ 
+
+
+
+
+12) elektroninių pinigų išleidimo atvejais, kai per kalendorinius metus išleistų elektroninių pinigų bendrai vertei taikoma 1 000 eurų arba ją atitinkančios sumos užsienio valiuta riba, o elektroninių pinigų leidimo apribojimas taikomas išimtinai tik elektroninės prekybos platformų – interneto svetainių, mobiliųjų įrenginių programų ir kitų taikomųjų programų, skirtų elektroninei prekybai tarp jose registruotų vartotojų vykdyti, – vartotojų tarpusavio atsiskaitymams ir sukauptų lėšų pervedimas galimas tik į kliento kredito, mokėjimo ar elektroninių pinigų įstaigoje turimą sąskaitą, kai kredito, mokėjimo ar elektroninių pinigų įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi, išskyrus atvejus, kai tais pačiais kalendoriniais metais elektroninių pinigų turėtojo prašymu išperkama 500 eurų arba ją atitinkanti suma užsienio valiuta ar didesnė suma grynaisiais pinigais. Elektroninės prekybos platforma šiuo atveju suprantama kaip technologinis sprendinys elektroninei prekybai tarp tos platformos registruotų vartotojų vykdyti. 
+Papildyta straipsnio punktu:
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
+ 
+
+
+
+
 
 
 2. Taikydami supaprastintą kliento tapatybės nustatymą, išskyrus šio straipsnio 3 dalyje nustatytą atvejį, finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 9 straipsnio 12, 13, 14 dalyse, 10 straipsnyje, 11 straipsnio 3 dalyje ir 12 straipsnyje nurodytų nuostatų ir privalo tik:
@@ -2231,11 +2253,12 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-3. Taikydami supaprastintą kliento tapatybės nustatymą šio straipsnio 1 dalies 2 punkte nustatytais atvejais, finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 10 ir 12 straipsnių nuostatų ir privalo tik gauti šio įstatymo 10 straipsnio 1 dalies 1, 2, 3 punktuose ir 10 straipsnio 2 dalies 1, 2, 3 punktuose nurodytus duomenis. 
+3. Taikydami supaprastintą kliento tapatybės nustatymą šio straipsnio 1 dalies 2 ir 12 punktuose nustatytais atvejais, finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 10 ir 12 straipsnių nuostatų ir privalo gauti tik šio įstatymo 10 straipsnio 1 dalies 1, 2, 3 punktuose ir 10 straipsnio 2 dalies 1, 2, 3 punktuose nurodytus duomenis.
 Papildyta straipsnio dalimi:
 Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
  
 
 
