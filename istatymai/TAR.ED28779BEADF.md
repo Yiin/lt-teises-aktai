@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-04-28
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -633,7 +633,10 @@ Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
 
 
 
-3) vieną ketvirtadalį valdymo įmonės praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos Reglamento (ES) Nr. 575/2017 97 straipsnyje nustatyta tvarka.
+3) vieną ketvirtadalį valdymo įmonės praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, 13 straipsnyje nustatyta tvarka. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-825, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27716
+ 
 
 
 
@@ -2199,7 +2202,10 @@ DEPOZITORIUMAS
 
 
 
-2. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto depozitoriumu gali būti licencijuota kredito įstaiga, kuri turi teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti investicines paslaugas, arba licencijuota finansų maklerio įmonė, turinti teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti papildomas paslaugas – finansinių priemonių saugojimą ir administravimą klientų sąskaita – ir kurios tiek nuosavos lėšos, tiek pradinis kapitalas yra ne mažesni kaip 730 000 eurų, ir kuri yra įsteigta arba turi registruotą buveinę ar padalinį Lietuvos Respublikoje. 
+2. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto depozitoriumu gali būti licencijuota kredito įstaiga, kuri turi teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti investicines paslaugas, arba Lietuvos Respublikoje įsteigta arba Lietuvos Respublikoje turinti registruotą buveinę ar padalinį licencijuota finansų maklerio įmonė, kuri turi teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti papildomas finansinių priemonių saugojimo ir administravimo klientų sąskaita paslaugas ir kurios tiek nuosavos lėšos, tiek pradinis kapitalas yra ne mažesni kaip 750 000 eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-825, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27716
+ 
 
 
 
@@ -8427,57 +8433,65 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
 Lietuvos Respublikos
-kolektyvinio investavimo subjektų įstatymo 
+kolektyvinio investavimo 
+subjektų įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2006 m. rugpjūčio 10 d. Komisijos direktyva 2006/73/EB, kuria įgyvendinama Europos Parlamento ir Tarybos direktyva 2004/39/EB dėl investicinių įmonių organizacinių reikalavimų ir veiklos sąlygų bei toje direktyvoje apibrėžti terminai (OL 2006 L 241, p. 26).
+1. 2006 m. rugpjūčio 10 d. Komisijos direktyva 2006/73/EB, kuria įgyvendinama Europos Parlamento ir Tarybos direktyva 2004/39/EB dėl investicinių įmonių organizacinių reikalavimų ir veiklos sąlygų bei toje direktyvoje apibrėžti terminai.
 
 
 
 
-2. 2007 m. kovo 19 d. Komisijos direktyva 2007/16/EB, įgyvendinanti Tarybos direktyvą 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo, patikslinant tam tikrus apibrėžimus (OL 2007 L 79, p. 11).
+2. 2007 m. kovo 19 d. Komisijos direktyva 2007/16/EB, įgyvendinanti Tarybos direktyvą 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo, patikslinant tam tikrus apibrėžimus.
 
 
 
 
-3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamų vertybinius popierius subjektais (KIPVPS), derinimo (OL 2009 L 302, p. 32) su paskutiniais pakeitimais, padarytais 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/91/ES (OL 2014 L 257, p. 186).
+3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2162. 
 
 
 
 
-4. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/14/ES, kuria iš dalies keičiamos Direktyva 2003/41/EB dėl įstaigų, atsakingų už profesinių pensijų skyrimą, veiklos ir priežiūros, Direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo ir Direktyva 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kiek tai susiję su per dideliu kliovimusi kredito reitingais (OL 2013 L 145, p. 1).
+4. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/14/ES, kuria iš dalies keičiamos Direktyva 2003/41/EB dėl įstaigų, atsakingų už profesinių pensijų skyrimą, veiklos ir priežiūros, Direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo ir Direktyva 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kiek tai susiję su per dideliu kliovimusi kredito reitingais, su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2341.
 
 
 
 
-5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
+5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2021 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/338.
 
 
 
 
-6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55). 
-Punkto pakeitimai:
-Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156. 
+
+
+
+
+7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų su paskutiniais pakeitimais, padarytais 2018 m. balandžio 10 d. Komisijos deleguotuoju reglamentu (ES) 2018/990.
+
+
+
+
+8. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1156 dėl palankesnių sąlygų tarpvalstybiniu mastu platinti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas sudarymo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 345/2013, (ES) Nr. 346/2013 ir (ES) Nr. 1286/2014. 
+
+
+
+
+9. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
+
+
+
+
+10. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088.
+
+
+Priedo pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
  
-
-
-
-
-7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8).
-
-
-
-
-8. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1156 dėl palankesnių sąlygų tarpvalstybiniu mastu platinti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas sudarymo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 345/2013, (ES) Nr. 346/2013 ir (ES) Nr. 1286/2014 (OL 2019 L 188, p. 55). 
-Papildyta straipsnio dalimi:
-Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
- 
-
-
 
 
 
@@ -8604,3 +8618,8 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 6�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 4, 21, 34, 117, 119, 120, 124, 125, 127, 150, 162, 171 straipsnių ir priedo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-825, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27716
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 5 ir 35 straipsnių pakeitimo įstatymas
