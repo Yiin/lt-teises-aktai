@@ -21,7 +21,7 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-04-28
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
  
@@ -1343,7 +1343,10 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLOS REIKALAVIMAI
 
 
 
-3. Valdymo įmonės valdomo kolektyvinio investavimo subjekto, investicinės bendrovės-valdytojos finansinis turtas (pinigai, indėliai, finansinės priemonės ir kita) turi būti laikomas ir įtraukiamas į apskaitą pas turto saugotoją atidarytoje sąskaitoje (sąskaitose) atskirai nuo valdymo įmonei, investicinei bendrovei-valdytojai ir turto saugotojui priklausančio turto. Finansinio turto saugotoju gali būti tik licencijuota kredito įstaiga, turinti teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti investicines paslaugas, arba licencijuota finansų maklerio įmonė, turinti teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti papildomas paslaugas – saugoti ir administruoti finansines priemones klientų sąskaita – ir turinti ne mažesnį kaip 730 000 eurų pradinį kapitalą, ir turinti buveinę ar padalinį Lietuvos Respublikoje. Valdymo įmonė, gavusi savo valdomo kolektyvinio investavimo subjekto dalyvio lėšas, investicinė bendrovė-valdytoja, gavusi savo dalyvio lėšas, privalo nedelsdamos jas pervesti į sąskaitą (sąskaitas), atidarytą (atidarytas) pas turto saugotoją. 
+3. Valdymo įmonės valdomo kolektyvinio investavimo subjekto, investicinės bendrovės-valdytojos finansinis turtas (pinigai, indėliai, finansinės priemonės ir kita) turi būti laikomas ir įtraukiamas į apskaitą pas turto saugotoją atidarytoje (atidarytose) sąskaitoje (sąskaitose) atskirai nuo valdymo įmonei, investicinei bendrovei-valdytojai ir turto saugotojui priklausančio turto. Finansinio turto saugotoju gali būti tik licencijuota kredito įstaiga, turinti teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti investicines paslaugas, arba Lietuvos Respublikoje buveinę ar padalinį turinti licencijuota finansų maklerio įmonė, turinti teisę Lietuvos Respublikoje ar kitoje valstybėje narėje teikti papildomas paslaugas – saugoti ir administruoti finansines priemones klientų sąskaita – ir turinti ne mažesnį kaip 750 000 eurų pradinį kapitalą. Valdymo įmonė, gavusi savo valdomo kolektyvinio investavimo subjekto dalyvio lėšas, investicinė bendrovė-valdytoja, gavusi savo dalyvio lėšas, privalo nedelsdamos jas pervesti į sąskaitą (sąskaitas), atidarytą (atidarytas) pas turto saugotoją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-834, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27726
+ 
 
 
 
@@ -3574,3 +3577,8 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 52, 61, 65 straipsnių, priedo pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-834, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27726
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 19 straipsnio pakeitimo įstatymas
