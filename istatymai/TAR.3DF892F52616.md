@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2021-12-31 iki 2022-01-01
+Suvestinė redakcija nuo 2022-01-02 iki 2022-11-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
  
@@ -365,6 +365,13 @@ VERTYBINIŲ POPIERIŲ VIEŠAS SIŪLYMAS IR ĮTRAUKIMAS Į PREKYBĄ REGULIUOJAMOJ
 
 
 2. Šiame skyriuje nustatytų informacinio dokumento rengimo ir paskelbimo reikalavimų turi būti laikomasi, kai emitento vertybinius popierius ketinama viešai siūlyti Lietuvos Respublikoje. Informacinio dokumento rengimo ir paskelbimo reikalavimai netaikomi emitentui, kuriam nustatyta pareiga parengti prospektą pagal Kolektyvinio investavimo subjektų įstatymą, Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą, Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą. 
+
+
+
+
+3. Šio skyriaus nuostatos netaikomos viešiems vertybinių popierių siūlymams, vykdomiems vadovaujantis 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
+Papildyta straipsnio dalimi:
+Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
  
 
 
@@ -609,7 +616,11 @@ PERIODINĖS IR EINAMOSIOS INFORMACIJOS ATSKLEIDIMAS
 
 
 
-4. Metinė informacija kartu su auditoriaus išvada, pasirašyta už auditą atsakingo auditoriaus (auditorių), turi būti paskelbta ir pateikta priežiūros institucijai ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos.
+4. Metinė informacija kartu su auditoriaus išvada, pasirašyta už auditą atsakingo auditoriaus (auditorių), turi būti paskelbta ir pateikta priežiūros institucijai ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Metinė informacija rengiama elektroniniu formatu, kaip tai nurodyta 2018 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2019/815, kuriuo Europos Parlamento ir Tarybos direktyva 2004/109/EB papildoma techniniais reguliavimo standartais, kuriais nustatomas vienas elektroninio ataskaitų teikimo formatas, su visais pakeitimais.
+TAR pastaba. 12 straipsnio 4 dalies nuostatos taikomos rengiant 2021-01-01 ir vėliau prasidėsiančių finansinių metų metinę informaciją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
+ 
 
 
 
@@ -2191,6 +2202,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 vertybinių popierių įstatymo
@@ -2241,8 +2254,7 @@ priedas
 Priedo pakeitimai:
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
  
-
-
+part_d4e44b7a07f74bd0a1d72ae5b3155cd9_end
 
 
  
