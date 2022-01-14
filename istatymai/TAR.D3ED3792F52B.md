@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-13
+Suvestinė redakcija nuo 2022-01-14 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -471,9 +471,10 @@ VALSTYBĖS TARNAUTOJŲ PAREIGYBĖS
 8 straipsnis. Valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartį ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, skaičius bei pareigybių aprašymai ir sąrašai 
 
 
-1. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas) (toliau – darbuotojai, dirbantys pagal darbo sutartis), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento kanceliarijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, Vyriausybės atstovų įstaigoje, ministrų valdymo sritims nepriskirtose valstybės institucijose ir įstaigose ir bendrą didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių atitinkamo ministro valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose (išskyrus bendrą didžiausią leistiną Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių); ministrai – jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose. Ministrai, tvirtindami didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose, negali viršyti Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičiaus atitinkamų ministrų valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba. Nacionalinės teismų administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, suderinęs su savininko teises ir pareigas įgyvendinančia institucija, tvirtina Nacionalinės teismų administracijos direktorius. 
+1. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas) (toliau – darbuotojai, dirbantys pagal darbo sutartis), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento kanceliarijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, Vyriausybės atstovų įstaigoje, ministrų valdymo sritims nepriskirtose valstybės institucijose ir įstaigose ir bendrą didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių atitinkamo ministro valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose (išskyrus bendrą didžiausią leistiną Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių ir didžiausią leistiną Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir specialiųjų misijų darbuotojų, su kuriais sudaromos darbo sutartys pagal Diplomatinės tarnybos įstatymo 17 straipsnio 4 dalį, pareigybių skaičių); ministrai – jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose. Ministrai, tvirtindami didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose, negali viršyti Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičiaus atitinkamų ministrų valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba. Nacionalinės teismų administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, suderinęs su savininko teises ir pareigas įgyvendinančia institucija, tvirtina Nacionalinės teismų administracijos direktorius.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
 
 
@@ -763,12 +764,18 @@ Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 
 
 
-2. Į įstaigos vadovo, įstaigos vadovo pavaduotojo ir įstaigos padalinio vadovo, išskyrus pakaitinį karjeros valstybės tarnautoją, pareigas priimančiam asmeniui Vyriausybės įgaliota įstaiga atrenka 2 geriausiai centralizuotame konkurse įvertintus pretendentus. 
+2. Į įstaigos vadovo, įstaigos vadovo pavaduotojo ir įstaigos padalinio vadovo, išskyrus pakaitinį karjeros valstybės tarnautoją, pareigas priimančiam asmeniui Vyriausybės įgaliota įstaiga atrenka du geriausiai centralizuotame konkurse įvertintus pretendentus. Jeigu į įstaigos vadovo, įstaigos vadovo pavaduotojo ir įstaigos padalinio vadovo pareigas po centralizuoto konkurso yra tik vienas pretendentas, gavęs ne mažesnį negu Vyriausybės nustatytą bendrą minimalų įvertinimą, įstaigos vadovą, įstaigos vadovo pavaduotoją ir įstaigos padalinio vadovą į pareigas priimančiam asmeniui, o kai į šias pareigas priima kolegiali valstybės ar savivaldybės institucija, – šios institucijos vadovui Vyriausybės įgaliota įstaiga teikia tik vieną pretendentą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
 
-3. Galutinį sprendimą dėl šio straipsnio 2 dalyje nurodytų pretendentų priėmimo į valstybės tarnautojo pareigas priima į pareigas priimantis asmuo.  
+3. Galutinį sprendimą, kurį iš šio straipsnio 2 dalyje nurodytų dviejų geriausiai centralizuotame konkurse įvertintų pretendentų priimti į valstybės tarnautojo pareigas, priima į pareigas priimantis asmuo. Galutinį sprendimą dėl šio straipsnio 2 dalyje nurodyto vieno pateikto pretendento priėmimo ar nepriėmimo į valstybės tarnautojo pareigas priima į pareigas priimantis asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -858,7 +865,10 @@ Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 14 straipsnis. Priėmimas į įstaigų vadovų pareigas
 
 
-1. Į įstaigų vadovų pareigas priimama 5 metų kadencijai konkurso būdu arba įstatymų nustatytais atvejais be konkurso. Asmuo negali eiti tos pačios valstybės ar savivaldybės institucijos ar įstaigos vadovo pareigas daugiau kaip dvi kadencijas iš eilės, jeigu kituose įstatymuose nenustatyta kitaip. Įstatymų nustatytais atvejais į įstaigų vadovų pareigas priimama politinio (asmeninio) pasitikėjimo pagrindu.
+1. Į įstaigų vadovų pareigas priimama 5 metų kadencijai konkurso būdu arba įstatymų nustatytais atvejais be konkurso. Įstaigos vadovas, kurio tarnybinė veikla pareigų eitos kadencijos metu visuose atliktuose tarnybinės veiklos vertinimuose buvo įvertinta gerai ir (arba) labai gerai, į tos pačios valstybės ar savivaldybės institucijos ar įstaigos vadovo pareigas antrai kadencijai gali būti skiriamas be konkurso. Asmuo negali eiti tos pačios valstybės ar savivaldybės institucijos ar įstaigos vadovo pareigų daugiau kaip dvi kadencijas iš eilės, jeigu kituose įstatymuose nenustatyta kitaip. Įstatymų nustatytais atvejais į įstaigų vadovų pareigas priimama politinio (asmeninio) pasitikėjimo pagrindu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -973,7 +983,10 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 
 
-10) nedalyvauti šio įstatymo 19 straipsnyje nurodytoje su valstybės tarnautojo pareigomis nesuderinamoje veikloje ir nenaudoti tarnybos (darbo) laiko kitiems tikslams, išskyrus kitą darbą, dirbamą turint valstybės tarnautoją į pareigas priėmusio asmens leidimą šio įstatymo 18 straipsnyje nustatyta tvarka, jeigu tai netrukdys valstybės tarnautojui tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat savivaldybės tarybos nario ir profesinės sąjungos atstovo pareigų atlikimą;
+10) nedalyvauti šio įstatymo 19 straipsnyje nurodytoje su valstybės tarnautojo pareigomis nesuderinamoje veikloje ir nenaudoti tarnybos (darbo) laiko kitiems tikslams, išskyrus kitą darbą ar kitą veiklą, vykdomą pagal šio įstatymo 18 straipsnio 1 dalį, taip pat savivaldybės tarybos nario, profesinės sąjungos atstovo pareigų atlikimą ir šio įstatymo 17 straipsnio 1 dalies 7 punkte nurodytų pareigų ėjimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -1125,7 +1138,19 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-5. Šio straipsnio 2, 3 ir 4 dalyse nurodyti asmenys priimami į valstybės tarnautojo pareigas, jeigu atitinka bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir jiems siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus. Asmenys, siekiantys atkurti įstaigos vadovo ar karjeros valstybės tarnautojo statusą, gali būti priimti į šias pareigas Vyriausybės nustatyta tvarka valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje siūlomos pareigos, patikrinus jų gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas. Šio straipsnio 2, 3 ir 4 dalyse nurodyti asmenys, kurie buvo priimti įstatymų nustatytai kadencijai, pagal šią dalį į pareigas priimami ne ilgiau kaip likusiai kadencijos daliai.
+41. Įstatymuose nustatytai kadencijai į pareigas priimti įstaigų vadovai, išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu, ar kadencijai priimti karjeros valstybės tarnautojai Vyriausybės nustatyta tvarka per 6 mėnesius nuo atleidimo iš pareigų dienos (kai iš pareigų atleidžiama šio įstatymo 51 straipsnio 1 dalies 5 punkte nustatytu pagrindu) gali būti priimti į lygiavertes ar žemesnes karjeros valstybės tarnautojo pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje be konkurso. 
+TAR pastaba. 17 straipsnio 41 dalies nuostatos taikomos įstatymuose nustatytai kadencijai į pareigas priimtiems įstaigų vadovams, išskyrus įstaigų vadovus, priimamus į pareigas politinio (asmeninio) pasitikėjimo pagrindu, ar kadencijai priimtiems karjeros valstybės tarnautojams, kurie Valstybės tarnybos įstatymo 51 straipsnio 1 dalies 5 punkte nustatytu pagrindu iš pareigų atleidžiami 2022-01-14 ar vėliau.
+Papildyta straipsnio dalimi:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
+
+
+
+
+5. Šio straipsnio 2, 3, 4 ir 41 dalyse nurodyti asmenys priimami į karjeros valstybės tarnautojo pareigas, jeigu atitinka šio įstatymo 4 ir 9 straipsniuose nustatytus reikalavimus. Šio straipsnio 2, 3, 4 ir 41 dalyse nurodyti asmenys gali būti priimti į karjeros valstybės tarnautojo pareigas Vyriausybės nustatyta tvarka valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje jiems siūlomos karjeros valstybės tarnautojo pareigos, patikrinus jų gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas. Šio straipsnio 2, 3 ir 4 dalyse nurodyti asmenys, kurie buvo priimti įstatymų nustatytai kadencijai, pagal šią dalį į pareigas priimami ne ilgiau kaip likusiai kadencijos daliai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -1148,36 +1173,42 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-18 straipsnis. Valstybės tarnautojų teisė dirbti kitą darbą
+18 straipsnis. Valstybės tarnautojų teisė dirbti kitą darbą, užsiimti kita veikla
 
 
-1. Valstybės tarnautojui leidžiama dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, ir gauti už šį darbą darbo užmokestį ar atlyginimą (toliau – dirbti kitą darbą), jeigu tai nesukelia interesų konflikto valstybės tarnyboje, nesudaro prielaidų valstybės tarnybą panaudoti privačiais interesais, nediskredituoja valstybės tarnybos autoriteto, nekliudo asmeniui, einančiam pareigas valstybės tarnyboje, tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai nėra darbas tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu valstybės tarnautojas turi valdingus įgaliojimus arba kontroliuoja, prižiūri jų veiklą arba priima kokius nors kitus sprendimus dėl tos įmonės, įstaigos ar organizacijos, ir kai nėra kitų aplinkybių, dėl kurių valstybės tarnautojai negali dirbti kito darbo ir gauti už šį darbą darbo užmokestį ar atlyginimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+1. Valstybės tarnautojas turi teisę pagal darbo sutartį dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, ir gauti už šį darbą darbo užmokestį ar atlyginimą (toliau – kitas darbas), taip pat užsiimti kita veikla ir gauti už ją pajamas (toliau – kita veikla), jeigu tai nėra su valstybės tarnautojo pareigomis nesuderinama veikla, kaip ji apibrėžta šio įstatymo 19 straipsnio 1 dalies 1 punkte.
+TAR pastaba. Valstybės tarnautojai, kurie 18 straipsnio 1 dalyje nurodyta kita veikla pradėjo verstis iki 2022-01-14 ir ja verčiasi 2022-01-14 ar vėliau, į pareigas priimančiam asmeniui ar jo įgaliotam asmeniui iki 2022-02-14 pateikia informaciją apie kitos veiklos pobūdį ir vykdymo laiką, jeigu mano, kad kita veikla gali būti nesuderinama su valstybės tarnautojo pareigomis išdėstytomis Valstybės tarnybos įstatymo 19 straipsnio 1 dalies 1 punkte nustatytais pagrindais.
+
+
+
+
+2. Gavus informacijos, dėl kurios kyla pagrįstų abejonių dėl šio įstatymo 19 straipsnio 1 dalies 1 punkte nurodytų aplinkybių buvimo, valstybės tarnautoją į pareigas priimantis asmuo ar jo įgaliotas asmuo paprašo valstybės tarnautoją pateikti informaciją apie kito darbo pobūdį, įmonės, įstaigos, organizacijos, kurioje valstybės tarnautojas dirba kitą darbą, vadovo ar jo įgalioto asmens išduotą pažymą apie valstybės tarnautojo atliekamas funkcijas, kitame darbe nustatytą darbo laiko normą, kitos veiklos pobūdį ir vykdymo laiką. Šią informaciją valstybės tarnautojas privalo pateikti per 5 darbo dienas nuo prašymo gavimo dienos.
+
+
+
+
+3. Jeigu valstybės tarnautojas, užsiimantis kita veikla, mano, kad kita veikla gali būti nesuderinama su valstybės tarnautojo pareigomis šio įstatymo 19 straipsnio 1 dalies 1 punkte nustatytais pagrindais, jis per 5 darbo dienas į pareigas priimančiam asmeniui ar jo įgaliotam asmeniui raštu pateikia informaciją apie kitos veiklos pobūdį ir vykdymo laiką. 
+
+
+
+
+4. Kai asmuo, užsiimantis kita veikla, priimamas į valstybės tarnautojo pareigas, jis per 5 darbo dienas nuo priėmimo į valstybės tarnautojo pareigas dienos į pareigas priimančiam asmeniui ar jo įgaliotam asmeniui raštu pateikia šio straipsnio 3 dalyje nurodytą informaciją, jeigu mano, kad kita veikla gali būti nesuderinama su valstybės tarnautojo pareigomis šio įstatymo 19 straipsnio 1 dalies 1 punkte nustatytais pagrindais. 
+TAR pastaba. 18 straipsnio 4 dalies nuostatos taikomos ir tiems asmenims, kurie kita veikla pradėjo verstis iki 2022-01-14.
+
+
+
+
+5. Valstybės tarnautoją į pareigas priimantis asmuo užtikrina, kad, šio straipsnio 2, 3 ir 4 dalyse nustatytais atvejais gavus informaciją, būtų įvertinta, ar nėra šio įstatymo 19 straipsnio 1 dalies 1 punkte nurodytų aplinkybių. Perkėlus valstybės tarnautoją į kitas valstybės tarnautojo pareigas ar pasikeitus jo pareigybės aprašyme nustatytoms funkcijoms, valstybės tarnautoją į pareigas priimantis asmuo užtikrina, kad būtų įvertinta, ar nėra šio įstatymo 19 straipsnio 1 dalies 1 punkte nurodytų aplinkybių, jeigu kyla pagrįstų abejonių dėl jų buvimo. 
+
+
+
+
+6. Jeigu nustatomos šio įstatymo 19 straipsnio 1 dalies 1 punkte nurodytos aplinkybės, valstybės tarnautoją į pareigas priimantis asmuo priima sprendimą įpareigoti valstybės tarnautoją ne vėliau kaip per 30 kalendorinių dienų pašalinti šio įstatymo 19 straipsnio 1 dalies 1 punkte nurodytas aplinkybes, o šio sprendimo neįvykdžius, sprendžiama dėl valstybės tarnautojo tarnybinės atsakomybės už galimą dalyvavimą su valstybės tarnautojo pareigomis nesuderinamoje veikloje, kaip ji apibrėžta šio įstatymo 19 straipsnio 1 dalies 1 punkte.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
-
-
-
-
-2. Sprendimą dėl leidimo valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį priima valstybės tarnautoją į pareigas priimantis asmuo valstybės tarnautojo prašymu. Valstybės tarnautojų prašymai leisti dirbti kitą darbą pagal darbo sutartį nagrinėjami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-
-
-
-
-3. Sprendimas dėl leidimo valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį galioja tol, kol asmuo dirba šį darbą. Jeigu toks sprendimas priimtas dėl valstybės tarnautojo kito darbo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, leidimas galioja iki projekto pabaigos. Valstybės tarnautoją perkėlus į kitas pareigas, pasikeitus jo pareigybės aprašyme nustatytoms funkcijoms, į pareigas priimantis asmuo, be valstybės tarnautojo atskiro prašymo, įvertina šio straipsnio 1 dalyje nurodytas aplinkybes ir prima sprendimą dėl leidimo valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį. 
-
-
-
-
-4. Jeigu atsiranda šio straipsnio 1 dalyje nurodytos aplinkybės, dėl kurių leidimas valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį negalėjo būti išduotas, sprendimą dėl leidimo valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį priėmęs asmuo šį sprendimą atšaukia. Sprendimai dėl leidimo valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį atšaukiami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-
-
-
-
-5. Sprendimas neleisti valstybės tarnautojui dirbti kito darbo pagal darbo sutartį, taip pat šio straipsnio 4 dalyje nurodytas sprendimas gali būti skundžiami teismui įstatymų nustatyta tvarka.
- 
-
-
 
 
 
@@ -1188,9 +1219,10 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 1. Valstybės tarnautojui draudžiama:
 
 
-1) užsiimti bet kokia veikla, jeigu tai sukelia interesų konfliktą valstybės tarnyboje; 
+1) dirbti kitą darbą ar užsiimti kita veikla, jeigu tai sukelia interesų konfliktą, sudaro prielaidas valstybės tarnybą panaudoti privačiais interesais, diskredituoja valstybės tarnybos autoritetą, kliudo asmeniui, einančiam pareigas valstybės tarnyboje, tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai yra kitas darbas ar kita veikla tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu valstybės tarnautojas turi valdingus įgaliojimus arba kontroliuoja, prižiūri jų veiklą arba priima kokius nors kitus sprendimus dėl tos įmonės, įstaigos ar organizacijos, arba kai yra kitų aplinkybių, dėl kurių valstybės tarnautojai negali dirbti kito darbo ar užsiimti kita veikla;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
 
 
@@ -1277,6 +1309,14 @@ Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 
 
 6. Kai yra tarnybinė būtinybė, karjeros valstybės tarnautojas gali būti laikinai perkeltas į įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) pareigas toje pačioje valstybės ar savivaldybės institucijoje, įstaigoje ar įstaigų sistemos įstaigoje į šias pareigas priimančio asmens sprendimu. 
+
+
+
+
+61. Karjeros valstybės tarnautojas su jo rašytiniu sutikimu gali būti laikinai perkeltas į politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar įstaigos vadovo, priimamo į pareigas politinio (asmeninio) pasitikėjimo pagrindu, pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje jį pasirinkusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimų laikui arba kituose įstatymuose nustatytam laikui, kuriam politinio (asmeninio) pasitikėjimo valstybės tarnautojas buvo priimtas į pareigas, ir jeigu jis atitinka tos pareigybės aprašyme nustatytus specialiuosius reikalavimus.
+Papildyta straipsnio dalimi:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -1543,7 +1583,11 @@ Politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar pakaitinio politini
 8. Kai valstybės tarnautojo tarnybinė veikla įvertinama labai gerai, tiesioginio vadovo rašytiniu motyvuotu siūlymu valstybės tarnautoją į pareigas priimančio asmens sprendimu:
 
 
-1) valstybės tarnautojui gali būti nustatoma didesnė pareiginė alga, taikant ne mažiau kaip 0,5 ir ne daugiau kaip 1,5 didesnį koeficientą, negu jam iki tarnybinės veiklos vertinimo nustatytas pareiginės algos koeficientas, tačiau neviršijant tai pareigybei nustatyto didžiausio koeficiento, arba
+1) valstybės tarnautojui gali būti nustatoma didesnė pareiginė alga, taikant ne mažiau kaip 0,5 didesnį pareiginės algos koeficientą, negu jam iki tarnybinės veiklos vertinimo buvo nustatytas pareiginės algos koeficientas, tačiau neviršijant tai pareigybei nustatyto didžiausio pareiginės algos koeficiento; jeigu iki tai pareigybei nustatyto didžiausio pareiginės algos koeficiento trūksta mažiau kaip 0,5 pareiginės algos koeficiento, valstybės tarnautojui nustatomas tai pareigybei nustatytas didžiausias pareiginės algos koeficientas, arba
+TAR pastaba. 27 straipsnio 8 dalies 1 punkto nuostatos taikomos vertinant 2021 metų valstybės tarnautojų tarnybinę veiklą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -1563,7 +1607,10 @@ Politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar pakaitinio politini
 9. Kai valstybės tarnautojo tarnybinė veikla įvertinama nepatenkinamai, tiesioginio vadovo rašytiniu motyvuotu siūlymu valstybės tarnautoją į pareigas priimančio asmens sprendimu: 
 
 
-1) valstybės tarnautojui gali būti nustatoma mažesnė pareigybės pareiginės algos koeficientų intervale esanti pareiginė alga, taikant 0,5 mažesnį koeficientą, negu jam iki tarnybinės veiklos vertinimo nustatytas pareiginės algos koeficientas, tačiau ne mažesnį, negu tai pareigybei nustatytas mažiausias koeficientas, arba 
+1) valstybės tarnautojui gali būti nustatoma mažesnė pareigybės pareiginės algos koeficientų intervale esanti pareiginė alga, taikant ne mažiau kaip 0,5 ir ne daugiau kaip 1,5 mažesnį pareiginės algos koeficientą, negu jam iki tarnybinės veiklos vertinimo buvo nustatytas pareiginės algos koeficientas, tačiau ne mažesnį, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas, arba
+Straipsnio punkto pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -1702,7 +1749,10 @@ Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 
 
 
-2. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų bazinis dydis, atsižvelgiant į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Jeigu nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertindamas ir atsižvelgdamas į šioje dalyje numatytas aplinkybes, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
+2. Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio. Ateinančių finansinių metų bazinis dydis, atsižvelgiant į praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą), minimaliosios mėnesinės algos dydį ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, nustatomas nacionalinėje kolektyvinėje sutartyje. Nacionalinėje kolektyvinėje sutartyje sulygtą bazinį dydį tvirtina Seimas. Jeigu nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 dienos, ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, įvertindamas ir atsižvelgdamas į šioje dalyje numatytas aplinkybes, tvirtina Seimas. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatyta tvarka nustatomos ir paskelbiamos išskirtinės aplinkybės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -1715,45 +1765,47 @@ Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 4. Kitais atvejais, negu nurodyta šio straipsnio 3 dalyje, valstybės tarnautojui pareiginė alga nustatoma taip:
 
 
-1) perkeliamam į aukštesnes pareigas nustatoma šios pareigybės pareiginės algos koeficientų intervale esanti pareiginė alga, kuri yra nustatoma taikant 0,5 didesnį koeficientą, negu jam iki perkėlimo buvo nustatytas pareiginės algos koeficientas, tačiau ne didesnį negu tai pareigybei nustatytas didžiausias koeficientas ir ne mažesnį negu tai pareigybei nustatytas mažiausias koeficientas; 
+1) perkeliamam ar laikinai perkeliamam į aukštesnes pareigas nustatoma šios pareigybės pareiginės algos koeficientų intervale esanti pareiginė alga, taikant ne mažiau kaip 1 didesnį pareiginės algos koeficientą, negu jam iki perkėlimo buvo nustatytas pareiginės algos koeficientas, tačiau ne didesnį, negu tai pareigybei nustatytas didžiausias pareiginės algos koeficientas, ir ne mažesnį, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas; jeigu iki pareigybei, į kurią yra perkeliama, nustatyto didžiausio pareiginės algos koeficiento trūksta mažiau kaip vieno pareiginės algos koeficiento, valstybės tarnautojui nustatomas tai pareigybei, į kurią yra perkeliama, nustatytas didžiausias pareiginės algos koeficientas;
 
 
 
 
-2) laikinai perkeliamam į lygiavertes ar žemesnes pareigas nustatoma jo turėta pareiginė alga;
+2) perkeliamam ar laikinai perkeliamam į lygiavertes pareigas nustatoma jo iki perkėlimo turėta pareiginė alga, o perkeliamam ar laikinai perkeliamam iš valstybės tarnautojo, neturinčio pavaldžių asmenų, pareigų į lygiavertes valstybės tarnautojo, turinčio pavaldžių asmenų, pareigas – jo iki perkėlimo turėta pareiginė alga, taikant ne mažiau kaip 1 didesnį pareiginės algos koeficientą, negu jam iki perkėlimo buvo nustatytas pareiginės algos koeficientas, tačiau visais šiame punkte nustatytais atvejais pareiginės algos koeficientas negali būti didesnis, negu tai pareigybei nustatytas didžiausias pareiginės algos koeficientas, arba mažesnis, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas; jeigu iki valstybės tarnautojo, turinčio pavaldžių asmenų, pareigybei nustatyto didžiausio pareiginės algos koeficiento trūksta mažiau kaip vieno pareiginės algos koeficiento, į lygiavertes valstybės tarnautojo, turinčio pavaldžių asmenų, pareigas perkeliamam valstybės tarnautojui nustatomas tai pareigybei, į kurią yra perkeliama, nustatytas didžiausias pareiginės algos koeficientas;
 
 
 
 
-3) perkeliamam arba atkuriančiam statusą į lygiavertes pareigas, nustatoma jo turėta pareiginė alga;
+3) atkuriančiam statusą į lygiavertes pareigas nustatomas ne mažesnis, negu jam iki atleidimo iš pareigų nustatytas pareiginės algos koeficientas, tačiau ne didesnis, negu tai pareigybei nustatytas didžiausias pareiginės algos koeficientas, ir ne mažesnis, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas; atkuriančiam statusą į žemesnes pareigas nustatoma šios pareigybės pareiginės algos koeficientų intervale esanti pareiginė alga, kuri yra nustatoma taikant 0,5 mažesnį pareiginės algos koeficientą, negu jam iki atleidimo iš pareigų nustatytas pareiginės algos koeficientas, tačiau ne didesnį, negu tai pareigybei nustatytas didžiausias pareiginės algos koeficientas, ir ne mažesnį, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas;
 
 
 
 
-4) perkeliamam arba atkuriančiam statusą į žemesnes pareigas nustatoma šios pareigybės pareiginės algos koeficientų intervale esanti pareiginė alga, kuri yra nustatoma taikant 0,5 mažesnį koeficientą, negu jam iki perkėlimo nustatytas pareiginės algos koeficientas, tačiau ne didesnį negu tai pareigybei nustatytas didžiausias koeficientas ir ne mažesnį negu tai pareigybei nustatytas mažiausias koeficientas;
+4) perkeliamam į žemesnes pareigas nustatoma šios pareigybės pareiginės algos koeficientų intervale esanti pareiginė alga, kuri yra nustatoma taikant ne mažiau kaip 0,5 ir ne daugiau kaip 1,5 mažesnį pareiginės algos koeficientą, negu jam iki perkėlimo nustatytas pareiginės algos koeficientas, tačiau ne didesnį, negu tai pareigybei nustatytas didžiausias pareiginės algos koeficientas, ir ne mažesnį, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas; laikinai perkeliamam į žemesnes pareigas nustatoma jo iki perkėlimo turėta pareiginė alga;
 
 
 
 
-5) valstybės tarnautojo tarnybinę veiklą įvertinus labai gerai arba nepatenkinamai šio įstatymo 27 straipsnio 8 ir 9 dalyse nustatyta tvarka;
+5) valstybės tarnautojo tarnybinę veiklą įvertinus labai gerai arba nepatenkinamai, šio įstatymo 27 straipsnio 8 ir 9 dalyse nustatyta tvarka;
 
 
 
 
-6) Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareiginė alga nustatoma iš šiai pareigybei nustatyto pareiginės algos koeficientų intervalo, tačiau visoms Seimo nariui įsteigtoms Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigybėms nustatytų pareiginių algų koeficientų suma negali viršyti Seimo nariui įsteigtų Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigybių koeficientų intervalo vidurkių sumos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+6) Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareiginė alga nustatoma iš šiai pareigybei nustatyto pareiginės algos koeficientų intervalo, tačiau visoms Seimo nariui įsteigtoms Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigybėms nustatytų pareiginių algų koeficientų suma negali viršyti Seimo nariui įsteigtų Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigybių pareiginės algos koeficientų intervalo vidurkių sumos;
+
+
+
+
+7) įstaigos vadovui – Valstybinės duomenų apsaugos inspekcijos vadovui nustatomas didžiausias šio įstatymo 1 priede nustatytas pareiginės algos koeficientas iš tai pareigybei nustatyto pareiginės algos koeficientų intervalo;
+
+
+
+
+8) karjeros valstybės tarnautojui, grąžintam iš politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar įstaigos vadovo, priimamo į pareigas politinio (asmeninio) pasitikėjimo pagrindu, pareigų į eitas karjeros valstybės tarnautojo pareigas, kai pasibaigia karjeros valstybės tarnautojo perkėlimo į politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar įstaigos vadovo, priimamo į pareigas politinio (asmeninio) pasitikėjimo pagrindu, pareigas laikotarpis, – nustatomas ne mažesnis, negu jam iki perkėlimo nustatytas pareiginės algos koeficientas, tačiau ne didesnis, negu tai pareigybei nustatytas didžiausias pareiginės algos koeficientas, ir ne mažesnis, negu tai pareigybei nustatytas mažiausias pareiginės algos koeficientas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
-
-
-
-
-7) įstaigos vadovui – Valstybinės duomenų apsaugos inspekcijos vadovui nustatomas didžiausias šio įstatymo 1 priede nustatytas pareiginės algos koeficientas iš tai pareigybei nustatyto pareiginės algos koeficientų intervalo. 
-Papildyta straipsnio punktu:
-Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
- 
-
-
 
 
 
@@ -1769,28 +1821,32 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 30 straipsnis. Priemokos ir priedas už tarnybos stažą 
 
 
-1. Valstybės tarnautojui ne ilgesniam kaip 6 mėnesių per kalendorinius metus laikotarpiui gali būti skiriama viena iš šių priemokų:
+1. Valstybės tarnautojui skiriamos šios priemokos:
 
 
-1) už pavadavimą, kai raštu pavedama laikinai atlikti ir kito valstybės tarnautojo pareigybei nustatytas funkcijas. Priemokos už pavadavimą dydį nustato valstybės tarnautoją į pareigas priimantis asmuo, tačiau ši priemoka negali būti mažesnė kaip 10 procentų ir didesnė kaip 40 procentų pareiginės algos;
+1) už pavadavimą, kai raštu pavedama laikinai atlikti ir kito valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, pareigybei nustatytas funkcijas, ar profesinės karo tarnybos kario pareigybei nustatytas funkcijas, išskyrus funkcijas, kurių valstybės tarnautojas negali atlikti dėl profesinės karo tarnybos specifikos. Priemokos už pavadavimą dydį nustato valstybės tarnautoją į pareigas priimantis asmuo, tačiau ši priemoka negali būti mažesnė kaip 10 procentų ir didesnė kaip 40 procentų pareiginės algos;
 
 
 
 
-2) už papildomų užduočių, suformuluotų raštu, atlikimą, kai dėl to viršijamas įprastas darbo krūvis arba kai atliekamos pareigybės aprašyme nenumatytos funkcijos. Priemokos už papildomų užduočių atlikimą dydį nustato valstybės tarnautoją į pareigas priimantis asmuo, tačiau ši priemoka negali būti mažesnė kaip 10 procentų ir didesnė kaip 40 procentų pareiginės algos. Kai ši priemoka skiriama už dalyvavimą įgyvendinant Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšomis finansuojamus projektus, trunkančius ilgiau negu 6 mėnesius, šioje dalyje nurodytas apribojimas dėl priemokos skyrimo ne ilgesniam kaip 6 mėnesių per kalendorinius metus laikotarpiui netaikomas ir šiame punkte numatyta priemoka gali būti skiriama iki projekto pabaigos. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+2) už papildomų užduočių, suformuluotų raštu, atlikimą, kai dėl to viršijamas įprastas darbo krūvis arba kai atliekamos pareigybės aprašyme nenumatytos funkcijos. Priemokos už papildomų užduočių atlikimą dydį nustato valstybės tarnautoją į pareigas priimantis asmuo, tačiau ši priemoka negali būti mažesnė kaip 10 procentų ir didesnė kaip 40 procentų pareiginės algos. 
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytų priemokų suma negali viršyti 40 procentų pareiginės algos. 
+
+
+
+
+3. Valstybės tarnautojams priedą už tarnybos stažą sudaro vienas procentas pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus. Šio priedo suma negali viršyti 30 procentų pareiginės algos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
-
-
-
-
-
-
-2. Valstybės tarnautojams priedą už tarnybos stažą sudaro vienas procentas pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus. Šio priedo suma negali viršyti 30 procentų pareiginės algos.
- 
-
-
 
 
 
@@ -2200,23 +2256,10 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 
 
-37 straipsnis. Atsakomybė už neteisėtą sprendimą neleisti valstybės tarnautojui dirbti kito darbo pagal darbo sutartį arba neteisėtą sprendimą leisti valstybės tarnautojui dirbti kitą darbą
-
-
-1. Valstybės ar savivaldybės institucija ar įstaiga turi atlyginti valstybės tarnautojui neteisėtu sprendimu neleisti valstybės tarnautojui dirbti kito darbo pagal darbo sutartį padarytą žalą. Žala, atsiradusi dėl šio sprendimo, atlyginama Lietuvos Respublikos civilinio kodekso nustatyta tvarka. 
-
-
-
-
-2. Sprendimą priėmusio asmens padarytą žalą atlyginusi valstybės ar savivaldybės institucija ar įstaiga turi regreso teisę reikalauti iš žalą padariusio sprendimą priėmusio asmens tokio dydžio žalos atlyginimo, kiek ji sumokėjo, bet ne daugiau kaip 9 vidutinių jo darbo užmokesčių. Žalos atlyginimas išieškomas iš sprendimą priėmusio asmens darbo užmokesčio ir negali viršyti 20 procentų jam priklausančio per mėnesį mokėti darbo užmokesčio. Ginčus dėl žalos atlyginimo sprendžia teismas.
-
-
-
-
-3. Įstaigos vadovą į pareigas priimantis asmuo turi teisę reikalauti panaikinti neteisėtą sprendimą leisti valstybės tarnautojui dirbti kitą darbą pagal darbo sutartį ir spręsti įstaigos vadovo atsakomybės klausimą.
+37 straipsnis. Neteko galios nuo 2022-01-14.
+Straipsnio pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
-
-
 
 
 
@@ -2463,9 +2506,10 @@ VALSTYBĖS TARNAUTOJŲ ATOSTOGOS IR GARANTIJOS
 47 straipsnis. Tarnybos stažas 
 
 
-1. Pagal šį įstatymą tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant šio įstatymo 5 straipsnio 2 ir 3 dalyse, 6 dalies 1, 2, 3, 4, 8, 9 ir 10 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir mero pavaduotoju), metų skaičius. Į tarnybos Lietuvos valstybei stažą taip pat įskaitomas laikotarpis einant Valstybės tarnybos įstatymo 33 straipsnio 3 dalyje (2001 m. rugsėjo 27 d. įstatymo Nr. IX-525 redakcija) nustatytas pareigas. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomas kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, atleidimo nuo tarnybinių pareigų dalyvauti Seimo, Respublikos Prezidento, Europos Parlamento ar savivaldybių tarybų rinkimuose pagal šio įstatymo 17 straipsnio 1 dalies 6 punktą, perkėlimo į pareigas tarptautinėje institucijoje ar užsienio valstybės institucijoje pagal šio įstatymo 25 straipsnio 3 dalį, darbo tarptautinėje institucijoje ar užsienio valstybės institucijoje laikotarpiai, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogos dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, mokymosi atostogos, pagal šio įstatymo 43, 44 ir 45 straipsnius suteiktų atostogų laikas ir ligos išmokos gavimo laikotarpiai. Atsižvelgiant į tarnybos stažą, nustatomi šio įstatymo 30 straipsnio 2 dalyje nurodyto priedo dydis ir šio įstatymo 42 straipsnio 2 dalyje nurodytų kasmetinių papildomų atostogų trukmė. 
+1. Pagal šį įstatymą tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant šio įstatymo 5 straipsnio 2 ir 3 dalyse, 6 dalies 1, 2, 3, 4, 8, 9, 10, 11 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir mero pavaduotoju), metų skaičius. Į tarnybos Lietuvos valstybei stažą taip pat įskaitomas laikotarpis einant Valstybės tarnybos įstatymo 33 straipsnio 3 dalyje (2001 m. rugsėjo 27 d. įstatymo Nr. IX-525 redakcija) nustatytas pareigas. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomi kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, atleidimo nuo tarnybinių pareigų dalyvauti Seimo, Respublikos Prezidento, savivaldybių tarybų rinkimuose ar rinkimuose į Europos Parlamentą ar pagal šio įstatymo 17 straipsnio 1 dalies 6 punktą, perkėlimo į pareigas tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pagal šio įstatymo 25 straipsnio 3 dalį, darbo tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiai, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogos dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, mokymosi atostogos, pagal šio įstatymo 43, 44 ir 45 straipsnius suteiktų atostogų laikas ir ligos išmokos gavimo laikotarpiai. Atsižvelgiant į tarnybos stažą, nustatomi šio įstatymo 30 straipsnio 3 dalyje nurodyto priedo dydis ir šio įstatymo 42 straipsnio 2 dalyje nurodytų kasmetinių papildomų atostogų trukmė.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
 
 
@@ -2560,7 +2604,10 @@ Nr. XIII-3399, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24541
 49 straipsnis. Kitos garantijos
 
 
-1. Karjeros valstybės tarnautojas, kurio pareigybė naikinama, su jo sutikimu paskiriamas į kitas lygiavertes karjeros valstybės tarnautojo pareigas, o jeigu tokių pareigų nėra ir valstybės tarnautojas sutinka, – į žemesnes pareigas. Jeigu iki pareigybės panaikinimo karjeros valstybės tarnautojas į kitas pareigas nepaskiriamas, jis iš pareigų atleidžiamas. Valstybės tarnautojui apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš vieną mėnesį iki pareigybės panaikinimo. Asmeniui, kuriam iki teisės gauti visą senatvės pensiją liko mažiau kaip 5 metai, šis įspėjimo terminas dvigubinamas, o neįgaliajam, moteriai ir (ar) vyrui, auginantiems vaiką (įvaikį) iki 14 metų, moteriai ir (ar vyrui), auginantiems neįgalų vaiką (įvaikį) iki 18 metų, asmeniui, kuriam iki teisės gauti visą senatvės pensiją liko mažiau kaip 2 metai, – trigubinamas. Nėščiai moteriai (kai valstybės ar savivaldybės institucija ar įstaiga likviduojama) apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš 4 mėnesius iki pareigybės panaikinimo.
+1. Karjeros valstybės tarnautojas ar įstaigos vadovas, išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu, kurio pareigybė naikinama, su jo rašytiniu sutikimu paskiriamas į kitas lygiavertes karjeros valstybės tarnautojo pareigas, o jeigu tokių pareigų nėra ir valstybės tarnautojas raštu sutinka, – į žemesnes karjeros valstybės tarnautojo pareigas. Jeigu iki pareigybės panaikinimo karjeros valstybės tarnautojas ar įstaigos vadovas, išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu, į kitas pareigas nepaskiriamas, jis iš pareigų atleidžiamas. Valstybės tarnautojui apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš vieną mėnesį iki pareigybės panaikinimo. Asmeniui, kuriam iki teisės gauti visą senatvės pensiją liko mažiau kaip 5 metai, šis įspėjimo terminas dvigubinamas, o neįgaliajam, moteriai ir (ar) vyrui, auginantiems vaiką (įvaikį) iki 14 metų, moteriai ir (ar) vyrui, auginantiems neįgalų vaiką (įvaikį) iki 18 metų, asmeniui, kuriam iki teisės gauti visą senatvės pensiją liko mažiau kaip 2 metai, – trigubinamas. Nėščiai moteriai (kai valstybės ar savivaldybės institucija ar įstaiga likviduojama) apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš 4 mėnesius iki pareigybės panaikinimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -2639,11 +2686,12 @@ Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 
 
 
-5. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat dėl atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 21 straipsnį, išskyrus 21 straipsnio 31 dalį, negali eiti pareigų. Ši garantija kadencijai priimtam karjeros valstybės tarnautojui taikoma ne ilgiau negu iki kadencijos pabaigos.
+5. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat dėl atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl perkėlimo į politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar įstaigos vadovo, priimamo į pareigas politinio (asmeninio) pasitikėjimo pagrindu, pareigas, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 21 straipsnį, išskyrus 21 straipsnio 31 dalį, negali eiti pareigų. Ši garantija kadencijai priimtam karjeros valstybės tarnautojui taikoma ne ilgiau negu iki kadencijos pabaigos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1817, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21837
 Nr. XIII-2679, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21320
 Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
 
 
@@ -2659,27 +2707,44 @@ Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 
 
 
-8. Valstybės tarnautojams, kurių materialinė būklė sunki dėl jų pačių ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas valstybės tarnautojas, ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 minimaliųjų mėnesinių algų materialinė pašalpa. Pašalpą skiria valstybės tarnautoją į pareigas priimantis asmuo, o kai valstybės tarnautoją į pareigas priima Vyriausybė ar savivaldybės taryba, – Ministras Pirmininkas, savivaldybės meras iš valstybės ar savivaldybės institucijai ar įstaigai skirtų lėšų. Įstaigos vadovui pašalpa skiriama iš jo vadovaujamai įstaigai skirtų lėšų.
-
-
-
-
-9. Valstybės tarnautojai, kuriuos valstybės ar savivaldybių institucijos ar įstaigos siunčia į užsienio komandiruotę, draudžiami draudimu nuo nelaimingų atsitikimų ir draudimu ligos atvejui. Draudimo išlaidas apmoka valstybės tarnautoją į užsienio komandiruotę siunčianti valstybės ar savivaldybės institucija ar įstaiga iš savo biudžeto lėšų. 
-
-
-
-
-10. Prekybos atstovams ir kartu su jais užsienyje gyvenantiems šeimos nariams taikomos specialiesiems atašė nustatytos socialinės ir kitos garantijos. 
+8. Karjeros valstybės tarnautojo, kuriam suėjo 65 metai, valstybės tarnyba gali būti pratęsta, jeigu jo tarnybinė veikla per paskutinius trejus metus buvo vertinta tik gerai arba labai gerai ir jis neturi galiojančių tarnybinių nuobaudų. Šio amžiaus sukakusio valstybės tarnautojo tarnybą jo sutikimu gali pratęsti jį į pareigas priėmęs asmuo. Apie būsimą tarnybos pratęsimą jis privalo pranešti Vyriausybės įgaliotai įstaigai ne vėliau kaip prieš 10 kalendorinių dienų iki tarnybos pratęsimo dienos. Karjeros valstybės tarnautojo tarnybos laikas pratęsiamas dar vieneriems metams ir bendras pratęstas tarnybos laikas negali viršyti penkerių metų. 
 Papildyta straipsnio dalimi:
-Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
 
 
 
 
-11. Kiti įstatymai gali nustatyti ir kitų garantijų.
+9. Valstybės tarnautojams, kurių materialinė būklė sunki dėl jų pačių ligos, artimųjų giminaičių, sutuoktinio, partnerio, sugyventinio, jo tėvų, vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas valstybės tarnautojas, ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 minimaliųjų mėnesinių algų materialinė pašalpa. Pašalpą skiria valstybės tarnautoją į pareigas priimantis asmuo, o kai valstybės tarnautoją į pareigas priima Vyriausybė ar savivaldybės taryba, – Ministras Pirmininkas, savivaldybės meras iš valstybės ar savivaldybės institucijai ar įstaigai skirtų lėšų. Įstaigos vadovui pašalpa skiriama iš jo vadovaujamai įstaigai skirtų lėšų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
+
+
+
+
+10. Valstybės tarnautojai, kuriuos valstybės ar savivaldybių institucijos ar įstaigos siunčia į užsienio komandiruotę, draudžiami draudimu nuo nelaimingų atsitikimų ir draudimu ligos atvejui. Draudimo išlaidas apmoka valstybės tarnautoją į užsienio komandiruotę siunčianti valstybės ar savivaldybės institucija ar įstaiga iš savo biudžeto lėšų. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
+
+
+
+
+11. Prekybos atstovams ir kartu su jais užsienyje gyvenantiems šeimos nariams taikomos specialiesiems atašė nustatytos socialinės ir kitos garantijos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
+
+
+
+
+12. Kiti įstatymai gali nustatyti ir kitų garantijų.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
 
 
@@ -2754,9 +2819,10 @@ Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 
 
-6) pasibaigia pakaitinio valstybės tarnautojo priėmimo laikas arba valstybės tarnautojui sukanka 65 metai, išskyrus šio straipsnio 8 dalyje numatytą atvejį, arba baigiasi politinio (asmeninio) pasitikėjimo valstybės tarnautoją į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimai;
+6) pasibaigia pakaitinio valstybės tarnautojo priėmimo laikas arba valstybės tarnautojui sukanka 65 metai, išskyrus šio įstatymo 49 straipsnio 8 dalyje ir šio straipsnio 8 dalyje numatytus atvejus, arba baigiasi politinio (asmeninio) pasitikėjimo valstybės tarnautoją į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimai;
 Straipsnio punkto pakeitimai:
 Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
 
 
@@ -2829,12 +2895,18 @@ Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 
 
 
-3. Politinio (asmeninio) pasitikėjimo valstybės tarnautojas iš pareigų atleidžiamas paskutinę jį į pareigas pasirinkusio valstybės politiko įgaliojimų dieną ar naujai sudarytos kolegialios valstybės institucijos pirmajame posėdyje.
+3. Politinio (asmeninio) pasitikėjimo valstybės tarnautojas iš pareigų atleidžiamas paskutinę jį į pareigas pasirinkusio valstybės politiko įgaliojimų dieną ar naujai sudarytos kolegialios valstybės institucijos pirmajame posėdyje, išskyrus atvejus, kai iš politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar įstaigos vadovo, priimamo į pareigas politinio (asmeninio) pasitikėjimo pagrindu, pareigų grąžinama į šio įstatymo 21 straipsnio 61 dalyje nurodytas eitas karjeros valstybės tarnautojo pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
 
-4. Ketinantis atsistatydinti savo noru valstybės tarnautojas privalo apie atsistatydinimą įspėti jį į pareigas priimantį asmenį ne vėliau kaip prieš 14 kalendorinių dienų. Valstybės tarnautoją į pareigas priimančio asmens sutikimu valstybės tarnautojas gali būti atleistas ir anksčiau. Valstybės tarnautojas atšaukti prašymą dėl atsistatydinimo savo noru turi teisę ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo dienos. Po to jis gali atšaukti prašymą tik jį į pareigas priimančio asmens sutikimu.
+4. Ketinantis atsistatydinti savo noru valstybės tarnautojas privalo apie atsistatydinimą įspėti jį į pareigas priimantį asmenį ne vėliau kaip prieš 20 kalendorinių dienų, išskyrus atvejus, kai jį į pareigas priimantis asmuo sutinka įspėjimo terminą trumpinti. Valstybės tarnautojas atšaukti prašymą dėl atsistatydinimo savo noru turi teisę ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo dienos. Po to valstybės tarnautojas prašymą atsistatydinti savo noru gali atšaukti tik su jį į pareigas priimančio asmens sutikimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -4257,3 +4329,8 @@ Dėl Lietuvos Respublikos valstybės tarnybos įstatymo (2018 m. birželio 29 d.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-711, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25137
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 11, 14, 16, 17, 18, 19, 21, 27, 29, 30, 47, 49 ir 51 straipsnių pakeitimo ir 37 straipsnio pripažinimo netekusiu galios įstatymas
