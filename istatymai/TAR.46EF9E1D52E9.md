@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-01-21 iki 2022-01-13
+Suvestinė redakcija nuo 2022-01-14 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
  
@@ -556,7 +556,10 @@ Diplomatinė atstovybė, konsulinė įstaiga ir specialioji misija finansuojamos
 
 
 
-4. Su diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos darbuotojais, kurie nėra valstybės tarnautojai ar kariai, (administratoriais, raštvedžiais, sekretoriais, specialiaisiais kurjeriais, ūkvedžiais, vairuotojais, vyresniaisiais specialiaisiais kurjeriais, valytojais, kiemsargiais) Užsienio reikalų ministerija ar jos įgaliotos diplomatinės atstovybės, konsulinės įstaigos, specialiosios misijos, atsižvelgdamos į Lietuvos Respublikos darbo kodekso 68 straipsnio 4 dalį, sudaro terminuotas darbo sutartis. Užsienio reikalų ministras tvirtina tipines šių pareigybių aprašymų formas, kuriose nurodomi bendri specialieji reikalavimai, taikomi pareigybei, ir bendros (konkrečiam darbui atlikti reikalingos) darbo funkcijos, (toliau – tipinė pareigybės aprašymo forma) ir darbuotojų pareigybių aprašymus, kuriuose gali būti nurodyti ir kiti, negu nurodyta tipinėje pareigybės aprašymo formoje, specialieji reikalavimai, taikomi konkrečiai pareigybei, ir funkcijos. 
+4. Su diplomatinės atstovybės, konsulinės įstaigos ar specialiosios misijos darbuotojais, kurie nėra valstybės tarnautojai ar kariai, (administratoriais, raštvedžiais, sekretoriais, specialiaisiais kurjeriais, ūkvedžiais, vairuotojais, vyresniaisiais specialiaisiais kurjeriais, valytojais, kiemsargiais) Užsienio reikalų ministerija ar jos įgaliotos diplomatinės atstovybės, konsulinės įstaigos, specialiosios misijos, atsižvelgdamos į Lietuvos Respublikos darbo kodekso 68 straipsnio 4 dalį, sudaro terminuotas darbo sutartis. Užsienio reikalų ministras tvirtina šių pareigybių skaičių, tipines šių pareigybių aprašymų formas, kuriose nurodomi bendri specialieji reikalavimai, taikomi pareigybei, ir bendros (konkrečiam darbui atlikti reikalingos) darbo funkcijos, (toliau – tipinė pareigybės aprašymo forma) ir darbuotojų pareigybių aprašymus, kuriuose gali būti nurodyti ir kiti, negu nurodyta tipinėje pareigybės aprašymo formoje, specialieji reikalavimai, taikomi konkrečiai pareigybei, ir funkcijos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-864, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00167
+ 
 
 
 
@@ -3664,6 +3667,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 diplomatinės tarnybos įstatymo 
@@ -3777,9 +3782,10 @@ LIETUVOS RESPUBLIKOS DIPLOMATŲ PAREIGYBIŲ GRUPĖS IR PAREIGINIŲ ALGŲ KOEFICI
 
  
  
+part_831634e06cde420c8d86b6c0711e8736_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -3829,9 +3835,10 @@ PRIEDAS UŽ DIPLOMATINĮ RANGĄ
 
 
  
+part_c36581baa1dd491cbde71bf9e28ffe7f_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -3908,8 +3915,7 @@ SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
 Priedo pakeitimai:
 Nr. XIII-1800, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21804
  
-
-
+part_1fb0a05cd4034a9fbfccf25e9370cf43_end
 
 
 Pakeitimai:
@@ -4078,3 +4084,8 @@ Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 92 ir 95 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-157, 2021-01-12, paskelbta TAR 2021-01-20, i. k. 2021-00904
 Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 23, 28, 45, 65, 91, 92 ir 95 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-864, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00167
+Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 17 straipsnio pakeitimo įstatymas
