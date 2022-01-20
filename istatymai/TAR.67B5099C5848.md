@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-19
+Suvestinė redakcija nuo 2022-01-20 iki 2022-02-09
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -660,7 +660,9 @@ Nr. XIII-2079, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07318
 
 
 
-101) dėl užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo; šio punkto nuostatos taikomos tais atvejais, kai yra paskelbta karo padėtis, nepaprastoji padėtis, taip pat ekstremalioji situacija ar ekstremalusis įvykis dėl masinio užsieniečių antplūdžio;
+101) Neteko galios nuo 2022-01-20
+Straipsnio punkto naikinimas:
+Nr. XIV-896, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00753
 Papildyta straipsnio punktu:
 Nr. XIV-508, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16269
  
@@ -7071,3 +7073,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 23 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 14, 18 ir 112 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-896, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00753
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 20 straipsnio pakeitimo įstatymas
