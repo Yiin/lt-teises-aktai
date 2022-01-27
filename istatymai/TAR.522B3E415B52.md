@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-26
+Suvestinė redakcija nuo 2022-01-27 iki 2022-07-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1263,12 +1264,8 @@ Nr. IX-1490, 2003-04-08, Žin., 2003, Nr. 39-1765 (2003-04-25)
 
 
 Aukščiausiasis Teismas ir Vyriausiasis administracinis teismas, kai nagrinėjant bylą iškilo principinis klausimas, susijęs su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu, gali kreiptis į Europos Žmogaus Teisių Teismą su prašymu pateikti dėl to konsultacinę išvadą.
-TAR pastaba. Įstatymas papildomas straipsniu nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01).
 
 
-Papildyta straipsniu:
-Nr. XII-1776, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09620
- 
 
 
 
@@ -2243,18 +2240,15 @@ Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
  
 
 
-63 straipsnis. Teisėjo perkėlimas į kitą tos pačios pakopos teismą, kitus teismo rūmus arba į kitos jurisdikcijos tos pačios pakopos teismą
+63 straipsnis. Teisėjo perkėlimas į kitą teismą arba į kitus teismo rūmus
 
 
 1. Apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas jo pageidavimu gali būti perkeltas teisėju į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą. Teisėjas gali būti perkeltas į kitą tos pačios pakopos teismą arba į kitos jurisdikcijos tos pačios pakopos teismą praėjus ne mažiau kaip trejiems metams nuo paskyrimo į teisėjo pareigas arba nuo perkėlimo šioje dalyje nustatytais atvejais. Teisėjas į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus gali būti perkeltas, netaikant šioje dalyje nustatytų terminų.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
- 
 
 
 
 
-2. Sprendžiant teisėjo perkėlimo į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus klausimą, šio straipsnio 1 dalyje numatytais atvejais taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka.
+2. Sprendžiant teisėjo perkėlimo į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus klausimą, šio straipsnio 1 dalyje numatytais atvejais netaikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka. 
 
 
 
@@ -2264,7 +2258,7 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
-4. Teisėjų tarybai konstatavus poreikį, apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas jo sutikimu gali būti nuolat perkeltas teisėju į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą. Jeigu šioje dalyje numatytu atveju į vieną teisėjo vietą pageidauja būti perkelti du ar daugiau teisėjų, sprendžiant perkėlimo klausimą, taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik tie teisėjai, kurie pageidauja būti perkelti į kitą teismą arba į kitus to paties teismo, kurio teisėjais jie paskirti, rūmus šioje dalyje nustatyta tvarka.
+4. Teisėjų tarybai konstatavus poreikį, apylinkės teismo, apygardos administracinio teismo ar apygardos teismo teisėjas jo sutikimu gali būti nuolat perkeltas teisėju į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą. Jeigu šioje dalyje numatytu atveju į vieną teisėjo vietą pageidauja būti perkelti du ar daugiau teisėjų, sprendžiant perkėlimo klausimą, taikoma šio Įstatymo 551 straipsnyje nustatyta atrankos tvarka. Atrankoje dalyvauja tik tie teisėjai, kurie pageidauja būti perkelti į kitą teismą arba į kitus to paties teismo, kurio teisėjais jie paskirti, rūmus šioje dalyje nustatyta tvarka.
 
 
 
@@ -2274,12 +2268,12 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
-6. Teisėjo sutikimo nereikia, kai dėl laikino pobūdžio priežasčių (teisėjas serga, yra laisva teisėjo vieta, padidėjęs darbo krūvis teisme ar yra kitų priežasčių) Teisėjų taryba konstatuoja poreikį teisėją laikinai perkelti į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, kad būtų užtikrintas tinkamas to teismo ar teismo rūmų funkcionavimas. Šioje dalyje nustatytais atvejais galima laikinai perkelti teisėją į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą, apygardos teismo teisėją – į apylinkės teismą, Apeliacinio teismo teisėją – į apygardos teismą ir Vyriausiąjį administracinį teismą, Vyriausiojo administracinio teismo teisėją – į apygardos administracinį teismą ir Apeliacinį teismą, Aukščiausiojo Teismo teisėją – į Apeliacinį teismą. Taip perkeltam teisėjui mokamas ankstesnis atlyginimas, skaičiuojamas to teismo, iš kurio teisėjas perkeltas, teisėjo darbo stažas ir paliekamos visos kitos įstatymuose numatytos teisėjų socialinės garantijos. Šioje dalyje nustatyta tvarka perkelti teisėją galima ne ilgesniam kaip vienerių metų laikotarpiui ir ne dažniau kaip kartą per trejus metus.
+6. Teisėjo sutikimo dėl perkėlimo nereikia, kai dėl laikino pobūdžio priežasčių, trukdančių užtikrinti tinkamą teismo ar teismo rūmų funkcionavimą, Teisėjų taryba konstatuoja poreikį teisėją laikinai perkelti į kitą tos pačios pakopos teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus, arba į kitos jurisdikcijos tos pačios pakopos teismą. Taip perkeltam teisėjui mokamas jo laikinai einamoms pareigoms nustatytas atlyginimas, tačiau ne mažesnis nei iki perkėlimo jo gautas atlyginimas, skaičiuojamas to teismo, iš kurio teisėjas perkeltas, teisėjo darbo stažas ir paliekamos visos kitos įstatymuose numatytos teisėjų socialinės garantijos. Šioje dalyje nustatyta tvarka perkelti teisėją galima ne ilgesniam kaip vienerių metų laikotarpiui ir ne dažniau kaip kartą per trejus metus.
 
 
 
 
-7. Šio straipsnio 5 ir 6 dalyse nustatytais atvejais teisėjas perkeliamas į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus laikantis šiame Įstatyme nustatytos teisėjų skyrimo į pareigas ir atleidimo iš pareigų tvarkos, netaikant šio Įstatymo 551 straipsnyje nustatytos atrankos tvarkos.
+7. Teisėjo sutikimas dėl perkėlimo būtinas, kai dėl laikino pobūdžio priežasčių, trukdančių užtikrinti tinkamą teismo ar teismo rūmų funkcionavimą, Teisėjų taryba konstatuoja poreikį apygardos teismo teisėją perkelti į apylinkės teismą, Apeliacinio teismo teisėją – į apygardos teismą ir Vyriausiąjį administracinį teismą, Vyriausiojo administracinio teismo teisėją – į apygardos administracinį teismą ir Apeliacinį teismą, Aukščiausiojo Teismo teisėją – į Apeliacinį teismą ir Vyriausiąjį administracinį teismą. Taip perkeltam teisėjui mokamas iki perkėlimo jo gautas atlyginimas, skaičiuojamas to teismo, iš kurio teisėjas perkeltas, teisėjo darbo stažas ir paliekamos visos kitos įstatymuose numatytos teisėjų socialinės garantijos. Šioje dalyje nustatyta tvarka perkelti teisėją galima ne ilgesniam kaip vienerių metų laikotarpiui ir ne dažniau kaip kartą per trejus metus.
 
 
 
@@ -2289,12 +2283,17 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
-9. Dėl teisėjo perkėlimo Respublikos Prezidentui motyvuotai pataria Teisėjų taryba.
+9. Šio straipsnio 6 ir 7 dalyse numatytais atvejais teisėjas perkeliamas į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus laikantis šiame Įstatyme nustatytos teisėjų skyrimo į pareigas ir atleidimo iš pareigų tvarkos, netaikant šio Įstatymo 551 straipsnyje nustatytos atrankos tvarkos. Šio straipsnio 7 dalyje numatytais atvejais Aukščiausiojo Teismo teisėją laikinai į kitą teismą perkelia Seimas Respublikos Prezidento teikimu, Apeliacinio teismo teisėją – Seimo pritarimu Respublikos Prezidentas.
 
 
 
 
-10. Teisėjas laikomas perkeltu į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus nuo Respublikos Prezidento dekreto dėl teisėjo perkėlimo įsigaliojimo dienos.
+10. Dėl teisėjo perkėlimo Respublikos Prezidentui motyvuotai pataria Teisėjų taryba.
+
+
+
+
+11. Teisėjas laikomas perkeltu į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus Respublikos Prezidento dekreto dėl teisėjo perkėlimo įsigaliojimo dieną. Aukščiausiojo Teismo teisėjas laikomas perkeltu į Apeliacinį teismą ar Vyriausiąjį administracinį teismą Seimo nutarimo dėl teisėjo laikino perkėlimo įsigaliojimo dieną.
 
 
 Straipsnio pakeitimai:
@@ -2306,6 +2305,7 @@ Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
 Nr. XII-543, 2013-10-08, Žin., 2013, Nr. 109-5363 (2013-10-17)
 Straipsnio pakeitimai:
 Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
+Nr. XIV-919, 2022-01-20, paskelbta TAR 2022-01-26, i. k. 2022-01147
  
 
 
@@ -5719,3 +5719,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 120, 124 ir 128 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-114, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28792
 Lietuvos Respublikos teismų įstatymo Nr. I-480 7, 36, 39, 45, 48, 53-1, 53-2, 54, 55-1, 57, 61, 63, 69-1, 76, 78, 84, 85, 88, 91-2, 91-3, 91-4, 91-5, 93, 94, 98, 101, 102, 106, 119, 121, 122, 124, 128, 130 straipsnių pakeitimo, Įstatymo papildymo 44-1 straipsniu ir nauja VII dalimi ir 95 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIII-2372 38 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-919, 2022-01-20, paskelbta TAR 2022-01-26, i. k. 2022-01147
+Lietuvos Respublikos teismų įstatymo Nr. I-480 63 straipsnio pakeitimo įstatymas
