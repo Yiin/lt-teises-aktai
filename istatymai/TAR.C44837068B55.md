@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-01-27
+Suvestinė redakcija nuo 2022-01-28 iki 2022-07-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -1697,29 +1697,32 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, papildomai privalo naudotis Juridinių asmenų dalyvių informacine sistema (JADIS), iš kurios turi gauti duomenis apie to kliento naudos gavėjus, ir turi teisę naudotis kitomis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius. 
+8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, turi teisę naudotis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
  
 
 
 
 
-9. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatę informacijos apie kliento – juridinio asmens naudos gavėjus, šio įstatymo 25 straipsnyje nustatyta tvarka pateiktos Juridinių asmenų dalyvių informacinėje sistemoje (JADIS), ir jų turimos informacijos apie to paties kliento naudos gavėjus neatitiktį, praneša apie tai klientui ir pasiūlo pateikti tikslią informaciją apie savo naudos gavėjus Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui. 
+9. Neteko galios nuo 2022-01-28. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
  
 
 
 
 
-10. Nustatant kliento tapatybę, finansų įstaigoms ir kitiems įpareigotiesiems subjektams draudžiama pradėti dalykinius santykius arba vykdyti vienkartinę piniginę operaciją ar sandorį (išskyrus pinigines operacijas ar sandorius, sudarytus ir (ar) vykdomus dalykinių santykių metu), kai informacija apie kliento juridinio asmens naudos gavėjus nėra šio įstatymo 25 straipsnio nustatyta tvarka pateikta Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) arba kai informacija apie kliento – juridinio asmens naudos gavėjus, šio įstatymo 25 straipsnyje nustatyta tvarka pateikta Juridinių asmenų dalyvių informacinėje sistemoje (JADIS), neatitinka jų turimos informacijos apie to paties kliento naudos gavėjus. 
+10. Neteko galios nuo 2022-01-28. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
  
 
 
@@ -4605,3 +4608,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, 36 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 12 ir 25-2 straipsnių pakeitimo įstatymas
