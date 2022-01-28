@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2019-12-13 iki 2022-01-27
+Suvestinė redakcija nuo 2022-01-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
  
@@ -61,11 +61,12 @@ Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA
 
 
 
-Gyvenamosioms vietovėms gali būti suteiktas kurorto arba kurortinės teritorijos statusas. 
+Gyvenamosioms vietovėms gali būti suteiktas kurorto arba kurortinės  teritorijos statusas. Gyvenamosioms vietovėms ar jų dalims šiuo įstatymu gali būti suteikiamas istorinės sostinės teritorijos statusas.
 Papildyta straipsnio dalimi:
 Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
 Straipsnio dalies pakeitimai:
 Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
+Nr. XIV-924, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01290
  
 
 
@@ -152,6 +153,14 @@ Gyvenamosios vietovės, kuriose yra gamtinių išteklių, galinčių turėti gyd
 
 
 Reikalavimus kurorto ir kurortinės teritorijos statusui suteikti nustato Lietuvos Respublikos Vyriausybė.
+
+
+
+
+Istorinės sostinės teritorijos statusą turi Kauno senamiestis, Kauno miesto istorinė dalis, vadinama Naujamiesčiu, Vilniaus senamiestis, Kernavė ir Kernavės archeologinė vietovė, Trakai ir Senieji Trakai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-924, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01290
+ 
 
 
 
@@ -751,3 +760,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 7 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-924, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01290
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 1 ir 3 straipsnių pakeitimo įstatymas
