@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-01-27
+Suvestinė redakcija nuo 2022-01-28 iki 2023-05-31
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
  
@@ -51,6 +51,14 @@ BENDROSIOS NUOSTATOS
 
 
 1. Asmuo be pilietybės – asmuo, kuris nėra jokios valstybės pilietis.
+
+
+
+
+11. Asmuo, iki 1940 m. birželio 15 d. turėjęs Lietuvos Respublikos pilietybę, – asmuo, bet kuriuo metu iki 1940 m. birželio 15 d. turėjęs Lietuvos Respublikos pilietybę. Ši sąvoka neapima asmenų, kurie Lietuvos Respublikos pilietybės neteko atlikus Lietuvos Respublikos įstatymuose nustatytas privalomas procedūras ir dėl kurių yra priimti Lietuvos Respublikos įstatymuose numatyti sprendimai dėl Lietuvos Respublikos pilietybės netekimo.
+Papildyta straipsnio dalimi:
+Nr. XIV-925, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01291
+ 
 
 
 
@@ -2361,3 +2369,8 @@ Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 25 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-64, 2020-12-10, paskelbta TAR 2020-12-23, i. k. 2020-28359
 Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2, 7, 12, 15, 16, 18, 21, 23, 24, 26, 27, 33, 37, 40, 41, 41-1 ir 42 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-925, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01291
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2 straipsnio pakeitimo įstatymas
