@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-28
+Suvestinė redakcija nuo 2022-01-29 iki 2022-02-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -696,10 +696,11 @@ Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
 
 
 
-3) jos reikia įgyvendinti valstybei svarbiems ekonominiams ar kultūriniams projektams, kurių valstybinę svarbą savo sprendimu pripažįsta Seimas arba Vyriausybė, regiono socialinės, ekonominės plėtros ir (arba) infrastruktūros projektams, kuriuos regiono plėtros taryba Vyriausybės nustatyta tvarka pripažįsta regioninės svarbos projektais, taip pat Lietuvos Respublikos investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti; 
+3) jos reikia įgyvendinti Vyriausybės nutarimu valstybei svarbiais pripažintiems projektams, regioninės svarbos projektams, kuriuos tokiais projektais pripažįsta regiono plėtros taryba, vadovaudamasi Lietuvos Respublikos regioninės plėtros įstatymu, taip pat Lietuvos Respublikos investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti;
 Straipsnio punkto pakeitimai:
 Nr. XII-2132, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19505
 Nr. XIII-3165, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15498
+Nr. XIV-920, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01361
  
 
 
@@ -3019,7 +3020,10 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-273, 2021-04-22, paskelbta TAR 2021-04-30, i. k. 2021-09306
 
 
-1) valstybei svarbiems ekonominiams projektams, kurių svarbą visuomenės poreikiams savo sprendimu pripažįsta Seimas arba Vyriausybė, įgyvendinti;
+1) Vyriausybės nutarimu valstybei svarbiais pripažintiems projektams įgyvendinti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-920, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01361
+ 
 
 
 
@@ -3941,3 +3945,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 45, 46, 47 ir 48 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2738, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00113
 Lietuvos Respublikos žemės įstatymo Nr. I-446 52 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-920, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01361
+Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 45 straipsnių pakeitimo įstatymas
