@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-01-28
+Suvestinė redakcija nuo 2022-01-29 iki 2022-04-30
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -1491,56 +1491,65 @@ VIDAUS VANDENŲ TRANSPORTO PERSONALAS
 18 straipsnis. Vidaus vandenų transporto specialistai ir motorinių pramoginių laivų laivavedžiai
 
 
-1. Vidaus vandenų transporto specialistai – specialų pasirengimą darbui vidaus vandenų laivuose, žvejybos laivuose ir plūduriuojančiuose įrenginiuose bei atitinkamus kvalifikaciją patvirtinančius dokumentus turintys įgulų nariai.
+1. Vidaus vandenų transporto specialistas – specialų pasirengimą darbui vidaus vandenų laivuose ir plūduriuojančiuosiuose įrenginiuose bei reikiamus dokumentus, kuriais patvirtinama kvalifikacija, turintis tokio laivo ar įrenginio įgulos narys.
 
 
 
 
-2. Motorinių pramoginių laivų laivavedžiai – motorinių pramoginių laivų ir kitų motorinių plaukiojimo priemonių vairuotojai, turintys motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį kvalifikacijos liudijimą. Motorinių pramoginių laivų laivavedžiais, kuriems netaikomas reikalavimas turėti motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį kvalifikacijos liudijimą, taip pat yra laikomi šie asmenys:
+2. Motorinio pramoginio laivo laivavedys – motorinio pramoginio laivo ar kitos motorinės plaukiojimo priemonės vairuotojas, turintis motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį kvalifikacijos liudijimą. Motorinių pramoginių laivų laivavedžiais, kuriems netaikomas reikalavimas turėti motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį kvalifikacijos liudijimą, taip pat yra laikomi šie asmenys:
 
 
-1) vyresni negu 18 metų motorinių pramoginių laivų, kurių variklio galia yra ne didesnė kaip 19 kW (25 AG) ir kurie plaukioja vidaus vandenų plaukiojimo rajone, išskyrus Klaipėdos valstybinio jūrų uosto akvatoriją, bei plukdo iki 12 asmenų, laivavedžiai;
-
-
-
-
-2) vadovaujantys vidaus vandenų transporto specialistai, turintys teisę valdyti vidaus vandenų laivus ir turintys galiojančius dokumentus, kuriais patvirtinama įgyta vidaus vandenų transporto specialisto kvalifikacija ir teisė eiti atitinkamas pareigas laive, valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone;
+1) vyresni negu 18 metų motorinių pramoginių laivų, kurių variklio galia yra ne didesnė kaip 19 kW (25 AG), taip pat kurie plaukioja vidaus vandenų plaukiojimo rajone, išskyrus Klaipėdos valstybinio jūrų uosto akvatoriją, ir plukdo iki 12 asmenų, laivavedžiai;
 
 
 
 
-3) asmenys, turintys budinčiojo kapitono padėjėjo, vyresniojo kapitono padėjėjo ir kapitono jūrinio laipsnio diplomus, valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone;
+2) galiojančius laivo kapitono ar laivavedžio diplomus turintys vidaus vandenų transporto specialistai, valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone;
 
 
 
 
-4) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos arba paplūdimio administratoriaus nurodymu skęstančiųjų gelbėjimo darbus vykdantys juridinių asmenų darbuotojai (toliau šiame straipsnyje – darbuotojai), valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone jų darbo laiku skęstančiųjų gelbėjimo funkcijai, numatytai jų pareigybės aprašyme (nuostatuose) ir (ar) darbo sutartyje, atlikti darbdavio suteiktomis darbo priemonėmis. Darbdavys privalo užtikrinti, kad darbuotojai yra išmokyti saugiai valdyti motorinius pramoginius laivus ar kitas motorines plaukiojimo priemones;
+3) galiojančius laivo kapitono, jūrų žvejybos laivo kapitono, laivo denio tarnybos vadovaujančiojo specialisto ar jūrų žvejybos laivo denio tarnybos vadovaujančiojo specialisto jūrinio laipsnio diplomus turintys jūrininkai, valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone. Jūrininko sąvoka suprantama taip, kaip apibrėžiama Lietuvos Respublikos prekybinės laivybos įstatyme;
 
 
 
 
-5) vyresni negu 18 metų asmenys, vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone valdantys išsinuomotus iš asmenų, vykdančių asmeninių laivų nuomos veiklą, asmeninius laivus. Asmenys, vykdantys asmeninių laivų nuomos veiklą, atsako už šios veiklos vykdymą ir privalo užtikrinti, kad asmuo, ketinantis išsinuomoti asmeninį laivą, būtų pasirašytinai supažindintas su asmeninio laivo valdymu (asmeninio laivo įsibėgėjimo, stabdymo, posūkio darymo, variklio išjungimo pagrindais) ir teritorijos, kurioje plaukiojama išsinuomotais asmeniniais laivais, ribomis. Plaukiojimas išsinuomotais asmeniniais laivais gali būti organizuojamas tik pažymėtose ir kitiems vandenyje esantiems asmenims matomose vandens telkinių teritorijose, saugiu atstumu nuo pakrantės ar maudyklų. Asmenys, vykdantys asmeninių laivų nuomos veiklą, iki šios veiklos pradžios apie konkrečios vandens telkinio teritorijos, kurioje plaukiojama išnuomotais asmeniniais laivais, ribas raštu (asmeniškai, registruotąja pašto siunta arba elektroninių ryšių priemonėmis) informuoja Transporto saugos administraciją.
-Papildyta straipsnio punktu:
-Nr. XIV-664, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25030
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-3182, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15383
- 
+4) paskirtas tarnybines užduotis atliekantys vidaus tarnybos sistemos pareigūnai arba paplūdimio administratoriaus nurodymu skęstančiųjų gelbėjimo darbus atliekantys juridinių asmenų darbuotojai (toliau šiame straipsnyje – darbuotojai), savo darbo laiku valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone skęstančiųjų gelbėjimo ir kitų gelbėjimo darbų funkcijai, numatytai jų pareigybės aprašyme (nuostatuose) ir (ar) darbo sutartyje, atlikti darbdavio suteiktomis darbo priemonėmis. Darbdavys privalo užtikrinti, kad darbuotojai būtų išmokyti saugiai valdyti motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones;
 
 
 
 
-3. Vidaus vandenų transporto specialistus ir motorinių pramoginių laivų laivavedžius pagal susisiekimo ministro patvirtintas programas rengia susisiekimo ministro nustatyta tvarka akredituotos mokymo įstaigos, įmonės ar organizacijos. Juos egzaminuoja ir vidaus vandenų transporto specialisto laipsnio diplomus, diplomų patvirtinimus, vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio tarptautinius kvalifikacijos liudijimus ir šių dokumentų dublikatus susisiekimo ministro nustatyta tvarka išduoda Transporto saugos administracija. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-764, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18816
- 
+5) vyresni negu 18 metų asmenys, vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone valdantys išsinuomotus iš asmenų, vykdančių asmeninių laivų nuomos veiklą, asmeninius laivus. Asmenys, vykdantys asmeninių laivų nuomos veiklą, atsako už šios veiklos vykdymą ir privalo užtikrinti, kad asmuo, ketinantis išsinuomoti jų asmeninį laivą, būtų pasirašytinai supažindintas su to asmeninio laivo valdymu (asmeninio laivo įsibėgėjimo, stabdymo, posūkio darymo, variklio išjungimo pagrindais) ir teritorijos, kurioje plaukiojama išsinuomotais asmeniniais laivais, ribomis. Plaukiojimas išsinuomotais asmeniniais laivais gali būti organizuojamas tik pažymėtose ir kitiems vandenyje esantiems asmenims matomose vandens telkinių teritorijose saugiu atstumu nuo pakrantės ar maudyklų. Asmenys, vykdantys asmeninių laivų nuomos veiklą, iki šios veiklos pradžios apie tam tikros vandens telkinio teritorijos, kurioje plaukiojama išnuomotais asmeniniais laivais, ribas raštu (asmeniškai, registruotąja pašto siunta arba elektroninių ryšių priemonėmis) informuoja Transporto saugos administraciją.
 
 
 
 
-4. Lietuvos Respublikos vidaus vandenyse galioja Europos Bendrijos valstybių narių kompetentingų institucijų išduoti vidaus vandenų transporto priemonių įgulų narių bei motorinių pramoginių laivų laivavedžių kvalifikaciją patvirtinantys dokumentai.
+
+
+3. Vidaus vandenų transporto specialistus ir motorinių pramoginių laivų laivavedžius pagal susisiekimo ministro patvirtintas programas rengia susisiekimo ministro nustatyta tvarka akredituotos mokymo įstaigos, įmonės ar organizacijos. Tikrindama teorines žinias, juos egzaminuoja ir vidaus vandenų transporto specialisto laipsnio diplomus, diplomų patvirtinimo dokumentus, vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimus, motorinio pramoginio laivo laivavedžio tarptautinius kvalifikacijos liudijimus ir šių dokumentų dublikatus susisiekimo ministro nustatyta tvarka išduoda Transporto saugos administracija. 
+
+
+
+
+4. Lietuvos Respublikos vidaus vandenyse galioja:
+
+
+1) Europos Sąjungos valstybių narių ar kitų Europos ekonominės erdvės valstybių kompetentingų institucijų išduodami dokumentai, kuriais patvirtinama vidaus vandenų transporto priemonių įgulų narių kvalifikacija;
+
+
+
+
+2) remiantis Laivybos Reinu darbuotojų nuostatais išduodami dokumentai, kuriais patvirtinama vidaus vandenų transporto priemonių įgulų narių kvalifikacija;
+
+
+
+
+3) į Europos Komisijos skelbiamą sąrašą įtrauktų trečiųjų šalių kompetentingų institucijų išduodami dokumentai, kuriais patvirtinama vidaus vandenų transporto priemonių įgulų narių kvalifikacija;
+
+
+
+
+4) Europos Sąjungos valstybių narių ar kitų Europos ekonominės erdvės valstybių ir šalių, taikančių Jungtinių Tautų Europos ekonomikos komisijos Vidaus transporto komiteto 1998 m. spalio 16 d. rezoliuciją Nr. 40, kompetentingų institucijų išduodami tarptautiniai dokumentai, kuriais patvirtinama pramoginių laivų laivavedžių kvalifikacija.
 
 
 Straipsnio pakeitimai:
@@ -1548,6 +1557,10 @@ Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267 (00.09.07)
 Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
 Nr. X-1790, 2008-11-06, Žin., 2008, Nr. 134-5177 (2008-11-22)
 Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
+
+
+Straipsnio pakeitimai:
+Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
  
 
 
@@ -1556,7 +1569,10 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 19 straipsnis. Laivo įgula
 
 
-1. Įgula – kapitonai, mechanikai, elektromechanikai, upeiviai, motoristai ir elektrikai, turintys teisę dirbti vidaus vandenų laivuose, žvejybos laivuose ir plūduriuojančiuose įrenginiuose.
+1. Vidaus vandenų transporto priemonės įgula – kapitonas (škiperis), mechanikai, elektromechanikai, upeiviai, motoristai ir elektrikai, turintys teisę dirbti vidaus vandenų laivuose ir plūduriuojančiuosiuose įrenginiuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
+ 
 
 
 
@@ -1566,12 +1582,23 @@ Nr. XI-891, 2010-06-10, Žin., 2010, Nr. 72-3613 (2010-06-22)
 
 
 
-3. Laivo kapitonu (škiperiu) ir kitais įgulos nariais gali būti asmenys, turintys Europos Sąjungos valstybių kompetentingų institucijų išduotus dokumentus, kuriais patvirtinama vidaus vandenų transporto priemonių įgulų narių kompetencija, arba atitinkamus vidaus vandenų transporto specialisto laipsnio diplomus ir diplomų patvirtinimus arba vidaus vandenų transporto specialisto laipsnio kvalifikacijos liudijimus.
+3. Įgulos nariais gali būti asmenys, turintys Transporto saugos administracijos išduotus vidaus vandenų transporto specialisto diplomus ir diplomų patvirtinimo dokumentus ar vidaus vandenų transporto specialisto kvalifikacijos liudijimus arba šio kodekso 18 straipsnio 4 dalies 1, 2 ir (ar) 3 punktuose nurodytus dokumentus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
+ 
 
 
 
 
 4. Burinių jachtų laivavedžių diplomus ir kitus pažymėjimus išduoda Lietuvos buriuotojų sąjungos patvirtintos kvalifikacinės komisijos. Diplomų, kvalifikacijos liudijimų ir pažymėjimų išdavimo sąlygas ir tvarką nustato Burinių jachtų laivavedžių diplomavimo taisyklės, kurias, suderinusi su Transporto saugos administracija, tvirtina Lietuvos buriuotojų sąjunga. 
+
+
+
+
+5. Transporto saugos administracija asmens, turinčio šio kodekso 18 straipsnio 4 dalies 1, 2 ir (ar) 3 punktuose nurodytus dokumentus, prašymu įrašo į šio asmens tarnybos įrašų knygelę arba patvirtina šioje knygelėje įrašytus duomenis apie plaukiojimo laiką ir keliones, atliktas per 15 mėnesių iki prašymo pateikimo dienos Lietuvos Respublikos vidaus vandenimis ir (ar) susisiekiančiais vidaus vandenimis už Lietuvos Respublikos teritorijos ribų, prieš tai patikrinusi dokumentų, kuriais patvirtinami duomenys apie plaukiojimo laiką ir (ar) atliktas keliones, autentiškumą ir pagrįstumą.
+Papildyta straipsnio dalimi:
+Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
+ 
 
 
 Straipsnio pakeitimai:
@@ -2984,3 +3011,8 @@ Lietuvos Respublikos vidaus vandenų transporto kodekso 2, 3 ir 6 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-664, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25030
 Lietuvos Respublikos vidaus vandenų transporto kodekso 18 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
+Lietuvos Respublikos vidaus vandenų transporto kodekso 1, 6, 13, 15, 16, 16-1, 16-2, 18, 19, 21, 22, 22-1, 24-1, 26, 27, 41 straipsnių, septintojo skirsnio ir priedo pakeitimo, Kodekso papildymo 27-1 straipsniu ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas
