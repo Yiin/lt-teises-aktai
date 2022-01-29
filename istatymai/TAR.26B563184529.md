@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-01-28
+Suvestinė redakcija nuo 2022-01-29 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -309,9 +309,10 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 
 
-43. Valstybei svarbus projektas – Lietuvos Respublikos Seimo nutarimu pripažintas ypatingos valstybinės svarbos projektas, įstatymu, Seimo ir (ar) Vyriausybės nutarimu valstybei svarbiu pripažintas projektas, taip pat Lietuvos Respublikos investicijų įstatymo nustatyta tvarka į stambių projektų sąrašą įtrauktas stambus projektas. 
+43. Valstybei svarbus projektas – Lietuvos Respublikos įstatymu ar Lietuvos Respublikos Seimo nutarimu pripažintas ypatingos valstybinės svarbos projektas, Vyriausybės nutarimu valstybei svarbiu pripažintas projektas, taip pat Lietuvos Respublikos investicijų įstatymo nustatyta tvarka į stambių projektų sąrašą įtrauktas stambus projektas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
+Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
  
 
 
@@ -1560,7 +1561,10 @@ Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
 
 
 
-4. 30 m aukščio ir aukštesnių ypatingųjų inžinerinių statinių, atsinaujinančių išteklių energetikos objektų statyba turi būti numatyta teritorijų planavimo dokumentuose, išskyrus Atsinaujinančių išteklių energetikos įstatyme numatytus atvejus.
+4. 30 m aukščio ir aukštesnių ypatingųjų inžinerinių statinių, atsinaujinančių išteklių energetikos objektų statyba turi būti numatyta teritorijų planavimo dokumentuose (išskyrus saulės šviesos energijos elektrines ir kitus Atsinaujinančių išteklių energetikos įstatyme numatytus atvejus).
+Straipsnio dalies pakeitimai:
+Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
+ 
 
 
 
@@ -1765,7 +1769,10 @@ VALSTYBEI SVARBIŲ PROJEKTŲ TERITORIJŲ PLANAVIMAS
 5. Pasiūlymai dėl valstybei svarbaus projekto teritorijų planavimo dokumento sprendinių planavimo organizatoriui teikiami raštu arba Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje per visą teritorijų planavimo dokumento rengimo laikotarpį iki viešo svarstymo (ir jo metu) ar susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais ir jo metu. Po viešo svarstymo ar pasibaigus susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais terminui pateikti pasiūlymai dėl valstybei svarbaus projekto teritorijų planavimo dokumento sprendinių nepriimami. Planavimo organizatorius per 10 darbo dienų (dėl savivaldybės lygmens teritorijų planavimo dokumentų – per 15 darbo dienų) nuo viešo svarstymo dienos ar per 15 darbo dienų nuo susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais termino pabaigos išnagrinėja visuomenės pateiktus pasiūlymus, parengia apibendrintą informaciją apie priimtus ir motyvuotai atmestus pasiūlymus ir motyvuotai raštu atsako pasiūlymus pateikusiems asmenims. Šie asmenys per 10 darbo dienų nuo atsakymo gavimo dienos, o tais atvejais, kai planavimo organizatorius per nustatytus terminus atsakymo nepateikė, – per 10 darbo dienų nuo dienos, kurią atsakymas turėjo būti pateiktas, turi teisę kreiptis su skundu į apygardos administracinį teismą dėl planavimo organizatoriaus pateikto atsakymo arba dėl to, kad atsakymas nebuvo pateiktas. Teismas, gavęs tokį skundą, nustato 10 darbo dienų terminą, per kurį planavimo organizatorius turi raštu pateikti savo atsiliepimą į skundą. Ne vėliau kaip per 10 darbo dienų nuo planavimo organizatoriaus atsiliepimo į skundą pateikimo dienos teismas nutartimi išsprendžia klausimą, ar dėl paduoto skundo reikia stabdyti tolesnę valstybei svarbaus projekto teritorijų planavimo dokumento rengimo, derinimo ir tvirtinimo procedūrą. Priimdamas šią nutartį, teismas įvertina, ar:
 
 
-1) galioja Seimo ar Vyriausybės nutarimas dėl projekto pripažinimo valstybei svarbiu projektu;
+1) galioja įstatymas ar Seimo nutarimas dėl projekto pripažinimo ypatingos valstybinės svarbos projektu, ar Vyriausybės nutarimas dėl projekto pripažinimo valstybei svarbiu projektu ir ar stambus projektas įtrauktas į stambių projektų sąrašą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
+ 
 
 
 
@@ -3502,3 +3509,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 40 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 20 ir 23 straipsnių pakeitimo įstatymas
