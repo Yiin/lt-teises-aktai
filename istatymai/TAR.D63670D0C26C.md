@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d63670d0c26c11ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 4, 6, 17, 20, 23 ir 28 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2022-01-29
+ 
+Įstatymas paskelbtas: TAR 2020-07-10, i. k. 2020-15495
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TERITORIJŲ PLANAVIMO ĮSTATYMO NR. I-1120 2, 4, 6, 17, 20, 23 IR 28 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -190,7 +197,9 @@ Papildyti 23 straipsnį 9 dalimi:
 
 
 
-4. Kituose įstatymuose vartojamos sąvokos „valstybei svarbus ekonominis projektas“ ir „valstybei svarbus kultūrinis projektas“ yra tapačios sąvokai „Seimo ir (ar) Vyriausybės nutarimu valstybei svarbiu pripažintas projektas“.
+4. Kituose įstatymuose vartojamos sąvokos „valstybei svarbus ekonominis projektas“ ir „valstybei svarbus kultūrinis projektas“ yra tapačios sąvokai „Vyriausybės nutarimu valstybei svarbiu pripažintas projektas“.
+Straipsnio dalies pakeitimai:
+Nr. XIV-922, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01363
  
 
 
@@ -203,3 +212,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-922, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01363
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 4, 6, 17, 20, 23 ir 28 straipsnių pakeitimo įstatymo Nr. XIII-3163 8 straipsnio pakeitimo įstatymas
