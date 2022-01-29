@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-01-28
+Suvestinė redakcija nuo 2022-01-29 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -335,21 +335,44 @@ VIEŠOJO ADMINISTRAVIMO PAGRINDAI
 1) kolegialioms ar vienasmenėms valstybės ar savivaldybių institucijoms, biudžetinėms įstaigoms, regionų plėtros taryboms, Lietuvos bankui, Lietuvos kariuomenei viešojo administravimo įgaliojimai gali būti suteikti:
 
 
-a) įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas konkretus veikiantis ar numatomas steigti viešojo administravimo subjektas (jo pavadinimas, paskirtis, teisinė forma, santykiai su kitais viešojo administravimo subjektais) ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai;
+a) įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas konkretus veikiantis ar numatomas steigti viešojo administravimo subjektas (jo pavadinimas ir teisinė forma) ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai;
 
 
 
 
-b) įstatymų įgaliotos valstybės ar savivaldybės institucijos priimtu teisės aktu, kai tame teisės akte ši institucija, vadovaudamasi įstatymu, reglamentuojančiu bendrą tam tikros visuomenės gyvenimo srities viešojo administravimo subjektų sudarymo ir veiklos tvarką, nurodo veikiantį ar numatomą steigti viešojo administravimo subjektą (jo pavadinimą, paskirtį, teisinę formą, santykius su kitais viešojo administravimo subjektais) ir nustato šiam subjektui konkrečius viešojo administravimo įgaliojimus;
+b) įstatymų įgaliotos valstybės institucijos ar savivaldybės tarybos priimtu teisės aktu, kai tame teisės akte, vadovaujantis įstatymu, reglamentuojančiu bendrą tam tikros visuomenės gyvenimo srities viešojo administravimo subjektų sudarymo ir veiklos tvarką, nurodomas veikiantis ar numatomas steigti viešojo administravimo subjektas (jo pavadinimas ir teisinė forma) ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai;
 
 
 
 
 
 
-2) įstatymų nustatytą specialų statusą turintiems fiziniams asmenims, asociacijoms, viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valstybės ar savivaldybės įmonėms viešojo administravimo įgaliojimai gali būti suteikti tik įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas konkretus veikiantis ar numatomas steigti viešojo administravimo subjektas (jo pavadinimas, paskirtis, teisinė forma, santykiai su kitais viešojo administravimo subjektais) ir nustatomas baigtinis konkrečių tokiam subjektui suteikiamų viešojo administravimo įgaliojimų sąrašas. 
+2) viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė, viešojo administravimo įgaliojimai gali būti suteikti:
 
 
+a) įstatymu, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomi konkretūs viešojo administravimo įgaliojimai, o sprendimą dėl viešosios įstaigos, kuriai šie viešojo administravimo įgaliojimai bus suteikti, pavedama priimti Vyriausybei;
+
+
+
+
+b) Vyriausybės nutarimu, priimamu įgyvendinant įstatymų, tiesiogiai taikomų Europos Sąjungos teisės aktų ar ratifikuotų Lietuvos Respublikos tarptautinių sutarčių nuostatas, kai tame Vyriausybės nutarime nurodoma veikianti ar numatoma steigti viešoji įstaiga ir jai nustatomi konkretūs viešojo administravimo įgaliojimai;
+
+
+
+
+
+
+3) viešosioms įstaigoms, kurių savininkė ar dalininkė yra savivaldybė, viešojo administravimo įgaliojimai gali būti suteikti įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai juose nurodomi šioms įstaigoms nustatomi konkretūs viešojo administravimo įgaliojimai. Sprendimą dėl konkrečios viešosios įstaigos, kuriai suteikiami viešojo administravimo įgaliojimai, priima savivaldybės taryba;
+
+
+
+
+4) įstatymų nustatytą specialų statusą turintiems fiziniams asmenims, asociacijoms, valstybės ar savivaldybės įmonėms viešojo administravimo įgaliojimai gali būti suteikti įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas konkretus veikiantis ar numatomas steigti viešojo administravimo subjektas (jo pavadinimas ir teisinė forma) ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-923, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01364
+ 
 
 
 
@@ -1952,3 +1975,8 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-923, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01364
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 5 straipsnio pakeitimo įstatymas
