@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-01-30
+Suvestinė redakcija nuo 2022-01-31 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -160,8 +160,10 @@ Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
 
 
 
-14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme ir Lietuvos Respublikos veterinarijos įstatyme. 
+14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos veterinarijos įstatyme ir 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB) (toliau – Reglamentas (ES) Nr. 536/2014). 
 Papildyta straipsnio dalimi:
+Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
+Straipsnio dalies pakeitimai:
 Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
  
 
@@ -365,7 +367,10 @@ Nr. IX-1249, 2002-12-10, Žin., 2002, Nr. 123-5536 (2002-12-24), i. k. 1021010IS
 
 
 
-5. Mokslinį tyrimą, kuriame naudojamos į I sąrašą įtrauktos medžiagos, gali vykdyti tik juridinis asmuo, turintis šio įstatymo ketvirtajame2 skirsnyje nustatyta tvarka išduotą specialųjį leidimą naudoti I, II ir (ar) III sąrašų medžiagas moksliniam tyrimui (toliau – specialusis leidimas). Šis reikalavimas netaikomas klinikinio vaistinio preparato tyrimo užsakovui ir juridiniam asmeniui, Farmacijos įstatymo ir Biomedicininių tyrimų etikos įstatymo nustatyta tvarka vykdantiems klinikinį vaistinio preparato tyrimą su tiriamuoju vaistiniu preparatu, kurio sudėtyje yra I sąrašo medžiagų. Juridinis asmuo, vykdantis klinikinį vaistinio preparato tyrimą su tiriamuoju vaistiniu preparatu, kurio sudėtyje yra I sąrašo medžiagų, turi vykdyti šio įstatymo 9 straipsnio 6 dalyje nustatytas pareigas juridiniam asmeniui, vykdančiam klinikinį vaistinio preparato tyrimą, kuriame naudojamos į II sąrašą įtrauktos medžiagos.
+5. Mokslinį tyrimą, kuriame naudojamos į I sąrašą įtrauktos medžiagos, gali vykdyti tik juridinis asmuo, turintis šio įstatymo ketvirtojo2 skirsnio nustatyta tvarka išduotą specialųjį leidimą naudoti I, II ir (ar) III sąrašų medžiagas moksliniam tyrimui (toliau – specialusis leidimas). Šis reikalavimas netaikomas klinikinio vaistinio preparato tyrimo užsakovui ir juridiniam asmeniui Reglamento (ES) Nr. 536/2014 ir Biomedicininių tyrimų etikos įstatymo nustatyta tvarka vykdantiems klinikinį vaistinio preparato tyrimą su tiriamuoju vaistiniu preparatu, kurio sudėtyje yra I sąrašo medžiagų. Juridinis asmuo, vykdantis klinikinį vaistinio preparato tyrimą su tiriamuoju vaistiniu preparatu, kurio sudėtyje yra I sąrašo medžiagų, turi vykdyti šio įstatymo 9 straipsnio 6 dalyje nustatytas pareigas juridiniam asmeniui, vykdančiam klinikinį vaistinio preparato tyrimą, kuriame naudojamos į II sąrašą įtrauktos medžiagos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
+ 
 
 
 
@@ -469,7 +474,10 @@ SU MEDŽIAGOMIS, ĮTRAUKTOMIS Į II IR III SĄRAŠUS, SUSIJUSIOS VEIKLOS REIKALA
 
 
 
-5. Mokslinį tyrimą, kuriame naudojamos į II ir (ar) III sąrašus įtrauktos medžiagos, gali vykdyti tik juridinis asmuo, turintis šio įstatymo ketvirtajame2 skirsnyje nustatyta tvarka išduotą specialųjį leidimą. Šis reikalavimas netaikomas klinikinio vaistinio preparato tyrimo užsakovui ir juridiniam asmeniui, Farmacijos įstatymo ir Biomedicininių tyrimų etikos įstatymo nustatyta tvarka vykdančiam klinikinį vaistinio preparato tyrimą su tiriamuoju vaistiniu preparatu, kurio sudėtyje yra II ar III sąrašo medžiagų, taip pat juridiniam asmeniui, Gyvūnų gerovės ir apsaugos įstatymo nustatyta tvarka vykdančiam ikiklinikinį tyrimą (bandymą) su bandomaisiais gyvūnais, kuriame naudojamas veterinarinis vaistas ir (ar) ikiklinikinio tyrimo (bandymo) reikmėms reikalingas vaistinis preparatas, kurių sudėtyje yra II ar III sąrašo medžiagų (toliau – juridinis asmuo, vykdantis klinikinį vaistinio preparato tyrimą ar ikiklinikinį tyrimą (bandymą).
+5. Mokslinį tyrimą, kuriame naudojamos į II ir (ar) III sąrašus įtrauktos medžiagos, gali vykdyti tik juridinis asmuo, turintis šio įstatymo ketvirtajame2 skirsnyje nustatyta tvarka išduotą specialųjį leidimą. Šis reikalavimas netaikomas klinikinio vaistinio preparato tyrimo užsakovui ir juridiniam asmeniui, Reglamento (ES) Nr. 536/2014 ir Biomedicininių tyrimų etikos įstatymo nustatyta tvarka vykdančiam klinikinį vaistinio preparato tyrimą su tiriamuoju vaistiniu preparatu, kurio sudėtyje yra II ar III sąrašo medžiagų, taip pat juridiniam asmeniui, Gyvūnų gerovės ir apsaugos įstatymo nustatyta tvarka vykdančiam ikiklinikinį tyrimą (bandymą) su bandomaisiais gyvūnais, kuriame naudojamas veterinarinis vaistas ir (ar) ikiklinikinio tyrimo (bandymo) reikmėms reikalingas vaistinis preparatas, kurių sudėtyje yra II ar III sąrašo medžiagų (toliau – juridinis asmuo, vykdantis klinikinį vaistinio preparato tyrimą ar ikiklinikinį tyrimą (bandymą). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-162, 2021-01-12, paskelbta TAR 2021-01-25, i. k. 2021-01219
+ 
 
 
 
@@ -2209,7 +2217,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
 
 
