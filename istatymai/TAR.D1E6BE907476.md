@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d1e6be90747611e3b675ad30753d4b1b"
 
 # Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-08-01 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01 iki 2022-04-30
  
 Įstatymas paskelbtas: TAR 2014-01-03, i. k. 2014-00018
  
@@ -49,8 +49,6 @@ BENDROSIOS NUOSTATOS
 
 
 3. Šis įstatymas nereglamentuoja nevyriausybinių organizacijų steigimo, valdymo, reorganizavimo, pertvarkymo ir likvidavimo.
- 
- 
  
 
 
@@ -292,7 +290,10 @@ Nevyriausybinių organizacijų plėtros valstybės politika formuojama ir įgyve
 
 
 
-4. Nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją vienų metų kadencijai iš Nevyriausybinių organizacijų tarybos narių visų jos narių balsų dauguma slaptu balsavimu renka Nevyriausybinių organizacijų taryba Tarybos nuostatuose nustatyta tvarka. Nevyriausybinių organizacijų tarybos pirmininku išrinkus valstybės institucijos ar įstaigos atstovą arba Lietuvos savivaldybių asociacijos atstovą, pirmininko pavaduotoju turi būti renkamas nevyriausybinių organizacijų atstovas. Nevyriausybinių organizacijų tarybos pirmininku išrinkus nevyriausybinių organizacijų atstovą, pirmininko pavaduotoju renkamas valstybės institucijos ar įstaigos atstovas ar Lietuvos savivaldybių asociacijos atstovas.
+4. Nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją dvejų metų kadencijai iš Nevyriausybinių organizacijų tarybos narių visų jos narių balsų dauguma slaptu balsavimu renka Nevyriausybinių organizacijų taryba Tarybos nuostatuose nustatyta tvarka. Nevyriausybinių organizacijų tarybos pirmininku renkamas nevyriausybinių organizacijų atstovas, o pirmininko pavaduotoju – valstybės institucijos ar įstaigos atstovas arba Lietuvos savivaldybių asociacijos atstovas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
+ 
 
 
 
@@ -323,7 +324,10 @@ Nevyriausybinių organizacijų plėtros valstybės politika formuojama ir įgyve
 
 
 
-4. Savivaldybės nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją vienų metų kadencijai iš savivaldybės nevyriausybinių organizacijų tarybos narių visų jos narių balsų dauguma slaptu balsavimu renka savivaldybės nevyriausybinių organizacijų taryba savivaldybės nevyriausybinių organizacijų tarybos nuostatuose nustatyta tvarka. Savivaldybės nevyriausybinių organizacijų tarybos pirmininku išrinkus savivaldybės institucijos ar įstaigos atstovą, pirmininko pavaduotoju turi būti renkamas nevyriausybinių organizacijų atstovas. Savivaldybės nevyriausybinių organizacijų tarybos pirmininku išrinkus nevyriausybinių organizacijų atstovą, pirmininko pavaduotoju renkamas savivaldybės institucijos ar įstaigos atstovas.
+4. Savivaldybės nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją dvejų metų kadencijai iš savivaldybės nevyriausybinių organizacijų tarybos narių visų jos narių balsų dauguma slaptu balsavimu renka savivaldybės nevyriausybinių organizacijų taryba savivaldybės nevyriausybinių organizacijų tarybos nuostatuose nustatyta tvarka. Savivaldybės nevyriausybinių organizacijų tarybos pirmininku renkamas nevyriausybinių organizacijų atstovas, o pirmininko pavaduotoju – savivaldybės institucijos ar įstaigos atstovas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
+ 
 
 
 
@@ -358,7 +362,9 @@ Nevyriausybinių organizacijų plėtros valstybės politika formuojama ir įgyve
 
 
 
-6. Savivaldybės, kurios teritorijoje yra iki 100 000 gyventojų, tarybos sprendimu, suderintu su savivaldybės teritorijoje veikiančiomis  bendruomeninėmis organizacijomis, savivaldybės nevyriausybinių organizacijų tarybai gali būti pavesta atlikti ir savivaldybės bendruomeninių organizacijų tarybos funkcijas.
+6. Savivaldybės, kurios teritorijoje yra iki 100 000 gyventojų, tarybos sprendimu savivaldybės nevyriausybinių organizacijų tarybai gali būti Bendruomeninių organizacijų plėtros įstatymo 8 straipsnio 6 dalyje nustatyta tvarka pavesta atlikti ir savivaldybės bendruomeninių organizacijų tarybos funkcijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
  
 
 
@@ -406,7 +412,18 @@ NEVYRIAUSYBINIŲ ORGANIZACIJŲ FINANSAVIMAS
 
 
 
-2. Nevyriausybinėms organizacijoms finansavimą pagal įgyvendinamas programas ir priemones skiria asignavimų valdytojai. 
+2. Nevyriausybinėms organizacijoms finansavimą pagal įgyvendinamas programas ir priemones skiria asignavimų valdytojai. Asignavimų valdytojai, įgyvendinantys socialinės srities, nevyriausybinių organizacijų plėtros, žmogaus teisių apsaugos arba švietimo politikos srities programas bei priemones, gali įgalioti viešąją įstaigą Europos socialinio fondo agentūrą administruoti tas programas ir priemones, pagal kurias skiriamas finansavimas nevyriausybinėms organizacijoms.
+Straipsnio dalies pakeitimai:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
+ 
+
+
+
+
+21. Viešosios įstaigos Europos socialinio fondo agentūros veikla atliekant šio straipsnio 2 dalyje nurodytas funkcijas finansuojama iš asignavimų valdytojams skirtų valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+Papildyta straipsnio dalimi:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
+ 
 
 
 
@@ -443,37 +460,37 @@ Asignavimų valdytojai, skirstydami nevyriausybinių organizacijų veiklos finan
 9 straipsnis. Nevyriausybinių organizacijų fondas
 
 
-1. Nevyriausybinių organizacijų fondas (toliau – fondas) sudaromas siekiant kaupti lėšas ir jas paskirstyti nevyriausybinėms organizacijoms, įskaitant bendruomenines organizacijas, taip pat nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti. Nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti gali būti skiriama ne daugiau negu 20 procentų Fondo lėšų. Fondo lėšos konkurso būdu gali būti skiriamos:
+1. Nevyriausybinių organizacijų fondas (toliau – Fondas) sudaromas siekiant paskirstyti lėšas nevyriausybinėms organizacijoms, taip pat nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti. Nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti gali būti skiriama ne daugiau kaip 20 procentų Fondo lėšų. Fondo lėšos konkurso būdu gali būti skiriamos:
 
 
-1) nevyriausybinių organizacijų, įskaitant bendruomenines organizacijas, instituciniams gebėjimams stiprinti;
-
-
-
-
-2) Fondo nuostatuose numatytoms nevyriausybinių organizacijų, įskaitant bendruomenines organizacijas, veikloms finansuoti Fondo nuostatuose nustatyta tvarka.
+1) nevyriausybinių organizacijų instituciniams gebėjimams stiprinti;
 
 
 
 
-
-
-2. Fondo lėšos sudaromos iš nuolatinių Lietuvos Respublikos gyventojų pajamų mokesčio valstybės biudžete liekančios dalies, Socialinės apsaugos ir darbo ministerijai skiriamų asignavimų ir iš kitų teisėtai gautų lėšų. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Fondui numatoma Vyriausybės nustatyta gyventojų pajamų mokesčio atitinkama dalis, kuri negali būti mažesnė negu 20 procentų, skaičiuojant nuo užpraėjusių metų gyventojų paskirtos gyventojų pajamų mokesčio ne pelno subjektams dalies.
-
+2) Fondo nuostatuose numatytoms nevyriausybinių organizacijų veikloms finansuoti Fondo nuostatuose nustatyta tvarka.
 
 
 
-3. Fondas administruojamas pagal šį įstatymą ir kitus teisės aktus, nustatančius valstybės biudžeto lėšų naudojimo principus ir tvarką, ir Vyriausybės patvirtintus Fondo nuostatus. Fondą administruoja Socialinės apsaugos ir darbo ministerija. Fondo lėšos laikomos atskiroje Socialinės apsaugos ir darbo ministerijos sąskaitoje ir įtraukiamos į apskaitą pagal atskirą priemonę. Fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti. Per biudžetinius metus nepanaudotos Fondo lėšos lieka Fondo sąskaitoje ir naudojamos kitais biudžetiniais metais.
+
+
+
+2. Fondo lėšos sudaromos iš Socialinės apsaugos ir darbo ministerijai skiriamų asignavimų ir iš kitų teisėtai gautų lėšų. 
+
+
+
+
+3. Fondas administruojamas pagal šį įstatymą ir kitus teisės aktus, nustatančius valstybės biudžeto lėšų naudojimo principus ir tvarką, ir Vyriausybės patvirtintus Fondo nuostatus. Fondą administruoja Socialinės apsaugos ir darbo ministerija, Fondo strateginių programų įgyvendinimą administruoja viešoji įstaiga Europos socialinio fondo agentūra. Fondo lėšos negali būti naudojamos kitoms, negu nurodyta šio straipsnio 1 dalyje, valstybės reikmėms finansuoti.
 
 
 
 
 4. Sprendimus dėl Fondo strateginių programų krypčių ir lėšų tam tikroms Fondo veiklos kryptims skyrimo Fondo nuostatuose nustatyta tvarka priima Fondo taryba. Fondo tarybą sudaro septyni nariai: trys nevyriausybinių organizacijų atstovai, trys valstybės institucijų ir įstaigų atstovai ir vienas nevyriausybinių organizacijų srities mokslininkas. Fondo tarybos nariu gali būti skiriamas Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus atitinkantis asmuo. Fondo tarybos institucinę sudėtį socialinės apsaugos ir darbo ministro teikimu trejiems metams tvirtina Vyriausybė. Personalinę Fondo tarybos sudėtį tvirtina socialinės apsaugos ir darbo ministras. Fondo tarybos sudarymo tvarka, Fondo tarybos narių kompetencijos reikalavimai nustatomi Fondo nuostatuose. Fondo tarybos narių, kurie nėra valstybės institucijų ir įstaigų atstovai, darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIII-3191, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15513
+
+
+Straipsnio pakeitimai:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
  
-
-
 
 
 
@@ -637,3 +654,8 @@ Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-7
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3191, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15513
 Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 9 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
+Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 2, 5, 6, 7, 8 ir 9 straipsnių pakeitimo įstatymas
