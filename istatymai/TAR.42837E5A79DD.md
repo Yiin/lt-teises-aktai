@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2022-01-20 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01 iki 2022-03-22
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -4153,7 +4153,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-8) jis pragyveno Lietuvos Respublikoje be pertraukos pastaruosius 5 metus ir turėjo leidimą laikinai gyventi;
+8) jis pragyveno Lietuvos Respublikoje teisėtai be pertraukos pastaruosius 5 metus turėdamas šiame Įstatyme nurodytą teisę gyventi Lietuvos Respublikoje suteikiantį ar patvirtinantį dokumentą arba nacionalinę vizą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+ 
 
 
 
@@ -4205,7 +4208,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-3. Užsienietis, kuriam išduodamas leidimas nuolat gyventi, turi atitikti šio Įstatymo 26 straipsnio 1 dalies 1–3 punktuose nustatytas sąlygas. Leidimą nuolat gyventi išduodant užsieniečiui šio straipsnio 1 dalies 8 ir 81 punktuose nustatytais pagrindais, pragyventas laikotarpis apskaičiuojamas vidaus reikalų ministro nustatyta tvarka.
+3. Užsienietis, kuriam išduodamas leidimas nuolat gyventi, turi atitikti šio Įstatymo 26 straipsnio 1 dalies 1–3 punktuose nustatytas sąlygas. Teisėtai pragyvento laikotarpio nustatymo ir apskaičiavimo tvarką išduodant užsieniečiui leidimą nuolat gyventi šio straipsnio 1 dalies 8 ir 81 punktuose nustatytais pagrindais nustato vidaus reikalų ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+ 
 
 
 
@@ -4240,6 +4246,14 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Straipsnio dalies pakeitimai:
 Nr. XIII-1921, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00854
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+ 
+
+
+
+
+81. Leidimą nuolat gyventi išduodant užsieniečiui šio straipsnio 1 dalies 8 punkte nustatytu pagrindu, į pragyventą Lietuvos Respublikoje laikotarpį neįskaičiuojami laikotarpiai, kai užsieniečio atvykimo į Lietuvos Respubliką tikslas yra trumpalaikis, susijęs su laikina nenuolatinio pobūdžio veikla.
+Papildyta straipsnio dalimi:
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
  
 
 
@@ -4894,11 +4908,12 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 
 
-11. Šio Įstatymo 11 straipsnio 2–5 dalyse nurodytas užsienietis teisėto buvimo Lietuvos Respublikoje laikotarpiu gali dirbti Lietuvos Respublikoje, jeigu jam yra išduotas leidimas dirbti arba jis atitinka šio Įstatymo 58 straipsnio 7–13 ar 15 punktuose nustatytas atleidimo nuo pareigos įsigyti leidimą dirbti sąlygas. 
+11. Šio Įstatymo 11 straipsnio 2–5 dalyse nurodytas užsienietis teisėto buvimo Lietuvos Respublikoje laikotarpiu gali dirbti Lietuvos Respublikoje, jeigu jam yra išduotas leidimas dirbti arba jis atitinka šio Įstatymo 58 straipsnio 6–13 ar 15 punktuose nustatytas atleidimo nuo pareigos įsigyti leidimą dirbti sąlygas.
 Papildyta straipsnio dalimi:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 Straipsnio dalies pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
  
 
 
@@ -6916,7 +6931,10 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 981 straipsnis. Europos Sąjungos valstybės narės piliečio arba jo šeimos nario keliamos grėsmės valstybės saugumui ar viešajai tvarkai vertinimas 
 
 
-1. Europos Sąjungos valstybės narės piliečio arba jo šeimos nario keliamos grėsmės valstybės saugumui ar viešajai tvarkai vertinimas kiekvienu konkrečiu atveju turi būti grindžiamas tik atitinkamo asmens elgesiu. Asmens elgesys turi kelti realią ir akivaizdžią grėsmę. Vertinimas negali būti grindžiamas aplinkybėmis, nesusijusiomis su konkrečiu atveju, bendrąja prevencija ar vien nusikalstamos veikos padarymu.
+1. Europos Sąjungos valstybės narės piliečio arba jo šeimos nario keliamos grėsmės valstybės saugumui ar viešajai tvarkai vertinimas kiekvienu konkrečiu atveju turi būti grindžiamas tik atitinkamo asmens elgesiu. Asmens elgesys turi kelti realią, akivaizdžią ir pakankamai rimtą grėsmę. Vertinimas negali būti grindžiamas aplinkybėmis, nesusijusiomis su konkrečiu atveju, bendrąja prevencija ar vien nusikalstamos veikos padarymu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+ 
 
 
 
@@ -10317,7 +10335,7 @@ Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 
 
-32. 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1860 dėl Šengeno informacinės sistemos naudojimo neteisėtai esančių trečiųjų šalių piliečių grąžinimui su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/1152
+32. 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1860 dėl Šengeno informacinės sistemos naudojimo neteisėtai esančių trečiųjų šalių piliečių grąžinimui su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/1152.
 Papildyta punktu:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
  
