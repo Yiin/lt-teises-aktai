@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01 iki 2022-07-11
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
@@ -1454,7 +1454,10 @@ Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
 
 
 
-9. Pensijų anuitetas mokamas kas mėnesį. Pensijų anuitetas pervedamas į prašyme dėl pensijų anuiteto įsigijimo nurodytą asmeninę pensijų išmokos gavėjo sąskaitą kredito ar mokėjimo įstaigoje arba pensijų anuiteto gavėjo pasirinkimu jis gali būti pristatomas kitu VSDF valdybos nustatytu būdu. Pensijų anuitetas į pensijų anuitetų gavėjo sąskaitą kredito ar mokėjimo įstaigoje pervedamas nemokamai. Jeigu pensijų anuiteto gavėjas pasirenka gauti pensijų anuitetą kitu VSDF valdybos nustatytu būdu, jis padengia su pensijų anuiteto mokėjimu susijusias išlaidas.
+9. Pensijų anuitetas mokamas kas mėnesį. Pensijų anuitetas pervedamas į prašyme dėl pensijų anuiteto įsigijimo nurodytą asmeninę pensijų išmokos gavėjo sąskaitą kredito ar mokėjimo įstaigoje arba pensijų anuiteto gavėjo pasirinkimu jis gali būti pristatomas kitu VSDF valdybos nustatytu būdu. Pensijų anuitetas į pensijų anuitetų gavėjo sąskaitą kredito ar mokėjimo įstaigoje, esančioje Lietuvos Respublikos teritorijoje, pervedamas nemokamai. Jeigu pensijų anuiteto gavėjas pasirenka gauti pensijų anuitetą į sąskaitą kredito ar mokėjimo įstaigoje, esančioje ne Lietuvos Respublikos teritorijoje, arba kitu VSDF valdybos nustatytu būdu, jis padengia su pensijų anuiteto mokėjimu susijusias išlaidas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-659, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24261
+ 
 
 
 
@@ -2497,7 +2500,7 @@ PENSIJŲ KAUPIMO ĮMOKOS DYDŽIAI
 
 
  
-part_5af656ccea9a4ca98fbb44f730be590e_end
+part_a45080f1492244e3adf98db2d136330a_end
 
 
  
@@ -2632,3 +2635,8 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 35-10 ir 35-11 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-105, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28790
 Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 14 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-659, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24261
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 33 ir 35-6 straipsnių pakeitimo įstatymas
