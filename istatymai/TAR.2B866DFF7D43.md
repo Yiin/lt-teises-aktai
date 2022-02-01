@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2021-10-23 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -7117,36 +7117,32 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 189 straipsnis. Nusikalstamu būdu gauto turto įgijimas arba realizavimas
 
 
-1. Tas, kas įgijo, valdė, naudojosi arba realizavo turtą žinodamas, kad tas turtas gautas nusikalstamu būdu, 
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
- 
+1. Tas, kas įgijo, valdė, naudojosi arba realizavo turtą žinodamas, kad tas turtas gautas nusikalstamu būdu arba dalyvaujant nusikalstamoje veikoje,
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 
 
 
-2. Tas, kas įgijo, valdė, naudojosi arba realizavo didelės vertės turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes žinodamas, kad tas turtas ar vertybės gauti nusikalstamu būdu,
-baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki šešerių metų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
- 
+2. Tas, kas įgijo, valdė, naudojosi arba realizavo didelės vertės turtą ar didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes žinodamas, kad tas turtas ar vertybės gauti nusikalstamu būdu arba dalyvaujant nusikalstamoje veikoje,
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 
 
 
-3. Tas, kas įgijo, naudojosi arba realizavo nedidelės vertės turtą, žinodamas, kad tas turtas gautas nusikalstamu būdu, padarė baudžiamąjį nusižengimą ir 
+3. Tas, kas įgijo, naudojosi arba realizavo nedidelės vertės turtą žinodamas, kad tas turtas gautas nusikalstamu būdu arba dalyvaujant nusikalstamoje veikoje, padarė baudžiamąjį nusižengimą ir
 baudžiamas viešaisiais darbais arba bauda, arba areštu.
 
 
 
 
-4. Už šio straipsnio 1 ir 2 dalyse numatytas veikas atsako ir juridinis asmuo.
+4. Už šio straipsnio 1 ir 2 dalyse numatytas veikas atsako ir juridinis asmuo. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Straipsnio pakeitimai:
+Nr. XIV-699, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25127
  
 
 
@@ -7993,8 +7989,11 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 216 straipsnis. Nusikalstamu būdu gauto turto legalizavimas
 
 
-1. Tas, kas siekdamas nuslėpti ar įteisinti savo paties ar kito asmens turtą, žinodamas, kad jis gautas nusikalstamu būdu, tą turtą įgijo, valdė, naudojo, perdavė jį kitiems asmenims, atliko su tuo turtu susijusias finansines operacijas, sudarė sandorius, naudojo jį ūkinėje, komercinėje veikloje, kitaip jį pertvarkė ar melagingai nurodė, kad tai gauta iš teisėtos veiklos, taip pat tas, kas slėpė savo paties ar kito asmens turto tikrąjį pobūdį, šaltinį, buvimo vietą, disponavimą juo, judėjimą arba nuosavybės ar kitas su tuo turtu susijusias teises, žinodamas, kad tas turtas gautas nusikalstamu būdu, 
+1. Tas, kas siekdamas nuslėpti ar įteisinti savo paties ar kito asmens turtą arba padėti kitam nusikalstamoje veikoje dalyvaujančiam asmeniui išvengti teisinių šios veikos pasekmių įgijo turtą, jį valdė, naudojo ar perdavė kitiems asmenims, atliko su tuo turtu susijusias finansines operacijas, sudarė sandorius, naudojo jį ūkinėje, komercinėje veikloje, kitaip jį pertvarkė ar melagingai nurodė, kad tai gauta iš teisėtos veiklos, žinodamas, kad tas turtas gautas nusikalstamu būdu arba dalyvaujant nusikalstamoje veikoje, taip pat tas, kas slėpė savo paties ar kito asmens turto tikrąjį pobūdį, šaltinį, buvimo vietą, disponavimą juo, judėjimą arba nuosavybės ar kitas su tuo turtu susijusias teises, žinodamas, kad tas turtas gautas nusikalstamu būdu arba dalyvaujant nusikalstamoje veikoje, 
 baudžiamas bauda arba laisvės atėmimu iki septynerių metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-699, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25127
+ 
 
 
 
@@ -12328,3 +12327,8 @@ Lietuvos Respublikos baudžiamojo kodekso 71 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-576, 2021-10-14, paskelbta TAR 2021-10-22, i. k. 2021-22115
 Lietuvos Respublikos baudžiamojo kodekso XX skyriaus pavadinimo pakeitimo ir Kodekso papildymo 148-1 straipsniu įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-699, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25127
+Lietuvos Respublikos baudžiamojo kodekso 189 ir 216 straipsnių pakeitimo įstatymas
