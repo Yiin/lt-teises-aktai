@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2021-12-29 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01 iki 2022-04-26
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -5370,7 +5370,10 @@ Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 
 
 
-4. Turtas, į kurį nuosavybės teisė laikinai apribota, prokuroro nuožiūra perduodamas saugoti savivaldybės institucijos atstovui arba šio turto savininkui ar jo šeimos nariui, ar artimajam giminaičiui, arba kitam asmeniui. Jiems turi būti išaiškinta atsakomybė pagal Lietuvos Respublikos baudžiamojo kodekso 246 straipsnį už šio turto iššvaistymą ar paslėpimą. Dėl to iš tokių asmenų paimamas rašytinis pasižadėjimas. Prireikus toks turtas gali būti paimamas. Kai laikinai apribota nuosavybės teisė į piniginius indėlius, visos operacijos su jais nutraukiamos, jei nutarime dėl laikino nuosavybės teisės apribojimo nenurodyta kitaip.
+4. Turtas, į kurį nuosavybės teisė laikinai apribota, prokuroro nuožiūra perduodamas saugoti savivaldybės institucijos atstovui arba šio turto savininkui ar jo šeimos nariui, ar artimajam giminaičiui, arba kitam asmeniui. Jiems turi būti išaiškinta atsakomybė pagal Lietuvos Respublikos baudžiamojo kodekso 246 straipsnį už šio turto perleidimą, paslėpimą, sunaikinimą ar sugadinimą. Dėl to iš tokių asmenų paimamas rašytinis pasižadėjimas. Prireikus toks turtas gali būti paimamas. Kai laikinai apribota nuosavybės teisė į piniginius indėlius, visos operacijos su jais nutraukiamos, jei nutarime dėl laikino nuosavybės teisės apribojimo nenurodyta kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-700, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25129
+ 
 
 
 
@@ -5380,12 +5383,18 @@ Nr. XII-1017, 2014-07-10, paskelbta TAR 2014-07-18, i. k. 2014-10348
 
 
 
-6. Prokuroro nutarimu paskirtas laikinas nuosavybės teisės apribojimas negali trukti ilgiau kaip šešis mėnesius. Šis terminas ikiteisminio tyrimo teisėjo nutartimi gali būti pratęstas, tačiau ne daugiau kaip du kartus po tris mėnesius. Nutartis, kuria pratęsiamas laikinas nuosavybės teisės apribojimas, ir ikiteisminio tyrimo teisėjo atsisakymas pratęsti laikino nuosavybės teisės apribojimo terminą skundžiami šio Kodekso X dalyje nustatyta tvarka. Kai byla perduota į teismą, dėl laikino nuosavybės teisės apribojimo paskyrimo ar jo taikymo termino pratęsimo priimdamas nutartį nusprendžia teismas, kurio žinioje yra byla. Teismo nutartis skundžiama šio Kodekso X dalyje nustatyta tvarka.
+6. Prokuroro nutarimu paskirtas laikinas nuosavybės teisės apribojimas negali trukti ilgiau kaip šešis mėnesius. Šis terminas ikiteisminio tyrimo teisėjo nutartimi gali būti pratęstas, tačiau ne ilgiau negu šešiems mėnesiams. Nutartis, kuria pratęsiamas laikinas nuosavybės teisės apribojimas, ir ikiteisminio tyrimo teisėjo atsisakymas pratęsti laikino nuosavybės teisės apribojimo terminą skundžiami šio Kodekso X dalyje nustatyta tvarka. Kai byla perduota į teismą, dėl laikino nuosavybės teisės apribojimo paskyrimo ar jo taikymo termino pratęsimo priimdamas nutartį nusprendžia teismas, kurio žinioje yra byla. Teismo nutartis skundžiama šio Kodekso X dalyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-700, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25129
+ 
 
 
 
 
-7. Baudžiamosiose bylose dėl sunkių ar labai sunkių nusikaltimų arba kai įtariamasis yra pasislėpęs laikino nuosavybės teisės apribojimo termino pratęsimų skaičius neribojamas. 
+7. Baudžiamosiose bylose dėl apysunkių nusikaltimų, numatytų Lietuvos Respublikos baudžiamojo kodekso 189 straipsnio 1 ir 2 dalyse, sunkių ar labai sunkių nusikaltimų arba baudžiamosiose bylose, kuriose pareikštas civilinis ieškinys dėl nusikalstama veika padarytos žalos atlyginimo, arba kai įtariamasis yra pasislėpęs, laikino nuosavybės teisės apribojimo termino pratęsimų skaičius neribojamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-700, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25129
+ 
 
 
 
