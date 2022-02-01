@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/303806a0869411e8af589337bf1eb893"
 
 # Lietuvos Respublikos technologijų ir inovacijų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-01-31
+Suvestinė redakcija nuo 2022-02-01 iki 2022-03-30
  
 Įstatymas paskelbtas: TAR 2018-07-13, i. k. 2018-11954
  
@@ -332,7 +332,7 @@ Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
 10 straipsnis. Mokslo, technologijų ir inovacijų taryba
 
 
-1. Mokslo, technologijų ir inovacijų taryba (toliau – Taryba) yra Vyriausybės patariamoji institucija valstybės mokslo, technologijų ir inovacijų politikos formavimo ir strateginio valdymo klausimais.
+1. Mokslo, technologijų ir inovacijų taryba (toliau – Taryba) sudaroma padėti Vyriausybei koordinuoti ministerijų ir Vyriausybės įstaigų, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, veiklą, siekiant strateginių, sisteminių ir tarpinstitucinių sprendimų, kurių reikia mokslo, technologijų ir inovacijų politikai formuoti ir įgyvendinti. Tarybos institucinę sudėtį tvirtina Vyriausybė, personalinę sudėtį – Lietuvos Respublikos Ministras Pirmininkas.
 
 
 
@@ -340,48 +340,44 @@ Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
 2. Taryba:
 
 
-1) rengia mokslo, technologijų ir inovacijų sričių įžvalgas, vizijas ir planus, teikia Vyriausybei pasiūlymus dėl mokslo, technologijų ir inovacijų sričių nacionalinio lygmens prioritetų, krypčių ir gairių nustatymo;
+1) svarsto ir pritaria pasiūlymams dėl mokslo, technologijų ir inovacijų sričių plėtros krypčių, prioritetų, tikslų, kitų su mokslo, technologijų ir inovacijų sritimis susijusių strateginių sprendimų;
 
 
 
 
-2) teikdama pasiūlymus Vyriausybei, užtikrina nuolatinį mokslo, technologijų ir inovacijų sistemos struktūros ir pagrindinių charakteristikų tobulinimą;
+2) užtikrina mokslo, technologijų ir inovacijų politikos sričių sinergiją, šių politikos sričių integralumą su horizontaliomis, tarpsektorinėmis politikos sritimis;
 
 
 
 
-3) teikia pasiūlymus Vyriausybei dėl mokslo, technologijų ir inovacijų politikos įgyvendinimo koordinavimo ir mokslo, technologijų ir inovacijų sistemos strateginio valdymo;
+3) svarsto ir pritaria pasiūlymams dėl mokslinių tyrimų ir eksperimentinės plėtros ir inovacijų (sumaniosios specializacijos) prioritetų, stebi šių prioritetų įgyvendinimo pažangą;
 
 
 
 
-4) siekdama spręsti mokslo, technologijų ir inovacijų sistemoje kylančias problemas ir įgyvendinti pageidaujamus socialinius tikslus, teikia pasiūlymus Vyriausybei dėl atskirų sričių, sektorių arba šakų iniciatyvų mokslo, technologijų ir inovacijų integravimo į bendrą valstybės mokslo, technologijų ir inovacijų politiką;
+4) svarsto ir pritaria pasiūlymams dėl krypčių, kurioms būtų telkiami valstybės finansiniai, mokslo ir verslo ištekliai, turimos žinios, patirtis ir kurios prisidėtų prie aktualiausių visuomenės iššūkių sprendimo;
 
 
 
 
-5) teikia pasiūlymus Vyriausybei dėl mokslo, technologijų ir inovacijų sistemoje veikiančių valstybės institucijų, įstaigų ir kitų subjektų veiklos efektyvinimo ir optimizavimo;
+5) pagal poreikį teikia Vyriausybei siūlymus ir rekomendacijas Tarybos kompetencijos klausimais;
 
 
 
 
-6) planuoja ir teikia pasiūlymus Vyriausybei dėl mokslo, technologijų ir inovacijų srityse taikomų finansavimo ir kitų skatinimo priemonių, finansavimą ir kitas skatinimo priemones skiriančių subjektų, finansavimo ir skatinimo priemonių gavėjų, finansavimo šaltinių;
-
-
-
-
-7) atlieka kitas Vyriausybės jai pavestas funkcijas.
+6) atlieka kitas Vyriausybės jai pavestas funkcijas.
 
 
 
 
 
 
-3. Taryba veikia Tarybos darbo reglamento nustatyta tvarka. Tarybos darbo reglamentą tvirtina Vyriausybė. Tarybą sudaro Vyriausybė. Tarybai pirmininkauja Ministras Pirmininkas. Į Tarybos sudėtį turi būti įtraukiami valstybės technologijų ir inovacijų politiką formuojančios ministerijos ministras ir švietimo, mokslo ir sporto ministras, kurie yra Tarybos pirmininko pavaduotojai, ministerijų, kurioms pavesta įgyvendinti sumanios specializacijos kryptis, ministrai ir septynių asocijuotų verslo ir mokslo struktūrų pasiūlyti atstovai, kurių veikla susijusi su technologijomis ir inovacijomis. Į Tarybos sudėtį gali būti įtraukiami ir kiti asmenys.
+3. Taryba veikia Tarybos darbo reglamente nustatyta tvarka. Tarybos darbo reglamentą tvirtina Vyriausybė. Savo veiklai organizuoti Taryba gali sudaryti darbo grupes konkretiems tikslams pasiekti ir (ar) užduotims įvykdyti, pasitelkti socialinius ir ekonominius partnerius, ekspertus. Taryba turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų informaciją, būtiną šio straipsnio 2 dalyje jai nustatytoms funkcijoms atlikti.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
 
 
@@ -1034,3 +1030,8 @@ Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 7, 11 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
 Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 14, 21 ir 26 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 2, 6, 7, 10, 11, 14, 18, 19, 23 straipsnių pakeitimo ir 15, 25, 26, 27 straipsnių pripažinimo netekusiais galios įstatymas
