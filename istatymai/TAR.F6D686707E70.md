@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-02-01
+Suvestinė redakcija nuo 2022-02-02 iki 2022-07-11
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -224,16 +224,18 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
 
 
 
 
 
+ 
+ 
 
- 
- 
+ 
+
  
  
 PATVIRTINTA
@@ -3923,7 +3925,10 @@ Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454
 
 
 
-15. Kelių transporto priemonių vairuotojams, vežantiems krovinius ir (arba) keleivius tarptautiniais kelių maršrutais ir atitinkantiems šio straipsnio 1 dalyje išvardytus atvejus, netaikomi šio straipsnio 2 dalies 3, 8 ir 9 punktai, 4 ir 5 dalys ir 12 dalies nuostata dėl faktinės komandiruotės trukmės skaičiavimo, kai komandiruotas darbuotojas pakeičiamas kitu komandiruotu darbuotoju. Kelių transporto priemonių vairuotojams, vežantiems krovinius ir (arba) keleivius tarptautiniais kelių maršrutais ir atitinkantiems šio straipsnio 1 dalyje išvardytus atvejus, taikomos šio kodekso ir kitų darbo santykius reglamentuojančių Lietuvos Respublikos norminių teisės aktų, įskaitant nacionalines (tarpšakines), teritorines ir šakos (gamybos, paslaugų, profesines) kolektyvines sutartis ar atskiras jų nuostatas, kurių taikymas buvo išplėstas, normos, nustatančios minimalųjį darbo užmokestį, įskaitant padidintą apmokėjimą už viršvalandinį darbą, darbą naktį, darbą poilsio ir švenčių dienomis. 
+15. Kelių transporto priemonių vairuotojų, vežančių krovinius ir (arba) keleivius tarptautiniais kelių maršrutais ir atitinkančių šio straipsnio 1 dalyje išvardytus atvejus, darbo sąlygų ypatumus nustato kelių transporto santykius reglamentuojantys įstatymai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454
+ 
 
 
 Straipsnio pakeitimai:
@@ -9779,9 +9784,10 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 
 
+part_70dc5643b0994296b1a550afd794bbc0_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -9868,6 +9874,14 @@ priedas
 
 
 16. 2010 m. kovo 8 d. Tarybos direktyva 2010/18/ES, įgyvendinanti patikslintą BUSINESSEUROPE, UEAPME, CEEP ir ETUC sudarytą Bendrąjį susitarimą dėl vaiko priežiūros atostogų ir panaikinanti Direktyvą 96/34/EB.
+
+
+
+
+17. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1057, kuria nustatomos konkrečios su Direktyva 96/71/EB ir Direktyva 2014/67/ES susijusios kelių transporto vairuotojų komandiravimo taisyklės ir iš dalies keičiami Direktyva 2006/22/EB, kiek tai susiję su vykdymo užtikrinimo reikalavimais, ir Reglamentas (ES) Nr. 1024/2012.
+Papildyta punktu:
+Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454
+ 
 
 
 Priedo pakeitimai:
@@ -10016,3 +10030,6 @@ Lietuvos Respublikos darbo kodekso 108, 109, 139, 213 straipsnių ir priedo pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-435, 2021-06-22, paskelbta TAR 2021-07-08, i. k. 2021-15520
 Lietuvos Respublikos darbo kodekso 139 straipsnio pakeitimo įstatymas
+ 
+ 
+part_c1e13c45dcb746f7afbf41af55861c93_end
