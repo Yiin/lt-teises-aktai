@@ -18,9 +18,10 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-01-20 iki 2022-02-09
+Suvestinė redakcija nuo 2022-02-10 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -6472,6 +6473,10 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 2. Prašymą dėl proceso atnaujinimo surašo advokatas. Valstybės atstovo, kito juridinio asmens prašymą dėl proceso atnaujinimo taip pat gali surašyti juridinio asmens darbuotojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu prašymą dėl proceso atnaujinimo paduoda fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti šį prašymą turi teisę jis pats. Be to, prašymą dėl proceso atnaujinimo gali surašyti šio įstatymo 47 straipsnio 4 dalies 4 ir 7 punktuose nurodyti asmenys. Prašymą dėl proceso atnaujinimo pasirašo jį paduodantis asmuo ir prašymą surašęs asmuo. Prašymą paduodančio asmens parašas nėra būtinas, jeigu jį pasirašo jo įgaliotas prašymą surašęs asmuo.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija, TAR, 2016-06-02, Nr. 16849) 158 straipsnio 2 dalis tiek, kiek pagal ją fizinio asmens, neturinčio aukštojo universitetinio teisinio išsilavinimo, prašymą dėl proceso atnaujinimo surašo advokatas visais šiame įstatyme įtvirtintais proceso atnaujinimo pagrindais, įstatymų leidėjui neatsižvelgus į šiame įstatyme įtvirtintų proceso atnaujinimo pagrindų teisinės prigimties skirtumus, išskyrus tiek, kiek toks reikalavimas nustatytas surašyti prašymui dėl proceso atnaujinimo Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija) 156 straipsnio 2 dalies 10, 12 punktuose nustatytais proceso atnaujinimo pagrindais, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
+Straipsnio dalies pakeitimai:
+Nr. KT20-A-N1/2022, 2022-02-10, paskelbta TAR 2022-02-10, i. k. 2022-02427
+ 
 
 
 
@@ -7078,3 +7083,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 14,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-896, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00753
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 20 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT20-A-N1/2022, 2022-02-10, paskelbta TAR 2022-02-10, i. k. 2022-02427
+Dėl Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija) 158 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
