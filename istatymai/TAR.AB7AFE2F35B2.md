@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-02-27
+Suvestinė redakcija nuo 2022-02-28 iki 2022-11-07
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -174,7 +174,10 @@ b) šie asmenys netaiko didelio dažnio algoritminės prekybos metodo;
 
 
 
-c) šie asmenys ne rečiau kaip kartą per metus praneša priežiūros institucijai, kad naudojasi šiame punkte nustatyta išimtimi, o kai yra priežiūros institucijos prašymas, – pateikia pagrindimą, kodėl šiame punkte nurodytą savo vykdomą veiklą priskiria prie papildomos veiklos; 
+c) šie asmenys, gavę priežiūros institucijos prašymą, praneša priežiūros institucijai, kad naudojasi šiame punkte nustatyta išimtimi, ir pateikia pagrindimą, kodėl šiame punkte nurodytą savo vykdomą veiklą priskiria prie papildomos veiklos;
+Papunkčio pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -373,6 +376,14 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 10. Didmeninis energetikos produktas – kaip tai apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (toliau – Reglamentas (ES) Nr. 1227/2011) 2 straipsnio 4 punkte. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
+
+
+
+
+101. Elektroninis formatas – patvariojoje laikmenoje, išskyrus popierių, laikomų duomenų pavidalas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
  
 
 
@@ -710,7 +721,18 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 
 
-331. Kompetentinga valstybė narė:
+331. Komercinės veiklos grupė – grupė, kurios pagrindinė veikla nėra investicinių paslaugų ar banko paslaugų teikimas arba biržos prekių išvestinių finansinių priemonių rinkų formuotojų veikla. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
+332. Kompetentinga valstybė narė:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 1) institucinių investuotojų ir turto valdytojų atveju – buveinės valstybė narė, kaip tai apibrėžta konkrečiam sektoriui taikytiname Europos Sąjungos teisės akte ar Europos Sąjungos teisės aktą įgyvendinančiame nacionalinės teisės akte;
@@ -786,6 +808,14 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 3) vidutiniu siūlomos ir prašomos kainos skirtumų dydžiu, kai jis žinomas. 
 
 
+
+
+
+
+381. Lotas – bazinis skaičius, kaip tai apibrėžta 2016 m. gruodžio 1 d. Komisijos deleguotojo reglamento (ES) 2017/591, kuriuo Europos Parlamento ir Tarybos direktyva 2014/65/ES papildoma biržos prekių išvestinių finansinių priemonių pozicijų apribojimų taikymo techniniais reguliavimo standartais, 9 straipsnio 2 dalyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -1195,6 +1225,14 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 
 
+821. Vienos finansinės priemonės pakeitimas kita – vienos finansinės priemonės pardavimas ir kitos finansinės priemonės pirkimas arba pasinaudojimas teise pakeisti esamą finansinę priemonę kita priemone. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
 83. Neteko galios nuo 2022-01-02.
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
@@ -1211,9 +1249,18 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 
 
-85. Žemės ūkio biržos prekių išvestinės finansinės priemonės – išvestinių finansinių priemonių sandoriai, susiję su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007 (toliau – Reglamentas (ES) Nr. 1308/2013), 1 straipsnyje ir I priedo I–XX dalyse bei XXIV/1 dalyje išvardytais produktais. 
+841. Visos sumos sąlyga – sąlyga, kuria siekiama apsaugoti investuotoją užtikrinant, kad išperkant obligaciją nesuėjus terminui emitentas obligaciją turinčiam investuotojui sumokėtų sumą, lygią likusių atkarpos mokėjimų, numatytų iki išpirkimo termino, grynosios dabartinės vertės sumos ir obligacijos, kuri išperkama, pagrindinės sumos sudėtinei sumai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
+85. Žemės ūkio biržos prekių išvestinės finansinės priemonės – išvestinių finansinių priemonių sandoriai, susiję su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, 1 straipsnyje ir I priedo I–XX dalyse bei XXIV/1 dalyje išvardytais produktais, taip pat su produktais, išvardytais 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000, su visais pakeitimais, I priede.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
  
 
 
@@ -2522,6 +2569,14 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
+61. Šio straipsnio 3–6 dalyse ir šio įstatymo 29 straipsnio 3 dalyje nustatyti reikalavimai netaikomi finansų maklerio įmonėms, teikiančioms investicines paslaugas, kurios susijusios su obligacijomis, neturinčiomis jokios kitos įterptosios išvestinės finansinės priemonės, išskyrus visos sumos sąlygą, arba platinančioms ar parduodančioms finansines priemones tik tinkamoms sandorio šalims. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
 7. Finansų maklerio įmonė, siūlanti ar rekomenduojanti klientams finansinę priemonę, kurią išleido kitas subjektas, privalo imtis priemonių, kad gautų pakankamai informacijos apie siūlomą finansinę priemonę, jos tvirtinimo procedūrą, tikslinę klientų grupę, kad galėtų suprasti finansinės priemonės esmę ir įvertinti tikslinę klientų grupę.
 
 
@@ -3025,7 +3080,10 @@ Priežiūros institucija, detalizuodama šio skirsnio nuostatas:
 
 
 
-3. Šio įstatymo 29, 30, 31, 33 straipsniuose (išskyrus 33 straipsnio 5 dalį) ir 34 straipsnyje nustatyti reikalavimai netaikomi sandoriams, sudarytiems pagal daugiašalės prekybos sistemos veiklą reglamentuojančias taisykles, kai sudarant sandorį dalyvauja tik tos sistemos nariai ar dalyviai arba tik pati sistema ir jos nariai ar dalyviai. Tačiau daugiašalės prekybos sistemos nariai ar dalyviai turi laikytis šio įstatymo 29, 30, 31, 33 ir 34 straipsniuose nustatytų reikalavimų dėl savo klientų, kai, veikdami kliento sąskaita, vykdo jo pavedimus daugiašalėje prekybos sistemoje.
+3. Šio įstatymo 29, 30, 31, 33 ir 34 straipsniuose nustatyti reikalavimai netaikomi sandoriams, sudarytiems pagal daugiašalės prekybos sistemos veiklą reglamentuojančias taisykles, kai sudarant sandorį dalyvauja tik tos sistemos nariai ar dalyviai arba tik pati sistema ir jos nariai ar dalyviai. Tačiau daugiašalės prekybos sistemos nariai ar dalyviai turi laikytis šio įstatymo 29, 30, 31, 33 ir 34 straipsniuose nustatytų reikalavimų dėl savo klientų, kai, veikdami kliento sąskaita, vykdo jo pavedimus daugiašalėje prekybos sistemoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -3316,7 +3374,10 @@ FINANSŲ MAKLERIO ĮMONIŲ VEIKLAI KELIAMI REIKALAVIMAI
 
 
 
-3. Finansų maklerio įmonė turi suprasti finansines priemones, kurias siūlo arba rekomenduoja, įvertinti finansinių priemonių atitiktį klientų, kuriems teikia investicines paslaugas, poreikiams, be kita ko, atsižvelgdama į nustatytą tikslinę klientų grupę, kaip tai nustatyta šio įstatymo 16 straipsnio 3–7 dalyse, ir užtikrinti, kad finansinės priemonės būtų siūlomos arba rekomenduojamos tik tada, kai tai atitinka kliento interesus.
+3. Finansų maklerio įmonė turi suprasti finansines priemones, kurias siūlo arba rekomenduoja, įvertinti finansinių priemonių atitiktį klientų, kuriems teikia investicines paslaugas, poreikiams, be kita ko, atsižvelgdama į nustatytą tikslinę klientų grupę, kaip tai nustatyta šio įstatymo 16 straipsnio 6 ir 7 dalyse, ir užtikrinti, kad finansinės priemonės būtų siūlomos arba rekomenduojamos tik tada, kai tai atitinka kliento interesus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -3384,7 +3445,49 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
+71. Kai sutartis dėl finansinės priemonės pirkimo arba pardavimo sudaroma naudojant nuotolinio ryšio priemones, kuriomis negalima iš anksto pateikti informacijos apie išlaidas ir mokesčius, finansų maklerio įmonė gali nedelsdama po sandorio sudarymo pateikti informaciją apie išlaidas ir mokesčius elektroniniu formatu arba, kai to paprašo neprofesionalusis klientas, popierine forma, jeigu įvykdomos abi šios sąlygos:
+
+
+1) klientas sutinka gauti informaciją nedelsiant po sandorio sudarymo;
+
+
+
+
+2) finansų maklerio įmonė yra suteikusi klientui galimybę atidėti sandorio sudarymą, kol klientas gaus informaciją. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
+72. Finansų maklerio įmonė privalo suteikti klientui galimybę prieš sudarant sandorį gauti informaciją apie išlaidas ir mokesčius telefonu, išskyrus šio straipsnio 71 dalies 2 punkte nurodytą atvejį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
 8. Šio straipsnio 4–7, 12, 13 ir 14 dalyse nurodyta informacija turi būti teikiama suprantamai ir tokiu būdu, kad klientai arba potencialūs klientai galėtų suprasti investicinės paslaugos ir siūlomo konkretaus finansinių priemonių tipo pobūdį ir riziką ir tik tada priimtų pateikta informacija pagrįstus sprendimus. Šiame straipsnyje nurodyta informacija gali būti teikiama taip pat ir standartizuota forma.
+
+
+
+
+81. Visa informacija, kurią finansų maklerio įmonė privalo teikti pagal šį įstatymą, teikiama klientams arba potencialiems klientams elektroniniu formatu, išskyrus tuos atvejus, kai klientas arba potencialus klientas yra neprofesionalusis arba potencialus neprofesionalusis klientas ir paprašo teikti informaciją popierine forma, – tada informacija pateikiama popierine forma nemokamai. Finansų maklerio įmonė informuoja neprofesionaliuosius arba potencialius neprofesionaliuosius klientus apie galimybę gauti informaciją popierine forma. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
+82. Finansų maklerio įmonė esamus neprofesionaliuosius klientus, kurie gauna privalomą informaciją pagal šį įstatymą popierine forma, ne vėliau kaip per 8 savaites iki informacijos išsiuntimo dienos informuoja, kad informaciją jie gaus elektroniniu formatu. Finansų maklerio įmonė informuoja neprofesionaliuosius klientus, kad jie gali pasirinkti, ar ir toliau nori gauti informaciją popierine forma, ar tik elektroniniu formatu. Finansų maklerio įmonės taip pat informuoja esamus neprofesionaliuosius klientus, kad tuo atveju, jeigu klientas per tas 8 savaites nepareikš pageidavimo, kad informacija jam ir toliau būtų siunčiama popieriuje, automatiškai bus pereita prie elektroninio formato. Esamų neprofesionaliųjų klientų, kurie jau gauna privalomą informaciją pagal šį įstatymą elektroniniu formatu, informuoti neprivaloma. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -3454,6 +3557,37 @@ c) subjektai, su kuriais finansų maklerio įmonę sieja sutartiniai, teisiniai 
 
 
 
+141. Trečiųjų šalių atliekamas tyrimas finansų maklerio įmonei, teikiančiai klientams portfelio valdymo arba kitas investicines ar papildomas paslaugas, laikomas šio straipsnio 12 dalyje nustatytų reikalavimų įvykdymu, jeigu:
+
+
+1) prieš teikiant tyrimo paslaugas finansų maklerio įmonė ir tyrimo paslaugų teikėjas susitaria, kuri bendrų mokesčių ar bendro mokėjimo už pavedimų vykdymo paslaugas ir tyrimus dalis mokama už tyrimus, ir 
+
+
+
+
+2) finansų maklerio įmonė informuoja savo klientus apie tyrimų paslaugas teikiančioms trečiosioms šalims atliktus bendrus mokėjimus už pavedimų vykdymo paslaugas ir tyrimus, ir
+
+
+
+
+3) tyrimai, už kuriuos mokami bendri mokesčiai ar atliekamas bendras mokėjimas, susiję tik su tais emitentais, kurių rinkos kapitalizacija per pastaruosius 3 kalendorinius metus iki tyrimo atlikimo dienos metų pabaigoje, kai jie yra ar buvo įtraukti į biržos sąrašus, arba nuosavo kapitalo vertė tais finansiniais metais, kai jie nėra ar nebuvo įtraukti į biržos sąrašus, nesiekė 1 milijardo eurų. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
+142. Šio straipsnio 141 dalyje nurodytas tyrimas suprantamas kaip tyrimas, apimantis tyrimo medžiagos parengimą arba paslaugų, susijusių su viena ar keliomis finansinėmis priemonėmis ar kitu turtu arba finansinių priemonių emitentais ar galimais emitentais, teikimą arba apimantis tyrimo medžiagos parengimą arba paslaugų, glaudžiai susijusių su tam tikru sektoriumi ar rinka, teikimą ir padedantis susidaryti nuomonę apie to sektoriaus ar rinkos finansines priemones, turtą ar emitentus. Medžiagos parengimas arba paslaugų, kuriomis tiesiogiai arba netiesiogiai rekomenduojama arba siūloma investavimo strategija ir teikiama pagrįsta nuomonė apie esamą ar būsimą finansinių priemonių ar turto vertę ar kainą arba kitais būdais teikiama analizė bei pradinės įžvalgos ir daromos išvados, grindžiamos nauja ar esama informacija, kuri galėtų būti naudojama pasirenkant investavimo strategiją ir būti aktuali, taip pat galėtų padidinti finansų maklerio įmonės klientų, kurie už tą tyrimą moka mokestį, vardu priimamų sprendimų vertę, teikimas taip pat suprantamas kaip tyrimas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
+
+
+
+
 15. Finansų maklerio įmonė neturi teisės mokėti atlygio darbuotojams arba vertinti darbuotojų veiklos rezultatų tokiu būdu, kuris trukdo finansų maklerio įmonei veikti geriausiais klientų interesais. Finansų maklerio įmonė neturi teisės nustatyti darbuotojų atlyginimo, siektinų pardavimo tikslų arba kitų priemonių, kurios skatintų įmonės darbuotojus rekomenduoti konkrečią finansinę priemonę neprofesionaliesiems klientams, kai finansų maklerio įmonė turi galimybę pasiūlyti klientui kitą finansinę priemonę, kuri geriau atitiktų kliento poreikius.
 
 
@@ -3472,6 +3606,14 @@ c) subjektai, su kuriais finansų maklerio įmonę sieja sutartiniai, teisiniai 
 18. Finansų maklerio įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su teikiamomis investicinėmis ir (arba) papildomomis paslaugomis (toliau šioje dalyje – skundai). Finansų maklerio įmonė privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir finansų maklerio įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių finansų maklerio įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti klientui negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Finansų maklerio įmonė klientų skundus nagrinėja neatlygintinai. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
+ 
+
+
+
+
+19. Finansų maklerio įmonė, teikianti paslaugas profesionaliesiems klientams, išskyrus investavimo rekomendacijų teikimą ir portfelio valdymą, gali nesilaikyti šio straipsnio 6 dalies 3 punkte nustatytų reikalavimų. Finansų maklerio įmonė taip pat gali nesilaikyti šio įstatymo 30 straipsnio 21 dalyje ir 31 straipsnio 1–3 dalyse nustatytų reikalavimų, nebent profesionalieji klientai informuoja finansų maklerio įmonę, kad pageidauja naudotis šiuose straipsniuose numatytomis teisėmis. Finansų maklerio įmonė registruoja šiuos profesionaliųjų klientų prašymus.
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
  
 
 
@@ -3532,6 +3674,14 @@ Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 
 2. Finansų maklerio įmonė, surinkusi ir įvertinusi šio straipsnio 1 dalyje nurodytą informaciją, turi rekomenduoti klientui ar potencialiam klientui konkrečias investicines paslaugas ir finansines priemones, kurios yra tinkamos klientui atsižvelgiant į jo toleranciją rizikai ir galimybes prisiimti nuostolius.
+
+
+
+
+21. Finansų maklerio įmonė, teikdama investavimo rekomendacijas arba portfelio valdymo paslaugas, apimančias vienų finansinių priemonių pakeitimą kitomis, privalo surinkti informaciją apie kliento investicijas ir išanalizuoti finansinių priemonių pakeitimo kitomis išlaidas ir naudą. Teikdamos investavimo rekomendacijas, finansų maklerio įmonės turi informuoti klientą, ar vienų finansinių priemonių pakeitimo kitomis nauda yra didesnė už išlaidas.
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -3706,7 +3856,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-5. Dėl finansinių priemonių, kurioms taikoma prekybos pareiga pagal Reglamento (ES) Nr. 600/2014 23 ir 28 straipsnius, kiekviena prekybos vieta (įskaitant sisteminę prekybą vykdančias finansų maklerio įmones), o dėl kitų finansinių priemonių – kiekviena pavedimų vykdymo vieta turi ne rečiau kaip kartą per metus viešai skelbti, netaikydama jokių mokesčių ar rinkliavų, duomenis apie sandorių vykdymo kokybę toje prekybos ar sandorių sudarymo vietoje, o sandorį kliento naudai įvykdžiusi finansų maklerio įmonė turi informuoti klientą, kur pavedimas buvo įvykdytas. Periodinėse ataskaitose turi būti pateikiama informacija apie individualių finansinių priemonių kainą, sandorių sudarymo išlaidas, greitį ir tikimybę.
+5. Neteko galios nuo 2022-02-28.
+Straipsnio dalies pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -3780,14 +3933,15 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-35 straipsnis. Pranešimas apie pažeidimus finansų maklerio įmonėje ir centriniame depozitoriume
+35 straipsnis. Pranešimas apie pažeidimus finansų maklerio įmonėje ir centriniame depozitoriume 
 
 
-Finansų maklerio įmonė ir centrinis depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės ir centrinio depozitoriumo vadovams ar kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 600/2014, Reglamento (ES) Nr. 909/2014 ar Reglamento (ES) 2017/1129 nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė ir centrinis depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 1 dalyje nustatyti reikalavimai. 
+Finansų maklerio įmonė, centrinis depozitoriumas, patvirtinti informacijos apie sandorius skelbimo subjektai ir patvirtinti pranešimų apie sandorius teikimo subjektai turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės, informacijos apie sandorius paslaugų teikėjo ir centrinio depozitoriumo vadovams ar kitiems įgaliotiesiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 600/2014, Reglamento (ES) Nr. 909/2014 ar Reglamento (ES) 2019/2033 nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė, informacijos apie sandorius paslaugų teikėjas ir centrinis depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos banko įstatymo 437 straipsnio 1 dalyje nustatyti reikalavimai.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
  
 
 
@@ -3984,7 +4138,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 39 straipsnis. Sandoriai su tinkamomis sandorio šalimis
 
 
-1. Finansų maklerio įmonė, vykdanti pavedimus klientų naudai ir (arba) sudaranti sandorius savo sąskaita, ir (arba) priimanti ir perduodanti klientų pavedimus, turi teisę sudaryti sandorius arba tarpininkauti sudarant sandorius su tinkamomis sandorio šalimis nesilaikydama šio įstatymo 29 straipsnyje (išskyrus 5–8 dalis), 30, 33 straipsniuose ir 34 straipsnio 1 dalyje nustatytų reikalavimų dėl sudaromų sandorių ir su šiais sandoriais tiesiogiai susijusių papildomų paslaugų.
+1. Finansų maklerio įmonė, vykdanti pavedimus klientų naudai ir (arba) sudaranti sandorius savo sąskaita, ir (arba) priimanti ir perduodanti klientų pavedimus, turi teisę sudaryti sandorius arba tarpininkauti sudarant sandorius su tinkamomis sandorio šalimis nesilaikydama šio įstatymo 29 straipsnyje (išskyrus 81 ir 82 dalis), 30 straipsnyje, 31 straipsnio 1–3 dalyse, 33 straipsnyje ir 34 straipsnio 1 dalyje nustatytų reikalavimų dėl sudaromų sandorių ir su šiais sandoriais tiesiogiai susijusių papildomų paslaugų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -5929,10 +6086,10 @@ BIRŽOS PREKIŲ IŠVESTINIŲ FINANSINIŲ PRIEMONIŲ POZICIJŲ APRIBOJIMAI, VALDY
  
 
 
-72 straipsnis. Biržos prekių išvestinių finansinių priemonių pozicijų apribojimai 
+72 straipsnis. Biržos prekių išvestinių finansinių priemonių pozicijų apribojimai
 
 
-1. Priežiūros institucija, vadovaudamasi Europos vertybinių popierių ir rinkų institucijos patvirtintais skaičiavimo metodais, nustato ir taiko grynųjų pozicijų, kurias bet kuriuo metu gali turėti bet kuris asmuo pagal sutartį dėl biržos prekių išvestinių finansinių priemonių, kuriomis prekiaujama prekybos vietose, įskaitant ekonomiškai lygiaverčius nebiržinės prekybos sandorius, dydžio apribojimus.
+1. Priežiūros institucija, vadovaudamasi Europos vertybinių popierių ir rinkų institucijos pateiktais ir Europos Komisijos patvirtintais skaičiavimo metodais, nustato ir taiko žemės ūkio biržos prekių išvestinių finansinių priemonių, esminių arba svarbių biržos prekių išvestinių finansinių priemonių, kuriomis prekiaujama prekybos vietose, ir ekonomiškai lygiaverčių nebiržinės prekybos sutarčių grynųjų pozicijų, kurias bet kuriuo metu gali turėti bet kuris asmuo, dydžio apribojimus. Biržos prekių išvestinės finansinės priemonės laikomos esminėmis arba svarbiomis, jeigu galutinių pozicijų turėtojų visų grynųjų pozicijų suma prilygsta jų atviros pozicijos dydžiui ir jie vidutiniškai turi ne mažiau kaip 300 tūkstančių lotų per vienų metų laikotarpį.
 
 
 
@@ -5952,7 +6109,27 @@ BIRŽOS PREKIŲ IŠVESTINIŲ FINANSINIŲ PRIEMONIŲ POZICIJŲ APRIBOJIMAI, VALDY
 
 
 
-3. Biržos prekių išvestinių finansinių priemonių pozicijų apribojimai netaikomi pozicijoms, turimoms ne finansų įstaigos arba ne finansų įstaigos vardu, kurias galima objektyviai įvertinti nustatant, kad jos skirtos tiesiogiai su tos ne finansų įstaigos komercine veikla susijusiai rizikai mažinti.
+3. Biržos prekių išvestinių finansinių priemonių pozicijų apribojimai netaikomi:
+
+
+1) pozicijoms, kurias laiko ne finansų įstaiga ar kurios laikomos tokios įstaigos vardu ir kurias galima objektyviai įvertinti kaip mažinančias tiesiogiai su tos ne finansų įstaigos komercine veikla susijusią riziką;
+
+
+
+
+2) pozicijoms, kurias laiko komercinės veiklos grupei priklausanti finansų įstaiga, veikianti komercinės veiklos grupės ne finansų įstaigos vardu, ar kurios laikomos tokios finansų įstaigos vardu, kai tas pozicijas galima objektyviai įvertinti kaip mažinančias tiesiogiai su tos ne finansų įstaigos komercine veikla susijusią riziką;
+
+
+
+
+3) finansų ir ne finansų sandorių šalių pozicijoms, kurias galima objektyviai įvertinti kaip atsiradusias iš biržos prekių išvestinių finansinių priemonių ir apyvartinių taršos leidimų sandorių, sudarytų siekiant vykdyti pareigas užtikrinti likvidumą prekybos vietoje, kai tokias pareigas vykdyti reikalauja priežiūros institucija pagal Europos Sąjungos arba nacionalinius teisės aktus arba prekybos vietos;
+
+
+
+
+4) bet kokiems kitiems šio įstatymo 3 straipsnio 52 dalies 3 punkte apibrėžtiems vertybiniams popieriams, kurie yra susiję su biržos preke arba šio įstatymo 3 straipsnio 15 dalies 10 punkte nurodyta finansine priemone.
+
+
 
 
 
@@ -5962,12 +6139,12 @@ BIRŽOS PREKIŲ IŠVESTINIŲ FINANSINIŲ PRIEMONIŲ POZICIJŲ APRIBOJIMAI, VALDY
 
 
 
-5. Atsižvelgdama į šio straipsnio 1 dalyje nurodytus Europos vertybinių popierių ir rinkų institucijos patvirtintus skaičiavimo metodus, priežiūros institucija nustato kiekvieno išvestinių finansinių priemonių sandorio, įskaitant ekonomiškai lygiaverčius nebiržinės prekybos sandorius, pozicijų limitus. 
+5. Atsižvelgdama į šio straipsnio 1 dalyje nurodytus Europos vertybinių popierių ir rinkų institucijos pateiktus ir Europos Komisijos patvirtintus skaičiavimo metodus, priežiūros institucija nustato esminių ar svarbių biržos prekių išvestinių finansinių priemonių ir žemės ūkio biržos prekių išvestinių finansinių priemonių, kuriomis prekiaujama prekybos vietose, pozicijų apribojimus. Tokie pozicijų apribojimai taip pat apima ekonomiškai lygiavertes nebiržinės prekybos sutartis.
 
 
 
 
-6. Nustačiusi esminius biržos prekių išvestinių finansinių priemonių pateiktinos pasiūlos arba atvirųjų pozicijų pokyčius arba kitus reikšmingus pakeitimus rinkoje, susijusius su pateiktina pasiūla arba atvirosiomis pozicijomis, priežiūros institucija peržiūri ir koreguoja nustatytus pozicijų apribojimus, vadovaudamasi Europos vertybinių popierių ir rinkų institucijos patvirtintais skaičiavimo metodais.
+6. Nustačiusi esminius biržos prekių išvestinių finansinių priemonių pateiktinos pasiūlos arba atvirųjų pozicijų pokyčius ar kitus reikšmingus pakeitimus rinkoje, susijusius su pateiktina pasiūla arba atvirosiomis pozicijomis, priežiūros institucija peržiūri ir koreguoja nustatytus pozicijų apribojimus, vadovaudamasi Europos vertybinių popierių ir rinkų institucijos pateiktais ir Europos Komisijos patvirtintais skaičiavimo metodais.
 
 
 
@@ -5977,30 +6154,32 @@ BIRŽOS PREKIŲ IŠVESTINIŲ FINANSINIŲ PRIEMONIŲ POZICIJŲ APRIBOJIMAI, VALDY
 
 
 
-8. Priežiūros institucija koreguoja biržos prekių išvestinių finansinių priemonių pozicijų apribojimus atsižvelgdama į Europos vertybinių popierių ir rinkų institucijos nuomonę arba pateikia šiai institucijai pagrindimą, kodėl mano, kad pakeitimų nereikia.
+8. Priežiūros institucija koreguoja biržos prekių išvestinių finansinių priemonių pozicijų apribojimus, atsižvelgdama į Europos vertybinių popierių ir rinkų institucijos nuomonę, arba pateikia šiai institucijai motyvus, kodėl mano, kad pakeitimų nereikia.
 
 
 
 
-9. Priežiūros institucija, nustačiusi biržos prekių išvestinių finansinių priemonių pozicijų apribojimus, kurie prieštarauja Europos vertybinių popierių ir rinkų institucijos nuomonei, nedelsdama savo interneto svetainėje paskelbia pranešimą, kuriame išsamiai paaiškina šių pozicijų apribojimų nustatymo motyvus. 
+9. Priežiūros institucija, nustačiusi biržos prekių išvestinių finansinių priemonių pozicijų apribojimus, kurie prieštarauja Europos vertybinių popierių ir rinkų institucijos nuomonei, nedelsdama savo interneto svetainėje paskelbia pranešimą, kuriame išsamiai paaiškina šių pozicijų apribojimų nustatymo motyvus.
 
 
 
 
-10. Kai ta pačia biržos prekių išvestine finansine priemone dideliu mastu prekiaujama prekybos vietose, esančiose ne vienoje valstybėje narėje, tos prekybos vietos, kurioje prekybos mastas yra didžiausias, priežiūros institucija nustato bendrą pozicijų apribojimą, taikytiną visai prekybai ta biržos prekių išvestine finansine priemone. Priežiūros institucija, nustatanti bendrą biržos prekių išvestinių finansinių priemonių pozicijų apribojimą, laikoma centrine priežiūros institucija. 
+10. Kai žemės ūkio biržos prekių išvestinėmis finansinėmis priemonėmis, kurios grindžiamos ta pačia pagrindine priemone ir pasižymi tokiomis pat savybėmis, prekiaujama dideliu mastu arba kai esminėmis ar svarbiomis biržos prekių išvestinėmis finansinėmis priemonėmis, kurios grindžiamos ta pačia pagrindine priemone ir pasižymi tokiomis pat savybėmis, prekiaujama prekybos vietose, esančiose ne vienoje valstybėje narėje, jeigu prekybos vieta, kurioje prekybos mastas yra didžiausias, yra Lietuvos Respublikoje, priežiūros institucija nustato bendrą pozicijų apribojimą, taikytiną visai prekybai tomis išvestinėmis finansinėmis priemonėmis. Priežiūros institucija, nustatanti bendrą biržos prekių išvestinių finansinių priemonių pozicijų apribojimą, laikoma centrine priežiūros institucija.
 
 
 
 
-11. Centrinė priežiūros institucija dėl taikytino bendro biržos prekių išvestinių finansinių priemonių pozicijų apribojimo ir jo pakeitimų konsultuojasi su kitų prekybos vietų, kuriose ta išvestine finansine priemone prekiaujama dideliu mastu, priežiūros institucijomis. Priežiūros institucija, nesutinkanti su centrinės priežiūros institucijos siūlomu bendru biržos prekių išvestinių finansinių priemonių pozicijų apribojimu, raštu išsamiai išdėsto visas priežastis, kodėl, jos nuomone, nesilaikoma šio straipsnio 1 dalyje nustatytų pozicijų apribojimų reikalavimų. Priežiūros institucijų ginčus dėl bendro biržos prekių išvestinių finansinių priemonių pozicijų apribojimo sprendžia Europos vertybinių popierių ir rinkų institucija.
+11. Centrinė priežiūros institucija dėl taikytino bendro biržos prekių išvestinių finansinių priemonių pozicijų apribojimo ir jo pakeitimų konsultuojasi su kitų prekybos vietų, kuriose prekiaujama tomis žemės ūkio biržos prekių išvestinėmis priemonėmis dideliu mastu arba kuriose prekiaujama tomis esminėmis ar svarbiomis biržos prekių išvestinėmis priemonėmis, priežiūros institucijomis. Jeigu priežiūros institucija nesutinka su centrinės priežiūros institucijos siūlomu bendru biržos prekių išvestinių finansinių priemonių pozicijų apribojimu, ji raštu išsamiai išdėsto visas priežastis, kodėl, jos nuomone, nesilaikoma šio straipsnio 1 dalyje nustatytų pozicijų apribojimų reikalavimų. Priežiūros institucijų ginčus dėl bendro biržos prekių išvestinių finansinių priemonių pozicijų apribojimo sprendžia Europos vertybinių popierių ir rinkų institucija.
 
 
 
 
-12. Prekybos vietų, kuriose prekiaujama ta pačia biržos prekės išvestine finansine priemone, priežiūros institucijos ir tos biržos prekės išvestinės finansinės priemonės pozicijų turėtojų priežiūros institucijos bendradarbiauja, įskaitant keitimąsi informacija, reikalinga stebint ir taikant bendrus pozicijų apribojimus.
+12. Prekybos vietų, kuriose dideliu mastu prekiaujama žemės ūkio biržos prekių išvestinėmis finansinėmis priemonėmis, grindžiamomis ta pačia biržos preke arba pasižyminčiomis tokiomis pat savybėmis, arba esminėmis ar svarbiomis biržos prekių išvestinėmis finansinėmis priemonėmis, grindžiamomis ta pačia biržos preke ir pasižyminčiomis tokiomis pat savybėmis, priežiūros institucijos ir tos biržos prekės išvestinės finansinės priemonės pozicijų turėtojų priežiūros institucijos bendradarbiauja, įskaitant keitimąsi informacija, reikalinga stebint ir taikant bendrus pozicijų apribojimus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
  
-
-
 
 
 
@@ -6021,7 +6200,7 @@ BIRŽOS PREKIŲ IŠVESTINIŲ FINANSINIŲ PRIEMONIŲ POZICIJŲ APRIBOJIMAI, VALDY
 
 
 
-2) susipažinti su asmenų pateikta informacija, įskaitant visą svarbią informaciją apie pozicijos arba prisiimtos rizikos dydį ir tikslą, informaciją apie naudos gavėjus arba pagrindinius savininkus, jungtinės veiklos susitarimus ir bet kokį turtą ar įsipareigojimus pagrindinėje rinkoje; 
+2) susipažinti su asmenų pateikta informacija, įskaitant visą svarbią informaciją apie pozicijos arba prisiimtos rizikos dydį ir tikslą, informaciją apie naudos gavėjus arba pagrindinius savininkus, jungtinės veiklos susitarimus ir bet kokį turtą ar įsipareigojimus pagrindinėje rinkoje, įskaitant, jeigu tikslinga, biržos prekių išvestinių finansinių priemonių, kurios grindžiamos ta pačia biržos preke ir pasižymi tokiomis pat savybėmis, kitose prekybos vietose ir ekonomiškai lygiaverčių nebiržinės prekybos sandorių, sudarytų per jų narius ir dalyvius, pozicijas; 
 
 
 
@@ -6031,9 +6210,12 @@ BIRŽOS PREKIŲ IŠVESTINIŲ FINANSINIŲ PRIEMONIŲ POZICIJŲ APRIBOJIMAI, VALDY
 
 
 
-4) reikalauti, kad asmuo laikinai suteiktų rinkai likvidumą sutarta kaina ir mastu, aiškiai nurodydamas, kad siekiama sumažinti didelės ar dominuojančios pozicijos rinkoje poveikį. 
+4) reikalauti, kad asmuo laikinai atkurtų rinkai likvidumą sutarta kaina ir mastu, aiškiai nurodydamas, kad siekiama sumažinti didelės ar dominuojančios pozicijos rinkoje poveikį.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -6131,7 +6313,10 @@ Priežiūros institucija taiko šiame įstatyme nustatytas poveikio priemones u�
 
 
 
-2. Pareigos, nurodytos šio straipsnio 1 dalies 1 ir 2 punktuose, taikomos tik tada, kai ir asmenų skaičius, ir jų atvirosios biržos prekių išvestinių finansinių priemonių pozicijos viršija teisės aktuose nustatytas minimalias ribas. 
+2. Pareigos, nurodytos šio straipsnio 1 dalies 1 ir 2 punktuose, taikomos tik tada, kai ir asmenų skaičius, ir jų atvirosios biržos prekių išvestinių finansinių priemonių pozicijos viršija teisės aktuose nustatytas minimalias ribas. Pozicijų išklotinės teikimo reikalavimas netaikomas kitiems vertybiniams popieriams, kurie nurodyti šio įstatymo 3 straipsnio 52 dalies 3 punkte ir kurie yra susiję su biržos preke arba šio įstatymo 3 straipsnio 15 dalies 10 punkte nurodyta finansine priemone.
+Straipsnio dalies pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -6151,7 +6336,7 @@ Priežiūros institucija taiko šiame įstatyme nustatytas poveikio priemones u�
 
 
 
-4. Finansų maklerio įmonės, prekiaujančios biržos prekių išvestinėmis finansinėmis priemonėmis arba apyvartiniais taršos leidimais ar su apyvartiniais taršos leidimais susietomis išvestinėmis finansinėmis priemonėmis ne prekybos vietoje, priežiūros institucijai, kai ji prižiūri prekybos vietą, kurioje prekiaujama tomis biržos prekių išvestinėmis finansinėmis priemonėmis arba apyvartiniais taršos leidimais ar jų išvestinėmis finansinėmis priemonėmis, arba centrinei priežiūros institucijai, jeigu tomis biržos prekių išvestinėmis finansinėmis priemonėmis arba apyvartiniais taršos leidimais ar su apyvartiniais taršos leidimais susietomis išvestinėmis finansinėmis priemonėmis dideliu mastu prekiaujama prekybos vietose, esančiose ne vienoje valstybėje narėje, bent vieną kartą per dieną privalo pateikti:
+4. Finansų maklerio įmonės, prekiaujančios biržos prekių išvestinėmis finansinėmis priemonėmis arba apyvartiniais taršos leidimais ar su apyvartiniais taršos leidimais susietomis išvestinėmis finansinėmis priemonėmis ne prekybos vietoje, šio įstatymo 72 straipsnio 10 dalyje nurodytai centrinei priežiūros institucijai arba, kai centrinės priežiūros institucijos nėra, priežiūros institucijai, kai ji prižiūri prekybos vietą, kurioje prekiaujama tomis biržos prekių išvestinėmis finansinėmis priemonėmis arba apyvartiniais taršos leidimais ar jų išvestinėmis finansinėmis priemonėmis, arba centrinei priežiūros institucijai, jeigu tomis biržos prekių išvestinėmis finansinėmis priemonėmis arba apyvartiniais taršos leidimais ar su apyvartiniais taršos leidimais susietomis išvestinėmis finansinėmis priemonėmis dideliu mastu prekiaujama prekybos vietose, esančiose ne vienoje valstybėje narėje, bent vieną kartą per dieną privalo pateikti:
 
 
 1) išsamią pozicijų išklotinę, nurodydamos pozicijas, įgytas prekiaujant biržos prekių išvestinėmis finansinėmis priemonėmis arba apyvartiniais taršos leidimais ar su apyvartiniais taršos leidimais susietomis išvestinėmis finansinėmis priemonėmis ir sudarant ekonomiškai lygiavertes nebiržinės prekybos sutartis;
@@ -6159,9 +6344,12 @@ Priežiūros institucija taiko šiame įstatyme nustatytas poveikio priemones u�
 
 
 
-2) duomenis apie savo klientus ir tų klientų klientus, kol bus pasiektas galutinis klientas, kaip nurodyta Reglamento (ES) Nr. 600/2014 26 straipsnyje, ir, jeigu taikoma, Reglamento (ES) Nr. 1227/2011 8 straipsnyje.
+2) duomenis apie savo klientus ir tų klientų klientus, kol bus pasiektas galutinis klientas, kaip nurodyta Reglamento (ES) Nr. 600/2014 26 straipsnyje, ir Reglamento (ES) Nr. 1227/2011 8 straipsnyje, kai tai susiję su didmeniniais energetikos produktais.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -8460,11 +8648,15 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+
+ 
+
  
  
+part_b7f8f80643a34dc8a09198e242da7f7e_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -8518,7 +8710,7 @@ Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 
 
-8. 2014 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES, su paskutiniais pakeitimais, padarytais 2020 m. spalio 7 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1504.
+8. 2014 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES, su paskutiniais pakeitimais, padarytais 2021 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/338.
 Punkto pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
  
@@ -8615,8 +8807,7 @@ Priedo pakeitimai:
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
  
-
-
+part_b32f3cf279484c969b1f81d65094d04b_end
 
 
  
