@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2021-11-22 iki 2022-02-28
+Suvestinė redakcija nuo 2022-03-01 iki 2022-05-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -647,9 +647,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-12) nustato gamtinių dujų atsargų kaupimo ir panaudojimo buitiniams vartotojams tvarką; 
+12) nustato gamtinių dujų atsargų kaupimo ir panaudojimo pažeidžiamiems vartotojams ir kitas tiekimo patikimumo užtikrinimo priemones ir jų taikymo tvarką;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
  
 
 
@@ -3232,7 +3233,10 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 5. Taryba gamtinių dujų tiekimo saugumo užtikrinimo srityje prižiūri:
 
 
-1) tiekimo įmonių gamtinių dujų atsargų kaupimą ir laikymą;
+1) tiekimo įmonių taikomų priemonių veiksmingumą, užtikrinant patikimą gamtinių dujų tiekimą pažeidžiamiems vartotojams;
+Straipsnio punkto pakeitimai:
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
+ 
 
 
 
@@ -3265,9 +3269,10 @@ Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 46 straipsnis. Gamtinių dujų tiekimo saugumą užtikrinančios priemonės 
 
 
-1. Gamtinių dujų įmonės privalo būti nuolat pasirengusios veikti galimo dujų tiekimo sutrikimo atveju ir įgyvendinti nacionalinį prevencinį planą gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, kilus grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei žmonių sveikatai ar saugumui, gamtinių dujų įmonės privalo įgyvendinti nacionalinį ekstremaliųjų situacijų valdymo planą ir nedelsdamos imtis visų pagrįstų priemonių gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Šios priemonės turi būti pagrįstos ir proporcingos. Gamtinių dujų įmonės apie taikomas prevencines ir ekstremaliųjų situacijų valdymo priemones praneša Energetikos ministerijai. Gamtinių dujų tiekimo sutrikimo ar nutraukimo atveju vartotojams gamtinių dujų tiekimą užtikrina tiekimo įmonė, kuri tiekė gamtines dujas prieš gamtinių dujų tiekimo apribojimą ar nutraukimą, prioriteto tvarka tiekdama gamtines dujas pažeidžiamiems vartotojams. 
+1. Gamtinių dujų įmonės privalo būti nuolat pasirengusios veikti galimo dujų tiekimo sutrikimo atveju ir įgyvendinti nacionalinį prevencinį planą gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, kilus grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei žmonių sveikatai ar saugumui, gamtinių dujų įmonės privalo įgyvendinti nacionalinį ekstremaliųjų situacijų valdymo planą ir nedelsdamos imtis visų pagrįstų priemonių gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Šios priemonės turi būti pagrįstos ir proporcingos. Gamtinių dujų įmonės apie taikomas prevencines ir ekstremaliųjų situacijų valdymo priemones praneša Energetikos ministerijai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
  
 
 
@@ -3291,7 +3296,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-5. Buitinių vartotojų nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidos įtraukiamos apskaičiuojant gamtinių dujų tiekimo kainą kaip atskira tiekimo kainos dalis. Nebuitiniai vartotojai pagal sutartis nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidas padengia savo lėšomis.
+5. Buitinių vartotojų nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidos, kurių įtraukimo į gamtinių dujų tiekimo sąnaudų metodiką tvirtina Taryba, įtraukiamos apskaičiuojant gamtinių dujų tiekimo kainą kaip atskira tiekimo kainos dalis. Nebuitiniai vartotojai pagal sutartis nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidas padengia savo lėšomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
+ 
 
 
 
@@ -3318,40 +3326,31 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-47 straipsnis. Gamtinių dujų atsargų kaupimas
+47 straipsnis. Gamtinių dujų tiekimas pažeidžiamiems vartotojams
 
 
-1. Siekiant patikimo gamtinių dujų tiekimo Lietuvos Respublikoje, gamtinių dujų tiekėjai privalo, o nebuitiniai vartotojai turi teisę kaupti gamtinių dujų atsargas, kurios gali būti panaudojamos tik laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos tvarkos. 
-
-
-
-
-2. Gamtinių dujų tiekimo įmonės ir nebuitiniai vartotojai gamtinių dujų atsargas kaupia sudarydami sutartis su gamtinių dujų laikymo įmonėmis, registruotomis, veikiančiomis ir turinčiomis saugyklas bet kurioje valstybėje narėje, gamtinių dujų perdavimo sistema sujungtoje su Lietuvos Respublika. Gamtinių dujų tiekimo įmonės gamtinių dujų atsargas gali kaupti ir pačios. 
+1. Tiekimo įmonės privalo imtis priemonių, kuriomis būtų užtikrintas gamtinių dujų tiekimas pažeidžiamiems vartotojams kiekvienu Reglamento (ES) 2017/1938 6 straipsnio 1 dalyje nustatytu atveju.
 
 
 
 
-3. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į buitinių vartotojų gamtinių dujų suvartojimą Reglamento (ES) Nr. 2017/1938 6 straipsnio 1 dalyje nustatytais atvejais ir į būtinybę užtikrinti nepertraukiamą gamtinių dujų tiekimą, nustato gamtinių dujų tiekėjams privalomą sukaupti gamtinių dujų kiekį ir šio kiekio sukaupimo terminus. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
- 
+2. Įgyvendindamos šio straipsnio 1 dalyje nustatytą reikalavimą, tiekimo įmonės visų pirma turi naudoti gamtinių dujų rinkos priemones, taip pat turi teisę kaupti gamtinių dujų atsargas pažeidžiamiems vartotojams, kurios gali būti panaudojamos tik laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos tvarkos.
 
 
 
 
-4. Gamtinių dujų atsargų kaupimo išlaidų įtraukimo į gamtinių dujų tiekimo sąnaudas metodiką patvirtina Taryba. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
- 
+3. Tiekimo įmonės gamtinių dujų atsargas pažeidžiamiems vartotojams kaupia pačios arba sudarydamos sutartis su gamtinių dujų įmonėmis, registruotomis, veikiančiomis ir (ar) turinčiomis saugyklas bet kurioje valstybėje narėje, gamtinių dujų perdavimo sistema sujungtoje su Lietuvos Respublika. 
 
 
 
 
-5. Neteko galios nuo 2012-06-19.
+4. Gamtinių dujų tiekimo sutrikimo ar nutraukimo atveju vartotojams gamtinių dujų tiekimą užtikrina tiekimo įmonė, kuri tiekė gamtines dujas prieš gamtinių dujų tiekimo apribojimą ar nutraukimą, prioriteto tvarka tiekdama gamtines dujas pažeidžiamiems vartotojams.
 
 
 Straipsnio pakeitimai:
 Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
+Straipsnio pakeitimai:
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
  
 
 
@@ -3882,7 +3881,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-4) nutraukiamas ar apribojamas gamtinių dujų tiekimas į Lietuvos Respublikos teritoriją ir gamtinių dujų įmonės neturi pakankamo gamtinių dujų atsargų rezervo.
+4) nutraukiamas ar apribojamas gamtinių dujų tiekimas į Lietuvos Respublikos teritoriją. Pažeidžiamiems vartotojams gamtinių dujų tiekimas gali būti apribojamas ar nutraukiamas tik išnaudojus šio įstatymo 47 straipsnyje numatytas priemones.
+Straipsnio punkto pakeitimai:
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
+ 
 
 
 
@@ -4156,7 +4158,7 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTĖ                                                       DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                        DALIA GRYBAUSKAITĖ
  
 
 
