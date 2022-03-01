@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-02-28
+Suvestinė redakcija nuo 2022-03-01 iki 2022-03-30
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -890,28 +890,68 @@ Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
 15 straipsnis. Lietuvos mokslo taryba
 
 
-1. Lietuvos mokslo taryba yra biudžetinė įstaiga. Ją Vyriausybės teikimu steigia ir jos nuostatus tvirtina Seimas. Lietuvos mokslo taryba yra atskaitinga Seimui ir Vyriausybei. Lietuvos mokslo tarybą sudaro nariai, dirbantys jos valdyboje ir komitetuose, taip pat valstybės tarnautojai ir darbuotojai, dirbantys Lietuvos mokslo tarybos Mokslo fonde. Lietuvos mokslo tarybos vienasmenis valdymo organas yra Lietuvos mokslo tarybos pirmininkas. Lietuvos mokslo tarybos pirmininką ir jo pavaduotojus Vyriausybės teikimu tvirtina Seimas. Kitus Lietuvos mokslo tarybos narius švietimo ir mokslo ministro teikimu tvirtina Vyriausybė. Skiriami asmenys privalo būti nepriekaištingos reputacijos. Lietuvos mokslo tarybos valdyba yra kolegialus valdymo organas. Lietuvos mokslo tarybos valdybos ir komiteto narių atranką ir skyrimą reglamentuoja Lietuvos mokslo tarybos nuostatai. 
+1. Lietuvos mokslo taryba yra ekspertinę ir patariamąją funkciją valstybės mokslo ir studijų politikos klausimais atliekanti ir pagal savo kompetenciją valstybės mokslo ir studijų politiką įgyvendinanti institucija. Lietuvos mokslo tarybos veiklos tikslai – teikti valstybės mokslo ir studijų politiką formuojančioms institucijoms siūlymus, išvadas bei rekomendacijas dėl mokslinių tyrimų ir eksperimentinės plėtros, moksliniais tyrimais grįstų inovacijų, aukštojo mokslo ir mokslininkų rengimo politikos formavimo ir įgyvendinimo, formuoti moksliniams tyrimams ir eksperimentinei plėtrai palankią aplinką, skatinti mokslinių tyrimų ir eksperimentinės plėtros veiklos kokybę bei šios veiklos rezultatų perdavimą visuomenei, skatinti Lietuvos Respublikos fizinių ir juridinių asmenų integraciją į tarptautinę mokslinių tyrimų erdvę, organizuoti ir vykdyti programinį konkursinį mokslinių tyrimų ir eksperimentinės plėtros veiklos finansavimą pagal Vyriausybės ar jos įgaliotos institucijos arba Lietuvos mokslo tarybos patvirtintas programas ar kitas priemones bei Lietuvos mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros bei meno veiklos vertinimus, mokslo ir meno doktorantūros bei mokslininkų stažuotojų ugdymo vertinimus, Lietuvos narystės tarptautinėse mokslinių tyrimų infrastruktūrose vertinimus, Seimo ar Vyriausybės pavedimu atstovauti Lietuvos Respublikai tarptautinėse mokslinių tyrimų infrastruktūrose, skatinti mokslo ir studijų institucijų ir ūkio subjektų bendradarbiavimą mokslinių tyrimų ir eksperimentinės plėtros srityje. Lietuvos mokslo tarybos funkcijas nustato Lietuvos mokslo tarybos nuostatai ir kiti teisės aktai.
 
 
 
 
-2. Lietuvos mokslo taryba yra Seimo ir Vyriausybės patarėja mokslo ir mokslininkų rengimo politikos klausimais, atlieka ekspertines funkcijas svarstant šalies mokslo klausimus. Lietuvos mokslo taryba pagal savo kompetenciją įgyvendina mokslinių tyrimų ir eksperimentinės plėtros politiką, formuoja moksliniams tyrimams ir eksperimentinei plėtrai palankią aplinką, skatina Lietuvos Respublikos fizinių ir juridinių asmenų integraciją į tarptautinę mokslinių tyrimų erdvę, organizuoja ir vykdo programinį konkursinį mokslinių tyrimų, eksperimentinės plėtros darbų finansavimą pagal Vyriausybės ar jos įgaliotos institucijos arba Lietuvos mokslo tarybos patvirtintas programas bei organizuoja Lietuvoje vykdomų mokslinių tyrimų ir eksperimentinės plėtros, vykdomos mokslo ir studijų institucijose, bei doktorantūros vertinimą. Lietuvos mokslo taryba turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų, kurių veikla susijusi su valstybės reguliuojama mokslo ir studijų veikla, informaciją, būtiną nustatytoms funkcijoms atlikti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
+2. Lietuvos mokslo taryba yra biudžetinė įstaiga. Lietuvos mokslo tarybos nuostatus tvirtina ir jos savininko teises ir pareigas įgyvendina Vyriausybė. Lietuvos mokslo taryba yra atskaitinga Vyriausybei.
+
+
+
+
+3. Lietuvos mokslo tarybą sudaro valdyba, pirmininkas, pirmininko pavaduotojas, Humanitarinių ir socialinių mokslų ekspertų komitetas, Gamtos ir technikos mokslų ekspertų komitetas, Mokslo ir studijų politikos ekspertų komitetas ir administracija. Administraciją sudaro Mokslo fondas ir kiti padaliniai. Lietuvos mokslo tarybos valdymo organai ir struktūriniai padaliniai atlieka šiame įstatyme ir Lietuvos mokslo tarybos nuostatuose nustatytas funkcijas. Lietuvos mokslo tarybos valdybos ir ekspertų komitetų sudarymo tvarką nustato Lietuvos mokslo tarybos nuostatai. Į Lietuvos mokslo tarybos valdymo organus ir ekspertų komitetus skiriami nepriekaištingos reputacijos asmenys.
+
+
+
+
+4. Valdyba yra kolegialus Lietuvos mokslo tarybos valdymo organas. Valdybą sudaro 7 nariai, iš jų ne mažiau kaip pusė valdybos narių turi būti tarptautinės darbo patirties turintys mokslininkai. Valdybą 5 metų kadencijai skiria Vyriausybė. Tas pats asmuo valdybos nariu gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Valdyba tvirtina Lietuvos mokslo tarybos ilgalaikę strategiją, strateginius veiklos planus, metinę veiklos ataskaitą, ekspertų komitetų pirmininkus, narius, Lietuvos mokslo tarybos pirmininko kadencijos laikotarpiui jo teikimu Lietuvos mokslo tarybos pirmininko pavaduotoją ir atlieka kitas įstatymų ir kitų teisės aktų jai pavestas funkcijas.
+
+
+
+
+5. Lietuvos mokslo tarybos pirmininkas yra vienasmenis Lietuvos mokslo tarybos valdymo organas. Lietuvos mokslo tarybos pirmininką 5 metų kadencijai Vyriausybės teikimu skiria Seimas. Tas pats asmuo Lietuvos mokslo tarybos pirmininku gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
+
+
+
+
+6. Humanitarinių ir socialinių mokslų ekspertų komitetas, Gamtos ir technikos mokslų ekspertų komitetas ir Mokslo ir studijų politikos ekspertų komitetas atlieka patariamąsias ir ekspertines funkcijas. Ekspertų komitetų nariai skiriami 5 metų kadencijai. Tas pats asmuo ekspertų komiteto nariu gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
+
+
+
+
+7. Lietuvos mokslo taryba turi teisę:
+
+
+1) gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų, kurių veikla susijusi su valstybės reguliuojama mokslo ir studijų veikla, informaciją, būtiną nustatytoms funkcijoms atlikti;
+
+
+
+
+2) sudaryti komisijas, darbo grupes, nustatyti jų narių skaičių, asmeninę sudėtį ir užduotis;
+
+
+
+
+3) būti tarptautinių ne pelno siekiančių organizacijų, veikiančių su Lietuvos mokslo tarybos veikla susijusiose srityse, nare.
+
+
+
+
+
+
+8. Lietuvos mokslo taryba, atlikdama jai pavestas funkcijas, privalo imtis visų priemonių, kuriomis būtų užtikrintas mokslinės veiklos etikos principų laikymasis.
+
+
+
+
+9. Lietuvos mokslo tarybos valdymo organų ir ekspertinių komitetų nariams už atitinkamą veiklą Lietuvos mokslo taryboje gali būti mokamos išmokos Lietuvos mokslo tarybos nuostatuose nustatyta tvarka.
+TAR pastaba. Lietuvos mokslo tarybos nariai, išskyrus Lietuvos mokslo tarybos valdybą, paskirti Lietuvos Respublikos Seimo ar Lietuvos Respublikos Vyriausybės, savo veiklą tęsia iki jiems nustatytos kadencijos pabaigos. Lietuvos mokslo tarybos valdyba turi būti sudaryta pagal įstatymo Nr. XIV-894 nuostatas iki 2022-09-01.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
  
-
-
-
-
-3. Lietuvos mokslo taryba savo funkcijoms atlikti turi teisę sudaryti komisijas, komitetus, darbo grupes, nustatydama jų narių skaičių, sudarymo būdą, pareigas ir įgaliojimus. Lietuvos mokslo taryba, atlikdama jai pavestas funkcijas, privalo imtis visų priemonių, kuriomis būtų užtikrintas mokslinės veiklos etikos principų laikymasis. Lietuvos mokslo tarybos nariams gali būti mokamos išmokos už atitinkamą veiklą Lietuvos mokslo tarybos nuostatuose nustatyta tvarka.
-
-
-
-
-4. Lietuvos mokslo taryba gali būti tarptautinių ne pelno siekiančių organizacijų, veikiančių su Lietuvos mokslo tarybos veikla susijusiose srityse, narė.
- 
-
-
 
 
 
@@ -1352,6 +1392,19 @@ Nr. XIII-3116, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15349
  
 
 
+
+
+
+
+241 straipsnis. Atstovavimas Lietuvai su moksliniais tyrimais ir eksperimentine plėtra susijusiose Europos Sąjungos ir kitų tarptautinių organizacijų darbo grupėse, komitetuose ir komisijose
+
+
+Atstovauti Lietuvai su moksliniais tyrimais ir eksperimentine plėtra susijusiose Europos Sąjungos ir kitų tarptautinių organizacijų darbo grupėse, komitetuose ir komisijose švietimo, mokslo ir sporto ministro nustatyta tvarka deleguojami asmenys iš Lietuvos mokslo ir studijų institucijų ir kitų įstaigų, įmonių, organizacijų. Į su moksliniais tyrimais ir eksperimentine plėtra susijusias Europos Sąjungos ir kitų tarptautinių organizacijų darbo grupes, komitetus ir komisijas deleguotiems asmenims atstovavimo išlaidoms švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti skiriama lėšų iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų.
+
+
+Papildyta straipsniu:
+Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
+ 
 
 
 
@@ -3846,20 +3899,20 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 
 
 
-73 straipsnis. Studentų, dėstytojų, mokslininkų ir kitų tyrėjų organizacijos
+73 straipsnis. Mokslo ir studijų institucijų, studentų, dėstytojų, mokslininkų ir kitų tyrėjų organizacijos
 
 
-1. Studentai, dėstytojai, mokslininkai ir kiti tyrėjai turi teisę Asociacijų įstatymo nustatyta tvarka burtis į sąjungas ir kitas asociacijas.
-
-
-
-
-2. Studentų sąjungos ir organizacijos, dėstytojų, mokslininkų ir kitų tyrėjų organizacijos, studentų mokslinės draugijos ir kitos asociacijos, veikiančios pagal įstatymus ir savo įstatus, veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali gauti lėšų iš Lietuvos mokslo tarybai šiam tikslui skirtų valstybės biudžeto lėšų Lietuvos mokslo tarybos nustatyta tvarka.
+1. Mokslo ir studijų institucijos, studentai, dėstytojai, mokslininkai ir kiti tyrėjai turi teisę Asociacijų įstatymo nustatyta tvarka burtis į sąjungas ir kitas asociacijas.
 
 
 
 
-3. Mokslo ir studijų institucijų tarpusavio ryšius bei ryšius su valstybės valdžios ir valdymo bei savivaldybių institucijomis koordinuoja Lietuvos universitetų rektorių konferencija (konferencijos), Lietuvos kolegijų direktorių konferencija (konferencijos), Lietuvos mokslinių tyrimų institutų direktorių konferencija (konferencijos) ir kitos organizacijos bei asociacijos, veikiančios pagal įstatymus ir savo įstatus.
+2. Mokslo ir studijų institucijų, studentų sąjungos ir organizacijos, dėstytojų, mokslininkų ir kitų tyrėjų organizacijos, studentų mokslinės draugijos ir kitos asociacijos, veikiančios pagal įstatymus ir savo įstatus, veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali gauti lėšų iš Lietuvos mokslo tarybai šiam tikslui skirtų valstybės biudžeto lėšų Lietuvos mokslo tarybos nustatyta tvarka.
+
+
+
+
+3. Mokslo ir studijų institucijų tarpusavio ryšius ir ryšius su valstybės valdžios ir valdymo bei savivaldybių institucijomis koordinuoja Lietuvos universitetų rektorių konferencija (konferencijos), Lietuvos kolegijų direktorių konferencija (konferencijos), Lietuvos mokslinių tyrimų institutų direktorių konferencija (konferencijos) ir kitos organizacijos bei asociacijos, veikiančios pagal įstatymus ir savo įstatus. Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų), Lietuvos mokslinių tyrimų institutų direktorių konferencijos (konferencijų) veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali būti skiriama lėšų iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų.
 
 
 
@@ -3870,9 +3923,16 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 
 
 5. Lietuvių katalikų mokslo akademija vienija žymiausius katalikiškos orientacijos Lietuvos, išeivijos ir savo veikla su Lietuva susijusius užsienio mokslininkus. Lietuvių katalikų mokslo akademija veikia pagal savo įstatus.
+
+
+
+
+6. Lietuvos mokslinių bibliotekų asociacija (asociacijos) vienija mokslo ir studijų institucijas, turinčias mokslines bibliotekas, ir kitas mokslines bibliotekas. Lietuvos mokslinių bibliotekų asociacija (asociacijos) veikia pagal įstatymus ir savo įstatus. Lietuvos mokslinių bibliotekų asociacijai (asociacijoms) elektroninių mokslo ir studijų duomenų bazių atrankai ir prenumeratai švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti skiriama lėšų iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
  
-
-
 
 
 
@@ -5457,3 +5517,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-723, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25841
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 15, 73 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
