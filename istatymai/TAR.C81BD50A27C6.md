@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2021-12-29 iki 2022-02-28
+Suvestinė redakcija nuo 2022-03-01 iki 2022-05-25
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -100,7 +99,10 @@ Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
 
 
 
-5. Universiteto ligoninė – viešoji asmens sveikatos priežiūros ir mokslo įstaiga, kartu su valstybine aukštąja mokykla vykdanti trijų pakopų medicinos studijas, teikianti visų lygių asmens sveikatos priežiūros paslaugas ir tobulinanti medicinos specialistus. Universiteto ligoninės steigėjai – Sveikatos apsaugos ministerija ir valstybinė aukštoji mokykla.
+5. Universiteto ligoninė – viešoji asmens sveikatos priežiūros įstaiga, kartu su valstybiniu universitetu vykdanti medicinos ir (ar) slaugos ir akušerijos studijų krypčių medicinos ir (ar) slaugos studijų programas bei medicinos ir sveikatos mokslų srities mokslinius tyrimus ir eksperimentinę plėtrą, teikianti visų lygių asmens sveikatos priežiūros paslaugas ir tobulinanti sveikatos priežiūros specialistus. Lietuvos Respublikoje gali veikti po vieną universiteto ligoninę Vilniuje, Kaune ir Klaipėdoje. Universiteto ligoninės dalininkais gali būti valstybė (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas) kartu su valstybiniu universitetu, kuriame vykdomos medicinos ir (ar) slaugos ir akušerijos studijų krypčių medicinos ir (ar) slaugos studijų programos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-814, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27704
+ 
 
 
 
@@ -1840,7 +1842,10 @@ LNSS viešųjų įstaigų steigėjais gali būti ir viešosios įstaigos savinin
 
 
 
-4) valstybinės aukštosios mokyklos (universitetai) kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas), gavusios (gavę) Vyriausybės leidimą (Vyriausybės leidimas būtinas ir tais atvejais, kai valstybinės aukštosios mokyklos (universitetai) tampa jau įsteigtų LNSS viešųjų įstaigų, kurių savininkė yra valstybė, dalininkėmis (dalininkais);
+4) valstybiniai universitetai kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas), gavę Vyriausybės leidimą (Vyriausybės leidimas būtinas ir tais atvejais, kai valstybiniai universitetai tampa jau įsteigtų LNSS viešųjų įstaigų, kurių savininkė yra valstybė, dalininkais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-814, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27704
+ 
 
 
 
@@ -2089,14 +2094,15 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-32 straipsnis. Valstybinių aukštųjų mokyklų (universitetų), valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų viešųjų įstaigų vadovai 
+32 straipsnis. Valstybinių universitetų, valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų viešųjų įstaigų vadovai
 
 
-Viešą konkursą valstybinių aukštųjų mokyklų (universitetų), valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų viešųjų įstaigų vadovų pareigoms eiti organizuoja valstybinė aukštoji mokykla (universitetas) ar mokslinių tyrimų institutas kartu su Sveikatos apsaugos ministerija. Darbo sutartį su konkursą laimėjusiu įstaigos vadovu sudaro ir ją nutraukia sveikatos apsaugos ministras. 
+Viešą konkursą valstybinių universitetų, valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų viešųjų įstaigų vadovų pareigoms eiti organizuoja valstybinis universitetas ar mokslinių tyrimų institutas kartu su Sveikatos apsaugos ministerija. Darbo sutartį su konkursą laimėjusiu įstaigos vadovu sudaro ir ją nutraukia sveikatos apsaugos ministras.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+Nr. XIV-814, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27704
  
 
 
@@ -2140,7 +2146,10 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-6. LNSS viešosios įstaigos, kurios dalininkai yra valstybinės aukštosios mokyklos (universitetai) ar valstybiniai mokslinių tyrimų institutai kartu su valstybe, stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos paskirtų asmenų, dviejų valstybinės aukštosios mokyklos (universiteto) ar valstybinio mokslinių tyrimų instituto vadovo paskirtų asmenų, vieno savivaldybės, kurios teritorijoje yra valstybinė aukštoji mokykla (universitetas), tarybos paskirto asmens arba vieno savivaldybės, kurios teritorijoje yra valstybinis mokslinių tyrimų institutas, tarybos paskirto asmens ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens.
+6. LNSS viešosios įstaigos, kurios dalininkai yra valstybiniai universitetai ar valstybiniai mokslinių tyrimų institutai kartu su valstybe, stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos paskirtų asmenų, dviejų valstybinio universiteto ar valstybinio mokslinių tyrimų instituto vadovo paskirtų asmenų, vieno savivaldybės, kurios teritorijoje yra valstybinis universitetas, tarybos paskirto asmens arba vieno savivaldybės, kurios teritorijoje yra valstybinis mokslinių tyrimų institutas, tarybos paskirto asmens ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens.
+Straipsnio dalies pakeitimai:
+Nr. XIV-814, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27704
+ 
 
 
 
@@ -3893,3 +3902,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir 45 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-814, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27704
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 27, 32 ir 33 straipsnių pakeitimo įstatymas
