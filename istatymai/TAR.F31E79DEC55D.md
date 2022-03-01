@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-02-28
+Suvestinė redakcija nuo 2022-03-01 iki 2022-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -2946,7 +2946,15 @@ Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
 
 
 
-15) statinio projekto priėmimo–perdavimo aktas.
+15) statinio projekto priėmimo–perdavimo aktas;
+
+
+
+
+16) dokumentas, patvirtinantis atlyginimo už teisės statyti valstybinėje žemėje sumokėjimą į valstybės biudžetą, kai toks mokėjimas numatytas Lietuvos Respublikos žemės įstatymo 9¹ straipsnio 3, 4 ir 5 dalyse. 
+Papildyta straipsnio punktu:
+Nr. XIV-718, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25447
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3060,9 +3068,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-13. Šio straipsnio 1 dalies 1–7 punktuose nurodyti statybą leidžiantys dokumentai išduodami savivaldybės administracijos valstybės tarnautojui statybą leidžiančių dokumentų duomenis per 3 darbo dienas praėjus nustatytam statinio projekto patikrinimo terminui registruojant ir šio straipsnio 151 dalyje nurodytus jų duomenis (dokumentus) paskelbiant Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“, jeigu per statinio projektui patikrinti nustatytą terminą negauta statinio projektą turėjusių patikrinti subjektų nepritarimų statinio projektui, arba anksčiau, jeigu gauti visų statinio projektą turėjusių patikrinti subjektų pritarimai statinio projektui. Gavus nepritarimą (nepritarimų), statybą leidžiantis dokumentas neišduodamas ir statytojas apie tai per 3 darbo dienas praėjus statinio projekto patikrinimo terminui per Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinę sistemą „Infostatyba“ informuojamas nurodant neišdavimo priežastis ir pateikiant nepritarimo (nepritarimų) kopiją (kopijas). Šiame straipsnyje nustatyta tvarka pakartotinai teikto pakeisto pagal pastabas statinio projekto tikrinimo procedūras atlieka institucijos ar subjektai, nepritarę statinio projektui, taip pat institucijos ar subjektai, kurių kompetencija – statinio projekto sprendinių, kuriems įtaką daro pakeisto statinio projekto sprendiniai, patikrinimas; šiuo atveju tikrinimo procedūros atliekamos per 10 darbo dienų, skaičiuojant nuo dienos, kurią Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ pakartotinis prašymas išduoti statybą leidžiantį dokumentą pažymimas kaip priimtas. 
+13. Šio straipsnio 1 dalies 1–7 punktuose nurodyti statybą leidžiantys dokumentai išduodami savivaldybės administracijos valstybės tarnautojui statybą leidžiančių dokumentų duomenis per 3 darbo dienas praėjus nustatytam statinio projekto patikrinimo terminui registruojant ir šio straipsnio 151 dalyje nurodytus jų duomenis (dokumentus) paskelbiant Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“, jeigu per statinio projektui patikrinti nustatytą terminą negauta statinio projektą turėjusių patikrinti subjektų nepritarimų statinio projektui, arba anksčiau, jeigu gauti visų statinio projektą turėjusių patikrinti subjektų pritarimai statinio projektui. Gavus nepritarimą (nepritarimų) ir (ar) kai valstybinės žemės nuomos sutartyje nėra nuostatų, suteikiančių galimybę valstybinėje žemėje statyti ir (ar) rekonstruoti statinius, ir (ar) nuomininkui nesumokėjus į valstybės biudžetą atlyginimo už teisę statyti valstybinėje žemėje, kai toks mokėjimas privalomas vadovaujantis Žemės įstatymo 91 straipsnio 3, 4 ir 5 dalimis, statybą leidžiantis dokumentas neišduodamas ir statytojas apie tai per 3 darbo dienas praėjus statinio projekto patikrinimo terminui per Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinę sistemą „Infostatyba“ informuojamas nurodant neišdavimo priežastis ir pateikiant nepritarimo (nepritarimų) kopiją (kopijas). Šiame straipsnyje nustatyta tvarka pakartotinai teikto pakeisto pagal pastabas statinio projekto tikrinimo procedūras atlieka institucijos ar subjektai, nepritarę statinio projektui, taip pat institucijos ar subjektai, kurių kompetencija – statinio projekto sprendinių, kuriems įtaką daro pakeisto statinio projekto sprendiniai, patikrinimas; šiuo atveju tikrinimo procedūros atliekamos per 10 darbo dienų, skaičiuojant nuo dienos, kurią Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ pakartotinis prašymas išduoti statybą leidžiantį dokumentą pažymimas kaip priimtas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+Nr. XIV-718, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25447
  
 
 
@@ -3110,7 +3119,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-2) prašantis išduoti statybą leidžiantį dokumentą asmuo neturi teisės būti statytoju pagal šio įstatymo 3 straipsnio 2 dalies 1 ir 3 punktų reikalavimus;
+2) prašantis išduoti statybą leidžiantį dokumentą asmuo neturi teisės būti statytoju pagal šio įstatymo 3 straipsnio 2 dalies 1 ir 3 punktų reikalavimus ir nepateiktas dokumentas, patvirtinantis atlyginimo už teisės statyti valstybinėje žemėje sumokėjimą į valstybės biudžetą, kai šis mokėjimas numatytas Žemės įstatymo 91 straipsnio 3, 4 ir 5 dalyse;
+Straipsnio punkto pakeitimai:
+Nr. XIV-718, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25447
+ 
 
 
 
@@ -3322,7 +3334,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-9) ar statinio projekto sprendiniai neprieštarauja teritorijų planavimo dokumentų sprendiniams, ar statinio projekto sprendiniai atitinka valstybinės žemės nuomos sutarties sąlygas, kai šį statinį planuojama statyti išnuomotame valstybinės žemės sklype; 
+9) ar statinio projekto sprendiniai neprieštarauja teritorijų planavimo dokumentų sprendiniams, ar statinio projekto sprendiniai atitinka valstybinės žemės nuomos sutarties sąlygas, kai šį statinį planuojama statyti išnuomotame valstybinės žemės sklype, ar į valstybės biudžetą sumokėtas atlyginimas už teisę statyti valstybinėje žemėje, kai toks mokėjimas privalomas vadovaujantis Žemės įstatymo 91 straipsnio 3, 4 ir 5 dalimis;
+Straipsnio punkto pakeitimai:
+Nr. XIV-718, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25447
+ 
 
 
 
@@ -5640,3 +5655,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 3, 8, 10, 12, 19, 22, 24, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-501, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15877
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 12 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-718, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25447
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-1 straipsnių pakeitimo įstatymas
