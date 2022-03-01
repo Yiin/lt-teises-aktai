@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.28635AB7F3EB"
 
 # Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-02-28
+Suvestinė redakcija nuo 2022-03-01 iki 2024-09-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 60-1398, i. k. 0971010ISTAVIII-238
  
@@ -257,7 +257,15 @@ b) teikia siūlymus dėl asmenų, represuotų už pasipriešinimą okupaciniams 
 
 
 
-4) remdamasis istoriniais šaltiniais ir Lietuvos gyventojų registro duomenimis, inicijuoja ir organizuoja okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų palaikų paiešką; Lietuvos Respublikos teritorijoje ir užsienyje ieško šių asmenų giminaičių; organizuoja okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų palaikų identifikavimą; šiuo tikslu organizuoja tvarkymą ar tvarko rastų neatpažintų ieškomų okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų ir jų giminaičių genetinių (DNR), biologinių mėginių bazę, identifikavimui reikalingus duomenis.
+4) remdamasis istoriniais šaltiniais ir Lietuvos gyventojų registro duomenimis, inicijuoja ir organizuoja okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų palaikų paiešką; Lietuvos Respublikos teritorijoje ir užsienyje ieško šių asmenų giminaičių; organizuoja okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų palaikų identifikavimą; šiuo tikslu organizuoja tvarkymą ar tvarko rastų neatpažintų ieškomų okupacijų laikotarpiu žuvusių, dingusių be žinios, represuotų, persekiotų, nukentėjusių Lietuvos gyventojų, pasipriešinimo okupacijoms dalyvių, laisvės kovotojų ir jų giminaičių genetinių (DNR), biologinių mėginių bazę, identifikavimui reikalingus duomenis;
+
+
+
+
+5) atlieka Lietuvos Respublikos laisvės gynėjo teisinio statuso įstatyme nurodytos Laisvės gynėjo teisinio statuso pripažinimo komisijos sekretoriato funkcijas.
+Papildyta straipsnio punktu:
+Nr. XIV-728, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25846
+ 
 
 
 
