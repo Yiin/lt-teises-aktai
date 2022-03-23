@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-22
+Suvestinė redakcija nuo 2022-03-23 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
@@ -143,9 +143,10 @@ LAIDOJIMO PAŠALPA
 
 
 
-4) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo suteiktas prieglobstis Lietuvos Respublikoje;
+4) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo suteiktas prieglobstis arba laikinoji apsauga Lietuvos Respublikoje;
 Straipsnio punkto pakeitimai:
 Nr. XIII-447, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10811
+Nr. XIV-948, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05126
  
 
 
@@ -492,39 +493,44 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 Lietuvos Respublikos
-paramos mirties atveju
-įstatymo 
+paramos mirties atveju įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17). 
+1. 2001 m. liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių, skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir atsakant už tokio veiksmo padarinius pusiausvyrą.
 
 
 
 
-2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1). 
+2. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą. 
 
 
 
 
-3. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/36/ES dėl trečiųjų šalių piliečių atvykimo ir buvimo tikslu dirbti sezoniniais darbuotojais sąlygų (OL 2014 L 94, p. 375).
+3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių. 
 
 
 
 
-4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+4. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/36/ES dėl trečiųjų šalių piliečių atvykimo ir buvimo tikslu dirbti sezoniniais darbuotojais sąlygų.
 
 
 
 
-5. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų (OL 2014 L 157, p. 1).
+5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+
+
+
+
+6. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų.
 
 
 Priedo pakeitimai:
 Nr. XIII-302, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06978
+Nr. XIV-948, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05126
  
 
 
@@ -598,3 +604,8 @@ Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-757, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26589
 Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 2, 7, 9, 10, 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-948, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05126
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio ir priedo pakeitimo įstatymas
