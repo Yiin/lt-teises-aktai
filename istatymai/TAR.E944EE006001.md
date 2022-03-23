@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e944ee00600111e4bad5c03f56793630"
 
 # Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-22
+Suvestinė redakcija nuo 2022-03-23 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2014-10-30, i. k. 2014-15180
- 
-TAR pastaba. Paramos būstui įsigyti ar išsinuomoti įstatymo 13 straipsnis taikomas prašymams suteikti paramą būstui įsigyti, pateiktiems po 2021 m. gruodžio 31 d., išskyrus šiuos atvejus:  jeigu asmenys ar šeimos iki 2021 m. gruodžio 31 d. yra gavę valstybės iš dalies kompensuojamą būsto kreditą ir subsidiją šio kredito daliai apmokėti, papildoma subsidija jiems suteikiama, vadovaujantis iki įstatymo Nr. XIV-809 įsigaliojimo dienos (2022-01-01) galiojusių nuostatų nustatyta tvarka.  Savivaldybės būsto pardavimo procedūros, pradėtos iki 2021 m. gruodžio 31 d., baigiamos vykdyti iki šio įstatymo įsigaliojimo dienos galiojusių nuostatų nustatyta tvarka. 7. Prašymai dėl Paramos būstui įsigyti ar išsinuomoti įstatymo 8 straipsnyje nurodytos teisės nustatymo, pateikti iki 2021 m. gruodžio 31 d., baigiami nagrinėti, vadovaujantis nuo 2022 m. sausio 1 d. įsigaliojančiomis šio įstatymo nuostatomis.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
-Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 21 ir 25 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2019-09-01:
 Nr. XIII-1959, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02742
@@ -63,10 +58,20 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+4) užsieniečiams, kuriems suteiktas prieglobstis arba laikinoji apsauga Lietuvos Respublikoje.
+Straipsnio punkto pakeitimai:
+Nr. XIV-949, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05127
  
 
 
+
+
+
+
+3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+Papildyta straipsnio dalimi:
+Nr. XIV-949, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05127
+ 
 
 
 
@@ -1787,6 +1792,26 @@ Respublikos Prezidentė                            �
 
 
  
+
+
+
+
+ 
+Lietuvos Respublikos
+paramos būstui įsigyti ar 
+išsinuomoti įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2001 m. liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių, skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir atsakant už tokio veiksmo padarinius pusiausvyrą.
+
+
+Papildyta priedu:
+Nr. XIV-949, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05127
+ 
  
  
 Pakeitimai:
@@ -1830,3 +1855,8 @@ Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
 Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 8, 9, 10, 11, 12, 13, 14, 16, 18, 20, 21 ir 25 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-949, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05127
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 1 straipsnio pakeitimo ir Įstatymo papildymo priedu įstatymas
