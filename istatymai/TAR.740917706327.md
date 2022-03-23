@@ -13,6 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/74091770632711eca9ac839120d251c4"
 
 # Lietuvos Respublikos 2022 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
+Suvestinė redakcija nuo 2022-03-23 iki 2022-05-23
+ 
+Įstatymas paskelbtas: TAR 2021-12-22, i. k. 2021-26575
+ 
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 2022 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
 ĮSTATYMAS
@@ -432,7 +440,10 @@ j) visoms kitoms savivaldybėms – 100 procentų;
 3. Finansų ministerijai suteikiama teisė:
 
 
-1) skolintis valstybės vardu, kai yra poreikis ir kai dėl to nėra pažeidžiamos šio įstatymo 11 ir 21 straipsnių nuostatos: su valstybės skola susijusioms išlaidoms apmokėti; priemonėms, finansuojamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, bendrai finansuoti, su šių priemonių įgyvendinimu susijusioms išlaidoms (tarp jų dėl netinkamo pridėtinės vertės mokesčio) apmokėti; Europos Sąjungos teisės aktais numatytai nacionalinei paramai žemės ūkio subjektams teikti; nenumatytoms įmokoms į Europos Sąjungos biudžetą mokėti; nenumatytoms išlaidoms dėl einamaisiais biudžetiniais metais vykdomo referendumo ir (arba) rinkimų apmokėti; Lietuvos Respublikos įsipareigojimams, susijusiems su naryste NATO, vykdyti (užtikrinti 2,05 procento bendrojo vidaus produkto (toliau – BVP) skyrimą), kai atsiranda papildomų lėšų poreikis Ekonominio bendradarbiavimo ir plėtros organizacijai (EBPO) paskelbus BVP prognozę Lietuvos Respublikai; Lietuvos Respublikos įsipareigojimams, susijusiems su Europos Sąjungos politikos įgyvendinimu, vykdyti, įskaitant rezervinių lėšų sukaupimą ir (arba) paskolinimą, kaip tai numatyta Europos Sąjungos teisės aktuose, Europos Sąjungos institucijų ar organizacijų sprendimuose ir (arba) su tuo susijusiose sutartyse ar susitarimuose ir įsipareigojimuose pagal dvišales bendradarbiavimo sutartis; išlaidoms, susijusioms su nepaprastosios padėties, ekstremaliųjų situacijų likvidavimu, jų padarinių šalinimu ir padarytų nuostolių padengimu iš dalies, kai nepakanka valstybės rezervo ir Vyriausybės rezervo lėšų, apmokėti; šalies geležinkelių infrastruktūros išlaikymo išlaidoms, atsiradusioms dėl sankcijų Baltarusijos Respublikai taikymo; išlaidoms, susijusioms su atstovavimu Lietuvos Respublikai (Vyriausybei) užsienio ginčų sprendimo institucijose, įskaitant teisinių išvadų dėl jų sprendimų apskundimo parengimą, teisinių išvadų dėl sprendimų apskundimo gavimą ir atstovavimą Lietuvos Respublikai (Vyriausybei) atliekant kitus veiksmus, susijusius su Lietuvos Respublikos (Vyriausybės) interesų gynimu (bet tuo neapsiribojant), apmokėti; arbitražų ar teismų sprendimams, kurių pagrindu Lietuvos valstybei kyla pareiga mokėti sumas, vykdyti;
+1) skolintis valstybės vardu, kai yra poreikis ir kai dėl to nėra pažeidžiamos šio įstatymo 11 ir 21 straipsnių nuostatos: su valstybės skola susijusioms išlaidoms apmokėti; priemonėms, finansuojamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, bendrai finansuoti, su šių priemonių įgyvendinimu susijusioms išlaidoms (tarp jų dėl netinkamo pridėtinės vertės mokesčio) apmokėti; Europos Sąjungos teisės aktais numatytai nacionalinei paramai žemės ūkio subjektams teikti; nenumatytoms įmokoms į Europos Sąjungos biudžetą mokėti; nenumatytoms išlaidoms dėl einamaisiais biudžetiniais metais vykdomo referendumo ir (arba) rinkimų apmokėti; Lietuvos Respublikos įsipareigojimams, susijusiems su naryste NATO, vykdyti (užtikrinti iki 2,52 procento bendrojo vidaus produkto (toliau – BVP) skyrimą), kai atsiranda papildomų lėšų poreikis Finansų ministerijai paskelbus BVP prognozę Lietuvos Respublikai; Lietuvos Respublikos įsipareigojimams, susijusiems su Europos Sąjungos politikos įgyvendinimu, vykdyti, įskaitant rezervinių lėšų sukaupimą ir (arba) paskolinimą, kaip tai numatyta Europos Sąjungos teisės aktuose, Europos Sąjungos institucijų ar organizacijų sprendimuose ir (arba) su tuo susijusiose sutartyse ar susitarimuose ir įsipareigojimuose pagal dvišales bendradarbiavimo sutartis; išlaidoms, susijusioms su nepaprastosios padėties, ekstremaliųjų situacijų likvidavimu, jų padarinių šalinimu ir padarytų nuostolių padengimu iš dalies, kai nepakanka valstybės rezervo ir Vyriausybės rezervo lėšų, apmokėti; šalies geležinkelių infrastruktūros išlaikymo išlaidoms, atsiradusioms dėl sankcijų Baltarusijos Respublikai taikymo; išlaidoms, susijusioms su atstovavimu Lietuvos Respublikai (Vyriausybei) užsienio ginčų sprendimo institucijose, įskaitant teisinių išvadų dėl jų sprendimų apskundimo parengimą, teisinių išvadų dėl sprendimų apskundimo gavimą ir atstovavimą Lietuvos Respublikai (Vyriausybei) atliekant kitus veiksmus, susijusius su Lietuvos Respublikos (Vyriausybės) interesų gynimu (bet tuo neapsiribojant), apmokėti; arbitražų ar teismų sprendimams, kurių pagrindu Lietuvos valstybei kyla pareiga mokėti sumas, vykdyti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-943, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05122
+ 
 
 
 
@@ -4097,3 +4108,13 @@ rodiklių patvirtinimo įstatymo
 
 
 _________________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-943, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05122
+Lietuvos Respublikos 2022 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo Nr. XIV-745 14 straipsnio pakeitimo įstatymas
