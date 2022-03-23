@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2022-03-22
+Suvestinė redakcija nuo 2022-03-23 iki 2022-07-14
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -66,7 +66,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+4) užsieniečiams, kuriems suteiktas prieglobstis arba laikinoji apsauga Lietuvos Respublikoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-950, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05128
+ 
 
 
 
@@ -560,7 +563,8 @@ Respublikos Prezidentė                            �
 
 
 
- 
+ 
+
 Lietuvos Respublikos
 tikslinių kompensacijų įstatymo
 priedas
@@ -569,9 +573,17 @@ priedas
  
 
 
-1. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+1. 2001 m. liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių, skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir atsakant už tokio veiksmo padarinius pusiausvyrą.
 
 
+
+
+2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+
+
+Priedo pakeitimai:
+Nr. XIV-950, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05128
+ 
  
  
 Pakeitimai:
@@ -605,3 +617,11 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 5 ir 7 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2347, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12438
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-950, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05128
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsnio ir priedo pakeitimo įstatymas
+ 
+ 
+part_a8e5ae3c69504d7cb9d75726cd814662_end
