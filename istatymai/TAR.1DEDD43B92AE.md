@@ -18,10 +18,9 @@ LIETUVOS RESPUBLIKOS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-22
+Suvestinė redakcija nuo 2022-03-23 iki 2022-11-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -64,7 +63,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) užsieniečiams, paskirtiems vaiko, Lietuvos Respublikos piliečio, globėjais (rūpintojais), ir vaikams užsieniečiams, kuriems globa (rūpyba) nustatyta Lietuvos Respublikoje arba kurių globos (rūpybos) vykdymą perėmė Lietuvos Respublikos kompetentinga institucija;
+3) užsieniečiams, paskirtiems vaiko, Lietuvos Respublikos piliečio, ar vaiko užsieniečio, kurių globa (rūpyba) nustatyta Lietuvos Respublikoje arba kurių globos (rūpybos) vykdymą perėmė Lietuvos Respublikos kompetentinga institucija, globėjais (rūpintojais), ir vaikams užsieniečiams, kuriems globa (rūpyba) nustatyta Lietuvos Respublikoje arba kurių globos (rūpybos) vykdymą perėmė Lietuvos Respublikos kompetentinga institucija;
+Straipsnio punkto pakeitimai:
+Nr. XIV-947, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05125
+ 
 
 
 
@@ -100,7 +102,10 @@ Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
 
 
 
-9) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje;
+9) užsieniečiams, kuriems suteiktas prieglobstis arba laikinoji apsauga Lietuvos Respublikoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-947, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05125
+ 
 
 
 
@@ -1493,7 +1498,6 @@ RESPUBLIKOS PREZIDENTAS                             
 
  
 
- 
 Lietuvos Respublikos
 išmokų vaikams įstatymo
 priedas
@@ -1510,22 +1514,34 @@ Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
 
 
 
-1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą.
+2. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą.
+Punkto numeracijos pakeitimas:
+Nr. XIV-947, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05125
+ 
 
 
 
 
-2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių.
+3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių.
+Punkto numeracijos pakeitimas:
+Nr. XIV-947, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05125
+ 
 
 
 
 
-3. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+Punkto numeracijos pakeitimas:
+Nr. XIV-947, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05125
+ 
 
 
 
 
-4. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų.
+5. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų.
+Punkto numeracijos pakeitimas:
+Nr. XIV-947, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05125
+ 
 
 
 Priedo pakeitimai:
