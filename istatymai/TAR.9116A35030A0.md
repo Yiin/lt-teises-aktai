@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-23
+Suvestinė redakcija nuo 2022-03-24 iki 2022-03-31
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -3235,6 +3235,49 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
+41. Mobilizacijos, karo, nepaprastosios padėties atveju ar kai Lietuvos Respublikos Vyriausybė, įvertinusi riziką, kad veiksniai, dėl kurių buvo ar gali būti paskelbta mobilizacija, įvesta karo ar nepaprastoji padėtis, kelia grėsmę nacionaliniam saugumui, yra priėmusi sprendimą dėl šios nuostatos taikymo, perkantysis subjektas gali atmesti paraišką ar pasiūlymą, jeigu yra bent viena iš šių sąlygų:
+
+
+1) tiekėjas, jo subtiekėjas, ūkio subjektai, kurių pajėgumais remiamasi, tiekėjo siūlomų prekių (įskaitant jų sudedamąsias dalis) gamintojas ar juos kontroliuojantys asmenys yra juridiniai asmenys, registruoti Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose; 
+
+
+
+
+2) tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, tiekėjo siūlomų prekių (įskaitant jų sudedamąsias dalis) gamintojas ar juos kontroliuojantys asmenys yra fiziniai asmenys, nuolat gyvenantys Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose arba turintys šių valstybių pilietybę; 
+
+
+
+
+3) prekių (įskaitant jų sudedamąsias dalis) kilmė yra ar paslaugos teikiamos iš Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje numatytame sąraše nurodytų valstybių ar teritorijų; 
+
+
+
+
+4) Lietuvos Respublikos Vyriausybė, vadovaudamasi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme įtvirtintais kriterijais, yra priėmusi sprendimą, patvirtinantį, kad šios dalies 1 ir 2 punktuose nurodyti subjektai ar su jais ketinamas sudaryti (sudarytas) sandoris neatitinka nacionalinio saugumo interesų;
+
+
+
+
+5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir 2 punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui. 
+TAR pastaba. Iki įstatymo Nr. XIV-955 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sukurtoms dinaminėms pirkimo sistemoms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų įstatymo 58 straipsnio 41  dalies nuostatos.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
+ 
+
+
+
+
+42. Perkantysis subjektas, tikrindamas paraiškos ar pasiūlymo atitiktį šio straipsnio 41 dalies 1 ir 2 punktų reikalavimams, iš tiekėjo reikalauja Viešųjų pirkimų įstatymo 51 straipsnio 12 dalyje nurodytų dokumentų.
+TAR pastaba. Iki įstatymo Nr. XIV-955 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sukurtoms dinaminėms pirkimo sistemoms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų įstatymo 58 straipsnio 42   dalies nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
+ 
+
+
+
+
 5. Jeigu kandidatas ar dalyvis pateikė netikslius, neišsamius ar klaidingus dokumentus ar duomenis apie savo atitiktį pirkimo dokumentų reikalavimams ar šių dokumentų ar duomenų trūksta, perkantysis subjektas privalo nepažeisdamas lygiateisiškumo ir skaidrumo principų prašyti kandidatą ar dalyvį šiuos dokumentus ar duomenis patikslinti, papildyti arba paaiškinti per jo nustatytą protingą terminą. Tikslinami, papildomi, paaiškinami ir pateikiami nauji gali būti tik dokumentai ar duomenys dėl tiekėjo pašalinimo pagrindų nebuvimo, atitikties kvalifikacijos reikalavimams, kokybės vadybos sistemos ir aplinkos apsaugos vadybos sistemos standartams, tiekėjo įgaliojimas asmeniui pasirašyti paraišką ar pasiūlymą, jungtinės veiklos sutartis, pasiūlymo galiojimo užtikrinimą patvirtinantis dokumentas ir dokumentai, nesusiję su pirkimo objektu, jo techninėmis charakteristikomis, sutarties vykdymo sąlygomis ar pasiūlymo kaina. Kiti tiekėjo pasiūlymo dokumentai ar duomenys gali būti tikslinami, pildomi arba aiškinami vadovaujantis šio įstatymo 64 straipsnio 9 dalimi.
  
 
@@ -5779,7 +5822,16 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-3) paaiškėjo, kad su tiekėju neturėjo būti sudaryta pirkimo sutartis ar preliminarioji sutartis dėl to, kad Europos Sąjungos Teisingumo Teismas procese pagal Sutarties dėl Europos Sąjungos veikimo 258 straipsnį pripažino, kad nebuvo įvykdyti įsipareigojimai pagal Europos Sąjungos steigiamąsias sutartis ir Direktyvą 2014/25/ES.
+3) paaiškėjo, kad su tiekėju neturėjo būti sudaryta pirkimo sutartis ar preliminarioji sutartis dėl to, kad Europos Sąjungos Teisingumo Teismas procese pagal Sutarties dėl Europos Sąjungos veikimo 258 straipsnį pripažino, kad nebuvo įvykdyti įsipareigojimai pagal Europos Sąjungos steigiamąsias sutartis ir Direktyvą 2014/25/ES;
+
+
+
+
+4) paaiškėjo šio įstatymo 58 straipsnio 41 dalyje nurodytos aplinkybės.
+TAR pastaba. Iki įstatymo Nr. XIV-955 įsigaliojimo (2022-03-24) pradėtoms pirkimo procedūroms, sukurtoms dinaminėms pirkimo sistemoms, sudarytoms pirkimo ir preliminariosioms sutartims taikomos Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų įstatymo 98 straipsnio 1  dalies 4 punkto nuostatos.
+Papildyta straipsnio punktu:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
+ 
 
 
 
@@ -7453,3 +7505,8 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 31, 34, 37, 39, 48, 49, 63, 66, 68, 90, 94, 99, 101, 102, 114 straipsnių pakeitimo ir Įstatymo papildymo 90-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 37, 39, 48, 50, 52, 58, 98 ir 100 straipsnių pakeitimo įstatymas
