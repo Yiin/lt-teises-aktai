@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-01-05 iki 2022-03-29
+Suvestinė redakcija nuo 2022-03-30 iki 2022-05-27
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -15815,7 +15815,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-2. Nepilnamečio globėjas ar rūpintojas skiriamas šios knygos XVIII skyriaus normų nustatyta tvarka.
+2. Nepilnamečio globėjas ar rūpintojas skiriamas šios knygos XVIII skyriaus normų nustatyta tvarka, išskyrus užsieniečių teisinę padėtį reglamentuojančiame įstatyme nustatytas išimtis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-965, 2022-03-22, paskelbta TAR 2022-03-29, i. k. 2022-06190
+ 
 
 
 
@@ -51219,3 +51222,8 @@ Lietuvos Respublikos civilinio kodekso 1.125, 6.228-1, 6.228-12, 6.228-14, 6.363
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070
 Lietuvos Respublikos civilinio kodekso 3.210, 3.224, 3.246, 3.250, 3.253, 3.254, 3.254-1, 3.257, 3.261, 3.262, 3.264, 3.268, 3.269 ir 3.276-1 straipsnių pakeitimo įstatymas
+ 
+58.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-965, 2022-03-22, paskelbta TAR 2022-03-29, i. k. 2022-06190
+Lietuvos Respublikos civilinio kodekso 3.242 straipsnio pakeitimo įstatymas
