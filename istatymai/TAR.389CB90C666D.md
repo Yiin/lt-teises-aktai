@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2021-05-05 iki 2022-03-30
+Suvestinė redakcija nuo 2022-03-31 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
  
@@ -2887,7 +2887,10 @@ GINKLŲ IR ŠAUDMENŲ laikymas, saugojimas, nešiojimasis, GABENIMAS ir naudojim
 
 
 
-8. Šaulio tarnybai skirti ginklai ir šoviniai mokymų ir pratybų metu naudojami Lietuvos šaulių sąjungos vado nustatyta tvarka, o atliekant nustatytą šaulio tarnybą, šaunamieji ginklai naudojami Karinės jėgos naudojimo statuto nustatytais pagrindais.
+8. Šaulio tarnybai skirti ginklai ir šoviniai mokymų ir pratybų metu naudojami Lietuvos šaulių sąjungos vado nustatyta tvarka, o atliekant nustatytą šaulio tarnybą, šaunamieji ginklai naudojami Karinės jėgos naudojimo statuto ir Lietuvos šaulių sąjungos įstatymo nustatytais pagrindais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-972, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06309
+ 
 
 
 
@@ -3941,3 +3944,8 @@ Dėl Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 11, 13, 16, 17, 18, 19, 21, 24, 25, 30, 40 ir 41 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-972, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06309
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 34 straipsnio pakeitimo įstatymas
