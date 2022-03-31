@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/303806a0869411e8af589337bf1eb893"
 
 # Lietuvos Respublikos technologijų ir inovacijų įstatymas
 
-Suvestinė redakcija nuo 2022-02-01 iki 2022-03-30
+Suvestinė redakcija nuo 2022-03-31 iki 2025-03-31
  
 Įstatymas paskelbtas: TAR 2018-07-13, i. k. 2018-11954
  
@@ -76,12 +76,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Inovacija – nauji ar iš esmės patobulinti produktai ar procesai, įskaitant gamybos, statybos, konstravimo ar kitus procesus, nauji rinkodaros metodai, nauji verslo, darbo vietos organizavimo ar išorinių ryšių metodai, įdiegti į rinką, viešojo valdymo, socialinę, kultūros sritį.
+5. Inovacija – naujas arba patobulintas produktas ar procesas (arba jų derinys), kuris reikšmingai skiriasi nuo ankstesnių subjekto produktų ar procesų ir kuris (produktas) yra pateiktas potencialiems naudotojams arba kuris (procesas) subjekto yra naudojamas, tai yra įdiegtas į rinką, viešojo valdymo, socialinę, kultūros sritį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+ 
 
 
 
 
-6. Inovacinė veikla – naujų ar iš esmės patobulintų produktų ar procesų kūrimo ir diegimo į rinką, viešojo valdymo, socialinę, kultūros sritį veikla. 
+6. Inovacinė veikla – naujų arba patobulintų produktų ar procesų (arba jų derinių), kurie reikšmingai skiriasi nuo ankstesnių subjekto produktų ar procesų, kūrimo ir diegimo į rinką, viešojo valdymo, socialinę, kultūros sritį veikla.
+Straipsnio dalies pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+ 
 
 
 
@@ -121,7 +127,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-14. Ūkio subjektai – kaip tai apibrėžta Lietuvos Respublikos konkurencijos įstatyme.
+14. Neteko galios nuo 2022-03-31.
+Straipsnio dalies pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+ 
 
 
 
@@ -136,7 +145,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-17. Viešojo sektoriaus subjektai – kaip tai apibrėžta Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme.
+17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos konkurencijos įstatyme ir Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
 
 
@@ -222,10 +233,17 @@ Mokslo srities reguliavimą nustato Lietuvos Respublikos mokslo ir studijų įst
 6 straipsnis. Inovacijų sritis
 
 
-Inovacijų srities paskirtis – skatinti šiame įstatyme nurodytus subjektus vykdyti inovacinę veiklą.
+1. Inovacijų srities paskirtis – skatinti šiame įstatyme nurodytus subjektus vykdyti inovacinę veiklą.
+
+
+
+
+2. Inovacinė veikla skatinama vadovaujantis inovatyvumo (kūrybingumo) horizontaliuoju principu. Inovatyvumo (kūrybingumo) horizontalusis principas suprantamas kaip inovatyvių ir veiksmingiausių veikimo būdų paieška ir taikymas, efektyvus mokslo ir verslo bendradarbiavimas, mokslinių tyrimų ir mokslo pažangos rezultatų, naujų technologijų taikymas, kūrybiškų sprendimų paieška valstybei aktualiems iššūkiams įveikti, didesnės vertės, geresnės kokybės paslaugoms ir produktams visose valstybės veiklos srityse kurti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
-
-
 
 
 
@@ -238,9 +256,10 @@ Inovacijų srities paskirtis – skatinti šiame įstatyme nurodytus subjektus v
 
 
 
-2. Mokslo, technologijų ir inovacijų politikos vystymosi kryptis nustato Lietuvos Respublikos Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Mokslo, technologijų ir inovacijų politikos strateginius tikslus ir (arba) pažangos uždavinius nustato Vyriausybė, tvirtindama Nacionalinį pažangos planą. Mokslo, technologijų ir inovacijų politikos pažangos uždavinius įgyvendinančios priemonės suplanuojamos Vyriausybės tvirtinamose nacionalinėse plėtros programose.
+2. Mokslo, technologijų ir inovacijų politikos veikla skatinama vadovaujantis Lietuvos Respublikos strateginio valdymo įstatymu. Mokslo, technologijų ir inovacijų politikos vystymosi kryptis nustato Lietuvos Respublikos Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Mokslo, technologijų ir inovacijų politikos strateginius tikslus ir (arba) pažangos uždavinius nustato Vyriausybė, tvirtindama Nacionalinį pažangos planą. Mokslo, technologijų ir inovacijų politikos pažangos uždavinių įgyvendinimo priemonės suplanuojamos Vyriausybės tvirtinamose nacionalinėse plėtros programose.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3102, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15308
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
 
 
@@ -417,7 +436,26 @@ Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
 
 
 
-5) atlieka kitas šiuo ir kitais įstatymais, Vyriausybės nutarimais jai pavestas funkcijas technologijų ir inovacijų srityse.
+5) koordinuoja inovatyvumo (kūrybingumo) horizontaliojo principo įgyvendinimą; 
+Papildyta straipsnio punktu:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+ 
+
+
+
+
+6) koordinuoja mokslinių tyrimų ir eksperimentinės plėtros ir inovacijų (sumaniosios specializacijos) prioritetų įgyvendinimą; 
+Papildyta straipsnio punktu:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+ 
+
+
+
+
+7) atlieka kitas šiuo ir kitais įstatymais, Vyriausybės nutarimais jai pavestas funkcijas technologijų ir inovacijų srityse.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -514,15 +552,15 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 
-14 straipsnis. Vyriausybės įgaliota institucija 
+14 straipsnis. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija
 
 
-1. Vyriausybės įgaliota institucija yra biudžetinė įstaiga.
+1. Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstatymuose nustatytą kompetenciją įgyvendina viešoji įstaiga Inovacijų agentūra (toliau – valstybės technologijų ir inovacijų politiką įgyvendinanti institucija), kurios savininkė yra valstybė.
 
 
 
 
-2. Vyriausybės įgaliota institucija atlieka šias funkcijas:
+2. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija atlieka šias funkcijas:
 
 
 1) įgyvendina nacionalines mokslo ir technologijų programas ir konkursines technologijų programas;
@@ -530,12 +568,12 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 
-2) įgyvendina VTI politiką formuojančios ministerijos ir kitų valstybės institucijų taikomųjų mokslinių tyrimų, eksperimentinės plėtros ir inovacinės veiklos skatinimo programas;
+2) įgyvendina valstybės technologijų ir inovacijų politiką formuojančios ministerijos ir kitų valstybės institucijų taikomųjų mokslinių tyrimų, eksperimentinės plėtros ir inovacinės veiklos skatinimo programas;
 
 
 
 
-3) skatina perkančiąsias organizacijas atlikti inovatyvius viešuosius pirkimus ir ikiprekybinius pirkimus, teikia joms metodinę pagalbą dėl šiame punkte nurodytų pirkimų;
+3) įgyvendina priemones, kurias taikydamos perkančiosios organizacijos atlieka inovatyvius viešuosius pirkimus ir ikiprekybinius pirkimus, teikia šioms organizacijoms metodinę pagalbą dėl šiame punkte nurodytų pirkimų;
 
 
 
@@ -545,12 +583,12 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 
-5) skatina mokslo ir studijų institucijų ir ūkio subjektų bendradarbiavimą mokslo, technologijų ir inovacijų srityje; 
+5) įgyvendina ūkio subjektų ir mokslo ir studijų institucijų bendradarbiavimo plėtros priemones; 
 
 
 
 
-6) koordinuoja ir remia Lietuvos Respublikoje įsteigtų juridinių ir fizinių asmenų dalyvavimą tarptautinėse technologijų ir inovacijų programose ir projektuose;
+6) koordinuoja ir remia Lietuvos Respublikoje įsteigtų juridinių ir fizinių asmenų dalyvavimą Europos Sąjungos ir tarptautinėse technologijų ir inovacijų programose ir projektuose;
 
 
 
@@ -560,7 +598,7 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 
-8) vadovaudamasi Vyriausybės arba jos įgaliotos valstybės technologijų ir inovacijų politiką formuojančios ministerijos ministro patvirtinta vykdomos eksperimentinės plėtros vertinimo metodika, organizuoja siekiančių gauti valstybės finansavimą eksperimentinei plėtrai subjektų vykdomos eksperimentinės plėtros vertinimą ir teikia siūlymus valstybės technologijų ir inovacijų politiką formuojančiai ministerijai dėl šios veiklos finansavimo principų, išskyrus Mokslo ir studijų įstatymo 15 straipsnio 2 dalyje nustatytus atvejus. Mokslo ir studijų institucijų įstatymo 15 straipsnio 2 dalyje nustatytais atvejais Vyriausybės įgaliota institucija šiame punkte nurodytus patikrinimus atlieka kartu su Mokslo ir studijų įstatymo 15 straipsnio 2 dalyje nurodyta institucija;
+8) vadovaudamasi valstybės technologijų ir inovacijų politiką formuojančios ministerijos patvirtinta vykdomos eksperimentinės plėtros vertinimo metodika, organizuoja siekiančių gauti valstybės finansavimą eksperimentinei plėtrai subjektų vykdomos eksperimentinės plėtros vertinimą ir teikia siūlymus valstybės technologijų ir inovacijų politiką formuojančiai ministerijai dėl šios veiklos finansavimo principų, išskyrus Mokslo ir studijų įstatymo 15 straipsnio 2 dalyje nustatytus atvejus. Mokslo ir studijų įstatymo 15 straipsnio 2 dalyje nustatytais atvejais valstybės technologijų ir inovacijų politiką įgyvendinanti institucija šiame punkte nurodytą eksperimentinės plėtros vertinimą atlieka kartu su Mokslo ir studijų įstatymo 15 straipsnio 2 dalyje nurodyta institucija;
 
 
 
@@ -570,72 +608,52 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 
-10) skatina Lietuvos Respublikos fizinių ir juridinių asmenų integraciją į tarptautinę technologijų ir inovacijų erdvę;
+10) įgyvendina Lietuvos Respublikos fizinių ir juridinių asmenų integracijos į Europos Sąjungos ir tarptautinę technologijų ir inovacijų erdvę didinimo priemones;
 
 
 
 
-11) atlieka su Inovacijų skatinimo fondu susijusias funkcijas, nustatytas Lietuvos Respublikos inovacijų skatinimo fondo įstatyme ir kituose šio fondo veiklą reglamentuojančiuose teisės aktuose;
-Straipsnio punkto pakeitimai:
-Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
- 
+11) atlieka Lietuvos Respublikos inovacijų skatinimo fondo įstatyme valstybės technologijų ir inovacijų politiką įgyvendinančiai institucijai nustatytas su Inovacijų skatinimo fondo veikla susijusias funkcijas;
 
 
 
 
-12) atlieka kitas šiame įstatyme nustatytas, taip pat Vyriausybės arba jos įgaliotos valstybės technologijų ir inovacijų politiką formuojančios ministerijos apibrėžtas funkcijas.
+12) įgyvendina ir koordinuoja projektus ir priemones, susijusias su užsienio startuolių pritraukimu į Lietuvos Respubliką;
 
 
 
 
-
-
-3. Vyriausybės įgaliota institucija turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų, kurių veikla susijusi su valstybės reguliuojamomis technologijų ir inovacijų sritimis, informaciją, būtiną nustatytoms funkcijoms atlikti.
-
-
-
-
-4. Vyriausybės įgaliota institucija gali būti tarptautinių ne pelno siekiančių organizacijų, veikiančių su Vyriausybės įgaliotos institucijos veikla susijusiose srityse, nare.
- 
+13) atlieka kitas šiame įstatyme nustatytas funkcijas.
 
 
 
 
 
 
-15 straipsnis. Vyriausybės strateginės analizės centras
-
-
-Šio įstatymo reguliavimo srityje Vyriausybės strateginės analizės centras:
-
-
-1) atlieka technologijų ir inovacijų sričių stebėseną;
+3. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų, kurių veikla susijusi su valstybės reguliuojamomis technologijų ir inovacijų sritimis, informaciją, būtiną nustatytoms funkcijoms atlikti.
 
 
 
 
-2) rengia technologijų ir inovacijų sričių analizes ir teikia išvadas;
+4. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija gali būti tarptautinių ne pelno siekiančių organizacijų, veikiančių su institucijos valstybės technologijų ir inovacijų politiką įgyvendinančios institucijos veikla susijusiose srityse, nare.
 
 
 
 
-3) vertina technologijų ir inovacijų sričių tendencijas, identifikuoja svarbiausius spręstinus nacionalinio lygio iššūkius, rengia strategines įžvalgas;
-
-
-
-
-4) rengia, sistemina ir teikia analitinę informaciją, reikalingą Tarybai jai pavestoms užduotims atlikti;
-
-
-
-
-5) atlieka Tarybos sekretoriato funkcijas.
-
-
+5. Valstybės technologijų ir inovacijų politiką įgyvendinančios institucijos veikla atliekant šiame ir kituose įstatymuose jai nustatytas funkcijas finansuojama iš valstybės technologijų ir inovacijų politiką formuojančiai ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų.
 
 
 Straipsnio pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
+ 
+
+
+
+
+15 straipsnis. Neteko galios nuo 2022-03-31.
+Straipsnio pakeitimai:
 Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
 
 
@@ -748,10 +766,10 @@ SUBJEKTAI, VYKDANTYS EKSPERIMENTINĘ PLĖTRĄ IR (ARBA) INOVACINĘ VEIKLĄ
  
 
 
-18 straipsnis. Subjektai, turintys teisę gauti finansavimą ir kitas skatinimo priemones eksperimentinei plėtrai ir (arba) inovacinei veiklai vykdyti
+18 straipsnis. Subjektai, turintys teisę gauti finansavimą eksperimentinei plėtrai ir (arba) inovacinei veiklai vykdyti ir dalyvauti įgyvendinant jos skatinimo priemones 
 
 
-1. Eksperimentinę plėtrą ir (arba) inovacinę veiklą vykdantys subjektai, turintys teisę gauti šiame įstatyme nustatytą finansavimą ir kitas skatinimo priemones eksperimentinės plėtros ir inovacinei veiklai vykdyti, yra šie:
+1. Subjektai, turintys teisę gauti šiame įstatyme nustatytą finansavimą eksperimentinei plėtrai ir (arba) inovacinei veiklai vykdyti ir dalyvauti įgyvendinant jos skatinimo priemones, yra šie:
 
 
 1) valstybinės aukštosios mokyklos ir valstybiniai mokslinių tyrimų institutai;
@@ -764,12 +782,12 @@ SUBJEKTAI, VYKDANTYS EKSPERIMENTINĘ PLĖTRĄ IR (ARBA) INOVACINĘ VEIKLĄ
 
 
 
-3) nevalstybinės aukštosios mokyklos;
+3) nevalstybinės aukštosios mokyklos ir nevalstybiniai mokslinių tyrimų institutai;
 
 
 
 
-4) ūkio subjektai ir jų grupės;
+4) ūkio subjektai ir susijusių ūkio subjektų grupės (toliau – ūkio subjektai);
 
 
 
@@ -791,10 +809,12 @@ SUBJEKTAI, VYKDANTYS EKSPERIMENTINĘ PLĖTRĄ IR (ARBA) INOVACINĘ VEIKLĄ
 
 
 
-2. Finansavimas ir kitos skatinimo priemonės eksperimentinei plėtrai ir (arba) inovacinei veiklai vykdyti, skiriamos šio straipsnio 1 dalyje nurodytiems subjektams, turi atitikti valstybės pagalbą reguliuojančių teisės aktų reikalavimus.
+2. Šio straipsnio 1 dalyje nurodytiems subjektams skiriamas finansavimas ir kitos skatinimo priemonės eksperimentinei plėtrai ir (arba) inovacinei veiklai vykdyti turi atitikti valstybės pagalbą reguliuojančių teisės aktų reikalavimus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
-
-
 
 
 
@@ -807,9 +827,10 @@ SUBJEKTAI, VYKDANTYS EKSPERIMENTINĘ PLĖTRĄ IR (ARBA) INOVACINĘ VEIKLĄ
 
 
 
-2. Valstybės finansavimas ir kitos skatinimo priemonės klasteriams skiriamos valstybės technologijų ir inovacijų politiką formuojančios ministerijos sprendimu.
+2. Klasteriams skiriamos skatinimo priemonės įgyvendinamos valstybės technologijų ir inovacijų politiką formuojančios ministerijos sprendimu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
 
 
@@ -929,13 +950,15 @@ Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
 
 
 
-23 straipsnis. Ūkio subjektų ir jų grupių eksperimentinei plėtrai ir inovacinei veiklai teikiamas valstybės finansavimas
+23 straipsnis. Ūkio subjektų eksperimentinei plėtrai ir inovacinei veiklai teikiamas valstybės finansavimas
 
 
-Ūkio subjektai ir jų grupės (toliau – ūkio subjektai) valstybės finansavimą eksperimentinei plėtrai ir (arba) inovacinei veiklai gauna dalyvaudami konkursinėse mokslinių tyrimų programose ir konkursinėse technologijų programose ir įgyvendindami kitas šių veiklos rūšių skatinimo, rėmimo ir finansavimo priemones. Ūkio subjektai gali dalyvauti įgyvendinant valstybės inicijuotas nacionalines mokslo ir technologijų programas, atliekant inovatyvius viešuosius pirkimus, ikiprekybinius pirkimus ir kitus mokslinių tyrimų ir eksperimentinės plėtros paslaugų valstybės užsakymus.
+Ūkio subjektai valstybės finansavimą eksperimentinei plėtrai ir (arba) inovacinei veiklai gauna dalyvaudami konkursinėse mokslinių tyrimų programose ir konkursinėse technologijų programose ir įgyvendindami kitas šių veiklos rūšių skatinimo, rėmimo ir finansavimo priemones. Ūkio subjektai gali dalyvauti įgyvendinant valstybės inicijuotas nacionalines mokslo ir technologijų programas, atliekant inovatyvius viešuosius pirkimus, ikiprekybinius pirkimus ir kitus mokslinių tyrimų ir eksperimentinės plėtros paslaugų valstybės užsakymus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
-
-
 
 
 
@@ -958,48 +981,28 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-25 straipsnis. Pasiūlymas Vyriausybei
-
-
-Vyriausybė iki 2020 m. kovo 1 d. Lietuvos Respublikos Seimui pateikia Lietuvos Respublikos inovacijų skatinimo fondo įstatymo projektą.
+25 straipsnis. Neteko galios nuo 2022-03-31.
+Straipsnio pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
 
 
 
 
-
-
-26 straipsnis. Įstatymo įgyvendinimas
-
-
-Šio įstatymo 14 straipsnyje nurodyta biudžetinė įstaiga gali būti pertvarkoma į viešąją įstaigą. Pertvarkius šio įstatymo 14 straipsnyje nurodytą biudžetinę įstaigą į viešąją įstaigą, visas šio įstatymo 14 straipsnyje nurodytas Vyriausybės įgaliotos institucijos funkcijas atlieka ši viešoji įstaiga ir šių funkcijų atlikimas finansuojamas iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
-
-
+26 straipsnis. Neteko galios nuo 2022-03-31.
 Straipsnio pakeitimai:
 Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
 Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
 
 
 
 
-27 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
-
-
-1. Šis įstatymas, išskyrus 14 straipsnio 2 dalies 11 punktą, 21 straipsnio 1 dalies 4 punktą, 25 straipsnį ir šio straipsnio 3 dalį, įsigalioja 2019 m. sausio 1 d.
-
-
-
-
-2. Šio įstatymo 14 straipsnio 2 dalies 11 punktas, 21 straipsnio 1 dalies 4 punktas įsigalioja 2021 m. sausio 1 d.
-
-
-
-
-3. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki 2018 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
+27 straipsnis. Neteko galios nuo 2022-03-31.
+Straipsnio pakeitimai:
+Nr. XIV-737, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25850
  
-
-
 
 
 
