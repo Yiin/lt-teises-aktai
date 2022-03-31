@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/20cc6a40c26e11ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos inovacijų skatinimo fondo įstatymas
 
+Suvestinė redakcija nuo 2022-03-31 iki 2023-06-27
+ 
+Įstatymas paskelbtas: TAR 2020-07-10, i. k. 2020-15500
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 INOVACIJŲ SKATINIMO FONDO
 ĮSTATYMAS
@@ -21,6 +28,9 @@ INOVACIJŲ SKATINIMO FONDO
 Vilnius
  
  
+
+ 
+
  
  
 
@@ -74,7 +84,10 @@ Vilnius
 
 
 
-5. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija – Vyriausybės įgaliota institucija, nurodyta Lietuvos Respublikos technologijų ir inovacijų įstatymo 14 straipsnyje.
+5. Valstybės technologijų ir inovacijų politiką įgyvendinanti institucija – viešoji įstaiga Inovacijų agentūra.
+Straipsnio dalies pakeitimai:
+Nr. XIV-740, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25853
+ 
 
 
 
@@ -357,3 +370,16 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-740, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25853
+Lietuvos Respublikos inovacijų skatinimo fondo įstatymo Nr. XIII-3167 2 straipsnio pakeitimo įstatymas
+ 
+ 
+part_bc8d5b43104d4de08af7a1becc3d278c_end
