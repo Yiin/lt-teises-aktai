@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2022-02-01 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -3863,18 +3863,21 @@ Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
 
 
 IV SKYRIUS
-NELEGALUS DARBAS, NEDEKLARUOTAS DARBAS, NEDEKLARUOTA SAVARANKIŠKA VEIKLA IR UŽSIENIEČIŲ ĮDARBINIMO TVARKOS PAŽEIDIMAI
+NELEGALUS DARBAS, NEDEKLARUOTAS DARBAS, NEDEKLARUOTA SAVARANKIŠKA VEIKLA, UŽSIENIEČIŲ ĮDARBINIMO TVARKOS IR SKAIDRIAI DIRBANČIO ASMENS IDENTIFIKAVIMO PAŽEIDIMAI 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
  
 
 
-55 straipsnis. Institucijos, vykdančios nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos kontrolę
+55 straipsnis. Institucijos, vykdančios nelegalaus darbo, nedeklaruoto darbo, nedeklaruotos savarankiškos veiklos ir skaidriai dirbančių asmenų identifikavimo kontrolę
 
 
-Nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos prevenciją vykdo, patikrinimus, grindžiamus rizikos vertinimu, atlieka Valstybinė darbo inspekcija, Valstybinė mokesčių inspekcija, Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos ir policija, vadovaudamosi jų veiklą reglamentuojančiais teisės aktais. 
+Nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos prevenciją vykdo, patikrinimus, grindžiamus rizikos vertinimu, ir skaidriai dirbančių asmenų identifikavimo kontrolę atlieka Valstybinė darbo inspekcija, Valstybinė mokesčių inspekcija, Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba) ir policija, vadovaudamosi jų veiklą reglamentuojančiais teisės aktais.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
  
 
 
@@ -3914,7 +3917,10 @@ Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
 
 
 
-2) darbo Lietuvos Respublikoje laikotarpiu saugo šio straipsnio 2 dalies 1 punkte nurodytų dokumentų kopijas ir pateikia jas Valstybinei darbo inspekcijai, Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) ar kitai šio įstatymo 55 straipsnyje nurodytai institucijai jų reikalavimu.
+2) darbo Lietuvos Respublikoje laikotarpiu saugo šio straipsnio 2 dalies 1 punkte nurodytų dokumentų kopijas ir pateikia jas Valstybinei darbo inspekcijai, Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) ar kitai šio įstatymo 55 straipsnyje nurodytai institucijai jų reikalavimu. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+ 
 
 
 
@@ -3926,10 +3932,10 @@ Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
 
 
 
-4. Šio įstatymo 55 straipsnyje nurodyta institucija, nustačiusi, kad darbdavys padarė šio straipsnio 1 dalies 1 punkte nurodytą pažeidimą, neatsižvelgdama į formalią nelegaliai dirbančio ir (ar) nelegalų darbą leidusio dirbti asmens veiklos išraišką:
+4. Šio įstatymo 55 straipsnyje nurodyta institucija, nustačiusi, kad darbdavys padarė šio straipsnio 1 dalies 1 punkte nurodytą pažeidimą, neatsižvelgdama į formalią nelegaliai dirbančio ir (ar) nelegalų darbą leidusio dirbti asmens veiklos išraišką:
 
 
-1) jeigu darbo santykiai nėra pasibaigę, įpareigoja darbdavį sudaryti su nelegaliai dirbusiu asmeniu darbo sutartį raštu ir pranešti Valstybinio socialinio draudimo fondo valdybos teritorinei įstaigai, kad darbo sutartis sudaryta ir darbuotojas priimtas į darbą;
+1) jeigu darbo santykiai nėra pasibaigę, įpareigoja darbdavį sudaryti rašytinę darbo sutartį su nelegaliai dirbusiu asmeniu ir pranešti Valstybinio socialinio draudimo fondo valdybos teritorinei įstaigai, kad darbo sutartis sudaryta ir darbuotojas priimtas į darbą;
 
 
 
@@ -3939,9 +3945,12 @@ Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
 
 
 
-3) šio įstatymo nustatyta tvarka skiria baudą darbdaviui nuo 868 iki 2 896 eurų už kiekvieną nelegaliai dirbusį asmenį. Tokie patys veiksmai, padaryti darbdavio, jau bausto už šį pažeidimą per pastaruosius 2 metus, užtraukia baudą darbdaviui nuo 2 896 iki 5 792 eurų už kiekvieną nelegaliai dirbusį asmenį.
+3) šio įstatymo nustatyta tvarka skiria baudą darbdaviui nuo 868 iki 2 896 eurų už kiekvieną nelegaliai dirbusį asmenį. Tokie patys veiksmai, padaryti darbdavio, jau bausto už šį pažeidimą per pastaruosius 2 metus, užtraukia baudą darbdaviui nuo 2 896 iki 5 792 eurų už kiekvieną nelegaliai dirbusį asmenį. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+ 
 
 
 
@@ -3969,9 +3978,12 @@ Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
 
 
 
-5) perduoda informaciją apie nelegaliai dirbantį ar dirbusį asmenį Migracijos departamentui.
+5) duomenų teikimo sutartyje nustatytomis sąlygomis ir tvarka perduoda informaciją apie nelegaliai dirbantį ar dirbusį asmenį (vardas, pavardė, asmens kodas (jeigu asmens kodo neturi, – gimimo data), nelegalaus darbo pradžios data, darbdavio juridinio asmens pavadinimas ir kodas, šiam juridiniam asmeniui atstovaujančio asmens vardas, pavardė ir asmens kodas (jeigu darbdavys yra fizinis asmuo, – jo vardas ir pavardė, asmens kodas) Migracijos departamentui. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+ 
 
 
 
@@ -3996,10 +4008,10 @@ Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
 
 
 
-7. Jeigu darbdavys, nelegaliai įdarbinęs trečiosios šalies pilietį dirbti tam tikro darbo, yra subrangovas arba įmonė, atsiuntusi trečiosios šalies pilietį laikinai dirbti (toliau – siunčiančioji užsienio įmonė) į įmonę Lietuvos Respublikoje pagal sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo (toliau – priimančioji Lietuvos įmonė), rangovas arba priimančioji Lietuvos įmonė yra subsidiariai atsakingi už šio straipsnio 5 dalies 2 ir 3 punktuose nurodytų piniginių įpareigojimų įvykdymą, išskyrus atvejį, kai jie raštu iš subrangovo arba siunčiančiosios užsienio įmonės pareikalavo pateikti trečiųjų šalių piliečių įdarbinimo dokumentus, nurodytus šio straipsnio 2 dalyje, ir ėmėsi priemonių jų teisingumui patikrinti. Jeigu rangovas ar kiti subrangovai arba priimančioji Lietuvos įmonė žinojo apie tai, kad darbdavys yra nelegaliai įdarbinęs trečiosios šalies pilietį, jie taip pat yra subsidiariai atsakingi už šio straipsnio 5 dalies 2 ir 3 punktuose nurodytų piniginių įpareigojimų įvykdymą. Subsidiari rangovo ar kitų subrangovų arba priimančiosios Lietuvos įmonės atsakomybė reiškia tai, kad tiek šio įstatymo 55 straipsnyje nurodyta institucija, tiek nelegaliai dirbęs trečiosios šalies pilietis turi teisę nukreipti savo piniginį reikalavimą į juos ne vėliau kaip per 3 mėnesius nuo tos dienos, kai suėjo jų piniginio reikalavimo darbdaviui terminas, tačiau darbdavys jų piniginio reikalavimo nepatenkino arba patenkino nevisiškai. Darbdavys arba siunčiančioji užsienio įmonė ne vėliau kaip prieš vieną darbo dieną iki trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžios raštu turi informuoti rangovą arba priimančiąją Lietuvos įmonę apie trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžią. Rangovo arba priimančiosios Lietuvos įmonės, gavusių informaciją iš darbdavio arba siunčiančiosios užsienio įmonės apie trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžią, reikalavimu darbdavys arba siunčiančioji užsienio įmonė turi pateikti rangovui arba priimančiajai Lietuvos įmonei turimus dokumentus, nurodytus šio straipsnio 2 dalyje. Šio įstatymo 55 straipsnyje nurodyta institucija taip pat skiria rangovui arba priimančiajai Lietuvos įmonei baudą nuo 868 iki 2 896 eurų už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį, išskyrus atvejį, kai rangovas arba priimančioji Lietuvos įmonė raštu iš subrangovo arba siunčiančiosios užsienio įmonės pareikalavo pateikti trečiųjų šalių piliečių įdarbinimo dokumentus, nurodytus šio straipsnio 2 dalyje, ir ėmėsi priemonių jų teisingumui patikrinti. Tokie patys veiksmai, padaryti rangovo arba priimančiosios Lietuvos įmonės, jau baustų už šį pažeidimą per pastaruosius 2 metus, užtraukia rangovui arba priimančiajai Lietuvos įmonei baudą nuo 2 896 iki 5 792 eurų už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį.
-TAR pastaba. 56 straipsnio 7 dalies nuostatos dėl Lietuvos Respublikoje veikiančios įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros subsidiarios atsakomybės už piniginių įpareigojimų įvykdymą ir atsakomybės už nelegaliai dirbusį trečiosios šalies pilietį taikomos Lietuvos Respublikoje veikiančiai įmonei, įstaigai, organizacijai ar kitai organizacinei struktūrai, kuri pagal sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo priėmė trečiosios šalies pilietį laikinai dirbti po 2021 m. birželio 15 d.
+7. Jeigu darbdavys, nelegaliai įdarbinęs trečiosios šalies pilietį dirbti tam tikrą darbą, yra subrangovas arba įmonė, atsiuntusi trečiosios šalies pilietį laikinai dirbti (toliau – siunčiančioji užsienio įmonė) į įmonę Lietuvos Respublikoje pagal sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo (toliau – priimančioji Lietuvos įmonė), rangovas arba priimančioji Lietuvos įmonė yra subsidiariai atsakingi už šio straipsnio 5 dalies 2 ir 3 punktuose nurodytų piniginių įpareigojimų įvykdymą, išskyrus atvejį, kai jie raštu iš subrangovo arba siunčiančiosios užsienio įmonės pareikalavo pateikti trečiųjų šalių piliečių įdarbinimo dokumentus, nurodytus šio straipsnio 2 dalyje, ir ėmėsi priemonių jų teisingumui patikrinti. Jeigu rangovas ar kiti subrangovai arba priimančioji Lietuvos įmonė žinojo apie tai, kad darbdavys yra nelegaliai įdarbinęs trečiosios šalies pilietį, jie taip pat yra subsidiariai atsakingi už šio straipsnio 5 dalies 2 ir 3 punktuose nurodytų piniginių įpareigojimų įvykdymą. Subsidiarios rangovo ar subrangovų arba priimančiosios Lietuvos įmonės atsakomybės esmė – tiek šio įstatymo 55 straipsnyje nurodyta institucija, tiek nelegaliai dirbęs trečiosios šalies pilietis turi teisę nukreipti savo piniginį reikalavimą į rangovą ar subrangovus per 3 mėnesius nuo tos dienos, kurią suėjo jų piniginio reikalavimo darbdaviui terminas, tačiau darbdavys jų piniginio reikalavimo nepatenkino arba patenkino nevisiškai. Darbdavys arba siunčiančioji užsienio įmonė ne vėliau kaip prieš vieną darbo dieną iki trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžios raštu turi informuoti rangovą arba priimančiąją Lietuvos įmonę apie trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžią, nurodydami šio trečiosios šalies piliečio vardą, pavardę ir darbo Lietuvos Respublikoje pradžios datą. Rangovo arba priimančiosios Lietuvos įmonės, gavusių iš darbdavio arba siunčiančiosios užsienio įmonės informaciją apie trečiosios šalies piliečio darbo Lietuvos Respublikoje pradžią, reikalavimu darbdavys arba siunčiančioji užsienio įmonė turi pateikti rangovui arba priimančiajai Lietuvos įmonei turimus dokumentus, nurodytus šio straipsnio 2 dalyje. Šio įstatymo 55 straipsnyje nurodyta institucija taip pat skiria rangovui arba priimančiajai Lietuvos įmonei baudą nuo 868 iki 2 896 eurų už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį, išskyrus atvejį, kai rangovas arba priimančioji Lietuvos įmonė raštu iš subrangovo arba siunčiančiosios užsienio įmonės pareikalavo pateikti trečiųjų šalių piliečių įdarbinimo dokumentus, nurodytus šio straipsnio 2 dalyje, ir ėmėsi priemonių jų teisingumui patikrinti. Tokie patys veiksmai, padaryti rangovo arba priimančiosios Lietuvos įmonės, jau baustų už šį pažeidimą per pastaruosius 2 metus, užtraukia rangovui arba priimančiajai Lietuvos įmonei baudą nuo 2 896 iki 5 792 eurų už kiekvieną nelegaliai dirbusį trečiosios šalies pilietį. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
  
 
 
@@ -4010,7 +4022,10 @@ Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
 
 
 
-9. Šio straipsnio 4 dalies 2 punkte, 5 dalies 2 ir 3 punktuose ir 8 dalyje nurodytais atvejais laikoma, kad nelegalaus darbo santykiai tęsiasi 3 mėnesius iki nelegalaus darbo fakto nustatymo dienos, o darbuotojui mokama nelegalaus darbo fakto nustatymo dieną galiojanti Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga. Ši nuostata netaikoma tais atvejais, kai šio įstatymo 55 straipsnyje nurodyta institucija ar darbuotojas įrodo didesnio darbo užmokesčio mokėjimą arba darbdavys, pripažindamas nelegalų darbą, įrodo trumpesnį nelegalaus darbo laikotarpį.
+9. Šio straipsnio 4 dalies 2 punkte, 5 dalies 2 ir 3 punktuose ir 8 dalyje nurodytais atvejais laikoma, kad nelegalaus darbo santykiai tęsiasi 3 mėnesius iki nelegalaus darbo fakto nustatymo dienos, o darbuotojui mokama nelegalaus darbo fakto nustatymo dieną galiojanti Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga. Ši nuostata netaikoma tais atvejais, kai šio įstatymo 55 straipsnyje nurodyta institucija ar darbuotojas įrodo, kad jam mokėtas didesnis darbo užmokestis, arba darbdavys, pripažindamas nelegalų darbą, įrodo, kad nelegalaus darbo laikotarpis buvo trumpesnis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+ 
 
 
 
@@ -4020,6 +4035,29 @@ Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
 
 Straipsnio pakeitimai:
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+ 
+
+
+
+
+561 straipsnis. Skaidriai dirbančio asmens identifikavimas
+
+
+1. Skaidriai dirbančiu asmeniu laikomas Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nustatyta tvarka suformuotą skaidriai dirbančio asmens identifikavimo kodą turintis fizinis asmuo, atliekantis darbą pagal darbo sutartį arba vykdantis savarankišką veiklą, kuriam (kuriai) atlikti (vykdyti) pagal specialiuosius įstatymus privaloma turėti galiojantį skaidriai dirbančio asmens identifikavimo kodą, o tais atvejais, kai tokiam asmeniui skaidriai dirbančio asmens identifikavimo kodas negali būti suformuotas, privaloma turėti skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis, nurodytus Valstybinio socialinio draudimo įstatymo 151 straipsnio 8 dalyje, pagrindžiančius dokumentus (toliau – skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiantys dokumentai).
+
+
+
+
+2. Darbdavys užtikrina, kad jo darbuotojai galiojantį skaidriai dirbančio asmens identifikavimo kodą, kurį pagal specialiuosius įstatymus jiems privalu turėti, arba tais atvejais, kai jiems skaidriai dirbančio asmens identifikavimo kodas negali būti suformuotas, skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančius dokumentus turėtų darbo vietoje ir (ar) atlikdami darbus ir pateiktų jį šio įstatymo 55 straipsnyje nurodytoms institucijoms jų atliekamo patikrinimo metu, darbdavio užsakovams, kuriems atlieka darbdavio pavestus darbus ar teikia paslaugas, taip pat specialiuosiuose įstatymuose nurodytoms kontrolės institucijoms jų atliekamo patikrinimo metu ir (ar) specialiuosiuose įstatymuose nurodytiems asmenims. 
+
+
+
+
+3. Šio straipsnio 2 dalyje numatyto reikalavimo, kad komandiruotas į Lietuvą Respubliką darbuotojas turėtų galiojantį skaidriai dirbančio asmens identifikavimo kodą, o tais atvejais, kai  jam skaidriai dirbančio asmens identifikavimo kodas negali būti suformuotas, – skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančius dokumentus, laikymąsi užtikrina įmonė Lietuvos Respublikoje, kuri priima užsienietį laikinai dirbti ir teikia informaciją įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 7 dalyje nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
  
 
 
@@ -4042,6 +4080,9 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 3) darbo Lietuvos Respublikoje laikotarpiu nesaugo šio įstatymo 56 straipsnio 2 dalies 1 punkte nurodytų dokumentų kopijų ir (ar) nepateikia jų Valstybinei darbo inspekcijai, Migracijos departamentui ar kitoms šio įstatymo 55 straipsnyje nurodytoms institucijoms jų reikalavimu;
+Straipsnio punkto pakeitimai:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+ 
 
 
 
@@ -4127,6 +4168,14 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
+5. Šio straipsnio 3 dalies 2 punkte nurodyta bauda skiriama, jeigu padaryta veika neužtraukia atsakomybės fiziniam asmeniui pagal Lietuvos Respublikos administracinių nusižengimų kodeksą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+ 
+
+
+
+
 
 
 59 straipsnis. Nedeklaruota savarankiška veikla ir jos teisinės pasekmės
@@ -4155,15 +4204,46 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
+591 straipsnis. Savarankiškai dirbantiems asmenims taikomų skaidriai dirbančio asmens identifikavimo reikalavimų pažeidimas
+
+
+Skaidriai dirbančio asmens identifikavimo reikalavimų pažeidimu laikoma individualios veiklos požymius atitinkanti savarankiškai dirbančio asmens veikla, kuri vykdoma neturint galiojančio skaidriai dirbančio asmens identifikavimo kodo, o tuo atveju, kai jam skaidriai dirbančio asmens identifikavimo kodas negali būti suformuotas, – neturint skaidriai dirbančio asmens identifikavimo kode užšifruojamus duomenis pagrindžiančių dokumentų, jeigu specialiuosiuose įstatymuose numatyta pareiga jį (juos) turėti arba jeigu ši veikla vykdoma nepateikiant jo (jų) šio įstatymo 55 straipsnyje nurodytoms institucijoms ar specialiuosiuose įstatymuose nurodytoms kontrolės institucijoms.
+
+
+Papildyta straipsniu:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+ 
+
+
+
+
+592 straipsnis. Juridinių asmenų atsakomybė už statybvietėje esančių asmenų identifikavimo reikalavimų nevykdymą
+
+
+1. Už Lietuvos Respublikos statybos įstatymo 221 straipsnio 4 dalyje nustatytų reikalavimų pažeidimą juridiniam asmeniui – statytojui (užsakovui) ar jo įgaliotam rangovui skiriama bauda nuo 2 000 iki 5 000 eurų. 
+
+
+
+
+2. Už tokius pačius veiksmus, padarytus juridinio asmens – statytojo (užsakovo) ar jo įgalioto rangovo, bausto bauda už šio straipsnio 1 dalyje nustatytus pažeidimus, skiriama bauda nuo 5 000 iki 7 000 eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
+ 
+
+
+
+
 60 straipsnis. Baudos skyrimas 
 
 
-1. Šio įstatymo 56 straipsnyje numatytų pažeidimų bylas nagrinėja ir baudas skiria šio įstatymo 55 straipsnyje nurodytos institucijos. Šio įstatymo 57 ir 58 straipsniuose numatytų pažeidimų bylas nagrinėja ir baudas skiria Valstybinė darbo inspekcija. Šie pažeidimai tiriami, pažeidimų protokolai surašomi ir bylos nagrinėjamos mutatis mutandis vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodeksu. 
+1. Šio įstatymo 56 straipsnyje numatytų pažeidimų bylas nagrinėja ir baudas skiria šio įstatymo 55 straipsnyje nurodytos institucijos. Šio įstatymo 592 straipsnyje nurodytas bylas nagrinėja ir baudas skiria Valstybinė darbo inspekcija ar Valstybinė mokesčių inspekcija. Šio įstatymo 57 ir 58 straipsniuose numatytų pažeidimų bylas nagrinėja ir baudas skiria Valstybinė darbo inspekcija. Šie pažeidimai tiriami, pažeidimų protokolai surašomi ir bylos nagrinėjamos mutatis mutandis vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodeksu.
 
 
 
 
-2. Šio įstatymo 55 straipsnyje nurodyta institucija, skirdama šio įstatymo 56, 57 ir 58 straipsniuose numatytą baudą, jos dydį nustato pagal baudos minimumo ir maksimumo vidurkį, atsižvelgdama į tai, ar yra darbdavio – juridinio ar fizinio asmens – atsakomybę lengvinančių ir sunkinančių aplinkybių. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuotas. Bauda išieškoma į valstybės biudžetą. 
+2. Šio įstatymo 55 straipsnyje nurodyta institucija, skirdama šio įstatymo 56, 57 ir 58 straipsniuose numatytą baudą, jos dydį nustato pagal baudos minimumo ir maksimumo vidurkį, atsižvelgdama į tai, ar yra darbdavio – juridinio ar fizinio asmens – atsakomybę lengvinančių ar sunkinančių aplinkybių. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuotas. Bauda išieškoma į valstybės biudžetą. Šios dalies nuostatos taikomos ir tais atvejais, kai Valstybinė darbo inspekcija ar Valstybinė mokesčių inspekcija skiria šio įstatymo 592 straipsnyje numatytas baudas.
 
 
 
@@ -4178,16 +4258,17 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-5. Šio įstatymo 56, 57 ir 58 straipsniuose numatytos baudos gali būti skiriamos ne vėliau kaip per 2 metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per 2 metus nuo jo paaiškėjimo dienos.
+5. Šio įstatymo 56, 57, 58 ir 592 straipsniuose numatytos baudos gali būti skiriamos ne vėliau kaip per 2 metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per 2 metus nuo jo paaiškėjimo dienos. 
 
 
 
 
-6. Baudos skyrimas gali būti ginčijamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
+6. Baudos skyrimas gali būti ginčijamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+Nr. XIV-859, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27754
  
 
 
