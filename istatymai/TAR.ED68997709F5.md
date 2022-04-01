@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -7407,6 +7407,25 @@ Nr. XI-114, 2008-12-23, Žin., 2008, Nr. 149-6034 (2008-12-30)
 
 
 
+1252 straipsnis. PVM kompensavimas iš biudžeto
+
+
+1. Iš valstybės biudžeto kompensuojamas už šio Įstatymo 19 straipsnio 3 dalies 1 punkte nurodytas prekes apskaičiuotas PVM – 9 procentinių punktų tarifo dydžio.
+
+
+
+
+2. Šio straipsnio nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė.
+TAR pastaba. 1252 straipsnio nuostatos taikomas nuo 2022-01-01 iki 2022-04-30 faktiškai patiektoms prekėms.
+
+
+Papildyta straipsniu:
+Nr. XIV-942, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05121
+ 
+
+
+
+
 126 straipsnis. Įstatymo įsigaliojimas
 
 
@@ -8243,3 +8262,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 4-1, 15
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 36, 47 straipsnių ir 2 priedo pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-942, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05121
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 papildymo 125-2 straipsniu ir 125-2 straipsnio pripažinimo netekusiu galios įstatymas
