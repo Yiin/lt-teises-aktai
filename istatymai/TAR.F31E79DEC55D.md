@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2022-03-01 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -1335,7 +1335,9 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 KETVIRTASIS SKIRSNIS
-STATYBOS DALYVIAI, JŲ PAREIGOS IR TEISĖS
+STATYBOS DALYVIAI, JŲ PAREIGOS IR TEISĖS. STATYBVIETĖJE ESANČIŲ ASMENŲ IDENTIFIKAVIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-858, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27753
  
 
 
@@ -2463,6 +2465,64 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
  
 
 
+
+
+
+
+221 straipsnis. Statybvietėje esančių asmenų identifikavimas
+
+
+1. Statybvietėje statybos darbus atliekantys asmenys, nurodyti Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 151 straipsnio 1 dalyje, privalo turėti galiojantį Valstybinio socialinio draudimo įstatymo 151 straipsnyje nustatyta tvarka suformuotą skaidriai dirbančio asmens identifikavimo kodą (toliau – kodas), o tais atvejais, kai jiems kodas negali būti suformuotas, privalo turėti kode užšifruojamus duomenis, nurodytus Valstybinio socialinio draudimo įstatymo 151 straipsnio 8 dalyje, pagrindžiančius dokumentus (toliau – kode užšifruojamus duomenis pagrindžiantys dokumentai) ir pateikti jį (juos):
+
+
+1) patikrinimo metu Lietuvos Respublikos užimtumo įstatymo 55 straipsnyje nurodytoms institucijoms;
+
+
+
+
+2) statybos patikrinimo metu Valstybinei teritorijų planavimo ir statybos inspekcijai prie Aplinkos ministerijos;
+
+
+
+
+3) prieš patenkant į statybvietę ir statybvietėje pareikalavus statytojui (užsakovui) ar jo vienam įgaliotam rangovui ar jų įgaliotiems asmenims.
+
+
+
+
+
+
+2. Statybvietėje gali būti asmenys, kurie:
+
+
+1) turi kodą arba, kai jiems kodas negali būti suformuotas, – kode užšifruojamus duomenis pagrindžiančius dokumentus, arba
+
+
+
+
+2) statytojo (užsakovo) ar jo vieno įgalioto rangovo nustatyta tvarka užregistravo atvykimo į statybvietę pradžios laiką ir priežastį ir turi statytojo (užsakovo) ar jo vieno įgalioto rangovo nustatytą identifikavimo priemonę. 
+
+
+
+
+
+
+3. Statytojas (užsakovas) ar jo vienas įgaliotas rangovas nustato kitų statybvietėje esančių asmenų, kurie nenurodyti šio straipsnio 1 dalyje, identifikavimo priemonę, prireikus – jos išdavimo tvarką, registruoja šių asmenų buvimo statybvietėje pradžios ir pabaigos laiką ir priežastį.
+
+
+
+
+4. Statytojas (užsakovas) arba jo vienas įgaliotas rangovas privalo užtikrinti, kad visi statybvietėje esantys fiziniai asmenys turėtų kodus (kai jiems kodas negali būti suformuotas, – kode užšifruojamus duomenis pagrindžiančius dokumentus) arba identifikavimo priemonę ir jį (ją) pateiktų šio straipsnio 1 ir 2 dalyse nustatytais atvejais ir tvarka. 
+
+
+
+
+5. Statytojas (užsakovas) ar jo įgaliotas rangovas, nevykdantis šio straipsnio 4 dalyje nustatytų pareigų arba netinkamai jas vykdantis, atsako šio įstatymo ir Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-858, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27753
+ 
 
 
 
@@ -5660,3 +5720,13 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 12 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-718, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25447
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-1 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-462, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15521
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-858, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27753
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymo Nr. XIV-462 pakeitimo įstatymas
