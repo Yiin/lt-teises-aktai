@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-01-29 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-04-20
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -3383,6 +3383,26 @@ Nr. XIV-367, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13174
 
 Straipsnio pakeitimai:
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
+ 
+
+
+
+
+961 straipsnis. Lietuvos Respublikos užimtumo įstatyme nustatytų skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimas 
+
+
+1. Lietuvos Respublikos užimtumo įstatyme nustatytų skaidriai dirbančių asmenų identifikavimo reikalavimų pažeidimas 
+užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims, taip pat įmonės Lietuvos Respublikoje, priimančios užsieniečius laikinai dirbti, vadovui ar jo įgaliotam asmeniui nuo penkių šimtų iki vieno tūkstančio vieno šimto eurų. 
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims, taip pat įmonės Lietuvos Respublikoje, priimančios užsieniečius laikinai dirbti, vadovui ar jo įgaliotam asmeniui nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
  
 
 
@@ -13164,6 +13184,26 @@ užtraukia baudą nuo trijų šimtų iki vieno tūkstančio keturių šimtų pen
 
 
 
+3621 straipsnis. Lietuvos Respublikos statybos įstatyme nustatytų statybvietėje esančių asmenų identifikavimo reikalavimų pažeidimas
+
+
+1. Lietuvos Respublikos statybos įstatyme nustatytų statybvietėje esančių asmenų identifikavimo reikalavimų pažeidimas 
+užtraukia baudą statybvietėje esantiems darbuotojams, kitiems statybvietėje esantiems asmenims nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų, rangovams ar statytojams (užsakovams) fiziniams asmenims, savarankiškai dirbantiems asmenims – nuo penkių šimtų iki vieno tūkstančio vieno šimto eurų ir rangovų ar statytojų (užsakovų) juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų. 
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą statybvietėje esantiems darbuotojams, kitiems statybvietėje esantiems asmenims nuo vieno šimto penkiasdešimt iki dviejų šimtų penkiasdešimt eurų, rangovams ar statytojams (užsakovams) fiziniams asmenims, savarankiškai dirbantiems asmenims – nuo vieno tūkstančio vieno šimto iki dviejų tūkstančių penkių šimtų penkiasdešimt eurų ir rangovų ar statytojų (užsakovų) juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių tūkstančių iki šešių tūkstančių eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
+ 
+
+
+
+
 363 straipsnis. Statinio projektavimas, vadovavimas statinio projekto rengimui, statinio projekto ar statinio ekspertizės atlikimas, vadovavimas statinio projekto ar statinio ekspertizei, statinio statyba, vadovavimas statinio statybai, statinio statybos techninės priežiūros atlikimas neturint teisės verstis šia veikla, neapsidraudus ar neapdraustam privalomuoju civilinės atsakomybės draudimu
 
 
@@ -20399,7 +20439,7 @@ Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
 
 
 
-58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų;
+58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 961, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 3621 straipsnyje, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
@@ -20409,6 +20449,7 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855
 Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487
 Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208
+Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
  
 
 
@@ -20472,7 +20513,7 @@ Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
 
 
 
-66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 188, 1881, 189, 190, 191, 192, 194, 1981, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 431, 449, 4491, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
+66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 961, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 188, 1881, 189, 190, 191, 192, 194, 1981, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 3621, 431, 449, 4491, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
@@ -20480,6 +20521,7 @@ Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
 Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556
 Nr. XIII-3219, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15755
 Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166
+Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
  
 
 
@@ -25612,3 +25654,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 573 ir 589 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-914, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01358
 Lietuvos Respublikos administracinių nusižengimų kodekso 602, 683 straipsnių ir priedo pakeitimo įstatymas
+ 
+156.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 362-1 straipsniu ir 589 straipsnio pakeitimo įstatymo Nr. XIV-464 pakeitimo įstatymas
