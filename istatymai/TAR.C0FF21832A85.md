@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2020-12-31 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -356,7 +356,10 @@ Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 
 
 
-5. Parama pagal šį įstatymą pripažįstama ir tais atvejais, kai ji teikiama Europos ekonominės erdvės valstybėse įsteigtiems juridiniams asmenims ar kitoms organizacijoms, kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams. Paramos teikėjas Valstybinei mokesčių inspekcijai pateikia Vyriausybės įgaliotos institucijos nustatytus dokumentus, įrodančius, kad jo parama teikiama šių juridinių asmenų ar kitų organizacijų veiklos dokumentuose numatytiems visuomenei naudingiems tikslams, nurodytiems šio įstatymo 3 straipsnio 3 dalyje. Vyriausybės įgaliota institucija nustato šių dokumentų pateikimo Valstybinei mokesčių inspekcijai tvarką. Šios dalies nuostatos netaikomos šio straipsnio 4 dalyje nurodytiems juridiniams asmenims ar organizacijoms.
+5. Parama pagal šį įstatymą pripažįstama ir tais atvejais, kai ji teikiama Europos ekonominės erdvės valstybėse ir į Vyriausybės sudarytą sąrašą įtrauktose demokratinėse bei teisinėse valstybėse, patiriančiose nusikaltimus, kaip jie suprantami pagal Tarptautinio baudžiamojo teismo Romos statutą, ratifikuotą Lietuvos Respublikos įstatymu „Dėl Tarptautinio baudžiamojo teismo Romos statuto ratifikavimo“, ir jo pakeitimus, ratifikuotus Lietuvos Respublikos įstatymu „Dėl Tarptautinio baudžiamojo teismo Romos statuto pakeitimų dėl agresijos nusikaltimo ir Tarptautinio baudžiamojo teismo Romos statuto 8 straipsnio pakeitimų ratifikavimo“, ir šių nusikaltimų padarinius, įsteigtiems juridiniams asmenims ar kitoms organizacijoms, kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams, taip pat kai parama teikiama šių demokratinių bei teisinių valstybių valstybinėms institucijoms visuomenei naudingiems tikslams tenkinti. Paramos teikėjas Valstybinei mokesčių inspekcijai pateikia Vyriausybės įgaliotos institucijos nustatytus dokumentus, įrodančius, kad jo parama teikiama šių juridinių asmenų ar kitų organizacijų veiklos dokumentuose numatytiems visuomenei naudingiems tikslams, nurodytiems šio įstatymo 3 straipsnio 3 dalyje. Vyriausybės įgaliota institucija nustato šių dokumentų pateikimo Valstybinei mokesčių inspekcijai tvarką. Šios dalies nuostatos netaikomos šio straipsnio 4 dalyje nurodytiems juridiniams asmenims ar organizacijoms.
+TAR pastaba. 7 straipsnio 5 dalies nuostatos taikomos nuo nepaprastosios padėties įvedimo Lietuvos Respublikoje dienos, nustatytos Lietuvos Respublikos Prezidento 2022 m. vasario 24 d. dekrete Nr. 1K-872 „Dėl nepaprastosios padėties paskelbimo“.
+Straipsnio dalies pakeitimai:
+Nr. XIV-944, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05123
  
 
 
@@ -1203,3 +1206,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 13 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4, 7, 8, 9 ir 11 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-944, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05123
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 7 straipsnio pakeitimo įstatymas
