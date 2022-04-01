@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -2011,9 +2011,11 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju 1
 
 
 
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 189, 190, 191, 192, 193, 195, 198, 205, 207, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 505, 546 straipsniuose, ir (ar) jam nebuvo paskirta bauda už šiame punkte nurodytuose Administracinių nusižengimų kodekso straipsniuose numatytą administracinį nusižengimą, padarytą pakartotinai. Šiame punkte pakartotinis administracinis nusižengimas suprantamas taip, kaip tai nustatyta Administracinių nusižengimų kodekso 40 straipsnyje. 
+4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 961, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 189, 190, 191, 192, 193, 195, 198, 205, 207, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505, 546 straipsniuose, ir (ar) jam nebuvo paskirta bauda už šiame punkte nurodytuose Administracinių nusižengimų kodekso straipsniuose numatytą administracinį nusižengimą, padarytą pakartotinai. Šiame punkte pakartotinis administracinis nusižengimas suprantamas taip, kaip tai nustatyta Administracinių nusižengimų kodekso 40 straipsnyje.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+Nr. XIV-465, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15524
+Nr. XIV-861, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27779
  
 
 
@@ -6587,6 +6589,8 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
+ 
+
  
 Lietuvos Respublikos
 mokesčių administravimo įstatymo 
@@ -6627,8 +6631,7 @@ Priedo pakeitimai:
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
  
-
-
+part_a52b3e127b4d49b0af8fbdc0ae3b7cd1_end
 
 
 Pakeitimai:
@@ -6901,3 +6904,13 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2733, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00108
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 103 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-465, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15524
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-861, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27779
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straipsnio pakeitimo įstatymo Nr. XIV-465 pakeitimo įstatymas
