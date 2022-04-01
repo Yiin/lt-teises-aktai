@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-07-14
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -69,14 +69,25 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 
-4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje; 
+4) užsieniečiams, kuriems suteiktas prieglobstis arba laikinoji apsauga Lietuvos Respublikoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
+ 
 
 
 
 
-5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“;
 Papildyta straipsnio punktu:
 Nr. XIII-2346, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12437
+ 
+
+
+
+
+6) asmenims, kuriems taikomos Lietuvos Respublikos tarptautinės sutartys dėl socialinio draudimo pensijų mokėjimo.
+Papildyta straipsnio punktu:
+Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
  
 
 
@@ -659,9 +670,10 @@ V SKYRIUS
 
 
 
-4. Šalpos išmokas mokanti įstaiga per 10 darbo dienų nuo prašymo skirti šalpos išmoką ar atnaujinti (pratęsti) jos mokėjimą kartu su visais reikiamais dokumentais arba papildomų dokumentų, išskyrus šio straipsnio 51 dalyje nustatytą atvejį, gavimo šalpos išmokas mokančioje įstaigoje dienos privalo priimti sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo) ir apie tai raštu pranešti pareiškėjui.
+4. Šalpos išmokas mokanti įstaiga per 10 darbo dienų nuo prašymo skirti šalpos išmoką ar atnaujinti (pratęsti) jos mokėjimą kartu su visais reikiamais dokumentais arba papildomų dokumentų, išskyrus šio straipsnio 51 dalyje nustatytus atvejus, gavimo šalpos išmokas mokančioje įstaigoje dienos privalo priimti sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo) ir apie tai raštu pranešti pareiškėjui.
 Straipsnio dalies pakeitimai:
 Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
+Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
  
 
 
@@ -676,9 +688,11 @@ Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
 
 
 
-51. Šalpos išmokas mokanti įstaiga, gavusi prašymą skirti šalpos išmoką ar atnaujinti (pratęsti) jos mokėjimą ir nustačiusi, kad iš kompetentingų užsienio valstybių institucijų negalima gauti informacijos ir (ar) duomenų apie užsienio valstybių pensijas ar pensijų išmokas, kurias pareiškėjas gauna arba turi teisę gauti, nes Lietuvos Respublika ar užsienio valstybė nėra prisijungusi prie tarptautinės konvencijos, kito tarptautinio teisės akto, su užsienio valstybe nėra sudariusi tarptautinės sutarties ar tarptautinio tarpžinybinio susitarimo, pagal kuriuos tokią informaciją ir (ar) duomenis galėtų gauti, bei iš Lietuvos Respublikos užsienio reikalų ministerijos gavusi informaciją, kad šioje dalyje nurodytos informacijos ir (ar) duomenų negalima gauti diplomatiniais kanalais, per 10 darbo dienų nuo tokios informacijos ir kitų šalpos išmokai skirti ar jos mokėjimui atnaujinti (pratęsti) reikalingų dokumentų gavimo dienos priima sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo), nereikalaudama pateikti informacijos ir (ar) duomenų apie užsienio valstybių pensijas ar pensijų išmokas, kurias pareiškėjas gauna arba turi teisę gauti, ir apie priimtą sprendimą raštu informuoja pareiškėją. 
+51. Šalpos išmokas mokanti įstaiga, gavusi prašymą skirti šalpos išmoką ar atnaujinti (pratęsti) jos mokėjimą ir nustačiusi, kad iš kompetentingų užsienio valstybių institucijų negalima gauti informacijos ir (ar) duomenų apie užsienio valstybių pensijas ar pensijų išmokas, kurias pareiškėjas gauna arba turi teisę gauti, nes Lietuvos Respublika ar užsienio valstybė nėra prisijungusi prie tarptautinės konvencijos, kito tarptautinio teisės akto, su užsienio valstybe nėra sudariusi tarptautinės sutarties ar tarptautinio tarpžinybinio susitarimo, pagal kuriuos tokią informaciją ir (ar) duomenis galėtų gauti, taip pat iš Lietuvos Respublikos užsienio reikalų ministerijos gavusi informaciją, kad šioje dalyje nurodytos informacijos ir (ar) duomenų negalima gauti diplomatiniais kanalais, arba tais atvejais, kai Lietuvos Respublika ar užsienio valstybė yra prisijungusi prie tarptautinės konvencijos, kito tarptautinio teisės akto ar su užsienio valstybe yra sudaryta tarptautinė sutartis ar tarptautinis tarpžinybinis susitarimas, tačiau, Užsienio reikalų ministerijos pateiktais duomenimis, šią užsienio valstybę ištiko humanitarinė krizė, kaip ji apibrėžta Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme (toliau – humanitarinė krizė), ir duomenų apie asmeniui užsienio valstybės paskirtos pensijos dydį negalima gauti diplomatiniais kanalais, per 10 darbo dienų nuo tokios informacijos ir kitų šalpos išmokai skirti ar jos mokėjimui atnaujinti (pratęsti) reikalingų dokumentų gavimo dienos priima sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo), nereikalaudama pateikti informacijos ir (ar) duomenų apie užsienio valstybių pensijas ar pensijų išmokas, kurias pareiškėjas gauna arba turi teisę gauti, ir apie priimtą sprendimą raštu informuoja pareiškėją.
 Papildyta straipsnio dalimi:
 Nr. XIV-479, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15857
+Straipsnio dalies pakeitimai:
+Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
  
 
 
@@ -1145,7 +1159,18 @@ Pensijos priemokos mokamos, jų skyrimo ir mokėjimo administravimo išlaidos ap
 
 
 
-2. Asmenų, kurie gauna užsienio valstybės pensiją, teisė gauti pensijos priemoką nustatoma ir pensijos priemoka skiriama bei mokama, asmeniui pateikus duomenis apie užsienio valstybės paskirtos pensijos dydį (jeigu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga neturi šių duomenų). Gavusi duomenis apie užsienio valstybės paskirtos pensijos dydį, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga turinčiam teisę gauti pensijos priemoką asmeniui paskiria pensijos priemoką nuo teisės gauti pensijos priemoką atsiradimo dienos, bet ne daugiau kaip už 6 mėnesius nuo duomenų apie užsienio valstybės paskirtos pensijos dydį pateikimo dienos, ir išmoka pensijos priemokos nepriemoką. Duomenis apie užsienio valstybės paskirtos pensijos dydį asmuo privalo teikti kas ketvirtį, jeigu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga negauna šių duomenų.
+2. Asmenų, kurie gauna užsienio valstybės pensiją, teisė gauti pensijos priemoką nustatoma ir pensijos priemoka skiriama bei mokama, asmeniui pateikus duomenis apie užsienio valstybės paskirtos pensijos dydį (jeigu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga neturi šių duomenų), išskyrus šio straipsnio 21 dalyje nustatytą atvejį. Gavusi duomenis apie užsienio valstybės paskirtos pensijos dydį, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga turinčiam teisę gauti pensijos priemoką asmeniui paskiria pensijos priemoką nuo teisės gauti pensijos priemoką atsiradimo dienos, bet ne daugiau kaip už 12 mėnesių nuo duomenų apie užsienio valstybės paskirtos pensijos dydį pateikimo dienos, ir išmoka pensijos priemokos nepriemoką. Duomenis apie užsienio valstybės paskirtos pensijos dydį asmuo privalo teikti ne rečiau kaip vieną kartą per metus, jeigu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga negauna šių duomenų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
+ 
+
+
+
+
+21. Kai asmuo, kuris gauna užsienio valstybės pensiją, patvirtina, kad negali šio straipsnio 2 dalyje nustatyta tvarka pateikti duomenų apie jam užsienio valstybės paskirtos pensijos dydį (jeigu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga negali šių duomenų gauti iš kompetentingų užsienio valstybių institucijų), o iš Užsienio reikalų ministerijos yra gauta informacija, kad užsienio valstybę ištiko humanitarinė krizė ir duomenų apie asmeniui užsienio valstybės paskirtos pensijos dydį negalima gauti diplomatiniais kanalais, pensijos priemoka šiam asmeniui skiriama ir mokama nereikalaujant duomenų apie jam užsienio valstybės paskirtos pensijos dydį ir laikant, kad jam užsienio valstybės paskirtos pensijos dydis yra 0 eurų. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos įgaliota Valstybinio socialinio draudimo fondo administravimo įstaiga, iš asmens, kompetentingų užsienio valstybių institucijų ir (ar) Užsienio reikalų ministerijos gavusi duomenis apie tam asmeniui užsienio valstybės paskirtos pensijos dydį, nustato šio asmens teisę gauti pensijos priemoką iš naujo ir naujo dydžio pensijos priemoką pradeda mokėti arba pensijos priemokos mokėjimą nutraukia nuo kito mėnesio, einančio po mėnesio, kurį nurodyta informacija ir (ar) duomenys buvo gauti, pirmos dienos.
+Papildyta straipsnio dalimi:
+Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
+ 
 
 
 
@@ -1239,7 +1264,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
+ 
+
 Lietuvos Respublikos 
 šalpos pensijų įstatymo 
 priedas
@@ -1248,9 +1274,17 @@ priedas
  
 
 
-1. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+1. 2001 m. liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių, skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir atsakant už tokio veiksmo padarinius pusiausvyrą.
 
 
+
+
+2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+
+
+Priedo pakeitimai:
+Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
+ 
  
  
 Pakeitimai:
@@ -1399,3 +1433,11 @@ Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 10 ir 15 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-480, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15859
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 10 ir 15 straipsnių pakeitimo įstatymo Nr. XIV-230 2 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 15, 22-4 straipsnių ir priedo pakeitimo įstatymas
+ 
+ 
+part_fd31069eae57422fb111ef0cb533d002_end
