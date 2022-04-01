@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2022-03-24 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -302,7 +302,9 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-28. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Viešųjų pirkimų įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos pašto įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme.
+28. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Viešųjų pirkimų įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos pašto įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
  
 
 
@@ -1548,9 +1550,11 @@ Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
 
 
 
-5. Perkantysis subjektas, veikiantis gynybos srityje arba srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, atlikdamas su nacionaliniu saugumu susijusių prekių, paslaugų ar darbų pirkimus, įvertina visus galinčius kelti grėsmę nacionalinio saugumo interesams rizikos veiksnius ir sprendžia, ar šiuose pirkimuose gali dalyvauti tiekėjai ir jo subtiekėjai, kurie nėra registruoti (jeigu tiekėjas ar subtiekėjas yra fizinis asmuo – nuolat gyvenantys) Europos Sąjungos valstybėje narėje, Šiaurės Atlanto sutarties organizacijos valstybėje narėje ar trečiojoje šalyje, pasirašiusioje šio straipsnio 4 dalyje nurodytus tarptautinius susitarimus. 
+5. Perkantysis subjektas, veikiantis gynybos srityje, valdantis ypatingos svarbos informacinę infrastruktūrą, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar įrašytas į Saugiojo valstybinio duomenų perdavimo tinklo naudotojų sąrašą (toliau – Saugiojo tinklo naudotojų sąrašas), atlikdamas su nacionaliniu saugumu susijusių prekių, paslaugų ar darbų pirkimus, įvertina visus galinčius kelti grėsmę nacionalinio saugumo interesams rizikos veiksnius ir sprendžia, ar šiuose pirkimuose gali dalyvauti tiekėjai, jų subtiekėjai ir ūkio subjektai, kurių pajėgumais remiamasi, kurie nėra registruoti (jeigu tiekėjas, jo subtiekėjas ar ūkio subjektas, kurio pajėgumais remiamasi, yra fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) Europos Sąjungos valstybėje narėje, Šiaurės Atlanto sutarties organizacijos valstybėje narėje ar trečiojoje šalyje, pasirašiusioje šio straipsnio 4 dalyje nurodytus tarptautinius susitarimus.
 Papildyta straipsnio dalimi:
 Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+Straipsnio dalies pakeitimai:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
  
 
 
@@ -1958,9 +1962,12 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-2. Atliekant mažos vertės pirkimus taikomos šio įstatymo I skyriaus, 44, 47 straipsnių, 68 straipsnio 1 dalies, 90 straipsnio, 94 straipsnio 5, 6, 7 ir 9 dalių, 99 straipsnio, VI ir VII skyriaus nuostatos ir perkančiojo subjekto patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu mažos vertės neskelbiamas pirkimas atliekamas šio įstatymo 79 straipsnio 1 dalies 3 punkte, 3 dalies 1, 2 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis ar į mažos vertės neskelbiamą pirkimą kviečiamas tik vienas tiekėjas, šio įstatymo 34 straipsnio reikalavimų, išskyrus 34 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Be to, gali būti nesilaikoma šio įstatymo 90 straipsnio reikalavimų, jeigu atliekamas mažos vertės neskelbiamas pirkimas, kurio numatoma pirkimo sutarties vertė yra mažesnė kaip 10 000 Eur (dešimt tūkstančių eurų) be pridėtinės vertės mokesčio.
+2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 44, 47 straipsnių, 50 straipsnio 9 dalies, 68 straipsnio 1 dalies, 90 straipsnio, 94 straipsnio 5, 6, 7 ir 9 dalių, 99 straipsnio, VI ir VII skyrių ir Viešųjų pirkimų įstatymo 47 straipsnio 9 dalies nuostatos ir perkančiojo subjekto tvirtinamame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu mažos vertės neskelbiamas pirkimas atliekamas šio įstatymo 79 straipsnio 1 dalies 3 punkte, 3 dalies 1, 2 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis ar į mažos vertės neskelbiamą pirkimą kviečiamas tik vienas tiekėjas, šio įstatymo 34 straipsnio reikalavimų, išskyrus 34 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Be to, gali būti nesilaikoma šio įstatymo 90 straipsnio reikalavimų, jeigu atliekamas mažos vertės neskelbiamas pirkimas, kurio numatoma pirkimo sutarties vertė yra mažesnė kaip 10 000 Eur (dešimt tūkstančių eurų) be pridėtinės vertės mokesčio.
 2 dalies redakcija nuo 2023-01-01:
 2. Atliekant mažos vertės pirkimus taikomos šio įstatymo I skyriaus, 44, 47 straipsnių, 68 straipsnio 1 dalies, 90 straipsnio, 94 straipsnio 5, 6, 7 ir 9 dalių, 99 straipsnio, VI ir VII skyrių nuostatos ir perkančiojo subjekto patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu mažos vertės neskelbiamas pirkimas atliekamas šio įstatymo 79 straipsnio 1 dalies 3 punkte, 3 dalies 1, 2 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis ar į mažos vertės neskelbiamą pirkimą kviečiamas tik vienas tiekėjas, šio įstatymo 34 straipsnyje nustatytų reikalavimų, išskyrus 34 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Be to, gali būti nesilaikoma šio įstatymo 90 straipsnyje nustatytų reikalavimų, jeigu atliekamas mažos vertės neskelbiamas pirkimas, kurio numatoma pirkimo sutarties vertė yra mažesnė kaip 15 000 Eur (penkiolika tūkstančių eurų) be pridėtinės vertės mokesčio.
+Straipsnio dalies pakeitimai:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
+ 
 
 
 
@@ -2047,9 +2054,11 @@ Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
 
 
 
-5. Perkantysis subjektas, valdantis ypatingos svarbos informacinę infrastruktūrą, pasirengdamas pirkimui ir siekdamas įvertinti, ar pirkimas susijęs su nacionaliniu saugumu, privalo kreiptis į Lietuvos Respublikos krašto apsaugos ministeriją su prašymu pateikti motyvuotą rekomendaciją dėl sutarties vykdymo metu galinčių kilti technologinių rizikų, susijusių su ypatingos svarbos informacine infrastruktūra, ir šio įstatymo 50 straipsnio 2 dalyje nurodytų reikalavimų, susijusių su nacionaliniu saugumu, nustatymo pirkimo dokumentuose tikslingumo (toliau šioje dalyje – rekomendacija). Kartu su prašymu pateikti rekomendaciją perkantysis subjektas turi pateikti pirkimo objektui apibūdinti  reikalingus duomenis, pagrindines ketinamos sudaryti pirkimo sutarties sąlygas ir motyvus, kodėl pirkimas galėtų būti susijęs su nacionaliniu saugumu. Rekomendacijos pateikiamos Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+5. Neteko galios nuo 2022-04-01.
 Papildyta straipsnio dalimi:
 Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
+Straipsnio dalies pakeitimai:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
  
 
 
@@ -2670,9 +2679,11 @@ Nr. XIV-252, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08626
 
 
 
-33) informacija apie tai, kad, jeigu pirkimo metu bus atliekama patikra Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka, tiekėjas turės pateikti tokiai patikrai atlikti reikalingus dokumentus; 
+33) informacija apie tai, kad, jeigu pirkimo metu bus atliekama patikra dėl atitikties nacionalinio saugumo interesams, tiekėjas turės pateikti tokiai patikrai atlikti reikalingus dokumentus;
 Papildyta straipsnio punktu:
 Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
+Straipsnio punkto pakeitimai:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-252, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08626
  
@@ -2779,10 +2790,11 @@ Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
 
 
 
-2. Visų pirkimų, skirtų fiziniams asmenims (visai visuomenei, perkančiojo subjekto darbuotojams), techninės specifikacijos, išskyrus pagrįstus atvejus, turėtų būti parengtos taip, kad jose būtų atsižvelgta į neįgaliųjų kriterijus ir tinkamumą visiems naudotojams. Jeigu Europos Sąjungos ar nacionalinės teisės aktu yra nustatyti privalomi neįgaliųjų kriterijai ir tinkamumo visiems naudotojams kriterijai, perkantysis subjektas privalo jais vadovautis rengdamas technines specifikacijas. Perkantysis subjektas, veikiantis gynybos srityje ar valdantis ypatingos svarbos informacinę infrastruktūrą, ar veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, rengdamas su nacionaliniu saugumu susijusių pirkimų technines specifikacijas, turi teisę reikalauti, kad tiekėjo siūlomos prekės, paslaugos ar darbai nekeltų grėsmės nacionaliniam saugumui. Perkantysis subjektas, veikiantis gynybos srityje, turi teisę spręsti, ar tiekėjo siūlomos prekės, paslaugos ar darbai kelia grėsmę nacionaliniam saugumui, įvertinęs kompetentingų institucijų pateiktą informaciją. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar valdantis ypatingos svarbos informacinę infrastruktūrą, turi teisę laikyti, kad tiekėjo siūlomos prekės, paslaugos ar darbai kelia grėsmę nacionaliniam saugumui, kai Lietuvos Respublikos Vyriausybė yra priėmusi sprendimą, patvirtinantį, kad ketinamas sudaryti sandoris neatitinka nacionalinio saugumo interesų vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu.
+2. Visų pirkimų, skirtų fiziniams asmenims (visai visuomenei, perkančiojo subjekto darbuotojams), techninės specifikacijos, išskyrus pagrįstus atvejus, turėtų būti parengtos taip, kad jose būtų atsižvelgta į neįgaliųjų kriterijus ir tinkamumą visiems naudotojams. Jeigu Europos Sąjungos ar nacionalinės teisės aktu yra nustatyti privalomi neįgaliųjų kriterijai ir tinkamumo visiems naudotojams kriterijai, perkantysis subjektas, rengdamas technines specifikacijas, privalo jais vadovautis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
  
 
 
@@ -2829,6 +2841,31 @@ Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
 
 
 7. Kai perkantysis subjektas techninėje specifikacijoje nurodo objekto norimo rezultato apibūdinimo ar funkcinius reikalavimus pagal šio straipsnio 4 dalies 1 punkte nustatytus reikalavimus, jis neturi teisės atmesti pasiūlymo dėl to, kad siūlomos prekės, paslaugos ar darbai atitinka Lietuvos standartą, perimantį Europos standartą, Europos techninio įvertinimo patvirtinimo dokumentą, bendrą techninę specifikaciją, tarptautinį standartą arba Europos standartizacijos organizacijos nustatytą techninių normatyvų sistemą, jeigu juose yra nurodyti perkančiojo subjekto keliami norimo rezultato ir funkciniai reikalavimai ir jeigu dalyvis savo pasiūlyme bet kokiomis perkančiajam subjektui tinkamomis priemonėmis, įskaitant ir šio įstatymo 52 straipsnyje nurodytas priemones, įrodo, kad jo siūlomos technines specifikacijas atitinkančios prekės, paslaugos ar darbai atitinka perkančiojo subjekto keliamus norimo rezultato ir funkcinius reikalavimus.
+
+
+
+
+8. Perkantysis subjektas, veikiantis gynybos srityje, valdantis ypatingos svarbos informacinę infrastruktūrą, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, rengdamas su nacionaliniu saugumu susijusių pirkimų technines specifikacijas, reikalauja, kad tiekėjo siūlomos prekės (įskaitant jų sudedamąsias dalis bei prekių ir jų dalių gamintojus), paslaugos ar darbai nekeltų grėsmės nacionaliniam saugumui. Perkantysis subjektas, veikiantis gynybos srityje, sprendžia, ar tiekėjo siūlomos prekės (įskaitant jų sudedamąsias dalis bei prekių ir jų dalių gamintojus), paslaugos ar darbai kelia grėsmę nacionaliniam saugumui, įvertinęs kompetentingų institucijų pateiktą informaciją. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar valdantis ypatingos svarbos informacinę infrastruktūrą, kelia reikalavimą, kad tiekėjo siūlomos prekės (įskaitant jų sudedamąsias dalis bei prekių ir jų dalių gamintojus), paslaugos ar darbai nekeltų grėsmės nacionaliniam saugumui, kai sandorio pagrindu susidarytų aplinkybės, nurodytos Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 13 straipsnio 4 dalies 1 punkte. Perkantysis subjektas, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, valdantis ypatingos svarbos informacinę infrastruktūrą, laiko, kad tiekėjo siūlomos prekės (įskaitant jų sudedamąsias dalis bei prekių ir jų dalių gamintojus), paslaugos ar darbai kelia grėsmę nacionaliniam saugumui, kai Lietuvos Respublikos Vyriausybė yra priėmusi sprendimą, patvirtinantį, kad ketinamas sudaryti sandoris neatitinka nacionalinio saugumo interesų vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
+ 
+
+
+
+
+9. Perkantysis subjektas, veikiantis gynybos srityje, valdantis ypatingos svarbos informacinę infrastruktūrą, veikiantis srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ar įrašytas į Saugiojo tinklo naudotojų sąrašą, atlikdamas prekių ar paslaugų pirkimus, kurių BVPŽ kodai nurodyti Viešųjų pirkimų įstatymo 92 straipsnio 13 dalyje numatytame sąraše, laiko, kad prekės ar paslaugos kelia grėsmę nacionaliniam saugumui, kai: 
+
+
+1) techninės ar programinės įrangos gamintojas ar jį kontroliuojantis asmuo yra registruoti (jeigu gamintojas ar jį kontroliuojantis asmuo yra fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje numatytame sąraše nurodytose valstybėse ar teritorijose;
+
+
+
+
+2) techninės ar programinės įrangos priežiūra ar palaikymas būtų vykdomas iš Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje numatytame sąraše nurodytų valstybių ar teritorijų. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
  
 
 
@@ -2896,6 +2933,23 @@ Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
 
 
 2. Jeigu tiekėjas negali gauti šio straipsnio 1 dalyje nurodytų pažymų ar tyrimų ataskaitų arba negali jų gauti per nustatytą laiką dėl nuo tiekėjo nepriklausančių aplinkybių ir įrodo, kad prekės, paslaugos ar darbai atitinka techninėse specifikacijose nurodytus reikalavimus ar kriterijus, pasiūlymų vertinimo kriterijus ar pirkimo sutarties vykdymo sąlygas, perkantysis subjektas pripažįsta ir kitas tinkamas priemones.
+
+
+
+
+3. Perkančioji organizacija, tikrindama pasiūlymo atitiktį šio įstatymo 50 straipsnio 9 dalies reikalavimams, iš tiekėjo reikalauja šių dokumentų:
+
+
+1) jeigu techninės ar programinės įrangos priežiūrą ir palaikymą vykdantis asmuo arba gamintojas ar jį kontroliuojantis asmuo yra juridinis asmuo, pateikiama juridinio asmens vadovo patvirtinta juridinio asmens steigimo dokumentų kopija, Juridinių asmenų registro išplėstinis išrašas su istorija arba atitinkami valstybės narės ar trečiosios šalies dokumentai; 
+
+
+
+
+2) jeigu techninės ar programinės įrangos priežiūrą ir palaikymą vykdantis asmuo arba gamintojas ar jį kontroliuojantis asmuo yra fizinis asmuo, pateikiama jo asmens tapatybę patvirtinančio dokumento (tapatybės kortelės ar paso) kopija, leidimo verstis atitinkama ūkine veikla patvirtinančio dokumento (pavyzdžiui, verslo liudijimo, individualios veiklos pažymėjimo ir pan.) kopija ir pažyma apie deklaruotą gyvenamąją vietą arba atitinkami valstybės narės ar trečiosios šalies dokumentai.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
  
 
 
@@ -5974,11 +6028,12 @@ PIRKIMŲ VALDYMAS
 
 
 
-10. Šio įstatymo 50 straipsnio 2 dalyje nurodytą informaciją, reikalingą įvertinti, ar perkančiojo subjekto, veikiančio gynybos srityje, ketinama sudaryti pirkimo sutartis keltų grėsmę nacionalinio saugumo interesams, pagal perkančiojo subjekto kreipimąsi teikia kompetentingos institucijos, vadovaudamosi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytais sandorių patikros dėl atitikties nacionalinio saugumo interesams vertinimo kriterijais.
+10. Šio įstatymo 50 straipsnio 8 dalyje nurodytą informaciją, reikalingą įvertinti, ar perkančiojo subjekto, veikiančio gynybos srityje, ketinama sudaryti pirkimo sutartis keltų grėsmę nacionalinio saugumo interesams, pagal perkančiojo subjekto kreipimąsi teikia kompetentingos institucijos, vadovaudamosi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytais patikros dėl atitikties nacionalinio saugumo interesams vertinimo kriterijais. Perkančiųjų subjektų, veikiančių gynybos srityje, atliekamiems pirkimams atitikties dėl nacionalinio saugumo interesų vertinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 Papildyta straipsnio dalimi:
 Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 Straipsnio dalies pakeitimai:
 Nr. XIII-3259, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15774
+Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
  
 
 
