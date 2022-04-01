@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2022-03-23 iki 2022-03-31
+Suvestinė redakcija nuo 2022-04-01 iki 2022-07-14
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -7670,7 +7670,18 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-5. Lietuvos valstybės paramos šiame straipsnyje nurodytų užsieniečių integracijai teikimo sąlygas ir tvarką bei pašalpų, išmokų ir kompensacijų dydžius nustato Lietuvos Respublikos Vyriausybė.
+5. Užsieniečiai, kuriems buvo suteikta laikinoji apsauga Lietuvos Respublikoje, turi šio straipsnio 1 dalies 2 ir 5 punktuose nurodytas teises. Šio straipsnio 1 dalies 5 punkte nurodyta Lietuvos valstybės parama užsieniečių integracijai mokama ne ilgiau kaip 6 mėnesius nuo laikinosios apsaugos Lietuvos Respublikoje užsieniečiams suteikimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
+ 
+
+
+
+
+6. Lietuvos valstybės paramos šiame straipsnyje nurodytų užsieniečių integracijai teikimo sąlygas ir tvarką bei pašalpų, išmokų ir kompensacijų dydžius nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
+ 
 
 
 Straipsnio pakeitimai:
