@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-04-07
+Suvestinė redakcija nuo 2022-04-08 iki 2022-07-11
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1566,9 +1567,9 @@ Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
 
 9) nagrinėja iš asmenų gaunamus pranešimus ir pareiškimus apie savivaldybės administracijos, įmonių, įstaigų ir jų vadovų veiklą ir teikia dėl jų siūlymus savivaldybės administracijai ir savivaldybės tarybai arba persiunčia juos nagrinėti kompetentingoms institucijoms ar įstaigoms.
-TAR pastaba. 14 straipsnio 4 dalies 9 punkto nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
@@ -1589,10 +1590,10 @@ Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
 
 
 6. Komitetų darbe patariamojo balso teise reglamento nustatyta tvarka gali dalyvauti suinteresuoti asmenys. Kai komiteto posėdyje svarstomas su valstybės, tarnybos ar komercine paslaptimi susijęs klausimas, komitetas gali nuspręsti jį nagrinėti uždarame posėdyje.
-TAR pastaba. 14 straipsnio 6 dalies nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
@@ -1612,19 +1613,30 @@ Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
 
 
 9. Komiteto pirmininkas turi teisę gauti komiteto įgaliojimams vykdyti reikalingą informaciją iš valstybės ar savivaldybės institucijų, įstaigų ir valstybės ar savivaldybės valdomų įmonių.
-TAR pastaba. 14 straipsnio 9 dalies nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
 
 
-10. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komiteto posėdis negali vykti komiteto nariams posėdyje dalyvaujant fiziškai, komiteto posėdis gali vykti nuotoliniu būdu. Nuotoliniu būdu vyksiančio savivaldybės tarybos komiteto posėdžio klausimai rengiami ir posėdis vyksta laikantis visų šiame straipsnyje nustatytų reikalavimų ir užtikrinant šiame įstatyme nustatytas savivaldybės tarybos nario teises. Nuotoliniu būdu priimant komiteto sprendimus, turi būti užtikrintas komiteto nario tapatybės ir jo balsavimo rezultatų nustatymas. 
+10. Komiteto posėdis gali vykti nuotoliniu būdu arba daliai savivaldybės tarybos narių fiziškai susirenkant į komiteto posėdį, o kitai daliai savivaldybės tarybos narių dalyvaujant nuotoliniu būdu (toliau – mišrus būdas). Nuotoliniu būdu ar mišriu būdu vyksiančio savivaldybės tarybos komiteto posėdžio klausimai rengiami ir posėdis vyksta laikantis visų šiame straipsnyje nustatytų reikalavimų ir užtikrinant šiame įstatyme nustatytas savivaldybės tarybos nario teises. Nuotoliniu būdu ar mišriu būdu priimant komiteto sprendimus, turi būti užtikrintas komiteto nario tapatybės ir jo balsavimo rezultatų nustatymas. Komiteto posėdžiai nuotoliniu būdu ar mišriu būdu vykti negali, jeigu tam raštu prieštarauja daugiau kaip pusė visų komiteto narių, išskyrus:
+
+
+1) kai dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komiteto posėdžiai negali vykti savivaldybės tarybos nariams posėdyje dalyvaujant fiziškai;
+
+
+
+
+2) artimiausią numatytą nuotoliniu būdu ar mišriu būdu vyksiantį komiteto posėdį.
+
+
 Papildyta straipsnio dalimi:
 Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
 Straipsnio dalies pakeitimai:
 Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
+Nr. XIV-997, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07246
  
 
 
@@ -1674,9 +1686,9 @@ Nr. XII-2278, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06429
 
 
 1) prižiūri, kaip savivaldybės tarybos nariai laikosi šio įstatymo, Valstybės politikų elgesio kodekso, Viešųjų ir privačių interesų derinimo įstatymo, reglamento, kitų teisės aktų, reglamentuojančių savivaldybės tarybos narių veiklą ir elgesį, reikalavimų;
-TAR pastaba. 15 straipsnio 3 dalies 1 punkto nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
@@ -1688,9 +1700,9 @@ Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 
 
 3) tiria ir priima sprendimus dėl savivaldybės tarybos narių veiklos atitikties šio įstatymo, Valstybės politikų elgesio kodekso, Viešųjų ir privačių interesų derinimo įstatymo, reglamento, kitų teisės aktų, reglamentuojančių savivaldybės tarybos narių veiklą ir elgesį, nuostatoms;
-TAR pastaba. 15 straipsnio 3 dalies 3 punkto nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
@@ -1707,9 +1719,9 @@ Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 
 
 6) tarybos narių, mero, savo iniciatyva teikia tarybos nariams rekomendacijas dėl Viešųjų ir privačių interesų derinimo įstatymo nuostatų įgyvendinimo.
-TAR pastaba. 15 straipsnio 3 dalies 6 punkto nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
@@ -1744,9 +1756,10 @@ Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
 
 
 5) Korupcijos prevencijos tikslais analizuoja savivaldybės administracijos, biudžetinių ir viešųjų įstaigų, kurių savininkė yra savivaldybė, ir savivaldybės valdomų įmonių atliktus viešuosius pirkimus ir apie galimus korupcijos atvejus informuoja savivaldybės tarybą ir kompetentingas institucijas ar įstaigas. Antikorupcijos komisijos pirmininkas ir nariai turi teisę susipažinti su visa analizuojamų viešųjų pirkimų informacija; 
-TAR pastaba. 15 straipsnio 4 dalies 5 punkto nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Papildyta straipsnio punktu:
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Straipsnio punkto pakeitimai:
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
@@ -1792,29 +1805,42 @@ Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 
 
 
-8. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komisijos posėdis negali vykti komisijos nariams posėdyje dalyvaujant fiziškai, posėdis gali vykti nuotoliniu būdu. Nuotoliniu būdu vyksiančio savivaldybės tarybos komisijos posėdžio klausimai rengiami ir posėdis vyksta laikantis visų šiame straipsnyje nustatytų reikalavimų ir užtikrinant šiame įstatyme nustatytas savivaldybės tarybos nario teises. Nuotoliniu būdu priimant komisijos sprendimus, turi būti užtikrintas komisijos nario tapatybės ir jo balsavimo rezultatų nustatymas. 
+8. Komisijos posėdis gali vykti nuotoliniu būdu ar mišriu būdu. Nuotoliniu būdu ar mišriu būdu vyksiančio savivaldybės tarybos komisijos posėdžio klausimai rengiami ir posėdis vyksta laikantis visų šiame straipsnyje nustatytų reikalavimų ir užtikrinant šiame įstatyme nustatytas savivaldybės tarybos nario teises. Nuotoliniu būdu ar mišriu būdu priimant komisijos sprendimus, turi būti užtikrintas komisijos nario tapatybės ir jo balsavimo rezultatų nustatymas. Komisijos posėdžiai nuotoliniu būdu ar mišriu būdu vykti negali, jeigu tam raštu prieštarauja daugiau kaip pusė visų komisijos narių, išskyrus:
+
+
+1) kai dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komisijos posėdžiai negali vykti savivaldybės tarybos nariams posėdyje dalyvaujant fiziškai;
+
+
+
+
+2) artimiausią numatytą nuotoliniu būdu ar mišriu būdu vyksiantį komisijos posėdį.
+
+
 Papildyta straipsnio dalimi:
 Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
 Straipsnio dalies pakeitimai:
 Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
+Nr. XIV-997, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07246
  
 
 
 
 
 9. Savivaldybės tarybos sudaromų komisijų nariai, kurie nėra savivaldybės tarybos nariai, komisijų posėdžių metu atleidžiami nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje, išsaugant jiems darbo vietą. Už darbą Etikos komisijoje ir Antikorupcijos komisijoje šių komisijų nariams, kurie nėra savivaldybės tarybos nariai, apmokama Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
-TAR pastaba. 15 straipsnio 9 dalies nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Papildyta straipsnio dalimi:
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Straipsnio dalies pakeitimai:
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
 
 
 10. Komisijos pirmininkas turi teisę gauti komisijos įgaliojimams vykdyti reikalingą informaciją iš valstybės ar savivaldybės institucijų, įstaigų ir valstybės ar savivaldybės valdomų įmonių.
-TAR pastaba. 15 straipsnio 10 dalies nuostatos taikomos po įstatymo Nr. XIII-3380 įsigaliojimo (2021-01-01) sudarant savivaldybės tarybos komitetus ir komisijas.
 Papildyta straipsnio dalimi:
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Straipsnio dalies pakeitimai:
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
@@ -5951,3 +5977,13 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 7 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-203, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07420
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
+ 
+59.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-997, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07246
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 14 ir 15 straipsnių pakeitimo įstatymas
+ 
+60.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 7, 12, 13, 14, 15, 16, 19, 20, 24, 26, 27, 29, 32, 32-1, 33, 35-1, 53 straipsnių, devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIII-3380 21 straipsnio pakeitimo įstatymas
