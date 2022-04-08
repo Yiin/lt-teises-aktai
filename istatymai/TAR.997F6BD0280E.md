@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/997f6bd0280e11eb932eb1ed7f923910"
 
 # Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 7, 12, 13, 14, 15, 16, 19, 20, 24, 26, 27, 29, 32, 32-1, 33, 35-1, 53 straipsnių, devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2022-04-08
+ 
+Įstatymas paskelbtas: TAR 2020-11-16, i. k. 2020-24013
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VIETOS SAVIVALDOS ĮSTATYMO NR. I-533 4, 7, 12, 13, 14, 15, 16, 19, 20, 24, 26, 27, 29, 32, 321, 33, 351, 53 STRAIPSNIŲ, DEVINTOJO SKIRSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 151 STRAIPSNIU
 ĮSTATYMAS
@@ -1390,7 +1397,9 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Šio įstatymo 5–6 straipsniai taikomi po šio įstatymo įsigaliojimo sudarant savivaldybės tarybos komitetus ir komisijas.
+6. Šio įstatymo 5 straipsnio 1 ir 2 dalių ir 6 straipsnio 1 ir 7 dalių nuostatos taikomos po šio įstatymo įsigaliojimo sudarant savivaldybės tarybos komitetus ir komisijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
  
 
 
@@ -1403,3 +1412,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 7, 12, 13, 14, 15, 16, 19, 20, 24, 26, 27, 29, 32, 32-1, 33, 35-1, 53 straipsnių, devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIII-3380 21 straipsnio pakeitimo įstatymas
