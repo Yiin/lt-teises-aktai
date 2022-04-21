@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-04-20
+Suvestinė redakcija nuo 2022-04-21 iki 2022-04-26
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -18320,24 +18320,32 @@ užtraukia baudą asmenims nuo penkiasdešimt iki devyniasdešimt eurų ir jurid
 
 
 
-524 straipsnis. Nacistinių ar komunistinių simbolių platinimas ar demonstravimas
+524 straipsnis. Nacistinių, komunistinių simbolių, totalitarinių ar autoritarinių režimų simbolių platinimas ar demonstravimas
 
 
-1. Nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, vėliavų, ženklų ar uniformų, kurių sudedamoji dalis yra nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliava ar herbas, nacistinių ar komunistinių organizacijų simbolių ar uniformų, nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, nacistinės svastikos, nacistinio SS ženklo, sovietinio kūjo ir pjautuvo ženklo, sovietinės raudonos penkiakampės žvaigždės ženklo pagrindu sudarytų vėliavų ar ženklų, atsakingų už Lietuvos gyventojų represijas Vokietijos nacionalsocialistų ar SSRS komunistų partijos vadovų atvaizdų platinimas, naudojimas susirinkimuose ar kituose masiniuose renginiuose arba kitoks demonstravimas, nacistinės Vokietijos, SSRS ar Lietuvos SSR himno viešas atlikimas 
-užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
-
-
-
-
-2. Pagal šį straipsnį neatsako asmenys, kurie padaro šio straipsnio 1 dalyje nurodytas veikas muziejų veiklos, visuomenės informavimo apie istorinius ir dabarties įvykius, totalitarinius režimus, švietimo, mokslo, meno, kolekcionavimo, antikvarinės ar sendaikčių prekybos tikslais, asmenys, kurie naudoja oficialią egzistuojančios valstybės simboliką, ir Antrojo pasaulinio karo dalyviai, vilkintys savo uniformą.
+1. Nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, vėliavų, ženklų ar uniformų, kurių sudedamoji dalis yra nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliava ar herbas, nacistinių ar komunistinių organizacijų simbolių ar uniformų, nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, nacistinės svastikos, nacistinio SS ženklo, sovietinio kūjo ir pjautuvo ženklo, sovietinės raudonos penkiakampės žvaigždės ženklo pagrindu sudarytų vėliavų ar ženklų, atsakingų už Lietuvos gyventojų represijas Vokietijos nacionalsocialistų ar SSRS komunistų partijos vadovų atvaizdų, totalitarinių ar autoritarinių režimų simbolių, kuriuos šie režimai naudojo ar naudoja jų įvykdytai ar vykdomai karinei agresijai, vykdomiems ar įvykdytiems nusikaltimams žmoniškumui ir karo nusikaltimams propaguoti, platinimas, naudojimas susirinkimuose, viešosiose vietose arba kitoks viešas demonstravimas, taip pat nacistinės Vokietijos, SSRS ar Lietuvos SSR himno viešas atlikimas 
+užtraukia baudą asmenims nuo trijų šimtų iki septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
-3. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti daikto, kuris buvo administracinio nusižengimo padarymo įrankis, konfiskavimą.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo penkių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
+3. Pagal šį straipsnį neatsako asmenys, kurie padaro šio straipsnio 1, 2 dalyse nurodytas veikas muziejų veiklos, visuomenės informavimo apie istorinius ir dabarties įvykius, totalitarinius ar autoritarinius režimus, švietimo, mokslo, meno, kolekcionavimo, antikvarinės ar sendaikčių prekybos tikslais, asmenys, kurie naudoja oficialią egzistuojančios valstybės simboliką (išskyrus dvispalvę (juodos ir oranžinės spalvų) Georgijaus (šv. Jurgio) juostą naudojančius asmenis), ir Antrojo pasaulinio karo dalyviai, vilkintys savo uniformą. 
+
+
+
+
+4. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus privaloma skirti daikto, kuris buvo administracinio nusižengimo padarymo įrankis, konfiskavimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1022, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08028
  
-
-
 
 
 
@@ -25659,3 +25667,38 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 602, 683 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
 Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 362-1 straipsniu ir 589 straipsnio pakeitimo įstatymo Nr. XIV-464 pakeitimo įstatymas
+ 
+157.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-539, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20298
+Lietuvos Respublikos administracinių nusižengimų kodekso 247 straipsnio pakeitimo įstatymas
+ 
+158.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-553, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21221
+Lietuvos Respublikos administracinių nusižengimų kodekso 96 ir 98 straipsnių pakeitimo įstatymas
+ 
+159.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-583, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22389
+Lietuvos Respublikos administracinių nusižengimų kodekso 132 ir 170 straipsnių pakeitimo įstatymas
+ 
+160.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-691, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25118
+Lietuvos Respublikos administracinių nusižengimų kodekso 99, 148, 205 ir 589 straipsnių pakeitimo įstatymas
+ 
+161.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3422, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24271
+Lietuvos Respublikos administracinių nusižengimų kodekso 463 straipsnio pakeitimo įstatymas
+ 
+162.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-530, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19625
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+163.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1022, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08028
+Lietuvos Respublikos administracinių nusižengimų kodekso 524 straipsnio pakeitimo įstatymas
