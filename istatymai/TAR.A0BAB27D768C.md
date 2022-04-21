@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-04-20
+Suvestinė redakcija nuo 2022-04-21 iki 2022-05-04
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -517,7 +517,7 @@ Sprendimus dėl ginkluotųjų pajėgų išdėstymo taikos metu priima Respubliko
 Gynybos veiksmų civilinę vadovybę sudaro Respublikos Prezidentas ir krašto apsaugos ministras. Operacinio vadovavimo karinėms operacijoms ir kitiems ginkluotųjų pajėgų veiksmams grandinę nustato įstatymai ir kiti teisės aktai.
 Kai Respublikos Prezidentas iš šalies išvyksta, krašto apsaugos ministras privalo būti Lietuvoje, išskyrus įstatymų numatytus atvejus.
 Ginkluotųjų pajėgų organizaciją, plėtrą, apginklavimui ir kitoms reikmėms skirtus asignavimus nustato Seimas. Seimas įstatymų nustatyta tvarka vykdo ginkluotųjų pajėgų ir kitų nacionalinio saugumo institucijų parlamentinę kontrolę. Už ginkluotųjų pajėgų tvarkymą ir vadovavimą joms Seimui yra atsakingi Vyriausybė, krašto apsaugos ministras ir kariuomenės vadas.
-Sprendimus dėl kariuomenės aprūpinimo, ginkluotės įsigijimo ir materialinės bazės priima Vyriausybė. Apie įsigijimų planus ir numatomą priimti sprendimą dėl naujo įsigijimo projekto, kurio vertė viršija 20 mln. Eur, krašto apsaugos ministras informuoja Seimo Nacionalinio saugumo ir gynybos komitetą.
+Sprendimus dėl kariuomenės aprūpinimo, ginkluotės įsigijimo ir materialinės bazės priima Vyriausybė. Krašto apsaugos ministras raštu informuoja Seimo Nacionalinio saugumo ir gynybos komitetą ir Biudžeto ir finansų komitetą apie planuojamus ir vykdomus įsigijimų ir infrastruktūros projektus (kurių vertė viršija 20 mln. eurų), nurodydamas, koks gynybinis pajėgumas ir kiek (procentais) bus jis išplėtotas, įsigijimo kiekį, kainą, ilgalaikio aptarnavimo sąnaudas, projektuose dalyvaujančias įmones.
 Sprendimus dėl mobilizacijos, karo padėties įvedimo, ginkluotųjų pajėgų panaudojimo ir gynybos nuo ginkluoto užpuolimo, taip pat sprendimus dėl Lietuvos kariuomenės vienetų dalyvavimo tarptautinėse karinėse operacijose priima Respublikos Prezidentas ir Seimas Konstitucijos ir įstatymų nustatyta tvarka.
 Krašto apsaugos ministras, vidaus reikalų ministras, Krašto apsaugos ir Vidaus reikalų ministerijų viceministrai ir Valstybės saugumo departamento vadovas turi būti tik civiliai asmenys. 
 Kariuomenės vadas pavaldus krašto apsaugos ministrui.
@@ -529,6 +529,7 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Skyriaus pakeitimai:
 Nr. XIII-545, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11942
 Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
+Nr. XIV-1014, 2022-04-14, paskelbta TAR 2022-04-20, i. k. 2022-08024
  
 
 
@@ -1182,3 +1183,8 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-839, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27731
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 3 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1014, 2022-04-14, paskelbta TAR 2022-04-20, i. k. 2022-08024
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
