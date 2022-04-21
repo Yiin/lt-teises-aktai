@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
-Suvestinė redakcija nuo 2021-04-30 iki 2022-04-20
+Įstatymas netenka galios 2022-09-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1381, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15851
+Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2022-04-21 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
  
@@ -372,7 +377,10 @@ Nr. XII-587, 2013-11-12, Žin., 2013, Nr. 121-6115 (2013-11-26)
 
 11 straipsnis. Vyriausiosios rinkimų komisijos posėdžiai
 
-1. Vyriausioji rinkimų komisija jos kompetencijai priklausančius klausimus svarsto ir sprendimus priima kolegialiai savo posėdžiuose. 
+1. Vyriausioji rinkimų komisija jos kompetencijai priklausančius klausimus svarsto ir sprendimus priima kolegialiai savo posėdžiuose. Vyriausiosios rinkimų komisijos posėdžiai gali būti organizuojami šiais būdais: komisijos posėdžių salėje, nuotoliniu būdu, mišriuoju būdu, kai dalis posėdyje dalyvaujančių komisijos narių yra salėje, o kiti posėdyje dalyvauja nuotoliniu būdu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1018, 2022-04-14, paskelbta TAR 2022-04-20, i. k. 2022-08026
+ 
 
 2. Vyriausiosios rinkimų komisijos posėdžius šaukia komisijos pirmininkas savo iniciatyva. Be to, jis privalo sušaukti Vyriausiosios rinkimų komisijos posėdį, jeigu to reikalauja ne mažiau kaip 1/3 komisijos narių.
 
@@ -429,24 +437,22 @@ Nr. XI-1602, 2011-09-22, Žin., 2011, Nr. 121-5708 (2011-10-08)
 Nr. XII-587, 2013-11-12, Žin., 2013, Nr. 121-6115 (2013-11-26)
  
 
-111 straipsnis. Vyriausiosios rinkimų komisijos posėdžių organizavimas nuotoliniu būdu
+111 straipsnis. Vyriausiosios rinkimų komisijos posėdžių organizavimas nuotoliniu arba mišriuoju būdu
 
-1. Įvedus nepaprastąją padėtį, Lietuvos Respublikos civilinės saugos įstatymo nustatyta tvarka paskelbus ekstremaliąją situaciją arba Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo nustatytais atvejais ir tvarka paskelbus karantiną ir kai yra pagrindas manyti, kad gali kilti grėsmė Vyriausiosios rinkimų komisijos darbui, nes dėl objektyvių aplinkybių gali kilti pavojus komisijos narių sveikatai ir (ar) gyvybei, Vyriausiosios rinkimų komisijos sprendimu jos posėdžiai gali būti organizuojami nuotoliniu būdu.
+1. Vyriausiosios rinkimų komisijos posėdžiai nuotoliniu ar mišriuoju būdu organizuojami, komisijos nariai juose dalyvauja, komisijos nario tapatybė ir balsavimo rezultatai nustatomi, sprendimai svarstomais klausimais priimami, asmeniškas komisijos nario teisių ir pareigų įgyvendinimas užtikrinamas Vyriausiosios rinkimų komisijos reglamente nustatyta tvarka.
 
-2. Visuomenei apie Vyriausiosios rinkimų komisijos nuotoliniu būdu organizuojamą posėdį paskelbiama Vyriausiosios rinkimų komisijos interneto svetainėje, o komisijos nariams pranešama elektroninių ryšių priemonėmis (elektroniniu paštu arba telefonu).
+2. Visuomenei apie Vyriausiosios rinkimų komisijos nuotoliniu ar mišriuoju būdu organizuojamą posėdį paskelbiama Vyriausiosios rinkimų komisijos interneto svetainėje, o komisijos nariams pranešama elektroninių ryšių priemonėmis (elektroniniu paštu arba telefonu).
 
 3. Vyriausiosios rinkimų komisijos posėdis organizuojamas, komisijos nariai jame dalyvauja ir sprendimai svarstomais klausimais priimami nuotoliniu būdu realiuoju laiku Nacionalinio kibernetinio saugumo centro įvertintomis ir saugiomis pripažintomis telekonferencijų platformomis.
 
 4. Vyriausiosios rinkimų komisijos nariai savo komisijos nario teises ir pareigas privalo įgyvendinti asmeniškai.
 
-5. Turi būti užtikrintas nuotoliniu būdu organizuojamo Vyriausiosios rinkimų komisijos posėdžio vaizdo ir garso įrašo darymas ir jo išsaugojimas. Šis įrašas viešai paskelbiamas Vyriausiosios rinkimų komisijos interneto svetainėje.
+5. Turi būti užtikrintas nuotoliniu ar mišriuoju būdu organizuojamo Vyriausiosios rinkimų komisijos posėdžio vaizdo ir garso įrašo darymas ir jo išsaugojimas. Šis įrašas viešai paskelbiamas Vyriausiosios rinkimų komisijos interneto svetainėje.
 
-6. Vyriausiosios rinkimų komisijos posėdžiai nuotoliniu būdu organizuojami, komisijos nariai juose dalyvauja, komisijos nario tapatybė ir balsavimo rezultatai nustatomi, sprendimai svarstomais klausimais priimami, asmeniškas komisijos nario teisių ir pareigų įgyvendinimas užtikrinamas Vyriausiosios rinkimų komisijos reglamente nustatyta tvarka.
+6. Kitos šio įstatymo nuostatos, susijusios su procedūromis, taikomomis įprastu būdu (t. y. posėdžių salėje) organizuojamam Vyriausiosios rinkimų komisijos posėdžiui, Vyriausiosios rinkimų komisijos posėdį organizuojant nuotoliniu ar mišriuoju būdu suprantamos ir taikomos mutatis mutandis atsižvelgiant į Vyriausiosios rinkimų komisijos posėdžio organizavimo nuotoliniu ar mišriuoju būdu specifiką.
 
-7. Kitos šio įstatymo nuostatos, susijusios su procedūromis, taikomomis įprastam Vyriausiosios rinkimų komisijos posėdžiui, Vyriausiosios rinkimų komisijos posėdį organizuojant nuotoliniu būdu suprantamos ir taikomos mutatis mutandis atsižvelgiant į Vyriausiosios rinkimų komisijos posėdžio organizavimo nuotoliniu būdu specifiką.
-
-Papildyta straipsniu:
-Nr. XIV-146, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29111
+Straipsnio pakeitimai:
+Nr. XIV-1018, 2022-04-14, paskelbta TAR 2022-04-20, i. k. 2022-08026
  
 
 12 straipsnis. Vyriausiosios rinkimų komisijos sprendimai ir jų priėmimo tvarka
@@ -788,4 +794,9 @@ Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 papil
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-263, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09120
 Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 10 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1018, 2022-04-14, paskelbta TAR 2022-04-20, i. k. 2022-08026
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 11 ir 11-1 straipsnių pakeitimo įstatymas
 
