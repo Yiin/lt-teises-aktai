@@ -15,7 +15,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2022-02-01 iki 2022-04-26
+ 
+
+Įstatymas netenka galios 2022-09-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1381, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15851
+Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2022-04-27 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -916,6 +923,10 @@ Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
 4. Jeigu asmuo, keliamas ar išsikėlęs kandidatu, neįvykdė šio įstatymo 36 straipsnio 13 dalyje nustatytų reikalavimų (nepateikė šiame įstatyme nurodytos informacijos arba pateikė tikrovės neatitinkančius duomenis), Vyriausioji rinkimų komisija jo kandidatu neregistruoja, o jeigu buvo įregistravusi, nedelsdama panaikina šio asmens įregistravimą kandidatu.
 
 5. Jeigu kandidatas anketoje pagrįstai nurodė šio įstatymo 36 straipsnio 13 dalyje nustatytą informaciją, rinkimų komisijos leidžiamame kandidato plakate ar plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo nuosprendžiu buvo pripažintas kaltu dėl nusikalstamos veikos“, ir neturi būti pažymėta, jeigu kandidatas anketoje pateikė duomenis, kad jis okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei, arba pagrįstai nurodė, kad teismo sprendimu jis buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kai asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo 37 straipsnio (2020 m. sausio 14 d. redakcija, TAR, 2020-01-31, Nr. 2278, identifikacinis kodas 2020-02278) 5 dalis tiek, kiek pagal ją rinkimų komisijos leidžiamame kandidato plakate ar plakate su kandidatų sąrašu prie kandidato pavardės šio įstatymo nustatytais atvejais pateikiant informaciją apie kandidato pripažinimą kaltu dėl nusikalstamos veikos turi būti vienodai pažymėta: „Teismo nuosprendžiu buvo pripažintas kaltu dėl nusikalstamos veikos“, prieštarauja Lietuvos Respublikos Konstitucijos 34 straipsnio 2 daliai, konstituciniam teisinės valstybės principui. 
+Straipsnio dalies pakeitimai:
+Nr.  KT50-A-N4/2022, 2022-04-27, paskelbta TAR 2022-04-27, i. k. 2022-08605
+ 
 
 6. Jeigu asmuo, keliamas ar išsikėlęs kandidatu į savivaldybės tarybos narius ar į savivaldybės tarybos narius – merus, kandidato į savivaldybės tarybos narius ar kandidato į savivaldybės tarybos narius – merus anketoje nenurodo, kad yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis ne pagal Lietuvos Respublikos užduotis, Vyriausioji rinkimų komisija kreipiasi į instituciją, kuri saugo duomenis apie asmenų bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis, ir iki rinkimų dienos šiuo aspektu patikrina kandidatų į savivaldybės tarybos narius, savivaldybės tarybos narius – merus duomenis. Paaiškėjus, kad kandidatas į savivaldybės tarybos narius, savivaldybės tarybos narius – merus yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, Vyriausioji rinkimų komisija jo neregistruoja kandidatu, o jeigu buvo įregistravusi, nedelsdama panaikina jo registraciją kandidatu ir šį sprendimą paskelbia savo interneto svetainėje. 
 Papildyta straipsnio dalimi:
@@ -2472,4 +2483,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 59 ir 65
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
 Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai ir bylos dalies nutraukimo
+ 
+25.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr.  KT50-A-N4/2022, 2022-04-27, paskelbta TAR 2022-04-27, i. k. 2022-08605
+Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
