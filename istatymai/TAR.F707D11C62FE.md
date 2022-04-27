@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F707D11C62FE"
 
 # Lietuvos Respublikos tarptautinių sankcijų įstatymas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2022-04-26
+Suvestinė redakcija nuo 2022-04-27 iki 2022-05-16
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 68-2369, i. k. 1041010ISTA0IX-2160
  
@@ -337,6 +337,13 @@ Nr. XIII-1991, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04586
 
 
 2. Prireikus Lietuvos Respublikos Vyriausybė gali paskirti ir kitas institucijas, kurios atsako už nutarime nustatytų tarptautinių sankcijų įgyvendinimo priežiūrą.
+
+
+
+
+3. Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos koordinuoja, prižiūri ir užtikrina finansinių sankcijų (apribojimų disponuoti lėšomis ir ekonominiais ištekliais) įgyvendinimą Lietuvos Respublikoje. Užtikrindama finansinių sankcijų įgyvendinimą, Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos atlieka šiame straipsnyje nurodytas tarptautinių sankcijų įgyvendinimo priežiūros institucijos funkcijas, įskaitant informacijos, kurią pagal kompetenciją yra išsiaiškinusi analizuodama fizinių ir (ar) juridinių asmenų sąsajas su subjektais, kuriems paskirtos tarptautinės sankcijos, teikimą finansines sankcijas įgyvendinantiems subjektams.
+Papildyta straipsnio dalimi:
+Nr. XIV-1020, 2022-04-19, paskelbta TAR 2022-04-26, i. k. 2022-08433
  
 
 
@@ -358,9 +365,142 @@ Nr. XIII-1991, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04586
 
 
 3. Šiame Įstatyme nurodytos informacijos pateikimas šio straipsnio 1 ir 2 dalyse nurodytoms institucijoms nelaikomas tarnybinės, pramoninės, komercinės, banko paslapties ar konfidencialios informacijos atskleidimu. Duomenys, kurie sudaro valstybės ar tarnybos paslaptį, institucijoms teikiami bei šiose institucijose kaupiami ir saugomi Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
+
+
+
+
+4. Faktas apie tarptautinių sankcijų taikymą įrašomas valstybės registruose ar valstybės informacinėse sistemose, kai duomenys apie subjektą, kuriam taikomos sankcijos, ar jo turtą arba duomenys, kuriais apibūdinamas šis turtas, tvarkomi tame valstybės registre ar valstybės informacinėje sistemoje
+Papildyta straipsnio dalimi:
+Nr. XIV-1020, 2022-04-19, paskelbta TAR 2022-04-26, i. k. 2022-08433
  
 
 
+
+
+5. Informaciją apie priimtus sprendimus dėl subjektų, kuriems taikomos sankcijos dėl jų sąsajų su subjektais, įtrauktais į asmenų, kuriems taikomos sankcijos, sąrašus, šias sankcijas įgyvendinantiems fiziniams ir juridiniams asmenims, valstybės registrų ir valstybės informacinių sistemų tvarkytojams teikia Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1020, 2022-04-19, paskelbta TAR 2022-04-26, i. k. 2022-08433
+ 
+
+
+
+
+
+
+131 straipsnis. Laikinasis administratorius
+
+
+1. Finansų ministras, išskyrus šio straipsnio 14 dalyje nurodytą atvejį, turi teisę paskirti laikinąjį administratorių juridiniam asmeniui, kai šio juridinio asmens, jo savininko ar jį kontroliuojančio asmens atžvilgiu Lietuvos Respublikoje įgyvendinamos tarptautinės sankcijos ir kai laikinasis administravimas yra būtinas, siekiant išvengti neigiamų socialinių, ekonominių, ekologinių ar kitų svarbių pasekmių visuomenei ar valstybei ir užtikrinti, kad būtų laikomasi Lietuvos Respublikoje įgyvendinamų tarptautinių sankcijų. Apie iškilusį poreikį paskirti laikinąjį administratorių Lietuvos Respublikos finansų ministeriją nedelsdama informuoja šio įstatymo 12 straipsnyje nurodyta institucija, atsakinga už tarptautinių sankcijų įgyvendinimo priežiūrą. Laikinuoju administratoriumi gali būti skiriamas juridinis arba fizinis asmuo.
+
+
+
+
+2. Laikinuoju administratoriumi skiriamas fizinis asmuo ar laikinuoju administratoriumi skiriamo juridinio asmens vadovas turi būti nepriekaištingos reputacijos. Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
+
+
+1) jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nepaisant to, ar teistumas išnykęs ar panaikintas;
+
+
+
+
+2) jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl apysunkio nusikaltimo ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+3) jis yra pripažintas neveiksniu ar ribotai veiksniu bet kurioje srityje arba jam taikomos priverčiamosios medicinos priemonės;
+
+
+
+
+4) jis dėl Lietuvos Respublikai priešiškų interesų bendradarbiauja ar yra bendradarbiavęs, palaiko ar palaikė ryšius su užsienio valstybės žvalgybos ar saugumo tarnyba arba su asmenimis, bendradarbiaujančiais ar palaikančiais ryšius su užsienio valstybės žvalgybos ar saugumo tarnyba;
+
+
+
+
+5) jis dalyvauja ar dalyvavo teroristinės organizacijos ar teroristinės grupės veikloje arba palaiko ar palaikė ryšius su asmeniu, priklausančiu teroristinei organizacijai ar teroristinei grupei;
+
+
+
+
+6) jam taikomos organizuoto nusikalstamumo prevencijos priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą;
+
+
+
+
+7) jis piktnaudžiauja alkoholiu, vartoja narkotines, psichotropines ar kitas psichiką veikiančias medžiagas ne medicinos tikslais;
+
+
+
+
+8) jis daugiau negu vieną kartą per pastaruosius 3 metus buvo baustas už administracinio nusižengimo, susijusio su alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimu, padarymą.
+
+
+
+
+
+
+3. Laikinuoju administratoriumi skiriamam fiziniam asmeniui ar laikinuoju administratoriumi skiriamo juridinio asmens vadovui taikomi ir tinkamos kvalifikacijos bei patirties reikalavimai, jo neturi saistyti interesų konfliktas su juridiniu asmeniu, kurį jis administruoja, ir su Lietuvos Respublikos finansų ministerija. Asmens kvalifikacija ir patirtis vertinamos atsižvelgiant į jo išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos tinkamam veiklos vykdymui. Pretendentus į laikinuosius administratorius finansų ministrui pasiūlo viešoji įstaiga Valdymo koordinavimo centras per 3 darbo dienas nuo informacijos apie poreikį pateikti kandidatūrą gavimo dienos, išskyrus šio straipsnio 14 dalyje nurodytą atvejį.
+
+
+
+
+4. Laikinasis administratorius skiriamas finansų ministro sprendimu. Finansų ministras nustato laikinojo administratoriaus paskyrimo terminą, įgaliojimus, funkcijas ir veiksmus, kuriuos laikinasis administratorius gali atlikti tik Lietuvos Respublikos finansų ministerijai iš anksto pritarus. Šioje dalyje nurodytu sprendimu, kai tai būtina, taip pat gali būti nustatoma, kad laikinai sustabdomi tam tikrų ar visų juridinio asmens organų įgaliojimai ir juos laikinai perima laikinasis administratorius arba kad tam tikriems juridinio asmens organų sprendimams priimti reikia gauti laikinojo administratoriaus pritarimą. Finansų ministras apie priimtą sprendimą dėl laikinojo administratoriaus paskyrimo, pakeitimo ar jo įgaliojimų pasibaigimo privalo ne vėliau kaip kitą darbo dieną pranešti Juridinių asmenų registro tvarkytojui, o šis faktą apie laikinojo administratoriaus paskyrimą, pakeitimą ar jo įgaliojimų pasibaigimą nedelsdamas, bet ne vėliau kaip kitą darbo dieną įrašo Juridinių asmenų registre. Sprendime turi būti nurodoma: juridinio asmens pavadinimas, kodas, paskirto laikinojo administratoriaus vardas ir pavardė, asmens kodas, gyvenamoji vieta (jeigu jis yra fizinis asmuo) ar pavadinimas ir kodas (jeigu jis yra juridinis asmuo).
+
+
+
+
+5. Laikinojo administratoriaus veiklos sąlygos nustatomos laikinojo administravimo sutartyje, sudaromoje Lietuvos Respublikos finansų ministerijos ir laikinojo administratoriaus. Šioje sutartyje taip pat nustatomas laikinojo administratoriaus atlyginimas ir kitos išlaidos (įskaitant išlaidas dėl paslaugų teikėjų teikiamų paslaugų), atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją ir veiklos terminus, jų apmokėjimo tvarka, taip pat aptariama laikinojo administratoriaus atsakomybė, atsistatydinimo ir atšaukimo tvarka. Atlyginimas išmokamas ir išlaidos padengiamos (įskaitant išlaidas dėl paslaugų teikėjų teikiamų paslaugų) iš juridinio asmens lėšų. Jeigu juridinis asmuo laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti Lietuvos Respublikos finansų ministerija. Lietuvos Respublikos finansų ministerija turi teisę reikalauti iš juridinio asmens atlyginti sumokėtas sumas. Laikinojo administratoriaus minimali civilinės atsakomybės privalomojo draudimo suma yra 300 000 eurų vienam draudžiamajam įvykiui ir 1 000 000 eurų visiems draudžiamiesiems įvykiams per metus. Dėl draudžiamojo įvykio išmokėjus draudimo išmoką ir sumažėjus minimaliai draudimo sumai, laikinasis administratorius privalo per vieną mėnesį apsidrausti civilinę atsakomybę, kad būtų atkurta privalomoji minimali draudimo suma.
+
+
+
+
+6. Laikinasis administratorius skiriamas ne ilgesniam negu vienų metų laikotarpiui. Išimtiniais atvejais laikinojo administratoriaus paskyrimo terminas finansų ministro sprendimu gali būti pratęsiamas. Laikinasis administratorius gali būti bet kuriuo metu pakeičiamas ar atšaukiamas, o išnykus jo paskyrimo poreikiui privalo būti atšaukiamas nedelsiant.
+
+
+
+
+7. Laikinasis administratorius turi teisę savo nuožiūra pasitelkti paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus), kad galėtų tinkamai atlikti savo funkcijas.
+
+
+
+
+8. Laikinasis administratorius imasi visų reikalingų veiksmų, siekdamas užtikrinti, kad būtų laikomasi Lietuvos Respublikoje įgyvendinamų tarptautinių sankcijų ir būtų išvengta šio straipsnio 1 dalyje nurodytų neigiamų pasekmių. Jei tai būtina, laikinasis administratorius turi teisę Lietuvos Respublikos finansų įstaigose atidaryti depozitines sąskaitas, kurios būtų naudojamos juridinio asmens veiklos tęstinumui užtikrinti. Iš šiose depozitinėse sąskaitose esančių lėšų draudžiama vykdyti juridinio asmens dalyvių, kurių atžvilgiu Lietuvos Respublikoje įgyvendinamos tarptautinės sankcijos, turtinius reikalavimus.
+
+
+
+
+9. Lietuvos Respublikos finansų ministerija gali reikalauti, kad laikinasis administratorius šio straipsnio 5 dalyje nurodytoje sutartyje nustatytais terminais jai teiktų informaciją apie juridinio asmens finansinę būklę ir per laikinojo administratoriaus paskyrimo terminą atliktus veiksmus.
+
+
+
+
+10. Laikinasis administratorius savo funkcijas privalo atlikti apdairiai ir sąžiningai. Laikinasis administratorius negali jam suteiktų teisių naudoti savo asmeniniams ar trečiųjų asmenų poreikiams tenkinti.
+
+
+
+
+11. Laikinasis administratorius turi teisę atsistatydinti šio straipsnio 5 dalyje nurodytoje sutartyje nustatyta tvarka. Jeigu laikinasis administratorius atsistatydina, finansų ministras nedelsdamas inicijuoja naujo laikinojo administratoriaus paskyrimą.
+
+
+
+
+12. Šio straipsnio nuostatos mutatis mutandis taikomos ir tais atvejais, kai finansų ministras skiria ekonominių išteklių, kurie yra įšaldyti Lietuvos Respublikoje įgyvendinant tarptautines sankcijas, laikinąjį administratorių. Finansų ministras apie priimtą sprendimą dėl laikinojo administratoriaus paskyrimo, kuriame turi būti nurodyti įšaldytus ekonominius išteklius apibūdinantys duomenys, taip pat sprendimą dėl laikinojo administratoriaus pakeitimo ar jo įgaliojimų šioje dalyje nurodytiems ekonominiams ištekliams, kurie registruotini viešajame registre ar kuriuos apibūdinantys duomenys kaupiami valstybės informacinėje sistemoje, pasibaigimo privalo ne vėliau kaip kitą darbo dieną pranešti to viešojo registro ir (ar) informacinės sistemos tvarkytojui, o šis faktą apie laikinojo administratoriaus paskyrimą, pakeitimą ar jo įgaliojimų pasibaigimą nedelsdamas, bet ne vėliau kaip kitą darbo dieną įrašo tame viešajame registre ir (ar) informacinėje sistemoje.
+
+
+
+
+13. Juridiniai ir fiziniai asmenys privalo pateikti Lietuvos Respublikos finansų ministerijai duomenis, reikalingus skiriant laikinąjį administratorių, o laikinajam administratoriui – duomenis, reikalingus jam vykdant veiklą.
+
+
+
+
+14. Laikinąjį administratorių Lietuvos Respublikos Lietuvos banko įstatymo 42 straipsnyje nurodytam licencijuotam ar kitokios formos veiklos leidimą turinčiam ir Lietuvos banko prižiūrimam finansų rinkų dalyviui, kai šio finansų rinkų dalyvio, jo savininko ar jį kontroliuojančio asmens atžvilgiu Lietuvos Respublikoje įgyvendinamos tarptautinės sankcijos, taip pat kai yra kitų šio straipsnio 1 dalyje nurodytų sąlygų, turi teisę paskirti Lietuvos bankas. Pretendentus į laikinuosius administratorius atrenka Lietuvos bankas. Lietuvos bankui mutatis mutandis taikomos šio straipsnio nuostatos, nustatančios finansų ministro ir Lietuvos Respublikos finansų ministerijos teises ir pareigas.
+
+
+Papildyta straipsniu:
+Nr. XIV-1020, 2022-04-19, paskelbta TAR 2022-04-26, i. k. 2022-08433
+ 
 
 
 
@@ -445,3 +585,8 @@ Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1991, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04586
 Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 12 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1020, 2022-04-19, paskelbta TAR 2022-04-26, i. k. 2022-08433
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 pakeitimo įstatymas
