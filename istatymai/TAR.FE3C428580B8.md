@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8"
 
 # Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-04-26
+Įstatymas netenka galios 2022-09-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1381, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15851
+Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2022-04-27 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 115-5192, i. k. 1031010ISTA0IX-1837
  
@@ -1811,6 +1816,10 @@ Nr. XIII-3000, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12826
  
 
 3. Kiekvienas kandidatas turi viešai paskelbti, jeigu jis per 10 paskutinių metų iki nustatytosios dienos įsiteisėjusiu Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teismo nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos arba įsiteisėjusiu teismo nuosprendžiu bet kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo. Šį faktą, nepaisant to, ar teistumas išnykęs, ar panaikintas, kandidatas nurodo kandidato į Europos Parlamento narius anketoje. Pateikdamas šiuos duomenis, kandidato į Europos Parlamento narius anketoje asmuo privalo nurodyti apkaltinamojo nuosprendžio (sprendimo) priėmimo valstybę (vietą), šį nuosprendį (sprendimą) priėmusios institucijos pavadinimą, apkaltinamojo nuosprendžio (sprendimo) priėmimo datą ir nusikalstamą veiką, už kurią buvo nuteistas. Šios informacijos nurodyti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei. Pateikiant šioje dalyje nurodytą informaciją, kandidato į Europos Parlamento narius anketoje taip pat pažymima, kad teismo nuosprendžiu asmuo buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kad asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu. Vyriausiosios rinkimų komisijos leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo padarymo“ ir neturi būti pažymėta, jeigu kandidatas į Europos Parlamentą anketoje pateikė duomenis, kad jis okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei, arba pagrįstai nurodė, kad teismo sprendimu jis buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kai asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo (2013 m. lapkričio 12 d. redakcija, Žin., 2013, Nr. 121-6116) 96 straipsnio 3 dalis tiek, kiek pagal ją Lietuvos Respublikos vyriausiosios rinkimų komisijos leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės šio įstatymo nustatytais atvejais pateikiant informaciją apie kandidato pripažinimą kaltu dėl nusikalstamos veikos turi būti vienodai pažymėta: „Teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo padarymo“, prieštarauja Lietuvos Respublikos Konstitucijos 34 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr.  KT50-A-N4/2022, 2022-04-27, paskelbta TAR 2022-04-27, i. k. 2022-08605
+ 
 
 4. Jeigu kandidatas apie turėtą teismo paskirtą bausmę nenurodė, kaip to reikalaujama šio straipsnio 3 dalyje, arba pateikė tikrovės neatitinkančius duomenis ir per 10 paskutinių metų iki nustatytosios dienos yra įsiteisėjęs Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos padarymo, arba yra įsiteisėjęs teismo nuosprendis, kuriuo asmuo bet kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo (išskyrus atvejį, kai asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei), Vyriausioji rinkimų komisija jo kandidatu neregistruoja, o jeigu buvo įregistravusi, nedelsdama panaikina jo registraciją kandidatu. Jeigu kandidatas to nenurodė ir po rinkimų nustatoma, kad per 10 paskutinių metų iki nustatytosios dienos yra įsiteisėjęs Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos padarymo, arba yra įsiteisėjęs teismo nuosprendis, kuriuo asmuo bet kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo (išskyrus atvejį, kai asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei), Vyriausioji rinkimų komisija per 15 dienų teismo nuosprendžio dėl asmens pripažinimo kaltu ir kandidato į Europos Parlamento narius anketos nuorašus perduoda Lietuvos vyriausiajam administraciniam teismui, kad šis priimtų sprendimą, kuriuo asmuo pripažįstamas pažeidusiu šio straipsnio 3 dalyje nustatytą reikalavimą. Jeigu Lietuvos vyriausiasis administracinis teismas priima sprendimą pripažinti asmenį pažeidusiu šio straipsnio 3 dalyje nustatytą reikalavimą, Vyriausioji rinkimų komisija per 5 darbo dienas po teismo sprendimo įsiteisėjimo privalo pripažinti šį asmenį netekusiu Europos Parlamento nario mandato, apie tai paskelbti savo interneto svetainėje ir pranešti Europos Parlamentui. Laisva Europos Parlamento nario vieta užimama šio įstatymo 95 straipsnyje nustatyta tvarka.
  
@@ -2025,4 +2034,9 @@ Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 94 ir
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
 Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai ir bylos dalies nutraukimo
+ 
+15.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr.  KT50-A-N4/2022, 2022-04-27, paskelbta TAR 2022-04-27, i. k. 2022-08605
+Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
