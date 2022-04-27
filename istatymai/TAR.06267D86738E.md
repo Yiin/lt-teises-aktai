@@ -15,7 +15,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-04-26
+ 
+
+Įstatymas netenka galios 2022-09-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1381, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15851
+Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2022-04-27 iki 2022-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -2280,6 +2287,10 @@ Nr. XIII-3002, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12828
  
 
 3. Kiekvienas kandidatas į Seimo narius turi viešai paskelbti, jeigu jis po 1990 m. kovo 11 d. Lietuvos Respublikos teismo įsiteisėjusiu nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos arba įsiteisėjusiu teismo nuosprendžiu bet kada buvo pripažintas kaltu padaręs sunkų ar labai sunkų nusikaltimą. Tai jis nurodo kandidato į Seimo narius anketoje, nepaisant to, ar teistumas išnykęs, ar panaikintas. Pateikdamas šiuos duomenis, kandidato į Seimo narius anketoje asmuo privalo nurodyti apkaltinamojo nuosprendžio (sprendimo) priėmimo valstybę (vietą), šį nuosprendį (sprendimą) priėmusios institucijos pavadinimą, apkaltinamojo nuosprendžio (sprendimo) priėmimo datą ir nusikalstamą veiką, už kurią jis buvo nuteistas. Šios informacijos nurodyti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei. Pateikiant šioje dalyje nurodytą informaciją, kandidato į Seimo narius anketoje taip pat pažymima, kad teismo nuosprendžiu asmuo buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kad asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu. Vyriausiosios rinkimų komisijos leidžiamame kandidato į Seimo narius rinkimų plakate, taip pat plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos“ ir neturi būti pažymėta, jei kandidatas į Seimo narius anketoje pateikė duomenis, kad jis okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei, arba pagrįstai nurodė, kad teismo sprendimu jis buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kai asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Seimo rinkimų įstatymo 98 straipsnio 3 dalis (2012 m. spalio 2 d. redakcija, Žin., 2012, Nr. 119-5977) tiek, kiek pagal ją Lietuvos Respublikos vyriausiosios rinkimų komisijos leidžiamame kandidato į Seimo narius rinkimų plakate, taip pat plakate su kandidatų sąrašu prie kandidato pavardės šio įstatymo nustatytais atvejais pateikiant informaciją apie kandidato pripažinimą kaltu dėl nusikalstamos veikos turi būti vienodai pažymėta: „Teismo nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos“, prieštarauja Lietuvos Respublikos Konstitucijos 34 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr.  KT50-A-N4/2022, 2022-04-27, paskelbta TAR 2022-04-27, i. k. 2022-08605
+ 
 
 4. Jeigu kandidatas to nenurodė ir yra po 1990 m. kovo 11 d. įsiteisėjęs Lietuvos Respublikos teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos, arba yra įsiteisėjęs teismo nuosprendis, kad asmuo bet kada buvo pripažintas kaltu padaręs sunkų ar labai sunkų nusikaltimą (išskyrus atvejį, kai asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei), Vyriausioji rinkimų komisija jo neregistruoja kandidatu į Seimo narius, o jei buvo įregistravusi, nedelsdama panaikina jo registravimą kandidatu į Seimo narius. Jei kandidatas to nenurodė ir po Seimo rinkimų nustatoma, kad yra po 1990 m. kovo 11 d. įsiteisėjęs Lietuvos Respublikos teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos, arba yra įsiteisėjęs teismo nuosprendis, kad asmuo bet kada buvo pripažintas kaltu padaręs sunkų ar labai sunkų nusikaltimą, Vyriausioji rinkimų komisija per 15 dienų teismo nuosprendžio ir kandidato į Seimo narius anketos nuorašus perduoda Lietuvos Respublikos Seimui, kad Seimas priimtų sprendimą dėl apkaltos proceso pradžios.
 
@@ -2591,4 +2602,9 @@ Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 62, 67-1 ir 70 straipsn
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
 Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai ir bylos dalies nutraukimo
+ 
+21.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr.  KT50-A-N4/2022, 2022-04-27, paskelbta TAR 2022-04-27, i. k. 2022-08605
+Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
