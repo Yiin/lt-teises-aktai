@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-04-21 iki 2022-04-26
+Suvestinė redakcija nuo 2022-04-27 iki 2022-04-30
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -22374,7 +22374,15 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-8) ar tenkintini, ar atmestini administracinėn atsakomybėn traukiamo asmens, nukentėjusiojo, jų atstovų pagal įstatymą, advokatų ar kitų įgaliotųjų atstovų prašymai ir nušalinimai.
+8) ar tenkintini, ar atmestini administracinėn atsakomybėn traukiamo asmens, nukentėjusiojo, jų atstovų pagal įstatymą, advokatų ar kitų įgaliotųjų atstovų prašymai ir nušalinimai;
+
+
+
+
+9) ar nėra pagrindo atidėti administracinio nusižengimo bylos nagrinėjimą. 
+Papildyta straipsnio punktu:
+Nr. XIV-1045, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08413
+ 
 
 
 
@@ -22447,6 +22455,44 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
  
 
 
+
+
+
+
+6301 straipsnis. Administracinių nusižengimų bylų nagrinėjimo atidėjimas
+
+
+Administracinių nusižengimų bylų nagrinėjimas atidedamas, kai:
+
+
+1) įstatymų nustatytais atvejais kreipiamasi į Konstitucinį Teismą, – kol bus gautas Konstitucinio Teismo nutarimas;
+
+
+
+
+2) įstatymų nustatytais atvejais kreipiamasi į administracinį teismą dėl konkretaus norminio administracinio akto (ar jo dalies), kuris turėtų būti taikomas nagrinėjamoje byloje, teisėtumo, – kol bus gautas įsiteisėjęs administracinio teismo sprendimas;
+
+
+
+
+3) įstatymų nustatytais atvejais kreipiamasi į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo, – kol bus gautas šios institucijos prejudicinis sprendimas;
+
+
+
+
+4) priimamas sprendimas patenkinti šio kodekso 629 straipsnio 1 dalyje nurodytą administracinėn atsakomybėn traukiamo asmens prašymą atidėti bylos nagrinėjimą;
+
+
+
+
+5) yra kitų aplinkybių, leidžiančių manyti, kad neatidėjus administracinio nusižengimo bylos nagrinėjimo galėtų būti priimtas neteisėtas ir (ar) nepagrįstas teismo sprendimas. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-1045, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08413
+ 
 
 
 
@@ -25702,3 +25748,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1022, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08028
 Lietuvos Respublikos administracinių nusižengimų kodekso 524 straipsnio pakeitimo įstatymas
+ 
+164.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1045, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08413
+Lietuvos Respublikos administracinių nusižengimų kodekso 627 straipsnio pakeitimo ir Kodekso papildymo 630-1 straipsniu įstatymas
