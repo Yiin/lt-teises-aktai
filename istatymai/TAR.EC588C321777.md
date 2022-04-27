@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2022-02-01 iki 2022-04-26
+Suvestinė redakcija nuo 2022-04-27 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -8479,6 +8479,14 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 
 
+31) įstatymų numatytais atvejais kreipiamasi į administracinį teismą dėl konkretaus norminio administracinio akto (ar jo dalies), kuris turėtų būti taikomas nagrinėjamoje byloje, teisėtumo, – kol bus gautas įsiteisėjęs administracinio teismo sprendimas; 
+Papildyta straipsnio punktu:
+Nr. XIV-1046, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08414
+ 
+
+
+
+
 4) įstatymų numatytais atvejais kreipiamasi į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo, – kol bus gautas šios institucijos prejudicinis sprendimas. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
@@ -8762,7 +8770,10 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 
 
-2. Bylos nagrinėjimas taip pat atidedamas šio Kodekso 234 straipsnio 5 dalies 3, 4 punktuose ir 254 straipsnio 2 dalyje numatytais atvejais.
+2. Bylos nagrinėjimas taip pat atidedamas šio Kodekso 234 straipsnio 5 dalies 3, 31, 4 punktuose ir 254 straipsnio 2 dalyje numatytais atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1046, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08414
+ 
 
 
 
@@ -13474,11 +13485,12 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją prejudicinio sprendimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu. 
+3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į administracinį teismą, kad šis nuspręstų dėl konkretaus norminio administracinio akto (ar jo dalies), kuris turėtų būti taikomas nagrinėjamoje byloje, teisėtumo, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją prejudicinio sprendimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1773, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09616
 Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+Nr. XIV-1046, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08414
  
 
 
@@ -16436,3 +16448,13 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 151 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-786, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27363
 Lietuvos Respublikos baudžiamojo proceso kodekso 167 straipsnio pakeitimo įstatymas
+ 
+60.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1011, 2022-04-12, paskelbta TAR 2022-04-20, i. k. 2022-08022
+Lietuvos Respublikos baudžiamojo proceso kodekso 106 straipsnio pakeitimo įstatymas
+ 
+61.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1046, 2022-04-21, paskelbta TAR 2022-04-26, i. k. 2022-08414
+Lietuvos Respublikos baudžiamojo proceso kodekso 234, 244 ir 381 straipsnių pakeitimo įstatymas
