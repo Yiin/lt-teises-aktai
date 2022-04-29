@@ -21,7 +21,7 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-04-28
+Suvestinė redakcija nuo 2022-04-29 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
  
@@ -2533,9 +2533,10 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 47 straipsnis. Pagrindinės informacijos investuotojams dokumentas
 
 
-1. Valdymo įmonė ir investicinė bendrovė-valdytoja parengia kiekvieno savo valdomo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, laikomasi Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų. 
+1. Valdymo įmonė ir investicinė bendrovė-valdytoja parengia kiekvieno savo valdomo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, laikomasi Kolektyvinio investavimo subjektų įstatyme arba Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
+Nr. XIV-1035, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08781
  
 
 
@@ -3582,3 +3583,8 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-834, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27726
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 19 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1035, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08781
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 47 straipsnio ir priedo pakeitimo įstatymas
