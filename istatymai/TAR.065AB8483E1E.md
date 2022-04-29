@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2021-12-31 iki 2022-04-28
+Suvestinė redakcija nuo 2022-04-29 iki 2022-05-27
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -1795,6 +1795,14 @@ Nr. XI-1820, 2011-12-20, Žin., 2011, Nr. 163-7740 (2011-12-31)
 15. Fondo tarybos parengtus bendruosius konkursų nuostatus, kuriuose atsispindi programų ir finansavimo proporcijos ir kurie suderinti su Seimo Kultūros komitetu, tvirtina Vyriausybė. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
+ 
+
+
+
+
+151. Fondo taryba motyvuotu sprendimu karo, nepaprastosios padėties, ekstremaliosios situacijos atveju ar paskelbus mobilizaciją gali remti ir šio straipsnio 14 dalyje nenumatytus viešosios informacijos rengėjų kultūrinius, visuomenės informavimo saugumo, medijų raštingumo ugdymo ir šviečiamuosius projektus, taip pat nukrypti nuo bendruosiuose konkursų nuostatuose patvirtintų programų finansavimo proporcijų perkeldama iki 20 procentų konkrečiai programai finansuoti skirtų lėšų į kitą (kitas) programą (programas).
+Papildyta straipsnio dalimi:
+Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
  
 
 
@@ -4081,7 +4089,9 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 
 
-6. Komisija, atlikusi tyrimą ir nustačiusi, kad asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, pradėjo vykdyti šią veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka, turi teisę:
+6. Komisija, atlikusi tyrimą ir nustačiusi, kad užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai, asmenys, vykdantys nelicencijuojamą televizijos programų transliavimo veiklą, išskyrus atvejus, kai veikla vykdoma iš Europos Sąjungos valstybių narių ar Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių valstybių, ar asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, pradėjo vykdyti šią veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka, turi teisę: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
 
 
 1) duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjui skubiai pašalinti elektroninės informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą vykdant veiklą, apie kurią Komisijai nebuvo pranešta, arba panaikinti galimybę šią informaciją pasiekti;
@@ -4554,7 +4564,15 @@ Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 
 
-9) skundo (pareiškimo) nagrinėjimą nutraukti.
+9) skundo (pareiškimo) nagrinėjimą nutraukti;
+
+
+
+
+10) duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjams arba viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams pašalinti arba panaikinti galimybę pasiekti informaciją, nurodytą Visuomenės informavimo įstatymo 19 straipsnio 1 dalies 1 ar 3 punkte.
+Papildyta straipsnio punktu:
+Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
+ 
 
 
 
@@ -4737,28 +4755,63 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 
-52 straipsnis. Viešosios informacijos rengėjų ir (ar) skleidėjų veiklos sustabdymas arba nutraukimas
+52 straipsnis. Viešosios informacijos rengėjų ir (ar) skleidėjų veiklos sustabdymas, nutraukimas ir prieigos prie viešosios informacijos pašalinimas
 
 
-1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus radijo ir (ar) televizijos programų transliuotojus, retransliuotojus, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjus ir (ar) užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo 19 straipsnio 1 ir (ar) 2 dalių nuostatas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
-Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus radijo ir (ar) televizijos programų transliuotojus, retransliuotojus, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjus ir (ar) užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjus, veikla gali būti laikinai sustabdoma arba nutraukiama šiame straipsnyje nustatytais atvejais.
+
+
+
+
+2. Inspektoriaus prašymu Vilniaus apygardos administracinis teismas gali sustabdyti viešosios informacijos rengėjo ir (ar) skleidėjo veiklą ne ilgiau kaip 3 mėnesiams, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas akivaizdžiai, rimtai ir sunkiai pažeidžia šio įstatymo 19 straipsnio 1 dalies reikalavimus po to, kai buvo nustatytos visos šios sąlygos:
+
+
+1) toks pažeidimas per paskutinius 12 mėnesių jau buvo padarytas ir už šį pažeidimą buvo taikytas įspėjimas ar kitos šiame įstatyme nustatytos poveikio priemonės;
+
+
+
+
+2) inspektorius raštu pranešė viešosios informacijos rengėjui ir (ar) skleidėjui apie įtariamą pažeidimą ir apie priemones, kurių ketina imtis, jeigu toks pažeidimas pasikartos;
+
+
+
+
+3) inspektorius viešosios informacijos rengėjui ir (ar) skleidėjui suteikė teisę duoti paaiškinimus ir būti išklausytam dėl įtariamo pažeidimo ir priemonių, kurių ketina imtis, jeigu toks pažeidimas pasikartos.
+
+
+
+
+
+
+3. Kai inspektorius savo iniciatyva ar gavęs iš nacionalinį saugumą užtikrinančios ar kitos kompetentingos institucijos informaciją nustato, kad viešosios informacijos rengėjas ir (ar) skleidėjas skleidžia šio įstatymo 19 straipsnio 1 dalies 1, 2 ar 3 punkte nurodytą neskelbtiną informaciją, kuri kenkia ar kelia pavojų visuomenės saugumui, įskaitant nacionalinio saugumo ir gynybos užtikrinimą, inspektorius turi teisę kreiptis į Vilniaus apygardos administracinį teismą dėl viešosios informacijos rengėjo ir (ar) skleidėjo veiklos sustabdymo nesilaikydamas šio straipsnio 2 dalyje nurodytų sąlygų.
+
+
+
+
+4. Šio straipsnio 2 ir 3 dalyse numatytais atvejais kreipdamasis į Vilniaus apygardos administracinį teismą, inspektorius pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl viešosios informacijos rengėjo ir (ar) skleidėjo veiklos sustabdymo, prašymo faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Vilniaus apygardos administracinis teismas turi priimti sprendimą laikinai sustabdyti viešosios informacijos rengėjo ir (ar) skleidėjo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Vilniaus apygardos administracinio teismo sprendimas per 14 dienų nuo jo paskelbimo dienos gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos. Teismo sprendime gali būti duodami privalomi nurodymai elektroninės informacijos prieglobos paslaugų teikėjams ir viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams panaikinti galimybę pasiekti visuomenės informavimo priemones, o leidinių pardavėjams, leidinių pristatymo ar kitokių platinimo paslaugų teikėjams – privalomi nurodymai sustabdyti leidinių pardavimą, pristatymą ar platinimą.
+
+
+
+
+5. Viešosios informacijos rengėjo ir (ar) skleidėjo veikla gali būti nutraukiama tuo atveju, jeigu per paskutinius 12 mėnesių teismas jau buvo bent kartą sustabdęs jo veiklą šio straipsnio 4 dalyje nustatyta tvarka ir viešosios informacijos rengėjas ir (ar) skleidėjas pakartotinai padaro šio įstatymo 19 straipsnio 1 dalies pažeidimą. Sprendimas dėl viešosios informacijos rengėjo ir (ar) skleidėjo veiklos nutraukimo priimamas mutatis mutandis šio straipsnio 4 dalyje nustatyta tvarka.
+
+
+
+
+6. Inspektorius, sužinojęs apie internete skleidžiamą šio įstatymo 19 straipsnio 1 dalies 1 ar 3 punkte nurodytą neskelbtiną informaciją ir atsižvelgęs į informacijos pavojingumą, jos saugojimo vietą ar kitas reikšmingas aplinkybes, praneša apie tokią informaciją viešosios informacijos rengėjui ir (ar) skleidėjui, reikalaudamas šią informaciją nedelsiant pašalinti arba panaikinti galimybę ją pasiekti. Jeigu viešosios informacijos rengėjas ir (ar) skleidėjas per 8 valandas nuo inspektoriaus pranešimo gavimo nepašalina šios informacijos ar nepanaikina galimybės ją pasiekti arba jeigu per 8 valandas nuo inspektoriaus pastebėto pažeidimo momento nėra galimybės nustatyti viešosios informacijos rengėją ir (ar) skleidėją, inspektorius duoda privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjams arba viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams panaikinti galimybę šią informaciją pasiekti ne ilgiau kaip 72 valandoms, o privalomus nurodymus pašalinti šią informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms – su teismo leidimu.
+
+
+
+
+7. Siekdamas gauti šio straipsnio 6 dalyje nurodytą leidimą duoti privalomus nurodymus pašalinti neskelbtiną informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms, inspektorius privalo Vilniaus apygardos administraciniam teismui pateikti prašymą išduoti leidimą atlikti šiuos veiksmus. Prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu žinomi), įtariamo pažeidimo pobūdis ir veiksmai, kuriuos numatoma atlikti. Vilniaus apygardos administracinis teismas išnagrinėja prašymą ir priima motyvuotą nutartį jį patenkinti arba atmesti ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu inspektorius nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, jis turi teisę per 7 kalendorines dienas nuo teismo nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo inspektoriaus skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
+
+
+TAR pastaba. 52 straipsnio nuostatos taikomos ir iki įstatymo Nr. XIV-1021 įsigaliojimo dienos (2022-04-29) pradėtoms viešosios informacijos rengėjo ir (ar) skleidėjo veiklos laikino sustabdymo ar nutraukimo procedūroms, išskyrus atvejus, kai šios procedūros pradėtos nustačius, kad viešosios informacijos rengėjas ir (ar) skleidėjas pažeidė Visuomenės informavimo įstatymo 19 straipsnio 2 dalies reikalavimus. Tokiais atvejais pradėtos viešosios informacijos rengėjo ir (ar) skleidėjo veiklos laikino sustabdymo ar nutraukimo procedūros turi būti nutraukiamos.
  
-
-
-
-
-2. Priimdamas sprendimą dėl laikino viešosios informacijos rengėjo ir (ar) skleidėjo veiklos sustabdymo, teismas gali nustatyti ne ilgesnį kaip vieno mėnesio veiklos sustabdymo terminą laikraščių redakcijoms ir ne ilgesnį kaip trijų mėnesių – žurnalų redakcijoms.
-
-
-
-
-3. Viešosios informacijos rengėjo ir (ar) skleidėjo veikla gali būti teismo nutraukiama tuo atveju, jei per pastaruosius 12 mėnesių teismas jau buvo bent kartą sustabdęs jo veiklą.
-
-
 Straipsnio pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
+Straipsnio pakeitimai:
+Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
  
 
 
@@ -5246,3 +5299,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 ir 6 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-867, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27774
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 28, 48, 50 ir 52 straipsnių pakeitimo įstatymas
