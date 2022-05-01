@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-12-04 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -703,7 +703,10 @@ Mažosios bendrijos narių susirinkimas turi išimtinę teisę:
 
 
 
-6) priimti sprendimą dėl mažosios bendrijos nario ar kito asmens, kuris tvarkys mažosios bendrijos apskaitą;
+6) priimti sprendimą dėl mažosios bendrijos nario ar kito asmens, kuris tvarkys mažosios bendrijos finansinę apskaitą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
+ 
 
 
 
@@ -713,7 +716,10 @@ Mažosios bendrijos narių susirinkimas turi išimtinę teisę:
 
 
 
-8) tvirtinti finansinių ataskaitų rinkinį;
+8) tvirtinti finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama;
+Straipsnio punkto pakeitimai:
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
+ 
 
 
 
@@ -1063,7 +1069,10 @@ Mažosios bendrijos narių susirinkimo sprendimas laikomas priimtu, kai už jį 
 
 
 
-6) organizuoja mažosios bendrijos apskaitą, finansinių ataskaitų rinkinio sudarymą ir apskaitos dokumentų išsaugojimą; 
+6) organizuoja mažosios bendrijos finansinę apskaitą, finansinių ataskaitų rinkinio sudarymą ir apskaitos dokumentų išsaugojimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
+ 
 
 
 
@@ -1224,10 +1233,10 @@ MAŽOSIOS BENDRIJOS FINANSINĖ ATSKAITOMYBĖ IR PELNO PASKIRSTYMAS
  
 
 
-23 straipsnis. Mažosios bendrijos apskaita ir finansinė atskaitomybė
+23 straipsnis. Mažosios bendrijos finansinė apskaita ir finansinė atskaitomybė
 
 
-1. Mažosios bendrijos buhalterinę apskaitą, jos organizavimą bei tvarkymą ir finansinių ataskaitų rinkinių sudarymą nustato įstatymai ir kiti teisės aktai.
+1. Mažosios bendrijos finansinę apskaitą, jos organizavimą bei tvarkymą ir finansinių ataskaitų rinkinių sudarymą nustato Lietuvos Respublikos finansinės apskaitos įstatymas ir Lietuvos Respublikos įmonių atskaitomybės įstatymas.
 
 
 
@@ -1237,10 +1246,12 @@ MAŽOSIOS BENDRIJOS FINANSINĖ ATSKAITOMYBĖ IR PELNO PASKIRSTYMAS
 
 
 
-3. Mažoji bendrija turi sudaryti metinių finansinių ataskaitų rinkinį. Mažosios bendrijos metinių finansinių ataskaitų rinkinys ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos turi būti patvirtintas mažosios bendrijos narių susirinkime ir pateiktas Juridinių asmenų registro tvarkytojui.
+3. Mažoji bendrija turi sudaryti metinių finansinių ataskaitų rinkinį. Mažosios bendrijos metinių finansinių ataskaitų rinkinys ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos turi būti patvirtintas mažosios bendrijos narių susirinkime, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, ir pateiktas Juridinių asmenų registro tvarkytojui. Kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama, jos nepatvirtintas metinių finansinių ataskaitų rinkinys Juridinių asmenų registro tvarkytojui pateikiamas per 4 mėnesius nuo finansinių metų pabaigos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
  
-
-
 
 
 
@@ -1728,7 +1739,10 @@ Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
 
 
 
-2) sudaryti laikotarpio, kurio pradžia sutampa su mažosios bendrijos finansinių metų pradžia, o pabaiga – su sprendimo likviduoti mažąją bendriją priėmimo diena (kai sprendimą priima teismas – sprendimo įsiteisėjimo diena), mažosios bendrijos balansą;
+2) neteko galios nuo 2022-05-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
+ 
 
 
 
