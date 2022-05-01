@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
@@ -606,28 +606,30 @@ Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
 
 
 
-11 straipsnis. Bendrijos buhalterinė apskaita ir finansinė atskaitomybė
+11 straipsnis. Bendrijos finansinė apskaita ir finansinė atskaitomybė
 
 
-1. Bendrija įmonių finansinę atskaitomybę reglamentuojančių įstatymų nustatyta tvarka sudaro finansinių ataskaitų rinkinį, jeigu tai yra nustatyta bendrijos veiklos sutartyje. 
-
-
-
-
-2. Bendrija, kurios visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo įmonių finansinę atskaitomybę reglamentuojančių įstatymų nustatyta tvarka parengti metinį pranešimą ir sudaryti metinių finansinių ataskaitų rinkinį, neatsižvelgiant į tai, ar finansinių ataskaitų rinkinio sudarymas nustatytas bendrijos veiklos sutartyje.
+1. Bendrija Lietuvos Respublikos įmonių atskaitomybės įstatymo nustatyta tvarka sudaro finansinių ataskaitų rinkinį, jeigu tai yra nustatyta bendrijos veiklos sutartyje.
 
 
 
 
-3. Bendrijos metinių finansinių ataskaitų rinkinys ir metinis pranešimas ne vėliau kaip per keturis mėnesius nuo finansinių metų pabaigos turi būti bendrijos veiklos sutartyje nustatyta tvarka dalyvių patvirtinti ir Civilinio kodekso nustatytu terminu pateikti Juridinių asmenų registro tvarkytojui.
+2. Bendrija, kurios visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo Įmonių atskaitomybės įstatymo nustatyta tvarka parengti metinį pranešimą ir sudaryti metinių finansinių ataskaitų rinkinį, neatsižvelgiant į tai, ar finansinių ataskaitų rinkinio sudarymas nustatytas bendrijos veiklos sutartyje.
+
+
+
+
+3. Bendrijos metinių finansinių ataskaitų rinkinys, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrija likviduojama, ir metinis pranešimas ne vėliau kaip per keturis mėnesius nuo finansinių metų pabaigos turi būti bendrijos veiklos sutartyje nustatyta tvarka dalyvių patvirtinti ir Civilinio kodekso nustatytu terminu pateikti Juridinių asmenų registro tvarkytojui. Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais likviduojamos bendrijos nepatvirtintas metinių finansinių ataskaitų rinkinys Juridinių asmenų registro tvarkytojui pateikiamas per penkis mėnesius nuo finansinių metų pabaigos.
 
 
 
 
 4. Bendrijos trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinys ir tarpinis pranešimas ne vėliau kaip per trisdešimt dienų nuo sprendimo dėl jų patvirtinimo priėmimo dienos turi būti pateikti Juridinių asmenų registro tvarkytojui, jeigu bendrijos veiklos sutartyje nustatyta, kad bendrija sudaro finansinių ataskaitų rinkinį, arba šio straipsnio 2 dalyje nustatytu atveju.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-690, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25117
  
-
-
 
 
 
@@ -937,7 +939,10 @@ Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
 
 
 
-2) sudaryti bendrijos likvidavimo laikotarpio pradžios bendrijos balansą;
+2) neteko galios nuo 2022-05-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-690, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25117
+ 
 
 
 
@@ -1034,3 +1039,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 3 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
 Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 5 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-690, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25117
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 11 ir 16 straipsnių pakeitimo įstatymas
