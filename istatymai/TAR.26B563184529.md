@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-01-29 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-07-07
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -2842,7 +2842,10 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 
 
 
-2) vadovauti specialiojo teritorijų planavimo dokumentų rengimui (išskyrus atvejus, kai konkrečių specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose įstatymuose nustatyta kitaip) turi teisę teritorijų planavimo vadovas, turintis profesinę patirtį vadovaujant aukštesnio ar atitinkamo lygmens kompleksinio teritorijų planavimo dokumentų rengimui, jeigu juose buvo sprendžiami atitinkami specialiojo teritorijų planavimo dokumentui priskirtini uždaviniai, arba fizinis asmuo, pagal Vyriausybės nustatytas studijų sritis ir kryptis įgijęs aukštąjį (universitetinį ar koleginį) arba jam lygiavertį išsilavinimą, atitinkantį specialiojo teritorijų planavimo dokumento rūšį, ir turintis atestatą, suteikiantį teisę vadovauti specialiojo teritorijų planavimo dokumentų rengimui pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis. Šiame punkte nurodytų asmenų atestavimą atlieka valstybės įmonė Statybos produkcijos sertifikavimo centras, išskyrus asmenų, įgijusių aukštąjį universitetinį meno studijų srities architektūros krypties arba jam lygiavertį išsilavinimą, kurių atestavimą atlieka Lietuvos Respublikos architektų rūmai. Šis reikalavimas netaikomas kitos Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis, jeigu jie turi kitos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį, kad jie kilmės valstybėje turi teisę užsiimti specialiojo teritorijų planavimo dokumentų rengimą atitinkančia veikla.
+2) vadovauti specialiojo teritorijų planavimo dokumentų rengimui (išskyrus atvejus, kai konkrečių specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose įstatymuose nustatyta kitaip) turi teisę teritorijų planavimo vadovas, turintis profesinę patirtį vadovaujant aukštesnio ar atitinkamo lygmens kompleksinio teritorijų planavimo dokumentų rengimui, jeigu juose buvo sprendžiami atitinkami specialiojo teritorijų planavimo dokumentui priskirtini uždaviniai, arba fizinis asmuo, pagal Vyriausybės nustatytas studijų sritis ir kryptis įgijęs aukštąjį (universitetinį ar koleginį) arba jam lygiavertį išsilavinimą, atitinkantį specialiojo teritorijų planavimo dokumento rūšį, ir turintis atestatą, suteikiantį teisę vadovauti specialiojo teritorijų planavimo dokumentų rengimui pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis. Šiame punkte nurodytų asmenų atestavimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra, išskyrus asmenis, įgijusius aukštąjį universitetinį meno studijų srities architektūros krypties arba jam lygiavertį išsilavinimą, kurių atestavimą atlieka Lietuvos Respublikos architektų rūmai. Šis reikalavimas netaikomas kitos Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiams ir kitiems fiziniams asmenims, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis, jeigu jie turi kitos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, kompetentingos institucijos išduotą atestatą arba kitą dokumentą, įrodantį, kad jie kilmės valstybėje turi teisę užsiimti specialiojo teritorijų planavimo dokumentų rengimą atitinkančia veikla.
+Straipsnio punkto pakeitimai:
+Nr. XIV-384, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13828
+ 
 
 
 
@@ -3514,3 +3517,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 40 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 20 ir 23 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-384, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13828
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 40 straipsnio pakeitimo įstatymas
