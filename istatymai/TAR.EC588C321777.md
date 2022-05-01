@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2022-04-27 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-06-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -72,8 +72,10 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 
  
+
  
 PATVIRTINTAS
 2002 m. kovo 14 d.
@@ -3813,13 +3815,17 @@ Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
 106 straipsnis. Advokato darbo apmokėjimas
 
 
-1. Kai įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, advokatui apmokama įstatymo, reglamentuojančio valstybės garantuojamos teisinės pagalbos teikimą, nustatyta tvarka. Kitais atvejais advokatui moka įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu – kiti asmenys.
+1. Kai įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, advokatui arba advokato padėjėjui apmokama įstatymo, reglamentuojančio valstybės garantuojamos teisinės pagalbos teikimą, nustatyta tvarka. Kitais atvejais advokatui arba advokato padėjėjui moka įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu – kiti asmenys.
 
 
 
 
-2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, priima sprendimą iš kaltinamojo išieškoti valstybės garantuojamos teisinės pagalbos išlaidas, susidariusias dėl būtino gynėjo dalyvavimo, atsižvelgdamas į kaltinamojo turtinę padėtį, išskyrus šio Kodekso 51 straipsnio 1 dalies 1 ir 2 punktuose nurodytus atvejus. Be to, teismas turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir civilinio ieškovo patirtas išlaidas advokato, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti. 
-TAR PASTABA. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 106 straipsnis (su 2020 m. birželio 26 d. pakeitimu; TAR, 2020-07-03, Nr. 15006) tiek, kiek pagal jį asmeniui, dėl kurio priimtas išteisinamasis nuosprendis, atsižvelgiant į bylos aplinkybes, nėra atlyginamos būtinos ir pagristos išlaidos advokatui, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 31 straipsnio 6 daliai, konstituciniam teisinės valstybės principui.
+2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, priima sprendimą iš kaltinamojo išieškoti valstybės garantuojamos teisinės pagalbos išlaidas, susidariusias dėl būtino gynėjo dalyvavimo, atsižvelgdamas į kaltinamojo turtinę padėtį, išskyrus šio Kodekso 51straipsnio 1 dalies 1 ir 2 punktuose nurodytus atvejus. Be to, teismas turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir civilinio ieškovo patirtas išlaidas advokato arba advokato padėjėjo, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti.
+
+
+
+
+3. Kai asmuo išteisinamas, teismas, priimdamas nuosprendį ar nutartį, priima sprendimą dėl asmens patirtų būtinų ir pagrįstų išlaidų advokato arba advokato padėjėjo, kuris dalyvavo byloje kaip šio asmens gynėjas, paslaugoms apmokėti, atsižvelgiant į bylos aplinkybes, atlyginimo iš valstybės lėšų teisės aktų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
@@ -3828,6 +3834,7 @@ Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
 Straipsnio pakeitimai:
 Nr. XIII-165, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29859
 Nr. KT45-A-N3/2021, 2021-03-19, paskelbta TAR 2021-03-19, i. k. 2021-05546
+Nr. XIV-1011, 2022-04-12, paskelbta TAR 2022-04-20, i. k. 2022-08022
  
 
 
@@ -15656,8 +15663,7 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-
-
+part_7753471a3f4b4dae9468076f2636a6ef_end
 
 
  
