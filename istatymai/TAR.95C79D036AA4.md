@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2024-06-20
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
  
@@ -375,6 +375,14 @@ Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
 4. Darbuotojų, dirbančių su radioaktyviosiomis medžiagomis ir kitais jonizuojančiosios spinduliuotės šaltiniais, saugą ir sveikatą reglamentuoja Lietuvos Respublikos radiacinės saugos įstatymas, šis Įstatymas ir kiti darbuotojų saugos ir sveikatos norminiai teisės aktai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
+
+
+
+
+5. Savarankiškai dirbančiam asmeniui, kaip ši sąvoka apibrėžta Užimtumo įstatymo 5 straipsnio 1 punkte, vykdančiam savarankišką veiklą statybvietėje, mutatis mutandis taikomos šio Įstatymo 15 straipsnio 1 dalies, 16 straipsnio, 25 straipsnio 1 dalies 1 punkto, 28 straipsnio 2 dalies, 30 straipsnio ir 33 straipsnio 1 dalies 1–6 punktų nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-551, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21218
  
 
 
@@ -813,7 +821,10 @@ VIDINĖ DARBUOTOJŲ SAUGOS IR SVEIKATOS KONTROLĖ ĮMONĖJE
 15 straipsnis. Darbo vietų įrengimas statybvietėse, naudingųjų iškasenų gavybos įmonėse, žvejybos laivuose, darbo priemonėse
 
 
-1. Statybvietės turi atitikti darbuotojų saugos ir sveikatos reikalavimus, nustatytus socialinės apsaugos ir darbo ministro ir aplinkos ministro patvirtintuose Darboviečių įrengimo statybvietėse nuostatuose. Darbuotojų saugos ir sveikatos reikalavimai konkrečiai statybvietei nustatomi statinio techniniame projekte, vadovaujantis Darboviečių įrengimo statybvietėse nuostatais ir atitinkamais statybos techniniais reglamentais. Statybos darbų technologijos projekte numatomos konkrečios priemonės, užtikrinančios darbuotojų saugą ir sveikatą statinio statybos metu. Kai statinį projektuojant arba statant dalyvauja daugiau negu vienas rangovas, Darboviečių įrengimo statybvietėse nuostatuose nustatyta tvarka privalo būti paskirtas vienas ar keli saugos ir sveikatos koordinatoriai, kurių pareigos ir teisės nustatomos Darboviečių įrengimo statybvietėse nuostatuose.
+1. Statybvietės turi atitikti darbuotojų saugos ir sveikatos reikalavimus, nustatytus socialinės apsaugos ir darbo ministro ir aplinkos ministro patvirtintuose Darboviečių įrengimo statybvietėse nuostatuose. Darbuotojų saugos ir sveikatos reikalavimai konkrečiai statybvietei nustatomi statinio techniniame projekte, vadovaujantis Darboviečių įrengimo statybvietėse nuostatais ir atitinkamais statybos techniniais reglamentais. Statybos darbų technologijos projekte numatomos konkrečios priemonės, užtikrinančios darbuotojų saugą ir sveikatą statinio statybos metu. Jeigu statinį projektuojant arba statant dalyvauja daugiau negu vienas rangovas, Darboviečių įrengimo statybvietėse nuostatuose nustatyta tvarka privalo būti paskirtas vienas ar keli saugos ir sveikatos koordinatoriai, kurių pareigos ir teisės nustatytos Darboviečių įrengimo statybvietėse nuostatuose. Darbdaviai privalo atsižvelgti į saugos ir sveikatos koordinatorių nurodymus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-551, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21218
+ 
 
 
 
@@ -2610,61 +2621,55 @@ Vyriausybė per 6 mėnesius nuo šio Įstatymo įsigaliojimo peržiūri galiojan
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS PAKSAS
-
-
-
-
-
-
- 
+RESPUBLIKOS PREZIDENTAS                                                            ROLANDAS PAKSAS
  
-Lietuvos Respublikos 
-darbuotojų saugos ir sveikatos
-įstatymo
-priedas 
+ 
+
+
+
+
+
+
+ 
+Lietuvos Respublikos
+darbuotojų saugos ir sveikatos įstatymo
+priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo (OL 2004 m. specialusis leidimas, 5 skyrius,  1 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
+1. 1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008.
 
 
 
 
-2. 1991 m. birželio 25 d. Tarybos direktyva 91/383/EEB, pateikianti papildomas priemones, skatinančias gerinti terminuotuose arba laikinuose darbo santykiuose esančių darbuotojų saugą ir sveikatą darbe (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 418), su paskutiniais pakeitimais, padarytais 2007 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva 2007/30/EB (OL 2007 L 165, p. 21).
+2. 1991 m. birželio 25 d. Tarybos direktyva 91/383/EEB, pateikianti papildomas priemones, skatinančias gerinti terminuotuose arba laikinuose darbo santykiuose esančių darbuotojų saugą ir sveikatą darbe, su paskutiniais pakeitimais, padarytais 2007 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva 2007/30/EB.
 
 
 
 
-3. 1992 m. spalio 19 d. Tarybos direktyva 92/85/EEB dėl priemonių, skirtų skatinti, kad būtų užtikrinta geresnė nėščių ir neseniai pagimdžiusių arba maitinančių krūtimi darbuotojų sauga ir sveikata, nustatymo (OL 2004 m. specialusis leidimas, 5 skyrius, 2 tomas, p. 110). 
-Papildyta straipsnio dalimi:
-Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
- 
+3. 1992 m. birželio 24 d. Tarybos direktyva 92/57/EEB dėl būtiniausių saugos ir sveikatos reikalavimų laikinosiose arba kilnojamosiose statybvietėse įgyvendinimo (aštuntoji atskira direktyva, kaip numatyta Direktyvos 89/391/EEB 16 straipsnio 1 dalyje).
 
 
 
 
-4. 1994 m. birželio 22 d. Tarybos direktyva 94/33/EB dėl dirbančio jaunimo apsaugos (OL 2004 m. specialusis leidimas, 5 skyrius, 2 tomas, p. 213). 
-Papildyta straipsnio dalimi:
-Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
- 
+4. 1992 m. spalio 19 d. Tarybos direktyva 92/85/EEB dėl priemonių, skirtų skatinti, kad būtų užtikrinta geresnė nėščių ir neseniai pagimdžiusių arba maitinančių krūtimi darbuotojų sauga ir sveikata, nustatymo su paskutiniais pakeitimais, padarytais 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/27/ES. 
 
 
 
 
-5. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB (OL 2009 L 124, p. 30).
-Punkto numeracijos pakeitimas:
-Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
- 
+5. 1994 m. birželio 22 d. Tarybos direktyva 94/33/EB dėl dirbančio jaunimo apsaugos su paskutiniais pakeitimais, padarytais 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/27/ES. 
 
 
-Įstatymas papildytas priedu:
-Nr. X-1169, 2007-06-07, Žin., 2007, Nr. 69-2720 (2007-06-23)
+
+
+6. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB, su paskutiniais pakeitimais, padarytais 2018 m. sausio 23 d. Tarybos direktyva (ES) 2018/131.
+
+
 Priedo pakeitimai:
-Nr. XI-2045, 2012-06-05, Žin., 2012, Nr. 69-3525 (2012-06-21)
-Nr. XII-390, 2013-06-18, Žin., 2013, Nr. 73-3652 (2013-07-09)
+Nr. XIV-551, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21218
+ 
 
 
 
@@ -2792,3 +2797,8 @@ Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
 Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 3, 4, 6, 25, 27, 39 ir 41 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-551, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21218
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 4, 15 straipsnių ir priedo pakeitimo įstatymas
