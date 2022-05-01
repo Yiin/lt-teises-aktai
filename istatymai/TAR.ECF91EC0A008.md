@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ecf91ec0a00811e58fd1fc0b9bba68a7"
 
 # Lietuvos Respublikos civilinės būklės aktų registravimo įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2015-12-14, i. k. 2015-19697
  
@@ -178,7 +178,9 @@ Jeigu šiame įstatyme nenustatyta kitaip, civilinės būklės aktas registruoja
 
 
 
-6. Civilinės būklės aktų įrašai rašomi lietuvių kalba. 
+6. Civilinės būklės aktų įrašai rašomi lietuvių kalba. Asmens vardas ir pavardė civilinės būklės aktų įrašuose rašomi Lietuvos Respublikos asmens vardo ir pavardės rašymo dokumentuose įstatymo ir kitų teisės aktų, reglamentuojančių vardų ir pavardžių rašymą dokumentuose, nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1016, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08106
  
 
 
@@ -271,7 +273,10 @@ GIMIMO REGISTRAVIMAS
 12 straipsnis. Gimimo įrašas
 
 
-1. Gimimo įraše vaiko vardas, pavardė, Lietuvos Respublikos pilietybė, taip pat vaiko tėvų duomenys įrašomi Lietuvos Respublikos civilinio kodekso 3.139, 3.140, 3.166, 3.167 straipsniuose ir Lietuvos Respublikos pilietybės įstatyme nustatytais pagrindais. Vaiko tautybė įrašoma pagal tėvų tautybę. Jeigu vaiko tėvai yra skirtingų tautybių, vaiko tautybė įrašoma tėvų susitarimu. Tėvams nesusitarus dėl vaiko tautybės, tautybė neįrašoma.
+1. Gimimo įraše vaiko vardas, pavardė, Lietuvos Respublikos pilietybė, taip pat vaiko tėvų duomenys įrašomi Lietuvos Respublikos civilinio kodekso 3.139, 3.140, 3.166, 3.167 straipsniuose ir Lietuvos Respublikos pilietybės įstatyme nustatytais pagrindais. Vaiko tautybė įrašoma pagal tėvų tautybę. Jeigu vaiko tėvai yra skirtingų tautybių, vaiko tautybė įrašoma tėvų susitarimu pagal vieno iš jų tautybę. Tėvams nesusitarus dėl vaiko tautybės, tautybė neįrašoma.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1016, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08106
+ 
 
 
 
@@ -566,7 +571,10 @@ CIVILINĖS BŪKLĖS AKTŲ ĮRAŠŲ KEITIMAS, TAISYMAS, PAPILDYMAS, ATKŪRIMAS IR
 
 
 
-2. Civilinės būklės aktų įrašai keičiami ar papildomi, kai paaiškėja nauji (pasikeitę) duomenys apie asmenį, jo tėvus ar sutuoktinį ir yra tai patvirtinantis dokumentas.
+2. Civilinės būklės aktų įrašai keičiami ar papildomi, kai paaiškėja nauji (pasikeitę) duomenys apie asmenį, jo tėvus ar sutuoktinį ir yra tai patvirtinantis dokumentas. Civilinės būklės aktų įrašai taip pat keičiami ar papildomi, kai asmuo nori pasirinkti vieno iš savo tėvų ar senelių tautybę ir pageidauja duomenis apie savo tautybę civilinės būklės aktų įrašuose pakeisti ar šiais duomenimis papildyti civilinės būklės aktų įrašus, kuriuose tokių duomenų nėra. Duomenys apie vaiko tautybę gimimo įraše keičiami ar šiais duomenimis gimimo įrašas, kuriame tokių duomenų nėra, papildomas mutatis mutandis taikant šio įstatymo 12 straipsnio 1 dalies nuostatas dėl vaiko tautybės įrašymo. Duomenys apie tautybę išbraukiami iš civilinės būklės aktų įrašų, kuriuose jie buvo įrašyti, asmens pageidavimu ar vaiko tėvų susitarimu. Duomenys apie tautybę civilinės būklės aktų įrašuose keičiami ar iš civilinės būklės aktų įrašų išbraukiami arba civilinės būklės aktų įrašai duomenimis apie tautybę papildomi Civilinės būklės aktų registravimo taisyklėse nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1016, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08106
+ 
 
 
 
@@ -680,3 +688,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2340, 2019-07-16, paskelbta TAR 2019-07-30, i. k. 2019-12536
 Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo Nr. XII-2111 15 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1016, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08106
+Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo Nr. XII-2111 6, 12 ir 25 straipsnių pakeitimo įstatymas
