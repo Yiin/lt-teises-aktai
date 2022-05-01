@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -83,7 +83,18 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis ir (arba) konstrukcijomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir panašiai).
+1. Buitinės nuotekos – nuotekos, kurios susidaro namų ūkyje naudojant vandenį buitiniams poreikiams. Prie buitinių nuotekų priskiriamos ir nuotekos, susidarančios naudojant vandenį įmonių, įstaigų, organizacijų darbuotojų buitiniams poreikiams, jeigu jos surenkamos ir išleidžiamos atskirai nuo kitų objekte susidarančių nuotekų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
+ 
+
+
+
+
+11. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis ir (arba) konstrukcijomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir panašiai).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
+ 
 
 
 
@@ -786,12 +797,18 @@ Paviršinių vandens telkinių ir (arba) jų vandens naudojimo žuvininkystei ir
 
 
 
-5) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos, kuriose yra prioritetinių medžiagų, kurių išleidimas turi būti nuosekliai nutrauktas (neatsižvelgiant į išleidžiamų prioritetinių medžiagų kiekį);
+5) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (išskyrus buitines nuotekas), kuriose prioritetinių medžiagų, kurių išleidimas turi būti nuosekliai nutrauktas, koncentracija viršija aplinkos ministro nustatytas išleidžiamųjų teršalų ribines vertes;
+Straipsnio punkto pakeitimai:
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
+ 
 
 
 
 
-6) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (neatsižvelgiant į išleidžiamų nuotekų kiekį / debitą), kuriose prioritetinių medžiagų, kurių išleidimas turi būti mažinamas, koncentracija yra lygi arba didesnė už aplinkos ministro nustatytą ribinės koncentracijos į gamtinę aplinką vertę;
+6) išleidžiamos (planuojamos išleisti) į gamtinę aplinką nuotekos (išskyrus buitines nuotekas), kuriose prioritetinių medžiagų, kurių išleidimas turi būti mažinamas, koncentracija viršija aplinkos ministro nustatytas išleidžiamųjų teršalų ribines vertes;
+Straipsnio punkto pakeitimai:
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
+ 
 
 
 
@@ -1147,6 +1164,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos
 vandens įstatymo
@@ -1217,3 +1236,11 @@ Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112
 Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
+Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3 ir 18 straipsnių pakeitimo įstatymas
+ 
+ 
+part_62f8e77b0fd447d4b658779caf439505_end
