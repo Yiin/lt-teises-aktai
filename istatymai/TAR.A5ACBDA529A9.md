@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -1096,7 +1096,10 @@ PAJAMŲ IR SĄNAUDŲ PRIPAŽINIMAS
 7 straipsnis. Pajamų ir sąnaudų pripažinimas
 
 
-1. Pajamos ir sąnaudos pripažįstamos pagal pajamų ir sąnaudų kaupimo bei kitus buhalterinę apskaitą reglamentuojančiuose teisės aktuose nustatytus apskaitos principus, išskyrus atvejus, kai pagal šio skyriaus nuostatas pajamos gali būti pripažįstamos taikant pinigų apskaitos principą, ir šio straipsnio nuostatas.
+1. Pajamos ir sąnaudos pripažįstamos pagal pajamų ir sąnaudų kaupimo bei kitus finansinę apskaitą reglamentuojančiuose teisės aktuose nustatytus apskaitos principus, išskyrus atvejus, kai pagal šio skyriaus nuostatas pajamos gali būti pripažįstamos taikant pinigų apskaitos principą, ir šio straipsnio nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
+ 
 
 
 
@@ -1217,7 +1220,10 @@ APMOKESTINAMOJO PELNO APSKAIČIAVIMO TVARKA
 
 
 
-4. Išlaidos, kurių pagrindu pripažįstamos sąnaudos, gali būti grindžiamos tik juridinę galią turinčiais dokumentais, kurie privalo turėti visus buhalterinę apskaitą reglamentuojančių teisės aktų nustatytus privalomus apskaitos dokumentų rekvizitus. Be šių rekvizitų, išlaidas, kurių pagrindu pripažįstamos sąnaudos, pagrindžiančiuose dokumentuose privalo būti nurodyti ir kiti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyti papildomi rekvizitai.
+4. Išlaidos, kurių pagrindu pripažįstamos sąnaudos, gali būti grindžiamos tik dokumentais, kurie privalo turėti finansinę apskaitą reglamentuojančių teisės aktų nustatytą privalomą finansinės apskaitos dokumentų informaciją. Be šios informacijos, išlaidų, kurių pagrindu pripažįstamos sąnaudos, pagrindimo dokumentuose privalo būti nurodyta ir kita Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta informacija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
+ 
 
 
 
@@ -1323,7 +1329,10 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 
 
-11) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal Lietuvos Respublikos buhalterinės apskaitos įstatymo 18 straipsnį;
+11) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal finansinės apskaitos tvarkymą reglamentuojančius teisės aktus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
+ 
 
 
 
@@ -2417,7 +2426,10 @@ NELEIDŽIAMI ATSKAITYMAI
 
 
 
-14) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal Lietuvos Respublikos buhalterinės apskaitos įstatymo 18 straipsnį;
+14) praėjusių mokestinių laikotarpių klaidų ir netikslumų taisymai pagal finansinės apskaitos tvarkymą reglamentuojančius teisės aktus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
+ 
 
 
 
@@ -3191,9 +3203,10 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 
 
-6. Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos eurais taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą pajamų ir sąnaudų priskyrimo dieną. 
+6. Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos eurais taikant euro ir užsienio valiutos santykį, nustatytą pagal Lietuvos Respublikos finansinės apskaitos įstatymą pajamų ir sąnaudų priskyrimo dieną.
 Straipsnio dalies pakeitimai:
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
  
 
 
@@ -4216,30 +4229,27 @@ APSKAITOS REIKALAVIMAI
  
 
 
-57 straipsnis. Buhalterinės apskaitos tvarkymo reikalavimai
+57 straipsnis. Finansinės apskaitos tvarkymo reikalavimai
 
 
-1. Mokesčio mokėtojų buhalterinė apskaita privalo būti tvarkoma taip, kad ji teiktų pakankamą informaciją pelno mokesčiui apskaičiuoti.
-
-
-
-
-2. Mokesčio mokėtojai apskaitą tvarko ir finansinių ataskaitų rinkinius sudaro vadovaudamiesi Lietuvos Respublikos buhalterinės apskaitos įstatymu ir kitais teisės aktais.
+1. Mokesčio mokėtojų finansinė apskaita privalo būti tvarkoma taip, kad ji teiktų pakankamą informaciją pelno mokesčiui apskaičiuoti.
 
 
 
 
-3. Pelno mokesčiui skaičiuoti vienetas gali naudoti buhalterinėje apskaitoje naudojamus visuotinai pripažintus pajamų, sąnaudų pripažinimo, atsargų įkainojimo metodus, jei šis Įstatymas nenustato ko kita.
+2. Mokesčio mokėtojai finansinę apskaitą tvarko vadovaudamiesi Finansinės apskaitos įstatymu ir kitais teisės aktais, reglamentuojančiais finansinės apskaitos tvarkymą.
 
 
 
 
-4. Apskaičiuojant pelno mokestį, atsargos apskaitomos „pirmasis į – pirmasis iš (FIFO)“ metodu. Centrinio mokesčio administratoriaus nustatyta tvarka mokesčio mokėtojo prašymu ir atsižvelgdamas į jo veiklos ypatybes vietos mokesčio administratorius gali leisti apskaityti atsargas taikant tą buhalterinę apskaitą reglamentuojančių teisės aktų numatytą metodą, kurį vienetas taiko sudarydamas finansinių ataskaitų rinkinį.
+3. Pelno mokesčiui skaičiuoti vienetas gali naudoti finansinėje apskaitoje naudojamus visuotinai pripažintus pajamų, sąnaudų pripažinimo, atsargų įkainojimo būdus, jeigu šis Įstatymas nenustato ko kita.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1659, 2003-07-01, Žin., 2003, Nr. 74-3417 (2003-07-25)
 Nr. XI-1716, 2011-11-22, Žin., 2011, Nr. 146-6852 (2011-12-01)
+Straipsnio pakeitimai:
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
  
 
 
@@ -5324,3 +5334,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2 ir 58 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-39, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27347
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 5 ir 30 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 7, 11, 12, 31, 39-1 ir 57 straipsnių pakeitimo įstatymas
