@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -48,11 +48,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas reglamentuoja su tabako gaminių ir su tabako gaminiais susijusių gaminių gamyba, prekyba, laikymu, gabenimu, įvežimu, importu, reklama, vartojimu, įsigijimo ir (ar) vartojimo skatinimu bei rėmimu, taip pat su tabako, tabako gaminių ir su tabako gaminiais susijusių gaminių pateikimu rinkai ir ženklinimu susijusius santykius ir nustato valstybės tabako, tabako gaminių ir su tabako gaminiais susijusių gaminių kontrolės pagrindus Lietuvos Respublikoje. 
+1. Šis Įstatymas reglamentuoja su neapdoroto tabako, tabako gaminių ir su tabako gaminiais susijusių gaminių gamyba, prekyba, laikymu, gabenimu, įvežimu, importu, reklama, vartojimu, įsigijimo ir (ar) vartojimo skatinimu bei rėmimu, taip pat su neapdoroto tabako, tabako gaminių ir su tabako gaminiais susijusių gaminių pateikimu rinkai ir ženklinimu susijusius santykius ir nustato valstybės tabako, tabako gaminių ir su tabako gaminiais susijusių gaminių kontrolės pagrindus Lietuvos Respublikoje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1916, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11094
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 Nr. XIII-3378, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24525
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -63,7 +64,10 @@ Nr. XIII-3378, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24525
 
 
 
-3. Tabako gaminiai ir su jais susiję gaminiai yra priskiriami specialiems gaminiams, kurių gamybai, prekybai, įvežimui, importui, reklamai, kitoms su jais susijusioms veiklos rūšims ir vartojimui pagal šį ir kitus įstatymus bei teisės aktus taikomas ypatingas valstybinis teisinis reglamentavimas.
+3. Neapdorotas tabakas, tabako gaminiai ir su tabako gaminiais susiję gaminiai yra priskiriami specialiems gaminiams, kurių gamybai, prekybai, įvežimui, importui, reklamai, kitoms su jais susijusioms veiklos rūšims ir vartojimui pagal šį ir kitus įstatymus bei teisės aktus taikomas ypatingas valstybinis teisinis reglamentavimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
@@ -144,7 +148,10 @@ Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
 
 
 
-8. Elektroninė cigaretė – gaminys, naudojamas garams, kuriuose yra nikotino, vartoti per kandiklį, arba bet kuri tokio gaminio sudedamoji dalis, įskaitant kapsulę, rezervuarą ir įtaisą be kapsulės ar rezervuaro. Elektroninės cigaretės gali būti vienkartinės arba daugkartinės (pripildomos iš elektroninių cigarečių pildyklės arba keičiamos vienkartinės kapsulės).
+8. Elektroninė cigaretė – gaminys, kuris gali būti naudojamas garams, kuriuose yra nikotino, vartoti per kandiklį, arba bet kuri tokio gaminio sudedamoji dalis, įskaitant kapsulę, rezervuarą ir įtaisą be kapsulės ar rezervuaro. Elektroninės cigaretės gali būti vienkartinės arba užpildomos iš pildomosios talpyklos ir rezervuaro, arba daugkartinės su keičiamomis vienkartinėmis kapsulėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
+ 
 
 
 
@@ -208,6 +215,14 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 20. Neapdorotas tabakas – nesmulkinti ar kitaip neapdoroti tabako lapai ir kitos tabako dalys, išskyrus tuos, kurie pagal Lietuvos Respublikos akcizų įstatymą laikomi apdorotu tabaku.
+
+
+
+
+201. Neapdoroto tabako didmeninės prekybos sandėlis – Nekilnojamojo turto registre įregistruota kaip sandėlis patalpa, kurioje vykdoma neapdoroto tabako didmeninė prekyba. 
+Papildyta straipsnio dalimi:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
@@ -307,17 +322,19 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-40. Tabako gaminių ir (ar) susijusių gaminių importas – tabako gaminių ir (ar) susijusių gaminių įvežimas į Europos Sąjungos teritoriją, nebent gaminiams yra taikoma sąlyginio neapmokestinimo procedūra arba tvarka jų įvežimo į Europos Sąjungą metu, taip pat sąlyginio neapmokestinimo procedūros arba tvarkos taikymo nutraukimas. 
+40. Neapdoroto tabako, tabako gaminių ir (ar) susijusių gaminių importas – neapdoroto tabako, tabako gaminių ir (ar) susijusių gaminių įvežimas į Europos Sąjungos teritoriją, nebent gaminiams yra taikoma sąlyginio neapmokestinimo procedūra arba tvarka jų įvežimo į Europos Sąjungą metu, taip pat sąlyginio neapmokestinimo procedūros arba tvarkos taikymo nutraukimas. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
 
 
-41. Tabako gaminių ir (ar) susijusių gaminių importuotojas – į Europos Sąjungos teritoriją įvežtų tabako ir (ar) susijusių gaminių savininkas arba asmuo, turintis teisę jais disponuoti. 
+41. Neapdoroto tabako, tabako gaminių ir (ar) susijusių gaminių importuotojas – į Europos Sąjungos teritoriją įvežtų neapdoroto tabako, tabako ir (ar) susijusių gaminių savininkas arba asmuo, turintis teisę jais disponuoti. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -328,9 +345,10 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-43. Tabako gaminių ir (ar) susijusių gaminių įvežimas – tabako gaminių ir (ar) susijusių gaminių įvežimas iš Europos Sąjungos valstybių narių į Lietuvos Respubliką (išskyrus fizinių asmenų įvežamus tabako gaminius ir (ar) susijusius gaminius). 
+43. Neapdoroto tabako, tabako gaminių ir (ar) susijusių gaminių įvežimas – neapdoroto tabako, tabako gaminių ir (ar) susijusių gaminių įvežimas iš Europos Sąjungos valstybių narių į Lietuvos Respubliką (išskyrus fizinių asmenų įvežamus tabako gaminius ir (ar) susijusius gaminius). 
 Straipsnio dalies pakeitimai:
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -401,7 +419,10 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-55. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcizų įstatyme, Lietuvos Respublikos produktų saugos įstatyme, Lietuvos Respublikos švietimo įstatyme ir Lietuvos Respublikos vartotojų teisių apsaugos įstatyme.
+55. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcizų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos produktų saugos įstatyme, Lietuvos Respublikos švietimo įstatyme ir Lietuvos Respublikos vartotojų teisių apsaugos įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
  Straipsnio pakeitimai:
@@ -467,7 +488,10 @@ Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
 
 
 
-9) vykdyti tabako gaminių ir susijusių gaminių kontrolę ir stebėseną (monitoringą);
+9) vykdyti tabako, tabako gaminių ir susijusių gaminių kontrolę ir stebėseną (monitoringą); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
@@ -500,14 +524,17 @@ Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
 
 
 II SKYRIUS
-TABAKO GAMINIŲ IR SUSIJUSIŲ GAMINIŲ SUDĖTIES, KOKYBĖS IR ŽENKLINIMO, INFORMACIJOS APIE TABAKO GAMINIUS, SUSIJUSIUS GAMINIUS IR NAUJOVIŠKUS TABAKO GAMINIUS TEIKIMO REIKALAVIMAI 
+TABAKO GAMINIŲ IR SUSIJUSIŲ GAMINIŲ SUDĖTIES, KOKYBĖS IR ŽENKLINIMO, INFORMACIJOS APIE NEAPDOROTĄ TABAKĄ, TABAKO GAMINIUS, SUSIJUSIUS GAMINIUS IR NAUJOVIŠKUS TABAKO GAMINIUS TEIKIMO REIKALAVIMAI 
 Pakeistas skyriaus pavadinimas:
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
 PIRMASIS SKIRSNIS
-TABAKO GAMINIŲ SUDĖTIES, KOKYBĖS IR ŽENKLINIMO REIKALAVIMAI
+TABAKO GAMINIŲ SUDĖTIES, KOKYBĖS IR ŽENKLINIMO, INFORMACIJOS APIE NEAPDOROTĄ TABAKĄ, TABAKO GAMINIUS TEIKIMO REIKALAVIMAI 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -1139,7 +1166,7 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-91 straipsnis. Tabako gaminių gamybos ir realizavimo ataskaitos
+91 straipsnis. Tabako gaminių gamybos, neapdoroto tabako ir tabako gaminių realizavimo ataskaitos
 
 
 1. Tabako gaminių gamintojai kas ketvirtį iki kito ketvirčio pirmojo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui tabako gaminių gamybos ir realizavimo per ketvirtį ataskaitą.
@@ -1147,10 +1174,12 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-2. Lietuvos Respublikoje įsteigti juridiniai asmenys ir užsienio juridinių asmenų filialai, turintys licenciją verstis didmenine prekyba tabako gaminiais, kas ketvirtį iki kito ketvirčio pirmojo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui tabako gaminių realizavimo per ketvirtį ataskaitą.
+2. Lietuvos Respublikoje įsteigti juridiniai asmenys ir užsienio juridinių asmenų filialai, turintys licenciją verstis didmenine prekyba neapdorotu tabaku ar tabako gaminiais, kas ketvirtį iki kito ketvirčio pirmojo mėnesio 10 dienos Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui neapdoroto tabako, tabako gaminių realizavimo per ketvirtį ataskaitas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
-
-
 
 
 
@@ -1162,7 +1191,7 @@ ELEKTRONINIŲ CIGAREČIŲ, ELEKTRONINIŲ CIGAREČIŲ PILDYKLIŲ, RŪKOMŲJŲ ŽO
  
 
 
-92 straipsnis. Elektroninių cigarečių ir elektroninių cigarečių pildyklių sudėties ir kokybės bendrieji reikalavimai 
+92 straipsnis. Elektroninių cigarečių ir elektroninių cigarečių pildyklių sudėties ir kokybės bendrieji reikalavimai
 
 
 1. Lietuvos Respublikoje pateikiamos rinkai elektroninės cigaretės ir elektroninių cigarečių pildyklės turi atitikti šiame Įstatyme ir kituose teisės aktuose nustatytus reikalavimus, išskyrus elektronines cigaretes ir elektroninių cigarečių pildykles, kurios nustatyta tvarka yra įrašytos į Lietuvos Respublikos vaistinių preparatų registrą. 
@@ -1170,10 +1199,10 @@ ELEKTRONINIŲ CIGAREČIŲ, ELEKTRONINIŲ CIGAREČIŲ PILDYKLIŲ, RŪKOMŲJŲ ŽO
 
 
 
-2. Pateikiamos rinkai elektroninės cigaretės ir elektroninių cigarečių pildyklės turi atitikti šiuos reikalavimus:
+2. Pateikiamos rinkai elektroninės cigaretės ir elektroninių cigarečių pildyklės turi atitikti šiuos reikalavimus: 
 
 
-1) skystis, kuriame yra nikotino, pateikiamas rinkai tik tam skirtose elektroninių cigarečių pildyklėse, kurių tūris yra ne didesnis kaip 10 mililitrų, vienkartinėse elektroninėse cigaretėse arba vienkartinėse kapsulėse ar rezervuaruose, o kapsulių ar rezervuarų tūris yra ne didesnis kaip 2 mililitrai;
+1) skystis, kuriame yra nikotino, pateikiamas rinkai tik tam skirtose elektroninių cigarečių pildyklėse, kurių tūris yra ne didesnis kaip 10 mililitrų, vienkartinėse elektroninėse cigaretėse arba vienkartinėse kapsulėse ar rezervuaruose, o kapsulių ar rezervuarų tūris yra ne didesnis kaip 2 mililitrai; 
 
 
 
@@ -1183,29 +1212,29 @@ ELEKTRONINIŲ CIGAREČIŲ, ELEKTRONINIŲ CIGAREČIŲ PILDYKLIŲ, RŪKOMŲJŲ ŽO
 
 
 
-3) gaminant nikotino turintį skystį naudotos tik tokios sudedamosios dalys, kurios jas kaitinant arba jų nekaitinant nėra pavojingos žmogaus sveikatai, išskyrus nikotiną;
+3) gaminant skystį naudotos tik tokios sudedamosios dalys, kurios jas kaitinant arba jų nekaitinant nėra pavojingos žmogaus sveikatai, išskyrus nikotiną skystyje, turinčiame nikotino; 
 
 
 
 
-4) nikotino kiekis įprastomis vartojimo sąlygomis nuosekliai dozuojamas elektroninėmis cigaretėmis;
+4) nikotino kiekis įprastomis vartojimo sąlygomis nuosekliai dozuojamas elektroninėmis cigaretėmis; 
 
 
 
 
-5) elektroninės cigaretės ir elektroninių cigarečių pildyklės turi sustiprintą apsaugą nuo vaikų (įskaitant įspėjimus apie elektroninių cigarečių keliamą grėsmę vaikams ar būtinybę jas saugoti nuo vaikų, sudėtingesnį įjungimo mechanizmą ar kitas priemones, ribojančias vaikų galimybes naudoti elektronines cigaretes ir kt.) ir yra apsaugotos nuo sugadinimo, įskilimo bei pralaidumo ir turi mechanizmą, kuris užtikrina, kad jas pildant neištekėtų skystis. Pildymo mechanizmas turi atitikti reikalavimus, nustatytus 2016 m. balandžio 14 d. Komisijos įgyvendinimo sprendime (ES) 2016/586 dėl elektroninių cigarečių pildymo mechanizmo techninių standartų (OL 2016 L 101, p. 15).
+5) elektroninės cigaretės ir elektroninių cigarečių pildyklės turi sustiprintą apsaugą nuo vaikų (įskaitant įspėjimus apie elektroninių cigarečių keliamą grėsmę vaikams ar būtinybę jas saugoti nuo vaikų, sudėtingesnį įjungimo mechanizmą ar kitas priemones, ribojančias vaikų galimybes naudoti elektronines cigaretes ir kt.) ir yra apsaugotos nuo sugadinimo, įskilimo bei pralaidumo ir turi mechanizmą, kuris užtikrina, kad jas pildant neištekėtų skystis. Pildymo mechanizmas turi atitikti reikalavimus, nustatytus 2016 m. balandžio 14 d. Komisijos įgyvendinimo sprendime (ES) 2016/586 dėl elektroninių cigarečių pildymo mechanizmo techninių standartų. 
 
 
 
 
 
 
-3. Gaminant nikotino turintį skystį, naudojamos tik labai grynos sudedamosios dalys. Kitų medžiagų negu gaminio (pagal gaminio prekių ženklą ir rūšį) sudedamųjų dalių ir jį vartojant susidarančių išsiskiriančių medžiagų nikotino turinčiame skystyje gali būti tik toks kiekis, kurio technologiškai negalima išvengti gamybos metu.
+3. Gaminant skystį naudojamos tik labai grynos sudedamosios dalys. Kitų medžiagų negu gaminio (pagal gaminio prekių ženklą ir rūšį) sudedamųjų dalių ir jį vartojant susidarančių išsiskiriančių medžiagų skystyje gali būti tik toks kiekis, kurio technologiškai negalima išvengti gamybos metu. 
 
 
 
 
-4. Draudžiama pateikti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles, jeigu nikotino turinčiame skystyje yra šių priedų: 
+4. Draudžiama pateikti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles, jeigu skystyje yra šių priedų: 
 
 
 1) vitaminų arba kitų priedų, kurie sudaro įspūdį, kad elektroninės cigaretės ir elektroninių cigarečių pildyklės yra naudingos ar mažiau kenksmingos sveikatai; 
@@ -1224,11 +1253,13 @@ ELEKTRONINIŲ CIGAREČIŲ, ELEKTRONINIŲ CIGAREČIŲ PILDYKLIŲ, RŪKOMŲJŲ ŽO
 
 
 4) priedų, kurie nesudeginto pavidalo turi KMR savybių. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
  
-
-
-
-
 
 
 
@@ -1653,10 +1684,11 @@ VEIKLOS RŪŠIŲ LICENCIJAVIMAS
 10 straipsnis. Veiklos rūšių licencijavimas ir licencijų rūšys
 
 
-1. Lietuvos Respublikoje verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir mažmenine prekyba leidžiama tik turint nustatyta tvarka išduotas licencijas. 
+1. Lietuvos Respublikoje verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir mažmenine prekyba, neapdoroto tabako didmenine prekyba leidžiama tik turint nustatyta tvarka išduotas licencijas. Reikalavimas turėti licenciją verstis neapdoroto tabako didmenine prekyba netaikomas licencijų verstis tabako gaminių gamyba turėtojams, naudojantiems neapdorotą tabaką tabako gaminių gamybai. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1916, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11094
 Nr. XIII-3378, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24525
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -1683,7 +1715,7 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 11 straipsnis. Licencijų išdavimas, atsisakymas išduoti licenciją, licencijos galiojimo sustabdymas, licencijos galiojimo panaikinimas
 
 
-1. Licencijos verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba ir didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais gali būti išduodamos Lietuvos Respublikoje įsteigtiems juridiniams asmenims ir užsienio juridinių asmenų filialams. Licencijos verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais gali būti išduodamos Lietuvos Respublikoje įsteigtiems juridiniams asmenims ir užsienio juridinių asmenų filialams, kitose Europos ekonominės erdvės susitarimo dalyvėse įsteigtiems juridiniams asmenims ar kitoms organizacijoms ir jų filialams (toliau kartu – juridiniai asmenys ir užsienio juridinių asmenų filialai).
+1. Licencijos verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba ir didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais, neapdorotu tabaku gali būti išduodamos Lietuvos Respublikoje įsteigtiems juridiniams asmenims ir užsienio juridinių asmenų filialams. Licencijos verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais gali būti išduodamos Lietuvos Respublikoje įsteigtiems juridiniams asmenims ir užsienio juridinių asmenų filialams, kitose Europos ekonominės erdvės susitarimo dalyvėse įsteigtiems juridiniams asmenims ar kitoms organizacijoms ir jų filialams (toliau kartu – juridiniai asmenys ir užsienio juridinių asmenų filialai).
 
 
 
@@ -1701,54 +1733,64 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-3) juridiniam asmeniui ir užsienio juridinio asmens filialui ar jų vadovams nėra įsiteisėjusio apkaltinamojo teismo nuosprendžio dėl bausmės skyrimo, įsiteisėjusio teismo nutarimo, nutarties, įsiteisėjusio atitinkamo muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės vartotojų teisių apsaugos tarnybos (toliau šiame straipsnyje – Tarnyba) ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimo dėl nuobaudos skyrimo už tabako gaminių, su tabako gaminiais susijusių gaminių kontrabandą, falsifikuotų tabako gaminių, su tabako gaminiais susijusių gaminių pardavimą, laikymą ar gabenimą, tabako gaminių, su tabako gaminiais susijusių gaminių pardavimą, laikymą ar gabenimą be tabako gaminių, be su tabako gaminiais susijusių gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą arba nuo šio apkaltinamojo teismo nuosprendžio, teismo nutarimo, nutarties, muitinės, Valstybinės mokesčių inspekcijos, policijos, Tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimo dėl bausmės ar nuobaudos skyrimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai;
+3) juridiniam asmeniui, užsienio juridinio asmens filialui ar jų vadovams nėra įsiteisėjusio apkaltinamojo teismo nuosprendžio dėl bausmės skyrimo, įsiteisėjusio teismo nutarimo, nutarties, įsiteisėjusio atitinkamo Lietuvos Respublikos muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės vartotojų teisių apsaugos tarnybos (toliau šiame straipsnyje – Tarnyba) ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimo dėl nuobaudos skyrimo už neapdoroto tabako, tabako gaminių, su tabako gaminiais susijusių gaminių kontrabandą, falsifikuotų neapdoroto tabako, tabako gaminių, su tabako gaminiais susijusių gaminių pardavimą, laikymą ar gabenimą, neapdoroto tabako, tabako gaminių, su tabako gaminiais susijusių gaminių pardavimą, laikymą ar gabenimą be neapdoroto tabako, tabako gaminių, su tabako gaminiais susijusių gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą arba nuo šio apkaltinamojo teismo nuosprendžio, teismo nutarimo, nutarties, Lietuvos Respublikos muitinės, Valstybinės mokesčių inspekcijos, policijos, Tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimo dėl bausmės ar nuobaudos skyrimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai; 
 
 
 
 
-4) juridinio asmens ar užsienio juridinio asmens filialo vadovai nėra (nebuvo) juridinio asmens ar užsienio juridinio asmens filialo vadovai ar kiti darbuotojai, jeigu jie veikė juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jo interesų, tuo metu, kai juridiniam asmeniui ar užsienio juridinio asmens filialui buvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 3 punkte, 16 dalies 4 punkte ar 26 straipsnio 5 dalyje nustatytais pagrindais, o jeigu licencijos galiojimas buvo panaikintas, – nuo šios dalies 3 punkte nurodyto nuosprendžio, nutarties ar nutarimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai;
+4) juridinio asmens ar užsienio juridinio asmens filialo vadovai nėra (nebuvo) juridinio asmens ar užsienio juridinio asmens filialo vadovai ar kiti darbuotojai, jeigu jie veikė juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jo interesų tuo metu, kai juridiniam asmeniui ar užsienio juridinio asmens filialui buvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 3 punkte, 16 dalies 4 punkte ar šio Įstatymo 26 straipsnio 5 dalyje nustatytais pagrindais, o jeigu licencijos galiojimas buvo panaikintas, – nuo šio straipsnio 2 dalies 3 punkte nurodyto nuosprendžio, nutarties ar nutarimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai;
 
 
 
 
-5) per pastaruosius penkerius metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 3 punkte, 16 dalies 4 punkte ar 26 straipsnio 5 dalyje nustatytais pagrindais;
+5) per pastaruosius penkerius metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 3 punkte, 16 dalies 4 punkte ar šio Įstatymo 26 straipsnio 5 dalyje nustatytais pagrindais;
 
 
 
 
-6) per pastaruosius vienus metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 5 punkte, 16 dalies 6 punkte ar 26 straipsnio 8 dalyje nustatytais pagrindais;
+6) per pastaruosius vienus metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas šio straipsnio 15 dalies 5 punkte, 16 dalies 6 punkte ar šio Įstatymo 26 straipsnio 8 dalyje nustatytais pagrindais;
 
 
 
 
-7) per pastaruosius trejus metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais galiojimas už šio Įstatymo 14 straipsnio 5 dalies 3 punkto reikalavimų pažeidimą toje prekybos vietoje, kuriai prašoma išduoti licenciją;
+7) per pastaruosius trejus metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais galiojimas už šio Įstatymo 14 straipsnio 5 dalies 3 punkte nustatytų reikalavimų pažeidimą toje prekybos vietoje, kurioje prašoma išduoti licenciją;
 
 
 
 
-8) didmeninė prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais bus vykdoma ir (ar) tabako gaminiai, su tabako gaminiais susiję gaminiai bus laikomi tabako gaminių, su tabako gaminiais susijusių gaminių didmeninės prekybos sandėliuose (taikoma tais atvejais, kai Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas prašo išduoti licenciją verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais);
+8) didmeninė prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais  bus vykdoma ir (ar) tabako gaminiai, su tabako gaminiais susiję gaminiai bus laikomi tabako gaminių, su tabako gaminiais susijusių gaminių didmeninės prekybos sandėliuose (taikoma tais atvejais, kai Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas prašo išduoti licenciją verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais);
 
 
 
 
-9) turi Tarnybos išduotą dokumentą, patvirtinantį, kad numatomų gaminti tabako gaminių, su tabako gaminiais susijusių gaminių kokybės rodikliai atitinka Lietuvos Respublikos teisės aktų nustatytus saugos ir kokybės rodiklius (taikoma tais atvejais, kai Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas prašo išduoti licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba); 
+9) turi Tarnybos išduotą dokumentą, patvirtinantį, kad numatomų gaminti tabako gaminių, su tabako gaminiais susijusių gaminių kokybės rodikliai atitinka Lietuvos Respublikos teisės aktų nustatytus saugos ir kokybės rodiklius (taikoma tais atvejais, kai Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas prašo išduoti licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba);
 
 
 
 
-10) juridinis asmuo ar užsienio juridinio asmens filialas užtikrina, kad prekybos vieta, kurioje ketinama verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir prekybos jais būdas pasirinkti nepažeidžiant šio Įstatymo 15 straipsnyje nustatytų draudimų ir ribojimų (taikoma tais atvejais, kai juridinis asmuo ar užsienio juridinio asmens filialas prašo išduoti licenciją verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais).
+10) juridinis asmuo ar užsienio juridinio asmens filialas užtikrina, kad prekybos vieta, kurioje ketinama verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir prekybos jais būdas pasirinkti nepažeidžiant šio Įstatymo 15 straipsnyje nustatytų draudimų ir ribojimų (taikoma tais atvejais, kai juridinis asmuo ar užsienio juridinio asmens filialas prašo išduoti licenciją verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais);
+
+
+
+
+11) didmeninė prekyba neapdorotu tabaku bus vykdoma ir (ar) neapdorotas tabakas bus laikomas neapdoroto tabako didmeninės prekybos sandėlyje (taikoma tais atvejais, kai Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas prašo išduoti licenciją verstis didmenine prekyba neapdorotu tabaku);
+
+
+
+
+12) atitinka minimalius patikimo mokesčių mokėtojo kriterijus, nustatytus Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje (taikoma tais atvejais, kai Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas prašo išduoti licenciją verstis tabako gaminių gamyba, licenciją verstis didmenine prekyba tabako gaminiais ar licenciją verstis didmenine prekyba neapdorotu tabaku).
 
 
 
 
 
 
-3. Licencijas verstis tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių gamyba ir didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais, vadovaudamasis Lietuvos Respublikos Vyriausybės patvirtintomis licencijavimo taisyklėmis, išduoda, apie galimą licencijos galiojimo sustabdymą ar panaikinimą įspėja, licencijos galiojimą sustabdo, licencijos galiojimo sustabdymą ar licencijos galiojimą panaikina Narkotikų, tabako ir alkoholio kontrolės departamentas.
+3. Licencijas verstis tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių gamyba, didmenine prekyba neapdorotu tabaku, tabako gaminiais, su tabako gaminiais susijusiais gaminiais, vadovaudamasis Lietuvos Respublikos Vyriausybės patvirtintomis licencijavimo taisyklėmis, išduoda, apie galimą licencijos galiojimo sustabdymą ar panaikinimą įspėja, licencijos galiojimą sustabdo, licencijos galiojimo sustabdymą ar licencijos galiojimą panaikina Narkotikų, tabako ir alkoholio kontrolės departamentas.
 
 
 
 
-4. Licencijas verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais (įskaitant mažmeninę prekybą tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais iš automobilinių parduotuvių), vadovaudamasi Lietuvos Respublikos Vyriausybės patvirtintomis licencijavimo taisyklėmis, išduoda, apie galimą licencijos galiojimo sustabdymą ar panaikinimą įspėja, licencijos galiojimą sustabdo, licencijos galiojimo sustabdymą ar licencijos galiojimą panaikina savivaldybės, kurios teritorijoje juridinis asmuo ar užsienio juridinio asmens filialas versis (verčiasi) mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, vykdomoji institucija, o verstis mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais keleiviams vežti skirtose transporto priemonėse, kuriomis juridinis asmuo ar užsienio juridinio asmens filialas teikia keleivių vežimo oro, vandens ar geležinkelių transporto priemonėmis paslaugas (toliau – keleiviams vežti skirtos transporto priemonės), – savivaldybės, kurios teritorijoje yra Lietuvos Respublikoje įsteigto juridinio asmens ar užsienio juridinio asmens filialo, pageidaujančio verstis (besiverčiančio) mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais keleiviams vežti skirtose transporto priemonėse, buveinė, vykdomoji institucija.
+4. Licencijas verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais  (įskaitant mažmeninę prekybą tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais iš automobilinių parduotuvių), vadovaudamasi Lietuvos Respublikos Vyriausybės patvirtintomis licencijavimo taisyklėmis, išduoda, apie galimą licencijos galiojimo sustabdymą ar panaikinimą įspėja, licencijos galiojimą sustabdo, licencijos galiojimo sustabdymą ar licencijos galiojimą panaikina savivaldybės, kurios teritorijoje juridinis asmuo ar užsienio juridinio asmens filialas versis (verčiasi) mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais,  vykdomoji institucija, o verstis mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais keleiviams vežti skirtose transporto priemonėse, kuriomis juridinis asmuo ar užsienio juridinio asmens filialas teikia keleivių vežimo oro, vandens ar geležinkelių transporto priemonėmis paslaugas (toliau – keleiviams vežti skirtos transporto priemonės), – savivaldybės, kurios teritorijoje yra Lietuvos Respublikoje įsteigto juridinio asmens ar užsienio juridinio asmens filialo, pageidaujančio verstis (besiverčiančio) mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais keleiviams vežti skirtose transporto priemonėse, buveinė, vykdomoji institucija.
 
 
 
@@ -1763,12 +1805,12 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-7. Lietuvos Respublikoje įsteigtam juridiniam asmeniui ar užsienio juridinio asmens filialui, pageidaujančiam gauti licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba ar didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais licencija turi būti išduota arba rašytinis motyvuotas atsisakymas ją išduoti turi būti pateiktas ne vėliau kaip per 30 dienų nuo paraiškos licencijai išduoti ir visų tinkamai įformintų dokumentų, kurių reikia licencijai išduoti, gavimo licencijas išduodančioje institucijoje dienos. Jeigu per šį terminą licencijas išduodanti institucija Lietuvos Respublikoje įsteigtam juridiniam asmeniui ar užsienio juridinio asmens filialui licencijos neišduoda ir nepateikia jam motyvuoto rašytinio atsisakymo išduoti licenciją, laikoma, kad licencija yra išduota.
+7. Lietuvos Respublikoje įsteigtam juridiniam asmeniui ar užsienio juridinio asmens filialui, pageidaujančiam gauti licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine prekyba neapdorotu tabaku, tabako gaminiais, su tabako gaminiais susijusiais gaminiais, licencija turi būti išduota arba rašytinis motyvuotas atsisakymas ją išduoti turi būti pateiktas ne vėliau kaip per 30 dienų nuo paraiškos licencijai išduoti ir visų tinkamai įformintų dokumentų, kurių reikia licencijai išduoti, gavimo licencijas išduodančioje institucijoje dienos. Jeigu per šį terminą licencijas išduodanti institucija Lietuvos Respublikoje įsteigtam juridiniam asmeniui ar užsienio juridinio asmens filialui licencijos neišduoda ir nepateikia jam motyvuoto rašytinio atsisakymo išduoti licenciją, laikoma, kad licencija yra išduota.
 
 
 
 
-8. Licencijos verstis tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių gamyba ar didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais neišduodamos, jeigu:
+8. Licencijos verstis tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių gamyba, didmenine prekyba neapdorotu tabaku, tabako gaminiais, su tabako gaminiais susijusiais gaminiais neišduodamos, jeigu: 
 
 
 1) pateikiami ne visi dokumentai, kurių reikia licencijai išduoti, ir Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas per licencijas išduodančios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 5 darbo dienos nuo licencijas išduodančios institucijos pranešimo apie trūkstamus dokumentus gavimo dienos, neįvykdo licencijas išduodančios institucijos reikalavimo pateikti trūkstamus dokumentus;
@@ -1776,12 +1818,12 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-2) pateikiami nevisiškai arba netaisyklingai užpildyti dokumentai, kurių reikia licencijai išduoti, ir Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas per licencijas išduodančios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 5 darbo dienos nuo licencijas išduodančios institucijos pranešimo apie dokumentų trūkumus gavimo dienos, neįvykdo licencijas išduodančios institucijos reikalavimo ištaisyti šiuos trūkumus;
+2) pateikiami nevisiškai arba netinkamai užpildyti dokumentai, kurių reikia licencijai išduoti, ir Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas per licencijas išduodančios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 5 darbo dienos nuo licencijas išduodančios institucijos pranešimo apie dokumentų trūkumus gavimo dienos, neįvykdo licencijas išduodančios institucijos reikalavimo ištaisyti šiuos trūkumus;
 
 
 
 
-3) Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas neatitinka bent vieno iš šio straipsnio 2 dalies 1–6 punktuose, 8 punkte (jeigu prašoma licencijos verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais), 9 punkte (jeigu prašoma licencijos verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba) nustatytų reikalavimų;
+3) Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas neatitinka bent vieno iš šio straipsnio 2 dalies 1–6 punktuose, 8 punkte (jeigu prašoma išduoti licenciją verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais), 9 punkte (jeigu prašoma išduoti licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba), 11 punkte (jeigu prašoma išduoti licenciją verstis didmenine prekyba neapdorotu tabaku), 12 punkte (jeigu prašoma išduoti licenciją verstis tabako gaminių gamyba, licenciją verstis didmenine prekyba tabako gaminiais ar licenciją verstis didmenine prekyba neapdorotu tabaku) nustatytų reikalavimų;
 
 
 
@@ -1793,12 +1835,12 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-9. Laikoma, kad licencija verstis mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais yra išduota kitą dieną nuo juridinio asmens ar užsienio juridinio asmens filialo pranešimo apie ketinimą verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais (toliau – pranešimas) pateikimo savivaldybės, kurios teritorijoje ketinama verstis šia veikla, vykdomajai institucijai dienos, o verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais keleiviams vežti skirtose transporto priemonėse – savivaldybės, kurios teritorijoje yra Lietuvos Respublikoje įsteigto juridinio asmens ar užsienio juridinio asmens filialo, pageidaujančio verstis (besiverčiančio) mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais keleiviams vežti skirtose transporto priemonėse, buveinė, vykdomajai institucijai. Kai juridinio asmens ar užsienio juridinio asmens filialo pranešime yra nurodyta diena, nuo kurios ketinama pradėti verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir ši diena yra vėlesnė negu kita diena nuo pranešimo pateikimo dienos, laikoma, kad licencija yra išduota nuo pranešime nurodytos dienos. Licencijas išduodanti institucija, gavusi pranešimą, privalo ne vėliau kaip per 5 dienas nuo pranešimo pateikimo dienos patikrinti, ar juridinis asmuo ar užsienio juridinio asmens filialas atitinka šio straipsnio 2 dalies 5, 6, 7 ir 10 punktuose nustatytus reikalavimus ir yra įvykdęs Lietuvos Respublikos rinkliavų įstatyme nustatytus reikalavimus, ir ne vėliau kaip per 20 dienų privalo patikrinti, ar juridinis asmuo ar užsienio juridinio asmens filialas atitinka šio straipsnio 2 dalies 1–4 punktuose nustatytus reikalavimus.
+9. Laikoma, kad licencija verstis mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais yra išduota kitą dieną nuo juridinio asmens ar užsienio juridinio asmens filialo pranešimo apie ketinimą verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais (toliau – pranešimas) pateikimo savivaldybės, kurios teritorijoje ketinama verstis šia veikla, vykdomajai institucijai dienos, o verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais keleiviams vežti skirtose transporto priemonėse – savivaldybės, kurios teritorijoje yra Lietuvos Respublikoje įsteigto juridinio asmens ar užsienio juridinio asmens filialo, pageidaujančio verstis (besiverčiančio) mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais keleiviams vežti skirtose transporto priemonėse, buveinė, vykdomajai institucijai. Kai juridinio asmens ar užsienio juridinio asmens filialo pranešime yra nurodyta diena, nuo kurios ketinama pradėti verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir ši diena yra vėlesnė negu kita diena nuo pranešimo pateikimo dienos, laikoma, kad licencija yra išduota nuo pranešime nurodytos dienos. Licencijas išduodanti institucija, gavusi pranešimą, privalo ne vėliau kaip per 5 dienas nuo pranešimo pateikimo dienos patikrinti, ar juridinis asmuo ar užsienio juridinio asmens filialas atitinka šio straipsnio 2 dalies 5–7 ir 10 punktuose nustatytus reikalavimus ir yra įvykdęs Lietuvos Respublikos rinkliavų įstatyme nustatytus reikalavimus, ir ne vėliau kaip per 20 dienų privalo patikrinti, ar juridinis asmuo ar užsienio juridinio asmens filialas atitinka šio straipsnio 2 dalies 1–4 punktuose nustatytus reikalavimus.
 
 
 
 
-10. Pranešime juridinis asmuo ar užsienio juridinio asmens filialas turi deklaruoti, kad jis atitinka kiekvieną iš šio straipsnio 2 dalies 1–7 ir 10 punktuose nustatytų reikalavimų ir yra įvykdęs Lietuvos Respublikos rinkliavų įstatyme nustatytus reikalavimus. Jeigu pranešimą pateikia kitoje Europos ekonominės erdvės susitarimo dalyvėje įsteigtas juridinis asmuo ar kita organizacija ar jų filialas, kartu su pranešime deklaruota informacija apie tai, kad juridiniam asmeniui ar kitai organizacijai ar jų filialui, ar jų vadovams nėra įsiteisėjusio šio straipsnio 2 dalies 3 punkte nurodyto apkaltinamojo teismo nuosprendžio, įsiteisėjusio teismo nutarimo, nutarties dėl bausmės ar nuobaudos skyrimo, turi būti pateiktas tai patvirtinantis tos Europos ekonominės erdvės susitarimo dalyvės, kurioje įsisteigęs juridinis asmuo ar kita organizacija ar jų filialas, ketinantis verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais Lietuvos Respublikoje, kompetentingos institucijos išduotas dokumentas. Tais atvejais, kai šio straipsnio 2 dalies 3 punkte nurodytas teismo nuosprendis, nutarimas ar nutartis yra įsiteisėjęs, kompetentingos institucijos išduotame dokumente turi būti nurodyta jo įsiteisėjimo data.
+10. Pranešime juridinis asmuo ar užsienio juridinio asmens filialas turi deklaruoti, kad jis atitinka kiekvieną iš šio straipsnio 2 dalies 1–7 ir 10 punktuose nustatytų reikalavimų ir yra įvykdęs Lietuvos Respublikos rinkliavų įstatyme nustatytus reikalavimus. Jeigu pranešimą pateikia kitoje Europos ekonominės erdvės susitarimo dalyvėje įsteigtas juridinis asmuo ar kita organizacija ar jų filialas, kartu su pranešime deklaruota informacija apie tai, kad juridiniam asmeniui ar kitai organizacijai ar jų filialui, ar jų vadovams nėra įsiteisėjusio šio straipsnio 2 dalies 3 punkte nurodyto apkaltinamojo teismo nuosprendžio, įsiteisėjusio teismo nutarimo, nutarties dėl bausmės ar nuobaudos skyrimo, turi būti pateiktas tai patvirtinantis tos Europos ekonominės erdvės susitarimo dalyvės, kurioje įsisteigęs juridinis asmuo ar kita organizacija ar jų filialas, ketinantis verstis mažmenine prekyba tabako gaminiais Lietuvos Respublikoje, kompetentingos institucijos išduotas dokumentas. Tais atvejais, kai šio straipsnio 2 dalies 3 punkte nurodytas teismo nuosprendis, nutarimas ar nutartis yra įsiteisėjęs, kompetentingos institucijos išduotame dokumente turi būti nurodyta jo įsiteisėjimo data. 
 
 
 
@@ -1806,24 +1848,29 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 11. Juridinis asmuo ar užsienio juridinio asmens filialas įspėjamas apie galimą atitinkamos licencijos galiojimo sustabdymą, jeigu:
 
 
-1) paaiškėja, kad licencijai verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba ar didmenine prekyba jais išduoti buvo pateikti netikslūs duomenys;
+1) paaiškėja, kad licencijai verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba ar didmenine prekyba jais, neapdoroto tabako didmenine prekyba išduoti buvo pateikti netikslūs duomenys;
 
 
 
 
-2) juridinis asmuo ar užsienio juridinio asmens filialas, turintis licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir (ar) mažmenine prekyba jais, pažeidžia šio Įstatymo 92, 94 ir 99 straipsniuose, 14 straipsnio 3 dalies 5, 6 ir (ar) 7 punktuose nustatytus reikalavimus;
+2) juridinis asmuo ar užsienio juridinio asmens filialas, turintis licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir (ar) mažmenine prekyba jais, pažeidžia šio Įstatymo 92, 94 ir 99 straipsniuose, 14 straipsnio 3 dalies 5, 6 ir (ar) 7 punktuose nustatytus reikalavimus;
 
 
 
 
-3) paaiškėja, kad juridinis asmuo ar užsienio juridinio asmens filialas, kuriam išduota licencija verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais, šios veiklos nevykdo ilgiau negu vienus metus ir per šio Įstatymo 12 straipsnio 7 dalyje nurodytą terminą nesikreipė į licenciją išdavusią instituciją dėl licencijos galiojimo sustabdymo ar panaikinimo.
+3) paaiškėja, kad juridinis asmuo ar užsienio juridinio asmens filialas, kuriam išduota licencija verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais, šios veiklos nevykdo ilgiau negu vienus metus ir per šio Įstatymo 12 straipsnio 7 dalyje nurodytą terminą nesikreipė į licenciją išdavusią instituciją dėl licencijos galiojimo sustabdymo ar panaikinimo;
+
+
+
+
+4) paaiškėja, kad juridinis asmuo ar užsienio juridinio asmens filialas, kuriam išduota licencija verstis tabako gaminių gamyba, licencija verstis didmenine prekyba neapdorotu tabaku ar licencija verstis didmenine prekyba tabako gaminiais neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje.
 
 
 
 
 
 
-12. Juridinis asmuo ar užsienio juridinio asmens filialas įspėjamas apie galimą licencijos galiojimo panaikinimą, jeigu, pasikeitus juridinio asmens ar užsienio juridinio asmens filialo vadovui, paaiškėja, kad juridinio asmens ar užsienio juridinio asmens filialo vadovas neatitinka šio straipsnio 2 dalies 3 ir (ar) 4 punktų nuostatų.
+12. Juridinis asmuo ar užsienio juridinio asmens filialas įspėjamas apie galimą licencijos galiojimo panaikinimą, jeigu, pasikeitus juridinio asmens ar užsienio juridinio asmens filialo vadovui, paaiškėja, kad juridinio asmens ar užsienio juridinio asmens filialo vadovas neatitinka šio straipsnio 2 dalies 3 ir (ar) 4 punktų nuostatų. 
 
 
 
@@ -1836,12 +1883,12 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-2) pateikia prašymą iš licencijos verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais išbraukti tabako gaminių, su tabako gaminiais susijusių gaminių didmeninės prekybos sandėlio adresą ir licencijoje nebelieka įrašytų kitų sandėlių adresų; 
+2) pateikia prašymą iš licencijos verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais ar licencijos verstis didmenine prekyba neapdorotu tabaku išbraukti tabako gaminių, su tabako gaminiais susijusių gaminių ar neapdoroto tabako didmeninės prekybos sandėlio adresą ir licencijoje nebelieka įrašytų kitų sandėlių adresų;
 
 
 
 
-3) buvo įspėtas apie galimą licencijos galiojimo sustabdymą pagal šio straipsnio 11 dalies 1 ir (ar) 2 punktus ir per licenciją išdavusios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 10 dienų ir ilgesnis negu 30 dienų nuo licencijas išduodančios institucijos pranešimo apie įspėjimą apie galimą licencijos galiojimo sustabdymą gavimo dienos, nepašalino nurodytų pažeidimų ir nepranešė apie jų pašalinimą licenciją išdavusiai institucijai;
+3) buvo įspėtas apie galimą licencijos galiojimo sustabdymą pagal šio straipsnio 11 dalies 1 ir (ar) 2, 4 punktus ir per licenciją išdavusios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 10 dienų ir ilgesnis negu 30 dienų nuo licencijas išduodančios institucijos pranešimo apie įspėjimą apie galimą licencijos galiojimo sustabdymą gavimo dienos, nepašalino nurodytų pažeidimų ir nepranešė apie jų pašalinimą licenciją išdavusiai institucijai;
 
 
 
@@ -1851,7 +1898,7 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-5) pateikia pranešimą, kuris neatitinka šio straipsnio 10 dalyje nustatytų reikalavimų pranešimo turiniui.
+5) pateikia pranešimą, kuris neatitinka šio straipsnio 10 dalyje nustatytų reikalavimų pranešimo turiniui. 
 
 
 
@@ -1866,7 +1913,7 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-2) 2 punkto nuostatas, pateikė prašymą į licenciją verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais įrašyti naują tabako gaminių, su tabako gaminiais susijusių gaminių didmeninės prekybos sandėlio adresą;
+2) 2 punkto nuostatas, pateikė prašymą į licenciją verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais ar licenciją verstis didmenine prekyba neapdorotu tabaku įrašyti naują tabako gaminių, su tabako gaminiais susijusių gaminių ar neapdoroto tabako didmeninės prekybos sandėlio adresą;
 
 
 
@@ -1883,7 +1930,7 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-15. Licencijos verstis tabako gaminių gamyba ar didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais galiojimas panaikinamas:
+15. Licencijos verstis tabako gaminių gamyba ar didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais, didmenine prekyba neapdorotu tabaku galiojimas panaikinamas:
 
 
 1) jeigu Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas pateikia paraišką panaikinti licencijos galiojimą;
@@ -1896,7 +1943,7 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-3) jeigu Lietuvos Respublikoje įsteigtam juridiniam asmeniui ar užsienio juridinio asmens filialui, jų vadovams ar kitiems darbuotojams (veikusiems juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jų interesų) yra įsiteisėjęs šio straipsnio 2 dalies 3 punkte nurodytas apkaltinamasis teismo nuosprendis dėl bausmės skyrimo, įsiteisėjęs teismo nutarimas, nutartis, įsiteisėjęs atitinkamas muitinės, Valstybinės mokesčių inspekcijos, policijos, Tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl nuobaudos skyrimo ir nuo įsiteisėjimo dienos nepraėjo daugiau kaip penkeri metai;
+3) jeigu Lietuvos Respublikoje įsteigtam juridiniam asmeniui ar užsienio juridinio asmens filialui, jų vadovams ar kitiems darbuotojams (veikusiems juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jų interesų) yra įsiteisėjęs šio straipsnio 2 dalies 3 punkte nurodytas apkaltinamasis teismo nuosprendis dėl bausmės skyrimo, įsiteisėjęs teismo nutarimas, nutartis, įsiteisėjęs atitinkamas Lietuvos Respublikos muitinės, Valstybinės mokesčių inspekcijos, policijos, Tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl nuobaudos skyrimo ir nuo įsiteisėjimo dienos nepraėjo daugiau kaip penkeri metai;
 
 
 
@@ -1931,7 +1978,7 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-4) jeigu juridiniam asmeniui ar užsienio juridinio asmens filialui, jų vadovams ar kitiems darbuotojams (veikusiems juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jų interesų) yra įsiteisėjęs šio straipsnio 2 dalies 3 punkte nurodytas apkaltinamasis teismo nuosprendis dėl bausmės skyrimo, įsiteisėjęs teismo nutarimas, nutartis, įsiteisėjęs muitinės, Valstybinės mokesčių inspekcijos, policijos, Tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl nuobaudos skyrimo;
+4) jeigu juridiniam asmeniui ar užsienio juridinio asmens filialui, jų vadovams ar kitiems darbuotojams (veikusiems juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jų interesų) yra įsiteisėjęs šio straipsnio 2 dalies 3 punkte nurodytas apkaltinamasis teismo nuosprendis dėl bausmės skyrimo, įsiteisėjęs teismo nutarimas, nutartis, įsiteisėjęs Lietuvos Respublikos muitinės, Valstybinės mokesčių inspekcijos, policijos, Tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl nuobaudos skyrimo;
 
 
 
@@ -1946,14 +1993,14 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 
 
 
-7) kitoje Europos ekonominės erdvės susitarimo dalyvėje įsteigtas juridinis asmuo ar kita organizacija ar jų filialas šio straipsnio 10 dalyje nustatyta tvarka nepagrindė, kad juridiniam asmeniui ar kitai organizacijai ar jų filialui, ar jų vadovams nėra įsiteisėjusio šio straipsnio 2 dalies 3 punkte nurodyto apkaltinamojo teismo nuosprendžio, įsiteisėjusio teismo nutarimo, nutarties dėl bausmės ar nuobaudos skyrimo.
+7) kitoje Europos ekonominės erdvės susitarimo dalyvėje įsteigtas juridinis asmuo ar kita organizacija ar jų filialas šio straipsnio 10 dalyje nustatyta tvarka nepagrindė, kad juridiniam asmeniui ar kitai organizacijai ar jų filialui, ar jų vadovams nėra įsiteisėjusio šio straipsnio 2 dalies 3 punkte nurodyto apkaltinamojo teismo nuosprendžio, įsiteisėjusio teismo nutarimo, nutarties dėl bausmės ar nuobaudos skyrimo. 
 
 
 
 
 
 
-17. Licencijas išduodanti institucija privalo sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą ar licencijos galiojimą ir pranešti apie licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo ar licencijos galiojimo panaikinimą licencijos turėtojui ne vėliau kaip per 5 dienas nuo šio straipsnio 13, 14, 15 ar 16 dalyje nurodytų aplinkybių paaiškėjimo dienos.
+17. Licencijas išduodanti institucija privalo sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą ar licencijos galiojimą ir pranešti apie licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo ar licencijos galiojimo panaikinimą licencijos turėtojui ne vėliau kaip per 5 dienas nuo šio straipsnio 13, 14, 15 ar 16 dalyje nurodytų aplinkybių paaiškėjimo dienos. 
 
 
 
@@ -1970,6 +2017,7 @@ Nr. XII-887, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05733
 Straipsnio pakeitimai:
 Nr. XII-1916, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11094
 Nr. XIII-3378, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24525
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -1978,7 +2026,10 @@ Nr. XIII-3378, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24525
 12 straipsnis. Licencijuojamos veiklos sąlygos
 
 
-1. Licencijų verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ar mažmenine prekyba jais turėtojams draudžiama įgalioti ar pagal sutartį perduoti kitiems asmenims teisę verstis jų turimose licencijose nurodyta veikla. 
+1. Licencijų verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ar mažmenine prekyba jais, neapdoroto tabako didmenine prekyba turėtojams draudžiama įgalioti ar pagal sutartį perduoti kitiems asmenims teisę verstis jų turimose licencijose nurodyta veikla. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
@@ -2003,12 +2054,39 @@ Nr. XIII-3378, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24525
 
 
 
-6. Licencijos verstis tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių gamyba, didmenine ar mažmenine prekyba tabako gaminiais ar su tabako gaminiais susijusiais gaminiais turėtojams leidžiama gaminti, parduoti ir (ar) laikyti tabako gaminius ar su tabako gaminiais susijusius gaminius tik tose vietose, kurios įrašytos į licenciją. Tabako gaminių ar su tabako gaminiais susijusių gaminių gamybos, pardavimo ir (ar) laikymo vietą nustatančius duomenis, kurie turi būti įrašyti į licenciją, nustato Lietuvos Respublikos Vyriausybė atitinkamos veiklos rūšies licencijavimo taisyklėse. 
+6. Licencijos verstis tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių  gamyba, didmenine ar mažmenine prekyba tabako gaminiais ar su tabako gaminiais susijusiais gaminiais, neapdoroto tabako didmenine prekyba turėtojams leidžiama gaminti, parduoti ir (ar) laikyti tabako gaminius ar su tabako gaminiais susijusius gaminius, neapdorotą tabaką tik tose vietose, kurios įrašytos į licenciją. Tabako gaminių ar su tabako gaminiais susijusių gaminių, neapdoroto tabako gamybos, pardavimo ir (ar) laikymo vietą nustatančius duomenis, kurie turi būti įrašyti į licenciją, nustato Lietuvos Respublikos Vyriausybė atitinkamos veiklos rūšies licencijavimo taisyklėse. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
 
 7. Licencijų verstis mažmenine prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusių gaminių turėtojai, nevykdantys licencijoje nurodytos veiklos ilgiau negu vienus metus, privalo ne vėliau kaip per 30 dienų nuo kitos dienos po to, kai licencijoje nurodyta veikla nevykdoma vienus metus, informuoti apie tai licenciją išdavusią instituciją ir prašyti sustabdyti licencijos galiojimą (licencijos galiojimas stabdomas licencijos turėtojo nurodytam laikotarpiui, o jeigu laikotarpis nenurodytas, – stabdomas neterminuotai) arba panaikinti turimos licencijos galiojimą. 
+
+
+
+
+8. Licencijos verstis neapdoroto tabako didmenine prekyba turėtojams įsigyti neapdorotą tabaką Lietuvos Respublikoje leidžiama tik iš licencijų verstis neapdoroto tabako didmenine prekyba turėtojų, ir ši nuostata nedraudžia licencijos verstis neapdoroto tabako didmenine prekyba turėtojams licencijoje nurodytai veiklai patiems importuoti ar įsivežti neapdorotą tabaką iš kitų valstybių. 
+Papildyta straipsnio dalimi:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
+
+
+
+
+9. Licencijų verstis neapdoroto tabako didmenine prekyba turėtojams Lietuvos Respublikoje leidžiama parduoti neapdorotą tabaką tik licencijų verstis neapdoroto tabako didmenine prekyba turėtojams, licencijų verstis tabako gaminių gamyba turėtojams, užsienio juridiniams asmenims ir jų filialams, perkantiems, išvežantiems ar eksportuojantiems tabako gaminius iš Lietuvos Respublikos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
+
+
+
+
+10. Neapdoroto tabako mažmeninė prekyba draudžiama. 
+Papildyta straipsnio dalimi:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 Straipsnio pakeitimai:
@@ -2041,33 +2119,33 @@ Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
 
 
-14 straipsnis. Tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo, įsigijimo, laikymo ir gabenimo reikalavimai
+14 straipsnis. Tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, įsigijimo, laikymo ir gabenimo reikalavimai
 
 
-1. Lietuvos Respublikoje draudžiama parduoti, laikyti tabako gaminius, su tabako gaminiais susijusius gaminius neturint licencijos verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ar mažmenine prekyba tabako gaminiais ar su tabako gaminiais susijusiais gaminiais, išskyrus šio straipsnio 2 dalyje nustatytus atvejus.
-
-
-
-
-2. Šio straipsnio 1 dalyje nustatytas reikalavimas turėti licenciją arba licencijos verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ar mažmenine prekyba kopiją netaikomas, kai tabako gaminius, su tabako gaminiais susijusius gaminius, turėdami privalomus juridinę galią turinčius tabako gaminių, su tabako gaminiais susijusių gaminių įsigijimą patvirtinančius dokumentus arba gabenimo dokumentus, laiko ir gabena transportavimo paslaugas teikiantys asmenys, užsienio juridiniai asmenys ar jų filialai, gabenantys tabako gaminius ar su tabako gaminiais susijusius gaminius tranzitu arba pristatantys juos savo filialams ir atstovybėms Lietuvos Respublikoje, arba išvežantys juos iš Lietuvos Respublikos, taip pat užsienio valstybių diplomatinės atstovybės, konsulinės įstaigos bei tarptautinių organizacijų atstovybės, akredituotos Lietuvos Respublikos užsienio reikalų ministerijoje.
+1. Lietuvos Respublikoje draudžiama parduoti, laikyti tabako gaminius, su tabako gaminiais susijusius gaminius neturint licencijos verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ar mažmenine prekyba tabako gaminiais ar su tabako gaminiais susijusiais gaminiais, verstis neapdoroto tabako didmenine prekyba, išskyrus šio straipsnio 2 dalyje nustatytus atvejus.
 
 
 
 
-3. Lietuvos Respublikoje draudžiama juridiniams asmenims ir užsienio juridinių asmenų filialams parduoti, laikyti, gabenti tabako gaminius, su tabako gaminiais susijusius gaminius, taip pat importuoti į Lietuvos Respubliką tabako gaminius, su tabako gaminiais susijusius gaminius:
-
-
-1) be tabako gaminių, su tabako gaminiais susijusių gaminių įsigijimą arba gabenimą patvirtinančių juridinę galią turinčių dokumentų;
+2. Šio straipsnio 1 dalyje nustatytas reikalavimas turėti licenciją arba licencijos verstis tabako gaminių, neapdoroto tabako ar su tabako gaminiais susijusių gaminių gamyba, didmenine ar mažmenine prekyba kopiją netaikomas, kai neapdorotą tabaką, tabako gaminius, neapdoroto tabako ar su tabako gaminiais susijusius gaminius, turėdami privalomus juridinę galią turinčius tabako gaminių, neapdoroto tabako ar su tabako gaminiais susijusių gaminių įsigijimą patvirtinančius dokumentus arba gabenimo dokumentus, laiko ir gabena transportavimo paslaugas teikiantys asmenys, užsienio juridiniai asmenys ar jų filialai, gabenantys, įvežantys, importuojantys neapdorotą tabaką, tabako gaminius ar su tabako gaminiais susijusius gaminius tranzitu arba pristatantys neapdorotą tabaką savo filialams ir atstovybėms ar kitoms susijusių ūkio subjektų grupės įmonėms Lietuvos Respublikoje, arba išvežantys neapdorotą tabaką, tabako gaminius ar su tabako gaminiais susijusius gaminius iš Lietuvos Respublikos, taip pat užsienio valstybių diplomatinės atstovybės, konsulinės įstaigos bei tarptautinių organizacijų atstovybės, akredituotos Lietuvos Respublikos užsienio reikalų ministerijoje.
 
 
 
 
-2) jeigu tie gaminiai yra falsifikuoti;
+3. Lietuvos Respublikoje draudžiama juridiniams asmenims ir užsienio juridinių asmenų filialams parduoti, laikyti, gabenti neapdorotą tabaką, tabako gaminius, su tabako gaminiais susijusius gaminius, taip pat importuoti į Lietuvos Respubliką neapdorotą tabaką, tabako gaminius, su tabako gaminiais susijusius gaminius:
+
+
+1) be tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako įsigijimą arba gabenimą patvirtinančių juridinę galią turinčių dokumentų;
 
 
 
 
-3) jeigu tie gaminiai yra kontrabandiniai;
+2) jeigu tie gaminiai ar neapdorotas tabakas yra falsifikuoti;
+
+
+
+
+3) jeigu tie gaminiai ar neapdorotas tabakas yra kontrabandiniai;
 
 
 
@@ -2092,17 +2170,14 @@ Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
 
 
-8) neturint tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo ir (ar) laikymo vietoje arba jų gabenimo metu juridinę galią turinčių privalomų tų gaminių įsigijimą arba gabenimą patvirtinančių dokumentų egzemplioriaus.
+8) neturint tabako gaminių, su tabako gaminiais susijusių gaminių,  neapdoroto tabako pardavimo ir (ar) laikymo vietoje arba jų gabenimo metu juridinę galią turinčių privalomų tų gaminių įsigijimą arba gabenimą patvirtinančių dokumentų egzemplioriaus.
 
 
 
 
 
 
-4. Fiziniams asmenims draudžiama Lietuvos Respublikoje įsigyti tabako gaminius, su tabako gaminiais susijusius gaminius, teisės aktų nustatyta tvarka nepaženklintus specialiais ženklais – banderolėmis. Tabako gaminių, su tabako gaminiais  susijusių gaminių laikymo ir gabenimo tvarką, taikomą fiziniams asmenims, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
- 
+4. Fiziniams asmenims draudžiama Lietuvos Respublikoje įsigyti tabako gaminius, su tabako gaminiais susijusius gaminius, teisės aktų nustatyta tvarka nepaženklintus specialiais ženklais – banderolėmis. Tabako gaminių, su tabako gaminiais susijusių gaminių laikymo ir gabenimo tvarką, taikomą fiziniams asmenims, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
@@ -2120,7 +2195,7 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-3) tabako gaminius, su tabako gaminiais susijusius gaminius asmenims iki 18 metų. Kai kyla abejonių, kad asmuo yra jaunesnis negu 18 metų, tabako gaminių, su tabako gaminiais susijusių gaminių pardavėjai privalo iš perkančio tabako gaminius, su tabako gaminiais susijusius gaminius asmens reikalauti pateikti asmens amžių liudijantį dokumentą. Jeigu toks asmuo nepateikia amžių liudijančio dokumento, tabako gaminių, su tabako gaminiais susijusių gaminių pardavėjai privalo atsisakyti parduoti jam tabako gaminius ar su tabako gaminiais susijusius gaminius. 
+3) tabako gaminius, su tabako gaminiais susijusius gaminius asmenims iki 18 metų. Kai kyla abejonių, kad asmuo yra jaunesnis negu 18 metų, tabako gaminių, su tabako gaminiais susijusių gaminių pardavėjai privalo iš perkančio tabako gaminius, su tabako gaminiais susijusius gaminius asmens reikalauti pateikti asmens amžių liudijantį dokumentą. Jeigu toks asmuo nepateikia amžių liudijančio dokumento, tabako gaminių, su tabako gaminiais susijusių gaminių pardavėjai privalo atsisakyti parduoti jam tabako gaminius ar su tabako gaminiais susijusius gaminius.
 
 
 
@@ -2132,12 +2207,7 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-7. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys turi vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių), siekdami, kad jų administruojamoje turgavietėje nebūtų prekiaujama tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir (ar) jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys, pastebėję arba įtarę, kad jų administruojamoje turgavietėje Lietuvos Respublikoje įsteigtas juridinis asmuo, užsienio juridinis asmuo ar jo filialas arba fizinis asmuo prekiauja tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir (ar) juos gabena, laiko, neturėdamas licencijos verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais, privalo nedelsdami, bet ne vėliau kaip tą pačią administruojamos turgavietės darbo dieną, pranešti apie tai policijai.
-
-
-
-
-8. Lietuvos Respublikoje parduoti neapdorotą tabaką leidžiama tik licencijų verstis tabako gaminių gamyba turėtojams ir juridiniams asmenims ar užsienio juridinių asmenų filialams, išvežantiems neapdorotą tabaką iš Lietuvos Respublikos. 
+7. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys turi vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių), siekdami, kad jų administruojamoje turgavietėje nebūtų prekiaujama tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir (ar) jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais. Turgavietes administruojantys fiziniai asmenys, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovai, užsienio juridinių asmenų ar jų filialų vadovai arba jų įgalioti asmenys, pastebėję arba įtarę, kad jų administruojamoje turgavietėje Lietuvos Respublikoje įsteigtas juridinis asmuo, užsienio juridinis asmuo ar jo filialas arba fizinis asmuo prekiauja tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir (ar) juos gabena, laiko, neturėdamas licencijos verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais, privalo nedelsdami, bet ne vėliau kaip tą pačią administruojamos turgavietės darbo dieną, pranešti apie tai policijai. 
 
 
 Straipsnio pakeitimai:
@@ -2146,6 +2216,7 @@ Nr. X-699, 2006-06-15, Žin., 2006, Nr. 73-2765 (2006-06-30)
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 Straipsnio pakeitimai:
 Nr. XIII-3378, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24525
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -2700,19 +2771,19 @@ Nr. XII-469, 2013-07-02, Žin., 2013, Nr. 79-3990 (2013-07-23)
 
 
 IV SKYRIUS
-VEIKLOS, SUSIJUSIOS SU TABAKO GAMINIAIS IR SUSIJUSIAIS GAMINIAIS, PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS 
+VEIKLOS, SUSIJUSIOS SU TABAKU, TABAKO GAMINIAIS IR SUSIJUSIAIS GAMINIAIS, PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS 
 Skyriaus pavadinimas keistas:
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
- 
 Pakeistas skyriaus pavadinimas:
 Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
-25 straipsnis. Veiklos, susijusios su tabako gaminiais, susijusiais gaminiais, priežiūra, atsakomybė už šio Įstatymo pažeidimus, tabako gaminių, susijusių gaminių konfiskavimas ir sunaikinimas 
+25 straipsnis. Veiklos, susijusios su tabako gaminiais ir su tabako gaminiais susijusiais gaminiais, neapdorotu tabaku, priežiūra, atsakomybė už šio Įstatymo pažeidimus, tabako gaminių ir su tabako gaminiais susijusių gaminių, neapdoroto tabako konfiskavimas ir sunaikinimas
 
 
-1. Veiklos, susijusios su tabako gaminiais, susijusiais gaminiais, priežiūrą, vadovaudamiesi Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis, pagal kompetenciją vykdo Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė vartotojų teisių apsaugos tarnyba, savivaldybių vykdomosios institucijos, Valstybinė mokesčių inspekcija, muitinė, policija, kitos valstybinės priežiūros ir teisėsaugos institucijos. 
+1. Veiklos, susijusios su tabako gaminiais ir su tabako gaminiais susijusiais gaminiais, neapdorotu tabaku, priežiūrą, vadovaudamiesi Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis, pagal kompetenciją vykdo Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė vartotojų teisių apsaugos tarnyba, savivaldybių vykdomosios institucijos, Valstybinė mokesčių inspekcija, Lietuvos Respublikos muitinė, policija, kitos valstybinės priežiūros ir teisėsaugos institucijos.
 
 
 
@@ -2722,12 +2793,12 @@ Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
 
 
 
-3. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti tabako gaminiai, susiję gaminiai, tabako gaminiai be specialių ženklų – banderolių, taip pat tabako gaminiai, susiję gaminiai, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, arba tabako gaminiai, kurie buvo laikomi, parduodami neturint licencijos, konfiskuojami vadovaujantis arba Administracinių nusižengimų kodeksu, arba Baudžiamuoju kodeksu. 
+3. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti tabako gaminiai, susiję gaminiai, neapdorotas tabakas, tabako gaminiai be specialių ženklų – banderolių, taip pat tabako gaminiai, susiję gaminiai, neapdorotas tabakas, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais arba kurie buvo laikomi, parduodami neturint licencijos, konfiskuojami vadovaujantis arba Administracinių nusižengimų kodeksu, arba Baudžiamuoju kodeksu.
 
 
 
 
-4. Konfiskuoti tabako gaminiai, susiję gaminiai sunaikinami Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+4. Konfiskuoti tabako gaminiai, susiję gaminiai, neapdorotas tabakas sunaikinami Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
@@ -2735,6 +2806,7 @@ Nr. X-699, 2006-06-15, Žin., 2006, Nr. 73-2765 (2006-06-30)
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
 Straipsnio pakeitimai:
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -2761,12 +2833,18 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-2. Už tabako gaminių, su tabako gaminiais susijusių gaminių gamybą, laikymą ir prekybą jais pažeidžiant šio Įstatymo 10 straipsnio 1 dalyje arba 14 straipsnio 1 dalyje nustatytus reikalavimus (neturint nustatyta tvarka išduotos licencijos) juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų bauda. 
+2. Už tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako gamybą, laikymą ir prekybą jais pažeidžiant šio Įstatymo 10 straipsnio 1 dalyje arba 14 straipsnio 1 dalyje nustatytus reikalavimus (neturint nustatyta tvarka išduotos licencijos) juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų bauda. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
 
-3. Už šio Įstatymo 12 straipsnio 1 dalyje nustatyto draudimo įgalioti ar pagal sutartį perduoti kitiems asmenims teisę verstis turimose licencijose nurodyta veikla pažeidimą, už šio Įstatymo 12 straipsnio 3, 4 ar 5 dalyje nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių įsigijimo, tabako gaminių, su tabako gaminiais susijusių gaminių ar tabako pardavimo reikalavimų pažeidimą, už šio Įstatymo 14 straipsnio 3 dalies 6 ar 7 punkte nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą, už šio Įstatymo 14 straipsnio 8 dalyje nustatytų reikalavimų pažeidimą juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šių draudimų ir reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda.
+3. Už šio Įstatymo 12 straipsnio 1 dalyje nustatyto draudimo įgalioti kitus asmenis ar pagal sutartį perduoti kitiems asmenims teisę verstis turimose licencijose nurodyta veikla pažeidimą, už šio Įstatymo 12 straipsnio 3, 4, 5, 6, 8, 9 ar 10 dalyje nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako įsigijimo, tabako gaminių, su tabako gaminiais susijusių gaminių ar neapdoroto tabako pardavimo reikalavimų pažeidimą, už šio Įstatymo 14 straipsnio 3 dalies 6 ar 7 punkte nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šių draudimų ir reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
@@ -2776,12 +2854,18 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 
 
 
-5. Už šio Įstatymo 14 straipsnio 3 dalies 1, 2, 3 ar 4 punkte nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo, laikymo ar gabenimo draudimų, išskyrus šio straipsnio 6 dalyje nustatytą atvejį, pažeidimą, už šio Įstatymo 141 straipsnio 1, 2, 3, 4 dalyse nustatytų su tabako gaminių atsekamumu susijusių reikalavimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų bauda ir panaikinamas licencijos galiojimas.
+5. Už šio Įstatymo 14 straipsnio 3 dalies 1, 2, 3 ar 4 punktuose nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimų, išskyrus šio straipsnio 6 dalyje nustatytą atvejį, pažeidimą, už šio Įstatymo 141 straipsnio 1, 2, 3, 4 dalyse nustatytų su tabako gaminių atsekamumu susijusių reikalavimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų bauda ir panaikinamas licencijos galiojimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
 
-6. Už šio Įstatymo 14 straipsnio 3 dalies 1 punkte nustatyto tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo, laikymo ar gabenimo draudimo pažeidimą, kai neteisėtai parduodamų, laikomų ar gabenamų tabako gaminių, su tabako gaminiais susijusių gaminių vertė neviršija 0,5 bazinio bausmių ir nuobaudų dydžio, už šio Įstatymo 14 straipsnio 3 dalies 8 punkte nustatyto tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo, laikymo ar gabenimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio Įstatymo 14 straipsnio 3 dalies 5 punkte nustatyto tabako gaminių pardavimo, laikymo ar gabenimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio draudimo pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų bauda.
+6. Už šio Įstatymo 14 straipsnio 3 dalies 1 punkte nustatyto tabako gaminių, su tabako gaminiais susijusių gaminių,  neapdoroto tabako pardavimo, laikymo ar gabenimo draudimo pažeidimą, kai neteisėtai parduodamų, laikomų ar gabenamų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako vertė neviršija 0,5 bazinio bausmių ir nuobaudų dydžio, už šio Įstatymo 14 straipsnio 3 dalies 8 punkte nustatyto tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio Įstatymo 14 straipsnio 3 dalies 5 punkte nustatyto tabako gaminių pardavimo, laikymo ar gabenimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio draudimo pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų iki penkių tūkstančių septynių šimtų devyniasdešimt dviejų eurų bauda. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+ 
 
 
 
@@ -2819,9 +2903,10 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 13. Už šio Įstatymo nuostatų pažeidimus baudas skiria:
 
 
-1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už 41 straipsnio, 87 straipsnio, 9 straipsnio 1, 2, 4, 10 ir 14 dalių, 93 ir 96 straipsnių, 99, 910, 911 straipsnių, 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4 ir 5 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14 straipsnio 3 dalies 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 ir 8 dalių, 141 straipsnio 1, 2, 3, 4 dalių, 15 ir 16 straipsnių, 161 straipsnio 1 dalies, 162 straipsnio, 17 straipsnio 1, 4 ir 5 dalių, 171 ir 18 straipsnių, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus; 
+1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už 41 straipsnio, 87 straipsnio, 9 straipsnio 1, 2, 4, 10 ir 14 dalių, 93, 96, 99, 910, 911 straipsnių, 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5, 6, 8, 9, 10 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 14 straipsnio 3 dalies 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 dalies, 141 straipsnio 1, 2, 3, 4 dalių, 15 ir 16 straipsnių, 161 straipsnio 1 dalies, 162 straipsnio, 17 straipsnio 1, 4 ir 5 dalių, 171 ir 18 straipsnių, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
  
 
 
@@ -3534,3 +3619,8 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 9, 9-2, 9-3, 9-10, 9-11, 14, 14-1, 16, 18, 25 ir 26 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 3, 9-1, 10, 11, 12, 14, 25, 26 straipsnių ir II skyriaus pavadinimo, II skyriaus pirmojo skirsnio pavadinimo, IV skyriaus pavadinimo pakeitimo įstatymas
