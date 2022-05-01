@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-12-09
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -141,6 +141,8 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
+
+ 
 
  
 PATVIRTINTA
@@ -1489,20 +1491,27 @@ Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
 101 straipsnis. Privalomasis civilinės atsakomybės draudimas
 
 
-1. Geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinė atsakomybė privalo būti draudžiama privalomuoju civilinės atsakomybės draudimu, kurio objektas yra draudėjo turtiniai interesai, susiję su draudėjo civiline atsakomybe trečiajam asmeniui už žalą, atsiradusią dėl draudėjo vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje, kombinuotojo keleivių vežimo vietiniais maršrutais ir (ar) geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
- 
+1. Geležinkelio įmonių (vežėjų) civilinė atsakomybė privalo būti draudžiama privalomuoju civilinės atsakomybės draudimu, kurio objektas yra draudėjo turtiniai interesai, susiję su draudėjo civiline atsakomybe trečiajam asmeniui už žalą, atsiradusią dėl draudėjo vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje, kombinuotojo keleivių vežimo vietiniais maršrutais veiklos, o šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių civilinė atsakomybė privalo būti draudžiama privalomuoju civilinės atsakomybės draudimu, kurio objektas yra draudėjo turtiniai interesai, susiję su draudėjo civiline atsakomybe trečiajam asmeniui už žalą, atsiradusią dėl draudėjo geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos.
 
 
 
 
-2. Minimali geležinkelio įmonės (vežėjo) privalomojo civilinės atsakomybės draudimo suma turi būti 290 000 eurų vienam draudžiamajam įvykiui ir 725 000 eurų visiems draudžiamiesiems įvykiams per metus.
+2. Minimali geležinkelio įmonės (vežėjo) privalomojo civilinės atsakomybės draudimo suma turi būti: 
+
+
+1) iki 2026 m. gruodžio 31 d. – 500 000 eurų vienam draudžiamajam įvykiui ir 2 mln. eurų visiems draudžiamiesiems įvykiams per metus;
 
 
 
 
-3. Minimali šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės privalomojo civilinės atsakomybės draudimo suma turi būti 58 000 eurų vienam draudžiamajam įvykiui ir 145 000 eurų visiems draudžiamiesiems įvykiams per metus.
+2) nuo 2027 m. sausio 1 d. – 1 mln. eurų vienam draudžiamajam įvykiui ir 5 mln. eurų visiems draudžiamiesiems įvykiams per metus.
+
+
+
+
+
+
+3. Minimali šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės privalomojo civilinės atsakomybės draudimo suma turi būti 100 000 eurų vienam draudžiamajam įvykiui ir 500 000 eurų visiems draudžiamiesiems įvykiams per metus.
 
 
 
@@ -1523,9 +1532,6 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 3) yra pareikštas dėl žalos, kuri atsirado dėl geležinkelio įmonės (vežėjo) vykdomos keleivių, bagažo vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje, kombinuotojo keleivių vežimo vietiniais maršrutais veiklos ir (ar) geležinkelio įmonės (vežėjo) vykdomos krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje veiklos ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdomos geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
- 
 
 
 
@@ -1536,9 +1542,6 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 
 6. Jeigu trečiajam asmeniui dėl geležinkelio įmonės (vežėjo) vykdomos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais Europos Sąjungos teritorijoje, kombinuotojo keleivių vežimo vietiniais maršrutais ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vykdomos geležinkelių riedmenų naudojimo viešojoje geležinkelių infrastruktūroje veiklos padaryta žala padidėjo po to, kai trečiasis asmuo pareiškė draudėjui ar draudikui šio straipsnio 4 dalyje nustatytas sąlygas atitinkantį reikalavimą, vėlesnis reikalavimo atlyginti padidėjusią žalą pateikimas yra draudžiamasis įvykis, jeigu jis pateiktas nepažeidžiant Civilinio kodekso 1.125 straipsnio 8 dalyje nustatyto ieškinio senaties termino. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
- 
 
 
 
@@ -1546,20 +1549,17 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 7. Draudikas yra atleidžiamas nuo išmokos mokėjimo, jeigu: 
 
 
-1) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių ir (ar) trečiųjų asmenų veiksmų siekiant neteisėtai gauti draudimo išmoką;
+1) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių ir (ar) trečiųjų asmenų veiksmų siekiant neteisėtai gauti draudimo išmoką;
 
 
 
 
-2) žala atsirado dėl kitos geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių veiklos, nesusijusios su keleivių, bagažo ir (ar) krovinių vežimu vietiniais ir (ar) tarptautiniais maršrutais, kombinuotuoju keleivių vežimu vietiniais maršrutais ar geležinkelių riedmenų naudojimu; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
- 
+2) žala atsirado dėl kitos geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių veiklos, nesusijusios su keleivių, bagažo ir (ar) krovinių vežimu vietiniais ir (ar) tarptautiniais maršrutais, kombinuotuoju keleivių vežimu vietiniais maršrutais ar geležinkelių riedmenų naudojimu; 
 
 
 
 
-3) atsirado finansinė žala, kuri nėra susijusi su žalos padarymu trečiojo asmens turtui, sveikatai, gyvybei ir (ar) neatsirado kaip žalos nukentėjusio trečiojo asmens turtui, sveikatai, gyvybei pasekmė;
+3) atsirado finansinė žala, kuri nėra susijusi su žalos padarymu trečiojo asmens turtui, sveikatai, gyvybei ir (ar) neatsirado kaip žalos nukentėjusio trečiojo asmens turtui, sveikatai, gyvybei pasekmė;
 
 
 
@@ -1569,7 +1569,7 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 
 
-5) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių tyčinės veikos, išskyrus socialiai vertingus tyčinius veiksmus (būtinąją gintį, pilietinės pareigos atlikimą ir kita);
+5) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių tyčinės veikos, išskyrus socialiai vertingus tyčinius veiksmus (būtinąją gintį, pilietinės pareigos atlikimą ir kita);
 
 
 
@@ -1584,12 +1584,12 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 
 
-8) žala atsirado dėl oro, vandens, žemės užteršimo, atsitikusio dėl nestaigaus ir tikėto įvykio, kurio priežastis yra lėtas ar laipsniškas veiksnys arba pasikartojantys įvykiai; 
+8) žala atsirado dėl oro, vandens, žemės užteršimo, atsitikusio dėl nestaigaus ir tikėto įvykio, kurio priežastis yra lėtas ar laipsniškas veiksnys arba pasikartojantys įvykiai; 
 
 
 
 
-9) žala atsirado dėl geležinkelio įmonės (vežėjo) krovinių vežimo tam nepritaikytais geležinkelių riedmenimis arba geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių naudojamų geležinkelių riedmenų gedimų ar defektų, jeigu jie buvo nustatyti atitinkamuose dokumentuose iki žalą sukėlusio įvykio ir jeigu geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės ar jos atstovai apie šiuos gedimus ar defektus žinojo; 
+9) žala atsirado dėl geležinkelio įmonės (vežėjo) krovinių vežimo tam nepritaikytais geležinkelių riedmenimis arba geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių naudojamų geležinkelių riedmenų gedimų ar defektų, jeigu jie buvo nustatyti atitinkamuose dokumentuose iki žalą sukėlusio įvykio ir jeigu geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės ar jos atstovai apie šiuos gedimus ar defektus žinojo;
 
 
 
@@ -1604,26 +1604,51 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 
 
-12) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių veiklos geležinkelio keliais, kuriais geležinkelių transporto eismas draudžiamas, vykdymo;
+12) žala atsirado dėl geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių veiklos geležinkelio keliais, kuriais geležinkelių transporto eismas draudžiamas, vykdymo;
 
 
 
 
-13) žala atsirado dėl šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių vežamų krovinių netekimo, dingimo ar sunaikinimo.
+13) žala atsirado dėl geležinkelio įmonės (vežėjo) vežamų krovinių netekimo, dingimo ar sunaikinimo;
+
+
+
+
+14) žala atsirado dėl ilgalaikio ir (ar) tęstinio, ir (ar) laipsniško temperatūros, dujų, garų, dūmų, suodžių, dulkių, drėgmės, kritulių, vandens sklidimo, vibracijos, triukšmo ar kitokio panašaus veiksnio ir (ar) jo sukelto poveikio (ilgalaikio ir (ar) tęstinio);
+
+
+
+
+15) žala atsirado dėl bet kokio vabzdžių, graužikų, parazitų, bakterijų, virusų, grybelių, sporų poveikio;
+
+
+
+
+16) žala atsirado dėl ilgalaikių organinių teršalų poveikio;
+
+
+
+
+17) žala atsirado tiesiogiai ar netiesiogiai dėl nelegalaus bet kokių informacinių sistemų blokavimo, įsilaužimo į jas, operacijų trukdymo, bet kokio tipo kompiuterių viruso.
 
 
 
 
 
 
-8. Privalomojo civilinės atsakomybės draudimo tvarką nustato Vyriausybė ar jos įgaliotos institucijos.
-TAR pastaba. 101 straipsnis netaikomas draudimo sutartims, sudarytoms iki 2015-11-01.
+8. Draudikas yra atleidžiamas nuo išmokos dalies, viršijančios Reglamente (EB) Nr. 1371/2007 nustatytą sumą, mokėjimo tuo atveju, kai žala atsirado dėl rankinio ir (ar) registruoto bagažo sugadinimo ar praradimo.
+
+
+
+
+9. Privalomojo civilinės atsakomybės draudimo taisykles nustato Vyriausybė ar jos įgaliotos institucijos.
+
+
 Kodeksas papildytas straipsniu:
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
-
-
 Straipsnio pakeitimai:
 Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
  
 
 
@@ -4834,8 +4859,7 @@ Krovinių siuntėjai (gavėjai), per nustatytą laiką neatsiskaitę už vežim�
 
 
 
-
-
+part_ff6f40c1d8df4aa9ab4655218ebc3f11_end
 
 
 Lietuvos Respublikos
