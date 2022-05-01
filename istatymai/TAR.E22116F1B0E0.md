@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-07-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -1326,7 +1326,9 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-11) tvirtinti metinių finansinių ataskaitų rinkinį;
+11) tvirtinti metinių finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrovė likviduojama;
+Straipsnio punkto pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
@@ -3498,7 +3500,10 @@ Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
 
 
 
-2. Su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, susijusi šalis suprantama taip, kaip ji apibrėžta šios bendrovės taikomuose apskaitos standartuose. 
+2. Su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, susijusi šalis suprantama taip, kaip ji apibrėžta šios bendrovės taikomuose finansinės atskaitomybės standartuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -3825,7 +3830,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-7. Perkainojimo rezervas – tai ilgalaikio materialiojo turto ir finansinio turto vertės padidėjimo suma, gauta perkainojus turtą. Perkainojimo rezervu arba jo dalimi gali būti didinamas įstatinis kapitalas. Iš perkainojimo rezervo negali būti mažinami nuostoliai.
+7. Perkainojimo rezervas – ilgalaikio materialiojo turto, nematerialiojo turto ir finansinio turto vertės padidėjimo (sumažėjimo) suma, gauta perkainojus turtą pagal taikomus finansinės atskaitomybės standartus. Perkainojimo rezervu arba jo dalimi gali būti didinamas įstatinis kapitalas. Perkainojimo rezervo nei tiesiogiai, nei netiesiogiai paskirstyti negalima.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -4844,12 +4852,18 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 472 straipsnis. Suteiktų akcijų, kai akcijos suteikiamos išleidžiant naują akcijų emisiją, apmokėjimas
 
 
-1. Šio Įstatymo 471 straipsnyje ir Akcijų suteikimo taisyklėse nustatyta tvarka suteikiant akcijas neatlygintinai, už akcijas apmokama bendrovės lėšomis iš bendrovės rezervo akcijoms suteikti. 
+1. Šio Įstatymo 471 straipsnyje ir Akcijų suteikimo taisyklėse nustatyta tvarka suteikiant akcijas neatlygintinai, už akcijas sumokama bendrovės lėšomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
 
-2. Šio Įstatymo 471 straipsnyje ir Akcijų suteikimo taisyklėse nustatyta tvarka suteikiant akcijas iš dalies atlygintinai, už akcijas apmokama Akcijų suteikimo taisyklėse nustatyta tvarka pinigais ir (ar) akcijas apmokančiam asmeniui nuosavybės teise priklausančiais nepiniginiais įnašais, taip pat bendrovės lėšomis iš bendrovės rezervo akcijoms suteikti. 
+2. Šio Įstatymo 471 straipsnyje ir Akcijų suteikimo taisyklėse nustatyta tvarka suteikiant akcijas iš dalies atlygintinai, už akcijas sumokama Akcijų suteikimo taisyklėse nustatyta tvarka pinigais ir (ar) akcijas apmokančiam asmeniui nuosavybės teise priklausančiais nepiniginiais įnašais, taip pat bendrovės lėšomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -5675,12 +5689,18 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-2. Bendrovės metinių finansinių ataskaitų rinkinį tvirtina eilinis visuotinis akcininkų susirinkimas. Jeigu bendrovės metinių finansinių ataskaitų rinkinio auditas pagal įstatymus yra privalomas ar yra numatytas įstatuose, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys. 
+2. Bendrovės metinių finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrovė likviduojama, tvirtina eilinis visuotinis akcininkų susirinkimas. Jeigu bendrovės metinių finansinių ataskaitų rinkinio auditas pagal įstatymus yra privalomas ar yra numatytas įstatuose, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
 
-3. Bendrovės metinių finansinių ataskaitų rinkinys kartu su bendrovės metiniu pranešimu ir auditoriaus išvada (jei auditas privalomas pagal įstatymus ar numatytas įstatuose) per 30 dienų nuo eilinio visuotinio akcininkų susirinkimo turi būti pateiktas juridinių asmenų registro tvarkytojui.
+3. Bendrovės metinių finansinių ataskaitų rinkinys kartu su bendrovės metiniu pranešimu ir auditoriaus išvada (jeigu auditas privalomas pagal įstatymus ar numatytas įstatuose) per 30 dienų nuo eilinio visuotinio akcininkų susirinkimo turi būti pateiktas juridinių asmenų registro tvarkytojui. Kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrovė likviduojama, jos nepatvirtintas metinių finansinių ataskaitų rinkinys juridinių asmenų registro tvarkytojui pateikiamas per 5 mėnesius nuo finansinių metų pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -5796,7 +5816,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-3. Bendrovės paskirstytinąjį pelną (nuostolius) sudaro ataskaitinių finansinių metų pelno (nuostolių) ir ankstesnių finansinių metų nepaskirstytojo pelno (nuostolių) ataskaitinių finansinių metų pabaigoje, pervedimų iš rezervų bei akcininkų įnašų nuostoliams padengti suma. 
+3. Bendrovės paskirstytinąjį pelną (nuostolius) sudaro ataskaitinių finansinių metų pelno (nuostolių) ir ankstesnių finansinių metų nepaskirstytojo pelno (nuostolių) ataskaitinių finansinių metų pabaigoje, pervedimų iš rezervų bei akcininkų įnašų nuostoliams padengti suma. Po pelno paskirstymo likusi paskirstytinojo pelno (nuostolių) suma turi būti ne mažesnė negu pagal taikomus finansinės atskaitomybės standartus nematerialiajam turtui priskirtų plėtros darbų balansinės vertės ataskaitinių finansinių metų pabaigoje suma.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -6119,7 +6142,10 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 
 
 
-9) momentas, nuo kurio po reorganizavimo pasibaigiančios bendrovės teisės ir pareigos pagal sandorius pereina po reorganizavimo veiksiančiai bendrovei ir sandoriai įtraukiami į šios bendrovės buhalterinę apskaitą;
+9) momentas, nuo kurio po reorganizavimo pasibaigiančios bendrovės teisės ir pareigos pagal sandorius pereina po reorganizavimo veiksiančiai bendrovei ir sandoriai įtraukiami į šios bendrovės finansinę apskaitą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -6924,7 +6950,10 @@ Nr. XII-1072, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10459
 2. Be kitų šiame Įstatyme ir Civiliniame kodekse nustatytų pareigų, bendrovės likvidatoriaus kompetencijai priskiriamos šios funkcijos:
 
 
-1) sudaryti likvidavimo laikotarpio pradžios balansą;
+1) sudaryti finansinių ataskaitų rinkinį pagal sprendimo dėl likvidavimo priėmimo dienos duomenis ir pagal likvidavimo pabaigos dienos duomenis;
+Straipsnio punkto pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -6964,7 +6993,10 @@ Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
 
 
 
-3. Jei bendrovės likvidavimas trunka ilgiau negu metus, po kiekvienų finansinių metų pabaigos ne vėliau kaip per 3 mėnesius likvidatorius sudaro metinių finansinių ataskaitų rinkinį ir likvidavimo ataskaitą. Metinių finansinių ataskaitų rinkinį ir likvidavimo ataskaitą tvirtina visuotinis akcininkų susirinkimas. Su šiais dokumentais turi teisę susipažinti visi akcininkai ir kreditoriai.
+3. Jeigu bendrovės likvidavimas trunka ilgiau negu metus, po kiekvienų finansinių metų pabaigos ne vėliau kaip per 3 mėnesius likvidatorius sudaro metinių finansinių ataskaitų rinkinį ir likvidavimo ataskaitą. Metinių finansinių ataskaitų rinkinį, išskyrus atvejus, kai bendrovė likviduojama Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais, ir likvidavimo ataskaitą tvirtina eilinis visuotinis akcininkų susirinkimas. Su šiais dokumentais turi teisę susipažinti visi akcininkai ir kreditoriai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -7111,7 +7143,10 @@ Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
 
 
 
-2. Jeigu šio Įstatymo 75 straipsnio 1 dalies 3 punkte nurodytų užsienio bendrovių metinių finansinių ataskaitų rinkinys sudaromas vadovaujantis kitokiais, negu Europos Sąjungoje taikomi, reikalavimais, turi būti sudarytas ir vietoj šio straipsnio 1 dalies 3 punkte nurodyto užsienio bendrovės metinių finansinių ataskaitų rinkinio juridinių asmenų registrui pateiktas užsienio bendrovės filialo metinių finansinių ataskaitų rinkinys. Užsienio bendrovės filialo metinių finansinių ataskaitų rinkinys sudaromas buhalterinę apskaitą ir finansinę atskaitomybę reglamentuojančių Lietuvos Respublikos teisės aktų nustatyta tvarka.
+2. Jeigu šio Įstatymo 75 straipsnio 1 dalies 3 punkte nurodytų užsienio bendrovių metinių finansinių ataskaitų rinkinys sudaromas vadovaujantis kitokiais, negu Europos Sąjungoje taikomi, reikalavimais, turi būti sudarytas ir vietoj šio straipsnio 1 dalies 3 punkte nurodyto užsienio bendrovės metinių finansinių ataskaitų rinkinio juridinių asmenų registrui pateiktas užsienio bendrovės filialo metinių finansinių ataskaitų rinkinys. Užsienio bendrovės filialo metinių finansinių ataskaitų rinkinys sudaromas finansinę apskaitą ir finansinę atskaitomybę reglamentuojančių Lietuvos Respublikos teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
 
 
 
@@ -7391,6 +7426,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
+ 
 Lietuvos Respublikos 
 akcinių bendrovių įstatymo 
 priedas
@@ -7399,73 +7437,27 @@ priedas
  
 
 
-1. 1982 m. gruodžio 17 d. Šeštoji Tarybos direktyva 82/891/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu dėl akcinių bendrovių skaidymo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 50) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190). 
-Punkto pakeitimai:
-Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
- 
+1. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos direktyva 2007/36/EB dėl naudojimosi tam tikromis akcininkų teisėmis bendrovėse, kurių akcijos įtrauktos į prekybą reguliuojamoje rinkoje, su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES.
 
 
 
 
-2. 1989 m. gruodžio 21 d. Vienuoliktoji Tarybos direktyva 89/666/EEB dėl atskleidimo reikalavimų filialams, įsteigtiems valstybėse narėse tam tikrų tipų bendrovių, kurioms taikomi kitos valstybės narės įstatymai (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 100).
+2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/102/EB bendrovių teisės srityje dėl vienanarių privačių ribotos atsakomybės bendrovių.
 
 
 
 
-3. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/63/EB, iš dalies keičianti Tarybos direktyvas 78/855/EEB ir 82/891/EEB dėl reikalavimo, kad jungiant arba skaidant akcines bendroves nepriklausomas ekspertas parengtų ataskaitą (OL 2007 L 300, p. 47).
+3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/95/ES.
 
 
 
 
-4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos direktyva 2007/36/EB dėl naudojimosi tam tikromis akcininkų teisėmis bendrovėse, kurių akcijos įtrauktos į prekybą reguliuojamoje rinkoje (OL 2007 L 184, p. 17), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190). 
-Punkto pakeitimai:
-Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
- 
+4. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu.
 
 
 
 
-5. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/101/EB dėl apsaugos priemonių, kurių valstybės narės reikalauja iš Sutarties 48 straipsnio antroje pastraipoje apibrėžtų bendrovių siekiant apsaugoti narių ir trečiųjų asmenų interesus, koordinavimo, siekiant suvienodinti tokias apsaugos priemones (OL 2009 L 258, p. 11).
-
-
-
-
-6. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/102/EB bendrovių teisės srityje dėl vienanarių privačių ribotos atsakomybės bendrovių (OL 2009 L 258, p. 20).
-
-
-
-
-7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/109/EB, iš dalies keičianti Tarybos direktyvų 77/91/EEB, 78/855/EEB ir 82/891/EEB bei Direktyvos 2005/56/EB nuostatas dėl ataskaitų bei dokumentų rengimo ir teikimo reikalavimų jungiant ir skaidant bendroves (OL 2009 L 259, p. 14).
-
-
-
-
-8. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/35/ES dėl akcinių bendrovių jungimo (OL 2011 L 110, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190). 
-Punkto pakeitimai:
-Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
- 
-
-
-
-
-9. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/30/ES dėl apsaugos priemonių, kurių valstybės narės, siekdamos tokias priemones suvienodinti, reikalauja iš Sutarties dėl Europos Sąjungos veikimo 54 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, akcines bendroves steigiant, palaikant ir keičiant jų kapitalą, koordinavimo (OL 2012 L 315, p. 74), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES (OL 2014 L 173, p. 190).
-Punkto pakeitimai:
-Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
- 
-
-
-
-
-10. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).
-TAR pastaba. Papildymas 10 punktu įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema.
-
-
-
-
-11. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1). 
-Papildyta punktu:
-Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
- 
+5. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
 
 
 Priedo pakeitimai:
@@ -7476,8 +7468,10 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641 
 Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
-
-
+Priedo pakeitimai:
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+ 
+part_a83e74f421334b9eb3777a90428f5701_end
 
 
 Pakeitimai:
@@ -7739,3 +7733,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 41-1 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 55 ir 78 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 20, 37-2, 39, 47-2, 58, 59, 63, 74, 76 straipsnių ir priedo pakeitimo įstatymas
