@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-01-14 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-05-27
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -1030,7 +1030,19 @@ c) už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio val
 
 
 
-d) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
+d) už veiklą einant valstybės ar savivaldybės valdomos įmonės ar jos dukterinės bendrovės kolegialaus organo nario pareigas. Už šiame papunktyje nurodytą veiklą atlyginama valstybės ar savivaldybės valdomos įmonės ar jos dukterinės bendrovės lėšomis Vyriausybės nustatyta tvarka; 
+TAR pastaba. 17 straipsnio 1 dalies 1 punkto d papunkčio nuostatos taikomos ir valstybės tarnautojams, kurie į valstybės ar savivaldybės valdomos įmonės ar jos dukterinės bendrovės kolegialaus organo nario pareigas paskirti (išrinkti) iki 2022-05-01., jeigu jie veiklą, eidami nurodytas pareigas, vykdo 2022-05-01 ar vėliau.
+Papildyta papunkčiu:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
+
+
+
+
+e) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
+Papunkčio numeracijos pakeitimas:
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
+ 
 
 
 
@@ -1062,9 +1074,10 @@ d) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
 
 
 
-7) valstybės tarnautoją į pareigas priimančio asmens sprendimu būti paskirti (išrinkti) eiti su valstybės ar savivaldybės atstovavimu susijusias pareigas įmonių, įstaigų, organizacijų, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, kolegialiuose organuose;
+7) būti paskirti (išrinkti) eiti pareigas įmonių, įstaigų, organizacijų, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, kolegialiuose organuose;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2610, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20634
+Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
  
 
 
