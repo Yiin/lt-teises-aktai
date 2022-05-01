@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2021-12-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -839,291 +839,160 @@ VALSTYBĖS POLITIKOS ELEKTRONINIŲ RYŠIŲ SRITYJE FORMAVIMO IR ELEKTRONINIŲ RY
 6 straipsnis. Ryšių reguliavimo tarnyba
 
 
-1. Ryšių reguliavimo tarnyba – elektroninių ryšių veiklą reguliuojanti ir pagal šiame įstatyme nustatytą kompetenciją šio įstatymo nuostatų laikymąsi prižiūrinti ir jas įgyvendinanti savarankiška valstybės įstaiga, veikianti nepriklausomai pagal šį ir kitus įstatymus bei savo nuostatus. Ryšių reguliavimo tarnybos nuostatus tvirtina Vyriausybė. 
+1. Ryšių reguliavimo tarnyba – elektroninių ryšių veiklą reguliuojanti ir pagal šiame įstatyme nustatytą kompetenciją šio įstatymo nuostatų laikymąsi prižiūrinti ir jas įgyvendinanti savarankiška valstybės įstaiga, veikianti nepriklausomai, nešališkai ir skaidriai pagal šį ir kitus įstatymus bei savo nuostatus. Ryšių reguliavimo tarnybos nuostatus tvirtina Vyriausybė. 
 
 
 
 
-2. Ryšių reguliavimo tarnyba pagal Europos Sąjungos teisės aktus, reglamentuojančius visuomeninius santykius, susijusius su šio įstatymo reguliavimo dalyku, yra Lietuvos Respublikos nacionalinė reguliavimo institucija.
+2. Ryšių reguliavimo tarnyba pagal Europos Sąjungos teisės aktų, reglamentuojančių visuomeninius santykius, susijusius su šio įstatymo reguliavimo dalyku, nuostatas yra Lietuvos Respublikos nacionalinė reguliavimo institucija.
 
 
 
 
-3. Ryšių reguliavimo tarnyba yra viešasis juridinis asmuo – valstybės biudžetinė įstaiga, turinti sąskaitą banke, antspaudą su Lietuvos valstybės herbu ir savo pavadinimu.
+3. Ryšių reguliavimo tarnyba yra viešasis juridinis asmuo – valstybės biudžetinė įstaiga, turinti sąskaitą banke, antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. Ryšių reguliavimo tarnybos savininko teises ir pareigas įgyvendina Vyriausybė. Ryšių reguliavimo tarnyba gali būti reorganizuojama ar likviduojama įstatymu. Ryšių reguliavimo tarnybos veiklai Lietuvos Respublikos biudžetinių įstaigų įstatymas taikomas tiek, kiek šiame įstatyme nenustatyta kitaip. 
 
 
 
 
-4. Ryšių reguliavimo tarnybos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų ir Ryšių reguliavimo tarnybos pajamos, gautos už teikiamas paslaugas ir atliekamus darbus, ir kituose įstatymuose numatytos Ryšių reguliavimo tarnybos pajamos. Ryšių reguliavimo tarnybos finansavimas privalo užtikrinti, kad Ryšių reguliavimo tarnyba turėtų pakankamai techninių, finansinių ir žmogiškųjų išteklių jai pavestoms funkcijoms atlikti.
+4. Ryšių reguliavimo tarnybą valdo ir Ryšių reguliavimo tarnybos kompetencijai priskirtais klausimais sprendimus priima kolegialus Ryšių reguliavimo tarnybos valdymo organas – Ryšių reguliavimo tarnybos taryba (toliau – Taryba), išskyrus atvejus, kai pagal šį įstatymą sprendimus vienasmeniškai priima Tarybos pirmininkas. Taryba priima nutarimus. 
 
 
 
 
-5. Ryšių reguliavimo tarnyba nustato teikiamų paslaugų ir atliekamų darbų, kurie yra susiję su jai, kaip Lietuvos Respublikos nacionalinei reguliavimo institucijai, pavestų funkcijų atlikimu ir už kuriuos yra taikomi užmokesčiai, sąrašą, šių užmokesčių dydžius ir mokėjimo tvarką. Pagal šią dalį nustatyti užmokesčiai turi būti pagrįsti Ryšių reguliavimo tarnybos sąnaudomis, patiriamomis jai, kaip Lietuvos Respublikos nacionalinei reguliavimo institucijai, atliekant pavestas funkcijas ir teikiant konkrečias paslaugas ar atliekant konkrečius darbus, taip pat skaidrūs, nediskriminaciniai ir proporcingi, įskaitant veiksmingo elektroninių ryšių išteklių valdymo ir efektyvaus elektroninių ryšių išteklių naudojimo užtikrinimą. Ryšių reguliavimo tarnyba, paskelbusi šio straipsnio 7 dalyje nurodytus metinių ataskaitų rinkinį ir veiklos ataskaitą, apskaičiuoja skirtumą tarp šioje dalyje nurodytų sąnaudų ir surinktų užmokesčių ir patvirtina reikalingus užmokesčių už teikiamas paslaugas ir atliekamus darbus dydžių pakeitimus, kad užmokesčiai už Ryšių reguliavimo tarnybos teikiamas paslaugas ir atliekamus darbus atitiktų Ryšių reguliavimo tarnybos patiriamas sąnaudas.
+5. Tarybą sudaro penki nariai. Tarybos pirmininką ir keturis narius skiria Respublikos Prezidentas Ministro Pirmininko teikimu 5 metų kadencijai. Pirmą kartą po šio įstatymo įsigaliojimo skiriant Tarybos narius, du Tarybos nariai skiriami 3 metų kadencijai. Tas pats asmuo Tarybos pirmininku ar nariu gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės, išskyrus atvejį, kai Tarybos narys buvo paskirtas 3 metų kadencijai, – jis gali pretenduoti į tris kadencijas.
 
 
 
 
-6. Ryšių reguliavimo tarnyba pajamas, gautas iš pagal šio straipsnio 5 dalį nustatytų užmokesčių, privalo įmokėti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka. Ryšių reguliavimo tarnybos pajamos, gautos iš pagal šio straipsnio 5 dalį nustatytų užmokesčių, gali būti naudojamos tik Ryšių reguliavimo tarnybai, kaip Lietuvos Respublikos nacionalinei reguliavimo institucijai, pavestų funkcijų atlikimo finansavimui. 
+6. Kandidatai į Tarybos narius atrenkami Vyriausybės nustatyta tvarka.
 
 
 
 
-7. Ryšių reguliavimo tarnyba kiekvienais metais Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka parengtą Ryšių reguliavimo tarnybos metinių ataskaitų rinkinį ir veiklos ataskaitą pateikia Lietuvos Respublikos Seimui bei Vyriausybei ir viešai juos paskelbia Ryšių reguliavimo tarnybos interneto svetainėje. 
+7. Tarybos pirmininkas iš paskirtų Tarybos narių savo įsakymu skiria pirmininko pavaduotoją. Kai nėra Tarybos pirmininko, Tarybos pirmininką pavaduoja Tarybos pirmininko pavaduotojas, o kai nėra Tarybos pirmininko ir Tarybos pirmininko pavaduotojo, jį pavaduoja vienas iš Tarybos narių pagal Tarybos pirmininko nustatytą eiliškumą (toliau – Tarybos pirmininką pavaduojantis asmuo). 
 
 
 
 
-8. Ryšių reguliavimo tarnyba skelbia informaciją, kuria prisidedama prie rinkos atvirumo ir konkurencingumo, taip pat informaciją, susijusią su šio įstatymo įgyvendinimu. Šios informacijos skelbimo taisykles, įskaitant skelbiamos informacijos mastą, nustato Ryšių reguliavimo tarnyba, atsižvelgdama į teisės normas, reglamentuojančias konfidencialios informacijos, įskaitant valstybės, tarnybos, komercines paslaptis ar informaciją apie fizinio asmens privatų gyvenimą, apsaugą.
+8. Ministras Pirmininkas iki Tarybos nario kadencijos pabaigos likus ne mažiau kaip 30 kalendorinių dienų pateikia Respublikos Prezidentui Tarybos narių kandidatūras. Jeigu pasibaigus Tarybos narių kadencijai nėra paskirti kiti asmenys arba tie patys asmenys antrai kadencijai, šias pareigas einantys asmenys savo pareigas eina tol, kol naujai kadencijai paskiriamas Tarybos narys.
 
 
 
 
-9. Ryšių reguliavimo tarnybos teisės aktai ar jų nepriėmimas per nustatytus terminus Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka gali būti skundžiami teismui. Skundo dėl Ryšių reguliavimo tarnybos teisės akto padavimas teismui nesustabdo šio teisės akto galiojimo, išskyrus atvejus, kai teismas nusprendžia kitaip.
+9. Pasibaigus Tarybos nario kadencijai, jeigu jis nėra paskiriamas antrai kadencijai ir jeigu per 2 mėnesių terminą buvęs Tarybos narys nepradeda eiti valstybės pareigūno ar valstybės tarnautojo pareigų, jam išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Išeitinė išmoka nemokama, jeigu Tarybos narys šias pareigas nustojo eiti šio straipsnio 12 dalies 2, 3, 4, 5, 7, 8 ar 9 punktuose nustatytais pagrindais.
+
+
+
+
+10. Tarybos nariais gali būti tik nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį (ne žemesnį kaip magistro laipsnio ar jam prilygintą) išsilavinimą. Tarybos narys negali eiti jokių kitų renkamų ar skiriamų pareigų, dirbti kitose įstaigose ar įmonėse, išskyrus mokslinį, pedagoginį ir kūrybinį darbą. Tarybos narys negali būti laikomas nepriekaištingos reputacijos, jeigu jis neatitinka Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams nustatytų nepriekaištingos reputacijos kriterijų. Tarybos nariu negali būti skiriamas asmuo, kuris likus mažiau kaip vieniems metams iki paskyrimo į Tarybos nario pareigas dienos ėjo pareigas įmonių, kurių veiklą reguliuoja Ryšių reguliavimo tarnyba, valdymo organuose. Pasibaigus Tarybos nario kadencijai, jis vienus metus nuo kadencijos pabaigos negali eiti pareigų tų įmonių, kurių veiklą jo kadencijos metu reguliavo Ryšių reguliavimo tarnyba, valdymo organuose.
+
+
+
+
+11. Tarybos nariai yra valstybės pareigūnai. Tarybos nariams Lietuvos Respublikos darbo kodeksas taikomas tiek, kiek jų statuso nereglamentuoja šis įstatymas. Tarybos pirmininko darbo užmokestis yra lygus 5 (penkiems) šalies ūkio darbuotojų praėjusių kalendorinių metų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. Tarybos pirmininko pavaduotojo darbo užmokestis yra lygus 95 procentams Tarybos pirmininko darbo užmokesčio dydžio. Tarybos narių darbo užmokestis yra lygus 90 procentų Tarybos pirmininko darbo užmokesčio dydžio. Jeigu nėra Lietuvos statistikos departamento apskaičiuoto ir paskelbto praėjusių kalendorinių metų šalies ūkio darbuotojų vidutinių mėnesinių bruto darbo užmokesčio vidurkio, Tarybos pirmininko atlyginimo dydis skaičiuojamas pagal užpraeitų kalendorinių metų duomenis tol, kol Lietuvos statistikos departamentas apskaičiuoja ir paskelbia praėjusių kalendorinių metų duomenis. 
+
+
+
+
+12. Respublikos Prezidentas Ministro Pirmininko motyvuotu teikimu Tarybos narius atleidžia iš pareigų įstatymų nustatyta tvarka šiais atvejais:
+
+
+1) pasibaigus kadencijai;
+
+
+
+
+2) savo noru;
+
+
+
+
+3) išrinkus arba paskyrus į kitas pareigas;
+
+
+
+
+4) įsiteisėjus apkaltinamajam teismo nuosprendžiui dėl Tarybos nario;
+
+
+
+
+5) paaiškėjus, kad šiurkščiai pažeidė savo pareigas; pareigų pažeidimas laikomas šiurkščiu, jeigu jis atitinka Valstybės tarnybos įstatyme nustatytus šiurkštaus tarnybinio nusižengimo požymius;
+
+
+
+
+6) dėl sveikatos būklės;
+
+
+
+
+7) netekus Lietuvos Respublikos pilietybės;
+
+
+
+
+8) paaiškėjus aplinkybėms, dėl kurių asmuo negali būti laikomas nepriekaištingos reputacijos;
+
+
+
+
+9) jeigu savo poelgiu pažemino Tarybos nario vardą.
+
+
+
+
+
+
+13. Respublikos Prezidento sprendimas atleisti Tarybos narį turi būti motyvuotas ir nurodytas atleidimo pagrindas. Atleisto iš pareigų Tarybos nario prašymu atleidimo motyvai turi būti paskelbti Ryšių reguliavimo tarnybos interneto svetainėje ar visuomenės informavimo priemonėse. Lietuvos Respublikos Prezidento dekretas dėl Tarybos nario atleidimo gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka ir sąlygomis.
+
+
+
+
+14. Ryšių reguliavimo tarnyba priima savarankiškus, nuo jokios valstybės ar savivaldybių institucijos, įmonės, įstaigos ar kitos organizacijos nepriklausomus sprendimus. Tarybos nariai, Ryšių reguliavimo tarnybos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, veikia nepriklausomai nuo visų rinkos interesų, atlikdami savo pareigas, nesiekia gauti jokių Vyriausybės arba bet kurio kito viešojo ar privataus asmens tiesioginių nurodymų ir jų nevykdo; šis reikalavimas neturi įtakos Lietuvos Respublikos Seimo ir Vyriausybės nustatytos valstybės strategijos ir valstybės politikos įgyvendinimui, taip pat glaudžiam bendradarbiavimui su kitomis valstybės institucijomis.
+
+
+
+
+15. Tarybos nutarimai priimami vardiniu balsavimu. Tarybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip 3 Tarybos nariai, įskaitant jos pirmininką (kai nėra Tarybos pirmininko, – Tarybos pirmininko pavaduotoją, o kai nėra jų abiejų, – Tarybos pirmininką pavaduojantį asmenį). Sprendimai priimami posėdyje dalyvaujančių Tarybos narių balsų dauguma. Balsams pasiskirsčius po lygiai, lemia Tarybos pirmininko (kai nėra Tarybos pirmininko, – Tarybos pirmininko pavaduotojo, o kai nėra jų abiejų, – Tarybos pirmininką pavaduojančio asmens) balsas.
+
+
+
+
+16. Tarybos nutarimai ar jų nepriėmimas Administracinių bylų teisenos įstatymo nustatyta tvarka ir terminais gali būti skundžiami teismui. Skundo dėl Tarybos nutarimo padavimas teismui nesustabdo šio teisės akto galiojimo, išskyrus atvejus, kai teismas nusprendžia kitaip. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
 
 
 
 
+7 straipsnis. Ryšių reguliavimo tarnybos finansavimas 
 
 
-7 straipsnis. Ryšių reguliavimo tarnybos valdymas
+1. Ryšių reguliavimo tarnybos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų ir Ryšių reguliavimo tarnybos pajamos, gautos už teikiamas paslaugas ir atliekamus darbus, taip pat kituose įstatymuose numatytos Ryšių reguliavimo tarnybos pajamos. Ryšių reguliavimo tarnybos finansavimas privalo užtikrinti, kad Ryšių reguliavimo tarnyba turėtų pakankamai techninių, finansinių ir žmogiškųjų išteklių jai pavestoms funkcijoms atlikti.
 
 
-1. Ryšių reguliavimo tarnybai vadovauja direktorius. Ryšių reguliavimo tarnybos direktorių 5 metams skiria Respublikos Prezidentas Ministro Pirmininko teikimu. Tas pats asmuo Ryšių reguliavimo tarnybos direktoriumi gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės. Ryšių reguliavimo tarnybos direktorius turi turėti ne mažesnę kaip 3 metų vadovaujamo darbo bent viename iš Ryšių reguliavimo tarnybos reguliuojamų sektorių patirtį (įskaitant darbo patirtį užsienio valstybėse). 
 
 
+2. Taryba nustato Ryšių reguliavimo tarnybos teikiamų paslaugų ir atliekamų darbų, kurie yra susiję su jai, kaip Lietuvos Respublikos nacionalinei reguliavimo institucijai, pavestų funkcijų atlikimu ir už kuriuos yra taikomi užmokesčiai, sąrašą, šių užmokesčių dydžius ir mokėjimo tvarką. Pagal šią dalį nustatyti užmokesčiai turi būti pagrįsti Ryšių reguliavimo tarnybos sąnaudomis, patiriamomis vykdant jai, kaip Lietuvos Respublikos nacionalinei reguliavimo institucijai, pavestas funkcijas, ir teikiant konkrečias paslaugas ar atliekant konkrečius darbus, taip pat skaidrūs, nediskriminaciniai ir proporcingi, įskaitant veiksmingo elektroninių ryšių išteklių valdymo ir efektyvaus jų naudojimo užtikrinimą. Ryšių reguliavimo tarnyba, paskelbusi šio straipsnio 4 dalyje nurodytą savo metinių ataskaitų rinkinį, apskaičiuoja skirtumą tarp šioje dalyje nurodytų sąnaudų ir surinktų užmokesčių ir patvirtina reikalingus užmokesčių už teikiamas paslaugas ir atliekamus darbus dydžių pakeitimus, kad užmokesčiai už teikiamas paslaugas ir atliekamus darbus atitiktų Ryšių reguliavimo tarnybos patiriamas sąnaudas.
 
 
-2. Ryšių reguliavimo tarnybos direktorius yra valstybės pareigūnas. Jo teisinio statuso ypatumus nustato šis įstatymas. Ryšių reguliavimo tarnybos direktoriui Lietuvos Respublikos darbo kodeksas yra taikomas tiek, kiek jo statuso nereglamentuoja šis įstatymas.
 
 
+3. Ryšių reguliavimo tarnyba pajamas, gautas iš pagal šio straipsnio 2 dalį nustatytų užmokesčių, privalo įmokėti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka. Ryšių reguliavimo tarnybos pajamos, gautos iš pagal šio straipsnio 2 dalį nustatytų užmokesčių, gali būti naudojamos tik Ryšių reguliavimo tarnybai, kaip Lietuvos Respublikos nacionalinei reguliavimo institucijai, pavestų funkcijų atlikimo finansavimui. 
 
 
-3. Ryšių reguliavimo tarnybos direktoriaus darbo užmokestį (pareiginę algą, priedą už ištarnautus Lietuvos valstybei metus, vienkartines priemokas) nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
 
 
+4. Ryšių reguliavimo tarnyba savo metinių ataskaitų rinkinį rengia Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka. 
 
 
-4. Ryšių reguliavimo tarnybos taryba (toliau – Taryba) yra kolegialus Ryšių reguliavimo tarnybos organas. Tarybą sudaro septyni nariai, jos pirmininkas yra Ryšių reguliavimo tarnybos direktorius. Tarybą 5 metams skiria Respublikos Prezidentas Ministro Pirmininko teikimu. Kai Tarybos nario įgaliojimai nutrūksta nesibaigus Tarybos kadencijai, į laisvą vietą likusiam Tarybos kadencijos laikui šioje dalyje nustatyta tvarka skiriamas naujas Tarybos narys. Tas pats asmuo Tarybos nariu gali būti paskirtas ne daugiau kaip dviem kadencijoms iš eilės. Tarybos nariais gali būti tik nepriekaištingos reputacijos, kaip ji apibrėžta Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį ar jam prilygintą išsilavinimą ir ne mažesnę kaip vienų metų darbo Ryšių reguliavimo tarnybos reguliuojamuose sektoriuose patirtį (įskaitant darbo patirtį užsienio valstybėse). Tarybos nariu negali būti skiriamas asmuo, kuris eina pareigas Ryšių reguliavimo tarnybos reguliuojamų sektorių įmonių valdymo organuose arba gali turėti tiesioginių ar netiesioginių interesų reguliuojant šių sektorių įmonių veiklą, taip pat asmuo, kuris yra tarnybos ar darbo santykiais susijęs su Ryšių reguliavimo tarnybos reguliuojamų sektorių politiką formuojančiomis valstybės institucijomis arba joms pavaldžiomis institucijomis, įstaigomis, organizacijomis ar jų reguliavimo sričiai priskirtomis valstybės įmonėmis, akcinėmis bendrovėmis ir uždarosiomis akcinėmis bendrovėmis, kuriose valstybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime. Tarybos nariai išsirenka Tarybos pirmininko pavaduotoją. Tarybos narių funkcijų vykdymas yra neatlyginamas. Tarybos darbo tvarką, posėdžių organizavimo, nutarimų priėmimo tvarką nustato Tarybos tvirtinamas Tarybos darbo reglamentas. Tarybą techniškai aprūpina Ryšių reguliavimo tarnyba iš savo lėšų. 
-
-
-
-
-5. Tarybos nariai, atlikdami savo funkcijas, privalo nesiekti gauti nurodymų ar jų nepriimti iš jokio asmens, nepiktnaudžiauti tarnyba, vengti viešųjų ir privačių interesų konflikto, neatstovauti Lietuvos Respublikos ir užsienio valstybių ūkio subjektų interesams. 
-
-
-
-
-6. Ryšių reguliavimo tarnybos direktorius leidžia įsakymus. Taryba priima nutarimus. 
-
-
-
-
-7. Ryšių reguliavimo tarnybos direktorius sprendžia visus Ryšių reguliavimo tarnybos kompetencijos klausimus. Šiame įstatyme nustatytais atvejais Ryšių reguliavimo tarnybos direktorius priimamus sprendimus privalo suderinti su Taryba.
-
-
-
-
-8. Ryšių reguliavimo tarnybos direktorius:
-
-
-1) atstovauja ir (arba) įgalioja atstovauti Ryšių reguliavimo tarnybai Lietuvos Respublikoje ir užsienyje; 
-
-
-
-
-2) suderinęs su Taryba, tvirtina Ryšių reguliavimo tarnybos struktūrą, struktūrinių padalinių nuostatus;
-
-
-
-
-3) tvirtina Ryšių reguliavimo tarnybos pareigybių sąrašus ir pareigybių aprašymus;
-
-
-
-
-4) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš pareigų Ryšių reguliavimo tarnybos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, juos skatina ir skiria jiems nuobaudas; 
-
-
-
-
-5) tvirtina Ryšių reguliavimo tarnybos strateginį veiklos planą;
-
-
-
-
-6) pasirašo Tarybos priimtus nutarimus; 
-
-
-
-
-7) priima įsakymus ir kontroliuoja, kaip jie vykdomi;
-
-
-
-
-8) užtikrina, kad Ryšių reguliavimo tarnybos veikloje būtų laikomasi įstatymų ir kitų teisės aktų; 
-
-
-
-
-9) pateikia Tarybai, Seimui ir Vyriausybei Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka parengtus Ryšių reguliavimo tarnybos metinių ataskaitų rinkinį ir veiklos ataskaitą;
-
-
-
-
-10) vykdo kitus įstatymų, Vyriausybės nutarimų, Europos Sąjungos teisės aktų ir jų įgyvendinamųjų teisės aktų jam suteiktus įgaliojimus.
-
-
-
-
-
-
-9. Ryšių reguliavimo tarnybos direktorius gali turėti pavaduotojų. Pavaduotojus skiria Ryšių reguliavimo tarnybos direktorius Valstybės tarnybos įstatymo nustatyta tvarka. Kai Ryšių reguliavimo tarnybos direktoriaus nėra, jį laikinai pavaduoja pavaduotojas (tuo atveju, jeigu pavaduotojų yra ne vienas, – direktoriaus paskirtas pavaduotojas).
-
-
-
-
-10. Taryba:
-
-
-1) svarsto radijo ryšio plėtros planus ir pateikia Ryšių reguliavimo tarnybos direktoriui nuomonę dėl jų;
-
-
-
-
-2) derina Ryšių reguliavimo tarnybos teikiamų paslaugų ir atliekamų darbų, už kuriuos taikomi užmokesčiai, sąrašą, šių užmokesčių dydžius ir mokėjimo tvarką;
-
-
-
-
-3) derina Ryšių reguliavimo tarnybos metinę biudžeto programos sąmatą;
-
-
-
-
-4) derina Elektroninių ryšių rinkos tyrimo taisykles;
-
-
-
-
-5) derina šio įstatymo 35 straipsnio 2 dalyje ir 40 straipsnio 1, 8, 9 ir 10 dalyse nurodytus Ryšių reguliavimo tarnybos tvirtinamus teisės aktus;
-
-
-
-
-6) derina informacijos, kuria prisidedama prie rinkos atvirumo ir konkurencingumo, skelbimo taisykles, įskaitant skelbiamos informacijos mastą;
-
-
-
-
-7) derina tvarką, mastą ir sąlygas, kuriomis Ryšių reguliavimo tarnyba skelbia su šio įstatymo įgyvendinimu susijusią informaciją;
-
-
-
-
-8) derina šio įstatymo 11 straipsnio 7 dalyje nurodytas konsultavimosi taisykles;
-
-
-
-
-9) derina ginčų tarp ūkio subjektų nagrinėjimo taisykles, tarpininkavimo ir (arba) taikinimo procedūrų taisykles;
-
-
-
-
-10) derina galutinių paslaugų gavėjų, išskyrus vartotojus, ir elektroninių ryšių paslaugų teikėjų ginčų nagrinėjimo Ryšių reguliavimo tarnyboje taisykles;
-
-
-
-
-11) tvirtina Tarybos darbo reglamentą ir derina Ryšių reguliavimo tarnybos vidaus darbo reglamentą;
-
-
-
-
-12) svarsto Ryšių reguliavimo tarnybos veiklos ataskaitą, metinių ataskaitų rinkinį ir pateikia Ryšių reguliavimo tarnybos direktoriui nuomonę dėl jų;
-
-
-
-
-13) svarsto Ryšių reguliavimo tarnybos strateginių veiklos planų projektus ir pateikia Ryšių reguliavimo tarnybos direktoriui nuomonę dėl jų;
-
-
-
-
-14) svarsto ir teikia Ryšių reguliavimo tarnybos direktoriui pasiūlymus dėl ekonominių sankcijų skyrimo ūkio subjektams, nesilaikantiems šio įstatymo reikalavimų;
-
-
-
-
-15) svarsto kitus Ryšių reguliavimo tarnybos rengiamų teisės aktų projektus ir teikia Ryšių reguliavimo tarnybos direktoriui pasiūlymus dėl jų priėmimo, pakeitimo ar papildymo;
-
-
-
-
-16) analizuoja Ryšių reguliavimo tarnybos veiklą ir teikia Ryšių reguliavimo tarnybos direktoriui pasiūlymus.
-
-
-
-
-
-
-11. Respublikos Prezidentas Ministro Pirmininko motyvuotu teikimu Ryšių reguliavimo tarnybos direktorių ir (arba) Tarybos narius atleidžia iš pareigų įstatymų nustatyta tvarka šiais atvejais:
-
-
-1) Ryšių reguliavimo tarnybos direktoriaus ir (arba) Tarybos nario prašymu;
-
-
-
-
-2) pasibaigus įgaliojimų terminui;
-
-
-
-
-3) dėl sveikatos būklės;
-
-
-
-
-4) Ryšių reguliavimo tarnybos direktorių išrinkus į kitas pareigas arba jo paties sutikimu perkėlus į kitą darbą;
-
-
-
-
-5) Tarybos narį išrinkus į kitas pareigas arba jo paties sutikimu perkėlus į kitą darbą, jeigu tai lemia, kad Tarybos narys nebeatitinka šio straipsnio 4 dalyje nustatytų reikalavimų;
-
-
-
-
-6) įsiteisėjus apkaltinamajam teismo nuosprendžiui dėl Ryšių reguliavimo tarnybos direktoriaus ar Tarybos nario;
-
-
-
-
-7) jeigu savo poelgiu pažemino Ryšių reguliavimo tarnybos direktoriaus ir (arba) Tarybos nario vardą.
-
-
-
-
-
-
-12. Ryšių reguliavimo tarnybos direktoriaus ir (arba) Tarybos nario atleidimo priežastys turi būti nurodytos raštu atleistam Ryšių reguliavimo tarnybos direktoriui ir (arba) Tarybos nariui ir jo prašymu turi būti paskelbtos Ryšių reguliavimo tarnybos interneto svetainėje ar per visuomenės informavimo priemones. Lietuvos Respublikos Prezidento dekretas dėl Ryšių reguliavimo tarnybos direktoriaus ir (arba) Tarybos nario atleidimo gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka ir sąlygomis.
-
-
-
-
-13. Ministras Pirmininkas iki Ryšių reguliavimo tarnybos direktoriaus ir (arba) Tarybos narių įgaliojimų termino pabaigos pateikia Respublikos Prezidentui Ryšių reguliavimo tarnybos direktoriaus ir (arba) Tarybos narių kandidatūras. Ryšių reguliavimo tarnybos direktorius ir (arba) Tarybos nariai paskiriami iki pareigas einančių Ryšių reguliavimo tarnybos direktoriaus ir (arba) Tarybos narių įgaliojimų termino pabaigos. Nustatytu laiku nepaskyrus Ryšių reguliavimo tarnybos direktoriaus ir (arba) Tarybos narių, šias pareigas einantys asmenys savo pareigas eina tol, kol naujai kadencijai paskiriami Ryšių reguliavimo tarnybos direktorius ir (arba) Tarybos narys. 
-
-
-
-
-14. Ryšių reguliavimo tarnybos darbo tvarką nustato Ryšių reguliavimo tarnybos direktoriaus tvirtinamas Ryšių reguliavimo tarnybos vidaus darbo reglamentas.
+Straipsnio pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
-
-
 
 
 
@@ -1184,10 +1053,10 @@ VALSTYBĖS POLITIKOS ELEKTRONINIŲ RYŠIŲ SRITYJE FORMAVIMO IR ELEKTRONINIŲ RY
 
 
 
-9 straipsnis. Ryšių reguliavimo tarnybos funkcijos 
+9 straipsnis. Ryšių reguliavimo tarnybos, Tarybos ir jos pirmininko funkcijos 
 
 
-Ryšių reguliavimo tarnyba:
+1. Ryšių reguliavimo tarnyba:
 
 
 1) prižiūri ir įgyvendina šio įstatymo ir jo įgyvendinamųjų teisės aktų nuostatas, išskyrus šio įstatymo ir kitų teisės aktų nuostatas, kurių priežiūra ir įgyvendinimas pagal šiame įstatyme nustatytą kompetenciją priklauso kitoms valstybės institucijoms; 
@@ -1215,12 +1084,12 @@ Ryšių reguliavimo tarnyba:
 
 
 
-6) sudaro Tarptautinių sutarčių įstatymo 1 straipsnio 2 dalyje nurodytus susitarimus Ryšių reguliavimo tarnybos vardu, kai pagal Lietuvos Respublikos tarptautinę sutartį ar Europos Sąjungos teisės aktus atitinkamos funkcijos, kurios patenka į Ryšių reguliavimo tarnybos kompetenciją, pavestos atlikti telekomunikacijų (elektroninių ryšių) administracijai ar nacionalinei telekomunikacijų (elektroninių ryšių) reguliavimo institucijai; sudarant šiame punkte nurodytus susitarimus, Vyriausybės nustatyta Tarptautinių sutarčių įstatymo 1 straipsnio 2 dalyje nurodytų susitarimų rengimo ir sudarymo tvarka netaikoma; Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo turi teisę atlikti visus veiksmus, susijusius su šiame punkte nurodytų susitarimų rengimu ir sudarymu; informacija apie tokius susitarimus teikiama Lietuvos Respublikos užsienio reikalų ministerijai; 
+6) sudaro Tarptautinių sutarčių įstatymo 1 straipsnio 2 dalyje nurodytus susitarimus Ryšių reguliavimo tarnybos vardu, kai pagal Lietuvos Respublikos tarptautinę sutartį ar Europos Sąjungos teisės aktus atitinkamos funkcijos, kurios patenka į Ryšių reguliavimo tarnybos kompetenciją, pavestos atlikti telekomunikacijų (elektroninių ryšių) administracijai ar nacionalinei telekomunikacijų (elektroninių ryšių) reguliavimo institucijai; sudarant šiame punkte nurodytus susitarimus, Vyriausybės nustatyta Tarptautinių sutarčių įstatymo 1 straipsnio 2 dalyje nurodytų susitarimų rengimo ir sudarymo tvarka netaikoma; Tarybos pirmininkas ar jo įgaliotas asmuo turi teisę atlikti visus veiksmus, susijusius su šiame punkte nurodytų susitarimų rengimu ir sudarymu; informacija apie tokius susitarimus teikiama Lietuvos Respublikos užsienio reikalų ministerijai; 
 
 
 
 
-7) rengia ir teikia Susisiekimo ministerijai pasiūlymus dėl elektroninių ryšių politikos formavimo;
+7) rengia pasiūlymus dėl elektroninių ryšių politikos formavimo ir juos teikia Susisiekimo ministerijai;
 
 
 
@@ -1245,7 +1114,7 @@ Ryšių reguliavimo tarnyba:
 
 
 
-12) vertina valstybės plėtojamų viešųjų didmeninių sparčiojo plačiajuosčio ryšio paslaugų, teikiamų vietovėse, kuriose kitos sparčiojo plačiajuosčio ryšio infrastruktūros nėra ar nėra konkurencijos teikiant šias paslaugas, tarifus, teikia išvadas dėl jų atitikties teisės aktų reikalavimams, vadovaudamasi susisiekimo ministro tvirtinama su Ryšių reguliavimo tarnyba suderinta metodika; 
+12) vertina valstybės plėtojamų viešųjų didmeninių sparčiojo plačiajuosčio ryšio paslaugų, teikiamų vietovėse, kuriose kitos sparčiojo plačiajuosčio ryšio infrastruktūros nėra ar nėra konkurencijos teikiant šias paslaugas, tarifus, teikia išvadas dėl jų atitikties teisės aktų reikalavimams, vadovaudamasi Lietuvos Respublikos susisiekimo ministro tvirtinama su Ryšių reguliavimo tarnyba suderinta metodika;
 
 
 
@@ -1255,12 +1124,109 @@ Ryšių reguliavimo tarnyba:
 
 
 
-14) šio įstatymo ir kitų įstatymų, Vyriausybės nutarimų, Europos Sąjungos teisės aktų ir jų įgyvendinamųjų teisės aktų pagrindu priima teisės aktus, atlieka kitas šiame ir kituose įstatymuose, Vyriausybės nutarimuose, Europos Sąjungos teisės aktuose ir jų įgyvendinamuosiuose teisės aktuose, Ryšių reguliavimo tarnybos nuostatuose nustatytas funkcijas.
+14) rengia ir tvirtina informacijos, kuria prisidedama prie rinkos atvirumo ir konkurencingumo, skelbimo taisykles, įskaitant skelbiamos informacijos mastą, atsižvelgdama į teisės normas, reglamentuojančias konfidencialios informacijos, įskaitant valstybės, tarnybos, komercines paslaptis ar informaciją apie fizinio asmens privatų gyvenimą, apsaugą;
+
+
+
+
+15) šio įstatymo ir kitų įstatymų, Vyriausybės nutarimų, Europos Sąjungos teisės aktų ir jų įgyvendinamųjų teisės aktų pagrindu priima teisės aktus, atlieka kitas šio ir kitų įstatymų, Vyriausybės nutarimų, Europos Sąjungos teisės aktų ir jų įgyvendinamųjų teisės aktų, Ryšių reguliavimo tarnybos nuostatų nustatytas funkcijas.
+
+
+
+
+
+
+2. Taryba:
+
+
+1) pristačiusi Vyriausybei, kiekvienais metais tvirtina Ryšių reguliavimo tarnybos pagrindinius veiklos rodiklius;
+
+
+
+
+2) tvirtina Ryšių reguliavimo tarnybos strateginį veiklos planą, biudžeto programos sąmatą, pajamų ir išlaidų metines sąmatas, Ryšių reguliavimo tarnybos struktūrą, struktūrinių padalinių nuostatus, Ryšių reguliavimo tarnybos darbo reglamentą, taip pat nustato Ryšių reguliavimo tarnybos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, didžiausią leistiną pareigybių skaičių, atsižvelgdama į Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių įstatymu Ryšių reguliavimo tarnybai patvirtintus asignavimus darbo užmokesčiui;
+
+
+
+
+3) tvirtina Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka parengtą Ryšių reguliavimo tarnybos metinių ataskaitų rinkinį;
+
+
+
+
+4) tvirtina Ryšių reguliavimo tarnybos teisės aktus – nutarimus visais Ryšių reguliavimo tarnybos kompetencijai priklausančiais klausimais, išskyrus šiame įstatyme nurodytus atvejus, kai atitinkamus įsakymus jo, kaip vienasmenio įstaigos vadovo, kompetencijai priklausančiais klausimais priima Tarybos pirmininkas;
+
+
+
+
+5) Ryšių reguliavimo tarnybos vardu priima sprendimus, susijusius su elektroninių ryšių rinkų tyrimais, ūkio subjektų patikrinimais, leidimų išdavimu, laikinųjų priemonių taikymu; 
+
+
+
+
+6) Ryšių reguliavimo tarnybos vardu skiria ekonomines sankcijas ūkio subjektams arba atsisako jas skirti;
+
+
+
+
+7) Ryšių reguliavimo tarnybos vardu nustato įpareigojimus ūkio subjektams, įskaitant įpareigojimus didelę įtaką atitinkamoje rinkoje turintiems ūkio subjektams;
+
+
+
+
+8) nagrinėja ginčus tarp ūkio subjektų ir priima visus su tuo susijusius sprendimus; 
+
+
+
+
+9) Ryšių reguliavimo tarnybos vardu priima kitus sprendimus kitais šiame ir kituose įstatymuose, Vyriausybės nutarimuose, Europos Sąjungos teisės aktuose ir jų įgyvendinamuosiuose teisės aktuose, Ryšių reguliavimo tarnybos nuostatuose nustatytais klausimais.
+
+
+
+
+
+
+3. Tarybos pirmininkas vadovauja Ryšių reguliavimo tarnybai ir atlieka šias funkcijas:
+
+
+1) atstovauja ir (arba) įgalioja Tarybos narį atstovauti Ryšių reguliavimo tarnybai Lietuvos Respublikoje ir užsienyje; 
+
+
+
+
+2) Ryšių reguliavimo tarnybos vardu pasirašo tarptautines sutartis ir susitarimus; 
+
+
+
+
+3) kiekvienais metais pateikia Respublikos Prezidentui, Seimui bei Vyriausybei ir paskelbia viešai Ryšių reguliavimo tarnybos interneto svetainėje Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka parengtą Ryšių reguliavimo tarnybos metinių ataskaitų rinkinį;
+
+
+
+
+4) priima sprendimus dėl Tarybos nario nušalinimo ar (ir) nusišalinimo svarstant atitinkamus klausimus Tarybos posėdyje;
+
+
+
+
+5) tvirtina valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių sąrašus ir šių pareigybių aprašymus;
+
+
+
+
+6) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš pareigų Ryšių reguliavimo tarnybos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, juos skatina ir skiria jiems nuobaudas;
+
+
+
+
+7) priima kitus administracinio ir ūkinio pobūdžio sprendimus. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
-
-
-
-
 
 
 
@@ -2955,7 +2921,10 @@ Elektroninių ryšių tinklų, kurie naudojami skaitmeninės televizijos paslaug
 
 
 
-24. Ginčų tarp ūkio subjektų nagrinėjimo Ryšių reguliavimo tarnyboje taisyklės gali nustatyti, kad ginčą nagrinėja ir visus susijusius sprendimus priima Ryšių reguliavimo tarnybos direktoriaus sudaryta komisija. Tokiu atveju komisijos sprendimas, kuriuo ginčas išnagrinėjamas iš esmės ar nutraukiamas ginčo nagrinėjimas, įsigalioja tik jį patvirtinus Ryšių reguliavimo tarnybos direktoriui.
+24. Ginčų tarp ūkio subjektų nagrinėjimą padeda organizuoti ir Tarybai pasiūlymus dėl ginčų sprendimo teikia Tarybos pirmininko iš Ryšių reguliavimo tarnybos valstybės tarnautojų sudaryta komisija. Komisijos darbo tvarką nustato Taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+ 
 
 
 
@@ -5652,7 +5621,10 @@ INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 
 
 
-3. Ryšių reguliavimo tarnybos įgalioti pareigūnai, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus ir kitus). Jų formas ir pildymo tvarką nustato Ryšių reguliavimo tarnyba.
+3. Ryšių reguliavimo tarnybos įgalioti pareigūnai, įgyvendindami jiems suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus ir kitus). Šių dokumentų formas ir pildymo tvarką nustato Taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+ 
 
 
 
@@ -5662,7 +5634,10 @@ INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 
 
 
-5. Asmenys turi teisę apskųsti neteisėtus Ryšių reguliavimo tarnybos įgaliotų pareigūnų veiksmus Ryšių reguliavimo tarnybos direktoriui. Skundas pateikiamas ne vėliau kaip per 10 darbo dienų nuo sužinojimo apie skundžiamus veiksmus dienos. Ryšių reguliavimo tarnybos direktorius sprendimą dėl skundo turi priimti per 10 darbo dienų nuo jo gavimo Ryšių reguliavimo tarnyboje dienos. Jeigu asmenys nesutinka su Ryšių reguliavimo tarnybos direktoriaus sprendimu arba Ryšių reguliavimo tarnybos direktorius nepriėmė sprendimo per šioje dalyje nustatytą terminą, asmenys turi teisę paduoti skundą teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Skundo padavimas Ryšių reguliavimo tarnybos įgaliotų pareigūnų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
+5. Asmenys turi teisę apskųsti neteisėtus Ryšių reguliavimo tarnybos įgaliotų pareigūnų veiksmus Tarybai. Skundas pateikiamas ne vėliau kaip per 10 darbo dienų nuo sužinojimo apie skundžiamus veiksmus dienos. Taryba sprendimą dėl skundo turi priimti per 10 darbo dienų nuo jo gavimo dienos. Jeigu asmenys nesutinka su Tarybos sprendimu arba Taryba nepriėmė sprendimo per 10 darbo dienų, asmenys turi teisę paduoti skundą teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Skundo padavimas Ryšių reguliavimo tarnybos įgaliotų pareigūnų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+ 
 
 
 
@@ -5683,7 +5658,10 @@ INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 
 
 
-2. Pažeidimo nagrinėjimo procesas inicijuojamas Ryšių reguliavimo tarnybos pareigūno teikimu Ryšių reguliavimo tarnybos direktoriui ar jo įgaliotam asmeniui dėl ekonominės sankcijos skyrimo. Teikime išdėstoma galimo pažeidimo požymiai, galimo pažeidimo padarymo aplinkybės, nurodomas teisės aktas, kurio reikalavimus galbūt pažeidė ūkio subjektas, siūloma ekonominė sankcija ir ją pagrindžiantys įrodymai. Apie Ryšių reguliavimo tarnybos pareigūno teikimą dėl ekonominės sankcijos skyrimo ne vėliau kaip per 3 darbo dienas nuo jo pateikimo Ryšių reguliavimo tarnybos direktoriui ar jo įgaliotam asmeniui dienos yra informuojamas ūkio subjektas, kuriam inicijuotas pažeidimo nagrinėjimo procesas (kartu išsiunčiama Ryšių reguliavimo tarnybos pareigūno teikimo dėl ekonominės sankcijos skyrimo kopija).
+2. Pažeidimo nagrinėjimo procesas inicijuojamas Ryšių reguliavimo tarnybos pareigūno teikimu Tarybai dėl ekonominės sankcijos skyrimo. Teikime išdėstoma galimo pažeidimo požymiai, galimo pažeidimo padarymo aplinkybės, nurodomas teisės aktas, kurio reikalavimus galimai pažeidė ūkio subjektas, siūloma ekonominė sankcija ir ją pagrindžiantys įrodymai. Apie Ryšių reguliavimo tarnybos pareigūno teikimą dėl ekonominės sankcijos skyrimo ne vėliau kaip per 3 darbo dienas nuo jo pateikimo Tarybai dienos yra informuojamas ūkio subjektas, kuriam inicijuotas pažeidimo nagrinėjimo procesas (kartu išsiunčiama Ryšių reguliavimo tarnybos pareigūno teikimo dėl ekonominės sankcijos skyrimo kopija). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+ 
 
 
 
@@ -5706,7 +5684,9 @@ INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 
 
 
-4) galimybę likus ne mažiau kaip 5 darbo dienoms iki posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo pradžios pateikti Ryšių reguliavimo tarnybos direktoriui ar jo įgaliotam asmeniui rašytinius paaiškinimus ir visus duomenis, turinčius reikšmės nagrinėjant ūkio subjekto padarytą pažeidimą.
+4) galimybę likus ne mažiau kaip 5 darbo dienoms iki posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo pradžios pateikti Tarybai rašytinius paaiškinimus ir visus duomenis, turinčius reikšmės nagrinėjant ūkio subjekto padarytą pažeidimą. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
 
 
@@ -5729,12 +5709,17 @@ INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 
 
 
-3. Jeigu yra gautas ūkio subjekto ar jo atstovo prašymas atidėti posėdį, ūkio subjekto padarytas pažeidimas gali būti išnagrinėtas nedalyvaujant ūkio subjektui ar jo atstovui, jeigu Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo, įvertinęs neatvykimo į posėdį priežasčių svarbą, atsižvelgdamas į pažeidimo nagrinėjimo proceso stadiją, posėdyje dalyvaujančių asmenų nuomonę dėl posėdžio atidėjimo ir kitas svarbias aplinkybes, pripažįsta neatvykimo į posėdį priežastis nesvarbiomis ir atmeta ūkio subjekto ar jo atstovo prašymą. 
+3. Jeigu yra gautas ūkio subjekto ar jo atstovo prašymas atidėti posėdį, ūkio subjekto padarytas pažeidimas gali būti išnagrinėtas nedalyvaujant ūkio subjektui ar jo atstovui, jeigu Taryba, įvertinusi neatvykimo į posėdį priežasčių svarbą, atsižvelgdama į pažeidimo nagrinėjimo proceso stadiją, posėdyje dalyvaujančių asmenų nuomonę dėl posėdžio atidėjimo ir kitas svarbias aplinkybes, pripažįsta neatvykimo į posėdį priežastis nesvarbiomis ir atmeta ūkio subjekto ar jo atstovo prašymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+ 
 
 
 
 
-4. Posėdyje dėl ūkio subjekto padaryto pažeidimo nagrinėjimo gali dalyvauti ir savo paaiškinimus pateikti Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens iniciatyva arba ūkio subjekto, kuriam inicijuotas pažeidimo nagrinėjimo procesas, prašymu kviečiami suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai, taip pat kiti asmenys (liudytojai, ekspertai, specialistai). Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo turi teisę atsisakyti tenkinti ūkio subjekto prašymą kviesti kitus asmenis (liudytojus, ekspertus, specialistus) į posėdį dėl ūkio subjekto padaryto pažeidimo nagrinėjimo, jeigu toks prašymas yra nepagrįstas arba jį patenkinus būtų vilkinamas ūkio subjektui inicijuotas pažeidimo nagrinėjimo procesas.
+4. Posėdyje dėl ūkio subjekto padaryto pažeidimo nagrinėjimo gali dalyvauti ir savo paaiškinimus pateikti Tarybos pirmininko ar narių iniciatyva, taip pat ūkio subjekto, kuriam inicijuotas pažeidimo nagrinėjimo procesas, prašymu kviečiami suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai, taip pat kiti asmenys (liudytojai, ekspertai, specialistai). Taryba turi teisę atsisakyti tenkinti ūkio subjekto prašymą kviesti kitus asmenis (liudytojus, ekspertus, specialistus) į posėdį dėl ūkio subjekto padaryto pažeidimo nagrinėjimo, jeigu toks prašymas yra nepagrįstas arba jį patenkinus būtų vilkinamas ūkio subjektui inicijuotas pažeidimo nagrinėjimo procesas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
 
 
@@ -5761,10 +5746,12 @@ INFORMACIJOS GAVIMAS IR ŠIO ĮSTATYMO LAIKYMOSI PRIEŽIŪRA
 88 straipsnis. Pažeidimo nagrinėjimo viešumas
 
 
-Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama apsaugoti valstybės, tarnybos ar komercines paslaptis arba užtikrinti asmens teisę į privataus gyvenimo neliečiamumą. Sprendimą dėl neviešo posėdžio priima Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo savo iniciatyva arba asmenų, dalyvaujančių nagrinėjant pažeidimą, prašymu.
+Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama apsaugoti valstybės, tarnybos, profesines ar komercines paslaptis arba užtikrinti asmens teisę į privataus gyvenimo neliečiamumą. Sprendimą dėl neviešo posėdžio priima Taryba savo iniciatyva ar asmenų, dalyvaujančių nagrinėjant pažeidimą, prašymu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
-
-
 
 
 
@@ -5772,12 +5759,12 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 89 straipsnis. Pažeidimo nagrinėjimo procesas
 
 
-1. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo ne vėliau kaip per 5 darbo dienas nuo Ryšių reguliavimo tarnybos pareigūno teikimo gavimo paskiria posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo datą. Į posėdį kviečiami ūkio subjektas, kuriam inicijuotas pažeidimo nagrinėjimo procesas, ir kiti suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai.
+1. Taryba ne vėliau kaip per 5 darbo dienas nuo Ryšių reguliavimo tarnybos pareigūno teikimo gavimo paskiria posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo datą. Į posėdį kviečiami ūkio subjektas, kuriam inicijuotas pažeidimo nagrinėjimo procesas, ir kiti suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai.
 
 
 
 
-2. Posėdžiui pirmininkauja Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo. Posėdis pradedamas Ryšių reguliavimo tarnybos pareigūno, inicijavusio pažeidimo nagrinėjimo procesą, pranešimu. Savo paaiškinimus turi teisę pateikti posėdyje dalyvaujantys ūkio subjektas, kuriam inicijuotas pažeidimo nagrinėjimo procesas, suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai, taip pat kiti asmenys (liudytojai, ekspertai, specialistai). Kiekvienam asmeniui, pateikusiam paaiškinimą, kiti posėdžio dalyviai turi teisę užduoti klausimų. 
+2. Posėdžiui pirmininkauja Tarybos pirmininkas ar jo įgaliotas kitas Tarybos narys. Posėdis pradedamas Ryšių reguliavimo tarnybos pareigūno, inicijavusio pažeidimo nagrinėjimo procesą, pranešimu. Savo paaiškinimus turi teisę pateikti posėdyje dalyvaujantys ūkio subjektas, kuriam inicijuotas pažeidimo nagrinėjimo procesas, suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai, taip pat kiti asmenys (liudytojai, ekspertai, specialistai). Kiekvienam asmeniui, pateikusiam paaiškinimą, kiti posėdžio dalyviai turi teisę užduoti klausimų. 
 
 
 
@@ -5787,31 +5774,32 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 
 
 
-4. Posėdis vyksta valstybine kalba. Asmuo, nesuprantantis valstybinės kalbos ar ja nekalbantis ir pageidaujantis, kad posėdis būtų verčiamas į jam suprantamą kalbą ir (arba) iš jos, ne vėliau kaip likus 14 darbo dienų iki posėdžio pradžios privalo raštu informuoti Ryšių reguliavimo tarnybos direktorių ar jo įgaliotą asmenį apie vertimo būtinybę, nurodydamas, kokios kalbos vertėjas bus reikalingas. Tokiu atveju Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo į posėdį kviečia vertėją. Asmuo, šioje dalyje nustatyta tvarka neinformavęs Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens apie vertėjo reikalingumą, vertėją kviečia savo iniciatyva ir už vertėjo suteiktas paslaugas sumoka iš savo lėšų.
+4. Posėdis vyksta valstybine kalba. Asmuo, nesuprantantis valstybinės kalbos ar ja nekalbantis ir pageidaujantis, kad posėdis būtų verčiamas į jam suprantamą kalbą ir (arba) iš jos, ne vėliau kaip likus 14 darbo dienų iki posėdžio pradžios privalo raštu informuoti Ryšių reguliavimo tarnybą apie vertimo būtinybę, nurodydamas, kokios kalbos vertėjas bus reikalingas. Tokiu atveju Ryšių reguliavimo tarnyba kviečia į posėdį vertėją. Asmuo, šioje dalyje nustatyta tvarka neinformavęs Ryšių reguliavimo tarnybos apie vertėjo reikalingumą, vertėją kviečia savo iniciatyva ir už vertėjo suteiktas paslaugas sumoka iš savo lėšų.
 
 
 
 
-5. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo posėdžio metu turi teisę atidėti posėdį, kai negalima nagrinėti ūkio subjekto padaryto pažeidimo tame posėdyje dėl to, kad neatvyko liudytojas, ekspertas, specialistas ar vertėjas, arba būtina išreikalauti naujus įrodymus, kai yra gautas pagrįstas ūkio subjekto ar jo atstovo prašymas ir dėl kitų svarbių priežasčių, ir paskirti kito posėdžio datą, laiką ir vietą. Priežasčių svarbą įvertina Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo, atsižvelgdamas į pažeidimo nagrinėjimo proceso stadiją, posėdyje dalyvaujančių asmenų nuomonę dėl posėdžio atidėjimo ir kitas svarbias aplinkybes. Apie priimtą sprendimą pranešama posėdyje dalyvaujantiems asmenims. Jeigu ūkio subjektas, kuriam inicijuotas pažeidimo nagrinėjimo procesas, ir (arba) kiti kviesti į posėdį (arba kuriuos nuspręsta kviesti į kitą posėdį) suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai nedalyvauja, jiems išsiunčiamas pranešimas apie kito posėdžio datą, laiką ir vietą šio įstatymo 86 straipsnio 1 dalyje nustatyta tvarka.
+5. Taryba turi teisę atidėti posėdį, kai negalima nagrinėti ūkio subjekto padaryto pažeidimo tame posėdyje dėl to, kad neatvyko liudytojas, ekspertas, specialistas ar vertėjas, arba būtina išreikalauti naujus įrodymus, kai yra gautas pagrįstas ūkio subjekto ar jo atstovo prašymas ir dėl kitų svarbių priežasčių, ir paskirti kito posėdžio datą, laiką ir vietą. Priežasčių svarbą įvertina Taryba, atsižvelgdama į pažeidimo nagrinėjimo proceso stadiją, posėdyje dalyvaujančių asmenų nuomonę dėl posėdžio atidėjimo ir kitas svarbias aplinkybes. Apie priimtą sprendimą pranešama posėdyje dalyvaujantiems asmenims. Jeigu ūkio subjektas, kuriam inicijuotas pažeidimo nagrinėjimo procesas, ir (arba) kiti kviesti į posėdį (arba kuriuos nuspręsta kviesti į kitą posėdį) suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai nedalyvauja, jiems išsiunčiamas pranešimas apie kito posėdžio datą, laiką ir vietą šio įstatymo 86 straipsnio 1 dalyje nustatyta tvarka.
 
 
 
 
-6. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo turi teisę sustabdyti pažeidimo nagrinėjimo procesą, kai nusprendžia, kad būtina gauti pažeidimui išnagrinėti reikalingus duomenis (dokumentus).
+6. Taryba turi teisę sustabdyti pažeidimo nagrinėjimo procesą, kai nusprendžia, kad būtina gauti pažeidimui išnagrinėti reikalingus duomenis (dokumentus).
 
 
 
 
-7. Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens iniciatyva ar proceso dalyvių prašymu pažeidimo nagrinėjimo procesas atnaujinamas Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens sprendimu.
+7. Tarybos ar jos įgalioto asmens iniciatyva ar proceso dalyvių prašymu pažeidimo nagrinėjimo procesas atnaujinamas Tarybos sprendimu.
 
 
 
 
-8. Posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo metu daromas garso įrašas ir rašomas protokolas. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo ir posėdžio sekretorius ne vėliau kaip per 3 darbo dienas po posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo dienos pasirašo posėdžio protokolą. Posėdžio sekretorius posėdžio protokolą per vieną darbo dieną nuo posėdžio protokolo pasirašymo dienos išsiunčia ūkio subjektui, kuriam inicijuotas pažeidimo nagrinėjimo procesas.
+8. Posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo metu daromas garso įrašas ir rašomas protokolas. Posėdžiui pirmininkavęs Tarybos narys ir posėdžio sekretorius ne vėliau kaip per 3 darbo dienas po posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo dienos pasirašo posėdžio protokolą. Posėdžio sekretorius posėdžio protokolą per vieną darbo dieną nuo posėdžio protokolo pasirašymo dienos išsiunčia ūkio subjektui, kuriam inicijuotas pažeidimo nagrinėjimo procesas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
- 
-
-
 
 
 
@@ -5991,32 +5979,12 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 92 straipsnis. Ekonominės sankcijos skyrimas ar atsisakymas ją skirti
 
 
-1. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo ne vėliau kaip per 10 darbo dienų po posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo protokolo pasirašymo dienos pateikia ekonominės sankcijos skyrimo klausimą apsvarstyti Tarybai. Tarybai pateikiamas Ryšių reguliavimo tarnybos pareigūno teikimas, posėdžio dėl ūkio subjekto padaryto pažeidimo nagrinėjimo protokolas ir kita medžiaga, turinti reikšmės ekonominės sankcijos skyrimui. Taryba, apsvarsčiusi ekonominės sankcijos skyrimo ūkio subjektui klausimą, pateikia savo siūlymus dėl ekonominės sankcijos Ryšių reguliavimo tarnybos direktoriui ar jo įgaliotam asmeniui ne vėliau kaip per 10 darbo dienų nuo ekonominės sankcijos skyrimo klausimo apsvarstyti Tarybai pateikimo dienos. Taryba turi teisę pateikti šiuos siūlymus dėl ekonominės sankcijos skyrimo ūkio subjektui:
-
-
-1) mažinti siūlomos skirti baudos dydį;
+1. Ryšių reguliavimo tarnyba priima sprendimą skirti ūkio subjektui ekonominę sankciją arba atsisakyti skirti ekonominę sankciją. 
 
 
 
 
-2) didinti siūlomos skirti baudos dydį;
-
-
-
-
-3) atsisakyti skirti ekonominę sankciją dėl šio straipsnio 3 dalyje nurodytų aplinkybių.
-
-
-
-
-
-
-2. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo, gavę Tarybos išvadą dėl ekonominės sankcijos, per 5 darbo dienas nuo šios išvados gavimo, išnagrinėję visą medžiagą dėl ūkio subjekto padaryto pažeidimo ir įvertinę Tarybos išvadą dėl ekonominės sankcijos, priima sprendimą skirti ūkio subjektui ekonominę sankciją arba atsisakyti skirti ekonominę sankciją. Tuo atveju, kai Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens sprendimas dėl ekonominės sankcijos nesutampa su Tarybos išvada, šiame sprendime turi būti nurodyti motyvai, kodėl neatsižvelgta į Tarybos išvadą.
-
-
-
-
-3. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo priima sprendimą atsisakyti skirti ekonominę sankciją, jeigu:
+2. Ryšių reguliavimo tarnyba priima sprendimą atsisakyti skirti ekonominę sankciją, jeigu:
 
 
 1) nėra pažeidimo požymių;
@@ -6041,7 +6009,7 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 
 
 
-4. Sprendime turi būti nurodoma:
+3. Sprendime turi būti nurodoma:
 
 
 1) priėmimo data, vieta ir numeris;
@@ -6096,10 +6064,12 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 
 
 
-5. Ryšių reguliavimo tarnyba per 3 darbo dienas nuo sprendimo dėl ekonominės sankcijos skyrimo ar atsisakymo ją skirti priėmimo dienos išsiunčia šį sprendimą ūkio subjektui, kuriam paskirta ekonominė sankcija arba atsisakyta ją skirti.
+4. Ryšių reguliavimo tarnyba per 3 darbo dienas nuo sprendimo dėl ekonominės sankcijos skyrimo ar atsisakymo ją skirti priėmimo dienos išsiunčia šį sprendimą ūkio subjektui, kuriam paskirta ekonominė sankcija arba atsisakyta ją skirti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
-
-
 
 
 
@@ -6118,20 +6088,22 @@ Sprendimas skirti ekonominę sankciją gali būti skundžiamas Administracinių 
 94 straipsnis. Teisė susipažinti su pažeidimo nagrinėjimo proceso medžiaga
 
 
-1. Ūkio subjektas, kuriam inicijuotas ekonominės sankcijos skyrimo procesas ar yra paskirta ekonominė sankcija, kiti suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai turi teisę susipažinti su visa ekonominės sankcijos skyrimo proceso medžiaga, išskyrus ekonominės sankcijos skyrimo proceso medžiagą ar jos dalį, kuri šio straipsnio 3 dalyje nustatytais atvejais Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens sprendimu pripažinta nevieša.
+1. Ūkio subjektas, kuriam inicijuotas ekonominės sankcijos skyrimo procesas ar yra paskirta ekonominė sankcija, kiti suinteresuoti asmenys, kurių teisėtiems interesams, teisėms ir (arba) pareigoms turėjo įtakos ūkio subjekto padarytas pažeidimas, ir (arba) jų atstovai turi teisę susipažinti su visa ekonominės sankcijos skyrimo proceso medžiaga, išskyrus ekonominės sankcijos skyrimo proceso medžiagą ar jos dalį, kuri šio straipsnio 3 dalyje nustatytais atvejais Ryšių reguliavimo tarnybos sprendimu pripažinta nevieša.
 
 
 
 
-2. Ekspertai, specialistai turi teisę susipažinti su ekonominės sankcijos skyrimo proceso medžiaga, susijusia su ekspertizės išvados ar specialisto paaiškinimo dalyku, išskyrus ekonominės sankcijos skyrimo proceso medžiagą ar jos dalį, kuri šio straipsnio 3 dalyje nustatytais atvejais Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens sprendimu pripažinta nevieša.
+2. Ekspertai, specialistai turi teisę susipažinti su ekonominės sankcijos skyrimo proceso medžiaga, susijusia su ekspertizės išvados ar specialisto paaiškinimo dalyku, išskyrus ekonominės sankcijos skyrimo proceso medžiagą ar jos dalį, kuri šio straipsnio 3 dalyje nustatytais atvejais Ryšių reguliavimo tarnybos sprendimu pripažinta nevieša.
 
 
 
 
-3. Kai yra pagrindas manyti, kad gali būti atskleista valstybės, tarnybos, profesinė ar komercinė paslaptis, Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo savo iniciatyva ar ekonominės sankcijos skyrimo proceso dalyvių prašymu ekonominės sankcijos skyrimo proceso medžiagą ar jos dalį pripažįsta nevieša. Šioje dalyje nurodytas sprendimas turi būti motyvuotas ir jame turi būti nurodyta jo apskundimo tvarka.
+3. Kai yra pagrindas manyti, kad gali būti atskleista valstybės, tarnybos, profesinė ar komercinė paslaptis, Ryšių reguliavimo tarnyba savo iniciatyva ar ekonominės sankcijos skyrimo proceso dalyvių prašymu ekonominės sankcijos skyrimo proceso medžiagą ar jos dalį pripažįsta nevieša. Šioje dalyje nurodytas sprendimas turi būti motyvuotas ir jame turi būti nurodyta jo apskundimo tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
-
-
 
 
 
@@ -6139,17 +6111,17 @@ Sprendimas skirti ekonominę sankciją gali būti skundžiamas Administracinių 
 95 straipsnis. Ekonominių sankcijų vykdymas
 
 
-1. Ūkio subjektas privalo įvykdyti Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens paskirtą ekonominę sankciją ir sumokėti paskirtą baudą į valstybės biudžetą ne vėliau kaip per 30 kalendorinių dienų nuo sprendimo gavimo dienos.
+1. Ūkio subjektas privalo įvykdyti Ryšių reguliavimo tarnybos paskirtą ekonominę sankciją ir sumokėti paskirtą baudą į valstybės biudžetą ne vėliau kaip per 30 kalendorinių dienų nuo sprendimo gavimo dienos.
 
 
 
 
-2. Kai yra motyvuotas ūkio subjekto prašymas, Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo, atsižvelgę į ūkio subjekto turtinę padėtį, kitas reikšmingas aplinkybes, turi teisę baudos ar jos dalies mokėjimą atidėti iki 6 mėnesių.
+2. Kai yra motyvuotas ūkio subjekto prašymas, Ryšių reguliavimo tarnyba, atsižvelgdama į ūkio subjekto turtinę padėtį, kitas reikšmingas aplinkybes, turi teisę baudos ar jos dalies mokėjimą atidėti iki 6 mėnesių.
 
 
 
 
-3. Ryšių reguliavimo tarnybos direktoriaus ar jo įgalioto asmens sprendimas dėl ekonominės sankcijos skyrimo yra vykdomasis dokumentas. Jeigu jis neįvykdomas per nustatytą terminą, jis pateikiamas vykdyti antstoliams Civilinio proceso kodekso nustatyta tvarka. Sprendimas turi būti pateikiamas vykdyti ne vėliau kaip per 6 mėnesius nuo šio straipsnio 1 ar 2 dalyje nustatyto termino pabaigos.
+3. Ryšių reguliavimo tarnybos sprendimas dėl ekonominės sankcijos skyrimo yra vykdomasis dokumentas. Jeigu jis neįvykdomas per nustatytą terminą, jis pateikiamas vykdyti antstoliams Civilinio proceso kodekso nustatyta tvarka. Sprendimas turi būti pateikiamas vykdyti ne vėliau kaip per 6 mėnesius nuo šio straipsnio 1 ar 2 dalyje nustatyto termino pabaigos.
 
 
 
@@ -6159,10 +6131,12 @@ Sprendimas skirti ekonominę sankciją gali būti skundžiamas Administracinių 
 
 
 
-5. Jeigu sankcija yra skirta ūkio subjektui, kuris yra susijusių asmenų grupė, už tinkamą ekonominių sankcijų įvykdymą atsako visi šios grupės nariai solidariai, atsižvelgiant į šio įstatymo 83 straipsnio 8 dalies nuostatas.
+5. Jeigu sankcija yra skirta ūkio subjektui, kuris yra susijusių asmenų grupė, už tinkamą ekonominių sankcijų įvykdymą atsako visi šios grupės nariai solidariai, atsižvelgiant į šio įstatymo 83 straipsnio 8 dalies nuostatas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
  
-
-
 
 
 
@@ -6177,7 +6151,10 @@ ELEKTRONINIŲ RYŠIŲ SRAUTŲ PRIEŽIŪRA IR STEBĖSENA BEI SPECIALIOS RYŠIO U�
 96 straipsnis. Elektroninių ryšių srautų priežiūra ir stebėsena
 
 
-1. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, privalo įstatymų nustatyta tvarka turimą ir nusikalstamų veikų prevencijai, tyrimui, atskleidimui ar baudžiamojo persekiojimo už jas vykdymui reikalingą informaciją pateikti kriminalinės žvalgybos pagrindinėms institucijoms, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, įstatymų nustatyta tvarka teikia žvalgybos institucijoms informaciją, reikalingą prognozuoti, nustatyti ar šalinti grėsmes, galinčias turėti reikšmės valstybės suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ar ekonominei galiai. Šią informaciją ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, neatlygintinai teikia žvalgybos, kriminalinės žvalgybos pagrindinėms institucijoms, ikiteisminio tyrimo įstaigoms pagal jų paklausimus elektroniniu būdu ir nedelsdami. Visi asmenys, dalyvaujantys keičiantis duomenimis, Vyriausybės nustatyta tvarka ir sąlygomis imasi būtinų priemonių duomenų saugumui užtikrinti, o tam reikalinga papildoma įranga įsigyjama ir išlaikoma valstybės lėšomis. Jeigu atliekant ikiteisminį tyrimą reikia patvirtinti ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, informacijos tikslumą, ikiteisminio tyrimo pareigūnas tiesiogiai raštu kreipiasi į ūkio subjektą ir gauna atsakymą raštu. 
+1. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, privalo įstatymų nustatyta tvarka turimą ir nusikalstamų veikų prevencijai, tyrimui, atskleidimui ar baudžiamojo persekiojimo už jas vykdymui reikalingą informaciją pateikti kriminalinės žvalgybos pagrindinėms institucijoms, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, įstatymų nustatyta tvarka teikia žvalgybos institucijoms informaciją, reikalingą prognozuoti, nustatyti ar šalinti grėsmes, galinčias turėti reikšmės valstybės suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ar ekonominei galiai. Šią informaciją ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, neatlygintinai teikia žvalgybos, kriminalinės žvalgybos pagrindinėms institucijoms, ikiteisminio tyrimo įstaigoms pagal jų paklausimus elektroniniu būdu ir nedelsdami. Visi asmenys, dalyvaujantys keičiantis duomenimis, Vyriausybės nustatyta tvarka ir sąlygomis imasi būtinų priemonių duomenų saugumui užtikrinti, o tam reikalinga papildoma įranga įsigyjama ir išlaikoma valstybės lėšomis. Ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, Vyriausybės nustatyta tvarka bei sąlygomis šiam tikslui skirtomis valstybės biudžeto lėšomis kompensuojamos išlaidos, kurios pagrįstos šios įrangos išlaikymo sąnaudomis. Jeigu atliekant ikiteisminį tyrimą reikia patvirtinti ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, informacijos tikslumą, ikiteisminio tyrimo pareigūnas tiesiogiai raštu kreipiasi į ūkio subjektą ir gauna atsakymą raštu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+ 
 
 
 
@@ -6202,7 +6179,10 @@ ELEKTRONINIŲ RYŠIŲ SRAUTŲ PRIEŽIŪRA IR STEBĖSENA BEI SPECIALIOS RYŠIO U�
 
 
 
-4. Kai yra motyvuota teismo nutartis arba kitas įstatymuose numatytas teisinis pagrindas, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, privalo sudaryti techninę galimybę kriminalinės žvalgybos pagrindinėms institucijoms, žvalgybos institucijoms Lietuvos Respublikos kriminalinės žvalgybos įstatymo ir Lietuvos Respublikos žvalgybos įstatymo nustatyta tvarka, o ikiteisminio tyrimo įstaigoms – Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka kontroliuoti elektroninių ryšių tinklais perduodamos informacijos turinį. Tam reikalinga įranga įsigyjama ir išlaikoma valstybės biudžeto lėšomis. 
+4. Kai yra motyvuota teismo nutartis arba kitas įstatymuose numatytas teisinis pagrindas, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, privalo sudaryti techninę galimybę kriminalinės žvalgybos pagrindinėms institucijoms, žvalgybos institucijoms Lietuvos Respublikos kriminalinės žvalgybos įstatymo ir Lietuvos Respublikos žvalgybos įstatymo nustatyta tvarka, o ikiteisminio tyrimo įstaigoms – Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka kontroliuoti elektroninių ryšių tinklais perduodamos informacijos turinį. Tam reikalinga įranga įsigyjama ir išlaikoma valstybės biudžeto lėšomis. Ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, Vyriausybės nustatyta tvarka ir sąlygomis šiam tikslui skirtomis valstybės biudžeto lėšomis kompensuojamos išlaidos, kurios pagrįstos šios įrangos išlaikymo sąnaudomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+ 
 
 
 
@@ -6312,6 +6292,8 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos
@@ -6536,9 +6518,10 @@ DUOMENŲ, KURIE TURI BŪTI SAUGOMI, KATEGORIJŲ SĄRAŠAS
 
 
 
+part_ff04340c68f943b285fc253b3a7a4e11_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -6628,8 +6611,7 @@ elektroninių ryšių įstatymo
  
 
 
-
-
+part_e67b744f90d04933a3f0cca716487efb_end
 
 
  
