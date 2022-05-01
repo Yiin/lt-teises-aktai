@@ -18,9 +18,11 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
+ 
 
 
-Suvestinė redakcija nuo 2020-11-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -515,7 +517,10 @@ Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
 
 
 
-2. Kiekviena Lietuvos Respublikoje pagaminta alkoholio produktų partija privalo turėti šių produktų atitiktį patvirtinantį dokumentą. Valstybinė maisto ir veterinarijos tarnyba, suderinusi su Žemės ūkio ministerija, patvirtina laboratorijų, turinčių teisę išduoti tokius dokumentus, sąrašą. Šio įstatymo 12 straipsnio 2 dalyje nurodytos alaus gamybos įmonės ir įmonės, gaminančios natūralios fermentacijos midų ir vaisių vyną, kurios pagal sutartį naudojasi nustatyta tvarka atestuotų kitų institucijų ar įmonių maisto produktų kokybės tyrimo laboratorijų paslaugomis, remdamosi šių laboratorijų išduotais alaus, midaus ar vaisių vyno tyrimo protokolais, gali išduoti savo gaminamo alaus, midaus ar vaisių vyno atitikties deklaraciją.
+2. Kiekviena Lietuvos Respublikoje pagaminta alkoholio produktų partija privalo turėti jos gamintojo išduotą atitikties deklaraciją. Alkoholio produktų gamybos įmonės savo gaminamų produktų atitikties deklaracijas privalo išduoti remdamosi savikontrolės sistemose numatytu dažnumu atliekamų alkoholio produktų kokybės laboratorinių tyrimų rezultatais. Alkoholio produktų kokybės laboratoriniai tyrimai turi būti atliekami atestuotose ar akredituotose laboratorijose, turinčiose teisę išduoti alkoholio produktų atitiktį patvirtinančius dokumentus. Atitikties deklaracijų išdavimo tvarką, taip pat laboratorijų, turinčių teisę išduoti alkoholio produktų atitiktį patvirtinančius dokumentus, sąrašą tvirtina Valstybinė maisto ir veterinarijos tarnyba, suderinusi su Žemės ūkio ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-797, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27375
+ 
 
 
 Straipsnio pakeitimai:
@@ -1357,17 +1362,26 @@ Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 
 
 
-6) turi Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka atestuotą alkoholio produktų kokybės tyrimo laboratoriją. Šis reikalavimas netaikomas įmonėms, nurodytoms šios dalies 7 punkte; 
+6) turi Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka atestuotą alkoholio produktų kokybės tyrimo laboratoriją ar yra sudariusios sutartis dėl naudojimosi kitų laboratorijų, įtrauktų į šio Įstatymo 11 straipsnio 2 dalyje nurodytą sąrašą, paslaugomis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-797, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27375
+ 
 
 
 
 
-7) įmonės, gaminančios per metus iki 5 000 hektolitrų alaus, iki 100 hektolitrų natūralios fermentacijos midaus ar vaisių vyno ir neturinčios finansinių ir (ar) techninių galimybių įsirengti nuosavos laboratorijos, yra sudariusios sutartis dėl naudojimosi kitų atestuotų institucijų ar įmonių maisto produktų kokybės tyrimo laboratorijų paslaugomis;
+7) Neteko galios nuo 2022-05-01
+Straipsnio punkto naikinimas:
+Nr. XIV-797, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27375
+ 
 
 
 
 
-8) įmonės alkoholio produktų kokybės tyrimo laboratorijos ir gamybos personalo kvalifikacija atitinka Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintus alkoholio produktų gamybos įmonių personalo kvalifikacijos reikalavimus. Šios dalies 7 punkte nurodytoms įmonėms, neturinčioms alkoholio produktų kokybės tyrimo laboratorijos, šiame punkte nurodytas reikalavimas dėl alkoholio produktų kokybės tyrimo laboratorijos personalo kvalifikacijos netaikomas.
+8) įmonės alkoholio produktų kokybės tyrimo laboratorijos ir (arba) gamybos personalo kvalifikacija atitinka Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintus alkoholio produktų gamybos įmonių personalo kvalifikacijos reikalavimus. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-797, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27375
+ 
 
 
 
@@ -2319,44 +2333,42 @@ Nr. XIII-3226, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15139
 7. Įmonės, turinčios licencijas gaminti alkoholio produktus, įspėjamos apie galimą licencijų galiojimo panaikinimą, jeigu:
 
 
-1) neatestuojama įmonės alkoholio produktų kokybės tyrimo laboratorija;
+1) neatestuojama įmonės alkoholio produktų kokybės tyrimo laboratorija arba laboratorija, su kuria sudaryta šio Įstatymo 181 straipsnio 2 dalies 6 punkte nurodyta sutartis, praranda teisę atlikti alkoholio produktų kokybės tyrimus;
 
 
 
 
-2) alaus gamybos įmonė, neturinti nuosavos laboratorijos, per metus pagamino daugiau kaip 5 000 hektolitrų alaus;
+2) pasibaigė šio Įstatymo 181 straipsnio 2 dalies 6 punkte nurodyta sutartis ir per 5 darbo dienas nesudaroma nauja sutartis;
 
 
 
 
-3) įmonė, gaminanti natūralios fermentacijos midų ar vaisių vyną ir neturinti nuosavos laboratorijos, per metus pagamino daugiau kaip 100 hektolitrų natūralios fermentacijos midaus ar vaisių vyno;
+3) licenciją išduodanti institucija gauna Valstybinės maisto ir veterinarijos tarnybos pranešimą, kad įmonės alkoholio produktų kokybės tyrimo laboratorijos ir (arba) gamybos personalo kvalifikacija neatitinka Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintų alkoholio produktų gamintojų personalo kvalifikacijos reikalavimų;
 
 
 
 
-4) licenciją išduodanti institucija gauna Valstybinės maisto ir veterinarijos tarnybos pranešimą, kad įmonės alkoholio produktų kokybės tyrimo laboratorijos ir gamybos personalo kvalifikacija neatitinka Lietuvos Respublikos Vyriausybės įgaliotos institucijos patvirtintų alkoholio produktų gamintojų personalo kvalifikacijos reikalavimų;
+4) įmonė nepateikia arba pateikia klaidingas alkoholio produktų gamybos ir realizavimo ataskaitas;
 
 
 
 
-5) įmonė nepateikia arba pateikia klaidingas alkoholio produktų gamybos ir realizavimo ataskaitas;
+5) pasikeitus įmonės vadovui paaiškėja, kad naujajam įmonės vadovui yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl bausmės skyrimo, įsiteisėjęs teismo nutarimas, nutartis, įsiteisėjęs atitinkamas muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės maisto ir veterinarijos tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, gabenimą ar laikymą;
 
 
 
 
-6) pasikeitus įmonės vadovui paaiškėja, kad naujajam įmonės vadovui yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl bausmės skyrimo, įsiteisėjęs teismo nutarimas, nutartis, įsiteisėjęs atitinkamas muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės maisto ir veterinarijos tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, gabenimą ar laikymą;
+6) pasikeitus įmonės vadovui paaiškėja, kad naujasis įmonės vadovas yra ar buvo įmonių, kurioms, vadovaujantis šio Įstatymo 34 straipsnio 16 dalimi, buvo panaikintas licencijų gaminti alkoholio produktus galiojimas arba kuriose nustatyta atvejų, kai buvo gaminami, parduodami ir (ar) laikomi, gabenami alkoholio produktai neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos, vadovas ir nepraėjo penkeri metai nuo anksčiau tų įmonių turėtų licencijų galiojimo panaikinimo dienos;
 
 
 
 
-7) pasikeitus įmonės vadovui paaiškėja, kad naujasis įmonės vadovas yra ar buvo įmonių, kurioms, vadovaujantis šio Įstatymo 34 straipsnio 16 dalimi, buvo panaikintas licencijų gaminti alkoholio produktus galiojimas arba kuriose nustatyta atvejų, kai buvo gaminami, parduodami ir (ar) laikomi, gabenami alkoholio produktai neturint Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos, vadovas ir nepraėjo penkeri metai nuo anksčiau tų įmonių turėtų licencijų galiojimo panaikinimo dienos;
+7) jos nesilaiko šio Įstatymo 186 straipsnio 2 dalyje nustatytos pareigos. 
 
 
-
-
-8) jos nesilaiko šio Įstatymo 186 straipsnio 2 dalyje nustatytos pareigos.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-797, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27375
+ 
 
 
 
@@ -3084,3 +3096,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 16 ir 18 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2446, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16071
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 18 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-797, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27375
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 11, 18-1 ir 34-1 straipsnių pakeitimo įstatymas
