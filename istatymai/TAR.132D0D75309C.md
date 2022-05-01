@@ -13,19 +13,25 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
+ 
+TAR pastaba. Įstatymas Nr. XIV-681 taikomas rengiant 2022 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės finansinių ataskaitų rinkinius ir metinius pranešimus
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 pavadinimo, 2, 3, 4, 16, 17, 19, 20, 21, 22, 23, 23-2, 23-3, 25, 26, 28, 29 straipsnių, ketvirtojo skirsnio pavadinimo ir priedo pakeitimo, Įstatymo papildymo 3-1 straipsniu ir trečiojo skirsnio pripažinimo netekusiu galios įstatymas
  
 Nauja redakcija nuo 2015-07-01:
 Nr. XII-1696, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08160
  
-LIETUVOS RESPUBLIKOS
-ĮMONIŲ FINANSINĖS ATSKAITOMYBĖS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ĮMONIŲ ATSKAITOMYBĖS  ĮSTATYMAS 
  
 2001 m. lapkričio 6 d. Nr. IX-575
 Vilnius
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 PIRMASIS SKIRSNIS
@@ -49,7 +55,10 @@ BENDROSIOS NUOSTATOS
 
 4. Ūkininkų ūkių finansinių ataskaitų sudarymo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 
-5. Šis įstatymas netaikomas pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims. Jų finansinių ataskaitų sudarymo ir pateikimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, jeigu jų veiklą reglamentuojantys įstatymai nenustato kitaip.
+5. Neteko galios nuo 2022-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 6. Šio įstatymo reikalavimai bankams, kitoms kredito ir finansų įstaigoms, reguliuojamos rinkos operatoriui, Centriniam vertybinių popierių depozitoriumui, draudimo įmonėms ir perdraudimo įmonėms taikomi tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip. 
 Straipsnio dalies pakeitimai:
@@ -86,15 +95,50 @@ Nr. XIII-468, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10830
 
 14. Įmonės vadovas – juridinio asmens vadovas arba juridinio asmens, kuris neturi vadovo, savininkas, arba mažosios bendrijos atstovas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas tikrasis narys, kuris paskirtas vykdyti Lietuvos Respublikos civilinio kodekso 2.82 straipsnio 3 dalyje nurodytas valdymo organo pareigas.
 
-15. Inventorizacija – turto ir įsipareigojimų patikrinimas ir jų faktiškai rastų likučių palyginimas su buhalterinės apskaitos duomenimis.
+15. Neteko galios nuo 2022-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 16. Reikšminga informacija – informacija, kurios nepateikimas arba klaidingas pateikimas gali iškreipti finansines ataskaitas ir paveikti finansinių ataskaitų informacijos vartotojų priimamus sprendimus.
 
 17. Tarpinių finansinių ataskaitų rinkinys (toliau – tarpinės finansinės ataskaitos) – finansinių ataskaitų rinkinys, sudaromas apibendrinus laikotarpio, trumpesnio negu finansiniai metai, duomenis.
 
-18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme (toliau – Finansinių ataskaitų audito įstatymas), Lietuvos Respublikos buhalterinės apskaitos įstatyme (toliau – Buhalterinės apskaitos įstatymas), Lietuvos Respublikos vertybinių popierių įstatyme ir kituose teisės aktuose. 
+18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 1997 m. Konvencijoje dėl kovos su užsienio pareigūnų papirkimu sudarant tarptautinius verslo sandorius, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
+
+19. Kai šio įstatymo normos taikomos finansinėms ataskaitoms, metiniam pranešimui ir mokėjimų valdžios institucijoms ataskaitai, vartojama sąvoka „ataskaitos“. 
+Papildyta straipsnio dalimi:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
+
+31 straipsnis. Finansinei ataskaitų informacijai keliami reikalavimai
+
+Ataskaitose teikiama finansinė informacija turi būti:
+
+1) tinkama finansinės ataskaitų informacijos vartotojų sprendimams priimti;
+
+2) patikima, nes:
+
+a) teisingai rodo finansinę būklę, veiklos rezultatus ir pinigų srautus, jeigu įmonė rengia pinigų srautų ataskaitą;
+
+b) atskleidžia ūkinių operacijų ekonominę prasmę;
+
+c) nešališka;
+
+3) visais reikšmingais atžvilgiais išsami;
+
+4) suprantama;
+
+5) palyginama;
+
+6) pagrįsta finansinės apskaitos registrų duomenimis. 
+
+Papildyta straipsniu:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 ANTRASIS SKIRSNIS
@@ -143,148 +187,65 @@ Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
 Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
  
 
-10. Šio straipsnio 7 dalies nuostata netaikoma rengiant šio įstatymo 23 straipsnio 3 dalyje nurodytą bendrovių valdymo ataskaitą, šio įstatymo 23 straipsnio 4 dalyje nurodytą socialinės atsakomybės ataskaitą, šio įstatymo 233 straipsnyje nurodytą atlygio ataskaitą, šio įstatymo 29 straipsnyje nurodytą mokėjimų valdžios institucijoms ataskaitą ir Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo 15 straipsnyje nurodytą konsoliduotąją mokėjimų valdžios institucijoms ataskaitą. 
-TAR pastaba. Pagal 10 dalyje išdėstytas nuostatas rengiamos 2020 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, atlygio ataskaitos, valdymo ataskaitos ir metiniai pranešimai.
+10. Šio straipsnio 7 dalies nuostata netaikoma rengiant šio įstatymo 23 straipsnio 3 dalyje nurodytą bendrovių valdymo ataskaitą, šio įstatymo 23 straipsnio 4 dalyje nurodytą socialinės atsakomybės ataskaitą, šio įstatymo 233 straipsnyje nurodytą atlygio ataskaitą, šio įstatymo 29 straipsnyje nurodytą mokėjimų valdžios institucijoms ataskaitą ir Lietuvos Respublikos įmonių grupių konsoliduotosios atskaitomybės įstatymo 15 straipsnyje nurodytą konsoliduotąją mokėjimų valdžios institucijoms ataskaitą. 
 Papildyta straipsnio dalimi:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 Straipsnio dalies pakeitimai:
 Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
-TREČIASIS SKIRSNIS
-BENDRIEJI APSKAITOS PRINCIPAI
- 
-
-5 straipsnis. Bendrųjų apskaitos principų taikymas sudarant finansines ataskaitas
-
-1. Finansinės ataskaitos turi būti sudaromos taip, kad tikrai ir teisingai parodytų įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas, sąnaudas ir pinigų srautus, jeigu įmonė sudaro pinigų srautų ataskaitą.
-
-2. Visos įmonės, tvarkydamos apskaitą ir sudarydamos finansines ataskaitas, vadovaujasi šiais bendraisiais apskaitos principais:
-
-1) įmonės;
-
-2) įmonės veiklos tęstinumo;
-
-3) periodiškumo;
-
-4) pastovumo;
-
-5) piniginio mato;
-
-6) kaupimo;
-
-7) palyginimo;
-
-8) atsargumo;
-
-9) neutralumo;
-
-10) turinio viršenybės prieš formą.
- 
-
-6 straipsnis. Įmonės principas
-
-1. Kiekviena įmonė, kuri sudaro finansines ataskaitas, laikoma atskiru apskaitos vienetu.
-
-2. Į finansines ataskaitas įtraukiamas tik tos įmonės turtas, nuosavas kapitalas, įsipareigojimai, pajamos, sąnaudos ir pinigų srautai, jeigu įmonė sudaro pinigų srautų ataskaitą.
- 
-
-7 straipsnis. Įmonės veiklos tęstinumo principas
-
-1. Sudarant finansines ataskaitas, daroma prielaida, kad:
-
-1) įmonės veiklos laikotarpis neribotas;
-
-2) įmonės nenumatoma likviduoti.
-
-2. Šis principas netaikomas, kai priimamas spendimas likviduoti įmonę, taip pat toms įmonėms, kurios įsteigiamos ribotam veiklos laikotarpiui.
- 
-
-8 straipsnis. Periodiškumo principas
-
-Įmonės veikla sudarant finansines ataskaitas suskirstoma į finansinius metus arba į kitos trukmės ataskaitinius laikotarpius, kuriems pasibaigus sudaromos finansinės ataskaitos.
- 
-
-9 straipsnis. Pastovumo principas
-
-1. Įmonė pasirinktą apskaitos politiką taiko nuolat.
-
-2. Apskaitos politiką galima keisti tik tuo atveju, jeigu tuo siekiama teisingai parodyti įmonės ataskaitinio laikotarpio turtą, nuosavą kapitalą, įsipareigojimus, pajamas, sąnaudas ir pinigų srautus, jeigu įmonė sudaro pinigų srautų ataskaitą.
- 
-
-10 straipsnis. Piniginio mato principas
-
-Visas įmonės turtas, nuosavas kapitalas, įsipareigojimai, pajamos, sąnaudos ir pinigų srautai, jeigu įmonė sudaro pinigų srautų ataskaitą, finansinėse ataskaitose pateikiami pinigine išraiška.
- 
- 
-
-11 straipsnis. Kaupimo principas
-
-Ūkinės operacijos ir ūkiniai įvykiai į įmonės apskaitą registruojami tada, kai jie įvyksta, ir pateikiami tų ataskaitinių laikotarpių finansinėse ataskaitose, neatsižvelgiant į pinigų gavimą arba išmokėjimą. Pagal kaupimo principą pajamos registruojamos tada, kai jos uždirbamos, o sąnaudos – tada, kai jos patiriamos.
- 
-
-12 straipsnis. Palyginimo principas
-
-Įmonės pajamos, uždirbtos per ataskaitinį laikotarpį, siejamos su sąnaudomis, patirtomis uždirbant tas pajamas. Finansinės ataskaitos turi būti sudaromos taip, kad finansinių ataskaitų informacijos vartotojai galėtų palyginti jose pateikiamą informaciją su kitų ataskaitinių laikotarpių bei kitų įmonių pateikiama informacija ir teisingai įvertinti įmonės finansinės būklės, veiklos rezultatų, pinigų srautų, jeigu įmonė sudaro pinigų srautų ataskaitą, pokyčius. Finansinėse ataskaitose turi būti pateikiama ataskaitinių ir praėjusių bent vienų finansinių metų atitinkama informacija.
- 
-
-13 straipsnis. Atsargumo principas
-
-Įmonė pasirenka tokius apskaitos metodus, kuriais įmonės turto, nuosavo kapitalo ir įsipareigojimų, pajamų ir sąnaudų vertė negali būti nepagrįstai padidinta arba nepagrįstai sumažinta.
- 
-
-14 straipsnis. Neutralumo principas
-
-Finansinėse ataskaitose informacija pateikiama objektyviai ir nešališkai. 
- 
-
-15 straipsnis. Turinio viršenybės prieš formą principas
-
-Ūkinės operacijos ir ūkiniai įvykiai į įmonės apskaitą registruojami pagal jų turinį ir ekonominę prasmę, o ne tik pagal jų juridinę formą.
+3 skirsnis. Neteko galios nuo 2022-05-01
+Skirsnio naikinimas:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 KETVIRTASIS SKIRSNIS
-FINANSINIŲ ATASKAITŲ SUDARYMO REIKALAVIMAI
+FINANSINIŲ ATASKAITŲ PARENGIMO REIKALAVIMAI
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
-16 straipsnis. Bendrieji finansinių ataskaitų sudarymo reikalavimai
+16 straipsnis. Bendrieji finansinių ataskaitų parengimo reikalavimai
 
-1. Metines finansines ataskaitas įmonės sudaro pasibaigus jų finansiniams metams.
+1. Finansinės ataskaitos turi būti parengiamos taip, kad tikrai ir teisingai parodytų įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas, sąnaudas ir pinigų srautus, jeigu įmonė rengia pinigų srautų ataskaitą.
 
-2. Tarpines finansines ataskaitas įmonės sudaro, kai to reikia arba kitų teisės aktų nustatyta tvarka ar periodiškumu.
+2. Metines finansines ataskaitas įmonės parengia pasibaigus jų finansiniams metams pagal finansinių metų ir jų paskutinės dienos duomenis.
 
-3. Įregistruotos naujos įmonės sudaro ūkinės veiklos pradžios balansą, kuriame turi būti nurodytas įmonės veiklos pradžioje buvęs turtas, nuosavas kapitalas ir įsipareigojimai.
+3. Tarpines finansines ataskaitas įmonės parengia, kai to reikia, arba kitų teisės aktų, reglamentuojančių ataskaitų sudarymą, nustatyta tvarka ar periodiškumu pagal ataskaitinio laikotarpio ir jo paskutinės dienos duomenis. Jeigu yra priimtas sprendimas likviduoti ar reorganizuoti įmonę, ta įmonė turi parengti finansines ataskaitas ir pagal sprendimo dėl įmonės likvidavimo ar reorganizavimo priėmimo dienos duomenis, ir pagal įmonės likvidavimo ar reorganizavimo pabaigos dienos duomenis.
 
-4. Finansinės ataskaitos sudaromos vadovaujantis šiuo įstatymu, verslo apskaitos standartais arba tarptautiniais apskaitos standartais (toliau – apskaitos standartai), kaip nustatyta Buhalterinės apskaitos įstatyme. Aiškinamajame rašte turi būti nurodyta, pagal kokius apskaitos standartus sudarytos finansinės ataskaitos.
+4. Prie valdžios sektoriaus priskiriamos valstybės valdomos įmonės ar savivaldybių valdomos įmonės, kurios pagal 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 549/2013 dėl Europos nacionalinių ir regioninių sąskaitų sistemos Europos Sąjungoje nuostatas priskiriamos prie vietos arba centrinės valdžios sektoriaus ir nurodytos Lietuvos Respublikos oficialiosios statistikos įstatyme nustatytame oficialiosios statistikos portale, parengia tarpines ketvirčio finansines ataskaitas ir pateikia jas Lietuvos Respublikos finansų ministerijai pasibaigus ketvirčiui ne vėliau kaip per 25 dienas.
 
-5. Finansinės ataskaitos sudaromos naudojant eurą, o prireikus – ir eurą, ir užsienio valiutą.
+5. Įregistruotos naujos įmonės parengia ūkinės veiklos pradžios balansą, kuriame turi būti nurodytas įmonės veiklos pradžioje buvęs turtas, nuosavas kapitalas ir įsipareigojimai.
 
-6. Finansinės ataskaitos sudaromos lietuvių kalba, o prireikus – ir užsienio kalba.
+6. Finansinės ataskaitos rengiamos vadovaujantis šiuo įstatymu, Lietuvos finansinės atskaitomybės standartais arba tarptautiniais finansinės atskaitomybės standartais (toliau kartu –finansinės atskaitomybės standartai), kaip nustatyta Finansinės apskaitos įstatyme. Aiškinamajame rašte turi būti nurodyta, pagal kokius finansinės atskaitomybės standartus parengtos finansinės ataskaitos.
 
-7. Iki finansinių ataskaitų sudarymo į įmonės apskaitą turi būti įtrauktos visos ataskaitinio laikotarpio ūkinės operacijos ir ūkiniai įvykiai.
+7. Finansinės ataskaitos parengiamos naudojant eurą, o prireikus – ir eurą, ir užsienio valiutą.
 
-8. Apskaitos duomenys pagrindžiami turto ir įsipareigojimų inventorizavimo duomenimis. Inventorizacijos tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+8. Iki finansinių ataskaitų parengimo į įmonės apskaitą turi būti įtrauktos visos ataskaitinio laikotarpio ūkinės operacijos.
 
 9. Ataskaitinių finansinių metų pradžios finansinių ataskaitų straipsnių sumos turi sutapti su praėjusių finansinių metų pabaigos finansinių ataskaitų atitinkamų straipsnių sumomis.
 
-10. Finansines ataskaitas įmonės sudaro pagal ataskaitinio laikotarpio paskutinės dienos duomenis. Jeigu yra priimtas sprendimas likviduoti ar reorganizuoti įmonę, ta įmonė turi sudaryti finansines ataskaitas ir pagal sprendimo priėmimo dienos duomenis, ir pagal įmonės reorganizavimo pabaigos dienos duomenis.
+10. Kai šio įstatymo ir finansinės atskaitomybės standartų nuostatų neužtenka, kad finansinės ataskaitos tikrai ir teisingai parodytų įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas, sąnaudas ir pinigų srautus, jeigu įmonė rengia pinigų srautų ataskaitą, aiškinamajame rašte turi būti pateikta papildoma informacija.
 
-11. Vienų finansinių metų balanso ir pelno (nuostolių) ataskaitos formos negali skirtis nuo kitų finansinių metų formų. 
+11. Išskirtiniais atvejais, kai taikant finansinės atskaitomybės standartus parengtos finansinės ataskaitos prieštarauja šio straipsnio 1 dalyje nustatytam reikalavimui, nuo finansinės atskaitomybės standartų galima nukrypti, kad būtų įvykdytas šio straipsnio 1 dalyje nustatytas reikalavimas tikrai ir teisingai parodyti įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas, sąnaudas ir pinigų srautus, jeigu įmonė rengia pinigų srautų ataskaitą. Kiekvienas nukrypimas nuo finansinės atskaitomybės standartų, jo priežastys ir poveikis įmonės turtui, nuosavam kapitalui, įsipareigojimams, pajamoms, sąnaudoms ir pinigų srautams, jeigu įmonė rengia pinigų srautų ataskaitą, aptariami aiškinamajame rašte.
 
-12. Kai bendrųjų apskaitos principų ir kitų šio įstatymo bei apskaitos standartų nuostatų neužtenka, kad finansinės ataskaitos tikrai ir teisingai parodytų įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas, sąnaudas ir pinigų srautus, jeigu įmonė sudaro pinigų srautų ataskaitą, aiškinamajame rašte turi būti pateikta papildoma informacija.
+12. Laikoma, kad labai mažų įmonių pagal šio įstatymo 20 straipsnio 2 dalyje ir 22 straipsnio 2 dalyje nustatytas išimtis parengtos finansinės ataskaitos neprieštarauja šio straipsnio 1 dalyje nustatytam reikalavimui, todėl tokioms finansinėms ataskaitoms šio straipsnio 11 dalis netaikoma. 
 
-13. Išskirtiniais atvejais, kai taikant bendruosius apskaitos principus ir apskaitos standartus sudarytos finansinės ataskaitos prieštarauja šio įstatymo 5 straipsnio 1 dalies reikalavimui, nuo apskaitos standartų ir bendrųjų apskaitos principų galima nukrypti, kad būtų įvykdytas šio įstatymo 5 straipsnio 1 dalies reikalavimas tikrai ir teisingai parodyti įmonės turtą, nuosavą kapitalą, įsipareigojimus, pajamas, sąnaudas ir pinigų srautus, jeigu įmonė sudaro pinigų srautų ataskaitą. Kiekvienas nukrypimas nuo apskaitos standartų, jo priežastys ir poveikis įmonės turtui, nuosavam kapitalui, įsipareigojimams, pajamoms, sąnaudoms ir pinigų srautams, jeigu įmonė sudaro pinigų srautų ataskaitą, aptariami aiškinamajame rašte.
-
-14. Laikoma, kad labai mažų įmonių pagal šio įstatymo 20 straipsnio 2 dalyje ir 22 straipsnio 2 dalyje nustatytas išimtis parengtos finansinės ataskaitos neprieštarauja šio įstatymo 5 straipsnio 1 dalies reikalavimui, todėl tokioms finansinėms ataskaitoms šio straipsnio 13 dalis netaikoma.
+Straipsnio pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 17 straipsnis. Turto ir įsipareigojimų įvertinimas
 
-1. Sudarydamos finansines ataskaitas, įmonės įvertina turtą, nuosavą kapitalą ir įsipareigojimus, vadovaudamosi bendraisiais apskaitos principais ir apskaitos standartais.
+1. Rengdamos finansines ataskaitas, įmonės įvertina turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas vadovaudamosi finansinės atskaitomybės standartais.
 
 2. Kiekvienas turto, nuosavo kapitalo ir įsipareigojimų finansinės ataskaitos straipsnis vertinamas atskirai.
 
-3. Ilgalaikio ir trumpalaikio turto, nuosavo kapitalo, ilgalaikių ir trumpalaikių įsipareigojimų, pajamų ir sąnaudų finansinių ataskaitų straipsnių tarpusavio užskaitos negali būti atliekamos, išskyrus apskaitos standartuose nurodytus atvejus.
+3. Ilgalaikio ir trumpalaikio turto, nuosavo kapitalo, ilgalaikių ir trumpalaikių įsipareigojimų, pajamų ir sąnaudų finansinių ataskaitų straipsnių tarpusavio užskaitos negali būti atliekamos, išskyrus finansinės atskaitomybės standartuose nurodytus atvejus. 
+
+Straipsnio pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 18 straipsnis. Finansiniai metai
@@ -298,7 +259,10 @@ FINANSINIŲ ATASKAITŲ SUDARYMO REIKALAVIMAI
 
 19 straipsnis. Klaidų taisymas
 
-Po finansinių ataskaitų patvirtinimo paaiškėjusių klaidų taisymo tvarka nustatoma apskaitos standartuose.
+Po finansinių ataskaitų patvirtinimo paaiškėjusių klaidų taisymo tvarka nustatoma finansinės atskaitomybės standartuose. 
+
+Straipsnio pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 PENKTASIS SKIRSNIS
@@ -337,14 +301,19 @@ FINANSINĖS ATASKAITOS
 
 5. Visos šio straipsnio 1, 2 ir 3 dalyse išvardytos finansinės ataskaitos sudaro nedalomą visumą.
 
-6. Finansinių ataskaitų, nurodytų šio straipsnio 1, 2 ir 3 dalyse, pavadinimai gali būti kitokie, negu nurodyta šio straipsnio 1, 2 ir 3 dalyse, jeigu finansinės ataskaitos sudaromos pagal tarptautinius apskaitos standartus.
+6. Finansinių ataskaitų, nurodytų šio straipsnio 1, 2 ir 3 dalyse, pavadinimai gali būti kitokie, negu nurodyta šio straipsnio 1, 2 ir 3 dalyse, jeigu finansinės ataskaitos rengiamos pagal tarptautinius finansinės atskaitomybės standartus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 21 straipsnis. Finansinių ataskaitų įforminimo bendrieji reikalavimai
 
 Kiekvienos finansinės ataskaitos pradžioje turi būti nurodyta:
 
-1) įmonės teisinė forma, pavadinimas, kodas, registras, kuriame kaupiami ir saugomi duomenys apie įmonę, buveinė (adresas) ir teisinis statusas, jeigu įmonė likviduojama, reorganizuojama ar yra bankrutavusi;
+1) įmonės teisinė forma, pavadinimas, kodas, registras, kuriame kaupiami ir saugomi duomenys apie įmonę, buveinė (adresas) ir teisinis statusas, jeigu įmonė reorganizuojama arba likviduojama; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 2) ataskaitinis laikotarpis, paskutinė ataskaitinio laikotarpio diena;
 
@@ -353,7 +322,10 @@ Kiekvienos finansinės ataskaitos pradžioje turi būti nurodyta:
 
 22 straipsnis. Sutrumpintos ir trumpos finansinės ataskaitos
 
-1. Sutrumpinto balanso, trumpo balanso, trumpos pelno (nuostolių) ataskaitos reikalavimus nustato verslo apskaitos standartai, jeigu finansinės ataskaitos sudaromos pagal verslo apskaitos standartus.
+1. Sutrumpinto balanso, trumpo balanso, trumpos pelno (nuostolių) ataskaitos reikalavimai nustatomi Lietuvos finansinės atskaitomybės standartuose, jeigu finansinės ataskaitos rengiamos pagal Lietuvos finansinės atskaitomybės standartus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 2. Jeigu labai maža įmonė pasirenka taikyti šio įstatymo 20 straipsnio 2 dalyje ir 23 straipsnio 7 dalyje nustatytas išimtis, ji po balansu pateikia, jeigu turi:
 
@@ -370,7 +342,9 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 Nr. XIII-3316, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21255
  
 
-3. Mažųjų bendrijų ir šio įstatymo 2 straipsnio 2 dalyje nurodytų neribotos civilinės atsakomybės juridinių asmenų finansinių ataskaitų rinkinio sudėties ir sudarymo reikalavimus nustato verslo apskaitos standartai, jeigu finansinės ataskaitos sudaromos pagal verslo apskaitos standartus.
+3. Investicinių bendrovių, mažųjų bendrijų ir šio įstatymo 2 straipsnio 2 dalyje nurodytų neribotos civilinės atsakomybės juridinių asmenų finansinių ataskaitų rinkinio sudėties ir parengimo reikalavimai nustatomi Lietuvos finansinės atskaitomybės standartuose, jeigu finansinės ataskaitos rengiamos pagal Lietuvos finansinės atskaitomybės standartus. Kredito unijų finansinių ataskaitų rinkinio sudėties ir parengimo reikalavimai nustatomi Lietuvos finansinės atskaitomybės standartuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 ŠEŠTASIS SKIRSNIS
@@ -379,13 +353,19 @@ METINIS PRANEŠIMAS
 
 23 straipsnis. Metinis pranešimas
 
-1. Akcinės bendrovės, uždarosios akcinės bendrovės, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, kurių visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, kartu su metinėmis finansinėmis ataskaitomis privalo parengti ir metinį pranešimą.
+1. Akcinės bendrovės, uždarosios akcinės bendrovės, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, kurių visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, kartu su metinėmis finansinėmis ataskaitomis privalo parengti ir metinį pranešimą. Likviduojamos įmonės nerengia metinio pranešimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 2. Metiniame pranešime turi būti pateikiama:
 
 1) objektyvi įmonės būklės, veiklos vykdymo ir plėtros apžvalga, pagrindinių rizikos rūšių ir neapibrėžtumų, su kuriais įmonė susiduria, apibūdinimas;
 
-2) finansinių ir nefinansinių veiklos rezultatų analizė, su aplinkosaugos ir personalo klausimais susijusi informacija, kai reikia, – nuorodos į metinėse finansinėse ataskaitose pateiktus duomenis ir papildomi šių duomenų paaiškinimai;
+2) finansinių ir nefinansinių veiklos rezultatų analizė, su aplinkosaugos, išskiriant veiksmus dėl klimato, personalo, kovos su korupcija ir kyšininkavimu, atskirai išskiriant užsienio pareigūnų papirkimą sudarant tarptautinius verslo sandorius, klausimais susijusi informacija, kai reikia, – nuorodos į metinėse finansinėse ataskaitose pateiktus duomenis ir papildomi šių duomenų paaiškinimai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 3) visų įmonės įsigytų ir turimų savų akcijų skaičius, jų nominalioji vertė ir įstatinio kapitalo dalis, kurią tos akcijos sudaro;
 
@@ -538,7 +518,10 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 
 232 straipsnis. Socialinės atsakomybės ataskaita
 
-1. Socialinės atsakomybės ataskaitoje pateikiama su aplinkosaugos, socialiniais ir personalo, žmogaus teisių užtikrinimo, kovos su korupcija ir kyšininkavimo klausimais susijusi informacija.
+1. Socialinės atsakomybės ataskaitoje pateikiama su aplinkosaugos, išskiriant veiksmus dėl klimato, socialiniais ir personalo, žmogaus teisių užtikrinimo, kovos su korupcija ir kyšininkavimu, atskirai išskiriant užsienio pareigūnų papirkimą sudarant tarptautinius verslo sandorius, klausimais susijusi informacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 2. Šio straipsnio 1 dalyje nurodyta informacija teikiama tokios apimties, kiek būtina įmonės plėtrai, veiklos rezultatams, būklei ir jos veiklos poveikiui suprasti, ir apima:
 
@@ -560,7 +543,10 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 
 6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
 
-7. Įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
+7. Įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis Įmonių grupių konsoliduotosios atskaitomybės įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 71. Socialinės atsakomybės ataskaitoje taip pat pateikiama Reglamento (ES) 2020/852 8 straipsnyje nurodyta informacija.
 TAR pastaba. 71  dalis taikoma rengiant 2022 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių įmonių metinius pranešimus.
@@ -587,7 +573,10 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 
 2) metiniai atlygio pokyčiai; įmonės rezultatų ir vidutinio atlygio, remiantis įmonės darbuotojų, kurie nėra valdymo ir priežiūros organų nariai, darbo visą darbo laiką ekvivalentu, pokyčiai per bent penkerius paskutinius finansinius metus, pateikti taip, kad būtų galima juos palyginti;
 
-3) bet koks atlygis, gautas iš bet kurios įmonės, kuri priklauso įmonių grupei, kaip ji apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme;
+3) bet koks atlygis, gautas iš bet kurios įmonės, kuri priklauso įmonių grupei, kaip ji apibrėžta Įmonių grupių konsoliduotosios atskaitomybės įstatyme; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 4) suteiktos akcijos, akcijų pasirinkimo sandorių suteiktos teisės, tų sandorių kainos ir datos ir bet kokie šių sandorių pakeitimai;
 
@@ -635,20 +624,26 @@ Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
 
 25 straipsnis. Finansinių ataskaitų, metinio pranešimo pasirašymas ir tvirtinimas
 
-1. Finansines ataskaitas, metinį pranešimą ir atskirą socialinės atsakomybės ataskaitą pasirašo įmonės vadovas (nurodomos jo pareigos, vardas ir pavardė). Finansines ataskaitas taip pat pasirašo įmonės vyriausiasis buhalteris (buhalteris) arba kiti asmenys, galintys tvarkyti įmonės buhalterinę apskaitą pagal Buhalterinės apskaitos įstatymą (nurodomos pareigos, vardas ir pavardė). 
-TAR pastaba. 1 dalis taikoma rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės metinius pranešimus.
-Straipsnio dalies pakeitimai:
-Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+1. Finansines ataskaitas, metinį pranešimą ir atskirą socialinės atsakomybės ataskaitą pasirašo įmonės vadovas arba įmonės vadovas ir kiti įmonių veiklą reglamentuojančiuose įstatymuose nurodyti atsakingi asmenys (nurodomas pareigų pavadinimas, vardas ir pavardė). Finansines ataskaitas taip pat pasirašo finansines ataskaitas parengęs asmuo (nurodomas vardas ir pavardė, pareigų pavadinimas, finansinės apskaitos paslaugas teikiančio juridinio asmens pavadinimas, o tais atvejais, kai finansinės apskaitos paslaugos teikiamos savarankiškai, tai taip pat nurodoma).
+
+2. Finansinės ataskaitos ir metinis pranešimas tvirtinami įmonių veiklą reglamentuojančių įstatymų nustatyta tvarka. 
+
+Straipsnio pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
-2. Finansinės ataskaitos ir metinis pranešimas tvirtinami Lietuvos Respublikos įstatymų nustatyta tvarka.
+26 straipsnis. Finansinių ataskaitų ir metinio pranešimo skelbimas, finansinių ataskaitų kokybės stebėsena
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
-
-26 straipsnis. Finansinių ataskaitų ir metinio pranešimo skelbimas
 
 1. Finansinės ataskaitos ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) skelbiami viešai Juridinių asmenų registre įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka, o šio įstatymo 4 straipsnio 9 dalyje išvardytų įmonių, taip pat akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka, – skelbiami ir jų interneto svetainėse.
 
 2. Skelbiamų finansinių ataskaitų ir metinio pranešimo formos ir tekstai turi būti tokie, pagal kuriuos buvo parengta auditoriaus išvada.
+
+3. Vyriausybė arba jos įgaliota institucija nustato Juridinių asmenų registre viešai skelbiamų finansinių ataskaitų kokybės stebėsenos tvarką ir paskiria instituciją, atliksiančią šią stebėseną. 
+Papildyta straipsnio dalimi:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 AŠTUNTASIS SKIRSNIS
@@ -664,13 +659,19 @@ Straipsnio pakeitimai:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
  
 
-28 straipsnis. Atsakomybė už finansinių ataskaitų, metinio pranešimo parengimą ir pateikimą Juridinių asmenų registro tvarkytojui 
+28 straipsnis. Atsakomybė už finansinių ataskaitų, metinio pranešimo parengimą ir pateikimą Juridinių asmenų registro tvarkytojui
 
-Už įmonės finansinių ataskaitų, metinio pranešimo parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) Juridinių asmenų registro tvarkytojui ir atskiros socialinės atsakomybės ataskaitos parengimą ir paskelbimą atsako įmonės vadovas, valdymo ir priežiūros organų nariai įstatymų nustatyta tvarka pagal vadovui, valdymo ir priežiūros organams įstatymais atitinkamai priskirtą kompetenciją. Įmonės vadovas, valdymo ir priežiūros organų nariai, pagal įstatymais atitinkamai priskirtą kompetenciją nevykdantys pareigų, susijusių su įmonės finansinių ataskaitų, metinio pranešimo parengimu ir pateikimu kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) Juridinių asmenų registro tvarkytojui ir atskiros socialinės atsakomybės ataskaitos parengimu ir paskelbimu, arba netinkamai jas vykdantys, privalo visą padarytą žalą atlyginti įmonei ir (arba) kitiems asmenims. 
-TAR pastaba. 28 straipsnis taikomas rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės metinius pranešimus.
+1. Įmonės vadovas užtikrina:
+
+1) finansines ataskaitas rengiančio asmens parinkimą ir (arba) paskyrimą;
+
+2) teisingos, tikslios, išsamios informacijos apie ūkines operacijas ir kitos informacijos, reikalingos finansinėms ataskaitoms parengti, teikimą laiku finansines ataskaitas rengiančiam asmeniui.
+
+2. Už įmonės finansinių ataskaitų, metinio pranešimo parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) Juridinių asmenų registro tvarkytojui ir atskiros socialinės atsakomybės ataskaitos parengimą ir paskelbimą atsako įmonės vadovas, valdymo ir priežiūros organų nariai įstatymų nustatyta tvarka pagal vadovui, valdymo ir priežiūros organams įstatymais atitinkamai priskirtą kompetenciją. Įmonės vadovas, valdymo ir priežiūros organų nariai, pagal įstatymais atitinkamai priskirtą kompetenciją nevykdantys pareigų, susijusių su įmonės finansinių ataskaitų, metinio pranešimo parengimu ir pateikimu kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) Juridinių asmenų registro tvarkytojui ir atskiros socialinės atsakomybės ataskaitos parengimu ir paskelbimu, arba netinkamai jas vykdantys, privalo visą padarytą žalą atlyginti įmonei ir (arba) kitiems asmenims. 
 
 Straipsnio pakeitimai:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 DEVINTASIS SKIRSNIS
@@ -683,7 +684,10 @@ MOKĖJIMŲ VALDŽIOS INSTITUCIJOMS ATASKAITA
 
 2. Prievolė parengti mokėjimų valdžios institucijoms ataskaitą netaikoma įmonei, kuri yra patronuojamoji ar patronuojančioji įmonė, jeigu:
 
-1) patronuojančiajai įmonei taikomi Lietuvos Respublikos įstatymai ir
+1) patronuojančiajai įmonei taikomi Lietuvos Respublikos arba kitos valstybės narės teisės aktai ir 
+Straipsnio punkto pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
 
 2) įmonės mokėjimai valdžios institucijoms įtraukiami į tos patronuojančiosios įmonės rengiamą konsoliduotąją mokėjimų valdžios institucijoms ataskaitą.
 
@@ -701,31 +705,24 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
 
- 
 Lietuvos Respublikos
-įmonių finansinės atskaitomybės
-įstatymo
+įmonių atskaitomybės įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
-1. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 609).
+1. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo.
 
-2. 2008 m. lapkričio 3 d. Komisijos reglamentas (EB) Nr. 1126/2008, priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 (OL 2008 L 320, p. 1).
+2. 2008 m. lapkričio 3 d. Komisijos reglamentas (EB) Nr. 1126/2008, priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002.
 
-3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
+3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/95/ES.
 
-4. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/95/ES, kuria iš dalies keičiamos Direktyvos 2013/34/ES nuostatos dėl tam tikrų didžiųjų įmonių ir grupių nefinansinės ir įvairovės informacijos atskleidimo (OL 2014 L 330, p. 1). 
-Papildyta punktu:
-Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+4. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu. 
+
+Priedo pakeitimai:
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
-
-5. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1). 
-Papildyta punktu:
-Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
- 
-
  
  
 Pakeitimai:
@@ -819,4 +816,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 3,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-807, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27385
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 23-2 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 pavadinimo, 2, 3, 4, 16, 17, 19, 20, 21, 22, 23, 23-2, 23-3, 25, 26, 28, 29 straipsnių, ketvirtojo skirsnio pavadinimo ir priedo pakeitimo, Įstatymo papildymo 3-1 straipsniu ir trečiojo skirsnio pripažinimo netekusiu galios įstatymas
 
