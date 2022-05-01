@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-07-21
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -834,6 +834,14 @@ Papildyta straipsnio dalimi:
 Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
 Straipsnio dalies pakeitimai:
 Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
+ 
+
+
+
+
+7. Finansų įstaigos, teikiančios šio Įstatymo 3 straipsnio 1 dalies 2 ir 3 punktuose nurodytas finansines paslaugas ir atitinkančios priežiūros institucijos nustatyta tvarka apskaičiuotą reikšmingumo kriterijų pagal užimamą rinkos dalį, priežiūros institucijai privalo teikti duomenis apie šio Įstatymo 3 straipsnio 1 dalies 2 ir 3 punktuose nurodytų finansinių paslaugų gavėjus ir turi teisę naudotis šiais duomenimis priežiūros institucijos nustatyta tvarka. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie šio Įstatymo 3 straipsnio 1 dalies 2 ir 3 punktuose nurodytų finansinių paslaugų gavėjus.
+Papildyta straipsnio dalimi:
+Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
  
 
 
@@ -2978,7 +2986,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
+ 
+
 Lietuvos Respublikos 
 finansų įstaigų įstatymo
 priedas
@@ -3157,3 +3166,6 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 31 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 4, 44 straipsnių ir priedo pakeitimo įstatymas
+ 
+ 
+part_83ce497e6aa64ab1843155e8d3a83020_end
