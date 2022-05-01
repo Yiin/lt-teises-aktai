@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2021-12-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
  
@@ -100,11 +100,12 @@ Valstybinė darbo inspekcija savo veikloje vadovaujasi Lietuvos Respublikos Kons
 4 straipsnis. Valstybinės darbo inspekcijos kompetencija 
 
 
-Valstybinės darbo inspekcijos kompetencijai priskiriama nelaimingų atsitikimų darbe, profesinių ligų, darbuotojų saugos ir sveikatos, norminių darbo teisės aktų pažeidimų prevencija ir Lietuvos Respublikos darbo kodekso, darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ir kitų norminių teisės aktų kontrolė įmonėse, įstaigose, organizacijose ar kitose organizacinėse struktūrose, nepaisant jų nuosavybės formos, rūšies, veiklos pobūdžio, taip pat tais atvejais, kai darbdavys yra fizinis asmuo (toliau – darbdaviai). 
+Valstybinės darbo inspekcijos kompetencijai priskiriama nelaimingų atsitikimų darbe, profesinių ligų, darbuotojų saugos ir sveikatos, norminių darbo teisės aktų pažeidimų prevencija ir Lietuvos Respublikos darbo kodekso, darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ir kitų norminių teisės aktų laikymosi kontrolė įmonėse, įstaigose, organizacijose ar kitose organizacinėse struktūrose, nepaisant jų nuosavybės formos, rūšies, veiklos pobūdžio, taip pat tais atvejais, kai darbdavys yra fizinis asmuo (toliau – darbdaviai), ir tais atvejais, kai savarankišką veiklą vykdo savarankiškai dirbantys asmenys, jeigu jiems taikomi darbuotojų saugos ir sveikatos norminių teisės aktų reikalavimai (toliau – savarankiškai dirbantys asmenys). 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
  
 
 
@@ -342,9 +343,10 @@ Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 1. Valstybinės darbo inspekcijos inspektoriai turi šias teises:
 
 
-1) pateikę valstybės tarnautojo pažymėjimą ir įgaliojimą, laisvai ir be išankstinio perspėjimo bet kuriuo paros metu įeiti į bet kurią darbo vietą tikrinti, ar laikomasi darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ar kitų norminių teisės aktų reikalavimų; 
+1) pateikę valstybės tarnautojo pažymėjimą ir sprendimą atlikti inspektavimą, laisvai ir be išankstinio perspėjimo bet kuriuo paros metu įeiti tikrinti, ar laikomasi darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ar kitų norminių teisės aktų reikalavimų, į bet kurią darbo vietą ar (ir) savarankiškos veiklos vykdymo vietą, išskyrus atvejus, kai savarankiška veikla vykdoma gyvenamosiose patalpose. Jeigu savarankiška veikla vykdoma gyvenamosiose patalpose, Valstybinės darbo inspekcijos inspektoriai be išankstinio perspėjimo įeiti gali tik su gyvenamosios patalpos savininko, naudotojo sutikimu arba įeiti gali iš anksto, bet ne vėliau kaip prieš vieną darbo dieną, jį perspėję ir inspektavimo laiką suderinę su savarankiškos veiklos vykdymo laiku; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2596, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20029
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
  
 
 
@@ -355,7 +357,10 @@ Nr. XIII-2596, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20029
 
 
 
-3) gauti iš darbdaviams atstovaujančių asmenų, darbdavio įgaliotų asmenų, darbuotojų, kitų tikrinamoje darbo vietoje esančių asmenų paaiškinimus žodžiu ar raštu dėl darbo, darbuotojų saugos ir sveikatos įstatymų, kitų norminių teisės aktų, reglamentuojančių darbuotojų saugą ir sveikatą bei darbo santykius, pažeidimų ar dėl Valstybinės darbo inspekcijos nurodymų nevykdymo (jeigu nėra galimybės gauti šią informaciją vietoje, darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo kviečiamas į Valstybinės darbo inspekcijos struktūrinį padalinį);
+3) gauti iš darbdaviams atstovaujančių asmenų, darbdavio įgaliotų asmenų, darbuotojų, savarankiškai dirbančių asmenų, kitų tikrinamoje darbo vietoje esančių asmenų paaiškinimus žodžiu ar raštu dėl darbo, darbuotojų saugos ir sveikatos įstatymų, kitų norminių teisės aktų, reglamentuojančių darbuotojų saugą ir sveikatą bei darbo santykius, pažeidimų ar dėl Valstybinės darbo inspekcijos nurodymų nevykdymo (jeigu nėra galimybės gauti šią informaciją vietoje, darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo arba savarankiškai dirbantis asmuo kviečiamas į Valstybinės darbo inspekcijos struktūrinį padalinį); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
 
 
 
@@ -387,12 +392,18 @@ Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
 
 
 
-8) vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka uždrausti darbdaviui naudoti darbo ir asmeninės apsaugos priemones, jeigu jos neatitinka darbuotojų saugos ir sveikatos ar kitų norminių teisės aktų reikalavimų; 
+8) vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka uždrausti darbdaviui ar savarankiškai dirbančiam asmeniui naudoti darbo ir asmenines apsaugos priemones, jeigu jos neatitinka darbuotojų saugos ir sveikatos ar kitų norminių teisės aktų reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
 
 
 
 
-9) reikalauti, kad darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdamas sustabdytų darbus: kai darbuotojai neapmokyti ir (ar) neinstruktuoti saugiai dirbti, kai sugedus darbo priemonei ar susidarius avarinei situacijai yra pavojus saugai ir sveikatai, kai dirbama pažeidžiant technologinius reglamentus, neįrengus reikiamų kolektyvinės apsaugos priemonių arba kai darbuotojas (darbuotojai) neaprūpinti asmeninėmis apsaugos priemonėmis ir kitais atvejais, kai darbo aplinka kenksminga ir (ar) pavojinga sveikatai, gyvybei;
+9) vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka reikalauti, kad darbdaviui atstovaujantis asmuo ar darbdavio įgaliotas asmuo nedelsdamas sustabdytų darbus, jeigu darbuotojai neapmokyti ir (ar) neinstruktuoti saugiai dirbti; jeigu sugedus darbo priemonei ar susidarius avarinei situacijai yra pavojus darbuotojų saugai ir sveikatai; jeigu dirbama pažeidžiant technologinius reglamentus, neįrengus reikiamų kolektyvinės apsaugos priemonių arba jeigu darbuotojai neaprūpinti asmeninėmis apsaugos priemonėmis ir kitais atvejais, kai darbo aplinka kenksminga ir (ar) pavojinga sveikatai, gyvybei, arba reikalauti, kad savarankiškai dirbantis asmuo sustabdytų darbus, jeigu jis, vykdydamas savarankišką veiklą jos vykdymo vietoje, kurioje esamos apsaugos priemonės neužtikrina savarankiškai dirbančio asmens apsaugos nuo rizikos veiksnių, nenaudoja asmeninių apsaugos priemonių ar esamos kolektyvinės ir (ar) naudojamos asmeninės apsaugos priemonės neužtikrina jo saugos, taip pat kitais atvejais, kai darbo aplinka kenksminga ir (ar) pavojinga sveikatai, gyvybei; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
 
 
 
@@ -551,7 +562,10 @@ INSPEKTAVIMO TVARKA
 11 straipsnis. Inspektavimas 
 
 
-1. Inspektuodami darbdavį Valstybinės darbo inspekcijos inspektoriai praneša darbdaviui atstovaujančiam asmeniui apie inspektavimą, jeigu nemano, kad toks pranešimas gali pakenkti atlikti pareigas. 
+1. Valstybinės darbo inspekcijos inspektoriai praneša darbdaviui atstovaujančiam asmeniui ar (ir) savarankiškai dirbančiam asmeniui apie inspektavimą, jeigu nemano, kad toks pranešimas gali pakenkti atlikti pareigas, ir (ar) gyvenamosios patalpos savininkui, naudotojui šio Įstatymo 9 straipsnio 1 dalies 1 punkte nustatyta tvarka, jeigu savarankiška veikla vykdoma gyvenamosiose patalpose. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
 
 
 
@@ -569,9 +583,10 @@ Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
 
 
 
-4. Valstybinės darbo inspekcijos inspektoriai, atlikę inspektavimą ir nustatę darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimų, surašo patvirtintos formos dokumentus (reikalavimą, protokolą, aktą, nutarimą ir kt.). Jie įteikiami darbdaviui atstovaujančiam asmeniui ar darbdavio įgaliotam asmeniui pasirašytinai arba išsiunčiami paštu. 
+4. Valstybinės darbo inspekcijos inspektoriai, atlikę inspektavimą ir nustatę darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimų, surašo patvirtintos formos dokumentus (reikalavimą, protokolą, aktą, nutarimą ir kt.). Jie įteikiami darbdaviui atstovaujančiam asmeniui ar darbdavio įgaliotam asmeniui arba savarankiškai dirbančiam asmeniui pasirašytinai arba išsiunčiami paštu ar elektroninių ryšių priemonėmis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
  
 
 
