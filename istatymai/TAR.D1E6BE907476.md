@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d1e6be90747611e3b675ad30753d4b1b"
 
 # Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-02-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2023-12-29
  
 Įstatymas paskelbtas: TAR 2014-01-03, i. k. 2014-00018
  
@@ -124,13 +124,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Viešosios naudos nevyriausybinė organizacija – nevyriausybinė organizacija, kurios veikla teikia naudą ne tik jos dalyviams, bet ir visuomenei.
-
-
-
-
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos bendruomeninių organizacijų plėtros įstatyme.
+6. Viešosios naudos nevyriausybinė organizacija – nevyriausybinė organizacija, kurios veikla teikia naudą ne tik jos dalyviams, bet ir visuomenei ir kuri pripažinta atitinkančia šio įstatymo 8 straipsnio 2 dalyje nustatytus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
  
+
+
+
+
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos bendruomeninių organizacijų plėtros įstatyme, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
  
 
 
@@ -446,13 +450,50 @@ Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
 
 
 
-8 straipsnis. Viešosios naudos nevyriausybinių organizacijų finansavimas
+8 straipsnis. Viešosios naudos nevyriausybinių organizacijų finansavimas ir nevyriausybinių organizacijų pripažinimas viešosios naudos nevyriausybinėmis organizacijomis
 
 
-Asignavimų valdytojai, skirstydami nevyriausybinių organizacijų veiklos finansavimo lėšas, gali numatyti, kad viešosios naudos nevyriausybinėms organizacijoms teikiamas prioritetas. Nevyriausybinės organizacijos pripažįstamos viešosios naudos nevyriausybinėmis organizacijomis Vyriausybės įgaliotos institucijos nustatyta tvarka.
+1. Asignavimų valdytojai, skirstydami nevyriausybinių organizacijų veiklos finansavimo lėšas, gali numatyti, kad viešosios naudos nevyriausybinėms organizacijoms teikiamas prioritetas. Nevyriausybinės organizacijos pripažįstamos viešosios naudos nevyriausybinėmis organizacijomis Vyriausybės įgaliotos institucijos nustatyta tvarka.
+
+
+
+
+2. Viešosios naudos nevyriausybine organizacija pripažįstama nevyriausybinė organizacija, kuri:
+
+
+1) vykdo veiklas, kurių didesnė dalis teikia naudą visuomenei ar jos daliai ir kurios skirtos vaikų ir jaunimo gerovės didinimui, neįgaliųjų apsaugai, moterų ir vyrų lygių galimybių užtikrinimui, žmogaus teisių apsaugai, šeimų stiprinimui, socialinės atskirties ir skurdo mažinimui, švietimo, mokslo, kultūros ir sporto skatinimui, humanitarinės pagalbos teikimui, sveikatos apsaugai, aplinkos apsaugai, pilietiniam ugdymui, visuomenės narių teisių apsaugai ir viešojo intereso užtikrinimui;
+
+
+
+
+2) yra įregistravusi nevyriausybinės organizacijos žymą Juridinių asmenų registre;
+
+
+
+
+3) Juridinių asmenų registrui teisės aktų nustatyta tvarka yra pateikusi dvejų praėjusių finansinių metų veiklos ataskaitas ir metinių finansinių ataskaitų rinkinį;
+
+
+
+
+4) atitinka minimalius patikimo mokesčių mokėtojo kriterijus;
+
+
+
+
+5) siekia išmatuojamo teigiamo socialinio poveikio visuomenei ar jos daliai, steigimo dokumente arba steigėjų patvirtintame dokumente yra nurodžiusi siekiamo socialinio poveikio tikslą (sprendžiamą socialinę problemą), išmatuojamo socialinio poveikio rodiklius, šių rodiklių vertinimo metodiką ir vieną kartą per kalendorinius metus vertina praėjusių kalendorinių metų veiklos socialinį poveikį, ir veiklą siekiant socialinio poveikio organizuoja konsultuodamasi (suteikdama galimybę teikti nuomonę ir pasiūlymus) su asmenimis, kuriems daromas socialinis poveikis organizacijos vykdoma veikla, ir su visuomene. Socialinio poveikio rezultatai turi būti patvirtinti nevyriausybinės organizacijos steigėjų ir skelbiami viešai. Socialinio poveikio matavimas taikomas tik toms nevyriausybinėms organizacijoms, kurių pagrindinis tikslas – teikti viešąsias paslaugas.
+
+
+
+
+
+
+3. Vyriausybės įgaliota institucija, vertindama nevyriausybinės organizacijos, siekiančios būti pripažinta viešosios naudos nevyriausybine organizacija, veiklą, įvertina jos įstatus, Juridinių asmenų registrui pateiktas dvejų praėjusių ataskaitinių metų veiklos ataskaitas ir pateiktus vienų praėjusių kalendorinių metų veiklos socialinio poveikio rezultatus, jeigu nevyriausybinės organizacijos pagrindinis tikslas – teikti viešąsias paslaugas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
  
-
-
 
 
 
