@@ -21,7 +21,7 @@ PRIEŽIŪROS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2023-01-03
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 76-3848, i. k. 1131010ISTA0XII-459
  
@@ -157,7 +157,10 @@ Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
 
 
 
-4) asmenų prašymų, skundų ar pranešimų, susijusių su teritorijų planavimo procesu, nagrinėjimą;
+4) asmenų prašymų, skundų, susijusių su teritorijų planavimo procesu, nagrinėjimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -183,7 +186,10 @@ Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
 1. Teritorijų planavimo proceso parengiamojo etapo valstybinę priežiūrą teritorijų planavimo valstybinės priežiūros institucijos pagal kompetenciją atlieka:
 
 
-1) tais atvejais, kai į jas su skundu ar pranešimu dėl šiuo etapu atliekamų procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams kreipiasi (inicijuoja patikrinimą) viešojo administravimo subjektai, fiziniai asmenys, juridiniai asmenys ir jų padaliniai, kitos juridinio asmens statuso neturinčios organizacijos ir jų padaliniai;
+1) tais atvejais, kai į jas su skundu dėl šiuo etapu atliekamų procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams kreipiasi (inicijuoja patikrinimą) viešojo administravimo subjektai, fiziniai asmenys, juridiniai asmenys ir jų padaliniai, kitos juridinio asmens statuso neturinčios organizacijos ir jų padaliniai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -286,7 +292,10 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 
 
-3) pateikia šio straipsnio 1 dalies 1 punkte nurodytam patikrinimą inicijavusiam asmeniui atsakymą raštu apie skundo ar pranešimo nagrinėjimo rezultatus, pridėdama šios dalies 1 ir 2 punktuose nurodytų privalomųjų nurodymų teisės aktų nustatyta tvarka patvirtintas kopijas.
+3) pateikia šio straipsnio 1 dalies 1 punkte nurodytam patikrinimą inicijavusiam asmeniui atsakymą raštu apie skundo nagrinėjimo rezultatus, pridėdama šios dalies 1 ir 2 punktuose nurodytų privalomųjų nurodymų teisės aktų nustatyta tvarka patvirtintas kopijas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -298,7 +307,9 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 
 
-6. Jeigu atlikusi patikrinimą teritorijų planavimo valstybinės priežiūros institucija teritorijų planavimą reglamentuojančių teisės aktų pažeidimų nenustato, apie tai ji per 5 darbo dienas nuo patikrinimo pabaigos informuoja skundą ar pranešimą pateikusį asmenį ir patikrintus subjektus.
+6. Jeigu atlikusi patikrinimą teritorijų planavimo valstybinės priežiūros institucija teritorijų planavimą reglamentuojančių teisės aktų pažeidimų nenustato, apie tai ji per 5 darbo dienas nuo patikrinimo pabaigos informuoja skundą pateikusį asmenį ir patikrintus subjektus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
@@ -306,13 +317,15 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 
 
-5 straipsnis. Teritorijų planavimo proceso rengimo etapo valstybinė priežiūra
+5 straipsnis. Teritorijų planavimo proceso rengimo etapo valstybinė priežiūra
 
 
-Teritorijų planavimo proceso rengimo etapu teritorijų planavimo valstybinės priežiūros institucijos teisės aktų nustatyta tvarka nagrinėja gautus skundus (pranešimus) dėl teritorijų planavimo proceso parengiamojo etapo metu priimtų administracinių sprendimų, atliktų procedūrų atitikties teritorijų planavimą reglamentuojantiems teisės aktų reikalavimams.
+Teritorijų planavimo proceso rengimo etapu teritorijų planavimo valstybinės priežiūros institucijos teisės aktų nustatyta tvarka nagrinėja gautus skundus dėl teritorijų planavimo proceso parengiamojo etapo metu priimtų administracinių sprendimų, atliktų procedūrų atitikties teritorijų planavimą reglamentuojančių teisės aktų reikalavimams.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
-
-
 
 
 
@@ -323,7 +336,10 @@ Teritorijų planavimo proceso rengimo etapu teritorijų planavimo valstybinės p
 1. Teritorijų planavimo proceso baigiamojo etapo viešinimo ir derinimo stadijų valstybinę priežiūrą teritorijų planavimo valstybinės priežiūros institucijos pagal kompetenciją atlieka:
 
 
-1) kai į institucijas su skundu ar pranešimu dėl šiuo etapu atliekamų procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams kreipiasi viešojo administravimo subjektai, fiziniai asmenys, juridiniai asmenys ir jų padaliniai, kitos juridinio asmens statuso neturinčios organizacijos ir jų padaliniai;
+1) kai į institucijas su skundu dėl šiuo etapu atliekamų procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams kreipiasi viešojo administravimo subjektai, fiziniai asmenys, juridiniai asmenys ir jų padaliniai, kitos juridinio asmens statuso neturinčios organizacijos ir jų padaliniai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -561,7 +577,10 @@ Nr. XIV-159, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01176
 
 
 
-9. Tvirtinimo stadijos metu iki teritorijų planavimo dokumento patvirtinimo teritorijų planavimo valstybinės priežiūros institucijos nagrinėja viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių skundus ar pranešimus dėl šiuo etapu atliekamų procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams.
+9. Tvirtinimo stadijos metu iki teritorijų planavimo dokumento patvirtinimo teritorijų planavimo valstybinės priežiūros institucijos nagrinėja viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių skundus dėl šiuo etapu atliekamų procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -579,7 +598,9 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 
 
-12. Šiame straipsnyje nurodytų patikrinimų metu nustačiusi teritorijų planavimą reglamentuojančių teisės aktų pažeidimų, teritorijų planavimo valstybinės priežiūros institucija atlieka šio įstatymo 4 straipsnio 4 ir 5 dalyse nurodytus veiksmus. Jeigu teisės aktų pažeidimų nenustatoma, teritorijų planavimo valstybinės priežiūros institucija apie tai per 5 darbo dienas nuo patikrinimo pabaigos informuoja skundą ar pranešimą pateikusį asmenį ir patikrintus subjektus.
+12. Šiame straipsnyje nurodytų patikrinimų metu nustačiusi teritorijų planavimą reglamentuojančių teisės aktų pažeidimų, teritorijų planavimo valstybinės priežiūros institucija atlieka šio įstatymo 4 straipsnio 4 ir 5 dalyse nurodytus veiksmus. Jeigu teisės aktų pažeidimų nenustatoma, teritorijų planavimo valstybinės priežiūros institucija apie tai per 5 darbo dienas nuo patikrinimo pabaigos informuoja skundą pateikusį asmenį ir patikrintus subjektus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
@@ -590,7 +611,10 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 61 straipsnis. Nevykdant teritorijų planavimo proceso priimtų administracinių sprendimų valstybinė priežiūra
 
 
-1. Gavusios skundų ar pranešimų, kad nevykdant teritorijų planavimo proceso yra priimti administraciniai sprendimai, kuriais nustatomi nauji, keičiami ar panaikinami esami teritorijos tvarkymo, naudojimo ar apsaugos reikalavimai, keičiami ar panaikinami teritorijų planavimo dokumentai (jų dalys), teritorijų planavimo valstybinės priežiūros institucijos pagal kompetenciją tikrina, ar šie sprendimai priimti nepažeidžiant teritorijų planavimą reglamentuojančių teisės aktų.
+1. Gavusios skundų, kad nevykdant teritorijų planavimo proceso yra priimti administraciniai sprendimai, kuriais nustatomi nauji, keičiami ar panaikinami esami teritorijos tvarkymo, naudojimo ar apsaugos reikalavimai, keičiami ar panaikinami teritorijų planavimo dokumentai (jų dalys), teritorijų planavimo valstybinės priežiūros institucijos pagal kompetenciją tikrina, ar šie sprendimai priimti nepažeidžiant teritorijų planavimą reglamentuojančių teisės aktų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -600,7 +624,10 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 
 
-3. Teritorijų planavimo valstybinės priežiūros institucijos šio straipsnio 1 dalyje nurodytus patikrinimus atlieka per 20 darbo dienų nuo visų patikrinimui privalomų pateikti dokumentų ir informacijos gavimo dienos. Kai dėl objektyvių priežasčių per šį terminą patikrinimas negali būti atliktas, teritorijų planavimo valstybinės priežiūros institucija gali šį terminą pratęsti, bet ne ilgiau kaip 20 darbo dienų, apie tai raštu informuodama skundą ar pranešimą pateikusį (patikrinimą inicijavusį) asmenį, nurodydama patikrinimo termino pratęsimo priežastis. Baigus patikrinimą, surašomas teritorijų planavimo valstybinės priežiūros institucijos nustatytos formos patikrinimo aktas.
+3. Teritorijų planavimo valstybinės priežiūros institucijos šio straipsnio 1 dalyje nurodytus patikrinimus atlieka per 20 darbo dienų nuo visų patikrinimui privalomų pateikti dokumentų ir informacijos gavimo dienos. Kai dėl objektyvių priežasčių per šį terminą patikrinimas negali būti atliktas, teritorijų planavimo valstybinės priežiūros institucija gali šį terminą pratęsti, bet ne ilgiau kaip 20 darbo dienų, apie tai raštu informuodama skundą pateikusį (patikrinimą inicijavusį) asmenį, nurodydama patikrinimo termino pratęsimo priežastis. Baigus patikrinimą, surašomas teritorijų planavimo valstybinės priežiūros institucijos nustatytos formos patikrinimo aktas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -620,7 +647,10 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 
 
-7. Patikrinimą inicijavęs asmuo per 5 darbo dienas nuo patikrinimo pabaigos raštu informuojamas apie skundo ar pranešimo nagrinėjimo rezultatus, pridedant šio straipsnio 4 dalyje nurodytų privalomųjų nurodymų teisės aktų nustatyta tvarka patvirtintas kopijas (jeigu jie buvo surašyti). Jeigu atlikusi patikrinimą teritorijų planavimo valstybinės priežiūros institucija teritorijų planavimą reglamentuojančių teisės aktų pažeidimų nenustato, apie tai ji per 5 darbo dienas nuo patikrinimo pabaigos informuoja ir patikrintus subjektus.
+7. Patikrinimą inicijavęs asmuo per 5 darbo dienas nuo patikrinimo pabaigos raštu informuojamas apie skundo nagrinėjimo rezultatus, pridedant šio straipsnio 4 dalyje nurodytų privalomųjų nurodymų teisės aktų nustatyta tvarka patvirtintas kopijas (jeigu jie buvo surašyti). Jeigu atlikusi patikrinimą teritorijų planavimo valstybinės priežiūros institucija teritorijų planavimą reglamentuojančių teisės aktų pažeidimų nenustato, apie tai ji per 5 darbo dienas nuo patikrinimo pabaigos informuoja ir patikrintus subjektus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -709,7 +739,10 @@ STATYBOS VALSTYBINĖ PRIEŽIŪRA
 
 
 
-6) statybos užbaigimo procedūrų atlikimą;
+6) statybos užbaigimo procedūrų atlikimą ir jų teisėtumo tikrinimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -724,7 +757,10 @@ STATYBOS VALSTYBINĖ PRIEŽIŪRA
 
 
 
-9) asmenų prašymų, skundų ar pranešimų, susijusių su statybos procesu, nagrinėjimą;
+9) asmenų prašymų, skundų, susijusių su statybos procesu, nagrinėjimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -747,9 +783,18 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 
 
-13) kitus šiame įstatyme ir kituose teisės aktuose nurodytus su statybos valstybine priežiūra susijusius veiksmus.
+13) pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo tikrinimą; 
+Papildyta straipsnio punktu:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
+
+
+
+
+14) kitus šiame įstatyme ir kituose teisės aktuose nurodytus su statybos valstybine priežiūra susijusius veiksmus.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
@@ -869,17 +914,19 @@ Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 
 
 
-3. Gavusi skundą ar pranešimą, kad išduotos prisijungimo sąlygos ir (ar) Specialieji reikalavimai neatitinka teisės aktų reikalavimų, Inspekcija, jeigu reikia, kreipiasi į atitinkamus viešojo administravimo subjektus, prašydama pateikti išvadas, ar prisijungimo sąlygos ir (ar) Specialieji reikalavimai išduoti laikantis teisės aktų reikalavimų. Inspekcija, gavusi ir įvertinusi šių subjektų išvadas, per 10 darbo dienų nuo šių išvadų gavimo dienos pateikia skundą ar pranešimą pateikusiam asmeniui savo išvadą dėl išduotų prisijungimo sąlygų ir (ar) Specialiųjų reikalavimų atitikties teisės aktams. Jeigu nustatoma, kad prisijungimo sąlygos ir (ar) Specialieji reikalavimai išduoti pažeidžiant teisės aktų reikalavimus, Inspekcija iki statybą leidžiančio dokumento išdavimo pateikia subjektams, išdavusiems prisijungimo sąlygas ar Specialiuosius reikalavimus, privalomuosius nurodymus administraciniu sprendimu panaikinti neteisėtai išduotas prisijungimo sąlygas ar Specialiuosius reikalavimus, išduoti naujas prisijungimo sąlygas ar Specialiuosius reikalavimus, jeigu to prašo skundą ar pranešimą pateikęs asmuo ir jeigu prisijungimo sąlygos ar Specialieji reikalavimai privalo būti išduoti pagal teisės aktų reikalavimus, ir apie privalomojo nurodymo įvykdymą informuoti Inspekciją. Inspekcija pateikia privalomuosius nurodymus ir dėl išvadų, ar prisijungimo sąlygos ir (ar) Specialieji reikalavimai išduoti laikantis teisės aktų reikalavimų, taip pat ar prisijungimo sąlygas ir Specialiuosius reikalavimus išduoti atsisakoma pagrįstai. Apie privalomojo nurodymo pateikimą Inspekcija informuoja skundą ar pranešimą pateikusį asmenį. Jeigu per 20 darbo dienų nuo privalomojo nurodymo įteikimo dienos privalomasis nurodymas neįvykdomas, Inspekcija per 2 mėnesius nuo privalomojo nurodymo įvykdymo termino pabaigos dienos kreipiasi į teismą dėl įpareigojimo vykdyti privalomąjį nurodymą arba dėl neteisėtai išduotų prisijungimo sąlygų ar Specialiųjų reikalavimų panaikinimo. Jeigu privalomasis nurodymas įvykdytas, tai pažymima Inspekcijos turimame privalomojo nurodymo egzemplioriuje.
+3. Gavusi skundą, kad išduotos prisijungimo sąlygos ir (ar) Specialieji reikalavimai neatitinka teisės aktų reikalavimų, Inspekcija, jeigu reikia, kreipiasi į atitinkamus viešojo administravimo subjektus, prašydama pateikti išvadas, ar prisijungimo sąlygos ir (ar) Specialieji reikalavimai išduoti laikantis teisės aktų reikalavimų. Inspekcija, gavusi ir įvertinusi šių subjektų išvadas, per 10 darbo dienų nuo šių išvadų gavimo dienos pateikia skundą pateikusiam asmeniui savo išvadą dėl išduotų prisijungimo sąlygų ir (ar) Specialiųjų reikalavimų atitikties teisės aktams. Jeigu nustatoma, kad prisijungimo sąlygos ir (ar) Specialieji reikalavimai išduoti pažeidžiant teisės aktų reikalavimus, Inspekcija iki statybą leidžiančio dokumento išdavimo pateikia subjektams, išdavusiems prisijungimo sąlygas ar Specialiuosius reikalavimus, privalomuosius nurodymus administraciniu sprendimu panaikinti neteisėtai išduotas prisijungimo sąlygas ar Specialiuosius reikalavimus, išduoti naujas prisijungimo sąlygas ar Specialiuosius reikalavimus, jeigu to prašo skundą pateikęs asmuo ir jeigu prisijungimo sąlygos ar Specialieji reikalavimai privalo būti išduoti pagal teisės aktų reikalavimus, ir apie privalomojo nurodymo įvykdymą informuoti Inspekciją. Inspekcija pateikia privalomuosius nurodymus ir dėl išvadų, ar prisijungimo sąlygos ir (ar) Specialieji reikalavimai išduoti laikantis teisės aktų reikalavimų, taip pat ar prisijungimo sąlygas ir Specialiuosius reikalavimus išduoti atsisakoma pagrįstai. Apie privalomojo nurodymo pateikimą Inspekcija informuoja skundą pateikusį asmenį. Jeigu per 20 darbo dienų nuo privalomojo nurodymo įteikimo dienos privalomasis nurodymas neįvykdomas, Inspekcija per 2 mėnesius nuo privalomojo nurodymo įvykdymo termino pabaigos dienos kreipiasi į teismą dėl įpareigojimo vykdyti privalomąjį nurodymą arba dėl neteisėtai išduotų prisijungimo sąlygų ar Specialiųjų reikalavimų panaikinimo. Jeigu privalomasis nurodymas įvykdytas, tai pažymima Inspekcijos turimame privalomojo nurodymo egzemplioriuje.
 Straipsnio dalies pakeitimai:
 Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
 
 
-4. Gavusi skundą ar pranešimą, kuriuose teigiama, kad prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus neteisėtai atsisakoma išduoti, Inspekcija kreipiasi į atsisakiusius išduoti prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus subjektus, nurodydama per 10 darbo dienų pateikti atsisakymo išduoti minėtas sąlygas ir (ar) Specialiuosius reikalavimus motyvus. Išnagrinėjusi atsisakymo išduoti prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus motyvus, Inspekcija, jeigu reikia, kreipiasi į atitinkamus viešojo administravimo subjektus, prašydama pateikti išvadas, ar prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus išduoti atsisakoma pagrįstai. Gavusi ir įvertinusi šių subjektų išvadas, Inspekcija per 20 darbo dienų nuo išvadų gavimo dienos skundą ar pranešimą pateikusiam asmeniui pateikia savo išvadą dėl atsisakymo išduoti prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus pagrįstumo. Jeigu nustatyta, kad prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus išduoti atsisakoma nepagrįstai, Inspekcija pateikia subjektams, atsisakiusiems išduoti prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus, privalomuosius nurodymus administraciniu sprendimu jas išduoti ir apie privalomojo nurodymo įvykdymą informuoti Inspekciją. Inspekcija pateikia privalomuosius nurodymus ir dėl išvadų, ar prisijungimo sąlygos ir (ar) Specialieji reikalavimai išduoti laikantis teisės aktų reikalavimų, taip pat ar prisijungimo sąlygas ir Specialiuosius reikalavimus išduoti atsisakoma pagrįstai. Jeigu per 20 darbo dienų nuo privalomojo nurodymo įteikimo dienos privalomasis nurodymas neįvykdomas, Inspekcija per 2 mėnesius nuo privalomojo nurodymo įvykdymo termino pabaigos dienos kreipiasi į teismą dėl įpareigojimo vykdyti privalomąjį nurodymą arba dėl prisijungimo sąlygų ar Specialiųjų reikalavimų panaikinimo. Jeigu privalomasis nurodymas įvykdytas, tai pažymima Inspekcijos turimame privalomojo nurodymo egzemplioriuje.
+4. Gavusi skundą, kuriame teigiama, kad prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus neteisėtai atsisakoma išduoti, Inspekcija kreipiasi į atsisakiusius išduoti prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus subjektus, nurodydama per 10 darbo dienų pateikti atsisakymo išduoti minėtas sąlygas ir (ar) Specialiuosius reikalavimus motyvus. Išnagrinėjusi atsisakymo išduoti prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus motyvus, Inspekcija, jeigu reikia, kreipiasi į atitinkamus viešojo administravimo subjektus, prašydama pateikti išvadas, ar prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus išduoti atsisakoma pagrįstai. Gavusi ir įvertinusi šių subjektų išvadas, Inspekcija per 20 darbo dienų nuo išvadų gavimo dienos skundą pateikusiam asmeniui pateikia savo išvadą dėl atsisakymo išduoti prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus pagrįstumo. Jeigu nustatyta, kad prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus išduoti atsisakoma nepagrįstai, Inspekcija pateikia subjektams, atsisakiusiems išduoti prisijungimo sąlygas ir (ar) Specialiuosius reikalavimus, privalomuosius nurodymus administraciniu sprendimu jas (juos) išduoti ir apie privalomojo nurodymo įvykdymą informuoti Inspekciją. Inspekcija pateikia privalomuosius nurodymus ir dėl išvadų, ar prisijungimo sąlygos ir (ar) Specialieji reikalavimai išduoti laikantis teisės aktų reikalavimų, taip pat ar prisijungimo sąlygas ir Specialiuosius reikalavimus išduoti atsisakoma pagrįstai. Jeigu per 20 darbo dienų nuo privalomojo nurodymo įteikimo dienos privalomasis nurodymas neįvykdomas, Inspekcija per 2 mėnesius nuo privalomojo nurodymo įvykdymo termino pabaigos dienos kreipiasi į teismą dėl įpareigojimo vykdyti privalomąjį nurodymą arba dėl prisijungimo sąlygų ar Specialiųjų reikalavimų panaikinimo. Jeigu privalomasis nurodymas įvykdytas, tai pažymima Inspekcijos turimame privalomojo nurodymo egzemplioriuje.
 Straipsnio dalies pakeitimai:
 Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
@@ -896,7 +943,10 @@ Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
 10 straipsnis. Statybą leidžiančių dokumentų išdavimo teisėtumo tikrinimas
 
 
-1. Inspekcija statybą leidžiančių dokumentų išdavimo teisėtumą tikrina pagal Inspekcijos metinius veiklos planus, taip pat viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių pateiktų skundų ar pranešimų pagrindu.
+1. Inspekcija statybą leidžiančių dokumentų išdavimo teisėtumą tikrina pagal Inspekcijos metinius veiklos planus, taip pat viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių pateiktų skundų pagrindu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -1057,7 +1107,10 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 
 
 
-3) viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių pateiktų skundų ar pranešimų pagrindu;
+3) viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių pateiktų skundų pagrindu;
+Straipsnio punkto pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -1199,6 +1252,99 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 
 Straipsnio pakeitimai:
 Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
+ 
+
+
+
+
+111 straipsnis. Statybos užbaigimo procedūrų teisėtumo tikrinimas
+
+
+1. Inspekcija statybos užbaigimo procedūrų teisėtumą tikrina pagal Inspekcijos metinius veiklos planus, taip pat viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių pateiktų skundų pagrindu. 
+
+
+
+
+2. Inspekcijos pareigūnas, tikrinantis statybos užbaigimo procedūrų teisėtumą:
+
+
+1) patikrina IS „Infostatyba“ užregistruoto statybos užbaigimo akto, deklaracijos apie statybos užbaigimą ir prie jų pridėtų dokumentų atitiktį teisės aktų reikalavimams ir užbaigtos statinio statybos atitiktį projekto esminiams sprendiniams pagal pateiktus dokumentus, duomenis, informaciją;
+
+
+
+
+2) patikrina, ar statybos užbaigimo komisijoje dalyvavo visi subjektai, pagal teisės aktų nustatytus reikalavimus privalantys dalyvauti statybos užbaigimo komisijoje;
+
+
+
+
+3) patikrina, ar nepažeisti statybos užbaigimo procedūrų terminai;
+
+
+
+
+4) prireikus, nuvykęs į vietą, apžiūri statinį ir palygina statinio projekte numatytus ir faktiškai įgyvendintus sprendinius.
+
+
+
+
+
+
+3. Inspekcija, atlikdama statybos užbaigimo procedūrų teisėtumo patikrinimus, prireikus kreipiasi į statybos užbaigimo komisijoje dalyvaujančius subjektus ir kitus subjektus (jų padalinius), pateikdama privalomuosius nurodymus pateikti išvadas, ar pastatytas statinys atitinka statinio projekto sprendinius ir (ar) teisės aktų reikalavimus.
+
+
+
+
+4. Inspekcija turi teisę, pateikdama privalomąjį nurodymą, statybos užbaigimo teisėtumo patikrinime nurodyti dalyvauti kitų subjektų atstovams, kurie pagal kompetenciją surašo savo išvadas, užsakyti statinio (dalies) ekspertizę ar pateikti privalomąjį nurodymą statytojui užsakyti statinio (dalies) ekspertizę.
+
+
+
+
+5. Inspekcijos pareigūnas, atlikdamas statybos užbaigimo procedūrų teisėtumo patikrinimą, turi teisę statytojui (užsakovui) ir (ar) kitiems subjektams pateikti privalomąjį nurodymą pateikti visus su statybos užbaigimu susijusius dokumentus. Nurodyti pateikti dokumentai, išskyrus tuos, kurie yra kitose viešojo administravimo institucijose, valstybės registruose ar kitose valstybinėse informacijos sistemose, pateikiami per 10 darbo dienų nuo privalomojo nurodymo gavimo dienos. Šį terminą Inspekcija, gavusi rašytinį motyvuotą statytojo (užsakovo) ar kito subjekto prašymą, gali pratęsti iki 10 darbo dienų. 
+
+
+
+
+6. Jeigu asmuo pateikia skundą, statybos užbaigimo procedūrų teisėtumo patikrinimas turi būti atliktas per 20 darbo dienų nuo visos informacijos, būtinos skundui išnagrinėti, gavimo dienos. Kai dėl objektyvių priežasčių per šį terminą patikrinimas negali būti atliktas, Inspekcija gali šį terminą pratęsti ne ilgiau kaip 20 darbo dienų, apie tai per 2 darbo dienas raštu informuodama skundą pateikusį (patikrinimą inicijavusį) asmenį, nurodydama patikrinimo termino pratęsimo priežastis. Patikrinimo rezultatai įforminami patikrinimo aktu. Patikrinimo aktą pasirašo patikrinimą atlikęs Inspekcijos pareigūnas. Patikrinimo akto kopija arba originalas per 3 darbo dienas pateikiama (pateikiamas) statybos užbaigimo aktą išdavusiam Inspekcijos teritoriniam padaliniui, deklaraciją apie statybos užbaigimą patvirtinusiam ekspertizės rangovui ir statytojui. Apie atliktą patikrinimą skundo pateikėjas informuojamas raštu per 3 darbo dienas nuo patikrinimo akto pasirašymo dienos, pridedant teisės aktų nustatyta tvarka patvirtintą patikrinimo akto kopiją arba originalą.
+
+
+
+
+7. Inspekcijos pareigūnas ne vėliau kaip po 5 darbo dienų nuo statybos užbaigimo akto patikrinimo akto pasirašymo dienos priima sprendimą: 
+
+
+1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, taip pat jeigu nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – per 20 darbo dienų pašalinti nustatytus pažeidimus ar trūkumus;
+
+
+
+
+2) šios dalies 1 punkte nenurodytais atvejais, kai statybos užbaigimo aktas išduotas neteisėtai, – iki statinio įregistravimo Nekilnojamojo turto registre panaikinti statybos užbaigimo akto galiojimą, o kai statybos užbaigimo aktas įregistruotas Nekilnojamojo turto registre, kreiptis į teismą dėl statybos užbaigimo akto galiojimo panaikinimo.
+
+
+
+
+
+
+8. Inspekcijos pareigūnas ne vėliau kaip po 5 darbo dienų nuo deklaracijos apie statybos užbaigimą patikrinimo akto pasirašymo dienos priima sprendimą: 
+
+
+1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, taip pat jeigu nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti deklaraciją apie statybos užbaigimą patvirtinusiam ekspertizės rangovui ar statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį negu vieno mėnesio terminą pašalinti nustatytus pažeidimus ar trūkumus. Neįvykdžius privalomojo nurodymo, taikyti administracinę atsakomybę;
+
+
+
+
+2) šios dalies 1 punkte nenurodytais atvejais, kai deklaracija apie statybos užbaigimą surašyta ir (ar) patvirtinta neteisėtai, – iki statinio įregistravimo Nekilnojamojo turto registre pateikti statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį negu vieno mėnesio terminą panaikinti deklaracijos apie statybos užbaigimą galiojimą, apie tai nedelsiant raštu informuojant subjektus, kuriems ši deklaracija pateikta, neįvykdžius privalomojo nurodymo, – per 2 mėnesius nuo įvykdymo termino pabaigos kreiptis į teismą dėl privalomojo nurodymo vykdymo. Tais atvejais, kai Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos, priimamas sprendimas kreiptis į teismą dėl deklaracijos apie statybos užbaigimą galiojimo panaikinimo ir statinio įregistravimo Nekilnojamojo turto registre panaikinimo.
+
+
+
+
+
+
+9. Išsamią statybos užbaigimo procedūrų teisėtumo patikrinimų tvarką, tikrintinų statybos užbaigimo dokumentų rūšis nustato, su statybos užbaigimo procedūrų teisėtumo patikrinimais susijusių dokumentų formas ir statybos užbaigimo teisėtumui patikrinti pateiktinų dokumentų sąrašą tvirtina Inspekcijos viršininkas.
+
+
+Papildyta straipsniu:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
@@ -1443,7 +1589,6 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 
 
 12. Savavališkai valstybinėje žemėje statomų ir pastatytų naujų statinių įteisinimas draudžiamas, jeigu statybos darbai atlikti neturint žemės valdymo ar naudojimo teisių.
-TAR pastaba. 14 straipsnio 12 dalis įsigalioja 2019-01-01.
 
 
 
@@ -1515,7 +1660,10 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 
 
 
-16 straipsnis. Statybos užbaigimo procedūrų organizavimas ir atlikimas
+16 straipsnis. Statybos užbaigimo akto išdavimo procedūrų organizavimas ir atlikimas
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 1. Inspekcijos pareigūnai savo potvarkiais sudaro visų statinių, kurių statybą užbaigus privaloma gauti statybos užbaigimo aktus, statybos užbaigimo komisijas. Komisijos gali būti sudaromos:
@@ -1543,20 +1691,27 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 
 
 
-4. Gavęs prašymą patvirtinti deklaraciją apie statybos užbaigimą, Inspekcijos pareigūnas ją patvirtina arba atsisako tvirtinti ne vėliau kaip per 10 darbo dienų nuo visų deklaracijai patvirtinti privalomų pateikti dokumentų gavimo dienos.
-
-
-
-
-5. Jeigu dėl statybą leidžiančio dokumento išdavimo teisėtumo teisme yra priimtų nagrinėti viešojo administravimo subjektų ar prokuratūros prašymų, statybos užbaigimo procedūros nutraukiamos iki teismo sprendimo įsiteisėjimo; statybos užbaigimo procedūros taip pat nutraukiamos, jeigu viešajame registre yra registruota juridinių faktų dėl statybą leidžiančio dokumento galiojimo sustabdymo arba draudimo vykdyti statybą, taip pat jeigu įsiteisėjusiu teismo sprendimu administracinis sprendimas patvirtinti žemės sklypo, kuriame pastatytas statinys, teritorijų planavimo dokumentą ar išduoti statybą leidžiantį dokumentą yra panaikintas.
+4. Neteko galios nuo 2022-05-01.
 Straipsnio dalies pakeitimai:
-Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
 
 
-6. Jeigu teisme dėl statybą leidžiančio dokumento išdavimo teisėtumo yra priimtų nagrinėti kitų, negu nurodyti šio straipsnio 5 dalyje, asmenų prašymų, statybos užbaigimo procedūros sustabdomos ir atliekamas statybą leidžiančio dokumento išdavimo teisėtumo patikrinimas. Nustačius, kad statybą leidžiantis dokumentas išduotas teisėtai, statybos užbaigimo procedūros tęsiamos, jeigu neteisėtai, – nutraukiamos iki teismo sprendimo įsiteisėjimo. Gavus skundų ar pranešimų dėl kitų faktų, trukdančių atlikti procedūras, sprendžiama, ar reikia atidėti statybos užbaigimo procedūras, kol kompetentingos institucijos šiuos skundus (pranešimus) išnagrinės teisės aktų nustatyta tvarka, ar šie skundai (pranešimai) nėra pagrindas nutraukti procedūras.
+5. Statybos įstatymo 28 straipsnio 7 dalyje nustatytais atvejais statybos užbaigimo aktas neišduodamas.
+Straipsnio dalies pakeitimai:
+Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
+
+
+
+
+6. Jeigu teisme dėl statybą leidžiančio dokumento išdavimo teisėtumo yra priimtų nagrinėti kitų, negu nurodyti šio straipsnio 5 dalyje, asmenų prašymų, statybos užbaigimo procedūros sustabdomos ir atliekamas statybą leidžiančio dokumento išdavimo teisėtumo patikrinimas. Nustačius, kad statybą leidžiantis dokumentas išduotas teisėtai, statybos užbaigimo procedūros tęsiamos, jeigu neteisėtai, – nutraukiamos iki teismo sprendimo įsiteisėjimo. Gavus skundų dėl kitų faktų, trukdančių atlikti procedūras, sprendžiama, ar reikia atidėti statybos užbaigimo procedūras tol, kol kompetentingos institucijos šiuos skundus išnagrinės teisės aktų nustatyta tvarka, ar šie skundai nėra pagrindas nutraukti procedūras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+ 
 
 
 
@@ -1569,71 +1724,70 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 
 
 
-17 straipsnis. Pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių išdavimas
+17 straipsnis. Pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo tikrinimas
 
 
-1. Inspekcijos pareigūnai pagal asmenų prašymus išduoda pažymas apie ypatingų ir neypatingų statinių statybą be nukrypimų nuo esminių statinio projekto sprendinių.
-
-
-
-
-2. Jeigu pagal pateiktus dokumentus Inspekcijos pareigūnas nenustato šio straipsnio 3 dalyje nurodytų atvejų, pažymą jis išduoda per 10 darbo dienų nuo prašymo ir visų pateiktų dokumentų gavimo dienos.
+1. Inspekcija pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumą tikrina pagal Inspekcijos metinius veiklos planus, taip pat viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių pateiktų skundų pagrindu. 
 
 
 
 
-3. Pažyma neišduodama:
+2. Inspekcijos pareigūnas, tikrinantis pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumą:
 
 
-1) jeigu yra nukrypimų nuo esminių statinio projekto sprendinių;
-
-
-
-
-2) asmeniui, neturinčiam teisės būti šio statinio statytoju;
+1) patikrina pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių atitiktį teisės aktų reikalavimams;
 
 
 
 
-3) nepateikti visi privalomi pateikti dokumentai;
+2) patikrina, ar pažymą apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių užpildęs subjektas ir patvirtinęs statinio ekspertizės rangovas turėjo tam teisę ir ar pažymoje apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių nurodytas statytojas turi statytojo teisę;
 
 
 
 
-4) jeigu tokio statinio statyba toje vietoje pagal teisės aktų reikalavimus negalima;
+3) prireikus, nuvykęs į vietą, apžiūri statinį ir palygina statinio projekte numatytus ir faktiškai įgyvendintus esminius projekto sprendinius.
 
 
 
 
-5) jeigu pagrįstai įtariama, kad statybą leidžiantis dokumentas išduotas neteisėtai;
+
+
+3. Inspekcija turi teisę, pateikdama privalomąjį nurodymą, pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo patikrinime nurodyti dalyvauti kitų subjektų atstovams, kurie pagal kompetenciją surašo savo išvadas, užsakyti statinio (jo dalies) ekspertizę ar pateikti privalomąjį nurodymą statytojui užsakyti statinio (jo dalies) ekspertizę.
 
 
 
 
-6) jeigu teisme pagal viešojo administravimo subjektų ar prokuratūros prašymą nagrinėjamas statybą leidžiančio dokumento teisėtumo klausimas;
+4. Inspekcijos pareigūnas, atlikdamas pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo patikrinimą, turi teisę statytojui ir (ar) kitiems subjektams pateikti privalomąjį nurodymą pateikti su pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių susijusius dokumentus ir (ar) informaciją. Nurodyti pateikti dokumentai ir (ar) informacija, išskyrus tuos, kurie yra kitose viešojo administravimo institucijose, valstybės registruose ar kitose valstybinėse informacinėse sistemose, pateikiami per 10 darbo dienų nuo privalomojo nurodymo gavimo dienos. Šį terminą Inspekcija, gavusi rašytinį motyvuotą statytojo ar kito subjekto prašymą, gali pratęsti iki 10 darbo dienų. 
 
 
 
 
-7) jeigu teisme pagal kitų, negu nurodyti šios dalies 6 punkte, asmenų prašymus nagrinėjamas statybą leidžiančio dokumento teisėtumo klausimas ir Inspekcija nustato, kad šis dokumentas išduotas neteisėtai;
+5. Jeigu asmuo pateikia skundą, pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo patikrinimas turi būti atliktas per 20 darbo dienų nuo visos informacijos, būtinos skundui išnagrinėti, gavimo dienos. Kai dėl objektyvių priežasčių per šį terminą patikrinimas negali būti atliktas, Inspekcija gali šį terminą pratęsti ne ilgiau kaip 20 darbo dienų, apie tai per 2 darbo dienas raštu informuodama skundą pateikusį (patikrinimą inicijavusį) asmenį, nurodydama patikrinimo termino pratęsimo priežastis. Patikrinimo rezultatai įforminami patikrinimo aktu. Patikrinimo aktą pasirašo patikrinimą atlikęs Inspekcijos pareigūnas. Patikrinimo akto kopija arba originalas per 3 darbo dienas pateikiama (pateikiamas) statytojui ir statinio ekspertizės rangovui, patvirtinusiam pažymą apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių. Apie atliktą patikrinimą skundo pateikėjas informuojamas raštu per 3 darbo dienas nuo patikrinimo akto pasirašymo dienos, pridedant teisės aktų nustatyta tvarka patvirtintą patikrinimo akto kopiją arba originalą.
 
 
 
 
-8) jeigu viešajame registre yra registruota juridinių faktų dėl statybą leidžiančio dokumento galiojimo sustabdymo arba draudimo vykdyti statybą.
-Papildyta straipsnio punktu:
-Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
+6. Inspekcijos pareigūnas ne vėliau kaip po 5 darbo dienų nuo patikrinimo akto pasirašymo dienos priima sprendimą: 
+
+
+1) jeigu nustatyti techninio pobūdžio ar mažareikšmiai procedūriniai pažeidimai, taip pat jeigu nustatyta kitų trūkumų, kuriuos galima pašalinti nepažeidžiant teisės aktų reikalavimų ir trečiųjų asmenų teisėtų interesų, – pateikti statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį negu vieno mėnesio terminą pašalinti nustatytus pažeidimus ar trūkumus;
+
+
+
+
+2) šios dalies 1 punkte nenurodytais atvejais, kai pažyma apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių surašyta ir (ar) patvirtinta neteisėtai, – pateikti statytojui privalomąjį nurodymą per jame nurodytą ne ilgesnį negu vieno mėnesio terminą panaikinti pažymą apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių, neįvykdžius privalomojo nurodymo, – per 2 mėnesius nuo įvykdymo termino pabaigos kreiptis į teismą dėl privalomojo nurodymo vykdymo. Tais atvejais, kai Nekilnojamojo turto registre daiktinės teisės į statinį įregistruotos ne tik statytojo vardu, priimamas sprendimas kreiptis į teismą dėl pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių ir nebaigto statyti statinio įregistravimo Nekilnojamojo turto registre panaikinimo.
+
+
+
+
+
+
+7. Išsamią pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo tikrinimo tvarką nustato, su pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumo patikrinimais susijusių dokumentų formas ir pažymų apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių teisėtumui patikrinti pateiktinų dokumentų sąrašą tvirtina Inspekcijos viršininkas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
-
-
-
-
-
-
-4. Šiame straipsnyje nurodytų procedūrų atlikimo tvarką nustato ir surašomų dokumentų formas ir pateikiamų dokumentų sąrašą tvirtina Inspekcijos viršininkas.
- 
-
-
 
 
 
@@ -1976,7 +2130,9 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 
 
 PENKTASIS SKIRSNIS
-PRAŠYMŲ, SKUNDŲ IR PRANEŠIMŲ NAGRINĖJIMAS
+PRAŠYMŲ IR SKUNDŲ NAGRINĖJIMAS
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
@@ -1991,127 +2147,176 @@ Asmenų prašymai pagal kompetenciją išduoti administracinius aktus ar kitus t
 
 
 
-25 straipsnis. Skundų ar pranešimų nagrinėjimas
+25 straipsnis. Bendrosios skundų nagrinėjimo taisyklės
 
 
-1. Jeigu šiame įstatyme nenustatyta kitaip, skundai ir pranešimai išnagrinėjami ne vėliau kaip per 20 darbo dienų nuo visų privalomų pateikti dokumentų ir informacijos gavimo dienos; dėl objektyvių priežasčių šis terminas gali būti pratęsiamas iki 20 darbo dienų, apie tai raštu informuojant skundą ar pranešimą pateikusį asmenį ir tikrinamus subjektus ir nurodant patikrinimo termino pratęsimo priežastis. Skundai ir pranešimai, kiek to nereglamentuoja šis įstatymas, nagrinėjami Viešojo administravimo įstatymo nustatyta tvarka. Teikiant skundą ir (ar) pranešimą, jame turi būti nurodytos aplinkybės, kuriomis asmuo grindžia savo reikalavimą, ir tai patvirtinantys dokumentai.
-
-
-
-
-2. Skundai ar pranešimai dėl teritorijų planavimo dokumentų patvirtinimo teisėtumo nenagrinėjami, apie tai raštu informuojant skundą ar pranešimą pateikusį asmenį, jeigu:
-
-
-1) nuo sprendimo patvirtinti teritorijų planavimo dokumentą praėjo daugiau kaip vieni metai, išskyrus atvejus, kai dėl šio dokumento patvirtinimo teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas;
+1. Jeigu šiame įstatyme nenustatyta kitaip, skundai išnagrinėjami ne vėliau kaip per 20 darbo dienų nuo visų privalomų pateikti dokumentų ir informacijos gavimo dienos.
 
 
 
 
-2) teritorijų planavimo dokumento patvirtinimo teisėtumo klausimas dėl tų pačių aplinkybių nagrinėjamas arba išnagrinėtas teisme.
+2. Dėl objektyvių priežasčių šio straipsnio 1 dalyje nustatytas terminas gali būti pratęsiamas iki 20 darbo dienų, apie tai per 5 darbo dienas nuo termino pratęsimo raštu informuojant skundą pateikusį asmenį ir nurodant termino pratęsimo priežastis.
 
 
 
 
-
-
-3. Skundai ar pranešimai dėl kitų, negu nurodyti šio straipsnio 2 dalyje, su teritorijų planavimo procesu susijusių administracinių sprendimų nenagrinėjami, jeigu:
-
-
-1) nuo administracinio sprendimo praėjo daugiau kaip vieni metai arba teritorijų planavimo dokumentas yra patvirtintas, išskyrus atvejus, kai dėl administracinio sprendimo teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas;
+3. Skundą patikslinus jo nagrinėjimo metu, šio straipsnio 1 ir 2 dalyse nustatyti terminai skaičiuojami nuo skundo patikslinimo dienos.
 
 
 
 
-2) administracinio sprendimo teisėtumo klausimas dėl tų pačių aplinkybių nagrinėjamas arba išnagrinėtas teisme.
+4. Skundai, kiek to nereglamentuoja šis ar kiti specialieji įstatymai, nagrinėjami Viešojo administravimo įstatymo nustatyta tvarka. 
 
 
 
 
+5. Teikiant skundą, jame turi būti pateikti duomenys, identifikuojantys asmenį, nurodytos aplinkybės, kuriomis asmuo grindžia savo reikalavimą, tai patvirtinantys dokumentai, be to, skundas ir jo padavimo tvarka turi atitikti kitus teisės aktų reikalavimus.
 
 
-4. Skundai ar pranešimai dėl viešojo administravimo subjekto išduoto statybą leidžiančio dokumento išdavimo teisėtumo nenagrinėjami, apie tai raštu informuojant skundą ar pranešimą pateikusį asmenį, jeigu:
 
 
-1) nuo statybos pradžios praėjo daugiau kaip vieni metai ar statybą leidžiantis dokumentas išduotas anksčiau kaip prieš 3 metus, išskyrus atvejus, kai dėl statybą leidžiančio dokumento išdavimo teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas;
-Straipsnio punkto pakeitimai:
-Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+6. Teritorijų planavimo ir statybos valstybinę priežiūrą vykdančių subjektų vadovai gali steigti pasitikėjimo linijas, skirtas anoniminiams skundams dėl didelę žalą galinčių sukelti pažeidimų pateikti (numatytų šių linijų nuostatuose). Pasitikėjimo linijos nuostatus tvirtina teritorijų planavimo ir statybos valstybinę priežiūrą vykdančių subjektų vadovai.
+
+
+
+
+7. Išsamią skundų teritorijų planavimo ir statybos srityje pateikimo, nagrinėjimo tvarką Inspekcijoje, kituose viešojo administravimo subjektuose, vykdančiuose teritorijų planavimo valstybinę priežiūrą šio įstatymo 3 straipsnyje nurodytais pagrindais, nustato šių subjektų vadovai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
 
 
-2) statybą leidžiančio dokumento išdavimo teisėtumo klausimas dėl tų pačių aplinkybių nagrinėjamas arba išnagrinėtas teisme.
+251 straipsnis. Skundų nenagrinėjimas ir jų nagrinėjimo nutraukimas
+
+
+1. Skundai, pateikti pagal kompetenciją, nenagrinėjami, esant bent vienam iš šių nurodytų pagrindų:
+
+
+1) Viešojo administravimo įstatyme nustatytais atvejais; 
+
+
+
+
+2) teismas nagrinėja ar yra išnagrinėjęs skundą tuo pačiu klausimu;
+
+
+
+
+3) skundą pateikusio asmens prašymu, išskyrus atvejus, kai dėl pažeidimo teisėsaugos institucijos atlieka tyrimą, arba kai yra įtarimų, kad yra pažeistas viešasis interesas;
+
+
+
+
+4) dėl teritorijų planavimo procese iki teritorijų planavimo dokumento patvirtinimo priimtų sprendimų – jeigu teritorijų planavimo dokumentas yra patvirtintas, išskyrus atvejus, kai dėl pažeidimo teisėsaugos institucijos atlieka tyrimą, arba kai yra įtarimų, kad yra pažeistas viešasis interesas;
+
+
+
+
+5) dėl patvirtinto teritorijų planavimo dokumento teisėtumo – jeigu nuo jo patvirtinimo iki skundo padavimo praėjo daugiau kaip 6 mėnesiai, išskyrus atvejus, kai dėl sprendimo teisėtumo teisėsaugos institucijos atlieka tyrimą, arba kai yra įtarimų, kad yra pažeistas viešasis interesas;
+
+
+
+
+6) dėl nevykdant teritorijų planavimo proceso priimtų sprendimų, kuriais nustatomi nauji, keičiami ar panaikinami esami teritorijos tvarkymo, naudojimo ar apsaugos reikalavimai, keičiami ar panaikinami teritorijų planavimo dokumentai (jų dalys), teisėtumo – jeigu nuo jų priėmimo iki skundo padavimo praėjo daugiau kaip 6 mėnesiai, išskyrus atvejus, kai dėl sprendimo teisėtumo teisėsaugos institucijos atlieka tyrimą, arba kai yra įtarimų, kad yra pažeistas viešasis interesas;
+
+
+
+
+7) dėl iki statybą leidžiančių dokumentų išdavimo priimtų sprendimų – jeigu buvo išduotas statybą leidžiantis dokumentas, išskyrus atvejus, kai dėl sprendimo teisėtumo teisėsaugos institucijos atlieka tyrimą, arba kai yra įtarimų, kad yra pažeistas viešasis interesas;
+
+
+
+
+8) dėl statybos procese priimtų sprendimų, išskyrus šio straipsnio 1 dalies 7 punkte nurodytus sprendimus, teisėtumo – jeigu nuo jų priėmimo iki skundo padavimo praėjo daugiau kaip 6 mėnesiai, išskyrus atvejus, kai dėl sprendimo teisėtumo teisėsaugos institucijos atlieka tyrimą, arba kai yra įtarimų, kad yra pažeistas viešasis interesas;
+
+
+
+
+9) dėl statybos teisėtumo, jeigu paaiškėja, kad statybos darbai atlikti daugiau kaip prieš 2 metus iki skundo pateikimo, išskyrus atvejus, kai dėl statybos teisėtumo teisėsaugos institucijos atlieka tyrimą, arba kai yra įtarimų, kad yra pažeistas viešasis interesas. Jeigu yra įtarimų dėl galimo viešojo intereso pažeidimų, skundas visais atvejais nenagrinėjamas, jeigu jis paduotas praėjus 10 metų nuo statybos darbų atlikimo;
+
+
+
+
+10) skundas paduotas dėl pažeidimų vykdant statybą, kai statybos darbams nereikia rengti nei statinio projekto, nei gauti statybą leidžiančio dokumento, išskyrus atvejus, kai: įvyko ar gresia statinio avarija; statinio statyba toje vietoje pagal teisės aktus negalima, jeigu įtariama, kad statant tokį statinį yra pažeistas viešasis interesas; rašytinį sutikimą dėl statybos privaloma gauti iš valstybinės žemės patikėtinio, kai statyba vykdoma valstybinėje žemėje (išskyrus atvejus, kai skundas paduotas dėl inžinerinių statinių – užtvaros (tvoros, aptvaro, diendaržio, voljero), atraminės sienelės, liepto ir plokščio horizontalaus inžinerinio statinio – dėl kurių skundus nagrinėja žemės naudojimo valstybinę kontrolę vykdantis viešojo administravimo subjektas (tokiu atveju skundas persiunčiamas nagrinėti pagal kompetenciją);
+
+
+
+
+11) skundas paduotas dėl statybos teisėtumo, negavus bendraturčių sutikimų, kai statybos darbams atlikti turi būti parengtas statinio projektas, bet statybą leidžiančio dokumento gauti neprivaloma, išskyrus atvejus, kai sutikimą reikia gauti iš valstybinės žemės patikėtinio;
+
+
+
+
+12) kitais teisės aktuose numatytais atvejais.
 
 
 
 
 
 
-5. Skundai ar pranešimai dėl kitų, negu nurodyti šio straipsnio 4 dalyje, iki statybą leidžiančių dokumentų išdavimo priimtų administracinių sprendimų nenagrinėjami, jeigu:
-
-
-1) buvo išduotas statybą leidžiantis dokumentas, išskyrus atvejus, kai dėl administracinio sprendimo teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas;
+2. Skundas visais atvejais netiriamas, jeigu jo padavimo metu nuo pažeidimų padarymo, skundžiamų sprendimų priėmimo praėjo daugiau kaip 10 metų.
 
 
 
 
-2) administracinio sprendimo teisėtumo klausimas dėl tų pačių aplinkybių nagrinėjamas arba išnagrinėtas teisme.
+3. Jeigu šio straipsnio 1 dalyje nurodytos aplinkybės paaiškėja pradėjus nagrinėti skundą, skundo nagrinėjimo procedūra nutraukiama.
 
 
 
 
+4. Pranešimas dėl skundo nenagrinėjimo pateikiamas per 10 darbo dienų nuo skundo užregistravimo Inspekcijoje dienos, o pranešimas dėl skundo nagrinėjimo nutraukimo – per 5 darbo dienas nuo aplinkybių, sudarančių pagrindą nutraukti nagrinėjimą, paaiškėjimo dienos.
 
 
-6. Skundai ar pranešimai dėl statybos užbaigimo aktų ar pažymų apie statinio nugriovimą išdavimo teisėtumo, deklaracijų apie statybos užbaigimą surašymo ar patvirtinimo teisėtumo, taip pat dėl kitų, negu nurodyti šio straipsnio 4 ir 5 dalyse, su statybos procesu susijusių administracinių sprendimų nenagrinėjami, apie tai raštu informuojant skundą ar pranešimą pateikusį asmenį, jeigu:
-
-
-1) nuo akto ar pažymos išdavimo, deklaracijos surašymo ar patvirtinimo arba administracinio sprendimo priėmimo praėjo daugiau kaip vieni metai, išskyrus atvejus, kai dėl šių dokumentų išdavimo, surašymo ar patvirtinimo arba administracinio sprendimo teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas;
-
-
-
-
-2) akto ar pažymos išdavimo, deklaracijos surašymo ar patvirtinimo arba administracinio sprendimo teisėtumo klausimas dėl tų pačių aplinkybių nagrinėjamas arba išnagrinėtas teisme.
-
-
-
-
-
-
-7. Šio straipsnio 2 dalies 1 punkte, 3 dalies 1 punkte, 4 dalies 1 punkte, 5 dalies 1 punkte ir 6 dalies 1 punkte nurodytais atvejais priimant sprendimą dėl viešojo intereso gynimo, turi būti nepažeisti teisėtų lūkesčių, teisinio tikrumo ir teisinio stabilumo principai.
-
-
-
-
-8. Inspekcija nenagrinėja skundų ir pranešimų dėl statybos teisėtumo, jeigu statybos darbai atlikti anksčiau kaip prieš 10 metų, išskyrus atvejus, kai dėl statybos teisėtumo teisėsaugos institucijos atlieka tyrimą arba yra įtarimų, kad yra pažeistas viešasis interesas. 
-Papildyta straipsnio dalimi:
-Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+Papildyta straipsniu:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
 
 
 
 
-9. Inspekcija nenagrinėja skundų ir pranešimų dėl teisės aktų reikalavimų mažareikšmių pažeidimų statybos srityje. Teisės aktų reikalavimų mažareikšmių pažeidimų statybos srityje sąrašą tvirtina Inspekcijos viršininkas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
+252 straipsnis. Inspekcijos sprendimų, veiksmų ir neveikimo apskundimas
+
+
+1. Inspekcijos darbuotojų veiksmai (neveikimas), vilkinimas atlikti pagal kompetenciją priskirtus veiksmus, administraciniai sprendimai, priimti ne teritorijų planavimo ir statybos valstybinės priežiūros srityje, skundžiami Viešojo administravimo įstatyme nustatyta tvarka. 
+
+
+
+
+2. Inspekcijos administraciniai sprendimai, priimti teritorijų planavimo ir statybos valstybinės priežiūros srityje, jeigu šiame įstatyme ar specialiuosiuose įstatymuose nenustatyta kitokia jų apskundimo tvarka, pasirinktinai skundžiami tiesiogiai išankstinio ginčų nagrinėjimo ne teismo tvarka institucijai arba teismui.
+
+
+
+
+3. Pasirinktinai išankstinio ginčų nagrinėjimo ne teismo tvarka institucijai, teismui ar Inspekcijos administracijos padalinių vadovams gali būti skundžiami padalinių darbuotojų teritorijų planavimo ir statybos valstybinės priežiūros srityje priimti administraciniai sprendimai.
+
+
+
+
+4. Pasirinktinai išankstinio ginčų nagrinėjimo ne teismo tvarka institucijai, teismui ar Inspekcijos viršininkui gali būti skundžiami šie Inspekcijos administracijos padalinių vadovų administraciniai sprendimai, priimti valstybinės priežiūros srityje:
+
+
+1) statybos valstybinės priežiūros srityje priimti administraciniai sprendimai dėl naujų ypatingųjų statinių statybos ar ypatingųjų statinių rekonstravimo;
+
+
+
+
+2) statybos valstybinės priežiūros srityje priimti administraciniai sprendimai, susiję su įvykusia arba gresiančia statinio avarija;
+
+
+
+
+3) teritorijų planavimo ar statybos valstybinės priežiūros srityje priimti administraciniai sprendimai, kai skunde pateikiami įrodymai, kad priimant skundžiamą sprendimą galimai buvo padaryta nusikalstama veika.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
  
-
-
-
-
-10. Skundų ar pranešimų dėl pažeidimų teritorijų planavimo srityje nagrinėjimo tvarką nustato teritorijų planavimo valstybinės priežiūros institucijos. Skundų ar pranešimų dėl pažeidimų statybos srityje nagrinėjimo tvarką, atvejus, kai šie skundai ar pranešimai nenagrinėjami arba jų nagrinėjimas nutraukiamas, nustato Inspekcija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
- 
-
-
-
-
-11. Skundas dėl Inspekcijos padalinių priimtų administracinių sprendimų teikiamas teismui, o Inspekcijos viršininko nustatytais atvejais skundas gali būti teikiamas Inspekcijos viršininkui ar jo įgaliotam asmeniui.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
- 
-
-
 
 
 
@@ -2223,3 +2428,8 @@ Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
 Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 4, 6, 8, 9, 10, 23 straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 3, 4, 5, 6, 6-1, 8, 9, 10, 11, 16, 17, 25 straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 11-1, 25-1 ir 25-2 straipsniais įstatymas
