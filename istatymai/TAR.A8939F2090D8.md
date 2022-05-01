@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a8939f2090d811e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymas
 
-Suvestinė redakcija nuo 2021-08-02 iki 2022-04-30
+Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
  
 Įstatymas paskelbtas: TAR 2014-12-31, i. k. 2014-21281
  
@@ -233,7 +233,10 @@ Vilnius
 
 
 
-5. Duomenys asmens tapatybės kortelėje ir pase įrašomi lietuviškais rašmenimis, piliečio vardas (vardai) ir pavardė – Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių vardų ir pavardžių rašymą asmens dokumentuose, nustatyta tvarka.
+5. Duomenys asmens tapatybės kortelėje ir pase rašomi lietuviškais rašmenimis, piliečio vardas (vardai) ir pavardė ‒ Lietuvos Respublikos asmens vardo ir pavardės rašymo dokumentuose įstatymo ir kitų teisės aktų, reglamentuojančių vardų ir pavardžių rašymą dokumentuose, nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1017, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08107
+ 
 
 
 
@@ -586,3 +589,8 @@ Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-225, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07286
 Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1017, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08107
+Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 5 straipsnio pakeitimo įstatymas
