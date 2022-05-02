@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-05-01
+Suvestinė redakcija nuo 2022-05-02 iki 2022-06-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -471,21 +472,58 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-5. Lietuvos Respublikos privalomosios pradinės karo tarnybos karių, taip pat privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, ir visuomenei pavojingą veiką padariusių asmenų, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+5. Valstybės biudžeto lėšomis apmokama šio straipsnio 1 dalyje nenurodytų:
+
+
+1) Lietuvos Respublikos privalomosios pradinės karo tarnybos karių ir privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, sveikatos priežiūra;
+
+
+
+
+2) baudžiamojo įstatymo uždraustą veiką padariusių asmenų, kuriems teismo nutartimi paskirtos priverčiamosios medicinos priemonės, ir asmenų, atliekančių arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes Lietuvos Respublikoje, sveikatos priežiūra;
+
+
+
+
+3) užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, ir užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, būtinoji medicinos pagalba ir kitos būtinos asmens sveikatos priežiūros paslaugos, kurių nesuteikus paciento sveikatos būklė galėtų pablogėti tiek, kad jam prireiktų skubiosios medicinos pagalbos paslaugų (toliau – būtinosios paslaugos);
+
+
+
+
+4) užsieniečių, kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 40 straipsnio 1 dalies 8 punkte nurodytu pagrindu suteiktas leidimas laikinai gyventi Lietuvos Respublikoje, būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+
+
+5) nelegaliai Lietuvos Respublikos sieną kirtusių užsieniečių būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+
+
+6) užsieniečių, gyvenančių užsienio šalyje, kurioje vyksta ginkluotas konfliktas, dėl kurio Lietuvos Respublikoje paskelbta nepaprastoji padėtis ar ekstremalioji situacija, ir pasitraukusių iš šios užsienio šalies į Lietuvos Respubliką, būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+
+
+7) šios dalies 3–6 punktuose nurodytų užsieniečių vaikų iki 18 metų būtinoji medicinos pagalba, būtinosios paslaugos, skiepijimas pagal Nacionalinę imunoprofilaktikos programą ir profilaktiniai sveikatos tikrinimai.
+
+
 Straipsnio dalies pakeitimai:
 Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
 Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
 Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
+Nr. XIV-1042, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08797
  
 
 
 
 
-6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 dalyje nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų šio straipsnio 5 dalyje, sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos krašto apsaugos ministro ar vidaus reikalų ministro valdymo srities sveikatos priežiūros įstaigose.
+6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 dalyje nurodytų asmenų privalomajam sveikatos draudimui ir šio straipsnio 5 dalyje nurodytų asmenų sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos teisingumo ministro, krašto apsaugos ministro ar vidaus reikalų ministro valdymo srities sveikatos priežiūros įstaigose.
 Straipsnio dalies pakeitimai:
 Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
 Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
 Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
+Nr. XIV-1042, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08797
  
 
 
@@ -517,7 +555,10 @@ Nr. XII-1001, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10432
 
 
 
-2. Draudžiamųjų privalomuoju sveikatos draudimu registro objektai yra privalomuoju sveikatos draudimu draudžiami asmenys, nurodyti šio Įstatymo 6 straipsnio 1 ir 2 dalyse.
+2. Draudžiamųjų privalomuoju sveikatos draudimu registro objektai yra privalomuoju sveikatos draudimu draudžiami asmenys, nurodyti šio Įstatymo 6 straipsnio 1 ir 2 dalyse, taip pat valstybės biudžeto lėšomis apmokamą būtinąją medicinos pagalbą, būtinąsias paslaugas ir kitą sveikatos priežiūrą gaunantys asmenys, nurodyti šio Įstatymo 6 straipsnio 5 dalyje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1042, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08797
+ 
 
 
 
@@ -586,10 +627,11 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-5. Asmenys, nelaikomi apdraustaisiais privalomuoju sveikatos draudimu pagal šio Įstatymo 6 straipsnio 3 dalį, patys moka asmens sveikatos priežiūros įstaigai už jiems suteiktas asmens sveikatos priežiūros paslaugas (išskyrus nuolatiniams Lietuvos Respublikos gyventojams suteiktas būtinosios medicinos pagalbos paslaugas, už kurias mokama iš Privalomojo sveikatos draudimo fondo biudžetui skirtų valstybės biudžeto lėšų).
+5. Asmenys, nelaikomi apdraustaisiais privalomuoju sveikatos draudimu pagal šio Įstatymo 6 straipsnio 3 dalį, patys moka asmens sveikatos priežiūros įstaigai už jiems suteiktas asmens sveikatos priežiūros paslaugas (išskyrus valstybės biudžeto lėšomis apmokamas nuolatiniams Lietuvos Respublikos gyventojams suteiktas būtinosios medicinos pagalbos paslaugas ir būtinąsias paslaugas).
 Straipsnio dalies pakeitimai:
 Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
+Nr. XIV-1042, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08797
  
 
 
@@ -3482,3 +3524,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir 35 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-751, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26583
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 17 straipsnio pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1042, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08797
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6, 7 ir 8 straipsnių pakeitimo įstatymas
