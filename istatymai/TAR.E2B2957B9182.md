@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-12-29 iki 2022-05-01
+Suvestinė redakcija nuo 2022-05-02 iki 2022-05-25
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -2216,7 +2216,7 @@ PRIEŽIŪRA IR JOS TEIKIMO TVARKA
 2. Valstybės laiduojamai (nemokamai) sveikatos priežiūrai priskiriama:
 
 
-1) būtinoji medicinos pagalba;
+1) būtinoji medicinos pagalba ir kitos būtinos asmens sveikatos priežiūros paslaugos, kurių nesuteikus paciento sveikatos būklė galėtų pablogėti tiek, kad jam prireiktų skubiosios medicinos pagalbos paslaugų (toliau – būtinosios paslaugos);
 
 
 
@@ -2231,42 +2231,37 @@ PRIEŽIŪRA IR JOS TEIKIMO TVARKA
 
 
 
-4) teismo ar teisėsaugos institucijų sulaikytų asmenų, kardomojo kalinimo vietose esančių asmenų, nuteistųjų bei užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, užsieniečių, gavusių laikinąją ar papildomą apsaugą Lietuvos Respublikoje, asmens sveikatos priežiūra;
+4) baudžiamojo įstatymo uždraustą veiką padariusių asmenų, kuriems teismo nutartimi paskirtos priverčiamosios medicinos priemonės, asmenų, kuriems ikiteisminio tyrimo teisėjo ar teismo nutartimi paskirtas suėmimas, asmenų, atliekančių arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes Lietuvos Respublikoje, asmens sveikatos priežiūra;
 
 
 
 
-5) apdraustųjų privalomuoju sveikatos draudimu, nurodytų Sveikatos draudimo įstatyme, asmens sveikatos priežiūra;
+5) užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, užsieniečių, gavusių laikinąją apsaugą Lietuvos Respublikoje, užsieniečių, kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 40 straipsnio 1 dalies 8 punkte nurodytu pagrindu suteiktas leidimas laikinai gyventi Lietuvos Respublikoje, nelegaliai Lietuvos Respublikos sieną kirtusių užsieniečių ir užsieniečių, gyvenančių užsienio šalyje, kurioje vyksta ginkluotas konfliktas, dėl kurio Lietuvos Respublikoje paskelbta nepaprastoji padėtis ar ekstremalioji situacija, ir pasitraukusių iš šios užsienio šalies į Lietuvos Respubliką, būtinoji medicinos pagalba ir būtinosios paslaugos;
 
 
 
 
-6) asmenų, sergančių ligomis, kurių sąrašą tvirtina Sveikatos apsaugos ministerija, galūnių, sąnarių, kitų organų protezavimas;
+6) šios dalies 5 punkte nurodytų užsieniečių vaikų iki 18 metų būtinoji medicinos pagalba, būtinosios paslaugos, skiepijimas pagal Nacionalinę imunoprofilaktikos programą ir profilaktiniai sveikatos tikrinimai;
 
 
 
 
-7) asmenų, sergančių tuberkulioze, lytiniu keliu plintančiomis ligomis, ŽIV (AIDS), užkrečiamosiomis, endokrininėmis, onkologinėmis ligomis, turinčių psichikos ir elgesio sutrikimų ir sergančių kitomis sveikatos apsaugos ministro nustatyto sąrašo ligomis, taip pat nėščiųjų asmens sveikatos priežiūra; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
+7) apdraustųjų privalomuoju sveikatos draudimu, nurodytų Sveikatos draudimo įstatyme, asmens sveikatos priežiūra;
+
+
+
+
+8) sveikatos apsaugos ministro patvirtinto sąrašo vaistų ir medicinos pagalbos priemonių, kompensuojamų iš Privalomojo sveikatos draudimo fondo biudžeto, kompensavimas apdraustiesiems;
+
+
+
+
+9) kraujo donorystė.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1043, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08798
  
-
-
-
-
-8) Sveikatos apsaugos ministerijos nustatyto sąrašo vaistų ir medicinos pagalbos priemonių, kompensuojamų iš privalomojo sveikatos draudimo biudžeto, kompensavimas apdraustiesiems; 
-
-
-
-
-9) visuomenės sveikatos priežiūra pagal Sveikatos apsaugos ministerijos patvirtintą būtinųjų visuomenės sveikatos priežiūros priemonių ir paslaugų nomenklatūrą; 
-
-
-
-
-10) kraujo donorystė. 
-
-
 
 
 
@@ -2345,7 +2340,10 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14)
 paslaugų teikimo LNSS įstaigose tvarka 
 
 
-1. Teisę gauti valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą turi Lietuvos Respublikos, kitų valstybių piliečiai ir asmenys be pilietybės, nuolat gyvenantys Lietuvoje (toliau - nuolatiniai gyventojai). Būtinoji medicinos pagalba LNSS įstaigose teikiama nemokamai visiems nuolatiniams gyventojams, neatsižvelgiant į tai, ar jie apdrausti privalomuoju sveikatos draudimu, taip pat neatsižvelgiant į paciento apsilankymų įstaigoje per kalendorinius metus skaičių ir jo gyvenamąją vietą. Užsienio šalių piliečiams, asmenims be pilietybės, nepriskiriamiems nuolatiniams gyventojams, LNSS įstaigos teikia būtinąją medicinos pagalbą Sveikatos apsaugos ministerijos nustatyta tvarka, jei kitaip nenustato Lietuvos Respublikos tarptautinės sutartys.
+1. Teisę gauti valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą, nurodytą šio įstatymo 47 straipsnio 2 dalies 1–3 ir 7–9 punktuose, turi tik Lietuvos Respublikos, kitų valstybių piliečiai ir asmenys be pilietybės, nuolat gyvenantys Lietuvoje (toliau – nuolatiniai gyventojai). Būtinoji medicinos pagalba ir būtinosios paslaugos LNSS įstaigose teikiamos nemokamai visiems nuolatiniams gyventojams, neatsižvelgiant į tai, ar jie apdrausti privalomuoju sveikatos draudimu, taip pat neatsižvelgiant į paciento apsilankymų įstaigoje per kalendorinius metus skaičių ir jo gyvenamąją vietą. Būtinųjų paslaugų teikimo tvarką nustato sveikatos apsaugos ministras. Užsienio šalių piliečiams, asmenims be pilietybės, nepriskiriamiems nuolatiniams gyventojams ir nenurodytiems šio įstatymo 47 straipsnio 2 dalies 4–6 punktuose, LNSS įstaigos teikia būtinąją medicinos pagalbą sveikatos apsaugos ministro nustatyta tvarka, jeigu kitaip nenustato Lietuvos Respublikos tarptautinės sutartys.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1043, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08798
+ 
 
 
 
@@ -5401,3 +5399,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 12, 61 ir 63 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-792, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27368
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1043, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08798
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 47 ir 49 straipsnių pakeitimo įstatymas
