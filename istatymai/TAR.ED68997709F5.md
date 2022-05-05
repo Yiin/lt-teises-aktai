@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-05-04
+Suvestinė redakcija nuo 2022-05-05 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -3465,6 +3465,40 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 Straipsnio pakeitimai:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+ 
+
+
+
+
+501 straipsnis. Nelaimių aukoms skirtos prekės ir paslaugos
+
+
+1. Taikant 0 procentų PVM tarifą apmokestinamos neatlygintinai pagalbai nelaimių aukoms, nurodytoms Europos Komisijos sprendime Lietuvos Respublikai, pateiktame įgyvendinant Direktyvos 2009/132/EB 53 straipsnį, teikti skirtos prekės, tiekiamos paramos gavėjams, kaip jie suprantami pagal Lietuvos Respublikos labdaros ir paramos įstatymo nuostatas, ir (arba) kitiems nelaimių padarinius šalinantiems asmenims, jeigu pagal šioje dalyje nurodytą Europos Komisijos sprendimą Lietuvos Respublikai yra suteikta teisė šių prekių neapmokestinti importo PVM. 
+
+
+
+
+2. PVM neapmokestinamas prekių įsigijimas iš kitos valstybės narės, kai tokių prekių tiekimas šalies teritorijoje pagal šio straipsnio 1 dalį būtų apmokestinamas taikant 0 procentų PVM tarifą.
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalių nuostatos taikomos tokia pačia apimtimi ir sąlygomis, kokiomis Lietuvos Respublika neapmokestina importo PVM šio straipsnio 1 dalyje nurodytų prekių.
+
+
+
+
+4. Taikant 0 procentų PVM tarifą apmokestinamos su šio straipsnio 1 ir 2 dalyse nurodytomis prekėmis susijusios paslaugos, įskaitant nuomą, kai jos teikiamos šias prekes šio straipsnio 1 dalyje nurodytomis sąlygomis įsigyjantiems ar įsigijusiems asmenims.
+
+
+
+
+5. Jeigu pagal šio straipsnio 1–4 dalių nuostatas neapmokestintos PVM ar apmokestintos taikant 0 procentų PVM tarifą prekės ir (arba) paslaugos neatitinka šio straipsnio 1 dalyje nustatytų sąlygų ir (arba) pradedamos naudoti kitais tikslais, negu nurodyta Direktyvos 2009/132/EB VIII antraštinės dalies 4 skyriuje, šias prekes ir (arba) paslaugas įsigijusiems asmenims atsiranda prievolė apskaičiuoti PVM taikant PVM tarifą, galiojusį tokių aplinkybių atsiradimo dieną. Apmokestinamoji vertė yra nurodytų prekių ir (arba) paslaugų įsigijimo vertė, tai yra pirkimo kaina (išskyrus patį PVM), o jeigu prekės ir (arba) paslaugos buvo naudotos neatlygintinos pagalbos nelaimių aukoms teikimo tikslais, apmokestinamoji vertė sumažinama aplinkybių atsiradimo dieną esančia prekių ir (arba) paslaugų panaudojimo (sunaudojimo) dalies verte.
+
+
+TAR pastaba. Straipsnis nelaimių aukoms, nukentėjusioms dėl Rusijos Federacijos 2022 m. vasario 24 d. pradėtos vykdyti karinės agresijos prieš Ukrainos gyventojus, skirtoms prekėms ir paslaugoms taikomas nuo 2022 m. vasario 24 d., jeigu pagal 2009 m. spalio 19 d. Tarybos direktyvos 2009/132/EB dėl Direktyvos 2006/112/EB 143 straipsnio b ir c punktų taikymo, neapmokestinant galutinio tam tikrų prekių importo pridėtinės vertės mokesčiu, 53 straipsnį yra priimtas atitinkamas Europos Komisijos sprendimas.
+Papildyta straipsniu:
+Nr. XIV-1056, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09433
  
 
 
@@ -7838,9 +7872,10 @@ pridėtinės vertės mokesčio įstatymo
 
 
 
-3. 2006 m. lapkričio 28 d. Tarybos direktyva 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos su paskutiniais pakeitimais, padarytais 2021 m. liepos 13 d. Tarybos direktyva (ES) 2021/1159.
+3. 2006 m. lapkričio 28 d. Tarybos direktyva 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos su paskutiniais pakeitimais, padarytais 2022 m. balandžio 5 d. Tarybos direktyva (ES) 2022/542. 
 Punkto pakeitimai:
 Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
+Nr. XIV-1056, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09433
  
 
 
@@ -7856,9 +7891,11 @@ Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
 
 
 
-51. 2009 m. spalio 19 d. Tarybos direktyva 2009/132/EB dėl Direktyvos 2006/112/EB 143 straipsnio b ir c punktų taikymo, neapmokestinant galutinio tam tikrų prekių importo pridėtinės vertės mokesčiu, su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 5 d. Tarybos direktyva (ES) 2017/2455.
+51. 2009 m. spalio 19 d. Tarybos direktyva 2009/132/EB dėl Direktyvos 2006/112/EB 143 straipsnio b ir c punktų taikymo, neapmokestinant galutinio tam tikrų prekių importo pridėtinės vertės mokesčiu, su paskutiniais pakeitimais, padarytais 2020 m. liepos 20 d. Tarybos sprendimu (ES) 2020/1109.
 Papildyta punktu:
 Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+Punkto pakeitimai:
+Nr. XIV-1056, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09433
  
 
 
@@ -8256,3 +8293,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 36, 47 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-942, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05121
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 papildymo 125-2 straipsniu ir 125-2 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1056, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09433
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 papildymo 50-1 straipsniu ir 2 priedo pakeitimo įstatymas
