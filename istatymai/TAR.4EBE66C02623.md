@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-05-04
+Suvestinė redakcija nuo 2022-05-05 iki 2022-05-25
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -15087,7 +15087,9 @@ užtraukia baudą vairuotojams nuo keturių šimtų penkiasdešimt iki penkių �
 
 
 
-7. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą pradedantiesiems vairuotojams, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, motociklų vairuotojams privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trijų iki šešių mėnesių. Už šio straipsnio 5 dalyje numatytą administracinį nusižengimą pradedantiesiems vairuotojams, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, motociklų vairuotojams privaloma skirti teisės vairuoti transporto priemones atėmimą nuo šešių mėnesių iki vienų metų. Už šio straipsnio 6 dalyje numatytą administracinį nusižengimą vairuotojams privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vieno iki šešių mėnesių, o pradedantiesiems vairuotojams, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, motociklų vairuotojams privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų metų iki vienų metų ir šešių mėnesių.
+7. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą pradedantiesiems vairuotojams, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, vairuotojams privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trijų iki šešių mėnesių. Už šio straipsnio 5 dalyje numatytą administracinį nusižengimą pradedantiesiems vairuotojams, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, vairuotojams privaloma skirti teisės vairuoti transporto priemones atėmimą nuo šešių mėnesių iki vienų metų. Už šio straipsnio 6 dalyje numatytą administracinį nusižengimą vairuotojams privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vieno iki šešių mėnesių, o pradedantiesiems vairuotojams, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, vairuotojams privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų metų iki vienų metų ir šešių mėnesių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1054, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09430
  
 
 
@@ -25802,3 +25804,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 425 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1012, 2022-04-12, paskelbta TAR 2022-04-20, i. k. 2022-08023
 Lietuvos Respublikos administracinių nusižengimų kodekso 666 straipsnio pakeitimo įstatymas
+ 
+168.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1054, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09430
+Lietuvos Respublikos administracinių nusižengimų kodekso 416 straipsnio pakeitimo įstatymas
