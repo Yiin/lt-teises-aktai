@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2022-04-21 iki 2022-05-04
+Suvestinė redakcija nuo 2022-05-05 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -547,12 +547,13 @@ RIZIKOS VEIKSNIAI IR PAVOJAI LIETUVOS SAUGUMUI
  
 Rizikos veiksniai ir pavojai Lietuvos saugumui yra apibrėžiami Seimo nutarimu tvirtinamoje Nacionalinio saugumo strategijoje.
 Valstybės ir savivaldybių institucijų priimami sprendimai turi būti analizuojami, kaip jie prisidės prie rizikos veiksnių, pavojų silpninimo ir grėsmių nacionaliniam saugumui mažinimo.
-Išorės aplinkos pokyčius ir jų įtaką užsienio, saugumo ir gynybos politikai analizuoja ir pasiūlymus dėl regioninį ir transatlantinį saugumą stiprinančių priemonių nacionalinį saugumą užtikrinančioms institucijoms teikia, taip pat savo vertinimus užsienio, saugumo ir gynybos klausimais viešai skelbia strateginių tyrimų ir analizės centras – viešoji įstaiga, kurios savininkė ar dalininkė, turinti ne mažiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė. Šio centro funkcijoms atlikti skiriamos valstybės biudžeto lėšos.
+Išorės aplinkos pokyčius ir jų įtaką užsienio, saugumo ir gynybos politikai analizuoja ir pasiūlymus dėl regioninį ir transatlantinį saugumą stiprinančių priemonių nacionalinį saugumą užtikrinančioms institucijoms teikia, taip pat savo vertinimus užsienio, saugumo ir gynybos klausimais viešai skelbia strateginių tyrimų ir analizės centras – viešoji įstaiga, kurios savininkė ar dalininkė, turinti ne mažiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė. Šio centro funkcijoms atlikti skiriamos valstybės biudžeto lėšos, o veiklai vykdyti reikalingas valstybei nuosavybės teise priklausantis ilgalaikis materialusis turtas Vyriausybės nustatyta tvarka jam gali būti perduodamas valdyti, naudoti ir juo disponuoti patikėjimo teise. Sprendimą dėl šio valstybės turto perdavimo strateginių tyrimų ir analizės centrui patikėjimo teise priima Vyriausybė. Strateginių tyrimų ir analizės centras turi teisę priimti sprendimus, susijusius su jam perduoto valstybės ilgalaikio nekilnojamojo turto valdymu, naudojimu ir disponavimu juo, išskyrus sprendimus, susijusius su turto perleidimu kitų asmenų nuosavybėn ar su daiktinių teisių suvaržymu. Strateginių tyrimų ir analizės centras jam perduotą valstybės ilgalaikį materialųjį turtą valdo, naudoja ir juo disponuoja Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatytomis sąlygomis ir tvarka.
 Valstybės gynimo taryba formuoja žvalgybinės informacijos poreikį. 
 Skyriaus pakeitimai:
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Skyriaus pakeitimai:
 Nr. XIII-2255, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10925
+Nr. XIV-1053, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09429
  
 
 
@@ -1187,4 +1188,9 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 3 stra
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1014, 2022-04-14, paskelbta TAR 2022-04-20, i. k. 2022-08024
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1053, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09429
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
