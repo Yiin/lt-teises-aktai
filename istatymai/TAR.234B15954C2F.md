@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2022-01-31 iki 2022-05-06
+Suvestinė redakcija nuo 2022-05-07 iki 2022-05-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
  
@@ -1607,6 +1607,14 @@ Nr. XIII-2758, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00042
 6. Lietuvos bioetikos komitetas kreipiasi į Valstybinę vaistų kontrolės tarnybą, prašydamas imtis Reglamento (ES) Nr. 536/2014 77 straipsnyje numatytų priemonių, kai turi duomenų, kad nesilaikoma Reglamente (ES) Nr. 536/2014 nustatytų reikalavimų. 
 
 
+
+
+7. Valstybinė vaistų kontrolės tarnyba sveikatos apsaugos ministro nustatyta tvarka atlieka patikrinimus, kuriais siekiama įvertinti klinikinių vaistinių preparatų tyrimų atitiktį Reglamente (ES) Nr. 536/2014 nustatytiems reikalavimams ir kitiems teisės aktams, reglamentuojantiems klinikinius vaistinių preparatų tyrimus.
+Papildyta straipsnio dalimi:
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+ 
+
+
 Papildyta straipsniu:
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
  
@@ -1796,3 +1804,8 @@ Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2759, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00043
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 6, 7, 8, 11, 12, 20, 21, 22, 25 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 24-1  straipsniais įstatymo Nr. XIII-735 pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1064, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09674
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 6, 7, 11, 12, 20, 21, 22, 24-1, 24-2 straipsnių ir priedo pakeitimo įstatymas
