@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-05-16
+Suvestinė redakcija nuo 2022-05-17 iki 2022-05-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1980,7 +1980,7 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-7) vykdyti nepriklausomo paklausos telkėjo veiklą. 
+7) vykdyti nepriklausomo paklausos telkėjo veiklą;
 Papildyta straipsnio punktu:
 Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
  
@@ -2097,7 +2097,7 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-6) atsinaujinančių išteklių energijos bendrijai. 
+6) atsinaujinančių išteklių energijos bendrijai; 
 Papildyta straipsnio punktu:
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
@@ -6403,11 +6403,12 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-12. Asmenų, kurie teikia šias papildomas paslaugas – izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo – kainos nereguliuojamos, išskyrus atvejus, kai perdavimo sistemos operatorius gauna pasiūlymą teikti izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas tik iš vieno asmens ar kelių asmenų, kurie yra susiję asmenys, arba kai elektros energetikos sistemos veikimui užtikrinti yra reikalingi visų asmenų, galinčių teikti izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas, pajėgumai, ir atvejį, nurodytą šio įstatymo 20 straipsnio 4 dalyje, kai perdavimo sistemos operatorius informuoja asmenį ir Tarybą, kad asmuo su perdavimo sistemos operatoriaus nurodytu elektros energetikos įrenginiu turi teikti izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas. Šioje dalyje nurodytų reguliuojamų papildomų paslaugų kainos įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo. 
+12. Asmenų, kurie teikia šias papildomas paslaugas – izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo – kainos nereguliuojamos, išskyrus atvejus, kai perdavimo sistemos operatorius gauna pasiūlymą teikti izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas tik iš vieno asmens ar kelių asmenų, kurie yra susiję asmenys, arba kai elektros energetikos sistemos veikimui užtikrinti yra reikalingi visų asmenų, galinčių teikti izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas, pajėgumai, ir atvejį, nurodytą šio įstatymo 20 straipsnio 4 dalyje, kai perdavimo sistemos operatorius informuoja asmenį ir Tarybą, kad asmuo su perdavimo sistemos operatoriaus nurodytu elektros energetikos įrenginiu turi teikti izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas. Kai šioje dalyje nurodytais atvejais izoliuoto elektros energetikos sistemos darbo paslaugų kaina yra reguliuojama, izoliuoto elektros energetikos sistemos darbo paslaugų kaina nustatoma vieniems metams. Izoliuoto elektros energetikos sistemos darbo paslaugų kaina Tarybos nustatyta tvarka gali būti koreguojama ne dažniau kaip vieną kartą per metus, kai yra su elektros energetikos sistemos atsparumu, darbo saugumo ir (ar) patikimumo užtikrinimu susijusių vieno ar kelių objektyvių veiksnių pokyčių, kurie didina izoliuoto elektros energetikos sistemos darbo paslaugos teikimo sąnaudas. Nepanaudotas izoliuoto elektros energetikos sistemos darbo paslaugai užtikrinti įsigytas kuro atsargas izoliuoto elektros energetikos sistemos darbo paslaugą teikiantys asmenys gali realizuoti rinkoje ekonomiškai efektyviausiu būdu iš karto, kai jos nebereikalingos perdavimo sistemos operatoriaus užsakymui vykdyti. Šioje dalyje nurodytų reguliuojamų papildomų paslaugų kainos įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo.
 Papildyta straipsnio dalimi:
 Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 Straipsnio dalies pakeitimai:
 Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
+Nr. XIV-1096, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10295
  
 
 
@@ -9144,3 +9145,13 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 15, 16, 17, 21-1, 22 ir 75 straipsnių pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1096, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10295
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 67 ir 69 straipsnių pakeitimo įstatymas
