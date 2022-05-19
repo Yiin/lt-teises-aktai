@@ -18,9 +18,10 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-05-18
+Suvestinė redakcija nuo 2022-05-19 iki 2022-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -1355,6 +1356,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 2. Jeigu patikrinimo metu nustatoma, kad socialinio draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda. Šiuo atveju delspinigiai, numatyti šio straipsnio 1 dalyje, neskaičiuojami. Jeigu draudėjas pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet iki datos, nurodytos pavedime patikrinti draudėją (jeigu pavedimo nėra, – iki tikrinimo pradžios), klaidas savanoriškai ištaisė, sumokėjo trūkstamą socialinio draudimo įmokų sumą, pateikė patikslintus socialinio draudimo pranešimus ir informavo apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą neskiriama. Šiuo atveju delspinigiai skaičiuojami šio straipsnio 1 dalyje nustatyta tvarka.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybinio socialinio draudimo įstatymo (2016 m. birželio 29 d. redakcija, TAR, 2016-07-15, Nr. 20645) 19 straipsnio 2 dalies nuostata „jeigu patikrinimo metu nustatoma, kad socialinio draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda“ tiek, kiek, joje įtvirtinus teisės pažeidėjams taikytiną griežtą sankciją, teismui neleidžiama, atsižvelgiant į teisės pažeidimo pobūdį, į atsakomybę lengvinančias ir kitas aplinkybes, jos individualizuoti, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT62-N6/2022, 2022-05-19, paskelbta TAR 2022-05-19, i. k. 2022-10567
+ 
 
 
 
@@ -3596,3 +3601,13 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 4, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-862, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27768
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 papildymo 15-1 straipsniu įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-658, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24260
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 31 ir 33 straipsnių pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT62-N6/2022, 2022-05-19, paskelbta TAR 2022-05-19, i. k. 2022-10567
+Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 19 straipsnio 2 dalies nuostatos atitikties Lietuvos Respublikos Konstitucijai
