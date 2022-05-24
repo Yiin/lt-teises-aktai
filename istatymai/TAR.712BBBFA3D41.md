@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-05-23
+Suvestinė redakcija nuo 2022-05-24 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -709,10 +709,7 @@ Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
 15 straipsnis. Vyriausybės rezervo lėšos
 
 
-1. Valstybės biudžete sudaromas Vyriausybės rezervas. Jis turi būti ne didesnis kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos, išskyrus atvejus, kai rengiant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą yra paskelbta valstybės lygio ekstremalioji situacija. Konkretų Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Vyriausybės rezervo lėšos skirstomos Vyriausybės nutarimu. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-120, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28976
- 
+1. Valstybės biudžete sudaromas Vyriausybės rezervas. Jis turi būti ne didesnis kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos, išskyrus atvejus, kai rengiant Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą yra paskelbta valstybės lygio ekstremalioji situacija ir (arba) įvesta nepaprastoji padėtis. Konkretų Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Vyriausybės rezervo lėšos skirstomos Vyriausybės nutarimu.
 
 
 
@@ -720,11 +717,7 @@ Nr. XIV-120, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28976
 2. Vyriausybės rezervo lėšos naudojamos:
 
 
-1) ekstremaliosioms situacijoms ar krizėms likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies padengti, inter alia, fizinių ir juridinių asmenų, patyrusių ekstremaliosios situacijos ar krizės padarinių, rėmimui Vyriausybės patvirtintomis priemonėmis;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2259, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10929
-Nr. XIV-120, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28976
- 
+1) ekstremaliosioms situacijoms ar krizėms likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies padengti, inter alia, fiziniams ir juridiniams asmenims, patyrusiems ekstremaliosios situacijos ar krizės padarinių, remti Vyriausybės patvirtintomis priemonėmis;
 
 
 
@@ -745,25 +738,21 @@ Nr. XIV-120, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28976
 
 
 5) Vyriausybės nustatyto dydžio savivaldybių apmokėtoms Lietuvos Nepriklausomybės Akto signataro antkapio pastatymo, kapavietės sutvarkymo, antkapio atributikos pagaminimo ir įmontavimo išlaidoms kompensuoti; 
-Papildyta straipsnio punktu:
-Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
- 
 
 
 
 
 6) humanitarinei pagalbai teikti;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
- 
 
 
 
 
-7) perkeliamųjų asmenų perkėlimo į Lietuvos Respubliką išlaidoms apmokėti.
-Papildyta straipsnio punktu:
-Nr. XIII-2080, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07319
- 
+7) perkeliamųjų asmenų perkėlimo į Lietuvos Respubliką išlaidoms apmokėti;
+
+
+
+
+8) dėl nepaprastosios padėties atsiradusioms išlaidoms iš dalies apmokėti ir (arba) jos padariniams šalinti.
 
 
 
@@ -776,6 +765,8 @@ Nr. XIII-2080, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07319
 Straipsnio pakeitimai:
 Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 Nr. XII-796, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04028
+Straipsnio pakeitimai:
+Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
  
 
 
@@ -1239,6 +1230,9 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 1. Savivaldybės gali sudaryti savivaldybės administracijos direktoriaus rezervą, kuris turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto asignavimų sumos. Konkretų savivaldybės administracijos direktoriaus rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama atitinkamų metų savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas skirsto savivaldybės administracijos direktorius.
+ 
+1 dalies redakcija nuo 2023-01-01:
+1. Savivaldybės sudaro savivaldybės administracijos direktoriaus rezervą, kuris turi būti ne mažesnis kaip 0,25 procento ir ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto pajamų (neįskaitant valstybės dotacijų savivaldybių biudžetams). Savivaldybės administracijos direktoriaus rezervas gali būti didesnis kaip 1 procentas, kai yra paskelbta valstybės ir (arba) savivaldybės lygio ekstremalioji situacija ir (arba) įvesta nepaprastoji padėtis. Konkretų savivaldybės administracijos direktoriaus rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama tam tikrų metų savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas skirsto savivaldybės administracijos direktorius.
 
 
 
@@ -1251,18 +1245,23 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-2) gaisrų ir stichinių nelaimių padariniams likviduoti ir jų padarytiems nuostoliams iš dalies apmokėti.
+2) gaisrų, stichinių nelaimių ir kitų įvykių padariniams likviduoti ir jų padarytiems nuostoliams iš dalies apmokėti;
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-1884, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10782
- 
+
+
+3) dėl nepaprastosios padėties atsiradusioms išlaidoms iš dalies apmokėti ir (arba) jos padariniams šalinti.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XI-2069, 2012-06-14, Žin., 2012, Nr. 76-3923 (2012-06-30)
+Straipsnio pakeitimai:
+Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
+ 
+
+
  
 
 
@@ -2218,3 +2217,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 6, 10, 14, 18,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3309, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21246
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 35 ir 38 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 15 ir 25 straipsnių pakeitimo įstatymas
