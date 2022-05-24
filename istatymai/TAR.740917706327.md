@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/74091770632711eca9ac839120d251c4"
 
 # Lietuvos Respublikos 2022 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2022-03-23 iki 2022-05-23
+Suvestinė redakcija nuo 2022-05-24
  
 Įstatymas paskelbtas: TAR 2021-12-22, i. k. 2021-26575
  
@@ -29,8 +29,6 @@ LIETUVOS RESPUBLIKOS
 Vilnius
  
  
- 
- 
 PREAMBULĖ
  
 
@@ -40,10 +38,13 @@ atsižvelgdamas į tai, kad biudžeto politikos kontrolės institucija 2020 m. k
 atsižvelgdamas į tai, kad dėl didelio neapibrėžtumo ir rizikų, susijusių su COVID-19 pandemijos raida ir jos poveikiu valdžios sektoriaus finansams, išskirtinės aplinkybės 2022 metais neatšaukiamos;
 įvertindamas tai, kad, nustačius išskirtines aplinkybes, Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatytos fiskalinės drausmės taisyklės 2022 metais valdžios sektoriui netaikomos;
 atsižvelgdamas į tai, kad 2022 metais visoms Europos Sąjungos valstybėms narėms bus taikoma Stabilumo ir augimo pakto – 2005 m. birželio 27 d. Europos Sąjungos Tarybos reglamento (EB) Nr. 1055/2005, iš dalies keičiančio Reglamentą (EB) Nr. 1466/97 dėl biudžeto būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei koordinavimo, – bendroji išimtis, reiškianti, kad laikinas struktūrinio valdžios sektoriaus balanso nuokrypis nuo vidutinio laikotarpio tikslo nelaikomas neatitinkančiu Stabilumo ir augimo pakte nustatytų fiskalinės drausmės taisyklių;
-atsižvelgdamas į dėl COVID-19 pandemijos išliekantį neapibrėžtumą ir jos sukeltų padarinių poveikį valdžios sektoriaus finansams, esamas rizikas dėl šalies ekonominės raidos;
+atsižvelgdamas į tai, kad dėl Rusijos Federacijos karinės invazijos į Ukrainą sukeltos geopolitinės krizės padidėjo ekonominis neapibrėžtumas ir poreikis imtis priemonių, skirtų Lietuvos kariniam, kibernetiniam, ekonominiam saugumui stiprinti, išaugusios infliacijos poveikiui švelninti ir dėl karinės agresijos besitraukiantiems Ukrainos žmonėms padėti;
+atsižvelgdamas į dėl COVID-19 pandemijos išliekantį neapibrėžtumą ir jos sukeltų padarinių poveikį valdžios sektoriaus finansams;
 įgyvendindamas 2021 m. birželio 13 d. Tarybos rekomendaciją, kurioje pateikiama Tarybos nuomonė dėl Lietuvos stabilumo 2021 metų programos;
 įvertindamas poreikį formuoti ekonomikos atsigavimą palaikančią fiskalinę politiką, kaip rekomenduojama 2020 m. lapkričio 18 d. Tarybos rekomendacijoje dėl euro zonos ekonominės politikos,
 priima šį įstatymą.
+Preambulės pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
 
 
@@ -52,10 +53,12 @@ priima šį įstatymą.
 1 straipsnis. Lietuvos Respublikos 2022 metų valstybės biudžeto pajamų ir asignavimų patvirtinimas
 
 
-Šiuo įstatymu patvirtinamas Lietuvos Respublikos 2022 metų valstybės biudžetas – 14 380 867 tūkst. eurų pajamų (įskaitant 3 268 838 tūkst. eurų Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas), 16 628 204 tūkst. eurų asignavimų (įskaitant  3 326 195 tūkst. eurų Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas) išlaidoms ir turtui įsigyti (kartu su Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšomis asignavimai viršija pajamas 2 247 337 tūkst. eurų) (1, 2 ir 3 priedai). 
+Šiuo įstatymu patvirtinamas Lietuvos Respublikos 2022 metų valstybės biudžetas – 15 114 493 tūkst. eurų pajamų (įskaitant 3 268 838 tūkst. eurų Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas), 17 535 450 tūkst. eurų asignavimų (įskaitant 3 326 195 tūkst. eurų Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas) išlaidoms ir turtui įsigyti (kartu su Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšomis asignavimai viršija pajamas 2 420 957 tūkst. eurų) (1, 2 ir 3 priedai).
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
-
-
 
 
 
@@ -66,7 +69,7 @@ priima šį įstatymą.
 1. Šiuo įstatymu patvirtinami šie 2022 metų savivaldybių biudžetų finansiniai rodikliai:
 
 
-1) gyventojų pajamų mokesčio dalis (procentais), išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gaunamas iš veiklos, kuria verčiamasi turint verslo liudijimą (toliau – gyventojų pajamų mokesčio dalis (procentais)), tenkanti visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, – 48,12 procento, iš jos pastovioji dalis – 42,77 procento, kintamoji dalis – 5,35 procento;
+1) gyventojų pajamų mokesčio dalis (procentais), išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gaunamas iš veiklos, kuria verčiamasi turint verslo liudijimą (toliau – gyventojų pajamų mokesčio dalis (procentais)), tenkanti visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, – 48,07 procento, iš jos pastovioji dalis – 42,85 procento, kintamoji dalis – 5,22 procento;
 
 
 
@@ -109,17 +112,17 @@ f) Klaipėdos rajono savivaldybei – 92,82 procento;
 
 
 
-g) Trakų rajono savivaldybei – 93,02 procento;
+g) Trakų rajono savivaldybei – 93,03 procento;
 
 
 
 
-h) Vilniaus rajono savivaldybei – 81,4 procento;
+h) Vilniaus rajono savivaldybei – 81,41 procento;
 
 
 
 
-i) Elektrėnų savivaldybei – 99,13 procento;
+i) Elektrėnų savivaldybei – 99,12 procento;
 
 
 
@@ -131,9 +134,12 @@ j) visoms kitoms savivaldybėms – 100 procentų;
 
 
 
-4) valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams – 1 351 759 tūkst. eurų (4 priedas).
+4) valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams – 1 360 824 tūkst. eurų (4 priedas).
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -233,10 +239,12 @@ j) visoms kitoms savivaldybėms – 100 procentų;
 6 straipsnis. Valstybės biudžeto asignavimai bendrajai socialinio draudimo pensijos daliai finansuoti
 
 
-2022 metų valstybės biudžeto asignavimai Valstybinio socialinio draudimo fondo biudžetui bendrajai socialinio draudimo pensijos daliai finansuoti sudaro 2 389 331 tūkst. eurų, iš jų 21 691 tūkst. eurų – 2020 metų įsiskolinimui padengti.
+2022 metų valstybės biudžeto asignavimai Valstybinio socialinio draudimo fondo biudžetui bendrajai socialinio draudimo pensijos daliai finansuoti sudaro 2 441 698 tūkst. eurų, iš jų 21 691 tūkst. eurų – 2020 metų įsiskolinimui padengti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
-
-
 
 
 
@@ -244,10 +252,17 @@ j) visoms kitoms savivaldybėms – 100 procentų;
 7 straipsnis. Valstybinių pensijų indeksavimas ir valstybinių pensijų bazė
 
 
-2022 metų valstybinių pensijų indeksavimo koeficientas yra 1,011, valstybinių pensijų bazės dydis – 59,35 euro.
+1. Nuo 2022 m. sausio 1 d. valstybinių pensijų indeksavimo koeficientas yra 1,011, valstybinių pensijų bazės dydis – 59,35 euro.
+
+
+
+
+2. Nuo 2022 m. birželio 1 d. nustatomas papildomas prie šio straipsnio 1 dalyje nustatyto valstybinių pensijų bazės indeksavimo koeficientas 1,1 ir papildomas prie šio straipsnio 1 dalyje nustatyto pareigūnų ir karių bei teisėjų valstybinių pensijų indeksavimo koeficientas 1,05. Valstybinių pensijų bazės dydis sudaro 65,29 euro.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
-
-
 
 
 
@@ -266,10 +281,12 @@ j) visoms kitoms savivaldybėms – 100 procentų;
 9 straipsnis. Įmokos į valstybės biudžetą, skiriamos asignavimų valdytojų programoms finansuoti
 
 
-Šiuo įstatymu patvirtinamos 2022 metų biudžetinių įstaigų pajamų įmokos į valstybės biudžetą ir kitos lėšos, įstatymais ir kitais teisės aktais skiriamos programoms finansuoti, pagal asignavimų valdytojus – 210 982 tūkst. eurų (3 priedas).
+Šiuo įstatymu patvirtinamos 2022 metų biudžetinių įstaigų pajamų įmokos į valstybės biudžetą ir kitos lėšos, įstatymais ir kitais teisės aktais skiriamos programoms finansuoti, pagal asignavimų valdytojus – 307 155 tūkst. eurų (3 priedas).
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
-
-
 
 
 
@@ -280,12 +297,18 @@ j) visoms kitoms savivaldybėms – 100 procentų;
 2022 metais valstybės garantijos gali būti teikiamos:
 
 
-1) už valstybės garantuojamų garantijų institucijų prisiimtus įsipareigojimus pagal garantijas. Bendra 2022 ir ankstesniais metais prisiimtų įsipareigojimų suma, įvertinus įvykdytus įsipareigojimus, vienu metu negali viršyti 426 060 tūkst. eurų. Į valstybės garantuojamų garantijų institucijų prisiimtų įsipareigojimų pagal garantijas limitą neįtraukiama garantijų institucijų įsipareigojimų pagal garantijas dalis, kuri yra pergarantuota finansų institucijų, turinčių aukščiausią kredito reitingą (AAA), suteiktą bent dviejų iš tarptautinių reitingų agentūrų „Moody’s“, „Standard & Poor’s“ ir „Fitch Ratings“;
+1) už valstybės garantuojamų garantijų institucijų prisiimtus įsipareigojimus pagal garantijas. Bendra 2022 ir ankstesniais metais prisiimtų įsipareigojimų suma, įvertinus įvykdytus įsipareigojimus, vienu metu negali viršyti 616 260 tūkst. eurų. Į valstybės garantuojamų garantijų institucijų prisiimtų įsipareigojimų pagal garantijas limitą neįtraukiama garantijų institucijų įsipareigojimų pagal garantijas dalis, kuri yra pergarantuota finansų institucijų, turinčių aukščiausią kredito reitingą (AAA), suteiktą bent dviejų iš tarptautinių reitingų agentūrų „Moody’s“, „Standard & Poor’s“ ir „Fitch Ratings“;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
 
-2) dėl paskolų, teikiamų valstybės investicijų projektams finansuoti ir (arba) naudojamų Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytų nacionaliniam saugumui užtikrinti svarbių įmonių apyvartinėms lėšoms papildyti. Bendra 2022 ir ankstesniais metais prisiimtų įsipareigojimų suma, įvertinus įvykdytus įsipareigojimus, vienu metu negali viršyti 145 000 tūkst. eurų;
+2) dėl paskolų, teikiamų valstybės investicijų projektams finansuoti ir (arba) naudojamų Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytų nacionaliniam saugumui užtikrinti svarbių įmonių apyvartinėms lėšoms papildyti. Bendra 2022 ir ankstesniais metais prisiimtų įsipareigojimų suma, įvertinus įvykdytus įsipareigojimus, vienu metu negali viršyti 195 000 tūkst. eurų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -309,10 +332,12 @@ j) visoms kitoms savivaldybėms – 100 procentų;
 11 straipsnis. Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas 
 
 
-2022 metų Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas yra (teigiamas) 1 191 620 tūkst. eurų. 
+2022 metų Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas yra (teigiamas) 1 388 320 tūkst. eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
-
-
 
 
 
@@ -440,9 +465,10 @@ j) visoms kitoms savivaldybėms – 100 procentų;
 3. Finansų ministerijai suteikiama teisė:
 
 
-1) skolintis valstybės vardu, kai yra poreikis ir kai dėl to nėra pažeidžiamos šio įstatymo 11 ir 21 straipsnių nuostatos: su valstybės skola susijusioms išlaidoms apmokėti; priemonėms, finansuojamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, bendrai finansuoti, su šių priemonių įgyvendinimu susijusioms išlaidoms (tarp jų dėl netinkamo pridėtinės vertės mokesčio) apmokėti; Europos Sąjungos teisės aktais numatytai nacionalinei paramai žemės ūkio subjektams teikti; nenumatytoms įmokoms į Europos Sąjungos biudžetą mokėti; nenumatytoms išlaidoms dėl einamaisiais biudžetiniais metais vykdomo referendumo ir (arba) rinkimų apmokėti; Lietuvos Respublikos įsipareigojimams, susijusiems su naryste NATO, vykdyti (užtikrinti iki 2,52 procento bendrojo vidaus produkto (toliau – BVP) skyrimą), kai atsiranda papildomų lėšų poreikis Finansų ministerijai paskelbus BVP prognozę Lietuvos Respublikai; Lietuvos Respublikos įsipareigojimams, susijusiems su Europos Sąjungos politikos įgyvendinimu, vykdyti, įskaitant rezervinių lėšų sukaupimą ir (arba) paskolinimą, kaip tai numatyta Europos Sąjungos teisės aktuose, Europos Sąjungos institucijų ar organizacijų sprendimuose ir (arba) su tuo susijusiose sutartyse ar susitarimuose ir įsipareigojimuose pagal dvišales bendradarbiavimo sutartis; išlaidoms, susijusioms su nepaprastosios padėties, ekstremaliųjų situacijų likvidavimu, jų padarinių šalinimu ir padarytų nuostolių padengimu iš dalies, kai nepakanka valstybės rezervo ir Vyriausybės rezervo lėšų, apmokėti; šalies geležinkelių infrastruktūros išlaikymo išlaidoms, atsiradusioms dėl sankcijų Baltarusijos Respublikai taikymo; išlaidoms, susijusioms su atstovavimu Lietuvos Respublikai (Vyriausybei) užsienio ginčų sprendimo institucijose, įskaitant teisinių išvadų dėl jų sprendimų apskundimo parengimą, teisinių išvadų dėl sprendimų apskundimo gavimą ir atstovavimą Lietuvos Respublikai (Vyriausybei) atliekant kitus veiksmus, susijusius su Lietuvos Respublikos (Vyriausybės) interesų gynimu (bet tuo neapsiribojant), apmokėti; arbitražų ar teismų sprendimams, kurių pagrindu Lietuvos valstybei kyla pareiga mokėti sumas, vykdyti;
+1) skolintis valstybės vardu, kai yra poreikis ir kai dėl to nėra pažeidžiamos šio įstatymo 11 ir 21 straipsnių nuostatos: su valstybės skola susijusioms išlaidoms apmokėti; priemonėms, finansuojamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, bendrai finansuoti, su šių priemonių įgyvendinimu susijusioms išlaidoms (tarp jų dėl netinkamo pridėtinės vertės mokesčio) apmokėti; Europos Sąjungos teisės aktais numatytai nacionalinei paramai žemės ūkio subjektams teikti; nenumatytoms įmokoms į Europos Sąjungos biudžetą mokėti; nenumatytoms išlaidoms dėl einamaisiais biudžetiniais metais vykdomo referendumo ir (arba) rinkimų apmokėti; Lietuvos Respublikos įsipareigojimams, susijusiems su naryste NATO, vykdyti (užtikrinti iki 2,52 procento bendrojo vidaus produkto (toliau – BVP) skyrimą), kai atsiranda papildomų lėšų poreikis Finansų ministerijai paskelbus BVP prognozę Lietuvos Respublikai; Lietuvos Respublikos įsipareigojimams, susijusiems su Europos Sąjungos politikos įgyvendinimu, vykdyti, įskaitant rezervinių lėšų sukaupimą ir (arba) paskolinimą, kaip tai numatyta Europos Sąjungos teisės aktuose, Europos Sąjungos institucijų ar organizacijų sprendimuose ir (arba) su tuo susijusiose sutartyse ar susitarimuose ir įsipareigojimuose pagal dvišales bendradarbiavimo sutartis; išlaidoms, susijusioms su nepaprastosios padėties, ekstremaliųjų situacijų likvidavimu, jų padarinių šalinimu ir padarytų nuostolių padengimu iš dalies, kai nepakanka valstybės rezervo ir Vyriausybės rezervo lėšų, apmokėti; šalies geležinkelių infrastruktūros išlaikymo išlaidoms, atsiradusioms dėl sankcijų Baltarusijos Respublikai taikymo ir (arba) dėl Rusijos Federacijos karinės invazijos į Ukrainą nutrūkus krovinių srautui ar verslo santykiams, apmokėti; išlaidoms, susijusioms su atstovavimu Lietuvos Respublikai (Vyriausybei) užsienio ginčų sprendimo institucijose, įskaitant teisinių išvadų dėl jų sprendimų apskundimo parengimą, teisinių išvadų dėl sprendimų apskundimo gavimą ir atstovavimą Lietuvos Respublikai (Vyriausybei) atliekant kitus veiksmus, susijusius su Lietuvos Respublikos (Vyriausybės) interesų gynimu (bet tuo neapsiribojant), apmokėti; arbitražų ar teismų sprendimams, kurių pagrindu Lietuvos valstybei kyla pareiga mokėti sumas, vykdyti; išlaidoms dėl pasaulinių elektros ir dujų kainų dalies kompensavimo buitiniams vartotojams apmokėti; išlaidoms, susijusioms su dalyvavimu tarptautinių paramos Ukrainai fondų veikloje ir pagalbos Ukrainos gyventojams, nukentėjusiems dėl Rusijos Federacijos karinės invazijos į Ukrainą, teikimu, apmokėti; išlaidoms leidžiamai valstybės pagalbai verslui pagal Europos Komisijos komunikatą „Laikinoji valstybės pagalbos priemonių, skirtų ekonomikai remti krizės sąlygomis reaguojant į Rusijos agresiją prieš Ukrainą, sistema“ (2022/C 131 I/01) apmokėti;
 Straipsnio punkto pakeitimai:
 Nr. XIV-943, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05122
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
 
 
@@ -468,7 +494,15 @@ Nr. XIV-943, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05122
 
 
 
-6) paskirstyti tradicinių Lietuvos bažnyčių ir religinių organizacijų vadovybėms lėšas, numatytas Finansų ministerijos asignavimuose tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms, atsižvelgiant į tradicinių Lietuvos bažnyčių ir religinių organizacijų kanonus ir statutus ir Lietuvos statistikos departamento paskelbtą tikinčiųjų skaičių.
+6) paskirstyti tradicinių Lietuvos bažnyčių ir religinių organizacijų vadovybėms lėšas, numatytas Finansų ministerijos asignavimuose tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms, atsižvelgiant į tradicinių Lietuvos bažnyčių ir religinių organizacijų kanonus ir statutus ir Lietuvos statistikos departamento paskelbtą tikinčiųjų skaičių;
+
+
+
+
+7) paskirstyti ūkio subjektams Finansų ministerijos asignavimuose numatytas lėšas išlaidoms dėl dujų ir elektros kainų dalies kompensavimo fiziniams ir juridiniams asmenims. 
+Papildyta straipsnio punktu:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -580,7 +614,20 @@ Nr. XIV-943, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05122
 
 
 
-9. Užsienio reikalų ministerijai, suderinus su Finansų ministerija, suteikiama teisė naudoti paliekamus vieno mėnesio išlaidų dydžio pereinamuosius 2021 metų lėšų likučius, esančius Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų, atstovybių prie tarptautinių organizacijų, specialiųjų misijų sąskaitose užsienio kredito įstaigose ar pas atskaitingus asmenis, viršijant Seimo patvirtintas bendras asignavimų sumas.
+9. Užsienio reikalų ministerijai suteikiama teisė:
+
+
+1) paskirstyti asignavimų valdytojams Užsienio reikalų ministerijos asignavimuose numatytas lėšas 2023 metais vyksiančiam NATO aukščiausiojo lygio susitikimui pasirengti, atsižvelgiant į asignavimų valdytojų pateiktus išankstinių mokėjimų už saugumo priemonių užtikrinimą pagrindimo dokumentus; 
+
+
+
+
+2) suderinus su Finansų ministerija, naudoti paliekamus vieno mėnesio išlaidų dydžio pereinamuosius 2021 metų lėšų likučius, esančius Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų, atstovybių prie tarptautinių organizacijų, specialiųjų misijų sąskaitose užsienio kredito įstaigose ar pas atskaitingus asmenis, viršijant Seimo patvirtintas bendras asignavimų sumas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -606,7 +653,17 @@ Nr. XIV-943, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05122
 
 
 
-2. Asignavimų valdytojai, siekdami, kad 2022 m. gruodžio 31 d. nebūtų darbo užmokesčio, įskaitant nuo jo mokamus mokesčius, įsiskolinimų (mokėtinų sumų), turi užtikrinti, kad valstybės institucijos ir įstaigos nepriimtų sprendimų padidinti darbo užmokestį darbuotojams daugiau, negu turi tam patvirtintų asignavimų darbo užmokesčiui.
+2. Kai rengiamos ilgalaikės valstybinės saugumo stiprinimo programos, kurias tvirtina Seimas, asignavimų valdytojai šio įstatymo 11 priede numatytas pažangos lėšas pažangos priemonėms įgyvendinti 2022 metais gali pradėti naudoti, jeigu pažangos priemonė patvirtinta ir apie patvirtinimą informuota Finansų ministerija. Patvirtinta pažangos priemonė turi būti įtraukta į rengiamą Ilgalaikę valstybinę saugumo stiprinimo programą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
+
+
+
+
+3. Asignavimų valdytojai, siekdami, kad 2022 m. gruodžio 31 d. nebūtų darbo užmokesčio, įskaitant nuo jo mokamus mokesčius, įsiskolinimų (mokėtinų sumų), turi užtikrinti, kad valstybės institucijos ir įstaigos nepriimtų sprendimų padidinti darbo užmokestį darbuotojams daugiau, negu turi tam patvirtintų asignavimų darbo užmokesčiui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
 
 
@@ -678,7 +735,10 @@ Nr. XIV-943, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05122
 21 straipsnis. Vidutinio laikotarpio valdžios sektoriaus balanso rodiklio užduotys
 
 
-1. Nustatomas ne blogesnis negu –3,3 procento BVP 2022 metų valdžios sektoriaus balanso rodiklis. 
+1. Nustatomas ne blogesnis negu ‑4,9 procento BVP 2022 metų valdžios sektoriaus balanso rodiklis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -703,7 +763,6 @@ Respublikos Prezidentas                            �
 
 
  
- 
 Lietuvos Respublikos
 2022 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
@@ -727,23 +786,23 @@ LIETUVOS RESPUBLIKOS
 
 
  PAJAMOS 
- 10 972 985 
+ 11 653 811 
 
 
  MOKESČIAI 
- 10 486 101 
+ 11 165 055 
 
 
  Pajamų ir pelno mokesčiai 
- 3 586 958 
+ 3 823 034 
 
 
  Gyventojų pajamų mokestis 
- 2 340 187 
+ 2 403 950 
 
 
  Pelno mokestis 
- 1 246 771 
+ 1 419 084 
 
 
  Turto mokesčiai 
@@ -755,11 +814,11 @@ LIETUVOS RESPUBLIKOS
 
 
  Prekių ir paslaugų mokesčiai 
- 6 733 443 
+ 7 176 321 
 
 
  Pridėtinės vertės mokestis 
- 4 907 314 
+ 5 348 192 
 
 
  Atskaitymai nuo pajamų pagal Lietuvos Respublikos miškų įstatymą 
@@ -771,7 +830,7 @@ LIETUVOS RESPUBLIKOS
 
 
  Loterijų ir lošimų mokesčiai 
- 31 000 
+ 33 000 
 
 
  Transporto priemonių mokesčiai 
@@ -791,11 +850,11 @@ LIETUVOS RESPUBLIKOS
 
 
  KITOS PAJAMOS 
- 486 884 
+ 488 756 
 
 
  Turto pajamos 
- 168 000 
+ 169 872 
 
 
  Palūkanos už paskolas 
@@ -811,7 +870,7 @@ LIETUVOS RESPUBLIKOS
 
 
  Dividendai ir valstybės įmonių pelno įmokos 
- 119 730 
+ 121 602 
 
 
  Mokesčiai už valstybinius gamtos išteklius 
@@ -867,11 +926,11 @@ LIETUVOS RESPUBLIKOS
 
 
  SANDORIŲ DĖL MATERIALIOJO IR NEMATERIALIOJO TURTO REALIZAVIMO, FINANSINIO TURTO SUMAŽĖJIMO IR FINANSINIŲ ĮSIPAREIGOJIMŲ PRISIĖMIMO PAJAMOS 
- 139 044 
+ 191 844 
 
 
  Materialiojo ir nematerialiojo turto realizavimo pajamos 
- 135 384 
+ 188 184 
 
 
  Žemės realizavimo pajamos 
@@ -879,7 +938,7 @@ LIETUVOS RESPUBLIKOS
 
 
  Kito materialiojo ir nematerialiojo turto realizavimo pajamos 
- 107 346 
+ 160 146 
 
 
  Finansinio turto sumažėjimo pajamos (finansinio turto pardavimo pajamos / grįžusios finansinės investicijos) 
@@ -891,7 +950,7 @@ LIETUVOS RESPUBLIKOS
 
 
  IŠ VISO 
- 11 112 029 
+ 11 845 655 
 
 
 
@@ -907,22 +966,22 @@ LIETUVOS RESPUBLIKOS
 
 
  IŠ VISO 
- 14 380 867 
+ 15 114 493 
 
 
 
- 
- 
 
 
 _______________________
 
 
-
-
-
-
+Priedo pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
+
+
+
+
  
 Lietuvos Respublikos
 2022 metų valstybės biudžeto ir
@@ -957,7 +1016,7 @@ LIETUVOS RESPUBLIKOS
 
 
  I. Valstybės valdymas, regioninė politika ir viešasis administravimas 
- 294 838 
+ 295 190 
  73 693 
 
 
@@ -981,19 +1040,25 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos Respublikos vyriausioji rinkimų komisija 
- 7 972 
+ 8 324 
  1 269 
 
 
 
- iš jų: asignavimai politinėms partijoms  
- 5 502 
+ iš jų: asignavimai politinėms partijoms 
+ 5 854 
 
+
+
+
+ iš jų: politinėms partijoms pagal Lietuvos Respublikos politinių partijų įstatymo 21 straipsnio 6 dalį 
+ 352 
+   
 
 
 
  Vyriausioji tarnybinės etikos komisija 
- 1 387 
+ 1 387 
  996 
 
 
@@ -1023,19 +1088,19 @@ LIETUVOS RESPUBLIKOS
 
 
  II. Aplinka, miškai ir klimato kaita 
- 354 926 
+ 407 726 
  59 127 
 
 
 
  Aplinkos ministerija 
- 354 926 
+ 407 726  
  59 127 
 
 
 
  III. Energetika 
- 193 914 
+ 204 860 
  12 108 
 
 
@@ -1053,19 +1118,19 @@ LIETUVOS RESPUBLIKOS
 
 
  Energetikos ministerija 
- 184 647 
+ 195 593 
  4 840 
 
 
 
- IV. Viešieji finansai 
- 2 681 686 
+ IV. Viešieji finansai ir oficialioji statistika 
+ 3 329 731  
  152 271 
 
 
 
  Finansų ministerija 
- 2 661 311 
+ 3 309 356 
  139 997 
 
 
@@ -1077,30 +1142,24 @@ LIETUVOS RESPUBLIKOS
 
 
  Rezerviniam (stabilizavimo) fondui sudaryti  
- 18 242 
+ 61 615 
 
 
 
 
  Pažangos priemonėms įgyvendinti 
- 985 152 
+ 974 206 
 
 
 
 
- Lietuvos Respublikos Vyriausybės rezervas, iš jų: 
- 320 318 
+ Lietuvos Respublikos Vyriausybės rezervas 
+ 452 606 
 
 
 
 
- COVID-19 pandemijos padariniams šalinti  
- 318 870 
-
-
-
-
- iš jų: Tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms 
+ Tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms 
  1 597 
 
 
@@ -1113,7 +1172,7 @@ LIETUVOS RESPUBLIKOS
 
 
  V. Ekonomikos konkurencingumas ir valstybės informaciniai ištekliai 
- 440 598 
+ 440 917 
  30 841 
 
 
@@ -1125,7 +1184,7 @@ LIETUVOS RESPUBLIKOS
 
 
  Ekonomikos ir inovacijų ministerija 
- 434 475 
+ 434 794 
  26 192 
 
 
@@ -1167,19 +1226,19 @@ LIETUVOS RESPUBLIKOS
 
 
  VII. Viešasis saugumas 
- 642 841 
- 427 069 
+ 644 813 
+ 427 386 
 
 
 
  Vidaus reikalų ministerija 
- 642 841 
- 427 069 
+ 644 813 
+ 427 386 
 
 
 
- VIII. Kultūra 
- 405 502 
+ VIII. Kultūra ir visuomenės informavimas 
+ 405 518 
  139 311 
 
 
@@ -1227,7 +1286,7 @@ LIETUVOS RESPUBLIKOS
 
 
  Kultūros ministerija 
- 251 926 
+ 251 942 
  64 064 
 
 
@@ -1305,7 +1364,7 @@ LIETUVOS RESPUBLIKOS
 
 
  IX. Socialinė apsauga ir užimtumas 
- 4 470 208 
+ 4 620 438 
  124 085 
 
 
@@ -1317,13 +1376,13 @@ LIETUVOS RESPUBLIKOS
 
 
  Socialinės apsaugos ir darbo ministerija 
- 4 470 141 
+ 4 620 371 
  124 024 
 
 
 
  X. Transportas ir ryšiai 
- 958 606 
+ 985 126 
  19 074 
 
 
@@ -1335,7 +1394,7 @@ LIETUVOS RESPUBLIKOS
 
 
  Susisiekimo ministerija 
- 949 047 
+ 975 567 
  13 682 
 
 
@@ -1365,7 +1424,7 @@ LIETUVOS RESPUBLIKOS
 
 
  XII. Švietimas, mokslas ir sportas 
- 2 133 382 
+ 2 138 500 
  235 938 
 
 
@@ -1377,25 +1436,25 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos mokslo taryba 
- 31 013 
+ 31 097 
  2 529 
 
 
 
  Lietuvos mokslų akademija 
- 5 882 
+ 5 891 
  3 420 
 
 
 
  Švietimo, mokslo ir sporto ministerija 
- 1 749 645 
+ 1 751 461 
  190 542 
 
 
 
  Vilniaus universitetas 
- 107 065 
+ 108 146 
 
 
 
@@ -1407,61 +1466,61 @@ LIETUVOS RESPUBLIKOS
 
 
  Vytauto Didžiojo universitetas 
- 32 056 
+ 32 364 
 
 
 
 
  Kauno technologijos universitetas 
- 42 636 
+ 43 065 
 
 
 
 
  Vilniaus Gedimino technikos universitetas 
- 34 710 
+ 35 049 
 
 
 
 
  Klaipėdos universitetas 
- 9 368 
+ 9 450 
 
 
 
 
  Mykolo Romerio universitetas 
- 7 756 
+ 7 844 
 
 
 
 
  Lietuvos sveikatos mokslų universitetas 
- 36 205 
+ 36 566 
 
 
 
 
  Vilniaus dailės akademija 
- 10 582 
+ 10 678 
 
 
 
 
  Lietuvos sporto universitetas 
- 5 872 
+ 5 921 
 
 
 
 
  Lietuvos muzikos ir teatro akademija 
- 10 827 
+ 10 926 
 
 
 
 
  Lietuvos energetikos institutas 
- 5 830 
+ 5 863 
  4 696 
 
 
@@ -1473,55 +1532,55 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos kultūros tyrimų institutas 
- 2 305 
+ 2 318 
  2 020 
 
 
 
  Lietuvos istorijos institutas 
- 3 508 
+ 3 527 
  2 844 
 
 
 
  Lietuvių literatūros ir tautosakos institutas 
- 2 548 
+ 2 561 
  2 184 
 
 
 
  Lietuvių kalbos institutas 
- 2 000 
+ 2 008 
  1 732 
 
 
 
  Lietuvos socialinių mokslų centras 
- 3 115 
+ 3 135 
  2 609 
 
 
 
  Valstybinis mokslinių tyrimų institutas Inovatyvios medicinos centras 
- 1 782 
+ 1 793 
  1 385 
 
 
 
  Lietuvos agrarinių ir miškų mokslų centras 
- 6 110 
+ 6 152 
  5 080 
 
 
 
  Gamtos tyrimų centras 
- 6 796 
+ 6 833 
  5 316 
 
 
 
  Valstybinis mokslinių tyrimų institutas Fizinių ir technologijos mokslų centras 
- 12 845 
+ 12 926 
  9 899 
 
 
@@ -1545,7 +1604,7 @@ LIETUVOS RESPUBLIKOS
 
 
  XIII. Teisingumas 
- 279 159 
+ 279 399 
  205 862 
 
 
@@ -1695,13 +1754,13 @@ LIETUVOS RESPUBLIKOS
 
 
  Nacionalinė teismų administracija 
- 14 184 
+ 14 274 
  2 405 
 
 
 
  Lietuvos Respublikos generalinė prokuratūra 
- 40 328 
+ 40 478 
  36 034 
 
 
@@ -1749,48 +1808,62 @@ LIETUVOS RESPUBLIKOS
 
 
  XIV. Užsienio politika 
- 97 515 
+ 98 937 
  30 195 
 
 
 
  Užsienio reikalų ministerija 
- 97 515 
+ 98 937 
  30 195 
 
 
 
- XV. Žemės ir maisto ūkis, kaimo plėtra ir žuvininkystė 
- 1 193 506 
+ XV. Žemės ir maisto ūkis, kaimo plėtra ir žuvininkystė, 
+ 1 202 772 
  77 594 
 
 
 
+ veterinarija ir žemės tvarkymas 
+   
+   
+
+
+
  Žemės ūkio ministerija 
- 1 157 403 
+ 1 166 526 
  52 929 
 
 
 
  Valstybinė maisto ir veterinarijos tarnyba 
- 36 103 
+ 36 246 
  24 665 
 
 
 
+   
+   
+   
+
+
+
  IŠ VISO 
- 16 628 204 
- 2 050 886 
+ 17 535 450 
+ 2 051 203 
 
 
 
 
- 
 
 
 _______________________
 
 
+Priedo pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -1843,13 +1916,13 @@ Tūkst. Eur
 
 
  II. Aplinka, miškai ir klimato kaita 
- 87 033 
- 85 308 
+ 139 833 
+ 138 108 
 
 
  Aplinkos ministerija 
- 87 033 
- 85 308 
+ 139 833 
+ 138 108 
 
 
  III. Energetika 
@@ -1862,19 +1935,19 @@ Tūkst. Eur
  7 050 
 
 
- IV. Viešieji finansai 
- 29 742 
- 26 760 
+ IV. Viešieji finansai ir oficialioji statistika 
+ 73 115 
+ 70 133 
 
 
  Finansų ministerija 
- 29 732 
- 26 760 
+ 73 105 
+ 70 133 
 
 
  Lietuvos statistikos departamentas 
  10 
-
+   
 
 
  V. Ekonomikos konkurencingumas ir valstybės informaciniai ištekliai 
@@ -1922,8 +1995,8 @@ Tūkst. Eur
 
 
 
- VIII. Kultūra 
- 16 077 
+ VIII. Kultūra ir visuomenės informavimas 
+ 16 077 
 
 
 
@@ -2212,7 +2285,7 @@ Tūkst. Eur
 
 
 
- XV. Žemės ir maisto ūkis, kaimo plėtra ir žuvininkystė 
+ XV. Žemės ir maisto ūkis, kaimo plėtra ir žuvininkystė, veterinarija ir žemės tvarkymas  
  3 295 
  161 
 
@@ -2228,8 +2301,8 @@ Tūkst. Eur
 
 
  IŠ VISO 
- 210 982 
- 137 259 
+ 307 155 
+ 217 296 
 
 
 
@@ -2245,6 +2318,9 @@ Tūkst. Eur
 _______________________
 
 
+Priedo pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -2311,32 +2387,32 @@ LIETUVOS RESPUBLIKOS
 
  Lietuvos Respublikos socialinės apsaugos ir darbo ministerija 
 
- 171 544 
+ 180 609 
 
 
 
  iš jų: 
-
+   
 
 
 
  socialinėms išmokoms ir kompensacijoms skaičiuoti ir mokėti 
- 17 471 
+ 18 575 
 
 
 
  būsto nuomos mokesčio daliai kompensuoti 
- 3 103 
+ 4 053 
 
 
 
  socialinei paramai mokiniams 
- 43 046 
+ 46 691 
 
 
 
  socialinėms paslaugoms 
- 95 025 
+ 98 391 
 
 
 
@@ -2486,7 +2562,7 @@ LIETUVOS RESPUBLIKOS
 
  IŠ VISO 
    
- 1 351 759   
+ 1 360 824 
 
 
 
@@ -2496,6 +2572,9 @@ LIETUVOS RESPUBLIKOS
 _______________________
 
 
+Priedo pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -2535,7 +2614,7 @@ Tūkst. Eur
 
 
  Vilniaus miesto 
- 432 417 
+ 443 723 
  23 551 
  2 637 
  3 889 
@@ -2543,11 +2622,11 @@ Tūkst. Eur
  146 
  450 
  35 
- 19,9198 
+ 19,9376 
 
 
  Alytaus miesto 
- 38 172 
+ 39 058 
  5 887 
  258 
  422 
@@ -2555,11 +2634,11 @@ Tūkst. Eur
  64 
  42 
    
- 1,7585 
+ 1,7550 
 
 
  Birštono 
- 7 049 
+ 7 152 
  3 192 
  63 
  94 
@@ -2567,11 +2646,11 @@ Tūkst. Eur
  22 
  4 
    
- 0,3247 
+ 0,3214 
 
 
  Druskininkų 
- 15 619 
+ 16 011 
  1 422 
  90 
  131 
@@ -2579,11 +2658,11 @@ Tūkst. Eur
  27 
  12 
    
- 0,7195 
+ 0,7194 
 
 
  Kauno miesto 
- 228 931 
+ 234 967 
  11 578 
  1 236 
  1 916 
@@ -2591,11 +2670,11 @@ Tūkst. Eur
  232 
  222 
    
- 10,5460 
+ 10,5577 
 
 
  Klaipėdos miesto 
- 123 471 
+ 126 637 
  8 533 
  780 
  1 275 
@@ -2603,11 +2682,11 @@ Tūkst. Eur
  116 
  130 
    
- 5,6879 
+ 5,6901 
 
 
  Marijampolės 
- 38 391 
+ 39 355 
  3 193 
  285 
  401 
@@ -2615,11 +2694,11 @@ Tūkst. Eur
  107 
  42 
    
- 1,7685 
+ 1,7683 
 
 
  Neringos 
- 7 698 
+ 7 892 
  596 
  91 
  121 
@@ -2631,7 +2710,7 @@ Tūkst. Eur
 
 
  Palangos miesto 
- 17 478 
+ 17 908 
  1 694 
  133 
  193 
@@ -2639,11 +2718,11 @@ Tūkst. Eur
  68 
  12 
    
- 0,8051 
+ 0,8047 
 
 
  Panevėžio miesto 
- 60 228 
+ 61 758 
  4 533 
  414 
  599 
@@ -2651,11 +2730,11 @@ Tūkst. Eur
  164 
  68 
    
- 2,7745 
+ 2,7750 
 
 
  Šiaulių miesto 
- 74 524 
+ 76 408 
  6 171 
  549 
  717 
@@ -2663,11 +2742,11 @@ Tūkst. Eur
  117 
  84 
    
- 3,4330 
+ 3,4332 
 
 
  Visagino  
- 17 949 
+ 18 310 
  4 589 
  127 
  180 
@@ -2675,11 +2754,11 @@ Tūkst. Eur
  36 
  12 
    
- 0,8268 
+ 0,8227 
 
 
  Akmenės rajono 
- 16 734 
+ 17 084 
  3 891 
  120 
  172 
@@ -2687,11 +2766,11 @@ Tūkst. Eur
  40 
  14 
    
- 0,7709 
+ 0,7676 
 
 
  Alytaus rajono 
- 18 433 
+ 18 915 
  1 133 
  74 
  100 
@@ -2699,11 +2778,11 @@ Tūkst. Eur
  49 
  8 
    
- 0,8491 
+ 0,8499 
 
 
  Anykščių rajono 
- 19 628 
+ 20 074 
  3 336 
  163 
  196 
@@ -2711,11 +2790,11 @@ Tūkst. Eur
  78 
  12 
    
- 0,9042 
+ 0,9020 
 
 
  Biržų rajono 
- 17 539 
+ 17 973 
  1 664 
  123 
  169 
@@ -2723,11 +2802,11 @@ Tūkst. Eur
  67 
  12 
    
- 0,8080 
+ 0,8076 
 
 
  Ignalinos rajono 
- 12 708 
+ 12 994 
  2 225 
  119 
  148 
@@ -2735,11 +2814,11 @@ Tūkst. Eur
  44 
  6 
    
- 0,5854 
+ 0,5839 
 
 
  Jonavos rajono 
- 32 774 
+ 33 548 
  4 629 
  209 
  289 
@@ -2747,11 +2826,11 @@ Tūkst. Eur
  60 
  30 
    
- 1,5098 
+ 1,5074 
 
 
  Joniškio rajono 
- 16 061 
+ 16 443 
  2 074 
  126 
  166 
@@ -2759,11 +2838,11 @@ Tūkst. Eur
  52 
  12 
    
- 0,7399 
+ 0,7388 
 
 
  Jurbarko rajono 
- 19 392 
+ 19 854 
  2 409 
  154 
  202 
@@ -2771,11 +2850,11 @@ Tūkst. Eur
  58 
  16 
    
- 0,8933 
+ 0,8921 
 
 
  Kaišiadorių rajono 
- 20 717 
+ 21 228 
  2 018 
  157 
  235 
@@ -2783,11 +2862,11 @@ Tūkst. Eur
  74 
  22 
    
- 0,9544 
+ 0,9538 
 
 
  Kauno rajono 
- 75 517 
+ 77 511 
  3 492 
  426 
  556 
@@ -2795,11 +2874,11 @@ Tūkst. Eur
  92 
  60 
    
- 3,4788 
+ 3,4828 
 
 
  Kėdainių rajono 
- 33 430 
+ 34 274 
  2 607 
  249 
  323 
@@ -2811,7 +2890,7 @@ Tūkst. Eur
 
 
  Kelmės rajono 
- 21 037 
+ 21 516 
  3 492 
  174 
  219 
@@ -2819,11 +2898,11 @@ Tūkst. Eur
  73 
  16 
    
- 0,9691 
+ 0,9668 
 
 
  Klaipėdos rajono 
- 48 604 
+ 49 865 
  2 839 
  351 
  453 
@@ -2831,11 +2910,11 @@ Tūkst. Eur
  83 
  32 
    
- 2,2390 
+ 2,2406 
 
 
  Kretingos rajono 
- 26 034 
+ 26 701 
  1 786 
  170 
  239 
@@ -2843,11 +2922,11 @@ Tūkst. Eur
  79 
  26 
    
- 1,1993 
+ 1,1997 
 
 
  Kupiškio rajono 
- 12 802 
+ 13 106 
  1 663 
  113 
  139 
@@ -2855,11 +2934,11 @@ Tūkst. Eur
  53 
  10 
    
- 0,5897 
+ 0,5889 
 
 
  Lazdijų rajono 
- 14 306 
+ 14 648 
  1 906 
  68 
  107 
@@ -2867,11 +2946,11 @@ Tūkst. Eur
  57 
  12 
    
- 0,6590 
+ 0,6582 
 
 
  Mažeikių rajono 
- 38 446 
+ 39 389 
  3 935 
  292 
  461 
@@ -2879,11 +2958,11 @@ Tūkst. Eur
  80 
  38 
    
- 1,7711 
+ 1,7699 
 
 
  Molėtų rajono 
- 13 485 
+ 13 814 
  1 455 
  98 
  135 
@@ -2891,11 +2970,11 @@ Tūkst. Eur
  61 
  10 
    
- 0,6212 
+ 0,6207 
 
 
  Pakruojo rajono 
- 14 658 
+ 15 002 
  1 994 
  137 
  174 
@@ -2903,11 +2982,11 @@ Tūkst. Eur
  44 
  10 
    
- 0,6752 
+ 0,6741 
 
 
  Panevėžio rajono 
- 26 432 
+ 27 104 
  1 928 
  195 
  248 
@@ -2915,11 +2994,11 @@ Tūkst. Eur
  85 
  18 
    
- 1,2176 
+ 1,2179 
 
 
  Pasvalio rajono 
- 17 589 
+ 18 015 
  1 951 
  155 
  196 
@@ -2927,11 +3006,11 @@ Tūkst. Eur
  57 
  16 
    
- 0,8103 
+ 0,8095 
 
 
  Plungės rajono 
- 24 021 
+ 24 632 
  1 745 
  179 
  252 
@@ -2939,11 +3018,11 @@ Tūkst. Eur
  63 
  24 
    
- 1,1066 
+ 1,1068 
 
 
  Prienų rajono 
- 18 454 
+ 18 915 
  1 647 
  144 
  194 
@@ -2951,11 +3030,11 @@ Tūkst. Eur
  54 
  16 
    
- 0,8501 
+ 0,8499 
 
 
  Radviliškio rajono 
- 26 888 
+ 27 524 
  3 511 
  225 
  266 
@@ -2963,11 +3042,11 @@ Tūkst. Eur
  81 
  24 
    
- 1,2386 
+ 1,2367 
 
 
  Raseinių rajono 
- 21 933 
+ 22 489 
  1 725 
  162 
  215 
@@ -2975,11 +3054,11 @@ Tūkst. Eur
  71 
  20 
    
- 1,0104 
+ 1,0105 
 
 
  Rokiškio rajono 
- 22 067 
+ 22 589 
  2 851 
  208 
  265 
@@ -2987,11 +3066,11 @@ Tūkst. Eur
  86 
  16 
    
- 1,0165 
+ 1,0150 
 
 
  Skuodo rajono 
- 12 706 
+ 13 011 
  1 596 
  93 
  129 
@@ -2999,11 +3078,11 @@ Tūkst. Eur
  38 
  10 
    
- 0,5853 
+ 0,5846 
 
 
  Šakių rajono 
- 19 823 
+ 20 313 
  1 830 
  172 
  218 
@@ -3011,11 +3090,11 @@ Tūkst. Eur
  69 
  18 
    
- 0,9132 
+ 0,9127 
 
 
  Šalčininkų rajono 
- 23 731 
+ 24 298 
  2 923 
  176 
  206 
@@ -3023,11 +3102,11 @@ Tūkst. Eur
  63 
  24 
    
- 1,0932 
+ 1,0918 
 
 
  Šiaulių rajono 
- 29 354 
+ 30 103 
  2 099 
  188 
  265 
@@ -3035,11 +3114,11 @@ Tūkst. Eur
  67 
  20 
    
- 1,3522 
+ 1,3526 
 
 
  Šilalės rajono 
- 17 163 
+ 17 571 
  2 202 
  141 
  184 
@@ -3047,11 +3126,11 @@ Tūkst. Eur
  49 
  16 
    
- 0,7906 
+ 0,7895 
 
 
  Šilutės rajono 
- 28 325 
+ 29 050 
  1 986 
  208 
  274 
@@ -3059,11 +3138,11 @@ Tūkst. Eur
  61 
  28 
    
- 1,3048 
+ 1,3053 
 
 
  Širvintų rajono 
- 11 352 
+ 11 640 
  871 
  90 
  124 
@@ -3071,11 +3150,11 @@ Tūkst. Eur
  42 
  10 
    
- 0,5229 
+ 0,5230 
 
 
  Švenčionių rajono 
- 17 392 
+ 17 830 
  1 492 
  115 
  152 
@@ -3083,11 +3162,11 @@ Tūkst. Eur
  61 
  14 
    
- 0,8012 
+ 0,8011 
 
 
  Tauragės rajono 
- 26 886 
+ 27 581 
  1 701 
  170 
  233 
@@ -3095,11 +3174,11 @@ Tūkst. Eur
  80 
  26 
    
- 1,2385 
+ 1,2393 
 
 
  Telšių rajono 
- 29 294 
+ 30 023 
  2 715 
  194 
  280 
@@ -3107,11 +3186,11 @@ Tūkst. Eur
  78 
  28 
    
- 1,3495 
+ 1,3490 
 
 
  Trakų rajono 
- 27 250 
+ 27 962 
  1 546 
  177 
  237 
@@ -3119,11 +3198,11 @@ Tūkst. Eur
  53 
  22 
    
- 1,2553 
+ 1,2564 
 
 
  Ukmergės rajono 
- 24 917 
+ 25 528 
  2 601 
  171 
  241 
@@ -3131,11 +3210,11 @@ Tūkst. Eur
  77 
  22 
    
- 1,1478 
+ 1,1470 
 
 
  Utenos rajono 
- 27 017 
+ 27 691 
  2 440 
  208 
  290 
@@ -3143,11 +3222,11 @@ Tūkst. Eur
  74 
  22 
    
- 1,2446 
+ 1,2442 
 
 
  Varėnos rajono 
- 17 127 
+ 17 533 
  2 235 
  143 
  180 
@@ -3155,11 +3234,11 @@ Tūkst. Eur
  70 
  12 
    
- 0,7890 
+ 0,7878 
 
 
  Vilkaviškio rajono 
- 25 928 
+ 26 559 
  2 965 
  169 
  241 
@@ -3167,11 +3246,11 @@ Tūkst. Eur
  74 
  24 
    
- 1,1944 
+ 1,1934 
 
 
  Vilniaus rajono 
- 80 304 
+ 82 394 
  4 692 
  471 
  580 
@@ -3179,11 +3258,11 @@ Tūkst. Eur
  121 
  66 
    
- 3,6993 
+ 3,7022 
 
 
  Zarasų rajono 
- 13 284 
+ 13 580 
  2 435 
  94 
  132 
@@ -3191,11 +3270,11 @@ Tūkst. Eur
  55 
  8 
    
- 0,6119 
+ 0,6102 
 
 
  Elektrėnų  
- 20 016 
+ 20 526 
  1 410 
  154 
  203 
@@ -3203,11 +3282,11 @@ Tūkst. Eur
  45 
  16 
    
- 0,9221 
+ 0,9223 
 
 
  Kalvarijos 
- 7 639 
+ 7 821 
  1 014 
  60 
  80 
@@ -3215,11 +3294,11 @@ Tūkst. Eur
  24 
  6 
    
- 0,3519 
+ 0,3514 
 
 
  Kazlų Rūdos  
- 7 802 
+ 8 001 
  532 
  49 
  79 
@@ -3227,11 +3306,11 @@ Tūkst. Eur
  23 
  8 
    
- 0,3594 
+ 0,3595 
 
 
  Pagėgių  
- 6 152 
+ 6 299 
  710 
  63 
  84 
@@ -3239,11 +3318,11 @@ Tūkst. Eur
  17 
  4 
    
- 0,2834 
+ 0,2830 
 
 
  Rietavo  
- 5 712 
+ 5 852 
  561 
  47 
  68 
@@ -3251,11 +3330,11 @@ Tūkst. Eur
  20 
  6 
    
- 0,2631 
+ 0,2629 
 
 
  IŠ VISO 
- 2 170 790 
+ 2 225 552 
  181 401 
  14 607 
  20 537 
@@ -3267,12 +3346,10 @@ Tūkst. Eur
 
 
 
- 
-
-
 _______________________
-
-
+Priedo pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
 
 
 
@@ -3327,14 +3404,14 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams (inve
 
 
  Energetika 
- 45 537 
+ 47 689 
  11 818 
  3 632 
 
 
 
- Viešieji finansai 
- 19 190 
+ Viešieji finansai ir oficialioji statistika 
+ 17 520 
  19 263 
  2 279 
 
@@ -3361,7 +3438,7 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams (inve
 
 
 
- Kultūra 
+ Kultūra ir visuomenės informavimas 
  88 480 
  34 104 
  23 075 
@@ -3410,7 +3487,7 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams (inve
 
 
 
- Žemės ir maisto ūkis, kaimo plėtra ir žuvininkystė 
+ Žemės ir maisto ūkis, kaimo plėtra, žuvininkystė, veterinarija ir žemės tvarkymas 
  18 722 
  13 100 
  10 000 
@@ -3418,7 +3495,7 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams (inve
 
 
  IŠ VISO 
- 1 198 830 
+ 1 199 312 
  750 913 
  348 839 
 
@@ -3426,25 +3503,14 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams (inve
 
 
 
-
-
-
- 
-
-
-
-
- 
-
-
 _____________________
-
-
-
-
-
-
+Priedo pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
+
+
+
+
  
 Lietuvos Respublikos
 2022 metų valstybės biudžeto ir
@@ -3452,79 +3518,100 @@ savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymo
 7 priedas
  
-2022 METŲ REZERVINIO (STABILIZAVIMO) FONDO LĖŠŲ SĄMATA
+
+
+
+   2022 METŲ REZERVINIO (STABILIZAVIMO) FONDO LĖŠŲ SĄMATA    
+
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   Tūkst. Eur 
+
+
+   1. 
+   Lėšų likutis 2022 m. sausio 1 d. 
+   412 380 
+
+
+   
+   Įplaukos 2022 metais  
+   63 015 
+
+
+   2.1. 
+   50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, įstatymų nustatyta tvarka privatizavus valstybei nuosavybės teise priklausančius akcijų paketus 
+   1 455 
+
+
+   2.2. 
+   50 procentų į Lietuvos Respublikos valstybės biudžetą gautų dividendų  
+   36 484 
+
+
+   2.3. 
+   50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus viešo aukciono būdu įstatymų nustatyta tvarka valstybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus 
+   9 657 
+
+
+   2.4. 
+   50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus valstybinės žemės sklypus 
+   14 019 
+
+
+   2.5. 
+   lėšos, gautos už valstybės įmonės Ignalinos atominės elektrinės parduotą turtą 
+   1 400 
+
+
+   3. 
+   2022 metų įplaukų dalis, kaupiama radioaktyviųjų atliekų giluminiam atliekynui įrengti ir radioaktyviosioms atliekoms tvarkyti 
+   19 242 
+
+
+   4. 
+   Išlaidos 2022 metais 
+   2 663 
+
+
+   
+   iš jų: 
+   
+
+
+   4.1. 
+   Rezervinio (stabilizavimo) fondo valdymo išlaidos 
+   2 663 
+
+
+   5. 
+   Lėšos, kurios gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti (grąžintinai) iki 2024 m. gruodžio 31 d. 
+   400 000 
+
+
+   6. 
+   Numatomas lėšų likutis 2023 m. sausio 1 d. (1 + 2 – 4) 
+   472 732 
+
+
+ 
+
+
+ _____________________ 
+
+
+
  
-
-
-
-
-
-
-
-
-
-
-
- Tūkst. Eur 
-
-
- 1. 
- Numatomas lėšų likutis 2022 m. sausio 1 d. 
- 411 818 
-
-
- 2. 
- Įplaukos 2022 metais  
- 19 242 
-
-
- 2.1. 
- lėšos, gautos už valstybės įmonės Ignalinos atominės elektrinės parduotą turtą 
- 1 000 
-
-
- 2.2. 
- 25 procentai į Lietuvos Respublikos valstybės biudžetą gautų dividendų, kaupiamų radioaktyviųjų atliekų giluminiam atliekynui įrengti ir radioaktyviosioms atliekoms tvarkyti 
- 18 242 
-
-
- 3. 
- 2022 metų įplaukų dalis, kaupiama radioaktyviųjų atliekų giluminiam atliekynui įrengti ir radioaktyviosioms atliekoms tvarkyti 
- 19 242 
-
-
- 4. 
- Išlaidos 2022 metais 
- 2 107 
-
-
-
- iš jų: 
-
-
-
- 4.1. 
- Rezervinio (stabilizavimo) fondo valdymo išlaidos 
- 2 107 
-
-
- 5. 
- Lėšos, kurios gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti (grąžintinai) iki 2024 m. gruodžio 31 d. 
- 400 000 
-
-
- 6. 
- Numatomas lėšų likutis 2023 m. sausio 1 d. (1 + 2 – 4) 
- 428 953 
-
-
-
+Priedo pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
  
-
-
-____________________
-
-
 
 
 
@@ -4051,7 +4138,7 @@ rodiklių patvirtinimo įstatymo
 
 
  Energetikos ministerija 
- 162 647 
+ 151 701 
 
 
  Finansų ministerija 
@@ -4099,7 +4186,7 @@ rodiklių patvirtinimo įstatymo
 
 
  IŠ VISO 
- 985 152 
+ 974 206 
 
 
 
@@ -4110,6 +4197,9 @@ rodiklių patvirtinimo įstatymo
 _________________
 
 
+Priedo pakeitimai:
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+ 
  
  
 Pakeitimai:
@@ -4118,3 +4208,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-943, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05122
 Lietuvos Respublikos 2022 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo Nr. XIV-745 14 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1100, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10750
+Lietuvos Respublikos 2022 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo Nr. XIV-745 preambulės, 1, 2, 6, 7, 9, 10, 11, 14, 15, 21 straipsnių ir 1, 2, 3, 4, 5, 6, 7, 11 priedų pakeitimo įstatymas
