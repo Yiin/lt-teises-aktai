@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-05-02 iki 2022-05-25
+Suvestinė redakcija nuo 2022-05-26 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -89,7 +89,7 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 
 
-3. Farmacinė veikla – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, kurią reglamentuoja Farmacijos įstatymas.
+3. Farmacinė veikla – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla, kurią reglamentuoja Lietuvos Respublikos farmacijos įstatymas.
 
 
 
@@ -99,162 +99,82 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 
 
-5. Incidentas – in vitro diagnostikos medicinos priemonės funkcinis sutrikimas, gedimas arba jos charakteristikų ir (arba) veikimo pablogėjimas, taip pat ženklinimo ar naudojimo instrukcijos neatitikimas, kuris tiesiogiai ar netiesiogiai galėtų ar būtų galėjęs tapti paciento, tos in vitro diagnostikos medicinos priemonės vartotojo, naudotojo arba kitų fizinių asmenų mirties priežastimi arba būtų labai pabloginęs jų sveikatą. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „incidentas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 64 punkte.
+5. Lietuvos nacionalinė sveikatos sistema – valstybės sveikatos reikalų, institucijų, sveikatinimo veiklos ir jos išteklių tvarkymo sistema.
 
 
 
 
-6. Lietuvos nacionalinė sveikatos sistema – valstybės sveikatos reikalų, institucijų, sveikatinimo veiklos bei jos išteklių tvarkymo sistema.
+6. Medicinos priemonės techninės būklės tikrinimas – medicinos priemonių naudojimą reglamentuojančių teisės aktų ir medicinos priemonės gamintojo nustatyta tvarka ir terminais atliekama privaloma medicinos priemonės apžiūra, taip pat visų medicinos priemonės parametrų patikrinimas ir jos saugos bandymai.
 
 
 
 
-7. Medicinos priemonė – kaip tai apibrėžta Reglamento (ES) 2017/745 2 straipsnio 1 punkte. Medicinos priemonėmis vadinami ir Reglamento (ES) 2017/745 XVI priede išvardyti gaminiai ir jų priedai.
+7. Medicinos priemonių rinkos subjektai – medicinos priemonių gamintojai, jų įgaliotieji atstovai, importuotojai, platintojai ir sveikatos priežiūros įstaigos, taip pat procedūrinius rinkinius ir (arba) sistemas surenkantys ir (arba) sterilizuojantys asmenys.
 
 
 
 
-8. Medicinos priemonės gamintojas – asmuo, atsakingas už in vitro diagnostikos medicinos priemonės projektavimą, gamybą, įpakavimą bei ženklinimą iki šio gaminio pateikimo rinkai savo vardu, nepaisant to, ar jis pats atlieka tuos veiksmus, ar jo pavedimu – kitas asmuo. In vitro diagnostikos medicinos priemonės gamintoju taip pat laikomas asmuo, kuris surenka, įpakuoja, perdirba, visiškai atnaujina ir (arba) ženklina vieną ar daugiau baigtų gaminių, ir (arba) nustato jų, kaip in vitro diagnostikos medicinos priemonių, paskirtį, ketindamas jas teikti rinkai savo vardu. In vitro diagnostikos medicinos priemonės gamintoju nelaikomas asmuo, kuris surenka arba pritaiko jau esamas rinkoje in vitro diagnostikos medicinos priemones, kad jos galėtų būti panaudotos pagal paskirtį konkrečiam pacientui. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „gamintojas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 30 punkte.
+8. Medicinos priemonių rinkos subjektų veikla – veikla, kuriai taikomi medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, tiekimą, atitikties įvertinimą, klinikinių tyrimų ir veiksmingumo tyrimų atlikimą reglamentuojantys teisės aktai.
 
 
 
 
-9. Medicinos priemonės gamintojo įgaliotasis atstovas – Europos ekonominės erdvės valstybėje narėje įsisteigęs asmuo, kurį tiesiogiai paskiria in vitro diagnostikos medicinos priemonės gamintojas ir į kurį valstybės įstaigos, institucijos ir kiti subjektai gali kreiptis, užuot kreipęsi į in vitro diagnostikos medicinos priemonės gamintoją dėl jo įsipareigojimų. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „įgaliotasis atstovas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 32 punkte.
+9. Pirmoji medicinos pagalba – svarbiausi tikslingi veiksmai, skirti padėti kitų asmenų ar savo sveikatai ir gyvybei, naudojant turimas medicinos ir (ar) kitokias priemones ir medžiagas iki tol, kol nukentėjusiajam (pacientui) bus pradėta teikti skubioji medicinos pagalba arba jo būklė taps normali, arba bus konstatuota jo mirtis.
 
 
 
 
-10. Medicinos priemonės importuotojas – asmuo, kuris teikia rinkai už atlyginimą arba neatlygintinai in vitro diagnostikos medicinos priemonę iš trečiosios šalies, siekdamas ją platinti ir (arba) naudoti Europos ekonominės erdvės valstybių narių rinkoje, neatsižvelgiant į tai, ar ji yra nauja, ar atnaujinta. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „importuotojas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 33 punkte.
+10. Skubioji medicinos pagalba – institucinė (stacionarinė ar nestacionarinė) medicinos pagalba, kuri teikiama nedelsiant arba neatidėliotinai, kai dėl ūmių klinikinių būklių, nustatytų sveikatos apsaugos ministro įsakymu, gresia pavojus paciento ir (ar) aplinkinių gyvybei arba tokios pagalbos nesuteikimas laiku sukelia sunkių komplikacijų grėsmę pacientams.
 
 
 
 
-11. Medicinos priemonės naudojimas – medicinos priemonės taikymas pagal paskirtį.
+11. Sveikata – asmens ir visuomenės fizinė, dvasinė ir socialinė gerovė.
 
 
 
 
-12. Medicinos priemonės naudojimo pradžia – laikas, kai paruošta naudoti in vitro diagnostikos medicinos priemonė pirmą kartą patenka pas in vitro diagnostikos medicinos priemonės naudotoją ar in vitro diagnostikos medicinos priemonės vartotoją Europos ekonominės erdvės valstybės narės rinkoje. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „naudojimo pradžia“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 29 punkte.
+12. Sveikatinimo veikla – asmens sveikatos priežiūra, visuomenės sveikatos priežiūra, papildomoji ir alternatyvioji sveikatos priežiūra, medicinos priemonių rinkos subjektų veikla, farmacinė ir kita veikla, kurios rūšis ir reikalavimus ją vykdantiems subjektams nustato sveikatos apsaugos ministras.
 
 
 
 
-13. Medicinos priemonės naudotojas – asmuo, naudojantis in vitro diagnostikos medicinos priemonę, išskyrus naudojimą asmeniniams ir šeimos poreikiams. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „naudotojas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 37 punkte.
+13. Sveikatos priežiūros kokybė – Lietuvos Respublikos įstatymų ir sveikatos apsaugos ministro nustatytų sveikatos priežiūros sąlygų, įskaitant sveikatos priežiūros tinkamumą ir priimtinumą, visuma.
 
 
 
 
-14. Medicinos priemonės pateikimas rinkai – veiksmas, kai in vitro diagnostikos medicinos priemonė už atlyginimą arba neatlygintinai pirmą kartą tampa prieinama rinkoje (išskyrus in vitro diagnostikos medicinos priemones, skirtas veikimui įvertinti), siekiant ją platinti ir (arba) naudoti nepriklausomai nuo to, ar ji yra nauja, ar atnaujinta. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „pateikimas rinkai“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 28 punkte.
+14. Sveikatos priežiūros prieinamumas – valstybės nustatyta tvarka pripažįstamos sveikatos priežiūros sąlygos, užtikrinančios asmens sveikatos priežiūros paslaugų ekonominį, komunikacinį ir organizacinį priimtinumą asmeniui ir visuomenei.
 
 
 
 
-15. Medicinos priemonės techninės būklės tikrinimas – medicinos priemonių naudojimą reglamentuojančių teisės aktų ir medicinos priemonės gamintojo nustatyta tvarka ir terminais atliekama medicinos priemonės privaloma apžiūra, taip pat visų medicinos priemonės parametrų patikrinimas ir jos saugos bandymai.
+15. Sveikatos priežiūros priimtinumas – valstybės nustatyta tvarka pripažįstamos sveikatos priežiūros sąlygos, užtikrinančios sveikatos priežiūros paslaugų ir medicinos mokslo principų bei medicinos etikos reikalavimų atitiktį.
 
 
 
 
-16. Medicinos priemonės vartotojas – fizinis asmuo, kuris pareiškia savo valią įsigyti, įsigyja ir naudoja in vitro diagnostikos medicinos priemonę asmeniniams ir šeimos poreikiams, nesusijusiems su verslu ar profesija, tenkinti. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „nespecialistas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 38 punkte.
+16. Sveikatos priežiūros technologijos – vaistai, medicinos priemonės arba terapijos ir chirurgijos procedūros, taip pat ligų profilaktikos, diagnostikos arba gydymo priemonės, naudojamos teikiant sveikatos priežiūros paslaugas.
 
 
 
 
-17. Medicinos priemonių atšaukimas iš rinkos – veiksmai, kuriais siekiama užtikrinti, kad in vitro diagnostikos medicinos priemonių naudotojams ir (arba) in vitro diagnostikos medicinos priemonių vartotojams jau pateiktos in vitro diagnostikos medicinos priemonės būtų susigrąžintos. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „atšaukimas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 62 punkte.
+17. Sveikatos priežiūros teisumas – valstybės pripažįstamos sveikatos priežiūros sąlygos lygiomis galimybėmis siekti sveikatos ir kiek įmanoma sumažinti skirtumus tarp jos siekiančių asmenų.
 
 
 
 
-18. Medicinos priemonių pašalinimas iš rinkos – veiksmai, kuriais siekiama neleisti in vitro diagnostikos medicinos priemonių toliau platinti. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „pašalinimas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 63 punkte.
+18. Sveikatos priežiūros tinkamumas – sveikatos priežiūros paslaugų atitiktis teisės aktų reikalavimams.
 
 
 
 
-19. Medicinos priemonių platinimas – jau pateiktų rinkai in vitro diagnostikos medicinos priemonių tiekimas rinkai vartojimo ar naudojimo tikslais. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „tiekimas rinkai“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 27 punkte.
+19. Valstybės laiduojama (nemokama) asmens sveikatos priežiūra – asmens sveikatos priežiūros paslaugos, apmokamos iš Privalomojo sveikatos draudimo fondo, valstybės ar savivaldybių biudžetų.
 
 
 
 
-20. Medicinos priemonių platintojas – asmuo, kuris už atlyginimą arba neatlygintinai platina in vitro diagnostikos medicinos priemones. Ši sąvoka šio straipsnio 7 dalyje nurodytų medicinos priemonių, išskyrus in vitro diagnostikos medicinos priemones, atveju atitinka sąvoką „platintojas“, apibrėžtą Reglamento (ES) 2017/745 2 straipsnio 34 punkte.
-
-
-
-
-21. Medicinos priemonių rinkos subjektai – medicinos priemonių gamintojai, jų įgaliotieji atstovai, importuotojai, platintojai ir naudotojai (išskyrus vartotojus), taip pat procedūrinius rinkinius ir (arba) sistemas surenkantys ir (arba) sterilizuojantys asmenys.
-
-
-
-
-22. Medicinos priemonių rinkos subjektų veikla – veikla, kuriai taikomi medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų atlikimą reglamentuojantys teisės aktai.
-
-
-
-
-23. Nepageidaujamas įvykis – kaip tai apibrėžta Reglamento (ES) 2017/745 2 straipsnio 57 punkte.
-
-
-
-
-24. Notifikuotoji įstaiga – kaip tai apibrėžta Reglamento (ES) 2017/745 2 straipsnio 42 punkte.
-
-
-
-
-25. Pirmoji medicinos pagalba – svarbiausi tikslingi veiksmai, skirti padėti kitų asmenų ar savo sveikatai ir gyvybei panaudojant turimas medicinos ir (ar) kitokias priemones ir medžiagas iki tol, kol nukentėjusiajam (pacientui) bus pradėta teikti skubioji medicinos pagalba arba jo būklė taps normali, arba bus konstatuota jo mirtis.
-
-
-
-
-26. Skubioji medicinos pagalba – institucinė (stacionarinė ar nestacionarinė) medicinos pagalba, kuri teikiama nedelsiant arba neatidėliotinai, kai dėl ūmių klinikinių būklių, nustatytų Lietuvos Respublikos sveikatos apsaugos ministro įsakymu, gresia pavojus paciento ir (ar) aplinkinių gyvybei arba tokios pagalbos nesuteikimas laiku sukelia sunkių komplikacijų grėsmę pacientams.
-
-
-
-
-27. Sveikata – asmens ir visuomenės fizinė, dvasinė ir socialinė gerovė.
-
-
-
-
-28. Sveikatinimo veikla – asmens sveikatos priežiūra, visuomenės sveikatos priežiūra, papildomoji ir alternatyvioji sveikatos priežiūra, medicinos priemonių rinkos subjektų veikla, farmacinė ir kita veikla, kurios rūšis ir reikalavimus ją vykdantiems subjektams nustato sveikatos apsaugos ministras.
-
-
-
-
-29. Sveikatos priežiūros kokybė – Lietuvos Respublikos įstatymų ir sveikatos apsaugos ministro nustatytų sveikatos priežiūros sąlygų, įskaitant sveikatos priežiūros tinkamumą ir priimtinumą, visuma.
-
-
-
-
-30. Sveikatos priežiūros prieinamumas – valstybės nustatyta tvarka pripažįstamos sveikatos priežiūros sąlygos, užtikrinančios asmens sveikatos priežiūros paslaugų ekonominį, komunikacinį ir organizacinį priimtinumą asmeniui ir visuomenei.
-
-
-
-
-31. Sveikatos priežiūros priimtinumas – valstybės nustatyta tvarka pripažįstamos sveikatos priežiūros sąlygos, užtikrinančios sveikatos priežiūros paslaugų ir medicinos mokslo principų bei medicinos etikos reikalavimų atitiktį.
-
-
-
-
-32. Sveikatos priežiūros technologijos – vaistai, medicinos priemonės arba terapijos ir chirurgijos procedūros, taip pat ligų profilaktikos, diagnostikos arba gydymo priemonės, naudojamos teikiant sveikatos priežiūros paslaugas.
-
-
-
-
-33. Sveikatos priežiūros teisumas – valstybės pripažįstamos sveikatos priežiūros sąlygos lygiomis galimybėmis siekti sveikatos ir kiek įmanoma sumažinti skirtumus tarp jos siekiančių asmenų.
-
-
-
-
-34. Sveikatos priežiūros tinkamumas – sveikatos priežiūros paslaugų atitiktis teisės aktų reikalavimams.
-
-
-
-
-35. Valstybės laiduojama (nemokama) asmens sveikatos priežiūra – asmens sveikatos priežiūros paslaugos, apmokamos iš Privalomojo sveikatos draudimo fondo, valstybės ar savivaldybių biudžetų.
-
-
-
-
-36. Valstybinė visuomenės sveikatos kontrolė – valstybės įgaliotų valstybinių inspekcijų, valstybinių tarnybų, kitų institucijų ir jų pareigūnų atliekami tarnybiniai veiksmai, turint tikslą:
+20. Valstybinė visuomenės sveikatos kontrolė – valstybės įgaliotų valstybinių inspekcijų, valstybinių tarnybų, kitų institucijų ir jų pareigūnų atliekami tarnybiniai veiksmai, turint tikslą:
 
 
 1) kontroliuoti, kaip juridiniai ir fiziniai asmenys laikosi visuomenės sveikatos saugos teisės aktų, ir taikyti įstatymų nustatytą atsakomybę už jų pažeidimus (tiesioginė valstybinė visuomenės sveikatos kontrolė);
@@ -274,32 +194,37 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 
 
-37. Valstybinis medicininis auditas – asmenų, kurie verčiasi asmens sveikatos priežiūra, teikiamų paslaugų prieinamumo ir kokybės valstybinė priežiūra.
+21. Valstybinis medicininis auditas – asmenų, kurie verčiasi asmens sveikatos priežiūra, teikiamų paslaugų prieinamumo ir kokybės valstybinė priežiūra.
 
 
 
 
-38. Vidaus medicininis auditas – nepriklausomas, objektyvus, dokumentais įformintas asmens sveikatos priežiūros saugos ir kokybės tikrinimo bei konsultavimo procesas, kuriuo siekiama vertinti ir skatinti gerinti asmens sveikatos priežiūros įstaigos veiklą.
+22. Vidaus medicininis auditas – nepriklausomas, objektyvus, dokumentais įformintas asmens sveikatos priežiūros saugos ir kokybės tikrinimas bei konsultavimas, kuriais siekiama vertinti ir skatinti gerinti asmens sveikatos priežiūros įstaigos veiklą.
 
 
 
 
-39. Visuomenės sveikatos priežiūra – organizacinių, teisinių, ekonominių, techninių, socialinių ir medicinos priemonių, padedančių įgyvendinti ligų ir traumų profilaktiką, išsaugoti visuomenės sveikatą bei ją stiprinti, visuma.
+23. Visuomenės sveikatos priežiūra – organizacinių, teisinių, ekonominių, techninių, socialinių ir medicinos priemonių, padedančių įgyvendinti ligų ir traumų profilaktiką, išsaugoti visuomenės sveikatą ir ją stiprinti, visuma.
 
 
 
 
-40. Visuomenės sveikatos sauga – organizacinių, ekonominių, socialinių, techninių ir teisinių priemonių, skirtų visuomenės ar atskirų jos grupių sveikatai nuo visuomenės sveikatai darančių įtaką veiksnių kenksmingo poveikio apsaugoti arba šio poveikio rizikai kiek įmanoma sumažinti, visuma.
+24. Visuomenės sveikatos sauga – organizacinių, ekonominių, socialinių, techninių ir teisinių priemonių, skirtų visuomenės ar atskirų jos grupių sveikatai nuo visuomenės sveikatai darančių įtaką veiksnių kenksmingo poveikio apsaugoti arba šio poveikio rizikai kiek įmanoma sumažinti, visuma.
 
 
 
 
-41. Visuomenės sveikatos stebėsena (monitoringas) – tikslingai organizuotas ir sistemingai atliekamas visuomenės sveikatos būklės, ją veikiančių visuomenės sveikatos rizikos veiksnių duomenų rinkimas, kaupimas, apdorojimas, saugojimas, analizė ir vertinimas.
+25. Visuomenės sveikatos stebėsena (monitoringas) – tikslingai organizuotas ir sistemingai atliekamas visuomenės sveikatos būklės, ją veikiančių visuomenės sveikatos rizikos veiksnių duomenų rinkimas, kaupimas, apdorojimas, saugojimas, analizė ir vertinimas.
 
 
 
 
-42. Visuomenės sveikatos stiprinimas – valstybės institucijų, savivaldybių vykdomųjų institucijų, kitų juridinių ir fizinių asmenų įgyvendinamos organizacinės, teisinės, socialinės ir ekonominės priemonės, kurios padeda gausinti bei racionaliau naudoti sveikatos priežiūros išteklius, formuoti visuomenės sveikatos problemų sprendimo socialinės kontrolės sistemą, skatina visuomenės dalyvavimą formuojant valstybės ir savivaldybių sveikatos politiką, padeda kurti sveiką aplinką, skatina žmones gyventi sveikai ir didina sveikos gyvensenos motyvacijos efektyvumą, skatina sveikatos draudimo organizacijas ir asmens sveikatos priežiūros įstaigas orientuotis į ekonomiškai efektyvesnes sveikatinimo priemones, grindžiamas ligų profilaktika.
+26. Visuomenės sveikatos stiprinimas – valstybės institucijų, savivaldybių vykdomųjų institucijų, kitų juridinių ir fizinių asmenų įgyvendinamos organizacinės, teisinės, socialinės ir ekonominės priemonės, kurios padeda gausinti bei racionaliau naudoti sveikatos priežiūros išteklius, formuoti visuomenės sveikatos problemų sprendimo socialinės kontrolės sistemą, skatina visuomenės dalyvavimą formuojant valstybės ir savivaldybių sveikatos politiką, padeda kurti sveiką aplinką, skatina žmones gyventi sveikai ir didina sveikos gyvensenos motyvacijos efektyvumą, skatina sveikatos draudimo organizacijas ir asmens sveikatos priežiūros įstaigas orientuotis į ekonomiškai efektyvesnes sveikatinimo priemones, grindžiamas ligų profilaktika.
+
+
+
+
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžtos Reglamente (ES) 2017/745 ir Reglamente (ES) 2017/746.
 
 
 Straipsnio pakeitimai:
@@ -311,6 +236,7 @@ Nr. XI-1432, 2011-06-07, Žin., 2011, Nr. 74-3541 (2011-06-18)
 Straipsnio pakeitimai:
 Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 Nr. XIII-2947, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11067
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -2656,25 +2582,25 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
  
 
 
-591 straipsnis. Medicinos priemonių pateikimas rinkai ir platinimas
+591 straipsnis. Medicinos priemonių pateikimas rinkai ir tiekimas
 
 
-1. Lietuvos Respublikos rinkai gali būti teikiamos ir platinamos tik Reglamento (ES) 2017/745 arba In vitro diagnostikos medicinos priemonių saugos techninio reglamento, kurį tvirtina sveikatos apsaugos ministras (toliau – IVD reglamentas), reikalavimus atitinkančios medicinos priemonės (šio straipsnio 4 dalyje nurodytos medicinos priemonės taip pat turi būti įregistruotos šio straipsnio 3 dalyje nustatyta tvarka). Sveikatos apsaugos ministras išskirtiniais atvejais, kai nėra būtinų lygiaverčių ar alternatyvių Reglamento (ES) 2017/745 arba IVD reglamento reikalavimus atitinkančių medicinos priemonių, gali leisti teikti Lietuvos Respublikos rinkai medicinos priemones, kurioms nebuvo pritaikytos Reglamento (ES) 2017/745 arba IVD reglamento atitikties įvertinimo procedūros, tačiau tos medicinos priemonės reikalingos sveikatos apsaugai užtikrinti.
-
-
-
-
-2. Medicinos priemonių pateikimo rinkai, platinimo reikalavimus nustato Reglamentas (ES) 2017/745 arba IVD reglamentas, šis įstatymas ir sveikatos apsaugos ministro ar jo įgaliotos institucijos patvirtinti teisės aktai.
+1. Lietuvos Respublikos rinkai gali būti pateikiamos ir tiekiamos tik Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimus atitinkančios medicinos priemonės (šio straipsnio 4 dalyje nurodytos medicinos priemonės taip pat turi būti įregistruotos šio straipsnio 3 dalyje nustatyta tvarka). Sveikatos apsaugos ministras išskirtiniais atvejais, kai nėra būtinų lygiaverčių ar alternatyvių Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimus atitinkančių medicinos priemonių, gali leisti pateikti Lietuvos Respublikos rinkai medicinos priemones, kurioms nebuvo pritaikytos Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 atitikties įvertinimo procedūros, tačiau tos medicinos priemonės reikalingos sveikatos apsaugai užtikrinti.
 
 
 
 
-3. Medicinos priemonių gamintojai, procedūrinius rinkinius ir (arba) sistemas surenkantys ir (arba) sterilizuojantys asmenys, turintys buveinę Lietuvos Respublikoje, prieš teikdami rinkai savo vardu šio straipsnio 4 dalyje nurodytas medicinos priemones, sveikatos apsaugos ministro įgaliotai institucijai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamiesi tiesiogiai turi pateikti dokumentus su duomenimis apie savo buveinės adresą, medicinos priemonių techniniais duomenimis ir norimų įregistruoti medicinos priemonių atitiktį Reglamentui (ES) 2017/745 arba IVD reglamentui įrodančius dokumentus. Sveikatos apsaugos ministro įgaliota institucija ne vėliau kaip per 20 darbo dienų nuo reikalaujamų dokumentų gavimo dienos raštu informuoja asmenį apie priimtą sprendimą dėl teikiamų rinkai medicinos priemonių įregistravimo ir registracijos numerio suteikimo arba atsisakymo jas įregistruoti. Į šį terminą neįskaitomas (neįskaitomi) laikotarpis (laikotarpiai), kai per šio straipsnio 7 dalyje nurodytą terminą šalinami nustatyti trūkumai. Šioje dalyje nurodyti dokumentai teikiami sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka.
+2. Medicinos priemonių pateikimo rinkai ir tiekimo reikalavimus nustato Reglamentas (ES) 2017/745 arba Reglamentas (ES) 2017/746, šis įstatymas ir sveikatos apsaugos ministro ar jo įgaliotos institucijos patvirtinti teisės aktai.
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodyti medicinos priemonių rinkos subjektai sveikatos apsaugos ministro įgaliotai institucijai turi pateikti duomenis apie Reglamente (ES) 2017/745 arba IVD reglamente apibrėžtas ir klasifikuojamas:
+3. Medicinos priemonių gamintojai, procedūrinius rinkinius ir (arba) sistemas surenkantys ir (arba) sterilizuojantys asmenys, turintys buveinę Lietuvos Respublikoje, prieš pateikdami rinkai savo vardu šio straipsnio 4 dalyje nurodytas medicinos priemones, sveikatos apsaugos ministro įgaliotai institucijai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamiesi tiesiogiai turi pateikti dokumentus su duomenimis apie savo buveinės adresą, medicinos priemonių techniniais duomenimis ir norimų įregistruoti medicinos priemonių atitiktį Reglamentui (ES) 2017/745 arba Reglamentui (ES) 2017/746 įrodančius dokumentus. Sveikatos apsaugos ministro įgaliota institucija ne vėliau kaip per 20 darbo dienų nuo reikalaujamų dokumentų gavimo dienos raštu informuoja asmenį apie priimtą sprendimą dėl pateikiamų rinkai medicinos priemonių įregistravimo ir registracijos numerio suteikimo arba atsisakymo jas įregistruoti. Į šį terminą neįskaitomas (neįskaitomi) laikotarpis (laikotarpiai), kai per šio straipsnio 7 dalyje nurodytą terminą šalinami nustatyti trūkumai. Šioje dalyje nurodyti dokumentai teikiami sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka.
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodyti medicinos priemonių rinkos subjektai sveikatos apsaugos ministro įgaliotai institucijai turi pateikti duomenis apie Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 apibrėžtas ir klasifikuojamas:
 
 
 1) pagal užsakymą gaminamas medicinos priemones;
@@ -2682,49 +2608,44 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 
 
 
-2) pagal užsakymą gaminamas aktyviąsias implantuojamąsias medicinos priemones;
+2) gaminamas in vitro diagnostikos medicinos priemones;
 
 
 
 
-3) gaminamas in vitro diagnostikos medicinos priemones;
+3) gaminamas medicinos priemones, skirtas veikimui įvertinti;
 
 
 
 
-4) gaminamas medicinos priemones veikimui įvertinti;
+4) gaminamas I klasės medicinos priemones;
 
 
 
 
-5) gaminamas I klasės medicinos priemones;
+5) sistemas ir (arba) procedūrinius rinkinius;
 
 
 
 
-6) sistemas ir (arba) procedūrinius rinkinius;
-
-
-
-
-7) sterilizuojamas sistemas ir (arba) procedūrinius rinkinius.
+6) sterilizuojamas sistemas ir (arba) procedūrinius rinkinius.
 
 
 
 
 
 
-5. Jeigu medicinos priemonės gamintojas neturi buveinės Europos ekonominės erdvės valstybėje narėje, duomenis pagal šio straipsnio 3 dalį turi pateikti medicinos priemonės gamintojo įgaliotasis atstovas, turintis buveinę Lietuvos Respublikoje.
+5. Jeigu medicinos priemonės gamintojas neturi buveinės Europos ekonominės erdvės valstybėje, duomenis pagal šio straipsnio 3 dalį turi pateikti medicinos priemonės gamintojo įgaliotas atstovas, turintis buveinę Lietuvos Respublikoje.
 
 
 
 
-6. Šio straipsnio 3 ir (arba) 5 dalyse nurodyti asmenys gali teikti rinkai šio straipsnio 4 dalyje nurodytas medicinos priemones tik jas įregistravę šio straipsnio 3 dalyje nustatyta tvarka.
+6. Šio straipsnio 3 ir (arba) 5 dalyse nurodyti asmenys gali pateikti rinkai šio straipsnio 4 dalyje nurodytas medicinos priemones tik jas įregistravę šio straipsnio 3 dalyje nustatyta tvarka.
 
 
 
 
-7. Sveikatos apsaugos ministro įgaliota institucija neįregistruoja šio straipsnio 4 dalyje nurodytų teikiamų medicinos priemonių, jeigu:
+7. Sveikatos apsaugos ministro įgaliota institucija neįregistruoja šio straipsnio 4 dalyje nurodytų pateikiamų medicinos priemonių, jeigu:
 
 
 1) pateikti ne visi reikalaujami dokumentai ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų;
@@ -2742,7 +2663,7 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 
 
 
-4) medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba IVD reglamento reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų.
+4) medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų.
 
 
 
@@ -2757,19 +2678,19 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 
 
 
-2) nustatoma, kad įregistruotos medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba IVD Reglamento reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų;
+2) nustatoma, kad įregistruotos medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų;
 
 
 
 
-3) šio straipsnio 3 ir (arba) 5 dalyse nurodyti asmenys nesilaiko šio įstatymo ir Reglamento (ES) 2017/745 arba IVD Reglamento reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų.
+3) šio straipsnio 3 ir (arba) 5 dalyse nurodyti asmenys nesilaiko šio įstatymo ir Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimų ir šie asmenys per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų.
 
 
 
 
 
 
-9. Sprendimas panaikinti šio straipsnio 3 dalyje nurodytos medicinos priemonių registracijos galiojimo sustabdymą priimamas, kai šio straipsnio 3 ir (arba) 5 dalyse nurodyti asmenys per 90 dienų terminą nuo sprendimo sustabdyti registracijos galiojimą gavimo dienos kreipiasi dėl medicinos priemonių registracijos galiojimo sustabdymo panaikinimo, jeigu medicinos priemonių registracijos galiojimas buvo sustabdytas šio straipsnio 8 dalies 1 punkte nurodytu pagrindu, arba kreipiasi dėl medicinos priemonių registracijos galiojimo sustabdymo panaikinimo ir pašalina trūkumus, dėl kurių buvo sustabdytas medicinos priemonių registracijos galiojimas, jeigu medicinos priemonių registracijos galiojimas buvo sustabdytas šio straipsnio 8 dalies 2 ir 3 punktuose nurodytais pagrindais.
+9. Sprendimas panaikinti šio straipsnio 3 dalyje nurodytų medicinos priemonių registracijos galiojimo sustabdymą priimamas, kai šio straipsnio 3 ir (arba) 5 dalyse nurodyti asmenys per 90 dienų terminą nuo sprendimo sustabdyti registracijos galiojimą gavimo dienos kreipiasi dėl medicinos priemonių registracijos galiojimo sustabdymo panaikinimo, jeigu medicinos priemonių registracijos galiojimas buvo sustabdytas šio straipsnio 8 dalies 1 punkte nurodytu pagrindu, arba kreipiasi dėl medicinos priemonių registracijos galiojimo sustabdymo panaikinimo ir pašalina trūkumus, dėl kurių buvo sustabdytas medicinos priemonių registracijos galiojimas, jeigu medicinos priemonių registracijos galiojimas buvo sustabdytas šio straipsnio 8 dalies 2 ir 3 punktuose nurodytais pagrindais.
 
 
 
@@ -2779,12 +2700,12 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 
 
 
-11. Medicinos priemonių gamintojai, medicinos priemonių gamintojų įgaliotieji atstovai, medicinos priemonių importuotojai ir medicinos priemonių platintojai, teikiantys Lietuvos Respublikos rinkai pagal Reglamente (ES) 2017/745 nurodytas taisykles klasifikuojamas IIA, IIB, III klasės ir pagal užsakymą gaminamas aktyviąsias implantuojamąsias medicinos priemones, sveikatos apsaugos ministro įgaliotai institucijai per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba kreipiantis tiesiogiai sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka turi pateikti duomenis apie savo buveinės adresą ir duomenis apie Lietuvos Respublikos rinkai pateiktas medicinos priemones. Duomenys turi būti pateikti ne vėliau kaip per 14 darbo dienų nuo medicinos priemonių pateikimo Lietuvos Respublikos rinkai datos. Šioje dalyje nustatyta tvarka neteikiami duomenys apie pagal užsakymą gaminamas aktyviąsias implantuojamąsias medicinos priemones, jeigu šios medicinos priemonės buvo įregistruotos šio straipsnio 3 dalyje nurodyta tvarka.
+11. Medicinos priemonių gamintojai, medicinos priemonių gamintojų įgaliotieji atstovai, medicinos priemonių importuotojai ir medicinos priemonių platintojai, pateikiantys Lietuvos Respublikos rinkai pagal Reglamente (ES) 2017/745 nurodytas taisykles klasifikuojamas IIA, IIB, III klasės ir pagal užsakymą gaminamas aktyviąsias implantuojamąsias medicinos priemones, sveikatos apsaugos ministro įgaliotai institucijai per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba kreipdamiesi tiesiogiai sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka turi pateikti duomenis apie savo buveinės adresą ir duomenis apie Lietuvos Respublikos rinkai pateiktas medicinos priemones. Duomenys turi būti pateikti ne vėliau kaip per 14 darbo dienų nuo medicinos priemonių pateikimo Lietuvos Respublikos rinkai datos. Šioje dalyje nustatyta tvarka neteikiami duomenys apie pagal užsakymą gaminamas aktyviąsias implantuojamąsias medicinos priemones, jeigu šios medicinos priemonės buvo įregistruotos šio straipsnio 3 dalyje nurodyta tvarka.
 
 
 
 
-12. Sveikatos apsaugos ministro įgaliota institucija panaikina šio straipsnio 3 dalyje nurodytos medicinos priemonių registracijos galiojimą, jeigu:
+12. Sveikatos apsaugos ministro įgaliota institucija panaikina šio straipsnio 3 dalyje nurodytų medicinos priemonių registracijos galiojimą, jeigu:
 
 
 1) yra šio straipsnio 3 ir (arba) 5 dalyse nurodyto asmens prašymas;
@@ -2814,21 +2735,17 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 
 
 
-13. Draudžiama ne prekybos patalpose medicinos priemones teikti rinkai ir (arba) platinti medicinos priemonių vartotojams. Šis draudimas netaikomas medicinos priemonių pardavimui sudarant nuotolines sutartis, medicinos priemonių platinimui prekybos automatuose ir medicinos priemonių pardavimui sveikatos priežiūros įstaigoje, jeigu ta medicinos priemonė reikalinga pacientui pagal gydytojo nustatytą diagnozę.
+13. Draudžiama ne prekybos patalpose medicinos priemones pateikti rinkai ir (arba) tiekti medicinos priemonių naudotojams. Šis draudimas netaikomas medicinos priemonių pardavimui sudarant nuotolines sutartis, medicinos priemonių tiekimui prekybos automatais ir medicinos priemonių pardavimui sveikatos priežiūros įstaigoje, jeigu ta medicinos priemonė reikalinga pacientui pagal gydytojo nustatytą diagnozę.
 
 
 
 
-14. Galima demonstruoti parodose ir mugėse medicinos priemones, kurios neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų, jeigu aiškiai ir matomoje vietoje yra pateikta informacija, kad tokias medicinos priemones bus galima teikti rinkai, platinti tik tada, kai bus įvykdyti šio straipsnio 1 dalyje nurodyti reikalavimai.
-
-
-
-
-15. Sustabdžius medicinos priemonių registracijos galiojimą šio straipsnio 8 dalies 2 ar 3 punkte nurodytais pagrindais arba panaikinus medicinos priemonių registracijos galiojimą šio straipsnio 12 dalies 3 ar 4 punkte nurodytais pagrindais, atsižvelgiant į nustatyto pažeidimo pobūdį pagal šio įstatymo 596 straipsnio 2 dalį, kartu taikomos šio įstatymo 596 straipsnio 1 dalies 2 ir (arba) 3 punktuose nurodytos poveikio priemonės. 
+14. Sustabdžius medicinos priemonių registracijos galiojimą šio straipsnio 8 dalies 2 ar 3 punkte nurodytais pagrindais arba panaikinus medicinos priemonių registracijos galiojimą šio straipsnio 12 dalies 3 ar 4 punkte nurodytais pagrindais, atsižvelgiant į nustatyto pažeidimo pobūdį pagal šio įstatymo 596 straipsnio 2 dalį, kartu taikomos šio įstatymo 596 straipsnio 1 dalies 2 ir (arba) 3 punktuose nurodytos poveikio priemonės.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -2842,9 +2759,10 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-2. Medicinos priemonės turi būti naudojamos Reglamento (ES) 2017/745 arba IVD reglamento, šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka. Sveikatos apsaugos ministras išskirtiniais atvejais, kai nėra būtinų lygiaverčių ar alternatyvių Reglamento (ES) 2017/745 arba IVD reglamento reikalavimus atitinkančių medicinos priemonių, gali leisti pradėti naudoti medicinos priemones, kurioms nebuvo pritaikytos Reglamento (ES) 2017/745 arba IVD reglamento atitikties įvertinimo procedūros, tačiau tos medicinos priemonės reikalingos sveikatos apsaugai užtikrinti. 
+2. Medicinos priemonės turi būti naudojamos Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka. Sveikatos apsaugos ministras išskirtiniais atvejais, kai nėra būtinų lygiaverčių ar alternatyvių Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimus atitinkančių medicinos priemonių, gali leisti pradėti naudoti medicinos priemones, kurioms nebuvo pritaikytos Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 atitikties įvertinimo procedūros, tačiau tos medicinos priemonės reikalingos sveikatos apsaugai užtikrinti.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -3002,7 +2920,10 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-3. Laisvos prekybos sertifikatas galioja tiek, kiek galioja medicinos priemonės, dėl kurios išduotas laisvos prekybos sertifikatas, atitiktį Reglamentui (ES) 2017/745 arba IVD reglamentui įrodantys dokumentai, arba galioja neterminuotai, jeigu atitiktį Reglamentui (ES) 2017/745 arba IVD reglamentui įrodančių dokumentų galiojimo terminas nenurodytas.
+3. Laisvos prekybos sertifikatas galioja tiek, kiek galioja medicinos priemonės, dėl kurios išduotas laisvos prekybos sertifikatas, atitiktį Reglamentui (ES) 2017/745 arba Reglamentui (ES) 2017/746 įrodantys dokumentai, arba galioja neterminuotai, jeigu atitiktį Reglamentui (ES) 2017/745 arba Reglamentui (ES) 2017/746 įrodančių dokumentų galiojimo terminas nenurodytas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
+ 
 
 
 
@@ -3078,11 +2999,23 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 9. Sustabdžius laisvos prekybos sertifikato, išduoto dėl medicinos priemonių, nurodytų šio įstatymo 591 straipsnio 4 dalyje, galiojimą šio straipsnio 6 dalies 2 punkte nurodytu pagrindu arba panaikinus jo galiojimą šio straipsnio 8 dalies 2 arba 3 punkte nurodytais pagrindais, kartu taikomos šio įstatymo 591 straipsnio nuostatos dėl tokios medicinos priemonės registracijos galiojimo sustabdymo arba panaikinimo ir, atsižvelgus į nustatyto pažeidimo pobūdį pagal šio įstatymo 596 straipsnio 2 dalį, šio įstatymo 596 straipsnio 1 dalies 2 ir (arba) 3 punktuose nurodytos poveikio priemonės.
+ 
+593 straipsnio 9 dalies redakcija įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, 34 straipsnio 1 dalyje nustatytas funkcines specifikacijas, paskelbimo dienos.
+9. Sustabdžius laisvos prekybos sertifikato, išduoto dėl medicinos priemonių, nurodytų šio įstatymo 591 straipsnio 3 dalyje, galiojimą šio straipsnio 6 dalies 2 punkte nurodytu pagrindu arba panaikinus jo galiojimą šio straipsnio 8 dalies 2 arba 3 punkte nurodytais pagrindais, kartu taikomos šio įstatymo 591 straipsnio nuostatos dėl tokios medicinos priemonės registracijos galiojimo sustabdymo arba panaikinimo ir, atsižvelgus į nustatyto pažeidimo pobūdį pagal šio įstatymo 596 straipsnio 2 dalį, šio įstatymo 596 straipsnio 1 dalies 2 ir (arba) 3 punktuose nurodytos poveikio priemonės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
+ 
 
 
 
 
-10. Sustabdžius laisvos prekybos sertifikato, išduoto dėl medicinos priemonių, nenurodytų šio įstatymo 591 straipsnio 4 dalyje, galiojimą šio straipsnio 6 dalies 2 punkte nurodytu pagrindu arba panaikinus jo galiojimą šio straipsnio 8 dalies 2 arba 3 punkte nurodytais pagrindais, atsižvelgus į nustatyto pažeidimo pobūdį pagal šio įstatymo 596 straipsnio 2 dalį, kartu taikomos šio įstatymo 596 straipsnio 1 dalyje nurodytos poveikio priemonės. 
+10. Sustabdžius laisvos prekybos sertifikato, išduoto dėl medicinos priemonių, nenurodytų šio įstatymo 591 straipsnio 4 dalyje, galiojimą šio straipsnio 6 dalies 2 punkte nurodytu pagrindu arba panaikinus jo galiojimą šio straipsnio 8 dalies 2 arba 3 punkte nurodytais pagrindais, atsižvelgus į nustatyto pažeidimo pobūdį pagal šio įstatymo 596 straipsnio 2 dalį, kartu taikomos šio įstatymo 596  straipsnio 1 dalyje nurodytos poveikio priemonės.
+ 
+593 straipsnio 10 dalies redakcija įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, 34 straipsnio 1 dalyje nustatytas funkcines specifikacijas, paskelbimo dienos.
+10. Sustabdžius laisvos prekybos sertifikato, išduoto dėl medicinos priemonių, nenurodytų šio įstatymo 591 straipsnio 3 dalyje, galiojimą šio straipsnio 6 dalies 2 punkte nurodytu pagrindu arba panaikinus jo galiojimą šio straipsnio 8 dalies 2 arba 3 punkte nurodytais pagrindais, atsižvelgus į nustatyto pažeidimo pobūdį pagal šio įstatymo 596 straipsnio 2 dalį, kartu taikomos šio įstatymo 596 straipsnio 1 dalyje nurodytos poveikio priemonės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
+ 
 
 
 Straipsnio pakeitimai:
@@ -3118,9 +3051,10 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 3. Sveikatos apsaugos ministro įgaliota institucija, atlikdama medicinos priemonių valstybinės priežiūros veiksmus, turi teisę:
 
 
-1) atitikties šio įstatymo reikalavimams įvertinimo, poveikio priemonių taikymo ir medicinos priemonių saugos užtikrinimo tikslais gauti iš medicinos priemonių rinkos subjektų, kitų fizinių ir juridinių asmenų visą informaciją, įskaitant asmens duomenis (tarp jų ir asmens kodą bei pacientų sveikatos duomenis), susijusią su medicinos priemonių gamyba, sauga, platinimu, importu, naudojimu, techninės būklės tikrinimu, teikimu rinkai, pardavimu. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, reikalavimų ir saugomi Lietuvos Respublikos dokumentų ir archyvų įstatymo bei Reglamento (ES) 2016/679 nustatyta tvarka; 
+1) atitikties šio įstatymo reikalavimams įvertinimo, poveikio priemonių taikymo ir medicinos priemonių saugos užtikrinimo tikslais gauti iš medicinos priemonių rinkos subjektų, kitų fizinių ir juridinių asmenų visą informaciją, įskaitant asmens duomenis (tarp jų ir asmens kodą bei pacientų sveikatos duomenis), susijusią su medicinos priemonių gamyba, sauga, tiekimu, importu, naudojimu, techninės būklės tikrinimu, pateikimu rinkai, pardavimu. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, reikalavimų ir saugomi Lietuvos Respublikos dokumentų ir archyvų įstatymo bei Reglamento (ES) 2016/679 nustatyta tvarka;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -3144,12 +3078,17 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-5) patekti ir apžiūrėti medicinos priemonių projektavimo, gamybos, surinkimo, sterilizavimo, sandėliavimo, laikymo patalpas, medicinos priemonių rinkos subjektų tarnybines patalpas, medicinos priemonių platinimo, naudojimo patalpas;
+5) patekti į medicinos priemonių projektavimo, gamybos, surinkimo, sterilizavimo, sandėliavimo, laikymo patalpas, medicinos priemonių rinkos subjektų tarnybines patalpas, medicinos priemonių tiekimo, naudojimo patalpas ir jas apžiūrėti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
+ 
 
 
 
 
-6) taikyti šio įstatymo 596 straipsnyje nurodytas poveikio priemones, nustačius šio įstatymo, medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų atlikimą reglamentuojančių teisės aktų pažeidimus.
+6) taikyti šio įstatymo 596 straipsnyje nurodytas poveikio priemones, nustačius šio įstatymo, medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, tiekimą, atitikties įvertinimą, klinikinių tyrimų ir veiksmingumo tyrimų atlikimą reglamentuojančių teisės aktų pažeidimus.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -3159,18 +3098,18 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-595 straipsnis. Medicinos priemonių rinkos subjektų pareigos ir teisės 
+595 straipsnis. Medicinos priemonių rinkos subjektų pareigos ir teisės
 
 
-1. Medicinos priemonės gamintojas (arba medicinos priemonės gamintojo įgaliotasis atstovas), procedūrinius rinkinius ir (arba) sistemas surenkantis ir (arba) sterilizuojantis asmuo privalo:
+1. Medicinos priemonės gamintojas (arba medicinos priemonės gamintojo įgaliotas atstovas), procedūrinius rinkinius ir (arba) sistemas surenkantis ir (arba) sterilizuojantis asmuo privalo:
 
 
-1) teikti rinkai tik šio įstatymo 591 straipsnio 1 dalyje nurodytus reikalavimus atitinkančias medicinos priemones;
+1) pateikti rinkai tik šio įstatymo 591 straipsnio 1 dalyje nurodytus reikalavimus atitinkančias medicinos priemones;
 
 
 
 
-2) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, pateikti Lietuvos Respublikos valstybine kalba parengtus dokumentus, įrodančius medicinos priemonių atitiktį Reglamento (ES) 2017/745 arba IVD reglamento reikalavimams, ir medicinos priemonių techninių dokumentų kopijas, patvirtintas įstatymų nustatyta tvarka;
+2) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, pateikti Lietuvos Respublikos valstybine kalba parengtus dokumentus, įrodančius medicinos priemonių atitiktį Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimams, ir medicinos priemonių techninių dokumentų kopijas, patvirtintas įstatymų nustatyta tvarka;
 
 
 
@@ -3180,17 +3119,17 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-4) sužinoję, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba IVD reglamente nustatytų reikalavimų, nedelsdami nutraukti jų pateikimą rinkai, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių vartotojus ir naudotojus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
+4) sužinoję, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsiant nutraukti jų pateikimą rinkai, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus bei susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
 
 
 
 
-5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba IVD reglamento reikalavimams ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimams;
+5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimams;
 
 
 
 
-6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu atliekant bandymą buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, Reglamento (ES) 2017/745 arba IVD reglamento ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis;
+6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu atliekant bandymą buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis;
 
 
 
@@ -3200,42 +3139,42 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-8) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus;
+8) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus;
 
 
 
 
-9) Reglamento (ES) 2017/745, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie klinikinių tyrimų metu įvykusius nepageidaujamus įvykius, jeigu jie yra atsakingi už klinikinių tyrimų organizavimą ir įgyvendinimą (užsakovai); šiame punkte nustatyta tvarka apie nepageidaujamus įvykius turi pranešti ir kiti medicinos priemonės gamintojo paskirti asmenys;
+9) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie klinikinių tyrimų arba veiksmingumo tyrimų metu įvykusius nepageidaujamus įvykius, jeigu jie yra atsakingi už klinikinių tyrimų arba veiksmingumo tyrimų organizavimą ir įgyvendinimą (užsakovai); šiame punkte nustatyta tvarka apie nepageidaujamus įvykius turi pranešti ir kiti medicinos priemonės gamintojo paskirti asmenys;
 
 
 
 
-10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo 591 straipsnio 3, 5 ir 11 dalyse nurodytą informaciją;
+10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo 591 straipsnio 3, 5 ir 11 dalyse nurodytą informaciją;
 
 
 
 
-11) teikti sveikatos apsaugos ministro įgaliotai institucijai informaciją apie šio įstatymo 591 straipsnio 3 dalyje nurodytų duomenų pasikeitimą ir šio įstatymo 591 straipsnio 3 dalyje nurodyta tvarka įregistruotų medicinos priemonių pateikimo rinkai nutraukimą;
+11) teikti sveikatos apsaugos ministro įgaliotai institucijai informaciją apie šio įstatymo 591straipsnio 3 dalyje nurodytų duomenų pasikeitimą ir šio įstatymo 591 straipsnio 3 dalyje nurodyta tvarka įregistruotų medicinos priemonių pateikimo rinkai nutraukimą;
 
 
 
 
-12) prie teikiamos rinkai medicinos priemonės pridėti Reglamente (ES) 2017/745 arba IVD reglamente nurodytą ir Lietuvos Respublikos valstybine kalba parengtą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą;
+12) prie pateikiamos rinkai medicinos priemonės pridėti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą ir Lietuvos Respublikos valstybine kalba parengtą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą;
 
 
 
 
-13) Reglamento (ES) 2017/745 nustatyta tvarka teikti naudotojams ir vartotojams vietos saugos pranešimus, parengtus Lietuvos Respublikos valstybine kalba;
+13) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 nustatyta tvarka teikti naudotojams vietos saugos pranešimus, parengtus Lietuvos Respublikos valstybine kalba;
 
 
 
 
-14) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti Reglamente (ES) 2017/745 nurodytą informaciją dėl medicinos priemonių atsekamumo tiekimo grandinėje;
+14) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą informaciją dėl medicinos priemonių atsekamumo tiekimo grandinėje;
 
 
 
 
-15) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti duomenis apie už atitiktį reglamentuojamiems reikalavimams atsakingus asmenis bei dokumentus, pagrindžiančius šių asmenų atitiktį Reglamente (ES) 2017/745 nustatytiems reikalavimams;
+15) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti duomenis apie už atitiktį reglamentuojamiems reikalavimams atsakingus asmenis ir dokumentus, pagrindžiančius šių asmenų atitiktį Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimams;
 
 
 
@@ -3250,37 +3189,37 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 2. Medicinos priemonės importuotojas ir platintojas privalo:
 
 
-1) platinti ar importuoti tik šio įstatymo 591 straipsnio 1 dalyje nurodytus reikalavimus atitinkančias medicinos priemones;
+1) tiekti ar importuoti tik šio įstatymo 591 straipsnio 1 dalyje nurodytus reikalavimus atitinkančias medicinos priemones;
 
 
 
 
-2) turėti platinamų ar importuojamų medicinos priemonių gamintojo arba medicinos priemonės gamintojo įgaliotojo atstovo, arba procedūrinius rinkinius ir (arba) sistemas surenkančio ir (arba) sterilizuojančio asmens, arba medicinos priemonės importuotojo duomenis (pavadinimą, kontaktinius duomenis), bendradarbiauti su sveikatos apsaugos ministro įgaliota institucija, kai šiai institucijai reikia gauti medicinos priemonės atitiktį patvirtinančių dokumentų kopijas ir reikiamų techninių dokumentų kopijas;
+2) turėti tiekiamų ar importuojamų medicinos priemonių gamintojo arba medicinos priemonės gamintojo įgalioto atstovo, arba procedūrinius rinkinius ir (arba) sistemas surenkančio ir (arba) sterilizuojančio asmens, arba medicinos priemonės importuotojo duomenis (pavadinimą, kontaktinius duomenis), bendradarbiauti su sveikatos apsaugos ministro įgaliota institucija, kai šiai institucijai reikia gauti medicinos priemonės atitiktį patvirtinančių dokumentų ir reikiamų techninių dokumentų kopijas;
 
 
 
 
-3) užtikrinti, kad medicinos priemonės būtų gabenamos, laikomos, platinamos ir importuojamos vadovaujantis medicinos priemonių gamintojų reikalavimais ir šią veiklą reglamentuojančių teisės aktų nustatyta tvarka;
+3) užtikrinti, kad medicinos priemonės būtų gabenamos, laikomos, tiekiamos ir importuojamos vadovaujantis medicinos priemonių gamintojų reikalavimais ir šią veiklą reglamentuojančių teisės aktų nustatyta tvarka;
 
 
 
 
-4) sužinoję, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba IVD reglamente nustatytų reikalavimų, nedelsdami nutraukti jų platinimą, importą, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių vartotojus ir naudotojus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
+4) sužinoję, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsdami nutraukti jų tiekimą, importą, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
 
 
 
 
-5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba IVD reglamento reikalavimams ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai ir platinimą, reikalavimams;
+5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai ir tiekimą, reikalavimams;
 
 
 
 
-6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu bandymo metu buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, Reglamento (ES) 2017/745 arba IVD reglamento ir kitų teisės aktų, reglamentuojančių medicinos priemonių platinimą, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis;
+6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu bandymo metu buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių tiekimą, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis;
 
 
 
 
-7) sužinoję apie incidentus, pranešti šių medicinos priemonių gamintojams arba jų įgaliotiesiems atstovams;
+7) sužinoję apie incidentus, pranešti šių medicinos priemonių gamintojams arba jų įgaliotiems atstovams;
 
 
 
@@ -3290,17 +3229,17 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-9) kartu su platinama ar importuojama medicinos priemone teikti visą medicinos priemonės gamintojo numatytą ir Lietuvos Respublikos valstybine kalba parengtą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą;
+9) kartu su tiekiama ar importuojama medicinos priemone teikti visą medicinos priemonės gamintojo numatytą ir Lietuvos Respublikos valstybine kalba parengtą informaciją apie medicinos priemonės tinkamą naudojimą, priežiūrą;
 
 
 
 
-10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo 591 straipsnio  11 dalyje nurodytą informaciją;
+10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo 591 straipsnio 11 dalyje nurodytą informaciją;
 
 
 
 
-11) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti Reglamente (ES) 2017/745 nurodytą informaciją dėl medicinos priemonių atsekamumo tiekimo grandinėje;
+11) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą informaciją dėl medicinos priemonių atsekamumo tiekimo grandinėje;
 
 
 
@@ -3312,7 +3251,7 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-3. Medicinos priemonės naudotojas, išskyrus vartotojus, privalo:
+3. Sveikatos priežiūros įstaiga privalo:
 
 
 1) užtikrinti, kad medicinos priemonės būtų laikomos, naudojamos ir prižiūrimos vadovaujantis medicinos priemonių gamintojų reikalavimais ir šią veiklą reglamentuojančių teisės aktų nustatyta tvarka;
@@ -3320,7 +3259,7 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-2) sužinojęs, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba IVD reglamente nustatytų reikalavimų, nedelsdamas nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių vartotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
+2) sužinojusi, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsiant nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
 
 
 
@@ -3330,12 +3269,12 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-4) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba IVD reglamento reikalavimams ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, naudojimą ir platinimą, reikalavimams;
+4) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, naudojimą ir tiekimą, reikalavimams;
 
 
 
 
-5) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus;
+5) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus;
 
 
 
@@ -3360,7 +3299,7 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-3) bendradarbiauti su sveikatos apsaugos ministro įgaliota institucija, siekiant išvengti, sumažinti arba pašalinti nesaugių medicinos priemonių keliamą pavojų;
+3) bendradarbiauti su sveikatos apsaugos ministro įgaliota institucija siekiant išvengti nesaugių medicinos priemonių keliamo pavojaus, jį sumažinti arba pašalinti;
 
 
 
@@ -3370,7 +3309,7 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-5) vykdyti kitas Reglamente (ES) 2017/745 nustatytas pareigas.
+5) vykdyti kitas Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytas pareigas.
 
 
 
@@ -3382,11 +3321,12 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-6. Medicinos priemonių rinkos subjektai turi teisę gauti iš sveikatos apsaugos ministro įgaliotos institucijos informaciją apie jų medicinos priemonių įregistravimą, reikalavimų neatitinkančių medicinos priemonių registracijos galiojimo sustabdymą, medicinos priemonių registracijos galiojimo sustabdymo panaikinimą ar medicinos priemonių registracijos galiojimo panaikinimą, medicinos priemonių pateikimo rinkai, platinimo, naudojimo sustabdymą, medicinos priemonių pašalinimą iš rinkos, medicinos priemonių atšaukimą iš rinkos, jeigu tai neprieštarauja komercinės paslapties neviešinimo ir asmens duomenų apsaugos principams. 
+6. Medicinos priemonių rinkos subjektai turi teisę gauti iš sveikatos apsaugos ministro įgaliotos institucijos informaciją apie jų medicinos priemonių įregistravimą, reikalavimų neatitinkančių medicinos priemonių registracijos galiojimo sustabdymą, medicinos priemonių registracijos galiojimo sustabdymo panaikinimą ar medicinos priemonių registracijos galiojimo panaikinimą, medicinos priemonių pateikimo rinkai, tiekimo, naudojimo sustabdymą, medicinos priemonių pašalinimą iš rinkos, medicinos priemonių atšaukimą iš rinkos, jeigu tai neprieštarauja komercinės paslapties neviešinimo ir asmens duomenų apsaugos principams.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -3395,25 +3335,25 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 596 straipsnis. Poveikio priemonės ir jų taikymas
 
 
-1. Sveikatos apsaugos ministro įgaliota institucija, nustačiusi teisės aktų, reglamentuojančių medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų atlikimą, pažeidimus (toliau – pažeidimai), vadovaudamasi šio straipsnio 2 dalimi, taiko šias poveikio priemones:
+1. Sveikatos apsaugos ministro įgaliota institucija, nustačiusi teisės aktų, reglamentuojančių medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, tiekimą, atitikties įvertinimą, klinikinių tyrimų ir veiksmingumo tyrimų atlikimą, pažeidimus (toliau – pažeidimai), vadovaudamasi šio straipsnio 2 dalimi, taiko šias poveikio priemones:
 
 
-1) laikinai, bet ne ilgesniam kaip 90 dienų terminui nuo šio sprendimo priėmimo dienos, sustabdo medicinos priemonių pateikimą rinkai ir (arba) platinimą, ir (arba) naudojimą bei įpareigoja medicinos priemonių rinkos subjektus per nurodytą terminą pašalinti nustatytus pažeidimus;
+1) laikinai, bet ne ilgesniam kaip 90 dienų terminui nuo šio sprendimo priėmimo dienos sustabdo medicinos priemonių pateikimą rinkai ir (arba) tiekimą, ir (arba) naudojimą bei įpareigoja medicinos priemonių rinkos subjektus per nurodytą terminą pašalinti nustatytus pažeidimus;
 
 
 
 
-2) įpareigoja medicinos priemonių rinkos subjektus atšaukti ir (arba) pašalinti iš Lietuvos Respublikos rinkos Reglamento (ES) 2017/745 arba IVD reglamento reikalavimų neatitinkančias medicinos priemones arba pati jas atšaukia ir (arba) pašalina, kai medicinos priemonių rinkos subjektas nevykdo šiame punkte nurodytų įpareigojimų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+2) įpareigoja medicinos priemonių rinkos subjektus atšaukti ir (arba) pašalinti iš Lietuvos Respublikos rinkos Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimų neatitinkančias medicinos priemones arba pati jas atšaukia ir (arba) pašalina, kai medicinos priemonių rinkos subjektas nevykdo šiame punkte nurodytų įpareigojimų;
+
+
+
+
+3) uždraudžia pateikti rinkai, tiekti, naudoti medicinos priemones.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
-
-
-
-
-3) uždraudžia teikti rinkai, platinti, naudoti medicinos priemones.
-
-
 
 
 
@@ -3431,17 +3371,19 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-3) kai nustatyti pažeidimai yra susiję su medicinos priemonės platinimu, naudojimu, informacijos ir dokumentų pateikimu ir juos galima pašalinti per šio straipsnio 1 dalies 1 punkte nurodytą terminą, taiko šio straipsnio 1 dalies 1 punkte nurodytą poveikio priemonę arba, kai šiame punkte nurodytų pažeidimų negalima pašalinti ar kai jie nebuvo pašalinti per šio straipsnio 1 dalies 1 punkte nurodytą terminą, taiko šio straipsnio 1 dalies 3 punkte nurodytą poveikio priemonę; 
+3) kai nustatyti pažeidimai yra susiję su medicinos priemonės tiekimu, naudojimu, informacijos ir dokumentų pateikimu ir juos galima pašalinti per šio straipsnio 1 dalies 1 punkte nurodytą terminą, taiko šio straipsnio 1 dalies 1 punkte nurodytą poveikio priemonę arba, kai šiame punkte nurodytų pažeidimų negalima pašalinti ar kai jie nebuvo pašalinti per šio straipsnio 1 dalies 1 punkte nurodytą terminą, taiko šio straipsnio 1 dalies 3 punkte nurodytą poveikio priemonę;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
 
 
-4) kai nustatyti pažeidimai yra susiję su Reglamente (ES) 2017/745 arba IVD reglamente nurodytos atitikties įvertinimo tvarkos, registracijos tvarkos nesilaikymu, taiko šio straipsnio 1 dalies 2 ir (arba) 3 punktuose nurodytas poveikio priemones. 
+4) kai nustatyti pažeidimai yra susiję su Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytos atitikties įvertinimo tvarkos, registracijos tvarkos nesilaikymu, taiko šio straipsnio 1 dalies 2 ir (arba) 3 punktuose nurodytas poveikio priemones.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -4527,9 +4469,11 @@ Nr. IX-1472, 2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
 
 
 
-51) vykdo kompetentingos institucijos, atsakingos už Reglamento (ES) 2017/745 įgyvendinimą, funkcijas; 
+51) vykdo kompetentingos institucijos, atsakingos už Reglamento (ES) 2017/745 ir Reglamento (ES) 2017/746 įgyvendinimą, funkcijas;
 Papildyta straipsnio punktu:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Straipsnio punkto pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -4553,9 +4497,10 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-9) išduoda leidimus atlikti klinikinius tyrimus su medicinos priemone ir leidimus atlikti esminius klinikinio tyrimo su medicinos priemone pakeitimus; 
+9) išduoda leidimus atlikti klinikinius tyrimus su medicinos priemone, leidimus atlikti veiksmingumo tyrimus, leidimus atlikti esminius klinikinių tyrimų su medicinos priemone pakeitimus ir leidimus atlikti esminius veiksmingumo tyrimų pakeitimus;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -4574,9 +4519,11 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-111) teikia duomenis Europos medicinos priemonių duomenų bazei EUDAMED pagal Reglamentą (ES) 2017/745 ir IVD reglamentą; 
+111) teikia duomenis Europos medicinos priemonių duomenų bazei EUDAMED pagal Reglamentą (ES) 2017/745 ir Reglamentą (ES) 2017/746;
 Papildyta straipsnio punktu:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+Straipsnio punkto pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -5032,11 +4979,16 @@ priedas
  
 
 
-1. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB (OL 2017 L 117, p. 1). 
+1. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB.
 
 
-Papildyta priedu:
-Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
+
+
+2. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/746 dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES.
+
+
+Priedo pakeitimai:
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
  
 
 
@@ -5404,3 +5356,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1043, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08798
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 47 ir 49 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių ir priedo pakeitimo įstatymas
