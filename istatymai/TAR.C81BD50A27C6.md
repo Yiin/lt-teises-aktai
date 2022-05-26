@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-03-01 iki 2022-05-25
+Suvestinė redakcija nuo 2022-05-26 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -2706,33 +2707,37 @@ Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
 
 
 
-12) naudoti, instaliuoti ir prižiūrėti medicinos priemones 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB (OL 2017 L 117, p. 1) (toliau – Reglamentas (ES) 2017/745), arba in vitro diagnostikos medicinos priemonių saugos techninio reglamento, kurį tvirtina sveikatos apsaugos ministras (toliau – IVD reglamentas), Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatyta tvarka; 
+12) naudoti, instaliuoti ir prižiūrėti medicinos priemones 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009 ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, arba 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/746 dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatyta tvarka;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
 
 
-13) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; 
+13) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
 
 
-14) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; 
+14) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
 
 
-15) sužinojusi, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba IVD reglamento, Sveikatos sistemos įstatymo ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių vartotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
+15) sužinojusi, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, Sveikatos sistemos įstatymo ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
@@ -3023,33 +3028,37 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-5) naudoti, instaliuoti ir prižiūrėti medicinos priemones Reglamento (ES) 2017/745 arba IVD reglamento, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatyta tvarka; 
+5) naudoti, instaliuoti ir prižiūrėti medicinos priemones Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatyta tvarka;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
 
 
-6) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; 
+6) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
 
 
-7) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; 
+7) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
 
 
-8) sužinojus, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba IVD reglamento, Sveikatos sistemos įstatymo ar sveikatos apsaugos ministro nustatytų reikalavimų,  nedelsiant nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių vartotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti.
+8) sužinojus, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, Sveikatos sistemos įstatymo ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsiant nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
@@ -3330,9 +3339,10 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 
 
 
-5) medicinos priemonės naudojamos, instaliuojamos ir prižiūrimos nesilaikant Reglamento (ES) 2017/745 arba IVD reglamento, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatytų reikalavimų.
+5) medicinos priemonės naudojamos, instaliuojamos ir prižiūrimos nesilaikant Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatytų reikalavimų.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
  
 
 
@@ -3907,3 +3917,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-814, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27704
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 27, 32 ir 33 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 45, 50 ir 54 straipsnių pakeitimo įstatymas
