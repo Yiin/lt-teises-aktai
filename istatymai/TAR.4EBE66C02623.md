@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-05-05 iki 2022-05-25
+Suvestinė redakcija nuo 2022-05-26 iki 2022-05-27
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -2196,11 +2196,11 @@ užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eur
 
 
 
-59 straipsnis. Medicinos priemonių saugą, kokybę, veikimą, naudojimą, teikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų su medicinos priemonėmis ir medicinos priemonių techninės būklės tikrinimo atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas
+59 straipsnis. Medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, tiekimą, atitikties įvertinimą, klinikinių tyrimų su medicinos priemonėmis, veiksmingumo tyrimų ir medicinos priemonių techninės būklės tikrinimo atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas
 
 
-1. Medicinos priemonių saugą, kokybę, veikimą, naudojimą, teikimą rinkai, platinimą, atitikties įvertinimą, klinikinių tyrimų su medicinos priemonėmis ir medicinos priemonių techninės būklės tikrinimo atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas 
-užtraukia baudą asmenims nuo trisdešimt iki dviejų šimtų devyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų 
+1. Medicinos priemonių saugą, kokybę, veikimą, naudojimą, pateikimą rinkai, tiekimą, atitikties įvertinimą, klinikinių tyrimų su medicinos priemonėmis, veiksmingumo tyrimų ir medicinos priemonių techninės būklės tikrinimo atlikimą reglamentuojančių norminių ar kitų teisės aktų nevykdymas ar pažeidimas 
+užtraukia baudą asmenims nuo trisdešimt iki dviejų šimtų devyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
 
@@ -2212,6 +2212,7 @@ užtraukia baudą asmenims nuo dviejų šimtų aštuoniasdešimt iki šešių š
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Nr. XIII-2805, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02856
+Nr. XIV-1063, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09673
  
 
 
@@ -25809,3 +25810,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 666 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1054, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09430
 Lietuvos Respublikos administracinių nusižengimų kodekso 416 straipsnio pakeitimo įstatymas
+ 
+169.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1063, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09673
+Lietuvos Respublikos administracinių nusižengimų kodekso 59 straipsnio pakeitimo įstatymas
