@@ -18,9 +18,10 @@ LIETUVOS RESPUBLIKOS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-01-03 iki 2022-05-27
+Suvestinė redakcija nuo 2022-05-28 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -79,7 +80,18 @@ Nr. XI-562, 2009-12-10, Žin., 2009, Nr. 153-6900 (2009-12-28)
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Gamintojas – teisės aktų nustatyta tvarka Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje veikiantis (įsteigtas) asmuo, kuris:
+1. Asmens duomenys – kaip apibrėžta 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). 
+Papildyta straipsnio dalimi:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
+
+
+
+
+2. Gamintojas – teisės aktų nustatyta tvarka Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje veikiantis (įsteigtas) asmuo, kuris:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 1) pagamino gaminį arba apie tai viešai pareiškė pažymėdamas gaminį savo pavadinimu, prekių ženklu ar kitu skiriamuoju žymeniu; 
@@ -99,160 +111,227 @@ Nr. XI-562, 2009-12-10, Žin., 2009, Nr. 153-6900 (2009-12-28)
 
 
 
-2. Finansinė paslauga – draudimo ir pensijų kaupimo paslaugos ir Finansų įstaigų įstatyme nurodytos finansinės paslaugos.
+3. Finansinė paslauga – draudimo ir pensijų kaupimo paslaugos ir Finansų įstaigų įstatyme nurodytos finansinės paslaugos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-3. Finansinių paslaugų teikimo sutartis, sudaroma ryšio priemonėmis, – vartotojo ir paslaugų teikėjo finansinių paslaugų teikimo sutartis, sudaroma naudojant tik ryšio priemones (vieną ar kelias).
+4. Finansinių paslaugų teikimo sutartis, sudaroma ryšio priemonėmis, – vartotojo ir paslaugų teikėjo finansinių paslaugų teikimo sutartis, sudaroma naudojant tik ryšio priemones (vieną ar kelias).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-4. Neteko galios nuo 2014-06-13. 
+5. Neteko galios nuo 2014-06-13. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-5. Pardavėjas – verslininkas, kuris siūlo ir parduoda prekes vartotojams.
+6. Pardavėjas – verslininkas, kuris siūlo ir parduoda prekes vartotojams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-6. Pardavimo kaina – galutinė prekės, paslaugos kaina, nustatoma pinigais, su pridėtinės vertės mokesčiu ir visais kitais mokesčiais, o jei negalima nurodyti tikslios kainos, jos apskaičiavimo pavyzdys, pagal kurį vartotojas gali kainą patikrinti.
+7. Pardavimo kaina – galutinė prekės, paslaugos kaina, nustatoma pinigais, su pridėtinės vertės mokesčiu ir visais kitais mokesčiais, o jei negalima nurodyti tikslios kainos, jos apskaičiavimo pavyzdys, pagal kurį vartotojas gali kainą patikrinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-7. Paslauga – atlygintina veikla arba (ir) jos rezultatas, kuriais siūloma tenkinti ar yra tenkinamas konkretus vartotojo poreikis.
+8. Paslauga – atlygintina veikla arba (ir) jos rezultatas, kuriais siūloma tenkinti ar yra tenkinamas konkretus vartotojo poreikis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-8. Paslaugų teikėjas – verslininkas, kuris siūlo ir atlygintinai suteikia paslaugas vartotojams.
+9. Paslaugų teikėjas – verslininkas, kuris siūlo ir atlygintinai suteikia paslaugas vartotojams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-9. Patvarioji laikmena – priemonė, kuri leidžia vartotojui ar pardavėjui, paslaugų teikėjui saugoti asmeniškai jam skirtą informaciją taip, kad informacija tam tikrą laiką būtų prieinama ir kad saugomą informaciją būtų galima atkurti nepakitusią (t. y. popieriuje surašyti (spausdinti) dokumentai, USB atmintinės, kompaktinių diskų įrenginiai (CD-ROM), skaitmeniniai vaizdo diskai (DVD), atminties kortelės arba standieji kompiuterių diskai, elektroniniai laiškai ir kitos priemonės).
+10. Patvarioji laikmena – priemonė, kuri leidžia vartotojui ar pardavėjui, paslaugų teikėjui saugoti asmeniškai jam skirtą informaciją taip, kad informacija tam tikrą laiką būtų prieinama ir kad saugomą informaciją būtų galima atkurti nepakitusią (t. y. popieriuje surašyti (spausdinti) dokumentai, USB atmintinės, kompaktinių diskų įrenginiai (CD-ROM), skaitmeniniai vaizdo diskai (DVD), atminties kortelės arba standieji kompiuterių diskai, elektroniniai laiškai ir kitos priemonės).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-10. Pradinė finansinių paslaugų teikimo sutartis – vartotojo ir finansinių paslaugų teikėjo sudaryta finansinių paslaugų teikimo sutartis, neapimanti ateityje atliekamų to paties pobūdžio viena po kitos einančių arba atskirų operacijų.
+11. Pradinė finansinių paslaugų teikimo sutartis – vartotojo ir finansinių paslaugų teikėjo sudaryta finansinių paslaugų teikimo sutartis, neapimanti ateityje atliekamų to paties pobūdžio viena po kitos einančių arba atskirų operacijų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
 
-11. Prekė – kiekvienas daiktas, siūlomas parduoti arba parduodamas vartotojui. Šilumos ir elektros energija, vanduo, gamtinės dujos taip pat laikomi prekėmis, jeigu kiti įstatymai nenustato kitaip.
+12. Prekė:
+
+
+1) materialus kilnojamasis daiktas;
 
 
 
 
-12. Ryšio priemonės – priemonės, kurios fiziškai tuo pačiu metu nedalyvaujant pardavėjui ar paslaugų teikėjui ir vartotojui gali būti naudojamos pardavėjo ar paslaugų teikėjo ir vartotojo sutarčiai sudaryti.
+2) elektros energija, vanduo ir gamtinės dujos, kai parduodamas ribotas jų tūris arba nustatytas kiekis;
 
 
 
 
-13. Tarptautinis vartojimo ginčas – vartojimo ginčas, kai vartotojas prekių ar paslaugų užsakymo metu gyvena ne toje valstybėje narėje, kurioje yra įsisteigęs pardavėjas ar paslaugų teikėjas. 
+3) materialus kilnojamasis daiktas, į kurį įtrauktas skaitmeninis turinys ar skaitmeninė paslauga arba kuris yra su skaitmeniniu turiniu ar skaitmenine paslauga susietas taip, kad be jų negalėtų atlikti savo funkcijų (skaitmeninių elementų turinti prekė).
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
+
+
+
+
+13. Ryšio priemonės – priemonės, kurios fiziškai tuo pačiu metu nedalyvaujant pardavėjui ar paslaugų teikėjui ir vartotojui gali būti naudojamos pardavėjo ar paslaugų teikėjo ir vartotojo sutarčiai sudaryti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
+
+
+
+
+14. Tarptautinis vartojimo ginčas – vartojimo ginčas, kai vartotojas prekių ar paslaugų užsakymo metu gyvena ne toje valstybėje narėje, kurioje yra įsisteigęs pardavėjas ar paslaugų teikėjas. 
 Papildyta straipsnio dalimi:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-14. Tinkamumo naudoti terminas – terminas, kuriam suėjus laikoma, kad prekė netinka naudoti pagal paskirtį, t. y. prekės savybės, kurių vartotojas galėjo tikėtis iki šio termino pabaigos, yra arba gali būti blogesnės, negu nustatyta tai prekei taikomame techniniame reglamente ir (ar) gamintojo dokumentuose (deklaracijose, pareiškimuose).
+15. Tinkamumo naudoti terminas – terminas, kuriam suėjus laikoma, kad prekė netinka naudoti pagal paskirtį, t. y. prekės savybės, kurių vartotojas galėjo tikėtis iki šio termino pabaigos, yra arba gali būti blogesnės, negu nustatyta tai prekei taikomame techniniame reglamente ir (ar) gamintojo dokumentuose (deklaracijose, pareiškimuose).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-15. Valstybė narė – Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė (Islandija, Lichtenšteinas, Norvegija). 
+16. Valstybė narė – Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė (Islandija, Lichtenšteinas, Norvegija). 
 Papildyta straipsnio dalimi:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-16. Vartojimo ginčas – iš vartojimo sutarties kilęs vartotojo ir pardavėjo ar paslaugų teikėjo nesutarimas dėl fakto ir (ar) teisės klausimų. 
+17. Vartojimo ginčas – iš vartojimo sutarties kilęs vartotojo ir pardavėjo ar paslaugų teikėjo nesutarimas dėl fakto ir (ar) teisės klausimų. 
 Papildyta straipsnio dalimi:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-17. Vartojimo ginčų neteisminio sprendimo procedūra – vartojimo ginčų sprendimas ne teismo tvarka, kai vartojimo ginčą pagal šio įstatymo 222–225 straipsniuose nustatytus reikalavimus sprendžia vartojimo ginčų neteisminio sprendimo subjektas. 
+18. Vartojimo ginčų neteisminio sprendimo procedūra – vartojimo ginčų sprendimas ne teismo tvarka, kai vartojimo ginčą pagal šio įstatymo 222–225 straipsniuose nustatytus reikalavimus sprendžia vartojimo ginčų neteisminio sprendimo subjektas. 
 Papildyta straipsnio dalimi:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-18. Vartojimo ginčų neteisminio sprendimo subjektas – šio įstatymo 22 straipsnio 1 dalyje nurodyta vartojimo ginčus nagrinėjanti institucija ar šio įstatymo 222 straipsnyje nurodytas kitas vartojimo ginčų neteisminio sprendimo subjektas, pagal vartojimo ginčų neteisminio sprendimo procedūrą nagrinėjantys vartojimo ginčus ir įrašyti į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 292 straipsnį. 
+19. Vartojimo ginčų neteisminio sprendimo subjektas – šio įstatymo 22 straipsnio 1 dalyje nurodyta vartojimo ginčus nagrinėjanti institucija ar šio įstatymo 222 straipsnyje nurodytas kitas vartojimo ginčų neteisminio sprendimo subjektas, pagal vartojimo ginčų neteisminio sprendimo procedūrą nagrinėjantys vartojimo ginčus ir įrašyti į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 292 straipsnį. 
 Papildyta straipsnio dalimi:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-19. Vartotojas – fizinis asmuo, su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekiantis sudaryti ar sudarantis sutartis.
+20. Vartotojas – fizinis asmuo, su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekiantis sudaryti ar sudarantis sutartis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-20. Vartotojų informavimas – žinių, susijusių su vartotojų poreikių tenkinimu ir jų teisių apsauga, suteikimas ir skleidimas.
+21. Vartotojų informavimas – žinių, susijusių su vartotojų poreikių tenkinimu ir jų teisių apsauga, suteikimas ir skleidimas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-21. Vartotojų konsultavimas – patarimai ir praktinė pagalba vartotojams vartotojų teisių apsaugos klausimais.
+22. Vartotojų konsultavimas – patarimai ir praktinė pagalba vartotojams vartotojų teisių apsaugos klausimais.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-22. Vartotojų švietimas – vartotojų ugdymas, vartotojų informavimas ir vartotojų konsultavimas. 
+23. Vartotojų švietimas – vartotojų ugdymas, vartotojų informavimas ir vartotojų konsultavimas. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-23. Vartotojų ugdymas – procesas, kurio metu pagrindinis dėmesys skiriamas vartotojų teisių suvokimui, kritinio mąstymo, sprendimų ir informacijos priėmimo gebėjimams ugdyti, ir apima formalųjį švietimą (pradinį, pagrindinį, vidurinį ugdymą, profesinį mokymą, aukštesniąsias ir aukštojo mokslo studijas) ir neformalųjį švietimą (ikimokyklinį, priešmokyklinį ugdymą ir kitą neformalųjį vaikų ir suaugusiųjų švietimą).
+24. Vartotojų ugdymas – procesas, kurio metu pagrindinis dėmesys skiriamas vartotojų teisių suvokimui, kritinio mąstymo, sprendimų ir informacijos priėmimo gebėjimams ugdyti, ir apima formalųjį švietimą (pradinį, pagrindinį, vidurinį ugdymą, profesinį mokymą, aukštesniąsias ir aukštojo mokslo studijas) ir neformalųjį švietimą (ikimokyklinį, priešmokyklinį ugdymą ir kitą neformalųjį vaikų ir suaugusiųjų švietimą).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-24. Verslininkas – fizinis asmuo arba juridinis asmuo ar kita organizacija, ar jų padalinys, savo prekybos, verslo, amato arba profesijos tikslais siekiantys sudaryti ar sudarantys sutartis, įskaitant asmenis, veikiančius verslininko vardu arba jo naudai. Juridinis asmuo gali būti laikomas verslininku neatsižvelgiant į jo dalyvių teisinę formą.
+25. Verslininkas – fizinis asmuo arba juridinis asmuo ar kita organizacija, ar jų padalinys, savo prekybos, verslo, amato arba profesijos tikslais siekiantys sudaryti ar sudarantys sutartis, įskaitant asmenis, veikiančius verslininko vardu arba jo naudai. Juridinis asmuo gali būti laikomas verslininku neatsižvelgiant į jo dalyvių teisinę formą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-25. Šiame įstatyme vartojama sąvoka „elektroninė sąsaja“ suprantama taip, kaip ji apibrėžta Reglamente (ES) 2017/2394. 
+26. Šiame įstatyme vartojama sąvoka „elektroninė sąsaja“ suprantama taip, kaip ji apibrėžta Reglamente (ES) 2017/2394. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
@@ -3044,25 +3123,70 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
 
 
-4. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 5 ir 6 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Skiriant baudą už šio straipsnio 1 dalyje nurodytus pažeidimus, baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos nutarime. Skiriant baudą už šio straipsnio 2 dalyje nurodytus pažeidimus, baudos dydis nustatomas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+4. Skiriant konkrečią baudą, atsižvelgiama į pažeidimo pobūdį, sunkumą, mastą ir trukmę, verslininko gautą finansinę naudą ar išvengtus nuostolius ir į šio straipsnio 5 ir 6 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Skiriant baudą už šio straipsnio 1 dalyje nurodytus pažeidimus, baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos nutarime. Skiriant baudą už šio straipsnio 2 dalyje nurodytus pažeidimus, baudos dydis nustatomas Vyriausybės nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
 
 
-5. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad verslininkas, padaręs pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo Valstybinei vartotojų teisių apsaugos tarnybai tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą. Valstybinė vartotojų teisių apsaugos tarnyba gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes.
+5. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad: 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
  
 
 
+1) verslininkas, padaręs pažeidimą, savo noru užkirto kelią žalingiems pažeidimo padariniams; 
 
 
-6. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad verslininkas kliudė atlikti tyrimą, slėpė padarytą pažeidimą arba pakartotinai per vienus metus padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas, išskyrus šio straipsnio 2 dalyje nurodytus pažeidimus.
+
+
+2) verslininkas, padaręs pažeidimą, ėmėsi veiksmų, kad sumažintų vartotojų patirtą žalą, ar ją atlygino; 
+
+
+
+
+3) verslininkas, padaręs pažeidimą, tyrimo metu bendradarbiavo su Valstybine vartotojų teisių apsaugos tarnyba;
+
+
+
+
+4) verslininkas savo valia nutraukė pažeidimą; 
+
+
+
+
+5) yra kitų aplinkybių, kurias Valstybinė vartotojų teisių apsaugos tarnyba pripažino atsakomybę lengvinančiomis.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
+
+
+
+
+6. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad: 
+
+
+1) verslininkas, padaręs pažeidimą, kliudė atlikti tyrimą; 
+
+
+
+
+2) verslininkas, padaręs pažeidimą, slėpė padarytą pažeidimą; 
+
+
+
+
+3) verslininkas pakartotinai per trejus metus padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas, išskyrus šio straipsnio 2 dalyje nurodytus pažeidimus, arba jam už tą patį pažeidimą buvo skirta sankcija kitose Europos Sąjungos valstybėse narėse tarpvalstybinių pažeidimų atvejais, kai tokia informacija yra prieinama pagal Reglamentą (ES) 2017/2394.
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
@@ -3095,6 +3219,14 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 10. Bauda pagal šį straipsnį negali būti skiriama, jeigu nuo pažeidimo padarymo dienos praėjo daugiau kaip treji metai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
+ 
+
+
+
+
+11. Valstybinė vartotojų teisių apsaugos tarnyba Reglamento (ES) 2017/2394 21 straipsnyje nustatytais atvejais už šio straipsnio 1 dalyje nurodytą pažeidimą, kuris yra plačiai paplitęs pažeidimas ar Sąjungos mastu plačiai paplitęs pažeidimas, kaip jie apibrėžti šiame reglamente, verslininkui, atsakingam už šį plačiai paplitusį pažeidimą ar Sąjungos mastu plačiai paplitusį pažeidimą, gali skirti iki 4 procentų jo metinių pajamų praėjusiais finansiniais metais atitinkamoje valstybėje narėje ar valstybėse narėse dydžio baudą. Jeigu verslininkas nepateikia informacijos apie savo metines pajamas, jam gali būti skiriama iki dviejų milijonų eurų bauda. Skiriamos baudos dydis nustatomas Vyriausybės nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį, sunkumą, mastą, trukmę, verslininko gautą finansinę naudą ar išvengtus nuostolius, ankstesnius verslininko padarytus teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus, atsakomybę lengvinančias ar sunkinančias aplinkybes.
+Papildyta straipsnio dalimi:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
  
 
 
@@ -3646,7 +3778,10 @@ priedas
 
 
 
-4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302.
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161.
+Punkto pakeitimai:
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+ 
 
 
 
@@ -3865,3 +4000,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, 40 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, 22-2, 23, 23-3, 25, 27, 28, 29-3, 32, 33, 40 straipsnių pakeitimo ir Įstatymo papildymo 35-1, 35-2 straipsniais įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 40 straipsnių ir priedo pakeitimo įstatymas
