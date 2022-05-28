@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-05-27
+Suvestinė redakcija nuo 2022-05-28 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -427,12 +427,25 @@ Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 
 
 
-3. Nacionalinė kolektyvinė sutartis yra profesinių sąjungų organizacijų (susivienijimo, federacijos, centro ir kt.), atstovaujančių valstybės tarnautojams, ir Vyriausybės rašytinis susitarimas, kuriame nustatomi Lietuvos valstybės tarnautojų darbo užmokesčio, tarnybos (darbo), poilsio laiko ir kitos socialinės ir ekonominės sąlygos.
+3. Nacionalinė kolektyvinė sutartis yra profesinių sąjungų organizacijų, atstovaujančių valstybės tarnautojams, ir Vyriausybės ar jos įgaliotos institucijos rašytinis susitarimas, kuriame nustatomos Lietuvos valstybės tarnautojų darbo užmokesčio, tarnybos (darbo), poilsio laiko ir kitos socialinės ir ekonominės sąlygos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1111, 2022-05-19, paskelbta TAR 2022-05-27, i. k. 2022-11335
+ 
 
 
 
 
-4. Įstaigos kolektyvinė sutartis yra rašytinis susitarimas, kuris sudaromas tarp valstybės ar savivaldybės institucijos ar įstaigos vadovo arba jo įgalioto asmens ir valstybės tarnautojams atstovaujančios valstybės ar savivaldybės institucijoje ar įstaigoje veikiančios valstybės tarnautojų profesinės sąjungos ir kuriame nustatomi valstybės ar savivaldybės institucijos ar įstaigos valstybės tarnautojų tarnybos (darbo) ir kitos socialinės ir ekonominės sąlygos. 
+4. Šakos kolektyvinė sutartis yra profesinių sąjungų organizacijų, atstovaujančių valstybės tarnautojams, dirbantiems vienoje viešojo administravimo veiklos srityje, ir Vyriausybės ar jos įgaliotų institucijų rašytinis susitarimas, kuriame nustatomos vienos viešojo administravimo veiklos srities valstybės tarnautojų darbo užmokesčio, tarnybos (darbo) ir poilsio laiko ir kitos socialinės ir ekonominės sąlygos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1111, 2022-05-19, paskelbta TAR 2022-05-27, i. k. 2022-11335
+ 
+
+
+
+
+5. Įstaigos kolektyvinė sutartis yra rašytinis susitarimas, kuris sudaromas tarp valstybės ar savivaldybės institucijos ar įstaigos vadovo arba jo įgalioto asmens ir valstybės tarnautojams atstovaujančios valstybės ar savivaldybės institucijoje ar įstaigoje veikiančios valstybės tarnautojų profesinės sąjungos ir kuriame nustatomi valstybės ar savivaldybės institucijos ar įstaigos valstybės tarnautojų tarnybos (darbo) ir kitos socialinės ir ekonominės sąlygos. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1111, 2022-05-19, paskelbta TAR 2022-05-27, i. k. 2022-11335
  
 
 
@@ -3129,6 +3142,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 valstybės tarnybos įstatymo
@@ -3284,9 +3299,10 @@ Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
 Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 Nr. XIV-711, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25137
  
+part_636b9ce3283e4fb09ece8eff3a14574a_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -3547,8 +3563,7 @@ Priedo pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
  
-
-
+part_f369861bfb2f4715a27e52108d3e3d24_end
 
 
  
@@ -4347,3 +4362,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 11, 14, 16, 17, 18, 19, 21, 27, 29, 30, 47, 49 ir 51 straipsnių pakeitimo ir 37 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1111, 2022-05-19, paskelbta TAR 2022-05-27, i. k. 2022-11335
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 6 straipsnio pakeitimo įstatymas
