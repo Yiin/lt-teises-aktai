@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2022-05-27
+Suvestinė redakcija nuo 2022-05-28 iki 2022-10-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
  
@@ -857,7 +857,9 @@ Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 
 
 
-2. Kremuoti palaikai yra laidojami (saugomi) dedant juos į kapavietę kapinėse arba į nišą kolumbariume, o pelenai išbarstomi kapinių kremuotų palaikų barstymo lauke ar kitaip Vyriausybės ar jos įgaliotos institucijos patvirtintų kapinių tvarkymo taisyklių nustatyta tvarka, tačiau tai turi būti atlikta nepažeidžiant kitų asmenų teisių ir teisėtų interesų bei viešosios tvarkos. Kremuoti žmogaus palaikai urnoje gali būti laikinai saugomi namuose ar kitose saugojimui tinkamose vietose. 
+2. Kremuoti žmogaus palaikai yra laidojami (saugomi) dedant juos į kapavietę kapinėse arba į nišą kolumbariume, o kremuotų palaikų pelenai išbarstomi kapinėse esančiame kremuotų palaikų pelenų barstymo lauke, ne arčiau kaip 5 km nuo kranto Baltijos jūroje, upėse, išskyrus urbanizuotas teritorijas ir paplūdimius, ar kitaip Vyriausybės ar jos įgaliotos institucijos tvirtinamose Kapinių tvarkymo taisyklėse nustatyta tvarka, tačiau tai turi būti atlikta nepažeidžiant kitų asmenų teisių ir teisėtų interesų bei viešosios tvarkos. Kremuoti žmogaus palaikai urnoje gali būti laikinai saugomi namuose ar kitose saugojimui tinkamose vietose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1087, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11306
  
 
 
@@ -1751,3 +1753,8 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 10 ir 24 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2971, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11356
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 11-1 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1087, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11306
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 15 straipsnio pakeitimo įstatymas
