@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/da8c3a000f6411e9a5eaf2cd290f1944"
 
 # Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 2, 5, 6, 43 straipsnių pakeitimo ir Įstatymo papildymo 43-2, 43-3 straipsniais įstatymas
 
+Suvestinė redakcija nuo 2022-05-28
+ 
+Įstatymas paskelbtas: TAR 2019-01-03, i. k. 2019-00094
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMO NR. XI-1807 1, 2, 5, 6, 43 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 432, 433 STRAIPSNIAIS
 ĮSTATYMAS
@@ -300,7 +307,10 @@ Papildyti Įstatymą 433 straipsniu:
 
 
 
-2. Valstybinių duomenų centrų naudotojai pradeda naudotis valstybinių duomenų centrų paslaugomis ne vėliau kaip per trejus metus nuo jų įtraukimo į Saugiojo tinklo naudotojų sąrašą dienos.
+2. Valstybinių duomenų centrų naudotojai pradeda naudotis valstybinių duomenų centrų paslaugomis ne vėliau kaip 2024 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1078, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11313
+ 
 
 
 
@@ -318,3 +328,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1078, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11313
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 2, 5, 6, 43 straipsnių pakeitimo ir Įstatymo papildymo 43-2, 43-3 straipsniais įstatymo Nr. XIII-1871 9 straipsnio pakeitimo įstatymas
