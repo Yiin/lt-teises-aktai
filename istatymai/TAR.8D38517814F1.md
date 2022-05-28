@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-05-27
+Suvestinė redakcija nuo 2022-05-28 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -1419,7 +1419,7 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 42 straipsnis. Atliekas tvarkančių įmonių civilinės atsakomybės draudimas
 
 
-1. Pavojingąsias ir (ar) padangų atliekas surenkančios, vežančios, apdorojančios įmonės (toliau šiame straipsnyje – veiklos vykdytojas) apdraudžia savo civilinę atsakomybę už žalą, kuri vykdant tokią veiklą ar dėl veiklos vykdytojo neatsargumo ar tyčios gali būti padaryta tretiesiems asmenims ir (ar) jų turtui bei aplinkai.
+1. Pavojingąsias ir (ar) padangų atliekas surenkančios, vežančios, apdorojančios įmonės (toliau šiame straipsnyje – veiklos vykdytojas) apdraudžia savo civilinę atsakomybę už žalą, kuri vykdant tokią veiklą dėl veiklos vykdytojo neatsargumo ar tyčios gali būti padaryta trečiųjų asmenų gyvybei ar sveikatai, taip pat kuri vykdant tokią veiklą dėl veiklos vykdytojo neatsargumo ar tyčios, kai tyčiniai veiksmai yra socialiai vertingi (būtinoji gintis, pilietinės pareigos atlikimas ir kt.), gali būti padaryta trečiųjų asmenų turtui ir (ar) aplinkai. Jeigu žala trečiųjų asmenų gyvybei ar sveikatai padaroma dėl veiklos vykdytojo tyčios, draudikas, išmokėjęs draudimo išmoką, turi teisę išreikalauti sumokėtą sumą iš veiklos vykdytojo.
 
 
 
@@ -1429,40 +1429,40 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 
 
-3. Draudimo objektas yra veiklos vykdytojo turtiniai interesai, susiję su jo civiline atsakomybe, atsirandančia dėl veiklos vykdytojo veiksmais surenkant, vežant ar apdorojant atliekas padarytos žalos tretiesiems asmenims ir (ar) jų turtui bei aplinkai. Žalos aplinkai atlyginimas kartu apima ir draudėjo civilinę atsakomybę dėl draudėjo neteisėta veika (veikimu, neveikimu) padarytos žalos aplinkai, apskaičiuotos pagal aplinkos ministro patvirtintą aplinkai padarytos žalos atlyginimo dydžių apskaičiavimo metodiką, kai yra tenkinamos visos šiame straipsnyje nustatytos ir kitos draudimo sutarties sąlygos, nurodytos šio straipsnio 11 dalyje.
+3. Draudimo objektas yra veiklos vykdytojo turtiniai interesai, susiję su jo civiline atsakomybe, atsirandančia dėl veiklos vykdytojo veiksmais surenkant, vežant ar apdorojant atliekas padarytos žalos trečiųjų asmenų gyvybei ar sveikatai ir (ar) jų turtui, ir (ar) aplinkai. Žalos aplinkai atlyginimas kartu apima ir draudėjo civilinę atsakomybę dėl draudėjo neteisėta veika (veikimu, neveikimu) padarytos žalos aplinkai, apskaičiuotos pagal aplinkos ministro patvirtintą aplinkai padarytos žalos atlyginimo dydžių apskaičiavimo metodiką, kai yra tenkinamos visos šiame straipsnyje nustatytos ir kitos draudimo sutarties sąlygos, nurodytos šio straipsnio 11 dalyje.
 
 
 
 
-4. Draudžiamasis įvykis yra staigus ir netikėtas įvykis, dėl kurio draudėjui (veiklos vykdytojui) pareikštas reikalavimas atlyginti trečiajam asmeniui ir (ar) jo turtui bei aplinkai atsiradusią žalą, padarytą vykdant draudimo sutartimi apdraustą veiklą, jeigu yra visos šios sąlygos:
+4. Reikalavimas atlyginti trečiojo asmens gyvybei ar sveikatai ir (ar) jo turtui, ir (ar) aplinkai padarytą žalą vykdant draudimo sutartimi apdraustą veiklą gali būti pareikštas, jeigu draudžiamasis įvykis yra staigus ir netikėtas ir atitinka visas šias sąlygas:
 
 
-1) reikalavimas atlyginti žalą draudėjui arba draudikui yra pareikštas draudimo sutarties galiojimo laikotarpiu ir (ar) per 3 metus nuo draudimo sutarties galiojimo pabaigos; 
-
-
-
-
-2) reikalavimas pareikštas dėl žalos, atsiradusios draudimo sutarties galiojimo laikotarpiu arba atgaline data nustatomu draudimo sutarties galiojimo laikotarpiu, jeigu draudimo sutartyje nenustatytos kitos sąlygos; 
+1) reikalavimas atlyginti žalą draudėjui arba draudikui yra pareikštas draudimo sutarties galiojimo laikotarpiu ir (ar) per 3 metus nuo draudimo sutarties galiojimo pabaigos;
 
 
 
 
-3) reikalavimas pareikštas dėl veiksmų, atliktų draudimo sutarties galiojimo laikotarpiu ir atgaline data nustatomu draudimo sutarties galiojimo laikotarpiu, jeigu draudimo sutartyje nenustatytos kitos sąlygos; 
+2) reikalavimas yra pareikštas dėl žalos, padarytos draudimo sutarties galiojimo laikotarpiu arba draudimo sutartyje nustatytu laikotarpiu iki draudimo sutarties įsigaliojimo, jeigu dėl jo buvo susitarta individualiai;
 
 
 
 
-4) reikalavimas pareikštas dėl veiksmų, atliktų draudimo teritorijoje ir dėl draudimo teritorijoje atsiradusios žalos; 
+3) reikalavimas yra pareikštas dėl veiksmų, atliktų draudimo sutarties galiojimo laikotarpiu arba draudimo sutartyje nustatytu laikotarpiu iki draudimo sutarties įsigaliojimo, jeigu dėl jo buvo susitarta individualiai;
 
 
 
 
-5) reikalavimas atlyginti žalą pareikštas rašytinės pretenzijos ir (ar) ieškinio forma; 
+4) reikalavimas yra pareikštas dėl veiksmų, atliktų draudimo teritorijoje, ir dėl draudimo teritorijoje atsiradusios žalos;
 
 
 
 
-6) draudėjas pagal jo atsakomybei taikomus įstatymus atsako už atsiradusią žalą; 
+5) reikalavimas atlyginti žalą yra pareikštas rašytinės pretenzijos ir (ar) ieškinio forma;
+
+
+
+
+6) draudėjas pagal jo atsakomybei taikomus įstatymus atsako už atsiradusią žalą;
 
 
 
@@ -1479,7 +1479,7 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 
 
-5. Draudimo išmoką draudikas moka nukentėjusiam trečiajam asmeniui ir (ar) aplinkos  ministro įgaliotai institucijai, kuri pagal Lietuvos Respublikos teisės aktus yra atsakinga už aplinkai padarytos žalos nustatymą.
+5. Draudimo išmoką draudikas moka nukentėjusiam trečiajam asmeniui ir (ar) aplinkos ministro įgaliotai institucijai, kuri pagal Lietuvos Respublikos teisės aktus yra atsakinga už aplinkai padarytos žalos nustatymą.
 
 
 
@@ -1489,7 +1489,7 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 
 
-7. Reikalavimą išmokėti draudimo išmoką teikiantis nukentėjęs trečiasis asmuo ir (ar) aplinkos ministro įgaliota institucija, kuri pagal Lietuvos Respublikos teisės aktus yra atsakinga už aplinkai padarytos žalos nustatymą, ir (ar) veiklos vykdytojas privalo pateikti draudikui visus turimus dokumentus ir informaciją apie draudžiamojo įvykio aplinkybes ir pasekmes, būtinus nustatant draudimo išmokos dydį. Draudiko reikalavimu šioje dalyje nurodyti asmenys taip pat privalo jam pateikti būtinus nustatant draudimo išmokos dydį dokumentus apie draudžiamojo įvykio aplinkybes ir pasekmes, kuriuos draudikas turi teisę gauti įstatymų ir kitų teisės aktų nustatyta tvarka. 
+7. Reikalavimą išmokėti draudimo išmoką teikiantis nukentėjęs trečiasis asmuo ir (ar) aplinkos ministro įgaliota institucija, kuri pagal Lietuvos Respublikos teisės aktus yra atsakinga už aplinkai padarytos žalos nustatymą, ir (ar) veiklos vykdytojas privalo pateikti draudikui visus turimus dokumentus ir informaciją apie draudžiamojo įvykio aplinkybes ir pasekmes, būtinus nustatant draudimo išmokos dydį. Draudiko reikalavimu šioje dalyje nurodyti asmenys taip pat privalo jam pateikti būtinus nustatant draudimo išmokos dydį dokumentus apie draudžiamojo įvykio aplinkybes ir pasekmes, kuriuos draudikas turi teisę gauti įstatymų ir kitų teisės aktų nustatyta tvarka.
 
 
 
@@ -1499,7 +1499,7 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 
 
-9. Nauja draudimo sutartis turi būti sudaroma likus ne mažiau kaip 10 darbo dienų iki buvusios draudimo sutarties galiojimo pabaigos ir įsigalioja baigus galioti buvusiai sutarčiai. 
+9. Nauja draudimo sutartis turi būti sudaroma likus ne mažiau kaip 10 darbo dienų iki buvusios draudimo sutarties galiojimo pabaigos ir įsigalioja baigus galioti buvusiai sutarčiai.
 
 
 
@@ -1509,16 +1509,16 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 
 
-11. Kitas, negu nurodytas šiame straipsnyje, draudimo sutarties sąlygas nustato Civilinis kodeksas, Lietuvos Respublikos draudimo įstatymas, draudiko ir veiklos vykdytojo susitarimas.
+11. Kitas, negu nurodytos šiame straipsnyje, draudimo sutarties sąlygas nustato Civilinis kodeksas, Lietuvos Respublikos draudimo įstatymas, draudiko ir veiklos vykdytojo susitarimas.
 
 
 
 
-12. Veiklos vykdytojo prievolės turėti civilinės atsakomybės draudimą priežiūrą vykdo aplinkos ministro įgaliota institucija aplinkos ministro nustatyta tvarka. 
+12. Veiklos vykdytojo prievolės turėti civilinės atsakomybės draudimą priežiūrą vykdo aplinkos ministro įgaliota institucija aplinkos ministro nustatyta tvarka.
 
 
-Papildyta straipsniu:
-Nr. XIV-488, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15869
+Straipsnio pakeitimai:
+Nr. XIV-1097, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11332
  
 
 
@@ -1934,6 +1934,9 @@ Nr. IX-2214, 2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
 Nr. XI-1892, 2011-12-22, Žin., 2012, Nr. 6-190 (2012-01-10)
 
 
+Straipsnio pakeitimai:
+Nr. IX-2214, 2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
+Nr. XI-1892, 2011-12-22, Žin., 2012, Nr. 6-190 (2012-01-10)
 
 
 Straipsnio pakeitimai:
@@ -4551,7 +4554,6 @@ GAMINIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ORGANIZAVIMO LICENCIJAVIMAS
 
 
 3. Gaminių ar pakuočių atliekų tvarkymo organizavimo licencija išduodama neterminuotam laikui.
- 
 
 
 
@@ -4763,7 +4765,6 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 1) vykdyti atliekų tvarkymo veiklos organizavimo plane, atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų prevencijos ir tvarkymo klausimais programoje numatytas priemones;
-TAR pastaba. 1 punktas įsigalioja 2023-01-01.
 
 
 
@@ -4774,25 +4775,21 @@ TAR pastaba. 1 punktas įsigalioja 2023-01-01.
 
 
 3) licencijuojamos veiklos priežiūrą atliekančiai institucijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti atliekų tvarkymo veiklos organizavimo plano vykdymo ir atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų prevencijos ir tvarkymo klausimais programoje numatytų priemonių įgyvendinimo ataskaitą;
-TAR pastaba. 3 punktas įsigalioja 2023-01-01.
 
 
 
 
 4) kartu su šios dalies 3 punkte nurodyta ataskaita licencijuojamos veiklos priežiūrą atliekančiai institucijai pateikti pagal veiklos patikrinimo techninę užduotį auditoriaus parengtą faktinių pastebėjimų ataskaitą ir šią ataskaitą paskelbti licencijos turėtojo interneto svetainėje;
-TAR pastaba. 4 punktas įsigalioja 2023-01-01.
 
 
 
 
 5) kartu su šios dalies 3 punkte nurodyta ataskaita licencijuojamos veiklos priežiūrą atliekančiai institucijai pateikti metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada;
-TAR pastaba. 5 punktas įsigalioja 2023-01-01.
 
 
 
 
 6) licencijuojamos veiklos priežiūrą atliekančiai institucijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kas ketvirtį teikti informaciją apie praėjusį ketvirtį vykdytas atliekų tvarkymo veiklos organizavimo plane, atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų prevencijos ir tvarkymo klausimais programoje numatytas priemones;
-TAR pastaba. 6 punktas įsigalioja 2023-01-01.
 
 
 
@@ -4817,7 +4814,7 @@ TAR pastaba. 6 punktas įsigalioja 2023-01-01.
 
 
 
-11) praėjusių finansinių metų turto, nuosavo kapitalo, finansavimo sumų ir įsipareigojimų balansas turi būti teigiamas.
+11) praėjusių finansinių metų turto, nuosavo kapitalo, finansavimo sumų ir įsipareigojimų balansas turi būti teigiamas;
 
 
 
@@ -4825,13 +4822,11 @@ TAR pastaba. 6 punktas įsigalioja 2023-01-01.
 
 
 2. Licencijos turėtojas privalo aplinkos ministro nustatyta tvarka ir terminais kiekvienais metais savo interneto svetainėje paskelbti šio straipsnio 1 dalies 3 punkte nurodytą ataskaitą, įskaitant privalomus su šia ataskaita paskelbti šio straipsnio 1 dalies 4 ir 5 punktuose nurodytus dokumentus, kaip numatyta Lietuvos Respublikos asociacijų įstatyme ir Lietuvos Respublikos viešųjų įstaigų įstatyme. Licencijos turėtojo interneto svetainėje turi būti skelbiami ne mažiau kaip penkerių paskutinių ataskaitinių metų dokumentai, nurodyti šio straipsnio 1 dalies 4 ir 5 punktuose.
-TAR pastaba. 2 dalis įsigalioja 2023-01-01.
 
 
 
 
 3. Licencijos turėtojas kartu su šio straipsnio 1 dalies 3 punkte nurodyta ataskaita ir šio straipsnio 1 dalies 4 ir 5 punktuose nurodytais dokumentais privalo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka licencijuojamos veiklos priežiūrą atliekančiai institucijai pateikti informaciją ir (ar) dokumentus, įrodančius, kad licencijos turėtojas laikosi licencijuojamos veiklos sąlygų: pasirašytų sutarčių kopijas, išskyrus sutartyse pateiktą konfidencialią informaciją, gaminių ar pakuočių atliekų sutvarkymą įrodančių dokumentų kopijas, sąskaitas faktūras ir (ar) kitus dokumentus ir medžiagą, įrodančius, kad organizuotos ir vykdytos konkrečios visuomenės informavimo priemonės, dokumentus, įrodančius, kad apmokėtos gaminių ar pakuočių atliekų tvarkymo išlaidos ir visuomenės švietimo ir informavimo (gaminių ar pakuočių atliekų tvarkymo klausimais) priemonių organizavimo ir vykdymo išlaidos, kaip numatyta šiame Įstatyme ir Pakuočių ir pakuočių atliekų tvarkymo įstatyme.
-TAR pastaba. 3 dalis įsigalioja 2023-01-01.
 
 
 Straipsnio pakeitimai:
@@ -5848,3 +5843,13 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3-3, 25, 28,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-488, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15869
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4, 10 ir 11 straipsnių pakeitimo ir Įstatymo papildymo 4-2 straipsniu įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 11-2, 12, 28, 30, 30-1, 30-2, 35-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1, 30-3, 30-4, 30-5, 30-6, 30-7, 30-8, 30-9 straipsniais, septintuoju-1 ir septintuoju-2 skirsniais įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1097, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11332
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4-2 straipsnio pakeitimo įstatymas
