@@ -21,7 +21,7 @@ DRAUDIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2022-01-05 iki 2022-05-27
+Suvestinė redakcija nuo 2022-05-28
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 6-212, i. k. 1071010ISTA00X-1409
  
@@ -112,7 +112,10 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-8. Produktas – prekė arba paslauga (veikla ir (arba) jos rezultatas), įskaitant nekilnojamuosius daiktus, teises ir pareigas.
+8. Produktas – prekė arba paslauga (veikla ir (arba) jos rezultatas), įskaitant nekilnojamuosius daiktus, skaitmenines paslaugas ir skaitmeninį turinį, teises ir pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
 
 
 
@@ -141,6 +144,13 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 13. Vidutinis vartotojas – vartotojas, kuris yra pakankamai informuotas, protingai atidus ir apdairus, atsižvelgiant į socialinius, kultūrinius ir kalbinius veiksnius.
+
+
+
+
+14. Šiame įstatyme vartojamos sąvokos „elektroninės prekyvietės paslauga“, „elektroninės prekyvietės paslaugos teikėjas“ ir „produktų reitingas“ yra suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse.
+Papildyta straipsnio dalimi:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -266,7 +276,14 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-2) komercinės veiklos subjekto įsipareigojimų, įtvirtintų elgesio kodeksuose, kurių komercinės veiklos subjektas įsipareigojo laikytis, nesilaikymą, jeigu tokie įsipareigojimai nėra tik siekiamybė, jų laikymąsi galima patikrinti ir jeigu komercinės veiklos subjektas, užsiimdamas komercine veikla, nurodo, kad yra saistomas tokio kodekso.
+2) komercinės veiklos subjekto įsipareigojimų, įtvirtintų elgesio kodeksuose, kurių komercinės veiklos subjektas įsipareigojo laikytis, nesilaikymą, jeigu tokie įsipareigojimai nėra tik siekiamybė, jų laikymąsi galima patikrinti ir jeigu komercinės veiklos subjektas, užsiimdamas komercine veikla, nurodo, kad yra saistomas tokio kodekso;
+
+
+
+
+3) bet kokį prekės pateikimą, siūlymą ar pardavimą vartotojams Lietuvos Respublikoje kaip tapačios kitose Europos Sąjungos valstybėse narėse parduodamai prekei, nors šių prekių sudėtis ar savybės reikšmingai skiriasi, išskyrus atvejus, kai tai pagrįsta teisėtomis ir objektyviomis priežastimis.
+Papildyta straipsnio punktu:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -322,12 +339,15 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-4) apmokėjimo, pristatymo, komercinės veiklos vykdymo ir skundų nagrinėjimo tvarka, jeigu ji skiriasi nuo profesinio atidumo reikalavimų;
+4) apmokėjimo, pristatymo, komercinės veiklos vykdymo tvarka, jeigu ji skiriasi nuo profesinio atidumo reikalavimų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
 
 
 
 
-5) jeigu suteikiama teisė vienašališkai nutraukti sandorį arba jo atsisakyti, – informacija apie šios teisės buvimą. 
+5) jeigu suteikiama teisė vienašališkai nutraukti sandorį arba jo atsisakyti, – informacija apie šios teisės buvimą;
 Straipsnio punkto pakeitimai:
 Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
  
@@ -335,11 +355,37 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
+6) kai produktai siūlomi elektroninėse prekyvietėse, – informacija, ar asmuo, teikiantis produktus, yra komercinės veiklos subjektas, ar ne, remiantis to asmens elektroninės prekyvietės paslaugos teikėjui pateikta deklaracija. 
+Papildyta straipsnio punktu:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
 
 
-4. Jeigu Europos Sąjungos teisės aktuose nustatoma, kad vykdant komercinę veiklą privaloma pateikti ir kitą informaciją, ta informacija laikoma esmine.
+
+
+
+
+4. Jeigu vartotojams suteikiama galimybė remiantis užklausa pagal raktažodį, frazę arba kitas įvesties priemones ieškoti produktų, kuriuos siūlo skirtingi komercinės veiklos subjektai arba vartotojai, neatsižvelgiant į tai, kaip sudaromos sutartys, esmine laikoma elektroninės sąsajos dalyje, tiesiogiai ir lengvai prieinamoje iš interneto puslapio, kuriame pateikiami užklausos rezultatai, pateikta bendroji informacija apie pagrindinius parametrus, kurie lemia vartotojui pagal paieškos užklausą pateikiamų produktų reitingą, ir šių parametrų santykinį reikšmingumą, palyginti su kitais parametrais. Šios nuostatos netaikomos interneto paieškos sistemų teikėjams, kaip jie apibrėžti 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/1150 dėl verslo klientams teikiamų internetinių tarpininkavimo paslaugų sąžiningumo ir skaidrumo didinimo 2 straipsnio 6 punkte. 
+Papildyta straipsnio dalimi:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
+
+
+
+
+5. Jeigu komercinės veiklos subjektas leidžia vartotojui susipažinti su atsiliepimais apie produktus, informacija apie tai, ar komercinės veiklos subjektas užtikrina, kad skelbiami atsiliepimai yra gauti iš vartotojų, kurie iš tikrųjų naudojo arba įsigijo produktą, ir kaip tai užtikrina, laikoma esmine. 
+Papildyta straipsnio dalimi:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
+
+
+
+
+6. Jeigu Europos Sąjungos teisės aktuose nustatoma, kad vykdant komercinę veiklą privaloma pateikti ir kitą informaciją, ta informacija laikoma esmine.
 Straipsnio dalies pakeitimai:
 Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -484,7 +530,38 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-23) produkto reklama per visuomenės informavimo priemones už komercinės veiklos subjekto užmokestį ar kitokį atlygį, kai tokia reklama nėra tinkamai pažymėta arba atskirta nuo kitos redakcinio pobūdžio informacijos vaizdo ar garso priemonėmis, kuriomis vartotojas galėtų aiškiai atpažinti, kad tai reklama.
+23) produkto reklama per visuomenės informavimo priemones už komercinės veiklos subjekto užmokestį ar kitokį atlygį, kai tokia reklama nėra tinkamai pažymėta arba atskirta nuo kitos redakcinio pobūdžio informacijos vaizdo ar garso priemonėmis, kuriomis vartotojas galėtų aiškiai atpažinti, kad tai reklama;
+
+
+
+
+24) paieškos rezultatų pagal vartotojo interneto paieškos užklausą pateikimas aiškiai neatskleidžiant jokios apmokėtos reklamos ar mokėjimo, kuriuo siekiama aukštesnio produktų reitingo paieškos rezultatuose; 
+Papildyta straipsnio punktu:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
+
+
+
+
+25) bilietų į renginius, kuriuos komercinės veiklos subjektas įsigijo naudodamasis automatizuotomis priemonėmis, kad išvengtų nustatyto bilietų, kuriuos asmuo gali nusipirkti, kiekio apribojimo arba kitų bilietų pirkimui–pardavimui taikomų taisyklių, pardavimas vartotojams (perpardavimas); 
+Papildyta straipsnio punktu:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
+
+
+
+
+26) skelbimas, kad atsiliepimus apie produktą pateikė vartotojai, kurie iš tikrųjų juo naudojosi ar jį įsigijo, – kai komercinės veiklos subjektas nesiima pagrįstų ir proporcingų veiksmų patikrinti, ar atsiliepimus pateikė tokie vartotojai; 
+Papildyta straipsnio punktu:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
+
+
+
+
+27) neteisingų vartotojų atsiliepimų arba rekomendacijų pateikimas ar pavedimas tai padaryti kitam juridiniam arba fiziniam asmeniui, vartotojų atsiliepimų arba rekomendacijų socialinėse medijose iškraipymas, siekiant reklamuoti produktus.
+Papildyta straipsnio punktu:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -695,39 +772,113 @@ Komercinės veiklos subjektai, pažeidę šio įstatymo reikalavimus, atsako ši
 
 
 
-13 straipsnis. Baudos ir įspėjimas
+121 straipsnis. Vartotojų, nukentėjusių nuo nesąžiningos komercinės veiklos, teisės ir jų gynimas
 
 
-1. Už nesąžiningą komercinę veiklą komercinės veiklos subjektams Tarnyba pagal savo kompetenciją gali skirti baudą iki 3 procentų jų metinių pajamų praėjusiais finansiniais metais, bet ne didesnę negu vienas šimtas tūkstančių eurų. Jeigu komercinės veiklos subjektas veikia trumpiau negu vienus metus, bauda skiriama iki 3 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu vienas šimtas tūkstančių eurų. Komercinės veiklos subjektams, pakartotinai per vienus metus padariusiems pažeidimą, už kurį buvo paskirta šiame įstatyme nustatyta bauda ar įspėjimas, gali būti skiriama bauda iki 6 procentų jų metinių pajamų praėjusiais finansiniais metais, bet ne didesnė negu du šimtai tūkstančių eurų, o jeigu komercinės veiklos subjektas veikia trumpiau negu vienus metus, – iki 6 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu du šimtai tūkstančių eurų. Jeigu komercinės veiklos subjektas nepateikia informacijos apie savo metines pajamas, jam už nesąžiningą komercinę veiklą skiriama bauda iki vieno šimto tūkstančių eurų, o jeigu pažeidimas padaromas pakartotinai per vienus metus nuo baudos ar įspėjimo už šiame įstatyme numatytą pažeidimą paskyrimo, – iki dviejų šimtų tūkstančių eurų. Tais atvejais, kai pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už nesąžiningą komercinę veiklą komercinės veiklos subjektams gali taikyti nuobaudą – įspėjimą, neskirdama baudos. Tarnyba negali komercinės veiklos subjektams skirti baudos, jeigu nuo šio įstatymo pažeidimo padarymo dienos praėjo daugiau kaip treji metai.
-
-
-
-
-2. Už Tarnybos sprendimo dėl šiame įstatyme numatytos laikinojo pobūdžio priemonės nevykdymą arba netinkamą jo vykdymą komercinės veiklos subjektams skiriama trijų šimtų eurų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną.
+1. Vartotojai, nukentėję nuo nesąžiningos komercinės veiklos, turi teisę į žalos atlyginimą, kainos sumažinimą arba sutarties nutraukimą, atsižvelgiant į pažeidimo sunkumą ir pobūdį, vartotojo patirtą žalą ir kitas reikšmingas aplinkybes.
 
 
 
 
-3. Įspėjimas skiriamas ir baudos dydis nustatomas pagal Lietuvos Respublikos Vyriausybės patvirtintą Įspėjimų ir baudų už Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo pažeidimus skyrimo tvarkos aprašą, atsižvelgiant į pažeidimo pobūdį, pažeidimo trukmę, mastą ir šio straipsnio 4 ir 5 dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes.
+2. Šio straipsnio 1 dalyje nustatytas teises įgyvendinti siekiantis vartotojas turi teisę pateikti atitinkamą reikalavimą Vartotojų teisių apsaugos įstatymo nustatyta tvarka.
 
 
 
 
-4. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą komercinės veiklos subjektai savo noru užkirto kelią žalingoms pažeidimo pasekmėms, bendradarbiavo su Tarnyba tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą arba kai Tarnyba gavo iš už elgesio kodeksą atsakingo subjekto pagrįstą pranešimą, kad padarę pažeidimą komercinės veiklos subjektai nutraukė nesąžiningą komercinę veiklą.
+3. Šio straipsnio 1 dalyje nurodytos teisės neturi poveikio kitų vartotojų teisių, kurios nustatytos Civiliniame kodekse ir Vartotojų teisių apsaugos įstatyme, įgyvendinimui.
+
+
+Papildyta straipsniu:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
+ 
 
 
 
 
-5. Atsakomybę sunkinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą komercinės veiklos subjektai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydami šio įstatymo 17 straipsnyje nurodytos laikinojo pobūdžio priemonės – įpareigojimo sustabdyti nesąžiningą komercinę veiklą.
+13 straipsnis. Baudos ir įspėjimas 
+
+
+1. Už nesąžiningą komercinę veiklą komercinės veiklos subjektams Tarnyba pagal savo kompetenciją gali skirti baudą iki 3 procentų jų metinių pajamų praėjusiais finansiniais metais, bet ne didesnę negu vienas šimtas tūkstančių eurų. Jeigu komercinės veiklos subjektas veikia trumpiau negu vienus metus, bauda skiriama iki 3 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu vienas šimtas tūkstančių eurų. Komercinės veiklos subjektams, pakartotinai per vienus metus padariusiems pažeidimą, už kurį buvo paskirta šiame įstatyme nustatyta bauda ar įspėjimas, gali būti skiriama bauda iki 6 procentų jų metinių pajamų praėjusiais finansiniais metais, bet ne didesnė negu du šimtai tūkstančių eurų, o jeigu komercinės veiklos subjektas veikia trumpiau negu vienus metus, – iki 6 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu du šimtai tūkstančių eurų. Jeigu komercinės veiklos subjektas nepateikia informacijos apie savo metines pajamas, jam už nesąžiningą komercinę veiklą skiriama bauda iki vieno šimto tūkstančių eurų, o jeigu pažeidimas padaromas pakartotinai per vienus metus nuo baudos ar įspėjimo už šiame įstatyme numatytą pažeidimą paskyrimo, – iki dviejų šimtų tūkstančių eurų. Tais atvejais, kai pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už nesąžiningą komercinę veiklą komercinės veiklos subjektams gali taikyti nuobaudą – įspėjimą, neskirdama baudos. Tarnyba negali komercinės veiklos subjektams skirti baudos, jeigu nuo šio įstatymo pažeidimo padarymo dienos praėjo daugiau kaip treji metai.
 
 
 
 
-6. Už Tarnybos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai jis buvo įspėtas dėl šio reikalavimo nevykdymo arba netinkamo vykdymo, komercinės veiklos subjektui gali būti skiriama bauda iki trijų tūkstančių eurų. 
+2. Tarnyba 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, 21 straipsnyje nustatytais atvejais už nesąžiningą komercinę veiklą ar už komercinės veiklos subjekto prisiimtų įsipareigojimų imtis taisomųjų priemonių vartotojų naudai nevykdymą komercinės veiklos subjektui, atsakingam už plačiai paplitusį pažeidimą ar Sąjungos mastu plačiai paplitusį pažeidimą, gali skirti baudą iki 4 procentų jo metinių pajamų praėjusiais finansiniais metais atitinkamoje valstybėje narėje ar valstybėse narėse. Jeigu komercinės veiklos subjektas nepateikia informacijos apie savo metines pajamas, jam gali būti skiriama bauda iki dviejų milijonų eurų. 
+
+
+
+
+3. Už Tarnybos sprendimo dėl šiame įstatyme numatytos laikinojo pobūdžio priemonės nevykdymą arba netinkamą jo vykdymą komercinės veiklos subjektams skiriama trijų šimtų eurų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną.
+
+
+
+
+4. Įspėjimas skiriamas ir baudos dydis nustatomas Lietuvos Respublikos Vyriausybės nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį, sunkumą, mastą, komercinės veiklos subjekto gautą finansinę naudą ar išvengtus nuostolius, trukmę ir šio straipsnio 5 ir 6 dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes.
+
+
+
+
+5. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad: 
+
+
+1) padaręs pažeidimą komercinės veiklos subjektas savo noru užkirto kelią žalingiems pažeidimo padariniams;
+
+
+
+
+2) komercinės veiklos subjektas ėmėsi veiksmų, kad sumažintų vartotojų patirtą žalą, arba ją atlygino;
+
+
+
+
+3) komercinės veiklos subjektas tyrimo metu bendradarbiavo su Tarnyba;
+
+
+
+
+4) komercinės veiklos subjektas savo valia nutraukė pažeidimą; 
+
+
+
+
+5) Tarnyba gavo iš už elgesio kodeksą atsakingo subjekto pagrįstą pranešimą, kad padaręs pažeidimą komercinės veiklos subjektas nutraukė nesąžiningą komercinę veiklą.
+
+
+
+
+
+
+6. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad: 
+
+
+1) padaręs pažeidimą komercinės veiklos subjektas kliudė Tarnybai atlikti tyrimą; 
+
+
+
+
+2) komercinės veiklos subjektas slėpė padarytą pažeidimą;
+
+
+
+
+3) komercinės veiklos subjektas tęsė pažeidimą, nepaisydamas šio įstatymo 17 straipsnyje nurodytos laikinojo pobūdžio priemonės – įpareigojimo sustabdyti nesąžiningą komercinę veiklą; 
+
+
+
+
+4) komercinės veiklos subjektas pakartotinai per trejus metus (išskyrus šio straipsnio 1 dalyje nurodytus atvejus, kai pažeidimas padarytas pakartotinai per vienus metus) padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas arba už tą patį pažeidimą skirta sankcija kitose Europos Sąjungos valstybėse narėse tarpvalstybinių pažeidimų atvejais, kai tokia informacija yra prieinama pagal Reglamentą (ES) 2017/2394.
+
+
+
+
+
+
+7. Už Tarnybos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai jis buvo įspėtas dėl šio reikalavimo nevykdymo arba netinkamo vykdymo, komercinės veiklos subjektui gali būti skiriama bauda iki trijų tūkstančių eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -736,11 +887,12 @@ Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
 14 straipsnis. Nesąžiningos komercinės veiklos atvejų nagrinėjimo tvarka
 
 
-Tarnyba nagrinėja šio įstatymo 9 straipsnio 1 dalyje jos kompetencijai priskirtus nesąžiningos komercinės veiklos atvejus ir skiria numatytas baudas arba įspėjimą. Nesąžiningos komercinės veiklos atvejų nagrinėjimo ir baudų bei įspėjimo skyrimo tvarką nustato šis įstatymas ir Įspėjimų ir baudų už Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo pažeidimus skyrimo tvarkos aprašas, kurį tvirtina Vyriausybė. 
+Tarnyba nagrinėja šio įstatymo 9 straipsnyje jos kompetencijai priskirtus nesąžiningos komercinės veiklos atvejus ir skiria numatytas baudas arba įspėjimą. Nesąžiningos komercinės veiklos atvejų nagrinėjimo ir baudų bei įspėjimo skyrimo tvarką nustato šis įstatymas ir Vyriausybės patvirtintas tvarkos aprašas.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -785,13 +937,13 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-16 straipsnis. Prašymo (skundo) dėl šio įstatymo pažeidimo pateikimas ir jo nagrinėjimo procedūros terminai
+16 straipsnis. Prašymų (skundų) dėl šio įstatymo pažeidimo pateikimas ir jų nagrinėjimo procedūros terminai
 
 
-1. Prašymas (skundas) dėl šio įstatymo pažeidimo (toliau – prašymas (skundas) turi būti pateiktas raštu Tarnybai. Prašyme (skunde) turi būti nurodyta:
+1. Prašymai, skundai dėl šio įstatymo pažeidimo (toliau – prašymas (skundas) turi būti pateikti raštu Tarnybai. Prašyme (skunde) turi būti nurodyta:
 
 
-1) pareiškėjo – vartotojo vardas, pavardė, gyvenamosios vietos adresas arba pareiškėjo – juridinio asmens pavadinimas, buveinės adresas, taip pat duomenys ryšiui palaikyti;
+1) pareiškėjo – vartotojo vardas, pavardė, gyvenamosios vietos adresas arba pareiškėjo – juridinio asmens pavadinimas, buveinės adresas, taip pat duomenys ryšiui palaikyti;
 
 
 
@@ -806,14 +958,14 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-4) pareiškėjui žinomos nesąžiningos komercinės veiklos faktinės aplinkybės, kuriomis jis grindžia savo prašymą (skundą), ir pridedami tai patvirtinantys pareiškėjo turimi dokumentai.
+4) pareiškėjui žinomos nesąžiningos komercinės veiklos faktinės aplinkybės, kuriomis jis grindžia savo prašymą (skundą), ir pridedami tai patvirtinantys pareiškėjo turimi dokumentai. 
 
 
 
 
 
 
-2. Tarnyba ne vėliau kaip per trisdešimt dienų nuo prašymo (skundo) pateikimo dienos priima motyvuotą nutarimą pradėti arba atsisakyti pradėti prašymo (skundo) nagrinėjimo procedūrą. Ne vėliau kaip per tris darbo dienas nuo nutarimo priėmimo dienos nutarimo nuorašai išsiunčiami asmenims, dėl kurių šis nutarimas yra priimtas. Tarnyba turi teisę priimti motyvuotą nutarimą sujungti prašymų (skundų) dėl to paties komercinės veiklos subjekto ir dėl to paties dalyko nagrinėjimą.
+2. Tarnyba ne vėliau kaip per trisdešimt dienų nuo prašymo (skundo) pateikimo dienos priima motyvuotą nutarimą pradėti prašymo (skundo) nagrinėjimo procedūrą arba motyvuotu Tarnybos nutarimu ar įgalioto pareigūno sprendimu atsisako pradėti prašymo (skundo) nagrinėjimo procedūrą. Ne vėliau kaip per tris darbo dienas nuo nutarimo ar sprendimo priėmimo dienos nutarimo ar sprendimo nuorašai išsiunčiami asmenims, dėl kurių šis nutarimas ar sprendimas yra priimtas. Tarnyba turi teisę priimti motyvuotą nutarimą sujungti prašymų (skundų) dėl to paties komercinės veiklos subjekto ir dėl to paties dalyko nagrinėjimą.
 
 
 
@@ -821,61 +973,44 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 3. Pradėti prašymo (skundo) nagrinėjimo procedūrą atsisakoma, jeigu:
 
 
-1) prašyme (skunde) nurodyti faktai yra mažareikšmiai; 
-Papildyta straipsnio punktu:
-Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
- 
+1) prašyme (skunde) nurodyti faktai yra mažareikšmiai;
 
 
 
 
-2) prašymas (skundas) neatitinka šio straipsnio 1 dalyje nustatytų reikalavimų ir šie trūkumai nepašalinami per Tarnybos nustatytą terminą, kuris negali būti trumpesnis kaip septynios dienos;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
- 
+2) prašymas (skundas) neatitinka šio straipsnio 1 dalyje nustatytų reikalavimų ir šie trūkumai nepašalinami per Tarnybos nustatytą ne trumpesnį kaip septynių dienų terminą;
 
 
 
 
 3) prašyme (skunde) nurodyto pažeidimo nagrinėjimas nepriskirtas Tarnybos kompetencijai;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
- 
 
 
 
 
 4) prašyme (skunde) nurodyti faktiniai duomenys jau buvo patikrinti ir dėl jų priimtas nutarimas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
- 
 
 
 
 
 5) nėra faktinių duomenų, kurie leistų pagrįstai įtarti šio įstatymo pažeidimą, arba Tarnyba prašymą (skundą), atsižvelgdama į jo esmę, nagrinėja kitų įstatymų nustatyta tvarka;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
- 
 
 
 
 
-6) nuo dienos, kurią šio įstatymo 15 straipsnio 1 dalyje nurodytas asmuo sužinojo arba turėjo sužinoti apie prašyme (skunde) nurodytą šio įstatymo pažeidimą, iki prašymo (skundo) padavimo yra praėję daugiau kaip šeši mėnesiai, bet visais atvejais – daugiau kaip treji metai nuo pažeidimo padarymo dienos.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
- 
+6) nuo dienos, kurią šio įstatymo 15 straipsnio 1 dalyje nurodytas asmuo sužinojo arba turėjo sužinoti apie prašyme (skunde) nurodytą šio įstatymo pažeidimą, iki prašymo (skundo) padavimo yra praėję daugiau kaip šeši mėnesiai, bet visais atvejais – daugiau kaip treji metai nuo pažeidimo padarymo dienos.
 
 
 
 
 
 
-4. Tarnyba šio įstatymo pažeidimus, priskirtus jos kompetencijai, nagrinėja ir baudas skiria ne vėliau kaip per šešis mėnesius nuo nutarimo pradėti prašymo (skundo) nagrinėjimo procedūrą priėmimo dienos. Tarnyba motyvuotu nutarimu šį terminą gali pratęsti ne ilgiau kaip trims mėnesiams.
+4. Tarnyba šio įstatymo pažeidimus, priskirtus jos kompetencijai, nagrinėja ir baudas skiria ne vėliau kaip per šešis mėnesius nuo nutarimo pradėti prašymo (skundo) nagrinėjimo procedūrą priėmimo dienos. Tarnyba motyvuotu nutarimu šį terminą gali pratęsti ne ilgiau kaip šešiems mėnesiams.
 
 
 Straipsnio pakeitimai:
 Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -969,9 +1104,10 @@ Prašymo (skundo) nagrinėjimo procedūros dalyviams ne vėliau kaip prieš ketu
 20 straipsnis. Prašymo (skundo) nagrinėjimas
 
 
-1. Tarnyba prašymą (skundą) nagrinėja rašytinio proceso arba žodinio proceso tvarka šiame įstatyme ir Įspėjimų ir baudų už Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo pažeidimus skyrimo tvarkos apraše nustatyta tvarka.
+1. Tarnyba prašymą (skundą) nagrinėja rašytinio proceso arba žodinio proceso tvarka šio įstatymo ir Vyriausybės nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -1093,10 +1229,10 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-23 straipsnis. Nutarimų apskundimas
+23 straipsnis. Tarnybos nutarimų ir jos įgaliotų pareigūnų sprendimų apskundimas
 
 
-1. Tarnybos nutarimai per vieną mėnesį nuo nutarimo įteikimo dienos gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+1. Tarnybos nutarimai ir jos įgaliotų pareigūnų sprendimai per vieną mėnesį nuo nutarimo ar sprendimo įteikimo dienos gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
@@ -1106,6 +1242,7 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 Straipsnio pakeitimai:
 Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
 
 
@@ -1149,11 +1286,20 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
-Lietuvos Respublikos  nesąžiningos komercinės veiklos  vartotojams draudimo įstatymo  priedas
+Lietuvos Respublikos 
+nesąžiningos komercinės veiklos
+vartotojams draudimo įstatymo
+priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 („Nesąžiningos komercinės veiklos direktyva“) (OL 2005 L 149, p. 22).
+
+
+2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 („Nesąžiningos komercinės veiklos direktyva“) su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161.
+
+
+Priedo pakeitimai:
+Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
  
  
  
