@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2f37f200632811eca9ac839120d251c4"
 
 # Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto 2022 metų rodiklių patvirtinimo įstatymas
 
+Suvestinė redakcija nuo 2022-06-01
+ 
+Įstatymas paskelbtas: TAR 2021-12-22, i. k. 2021-26580
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2022 METŲ RODIKLIŲ PATVIRTINIMO
 ĮSTATYMAS
@@ -28,10 +35,12 @@ Vilnius
 1 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2022 metų pajamos, išlaidos ir planuojamas metų rezultatas
 
 
-Patvirtinti Valstybinio socialinio draudimo fondo 2022 metų biudžetą – 5 836 636 tūkst. eurų pajamų, 5 533 499 tūkst. eurų išlaidų (planuojamas metų rezultatas – pajamos viršija išlaidas 303 137 tūkst. eurų) (1 priedas).
+Patvirtinti Valstybinio socialinio draudimo fondo 2022 metų biudžetą – 5 982 474 tūkst. eurų pajamų, 5 648 098 tūkst. eurų išlaidų (planuojamas metų rezultatas – pajamos viršija išlaidas 334 376 tūkst. eurų) (1 priedas).
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1058, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09667
  
-
-
 
 
 
@@ -39,10 +48,12 @@ Patvirtinti Valstybinio socialinio draudimo fondo 2022 metų biudžetą – 5 83
 2 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2022 metų piniginės įplaukos ir išlaidos, kasos apyvartos lėšos
 
 
-Patvirtinti Valstybinio socialinio draudimo fondo biudžeto 2022 metų pinigines įplaukas, išlaidas (2 priedas) ir 229 949 tūkst. eurų kasos apyvartos lėšų.
+Patvirtinti Valstybinio socialinio draudimo fondo biudžeto 2022 metų pinigines įplaukas, išlaidas (2 priedas) ir 235 227 tūkst. eurų kasos apyvartos lėšų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1058, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09667
  
-
-
 
 
 
@@ -207,10 +218,12 @@ Patvirtinti vidutinio šalies darbo užmokesčio, taikomo apdraustųjų asmenų 
 5 straipsnis. Asignavimai iš valstybės biudžeto 
 
 
-Bendrajai socialinio draudimo pensijos daliai kompensuoti 2022 metais iš valstybės biudžeto skirti 2 389 331 tūkst. eurų, iš jų 21 691 tūkst. eurų – 2020 metų įsipareigojimui padengti.
+Bendrajai socialinio draudimo pensijos daliai kompensuoti 2022 metais iš valstybės biudžeto skirti 2 441 698 tūkst. eurų, iš jų 21 691 tūkst. eurų – 2020 metų įsipareigojimui padengti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1058, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09667
  
-
-
 
 
 
@@ -226,10 +239,10 @@ Papildomam individualiosios socialinio draudimo pensijų dalies indeksavimui 202
 
 
 
-7 straipsnis. Socialinio draudimo pensijų indeksavimo koeficientai ir socialinio draudimo pensijų dydžių mato rodikliai 2022 metais
+7 straipsnis. Socialinio draudimo pensijų, papildomo socialinio draudimo pensijų indeksavimo koeficientai ir socialinio draudimo pensijų dydžių mato rodikliai 2022 metais
 
 
-Patvirtinti šiuos socialinio draudimo pensijų indeksavimo koeficientus ir socialinio draudimo pensijų dydžių mato rodiklius:
+1. Patvirtinti šiuos socialinio draudimo pensijų indeksavimo koeficientus ir socialinio draudimo pensijų dydžių mato rodiklius:
 
 
 1) pensijų indeksavimo koeficientą – 1,0847;
@@ -253,11 +266,33 @@ Patvirtinti šiuos socialinio draudimo pensijų indeksavimo koeficientus ir soci
 
 
 5) pensijų apskaitos vieneto vertės dydį – 4,70 euro.
+
+
+
+
+
+
+2. Patvirtinti papildomo socialinio draudimo pensijų indeksavimo koeficientą ir pagal jį indeksuotus socialinio draudimo pensijų dydžių mato rodiklius:
+
+
+1) papildomo pensijų indeksavimo koeficientą – 1,05;
+
+
+
+
+2) bazinės pensijos dydį – 225,84 euro;
+
+
+
+
+3) pensijų apskaitos vieneto vertės dydį – 4,94 euro.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1058, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09667
  
-
-
-
-
 
 
 
@@ -304,24 +339,25 @@ patvirtinimo įstatymo
  
 VALSTYBINIO SOCIALINIO DRAUDIMO FONDO
 2022 METŲ BIUDŽETAS
+ 
 Tūkst. Eur
 
 
 
  1. Pajamos 
- 5 836 636 
+ 5 982 474 
 
 
  1.1. Draudėjų valstybinio socialinio draudimo įmokos 
- 391 080 
+ 402 513 
 
 
  1.2. Apdraustųjų valstybinio socialinio draudimo įmokos 
- 2 961 887 
+ 3 037 242 
 
 
  1.3. Savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos 
- 100 147 
+ 106 552 
 
 
  1.4. Valstybinio savanoriškojo socialinio draudimo įmokos 
@@ -329,15 +365,15 @@ Tūkst. Eur
 
 
  1.5. Delspinigiai, palūkanos ir baudos 
- 1 135 
+ 801 
 
 
  1.6. Asignavimai iš Lietuvos Respublikos valstybės biudžeto 
- 2 367 640 
+ 2 420 007 
 
 
  1.6.1. Asignavimai iš Lietuvos Respublikos valstybės biudžeto socialinio draudimo pagrindinei (bendrajai) pensijos daliai kompensuoti 
- 2 367 640 
+ 2 420 007 
 
 
  1.6.2. Kiti asignavimai iš Lietuvos Respublikos valstybės biudžeto 
@@ -345,7 +381,7 @@ Tūkst. Eur
 
 
  1.7. Veiklos pajamos ir iš įtraukto į Fondo apskaitą turto gaunamos pajamos 
- 14 746 
+ 15 358 
 
 
  1.8. Europos Sąjungos institucijų pensijų sistemoje įgytos pensinės teisės 
@@ -357,27 +393,27 @@ Tūkst. Eur
 
 
  2. Išlaidos 
- 5 533 499 
+ 5 648 098 
 
 
  2.1. Pensijų socialiniam draudimui 
- 4 251 472 
+ 4 319 128 
 
 
  2.2. Ligos socialiniam draudimui 
- 427 127 
+ 441 720 
 
 
  2.3. Motinystės socialiniam draudimui 
- 414 871 
+ 421 961 
 
 
  2.4. Nedarbo socialiniam draudimui 
- 282 429 
+ 320 039 
 
 
  2.4.1. Nedarbo draudimo išmokoms 
- 282 429 
+ 320 039 
 
 
  2.4.2. Dalinio darbo išmokoms 
@@ -385,11 +421,11 @@ Tūkst. Eur
 
 
  2.5. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui 
- 33 198 
+ 33 848 
 
 
  2.7. Neatgautinos ir abejotinai atgautinos sumos 
- 20 000 
+ 7 000 
 
 
  2.8. Veiklos sąnaudos 
@@ -409,16 +445,11 @@ Tūkst. Eur
 
 
  3. Einamųjų metų rezultatas 
- 303 137 
+ 334 376 
 
 
 
  
-
-
-__________________
-
-
 
 
 
@@ -430,102 +461,102 @@ fondo biudžeto 2022 metų rodiklių
 patvirtinimo įstatymo
 2 priedas
  
-VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2022 METŲ PINIGINĖS ĮPLAUKOS IR IŠLAIDOS
- 
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2022 METŲ
+PINIGINĖS ĮPLAUKOS IR IŠLAIDOS
 Tūkst. Eur
 
 
 
  1. Įprastinė veikla 
- 285 051 
+ 302 566 
 
 
  1.1. Įprastinė Fondo veikla 
- 285 051 
+ 302 566 
 
 
  1.1.1. Pinigų įplaukos 
- 5 790 877 
+ 5 935 045 
 
 
  1.1.1.1. Draudėjų valstybinio socialinio draudimo įmokos 
- 384 130 
+ 395 386 
 
 
  1.1.1.1.4. Nedarbo socialiniam draudimui 
- 303 479 
+ 311 203 
 
 
  1.1.1.1.5. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui 
- 37 072 
+ 38 016 
 
 
  1.1.1.1.6. Pensijų ir nedarbo socialiniam draudimui valstybės lėšomis 
- 41 989 
+ 44 468 
 
 
  1.1.1.1.6.1. Pensijų socialiniam draudimui valstybės lėšomis 
- 36 669 
+ 38 848 
 
 
  1.1.1.1.6.2. Nedarbo socialiniam draudimui valstybės lėšomis 
- 5 320 
+ 5 620 
 
 
  1.1.1.1.7. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui valstybės lėšomis  
- 47 
+ 54 
 
 
  1.1.1.1.8. Pensijų, ligos ir motinystės socialiniam draudimui valstybės lėšomis 
- 1 543 
+ 1 645 
 
 
  1.1.1.1.8.1. Pensijų socialiniam draudimui valstybės lėšomis 
- 1 075 
+ 1 146 
 
 
  1.1.1.1.8.2. Ligos socialiniam draudimui valstybės lėšomis  
- 245 
+ 261 
 
 
  1.1.1.1.8.3. Motinystės socialiniam draudimui valstybės lėšomis 
- 223 
+ 238 
 
 
  1.1.1.2. Apdraustųjų valstybinio socialinio draudimo įmokos 
- 2 902 649 
+ 2 976 497 
 
 
  1.1.1.2.1. Pensijų socialiniam draudimui 
- 2 022 396 
+ 2 073 876 
 
 
  1.1.1.2.2. Ligos socialiniam draudimui 
- 461 031 
+ 472 444 
 
 
  1.1.1.2.3. Motinystės socialiniam draudimui 
- 419 222 
+ 430 177 
 
 
  1.1.1.3. Savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos 
- 99 234 
+ 105 591 
 
 
  1.1.1.3.1. Pensijų socialiniam draudimui 
- 78 527 
+ 75 568 
 
 
  1.1.1.3.2. Ligos socialiniam draudimui 
- 10 806 
+ 15 220 
 
 
  1.1.1.3.3. Motinystės socialiniam draudimui 
- 9 452 
+ 13 269 
 
 
  1.1.1.3.4. Nedarbo socialiniam draudimui 
- 449 
+ 1 534 
 
 
  1.1.1.4. Valstybinio savanoriškojo socialinio draudimo įmokos 
@@ -533,15 +564,15 @@ Tūkst. Eur
 
 
  1.1.1.5. Delspinigiai, palūkanos ir baudos 
- 908 
+ 641 
 
 
  1.1.1.6. Asignavimai iš Lietuvos Respublikos valstybės biudžeto 
- 2 389 331 
+ 2 441 698 
 
 
  1.1.1.6.1. Asignavimai iš Lietuvos Respublikos valstybės biudžeto socialinio draudimo pagrindinei (bendrajai) pensijos daliai kompensuoti  
- 2 389 331 
+ 2 441 698 
 
 
  1.1.1.6.2. Kiti asignavimai iš Lietuvos Respublikos valstybės biudžeto 
@@ -549,11 +580,11 @@ Tūkst. Eur
 
 
  1.1.1.7. Veiklos pajamos ir iš įtraukto į Fondo apskaitą turto gaunamos pajamų įplaukos 
- 14 624 
+ 15 231 
 
 
  1.1.1.7.1. Fondo veiklos sąnaudų kompensavimas už surinktas ir pervestas įmokas, už išmokų skyrimą ir mokėjimą 
- 10 424 
+ 10 419 
 
 
  1.1.1.7.1.1. Pensijų fondai 
@@ -573,11 +604,11 @@ Tūkst. Eur
 
 
  1.1.1.7.1.6. Kitos kompensavimo sumos 
- 7 044 
+ 7 039 
 
 
  1.1.1.7.2. Kitos veiklos pajamos 
- 4 200 
+ 4 812 
 
 
  1.1.1.8. Iš Rezervo fondo gautos lėšos 
@@ -593,27 +624,27 @@ Tūkst. Eur
 
 
  1.1.2. Pinigų išlaidos 
- –5 505 826 
+ ‑5 632 479 
 
 
  1.1.2.1. Pensijų socialiniam draudimui 
- –4 250 944 
+ ‑4 317 958 
 
 
  1.1.2.2. Ligos socialiniam draudimui 
- –425 958 
+ ˗440 572 
 
 
  1.1.2.3. Motinystės socialiniam draudimui 
- –414 193 
+ ‑421 471 
 
 
  1.1.2.4. Nedarbo socialiniam draudimui 
- –282 200 
+ ‑319 293 
 
 
  1.1.2.4.1. Nedarbo draudimo išmokoms 
- –282 200 
+ ‑319 293 
 
 
  1.1.2.4.2. Dalinio darbo išmokoms 
@@ -621,7 +652,7 @@ Tūkst. Eur
 
 
  1.1.2.5. Nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui 
- –33 140 
+ ‑33 794 
 
 
  1.1.2.6. Lėšos, pervedamos į pensijų fondus 
@@ -629,11 +660,11 @@ Tūkst. Eur
 
 
  1.1.2.7. Fondo administravimo įstaigų finansavimas 
- –93 525 
+ ‑93 525 
 
 
  1.1.2.8. Kitos Fondo veiklos sąnaudos 
- –5 866 
+ ‑5 866 
 
 
  1.2. Kita Fondui pavesta veikla 
@@ -641,15 +672,15 @@ Tūkst. Eur
 
 
  1.2.1. Pinigų įplaukos 
- 2 875 736 
+ 2 938 722 
 
 
  1.2.1.1. Lietuvos Respublikos valstybės biudžeto lėšos, skirtos išmokoms finansuoti 
- 470 702 
+ 470 702   
 
 
  1.2.1.2. Sveikatos draudimo lėšos 
- 1 774 543 
+ 1 835 439 
 
 
  1.2.1.3. Pensijų kaupimo dalyvių mokamos papildomos kaupiamosios pensijų įmokos 
@@ -661,11 +692,11 @@ Tūkst. Eur
 
 
  1.2.1.5. Garantinio fondo lėšos 
- 30 369 
+ 31 414 
 
 
  1.2.1.6. Ilgalaikio darbo išmokų fondo lėšos 
- 30 369 
+ 31 414 
 
 
  1.2.1.7. Kitos piniginės įplaukos 
@@ -673,31 +704,31 @@ Tūkst. Eur
 
 
  1.2.2. Piniginės išlaidos 
- –2 875 736 
+ ‑2 938 722 
 
 
  1.2.2.1. Lietuvos Respublikos valstybės biudžeto išmokos 
- –470 702 
+ ‑470 702 
 
 
  1.2.2.2. Lėšos, pervedamos į Privalomojo sveikatos draudimo fondą 
- –1 774 543 
+ ‑1 835 439 
 
 
  1.2.2.3. Pervedamos pensijų kaupimo dalyvių mokamos kaupiamosios pensijų įmokos 
- –394 610 
+ ‑394 610 
 
 
  1.2.2.4. Pervedamos iš Lietuvos Respublikos valstybės biudžeto lėšų už pensijų kaupimo dalyvį mokamos kaupiamosios pensijų įmokos  
- –175 143 
+ ‑175 143 
 
 
  1.2.2.5. Garantinio fondo lėšos 
- –30 369 
+ ‑31 414 
 
 
  1.2.2.6. Ilgalaikio darbo išmokų fondo lėšos 
- –30 369 
+ ‑31 414 
 
 
  1.2.2.7. Kitos piniginės išlaidos 
@@ -705,11 +736,11 @@ Tūkst. Eur
 
 
  2. Investicinė veikla 
- –12 799 
+ ‑12 799 
 
 
  2.1. Išlaidos nematerialiajam turtui įsigyti 
- –9 927 
+ ‑9 927 
 
 
  2.2. Įplaukos, gautos pardavus nematerialųjį turtą  
@@ -717,7 +748,7 @@ Tūkst. Eur
 
 
  2.3. Išlaidos ilgalaikiam materialiajam turtui įsigyti 
- –3 032 
+ ‑3 032 
 
 
  2.4. Įplaukos, gautos pardavus ilgalaikį materialųjį turtą  
@@ -757,7 +788,7 @@ Tūkst. Eur
 
 
  4. Grynųjų pinigų ir jų ekvivalentų pokytis 
- 272 252 
+ 289 767 
 
 
  5. Grynųjų pinigų ir jų ekvivalentų cirkuliacija 
@@ -765,47 +796,52 @@ Tūkst. Eur
 
 
  5.1. Metų pradžioje 
- 1 330 407 
+ 1 567 855 
 
 
  5.1.1. Rezervinio fondo lėšos 
- 781 793 
+ 779 379 
 
 
  5.1.2. Kitos lėšos 
- 548 614 
+ 788 476 
 
 
  5.2. Pokytis 
- 272 252 
+ 289 767 
 
 
  5.2.1. Rezervinio fondo lėšų 
- 279 191 
+ 515 888 
 
 
  5.2.2. Kitų lėšų 
- –6 939 
+ ‑226 121 
 
 
  5.3. Metų pabaigoje 
- 1 602 659 
+ 1 857 622 
 
 
  5.3.1. Rezervinio fondo lėšos 
- 1 060 984 
+ 1 295 267 
 
 
  5.3.2. Kitos lėšos 
- 541 675 
+ 562 355 
 
 
  6. Kasos apyvartos lėšos 
- 229 949 
+ 235 227 
 
 
 
  
-
-
-__________________
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1058, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09667
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2022 metų rodiklių patvirtinimo įstatymo Nr. XIV-749 1, 2, 5, 7 straipsnių ir 1, 2 priedų pakeitimo įstatymas
