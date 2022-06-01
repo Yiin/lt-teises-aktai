@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2022-05-07 iki 2022-05-31
+Suvestinė redakcija nuo 2022-06-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -3768,7 +3768,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-2) yra nukrypimų nuo esminių statinio projekto sprendinių arba konstatuota savavališka statyba;
+2) yra nukrypimų nuo esminių statinio projekto sprendinių, per nustatytą terminą nepašalinti statybos užbaigimo procedūrų metu nustatyti pažeidimai ar trūkumai arba konstatuota savavališka statyba;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
+ 
 
 
 
