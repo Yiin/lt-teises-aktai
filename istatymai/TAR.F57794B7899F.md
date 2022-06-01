@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2022-05-24 iki 2022-05-31
+Suvestinė redakcija nuo 2022-06-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -2521,9 +2521,11 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-11. Planuojant ilgalaikę elektros energetikos sistemos plėtrą, perdavimo sistemos operatorius įvertina pajėgumų poreikį, leidžiantį užtikrinti tikėtiną ne didesnę kaip 8 valandų apkrovos praradimo trukmę per kiekvienus kalendorinius metus. 
+11. Planuodamas ilgalaikę elektros energetikos sistemos plėtrą, perdavimo sistemos operatorius įvertina pajėgumų poreikį, leidžiantį užtikrinti, vadovaujantis Reglamento (ES) 2019/943 25 straipsnio nuostatomis, Tarybos teikimu Vyriausybės ar jos įgaliotos institucijos patvirtintą kaip patikimumo standartą apkrovos praradimo trukmę per kiekvienus kalendorinius metus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Straipsnio dalies pakeitimai:
+Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
  
 
 
