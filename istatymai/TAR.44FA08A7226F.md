@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-05-31
+Suvestinė redakcija nuo 2022-06-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
  
@@ -2138,28 +2138,50 @@ Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
 
 
 
-37 straipsnis. Teisės į valstybės finansuojamą profesinio mokymo vietą neturintys asmenys
+37 straipsnis. Teisės į valstybės finansuojamą formaliojo profesinio mokymo vietą neturintys asmenys
 
 
-Teisės į valstybės finansuojamą profesinį mokymą neturi:
+1. Teisės į valstybės finansuojamą formaliojo profesinio mokymo vietą neturi asmenys:
 
 
-1) asmenys, valstybės lėšomis įgiję dvi arba daugiau kaip dvi kvalifikacijas, taip pat asmenys, įgiję tris kvalifikacijas, jeigu pirmąją profesinę kvalifikaciją įgijo kartu su pagrindiniu išsilavinimu ir nuosekliai mokydamiesi (arba nenutraukę mokymosi) antrąją profesinę kvalifikaciją įgijo kartu su viduriniu išsilavinimu, arba įgiję aukštojo mokslo kvalifikaciją, jeigu daugiau kaip pusę aukštojo mokslo kvalifikacijos kreditų įgijo valstybės biudžeto lėšomis, išskyrus atvejus, kai profesinį mokymą vykdo pataisos pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjai, profesinio mokymo teikėjai, vykdantys asmenų, kuriems taikomas Užimtumo įstatymas ir Neįgaliųjų socialinės integracijos įstatymas, mokymą;
-
-
-
-
-2) asmenys, jau turintys vieną aukštojo mokslo kvalifikaciją ir vienu metu besimokantys pagal dvi ar daugiau profesinio mokymo arba aukštojo mokslo pakopinių studijų ar profesinių studijų programų, jeigu bent viena iš šių programų finansuojama valstybės biudžeto lėšomis;
+1) valstybės lėšomis įgiję dvi arba daugiau kvalifikacijų, taip pat valstybės lėšomis įgiję tris kvalifikacijas, jeigu pirmąją kvalifikaciją įgijo kartu su pagrindiniu išsilavinimu, antrąją – kartu su viduriniu išsilavinimu, arba specialiųjų ugdymosi poreikių turintys asmenys, kurie, priimti mokytis neturėdami reikiamo išsilavinimo, valstybės lėšomis įgijo tris kvalifikacijas, iš jų pirmąją ir antrąją kvalifikacijas įgijo baigdami bendrojo ugdymo programas;
 
 
 
 
-3) asmenys, antrą kartą pretenduojantys mokytis pagal tęstinio profesinio mokymo programą ar jos modulį, kurią baigus suteikiama kvalifikacija, išskyrus atvejus, kai profesinį mokymą vykdo pataisos pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjai, profesinio mokymo teikėjai, vykdantys asmenų, kuriems taikomas Užimtumo įstatymas ir Neįgaliųjų socialinės integracijos įstatymas, mokymą.
+2) valstybės lėšomis įgiję vieną kvalifikaciją ir mokęsi pagal tęstinio profesinio mokymo programą valstybės finansuojamose profesinio mokymo vietose, jeigu jie, išklausę daugiau kaip pusę profesinio mokymo programos, nutraukė profesinį mokymą savo noru arba su jais profesinio mokymo sutartis buvo nutraukta;
+
+
+
+
+3) jau turintys vieną aukštojo mokslo kvalifikaciją, įgytą baigus studijas valstybės finansuojamoje studijų vietoje, ir vienu metu besimokantys pagal dvi ar daugiau profesinio mokymo arba aukštojo mokslo pakopinių studijų ar profesinių studijų programų, jeigu bent viena iš šių programų finansuojama valstybės lėšomis.
+
+
+
+
+
+
+2. Nustatant šio straipsnio 1 dalyje nurodytą įgytų kvalifikacijų skaičių:
+
+
+1) neįskaitomos kvalifikacijos, įgytos pagal formaliojo profesinio mokymo programas, kurių apimtis mažesnė negu 20 mokymosi kreditų, o jeigu formaliojo profesinio mokymo programų trukmė nustatyta valandomis, jų atitiktis mokymosi kreditams nustatoma švietimo, mokslo ir sporto ministro nustatyta tvarka;
+
+
+
+
+2) vienai kvalifikacijai prilyginamos ne daugiau kaip trys kvalifikacijos, įgytos mokantis pagal vieną formaliąją profesinio mokymo programą.
+
+
+
+
+
+
+3. Šis straipsnis netaikomas asmenims, kurių profesinis mokymas vykdomas Užimtumo įstatymo ir Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ir asmenims, kurių profesinį mokymą vykdo pataisos pareigūnų profesinio mokymo, vidaus reikalų profesinio mokymo teikėjai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1128, 2022-05-26, paskelbta TAR 2022-05-30, i. k. 2022-11560
  
-
-
-
-
 
 
 
@@ -2478,3 +2500,13 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 36 ir 38 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-536, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20295
 Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 38 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 17 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1128, 2022-05-26, paskelbta TAR 2022-05-30, i. k. 2022-11560
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 37 straipsnio pakeitimo įstatymas
