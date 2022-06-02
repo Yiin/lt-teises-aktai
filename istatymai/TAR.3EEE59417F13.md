@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-01
+Suvestinė redakcija nuo 2022-06-02 iki 2022-09-29
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
- 
-TAR pastaba. Įsigaliojus (2022-01-01) įstatymo Nr. XIV-721 nuostatoms, būsto šildymo išlaidų kompensacijos skiriamos taip: 1) jeigu dėl būsto šildymo išlaidų kompensacijos buvo kreiptasi iki įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01), skiriant būsto šildymo išlaidų kompensaciją už mėnesius, buvusius iki įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01), taikomos iki  įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01) galiojusios Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nuostatos; 2) jeigu dėl būsto šildymo išlaidų kompensacijos buvo kreiptasi įsigaliojus (2022-01-01) įstatymui Nr. XIV-721 ir, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 21 straipsnio 4, 5 ir (ar) 6 dalimis, būsto šildymo išlaidų kompensacija skiriama už mėnesius, buvusius iki įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01), taikomos iki įstatymo Nr. XIV-721  įsigaliojimo dienos (2022-01-01) galiojusios Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nuostatos; 3) jeigu sprendimas dėl būsto šildymo išlaidų kompensacijos skyrimo priimtas iki įstatymo Nr. XIV-721 įsigaliojimo dienos (2022-01-01), įsigaliojus įstatymui Nr. XIV-721 apskaičiuojant būsto šildymo išlaidų kompensaciją taikomos įstatymo Nr. XIV-721 nuostatos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 7 ir 11 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2012-01-01:
 Nr. XI-1772, 2011-12-01, Žin., 2011, Nr. 155-7353 (2011-12-20)
@@ -394,12 +389,6 @@ Bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į socialin�
 
 
 2) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą. 
-6 straipsnio redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
-6 straipsnis. Teisė į socialinę pašalpą
-Bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į socialinę pašalpą, jeigu kreipimosi dėl socialinės pašalpos metu atitinka visus šiame straipsnyje nurodytus reikalavimus:
-1) bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė neviršija turto vertės normatyvo. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė viršija turto vertės normatyvą, nustatant teisę į socialinę pašalpą, kai kreiptasi pirmą kartą arba praėjus ne mažiau kaip 24 mėnesiams nuo paskutinio mėnesio, už kurį socialinė pašalpa buvo paskirta, šis reikalavimas 3 mėnesius netaikomas;
-2) vidutinės pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo 17 ir 18 straipsnius, tenkančios vienam iš bendrai gyvenančių asmenų arba vienam gyvenančiam asmeniui per mėnesį, yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio;
-3) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą.
 
 
 
@@ -422,12 +411,7 @@ Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 
 
 
-2) įsiskolinusieji už būsto šildymą ir (ar) karštą vandenį, ir (ar) geriamąjį vandenį su energijos, kuro, vandens tiekėjais yra sudarę sutartį (sutartis) dėl dalies skolos apmokėjimo, kas mėnesį grąžinant ne daugiau kaip 20 procentų bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų, arba teismas yra priteisęs apmokėti skolą. 
-1 dalies redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
-1. Gyvenamąją vietą būste deklaravę arba būstą nuomojantys bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į kompensacijas, jeigu kreipimosi dėl kompensacijų metu atitinka visus šiuos reikalavimus:
-1) bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė neviršija turto vertės normatyvo. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė viršija turto vertės normatyvą, nustatant teisę į kompensacijas, kai kreiptasi pirmą kartą arba praėjus ne mažiau kaip 24 mėnesiams nuo paskutinio mėnesio, už kurį kompensacijos buvo paskirtos,  šis reikalavimas 3 mėnesius netaikomas;
-2) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą;
-3) įsiskolinusieji už būsto šildymą ir (ar) karštą vandenį, ir (ar) geriamąjį vandenį su energijos, kuro, vandens tiekėjais yra sudarę sutartį (sutartis) dėl dalies skolos apmokėjimo, kas mėnesį grąžinant ne daugiau kaip 20 procentų bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų, arba teismas yra priteisęs apmokėti skolą.
+2) įsiskolinusieji už būsto šildymą ir (ar) karštą vandenį, ir (ar) geriamąjį vandenį su energijos, kuro, vandens tiekėjais yra sudarę sutartį (sutartis) dėl dalies skolos apmokėjimo, kas mėnesį grąžinant ne daugiau kaip 20 procentų bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų, arba teismas yra priteisęs apmokėti skolą..
 
 
 Straipsnio dalies pakeitimai:
@@ -2021,9 +2005,7 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 3. Patikrinus bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, savivaldybės administracijai suteikiama teisė savivaldybės tarybos nustatyta tvarka:
 
 
-1) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 2 punkte nustatyto reikalavimo; 
-3 dalies 1 punkto redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
-1) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 1 ar 3 punkte nustatytų reikalavimų;
+1) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 2 punkte nustatyto reikalavimo;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
@@ -2031,9 +2013,7 @@ Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 
 
 
-2) skirti kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir (ar) karšto vandens kiekį atitinka šio įstatymo 11 straipsnyje nustatytus kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 7 straipsnio 1 dalies 1 punkte nustatyto reikalavimo; 
-3 dalies 2 punkto redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
-2) skirti kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir (ar) karšto vandens kiekį atitinka šio įstatymo 11 straipsnyje nustatytus kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 7 straipsnio 1 dalies 1 ar 2 punkte nustatytų reikalavimų;
+2) skirti kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir (ar) karšto vandens kiekį atitinka šio įstatymo 11 straipsnyje nustatytus kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 7 straipsnio 1 dalies 1 punkte nustatyto reikalavimo;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
@@ -2059,9 +2039,7 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 
 
-6) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra lygios 1,1 valstybės remiamų pajamų dydžio arba bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 50 procentų viršija 1,1 valstybės remiamų pajamų dydžio, arba apskaičiuota socialinė pašalpa yra mažesnė už šio įstatymo 22 straipsnio 9 dalyje nustatytą dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo 6 straipsnio 2 punkte nustatytą reikalavimą: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau bendrai gyvenančių asmenų – 70 procentų valstybės remiamų pajamų dydžio; 
-3 dalies 6 punkto redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
-6) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra lygios 1,1 valstybės remiamų pajamų dydžio arba bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 50 procentų viršija 1,1 valstybės remiamų pajamų dydžio, arba apskaičiuota socialinė pašalpa yra mažesnė už šio įstatymo 22 straipsnio 9 dalyje nustatytą dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo 6 straipsnio 1 ir 3 punktuose nustatytus reikalavimus: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau bendrai gyvenančių asmenų – 70 procentų valstybės remiamų pajamų dydžio;
+6) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra lygios 1,1 valstybės remiamų pajamų dydžio arba bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 50 procentų viršija 1,1 valstybės remiamų pajamų dydžio, arba apskaičiuota socialinė pašalpa yra mažesnė už šio įstatymo 22 straipsnio 9 dalyje nustatytą dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo 6 straipsnio 2 punkte nustatytą reikalavimą: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau bendrai gyvenančių asmenų – 70 procentų valstybės remiamų pajamų dydžio;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
@@ -2665,3 +2643,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 7 ir 11 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1108, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11866
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir 23 straipsnių pakeitimo įstatymo Nr. XIII-2883 11 straipsnio pakeitimo įstatymas
