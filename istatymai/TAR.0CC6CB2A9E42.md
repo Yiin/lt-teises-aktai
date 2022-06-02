@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-01
+Suvestinė redakcija nuo 2022-06-02 iki 2022-07-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
  
@@ -92,6 +92,14 @@ Nr. XIII-2105, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07642
 
 
 7. Priekabiavimas – nepageidaujamas elgesys, kai lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu siekiama įžeisti arba įžeidžiamas asmens orumas ir siekiama sukurti arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka.
+
+
+
+
+71. Seksualinis priekabiavimas – ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
+ 
 
 
 
@@ -218,11 +226,12 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 4 straipsnis. Įrodinėjimo pareiga
 
 
-Teismuose ar kitose kompetentingose institucijose nagrinėjant fizinių, juridinių asmenų, kitų organizacijų ir jų padalinių skundus, pareiškimus, prašymus, pranešimus ar ieškinius dėl diskriminacijos lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, pareiškėjui nurodžius aplinkybes, leidžiančias daryti prielaidą dėl tiesioginės ar netiesioginės diskriminacijos buvimo, preziumuojama, kad tiesioginės ar netiesioginės diskriminacijos, priekabiavimo ar nurodymo diskriminuoti faktas buvo. Skundžiamas asmuo turi įrodyti, kad lygių galimybių principas nebuvo pažeistas.
+Teismuose ar kitose kompetentingose institucijose nagrinėjant fizinių, juridinių asmenų, kitų organizacijų ir jų padalinių skundus, pareiškimus, prašymus, pranešimus ar ieškinius dėl diskriminacijos lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, pareiškėjui nurodžius aplinkybes, leidžiančias daryti prielaidą dėl tiesioginės ar netiesioginės diskriminacijos, priekabiavimo, seksualinio priekabiavimo, nurodymo diskriminuoti, persekiojimo, priešiško elgesio ar neigiamų padarinių dėl skundo dėl diskriminacijos pateikimo, dalyvavimo byloje dėl diskriminacijos ar pranešimo apie diskriminaciją buvimo, preziumuojama, kad tiesioginės ar netiesioginės diskriminacijos, priekabiavimo, seksualinio priekabiavimo, nurodymo diskriminuoti, persekiojimo, priešiško elgesio ar neigiamų padarinių dėl skundo dėl diskriminacijos pateikimo, dalyvavimo byloje dėl diskriminacijos ar pranešimo apie diskriminaciją faktas buvo. Skundžiamas asmuo turi įrodyti, kad lygių galimybių principas nebuvo pažeistas.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
  
 
 
@@ -302,7 +311,18 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 
 
 
-3. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų institucijos privalo užtikrinti, kad šiose įstaigose ir institucijose nebūtų priekabiaujama ir nebūtų duodami nurodymai priekabiauti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu šio straipsnio 1 dalyje nustatytais atvejais.
+3. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų institucijos privalo užtikrinti, kad šiose įstaigose ir institucijose nebūtų priekabiaujama, seksualiai priekabiaujama ir nebūtų duodami nurodymai diskriminuoti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu šio straipsnio 1 dalyje nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
+ 
+
+
+
+
+4. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų institucijos privalo imtis priemonių, kad mokiniai, studentai ar darbuotojai, pateikę skundą dėl diskriminacijos, dalyvaujantys byloje dėl diskriminacijos ar pranešę apie diskriminaciją, jų atstovai ar asmenys, liudijantys ar teikiantys paaiškinimus dėl diskriminacijos, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių.
+Papildyta straipsnio dalimi:
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
+ 
 
 
 Straipsnio pakeitimai:
@@ -343,28 +363,24 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 
 
 
-6) užtikrinti, kad darbuotojas ar valstybės tarnautojas darbo vietoje nepatirtų priekabiavimo ir nebūtų duodami nurodymai diskriminuoti;
+6) užtikrinti, kad siekiantys įsidarbinti asmenys, darbuotojai ar valstybės tarnautojai darbo vietoje nepatirtų priekabiavimo, seksualinio priekabiavimo ir nebūtų duodami nurodymai diskriminuoti;
 
 
 
 
-7) užtikrinti, kad siekiantis įsidarbinti asmuo, darbuotojas, valstybės tarnautojas nepatirtų seksualinio priekabiavimo;
+7) imtis priemonių, kad darbuotojai, valstybės tarnautojai, pateikę skundą dėl diskriminacijos, dalyvaujantys byloje dėl diskriminacijos ar pranešę apie diskriminaciją, jų atstovai ar asmenys, liudijantys ir teikiantys paaiškinimus dėl diskriminacijos, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių;
 
 
 
 
-8) imtis priemonių, kad darbuotojas, valstybės tarnautojas, pateikę skundą dėl diskriminacijos ar dalyvaujantys byloje dėl diskriminacijos, jų atstovas ar asmuo, liudijantys ir teikiantys paaiškinimus dėl diskriminacijos, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų pasekmių;
-
-
-
-
-9) imtis tinkamų priemonių, kad neįgaliesiems būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, įskaitant tinkamą patalpų pritaikymą, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos.
+8) imtis tinkamų priemonių, kad neįgaliesiems būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, įskaitant tinkamą patalpų pritaikymą, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
  
 
 
@@ -373,7 +389,7 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 8 straipsnis. Lygių galimybių įgyvendinimas vartotojų teisių apsaugos srityje
 
 
-Įgyvendindamas lygias galimybes, prekių pardavėjas, gamintojas ar paslaugų teikėjas, nepaisydamas lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, privalo:
+1. Įgyvendindamas lygias galimybes, prekių pardavėjas, gamintojas ar paslaugų teikėjas, nepaisydamas lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, privalo:
 
 
 1) visiems vartotojams sudaryti vienodas sąlygas gauti tokius pačius gaminius, prekes ir paslaugas, įskaitant aprūpinimą būstu, ir taikyti vienodas apmokėjimo sąlygas ir garantijas už tokius pačius ir vienodos vertės gaminius, prekes ir paslaugas;
@@ -386,8 +402,19 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 
 
 
+
+
+2. Prekių pardavėjai, gamintojai ar paslaugų teikėjai privalo užtikrinti, kad šio straipsnio 1 dalyje nustatytais atvejais nebūtų priekabiaujama, seksualiai priekabiaujama ir nebūtų duodami nurodymai diskriminuoti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu. 
+
+
+
+
+3. Prekių pardavėjai, gamintojai ar paslaugų teikėjai privalo užtikrinti, kad asmenys, kurie pateikė skundą dėl diskriminacijos, dalyvauja byloje dėl diskriminacijos arba pranešė apie diskriminaciją, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių.
+
+
 Straipsnio pakeitimai:
 Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
  
 
 
@@ -396,11 +423,22 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 9 straipsnis. Draudimas diskriminuoti organizacijose ir asociacijose
 
 
-Draudžiama diskriminacija lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu priimant į darbuotojų ir darbdavių organizacijas ar kitas organizacijas (asociacijas), kurių nariai turi tam tikrą profesiją, dalyvaujant organizacijų (asociacijų) veikloje, įskaitant tokių organizacijų (asociacijų) teikiamą naudą.
+1. Draudžiama diskriminacija lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu priimant į darbuotojų ir darbdavių organizacijas ar kitas organizacijas (asociacijas), kurių nariai turi tam tikrą profesiją, dalyvaujant organizacijų (asociacijų) veikloje, įskaitant tokių organizacijų (asociacijų) teikiamą naudą.
+
+
+
+
+2. Organizacijos ir asociacijos privalo užtikrinti, kad šio straipsnio 1 dalyje nustatytais atvejais nebūtų priekabiaujama, seksualiai priekabiaujama ir nebūtų duodami nurodymai diskriminuoti lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu. 
+
+
+
+
+3. Organizacijos ir asociacijos privalo užtikrinti, kad asmenys, kurie pateikė skundą dėl diskriminacijos, dalyvauja byloje dėl diskriminacijos arba pranešė apie diskriminaciją, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų padarinių.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
  
 
 
@@ -1222,43 +1260,42 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+
  
- 
-Lietuvos Respublikos 
-lygių galimybių kontrolieriaus 
-įstatymo
+Lietuvos Respublikos
+lygių galimybių įstatymo
 priedas
  
-Įgyvendinami Europos Sąjungos teisės aktai
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2000 m. birželio 29 d. Tarybos direktyva 2000/43/EB, įgyvendinanti vienodo požiūrio principą asmenims nepriklausomai nuo jų rasės arba etninės priklausomybės (OL 2004 m. specialusis leidimas, 20 skyrius, 1 tomas, p. 23).
+1. 2000 m. birželio 29 d. Tarybos direktyva 2000/43/EB, įgyvendinanti vienodo požiūrio principą asmenims nepriklausomai nuo jų rasės arba etninės priklausomybės.
 
 
 
 
-2. 2000 m. lapkričio 27 d. Tarybos direktyva 2000/78/EB, nustatanti vienodo požiūrio užimtumo ir profesinėje srityje bendruosius pagrindus (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 79).
+2. 2000 m. lapkričio 27 d. Tarybos direktyva 2000/78/EB, nustatanti vienodo požiūrio užimtumo ir profesinėje srityje bendruosius pagrindus.
 
 
 
 
-3. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (nauja redakcija) (OL 2006 L 204, p. 23).
+3. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (nauja redakcija).
 
 
 
 
-4. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/41/ES dėl vienodo požiūrio į savarankiškai dirbančius vyrus ir moteris principo taikymo, kuria panaikinama Tarybos direktyva 86/613/EEB (OL 2010 L 180, p. 1).
+4. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/41/ES dėl vienodo požiūrio į savarankiškai dirbančius vyrus ir moteris principo taikymo, kuria panaikinama Tarybos direktyva 86/613/EEB.
 
 
 
 
-5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
-Papildyta punktu:
-Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
+5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+
+
+Priedo pakeitimai:
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
  
-
-
  
  
 Pakeitimai:
@@ -1307,3 +1344,11 @@ Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 1, 16 ir 17 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
 Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 24, 27 ir 29 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 4, 6, 7, 8, 9 straipsnių ir priedo pakeitimo įstatymas
+ 
+ 
+part_4a7c9507e4344e77bf92c75e581cf9e7_end
