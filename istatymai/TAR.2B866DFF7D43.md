@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2022-05-05 iki 2022-06-01
+Suvestinė redakcija nuo 2022-06-02 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -483,7 +483,7 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 3. Lietuvos Respublikos pilietis ar užsienietis neperduodamas Europos arešto orderį išdavusiai valstybei, jeigu:
 
 
-1) asmens perdavimas pagal Europos arešto orderį pažeistų pagrindines žmogaus teises ir (ar) laisves;
+1) teismas nustato, kad asmens perdavimas pagal Europos arešto orderį pažeistų pagrindines žmogaus teises ir (ar) laisves;
 
 
 
@@ -493,34 +493,22 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
 
 
-3) asmuo už jo padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, buvo nuteistas Lietuvos Respublikoje ar kitoje valstybėje ir paskirta bausmė įvykdyta, tebevykdoma ar nebegali būti vykdoma pagal nuteisusios valstybės įstatymus;
+3) asmuo už jo padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, buvo nuteistas Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje ir paskirta bausmė įvykdyta, tebevykdoma ar nebegali būti vykdoma pagal nuteisusios valstybės įstatymus;
 
 
 
 
-4) asmuo nusikalstamos veikos padarymo metu nebuvo sulaukęs amžiaus, nuo kurio pagal Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė už jo padarytą veiką;
+4) asmuo nusikalstamos veikos padarymo metu nebuvo sulaukęs amžiaus, nuo kurio pagal Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė už jo padarytą veiką; 
 
 
 
 
-5) padaryta veika pagal šį kodeksą nelaikoma nusikaltimu ar baudžiamuoju nusižengimu, išskyrus atvejus, kai Europos arešto orderis išduotas dėl 2002 m. birželio 13 d. Tarybos pagrindų sprendimo 2002/584/TVR dėl Europos arešto orderio ir valstybių narių tarpusavio perdavimo procedūrų 2 straipsnio 2 dalyje numatytos nusikalstamos veikos, o Europos arešto orderį išdavusios valstybės baudžiamieji įstatymai už šią nusikalstamą veiką numato ne mažesnę negu trejų metų su laisvės atėmimu susijusią bausmę;
+5) asmuo už padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, buvo Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje išteisintas ar atleistas nuo baudžiamosios atsakomybės ar bausmės. 
 
 
-
-
-6) asmuo už padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, buvo Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje išteisintas ar atleistas nuo baudžiamosios atsakomybės ar bausmės;
-
-
-
-
-7) Europos arešto orderis yra išduotas dėl nusikalstamos veikos, dėl kurios gali būti taikomi Lietuvos Respublikos baudžiamieji įstatymai, ir yra suėję šio kodekso 95 straipsnyje numatyti apkaltinamojo nuosprendžio priėmimo senaties ar 96 straipsnyje numatyti apkaltinamojo nuosprendžio vykdymo senaties terminai;
-
-
-
-
-8) nusikalstama veika padaryta ne Europos arešto orderį išdavusios valstybės teritorijoje ir Lietuvos Respublikos baudžiamieji įstatymai negalėtų būti taikomi dėl analogiškos veikos, jeigu ji būtų buvusi padaryta ne Lietuvos valstybės teritorijoje arba ne laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais. 
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
 
 
 
@@ -543,12 +531,50 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
 
 
-4) nusikalstama veika padaryta Lietuvos valstybės teritorijoje arba laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais;
+4) asmuo už jo padarytą nusikalstamą veiką, dėl kurios išduotas Europos arešto orderis, buvo nuteistas ne Europos Sąjungos valstybėje narėje ir paskirta bausmė įvykdyta, tebevykdoma ar nebegali būti vykdoma pagal nuteisusios valstybės įstatymus; 
+Papildyta straipsnio punktu:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
 
 
 
 
-5) Europos arešto orderyje trūksta informacijos, reikalingos sprendimui dėl asmens perdavimo priimti, ir Europos arešto orderį išdavusi valstybė per nustatytą terminą jos nepateikia. 
+5) padaryta veika pagal šį kodeksą nelaikoma nusikaltimu ar baudžiamuoju nusižengimu, išskyrus atvejus, kai Europos arešto orderis išduotas dėl Sprendimo 2002/584/TVR 2 straipsnio 2 dalyje numatytos nusikalstamos veikos, o Europos arešto orderį išdavusios valstybės baudžiamieji įstatymai už šią nusikalstamą veiką numato ne mažesnę negu trejų metų su laisvės atėmimu susijusią bausmę; 
+Papildyta straipsnio punktu:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
+
+
+
+
+6) Europos arešto orderis yra išduotas dėl nusikalstamos veikos, dėl kurios gali būti taikomi Lietuvos Respublikos baudžiamieji įstatymai, ir yra suėję šio kodekso 95 straipsnyje nustatyti apkaltinamojo nuosprendžio priėmimo senaties ar 96 straipsnyje nustatyti apkaltinamojo nuosprendžio vykdymo senaties terminai; 
+Papildyta straipsnio punktu:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
+
+
+
+
+7) nusikalstama veika padaryta ne Europos arešto orderį išdavusios valstybės teritorijoje arba ne trečiosios valstybės teritorijoje, kai šios valstybės institucijų priimtas nuosprendis buvo pripažintas Europos arešto orderį išdavusioje valstybėje, ir Lietuvos Respublikos baudžiamieji įstatymai negalėtų būti taikomi dėl analogiškos veikos, jeigu ji būtų buvusi padaryta ne Lietuvos valstybės teritorijoje arba ne laive ar ne orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais; 
+Papildyta straipsnio punktu:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
+
+
+
+
+8) nusikalstama veika padaryta Lietuvos valstybės teritorijoje arba laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
+
+
+
+
+9) Europos arešto orderyje trūksta informacijos, reikalingos sprendimui dėl asmens perdavimo priimti, ir Europos arešto orderį išdavusi valstybė per nustatytą terminą jos nepateikia. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
 
 
 
@@ -580,14 +606,27 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
 
 
-6. Jeigu Europos arešto orderis išduotas dėl nusikalstamos veikos, už kurią Europos arešto orderį išdavusios valstybės įstatymai numato laisvės atėmimo iki gyvos galvos bausmę, Lietuvos Respublikos pilietis ar užsienietis perduodamas su sąlyga, kad Europos arešto orderį išdavusios valstybės įstatymai numato galimybę nuteistajam ne vėliau kaip atlikus dvidešimt metų laisvės atėmimo bausmės kreiptis dėl atleidimo nuo bausmės ar jos sušvelninimo. 
+6. Negalima atsisakyti perduoti asmens pagal Europos arešto orderį, kuris išduotas dėl nusikalstamos veikos, susijusios su mokesčiais, rinkliavomis, muitais, valiutos keitimu, remiantis tuo, kad tos pačios rūšies mokesčiai ar rinkliavos nenustatyti Lietuvos Respublikos teisės aktuose, arba tuo, kad tokių mokesčių, rinkliavų, muitų ar valiutos keitimo teisinis reglamentavimas Lietuvos Respublikoje skiriasi nuo Europos arešto orderį išdavusios valstybės teisės aktuose nustatyto teisinio reglamentavimo. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
 
 
 
 
-7. Jeigu Europos arešto orderis išduotas baudžiamojo persekiojimo tikslais, Lietuvos Respublikos pilietis ar nuolat Lietuvos Respublikoje gyvenantis asmuo gali būti perduodamas su sąlyga, kad asmuo, dėl kurio Europos arešto orderį išdavusi valstybė priėmė nuosprendį, bus grąžintas į Lietuvos Respubliką atlikti jam paskirtą su laisvės atėmimu susijusią bausmę, jeigu to prašytų perduotasis asmuo arba to pareikalautų Lietuvos Respublikos generalinė prokuratūra. Ši sąlyga netaikoma, jeigu iš anksto nustatomas vienas ar daugiau Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nurodytų pagrindų, dėl kurių Lietuvos Respublika galėtų atsisakyti perimti paskirtos su laisvės atėmimu susijusios bausmės vykdymą.
+7. Jeigu Europos arešto orderis išduotas dėl nusikalstamos veikos, už kurią Europos arešto orderį išdavusios valstybės įstatymai numato laisvės atėmimo iki gyvos galvos bausmę, Lietuvos Respublikos pilietis ar užsienietis perduodamas su sąlyga, kad Europos arešto orderį išdavusios valstybės įstatymai numato galimybę nuteistajam ne vėliau kaip atlikus dvidešimt metų laisvės atėmimo bausmės kreiptis dėl atleidimo nuo bausmės ar jos sušvelninimo. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+ 
+
+
+
+
+8. Jeigu Europos arešto orderis išduotas baudžiamojo persekiojimo tikslais, Lietuvos Respublikos pilietis ar nuolat Lietuvos Respublikoje gyvenantis asmuo gali būti perduodamas su sąlyga, kad asmuo, dėl kurio Europos arešto orderį išdavusi valstybė priėmė nuosprendį, bus grąžintas į Lietuvos Respubliką atlikti jam paskirtą su laisvės atėmimu susijusią bausmę, jeigu to prašytų perduotasis asmuo arba to pareikalautų Lietuvos Respublikos generalinė prokuratūra. Ši sąlyga netaikoma, jeigu iš anksto nustatomas vienas ar daugiau Lietuvos Respublikos įstatyme „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ nurodytų pagrindų, dėl kurių Lietuvos Respublika galėtų atsisakyti perimti paskirtos su laisvės atėmimu susijusios bausmės vykdymą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
  
 
 
@@ -4885,16 +4924,29 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 118 straipsnis. Padėjimas kitai valstybei veikti prieš Lietuvos Respubliką
 
 
-Tas, kas padėjo kitai valstybei ar jos organizacijai veikti prieš Lietuvos Respubliką – jos konstitucinę santvarką, suverenitetą, teritorijos vientisumą, gynybos ar ekonomikos galią,
+1. Tas, kas padėjo kitai valstybei ar jos organizacijai veikti prieš Lietuvos Respubliką – jos konstitucinę santvarką, suverenitetą, teritorijos vientisumą, gynybos ar ekonomikos galią,
+baudžiamas laisvės atėmimu nuo dvejų iki septynerių metų.
 
 
 
 
-baudžiamas laisvės atėmimu iki septynerių metų.
+2. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs šiame straipsnyje numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus ir jų vykdomą veiklą, nukreiptą prieš Lietuvos Respublikos konstitucinę santvarką, suverenitetą, teritorijos vientisumą, gynybos ar ekonomikos galią.
+
+
+
+
+3. Šio straipsnio 2 dalis netaikoma asmeniui, kuris šiame straipsnyje ar šio kodekso 119 straipsnyje nustatytais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat jeigu dėl šio straipsnio 1 dalyje numatytos veikos padarymo žuvo žmogus ar atsirado kitokių sunkių padarinių. 
+
+
+
+
+4. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
+Straipsnio pakeitimai:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
  
 
 
@@ -4904,17 +4956,39 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 
 
 1. Tas, kas turėdamas tikslą perduoti užsienio valstybei, jos organizacijai pagrobė, pirko ar kitaip rinko informaciją, kuri yra Lietuvos Respublikos valstybės paslaptis, arba šią informaciją perdavė užsienio valstybei, jos organizacijai ar jų atstovui, 
-baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
+baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
 
 
 
 
 2. Tas, kas vykdydamas kitos valstybės ar jos organizacijos užduotį pagrobė, pirko ar kitaip rinko arba perdavė informaciją, kuri yra Lietuvos Respublikos valstybės paslaptis, arba kitą užsienio valstybės žvalgybą dominančią informaciją,
-baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
+baudžiamas laisvės atėmimu nuo šešerių iki penkiolikos metų.
+
+
+
+
+3. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs šio straipsnio 1 dalyje numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus, kuriems turėjo būti perduota ar buvo perduota surinkta informacija, kuri yra Lietuvos Respublikos valstybės paslaptis.
+
+
+
+
+4. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs šio straipsnio 2 dalyje numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus ir išaiškinant jų vykdomą veiklą, susijusią su informacijos, kuri yra Lietuvos Respublikos valstybės paslaptis, arba kitos užsienio valstybės žvalgybą dominančios informacijos rinkimu ar perdavimu.
+
+
+
+
+5. Šio straipsnio 3 ir 4 dalys netaikomos asmeniui, kuris šiame straipsnyje ar šio kodekso 118 straipsnyje nustatytais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat jeigu dėl šio straipsnio 1 ar 2 dalyje numatytos veikos padarymo žuvo žmogus ar atsirado kitokių sunkių padarinių.
+
+
+
+
+6. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
+Straipsnio pakeitimai:
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
  
 
 
@@ -11552,7 +11626,7 @@ Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
 
 
-part_ef04983643014421a4326591fafd33fa_end
+part_76851eec9d2e46509080c37085106dde_end
 
 
 Lietuvos Respublikos
@@ -12364,3 +12438,8 @@ Lietuvos Respublikos baudžiamojo kodekso 222 ir 223 straipsnių pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1065, 2022-04-28, paskelbta TAR 2022-05-04, i. k. 2022-09434
 Lietuvos Respublikos baudžiamojo kodekso 60, 129, 135, 138, 169, 170, 170-1 ir 170-2 straipsnių pakeitimo įstatymas
+ 
+48.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
+Lietuvos Respublikos baudžiamojo kodekso 9-1, 118 ir 119 straipsnių pakeitimo įstatymas
