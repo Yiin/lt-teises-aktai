@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/0ad2b1909a9b11ea9515f752ff221ec9"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir 23 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2022-06-02 iki 2023-09-18
+ 
+Įstatymas paskelbtas: TAR 2020-05-20, i. k. 2020-10665
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PINIGINĖS SOCIALINĖS PARAMOS NEPASITURINTIEMS GYVENTOJAMS ĮSTATYMO NR. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 IR 23 STRAIPSNIŲ PAKEITIMO 
 ĮSTATYMAS
@@ -676,17 +683,26 @@ Papildyti 21 straipsnį 101 dalimi:
 
 
 
-5. Šio įstatymo 2 straipsnio 2 dalis įsigalioja 2020 m. birželio 1 d. ir galioja iki dienos, kai sueina 6 mėnesiai po to, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai.
+5. Šio įstatymo 2 straipsnio 2 dalis įsigalioja 2020 m. birželio 1 d. ir galioja iki 2024 m. balandžio 30 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1108, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11866
+ 
 
 
 
 
-6. Šio įstatymo 2 straipsnio 3 dalis, 3 straipsnio 2 dalis, 10 straipsnio 3, 5 ir 7 dalys įsigalioja kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai.
+6. Šio įstatymo 2 straipsnio 3 dalis, 3 straipsnio 2 dalis, 10 straipsnio 3, 5 ir 7 dalys įsigalioja 2024 m. gegužės 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1108, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11866
+ 
 
 
 
 
-7. Šio įstatymo 3 straipsnio 1 dalis ir 10 straipsnio 4 dalis galioja iki dienos, kai sueina 6 mėnesiai po to, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai.
+7. Šio įstatymo 3 straipsnio 1 dalis ir 10 straipsnio 4 dalis galioja iki 2024 m. balandžio 30 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1108, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11866
+ 
 
 
 
@@ -736,4 +752,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_4c557ec558ab49daaa5f08a64bf00603_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1108, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11866
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir 23 straipsnių pakeitimo įstatymo Nr. XIII-2883 11 straipsnio pakeitimo įstatymas
+ 
+ 
+part_c465bc4fbdb44b9b8f46094e62d7ea96_end
