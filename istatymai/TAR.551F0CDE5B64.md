@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-06-06
+Suvestinė redakcija nuo 2022-06-07 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -2048,6 +2048,74 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
 Straipsnio pakeitimai:
 Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
+ 
+
+
+
+
+401 straipsnis. Informacijos apie kūrinio panaudojimą teikimas
+
+
+1. Autoriai kartą per metus jų prašymu turi teisę gauti naujausią, aktualią ir išsamią rašytinę informaciją iš šalių, kurioms autoriai sutartimi perdavė ar suteikė teises, apie jų sukurtų kūrinių panaudojimą, įskaitant duomenis apie jų panaudojimo būdus, pajamas, gautas už kūrinių panaudojimą, ir priklausantį atlygį.
+
+
+
+
+2. Pareiga teikti informaciją taip pat taikoma, kai autoriai su prašymu kreipiasi į sublicencijos turėtojus dėl papildomos informacijos, kai yra suteiktos sublicencijos ir pirmoji su autoriumi sutartį sudariusi šalis neturi visos reikalingos informacijos. Bet koks prašymas suteikti informaciją sublicencijų turėtojams gali būti pateikiamas tiesiogiai arba per sutartį su autoriumi sudariusią šalį. Kai paprašoma papildomos informacijos, pirmoji su autoriumi sutartį sudariusi šalis suteikia informaciją apie tuos sublicencijų turėtojus.
+
+
+
+
+3. Šio straipsnio 1 dalis netaikoma šiais atvejais:
+
+
+1) autorius yra sudaręs sutartį su kolektyvinio administravimo organizacijomis ar kolektyvinio autorių teisių ir gretutinių teisių administravimo nepriklausomais subjektais;
+
+
+
+
+2) autorius yra kompiuterių programos kūrėjas;
+
+
+
+
+3) autorius yra organizacijos, atstovaujančios jo interesams (pvz., asociacijos ar sąjungos), narys, autoriui atstovaujanti organizacija yra sudariusi su naudotojo interesams atstovaujančia organizacija (pvz., asociacija ar sąjunga) sutartį ir taikomos joje nustatytos skaidrumo taisyklės;
+
+
+
+
+4) autoriaus įnašas nėra reikšmingas, išskyrus atvejus, kai autorius įrodo, kad jam ši informacija reikalinga tam, kad jis galėtų pasinaudoti savo teisėmis pagal šio Įstatymo 402 straipsnio 1 dalį. Nustatant, ar autoriaus asmeninis įnašas yra reikšmingas, atsižvelgiama į tai:
+
+
+a) ar autoriaus įnašas turėjo tiesioginės įtakos bendrai kūrinio komercinei sėkmei;
+
+
+
+
+b) ar autoriaus įnašas galėjo būti pakeistas kito autoriaus įnašu, nedarant poveikio kūrinio komercinei sėkmei.
+
+
+
+
+
+
+
+
+4. Jeigu nesutariama dėl informacijos teikimo šio straipsnio 1 ar 2 dalyje numatytais atvejais, bet kuri iš sutarties šalių gali kreiptis į šio Įstatymo 7230 straipsnio 1 dalyje nurodytą Lietuvos autorių teisių ir gretutinių teisių komisiją su prašymu išspręsti ginčą, pasinaudoti kitais teisės aktuose numatytais ikiteisminio ginčų sprendimo būdais arba teisės aktų nustatyta tvarka kreiptis į teismą. 
+
+
+
+
+5. Sutarčių sąlygos, kuriomis atsisakoma teisės į informaciją, numatytą šio straipsnio 1 dalyje, yra niekinės ir negalioja.
+
+
+
+
+6. Informacija autoriams teikiama laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo reikalavimų ir užtikrinant tinkamą komercinės paslapties ir (arba) konfidencialios informacijos apsaugą. Autoriui ir šaliai, kuriai autoriai sutartimi perdavė ar suteikė teises, ar kitai informaciją teikiančiai šaliai susitarus dėl informacijos atskleidimo, šalis gali reikalauti, kad prieš atskleidžiant informaciją autorius būtų įpareigojamas neatskleisti komercinės paslapties ir užtikrinti tinkamą komercinės paslapties ir (arba) konfidencialios informacijos apsaugą.
+
+
+Papildyta straipsniu:
+Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
  
 
 
@@ -6424,10 +6492,12 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
-
  
  
  
+
+ 
+
  
 Lietuvos Respublikos
 autorių teisių ir gretutinių
@@ -6500,13 +6570,14 @@ Nr. XII-2237, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21024
 Pakeistas priedo pavadinimas:
 Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
  
-
-
-
+part_73d67a05e1a84161ad41725a9005be2e_end
 
  
  
  
+
+ 
+
  
 Lietuvos Respublikos 
 autorių teisių ir gretutinių 
@@ -6660,9 +6731,10 @@ Priedo pakeitimai:
 Nr. XII-2238, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00367
 Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
  
+part_38ae0bec3f8d4e2bb38cbf9e447fe492_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -6753,8 +6825,7 @@ Nr. XII-888, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05732
 Priedo pakeitimai:
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
  
-
-
+part_8c96b05ff48543d1a0d2b7c6dc28518e_end
 
 
 Pakeitimai:
