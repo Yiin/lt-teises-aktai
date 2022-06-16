@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2021-06-16 iki 2022-06-15
+Suvestinė redakcija nuo 2022-06-16 iki 2024-11-14
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
  
@@ -466,7 +466,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Vadovaujantis šio įstatymo 15 straipsnio 7 dalimi paskirti geležinkelių riedmenų, naudojamų Lietuvos Respublikos geležinkelių tinkle, techniniai prižiūrėtojai, siekdami užtikrinti geležinkelių riedmenų saugų veikimą, parengia geležinkelių riedmenų techninės priežiūros sistemas ir jas taikydami atlieka šio įstatymo 15 straipsnio 9 dalyje nurodytus veiksmus. Geležinkelių riedmenų, išskyrus prekinius vagonus, naudojamus 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninės priežiūros sistemos rengiamos susisiekimo ministro nustatyta tvarka. Prekinių vagonų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninės priežiūros sistemos turi atitikti Reglamento (ES) 2019/779 nustatytus reikalavimus. 
+5. Šio įstatymo 15 straipsnio 7 dalyje nustatyta tvarka paskirti geležinkelių riedmenų, naudojamų Lietuvos Respublikos geležinkelių tinkle, techniniai prižiūrėtojai, siekdami užtikrinti geležinkelių riedmenų saugų veikimą, parengia geležinkelių riedmenų techninės priežiūros sistemas ir jas taikydami atlieka šio įstatymo 15 straipsnio 9 dalyje nurodytus veiksmus. Geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninės priežiūros sistemos turi atitikti Reglamento (ES) 2019/779 nustatytus reikalavimus. Geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninės priežiūros sistemos rengiamos susisiekimo ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
+ 
 
 
 
@@ -581,8 +584,6 @@ Eismo SAUGOS Valstybinis Valdymas IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 
 6. Eismo saugos reikalavimus įgyvendina geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai), geležinkelių riedmenų techniniai prižiūrėtojai ir kiti asmenys, nurodyti šio įstatymo 3 straipsnio 1 dalyje, jų įgyvendinimo priežiūrą atlieka eismo saugos institucija. 
- 
- 
  
 
 
@@ -761,7 +762,10 @@ Eismo SAUGOS Valstybinis Valdymas IR eismo saugos reikalavimų ĮGYVENDINIMAS
 
 
 
-2) asmenys, pageidaujantys atlikti prekinių vagonų, naudojamų 1 520 mm pločio vėžės geležinkelių tinkle, techninę priežiūrą, turi gauti prekinių vagonų, naudojamų 1 520 mm pločio vėžės geležinkelių tinkle, techninio prižiūrėtojo sertifikatą, kaip tai numatyta šio įstatymo 18 straipsnyje;
+2) asmenys, pageidaujantys atlikti geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės geležinkelių tinkle, techninę priežiūrą, turi gauti geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės geležinkelių tinkle, techninio prižiūrėtojo sertifikatą, kaip tai numatyta šio įstatymo  18 straipsnyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
+ 
 
 
 
@@ -1311,7 +1315,6 @@ eismo saugos ir geležinkelių SISTEMOS sąveikumo reikalavimai
 
 15. Prašymų išduoti išankstinį leidimą pradėti naudoti ERTMS geležinkelio kelio įrangą pateikimo Agentūrai tvarką, prašymų priimti eismo saugos institucijos sprendimą dėl geležinkelių riedmenų tipo patvirtinimo pateikimo eismo saugos institucijai tvarką ir atvejus, taip pat eismo saugos institucijos sprendimo dėl geležinkelių riedmenų tipo patvirtinimo priėmimo tvarką nustato susisiekimo ministras. 
  
- 
 
 
 
@@ -1384,7 +1387,6 @@ Fiziniams asmenims draudžiama vaikščioti, važinėti geležinkelio keliais ir
 
 
 2. Geležinkelių infrastruktūros valdytojas privalo atlyginti asmenims žalą, atsiradusią dėl to, kad geležinkelių infrastruktūros valdytojas neatliko jam šio straipsnio 1 dalyje nurodytuose teisės aktuose nustatytų pareigų ar atliko jas netinkamai.
- 
  
 
 
@@ -1480,7 +1482,10 @@ Fiziniams asmenims draudžiama vaikščioti, važinėti geležinkelio keliais ir
 
 
 
-11. Prekinių vagonų, naudojamų Lietuvos Respublikos geležinkelių tinkle, techniniai prižiūrėtojai turi būti sertifikuoti šio įstatymo 17 ir 18 straipsniuose nustatyta tvarka. Šis reikalavimas netaikomas prekinių vagonų, kurie nenaudojami ar jų neketinama naudoti viešojoje geležinkelių infrastruktūroje, techniniams prižiūrėtojams. 
+11. Geležinkelių riedmenų, naudojamų Lietuvos Respublikos geležinkelių tinkle, techniniai prižiūrėtojai sertifikuojami šio įstatymo 17 ir 18 straipsniuose nustatyta tvarka. Šis reikalavimas netaikomas geležinkelių riedmenų, kurie nenaudojami ar jų neketinama naudoti viešojoje geležinkelių infrastruktūroje, techniniams prižiūrėtojams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
+ 
 
 
 
@@ -1526,40 +1531,45 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
  
 
 
-17 straipsnis. Prekinių vagonų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninių prižiūrėtojų sertifikavimas
+17 straipsnis. Geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninių prižiūrėtojų sertifikavimas 
 
 
-1. Asmenys, pageidaujantys atlikti prekinių vagonų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle (toliau šiame straipsnyje – prekiniai vagonai), techninę priežiūrą, turi gauti elektroninės formos ECM sertifikatą, kuris patvirtina, kad šio sertifikato turėtojas parengė geležinkelių riedmenų techninės priežiūros sistemą, vadovaudamasis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais. Eismo saugos institucija, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo principais, ECM sertifikatą išduoda 5 metams. ECM sertifikatas gali būti atnaujintas eismo saugos institucijos sprendimu, pateikus jai atitinkamą prašymą.
-
-
-
-
-2. Jeigu prekinių vagonų techninę priežiūrą pageidauja atlikti geležinkelių infrastruktūros valdytojas ar geležinkelio įmonė (vežėjas), geležinkelių infrastruktūros valdytojo ar geležinkelio įmonės (vežėjo) atitiktis šio įstatymo 4 straipsnio 5 dalyje nustatytiems reikalavimams patikrinama išduodant geležinkelių infrastruktūros valdytojams saugos leidimus, o geležinkelio įmonėms (vežėjams) – bendruosius saugos sertifikatus.
+1. Asmenys, pageidaujantys atlikti geležinkelių riedmenų, naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle (toliau šiame straipsnyje – geležinkelių riedmenys), techninę priežiūrą, turi gauti elektroninės formos ECM sertifikatą, kuris patvirtina, kad šio sertifikato turėtojas parengė geležinkelių riedmenų techninės priežiūros sistemą, vadovaudamasis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais. Eismo saugos institucija, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo principais, ECM sertifikatą išduoda 5 metams. ECM sertifikatas gali būti atnaujintas eismo saugos institucijos sprendimu, pateikus jai atitinkamą prašymą.
 
 
 
 
-3. Asmenys, pageidaujantys gauti ECM sertifikatą, susisiekimo ministro nustatyta tvarka pateikia eismo saugos institucijai Reglamente (ES) 2019/779 nustatytos formos prašymą išduoti ECM sertifikatą ir dokumentus, kuriais įrodoma, kad geležinkelių riedmenų techninės priežiūros sistema yra parengta vadovaujantis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais.
+2. Šio straipsnio 1 dalyje nustatytas reikalavimas įgyti ECM sertifikatą yra netaikomas geležinkelių infrastruktūros valdytojams ir geležinkelio įmonėms (vežėjams), jeigu šie asmenys pageidauja atlikti tik savo veikloje naudojamų kitų negu prekiniai vagonai geležinkelių riedmenų techninę priežiūrą. 
 
 
 
 
-4. Eismo saugos institucija, nustačiusi, kad prašymas ir (ar) pateikti dokumentai neatitinka reikalavimų, dokumentuose yra netikslių ar klaidingų duomenų, apie tai ne vėliau kaip per 5 darbo dienas nuo dokumentų gavimo dienos praneša prašymą pateikusiam asmeniui ir nustato ne trumpesnį kaip 20 darbo dienų terminą nustatytiems trūkumams pašalinti. Terminas, per kurį prašymą pateikęs asmuo yra įpareigotas pašalinti nustatytus trūkumus, gali būti pratęstas 20 darbo dienų, pateikus motyvuotą prašymą eismo saugos institucijai. 
+3. Jeigu prekinių vagonų techninę priežiūrą pageidauja atlikti geležinkelių infrastruktūros valdytojas ar geležinkelio įmonė (vežėjas), geležinkelių infrastruktūros valdytojo ar geležinkelio įmonės (vežėjo) atitiktis šio įstatymo 4 straipsnio 5 dalyje nustatytiems reikalavimams patikrinama išduodant geležinkelių infrastruktūros valdytojams saugos leidimus, o geležinkelio įmonėms (vežėjams) – bendruosius saugos sertifikatus.
 
 
 
 
-5. Eismo saugos institucija ne vėliau kaip per 4 mėnesius nuo tinkamai įforminto prašymo ir dokumentų gavimo dienos priima sprendimą išduoti arba atsisakyti išduoti ECM sertifikatą ir apie priimtą sprendimą informuoja prašymą pateikusį asmenį. 
+4. Asmenys, pageidaujantys gauti ECM sertifikatą, susisiekimo ministro nustatyta tvarka pateikia eismo saugos institucijai Reglamente (ES) 2019/779 nustatytos formos prašymą išduoti ECM sertifikatą ir dokumentus, kuriais įrodoma, kad geležinkelių riedmenų techninės priežiūros sistema yra parengta vadovaujantis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais.
 
 
 
 
-6. Sprendimas atsisakyti išduoti ECM sertifikatą priimamas, kai prašymą pateikęs asmuo neįrodo, kad geležinkelių riedmenų techninės priežiūros sistema yra parengta vadovaujantis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais.
+5. Eismo saugos institucija, nustačiusi, kad prašymas ir (ar) pateikti dokumentai neatitinka reikalavimų, dokumentuose yra netikslių ar klaidingų duomenų, apie tai ne vėliau kaip per 5 darbo dienas nuo dokumentų gavimo dienos praneša prašymą pateikusiam asmeniui ir nustato ne trumpesnį kaip 20 darbo dienų terminą nustatytiems trūkumams pašalinti. Terminas, per kurį prašymą pateikęs asmuo yra įpareigotas pašalinti nustatytus trūkumus, gali būti pratęstas 20 darbo dienų, pateikus motyvuotą prašymą eismo saugos institucijai. 
 
 
 
 
-7. Asmenys, įgiję ECM sertifikatą, vykdydami veiklą privalo:
+6. Eismo saugos institucija ne vėliau kaip per 4 mėnesius nuo tinkamai įforminto prašymo ir dokumentų gavimo dienos priima sprendimą išduoti arba atsisakyti išduoti ECM sertifikatą ir apie priimtą sprendimą informuoja prašymą pateikusį asmenį. 
+
+
+
+
+7. Sprendimas atsisakyti išduoti ECM sertifikatą priimamas, kai prašymą pateikęs asmuo neįrodo, kad geležinkelių riedmenų techninės priežiūros sistema yra parengta vadovaujantis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais.
+
+
+
+
+8. Asmenys, įgiję ECM sertifikatą, vykdydami veiklą privalo:
 
 
 1) turėti galiojantį ECM sertifikatą;
@@ -1592,52 +1602,49 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
 
 
 
-7) pateikti eismo saugos institucijai prašymą papildyti turimą ECM sertifikatą tuo atveju, kai įgyvendinami esminiai techninės priežiūros pakeitimai ir (ar) ketinama vykdyti veiklą, kuri nėra nurodyta ECM sertifikate; šių prašymų ir dokumentų vertinimui mutatis mutandis taikomos šio straipsnio 3–6 dalių nuostatos; 
+7) pateikti eismo saugos institucijai prašymą papildyti turimą ECM sertifikatą tuo atveju, kai įgyvendinami esminiai techninės priežiūros pakeitimai ir (ar) ketinama vykdyti veiklą, kuri nėra nurodyta ECM sertifikate; šių prašymų ir dokumentų vertinimui mutatis mutandis taikomos šio straipsnio 4–7 dalių nuostatos; 
 
 
 
 
-8) vykdyti Reglamento (ES) 2019/779 4, 5 ir 9 straipsniuose nurodytas informavimo pareigas. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
- 
+8) vykdyti Reglamento (ES) 2019/779 4, 5 ir 9 straipsniuose nurodytas informavimo pareigas.
 
 
 
 
 
 
-8. Eismo saugos institucija prižiūri, ar asmuo, įgijęs techninio prižiūrėtojo sertifikatą, laikosi šio straipsnio 7 dalyje nustatytų reikalavimų. Eismo saugos institucija ne rečiau kaip kartą per metus privalo atlikti techninio prižiūrėtojo, įgijusio ECM sertifikatą, patikrinimą jo veiklos vykdymo vietoje dėl šio straipsnio 7 dalies 2 punkte nustatytų veiklos sąlygų laikymosi. 
+9. Eismo saugos institucija prižiūri, ar asmuo, įgijęs techninio prižiūrėtojo sertifikatą, laikosi šio straipsnio 8 dalyje nustatytų reikalavimų. Eismo saugos institucija ne rečiau kaip kartą per metus privalo atlikti techninio prižiūrėtojo, įgijusio ECM sertifikatą, patikrinimą jo veiklos vykdymo vietoje dėl šio straipsnio 8 dalies 2 punkte nustatytų veiklos sąlygų laikymosi. 
 
 
 
 
-9. Atsižvelgiant į pažeidimo pobūdį, galimos ar kilusios žalos mastą, ECM sertifikato galiojimas gali būti sustabdytas, apribota jo galiojimo sritis, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, ar ECM sertifikato galiojimas panaikintas nedelsiant, tai yra nelaukiant termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, turėjo pašalinti pažeidimus, pabaigos.
+10. Atsižvelgiant į pažeidimo pobūdį, galimos ar kilusios žalos mastą, ECM sertifikato galiojimas gali būti sustabdytas, apribota jo galiojimo sritis, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, ar ECM sertifikato galiojimas panaikintas nedelsiant, tai yra nelaukiant termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, turėjo pašalinti pažeidimus, pabaigos.
 
 
 
 
-10. Eismo saugos institucija, nustačiusi šio straipsnio 7 dalyje nustatytų reikalavimų laikymosi pažeidimų, per 3 darbo dienas raštu įspėja techninį prižiūrėtoją, įgijusį ECM sertifikatą, apie galimą laikiną ECM sertifikato galiojimo srities apribojimą, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, arba kitais atvejais ECM sertifikato galiojimo sustabdymą ir nustato ne trumpesnį kaip 20 darbo dienų terminą nustatytiems pažeidimams pašalinti. Nustačiusi šio straipsnio 7 dalies 2 punkto pažeidimą, eismo saugos institucija parengia ir su techniniu prižiūrėtoju, įgijusiu ECM sertifikatą, suderina trūkumų šalinimo planą ir plane nurodo ne trumpesnį kaip 20 darbo dienų terminą trūkumams pašalinti. Nustatytas pažeidimų pašalinimo terminas gali būti pratęstas 20 darbo dienų, pateikus motyvuotą prašymą eismo saugos institucijai. 
+11. Eismo saugos institucija, nustačiusi šio straipsnio 8 dalyje nustatytų reikalavimų laikymosi pažeidimų, per 3 darbo dienas raštu įspėja techninį prižiūrėtoją, įgijusį ECM sertifikatą, apie galimą laikiną ECM sertifikato galiojimo srities apribojimą, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, arba kitais atvejais ECM sertifikato galiojimo sustabdymą ir nustato ne trumpesnį kaip 20 darbo dienų terminą nustatytiems pažeidimams pašalinti. Nustačiusi šio straipsnio 8 dalies 2 punkto pažeidimą, eismo saugos institucija parengia ir su techniniu prižiūrėtoju, įgijusiu ECM sertifikatą, suderina trūkumų šalinimo planą ir plane nurodo ne trumpesnį kaip 20 darbo dienų terminą trūkumams pašalinti. Nustatytas pažeidimų pašalinimo terminas gali būti pratęstas 20 darbo dienų, pateikus motyvuotą prašymą eismo saugos institucijai. 
 
 
 
 
-11. Jeigu per eismo saugos institucijos nustatytą ar trūkumų šalinimo plane nurodytą terminą nepašalinami trūkumai, dėl kurių šio sertifikato turėtojas buvo įspėtas, eismo saugos institucija laikinai apriboja ECM sertifikato galiojimo sritį, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, arba kitais atvejais sustabdo ECM sertifikato galiojimą per 3 darbo dienas nuo termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, turėjo pašalinti pažeidimus, dėl kurių buvo įspėtas, arba nuo trūkumų šalinimo plane nustatyto termino pabaigos ir nustato ne trumpesnį kaip 20 darbo dienų terminą nustatytiems pažeidimams pašalinti. Nustatytas pažeidimų pašalinimo terminas gali būti pratęstas 20 darbo dienų eismo saugos institucijos sprendimu, pateikus jai motyvuotą prašymą.
+12. Jeigu per eismo saugos institucijos nustatytą ar trūkumų šalinimo plane nurodytą terminą nepašalinami trūkumai, dėl kurių šio sertifikato turėtojas buvo įspėtas, eismo saugos institucija laikinai apriboja ECM sertifikato galiojimo sritį, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, arba kitais atvejais sustabdo ECM sertifikato galiojimą per 3 darbo dienas nuo termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, turėjo pašalinti pažeidimus, dėl kurių buvo įspėtas, arba nuo trūkumų šalinimo plane nustatyto termino pabaigos ir nustato ne trumpesnį kaip 20 darbo dienų terminą nustatytiems pažeidimams pašalinti. Nustatytas pažeidimų pašalinimo terminas gali būti pratęstas 20 darbo dienų eismo saugos institucijos sprendimu, pateikus jai motyvuotą prašymą.
 
 
 
 
-12. ECM sertifikato galiojimo srities laikinas apribojimas, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, ar kitais atvejais galiojimo sustabdymas panaikinamas ne vėliau kaip per 3 darbo dienas nuo termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, privalėjo pašalinti pažeidimus, pabaigos, jeigu techninis prižiūrėtojas, įgijęs ECM sertifikatą, per nustatytą terminą pašalina priežastis, dėl kurių buvo laikinai apribota ECM sertifikato galiojimo sritis ar sustabdytas ECM sertifikato galiojimas, ir apie tai raštu informuoja eismo saugos instituciją. 
+13. ECM sertifikato galiojimo srities laikinas apribojimas, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, ar kitais atvejais galiojimo sustabdymas panaikinamas ne vėliau kaip per 3 darbo dienas nuo termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, privalėjo pašalinti pažeidimus, pabaigos, jeigu techninis prižiūrėtojas, įgijęs ECM sertifikatą, per nustatytą terminą pašalina priežastis, dėl kurių buvo laikinai apribota ECM sertifikato galiojimo sritis ar sustabdytas ECM sertifikato galiojimas, ir apie tai raštu informuoja eismo saugos instituciją. 
 
 
 
 
-13. Eismo saugos institucija ECM sertifikato galiojimo sritį apriboja, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, per 3 darbo dienas nuo termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, privalėjo pašalinti nurodytus pažeidimus, dėl kurių buvo laikinai apribota ECM sertifikato galiojimo sritis, pabaigos. Taip pat ECM sertifikato galiojimo sritis apribojama, kai asmuo, įgijęs ECM sertifikatą, pateikia eismo saugos institucijai prašymą apriboti ECM sertifikato galiojimo sritį tam tikros dalies ECM sertifikate nurodytoms techninės priežiūros funkcijoms vykdyti. Asmuo, įgijęs ECM sertifikatą, kurio galiojimo sritis yra apribota tam tikros dalies techninės priežiūros funkcijoms vykdyti, gali atnaujinti šių funkcijų vykdymą tik eismo saugos institucijai papildžius ECM sertifikatą mutatis mutandis šio straipsnio 3–6 dalyse nustatyta tvarka.
+14. Eismo saugos institucija ECM sertifikato galiojimo sritį apriboja, kai nustatyti pažeidimai yra susiję tik su dalimi ECM sertifikate nurodytų techninės priežiūros funkcijų, per 3 darbo dienas nuo termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, privalėjo pašalinti nurodytus pažeidimus, dėl kurių buvo laikinai apribota ECM sertifikato galiojimo sritis, pabaigos. Taip pat ECM sertifikato galiojimo sritis apribojama, kai asmuo, įgijęs ECM sertifikatą, pateikia eismo saugos institucijai prašymą apriboti ECM sertifikato galiojimo sritį tam tikros dalies ECM sertifikate nurodytoms techninės priežiūros funkcijoms vykdyti. Asmuo, įgijęs ECM sertifikatą, kurio galiojimo sritis yra apribota tam tikros dalies techninės priežiūros funkcijoms vykdyti, gali atnaujinti šių funkcijų vykdymą tik eismo saugos institucijai papildžius ECM sertifikatą mutatis mutandis šio straipsnio 4–7 dalyse nustatyta tvarka.
 
 
 
 
-14. Eismo saugos institucija panaikina ECM sertifikato galiojimą per 3 darbo dienas nuo termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, privalėjo pašalinti nurodytus pažeidimus, dėl kurių ECM sertifikato galiojimas buvo sustabdytas, pabaigos. Taip pat ECM sertifikato galiojimas panaikinamas per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
+15. Eismo saugos institucija panaikina ECM sertifikato galiojimą per 3 darbo dienas nuo termino, per kurį techninis prižiūrėtojas, įgijęs ECM sertifikatą, privalėjo pašalinti nurodytus pažeidimus, dėl kurių ECM sertifikato galiojimas buvo sustabdytas, pabaigos. Taip pat ECM sertifikato galiojimas panaikinamas per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
 
 
 1) techninis prižiūrėtojas, įgijęs ECM sertifikatą, pateikia prašymą panaikinti ECM sertifikato galiojimą;
@@ -1662,23 +1669,25 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-15. Techninis prižiūrėtojas, įgijęs ECM sertifikatą, likus 20 darbo dienų iki šio straipsnio 8 dalyje nurodyto patikrinimo pateikia eismo saugos institucijai ir Agentūrai jos prašymu Reglamente (ES) 2019/779 nustatyto turinio praėjusių metų veiklos ataskaitą.
+16. Techninis prižiūrėtojas, įgijęs ECM sertifikatą, likus 20 darbo dienų iki šio straipsnio  9 dalyje nurodyto patikrinimo pateikia eismo saugos institucijai ir Agentūrai, jai paprašius, Reglamente (ES) 2019/779 nustatyto turinio praėjusių metų veiklos ataskaitą.
 
 
 
 
-16. Eismo saugos institucija savo interneto svetainėje viešai skelbia asmens, kuriam išduotas ECM sertifikatas, vardą (vardus), pavardę (pavardes), jeigu jis yra fizinis asmuo, juridinio asmens teisinę formą, pavadinimą, kodą, jeigu jis yra juridinis asmuo, sertifikato numerį, išdavimo datą, sertifikato galiojimo srities apribojimo, galiojimo sustabdymo, galiojimo srities apribojimo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo datą, kad būtų galima įsitikinti, jog asmeniui yra išduotas ECM sertifikatas ir jis galioja. Duomenys apie asmenį, kuriam išduotas ECM sertifikatas, paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo išduoti šį sertifikatą priėmimo dienos ir skelbiami iki ECM sertifikato galiojimo pabaigos datos arba iki dienos, kai ECM sertifikato galiojimas panaikinamas šio straipsnio 14 dalyje nustatytais atvejais. Asmens duomenys tvarkomi vadovaujantis Bendruoju duomenų apsaugos reglamentu, Asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais duomenų tvarkymą. 
+17. Eismo saugos institucija savo interneto svetainėje viešai skelbia asmens, kuriam išduotas ECM sertifikatas, vardą (vardus), pavardę (pavardes), jeigu jis yra fizinis asmuo, juridinio asmens teisinę formą, pavadinimą, kodą, jeigu jis yra juridinis asmuo, sertifikato numerį, išdavimo datą, galiojimo srities apribojimo, galiojimo sustabdymo, galiojimo srities apribojimo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo datą, kad būtų galima įsitikinti, jog asmeniui yra išduotas ECM sertifikatas ir jis galioja. Duomenys apie asmenį, kuriam išduotas ECM sertifikatas, paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo išduoti šį sertifikatą priėmimo dienos ir skelbiami iki ECM sertifikato galiojimo pabaigos datos arba iki dienos, kai ECM sertifikato galiojimas panaikinamas šio straipsnio 15 dalyje nustatytais atvejais. Asmens duomenys tvarkomi vadovaujantis Bendruoju duomenų apsaugos reglamentu, Asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais duomenų tvarkymą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
  
 
 
 
 
+18 straipsnis. Geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninių prižiūrėtojų sertifikavimas 
 
 
-18 straipsnis. Prekinių vagonų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninių prižiūrėtojų sertifikavimas 
-
-
-1. Asmenys, pageidaujantys atlikti prekinių vagonų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninę priežiūrą, turi gauti elektroninės formos geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninio prižiūrėtojo sertifikatą (toliau – techninio prižiūrėtojo sertifikatas), kuris patvirtina, kad šio sertifikato turėtojas parengė geležinkelių riedmenų techninės priežiūros sistemą, vadovaudamasis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais. Eismo saugos institucija, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo principais, techninio prižiūrėtojo sertifikatą išduoda 5 metams. Techninio prižiūrėtojo sertifikatas gali būti atnaujintas eismo saugos institucijos sprendimu, pateikus jai atitinkamą prašymą. 
+1. Asmenys, pageidaujantys atlikti geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninę priežiūrą, turi gauti elektroninės formos geležinkelių riedmenų, naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techninio prižiūrėtojo sertifikatą (toliau – techninio prižiūrėtojo sertifikatas), kuris patvirtina, kad šio sertifikato turėtojas parengė geležinkelių riedmenų techninės priežiūros sistemą, vadovaudamasis šio įstatymo 4 straipsnio 5 dalyje nustatytais reikalavimais. Eismo saugos institucija, vadovaudamasi nepriklausomumo, kompetencijos, nešališkumo principais, techninio prižiūrėtojo sertifikatą išduoda 5 metams. Techninio prižiūrėtojo sertifikatas gali būti atnaujintas eismo saugos institucijos sprendimu, pateikus jai atitinkamą prašymą. 
 
 
 
@@ -1711,7 +1720,7 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-6) pateikti eismo saugos institucijai prašymą papildyti turimą techninio prižiūrėtojo sertifikatą tuo atveju, kai įgyvendinami esminiai techninės priežiūros pakeitimai ir (ar) ketinama vykdyti veiklą, kuri nėra nurodyta techninio prižiūrėtojo sertifikate; šių prašymų ir dokumentų vertinimui mutatis mutandis taikomos šio įstatymo 17 straipsnio 3–6 dalių nuostatos. 
+6) pateikti eismo saugos institucijai prašymą papildyti turimą techninio prižiūrėtojo sertifikatą tuo atveju, kai įgyvendinami esminiai techninės priežiūros pakeitimai ir (ar) ketinama vykdyti veiklą, kuri nėra nurodyta techninio prižiūrėtojo sertifikate; šių prašymų ir dokumentų vertinimui mutatis mutandis taikomos šio įstatymo 17 straipsnio 4–7 dalių nuostatos. 
 
 
 
@@ -1728,10 +1737,12 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 
 
 
-5. Techninių prižiūrėtojų sertifikatų išdavimui, sertifikato galiojimo sustabdymui, jo galiojimo srities apribojimui, galiojimo panaikinimui mutatis mutandis taikomos šio įstatymo 17 straipsnio 2–6 , 9–14 ir 16 dalių nuostatos. Prašymo išduoti, atnaujinti ir atlikti kitus su techninio prižiūrėtojo sertifikato galiojimu susijusius veiksmus, techninio prižiūrėtojo sertifikato formą patvirtina eismo saugos institucija. 
+5. Techninių prižiūrėtojų sertifikatų išdavimui, sertifikato galiojimo sustabdymui, jo galiojimo srities apribojimui, galiojimo panaikinimui mutatis mutandis taikomos šio įstatymo 17 straipsnio 3–7, 10–15 ir 17 dalių nuostatos. Prašymo išduoti, atnaujinti ir atlikti kitus su techninio prižiūrėtojo sertifikato galiojimu susijusius veiksmus, techninio prižiūrėtojo sertifikato formą patvirtina eismo saugos institucija. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
  
-
-
 
 
 
@@ -1739,17 +1750,12 @@ Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
 19 straipsnis. Savanoriškas techninių prižiūrėtojų sertifikavimas
 
 
-1. Geležinkelių riedmenų (išskyrus prekinius vagonus), naudojamų 1 435 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techniniai prižiūrėtojai gali teikti prašymą gauti ECM sertifikatą. Tokiu atveju šių geležinkelių riedmenų techninės priežiūros sistemos turi atitikti Reglamente (ES) 2019/779 nustatytus reikalavimus. Prašymą gauti ECM sertifikatą taip pat gali teikti visi kiti asmenys, kurie neprivalo būti sertifikuoti šio įstatymo 17 straipsnyje nustatyta tvarka. Šių sertifikatų išdavimui (atnaujinimui, papildymui, pakeitimui), techninio prižiūrėtojo, įgijusio ECM sertifikatą pagal šį straipsnį, priežiūrai, sertifikato galiojimo sustabdymui, jo galiojimo srities apribojimui, galiojimo panaikinimui mutatis mutandis taikomos šio įstatymo 17 straipsnio nuostatos.
+Asmenys, kurie neprivalo būti sertifikuoti šio įstatymo 17 ir 18 straipsniuose nustatyta tvarka, gali teikti prašymą gauti ECM sertifikatą ir (ar) techninio prižiūrėtojo sertifikatą. Šių sertifikatų išdavimui (atnaujinimui, papildymui, pakeitimui), asmens, įgijusio sertifikatą, priežiūrai, sertifikato galiojimo sustabdymui, jo galiojimo srities apribojimui, galiojimo panaikinimui mutatis mutandis taikomos atitinkamai šio įstatymo 17 ar 18 straipsnio nuostatos. 
 
 
-
-
-2. Geležinkelių riedmenų (išskyrus prekinius vagonus), naudojamų 1 520 mm pločio vėžės Lietuvos Respublikos geležinkelių tinkle, techniniai prižiūrėtojai gali teikti prašymą gauti techninio prižiūrėtojo sertifikatą. Tokiu atveju šių geležinkelių riedmenų techninės priežiūros sistemos turi atitikti susisiekimo ministro nustatytus reikalavimus. Prašymą gauti techninio prižiūrėtojo sertifikatą taip pat gali teikti visi kiti asmenys, kurie neprivalo būti sertifikuoti šio įstatymo 18 straipsnyje nustatyta tvarka. Šių sertifikatų išdavimui (atnaujinimui, papildymui, pakeitimui), techninio prižiūrėtojo, įgijusio techninio prižiūrėtojo sertifikatą pagal šį straipsnį, priežiūrai, sertifikato galiojimo sustabdymui, jo galiojimo srities apribojimui, galiojimo panaikinimui mutatis mutandis taikomos šio įstatymo 18 straipsnio nuostatos.
+Straipsnio pakeitimai:
+Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
  
- 
- 
-
-
 
 
 
@@ -3830,7 +3836,7 @@ baigiamosios nuostatos
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                            ROLANDAS PAKSAS
  
 
 
