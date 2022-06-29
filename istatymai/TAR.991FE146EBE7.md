@@ -13,20 +13,25 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.991FE146EBE7"
 
 # Lietuvos Respublikos vaikų išlaikymo išmokų įstatymas
 
-Suvestinė redakcija nuo 2019-11-08 iki 2022-06-28
+Suvestinė redakcija nuo 2022-06-29
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 144-5464, i. k. 1061010ISTA000X-987
  
-Nauja redakcija nuo 2018-01-01:
-Nr. XIII-650, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16000
+TAR pastaba. Vaikų išlaikymo išmokų įstatymo nauja redakcija, išskyrus 7 straipsnio 1, 3, 4 punktus ir 10 straipsnio 1 dalies 1 ir 3 punktus, įsigalioja 2022 m. spalio 1 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1147, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13886
+Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo Nr. X-987 pakeitimo įstatymas
  
-LIETUVOS RESPUBLIKOS 
+Nauja redakcija nuo 2022-06-29:
+Nr. XIV-1147, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13886
+ 
+LIETUVOS RESPUBLIKOS
 VAIKŲ IŠLAIKYMO IŠMOKŲ 
 ĮSTATYMAS
  
+ 
 2006 m. gruodžio 19 d. Nr. X-987
 Vilnius
- 
  
 
 
@@ -38,12 +43,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šiuo įstatymu nustatomi valstybės įsipareigojimo garantuoti šio įstatymo nustatyto dydžio vaiko išlaikymą, kai yra šiame įstatyme nustatytos sąlygos, vykdymas ir valstybės mokamų išmokų, skirtų vaikams išlaikyti (toliau – išmokos), administravimo pagrindai. 
+1. Šiuo įstatymu nustatomas valstybės įsipareigojimo garantuoti šio įstatymo nustatyto dydžio vaiko išlaikymą, kai yra šiame įstatyme nustatytos sąlygos, vykdymas ir valstybės mokamų išmokų, skirtų vaikams išlaikyti (toliau – išmokos), administravimo pagrindai. 
 
 
 
 
-2. Šis įstatymas taikomas asmenims, nesukakusiems 18 metų, taip pat vyresniems negu 18 metų nedarbingiems asmenims, kuriems iki sukankant 18 metų buvo nustatytas neįgalumas, (toliau – vaikas) ir vienam iš tėvų, su kuriuo teismo sprendimu arba tėvų susitarimu nustatyta vaiko gyvenamoji vieta, arba globėjui (rūpintojui), kuris kreipiasi dėl išmokų mokėjimo ir kuris atitinka šiame įstatyme nustatytas sąlygas, taip pat asmenims, kurie teismo sprendimu arba pagal teismo patvirtintą vaiko išlaikymo sutartį privalo mokėti vaiko išlaikymo lėšas, bet nevykdo teismo sprendimo arba nemoka visos teismo priteistos sumos. 
+2. Šis įstatymas taikomas asmenims, nesukakusiems 18 metų, taip pat vyresniems negu 18 metų asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis ir kuriems iki sukankant 18 metų buvo nustatytas neįgalumas (toliau – vaikas), ir vienam iš tėvų, su kuriuo teismo sprendimu arba tėvų susitarimu nustatyta vaiko gyvenamoji vieta, arba globėjui (rūpintojui), kuris kreipiasi dėl išmokų mokėjimo ir kuris atitinka šiame įstatyme nustatytas sąlygas, taip pat asmenims, kurie teismo sprendimu arba pagal teismo patvirtintą vaiko išlaikymo sutartį privalo mokėti vaiko išlaikymo lėšas, bet nevykdo teismo sprendimo arba nemoka visos teismo priteistos sumos. 
  
 
 
@@ -59,7 +64,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Pareiškėjas – vienas iš tėvų, su kuriuo teismo sprendimu arba tėvų susitarimu nustatyta vaiko gyvenamoji vieta, arba globėjas (rūpintojas), kuris kreipiasi į išmokų administratorių dėl išmokų mokėjimo. 
+2. Pareiškėjas – vienas iš tėvų, su kuriuo teismo sprendimu arba tėvų susitarimu nustatyta vaiko gyvenamoji vieta, arba vyresnis negu 18 metų asmuo, kuriam nustatytas 0–25 procentų darbingumo lygis ir kuriam iki sukankant 18 metų buvo nustatytas neįgalumas, arba globėjas (rūpintojas), kuris kreipiasi į išmokų administratorių dėl išmokų mokėjimo.
 
 
 
@@ -74,7 +79,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme (toliau – Valstybinio socialinio draudimo įstatymas).
+5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme.
  
 
 
@@ -93,11 +98,9 @@ IŠMOKŲ ŠALTINIAI, IŠMOKŲ ADMINISTRATORIAUS SĄNAUDŲ KOMPENSAVIMAS, IŠMOK�
 
 
 Išmokos mokamos iš Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai skirtų valstybės biudžeto asignavimų. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-928, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21601
  
+
+
 
 
 
@@ -105,7 +108,7 @@ Nr. XIII-928, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21601
 4 straipsnis. Išmokų administratoriaus veiklos sąnaudų kompensavimas
 
 
-Išmokų administratoriaus patiriamos išmokų skyrimo, mokėjimo ir išieškojimo sąnaudos kompensuojamos pagal Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme nustatytą procentinį dydį šioms sąnaudoms kompensuoti iš Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai skirtų valstybės biudžeto asignavimų.
+Išmokų administratoriaus patiriamos išmokų skyrimo, mokėjimo ir išieškojimo sąnaudos kompensuojamos pagal Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme nustatytą procentinį dydį šioms sąnaudoms kompensuoti iš Socialinės apsaugos ir darbo ministerijai skirtų valstybės biudžeto asignavimų.
  
 
 
@@ -116,12 +119,12 @@ Išmokų administratoriaus patiriamos išmokų skyrimo, mokėjimo ir išieškoji
 5 straipsnis. Išmokų administratoriaus teisės
 
 
-1. Išmokų administratorius turi teisę reikalauti iš juridinių ir fizinių asmenų, valstybės ir savivaldybių institucijų, įstaigų, įmonių, organizacijų, taip pat iš valstybės ar žinybinių registrų, valstybės informacinių sistemų tvarkytojų pateikti duomenis ir informaciją, reikalingus išmokų administratoriaus funkcijoms vykdyti. 
+1. Išmokų administratorius turi teisę gauti iš juridinių ir fizinių asmenų duomenis ir informaciją, reikalingus išmokų administratoriaus funkcijoms vykdyti.
 
 
 
 
-2. Duomenis ir informaciją, reikalingus išmokų administratoriaus funkcijoms vykdyti, juridiniai ir fiziniai asmenys, valstybės ir savivaldybių institucijos, įstaigos, įmonės, organizacijos, taip pat valstybės ar žinybinių registrų, valstybės informacinių sistemų tvarkytojai privalo neatlygintinai raštu arba elektroniniu būdu pateikti išmokų administratoriui per 10 darbo dienų nuo prašymo gavimo dienos.
+2. Duomenis ir informaciją, reikalingus išmokų administratoriaus funkcijoms vykdyti, juridiniai ir fiziniai asmenys privalo neatlygintinai raštu arba elektroninėmis ryšio priemonėmis pateikti išmokų administratoriui per 10 darbo dienų nuo prašymo gavimo dienos arba duomenų teikimo sutartyje nustatyta tvarka ir terminais.
  
 
 
@@ -160,27 +163,25 @@ IŠMOKOS, JŲ SKYRIMAS IR MOKĖJIMAS
 7 straipsnis. Teisė į išmokas 
 
 
-Vaikas turi teisę į išmokas, jeigu kreipiantis ir priimant sprendimą dėl išmokų skyrimo, o paskyrus išmokas – mokant išmokas yra tenkinamos visos šios sąlygos:
+Vaikas turi teisę į išmokas, jeigu kreipiantis ir priimant sprendimą dėl išmokų skyrimo tenkinamos visos šios sąlygos:
 
 
-1) vaikas yra Lietuvos Respublikos pilietis, asmuo be pilietybės arba užsienietis, nuolat gyvenantis Lietuvos Respublikoje, kurio duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčio gyvenamosios vietos – apie savivaldybę, kurios teritorijoje jis gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą (toliau – Gyventojų registras); 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo (2017 m. rugsėjo 28 d. redakcija; TAR, 2017-10-09, Nr. 16000) 7 straipsnio 1, 3 punktai tiek, kiek juose nustatyta būtina paskirtų išmokų mokėjimo sąlyga vaikui ir pareiškėjui nuolat gyventi Lietuvos Respublikoje, prieštarauja Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai, 39 straipsnio 3 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
- 
+1) vaikas yra Lietuvos Respublikos pilietis, asmuo be pilietybės arba užsienietis;
 
 
 
 
-2) vaikas ilgiau kaip mėnesį negauna vaiko išlaikymo lėšų ar gauna tik dalį vaiko išlaikymo lėšų; 
+2) antstoliui pradėjus vykdomąją bylą dėl vaiko išlaikymo priverstinio išieškojimo arba atsisakius ją pradėti, kai vaiko išlaikymo išieškojimas pagal Lietuvos Respublikos civilinio proceso kodekso nuostatas nėra vykdomas, nes skolininkas gyvena ne Lietuvos Respublikoje, vaikas ilgiau kaip mėnesį negauna vaiko išlaikymo lėšų ar gauna tik jų dalį, ir (arba) vaikas negauna analogiškų išlaikymo išmokų iš kitų valstybių institucijų;
 
 
 
 
-3) pareiškėjas yra Lietuvos Respublikos pilietis, asmuo be pilietybės arba užsienietis, nuolat gyvenantis Lietuvos Respublikoje, kurio duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčio gyvenamosios vietos – apie savivaldybę, kurios teritorijoje jis gyvena, yra įrašyti į Gyventojų registrą.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo (2017 m. rugsėjo 28 d. redakcija; TAR, 2017-10-09, Nr. 16000) 7 straipsnio 1, 3 punktai tiek, kiek juose nustatyta būtina paskirtų išmokų mokėjimo sąlyga vaikui ir pareiškėjui nuolat gyventi Lietuvos Respublikoje, prieštarauja Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai, 39 straipsnio 3 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
+3) pareiškėjas yra Lietuvos Respublikos pilietis, asmuo be pilietybės arba užsienietis;
+
+
+
+
+4) vaikas ir (ar) pareiškėjas, kurie yra asmenys be pilietybės arba užsieniečiai, nuolat gyvena Lietuvos Respublikoje ir duomenys apie jų gyvenamąją vietą Lietuvos Respublikoje (neturinčių gyvenamosios vietos – apie savivaldybę, kurios teritorijoje jie gyvena) yra įrašyti į Lietuvos Respublikos gyventojų registrą.
  
 
 
@@ -193,8 +194,28 @@ Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
 8 straipsnis. Kreipimasis dėl išmokų
 
 
-Pareiškėjas, kreipdamasis į išmokų administratorių, Lietuvos Respublikos Vyriausybės patvirtintuose Vaikų išlaikymo išmokų nuostatuose (toliau – Nuostatai) nustatyta tvarka turi pateikti prašymą skirti išmoką (toliau – prašymas), teismo sprendimą arba teismo patvirtintą vaiko išlaikymo sutartį ar jų patvirtintas kopijas, nuorašus ar išrašus, kuriuose nustatytas vaiko išlaikymo lėšų dydis, taip pat šio įstatymo 7 straipsnyje nurodytas sąlygas patvirtinančius dokumentus, jeigu atitinkamų duomenų ar dokumentų išmokų administratorius negali gauti iš valstybės ar žinybinių registrų, valstybės informacinių sistemų. 
+Pareiškėjas, kreipdamasis į išmokų administratorių, Lietuvos Respublikos Vyriausybės patvirtintuose Vaikų išlaikymo išmokų nuostatuose (toliau – Nuostatai) nustatyta tvarka turi pateikti:
+
+
+1) prašymą skirti ir mokėti išmoką (toliau – prašymas);
+
+
+
+
+2) įsiteisėjusį teismo sprendimą arba teismo patvirtintą vaiko išlaikymo sutartį ar patvirtintas jų kopijas, nuorašus ar išrašus, kuriuose nustatytas vaiko išlaikymo lėšų dydis periodinėmis išmokomis;
+
+
+
+
+3) sąskaitos, į kurią skolininkas moka ar turi mokėti vaiko išlaikymo lėšas, išrašą, patvirtinantį, kad vaikas ilgiau kaip mėnesį negavo viso arba dalies teismo sprendimu arba teismo patvirtinta vaiko išlaikymo sutartimi nustatyto išlaikymo, jeigu vaiko išlaikymo išieškojimas pagal Civilinio proceso kodekso nuostatas nėra vykdomas, nes skolininkas gyvena ne Lietuvos Respublikoje; 
+
+
+
+
+4) šio įstatymo 7 straipsnyje nurodytas sąlygas patvirtinančius dokumentus, jeigu reikiamų duomenų ar dokumentų išmokų administratorius negali gauti iš registrų ar valstybės informacinių sistemų.
  
+
+
 
 
 
@@ -214,7 +235,7 @@ Pareiškėjas, kreipdamasis į išmokų administratorių, Lietuvos Respublikos V
 
 
 
-3. Sprendimas dėl išmokų skyrimo arba neskyrimo priimamas ne vėliau kaip per 10 darbo dienų nuo visų šio įstatymo 8 straipsnyje nurodytų dokumentų gavimo dienos.
+3. Sprendimas dėl išmokų skyrimo arba neskyrimo priimamas per 10 darbo dienų nuo visų reikiamų dokumentų ir duomenų gavimo dienos.
 
 
 
@@ -224,17 +245,12 @@ Pareiškėjas, kreipdamasis į išmokų administratorių, Lietuvos Respublikos V
 
 
 
-5. Išmokos neskiriamos, jeigu kreipiantis į išmokų administratorių dėl išmokų skyrimo vaikas neatitinka bent vienos šio įstatymo 7 straipsnio 1 ir 2 punktuose nustatytos sąlygos ir (arba) pareiškėjas neatitinka šio įstatymo 7 straipsnio 3 punkte nustatytos sąlygos, ir (arba) nepateikia visų šio įstatymo 8 straipsnyje nurodytų dokumentų. Pareiškėjas apie sprendimą neskirti išmokų informuojamas Nuostatuose nustatyta tvarka. 
+5. Išmokos neskiriamos, jeigu kreipiantis į išmokų administratorių dėl išmokų skyrimo vaikas neatitinka bent vienos šio įstatymo 7 straipsnio 1, 2 ir 4 punktuose nustatytos sąlygos ir (arba) pareiškėjas neatitinka šio įstatymo 7 straipsnio 3 ir 4 punktuose nustatytų sąlygų, ir (arba) nepateikia visų šio įstatymo 8 straipsnyje nurodytų dokumentų. Pareiškėjas apie sprendimą neskirti išmokų informuojamas Nuostatuose nustatyta tvarka. 
 
 
 
 
 6. Pareiškėjas ir skolininkas apie priimtą sprendimą skirti išmokas informuojami Nuostatuose nustatyta tvarka. 
-
-
-
-
-7. Jeigu skolininko informuoti Nuostatuose nustatyta tvarka neįmanoma, informacija apie priimtą sprendimą skirti išmokas ir jame nurodytas pasekmes, kad skolininkas sužinotų, jog jo įsipareigojimus mokėti vaiko išlaikymo lėšas (ar jų dalį) perėmė valstybė, skelbiama 3 mėnesius nuo dienos, kai paaiškėja, kad skolininko informuoti Nuostatuose nustatyta tvarka neįmanoma, išmokų administratoriaus interneto svetainėje, nurodant skolininko vardą, pavardę ir gimimo metus, sprendimo datą ir numerį.
  
 
 
@@ -248,11 +264,7 @@ Pareiškėjas, kreipdamasis į išmokų administratorių, Lietuvos Respublikos V
 1. Išmokų administratorius nutraukia išmokų mokėjimą, jeigu tenkinama bent viena iš šių sąlygų: 
 
 
-1) vaikas neatitinka šio įstatymo 7 straipsnio 1 punkte nurodytos sąlygos – nuo faktinių aplinkybių atsiradimo dienos;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo (2017 m. rugsėjo 28 d. redakcija; TAR, 2017-10-09, Nr. 16000) 10 straipsnio 1 dalies 1, 3 punktai prieštarauja Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai, 39 straipsnio 3 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
- 
+1) vaikas neatitinka šio įstatymo 7 straipsnio 4 punkte nurodytos sąlygos – nuo faktinių aplinkybių atsiradimo dienos;
 
 
 
@@ -262,11 +274,7 @@ Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
 
 
 
-3) pareiškėjas neatitinka šio įstatymo 7 straipsnio 3 punkte nurodytos sąlygos – nuo faktinių aplinkybių atsiradimo dienos;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo (2017 m. rugsėjo 28 d. redakcija; TAR, 2017-10-09, Nr. 16000) 10 straipsnio 1 dalies 1, 3 punktai prieštarauja Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai, 39 straipsnio 3 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
- 
+3) pareiškėjas neatitinka šio įstatymo 7 straipsnio 4 punkte nurodytos sąlygos – nuo faktinių aplinkybių atsiradimo dienos;
 
 
 
@@ -286,7 +294,7 @@ Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
 
 
 
-7) pareiškėjas mirė, pripažintas nežinia kur esančiu arba paskelbtas mirusiu – nuo mirties datos arba nuo teismo sprendime pripažinti pareiškėją nežinia kur esančiu arba paskelbti jį mirusiu nurodytos datos;
+7) pareiškėjas yra miręs, pripažintas nežinia kur esančiu arba paskelbtas mirusiu – nuo mirties datos arba nuo teismo sprendime pripažinti pareiškėją nežinia kur esančiu arba paskelbti jį mirusiu nurodytos datos;
 
 
 
@@ -296,19 +304,39 @@ Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
 
 
 
-9) skolininkas mirė arba yra paskelbtas mirusiu – nuo skolininko mirties datos arba nuo teismo sprendime paskelbti skolininką mirusiu nurodytos datos; 
+9) skolininkas yra miręs arba paskelbtas mirusiu – nuo skolininko mirties datos arba nuo teismo sprendime paskelbti skolininką mirusiu nurodytos datos; 
 
 
 
 
-10) uždaryta sąskaita kredito, mokėjimo ir (arba) elektroninių pinigų įstaigoje, į kurią pervedamos išmokos, ir pareiškėjas per Nuostatuose nustatytą terminą nepateikė naujos sąskaitos numerio – nuo mėnesio, einančio po mėnesio, už kurį buvo išmokėtos išmokos, pirmos dienos, o jeigu išmokos nebuvo mokamos, – nuo išmokų skyrimo dienos.
+10) uždaryta sąskaita kredito, mokėjimo ir (arba) elektroninių pinigų įstaigoje, į kurią pervedamos išmokos ir vaiko išlaikymo lėšos, ir pareiškėjas per Nuostatuose nustatytą terminą nepateikė naujos sąskaitos numerio – nuo mėnesio, einančio po mėnesio, už kurį buvo išmokėtos išmokos, pirmos dienos, o jeigu išmokos nebuvo mokamos, – nuo išmokų skyrimo dienos;
+
+
+
+
+11) įsiteisėjusiu teismo sprendimu nuginčyta tėvystė (motinystė) – nuo teismo sprendime nurodytos datos arba nuo teismo sprendimo įsiteisėjimo datos;
+
+
+
+
+12) pareiškėjas nepateikė šio įstatymo 12 straipsnio 5 punkte nurodyto dokumento – nuo einamųjų metų balandžio 1 d.
 
 
 
 
 
 
-2. Sprendimas nutraukti išmokų mokėjimą priimamas ne vėliau kaip per 10 darbo dienų nuo duomenų ar dokumentų, patvirtinančių šio straipsnio 1 dalyje nurodytas sąlygas, gavimo dienos.
+2. Sprendimas nutraukti išmokų mokėjimą priimamas ne vėliau kaip per 10 darbo dienų nuo:
+
+
+1) duomenų ar dokumentų, patvirtinančių šio straipsnio 1 dalies 1–11 punktuose nurodytas sąlygas, gavimo dienos;
+
+
+
+
+2) šio straipsnio 1 dalies 12 punkte nurodytos datos, kai pareiškėjas nepateikia šio įstatymo 12 straipsnio 5 punkte nurodyto dokumento.
+
+
 
 
 
@@ -329,7 +357,7 @@ Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
 
 
 
-2. Kai pareiškėjas pakartotinai kreipiasi į išmokų administratorių dėl išmokų skyrimo, vaikas turi atitikti šio įstatymo 7 straipsnio 1 ir 2 punktuose nustatytas sąlygas, o pareiškėjas turi atitikti šio įstatymo 7 straipsnio 3 punkte nustatytas sąlygas ir pateikti visus šio įstatymo 8 straipsnyje nurodytus dokumentus. 
+2. Kai pareiškėjas pakartotinai kreipiasi į išmokų administratorių dėl išmokų skyrimo, vaikas turi atitikti šio įstatymo 7 straipsnio 1, 2 ir 4 punktuose nustatytas sąlygas, o pareiškėjas turi atitikti šio įstatymo 7 straipsnio 3 ir 4 punktuose nustatytas sąlygas ir pateikti visus šio įstatymo 8 straipsnyje nurodytus dokumentus. 
 
 
 
@@ -339,7 +367,7 @@ Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
 
 
 
-4. Jeigu išmokų mokėjimas buvo nutrauktas esant šio įstatymo 10 straipsnio 1 dalies 7 punkte nurodytai sąlygai ir dėl išmokos skyrimo tam pačiam vaikui kreipiasi kitas pareiškėjas, pateikdamas visus šio įstatymo 8 straipsnyje nurodytus dokumentus, šios išmokos skiriamos ir mokamos Nuostatuose nustatyta tvarka už praėjusį laikotarpį, už kurį šios išmokos nebuvo išmokėtos ankstesniam pareiškėjui.
+4. Jeigu išmokų mokėjimas buvo nutrauktas esant šio įstatymo 10 straipsnio 1 dalies 6, 7 ir 8 punktuose nurodytoms sąlygoms ir dėl išmokos skyrimo tam pačiam vaikui kreipiasi kitas pareiškėjas, pateikdamas visus šio įstatymo 8 straipsnyje nurodytus dokumentus, šios išmokos skiriamos ir mokamos Nuostatuose nustatyta tvarka už praėjusį laikotarpį, už kurį šios išmokos nebuvo išmokėtos ankstesniam pareiškėjui.
  
 
 
@@ -360,12 +388,12 @@ PAREIŠKĖJO IR SKOLININKO PAREIGOS
 Pareiškėjas privalo:
 
 
-1) prašyme išmokų administratoriui nurodyti išsamią ir teisingą informaciją, įrodančią vaiko teisę gauti išmokas, bei pateikti išmokoms gauti būtinus dokumentus;
+1) išmokų administratoriui teikiamame prašyme nurodyti išsamią ir teisingą informaciją, įrodančią vaiko teisę gauti išmokas, sąskaitą, į kurią turi būti pervedamos teismo sprendimu arba teismo patvirtinta vaiko išlaikymo sutartimi nustatytos vaiko išlaikymo lėšos, bei pateikti išmokoms gauti būtinus dokumentus;
 
 
 
 
-2) pranešti išmokų administratoriui apie šio įstatymo 10 straipsnio 1 dalies 1, 2, 3, 4, 6, 8, 9 ir 10 punktuose nurodytas sąlygas ne vėliau kaip per 3 darbo dienas nuo tos dienos, kurią sužinojo ar turėjo sužinoti apie šių sąlygų atsiradimą;
+2) pranešti išmokų administratoriui apie šio įstatymo 10 straipsnio 1 dalies 1–4, 6,  8–11 punktuose nurodytas sąlygas ne vėliau kaip per 3 darbo dienas nuo tos dienos, kurią sužinojo ar turėjo sužinoti apie šių sąlygų atsiradimą;
 
 
 
@@ -375,7 +403,12 @@ Pareiškėjas privalo:
 
 
 
-4) grąžinti neteisėtai gautas išmokas.
+4) grąžinti neteisėtai gautas išmokas;
+
+
+
+
+5) iki kiekvienų metų kovo 31 d. pateikti išmokų administratoriui šio įstatymo 8 straipsnio 3 punkte nurodytos sąskaitos išrašą ar kitą užsienio valstybės dokumentą, patvirtinantį, kad vaikas praėjusiais kalendoriniais metais negavo viso arba dalies teismo sprendimu arba teismo patvirtinta vaiko išlaikymo sutartimi nustatyto išlaikymo, jeigu vaiko išlaikymo išieškojimas pagal Civilinio proceso kodekso nuostatas nėra vykdomas, nes skolininkas gyvena ne Lietuvos Respublikoje.
  
 
 
@@ -396,7 +429,7 @@ Skolininkas privalo:
 
 
 
-2) grąžinti išmokų administratoriui išmokėtas išmokas ir sumokėti delspinigius už kiekvieną įsiskolinimo dieną, skaičiuojamus nuo negrąžintos įsiskolinimo sumos. 
+2) grąžinti išmokų administratoriui išmokėtas išmokas. 
  
 
 
@@ -413,25 +446,25 @@ IŠMOKĖTŲ IŠMOKŲ IŠIEŠKOJIMAS
  
 
 
-14 straipsnis. Išmokėtų išmokų priskaičiuotų delspinigių išieškojimas iš skolininko ir išmokų administratoriaus atgręžtinio reikalavimo teisė
+14 straipsnis. Išmokėtų išmokų išieškojimas iš skolininko ir išmokų administratoriaus atgręžtinio reikalavimo teisė
 
 
-1. Išmokų administratorius, šio įstatymo nustatyta tvarka mokantis išmokas, nuo išmokos išmokėjimo momento įgyja teisę išieškoti iš skolininko išmokėtas išmokas ir Lietuvos Respublikos finansų ministro nustatyto dydžio delspinigius už kiekvieną įsiskolinimo dieną, skaičiuojamus nuo negrąžintos įsiskolinimo sumos. Išmokų administratorius pradeda skaičiuoti delspinigius kitą dieną po išmokų išmokėjimo ir baigia skaičiuoti išmokėtų išmokų grąžinimo dieną įskaitytinai. Delspinigiai negali būti skaičiuojami ilgiau kaip 180 dienų po išmokų išmokėjimo dienos. Delspinigių dydį ir jo apskaičiavimo tvarką nustato Lietuvos Respublikos finansų ministras. Antstolis pagal vykdomąjį dokumentą iš skolininko išieškomą vaiko išlaikymo lėšų skolą mažina išmokų administratoriaus išmokėtų išmokų dydžiu.
-
-
-
-
-2. Išmokėtos išmokos ir apskaičiuoti delspinigiai iš skolininko išieškomi Valstybinio socialinio draudimo įstatyme nustatytais valstybinio socialinio draudimo įmokų priverstinio išieškojimo būdais ir terminais. Išmokų administratoriaus sprendimas iš skolininko išieškoti išmokėtas išmokas ir (arba) delspinigius kartu yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
+1. Išmokų administratorius, šio įstatymo nustatyta tvarka mokantis išmokas, nuo išmokos išmokėjimo momento įgyja teisę išieškoti iš skolininko išmokėtas išmokas. Antstolis pagal vykdomąjį dokumentą iš skolininko išieškomą vaiko išlaikymo lėšų skolą mažina išmokų administratoriaus išmokėtų išmokų dydžiu.
 
 
 
 
-3. Delspinigių skaičiavimas nutraukiamas skolininkui mirus ar jį paskelbus mirusiu.
+2. Išmokėtos išmokos iš skolininko išieškomos Valstybinio socialinio draudimo įstatyme nustatytais valstybinio socialinio draudimo įmokų priverstinio išieškojimo būdais ir terminais. Išmokų administratoriaus sprendimas iš skolininko išieškoti išmokėtas išmokas kartu yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. 
 
 
 
 
-4. Išmokėtų išmokų ir delspinigių išieškojimas iš skolininko gali būti atidėtas Lietuvos Respublikos Vyriausybės patvirtintose Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka, taikoma valstybinio socialinio draudimo įmokų įsiskolinimo sumokėjimo atidėjimui.
+3. Išmokėtų išmokų įsiskolinimą valstybės biudžetui galima grąžinti dalimis pagal išmokų administratoriaus nustatytą tvarką. Skolos grąžinimo dalimis terminas negali būti ilgesnis kaip 60 mėnesių.
+
+
+
+
+4. Jeigu mirusio skolininko turtą paveldi skolininko vaikai, kuriems ir buvo mokamos vaikų išlaikymo išmokos, skolininko įsiskolinimas, likęs iki jo mirties dienos, nėra išieškomas, o yra nurašomas išmokų administratoriaus nustatyta tvarka.
  
 
 
@@ -439,20 +472,20 @@ IŠMOKĖTŲ IŠMOKŲ IŠIEŠKOJIMAS
 
 
 
-15 straipsnis. Dėl pareiškėjo kaltės neteisėtai gautų išmokų išieškojimas 
+15 straipsnis. Dėl pareiškėjo kaltės neteisėtai gautų išmokų išieškojimas
 
 
-1. Nustačius, kad išmokos buvo išmokėtos neteisėtai, nes kreipdamasis dėl išmokų pareiškėjas pateikė neteisingus duomenis, reikalingus išmokoms skirti, arba išmokų mokėjimo laikotarpiu šiame įstatyme nustatytais terminais ir tvarka nepranešė apie atsiradusias aplinkybes, turinčias įtakos teisei į išmokas arba išmokų dydžiui, pareiškėjas privalo grąžinti išmokų administratoriui visą neteisėtai gautą pinigų sumą iš karto arba dalimis. 
-
-
-
-
-2. Neteisėtai gautų išmokų grąžinimo dalimis terminas negali būti ilgesnis kaip 12 mėnesių nuo išmokų administratoriaus raginimo grąžinti neteisėtai gautas pinigų sumas įteikimo pareiškėjui dienos. 
+1. Nustačius, kad išmokos buvo išmokėtos neteisėtai, nes kreipdamasis dėl išmokų pareiškėjas pateikė neteisingus duomenis, reikalingus išmokoms skirti, arba išmokų mokėjimo laikotarpiu šiame įstatyme nustatytais terminais ir tvarka nepranešė apie atsiradusias aplinkybes, turinčias įtakos teisei į išmokas arba išmokų dydžiui, pareiškėjas privalo grąžinti išmokų administratoriui visą neteisėtai gautą pinigų sumą iš karto arba dalimis.
 
 
 
 
-3. Pareiškėjo negrąžintos neteisėtai gautos išmokos išieškomos Valstybinio socialinio draudimo įstatyme nustatytais valstybinio socialinio draudimo įmokų priverstinio išieškojimo būdais.
+2. Neteisėtai gautų išmokų grąžinimo dalimis terminas negali būti ilgesnis kaip 60 mėnesių nuo išmokų administratoriaus raginimo grąžinti neteisėtai gautas pinigų sumas įteikimo pareiškėjui dienos. 
+
+
+
+
+3. Pareiškėjo negrąžintos neteisėtai gautos išmokos išieškomos Valstybinio socialinio draudimo įstatyme nustatytais valstybinio socialinio draudimo įmokų priverstinio išieškojimo būdais, taip pat Valstybinio socialinio draudimo įstatymo 21 straipsnio 2 dalyje nustatyta tvarka.
  
 
 
@@ -460,15 +493,13 @@ IŠMOKĖTŲ IŠMOKŲ IŠIEŠKOJIMAS
 
 
 
-16 straipsnis. Išieškotų išmokėtų išmokų, palūkanų ir delspinigių panaudojimas
+16 straipsnis. Išieškotų išmokėtų išmokų panaudojimas
 
 
-Iš skolininko išieškotos ar jo grąžintos išmokėtos išmokos ir apskaičiuotos palūkanos ir delspinigiai, taip pat iš pareiškėjo išieškotos ar jo grąžintos neteisėtai gautos išmokos pervedamos į valstybės biudžetą Vyriausybės nustatyta tvarka. 
-
-
-Papildyta straipsniu:
-Nr. XIII-928, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21601
+Iš skolininko išieškotos ar jo grąžintos išmokėtos išmokos, taip pat iš pareiškėjo išieškotos ar jo grąžintos neteisėtai gautos išmokos pervedamos į valstybės biudžetą Vyriausybės nustatyta tvarka.
  
+
+
 
 
 
@@ -480,7 +511,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
- 
  
 
 
@@ -508,3 +538,8 @@ Lietuvos Respublikos vaikų išlaikymo fondo įstatymo Nr. X-987 pakeitimo įsta
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
 Dėl Lietuvos Respublikos vaikų išlaikymo fondo įstatymo ir Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1147, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13886
+Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo Nr. X-987 pakeitimo įstatymas
