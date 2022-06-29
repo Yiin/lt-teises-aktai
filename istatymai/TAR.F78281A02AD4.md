@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f78281a02ad411eabe008ea93139d588"
 
 # Lietuvos Respublikos principinės kariuomenės struktūros, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinio skaičiaus patvirtinimo įstatymas
 
+Suvestinė redakcija nuo 2022-06-29 iki 2024-07-17
+ 
+Įstatymas paskelbtas: TAR 2019-12-30, i. k. 2019-21556
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PRINCIPINĖS KARIUOMENĖS STRUKTŪROS, KARIŲ IR LIETUVOS KARIUOMENĖS DARBUOTOJŲ, DIRBANČIŲ PAGAL DARBO SUTARTIS IR GAUNANČIŲ DARBO UŽMOKESTĮ IŠ VALSTYBĖS BIUDŽETO IR VALSTYBĖS PINIGŲ FONDŲ (IŠSKYRUS DARBUOTOJUS, GAUNANČIUS DARBO UŽMOKESTĮ IŠ EUROPOS SĄJUNGOS STRUKTŪRINĖS, KITOS EUROPOS SĄJUNGOS FINANSINĖS PARAMOS IR TARPTAUTINĖS FINANSINĖS PARAMOS LĖŠŲ (IŠSKYRUS TECHNINĖS PARAMOS LĖŠAS), RIBINIO SKAIČIAUS PATVIRTINIMO
 ĮSTATYMAS
@@ -21,9 +28,7 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS, KARIŲ IR LIETUVOS KARIUOMENĖS DARBUOTOJ
 Vilnius
  
  
-
- 
-
+ 
  
 
 
@@ -250,13 +255,13 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS, KARIŲ IR Lietuvos kariuomenės darbuotoj
 
 
 
-2 straipsnis. Principinė kariuomenės struktūra, ribiniai karių ir kariuomenės darbuotojų skaičiai
+2 straipsnis. Principinė kariuomenės struktūra, ribiniai karių ir kariuomenės  darbuotojų skaičiai
 
 
-1. Principinė kariuomenės struktūra:
+1.  Principinė kariuomenės struktūra:
 
 
-1) sausumos pajėgos – Mechanizuotoji pėstininkų brigada „Geležinis Vilkas“ (Lietuvos didžiojo kunigaikščio Algirdo mechanizuotasis pėstininkų batalionas, Didžiosios kunigaikštienės Birutės ulonų batalionas, Kunigaikščio Vaidoto mechanizuotasis pėstininkų batalionas, Karaliaus Mindaugo husarų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas, Logistikos batalionas), Motorizuotoji pėstininkų brigada „Žemaitija“ (Lietuvos didžiojo kunigaikščio Kęstučio motorizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų batalionas, Kunigaikščio Margirio pėstininkų batalionas, Brigados generolo Motiejaus Pečiulionio artilerijos batalionas), Juozo Vitkaus inžinerijos batalionas, Krašto apsaugos savanorių pajėgos (Dainavos apygardos 1-oji rinktinė, Dariaus ir Girėno apygardos 2-oji rinktinė, Žemaičių apygardos 3-ioji rinktinė, Vyčio apygardos 5-oji rinktinė, Prisikėlimo apygardos 6-oji rinktinė, Didžiosios Kovos apygardos 8-oji rinktinė);
+1) sausumos pajėgos – Pėstininkų brigada „Geležinis Vilkas“ (Lietuvos didžiojo kunigaikščio Algirdo pėstininkų batalionas, Didžiosios kunigaikštienės Birutės ulonų batalionas, Kunigaikščio Vaidoto pėstininkų batalionas, Karaliaus Mindaugo husarų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas, Logistikos batalionas), Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigada „Žemaitija“ (Lietuvos didžiojo kunigaikščio Kęstučio  pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų batalionas, Kunigaikščio Margirio pėstininkų batalionas, Brigados generolo Motiejaus Pečiulionio artilerijos batalionas), Pulkininko Juozo Vitkaus inžinerijos batalionas, Krašto apsaugos savanorių pajėgos (Dainavos apygardos 1-oji rinktinė, Dariaus ir Girėno apygardos 2-oji rinktinė, Žemaičių apygardos 3-ioji rinktinė, Vyčio apygardos 5-oji rinktinė, Prisikėlimo apygardos 6-oji rinktinė, Didžiosios Kovos apygardos 8-oji rinktinė);
 
 
 
@@ -303,15 +308,15 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS, KARIŲ IR Lietuvos kariuomenės darbuotoj
 
 
 
-2. Bendras ribinis karių skaičius nustatomas nuo 20 790 iki 26 850. Iš šio skaičiaus:
+2. Bendras ribinis karių skaičius nustatomas nuo 20 390 iki 27 370. Iš šio skaičiaus:
 
 
-1) ribinis profesinės karo tarnybos karių skaičius – nuo 11 400 iki 15 600, iš jų: generolų ir admirolų – iki 14, pulkininkų ir jūrų kapitonų – iki 66, pulkininkų leitenantų ir komandorų – iki 262, majorų ir komandorų leitenantų – iki 963;
+1) ribinis profesinės karo tarnybos karių skaičius – nuo 11 400 iki 15 600, iš jų: generolų ir admirolų – iki 14, pulkininkų ir jūrų kapitonų – iki 66, pulkininkų leitenantų ir komandorų – iki 262, majorų ir komandorų leitenantų – iki 963;
 
 
 
 
-2) ribinis privalomosios pradinės karo tarnybos karių skaičius – nuo 4 190 iki 4 630 per metus, iš šio skaičiaus: pašaukiamų į nuolatinę privalomąją pradinę karo tarnybą – nuo 3 800 iki 4 000, dalyvaujančių jaunesniųjų karininkų vadų mokymuose – nuo 390 iki 630;
+2) ribinis privalomosios pradinės karo tarnybos karių skaičius – nuo 3 790 iki 5 030 per metus, iš šio skaičiaus: pašaukiamų į nuolatinę privalomąją pradinę karo tarnybą – nuo 3 400 iki 4 400, dalyvaujančių jaunesniųjų karininkų vadų mokymuose – nuo 390 iki 630;
 
 
 
@@ -321,21 +326,24 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS, KARIŲ IR Lietuvos kariuomenės darbuotoj
 
 
 
-4) ribinis kariūnų skaičius – nuo 200 iki 320.
+4) ribinis kariūnų skaičius – nuo 200 iki 440.
 
 
 
 
 
 
-3. Ribinis kiekvienais metais į pratybas ir mokymus pašaukiamų aktyviojo kariuomenės personalo rezervo karių skaičius – nuo 1 500 iki 4 000.
+3. Ribinis kiekvienais metais į pratybas ir mokymus pašaukiamų aktyviojo kariuomenės personalo rezervo karių skaičius – nuo 2 500 iki 5 000.
 
 
 
 
-4. Ribinis kariuomenės darbuotojų skaičius – iki 1 800.“
+4. Ribinis kariuomenės darbuotojų skaičius – iki 2 050.
 
 
+Straipsnio pakeitimai:
+Nr. XIV-1140, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13825
+ 
 
 
 
@@ -348,7 +356,7 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS, KARIŲ IR Lietuvos kariuomenės darbuotoj
 „1. Principinė kariuomenės struktūra:
 
 
-1) sausumos pajėgos – Mechanizuotoji pėstininkų brigada „Geležinis Vilkas“ (Lietuvos didžiojo kunigaikščio Algirdo mechanizuotasis pėstininkų batalionas, Didžiosios kunigaikštienės Birutės ulonų batalionas, Kunigaikščio Vaidoto mechanizuotasis pėstininkų batalionas, Karaliaus Mindaugo husarų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas, Logistikos batalionas), Motorizuotoji pėstininkų brigada „Žemaitija“ (Lietuvos didžiojo kunigaikščio Kęstučio motorizuotasis pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų batalionas, Kunigaikščio Margirio pėstininkų batalionas, Brigados generolo Motiejaus Pečiulionio artilerijos batalionas, Logistikos batalionas), Juozo Vitkaus inžinerijos batalionas, Krašto apsaugos savanorių pajėgos (Dainavos apygardos 1-oji rinktinė, Dariaus ir Girėno apygardos 2-oji rinktinė, Žemaičių apygardos 3-ioji rinktinė, Vyčio apygardos 5-oji rinktinė, Prisikėlimo apygardos 6-oji rinktinė, Didžiosios Kovos apygardos 8-oji rinktinė);
+1) sausumos pajėgos – Pėstininkų brigada „Geležinis Vilkas“ (Lietuvos didžiojo kunigaikščio Algirdo pėstininkų batalionas, Didžiosios kunigaikštienės Birutės ulonų batalionas, Kunigaikščio Vaidoto pėstininkų batalionas, Karaliaus Mindaugo husarų batalionas, Generolo Romualdo Giedraičio artilerijos batalionas, Logistikos batalionas), Lietuvos didžiojo etmono Jono Karolio Chodkevičiaus pėstininkų brigada „Žemaitija“ (Lietuvos didžiojo kunigaikščio Kęstučio  pėstininkų batalionas, Lietuvos didžiojo kunigaikščio Butigeidžio dragūnų batalionas, Kunigaikščio Margirio pėstininkų batalionas, Brigados generolo Motiejaus Pečiulionio artilerijos batalionas, Logistikos batalionas), Pulkininko Juozo Vitkaus inžinerijos batalionas, Krašto apsaugos savanorių pajėgos (Dainavos apygardos 1-oji rinktinė, Dariaus ir Girėno apygardos 2-oji rinktinė, Žemaičių apygardos 3-ioji rinktinė, Vyčio apygardos 5-oji rinktinė, Prisikėlimo apygardos 6-oji rinktinė, Didžiosios Kovos apygardos 8-oji rinktinė);
 
 
 
@@ -388,14 +396,16 @@ PRINCIPINĖS KARIUOMENĖS STRUKTŪROS, KARIŲ IR Lietuvos kariuomenės darbuotoj
 
 
 
-9) Karo policija.“
+9) Karo policija.“.
+
+
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1140, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13825
  
-
-
-
-
-
-
 
 
 
@@ -451,4 +461,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_f78d9beb592444169514e2ee7d29d613_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1140, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13825
+Lietuvos Respublikos principinės kariuomenės struktūros, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinio skaičiaus patvirtinimo įstatymo Nr. XIII-2709 2 ir 3 straipsnių pakeitimo įstatymas
