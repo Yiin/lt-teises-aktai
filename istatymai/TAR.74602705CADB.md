@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2020-07-04 iki 2022-06-28
+Suvestinė redakcija nuo 2022-06-29 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
  
@@ -478,7 +478,10 @@ Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 
 
 
-2. Visos atsargos privalo būti laikomos Lietuvos Respublikos arba kitų valstybių narių teritorijoje pagal tų valstybių narių atitinkamų teisės aktų reikalavimus įrengtuose naftos produktų ar naftos sandėliuose (terminaluose) arba saugyklose.
+2. Visos atsargos privalo būti laikomos Lietuvos Respublikos arba kitų valstybių narių teritorijoje pagal tų valstybių narių atitinkamų teisės aktų reikalavimus įrengtuose naftos produktų ar naftos sandėliuose (terminaluose) arba saugyklose. Visos specialiosios atsargos turi būti laikomos naftos produktų ar naftos sandėliuose (terminaluose) arba saugyklose, kurie pagal Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą yra įtraukti į Nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto sąrašą ir atitinka Vyriausybės ar jos įgaliotos institucijos nustatytus nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto fizinės ir veiklos apsaugos reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1139, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13823
+ 
 
 
 
@@ -1141,3 +1144,8 @@ Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3141, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15003
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 1, 2, 15, 17, 18, 20, 21 straipsnių ir priedo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1139, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13823
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 10 straipsnio pakeitimo įstatymas
