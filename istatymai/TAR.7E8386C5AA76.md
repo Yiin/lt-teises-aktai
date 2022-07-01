@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2022-03-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
  
@@ -499,7 +499,7 @@ Vyriausybė:
 
 
 11) apibendrina ir teikia regiono plėtros tarybai svarstyti valstybės ir savivaldybių institucijų ir įstaigų pasiūlymus dėl projektų įtraukimo į regiono plėtros tarybos Lietuvos Respublikos vidaus reikalų ministro nustatyta tvarka sudaromus ir tvirtinamus siūlomų finansuoti projektų sąrašus;
-TAR pastaba. 10 straipsnio 1 dalies 11 punktas įsigalioja 2022 m. liepos 1 d. ir galioja iki 2023 m. gruodžio 31 d.
+TAR pastaba. 10 straipsnio 1 dalies 11 punktas galioja iki 2023 m. gruodžio 31 d.
 
 
 
@@ -768,24 +768,10 @@ TAR pastaba. 10 straipsnio 1 dalies 11 punktas įsigalioja 2022 m. liepos 1 d. i
 
 
 
-15 straipsnis. Vyriausybės įgaliotos įstaigos prie Vidaus reikalų ministerijos įgaliojimai
-
-
-Vyriausybės įgaliota įstaiga prie Vidaus reikalų ministerijos:
-
-
-1) apibendrina ir teikia regiono plėtros tarybai svarstyti valstybės ir savivaldybių institucijų pasiūlymus dėl projektų įtraukimo į regiono plėtros tarybos vidaus reikalų ministro nustatyta tvarka sudaromus ir tvirtinamus siūlomų finansuoti projektų sąrašus;
-
-
-
-
-2) atlieka kitas teisės aktuose nustatytas funkcijas.
-TAR pastaba. 15 straipsnis galioja iki 2022 m. birželio 30 d.
+15 straipsnis. Neteko galios nuo 2022-07-01
+Straipsnio naikinimas:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
  
-
-
-
-
 
 
 
@@ -1598,7 +1584,6 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 6. Kolegijos nariui regiono plėtros taryba apmoka komandiruotės išlaidas, kai kolegijos narys už savivaldybės, kurios meras ar savivaldybės tarybos narys jis yra, ribų atlieka šio įstatymo 24 straipsnio 2 dalies 4 punkte nustatytą kolegijos pirmininko pareigą, kolegijos sprendimu atstovauja regiono plėtros tarybai ar kolegijos sprendimu dalyvauja veikloje, skirtoje kolegijos nario pareigoms atlikti reikalingai kolegijos nario kvalifikacijai tobulinti. Kolegijos nario komandiruotės išlaidos, neatsiejamai susijusios su šio įstatymo 12 straipsnio 3 dalies 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu ar su kolegijos nario dalyvavimu jo kvalifikacijai tobulinti skirtoje veikloje, apmokamos iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kitos kolegijos nario komandiruotės išlaidos – iš šio įstatymo 28 straipsnio 3 dalyje nurodytų regiono plėtros tarybos lėšų. Kolegijos nariams komandiruotės išlaidos apmokamos Vyriausybės nustatyta tvarka.
-TAR pastaba. 25 straipsnio 6 dalis įsigalioja 2022 m. kovo 1 d.
 
 
 
