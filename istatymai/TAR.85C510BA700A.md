@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -2518,35 +2518,39 @@ Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
 
 
 
-433 straipsnis. Valstybinis duomenų centras
+433 straipsnis. Duomenų centrai
 
 
-1. Institucijos, įrašytos į Saugiojo tinklo naudotojų sąrašą, privalo visų jų valdomų serverių ir (arba) kitą registrų ir valstybės bei kitų informacinių sistemų įrangą ir duomenis laikyti valstybiniuose duomenų centruose. 
-
-
-
-
-2. Valstybinių duomenų centrų sąrašą, techninius reikalavimus, taikomus valstybiniams duomenų centrams, valstybinių duomenų centrų naudotojams teikiamų paslaugų teikimo sąlygų aprašą tvirtina Vyriausybė ar jos įgaliota institucija. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
- 
+1. Institucijos, įrašytos į Saugiojo tinklo naudotojų sąrašą, turi teisę laikyti savo valdomus valstybės informacinius išteklius valstybiniuose duomenų centruose. Valstybinių duomenų centrų sąrašą tvirtina ekonomikos ir inovacijų ministras.
 
 
 
 
-3. Institucijų išlaidos, patirtos dėl valstybinių duomenų centrų naudotojams teikiamų paslaugų teikimo ir valstybiniuose duomenų centruose laikomos įrangos eksploatavimo, finansuojamos iš valstybės biudžeto lėšų ir (arba) kitų teisės aktuose nustatytų finansavimo šaltinių. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
- 
+2. Institucijos privalo Vyriausybės nutarimu patvirtintų valstybės informacinių išteklių, kurie turi būti prieinami karo, nepaprastosios padėties, ekstremaliųjų situacijų ar kitais krizių atvejais, kopijas Vyriausybės nustatyta tvarka laikyti ne Lietuvos Respublikoje esančiuose duomenų centruose, bet kituose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose. Karo, nepaprastosios padėties, ekstremaliųjų situacijų ar krizių atvejais Lietuvos Respublikos teritorijoje praradus prieigą prie šioje dalyje nurodytų Vyriausybės nutarimu patvirtintų valstybės informacinių išteklių ar sutrikus jų veiklai, Vyriausybės nustatyta tvarka turi pradėti veikti šių valstybės informacinių išteklių kopijos, laikomos šioje dalyje nurodytuose duomenų centruose.
 
 
 
 
-4. Institucijų valdomų serverių ir (arba) registrų ir valstybės bei kitų informacinių sistemų įrangos ir duomenų perkėlimo į valstybinius duomenų centrus sąlygas, planą ir terminus nustato Vyriausybė ar jos įgaliota institucija. 
+3. Sutartis dėl valstybės institucijų ir valstybės įstaigų, finansuojamų iš valstybės biudžeto, valdomų valstybės informacinių išteklių laikymo Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose centralizuotai sudaro Vyriausybės įgaliota institucija.
 
 
-Papildyta straipsniu:
-Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
+
+
+4. Asmens duomenų, laikomų valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose, saugumui užtikrinti turi būti laikomasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme nustatytų reikalavimų.
+
+
+
+
+5. Institucijų išlaidos, patirtos dėl jų valdomų valstybės informacinių išteklių ir (ar) jų kopijų laikymo valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose, finansuojamos iš valstybės biudžeto lėšų ir (arba) kitų teisės aktuose nustatytų finansavimo šaltinių.
+
+
+
+
+6. Techninius ir organizacinius reikalavimus, taikomus valstybiniams duomenų centrams ir Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esantiems duomenų centrams, kuriuose laikomi valstybės informaciniai ištekliai, tvirtina ekonomikos ir inovacijų ministras. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
  
 
 
@@ -2850,3 +2854,8 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2729, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00093
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 16 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 3, 4, 5, 6, 18, 22, 30, 39, 43-2, 43-3 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
