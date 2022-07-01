@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-07-11
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -334,6 +334,14 @@ c) turi administraciją, valdymo ar priežiūros organą, kurio daugiau kaip pus
 3) šios dalies 1 ir (arba) 2 punktuose nurodytų viešųjų ar privačiųjų juridinių asmenų asociacija.
 
 
+
+
+
+
+251. Pirkimų specialisto pažymėjimas – dokumentas, patvirtinantis asmens turimas nustatyto turinio viešųjų pirkimų žinias. 
+Papildyta straipsnio dalimi:
+Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
+ 
 
 
 
@@ -6593,7 +6601,6 @@ Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 
 
 6. Asmenys už šio įstatymo 95 straipsnio 6 dalyje nurodytą žinių patikrinimo atlikimą, pirkimų specialisto pažymėjimo išdavimą, jo galiojimo pratęsimą sumoka Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliavą. 
-TAR pastaba. 6 dalis įsigalioja 2022-07-01.
 
 
 Straipsnio pakeitimai:
@@ -6723,6 +6730,14 @@ Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
 
 
 41) nustato pirkimų specialisto žinių patikrinimo turinio reikalavimus ir juos skelbia savo interneto svetainėje; 
+Papildyta straipsnio punktu:
+Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
+ 
+
+
+
+
+42) atlieka žinių patikrinimą pirkimų specialisto pažymėjimui gauti; 
 Papildyta straipsnio punktu:
 Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
  
@@ -6891,6 +6906,13 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 5. Viešųjų pirkimų tarnyba nenagrinėja skundų ir pranešimų dėl galimų pirkimų ar pirkimo sutarčių vykdymo pažeidimų. Šiuose skunduose ir pranešimuose pateikta informacija naudojama viešųjų pirkimų analizei, kurios rezultatų pagrindu gali būti pradėtas perkančiosios organizacijos veiklos patikrinimas, vadovaujantis šio straipsnio 2 dalies 5 punktu.
+
+
+
+
+6. Šio straipsnio 1 dalies 42 punkte nurodytas žinių patikrinimas atliekamas, pirkimų specialisto pažymėjimas išduodamas, pažymėjimo galiojimo terminas pratęsiamas Viešųjų pirkimų tarnybos nustatyta tvarka. Asmuo, siekiantis gauti pirkimų specialisto pažymėjimą arba pratęsti jo galiojimą, turi Viešųjų pirkimų tarnybos nustatyta tvarka registruotis Viešųjų pirkimų tarnyboje pirkimų specialisto žinioms patikrinti, pasirinkdamas žinių patikrinimo datą ir laiką 20 darbo dienų nuo registracijos dienos laikotarpiu. Jeigu asmens žinios įvertinamos teigiamai, Viešųjų pirkimų tarnyba ne vėliau kaip per 3 darbo dienas nuo patikrinimo dienos išduoda 5 metus galiojantį pirkimų specialisto pažymėjimą arba pratęsia jo galiojimą 5 metų terminui. 
+Papildyta straipsnio dalimi:
+Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
  
 
 
@@ -7395,9 +7417,11 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+ 
 
- 
- 
+ 
+
  
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
@@ -7638,12 +7662,13 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 7 DALYJE NURODY
 Priedo pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
-
-
-
+part_953bdf781df349f2a1716337035da7f0_end
 
  
  
+
+ 
+
  
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
@@ -7739,13 +7764,14 @@ SOCIALINĖS IR KITOS SPECIALIOSIOS PASLAUGOS
 
  
  
-
-
-
+part_975efef4a8e7434d8dc8526d5b5995ea_end
 
  
  
  
+
+ 
+
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -7872,13 +7898,14 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-
-
-
+part_2b02daa354ea423d99b27bf9a7b2e963_end
 
  
  
  
+
+ 
+
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo 
@@ -7927,12 +7954,13 @@ Pasiūlymų, paraiškų, projekto konkursų planų ir projektų elektroninės ga
 
 
 
-
-
-
+part_7745c5d4dad845b399637b1583efceb5_end
 
  
  
+
+ 
+
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -8001,11 +8029,12 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 17 STRAIPSNIO 2 DALIES 2 PUN
 
 
  
-
-
-
+part_2050762db9474ddcac2846c790f719b0_end
 
  
+
+ 
+
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -8288,13 +8317,14 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 4 STRAIPSNIO 1 DALIES 1 PUNK
 
 
  
-
-
-
+part_c6aba8096a204fe0af9261f02436ca74_end
 
  
  
  
+
+ 
+
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -8346,8 +8376,7 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
-
-
+part_327026af453e46c48d521f775f9228dc_end
 
 
  
