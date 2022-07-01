@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
  
 
 
-Suvestinė redakcija nuo 2022-01-05 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-22
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -1277,8 +1277,10 @@ Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010IST
 
 
 3. Lietuvos Respublikos mokesčių įstatymai, nustatantys naujus mokesčius, naujus mokesčio tarifus, mokesčio lengvatas, sankcijas už mokesčių įstatymų pažeidimus arba iš esmės pakeičiantys apmokestinimo tam tikru mokesčiu tvarką ar apmokestinimo teisinio reglamentavimo bei taikymo principus, įsigalioja ne anksčiau kaip po šešių mėnesių nuo oficialaus paskelbimo dienos. Ši nuostata netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimo (papildymo) įstatymams, teisės aktams, kuriais Lietuvos nacionalinė teisė derinama su Europos Sąjungos teise, taip pat Lietuvos Respublikos mokesčių įstatymams, reikalingiems susidarius išskirtinėms aplinkybėms, kaip jos apibrėžtos Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme.
+TAR pastaba. Lietuvos Respublikos teisėkūros pagrindų įstatymo 20 straipsnio 3 dalies (2020 m. birželio 23 d. redakcija, TAR, 2020-06-29, Nr. 14360) nuostata „su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimo (papildymo) įstatymams“ prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3085, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14360
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
  
 
 
@@ -1909,3 +1911,8 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-857, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00065
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 18 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
