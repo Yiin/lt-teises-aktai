@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a8939f2090d811e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2014-12-31, i. k. 2014-21281
  
@@ -262,7 +262,7 @@ Nr. XIV-1017, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08107
 6 straipsnis. Asmens tapatybės kortelės ir paso išdavimas ir keitimas
 
 
-1. Asmens tapatybės korteles ir pasus išduoda ir keičia Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas), o Lietuvos Respublikos konsuliniame statute nustatytomis sąlygomis – Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos (toliau kartu – Lietuvos Respublikos konsulinės įstaigos) pagal vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatytą tvarką.
+1. Asmens tapatybės korteles ir pasus išduoda ir keičia Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas), o Lietuvos Respublikos konsuliniame statute nustatytomis sąlygomis – Lietuvos Respublikos užsienio reikalų ministerija, diplomatinės atstovybės ar konsulinės įstaigos (toliau kartu – Lietuvos Respublikos konsulinės įstaigos) pagal vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatytą tvarką.
 
 
 
@@ -382,15 +382,37 @@ Nr. XIV-1017, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08107
 
 
 
-12. Užsienio valstybėje gyvenančiam piliečiui jo pageidavimu ir lėšomis Lietuvos Respublikos konsulinė įstaiga naują asmens tapatybės kortelę ir (ar) naują pasą gali išsiųsti Lietuvos Respublikos konsulinės įstaigos pasirinktu saugiu būdu. Šiuo atveju pilietis apie naujos asmens tapatybės kortelės ir (ar) naujo paso gavimą privalo pranešti Lietuvos Respublikos konsulinei įstaigai. Asmens tapatybės kortelių ir (ar) pasų įteikimo piliečiams, išsiuntimo Lietuvos Respublikos konsulinės įstaigos pasirinktu saugiu būdu ir pranešimo apie asmens tapatybės kortelės ir (ar) paso gavimą tvarką nustato vidaus reikalų ministras ir užsienio reikalų ministras. 
+12. Vidaus reikalų ministro ir užsienio reikalų ministro nustatyta tvarka piliečiui jo pageidavimu ir lėšomis nauja asmens tapatybės kortelė ir (ar) naujas pasas gali būti išsiųsti Migracijos departamento ar Lietuvos Respublikos konsulinės įstaigos pasirinktu saugiu būdu, įteikiant juos piliečiui, jo teisėtam atstovui arba piliečio prašyme, kurį jis pateikė Migracijos departamentui ar Lietuvos Respublikos konsulinei įstaigai kartu su dokumentais dėl asmens tapatybės kortelės ir (ar) paso išdavimo ar keitimo, nurodytam asmeniui. Saugiu būdu nauja asmens tapatybės kortelė ir (ar) naujas pasas gali būti siunčiami, jeigu:
+
+
+1) pilietis, Migracijos departamentui ar Lietuvos Respublikos konsulinei įstaigai pateikdamas prašymą dėl asmens tapatybės kortelės ir (ar) paso išdavimo ar keitimo, patvirtina, kad jis pats, jo teisėtas atstovas arba piliečio prašyme nurodytas asmuo, paimdamas jam saugiu būdu išsiųstus asmens tapatybės kortelę ir (ar) pasą, galės savo asmens tapatybę patvirtinti pateikdamas asmens tapatybę patvirtinantį dokumentą;
 
 
 
 
-13. Atsiimant naują asmens tapatybės kortelę ir (ar) naują pasą, turi būti pateikta keičiama asmens tapatybės kortelė ir (ar) keičiamas pasas, išskyrus atvejus, kai piliečiui nauja asmens tapatybės kortelė ir (ar) naujas pasas išsiunčiami Lietuvos Respublikos konsulinės įstaigos pasirinktu saugiu būdu arba kai keičiama asmens tapatybės kortelė ir (ar) keičiamas pasas negalioja, nes pasibaigęs jų galiojimo laikas. Atsiimant naują asmens tapatybės kortelę ir (ar) naują pasą, kuriuose pakeisti asmens duomenys, turi būti pateikta turima galiojanti asmens tapatybės kortelė ir (ar) turimas galiojantis pasas.
+2) piliečio naujoje asmens tapatybės kortelėje ir (ar) naujame pase nepasikeitė šio įstatymo 5 straipsnio 1 dalyje nurodyti jo asmens duomenys.
+
+
+
+
+
+
+13. Migracijos departamentas ar Lietuvos Respublikos konsulinė įstaiga paskelbia asmens tapatybės kortelę ir (ar) pasą galiojančiais, kai gauna informaciją apie saugiu būdu išsiųstų asmens tapatybės kortelės ir (ar) paso įteikimą. Saugiu būdu išsiųsti ir įteikti asmens tapatybės kortelė ir (ar) pasas paskelbiami galiojančiais šio straipsnio 11 dalyje nustatyta tvarka. 
+
+
+
+
+14. Saugiu būdu išsiųsti, bet neįteikti asmens tapatybės kortelė ir (ar) pasas perduodami Migracijos departamentui ar Lietuvos Respublikos diplomatinei atstovybei arba konsulinei įstaigai.
+
+
+
+
+15. Atsiimant naują asmens tapatybės kortelę ir (ar) naują pasą, turi būti pateikta keičiama asmens tapatybės kortelė ir (ar) keičiamas pasas, išskyrus atvejus, kai piliečiui nauja asmens tapatybės kortelė ir (ar) naujas pasas išsiunčiami saugiu būdu arba kai keičiama asmens tapatybės kortelė ir (ar) keičiamas pasas negalioja, nes pasibaigęs jų galiojimo laikas. Atsiimant naują asmens tapatybės kortelę ir (ar) naują pasą, kuriuose pakeisti asmens duomenys, turi būti pateikta turima galiojanti asmens tapatybės kortelė ir (ar) turimas galiojantis pasas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-225, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07286
  
-
-
 
 
 
@@ -543,6 +565,8 @@ Respublikos Prezidentė                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 asmens tapatybės kortelės 
@@ -594,3 +618,6 @@ Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1017, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08107
 Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 5 straipsnio pakeitimo įstatymas
+ 
+ 
+part_361eb9e338354c389bf5ddc2c873c106_end
