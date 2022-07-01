@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2022-06-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -2698,10 +2698,11 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 
 
 
-3. Statinio projektas turi būti parengtas, kai privaloma gauti šio įstatymo 27 straipsnio 1 dalies 1–7 punktuose nurodytus statybą leidžiančius dokumentus, taip pat kai šio įstatymo 27 straipsnio 1 dalyje nurodytiems krašto apsaugos tikslams skirtose teritorijose statomiems statiniams statybą leidžiantis dokumentas nereikalingas, išskyrus daugiabučių namų ar viešųjų pastatų kapitalinio remonto projektus, kurie turi būti parengti visais atvejais. Statinių griovimo projektai vykdant teismų sprendimus ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomuosius nurodymus rengiami tik aplinkos ministro nustatytais atvejais. Statinio projektas rengiamas vadovaujantis privalomaisiais statinio projekto rengimo dokumentais (atrankos išvada dėl poveikio aplinkai vertinimo, poveikio aplinkai vertinimo ataskaita, sprendimu dėl planuojamos ūkinės veiklos galimybių (kai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas turi būti atliktos planuojamos ūkinės veiklos poveikio aplinkai vertinimo procedūros); poveikio visuomenės sveikatai vertinimo dokumentais (jeigu atliekamos poveikio visuomenės sveikatai vertinimo procedūros); teritorijų planavimo dokumentais, žemėtvarkos planavimo dokumentais, nuosavybės teisę ar kitokias teises į žemę (statybos sklypą) patvirtinančiais dokumentais; technine užduotimi; žemės sklypo (teritorijos) ir statinio statybinių tyrimų (jeigu juos atlikti privaloma arba jie atlikti) dokumentais; kultūros paveldo tyrimų medžiaga (jeigu juos atlikti privaloma); projektiniais pasiūlymais (kai juos rengti privaloma aplinkos ministro nustatytais atvejais) (esminiai statinio projekto sprendiniai turi atitikti projektinius pasiūlymus); specialiaisiais reikalavimais (jeigu jie gauti), prisijungimo sąlygomis); galiojančiais teisės aktais.
+3. Statinio projektas turi būti parengtas, kai privaloma gauti šio įstatymo 27 straipsnio 1 dalies 1–7 punktuose nurodytus statybą leidžiančius dokumentus, taip pat kai šio įstatymo 27 straipsnio 1 dalyje nurodytiems krašto apsaugos tikslams skirtose teritorijose statomiems statiniams statybą leidžiantis dokumentas nereikalingas, išskyrus daugiabučių namų ar viešųjų pastatų kapitalinio remonto projektus, kurie turi būti parengti visais atvejais. Statinių griovimo projektai vykdant teismų sprendimus ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomuosius nurodymus rengiami tik aplinkos ministro nustatytais atvejais. Statinio projektas rengiamas vadovaujantis privalomaisiais statinio projekto rengimo dokumentais (atrankos išvada dėl poveikio aplinkai vertinimo, poveikio aplinkai vertinimo ataskaita, sprendimu dėl planuojamos ūkinės veiklos galimybių (kai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas turi būti atliktos planuojamos ūkinės veiklos poveikio aplinkai vertinimo procedūros); poveikio visuomenės sveikatai vertinimo dokumentais (jeigu atliekamos poveikio visuomenės sveikatai vertinimo procedūros); teritorijų planavimo dokumentais, žemėtvarkos planavimo dokumentais, nuosavybės teisę ar kitokias teises į žemę (statybos sklypą) patvirtinančiais dokumentais arba, įgyvendinant ypatingos valstybinės svarbos projektus, Vyriausybės nutarimais, kuriais patvirtinti ypatingos valstybinės svarbos projekto specialieji planai ir pradėtos žemės paėmimo visuomenės poreikiams procedūros; technine užduotimi; žemės sklypo (teritorijos) ir statinio statybinių tyrimų (jeigu juos atlikti privaloma arba jie atlikti) dokumentais; kultūros paveldo tyrimų (jeigu juos atlikti privaloma) medžiaga; projektiniais pasiūlymais (kai juos rengti privaloma aplinkos ministro nustatytais atvejais) (esminiai statinio projekto sprendiniai turi atitikti projektinius pasiūlymus); specialiaisiais reikalavimais (jeigu jie gauti); prisijungimo sąlygomis); galiojančiais teisės aktais. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
+Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
  
 
 
@@ -2722,7 +2723,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-5. Jeigu pateikti ne visi specialiesiems reikalavimams išduoti privalomi pateikti dokumentai ar prašantis išduoti specialiuosius reikalavimus asmuo negali įgyvendinti statytojo (užsakovo) teisės pagal šio įstatymo 3 straipsnio 2 dalies 1 ir 3 punktuose nustatytus reikalavimus, apie tai ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti specialiuosius reikalavimus pateikimo pranešama prašymą pateikusiam asmeniui. Trūkstamiems dokumentams pateikti nustatomas 30 darbo dienų terminas. Pasibaigus šiam terminui ir nepateikus trūkstamų dokumentų, prašymą pateikęs asmuo per 3 darbo dienas nuo šio termino pabaigos dienos informuojamas, kad, norėdamas gauti specialiuosius reikalavimus, jis privalo teikti naują prašymą.
+5. Jeigu pateikti ne visi specialiesiems reikalavimams išduoti privalomi pateikti dokumentai ar prašantis išduoti specialiuosius reikalavimus asmuo negali įgyvendinti statytojo (užsakovo) teisės pagal šio įstatymo 3 straipsnio 2 dalies 1 punkte (išskyrus atvejus, kai įgyvendinamas ypatingos valstybinės svarbos projektas ir yra priimtas Vyriausybės nutarimas, kuriuo patvirtintas ypatingos valstybinės svarbos projekto specialusis planas ir pradėta žemės paėmimo visuomenės poreikiams procedūra) ir 3 punkte nustatytus reikalavimus, apie tai ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti specialiuosius reikalavimus pateikimo dienos pranešama prašymą pateikusiam asmeniui. Trūkstamiems dokumentams pateikti nustatomas 30 darbo dienų terminas. Jeigu per šį terminą prašymą pateikęs asmuo nepateikia trūkstamų dokumentų, jis per 3 darbo dienas nuo šio termino pabaigos dienos informuojamas, kad, norėdamas gauti specialiuosius reikalavimus, privalo teikti naują prašymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
+ 
 
 
 
