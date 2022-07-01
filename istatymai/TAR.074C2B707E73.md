@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/074c2b707e7311e6b969d7ae07280e89"
 
 # Lietuvos Respublikos pagalbinio apvaisinimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23713
  
@@ -33,7 +33,10 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato moters pagalbinio apvaisinimo sąlygas, būdus, tvarką, taip pat įstatymų nustatyta tvarka santuoką sudariusių asmenų arba registruotos partnerystės sutartį sudariusių asmenų (toliau – sugyventiniai), kurių prašymu atliekamas pagalbinis apvaisinimas, teises.
+1. Šis įstatymas nustato moters pagalbinio apvaisinimo ir vaisingumo išsaugojimo paslaugų teikimo sąlygas, būdus, tvarką, įstatymų nustatyta tvarka santuoką sudariusių asmenų (toliau – sutuoktiniai) arba registruotos partnerystės sutartį sudariusių asmenų (toliau – partneriai), kurių prašymu atliekamas pagalbinis apvaisinimas, taip pat asmenų, kuriems teikiamos vaisingumo išsaugojimo paslaugos, teises.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
@@ -79,6 +82,14 @@ Vilnius
 
 
 
+61. Vaisingumo išsaugojimo paslaugos – asmeniui teikiamos sveikatos priežiūros paslaugos, kurias sudaro jo lytinių ląstelių ir (ar) reprodukcinių audinių paėmimas, konservavimas ir saugojimas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
+
+
+
+
 7. Žmogaus embrionas (toliau – embrionas) – besivystantis žmogaus organizmas nuo apvaisinimo momento (žmogaus zigotos susidarymo) iki moters aštuntos nėštumo savaitės pabaigos.
 
 
@@ -94,17 +105,26 @@ Vilnius
 
 
 
-10. Žmogaus lytinių ląstelių ar embrionų konservavimas – cheminių medžiagų naudojimas, aplinkos sąlygų arba kitų priemonių pakeitimas žmogaus lytinių ląstelių arba embrionų apdorojimo metu, siekiant sustabdyti arba sulėtinti biologinį arba fizinį audinių ir ląstelių irimą.
+10. Žmogaus lytinių ląstelių, embrionų arba reprodukcinių audinių konservavimas (toliau – konservavimas) – cheminių medžiagų naudojimas, aplinkos sąlygų arba kitų priemonių pakeitimas žmogaus lytinių ląstelių, embrionų arba reprodukcinių audinių apdorojimo metu, siekiant sustabdyti arba sulėtinti biologinį arba fizinį audinių ir ląstelių irimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
 
-11. Žmogaus lytinių ląstelių ar embrionų paruošimas (toliau – paruošimas) – žmogaus lytinių ląstelių ar embrionų tvarkymas ir konservavimas tinkamomis sąlygomis.
+11. Žmogaus lytinių ląstelių, embrionų arba reprodukcinių audinių paruošimas (toliau – paruošimas) – žmogaus lytinių ląstelių, embrionų arba reprodukcinių audinių tvarkymas ir konservavimas tinkamomis sąlygomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
 
-12. Žmogaus lytinių ląstelių autologinis naudojimas (toliau – autologinis naudojimas) – iš žmogaus paimtų lytinių ląstelių naudojimas jam pačiam pagalbinio apvaisinimo tikslu.
+12. Žmogaus lytinių ląstelių arba reprodukcinių audinių autologinis naudojimas (toliau – autologinis naudojimas) – iš žmogaus paimtų lytinių ląstelių arba reprodukcinių audinių naudojimas jam pačiam pagalbinio apvaisinimo tikslu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
@@ -135,6 +155,14 @@ Vilnius
 
 
 18. Žmogaus lytinių ląstelių paskirstymas (toliau – paskirstymas) – žmogaus lytinių ląstelių transportavimas į žmogaus lytinių ląstelių banką ar iš jo ir pristatymas pagalbinį apvaisinimą atliekančiam specialistui.
+
+
+
+
+181. Žmogaus reprodukciniai audiniai – žmogaus lytinių organų audiniai, kuriuose yra lytinių ląstelių.
+Papildyta straipsnio dalimi:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
@@ -183,22 +211,27 @@ Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
 
 
 
-7. Pagalbinis apvaisinimas gali būti atliekamas tik naudojant apvaisinamos moters ir lytinių ląstelių donoro, su ja gyvenančio įstatymu nustatyta tvarka sutuoktinio ar sugyventinio, lytines ląsteles, išskyrus atvejus, kai vieno iš sutuoktinių ar partnerio lytinės ląstelės yra pažeistos ar jų nepakanka ir dėl to jos negali būti panaudotos pagalbiniam apvaisinimui, taip pat tais atvejais, kai su jomis yra didelė rizika perduoti ligą, sukeliančią didelę negalią, kurios kriterijus nustato sveikatos apsaugos ministras.
-
-
-
-
-8. Embriono donorystė yra draudžiama, išskyrus atvejus, kai donorystei yra naudojamas lytinių ląstelių banke laikomas embrionas, kurio raštu atsisakė asmenys, nurodyti šio įstatymo 5 straipsnio 3 dalyje. Šiuo atveju embriono donorais laikomi abu sutuoktiniai (sugyventiniai). Embriono atsisakymas yra galimas ne anksčiau kaip praėjus dvejiems metams nuo pagalbinio apvaisinimo pradžios. Embriono atsisakymo ir jo panaudojimo kitų sutuoktinių (sugyventinių) pagalbiniam apvaisinimui tvarką nustato sveikatos apsaugos ministras. 
+7. Pagalbinis apvaisinimas gali būti atliekamas tik naudojant apvaisinamos moters ir lytinių ląstelių donoro, su ja gyvenančio įstatymų nustatyta tvarka sutuoktinio ar partnerio, lytines ląsteles, išskyrus atvejus, kai vieno iš sutuoktinių ar partnerio lytinės ląstelės yra pažeistos ar jų nepakanka ir dėl to jos negali būti panaudotos pagalbiniam apvaisinimui, taip pat tais atvejais, kai su jomis yra didelė rizika perduoti ligą, sukeliančią didelę negalią, kurios kriterijus nustato sveikatos apsaugos ministras.
 Straipsnio dalies pakeitimai:
-Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
  
 
 
 
 
-9. Lytinių ląstelių ar embriono recipiento, lytinių ląstelių donoro, duodančio lytines ląsteles ne sutuoktinio (sugyventinio) pagalbiniam apvaisinimui (toliau – lytinių ląstelių donoras (trečiasis asmuo), embriono donorų ir vaiko, pradėto panaudojant lytinių ląstelių donoro (trečiojo asmens) lytines ląsteles ar embriono donorų embrioną, asmens duomenys yra konfidencialūs. Lytinių ląstelių ar embriono recipientui, jo sutuoktiniui (sugyventiniui) ir vaikui, gimusiam panaudojant lytinių ląstelių donoro (trečiojo asmens) lytines ląsteles ar embriono donorų embrioną, lytinių ląstelių donoro (trečiojo asmens) ar embriono donorų tapatybė neatskleidžiama, o lytinių ląstelių donorui (trečiajam asmeniui) ar embriono donorams neatskleidžiama lytinių ląstelių ar embriono recipiento, jo sutuoktinio (sugyventinio) ir vaiko tapatybė, išskyrus šio straipsnio 10 dalyje nurodytus atvejus. 
+8. Embriono donorystė yra draudžiama, išskyrus atvejus, kai donorystei yra naudojamas lytinių ląstelių banke laikomas embrionas, kurio raštu atsisakė asmenys, nurodyti šio įstatymo 5 straipsnio 3 dalyje. Šiuo atveju embriono donorais laikomi abu sutuoktiniai (partneriai). Embriono atsisakymas yra galimas ne anksčiau kaip praėjus dvejiems metams nuo pagalbinio apvaisinimo pradžios. Embriono atsisakymo ir jo panaudojimo kitų sutuoktinių (partnerių) pagalbiniam apvaisinimui tvarką nustato sveikatos apsaugos ministras.
 Straipsnio dalies pakeitimai:
 Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
+
+
+
+
+9. Lytinių ląstelių ar embriono recipiento, lytinių ląstelių donoro, duodančio lytines ląsteles ne sutuoktinio (ne partnerio) pagalbiniam apvaisinimui (toliau – lytinių ląstelių donoras (trečiasis asmuo), embriono donorų ir vaiko, pradėto panaudojant lytinių ląstelių donoro (trečiojo asmens) lytines ląsteles ar embriono donorų embrioną, asmens duomenys yra konfidencialūs. Lytinių ląstelių ar embriono recipientui, jo sutuoktiniui (partneriui) ir vaikui, gimusiam panaudojant lytinių ląstelių donoro (trečiojo asmens) lytines ląsteles ar embriono donorų embrioną, lytinių ląstelių donoro (trečiojo asmens) ar embriono donorų tapatybė neatskleidžiama, o lytinių ląstelių donorui (trečiajam asmeniui) ar embriono donorams neatskleidžiama lytinių ląstelių ar embriono recipiento, jo sutuoktinio (partnerio) ir vaiko tapatybė, išskyrus šio straipsnio 10 dalyje nurodytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
  
 
 
@@ -250,10 +283,16 @@ Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
 
 
 
-4 straipsnis. Teisė teikti pagalbinio apvaisinimo ir (ar) lytinių ląstelių banko paslaugas
+4 straipsnis. Teisė teikti pagalbinio apvaisinimo, vaisingumo išsaugojimo ir (ar) lytinių ląstelių banko paslaugas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
-1. Pagalbinio apvaisinimo paslaugas ir (ar) lytinių ląstelių banko paslaugas turi teisę teikti tik Lietuvos Respublikoje įsteigti juridiniai asmenys ar užsienio valstybėje įsteigtų juridinių asmenų ar kitų organizacijų filialai, įsteigti Lietuvos Respublikoje (toliau šiame straipsnyje – juridiniai asmenys), Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme (toliau – Sveikatos priežiūros įstaigų įstatymas) nustatyta tvarka gavę licenciją asmens sveikatos priežiūros veiklai, kurioje nurodyta, kad jie įgijo teisę teikti licencijuojamas pagalbinio apvaisinimo ir (ar) lytinių ląstelių banko paslaugas.
+1. Pagalbinio apvaisinimo paslaugas, vaisingumo išsaugojimo paslaugas ir (ar) lytinių ląstelių banko paslaugas turi teisę teikti tik Lietuvos Respublikoje įsteigti juridiniai asmenys ar užsienio valstybėje įsteigtų juridinių asmenų ar kitų organizacijų filialai, įsteigti Lietuvos Respublikoje (toliau šiame straipsnyje – juridiniai asmenys), Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme nustatyta tvarka gavę licenciją asmens sveikatos priežiūros veiklai, kurioje nurodyta, kad jie įgijo teisę teikti licencijuojamas pagalbinio apvaisinimo ir (ar) lytinių ląstelių banko paslaugas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
@@ -271,12 +310,18 @@ Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
 
 
 
-3) lytinių ląstelių ir embriono paėmimo, paruošimo, laikymo, paskirstymo ir naudojimo organizavimas ir valdymas atitinka lytinių ląstelių banko paslaugų teikimo reikalavimus, nustatytus sveikatos apsaugos ministro;
+3) lytinių ląstelių, reprodukcinių audinių ir embriono paėmimo, paruošimo, laikymo, paskirstymo ir naudojimo organizavimas ir valdymas atitinka lytinių ląstelių banko paslaugų teikimo reikalavimus, nustatytus sveikatos apsaugos ministro;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
 
-4) įdiegta lytinių ląstelių ir embriono paėmimo, paruošimo, laikymo, paskirstymo ir naudojimo sistema užtikrina atsekamumą.
+4) įdiegta lytinių ląstelių, reprodukcinių audinių ir embriono paėmimo, paruošimo, laikymo, paskirstymo ir naudojimo sistema užtikrina atsekamumą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
@@ -299,7 +344,10 @@ Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
 5 straipsnis. Pagalbinio apvaisinimo sąlygos 
 
 
-1. Pagalbinį apvaisinimą atlikti leidžiama tik tada, kai nevaisingumo negalima išgydyti jokiais gydymo būdais arba juos taikant nėra realios sėkmės tikimybės, taip pat tais atvejais, kai siekiama išvengti didelę negalią sukeliančios ligos, kurios kriterijus nustato sveikatos apsaugos ministras, ar ją gydyti.
+1. Pagalbinį apvaisinimą atlikti leidžiama tik tais atvejais, kai nevaisingumo negalima išgydyti jokiais gydymo būdais arba juos taikant nėra realios sėkmės tikimybės, taip pat tais atvejais, kai siekiama išvengti didelę negalią sukeliančios ligos, kurios kriterijus nustato sveikatos apsaugos ministras, ar ją gydyti, ir tais atvejais, kai esama asmens sveikatos būklė ir (ar) prognozuojami sveikatos sutrikimai, ir (ar) paskirtas gydymas kelia pagrįstų abejonių dėl šio asmens tolesnio vaisingumo ir tas abejones patvirtina gydytojų konsiliumas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
@@ -336,17 +384,17 @@ Pagalbinio apvaisinimo būdai yra pagalbinis apvaisinimas in vivo ir pagalbinis 
 7 straipsnis. Informuoto paciento sutikimas
 
 
-1. Prieš pagalbinio apvaisinimo pradžią asmens sveikatos priežiūros įstaigos darbuotojas, atliekantis pagalbinį apvaisinimą, privalo suprantamai informuoti abu sutuoktinius (sugyventinius) apie pagalbinio apvaisinimo galimybes, numatomus naudoti pagalbinio apvaisinimo būdus, alternatyvas, naudą, riziką, galimas procedūrų medicinines, psichologines pasekmes, daugiavaisio nėštumo keliamą riziką motinai ir vaisiui, pagalbinio apvaisinimo sėkmės tikimybę, nurodydamas klinikinių nėštumų ir gimdymų skaičių (tiek bendrai žinomą medicinos praktikoje, tiek ir konkrečiai pasiekiamą pagalbinio apvaisinimo paslaugas teikiančioje sveikatos priežiūros įstaigoje), tenkantį numatomam taikyti būdui.
+1. Prieš pagalbinio apvaisinimo pradžią asmens sveikatos priežiūros įstaigos darbuotojas, atliekantis pagalbinį apvaisinimą, privalo suprantamai informuoti abu sutuoktinius (partnerius) apie pagalbinio apvaisinimo galimybes, numatomus naudoti pagalbinio apvaisinimo būdus, alternatyvas, naudą, riziką, galimas procedūrų medicinines, psichologines pasekmes, daugiavaisio nėštumo keliamą riziką motinai ir vaisiui, pagalbinio apvaisinimo sėkmės tikimybę, nurodydamas klinikinių nėštumų ir gimdymų skaičių (tiek bendrai žinomą medicinos praktikoje, tiek ir konkrečiai pasiekiamą pagalbinio apvaisinimo paslaugas teikiančioje sveikatos priežiūros įstaigoje), tenkantį numatomam taikyti būdui, taip pat sukurtų, tačiau į moters organizmą neperkeltų embrionų saugojimo lytinių ląstelių banke terminus.
 
 
 
 
-2. Informacija, nurodyta šio straipsnio 1 dalyje, prieš pagalbinio apvaisinimo pradžią turi būti pateikta ir raštu, sutuoktiniams (sugyventiniams) užpildant ir pasirašant informuoto paciento sutikimą.
+2. Informacija, nurodyta šio straipsnio 1 dalyje, prieš pagalbinio apvaisinimo pradžią turi būti pateikta ir raštu, sutuoktiniams (partneriams) užpildant ir pasirašant informuoto paciento sutikimą.
 
 
 
 
-3. Prieš pasirašant informuoto paciento sutikimą, abu sutuoktiniai (sugyventiniai) yra raštu informuojami apie preliminarią visos pagalbinio apvaisinimo procedūros kainą.
+3. Prieš pasirašant informuoto paciento sutikimą, abu sutuoktiniai (partneriai) yra raštu informuojami apie preliminarią visos pagalbinio apvaisinimo procedūros kainą.
 
 
 
@@ -356,15 +404,20 @@ Pagalbinio apvaisinimo būdai yra pagalbinis apvaisinimas in vivo ir pagalbinis 
 
 
 
-5. Informuoto paciento sutikimas gali būti atšauktas iki moteriškos lytinės ląstelės apvaisinimo. 
+5. Informuoto paciento sutikimas gali būti atšauktas iki moteriškos lytinės ląstelės apvaisinimo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
  
 
 
 
 
-
-
-8 straipsnis. Lytinių ląstelių paėmimas, laikymas ir naudojimas
+8 straipsnis. Lytinių ląstelių ir reprodukcinių audinių paėmimas, laikymas ir naudojimas.
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 1. Lytinės ląstelės gali būti paimamos tik gavus informuoto paciento rašytinį sutikimą.
@@ -393,6 +446,13 @@ Pagalbinio apvaisinimo būdai yra pagalbinis apvaisinimas in vivo ir pagalbinis 
 
 
 6. Lytinių ląstelių paėmimo, paruošimo, laikymo, paskirstymo ir naudojimo tvarką nustato sveikatos apsaugos ministras.
+
+
+
+
+7. Reprodukcinių audinių paėmimui, laikymui ir naudojimui mutatis mutandis taikomos šio straipsnio 1–6 dalys.
+Papildyta straipsnio dalimi:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
  
 
 
@@ -400,13 +460,25 @@ Pagalbinio apvaisinimo būdai yra pagalbinis apvaisinimas in vivo ir pagalbinis 
 
 
 
-9 straipsnis. Autologinis naudojimas
+9 straipsnis. Vaisingumo išsaugojimo paslaugos
 
 
-Veiksnus pilnametis asmuo, o nepilnametis asmuo – nuo 14 metų Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) nustatyta tvarka gali sudaryti sutartį su asmens sveikatos priežiūros įstaiga, teikiančia pagalbinio apvaisinimo paslaugas, kad būtų paimtos lytinės ląstelės jo vaisingumui išsaugoti, jeigu esama sveikatos būklė ar galimi sveikatos sutrikimai, ar paskirtas gydymas kelia pagrįstų abejonių dėl tokio asmens tolesnio vaisingumo ir tas abejones patvirtina gydytojų konsiliumas. 
+1. Veiksnus pilnametis asmuo, taip pat nepilnametis asmuo, atstovaujamas Lietuvos Respublikos civilinio kodekso nustatyta tvarka, gali sudaryti sutartį su asmens sveikatos priežiūros įstaiga, teikiančia pagalbinio apvaisinimo ir (ar) lytinių ląstelių banko paslaugas, kad būtų paimtos, užkonservuotos ir saugomos jo lytinės ląstelės ir (ar) reprodukciniai audiniai jo vaisingumui išsaugoti, jeigu esama sveikatos būklė ir (ar) prognozuojami sveikatos sutrikimai, ir (ar) paskirtas gydymas kelia pagrįstų abejonių dėl šio asmens tolesnio vaisingumo ir tas abejones patvirtina gydytojų konsiliumas.
+
+
+
+
+2. Prieš vaisingumo išsaugojimo procedūros pradžią asmens sveikatos priežiūros įstaigos darbuotojas, atliekantis šią procedūrą, privalo suprantamai informuoti asmenį (jei asmuo yra nepilnametis, – jo tėvus, įtėvius ar globėjus įstatymų nustatyta tvarka) apie vaisingumo išsaugojimo ir autologinio naudojimo galimybes (tiek bendrai žinomas medicinos praktikoje, tiek ir konkrečiu atveju), alternatyvas, naudą, riziką, galimas procedūrų medicinines, psichologines pasekmes, veiksmus, susijusius su reprodukcine sveikata, pastojimo planavimu ir pagalbinio apvaisinimo procedūrų atlikimu ateityje.
+
+
+
+
+3. Visi sprendimai, susiję su vaisingumo išsaugojimo paslaugų teikimu, priimami vadovaujantis asmens, kuriam teikiamos šios paslaugos, sveikatos prioriteto principu, įvertinus šiam asmeniui galinčią kilti naudą ir žalą bei laikantis atsargumo priemonių.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
  
-
-
 
 
 
@@ -414,7 +486,7 @@ Veiksnus pilnametis asmuo, o nepilnametis asmuo – nuo 14 metų Lietuvos Respub
 10 straipsnis. Embriono apsauga
 
 
-1. Valstybė skatina pagalbinio apvaisinimo technologijų, kuriomis siekiama embrionų gyvybingumo ir didžiausios saugaus nėštumo bei gimdymo tikimybės, taip pat kuriomis embrionai sukuriami panaudojant šaldytas moteriškas lytines ląsteles, vystymą. Embrionų gali būti sukuriama tiek, kiek vienu metu pavyksta sukurti, tačiau galutinį sprendimą dėl sukuriamų embrionų skaičiaus priima abu sutuoktiniai (sugyventiniai), pasitarę su gydytoju. Sprendimas fiksuojamas medicinos dokumentuose, gavus informuoto paciento rašytinį sutikimą. Vienu metu į moters organizmą perkeliamų embrionų skaičius negali viršyti trijų. Medicinos dokumentuose taip pat fiksuojama informacija apie:
+1. Valstybė skatina pagalbinio apvaisinimo technologijų, kuriomis siekiama embrionų gyvybingumo ir didžiausios saugaus nėštumo bei gimdymo tikimybės, taip pat kuriomis embrionai sukuriami panaudojant šaldytas moteriškas lytines ląsteles, vystymą. Embrionų gali būti sukuriama tiek, kiek vienu metu pavyksta sukurti, tačiau galutinį sprendimą dėl sukuriamų embrionų skaičiaus priima abu sutuoktiniai (partneriai), pasitarę su gydytoju. Sprendimas fiksuojamas medicinos dokumentuose, gavus informuoto paciento rašytinį sutikimą. Vienu metu į moters organizmą perkeliamų embrionų skaičius negali viršyti trijų. Medicinos dokumentuose taip pat fiksuojama informacija apie:
 
 
 1) paimtų moteriškų lytinių ląstelių skaičių;
@@ -447,20 +519,22 @@ Veiksnus pilnametis asmuo, o nepilnametis asmuo – nuo 14 metų Lietuvos Respub
 
 
 
-7) embrionų, kurie buvo saugomi šio straipsnio 5 dalyje nustatytu atveju, perkėlimą į moters organizmą. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
- 
+7) embrionų, kurie buvo saugomi šio straipsnio 5 dalyje nustatytu atveju, perkėlimą į moters organizmą;
 
 
 
 
-2. Įvertinus galinčią kilti žalą motinos ir (ar) vaiko (vaikų), kuris (kurie) gims po pagalbinio apvaisinimo, sveikatai ir imantis atsargumo priemonių, procedūros su embrionu ar lytinėmis ląstelėmis, neatsižvelgiant į procedūros, skirtos lytinėms ląstelėms in vitro subrandinti, embriono implantacijai gimdoje pagerinti ar atliekamos kitais, ne biomedicininių tyrimų, tikslais, pobūdį (mechaninis ar medikamentinis poveikis), yra leidžiamos tik tuo atveju, jeigu laikomasi visų šių sąlygų: 
+8) embrionų, kurie šio straipsnio 7 dalyje nustatytais atvejais buvo sunaikinti nutraukiant jų saugojimą, skaičių.
 
 
-1) procedūrų saugumas ir efektyvumas yra pagrįstas klinikiniais tyrimais; 
+
+
+
+
+2. Įvertinus galinčią kilti žalą motinos ir (ar) tėvo, ir (ar) vaiko (vaikų), kuris (kurie) gims po pagalbinio apvaisinimo, sveikatai ir imantis atsargumo priemonių, procedūros su embrionu ar lytinėmis ląstelėmis, neatsižvelgiant į procedūros, skirtos lytinėms ląstelėms in vitro subrandinti, embriono implantacijai gimdoje pagerinti ar atliekamos kitais, ne biomedicininių tyrimų, tikslais, pobūdį (mechaninis ar medikamentinis poveikis), yra leidžiamos tik tuo atveju, jeigu laikomasi visų šių sąlygų:
+
+
+1) procedūrų saugumas ir efektyvumas yra pagrįstas klinikiniais tyrimais;
 
 
 
@@ -487,7 +561,7 @@ Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
 
 
 
-5. Sukurti, tačiau į moters organizmą neperkelti embrionai laikomi lytinių ląstelių banke. Lytinių ląstelių banke embrionai saugomi ir naudojami sveikatos apsaugos ministro nustatyta tvarka.
+5. Sukurti, tačiau į moters organizmą neperkelti besivystantys embrionai laikomi lytinių ląstelių banke. Lytinių ląstelių banke embrionai saugomi ir naudojami sveikatos apsaugos ministro nustatyta tvarka. Embrionai pagal sutuoktinių (partnerių) raštu pareikštą valią saugomi informuoto paciento sutikime nurodytą laiką, bet ne trumpiau kaip dvejus metus nuo pagalbinio apvaisinimo pradžios ir ne ilgiau kaip dešimt metų, nebent sutuoktiniai (partneriai) yra pareiškę valią dėl ilgesnio embrionų saugojimo termino. Dvejus metus nuo pagalbinio apvaisinimo pradžios embrionų saugojimas lytinių ląstelių banke Vyriausybės nustatyta tvarka finansuojamas valstybės biudžeto lėšomis. Embrionų saugojimas pagal sutuoktinių (partnerių) pareikštą valią iki informuoto paciento sutikime nurodyto embrionų saugojimo termino pabaigos tęsiamas sutuoktinių (partnerių) lėšomis. Pasibaigus pagal sutuoktinių (partnerių) raštu pareikštą valią embrionų saugojimo terminui, mirus vienam arba abiem sutuoktiniams (partneriams), taip pat pasibaigus santuokai arba registruotai partnerystei, jei abu sutuoktiniai (partneriai) yra sutikę dėl embrionų panaudojimo donorystei, embrionų laikymas sveikatos apsaugos ministro nustatytais pagrindais ir tvarka tęsiamas valstybės biudžeto lėšomis, tačiau ne ilgiau kaip dešimt metų nuo embrionų donacijos.
 
 
 
@@ -497,20 +571,37 @@ Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
 
 
 
-7. Draudžiama naikinti pagalbinio apvaisinimo metu sukurtą ir į moters organizmą neperkeltą embrioną. Pagalbinio apvaisinimo metu sukurtas embrionas gali būti naudojamas tik moters pagalbiniam apvaisinimui. 
-Papildyta straipsnio dalimi:
-Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
+7. Draudžiama nutraukti pagalbinio apvaisinimo metu sukurto ir į moters organizmą neperkelto besivystančio embriono saugojimą ir jį sunaikinti, išskyrus atvejus, kai:
+
+
+1) pasibaigia pagal sutuoktinių (partnerių) raštu pareikštą valią embrionų saugojimo terminas ir nėra abiejų sutuoktinių (partnerių) šio įstatymo nustatyta tvarka pareikšto sutikimo dėl saugomų embrionų panaudojimo donorystei arba prašymo pratęsti embrionų saugojimo terminą;
+
+
+
+
+2) miršta vienas ar abu sutuoktiniai (partneriai) ir nėra abiejų šių asmenų šio įstatymo nustatyta tvarka pareikšto sutikimo dėl saugomų embrionų panaudojimo donorystei;
+
+
+
+
+3) pasibaigia santuoka ar registruota partnerystė ir nėra abiejų buvusių sutuoktinių (partnerių) šio įstatymo nustatyta tvarka pareikšto sutikimo dėl saugomų embrionų panaudojimo donorystei;
+
+
+
+
+4) valstybės lėšomis saugomi embrionai nebuvo panaudoti donorystei per dešimt metų nuo embrionų donacijos.
+
+
+
+
+
+
+8. Vyriausybė ar jos įgaliota institucija planavimo dokumentuose numato valstybės biudžeto lėšomis finansuojamas embrionų donorystės palaikymo priemones, kurias įgyvendina universitetų ligoninės, šio įstatymo nustatyta tvarka įgijusios teisę teikti licencijuojamas pagalbinio apvaisinimo ir lytinių ląstelių banko paslaugas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
  
-
-
-
-
-8. Valstybė įgyvendina embriono donorystės programą (toliau – Prenatalinio įvaikinimo programa). Vyriausybė parengia Prenatalinio įvaikinimo programą, paskiria ją koordinuojančią valstybės instituciją ir nustato šios programos finansavimą valstybės lėšomis. Prenatalinio įvaikinimo programą vykdo universiteto ligoninės, šio įstatymo nustatyta tvarka įgijusios teisę teikti licencijuojamas pagalbinio apvaisinimo ir lytinių ląstelių banko paslaugas. 
-Papildyta straipsnio dalimi:
-Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
- 
-
-
 
 
 
@@ -553,17 +644,17 @@ Asmens sveikatos priežiūros įstaigos, teikiančios pagalbinio apvaisinimo pas
 14 straipsnis. Duomenų kaupimas
 
 
-1. Duomenys apie lytines ląsteles bei embrionus ir jų naudojimą turi būti atsekami jų įsigijimo, paruošimo, laikymo ir paskirstymo metu.
+1. Duomenys apie lytines ląsteles, reprodukcinius audinius bei embrionus ir jų naudojimą turi būti atsekami jų įsigijimo, paruošimo, laikymo ir paskirstymo metu.
 
 
 
 
-2. Duomenys apie lytinių ląstelių saugojimą lytinių ląstelių banke, jų paskirstymą ir naudojimą, asmens sveikatos priežiūros įstaigose atliktas pagalbinio apvaisinimo procedūras, jų būdus, sukurtų bei į moters organizmą perkeltų embrionų skaičių, nėštumų ir gimdymų skaičių po pagalbinio apvaisinimo, taip pat apie po pagalbinio apvaisinimo gimusius vaikus turi būti įrašomi į Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrą. 
-TAR pastaba. Asmens sveikatos priežiūros įstaigos, teikiančios pagalbinio apvaisinimo paslaugas, ir žmogaus lytinių ląstelių bankai Lietuvos Respublikos pagalbinio apvaisinimo įstatymo 14 straipsnio 2 dalyje nurodytus duomenis, sukauptus iki įstatymo Nr. XIII-2153 įsigaliojimo dienos (2019-07-01), perduoda Žmogaus audinių, ląstelių ir organų donorų bei recipientų registro tvarkytojui iki 2019 m. rugsėjo 1 d.
+2. Duomenys apie lytinių ląstelių, reprodukcinių audinių saugojimą lytinių ląstelių banke, jų paskirstymą ir naudojimą, asmens sveikatos priežiūros įstaigose atliktas pagalbinio apvaisinimo procedūras, jų būdus, sukurtų, į moters organizmą perkeltų, lytinių ląstelių banke saugomų embrionų skaičių, taip pat embrionų, kurie buvo sunaikinti nutraukiant jų saugojimą, skaičių, nėštumų ir gimdymų skaičių po pagalbinio apvaisinimo, taip pat apie po pagalbinio apvaisinimo gimusius vaikus turi būti įrašomi į Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrą.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2153, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09405
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
  
 
 
@@ -580,12 +671,18 @@ Nr. XIII-2153, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09405
 2. Kompetentinga institucija:
 
 
-1) prižiūri lytinių ląstelių paėmimą, tyrimą, paruošimą, laikymą ir paskirstymą;
+1) prižiūri lytinių ląstelių ir reprodukcinių audinių paėmimą, tyrimą, paruošimą, laikymą ir paskirstymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
 
-2) prižiūri lytinių ląstelių ir embriono atsekamumo sistemos sukūrimą, įdiegimą ir priežiūrą;
+2) prižiūri lytinių ląstelių, reprodukcinių audinių ir embriono atsekamumo sistemos sukūrimą, įdiegimą ir atlieka šios sistemos priežiūrą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
@@ -624,6 +721,19 @@ Nr. XIII-2153, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09405
 
 
 
+
+
+
+
+151 straipsnis. Pagalbinio apvaisinimo ir vaisingumo išsaugojimo paslaugų apmokėjimas
+
+
+Pagalbinio apvaisinimo paslaugos ir vaisingumo išsaugojimo paslaugos apmokamos vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymu.
+
+
+Papildyta straipsniu:
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+ 
 
 
 
@@ -708,3 +818,8 @@ Lietuvos Respublikos pagalbinio apvaisinimo įstatymo Nr. XII-2608 3, 10 ir 12 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2153, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09405
 Lietuvos Respublikos pagalbinio apvaisinimo įstatymo Nr. XII-2608 14 ir 15 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1116, 2022-05-24, paskelbta TAR 2022-06-03, i. k. 2022-12215
+Lietuvos Respublikos pagalbinio apvaisinimo įstatymo Nr. XII-2608 1, 2, 3, 4, 5, 7, 8, 9, 10, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
