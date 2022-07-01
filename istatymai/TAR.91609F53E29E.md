@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -78,6 +78,14 @@ Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
 
 
+11. Bendruomeniniai šeimos namai – savivaldybės teritorijoje veikianti socialinių paslaugų įstaiga, kuri organizuoja, o prireikus ir teikia kompleksines paslaugas šeimai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
 2. Budintis globotojas – fizinis asmuo, atitinkantis Lietuvos Respublikos civiliniame kodekse globėjui (rūpintojui) keliamus reikalavimus, išklausęs globėjų ir įtėvių mokymus ir budinčių globotojų konsultavimo kursus, pagal su globos centru sudarytą tarpusavio bendradarbiavimo ir paslaugų teikimo sutartį prižiūrintis likusius be tėvų globos vaikus, socialinę riziką patiriančius vaikus, su kuriais nėra susietas giminystės ryšiais, arba šioje sutartyje nustatytais atvejais teikiantis kitokią pagalbą vaiko tėvams, siekiant grąžinti vaiką į šeimą. Budintis globotojas vykdo veiklą pagal individualios veiklos pažymėjimą. 
 
 
@@ -91,7 +99,23 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
+31. Individualios priežiūros darbuotojas – šio įstatymo 19 straipsnio 61 dalyje nustatytus reikalavimus atitinkantis asmuo, profesinėje veikloje besivadovaujantis šio įstatymo 4 straipsnyje nustatytais socialinių paslaugų valdymo, skyrimo ir teikimo principais, dirbantis socialinių paslaugų įstaigoje ir teikiantis socialines paslaugas pagal individualius asmens poreikius, įskaitant socialines paslaugas, kurios apima pagalbą užtikrinant asmens higieną. 
+Papildyta straipsnio dalimi:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
 4. Likęs be tėvų globos vaikas – vaikas iki 18 metų, kuriam įstatymų nustatyta tvarka yra nustatyta laikinoji ar nuolatinė globa (rūpyba). 
+
+
+
+
+41. Metodinis kompleksinių paslaugų šeimai centras – socialinės apsaugos ir darbo ministro nustatyta tvarka atrinktas juridinis asmuo ar kita organizacija, jų padalinys, kuris teikia metodinę pagalbą organizuojant ir (ar) teikiant kompleksines paslaugas šeimai, gerinant jų kokybę, dalijasi gerąja šių paslaugų teikimo patirtimi. 
+Papildyta straipsnio dalimi:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -148,6 +172,14 @@ Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
 
 
+111. Supervizija – darbuotojų ir (ar) socialinių paslaugų įstaigų konsultavimas profesinių santykių klausimais, siekiant tobulinti darbuotojų profesinę kompetenciją ir (ar) socialinių paslaugų įstaigos veiklą. Supervizija gali būti vykdoma individualiai arba grupėse. 
+Papildyta straipsnio dalimi:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
 12. Vaikas su negalia – vaikas, kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas neįgalumo lygis ir kuris dėl neįgalumo yra iš dalies ar visiškai neįgijęs amžių atitinkančio savarankiškumo, ir kurio galimybės ugdytis ir dalyvauti visuomenės gyvenime yra ribotos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
@@ -179,21 +211,17 @@ Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 3 straipsnis. Socialinių paslaugų samprata ir tikslai
 
 
-1. Socialinės paslaugos yra paslaugos, kuriomis suteikiama pagalba asmeniui (šeimai), dėl amžiaus, neįgalumo, socialinės rizikos, socialinių problemų iš dalies ar visiškai neturinčiam, neįgijusiam arba praradusiam gebėjimus ar galimybes savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
+1. Socialinėmis paslaugomis siekiama socialinių problemų ir (ar) socialinės rizikos asmeniui (šeimai) ir (ar) bendruomenei atsiradimo prevencijos ir (ar) suteikiama pagalba asmeniui (šeimai), dėl amžiaus, neįgalumo, socialinės rizikos, socialinių problemų iš dalies ar visiškai neturinčiam (neturinčiai) gebėjimų (jų neturėjusiam arba jų turėjusiam, bet praradusiam) ar galimybių savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
 
 
 
 
-2. Socialinių paslaugų tikslas – sudaryti sąlygas asmeniui (šeimai) ugdyti ar stiprinti gebėjimus ir galimybes savarankiškai spręsti savo socialines problemas, palaikyti socialinius ryšius su visuomene, taip pat padėti įveikti socialinę atskirtį.
-
-
-
-
-3. Socialinės paslaugos teikiamos siekiant užkirsti kelią asmens (šeimos) socialinei atskirčiai, asmens (šeimos), bendruomenės socialinėms problemoms, taip pat siekiant užtikrinti visuomenės socialinį saugumą. 
+2. Socialinių paslaugų tikslas – padėti asmeniui (šeimai) ir (ar) bendruomenei išvengti socialinių problemų ir (ar) socialinės rizikos atsiradimo, sudaryti sąlygas asmeniui (šeimai) ugdyti ir (ar) stiprinti gebėjimus savarankiškai spręsti socialines problemas, palaikyti socialinius ryšius su visuomene, taip pat padėti didinti socialinę įtrauktį.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -327,28 +355,58 @@ SOCIALINIŲ PASLAUGŲ RŪŠYS
  
 
 
-6 straipsnis. Socialinių paslaugų rūšys
+6 straipsnis. Socialinių paslaugų rūšys ir turinys
 
 
-1. Yra šių rūšių socialinės paslaugos:
+1. Socialinių paslaugų rūšys:
 
 
-1) bendrosios;
-
-
-
-
-2) specialiosios. 
+1) prevencinės;
 
 
 
 
+2) bendrosios;
 
 
-2. Socialines paslaugas, jų turinį pagal atskiras socialinių paslaugų rūšis bei socialinių paslaugų įstaigų tipus apibrėžia socialinių paslaugų katalogas, patvirtintas Vyriausybės ar jos įgaliotos institucijos. 
+
+
+3) specialiosios.
+
+
+
+
+
+
+2. Socialines paslaugas, jų turinį pagal socialinių paslaugų rūšis ir socialinių paslaugų įstaigų tipus apibrėžia socialinių paslaugų katalogas, patvirtintas Vyriausybės ar jos įgaliotos institucijos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
+
+
+61 straipsnis. Prevencinės socialinės paslaugos 
+
+
+1. Prevencinės socialinės paslaugos teikiamos visiems asmenims (visoms šeimoms) ir (ar) bendruomenėms, siekiantiems (siekiančioms) stiprinti asmens (šeimos) gebėjimą savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir asmens (šeimos) dalyvavimą visuomenės gyvenime, stiprinti bendruomenės socialinį aktyvumą ir skatinti bendruomenės socialinę įtrauktį, taip pat stiprinti asmens (šeimos) žinias ir ugdyti jo (jos) įgūdžius, kad ateityje būtų išvengta galimų socialinių problemų ir socialinės rizikos atsiradimo.
+
+
+
+
+2. Prevencinėms socialinėms paslaugoms priskiriamos potencialių socialinių paslaugų gavėjų paieškos paslauga, kompleksinės paslaugos šeimai, darbas su bendruomene ir kitos paslaugos.
+
+
+
+
+3. Socialinės apsaugos ir darbo ministras nustato prevencinių socialinių paslaugų organizavimo ir teikimo tvarką.
+
+
+Papildyta straipsniu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -372,7 +430,10 @@ SOCIALINIŲ PASLAUGŲ RŪŠYS
 8 straipsnis. Specialiosios socialinės paslaugos
 
 
-1. Specialiosios socialinės paslaugos teikiamos asmeniui (šeimai), kurio gebėjimams savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime ugdyti ar kompensuoti bendrųjų socialinių paslaugų nepakanka. 
+1. Specialiosios socialinės paslaugos teikiamos asmeniui (šeimai), kurio (kurios) gebėjimams savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime ugdyti ar jiems kompensuoti prevencinių ir (ar) bendrųjų socialinių paslaugų nepakanka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -499,7 +560,10 @@ Socialinės apsaugos ir darbo ministerija:
 
 
 
-4) analizuoja socialinių darbuotojų poreikius tobulinti profesinę kompetenciją, organizuoja socialinių darbuotojų praktinės veiklos vertinimą;
+4) neteko galios nuo 2022-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -675,15 +739,19 @@ Socialinių paslaugų priežiūros departamentas vertina, prižiūri ir kontroli
 
 
 
-2) teikia metodinę pagalbą savivaldybėms dėl socialinės priežiūros šeimoms organizavimo, taip pat dėl bendrųjų socialinių paslaugų ir socialinės priežiūros kokybės kontrolės; 
+2) teikia metodinę pagalbą savivaldybėms dėl socialinės priežiūros šeimoms organizavimo, taip pat dėl prevencinių socialinių paslaugų, išskyrus kompleksines paslaugas šeimai, bendrųjų socialinių paslaugų ir socialinės priežiūros kokybės kontrolės;
 Straipsnio punkto pakeitimai:
 Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
 
 
-3) formuoja bendrą socialinės globos normų ir bendrosioms socialinėms paslaugoms bei socialinei priežiūrai keliamų reikalavimų taikymo praktiką;
+3) formuoja bendrą socialinės globos normų ir prevencinėms socialinėms paslaugoms, išskyrus kompleksines paslaugas šeimai, bendrosioms socialinėms paslaugoms bei socialinei priežiūrai keliamų reikalavimų taikymo praktiką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -711,7 +779,17 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 
-8) atlieka įstatymų ir kitų teisės aktų nustatytas funkcijas. 
+8) kartu su kitais subjektais, nurodytais šio įstatymo 202 straipsnyje, vykdo socialinių paslaugų srities darbuotojų reguliaciją; 
+Papildyta straipsnio punktu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
+9) atlieka įstatymų ir kitų teisės aktų nustatytas funkcijas. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -744,9 +822,10 @@ SOCIALINIŲ PASLAUGŲ SKYRIMAS
 15 straipsnis. Kreipimasis dėl socialinių paslaugų skyrimo asmeniui (šeimai)
 
 
-1. Dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, skyrimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas rašytiniu prašymu kreipiasi į asmens (šeimos) gyvenamosios vietos savivaldybę. 
+1. Dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, skyrimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas rašytiniu prašymu kreipiasi į asmens (šeimos) gyvenamosios vietos savivaldybę.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -773,9 +852,10 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 16 straipsnis. Asmens (šeimos) socialinių paslaugų poreikio nustatymas
 
 
-1. Asmens socialinių paslaugų poreikis, išskyrus globos centrų teikiamas socialines paslaugas, nustatomas individualiai pagal asmens nesavarankiškumą bei galimybes savarankiškumą ugdyti ar kompensuoti asmens interesus ir poreikius atitinkančiomis socialinėmis paslaugomis. 
+1. Asmens socialinių paslaugų poreikis, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, nustatomas individualiai pagal asmens nesavarankiškumą bei galimybes savarankiškumą ugdyti ar kompensuoti jo interesus ir poreikius atitinkančiomis socialinėmis paslaugomis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -811,17 +891,19 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
-6. Asmens (šeimos), pageidaujančio (pageidaujančios) gauti socialines paslaugas, kurias finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, poreikį nustato socialiniai darbuotojai, paskirti savivaldybės institucijos nustatyta tvarka. 
+6. Asmens (šeimos), pageidaujančio (pageidaujančios) gauti socialines paslaugas, kurias finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, poreikį nustato socialiniai darbuotojai, paskirti savivaldybės institucijos nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
 
 
-7. Asmens (šeimos) socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, poreikį socialinių paslaugų teikimo laikotarpiu periodiškai peržiūri socialinių paslaugų įstaigų socialiniai darbuotojai. 
+7. Asmens (šeimos) socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, poreikį socialinių paslaugų teikimo laikotarpiu periodiškai peržiūri socialinių paslaugų įstaigų socialiniai darbuotojai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -832,10 +914,11 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
-9. Asmens (šeimos) socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, poreikio nustatymą, socialinių paslaugų skyrimą, sustabdymą ir nutraukimą reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinti asmens (šeimos) socialinių paslaugų poreikio nustatymo ir skyrimo tvarkos aprašas bei socialinės globos poreikio vaikui, suaugusiam asmeniui su negalia, senyvo amžiaus asmeniui, socialinę riziką patiriančiam suaugusiam asmeniui nustatymo metodikos. 
+9. Asmens (šeimos) socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, poreikio nustatymo, socialinių paslaugų skyrimo, sustabdymo ir nutraukimo tvarką reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinti Asmens (šeimos) socialinių paslaugų poreikio nustatymo ir skyrimo tvarkos aprašas bei socialinės globos poreikio vaikui su negalia, suaugusiam asmeniui su negalia, senyvo amžiaus asmeniui nustatymo metodikos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -846,11 +929,12 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 17 straipsnis. Sprendimas dėl socialinių paslaugų skyrimo asmeniui (šeimai)
 
 
-Sprendimas dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, asmeniui (šeimai) skyrimo, sustabdymo ir nutraukimo priimamas socialinio darbuotojo, nustačiusio asmens (šeimos) socialinių paslaugų poreikį, teikimu savivaldybės administracijos nustatyta tvarka. 
+Sprendimas dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, prevencines socialines paslaugas, asmeniui (šeimai) skyrimo, sustabdymo ir nutraukimo priimamas socialinio darbuotojo, nustačiusio asmens (šeimos) socialinių paslaugų poreikį, teikimu savivaldybės administracijos nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -866,7 +950,10 @@ SOCIALINIŲ PASLAUGŲ TEIKIMAS
 18 straipsnis. Bendrosios socialinių paslaugų teikimo asmeniui (šeimai) nuostatos
 
 
-1. Socialinės paslaugos asmeniui (šeimai) teikiamos atsižvelgiant į individualius asmens (šeimos) interesus ir poreikius, nustatytus pagal šio įstatymo 16 straipsnio nuostatas, ir nuolat vertinant teikiamų socialinių paslaugų veiksmingumą asmens (šeimos) galimybėms ir gebėjimams rūpintis asmeniniu (šeimos) gyvenimu ar dalyvauti visuomenės gyvenime ugdyti ar kompensuoti.
+1. Socialinės paslaugos asmeniui (šeimai) teikiamos atsižvelgiant į individualius jo (jos) interesus ir poreikius, nustatytus pagal šio įstatymo 16 straipsnio nuostatas, padedant asmeniui (šeimai) spręsti socialines problemas ir (ar) jų išvengti ateityje, nuolat vertinant, ar teikiamos socialinės paslaugos leidžia veiksmingai ugdyti ar kompensuoti asmens (šeimos) galimybes ir gebėjimus rūpintis asmeniniu (šeimos) gyvenimu ar dalyvauti visuomenės gyvenime.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -907,10 +994,11 @@ Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 
 
 
-8. Socialinės paslaugos šeimai teikiamos padedant ugdyti suaugusių šeimos narių, įskaitant tuos šeimos narius, kuriems laikinai apribota tėvų valdžia, ar tuos tėvus, kurių vaikams nustatyta laikinoji globa (rūpyba), socialinius įgūdžius ir stiprinti motyvaciją kurti saugią, sveiką ir darnią aplinką savo namuose, šeimoje, palaikyti socialinius ryšius su visuomene ir užtikrinti šioje šeimoje augančių vaikų visapusį vystymąsi ir ugdymą bei organizuojant su sveikatos priežiūra, užimtumu, švietimu ir ugdymu suderintą ir koordinuotai teikiamą pagalbą, o jeigu tėvų valdžia apribota, – sudaryti sąlygas tėvų (tėvo ar motinos) elgesio pokyčiams, kurie leistų grąžinti vaiką į šeimą. Teikiant socialines paslaugas šeimai, turi būti užtikrinamas socialinių paslaugų teikimas ir vaikams. 
+8. Socialinės paslaugos šeimai teikiamos, padedant šeimos nariams spręsti socialines problemas ir (ar) jų išvengti ateityje, ugdyti suaugusių šeimos narių, įskaitant tuos šeimos narius, kuriems laikinai apribota tėvų valdžia, ar tuos tėvus, kurių vaikams nustatyta laikinoji globa (rūpyba), socialinius įgūdžius, stiprinti jų motyvaciją kurti saugią, sveiką ir darnią aplinką savo namuose, šeimoje, palaikyti socialinius ryšius su visuomene, užtikrinti visapusį šioje šeimoje augančių vaikų vystymąsi, ugdymąsi ir organizuoti su sveikatos priežiūra, užimtumu, švietimu bei ugdymu suderintą koordinuotą pagalbą, o jeigu tėvų valdžia apribota, sudaryti sąlygas tėvų (tėvo ar motinos) elgesio pokyčiams, kurie leistų grąžinti vaiką į šeimą. Teikiant socialines paslaugas šeimai, turi būti užtikrinamas socialinių paslaugų teikimas ir vaikams.
 Straipsnio dalies pakeitimai:
 Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -934,7 +1022,10 @@ Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 19 straipsnis. Socialinių paslaugų teikėjai 
 
 
-1. Bendrąsias socialines paslaugas, socialinę priežiūrą teikia tos socialinių paslaugų įstaigos, kurių veiklos sritis yra socialinių paslaugų teikimas ir kurių teikiamos socialinės paslaugos atitinka teisės aktų reglamentuotus bendrosioms socialinėms paslaugoms, socialinei priežiūrai keliamus reikalavimus.
+1. Prevencines, bendrąsias socialines paslaugas, socialinę priežiūrą teikia tos socialinių paslaugų įstaigos, kurių veiklos sritis – socialinių paslaugų teikimas ir kurių teikiamos socialinės paslaugos atitinka teisės aktų reglamentuotus prevencinėms, bendrosioms socialinėms paslaugoms, socialinei priežiūrai keliamus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -973,11 +1064,36 @@ Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
 
 
 
-6. Socialinių paslaugų įstaigoje dirba socialiniai darbuotojai, socialinių darbuotojų padėjėjai ir kiti socialinių paslaugų srities darbuotojai, kurių pareigybių sąrašą tvirtina socialinės apsaugos ir darbo ministras, taip pat švietimo, sveikatos priežiūros specialistai ir kiti darbuotojai.       
+6. Socialinių paslaugų įstaigoje dirba socialiniai darbuotojai, individualios priežiūros darbuotojai ir kiti socialinių paslaugų srities darbuotojai, kurių pareigybių ir atliekamų funkcijų sąrašą tvirtina socialinės apsaugos ir darbo ministras, taip pat švietimo, sveikatos priežiūros specialistai ir kiti darbuotojai.
 Papildyta straipsnio dalimi:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+ 
+
+
+
+
+61. Individualios priežiūros darbuotoju turi teisę dirbti:
+
+
+1) asmuo, įgijęs socialinio darbuotojo padėjėjo ar lankomosios priežiūros darbuotojo, ar individualios priežiūros darbuotojo kvalifikaciją pagal socialinio darbuotojo padėjėjo ar lankomosios priežiūros darbuotojo, ar individualios priežiūros darbuotojo profesinio mokymo programą, arba
+
+
+
+
+2) asmuo, socialinės apsaugos ir darbo ministro nustatyta tvarka išklausęs 40 akademinių valandų įžanginius mokymus, o pradėjęs dirbti per 12 mėnesių – ne trumpesnius kaip 160 akademinių valandų mokymus, arba
+
+
+
+
+3) asmuo, sveikatos apsaugos ministro nustatyta tvarka įgijęs slaugytojo padėjėjo profesinę kvalifikaciją ir socialinės apsaugos ir darbo ministro nustatyta tvarka išklausęs 40 akademinių valandų įžanginius mokymus. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -994,12 +1110,13 @@ Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
 
 
 
-8. Socialinių paslaugų įstaigos vadovas privalo tobulinti savo profesinę kompetenciją, kiekvienais metais įvertinama jo profesinė veikla. Socialinių paslaugų įstaigų vadovų profesinės kompetencijos tobulinimo tvarkos aprašą ir profesinės veiklos vertinimo tvarkos aprašą tvirtina socialinės apsaugos ir darbo ministras. Socialinės globos įstaigos vadovas privalo turėti aukštąjį išsilavinimą. 
+8. Socialinių paslaugų įstaigos vadovas privalo turėti aukštąjį išsilavinimą ir tobulinti profesinę kompetenciją. Socialinių paslaugų įstaigos vadovo veikla vertinama kiekvienais metais socialinės apsaugos ir darbo ministro nustatyta tvarka.
 Papildyta straipsnio dalimi:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Straipsnio dalies pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
@@ -1264,6 +1381,64 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
+193 straipsnis. Bendruomeninių šeimos namų veikla ir funkcijos
+
+
+1. Bendruomeniniai šeimos namai organizuoja, o prireikus ir teikia asmeniui (šeimai) kompleksines paslaugas šeimai kuo arčiau asmens (šeimos) gyvenamosios vietos arba asmens (šeimos) gyvenamojoje vietoje vieno langelio principu. 
+
+
+
+
+2. Kiekviena savivaldybė turi užtikrinti, kad jos teritorijoje veiktų bent vieni bendruomeniniai šeimos namai.
+
+
+
+
+3. Bendruomeninių šeimos namų funkcijos:
+
+
+1) organizuoti kompleksinių paslaugų šeimai teikimą, o prireikus ir jas teikti;
+
+
+
+
+2) informuoti asmenis (šeimas), bendruomenę apie teikiamas kompleksines paslaugas šeimai, konsultuoti juos šių paslaugų teikimo klausimais;
+
+
+
+
+3) informuoti tikslines grupes apie kitas aktualias savivaldybės teritorijoje teikiamas socialines paslaugas, vykdomas programas ir (ar) kitą socialinę paramą;
+
+
+
+
+4) organizuoti bendruomenės įtraukimą į pagalbos asmenims (šeimoms) organizavimą ir (ar) teikimą;
+
+
+
+
+5) plėtoti tarpinstitucinį bendradarbiavimą (socialinio darbo mikrolygmeniu, mezolygmeniu ir makrolygmeniu);
+
+
+
+
+6) skelbti informaciją apie vykdomą veiklą (funkcijas, teikiamų kompleksinių paslaugų šeimai turinį) savo interneto svetainėje.
+
+
+
+
+
+
+4. Metodinę pagalbą dėl kompleksinių paslaugų šeimai organizavimo ir (ar) teikimo, jų kokybės gerinimo teikia ir gerąja patirtimi teikiant šias paslaugas dalijasi Metodinis kompleksinių paslaugų šeimai centras socialinės apsaugos ir darbo ministro nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
 20 straipsnis. Socialinis darbas
 
 
@@ -1347,7 +1522,10 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
-5. Socialinis darbuotojas nuolat, ne mažiau kaip 16 akademinių valandų per kalendorinius metus, tobulina profesinę kompetenciją, jo veikla vertinama socialinės apsaugos ir darbo ministro nustatyta tvarka. 
+5. Socialinių darbuotojų veikla vertinama socialinės apsaugos ir darbo ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -1405,7 +1583,15 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
-2) laikytis socialinio darbo įgyvendinimo principų.
+2) laikytis socialinio darbo įgyvendinimo principų;
+
+
+
+
+3) profesinėje veikloje vadovautis Socialinių paslaugų srities darbuotojų etikos kodeksu.
+Papildyta straipsnio punktu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -1432,6 +1618,107 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 Straipsnio pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
+201 straipsnis. Socialinių paslaugų srities darbuotojų reguliacija
+
+
+1. Socialinių paslaugų srities darbuotojų reguliacija apima visumą veiksmų ir (ar) priemonių, padedančių vieningai vykdyti socialinį darbą, kaip profesinę veiklą, laikytis Socialinių paslaugų srities darbuotojų etikos kodekso nuostatų ir socialinio darbo įgyvendinimo principų, užtikrinti socialinių paslaugų srities darbuotojų profesinės kompetencijos tobulinimą įvairiose socialinio darbo įgyvendinimo srityse. 
+
+
+
+
+2. Socialinių paslaugų srities darbuotojai socialinės apsaugos ir darbo ministro nustatyta tvarka nuolat tobulina profesinę kompetenciją:
+
+
+1) socialinių paslaugų srities darbuotojai, išskyrus socialinius darbuotojus ir socialinių paslaugų įstaigų vadovus, ne mažiau kaip 16 akademinių valandų per kalendorinius metus dalyvauja mokymuose;
+
+
+
+
+2) socialinių paslaugų įstaigų vadovai ne mažiau kaip 16 akademinių valandų per metus dalyvauja mokymuose ir ne mažiau kaip 4 akademines valandas per metus – supervizijoje;
+
+
+
+
+3) socialiniai darbuotojai ne mažiau kaip 16 akademinių valandų per kalendorinius metus dalyvauja mokymuose ir ne mažiau kaip 8 akademines valandas per metus – supervizijoje.
+
+
+
+
+
+
+3. Laikas, skirtas socialinių paslaugų srities darbuotojų kompetencijai tobulinti, kaip nurodyta šio straipsnio 2 dalyje, įskaitomas į jų darbo laiką, mokant darbo užmokestį. Superviziją savo lėšomis organizuoja socialinių paslaugų įstaiga.
+
+
+Papildyta straipsniu:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
+202 straipsnis. Socialinių paslaugų srities darbuotojų reguliaciją vykdantys subjektai ir jų kompetencija
+
+
+1. Socialinių paslaugų srities darbuotojų reguliaciją vykdo Lietuvos socialinio darbo taryba, Socialinių paslaugų priežiūros departamentas, Socialinių paslaugų srities darbuotojų etikos komisija (toliau – Etikos komisija), socialinės apsaugos ir darbo ministro nustatyta tvarka atrinktas juridinis asmuo ar kita organizacija, jų padalinys, kuris organizuoja ir (ar) vykdo socialinių paslaugų srities darbuotojų profesinės kompetencijos tobulinimą.
+
+
+
+
+2. Lietuvos socialinio darbo taryba, patariamoji, visuomeniniais pagrindais veikianti institucija prie Socialinės apsaugos ir darbo ministerijos, vykdydama socialinių paslaugų srities darbuotojų reguliaciją, atlieka šias funkcijas:
+
+
+1) analizuoja ir vertina socialinio darbo iššūkius visais jo lygmenimis; 
+
+
+
+
+2) konsultuoja ir teikia išvadas bei pasiūlymus Socialinės apsaugos ir darbo ministerijai strateginiais socialinio darbo, kaip profesinės veiklos, tobulinimo, socialinių paslaugų klausimais.
+
+
+
+
+
+
+3. Lietuvos socialinio darbo tarybos nuostatus ir sudėtį tvirtina socialinės apsaugos ir darbo ministras.
+
+
+
+
+4. Socialinių paslaugų priežiūros departamentas, vykdydamas socialinių paslaugų srities darbuotojų reguliaciją, socialinės apsaugos ir darbo ministro nustatyta tvarka atlieka socialinių darbuotojų ir socialinių paslaugų įstaigų vadovų atestaciją ir, siekdamas nustatyti socialinių paslaugų srities darbuotojų profesinės kompetencijos tobulinimo poreikį, renka, kaupia ir analizuoja duomenis apie juos – jų skaičių, išsilavinimą (aukštąjį universitetinį, aukštąjį koleginį ir (ar) kitą turimą išsilavinimą), vidutinį darbo užmokestį. 
+
+
+
+
+5. Etikos komisija, visuomeniniais pagrindais veikianti institucija, vykdydama socialinių paslaugų srities darbuotojų reguliaciją, atlieka šias funkcijas:
+
+
+1) nagrinėja skundus dėl Socialinių paslaugų srities darbuotojų etikos kodekso pažeidimų;
+
+
+
+
+2) teikia pasiūlymus ir (ar) rekomendacijas socialinių paslaugų įstaigoms dėl socialinių paslaugų įstaigų vadovų ir (ar) socialinių darbuotojų veiklos vertinimo ir (ar) socialinių paslaugų srities darbuotojų profesinės kompetencijos tobulinimo.
+
+
+
+
+
+
+6. Etikos komisijos nuostatus tvirtina socialinės apsaugos ir darbo ministras. Etikos komisijos sudėtį Lietuvos socialinių paslaugų srities darbuotojus vienijančių ir jiems atstovaujančių organizacijų teikimu tvirtina socialinės apsaugos ir darbo ministras. Socialinių paslaugų srities darbuotojų etikos kodeksą Lietuvos socialinių paslaugų srities darbuotojus vienijančių ir jiems atstovaujančių organizacijų teikimu ir Etikos komisijos pritarimu tvirtina socialinės apsaugos ir darbo ministras.
+
+
+
+
+7. Socialinės apsaugos ir darbo ministro nustatyta tvarka atrinktas juridinis asmuo ar kita organizacija, jų padalinys organizuoja ir (ar) vykdo socialinių paslaugų srities darbuotojų profesinės kompetencijos tobulinimą socialinės apsaugos ir darbo ministro nustatyta tvarka. 
+
+
+Papildyta straipsniu:
 Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
@@ -1950,7 +2237,10 @@ MOKĖJIMAS UŽ SOCIALINES PASLAUGAS
 26 straipsnis. Bendrosios mokėjimo už socialines paslaugas nuostatos 
 
 
-1. Mokėjimo už socialines paslaugas dydis nustatomas atsižvelgiant į teikiamų asmeniui (šeimai) socialinių paslaugų rūšį ir į asmens (šeimos) finansines galimybes mokėti už socialines paslaugas.
+1. Mokėjimo už socialines paslaugas dydis nustatomas atsižvelgiant į socialinių paslaugų, teikiamų asmeniui (šeimai), rūšį ir į asmens (šeimos) finansines galimybes mokėti už socialines paslaugas. Prevencinės socialinės paslaugos teikiamos nemokamai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 
@@ -2446,9 +2736,10 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
-2. Socialinė priežiūra šeimoms, vaikų dienos socialinė priežiūra finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto dotacijų savivaldybių biudžetams. 
+2. Socialinė priežiūra šeimoms ir vaikų dienos socialinė priežiūra finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto dotacijų savivaldybių biudžetams. Kompleksinės paslaugos šeimai, jų organizavimas ir teikimas finansuojamas iš Europos Sąjungos struktūrinių fondų lėšų ir (ar) valstybės biudžeto dotacijų savivaldybių biudžetams, ir (ar) savivaldybių biudžetų lėšų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -2482,7 +2773,18 @@ Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 
 
 
-7. Valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams panaudojimą socialinėms paslaugoms finansuoti reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinta socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika.
+7. Prevencinės socialinės paslaugos, išskyrus kompleksinių paslaugų šeimai teikimą, finansuojamos iš savivaldybių biudžetų lėšų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
+8. Valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams panaudojimą socialinėms paslaugoms finansuoti reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinta socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
 
 
 Straipsnio pakeitimai:
