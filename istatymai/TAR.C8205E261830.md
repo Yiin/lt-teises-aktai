@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2021-03-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-11-21
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -1148,7 +1148,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-4) jis buvo vaiko globėju (rūpintoju) ir globa (rūpyba) panaikinta dėl jo kaltės Civilinio kodekso 3.246 straipsnio 3 dalyje numatytais atvejais;
+4) jis buvo vaiko globėjas (rūpintojas) ir buvo nušalintas nuo globėjo (rūpintojo) pareigų Civilinio kodekso 3.246 straipsnio 2 dalyje numatytais atvejais arba jo su globos centru sudaryta tarpusavio bendradarbiavimo ir paslaugų teikimo sutartis buvo nutraukta dėl netinkamo jos vykdymo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+ 
 
 
 
@@ -1485,12 +1488,18 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs būtinybę dėl kylančio realaus ir tiesioginio pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, skubiai paima vaiką iš jam nesaugios aplinkos, prireikus pasitelkdamas policijos pareigūnus, bei imasi veiksmų dėl vaiko perdavimo tėvams (ar vienam iš tėvų) ar kitiems vaiko atstovams pagal įstatymą ir (ar) atlieka vaiko situacijos vertinimą šio įstatymo 361 straipsnyje nustatyta tvarka.
+4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs būtinybę dėl kylančio realaus ir tiesioginio pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, skubiai paima vaiką iš jam nesaugios aplinkos, prireikus pasitelkdamas policijos pareigūnus, bei imasi veiksmų dėl vaiko perdavimo tėvams (ar vienam iš tėvų) ar kitiems vaiko atstovams pagal įstatymą ir (ar) atlieka vaiko situacijos vertinimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+ 
 
 
 
 
-5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko buvimą jam nesaugioje aplinkoje, kuri nėra vaiko gyvenamoji vieta ir kurioje kyla realus ir tiesioginis pavojus vaiko sveikatai ar gyvybei, skubiai užtikrina vaiko saugumą ir nedelsdamas imasi veiksmų dėl vaiko perdavimo tėvams ar kitiems jo atstovams pagal įstatymą ir (ar) atlieka vaiko situacijos vertinimą šio įstatymo 361 straipsnyje nustatyta tvarka. Nustatęs, kad vaikas negali būti grąžintas jo tėvams ar vaiko atstovams pagal įstatymą dėl to, kad tėvai arba turimas vienintelis iš tėvų yra dingę ir jų ieškoma (kol teismas tėvus pripažins nežinia kur esančiais arba paskelbs mirusiais) arba tėvai ar turimas vienintelis iš tėvų laikinai negali rūpintis vaiku dėl abiejų tėvų ar vieno iš jų ligos, suėmimo, bausmės atlikimo ar kitų svarbių priežasčių arba dėl to, kad gali kilti realus ir tiesioginis pavojus vaiko sveikatai ar gyvybei, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius nustato vaikui apsaugos poreikį ir nedelsdamas imasi šio įstatymo 365 straipsnyje nustatytų veiksmų.
+5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko buvimą jam nesaugioje aplinkoje, kuri nėra vaiko gyvenamoji vieta ir kurioje kyla realus ir tiesioginis pavojus vaiko sveikatai ar gyvybei, skubiai užtikrina vaiko saugumą, nedelsdamas imasi veiksmų dėl vaiko perdavimo tėvams ar kitiems jo atstovams pagal įstatymą ir (ar) atlieka vaiko situacijos vertinimą. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs, kad vaikas negali būti grąžintas jo tėvams ar vaiko atstovams pagal įstatymą dėl to, kad tėvai ar turimas vienintelis iš tėvų laikinai negali rūpintis vaiku dėl abiejų tėvų ar vieno iš jų ligos, suėmimo, bausmės atlikimo ar kitų svarbių priežasčių arba dėl to, kad gali kilti realus ir tiesioginis pavojus vaiko sveikatai ar gyvybei, nustato vaikui apsaugos poreikį ir nedelsdamas imasi šio įstatymo 365 straipsnyje nustatytų veiksmų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+ 
 
 
 Straipsnio pakeitimai:
@@ -1553,7 +1562,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs vaiko situacijos vertinimą ir nustatęs vaiko apsaugos poreikį, nedelsdamas imasi vieno iš šių veiksmų:
 
 
-1) užtikrina vaikui laikinąją priežiūrą pagal šio įstatymo 364 straipsnio 1 dalį arba, 
+1) socialinės apsaugos ir darbo ministro nustatyta tvarka užtikrina vaikui laikinąją priežiūrą pagal šio įstatymo 364 straipsnio 1 dalį arba
+Straipsnio punkto pakeitimai:
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+ 
 
 
 
@@ -1618,7 +1630,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, užtikrinęs vaiko laikinąją priežiūrą pagal šio straipsnio 1 dalies 2 punktą, nedalyvaujant vaiko tėvams (vienam iš vaiko tėvų) ar kitiems (kitam) vaiko atstovams (atstovui) pagal įstatymą, nedelsdamas, bet ne vėliau kaip tą pačią dieną, bet kokiomis nuotolinio ryšio priemonėmis ar raštu privalo apie tai pranešti vaiko tėvams ar kitiems jo atstovams pagal įstatymą.
+4. Neteko galios nuo 2022-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+ 
 
 
 
@@ -1656,10 +1671,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 365 straipsnis. Vaiko paėmimo iš jo tėvų ir kitų vaiko atstovų pagal įstatymą tvarka
 
 
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko apsaugos poreikį, gali paimti vaiką iš jo tėvų ar kitų vaiko atstovų pagal įstatymą Civilinio kodekso 3.254 straipsnyje nurodytais pagrindais ir jeigu:
+1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, nustatęs vaiko apsaugos poreikį, gali paimti vaiką iš jo tėvų ar kitų vaiko atstovų pagal įstatymą Civilinio kodekso 3.254 straipsnio 2 ar 3 punkte nurodytais pagrindais ir jeigu:
 
 
-1) nepavyksta užtikrinti vaikui saugios aplinkos vadovaujantis šio įstatymo 364 straipsnyje nurodytomis priemonėmis ir toliau išlieka realus pavojus vaiko fiziniam ar psichiniam saugumui, galintis sukelti reikšmingą žalą vaiko sveikatai ar grėsti jo gyvybei arba
+1) nepavyksta užtikrinti vaikui saugios aplinkos vadovaujantis šio įstatymo 364 straipsnyje nurodytomis priemonėmis ir toliau išlieka realus pavojus vaiko fiziniam ar psichiniam saugumui, galintis sukelti reikšmingą žalą vaiko sveikatai ar grėsti jo gyvybei, arba
 
 
 
@@ -1667,6 +1682,9 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 2) šio įstatymo 364 straipsnyje nurodytų priemonių taikymo metu vaiko tėvai ar kiti jo atstovai pagal įstatymą nededa pastangų, nekeičia savo elgesio ir toliau šeimoje išlieka realus pavojus vaiko fiziniam ar psichiniam saugumui, galintis sukelti reikšmingą žalą vaiko sveikatai ar grėsti jo gyvybei.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+ 
 
 
 
@@ -1676,7 +1694,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-3. Vaiko tėvai ar kiti jo atstovai pagal įstatymą turi teisę skųsti teismui Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus veiksmus dėl galimai neteisėto vaiko paėmimo atvejo.
+3. Vaiko tėvai ar kiti jo atstovai pagal įstatymą turi teisę skųsti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus veiksmus dėl galimai neteisėto vaiko paėmimo atvejo, kaip tai numatyta šio įstatymo 29 straipsnio 8 dalyje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+ 
 
 
 
@@ -1869,7 +1890,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-3. Per 3 darbo dienas nuo teismo leidimo paimti vaiką iš tėvų, kitų jo atstovų pagal įstatymą išdavimo Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius teikia savivaldybės administracijos direktoriui nurodymą nustatyti vaikui laikinąją globą (rūpybą) ir paskirti konkretų laikinąjį globėją (rūpintoją).
+3. Per 3 darbo dienas nuo teismo leidimo paimti vaiką iš tėvų, kitų jo atstovų pagal įstatymą išdavimo dienos Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius teikia savivaldybės administracijos direktoriui nurodymą nustatyti vaikui laikinąją globą (rūpybą) ir paskirti laikinąjį globėją (rūpintoją).
+Straipsnio dalies pakeitimai:
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+ 
 
 
 
@@ -2709,3 +2733,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 4 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 2, 23 straipsnių ir priedo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 30, 36, 36-3, 36-4, 36-5 ir 42 straipsnių pakeitimo įstatymas
