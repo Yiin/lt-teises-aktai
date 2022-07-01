@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-03-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-11-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -1458,9 +1459,17 @@ Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
 
 
 
-6) valstybinės, savivaldybių ir privačios žemės sklypams, kai Investicijų įstatyme nustatytais atvejais servitutai reikalingi stambiems projektams įgyvendinti. 
+6) valstybinės, savivaldybių ir privačios žemės sklypams, kai Investicijų įstatyme nustatytais atvejais servitutai reikalingi stambiems projektams įgyvendinti; 
 Papildyta straipsnio punktu:
 Nr. XIII-3165, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15498
+ 
+
+
+
+
+7) valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, kai įgyvendinant ypatingos valstybinės svarbos projektą numatomas servitutas, suteikiantis teisę tiesti inžinerinius tinklus ar kelius bei takus, jais naudotis ir juos prižiūrėti.
+Papildyta straipsnio punktu:
+Nr. XIV-1048, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09659
  
 
 
@@ -3287,7 +3296,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 47 straipsnis. Atlyginimas už visuomenės poreikiams paimamą žemę
 
 
-1. Kai privačios žemės sklypas paimamas visuomenės poreikiams, žemės savininkui ir (ar) kitam naudotojui turi būti teisingai atlyginama už žemę pinigais pagal rinkos vertę arba žemės savininko rašytiniu sutikimu jam suteikiamas valstybinės žemės sklypas, kuris ribojasi su paimamu visuomenės poreikiams žemės sklypu, taip pat žemės savininkui ir (ar) kitam naudotojui pinigais atlyginama paimamoje visuomenės poreikiams žemėje esančių želdinių, medynų tūrio, negauto derliaus ir įdėtų lėšų žemės ūkio produkcijai ir miškui auginti vertė bei visi kiti savininko ir (ar) kito naudotojo nuostoliai, patirti dėl žemės sklypo ir jame statomų ar jau pastatytų statinių, įrenginių, žemės sklype esančių želdinių paėmimo visuomenės poreikiams. Paimamo žemės sklypo rinkos vertė apskaičiuojama pagal pagrindinę žemės naudojimo paskirtį, naudojimo būdą, nustatytus iki žymos Nekilnojamojo turto registre apie pradėtą žemės paėmimo visuomenės poreikiams procedūrą padarymo, taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, o turto vertinimo metodas parenkamas atsižvelgiant į Vyriausybės nustatytus kriterijus. Žemės sklype esančių želdinių, medynų tūrio, negauto derliaus ir įdėtų lėšų žemės ūkio produkcijai ir miškui auginti vertė ir suteikiamo valstybinės žemės sklypo rinkos vertė apskaičiuojamos taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, o turto vertinimo metodas parenkamas atsižvelgiant į Vyriausybės nustatytus kriterijus. Jeigu visuomenės poreikiams paimamas statiniais ar įrenginiais užstatomas ar užstatytas žemės sklypas, už jau pastatytus ar statomus žemės sklype asmenims nuosavybės teise priklausančius statinius turi būti atlyginama pinigais pagal rinkos vertę, kuri apskaičiuojama taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, o turto vertinimo metodas parenkamas atsižvelgiant į Vyriausybės nustatytus kriterijus. Jeigu visuomenės poreikiams paimamas žemės sklypas, kuriame vykdoma ūkinė komercinė veikla, žemės savininkui ir (ar) kitam naudotojui atlyginami nuostoliai, susiję su ūkinės komercinės veiklos paimamame visuomenės poreikiams žemės sklype nutraukimu ar apribojimu ir kurių dydis apskaičiuojamas taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, o apskaičiavimo metodas parenkamas atsižvelgiant į Vyriausybės nustatytus kriterijus. Apskaičiuojant visuomenės poreikiams paimamo žemės sklypo, jame esančių statinių ir įrenginių rinkos vertę, turi būti atsižvelgiama į tą pačią žemės verčių zoną žemės verčių žemėlapiuose patenkančių žemės sklypų, statinių ir įrenginių sandoriuose, sudarytuose nuo teritorijų planavimo dokumento, kuriame numatytas konkretus visuomenės poreikis, patvirtinimo iki turto vertinimo ataskaitos parengimo, nurodytų tokių nekilnojamųjų daiktų kainų pokytį. Visuomenės poreikiams paimamo turto vertinimą užsako ir už turto vertinimo darbus sumoka žemės paėmimu visuomenės poreikiams suinteresuota institucija.
+1. Kai privačios žemės sklypas paimamas visuomenės poreikiams, žemės savininkui ir (ar) kitam naudotojui turi būti teisingai atlyginama už žemę pinigais pagal rinkos vertę arba žemės savininko rašytiniu sutikimu jam suteikiamas valstybinės žemės sklypas, kuris ribojasi su paimamu visuomenės poreikiams žemės sklypu, taip pat žemės savininkui ir (ar) kitam naudotojui pinigais atlyginama paimamoje visuomenės poreikiams žemėje esančių sodinių, želdinių, medynų tūrio, negauto derliaus ir įdėtų lėšų žemės ūkio produkcijai ir miškui auginti vertė bei visi kiti savininko ir (ar) kito naudotojo nuostoliai, patirti dėl žemės sklypo ir jame statomų ar jau pastatytų statinių, įrenginių, žemės sklype esančių želdinių, sodinių paėmimo visuomenės poreikiams. Paimamo žemės sklypo rinkos vertė apskaičiuojama pagal pagrindinę žemės naudojimo paskirtį, naudojimo būdą, nustatytus iki žymos Nekilnojamojo turto registre apie pradėtą žemės paėmimo visuomenės poreikiams procedūrą padarymo, taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, o turto vertinimo metodas parenkamas atsižvelgiant į turto ir verslo vertinimą reglamentuojančius teisės aktus. Žemės sklype esančių sodinių, želdinių, medynų tūrio, negauto derliaus ir įdėtų lėšų žemės ūkio produkcijai ir miškui auginti vertė ir suteikiamo valstybinės žemės sklypo rinkos vertė apskaičiuojamos taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, o turto vertinimo metodas parenkamas atsižvelgiant į turto ir verslo vertinimą reglamentuojančius teisės aktus. Jeigu visuomenės poreikiams paimamas statiniais, išskyrus gyvenamąjį pastatą, ar įrenginiais užstatomas ar užstatytas žemės sklypas, už jau pastatytus ar statomus žemės sklype asmenims nuosavybės teise priklausančius statinius, išskyrus gyvenamąjį pastatą, turi būti atlyginama pinigais pagal rinkos vertę, kuri apskaičiuojama taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, o turto vertinimo metodas parenkamas atsižvelgiant į turto ir verslo vertinimą reglamentuojančius teisės aktus. Jeigu visuomenės poreikiams paimamas žemės sklypas, kuriame vykdoma ūkinė komercinė veikla, žemės savininkui ir (ar) kitam naudotojui atlyginami nuostoliai, kurie susiję su ūkinės komercinės veiklos paimamame visuomenės poreikiams žemės sklype nutraukimu ar apribojimu ir kurių dydis apskaičiuojamas taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, o jų apskaičiavimo metodas parenkamas atsižvelgiant į turto ir verslo vertinimą reglamentuojančius teisės aktus. Jeigu visuomenės poreikiams paimamas gyvenamuoju pastatu užstatytas žemės sklypas, nuostolių už gyvenamąjį pastatą suma apskaičiuojama atliekant individualų turto vertinimą bent dviem turto vertinimo metodais, parinktais pagal turto ir verslo vertinimą reglamentuojančius teisės aktus, o savininkui ir (ar) kitam naudotojui atlyginama ta verte, kuri yra didesnė. Kitais atvejais, apskaičiuojant visuomenės poreikiams paimamo žemės sklypo, jame esančių statinių ir įrenginių rinkos vertę, turi būti atsižvelgiama į žemės verčių žemėlapiuose į tą pačią žemės verčių zoną patenkančių žemės sklypų, statinių ir įrenginių sandoriuose, sudarytuose nuo teritorijų planavimo dokumento, kuriame numatytas konkretus visuomenės poreikis, patvirtinimo iki turto vertinimo ataskaitos parengimo, nurodytų tokių nekilnojamųjų daiktų kainų pokytį. Visuomenės poreikiams paimamo turto vertinimą užsako ir už turto vertinimo darbus sumoka žemės paėmimu visuomenės poreikiams suinteresuota institucija. Visuomenės poreikiams paimamo turto vertinimo ataskaita galioja 12 mėnesių nuo jos parengimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1048, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09659
+ 
 
 
 
@@ -3342,7 +3354,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-9. Jeigu išnuomotą arba perduotą neatlygintinai naudotis valstybinę žemę numatoma naudoti visuomenės poreikiams, valstybinės žemės nuomos ar panaudos sutartis nutraukiama prieš terminą, o žemės sklype esančių statinių ir želdinių vertė bei dėl žemės paėmimo visuomenės poreikiams patirti nuostoliai žemės nuomininkams ar kitiems naudotojams atlyginami pagal šį straipsnį.
+9. Jeigu išnuomotą arba perduotą neatlygintinai naudotis valstybinę žemę numatoma naudoti visuomenės poreikiams, valstybinės žemės nuomos ar panaudos sutartis nutraukiama prieš terminą, o žemės sklype esančių statinių, sodinių ir želdinių vertė bei dėl žemės paėmimo visuomenės poreikiams patirti nuostoliai žemės nuomininkams ar kitiems naudotojams atlyginami pagal šį straipsnį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1048, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09659
+ 
 
 
 
@@ -4074,3 +4089,13 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 45 straipsnių pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-717, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25446
 Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 24 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-695, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25033
+Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1048, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09659
+Lietuvos Respublikos žemės įstatymo Nr. I-446 23 ir 47 straipsnių pakeitimo įstatymas
