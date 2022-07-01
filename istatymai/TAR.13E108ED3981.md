@@ -18,9 +18,10 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2020-07-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2023-06-22
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 63-1582, i. k. 0951010ISTA00I-1034
  
@@ -234,7 +235,9 @@ b) tradiciniai angliavandeniliai;
 
 
 
-30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme. 
+30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos jūros aplinkos apsaugos įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme, Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1049, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09662
  
 
 
@@ -717,7 +720,9 @@ Leidimas tirti žemės gelmes neišduodamas, jeigu:
 
 
 
-3. Registruojamų tiesioginių žemės gelmių tyrimų vieta (kai gręžiamas gręžinys, kurio projektinis gylis 300 metrų ir daugiau, ar mineralinio požeminio vandens gręžinys) ar plotas (visais kitais atvejais), atlikimo būdas ir trukmė turi būti suderinti su žemės savininkais, valdytojais ir naudotojais vadovaujantis Žemės įstatymo nuostatomis. Prieš pradėdamas angliavandenilių išteklių tiesioginį žemės gelmių tyrimą, leidimo turėtojas ne vėliau kaip prieš 15 kalendorinių dienų apie tai turi raštu pranešti savivaldybės, kurios teritorijoje numatomi žemės gelmių tyrimai, vykdomajai institucijai.
+3. Registruojamų tiesioginių žemės gelmių tyrimų vieta (kai gręžiamas gręžinys, kurio projektinis gylis 300 metrų ir daugiau, ar mineralinio požeminio vandens gręžinys) ar plotas (visais kitais atvejais), atlikimo būdas ir trukmė turi būti suderinti su žemės savininkais, valdytojais ir naudotojais vadovaujantis Žemės įstatymo nuostatomis, o įgyvendinant ypatingos valstybinės svarbos projektus informacija ir pranešimai žemės savininkams, valdytojams ir (ar) kitiems naudotojams pateikiami vadovaujantis Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo nuostatomis. Prieš pradėdamas angliavandenilių išteklių tiesioginį žemės gelmių tyrimą, leidimo turėtojas ne vėliau kaip prieš 15 kalendorinių dienų apie tai turi raštu pranešti savivaldybės, kurios teritorijoje numatomi žemės gelmių tyrimai, vykdomajai institucijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1049, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09662
  
 
 
@@ -1906,6 +1911,8 @@ V – valstybės lėšomis iki konkurso atliktų ploto (telkinio) žemės gelmi�
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 žemės gelmių įstatymo
@@ -1933,8 +1940,7 @@ Lietuvos Respublikos
 4. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos direktyva 2013/30/ES dėl naftos ir dujų operacijų jūroje saugos, kuria iš dalies keičiama Direktyva 2004/35/EB (OL 2013 L 178, p. 66).
 
 
-
-
+part_a653b0f128e042fb88eb86dc1fe16513_end
 
 
 Pakeitimai:
@@ -2015,3 +2021,8 @@ Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 14 ir 26 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2481, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17357
 Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1049, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09662
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 2 ir 11 straipsnių pakeitimo įstatymas
