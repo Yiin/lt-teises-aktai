@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2022-05-28 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -260,7 +260,10 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-19. Atliekų tvarkymo valstybinės reikšmės objektai – veikiantys arba statomi atliekų tvarkymo objektai, atitinkantys Vyriausybės nustatytus kriterijus.
+19. Neteko galios nuo 2022-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1092, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11330
+ 
 
 
 
@@ -434,9 +437,11 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
-362. Gyvenamoji teritorija – teritorija, kuri pagal teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytą žemės naudojimo būdą laikoma vienbučių ir dvibučių gyvenamųjų pastatų teritorija arba daugiabučių gyvenamųjų pastatų ir bendrabučių teritorija. 
+362. Neteko galios nuo 2022-07-01. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1571, 2018-10-25, paskelbta TAR 2018-10-29, i. k. 2018-17068
+Straipsnio dalies pakeitimai:
+Nr. XIV-1092, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11330
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
@@ -1315,11 +1320,11 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-6. Atliekų tvarkymo objektai, atitinkantys Vyriausybės nustatytus kriterijus, steigiami ir pripažįstami atliekų tvarkymo valstybinės reikšmės objektais Vyriausybės nustatyta tvarka. Tik Vyriausybės pripažintuose atliekų tvarkymo valstybinės reikšmės objektuose kaip kuras energijai gaminti gali būti naudojamos ar planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos ir tokie objektai gali būti statomi ne arčiau kaip 20 kilometrų atstumu nuo gyvenamosios teritorijos. 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos atliekų tvarkymo įstatymo 4 straipsnio 6 dalis (2018 m. spalio 25 d. redakcija; TAR, 2018-10-29, Nr. 17068) tiek, kiek joje nustatyta, kad atliekų tvarkymo valstybinės reikšmės objektai, kuriuose kaip kuras energijai gaminti gali būti naudojamos ar planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, gali būti statomi ne arčiau kaip 20 kilometrų atstumu nuo gyvenamosios teritorijos, taip pat tiek, kiek joje Lietuvos Respublikos Vyriausybei pavesta nustatyti atliekų tvarkymo objektų, kuriuose kaip kuras energijai gaminti gali būti naudojamos ar planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, pripažinimo valstybinės reikšmės objektais kriterijus, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 1, 3 dalims, konstituciniam teisinės valstybės principui.
+6. Kaip kuras energijai gaminti gali būti naudojamos tik išrūšiavus likusios pakartotinai naudoti ir perdirbti netinkamos energinę vertę turinčios atliekos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1571, 2018-10-25, paskelbta TAR 2018-10-29, i. k. 2018-17068
 Nr. KT31-N3/2020, 2020-02-18, paskelbta TAR 2020-02-18, i. k. 2020-03538
+Nr. XIV-1092, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11330
  
 
 
@@ -5853,3 +5858,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 11-2, 12, 28, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1097, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11332
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4-2 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1092, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11330
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir 4 straipsnių pakeitimo įstatymas
