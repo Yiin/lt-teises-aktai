@@ -13,12 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/8b5a4a1088f711e8af589337bf1eb893"
 
 # Lietuvos Respublikos bausmių vykdymo sistemos įstatymas
 
-Suvestinė redakcija nuo 2019-07-06 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2018-07-16, i. k. 2018-12055
  
- 
-
+Nauja redakcija nuo 2022-07-01:
+Nr. XIV-878, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00169
  
 LIETUVOS RESPUBLIKOS
 PATAISOS PAREIGŪNŲ VEIKLOS
@@ -49,22 +49,22 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatyme vartojamos sąvokos
 
 
-1. Dinaminė priežiūra – nuteistųjų resocializacijos, socialinės pagalbos suimtiesiems ir jų elgesio kontrolės priemonių visuma.
+1. Dinaminė priežiūra – nuteistųjų resocializacijos, socialinės pagalbos suimtiesiems ir jų elgesio kontrolės priemonių visuma. 
 
 
 
 
-2. Pataisos pareigūnas – vidaus tarnybos sistemos pareigūnas, priimtas į tarnybą Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas) ar jam pavaldžioje įstaigoje.
+2. Pataisos pareigūnas – vidaus tarnybos sistemos pareigūnas, priimtas į tarnybą Lietuvos probacijos tarnyboje (toliau – Probacijos tarnyba), Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas) ar jam pavaldžioje įstaigoje. 
 
 
 
 
-3. Prievarta – pataisos pareigūno veiklos metodas, kuris taikomas, kai nevykdomi Kalėjimų departamento, pataisos įstaigos arba tardymo izoliatoriaus administracijos reikalavimai ar nurodymai arba siekiama išvengti pavojaus.
+3. Prievarta – pataisos pareigūnų veiklos metodas, taikomas, kai nevykdomi šių pareigūnų reikalavimai ar nurodymai arba siekiama išvengti pavojaus.
 
 
 
 
-4. Įstatyme vartojamos sąvokos „fizinė prievarta“, „psichinė prievarta“ ir „specialiosios priemonės“ suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos policijos įstatyme.
+4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos policijos įstatyme, Lietuvos Respublikos saugios laivybos įstatyme ir Lietuvos Respublikos vidaus tarnybos statute.
  
 
 
@@ -75,22 +75,17 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Pataisos pareigūnų teisinė padėtis
 
 
-1. Pataisos pareigūnų gyvybę, sveikatą, garbę ir orumą, teises ir laisves saugo Lietuvos Respublikos įstatymai.
+1. Pataisos pareigūnai, atlikdami tarnybines pareigas, vadovaujasi įstatymais ir kitais teisės aktais.
 
 
 
 
-2. Pataisos pareigūnai, atlikdami tarnybines pareigas, vadovaujasi įstatymais ir kitais teisės aktais.
+2. Teisėti pataisos pareigūnų nurodymai, susiję su tarnybinių funkcijų atlikimu, privalomi visiems juridiniams asmenims, kitoms organizacijoms ir jų padaliniams bei fiziniams asmenims.
 
 
 
 
-3. Pataisos pareigūnų teisėti nurodymai, susiję su tarnybinių funkcijų atlikimu, privalomi visiems juridiniams asmenims, kitoms organizacijoms ir jų padaliniams ir fiziniams asmenims.
-
-
-
-
-4. Kiekvienas pataisos pareigūnas asmeniškai atsako už savo sprendimus ir veiksmus ar neveikimą bei jų pasekmes.
+3. Kiekvienas pataisos pareigūnas asmeniškai atsako už savo sprendimus ir veiksmus ar neveikimą bei jų pasekmes.
  
 
 
@@ -108,45 +103,41 @@ PATAISOS PAREIGŪNŲ VEIKLOS ORGANIZAVIMAS
 4 straipsnis. Pataisos pareigūnų tarnybos vieta
 
 
-1. Pataisos pareigūnai tarnauja Kalėjimų departamente ir jam pavaldžiose įstaigose, tai yra:
+1. Pataisos pareigūnai tarnauja Probacijos tarnyboje, Kalėjimų departamente ir jam pavaldžiose įstaigose, tai yra:
 
 
-1) pataisos įstaigoje;
-
-
-
-
-2) tardymo izoliatoriuje;
+1) pataisos įstaigose;
 
 
 
 
-3) probacijos tarnyboje;
+2) tardymo izoliatoriuose;
 
 
 
 
-4) pataisos pareigūnų statutinėje profesinio mokymo įstaigoje.
+3) pataisos pareigūnų statutinėje profesinio mokymo įstaigoje.
 
 
 
 
 
 
-2. Kalėjimų departamento struktūrą nustato Lietuvos Respublikos teisingumo ministras, o šiam departamentui pavaldžių įstaigų – Kalėjimų departamento direktorius. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
+2. Probacijos tarnybos ir Kalėjimų departamento administracijos struktūrą nustato Lietuvos Respublikos teisingumo ministras, Kalėjimų departamentui pavaldžių įstaigų struktūrą – Kalėjimų departamento direktorius.
  
 
 
 
 
-5 straipsnis. Neteko galios nuo 2019-07-06
-Straipsnio naikinimas:
-Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
+
+
+5 straipsnis. Pataisos pareigūnų rengimas
+
+
+Pataisos pareigūnai rengiami pataisos pareigūnų statutinėje profesinio mokymo įstaigoje ir kitose švietimo įstaigose Vidaus tarnybos statuto nustatyta tvarka.
  
+
+
 
 
 
@@ -154,12 +145,12 @@ Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
 6 straipsnis. Duomenų tvarkymas
 
 
-1. Pataisos pareigūnų veiklos uždaviniams įgyvendinti būtini duomenys tvarkomi Kalėjimų departamento informacinėje sistemoje, kurios valdytoja yra Lietuvos Respublikos teisingumo ministerija.
+1. Pataisos pareigūnų veiklos uždaviniams įgyvendinti būtini duomenys tvarkomi Kalėjimų departamento informacinėje sistemoje.
 
 
 
 
-2. Pataisos pareigūnai veiklos uždaviniams įgyvendinti būtinus asmens duomenis, įskaitant asmens kodą, tvarko be duomenų subjekto sutikimo.
+2. Pataisos pareigūnai veiklos uždaviniams įgyvendinti būtinus asmens duomenis, įskaitant asmens kodą, tvarko be duomenų subjektų sutikimo.
  
 
 
@@ -175,7 +166,7 @@ Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
 
 
 
-2. Pataisos pareigūnų atributiką tvirtina Kalėjimų departamento direktorius.
+2. Probacijos tarnybos pataisos pareigūnų atributiką tvirtina Probacijos tarnybos direktorius, Kalėjimų departamento ir jam pavaldžių įstaigų pataisos pareigūnų atributiką – Kalėjimų departamento direktorius.
  
 
 
@@ -186,14 +177,29 @@ Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
 
 
 III SKYRIUS
-PATAISOS PAREIGŪNŲ PAREIGOS IR TEISĖS 
+PATAISOS PAREIGŪNŲ VEIKLOS UŽDAVINIAI, PAREIGOS IR TEISĖS
  
 
 
 8 straipsnis. Pataisos pareigūnų veiklos uždaviniai
 
 
-Pataisos pareigūnų veiklos uždaviniai:
+1. Probacijos tarnybos pataisos pareigūnų veiklos uždaviniai:
+
+
+1) vykdyti probuojamųjų resocializacijos ir jų nusikalstamų veikų recidyvą mažinančias priemones; 
+
+
+
+
+2) kontroliuoti probuojamųjų ir asmenų, kuriems paskirtos viešųjų darbų ir laisvės apribojimo bausmės, baudžiamojo (išskyrus turto konfiskavimą, išplėstinį turto konfiskavimą, įmokas į Nukentėjusių nuo nusikaltimų asmenų fondą ir įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos) ir auklėjamojo (išskyrus atidavimą į specialią auklėjimo įstaigą) poveikio priemonės, elgesį.
+
+
+
+
+
+
+2. Kalėjimų departamento ir jam pavaldžių įstaigų pataisos pareigūnų veiklos uždaviniai:
 
 
 1) užtikrinti pataisos įstaigose ir tardymo izoliatoriuose laikomų nuteistųjų ir suimtųjų dinaminę priežiūrą ir šių įstaigų apsaugą;
@@ -201,17 +207,12 @@ Pataisos pareigūnų veiklos uždaviniai:
 
 
 
-2) kontroliuoti probuojamųjų ir asmenų, kuriems paskirtos viešųjų darbų ir laisvės apribojimo bausmės, baudžiamojo poveikio (išskyrus turto konfiskavimą, išplėstinį turto konfiskavimą ir įmokas į Nukentėjusių nuo nusikaltimų asmenų fondą) ir auklėjamojo poveikio (išskyrus atidavimą į specialią auklėjimo įstaigą) priemonės, elgesį;
+2) vykdyti nusikalstamų veikų ir kitų teisės pažeidimų Kalėjimų departamentui pavaldžiose įstaigose prevenciją, tirti ir atskleisti šias veikas ir teisės pažeidimus;
 
 
 
 
-3) atlikti nusikalstamų veikų ir kitų teisės pažeidimų Kalėjimų departamentui pavaldžiose įstaigose prevenciją, šias veikas ir teisės pažeidimus atskleisti ir tirti;
-
-
-
-
-4) užtikrinti pataisos įstaigose ir tardymo izoliatoriuose esančių ir baudžiamajame procese dalyvaujančių asmenų apsaugą nuo nusikalstamo poveikio.
+3) užtikrinti pataisos įstaigose ir tardymo izoliatoriuose esančių ir baudžiamajame procese dalyvaujančių asmenų apsaugą nuo nusikalstamo poveikio.
  
 
 
@@ -227,7 +228,7 @@ Pataisos pareigūnų veiklos uždaviniai:
 Pataisos pareigūnai privalo:
 
 
-1) padėti pataisos įstaigose laikomiems nuteistiesiems ir probacijos tarnybų prižiūrimiems asmenims įgyvendinti resocializacijos tikslus; 
+1) padėti Probacijos tarnybos prižiūrimiems asmenims ir pataisos įstaigose laikomiems nuteistiesiems įgyvendinti resocializacijos tikslus; 
 
 
 
@@ -237,12 +238,12 @@ Pataisos pareigūnai privalo:
 
 
 
-3) apsaugoti asmenis nuo jiems gresiančio pavojaus sveikatai ir (ar) gyvybei;
+3) apsaugoti asmenis nuo gresiančio pavojaus jų sveikatai ir (ar) gyvybei;
 
 
 
 
-4) gavę pranešimą apie galimai daromą nusikalstamą veiką ar kitą teisės pažeidimą arba būdami galimos nusikalstamos veikos ar kito teisės pažeidimo liudininkai, imtis neatidėliotinų priemonių užkirsti kelią galimai daromai nusikalstamai veikai ar kitam teisės pažeidimui ir apie tai pranešti tokius pažeidimus kompetentingiems tirti pareigūnams ir (ar) institucijoms;
+4) gavę pranešimą apie galimai daromą nusikalstamą veiką ar kitą teisės pažeidimą arba būdami galimai daromos nusikalstamos veikos ar kito teisės pažeidimo liudininkai, imtis neatidėliotinų priemonių, kad būtų užkirstas kelias galimai daromai nusikalstamai veikai ar kitam teisės pažeidimui, ir apie tai pranešti tokius pažeidimus tirti kompetentingiems pareigūnams ir (ar) institucijoms;
 
 
 
@@ -270,7 +271,7 @@ Pataisos pareigūnai privalo:
 10 straipsnis. Pataisos pareigūnų teisės
 
 
-1. Pataisos pareigūnai, atlikdami jiems nustatytas funkcijas, turi šias teises:
+1. Kalėjimų departamento ir jam pavaldžių įstaigų pataisos pareigūnai, atlikdami jiems nustatytas funkcijas, turi šias teises:
 
 
 1) atlikti į pataisos įstaigas, tardymo izoliatorius ir (ar) įmones, kuriose dirba suimtieji ir nuteistieji, atliekantys arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes, įeinančių ir iš jų išeinančių asmenų apžiūrą ir daiktų patikrinimą;
@@ -288,29 +289,32 @@ Pataisos pareigūnai privalo:
 
 
 
-4) šiame įstatyme nustatytomis sąlygomis panaudoti prievartą ir šaunamąjį ginklą;
+4) šiame įstatyme nustatytomis sąlygomis panaudoti prievartą ir (ar) šaunamąjį ginklą;
 
 
 
 
-5) neatlygintinai gauti iš valstybės, savivaldybių ir kitų institucijų, įstaigų, organizacijų valstybės informacinių išteklių, žinybinių registrų duomenis ir dokumentus bei kitą informaciją, būtiną pataisos pareigūnų veiklos uždaviniams įgyvendinti, arba susipažinti su šia informacija.
+5) neatlygintinai gauti iš valstybės, savivaldybių ir kitų institucijų, įstaigų, organizacijų valstybės informacinių išteklių, žinybinių registrų duomenis ir dokumentus bei kitą informaciją, būtinus pataisos pareigūnų veiklos uždaviniams įgyvendinti, arba susipažinti su šia informacija.
 
 
 
 
 
 
-2. Pataisos pareigūnai gali turėti ir kitų Lietuvos Respublikos įstatymuose, kituose teisės aktuose nustatytų teisių.
+2. Probacijos tarnybos pataisos pareigūnai turi šio straipsnio 1 dalies 4 ir 5 punktuose nurodytas teises.
 
 
 
 
-3. Šio straipsnio 1 dalies 5 punkte nurodyti duomenys Kalėjimų departamentui ir jam pavaldžioms įstaigoms teikiami šių įstaigų prašymu arba pagal atskiras duomenų teikimo sutartis. 
+3. Pataisos pareigūnai gali turėti ir kitų Lietuvos Respublikos įstatymuose, kituose teisės aktuose nustatytų teisių.
 
 
-Straipsnio pakeitimai:
-Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
+
+
+4. Šio straipsnio 1 dalies 5 punkte nurodyti duomenys Probacijos tarnybai, Kalėjimų departamentui ir jam pavaldžioms įstaigoms teikiami šių įstaigų prašymu arba pagal atskiras duomenų teikimo sutartis.
  
+
+
 
 
 
@@ -325,7 +329,7 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 11 straipsnis. Prievartos naudojimo sąlygos
 
 
-1. Prievarta gali būti naudojama tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinei pareigai atlikti. Pataisos pareigūnai naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdami į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes.
+1. Prievarta gali būti naudojama tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinėms pareigoms atlikti. Pataisos pareigūnai naudoti prievartą privalo adekvačiai esamoms aplinkybėms ir proporcingai esamam pavojui, atsižvelgdami į konkrečią situaciją, teisės pažeidimo pobūdį, intensyvumą ir individualias pažeidėjo savybes.
 
 
 
@@ -343,32 +347,32 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-2) kai asmuo nevykdo Kalėjimų departamento, pataisos įstaigos arba tardymo izoliatoriaus administracijos reikalavimų ar nurodymų (siekdamas priversti asmenį paklusti), taip pat sulaikydami asmenis (jeigu jie priešinasi);
+2) kai asmuo nevykdo Probacijos tarnybos, Kalėjimų departamento, pataisos įstaigos arba tardymo izoliatoriaus administracijos reikalavimų ar nurodymų (siekdami priversti asmenį paklusti), taip pat sulaikydami asmenis (jeigu jie priešinasi);
 
 
 
 
-3) atremdami kėsinimąsi į šaunamąjį ginklą, specialiąsias priemones, ryšio priemones ir siekdami šiuos objektus susigrąžinti;
+3) kai reikia atremti kėsinimąsi į šaunamąjį ginklą, specialiąsias priemones, ryšio priemones ir siekdami šiuos objektus susigrąžinti;
 
 
 
 
-4) atremdami Kalėjimų departamento ir jam pavaldžių įstaigų statinių, transporto priemonių, turto, teritorijų užpuolimus;
+4) kai reikia atremti Probacijos tarnybos, Kalėjimų departamento ir jam pavaldžių įstaigų statinių, transporto priemonių, turto, teritorijų užpuolimą;
 
 
 
 
-5) patekdami į teritorijas, patalpas ar transporto priemones per kratą ar poėmį, taip pat kai jose, turimais duomenimis, gali slėptis asmenys, galimai padarę nusikalstamą veiką;
+5) siekdami patekti į teritorijas, patalpas ar transporto priemones per kratą ar poėmį, taip pat kai jose, turimais duomenimis, gali slėptis asmenys, galimai padarę nusikalstamą veiką;
 
 
 
 
-6) užkirsdami kelią nusikalstamai veikai;
+6) siekdami užkirsti kelią nusikalstamai veikai;
 
 
 
 
-7) ypatingos situacijos (nuteistųjų ar suimtųjų riaušių, grupinio pasipriešinimo pataisos įstaigos arba tardymo izoliatoriaus administracijai ar neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos arba tardymo izoliatoriaus vidaus tvarką, įkaitų grobimo atvejais) metu.
+7) kai yra ypatingos situacijos (nuteistųjų ar suimtųjų riaušių, grupinio pasipriešinimo pataisos įstaigos arba tardymo izoliatoriaus administracijai ar neteisėtų grupinių veiksmų, pažeidžiančių pataisos įstaigos arba tardymo izoliatoriaus vidaus tvarką, įkaitų grobimo atvejais).
 
 
 
@@ -395,12 +399,17 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-6. Pataisos pareigūnai, naudodami fizinę prievartą prieš asmenis, gali naudoti ir specialiąsias priemones, kurių specifikaciją ir naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+6. Pataisos pareigūnai gali kartu su fizine prievarta prieš asmenis naudoti ir specialiąsias priemones, kurių specifikaciją ir naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 
 
 
-7. Kai nėra neišvengiamo pavojaus pataisos pareigūno ar kitų asmenų gyvybei ar sveikatai, fizinę prievartą ir specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama:
+7. Pataisos pareigūnai turi teisę kaip specialiąją priemonę panaudoti šaunamąjį ginklą su užtaisais, įtrauktais į specialiųjų priemonių specifikaciją, nekeliančiais tiesioginio pavojaus nei asmens, prieš kurį naudojamas šaunamasis ginklas, nei kitų asmenų gyvybei.
+
+
+
+
+8. Kai nėra neišvengiamo pavojaus pataisos pareigūno ar kitų asmenų gyvybei ar sveikatai, fizinę prievartą ir specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama:
 
 
 1) prieš asmenis, jeigu pataisos pareigūnui žinoma arba yra akivaizdu, kad jie neįgalieji;
@@ -425,12 +434,12 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-8. Pataisos pareigūnas, panaudojęs prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pataisos pareigūno panaudotą prievartą, jeigu tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui. 
+9. Pataisos pareigūnas, panaudojęs prievartą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pataisos pareigūno panaudotą prievartą, jeigu tai lėmė asmens mirtį arba gyvybei pavojingą sveikatos sutrikdymą, nedelsiant pranešama prokurorui. 
 
 
 
 
-9. Pataisos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su psichinės ar fizinės prievartos naudojimu. Pataisos pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+10. Pataisos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar sugeba veikti situacijomis, susijusiomis su psichinės ar fizinės prievartos naudojimu. Pataisos pareigūnų rengimo ir tikrinimo tvarką nustato Vyriausybė.
  
 
 
@@ -444,7 +453,7 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 1. Pataisos pareigūnai turi teisę panaudoti šaunamąjį ginklą šiais atvejais:
 
 
-1) atremdami ginkluotus Kalėjimų departamento ir jam pavaldžių įstaigų statinių, transporto priemonių, turto, teritorijų užpuolimus;
+1) kai reikia atremti ginkluotą Probacijos tarnybos, Kalėjimų departamento ir jam pavaldžių įstaigų statinių, transporto priemonių, turto, teritorijų užpuolimą ar kėsinimąsi į šaunamąjį ginklą;
 
 
 
@@ -454,32 +463,42 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-3) sulaikydami nusikalstamą veiką galimai padariusius asmenis, jeigu kyla neišvengiamas pavojus pataisos pareigūno ar kito asmens gyvybei ar sveikatai;
+3) sulaikydami nusikalstamą veiką galimai padariusius asmenis, kai kyla neišvengiamas pavojus pataisos pareigūno ar kito asmens gyvybei ar sveikatai;
 
 
 
 
-4) ypatingos situacijos (nuteistųjų ar suimtųjų riaušių, grupinio pasipriešinimo pataisos įstaigos arba tardymo izoliatoriaus administracijai ar neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos arba tardymo izoliatoriaus vidaus tvarką, įkaitų grobimo atvejais) metu.
+4) kai yra ypatingos situacijos (nuteistųjų ar suimtųjų riaušių, grupinio pasipriešinimo pataisos įstaigos arba tardymo izoliatoriaus administracijai ar neteisėtų grupinių veiksmų, pažeidžiančių pataisos įstaigos arba tardymo izoliatoriaus vidaus tvarką, įkaitų grobimo atvejais).
 
 
 
 
 
 
-2. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina, ir tada, kai psichinė ir fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
+2. Pataisos pareigūnai, nekeldami tiesioginio pavojaus asmens gyvybei, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, laivą, orlaivį arba transporto priemonę, kai kyla neišvengiamas pavojus pataisos pareigūno arba kitų asmenų gyvybei ar sveikatai.
 
 
 
 
-3. Ketindami naudoti šaunamąjį ginklą pataisos pareigūnai privalo įspėti apie šį ketinimą, suteikdami asmenims galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų pataisos pareigūno arba kito asmens gyvybei ar sveikatai arba kai toks įspėjimas yra neįmanomas.
+3. Šaunamasis ginklas gali būti panaudotas tik išimtiniais atvejais, kai tai neišvengiamai būtina, ir tada, kai psichinė ir fizinė prievarta buvo neveiksminga arba kyla neišvengiamas pavojus asmens gyvybei ar sveikatai.
 
 
 
 
-4. Kai neišvengiamo pavojaus pataisos pareigūno ar kitų asmenų gyvybei ar sveikatai nėra, šaunamąjį ginklą panaudoti draudžiama:
+4. Apie ketinimą naudoti šaunamąjį ginklą pataisos pareigūnai privalo asmenis įspėti, suteikdami jiems galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia neišvengiamą pavojų pataisos pareigūno arba kito asmens gyvybei ar sveikatai arba kai toks įspėjimas yra neįmanomas.
 
 
-1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus šio straipsnio 1 dalies 1 punkte nurodytą atvejį;
+
+
+5. Pataisos pareigūnai, nekeldami pavojaus įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo, kai būtina įspėti, duoti pavojaus signalą ar išsikviesti pagalbą.
+
+
+
+
+6. Kai neišvengiamo pavojaus pataisos pareigūno ar kitų asmenų gyvybei ar sveikatai nėra, šaunamąjį ginklą naudoti draudžiama:
+
+
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus šio straipsnio 1 dalies 1 punkte nurodytus atvejus;
 
 
 
@@ -491,12 +510,17 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-5. Pataisos pareigūnas, panaudojęs šaunamąjį ginklą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pataisos pareigūno panaudotą šaunamąjį ginklą, jeigu tai lėmė asmens mirtį arba sveikatos sutrikdymą, nedelsiant pranešama prokurorui. 
+7. Pataisos pareigūnas, panaudojęs šaunamąjį ginklą ir taip sukėlęs pavojų asmens gyvybei ar sveikatai, turi suteikti asmeniui reikalingą neatidėliotiną medicinos ar kitą būtinąją pagalbą ir imtis kitų priemonių pavojingiems savo veiksmų padariniams pašalinti. Apie pataisos pareigūno panaudotą šaunamąjį ginklą, jeigu tai lėmė asmens mirtį arba sveikatos sutrikdymą, nedelsiant pranešama prokurorui. 
 
 
 
 
-6. Pataisos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su šaunamųjų ginklų naudojimu. Pataisos pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė.
+8. Pataisos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar sugeba veikti situacijomis, susijusiomis su šaunamųjų ginklų naudojimu. Pataisos pareigūnų rengimo ir tikrinimo tvarką nustato Vyriausybė.
+
+
+
+
+9. Šio straipsnio 1, 2, 3 dalių ir 6 dalies 1 punkto nuostatos netaikomos tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė.
  
 
 
@@ -507,7 +531,7 @@ PRIEVARTOS IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 13 straipsnis. Šaunamųjų ginklų, šaudmenų ir specialiųjų priemonių išdavimas pataisos pareigūnams
 
 
-Šaunamieji ginklai, šaudmenys ir specialiosios priemonės saugomi ir išduodami pataisos pareigūnams Kalėjimų departamento direktoriaus nustatyta tvarka.
+Šaunamieji ginklai, šaudmenys ir specialiosios priemonės saugomi ir išduodami Probacijos tarnybos pataisos pareigūnams šios tarnybos direktoriaus nustatyta tvarka, o Kalėjimų departamento ir jam pavaldžių įstaigų pataisos pareigūnams – Kalėjimų departamento direktoriaus nustatyta tvarka.
  
 
 
@@ -533,28 +557,6 @@ Pataisos pareigūnų veiklą kontroliuoja Lietuvos Respublikos įstatymuose nuro
 
 
 
-15 straipsnis. Pataisos pareigūnų veiksmų apskundimas
-
-
-Pataisos pareigūnų veiksmai skundžiami pataisos pareigūną į pareigas paskyrusiam vadovui įstatymų ir kitų teisės aktų nustatyta tvarka, išskyrus Lietuvos Respublikos suėmimo vykdymo įstatymo ir Lietuvos Respublikos bausmių vykdymo kodekso nustatytus atvejus. 
- 
-
-
-
-
-
-
-16 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja 2019 m. sausio 1 d.
- 
-
-
-
-
-
-
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -566,9 +568,15 @@ Respublikos Prezidentė                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
 Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 4, 10 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-878, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00169
+Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 pakeitimo įstatymas
