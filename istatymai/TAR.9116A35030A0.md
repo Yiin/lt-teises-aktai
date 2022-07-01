@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-29
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -258,6 +258,14 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 21. Pirkimo subtiekimo sutartis (toliau – subtiekimo sutartis) – laimėjusio dalyvio ir vieno arba kelių ūkio subjektų (toliau – subtiekėjai) arba subtiekėjo ir vieno arba kelių ūkio subjektų (toliau kartu – subtiekėjai) raštu ar žodžiu sudaroma sutartis dėl ekonominės naudos tiekti prekes, teikti paslaugas ar atlikti darbus, nurodytus perkančiojo subjekto su laimėjusiu dalyviu sudarytoje pirkimo sutartyje. 
+
+
+
+
+211. Pirkimų specialisto pažymėjimas – dokumentas, patvirtinantis asmens turimas nustatyto turinio pirkimų žinias. 
+Papildyta straipsnio dalimi:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
+ 
 
 
 
@@ -6075,6 +6083,14 @@ Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
 
 
 
+42) atlieka žinių patikrinimą pirkimų specialisto pažymėjimui gauti; 
+Papildyta straipsnio punktu:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
+ 
+
+
+
+
 5) renka, kaupia ir analizuoja informaciją apie pirkimus, sudarytas pirkimų sutartis, preliminariąsias sutartis ir pirkimo sutarčių įvykdymo rezultatus, pirkimų ginčus, nustatytus pirkimų tvarkos pažeidimus ir pirkimų praktikoje pasitaikančias problemas. Šią informaciją, išskyrus konfidencialią, skelbia Viešųjų pirkimų tarnybos interneto svetainėje ir (arba) Centrinėje viešųjų pirkimų informacinėje sistemoje ir teikia Europos Komisijai, valstybės ir savivaldybių institucijoms ir įstaigoms; 
 
 
@@ -6209,6 +6225,13 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 4. Viešųjų pirkimų tarnyba skundų ir pranešimų dėl pirkimų ar pirkimo sutarčių vykdymo galimų pažeidimų nenagrinėja. Šiuose skunduose ir pranešimuose pateikta informacija naudojama pirkimų analizei, kurios rezultatų pagrindu gali būti pradėtas perkančiojo subjekto veiklos patikrinimas vadovaujantis šio straipsnio 2 dalies 5 punktu. 
+
+
+
+
+5. Šio straipsnio 1 dalies 42 punkte nurodytas žinių patikrinimas atliekamas, pirkimų specialisto pažymėjimas išduodamas, pažymėjimo galiojimo terminas pratęsiamas Viešųjų pirkimų tarnybos nustatyta tvarka. Asmuo, siekiantis gauti pirkimų specialisto pažymėjimą arba pratęsti jo galiojimą, turi Viešųjų pirkimų tarnybos nustatyta tvarka registruotis Viešųjų pirkimų tarnyboje pirkimų specialisto žinioms patikrinti, pasirinkdamas žinių patikrinimo datą ir laiką 20 darbo dienų nuo registracijos dienos laikotarpiu. Jeigu asmens žinios įvertinamos teigiamai, Viešųjų pirkimų tarnyba ne vėliau kaip per 3 darbo dienas nuo patikrinimo dienos išduoda 5 metus galiojantį pirkimų specialisto pažymėjimą arba pratęsia jo galiojimą 5 metų terminui. Asmenys už šioje dalyje nurodytą žinių patikrinimo atlikimą, pirkimų specialisto pažymėjimo išdavimą, jo galiojimo pratęsimą sumoka Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliavą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
  
 
 
@@ -6778,18 +6801,18 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+ 
+
  
  
-
-
-
-
+part_552f8eab929646aabc9175b710e91076_end
+part_df4f6b6f3c384d668ef6f0b1bd9193d0_end
 
 
 Lietuvos Respublikos
@@ -7039,6 +7062,8 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
+ 
+
  
 Lietuvos Respublikos
 pirkimų, atliekamų vandentvarkos, 
@@ -7076,9 +7101,10 @@ Specialiosiomis arba išimtinėmis teisėmis, nurodytomis Lietuvos Respublikos p
  
 
 
+part_2e218b9face345fc9480493ed0066ed7_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -7116,9 +7142,10 @@ LIETUVoS RESPUBLIKOS Pirkimų, atliekamų vandentvarkos, energetikos, transporto
  
 
 
+part_643cc70a8b974fedb661750f5718604c_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -7217,9 +7244,10 @@ SOCIALINĖS IR KITOS SPECIALIOSIOS PASLAUGOS
 
 
  
+part_1cc48c6aa6084599a38d37360a5d4976_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -7345,9 +7373,10 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
+part_6e799d49d635405cb266e5dcc62f52e1_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -7396,9 +7425,10 @@ Pasiūlymų, paraiškų, projekto konkursų planų ir projektų elektroninės ga
  
 
 
+part_0a650ac365944c7aae3c2eb714cb8b6a_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -7471,9 +7501,10 @@ LIETUVoS RESPUBLIKOS Pirkimų, atliekamų vandentvarkos, energetikos, transporto
  
 
 
+part_5a6ee2baab454cb7aad2ebf9cde9b108_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -7565,3 +7596,6 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 37, 39, 48, 50, 52, 58, 98 ir 100 straipsnių pakeitimo įstatymas
+ 
+ 
+part_f246b6a4c42140168e72fdd39b9088b9_end
