@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-05-28 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-07-25
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -20347,6 +20347,14 @@ Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390
 
 
 
+381) Lietuvos probacijos tarnybos – dėl šio kodekso 71, 137, 481, 484 ir 485 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508 straipsniuose numatytų administracinių nusižengimų;
+Papildyta straipsnio punktu:
+Nr. XIV-882, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00173
+ 
+
+
+
+
 39) netenka galios 2020-07-01;
 Straipsnio punkto pakeitimai:
 Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288
@@ -24426,7 +24434,7 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
-part_6819e85fabcb41c6b61a8f022b331c1b_end
+part_972dffabf2c4431ba70dd25f54b510ea_end
 
 
 Lietuvos Respublikos 
@@ -25909,3 +25917,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 59 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 66, 508, 589 straipsnių ir priedo pakeitimo ir Kodekso papildymo 66-1, 131-1 straipsniais įstatymas
+ 
+171.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-882, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00173
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
