@@ -21,7 +21,7 @@ IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-04-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-07-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
  
@@ -68,14 +68,14 @@ Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
 
 
 TREČIASIS SKIRSNIS
-2007 M. LAPKRIČIO 13 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 1393/2007 DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO VALSTYBĖSE NARĖSE („DOKUMENTŲ ĮTEIKIMAS“) IR PANAIKINANČIO TARYBOS REGLAMENTĄ (EB) NR. 1348/2000 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE ĮGYVENDINIMAS
+REGLAMENTO (ES) 2020/1784 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE ĮGYVENDINIMAS
  
 
 
 3 straipsnis. Iš užsienio gautų dokumentų įteikimo tvarka
 
 
-1. Iš užsienio gauti dokumentai įteikiami Lietuvos Respublikos civilinio proceso kodekso ir Lietuvos Respublikos teisingumo ministro nustatyta tvarka tiek, kiek 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinantis Tarybos reglamentą (EB) Nr. 1348/2000 (toliau šiame skirsnyje – Reglamentas (EB) Nr. 1393/2007), 1965 m. lapkričio 15 d. Hagos konvencija dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo užsienyje (toliau šiame skirsnyje – 1965 m. Hagos konvencija) ir šis įstatymas nenustato kitaip. 
+1. Iš užsienio gauti dokumentai įteikiami Lietuvos Respublikos civilinio proceso kodekso ir Lietuvos Respublikos teisingumo ministro nustatyta tvarka tiek, kiek Reglamentas (ES) 2020/1784, 1965 m. lapkričio 15 d. Hagos konvencija dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo užsienyje (toliau šiame skirsnyje – 1965 m. Hagos konvencija) ir šis įstatymas nenustato kitaip. 
 
 
 
@@ -102,7 +102,7 @@ TREČIASIS SKIRSNIS
 32 straipsnis. Centrinė įstaiga
 
 
-1. Centrinė įstaiga Reglamento (EB) Nr. 1393/2007 3 straipsnyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija. 
+1. Centrinė įstaiga Reglamento (ES) 2020/1784 4 straipsnyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija. 
 
 
 
@@ -118,12 +118,12 @@ TREČIASIS SKIRSNIS
 33 straipsnis. Dokumentus perduodančios ir priimančios įstaigos 
 
 
-1. Perduoti dokumentus užsienio valstybei pagal Reglamentą (EB) Nr. 1393/2007 ir 1965 m. Hagos konvenciją yra kompetentingi visi Lietuvos Respublikos bendrosios kompetencijos teismai, kurie nagrinėja civilines ir komercines bylas. 
+1. Perduoti dokumentus užsienio valstybei pagal Reglamentą (ES) 2020/1784 ir 1965 m. Hagos konvenciją yra kompetentingi visi Lietuvos Respublikos bendrosios kompetencijos teismai, kurie nagrinėja civilines ir komercines bylas. 
 
 
 
 
-2. Pagal Reglamento (EB) Nr. 1393/2007 2 straipsnio 2 dalį paskirta įstaiga, kompetentinga priimti kitų valstybių narių prašymus dėl dokumentų įteikimo, yra Lietuvos antstolių rūmai.
+2. Pagal Reglamento (ES) 2020/1784 3 straipsnio 2 dalį paskirta įstaiga, kompetentinga priimti kitų valstybių narių prašymus dėl dokumentų įteikimo, yra Lietuvos antstolių rūmai.
 
 
 
@@ -141,23 +141,57 @@ TREČIASIS SKIRSNIS
 
 
 
-34 straipsnis. Praleisto apeliacinio skundo padavimo termino atnaujinimas
+34 straipsnis. Įstaiga, teikianti pagalbą nustatant adresą 
 
 
-Reglamento (EB) Nr. 1393/2007 19 straipsnio 4 dalyje ir 1965 m. Hagos konvencijos 16 straipsnio 1 dalyje nustatytais atvejais atsakovas turi teisę paduoti prašymą atnaujinti praleistą apeliacinio skundo padavimo terminą. Prašymas atnaujinti praleistą apeliacinio skundo padavimo terminą nenagrinėjamas, jeigu praėjo daugiau kaip vieni metai nuo teismo sprendimo priėmimo dienos.
+1. Pagal Reglamento (ES) 2020/1784 7 straipsnio 1 dalies a punktą paskirta įstaiga, kuriai kitų valstybių narių perduodančiosios agentūros gali teikti prašymus nustatyti asmens, kuriam turi būti įteikti dokumentai, adresą, yra Lietuvos antstolių rūmai. 
+
+
+
+
+2. Lietuvos antstolių rūmai turi teisę neatlygintinai gauti iš valstybės registrų duomenis, reikalingus Reglamento (ES) 2020/1784 7 straipsnio 1 dalies a punkte nustatytai funkcijai atlikti. 
+ 
+
+
+
+
+
+
+35 straipsnis. Atsakovo neatvykimas į teismą
+
+
+1. Lietuvos Respublikos teismai gali priimti sprendimą net ir tuo atveju, kai nebuvo gautas bylos iškėlimo dokumento arba lygiaverčio dokumento įteikimo ar pristatymo pažymėjimas, jeigu įvykdomos visos Reglamento (ES) 2020/1784 22 straipsnio 2 dalyje nustatytos sąlygos arba visos 1965 m. Hagos konvencijos 15 straipsnio 2 dalyje nustatytos sąlygos. 
+
+
+
+
+2. Reglamento (ES) 2020/1784 22 straipsnio 4 dalyje, išskyrus Reglamento (ES) 2020/1784 22 straipsnio 5 dalyje numatytą išimtį, ir 1965 m. Hagos konvencijos 16 straipsnio 1 dalyje, išskyrus 1965 m. Hagos konvencijos 16 straipsnio 4 dalyje numatytą išimtį, nustatytais atvejais atsakovas turi teisę paduoti prašymą atnaujinti praleistą apeliacinio skundo padavimo terminą. Prašymas atnaujinti praleistą apeliacinio skundo padavimo terminą nenagrinėjamas, jeigu praėjo daugiau kaip vieni metai nuo teismo sprendimo priėmimo dienos.
+ 
+ 
+
+
+
+
+
+
+36 straipsnis. Kalbos
+
+
+Lietuvos Respublikoje priimtinos kalbos pagal Reglamento (ES) 2020/1784 3 straipsnio 4 dalies d punktą, 8 straipsnio 2 dalį ir 14 straipsnio 2 dalį yra lietuvių ir anglų kalbos.
 
 
 
 
 Skirsnio pakeitimai:
 Nr. XII-2197, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20895
+Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
  
 
 
 
 
 KETVIRTASIS SKIRSNIS
- EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO TVARKA 
+EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ PRIPAŽINIMO IR VYKDYMO TVARKA 
 Pakeistas skirsnio pavadinimas:
 Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
  
@@ -263,7 +297,7 @@ Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
 
 
 PENKTASIS SKIRSNIS
-2001 M. GEGUŽĖS 28 D. TARYBOS REGLAMENTO (EB) NR. 1206/2001 DĖL VALSTYBIŲ NARIŲ TEISMŲ TARPUSAVIO BENDRADARBIAVIMO RENKANT ĮRODYMUS CIVILINĖSE AR KOMERCINĖSE BYLOSE ĮGYVENDINIMAS
+REGLAMENTO (ES) 2020/1783 ĮGYVENDINIMAS
  
 
 
@@ -284,10 +318,38 @@ PENKTASIS SKIRSNIS
 
 
 6 straipsnis. Centrinė įstaiga
-Centrinė įstaiga 2001 m. gegužės 28 d. Tarybos reglamento (EB) Nr. 1206/2001 dėl valstybių narių teismų tarpusavio bendradarbiavimo renkant įrodymus civilinėse ar komercinėse bylose 3 straipsnyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija.
+
+
+Centrinė įstaiga Reglamento (ES) 2020/1783 4 straipsnio 1 dalyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija.
  
 
 
+
+
+
+
+61 straipsnis. Įstaiga, atsakinga už sprendimų dėl prašymų tiesiogiai surinkti įrodymus priėmimą
+
+
+Įstaiga, pagal Reglamento (ES) 2020/1783 4 straipsnio 3 dalį ir 19 straipsnį atsakinga už sprendimų dėl kitų valstybių narių teismų prašymų tiesiogiai surinkti įrodymus priėmimą, yra Lietuvos Respublikos teisingumo ministerija. 
+ 
+
+
+
+
+
+
+62 straipsnis. Kalbos
+
+
+Lietuvos Respublikoje priimtinos kalbos pagal Reglamento (ES) 2020/1783 6 straipsnį yra lietuvių ir anglų kalbos.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
+ 
 
 
 
@@ -1358,98 +1420,78 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
-Lietuvos Respublikos
-civilinį procesą reglamentuojančių
-Europos Sąjungos ir tarptautinės
-teisės aktų įgyvendinimo įstatymo
+ 
+Lietuvos Respublikos 
+civilinį procesą 
+reglamentuojančių Europos Sąjungos 
+ir tarptautinės teisės aktų 
+įgyvendinimo įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (nauja redakcija) (OL 2012 L 351, p. 1). 
-Punkto pakeitimai:
-Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
- 
+1. 2003 m. lapkričio 27 d. Tarybos reglamentas (EB) Nr. 2201/2003 dėl jurisdikcijos ir teismo sprendimų, susijusių su santuoka ir tėvų pareigomis, pripažinimo bei vykdymo, panaikinantis Reglamentą (EB) Nr. 1347/2000.
 
 
 
 
-2. 2001 m. gegužės 28 d. Tarybos reglamentas (EB) Nr. 1206/2001 dėl valstybių narių teismų tarpusavio bendradarbiavimo renkant įrodymus civilinėse ar komercinėse bylose (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 121).
+2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 805/2004, sukuriantis neginčytinų reikalavimų Europos vykdomąjį raštą, su pakeitimais, padarytais 2005 m. lapkričio 16 d. Komisijos reglamentu (EB) Nr. 1869/2005.
 
 
 
 
-3. 2003 m. lapkričio 27 d. Tarybos reglamentas (EB) Nr. 2201/2003 dėl jurisdikcijos ir teismo sprendimų, susijusių su santuoka ir tėvų pareigomis, pripažinimo bei vykdymo, panaikinantis Reglamentą (EB) Nr. 1347/2000 (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 243).
+3. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą, su paskutiniais pakeitimais, padarytais 2017 m. birželio 19 d. Komisijos deleguotuoju reglamentu (ES) 2017/1260.
 
 
 
 
-4. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 805/2004, sukuriantis neginčytinų reikalavimų Europos vykdomąjį raštą (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 38).
+4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, su paskutiniais pakeitimais, padarytais 2017 m. birželio 19 d. Komisijos deleguotuoju reglamentu (ES) 2017/1259.
 
 
 
 
-5. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą (OL 2006 L 399, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/2421 (OL 2015 L 341, p. 1). 
-Punkto pakeitimai:
-Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
- 
+5. 2008 m. gruodžio 18 d. Tarybos reglamentas (EB) Nr. 4/2009 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų pripažinimo ir vykdymo bei bendradarbiavimo išlaikymo prievolių srityje su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 10 d. Komisijos įgyvendinimo reglamentu (ES) 2018/1937.
 
 
 
 
-6. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą (OL 2007 L 199, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/2421 (OL 2015 L 341, p. 1).
-Punkto pakeitimai:
-Nr. XII-2750, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26872
- 
+6. 2011 m. birželio 9 d. Tarybos sprendimas Nr. 2011/432/ES dėl 2007 m. lapkričio 23 d. Hagos konvencijos dėl tarptautinio vaikų ir kitokių šeimos išlaikymo išmokų išieškojimo patvirtinimo Europos Sąjungos vardu su pakeitimais, padarytais 2014 m. balandžio 9 d. Tarybos sprendimu 2014/218/ES.
 
 
 
 
-7. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinantis Tarybos reglamentą (EB) Nr. 1348/2000 (OL 2007 L 324, p. 79).
+7. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo.
 
 
 
 
-8. 2008 m. gruodžio 18 d. Tarybos reglamentas (EB) Nr. 4/2009 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų pripažinimo ir vykdymo bei bendradarbiavimo išlaikymo prievolių srityje (OL 2009 L 7, p. 1).
-Papildyta straipsnio dalimi:
-Nr. XI-2081, 2012-06-19, Žin., 2012, Nr. 76-3928 (2012-06-30), i. k. 1121010ISTA0XI-2081
- 
+8. 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (nauja redakcija) su paskutiniais pakeitimais, padarytais 2014 m. lapkričio 26 d. Komisijos deleguotuoju reglamentu (ES) 2015/281.
 
 
 
 
-9. 2011 m. birželio 9 d. Tarybos sprendimas Nr. 2011/432/ES dėl 2007 m. lapkričio 23 d. Hagos konvencijos dėl tarptautinio vaikų ir kitokių šeimos išlaikymo išmokų išieškojimo patvirtinimo Europos Sąjungos vardu (OL 2011 L 192, p. 39).
-Papildyta straipsnio dalimi:
-Nr. XII-392, 2013-06-18, Žin., 2013, Nr. 68-3419 (2013-06-28), i. k. 1131010ISTA0XII-392
- 
+9. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 606/2013 dėl apsaugos priemonių tarpusavio pripažinimo civilinėse bylose.
 
 
 
 
-10. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo (OL 2012 L 201, p. 107).
-Papildyta straipsnio dalimi:
-Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
- 
+10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 655/2014, kuriuo nustatoma europinio sąskaitos blokavimo įsakymo procedūra, siekiant palengvinti tarpvalstybinį skolų išieškojimą civilinėse ir komercinėse bylose.
 
 
 
 
-11. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 606/2013 dėl apsaugos priemonių tarpusavio pripažinimo civilinėse bylose (OL 2013 L 181, p. 4).
-Papildyta punktu:
-Nr. XII-1412, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20541
- 
+11. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1783 dėl valstybių narių teismų bendradarbiavimo renkant įrodymus civilinėse ar komercinėse bylose (įrodymų rinkimas) (nauja redakcija).
 
 
 
 
-12. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 655/2014, kuriuo nustatoma europinio sąskaitos blokavimo įsakymo procedūra, siekiant palengvinti tarpvalstybinį skolų išieškojimą civilinėse ir komercinėse bylose (OL 2014 L 189, p. 59).
-Papildyta punktu:
-Nr. XII-2338, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13904
- 
+12. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1784 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse (dokumentų įteikimas) (nauja redakcija).
 
 
+Priedo pakeitimai:
+Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
  
  
  
@@ -1499,3 +1541,8 @@ Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-880, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20566
 Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 31-5 ir 31-9 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
+Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 trečiojo, penktojo, šeštojo skirsnių ir priedo pakeitimo įstatymas
