@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2024-05-02
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
  
@@ -218,7 +218,11 @@ Mokesčio mokestinis laikotarpis sutampa su kalendoriniais metais.
 1. Mokesčio nemoka:
 
 
-1) užsienio valstybių diplomatinės atstovybės ir konsulinės įstaigos, tarptautinės tarpvyriausybinės organizacijos ir jų atstovybės;
+1) užsienio valstybių diplomatinės atstovybės ir konsulinės įstaigos, pagal tarptautinę teisę specialų statusą turinčių subjektų ar kitų subjektų, su kuriais Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybės, akredituotos Vyriausybės nustatyta tvarka, tarptautinės tarpvyriausybinės organizacijos ir jų atstovybės;
+TAR pastaba. 8 straipsnio 1 dalies 1 punkto nuostatos taikomos nuo 2022-07-01.
+Straipsnio punkto pakeitimai:
+Nr. XIV-996, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07162
+ 
 
 
 
@@ -620,3 +624,8 @@ Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
 Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 2 ir 6 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-996, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07162
+Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
