@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -422,7 +422,15 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-5) lažybas.
+5) lažybas;
+
+
+
+
+6) nuotolinius lošimus.
+Papildyta straipsnio punktu:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
+ 
 
 
 
@@ -838,7 +846,10 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-2. Bendrovė, norinti organizuoti nuotolinius stalo lošimus, nuotolinius lošimus automatu, lažybas ar totalizatorių, įskaitant ir žirgų totalizatorių, nuotolinius bingo lošimus, turi turėti bent vieną iš šio įstatymo 5 straipsnio 1 dalyje nurodytų licencijų organizuoti lošimus ir leidimą organizuoti nuotolinius lošimus, taip pat atitikti kitus šiame įstatyme nustatytus reikalavimus.
+2. Neteko galios nuo 2022-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
+ 
 
 
 Straipsnio pakeitimai:
@@ -853,23 +864,25 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 81 straipsnis. Nuotolinius lošimus organizuojantys subjektai
 
 
-Organizuoti nuotolinius lošimus turi teisę bendrovės, šiame įstatyme nustatyta tvarka gavusios licenciją organizuoti lošimus, įsteigusios ne mažiau kaip vienus lošimo namus (kazino) arba ne mažiau kaip 5 totalizatoriaus punktus žirgų totalizatoriui organizuoti, arba ne mažiau kaip 10 automatų salonų, arba ne mažiau kaip 20 lažybų punktų, arba ne mažiau kaip 20 totalizatoriaus punktų ir teikiančios juose lošimo paslaugas, šio įstatymo 21 straipsnyje nustatyta tvarka gavusios leidimą organizuoti nuotolinius lošimus ir kai Priežiūros tarnyba patvirtina atitinkamo nuotolinio lošimo reglamentą. Bendrovės, norinčios organizuoti visų lošimo rūšių nuotolinius lošimus, įstatinis kapitalas turi būti ne mažesnis negu 1 158 000 eurų. Nuotolinius lošimus gali organizuoti atitinkamą licenciją ir leidimą gavęs užsienio bendrovės filialas Lietuvos Respublikoje, jeigu šį filialą įsteigęs asmuo atitinka šiame įstatyme nustatytus įstatinio kapitalo reikalavimus. 
+Organizuoti nuotolinius stalo lošimus, nuotolinius lošimus automatu, nuotolines lažybas ar nuotolinį totalizatorių, įskaitant ir nuotolinį žirgų totalizatorių, nuotolinius bingo lošimus turi teisę bendrovės, šiame įstatyme nustatyta tvarka gavusios šio įstatymo 5 straipsnio 1 dalies 6 punkte nurodytą licenciją, šio įstatymo 21 straipsnyje nustatyta tvarka gavusios leidimą organizuoti nuotolinius lošimus ir kai Priežiūros tarnyba patvirtina atitinkamo nuotolinio lošimo organizavimo reglamentą.
 
 
-Papildyta straipsniu:
-Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+Straipsnio pakeitimai:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
  
 
 
 
 
-9 straipsnis. Lošimo namų (kazino) steigimo vietos
+9 straipsnis. Lošimų organizavimo vietos
 
 
-Lošimo namai (kazino) steigiami vietos savivaldybės tarybos sutikimu.
+Automatų ar bingo salonai, lošimo namai (kazino), lažybų ir totalizatoriaus punktai, įskaitant žirgų totalizatoriaus punktus, steigiami savivaldybių tarybų sutikimu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
  
-
-
 
 
 
@@ -1363,12 +1376,39 @@ Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 
 
 
+21. Bendrovės, organizuojančios nuotolinius stalo lošimus ir (ar) nuotolinius lošimus A kategorijos automatais, apmokėtas ir įstatuose nurodytas įstatinis kapitalas turi būti ne mažesnis kaip 1 158 000 eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
+ 
+
+
+
+
+22. Bendrovės, organizuojančios nuotolines lažybas, nuotolinį totalizatorių, nuotolinius lošimus B kategorijos automatais, nuotolinį bingo lošimą, apmokėtas ir įstatuose nurodytas įstatinis kapitalas turi būti ne mažesnis kaip 289 000 eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
+ 
+
+
+
+
+23. Bendrovės, organizuojančios nuotolinį žirgų totalizatorių, apmokėtas ir įstatuose nurodytas įstatinis kapitalas turi būti ne mažesnis kaip 144 000 eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
+ 
+
+
+
+
 3. Bendrovės, kuri verčiasi kelių rūšių lošimų organizavimu, apmokėtas ir įstatuose nurodytas įstatinis kapitalas turi būti ne mažesnis už didžiausią įstatinį kapitalą, nustatytą atitinkamai lošimo rūšiai.
 
 
 
 
-4. Šio straipsnio 1, 2 ir 3 dalyse išvardytų bendrovių dokumentų licencijai gauti pateikimo metu nuosavas kapitalas turi atitikti Akcinių bendrovių įstatymo 38 straipsnio 3 dalyje nustatytus reikalavimus.
+4. Šio straipsnio 1, 2, 21, 22, 23 ir 3 dalyse išvardytų bendrovių dokumentų licencijai gauti pateikimo metu nuosavas kapitalas turi atitikti Akcinių bendrovių įstatymo 38 straipsnio 3 dalyje nustatytus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
+ 
 
 
 
@@ -2168,9 +2208,10 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 TREČIASIS SKIRSNIS
-LEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ PAPILDYMAS AR PAKEITIMAS, GALIOJIMO SUSTABDYMAS AR PANAIKINIMAS 
+LEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ PAPILDYMAS AR PAKEITIMAS IR GALIOJIMO PANAIKINIMAS 
 Pakeistas skirsnio pavadinimas:
 Nr. XIII-3009, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12615
+Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
  
 
 
@@ -2290,7 +2331,10 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-9. Leidimas atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus išduodamas sumokėjus nustatyto dydžio valstybės rinkliavą ir galioja neterminuotą laiką. 
+9. Leidimas atidaryti automatų ar bingo saloną, lošimo namus (kazino) arba organizuoti nuotolinius lošimus išduodamas sumokėjus nustatyto dydžio valstybės rinkliavą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
+ 
 
 
 Straipsnio pakeitimai:
@@ -2304,19 +2348,9 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 
-211 straipsnis. Leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimo sustabdymas
-
-
-1. Jeigu paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje nustatytų ribojimų laikotarpiu draudžiama leidimus atidaryti automatų ar bingo salonus arba lošimo namus (kazino) turinčių bendrovių leidimuose nurodyta lošimų veikla, leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimas sustabdomas automatiškai nuo nustatytų ribojimų įsigaliojimo dienos iki jų panaikinimo dienos.
-
-
-
-
-2. Apie automatišką leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimo sustabdymą ir galiojimo sustabdymo panaikinimą Priežiūros tarnyba ne vėliau kaip per 3 darbo dienas nuo automatiško leidimų galiojimo sustabdymo ir galiojimo sustabdymo panaikinimo dienos informuoja teritorines valstybines mokesčių inspekcijas, kurių aptarnaujamose teritorijose yra registruotos leidimus turinčios bendrovės. 
-
-
-Papildyta straipsniu:
-Nr. XIII-3009, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12615
+211 straipsnis. Neteko galios nuo 2022-07-01.
+Straipsnio pakeitimai:
+Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
  
 
 
@@ -2509,6 +2543,44 @@ Straipsnio pakeitimai:
 Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01)
 Straipsnio pakeitimai:
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+ 
+
+
+
+
+241 straipsnis. Leidimų ir savivaldybės tarybos sutikimo galiojimas
+
+
+1. Leidimai atidaryti automatų ar bingo salonus, lošimo namus (kazino), leidimai steigti lažybų ir totalizatoriaus punktus, įskaitant žirgų totalizatoriaus punktus, galioja 5 metus nuo Priežiūros tarnybos sprendimo išduoti leidimą priėmimo dienos. Leidimo galiojimo terminą Priežiūros tarnyba gali pratęsti neribotą kartų skaičių ir kiekvieną kartą 5 metų terminui, išskyrus atvejus, kai bendrovė pageidauja gauti leidimą trumpesniam negu 5 metų terminui.
+
+
+
+
+2. Priežiūros tarnybos sprendimai dėl šio straipsnio 1 dalyje nurodytų leidimų išdavimo ar jų galiojimo termino pratęsimo gali būti priimami tik bendrovei gavus savivaldybės, kurios teritorijoje ketinama atidaryti ar steigti lošimų organizavimo vietą ar ketinama tęsti lošimų organizavimo veiklą lošimų organizavimo vietoje, tarybos sutikimą. Savivaldybės tarybos sutikimas turi būti išduotas ne anksčiau kaip prieš 2 mėnesius iki prašymo išduoti šio straipsnio 1 dalyje nurodytą leidimą ar pratęsti leidimo galiojimo terminą pateikimo Priežiūros tarnybai dienos. Savivaldybės taryba, nagrinėdama bendrovės prašymą išduoti sutikimą atidaryti ar steigti lošimų organizavimo vietą ar tęsti lošimų organizavimo veiklą lošimų organizavimo vietoje, vadovaujasi konkrečios lošimų organizavimo vietos poveikio viešajai tvarkai, švietimui, kultūrai, visuomenės sveikatai, gyvenamajai aplinkai ir kriminogeninei situacijai vertinimo kriterijais. Lošimų organizavimo vietos poveikio viešajai tvarkai, švietimui, kultūrai, visuomenės sveikatai, gyvenamajai aplinkai ir kriminogeninei situacijai konkrečius vertinimo kriterijus ir prašymų nagrinėjimo tvarką nustato savivaldybių tarybos.
+
+
+
+
+3. Bendrovė, pageidaujanti pratęsti leidimo galiojimo terminą, ne anksčiau kaip prieš 30 darbo dienų ir ne vėliau kaip prieš 10 darbo dienų iki leidimo galiojimo termino pabaigos privalo Priežiūros tarnybai pateikti prašymą, kuriame nurodomas lošimo organizavimo vietos, kurioje pageidauja tęsti lošimų veiklos organizavimą, adresas ir savivaldybės tarybos sutikimas dėl bendrovės lošimų organizavimo veiklos pratęsimo prašyme nurodytoje vietoje.
+
+
+
+
+4. Priežiūros tarnyba ne vėliau kaip per 9 darbo dienas nuo prašymo pratęsti leidimo galiojimo terminą gavimo dienos išnagrinėjusi bendrovės prašymą priima sprendimą pratęsti leidimo galiojimo terminą arba sprendimą atsisakyti pratęsti leidimo galiojimo terminą ir ne vėliau kaip per vieną darbo dieną po sprendimo priėmimo bendrovei praneša apie priimtą sprendimą.
+
+
+
+
+5. Sprendimas atsisakyti išduoti leidimą priimamas, jeigu bendrovė su prašymu nepateikia savivaldybės tarybos sutikimo dėl lošimų organizavimo prašyme nurodytoje vietoje. Sprendimas  atsisakyti pratęsti leidimo galiojimo terminą priimamas, jeigu bendrovė su prašymu nepateikia atnaujinto savivaldybės tarybos sutikimo dėl lošimų organizavimo prašyme nurodytoje vietoje.
+
+
+
+
+6. Leidimai organizuoti nuotolinius lošimus galioja neterminuotai.
+
+
+Papildyta straipsniu:
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
  
 
 
@@ -3270,7 +3342,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
  
  
  
@@ -3434,3 +3506,13 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-337, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12786
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 5, 8, 8-1, 9, 13, 21 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 trečiojo skirsnio pavadinimo pakeitimo ir 21-1 straipsnio pripažinimo netekusiu galios įstatymas
