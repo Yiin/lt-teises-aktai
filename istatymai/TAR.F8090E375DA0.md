@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -1234,27 +1235,35 @@ ELEKTRONINIŲ CIGAREČIŲ, ELEKTRONINIŲ CIGAREČIŲ PILDYKLIŲ, RŪKOMŲJŲ ŽO
 
 
 
-4. Draudžiama pateikti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles, jeigu skystyje yra šių priedų: 
+4. Draudžiama pateikti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles su skysčiu, pritaikytu elektroninėms cigaretėms pildyti, jeigu šiame skystyje yra šių priedų:
 
 
-1) vitaminų arba kitų priedų, kurie sudaro įspūdį, kad elektroninės cigaretės ir elektroninių cigarečių pildyklės yra naudingos ar mažiau kenksmingos sveikatai; 
-
-
-
-
-2) kofeino arba taurino, arba kitų priedų ir stimuliuojamųjų junginių, kurie siejami su energija ir gyvybingumu; 
+1) vitaminų arba kitų priedų, kurie sudaro įspūdį, kad elektroninės cigaretės ir elektroninių cigarečių pildyklės yra naudingos ar mažiau kenksmingos sveikatai;
 
 
 
 
-3) priedų, nudažančių išsiskiriančias medžiagas; 
+2) kofeino arba taurino, arba kitų priedų ir stimuliuojamųjų junginių, kurie siejami su energija ir gyvybingumu;
 
 
 
 
-4) priedų, kurie nesudeginto pavidalo turi KMR savybių. 
+3) priedų, nudažančių išsiskiriančias medžiagas;
 
 
+
+
+4) priedų, kurie nesudeginto pavidalo turi KMR savybių;
+
+
+
+
+5) kvapiųjų medžiagų, išskyrus tabako kvapą ir (ar) skonį.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-909, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01408
+ 
 
 
 Straipsnio pakeitimai:
@@ -3624,3 +3633,8 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 3, 9-1, 10, 11, 12, 14, 25, 26 straipsnių ir II skyriaus pavadinimo, II skyriaus pirmojo skirsnio pavadinimo, IV skyriaus pavadinimo pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-909, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01408
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 9-2 straipsnio pakeitimo įstatymas
