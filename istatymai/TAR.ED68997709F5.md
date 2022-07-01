@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-05-05 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -694,6 +694,15 @@ Nr. X-932, 2006-11-28, Žin., 2006, Nr. 137-5203 (2006-12-16)
 
 
 4. Prekių įsigijimu iš kitos valstybės narės už atlygį taip pat laikomas atgabentų į šalies teritoriją prekių, kurios įsigijimo metu nebuvo apmokestintos PVM bendra kurioje nors iš valstybių narių nustatyta tvarka, paskyrimas naudoti Šiaurės Atlanto Sutarties Organizacijos šalių karinėms pajėgoms ar jas lydintiems civiliams darbuotojams, jeigu pagal šio Įstatymo 40 straipsnio 3 dalies nuostatas tokios prekės negalėtų būti atleistos nuo importo PVM, jei jos būtų importuotos.
+
+
+
+
+41. Prekių įsigijimu iš kitos valstybės narės už atlygį taip pat laikomas atgabentų į šalies teritoriją prekių, kurios įsigijimo metu nebuvo apmokestintos PVM bendra kurioje nors iš valstybių narių nustatyta tvarka, paskyrimas naudoti valstybės narės, dalyvaujančios gynybos operacijose, kurios įgyvendinamos vykdant Sąjungos veiklą pagal bendrą saugumo ir gynybos politiką, ginkluotosioms pajėgoms ar jas lydintiems civiliams darbuotojams, jeigu pagal šio Įstatymo 40 straipsnio 3 dalies nuostatas tokios prekės negalėtų būti atleistos nuo importo PVM, jei jos būtų importuotos.
+TAR pastaba. Prekėms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį arba importo pridėtinės vertės mokestį atsirado iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01), taikomi iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01) galioję reikalavimai.
+Papildyta straipsnio dalimi:
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+ 
 
 
 
@@ -3067,7 +3076,11 @@ Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
 
 
 
-3. Importo PVM neapmokestinamos prekės, įvežamos kitų Šiaurės Atlanto Sutarties Organizacijos šalių kariuomenių vienetų šiems vienetams ar juos lydintiems civiliams darbuotojams naudoti, kai šie vienetai dalyvauja bendrose karinėse operacijose, pratybose ar kitame bendrame kariniame renginyje. Konkrečią šios dalies nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+3. Importo PVM neapmokestinamos prekės, įvežamos kitų Šiaurės Atlanto Sutarties Organizacijos šalių kariuomenių vienetų šiems vienetams ar juos lydintiems civiliams darbuotojams naudoti, kai šie vienetai dalyvauja bendrose karinėse operacijose, pratybose ar kitame bendrame kariniame renginyje, taip pat prekės, įvežamos kitų valstybių narių ginkluotųjų pajėgų šioms pajėgoms ar jas lydintiems civiliams darbuotojams naudoti, kai šios pajėgos dalyvauja gynybos operacijose, kurios įgyvendinamos vykdant Sąjungos veiklą pagal bendrą saugumo ir gynybos politiką. Šioje dalyje nustatyta PVM lengvata taikoma tiesiogiai arba grąžinant PVM už Lietuvos Respublikoje importuotas prekes. Konkrečią šios dalies nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+TAR pastaba. Prekėms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį arba importo pridėtinės vertės mokestį atsirado iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01), taikomi iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01) galioję reikalavimai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+ 
 
 
 
@@ -3350,7 +3363,20 @@ Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
 
 
 
-5. Taikant 0 procentų PVM tarifą apmokestinamas prekių tiekimas ir paslaugų teikimas kitose valstybėse narėse įsikūrusioms užsienio valstybių diplomatinėms atstovybėms ar konsulinėms įstaigoms, šių atstovybių ir įstaigų nariams, taip pat Šiaurės Atlanto Sutarties Organizacijos šalių, kitų negu paskirties valstybė narė, kariuomenių vienetams šiems vienetams ar juos lydintiems civiliams darbuotojams naudoti. Šios dalies nuostatos taikomos laikantis toje kitoje valstybėje narėje nustatytų sąlygų ir apribojimų.
+41. Šio straipsnio nuostatos taikomos ir kitų valstybių narių negu Lietuvos Respublika ginkluotosioms pajėgoms ar jas lydintiems civiliams darbuotojams naudoti Lietuvos Respublikoje įsigyjamoms prekėms ir paslaugoms, kai šios pajėgos dalyvauja gynybos operacijose, kurios įgyvendinamos vykdant Sąjungos veiklą pagal bendrą saugumo ir gynybos politiką. 
+TAR pastaba. Prekėms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį arba importo pridėtinės vertės mokestį atsirado iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01), taikomi iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01) galioję reikalavimai.
+Papildyta straipsnio dalimi:
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+ 
+
+
+
+
+5. Taikant 0 procentų PVM tarifą apmokestinamas prekių tiekimas ir paslaugų teikimas kitose valstybėse narėse įsikūrusioms užsienio valstybių diplomatinėms atstovybėms ar konsulinėms įstaigoms, šių atstovybių ir įstaigų nariams, Šiaurės Atlanto Sutarties Organizacijos šalių, kitų negu paskirties valstybė narė, kariuomenių vienetams šiems vienetams ar juos lydintiems civiliams darbuotojams naudoti, taip pat kitų negu paskirties valstybė narė valstybių narių ginkluotosioms pajėgoms ar jas lydintiems civiliams darbuotojams naudoti, kai šios pajėgos dalyvauja gynybos operacijose, kurios įgyvendinamos vykdant Sąjungos veiklą pagal bendrą saugumo ir gynybos politiką. Šios dalies nuostatos taikomos laikantis toje kitoje valstybėje narėje nustatytų sąlygų ir apribojimų.
+TAR pastaba. Prekėms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį arba importo pridėtinės vertės mokestį atsirado iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01), taikomi iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01) galioję reikalavimai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+ 
 
 
 
@@ -3379,8 +3405,11 @@ Nr. XIV-820, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27708
 
 
 
-9. Šio straipsnio nuostatų įgyvendinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
-Pastaba. 47 straipsnio 8 dalyje nustatytos lengvatos taip pat taikomos prekėms, kurias ne vėliau kaip per vienus metus nuo įstatymo Nr. XI-1817 6 ir 8 straipsnių įsigaliojimo dienos (2012-01-01) įsigyja (importuoja) nustatytas lengvatos taikymo sąlygas atitinkantys Europos Sąjungos įsteigtų Lietuvos Respublikoje įstaigų darbuotojai, įstatymo Nr. XI-1817 6 ir 8 straipsnių įsigaliojimo metu jau dirbantys nurodytose įstaigose.
+9. Šiame straipsnyje nustatytos PVM lengvatos taikomos tiesiogiai arba grąžinant PVM už Lietuvos Respublikoje įsigytas prekes ir (arba) paslaugas. Konkrečią šio straipsnio nuostatų įgyvendinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+TAR pastaba. Prekėms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį arba importo pridėtinės vertės mokestį atsirado iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01), taikomi iki įstatymo Nr. XIV-778 įsigaliojimo dienos (2022-07-01) galioję reikalavimai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-778, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27359
+ 
 
 
 Straipsnio pakeitimai:
@@ -7801,6 +7830,8 @@ SEIMO PIRMININKAS                               �
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 2002 m. kovo 5 d.
@@ -7849,9 +7880,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Priedo pakeitimai:
 Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
  
+part_98c9d7171da049c0b6996c0c8b1a1499_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -7908,8 +7940,7 @@ Priedo pakeitimai:
 Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 Nr. XIII-3346, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23933
  
-
-
+part_07214757dd994cafb195ac8efaec8d2f_end
 
 
 3 priedas neteko galios nuo 2008-12-30.
