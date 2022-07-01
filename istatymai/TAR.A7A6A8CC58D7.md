@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
  
@@ -38,10 +38,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja loterijų ir lošimų apmokestinimą loterijų ir azartinių lošimų mokesčiu (toliau – loterijų ir lošimų mokestis).
+Šis įstatymas reglamentuoja loterijų ir lošimų apmokestinimą loterijų ir azartinių lošimų mokesčiu (toliau – loterijų ir lošimų mokestis) ir juridinių asmenų apmokestinimą vienkartiniu mokesčiu už licencijų organizuoti azartinius lošimus išdavimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-581, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21920
  
-
-
 
 
 
@@ -81,63 +83,63 @@ LOTERIJŲ IR LOŠIMŲ MOKESTIS
 Loterijų ir lošimų mokesčio bazė yra:
 
 
-1) organizuojant loterijas – išplatintų loterijos bilietų nominali vertė;
+1) organizuojant loterijas – išplatintų loterijos bilietų nominalioji vertė; 
 
 
 
 
-2) organizuojant bingą, totalizatorių, lažybas ir nuotolinius lošimus – suma, gauta iš lošėjų statomų sumų, atėmus lošėjams faktiškai išmokėtų laimėjimų sumą;
-Straipsnio punkto pakeitimai:
-Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
+2) organizuojant lošimus lošimo automatais, stalo lošimus, bingą, totalizatorių, lažybas ir nuotolinius lošimus – suma, gauta iš lošėjų statomų sumų, atėmus lošėjams faktiškai išmokėtų laimėjimų sumą.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
  
 
 
 
 
-3) organizuojant lošimus lošimo automatais ir stalo lošimus, už leidime atidaryti automatų, bingo salonus, lošimo namus (kazino) (toliau – lošimų veiklos leidimas) nurodytą lošimo įrenginį (lošimo automatą, ruletės, kortų arba kauliukų stalą) mokama nustatyta fiksuota suma.
+5 straipsnis. 5 straipsnis. Loterijų ir lošimų mokesčio tarifas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
+ 
+
+
+1. Organizuojant loterijas, loterijų ir lošimų mokesčio bazei taikomas 13 procentų mokesčio tarifas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-602, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23523
  
 
 
 
 
+2. Organizuojant lošimus lošimo automatais, stalo lošimus, bingą, totalizatorių, lažybas ir nuotolinius lošimus, loterijų ir lošimų mokesčio bazei taikomas 20 procentų mokesčio tarifas. 
+TAR pastaba. Nuostata, kad Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 5 straipsnio (2019 m. gruodžio 10 d. redakcija) 2, 2-1, 3 dalys įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+Straipsnio dalies pakeitimai:
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
+ 
 
 
 
 
-5 straipsnis. Loterijų ir lošimų mokesčio tarifas ir dydis 
-
-
-1. Organizuojant loterijas, loterijų ir lošimų mokesčio bazei taikomas 5 procentų mokesčio tarifas.
-
-
-
-
-2. Organizuojant bingą, totalizatorių ir lažybas, loterijų ir lošimų mokesčio bazei taikomas 18 procentų mokesčio tarifas. 
+21. Neteko galios nuo 2022-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
+Straipsnio dalies pakeitimai:
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+ 
 
 
 
 
-21. Organizuojant nuotolinius lošimus, loterijų ir lošimų mokesčio bazei taikomas 13 procentų mokesčio tarifas.  
-
-
-
-
-3. Organizuojant lošimus lošimo automatais ir stalo lošimus, nustatomas fiksuotas loterijų ir lošimų mokesčio dydis už kiekvieną lošimų veiklos leidime nurodytą lošimo įrenginį:
-
-
-1) už A kategorijos lošimo automatą – 260 eurų per kalendorinių metų mėnesį (toliau – mėnuo); 
-
-
-
-
-2) už B kategorijos lošimo automatą – 130 eurų per mėnesį; 
-
-
-
-
-3) už ruletės, kortų arba kauliukų stalą – 2 300 eurų per mėnesį.
-
-
+3. Neteko galios nuo 2022-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
+Straipsnio dalies pakeitimai:
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+ 
 
 
 Straipsnio pakeitimai:
@@ -147,32 +149,78 @@ Nr. XIII-2634, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20807
 
 
 
+51 straipsnis. Vienkartinis mokestis už licencijos organizuoti azartinius lošimus išdavimą
 
 
-TREČIASIS SKIRSNIS
-LOTERIJŲ IR LOŠIMŲ MOKESČIO APSKAIČIAVIMO IR MOKĖJIMO TVARKA
+Juridiniai asmenys, Lošimų įstatyme nustatyta tvarka siekiantys įgyti licenciją organizuoti azartinius lošimus, apmokestinami vienkartiniu mokesčiu:
+
+
+1) už licencijos organizuoti stalo lošimus ir lošimus A kategorijos automatais išdavimą – 300 000 eurų;
+
+
+
+
+2) už licencijos organizuoti lošimus B kategorijos automatais išdavimą – 300 000 eurų;
+
+
+
+
+3) už licencijos organizuoti bingą išdavimą – 100 000 eurų;
+
+
+
+
+4) už licencijos organizuoti totalizatorių, įskaitant ir žirgų totalizatorių, išdavimą – 100 000 eurų;
+
+
+
+
+5) už licencijos organizuoti lažybas išdavimą – 100 000 eurų;
+
+
+
+
+6) už licencijos organizuoti nuotolinius lošimus išdavimą – 500 000 eurų;
+
+
+
+
+7) už visų šios dalies 1–6 punktuose nurodytų licencijų išdavimą – 1 000 000 eurų.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-581, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21920
  
 
 
-6 straipsnis. Loterijų ir lošimų mokesčio apskaičiavimo ir mokėjimo tvarka
-
-
-1. Juridiniai asmenys, organizuojantys loterijas ar lošimus, taikydami šio įstatymo 5 straipsnyje nustatytą loterijų ir lošimų mokesčio tarifą ar fiksuotą loterijų ir lošimų mokesčio dydį, loterijų ir lošimų mokestį už mokestinį laikotarpį apskaičiuoja ir sumoka į biudžetą pasibaigus kiekvienam mokestiniam laikotarpiui iki kito mokestinio laikotarpio pirmo mėnesio 15 dienos.
 
 
 
 
-2. Juridiniai asmenys, organizuojantys šio įstatymo 4 straipsnio 3 punkte nurodytus lošimus, tą mėnesį, kai išduodamas lošimų veiklos leidimas arba papildomas turimas lošimų veiklos leidimas, kuriame padidinamas lošimo įrenginių skaičius, arba pakeičiamas turimas lošimų veiklos leidimas, kuriame sumažinamas lošimo įrenginių skaičius, loterijų ir lošimų mokestį už kiekvieną tą mėnesį išduotame, papildytame ar pakeistame lošimų veiklos leidime nurodytą lošimo įrenginį apskaičiuoja už visą mėnesį, taikant šio įstatymo 5 straipsnio 3 dalyje nustatytą fiksuotą loterijų ir lošimų mokesčio dydį, ir sumoka šio įstatymo 6 straipsnio 1 dalyje nustatyta tvarka. 
+TREČIASIS SKIRSNIS
+LOTERIJŲ IR LOŠIMŲ MOKESČIO MOKĖJIMO TVARKA
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
+ 
+
+
+6 straipsnis. Loterijų ir lošimų mokesčio mokėjimo tvarka
+
+
+1. Juridiniai asmenys, organizuojantys loterijas ar lošimus, taikydami šio įstatymo 5 straipsnyje nustatytą loterijų ir lošimų mokesčio tarifą, loterijų ir lošimų mokestį už mokestinį laikotarpį apskaičiuoja ir sumoka į biudžetą pasibaigus kiekvienam mokestiniam laikotarpiui iki kito mokestinio laikotarpio pirmo mėnesio 15 dienos.
 
 
 
 
-3. Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos suteikia galimybę Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos gauti lošimų veiklos leidimuose nurodytus duomenis, būtinus šio įstatymo 5 straipsnio 3 dalyje nustatyto fiksuoto dydžio loterijų ir lošimų mokesčiui apskaičiuoti ir kontrolei vykdyti.
+2. Juridiniai asmenys, Lošimų įstatyme nustatyta tvarka siekiantys įgyti licenciją organizuoti azartinius lošimus, šio įstatymo 51 straipsnyje nustatytą vienkartinį mokestį už licencijos organizuoti azartinius lošimus išdavimą sumoka iki licencijos išdavimo.
 
 
-TAR pastaba. 6 straipsnio nuostatos taikomos mokant loterijų ir lošimų mokestį už 2016 m. sausio 1 d. prasidėsiantį ir vėlesnius mokestinius laikotarpius.
 Straipsnio pakeitimai:
 Nr. XII-2243, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21027
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
  
 
 
@@ -201,14 +249,20 @@ LOTERIJŲ IR LOŠIMŲ MOKESČIO ĮSKAITYMAS
  
 
 
-8 straipsnis. Loterijų ir lošimų mokesčio įskaitymas
+8 straipsnis. Loterijų ir lošimų mokesčio ir vienkartinio mokesčio už licencijos organizuoti azartinius lošimus išdavimą įskaitymas
 
 
-Juridinių asmenų, organizuojančių didžiąsias ir mažąsias loterijas pagal Loterijų įstatymą ir lošimus pagal Lošimų įstatymą, sumokėtas loterijų ir lošimų mokestis įskaitomas į valstybės biudžetą.
+1. Juridinių asmenų, organizuojančių didžiąsias ir mažąsias loterijas pagal Loterijų įstatymą ir lošimus pagal Lošimų įstatymą, sumokėtas loterijų ir lošimų mokestis įskaitomas į valstybės biudžetą.
+
+
+
+
+2. Juridinių asmenų, Lošimų įstatyme nustatyta tvarka siekiančių įgyti licenciją organizuoti azartinius lošimus, sumokėtas vienkartinis mokestis už licencijų organizuoti azartinius lošimus išdavimą įskaitomas į valstybės biudžetą.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2599, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20559
+Nr. XIV-581, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21920
  
 
 
@@ -221,7 +275,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 
  
@@ -278,3 +332,23 @@ Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 5 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2599, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20559
 Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 8 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-581, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21920
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 1, 6, 8 straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-602, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23523
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 5 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 4, 5, 6 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
