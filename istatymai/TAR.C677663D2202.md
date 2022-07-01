@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-06-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-11-09
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -490,7 +490,11 @@ Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
 2. Fizinis asmuo, nors ir atitinkantis šio straipsnio 1 dalies 3, 4, 5 punktų nuostatas, nelaikomas nuolatiniu Lietuvos gyventoju, jei jis yra:
 
 
-1) užsienio valstybės diplomatas, diplomatinės atstovybės, konsulinės įstaigos ar tarptautinės organizacijos atstovybės administracinio-techninio arba aptarnaujančiojo personalo narys – ne Lietuvos Respublikos pilietis (išskyrus asmenis be pilietybės, kurių nuolatinė gyvenamoji vieta arba asmeninių, socialinių ar ekonominių interesų buvimo vieta mokestiniu laikotarpiu yra Lietuvoje), arba
+1) užsienio valstybės diplomatas, pagal tarptautinę teisę specialų statusą turinčio subjekto ar kito subjekto, su kuriuo Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybės, akredituotos Lietuvos Respublikos Vyriausybės nustatyta tvarka, akredituotas narys, diplomatinės atstovybės, konsulinės įstaigos ar tarptautinės organizacijos atstovybės administracinio-techninio arba aptarnaujančiojo personalo narys, taip pat kartu su minėtų atstovybių nariais gyvenantys akredituoti šeimos nariai, jeigu šių atstovybių nariai ar kartu gyvenantys jų šeimos nariai yra ne Lietuvos Respublikos piliečiai (išskyrus asmenis be pilietybės, kurių nuolatinė gyvenamoji vieta arba asmeninių, socialinių ar ekonominių interesų buvimo vieta mokestiniu laikotarpiu yra Lietuvoje), arba
+TAR pastaba. 4 straipsnio 2 dalies 1 punkto nuostatos taikomos nuo 2022-07-01.
+Straipsnio punkto pakeitimai:
+Nr. XIV-994, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07159
+ 
 
 
 
@@ -668,12 +672,14 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 
 2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.
-TAR pastaba. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas.
+TAR pastaba. 1. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių pajamas.
+2. Nuostata, kad Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 6 straipsnio 11 dalis (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
  
 
 
@@ -1582,10 +1588,19 @@ Nr. XIII-1849, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21881
 
 
 
-58) darbuotojo pagal pasirinkimo sandorius iš darbdavio ar su juo susijusio asmens nauda, gauta įsigijus akcijų neatlygintinai ar už lengvatinę kainą, jeigu akcijos įsigyjamos ne anksčiau kaip po 3 metų nuo teisės į pasirinkimo sandorį suteikimo. 
+58) darbuotojo pagal pasirinkimo sandorius iš darbdavio ar su juo susijusio asmens nauda, gauta įsigijus akcijų neatlygintinai ar už lengvatinę kainą, jeigu akcijos įsigyjamos ne anksčiau kaip po 3 metų nuo teisės į pasirinkimo sandorį suteikimo; 
 TAR pastaba. 58 punkto nuostatos taikomos pajamoms pagal pasirinkimo sandorius, kurie sudaryti nuo 2020 m. vasario 1 d.
 Papildyta straipsnio punktu:
 Nr. XIII-2311, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12110
+ 
+
+
+
+
+59) pagal tarptautinę teisę specialų statusą turinčio subjekto ar kito subjekto, su kuriuo Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybės, akredituotos Lietuvos Respublikos Vyriausybės nustatyta tvarka, akredituoto nario, jeigu jis nėra Lietuvos Respublikos pilietis arba nuolatinis gyventojas, su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos už darbą šioje atstovybėje;
+TAR pastaba. 17 straipsnio 1 dalies 59 punkto nuostatos taikomos nuo 2022-07-01.
+Papildyta straipsnio punktu:
+Nr. XIV-994, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07159
  
 
 
@@ -2962,6 +2977,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
  
 Lietuvos Respublikos
@@ -2993,8 +3010,7 @@ Nr. IX-2419, 2004-08-23, Žin., 2004, Nr. 134-4837 (2004-09-02)
 Priedo pakeitimai:
 Nr. XIV-829, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27721
  
-
-
+part_1b0ba5c368bb4922b3efaf84474afd44_end
 
 
 Pakeitimai:
@@ -3524,3 +3540,18 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1098, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10748
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-994, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07159
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 4 ir 17 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1051, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09664
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
