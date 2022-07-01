@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-07-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -59,25 +59,55 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-3) leidimą gyventi Lietuvos Respublikoje turintiems asmenims, kurie nėra Europos Sąjungos piliečiai, kaip nustatyta Sutarties dėl Europos Sąjungos veikimo 20 straipsnio 1 dalyje, ir nėra asmenys, kurie pagal Europos Sąjungos teisės aktus naudojasi judėjimo laisve (toliau – trečiųjų šalių piliečiai), kurie pagal Lietuvos Respublikos teisės aktus atleidžiami nuo pareigos įsigyti leidimą dirbti Lietuvos Respublikoje, asmenims, kuriems suteiktas perkeliamojo asmens statusas;
+3) asmenims, kurie nėra Europos Sąjungos piliečiai, kaip nustatyta Sutarties dėl Europos Sąjungos veikimo 20 straipsnio 1 dalyje, ir nėra asmenys, kurie pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise (toliau – trečiųjų šalių piliečiai), turintiems leidimą gyventi Lietuvos Respublikoje, ir asmenims, kuriems suteiktas perkeliamojo asmens statusas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2082, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07321
 Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
 
 
-4) darbdaviams, kurių nuolatinė buveinė yra Lietuvos Respublikoje, ir darbdaviams fiziniams asmenims, kurie yra nuolatiniai Lietuvos Respublikos gyventojai.
+4) darbdaviams, registruotiems Lietuvos Respublikos juridinių asmenų registre, ir darbdaviams fiziniams asmenims, deklaravusiems gyvenamąją vietą pagal Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
 
 
 
-3. Šio įstatymo nuostatos dėl konsultavimo apie sezoninį darbą paslaugų teikimo taikomos ir trečiųjų šalių piliečiams, atvykstantiems į Lietuvos Respubliką dirbti sezoninių darbų, nuostatos dėl tarpininkavimo įdarbinant paslaugų teikimo taikomos trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, išskyrus piliečius, atvykstančius į Lietuvos Respubliką dirbti sezoninių darbų, nuostatos dėl laisvų darbo vietų registravimo, informavimo ir tarpininkavimo įdarbinant paslaugų teikimo taikomos ir darbdaviams, vykdantiems veiklą Europos ekonominės erdvės valstybėse narėse ir Šveicarijos Konfederacijoje.
+3. Šio įstatymo nuostatos dėl:
+
+
+1) konsultavimo dėl sezoninio darbo paslaugų teikimo taikomos ir trečiųjų šalių piliečiams, atvykstantiems į Lietuvos Respubliką dirbti sezoninių darbų;
+
+
+
+
+2) tarpininkavimo įdarbinant paslaugų teikimo taikomos:
+
+
+a) trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, išskyrus atvykstančius į Lietuvos Respubliką dirbti sezoninių darbų;
+
+
+
+
+b) prieglobsčio prašytojams, kaip jie apibrėžti Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 2 straipsnio 20 dalyje, turintiems teisę dirbti ir ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį;
+
+
+
+
+
+
+3) laisvų darbo vietų registravimo, informavimo ir tarpininkavimo įdarbinant paslaugų teikimo taikomos ir darbdaviams, vykdantiems veiklą Europos ekonominės erdvės valstybėse narėse ir Šveicarijos Konfederacijoje.
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -786,7 +816,23 @@ Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
 
 
 
-2) užimtumo didinimo programos. 
+2) užimtumo didinimo programos.;
+
+
+
+
+3) atvykimo išmoka iš užsienio pritrauktiems darbuotojams;
+Papildyta straipsnio punktu:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
+
+
+
+
+4) išmoka darbdaviui, pritraukusiam darbuotoją iš užsienio.
+Papildyta straipsnio punktu:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
@@ -1037,7 +1083,10 @@ Lietuvos Respublikos Vyriausybė:
 
 
 
-8) išduoda leidimus dirbti Lietuvos Respublikoje ir priima sprendimus Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;
+8) išduoda leidimus dirbti Lietuvos Respublikoje ir priima sprendimus įstatymo „Dėl užsieniečių teisinės padėties“ ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
@@ -1130,7 +1179,7 @@ IR UŽIMTUMO RĖMIMO PRIEMONĖS
  
 
 
-20 straipsnis. Asmenys, kuriems taikomos šiame įstatyme nustatytos darbo rinkos paslaugos ir užimtumo rėmimo priemonės 
+20 straipsnis. Asmenys, kuriems taikomos šiame įstatyme nustatytos darbo rinkos paslaugos ir užimtumo rėmimo priemonės
 
 
 1. Šiame įstatyme nustatytos darbo rinkos paslaugos teikiamos šiems asmenims:
@@ -1154,9 +1203,6 @@ IR UŽIMTUMO RĖMIMO PRIEMONĖS
 4) darbdaviams. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
- 
 
 
 
@@ -1172,30 +1218,26 @@ Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
 2) užimtiems asmenims. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
-Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
- 
 
 
 
 
-3. Užimtiems asmenims taikomos šio įstatymo 36 straipsnio 1 dalies 1 punkte ir 41 straipsnio 1 dalies 1 punkte nurodytos aktyvios darbo rinkos politikos priemonės. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+3. Užimtiems asmenims taikomos šio įstatymo 36 straipsnio 1 dalies 1, 2, 4, 5 ir 6 punktuose ir 41 straipsnio 1 dalies 1 punkte nurodytos aktyvios darbo rinkos politikos priemonės.
 
 
 
 
-4. Savarankiškai dirbantiems asmenims, kaip ši sąvoka apibrėžta Valstybinio socialinio draudimo įstatymo 2 straipsnio 9 dalyje, skiriama ir mokama šio įstatymo 51 straipsnyje nustatyta išmoka savarankiškai dirbantiems asmenims, o šio įstatymo 481 straipsnyje nustatyta darbo paieškos išmoka skiriama ir mokama bedarbiams. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+4. Asmenims, nurodytiems šio įstatymo 481 straipsnyje, skiriama ir mokama atvykimo išmoka iš užsienio pritrauktiems darbuotojams. Už įdarbintą asmenį, atitinkantį šio įstatymo 481 straipsnio 1 dalyje nustatytas sąlygas, darbdaviui mokama šio įstatymo 482 straipsnyje nurodyta išmoka darbdaviui, pritraukusiam darbuotoją iš užsienio.
+
+
+
+
+5. Darbo rinkai besirengiantiems asmenims, nurodytiems šio įstatymo 22 straipsnio 7 dalyje, taikomos užimtumo didinimo programos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -1227,7 +1269,7 @@ Nedirbantis asmuo yra asmuo, kuris atitinka bent vieną iš šių sąlygų:
 
 
 
-22 straipsnis. Bedarbiai ir kiti darbo ieškantys asmenys
+22 straipsnis. Bedarbiai, kiti darbo ieškantys asmenys ir darbo rinkai besirengiantys asmenys
 
 
 1. Bedarbis yra asmuo, kuris atitinka visas šias sąlygas:
@@ -1238,10 +1280,7 @@ Nedirbantis asmuo yra asmuo, kuris atitinka bent vieną iš šių sąlygų:
 
 
 
-2) nėra savarankiškai dirbantis asmuo, išskyrus asmenį, vykdantį šio įstatymo 5 straipsnio 3 punkte nurodytą veiklą pagal paslaugų kvitus teikiant žemės ūkio ir miškininkystės paslaugas, asmenį, kuris yra užimtas šio įstatymo 7 straipsnio 3–7 punktuose nurodytomis veiklomis, asmenį, kuris yra individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos, kuri laikinai nevykdo veiklos ir apie tai yra informavusi mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka, savininkas arba mažosios bendrijos narys ar tikrosios ūkinės bendrijos, ar komanditinės ūkinės bendrijos tikrasis narys arba Juridinių asmenų registre suteiktą likviduojamos ar bankrutuojančios individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos statusą turinčios individualios įmonės savininkas ar mažosios bendrijos narys, ar tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrasis narys, ir asmenį, vykdantį individualią žemės ūkio veiklą, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra mažesnis už 4 ekonominio dydžio vienetus;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2133, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08712
- 
+2) nėra savarankiškai dirbantis asmuo, išskyrus asmenį, vykdantį šio įstatymo 5 straipsnio 3 punkte nurodytą veiklą pagal paslaugų kvitus teikiant žemės ūkio ir miškininkystės paslaugas, asmenį, kuris yra užimtas šio įstatymo 7 straipsnio 3–7 punktuose nurodytomis veiklomis, asmenį, kuris yra individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos, kuri laikinai nevykdo veiklos ir apie tai yra informavusi mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka, savininkas arba mažosios bendrijos narys ar tikrosios ūkinės bendrijos, ar komanditinės ūkinės bendrijos tikrasis narys arba Juridinių asmenų registre suteiktą likviduojamos ar bankrutuojančios individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos statusą turinčios individualios įmonės savininkas ar mažosios bendrijos narys, ar tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrasis narys, ir asmenį, vykdantį individualią žemės ūkio veiklą, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra mažesnis už 4 ekonominio dydžio vienetus;
 
 
 
@@ -1252,23 +1291,21 @@ Nr. XIII-2133, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08712
 
 
 4) yra asmuo, pagal Lietuvos Respublikos darbo kodeksą galintis būti darbuotoju; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
- 
 
 
 
 
 5) nesimoko pagal bendrojo ugdymo programas, išskyrus asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas; 
-Straipsnio punkto pakeitimai:
-Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
-Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
- 
 
 
 
 
-6) tiek savarankiškai, tiek naudodamasis Užimtumo tarnybos teikiamomis darbo rinkos paslaugomis ieško darbo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+6) tiek savarankiškai, tiek naudodamasis Užimtumo tarnybos teikiamomis darbo rinkos paslaugomis ieško darbo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
+
+
+
+
+7) nėra deklaravęs išvykimo iš Lietuvos Respublikos, išskyrus Europos Sąjungos reglamentuose dėl socialinės apsaugos sistemų koordinavimo numatytus atvejus, kai asmuo turi būti Užimtumo tarnybos žinioje.
 
 
 
@@ -1280,12 +1317,12 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-3. Asmuo, kuris atitinka šio straipsnio 1 ir 2 dalyse nustatytus kriterijus, bedarbio statusą įgyja nuo jo įsiregistravimo Užimtumo tarnyboje Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka momento.
+3. Asmuo, kuris atitinka šio straipsnio 1 ir 2 dalyse nustatytas sąlygas, bedarbio statusą įgyja nuo jo įsiregistravimo Užimtumo tarnyboje Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka momento.
 
 
 
 
-4. Darbo ieškantis asmuo, kuris neatitinka šio straipsnio 1 ir 2 dalyse nustatytų kriterijų arba kuriam bedarbio statusas buvo panaikintas dėl šio įstatymo 24 straipsnio 4 dalies 5–9 punktuose nurodytų aplinkybių, Užimtumo tarnyboje Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti registruotas vienu iš šių statusų:
+4. Darbo ieškantis asmuo, kuris neatitinka šio straipsnio 1 ir 2 dalyse nustatytų sąlygų arba kurio bedarbio statusas buvo panaikintas dėl šio įstatymo 24 straipsnio 4 dalies 5–9 punktuose nurodytų aplinkybių, arba nedirbantis asmuo (išskyrus šio straipsnio 5 dalyje nurodytą nedirbantį asmenį), kurį Užimtumo tarnyba, vadovaudamasi šio straipsnio 7 dalimi, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pripažįsta darbo rinkai besirengiančiu asmeniu, Užimtumo tarnyboje Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti registruotas vienu iš šių statusų:
 
 
 1) užimto asmens;
@@ -1303,34 +1340,100 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-4) asmens, praradusio bedarbio statusą. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
- 
+4) asmens, praradusio bedarbio statusą;
 
 
 
 
-5. Asmenų, kurių bedarbio statusas panaikintas dėl šio įstatymo 24 straipsnio 4 dalies 1–4 punktuose nurodytų aplinkybių, registracija Užimtumo tarnyboje tęsiama asmens prašymu.
+5) darbo rinkai besirengiančio asmens.
 
 
 
 
-6. Asmenų, kurių bedarbio statusas panaikintas dėl šio įstatymo 24 straipsnio 4 dalies  5–9 punktuose nurodytų aplinkybių, registracija Užimtumo tarnyboje gali būti tęsiama asmens prašymu ir jiems gali būti priskiriamas šio straipsnio 4 dalies 4 punkte nurodytas statusas, o bedarbio statusas pakartotinai jiems gali būti suteikiamas ne anksčiau kaip po 6 mėnesių nuo bedarbio statuso panaikinimo dienos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
- 
+
+
+5. Asmenų, kurių bedarbio statusas panaikintas dėl šio įstatymo 24 straipsnio 4 dalies  5–9 punktuose nurodytų aplinkybių, registracija Užimtumo tarnyboje gali būti tęsiama asmens prašymu, jeigu asmens prašymas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikiamas ne vėliau kaip per 3 darbo dienas nuo bedarbio statuso panaikinimo dienos, ir jiems gali būti priskiriamas šio straipsnio 4 dalies 4 punkte nurodytas statusas, o bedarbio statusas pakartotinai jiems gali būti suteikiamas ne anksčiau kaip po 6 mėnesių nuo bedarbio statuso panaikinimo dienos. Nedirbančiam asmeniui, kuriam bedarbio statusas buvo panaikintas dėl šio įstatymo 24 straipsnio 4 dalies 9 punkte nurodytos aplinkybės, darbo rinkai besirengiančio asmens statusas nesuteikiamas.
+TAR pastaba. 22 straipsnio 5 dalies nuostata dėl registracijos Užimtumo tarnyboje tęsimo asmens prašymu, kuris pateikiamas ne vėliau kaip per 3 darbo dienas nuo bedarbio statuso panaikinimo dienos, taikoma asmenims, kuriems bedarbio statusas dėl Užimtumo įstatymo 24 straipsnio 4 dalies 5–9 punktuose nurodytų aplinkybių buvo panaikintas po 2022-07-01.
 
 
 
 
-7. Asmenų, nurodytų šio straipsnio 4 dalyje, ilgiau kaip 3 mėnesius nesinaudojančių darbo rinkos paslaugomis, registracija Užimtumo tarnyboje nutraukiama ir jie pakartotinai Užimtumo tarnyboje gali registruotis ne anksčiau kaip po 6 mėnesių nuo registracijos nutraukimo dienos. 
+6. Asmenų, nurodytų šio straipsnio 4 dalies 1–4 punktuose, ilgiau kaip 3 mėnesius nesinaudojančių darbo rinkos paslaugomis, registracija Užimtumo tarnyboje nutraukiama.
+
+
+
+
+7. Darbo rinkai besirengiančio asmens statusas suteikiamas nedirbančiam asmeniui (išskyrus šio straipsnio 5 dalyje nurodytą nedirbantį asmenį), kurio įsidarbinimą riboja bent viena iš šių aplinkybių:
+
+
+1) stokoja socialinių įgūdžių ir (ar) motyvacijos dirbti;
+
+
+
+
+2) turi prižiūrėti ir (ar) slaugyti šeimos narį ar kartu gyvenantį asmenį;
+
+
+
+
+3) apribotas disponavimas piniginėmis lėšomis, esančiomis kredito įstaigos (įstaigų), mokėjimo ir (ar) elektroninių pinigų įstaigos sąskaitoje (sąskaitose), ir (ar) antstolio, kitų institucijų ar pareigūnų nurodymu priverstinai nurašomos piniginės lėšos skolai apmokėti;
+
+
+
+
+4) neturi galimybių atvykti iš nuolatinės gyvenamosios vietos į darbo vietą;
+
+
+
+
+5) turi priklausomybę nuo alkoholio, narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų, azartinių žaidimų.
+
+
+
+
+
+
+8. Užimtumo tarnybai šio straipsnio 4 dalyje nustatyta tvarka pripažinus nedirbantį asmenį darbo rinkai besirengiančiu asmeniu, jeigu asmeniui buvo suteiktas bedarbio statusas, bedarbio statusas panaikinamas ir asmeniui suteikiamas šio straipsnio 4 dalies 5 punkte nustatytas statusas, o registracija Užimtumo tarnyboje tęsiama.
+
+
+
+
+9. Darbo rinkai besirengiančiam asmeniui suteikiamas bedarbio statusas, jeigu jis atitinka šio straipsnio 1 ir 2 dalyse nustatytas sąlygas ir atsiranda bent viena iš šių sąlygų:
+
+
+1) darbo rinkai besirengiantis asmuo yra pasirengęs šio straipsnio 1 dalies 6 punkte nustatyta tvarka ieškoti darbo ar vykdyti savarankišką veiklą;
+
+
+
+
+2) iš dalies ar visiškai pašalintos šio straipsnio 7 dalyje nurodytos įsidarbinimą ribojančios aplinkybės arba jos išnykusios;
+
+
+
+
+3) darbo rinkai besirengiantis asmuo nedalyvauja teikiant siūlomas paslaugas ir (ar) taikant užimtumo didinimo programas ir (ar) pateikia prašymą suteikti jam bedarbio statusą.
+
+
+
+
+
+
+10. Jeigu Užimtumo tarnyba, vadovaudamasi šio straipsnio 9 dalimi, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka darbo rinkai besirengiančiam asmeniui suteikia bedarbio statusą, darbo rinkai besirengiančio asmens statusas panaikinamas, o registracija Užimtumo tarnyboje tęsiama.
+
+
+
+
+11. Darbo rinkai besirengiančio asmens statusas sustabdomas esant šio įstatymo 24 straipsnio 1 dalies 2 punkte nurodytoms aplinkybėms jų buvimo laikotarpiu, kuriam pasibaigus, jeigu asmuo atitinka šio straipsnio 1 ir 2 dalyse nustatytas sąlygas, darbo rinkai besirengiančio asmens statusas panaikinamas ir jam suteikiamas bedarbio statusas.
+
+
+
+
+12. Darbo rinkai besirengiančio asmens statusas panaikinamas ir registracija Užimtumo tarnyboje nutraukiama, atsiradus bent vienai šio įstatymo 24 straipsnio 4 dalies 1–4 ir 9–14 punktuose nurodytai aplinkybei, mutatis mutandis taikomai darbo rinkai besirengiančiam asmeniui.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -1432,7 +1535,11 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-5) bedarbis be svarbių priežasčių atsisako siūlomo šio įstatymo 30 straipsnio 2 dalyje nurodyto tinkamo darbo arba sudaryti individualų užimtumo veiklos planą, arba dalyvauti individualiame užimtumo veiklos plane numatytose aktyvios darbo rinkos politikos priemonėse, užimtumo didinimo programose ar naudotis šiame plane numatytomis darbo rinkos paslaugomis;
+5) bedarbis be svarbių priežasčių atsisako sudaryti individualų užimtumo veiklos planą ar dalyvauti individualiame užimtumo veiklos plane numatytose aktyvios darbo rinkos politikos priemonėse, užimtumo didinimo programose, ar naudotis šiame plane numatytomis darbo rinkos paslaugomis arba per 12 mėnesių laikotarpį nuo tinkamo darbo pasiūlymo pateikimo dienos antrą kartą atsisako siūlomo šio įstatymo 30 straipsnio 2 ar 21 dalyje nurodyto tinkamo darbo;
+TAR pastaba. 24 straipsnio 4 dalies 5 punkto nuostatos dėl bedarbio statuso panaikinimo taikomos bedarbiams, kuriems bent viena iš 24 straipsnio 4 dalies 5, 7 ir 9 punktuose nurodytų aplinkybių (siūlomo tinkamo darbo atsisakymas, atsiskaitymo už savarankišką darbo paiešką tvarkos pažeidimas ar bedarbio nelegaliai gautos ar gaunamos pajamos ir (ar) nelegalus darbas, neteisėta veikla, susijusi su pajamų gavimu) nustatoma po 2022-07-01.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
@@ -1445,7 +1552,11 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-7) bedarbis be svarbių priežasčių Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savarankiškai neieško darbo ir nevykdo šio įstatymo 5 straipsnio 3 punkte nurodytos veiklos arba (ir) daugiau negu vieną kartą pažeidžia atsiskaitymo už savarankišką darbo paiešką tvarką;
+7) bedarbis be svarbių priežasčių Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savarankiškai neieško darbo ir nevykdo šio įstatymo 5 straipsnio 3 punkte nurodytos veiklos ar (ir) antrą kartą per 6 mėnesių laikotarpį nuo pirmojo atsiskaitymo už savarankišką darbo paiešką pažeidimo dienos pažeidžia atsiskaitymo už savarankišką darbo paiešką tvarką;
+TAR pastaba. 24 straipsnio 4 dalies 7 punkto nuostatos dėl bedarbio statuso panaikinimo taikomos bedarbiams, kuriems bent viena iš 24 straipsnio 4 dalies 5, 7 ir 9 punktuose nurodytų aplinkybių (siūlomo tinkamo darbo atsisakymas, atsiskaitymo už savarankišką darbo paiešką tvarkos pažeidimas ar bedarbio nelegaliai gautos ar gaunamos pajamos ir (ar) nelegalus darbas, neteisėta veikla, susijusi su pajamų gavimu) nustatoma po 2022-07-01.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
@@ -1455,9 +1566,11 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-9) Užimtumo tarnyba pakartotinai per 12 mėnesių laikotarpį iš nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos kontrolę ir prevenciją vykdančių ar kitų institucijų gauna informacijos apie bedarbio nelegaliai gautas ar gaunamas pajamas ir (ar) nelegalų darbą, neteisėtą veiklą, susijusią su pajamų gavimu; 
+9) Užimtumo tarnyba iš nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos kontrolę ir prevenciją vykdančių ar kitų institucijų gauna informacijos apie bedarbio nelegaliai gautas ar gaunamas pajamas ir (ar) nelegalų darbą, neteisėtą veiklą, susijusią su pajamų gavimu;
+TAR pastaba. 24 straipsnio 4 dalies 9 punkto nuostatos dėl bedarbio statuso panaikinimo taikomos bedarbiams, kuriems bent viena iš 24 straipsnio 4 dalies 5, 7 ir 9 punktuose nurodytų aplinkybių (siūlomo tinkamo darbo atsisakymas, atsiskaitymo už savarankišką darbo paiešką tvarkos pažeidimas ar bedarbio nelegaliai gautos ar gaunamos pajamos ir (ar) nelegalus darbas, neteisėta veikla, susijusi su pajamų gavimu) nustatoma po 2022-07-01.
 Straipsnio punkto pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -1476,9 +1589,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-12) bedarbis deklaruoja išvykimą iš Lietuvos Respublikos, išskyrus Europos Sąjungos reglamentuose dėl socialinės apsaugos sistemų koordinavimo numatytą laikotarpį, kuriuo mokama asmens nedarbo socialinio draudimo išmoka; 
+12) bedarbis deklaruoja išvykimą iš Lietuvos Respublikos, išskyrus Europos Sąjungos reglamentuose dėl socialinės apsaugos sistemų koordinavimo numatytus atvejus, kai bedarbis turi būti Užimtumo tarnybos žinioje;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -1492,7 +1606,15 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-14) bedarbis miršta.
+14) bedarbis miršta;
+
+
+
+
+15) Užimtumo tarnyba, vadovaudamasi šio įstatymo 22 straipsnio 7 dalimi, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pripažįsta bedarbį darbo rinkai besirengiančiu asmeniu. 
+Papildyta straipsnio punktu:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
@@ -1520,11 +1642,12 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-4) Lietuvos Respublikos Vyriausybės paskelbta ekstremalioji situacija ir karantinas. 
+4) neteko galios nuo 2022-07-01. 
 Papildyta straipsnio punktu:
 Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
 Straipsnio punkto pakeitimai:
 Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -1796,50 +1919,59 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 2. Konsultavimo paslaugas siekiant užimtumo sudaro:
 
 
-1) profesinis konsultavimas;
+1) profesinis konsultavimas ir profesinės karjeros planavimas;
 
 
 
 
-2) profesinės karjeros planavimas;
+2) konsultavimas dėl pasirengimo dirbti;
 
 
 
 
-3) psichologinis konsultavimas.
+3) psichologinis konsultavimas;
+
+
+
+
+4) konsultavimas dėl verslo kūrimo. 
 
 
 
 
 
 
-3. Teikiant profesinio konsultavimo paslaugą, skirtą darbo ieškančio asmens profesiniam apsisprendimui, padedama darbo ieškantiems asmenims įvertinti savo gebėjimus ir asmenines savybes renkantis tam tikrą profesiją ar persikvalifikuojant, taip pat jie motyvuojami mokytis, dirbti ar dalyvauti socialinės ir profesinės reabilitacijos priemonėse.
+3. Teikiant profesinio konsultavimo ir profesinės karjeros planavimo paslaugą, skirtą darbo ieškančio asmens profesiniam apsisprendimui, padedama darbo ieškantiems asmenims įvertinti savo gebėjimus ir asmenines savybes renkantis tam tikrą profesiją, persikvalifikuojant ar keičiant darbą, suteikiama karjeros valdymo kompetencijų, motyvuojama mokytis, dirbti ar dalyvauti socialinės ir profesinės reabilitacijos priemonėse.
 
 
 
 
-4. Teikiant profesinės karjeros planavimo paslaugą, skirtą darbo ieškantiems asmenims suteikti karjeros valdymo kompetencijų, suteikiama žinių ir praktinių įgūdžių, padedančių priimti informacija pagrįstus sprendimus, būtinus darbo rinkos konkurencingumui palaikyti, ir prisiimti asmeninę atsakomybę už savo profesinę karjerą.
+4. Teikiant konsultavimo dėl pasirengimo dirbti paslaugą, asmenims suteikiama žinių ir praktinių įgūdžių, padedančių priimti informacija pagrįstus sprendimus ir (ar) atlikti veiksmus, būtinus įsidarbinimą ribojančioms aplinkybėms pašalinti, atkurti darbo įpročius ir (ar) įgyti darbo paieškos įgūdžių, ugdomas asmenų pasirengimas darbo rinkai.
 
 
 
 
-5. Teikiant psichologinio konsultavimo paslaugą, padedama darbo ieškantiems asmenims spręsti emocines, asmenybės ir bendravimo problemas, sudarančias kliūčių jų užimtumui.
+5. Teikiant psichologinio konsultavimo paslaugą, padedama darbo ieškantiems asmenims spręsti emocines, asmenybės ir bendravimo problemas, sudarančias kliūtis jų užimtumui. 
 
 
 
 
-6. Užimtumo tarnyba, teikdama psichologinio konsultavimo paslaugas, gali pasitelkti trečiuosius asmenis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+6. Teikiant konsultavimo dėl verslo kūrimo paslaugą, padedama asmenims apsispręsti dėl galimybės pradėti kurti savo verslą, suteikiama žinių, padedančių priimti pagrįstą sprendimą dėl verslo kūrimo, dalyvaujant šio įstatymo 47 straipsnyje nustatytoje priemonėje, suteikiama verslo plano rengimo, verslo administravimo, išlaikymo bei plėtros žinių.
+
+
+
+
+7. Užimtumo tarnyba, teikdama konsultavimo paslaugas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali pasitelkti trečiuosius asmenis.
+
+
+
+
+8. Konsultavimo paslaugos gali būti teikiamos, organizuojant konsultacinius užsiėmimus individualiai arba grupėms.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
-
-
-
-
-7. Profesinio konsultavimo, profesinės karjeros planavimo ir psichologinio konsultavimo paslaugos gali būti teikiamos individualiai arba grupėms.
- 
-
-
 
 
 
@@ -1847,7 +1979,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 29 straipsnis. Įsidarbinimo galimybių vertinimo paslaugos
 
 
-1. Užimtumo tarnyba, įregistravusi darbo ieškantį asmenį, atlieka jo įsidarbinimo galimybių vertinimą, kurio tikslas – nustatyti ir parinkti darbo ieškantiems asmenims tas darbo rinkos paslaugas ir (ar) aktyvios darbo rinkos politikos priemones, kurios yra tinkamos tam darbo ieškančiam asmeniui atsižvelgiant į jo turimą kvalifikaciją ir (ar) kompetenciją, darbo patirtį, nedarbo laikotarpį, sveikatos būklę ir kitas aplinkybes, darančias įtaką darbo ieškančio asmens įsidarbinimo galimybėms. 
+1. Užimtumo tarnyba, įregistravusi darbo ieškantį asmenį, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlieka jo įsidarbinimo galimybių vertinimą, kurio tikslas – nustatyti ir parinkti darbo ieškantiems asmenims tas darbo rinkos paslaugas ir (ar) aktyvios darbo rinkos politikos priemones, kurios yra tinkamos tam darbo ieškančiam asmeniui, atsižvelgiant į jo turimą kvalifikaciją ir (ar) kompetenciją, darbo patirtį, nedarbo laikotarpį, sveikatos būklę, pasirengimą darbo rinkai ir kitas šio įstatymo 22 straipsnio 7 dalyje nurodytas aplinkybes, darančias įtaką darbo ieškančio asmens įsidarbinimo galimybėms.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
@@ -1871,25 +2006,38 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-2. Tinkamas darbas yra darbas, kuris atitinka visus šiuos požymius:
+2. 9 mėnesius nuo registracijos Užimtumo tarnyboje dienos tinkamas darbas yra darbas, kuris atitinka visus šiuos požymius:
 
 
-1) atitinka darbo ieškančio asmens kvalifikaciją ir (ar) kompetenciją, ir (ar) turimą darbo patirtį; 
+1) atitinka darbo ieškančio asmens kvalifikaciją ir (ar) kompetenciją, ir (ar) turimą darbo patirtį arba darbo ieškančio asmens pageidavimą atlikti darbo skelbime nurodytas darbo funkcijas (eiti pareigas);
 
 
 
 
-2) Užimtumo tarnyba Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nėra gavusi oficialios informacijos apie su asmens sveikata ar su kitomis aplinkybėmis susijusius apribojimus dirbti siūlomą darbą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+2) Užimtumo tarnyba Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nėra gavusi oficialios informacijos apie su darbo ieškančio asmens sveikata ar su kitomis aplinkybėmis susijusius apribojimus dirbti siūlomą darbą;
+
+
+
+
+3) kelionė nuo darbo ieškančio asmens nuolatinės gyvenamosios vietos iki darbo vietos ir atgal trunka ne ilgiau kaip 2 valandas per dieną ir mėnesio kelionės išlaidos nekainuoja daugiau kaip 15 procentų darbo skelbime nurodytos mėnesinės algos, skaičiuojant pagal atstumą nuo asmens nuolatinės gyvenamosios vietos iki darbo vietos ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintą vieno kilometro įkainį;
+
+
+
+
+4) darbo skelbime siūloma mėnesinė alga yra ne mažesnė už tinkamo darbo pasiūlymo pateikimo mėnesį bedarbio gaunamą nedarbo socialinio draudimo išmoką, kurios dydis apskaičiuojamas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu, ir pirmus 3 mėnesius sudaro ne mažiau kaip 80 procentų, o ketvirtą–devintą mėnesį – 60 procentų darbo ieškančio asmens 3 paeiliui einančius kalendorinius mėnesius, einančius prieš atleidimo iš darbo mėnesį, turėtų Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apskaičiuotų vidutinių darbo ieškančio asmens draudžiamųjų pajamų, nuo kurių Valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotos ir privalo būti įmokėtos valstybinio socialinio draudimo įmokos, bet ne mažesnis kaip Lietuvos Respublikos Vyriausybės nustatyta minimalioji mėnesinė alga arba minimalusis valandinis atlygis proporcingai dirbtam laikui.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
 
 
-3) kelionės išlaidos, apskaičiuojamos pagal atstumą nuo bedarbio gyvenamosios vietos iki darbo vietos ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintą vieno kilometro įkainį, nesudaro daugiau kaip 15 procentų laisvos darbo vietos aprašyme nurodyto mėnesinio darbo užmokesčio.
-
-
+21. Jeigu prasidėjo dešimtas mėnuo nuo asmens registracijos Užimtumo tarnyboje dienos arba jeigu tinkamo darbo pasiūlymo pateikimo dieną asmuo Užimtumo tarnyboje buvo registruotas kaip bedarbis daugiau kaip 9 mėnesius per 18 mėnesių laikotarpį iki tinkamo darbo pasiūlymo pateikimo dienos, tinkamu darbu laikomas darbas, kuris atitinka šio straipsnio 2 dalies 2 ir 3 punktuose nustatytus požymius.
+Papildyta straipsnio dalimi:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
@@ -2028,24 +2176,35 @@ Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
 
 
 
-31 straipsnis. Individualios užimtumo veiklos planavimo paslaugos 
+31 straipsnis. Individualios užimtumo veiklos planavimo paslaugos
 
 
-1. Bedarbiams, įsiregistravusiems Užimtumo tarnyboje, sudaromi individualūs užimtumo veiklos planai. Šiuose planuose nurodomi bedarbio ir Užimtumo tarnybos įsipareigojimai dėl darbo rinkos paslaugų bedarbiui teikimo, aktyvios darbo rinkos politikos priemonių ir užimtumo didinimo programų įgyvendinimo bei bedarbio atsiskaitymo už savarankišką darbo paiešką ir šio įstatymo 5 straipsnio 3 punkte nurodytos veiklos vykdymą tvarka.
+1. Bedarbiams ir darbo rinkai besirengiantiems asmenims, įsiregistravusiems Užimtumo tarnyboje, sudaromi individualūs užimtumo veiklos planai. Šiuose planuose nurodomi:
 
 
-
-
-2. Užimtumo tarnyba, prieš siūlydama bedarbiams dalyvauti aktyvios darbo rinkos politikos priemonėse ar užimtumo didinimo programose, jiems gali siūlyti psichologinio konsultavimo paslaugas ar kreiptis dėl socialinių paslaugų poreikio nustatymo. 
+1) bedarbio (nurodomas vardas, pavardė, gimimo data) ir Užimtumo tarnybos įsipareigojimai dėl darbo rinkos paslaugų bedarbiui teikimo, aktyvios darbo rinkos politikos priemonių ir užimtumo didinimo programų įgyvendinimo bei bedarbio atsiskaitymo už savarankišką darbo paiešką ir šio įstatymo 5 straipsnio 3 punkte nurodytos veiklos vykdymą tvarka;
 
 
 
 
-3. Asmenims, Užimtumo tarnyboje registruotiems šio įstatymo 22 straipsnio 4 dalyje nurodytais statusais, jų prašymu gali būti sudaromas šio straipsnio 1 dalyje nurodytas individualus užimtumo veiklos planas. 
+2) darbo rinkai besirengiančio asmens (nurodomas vardas, pavardė, gimimo data) ir Užimtumo tarnybos įsipareigojimai dėl darbo rinkos paslaugų darbo rinkai besirengiančiam asmeniui teikimo, užimtumo didinimo programų įgyvendinimo.
+
+
+
+
+
+
+2. Užimtumo tarnyba, prieš siūlydama bedarbiams dalyvauti aktyvios darbo rinkos politikos priemonėse, bedarbiams ir darbo rinkai besirengiantiems asmenims – užimtumo didinimo programose, jiems gali siūlyti kreiptis dėl socialinių paslaugų poreikio nustatymo. 
+
+
+
+
+3. Asmenims, Užimtumo tarnyboje registruotiems šio įstatymo 22 straipsnio 4 dalies  1–4 punktuose nurodytais statusais, jų prašymu, pateiktu Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, gali būti sudaromas šio straipsnio 1 dalyje nurodytas individualus užimtumo veiklos planas.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -2297,10 +2456,17 @@ Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
 
 
 
-4) neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas. 
-Papildyta straipsnio punktu:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
- 
+4) neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas;
+
+
+
+
+5) neformalusis suaugusiųjų švietimas;
+
+
+
+
+6) aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimas.
 
 
 
@@ -2312,13 +2478,12 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-3. Paramos mokymuisi tikslas – padėti bedarbiams ir užimtiems asmenims įgyti kvalifikaciją, tobulinti turimą kvalifikaciją, įgyti kompetencijų pagal formaliojo profesinio mokymo programas, įtrauktas į Studijų, mokymo programų ir kvalifikacijų registrą, ar pagal neformaliojo suaugusiųjų švietimo programas ar jas tobulinti arba (ir) įgyti kitų darbo gebėjimų ar pripažinti neformaliojo švietimo ir savišvietos būdu įgytas kompetencijas, jeigu to reikia norint įsidarbinti į laisvas darbo vietas ar pradėti dirbti savarankiškai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
-Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
+3. Paramos mokymuisi tikslas – padėti bedarbiams ir užimtiems asmenims įgyti kvalifikaciją, tobulinti turimą kvalifikaciją, įgyti kompetencijų pagal formaliojo ir neformaliojo profesinio mokymo programas, įtrauktas į Studijų, mokymo programų ir kvalifikacijų registrą, ar pagal neformaliojo suaugusiųjų švietimo programas ar jas tobulinti arba (ir) įgyti kitų darbo gebėjimų ar pripažinti neformaliojo švietimo ir savišvietos būdu įgytas kompetencijas, jeigu to reikia norint įsidarbinti laisvose darbo vietose ar pradėti dirbti savarankiškai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
-
-
 
 
 
@@ -2326,40 +2491,22 @@ Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
 37 straipsnis. Profesinis mokymas
 
 
-1. Bedarbių ir užimtų asmenų profesinis mokymas pagal formaliojo profesinio mokymo programas organizuojamas trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp Užimtumo tarnybos, darbdavio, kuris įdarbins bedarbį ar užimtą asmenį arba užimtą asmenį perkels į aukštesnes pareigas, ir bedarbio ar užimto asmens, kuris įsidarbins į laisvą darbo vietą. Kai bedarbiai siunčiami mokytis pagal Užimtumo tarnybos atliktomis darbo rinkos prognozėmis nustatytų paklausių profesijų formaliojo profesinio mokymo programas ar užimti asmenys siunčiami mokytis pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nustatytas prioritetinių profesijų formaliojo profesinio mokymo programas arba kai bedarbiai nori pradėti dirbti Užimtumo tarnybos pasiūlytose ar jų pačių susirastose darbo vietose ar dirbti savarankiškai, sudaroma dvišalė sutartis tarp Užimtumo tarnybos ir bedarbio ar užimto asmens. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+1. Užimtų asmenų, kuriems Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nustatoma, kad dėl įmonės reorganizavimo, restruktūrizavimo, modernizavimo būtina įgyti kvalifikaciją, tobulinti turimą kvalifikaciją, įgyti kompetencijų, ir bedarbių profesinis mokymas pagal formaliojo ir neformaliojo profesinio mokymo programas organizuojamas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp Užimtumo tarnybos, darbdavio, kuris įdarbins bedarbį ar užimtą asmenį arba pas kurį užimtas asmuo pasiliks dirbti, ir bedarbio, kuris įsidarbins laisvoje darbo vietoje, ar užimto asmens, kuris įsidarbins laisvoje darbo vietoje ar pasiliks dirbti pas tą patį darbdavį. Jeigu bedarbiai ar užimti asmenys siunčiami mokytis pagal Užimtumo tarnybos atliktomis darbo rinkos prognozėmis nustatytų paklausių profesijų formaliojo ir neformaliojo profesinio mokymo programas arba jeigu bedarbiai nori pradėti dirbti, sudaroma Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos dvišalė sutartis tarp Užimtumo tarnybos ir bedarbio ar užimto asmens. 
 
 
 
 
-2. Bedarbių ar užimtų asmenų profesinis mokymas pagal neformaliojo suaugusiųjų švietimo programas organizuojamas trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp Užimtumo tarnybos, darbdavio, kuris įdarbins bedarbį ar užimtą asmenį, ir bedarbio ar užimto asmens, kuris įsidarbins į laisvą darbo vietą. Kai įgyti ar tobulinti bendrųjų ar profesinių kompetencijų siunčiami bedarbiai, kurie priskiriami didelių ar vidutinių įsidarbinimo galimybių grupei, arba kai bedarbiai ar užimti asmenys siunčiami pagal Užimtumo tarnybos nustatytų paklausių kompetencijų neformaliojo suaugusiųjų švietimo programas, sudaroma dvišalė sutartis tarp Užimtumo tarnybos ir bedarbio ar užimto asmens. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
+2. Bedarbių ar užimtų asmenų profesinis mokymas vykdomas profesinio mokymo teikėjo, kurį pasirenka pats bedarbis ar užimtas asmuo, o jeigu sudaryta trišalė sutartis, – suderinus su darbdaviu. Profesinio mokymo teikėjas bedarbių priėmimą mokytis vykdo ne rečiau kaip kartą per mėnesį. Užimtumo tarnyba, remdamasi šio straipsnio 1 dalyje nurodytomis sutartimis, išduoda bedarbiui ar užimtam asmeniui Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos dokumentą, kuriuo įsipareigoja sumokėti Lietuvos Respublikos profesinio mokymo įstatymo nustatyta tvarka bedarbio ar užimto asmens pasirinktam profesinio mokymo teikėjui nurodytą pinigų sumą už įvykdytą profesinį mokymą. Tarp pasirinkto profesinio mokymo teikėjo ir bedarbio ar užimto asmens sudaroma profesinio mokymo sutartis, pagal kurią profesinio mokymo teikėjas kas mėnesį raštu ar elektroninių ryšių priemonėmis Užimtumo tarnybai teikia informaciją apie bedarbio ar užimto asmens mokymo programos lankomumą (nurodomas vardas, pavardė, gimimo data, mokymo programos pavadinimas, lankytos ir nelankytos dienos, valandos). 
 
 
 
 
-3. Bedarbių ar užimtų asmenų profesinis mokymas vykdomas profesinio mokymo teikėjo, kurį pasirenka pats bedarbis ar užimtas asmuo, o kai sudaryta trišalė sutartis, – suderinus su darbdaviu. Užimtumo tarnyba, remdamasi šio straipsnio 1 ir 2 dalyse nurodytomis sutartimis, išduoda bedarbiui ar užimtam asmeniui dokumentą, kuriuo įsipareigoja sumokėti Lietuvos Respublikos profesinio mokymo įstatymo nustatyta tvarka bedarbio ar užimto asmens pasirinktam profesinio mokymo teikėjui nurodytą pinigų sumą už suteiktą profesinį mokymą. Tarp pasirinkto profesinio mokymo teikėjo ir bedarbio ar užimto asmens sudaroma profesinio mokymo sutartis, pagal kurią profesinio mokymo teikėjas kas mėnesį Užimtumo tarnybai teikia informaciją apie bedarbio ar užimto asmens mokymo programos lankomumą. Užimtam asmeniui profesinis mokymas šiame straipsnyje numatytomis sąlygomis organizuojamas, kai jis planuoja įsidarbinti ne pas tą patį darbdavį, su kuriuo jį sieja darbo teisiniai santykiai, arba planuoja pradėti vykdyti savarankišką veiklą, arba darbdavys, su kuriuo jį sieja darbo teisiniai santykiai, užimtą asmenį po jo profesinio mokymo planuoja perkelti į aukštesnes pareigas, kuriose jo darbo sutartyje nustatytas darbo užmokestis būtų ne mažiau kaip 20 procentų didesnis, palyginus su jo darbo sutartyje nustatytu darbo užmokesčiu iki profesinio mokymo, arba yra įspėtas apie atleidimą, kai jo atliekama darbo funkcija darbdaviui tampa perteklinė dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino. Šio straipsnio 1 ir 2 dalyse nurodytose sutartyse su užimtu asmeniu numatoma sąlyga, kad užimtas asmuo turi įsidarbinti pas kitą darbdavį ar pradėti vykdyti savarankišką veiklą per 6 mėnesius nuo profesinio mokymo pabaigos, išskyrus šioje dalyje nurodytą atvejį, kai užimtas asmuo, baigęs dalyvauti profesiniame mokyme, kada jo atliekama darbo funkcija darbdaviui tapo perteklinė dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino, įsidarbina pas tą patį darbdavį trišalėje sutartyje numatytomis sąlygomis ir terminais. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
-Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
-Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+3. Profesinis mokymas pagal kvalifikaciją suteikiančias programas, kurios nėra įtrauktos į Studijų, mokymo programų ir kvalifikacijų registrą, gali būti organizuojamas ir kitose Europos Sąjungos valstybėse narėse pagal šių valstybių galiojančius teisės aktus, įgyvendinant projektus, finansuojamus iš Europos Sąjungos struktūrinių fondų.
 
 
 
 
-4. Profesinis mokymas pagal programas, kurios suteikia kvalifikaciją darbui naudojant technologijas ir nėra įtrauktos į Studijų, mokymo programų ir kvalifikacijų registrą, gali būti organizuojamas ir kitose Europos Sąjungos valstybėse narėse pagal šių valstybių galiojančius teisės aktus, įgyvendinant projektus, finansuojamus iš Europos Sąjungos struktūrinių fondų.
-
-
-
-
-5. Bedarbių ar užimtų asmenų profesinis mokymas gali būti finansuojamas iš šių šaltinių:
+4. Bedarbių ar užimtų asmenų profesinis mokymas gali būti finansuojamas iš šių šaltinių:
 
 
 1) valstybės biudžeto lėšų; 
@@ -2377,95 +2524,89 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-4) kitų šaltinių. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
- 
+4) kitų šaltinių.
 
 
 
 
-6. Bedarbiams ar užimtiems asmenims bendrai skiriama lėšų suma iš šio straipsnio 5 dalies 1 ir 2 punktuose nurodytų šaltinių negali viršyti 4,65 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai įgyti ir 2,33 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai tobulinti ar kompetencijai įgyti, išskyrus atvejus, kai lėšos – ne daugiau negu 9,3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai įgyti ir 4,66 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai tobulinti ar kompetencijai įgyti – skiriamos bedarbio ar užimto asmens kvalifikacijai ar kompetencijai, įtrauktai į Užimtumo tarnybos direktoriaus tvirtinamą aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų sąrašą, įgyti. Į šias lėšas neįskaičiuojamos išlaidos, numatytos šio straipsnio 14 dalies 2, 3, 4 ir 5 punktuose. Užimtam asmeniui iš šio straipsnio 14 dalyje nurodytų išlaidų finansuojamos tik profesinio mokymo paslaugos. Užimtam asmeniui, kuris profesinio mokymosi metu buvo atleistas iš darbo, profesinio mokymosi laikotarpiu papildomai mokama šio straipsnio 14 dalies 2 punkte nurodyta mokymo stipendija ir kompensuojamos šio straipsnio 14 dalies 3 ir 4 punktuose nurodytos išlaidos. Lėšų nustatymo, skyrimo ir panaudojimo kontrolės tvarką nustato, dokumentų tipines formas tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+
+
+5. Bedarbiams ar užimtiems asmenims bendrai skiriama lėšų suma iš šio straipsnio 4 dalies 1 ir 2 punktuose nurodytų šaltinių negali viršyti 5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių kvalifikacijai įgyti ir 2,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai tobulinti ar kompetencijai įgyti. Šis apribojimas netaikomas šio straipsnio 13 dalies 2–5 punktuose numatytoms išlaidoms bedarbiui, o užimtam asmeniui iš šio straipsnio 13 dalyje nurodytų išlaidų finansuojamos tik profesinio mokymo paslaugų išlaidos. Užimtam asmeniui, kuris profesinio mokymosi metu buvo atleistas iš darbo, profesinio mokymosi laikotarpiu papildomai mokama šio straipsnio 13 dalies 2 punkte nurodyta mokymo stipendija ir kompensuojamos šio straipsnio 13 dalies 3 ir 4 punktuose nurodytos išlaidos. Lėšų nustatymo, skyrimo ir panaudojimo kontrolės tvarką nustato, dokumentų tipines formas tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-7. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija, atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,47 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui, išskyrus atvejus, kai dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino sustabdoma bedarbio profesinio mokymo teikėjo veikla. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu, bedarbiui mokama 0,39 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija. Kai Lietuvos Respublikos Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną, mokymo stipendijos dydis, atsižvelgiant į bedarbio lankytų profesinio mokymosi valandų skaičių, bedarbio pasirinkimu yra lygus 0,47 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
-Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
-Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
- 
+6. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija, atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui, išskyrus atvejus, kai dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino bedarbio profesinio mokymo teikėjo veikla sustabdoma. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Nedarbo socialinio draudimo įstatymo nustatyta tvarka arba Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu, bedarbiui mokama 0,4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija. Jeigu Lietuvos Respublikos Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną arba profesinio mokymo teikėjas atnaujina dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino sustabdytą veiklą, mokymo stipendijos dydis, atsižvelgiant į bedarbio lankytų profesinio mokymosi valandų skaičių, bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Nedarbo socialinio draudimo įstatymu. 
 
 
 
 
-8. Kelionės, apgyvendinimo, privalomojo sveikatos tikrinimo ir skiepijimo nuo užkrečiamųjų ligų apmokėjimo bedarbiams sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+7. Kelionės, apgyvendinimo, privalomojo sveikatos tikrinimo ir skiepijimo nuo užkrečiamųjų ligų išlaidų apmokėjimo bedarbiams sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-9. Kompensuojamos apgyvendinimo išlaidos negali viršyti daugiau kaip 15 procentų Lietuvos Respublikos Vyriausybės patvirtintos bazinės socialinės išmokos dydžio už vieną parą ir ne daugiau kaip 35 procentų bazinės socialinės išmokos dydžio, kai mokymosi metu apgyvendinamas neįgalusis, turintis sunkią judėjimo negalią. Kompensuojamos kelionės išlaidos į profesinio mokymo vietą ir atgal apskaičiuojamos atsižvelgiant į atstumą nuo bedarbio gyvenamosios vietos iki artimiausio profesinio mokymo teikėjo, vykdančio profesinį mokymą pagal pasirinktą profesinio mokymo programą.
+8. Kompensuojamos apgyvendinimo išlaidos negali viršyti daugiau kaip 35 procentų Lietuvos Respublikos Vyriausybės patvirtintos bazinės socialinės išmokos dydžio už vieną parą. Kompensuojamos kelionės išlaidos į profesinio mokymo vietą ir atgal apskaičiuojamos atsižvelgiant į atstumą nuo bedarbio gyvenamosios vietos iki artimiausio profesinio mokymo teikėjo, vykdančio profesinį mokymą pagal pasirinktą profesinio mokymo programą.
 
 
 
 
-10. Kai bedarbis, dalyvaujantis profesiniame mokyme (išskyrus įdarbinimą pagal pameistrystės darbo sutartį), pradeda šio įstatymo 3 straipsnio 1 dalies 1 ir 2 punktuose nurodytų užimtumo formų veiklą, su profesinio mokymo teikėju suderina darbo ir mokymosi laiką ir tęsia mokymąsi, toliau finansuojamos tik jo mokymo paslaugos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
- 
+9. Kai bedarbis, dalyvaujantis profesiniame mokyme (išskyrus įdarbinimą pagal pameistrystės darbo sutartį), suderinęs su profesinio mokymo teikėju darbo ir mokymosi laiką, pradeda šio įstatymo 3 straipsnio 1 dalies 1 ir 2 punktuose nurodytų užimtumo formų veiklą, mokymosi laikotarpiu finansuojamos tik jo mokymo paslaugos.
 
 
 
 
-11. Bedarbių ir užimtų asmenų profesinis mokymas pagal šio straipsnio nuostatas pakartotinai gali būti organizuojamas ne anksčiau kaip po 3 metų baigus profesinio mokymo programą ir įgijus kvalifikaciją, ne anksčiau kaip po vienų metų įgijus kompetenciją, išskyrus atvejus, kai dėl sveikatos būklės asmuo negali dirbti pagal įgytą kvalifikaciją ir (ar) kompetenciją arba kai asmuo neturi teisės dirbti pagal įgytą kompetenciją neturėdamas teisės aktuose nurodyto kvalifikacijos pažymėjimo.
+10. Bedarbių ir užimtų asmenų profesinis mokymas pagal šio straipsnio nuostatas pakartotinai gali būti organizuojamas pagal kitą mokymo programą ir ne anksčiau kaip po 3 metų baigus profesinio mokymo programą ir įgijus kvalifikaciją, ne anksčiau kaip po vienų metų įgijus kompetenciją, išskyrus atvejus, kai:
+
+
+1) dėl sveikatos būklės asmuo negali dirbti pagal įgytą kvalifikaciją ir (ar) kompetenciją; 
 
 
 
 
-12. Užimtumo tarnybai privalo atlyginti:
-
-
-1) bedarbis, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimų, išskyrus įsipareigojimą nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba ne trumpiau negu 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytos trišalės sutarties įsipareigojimų, išskyrus įsipareigojimą be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 14 dalyje nurodytas išlaidas;
+2) asmuo neturi teisės dirbti pagal įgytą kompetenciją neturėdamas teisės aktuose nurodyto kvalifikacijos pažymėjimo; 
 
 
 
 
-2) bedarbis, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimų nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba ne trumpiau negu 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytos trišalės sutarties įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 14 dalyje nurodytas išlaidas, kurios mažinamos proporcingai išdirbtam laikotarpiui;
+3) neturi teisės mokytis pagal formaliojo profesinio mokymo programos modulį, prieš tai neįgijęs kompetencijos pagal kitą formaliojo profesinio mokymo programos modulį.
 
 
 
 
-3) užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimų, išskyrus įsipareigojimą nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba ne trumpiau negu 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytos trišalės sutarties įsipareigojimų, išskyrus įsipareigojimą be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 14 dalies 1 punkte nurodytas išlaidas, o tuo atveju, kai užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – taip pat jos patirtas šio straipsnio 14 dalies 2, 3 ir 4 punktuose nurodytas išlaidas per 60 darbo dienų;
+
+
+11. Užimtumo tarnybai privalo atlyginti:
+
+
+1) bedarbis, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytose sutartyse nustatytų įsipareigojimų, išskyrus įsipareigojimą nenutraukti darbo sutarties 6 mėnesius arba 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje trišalėje sutartyje nustatytų įsipareigojimų, išskyrus įsipareigojimą be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 13 dalyje nurodytas išlaidas;
 
 
 
 
-4) užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimo nenutraukti darbo sutarties ne trumpiau negu 6 mėnesių laikotarpį arba ne trumpiau negu 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 ir 2 dalyse nurodytos trišalės sutarties įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – per 60 darbo dienų visas jos patirtas šio straipsnio 14 dalies 1 punkte nurodytas išlaidas, o tuo atveju, kai užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – taip pat jos patirtas šio straipsnio 14 dalies 2, 3 ir 4 punktuose nurodytas išlaidas, kurios mažinamos proporcingai išdirbtam laikotarpiui. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
+2) bedarbis, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytose sutartyse nustatytų įsipareigojimų nenutraukti darbo sutarties 6 mėnesius arba 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje trišalėje sutartyje nustatyto įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 13 dalyje nurodytas išlaidas, mažinamas proporcingai išdirbtam laikotarpiui;
 
 
 
 
-13. Užimtumo tarnybai jos patirtų šio straipsnio 14 dalyje nurodytų išlaidų neturi atlyginti be svarbių priežasčių nevykdantys šio straipsnio 1 ir 2 dalyse nurodytų sutarčių įsipareigojimų bedarbiai, kurie šio įstatymo nustatyta tvarka pirmą kartą įgijo kompetenciją ir (ar) kvalifikaciją, arba bedarbiai, kurie buvo siunčiami mokytis pagal neformaliojo suaugusiųjų švietimo programas dvišalės sutarties pagrindu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
+3) užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytose sutartyse nustatytų įsipareigojimų, išskyrus įsipareigojimą nenutraukti darbo sutarties 6 mėnesius arba 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje trišalėje sutartyje nustatytų įsipareigojimų, išskyrus įsipareigojimą be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – visas jos patirtas šio straipsnio 13 dalies 1 punkte nurodytas išlaidas, o jeigu užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – visas jos patirtas šio straipsnio 13 dalies 2, 3 ir 4 punktuose nurodytas išlaidas per 60 darbo dienų;
 
 
 
 
-14. Atlyginamos šios su profesiniu mokymu susijusios Užimtumo tarnybos patirtos išlaidos:
+4) užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytose sutartyse nustatyto įsipareigojimo nenutraukti darbo sutarties 6 mėnesius arba 6 mėnesius vykdyti savarankišką veiklą ne mažiau kaip 15 dienų per mėnesį, ir darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje trišalėje sutartyje nustatyto įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius, – per 60 darbo dienų visas jos patirtas šio straipsnio 13 dalies 1 punkte nurodytas išlaidas, o jeigu užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – visas jos patirtas šio straipsnio 13 dalies 2, 3 ir 4 punktuose nurodytas išlaidas, mažinamas proporcingai išdirbtam laikotarpiui.
+
+
+
+
+
+
+12. Užimtumo tarnybai jos patirtų šio straipsnio 13 dalyje nurodytų išlaidų neturi atlyginti be svarbių priežasčių nevykdantys šio straipsnio 1 dalyje nurodytose sutartyse nustatytų įsipareigojimų bedarbiai, kurie šio įstatymo nustatyta tvarka pirmą kartą įgijo kompetenciją ir (ar) kvalifikaciją.
+
+
+
+
+13. Atlyginamos šios su profesiniu mokymu susijusios Užimtumo tarnybos patirtos išlaidos:
 
 
 1) profesinio mokymo paslaugų;
@@ -2488,57 +2629,44 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-5) privalomojo sveikatos tikrinimo ir skiepijimo nuo užkrečiamųjų ligų. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
+5) privalomojo sveikatos tikrinimo ir skiepijimo nuo užkrečiamųjų ligų.
 
 
 
 
-15. Šio straipsnio 14 dalyje nurodytos išlaidos, kurių šio straipsnio 1 ir 2 dalyse nurodytas sutartis sudariusios šalys sutartyse nustatytais terminais neatlygino Užimtumo tarnybai, išieškomos Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
+
+
+14. Šio straipsnio 13 dalyje nurodytos su profesiniu mokymu susijusios išlaidos, kurių šio straipsnio 1 dalyje nurodytas sutartis sudariusios šalys sutartyse nustatytais terminais neatlygino Užimtumo tarnybai, išieškomos Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
 
 
 
-16. Svarbiomis priežastimis, kurioms esant bedarbis neprivalo atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 14 dalyje nurodytų išlaidų ir kai netaikomos šio įstatymo 22 straipsnio 6 dalies nuostatos, ir svarbiomis priežastimis, kurioms esant užimtas asmuo neprivalo atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 14 dalies 1 punkte nurodytų išlaidų, o tuo atveju, kai užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – taip pat jos patirtų šio straipsnio 14 dalies 2, 3 ir 4 punktuose nurodytų išlaidų, laikoma:
+15. Svarbiomis priežastimis, kurioms esant bedarbis neprivalo atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 13 dalyje nurodytų išlaidų, ir svarbiomis priežastimis, kurioms esant užimtas asmuo neprivalo atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 13 dalies 1 punkte nurodytų išlaidų, o jeigu užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – visų jos patirtų šio straipsnio 13 dalies 2, 3 ir 4 punktuose nurodytų išlaidų, laikoma:
 
 
-1) bedarbio ar užimto asmens liga, sužalojimas, nėštumas likus 70 kalendorinių dienų iki gimdymo, gimdymas ir 56 kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – 70 kalendorinių dienų po gimdymo), mirtis, Lietuvos Respublikos karo prievolės įstatyme nustatytų pareigų atlikimas, dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino sustabdyta bedarbio profesinio mokymo teikėjo veikla; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
-Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
- 
+1) bedarbio ar užimto asmens liga, sužalojimas, nėštumas likus 70 kalendorinių dienų iki gimdymo, gimdymas ir 56 kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – 70 kalendorinių dienų po gimdymo), mirtis, Lietuvos Respublikos karo prievolės įstatyme nustatytų pareigų atlikimas, dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino sustabdytas bedarbio profesinis mokymas;
 
 
 
 
-2) darbo sutarties nutraukimas darbuotojo iniciatyva dėl svarbių priežasčių, darbdavio iniciatyva be darbuotojo kaltės, nesant darbo sutarties šalių valios, darbdavio bankroto atveju ir kai darbdavys pripažįsta, kad išbandymo rezultatai nepatenkinami;
+2) darbo sutarties nutraukimas darbuotojo iniciatyva dėl svarbių priežasčių, darbdavio iniciatyva be darbuotojo kaltės, nesant darbo sutarties šalių valios, darbdavio bankroto atveju ir jeigu darbdavys pripažįsta, kad išbandymo rezultatai nepatenkinami;
 
 
 
 
-3) darbo sutarties nutraukimas šios dalies 2 punkte nenurodytais pagrindais arba individualios veiklos nutraukimas, kai bedarbis ar užimtas asmuo per 15 darbo dienų nuo darbo sutarties arba individualios veiklos nutraukimo dienos pradeda dirbti pagal darbo sutartį arba vykdyti individualią veiklą pagal įgytą ar patobulintą kvalifikaciją. Bendra darbo pagal darbo sutartį ir (ar) individualios veiklos trukmė turi būti ne trumpesnė kaip 6 mėnesiai;
+3) darbo sutarties nutraukimas šios dalies 2 punkte nenurodytais pagrindais arba individualios veiklos nutraukimas, kai bedarbis ar užimtas asmuo per 30 darbo dienų nuo darbo sutarties arba individualios veiklos nutraukimo dienos pradeda dirbti pagal darbo sutartį arba vykdyti individualią veiklą pagal įgytą ar patobulintą kvalifikaciją. Bendra darbo pagal darbo sutartį ir (ar) individualios veiklos trukmė turi būti ne trumpesnė kaip 6 mėnesiai;
 
 
 
 
-4) darbo sutarties nutraukimas, kai trišalėje sutartyje nurodytų įsipareigojimų vykdymas perleidžiamas trečiajam asmeniui, jeigu yra bedarbio ar užimto asmens, Užimtumo tarnybos, darbdavio ir trečiojo asmens rašytinis susitarimas. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
+4) darbo sutarties nutraukimas, kai trišalėje sutartyje nustatytų įsipareigojimų vykdymas perleidžiamas trečiajam asmeniui, jeigu yra bedarbio ar užimto asmens, Užimtumo tarnybos, darbdavio ir trečiojo asmens rašytinis susitarimas.
 
 
 
 
-17. Svarbiomis priežastimis, kurioms esant darbdavys neprivalo atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 14 dalyje nurodytų išlaidų, laikoma:
+
+
+16. Svarbiomis priežastimis, kurioms esant darbdavys neprivalo atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 13 dalyje nurodytų išlaidų, laikoma:
 
 
 1) darbo sutarties nutraukimas, kai darbdavys pripažįsta, kad išbandymo rezultatai nepatenkinami, arba darbuotojas nutraukia darbo sutartį per išbandymo laikotarpį, darbuotojo iniciatyva dėl svarbių priežasčių arba be svarbių priežasčių, darbdavio iniciatyva dėl darbuotojo kaltės, nesant darbo sutarties šalių valios;
@@ -2546,21 +2674,19 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-2) darbo sutarties nutraukimas šios dalies 1 punkte nenurodytais pagrindais, kai bedarbis ar užimtas asmuo per 15 darbo dienų nuo darbo sutarties nutraukimo dienos pradeda dirbti pagal darbo sutartį arba vykdyti individualią veiklą pagal įgytą ar patobulintą kvalifikaciją, o bendra darbo pagal darbo sutartį ir (ar) individualios veiklos trukmė yra ne trumpesnė kaip 6 mėnesiai;
+2) darbo sutarties nutraukimas šios dalies 1 punkte nenurodytais pagrindais, kai bedarbis ar užimtas asmuo per 30 darbo dienų nuo darbo sutarties nutraukimo dienos pradeda dirbti pagal darbo sutartį arba vykdyti individualią veiklą pagal įgytą ar patobulintą kvalifikaciją, o bendra darbo pagal darbo sutartį ir (ar) individualios veiklos trukmė yra ne trumpesnė kaip 6 mėnesiai;
 
 
 
 
-3) darbo sutarties nutraukimas, kai trišalėje sutartyje nurodytų įsipareigojimų vykdymas perleidžiamas trečiajam asmeniui, jeigu yra bedarbio ar užimto asmens, Užimtumo tarnybos, darbdavio ir trečiojo asmens rašytinis susitarimas. 
+3) darbo sutarties nutraukimas, kai trišalėje sutartyje nustatytų įsipareigojimų vykdymas perleidžiamas trečiajam asmeniui, jeigu yra bedarbio ar užimto asmens, Užimtumo tarnybos, darbdavio ir trečiojo asmens rašytinis susitarimas.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -2569,7 +2695,10 @@ Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
 38 straipsnis. Įdarbinimas pagal pameistrystės darbo sutartį
 
 
-1. Įdarbinimas pagal pameistrystės darbo sutartį gali būti organizuojamas asmenims, kurie dalyvauja profesiniame mokyme taikant pameistrystės formą šio įstatymo 37 straipsnyje nustatyta tvarka. Šio įstatymo 37 straipsnyje nurodyta mokymo stipendija nemokama, kai asmeniui, atsižvelgiant į dirbtas valandas, mokamas darbo užmokestis pagal pameistrystės darbo sutartį.
+1. Įdarbinimas pagal pameistrystės darbo sutartį gali būti organizuojamas asmenims, kurie taikant pameistrystės formą dalyvauja profesiniame mokyme šio įstatymo 37 straipsnyje nustatyta tvarka arba neformaliajame suaugusiųjų švietime šio įstatymo 392 straipsnyje nustatyta tvarka. Šio įstatymo 37 straipsnyje nurodyta mokymo stipendija nemokama, kai asmeniui, atsižvelgiant į jo dirbtas valandas, mokamas darbo užmokestis pagal pameistrystės darbo sutartį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
 
 
 
@@ -2652,55 +2781,207 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-391 straipsnis. Neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas 
+391 straipsnis. Neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas
 
 
-1. Neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas organizuojamas dvišalėje sutartyje, sudaromoje tarp Užimtumo tarnybos ir bedarbio, kurio neformaliojo švietimo ir savišvietos būdu įgytos kompetencijos bus pripažįstamos, numatytomis sąlygomis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+1. Neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas organizuojamas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos dvišalėje sutartyje, sudaromoje tarp Užimtumo tarnybos ir bedarbio ar užimto asmens, kurio neformaliojo švietimo ir savišvietos būdu įgytos kompetencijos bus pripažįstamos, numatytomis sąlygomis.
+
+
+
+
+2. Užimtumo tarnyba, remdamasi šio straipsnio 1 dalyje nurodyta sutartimi, bedarbiui ar užimtam asmeniui išduoda Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos dokumentą, kuriuo įsipareigoja sumokėti įmonei, turinčiai teisę pripažinti neformaliojo švietimo ir savišvietos būdu įgytas kompetencijas (toliau – kompetencijų pripažinimą organizuojanti įmonė), nurodytą pinigų sumą už neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimą.
+
+
+
+
+3. Neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimą vykdo kompetencijų pripažinimą organizuojanti įmonė, kurią pasirenka pats bedarbis ar užimtas asmuo.
+
+
+
+
+4. Lėšos, skiriamos neformaliojo švietimo ir savišvietos būdu įgytoms kompetencijoms pripažinti, negali viršyti 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio.
+
+
+
+
+5. Neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas pagal šio straipsnio nuostatas gali būti organizuojamas ne daugiau kaip 3 kartus per vienus metus.
+
+
+
+
+6. Bedarbių kelionių, apgyvendinimo, privalomojo sveikatos tikrinimo ir skiepijimo nuo užkrečiamųjų ligų išlaidos, patirtos dėl neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimo organizavimo, mutatis mutandis apmokamos šio įstatymo 37 straipsnio 7 ir 8 dalyse nustatytomis sąlygomis ir tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
 
 
-2. Užimtumo tarnyba, vadovaudamasi šio straipsnio 1 dalyje nurodyta sutartimi, bedarbiui išduoda dokumentą, kuriuo įsipareigoja sumokėti juridiniam asmeniui, turinčiam teisę pripažinti neformaliojo švietimo ir savišvietos būdu įgytas kompetencijas (toliau – kompetencijų pripažinimą organizuojantis asmuo), nurodytą pinigų sumą už neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
+392 straipsnis. Neformalusis suaugusiųjų švietimas
+
+
+1. Neformalusis suaugusiųjų švietimas organizuojamas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp Užimtumo tarnybos, darbdavio, kuris įdarbins užimtą asmenį, nurodytą šios dalies 2 ar 3 punkte, ar bedarbį, ir užimto asmens, nurodyto šios dalies 2 ar 3 punkte, ar bedarbio. Dvišalė sutartis tarp Užimtumo tarnybos ir bedarbio ar užimto asmens, nurodyto šios dalies 2 ar 3 punkte, sudaroma, jeigu:
+
+
+1) įgyti ar tobulinti bendrųjų ar profesinių kompetencijų siunčiami bedarbiai, kurie priskiriami didelių ar vidutinių įsidarbinimo galimybių grupei arba kurie siunčiami mokytis pagal Užimtumo tarnybos nustatytas paklausių kompetencijų neformaliojo suaugusiųjų švietimo programas;
 
 
 
 
-3. Bedarbių neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas vykdomas kompetencijų pripažinimą organizuojančio asmens, kurį pasirenka pats bedarbis.
+2) mokytis valstybinės kalbos siunčiami bedarbiai ar užimti asmenys, kurie yra kitų Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybių narių piliečiai ir jų šeimos nariai, gyvenantys Lietuvos Respublikoje;
 
 
 
 
-4. Bedarbiams skiriamos lėšos neformaliojo švietimo ir savišvietos būdu įgytoms kompetencijoms pripažinti negali viršyti 0,47 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
- 
+3) mokytis valstybinės kalbos siunčiami bedarbiai ar užimti asmenys, nurodyti šio įstatymo 1 straipsnio 2 dalies 3 punkte, jeigu jų turimas leidimas gyventi Lietuvos Respublikoje galioja ne trumpiau kaip vienus metus.
 
 
 
 
-5. Bedarbių neformaliojo švietimo ir savišvietos būdu įgytų kompetencijų pripažinimas pagal šio straipsnio nuostatas gali būti organizuojamas ne daugiau kaip 3 kartus per vienus metus. 
+
+
+2. Bedarbių ar užimtų asmenų neformalųjį suaugusiųjų švietimą vykdo švietimo teikėjas, kurį pasirenka pats bedarbis ar užimtas asmuo, o jeigu sudaryta trišalė sutartis, – suderinęs su darbdaviu. Užimtumo tarnyba, remdamasi šio straipsnio 1 dalyje nurodytomis sutartimis, išduoda bedarbiui ar užimtam asmeniui Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos dokumentą, kuriuo įsipareigoja sumokėti bedarbio ar užimto asmens pasirinktam švietimo teikėjui nurodytą pinigų sumą už įvykdytą neformalųjį suaugusiųjų švietimą. Tarp pasirinkto švietimo teikėjo ir bedarbio ar užimto asmens sudaroma Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos mokymo sutartis, pagal kurią švietimo teikėjas kas mėnesį raštu ar elektroninių ryšių priemonėmis Užimtumo tarnybai teikia informaciją apie bedarbio ar užimto asmens mokymo programos lankomumą (nurodomas bedarbio ar užimto asmens vardas, pavardė, gimimo data, mokymo programos pavadinimas, lankytos ir nelankytos dienos, valandos).
+
+
+
+
+3. Bedarbių ar užimtų asmenų neformaliajam suaugusiųjų švietimui (kvalifikacijai tobulinti ar kompetencijai įgyti) skiriama lėšų suma negali viršyti 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių. Šis apribojimas netaikomas kelionių į neformaliojo suaugusiųjų švietimo vykdymo vietą ir atgal bei šio įstatymo 37 straipsnio 13 dalies 2, 4 ir 5 punktuose numatytoms išlaidoms.
+
+
+
+
+4. Bedarbiams mokymo stipendija mutatis mutandis mokama šio įstatymo 37 straipsnio 6 dalyje nustatytomis sąlygomis. 
+
+
+
+
+5. Bedarbių kelionių, apgyvendinimo, privalomojo sveikatos tikrinimo ir skiepijimo nuo užkrečiamųjų ligų išlaidos mutatis mutandis apmokamos šio įstatymo 37 straipsnio 7 ir 8 dalyse nustatytomis sąlygomis ir tvarka.
+
+
+
+
+6. Bedarbių ar užimtų asmenų neformalusis suaugusiųjų švietimas pakartotinai gali būti organizuojamas pagal kitą neformaliojo suaugusiųjų švietimo programą ir ne anksčiau kaip po vienų metų, baigus neformaliojo suaugusiųjų švietimo programą, išskyrus atvejus, kai dėl sveikatos būklės asmuo negali dirbti pagal įgytą kvalifikaciją ir (ar) kompetenciją.
+
+
+
+
+7. Užimtumo tarnybai privalo atlyginti visas jos patirtas išlaidas:
+
+
+1) bedarbis ar užimtas asmuo, išskyrus šio straipsnio 1 dalies 2 ir 3 punktuose nurodytus asmenis, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje trišalėje sutartyje nustatytų įsipareigojimų nenutraukti mokymosi pagal neformaliojo suaugusiųjų švietimo programą arba įsidarbinti, arba nenutraukti darbo sutarties 6 mėnesius;
+
+
+
+
+2) darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje trišalėje sutartyje nustatyto įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius;
+
+
+
+
+3) bedarbis ar užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje dvišalėje sutartyje nustatyto įsipareigojimo nenutraukti mokymosi pagal neformaliojo suaugusiųjų švietimo programą.
+
+
+
+
+
+
+8. Svarbios priežastys, kurioms esant neprivaloma atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 9 dalyje nurodytų išlaidų, bedarbiui ar užimtam asmeniui nustatytos šio įstatymo 37 straipsnio 15 dalyje, darbdaviui – šio įstatymo 37 straipsnio 16 dalyje.
+
+
+
+
+9. Užimtumo tarnybai atlyginamos neformaliojo suaugusiųjų švietimo vykdymo, kelionių į neformaliojo suaugusiųjų švietimo vykdymo vietą ir atgal bei šio įstatymo 37 straipsnio 13 dalies 2, 4 ir 5 punktuose nurodytos išlaidos.
 
 
 Papildyta straipsniu:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
 
 
-40 straipsnis. Parama judumui
+393 straipsnis. Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimas
 
 
-1. Paramos judumui tikslas – kompensuoti kelionės išlaidas į darbo, stažuotės atlikimo vietą ar į Užimtumo tarnybos organizuojamus konsultavimo grupėms užsiėmimus ir atgal:
+1. Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimas organizuojamas bedarbiams ir užimtiems asmenims, kurie numato mokytis ir įgyti kvalifikaciją ir (ar) kompetencijas, įtrauktas į Užimtumo tarnybos direktoriaus tvirtinamą Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų sąrašą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos formos trišalėje arba dvišalėje sutartyje numatytomis sąlygomis. Trišalė sutartis sudaroma tarp Užimtumo tarnybos, darbdavio, kuris įdarbins bedarbį ar užimtą asmenį arba pas kurį dirba užimtas asmuo, ir bedarbio, kuris įsidarbins laisvoje darbo vietoje, ar užimto asmens, kuris įsidarbins laisvoje darbo vietoje ar pasiliks dirbti pas tą patį darbdavį. Dvišalė sutartis sudaroma tarp Užimtumo tarnybos ir bedarbio ar užimto asmens. Bedarbiai ir užimti asmenys, siekiantys įgyti aukštą pridėtinę vertę kuriančias kvalifikacijas ir kompetencijas, profesiniame mokyme dalyvauja šio įstatymo 37 straipsnyje nustatyta tvarka ir neformaliajame suaugusiųjų švietime – šio įstatymo 392 straipsnyje nustatyta tvarka. 
 
 
-1) bedarbiui įsidarbinus pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu;
+
+
+2. Į Užimtumo tarnybos direktoriaus tvirtinamą Aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų sąrašą įtraukiamos kvalifikacijos, atitinkančios ne žemesnį negu IV Lietuvos kvalifikacijos sandaros lygį, ir šiuos kvalifikacijų lygius pagrindžiančios kompetencijos, jeigu kvalifikacijos ir kompetencijos susijusios su investavimu į mokslinius tyrimus, eksperimentinę plėtrą bei inovacijas (toliau – MTEPI) ir su Lietuvos Respublikos Vyriausybės nustatytomis prioritetinėmis Lietuvos MTEPI raidos kryptimis.
+
+
+
+
+3. Bedarbiams ar užimtiems asmenims aukštą pridėtinę vertę kuriančioms į šio straipsnio 1 dalyje nurodytą sąrašą įtrauktoms kvalifikacijoms dalyvaujant profesiniame mokyme įgyti skiriama lėšų suma negali viršyti 9 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių, o į šio straipsnio 1 dalyje nurodytą sąrašą įtrauktoms kvalifikacijoms tobulinti ar kompetencijoms įgyti skiriama lėšų suma negali viršyti 5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių. Šie apribojimai netaikomi bedarbiui dėl išlaidų, kurios numatytos šio įstatymo 37 straipsnio 13 dalies 2–5 punktuose, užimtam asmeniui – dėl šio įstatymo 37 straipsnio 13 dalies 2 punkte numatytų išlaidų. Užimtam asmeniui, kuris aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimo metu buvo atleistas iš darbo ir kuriam suteiktas bedarbio statusas, aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimo laikotarpiu mokama šio straipsnio 5 dalyje bedarbiams nustatyto dydžio mokymo stipendija ir kompensuojamos šio įstatymo 37 straipsnio 13 dalies 3 ir 4 punktuose nurodytos išlaidos.
+
+
+
+
+4. Bedarbiams ar užimtiems asmenims aukštą pridėtinę vertę kuriančioms kompetencijoms dalyvaujant neformaliajame suaugusiųjų švietime įgyti skiriama lėšų suma negali viršyti 5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių. Šis apribojimas netaikomas kelionių į neformaliojo suaugusiųjų švietimo vykdymo vietą ir atgal bei šio įstatymo 37 straipsnio 13 dalies 2, 4 ir 5 punktuose numatytoms išlaidoms.
+
+
+
+
+5. Bedarbiams mokymo stipendija mutatis mutandis mokama šio įstatymo 37 straipsnio 6 dalyje nustatytomis sąlygomis. Užimtiems asmenims per visą mokymosi laikotarpį pagal lankytas valandas kartą per mėnesį mokama 0,3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija.
+
+
+
+
+6. Bedarbių kelionių, apgyvendinimo, privalomojo sveikatos tikrinimo ir skiepijimo nuo užkrečiamųjų ligų išlaidos mutatis mutandis apmokamos šio įstatymo 37 straipsnio 7 ir 8 dalyse nustatytomis sąlygomis ir tvarka.
+
+
+
+
+7. Bedarbių ar užimtų asmenų aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų įgijimas pakartotinai gali būti organizuojamas pagal kitą profesinio mokymo ar neformaliojo švietimo programą ir ne anksčiau kaip po 3 metų, baigus profesinį mokymą ar neformaliojo suaugusiųjų švietimo programą, išskyrus atvejus, kai dėl sveikatos būklės asmuo negali dirbti pagal įgytą kvalifikaciją ir (ar) kompetenciją.
+
+
+
+
+8. Užimtumo tarnybai privalo atlyginti visas jos patirtas išlaidas:
+
+
+1) bedarbis ar užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje trišalėje sutartyje nustatytų įsipareigojimų nenutraukti mokymosi pagal profesinio mokymo ar neformaliojo suaugusiųjų švietimo programą arba įsidarbinti, arba nenutraukti darbo sutarties 6 mėnesius;
+
+
+
+
+2) darbdavys, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje trišalėje sutartyje nustatyto įsipareigojimo be svarbių priežasčių nenutraukti darbo sutarties 6 mėnesius;
+
+
+
+
+3) bedarbis ar užimtas asmuo, be svarbių priežasčių nevykdantis šio straipsnio 1 dalyje nurodytoje dvišalėje sutartyje nustatyto įsipareigojimo nenutraukti mokymosi pagal profesinio mokymo ar neformaliojo suaugusiųjų švietimo programą.
+
+
+
+
+
+
+9. Svarbios priežastys, kurioms esant neprivaloma atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 10 dalyje nurodytų išlaidų, bedarbiui ar užimtam asmeniui nustatytos šio įstatymo 37 straipsnio 15 dalyje, darbdaviui – šio įstatymo 37 straipsnio 16 dalyje.
+
+
+
+
+10. Užimtumo tarnybai atlyginamos profesinio mokymo ar neformaliojo suaugusiųjų švietimo vykdymo, kelionių į profesinio mokymo ar neformaliojo suaugusiųjų švietimo vykdymo vietą ir atgal bei šio įstatymo 37 straipsnio 13 dalies 2, 4 ir 5 punktuose nurodytos išlaidos.
+
+
+Papildyta straipsniu:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
+
+
+
+
+40 straipsnis. Parama judumui
+
+
+1. Paramos judumui tikslas – kompensuoti kelionių į darbo, darbo pokalbio, stažuotės atlikimo ar konsultacinių užsiėmimų vietą ir atgal išlaidas:
+
+
+1) bedarbiui įsidarbinus pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu; 
 
 
 
@@ -2710,37 +2991,40 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-3) bedarbiui dalyvaujant jo individualiame užimtumo veiklos plane numatytuose konsultavimo grupėms užsiėmimuose; 
+3) bedarbiui dalyvaujant konsultaciniuose užsiėmimuose;
 
 
 
 
-4) darbdaviui, įdarbinusiam Užimtumo tarnybos siunčiamą bedarbį ir patiriančiam bedarbio, esant jo sutikimui, vežimo į darbo vietą ir atgal išlaidas.
+4) bedarbiui pagal Užimtumo tarnybos pateiktą tinkamo darbo pasiūlymą vykstant į darbo pokalbį su darbdaviu;
+
+
+
+
+5) darbdaviui, įdarbinusiam Užimtumo tarnybos siunčiamą bedarbį, patiriant bedarbio vežimo į darbo vietą ir atgal, esant jo sutikimui, išlaidų.
 
 
 
 
 
 
-2. Kelionės išlaidos kompensuojamos, kai asmuo dėl paramos judumui į Užimtumo tarnybą kreipiasi per 3 darbo dienas nuo įsidarbinimo arba dalyvavimo remiamojo įdarbinimo priemonėse ar stažuotėje pradžios ar po dalyvavimo konsultavimo grupėms užsiėmimuose ir kai nustatoma, kad asmens gyvenamoji vieta yra ne toje pačioje gyvenamojoje vietovėje, kurioje yra darbo, stažuotės atlikimo ar konsultavimo grupėms užsiėmimų vieta, ne ilgiau kaip 3 mėnesius nuo įsidarbinimo arba dalyvavimo remiamojo įdarbinimo priemonėse ar stažuotėje pradžios ir ne daugiau kaip 5 kartus vienos registracijos Užimtumo tarnyboje laikotarpiu, dalyvavus bedarbio individualiame užimtumo veiklos plane numatytuose konsultavimo grupėms užsiėmimuose. Kelionės išlaidos darbdaviui kompensuojamos, kai jis dėl paramos judumui į Užimtumo tarnybą kreipiasi per 3 darbo dienas nuo bedarbio įdarbinimo dienos ir kai nustatoma, kad įdarbinto bedarbio gyvenamoji vieta yra ne toje pačioje gyvenamojoje vietovėje, kurioje yra darbo vieta.
+2. Kelionių išlaidos kompensuojamos, jeigu asmuo dėl paramos judumui į Užimtumo tarnybą kreipiasi per vieną mėnesį nuo įsidarbinimo arba dalyvavimo remiamojo įdarbinimo priemonėse ar stažuotėje pradžios arba baigęs dalyvauti konsultaciniuose užsiėmimuose ar darbo pokalbyje ir jeigu nustatoma, kad asmens gyvenamoji vieta yra ne toje pačioje gyvenamojoje vietovėje, kurioje yra darbo, darbo pokalbio, stažuotės atlikimo ar konsultacinių užsiėmimų vieta, ne ilgiau kaip 4 mėnesius nuo įsidarbinimo arba dalyvavimo remiamojo įdarbinimo priemonėse ar stažuotėje, ar konsultaciniuose užsiėmimuose pradžios ir ne daugiau kaip 5 kartus vienos registracijos Užimtumo tarnyboje laikotarpiu, jeigu bedarbis vyksta į darbo pokalbį su darbdaviu. Kelionių išlaidos darbdaviui kompensuojamos, jeigu jis dėl paramos judumui į Užimtumo tarnybą kreipiasi per vieną mėnesį nuo bedarbio įdarbinimo dienos ir jeigu nustatoma, kad įdarbinto bedarbio gyvenamoji vieta yra ne toje pačioje gyvenamojoje vietovėje, kurioje yra darbo vieta.
 
 
 
 
-3. Paramos judumui dydis sudaro 26,6 procento Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis neviršija vieno Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, arba 19,39 procento Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis viršija vieną Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį, bet neviršija Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžio. Jeigu asmens darbo užmokestis viršija Lietuvos statistikos departamento paskelbtą paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydį, parama judumui tokiam asmeniui neskiriama.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
- 
+3. Paramos judumui dydis – ne daugiau kaip 30 procentų Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio.
 
 
 
 
-4. Kelionės išlaidų kompensacijų bedarbiui, dalyvaujančiam jo individualiame užimtumo veiklos plane numatytuose konsultavimo grupėms užsiėmimuose, stažuotėje, ir darbdaviui, patiriančiam bedarbio vežimo į darbo vietą ir atgal išlaidas, dydžiai nustatomi Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, atsižvelgiant į atstumą tarp gyvenamosios vietos, Užimtumo tarnybos, darbo ar stažuotės atlikimo vietos ir transporto priemonės rūšį. 
+4. Kelionių išlaidų kompensacijų, mokamų bedarbiui, dalyvaujančiam jo individualiame užimtumo veiklos plane numatytuose konsultaciniuose užsiėmimuose, stažuotėje, vykstančiam į darbo vietą ar pokalbio su darbdaviu vietą ir atgal, darbdaviui, patiriančiam bedarbio vežimo į darbo vietą ir atgal išlaidų, dydžiai nustatomi Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, atsižvelgiant į atstumą tarp gyvenamosios vietos, darbo, darbo pokalbio, konsultacinių užsiėmimų ar stažuotės atlikimo vietos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -3177,7 +3461,7 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 44 straipsnis. Parama darbo vietoms steigti
 
 
-1. Darbo vietoms steigti yra teikiama ši parama:
+1. Darbo vietoms steigti teikiama ši parama:
 
 
 1) darbo vietų steigimo (pritaikymo) subsidijavimas;
@@ -3190,46 +3474,39 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-3) savarankiško užimtumo rėmimas.
+3) parama verslui kurti.
 
 
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodyta parama teikiama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Užimtumo tarnybos atrinktiems darbdaviams (toliau – subsidijos gavėjai) šio įstatymo 45, 46 ir 47 straipsniuose nurodytais atvejais ir nustatyta tvarka, mokant subsidiją su steigiamos darbo vietos darbo funkcijų atlikimu susijusioms darbo priemonėms ar techninės pagalbos priemonėms neįgaliesiems įsigyti, montuoti, pritaikyti ir nuosavybės teise valdomoms patalpoms, reikalingoms darbo vietai įrengti, remontuoti ar pritaikyti, kai planuojamos išlaidos patalpoms remontuoti ar pritaikyti neviršija 50 procentų visos subsidijos steigiamoms darbo vietoms dydžio.
+2. Šio straipsnio 1 dalyje nurodyta parama teikiama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Užimtumo tarnybos atrinktiems darbdaviams (toliau – subsidijos gavėjai) šio įstatymo 45, 46 ir 47 straipsniuose nurodytais atvejais ir nustatyta tvarka, mokant subsidiją tiesioginėms funkcijoms steigiamoje darbo vietoje atlikti būtinoms darbo priemonėms ar techninės pagalbos priemonėms neįgaliesiems įsigyti, montuoti, pritaikyti ir nuosavybės teise valdomoms patalpoms, reikalingoms darbo vietai įrengti, remontuoti ar pritaikyti, jeigu planuojamos išlaidos patalpoms remontuoti ar pritaikyti neviršija 50 procentų visos subsidijos steigiamoms darbo vietoms dydžio.
 
 
 
 
-3. Paramos darbo vietoms steigti dydis vienai darbo vietai negali viršyti 31,03 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos, o kai savo vykdomos ekonominės veiklos rūšį keičiantis savarankiškai dirbantis asmuo, gavęs šio įstatymo 51 straipsnyje nurodytą išmoką savarankiškai dirbančiam asmeniui, steigia darbo vietą sau, jam skiriamos paramos jo darbo vietai steigti dydis negali viršyti 11,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos. Šie dydžiai taikomi tais atvejais, kai numatoma įsteigti darbo vietas ir įdarbinti šio įstatymo 45, 46 ir 47 straipsniuose nurodytus asmenis, nustatant jiems Lietuvos Respublikos darbo kodekse numatytą savaitės darbo laiko trukmę. Numatant įsteigti darbo vietas ir įdarbinti šio įstatymo 45, 46 ir 47 straipsniuose nurodytus asmenis nustatant jiems ne visą darbo dieną arba ne visą darbo savaitę, kaip tai nurodyta Lietuvos Respublikos darbo kodekse, išskyrus šio įstatymo 25 straipsnio 1, 2 ir 3 punktuose nurodytų asmenų, kurie dėl sveikatos būklės gali dirbti ne visą darbo dieną ar ne visą darbo savaitę, įdarbinimo atvejus, paramos dydis mažinamas proporcingai, atsižvelgiant į numatomą dirbti darbo laiką (valandas). 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+3. Paramos vienai darbo vietai steigti dydis negali viršyti 31 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio. Šis dydis taikomas, kai numatoma įsteigti darbo vietas ir įdarbinti šio įstatymo 45, 46 ir 47 straipsniuose nurodytus asmenis, nustatant jiems Lietuvos Respublikos darbo kodekse numatytą savaitės darbo laiko trukmę. Numatant įsteigti darbo vietas ir įdarbinti šio įstatymo 45, 46 ir 47 straipsniuose nurodytus asmenis, nustatant jiems ne visą darbo dieną arba ne visą darbo savaitę, kaip nurodyta Lietuvos Respublikos darbo kodekse, išskyrus šio įstatymo 25 straipsnio 1, 2 ir 3 punktuose nurodytų asmenų, kurie dėl sveikatos būklės gali dirbti ne visą darbo dieną ar ne visą darbo savaitę, įdarbinimo atvejus, paramos dydis mažinamas proporcingai, atsižvelgiant į numatomą dirbti darbo laiką (valandas).
 
 
 
 
-4. Panaikinę įsteigtą (pritaikytą) darbo vietą, subsidijos gavėjai, išskyrus sau darbo vietas įsteigusių subsidijos gavėjų mirties atvejus, turi Užimtumo tarnybai grąžinti:
+4. Panaikinę įsteigtą (pritaikytą) darbo vietą, subsidijos gavėjai, išskyrus mirusius darbo vietas įsisteigusius subsidijos gavėjus, turi Užimtumo tarnybai grąžinti:
 
 
-1) visą subsidiją, kai darbo vieta panaikinama per 12 mėnesių laikotarpį nuo jos įsteigimo (pritaikymo) dienos;
-
-
-
-
-2) 80 procentų subsidijos, kai darbo vieta panaikinama 13–24 mėnesį nuo jos įsteigimo (pritaikymo) dienos, išskyrus atvejus, kai subsidijos gavėjai buvo šio įstatymo 47 straipsnio 3 dalies 3 punkte nurodyti asmenys;
+1) visą subsidiją, jeigu darbo vieta panaikinama per 12 mėnesių nuo jos įsteigimo (pritaikymo) dienos;
 
 
 
 
-3) 50 procentų subsidijos, kai darbo vieta panaikinama 25–36 mėnesį nuo jos įsteigimo (pritaikymo) dienos, išskyrus atvejus, kai subsidijos gavėjai buvo šio įstatymo 47 straipsnio 3 dalies 3 punkte nurodyti asmenys. 
+2) 80 procentų subsidijos, jeigu darbo vieta panaikinama 13–24 mėnesį nuo jos įsteigimo (pritaikymo) dienos;
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+
+
+3) 50 procentų subsidijos, jeigu darbo vieta panaikinama 25–36 mėnesį nuo jos įsteigimo (pritaikymo) dienos.
+
+
 
 
 
@@ -3237,50 +3514,37 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 5. Šio straipsnio 4 dalyje nurodytu darbo vietos panaikinimu laikomi atvejai, kai, nepraėjus 36 mėnesių laikotarpiui nuo darbo vietos įsteigimo dienos, atsiranda bent viena iš šių sąlygų:
 
 
-1) darbo sutartis su įdarbintu asmeniu nutraukiama ir per 30 darbo dienų nuo darbo sutarties nutraukimo dienos, į šį terminą neįskaičiuojant laikotarpio, kurį Lietuvos Respublikos Vyriausybė buvo paskelbusi ekstremaliąją situaciją ir karantiną, į šią atsilaisvinusią darbo vietą nepriimamas nustatytus ar patikslintus kvalifikacinius reikalavimus atitinkantis Užimtumo tarnybos siunčiamas asmuo, išskyrus savarankiško užimtumo rėmimą; 
-TAR pastaba. 5 dalies 1 punkto nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo.
-Straipsnio punkto pakeitimai:
-Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+1) darbo sutartis su įdarbintu asmeniu nutraukiama ir per 30 darbo dienų nuo jos nutraukimo dienos, į šį terminą neįskaičiuojant laikotarpio, kurį Lietuvos Respublikos Vyriausybė buvo paskelbusi ekstremaliąją situaciją ir karantiną, į šią atsilaisvinusią darbo vietą nepriimamas nustatytus ar patikslintus kvalifikacinius reikalavimus atitinkantis Užimtumo tarnybos siunčiamas asmuo, išskyrus paramą verslui kurti; 
 
 
 
 
-2) įdarbinto asmens darbo vietoje prastova ne dėl darbuotojo kaltės tęsiasi ilgiau kaip 30 kalendorinių dienų iš eilės, išskyrus atvejus, kai prastova tęsiasi dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino, arba įdarbintas asmuo neatvyksta į darbą ilgiau kaip 120 dienų iš eilės dėl jam suteiktų nemokamų atostogų, taip pat jeigu jam darbo sutartyje nustatytomis sąlygomis ir terminais daugiau kaip 2 mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
-Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
-Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
- 
+2) prastova įdarbinto asmens darbo vietoje ne dėl jo kaltės tęsiasi ilgiau kaip 30 kalendorinių dienų iš eilės, išskyrus atvejus, kai prastova tęsiasi dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino, arba įdarbintas asmuo neatvyksta į darbą ilgiau kaip 120 dienų dėl jam suteiktų nemokamų atostogų, arba įdarbintam asmeniui darbo sutartyje nustatytomis sąlygomis ir terminais 2 mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis; 
 
 
 
 
-3) įdarbinto asmens darbo sutartyje keičiama darbo vieta ar funkcijos be Užimtumo tarnybos sutikimo (šiuo atveju darbo vieta laikoma panaikinta nuo darbo vietos ar funkcijų pakeitimo dienos);
+3) keičiama įdarbinto asmens darbo sutartyje nustatyta darbo vieta ar funkcijos be Užimtumo tarnybos sutikimo (šiuo atveju darbo vieta laikoma panaikinta nuo darbo vietos ar funkcijų pakeitimo dienos);
 
 
 
 
-4) šio įstatymo 25 straipsnio 1, 2, 6 ar 8 punkte nurodytas bedarbis, pradėjęs savo verslą sau įsteigtoje darbo vietoje, ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdo veiklos, išskyrus atvejus, kai bedarbis, pradėjęs savo verslą sau įsteigtoje darbo vietoje, informuoja Užimtumo tarnybą, kad ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdys veiklos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir (arba) atostogų vaikui prižiūrėti arba privalomosios pradinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos ar alternatyviosios krašto apsaugos tarnybos atlikimo, nurodydamas veiklos nevykdymo laikotarpį. Įsteigtos darbo vietos išlaikymo ne mažiau kaip 36 mėnesius laikotarpis šiame punkte nurodytais atvejais pratęsiamas tiek, kiek trunka veiklos nevykdymo laikotarpis; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
- 
+4) šio įstatymo 47 straipsnio 2 dalyje nurodytais atvejais asmenys, pradėję savo verslą įsteigtoje darbo vietoje, ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per 36 mėnesius nuo darbo vietos įsteigimo nevykdo veiklos, išskyrus atvejus, kai asmuo, pradėjęs savo verslą įsteigtoje darbo vietoje, raštu ar elektroninių ryšių priemonėmis informuoja Užimtumo tarnybą, kad ilgiau kaip 126 dienas iš eilės arba daugiau kaip 140 dienų per ateinančius 12 mėnesių nevykdys veiklos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir (arba) atostogų vaikui prižiūrėti arba privalomosios pradinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos ar alternatyviosios krašto apsaugos tarnybos atlikimo, nurodydamas savo vardą, pavardę, gimimo datą ir veiklos nevykdymo laikotarpį. Įsteigtos darbo vietos išlaikymo ne mažiau kaip 36 mėnesius laikotarpis šiame punkte nurodytais atvejais pratęsiamas tiek, kiek trunka veiklos nevykdymo laikotarpis;
 
 
 
 
-5) įsiteisėja teismo nutartis iškelti bankroto bylą subsidijos gavėjui arba kreditorių susirinkimas priima nutarimą bankroto procedūras vykdyti ne teismo tvarka ir dėl šios priežasties atleidžiami už subsidijos lėšas įsteigtose darbo vietose dirbę asmenys, o jeigu už subsidijos lėšas įsteigtos darbo vietos nebuvo užpildytos, darbo vieta laikoma panaikinta nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo dienos arba kreditorių susirinkimui priėmus nutarimą bankroto procedūras vykdyti ne teismo tvarka; 
+5) įsiteisėja teismo nutartis iškelti bankroto bylą subsidijos gavėjui arba kreditorių susirinkimas priima nutarimą bankroto procedūras vykdyti ne teismo tvarka ir dėl šios priežasties atleidžiami už subsidijos lėšas įsteigtose darbo vietose dirbę asmenys, o jeigu už subsidijos lėšas įsteigtos darbo vietos nebuvo užimtos, darbo vieta laikoma panaikinta nuo teismo nutarties iškelti bankroto bylą įsiteisėjimo arba kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dienos; 
 
 
 
 
-6) kai priimamas sprendimas subsidijos gavėją likviduoti, darbo vieta laikoma panaikinta nuo likviduojamos įmonės statuso įregistravimo Juridinių asmenų registre dienos;
+6) priimamas sprendimas subsidijos gavėją likviduoti – darbo vieta laikoma panaikinta nuo likviduojamos įmonės statuso įregistravimo Juridinių asmenų registre dienos;
 
 
 
 
-7) subsidijos gavėjas per 20 darbo dienų be pateisinamos priežasties neatsako į Užimtumo tarnybos raštu pateiktą kreipimąsi dėl informacijos, susijusios su darbo vietų steigimu, išlaikymu ar kontrole, pateikimo.
+7) subsidijos gavėjas per 20 darbo dienų be pateisinamos priežasties neatsako į Užimtumo tarnybos raštu ar elektroninių ryšių priemonėmis pateiktą kreipimąsi dėl informacijos, susijusios su darbo vietų steigimu, išlaikymu ar kontrole, pateikimo.
 
 
 
@@ -3300,7 +3564,7 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-3) raštu praneša Užimtumo tarnybai apie atsisakymą vykdyti sutartinius įsipareigojimus arba jų nevykdo, jeigu prieš tai nors kartą jam buvo išsiųstas Užimtumo tarnybos įspėjimas apie sutartinių įsipareigojimų nevykdymą, išskyrus darbo vietos panaikinimo atvejį;
+3) raštu ar elektroninių ryšių priemonėmis praneša Užimtumo tarnybai apie atsisakymą vykdyti sutartinius įsipareigojimus (nurodomas juridinio asmens pavadinimas ir kodas arba fizinio asmens vardas, pavardė, gimimo data) arba jų nevykdo, jeigu prieš tai nors kartą jam buvo išsiųstas Užimtumo tarnybos įspėjimas apie sutartinių įsipareigojimų nevykdymą, išskyrus darbo vietos panaikinimo atvejį;
 
 
 
@@ -3310,12 +3574,12 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-5) nesudaro sąlygų Užimtumo tarnybai atlikti darbo vietos steigimo arba šioje darbo vietoje vykdomos veiklos 36 mėnesius nuo jos įsteigimo (pritaikymo) patikros vietoje ar, Užimtumo tarnybai pareikalavus, neteikia su sutarties vykdymu susijusios informacijos;
+5) nesudaro sąlygų Užimtumo tarnybai atlikti darbo vietos steigimo arba šioje darbo vietoje 36 mėnesius nuo jos įsteigimo (pritaikymo) vykdomos veiklos patikros vietoje ar, Užimtumo tarnybai pareikalavus, neteikia su sutarties vykdymu susijusios informacijos;
 
 
 
 
-6) pateikė žinomai klaidingą informaciją apie tikslus ir išlaidas, dėl kurių buvo prašoma konkreti subsidija;
+6) pateikė žinomai klaidingą informaciją apie išlaidas ir tikslus, kuriems buvo prašoma konkreti subsidija;
 
 
 
@@ -3327,7 +3591,7 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-7. Subsidijos gavėjas, išskyrus šio įstatymo 47 straipsnio 3 dalies 3 punkte nurodytus subsidijos gavėjus, privalo:
+7. Subsidijos gavėjas privalo:
 
 
 1) apmokėti ne mažiau kaip 35 procentus, išskyrus atvejus, kai įdarbinami neįgalieji (už kiekvieną neįgalų darbuotoją, kuriam nustatytas sunkus neįgalumo lygis ar 25 procentų neviršijantis darbingumo lygis (iki 2005 m. liepos 1 d. – I grupės invalidą), – 20 procentų; už neįgalų darbuotoją, kuriam nustatytas vidutinis neįgalumo lygis ar 30–40 procentų darbingumo lygis (iki 2005 m. liepos 1 d. – II grupės invalidą), – 30 procentų), darbo vietų steigimo (pritaikymo) išlaidų ir įsteigtą (pritaikytą) darbo vietą išlaikyti ne mažiau kaip 36 mėnesius nuo Užimtumo tarnybos siųstų asmenų įdarbinimo. Darbdavys savo sprendimu gali nustatyti didesnę, negu nurodyta šioje dalyje, nuosavų lėšų dalį, skiriamą darbo vietų steigimo (pritaikymo) išlaidoms apmokėti;
@@ -3335,7 +3599,7 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-2) iki vienos iš paramos darbo vietoms steigti priemonių įgyvendinimo sutarčių pasirašymo dienos Užimtumo tarnybai pateikti šios sutarties galiojimo užtikrinimą ne mažiau kaip 50 procentų numatytos skirti subsidijos sumos sutarties galiojimo laikotarpiu, kai yra steigiama (pritaikoma) daugiau negu viena darbo vieta, išskyrus atvejus, kai darbo vieta steigiama (pritaikoma) Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu ir (ar) 3 mėnesius po to, kai Lietuvos Respublikos Vyriausybė atšaukia paskelbtą ekstremaliąją situaciją ar karantiną ar sueina bent vieno iš jų paskelbimo terminas;
+2) iki vienos iš paramos darbo vietoms steigti priemonių įgyvendinimo sutarties pasirašymo dienos Užimtumo tarnybai pateikti šios sutarties galiojimo užtikrinimą, kurio dydis – ne mažiau kaip 50 procentų numatytos skirti subsidijos sumos sutarties galiojimo laikotarpiu;
 
 
 
@@ -3345,28 +3609,22 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-4) darbo vietą įsteigti (pritaikyti) ir visiškai atsiskaityti su Užimtumo tarnyba už suteiktą subsidiją ne vėliau kaip per 10 mėnesių nuo vienos iš paramos darbo vietoms steigti priemonių įgyvendinimo sutarties pasirašymo dienos, išskyrus vietinių užimtumo iniciatyvų projektų įgyvendinimo atvejį;
+4) darbo vietą įsteigti (pritaikyti) ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka visiškai atsiskaityti su Užimtumo tarnyba už suteiktą subsidiją ne vėliau kaip per 10 mėnesių nuo vienos iš paramos darbo vietoms steigti priemonių įgyvendinimo sutarties pasirašymo dienos;
 
 
 
 
-5) savo lėšomis apdrausti ilgalaikį materialųjį turtą, kuriam įsigyti steigiant darbo vietą ar ją pritaikant buvo naudota subsidija, maksimaliu turto atkuriamosios vertės draudimu nuo visų galimų rizikos atvejų, nuo kurių draudžia subsidijos gavėjo pasirinkta draudimo bendrovė, ne mažiau kaip 36 mėnesius nuo darbo vietos įsteigimo dienos, o šio straipsnio 5 dalies 4 punkte nurodytais atvejais – ne trumpiau kaip iki pratęsto įsteigtos darbo vietos išlaikymo laikotarpio pabaigos, naudos gavėju nurodydamas Užimtumo tarnybą, ir pateikti jai draudimą įrodančius dokumentus. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
+5) savo lėšomis apdrausti ilgalaikį materialųjį turtą, kuriam įsigyti steigiant darbo vietą ar ją pritaikant buvo naudota subsidija, maksimaliu turto atkuriamosios vertės draudimu nuo visų galimų rizikos atvejų, nuo kurių draudžia subsidijos gavėjo pasirinkta draudimo bendrovė, ne mažiau kaip 36 mėnesiams nuo darbo vietos įsteigimo dienos, o šio straipsnio 5 dalies 4 punkte nurodytais atvejais – ne trumpiau kaip iki pratęsto įsteigtos darbo vietos išlaikymo laikotarpio pabaigos, naudos gavėju nurodydamas Užimtumo tarnybą, ir raštu ar elektroninių ryšių priemonėmis pateikti jai draudimą įrodančius dokumentus (draudimo liudijimo kopiją).
 
 
 
 
-8. Subsidijos gavėjas, išskyrus šio įstatymo 47 straipsnio 3 dalies 3 punkte nurodytus subsidijos gavėjus, per 36 mėnesių laikotarpį nuo darbo vietos įsteigimo (pritaikymo) dienos ir šio straipsnio 5 dalies 4 punkte nurodytais atvejais pratęstą įsteigtos darbo vietos išlaikymo laikotarpį be Užimtumo tarnybos sutikimo neturi teisės:
 
 
-1) parduoti, įkeisti, išnuomoti, dovanoti ar kitaip perleisti arba kitaip suvaržyti teises į už subsidiją darbo vietai steigti įgytą turtą;
+8. Subsidijos gavėjas per 36 mėnesių laikotarpį nuo darbo vietos įsteigimo (pritaikymo) dienos ir šio straipsnio 5 dalies 4 punkte nurodytais atvejais pratęstą įsteigtos darbo vietos išlaikymo laikotarpį be Užimtumo tarnybos sutikimo neturi teisės:
+
+
+1) parduoti, įkeisti, išnuomoti, dovanoti ar kitaip perleisti arba kitaip suvaržyti teises į turtą, įgytą už subsidiją darbo vietai steigti;
 
 
 
@@ -3376,36 +3634,29 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-3) keisti įdarbinto asmens darbo vietą ar darbo funkcijas, nustatyti ne visą darbo laiką arba ne visą darbo savaitę, kaip tai nurodyta Lietuvos Respublikos darbo kodekse, jeigu to nebuvo numatęs paraiškoje subsidijai darbo vietai (vietoms) steigti gauti, išskyrus šio įstatymo 25 straipsnio 1, 2 ir 3 punktuose nurodytų asmenų, kurie dėl sveikatos būklės gali dirbti ne visą darbo dieną ar ne visą darbo savaitę, įdarbinimo atvejus. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
-Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
-Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
- 
+3) keisti įdarbinto asmens darbo vietą ar darbo funkcijas, nustatyti ne visą darbo laiką arba ne visą darbo savaitę, kaip nurodyta Lietuvos Respublikos darbo kodekse, jeigu to nebuvo numatęs paraiškoje gauti subsidiją darbo vietai (vietoms) steigti, išskyrus šio įstatymo 25 straipsnio 1, 2 ir 3 punktuose nurodytų asmenų, kurie dėl sveikatos būklės gali dirbti ne visą darbo dieną ar ne visą darbo savaitę, įdarbinimo atvejus.
 
 
 
 
-9. Darbo vietai steigti (pritaikyti) ir asmeniui įdarbinti vienu metu gali būti taikomas tik vienas iš šio straipsnio 1 dalyje nurodytų paramos būdų. Darbdavys negali į už subsidijos darbo vietoms steigti lėšas įsteigtą (pritaikytą) darbo vietą įdarbinti asmens pagal remiamojo įdarbinimo priemones, išskyrus šio įstatymo 41 straipsnio 21 dalyje nurodytą atvejį, kai darbo vietos yra išlaikomos šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
- 
+
+
+9. Darbo vietai steigti (pritaikyti) ir asmeniui įdarbinti vienu metu gali būti taikomas tik vienas iš šio straipsnio 1 dalyje nurodytų paramos būdų. Darbdavys negali į darbo vietą, įsteigtą (pritaikytą) už subsidijos darbo vietai (vietoms) steigti lėšas, įdarbinti asmens pagal remiamojo įdarbinimo priemones, išskyrus šio įstatymo 41 straipsnio 21 dalyje nurodytą atvejį, kai darbo vietos išlaikomos šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims.
 
 
 
 
-10. Užimtumo tarnybai nustačius, kad darbdavys pažeidė šio straipsnio 6, 7 ar 8 dalies nuostatas, toks darbdavys kreiptis dėl paramos gavimo iš naujo gali ne anksčiau kaip nuo subsidijos grąžinimo dienos.
+10. Jeigu Užimtumo tarnyba nustato, kad darbdavys pažeidė šio straipsnio 6, 7 ar 8 dalies nuostatas, toks darbdavys kreiptis dėl paramos gavimo iš naujo gali ne anksčiau kaip nuo subsidijos grąžinimo dienos.
 
 
 
 
-11. Sprendimus dėl subsidijų grąžinimo priima Užimtumo tarnyba. Jos sprendimai gali būti skundžiami teismui. 
+11. Sprendimus dėl subsidijų grąžinimo priima Užimtumo tarnyba.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -3440,86 +3691,60 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 46 straipsnis. Vietinių užimtumo iniciatyvų projektų įgyvendinimas
 
 
-1. Naujų darbo vietų steigimo bedarbiams įdarbinti projektų, padedančių sutelkti vietos bendruomenės ir socialinių partnerių pastangas didinti atskirų savivaldybių (seniūnijų) gyventojų užimtumą (toliau – vietinių užimtumo iniciatyvų projektai), įgyvendinimas organizuojamas bedarbių neterminuotam įdarbinimui remti steigiant naujas darbo vietas.
+1. Naujų darbo vietų steigimo bedarbiams įdarbinti projektų, padedančių sutelkti vietos bendruomenės ir socialinių partnerių pastangas didinti atskirų gyvenamųjų vietovių gyventojų užimtumą (toliau – vietinių užimtumo iniciatyvų projektai), įgyvendinimas organizuojamas steigiant naujas darbo pagal neterminuotas darbo sutartis vietas bedarbiams.
 
 
 
 
-2. Parama darbo vietoms steigti, įgyvendinant vietinių užimtumo iniciatyvų projektus, teikiama Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme nurodytiems smulkiojo ir vidutinio verslo subjektams, kuriuose mažiau kaip pusę balsų dalininkų susirinkime gali turėti valstybės, savivaldybių institucijos, įstaigos ir valstybės ar savivaldybių įmonės.
+2. Parama darbo vietoms steigti, įgyvendinant vietinių užimtumo iniciatyvų projektus, teikiama Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme nurodytiems smulkiojo ir vidutinio verslo subjektams, kuriuose mažiau kaip pusę balsų dalininkų susirinkime gali turėti valstybės ir savivaldybių institucijos ir įstaigos, valstybės ar savivaldybių įmonės.
 
 
 
 
-3. Vietinių užimtumo iniciatyvų projektai įgyvendinami Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytose savivaldybių ar seniūnijų teritorijose, kuriose bedarbių dalis, skaičiuojant nuo darbingo amžiaus gyventojų, projektų įgyvendinimo laikotarpiu yra didesnė negu vidutiniškai šalyje, nedarbo pasekmėms švelninti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+3. Vietinių užimtumo iniciatyvų projektai įgyvendinami Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka patvirtintose gyvenamosiose vietovėse, siekiant palengvinti nedarbo padarinius.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
 
 
+47 straipsnis. Parama verslui kurti
 
 
-47 straipsnis. Savarankiško užimtumo rėmimas
-
-
-1. Savarankiško užimtumo rėmimas organizuojamas šio straipsnio 3 dalyje nurodytiems asmenims, siekiant paremti darbo vietų steigimą sau.
-
-
-
-
-2. Savarankiško užimtumo rėmimas organizuojamas, kai:
-
-
-1) asmenys darbo vietas sau pirmą kartą steigia labai mažose įmonėse, kaip jos apibrėžtos Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme;
+1. Parama verslui kurti teikiama šio straipsnio 2 dalyje nurodytiems asmenims, siekiant paremti darbo vietų steigimą sau arba sau ir Užimtumo tarnybos siųstam bedarbiui (siųstiems bedarbiams), jeigu asmenys darbo vietas sau arba sau ir Užimtumo tarnybos siųstam bedarbiui (siųstiems bedarbiams) steigia labai mažose įmonėse, kaip jos apibrėžtos Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme.
 
 
 
 
-2) darbo vietas steigia šio įstatymo 51 straipsnyje nurodytą išmoką savarankiškai dirbančiam asmeniui gavę savarankiškai dirbantys asmenys, keičiantys vykdomos ekonominės veiklos rūšį. 
+2. Subsidija darbo vietai (vietoms) steigti mokama, jeigu:
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+1) darbo vietą sau arba sau ir Užimtumo tarnybos siųstam bedarbiui (siųstiems bedarbiams) steigia asmuo, kuriam teikiant paramą darbo vietoms steigti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka naudojamos Ekonomikos gaivinimo ir atsparumo didinimo priemonės lėšos, atsižvelgiant į Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos kalendoriniams metams nustatytus prioritetus, kurie padeda įgyvendinti skaitmeninės ir žaliosios transformacijos tikslus, skatinti žiedinę ekonomiką ir (ar) mažinti COVID-19 ligos (koronaviruso infekcijos) poveikį;
+
+
+
+
+2) darbo vietą sau pirmą kartą steigia asmuo, kurio atleidimo iš darbo pasekmėms palengvinti naudojamos Europos prisitaikymo prie globalizacijos padarinių fondo lėšos.
+
+
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodytiems asmenims subsidija darbo vietai (vietoms) steigti mokama šio įstatymo 44 straipsnio 2 ir 3 dalyse nurodytomis sąlygomis ir tvarka, netaikant reikalavimo apmokėti ne mažiau kaip 35 procentus darbo vietoms steigti (pritaikyti atsižvelgiant į neįgaliųjų negalią) reikalingų lėšų ir reikalavimo pateikti sutarties galiojimo užtikrinimą, jeigu darbo vieta steigiama tik sau.
+
+
+
+
+4. Užimtumo tarnyba darbo ieškantiems asmenims, siekiantiems gauti paramą verslui kurti, organizuoja konsultacijas dėl verslo kūrimo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
-
-
-
-
-3. Subsidija darbo vietai steigti mokama, kai:
-
-
-1) darbo vietą sau pirmą kartą steigia šio įstatymo 25 straipsnio 1, 2, 3, 6 ir 8 punktuose nurodyti bedarbiai;
-
-
-
-
-2) darbo vietą sau pirmą kartą steigia asmuo, kurio atleidimo iš darbo pasekmėms švelninti naudojamos Europos prisitaikymo prie globalizacijos padarinių fondo lėšos;
-
-
-
-
-3) darbo vietas steigia šio įstatymo 51 straipsnyje nurodytą išmoką savarankiškai dirbančiam asmeniui gavę savarankiškai dirbantys asmenys, keičiantys vykdomos ekonominės veiklos rūšį. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
- 
-
-
-
-
-4. Šio straipsnio 3 dalyje nurodytiems asmenims subsidija darbo vietai steigti mokama šio įstatymo 44 straipsnio 2 ir 3 dalyse nurodytomis sąlygomis ir tvarka, netaikant reikalavimo apmokėti ne mažiau kaip 35 procentus darbo vietoms steigti (pritaikyti atsižvelgiant į neįgaliųjų negalią) reikalingų lėšų ir reikalavimo pateikti sutarties galiojimo užtikrinimą.
-
-
-
-
-5. Užimtumo tarnyba darbo ieškantiems asmenims, siekiantiems savarankiško užimtumo, organizuoja verslo pradmenų mokymą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
-
-
 
 
 
@@ -3621,9 +3846,17 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-10) vyresni kaip 40 metų. 
+10) vyresni kaip 40 metų;
 Papildyta straipsnio punktu:
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+ 
+
+
+
+
+11) darbo rinkai besirengiantys asmenys.
+Papildyta straipsnio punktu:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -3644,110 +3877,159 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-481 straipsnis. Darbo paieškos išmoka
+481 straipsnis. Atvykimo išmoka iš užsienio pritrauktiems darbuotojams
 
 
-1. Teisę gauti darbo paieškos išmoką turi visas šias sąlygas atitinkantis Užimtumo tarnyboje įsiregistravęs asmuo:
+1. Teisę gauti atvykimo išmoką iš užsienio pritrauktiems darbuotojams turi visas šias sąlygas atitinkantis asmuo:
 
 
-1) asmeniui suteiktas bedarbio statusas;
+1) asmuo 2022 metais arba vėlesniais kalendoriniais metais laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 4 straipsnio nuostatas (toliau – nuolatinis Lietuvos gyventojas), išskyrus asmenis, kuriems nacionalinė viza buvo išduota iki 2022 m. birželio 30 d. Vizos išdavimo tvarkos apraše, tvirtinamame Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro įsakymu, nurodytais atvejais: 
 
 
+a) užsieniečiui, pateikusiam prašymą išduoti ar pakeisti leidimą gyventi Lietuvos Respublikoje arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę;
 
 
-2) bedarbis kreipimosi dėl darbo paieškos išmokos į Užimtumo tarnybą ir sprendimo dėl šios išmokos skyrimo priėmimo metu nedalyvauja aktyvios darbo rinkos politikos priemonėse;
 
 
+b) užsieniečiui, kuris yra valstybės, nurodytos Vizos išdavimo tvarkos aprašo 14 priede, pilietis, dėl kurio atvykimo į Lietuvos Respubliką tarpininkauja juridinis asmuo arba kuris vyksta į Lietuvos Respubliką ilgalaikiam buvimui;
 
 
-3) asmens darbo sutartis ar darbo santykiams prilyginti teisiniai santykiai pasibaigė arba jo savarankiška veikla išregistruota ne anksčiau kaip 3 mėnesiai iki Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino; 
-TAR pastaba. 481 straipsnio 1 dalies 3 punkto nuostata dėl darbo paieškos išmokos mokėjimo asmenims, kurie savarankišką veiklą išregistravo ne anksčiau kaip 3 mėnesiai iki Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino, taikoma apskaičiuojant 2021 m. liepos mėnesio ir vėlesnių mėnesių darbo paieškos išmokos dydį.
-Straipsnio punkto pakeitimai:
-Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
- 
 
 
+c) užsieniečiui, kuris yra nacionalinę vizą arba leidimą laikinai gyventi turinčio valstybės, nurodytos Vizos išdavimo tvarkos aprašo 14 priede, piliečio sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, nepilnametis vaikas (įvaikis), įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, nepilnamečius vaikus;
 
 
-4) asmuo neturi teisės gauti nedarbo socialinio draudimo išmokos ar jos mokėjimo laikotarpis asmens kreipimosi į Užimtumo tarnybą metu yra pasibaigęs.
 
 
+d) kitais atvejais, kai užsieniečio atvykimo į Lietuvos Respubliką tikslas – ilgalaikis buvimas Lietuvos Respublikoje;
 
 
 
 
-2. Šio straipsnio 1 dalyje nustatytas sąlygas atitinkantiems asmenims skiriama ir mokama 33 procentų Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, galiojusios tą mėnesį, už kurį mokama darbo paieškos išmoka, dydžio darbo paieškos išmoka. 
 
 
+2) asmuo, prieš tapdamas nuolatiniu Lietuvos gyventoju, bent 5 ankstesnius kalendorinius metus nebuvo laikomas nuolatiniu Lietuvos gyventoju;
 
 
-3. Darbo paieškos išmoka mokama kas mėnesį už praėjusį kalendorinį mėnesį, bet ne ilgiau kaip iki 2021 m. rugpjūčio 31 d. Jeigu darbo paieškos išmokos mokėjimo terminas trumpesnis negu kalendorinis mėnuo, už tą mėnesį mokamos darbo paieškos išmokos dydis proporcingai mažinamas. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
- 
 
 
+3) asmuo yra su darbdaviu sudaręs neterminuotą darbo sutartį dėl darbo funkcijų atlikimo Lietuvos Respublikos teritorijoje (nuotolinio darbo atveju – dėl darbo funkcijų atlikimo iš Lietuvos Respublikos teritorijos), kurioje numatyta darbo funkcija pagal profesiją, įtrauktą į ekonomikos ir inovacijų ministro tvirtinamą Aukštą pridėtinę vertę kuriančių profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą;
 
 
-4. Šiame straipsnyje nustatytos darbo paieškos išmokos mokėjimas sustabdomas laikotarpiui, kurį asmeniui šio įstatymo 24 straipsnio 1 dalyje nustatytais atvejais sustabdytas bedarbio statusas.
 
 
+4) asmens vidutinis vieno mėnesio bruto darbo užmokestis, skaičiuojant per 6 mėnesių laikotarpį nuo įdarbinimo pagal neterminuotą darbo sutartį, sudarytą vadovaujantis šios dalies 3 punktu, dienos, atitinka vieną iš šių sąlygų:
 
 
-5. Šiame straipsnyje nustatytos darbo paieškos išmokos mokėjimas nutraukiamas, kai:
+a) yra ne mažesnis kaip 4,1 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu darbdavio darbuotojų praeitų kalendorinių metų (prieš asmens įdarbinimą) vidutinis mėnesinis bruto darbo užmokestis buvo mažesnis kaip 4,1 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos;
 
 
-1) pasibaigus darbo paieškos išmokos mokėjimo terminui, nurodytam šio straipsnio 3 dalyje; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-351, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13151
- 
 
 
+b) yra ne mažesnis kaip darbdavio darbuotojų praeitų kalendorinių metų (prieš asmens įdarbinimą) vidutinis mėnesinis bruto darbo užmokestis, jeigu darbdavio darbuotojų praeitų kalendorinių metų (prieš asmens įdarbinimą) vidutinis mėnesinis bruto darbo užmokestis buvo didesnis kaip 4,1 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
 
-2) asmuo nebeatitinka šio straipsnio 1 dalies 1 punkte nustatytos sąlygos darbo paieškos išmokai skirti ir mokėti;
 
 
 
 
-3) asmuo pateikia Užimtumo tarnybai prašymą nutraukti darbo paieškos išmokos mokėjimą.
 
 
+2. Teisę gauti atvykimo išmoką iš užsienio pritrauktiems darbuotojams turi Ukrainos piliečiai, pasitraukę iš Ukrainos dėl Rusijos Federacijos 2022 m. vasario 24 d. pradėtų vykdyti karinių veiksmų Ukrainoje, jeigu šie asmenys atitinka visas šias sąlygas:
 
 
+1) asmuo 2022 metais arba vėlesniais kalendoriniais metais laikomas nuolatiniu Lietuvos gyventoju;
 
 
-6. Darbo paieškos išmokas skiria, moka, jų mokėjimą sustabdo, atnaujina, nutraukia Užimtumo tarnyba. Užimtumo tarnyba priima sprendimą dėl:
 
 
-1) darbo paieškos išmokos skyrimo – ne vėliau kaip per 10 darbo dienų nuo asmens kreipimosi į Užimtumo tarnybą dienos, darbo paieškos išmoką paskiriant nuo asmens kreipimosi į Užimtumo tarnybą dienos;
+2) asmuo yra su darbdaviu sudaręs neterminuotą darbo sutartį dėl darbo funkcijų atlikimo Lietuvos Respublikos teritorijoje (nuotolinio darbo atveju – dėl darbo funkcijų atlikimo iš Lietuvos Respublikos teritorijos);
 
 
 
 
-2) darbo paieškos išmokos mokėjimo sustabdymo – ne vėliau kaip per 5 darbo dienas nuo aplinkybės, nurodytos šio straipsnio 4 dalyje, atsiradimo dienos, darbo paieškos išmokos mokėjimą sustabdant nuo šio straipsnio 4 dalyje nurodytos aplinkybės atsiradimo dienos;
+3) asmens vidutinis vieno mėnesio bruto darbo užmokestis, skaičiuojant per 3 mėnesių laikotarpį nuo įdarbinimo pagal neterminuotą darbo sutartį, sudarytą vadovaujantis šios dalies 2 punktu, dienos, atitinka vieną iš šių sąlygų:
 
 
+a) yra ne mažesnis negu 2,4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu darbdavio darbuotojų praeitų kalendorinių metų (prieš asmens įdarbinimą) vidutinis mėnesinis bruto darbo užmokestis buvo mažesnis kaip 2,4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos;
 
 
-3) darbo paieškos išmokos mokėjimo atnaujinimo – per 5 darbo dienas nuo aplinkybės, nurodytos šio straipsnio 4 dalyje, išnykimo dienos, darbo paieškos išmokos mokėjimą atnaujinant nuo šio straipsnio 4 dalyje nurodytos aplinkybės išnykimo dienos;
 
 
+b) yra ne mažesnis kaip darbdavio darbuotojų praeitų kalendorinių metų (prieš asmens įdarbinimą) vidutinis mėnesinis bruto darbo užmokestis, jeigu darbdavio darbuotojų praeitų kalendorinių metų (prieš asmens įdarbinimą) vidutinis mėnesinis bruto darbo užmokestis buvo didesnis kaip 2,4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 
 
-4) darbo paieškos išmokos mokėjimo nutraukimo – ne vėliau kaip per 5 darbo dienas nuo bent vienos iš aplinkybių, nurodytų šio straipsnio 5 dalyje, atsiradimo dienos.
 
 
 
 
 
 
-7. Kreipimosi dėl darbo paieškos išmokos, šios išmokos skyrimo ir mokėjimo tvarka nustatyta Užimtumo tarnybos direktoriaus patvirtintuose Darbo paieškos išmokų skyrimo ir mokėjimo nuostatuose. 
+3. Šio straipsnio 1 ar 2 dalyje nustatytas sąlygas atitinkantiems asmenims skiriama ir mokama vienkartinė 4,1 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio atvykimo išmoka iš užsienio pritrauktiems darbuotojams.
+
+
+
+
+4. Atvykimo išmoką iš užsienio pritrauktiems darbuotojams skiria ir moka Užimtumo tarnyba. Asmuo dėl atvykimo išmokos iš užsienio pritrauktiems darbuotojams skyrimo kreipiasi į Užimtumo tarnybą ne anksčiau kaip po 6 mėnesių ir ne vėliau kaip per 2 metus nuo jo darbo Lietuvoje pagal neterminuotą darbo sutartį pradžios. Sprendimas dėl atvykimo išmokos iš užsienio pritrauktiems darbuotojams skyrimo priimamas ne vėliau kaip per 15 darbo dienų nuo asmens kreipimosi į Užimtumo tarnybą dienos.
+
+
+
+
+5. Šio straipsnio 4 dalies nuostatos dėl laikotarpio, per kurį asmuo turi kreiptis dėl atvykimo išmokos iš užsienio pritrauktiems darbuotojams skyrimo, netaikomos Ukrainos piliečiams, atitinkantiems šio straipsnio 2 dalyje nustatytas sąlygas. Šie asmenys į Užimtumo tarnybą turi kreiptis ne anksčiau kaip po 3 mėnesių ir ne vėliau kaip per 2 metus nuo jų darbo Lietuvoje pagal neterminuotą darbo sutartį pradžios.
+
+
+
+
+6. Kreipimosi dėl atvykimo išmokos iš užsienio pritrauktiems darbuotojams, šios išmokos skyrimo ir mokėjimo tvarką nustato Užimtumo tarnybos direktorius.
+
+
+
+
+7. Aukštą pridėtinę vertę kuriančių profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą tvirtina ekonomikos ir inovacijų ministras. Į šį sąrašą įtraukiamos Lietuvos profesijų klasifikatoriaus 1, 2 ar 3 pagrindinėms grupėms priskirtos profesijos. Aukštą pridėtinę vertę kuriančių profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašas sudaromas remiantis verslo ir darbdavių asociacijų pateiktais duomenimis, nacionalinės žmogiškųjų išteklių stebėsenos, atliekamos Lietuvos Respublikos Vyriausybės nustatyta tvarka, informacija bei agentūros, kuri atsakinga už tiesioginių užsienio investicijų plėtrą ir kurios savininko teises ir pareigas įgyvendina Lietuvos Respublikos ekonomikos ir inovacijų ministerija, rekomendacijomis.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
 Nr. XIV-131, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28988
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+ 
+
+
+
+
+482 straipsnis. Išmoka darbdaviui, pritraukusiam darbuotoją iš užsienio
+
+
+1. Teisę gauti išmoką darbdaviui, pritraukusiam darbuotoją iš užsienio, turi darbdavys, kuris atitinka visas šias sąlygas:
+
+
+1) darbdavys atitinka šio įstatymo 35 straipsnio 4 dalyje nustatytas sąlygas;
+
+
+
+
+2) darbdavys yra sudaręs neterminuotą darbo sutartį dėl darbo funkcijų atlikimo Lietuvos Respublikos teritorijoje (nuotolinio darbo atveju – dėl darbo funkcijų atlikimo iš Lietuvos Respublikos teritorijos) su asmeniu, kuris atitinka šio įstatymo 481 straipsnio 1 dalyje nustatytas sąlygas ir iki darbo Lietuvos Respublikos teritorijoje pradžios bent 5 ankstesnius kalendorinius metus nebuvo šio darbdavio ar kitos įmonės, atstovybės ar filialo, kurie priklauso tai pačiai įmonių grupei (kaip ji apibrėžiama Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme) kaip ir šis darbdavys, darbuotojas. 
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nustatytas sąlygas atitinkantiems darbdaviams už kiekvieną įdarbintą asmenį, atitinkantį šio įstatymo 481 straipsnio 1 dalyje nustatytas sąlygas, skiriama ir mokama vienkartinė išmoka darbdaviui, pritraukusiam darbuotoją iš užsienio, kurios dydis yra lygus įdarbinto asmens vidutiniam vieno mėnesio bruto darbo užmokesčiui, skaičiuojant per 12 mėnesių laikotarpį nuo asmens įdarbinimo pagal neterminuotą darbo sutartį, sudarytą vadovaujantis šio įstatymo 481 straipsnio 1 dalies 3 punktu, dienos, bet ne didesnis kaip 7,2 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos vienam įdarbintam asmeniui.
+
+
+
+
+3. Išmoką darbdaviui, pritraukusiam darbuotoją iš užsienio, skiria ir moka Užimtumo tarnyba. Darbdavys dėl išmokos darbdaviui, pritraukusiam darbuotoją iš užsienio, skyrimo kreipiasi į Užimtumo tarnybą ne anksčiau kaip po 12 mėnesių ir ne vėliau kaip per 2 metus nuo darbuotojo darbo Lietuvoje pagal neterminuotą darbo sutartį pradžios. Sprendimas dėl išmokos darbdaviui, pritraukusiam darbuotoją iš užsienio, skyrimo priimamas ne vėliau kaip per 15 darbo dienų nuo darbdavio kreipimosi į Užimtumo tarnybą dienos.
+
+
+
+
+4. Kreipimosi dėl išmokos darbdaviui, pritraukusiam darbuotoją iš užsienio, šios išmokos skyrimo ir mokėjimo tvarką nustato Užimtumo tarnybos direktorius.
+
+
+Papildyta straipsniu:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
 
 
@@ -4363,7 +4645,7 @@ Respublikos Prezidentė                            �
 
 
  
- 
+
  
 Lietuvos Respublikos
 užimtumo įstatymo 
@@ -4373,40 +4655,42 @@ priedas
  
 
 
-1. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/123/EB dėl paslaugų vidaus rinkoje (OL 2006 L 376, p. 36).
+1. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/123/EB dėl paslaugų vidaus rinkoje.
 
 
 
 
-2. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
+2. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą.
 
 
 
 
-3. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+3. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai.
 
 
 
 
-4. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/EB dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
+4. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/EB dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių.
 
 
 
 
-5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/36/ES dėl trečiųjų šalių piliečių atvykimo ir buvimo tikslu dirbti sezoniniais darbuotojais sąlygų (OL 2014 L 94, p. 375).
+5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/33/ES, kuria nustatomos normos dėl tarptautinės apsaugos prašytojų priėmimo (nauja redakcija).
 
 
 
 
-6. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8).
+6. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/36/ES dėl trečiųjų šalių piliečių atvykimo ir buvimo tikslu dirbti sezoniniais darbuotojais sąlygų.
 
 
 
 
+7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+
+
+Priedo pakeitimai:
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
  
-______________________
-
-
  
  
 Pakeitimai:
@@ -4555,3 +4839,11 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 IV skyriaus pavadinimo, 55
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-911, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01287
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 41 ir 42 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 12, 16, 20, 22, 24, 28, 29, 30, 31, 36, 37, 38, 39-1, 40, 44, 46, 47, 48, 48-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 39-2, 39-3 ir 48-2 straipsniais įstatymas
+ 
+ 
+part_7d120dbe712a4c7295ea792989cd3b92_end
