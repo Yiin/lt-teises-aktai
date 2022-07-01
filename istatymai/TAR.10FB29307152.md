@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10fb2930715211e484b9c12b550436a3"
 
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2014-11-21, i. k. 2014-17299
  
@@ -4344,7 +4344,10 @@ Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
 
 
 
-2. Informaciją apie Lietuvos Respublikoje gautų, pripažintų ir atsisakytų pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotų vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintų ar atsisakytų pripažinti sprendimų dėl laisvės atėmimo bausmės ir sprendimų dėl bausmės, nesusijusios su laisvės atėmimu, bei sprendimų dėl probacijos skaičių renka, sistemina ir kiekvienais metais iki vasario 1 dienos Kalėjimų departamentui teikia Nacionalinė teismų administracija.
+2. Informaciją apie Lietuvos Respublikoje gautų, pripažintų ir atsisakytų pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotų vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintų ar atsisakytų pripažinti sprendimų dėl laisvės atėmimo bausmės ir sprendimų dėl bausmės, nesusijusios su laisvės atėmimu, bei sprendimų dėl probacijos skaičių renka ir sistemina Nacionalinė teismų administracija. Kiekvienais metais iki vasario 1 d. susistemintą informaciją apie Lietuvos Respublikoje gautus, pripažintus ir atsisakytus pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotus vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintus ar atsisakytus pripažinti sprendimus dėl laisvės atėmimo bausmės Nacionalinė teismų administracija pateikia Kalėjimų departamentui, o informaciją apie Lietuvos Respublikoje gautus, pripažintus ir atsisakytus pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotus vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintus ar atsisakytus pripažinti sprendimus dėl bausmės, nesusijusios su laisvės atėmimu, ir sprendimus dėl probacijos – Lietuvos probacijos tarnybai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-884, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00175
+ 
 
 
 
@@ -4394,6 +4397,8 @@ Respublikos Prezidentė                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos įstatymo
@@ -4491,3 +4496,11 @@ Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių spren
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-475, 2021-06-30, paskelbta TAR 2021-06-30, i. k. 2021-14801
 Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 3, 4, 5, 6, 7, 11, 12, 14, 17, 18, 20, 21, 22, 23, 24, 26, 37, 43, 52, 67, 74 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymo Nr. XIII-3349 pavadinimo ir 22, 23 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-884, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00175
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 87 straipsnio pakeitimo įstatymas
+ 
+ 
+part_dc0205ef6f45494698840b000df681a4_end
