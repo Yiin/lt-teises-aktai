@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-05 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-10-19
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -124,6 +124,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 PATVIRTINTA
@@ -308,12 +310,12 @@ Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 2. Teisingumo ministro valdymo srities statutinės įstaigos:
 
 
-1) centrinė statutinė įstaiga – Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas);
+1) centrinės statutinės įstaigos – Lietuvos probacijos tarnyba ir Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas);
 
 
 
 
-2) kitos statutinės įstaigos – Kalėjimų departamentui pavaldžios probacijos tarnybos, pataisos įstaigos, tardymo izoliatoriai; 
+2) kitos statutinės įstaigos – Kalėjimų departamentui pavaldžios pataisos įstaigos, tardymo izoliatoriai;
 
 
 
@@ -321,6 +323,9 @@ Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 3) statutinė profesinio mokymo įstaiga – pataisos pareigūnų profesinio mokymo įstaiga.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
+ 
 
 
 
@@ -423,14 +428,18 @@ Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 
 
-4. Karjeros valstybės tarnautojams, tarnaujantiems ir siekiantiems tarnauti statutinėse įstaigose, taikomos šio statuto 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 5 ir 7 punktų nuostatos. Muitinės departamento ir jam pavaldžių įstaigų karjeros valstybės tarnautojams, be to, taikomos ir šio statuto 9 straipsnio 2 dalies 1 punkto ir 16 straipsnio 1 dalies 2 punkto nuostatos, Kalėjimų departamento ir jam pavaldžių įstaigų karjeros valstybės tarnautojams – ir šio statuto 9 straipsnio 2 dalies 1 punkto, 16 straipsnio 1 dalies 2 punkto ir 3 dalies nuostatos.
+4. Karjeros valstybės tarnautojams, tarnaujantiems ir siekiantiems tarnauti statutinėse įstaigose, taikomos šio statuto 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 5 ir 7 punktų nuostatos. Muitinės departamento ir jam pavaldžių įstaigų karjeros valstybės tarnautojams, be minėtųjų, taikomos ir šio statuto 9 straipsnio 2 dalies 1 punkto ir 16 straipsnio 1 dalies 2 punkto nuostatos, o Lietuvos probacijos tarnybos, Kalėjimų departamento ir jam pavaldžių įstaigų karjeros valstybės tarnautojams – ir šio statuto 9 straipsnio 2 dalies 1 punkto, 16 straipsnio 1 dalies 2 punkto ir 3 dalies nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
+ 
 
 
 
 
-5. Muitinės departamento ir jam pavaldžių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, taikomos šio statuto 9 straipsnio 2 dalies 1 punkto, 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 2 ir 5 punktų nuostatos. Kalėjimų departamento ir jam pavaldžių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, ir valstybės įmonių prie pataisos įstaigų administracijos darbuotojams taikomos šio statuto 9 straipsnio 2 dalies 1 punkto, 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 2 ir 5 punktų ir 3 dalies nuostatos.
+5. Muitinės departamento ir jam pavaldžių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, taikomos šio statuto 9 straipsnio 2 dalies 1 punkto, 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 2 ir 5 punktų nuostatos, Lietuvos probacijos tarnybos, Kalėjimų departamento ir jam pavaldžių įstaigų darbuotojams, dirbantiems pagal darbo sutartis, ir valstybės įmonių prie pataisos įstaigų administracijos darbuotojams šio statuto 9 straipsnio 2 dalies 1 punkto, 11 straipsnio 2 dalies 2 punkto ir 16 straipsnio 1 dalies 2 ir 5 punktų ir 3 dalies nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-856, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00064
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
  
 
 
@@ -873,9 +882,10 @@ Nr. XIV-856, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00064
 
 
 
-3. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama priimti asmenį, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar su kuriuo svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje ar pataisos įstaigoje arba jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme nustatytą interesų konfliktą (toliau – interesų konfliktas). 
+3. Į vidaus tarnybą teisingumo ministro valdymo srities statutinėse įstaigose taip pat draudžiama priimti asmenį, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar su kuriuo svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje ar pataisos įstaigoje arba kai jo priežiūrą vykdo Lietuvos probacijos tarnyba ir tai gali sukelti Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme nustatytą interesų konfliktą (toliau – interesų konfliktas).
 Straipsnio dalies pakeitimai:
 Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
  
 
 
@@ -955,7 +965,10 @@ PAREIGŪNŲ PROFESINIS MOKYMAS IR KVALIFIKACIJOS TOBULINIMAS
 
 
 
-7. Pareigūnų neformaliojo profesinio mokymo ir įvadinio mokymo kursų programas tvirtina centrinės statutinės įstaigos vadovas.
+7. Pareigūnų neformaliojo profesinio mokymo ir įvadinio mokymo kursų programas, išskyrus teisingumo ministro valdymo srities pareigūnų neformaliojo profesinio mokymo ir įvadinio mokymo kursų programas, tvirtina centrinės statutinės įstaigos vadovas. Teisingumo ministro valdymo srities pareigūnų neformaliojo profesinio mokymo ir įvadinio mokymo kursų programas tvirtina Kalėjimų departamento direktorius, suderinęs su Lietuvos probacijos tarnybos direktoriumi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
+ 
 
 
 
@@ -1256,9 +1269,10 @@ PAREIGŪNŲ LAIPSNIAI IR JŲ SUTEIKIMO TVARKA
 
 
 
-3. Vidaus tarnybos laipsniai suteikiami Finansinių nusikaltimų tyrimo tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento, Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos, Kalėjimų departamento, Muitinės departamento ir šioms centrinėms statutinėms įstaigoms pavaldžių statutinių įstaigų ir statutinių profesinio mokymo įstaigų pareigūnams. 
+3. Vidaus tarnybos laipsniai suteikiami Finansinių nusikaltimų tyrimo tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento, Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos, Lietuvos probacijos tarnybos, Kalėjimų departamento, Muitinės departamento ir šioms centrinėms statutinėms įstaigoms pavaldžių statutinių įstaigų ir statutinių profesinio mokymo įstaigų pareigūnams.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
  
 
 
@@ -1592,9 +1606,10 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 
 
-10. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti interesų konfliktą. 
+10. Į vidaus tarnybą teisingumo ministro valdymo srities statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo Lietuvos probacijos tarnyba ir tai gali sukelti interesų konfliktą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
  
 
 
@@ -1708,9 +1723,10 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 
 
-8. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti interesų konfliktą. 
+8. Į vidaus tarnybą teisingumo ministro valdymo srities statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo Lietuvos probacijos tarnyba ir tai gali sukelti interesų konfliktą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
  
 
 
@@ -1769,9 +1785,10 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 
 
-10. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti interesų konfliktą. 
+10. Į vidaus tarnybą teisingumo ministro valdymo srities statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo Lietuvos probacijos tarnyba ir tai gali sukelti interesų konfliktą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
  
 
 
@@ -1836,9 +1853,10 @@ Nr. XIV-507, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16267
 
 
 
-5. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama rotacijos tvarka perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti interesų konfliktą. 
+5. Į vidaus tarnybą teisingumo ministro valdymo srities statutinėse įstaigose taip pat draudžiama rotacijos tvarka perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo Lietuvos probacijos tarnyba ir tai gali sukelti interesų konfliktą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
  
 
 
@@ -4304,9 +4322,10 @@ Nr. XIII-1790, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21121
 
 
 
+part_e4657d607f884a359406044c64132434_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -4334,13 +4353,13 @@ VIDAUS TARNYBOS SISTEMOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
 
 
  1 
- Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius 
+ Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vadas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vadas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktorius, policijos generalinis komisaras, Muitinės departamento prie Finansų ministerijos generalinis direktorius, Lietuvos probacijos tarnybos direktorius, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius 
  15,2–19 
    
 
 
  2 
- Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas 
+ Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos vado pavaduotojas, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos direktoriaus pavaduotojas, policijos generalinio komisaro pavaduotojas, Muitinės departamento prie Finansų ministerijos generalinio direktoriaus pavaduotojas, Lietuvos probacijos tarnybos direktoriaus pavaduotojas, Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktoriaus pavaduotojas 
  13,2–18 
    
 
@@ -4430,9 +4449,9 @@ Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 Nr. XIV-268, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08871
 Nr. XIV-712, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25139
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
  
-
-
+part_bce6c56635464937b23d2275b5daeaf3_end
 
 
  
@@ -4733,3 +4752,8 @@ Lietuvos Respublikos vidaus tarnybos statuto priedo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-856, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00064
 Lietuvos Respublikos vidaus tarnybos statuto 7, 9, 53 ir 72 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
+Lietuvos Respublikos vidaus tarnybos statuto 4, 7, 16, 18, 25, 28, 30, 31, 32 straipsnių ir priedo pakeitimo įstatymas
