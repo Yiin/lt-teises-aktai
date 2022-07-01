@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -352,7 +352,10 @@ Nr. XIII-1080, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06424
 9 straipsnis. Teisės į privataus gyvenimo neliečiamumą ypatumai
 
 
-1. Be paciento sutikimo teisės aktų nustatyta tvarka konfidenciali informacija gali būti suteikiama valstybės institucijoms, kurioms Lietuvos Respublikos įstatymai suteikia teisę gauti konfidencialią informaciją apie pacientą, taip pat šio įstatymo 23 straipsnio 8 dalyje nurodytiems asmenims. Konfidenciali informacija šiems asmenims gali būti suteikiama tik rašytiniu jų prašymu, kuriame nurodomas konfidencialios informacijos prašymo pagrindas, jos naudojimo tikslai ir reikalingos informacijos mastas. Visais atvejais konfidencialios informacijos suteikimas turi atitikti protingumo, sąžiningumo ir paciento teisių apsaugos ir interesų prioriteto principus. 
+1. Be paciento sutikimo teisės aktų nustatyta tvarka konfidenciali informacija gali būti suteikiama Lietuvos Respublikos teritorijoje ūkinę veiklą vykdantiems fiziniams ir juridiniams asmenims, kitoms organizacijoms, juridinių asmenų ir kitų organizacijų padaliniams, kuriems Lietuvos Respublikos įstatymai suteikia teisę gauti konfidencialią informaciją apie pacientą. Konfidenciali informacija šiems asmenims gali būti suteikiama tik rašytiniu jų prašymu, kuriame nurodomas konfidencialios informacijos gavimo teisinis pagrindas, jos naudojimo tikslai ir reikalingos informacijos apimtis. Elektroninės formos prašymas turi būti pasirašytas kvalifikuotu elektroniniu parašu arba suformuotas elektroninėmis priemonėmis, leidžiančiomis užtikrinti teksto vientisumą ir nepakeičiamumą. Visais atvejais konfidencialios informacijos suteikimas turi atitikti protingumo, sąžiningumo ir paciento teisių apsaugos ir interesų prioriteto principus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-791, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27367
+ 
 
 
 
@@ -1265,3 +1268,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-401, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14504
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 24 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-791, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27367
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 9 straipsnio pakeitimo įstatymas
