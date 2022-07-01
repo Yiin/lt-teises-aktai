@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2026-04-30
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -191,12 +191,14 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 
 1. Mokesčio tarifas – nuo 0,5 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip.
-TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
-Savivaldybės, kurios taryba nėra nustačiusi 2020 metų mokestiniu laikotarpiu taikomo nekilnojamojo turto mokesčio tarifo arba yra nustačiusi mažesnį nekilnojamojo mokesčio tarifą negu 6 straipsnio 1 dalyje nurodytas minimalus mokesčio tarifas, arba keičia jau nustatytus 2020 metų nekilnojamojo turto mokesčio tarifus, teritorijoje 2020 metų mokestiniu laikotarpiu taikomas 0,5 procento nekilnojamojo turto mokesčio tarifas.
+TAR pastaba. 6 straipsnio 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+                            Nuostata, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio 1 dalis (2019 m. gruodžio 12 d. redakcija), 7 straipsnio 1 dalies 6, 7 punktai (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
 Straipsnio dalies pakeitimai:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010ISTA0XI-2178
 Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
+Nr. XIV-725, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25843
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
  
 
 
@@ -317,25 +319,31 @@ Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 
 
 
-6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 150 000 eurų; 
-TAR pastaba. 6 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 150 000 eurų;
+TAR pastaba. 7 straipsnio 1 dalies 6 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+                            Nuostata, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio 1 dalis (2019 m. gruodžio 12 d. redakcija), 7 straipsnio 1 dalies 6, 7 punktai (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
 Papildyta straipsnio punktu:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Straipsnio punkto pakeitimai:
 Nr. XII-1390, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20429
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
+Nr. XIV-725, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25843
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
  
 
 
 
 
-7) asmenims, auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, ir asmenims, auginantiems neįgalų vaiką (įvaikį) iki 18 metų, taip pat vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, nuosavybės teise priklausančio ar jų įsigyjamo šios dalies 6 punkte nurodyto nekilnojamojo turto bendra vertė, neviršijanti 200 000 eurų. 
-TAR pastaba. 7 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+7) asmenims, auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, ir asmenims, auginantiems neįgalų vaiką (įvaikį) iki 18 metų, taip pat vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, nuosavybės teise priklausančio ar jų įsigyjamo šios dalies 6 punkte nurodyto nekilnojamojo turto bendra vertė, neviršijanti 200 000 eurų.
+TAR pastaba. 7 straipsnio 1 dalies 7 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2022 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+                            Nuostata, kad Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio 1 dalis (2019 m. gruodžio 12 d. redakcija), 7 straipsnio 1 dalies 6, 7 punktai (2019 m. gruodžio 12 d. redakcija) įsigaliojo 2020 m. sausio 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
 Papildyta straipsnio punktu:
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 Straipsnio punkto pakeitimai:
 Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
+Nr. XIV-725, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25843
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
  
 
 
@@ -349,7 +357,11 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 2. Mokesčiu neapmokestinamas nekilnojamasis turtas, už kurį mokestį pagal šio įstatymo 3 straipsnį moka juridinis asmuo:
 
 
-1) užsienio valstybių diplomatinių atstovybių ir konsulinių įstaigų, tarptautinių tarpvyriausybinių organizacijų ar jų atstovybių nekilnojamasis turtas;
+1) užsienio valstybių diplomatinių atstovybių ir konsulinių įstaigų, pagal tarptautinę teisę specialų statusą turinčių subjektų ar kitų subjektų, su kuriais Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybių, akredituotų Lietuvos Respublikos Vyriausybės nustatyta tvarka, tarptautinių tarpvyriausybinių organizacijų ar jų atstovybių nekilnojamasis turtas;
+TAR pastaba. 7 straipsnio 2 dalies 1 punkto nuostatos taikomos nuo 2022-07-01.
+Straipsnio punkto pakeitimai:
+Nr. XIV-995, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07160
+ 
 
 
 
@@ -985,3 +997,18 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 3 ir 6
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-725, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25843
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-995, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07160
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 7 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
