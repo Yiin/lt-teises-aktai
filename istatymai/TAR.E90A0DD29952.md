@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E90A0DD29952"
 
 # Lietuvos Respublikos loterijų įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3341, i. k. 1031010ISTA0IX-1661
  
@@ -745,48 +745,27 @@ Priežiūros institucija ir bendrovė, norinti gauti ar turinti licenciją, info
 
 
 
-4) pasibaigus kiekvienam kalendorinių metų ketvirčiui, ne vėliau kaip iki kito ketvirčio pirmo mėnesio 25 dienos pranešti priežiūros institucijai apie lėšų skyrimą paramai;
+4) Neteko galios nuo 2022-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-601, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23522
+ 
 
 
 
 
 5) priežiūros institucijos nustatyta tvarka teikti informaciją, kurios reikia loterijų priežiūros funkcijoms atlikti.
+
+
+
+
+
+
+
+
+19 straipsnis. Neteko galios nuo 2022-07-01
+Straipsnio naikinimas:
+Nr. XIV-601, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23522
  
-
-
-
-
-
-
-
-
-19 straipsnis. Lėšų skyrimas paramai 
-
-
-1. Loterijų organizatorius 8 procentus nuo nominaliosios per kalendorinių metų ketvirtį išplatintų loterijos bilietų vertės privalo skirti paramai Lietuvos Respublikos labdaros ir paramos įstatyme nustatytiems paramos gavėjams. Paramą loterijų organizatorius privalo pervesti paramos gavėjams pasibaigus kiekvienam kalendorinių metų ketvirčiui, ne vėliau kaip iki kito ketvirčio pirmo mėnesio 15 dienos.
-
-
-
-
-2. Pagal šį įstatymą loterijos organizatoriaus teikiamos paramos dalyku gali būti tik pinigai.
-
-
-
-
-3. Loterijų organizatorius ir paramos gavėjai privalo tvarkyti teikiamos arba gaunamos paramos apskaitą ir teikti Valstybinei mokesčių inspekcijai ataskaitas apie suteiktą arba gautą paramą Labdaros ir paramos įstatyme nustatyta tvarka.
-
-
-
-
-4. Loterijų organizatorius apie suteiktą paramą ir paramos gavėjai apie gautą paramą privalo paskelbti savo interneto svetainėse. Privalomą skelbti informaciją detalizuoja ir jos skelbimo tvarką nustato priežiūros institucija.
-
-
-
-
-5. Paramos gavėjai, gaunantys pagal šį įstatymą paramą, viršijančią 10 000 eurų sumą per metus, privalo atlikti gautos paramos panaudojimo finansinių ataskaitų auditą ir finansinių ataskaitų audito ataskaitą kartu su auditoriaus išvada skelbti savo interneto svetainėse.
- 
-
-
 
 
 
@@ -1256,10 +1235,13 @@ Loterijų organizatorius privalo tvarkyti buhalterinę apskaitą taip, kad joje 
 31 straipsnis. Didžiųjų loterijų ataskaita
 
 
-Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito kalendorinių metų ketvirčio pirmo mėnesio 25 dienos, ir kalendoriniams metams pasibaigus, ne vėliau kaip per 4 mėnesius nuo kalendorinių metų pabaigos, didžiųjų loterijų organizatorius privalo pateikti priežiūros institucijai loterijų ataskaitas apie išplatintų loterijos bilietų skaičių, loterijos bilietų apyvartą, išmokėtus laimėjimus ir suteiktą paramą už praėjusius ketvirčius ir už metus. Ataskaitų formas, pildymo ir pateikimo tvarką nustato priežiūros institucija.
+Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito kalendorinių metų ketvirčio pirmo mėnesio 25 dienos, ir kalendoriniams metams pasibaigus, ne vėliau kaip per 4 mėnesius nuo kalendorinių metų pabaigos, didžiųjų loterijų organizatorius privalo pateikti priežiūros institucijai loterijų ataskaitas apie išplatintų loterijos bilietų skaičių, loterijos bilietų apyvartą ir išmokėtus laimėjimus už praėjusius ketvirčius ir už metus. Ataskaitų formas, pildymo ir pateikimo tvarką nustato priežiūros institucija.
+
+
+Straipsnio pakeitimai:
+TAR pastaba. Už per 2022 m. II ketvirtį suteiktą paramą atsiskaitoma ir apie ją pranešama priežiūros institucijai pagal iki 2021 m. lapkričio 4 d. įstatymo Nr. XIV-601 įsigaliojimo dienos galiojusio Lietuvos Respublikos loterijų įstatymo nuostatas
+Nr. XIV-601, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23522
  
-
-
 
 
 
@@ -1552,7 +1534,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                               ROLANDAS PAKSAS
 
 
  
@@ -1574,3 +1556,8 @@ Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 2, 10 ir 14 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2598, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20557
 Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-601, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23522
+Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 18, 31 straipsnių pakeitimo ir 19 straipsnio pripažinimo netekusiu galios įstatymas
