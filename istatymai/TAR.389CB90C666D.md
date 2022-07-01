@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2022-03-31 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2022-07-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
  
@@ -407,11 +407,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-59. Specialiojo statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, krašto apsaugos sistemos institucijos, Lietuvos Respublikos vidaus reikalų ministerija, Vyriausybės įgaliota institucija, kuriai suteiktos teisės ir pareigos, nustatytos šio įstatymo 451 straipsnyje, vidaus reikalų ministro valdymo srities statutinės įstaigos, Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos generalinė prokuratūra, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos šaulių sąjunga, jų padaliniai ir pavaldžios įstaigos, Lietuvos Respublikos muitinė (ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos muitinės įstatyme), taip pat Lietuvos Respublikos vadovybės apsaugos tarnyba. 
+59. Specialiojo statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, krašto apsaugos sistemos institucijos, Lietuvos Respublikos vidaus reikalų ministerija, Vyriausybės įgaliota institucija, kuriai suteiktos teisės ir pareigos, nustatytos šio įstatymo 451 straipsnyje, vidaus reikalų ministro valdymo srities statutinės įstaigos, Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos generalinė prokuratūra, teisingumo ministro valdymo srities statutinės įstaigos, Lietuvos šaulių sąjunga, jų padaliniai ir pavaldžios įstaigos, Lietuvos Respublikos muitinė (ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos muitinės įstatyme), taip pat Lietuvos Respublikos vadovybės apsaugos tarnyba.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 Nr. XIII-2908, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10905
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+Nr. XIV-883, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00174
  
 
 
@@ -1075,7 +1076,10 @@ Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 
 
 
-9. Leidimas laikyti ginklus ir leidimas nešiotis ginklus galioja 5 metus ir gali būti teritorinės policijos įstaigos vadovo ar jo įgalioto asmens sprendimu pratęstas kas 5 metai 5 metų laikotarpiui. Šio straipsnio 10 dalyje nurodytas bendras leidimas laikyti (nešiotis) C kategorijos ginklus galioja neribotą laiką.
+9. Leidimas laikyti ginklus ir leidimas nešiotis ginklus galioja 5 metus ir gali būti teritorinės policijos įstaigos vadovo ar jo įgalioto asmens sprendimu pratęsiamas kas 5 metai 5 metų laikotarpiui. Leidimas laikyti ginklus ir leidimas nešiotis A kategorijos ginklus šaulio tarnybai ar profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti, išduotas asmeniui pirmą kartą, galioja 2 metus, o po to gali būti teritorinės policijos įstaigos vadovo ar jo įgalioto asmens sprendimu pratęsiamas kas 5 metai 5 metų laikotarpiui. Šio straipsnio 10 dalyje nurodytas bendras leidimas laikyti (nešiotis) C kategorijos ginklus galioja neribotą laiką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
+ 
 
 
 
@@ -1141,9 +1145,10 @@ Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 
 
 
-9. Šaulio tarnybai A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, Lietuvos šaulių sąjungos vado nustatyta tvarka išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti profesinės karo tarnybos kariai, kariai savanoriai ar kiti savanoriškos nenuolatinės karo tarnybos kariai, turintys teisę tarnybos metu nešiotis šaunamąjį ginklą, pateikę specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turi teisę tarnybos metu nešiotis šaunamąjį ginklą, ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Leidimas laikyti ginklus ir leidimas nešiotis ginklus taip pat suteikia teisę nešiotis savigynai B kategorijos trumpuosius šaunamuosius ginklus taip, kad kiti asmenys jų nematytų. 
+9. Šaulio tarnybai A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 2, 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, Lietuvos šaulių sąjungos vado nustatyta tvarka išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 2, 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti profesinės karo tarnybos kariai, kariai savanoriai ar kiti savanoriškos nenuolatinės karo tarnybos kariai, turintys teisę tarnybos metu nešiotis šaunamąjį ginklą, pateikę specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turi teisę tarnybos metu nešiotis šaunamąjį ginklą, ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Leidimas laikyti ginklus ir leidimas nešiotis ginklus taip pat suteikia teisę nešiotis savigynai B kategorijos trumpuosius šaunamuosius ginklus taip, kad kiti asmenys jų nematytų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
  
 
 
@@ -1295,7 +1300,7 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 17 straipsnis. Teisės įsigyti ir turėti ginklus ir šaudmenis apribojimai
 
 
-1. Šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų negali įsigyti ir turėti fizinis asmuo:
+1. Šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų negali įsigyti ir turėti fizinis asmuo:
 
 
 1) jaunesnis, negu šio įstatymo nustatyto amžiaus;
@@ -1308,10 +1313,7 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 
 
-3) nepateikęs sveikatos patikrinimo išvados, patvirtinančios, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
- 
+3) nepateikęs sveikatos patikrinimo išvados, patvirtinančios, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo. Išvados išdavimo data jos pateikimo dieną turi būti ne vėlesnė negu 3 mėnesiai; 
 
 
 
@@ -1354,6 +1356,9 @@ Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 11) apie kurį Valstybės saugumo departamentas turi duomenų, kad jis gali kelti arba kelia grėsmę valstybės saugumui. Šiuos duomenis Valstybės saugumo departamentas perduoda policijos įstaigai.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
+ 
 
 
 
@@ -3949,3 +3954,13 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 11
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-972, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06309
 Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 34 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-883, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00174
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 12, 13 ir 17 straipsnių pakeitimo įstatymas
