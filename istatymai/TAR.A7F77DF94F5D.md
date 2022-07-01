@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-06-30
+Suvestinė redakcija nuo 2022-07-01 iki 2023-07-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
  
@@ -344,7 +344,7 @@ Socialinio draudimo pensiją sudaro bendroji ir individualioji dalys.
 8 straipsnis. Socialinio draudimo pensijų dydžių mato rodiklių indeksavimas
 
 
-1. Kiekvienais metais nuo sausio 1 dienos bazinės pensijos ir apskaitos vieneto vertės dydžiai, išskyrus našlių pensijos bazinį dydį, lygų vienišo asmens išmokos, mokamos pagal Lietuvos Respublikos vienišo asmens išmokos įstatymą, dydžiui, kurie taikomi skiriant ir mokant šiame įstatyme nustatytų rūšių pensijas, indeksuojami pagal praėjusiais metais apskaičiuotą ir patvirtintą indeksavimo koeficientą (toliau – IK). IK išreiškiamas keturių skaitmenų po kablelio tikslumu. 
+1. Kiekvienais metais nuo sausio 1 dienos bazinės pensijos, apskaitos vieneto vertės ir našlių pensijos bazinis dydžiai, kurie taikomi skiriant ir mokant šiame įstatyme nustatytų rūšių pensijas, indeksuojami pagal praėjusiais metais apskaičiuotą ir patvirtintą indeksavimo koeficientą (toliau – IK). IK išreiškiamas keturių skaitmenų po kablelio tikslumu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 Nr. XIV-356, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13159
@@ -392,7 +392,7 @@ Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
 
 
-6. IK apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės dydžiai euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. 
+6. IK apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės ir našlių pensijos bazinis dydžiai euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
@@ -2375,7 +2375,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                        ALGIRDAS BRAZAUSKAS 
+RESPUBLIKOS PREZIDENTAS                                         ALGIRDAS BRAZAUSKAS 
  
  
 
@@ -2385,7 +2385,8 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
- 
+ 
+
 Lietuvos Respublikos 
 socialinio draudimo 
 pensijų įstatymo
@@ -2404,11 +2405,11 @@ pensijų įstatymo
  
 
 
+part_4b6c4cfd462d4f3f981ba93ee80ede4d_end
 
 
+ 
 
-
- 
 Lietuvos Respublikos 
 socialinio draudimo 
 pensijų įstatymo
@@ -2530,11 +2531,11 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
  
 
 
+part_60e975074bfa40459b0eef7193ef59a6_end
 
 
+ 
 
-
- 
 Lietuvos Respublikos 
 socialinio draudimo 
 pensijų įstatymo
@@ -2602,11 +2603,11 @@ NETEKTO DARBINGUMO LYGIO DAUGIKLIŲ DYDŽIAI
 
  
  
+part_a3c279b1fc074dbc9c41aea9eb5a0619_end
 
 
+ 
 
-
- 
 Lietuvos Respublikos 
 socialinio draudimo 
 pensijų įstatymo
@@ -2740,11 +2741,11 @@ METŲ KAUPIMO DALYVIO DAUGIKLIŲ DYDŽIAI
 
  
  
+part_dad674e54af7401b9318008beebe278f_end
 
 
+ 
 
-
- 
 Lietuvos Respublikos 
 socialinio draudimo 
 pensijų įstatymo
@@ -2909,11 +2910,11 @@ BŪTINASIS STAŽAS SENATVĖS PENSIJAI
 
  
  
+part_6ee92f93a7db4b72915837974c434b6f_end
 
 
+ 
 
-
- 
 Lietuvos Respublikos 
 socialinio draudimo 
 pensijų įstatymo
@@ -3158,11 +3159,11 @@ MINIMALUSIS IR BŪTINASIS STAŽAS NETEKTO DARBINGUMO PENSIJAI
 
 
  
+part_8e924ab8d8a34ad3bc0deeb409f8024a_end
 
 
+ 
 
-
- 
 Lietuvos Respublikos socialinio
 draudimo pensijų įstatymo
 7 priedas
@@ -3356,8 +3357,7 @@ Moterys
 Papildyta priedu:
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
  
-
-
+part_09acc3616be745e98d53ac8cdb417649_end
 
 
  
