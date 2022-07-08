@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2f22d6604dbe11ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2022-07-08 iki 2022-10-14
+ 
+Įstatymas paskelbtas: TAR 2021-11-25, i. k. 2021-24219
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ELEKTROS ENERGETIKOS ĮSTATYMO NR. VIII-1881 PAKEITIMO
 ĮSTATYMAS
@@ -2394,7 +2401,7 @@ Perdavimo sistemos operatorius turi teisę:
 
 
 
-28) rengti ir teikti Tarybai tvirtinti sąlygas, metodikas ir (ar) kitus teisės aktus (dokumentus), kurių reikalaujama pagal Reglamentą (ES) 2015/1222, Reglamentą (ES) 2016/631, Reglamentą (ES) 2016/1388, Reglamentą (ES) 2016/1447, Reglamentą (ES) 2016/1719, Reglamentą (ES) 2017/1485, Reglamentą (ES) 2017/2195 ir Reglamentą (ES) 2017/2196. Rengdamas metodiką dėl bendrųjų techninių reikalavimų pagal Reglamento (ES) 2016/631 7 straipsnio 7 dalį, jame įtvirtinti atvejus, kada elektros energijos gamybos modulis laikytinas esamu, o kada nauju elektros energijos gamybos moduliu;
+28) rengti ir teikti Tarybai tvirtinti sąlygas, metodikas ir (ar) kitus teisės aktus (dokumentus), kurių reikalaujama pagal Reglamentą (ES) 2015/1222, Reglamentą (ES) 2016/631, Reglamentą (ES) 2016/1388, Reglamentą (ES) 2016/1447, Reglamentą (ES) 2016/1719, Reglamentą (ES) 2017/1485, Reglamentą (ES) 2017/2195 ir Reglamentą (ES) 2017/2196. Rengdamas metodiką dėl bendrųjų techninių reikalavimų pagal Reglamento (ES) 2016/631 7 straipsnio 7 dalį, jame įtvirtinti atvejus, kada elektros energijos gamybos modulis laikytinas esamu, o kada nauju elektros energijos gamybos moduliu;
 
 
 
@@ -2429,14 +2436,69 @@ Perdavimo sistemos operatorius turi teisę:
 
 
 
-35) vykdyti kitas šiame įstatyme, kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) 2019/943 ir tinklo kodeksuose ir gairėse, kituose Europos Sąjungos reglamentuose, reglamentuojančiuose elektros energetikos sektorių, ir įgyvendinamuosiuose teisės aktuose nustatytas perdavimo sistemos operatoriaus pareigas.
+35) vykdyti kitas šiame įstatyme, kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) 2019/943 ir tinklo kodeksuose ir gairėse, kituose Europos Sąjungos reglamentuose, reglamentuojančiuose elektros energetikos sektorių, ir jų įgyvendinamuosiuose teisės aktuose nustatytas perdavimo sistemos operatoriaus pareigas.
 
 
 
 
 
 
-2. Perdavimo sistemos operatorius užtikrina trečiųjų asmenų prieigą prie perdavimo tinklų, ją valdo ir pateikia paaiškinimus, kai tokia prieiga nesuteikiama. Tuo tikslu perdavimo sistemos operatorius Tarybos nustatytomis sąlygomis parengia ir teikia Tarybai tvirtinti Pasinaudojimo elektros tinklais tvarkos aprašą, taip pat jį paskelbia savo interneto svetainėje. Taryba užtikrina, kad šia tvarka nustatomi prijungimo pajėgumų arba eksploatavimo apribojimai būtų nustatomi remiantis skaidriomis ir nediskriminacinėmis procedūromis, taip pat kad būtų užtikrintas tinklų naudotojų naujai prijungiamų įrenginių (elektrinių ir kaupimo įrenginių) ekonominis efektyvumas ir kad nebūtų sukurta nepagrįstų kliūčių patekti į elektros energijos rinką. Vadovaudamasis Reglamento (ES) Nr. 2019/943 12 ir 13 straipsnių ir šio įstatymo nuostatomis, perdavimo sistemos operatorius Pasinaudojimo elektros tinklais tvarkos apraše taip pat nustato elektros energijos priėmimo ir persiuntimo bei perskirstymo tvarką.
+2. Perdavimo sistemos operatorius užtikrina trečiųjų asmenų prieigą prie perdavimo tinklų, ją valdo ir pateikia paaiškinimus, kai tokia prieiga nesuteikiama. Tuo tikslu perdavimo sistemos operatorius Tarybos nustatytomis sąlygomis parengia ir teikia Tarybai tvirtinti Pasinaudojimo elektros tinklais tvarkos aprašą, taip pat jį paskelbia savo interneto svetainėje.
+
+
+
+
+21. Tarybos nustatytais principais ir kriterijais Pasinaudojimo elektros tinklais tvarkos apraše nustatoma elektros tinklų pralaidumų rezervavimo tvarka. Prijungimo pajėgumų arba eksploatavimo apribojimų nustatymo principai ir (ar) kriterijai turi užtikrinti efektyvaus tinklo panaudojimo principų laikymąsi. Pasinaudojimo elektros tinklais tvarkos apraše turi būti užtikrinamos sąlygos įgyvendinti Atsinaujinančių išteklių energetikos įstatyme nustatytus tikslus ir uždavinius, taip pat Nacionaliniame pažangos plane ir kituose strateginio lygmens planavimo dokumentuose nustatytus energetikos politikos strateginius tikslus ir (ar) pažangos uždavinius ir (ar) Nacionaliniame energetikos ir klimato srities veiksmų plane numatytas įgyvendinimo priemones. Prie perdavimo elektros tinklų pralaidumai rezervuojami prioriteto tvarka:
+
+
+1) teisės aktuose ir (ar) programavimo lygmens planavimo dokumentuose (atitinkamų metų nacionalinėje energetikos plėtros programoje, Vyriausybės programoje ir (ar) Vyriausybės programos nuostatų įgyvendinimo plane) nustatytiems atsinaujinančius išteklius naudojantiems objektams Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje, įskaitant Atsinaujinančių išteklių energetikos įstatymo 22 straipsnyje nurodytus objektus, prijungti numatytu laiku, taip pat šiuose dokumentuose nurodytiems energetikos objektams, prisidedantiems prie elektros energetikos sistemos darbo stabilumo, patikimumo ir (ar) saugumo, prijungti numatytu laiku;
+
+
+
+
+2) asmenų, vykdančių veiklą Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio 8 dalyje nustatyta tvarka ir sąlygomis, ir asmenų ant pastatų stogų planuojamiems įrengti atsinaujinančius energijos išteklius naudojantiems elektros energijos gamybos įrenginiams prijungti;
+
+
+
+
+3) elektros energijos kaupimo įrenginiams ar hibridinėms elektrinėms, kai tame pačiame elektros įrenginių prijungimo prie elektros tinklų taške į sistemą sujungiamos kelios skirtingas atsinaujinančių išteklių energijos rūšis naudojančios elektrinės ir energijos kaupimo įrenginys ar įrenginiai, prijungti;
+
+
+
+
+4) juridinių asmenų, kurie yra gaminantys vartotojai ar siekia jais tapti, atsinaujinančius energijos išteklius naudojantiems elektros energijos gamybos įrenginiams prijungti;
+
+
+
+
+5) hibridinėms elektrinėms, kai tame pačiame elektros įrenginių prijungimo prie elektros tinklų taške į sistemą sujungiamos kelios skirtingas atsinaujinančių išteklių energijos rūšis naudojančios elektrinės, prijungti;
+
+
+
+
+6) vėjo elektrinėms, saulės šviesos energijos elektrinėms, išskyrus šios dalies 1–5 punktuose numatytus atvejus, kitiems elektros energijos gamybos įrenginiams prijungti.
+
+
+
+
+
+
+22. Pralaidumų rezervavimo tvarka, atsižvelgiant į Tarybos nustatytus pagrįstus principus ir (ar) kriterijus, gali būti diferencijuojama pagal asmenų ir (ar) įrenginių grupes, elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių įrengtosios galios ar prijungimo taške suteikiamos leistinos generuoti galios dydį, taip pat pagal esamų laisvų elektros tinklų pralaidumų dalį, kai, įvertinus prie tinklo prijungtų elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių patiekiamos į elektros tinklą galios nevienalaikiškumą, gali būti nustatyti šio įstatymo 22 straipsnio 31 dalyje ir 482 straipsnio 3 dalyje numatyti prijungimo pajėgumų arba eksploatavimo apribojimai. Taryba užtikrina, kad Pasinaudojimo elektros tinklais tvarkos apraše nustatomi prijungimo pajėgumų arba eksploatavimo apribojimai būtų nustatomi remiantis skaidriomis ir nediskriminacinėmis procedūromis, taip pat kad būtų užtikrintas tinklų naudotojų naujai prijungiamų įrenginių (elektrinių ir kaupimo įrenginių) ekonominis efektyvumas ir kad nebūtų sukurta nepagrįstų kliūčių patekti į elektros energijos rinką. Vadovaudamasis Reglamento (ES) 2019/943 12 ir 13 straipsnių ir šio įstatymo nuostatomis, perdavimo sistemos operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos priėmimo, persiuntimo ir perskirstymo tvarką. Be to, perdavimo sistemos operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos persiuntimo nutraukimo sąlygas, kai tinklų naudotojo elektros įrenginių patiekiama į elektros tinklus aktyvioji galia viršija leistiną generuoti galią.
+
+
+
+
+23. Vyriausybės sprendimu Tarybos nustatytomis sąlygomis Pasinaudojimo elektros tinklais tvarkos apraše gali būti nustatyta pralaidumų rezervavimo aukcionų organizavimo tvarka įrenginiams prijungti. Vyriausybė nustato pralaidumų paskirstymo proporcijas šio straipsnio 21 dalies 1–5 punktuose nustatytiems prioritetams ir pralaidumų dalį, skirtą aukciono būdu šio straipsnio 21 dalies 6 punkte nurodytiems įrenginiams paskirstyti. Aukciono metu tinklų operatoriaus gautos lėšos įvertinamos nustatant perdavimo paslaugų kainų viršutines ribas. Šios lėšos turi būti skirtos elektros tinklų plėtrai, kuri užtikrintų didesnes galimybes prijungti prie elektros tinklų atsinaujinančios energijos išteklius naudojančius elektros energijos gamybos įrenginius.
+
+
+
+
+24. Perdavimo sistemos operatorius, siekdamas užtikrinti informacijos apie galimybes pasinaudoti elektros tinklais, kai siekiama plėtoti elektros energijos gamybos ar energijos kaupimo pajėgumus, prieinamumą ir skaidrumą, savo interneto svetainėje skelbia ir per pagrįstą laiką pasikeitus skelbiamiems duomenims atnaujina prijungimo prie elektros tinklų galimybių žemėlapį ir duomenis, nurodydamas perdavimo elektros tinklų elementų (transformatorinių, tinklų linijų) esamą laisvą elektros tinklų pralaidumą pagal elektros tinklo vietas, įskaitant apriboto prijungimo sąlygas, jeigu jos taikomos konkrečioje vietoje, taip pat galimą elektros tinklų pralaidumų pokytį įgyvendinus planuojamą elektros tinklų plėtrą ir (ar) rekonstrukciją pagal perdavimo sistemos operatoriaus 10 metų perdavimo tinklų plėtros planą, informaciją apie prijungtus elektros energijos gamybos ir energijos kaupimo įrenginius, taip pat planuojamus prijungti tokius įrenginius: pagal ketinimų protokolus šiems įrenginiams rezervuotus pralaidumus ir ketinimų protokolų galiojimo terminą, laisvus pralaidumus, numatytus įrenginiams, kai yra išduotos tų įrenginių išankstinės prisijungimo sąlygos, nurodant asmenis, kuriems išduoti ketinimų protokolai ir (ar) išankstinės prisijungimo sąlygos.
+
+
+
+
+25. Perdavimo sistemos operatorius stebi, ar gamintojas ir energijos kaupimo įrenginių savininkas vykdo leidime plėtoti elektros energijos gamybos pajėgumus ar leidime plėtoti energijos kaupimo pajėgumus leistą vykdyti veiklą (toliau šiame straipsnyje – leidime nurodyta veikla), atsako už ketinimų protokole numatytų įsipareigojimų įgyvendinimo laiku priežiūrą ir kontrolę. Vykdydamas šias pareigas, perdavimo sistemos operatorius numato ir vykdo veiksmus, kad įsitikintų, kad ketinimų protokolą pasirašęs asmuo leidime nurodytą veiklą vykdo nuolat. Asmuo, pasirašęs ketinimų protokolą, privalo teikti perdavimo sistemos operatoriaus nurodytais terminais nustatytą informaciją ir (ar) dokumentus, kuriais pagrįstai įrodoma, kad leidime nurodyta veikla yra vykdoma.
 
 
 
@@ -2481,12 +2543,12 @@ Perdavimo sistemos operatorius turi teisę:
 
 
 
-5. Perdavimo sistemos operatorius užtikrina šio straipsnio 3 dalies 3 ir 4 punktuose nurodytų gamintojų, kuriems leidimas gaminti elektros energiją išduotas po Reglamento (ES) Nr. 2019/943 12 straipsnio 5 dalyje nurodytos datos, eksploatuojamose elektrinėse, kurių įrengtoji galia yra mažesnė kaip 200 kW, pagamintos elektros energijos priėmimą ir persiuntimą pirmumo teise.
+5. Perdavimo sistemos operatorius užtikrina šio straipsnio 3 dalies 3 ir 4 punktuose nurodytų gamintojų, kuriems leidimas gaminti elektros energiją išduotas po Reglamento (ES) 2019/943 12 straipsnio 5 dalyje nurodytos datos, eksploatuojamose elektrinėse, kurių įrengtoji galia yra mažesnė kaip 200 kW, pagamintos elektros energijos priėmimą ir persiuntimą pirmumo teise.
 
 
 
 
-6. Šio straipsnio 4 ir 5 dalyse nustatytos sąlygos įrengtajai galiai netaikomos šio straipsnio 3 dalies 1–5 punktuose nurodytų gamintojų, kurių eksploatuojamose elektrinėse pagamintos elektros energijos priėmimas ir persiuntimas pirmumo teise yra užtikrintas pagal sutartis su perdavimo sistemos operatoriumi, sudarytas iki Reglamento (ES) Nr. 2019/943 12 straipsnio 6 dalyje nurodytos datos, pagamintos elektros energijos priėmimui ir persiuntimui pirmumo teise. Tokių gamintojų eksploatuojamose elektrinėse pagamintos elektros energijos priėmimas ir persiuntimas pirmumo teise nebetaikomas nuo tos dienos, kurią elektrinėje padaroma didelių pakeitimų, dėl kurių būtina sudaryti naują prijungimo sutartį vadovaujantis Reglamente (ES) 2016/631 nustatytais kriterijais ir reikalavimais, arba padidinamas elektros energijos gamybos pajėgumas.
+6. Šio straipsnio 4 ir 5 dalyse nustatytos sąlygos įrengtajai galiai netaikomos šio straipsnio 3 dalies 1–5 punktuose nurodytų gamintojų, kurių eksploatuojamose elektrinėse pagamintos elektros energijos priėmimas ir persiuntimas pirmumo teise yra užtikrintas pagal sutartis su perdavimo sistemos operatoriumi, sudarytas iki Reglamento (ES) 2019/943 12 straipsnio 6 dalyje nurodytos datos, pagamintos elektros energijos priėmimui ir persiuntimui pirmumo teise. Tokių gamintojų eksploatuojamose elektrinėse pagamintos elektros energijos priėmimas ir persiuntimas pirmumo teise nebetaikomas nuo tos dienos, kurią elektrinėje padaroma didelių pakeitimų, dėl kurių būtina sudaryti naują prijungimo sutartį vadovaujantis Reglamente (ES) 2016/631 nustatytais kriterijais ir reikalavimais, arba padidinamas elektros energijos gamybos pajėgumas.
 
 
 
@@ -2511,7 +2573,7 @@ Perdavimo sistemos operatorius turi teisę:
 
 
 
-11. Perdavimo sistemos operatorius įsigyja perdavimo tinklams eksploatuoti būtinų su dažnio reguliavimu nesusijusių papildomų paslaugų ir jomis naudojasi, vadovaudamasis Tarybos patvirtintu Perdavimo sistemos operatoriaus prekybos su dažnio reguliavimu nesusijusiomis papildomomis paslaugomis tvarkos aprašu. Perdavimo sistemos operatorius perka su dažnio reguliavimu nesusijusias papildomas paslaugas iš tokias paslaugas teikiančių rinkos dalyvių, prioriteto tvarka rinkdamasis energijos vartojimo efektyvumą didinančias priemones, kai tokios paslaugos ekonomiškai veiksmingai sumažina poreikį atnaujinti ar pakeisti perdavimo tinklų elementus ir padeda užtikrinti saugų, patikimą ir efektyvų šių tinklų darbą. Perdavimo sistemos operatoriaus teisė įsigyti ir naudoti su dažnio reguliavimu nesusijusias papildomas paslaugas gali būti ribojama tik Tarybos sprendimu, kuris priimamas Tarybos iniciatyva arba  perdavimo sistemos operatoriaus pagrįstu prašymu patvirtinti Perdavimo sistemos operatoriaus prekybos su dažnio reguliavimu nesusijusiomis papildomomis paslaugomis tvarkos aprašą ir (ar) riboti jo teisę įsigyti ir naudoti su dažnio reguliavimu nesusijusias papildomas paslaugas, jeigu tokių paslaugų pirkimas nėra ekonomiškai efektyvus.
+11. Perdavimo sistemos operatorius įsigyja perdavimo tinklams eksploatuoti būtinų su dažnio reguliavimu nesusijusių papildomų paslaugų ir jomis naudojasi, vadovaudamasis Tarybos patvirtintu Perdavimo sistemos operatoriaus prekybos su dažnio reguliavimu nesusijusiomis papildomomis paslaugomis tvarkos aprašu. Perdavimo sistemos operatorius perka su dažnio reguliavimu nesusijusias papildomas paslaugas iš tokias paslaugas teikiančių rinkos dalyvių, prioriteto tvarka rinkdamasis energijos vartojimo efektyvumą didinančias priemones, kai tokios paslaugos ekonomiškai veiksmingai sumažina poreikį atnaujinti ar pakeisti perdavimo tinklų elementus ir padeda užtikrinti saugų, patikimą ir efektyvų šių tinklų darbą. Perdavimo sistemos operatoriaus teisė įsigyti ir naudoti su dažnio reguliavimu nesusijusias papildomas paslaugas gali būti ribojama tik Tarybos sprendimu, kuris priimamas Tarybos iniciatyva arba perdavimo sistemos operatoriaus pagrįstu prašymu patvirtinti Perdavimo sistemos operatoriaus prekybos su dažnio reguliavimu nesusijusiomis papildomomis paslaugomis tvarkos aprašą ir (ar) riboti jo teisę įsigyti ir naudoti su dažnio reguliavimu nesusijusias papildomas paslaugas, jeigu tokių paslaugų pirkimas nėra ekonomiškai efektyvus.
 
 
 
@@ -2537,13 +2599,15 @@ Perdavimo sistemos operatorius turi teisę:
 
 
 16. Perdavimo sistemos operatorius atsako už duomenų, gautų vykdant savo veiklą, tvarkymą ir apsaugą, įskaitant kibernetinį saugumą, šiame įstatyme, jo įgyvendinamuosiuose teisės aktuose ir kituose teisės aktuose nustatyta tvarka ir sąlygomis. Perdavimo sistemos operatorius palaiko ir plėtoja savo vidines duomenų tvarkymo sistemas.“
+
+
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1247, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14914
  
-
-
-
-
-
-
 
 
 
@@ -5236,4 +5300,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_6881a52cac1646f0912501402faccebe_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1247, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14914
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymo Nr. XIV-627 20 straipsnio pakeitimo įstatymas
+ 
+ 
+part_4bf18936a4e84e059daac0a3e05c8bfb_end
