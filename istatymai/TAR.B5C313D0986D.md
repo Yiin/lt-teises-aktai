@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b5c313d0986d11eb9fecb5ecd3bd711c"
 
 # Lietuvos Respublikos alternatyviųjų degalų įstatymas
 
+Suvestinė redakcija nuo 2022-07-08 iki 2023-03-29
+ 
+Įstatymas paskelbtas: TAR 2021-04-08, i. k. 2021-07413
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ALTERNATYVIŲJŲ DEGALŲ 
 ĮSTATYMAS
@@ -162,7 +168,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-23. Netarši transporto priemonė – M1, M2 arba N1 kategorijos transporto priemonė, kurios išmetamo CO2 kiekis neviršija 50 g/km, o realiomis važiavimo sąlygomis išmetamų teršalų kiekis neviršija 80 procentų ribinės vertės, nustatytos 2007 m. birželio 20 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 715/2007 dėl variklinių transporto priemonių tipo patvirtinimo atsižvelgiant į išmetamųjų teršalų kiekį iš lengvųjų keleivinių ir komercinių transporto priemonių (Euro 5 ir Euro 6) ir dėl transporto priemonių remonto ir priežiūros informacijos prieigos.
+23. Netarši transporto priemonė – M1, M2 arba N1 kategorijos transporto priemonė, kurios išmetamo CO2 kiekis neviršija 50 g/km, o realiomis važiavimo sąlygomis išmetamų teršalų kiekis neviršija 80 procentų ribinės vertės, nustatytos 2007 m. birželio 20 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 715/2007 dėl variklinių transporto priemonių tipo patvirtinimo atsižvelgiant į išmetamųjų teršalų kiekį iš lengvųjų keleivinių ir komercinių transporto priemonių (Euro 5 ir Euro 6) ir dėl transporto priemonių remonto ir priežiūros informacijos prieigos, arba M3, N2, N3 kategorijos transporto priemonė, naudojanti alternatyviuosius degalus, išskyrus skystųjų biodegalų ir degalų mišinius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
+ 
 
 
 
@@ -612,7 +621,7 @@ KELIŲ TRANSPORTO PRIEMONIŲ AR JOMIS TEIKIAMŲ PASLAUGŲ VIEŠIEJI PIRKIMAI
  
 
 
-15 straipsnis. Viešiesiems pirkimams keliami reikalavimai 
+15 straipsnis. Viešiesiems pirkimams keliami reikalavimai
 
 
 1. Perkančiosios organizacijos, kaip jos apibrėžtos Lietuvos Respublikos viešųjų pirkimų įstatyme, ir perkantieji subjektai, kaip jie apibrėžti Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, atlikdami viešuosius pirkimus, privalo laikytis šiame straipsnyje numatytų reikalavimų, kai:
@@ -623,64 +632,69 @@ KELIŲ TRANSPORTO PRIEMONIŲ AR JOMIS TEIKIAMŲ PASLAUGŲ VIEŠIEJI PIRKIMAI
 
 
 
-2) kelių transporto priemonėmis pagal sutartis ar kitais teisėtais pagrindais teikia keleivinio kelių transporto, keleivių vežimo specialiais reisais, keleivių vežimo užsakomaisiais reisais, atliekų surinkimo, pašto siuntų vežimo keliais, siuntinių vežimo, pašto pristatymo ir siuntinių pristatymo paslaugas.
+2) pagal viešųjų paslaugų sutartis įsigyja keleivių vežimo kelių transportu paslaugas, numatytas Europos Parlamento ir Tarybos reglamente (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70;
+
+
+
+
+3) pagal paslaugų sutartis įsigyja kelių transporto priemonėmis atliekamas viešojo kelių transporto, specialiojo keleivinio kelių transporto, nereguliaraus keleivinio transporto, atliekų rinkimo, pašto siuntų vežimo keliais, siuntinių vežimo, pašto pristatymo ir siuntinių pristatymo paslaugas, kaip jos suprantamos Vyriausybės ar jos įgaliotos institucijos tvirtinamame Energijos vartojimo efektyvumo ir aplinkos apsaugos reikalavimų, taikomų įsigyjant kelių transporto priemones, nustatymo ir atvejų, kada juos privaloma taikyti, tvarkos apraše. 
 
 
 
 
 
 
-2. Perkančioji organizacija ar perkantysis subjektas privalo įvertinti kelių transporto priemonės eksploatacinio laikotarpio poveikį energetikai ir aplinkai ir laikytis Vyriausybės ar jos įgaliotos institucijos nustatytų energijos vartojimo efektyvumo ir aplinkos apsaugos reikalavimų, taikomų įsigyjant kelių transporto priemones. 
+2. Perkančioji organizacija ar perkantysis subjektas taip pat privalo įvertinti kelių transporto priemonės eksploatacinio laikotarpio poveikį energetikai ir aplinkai ir laikytis Vyriausybės ar jos įgaliotos institucijos nustatytų energijos vartojimo efektyvumo ir aplinkos apsaugos reikalavimų, taikomų įsigyjant kelių transporto priemones.
 
 
 
 
-3. Šio straipsnio 1 dalyje nustatytais atvejais nuo 2021 m. rugpjūčio 2 d. iki 2025 m. gruodžio 31 d. atliekamiems viešiesiems pirkimams keliami reikalavimai, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ir (ar) paslaugoms teikti naudojamu kelių transporto priemonių parku, išreiškiami procentinėmis dalimis:
+3. Šio straipsnio 1 dalyje nustatytais atvejais laikotarpiu nuo 2021 m. rugpjūčio 2 d. iki 2025 m. gruodžio 31 d. perkančiosios organizacijos ar perkančiojo subjekto per kalendorinius metus atliekamiems viešiesiems pirkimams keliami reikalavimai, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ir (ar) paslaugoms teikti naudojamu kelių transporto priemonių skaičiumi, išreiškiami procentinėmis dalimis:
 
 
-1) netaršių M1, M2 arba N1 kategorijos transporto priemonių parkas, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti ne mažiau kaip 60 procentų; 
-
-
-
-
-2) netaršių N2 ir N3 kategorijų kelių transporto priemonių parkas, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti ne mažiau kaip 8 procentus;
+1) netaršių M1, M2 arba N1 kategorijos transporto priemonių skaičius, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti ne mažiau kaip 60 procentų;
 
 
 
 
-3) netaršių M3 kategorijos kelių transporto priemonių parkas, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti ne mažiau kaip 80 procentų. 
+2) netaršių N2 ir N3 kategorijų kelių transporto priemonių skaičius, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti ne mažiau kaip 8 procentus;
 
 
 
 
-
-
-4. Šio straipsnio 1 dalyje nustatytais atvejais nuo 2026 m. sausio 1 d. iki 2030 m. gruodžio 31 d. atliekamiems viešiesiems pirkimams keliami reikalavimai, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu kelių transporto priemonių parku, išreiškiami procentinėmis dalimis:
-
-
-1) netaršių M1, M2 arba N1 kategorijos kelių transporto priemonių parkas, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti 100 procentų;
-
-
-
-
-2) netaršių N2 ir N3 kategorijų kelių transporto priemonių parkas, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti ne mažiau kaip 16 procentų; 
-
-
-
-
-3) netaršių M3 kategorijos kelių transporto priemonių parkas, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti 100 procentų. 
+3) netaršių M3 kategorijos kelių transporto priemonių skaičius, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti ne mažiau kaip 80 procentų.
 
 
 
 
 
 
-5. Kai atliekami netaršių M3 kategorijos kelių transporto priemonių viešieji pirkimai, perkančioji organizacija ar perkantysis subjektas turi užtikrinti, kad ne mažiau kaip 50 procentų atliktų viešųjų pirkimų būtų atlikti įsigyjant paslaugoms teikti naudojamas visai netaršias sunkiąsias M3 kategorijos kelių transporto priemones. 
+4. Šio straipsnio 1 dalyje nustatytais atvejais laikotarpiu nuo 2026 m. sausio 1 d. iki 2030 m. gruodžio 31 d. perkančiosios organizacijos ar perkančiojo subjekto per kalendorinius metus atliekamiems viešiesiems pirkimams keliami reikalavimai, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu kelių transporto priemonių skaičiumi, išreiškiami procentinėmis dalimis:
+
+
+1) netaršių M1, M2 arba N1 kategorijos kelių transporto priemonių skaičius, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti 100 procentų;
 
 
 
 
-6. Jeigu nauji viešųjų pirkimų reikalavimai laikotarpiui po 2030 m. sausio 1 d. nenustatomi, toliau taikomi šio straipsnio 4 dalyje nurodytam laikotarpiui nustatyti reikalavimai. 
+2) netaršių N2 ir N3 kategorijų kelių transporto priemonių skaičius, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti ne mažiau kaip 16 procentų;
+
+
+
+
+3) netaršių M3 kategorijos kelių transporto priemonių skaičius, palyginti su bendru perkančiosios organizacijos ar perkančiojo subjekto atliekamuose viešuosiuose pirkimuose įsigyjamu ar paslaugoms teikti naudojamu tos pačios kategorijos kelių transporto priemonių skaičiumi, turi sudaryti 100 procentų.
+
+
+
+
+
+
+5. Kai atliekami netaršių M3 kategorijos kelių transporto priemonių viešieji pirkimai, perkančioji organizacija ar perkantysis subjektas turi užtikrinti, kad ne mažiau kaip 50 procentų atliktų viešųjų pirkimų per kalendorinius metus būtų atlikti įsigyjant ar paslaugoms teikti naudojant visai netaršias sunkiąsias M3 kategorijos kelių transporto priemones.
+
+
+
+
+6. Jeigu nauji kelių transporto priemonių ar jomis teikiamų paslaugų viešųjų pirkimų reikalavimai laikotarpiui po 2030 m. sausio 1 d. nenustatomi, toliau taikomi šio straipsnio 4 dalyje nurodytam laikotarpiui nustatyti reikalavimai.
 
 
 
@@ -698,7 +712,7 @@ KELIŲ TRANSPORTO PRIEMONIŲ AR JOMIS TEIKIAMŲ PASLAUGŲ VIEŠIEJI PIRKIMAI
 
 
 
-3) savaeigėms transporto priemonėms;
+3) savaeigėms transporto priemonėms, kurios suprojektuotos ir sukonstruotos tam tikram darbui atlikti ir dėl jų gamybos charakteristikų netinkančioms keleiviams arba prekėms vežti ir kurios nėra prie transporto priemonės važiuoklės pritvirtinta įranga;
 
 
 
@@ -708,12 +722,12 @@ KELIŲ TRANSPORTO PRIEMONIŲ AR JOMIS TEIKIAMŲ PASLAUGŲ VIEŠIEJI PIRKIMAI
 
 
 
-5) transporto priemonėms, naudojamoms operatyviniais tikslais;
+5) transporto priemonėms, naudojamoms kriminalinės žvalgybos, kaip tai suprantama pagal Lietuvos Respublikos kriminalinės žvalgybos įstatymą, tikslais;
 
 
 
 
-6) transporto priemonėms, specialiai suprojektuotoms ir pagamintoms naudoti statybos aikštelėse ar karjeruose, uostų ar oro uostų teritorijose ar patalpose; 
+6) transporto priemonėms, specialiai suprojektuotoms ir pagamintoms naudoti statybos aikštelėse ar karjeruose, uostų ar oro uostų teritorijose ar patalpose;
 
 
 
@@ -748,22 +762,39 @@ KELIŲ TRANSPORTO PRIEMONIŲ AR JOMIS TEIKIAMŲ PASLAUGŲ VIEŠIEJI PIRKIMAI
 
 
 
-13) M3 kategorijos transporto priemonėms, išskyrus M2 ir M3 kategorijų transporto priemones, kuriose be vairuotojo telpa daugiau kaip 22 keleiviai ir kuriose įrengtos keleiviams stovėti skirtos vietos, ir M2 ir M3 kategorijų transporto priemones, kuriose be vairuotojo telpa ne daugiau kaip 22 keleiviai, tačiau kurios skirtos stovintiems keleiviams vežti ir kuriose yra įrengtos sėdimosios vietos. 
+13) M3 kategorijos transporto priemonėms, išskyrus M3 kategorijų transporto priemones, kuriose be vairuotojo telpa daugiau kaip 22 keleiviai ir kuriose įrengtos keleiviams stovėti skirtos vietos, ir M3 kategorijų transporto priemones, kuriose be vairuotojo telpa ne daugiau kaip 22 keleiviai ir kurios skirtos stovintiems ir sėdintiems keleiviams vežti;
+
+
+
+
+14) transporto priemonėms su rankine pavarų dėže, skirtoms praktiniams transporto priemonės vairavimo įgūdžiams ir gebėjimams patikrinti;
+
+
+
+
+15) transporto priemonių ar jomis teikiamų paslaugų viešųjų pirkimų atvejais, nustatytais šio straipsnio 1 dalyje, kai sudaromos žodinės pirkimo sutartys;
+
+
+
+
+16) transporto priemonių ar jomis teikiamų paslaugų viešųjų pirkimų atvejais, nustatytais šio straipsnio 1 dalyje, kai atlikus planuojamo viešojo pirkimo rinkos konsultacijas yra nustatoma, kad rinkoje nėra nė vienos galimybės, nepažeidžiant Viešųjų pirkimų įstatymo 37 straipsnio 3 dalyje nustatytų reikalavimų, įsigyti šio įstatymo 2 straipsnio 23 ir 36 dalyse apibrėžtų transporto priemonių, reikalingų perkančiosios organizacijos ar perkančiojo subjekto funkcijoms atlikti.
 
 
 
 
 
 
-8. Viešųjų pirkimų tarnyba renka, kaupia ir tvarko duomenis, susijusius su šio straipsnio 3, 4 ir 5 dalyse nustatytais viešiesiems pirkimams keliamais reikalavimais, atsižvelgdama į pagal kiekvieną sutartį nupirktų, lizingo būdu įsigytų, išsinuomotų arba išperkamosios nuomos būdu įsigytų kelių transporto priemonių skaičių arba į kelių transporto priemonių, kurios bus naudojamos paslaugoms pagal kiekvieną sutartį teikti, skaičių. 
+8. Viešųjų pirkimų tarnyba renka, kaupia ir tvarko duomenis, susijusius su šio straipsnio 3, 4 ir 5 dalyse nustatytais viešiesiems pirkimams keliamais reikalavimais, atsižvelgdama į pagal kiekvieną sutartį, išskyrus mažos vertės pirkimus, nupirktų, lizingo būdu įsigytų, išsinuomotų arba išperkamosios nuomos būdu įsigytų kelių transporto priemonių skaičių arba į kelių transporto priemonių, kurios bus naudojamos paslaugoms pagal kiekvieną sutartį teikti, skaičių.
 
 
 
 
 9. Šio straipsnio nuostatos taikomos ir savivaldybių institucijoms Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka administruojant ir užtikrinant viešųjų paslaugų teikimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
  
-
-
 
 
 
@@ -2247,4 +2278,14 @@ priedas
 4. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1161, kuria iš dalies keičiama Direktyva 2009/33/EB dėl skatinimo naudoti netaršias ir efektyviai energiją vartojančias kelių transporto priemones.
 
 
-part_e2b2910a8b464393932050ca5fe08d23_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
+Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 15, 18 ir 24 straipsnių pakeitimo įstatymas
+ 
+ 
+part_3558d25de4dd45eab2685ce3631c2193_end
