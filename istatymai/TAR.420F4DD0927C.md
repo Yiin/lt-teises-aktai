@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2021-12-01 iki 2022-07-07
+Suvestinė redakcija nuo 2022-07-08 iki 2022-12-13
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -2650,7 +2650,10 @@ SANITARINĖS APSAUGOS ZONOS IR JOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄ
 Atsižvelgiant į planuojamą ir (ar) vykdomą ūkinę veiklą, nustatomos šios sanitarinės apsaugos zonos:
 
 
-1) gamybinių objektų – objektų, kuriuose vykdoma gamybinė veikla, susijusi su prekių ir gaminių (vartojimo prekių, tarpinių produktų arba gamybos priemonių) gamyba, išskyrus branduolinės energetikos objektus;
+1) gamybinių objektų – objektų, kuriuose vykdoma gamybinė veikla, susijusi su prekių ir gaminių (vartojimo prekių, tarpinių produktų arba gamybos priemonių) gamyba, išskyrus branduolinės energetikos objektus ir vėjo elektrines;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
+ 
 
 
 
@@ -3724,7 +3727,10 @@ d) atlikti tiesioginius žemės gelmių geologinius tyrimus;
 
 
 
-14) įrengti saulės šviesos energijos elektrines ant pastatų, kurie yra kultūros paveldo objektai, stogų ir (ar) fasadų;
+14) neteko galios nuo 2022-07-08;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
+ 
 
 
 
@@ -4838,7 +4844,10 @@ d) atlikti tiesioginius žemės gelmių geologinius tyrimus;
 
 
 
-12) įrengti saulės šviesos energijos elektrines ant pastatų, kurie yra kultūros paveldo objektai, stogų ir (ar) fasadų;
+12) neteko galios nuo 2022-07-08;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
+ 
 
 
 
@@ -5209,7 +5218,10 @@ d) atlikti tiesioginius žemės gelmių geologinius tyrimus;
 
 
 
-12) įrengti saulės šviesos energijos elektrines ant pastatų, kurie yra kultūros paveldo objektai, stogų ir (ar) fasadų;
+12) neteko galios nuo 2022-07-08;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
+ 
 
 
 
@@ -8632,8 +8644,7 @@ Respublikos Prezidentė                            �
  
 
  
- 
-part_81842afe7dbc48ed88c9852331502eee_end
+part_d83237996329494486d1c04dfbbb0a0e_end
 part_1f58dedaf4fc46b7b2cd42537b54ea02_end
 
 
@@ -8901,7 +8912,6 @@ Pastabos:
 
  
 
- 
 Lietuvos Respublikos specialiųjų žemės
 naudojimo sąlygų įstatymo
 2 priedas
@@ -9375,10 +9385,10 @@ Gamybinių objektų sanitarinės apsaugos zonų dydIS
  100 
 
 
- 48. 48.1.     48.2.   48.3. 48.4. 
- Elektros gamyba, garo tiekimas ir oro kondicionavimas: katilinių, šiluminių elektrinių, kogeneracinių elektrinių, kurių suminė vardinė (nominali) įrenginių šiluminė galia yra 50 MW ir didesnė; vėjo elektrinės, kurių įrengtoji galia nuo 30 kW iki 300 kW;  vėjo elektrinės, kurių įrengtoji galia nuo 300 kW iki 2 MW; vėjo elektrinės, kurių įrengtoji galia 2 MW ir didesnė 
- 35.11, 35.3             
-   100     200   315 440 
+ 48. 
+ Elektros gamyba, garo tiekimas ir oro kondicionavimas: katilinių, šiluminių elektrinių, kogeneracinių elektrinių, kurių suminė vardinė (nominali) įrenginių šiluminė galia yra 50 MW ir didesnė 
+ 35.11, 35.3 
+ 100 
 
 
  49. 
@@ -9433,13 +9443,13 @@ Gamybinių objektų sanitarinės apsaugos zonų dydIS
  
 Priedo pakeitimai:
 Nr. XIII-3264, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15776
+Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
  
-part_d53bb9ff9533402b97aa99b10592a35c_end
+part_06b2b85e6f84416d9942193e30bd5b7d_end
 
 
  
 
- 
 Lietuvos Respublikos specialiųjų
 žemės naudojimo sąlygų įstatymo
 3 priedas
@@ -9588,7 +9598,6 @@ Komunalinių objektų sanitarinės apsaugos zonų dydIS
  
 
  
- 
 part_981f5a128ff640a2a4ed74fab4d7e972_end
 part_eb97384c32d141d580f2ff42063907e7_end
 
@@ -9683,3 +9692,8 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-643, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24263
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 44, 45, 46, 77, 83 straipsnių ir III skyriaus vienuoliktojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 50, 69, 84, 86 straipsnių ir 2 priedo pakeitimo įstatymas
