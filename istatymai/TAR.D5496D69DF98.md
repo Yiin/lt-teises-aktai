@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-07-07
+Suvestinė redakcija nuo 2022-07-08 iki 2022-07-14
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -655,7 +655,10 @@ Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 1. Savivaldybės patikėjimo teise valdo, naudoja ir disponuoja:
 
 
-1) valstybės turtu, kuris pagal Lietuvos Respublikos valstybės turto perdavimo savivaldybių nuosavybėn įstatymą priskirtas savivaldybių nuosavybei, bet dar neperduotas jų nuosavybėn. Jeigu savivaldybės atsisako perimti nuosavybėn joms perduodamą valstybės turtą, Vyriausybės nutarimu šis turtas gali būti perduotas valstybės institucijoms, valstybės įmonėms, įstaigoms ir organizacijoms;
+1) valstybės turtu, kuris pagal Lietuvos Respublikos valstybės turto perėmimo savivaldybių nuosavybėn įstatymą priskirtas savivaldybių nuosavybei, bet dar neperimtas jų nuosavybėn. Jeigu valstybės turtas, priskirtas savivaldybių nuosavybei, nenaudojamas savivaldybės funkcijoms atlikti ir (arba) savivaldybė atsisako jį perimti savo nuosavybėn, vadovaujantis Vyriausybės nustatyta tvarka šis turtas gali būti perduotas patikėjimo teise valdyti, naudoti ir juo disponuoti centralizuotai valdomo valstybės turto valdytojui, valstybės institucijoms, valstybės įmonėms, įstaigoms ir organizacijoms;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1253, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14920
+ 
 
 
 
@@ -2433,3 +2436,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3360, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23807
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 15 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1253, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14920
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 11 straipsnio pakeitimo įstatymas
