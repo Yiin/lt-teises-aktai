@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-12-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -991,6 +991,34 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
+
+
+
+
+101 straipsnis. Bendradarbiavimo sutartys
+
+
+Šio įstatymo reikalavimai netaikomi bendradarbiavimo sutartims, kurias sudaro dvi ar daugiau perkančiųjų organizacijų, kai yra visos šios sąlygos kartu:
+
+
+1) sutartimi nustatomas ar įgyvendinamas dalyvaujančių perkančiųjų organizacijų bendradarbiavimas, siekiant užtikrinti, kad, teikiant viešąsias paslaugas, būtų siekiama Vyriausybės patvirtintų bendrų jų tikslų; 
+
+
+
+
+2) bendradarbiavimas įgyvendinamas vadovaujantis vien su viešuoju interesu susijusiais motyvais;
+
+
+
+
+3) dalyvaujančios perkančiosios organizacijos rinkoje vykdo mažiau kaip 20 procentų tos veiklos, kurią apima bendradarbiavimas. Vertinant, ar perkančioji organizacija atitinka šią sąlygą, atsižvelgiama į 3 metų iki sutarties sudarymo duomenis apie šios perkančiosios organizacijos vidutinę bendrąją apyvartą iš tos veiklos arba į kitą perkančiosios organizacijos ta veikla grindžiamą rodiklį. Jeigu bendradarbiavimo sutartį sudaranti perkančioji organizacija veiklą vykdo trumpiau kaip 3 finansinius metus ar dėl jos reorganizavimo šioje dalyje nurodyti duomenys yra nebeaktualūs, vertinant, ar ji atitinka šią sąlygą, gali būti remiamasi jos veiklos planais.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-1186, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15171
+ 
 
 
 
@@ -7662,7 +7690,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 7 DALYJE NURODY
 Priedo pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
-part_953bdf781df349f2a1716337035da7f0_end
+part_95ba6588aed54030a9b748dd85f74e85_end
 
  
  
@@ -8677,3 +8705,8 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8, 17, 19, 22, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 17, 25, 27, 35, 37, 39, 45, 47, 51, 90 ir 92 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1186, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15171
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 papildymo 10-1 straipsniu įstatymas
