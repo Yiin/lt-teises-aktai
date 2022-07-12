@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2022-02-02 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-07-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -5327,9 +5327,11 @@ Nr. XIII-2327, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12397
 
 
 
-3. Darbo užmokestis privalo būti mokamas pinigais. Darbdavio ar kitų asmenų perduoti daiktai ar suteiktos paslaugos negali būti laikomi darbo užmokesčiu, išskyrus šio kodekso 140 straipsnio 6 dalyje nurodytus atvejus. Darbo užmokestis ir kitos su darbo santykiais susijusios išmokos, taip pat dienpinigiai ir komandiruotės išlaidų kompensacijos privalo būti mokami pavedimu į darbuotojo nurodytą darbuotojo mokėjimo sąskaitą, išskyrus jūrininkus, kuriems taikoma Lietuvos Respublikos prekybinės laivybos įstatymo nustatyta darbo užmokesčio mokėjimo tvarka.
+3. Darbo užmokestis privalo būti mokamas pinigais. Darbdavio ar kitų asmenų perduoti daiktai ar suteiktos paslaugos negali būti laikomi darbo užmokesčiu, išskyrus šio kodekso 140 straipsnio 6 dalyje nurodytus atvejus. Darbo užmokestis ir kitos su darbo santykiais susijusios išmokos, taip pat dienpinigiai ir komandiruotės išlaidų kompensacijos privalo būti mokami pavedimu į darbuotojo nurodytą darbuotojo mokėjimo sąskaitą, išskyrus jūrininkus, kuriems taikoma Lietuvos Respublikos prekybinės laivybos įstatymo nustatyta darbo užmokesčio mokėjimo tvarka, ir Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 71 ir 1408  straipsniuose nurodytus prieglobsčio prašytojus ir užsieniečius, kurie turi teisę dirbti.
+ 
 Straipsnio dalies pakeitimai:
 Nr. XIV-435, 2021-06-22, paskelbta TAR 2021-07-08, i. k. 2021-15520
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
  
 
 
@@ -8452,9 +8454,10 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 222 straipsnis. Darbo ginčų komisijos darbo sąlygos
 
 
-1. Profesinių sąjungų ir darbdavių organizacijų atstovai – darbo ginčų komisijos nariai – atleidžiami nuo darbo pareigų atlikimo laikotarpiui, per kurį jie dalyvauja darbo ginčų komisijos darbe. Jų darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka, o kelionės išlaidų dydžius ir jų apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras. 
+1. Profesinių sąjungų ir darbdavių organizacijų atstovai – darbo ginčų komisijos nariai – atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kurį jie dalyvauja darbo ginčų komisijos darbe. Jų darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka, o kelionės išlaidų dydžius ir jų apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
  
 
 
@@ -9072,10 +9075,11 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-6. Arbitrai, kuriuos iš arbitrų sąrašo pasirenka kolektyvinio darbo ginčo dėl interesų šalys, šio ginčo nagrinėjimo laikotarpiu atleidžiami nuo darbo pareigų. Arbitrų darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. Arbitrų kelionės išlaidų dydžius ir apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras. 
+6. Arbitrai, kuriuos iš arbitrų sąrašo pasirenka kolektyvinio darbo ginčo dėl interesų šalys, šio ginčo nagrinėjimo laikotarpiu atleidžiami nuo darbo pareigų. Arbitrų darbas apmokamas Valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka. Arbitrų kelionės išlaidų dydžius ir apmokėjimo tvarką nustato Lietuvos Respublikos socialinės apsaugos ir darbo ministras.
 Straipsnio dalies pakeitimai:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
  
 
 
@@ -9784,7 +9788,7 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 
 
-part_70dc5643b0994296b1a550afd794bbc0_end
+part_12ca09a3f79641ac8ff819f37e5c5106_end
 
 
  
@@ -10030,6 +10034,11 @@ Lietuvos Respublikos darbo kodekso 108, 109, 139, 213 straipsnių ir priedo pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-435, 2021-06-22, paskelbta TAR 2021-07-08, i. k. 2021-15520
 Lietuvos Respublikos darbo kodekso 139 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+Lietuvos Respublikos darbo kodekso 14, 25, 27, 30, 52, 58, 139, 144, 221, 222, 223, 225, 226, 227 ir 240 straipsnių pakeitimo įstatymas
  
  
 part_c1e13c45dcb746f7afbf41af55861c93_end
