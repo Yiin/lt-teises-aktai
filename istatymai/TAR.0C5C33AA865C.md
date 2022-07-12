@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2022-05-24 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -490,9 +490,10 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-69. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Lietuvos Respublikos statybos įstatyme ir kituose teisės aktuose.
+69. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatyme, Lietuvos Respublikos statybos įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
  
 
 
@@ -3299,6 +3300,22 @@ Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
 
 
 
+31. SGD terminalo operatorius negali SGD terminalo pajėgumų ar jų dalies paskirstyti ir (ar) naudoti suskystintoms gamtinėms dujoms tiekti iš valstybių, kurios pagal Nacionalinio saugumo strategiją kelia grėsmę Lietuvos Respublikos nacionaliniam saugumui ir nacionalinio saugumo interesų užtikrinimui.
+Papildyta straipsnio dalimi:
+Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
+ 
+
+
+
+
+32. Perdavimo sistemos operatorius ir skirstymo sistemos operatorius negali šių sistemų naudotojams suteikti teisės naudotis perdavimo sistema ir skirstymo sistema tiekti gamtines dujas į (per) Lietuvos Respublikos teritoriją tiesiogiai iš valstybių, kurios pagal Nacionalinio saugumo strategiją kelia grėsmę Lietuvos Respublikos nacionaliniam saugumui ir nacionalinio saugumo interesų užtikrinimui. Šis reikalavimas nėra taikomas gamtinių dujų tranzitui į Rusijos Federacijos Kaliningrado sritį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
+ 
+
+
+
+
 4. Nebuitiniai vartotojai, kurie naudoja gamtines dujas energijai gaminti, kai ta energija parduodama ar naudojama visuomeniniams ar gyventojų poreikiams tenkinti, privalo turėti Energetikos įstatyme nustatyto laikotarpio energijos išteklių rezervo atsargas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
@@ -3345,7 +3362,10 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-2. Įgyvendindamos šio straipsnio 1 dalyje nustatytą reikalavimą, tiekimo įmonės visų pirma turi naudoti gamtinių dujų rinkos priemones, taip pat turi teisę kaupti gamtinių dujų atsargas pažeidžiamiems vartotojams, kurios gali būti panaudojamos tik laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos tvarkos.
+2. Įgyvendindamos šio straipsnio 1 dalyje nustatytą reikalavimą, tiekimo įmonės visų pirma turi naudoti gamtinių dujų rinkos priemones, taip pat turi teisę kaupti gamtinių dujų atsargas pažeidžiamiems vartotojams, kurios gali būti panaudojamos tik laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos tvarkos. Tiekimo įmonės privalo kaupti gamtinių dujų atsargas buitiniams vartotojams. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į buitinių vartotojų gamtinių dujų suvartojimą Reglamento (ES) Nr. 2017/1938 6 straipsnio 1 dalyje nustatytais atvejais, nustato gamtinių dujų tiekėjams privalomą sukaupti gamtinių dujų kiekį buitiniams vartotojams ir šio kiekio sukaupimo terminus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
+ 
 
 
 
@@ -3495,7 +3515,15 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-2) atsirado esminių ekonominių ir finansinių sunkumų, susijusių su sudarytų įsipareigojimo mokėti už nepaimtą gamtinių dujų kiekį sutarčių („imk arba mokėk“ sutarčių) vykdymu.
+2) atsirado esminių ekonominių ir finansinių sunkumų, susijusių su sudarytų įsipareigojimo mokėti už nepaimtą gamtinių dujų kiekį sutarčių („imk arba mokėk“ sutarčių) vykdymu;
+
+
+
+
+3) teisės naudotis sistema suteikimas keltų grėsmę Lietuvos Respublikos nacionalinio saugumo interesams ir Vyriausybės nustatytų gamtinių dujų tiekimo saugumo užtikrinimo priemonių įgyvendinimui. 
+Papildyta straipsnio punktu:
+Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
+ 
 
 
 
@@ -3518,6 +3546,14 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 5. Taryba turi teisę įpareigoti gamtinių dujų įmonę, atsisakiusią suteikti teisę naudotis sistema dėl pajėgumų ar jungčių trūkumo, atlikti būtinus ekonomiškai pagrįstus arba potencialaus vartotojo apmokamus patobulinimus. 
+
+
+
+
+6. Gamtinių dujų įmonės, pateikdamos argumentuotus motyvus, atsisako suteikti teisę naudotis sistema, jeigu jos įgyvendina šio įstatymo 46 straipsnio 31 ir 32 dalyse nustatytus draudimus.
+Papildyta straipsnio dalimi:
+Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
+ 
 
 
 Straipsnio pakeitimai:
@@ -4380,3 +4416,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 5, 9, 45, 46, 47 ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1095, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10293
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 9 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 46, 47 ir 52 straipsnių pakeitimo įstatymas
