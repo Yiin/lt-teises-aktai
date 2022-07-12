@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2022-02-01 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
@@ -1270,7 +1270,10 @@ Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
 
 
 
-8. Šio straipsnio 3–6 dalyse nurodyti dydžiai, nuo kurių priklauso asmeniui mokėtinos pensijų išmokos rūšis, kas 5 metus indeksuojami vidutinės metinės infliacijos, apskaičiuotos pagal Lietuvos statistikos departamento skelbiamą suderintą vartotojų kainų indeksą, suminį 5 paskutinių metų rodiklį. Euro tikslumu suapvalintus naujus dydžius, pradedant 2025 metais taikomais dydžiais, ne vėliau kaip iki metų, einančių prieš taikymo metus, lapkričio 30 dienos savo interneto svetainėse paskelbia Socialinės apsaugos ir darbo ministerija ir pensijų anuitetų mokėtojas.
+8. Šio straipsnio 3–6 dalyse nurodyti dydžiai, nuo kurių priklauso asmeniui mokėtinos pensijų išmokos rūšis, kas 3 metus indeksuojami vidutinės metinės infliacijos, apskaičiuotos pagal Lietuvos statistikos departamento skelbiamą suderintą vartotojų kainų indeksą, suminį 3 paskutinių kalendorinių metų rodiklį. Euro tikslumu suapvalintus naujus dydžius, pradedant 2023 metais taikomais dydžiais, ne vėliau kaip iki metų, einančių prieš taikymo metus, lapkričio 30 dienos savo interneto svetainėse paskelbia Socialinės apsaugos ir darbo ministerija ir pensijų anuitetų mokėtojas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1251, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15193
+ 
 
 
 
@@ -2500,7 +2503,7 @@ PENSIJŲ KAUPIMO ĮMOKOS DYDŽIAI
 
 
  
-part_a45080f1492244e3adf98db2d136330a_end
+part_d8c49221dd5f42459fefab5670edb273_end
 
 
  
@@ -2640,3 +2643,8 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 14 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-659, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24261
 Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 33 ir 35-6 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1251, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15193
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 29 straipsnio pakeitimo įstatymas
