@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2022-04-08 iki 2022-07-11
+Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -854,7 +854,10 @@ Nr. XII-1232, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14521
 
 
 
-36) radiacinė sauga;
+36) Neteko galios nuo 2022-07-12
+Straipsnio punkto naikinimas:
+Nr. XIV-1264, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15194
+ 
 
 
 
@@ -5987,3 +5990,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 14 ir 15 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 7, 12, 13, 14, 15, 16, 19, 20, 24, 26, 27, 29, 32, 32-1, 33, 35-1, 53 straipsnių, devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIII-3380 21 straipsnio pakeitimo įstatymas
+ 
+61.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1264, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15194
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 7 straipsnio pakeitimo įstatymas
