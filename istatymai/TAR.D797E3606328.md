@@ -13,18 +13,20 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d797e360632811eca9ac839120d251c4"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 6, 8, 9, 10, 11, 11-1, 14, 16, 23 ir 30 straipsnių pakeitimo įstatymas
 
-LIETUVOS RESPUBLIKOS
-LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO NR. IX-110 2, 4, 6, 8, 9, 10, 11, 111, 14, 16, 22, 23 IR 30 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+Suvestinė redakcija nuo 2022-07-12
+ 
+Įstatymas paskelbtas: TAR 2021-12-22, i. k. 2021-26584
+ 
+ 
+
+ 
+LIETUVOS RESPUBLIKOS  LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO NR. IX-110 2, 4, 6, 8, 9, 10, 11, 111, 14, 16, 23 IR 30 STRAIPSNIŲ PAKEITIMO  ĮSTATYMAS 
  
 2021 m. gruodžio 14 d. Nr. XIV-752
 Vilnius
  
- 
-
- 
-
- 
+Pakeistas teisės akto pavadinimas:
+Nr. XIV-1191, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15182
  
 
 
@@ -313,36 +315,10 @@ Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-11 straipsnis. 22 straipsnio pakeitimas
-
-
-1. Pakeisti 22 straipsnio 5 dalį ir ją išdėstyti taip:
-
-
-
-
-„5. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, gaunančiam vaiko priežiūros išmoką, kuris tapo neapdraustu asmeniu (pasibaigus darbo sutarčiai, atleistam iš tarnybos, nutraukusiam individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį), vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.“
-
-
-
-
-
-
-
-
-2. Pakeisti 22 straipsnio 6 dalį ir ją išdėstyti taip:
-
-
-
-
-„6. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, turinčiam šio straipsnio 1 dalies 3 punkte nurodytą motinystės socialinio draudimo stažą, kuris per 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos tapo neapdraustu asmeniu (pasibaigus darbo sutarčiai, atleistam iš tarnybos, nutraukusiam individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį) ir dėl to negavo vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.“
+11 straipsnis. Neteko galios nuo 2022-07-12
+Straipsnio naikinimas:
+Nr. XIV-1191, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15182
  
-
-
-
-
-
-
 
 
 
@@ -390,7 +366,7 @@ Pakeisti 30 straipsnio 2 dalį ir ją išdėstyti taip:
 14 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 
-1. Šis įstatymas, išskyrus 1, 3–8, 10, 11, 12 straipsnius ir šio straipsnio 6 dalį, įsigalioja 2022 m. sausio 1 d.
+1. Šis įstatymas, išskyrus 1, 3–8, 10, 12 straipsnius ir šio straipsnio 6 dalį, įsigalioja 2022 m. sausio 1 d.
 
 
 
@@ -405,20 +381,22 @@ Pakeisti 30 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-4. Šio įstatymo 10 ir 11 straipsniai įsigalioja 2023 m. sausio 1 d.
+4. Šio įstatymo 10 straipsnis įsigalioja 2023 m. sausio 1 d.
 
 
 
 
-5. Asmenims, įgijusiems teisę gauti socialinio draudimo išmokas iki šio įstatymo 3, 10, 11 ir 12 straipsnių įsigaliojimo, socialinio draudimo išmokos skiriamos ir mokamos pagal iki šio įstatymo 3, 10, 11 ir 12 straipsnių įsigaliojimo nustatytą tvarką.
+5. Asmenims, įgijusiems teisę gauti valstybinio socialinio draudimo išmokas iki šio įstatymo 3, 10 ir 12 straipsnių įsigaliojimo, valstybinio socialinio draudimo išmokos skiriamos ir mokamos pagal iki šio įstatymo 3, 10 ir 12 straipsnių įsigaliojimo nustatytą tvarką.
 
 
 
 
-6. Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos socialinės apsaugos ir darbo ministras ir Lietuvos Respublikos sveikatos apsaugos ministras iki 2021 m. gruodžio 31 d. priima šio įstatymo nuostatų, įsigaliosiančių 2022 m. sausio 1 d., įgyvendinamuosius teisės aktus. Socialinės apsaugos ir darbo ministras iki 2022 m. birželio 30 d. priima šio įstatymo nuostatų, įsigaliosiančių 2022 m. liepos 1 d., įgyvendinamuosius teisės aktus.
+6. Lietuvos Respublikos Vyriausybė, socialinės apsaugos ir darbo ministras ir sveikatos apsaugos ministras iki 2021 m. gruodžio 31 d. priima šio įstatymo nuostatų, įsigaliosiančių 2022 m. sausio 1 d., įgyvendinamuosius teisės aktus. Socialinės apsaugos ir darbo ministras iki 2022 m. birželio 30 d. priima šio įstatymo nuostatų, įsigaliosiančių 2022 m. liepos 1 d., įgyvendinamuosius teisės aktus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1191, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15182
  
-
-
 
 
 
@@ -430,4 +408,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_3002ba0641644dd6b1b1586db0d8abb5_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1191, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15182
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 6, 8, 9, 10, 11, 11-1, 14, 16, 22, 23 ir 30 straipsnių pakeitimo įstatymo Nr. XIV-752 pavadinimo, 14 straipsnio pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
