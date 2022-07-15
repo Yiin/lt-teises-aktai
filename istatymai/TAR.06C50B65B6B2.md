@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
  
@@ -84,6 +84,11 @@ Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
 
 
 4) tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo), jei yra nustatytas piniginės kompensacijos dydis;
+4 punkto redakcija nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos:
+4) tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo), jei yra nustatytas piniginės kompensacijos dydis, ir šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
+ 
 
 
 
@@ -119,7 +124,10 @@ Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
 
 
 
-5. Valstybės institucija ar pareigūnas, gavę tarptautinių institucijų sprendimus dėl piniginės kompensacijos išmokėjimo, nedelsdami juos pateikia Teisingumo ministerijai. Šie sprendimai turi būti įvykdyti ne vėliau kaip per 3 mėnesius nuo tada, kai juos gauna Teisingumo ministerija, jei tarptautinės teisės aktai nenustato kitaip.
+5. Valstybės institucija ar pareigūnas, gavę tarptautinių institucijų sprendimus dėl piniginės kompensacijos išmokėjimo, nedelsdami juos pateikia Teisingumo ministerijai. Šie sprendimai turi būti įvykdyti ne vėliau kaip per 3 mėnesius nuo jų gavimo Teisingumo ministerijoje dienos, jei tarptautinės teisės aktai ar tarptautinių institucijų sprendimai nenustato kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
+ 
 
 
 
@@ -201,9 +209,10 @@ Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
 3 straipsnis. Žalos atlyginimas ne teismo tvarka
 
 
-1. Asmuo turi teisę kreiptis į Teisingumo ministeriją dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis) ne teismo tvarka ne vėliau kaip per 3 metus nuo to laiko, kai jis sužinojo arba turėjo sužinoti, kad įstatymų nustatyta tvarka nustatyta, jog nuteisimas, kardomasis kalinimas (suėmimas), sulaikymas, procesinių prievartos priemonių pritaikymas ar administracinės nuobaudos – arešto paskyrimas yra neteisėti. Asmuo, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, turi teisę kreiptis į Teisingumo ministeriją dėl žalos dydžio nustatymo ir žalos atlyginimo. Teisingumo ministerija turi teisę įvykdyti tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo) ir tuo atveju, kai nėra asmens prašymo. 
+1. Asmuo turi teisę kreiptis į Teisingumo ministeriją dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis) ne teismo tvarka ne vėliau kaip per 3 metus nuo to laiko, kai jis sužinojo arba turėjo sužinoti, kad įstatymų nustatyta tvarka nustatyta, jog nuteisimas, kardomasis kalinimas (suėmimas), sulaikymas, procesinių prievartos priemonių pritaikymas ar administracinės nuobaudos – arešto paskyrimas yra neteisėti. Asmuo, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, ne vėliau kaip per 3 metus nuo sprendimo priėmimo dienos turi teisę kreiptis į Teisingumo ministeriją dėl žalos dydžio nustatymo ir žalos atlyginimo. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
+Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
  
 
 
@@ -277,7 +286,10 @@ Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA
 
 
 
-6. Teisingumo ministerija ne vėliau kaip per 3 mėnesius nuo asmens prašymo atlyginti žalą ne teismo tvarka ir visų žalos dydžiui apskaičiuoti reikalingų dokumentų gavimo turi asmeniui pateikti motyvuotą rašytinį siūlymą dėl žalos atlyginimo ne teismo tvarka ir nustatyti protingą, bet ne ilgesnį negu vieno mėnesio terminą, per kurį asmuo gali atvykti į Teisingumo ministeriją pasirašyti taikos sutartį, arba motyvuotą rašytinį atsisakymą atlyginti žalą ne teismo tvarka. Jei asmuo per nustatytą terminą neatvyksta pasirašyti taikos sutarties, laikoma, kad jis nesutiko su siūlomu žalos atlyginimu. Jei asmuo negalėjo atvykti dėl svarbių priežasčių, Teisingumo ministerija nustato papildomą terminą taikos sutarčiai pasirašyti.
+6. Teisingumo ministerija ne vėliau kaip per 3 mėnesius nuo asmens prašymo atlyginti žalą ne teismo tvarka ir visų žalos dydžiui apskaičiuoti reikalingų dokumentų gavimo dienos turi asmeniui pateikti motyvuotą rašytinį siūlymą dėl žalos atlyginimo ne teismo tvarka ir nustatyti protingą, bet ne ilgesnį negu vieno mėnesio terminą, per kurį asmuo gali pasirašyti taikos sutartį, arba motyvuotą rašytinį atsisakymą atlyginti žalą ne teismo tvarka. Jei asmuo per nustatytą terminą nepasirašo taikos sutarties, laikoma, kad jis nesutiko su siūlomu žalos atlyginimu. Jei asmuo negalėjo pasirašyti taikos sutarties dėl svarbių priežasčių, Teisingumo ministerija nustato papildomą terminą taikos sutarčiai pasirašyti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
+ 
 
 
 
@@ -292,7 +304,10 @@ Nr. X-370, 2005-10-18, Žin., 2005, Nr. 127-4532 (2005-10-27), i. k. 1051010ISTA
 
 
 
-9. Asmuo, kuris nesutiko su Teisingumo ministerijos siūlymu dėl žalos atlyginimo ne teismo tvarka, atsisakė žalos atlyginimo ne teismo tvarka ar šio straipsnio 6 dalyje nustatytu laiku neatvyko pasirašyti taikos sutarties, turi teisę kreiptis į teismą dėl žalos atlyginimo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+9. Asmuo, kuris nesutiko su Teisingumo ministerijos siūlymu dėl žalos atlyginimo ne teismo tvarka, atsisakė žalos atlyginimo ne teismo tvarka ar nepasirašė šio straipsnio 6 dalyje nurodytos taikos sutarties, turi teisę kreiptis į teismą dėl žalos atlyginimo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
+ 
 
 
 
@@ -310,10 +325,11 @@ Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010IST
 4 straipsnis. Ne teismo tvarka atlyginamos žalos dydžio nustatymas
 
 
-1. Asmeniui, kuriam žala atsirado dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis), taip pat asmeniui, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, ne teismo tvarka atlyginama reali turtinė žala, t. y. turto netekimas arba sužalojimas, turėtos išlaidos, negautos pajamos (negautas darbo užmokestis ar kitos darbinės pajamos atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas; pašalpos; pensijos), kurias asmuo būtų gavęs, jeigu nebūtų buvę neteisėtų veiksmų, taip pat neturtinė žala, apskaičiuota šio straipsnio nustatyta tvarka. Ne teismo tvarka atlyginamos turtinės žalos dydis negali viršyti 2 900 eurų, o neturtinės žalos dydis negali viršyti 1 500 eurų. Teisingumo ministerija, atlygindama žalą dėl negauto darbo užmokesčio, sumoka privalomojo valstybinio socialinio draudimo įmokas (mokamas darbdavio ir darbuotojo) į Valstybinio socialinio draudimo fondo biudžetą už laikotarpį, per kurį asmuo negavo darbo užmokesčio dėl neteisėtų veiksmų. Privalomojo valstybinio socialinio draudimo įmokos neįskaičiuojamos į asmeniui atlyginamos turtinės žalos sumą.
+1. Asmeniui, kuriam žala atsirado dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis), taip pat asmeniui, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, ne teismo tvarka atlyginama reali turtinė žala, t. y. turto netekimas arba sužalojimas, turėtos išlaidos, negautos pajamos (negautas darbo užmokestis ar kitos darbinės pajamos, atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas; pašalpos; pensijos), kurias asmuo būtų gavęs, jeigu nebūtų buvę neteisėtų veiksmų, taip pat neturtinė žala, apskaičiuota šio straipsnio nustatyta tvarka. Ne teismo tvarka atlyginamos turtinės žalos dydis negali viršyti 2 900 eurų, o neturtinės žalos dydis negali viršyti 1 500 eurų. Teisingumo ministerija, atlygindama žalą dėl negauto darbo užmokesčio, sumoka pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą ir Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą darbdavio ir darbuotojo mokėtinas įmokas ir mokesčius už laikotarpį, per kurį asmuo negavo darbo užmokesčio dėl neteisėtų veiksmų. Privalomojo valstybinio socialinio draudimo įmokos ir gyventojų pajamų mokestis neįskaičiuojami į asmeniui atlyginamos turtinės žalos sumą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
 Nr. XII-1257, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14861
+Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
  
 
 
@@ -425,7 +441,10 @@ Nr. XII-2716, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26501
 
 
 
-3. Europos Sąjungos Teisingumo Teisme ir Europos laisvosios prekybos asociacijos teisme Lietuvos valstybei atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija (įstaiga). Europos Žmogaus Teisių Teisme, Jungtinių Tautų Žmogaus teisių komitete nagrinėjant bylas prieš Lietuvos Respubliką valstybei atstovauja Lietuvos Respublikos Vyriausybės atstovas Europos Žmogaus Teisių Teisme.
+3. Europos Sąjungos Teisingumo Teisme ir Europos laisvosios prekybos asociacijos teisme Lietuvos valstybei atstovauja Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija (įstaiga). Europos Žmogaus Teisių Teisme, Jungtinių Tautų Žmogaus teisių komitete, Lietuvos Respublikos Vyriausybės pavedimu – ir kituose Jungtinių Tautų komitetuose nagrinėjant bylas prieš Lietuvos Respubliką valstybei atstovauja Lietuvos Respublikos Vyriausybės atstovas Europos Žmogaus Teisių Teisme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
+ 
 
 
 
@@ -627,5 +646,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-370, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13178
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 1, 3 straipsnių pakeitimo ir įstatymo papildymo 2-1 straipsniu įstatymas
  
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
+Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 2, 3, 4 ir 5-1 straipsnių pakeitimo įstatymas
  
-part_19fa5b06dfad4c37adc2b9df878e67c9_end
+ 
+part_7ca4a315255d49e5a6e87733044041e1_end
