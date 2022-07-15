@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
  
@@ -1531,7 +1531,10 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 43 straipsnis. Kiti advokatų veiklos apribojimai
 
 
-1. Advokatas, įrašytas į Lietuvos praktikuojančių advokatų sąrašą, atlikdamas profesines pareigas, negali dalyvauti žvalgybos ir (ar) kriminalinės žvalgybos veikloje, dirbti ar eiti kitas mokamas pareigas, išskyrus darbą Lietuvos advokatūroje ir mokslinę, kūrybinę ar pedagoginę veiklą, taip pat šio Įstatymo 4 straipsnio 4 dalyje nurodytą veiklą.
+1. Advokatas, įrašytas į Lietuvos praktikuojančių advokatų sąrašą, negali dalyvauti žvalgybos ir (ar) kriminalinės žvalgybos veikloje, dirbti ar eiti kitų mokamų pareigų, išskyrus darbą Lietuvos advokatūroje, savanoriškos nenuolatinės karo tarnybos atlikimą ir mokslinę, kūrybinę ar pedagoginę veiklą, taip pat šio Įstatymo 4 straipsnio 4 dalyje nurodytą veiklą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1360, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15454
+ 
 
 
 
@@ -2939,3 +2942,8 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 16 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
 Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 9, 35, 39, 56, 57, 60 ir 64 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1360, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15454
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 43 straipsnio pakeitimo įstatymas
