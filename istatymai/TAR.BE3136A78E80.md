@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
  
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
  
@@ -1102,10 +1102,11 @@ Notaras nevaržomai dalyvauja notarų savivaldos ir kitų renkamų institucijų 
 
 
 
-Notaras negali gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, atlygį už arbitro funkcijų atlikimą, atlyginimą už mediacijos paslaugų teikimą, atlyginimą už aukcionų organizavimo ir vykdymo paslaugų teikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo komisijose, kompensaciją už darbą Notarų rūmuose, užmokestį už pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma tais atvejais, kai sustabdomi notaro įgaliojimai. 
+Notaras negali gauti jokio kito atlyginimo, išskyrus notaro atlyginimą, atlygį už arbitro funkcijų atlikimą, atlyginimą už mediacijos paslaugų teikimą, atlyginimą už aukcionų organizavimo ir vykdymo paslaugų teikimą, atlyginimą už darbą visų lygių rinkimų ir referendumo komisijose, tarnybinį atlyginimą už savanoriškos nenuolatinės karo tarnybos atlikimą, kompensaciją už darbą Notarų rūmuose, užmokestį už pedagoginę ar kūrybinę veiklą. Ši nuostata netaikoma tais atvejais, kai sustabdomi notaro įgaliojimai.
 Straipsnio dalies pakeitimai:
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 Nr. XIII-3355, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24243
+Nr. XIV-1362, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15456
  
 
 
@@ -2614,7 +2615,10 @@ Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
 62 straipsnis. Kandidatų į notarus (asesorių) veiklos apribojimai
 
 
-Kandidatui į notarus (asesoriui) neleidžiama dirbti jokio kito darbo arba verstis kokia nors kitokia mokama veikla (išskyrus mokslinį ar pedagoginį bei kūrybinį darbą, arbitro funkcijų atlikimą, darbą visų lygių rinkimų ir referendumo komisijose). Kandidatas į notarus (asesorius) gali dirbti pagal darbo sutartį notaro biure, kuriame jis atlieka praktiką.
+Kandidatui į notarus (asesoriui) neleidžiama dirbti jokio kito darbo arba verstis kokia nors kitokia mokama veikla (išskyrus mokslinį ar pedagoginį bei kūrybinį darbą, savanoriškos nenuolatinės karo tarnybos atlikimą, arbitro funkcijų atlikimą, darbą visų lygių rinkimų ir referendumo komisijose). Kandidatas į notarus (asesorius) gali dirbti pagal darbo sutartį notaro biure, kuriame jis atlieka praktiką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1362, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15456
+ 
 
 
 
@@ -2855,3 +2859,8 @@ Lietuvos Respublikos notariato įstatymo Nr. I-2882 46 ir 49-1 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-613, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23535
 Lietuvos Respublikos notariato įstatymo Nr. I-2882 3 ir 23 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1362, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15456
+Lietuvos Respublikos notariato įstatymo Nr. I-2882 20 ir 62 straipsnių pakeitimo įstatymas
