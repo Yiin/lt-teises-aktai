@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2024-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -312,9 +312,10 @@ Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA
 10 straipsnis. Antstolio veiklos apribojimas
 
 
-1. Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus darbą antstolių savivaldos institucijose ir mokslinę, kūrybinę ar pedagoginę veiklą, darbą visų lygių rinkimų ir referendumo komisijose. Be to, antstolis negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu. Atlikdamas šiame Įstatyme nustatytas funkcijas, antstolis negali naudotis juridinio asmens, kurio dalyvis yra jis pats, jo sutuoktinis (sugyventinis) ar artimasis giminaitis, paslaugomis, taip pat negali naudotis sutuoktinio (sugyventinio) ar artimųjų giminaičių paslaugomis. 
+1. Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus darbą antstolių savivaldos institucijose ir mokslinę, kūrybinę ar pedagoginę veiklą, savanoriškos nenuolatinės karo tarnybos atlikimą, darbą visų lygių rinkimų ir referendumo komisijose. Be to, antstolis negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu. Atlikdamas šiame Įstatyme nustatytas funkcijas, antstolis negali naudotis juridinio asmens, kurio dalyvis yra jis pats, jo sutuoktinis (sugyventinis) ar artimasis giminaitis, paslaugomis, taip pat negali naudotis sutuoktinio (sugyventinio) ar artimųjų giminaičių paslaugomis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+Nr. XIV-1361, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15455
  
 
 
@@ -1254,7 +1255,10 @@ Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
 32 straipsnis. Antstolio padėjėjo veiklos apribojimas
 
 
-1. Antstolio padėjėjas negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus mokslinę, kūrybinę ar pedagoginę veiklą, darbą visų lygių rinkimų ir referendumo komisijose, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu.
+1. Antstolio padėjėjas negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus mokslinę, kūrybinę ar pedagoginę veiklą, savanoriškos nenuolatinės karo tarnybos atlikimą, darbą visų lygių rinkimų ir referendumo komisijose, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1361, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15455
+ 
 
 
 
@@ -2084,3 +2088,8 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 5, 6, 8, 11, 12, 13, 14, 15
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-612, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23534
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 5, 12 ir 39 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1361, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15455
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 10 ir 32 straipsnių pakeitimo įstatymas
