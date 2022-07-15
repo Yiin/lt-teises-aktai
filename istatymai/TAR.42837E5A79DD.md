@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-07-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -3549,18 +3549,20 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-49 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui suteikus laikinąją apsaugą Lietuvos Respublikoje
+49 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui suteikus laikinąją apsaugą 
 
 
-1. Leidimas laikinai gyventi užsieniečiui išduodamas, jeigu jam šio Įstatymo nustatyta tvarka suteikta laikinoji apsauga Lietuvos Respublikoje.
+1. Leidimas laikinai gyventi užsieniečiui išduodamas, jeigu jam šio Įstatymo nustatyta tvarka suteikta laikinoji apsauga.
 
 
 
 
-2. Leidimas laikinai gyventi užsieniečiui išduodamas Lietuvos Respublikos Vyriausybės nustatytam laikinosios apsaugos Lietuvos Respublikoje suteikimo laikotarpiui.
+2. Leidimas laikinai gyventi užsieniečiui išduodamas Lietuvos Respublikos Vyriausybės nustatytam laikotarpiui, kuris gali būti ne ilgesnis negu 2 metai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
-
-
 
 
 
@@ -6623,77 +6625,39 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 KETVIRTASIS SKIRSNIS
-LAIKINOSIOS APSAUGOS LIETUVOS RESPUBLIKOJE SUTEIKIMAS
+LAIKINOSIOS APSAUGOS SUTEIKIMAS
  
 
 
-92 straipsnis. Sprendimo dėl laikinosios apsaugos Lietuvos Respublikoje užsieniečiams suteikimo priėmimas
+92 straipsnis. Sprendimo dėl laikinosios apsaugos užsieniečiams suteikimo priėmimas, užsieniečių, kurie turi teisę gauti laikinąją apsaugą, atvykimas ir laikinosios apsaugos trukmė
 
 
-1. Jeigu Europos Sąjungos Taryba priima sprendimą, kad yra užsieniečių antplūdis į Europos Sąjungą arba kyla tokio antplūdžio pavojus, vidaus reikalų ministro teikimu sprendimą dėl laikinosios apsaugos suteikimo užsieniečiams priima Lietuvos Respublikos Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+1. Jeigu Europos Sąjungos Taryba priima sprendimą, kad yra užsieniečių antplūdis į Europos Sąjungą arba kyla tokio antplūdžio pavojus, vidaus reikalų ministro teikimu Lietuvos Respublikos Vyriausybė priima nutarimą dėl laikinosios apsaugos.
 
 
 
 
-2. Jeigu Lietuvos Respublikos Vyriausybė priima sprendimą dėl laikinosios apsaugos suteikimo, užsieniečiai į Lietuvos Respublikos teritoriją įleidžiami ir apgyvendinami Lietuvos Respublikos Vyriausybės nustatytoje vietoje neapribojant jų judėjimo laisvės.
-Straipsnio dalies pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+2. Jeigu Lietuvos Respublikos Vyriausybė priima nutarimą dėl laikinosios apsaugos suteikimo, užsieniečiai, kurie turi teisę gauti laikinąją apsaugą, į Lietuvos Respublikos teritoriją įleidžiami netaikant reikalavimų turėti galiojantį kelionės dokumentą, sveikatos draudimą ir kitus dokumentus, suteikiančius teisę jiems atvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje, taip pat gali būti netaikomos nacionalinių vizų ar leidimų gyventi išdavimo sąlygos, jeigu šių reikalavimų užsienietis negali (negalėjo) užtikrinti dėl objektyvių priežasčių.
 
 
 
 
-3. Laikinoji apsauga suteikiama vieneriems metams. Laikinoji apsauga gali būti pratęsta, bet ne ilgiau kaip vieneriems metams.
+3. Laikinoji apsauga suteikiama vieneriems metams nuo šio straipsnio 1 dalyje nurodyto Europos Sąjungos Tarybos sprendimo įsigaliojimo dienos. Jeigu Europos Sąjungos Taryba nepriėmė sprendimo panaikinti laikinąją apsaugą, Lietuvos Respublikos Vyriausybės nutarimu laikinoji apsauga gali būti pratęsta du kartus po 6 mėnesius. 
 
 
 
 
-4. Jeigu užsienietis turi teisę gauti laikinąją apsaugą Lietuvos Respublikoje, tačiau yra rimtas pagrindas manyti, kad gali būti priežasčių, dėl kurių laikinoji apsauga nesuteikiama, Migracijos departamentas atlieka tyrimą, susijusį su šių priežasčių nustatymu. 
- 
+4. Pasibaigus šio straipsnio 3 dalyje nurodytam laikinosios apsaugos laikotarpiui, Lietuvos Respublikos Vyriausybė laikinosios apsaugos suteikimo laikotarpį gali pratęsti, bet ne ilgiau kaip vieneriems metams, jeigu sprendimą pratęsti laikinosios apsaugos laikotarpį priima Europos Sąjungos Taryba.
 
 
 
 
-
-
-93 straipsnis. Priežastys, dėl kurių laikinoji apsauga Lietuvos Respublikoje  nesuteikiama
-
-
-1. Laikinoji apsauga Lietuvos Respublikoje užsieniečiui nesuteikiama, jeigu:
-
-
-1) yra rimtas pagrindas manyti, kad užsienietis padarė nusikaltimą taikai, nusikaltimą žmoniškumui ar karo nusikaltimą, kaip jie apibrėžiami Lietuvos Respublikos įstatymuose, tarptautinėse sutartyse arba kituose tarptautinės teisės šaltiniuose, arba kurstė ar kitaip dalyvavo darant tokius nusikaltimus;
-Straipsnio punkto pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+5. Laikinosios apsaugos terminas baigiasi pasibaigus šio straipsnio 3 ar 4 dalyje nustatytam laikinosios apsaugos laikotarpiui arba Europos Sąjungos Tarybai priėmus sprendimą panaikinti laikinąją apsaugą.
 
 
 
 
-2) yra rimtas pagrindas manyti, kad užsienietis padarė sunkų nepolitinį nusikaltimą už Lietuvos Respublikos ribų prieš priimant jį į Lietuvos Respubliką kaip asmenį, kuris naudojasi laikinąja apsauga;
-
-
-
-
-3) yra rimtas pagrindas manyti, kad užsienietis kaltinamas veika, prieštaraujančia Jungtinių Tautų Organizacijos tikslams ir principams;
-
-
-
-
-4) yra rimtas pagrindas manyti, kad jo buvimas Lietuvos Respublikoje kelia grėsmę valstybės saugumui arba jis įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir kelia grėsmę visuomenei. 
-Straipsnio punkto pakeitimai:
-Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
- 
-
-
-
-
-5) Neteko galios nuo 2015-09-01
-Straipsnio punkto naikinimas:
-Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
+6. Lietuvos Respublikos Vyriausybė, priimdama šio straipsnio 1 dalyje nurodytą nutarimą, paskiria valstybės institucijas ir įstaigas, atsakingas už laikinosios apsaugos suteikimo ir įgyvendinimo proceso valdymą, ir suteikia joms įgaliojimus. 
  
 
 
@@ -6701,21 +6665,51 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 
 
-2. Sprendimą nesuteikti užsieniečiui laikinosios apsaugos Lietuvos Respublikoje priima Migracijos departamentas. Toks užsienietis į Lietuvos Respubliką neįleidžiamas, o jeigu jis jau yra Lietuvos Respublikos teritorijoje, išsiunčiamas iš Lietuvos Respublikos.
+93 straipsnis. Priežastys, dėl kurių laikinoji apsauga nesuteikiama
 
 
-Straipsnio pakeitimai:
-Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
-Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
+1. Jeigu užsienietis turi teisę gauti laikinąją apsaugą, tačiau yra rimtas pagrindas manyti, kad gali būti priežasčių, dėl kurių laikinoji apsauga nesuteikiama, Migracijos departamentas atlieka tyrimą šioms priežastims nustatyti.
+
+
+
+
+2. Laikinoji apsauga užsieniečiui nesuteikiama, jeigu yra rimtas pagrindas manyti, kad:
+
+
+1) užsienietis padarė nusikaltimą taikai, nusikaltimą žmoniškumui ar karo nusikaltimą, kaip jie apibrėžiami Lietuvos Respublikos įstatymuose, tarptautinėse sutartyse arba kituose tarptautinės teisės šaltiniuose, arba kurstė ar kitaip dalyvavo darant tokius nusikaltimus;
+
+
+
+
+2) užsienietis padarė sunkų nepolitinį nusikaltimą už Lietuvos Respublikos ribų prieš priimant jį į Lietuvos Respubliką kaip asmenį, kuris naudojasi laikinąja apsauga;
+
+
+
+
+3) užsienietis kaltinamas veika, prieštaraujančia Jungtinių Tautų Organizacijos tikslams ir principams;
+
+
+
+
+4) jo buvimas Lietuvos Respublikoje kelia grėsmę valstybės saugumui arba jis įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir kelia grėsmę visuomenei.
+
+
+
+
+
+
+3. Sprendimą nesuteikti užsieniečiui laikinosios apsaugos priima Migracijos departamentas. Toks užsienietis į Lietuvos Respubliką neįleidžiamas, o jeigu jis jau yra Lietuvos Respublikos teritorijoje, išsiunčiamas iš Lietuvos Respublikos.
  
 
 
 
 
-94 straipsnis. Užsieniečių, gavusių laikinąją apsaugą Lietuvos Respublikoje, teisės ir pareigos 
 
 
-1. Užsieniečiai, gavę laikinąją apsaugą Lietuvos Respublikoje, laikinosios apsaugos teikimo laikotarpiu turi šias teises:
+94 straipsnis. Užsieniečių, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, teisės ir pareigos
+
+
+1. Užsieniečiai, kurie turi teisę gauti laikinąją apsaugą, iki sprendimo dėl laikinosios apsaugos suteikimo (nesuteikimo) priėmimo, tačiau ne ilgiau kaip laikinosios apsaugos laikotarpiu, turi šias teises:
 
 
 1) pateikti prašymus suteikti jiems prieglobstį Lietuvos Respublikoje šio Įstatymo nustatyta tvarka;
@@ -6723,27 +6717,87 @@ Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
 
 
 
-2) nemokamai gyventi Lietuvos Respublikos Vyriausybės nustatytoje vietoje;
+2) nemokamai gyventi valstybės ir savivaldybių institucijų, įstaigų, organizacijų, valstybės ir savivaldybių valdomų bendrovių ar įmonių, viešųjų įstaigų, kurių steigėja ar dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, (toliau kartu – valstybės ar savivaldybių įstaigos) apgyvendinimo vietose (įskaitant ir savivaldybių panaudos teise valdomą valstybės nekilnojamąjį turtą), taip pat fizinių ar juridinių asmenų (išskyrus valstybės ar savivaldybių įstaigas) savanoriškai pasiūlytose apgyvendinimo vietose; 
 
 
 
 
-3) gauti visą reikiamą informaciją apie savo teisinę padėtį Lietuvos Respublikoje gimtąja arba jam suprantama kalba;
+3) gauti visą reikiamą informaciją apie savo teisinę padėtį Lietuvos Respublikoje gimtąja arba jiems suprantama kalba;
 
 
 
 
-4) dirbti Lietuvos Respublikoje laikinosios apsaugos suteikimo laikotarpiu;
+4) dirbti ir yra atleidžiami nuo pareigos įsigyti leidimą dirbti, taip pat verstis individualia veikla, kaip ji apibrėžiama Gyventojų pajamų mokesčio įstatyme (toliau – individuali veikla);
 
 
 
 
-5) gauti piniginę pašalpą, jeigu neturi kitų pajamų Lietuvos Respublikoje;
+5) pateikę prašymą išduoti arba pakeisti leidimą laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 4, 41 ar 10 punkte nurodytu pagrindu, – dirbti (taip pat ir pagal laikinojo darbo sutartį) ir yra atleidžiami nuo pareigos įsigyti leidimą dirbti, gauti Užimtumo tarnybos sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, taip pat verstis individualia veikla; 
 
 
 
 
-6) gauti būtinąją medicinos pagalbą ir socialines paslaugas;
+6) pateikę prašymą suteikti prieglobstį Lietuvos Respublikoje, – dirbti ar verstis individualia veikla nuo prašymo suteikti prieglobstį užregistravimo Lietuvos migracijos informacinėje sistemoje dienos;
+
+
+
+
+7) gauti Sveikatos sistemos įstatyme nurodytą valstybės laiduojamą (nemokamą) sveikatos priežiūrą, taip pat, atsižvelgiant į valstybės biudžeto galimybes, gauti receptinius vaistus sveikatos apsaugos ministro nustatytais atvejais, sąlygomis ir tvarka;
+
+
+
+
+8) gauti socialines paslaugas, kurių skyrimo sąlygas ir finansavimo tvarką nustato socialinės apsaugos ir darbo ministras;
+
+
+
+
+9) naudotis Užimtumo įstatyme nustatytomis darbo rinkos paslaugomis ir užimtumo rėmimo priemonėmis;
+
+
+
+
+10) kitas teises, kurios jiems garantuojamos pagal Lietuvos Respublikos tarptautines sutartis, įstatymus ir kitus teisės aktus.
+
+
+
+
+
+
+2. Nepilnamečiai užsieniečiai, turintys teisę gauti laikinąją apsaugą, turi teisę mokytis pagal bendrojo ugdymo arba formaliojo profesinio mokymo programą (programas) švietimo, mokslo ir sporto ministro nustatyta tvarka.
+
+
+
+
+3. Užsieniečiai, kuriems suteikta laikinoji apsauga, laikinosios apsaugos laikotarpiu turi šias teises:
+
+
+1) numatytas šio straipsnio 1 ir 2 dalyse;
+
+
+
+
+2) gauti piniginę socialinę paramą nepasiturintiems gyventojams, išmokas vaikams, laidojimo pašalpą, slaugos ir priežiūros (pagalbos) išlaidų tikslinę kompensaciją, šalpos išmoką, pateikę prašymą nurodytos socialinės paramos skyrimą ir mokėjimą reglamentuojančių teisės aktų nustatyta tvarka; 
+
+
+
+
+3) gauti šio Įstatymo 108 straipsnio 1 dalies 2 ir 5 punktuose nurodytas išmoką ir kompensaciją, kurių skyrimo ir finansavimo tvarką nustato socialinės apsaugos ir darbo ministras. Šio Įstatymo 108 straipsnio 1 dalies 5 punkte nurodyta kompensacija mokama ne daugiau kaip už 6 mėnesius nuo ikimokyklinio ir (arba) priešmokyklinio ugdymo pagal ikimokyklinio ar priešmokyklinio ugdymo programą pradžios ir neturi įtakos kitoms užsieniečiams pagal Lietuvos Respublikos įstatymus priklausančioms kas mėnesį mokamoms išmokoms ir (ar) kompensacijoms, taip pat skiriamai piniginei socialinei paramai, paramai būstui įsigyti ar išsinuomoti arba apmokėjimui už socialines paslaugas;
+
+
+
+
+4) kreiptis į Neįgalumo ir darbingumo nustatymo tarnybą prie Socialinės apsaugos ir darbo ministerijos dėl jiems jų kilmės valstybėje nustatytos negalios prilyginimo Lietuvos Respublikos teisės aktuose reglamentuojamam neįgalumui socialinės apsaugos ir darbo ministro nustatyta tvarka;
+
+
+
+
+5) gauti paramą būstui įsigyti ar išsinuomoti Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo nustatyta tvarka. Siekiant gauti būsto nuomos mokesčio dalies kompensaciją, netaikomi Paramos būstui įsigyti ar išsinuomoti įstatymo 10 straipsnio 1 punkte nustatyti reikalavimai, taip pat reikalavimas dėl būsto nuomos sutarties termino, o būsto nuomos mokesčio dalies kompensacijos dydis nustatomas pagal būsto nuomos sutartyje nurodytą kartu gyvenančių užsieniečių, kuriems suteikta laikinoji apsauga, skaičių, netaikant minimalaus tinkamo būsto naudingojo ploto normatyvo; 
+
+
+
+
+6) būti įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka, jeigu dėl objektyvių priežasčių negali deklaruoti gyvenamosios vietos;
 
 
 
@@ -6755,22 +6809,32 @@ Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
 
 
 
-2. Nepilnamečiai prieglobsčio prašytojai turi teisę mokytis pagal bendrojo ugdymo arba profesinio mokymo programą (programas) švietimo ir mokslo ministro nustatyta tvarka.
+4. Šio straipsnio 1 dalies 1 punkte nurodyta teisė gali būti įgyvendinama ir pasibaigus laikinosios apsaugos laikotarpiui.
 
 
 
 
-3. Šio straipsnio 1 dalies 1 punkte nurodyta teisė gali būti įgyvendinama ir pasibaigus laikinosios apsaugos laikotarpiui.
+5. Užsieniečių, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, nemokamo apgyvendinimo tikslais valstybės nekilnojamasis turtas panaudos pagrindais laikinai neatlygintinai naudoti gali būti perduodamas savivaldybių administracijoms, koordinuojančioms užsieniečių, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, apgyvendinimą savivaldybės teritorijoje. Su užsieniečių, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, nemokamu apgyvendinimu valstybės ar savivaldybių įstaigų pasiūlytose apgyvendinimo vietose susijusios išlaidos kompensuojamos valstybės biudžeto lėšomis. Informacijos apie valstybės ar savivaldybių įstaigų siūlomą nekilnojamąjį turtą užsieniečiams, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, apgyvendinti pateikimo ir šio turto perdavimo panaudos pagrindais laikinai neatlygintinai naudoti, taip pat išlaidų, susijusių su užsieniečių, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, apgyvendinimu, kompensavimo valstybės ir (ar) savivaldybės turto valdytojams arba naudotojams sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Už fizinių ar juridinių asmenų (išskyrus valstybės ar savivaldybių įstaigas) savanoriškai pasiūlytose apgyvendinimo vietose teikiamą apgyvendinimą gali būti skiriamos kompensacijos, kurių dydžius, skyrimo sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Šioje dalyje nurodyta kompensacija neturi įtakos kitoms fiziniam asmeniui pagal įstatymus priklausančioms kas mėnesį mokamoms išmokoms ir (ar) kompensacijoms, taip pat skiriamai piniginei socialinei paramai, paramai būstui įsigyti ar išsinuomoti arba apmokėjimui už socialines paslaugas.
 
 
 
 
-4. Užsieniečio, gavusio laikinąją apsaugą Lietuvos Respublikoje, šeimos nariai turi teisę į laikinąją apsaugą Lietuvos Respublikoje. Ši teisė įgyvendinama tik tuo atveju, jeigu nustatoma, kad šeimos nariai buvo išskirti dėl įvykių, po kurių užsieniečiui buvo suteikta laikinoji apsauga Lietuvos Respublikoje.
+6. Valstybės ir savivaldybių institucijos ir įstaigos skiria ir moka šio straipsnio 3 dalies 2 ir 5 punktuose nurodytą socialinę paramą jos skyrimą ir mokėjimą reglamentuojančių teisės aktų nustatyta tvarka užsieniečiams, nereikalaudamos iš jų ir (ar) užsienio valstybių institucijų pateikti informaciją, duomenis ir (ar) kitus dokumentus, reikalingus nustatyti užsieniečio teisę gauti šio straipsnio 3 dalies 2 ir 5 punktuose nurodytą socialinę paramą, kai užsienietis jų pateikti negali. 
 
 
 
 
-5. Užsieniečiai, gavę laikinąją apsaugą Lietuvos Respublikoje, turi šias pareigas:
+7. Vienkartinė išmoka vaikui ir (ar) išmoka vaikui skiriama, jeigu vienam iš vaiko tėvų (įtėvių), globėjui (rūpintojui) arba vaikui suteikta laikinoji apsauga.
+
+
+
+
+8. Užsieniečio, kuriam suteikta laikinoji apsauga, šeimos nariai turi teisę į laikinąją apsaugą. Ši teisė įgyvendinama tik tuo atveju, jeigu nustatoma, kad šeimos nariai buvo išskirti dėl įvykių, po kurių užsieniečiui buvo suteikta laikinoji apsauga. Įgyvendinant šias nuostatas, atsižvelgiama į geriausius vaiko interesus.
+
+
+
+
+9. Užsieniečiai, kurie turi teisę gauti laikinąją apsaugą ar kuriems suteikta laikinoji apsauga, turi šias pareigas:
 
 
 1) laikytis Lietuvos Respublikos Konstitucijos, įstatymų ir kitų teisės aktų reikalavimų;
@@ -6783,14 +6847,24 @@ Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
 
 
 
-3) pateikti visus turimus dokumentus ir tikrovę atitinkančią informaciją dėl savo asmens; 
+3) pateikti visus turimus dokumentus ir tikrovę atitinkančią informaciją dėl savo asmens;
 
 
 
 
-4) laisva forma raštu deklaruoti Lietuvos Respublikos Vyriausybės sprendime dėl laikinosios apsaugos suteikimo nurodytai institucijai lėšas ir turimą Lietuvos Respublikoje turtą per 3 dienas nuo laikinosios apsaugos Lietuvos Respublikoje suteikimo. 
-Straipsnio punkto pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+4) pateikti informaciją apie turimas lėšas ir Lietuvos Respublikoje turimą turtą Migracijos departamentui atliekant veiksmus, susijusius su laikinosios apsaugos suteikimu.
+
+
+
+
+
+
+10. Šio straipsnio 1, 2 ir 3 dalyse nustatytoms užsieniečių teisėms įgyvendinti skiriamos Lietuvos Respublikos valstybės lėšos, taip pat gali būti naudojamos tarptautinių organizacijų, Europos Sąjungos fondų, Europos Sąjungos struktūrinių fondų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšos tiek, kiek užsienietis, kuriam suteikta laikinoji apsauga, negali jų garantuoti turimomis lėšomis ir turtu.
+
+
+
+
+11. Paaiškėjus, kad užsienietis, kuriam suteikta laikinoji apsauga, turėjo lėšų apmokėti už šio straipsnio 1 ir 3 dalyse nustatytų teisių įgyvendinimą, kai jo pagrindiniai poreikiai buvo tenkinami nemokamai, jis privalo apmokėti valstybės patirtas išlaidas.
  
 
 
@@ -6798,38 +6872,15 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-6. Šio straipsnio 1 ir 2 dalyse nustatytoms užsieniečių teisėms įgyvendinti skiriamos Lietuvos Respublikos valstybės lėšos, taip pat gali būti naudojamos tarptautinių organizacijų, Europos Sąjungos struktūrinių fondų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšos tiek, kiek užsienietis, kuriam suteikta laikinoji apsauga, negali jų garantuoti deklaruotinomis lėšomis ir turtu. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
+95 straipsnis. Asmens dokumentų išdavimas užsieniečiams, kuriems suteikta laikinoji apsauga
+
+
+1. Užsieniečiams, kuriems suteikta laikinoji apsauga, Migracijos departamentas išduoda leidimus laikinai gyventi arba šio Įstatymo 92 straipsnio 1 dalyje nurodytame Lietuvos Respublikos Vyriausybės nutarime nustatytomis sąlygomis – skaitmeninį dokumentą, suteikiantį užsieniečiui teisę laikinai gyventi Lietuvos Respublikoje ir patvirtinantį suteiktą laikinąją apsaugą, kurio išdavimo tvarką nustato vidaus reikalų ministras.
 
 
 
 
-7. Paaiškėjus, kad užsienietis, kuriam suteikta laikinoji apsauga, turėjo lėšų apmokėti už šio straipsnio 1 ir 2 dalyse nustatytų teisių įgyvendinimą, kai jo pagrindiniai poreikiai buvo tenkinami nemokamai, jis privalo padengti valstybės patirtas išlaidas.
-Straipsnio dalies pakeitimai:
-Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
- 
-
-
-Straipsnio pakeitimai:
-Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
- 
-
-
-
-
-95 straipsnis. Asmens dokumentų išdavimas užsieniečiams, gavusiems laikinąją apsaugą Lietuvos Respublikoje
-
-
-1. Užsieniečiams, gavusiems laikinąją apsaugą Lietuvos Respublikoje, Migracijos departamentas išduoda leidimus laikinai gyventi, kurie galioja laikinosios apsaugos suteikimo laikotarpiu. 
-
-
-
-
-2. Užsieniečiams, gavusiems laikinąją apsaugą, tačiau vis dar esantiems užsienio valstybės teritorijoje, Migracijos departamentas išduoda vidaus reikalų ministro nustatytos formos kelionės dokumentą atvykti į Lietuvos Respubliką.
-Straipsnio dalies pakeitimai:
-Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+2. Užsieniečiams, kuriems suteikta laikinoji apsauga, tačiau vis dar esantiems užsienio valstybės teritorijoje, Migracijos departamentas išduoda vidaus reikalų ministro nustatytos formos kelionės dokumentą atvykti į Lietuvos Respubliką.
  
 
 
@@ -6837,35 +6888,32 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-96 straipsnis. Laikinosios apsaugos Lietuvos Respublikoje panaikinimas
+96 straipsnis. Laikinosios apsaugos panaikinimas
 
 
-1. Užsieniečiui suteikta laikinoji apsauga Lietuvos Respublikoje panaikinama, jeigu:
+1. Užsieniečiui suteikta laikinoji apsauga panaikinama, jeigu:
 
 
-1) užsienietis gali grįžti į kilmės valstybę;
-
-
-
-
-2) užsienietis išvyksta gyventi į užsienio valstybę;
+1) užsienietis išvyksta gyventi į užsienio valstybę;
 
 
 
 
-3) paaiškėja šio Įstatymo 93 straipsnio 1 dalyje nurodytos priežastys.
+2) paaiškėja šio Įstatymo 93 straipsnio 2 dalyje nurodytos priežastys.
 
 
 
 
 
 
-2. Sprendimą dėl laikinosios apsaugos Lietuvos Respublikoje panaikinimo užsieniečiui priima Migracijos departamentas. 
+2. Sprendimą dėl laikinosios apsaugos panaikinimo užsieniečiui priima Migracijos departamentas.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
-
-
-
-
 
 
 
@@ -7628,7 +7676,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-5) gyvendami Pabėgėlių priėmimo centre ir gyvenamojoje vietoje savivaldybės teritorijoje gauti mėnesinę kompensaciją vaiko ugdymo pagal ikimokyklinio ar priešmokyklinio ugdymo programą išlaidoms apmokėti;
+5) gyvendami Pabėgėlių priėmimo centre ir gyvenamojoje vietoje savivaldybės teritorijoje gauti mėnesinę kompensaciją atlyginimui švietimo teikėjui už vaiko, ugdomo pagal ikimokyklinio ar priešmokyklinio ugdymo programas, išlaikymą apmokėti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
 
 
 
@@ -7670,7 +7721,9 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-5. Užsieniečiai, kuriems buvo suteikta laikinoji apsauga Lietuvos Respublikoje, turi šio straipsnio 1 dalies 2 ir 5 punktuose nurodytas teises. Šio straipsnio 1 dalies 5 punkte nurodyta Lietuvos valstybės parama užsieniečių integracijai mokama ne ilgiau kaip 6 mėnesius nuo laikinosios apsaugos Lietuvos Respublikoje užsieniečiams suteikimo dienos. 
+5. Neteko galios nuo 2022-07-15
+Straipsnio dalies naikinimas:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 Papildyta straipsnio dalimi:
 Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
  
@@ -7678,7 +7731,9 @@ Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
 
 
 
-6. Lietuvos valstybės paramos šiame straipsnyje nurodytų užsieniečių integracijai teikimo sąlygas ir tvarką bei pašalpų, išmokų ir kompensacijų dydžius nustato Lietuvos Respublikos Vyriausybė.
+6. Šiame straipsnyje nurodytos Lietuvos valstybės paramos užsieniečių integracijai teikimo sąlygas ir tvarką bei pašalpų, išmokų ir kompensacijų dydžius nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
  
@@ -8304,9 +8359,10 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-2. Užsieniečių pirštų atspaudus registruoja vidaus reikalų ministro įgaliota institucija. Jie tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) ir Asmens duomenų teisinės apsaugos įstatymo reikalavimais. 
+2. Užsieniečių pirštų atspaudus registruoja vidaus reikalų ministro įgaliota institucija.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
@@ -8808,14 +8864,25 @@ Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 
 
 
-1301 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, kuris negali išvykti iš Lietuvos Respublikos dėl humanitarinių priežasčių arba negali grįžti į kilmės valstybę 
+1301 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, kuris negali išvykti iš Lietuvos Respublikos dėl humanitarinių priežasčių arba negali grįžti į kilmės valstybę
 
 
-Jeigu užsienietis negali išvykti iš Lietuvos Respublikos dėl humanitarinių priežasčių arba jeigu užsienietis negali grįžti į kilmės valstybę dėl to, kad yra persekiojamas nedemokratinio režimo ir (ar) yra nukentėjęs ar gali nukentėti nuo šio režimo vykdomų represijų, ir dėl šio užsieniečio kreipiasi Lietuvos Respublikos užsienio reikalų ministerija, jam šio Įstatymo 40 straipsnio 1 dalies 8 punkte nustatytu pagrindu išduodamas ne ilgiau kaip vienerius metus galiojantis leidimas laikinai gyventi, kurio galiojimo laikotarpiu užsienietis turi teisę dirbti. 
+1. Jeigu užsienietis negali išvykti iš Lietuvos Respublikos dėl humanitarinių priežasčių, jam šio Įstatymo 40 straipsnio 1 dalies 8 punkte nustatytu pagrindu išduodamas leidimas laikinai gyventi.
+
+
+
+
+2. Jeigu dėl užsieniečio, kuris yra persekiojamas nedemokratinio režimo ir (ar) yra nukentėjęs ar gali nukentėti nuo šio režimo vykdomų represijų, atvykimo į Lietuvos Respubliką tarpininkavo Užsienio reikalų ministerija ir šis užsienietis dėl šių priežasčių negali grįžti į kilmės valstybę, jam šio Įstatymo 40 straipsnio 1 dalies 8 punkte nustatytu pagrindu gali būti išduotas leidimas laikinai gyventi. 
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais išduodamas ne ilgiau kaip vienerius metus galiojantis leidimas laikinai gyventi, kurio galiojimo laikotarpiu užsienietis turi teisę dirbti.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
@@ -9664,20 +9731,62 @@ UŽSIENIEČIŲ ATVYKIMAS IR PRIEGLOBSČIO LIETUVOS RESPUBLIKOJE SUTEIKIMAS
 14013 straipsnis. Užsieniečių teisės
 
 
-1. Šio Įstatymo 1408 straipsnio 3 dalyje nurodyti prieglobsčio prašytojai turi teises, nurodytas šio Įstatymo 71 straipsnio 1, 2 ir 21 dalyse, išskyrus teisę gauti piniginę pašalpą.
+1. Šio Įstatymo 1408 straipsnio 3 dalyje nurodyti prieglobsčio prašytojai turi:
+
+
+1) teises, nurodytas šio Įstatymo 71 straipsnio 1, 2 ir 21 dalyse, išskyrus teisę gauti piniginę pašalpą;
 
 
 
 
-2. Šio Įstatymo 71 straipsnio 1, 2 ir 3 dalyse nurodytos prieglobsčio prašytojo teisės gali būti laikinai ir proporcingai ribojamos, jeigu jų negalima užtikrinti dėl objektyvių ir pagrįstų priežasčių, išskyrus teises, nurodytas šio Įstatymo 71 straipsnio 1 dalies 1, 2, 4, 7, 8 ir 9 punktuose. Išnykus šiame straipsnyje nurodytoms priežastims, šio Įstatymo 71 straipsnio 1, 2 ir 3 dalyse nurodytos prieglobsčio prašytojų teisės atkuriamos nedelsiant. Jeigu dėl pasikeitusių šiame straipsnyje nurodytų priežasčių visų šio Įstatymo 71 straipsnio 1, 2 ir 3 dalyse nurodytų prieglobsčio prašytojų teisių visiems prieglobsčio prašytojams nedelsiant atkurti neįmanoma, jos pirmiausia atkuriamos pažeidžiamiems asmenims. 
+2) teisę dirbti arba imtis savarankiško užimtumo veiklos praėjus 12 mėnesių nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, jeigu ji nebuvo įgyta šio Įstatymo 71 straipsnio 1 dalies 10 punkte nurodytu atveju.
 
 
 
 
-3. Šio Įstatymo 1408 straipsnio 3 dalyje nurodyti užsieniečiai, kurie neteisėtai kirto Lietuvos Respublikos valstybės sieną ir kurie nėra prieglobsčio prašytojai, turi teises, nurodytas šio Įstatymo 3 straipsnio 5 dalyje.
+
+
+2. Šio Įstatymo 71 straipsnio 1, 2 ir 3 dalyse nurodytos prieglobsčio prašytojo teisės gali būti laikinai ir proporcingai ribojamos, jeigu jų negalima užtikrinti dėl objektyvių ir pagrįstų priežasčių, išskyrus teises, nurodytas šio Įstatymo 71 straipsnio 1 dalies 1, 2, 4, 7, 8 ir 9 punktuose. Išnykus šiame straipsnyje nurodytoms priežastims, šio Įstatymo 71 straipsnio 1, 2 ir 3 dalyse nurodytos prieglobsčio prašytojų teisės atkuriamos nedelsiant. Jeigu dėl pasikeitusių šiame straipsnyje nurodytų priežasčių visų šio Įstatymo 71 straipsnio 1, 2 ir 3 dalyse nurodytų prieglobsčio prašytojų teisių visiems prieglobsčio prašytojams nedelsiant atkurti neįmanoma, jos pirmiausia atkuriamos pažeidžiamiems asmenims.
+
+
+
+
+3. Šio Įstatymo 1408 straipsnio 3 dalyje nurodyti užsieniečiai, kurie neteisėtai kirto Lietuvos Respublikos valstybės sieną ir nėra prieglobsčio prašytojai, turi:
+
+
+1) teises, nurodytas šio Įstatymo 3 straipsnio 5 dalyje;
+
+
+
+
+2) teisę dirbti arba imtis savarankiško užimtumo veiklos praėjus 12 mėnesių nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos;
+
+
+
+
+3) teisę, praėjus 12 mėnesių nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, naudotis Užimtumo tarnybos teikiamomis informavimo, konsultavimo, tarpininkavimo įdarbinant paslaugomis, dalyvauti tarptautinių ir nevyriausybinių organizacijų vykdomose profesinės kvalifikacijos įgijimo ar tobulinimo, užimtumo skatinimo programose, kurios padeda pasirengti darbo rinkai.
+
+
+
+
+
+
+4. Teisę dirbti arba imtis savarankiško užimtumo veiklos įgijęs prieglobsčio prašytojas ar užsienietis, ketinantis dirbti arba imtis savarankiško užimtumo veiklos, privalo turėti užsieniečio registracijos pažymėjimą, patvirtinantį jo teisę dirbti arba imtis savarankiško užimtumo veiklos. Migracijos departamentas, gavęs prieglobsčio prašytojo ar užsieniečio prašymą nurodyti jo teisę dirbti arba imtis savarankiško užimtumo veiklos užsieniečio registracijos pažymėjime ir nustatęs, kad prieglobsčio prašytojas ar užsienietis tokią teisę įgijo, jam išduotame užsieniečio registracijos pažymėjime nurodo įgytą teisę dirbti arba imtis savarankiško užimtumo veiklos.
+
+
+
+
+5. Jeigu šio Įstatymo 1408 straipsnio 3 dalyje nurodyti prieglobsčio prašytojai ir užsieniečiai, įgiję teisę dirbti, dėl objektyvių priežasčių neturi mokėjimo sąskaitos, darbo užmokestis ir kitos su darbo santykiais susijusios išmokos, taip pat dienpinigiai ir komandiruotės išlaidų kompensacijos gali būti mokami grynaisiais pinigais.
+
+
+
+
+6. Šio straipsnio 1 dalies 2 punkte ir 3 dalies 2 punkte nurodytas terminas skaičiuojamas ir pasibaigus įvestai karo padėčiai, nepaprastajai padėčiai, taip pat paskelbtai ekstremaliajai situacijai dėl masinio užsieniečių antplūdžio.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
-
-
 
 
 
@@ -10605,3 +10714,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 32, 64, 68 ir 108 straipsnių pakeitimo ir Įstatymo X-2 skyriaus papildymo ketvirtuoju skirsniu įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
