@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2022-03-23 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -51,7 +51,10 @@ Nr. XIV-953, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05131
 
 
 
-3. Šio Įstatymo 20 ir 23 straipsniai taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta tai reglamentuojančiuose Lietuvos Respublikos teisės aktuose.
+3. Šio Įstatymo 20 straipsnis, 201 straipsnio 1 dalies 1 ir 2 punktai ir 23 straipsnis taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1283, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15430
+ 
 
 
 
@@ -1556,7 +1559,10 @@ priedas
 
 
 
-2. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą.
+2. Neteko galios nuo 2022-07-15.
+Punkto pakeitimai:
+Nr. XIV-1283, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15430
+ 
 
 
 
@@ -1567,6 +1573,14 @@ priedas
 
 
 4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
+
+
+
+
+5. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB.
+Papildyta punktu:
+Nr. XIV-1283, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15430
+ 
 
 
 Priedo pakeitimai:
@@ -1726,5 +1740,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-953, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05131
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio ir priedo pakeitimo įstatymas
  
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1283, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15430
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio ir priedo pakeitimo įstatymas
  
-part_e1895d2017c24aafb638f13c6fce1b65_end
+ 
+part_6a87ed6bdf9e410780e2db48445fe8ed_end
