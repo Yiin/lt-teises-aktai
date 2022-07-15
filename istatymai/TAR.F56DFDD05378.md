@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f56dfdd0537811ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymas
 
+Suvestinė redakcija nuo 2022-07-15 iki 2022-07-15
+ 
+Įstatymas paskelbtas: TAR 2021-12-02, i. k. 2021-25020
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 MOKSLO IR STUDIJŲ ĮSTATYMO NR. XI-242 46, 59, 74, 75, 751, 752, 753, 76, 77, 82, 83 STRAIPSNIŲ PAKEITIMO, 9 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 761, 762, 831 STRAIPSNIAIS
 ĮSTATYMAS
@@ -491,7 +498,21 @@ Pakeisti 753 straipsnį ir jį išdėstyti taip:
 9 straipsnis. 76 straipsnio pakeitimas
 
 
-Pakeisti 76 straipsnį ir jį išdėstyti taip:
+1. Pakeisti 76 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
+
+
+
+
+„4) socialinėms stipendijoms, studijų stipendijoms, tikslinėms stipendijoms, aukštojo mokslo socialinės dimensijos plėtros priemonėms ir kitai paramai.“
+
+
+
+
+
+
+
+
+2. Pakeisti 76 straipsnį ir jį išdėstyti taip:
 
 
 
@@ -517,7 +538,7 @@ Pakeisti 76 straipsnį ir jį išdėstyti taip:
 
 
 
-4) socialinėms stipendijoms, studijų stipendijoms, tikslinėms stipendijoms ir kitai paramai.
+4) socialinėms stipendijoms, studijų stipendijoms, tikslinėms stipendijoms, aukštojo mokslo socialinės dimensijos plėtros priemonėms ir kitai paramai.
 
 
 
@@ -529,16 +550,18 @@ Pakeisti 76 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos mokslo ir studijų institucijoms pagal kiekvienais metais atliekamo mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo rezultatus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
+3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos mokslo ir studijų institucijoms pagal kiekvienais metais atliekamo mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo rezultatus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“.
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
  
-
-
-
-
-
-
-
-
 
 
 
@@ -775,12 +798,63 @@ Papildyti Įstatymą 762 straipsniu:
 
 
 
-„1. Stojančiųjų į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas ir pretenduojančiųjų į studijų stipendijas konkursinė eilė sudaroma švietimo, mokslo ir sporto ministro nustatyta tvarka, įvertinus valstybinių aukštųjų mokyklų siūlymus, ir paskelbiama kiekvienais metais iki gruodžio 1 dienos, likus ne mažiau kaip 6 mėnesiams iki priėmimo į aukštąsias mokyklas pradžios. Stojančiųjų konkursinis balas skaičiuojamas iš brandos egzaminų, mokymosi ir kitų specialiųjų gebėjimų įvertinimo rezultatų.“
+„1. Stojančiųjų priėmimui į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas studijų vietas ir pretenduojančių į studijų stipendijas sudaromos dvi konkursinės eilės. Šios konkursinės eilės sudaromos švietimo, mokslo ir sporto ministro nustatyta tvarka, įvertinus valstybinių aukštųjų mokyklų siūlymus, ir paskelbiamos kiekvienais metais iki gruodžio 1 dienos, likus ne mažiau kaip 6 mėnesiams iki priėmimo į aukštąsias mokyklas pradžios. Konkursinėse eilėse esančių stojančiųjų konkursinis balas skaičiuojamas iš brandos egzaminų, mokymosi ir kitų specialiųjų gebėjimų įvertinimo rezultatų.“ 
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
  
 
 
 
 
+3. Papildyti 77 straipsnį 11 dalimi:
+
+
+
+
+„11. Į pirmąją konkursinę eilę patenka visi šio įstatymo 59 straipsnio 1 dalyje nurodytas sąlygas atitinkantys asmenys. Į antrąją konkursinę eilę patenka asmenys, esantys pirmojoje konkursinėje eilėje ir papildomai atitinkantys bent vieną iš šių sąlygų:
+
+
+1) stojantieji į pirmosios pakopos universitetines ir vientisąsias studijas ir pirmosios pakopos kolegines studijas yra baigę trumposios pakopos studijas;
+
+
+
+
+2) stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas atitinka aukštosios mokyklos nustatytas specialiųjų gebėjimų ir kompetencijų sąlygas ir turi ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį; stojantieji į universitetines pirmosios pakopos ir vientisąsias studijas ir pirmosios pakopos kolegines studijas – ne trumpesnę kaip 24 mėnesių praktinės veiklos patirtį; stojantieji į trumposios pakopos studijas – ne trumpesnę kaip 12 mėnesių praktinės veiklos patirtį. Į praktinės veiklos patirties trukmę įskaitomas darbas pagal darbo sutartį, savanoriška veikla pagal savanoriškos veiklos sutartį, nuolatinė privalomoji pradinė karo tarnyba, profesinė karo tarnyba ir savanoriška nenuolatinė karo tarnyba. Reikalavimus praktinės veiklos patirčiai ir praktinės veiklos patirties trukmės skaičiavimo tvarką nustato švietimo, mokslo ir sporto ministras;
+
+
+
+
+3) asmenys, kurie atitinka šio įstatymo 821 straipsnio 3 dalyje nurodytus kriterijus.“
+
+
+
+
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+ 
+
+
+
+
+4. Papildyti 77 straipsnį 12 dalimi:
+
+
+
+
+„12. Vykdant bendrojo priėmimo pagrindinį etapą, pirmiausia organizuojamas stojančiųjų, esančių antrojoje konkursinėje eilėje, konkursas. Įvykus šiam konkursui, valstybės finansuojamų vietų negavę antrojoje konkursinėje eilėje esantys stojantieji toliau dalyvauja konkurse kartu su stojančiaisiais, esančiais pirmojoje konkursinėje eilėje, o jeigu valstybės finansuojamos vietos, skirtos antrojoje eilėje buvusiems asmenims, lieka neužimtos, į jas bendrąja konkurso tvarka pretenduoja pirmojoje eilėje esantys stojantieji. Pasibaigus bendrojo priėmimo pagrindiniam etapui, į likusias neužimtas valstybės finansuojamas studijų vietas priėmimas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka.“
+
+
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+ 
 
 
 
@@ -905,12 +979,26 @@ Papildyti Įstatymą 831 straipsniu:
 16 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 
-1. Šis įstatymas, išskyrus šio įstatymo 3, 4 straipsnius, 5 straipsnio 2 dalį, 6, 7, 8, 9, 10, 11 straipsnius, 12 straipsnio 2 dalį, 13 straipsnį ir šio straipsnio 6 dalį, įsigalioja 2022 m. sausio 1 d.
+1. Šis įstatymas, išskyrus šio įstatymo 3, 4 straipsnius, 5 straipsnio 2 dalį, 6, 7, 8, 9, 10, 11 straipsnius, 12 straipsnio 2, 3 ir 4 dalis, 13 straipsnį ir šio straipsnio 6 dalį, įsigalioja 2022 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+ 
 
 
 
 
-2. Šio įstatymo 3, 4 straipsniai, 5 straipsnio 2 dalis, 6, 7, 8, 9, 10, 11 straipsniai, 12 straipsnio 2 dalis ir 13 straipsnis įsigalioja 2024 m. sausio 1 d.
+12. Šio įstatymo 9 straipsnio 1 dalis įsigalioja 2023 m. sausio 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+ 
+
+
+
+
+2. Šio įstatymo 3 straipsnio 2 dalis, 4 straipsnis, 5 straipsnio 2 dalis, 6, 7, 8 straipsniai, 9 straipsnio 2 dalis, 10, 11 straipsniai, 12 straipsnio 2, 3, 4 dalys ir 13 straipsnis įsigalioja 2024 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+ 
 
 
 
@@ -943,3 +1031,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 9, 12 ir 16 straipsnių pakeitimo įstatymas
