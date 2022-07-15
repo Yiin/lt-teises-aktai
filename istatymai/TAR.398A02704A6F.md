@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2022-03-23 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -74,11 +74,19 @@ Nr. XIV-950, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05128
 
 
 
-5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje. 
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje; 
 5 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
-5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje.
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje;
 Papildyta straipsnio punktu:
 Nr. XIII-2347, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12438
+ 
+
+
+
+
+6) užsieniečiams, kuriems leidimas laikinai gyventi Lietuvos Respublikoje išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą.
+Papildyta straipsnio punktu:
+Nr. XIV-1286, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15435
  
 
 
@@ -581,6 +589,14 @@ priedas
 2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis.
 
 
+
+
+3. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB.
+Papildyta punktu:
+Nr. XIV-1286, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15435
+ 
+
+
 Priedo pakeitimai:
 Nr. XIV-950, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05128
  
@@ -621,6 +637,11 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsni
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-950, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05128
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsnio ir priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1286, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15435
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsnio ir priedo pakeitimo įstatymas
  
  
