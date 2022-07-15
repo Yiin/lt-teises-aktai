@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2022-06-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2023-07-05
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -199,9 +199,10 @@ Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
 
 
-15. Kintamoji šilumos bazinės kainos dedamoji – kintanti šilumos bazinės kainos dalis, išreiškiama formule, kuri koreguojama kasmet, atsižvelgus į kuro struktūros pasikeitimą ir veiklos efektyvumo užduotis, nustatytas Valstybinės energetikos reguliavimo tarybos (toliau – Taryba), vadovaujantis jos patvirtintu Lyginamosios analizės aprašu, ir taikoma ne dažniau kaip kas mėnesį, apskaičiuojant konkretų kintamosios dedamosios dydį, atsižvelgus į kuro ir iš nepriklausomų gamintojų perkamos šilumos kainų pokytį. 
+15. Kintamoji šilumos bazinės kainos dedamoji – kintanti šilumos bazinės kainos dalis, išreiškiama formule, kuri koreguojama kasmet, atsižvelgus į kuro, naudojamo šilumos gamybai, bei iš nepriklausomų šilumos gamintojų perkamos šilumos kiekius ir veiklos efektyvumo užduotis, nustatytas Valstybinės energetikos reguliavimo tarybos (toliau – Taryba), vadovaujantis jos patvirtintu Lyginamosios analizės aprašu, ir taikoma ne dažniau kaip kas mėnesį, apskaičiuojant konkretų kintamosios dedamosios dydį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
@@ -1373,7 +1374,18 @@ Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 
 
 
-7. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas su šilumos tiekėju sudaro šilumos pristatymo buitiniams šilumos vartotojams sutartį, su karšto vandens tiekėju – karšto vandens pristatymo buitiniams šilumos vartotojams sutartį.
+7. Daugiabučių namų bendrojo naudojimo objektų valdytojų veiklą įgyvendinant organizacines ir technines priemones, taikomas siekiant užtikrinti daugiabučio namo šildymo ir karšto vandens sistemų privalomuosius reikalavimus, kontroliuoja savivaldybių vykdomosios institucijos teisės aktų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
+ 
+
+
+
+
+8. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas su šilumos tiekėju sudaro šilumos pristatymo buitiniams šilumos vartotojams sutartį, su karšto vandens tiekėju – karšto vandens pristatymo buitiniams šilumos vartotojams sutartį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
+ 
 
 
 Straipsnio pakeitimai:
@@ -1476,15 +1488,27 @@ DAUGIABUČIŲ NAMŲ ŠILDYMAS
 23 straipsnis. Daugiabučio namo šildymo ir karšto vandens sistemos privalomieji reikalavimai
 
 
-1. Vyriausybė arba jos įgaliota institucija nustato daugiabučio namo šildymo ir karšto vandens sistemos privalomuosius reikalavimus.
+1. Daugiabučių namų šildymo ir karšto vandens tiekimo sistemos privalo atitikti Vyriausybės ar jos įgaliotos institucijos nustatytus daugiabučio namo šildymo ir karšto vandens sistemų privalomuosius reikalavimus.
 
 
 
 
-2. Daugiabučio namo šildymo ir karšto vandens sistemos privalomieji reikalavimai apima technines galimybes vartotojams reguliuoti šilumos suvartojimą pastate. Namo pertvarkymas pagal privalomuosius reikalavimus turi būti remiamas Vyriausybės nustatyta tvarka.
+2. Šilumos tiekėjas ir (arba) daugiabučio namo šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) pagal kompetenciją raštu informuoja daugiabučio namo savininkus, daugiabučio namo bendrojo naudojimo objektų valdytoją ir Tarybą apie daugiabučius namus, kurių šildymo ir karšto vandens sistemos neatitinka daugiabučio namo šildymo ir karšto vandens sistemų privalomųjų reikalavimų. Pagal gautą informaciją darbus šiems reikalavimams užtikrinti pagal kompetenciją atlieka daugiabučio namo šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas), o kitų darbų atitiktį daugiabučio namo šildymo ir (ar) karšto vandens sistemų privalomiesiems reikalavimams užtikrina daugiabučio namo bendrojo naudojimo objektų valdytojas ne vėliau kaip per ketverius metus nuo pranešimo apie daugiabučio namo šildymo ir (ar) karšto vandens sistemų privalomųjų reikalavimų neatitiktį gavimo dienos. Šių darbų išlaidas apmoka daugiabučio namo butų ir kitų patalpų savininkai pagal Civilinio kodekso 4.82 straipsnio 3 dalies nuostatas. Šių darbų išlaidoms kompensuoti teikiama valstybės parama pagal Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymą.
+
+
+
+
+3. Kai šilumos punkto savininkas yra šilumos tiekėjas, darbus daugiabučio namo šildymo ir (ar) karšto vandens sistemų privalomiesiems reikalavimams užtikrinti, už kurių atlikimą teisės aktų nustatyta tvarka nėra atsakingas daugiabučio namo šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas), atlieka šilumos tiekėjas šio įstatymo 24 straipsnio 3 dalyje nustatytomis sąlygomis. Darbų išlaidas apmoka butų ir kitų patalpų savininkai pagal Civilinio kodekso 4.82 straipsnio 3 dalies nuostatas. Šių darbų išlaidoms kompensuoti teikiama valstybės parama pagal Valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymą.
+
+
+
+
+4. Taryba ne teismo tvarka, vadovaudamasi savo patvirtintomis ginčų nagrinėjimo taisyklėmis, sprendžia ginčus, kilusius tarp pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo), šilumos tiekėjo, daugiabučio namo bendrojo naudojimo objektų valdytojo, dėl pastato šildymo ir (ar) karšto vandens sistemų atitikties daugiabučio namo šildymo ir karšto vandens sistemos privalomiesiems reikalavimams užtikrinimo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
  
-
-
 
 
 
@@ -1511,9 +1535,16 @@ DAUGIABUČIŲ NAMŲ ŠILDYMAS
 
 
 3) kitais įstatymų nustatytais pagrindais.
+
+
+
+
+
+
+3. Jeigu daugiabučio namo butų ir patalpų savininkai šilumos punkto įrenginių bendrosios nuosavybės teise nevaldo, vykdant daugiabučio namo atnaujinimo (modernizavimo) projektą ir (ar) atnaujinant (modernizuojant) ar keičiant šilumos punkto įrenginius, ir (ar) pastato šildymo ir karšto vandens sistemą, išmontuoti šilumos punkto įrenginiai priėmimo–perdavimo aktu grąžinami šilumos punkto savininkui, netaikant šio straipsnio 2 dalies nuostatų, jeigu šilumos punkto įrenginių keitimas yra numatytas daugiabučio namo atnaujinimo (modernizavimo) investicijų plane arba įgyvendinant daugiabučio namo vidaus šildymo ir karšto vandens sistemų modernizavimo projektą, vietoj šių įrenginių sumontuojant daugiabučio namo butų ir patalpų savininkų nuosavybės teise valdomus šilumos punkto įrenginius, pasinaudojant valstybės parama.
+Papildyta straipsnio dalimi:
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
  
-
-
 
 
 
@@ -2046,7 +2077,10 @@ Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
 16. Keičiant šilumos ir (ar) karšto vandens kainas, įmonės:
 
 
-1) atsižvelgdamos į nustatytas šilumos kainos dedamąsias, pakitusias kuro kainas ir pakitusias perkamos šilumos kainas, iki mėnesio 25 dienos apskaičiuoja ir viešai praneša apie šilumos kainų kintamųjų dedamųjų dydžius ir galutines šilumos kainas;
+1) atsižvelgdamos į Tarybos Šilumos kainų nustatymo metodikoje numatytą tvarką, iki mėnesio 25 dienos apskaičiuoja ir viešai praneša apie šilumos kainų kintamųjų dedamųjų dydžius ir galutines šilumos kainas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
+ 
 
 
 
@@ -2058,17 +2092,26 @@ Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
 
 
 
-17. Duomenis apie kuro kainas, iš kitų, šio įstatymo 10 straipsnio 3 dalyje nenumatytų, nepriklausomų šilumos gamintojų superkamos šilumos kainas bei savivaldybių tarybų sprendimus apie naujas geriamojo vandens kainas įmonės Tarybai ir (arba) savivaldybėms pateikia iki mėnesio 10 dienos.
+17. Duomenis apie įsigyto kuro kainas šilumos tiekėjai, realizuojantys daugiau kaip 10 GWh šilumos per metus, ir nepriklausomi šilumos gamintojai Tarybai ir (arba) savivaldybėms pateikia iki mėnesio 10 dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
+ 
 
 
 
 
-18. Taryba iki mėnesio 20 dienos viešai informuoja apie kuro, šilumos, perkamos iš kitų, šio įstatymo 10 straipsnio 3 dalyje nenumatytų, šilumos gamintojų, ir geriamojo vandens kainas, naudotinas skaičiuojant šilumos ir karšto vandens kainas.
+18. Taryba iki sausio mėnesio 20 dienos apskaičiuoja ir viešai informuoja apie vidutinę metinę biokuro, vidutinę metinę biokuro biržos, vidutinę metinę biokuro biržos produkto, kurio gamybai kaip žaliava naudojamos miško kirtimo liekanos, ir vidutinę metinę gamtinių dujų biržos kainas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
+ 
 
 
 
 
-19. Taryba ir savivaldybės kontroliuoja, ar įmonės teisingai skaičiuoja šilumos ir karšto vandens kainų kintamosios dedamosios dydį ir kaip taikomos šilumos ir karšto vandens kainos.
+19. Taryba ir savivaldybės šilumos bazinės kainos ar perskaičiuotų šilumos kainų dedamųjų skaičiavimo metu patikrina, ar įmonės teisingai skaičiavo šilumos ir karšto vandens kainų kintamosios dedamosios dydį ir kaip taikė šilumos ir karšto vandens kainas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
+ 
 
 
 
@@ -2449,3 +2492,8 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 32 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 12, 17, 20, 22, 28, 29, 30, 32 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 20, 23, 24 ir 32 straipsnių pakeitimo įstatymas
