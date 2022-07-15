@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-14
+Suvestinė redakcija nuo 2022-07-15 iki 2022-07-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -5067,7 +5067,10 @@ SPECIFINĖS FIZINIŲ ASMENŲ CIVILINĖS TEISĖS  IR JŲ ĮGYVENDINIMAS
 
 
 
-5. Visuomenės informavimo priemonė, paskleidusi asmens reputaciją žeminančius ir tikrovės neatitinkančius duomenis, privalo atlyginti asmeniui padarytą turtinę ir neturtinę žalą tik tais atvejais, kai ji žinojo ar turėjo žinoti, jog paskleisti duomenys neatitinka tikrovės, taip pat kai tuos duomenis paskelbė jos darbuotojai ar duomenys paskleisti anonimiškai, o visuomenės informavimo priemonė atsisako nurodyti tuos duomenis pateikusį asmenį. Visais kitais atvejais turtinę ir neturtinę žalą privalo atlyginti duomenis paskleidęs asmuo ir jo veikla.
+5. Visuomenės informavimo priemonė, paskleidusi asmens reputaciją žeminančius ir tikrovės neatitinkančius duomenis, privalo atlyginti asmeniui padarytą turtinę ir neturtinę žalą tik tais atvejais, kai ji žinojo ar turėjo žinoti, jog paskleisti duomenys neatitinka tikrovės, taip pat kai tuos duomenis paskelbė jos darbuotojai ar duomenys paskleisti anonimiškai, o visuomenės informavimo priemonė atsisako nurodyti tuos duomenis pateikusį asmenį. Visais kitais atvejais turtinę ir neturtinę žalą privalo atlyginti duomenis paskleidęs asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1357, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15452
+ 
 
 
 
@@ -10024,7 +10027,6 @@ Prokuristas atsako atstovaujamajam ir tretiesiems asmenims taip pat kaip ir prek
 
 
 2. Prokūra pasibaigia ją išregistravus iš Įgaliojimų registro, išskyrus šio straipsnio 1 dalies 4 ir 5 punktuose numatytus atvejus.
-TAR pastaba. 2.184 straipsnio 2 dalis įsigalioja 2023-01-01.
 
 
 Straipsnio pakeitimai:
@@ -51474,3 +51476,8 @@ Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-3, 6.228-4, 6.228-6, 6.228
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 Lietuvos Respublikos civilinio kodekso 2.137, 2.138, 2.138-1, 2.143, 2.144, 2.145, 2.146, 2.148, 2.178, 2.181 ir 2.184 straipsnių pakeitimo įstatymas
+ 
+61.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1357, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15452
+Lietuvos Respublikos civilinio kodekso 2.24 straipsnio pakeitimo įstatymas
