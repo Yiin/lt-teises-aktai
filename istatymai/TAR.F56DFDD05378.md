@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f56dfdd0537811ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-07-15
+Suvestinė redakcija nuo 2022-07-16 iki 2022-12-21
  
 Įstatymas paskelbtas: TAR 2021-12-02, i. k. 2021-25020
  
@@ -64,7 +64,19 @@ Pakeisti 46 straipsnio 2 dalį ir ją išdėstyti taip:
 3 straipsnis. 59 straipsnio pakeitimas
 
 
-Pakeisti 59 straipsnį ir jį išdėstyti taip:
+1. Pakeisti 59 straipsnio 7 dalį ir ją išdėstyti taip:
+
+
+
+
+„7. Asmenų, stojančių į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas, priėmimas vykdomas centralizuotai. Centralizuotą priėmimą vykdo švietimo, mokslo ir sporto ministro įgaliota institucija švietimo, mokslo ir sporto ministro nustatyta tvarka. Kiekvienais metais iki rugpjūčio 30 dienos savo interneto svetainėse aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės finansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į aukštųjų mokyklų valstybės finansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas. Kiekvienais metais iki spalio 1 dienos aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės nefinansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į valstybės nefinansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas.“
+
+
+
+
+
+
+2. Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 
@@ -72,7 +84,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 „59 straipsnis. Priėmimas į aukštąją mokyklą
 
 
-1. Į aukštosios mokyklos pirmosios pakopos ir vientisąsias studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą ir išlaikę ne mažiau kaip tris (stojantieji į menų studijų krypčių grupės studijas – ne mažiau kaip du) valstybinius brandos egzaminus: lietuvių kalbos ir literatūros, matematikos (stojantiesiems į menų studijų krypčių grupės studijas jo išlaikyti nebūtina) ir stojančiojo pasirinktą egzaminą, kurių:
+1. Į aukštosios mokyklos pirmosios pakopos ir vientisąsias studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą ir išlaikę ne mažiau kaip tris (stojantieji į menų studijų krypčių grupės studijas ir baigę trumposios pakopos studijas – ne mažiau kaip du) valstybinius brandos egzaminus: lietuvių kalbos ir literatūros, matematikos (stojantiesiems į menų studijų krypčių grupės studijas jo išlaikyti nebūtina) ir stojančiojo pasirinktą egzaminą (baigusiems trumposios pakopos studijas pasirinkti egzamino nebūtina), kurių:
 
 
 1) įvertinimų aritmetinis vidurkis švietimo, mokslo ir sporto ministro nustatyta tvarka prilygsta brandos egzaminų programose nustatytam pagrindiniam mokymosi pasiekimų lygiui, jeigu stojama į universitetines studijas;
@@ -87,7 +99,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Asmenų priėmimas į aukštąsias mokyklas gali būti vykdomas iki studijų pagal atitinkamą studijų programą pradžios. Konkursinių mokomųjų dalykų pagal studijų kryptis sąrašą, išskirdamos pagrindinį dalyką, kiekvienais metais nustato aukštosios mokyklos ir, suderinusios su Švietimo, mokslo ir sporto ministerija, paskelbia jį ne vėliau kaip prieš 3 metus iki atitinkamų metų rugsėjo 1 dienos. Šio straipsnio 1 dalyje nurodyti priėmimo į aukštąsias mokyklas reikalavimai netaikomi:
+2. Asmenų priėmimas į aukštąsias mokyklas gali būti vykdomas iki studijų pagal atitinkamą studijų programą pradžios. Konkursinių mokomųjų dalykų pagal studijų kryptis sąrašą, išskirdamos pagrindinį dalyką, kiekvienais metais nustato aukštosios mokyklos ir, suderinusios su Švietimo, mokslo ir sporto ministerija, paskelbia jį ne vėliau kaip prieš 3 metus iki atitinkamų metų rugsėjo 1 dienos. Šio straipsnio 1 dalyje nurodyti priėmimo į aukštąsias mokyklas reikalavimai netaikomi:
 
 
 1) asmenims, įgijusiems kvalifikaciją, suteikiančią teisę į aukštąjį mokslą, pagal tarptautinių organizacijų arba užsienio valstybių švietimo programas;
@@ -107,7 +119,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Į aukštosios mokyklos trumposios pakopos studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą arba profesinę kvalifikaciją, įgytą pagal Lietuvos kvalifikacijų sandaros ketvirtąjį lygį atitinkančią profesinio mokymo programą, atsižvelgus į jų mokymosi pasiekimus ir kitus aukštosios mokyklos nustatytus kriterijus, įvertinus profesiniuose standartuose ir studijų krypties aprašuose nustatytus reikalavimus. 
+3. Į aukštosios mokyklos trumposios pakopos studijas konkurso būdu priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą ir profesinę kvalifikaciją, įgytą pagal Lietuvos kvalifikacijų sandaros ketvirtąjį lygį atitinkančią profesinio mokymo programą, atsižvelgiant į jų mokymosi pasiekimus ir kitus aukštosios mokyklos nustatytus kriterijus, įvertinus profesiniuose standartuose ir studijų krypčių aprašuose nustatytus reikalavimus.
 
 
 
@@ -127,7 +139,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 
-7. Kiekvienais metais iki rugpjūčio 30 dienos savo interneto svetainėse aukštosios mokyklos pateikia visuomenei informaciją apie bendrojo priėmimo į savo aukštąją mokyklą rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie bendrojo priėmimo į aukštąsias mokyklas rezultatus pagal aukštąsias mokyklas ir studijų programas. Kiekvienais metais iki spalio 30 dienos aukštosios mokyklos pateikia visuomenei informaciją apie savo institucinio priėmimo rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie institucinio priėmimo rezultatus pagal aukštąsias mokyklas ir studijų programas.
+7. Asmenų, stojančių į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas, priėmimas vykdomas centralizuotai. Centralizuotą priėmimą vykdo švietimo, mokslo ir sporto ministro įgaliota institucija švietimo, mokslo ir sporto ministro nustatyta tvarka. Kiekvienais metais iki rugpjūčio 30 dienos savo interneto svetainėse aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės finansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į aukštųjų mokyklų valstybės finansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas. Kiekvienais metais iki spalio 1 dienos aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės nefinansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į valstybės nefinansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas.
 
 
 
@@ -138,15 +150,19 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 9. Asmenys, ketinantys mokytis pagal neformaliojo suaugusiųjų švietimo programas ar studijuoti atskirus studijų dalykus (modulius), priimami aukštųjų mokyklų nustatyta tvarka.“
+
+
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
  
-
-
-
-
-
-
-
-
 
 
 
@@ -987,6 +1003,14 @@ Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 
 
 
+11. Šio įstatymo 3 straipsnio 1 dalis įsigalioja 2023 m. sausio 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
+ 
+
+
+
+
 12. Šio įstatymo 9 straipsnio 1 dalis įsigalioja 2023 m. sausio 1 d. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
@@ -995,15 +1019,19 @@ Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 
 
 
-2. Šio įstatymo 3 straipsnio 2 dalis, 4 straipsnis, 5 straipsnio 2 dalis, 6, 7, 8 straipsniai, 9 straipsnio 2 dalis, 10, 11 straipsniai, 12 straipsnio 2, 3, 4 dalys ir 13 straipsnis įsigalioja 2024 m. sausio 1 d.
+2. Šio įstatymo 3 straipsnio 2 dalis, 4 straipsnis, 5 straipsnio 2 dalis, 6, 7, 8 straipsniai, 9 straipsnio 2 dalis, 10 ir 11 straipsniai, 12 straipsnio 2, 3, 4 dalys ir 13 straipsnis įsigalioja 2024 m. sausio 1 d. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
  
 
 
 
 
-3. Šio įstatymo 3 straipsnyje išdėstyto Lietuvos Respublikos mokslo ir studijų įstatymo 59 straipsnio nuostatos taikomos asmenims, įgijusiems vidurinį išsilavinimą ne anksčiau kaip 2024 metais ir stojantiems į aukštąsias mokyklas 2024 ir vėlesniais metais.          
+3. Šio įstatymo 3 straipsnio 2 dalyje išdėstyto Lietuvos Respublikos mokslo ir studijų įstatymo 59 straipsnio nuostatos taikomos asmenims, įgijusiems vidurinį išsilavinimą ne anksčiau kaip 2024 metais ir stojantiems į aukštąsias mokyklas 2024 ir vėlesniais metais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
+ 
 
 
 
@@ -1041,3 +1069,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 9, 12 ir 16 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 3 ir 16 straipsnių pakeitimo įstatymas
