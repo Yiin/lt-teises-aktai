@@ -21,7 +21,7 @@ Neoficialus ?statymo tekstas
  
 
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-11-09
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1349,12 +1349,13 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), kontroliuojančiosios investicinės bendrovės, investicinės kontroliuojančiosios bendrovės, mišrią veiklą vykdančios kontroliuojančiosios bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos, valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje.
+1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), kontroliuojančiosios investicinės bendrovės, investicinės kontroliuojančiosios bendrovės, mišrią veiklą vykdančios kontroliuojančiosios bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos, valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje, padengtųjų obligacijų bendrovės, pakeitimo vertybiniais popieriais bendrovės, pakeitimo vertybiniais popieriais iniciatoriai, pakeitimo vertybiniais popieriais rėmėjai, pirminiai skolintojai ir trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams (toliau – PSS kriterijai). 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
 Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
  
 
 
@@ -1452,9 +1453,17 @@ Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
 
 
 
-15) atlieka mišrios veiklos finansų kontroliuojančiųjų įmonių, įsteigtų Lietuvos Respublikoje, finansų kontroliuojančiųjų bendrovių, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitas Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Lietuvos bankui priskirtas funkcijas.
+15) atlieka mišrios veiklos finansų kontroliuojančiųjų įmonių, įsteigtų Lietuvos Respublikoje, finansų kontroliuojančiųjų bendrovių, įsteigtų Lietuvos Respublikoje, priežiūrą ir kitas Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Lietuvos bankui priskirtas funkcijas;
 Papildyta straipsnio punktu:
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
+ 
+
+
+
+
+16) atlieka padengtųjų obligacijų bendrovių, pakeitimo vertybiniais popieriais bendrovių ir pakeitimo vertybiniais popieriais iniciatorių, pakeitimo vertybiniais popieriais rėmėjų, pirminių skolintojų ir trečiųjų šalių, tikrinančių pakeitimo vertybiniais popieriais atitiktį PSS kriterijams, priežiūrą ir kitas Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme Lietuvos bankui priskirtas funkcijas. 
+Papildyta straipsnio punktu:
+Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
  
 
 
@@ -2266,7 +2275,10 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 
 
 
-15. Informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio asmens tapatybę (vardas ir pavardė, juridinio asmens pavadinimas ir jo kodas), skelbiama Lietuvos banko interneto svetainėje nedelsiant po to, kai Lietuvos banko sprendimas šio straipsnio 12 dalyje nustatyta tvarka išsiunčiamas arba įteikiamas asmeniui, kuriam poveikio priemonė buvo pritaikyta. Jeigu sprendimas taikyti poveikio priemonę apskundžiamas, Lietuvos banko interneto svetainėje taip pat pateikiama informacija apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. Jeigu informacijos apie pritaikytas poveikio priemones, išskyrus poveikio priemonę - viešą paskelbimą apie pažeidimą ir jį padariusį asmenį, paskelbimas galėtų padaryti neigiamą įtaką finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui arba neproporcingą žalą fiziniams ar juridiniams asmenims, šios informacijos skelbimas atidedamas tol, kol šios aplinkybės išnyksta, ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį arba neskelbiama. Lietuvos bankas užtikrina, kad paskelbta informacija būtų prieinama ne mažiau kaip 5 metus nuo jos paskelbimo dienos.
+15. Siekiant užtikrinti finansų rinkos priežiūrą ir poveikio priemonių atgrasomąjį poveikį, informacija apie pritaikytas poveikio priemones, įskaitant informaciją apie padaryto teisės akto pažeidimo esmę ir jį padariusio asmens tapatybę (vardas ir pavardė, juridinio asmens pavadinimas ir jo kodas), skelbiama Lietuvos banko interneto svetainėje nedelsiant po to, kai Lietuvos banko sprendimas šio straipsnio 12 dalyje nustatyta tvarka išsiunčiamas arba įteikiamas asmeniui, kuriam poveikio priemonė buvo pritaikyta. Jeigu sprendimas taikyti poveikio priemonę apskundžiamas, Lietuvos banko interneto svetainėje taip pat pateikiama informacija apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. Jeigu informacijos apie pritaikytas poveikio priemones, išskyrus poveikio priemonę - viešą paskelbimą apie pažeidimą ir jį padariusį asmenį, paskelbimas galėtų padaryti neigiamą įtaką finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui arba neproporcingą žalą fiziniams ar juridiniams asmenims arba jeigu nustatoma, kad informacijos skelbimas apie fiziniam asmeniui pritaikytą poveikio priemonę būtų neproporcingas, šios informacijos skelbimas atidedamas tol, kol šios aplinkybės išnyksta, ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį arba neskelbiama. Lietuvos bankas užtikrina, kad paskelbta informacija būtų prieinama ne trumpiau kaip 5 metus nuo jos paskelbimo dienos. Paskelbtą informaciją sudarantys asmens duomenys Lietuvos banko interneto svetainėje skelbiami tik būtiną, ne trumpesnį kaip 5 metų ir ne ilgesnį kaip 10 metų, laikotarpį, nustatomą pagal Lietuvos banko tvirtinamas asmens duomenų apsaugos tvarkymo taisykles. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
+ 
 
 
 
@@ -3274,6 +3286,42 @@ FINANSŲ RINKOS DALYVIAI, MOKANTYS ĮMOKAS FINANSŲ RINKOS PRIEŽIŪROS IŠLAIDO
  5 000 Eur 
 
 
+ 32. 
+ Padengtųjų obligacijų bendrovės 
+ - 
+ 1 000 Eur 
+
+
+ 33. 
+ Pakeitimo vertybiniais popieriais bendrovės 
+ - 
+ 1 000 Eur 
+
+
+ 34. 
+ Pakeitimo vertybiniais popieriais iniciatoriai 
+ - 
+ 1 000 Eur 
+
+
+ 35. 
+ Pakeitimo vertybiniais popieriais rėmėjai 
+ - 
+ 1 000 Eur 
+
+
+ 36. 
+ Pirminiai skolintojai 
+ - 
+ 1 000 Eur 
+
+
+ 37. 
+ Trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams 
+ - 
+ 1 000 Eur 
+
+
 
  
 Priedo pakeitimai:
@@ -3284,10 +3332,11 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
-part_7898dcf4cc174946b2d9d7ae5e4f3968_end
+part_eba2ba53d8e441e5a66f16e326d74b1b_end
 
 
  
@@ -3375,7 +3424,7 @@ Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Priedo pakeitimai:
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
-part_031d3bfedc85439e94321dee662b313c_end
+part_1036706cce1f45538785f7006b7f7bdc_end
 
 
  
@@ -3474,14 +3523,27 @@ Lietuvos banko įstatymo
 
 
 
-18. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES.
+18. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2402, kuriuo nustatoma bendroji pakeitimo vertybiniais popieriais sistema ir sukuriama specialioji paprasto, skaidraus ir standartizuoto pakeitimo vertybiniais popieriais sistema ir iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB ir 2011/61/ES bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2021 m. kovo 21 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/557. 
+Papildyta punktu:
+Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
+ 
 
 
 
 
-19. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
+19. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES.
+Punkto numeracijos pakeitimas:
+Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
+ 
+
+
+
+
+20. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
 Papildyta punktu:
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+Punkto numeracijos pakeitimas:
+Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
  
 
 
@@ -3786,3 +3848,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 11, 42, 43, 43-2 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42, 43-3 straipsnių ir 1, 3 priedų pakeitimo įstatymas
