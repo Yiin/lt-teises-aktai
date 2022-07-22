@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -3085,7 +3085,10 @@ CENTRINĖS KREDITO UNIJOS PABAIGA
 61 straipsnis. Centrinės kredito unijos reorganizavimo ir likvidavimo procedūrų teisinis reglamentavimas, centrinės kredito unijos pertvarkymas
 
 
-1. Centrinė kredito unija reorganizuojama ir likviduojama Civilinio kodekso, šio įstatymo, Finansų įstaigų įstatymo ir, jeigu šis įstatymas nenustato kitaip, Kooperatinių bendrovių (kooperatyvų) įstatymo nustatyta tvarka.
+1. Centrinė kredito unija reorganizuojama ir likviduojama Civilinio kodekso, šio įstatymo, Finansų įstaigų įstatymo, Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymo ir, jeigu šis įstatymas nenustato kitaip, Kooperatinių bendrovių (kooperatyvų) įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1339, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15404
+ 
 
 
 
@@ -3314,11 +3317,12 @@ CENTRINĖS KREDITO UNIJOS BANKROTAS
 66 straipsnis. Centrinės kredito unijos bankroto proceso teisinis reglamentavimas
 
 
-Centrinės kredito unijos bankroto procesą reglamentuoja Lietuvos Respublikos juridinių asmenų nemokumo įstatymas, jeigu šis įstatymas, Finansinio tvarumo įstatymas ir Finansų įstaigų įstatymas nenustato kitaip. 
+Centrinės kredito unijos bankroto procesą reglamentuoja Lietuvos Respublikos juridinių asmenų nemokumo įstatymas, jeigu šis įstatymas, Finansinio tvarumo įstatymas, Finansų įstaigų įstatymas ir Pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymas nenustato kitaip.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
+Nr. XIV-1339, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15404
  
 
 
@@ -3841,3 +3845,8 @@ Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 49 ir 55 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 1, 2, 8, 15, 34, 49, 61, 70 straipsnių ir priedo pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1339, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15404
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. XII-2566 61 ir 66 straipsnių pakeitimo įstatymas
