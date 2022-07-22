@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/68f2cad098b711e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos juridinių asmenų nemokumo įstatymas
 
-Suvestinė redakcija nuo 2021-07-15 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-11-30
  
 Įstatymas paskelbtas: TAR 2019-06-27, i. k. 2019-10324
- 
-TAR pastaba. Iki 2021-07-15 pradėtiems juridinių asmenų nemokumo procesams įstatymo Nr. XIV-450 nuostatos taikomos toms asmenų teisėms ir pareigoms, kurios atsiranda arba yra įgyvendinamos įstatymui Nr. XIV-450 įsigaliojus (2021-07-15), taip pat toms nemokumo procedūroms, kurios pradedamos įstatymui Nr. XIV-450 įsigaliojus (2021-07-15).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-450, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15468
-Lietuvos Respublikos juridinių asmenų nemokumo įstatymo Nr. XIII-2221 1, 2, 4, 6, 9, 10, 15, 17, 22, 26, 27, 28, 31, 32, 33, 35, 40, 41, 42, 43, 62, 63, 64, 77, 94, 95, 103, 104, 110, 111, 114, 130 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 102-1, 102-2, 102-3, 111-1 straipsniais įstatymas
  
  
 
@@ -71,9 +66,10 @@ Nr. XIV-450, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15468
 
 
 
-6. Šis įstatymas taikomas tiek, kiek jis neprieštarauja Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymui, Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymui, Lietuvos Respublikos finansinių priemonių rinkų įstatymui, Lietuvos Respublikos mokėjimo įstaigų įstatymui ir Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymui.
+6. Šis įstatymas taikomas tiek, kiek jis neprieštarauja Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymui, Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymui, Lietuvos Respublikos finansinių priemonių rinkų įstatymui, Lietuvos Respublikos mokėjimo įstaigų įstatymui, Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymui ir Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymui.
 Straipsnio dalies pakeitimai:
 Nr. XIV-450, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15468
+Nr. XIV-1344, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15418
  
 
 
@@ -7726,3 +7722,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-450, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15468
 Lietuvos Respublikos juridinių asmenų nemokumo įstatymo Nr. XIII-2221 1, 2, 4, 6, 9, 10, 15, 17, 22, 26, 27, 28, 31, 32, 33, 35, 40, 41, 42, 43, 62, 63, 64, 77, 94, 95, 103, 104, 110, 111, 114, 130 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 102-1, 102-2, 102-3, 111-1 straipsniais įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1344, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15418
+Lietuvos Respublikos juridinių asmenų nemokumo įstatymo Nr. XIII-2221 1 straipsnio pakeitimo įstatymas
