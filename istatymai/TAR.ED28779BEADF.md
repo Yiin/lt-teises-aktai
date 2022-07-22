@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2022-04-29 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -4171,7 +4171,6 @@ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTAVIMO TAISYKLĖS
 
 
 8. Kai suderintojo kolektyvinio investavimo subjekto valdymo įmonė arba investicinė bendrovė-valdytoja prisiima riziką, susijusią su pakeitimu vertybiniais popieriais, kuris nebeatitinka 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/2402, kuriuo nustatoma bendroji pakeitimo vertybiniais popieriais sistema ir sukuriama specialioji paprasto, skaidraus ir standartizuoto pakeitimo vertybiniais popieriais sistema, ir iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB ir 2011/61/ES bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 648/2012 (OL 2017 L 347, p. 35), nustatytų reikalavimų, suderintojo kolektyvinio investavimo subjekto valdymo įmonė arba investicinė bendrovė-valdytoja veikia ir prireikus imasi taisomųjų veiksmų kuo labiau atsižvelgdamos į investuotojų interesus.
-TAR pastaba. 79 straipsnio 8 dalis įsigalioja 2019 m. sausio 1 d.
  
 
 
@@ -4207,7 +4206,10 @@ TAR pastaba. 79 straipsnio 8 dalis įsigalioja 2019 m. sausio 1 d.
 
 
 
-6. Investicijos į obligacijas, išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų obligacijų savininkų reikalavimams patenkinti ir iš kurio emitentui tapus nemokiam obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų.
+6. Investicijos į obligacijas, išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų obligacijų savininkų reikalavimams patenkinti ir iš kurio emitentui tapus nemokiam obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, jei tokios obligacijos išleistos iki 2022 m. liepos 7 d., arba investicijos į padengtąsias obligacijas, kurios atitinka Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymo 3 straipsnio 4 dalyje nurodytus reikalavimus, negali būti didesnės kaip 25 procentai grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1343, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15417
+ 
 
 
 
@@ -8452,7 +8454,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-3) kurios kredito įstaigos atitinka šio įstatymo 80 straipsnio 6 dalyje nurodytus reikalavimus, taip pat nurodyti tokių kredito įstaigų išleidžiamas obligacijas ir priemones, užtikrinančias obligacijų savininkų interesus;
+3) neteko galios nuo 2022-07-22;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1343, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15417
+ 
 
 
 
@@ -8500,6 +8505,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
 
+ 
 Lietuvos Respublikos
 kolektyvinio investavimo 
 subjektų įstatymo 
@@ -8695,3 +8701,8 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 5 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 18, 31, 164, 171 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1343, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15417
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 80 ir 174 straipsnių pakeitimo įstatymas
