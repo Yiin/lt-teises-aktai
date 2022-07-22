@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -21210,7 +21210,10 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 
 
 
-3. Svetimo daikto hipotekos atveju kreditorius neturi teisės perleisti reikalavimo teisės trečiajam asmeniui be įkeisto turto savininko sutikimo.
+3. Svetimo daikto hipotekos atveju kreditorius neturi teisės perleisti reikalavimo teisės trečiajam asmeniui be įkeisto turto savininko sutikimo, išskyrus kituose Lietuvos Respublikos įstatymuose nustatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
+ 
 
 
  Straipsnio pakeitimai:
@@ -26864,6 +26867,13 @@ KREDITORIAUS INTERESŲ GYNIMAS
 
 
 5. Sandorio pripažinimas negaliojančiu neturi įtakos sąžiningų trečiųjų asmenų teisėms į turtą, kuris buvo pripažinto negaliojančiu sandorio objektas.
+
+
+
+
+6. Kreditorius neturi teisės ginčyti skolininko sudarytų sandorių su patikėtiniu pagal Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymo nuostatas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
  
 
 
@@ -49406,6 +49416,13 @@ Turto patikėjimas
 
 
 2. Turto perdavimas kitam asmeniui patikėjimo teise nepakeičia turto nuosavybės teisės. Perduoto turto savininku ir toliau lieka patikėtojas.
+
+
+
+
+3. Investuotojų į vertybinius popierius patikėtinio reikalavimus gali nustatyti kiti Lietuvos Respublikos įstatymai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
  
 
 
@@ -49563,7 +49580,9 @@ Patikėjimo teisės steigėju (patikėtoju) gali būti turto savininkas arba kit
 
 
 
-2. Išieškoti pagal patikėtojo kreditorių ieškinius iš turto, perduoto patikėjimo teise, draudžiama, išskyrus atvejus, kai patikėtojui iškeliama bankroto byla ar jis tampa nemokus. Iškėlus patikėtojui bankroto bylą ar jam tapus nemokiam, turto patikėjimo teisė baigiasi, o turtas turi būti grąžintas patikėtojui.
+2. Išieškoti pagal patikėtojo kreditorių ieškinius iš turto, perduoto patikėjimo teise, draudžiama, išskyrus atvejus, kai patikėtojui iškeliama bankroto byla ar jis tampa nemokus. Iškėlus patikėtojui bankroto bylą ar jam tapus nemokiam, turto patikėjimo teisė baigiasi, o turtas turi būti grąžintas patikėtojui, išskyrus kituose Lietuvos Respublikos įstatymuose nustatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
  
 
 
@@ -49728,10 +49747,12 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 6.968 straipsnis. Turto patikėjimo teisės ypatumai
 
 
-Įstatymai gali nustatyti turto patikėjimo teisės ypatumus, kai patikėtinis yra valstybės arba savivaldybės įmonės, įstaigos ar organizacijos, taip pat kai turto patikėjimo teisė atsiranda ne sutarties, o kitais pagrindais.
+Įstatymai gali nustatyti turto patikėjimo teisės ypatumus, kai patikėjimo teise perduodamas valstybės ar savivaldybės turtas, taip pat kai turto patikėjimo teisė atsiranda ne sutarties, o kitais pagrindais ir kitais atvejais. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
  
-
-
 
 
 
@@ -51481,3 +51502,8 @@ Lietuvos Respublikos civilinio kodekso 2.137, 2.138, 2.138-1, 2.143, 2.144, 2.14
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1357, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15452
 Lietuvos Respublikos civilinio kodekso 2.24 straipsnio pakeitimo įstatymas
+ 
+62.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1330, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15395
+Lietuvos Respublikos civilinio kodekso 4.181, 6.66, 6.953, 6.961 ir 6.968 straipsnių pakeitimo įstatymas
