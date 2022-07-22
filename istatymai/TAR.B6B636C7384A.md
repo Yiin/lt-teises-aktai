@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -4606,7 +4606,10 @@ BANKO PABAIGA
 78 straipsnis. Banko reorganizavimo, pertvarkymo ir likvidavimo procedūrų teisinis reglamentavimas
 
 
-1. Bankas reorganizuojamas, pertvarkomas ir likviduojamas Civilinio kodekso, šio Įstatymo, Finansų įstaigų įstatymo ir, jei šis Įstatymas nenustato kitaip, Akcinių bendrovių įstatymo nustatyta tvarka.
+1. Bankas reorganizuojamas, pertvarkomas ir likviduojamas Civilinio kodekso, šio Įstatymo, Finansų įstaigų įstatymo, Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymo ir, jei šis Įstatymas nenustato kitaip, Akcinių bendrovių įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1334, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15399
+ 
 
 
 
@@ -4839,12 +4842,13 @@ BANKO BANKROTAS
 83 straipsnis. Bankų bankroto proceso teisinis reglamentavimas
 
 
-Bankų bankroto procesą reglamentuoja Lietuvos Respublikos juridinių asmenų nemokumo įstatymas, jeigu šis Įstatymas, Finansinio tvarumo įstatymas ir Finansų įstaigų įstatymas nenustato kitaip. 
+Bankų bankroto procesą reglamentuoja Lietuvos Respublikos juridinių asmenų nemokumo įstatymas, jeigu šis Įstatymas, Finansinio tvarumo įstatymas, Finansų įstaigų įstatymas ir Pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymas nenustato kitaip.
 
 
 Straipsnio pakeitimai:
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 Nr. XIII-2228, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10342
+Nr. XIV-1334, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15399
  
 
 
@@ -5475,7 +5479,7 @@ Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
 Priedo pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
  
-part_295197a06e024d75b19ad7b436347d83_end
+part_05d2b3ee67c14fd5b15e0977bb8bc0fc_end
 
 
 Pakeitimai:
@@ -5697,3 +5701,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 9, 16, 48, 52, 57, 59, 67, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10 ir 73 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1334, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15399
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 78 ir 83 straipsnių pakeitimo įstatymas
