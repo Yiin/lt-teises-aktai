@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2020-03-19 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-11-30
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -1945,10 +1945,10 @@ Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
 
 
 
-2. Kredito davėjo, kredito tarpininko darbuotojai, siūlantys ir sudarantys kredito sutartis, turi turėti aukštąjį išsilavinimą ir ne mažesnę kaip vienų metų darbo patirtį, susijusią su finansinių produktų kūrimu arba platinimu, turėti tinkamų žinių apie kredito produktus ir papildomas paslaugas, kurios siūlomos su šiais kredito produktais, nekilnojamojo turto įsigijimo procesą, nekilnojamojo turto rinką, nekilnojamojo turto registravimo procedūrą ir nuolat šias žinias atnaujinti, taip pat išmanyti teisės aktus, reglamentuojančius vartotojų teisių apsaugą, kredito gavėjų kreditingumo vertinimo procesą arba turėti patirties kredito gavėjų kreditingumo vertinimo srityje. 
-TAR pastaba. Kredito davėjo, kredito tarpininko darbuotojai, kurie su kredito davėju arba kredito tarpininku iki 2019 m. kovo 21 d. buvo susiję darbo santykiais arba jų esmę atitinkančiais santykiais, 32 straipsnio 2 dalyje nustatytus reikalavimus turi įgyvendinti iki 2022 m. rugpjūčio 1 d.
+2. Kredito davėjo, kredito tarpininko darbuotojai, siūlantys ir sudarantys kredito sutartis, turi turėti kvalifikaciją (turėti tinkamų žinių finansų ir ekonomikos srityje, taip pat žinių apie kredito produktus ir su šiais kredito produktais siūlomas papildomas paslaugas, nekilnojamojo turto įsigijimo procesą, įkeičiamo nekilnojamojo turto vertinimą, nekilnojamojo turto rinką, nekilnojamojo turto registravimo procedūrą ir nuolat šias žinias atnaujinti bei išmanyti vartotojų teisių apsaugą, verslo etikos standartus ir kredito gavėjų kreditingumo vertinimo procesą reglamentuojančius teisės aktus arba turėti patirties kredito gavėjų kreditingumo vertinimo srityje) ir ne trumpesnę kaip vienų metų darbo patirtį, susijusią su finansinių produktų kūrimu arba platinimu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
  
 
 
@@ -1970,7 +1970,10 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 33 straipsnis. Teisių ir pareigų pagal kredito sutartis perleidimas
 
 
-1. Kredito davėjas turi teisę perleisti teises ir pareigas pagal su kredito gavėjais sudarytas galiojančias kredito sutartis tik į viešąjį kredito davėjų sąrašą įrašytam asmeniui.
+1. Kredito davėjas turi teisę perleisti teises ir pareigas pagal su kredito gavėjais sudarytas galiojančias kredito sutartis tik į viešąjį kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 dalyje nustatytą atvejį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
+ 
 
 
 
@@ -1981,6 +1984,13 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 
 
 3. Priežiūros institucija detalizuoja šio straipsnio nuostatų įgyvendinimo tvarką.
+
+
+
+
+4. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas, kai specialiosios paskirties bendrovė ar bet koks ne Lietuvos Respublikoje įsteigtas subjektas iš kredito davėjo perima teises ir pareigas pagal kredito sutartis, kaip nustatyta Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
  
 
 
@@ -3113,7 +3123,7 @@ Respublikos Prezidentė                             
  
  
 part_15c823146e0c4217a0ce061b6353a718_end
-part_1144b53ea353421dbd31ed031df1c895_end
+part_49c1ba3329654520ab24db7acd5ef98e_end
 
 
 Lietuvos Respublikos 
@@ -3125,20 +3135,17 @@ priedas
  
 
 
-1. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 (OL 2014 L 60, p. 34). 
+1. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos direktyva (ES) 2021/2167. 
 
 
 
 
-2. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014 (OL 2016 L 171, p. 1).
+2. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (ES) 2021/168.
+
+
+Priedo pakeitimai:
+Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
  
-
-
-
-
-_________________
-
-
  
  
 Pakeitimai:
@@ -3162,3 +3169,8 @@ Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2815, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05695
 Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 22 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 32, 33 straipsnių ir priedo pakeitimo įstatymas
