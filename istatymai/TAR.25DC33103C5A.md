@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/25dc33103c5a11e6bcc5c96b48152012"
 
 # Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-21 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22
  
 Įstatymas paskelbtas: TAR 2016-06-27, i. k. 2016-17712
  
@@ -32,7 +32,6 @@ Vilnius
  
 
  
- 
 
 
 1 straipsnis. Įstatymo paskirtis
@@ -44,6 +43,13 @@ Vilnius
 
 
 2. Šis įstatymas obligacijų išleidimui ir atsiskaitymui už jas taikomas tiek, kiek to nereguliuoja Lietuvos Respublikos akcinių bendrovių įstatymas (toliau – Akcinių bendrovių įstatymas) ir Lietuvos Respublikos vertybinių popierių įstatymas (toliau – Vertybinių popierių įstatymas).
+
+
+
+
+3. Šis įstatymas netaikomas pakeitimo vertybiniais popieriais bendrovių leidžiamiems skolos vertybiniams popieriams, išskyrus Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymo 18 ir 23 straipsniuose nurodytus atvejus.
+Papildyta straipsnio dalimi:
+Nr. XIV-1333, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15398
  
 
 
@@ -685,5 +691,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2363, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11985
 Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymo Nr. XII-2443 3 straipsnio pakeitimo įstatymas
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1333, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15398
+Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymo Nr. XII-2443 1 straipsnio pakeitimo įstatymas
  
-part_3fedf8fe84ff461f83aca39867a9effc_end
+ 
+part_1ccb556d9d16484f967b3085fb474bfa_end
