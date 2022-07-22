@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
  
 
 
-Suvestinė redakcija nuo 2020-12-23 iki 2022-07-21
+Suvestinė redakcija nuo 2022-07-22 iki 2022-11-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -1898,9 +1898,10 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 221 straipsnis. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimas
 
 
-1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui. 
+1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 dalyje nustatytą atvejį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+Nr. XIV-1341, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15415
  
 
 
@@ -1917,6 +1918,14 @@ Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 3. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimo tvarką nustato priežiūros institucija.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
+ 
+
+
+
+
+4. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas, kai specialiosios paskirties bendrovė ar bet koks ne Lietuvos Respublikoje įsteigtas subjektas iš kredito davėjo perima teises ir pareigas pagal kredito sutartis, kaip nustatyta Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-1341, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15415
  
 
 
@@ -3009,7 +3018,7 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 
 
-part_816218f8c0c549ec8f9fd0b06edef0f9_end
+part_7ce532a74d1243218a0603a6474d6e58_end
 
 
  
@@ -3263,21 +3272,22 @@ vartojimo kredito įstatymo
  
 
 
-1. 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2008/48/EB dėl vartojimo kredito sutarčių ir panaikinanti Tarybos direktyvą 87/102/EEB (OL 2008 L 133, p. 66).
+1. 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2008/48/EB dėl vartojimo kredito sutarčių ir panaikinanti Tarybos direktyvą 87/102/EEB, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos direktyva (ES) 2021/2167.
 
 
 
 
-2. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 (OL 2014 L 60, p. 34).
+2. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos direktyva (ES) 2021/2167.
 
 
 
 
-3. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014 (OL 2016 L 171, p. 1).
+3. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su paskutiniais pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (ES) 2021/168.
 
 
 Priedo pakeitimai:
 Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
+Nr. XIV-1341, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15415
  
  
  
@@ -3323,5 +3333,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-80, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28127
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 2 straipsnio pakeitimo įstatymas
  
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1341, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15415
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22-1 straipsnio ir 3 priedo pakeitimo įstatymas
  
-part_ecbfcbf75f974781ae0fcbf2354822d0_end
+ 
+part_412620ec176b48059b3a5efff5deb137_end
