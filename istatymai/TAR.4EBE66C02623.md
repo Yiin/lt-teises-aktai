@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-25
+Suvestinė redakcija nuo 2022-07-26 iki 2022-07-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -7869,6 +7869,38 @@ Nr. XIV-714, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25141
  
 
 
+
+
+
+
+2471 straipsnis. Biologinių atliekų (išskyrus biologiškai skaidžias sodų ir parkų atliekas) tvarkymo reikalavimų nevykdymas 
+
+
+1. Atliekų tvarkymo taisyklėse ir kituose teisės aktuose nustatytų maisto tvarkymo subjektuose susidarančių biologinių atliekų (išskyrus biologiškai skaidžias sodų ir parkų atliekas) tvarkymo šių atliekų susidarymo vietose reikalavimų nevykdymas
+užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki dviejų šimtų šešiasdešimt eurų ir įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų šešiasdešimt iki vieno tūkstančio vieno šimto keturiasdešimt eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo dviejų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio dviejų šimtų penkiasdešimt iki keturių tūkstančių trijų šimtų penkiasdešimt eurų.
+
+
+
+
+3. Atliekų tvarkymo taisyklėse ir kituose teisės aktuose nustatytų biologinių atliekų (išskyrus biologiškai skaidžias sodų ir parkų atliekas) tvarkymo reikalavimų nevykdymas įmonėse, turinčiose leidimus tvarkyti biologines atliekas,
+užtraukia įspėjimą arba baudą įmonių vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų devyniasdešimt iki vieno tūkstančio dviejų šimtų penkiasdešimt eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą įmonių vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio dviejų šimtų penkiasdešimt iki penkių tūkstančių dviejų šimtų penkiasdešimt eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-1399, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16125
+ 
 
 
 
@@ -20241,18 +20273,19 @@ Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
 
 
 
-30) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2, 4 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224, 256 straipsniuose, 291 straipsnio 5 dalyje, 299 straipsnio 2, 3, 4 dalyse, 3041 straipsnyje, 3042 straipsnio 2 dalyje, 312, 343, 344, 345, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+30) Valstybinės maisto ir veterinarijos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 1, 2, 4 dalyse, 51, 69, 70, 78 straipsniuose, 127 straipsnio 1, 2 dalyse, 139 straipsnyje, 144 straipsnio 4, 5 dalyse, 145, 152, 153, 155, 156, 157, 158, 160, 161, 162, 163, 181 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 2471 straipsnio 1, 2 dalyse, 256 straipsnyje, 291 straipsnio 5 dalyje, 299 straipsnio 2, 3, 4 dalyse, 3041 straipsnyje, 3042 straipsnio 2 dalyje, 312, 343, 344, 345, 346, 347, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIV-1399, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16125
  
 
 
 
 
-31) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 110, 112, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247, 248, 249, 250, 251, 2511, 252, 253, 255, 256, 257, 258, 259, 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 2701 straipsniuose, 271 straipsnio 1, 2, 3, 4, 6 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
+31) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 110, 112, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247 straipsniuose, 2471 straipsnio 3, 4 dalyse, 248, 249, 250, 251, 2511, 252, 253, 255, 256, 257, 258, 259, 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 2701 straipsniuose, 271 straipsnio 1, 2, 3, 4, 6 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -20265,6 +20298,7 @@ Nr. XIII-2800, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02852
 Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
 Nr. XIII-3197, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15390
 Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754
+Nr. XIV-1399, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16125
  
 
 
@@ -24434,7 +24468,7 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
-part_972dffabf2c4431ba70dd25f54b510ea_end
+part_f9f4da19adb849ecbc1c4691a1758c9e_end
 
 
 Lietuvos Respublikos 
@@ -25922,3 +25956,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 66, 508, 589
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-882, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00173
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+172.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1399, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16125
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 247-1 straipsniu įstatymas
