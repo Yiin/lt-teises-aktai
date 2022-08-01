@@ -21,7 +21,7 @@ Neoficialus įstatymo tekstas
  
 
 
-Suvestinė redakcija nuo 2019-02-01 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2023-01-03
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 65-1558, i. k. 0971010ISTAVIII-359
  
@@ -1070,11 +1070,12 @@ Nr. XII-1150, 2014-09-25, paskelbta TAR 2014-10-08, i. k. 2014-13859
 
 
 
-4. Piliečiai, pateikę prašymus atkurti nuosavybės teises į žemę, esančią miestams priskirtose teritorijose, įskaitant žemę, esančią miestams priskirtose teritorijose po 1995 m. birželio 1 d., iki 2019 m. birželio 1 d. gali pakeisti savo valią dėl atlyginimo būdo ir prašyti už valstybės išperkamą žemę arba jos dalį, už kurią nėra atlyginta, atlyginti lygiaverčiu miško plotu iš laisvos valstybinės žemės fonde esančių valstybinių miškų, rezervuotų nuosavybės teisėms atkurti, kaimo vietovėje, jeigu sprendimas dėl nuosavybės teisių atkūrimo nepriimtas arba priimtas, bet iki prašymo pakeisti valią dėl atlyginimo būdo pateikimo dienos neįvykdytas arba iš dalies įvykdytas. Institucija, nagrinėjanti piliečių prašymus atkurti nuosavybės teises į išlikusį nekilnojamąjį turtą, į kurį piliečiui atkurtos nuosavybės teisės, priimtą ir neįvykdytą arba iš dalies įvykdytą sprendimą dėl nuosavybės teisių atkūrimo pakeičia administracine tvarka.
+4. Piliečiai, pateikę prašymus atkurti nuosavybės teises į žemę, esančią miestams priskirtose teritorijose, įskaitant žemę, esančią miestams priskirtose teritorijose po 1995 m. birželio 1 d., iki 2023 m. vasario 1 d. gali pakeisti savo valią dėl atlyginimo būdo ir prašyti už valstybės išperkamą žemę arba jos dalį, už kurią nėra atlyginta, atlyginti lygiaverčiu miško plotu iš laisvos valstybinės žemės fonde esančių valstybinių miškų, rezervuotų nuosavybės teisėms atkurti, kaimo vietovėje, jeigu sprendimas dėl nuosavybės teisių atkūrimo nepriimtas arba priimtas, bet iki prašymo pakeisti valią dėl atlyginimo būdo pateikimo dienos neįvykdytas arba iš dalies įvykdytas. Institucija, nagrinėjanti piliečių prašymus atkurti nuosavybės teises į išlikusį nekilnojamąjį turtą, į kurį piliečiui atkurtos nuosavybės teisės, priimtą ir neįvykdytą arba iš dalies įvykdytą sprendimą dėl nuosavybės teisių atkūrimo pakeičia administracine tvarka. Institucija, nagrinėjanti piliečių prašymus atkurti nuosavybės teises į žemę, esančią miestams priskirtose teritorijose, įskaitant žemę, esančią miestams priskirtose teritorijose po 1995 m. birželio 1 d., privalo ne vėliau kaip per du mėnesius nuo įstatymo pakeitimo priėmimo dienos informuoti piliečius atskiru raštu apie galimybę už valstybės išperkamą žemę arba jos dalį, už kurią nėra atlyginta, atlyginti lygiaverčiu miško plotu iš laisvos valstybinės žemės fonde esančių valstybinių miškų, rezervuotų nuosavybės teisėms atkurti, kaimo vietovėje ir pilietis, pageidaujantis, kad  už valstybės išperkamą žemę arba jos dalį, už kurią nėra atlyginta, būtų atlyginta lygiaverčiu miško plotu kaimo vietovėje, turi ne vėliau kaip iki 2023 m. vasario 1 d. žemėtvarkos skyriui  pateikti prašymą, nurodant jame kadastro vietovę iš laisvos valstybinės žemės fonde esančių valstybinių miškų, rezervuotų nuosavybės teisėms atkurti, kaimo vietovėje, kurioje jis pageidautų gauti neatlygintinai nuosavybėn lygiavertį turėtajam miško sklypą.
 Papildyta straipsnio dalimi:
 Nr. XII-1150, 2014-09-25, paskelbta TAR 2014-10-08, i. k. 2014-13859
 Straipsnio dalies pakeitimai:
 Nr. XIII-1925, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00888
+Nr. XIV-1242, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15190
  
 
 
@@ -1385,3 +1386,8 @@ Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąj�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1925, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00888
 Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr. VIII-359 21 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1242, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15190
+Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr.VIII-359 21 straipsnio pakeitimo įstatymas
