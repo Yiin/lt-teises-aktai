@@ -19,9 +19,10 @@ IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
  
@@ -355,16 +356,14 @@ Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
 
 
 ŠEŠTASIS SKIRSNIS
-2003 M. LAPKRIČIO 27 D. TARYBOS REGLAMENTO (EB) NR. 2201/2003 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ, SUSIJUSIŲ SU SANTUOKA IR TĖVŲ PAREIGOMIS, PRIPAŽINIMO BEI VYKDYMO, PANAIKINANČIO REGLAMENTĄ (EB) NR. 1347/2000, 1980 M. SPALIO 25 D. HAGOS KONVENCIJOS DĖL TARPTAUTINIO VAIKŲ GROBIMO CIVILINIŲ ASPEKTŲ IR 1996 M. SPALIO 19 D. HAGOS KONVENCIJOS DĖL JURISDIKCIJOS, TAIKYTINOS TEISĖS, PRIPAŽINIMO, VYKDYMO IR BENDRADARBIAVIMO TĖVŲ PAREIGŲ IR VAIKŲ APSAUGOS PRIEMONIŲ SRITYJE ĮGYVENDINIMAS 
-Pakeistas skirsnio pavadinimas:
-Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
+REGLAMENTO (ES) 2019/1111, 1980 M. SPALIO 25 D. HAGOS KONVENCIJOS DĖL TARPTAUTINIO VAIKŲ GROBIMO CIVILINIŲ ASPEKTŲ IR 1996 M. SPALIO 19 D. HAGOS KONVENCIJOS DĖL JURISDIKCIJOS, TAIKYTINOS TEISĖS, PRIPAŽINIMO, VYKDYMO IR BENDRADARBIAVIMO TĖVŲ PAREIGŲ IR VAIKŲ APSAUGOS PRIEMONIŲ SRITYJE ĮGYVENDINIMAS
  
 
 
 7 straipsnis. Vaiko grąžinimas
 
 
-1. Bylos dėl neteisėtai išvežto ar kitoje, negu jis nuolat gyveno, Europos Sąjungos valstybėje narėje arba susitariančiojoje valstybėje pagal 1980 m. spalio 25 d. Hagos konvenciją dėl tarptautinio vaikų grobimo civilinių aspektų (toliau – Hagos konvencija) laikomo vaiko grąžinimo (toliau – bylos dėl vaiko grąžinimo) nagrinėjamos Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka tiek, kiek 2003 m. lapkričio 27 d Tarybos reglamentas (EB) Nr. 2201/2003 dėl jurisdikcijos ir teismo sprendimų, susijusių su santuoka ir tėvų pareigomis, pripažinimo bei vykdymo, panaikinantis Reglamentą (EB) Nr. 1347/2000 (toliau šiame skirsnyje – Reglamentas (EB) Nr. 2201/2003), Hagos konvencija ir šis įstatymas nenustato kitaip.
+1. Bylos dėl neteisėtai išvežto ar kitoje, negu buvo jo įprastinė gyvenamoji vieta, Europos Sąjungos valstybėje narėje arba susitariančiojoje valstybėje pagal 1980 m. spalio 25 d. Hagos konvenciją dėl tarptautinio vaikų grobimo civilinių aspektų (toliau – Hagos konvencija) laikomo vaiko grąžinimo (toliau – bylos dėl vaiko grąžinimo) nagrinėjamos Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka tiek, kiek Reglamentas (ES) 2019/1111, Hagos konvencija ir šis įstatymas nenustato kitaip.
 
 
 
@@ -374,17 +373,17 @@ Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
 
 
 
-3. Apie bylos dėl vaiko grąžinimo nagrinėjimą pranešama suinteresuotiems asmenims. Teismas, rengdamasis nagrinėti bylą dėl vaiko grąžinimo, paveda šio įstatymo 11 straipsnio 2 dalies 2 punkte nurodytai centrinei institucijai pateikti Reglamento (EB) Nr. 2201/2003 55 straipsnio a punkte nurodytą informaciją.
+3. Apie bylos dėl vaiko grąžinimo nagrinėjimą pranešama suinteresuotiems asmenims. Teismas, rengdamasis nagrinėti bylą dėl vaiko grąžinimo, paveda šio įstatymo 11 straipsnio 2 dalies 2 punkte nurodytai centrinei institucijai pateikti Reglamento (ES) 2019/1111 80 straipsnio 1 dalies a punkte nurodytą informaciją.
 
 
 
 
-4. Jeigu pareiškėjas gyvena ne Lietuvos Respublikoje ir nepaskyrė atstovo byloje arba įgalioto asmens procesiniams dokumentams gauti, gyvenančio Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis), prašyme dėl vaiko grąžinimo turi būti nurodytas adresas Lietuvos Respublikoje arba telekomunikacijų galinio įrenginio adresas, kuriuo pareiškėjui būtų galima įteikti procesinius dokumentus.
+4. Jeigu pareiškėjas gyvena ne Lietuvos Respublikoje ir nepaskyrė atstovo byloje arba įgalioto asmens procesiniams dokumentams gauti, gyvenančio Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis), prašyme dėl vaiko grąžinimo turi būti nurodytas adresas Lietuvos Respublikoje arba elektroninių ryšių priemonių adresai, kuriais pareiškėjui būtų galima įteikti procesinius dokumentus.
 
 
 
 
-5. Prašymas dėl vaiko grąžinimo turi būti išnagrinėtas laikantis Reglamento (EB)Nr. 2201/2003 11 straipsnyje nustatytų terminų. Nagrinėjant bylą žodinio proceso tvarka, turi būti rašomas teismo posėdžio protokolas.
+5. Prašymas dėl vaiko grąžinimo turi būti išnagrinėtas laikantis Reglamento (ES) 2019/1111 24 straipsnyje nustatytų terminų. Nagrinėjant bylą žodinio proceso tvarka, turi būti fiksuojama teismo posėdžio eiga.
 
 
 
@@ -394,7 +393,7 @@ Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
 
 
 
-7. Reglamento (EB) Nr. 2201/2003 11 straipsnio 6 dalyje nurodytų dokumentų perdavimo funkciją Lietuvos Respublikoje atlieka šio įstatymo 11 straipsnio 2 dalies 1 punkte nurodyta centrinė institucija.
+7. Reglamento (ES) 2019/1111 29 straipsnio 3 dalyje nurodytų dokumentų perdavimo funkciją Lietuvos Respublikoje atlieka šio įstatymo 11 straipsnio 2 dalies 2 punkte nurodyta centrinė institucija.
  
 
 
@@ -403,21 +402,66 @@ Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
 
 
 8 straipsnis. Bylų, kai sutuoktiniai yra Lietuvos Respublikos piliečiai, neturintys gyvenamosios vietos ir turto Lietuvos Respublikoje, teismingumas
+
+
 Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuokos pripažinimo negaliojančia, kai sutuoktiniai yra Lietuvos Respublikos piliečiai, neturintys Lietuvos Respublikoje gyvenamosios vietos ir turto, paduodamas bet kuriam apylinkės teismui ieškovo pasirinkimu.
  
 
 
 
 
-9 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų vykdymas
 
 
-1. Europos Sąjungos valstybių narių teismų sprendimai dėl bendravimo teisių ir dėl vaiko grąžinimo yra vykdytini dokumentai, vykdomi pagal Lietuvos Respublikos civilinio proceso kodekso VI dalyje išdėstytas taisykles tiek, kiek šis įstatymas nenustato kitaip.
+81 straipsnis. Pažymų išdavimas, ištaisymas ir atšaukimas
+
+
+1. Reglamento (ES) 2019/1111 36 straipsnio 1 dalyje, 49 straipsnio 1 dalyje nurodytas pažymas išduoda sprendimą priėmęs pirmosios instancijos teismas.
 
 
 
 
-2. Europos Sąjungos valstybėse narėse išduoti pažymėjimai, nurodyti Reglamento (EB) Nr. 2201/2003 41 ir 42 straipsniuose, yra vykdomieji dokumentai.
+2. Reglamento (ES) 2019/1111 37 ir 48 straipsniuose numatytais atvejais pažymą ištaiso ar atšaukia ją išdavęs teismas. Pažymos ištaisymo ar atšaukimo klausimas išsprendžiamas mutatis mutandis taikant Lietuvos Respublikos civilinio proceso kodekso 276 straipsnio nuostatas dėl rašymo apsirikimų ir aiškių aritmetinių klaidų sprendime ištaisymo.
+
+
+
+
+3. Reglamento (ES) 2019/1111 66 straipsnio 1 dalyje nurodytą pažymą išduoda autentišką dokumentą patvirtinęs notaras.
+
+
+
+
+4. Reglamento (ES) 2019/1111 67 straipsnyje numatytais atvejais pažymą ištaiso ar atšaukia ją išdavęs notaras. Apie pažymos ištaisymą ar atšaukimą ne vėliau kaip per tris darbo dienas raštu informuojamas asmuo, kuriam buvo išduota pažyma. Šioje dalyje nurodyti notariniai veiksmai gali būti skundžiami Lietuvos Respublikos civilinio proceso kodekso XXXI skyriuje nustatyta tvarka.
+ 
+
+
+
+
+
+
+9 straipsnis. Teismo sprendimų, autentiškų dokumentų ir susitarimų pripažinimas ir vykdymas
+
+
+1. Europos Sąjungos valstybių narių teismų sprendimai, dėl kurių išduodamos Reglamento (ES) 2019/1111 36 straipsnio 1 dalyje, 47 straipsnio 1 dalyje nurodytos pažymos, taip pat Europos Sąjungos valstybėse narėse formaliai parengti arba užregistruoti autentiški dokumentai ar užregistruoti susitarimai, dėl kurių išduodamos Reglamento (ES) 2019/1111 66 straipsnio 1 dalyje nurodytos pažymos, yra vykdomieji dokumentai.
+
+
+
+
+2. Reglamento (ES) 2019/1111 30 straipsnio 3 dalyje nurodytus prašymus priimti sprendimą, kad nėra jokių Reglamento (ES) 2019/1111 38 ir 39 straipsniuose nurodytų atsisakymo pripažinti pagrindų, Reglamento (ES) 2019/1111 40 straipsnio 1 dalyje nurodytus prašymus atsisakyti pripažinti, taip pat Reglamento (ES) 2019/1111 59 straipsnio 1 dalyje nurodytus prašymus atsisakyti vykdyti, kai jie grindžiami Reglamento (ES) 2019/1111 39 straipsnio nuostatomis ar kitais Reglamente (ES) 2019/1111 nustatytais pagrindais, nagrinėja Lietuvos apeliacinis teismas.
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodyti prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas. Prašymai peržiūrėti Lietuvos apeliacinio teismo nutartis, priimtas dėl šio straipsnio 2 dalyje nurodytų prašymų, gali būti paduoti per trisdešimt dienų nuo nutarties įteikimo šaliai dienos.
+
+
+
+
+4. Reglamento (ES) 2019/1111 59 straipsnio 1 dalyje nurodytus prašymus atsisakyti vykdyti, kai jie grindžiami Lietuvos Respublikos civilinio proceso kodekso 651 straipsnio 2 dalyje nustatytais pagrindais, nagrinėja antstolis, kuriam pateiktas vykdyti sprendimas.
+
+
+
+
+5. Reglamento (ES) 2019/1111 56 straipsnyje numatytais atvejais vykdymo procesą sustabdo vykdymo vietos apylinkės teismas.
  
 
 
@@ -448,7 +492,7 @@ Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuoko
 
 
 
-5. Dėl teismo nutarties, kurioje išdėstyti praktiniai nurodymai dėl naudojimosi bendravimo teisėmis, gali būti duodamas atskirasis skundas. Apeliacinės instancijos teismo nutartis, priimta išnagrinėjus atskirąjį skundą, kasacine tvarka neskundžiama.
+5. Dėl teismo nutarties, kurioje išdėstyti praktiniai nurodymai dėl naudojimosi bendravimo teisėmis, gali būti paduodamas atskirasis skundas. Apeliacinės instancijos teismo nutartis, priimta išnagrinėjus atskirąjį skundą, kasacine tvarka neskundžiama.
  
 
 
@@ -456,7 +500,7 @@ Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuoko
 
 
 
-11 straipsnis. Centrinės institucijos
+11 straipsnis. Centrinės institucijos ir kompetentinga institucija
 
 
 1. Centrinė institucija Hagos konvencijoje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos socialinės apsaugos ir darbo ministerija.
@@ -464,17 +508,33 @@ Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuoko
 
 
 
-2. Centrinės institucijos Reglamente (EB) Nr. 2201/2003 nustatytoms funkcijoms atlikti yra:
+2. Centrinės institucijos Reglamente (ES) 2019/1111 nustatytoms funkcijoms atlikti yra:
 
 
-1) Lietuvos Respublikos teisingumo ministerija – atsakinga už teismų susižinojimo funkcijų atlikimą ir informacijos apie Lietuvos Respublikos teisės nustatytas procedūrines taisykles, susijusias su Reglamento (EB) Nr. 2201/2003 įgyvendinimu, perdavimą;
+1) Lietuvos Respublikos teisingumo ministerija – atsakinga už Reglamento (ES) 2019/1111 77 straipsnio 1 dalyje numatytą informacijos apie nacionalinius įstatymus, procedūras ir paslaugas su tėvų pareigomis susijusiose bylose pranešimą;
 
 
 
 
-2) Lietuvos Respublikos socialinės apsaugos ir darbo ministerija – atsakinga už kitų, negu nurodyta šios dalies 1 punkte, Reglamente (EB) Nr. 2201/2003 nustatytų funkcijų įgyvendinimą.
+2) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) – atsakinga už kitų, negu nurodyta šios dalies 1 punkte, Reglamente (ES) 2019/1111 centrinėms institucijoms nustatytų funkcijų atlikimą.
 
 
+
+
+
+
+3. Reglamento (ES) 2019/1111 74 straipsnio 2 dalyje nurodytą pareiškimą, kad asmuo turi teisę į antrinę valstybės garantuojamą teisinę pagalbą, išduoda Valstybės garantuojamos teisinės pagalbos tarnyba.
+ 
+
+
+
+
+
+
+111 straipsnis. Kalbos
+
+
+Lietuvos Respublikoje priimtinos kalbos pagal Reglamento (ES) 2019/1111 91 straipsnio 3 dalį yra lietuvių ir anglų kalbos.
  
 
 
@@ -485,12 +545,7 @@ Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuoko
 12 straipsnis. Laikinųjų apsaugos priemonių taikymas
 
 
-1. Priėmęs prašymą dėl vaiko grąžinimo, teismas ieškovo (išieškotojo) ar antstolio prašymu arba savo iniciatyva gali taikyti, o priėmęs sprendimą dėl vaiko grąžinimo, – savo iniciatyva privalo taikyti laikinąsias apsaugos priemones – draudimą atsakovui (skolininkui) išvykti iš Lietuvos Respublikos ir (arba) draudimą išvežti vaiką iš Lietuvos Respublikos be teismo leidimo.
-
-
-
-
-2. Nutartis dėl šio straipsnio 1 dalyje nurodytų laikinųjų apsaugos priemonių taikymo vykdo antstolis.
+Priėmęs prašymą ar sprendimą dėl vaiko grąžinimo, teismas ieškovo prašymu arba savo iniciatyva gali taikyti laikinąsias apsaugos priemones: draudimą atsakovui išvykti iš Lietuvos Respublikos ir (arba) draudimą išvežti vaiką iš Lietuvos Respublikos be teismo leidimo, taip pat kitas laikinąsias apsaugos priemones Reglamento (ES) 2019/1111 15 straipsnyje ir Lietuvos Respublikos civilinio proceso kodekso XI skyriaus penktajame skirsnyje nustatyta tvarka.
  
 
 
@@ -507,11 +562,9 @@ Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuoko
 
 
 2. Valstybių 1996 m. spalio 19 d. Hagos konvencijos dalyvių, išskyrus Europos Sąjungos valstybes nares, teismų sprendimai, patenkantys į 1996 m. spalio 19 d. Hagos konvencijos taikymo sritį, Lietuvos Respublikoje pripažįstami ir leidžiama juos vykdyti pagal Lietuvos Respublikos civilinio proceso kodekso LX skyriaus ketvirtąjį, penktąjį ir šeštąjį skirsnius.
-
-
-Papildyta straipsniu:
-Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
  
+
+
 
 
 
@@ -519,44 +572,55 @@ Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
 122 straipsnis. Prašymų dėl jurisdikcijos perėmimo ir prašymų dėl jurisdikcijos perdavimo nagrinėjimo tvarka
 
 
-1. Reglamento (EB) Nr. 2201/2003 15 straipsnyje ir 1996 m. spalio 19 d. Hagos konvencijos 8 ir 9 straipsniuose nurodytus prašymus dėl jurisdikcijos perėmimo iš užsienio valstybės teismo ir prašymus dėl jurisdikcijos perdavimo užsienio valstybės teismui nagrinėja Lietuvos apeliacinis teismas.
+1. Reglamento (ES) 2019/1111 12 ir 13 straipsniuose ir 1996 m. spalio 19 d. Hagos konvencijos 8 ir 9 straipsniuose nurodytus prašymus dėl jurisdikcijos perėmimo iš užsienio valstybės teismo ir prašymus dėl jurisdikcijos perdavimo užsienio valstybės teismui nagrinėja Lietuvos apeliacinis teismas.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti prašymai nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka tiek, kiek Reglamentas (EB) Nr. 2201/2003, 1996 m. spalio 19 d. Hagos konvencija ir šis įstatymas nenustato kitaip. Šio straipsnio 1 dalyje nurodyti prašymai žyminiu mokesčiu neapmokestinami.
+2. Šio straipsnio 1 dalyje nurodyti prašymai nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka tiek, kiek Reglamentas (ES) 2019/1111, 1996 m. spalio 19 d. Hagos konvencija ir šis įstatymas nenustato kitaip. Šio straipsnio 1 dalyje nurodyti prašymai žyminiu mokesčiu neapmokestinami.
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodyti Lietuvos apeliaciniam teismui teikiami prašymai turi atitikti bendruosius procesiniams dokumentams keliamus reikalavimus (Lietuvos Respublikos civilinio proceso kodekso 111 straipsnis). Vadovaujantis Reglamento (EB) Nr. 2201/2003 15 straipsnio nuostatomis teikiamas prašymas ir jo priedai turi būti pateikti valstybine kalba arba turi būti pridėti šių dokumentų vertimai į lietuvių kalbą. Vadovaujantis 1996 m. spalio 19 d. Hagos konvencijos 8 ir 9 straipsnių nuostatomis teikiamas prašymas ir jo priedai turi būti pateikti valstybine kalba arba turi būti pridėti šių dokumentų vertimai į lietuvių kalbą, o jeigu to padaryti neįmanoma, šis prašymas ir jo priedai turi būti pateikti anglų kalba arba turi būti pridėti šių dokumentų vertimai į anglų kalbą. Jeigu pareiškėjas gyvena ne Lietuvos Respublikoje ir nepaskyrė atstovo byloje arba įgalioto asmens procesiniams dokumentams gauti, gyvenančio (turinčio profesinės veiklos buveinę) Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis), prašyme turi būti nurodytas adresas Lietuvos Respublikoje arba telekomunikacijų galinio įrenginio adresas, kuriuo pareiškėjui būtų įteikiami procesiniai dokumentai. Šioje dalyje nustatyti reikalavimai netaikomi prašymams, kuriuos Lietuvos apeliaciniam teismui pateikia užsienio valstybės teismas.
+3. Šio straipsnio 1 dalyje nurodyti Lietuvos apeliaciniam teismui teikiami prašymai turi atitikti bendruosius procesiniams dokumentams keliamus reikalavimus (Lietuvos Respublikos civilinio proceso kodekso 111 straipsnis). Vadovaujantis Reglamento (ES) 2019/1111 12 ir 13 straipsnių nuostatomis teikiamas prašymas ir jo priedai turi būti pateikti lietuvių kalba arba turi būti pridėti šių dokumentų vertimai į lietuvių kalbą. Vadovaujantis 1996 m. spalio 19 d. Hagos konvencijos 8 ir 9 straipsnių nuostatomis teikiamas prašymas ir jo priedai turi būti pateikti lietuvių kalba arba turi būti pridėti šių dokumentų vertimai į lietuvių kalbą, o jeigu to padaryti neįmanoma, šis prašymas ir jo priedai turi būti pateikti anglų kalba arba turi būti pridėti šių dokumentų vertimai į anglų kalbą. Jeigu pareiškėjas gyvena ne Lietuvos Respublikoje ir nepaskyrė atstovo byloje arba įgalioto asmens procesiniams dokumentams gauti, gyvenančio (turinčio profesinės veiklos buveinę) Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis), prašyme turi būti nurodytas adresas Lietuvos Respublikoje arba elektroninių ryšių priemonių adresai, kuriais pareiškėjui būtų įteikiami procesiniai dokumentai. Šioje dalyje nustatyti reikalavimai netaikomi prašymams, kuriuos Lietuvos apeliaciniam teismui pateikia užsienio valstybės teismas.
 
 
 
 
-4. Lietuvos apeliacinis teismas, kai tai tikslinga, gali pavesti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos pateikti išvadą dėl jurisdikcijos perėmimo ar jurisdikcijos perdavimo tikslingumo. Lietuvos apeliacinis teismas nustato šioje dalyje nurodytos išvados pateikimo terminą.
+4. Lietuvos apeliacinis teismas, kai tai tikslinga, gali pavesti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai pateikti išvadą dėl jurisdikcijos perėmimo ar jurisdikcijos perdavimo tikslingumo. Lietuvos apeliacinis teismas nustato šioje dalyje nurodytos išvados pateikimo terminą.
 
 
 
 
-5. Šio straipsnio 1 dalyje nurodytus prašymus nagrinėja vienas Lietuvos apeliacinio teismo teisėjas. Teismas, nustatęs, kad prašymas paduotas nesilaikant Reglamente (EB) Nr. 2201/2003, 1996 m. spalio 19 d. Hagos konvencijoje, šiame įstatyme ar Lietuvos Respublikos civilinio proceso kodekse nustatytos tvarkos, laiko jį nepaduotu ir nutartimi grąžina pareiškėjui, o prašymas, kuris jau buvo priimtas teismo žinion, paliekamas nenagrinėtas. Teismas nustato terminą prašymo formos arba turinio trūkumams pašalinti (Lietuvos Respublikos civilinio proceso kodekso 115 straipsnis), jeigu pareiškėjas gyvena Lietuvos Respublikoje, nurodė adresą Lietuvos Respublikoje arba telekomunikacijų galinio įrenginio adresą, kuriuo pareiškėjui būtų įteikiami procesiniai dokumentai, arba paskyrė atstovą byloje ar įgaliotą asmenį procesiniams dokumentams gauti, gyvenantį (turintį profesinės veiklos buveinę) Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis). Jeigu per teismo nustatytą terminą trūkumai nepašalinami, prašymas laikomas nepaduotu ir grąžinamas pareiškėjui, o prašymas, kuris jau buvo priimtas teismo žinion, paliekamas nenagrinėtas. Šioje dalyje nustatyti reikalavimai dėl prašymų trūkumų šalinimo netaikomi prašymams, kuriuos Lietuvos apeliaciniam teismui pateikia užsienio valstybės teismas. Teismas prašymą dėl jurisdikcijos perėmimo iš užsienio valstybės teismo ar prašymą dėl jurisdikcijos perdavimo užsienio valstybės teismui išsprendžia priimdamas nutartį rašytinio proceso tvarka. Lietuvos apeliacinio teismo nutartys, priimtos dėl šio straipsnio 1 dalyje nurodytų prašymų, yra neskundžiamos. 
+5. Šio straipsnio 1 dalyje nurodytus prašymus nagrinėja vienas Lietuvos apeliacinio teismo teisėjas. Teismas, nustatęs, kad prašymas paduotas nesilaikant Reglamente (ES) 2019/1111, 1996 m. spalio 19 d. Hagos konvencijoje, šiame įstatyme ar Lietuvos Respublikos civilinio proceso kodekse nustatytos tvarkos, laiko jį nepaduotu ir nutartimi grąžina pareiškėjui, o prašymas, kuris jau buvo priimtas teismo žinion, paliekamas nenagrinėtas. Teismas nustato terminą prašymo formos arba turinio trūkumams pašalinti (Lietuvos Respublikos civilinio proceso kodekso 115 straipsnis), jeigu pareiškėjas gyvena Lietuvos Respublikoje, nurodė adresą Lietuvos Respublikoje arba elektroninių ryšių priemonių adresus, kuriais pareiškėjui būtų įteikiami procesiniai dokumentai, arba paskyrė atstovą byloje ar įgaliotą asmenį procesiniams dokumentams gauti, gyvenantį (turintį profesinės veiklos buveinę) Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis). Jeigu per teismo nustatytą terminą trūkumai nepašalinami, prašymas laikomas nepaduotu ir grąžinamas pareiškėjui, o prašymas, kuris jau buvo priimtas teismo žinion, paliekamas nenagrinėtas. Šioje dalyje nustatyti reikalavimai dėl prašymų trūkumų šalinimo netaikomi prašymams, kuriuos Lietuvos apeliaciniam teismui pateikia užsienio valstybės teismas. Teismas prašymą dėl jurisdikcijos perėmimo iš užsienio valstybės teismo ar prašymą dėl jurisdikcijos perdavimo užsienio valstybės teismui išsprendžia priimdamas nutartį rašytinio proceso tvarka. Lietuvos apeliacinio teismo nutartys, priimtos dėl šio straipsnio 1 dalyje nurodytų prašymų, yra neskundžiamos. 
 
 
 
 
-6. Prašymas Lietuvos apeliaciniame teisme turi būti išnagrinėtas ne vėliau kaip per šešias savaites nuo prašymo priėmimo teisme dienos. 
+6. Prašymas Lietuvos apeliaciniame teisme turi būti išnagrinėtas ne vėliau kaip per šešias savaites nuo prašymo priėmimo teisme dienos.
 
 
 
 
 7. Lietuvos apeliacinis teismas, išnagrinėjęs prašymą dėl jurisdikcijos perėmimo iš užsienio valstybės teismo ir priėmęs sprendimą šį prašymą patenkinti, atsižvelgdamas į bylos aplinkybes nustato kompetentingą Lietuvos Respublikos teismą, kuris nagrinės bylą Lietuvos Respublikoje. Užsienio valstybės teisme iškelta byla perduodama kompetentingam Lietuvos Respublikos teismui nagrinėti iš esmės. Šiuo atveju mutatis mutandis taikomos Lietuvos Respublikos civilinio proceso kodekso 35 straipsnio nuostatos ir bylos nagrinėjimas tęsiamas kompetentingame Lietuvos Respublikos teisme. Kompetentingas Lietuvos Respublikos teismas prireikus nustato dalyvaujančių byloje asmenų procesinę padėtį ir imasi priemonių procesinių dokumentų trūkumams pašalinti.
-
-
-Papildyta straipsniu:
-Nr. XII-1413, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20545
  
 
 
+
+
+
+
+123 straipsnis. Vaiko įkurdinimas Lietuvos Respublikoje
+
+
+Prašymas dėl Reglamento (ES) 2019/1111 82 straipsnio 1 dalyje nurodyto sutikimo įkurdinti vaiką Lietuvos Respublikoje paduodamas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai. Prašymo padavimo ir nagrinėjimo tvarką nustato Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos direktorius.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
+ 
 
 
 
@@ -1420,6 +1484,8 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 civilinį procesą 
@@ -1432,52 +1498,52 @@ priedas
  
 
 
-1. 2003 m. lapkričio 27 d. Tarybos reglamentas (EB) Nr. 2201/2003 dėl jurisdikcijos ir teismo sprendimų, susijusių su santuoka ir tėvų pareigomis, pripažinimo bei vykdymo, panaikinantis Reglamentą (EB) Nr. 1347/2000.
+1. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 805/2004, sukuriantis neginčytinų reikalavimų Europos vykdomąjį raštą, su pakeitimais, padarytais 2005 m. lapkričio 16 d. Komisijos reglamentu (EB) Nr. 1869/2005.
 
 
 
 
-2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 805/2004, sukuriantis neginčytinų reikalavimų Europos vykdomąjį raštą, su pakeitimais, padarytais 2005 m. lapkričio 16 d. Komisijos reglamentu (EB) Nr. 1869/2005.
+2. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą, su paskutiniais pakeitimais, padarytais 2017 m. birželio 19 d. Komisijos deleguotuoju reglamentu (ES) 2017/1260.
 
 
 
 
-3. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą, su paskutiniais pakeitimais, padarytais 2017 m. birželio 19 d. Komisijos deleguotuoju reglamentu (ES) 2017/1260.
+3. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, su paskutiniais pakeitimais, padarytais 2017 m. birželio 19 d. Komisijos deleguotuoju reglamentu (ES) 2017/1259.
 
 
 
 
-4. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, su paskutiniais pakeitimais, padarytais 2017 m. birželio 19 d. Komisijos deleguotuoju reglamentu (ES) 2017/1259.
+4. 2008 m. gruodžio 18 d. Tarybos reglamentas (EB) Nr. 4/2009 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų pripažinimo ir vykdymo bei bendradarbiavimo išlaikymo prievolių srityje su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 10 d. Komisijos įgyvendinimo reglamentu (ES) 2018/1937.
 
 
 
 
-5. 2008 m. gruodžio 18 d. Tarybos reglamentas (EB) Nr. 4/2009 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų pripažinimo ir vykdymo bei bendradarbiavimo išlaikymo prievolių srityje su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 10 d. Komisijos įgyvendinimo reglamentu (ES) 2018/1937.
+5. 2011 m. birželio 9 d. Tarybos sprendimas Nr. 2011/432/ES dėl 2007 m. lapkričio 23 d. Hagos konvencijos dėl tarptautinio vaikų ir kitokių šeimos išlaikymo išmokų išieškojimo patvirtinimo Europos Sąjungos vardu su pakeitimais, padarytais 2014 m. balandžio 9 d. Tarybos sprendimu 2014/218/ES.
 
 
 
 
-6. 2011 m. birželio 9 d. Tarybos sprendimas Nr. 2011/432/ES dėl 2007 m. lapkričio 23 d. Hagos konvencijos dėl tarptautinio vaikų ir kitokių šeimos išlaikymo išmokų išieškojimo patvirtinimo Europos Sąjungos vardu su pakeitimais, padarytais 2014 m. balandžio 9 d. Tarybos sprendimu 2014/218/ES.
+6. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo.
 
 
 
 
-7. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 650/2012 dėl jurisdikcijos, taikytinos teisės, teismo sprendimų paveldėjimo klausimais pripažinimo ir vykdymo bei autentiškų dokumentų paveldėjimo klausimais priėmimo ir vykdymo bei dėl Europos paveldėjimo pažymėjimo sukūrimo.
+7. 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (nauja redakcija) su paskutiniais pakeitimais, padarytais 2014 m. lapkričio 26 d. Komisijos deleguotuoju reglamentu (ES) 2015/281.
 
 
 
 
-8. 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (nauja redakcija) su paskutiniais pakeitimais, padarytais 2014 m. lapkričio 26 d. Komisijos deleguotuoju reglamentu (ES) 2015/281.
+8. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 606/2013 dėl apsaugos priemonių tarpusavio pripažinimo civilinėse bylose.
 
 
 
 
-9. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 606/2013 dėl apsaugos priemonių tarpusavio pripažinimo civilinėse bylose.
+9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 655/2014, kuriuo nustatoma europinio sąskaitos blokavimo įsakymo procedūra, siekiant palengvinti tarpvalstybinį skolų išieškojimą civilinėse ir komercinėse bylose.
 
 
 
 
-10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 655/2014, kuriuo nustatoma europinio sąskaitos blokavimo įsakymo procedūra, siekiant palengvinti tarpvalstybinį skolų išieškojimą civilinėse ir komercinėse bylose.
+10. 2019 m. birželio 25 d. Tarybos reglamentas (ES) 2019/1111 dėl jurisdikcijos ir sprendimų, susijusių su santuoka ir tėvų pareigomis bei tarptautiniu vaikų grobimu, pripažinimo ir vykdymo.
 
 
 
@@ -1546,3 +1612,6 @@ Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
 Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 trečiojo, penktojo, šeštojo skirsnių ir priedo pakeitimo įstatymas
+ 
+ 
+part_c68c1e76e3bd44a081358a048ecf3c40_end
