@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-07-26 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -592,7 +592,7 @@ Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
@@ -603,6 +603,7 @@ Nr. XIII-3172, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15504
 Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354
 Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
+Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
  
 
 
@@ -3550,14 +3551,20 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 101 straipsnis. Komandiruotų darbuotojų darbo sąlygų pažeidimas 
 
 
-1. Informacijos apie atsiųstą laikinai dirbti į Lietuvos Respubliką užsienietį nepateikimas nustatyta tvarka Valstybinei darbo inspekcijai
-užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo trijų šimtų šešiasdešimt iki šešių šimtų šešiasdešimt eurų.
+1. Informacijos apie atsiųstą laikinai dirbti į Lietuvos Respubliką užsienietį nepateikimas nustatyta tvarka Lietuvos Respublikos valstybinei darbo inspekcijai prie Socialinės apsaugos ir darbo ministerijos
+užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims, taip pat įmonių Lietuvos Respublikoje, priimančių užsieniečius laikinai dirbti, vadovams ar jų įgaliotiems asmenims nuo trijų šimtų šešiasdešimt iki šešių šimtų šešiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo septynių šimtų dvidešimt iki vieno tūkstančio trijų šimtų dvidešimt eurų.
+užtraukia baudą nuo šešių šimtų šešiasdešimt iki vieno tūkstančio trijų šimtų dvidešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
 
 
 
@@ -3570,6 +3577,24 @@ užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo keturių šim
 
 4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo devynių šimtų iki vieno tūkstančio šešių šimtų aštuoniasdešimt eurų. 
+
+
+
+
+5. Į Lietuvos Respublikos teritoriją komandiruojamo vairuotojo komandiravimo deklaracijos ar dokumentų apie įvykusią vairuotojo komandiruotę nepateikimas per nustatytą terminą į Vidaus rinkos informacinę sistemą, nurodytą 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1024/2012 dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą, kuriuo panaikinamas Komisijos sprendimas 2008/49/EB (IMI reglamentas),
+užtraukia baudą darbdaviams ar kitiems atsakingiems asmenims nuo trijų šimtų šešiasdešimt iki šešių šimtų šešiasdešimt eurų.
+Papildyta straipsnio dalimi:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
+
+
+
+
+6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo šešių šimtų šešiasdešimt iki vieno tūkstančio trijų šimtų dvidešimt eurų.
+Papildyta straipsnio dalimi:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
 
 
 Straipsnio pakeitimai:
@@ -14258,8 +14283,11 @@ Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
 
 
 
-2. Bepiločių orlaivių naudojimo taisyklių pažeidimas, išskyrus šio straipsnio 3 dalyje nurodytus pažeidimus,
+2. Bepiločių orlaivių naudojimo taisyklių, nustatytų 2019 m. gegužės 24 d. Komisijos įgyvendinimo reglamente (ES) 2019/947 dėl bepiločių orlaivių naudojimo taisyklių ir tvarkos, pažeidimas, išskyrus šio straipsnio 3 dalyje nurodytus pažeidimus,
 užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
 
 
 
@@ -16175,35 +16203,73 @@ užtraukia baudą už šių objektų eksploatavimą atsakingiems asmenims nuo se
 448 straipsnis. Keleivių vežimo keleiviniu kelių transportu taisyklių ir keleivinio kelių transporto keleivių teisių pažeidimas
 
 
-1. Keleivių vežimas keleivinėmis kelių transporto priemonėmis, kurių apdaila, techninė ar sanitarinė būklė neatitinka teisės aktuose nustatytų reikalavimų,
-užtraukia baudą vairuotojams nuo keturiolikos iki trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturiasdešimt iki devyniasdešimt eurų.
+1. Keleivių vežimas reguliariaisiais reisais nesilaikant tvarkaraščio
+užtraukia baudą vairuotojams nuo penkiasdešimt iki vieno šimto eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, – nuo vieno šimto iki dviejų šimtų eurų.
 
 
 
 
-2. Keleivių vežimas keleivinėmis kelių transporto priemonėmis neturint keleivinį kelių transportą reglamentuojančiuose teisės aktuose nurodytų dokumentų arba turint negaliojančius dokumentus
-užtraukia baudą vairuotojams nuo keturiolikos iki trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturiasdešimt iki devyniasdešimt eurų. 
+2. Keleivių vežimas reguliariaisiais reisais nukrypstant nuo nurodyto maršruto
+užtraukia baudą vairuotojams nuo vieno šimto iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, – nuo dviejų šimtų iki penkių šimtų eurų.
 
 
 
 
-3. Keleivinio kelių transporto eismo tvarkaraščių nesilaikymas, nukrypimas nuo nurodytos maršrutų trasos
-užtraukia baudą vairuotojams nuo keturiolikos iki trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų.
+3. Keleivių vežimas pažeidžiant keleivių vežimo vežėjo sąskaita reikalavimus
+užtraukia baudą vairuotojams nuo vieno šimto iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, – nuo penkių šimtų iki septynių šimtų eurų.
 
 
 
 
-4. Keleivinio kelių transporto keleivių teisių pažeidimas 
-užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
+4. Keleivių vežimas specialiais reisais nepateikus specialios keleivių grupės vežimo sutarties ar vežėjo ir vežimo paslaugos užsakovo suderinto eismo tvarkaraščio
+užtraukia baudą vairuotojams nuo dviejų šimtų iki keturių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, – nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 
 
 
-5. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+5. Keleivių vežimas užsakomaisiais reisais nepateikus keleivių vežimo sutarties arba jeigu jos turinys neatitinka nustatytų reikalavimų, arba nepateikus keleivių vežimo lapo, teikiamos turizmo paslaugos aprašymo ar turizmo paslaugos apmokėjimą įrodančio dokumento
+užtraukia baudą vairuotojams nuo dviejų šimtų iki keturių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, – nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+
+
+
+6. Keleivių vežimas reguliariaisiais reisais neturint galiojančio leidimo
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, – nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+
+
+
+7. Keleivių vežimas reguliariaisiais reisais neturint galiojančios licencijos (licencijos kopijos)
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, – nuo dviejų tūkstančių iki trijų tūkstančių eurų.
+
+
+
+
+8. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą vairuotojams nuo penkių šimtų iki septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, – nuo trijų tūkstančių iki trijų tūkstančių penkių šimtų eurų.
+
+
+
+
+9. Keleivių vežimas pažeidžiant kabotažo taisykles
+užtraukia baudą vairuotojams nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių eurų.
+
+
+
+
+10. Keleivinių kelių transporto priemonių važiavimas tarptautiniais maršrutais pažeidžiant Lietuvos Respublikos tarptautinių sutarčių sąlygas, be kelionės leidimo arba kai pateiktas kelionės leidimas neatitinka važiavimo pobūdžio, arba nėra užpildytas, arba užpildytas neteisingai 
+užtraukia baudą vairuotojams nuo dviejų tūkstančių iki trijų tūkstančių eurų.
+
+
+
+
+11. Šio straipsnio 10 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą vairuotojams nuo trijų tūkstančių iki trijų tūkstančių penkių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
-
-
 
 
 
@@ -16278,189 +16344,491 @@ Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
 
 
 
-450 straipsnis. Krovinių vežimo kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais taisyklių pažeidimas
+450 straipsnis. Krovinių vežimo kelių transporto priemonėmis taisyklių pažeidimas
 
 
-1. Krovinių vežimas kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais neturint krovininį kelių transportą reglamentuojančiuose teisės aktuose nurodytų dokumentų arba turint ne pagal nustatytus reikalavimus užpildytus dokumentus, kai nėra šio kodekso 214 straipsnyje numatytų administracinių nusižengimų požymių,
-užtraukia baudą vairuotojams nuo dešimt iki keturiolikos eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dvidešimt iki keturiasdešimt eurų.
-
-
-
-
-2. Krovinių vežimas kelių transporto priemonėmis tarptautiniais maršrutais be kelionės leidimo, su neatitinkančiu važiavimo pobūdžio ar neužpildytu leidimu
-užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+1. Krovinių vežimas turint neužpildytą krovinio vežimo dokumentą ar krovinio vežimo dokumentą, kuriame nėra nurodytos visos privalomos informacijos, kai nėra šio kodekso 214 straipsnyje numatytų administracinių nusižengimų požymių,
+užtraukia baudą vairuotojams nuo penkiasdešimt iki vieno šimto eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių vežimo veiklai, – nuo vieno šimto iki dviejų šimtų eurų.
 
 
 
 
-3. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą vairuotojams nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+2. Krovinių vežimas neturint krovinio vežimo dokumento arba pateikus faktinių krovinio vežimo aplinkybių neatitinkantį krovinio vežimo dokumentą, kai nėra šio kodekso 214 straipsnyje numatytų administracinių nusižengimų požymių,
+užtraukia baudą vairuotojams nuo vieno šimto iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių vežimo veiklai, – nuo penkių šimtų iki septynių šimtų eurų.
+
+
+
+
+3. Krovinių vežimas pažeidžiant krovinių vežimo savo sąskaita reikalavimus
+užtraukia baudą vairuotojams nuo vieno šimto iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių vežimo veiklai, – nuo penkių šimtų iki septynių šimtų eurų.
+
+
+
+
+4. Kelių transporto priemonių vairavimas, kai vairuotojai neturi galiojančio vairuotojo liudijimo,
+užtraukia baudą vairuotojams nuo dviejų šimtų iki keturių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+
+
+
+5. Krovinių vežimas kelių transporto priemonėmis, kai vairuotojai neturi komandiravimo deklaracijos,
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių vežimo veiklai, – nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+
+
+
+6. Krovinių vežimas kelių transporto priemone neturint galiojančios licencijos (licencijos kopijos)
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių vežimo veiklai, – nuo dviejų tūkstančių iki trijų tūkstančių eurų.
+
+
+
+
+7. Šio straipsnio 6 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą vairuotojams nuo penkių šimtų iki septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių vežimo veiklai, – nuo trijų tūkstančių iki trijų tūkstančių penkių šimtų eurų. 
+
+
+
+
+8. Krovinių pateikimas vežti ir (ar) pakrovimas neįsitikinus, kad vežėjas turi licenciją vežti krovinius, 
+užtraukia baudą vežti krovinius pateikusiems siuntėjams arba krovinių krovimo į transporto priemones (ant transporto priemonių) darbus atlikusių juridinių asmenų vadovams ar kitiems jų paskirtiems atsakingiems asmenims nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+
+
+
+
+9. Krovinių pateikimas vežti ir (ar) pakrovimas neįsitikinus, kad užsienio šalies vežėjo kelių transporto priemonės vairuotojas turi važiavimo pobūdį atitinkantį kelionės leidimą ir jis yra teisingai užpildytas,
+užtraukia baudą siuntėjams arba krovinių krovimo į kelių transporto priemones (ant transporto priemonių) darbus atlikusių juridinių asmenų vadovams ar kitiems jų paskirtiems atsakingiems asmenims nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+
+
+
+
+10. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą siuntėjų arba krovinių krovimo į kelių transporto priemones (ant kelių transporto priemonių) darbus atlikusių juridinių asmenų vadovams ar kitiems jų paskirtiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
+11. Krovinių pateikimas vežti ar pakrovimas neįsitikinus, kad komandiruotas į Lietuvos Respublikos teritoriją užsienio šalies vairuotojas turi komandiravimo deklaracijos kopiją,
+užtraukia baudą siuntėjams ar ekspeditoriams arba krovinių krovimo į kelių transporto priemones (ant kelių transporto priemonių) darbus atlikusių juridinių asmenų vadovams ar kitiems jų paskirtiems atsakingiems asmenims nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+
+
+
+
+12. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą siuntėjams ar ekspeditoriams arba krovinių krovimo į kelių transporto priemones (ant kelių transporto priemonių) darbus atlikusių juridinių asmenų vadovams ar kitiems jų paskirtiems atsakingiems asmenims nuo devynių šimtų iki vieno tūkstančio šešių šimtų eurų.
+
+
+
+
+13. Įvairiarūšio vežimo operacijų metu krovinių pateikimas vežti neįteikiant vežėjams vežamo konteinerio arba nuimamojo kėbulo masės deklaracijos
+užtraukia baudą ekspeditoriams nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+
+
+
+
+14. Kelių transporto priemonių negrąžinimas per nustatytą terminą į vežėjo registracijos šalį
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių vežimo veiklai, nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+
+
+
+
+15. Kelių transporto priemonių vairuotojų grįžimo į vežėjo registracijos šalį ar į savo gyvenamąją vietą neužtikrinimas
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+
+
+
+
+16. Krovinių vežimas pažeidžiant kabotažo taisykles
+užtraukia baudą vairuotojams nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių eurų.
+
+
+
+
+17. Užsienio šalies vežėjo kelių transporto priemonių važiavimas tarptautiniais maršrutais pažeidžiant Lietuvos Respublikos tarptautinių sutarčių sąlygas, be kelionės leidimo arba kai pateiktas kelionės leidimas neatitinka važiavimo pobūdžio, arba nėra užpildytas, arba užpildytas neteisingai, arba kai kelionės leidimo duomenys (leidimo numeris ir jo rūšis) neįvesti į Valstybinės reikšmės kelių eismo informacinę sistemą,
+užtraukia baudą vairuotojams nuo dviejų tūkstančių iki trijų tūkstančių eurų.
+
+
+
+
+18. Šio straipsnio 17 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą vairuotojams nuo trijų tūkstančių iki trijų tūkstančių penkių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
 
 
+451 straipsnis. Kelių transporto priemonių vairuotojams nustatytos vairavimo trukmės viršijimas
 
 
-451 straipsnis. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas
-
-
-1. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas nuo penkiolikos minučių iki trisdešimt minučių 
-užtraukia baudą vairuotojams nuo dešimt iki keturiolikos eurų.
-
-
-
-
-2. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip trisdešimt minučių, bet ne daugiau kaip viena valanda
-užtraukia baudą vairuotojams nuo trisdešimt iki penkiasdešimt eurų.
+1. Nustatytos kasdienės arba pailgintos kasdienės vairavimo trukmės viršijimas mažiau kaip viena valanda
+užtraukia įspėjimą arba baudą vairuotojams nuo penkiasdešimt iki septyniasdešimt eurų.
 
 
 
 
-3. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip viena valanda, bet ne daugiau kaip dviem valandomis
-užtraukia baudą vairuotojams nuo penkiasdešimt iki devyniasdešimt eurų.
+2. Nustatytos kasdienės arba pailgintos kasdienės vairavimo trukmės viršijimas daugiau kaip viena valanda, bet mažiau kaip dviem valandomis,
+užtraukia baudą vairuotojams nuo septyniasdešimt iki vieno šimto eurų.
 
 
 
 
-4. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip dviem valandomis, bet ne daugiau kaip trimis valandomis
-užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+3. Nustatytos kasdienės vairavimo trukmės viršijimas daugiau kaip dviem valandomis, bet ne daugiau kaip keturiomis valandomis trisdešimt minučių, arba pailgintos kasdienės vairavimo trukmės viršijimas daugiau kaip dviem valandomis, bet mažiau kaip penkiomis valandomis,
+užtraukia baudą vairuotojams nuo vieno šimto iki dviejų šimtų eurų.
 
 
 
 
-5. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip trimis valandomis, bet ne daugiau kaip keturiomis valandomis
-užtraukia baudą vairuotojams nuo vieno šimto keturiasdešimt iki dviejų šimtų dvidešimt eurų.
+4. Nustatytos kasdienės vairavimo trukmės viršijimas daugiau kaip keturiomis valandomis trisdešimt minučių arba pailgintos kasdienės vairavimo trukmės viršijimas daugiau kaip penkiomis valandomis, arba kai poilsio ar pertraukos trukmė per dvidešimt keturias valandas yra mažesnė kaip keturios valandos trisdešimt minučių,
+užtraukia baudą vairuotojams nuo dviejų šimtų iki trijų šimtų penkiasdešimt eurų.
 
 
 
 
-6. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip keturiomis valandomis 
-užtraukia baudą vairuotojams nuo dviejų šimtų dvidešimt iki trijų šimtų eurų.
+5. Nustatytos vairavimo trukmės per vieną savaitę viršijimas mažiau kaip keturiomis valandomis arba per dvi iš eilės savaites – mažiau kaip dešimt valandų
+užtraukia įspėjimą arba baudą vairuotojams nuo penkiasdešimt iki septyniasdešimt eurų.
+
+
+
+
+6. Nustatytos vairavimo trukmės per vieną savaitę viršijimas daugiau kaip keturiomis valandomis, bet ne daugiau kaip devyniomis valandomis, arba per dvi savaites iš eilės – daugiau kaip dešimt valandų, bet mažiau kaip penkiolika valandų, 
+užtraukia baudą vairuotojams nuo septyniasdešimt iki vieno šimto penkiasdešimt eurų.
+
+
+
+
+7. Nustatytos vairavimo trukmės per vieną savaitę viršijimas daugiau kaip devyniomis valandomis, bet mažiau kaip keturiolika valandų, arba per dvi savaites iš eilės – daugiau kaip penkiolika valandų, bet mažiau kaip dvidešimt dviem valandomis trisdešimt minučių, 
+užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki dviejų šimtų penkiasdešimt eurų.
+
+
+
+
+8. Nustatytos vairavimo trukmės per vieną savaitę viršijimas daugiau kaip keturiolika valandų arba per dvi savaites iš eilės – dvidešimt dviem valandomis trisdešimt minučių ir daugiau 
+užtraukia baudą vairuotojams nuo dviejų šimtų penkiasdešimt iki trijų šimtų penkiasdešimt eurų.
+
+
+
+
+9. Nustatytos nepertraukiamo vairavimo trukmės viršijimas mažiau kaip trisdešimt minučių 
+užtraukia įspėjimą arba baudą vairuotojams nuo penkiasdešimt iki septyniasdešimt eurų.
+
+
+
+
+10. Nustatytos nepertraukiamo vairavimo trukmės viršijimas daugiau kaip trisdešimt minučių, bet mažiau kaip viena valanda trisdešimt minučių,
+užtraukia baudą vairuotojams nuo septyniasdešimt iki vieno šimto dvidešimt eurų.
+
+
+
+
+11. Nustatytos nepertraukiamo vairavimo trukmės viršijimas daugiau kaip viena valanda trisdešimt minučių
+užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+
+
+
+12. Nustatytos nepertraukiamo vairavimo trukmės nuo dvidešimt antros valandos iki šeštos valandos, kai vairuojama be porininko, viršijimas mažiau kaip viena valanda trisdešimt minučių
+užtraukia baudą vairuotojams nuo septyniasdešimt iki vieno šimto dvidešimt eurų.
+
+
+
+
+13. Nustatytos nepertraukiamo vairavimo trukmės nuo dvidešimt antros valandos iki šeštos valandos, kai vairuojama be porininko, viršijimas daugiau kaip viena valanda trisdešimt minučių
+užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki dviejų šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
 
 
+452 straipsnis. Kelių transporto priemonių vairuotojams nustatyto kasdienio arba kassavaitinio poilsio laiko trūkumas arba netinkamas poilsio laiko suskirstymas 
 
 
-452 straipsnis. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos kasdienio arba kassavaitinio poilsio trukmės pažeidimas
-
-
-1. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos kasdienio arba kassavaitinio poilsio trukmės pažeidimas, kai trūksta ne daugiau kaip vienos valandos kasdienio arba kassavaitinio poilsio,
-užtraukia baudą vairuotojams nuo keturiolikos iki trisdešimt eurų.
-
-
-
-
-2. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos kasdienio arba kassavaitinio poilsio trukmės pažeidimas, kai trūksta daugiau kaip vienos valandos, bet ne daugiau kaip dviejų valandų kasdienio arba kassavaitinio poilsio,
-užtraukia baudą vairuotojams nuo trisdešimt iki penkiasdešimt eurų.
+1. Nustatyto kasdienio poilsio laiko trūkumas arba sutrumpinto kasdienio poilsio laiko trūkumas, kai trūksta ne daugiau kaip vienos valandos, 
+užtraukia įspėjimą arba baudą vairuotojams nuo penkiasdešimt iki septyniasdešimt eurų.
 
 
 
 
-3. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos kasdienio arba kassavaitinio poilsio trukmės pažeidimas, kai trūksta daugiau kaip dviejų valandų, bet ne daugiau kaip keturių valandų kasdienio arba kassavaitinio poilsio,
-užtraukia baudą vairuotojams nuo penkiasdešimt iki devyniasdešimt eurų.
+2. Nustatyto kasdienio poilsio laiko trūkumas, kai trūksta daugiau kaip vienos valandos, bet ne daugiau kaip dviejų valandų trisdešimt minučių, arba sutrumpinto kasdienio poilsio laiko trūkumas, kai trūksta daugiau kaip vienos valandos, bet ne daugiau kaip dviejų valandų, 
+užtraukia baudą vairuotojams nuo septyniasdešimt iki vieno šimto dvidešimt eurų.
 
 
 
 
-4. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos kasdienio arba kassavaitinio poilsio trukmės pažeidimas, kai trūksta daugiau kaip keturių valandų, bet ne daugiau kaip šešių valandų kasdienio arba kassavaitinio poilsio,
-užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki dviejų šimtų eurų.
+3. Nustatyto kasdienio poilsio laiko trūkumas, kai trūksta daugiau kaip dviejų valandų trisdešimt minučių, arba sutrumpinto kasdienio poilsio laiko trūkumas, kai trūksta daugiau kaip dviejų valandų,
+užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
-5. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytos kasdienio arba kassavaitinio poilsio trukmės pažeidimas, kai trūksta daugiau kaip šešių valandų kasdienio arba kassavaitinio poilsio,
-užtraukia baudą vairuotojams nuo dviejų šimtų iki trijų šimtų eurų.
+4. Nustatyto kasdienio poilsio laiko, suskirstyto nustatyta tvarka, trūkumas, kai trūksta ne daugiau kaip vienos valandos,
+užtraukia įspėjimą arba baudą vairuotojams nuo septyniasdešimt iki devyniasdešimt eurų.
 
 
 
 
-6. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatyto kasdienio arba kassavaitinio poilsio laiko suskirstymas į laikotarpius pažeidžiant teisės aktuose nustatytus reikalavimus 
-užtraukia baudą vairuotojams nuo trisdešimt iki šešiasdešimt eurų.
+5. Nustatyto kasdienio poilsio laiko, suskirstyto nustatyta tvarka, trūkumas, kai trūksta daugiau kaip vienos valandos, bet ne daugiau kaip dviejų valandų,
+užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto dvidešimt eurų.
+
+
+
+
+6. Nustatyto kasdienio poilsio laiko, suskirstyto nustatyta tvarka, trūkumas, kai trūksta daugiau kaip dviejų valandų,  
+užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki dviejų šimtų eurų.
+
+
+
+
+7. Nustatyto kasdienio poilsio laiko dirbant su porininku trūkumas, kai trūksta ne daugiau kaip vienos valandos,
+užtraukia įspėjimą arba baudą vairuotojams nuo septyniasdešimt iki devyniasdešimt eurų. 
+
+
+
+
+8. Nustatyto kasdienio poilsio laiko dirbant su porininku trūkumas, kai trūksta daugiau kaip vienos valandos, bet ne daugiau kaip dviejų valandų,
+užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto dvidešimt eurų.
+
+
+
+
+9. Nustatyto kasdienio poilsio laiko dirbant su porininku trūkumas, kai trūksta daugiau kaip dviejų valandų,
+užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki dviejų šimtų eurų.
+
+
+
+
+10. Nustatyto kassavaitinio poilsio laiko trūkumas, kai trūksta ne daugiau kaip trijų valandų, arba sutrumpinto kassavaitinio poilsio laiko trūkumas, kai trūksta ne daugiau kaip dviejų valandų,
+užtraukia įspėjimą arba baudą vairuotojams nuo septyniasdešimt iki devyniasdešimt eurų.
+
+
+
+
+11. Nustatyto kassavaitinio poilsio laiko trūkumas, kai trūksta daugiau kaip trijų valandų, bet ne daugiau kaip devynių valandų, arba sutrumpinto kassavaitinio poilsio laiko trūkumas, kai trūksta daugiau kaip dviejų valandų, bet ne daugiau kaip keturių valandų,
+užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto dvidešimt eurų.
+
+
+
+
+12. Nustatyto kassavaitinio poilsio laiko trūkumas, kai trūksta daugiau kaip devynių valandų, arba sutrumpinto kassavaitinio poilsio laiko trūkumas, kai trūksta daugiau kaip keturių valandų,
+užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki dviejų šimtų eurų.
+
+
+
+
+13. Nustatytų šešių iš eilės dvidešimt keturių valandų poilsio laikotarpių viršijimas mažiau kaip trimis valandomis po ankstesnio kassavaitinio poilsio laikotarpio 
+užtraukia įspėjimą arba baudą vairuotojams nuo septyniasdešimt iki devyniasdešimt eurų.
+
+
+
+
+14. Nustatytų šešių iš eilės dvidešimt keturių valandų poilsio laikotarpių viršijimas daugiau kaip trimis valandomis, bet mažiau kaip dvylika valandų, po ankstesnio kassavaitinio poilsio laikotarpio
+užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto dvidešimt eurų.
+
+
+
+
+15. Nustatytų šešių iš eilės dvidešimt keturių valandų poilsio laikotarpių viršijimas dvylika valandų ir daugiau po ankstesnio kassavaitinio poilsio laikotarpio
+užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki dviejų šimtų eurų.
+
+
+
+
+16. Nustatytų dvylikos iš eilės dvidešimt keturių valandų poilsio laikotarpių viršijimas mažiau kaip trimis valandomis po ankstesnio kassavaitinio poilsio laikotarpio 
+užtraukia įspėjimą arba baudą vairuotojams nuo septyniasdešimt iki devyniasdešimt eurų. 
+
+
+
+
+17. Nustatytų dvylikos iš eilės dvidešimt keturių valandų poilsio laikotarpių viršijimas daugiau kaip trimis valandomis, bet mažiau kaip dvylika valandų, po ankstesnio kassavaitinio poilsio laikotarpio
+užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto dvidešimt eurų.
+
+
+
+
+18. Nustatytų dvylikos iš eilės dvidešimt keturių valandų poilsio laikotarpių viršijimas dvylika valandų ir daugiau po ankstesnio kassavaitinio poilsio laikotarpio
+užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki dviejų šimtų eurų.
+
+
+
+
+19. Po dvylikos iš eilės dvidešimt keturių valandų poilsio laikotarpių nustatyto kassavaitinio poilsio laiko trūkumas, kai trūksta daugiau kaip dviejų valandų, bet mažiau kaip keturių valandų,  
+užtraukia baudą vairuotojams nuo vieno šimto iki vieno šimto penkiasdešimt eurų. 
+
+
+
+
+20. Po dvylikos iš eilės dvidešimt keturių valandų poilsio laikotarpių nustatyto kassavaitinio poilsio laiko trūkumas, kai trūksta keturių valandų ir daugiau,
+užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+
+
+
+21. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1054, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 561/2006, kiek tai susiję su būtiniausiais reikalavimais dėl maksimalios kasdienio bei kassavaitinio vairavimo trukmės, minimalių pertraukų ir kasdienio bei kassavaitinio poilsio laikotarpių, ir Reglamentas (ES) Nr. 165/2014, kiek tai susiję su vietos nustatymu tachografais, nustatytų reikalavimų dėl kelių transporto priemonių vairuotojų normalaus kassavaitinio poilsio laiko ir bet kokio ilgiau kaip keturiasdešimt penkias valandas trunkančio kassavaitinio poilsio laiko pažeidimas
+užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
 
 
+453 straipsnis. Mobiliųjų kelių transporto darbuotojų darbo laiko ir jo apskaitos pažeidimai
 
 
-453 straipsnis. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatyto vairavimo laiko viršijimas
-
-
-1. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatyto vairavimo laiko per vieną savaitę arba paeiliui einančias dvi savaites viršijimas ne daugiau kaip dviem valandomis
-užtraukia baudą vairuotojams nuo keturiolikos iki trisdešimt eurų.
-
-
-
-
-2. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatyto vairavimo laiko per vieną savaitę arba paeiliui einančias dvi savaites viršijimas daugiau kaip dviem valandomis, bet ne daugiau kaip keturiomis valandomis
-užtraukia baudą vairuotojams nuo trisdešimt iki penkiasdešimt eurų.
+1. Nustatyto nepertraukiamo darbo laiko viršijimas mažiau kaip trisdešimt minučių
+užtraukia įspėjimą arba baudą vairuotojams nuo penkiasdešimt iki septyniasdešimt eurų.
 
 
 
 
-3. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatyto vairavimo laiko per vieną savaitę arba paeiliui einančias dvi savaites viršijimas daugiau kaip keturiomis valandomis, bet ne daugiau kaip aštuoniomis valandomis
-užtraukia baudą vairuotojams nuo penkiasdešimt iki devyniasdešimt eurų.
+2. Nustatyto nepertraukiamo darbo laiko viršijimas daugiau kaip trisdešimt minučių, bet mažiau kaip viena valanda trisdešimt minučių,
+užtraukia baudą vairuotojams nuo septyniasdešimt iki devyniasdešimt eurų.
 
 
 
 
-4. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatyto vairavimo laiko per vieną savaitę arba paeiliui einančias dvi savaites viršijimas daugiau kaip aštuoniomis valandomis
-užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+3. Nustatyto nepertraukiamo darbo laiko viršijimas viena valanda trisdešimt minučių ir daugiau
+užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto penkiasdešimt eurų.
+
+
+
+
+4. Nustatyto nepertraukiamo darbo laiko nakties metu viršijimas mažiau kaip viena valanda trisdešimt minučių 
+užtraukia įspėjimą arba baudą vairuotojams nuo septyniasdešimt iki devyniasdešimt eurų.
+
+
+
+
+5. Nustatyto nepertraukiamo darbo laiko nakties metu viršijimas viena valanda trisdešimt minučių ir daugiau
+užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto penkiasdešimt eurų.
+
+
+
+
+6. Vidutinio arba maksimalaus savaitės darbo laiko viršijimas mažiau kaip keturiomis valandomis
+užtraukia įspėjimą arba baudą vairuotojams nuo trisdešimt iki septyniasdešimt eurų.
+
+
+
+
+7. Vidutinio arba maksimalaus savaitės darbo laiko viršijimas daugiau kaip keturiomis valandomis, bet mažiau kaip devyniomis valandomis, 
+užtraukia baudą vairuotojams nuo septyniasdešimt iki vieno šimto penkiasdešimt eurų.
+
+
+
+
+8. Vidutinio arba maksimalaus savaitės darbo laiko viršijimas daugiau kaip devyniomis valandomis, bet mažiau kaip keturiolika valandų,
+užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki dviejų šimtų penkiasdešimt eurų.
+
+
+
+
+9. Vidutinio arba maksimalaus savaitės darbo laiko viršijimas keturiolika valandų ir daugiau 
+užtraukia baudą vairuotojams nuo dviejų šimtų penkiasdešimt iki trijų šimtų penkiasdešimt eurų.
+
+
+
+
+10. Keleivių vežimas reguliariaisiais reisais kelių transporto priemonėmis, kuriose neprivalo būti įrengti tachografai, naudojant vairuotojų darbo (pamainų) grafikus ir eismo tvarkaraščius, kuriuose nenurodyta visa privaloma informacija,
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+
+
+11. Keleivių vežimas reguliariaisiais reisais kelių transporto priemonėmis, kuriose neprivalo būti įrengti tachografai, neturint vairuotojo darbo (pamainų) grafikų ir eismo tvarkaraščių
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti keleivių vežimo veiklai, nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų. 
+
+
+
+
+12. Šiame straipsnyje vartojama sąvoka „mobilieji kelių transporto darbuotojai“ suprantama taip, kaip ji apibrėžta 2002 m. kovo 11 d. Europos Parlamento ir Tarybos direktyvoje 2002/15/EB dėl asmenų, kurie verčiasi mobiliąja kelių transporto veikla, darbo laiko organizavimo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
 
 
+454 straipsnis. Vairuotojo kortelių ir kelių transporto priemonėse sumontuotų tachografų naudojimo pažeidimai
 
 
-454 straipsnis. Keleivių ar krovinių vežimas kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais, kai tachografas neįrengtas, naudojant neveikiantį ar reikalavimų neatitinkantį tachografą, šio prietaiso rodmenų ir registracijos lapų arba vairuotojo kortelės netinkamas naudojimas ir klastojimas, kitų vairavimo ir poilsio režimo reikalavimų pažeidimas
-
-
-1. Keleivių ar krovinių vežimas kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais naudojant reikalavimų neatitinkančius tachografo registracijos lapus ir (ar) vairuotojo kortelę arba pažeidžiant jų naudojimo tvarką
-užtraukia baudą vairuotojams nuo keturiasdešimt iki šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo aštuoniasdešimt iki vieno šimto šešiasdešimt eurų.
-
-
-
-
-2. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) privalomo tachografo registracijos lapo naudojimas ilgiau kaip dvidešimt keturias valandas, valstybės, kurioje pradėjo ar baigė darbą, simbolio į vairuotojo kortelę neįrašymas
-užtraukia baudą vairuotojams nuo šešiasdešimt iki vieno šimto eurų.
+1. Netinkamų registracijos lapų naudojimas arba vairuotojo kortelės įdėjimas į kitai kortelei skirtą angą (kai dirbama su porininku)
+užtraukia baudą vairuotojams nuo dviejų šimtų iki trijų šimtų eurų. 
 
 
 
 
-3. Keleivių ar krovinių vežimas kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais naudojant neįrengtą, neveikiantį, per nustatytą laikotarpį nesuremontuotą ar reikalavimų neatitinkantį tachografą
-užtraukia baudą vairuotojams nuo vieno šimto šešiasdešimt iki trijų šimtų penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo vieno šimto septyniasdešimt iki devynių šimtų aštuoniasdešimt eurų.
+2. Daugiau kaip vienos vairuotojo kortelės turėjimas ir (ar) naudojimas
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų.
 
 
 
 
-4. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) privalomų tachografo registracijos lapų ir (ar) duomenų iš vairuotojo kortelės ar jų dalies už teisės aktuose nustatytą laikotarpį nepateikimas, neužpildytų ar ne pagal reikalavimus užpildytų tachografo registracijos lapų pateikimas ir (ar) privalomų ranka daryti įrašų ar vairuotojo kortelės nepateikimas, ir (ar) privalomų vairuotojo veiklos laikotarpių neįrašymas į vairuotojo kortelę ar vairavimas nenaudojant vairuotojo kortelės
-užtraukia baudą vairuotojams nuo vieno šimto šešiasdešimt iki trijų šimtų penkiasdešimt eurų.
+3. Netinkamas analoginių tachografų perjungimo mechanizmų naudojimas arba privalomų duomenų nefiksavimas ar ne visų privalomų duomenų fiksavimas rankiniu būdu, kai tachografas netinkamas naudoti (nefiksuoja duomenų), 
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų.
 
 
 
 
-5. Keleivių ar krovinių vežimas kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais naudojant tachografą, kurio viena iš funkcijų specialiai atjungta arba kuris pritaikytas vairavimo ir poilsio rodmenims ir (ar) duomenims klastoti, arba naudojant įtakos tachografo veikimui turinčius prietaisus ar įrenginius
-užtraukia baudą vairuotojams nuo trijų šimtų penkiasdešimt iki penkių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo aštuonių šimtų šešiasdešimt iki vieno tūkstančio šešių šimtų septyniasdešimt eurų.
+4. Netinkamas tachografo registracijos lapų ar vairuotojo kortelių naudojimas arba suteptų ar apgadintų tachografo registracijos lapų naudojimas ar vairuotojo kortelių naudojimas, kai juose esantys duomenys yra neįskaitomi,
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų.
 
 
 
 
-6. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių tachografo registracijos lapų, iš skaitmeninio tachografo ir (ar) vairuotojo kortelės perkeltų duomenų ir (ar) spausdintinių rodmenų klastojimas, vairavimas naudojant ne savo vairuotojo kortelę ar tachografo registracijos lapą, vairuotojo veiklos laikotarpiams patvirtinti pagal Reglamentą (EB) Nr. 561/2006 arba Europos šalių susitarimą dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais (AETR), naudojamo blanko, kuris neatitinka realios vairuotojo veiklos ar yra neteisingai užpildytas, pateikimas
-užtraukia baudą vairuotojams nuo trijų šimtų penkiasdešimt iki penkių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo šešių šimtų keturiasdešimt iki vieno tūkstančio trijų šimtų aštuoniasdešimt eurų.
+5. Privalomų pateikti vairuotojų veiklos duomenų ar vairuotojo kortelių nepateikimas
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų.
 
 
 
 
-7. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatytų kitų, negu nurodyta šiame straipsnyje ir 451, 452, 453 straipsniuose, vairavimo ir poilsio režimo reikalavimų pažeidimai
-užtraukia baudą vairuotojams nuo dvidešimt iki keturiasdešimt eurų. 
+6. Valstybių simbolių nebuvimas pradedant ar baigiant dienos darbą arba kertant valstybių sienas
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų.
+
+
+
+
+7. Kelių transporto priemonėse įrengtų ir (ar) naudojamų tachografų, nepatikrintų tachografų dirbtuvėse (neatlikus metrologinės patikros), naudojimas arba netinkamai veikiančių (turinčių gedimų) arba remontuotų ne tachografų dirbtuvėse tachografų naudojimas, arba netinkamų tachografų naudojamas
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo aštuonių šimtų iki vieno tūkstančio šešių šimtų eurų.
+
+
+
+
+8. Tinkamo tipo tachografų neįrengimas kelių transporto priemonėse arba nenaudojimas 
+užtraukia baudą vairuotojams nuo trijų šimtų penkiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų.
+
+
+
+
+9. Vairavimas nenaudojant vairuotojo kortelės arba naudojant suklastotą, kitam asmeniui išduotą ar apgaulės būdu gautą vairuotojo kortelę
+užtraukia baudą vairuotojams nuo trijų šimtų penkiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų.
+
+
+
+
+10. Vairuotojo kortelių turėtojų pareigų nevykdymas, kai dėl to buvo padaryti šio straipsnio 9 dalyje numatyti pažeidimai,
+užtraukia baudą vairuotojo kortelės turėtojui nuo trijų šimtų penkiasdešimt iki šešių šimtų eurų. 
+
+
+
+
+11. Kelių transporto priemonėse įrengtų ir (ar) naudojamų tachografų, kurie pritaikyti tachografo fiksuojamiems ir saugomiems duomenims pakeisti (klastoti), naudojimas arba kelių transporto priemonėse įrengtos ir (ar) naudojamos įrangos, turinčios įtakos tinkamam tachografų veikimui ir (ar) galinčios pakeisti (klastoti) ar slėpti tachografų fiksuojamus ir saugomus duomenis, naudojimas, taip pat tachografo registracijos lapuose, tachografuose ir (ar) vairuotojo kortelėje esančių duomenų pakeitimas (klastojimas), tikrovės neatitinkančių duomenų įrašymas į registracijos lapus ar blankus, naudojamus vairuotojų veiklos duomenims patvirtinti,
+užtraukia baudą vairuotojams nuo trijų šimtų penkiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
@@ -16511,18 +16879,28 @@ Nr. XIV-228, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07422
 
 
 
-456 straipsnis. Keleivių ar krovinių vežimas kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais be greičio ribojimo prietaiso, su neveikiančiu ar išjungtu greičio ribojimo prietaisu
+456 straipsnis. Greičio ribojimo prietaisų (ar sistemų) įrengimo ir naudojimo pažeidimai
 
 
-Keleivių ar krovinių vežimas kelių transporto priemonėmis vidaus ir (ar) tarptautiniais maršrutais be greičio ribojimo prietaiso, su neveikiančiu ar išjungtu greičio ribojimo prietaisu
+1. Kelių transporto priemonių, kuriose greičio ribojimo prietaisai (ar sistema) įrengti ne tachografų dirbtuvėse ar ne transporto priemonės gamintojo gamykloje, eksploatavimas
+užtraukia baudą vairuotojams nuo dviejų šimtų iki keturių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo aštuonių šimtų iki vieno tūkstančio šešių šimtų eurų.
 
 
 
 
-užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+2. Kelių transporto priemonių, kuriose įrengti greičio ribojimo prietaisai (ar sistema) neatitinka keliamų reikalavimų, eksploatavimas
+užtraukia baudą vairuotojams nuo trijų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo aštuonių šimtų iki vieno tūkstančio šešių šimtų eurų.
+
+
+
+
+3. Kelių transporto priemonių, kuriose pagal konstrukciją neįrengti greičio ribojimo prietaisai (ar sistema) arba įrengti greičio ribojimo prietaisai (ar sistema) neveikia ar yra pritaikyti duomenims klastoti, arba įrengti įtaisai, kuriais galima klastoti greičio ribojimo prietaisų (ar sistemos) duomenis, eksploatavimas
+užtraukia baudą vairuotojams nuo keturių šimtų penkiasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
-
-
 
 
 
@@ -16602,10 +16980,11 @@ Nr. XIII-2243, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10371
 
 
 
-6. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 8 tonomis
-užtraukia baudą vairuotojams nuo devynių šimtų iki dviejų tūkstančių eurų ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo vieno tūkstančio vieno šimto penkiasdešimt iki trijų tūkstančių penkių šimtų eurų.
+6. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 8 tonomis arba atsisakymas ar vengimas pasverti transporto priemonę ir (ar) sąlygų patikrinti transporto priemonės (jų junginio) matmenis ir (ar) ašies (ašių) apkrovą ir (ar) masę nesudarymas
+užtraukia baudą vairuotojams nuo devynių šimtų iki dviejų tūkstančių eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo vieno tūkstančio vieno šimto penkiasdešimt iki trijų tūkstančių penkių šimtų eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2243, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10371
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
@@ -16629,8 +17008,11 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 
 
-10. Krovinių pateikimas ar pakrovimas vežti kelių transporto priemonėmis (jų junginiais), kai viršijama leidžiama ašies (ašių) apkrova ir (ar) didžiausioji leidžiamoji masė arba viršijami leidžiami kelių transporto priemonės (jų junginių) matmenys, neįsitikinus, kad gautas kelio savininko ar jo įgalioto asmens leidimas vežti tokius krovinius,
-užtraukia baudą vežti krovinius pateikusiems ir juos pakrovusiems asmenims, juridinių asmenų vadovams ar kitiems atsakingiems asmenims (siuntėjams) nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+10. Krovinių pateikimas vežti kelių transporto priemonėmis (jų junginiais), kai viršijama didžiausioji leidžiamoji ašies (ašių) apkrova ir (ar) didžiausioji leidžiamoji masė arba viršijami leidžiami kelių transporto priemonės (jų junginių) matmenys, neįsitikinus, kad gautas kelio savininko ar jo įgalioto asmens leidimas vežti tokius krovinius,
+užtraukia baudą vežti krovinius pateikusiems asmenims, juridinių asmenų vadovams ar kitiems atsakingiems asmenims (siuntėjams) nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
 
 
 Straipsnio pakeitimai:
@@ -16690,32 +17072,20 @@ užtraukia baudą atsakingiems asmenims nuo septyniasdešimt iki vieno šimto ke
 
 
 
-463 straipsnis. Transporto priemonių savininkams ar valdytojams nustatyto mokesčio už naudojimąsi keliais nesumokėjimas
+463 straipsnis. Kelių naudotojo mokesčio ar kelių rinkliavos nesumokėjimas
 
 
-1. Važiavimas mokamais valstybinės reikšmės keliais specialioms darbo funkcijoms atlikti, bet ne kroviniams vežti skirtomis kelių transporto priemonėmis nesumokėjus transporto priemonių savininkams ar valdytojams nustatyto mokesčio už naudojimąsi keliais
-užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki trijų šimtų keturiasdešimt eurų.
-
-
-
-
-2. Važiavimas mokamais valstybinės reikšmės keliais žemės ūkio veiklos subjektų N1–N3 kategorijų iki 16 tonų (įskaitytinai) bendrosios masės kelių transporto priemonėmis nesumokėjus transporto priemonių savininkams ar valdytojams nustatyto mokesčio už naudojimąsi keliais
-užtraukia baudą vairuotojams nuo vieno šimto dvidešimt iki trijų šimtų keturiasdešimt eurų.
+Važiavimas mokamais valstybinės reikšmės keliais kelių transporto priemonėmis nesumokėjus kelių naudotojo mokesčio ar kelių rinkliavos
 
 
 
 
-3. Važiavimas mokamais valstybinės reikšmės keliais M2 ir N1 kategorijų kelių transporto priemonėmis nesumokėjus transporto priemonių savininkams ar valdytojams nustatyto mokesčio už naudojimąsi keliais
-užtraukia baudą vairuotojams nuo vieno šimto septyniasdešimt iki trijų šimtų penkiasdešimt eurų.
+užtraukia baudą vairuotojams arba transporto priemonių savininkams (valdytojams) – fiziniams asmenims arba juridinių asmenų vadovams nuo septynių šimtų iki vieno tūkstančio eurų.
 
 
-
-
-4. Važiavimas mokamais valstybinės reikšmės keliais M3, N2 ir N3 kategorijų kelių transporto priemonėmis nesumokėjus transporto priemonių savininkams ar valdytojams nustatyto mokesčio už naudojimąsi keliais
-užtraukia baudą vairuotojams nuo trijų šimtų penkiasdešimt iki septynių šimtų penkiasdešimt eurų.
+Straipsnio pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
-
-
 
 
 
@@ -20398,7 +20768,7 @@ Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653
 
 
 
-40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 1411, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 5101, 515 straipsniuose numatytų administracinių nusižengimų; 
+40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 1411, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 5101, 515 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -20413,6 +20783,7 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757
 Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
@@ -20485,7 +20856,7 @@ Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 
 
 
-49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų; 
+49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
@@ -20503,6 +20874,7 @@ Nr. XIII-2127, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08307
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
@@ -20548,7 +20920,7 @@ Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
 
 
 
-55) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 256, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 7 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 481, 484, 491 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 524 straipsniuose, 526 straipsnio 3 dalyje, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų; 
+55) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 256, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 7 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 481, 484, 491 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 524 straipsniuose, 526 straipsnio 3 dalyje, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-595, 2017-07-04, paskelbta TAR 2017-07-11, i. k. 2017-11961
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
@@ -20558,6 +20930,7 @@ Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
 Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
@@ -20577,7 +20950,7 @@ Nr. XIV-297, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11768
 
 
 
-58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 961, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 3621 straipsnyje, 454 straipsnio 7 dalyje, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų; 
+58) Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 471 straipsnyje, 72 straipsnio 3 dalyje, 95, 96, 961, 97, 98, 981, 99, 100, 101, 102, 103, 104, 105, 106, 127, 150, 224 straipsniuose, 234 straipsnio 4 dalyje, 308 straipsnio 1, 2, 11, 16, 19, 20, 21, 22 dalyse, 3081 straipsnio 4, 6, 7 dalyse, 3621 straipsnyje, 453 straipsnio 10, 11 dalyse, 455, 505, 507 straipsniuose, 542 straipsnio 2, 3 dalyse numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
@@ -20588,6 +20961,7 @@ Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855
 Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487
 Nr. XIII-2870, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09208
 Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
@@ -20623,7 +20997,7 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-63) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 3701, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 4491, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
+63) Lietuvos transporto saugos administracijos – dėl šio kodekso 101 straipsnio 5, 6 dalyse, 139 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 150, 256, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 3701, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 4491, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -20638,6 +21012,7 @@ Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
 Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
 Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
@@ -20662,6 +21037,7 @@ Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556
 Nr. XIII-3219, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15755
 Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166
 Nr. XIV-860, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27755
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
  
 
 
@@ -20824,7 +21200,7 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-82) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144  straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2 dalyje, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447, 448, 449, 4491, 457, 459, 484, 4841, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 5051, 507, 516, 5171, 5172, 5173, 5174, 518, 519, 526, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų; 
+82) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168 straipsniuose, 205 straipsnio 7 dalyje, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2 dalyje, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 4491, 457, 459, 484, 4841, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 5051, 507, 516, 5171, 5172, 5173, 5174, 518, 519, 526, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-927, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21600
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
@@ -20833,6 +21209,7 @@ Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
 Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
 Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166
 Nr. XIV-691, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25118
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -20841,9 +21218,10 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 
-83) savivaldybių vykdomųjų institucijų įgaliotų įstaigų ar įmonių – dėl šio kodekso 224, 319 straipsniuose, 434 straipsnio 2 dalyje, 426 straipsnio 4 dalyje, 439, 446, 448, 449, 4491, 457, 505 straipsniuose numatytų administracinių nusižengimų; 
+83) savivaldybių vykdomųjų institucijų įgaliotų įstaigų ar įmonių – dėl šio kodekso 224, 319 straipsniuose, 434 straipsnio 2 dalyje, 426 straipsnio 4 dalyje, 439, 446 straipsniuose, 448 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 449, 4491, 457, 505 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -22040,12 +22418,18 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 611 straipsnis. Administracinio nusižengimo protokolo, administracinio nurodymo ir nutarimo surašymas tais atvejais, kai nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje
 
 
-1. Kai šio kodekso 264 straipsnio 1 ir 2 dalyse (transporto priemonių važiavimas ar stovėjimas pažeidžiant nustatytus reikalavimus), 278 straipsnio 2 dalyje, 282, 414 straipsniuose, 415 straipsnio 1 dalyje, 2 dalyje (transporto priemonių, kurios nustatyta tvarka neįregistruotos (neperregistruotos) arba be privalomosios techninės apžiūros, vairavimas), 6 ir 7 dalyse, 416, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 431 straipsnio 1 ir 2 dalyse, 432 straipsnyje, 459 straipsnio 1, 4, 5, 6 ir 7 dalyse, 463 straipsnyje numatytas administracinis nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje, administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas) surašomas ir siunčiamas transporto priemonės savininkui (valdytojui). Jei administracinį nusižengimą padarė kitas asmuo, transporto priemonės savininkas (valdytojas) turi per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo (nutarimo) išsiuntimo dienos pranešti institucijai (institucijos teritoriniam padaliniui), kurios pareigūnas nustatė administracinį nusižengimą, jos nurodytu būdu duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu valdė transporto priemonės savininkui (valdytojui) priklausančią transporto priemonę ar ja naudojosi, arba institucijai pareikalavus atvykti į instituciją (institucijos teritorinį padalinį), kurios pareigūnas nustatė administracinį nusižengimą. Transporto priemonės savininko (valdytojo) nurodytam asmeniui surašomas ir siunčiamas naujas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas), o transporto priemonės savininkui (valdytojui) surašytas administracinio nusižengimo protokolas su administraciniu nurodymu (ar tik administracinio nusižengimo protokolas) ar nutarimas pripažįstamas negaliojančiu.
+1. Kai šio kodekso 264 straipsnio 1 ir 2 dalyse (transporto priemonių važiavimas ar stovėjimas pažeidžiant nustatytus reikalavimus), 278 straipsnio 2 dalyje, 282, 414 straipsniuose, 415 straipsnio 1 dalyje, 2 dalyje (transporto priemonių, kurios nustatyta tvarka neįregistruotos (neperregistruotos) arba be privalomosios techninės apžiūros, vairavimas), 6 ir 7 dalyse, 416, 417, 418, 419 straipsniuose, 420 straipsnio 1 dalyje, 421 straipsnyje, 431 straipsnio 1 ir 2 dalyse, 432 straipsnyje, 459 straipsnio 1, 4, 5, 6 ir 7 dalyse, 463 straipsnyje numatytas administracinis nusižengimas užfiksuotas ne asmens, įtariamo administracinio nusižengimo padarymu, akivaizdoje, administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas) surašomas ir siunčiamas transporto priemonės savininkui (valdytojui), o jei transporto priemonės savininkas (valdytojas) juridinis asmuo, – dėl šio kodekso 463 straipsnyje numatyto administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) surašomas ir siunčiamas juridinio asmens vadovui. Jei administracinį nusižengimą padarė kitas asmuo, transporto priemonės savininkas (valdytojas) turi per trisdešimt kalendorinių dienų nuo administracinio nusižengimo protokolo (nutarimo) išsiuntimo dienos pranešti institucijai (institucijos teritoriniam padaliniui), kurios pareigūnas nustatė administracinį nusižengimą, jos nurodytu būdu duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu valdė transporto priemonės savininkui (valdytojui) priklausančią transporto priemonę ar ja naudojosi, arba institucijai pareikalavus atvykti į instituciją (institucijos teritorinį padalinį), kurios pareigūnas nustatė administracinį nusižengimą. Transporto priemonės savininko (valdytojo) nurodytam asmeniui surašomas ir siunčiamas naujas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas), o transporto priemonės savininkui (valdytojui) surašytas administracinio nusižengimo protokolas su administraciniu nurodymu (ar tik administracinio nusižengimo protokolas) pripažįstamas negaliojančiu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
 
 
 
 
-2. Kai transporto priemonės savininkas (valdytojas) yra juridinis asmuo, apie šio straipsnio 1 dalyje nurodytą administracinį nusižengimą pranešama šio juridinio asmens vadovui. Juridinio asmens vadovas ar kitas atsakingas asmuo per tris darbo dienas nuo pranešimo apie administracinį nusižengimą gavimo dienos privalo pranešti duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o dėl šio kodekso 415 straipsnio 1 dalyje, 431 straipsnio 1 ir 2 dalyse ar 459 straipsnio 1, 4, 5, 6 ir 7 dalyse nurodyto administracinio nusižengimo – taip pat duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio nusižengimo padarymo metu buvo atsakingas už transporto priemonės, kuria padarytas nusižengimas, valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymą arba už transporto priemonės savininkui (valdytojui) Saugaus eismo automobilių keliais įstatyme nustatytų reikalavimų vykdymą, ar atitinkamai apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuriam administracinio nusižengimo padarymo metu buvo pavesta vadovauti krovinių ar keleivių vežimo veiklai. Šiam asmeniui surašomas ir siunčiamas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas). Juridinio asmens, kuris perdavė transporto priemonę naudoti pagal lizingo (finansinės nuomos), išperkamosios nuomos ar kitą sutartį (toliau – lizingo sutartis), vadovas ar kitas atsakingas asmuo privalo pranešti duomenis apie fizinį asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą) arba juridinį asmenį (juridinio asmens pavadinimą, kodą, buveinės adresą), kuriam pagal lizingo sutartį transporto priemonė perduota valdyti.
+2. Kai transporto priemonės savininkas (valdytojas) yra juridinis asmuo, apie šio straipsnio 1 dalyje nurodytą administracinį nusižengimą, išskyrus dėl šio kodekso 463 straipsnyje numatyto administracinio nusižengimo, pranešama šio juridinio asmens vadovui. Juridinio asmens vadovas ar kitas atsakingas asmuo per tris darbo dienas nuo pranešimo apie administracinį nusižengimą gavimo dienos privalo pranešti duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o dėl šio kodekso 415 straipsnio 1 dalyje, 431 straipsnio 1 ir 2 dalyse ar 459 straipsnio 1, 4, 5, 6 ir 7 dalyse nurodyto administracinio nusižengimo – taip pat duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio nusižengimo padarymo metu buvo atsakingas už transporto priemonės, kuria padarytas nusižengimas, valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymą arba už transporto priemonės savininkui (valdytojui) Saugaus eismo automobilių keliais įstatyme nustatytų reikalavimų vykdymą, ar atitinkamai apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuriam administracinio nusižengimo padarymo metu buvo pavesta vadovauti krovinių ar keleivių vežimo veiklai. Šiam asmeniui surašomas ir siunčiamas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas). Juridinio asmens, kuris perdavė transporto priemonę naudoti pagal lizingo (finansinės nuomos), išperkamosios nuomos ar kitą sutartį (toliau – lizingo sutartis), vadovas ar kitas atsakingas asmuo privalo pranešti duomenis apie fizinį asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą) arba juridinį asmenį (juridinio asmens pavadinimą, kodą, buveinės adresą), kuriam pagal lizingo sutartį transporto priemonė perduota valdyti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
 
 
 
@@ -25091,6 +25475,14 @@ Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 
 
 
+1161. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1057, kuria nustatomos konkrečios su Direktyva 96/71/EB ir Direktyva 2014/67/ES susijusios kelių transporto vairuotojų komandiravimo taisyklės ir iš dalies keičiami Direktyva 2006/22/EB, kiek tai susiję su vykdymo užtikrinimo reikalavimais, ir Reglamentas (ES) Nr. 1024/2012.
+Papildyta straipsnio dalimi:
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+ 
+
+
+
+
 117. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
 
 
@@ -25961,3 +26353,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1399, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16125
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 247-1 straipsniu įstatymas
+ 
+173.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
+Lietuvos Respublikos administracinių nusižengimų kodekso 101, 393, 448, 450, 451, 452, 453, 454, 456, 459, 463, 589, 611 straipsnių ir priedo pakeitimo įstatymas
