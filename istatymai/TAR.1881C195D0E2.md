@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -1466,7 +1466,10 @@ Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
 
 
 
-5) priima į tarnybą (darbą) ir atleidžia iš tarnybos (darbo) žvalgybos pareigūnus ir darbuotojus, sprendžia jų perkėlimo į kitas pareigas, siuntimo į tarnybinę komandiruotę, nušalinimo nuo pareigų ir kitus klausimus, susijusius su jų teisiniu statusu ir tarnybos (darbo) eiga;
+5) priima į tarnybą (darbą) ir atleidžia iš tarnybos (darbo) žvalgybos pareigūnus ir darbuotojus, informuoja žvalgybos pareigūnus apie jų tarnybos sąlygas, sprendžia jų perkėlimo į kitas pareigas, siuntimo į tarnybinę komandiruotę, nušalinimo nuo pareigų ir kitus klausimus, susijusius su jų teisiniu statusu ir tarnybos (darbo) eiga;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1194, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15185
+ 
 
 
 
@@ -4035,6 +4038,14 @@ Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
 
 
 
+5. Žvalgybos institucijos direktoriaus nustatyta tvarka žvalgybos pareigūnai informuojami apie jų tarnybos sąlygas.
+Papildyta straipsnio dalimi:
+Nr. XIV-1194, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15185
+ 
+
+
+
+
 
 
 71 straipsnis. Specialiosios žvalgybos pareigūnų ir slaptųjų bendradarbių socialinės garantijos
@@ -4249,3 +4260,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 27 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-869, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26906
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 16-1, 23 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1194, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15185
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 31 ir 70 straipsnių pakeitimo įstatymas
