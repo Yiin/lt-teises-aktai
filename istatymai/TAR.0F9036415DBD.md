@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -1184,14 +1184,19 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 
 
 
-4) komandiruotam į Lietuvos Respubliką asmeniui, kuris nėra draudžiamas pagal šį įstatymą, tačiau informacija apie jį pateikta Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 7 dalyje nustatyta tvarka (toliau šiame straipsnyje – komandiruotas užsienietis). 
+4) komandiruotam į Lietuvos Respubliką asmeniui, kuris nėra draudžiamas pagal šį įstatymą, tačiau informacija apie jį pateikta Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje nustatyta tvarka (toliau šiame straipsnyje – komandiruotas užsienietis). 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
+ 
 
 
 
 
 
 
-2. Atskiras kodas asmeniui suformuojamas pagal kiekvieną šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytą jo, kaip apdraustojo asmens, ar komandiruoto užsieniečio kategoriją pas kiekvieną jo draudėją (komandiruoto užsieniečio atveju – pas kiekvieną įmonę, įstaigą, organizaciją ar kitą organizacinę struktūrą Lietuvoje, kuri priima užsienietį laikinai dirbti ir teikia informaciją Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 7 dalyje nustatyta tvarka (toliau šiame straipsnyje – komandiruoto užsieniečio draudėjas). Kodas suformuojamas Fondo valdybos informacinėje sistemoje šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytam apdraustajam asmeniui, jo draudėjui, komandiruotam užsieniečiui ar komandiruoto užsieniečio draudėjui pateikus prašymą Fondo valdybos direktoriaus nustatyta tvarka, kai joje įrašomi šie duomenys:
+2. Atskiras kodas asmeniui suformuojamas pagal kiekvieną šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytą jo, kaip apdraustojo asmens, ar komandiruoto užsieniečio kategoriją pas kiekvieną jo draudėją (komandiruoto užsieniečio atveju – pas kiekvieną įmonę, įstaigą, organizaciją ar kitą organizacinę struktūrą arba fizinį asmenį Lietuvos Respublikoje, į kurią (pas kurį) komandiruojamas laikinai dirbti užsienietis ir kuri (kuris) teikia informaciją Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje nustatyta tvarka (toliau šiame straipsnyje – komandiruoto užsieniečio draudėjas). Kodas suformuojamas Fondo valdybos informacinėje sistemoje šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytam apdraustajam asmeniui, jo draudėjui, komandiruotam užsieniečiui ar komandiruoto užsieniečio draudėjui pateikus prašymą Fondo valdybos direktoriaus nustatyta tvarka, kai joje įrašomi šie duomenys: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
 
 
 1) mažosios bendrijos vadovo statuso įgijimo data;
@@ -2557,7 +2562,10 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 Valstybinė mokesčių inspekcija šio įstatymo ir Mokesčių administravimo įstatymo nustatytais pagrindais ir tvarka vykdo šias su socialinio draudimo įmokų apskaičiavimo kontrole, ginčų nagrinėjimu susijusias funkcijas:
 
 
-1) registruoja draudėjus, išskyrus draudėjus, kuriems taikomas automatinis draudėjų registravimas, ir teikia jiems informaciją apie socialinio draudimo įmokų mokėjimo prievoles;
+1) registruoja draudėjus (išskyrus draudėjus, kuriems taikomas automatinis draudėjų registravimas, taip pat draudėjus – fizinius asmenis, nevykdančius individualios veiklos, bet pagal darbo sutartį įdarbinančius kitus fizinius asmenis) ir teikia jiems informaciją apie socialinio draudimo įmokų mokėjimo prievoles;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
+ 
 
 
 
@@ -3637,3 +3645,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1175, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13891
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir 12 straipsnių pakeitimo įstatymas
+ 
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 15-1 ir 36 straipsnių pakeitimo įstatymas
