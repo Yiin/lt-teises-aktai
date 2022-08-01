@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-12-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -2350,7 +2350,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 71 straipsnis. Neleistinumas teisėjui pakartotinai dalyvauti nagrinėjant bylas
 
 
-1. Teisėjas, dalyvavęs nagrinėjant civilinę bylą pirmosios instancijos teisme, negali dalyvauti nagrinėjant tą bylą apeliacinės instancijos teisme ir kasaciniame teisme, taip pat nagrinėjant bylą pirmosios instancijos teisme, jeigu panaikintas sprendimas, buvo priimtas jam dalyvaujant.
+1. Teisėjas, dalyvavęs nagrinėjant civilinę bylą pirmosios instancijos teisme, negali dalyvauti nagrinėjant tą bylą apeliacinės instancijos teisme ir kasaciniame teisme, taip pat nagrinėjant bylą pirmosios instancijos teisme, jeigu panaikintas sprendimas buvo priimtas jam dalyvaujant. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1353, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15449
+ 
 
 
 
@@ -15763,7 +15766,10 @@ Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
 
 
 
-4) jeigu įvaikinti prašo vienas iš sutuoktinių, – notaro patvirtintas kito sutuoktinio rašytinis sutikimas įvaikinti, išskyrus įstatymų numatytus atvejus;
+4) jeigu įvaikinti prašo vienas iš sutuoktinių, – kito sutuoktinio rašytinis sutikimas įvaikinti, išskyrus įstatymų numatytus atvejus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1353, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15449
+ 
 
 
 
@@ -25617,3 +25623,8 @@ Lietuvos Respublikos civilinio proceso kodekso 494, 496-1, 500 ir 501 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1331, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15396
 Lietuvos Respublikos civilinio proceso kodekso 746 straipsnio pakeitimo įstatymas
+ 
+56.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1353, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15449
+Lietuvos Respublikos civilinio proceso kodekso 71 ir 482 straipsnio pakeitimo įstatymas
