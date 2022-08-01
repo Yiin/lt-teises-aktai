@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2022-01-27 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1426,10 +1426,24 @@ Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
 
 
 2. Teismo pirmininkas gali motyvuotai nuspręsti laikinai sumažinti teisėjo darbo su bylomis krūvį dėl jo užimtumo atliekant kitas teisėjo funkcijas, susijusias su teismo ar teismų sistemos veikimu, dėl jo dalyvavimo teismų savivaldos institucijų veikloje, taip pat kai būtina užtikrinti teisėjų darbo su bylomis krūvio tolygumą. Šioje dalyje nustatytais pagrindais teisėjo darbo su bylomis krūvis sumažinamas Teisėjų tarybos nustatyta tvarka ir apimtimi. Teisėjo darbo su bylomis krūvis negali būti mažinamas taip, kad būtų paneigta pagrindinė teisėjo funkcija – vykdyti teisingumą.
+ 
 
 
 Papildyta straipsniu:
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+ 
+
+
+
+
+442 straipsnis. Teisėjo informavimas apie jo darbo sąlygas
+
+
+Teisėjas informuojamas apie jo darbo sąlygas Teisėjų tarybos nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-1195, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15186
  
 
 
@@ -5724,3 +5738,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 7, 36, 39, 45, 48, 53-1, 53-2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-919, 2022-01-20, paskelbta TAR 2022-01-26, i. k. 2022-01147
 Lietuvos Respublikos teismų įstatymo Nr. I-480 63 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1195, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15186
+Lietuvos Respublikos teismų įstatymo Nr. I-480 papildymo 44-2 straipsniu įstatymas
