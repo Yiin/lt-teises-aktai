@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-01-28 iki 2022-07-31
+Suvestinė redakcija nuo 2022-08-01 iki 2022-10-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -1697,7 +1698,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, turi teisę naudotis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius.
+8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, papildomai privalo naudotis Juridinių asmenų dalyvių informacine sistema (JADIS), iš kurios turi gauti duomenis apie to kliento naudos gavėjus, ir turi teisę naudotis kitomis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
@@ -1722,6 +1723,22 @@ Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
+ 
+
+
+
+
+11. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatę šio įstatymo 25 straipsnyje nustatyta tvarka Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) pateiktos informacijos ir jų turimos informacijos apie to paties kliento – juridinio asmens naudos gavėjus neatitiktį, praneša apie tai klientui ir pasiūlo pateikti tikslią informaciją apie savo naudos gavėjus Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui. 
+Papildyta straipsnio dalimi:
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
+ 
+
+
+
+
+12. Nustatant kliento tapatybę, finansų įstaigoms ir kitiems įpareigotiesiems subjektams draudžiama pradėti dalykinius santykius arba vykdyti vienkartinę piniginę operaciją ar sandorį (išskyrus pinigines operacijas ar sandorius, sudarytus ir (ar) vykdomus dalykinių santykių metu), kai informacija apie kliento – juridinio asmens naudos gavėjus šio įstatymo 25 straipsnyje nustatyta tvarka nėra pateikta Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) arba kai informacija apie kliento – juridinio asmens naudos gavėjus, šio įstatymo 25 straipsnyje nustatyta tvarka pateikta Juridinių asmenų dalyvių informacinėje sistemoje (JADIS), neatitinka jų turimos informacijos apie to paties kliento naudos gavėjus.
+Papildyta straipsnio dalimi:
 Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
  
 
@@ -3005,35 +3022,18 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
 
 
-3. Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) kaupiama informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji:
-
-
-1) teikiama juridinių asmenų dalyviams, kai Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) tvarkomi duomenys apie juos (fiziniams asmenims, o juridiniams asmenims – kartą per kalendorinius metus);
-
-
-
-
-2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
-
-
-
-
-3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
-
-
-
-
-4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
-Papildyta straipsnio punktu:
-Nr. XIV-249, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08862
+3. Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) kaupiama informacija apie naudos gavėjus visiems teisės aktų nustatytomis sąlygomis turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama neatlygintinai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
  
 
 
 
 
-
-
-4. Atlyginimo už informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos (JADIS) administravimo išlaidų kartu su pagrįsta investicijų grąža. 
+4. Neteko galios nuo 2022-08-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
+ 
 
 
 Straipsnio pakeitimai:
