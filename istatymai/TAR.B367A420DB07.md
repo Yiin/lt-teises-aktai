@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b367a420db0711eb9f09e7df20500045"
 
 # Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas
 
+Suvestinė redakcija nuo 2022-08-01 iki 2023-05-04
+ 
+Įstatymas paskelbtas: TAR 2021-07-02, i. k. 2021-15163
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 NESĄŽININGOS PREKYBOS PRAKTIKOS ŽEMĖS ŪKIO IR MAISTO PRODUKTŲ TIEKIMO GRANDINĖJE DRAUDIMO
 ĮSTATYMAS
@@ -1365,7 +1372,10 @@ c) kai tiekėjui vėluojama sumokėti daugiau kaip 60 kalendorinių dienų nuo n
 
 
 
-13. Vyriausybė patvirtina baudų už šio įstatymo pažeidimus skyrimo tvarkos aprašą.
+13. Vyriausybė patvirtina baudų už šio įstatymo pažeidimus apskaičiavimo ir skyrimo tvarkos aprašą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1183, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15165
+ 
 
 
 
@@ -1479,7 +1489,7 @@ Respublikos Prezidentas                            �
  
  
 part_9819f34d9b494d98bfc776be8ce35dde_end
-part_6b6903b7516a48b3b432431f56563dc4_end
+part_afd6956235a64ab498923f35035b247a_end
 
 
 Lietuvos Respublikos 
@@ -1493,3 +1503,14 @@ priedas
 
 
 1. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/633 dėl įmonių vienų kitoms taikomos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje.
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1183, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15165
+Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 21 straipsnio pakeitimo įstatymas
