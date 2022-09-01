@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -225,12 +225,18 @@ TIKSLINIŲ KOMPENSACIJŲ SKYRIMO IR MOKĖJIMO TVARKA
 
 
 
-4. Tikslinės kompensacijos skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) asmenų, turinčių teisę gauti šias kompensacijas, arba jų įgaliotų asmenų, sutuoktinių, artimųjų giminaičių, socialinių paslaugų įstaigos darbuotojų arba neveiksniais tam tikroje srityje pripažintų asmenų, turinčių teisę gauti tikslines kompensacijas, globėjų prašymu. Tikslinės kompensacijos 18 metų nesukakusiems asmenims skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) jų tėvų (įtėvių) arba globėjų ar rūpintojų, arba artimųjų giminaičių, arba socialinių paslaugų įstaigos darbuotojo prašymu. Paskirtos tikslinės kompensacijos mokamos asmenims, turintiems teisę gauti šias kompensacijas, arba jų atstovams, išskyrus šio straipsnio 5 dalyje nustatytą atvejį.
+4. Tikslinės kompensacijos skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) asmenų, turinčių teisę gauti šias kompensacijas, arba jų įgaliotų asmenų, sutuoktinių, artimųjų giminaičių, neįgaliųjų aprūpintojų, socialinių paslaugų įstaigos darbuotojų arba neveiksniais tam tikroje srityje pripažintų asmenų, turinčių teisę gauti tikslines kompensacijas, globėjų prašymu. Tikslinės kompensacijos 18 metų nesukakusiems asmenims skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) jų tėvų (įtėvių) arba globėjų ar rūpintojų, arba artimųjų giminaičių, arba socialinių paslaugų įstaigos darbuotojų prašymu. Paskirtos tikslinės kompensacijos mokamos asmenims, turintiems teisę gauti šias kompensacijas, arba jų atstovams, išskyrus šio straipsnio 5 dalyje nustatytą atvejį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
+ 
 
 
 
 
-5. Tikslinė kompensacija, paskirta pilnamečiam asmeniui, kuris dėl sveikatos būklės negali pats atsiimti paskirtos kompensacijos, negali įgalioti kito asmens ją atsiimti (negali išreikšti savo valios) ir kuriam nepaskirtas globėjas ar rūpintojas (toliau – slaugomas asmuo), mokama veiksniam šioje srityje socialinės rizikos nepatiriančiam pilnamečiam asmeniui, kuris yra kreipęsis į teismą dėl slaugomo asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje arba globos (rūpybos) nustatymo ir jeigu ši civilinė byla yra iškelta, išskyrus šio straipsnio 6 dalyje nurodytą atvejį.
+5. Tikslinė kompensacija, paskirta pilnamečiam asmeniui, kuris dėl sveikatos būklės negali pats atsiimti jam paskirtos kompensacijos, negali įgalioti kito asmens ją atsiimti (negali išreikšti savo valios) ir kuriam nepaskirtas globėjas ar rūpintojas (toliau – slaugomas asmuo), mokama neįgaliojo aprūpintojui arba veiksniam šioje srityje socialinės rizikos nepatiriančiam pilnamečiam asmeniui, kuris yra kreipęsis į teismą dėl slaugomo asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje arba globos (rūpybos) nustatymo ir ši civilinė byla yra iškelta, išskyrus šio straipsnio 6 dalyje nurodytą atvejį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
+ 
 
 
 
@@ -266,6 +272,14 @@ TIKSLINIŲ KOMPENSACIJŲ SKYRIMO IR MOKĖJIMO TVARKA
 
 
 8. Tikslinė kompensacija asmeniui, kuris yra kreipęsis į teismą ar prokurorą, ar globos ir rūpybos instituciją dėl slaugomo asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje arba globos (rūpybos) nustatymo (toliau – slaugantis asmuo), mokama jo prašymu tol, kol išlieka visos šio straipsnio 5 dalyje nurodytos aplinkybės ir kol asmuo, kuris yra kreipęsis į prokurorą ar globos ir rūpybos instituciją dėl slaugomo asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje arba globos (rūpybos) nustatymo, atitinka bent vieną iš šio straipsnio 7 dalyje nurodytų sąlygų, tačiau ne ilgiau, negu įsiteisėja teismo sprendimas dėl asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje ir globos (rūpybos) nustatymo.
+
+
+
+
+81. Tikslinė kompensacija neįgaliojo aprūpintojui mokama jo prašymu tol, kol galioja Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus ar jo įgalioto asmens sprendimas dėl neįgaliojo aprūpintojo skyrimo. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
+ 
 
 
 
@@ -412,15 +426,24 @@ Nr. XIII-2416, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13754
 
 
 
-9 straipsnis. Permokėtų ar neteisėtai slaugančiam asmeniui išmokėtų tikslinių kompensacijų grąžinimo ir (ar) išskaitymo tvarka
+9 straipsnis. Permokėtų ar neteisėtai slaugančiam asmeniui ar neįgaliojo aprūpintojui išmokėtų tikslinių kompensacijų grąžinimo ir (ar) išskaitymo tvarka 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
+ 
 
 
-1. Permokėta tikslinės kompensacijos suma arba asmeniui, kuriam paskirta tikslinė kompensacija, priklausiusi, tačiau slaugančiam asmeniui neteisėtai išmokėta tikslinės kompensacijos suma grąžinama savivaldybės administracijos direktoriaus nustatyta tvarka. 
+1. Permokėta tikslinės kompensacijos suma arba asmeniui, kuriam paskirta tikslinė kompensacija, priklausiusi, tačiau slaugančiam asmeniui ar neįgaliojo aprūpintojui neteisėtai išmokėta tikslinės kompensacijos suma grąžinama savivaldybės administracijos direktoriaus nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
+ 
 
 
 
 
-2. Jeigu slaugantis asmuo negrąžina jam neteisėtai išmokėtos tikslinės kompensacijos sumos, ji išieškoma iš slaugančio asmens teismo tvarka. Permokėta, tačiau negrąžinta tikslinės kompensacijos suma išskaitoma iš asmeniui, kuriam paskirta tikslinė kompensacija, priklausančios tikslinės kompensacijos. Išskaitoma suma per mėnesį negali viršyti 20 procentų asmeniui priklausančios tikslinės kompensacijos. Rašytiniu asmens, kuriam mokama tikslinė kompensacija, prašymu gali būti išskaitoma daugiau kaip 20 procentų tikslinės kompensacijos per mėnesį. Jeigu tikslinės kompensacijos mokėjimas nutraukiamas, tačiau visa permokėta tikslinės kompensacijos suma neišskaityta, likusi permokos suma gali būti išskaitoma iš bet kurios kitos asmens gaunamos išmokos, kurią moka savivaldybės administracija, arba išieškoma teismo tvarka.
+2. Jeigu slaugantis asmuo ar neįgaliojo aprūpintojas negrąžina jam neteisėtai išmokėtos tikslinės kompensacijos sumos, ji išieškoma iš slaugančio asmens ar neįgaliojo aprūpintojo teismo tvarka. Permokėta, tačiau negrąžinta tikslinės kompensacijos suma išskaitoma iš asmeniui, kuriam paskirta tikslinė kompensacija, priklausančios tikslinės kompensacijos. Išskaitoma suma per mėnesį negali viršyti 20 procentų asmeniui priklausančios tikslinės kompensacijos. Rašytiniu asmens, kuriam mokama tikslinė kompensacija, prašymu gali būti išskaitoma daugiau kaip 20 procentų tikslinės kompensacijos per mėnesį. Jeigu tikslinės kompensacijos mokėjimas nutraukiamas, tačiau visa permokėta tikslinės kompensacijos suma neišskaityta, likusi permokos suma gali būti išskaitoma iš bet kurios kitos asmens gaunamos išmokos, kurią moka savivaldybės administracija, arba išieškoma teismo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
+ 
 
 
 
@@ -573,6 +596,7 @@ Respublikos Prezidentė                            �
 
  
 
+ 
 Lietuvos Respublikos
 tikslinių kompensacijų įstatymo
 priedas
@@ -643,6 +667,11 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1286, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15435
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsnio ir priedo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 5 ir 9 straipsnių pakeitimo įstatymas
  
  
 part_a8e5ae3c69504d7cb9d75726cd814662_end
