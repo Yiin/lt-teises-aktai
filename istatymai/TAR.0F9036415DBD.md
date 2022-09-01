@@ -18,10 +18,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-11-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -309,10 +308,11 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 6 straipsnis. Asmenys, draudžiami socialiniu draudimu dėl jų socialinio statuso ypatybių
 
 
-1. Nesukakę Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatyto socialinio draudimo senatvės pensijos amžiaus (toliau – senatvės pensijos amžius) ir neturintys draudžiamųjų pajamų, valstybės tarnautojų ir profesinės karo tarnybos karių bei deleguotų asmenų sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip pat Respublikos Prezidento sutuoktinis draudžiami valstybės lėšomis pensijų, motinystės, nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis atitinkamai nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos arba pagal delegavimo sutartį deleguoto asmens 0,5 darbo užmokesčio, arba Respublikos Prezidento 0,5 darbo užmokesčio, o kai nurodytos 0,5 pareiginės algos ar 0,5 darbo užmokesčio suma nesiekia Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, – nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Deleguotų asmenų sutuoktiniai draudžiami tik tuo atveju, jeigu deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija. Nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis draudžiamas Respublikos Prezidento kadencijos laikotarpiu. 
+1. Nesukakę Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatyto socialinio draudimo senatvės pensijos amžiaus (toliau – senatvės pensijos amžius) ir neturintys draudžiamųjų pajamų, valstybės tarnautojų, Lietuvos Respublikos specialiųjų atašė, žvalgybos pareigūnų ir profesinės karo tarnybos karių bei deleguotų asmenų sutuoktiniai arba partneriai (kai partnerystė įregistruota įstatymų nustatyta tvarka) (toliau – partneris) – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju, specialiuoju atašė ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės tarnautojas perkeltas, ar specialusis atašė perkeltas ar priimtas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie gyvena kartu su žvalgybos pareigūnu, profesinės karo tarnybos kariu, jeigu žvalgybos pareigūnas laikinai perkeltas tarnauti ar profesinės karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip pat Respublikos Prezidento sutuoktinis arba partneris draudžiami valstybės lėšomis pensijų, motinystės, nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis atitinkamai nuo profesinės tarnybos kario pareiginės algos ar žvalgybos pareigūno tarnybinio atlyginimo arba valstybės tarnautojo, specialiojo atašė ar pagal delegavimo sutartį deleguoto asmens darbo užmokesčio, arba Respublikos Prezidento darbo užmokesčio, o kai pareiginės algos, tarnybinio atlyginimo ar darbo užmokesčio suma nesiekia Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, – nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Deleguotų asmenų sutuoktiniai arba partneriai draudžiami tik tuo atveju, jeigu deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija. Nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis arba partneris draudžiamas Respublikos Prezidento kadencijos laikotarpiu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-1120, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12612
  
 
 
@@ -326,11 +326,12 @@ Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
 
 
-3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis, tėvų (įtėvių) arba asmuo, paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantys ar nuolat prižiūrintys namuose šį neįgalų asmenį (teikiantys pagalbą namuose šiam neįgaliam asmeniui), draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jų pajamos mažesnės negu atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios socialinio draudimo pensijos, išskyrus socialinio draudimo našlių pensiją ir maitintojo netekimo pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose. 
+3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgaliojo, kuriam nustatytas specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis, tėvų (įtėvių) arba asmuo, paskirtas šio neįgaliojo globėju, rūpintoju ar aprūpintoju, slaugantys ar nuolat prižiūrintys namuose šį neįgalųjį (teikiantys jam pagalbą namuose), draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jeigu jų pajamos mažesnės negu atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios socialinio draudimo pensijos, išskyrus socialinio draudimo našlių pensiją ir maitintojo netekimo pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
 Straipsnio dalies pakeitimai:
 Nr. XIII-929, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21602
 Nr. XIII-1961, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02744
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-1366, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15461
  
 
 
@@ -759,12 +760,18 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 
-14) kompensacijų, mokamų valstybės tarnautojų, deleguotų asmenų ar profesinės karo tarnybos karių sutuoktiniams ir vaikams (įvaikiams), išvykusiems į užsienį kartu su šiais asmenimis, išlaikyti;
+14) kompensacijų, mokamų valstybės tarnautojų, specialiųjų atašė, deleguotų asmenų ar profesinės karo tarnybos karių, žvalgybos pareigūnų sutuoktiniams arba partneriams ir vaikams (įvaikiams), išvykusiems į užsienį kartu su šiais asmenimis, išlaikyti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1120, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12612
+ 
 
 
 
 
-15) su darbu užsienyje susijusių išlaidų kompensacijų, mokamų valstybės tarnautojams, deleguotiems asmenims ir profesinės karo tarnybos kariams, taip pat atstovybės darbuotojams, kurie yra atstovybės diplomatinio personalo ar administracinio techninio personalo nariai;
+15) su darbu užsienyje susijusių išlaidų kompensacijų, mokamų valstybės tarnautojams, specialiesiems atašė, deleguotiems asmenims, profesinės karo tarnybos kariams ir žvalgybos pareigūnams, taip pat Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos ir specialiosios misijos darbuotojams, kurie yra Lietuvos Respublikos diplomatinės atstovybės, konsulinės įstaigos ir specialiosios misijos diplomatinio personalo ar administracinio techninio personalo nariai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1120, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12612
+ 
 
 
 
@@ -3650,3 +3657,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 15-1 ir 36 straipsnių pakeitimo įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1366, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15461
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 straipsnio pakeitimo įstatymas
