@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-09-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -609,7 +609,10 @@ TERMINAI
 
 
 
-5. Jeigu nustatytas terminas atlikti kokį nors veiksmą, tą veiksmą galima atlikti iki paskutinės termino dienos dvidešimt ketvirtos valandos. Rašytiniai prašymai, pareiškimai, pranešimai ar dokumentai, įteikti paštui ar kitai ryšio įstaigai arba išsiųsti naudojant informacines technologijas sutartu ar reglamentuotu būdu iki paskutinės termino dienos dvidešimt ketvirtos valandos, laikomi išsiųstais laiku.
+5. Jeigu nustatytas terminas atlikti kokį nors veiksmą, tą veiksmą galima atlikti iki paskutinės termino dienos dvidešimt ketvirtos valandos. Rašytiniai prašymai, pareiškimai, pranešimai ar dokumentai, įteikti paštui ar kitai ryšio įstaigai arba išsiųsti naudojant informacines ir elektroninių ryšių technologijas sutartu ar reglamentuotu būdu iki paskutinės termino dienos dvidešimt ketvirtos valandos, laikomi išsiųstais laiku.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+ 
 
 
 
@@ -875,7 +878,10 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-2. Darbo sutarties šalies kitai darbo sutarties šaliai šio kodekso, kitų darbo teisės normų ar sutarčių nustatytais atvejais perduodami dokumentai (pranešimai, prašymai, sutikimai, prieštaravimai ir kita) ir kita informacija turi būti pateikiami raštu. Dokumentų ir informacijos tinkamu pateikimu raštu laikomi tie atvejai, kai duomenys perduodami įprastai naudojamomis informacinių technologijų priemonėmis (elektroniniu paštu, mobiliaisiais įrenginiais ir kita) su sąlyga, kad įmanoma nustatyti informacijos turinį, jos pateikėją, pateikimo faktą ir laiką, taip pat sudarytos protingos galimybės ją išsaugoti ir atsispausdinti. Jeigu darbo sutarties šalis nurodo pagrįstas abejones dėl šių sąlygų buvimo, įrodyti, kad jos buvo sudarytos, privalo darbdavys.
+2. Darbo sutarties šalies kitai darbo sutarties šaliai šio kodekso, kitų darbo teisės normų ar sutarčių nustatytais atvejais perduodami dokumentai (pranešimai, prašymai, sutikimai, prieštaravimai ir kt.) ir kita informacija turi būti pateikiami raštu. Dokumentų ir informacijos tinkamu pateikimu raštu laikomi tie atvejai, kai duomenys perduodami įprastai naudojamomis informacinėmis ir elektroninių ryšių technologijomis (elektroniniu paštu, mobiliaisiais įrenginiais ir kt.) su sąlyga, kad įmanoma nustatyti informacijos turinį, jos pateikėją, pateikimo faktą ir laiką, taip pat sudarytos protingos galimybės ją išsaugoti ir atsispausdinti. Jeigu darbo sutarties šalis nurodo pagrįstas abejones dėl šių sąlygų buvimo, įrodyti, kad jos buvo sudarytos, privalo darbdavys.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+ 
 
 
 
@@ -991,7 +997,10 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-2. Darbdaviui įgyvendinant nuosavybės ar valdymo teises į darbo vietoje naudojamas informacines ir komunikacines technologijas, negali būti pažeidžiamas darbuotojų asmeninio susižinojimo slaptumas.
+2. Darbdaviui įgyvendinant nuosavybės ar valdymo teises į darbo vietoje naudojamas informacines ir elektroninių ryšių technologijas, negali būti pažeidžiamas darbuotojų asmeninio susižinojimo slaptumas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+ 
 
 
 
@@ -1896,7 +1905,10 @@ Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 52 straipsnis. Nuotolinis darbas
 
 
-1. Nuotolinis darbas yra darbo organizavimo forma arba darbo atlikimo būdas, kai darbuotojas jam priskirtas darbo funkcijas ar jų dalį visą arba dalį darbo laiko su darbdaviu suderinta tvarka reguliariai atlieka nuotoliniu būdu, tai yra sulygtoje darbo sutarties šalims priimtinoje kitoje, negu darbovietė yra, vietoje, taip pat ir naudodamas informacines technologijas (teledarbas).
+1. Nuotolinis darbas yra darbo organizavimo forma arba darbo atlikimo būdas, kai darbuotojas jam priskirtas darbo funkcijas ar jų dalį visą arba dalį darbo laiko su darbdaviu suderinta tvarka reguliariai atlieka nuotoliniu būdu, tai yra sulygtoje darbo sutarties šalims priimtinoje kitoje, negu yra darbovietė, vietoje, taip pat naudodamas informacines ir elektroninių ryšių technologijas (teledarbas).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+ 
 
 
 
@@ -8548,7 +8560,10 @@ Jeigu šiame kodekse nenustatyta kitaip, priimdamas sprendimus dėl uždelsto su
 
 
 
-4. Darbo ginčų komisijų narių – profesinių sąjungų ir darbdavių organizacijų atstovų ir jų pakaitinių narių – vardinį sąrašą su priskyrimu konkrečioms darbo ginčų komisijoms tvirtina ir kartą per metus atnaujina Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius, gavęs profesinių sąjungų ir darbdavių organizacijų teikimus.
+4. Darbo ginčų komisijų narių – profesinių sąjungų ir darbdavių organizacijų atstovų bei pakaitinių jų narių – vardinį sąrašą, kuriame nurodyta asmens pareigos, vardas, pavardė, priskyrimas teritorinei darbo ginčų komisijai, tvirtina ir kartą per metus atnaujina Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius, gavęs profesinių sąjungų ir darbdavių organizacijų teikimus, kuriuose nurodyta profesinių sąjungų ir darbdavių organizacijų atstovų, pakaitinių jų narių pareigos, vardai, pavardės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+ 
 
 
 
@@ -8602,20 +8617,20 @@ Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 
 
 
-2. Prašyme turi būti nurodyta:
+2. Prašyme išnagrinėti darbo ginčą dėl teisės turi būti nurodyta:
 
 
-1) ginčą inicijuojančios šalies (ieškovo) vardas, pavardė, gyvenamasis adresas;
-
-
-
-
-2) kitos šalies (atsakovo) pavadinimas, buveinės adresas; 
+1) darbo ginčą inicijuojančios šalies (ieškovo) vardas, pavardė, asmens kodas, o jei jo nėra, − gimimo data, gyvenamosios vietos adresas (jeigu darbo ginčą inicijuojanti šalis (ieškovas) prašo dokumentus gauti elektroniniu paštu, turi būti nurodytas elektroninio pašto adresas), telefono ryšio numeris;
 
 
 
 
-3) pateikiamas suformuluotas reikalavimas;
+2) kitos šalies (atsakovo) pavadinimas, juridinio asmens kodas, buveinės adresas arba fizinio asmens vardas, pavardė, asmens kodas, o jei jo nėra, − gimimo data ir gyvenamosios vietos adresas, telefono ryšio numeris;
+
+
+
+
+3) suformuluotas reikalavimas;
 
 
 
@@ -8625,22 +8640,49 @@ Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 
 
 
-5) pridedamų dokumentų sąrašas.
+5) prašymas dėl darbo ginčo nagrinėjimo rašytine tvarka;
+
+
+
+
+6) prašymas dėl darbo ginčo nagrinėjimo naudojant informacines ir elektroninių ryšių technologijas;
+
+
+
+
+7) prašymas dokumentus gauti elektroniniu paštu;
+
+
+
+
+8) pridedamų dokumentų sąrašas.
 
 
 
 
 
 
-3. Prašymas paduodamas darbo ginčų komisijai prie Valstybinės darbo inspekcijos teritorinio skyriaus, kurio teritorijoje yra darbuotojo darbovietė.
+3. Prašymas išnagrinėti darbo ginčą dėl teisės teikiamas darbo ginčų komisijai prie Valstybinės darbo inspekcijos teritorinio skyriaus, kurio teritorijoje yra darbuotojo darbovietė.
 
 
 
 
-4. Vieną prašymą gali paduoti ir kelių to paties darbdavio darbuotojų grupė, jeigu darbo ginčas dėl teisės kyla tuo pačiu teisiniu pagrindu.
+4. Vieną prašymą išnagrinėti darbo ginčą dėl teisės gali pateikti ir kelių to paties darbdavio darbuotojų grupė, jeigu darbo ginčas dėl teisės kyla tuo pačiu teisiniu pagrindu. 
+
+
+
+
+5. Jeigu prašymas išnagrinėti darbo ginčą dėl teisės neatitinka šio straipsnio 1 ir 2 dalyse nustatytų reikalavimų, darbo ginčų komisija apie tai praneša ieškovui ir nustato 5 darbo dienų terminą pranešime išvardytiems trūkumams pašalinti. Šis terminas skaičiuojamas nuo pranešimo apie nustatytus trūkumus gavimo dienos. Jeigu trūkumai per nustatytą terminą nepašalinami, prašymas išnagrinėti darbo ginčą dėl teisės laikomas nepateiktu ir grąžinamas ieškovui.
+
+
+
+
+6. Jeigu ieškovas iki darbo ginčų komisijos posėdžio raštu ar elektroniniu paštu, pasirašęs elektroniniu parašu, pateikė prašymą nenagrinėti jo pateikto prašymo išnagrinėti darbo ginčą dėl teisės, prašymas išnagrinėti darbo ginčą dėl teisės laikomas nepateiktu ir grąžinamas ieškovui. Prašyme nenagrinėti pateikto prašymo išnagrinėti darbo ginčą dėl teisės nurodomas ieškovo vardas, pavardė, asmens kodas, o jei ieškovas jo neturi, − gimimo data. Jeigu ieškovas prašyme nenagrinėti jo pateikto prašymo išnagrinėti darbo ginčą dėl teisės nepateikė šioje dalyje nurodytų duomenų, darbo ginčų komisija praneša ieškovui apie nustatytus trūkumus ir jų pašalinimo galimybę šio straipsnio 5 dalyje nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
  
-
-
 
 
 
@@ -8704,7 +8746,10 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 225 straipsnis. Pasirengimas nagrinėti prašymą
 
 
-1. Darbo ginčų komisijos pirmininkas, rengdamasis nagrinėti prašymą ir atsižvelgdamas į bylos aplinkybes, paveda išreikalauti iš atitinkamų tarnybų ir asmenų darbo ginčui nagrinėti reikalingus dokumentus, kviečia liudytojus.
+1. Darbo ginčų komisijos pirmininkas, rengdamasis nagrinėti prašymą išnagrinėti darbo ginčą dėl teisės, atsižvelgdamas į bylos aplinkybes, iš atitinkamų tarnybų ir asmenų išreikalauja darbo ginčui nagrinėti reikalingus dokumentus (jų kopijas), kitus įrodymus, kviečia liudytojus. Kreipiantis dėl dokumentų nurodoma asmens, dėl kurio kreipiamasi, vardas, pavardė, gimimo data, reikalaujamų duomenų (dokumentų) gavimo pagrindas, jų naudojimo tikslas, pateikimo būdas ir duomenų apimtis. Įrodymams rinkti gali būti naudojamos šio kodekso 226 straipsnio 4 dalyje nurodytos priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+ 
 
 
 
@@ -8722,55 +8767,67 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 226 straipsnis. Ginčo nagrinėjimas
 
 
-1. Darbo ginčas nagrinėjamas dalyvaujant ieškovui ir atsakovui ir (arba) jų atstovams.
+1. Darbo ginčas nagrinėjamas dalyvaujant ieškovui ir atsakovui ir (arba) jų atstovams, liudytojams, išskyrus šio straipsnio 2 ir 3 dalyse nustatytus atvejus.
 
 
 
 
-2. Jeigu šalis (šalys) buvo tinkamai informuota (informuotos) apie posėdį ir neatvyksta į posėdį, darbo ginčų komisija turi teisę priimti sprendimą jai (joms) nedalyvaujant.
+2. Jeigu šalis (šalys) buvo tinkamai informuota (informuotos) apie darbo ginčų komisijos posėdį ir į jį neatvyksta, darbo ginčų komisija turi teisę priimti sprendimą jai (joms) nedalyvaujant.
 
 
 
 
-3. Jeigu atsakovas sutinka su ieškovo reikalavimais, ginčas gali būti sprendžiamas rašytine tvarka apie tai iš anksto informavus šalis. 
+3. Jeigu atsakovas sutinka su ieškovo reikalavimais, ginčas gali būti sprendžiamas rašytine tvarka, apie tai iš anksto informavus šalis. Darbo ginčas darbo ginčų komisijos posėdyje rašytine tvarka gali būti nagrinėjamas ir tuo atveju, kai ieškovas prašo jį nagrinėti rašytine tvarka, atsakovas dėl to neprieštarauja ir darbo ginčų komisijos nariams pakanka šalių pateiktų įrodymų darbo ginčui išspręsti.
 
 
 
 
-4. Jeigu darbo ginčų komisijos narys negali dalyvauti darbo ginčų komisijos posėdyje, darbo ginčų komisijos pirmininkas sprendžia, ar atidėti posėdį, ar nagrinėti prašymą iš esmės. Jeigu be pateisinamos priežasties darbo ginčų komisijos narys tris kartus iš eilės neatvyksta į darbo ginčų komisijos posėdžius, darbo ginčų komisijos pirmininko motyvuotu teikimu Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius gali jį išbraukti iš darbo ginčų komisijos narių sąrašo. 
+4. Jeigu yra abiejų šalių raštu ar elektroniniu paštu pateiktas elektroniniu parašu pasirašytas prašymas dėl darbo ginčo nagrinėjimo naudojant informacines ir elektroninių ryšių technologijas, šalių dalyvavimas darbo ginčų komisijos posėdžiuose ir liudytojų apklausa jų buvimo vietoje gali būti užtikrinami naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip).
 
 
 
 
-5. Darbo ginčų komisijos posėdžiui pirmininkauja komisijos pirmininkas. Posėdyje jis paaiškina ginčo tarp šalių esmę ir pasiūlo šalims pasiekti priimtiną susitarimą ir sudaryti taikos sutartį. Jeigu šalių sutaikyti nepavyksta, posėdžio pirmininkas skelbia darbo ginčo nagrinėjimo iš esmės pradžią.
+5. Darbo ginčų komisijos posėdyje turi būti užtikrintas patikimas šalių ir liudytojų tapatybės nustatymas, objektyvus duomenų (įrodymų) fiksavimas ir pateikimas, asmens duomenų apsaugos reikalavimų įgyvendinimas. Šios procedūros atliekamos Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka. Duomenų subjektų teisės įgyvendinamos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka.
 
 
 
 
-6. Iki posėdžio paskelbimo pradžios arba per posėdį darbo ginčų komisijos pirmininkas ir nariai privalo nusišalinti nuo prašymo nagrinėjimo, kai yra Lietuvos Respublikos civilinio proceso kodekse nustatyti nušalinimo pagrindai. Nušalinimą komisijos pirmininkui ir (arba) komisijos nariui (nariams) gali pareikšti ir darbo ginčo šalys. Klausimą dėl pirmininko nušalinimo sprendžia kiti komisijos nariai. Jeigu abu komisijos nariai pritaria pirmininko nušalinimui, pareikštas nušalinimas turi būti tenkinamas. Į nušalinto pirmininko vietą Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius ginčui spręsti skiria kitos komisijos pirmininką. Klausimą dėl komisijos narių nušalinimo sprendžia pirmininkas. Jeigu pareikštas nušalinimas patenkinamas, prašymo nagrinėjimas atidedamas ir dalyvauti komisijos darbe kviečiamas kitas asmuo, kurį iš darbo ginčų komisijos narių sąrašo pasiūlo pirmininkas, vadovaudamasis darbo ginčų komisijos nuostatais. Nušalinimas pareiškiamas komisijos posėdyje, iki pradedant nagrinėti bylą iš esmės. Vėliau pareikšti nušalinimą leidžiama tik tuo atveju, jeigu nušalinimo pagrindas tapo žinomas, kai byla buvo pradėta nagrinėti.
+6. Jeigu darbo ginčų komisijos narys negali dalyvauti darbo ginčų komisijos posėdyje, darbo ginčų komisijos pirmininkas sprendžia, ar atidėti posėdį, ar nagrinėti prašymą iš esmės. Jeigu be pateisinamos priežasties darbo ginčų komisijos narys tris kartus iš eilės neatvyksta į darbo ginčų komisijos posėdžius, darbo ginčų komisijos pirmininko motyvuotu teikimu Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius gali jį išbraukti iš darbo ginčų komisijos narių sąrašo.
 
 
 
 
-7. Ginčo šalys darbo ginčų komisijos posėdyje turi teisę pareikšti papildomų reikalavimų ir pateikti papildomų įrodymų. Jeigu darbo ginčų komisija nustato, kad šie papildomi reikalavimai ir įrodymai galėjo būti pateikti anksčiau ir jų tenkinimas užvilkintų sprendimo priėmimą, darbo ginčų komisija motyvuotu protokoliniu sprendimu gali juos atmesti.
+7. Darbo ginčų komisijos posėdžiui pirmininkauja komisijos pirmininkas. Posėdyje jis paaiškina ginčo tarp šalių esmę ir pasiūlo šalims pasiekti priimtiną susitarimą ir sudaryti taikos sutartį. Jeigu šalių sutaikyti nepavyksta, posėdžio pirmininkas skelbia darbo ginčo nagrinėjimo iš esmės pradžią.
 
 
 
 
-8. Posėdyje išklausomi šalių ir liudytojų paaiškinimai, susipažįstama su dokumentais, kitais įrodymais ir jie įvertinami. 
+8. Iki darbo ginčų komisijos posėdžio paskelbimo pradžios arba per posėdį darbo ginčų komisijos pirmininkas ir nariai privalo nusišalinti nuo prašymo nagrinėjimo, kai yra Lietuvos Respublikos civilinio proceso kodekse nustatyti nušalinimo pagrindai. Nušalinimą darbo ginčų komisijos pirmininkui ir (arba) šios komisijos nariui (nariams) gali pareikšti ir darbo ginčo šalys. Klausimą dėl darbo ginčų komisijos pirmininko nušalinimo sprendžia kiti komisijos nariai. Jeigu abu darbo ginčų komisijos nariai pritaria komisijos pirmininko nušalinimui, pareikštas nušalinimas turi būti tenkinamas. Į nušalinto darbo ginčų komisijos pirmininko vietą Lietuvos Respublikos vyriausiasis valstybinis darbo inspektorius ginčui spręsti skiria kitos komisijos pirmininką. Klausimą dėl darbo ginčų komisijos narių nušalinimo sprendžia komisijos pirmininkas. Jeigu pareikštas nušalinimas patenkinamas, prašymo nagrinėjimas atidedamas ir dalyvauti darbo ginčų komisijos darbe kviečiamas kitas asmuo, kurį iš darbo ginčų komisijos narių sąrašo pasiūlo pirmininkas, vadovaudamasis darbo ginčų komisijos nuostatais. Nušalinimas pareiškiamas darbo ginčų komisijos posėdyje, iki pradedant nagrinėti bylą iš esmės. Vėliau pareikšti nušalinimą leidžiama tik tuo atveju, jeigu nušalinimo pagrindas tapo žinomas, kai byla buvo pradėta nagrinėti.
 
 
 
 
-9. Posėdis baigiamas išklausant šalių baigiamąsias kalbas dėl nagrinėto darbo ginčo dėl teisės esmės. Šalys neturi teisės baigiamosiose kalbose remtis naujomis aplinkybėmis ar įrodymais, kurie nebuvo įvertinti anksčiau.
+9. Ginčo šalys darbo ginčų komisijos posėdyje turi teisę pareikšti papildomų reikalavimų ir pateikti papildomų įrodymų. Jeigu darbo ginčų komisija nustato, kad šie papildomi reikalavimai ir įrodymai galėjo būti pateikti anksčiau ir jų tenkinimas vilkintų sprendimo priėmimą, darbo ginčų komisija motyvuotu protokoliniu sprendimu gali juos atmesti. Įrodymams rinkti gali būti naudojamos informacinės ir elektroninių ryšių technologijos (vaizdo konferencijos, telekonferencijos ir kt.) laikantis šio straipsnio 5 dalyje nurodytų reikalavimų. 
 
 
 
 
-10. Darbo ginčų komisijos posėdis protokoluojamas darant garso įrašą.
+10. Darbo ginčų komisijos posėdyje išklausomi šalių ir liudytojų paaiškinimai, susipažįstama su dokumentais, kitais įrodymais ir jie įvertinami.
+
+
+
+
+11. Darbo ginčų komisijos posėdis baigiamas išklausant šalių baigiamąsias kalbas dėl nagrinėto darbo ginčo dėl teisės esmės. Šalys neturi teisės baigiamosiose kalbose remtis naujomis aplinkybėmis ar įrodymais, kurie nebuvo įvertinti anksčiau.
+
+
+
+
+12. Darbo ginčų komisijos posėdis protokoluojamas darant garso įrašą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
  
-
-
 
 
 
@@ -8791,7 +8848,10 @@ Dokumentai šalims gali būti įteikti šiais būdais:
 
 
 
-3) telekomunikacijų galiniais įrenginiais. Jeigu ginčo šalys nurodė, dokumentai siunčiami tik šalių nurodytais elektroninio pašto adresais;
+3) naudojant informacines ir elektroninių ryšių technologijas. Jeigu ginčo šalys nurodė, dokumentai siunčiami tik šalių nurodytais elektroninio pašto adresais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+ 
 
 
 
@@ -9906,7 +9966,7 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 
 
-part_4dac25c829ce4a2fadd31091969b2857_end
+part_0c8dc7c0e6c64efe9fe57f42be768379_end
 
 
 Lietuvos Respublikos
