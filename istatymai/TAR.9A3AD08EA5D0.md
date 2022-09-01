@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-11-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -1251,12 +1251,26 @@ Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
 
 
 
-5. Pedagoginių darbuotojų kvalifikacijos tobulinimas yra sudedamoji neformaliojo suaugusiųjų švietimo dalis. Ne rečiau kaip kartą per ketverius metus pedagoginiai darbuotojai privalo tobulinti kvalifikaciją mokinių socialinių ir emocinių kompetencijų ugdymo srityje. Valstybinių (išskyrus aukštųjų mokyklų darbuotojus) ir savivaldybių švietimo įstaigų pedagoginių darbuotojų kvalifikacija tobulinama vadovaujantis švietimo ir mokslo ministro patvirtintais nuostatais. 
+5. Pedagoginių darbuotojų kvalifikacijos tobulinimas yra sudedamoji neformaliojo suaugusiųjų švietimo dalis. Ne rečiau kaip kartą per trejus metus pedagoginiai darbuotojai (išskyrus aukštųjų mokyklų darbuotojus), atsižvelgdami į savo pedagoginės veiklos specifiką, privalo tobulinti savo kvalifikaciją socialinių ir emocinių kompetencijų ugdymo ir kitose srityse. Valstybinių ir savivaldybių švietimo įstaigų pedagoginių darbuotojų (išskyrus aukštųjų mokyklų darbuotojus) kvalifikacija tobulinama vadovaujantis švietimo, mokslo ir sporto ministro patvirtintais nuostatais. Aukštųjų mokyklų pedagoginių darbuotojų kvalifikacija tobulinama aukštosios mokyklos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
+ 
 
 
 
 
-6. Kvalifikacijos tobulinimo programas įgyvendina švietimo ir mokslo ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai kartu su akredituotomis kvalifikacijos tobulinimo įstaigomis. 
+6. Kvalifikacijos tobulinimo programas įgyvendina švietimo, mokslo ir sporto ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai ir akredituotos kvalifikacijos tobulinimo įstaigos. Reikalavimus kvalifikacijos tobulinimo programoms nustato švietimo, mokslo ir sporto ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
+ 
+
+
+
+
+7. Nacionalines pedagogų kvalifikacijos tobulinimo programas prioritetinėse kvalifikacijos tobulinimo srityse, kurias trejų metų laikotarpiui tvirtina švietimo, mokslo ir sporto ministras, įgyvendina švietimo, mokslo ir sporto ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai kartu su kitomis aukštosiomis mokyklomis ir (ar) akredituotomis kvalifikacijos tobulinimo įstaigomis. Reikalavimus nacionalinėms pedagogų kvalifikacijos tobulinimo programoms, jų vertinimo, akreditavimo ir registravimo tvarką nustato švietimo, mokslo ir sporto ministras.
+Papildyta straipsnio dalimi:
+Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
+ 
 
 
 Straipsnio pakeitimai:
@@ -1463,6 +1477,11 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 5. Asmeniui, įgijusiam pagrindinį ar vidurinį išsilavinimą ir pageidaujančiam geriau pasirengti toliau mokytis, sudaromos sąlygos mokytis pageidaujamų bendrojo ugdymo dalykų ir pasitikrinti mokymosi pasiekimus švietimo ir mokslo ministro nustatyta tvarka.
+5 dalies redakcija nuo 2023-09-01:
+5. Asmeniui, įgijusiam pradinį ar pagrindinį išsilavinimą arba baigusiam pagrindinio ugdymo programos pirmąją dalį ir nepasiekusiam patenkinamo pasiekimų lygmens, sudaromas individualių mokymosi pasiekimų gerinimo planas ir skiriama reikalinga mokymosi pagalba švietimo, mokslo ir sporto ministro nustatyta tvarka. Asmeniui, įgijusiam pagrindinį ar vidurinį išsilavinimą ir pageidaujančiam geriau pasirengti toliau mokytis, sudaromos sąlygos mokytis pageidaujamų bendrojo ugdymo dalykų ir pasitikrinti mokymosi pasiekimus savo lėšomis švietimo, mokslo ir sporto ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
+ 
 
 
 
@@ -2065,7 +2084,12 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-4. Švietimo ir mokslo ministro įgaliotos institucijos ir savivaldybių vykdomosios institucijos organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, kitus egzaminus, įskaitas ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo ir mokslo ministro patvirtintas mokymosi pasiekimų patikrinimų programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal bendrąją švietimo ir mokslo ministro patvirtintą programą (pagrindinio ugdymo pasiekimų patikrinimo ir brandos egzaminų).
+4. Švietimo, mokslo ir sporto ministro įgaliotos institucijos ir savivaldybių vykdomosios institucijos organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas mokymosi pasiekimų patikrinimų programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą (nacionalinio mokinių pasiekimų patikrinimo, pagrindinio ugdymo pasiekimų patikrinimo ir brandos egzaminų).
+4 dalies redakcija nuo 2024-09-01:
+4. Švietimo, mokslo ir sporto ministro įgaliotos institucijos ir savivaldybių vykdomosios institucijos organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas bendrąsias programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
+ 
 
 
 
@@ -2777,7 +2801,10 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-3) gauti informaciją apie vaiko būklę, ugdymo ir ugdymosi poreikius, pažangą, mokyklos lankymą ir elgesį;
+3) gauti informaciją apie vaiko būklę, ugdymo ir ugdymosi poreikius, pažangą, mokyklos lankymą ir elgesį, po mokymosi pasiekimų patikrinimų gauti rekomendacijas dėl vaiko mokymosi pasiekimų gerinimo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
+ 
 
 
 
@@ -2841,7 +2868,7 @@ Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 1) vaiką, kuriam tais kalendoriniais metais sueina 6 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus; 
 2 dalies 1 punkto redakcija nuo 2023-01-01 iki 2023-12-31:
 1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus; 
-1 dalies 6 punkto redakcija nuo 2024-01-01:
+2 dalies 1 punkto redakcija nuo 2024-01-01:
 1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
 Straipsnio punkto pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
@@ -3034,7 +3061,10 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-2) ne mažiau kaip 5 dienas per metus dalyvauti kvalifikacijos tobulinimo renginiuose;
+2) ne mažiau kaip 5 dienas per metus dalyvauti kvalifikacijos tobulinimo programose ir renginiuose; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
+ 
 
 
 
@@ -3087,9 +3117,10 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-4) tobulinti savo kvalifikaciją, socialines ir emocines kompetencijas; 
+4) tobulinti savo kvalifikaciją prioritetinėse kvalifikacijos tobulinimo srityse, kurias tvirtina švietimo, mokslo ir sporto ministras; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
  
 
 
@@ -4852,3 +4883,13 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-796, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27373
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 25 straipsnio pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 23 ir 49 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir 47 straipsnių pakeitimo įstatymas
