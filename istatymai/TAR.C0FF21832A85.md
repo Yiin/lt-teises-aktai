@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2022-04-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2023-12-29
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -180,9 +180,10 @@ Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 2. Parama pagal šį įstatymą pripažįstama, jeigu ją teikia:
 
 
-1) Lietuvos Respublikos fiziniai ir juridiniai asmenys, išskyrus politines partijas, politines organizacijas, valstybės ir savivaldybių įmones, biudžetines įstaigas, valstybės ir savivaldybių institucijas bei Lietuvos banką. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, jų patronuojamųjų akcinių bendrovių ir uždarųjų akcinių bendrovių, kaip jos suprantamos Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, bei visų kitų su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per patronuojamąsias bendroves susijusių paskesnių eilių patronuojamųjų bendrovių, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje, (toliau – valstybės ir (ar) savivaldybės bendrovės) parama pagal šį įstatymą yra pripažįstama, jeigu jos neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, taip pat įsiskolinimų su praleistais mokėjimo terminais Valstybinio socialinio draudimo fondo biudžetui bei laiku neįvykdytų skolinių įsipareigojimų pagal paskolos sutartis ir kitus įsipareigojamuosius skolos dokumentus, pasirašytus su Lietuvos Respublikos finansų ministerija, arba pagal sutartis su valstybės garantija; 
+1) Lietuvos Respublikos fiziniai ir juridiniai asmenys, išskyrus politines organizacijas ir analitinius centrus, valstybės ir savivaldybių įmones, biudžetines įstaigas, valstybės ir savivaldybių institucijas bei Lietuvos banką. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, jų patronuojamųjų akcinių bendrovių ir uždarųjų akcinių bendrovių, kaip jos suprantamos Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, bei visų kitų su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per patronuojamąsias bendroves susijusių paskesnių eilių patronuojamųjų bendrovių, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje, (toliau – valstybės ir (ar) savivaldybės bendrovės) parama pagal šį įstatymą yra pripažįstama, jeigu jos neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, taip pat įsiskolinimų su praleistais mokėjimo terminais Valstybinio socialinio draudimo fondo biudžetui bei laiku neįvykdytų skolinių įsipareigojimų pagal paskolos sutartis ir kitus įsipareigojamuosius skolos dokumentus, pasirašytus su Lietuvos Respublikos finansų ministerija, arba pagal sutartis su valstybės garantija;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
  
 
 
@@ -317,9 +318,10 @@ Nr. XIII-1955, 2019-01-15, paskelbta TAR 2019-01-29, i. k. 2019-01320
 
 
 
-7) kiti juridiniai asmenys (išskyrus politines partijas), kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams.
+7) kiti juridiniai asmenys (išskyrus politines organizacijas ir analitinius centrus), kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams.
 Straipsnio punkto pakeitimai:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
+Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
  
 
 
@@ -586,7 +588,9 @@ Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
 
 
 
-7. Valstybės ir (ar) savivaldybės bendrovės negali teikti paramos politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos Respublikos Seimo, Vyriausybės, savivaldybių tarybų narių ir politinių partijų vienasmenių ir kolegialių valdymo organų narių, jų artimųjų giminaičių, sutuoktinių, sugyventinių, partnerių, kai partnerystė įregistruota įstatymų nustatyta tvarka, įsteigtiems fondams ir įstaigoms. Šiame punkte nurodyti asmenys negali dalyvauti vertinant paraiškas gauti paramą ir priimant sprendimus dėl paramos teikimo.
+7. Valstybės ir (ar) savivaldybės bendrovės negali teikti paramos politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos Respublikos Seimo, Vyriausybės, savivaldybių tarybų narių, politinių organizacijų ir analitinių centrų vienasmenių ir kolegialių valdymo organų narių, jų artimųjų giminaičių, sutuoktinių, sugyventinių, partnerių, kai partnerystė įregistruota įstatymų nustatyta tvarka, įsteigtiems fondams ir įstaigoms. Šiame punkte nurodyti asmenys negali dalyvauti vertinant paraiškas gauti paramą ir priimant sprendimus dėl paramos teikimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
  
@@ -774,10 +778,11 @@ Nr. XIII-1955, 2019-01-15, paskelbta TAR 2019-01-29, i. k. 2019-01320
 
 
 
-2. Pagal šį įstatymą kaip parama gauti šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms partijoms, valstybės politikams, politinei reklamai ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti. 
+2. Pagal šį įstatymą kaip parama gauti šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms organizacijoms ir analitiniams centrams, valstybės politikams, politinei reklamai ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti.
 Straipsnio dalies pakeitimai:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
+Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
  
 
 
@@ -1211,3 +1216,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4, 7, 8, 9 ir 11 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-944, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05123
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 7 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 7, 9-1 ir 10 straipsnių pakeitimo įstatymas
