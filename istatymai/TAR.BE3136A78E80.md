@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
  
 
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
  
@@ -1556,7 +1556,10 @@ Notarai atlieka šiuos notarinius veiksmus:
 
 
 
-6) liudija dokumentų vertimo iš vienos kalbos į kitą tikrumą;
+6) Neteko galios nuo 2022-09-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1354, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15450
+ 
 
 
 
@@ -2864,3 +2867,8 @@ Lietuvos Respublikos notariato įstatymo Nr. I-2882 3 ir 23 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1362, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15456
 Lietuvos Respublikos notariato įstatymo Nr. I-2882 20 ir 62 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1354, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15450
+Lietuvos Respublikos notariato įstatymo Nr. I-2882 26 straipsnio pakeitimo įstatymas
