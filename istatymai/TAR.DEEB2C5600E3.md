@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997.05.13)
  
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 24-0; Žin. 1993, Nr.6-120, i. k. 0931010ISTA0000I-67
  
@@ -1053,7 +1053,10 @@ Bylos pagal Seimo paklausimus, ar Respublikos Prezidento sveikatos būklė leid�
 
 
 
-Bylos pagal paklausimus, ar nebuvo pažeisti rinkimų įstatymai rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje per Respublikos Prezidento ar Seimo narių rinkimus, išnagrinėjamos per šio įstatymo 77 straipsnio trečiojoje dalyje nustatytą laiką.
+Bylos pagal paklausimus, ar nebuvo pažeistas Lietuvos Respublikos rinkimų kodeksas  rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje per Respublikos Prezidento ar Seimo narių rinkimus, išnagrinėjamos per šio įstatymo 77 straipsnio trečiojoje dalyje nustatytą laiką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1386, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15857
+ 
 
 
 Straipsnio pakeitimai: 
@@ -2964,7 +2967,10 @@ V SKYRIUS. PAKLAUSIMŲ DĖL IŠVADOS NAGRINĖJIMAS
 Konstitucinis Teismas teikia išvadas:
 
 
-1) ar nebuvo pažeisti rinkimų įstatymai per Respublikos Prezidento ar Seimo narių rinkimus;
+1) ar nebuvo pažeistas Rinkimų kodeksas per Respublikos Prezidento ar Seimo narių rinkimus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1386, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15857
+ 
 
 
 
@@ -3103,26 +3109,22 @@ Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
 
 
 
-77 straipsnis. Paklausimas dėl rinkimų įstatymų pažeidimo
+77 straipsnis. Paklausimas dėl Rinkimų kodekso pažeidimo
 
 
-Su paklausimu, ar nebuvo pažeisti rinkimų įstatymai rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje per Respublikos Prezidento ar Seimo narių rinkimus, šio įstatymo 74 straipsnyje nurodytos institucijos kreipiasi į Konstitucinį Teismą ne vėliau kaip per 3 dienas po to, kai oficialiai paskelbiami rinkimų galutiniai rezultatai toje rinkimų apygardoje arba Vyriausiosios rinkimų komisijos sprendimas dėl laisvos Seimo nario vietos atsiradimo ar užėmimo.
-
-
-
-
-Konstitucinis Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl rinkimų įstatymų pažeidimų tais atvejais, kai sprendimai buvo priimti ar kita šios komisijos veika buvo padaryta pasibaigus balsavimui renkant Seimo narius ar Respublikos Prezidentą.
+Su paklausimu, ar nebuvo pažeistas Rinkimų kodeksas rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje per Respublikos Prezidento ar Seimo narių rinkimus, šio įstatymo 74 straipsnyje nurodytos institucijos kreipiasi į Konstitucinį Teismą ne vėliau kaip per 3 dienas po to, kai oficialiai paskelbiamas Vyriausiosios rinkimų komisijos sprendimas dėl rinkimų galutinių rezultatų toje rinkimų apygardoje nustatymo arba dėl laisvos Seimo nario vietos atsiradimo ar užėmimo.
 
 
 
 
-Paklausimas turi būti išnagrinėtas ne vėliau kaip per 120 valandų nuo jo įteikimo Konstituciniam Teismui. Į šiame straipsnyje nurodytus terminus įskaitomos ir nedarbo dienos.
+Konstitucinis Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl Rinkimų kodekso pažeidimų tais atvejais, kai sprendimai buvo priimti ar kita šios komisijos veika buvo padaryta pasibaigus balsavimui renkant Seimo narius ar Respublikos Prezidentą.
 
 
-Straipsnio pakeitimai:
+Paklausimas turi būti išnagrinėtas ne vėliau kaip per 120 valandų nuo jo įteikimo Konstituciniam Teismui. Į šiame straipsnyje nurodytus terminus įskaitomos ir ne darbo dienos.part_0be725b9a28b415790f62ad1341aaf9f Straipsnio pakeitimai:
 Nr. IX-1797, 2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
 Straipsnio pakeitimai:
 Nr. XII-1703, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08037
+Nr. XIV-1386, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15857
  
 
 
@@ -3531,3 +3533,8 @@ Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 8 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
 Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 papildymo 41-1 straipsniu ir 42, 65, 66, 67, 67-1, 76 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1386, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15857
+Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 29, 73 ir 77 straipsnių pakeitimo įstatymas
