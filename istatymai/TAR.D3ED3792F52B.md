@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-05-28 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -1149,9 +1149,10 @@ Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 
 
 
-2) asmenys, kurie atsistatydino savo noru iš karjeros valstybės tarnautojo ar įstaigos vadovo pareigų dėl terminuotos diplomato tarnybos sutarties sudarymo pagal Diplomatinės tarnybos įstatymo 28 straipsnio 2, 3 ir 4 dalis, – per 3 mėnesius nuo terminuotos diplomato tarnybos sutarties pabaigos. 
+2) asmenys, kurie atsistatydino savo noru iš karjeros valstybės tarnautojo ar įstaigos vadovo pareigų dėl terminuotos diplomato tarnybos sutarties sudarymo pagal Diplomatinės tarnybos įstatymo 28 straipsnio 2 ir 4 dalis, – per 3 mėnesius nuo terminuotos diplomato tarnybos sutarties pabaigos.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+Nr. XIV-1125, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12617
  
 
 
@@ -3299,7 +3300,7 @@ Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
 Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 Nr. XIV-711, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25137
  
-part_636b9ce3283e4fb09ece8eff3a14574a_end
+part_7f28de126a0f44239e5b9ef1af7fa867_end
 
 
  
@@ -4367,3 +4368,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 11, 14, 16, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1111, 2022-05-19, paskelbta TAR 2022-05-27, i. k. 2022-11335
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 6 straipsnio pakeitimo įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1125, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12617
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 17 straipsnio pakeitimo įstatymas
