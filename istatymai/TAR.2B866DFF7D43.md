@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2022-06-02 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-10-19
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -6622,11 +6622,12 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 
  
 XXVI SKYRIUS
-NUSIKALTIMAI ASMENŲ RINKIMŲ TEISĖMS IR LIETUVOS RESPUBLIKOS PREZIDENTO, SEIMO, EUROPOS PARLAMENTO BEI SAVIVALDYBIŲ TARYBŲ RINKIMŲ AR REFERENDUMŲ TVARKAI, POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO TVARKAI 
+NUSIKALTIMAI ASMENŲ RINKIMŲ TEISĖMS IR LIETUVOS RESPUBLIKOS PREZIDENTO, SEIMO, EUROPOS PARLAMENTO, SAVIVALDYBIŲ TARYBŲ IR MERŲ RINKIMŲ AR REFERENDUMŲ TVARKAI, POLITINIŲ ORGANIZACIJŲ, ANALITINIŲ CENTRŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO TVARKAI 
 Skyriaus pavadinimo pakeitimai:
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 Pakeistas skyriaus pavadinimas:
 Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871
+Nr. XIV-1384, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15855
  
 
 
@@ -6728,20 +6729,20 @@ Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
 
 
 
-1751 straipsnis. Neteisėtas politinių partijų ir politinių kampanijų finansavimas
+1751 straipsnis. Neteisėtas politinių organizacijų, analitinių centrų ar politinių kampanijų finansavimas
 
 
-1. Tas, kas neteisėtai teikė lėšas ar kitokią paramą, kurių vertė viršija 500 MGL dydžio sumą, politinei partijai ar politinei kampanijai tiesiogiai ar netiesiogiai finansuoti arba šias lėšas ar paramą neteisėtai priėmė ar panaudojo politinės partijos ar politinės kampanijos veikloje,
-baudžiamas bauda arba laisvės atėmimu iki ketverių metų. 
+1. Tas, kas neteisėtai teikė lėšas ar kitokią paramą, kurių vertė viršija 500 MGL dydžio sumą, politinei organizacijai, analitiniam centrui ar politinei kampanijai tiesiogiai ar netiesiogiai finansuoti arba šias lėšas ar paramą neteisėtai priėmė ar panaudojo politinės organizacijos, analitinio centro ar politinės kampanijos veikloje,
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
 
 
 
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
+2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 
 
-Papildyta straipsniu:
-Nr. XIII-2563, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19871
+Straipsnio pakeitimai:
+Nr. XIV-1384, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15855
  
 
 
@@ -10774,18 +10775,20 @@ baudžiamas areštu arba laisvės atėmimu iki penkerių metų.
 
 
 
-295 straipsnis. Neteisėtas specialios technikos įrengimas ar panaudojimas informacijai rinkti
+295 straipsnis. Neteisėtas techninių priemonių įrengimas ar panaudojimas informacijai rinkti
 
 
-Tas, kas neteisėtai įrengė ar panaudojo specialią techniką žmogui sekti, informacijai apie valstybės, savivaldybės instituciją, įstaigą ar jų tarnautoją, politinę partiją, visuomeninę organizaciją ar jų narį, kitą juridinį ar fizinį asmenį rinkti,
+Tas, kas neteisėtai įrengė ar panaudojo technines priemones informacijai apie valstybės, savivaldybės instituciją, įstaigą ar jų tarnautoją, politinę organizaciją ar asociaciją arba jų narį, kitą juridinį ar fizinį asmenį rinkti,
 
 
 
 
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1384, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15855
  
-
-
 
 
 
@@ -11626,7 +11629,7 @@ Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
 
 
-part_76851eec9d2e46509080c37085106dde_end
+part_27e44d84642e48338f3997bf83e6e1bd_end
 
 
 Lietuvos Respublikos
@@ -12443,3 +12446,8 @@ Lietuvos Respublikos baudžiamojo kodekso 60, 129, 135, 138, 169, 170, 170-1 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1117, 2022-05-24, paskelbta TAR 2022-06-01, i. k. 2022-11875
 Lietuvos Respublikos baudžiamojo kodekso 9-1, 118 ir 119 straipsnių pakeitimo įstatymas
+ 
+49.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1384, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15855
+Lietuvos Respublikos baudžiamojo kodekso XXVI skyriaus pavadinimo, 175-1 ir 295 straipsnių pakeitimo įstatymas
