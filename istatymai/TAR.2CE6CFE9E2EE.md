@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -673,7 +673,10 @@ V SKYRIUS
 
 
 
-3. Šalpos išmokos skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) asmenų, turinčių teisę gauti šias išmokas, arba jų įgaliotų asmenų, arba globėjų, jeigu šie asmenys pripažinti neveiksniais atitinkamoje srityje, arba jų sutuoktinių ar artimųjų giminaičių (kaip ši sąvoka apibrėžta Lietuvos Respublikos civiliniame kodekse), arba socialinių paslaugų įstaigos darbuotojų prašymu. Šalpos išmokos asmenims iki 18 metų skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) jų tėvų (įtėvių) arba globėjų ar rūpintojų, arba artimųjų giminaičių (kaip ši sąvoka apibrėžta Civiliniame kodekse), arba socialinių paslaugų įstaigos darbuotojų prašymu. Paskirtos šalpos išmokos mokamos asmenims, turintiems teisę gauti šias išmokas, arba jų atstovams.
+3. Šalpos išmokos skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) asmenų, turinčių teisę gauti šias išmokas, arba jų įgaliotų asmenų, arba globėjų, jeigu šie asmenys pripažinti neveiksniais atitinkamoje srityje, arba jų sutuoktinių ar artimųjų giminaičių (kaip ši sąvoka apibrėžta Lietuvos Respublikos civiliniame kodekse), arba neįgaliųjų aprūpintojų (kaip ši sąvoka apibrėžta Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme), arba socialinių paslaugų įstaigos darbuotojų prašymu. Šalpos išmokos asmenims iki 18 metų skiriamos arba jų mokėjimas atnaujinamas (pratęsiamas) jų tėvų (įtėvių) arba globėjų ar rūpintojų, arba artimųjų giminaičių (kaip ši sąvoka apibrėžta Civiliniame kodekse), arba socialinių paslaugų įstaigos darbuotojų prašymu. Paskirtos šalpos išmokos mokamos asmenims, turintiems teisę gauti šias išmokas, arba jų atstovams, arba neįgaliųjų aprūpintojams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
+ 
 
 
 
@@ -706,10 +709,11 @@ Nr. XIV-951, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05129
 
 
 
-6. Asmenims, turintiems teisę gauti šalpos neįgalumo pensiją ir šalpos senatvės pensiją arba šalpos neįgalumo ar šalpos senatvės pensiją ir šalpos kompensaciją, jų pasirinkimu mokama tik viena iš šių šalpos išmokų. Kai šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodyti asmenys, kuriems yra skiriamos ir mokamos šalpos neįgalumo pensijos, sukanka senatvės pensijos amžių, be atskiro jų prašymo jiems yra skiriama ir mokama atitinkamai šio įstatymo 8 straipsnio 5 dalies 1 ir 2 punktuose nurodyto dydžio šalpos senatvės pensija. 
+6. Asmenims, tuo pačiu metu turintiems teisę gauti šalpos neįgalumo pensiją ir šalpos senatvės pensiją arba šalpos neįgalumo ar šalpos senatvės pensiją ir šalpos kompensaciją, mokama didesnio dydžio šalpos išmoka arba asmenų, nurodytų šio straipsnio 3 dalyje, prašymu – tik viena iš šių šalpos išmokų. Kai šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodyti asmenys, kuriems skiriamos ir mokamos šalpos neįgalumo pensijos, sukanka senatvės pensijos amžių, be atskiro jų prašymo jiems skiriama ir mokama atitinkamai šio įstatymo 8 straipsnio 5 dalies 1 ir 2 punktuose nurodyto dydžio šalpos senatvės pensija.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
 Nr. XIV-230, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07272
+Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
  
 
 
@@ -871,9 +875,16 @@ Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
 
 
 2) kai nustatomas lengvesnis neįgalumo lygis arba didesnis darbingumo lygis, – nuo kito mėnesio pirmos dienos po to, kai buvo nustatytas lengvesnis neįgalumo lygis ar didesnis darbingumo lygis.
+
+
+
+
+
+
+5. Šalpos išmoka neįgaliojo aprūpintojui mokama jo prašymu, kol galioja Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus ar jo įgalioto asmens sprendimas dėl neįgaliojo aprūpintojo skyrimo.
+Papildyta straipsnio dalimi:
+Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
  
-
-
 
 
 
@@ -1274,6 +1285,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
 
+ 
 Lietuvos Respublikos 
 šalpos pensijų įstatymo 
 priedas
@@ -1459,6 +1471,11 @@ Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 15, 22-4 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1285, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15434
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1 straipsnio ir priedo pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1365, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15460
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 15 ir 16 straipsnių pakeitimo įstatymas
  
  
 part_fd31069eae57422fb111ef0cb533d002_end
