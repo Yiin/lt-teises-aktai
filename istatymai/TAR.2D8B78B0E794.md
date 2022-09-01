@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
+ 
+TAR pastaba. 2022-06-30 įstatymas Nr. XIV-1259 taikomas Lietuvos mokslo tarybos valdybos ir ekspertų komitetų nariams, paskirtiems Lietuvos Respublikos Vyriausybės 2022 m. balandžio 20 d. nutarime Nr. 375 „Dėl Lietuvos mokslo tarybos nuostatų patvirtinimo“ nustatyta tvarka.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 7, 8 straipsnių ir 5 priedo pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-01-01:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
@@ -37,9 +42,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų (toliau – biudžetinės įstaigos), darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), darbo apmokėjimo sąlygas ir dydžius, materialines pašalpas, darbuotojų pareigybių lygius ir grupes, kasmetinį veiklos vertinimą, taip pat įstatymų pagrindais sudarytų komisijų (grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo), finansuojamų iš valstybės ir savivaldybių biudžetų (toliau kartu – komisijos), pirmininkų, pirmininkų pavaduotojų ir narių (toliau – komisijų nariai) atlygį už darbą. 
+1. Šis įstatymas nustato valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų (toliau – biudžetinės įstaigos), darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), darbo apmokėjimo sąlygas ir dydžius, materialines pašalpas, darbuotojų pareigybių lygius ir grupes, kasmetinį veiklos vertinimą, taip pat įstatymų pagrindais sudarytų komisijų (grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo, Lietuvos mokslo tarybos valdybos ir ekspertų komitetų), finansuojamų iš valstybės ir savivaldybių biudžetų (toliau kartu – komisijos), pirmininkų, pirmininkų pavaduotojų ir narių (toliau – komisijų nariai) atlygį už darbą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
  
 
 
@@ -385,9 +391,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-4. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus, jų pavaduotojus, administracijos padalinių vadovus ir jų pavaduotojus, mokytojus (išskyrus trenerius), pagalbos mokiniui specialistus ir darbininkus, pareiginės algos pastoviosios dalies koeficientas darbo apmokėjimo sistemoje nustatomas pagal šio įstatymo 3 ir 4 priedus, atsižvelgiant į pareigybės lygį, profesinio darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo dirbamas darbas, analogiškas pareigybės aprašyme nustatytam tam tikros profesijos ar specialybės darbui, arba vykdytos funkcijos, analogiškos pareigybės aprašyme nustatytoms funkcijoms, kitus darbo apmokėjimo sistemoje nustatytus kriterijus.
+4. Biudžetinių įstaigų darbuotojų, išskyrus biudžetinių įstaigų vadovus, jų pavaduotojus, administracijos padalinių vadovus ir jų pavaduotojus, mokytojus (išskyrus trenerius), pagalbos mokiniui specialistus, kurių darbas laikomas pedagoginiu (toliau – pagalbos mokiniui specialistai), ir darbininkus, pareiginės algos pastoviosios dalies koeficientas darbo apmokėjimo sistemoje nustatomas pagal šio įstatymo 3 ir 4 priedus, atsižvelgiant į pareigybės lygį, profesinio darbo patirtį, kuri apskaičiuojama sumuojant laikotarpius, kai buvo dirbamas darbas, analogiškas pareigybės aprašyme nustatytam tam tikros profesijos ar specialybės darbui, arba atliekamos funkcijos, analogiškos pareigybės aprašyme nustatytoms funkcijoms, kitus darbo apmokėjimo sistemoje nustatytus kriterijus.
 Straipsnio dalies pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
  
 
 
@@ -493,9 +500,10 @@ Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
 
 
 
-7. Mokytojų (išskyrus trenerius), pagalbos mokiniui specialistų (specialiųjų pedagogų, logopedų, surdopedagogų, tiflopedagogų, judesio korekcijos specialistų, psichologų asistentų, psichologų, socialinių pedagogų, auklėtojų, koncertmeisterių, akompaniatorių) darbo krūvio sandara (darbo pareigų paskirstymas pagal laiką) pateikiama šio įstatymo 5 priede.
+7. Mokytojų (išskyrus trenerius), pagalbos mokiniui specialistų (specialiųjų pedagogų, logopedų, surdopedagogų, tiflopedagogų, judesio korekcijos specialistų, karjeros specialistų, psichologų asistentų, psichologų, socialinių pedagogų, auklėtojų, koncertmeisterių, akompaniatorių) darbo krūvio sandara (darbo pareigų paskirstymas pagal laiką) pateikiama šio įstatymo 5 priede.
 Straipsnio dalies pakeitimai:
 Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
  
 
 
@@ -901,6 +909,8 @@ Respublikos Prezidentė                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų 
@@ -979,9 +989,10 @@ Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
+part_4210a6ebfae3468680f3841405975d69_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -1116,9 +1127,10 @@ Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
+part_8597c8a326b147b683dead3ac00610d6_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -1166,9 +1178,10 @@ Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
+part_e64ea44d4a0041acb52babf989b21454_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -1209,9 +1222,10 @@ Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  
+part_99201cc7dc014cd8aca112a29f8e6d95_end
 
 
-
+ 
 
  
 Lietuvos Respublikos 
@@ -1222,9 +1236,10 @@ komisijų narių atlygio už darbą
 5 priedas
  
  
-MOKYTOJŲ (IŠSKYRUS TRENERIUS), PAGALBOS MOKINIUI SPECIALISTŲ, MOKYKLŲ VADOVŲ, JŲ PAVADUOTOJŲ UGDYMUI, UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ, ŠVIETIMO PAGALBOS ĮSTAIGŲ VADOVŲ, JŲ PAVADUOTOJŲ IR SKYRIŲ VEDĖJŲ, KURIŲ DARBAS LAIKOMAS PEDAGOGINIU, PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI IR MOKYTOJŲ (IŠSKYRUS TRENERIUS), PAGALBOS MOKINIUI SPECIALISTŲ (SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, JUDESIO KOREKCIJOS SPECIALISTŲ, PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ, AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ) DARBO KRŪVIO SANDARA 
+MOKYTOJŲ (IŠSKYRUS TRENERIUS), PAGALBOS MOKINIUI SPECIALISTŲ, MOKYKLŲ VADOVŲ, JŲ PAVADUOTOJŲ UGDYMUI, UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ, ŠVIETIMO PAGALBOS ĮSTAIGŲ VADOVŲ, JŲ PAVADUOTOJŲ IR SKYRIŲ VEDĖJŲ, KURIŲ DARBAS LAIKOMAS PEDAGOGINIU, PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI IR MOKYTOJŲ (IŠSKYRUS TRENERIUS), PAGALBOS MOKINIUI SPECIALISTŲ (SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, JUDESIO KOREKCIJOS SPECIALISTŲ, KARJEROS SPECIALISTŲ, PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ, AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ) DARBO KRŪVIO SANDARA 
 Pakeistas priedo pavadinimas:
 Nr. XIV-447, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15452
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
  
 
 
@@ -1644,7 +1659,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-15. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą, išskyrus nurodytus šio priedo 16 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 33 valandos per savaitę skiriamos tiesioginiam darbui su mokiniais, 3 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
+15. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą, išskyrus nurodytus šio priedo 16 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 32 valandos per savaitę skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -1828,7 +1846,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-21. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą, išskyrus nurodytus šio priedo 22 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 33 valandos skiriamos tiesioginiam darbui su mokiniais, 3 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
+21. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą, išskyrus nurodytus šio priedo 22 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 32 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+Punkto pakeitimai:
+Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+ 
 
 
 
@@ -1844,12 +1865,14 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 IV SKYRIUS
-SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DIRBANČIUS ŠVIETIMO PAGALBOS ĮSTAIGOSE, JUDESIO KOREKCIJOS SPECIALISTŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS DALIES KOEFICIENTAI IR DARBO KRŪVIO SANDARA
+SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DIRBANČIUS ŠVIETIMO PAGALBOS ĮSTAIGOSE, JUDESIO KOREKCIJOS SPECIALISTŲ, KARJEROS SPECIALISTŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS DALIES KOEFICIENTAI IR DARBO KRŪVIO SANDARA 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
  
 
 
 23. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
- 
 
 
 
@@ -1876,7 +1899,7 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
  Nesuteiktos kvalifikacinės kategorijos 
 
 
- Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas 
+ Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas, karjeros specialistas 
  7,44 
  7,47 
  7,53 
@@ -1900,7 +1923,7 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas 
-
+   
  8,18 
  8,21 
  8,25 
@@ -1910,8 +1933,8 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas 
-
-
+   
+   
  8,74 
  8,9 
  9,18 
@@ -1920,30 +1943,37 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
  Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas 
-
-
+   
+   
  9,94 
  10,1 
  10,36 
  10,4 
- 10,45 
+ 10,45“ 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
  
 
 
 
 
-24. Judesio korekcijos specialistams, kuriems įskaitytos kvalifikacinės kategorijos švietimo, mokslo ir sporto ministro nustatyta tvarka, pareiginės algos pastoviosios dalies koeficientai nustatomi taikant pareiginės algos pastoviosios dalies koeficientus, nurodytus šio priedo 23 punkte nustatytą atitinkamą kvalifikacinę kategoriją įgijusiems darbuotojams.
+24. Judesio korekcijos specialistams, karjeros specialistams, kuriems įskaitytos kvalifikacinės kategorijos švietimo, mokslo ir sporto ministro nustatyta tvarka, pareiginės algos pastoviosios dalies koeficientai nustatomi taikant pareiginės algos pastoviosios dalies koeficientus, nurodytus šio priedo 23 punkte nustatytą atitinkamą kvalifikacinę kategoriją įgijusiems darbuotojams. 
+Punkto pakeitimai:
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
+ 
 
 
 
 
-25. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo specialiesiems pedagogams, logopedams, surdopedagogams, tiflopedagogams ir judesio korekcijos specialistams:
+25. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo specialiesiems pedagogams, logopedams, surdopedagogams, tiflopedagogams, judesio korekcijos specialistams ir karjeros specialistams: 
+ 
+Punkto pakeitimai:
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
 
 
 25.1. didinami 1–15 procentų dirbantiems bendrojo ugdymo mokyklose ir įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas, išskyrus nurodytas šio priedo 25.2.1 ir 25.2.2 papunkčiuose, su vienu ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;
@@ -1993,7 +2023,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-26. Jeigu specialiojo pedagogo, logopedo, surdopedagogo, tiflopedagogo, judesio korekcijos specialisto veikla atitinka du ir daugiau šio priedo 25 punkte nustatytų kriterijų, jų pareiginės algos pastoviosios dalies koeficientas didinamas ne daugiau kaip 25 procentais. Pareiginės algos pastoviosios dalies koeficientų didinimo dėl veiklos sudėtingumo kriterijai, nurodyti šio priedo 25 punkte, atsižvelgiant į veiklos sudėtingumo mastą, detalizuojami biudžetinės įstaigos darbo apmokėjimo sistemoje.
+26. Jeigu specialiojo pedagogo, logopedo, surdopedagogo, tiflopedagogo, judesio korekcijos specialisto, karjeros specialisto veikla atitinka du ir daugiau šio priedo 25 punkte nustatytų kriterijų, jų pareiginės algos pastoviosios dalies koeficientas didinamas ne daugiau kaip 25 procentais. Pareiginės algos pastoviosios dalies koeficientų didinimo dėl veiklos sudėtingumo kriterijai, nurodyti šio priedo 25 punkte, atsižvelgiant į veiklos sudėtingumo mastą, detalizuojami biudžetinės įstaigos darbo apmokėjimo sistemoje. 
+Punkto pakeitimai:
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
+ 
 
 
 
@@ -2018,6 +2051,14 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 27.3. judesio korekcijos specialistų, dirbančių mokyklose, – 36 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais (judesio ir padėties korekcijos užsiėmimams vesti), 12 valandų – netiesioginiam darbui su mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita). 
+
+
+
+
+27.4. karjeros specialistų, dirbančių švietimo įstaigose, – 36 valandos. Ne daugiau kaip 60 procentų šių darbuotojų darbo laiko skiriama tiesioginiam darbui su mokiniais teikiant ugdymo karjerai, profesinio informavimo ir profesinio konsultavimo paslaugas, o kita darbo laiko dalis skiriama netiesioginiam darbui su mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, mokinių tėvais (globėjais, rūpintojais), kitais asmenimis ugdymo karjerai, profesinio informavimo ir profesinio konsultavimo klausimais ir kita).
+Papildyta papunkčiu:
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
+ 
 
 
 
@@ -2901,3 +2942,11 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 3, 5, 6, 7, 9, 12, 14 straipsnių ir 1, 2, 3, 4, 5 priedų pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 7, 8 straipsnių ir 5 priedo pakeitimo įstatymas
+ 
+ 
+part_db801440f7984293b3909b73906cca0d_end
