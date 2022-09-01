@@ -21,7 +21,7 @@ Projektas XXXX XX XX Nr. –––––
  
 
 
-Suvestinė redakcija nuo 2022-02-10 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-11-15
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -508,7 +508,10 @@ Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
 
 
 
-9) rinkimų įstatymų ir Lietuvos Respublikos referendumo įstatymo (toliau – Referendumo įstatymas) pažeidimo;
+9) Lietuvos Respublikos rinkimų kodekso ir Lietuvos Respublikos referendumo konstitucinio įstatymo pažeidimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
+ 
 
 
 
@@ -648,7 +651,10 @@ Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
 
 
 
-9) pagal skundus dėl apylinkės rinkimų komisijos sprendimo arba apylinkės referendumo komisijos sprendimo dėl rinkėjų sąraše ar piliečių, turinčių teisę dalyvauti referendume, sąraše padarytų klaidų;
+9) Neteko galios nuo 2022-09-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
+ 
 
 
 
@@ -831,9 +837,10 @@ BENDROSIOS NUOSTATOS DĖL SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ)
 
 
 
-7. Skundas (prašymas, pareiškimas) teismui gali būti siunčiamas paštu, išskyrus šio įstatymo 20 straipsnio 2 dalies 9 punkte ir 21 straipsnio 1 dalies 3 punkte nurodytus ginčus, ir elektronine forma elektroninių ryšių priemonėmis. Jeigu skundas (prašymas, pareiškimas) siunčiamas faksimiliniu laišku arba kitomis elektroninių ryšių priemonėmis (išskyrus atvejus, kai asmens tapatybė patvirtinama Lietuvos Respublikos teismų įstatyme (toliau – Teismų įstatymas) nustatytais būdais), ne vėliau kaip per tris kalendorines dienas turi būti pateiktas skundo (prašymo, pareiškimo) originalas.
+7. Skundas (prašymas, pareiškimas) teismui gali būti siunčiamas paštu, išskyrus šio įstatymo 21 straipsnio 1 dalies 3 punkte nurodytus ginčus, ir elektronine forma elektroninių ryšių priemonėmis. Jeigu skundas (prašymas, pareiškimas) siunčiamas faksimiliniu laišku arba kitomis elektroninių ryšių priemonėmis (išskyrus atvejus, kai asmens tapatybė patvirtinama Lietuvos Respublikos teismų įstatyme nustatytais būdais), ne vėliau kaip per tris kalendorines dienas turi būti pateiktas skundo (prašymo, pareiškimo) originalas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-417, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14574
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
  
 
 
@@ -1269,7 +1276,10 @@ Skundai (prašymai, pareiškimai) administraciniuose teismuose priimami ir nagri
 
 
 
-3) rinkimų įstatymų ir Referendumo įstatymo pažeidimų;
+3) Rinkimų kodekso ir Referendumo konstitucinio įstatymo pažeidimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
+ 
 
 
 
@@ -1931,9 +1941,10 @@ Nr. XIII-1848, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21880
 51 straipsnis. Teisė sudaryti taikos sutartį
 
 
-1. Bet kurioje proceso stadijoje ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutartis negali būti sudaroma bylose dėl norminių administracinių aktų teisėtumo, bylose pagal skundus dėl rinkimų įstatymų ir Referendumo įstatymo pažeidimų, bylose dėl savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė įstatymuose nustatytų įgaliojimų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai). Teismas imasi priemonių ginčo šalims sutaikyti tik tuo atveju, kai yra ginčo šalių sutikimas pradėti derybas dėl taikos sutarties sudarymo. 
+1. Bet kurioje proceso stadijoje ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutartis negali būti sudaroma bylose dėl norminių administracinių aktų teisėtumo, bylose pagal skundus dėl Rinkimų kodekso ir Referendumo konstitucinio įstatymo pažeidimų, bylose dėl savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė jiems įstatymuose nustatytų įgaliojimų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai). Teismas imasi priemonių ginčo šalims sutaikyti tik tuo atveju, kai yra ginčo šalių sutikimas pradėti derybas dėl taikos sutarties sudarymo. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
  
 
 
@@ -2882,7 +2893,10 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
 
 
-2. Bylose dėl rinkimų įstatymų ir Referendumo įstatymo pažeidimo, taip pat bylose dėl ginčų, kuriems nagrinėti įstatymas nustato specialius terminus, šaukimai proceso dalyviams gali būti įteikti prieš vieną kalendorinę dieną iki posėdžio pradžios. 
+2. Bylose dėl Rinkimų kodekso ir Referendumo konstitucinio įstatymo pažeidimų, taip pat bylose dėl ginčų, kuriems nagrinėti įstatymas nustato specialius terminus, šaukimai proceso dalyviams gali būti įteikti prieš vieną kalendorinę dieną iki posėdžio pradžios.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
+ 
 
 
 
@@ -4661,30 +4675,14 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 TREČIASIS SKIRSNIS
-SKUNDAI DĖL RINKIMŲ ĮSTATYMŲ AR REFERENDUMO ĮSTATYMO PAŽEIDIMŲ
+SKUNDAI DĖL RINKIMŲ KODEKSO AR REFERENDUMO KONSTITUCINIO ĮSTATYMO PAŽEIDIMŲ
  
 
 
-123 straipsnis. Skundo dėl rinkimų ar dalyvavimo referendume teisės atkūrimo padavimas
+124 straipsnis. Skundo dėl Lietuvos Respublikos vyriausiosios rinkimų komisijos sprendimų padavimas
 
 
-1. Lietuvos Respublikos Prezidento rinkimų įstatyme (toliau – Prezidento rinkimų įstatymas), Lietuvos Respublikos Seimo rinkimų įstatyme (toliau – Seimo rinkimų įstatymas), Referendumo įstatyme, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatyme (toliau – Savivaldybių tarybų rinkimų įstatymas) nurodyti asmenys, nesutikdami su apylinkės rinkimų komisijos arba apylinkės referendumo komisijos sprendimais, priimtais pagal skundus dėl rinkėjų sąraše ar piliečių, turinčių teisę dalyvauti referendume, sąraše padarytų klaidų, dėl kurių rinkėjas negali įgyvendinti savo teisės rinkti (neteisingai įrašytas į sąrašą arba išbrauktas iš sąrašo, taip pat kai sąraše netiksliai nurodyti duomenys apie rinkėją), gali apylinkės rinkimų komisijos ar apylinkės referendumo komisijos sprendimą apskųsti apygardos administraciniam teismui per rinkimų įstatymuose ir Referendumo įstatyme nustatytus terminus. Skundas paduodamas raštu, faksimiliniu laišku arba elektronine forma elektroninių ryšių priemonėmis.
-
-
-
-
-2. Jeigu kreipiamasi į teismą prieš tai nepateikus skundo apylinkės komisijai, teisėjas perduoda skundą tam tikrai komisijai ir apie tai praneša pareiškėjui. 
- 
-
-
-
-
-
-
-124 straipsnis. Skundo dėl Lietuvos Respublikos vyriausiosios rinkimų komisijos sprendimų padavimas 
-
-
-1. Prezidento rinkimų įstatyme, Seimo rinkimų įstatyme, Referendumo įstatyme, Savivaldybių tarybų rinkimų įstatyme nustatyti asmenys šiuose įstatymuose nurodytais pagrindais ir per nurodytus terminus gali apskųsti Lietuvos Respublikos vyriausiosios rinkimų komisijos sprendimus.
+1. Rinkimų kodekse, Referendumo konstituciniame įstatyme nustatyti asmenys šiuose įstatymuose nurodytais pagrindais ir per nurodytus terminus gali apskųsti Lietuvos Respublikos vyriausiosios rinkimų komisijos sprendimus.
 
 
 
@@ -4697,15 +4695,15 @@ SKUNDAI DĖL RINKIMŲ ĮSTATYMŲ AR REFERENDUMO ĮSTATYMO PAŽEIDIMŲ
 
 
 
-125 straipsnis. Skundo dėl rinkimų įstatymų ar Referendumo įstatymo pažeidimo išnagrinėjimo terminai ir tvarka 
+125 straipsnis. Skundo dėl Rinkimų kodekso, Referendumo konstitucinio įstatymo ar kitų įstatymų pažeidimo išnagrinėjimo terminai ir tvarka
 
 
-1. Skundą dėl rinkimų įstatymų ir Referendumo įstatymo pažeidimo administracinis teismas išnagrinėja per rinkimų įstatymuose ir Referendumo įstatyme nustatytus terminus.
+1. Skundą dėl Rinkimų kodekso ar Referendumo konstitucinio įstatymo pažeidimo ar skundą dėl rinkimų komisijų sprendimų įstatymų nustatytais atvejais administracinis teismas išnagrinėja per šiuose įstatymuose nustatytus terminus.
 
 
 
 
-2. Skundą administracinis teismas nagrinėja pranešęs pareiškėjui ir atitinkamai rinkimų komisijai. Nurodytų asmenų neatvykimas į teismo posėdį, jeigu jiems apie teismo posėdį buvo pranešta, nėra kliūtis bylai nagrinėti ir sprendimui priimti. 
+2. Skundą administracinis teismas nagrinėja pranešęs pareiškėjui ir atitinkamai rinkimų komisijai. Nurodytų asmenų neatvykimas į teismo posėdį, jeigu jiems apie teismo posėdį buvo pranešta, nėra kliūtis bylai nagrinėti ir sprendimui priimti.
  
 
 
@@ -4713,20 +4711,22 @@ SKUNDAI DĖL RINKIMŲ ĮSTATYMŲ AR REFERENDUMO ĮSTATYMO PAŽEIDIMŲ
 
 
 
-126 straipsnis. Teismo sprendimas dėl rinkimų įstatymų ar Referendumo įstatymo pažeidimo
+126 straipsnis. Teismo sprendimas dėl Rinkimų kodekso, Referendumo konstitucinio įstatymo ar kitų įstatymų pažeidimo 
 
 
-1. Administracinio teismo sprendimas pagal skundą dėl rinkimų įstatymų ar Referendumo įstatymo pažeidimo įsiteisėja nuo paskelbimo. 
+1. Administracinio teismo sprendimas pagal skundą dėl Rinkimų kodekso ar Referendumo konstitucinio įstatymo pažeidimo ar pagal skundą dėl rinkimų komisijų sprendimų įstatymų nustatytais atvejais įsiteisėja nuo paskelbimo.
 
 
 
 
 2. Priėmus sprendimą, jo patvirtintos kopijos (nuorašai, skaitmeninės kopijos) nedelsiant nusiunčiamos paštu ar elektroninių ryšių priemonėmis atitinkamai rinkimų komisijai ir pareiškėjui.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
  
-
-
-
-
 
 
 
@@ -7088,3 +7088,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 20
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT20-A-N1/2022, 2022-02-10, paskelbta TAR 2022-02-10, i. k. 2022-02427
 Dėl Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija) 158 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17, 20, 23, 36, 51, 77, 120, 121, 122 straipsnių ir II dalies II skyriaus trečiojo skirsnio pakeitimo įstatymas
