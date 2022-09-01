@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -3555,7 +3555,7 @@ Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
 
 
 
-641 straipsnis. Žvalgybos pareigūnų aprūpinimas tarnybos užsienyje laikotarpiu 
+641 straipsnis. Žvalgybos pareigūnų aprūpinimas tarnybos užsienyje laikotarpiu
 
 
 1. Tarnybos užsienyje laikotarpiu žvalgybos pareigūnui mokamas šiame įstatyme nustatytas tarnybinis atlyginimas (įskaitant priedus už kario laipsnį ar tarnybinį rangą ir tarnybos stažą), skaičiuojamas pagal nustatytą iki perkėlimo eitoms žvalgybos pareigūno pareigoms pareiginės algos koeficientą, išskyrus atvejus, kai darbo užmokestį jiems moka priimančioji institucija.
@@ -3573,127 +3573,131 @@ Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
 
 
 
-4. Žvalgybos pareigūnai, laikinai perkelti tarnauti į užsienio valstybių ar tarptautines karines ar gynybos institucijas, aprūpinami šio straipsnio 5–21 dalyse nustatytomis sąlygomis ir tvarka.
+4. Žvalgybos pareigūnai, laikinai perkelti tarnauti į užsienio valstybių ar tarptautines karines ar gynybos institucijas, aprūpinami šio straipsnio 5–28 dalyse nustatytomis sąlygomis ir tvarka.
 
 
 
 
-5. Žvalgybos pareigūnams, laikinai perkeltiems tarnauti į užsienio valstybių ar tarptautines karines ar gynybos institucijas, su tarnybiniu atlyginimu mokama su tarnyba užsienyje susijusių išlaidų kompensacija, taikant šio straipsnio 6 dalyje nurodytą su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo žvalgybos pareigūno pareigybės, ir gyvenimo lygio vietos koeficientą, kurio dydį nustato Vyriausybė. Užsienio valstybėse, kurių gyvenimo lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas gyvenimo lygio vietos koeficientas 1,2. Su tarnyba užsienyje susijusių išlaidų kompensacijos koeficiento vieneto vertė eurais lygi Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui.
+5. Žvalgybos pareigūnams, laikinai perkeltiems tarnauti į užsienio valstybių ar tarptautines karines ar gynybos institucijas, su tarnybiniu atlyginimu mokama su tarnyba užsienyje susijusių išlaidų kompensacija, taikant Vyriausybės nustatyto dydžio su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo žvalgybos pareigūno pareigybės, ir gyvenimo lygio vietos koeficientą, susidedantį iš bazinio koeficiento ir motyvacinio koeficiento, kurių dydžius nustato Vyriausybė. Užsienio valstybėse, kurių gyvenimo lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas gyvenimo lygio vietos koeficientas 1,2. Su tarnyba užsienyje susijusių išlaidų kompensacijos koeficiento vieneto vertė eurais lygi Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) baziniam dydžiui.
 
 
 
 
-6. Su tarnyba užsienyje susijusių išlaidų kompensacijų koeficientai:
+6. Žvalgybos pareigūnui už sutuoktinį, nepilnamečius vaikus (įvaikius), jeigu jie nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, sutuoktinio nepilnamečius vaikus (įvaikius), jeigu jų gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir jie nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jų gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir jie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, nepilnamečius išlaikytinius, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis, kitus išlaikytinius asmenis, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis (toliau kartu šiame straipsnyje – šeimos nariai), kurie užsienyje gyvena kartu su žvalgybos pareigūnu, mokamos šio straipsnio 7–17, 26 ir 27 dalyse numatytos išmokos ir (ar) kompensacijos.
 
 
-1) direktoriui, direktoriaus pavaduotojui – 8,93;
 
 
+7. Kai su žvalgybos pareigūnu kartu gyvena sutuoktinis, žvalgybos pareigūnui kartu su tarnybiniu atlyginimu mokama kompensacija, kurią sudaro 0,5 per mėnesį žvalgybos pareigūno gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos. Žvalgybos pareigūno sutuoktiniui pateikus prašymą, ši kompensacija mokama sutuoktiniui. Ši kompensacija nemokama, jeigu sutuoktinis gauna su darbo santykiais arba jų esmę atitinkančiais santykiais susijusių pajamų.
 
 
-2) valdybos viršininkui, valdybos viršininko pavaduotojui – 8,15;
 
 
+8. Kai su žvalgybos pareigūnu kartu gyvena jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, už kiekvieną vaiką (įvaikį) ar nepilnametį išlaikytinį žvalgybos pareigūnui kartu su tarnybiniu atlyginimu mokama kompensacija, kurią sudaro 0,3 per mėnesį žvalgybos pareigūno gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos. 
 
 
-3) skyriaus viršininkui, skyriaus viršininko pavaduotojui – 7,38;
 
 
+9. Kai su žvalgybos pareigūnu kartu gyvena kiti, negu šio straipsnio 7 ir 8 dalyse nurodyti, išlaikytiniai asmenys, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, žvalgybos pareigūnui kartu su tarnybiniu atlyginimu už kiekvieną išlaikytinį mokama kompensacija, kurią sudaro 0,25 per mėnesį žvalgybos pareigūno gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos.
 
 
-4) poskyrio viršininkui, vyriausiajam specialistui – 6,60;
 
 
+10. Kai su žvalgybos pareigūnu kartu gyvena jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, žvalgybos pareigūnui visiškai ar iš dalies apmokamos ar kompensuojamos jų ikimokyklinio ugdymo ir priešmokyklinio ugdymo išlaidos. Vyriausybė nustato ikimokyklinio ugdymo išlaidų ir priešmokyklinio ugdymo išlaidų apmokamas ar kompensuojamas dalis, o žvalgybos institucijos asignavimų valdytojas – apmokamas ar kompensuojamas ikimokyklinio ugdymo ir priešmokyklinio ugdymo išlaidas, jų apskaičiavimo, apmokėjimo ar kompensavimo tvarką.
 
 
-5) vyresniajam specialistui, specialistui – 5,82;
 
 
+11. Kai su žvalgybos pareigūnu kartu gyvena ir mokosi pagal bendrojo ugdymo programas jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai ar kiti išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, žvalgybos pareigūnui visiškai ar iš dalies apmokamos ar kompensuojamos jų mokymosi išlaidos, iki jie įgis vidurinį išsilavinimą. Šioje dalyje nurodytos išlaidos apmokamos ar kompensuojamos nuo tada, kai vaikams (įvaikiams), išlaikytiniams paprastai sueina 6 metai, bet ne ilgiau, iki jiems sueis 20 metų. Vyriausybė nustato mokymosi išlaidų apmokamą ar kompensuojamą dalį, o žvalgybos institucijos asignavimų valdytojas – apmokamas ar kompensuojamas mokymosi išlaidas, jų apskaičiavimo, apmokėjimo ar kompensavimo tvarką.
 
 
-6) jaunesniajam specialistui – 5,05.
 
 
+12. Kai į tą pačią ar skirtingas užsienio valstybių ar tarptautines karines ar gynybos institucijas laikinai perkeliami tarnauti kartu gyvenantys sutuoktiniai, šio straipsnio 8 ir 9 dalyse nurodytos kompensacijos mokamos tam sutuoktiniui, kuriam jos priklausytų didesnės, o šio straipsnio 10 ir 11 dalyse nurodytos išlaidos apmokamos ar kompensuojamos sutuoktinių pasirinkimu vienam iš jų.
 
 
 
 
-7. Žvalgybos pareigūnui už sutuoktinį, nepilnamečius vaikus (įvaikius), jeigu jie nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, sutuoktinio nepilnamečius vaikus (įvaikius), jeigu jų gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir jie nėra emancipuoti ar sudarę santuokos, pilnamečius vaikus (įvaikius) iki 20 metų, jeigu jų gyvenamoji vieta yra nustatyta kartu su žvalgybos pareigūno sutuoktiniu ir jie su žvalgybos pareigūnu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, nepilnamečius išlaikytinius, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis, kitus išlaikytinius asmenis, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ir (ar) jo sutuoktinis (toliau kartu šiame straipsnyje – šeimos nariai), kurie užsienyje gyvena kartu su žvalgybos pareigūnu, mokamos šio straipsnio 8–14 ir 21 dalyse numatytos išmokos ir (ar) kompensacijos.
+13. Žvalgybos pareigūnas, laikinai perkeltas tarnauti į užsienio valstybės ar tarptautinę karinę ar gynybos instituciją, ir jo šeimos nariai apdraudžiami sveikatos draudimu. Sveikatos draudimo išlaidos apmokamos iš žvalgybos pareigūną perkėlusiai žvalgybos institucijai skirtų valstybės biudžeto asignavimų. Valstybėse, kuriose nėra galimybių apdrausti sveikatos draudimu, išlaidos, susijusios su žvalgybos pareigūno arba jo šeimos narių asmens sveikatos priežiūra, apmokamos iš atitinkamai žvalgybos institucijai skirtų valstybės biudžeto asignavimų. Šioje dalyje nurodytos sveikatos draudimo ir su sveikatos priežiūra susijusios išlaidos apmokamos bendrai krašto apsaugos ministro ir Valstybės saugumo departamento direktoriaus nustatyta tvarka, neviršijant Vyriausybės nustatytų sveikatos draudimo ir sveikatos priežiūros išlaidų ribų taikant gyvenimo lygio vietos koeficientą. Už šeimos narius iš atitinkamai žvalgybos institucijai skirtų asignavimų taip pat mokamos privalomojo sveikatos draudimo įmokos, jeigu jos turi būti mokamos vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 11 dalimi.
 
 
 
 
-8. Kai su žvalgybos pareigūnu kartu gyvena sutuoktinis, žvalgybos pareigūnui kartu su tarnybiniu atlyginimu mokama kompensacija, kurią sudaro 0,5 per mėnesį žvalgybos pareigūno gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos. Ši kompensacija nemokama, jeigu sutuoktinis gauna pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais. 
+14. Žvalgybos pareigūnui kas mėnesį skiriama išmoka apsirūpinti jo pareigybę ir šeimos narių skaičių atitinkančiomis gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti, taip pat apmokamos arba kompensuojamos su gyvenamųjų patalpų nuomos sutarties sudarymu susijusios išlaidos. Be to, apmokamos arba kompensuojamos žvalgybos pareigūno ir jo šeimos narių persikėlimo iš Lietuvos Respublikos į užsienio valstybę, iš užsienio valstybės į Lietuvos Respubliką ar iš vienos užsienio valstybės į kitą užsienio valstybę išlaidos (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), išmokama Vyriausybės nustatyto dydžio vienkartinė įsikūrimo užsienio valstybėje išmoka, kurią apskaičiuojant taikomas gyvenimo lygio vietos koeficientas. Persikėlimo (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) iš užsienio valstybės į Lietuvos Respubliką išlaidos apmokamos arba kompensuojamos, jeigu žvalgybos pareigūnas pasibaigus šio įstatymo 50 straipsnio 5 dalyje nustatytų pareigų ar tarnybos terminui persikėlė į Lietuvos Respubliką per šio įstatymo 65 straipsnio 9 dalyje nustatytą terminą, o jo šeimos nariai – per 2 mėnesius nuo paskutinės žvalgybos pareigūno tarnybos (rezidavimo) užsienio valstybėje dienos. Išmokų apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti dydžius ir jų skyrimo tvarką, su gyvenamųjų patalpų nuomos sutarties sudarymu susijusias išlaidas ir jų apmokėjimo ar kompensavimo tvarką, persikėlimo (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) išlaidų apmokėjimo ar kompensavimo sąlygas ir tvarką, vienkartinės įsikūrimo išmokos mokėjimo tvarką nustato žvalgybos institucijos asignavimų valdytojas. Išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti apskaičiuojama taikant Vyriausybės nustatyto dydžio gyvenamųjų patalpų nuomos lygio vietos koeficientą. Užsienio valstybėse, kurių gyvenamųjų patalpų nuomos lygio vietos koeficiento dydžiai nėra nustatyti Vyriausybės, taikomas gyvenamųjų patalpų nuomos lygio vietos koeficientas 1,2. Išmoka apsirūpinti gyvenamosiomis patalpomis ir komunalinėms, ryšių ir kitoms su gyvenamųjų patalpų išlaikymu susijusioms išlaidoms apmokėti nemokama, jeigu žvalgybos pareigūnas toje valstybėje yra aprūpintas tarnybine gyvenamąja patalpa. Šiuo atveju žvalgybos institucijos asignavimų valdytojo nustatyta tvarka apmokamos komunalinės, ryšių ir kitos su gyvenamųjų patalpų suteikimu ir išlaikymu susijusios išlaidos.
 
 
 
 
-9. Kai su žvalgybos pareigūnu kartu gyvena jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, už kiekvieną vaiką (įvaikį) ar nepilnametį išlaikytinį žvalgybos pareigūnui kartu su tarnybiniu atlyginimu mokama kompensacija, kurią sudaro 0,2 per mėnesį žvalgybos pareigūno gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos, jeigu vaikas (įvaikis), nepilnametis išlaikytinis yra iki 6 metų, ir 0,3 per mėnesį žvalgybos pareigūno gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos, jeigu vaikas (įvaikis) ar nepilnametis išlaikytinis yra 6 ir daugiau metų. 
+15. Žvalgybos institucijos asignavimų valdytojo nustatyta tvarka apmokamos arba kompensuojamos buvusio žvalgybos pareigūno ir (ar) jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), kai tarnybos sutartis buvo nutraukta su užsienio valstybių ar tarptautinėse karinėse ar gynybos institucijose tarnavusiu žvalgybos pareigūnu ir buvęs žvalgybos pareigūnas ir (ar) jo šeimos nariai persikėlė iš užsienio valstybės į Lietuvos Respubliką per 2 mėnesius nuo sutarties nutraukimo.
 
 
 
 
-10. Kai su žvalgybos pareigūnu kartu gyvena kiti, negu šio straipsnio 8 ir 9 dalyse nurodyti, išlaikytiniai asmenys, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, žvalgybos pareigūnui kartu su tarnybiniu atlyginimu už kiekvieną išlaikytinį mokama kompensacija, kurią sudaro 0,25 per mėnesį žvalgybos pareigūno gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos.
+16. Žvalgybos pareigūno mirties ar žūties atveju apmokamos arba kompensuojamos mirusio ar žuvusio asmens asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo iš užsienio valstybės į Lietuvos Respubliką išlaidos (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų), jeigu mirusio ar žuvusio žvalgybos pareigūno šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo žvalgybos pareigūno mirties ar žūties dienos. Be to, kartu su mirusiu ar žuvusiu žvalgybos pareigūnu gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, ne ilgiau negu 3 mėnesius nuo žvalgybos pareigūno mirties ar žūties dienos, taikomos šio straipsnio 7–14 ir 26 dalyse, taip pat Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos. 
 
 
 
 
-11. Kai su žvalgybos pareigūnu kartu gyvena jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, žvalgybos pareigūnui kartu su tarnybiniu atlyginimu pagal faktines išlaidas patvirtinančius dokumentus, neviršijant Vyriausybės nustatytų normų, mokama kompensacija vaikų ikimokyklinio ugdymo išlaidoms kompensuoti.
+17. Žvalgybos institucijos asignavimų valdytojo sprendimu gali būti visiškai ar iš dalies apmokamos ar kompensuojamos kartu su žvalgybos pareigūnu užsienio valstybėje gyvenusių ir besimokiusių bei dėl žvalgybos pareigūno atšaukimo iš pareigų, atsižvelgiant į priimančiosios valstybės pranešimą, į Lietuvos Respubliką grįžusių šio straipsnio 11 dalyje nurodytų šeimos narių – vaikų (įvaikių), taip pat išlaikytinių, kurių globėju ar rūpintoju įstatymų nustatyta tvarka yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, mokymosi Lietuvos Respublikoje išlaidos iki einamųjų mokslo metų pabaigos, jeigu jie nėra priimami mokytis valstybinėje ar savivaldybės bendrojo ugdymo mokykloje, esančioje mokyklos savininko teises ir pareigas įgyvendinančios institucijos priskirtoje teritorijoje, kurioje jie gyvena, ir (arba) valstybinėje ar savivaldybės bendrojo ugdymo mokykloje nėra galimybės tęsti užsienio valstybėje pradėtos bendrojo ugdymo programos. Mokymosi išlaidų apmokama ar kompensuojama dalis, jos apskaičiavimo, apmokėjimo ar kompensavimo tvarka nustatoma šio straipsnio 11 dalyje nurodyta tvarka. Jeigu, atsižvelgiant į priimančiosios valstybės pranešimą, atšauktas iš pareigų žvalgybos pareigūnas yra perkeliamas į kitas pareigas užsienio valstybėje, šioje dalyje nustatytos garantijos netaikomos nuo jo paskyrimo į pareigas dienos.
 
 
 
 
-12. Kai su žvalgybos pareigūnu kartu gyvena ir mokosi pagal bendrojo ugdymo programas jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai ar kiti išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas žvalgybos pareigūnas ar jo sutuoktinis, žvalgybos pareigūnui kartu su tarnybiniu atlyginimu pagal faktines išlaidas patvirtinančius dokumentus, neviršijant Vyriausybės nustatytų normų, mokama kompensacija jų mokymosi išlaidoms kompensuoti, iki jie įgis vidurinį išsilavinimą. Šioje dalyje nurodyta kompensacija mokama nuo tada, kai vaikams (įvaikiams), išlaikytiniams sueina 6 metai, bet ne ilgiau, iki jiems sueis 20 metų.
+18. Žvalgybos pareigūnui, kuris užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje neaprūpinamas biurui skirtomis patalpomis, apmokama biurui skirtų patalpų nuoma, sumokami mokesčiai už nuomojamų patalpų komunalines ir ryšių paslaugas ir kiti mokesčiai, susiję su nuomojamos patalpos išlaikymu. Patalpų nuomos, mokesčių už nuomojamų patalpų komunalines ir ryšių paslaugas ir kitų mokesčių, susijusių su nuomojamos patalpos išlaikymu, išlaidų metams dydžius nustato žvalgybos institucijos asignavimų valdytojas.
 
 
 
 
-13. Žvalgybos pareigūnas, laikinai perkeltas tarnauti į užsienio valstybės ar tarptautinę karinę ar gynybos instituciją, ir jo šeimos nariai apdraudžiami sveikatos draudimu. Sveikatos draudimo išlaidos apmokamos iš žvalgybos pareigūną paskyrusiai žvalgybos institucijai skirtų valstybės biudžeto asignavimų. Valstybėse, kuriose nėra galimybių apdrausti sveikatos draudimu, išlaidos, susijusios su žvalgybos pareigūno arba jo šeimos narių asmens sveikatos priežiūra, apmokamos iš atitinkamai žvalgybos institucijai skirtų valstybės biudžeto asignavimų. Šioje dalyje nurodytos sveikatos draudimo ir su sveikatos priežiūra susijusios išlaidos apmokamos bendrai krašto apsaugos ministro ir Valstybės saugumo departamento direktoriaus nustatyta tvarka, neviršijant Vyriausybės nustatytų sveikatos draudimo ir sveikatos priežiūros išlaidų ribų. Už šeimos narius iš atitinkamai žvalgybos institucijai skirtų asignavimų taip pat mokamos privalomojo sveikatos draudimo įmokos, jeigu jos turi būti mokamos vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 11 dalimi.
+19. Žvalgybos pareigūnui, naudojančiam netarnybinį automobilį tarnybos reikmėms, kompensuojamos degalų įsigijimo ir automobilio amortizacijos išlaidos. Kompensuojamų išlaidų dydį ir kompensavimo atvejus, taip pat automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo sąlygas, tvarką ir pareigų, kurias einantiems žvalgybos pareigūnams suteikiama teisė nuomotis automobilį, sąrašą nustato žvalgybos institucijos asignavimų valdytojas. Kompensuojamų išlaidų dydis negali viršyti 0,39 Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžio.
 
 
 
 
-14. Žvalgybos pareigūnui kas mėnesį skiriama išmoka apsirūpinti jo pareigybę ir šeimos narių skaičių atitinkančiomis gyvenamosiomis patalpomis ir komunalinėms bei ryšių išlaidoms padengti. Be to, kompensuojamos žvalgybos pareigūno ir jo šeimos narių persikėlimo iš Lietuvos Respublikos į užsienio valstybę, iš užsienio valstybės į Lietuvos Respubliką ar iš vienos užsienio valstybės į kitą užsienio valstybę išlaidos, išmokama vienkartinė Vyriausybės nustatyto dydžio įsikūrimo išmoka. Išmokų apsirūpinti gyvenamosiomis patalpomis ir komunalinėms bei ryšių išlaidoms padengti dydžius ir jų skyrimo tvarką, persikėlimo (įskaitant asmeninio krovinio nugabenimą, neviršijant Vyriausybės nustatytų limitų) išlaidų kompensavimo tvarką nustato žvalgybos institucijos asignavimų valdytojas. Išmoka apsirūpinti gyvenamosiomis patalpomis nemokama, jeigu žvalgybos pareigūnas toje valstybėje aprūpintas tarnybine gyvenamąja patalpa. Šiuo atveju žvalgybos institucijos asignavimų valdytojo nustatyta tvarka apmokamos patirtos komunalinės ir ryšių išlaidos.
+20. Žvalgybos pareigūnui žvalgybos institucijos asignavimų valdytojo nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais keleivių vežimą vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais vykdančiomis transporto priemonėmis išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu žvalgybos pareigūnas gauna šio straipsnio 19 dalyje nurodytą kompensaciją.
 
 
 
 
-15. Žvalgybos pareigūnui, kuris užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje neaprūpinamas biurui skirtomis patalpomis, apmokama biurui skirtų patalpų nuoma ir sumokami mokesčiai už nuomojamų patalpų komunalines ir ryšių paslaugas. Patalpų nuomos ir mokesčių už nuomojamų patalpų komunalines ir ryšių paslaugas išlaidų metams dydžius nustato žvalgybos institucijos asignavimų valdytojas.
+21. Žvalgybos pareigūnams, kuriems užsienio valstybių ar tarptautinės karinės ar gynybos institucijos moka užmokestį už einamas pareigas ir (ar) skiria dienpinigius, šio straipsnio 5 dalyje nustatytos kompensacijos nemokamos. 
 
 
 
 
-16. Žvalgybos pareigūnui, naudojančiam netarnybinį automobilį tarnybos reikmėms, kompensuojamos degalų įsigijimo ir automobilio amortizacijos išlaidos. Kompensuojamų išlaidų dydį ir kompensavimo atvejus, taip pat automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo sąlygas, tvarką ir pareigų, kurias einantiems žvalgybos pareigūnams suteikiama teisė nuomotis automobilį, sąrašą nustato žvalgybos institucijos asignavimų valdytojas. Kompensuojamų išlaidų dydis negali viršyti 0,39 Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio per mėnesį.
-TAR pastaba. 641 straipsnio 16 dalies nuostatos pradedamos taikyti, kai Lietuvos statistikos departamentas paskelbia 2019 metų I ketvirčio šalies ūkio vidutinį mėnesinį bruto darbo užmokestį per mėnesį. Iki bus paskelbtas Lietuvos statistikos departamento 2019 metų I ketvirčio šalies ūkio vidutinis mėnesinis bruto darbo užmokestis per mėnesį, maksimaliam kompensuojamų išlaidų dydžiui nustatyti taikomas 0,5 Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio per mėnesį dydis.
+22. Žvalgybos pareigūnui mokamų šio straipsnio 7, 8 ir 9 dalyse nustatytų kompensacijų dydžiai apskaičiuojami taikant šio straipsnio 5 dalyje nurodytą su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo žvalgybos pareigūno pareigybės, ir gyvenimo lygio vietos koeficientą.
 
 
 
 
-17. Žvalgybos pareigūnams, kuriems užsienio valstybių ar tarptautinės karinės ar gynybos institucijos moka užmokestį už einamas pareigas ir (ar) skiria dienpinigius, šio straipsnio 5 dalyje nustatytos kompensacijos nemokamos. 
+23. Žvalgybos pareigūnams, perkeltiems tarnauti į užsienio valstybių ar tarptautines karines ar gynybos institucijas, esančias valstybėse, kuriose vyksta ginkluotas konfliktas, per visą tarnybos užsienio valstybių ar tarptautinėse karinėse ar gynybos institucijose, esančiose valstybėse, kuriose vyksta ginkluotas konfliktas, laikotarpį vietoj šio straipsnio 5 dalyje nustatytos kompensacijos taikomas Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 612 straipsnyje nustatytas tarnybos apmokėjimas. Žvalgybos pareigūnui mokamų šio straipsnio 7, 8 ir 9 dalyse nustatytų kompensacijų dydžiai apskaičiuojami taikant šio straipsnio 5 dalyje nurodytą su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo žvalgybos pareigūno pareigybės, ir gyvenimo lygio vietos koeficientą. 
 
 
 
 
-18. Žvalgybos pareigūnui mokamų šio straipsnio 8, 9, 10 dalyse nustatytų kompensacijų dydžiai apskaičiuojami taikant šio straipsnio 6 dalyje nurodytą su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo žvalgybos pareigūno pareigybės, ir gyvenimo lygio vietos koeficientą.
+24. Užsienio valstybių miestams, kurių gyvenimo lygio vietos ir (ar) gyvenamųjų patalpų nuomos lygio vietos koeficientai nėra nustatyti Vyriausybės, žvalgybos institucijos asignavimų valdytojas, atsižvelgdamas į miesto, kuriame žvalgybos pareigūnas yra laikinai perkeltas tarnauti, ypatumus, gyvenimo lygio pokyčius ir nekilnojamojo turto nuomos rinkos kainų pasikeitimus, turi teisę nustatyti iki 50 procentų mažesnius gyvenimo lygio vietos ir (ar) gyvenamųjų patalpų nuomos lygio vietos koeficientus, negu tai užsienio valstybei nustatytas gyvenimo lygio vietos ir (ar) gyvenamųjų patalpų nuomos lygio vietos koeficientas (jeigu toje užsienio valstybėje koeficientai nustatyti keliems vienos valstybės miestams, – iki 50 procentų mažesni koeficientai nustatomi atsižvelgiant į didžiausią tos užsienio valstybės miestui nustatytą gyvenimo lygio vietos ir (ar) gyvenamųjų patalpų nuomos lygio vietos koeficientą). 
 
 
 
 
-19. Užsienio valstybių miestams, kurių gyvenimo lygio vietos koeficientai nėra nustatyti Vyriausybės, žvalgybos institucijos asignavimų valdytojas, atsižvelgdamas į miesto, kuriame žvalgybos pareigūnas yra laikinai perkeltas dirbti, ypatumus, gyvenimo lygio kitimus ir nekilnojamojo turto nuomos rinkos kainų pasikeitimus, turi teisę nustatyti iki 50 procentų mažesnius gyvenimo lygio vietos koeficientus, negu tai užsienio valstybei nustatytas gyvenimo lygio vietos koeficientas (jeigu toje užsienio valstybėje koeficientai nustatyti keliems vienos valstybės miestams, – iki 50 procentų mažesni koeficientai nustatomi atsižvelgiant į didžiausią tos užsienio valstybės miestui nustatytą gyvenimo lygio vietos koeficientą). 
+25. Žvalgybos institucijos asignavimų valdytojas, atsižvelgdamas į Lietuvos Respublikos ekonominę padėtį, valiutų kursų svyravimus, užsienio valstybės ar miesto, kuriame atliekama tarnyba, ypatumus, gyvenimo lygio pokyčius, nekilnojamojo turto nuomos rinkos kainų pasikeitimus, turi teisę laikinai, ne dažniau kaip kartą per ketvirtį, iki 30 procentų padidinti (sumažinti) sveikatos draudimo išlaidų ribą, gyvenamųjų patalpų nuomos lygio vietos ir gyvenimo lygio vietos koeficientus. 
 
 
 
 
-20. Žvalgybos institucijos asignavimų valdytojas, atsižvelgdamas į Lietuvos Respublikos ekonominę padėtį, valiutų kursų svyravimus, užsienio valstybės ar miesto, kuriame atliekama tarnyba, ypatumus, gyvenimo lygio kitimus, nekilnojamojo turto nuomos rinkos kainų pasikeitimus, turi teisę laikinai, ne dažniau kaip kartą per ketvirtį, iki 30 procentų padidinti (sumažinti) sveikatos draudimo išlaidų ribą ir gyvenimo lygio vietos koeficientus. 
+26. Kartą per metus, skaičiuojant nuo perkėlimo tarnauti į užsienio valstybės ar tarptautinę karinę ar gynybos instituciją dienos, žvalgybos pareigūnui ir kartu su juo gyvenantiems jo šeimos nariams žvalgybos institucijos asignavimų valdytojo nustatyta tvarka apmokamos ar kompensuojamos kelionės į Lietuvos Respubliką ir atgal išlaidos, o kartu su juo negyvenantiems šeimos nariams – kelionės pas žvalgybos pareigūną ir atgal į Lietuvos Respubliką išlaidos. Jeigu sutuoktiniai yra laikinai perkelti tarnauti į skirtingas užsienio valstybes arba skirtingus tos pačios užsienio valstybės miestus, vieno iš jų pasirinkimu vietoj šioje dalyje nurodytos kelionės į Lietuvos Respubliką ir atgal apmokamos ar kompensuojamos jo ir kartu su juo gyvenančių šeimos narių kelionės į kitą užsienio valstybę ar kitą tos pačios užsienio valstybės miestą, kuriame paskirtas atlikti tarnybos kitas sutuoktinis, ir atgal išlaidos. Jeigu dėl nenumatytų objektyvių aplinkybių žvalgybos pareigūnas ir (ar) jo šeimos nariai negalėjo įgyvendinti šioje dalyje nustatytos teisės per nurodytą terminą, esant motyvuotam žvalgybos pareigūno prašymui, žvalgybos institucijos asignavimų valdytojo ar jo įgalioto asmens sprendimu šios teisės įgyvendinimo terminas pratęsiamas 6 mėnesiams. Šios garantijos taikomos ir tais atvejais, kai žvalgybos pareigūno sutuoktinis yra diplomatas, kitas valstybės tarnautojas ar profesinės karo tarnybos karys, įstatymų nustatyta tvarka atliekantis tarnybą užsienyje, arba asmuo, deleguotas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka. Ypatingais atvejais Užsienio reikalų ministerijai rekomendavus kartu su žvalgybos pareigūnu užsienio valstybėje gyvenantiems šeimos nariams laikinai grįžti į Lietuvos Respubliką apmokamos arba kompensuojamos šeimos narių kelionės į Lietuvos Respubliką ir atgal išlaidos ir ne ilgiau kaip 6 mėnesius nuo šeimos nario grįžimo į Lietuvos Respubliką dienos toliau taikomos šioje dalyje, šio straipsnio 7, 8, 9, 10, 11, 13, 14, 15, 16 ir 27 dalyse ir Valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos.
 
 
 
 
-21. Kartą per metus, skaičiuojant nuo perkėlimo dirbti į užsienio valstybės ar tarptautinę karinę ar gynybos instituciją dienos, žvalgybos pareigūnui ir kartu su juo gyvenantiems jo šeimos nariams žvalgybos institucijos asignavimų valdytojo nustatyta tvarka kompensuojamos kelionės į Lietuvos Respubliką ir atgal išlaidos, o kartu su juo negyvenantiems šeimos nariams – kelionės pas žvalgybos pareigūną ir atgal į Lietuvos Respubliką išlaidos.
+27. Žvalgybos pareigūnui ir kartu su juo vyksiančiam ir (ar) išvykusiam sutuoktiniui žvalgybos institucijos asignavimų valdytojo nustatyta tvarka gali būti apmokamos arba kompensuojamos vienos iš oficialių valstybės, kurioje žvalgybos pareigūnas atlieka tarnybą (reziduoja), kalbų ar kitos pagal poreikį užsienio kalbos mokymosi išlaidos.
 
 
-Papildyta straipsniu:
-Nr. XIII-2349, 2019-07-16, paskelbta TAR 2019-07-31, i. k. 2019-12633
+
+
+28. Užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje tarnybą atliekantiems žvalgybos pareigūnams, pasiųstiems į komandiruotę į Lietuvos Respubliką, ir jų šeimos nariams ne ilgiau kaip 6 mėnesius nuo žvalgybos pareigūno komandiruotės į Lietuvos Respubliką dienos toliau taikomos šio straipsnio 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 26 ir 27 dalyse ir Valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje nustatytos garantijos, taip pat šio straipsnio 19 dalyje nustatyta automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo garantija.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1123, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12615
  
 
 
@@ -4265,3 +4269,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 16-1, 23 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1194, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15185
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 31 ir 70 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1123, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12615
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 straipsnio pakeitimo įstatymas
