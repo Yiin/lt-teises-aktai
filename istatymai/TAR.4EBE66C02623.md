@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-10-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -592,7 +592,7 @@ Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
@@ -604,6 +604,7 @@ Nr. XIV-182, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01354
 Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
 
 
@@ -3031,7 +3032,10 @@ užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstan
 
 
 XI SKYRIUS
-ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU PILIEČIŲ RINKIMŲ TEISĖMIS IR LIETUVOS RESPUBLIKOS SEIMO, RESPUBLIKOS PREZIDENTO IR SAVIVALDYBIŲ TARYBŲ RINKIMŲ, RINKIMŲ Į EUROPOS PARLAMENTĄ AR REFERENDUMŲ TVARKA
+ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU PILIEČIŲ RINKIMŲ TEISĖMIS IR LIETUVOS RESPUBLIKOS SEIMO, RESPUBLIKOS PREZIDENTO, SAVIVALDYBIŲ TARYBŲ IR SAVIVALDYBIŲ MERŲ RINKIMŲ, RINKIMŲ Į EUROPOS PARLAMENTĄ AR REFERENDUMŲ TVARKA 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
 
 
@@ -3056,25 +3060,25 @@ užtraukia baudą nuo vieno tūkstančio vieno šimto iki trijų tūkstančių e
 85 straipsnis. Rinkimų ar referendumo agitacijos tvarkos pažeidimas
 
 
-1. Rinkimų įstatymuose ar Lietuvos Respublikos referendumo įstatyme nustatytos rinkimų ar referendumo agitacijos tvarkos pažeidimas, išskyrus šio straipsnio 3, 4, 5 dalyse numatytus pažeidimus,
-užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų, rinkimų komisijų ar referendumo komisijų nariams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams – nuo dviejų šimtų iki aštuonių šimtų septyniasdešimt eurų ir politinės kampanijos dalyviams ar politinių partijų, kurios yra politinės kampanijos dalyvės, pirmininkams – nuo trijų šimtų iki vieno tūkstančio penkiasdešimt eurų.
+1. Lietuvos Respublikos rinkimų kodekse ar Lietuvos Respublikos referendumo konstituciniame įstatyme nustatytos rinkimų ar referendumo agitacijos tvarkos pažeidimas, išskyrus šio straipsnio 3, 4, 5 dalyse numatytus pažeidimus,
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų, rinkimų komisijų ar referendumo komisijų nariams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams – nuo dviejų šimtų iki aštuonių šimtų septyniasdešimt eurų ir politinės kampanijos dalyviams ar politinių organizacijų, kurios yra politinės kampanijos dalyvės, pirmininkams – nuo trijų šimtų iki vieno tūkstančio penkiasdešimt eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, jeigu dėl to rinkimai ar referendumas pripažinti negaliojančiais,
-užtraukia baudą asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų, rinkimų komisijų ar referendumo komisijų nariams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams – nuo aštuonių šimtų penkiasdešimt iki penkių tūkstančių aštuonių šimtų eurų ir politinės kampanijos dalyviams ar politinių partijų, kurios yra politinės kampanijos dalyvės, pirmininkams – nuo vieno tūkstančio penkių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
+užtraukia baudą asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų, rinkimų komisijų ar referendumo komisijų nariams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams – nuo aštuonių šimtų penkiasdešimt iki penkių tūkstančių aštuonių šimtų eurų ir politinės kampanijos dalyviams ar politinių organizacijų, kurios yra politinės kampanijos dalyvės, pirmininkams – nuo vieno tūkstančio penkių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
 
 
 
 
-3. Trukdymas kandidatui į Respublikos Prezidentus, Lietuvos Respublikos Seimo narius, Europos Parlamento narius, savivaldybės tarybos narius ar kitam politinės kampanijos dalyviui susitikti su rinkėjais ar kitoks trukdymas vykdyti rinkimų ar referendumo agitaciją
+3. Trukdymas kandidatui į Respublikos Prezidentus, Lietuvos Respublikos Seimo narius, Europos Parlamento narius, savivaldybės tarybos narius, savivaldybės merus ar kitam politinės kampanijos dalyviui susitikti su rinkėjais ar kitoks trukdymas vykdyti rinkimų ar referendumo agitaciją
 užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų ir rinkimų komisijų ar referendumo komisijų nariams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams – nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
 
 
-4. Rinkimų ar referendumo agitacijos draudimo pažeidimas likus trisdešimt valandų iki Lietuvos Respublikos Seimo, Respublikos Prezidento, savivaldybių tarybų rinkimų, rinkimų į Europos Parlamentą ar referendumo pradžios, taip pat rinkimų, referendumo dieną 
+4. Rinkimų ar referendumo agitacijos draudimo pažeidimas likus septynioms valandoms iki balsavimo Lietuvos Respublikos Seimo, Respublikos Prezidento, savivaldybių tarybų ir savivaldybių merų rinkimų, rinkimų į Europos Parlamentą ar referendumo dieną pradžios, taip pat rinkimų, referendumo dieną 
 užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir rinkimų komisijų ar referendumo komisijų nariams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams – nuo trijų šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
 
 
@@ -3082,9 +3086,29 @@ užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų e
 
 5. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas visuomenės informavimo priemonėse,
 užtraukia baudą viešosios informacijos rengėjų, skleidėjų vadovams arba kitiems už viešosios informacijos skleidimą ar visuomenės informavimo priemonių turinį atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
 
 
+
+
+851 straipsnis. Kompromituojančios informacijos ar atsakomosios nuomonės skelbimo tvarkos pažeidimas
+
+
+Lietuvos Respublikos rinkimų kodekse nustatytų kompromituojančios informacijos skelbimo ribojimų ar atsakomosios nuomonės apie rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą skelbimo tvarkos pažeidimas 
+
+
+
+
+užtraukia baudą viešosios informacijos rengėjų ar skleidėjų vadovams arba kitiems už viešosios informacijos skleidimą ar visuomenės informavimo priemonės turinį atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
+ 
 
 
 
@@ -3092,15 +3116,17 @@ užtraukia baudą viešosios informacijos rengėjų, skleidėjų vadovams arba k
 86 straipsnis. Rinkimų ar referendumo stebėtojų teisių pažeidimas
 
 
-Rinkimų įstatymuose ar Lietuvos Respublikos referendumo įstatyme numatytų rinkimų ar referendumo stebėtojų teisių pažeidimas
+Lietuvos Respublikos rinkimų kodekse ar Lietuvos Respublikos referendumo konstituciniame įstatyme numatytų rinkimų ar referendumo stebėtojų teisių pažeidimas 
 
 
 
 
 užtraukia baudą asmenims nuo trisdešimt iki dviejų šimtų devyniasdešimt eurų ir rinkimų komisijų ar referendumo komisijų nariams arba kitiems atsakingiems asmenims – nuo dviejų šimtų iki aštuonių šimtų septyniasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
-
-
 
 
 
@@ -3123,20 +3149,28 @@ užtraukia baudą rinkimų komisijų ar referendumo komisijų nariams arba kitie
 
 
 
-88 straipsnis. Lietuvos Respublikos referendumo, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos, Lietuvos Respublikos Prezidento rinkimų, Lietuvos Respublikos Seimo rinkimų ir Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymuose nustatytos piliečių parašų rinkimo tvarkos pažeidimas 
+88 straipsnis. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatyme, Lietuvos Respublikos rinkimų kodekse nustatytos piliečių parašų rinkimo tvarkos pažeidimas
 
 
-1. Lietuvos Respublikos referendumo, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos, Lietuvos Respublikos Prezidento rinkimų, Lietuvos Respublikos Seimo rinkimų ir Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymuose nustatytos piliečių parašų rinkimo tvarkos pažeidimas
+1. Lietuvos Respublikos referendumo konstituciniame įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatyme, Lietuvos Respublikos rinkimų kodekse  nustatytos piliečių parašų rinkimo tvarkos pažeidimas 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų. 
+
+
+
+
+3. Draudimo papirkti kandidato išsikėlimą ir (arba) keliamus kandidatus remiančius rinkėjus, jiems atsilyginti ar žadėti atsilyginti už kandidato parėmimą, taip pat grasinant reikalauti pasirašyti rinkėjų parašų rinkimo lape ar elektroniniu būdu arba kitaip pažeisti savanoriškumo principą pažeidimas
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
-
-
 
 
 
@@ -3167,22 +3201,22 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-90 straipsnis. Balsavimo rinkimuose ar referendume tvarkos pažeidimas 
+90 straipsnis. Balsavimo rinkimuose ar referendume tvarkos pažeidimas
 
 
-1. Rinkėjų balsavimo slaptumo pažeidimas rinkimuose ar referendume 
+1. Rinkėjų balsavimo slaptumo pažeidimas rinkimuose ar referendume
 užtraukia įspėjimą arba baudą asmenims nuo dvidešimt iki penkiasdešimt eurų ir baudą rinkimų komisijų ar referendumo komisijų nariams, universaliųjų pašto paslaugų teikėjo darbuotojams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
 
 
 
 
-2. Rinkimų įstatymuose ar Lietuvos Respublikos referendumo įstatyme nustatytos rinkėjų balsavimo paštu, namuose, Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, laivuose, sveikatos priežiūros, socialinės rūpybos ir globos įstaigose, kariniuose vienetuose, bausmių vykdymo įstaigose tvarkos pažeidimas
+2. Lietuvos Respublikos rinkimų kodekse nustatytos rinkėjų balsavimo namuose, Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, laivuose, sveikatos priežiūros įstaigose (išskyrus ambulatorines įstaigas), socialinės globos įstaigose, kariniuose vienetuose, teritorinių policijos įstaigų areštinėse, suėmimo vykdymo ir arešto bei laisvės atėmimo bausmių atlikimo vietose tvarkos pažeidimas
 užtraukia įspėjimą arba baudą asmenims nuo trisdešimt iki vieno šimto keturiasdešimt eurų ir baudą rinkimų komisijų ar referendumo komisijų nariams, universaliųjų pašto paslaugų teikėjo darbuotojams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams nuo devyniasdešimt iki trijų šimtų eurų.
 
 
 
 
-3. Rinkimų įstatymuose ar Lietuvos Respublikos referendumo įstatyme nustatytos rinkėjų balsavimo tvarkos pažeidimas, jeigu rinkėjas tuose pačiuose rinkimuose ar referendume apgaulės būdu balsavo daugiau negu vieną kartą arba neteisėtai balsavo už kitą asmenį,
+3. Lietuvos Respublikos rinkimų kodekse nustatytos rinkėjų balsavimo tvarkos pažeidimas, jeigu rinkėjas tuose pačiuose rinkimuose ar referendume apgaulės būdu balsavo daugiau negu vieną kartą arba neteisėtai balsavo už kitą asmenį,
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
@@ -3196,18 +3230,17 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eur�
 
 5. Rinkėjo balsavimas už atlygį ar siūlymasis balsuoti už atlygį rinkimuose ar referendume
 užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1463, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11778
- 
 
 
 
 
-6. Kitoks rinkimų įstatymuose ar Lietuvos Respublikos referendumo įstatyme nustatytos balsavimo tvarkos pažeidimas
+6. Kitoks Lietuvos Respublikos rinkimų kodekse nustatytos balsavimo tvarkos pažeidimas
 užtraukia įspėjimą arba baudą asmenims nuo dvidešimt iki vieno šimto keturiasdešimt eurų ir baudą rinkimų komisijų ar referendumo komisijų nariams, universaliųjų pašto paslaugų teikėjo darbuotojams, kitiems atsakingiems asmenims, taip pat rinkimų ar referendumo stebėtojams nuo trisdešimt iki vieno šimto devyniasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
-
-
 
 
 
@@ -3231,23 +3264,25 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 92 straipsnis. Politinės reklamos skleidimo reikalavimų nesilaikymas
 
 
-1. Išorinės politinės reklamos įrengimo ir skleidimo nustatytos tvarkos pažeidimas
-užtraukia baudą asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų ir politinės kampanijos dalyviams ar politinių partijų, kurios yra politinės kampanijos dalyvės, pirmininkams – nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+1. Išorinės politinės reklamos įrengimo ir skleidimo nustatytos tvarkos pažeidimas 
+užtraukia baudą asmenims nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų ir politinės kampanijos dalyviams ar politinių organizacijų, kurios yra politinės kampanijos dalyvės, pirmininkams – nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 
 
 
-2. Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatyme, rinkimų įstatymuose ir Lietuvos Respublikos referendumo įstatyme nustatytų politinės reklamos skleidimo reikalavimų nesilaikymas
+2. Lietuvos Respublikos rinkimų kodekse nustatytų politinės reklamos skleidimo reikalavimų nesilaikymas 
 užtraukia baudą viešosios informacijos rengėjų ar skleidėjų vadovams arba kitiems už viešosios informacijos skleidimą ar visuomenės informavimo priemonės turinį atsakingiems asmenims nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 
 
 
-3. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+3. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
 užtraukia baudą viešosios informacijos rengėjų ar skleidėjų vadovams arba kitiems už viešosios informacijos skleidimą ar visuomenės informavimo priemonės turinį atsakingiems asmenims nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
-
-
 
 
 
@@ -3255,92 +3290,85 @@ užtraukia baudą viešosios informacijos rengėjų ar skleidėjų vadovams arba
 93 straipsnis. Politinių kampanijų finansavimo tvarkos pažeidimas
 
 
-1. Didesnės kaip dvylika eurų aukos (aukų sumos) suteikimas tam pačiam savarankiškam politinės kampanijos dalyviui tos pačios politinės kampanijos metu nedeklaravus turto ir pajamų 
+1. Mažos aukos suteikimas tam pačiam savarankiškam politinės kampanijos dalyviui tos pačios politinės kampanijos metu nedeklaravus pajamų  
 užtraukia baudą aukotojui nuo trisdešimt iki vieno šimto penkiasdešimt eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų.
 
 
 
 
-3. Aukų politinei kampanijai apskaitos tvarkos pažeidimas
+3. Aukų politinei kampanijai apskaitos tvarkos pažeidimas 
 užtraukia baudą politinės kampanijos iždininkams ar politinės kampanijos dalyviams nuo vieno šimto penkiasdešimt iki aštuonių šimtų šešiasdešimt eurų.
 
 
 
 
 4. Politinės kampanijos dalyvio finansavimas ar rėmimas neturint tam teisės 
-užtraukia baudą auką suteikusiam asmeniui nuo vieno šimto penkiasdešimt iki aštuonių šimtų šešiasdešimt eurų ir auką suteikusio juridinio asmens vadovui ar kitam už sprendimo priėmimą atsakingam asmeniui – nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
+užtraukia baudą auką suteikusiam asmeniui nuo vieno šimto penkiasdešimt iki aštuonių šimtų šešiasdešimt eurų ir auką suteikusio juridinio asmens vadovui ar kitam už sprendimo priėmimą atsakingam asmeniui – nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų.
+
+
+
+
+5. Išlaidų politinei kampanijai apskaitos tvarkos pažeidimas 
+užtraukia baudą politinės kampanijos iždininkams ar politinės kampanijos dalyviams nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+
+
+
+6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo septynių šimtų iki dviejų tūkstančių trijų šimtų eurų. 
+
+
+
+
+7. Telefonu aukojamų mažų aukų priėmimo, apskaitos ir pervedimo savarankiškam politinės kampanijos dalyviui tvarkos pažeidimas 
+užtraukia baudą mažų aukų rinkimo telefonu paslaugą savarankiškam politinės kampanijos dalyviui teikiančios telekomunikacijų bendrovės vadovui nuo dviejų šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
+8. Aukų politinei kampanijai gavimas, turtinių prievolių dėl išlaidų politinei kampanijai prisiėmimas neužsiregistravus savarankiškuoju politinės kampanijos dalyviu 
+užtraukia baudą privalančių registruotis politinių organizacijų pirmininkams ar privalantiems registruotis asmenims nuo trijų šimtų iki dviejų tūkstančių eurų.
+
+
+
+
+9. Kitoks, negu numatyta šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, politinių kampanijų finansavimo tvarkos pažeidimas 
+užtraukia baudą politinės kampanijos iždininkams ar politinės kampanijos dalyviams nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+
+
+
+10. Šiame kodekse nurodyta maža auka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos rinkimų kodekse.
+ 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
 
 
 
 
-5. Išlaidų politinei kampanijai apskaitos tvarkos pažeidimas
-užtraukia baudą politinės kampanijos iždininkams ar politinės kampanijos dalyviams nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
- 
+94 straipsnis. Nepranešimas apie atsiradusius savivaldybės tarybos nario, savivaldybės mero įgaliojimų nutrūkimo prieš terminą pagrindus
 
 
-
-
-6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo devynių šimtų iki keturių tūkstančių trijų šimtų eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
- 
-
-
-
-
-7. Telefonu aukojamų aukų iki dvylikos eurų priėmimo, apskaitos ir pervedimo savarankiškam politinės kampanijos dalyviui tvarkos pažeidimas 
-užtraukia baudą aukų iki dvylikos eurų rinkimo telefonu paslaugą savarankiškam politinės kampanijos dalyviui teikiančios telekomunikacijų bendrovės vadovui nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
- 
-
-
-
-
-8. Aukų politinei kampanijai gavimas, turtinių prievolių dėl išlaidų politinei kampanijai prisiėmimas neužsiregistravus savarankiškuoju politinės kampanijos dalyviu
-užtraukia baudą privalančių registruotis politinių partijų pirmininkams ar privalantiems registruotis asmenims nuo šešių šimtų iki penkių tūkstančių aštuonių šimtų eurų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
- 
-
-
-
-
-9. Kitoks, negu numatyta šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, politinių kampanijų finansavimo tvarkos pažeidimas
-užtraukia baudą politinės kampanijos iždininkams ar politinės kampanijos dalyviams nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
- 
-
-
-
-
-
-
-94 straipsnis. Nepranešimas apie atsiradusius savivaldybės tarybos nario įgaliojimų nutrūkimo prieš terminą pagrindus
-
-
-Savivaldybės tarybos nario nepranešimas Lietuvos Respublikos vyriausiajai rinkimų komisijai apie perėjimą į pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, arba apie pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis, ėjimą 
+Savivaldybės tarybos nario, savivaldybės mero nepranešimas Lietuvos Respublikos vyriausiajai rinkimų komisijai apie perėjimą į pareigas, nesuderinamas su savivaldybės tarybos nario ar savivaldybės mero pareigomis, arba apie pareigų, nesuderinamų su savivaldybės tarybos nario ar savivaldybės mero pareigomis, ėjimą 
 
 
 
 
 užtraukia baudą nuo devynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
-
-
 
 
 
@@ -19197,11 +19225,11 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-544 straipsnis. Politinių partijų finansavimo tvarkos pažeidimas
+544 straipsnis. Politinių organizacijų ir analitinių centrų finansavimo tvarkos pažeidimas
 
 
-1. Aukų politinei partijai apskaitos tvarkos pažeidimas
-užtraukia baudą už politinės partijos apskaitą atsakingam asmeniui ar politinės partijos pirmininkui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+1. Politinės organizacijos gautų lėšų apskaitos tvarkos pažeidimas
+užtraukia baudą už politinės organizacijos finansinę apskaitą atsakingam asmeniui ar politinės organizacijos pirmininkui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
 
@@ -19212,30 +19240,27 @@ užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų p
 
 
 
-3. Politinės partijos finansavimas neturint tam teisės 
+3. Politinės organizacijos ar analitinio centro finansavimas neturint tam teisės 
 užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki aštuonių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
+
+
+
+
+4. Kitoks, negu nustatyta šio straipsnio 1, 2, 3 dalyse, politinės organizacijos ar analitinio centro finansavimo tvarkos pažeidimas
+užtraukia baudą už politinės organizacijos ar analitinio centro finansinę apskaitą atsakingam asmeniui ar politinės organizacijos pirmininkui, ar analitinio centro vadovui nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
 
 
 
 
-4. Kitoks, negu nustatyta šio straipsnio 1, 2, 3 dalyse, politinės partijos finansavimo tvarkos pažeidimas
-užtraukia baudą už politinės partijos apskaitą atsakingam asmeniui ar politinės partijos pirmininkui nuo vieno šimto penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2567, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19879
- 
+545 straipsnis. Politinės organizacijos, analitinio centro, politinės kampanijos dalyvio, viešosios informacijos rengėjo ar skleidėjo duomenų ir dokumentų nepateikimas
 
 
-
-
-
-
-545 straipsnis. Politinės partijos, politinės kampanijos dalyvio, viešosios informacijos rengėjo ar skleidėjo duomenų ir dokumentų nepateikimas 
-
-
-1. Duomenų arba dokumentų nepateikimas pažeidžiant Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo reikalavimus, kai tai padaro politinės kampanijos dalyvis ar politinės kampanijos iždininkas,
+1. Duomenų arba dokumentų nepateikimas pažeidžiant Lietuvos Respublikos rinkimų kodekso reikalavimus, kai tai padaro politinės kampanijos dalyvis ar politinės kampanijos iždininkas,
 užtraukia baudą politinės kampanijos dalyviui ar politinės kampanijos iždininkui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
@@ -19247,17 +19272,19 @@ užtraukia baudą viešosios informacijos rengėjui ar skleidėjui nuo vieno ši
 
 
 
-3. Politinės partijos finansinių ataskaitų rinkinio ir Lietuvos Respublikos politinių partijų įstatyme nustatytų finansinių ataskaitų rinkinio priedų ir auditoriaus ataskaitos dėl pastebėtų faktų, kai ši ataskaita privaloma, nepateikimas 
-užtraukia baudą politinės partijos pirmininkui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+3. Politinės organizacijos, analitinio centro finansinių ataskaitų rinkinio ir Lietuvos Respublikos politinių organizacijų įstatyme nustatytų finansinių ataskaitų rinkinio priedų ir auditoriaus ataskaitos dėl pastebėtų faktų, kai ši ataskaita privaloma, nepateikimas 
+užtraukia baudą politinės organizacijos pirmininkui ar analitinio centro vadovui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
 
 
-4. Aukas iki vienuolikos eurų telefonu paaukojusių asmenų sąrašo su aukotojus nustatyti leidžiančiais duomenimis nepateikimas 
-užtraukia baudą aukų iki vienuolikos eurų rinkimo telefonu paslaugą savarankiškam politinės kampanijos dalyviui teikiančios telekomunikacijų bendrovės vadovui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+4. Mažas aukas telefonu paaukojusių asmenų sąrašo su aukotojus nustatyti leidžiančiais duomenimis nepateikimas 
+užtraukia baudą mažų aukų rinkimo telefonu paslaugą savarankiškam politinės kampanijos dalyviui teikiančios telekomunikacijų bendrovės vadovui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
  
-
-
 
 
 
@@ -26358,3 +26385,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
 Lietuvos Respublikos administracinių nusižengimų kodekso 101, 393, 448, 450, 451, 452, 453, 454, 456, 459, 463, 589, 611 straipsnių ir priedo pakeitimo įstatymas
+ 
+174.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 85, 86, 88, 90, 92, 93, 94, 223, 544, 545 straipsnių, XI skyriaus pavadinimo pakeitimo ir Kodekso papildymo 85-1 straipsniu įstatymas
