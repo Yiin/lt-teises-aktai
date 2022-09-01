@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-08-31
+Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -486,7 +486,7 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 
 
 
-2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus arba Pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytą įpareigojimą į Vyriausybės įgaliotos institucijos administruojamą sąskaitą mokėti įmokas, reikalingas pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, ir yra bent viena iš šių sąlygų:
+2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) ir (arba) nevykdo šio įstatymo 45 straipsnio 1 dalies 41 ir (arba) 6 punktuose nustatytų pareigų, ir yra bent viena iš šių sąlygų:
 
 
 a) yra realus pavojus pacientų sveikatai ar gyvybei;
@@ -494,12 +494,13 @@ a) yra realus pavojus pacientų sveikatai ar gyvybei;
 
 
 
-b) per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustatytą licencijuojamos veiklos pažeidimų pašalinimo terminą, kuris negali būti ilgesnis kaip 30 dienų nuo licencijos asmens sveikatos priežiūros veiklai turėtojo informavimo apie pažeidimo padarymą dienos, asmens sveikatos priežiūros įstaiga Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka nepašalina licencijuojamos veiklos pažeidimų.
+b) per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustatytą licencijuojamos veiklos pažeidimų pašalinimo terminą, kuris negali būti ilgesnis kaip 30 dienų nuo asmens sveikatos priežiūros veiklos licencijos turėtojo informavimo apie pažeidimo padarymą dienos, asmens sveikatos priežiūros įstaiga Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka nepašalina licencijuojamos veiklos pažeidimų.
 
 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
 Nr. XIII-3339, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24228
+Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
  
 
 
@@ -507,9 +508,11 @@ Nr. XIII-3339, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24228
 
 
 
-111. Licencijos asmens sveikatos priežiūros veiklai ar jos dalies galiojimas stabdomas tik toms asmens sveikatos priežiūros paslaugoms, kurias teikiant nustatyti pažeidimai. 
+111. Asmens sveikatos priežiūros veiklos licencijos ar jos dalies galiojimas stabdomas tik toms asmens sveikatos priežiūros paslaugoms, kurias teikiant nustatyti pažeidimai. Jeigu asmens sveikatos priežiūros įstaiga nevykdo šio įstatymo 45 straipsnio 1 dalies 41 punkte nustatytos pareigos Sveikatos apsaugos ministerijos valdomos Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinės sistemos (toliau – ESPBI IS) veiklą reguliuojančių teisės aktų nustatyta tvarka sudaryti sutartį dėl naudojimosi ESPBI IS ir (arba) šio įstatymo 45 straipsnio 1 dalies 6 punkte nustatytos pareigos, asmens sveikatos priežiūros veiklos licencijos galiojimas stabdomas visoms asmens sveikatos priežiūros paslaugoms.
 Papildyta straipsnio dalimi:
 Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+Straipsnio dalies pakeitimai:
+Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
  
 
 
@@ -965,9 +968,18 @@ Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
 
 
 
-6. Universitetų ligoninių sveikatos priežiūros specialistai į darbą priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos vadovas. 
+6. Universitetų ligoninių sveikatos priežiūros specialistai (išskyrus gydytojus rezidentus ir gydytojus odontologus rezidentus) į darbą priimami viešo konkurso būdu. Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos vadovas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+Nr. XIV-1292, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15198
+ 
+
+
+
+
+61. Universitetų ligoninių sveikatos priežiūros specialistų kvalifikacijai, gebėjimams atlikti pareigybės aprašyme (pareiginėje instrukcijoje) nustatytas funkcijas ir pasiektiems veiklos rezultatams įvertinti ne dažniau kaip kas penkerius metus gali būti organizuojamos atestacijos. Atestacijos organizuojamos šioje dalyje ir universitetų ligoninių vadovų nustatyta tvarka, taikant informavimo ir konsultavimo procedūras Darbo kodekso nustatyta tvarka. Laikotarpis, kai universitetų ligoninių sveikatos priežiūros specialistai buvo nėštumo ir gimdymo atostogose, tėvystės atostogose ir atostogose vaikui prižiūrėti, į atestacijos laikotarpį neįskaitomas. Jeigu per atestaciją universiteto ligoninės sveikatos priežiūros specialistas įvertinamas nepatenkinamai, sudaromas jo veiklos rezultatų gerinimo planas, apimantis ne trumpesnį negu dviejų mėnesių laikotarpį. Pasibaigus šio plano įgyvendinimo laikotarpiui, organizuojama pakartotinė atestacija. Jeigu universiteto ligoninės sveikatos priežiūros specialisto veiklos rezultatų gerinimo plano vykdymo rezultatai per pakartotinę atestaciją įvertinami nepatenkinamai, jis atleidžiamas iš pareigų. Universiteto ligoninių vadovų sudaromų atestacijų komisijų posėdžiuose stebėtojo teisėmis turi teisę dalyvauti vienas darbuotojų atstovavimą įgyvendinančių asmenų atstovas.
+Papildyta straipsnio dalimi:
+Nr. XIV-1292, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15198
  
 
 
@@ -2457,7 +2469,7 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-3) specializuotos ligoninės, medicininės reabilitacijos ir sanatorinio gydymo įstaigos.
+3) specializuotos ligoninės, medicininės reabilitacijos ir sanatorinio gydymo įstaigos;
 
 
 Straipsnio dalies pakeitimai:
@@ -3917,3 +3929,23 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 45, 5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-794, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27370
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 24 straipsnio pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1031, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08773
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2 ir 15 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1112, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11873
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 39 straipsnio pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1211, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15575
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 45 straipsnio pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1292, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15198
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15 straipsnio pakeitimo įstatymas
