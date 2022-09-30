@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2022-06-02 iki 2022-09-29
+Suvestinė redakcija nuo 2022-09-30 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -1659,7 +1659,10 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 
 
-4. Kompensacijos skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl kompensacijų ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos kompensacijos, turi teisę gauti kompensacijas.
+4. Kompensacijos skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio, o jeigu dėl kompensacijų kreipiamasi likus vienam mėnesiui iki šildymo sezono pradžios mėnesio ar vėliau arba šildymo sezono metu, kompensacijos skiriamos visam šildymo sezono laikotarpiui, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl kompensacijų ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos kompensacijos, turi teisę gauti kompensacijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1428, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19806
+ 
 
 
 
@@ -2648,3 +2651,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1108, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11866
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir 23 straipsnių pakeitimo įstatymo Nr. XIII-2883 11 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1428, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19806
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 21 straipsnio pakeitimo įstatymas
