@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e58cadd035b811edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos politinių organizacijų įstatymas
 
+Suvestinė redakcija nuo 2022-09-30 iki 2024-11-22
+ 
+Įstatymas paskelbtas: TAR 2022-09-16, i. k. 2022-19004
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 POLITINIŲ ORGANIZACIJŲ
 ĮSTATYMAS
@@ -1657,7 +1664,10 @@ Pripažinti netekusiu galios Lietuvos Respublikos politinių partijų įstatymą
 38 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2022 m. rugsėjo 1 d.
+1. Neteko galios nuo 2022-09-30
+Straipsnio dalies naikinimas:
+Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
+ 
 
 
 
@@ -1667,7 +1677,10 @@ Pripažinti netekusiu galios Lietuvos Respublikos politinių partijų įstatymą
 
 
 
-3. Vyriausybė iki 2022 m. rugpjūčio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
+3. Vyriausybė iki 2022 m. rugsėjo 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
+ 
 
 
 
@@ -1835,3 +1848,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1429, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19809
+Lietuvos Respublikos politinių organizacijų įstatymo Nr. XIV-1415 38 straipsnio pakeitimo įstatymas
