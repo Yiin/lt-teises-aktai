@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-09-30
+Suvestinė redakcija nuo 2022-10-01 iki 2022-10-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -1682,9 +1682,10 @@ Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 
 
 
-2) Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ir (ar) karantiną ir darbdavys dėl to negali suteikti darbuotojui darbo sutartyje sulygto darbo, nes dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu, arba darbuotojas nesutinka dirbti kito jam pasiūlyto darbo. 
+2) darbdavys negali suteikti darbuotojui darbo sutartyje sulygto darbo dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino laikotarpiu nustatytų veiklos ribojimų ir dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu arba kai darbuotojas nesutinka dirbti kito jam pasiūlyto darbo.
 Straipsnio punkto pakeitimai:
 Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
+Nr. XIV-975, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06312
  
 
 
@@ -1710,12 +1711,18 @@ Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
 
 
 
-4) kalendorinį mėnesį, kurį darbuotojui buvo paskelbta prastova, darbuotojo gaunamas darbo užmokestis už tą mėnesį negali būti mažesnis negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga, kai jo darbo sutartyje sulygta visa darbo laiko norma;
+4) kiekvieną kalendorinį mėnesį darbuotojo prastovos laikotarpiu darbuotojo gaunamas darbo užmokestis už tą mėnesį negali būti mažesnis negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga, kai jo darbo sutartyje sulygta visa darbo laiko norma;
+Straipsnio punkto pakeitimai:
+Nr. XIV-975, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06312
+ 
 
 
 
 
-5) darbdavys gali paskelbti darbuotojui dalinę prastovą, kai tam tikram laikotarpiui sumažinamas darbo dienų per savaitę skaičius (ne mažiau kaip dviem darbo dienomis) ar darbo valandų per dieną skaičius (ne mažiau kaip trimis darbo valandomis). Dalinės prastovos laikotarpiais, kai darbuotojas neprivalo būti darbe, jam mokamas darbo užmokestis šios dalies 2 ir 3 punktuose nustatyta tvarka. 
+5) darbdavys gali paskelbti darbuotojui dalinę prastovą tam tikram laikotarpiui sumažindamas darbuotojo darbo laiko normą per savaitę (ne mažiau kaip keturiasdešimt procentų darbo laiko normos, o jeigu trumpinamas darbo valandų per dieną skaičius, darbo diena negali būti trumpesnė negu trys valandos), raštu nustatydamas, kuriomis dienomis darbuotojas dirbs, paliekamos dirbti darbo dienos pradžią ir pabaigą ir dalinės prastovos laiką. Dalinės prastovos laikotarpiais už laiką, kai darbuotojas neprivalo būti darbe, jam mokama šios dalies 2 ir 3 punktuose nustatyta tvarka.
+Straipsnio punkto pakeitimai:
+Nr. XIV-975, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06312
+ 
 
 
 
@@ -1725,8 +1732,10 @@ Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
 3. Paskelbus prastovą šio straipsnio 1 dalies 2 punkte nustatytu atveju:
 
 
-1) ne vėliau kaip per vieną darbo dieną nuo prastovos paskelbimo darbdavys Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka informuoja Valstybinę darbo inspekciją apie prastovos paskelbimą darbuotojui;
-TAR pastaba. Darbdaviai, iki įstatymo Nr. XIII-2832 įsigaliojimo (2020-04-08) paskelbę darbuotojams prastovą Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju, ne vėliau kaip per tris darbo dienas nuo šio įstatymo įsigaliojimo informuoja Lietuvos Respublikos valstybinę darbo inspekciją prie Socialinės apsaugos ir darbo ministerijos apie prastovos paskelbimą darbuotojams, vadovaudamiesi Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus šio įstatymo 1 straipsniu keičiamo Lietuvos Respublikos darbo kodekso 47 straipsnio 3 dalies 1 punkte nustatyta tvarka.
+1) ne vėliau kaip prieš darbuotojo darbo dieną (pamainą) iki prastovos arba dalinės prastovos paskelbimo arba atšaukimo darbdavys apie prastovos paskelbimą darbuotojui ir jos atšaukimą informuoja Valstybinę darbo inspekciją per Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos informacinę sistemą Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus nustatyta ir su Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos suderinta tvarka. Valstybinei darbo inspekcijai pateikti duomenys ne vėliau kaip prieš vieną darbo dieną iki jų pasikeitimo turi būti tikslinami, kai prastova yra pratęsiama ar keičiasi kita nustatyta tvarka pateikta informacija apie paskelbtą prastovą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-975, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06312
+ 
 
 
 
@@ -1741,7 +1750,10 @@ TAR pastaba. Darbdaviai, iki įstatymo Nr. XIII-2832 įsigaliojimo (2020-04-08) 
 
 
 
-4) darbdavys gali paskelbti darbuotojui dalinę prastovą, kai tam tikram laikotarpiui sumažinamas darbo dienų per savaitę skaičius (ne mažiau kaip dviem darbo dienomis) ar darbo valandų per dieną skaičius (ne mažiau kaip trimis darbo valandomis). Tokiu atveju už darbo laiką mokamas darbo užmokestis, o už prastovos laiką mokama šios dalies 3 punkte nustatyta tvarka proporcingai.
+4) darbdavys gali paskelbti darbuotojui dalinę prastovą tam tikram laikotarpiui sumažindamas darbuotojo darbo laiko normą per savaitę (ne mažiau kaip keturiasdešimt procentų darbo laiko normos, o jeigu trumpinamas darbo valandų per dieną skaičius, darbo diena negali būti trumpesnė negu trys valandos), raštu nustatydamas, kuriomis dienomis darbuotojas dirbs, paliekamos dirbti darbo dienos pradžią ir pabaigą ir dalinės prastovos laiką. Tokiu atveju už darbo laiką mokamas darbo užmokestis, o už dalinės prastovos laiką mokama šios dalies 3 punkte nustatyta tvarka proporcingai.
+Straipsnio punkto pakeitimai:
+Nr. XIV-975, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06312
+ 
 
 
 
@@ -9966,7 +9978,7 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 
 
-part_0c8dc7c0e6c64efe9fe57f42be768379_end
+part_d5c18c15efc04d7cb2d04d22c5f84b6a_end
 
 
 Lietuvos Respublikos
@@ -10218,3 +10230,8 @@ Lietuvos Respublikos darbo kodekso 14, 25, 27, 30, 52, 58, 139, 144, 221, 222, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 Lietuvos Respublikos darbo kodekso 1, 2, 25, 26, 30, 36, 40, 44, 46, 51, 52, 55, 56, 57, 59, 72-1, 75, 79, 107, 113, 117, 126, 133, 134, 137, 138, 169, 171 straipsnių ir priedo pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-975, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06312
+Lietuvos Respublikos darbo kodekso 47 straipsnio pakeitimo įstatymas
