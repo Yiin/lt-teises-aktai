@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-09-30
+Suvestinė redakcija nuo 2022-10-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -7478,6 +7478,45 @@ Nr. XIV-942, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05121
 
 
 
+1253 straipsnis. PVM kompensavimas iš biudžeto
+
+
+1. Iš valstybės biudžeto kompensuojamas už šio Įstatymo 19 straipsnio 3 dalies 1 punkte nurodytas prekes apskaičiuotas PVM – 9 procentinių punktų tarifo dydžio.
+
+
+
+
+2. Šio straipsnio nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė. 
+TAR pastaba. 1253 straipsnis netenka galios 2023-05-01.
+
+
+Papildyta straipsniu:
+Nr. XIV-1427, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19804
+ 
+
+
+
+
+1254 straipsnis. PVM kompensavimas iš biudžeto
+
+
+1. Iš valstybės biudžeto kompensuojamas už šio Įstatymo 19 straipsnio 3 dalies 1 punkte nurodytas prekes apskaičiuotas PVM – 9 procentinių punktų tarifo dydžio.
+
+
+
+
+2. Šio straipsnio nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė. 
+TAR pastaba. Įstatymas papildomas 1254 straipsniu 2023-10-01. 
+1254 straipsnis netenka galios 2024-05-01.
+
+
+Papildyta straipsniu:
+Nr. XIV-1427, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19804
+ 
+
+
+
+
 126 straipsnis. Įstatymo įsigaliojimas
 
 
@@ -7880,7 +7919,7 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Priedo pakeitimai:
 Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
  
-part_98c9d7171da049c0b6996c0c8b1a1499_end
+part_2eafcd7b28534f30b0f0503b3384610b_end
 
 
  
@@ -8329,3 +8368,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 papildy
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1056, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09433
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 papildymo 50-1 straipsniu ir 2 priedo pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1427, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19804
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 papildymo 125-3, 125-4 straipsniais ir 125-3, 125-4 straipsnių pripažinimo netekusiais galios įstatymas
