@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2f22d6604dbe11ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-08 iki 2022-10-14
+Suvestinė redakcija nuo 2022-10-15 iki 2022-12-21
  
 Įstatymas paskelbtas: TAR 2021-11-25, i. k. 2021-24219
  
@@ -31,7 +31,6 @@ Vilnius
 
  
 
- 
  
 
 
@@ -5225,7 +5224,18 @@ priedas
 
 
 
-3. Šio įstatymo 20 straipsnio 2 dalis, 27 straipsnis ir 31 straipsnio 1 ir 3 dalys įsigalioja 2023 m. sausio 1 d.
+3. Šio įstatymo 20 straipsnio 2 dalis ir 27 straipsnis įsigalioja 2023 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1443, 2022-10-10, paskelbta TAR 2022-10-14, i. k. 2022-20974
+ 
+
+
+
+
+31. Šio įstatymo 31 straipsnio 1 ir 3 dalys įsigalioja 2026 m. sausio 1 d.
+Papildyta straipsnio dalimi:
+Nr. XIV-1443, 2022-10-10, paskelbta TAR 2022-10-14, i. k. 2022-20974
+ 
 
 
 
@@ -5309,5 +5319,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1247, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14914
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymo Nr. XIV-627 20 straipsnio pakeitimo įstatymas
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1443, 2022-10-10, paskelbta TAR 2022-10-14, i. k. 2022-20974
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymo Nr. XIV-627 64 straipsnio pakeitimo įstatymas
  
-part_4bf18936a4e84e059daac0a3e05c8bfb_end
+ 
+part_6336c79838284a64b78d31e617c6f9eb_end
