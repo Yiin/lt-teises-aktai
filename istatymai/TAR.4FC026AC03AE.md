@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-10-19
+Suvestinė redakcija nuo 2022-10-20 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -537,6 +537,10 @@ PRIĖMIMAS Į VIDAUS TARNYBĄ
 
 
 3) buvo atleistas nuo baudžiamosios atsakomybės už tyčinės nusikalstamos veikos padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai nusikalstama veika prarado pavojingumą, ir atleidimą nuo baudžiamosios atsakomybės, kai paskirta baudžiamojo poveikio priemonė) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai arba buvo atleistas nuo baudžiamosios atsakomybės už nusikalstamos veikos padarymą ir paskirta baudžiamojo poveikio priemonė, ir nuo baudžiamojo poveikio priemonės įvykdymo dienos nepraėjo 3 metai;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymu patvirtinto Lietuvos Respublikos vidaus tarnybos statuto 9 straipsnio 2 dalies (2021 m. gruodžio 23 d. redakcija, TAR, 2022-01-04, Nr. 64, identifikacinis kodas 2022-00064) 3 punktas tiek, kiek jame įtvirtinta nepriekaištingos reputacijos sąlyga susieta su visomis nusikalstamomis veikomis, nediferencijuojant jų pagal pavojingumą ir pobūdį ir neatsižvelgiant į atleidimo nuo baudžiamosios atsakomybės pagrindą, prieštarauja Lietuvos Respublikos Konstitucijos 33 straipsnio 1 dalies nuostatai „piliečiai turi <...> teisę lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą“, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT130-N13/2022, 2022-10-20, paskelbta TAR 2022-10-20, i. k. 2022-21298
+ 
 
 
 
@@ -4322,7 +4326,7 @@ Nr. XIII-1790, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21121
 
 
 
-part_e4657d607f884a359406044c64132434_end
+part_ee4acf7be8484271a2c7fe18d10274b7_end
 
 
  
@@ -4757,3 +4761,8 @@ Lietuvos Respublikos vidaus tarnybos statuto 7, 9, 53 ir 72 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-879, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00170
 Lietuvos Respublikos vidaus tarnybos statuto 4, 7, 16, 18, 25, 28, 30, 31, 32 straipsnių ir priedo pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT130-N13/2022, 2022-10-20, paskelbta TAR 2022-10-20, i. k. 2022-21298
+Dėl Lietuvos Respublikos vidaus tarnybos statuto (2018 m. birželio 29 d. redakcija) 9 straipsnio 2 dalies 2 punkto, 9 straipsnio 2 dalies (2021 m. gruodžio 23 d. redakcija) 3 punkto atitikties Lietuvos Respublikos Konstitucijai
