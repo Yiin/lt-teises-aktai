@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-22
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -2013,11 +2013,13 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju 1
 
 
 
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 961, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 189, 190, 191, 192, 193, 195, 198, 205, 207, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505, 546 straipsniuose, ir (ar) jam nebuvo paskirta bauda už šiame punkte nurodytuose Administracinių nusižengimų kodekso straipsniuose numatytą administracinį nusižengimą, padarytą pakartotinai. Šiame punkte pakartotinis administracinis nusižengimas suprantamas taip, kaip tai nustatyta Administracinių nusižengimų kodekso 40 straipsnyje.
+4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 961, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 189, 190, 191, 192, 193, 195, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505, 546 straipsniuose.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 Nr. XIV-465, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15524
 Nr. XIV-861, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27779
+TAR pastaba. 40-1 straipsnio 1 dalies 4 punkto nuostatos taikomos tik vertinant asmenų atitiktį minimaliems patikimo mokesčių mokėtojo kriterijams po 2022-06-28 įstatymo Nr. XIV-1241 įsigaliojimo dienos.
+Nr. XIV-1241, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15187
  
 
 
@@ -2044,7 +2046,10 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 
 
 
-2. Turto įsigijimo ir pajamų gavimo šaltiniai, mokesčių administratoriui pareikalavus, pagrindžiami įstatymų reikalavimus atitinkančiais sandorius patvirtinančiais dokumentais, kitais juridinę galią turinčiais dokumentais. Sandorius patvirtinančiuose dokumentuose, kituose juridinę galią turinčiuose dokumentuose turi būti nurodyti duomenys, leidžiantys identifikuoti išmokėjusį asmenį. 
+2. Turto įsigijimo ir pajamų gavimo šaltiniai, mokesčių administratoriui pareikalavus, pagrindžiami įstatymų reikalavimus atitinkančiais sandorius patvirtinančiais dokumentais, kitais juridinę galią turinčiais dokumentais. Turto įsigijimo ir pajamų gavimo šaltiniai negali būti pagrindžiami sandorius patvirtinančiais juridinę galią turinčiais dokumentais, jeigu atsiskaitymai ir (ar) kiti mokėjimai pagal šiuos sandorius buvo atlikti pažeidžiant Lietuvos Respublikos atsiskaitymų grynaisiais pinigais ribojimo įstatyme nustatytą atsiskaitymų grynaisiais pinigais tvarką. Sandorius patvirtinančiuose dokumentuose, kituose juridinę galią turinčiuose dokumentuose turi būti nurodyti duomenys, leidžiantys identifikuoti išmokėjusį asmenį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1241, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15187
+ 
 
 
 Straipsnio pakeitimai:
@@ -6633,7 +6638,7 @@ Priedo pakeitimai:
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
  
-part_8ec6441924534e5692c5ab73afb94ac4_end
+part_6ce38c25caaa4572a3efec0deb08fa19_end
 
 
 Pakeitimai:
@@ -6920,9 +6925,14 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straip
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-761, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26591
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 40-1, 81 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 81 straipsnių ir priedo pakeitimo ir įstatymo papildymo 61-4 straipsniu įstatymas
  
 33.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1241, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15187
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 ir 41 straipsnių pakeitimo įstatymas
