@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2022-01-31 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-21
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -34,9 +34,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas reglamentuoja farmacinę ir kitą veiklą, susijusią su vaistiniais, tiriamaisiais vaistiniais preparatais, veterinariniais vaistais, veikliosiomis ir kitomis vaistinėmis medžiagomis, veterinarinės farmacijos veiklą, taip pat šios veiklos valstybinį valdymą ir priežiūrą.
+1. Šis įstatymas reglamentuoja farmacinę ir kitą veiklą, susijusią su vaistiniais, tiriamaisiais vaistiniais preparatais, veikliosiomis ir kitomis vaistinėmis medžiagomis, taip pat šios veiklos valstybinį valdymą ir priežiūrą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
  
 
 
@@ -243,7 +244,10 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 
-15. Farmacinės atliekos – naikintini vaistiniai preparatai ir naikintini veterinariniai vaistai (nekokybiški, pasibaigusio tinkamumo laiko, konfiskuoti, surinkti iš gyventojų, falsifikuoti).
+15. Farmacinės atliekos – naikintini vaistiniai preparatai (nekokybiški, pasibaigusio tinkamumo vartoti laiko, konfiskuoti, surinkti iš gyventojų, falsifikuoti).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
@@ -589,11 +593,12 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 
-51. Vaistinė – Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, užsienio valstybės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje (toliau – juridinis asmuo), konkrečioje veiklos vietoje vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporaliųjų vaistinių preparatų gamybą, jų kokybės kontrolę, farmacinę rūpybą. Šiame įstatyme sąvoka „vaistinė“ neapima veterinarijos vaistinių. 
+51. Vaistinė – Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, užsienio valstybės juridinio asmens ar kitos organizacijos padalinys, įsteigtas Lietuvos Respublikoje (toliau – juridinis asmuo), konkrečioje veiklos vietoje vykdantis farmacinę veiklą, apimančią vaistinių preparatų įsigijimą, laikymą, pardavimą (išdavimą) galutiniam vartotojui, farmacinių paslaugų teikimą ir (ar) ekstemporaliųjų vaistinių preparatų gamybą, jų kokybės kontrolę, farmacinę rūpybą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
  
 
 
@@ -858,42 +863,66 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-73. Veterinarijos felčeris – fizinis asmuo, įgijęs veterinarijos felčerio arba Vyriausybės įgaliotos institucijos nustatyta tvarka jam prilygintą profesinę kvalifikaciją.
+73. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
 
-74. Veterinarijos gydytojas – aukštąjį universitetinį išsilavinimą turintis asmuo, Vyriausybės įgaliotos institucijos nustatyta tvarka įgijęs veterinarijos gydytojo kvalifikaciją. 
+74. Neteko galios nuo 2022-11-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
 
-75. Veterinarijos vaistinė – juridinis asmuo, turintis teisę įsigyti, laikyti, parduoti (išduoti), gaminti veterinarinius vaistus ir kontroliuoti jų kokybę.
+75. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
 
-76. Veterinarinė farmacija – juridinių ir (ar) fizinių asmenų veikla, apimanti veterinarinių vaistų gamybą, importą, tiekimą (prekybą), kokybės kontrolę.
+76. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
 
-77. Veterinarinės farmacijos įmonė – juridinis asmuo, kuris verčiasi veterinarine farmacija.
+77. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
 
-78. Veterinarinės farmacijos vadovas – fizinis asmuo, atitinkantis nustatytus reikalavimus ir juridinio asmens, turinčio veterinarinės farmacijos veiklos licenciją, paskirtas vadovauti veterinarinei farmacijai.
+78. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
 
-79. Veterinarinis vaistas – medžiaga ar medžiagų derinys, pateikiamas kaip turintis gyvūnus gydančių savybių ar apsaugantis juos nuo ligų arba skiriamas gyvūnams, norint nustatyti diagnozę arba farmaciniu, imuniniu ar metaboliniu poveikiu atkurti, koreguoti ar pakeisti fiziologines funkcijas.
+79. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
 
-80. Veterinarinių vaistų registras – duomenų apie leidžiamus naudoti Lietuvos Respublikoje veterinarinius vaistus kaupimo, saugojimo ir tvarkymo sistema.
+80. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
@@ -5378,12 +5407,18 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-2. Veterinarijos vaistinės privalo iš gyventojų nemokamai priimti naikintinus veterinarinius vaistus. Priimtus naikintinus veterinarinius vaistus iš veterinarinių vaistinių surenka ir kitą jų tvarkymo veiklą vykdo atliekų tvarkytojas Lietuvos Respublikos atliekų tvarkymo įstatymo ir kitų teisės aktų nustatyta tvarka. Naikintinų veterinarinių vaistų priėmimo iš gyventojų tvarką ir apmokėjimą už jų tvarkymą nustato Vyriausybė ar jos įgaliota institucija. 
+2. Neteko galios nuo 2022-11-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 
 
-3. Už priimtų iš gyventojų naikintinų vaistinių preparatų ir veterinarinių vaistų tvarkymą apmokama iš atitinkamoms institucijoms, atsakingoms už šio įstatymo įgyvendinimą, valstybės biudžete patvirtintų bendrųjų asignavimų.
+3. Už priimtų iš gyventojų naikintinų vaistinių preparatų tvarkymą apmokama iš atitinkamoms institucijoms, atsakingoms už šio įstatymo įgyvendinimą, valstybės biudžete patvirtintų bendrųjų asignavimų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+ 
 
 
 Straipsnio pakeitimai:
@@ -7470,486 +7505,10 @@ Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
 
 
 
-SEPTYNIOLIKTASIS skIRSNIS 
-VETERINARINĖ FarmaciJA
+17 skirsnis. Neteko galios nuo 2022-11-01
+Skirsnio naikinimas:
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
  
-
-
-70 straipsnis. Veterinarinių vaistų registravimas
-
-
-1. Lietuvos Respublikos rinkai gali būti tiekiami tik Veterinarinių vaistų registre įregistruoti veterinariniai vaistai.
-
-
-
-
-2. Veterinarinių vaistų registrą steigia Vyriausybė. Registro valdytoja yra Valstybinė maisto ir veterinarijos tarnyba, registro tvarkytojas – Nacionalinis maisto ir veterinarijos rizikos vertinimo institutas.
-Straipsnio dalies pakeitimai:
-Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
- 
-
-
-
-
-3. Veterinariniai vaistai registruojami Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka, laikantis nacionalinės, savitarpio pripažinimo arba decentralizuotos procedūrų.
-
-
-
-
-4. Norėdamas registruoti veterinarinį vaistą, pareiškėjas turi pateikti šiuos dokumentus:
-
-
-1) Valstybinės maisto ir veterinarijos tarnybos nustatytos formos paraišką;
-
-
-
-
-2) administracinę informaciją ir mokslinius dokumentus, būtinus įrodyti veterinarinio vaisto kokybę, saugumą ir efektyvumą.
-
-
-
-
-
-
-5. Už veterinarinio vaisto registravimą mokama nustatyto dydžio valstybės rinkliava.
-
-
-
-
-6. Sprendimas dėl veterinarinio vaisto registravimo Veterinarinių vaistų registre priimamas ne vėliau kaip per 210 dienų nuo paraiškos priėmimo dienos. Laikas, per kurį pareiškėjas pateikia pareikalautus papildomus dokumentus, informaciją ir prireikus paaiškinimus žodžiu ir (ar) raštu, į paraiškos nagrinėjimo laiką neįskaičiuojamas.
-
-
-
-
-7. Veterinarinis vaistas Veterinarinių vaistų registre neregistruojamas, jo registracija sustabdoma arba panaikinama, jeigu:
-
-
-1) veterinarinio vaisto naudos ir rizikos santykis leistinomis naudojimo sąlygomis yra nepalankus;
-
-
-
-
-2) veterinarinis vaisto veiksmingumas pareiškėjo nepakankamai pagrįstas arba veterinarinis vaistas neturi jokio terapinio poveikio gyvūnų rūšiai, kuriai jis skirtas;
-
-
-
-
-3) veterinarinio vaisto kiekybinė ir kokybinė sudėtis neatitinka deklaruotosios;
-
-
-
-
-4) pareiškėjo rekomenduojama išlauka nėra pakankama užtikrinti, kad iš gydyto gyvūno gauti maisto produktai neturi liekanų, galinčių kelti pavojų vartotojo sveikatai, arba yra nepakankamai pagrįsta; 
-
-
-
-
-5) ženklinimas arba informacinis lapelis neatitinka nustatytų reikalavimų;
-
-
-
-
-6) veterinarinis vaistas siūlomas tiekti naudojimo tikslu, draudžiamu pagal kitas EEE valstybių nuostatas;
-
-
-
-
-7) paaiškėja, kad apie veterinarinį vaistą buvo pateikti klaidingi duomenys. 
-
-
-
-
-
-
-8. Už įregistruoto veterinarinio vaisto kokybę, saugumą ir efektyvumą atsako veterinarinio vaisto registruotojas.
-
-
-
-
-9. Valstybinė maisto ir veterinarijos tarnyba nustato:
-
-
-1) neregistruotų Lietuvos Respublikoje veterinarinių vaistų laikino įvežimo ir naudojimo tvarką;
-
-
-
-
-2) mokslinio ir klinikinio tyrimo tikslams skirtų neregistruotų Lietuvos Respublikoje veterinarinių vaistų laikino įvežimo ir naudojimo tvarką.
- 
-
-
-
-
-
-
-
-
-71 straipsnis. Veterinarinių vaistų gamyba, importas ir tiekimas rinkai
-
-
-1. Juridiniai asmenys ir Lietuvos Respublikoje įsteigtų įmonių, įsisteigusių Europos Sąjungos valstybėse ar EEE valstybėse, filialai (toliau – juridiniai asmenys), norintys gaminti ar importuoti veterinarinius vaistus, privalo:
-
-
-1) turėti patalpas, techninę įrangą ir galimybę atlikti tinkamą ir pakankamą kontrolę, kuri atitiktų Valstybinės maisto ir veterinarijos tarnybos nustatytus reikalavimus;
-
-
-
-
-2) įdarbinti bent vieną už gamybą ir (ar) importą atsakingą kvalifikuotą asmenį, kurio kvalifikacija atitiktų Valstybinės maisto ir veterinarijos tarnybos nustatytus reikalavimus;
-
-
-
-
-3) atitikti kitus šio įstatymo ir kitų teisės aktų nustatytus reikalavimus.
-
-
-
-
-
-
-2. Juridiniai asmenys, norintys tiekti rinkai veterinarinius vaistus, privalo:
-
-
-1) turėti patalpas, techninę įrangą, kuri atitiktų Valstybinės maisto ir veterinarijos tarnybos nustatytus reikalavimus;
-
-
-
-
-2) įdarbinti bent vieną asmenį – veterinarinės farmacijos vadovą, atsakingą už vykdomą veterinarinę farmaciją, kurio kvalifikacija atitiktų Valstybinės maisto ir veterinarijos tarnybos nustatytus reikalavimus;
-
-
-
-
-3) atitikti kitus šio įstatymo ir kitų teisės aktų nustatytus reikalavimus.
-
-
-
-
-
-
-3. Valstybinė maisto ir veterinarijos tarnyba nustato veterinarinių vaistų uždraudimo tiekti rinkai naudojimo ir pašalinimo iš rinkos tvarką.
- 
-
-
-
-
-
-
-72 straipsnis. Veterinarijos farmakologinis budrumas
-
-
-1. Valstybinė maisto ir veterinarijos tarnyba vykdo veterinarijos farmakologinį budrumą.
-
-
-
-
-2. Veterinarinių vaistų registruotojai ir gamintojai, veterinarinės farmacijos įmonės, veterinarijos gydytojai, sveikatos priežiūros specialistai Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka privalo pranešti apie nepageidaujamą gyvūno reakciją į naudotą veterinarinį vaistą, neigiamą veterinarinių vaistų poveikį žmonių, gyvūnų sveikatai ir aplinkai.
- 
-
-
-
-
-
-
-73 straipsnis. Veterinarinės farmacijos licencijavimas
-
-
-1. Lietuvos Respublikoje juridiniai ir fiziniai asmenys gali verstis veterinarine farmacija tik turėdami Valstybinės maisto ir veterinarijos tarnybos išduotą licenciją (toliau – veterinarinės farmacijos licencija).
-
-
-
-
-2. Veterinarinės farmacijos licencija suteikia teisę verstis veikla, susijusia tik su veterinariniais vaistais ir licencijuojamos veiklos rūšimi, nurodyta licencijoje;
-
-
-
-
-3. Juridinių asmenų veterinarinės farmacijos licencijavimo, Fizinių asmenų veterinarinės farmacijos licencijavimo taisykles tvirtina Vyriausybė.
-
-
-
-
-4. Juridiniams asmenims ir Lietuvos Respublikoje įsteigtiems įmonių, įsisteigusių Europos Sąjungos valstybėse ir kitose EEE valstybėse, filialams (toliau – juridiniai asmenys) išduodamos šios veterinarinės farmacijos licencijos rūšys:
-
-
-1) veterinarinių vaistų gamybos;
-
-
-
-
-2) didmeninės veterinarinių vaistų prekybos;
-
-
-
-
-3) veterinarijos vaistinės veiklos;
-
-
-
-
-4) veterinarinių vaistų importo.
-
-
-
-
-
-
-5. Veterinarinių vaistų gamybos licencija būtina ir juridiniam asmeniui, vykdančiam dalinę gamybą, fasavimą, perfasavimą ar perpakavimą.
-
-
-
-
-6. Fizinis ar juridinis asmuo, norėdamas gauti veterinarinės farmacijos licenciją, turi pateikti paraišką ir kitus dokumentus, nustatytus Juridinių asmenų veterinarinės farmacijos licencijavimo ir Fizinių asmenų veterinarinės farmacijos licencijavimo taisyklėse. Už paraiškos pateiktų duomenų ir informacijos teisingumą atsako pareiškėjas.
-
-
-
-
-7. Valstybinė maisto ir veterinarijos tarnyba priima sprendimą išduoti veterinarinės farmacijos licenciją tik įsitikinusi, kad pateikti duomenys ir informacija atitinka šio įstatymo ir kitų teisės aktų nustatytus reikalavimus.
-
-
-
-
-8. Licencija išduodama tik tiems fiziniams asmenims, kurie turi veterinarijos gydytojo arba vaistininko kvalifikaciją. Veterinarijos felčerių ir vaistininko padėjėjų (farmakotechnikų) veikla veterinarinės farmacijos įmonėse nelicencijuojama. Veterinarijos felčeriai ir vaistininko padėjėjai (farmakotechnikai) dirba veterinarinės farmacijos įmonėse Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka kontroliuojami veterinarijos gydytojo arba vaistininko, turinčio veterinarinės farmacijos licenciją.
-
-
-
-
-9. Veterinarinės farmacijos licencija išduodama tik tiems juridiniams asmenims, kuriuose dirba fizinis asmuo (asmenys), turintis veterinarinės farmacijos licenciją, ir vienas iš jų yra paskirtas įmonės veterinarinės farmacijos vadovu, o veterinarinių vaistų gamybos ar importo įmonėje dirba kvalifikuotas asmuo, turintis fizinio asmens veterinarinės farmacijos licenciją.
-
-
-
-
-10. Veterinarinės farmacijos licencijos juridiniams ir fiziniams asmenims išduodamos neterminuotam laikui.
-
-
-
-
-11. Už veterinarinės farmacijos licencijos išdavimą mokama nustatyto dydžio valstybės rinkliava.
-
-
-
-
-12. Veterinarinės farmacijos licencija juridiniams ir fiziniams asmenims neišduodama (nepatikslinama ar nepapildoma), jeigu:
-
-
-1) pateikti ne visi reikiami dokumentai, nurodyti Juridinių asmenų veterinarinės farmacijos licencijavimo taisyklėse ir Fizinių asmenų veterinarinės farmacijos licencijavimo taisyklėse, ir pareiškėjas neįvykdė Valstybinės maisto ir veterinarijos tarnybos reikalavimo pateikti trūkstamus dokumentus;
-
-
-
-
-2) pateikti nevisiškai arba neteisingai užpildyti dokumentai ir pareiškėjas neįvykdė Valstybinės maisto ir veterinarijos tarnybos reikalavimo ištaisyti šiuos trūkumus;
-
-
-
-
-3) pateikti klaidingi duomenys, ne visa, netiksli informacija ir pareiškėjas neįvykdė Valstybinės maisto ir veterinarijos tarnybos reikalavimo ištaisyti šiuos trūkumus;
-
-
-
-
-4) buvo panaikintas juridinio arba fizinio asmens veterinarinės farmacijos licencijos galiojimas ir nuo veterinarinės farmacijos licencijos galiojimo panaikinimo nepraėjo vieni metai; ši nuostata netaikoma, kai juridinis asmuo savo noru nutraukia savo veiklą ar fizinis asmuo pateikia prašymą panaikinti licenciją;
-
-
-
-
-5) nesumokėta nustatyto dydžio valstybės rinkliava;
-
-
-
-
-6) fizinis asmuo neturi veterinarijos gydytojo arba vaistininko kvalifikacijos;
-
-
-
-
-7) įsiteisėjusiu teismo sprendimu asmeniui uždrausta verstis veterinarine farmacija;
-
-
-
-
-8) įsiteisėjusiu teismo sprendimu fiziniam asmeniui apribotas veiksnumas.
-
-
-
-
-
-
-13. Juridinio asmens, turinčio veterinarinės farmacijos licenciją, pareigos:
-
-
-1) vykdyti šio įstatymo, Veterinarijos įstatymo, Juridinių asmenų veterinarinės farmacijos licencijavimo taisyklių bei kitų teisės aktų, reglamentuojančių veterinarinę farmaciją, nuostatas ir reikalavimus;
-
-
-
-
-2) sudaryti sąlygas darbuotojų kvalifikacijai kelti;
-
-
-
-
-3) sudaryti sąlygas veterinarinės farmacijos vadovui ar kvalifikuotam asmeniui vykdyti veterinarinę farmaciją laikantis šio įstatymo reikalavimų;
-
-
-
-
-4) pranešti Valstybinei maisto ir veterinarijos tarnybai apie veterinarinės farmacijos vadovo ar kvalifikuoto asmens pasikeitimą, licencijuojamos veiklos sustabdymą, atsisakymą verstis licencijuojama veikla savo noru arba licencijuojamos veiklos pasikeitimus;
-
-
-
-
-5) leisti priežiūrą atliekančiai valstybės institucijai tikrinti vykdomą licencijuojamą veiklą.
-Straipsnio punkto pakeitimai:
-Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
- 
-
-
-
-
-
-
-14. Fizinio asmens, turinčio veterinarinės farmacijos licenciją, pareigos:
-
-
-1) vykdyti šio įstatymo, Veterinarijos įstatymo, Fizinių asmenų veterinarinės farmacijos licencijavimo taisyklių, kitų teisės aktų, reglamentuojančių veterinarinę farmaciją, nuostatas ir reikalavimus;
-
-
-
-
-2) Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka kelti kvalifikaciją; 
-
-
-
-
-3) pranešti Valstybinei maisto ir veterinarijos tarnybai apie licencijuotos veiklos sustabdymą arba atsisakymą verstis licencijuota veikla savo noru.
-
-
-
-
-
-
-15. Juridinių ir fizinių asmenų, turinčių veterinarinės farmacijos licenciją, teisės:
-
-
-1) verstis licencijuota veikla;
-
-
-
-
-2) gauti paaiškinimus veterinarinės farmacijos licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo atvejais;
-
-
-
-
-3) dalyvauti jų vardu išduotos veterinarinės farmacijos licencijos galiojimo sustabdymo ar veterinarinės farmacijos licencijos galiojimo panaikinimo svarstyme;
-
-
-
-
-4) Valstybinės maisto ir veterinarijos tarnybos sprendimus dėl veterinarinės farmacijos licencijos galiojimo sustabdymo, panaikinimo Lietuvos Respublikos teisės aktų nustatyta tvarka apskųsti teismui.
-
-
-
-
-
-
-16. Veterinarinės farmacijos licencijos turėtojas neturi teisės savo vardu įgalioti kitą asmenį vykdyti veterinarinės farmacijos licencijoje nurodytą veiklą arba teisę vykdyti veterinarinės farmacijos licencijoje nurodytą veiklą perduoti pagal sutartį kitam asmeniui.
-
-
-
-
-17. Valstybinė maisto ir veterinarijos tarnyba sustabdo veterinarinės farmacijos licencijos galiojimą:
-
-
-1) jeigu juridinis ar fizinis asmuo nesilaiko licencijuojamos veiklos sąlygų ir veterinarinės farmacijos licencijos turėtojo pareigų;
-
-
-
-
-2) juridiniam asmeniui, jeigu dėl kvalifikuoto asmens ar veterinarinės farmacijos vadovo padarytų veterinarinės farmacijos pažeidimų iškeliama baudžiamoji arba administracinė byla bylos nagrinėjimo ar tyrimo laikotarpiu, išskyrus atvejus, kai kvalifikuotu asmeniu ar veterinarinės farmacijos vadovu laikinai paskiriamas kitas asmuo;
-
-
-
-
-3) juridiniam asmeniui, jeigu verstis licencijuota veikla įsiteisėjusiu teismo sprendimu uždrausta juridinio asmens kvalifikuotam asmeniui ar farmacinės veiklos vadovui, kol į šias pareigas nepaskiriamas kitas šio įstatymo ir kitų teisės aktų reikalavimus atitinkantis asmuo;
-
-
-
-
-4) jeigu fiziniai asmenys, turintys veterinarinės farmacijos licenciją, po raštiško įspėjimo nekelia kvalifikacijos pagal Valstybinės maisto ir veterinarijos tarnybos nustatytą kvalifikacijos kėlimo tvarką;
-
-
-
-
-5) juridinio ar fizinio asmens, turinčio veterinarinės farmacijos licenciją, prašymu.
-
-
-
-
-
-
-18. Pašalinus priežastis, dėl kurių veterinarinės farmacijos licencijos galiojimas buvo sustabdytas, panaikinamas veterinarinės farmacijos licencijos galiojimo sustabdymas.
-
-
-
-
-19. Valstybinė maisto ir veterinarijos tarnyba panaikina veterinarinės farmacijos licencijos galiojimą, jeigu:
-
-
-1) veterinarinės farmacijos licencijos turėtojas nutraukia licencijuotą veiklą ir pateikia Valstybinei maisto ir veterinarijos tarnybai prašymą panaikinti veterinarinės farmacijos licencijos galiojimą;
-
-
-
-
-2) veterinarinės farmacijos licencijos turėtojas, sustabdžius jo veterinarinės farmacijos licencijos galiojimą, per nustatytą terminą nepašalino licencijuotos veiklos pažeidimų;
-
-
-
-
-3) įgaliotoji institucija nustato, kad sustabdžius veterinarinės farmacijos licencijos galiojimą juridinis asmuo ar jo filialas toliau verčiasi veterinarine farmacija;
-
-
-
-
-4) juridinis asmuo likviduojamas, jam iškelta bankroto byla arba bankrotas vykdomas ne teismo tvarka ar juridinis asmuo reorganizuojamas, baigia savo veiklą kaip savarankiškas ūkio subjektas; 
-
-
-
-
-5) paaiškėja, kad buvo pateikti klaidingi duomenys norint gauti veterinarinės farmacijos licenciją;
-
-
-
-
-6) veterinarinės farmacijos licencijos turėtojas, sustabdžius jo veterinarinės farmacijos licencijos galiojimą ir panaikinus veterinarinės farmacijos licencijos galiojimo sustabdymą, per 12 mėnesių antrą kartą padarė pažeidimą, susijusį su licencijuota veikla;
-
-
-
-
-7) veterinarinės farmacijos licencijos turėtojas pažeidžia veterinarinę farmaciją reglamentuojančių teisės aktų reikalavimus per nustatytą terminą trūkumams pašalinti, kai veterinarinės farmacijos licencijos galiojimas yra sustabdytas, arba pažeidžia veterinarinę farmaciją reglamentuojančių teisės aktų reikalavimus, kai dėl veikos sukeliama neatitaisoma žala žmogui, gyvūnui ar aplinkai;
-
-
-
-
-8) juridiniam arba fiziniam asmeniui uždrausta verstis licencijuota veikla įsiteisėjusiu teismo sprendimu;
-
-
-
-
-9) veterinarinės farmacijos licencijos turėtojas – fizinis asmuo po įspėjimo arba veterinarinės farmacijos licencijos galiojimo sustabdymo dėl kvalifikacijos tobulinimo Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka netobulina savo kvalifikacijos.
-
-
-
-
-
-
-20. Veterinarinės farmacijos valstybinę priežiūrą įgyvendina Valstybinė maisto ir veterinarijos tarnyba.
-
-
-Straipsnio pakeitimai:
-Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
- 
-
-
 
 
 
@@ -7983,14 +7542,15 @@ Nr. XI-59, 2008-12-16, Žin., 2008, Nr. 149-5991 (2008-12-30)
 
 
 
-75 straipsnis. Atsakomybė už pažeidimus 
+75 straipsnis. Atsakomybė už pažeidimus
 
 
-Fiziniai ir juridiniai asmenys už veiklos su farmacijos produktais ir veterinarinės farmacijos pažeidimus bei neteisėtą veiklą atsako šio įstatymo ir kitų įstatymų nustatyta tvarka.
+Fiziniai ir juridiniai asmenys už veiklos su farmacijos produktais pažeidimus bei neteisėtą veiklą atsako šio įstatymo ir kitų įstatymų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
  
 
 
@@ -8250,7 +7810,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_0456459568d24d94a6d25c948c991fd6_end
+part_51e0aa0f84ca44749bbb13ffc1b483f3_end
 
 
 Pakeitimai:
@@ -8520,3 +8080,8 @@ Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-385, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14067
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 8, 57 ir 59 straipsnių pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 1, 2, 42, 75 straipsnių pakeitimo ir septynioliktojo skirsnio pripažinimo netekusiu galios įstatymas
