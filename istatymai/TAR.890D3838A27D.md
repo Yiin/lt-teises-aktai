@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2023-12-29
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
  
@@ -157,7 +157,10 @@ Asmens mirties faktą nustato:
 
 
 
-3) gydytojas teisės medicinos ekspertas;
+3) gydytojas teismo medicinos ekspertas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
+ 
 
 
 
@@ -485,7 +488,10 @@ MEDICININIO MIRTIES LIUDIJIMO IŠDAVIMO TVARKA
 
 
 
-2) lavono teisės medicinos ekspertizę atlikęs gydytojas teisės medicinos ekspertas;
+2) lavono teismo medicinos ekspertinį tyrimą atlikęs gydytojas teismo medicinos ekspertas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
+ 
 
 
 
@@ -522,7 +528,10 @@ MEDICININIO MIRTIES LIUDIJIMO IŠDAVIMO TVARKA
 
 
 
-4. Laikinas medicininis mirties liudijimas ne vėliau kaip per vieną mėnesį turi būti pakeistas galutiniu.
+4. Laikinas medicininis mirties liudijimas ne vėliau kaip per tris mėnesius turi būti pakeistas galutiniu medicininiu mirties liudijimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
+ 
 
 
 
@@ -540,7 +549,10 @@ Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
 14 straipsnis. Medicininio mirties liudijimo rekvizitai
 
 
-1. Medicininį mirties liudijimą sudaro dvi dalys. Jose įrašyta informacija turi būti vienoda.
+1. Medicininio mirties liudijimo mirties priežasčių dalis turi atitikti Pasaulio sveikatos organizacijos rekomenduojamą standartą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
+ 
 
 
 
@@ -621,31 +633,27 @@ Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
 15 straipsnis. Medicininio mirties liudijimo išdavimas
 
 
-1. Medicininį mirties liudijimą išduoda asmens sveikatos priežiūros įstaigos. Jis išduodamas asmenims, pateikusiems asmens dokumentus ir pasirašiusiems liudijimo dalį. Pasirašyta liudijimo dalis saugoma liudijimą išdavusioje įstaigoje sveikatos apsaugos ministro nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
- 
+1. Medicininį mirties liudijimą išduoda šio Įstatymo 13 straipsnio 1 dalyje nurodyti asmenys.
 
 
 
 
-2. Medicininis mirties liudijimas išduodamas tą pačią dieną, kurią dėl jo kreipiamasi į asmens sveikatos priežiūros įstaigą.
+2. Medicininis mirties liudijimas išduodamas tą pačią dieną, kurią dėl jo kreipiamasi į asmens sveikatos priežiūros įstaigą, kurioje medicinos praktika verčiasi medicininius mirties liudijimus išduodantis gydytojas.
 
 
 
 
-3. Medicininius mirties liudijimus išduodančios asmens sveikatos priežiūros įstaigos privalo užtikrinti, kad liudijimai būtų išduodami ir poilsio bei švenčių dienomis.
+3. Asmens sveikatos priežiūros įstaigos, kuriose medicinos praktika verčiasi medicininius mirties liudijimus išduodantis gydytojas, privalo užtikrinti, kad medicininiai mirties liudijimai būtų išduodami ir poilsio bei švenčių dienomis.
 
 
 
 
 4. Asmens sveikatos priežiūros įstaiga nedelsdama, ne vėliau kaip kitą darbo dieną po medicininio mirties liudijimo išrašymo dienos, privalo medicininį mirties liudijimą elektroninių ryšių priemonėmis perduoti mirusio asmens gyvenamosios vietos, o kai asmuo neturi gyvenamosios vietos, – asmens mirties vietos civilinės metrikacijos įstaigai.
-TAR pastaba. Iki 2018 m. kovo 1 d. sveikatos priežiūros įstaigos, nesinaudojančios valstybės elektronine sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacine sistema, sudarytą medicininį mirties liudijimą perduoda civilinės metrikacijos įstaigoms Lietuvos Respublikos teisingumo ministro ir Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka.
-Papildyta straipsnio dalimi:
-Nr. XII-2119, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19712
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
  
-
-
 
 
 
@@ -757,3 +765,8 @@ Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
 Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 2, 3, 9, 10 ir 11 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 4, 13, 14 ir 15 straipsnių pakeitimo įstatymas
