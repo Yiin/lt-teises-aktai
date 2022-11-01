@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2024-04-30
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -1207,12 +1207,15 @@ Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 161 straipsnis. Vidaus vandenų transporto priemonių techninė apžiūra, techninis patikrinimas, Europos Sąjungos vidaus vandenų laivybos sertifikato ir laikinojo Europos Sąjungos vidaus vandenų laivybos sertifikato išdavimas
 
 
-1. Vidaus vandenų transporto priemonių, išskyrus šio straipsnio 2 ir 9 dalyse nurodytas transporto priemones, techninę apžiūrą atlieka Transporto saugos administracija. Techninės apžiūros metu tikrinama Vidaus vandenų laivų registre įregistruotos vidaus vandenų transporto priemonės techninė būklė, identifikuojama vidaus vandenų transporto priemonė, įvertinama vidaus vandenų transporto priemonės atitiktis susisiekimo ministro ar jo įgaliotos institucijos nustatytiems techniniams reikalavimams (toliau – techniniai reikalavimai) ir aprūpinimo įranga pagal plaukiojimo rajoną reikalavimams ir nustatomas plaukiojimo rajonas. 
+1. Vidaus vandenų transporto priemonių techninę apžiūrą Transporto saugos administracijos nustatyta tvarka atlieka ir techninės apžiūros dokumentus išduoda juridiniai asmenys, organizacijos ir juridinių asmenų ar organizacijų filialai, kuriuos šio kodekso 162 straipsnyje nustatyta tvarka ir vadovaudamasi susisiekimo ministro tvirtinamais asmenų, siekiančių atlikti vidaus vandenų transporto priemonių technines apžiūras, atestacijos reikalavimais (toliau – atestacijos reikalavimai) atestuoja ir prižiūri Transporto saugos administracija. Atliekant techninę apžiūrą tikrinama Vidaus vandenų laivų registre įregistruotos vidaus vandenų transporto priemonės techninė būklė, identifikuojama vidaus vandenų transporto priemonė, įvertinama vidaus vandenų transporto priemonės atitiktis susisiekimo ministro ar jo įgaliotos institucijos nustatytiems techniniams reikalavimams (toliau – techniniai reikalavimai) ir aprūpinimo įranga pagal plaukiojimo rajoną reikalavimams ir nustatomas plaukiojimo rajonas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
+ 
 
 
 
 
-2. Burinių jachtų techninę apžiūrą atlieka ir šios apžiūros dokumentus išduoda juridiniai asmenys, organizacijos ir juridinių asmenų ar organizacijų filialai, kuriuos šio kodekso 162 straipsnyje nustatyta tvarka ir vadovaudamasi susisiekimo ministro tvirtinamais asmenų, siekiančių atlikti burinių jachtų technines apžiūras, atestacijos reikalavimais atestuoja ir prižiūri Transporto saugos administracija. Pramoginių ir asmeninių laivų, eksploatuojamų tik vidaus vandenų plaukiojimo rajone nevykdant komercinės veiklos, ir tarnybinių laivų, pastatytų kaip pramoginiai laivai, techninė apžiūra neatliekama. Vidaus vandenų transporto priemonių, eksploatuojamų tik užsienio šalyse, techninė apžiūra atliekama tokios vidaus vandenų transporto priemonės savininko prašymu.
+2. Pramoginių ir asmeninių laivų, eksploatuojamų tik vidaus vandenų plaukiojimo rajone nevykdant komercinės veiklos, ir tarnybinių laivų, pastatytų kaip pramoginiai laivai, techninė apžiūra neatliekama. Vidaus vandenų transporto priemonių, eksploatuojamų tik užsienio šalyse, techninė apžiūra atliekama tokios vidaus vandenų transporto priemonės savininko prašymu.
 Straipsnio dalies pakeitimai:
 Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
  
@@ -1444,59 +1447,189 @@ Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 
 
 
-162 straipsnis. Burinių jachtų technines apžiūras atliekančių juridinių asmenų, kitų organizacijų ir jų padalinių atestavimas
+162 straipsnis. Vidaus vandenų transporto priemonių technines apžiūras atliekančių juridinių asmenų, organizacijų ir juridinių asmenų ar organizacijų filialų pareigos, atestacija, atestacijos galiojimo sustabdymas ir atestacijos galiojimo panaikinimas
 
 
-1. Juridiniai asmenys, kitos organizacijos ir jų padaliniai, siekiantys atlikti burinių jachtų technines apžiūras (toliau šiame straipsnyje – asmenys), kreipiasi į Transporto saugos administraciją ir pateikia laisvos formos prašymą ir duomenis apie:
+1. Juridiniai asmenys, organizacijos ir juridinių asmenų ar organizacijų filialai, siekiantys būti atestuoti atlikti visų vidaus vandenų transporto priemonių ar dalies jų technines apžiūras (toliau šiame straipsnyje – asmenys), turi atitikti visus šiuos reikalavimus:
 
 
-1) asmens turimus specialistus ir nuosavybės, nuomos, panaudos ar kitu teisėtu pagrindu valdomas patalpas ir įrangą, kurios atitinka susisiekimo ministro nustatytus reikalavimus ir kurių reikia burinių jachtų techninei apžiūrai atlikti; 
-
-
-
-
-2) asmens patvirtintą su Transporto saugos administracija suderintą burinių jachtų techninių apžiūrų atlikimo organizavimo tvarkos aprašą, parengtą susisiekimo ministro nustatyta tvarka.
+1) turėti nuosavybės, nuomos, panaudos ar kitu teisėtu pagrindu valdomas patalpas, reikalingas vidaus vandenų transporto priemonių techninei apžiūrai atlikti;
 
 
 
 
-
-
-2. Asmenų atestacijos galioja neribotą laiką. Atestuoti asmenys turi užtikrinti atitiktį šio straipsnio 1 dalyje nurodytiems reikalavimams visą techninės apžiūros vykdymo laikotarpį.
-
-
-
-
-3. Asmenys atestuojami arba motyvuotai atsisakoma tai padaryti per 15 darbo dienų nuo šio straipsnio 1 dalyje nurodytų duomenų pateikimo dienos.
+2) turėti įrangą ir prietaisus, įtrauktus į susisiekimo ministro tvirtinamą įrangos ir prietaisų, kurių reikia atitinkamų vidaus vandenų transporto priemonių techninei apžiūrai atlikti, sąrašą; 
 
 
 
 
-4. Transporto saugos administracija susisiekimo ministro nustatyta tvarka patikrina šio straipsnio 1 dalyje nurodytus duomenis ir nustačiusi, kad asmenų pateiktuose duomenyse yra netikslumų, prašo asmens susisiekimo ministro nustatyta tvarka juos patikslinti ir pateikti reikiamus duomenis. Transporto saugos administracija, patikrinusi asmens pateiktus patikslintus duomenis ir nenustačiusi neatitikimų šio straipsnio 1 dalyje nustatytiems reikalavimams, susisiekimo ministro nustatyta tvarka ne vėliau kaip per 15 darbo dienų nuo šio straipsnio 1 dalyje nurodytų pirminių duomenų gavimo dienos įrašo asmenis į Atestuotų asmenų sąrašą, kuris skelbiamas Transporto saugos administracijos interneto svetainėje. Transporto saugos administracija į Atestuotų asmenų sąrašą įrašo šiuos duomenis: atestuoto asmens pavadinimą, kodą, kontaktinius duomenis (bendrąjį telefono numerį, fakso numerį, adresą), įrašo numerį ir įrašymo į šį sąrašą datą. Jeigu duomenys nepatikslinami arba patikslinami netinkamai (gauti duomenys neatitinka šio straipsnio 1 dalyje nustatytų reikalavimų), Transporto saugos administracija motyvuotai atsisako atestuoti asmenis.
+3) turėti ne mažiau kaip keturis technines apžiūras atliekančius specialistus;
 
 
 
 
-5. Asmenų priežiūrą, atlikdama planinius (kas vienus metus) ir neplaninius (gavus skundą ar turint pagrįstų duomenų apie asmenų atliekamus pažeidimus) patikrinimus, vykdo Transporto saugos administracija. Vykdant asmenų priežiūrą yra tikrinama atestuotų asmenų atitiktis šio straipsnio 1 dalyje nustatytiems reikalavimams.
+4) jeigu siekia būti atestuoti atlikti vidaus vandenų transporto priemonių, išskyrus burines jachtas, techninę apžiūrą, – turi būti akredituoti kaip A tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Atitikties įvertinimas. Reikalavimai, keliami įvairių tipų kontrolės įstaigų veiklai (ISO/IEC 17020)“.
 
 
 
 
-6. Transporto saugos administracija, nustačiusi, kad atestuoti asmenys neatitinka šio straipsnio 1 dalies 1 punkte nustatytų reikalavimų arba kad atestuoti asmenys burinių jachtų technines apžiūras atlieka nesilaikydami burinių jachtų techninių apžiūrų atlikimo organizavimo tvarkos apraše nurodytų reikalavimų, susisiekimo ministro nustatyta tvarka sustabdo asmenų atestacijos galiojimą 3 mėnesiams ir apie tai praneša šiems asmenims. Jeigu asmuo per šioje dalyje nustatytą atestacijos sustabdymo laikotarpį pašalina šioje dalyje nustatytus trūkumus ir apie tai praneša Transporto saugos administracijai, Transporto saugos administracija susisiekimo ministro nustatyta tvarka įsitikina, ar nustatyti trūkumai pašalinti tinkamai, ir panaikina asmens atestacijos sustabdymą.
+
+
+2. Jeigu asmuo siekia būti atestuotas atlikti vidaus vandenų transporto priemonių, išskyrus burines jachtas, techninę apžiūrą, šio straipsnio 1 dalies 3 punkte nurodyti specialistai privalo atitikti šiuos reikalavimus:
+
+
+1) turėti aukštąjį (arba jam prilygintą) išsilavinimą pagal technologijos mokslų studijų krypčių grupės studijų kryptį;
 
 
 
 
-7. Jeigu asmuo per šio straipsnio 6 dalyje nustatytą atestacijos sustabdymo laikotarpį nepašalina nustatytų trūkumų ir nepraneša apie trūkumų pašalinimą Transporto saugos administracijai, Transporto saugos administracija susisiekimo ministro nustatyta tvarka panaikina asmens atestacijos galiojimą ir apie tai praneša asmeniui raštu. 
+2) turėti vidaus vandenų transporto specialisto diplomą ar kvalifikacijos liudijimą;
 
 
 
 
-8. Informacija apie asmenų statusą, tai yra ar asmenys yra atestuoti, ar jų atestacijos sustabdytos, ar jų atestacijų sustabdymai panaikinti ir ar jų atestacijos panaikintos, yra skelbiama Transporto saugos administracijos interneto svetainėje. 
+3) turėti ne trumpesnę kaip trejų metų darbo patirtį laivų techninės būklės priežiūros ir (ar) vertinimo srityje.
 
 
-Papildyta straipsniu:
-Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
+
+
+
+
+3. Jeigu asmuo siekia būti atestuotas atlikti burinių jachtų techninę apžiūrą, šio straipsnio 1 dalies 3 punkte nurodyti specialistai privalo atitikti šiuos reikalavimus:
+
+
+1) turėti išsilavinimą pagal technologijos mokslų studijų krypčių grupės studijų kryptį ir ne trumpesnę kaip trejų metų darbo patirtį laivų techninės būklės priežiūros ir (ar) vertinimo srityje;
+
+
+
+
+2) ne mažiau kaip du specialistai privalo būti burinės jachtos laivavedžiai, turintys ne žemesnį kaip atviros jūros burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą, ir ne mažiau kaip du specialistai privalo būti burinės jachtos laivavedžiai, turintys ne žemesnį kaip vandenynų burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą.
+
+
+
+
+
+
+4. Asmenys turi pateikti Transporto saugos administracijai jos nustatytos formos prašymą ir pagal atestacijos reikalavimus reikalingus dokumentus, kuriais patvirtinama atitiktis šio straipsnio 1–3 dalyse nurodytiems reikalavimams.
+
+
+
+
+5. Transporto saugos administracija, nustačiusi, kad prašyme nurodyti ne visi privalomi duomenys ir (arba) pateikti ne visi pagal atestacijos reikalavimus reikalingi dokumentai, apie tai ne vėliau kaip per 5 darbo dienas nuo prašymo ir dokumentų gavimo dienos informuoja prašymą pateikusį asmenį ir nustato 20 darbo dienų terminą nustatytiems trūkumams pašalinti. Šis terminas, asmeniui pateikus motyvuotą prašymą, gali būti pratęsiamas 20 darbo dienų Transporto saugos administracijos sprendimu. 
+
+
+
+
+6. Transporto saugos administracija ne vėliau kaip per 15 darbo dienų nuo tinkamai įforminto prašymo ir visų reikalingų dokumentų gavimo dienos priima sprendimą atestuoti arba atsisakyti atestuoti prašymą pateikusį asmenį ir jį informuoja apie priimtą sprendimą. Informacija apie atestuotą asmenį įrašoma į valstybės įmonės Registrų centro tvarkomą Licencijų informacinę sistemą. Šioje dalyje nurodyto sprendimo nepateikimas per nustatytą terminą nelaikomas asmens atestacija.
+
+
+
+
+7. Sprendimas atsisakyti atestuoti prašymą pateikusį asmenį priimamas, jeigu šis asmuo neatitinka šio straipsnio 1–3 dalyse nurodytų reikalavimų arba per nustatytą terminą nepašalina šio straipsnio 5 dalyje nurodytų trūkumų. Sprendimo atsisakyti atestuoti asmenį priėmimas neatima galimybės pakartotinai kreiptis dėl atestacijos šiame straipsnyje nustatyta tvarka.
+
+
+
+
+8. Asmuo atestuojamas neribotam terminui, jeigu atitinka šio straipsnio 1–3 dalyse nustatytus reikalavimus.
+
+
+
+
+9. Transporto saugos administracija savo interneto svetainėje viešai skelbia atestuoto asmens teisinę formą, pavadinimą, kodą, sprendimo dėl atestacijos numerį, išdavimo datą, atestacijos galiojimo sustabdymo, šio sustabdymo panaikinimo ir atestacijos galiojimo panaikinimo datą, kad būtų galima įsitikinti, jog asmuo yra atestuotas ir atestacija galioja, informaciją apie vidaus vandenų transporto priemones, kurių technines apžiūras asmuo atestuotas atlikti. Duomenys apie atestuotą asmenį paskelbiami ne vėliau kaip kitą darbo dieną po sprendimo atestuoti priėmimo dienos ir skelbiami iki dienos, kai atestacijos galiojimas panaikinamas šio straipsnio 14 dalyje nustatytais atvejais. 
+
+
+
+
+10. Atestuoti asmenys privalo:
+
+
+1) užtikrinti savo atitiktį šio straipsnio 1–3 dalių reikalavimams;
+
+
+
+
+2) vykdyti tik vidaus vandenų transporto priemonių, įrašytų į šio straipsnio 6 dalyje nurodytą sprendimą dėl atestacijos, technines apžiūras;
+
+
+
+
+3) informaciją apie atliktą techninę apžiūrą pateikti Vidaus vandenų laivų registro tvarkytojui;
+
+
+
+
+4) naudoti įrangą ir prietaisus, įtrauktus į susisiekimo ministro tvirtinamą įrangos ir prietaisų, kurių reikia techninei apžiūrai atlikti, sąrašą;
+
+
+
+
+5) užtikrinti, kad techninę apžiūrą atliktų tik technines apžiūras atliekantys specialistai, atitinkantys šio straipsnio 2 ir (ar) 3 dalies reikalavimus;
+
+
+
+
+6) užtikrinti, kad technines apžiūras atliekančių specialistų atlygis nebūtų tiesiogiai susijęs su jų atliktų techninių apžiūrų rezultatais;
+
+
+
+
+7) sudaryti sąlygas Transporto saugos administracijos darbuotojams be išankstinio pranešimo dalyvauti atliekant techninę apžiūrą.
+
+
+
+
+
+
+11. Nustačiusi šio straipsnio 10 dalyje nustatytų reikalavimų pažeidimą, Transporto saugos administracija ne vėliau kaip per 3 darbo dienas nuo pažeidimo nustatymo dienos raštu įspėja asmenį apie galimą atestacijos galiojimo sustabdymą ir nustato ne trumpesnį kaip 20 darbo dienų terminą nustatytiems pažeidimams pašalinti. Šis terminas, asmeniui pateikus motyvuotą prašymą Transporto saugos administracijai, gali būti pratęsiamas 20 darbo dienų Transporto saugos administracijos sprendimu. 
+
+
+
+
+12. Jeigu per Transporto saugos administracijos nustatytą terminą nepašalinami pažeidimai, dėl kurių asmuo yra įspėtas, Transporto saugos administracija sustabdo atestacijos galiojimą ne vėliau kaip per 3 darbo dienas nuo termino, per kurį asmuo turėjo pašalinti pažeidimus, pabaigos ir nustato 20 darbo dienų terminą nustatytiems pažeidimams pašalinti. Šis terminas, asmeniui pateikus motyvuotą prašymą, gali būti pratęsiamas 20 darbo dienų Transporto saugos administracijos sprendimu.
+
+
+
+
+13. Atestacijos galiojimo sustabdymas panaikinamas ne vėliau kaip per 3 darbo dienas nuo dienos, kai per Transporto saugos administracijos nustatytą terminą pašalinami šio straipsnio 10 dalyje nurodyti pažeidimai, dėl kurių atestacijos galiojimas buvo sustabdytas, ir asmuo apie tai raštu informuoja Transporto saugos administraciją.
+
+
+
+
+14. Atestacijos galiojimas panaikinamas ne vėliau kaip per 3 darbo dienas nuo termino, per kurį asmuo privalėjo pašalinti nustatytus pažeidimus, dėl kurių atestacijos galiojimas buvo sustabdytas, pabaigos. Taip pat atestacijos galiojimas panaikinamas ne vėliau kaip per 3 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo ar aplinkybių paaiškėjimo dienos, jeigu:
+
+
+1) asmuo pateikia prašymą panaikinti atestacijos galiojimą;
+
+
+
+
+2) paaiškėja, kad siekiant atestacijos buvo pateikti melagingi (klaidingi) duomenys;
+
+
+
+
+3) asmuo likviduojamas ar reorganizuojamas ir baigia savo veiklą kaip savarankiškas ūkio subjektas;
+
+
+
+
+4) asmuo pakartotinai per vienus metus 3 kartus buvo įspėtas dėl šio straipsnio 10 dalyje nustatytų reikalavimų pažeidimų, išskyrus pažeidimus, kurie, vadovaujantis Lietuvos Respublikos viešojo administravimo įstatymu, laikytini mažareikšmiais.
+
+
+
+
+
+
+15. Asmenų veiklos priežiūrą vykdo Transporto saugos administracija. Vykdant asmenų priežiūrą yra tikrinama atestuotų asmenų atitiktis šio straipsnio 1 ir 10 dalyse nustatytiems reikalavimams. Asmenys turi teisę dalyvauti atliekant jų veiklos patikrinimus ir teikti Transporto saugos administracijai paaiškinimus. Asmenys, kurių veiklos patikrinimas yra atliekamas, privalo sudaryti Transporto saugos administracijai ir jos įgaliotiems darbuotojams, dirbantiems pagal darbo sutartis, ir (ar) valstybės tarnautojams patikrinimui reikiamas sąlygas ir pateikti patikrinimui reikalingą informaciją ir dokumentus Transporto saugos administracijos nustatyta tvarka.
+
+
+
+
+16. Asmuo, kurio atestacijos galiojimas buvo panaikintas pagal šio straipsnio 14 dalies 2 ar 4 punktą arba kuriam vadovauja fizinis asmuo, vadovavęs asmeniui, kurio atestacijos galiojimas buvo panaikintas pagal šio straipsnio 14 dalies 2 ar 4 punktą, negali būti atestuojamas anksčiau negu po 12 mėnesių nuo atestacijos galiojimo panaikinimo įsigaliojimo dienos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
  
 
 
