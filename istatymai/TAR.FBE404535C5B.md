@@ -18,10 +18,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2025-03-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
  
@@ -97,75 +96,124 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 
 
-6. Rinkliava už naudojimąsi transporto infrastruktūros objektu (toliau – rinkliava) – už naudojimąsi transporto infrastruktūros objektu jo savininko nustatytas užmokestis, kurį to objekto naudotojas moka jo valdytojui ar savininkui.
-
-
-
-
-7. Transportas – sudėtinė Lietuvos Respublikos ūkio dalis, skirta viešiesiems ir ūkio subjektų poreikiams tenkinti – keleiviams, bagažui ir (arba) kroviniams vežti.
-
-
-
-
-8. Transporto infrastruktūra – sausumos ir vandens, oro kelių, eismo valdymo sistemų, su jais susijusių statinių, specialiai įrengtų teritorijų, įrenginių ir konstrukcijų visuma, skirta transporto veiklai užtikrinti.
-
-
-
-
-9. Transporto infrastruktūros objektas – atskiras transporto infrastruktūros elementas, kuris gali savarankiškai funkcionuoti.
-
-
-
-
-10. Transporto infrastruktūros objekto naudotojas – transporto priemonių savininkas arba valdytojas, taip pat ūkio subjektas, kurio veikla galima tik naudojantis transporto infrastruktūros objektu.
-
-
-
-
-11. Transporto infrastruktūros objekto valdytojas – fizinis asmuo, juridinis asmuo ar kita organizacija ar jų padalinys (toliau – fizinis asmuo ar juridinis asmuo), teisėtai valdantys transporto infrastruktūros objektą.
-
-
-
-
-12. Transporto objektai – transporto infrastruktūra, transporto priemonės ir kitos su transporto veikla susijusios priemonės.
-
-
-
-
-13. Transporto priemonė – bet koks savaeigis mechanizmas ar mechanizmų junginys keleiviams, bagažui ir (arba) kroviniams vežti.
-
-
-
-
-14. Transporto priemonės valstybinė techninė apžiūra (priežiūra) – Lietuvos Respublikoje įregistruotos transporto priemonės privalomas periodinis techninės būklės patikrinimas Lietuvos Respublikos teisės aktų nustatyta tvarka.
-
-
-
-
-15. Transporto veikla – keleivių, bagažo ir (arba) krovinių vežimas transporto priemonėmis, geležinkelių, kelių, oro ir vandens transporto infrastruktūros valdymas, plėtra ir priežiūra, kelių tiesimas ir priežiūra, taip pat kita veikla, tiesiogiai susijusi su transporto infrastruktūra, keleivių, bagažo ir (arba) krovinių vežimu.
-
-
-
-
-16. Vežėjas – fizinis arba juridinis asmuo, kuris verčiasi keleivių, bagažo ir (arba) krovinių vežimu ir atitinka Lietuvos Respublikos įstatymų nustatytas sąlygas bei reikalavimus.
-
-
-
-
-17. Viešasis transportas – keleivių, bagažo ir (arba) krovinių vežimo nustatytais maršrutais nustatytu laiku paslauga, teikiama visiems, kurie kreipiasi. 
-
-
-
-
-18. Viešoji transporto infrastruktūra – transporto infrastruktūra, kuri skirta keleiviams, bagažui ir (arba) kroviniams vežti ir kurią sudaro viešoji geležinkelių infrastruktūra, Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai, valstybinės reikšmės ir vietinės reikšmės viešieji keliai, tarptautinių oro uostų infrastruktūra, skrydžių valdymo sistemos įrenginiai, vidaus vandenų transporto infrastruktūra, jūrų uostų infrastruktūra. Konkretūs viešosios transporto infrastruktūros objektai nurodyti specialiuosiuose transporto rūšių įstatymuose.
-Straipsnio dalies pakeitimai:
-Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
+6. Riboto judumo asmuo – asmuo, turintis nuolatinį arba laikiną fizinį, psichikos, intelekto arba jutimo sutrikimą, dėl kurio jis gali tik ribotai judėti ir tai trukdo jam lygiavertiškai su kitais keleiviais naudotis transportu, arba asmuo, kurio judumą naudojantis transportu riboja amžius. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
  
 
 
 
 
-19. Visuomenės aptarnavimo įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas dėl tarifų – įpareigojimas, nustatytas vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų.
+7. Rinkliava už naudojimąsi transporto infrastruktūros objektu (toliau – rinkliava) – už naudojimąsi transporto infrastruktūros objektu jo savininko nustatytas užmokestis, kurį to objekto naudotojas moka jo valdytojui ar savininkui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+8. Transportas – sudėtinė Lietuvos Respublikos ūkio dalis, skirta viešiesiems ir ūkio subjektų poreikiams tenkinti – keleiviams, bagažui ir (arba) kroviniams vežti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+9. Transporto infrastruktūra – sausumos ir vandens, oro kelių, eismo valdymo sistemų, su jais susijusių statinių, specialiai įrengtų teritorijų, įrenginių ir konstrukcijų visuma, skirta transporto veiklai užtikrinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+10. Transporto infrastruktūros objektas – atskiras transporto infrastruktūros elementas, kuris gali savarankiškai funkcionuoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+11. Transporto infrastruktūros objekto naudotojas – transporto priemonių savininkas arba valdytojas, taip pat ūkio subjektas, kurio veikla galima tik naudojantis transporto infrastruktūros objektu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+12. Transporto infrastruktūros objekto valdytojas – fizinis asmuo, juridinis asmuo ar kita organizacija ar jų padalinys (toliau – fizinis asmuo ar juridinis asmuo), teisėtai valdantys transporto infrastruktūros objektą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+13. Transporto objektai – transporto infrastruktūra, transporto priemonės ir kitos su transporto veikla susijusios priemonės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+14. Transporto priemonė – bet koks savaeigis mechanizmas ar mechanizmų junginys keleiviams, bagažui ir (arba) kroviniams vežti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+15. Transporto priemonės valstybinė techninė apžiūra (priežiūra) – Lietuvos Respublikoje įregistruotos transporto priemonės privalomas periodinis techninės būklės patikrinimas Lietuvos Respublikos teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+16. Transporto veikla – keleivių, bagažo ir (arba) krovinių vežimas transporto priemonėmis, geležinkelių, kelių, oro ir vandens transporto infrastruktūros valdymas, plėtra ir priežiūra, kelių tiesimas ir priežiūra, taip pat kita veikla, tiesiogiai susijusi su transporto infrastruktūra, keleivių, bagažo ir (arba) krovinių vežimu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+17. Vežėjas – fizinis arba juridinis asmuo, kuris verčiasi keleivių, bagažo ir (arba) krovinių vežimu ir atitinka Lietuvos Respublikos įstatymų nustatytas sąlygas bei reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+18. Viešasis transportas – keleivių, bagažo ir (arba) krovinių vežimo nustatytais maršrutais nustatytu laiku paslauga, teikiama visiems, kurie kreipiasi. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+19. Viešoji transporto infrastruktūra – transporto infrastruktūra, kuri skirta keleiviams, bagažui ir (arba) kroviniams vežti ir kurią sudaro viešoji geležinkelių infrastruktūra, Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai, valstybinės reikšmės ir vietinės reikšmės viešieji keliai, tarptautinių oro uostų infrastruktūra, skrydžių valdymo sistemos įrenginiai, vidaus vandenų transporto infrastruktūra, jūrų uostų infrastruktūra. Konkretūs viešosios transporto infrastruktūros objektai nurodyti specialiuosiuose transporto rūšių įstatymuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+20. Visuomenės aptarnavimo įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas dėl tarifų – įpareigojimas, nustatytas vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
 
 
 Straipsnio pakeitimai:
@@ -447,7 +495,27 @@ Nr. XII-2395, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16846
 
 
 
-2. Viešojo transporto objektai, skirti keleiviams aptarnauti, turi būti nuosekliai pritaikomi patogiai ir saugiai jais naudotis neįgaliesiems.
+2. Viešojo transporto objektai, skirti keleiviams aptarnauti, turi būti nuosekliai pritaikomi patogiai ir saugiai jais naudotis neįgaliesiems ir riboto judumo asmenims.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+21. Viešojo transporto priemonės, vežančios keleivius automobilių ir vidaus vandenų keliais, turi būti pritaikytos neįgaliesiems ir riboto judumo asmenims – jose turi būti įrengtos šių asmenų informavimo, mobilumo užtikrinimo ir saugaus vykimo viešuoju transportu priemonės pagal susisiekimo ministro tvirtinamus viešojo transporto priemonių pritaikymo neįgaliesiems ir riboto judumo asmenims reikalavimus. Ši nuostata netaikoma tarptautiniam susisiekimui naudojamoms viešojo transporto priemonėms. 
+TAR pastaba. 11 straipsnio 21 dalies nuostatos taikomos įsigaliojus (2022-11-01) įstatymui Nr. XIV-1141 pirmą kartą Lietuvos Respublikoje registruojamoms viešojo transporto priemonėms, išskyrus atvejus, kai Lietuvos Respublikos teisės aktais reglamentuojamos transporto priemonių pirkimo procedūros buvo pradėtos iki įsigaliojant (2022-11-01) įstatymui Nr. XIV-1141.
+Papildyta straipsnio dalimi:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
+
+
+
+
+22. Keleiviams geležinkeliais vežti naudojami geležinkelių riedmenys, kaip jie apibrėžiami Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, turi būti pritaikyti neįgaliesiems ir riboto judumo asmenims vadovaujantis 2014 m. lapkričio 18 d. Komisijos reglamente (ES) Nr. 1300/2014 dėl Sąjungos geležinkelių sistemos prieinamumo neįgaliesiems ir riboto judumo asmenims techninių sąveikos specifikacijų su paskutiniais pakeitimais, padarytais 2019 m. gegužės 16 d. Komisijos įgyvendinimo reglamentu (ES) 2019/772, nustatytomis sąlygomis ir tvarka. Reikalavimas pritaikyti geležinkelių riedmenis neįgaliesiems ir riboto judumo asmenims vežti netaikomas siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžių) tinkluose ir tarptautiniam susisiekimui geležinkeliais su trečiosiomis šalimis naudojamoms transporto priemonėms.
+Papildyta straipsnio dalimi:
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+ 
 
 
 
@@ -1100,8 +1168,6 @@ Nr. I-1863
 
 
 
- 
-
  
 Lietuvos Respublikos 
 transporto veiklos pagrindų įstatymo
@@ -1227,10 +1293,9 @@ TAR pastaba. 1 priedo 2.7 papunktyje nurodyti duomenys Lietuvos policijos genera
 Papildyta priedu:
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
  
-part_fa6878261d474129bce4509fea5cbadd_end
 
 
- 
+
 
  
  
@@ -1270,13 +1335,13 @@ KOMPETENTINGŲ VALDŽIOS INSTITUCIJŲ SĄRAŠAS
 Papildyta priedu:
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
  
-part_b9fac7e9277140999bd85bd258f17a5f_end
+
+
+
 
  
  
-
- 
-
+ 
 Lietuvos Respublikos 
 transporto veiklos pagrindų įstatymo
 3 priedas
@@ -1312,7 +1377,8 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 Priedo pakeitimai:
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
  
-part_b0e4d92ac981457d9d764ef1f2c00d0e_end
+
+
 
 
  
@@ -1422,3 +1488,8 @@ Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 4, 6, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1168, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15162
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 12 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2 ir 11 straipsnių pakeitimo įstatymas
