@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-11-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -3384,7 +3384,7 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-33. Jeigu išdavus statybą leidžiantį dokumentą keičiasi esminiai statinio projekto sprendiniai, norint tęsti statybą, šio įstatymo 37 straipsnyje nustatyta tvarka apie numatomą statinių projektavimą (kai jis privalomas) turi būti informuojama visuomenė ir šiame straipsnyje nustatyta tvarka reikia gauti naują statybą leidžiantį dokumentą (kai jis privalomas), išskyrus atvejus, kai nepažeidžiant teisės aktų, normatyvinių statybos techninių dokumentų, teritorijų planavimo dokumentų, statybą leidžiančių dokumentų, specialiųjų reikalavimų ir esminių statinio reikalavimų:
+33. Jeigu išdavus statybą leidžiantį dokumentą keičiasi esminiai statinio projekto sprendiniai, norint tęsti statybą, šio įstatymo 37 straipsnyje nustatyta tvarka apie numatomą statinių projektavimą (kai jis privalomas) turi būti informuojama visuomenė ir šiame straipsnyje nustatyta tvarka reikia gauti naują statybą leidžiantį dokumentą (kai jis privalomas), išskyrus atvejus, kai nepažeidžiant teisės aktų, normatyvinių statybos techninių dokumentų, teritorijų planavimo dokumentų, statybą leidžiančių dokumentų, specialiųjų reikalavimų, esminių statinio architektūros reikalavimų ir esminių statinio reikalavimų:
 
 
 1) dėl objektyvių priežasčių keičiama inžinerinių tinklų ar susisiekimo komunikacijų trasa ar jos dalis ir dėl to keičiasi inžinerinių tinklų ar susisiekimo komunikacijų ilgis;
@@ -3402,10 +3402,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-4) keičiamos statinio laikančiosios konstrukcijos ar jų išdėstymas statinio viduje ir nesikeičia statinio kategorija. 
+4) keičiamos statinio laikančiosios konstrukcijos ar jų išdėstymas statinio viduje ir nesikeičia statinio kategorija.
 
 
-Papildyta straipsnio dalimi:
+Straipsnio dalies pakeitimai:
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
  
 
