@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2022-10-01 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -1052,20 +1052,80 @@ Nr. XIII-1430, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11737
 
 
 
-30 straipsnis. Darbuotojų garbės ir orumo gynimas
+30 straipsnis. Darbuotojų garbės ir orumo gynimas, smurto ir priekabiavimo draudimas 
 
 
-1. Darbdavys privalo sukurti tokią darbo aplinką, kurioje darbuotojas ar jų grupė nepatirtų priešiškų, neetiškų, žeminančių, agresyvių, užgaulių, įžeidžiančių veiksmų, kuriais kėsinamasi į atskiro darbuotojo ar jų grupės garbę ir orumą, fizinį ar psichologinį asmens neliečiamumą ar kuriais siekiama darbuotoją ar jų grupę įbauginti, sumenkinti ar įstumti į beginklę ir bejėgę padėtį.
+1. Darbdavys privalo sukurti tokią darbo aplinką, kurioje darbuotojas ar darbuotojų grupė nepatirtų priešiškų, neetiškų, žeminančių, agresyvių, užgaulių, įžeidžiančių veiksmų, kuriais kėsinamasi į darbuotojo ar darbuotojų grupės garbę ir orumą, fizinį ar psichologinį neliečiamumą ar kuriais siekiama darbuotoją ar darbuotojų grupę įbauginti, sumenkinti ar įstumti į beginklę ir bejėgę padėtį.
 
 
 
 
-2. Darbdavys imasi visų būtinų priemonių psichologinio smurto darbo aplinkoje prevencijai užtikrinti, informaciją apie jas paskelbdamas įprastais darbovietėje būdais, ir imasi aktyvių veiksmų pagalbai asmenims, patyrusiems psichologinį smurtą darbo aplinkoje, suteikti.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
+2. Smurtas ir priekabiavimas, įskaitant psichologinį smurtą, smurtą ir priekabiavimą dėl lyties (smurtas ir priekabiavimas nukreiptas prieš asmenis dėl jų lyties arba neproporcingai paveikiantis tam tikros lyties asmenis, įskaitant seksualinį priekabiavimą), – bet koks nepriimtinas elgesys ar jo grėsmė, nesvarbu, ar nepriimtinu elgesiu vieną kartą ar pakartotinai siekiama padaryti fizinį, psichologinį, seksualinį ar ekonominį poveikį, ar nepriimtinu elgesiu šis poveikis padaromas arba gali būti padarytas, ar tokiu elgesiu įžeidžiamas asmens orumas arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka ar (ir) atsirado arba gali atsirasti fizinė, turtinė ir (ar) neturtinė žala. Smurtas ir priekabiavimas draudžiamas:
+
+
+1) darbo vietose, įskaitant viešąsias ir privačias vietas, kai darbuotojas yra darbdavio žinioje ar atlieka pareigas pagal darbo sutartį; 
+
+
+
+
+2) pertraukų pailsėti ir pavalgyti metu arba naudojantis buities, sanitarinėmis ir higienos patalpomis;
+
+
+
+
+3) su darbu susijusių išvykų, kelionių, mokymų, renginių ar socialinės veiklos metu; 
+
+
+
+
+4) su darbu susijusio bendravimo, įskaitant bendravimą informacinėmis ir elektroninių ryšių technologijomis, metu; 
+
+
+
+
+5) darbdavio suteiktame būste;
+
+
+
+
+6) pakeliui į darbą ar iš darbo. 
+
+
+
+
+
+
+3. Darbdavys imasi visų būtinų priemonių smurto ir priekabiavimo prevencijai užtikrinti ir aktyvių veiksmų pagalbai asmenims, patyrusiems smurtą ar priekabiavimą šio straipsnio 2 dalyje numatytais atvejais, suteikti: 
+
+
+1) atsižvelgdamas į galimus smurto ir priekabiavimo pavojus, imasi jų šalinimo ir (ar) kontrolės priemonių;
+
+
+
+
+2) nustato pranešimų apie smurtą ir priekabiavimą teikimo bei nagrinėjimo tvarką ir supažindina su ja darbuotojus;
+
+
+
+
+3) organizuoja darbuotojams mokymus apie smurto ir priekabiavimo pavojus, prevencijos priemones, darbuotojų teises ir pareigas smurto ir priekabiavimo srityje.
+
+
+
+
+
+
+4. Darbdavys, kurio vidutinis darbuotojų skaičius yra daugiau kaip penkiasdešimt, šio kodekso nustatyta tvarka įvykdęs informavimo ir konsultavimo procedūras, privalo patvirtinti smurto ir priekabiavimo prevencijos politiką, įprastais darbovietėje būdais ją paskelbti ir įgyvendinti. Smurto ir priekabiavimo prevencijos politikoje turi būti nustatyta: smurto ir priekabiavimo atpažinimo būdai, galimos smurto ir priekabiavimo formos, supažindinimo su smurto ir priekabiavimo prevencijos priemonėmis tvarka, pranešimų apie smurtą ir priekabiavimą teikimo ir nagrinėjimo tvarka, apie smurtą ir priekabiavimą pranešusių asmenų ir nukentėjusių asmenų apsaugos priemonės ir jiems teikiama pagalba, darbuotojų elgesio (darbo etikos) taisyklės ir kita informacija, susijusi su smurto ir priekabiavimo prevencija. 
+
+
+
+
+5. Darbdavys atnaujina smurto ir priekabiavimo prevencijos politiką, atsižvelgdamas į gautus pranešimus apie smurtą ir priekabiavimą, nustatytus smurto ir priekabiavimo atvejus, pasikeitus galimiems jų pavojams ar atsiradus naujų arba pareikalavus Lietuvos Respublikos valstybinės darbo inspekcijos darbo inspektoriui.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
  
-
-
 
 
 
@@ -2291,7 +2351,10 @@ Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 
 
 
-4) priekabiavimas dėl lyties ar seksualinis priekabiavimas, diskriminacinio pobūdžio veiksmai ar garbės ir orumo pažeidimas kitų darbuotojų ar trečiųjų asmenų atžvilgiu darbo metu ar darbo vietoje; 
+4) smurtas ar priekabiavimas, įskaitant psichologinį smurtą ir smurtą ar priekabiavimą dėl lyties (smurtas ar priekabiavimas, nukreiptas prieš asmenis dėl jų lyties arba neproporcingai paveikiantis tam tikros lyties asmenis, įskaitant seksualinį priekabiavimą), diskriminacinio pobūdžio veiksmai ar garbės ir orumo pažeidimas kitų darbuotojų ar trečiųjų asmenų atžvilgiu darbo metu ar darbo vietoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
+ 
 
 
 
@@ -5664,11 +5727,12 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-8. Darbuotojams, kurių darbas yra kilnojamojo pobūdžio arba atliekamas lauko sąlygomis, arba susijęs su kelionėmis ar važiavimu, kompensuojamos su tuo susijusios padidėjusios išlaidos už faktiškai tokio pobūdžio dirbtą darbo laiką. Šių kompensacijų dydis negali viršyti 50 procentų bazinio (tarifinio) darbo užmokesčio ir jos mokamos tuo atveju, kai darbuotojui neapmokamos komandiruotės išlaidos. 
+8. Darbuotojams, kurių darbas yra kilnojamojo pobūdžio arba atliekamas lauko sąlygomis, arba susijęs su kelionėmis ar važiavimu, kompensuojamos su tuo susijusios padidėjusios išlaidos už faktiškai tokio pobūdžio dirbtą darbo laiką. Šių kompensacijų dydis negali viršyti 30 procentų bazinio (tarifinio) darbo užmokesčio ir jos mokamos tuo atveju, kai darbuotojui neapmokamos komandiruotės išlaidos.
 Papildyta straipsnio dalimi:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 Straipsnio dalies pakeitimai:
 Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
  
 
 
@@ -9978,7 +10042,7 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 
 
-part_d5c18c15efc04d7cb2d04d22c5f84b6a_end
+part_d1af8b3b2b1a4e1fbf7defdbcc8143b8_end
 
 
 Lietuvos Respublikos
