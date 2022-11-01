@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 
 # Lietuvos Respublikos veterinarijos įstatymas
 
-Suvestinė redakcija nuo 2020-07-10 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2023-03-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
  
@@ -109,6 +109,22 @@ BENDROSIOS NUOSTATOS
 
 
 
+121. Veterinarijos felčeris – fizinis asmuo, įgijęs veterinarijos felčerio arba Vyriausybės įgaliotos institucijos nustatyta tvarka jam prilygintą profesinę kvalifikaciją. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
+ 
+
+
+
+
+122. Veterinarijos gydytojas – asmuo, įgijęs veterinarijos gydytojo profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
+ 
+
+
+
+
 13. Veterinarijos gydytojas rezidentas – veterinarijos gydytojas, studijuojantis pagal veterinarijos mokslų veterinarijos studijų krypties rezidentūros studijų programą. 
 
 
@@ -134,7 +150,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos maisto įstatyme, Lietuvos Respublikos pašarų įstatyme ir Reglamente (ES) 2017/625. 
+18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos maisto įstatyme, Lietuvos Respublikos pašarų įstatyme, Lietuvos Respublikos veterinarinių vaistų įstatyme ir Reglamente (ES) 2017/625.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
+ 
 
 
 Straipsnio pakeitimai:
@@ -990,49 +1009,20 @@ Nr. XIII-1611, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18506
 
 
 
-17 straipsnis. Veterinarinių vaistų kontrolė
+17 straipsnis. Veterinarinių vaistų ir medžiagų, skatinančių ūkinių gyvūnų augimą ir didinančių jų produktyvumą, naudojimas
 
 
-1. Gyvūnams gydyti ir profilaktikai leidžiama naudoti Veterinarinių vaistų registre arba Bendrijos veterinarinių vaistų registre registruotus veterinarinius vaistus, veterinarinius vaistus, įrašytus į Lygiagrečiai importuojamų veterinarinių vaistų sąrašą, arba neregistruotus veterinarinius vaistus, kuriems tiekti rinkai yra išduotas Valstybinės maisto ir veterinarijos tarnybos leidimas. Veterinariniai vaistai gali būti skiriami ir naudojami toms ligoms ir tų rūšių gyvūnams gydyti, kurie yra nurodyti veterinarinių vaistų informaciniuose dokumentuose. Jeigu tam tikrai gyvūno ligai gydyti nėra registruoto veterinarinio vaisto, išimties tvarka privatus veterinarijos gydytojas, siekdamas išvengti neleistinų gyvūno kančių, prisiimdamas atsakomybę, gali skirti konkrečiam gyvūnui gydyti arba pats gydyti konkretų gyvūną:
-
-
-1) veterinariniu vaistu, registruotu Veterinarinių vaistų registre arba Bendrijos veterinarinių vaistų registre ar įrašytu į Lygiagrečiai importuojamų veterinarinių vaistų sąrašą ir skirtu naudoti kitos rūšies gyvūnams arba tos pačios rūšies gyvūnams gydyti, bet kitos ligos atveju; 
+1. Veterinariniai vaistai naudojami Veterinarinių vaistų įstatymo nustatyta tvarka.
 
 
 
 
-2) vaistu (vaistiniu preparatu), įrašytu į Lietuvos Respublikos vaistinių preparatų registrą, Bendrijos vaistinių preparatų registrą ar Lygiagrečiai importuojamų vaistinių preparatų sąrašą, arba veterinariniu vaistu, kuris registruotas kitoje Europos Sąjungos valstybėje narėje ir skirtas tos pačios rūšies gyvūnams arba kitos rūšies gyvūnams gydyti konkrečios ligos ar kitos ligos atveju, jeigu nėra galimybės jo gydyti šios dalies 1 punkte nurodytu veterinariniu vaistu;
-
-
-
-
-3) Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka veterinariniu vaistu, paruoštu iš anksto (ex tempore) atsižvelgiant į veterinarinio recepto sąlygas, jeigu nėra galimybės jo gydyti šios dalies 1 ir 2 punktuose nurodytais veterinariniais vaistais ar vaistais (vaistiniais preparatais).
-
-
-
-
-
-
-2. Veterinariniai vaistai, turintys antimikrobinių medžiagų, turi būti skiriami ir naudojami Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka, parengta vadovaujantis Europos Komisijos patvirtintomis Racionalaus antimikrobinių medžiagų naudojimo veterinarijoje gairėmis, ir tik taip, kaip nurodyta patvirtintuose šių veterinarinių vaistų informaciniuose dokumentuose.
-
-
-
-
-3. Vaistinių pašarų gamybos, tiekimo rinkai ir naudojimo reikalavimus nustato ir jų kontrolę atlieka Valstybinė maisto ir veterinarijos tarnyba.
-
-
-
-
-4. Valstybinė maisto ir veterinarijos tarnyba kontroliuoja, kaip fiziniai ar juridiniai asmenys, kitos organizacijos ir jų filialai naudoja veterinarinius vaistus, laikosi veterinarinę farmaciją reglamentuojančių teisės aktų reikalavimų, saugo ir tvarko naikintinus veterinarinius vaistus.
-
-
-
-
-5. Draudžiama vartoti tirostatinį, estrogeninį, androgeninį arba gestageninį poveikį turinčias medžiagas, skatinančias ūkinių gyvūnų augimą ir didinančias jų produktyvumą, išskyrus Valstybinės maisto ir veterinarijos tarnybos nustatytus atvejus. 
+2. Draudžiama naudoti tirostatinį, estrogeninį, androgeninį arba gestageninį poveikį turinčias medžiagas, skatinančias ūkinių gyvūnų augimą ir didinančias jų produktyvumą, išskyrus Valstybinės maisto ir veterinarijos tarnybos nustatytus atvejus.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1611, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18506
+Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
  
 
 
@@ -1155,6 +1145,9 @@ Nr. I-2110
 
 
 
+ 
+
+ 
 Lietuvos Respublikos 
 veterinarijos įstatymo
 priedas
@@ -1173,7 +1166,10 @@ priedas
 
 
 
-3. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/82/EB dėl Bendrijos kodekso, reglamentuojančio veterinarinius vaistus.
+3. Neteko galios nuo 2022-11-01
+Punkto naikinimas:
+Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
+ 
 
 
 
@@ -1183,7 +1179,10 @@ priedas
 
 
 
-5. 2002 m. gruodžio 16 d. Tarybos direktyva 2002/99/EB, nustatanti gyvūnų sveikatos taisykles, reglamentuojančias žmonėms skirtų gyvūninės kilmės produktų gamybą, perdirbimą, paskirstymą ir importą.
+5. Neteko galios nuo 2022-11-01
+Punkto naikinimas:
+Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
+ 
 
 
 
@@ -1232,3 +1231,11 @@ Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 15, 16 ir 17 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3206, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15399
 Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 6, 7, 14, 15, 16 ir 19 straipsnių, antrojo skirsnio pavadinimo, priedo pakeitimo, 4 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 21 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 17 straipsnių ir priedo pakeitimo įstatymas
+ 
+ 
+part_3fb0710cb00b41e9be94b8c71cffb4d9_end
