@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-12 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -49,9 +49,10 @@ BENDROSIOS NUOSTATOS
 1. Iš ligos socialinio draudimo lėšų:
 
 
-1) įstatymų nustatytais atvejais kompensuojamos šios rūšies draudimu apdraustiems asmenims dėl jų pačių ar jų šeimos narių arba budinčio globotojo, globėjo, rūpintojo ar vaiką laikinai prižiūrinčio asmens, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, prižiūrimų vaikų ligos ar dėl dalyvavimo profesinės reabilitacijos programoje negautos pajamos arba jų dalis;
+1) įstatymų nustatytais atvejais kompensuojamos šios rūšies draudimu apdraustiems asmenims dėl jų pačių ar jų šeimos narių arba budinčio globotojo, globėjo, rūpintojo arba vaiką ar neįgalų asmenį, besimokantį pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, laikinai prižiūrinčio asmens, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, prižiūrimų vaikų ar neįgalių asmenų ligos ar dėl dalyvavimo profesinės reabilitacijos programoje negautos pajamos arba jų dalis;
 Straipsnio punkto pakeitimai:
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
  
 
 
@@ -626,11 +627,12 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-4. Kai teisės aktų nustatyta tvarka švietimo įstaigose nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsirado būtinybė prižiūrėti pagal ikimokyklinio, priešmokyklinio ar pradinio ugdymo programą ugdomą vaiką, ligos išmoka motinai (tėvui), įmotei (įtėviui), budinčiam globotojui, globėjui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Šiame straipsnyje nurodytu atveju ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama, jeigu apdraustojo asmens laikinasis nedarbingumas dėl vaiko priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos.
+4. Jeigu vaiko iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomo vaiko, ar neįgalaus asmens, besimokančio pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, lankomoje švietimo įstaigoje nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsiranda būtinybė jį prižiūrėti, ligos išmoka vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar neįgalų asmenį laikinai prižiūrinčiam asmeniui, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų vaiko ar neįgalaus asmens lankomoje švietimo įstaigoje nustatyto infekcijų plitimą ribojančio režimo laikotarpiu pradedama mokėti nuo pirmosios vaiko ar neįgalaus asmens priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Šiame straipsnyje nurodytu atveju, kai apdraustojo asmens laikinasis nedarbingumas dėl vaiko ar neįgalaus asmens priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui, ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama ne ilgiau negu šioje dalyje nurodytą laikotarpį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
  
 
 
@@ -651,7 +653,10 @@ Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 
 
 
-3. Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu atsiradus būtinybei prižiūrėti vaiką iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomą vaiką, ar pagal bendrojo arba specialiojo ugdymo programą besimokantį neįgalų asmenį, ligos išmoka vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko ar neįgalaus asmens priežiūros dienos. Šioje dalyje nustatytos ligos išmokos dydis yra lygus 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodyta ligos išmoka turinčiai (turinčiam) teisę ją gauti motinai (tėvui), įmotei (įtėviui), senelei (seneliui), globėjui, prižiūrinčiam vaiką, kurio priežiūrai kitam asmeniui (motinai (tėvui), įmotei (įtėviui), senelei (seneliui) ar globėjui) suteiktos vaiko priežiūros atostogos, nemokama, išskyrus šio įstatymo 10 straipsnio 3 dalyje nurodytus atvejus. 
+3. Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu atsiradus būtinybei prižiūrėti vaiką iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomą vaiką, ar neįgalų asmenį, besimokantį pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, ligos išmoka vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar neįgalų asmenį laikinai prižiūrinčiam asmeniui, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko ar neįgalaus asmens priežiūros dienos. Šioje dalyje nustatytos ligos išmokos dydis yra lygus 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodyta ligos išmoka turinčiai (turinčiam) teisę ją gauti motinai (tėvui), įmotei (įtėviui), senelei (seneliui), globėjui, prižiūrinčiam vaiką, kurio priežiūrai kitam asmeniui (motinai (tėvui), įmotei (įtėviui), senelei (seneliui) ar globėjui) suteiktos vaiko priežiūros atostogos, nemokama, išskyrus šio įstatymo 10 straipsnio 3 dalyje nurodytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
+ 
 
 
 
@@ -671,12 +676,18 @@ Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 
 
 
-7. Jeigu Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vaikas iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomas vaikas, ar pagal bendrojo arba specialiojo ugdymo programą besimokantis neįgalus asmuo lankėsi užsienio šalyje (šalyse) be motinos (įmotės), tėvo (įtėvio), budinčio globotojo, ar globėjo ar vaiką laikinai prižiūrinčio asmens, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, ir dėl jo lankymosi užsienio šalyje (šalyse) jam taikoma privaloma izoliacija arba jis turėjo sąlytį su pavojinga užkrečiamąja liga sergančiu asmeniu, ligos išmoka, vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų vaiko ar neįgalaus asmens privalomos izoliacijos laikotarpiu mokama nuo pirmosios vaiko ar neįgalaus asmens priežiūros dienos, bet ne ilgiau kaip 14 kalendorinių dienų, skaičiuojant atitinkamai nuo vaiko ar neįgalaus asmens atvykimo iš užsienio šalies į Lietuvos Respubliką dienos arba nuo jo turėto sąlyčio su pavojinga užkrečiamąja liga sergančiu asmeniu dienos, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nustatytais atvejais ligos išmoka nemokama, jeigu vaikas iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomas vaikas, ar pagal bendrojo arba specialiojo ugdymo programą besimokantis neįgalus asmuo išvyko į užsienio šalį, kuri jo išvykimo iš Lietuvos Respublikos dieną įtraukta į sveikatos apsaugos ministro patvirtintą užsienio šalių, iš kurių grįžus į Lietuvos Respubliką privaloma izoliacija, sąrašą. 
+7. Jeigu Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vaikas iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomas vaikas, ar neįgalus asmuo, besimokantis pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, lankėsi užsienio šalyje (šalyse) be motinos (įmotės), tėvo (įtėvio), budinčio globotojo, globėjo arba vaiką ar neįgalų asmenį laikinai prižiūrinčio asmens, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, ir dėl jo lankymosi užsienio šalyje (šalyse) jam taikoma privaloma izoliacija arba jis turėjo sąlytį su pavojinga užkrečiamąja liga sergančiu asmeniu, ligos išmoka, vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar neįgalų asmenį laikinai prižiūrinčiam asmeniui, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų vaiko ar neįgalaus asmens privalomos izoliacijos laikotarpiu mokama nuo pirmosios vaiko ar neįgalaus asmens priežiūros dienos, bet ne ilgiau kaip 14 kalendorinių dienų, skaičiuojant atitinkamai nuo vaiko ar neįgalaus asmens atvykimo iš užsienio šalies į Lietuvos Respubliką dienos arba nuo jo turėto sąlyčio su pavojinga užkrečiamąja liga sergančiu asmeniu dienos, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nustatytais atvejais ligos išmoka nemokama, jeigu vaikas iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomas vaikas, ar neįgalus asmuo, besimokantis pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, išvyko į užsienio šalį, kuri jo išvykimo iš Lietuvos Respublikos dieną įtraukta į sveikatos apsaugos ministro patvirtintą užsienio šalių, iš kurių grįžus į Lietuvos Respubliką privaloma izoliacija, sąrašą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
+ 
 
 
 
 
-8. Jeigu Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vaiko iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomo vaiko, ar pagal bendrojo arba specialiojo ugdymo programą besimokančio neįgalaus asmens lankomoje švietimo įstaigoje dėl užkrečiamosios ligos, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsirado būtinybė jį prižiūrėti, ligos išmoka, vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų mokama infekcijų plitimą ribojančio režimo laikotarpiu nuo tokio režimo nustatymo vaiko ar neįgalaus asmens lankomoje švietimo įstaigoje dienos, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. 
+8. Jeigu Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vaiko iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomo vaiko, ar neįgalaus asmens, besimokančio pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, lankomoje švietimo įstaigoje dėl užkrečiamosios ligos, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsiranda būtinybė jį prižiūrėti, ligos išmoka, vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar neįgalų asmenį laikinai prižiūrinčiam asmeniui, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų mokama infekcijų plitimą ribojančio režimo laikotarpiu nuo tokio režimo nustatymo vaiko ar neįgalaus asmens lankomoje švietimo įstaigoje dienos, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
+ 
 
 
 
@@ -1915,3 +1926,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1191, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15182
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 6, 8, 9, 10, 11, 11-1, 14, 16, 22, 23 ir 30 straipsnių pakeitimo įstatymo Nr. XIV-752 pavadinimo, 14 straipsnio pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 11 ir 11-1 straipsnių pakeitimo įstatymas
