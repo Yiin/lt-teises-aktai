@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1998
  
 
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-11-09
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -503,9 +503,11 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-222. Virtualioji valiuta – skaitmeninę vertę turinti, bet teisinio valiutos ar pinigų statuso neturinti priemonė, kurios neleidžia ar už kurią nelaiduoja centrinis bankas ar kita valstybės institucija ir kuri nėra būtinai susieta su valiuta, tačiau kurią fiziniai ar juridiniai asmenys pripažįsta kaip mainų priemonę ir kuri gali būti pervedama, saugoma ir parduodama elektroninėmis priemonėmis. 
+222. Virtualioji valiuta – skaitmeninė vertę turinti, bet teisinio valiutos ar pinigų statuso neturinti priemonė, kurios neleidžia ar už kurią nelaiduoja centrinis bankas ar kita valstybės institucija ir kuri nėra būtinai susieta su valiuta, tačiau kurią fiziniai ar juridiniai asmenys pripažįsta kaip mainų priemonę ir kuri gali būti elektroninėmis priemonėmis pervedama, saugoma, parduodama, keičiama, investuojama ir naudojama atsiskaitymams.
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Straipsnio dalies pakeitimai:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
@@ -1334,6 +1336,14 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 21. Finansų įstaigoms draudžiama išduoti anonimines indėlininkų knygeles arba nuomoti anoniminius banko seifus, atidaryti anonimines sąskaitas ar sąskaitas akivaizdžiai fiktyviais vardais, taip pat atidaryti sąskaitas ar kitaip pradėti dalykinius santykius nepareikalavus kliento tapatybę patvirtinančių duomenų arba kilus pagrįstam įtarimui, kad šiuose dokumentuose įrašyti duomenys yra netikri ar suklastoti. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+ 
+
+
+
+
+211. Virtualiųjų valiutų keityklos operatoriui ir depozitinių virtualiųjų valiutų piniginių operatoriui draudžiama atidaryti anonimines sąskaitas ar sąskaitas akivaizdžiai fiktyviais vardais, taip pat atidaryti sąskaitas ar kitaip pradėti dalykinius santykius nepareikalavus kliento tapatybę patvirtinančių duomenų arba kilus pagrįstam įtarimui, kad šiuose dokumentuose įrašyti duomenys yra netikri ar suklastoti.
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
@@ -2957,9 +2967,33 @@ TAR pastaba. Asmenys, iki įstatymo Nr. XIII-1440 įsigaliojimo (2018-11-01) pra
 
 
 
-3. Patikos ar bendrovių steigimo, ar administravimo paslaugų teikėju, nekilnojamojo turto agentu, juridinio asmens, kuris vykdo patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo, nekilnojamojo turto agento, virtualiųjų valiutų keityklos operatoriaus ir depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, valdymo ar priežiūros organų nariu arba tokių asmenų naudos gavėju negali būti fizinis asmuo, kuris yra pripažintas kaltu dėl sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams ir turi neišnykusį ar nepanaikintą teistumą. 
+3. Patikos ar bendrovių steigimo, ar administravimo paslaugų teikėju, nekilnojamojo turto agentu, juridinio asmens, kuris vykdo patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo, nekilnojamojo turto agento veiklą, valdymo ar priežiūros organų nariu arba tokių asmenų naudos gavėju negali būti fizinis asmuo, kuris yra pripažintas kaltu dėl sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams ir turi neišnykusį ar nepanaikintą teistumą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
+
+
+
+
+31. Virtualiųjų valiutų keityklos operatoriaus ir depozitinių virtualiųjų valiutų piniginių operatoriaus valdymo, priežiūros organų nariu, naudos gavėju negali būti fizinis asmuo, kuris yra:
+
+
+1) pripažintas kaltu padaręs Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus, neatsižvelgiant į tai, ar asmens teistumas yra išnykęs, ar panaikintas;
+
+
+
+
+2) pripažintas kaltu padaręs Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai;
+
+
+
+
+3) pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 ir 2 punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
@@ -2968,6 +3002,38 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 4. Juridinis asmuo, pradėjęs vykdyti virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Juridinių asmenų registro tvarkytoją apie virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Pateikdamas šią informaciją, virtualiųjų valiutų keityklos operatorius ar depozitinių virtualiųjų valiutų piniginių operatorius patvirtina, kad jis pats ar jo valdymo ar priežiūros organų nariai ir naudos gavėjai yra susipažinę su pinigų plovimą ir teroristų finansavimo prevenciją reglamentuojančiais teisės aktais ir atitinka jų reikalavimus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+ 
+
+
+
+
+5. Juridinis asmuo, pradėjęs vykdyti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, privalo turėti vyresnįjį vadovą, kuris būtų nuolatinis Lietuvos gyventojas, kaip jis suprantamas pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
+
+
+
+
+6. Lietuvos Respublikoje įsteigtas juridinis asmuo, kurio teisinė forma yra akcinė bendrovė arba uždaroji akcinė bendrovė, ketinantis vykdyti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, privalo turėti įregistruotą įstatinį kapitalą, kuris turi būti ne mažesnis kaip 125 000 eurų. Kitos teisinės formos Lietuvos Respublikoje įsteigtas juridinis asmuo arba Europos Sąjungos valstybės narės ar užsienio valstybės juridinio asmens filialas, ketinantis vykdyti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą, privalo turėti draudimo įmonės išduotą prievolių įvykdymo laidavimo draudimo arba finansų įstaigos laidavimo ar garantijos dokumentą dėl ne mažesnės kaip 100 000 eurų sumos vienai kliento pretenzijai dėl nuostolių atlyginimo ir 500 000 eurų sumos visoms klientų pretenzijoms dėl nuostolių atlyginimo per metus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
+
+
+
+
+7. Pagal šio įstatymo 22 straipsnio 1 dalį paskirti virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus vadovaujantieji darbuotojai negali tuo pačiu metu atstovauti daugiau kaip vienam virtualiųjų valiutų keityklos operatoriui ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriui, išskyrus atvejus, kai tie operatoriai priklauso vienai įmonių grupei. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
+
+
+
+
+8. Virtualiųjų valiutų keityklos operatorius ir (ar) depozitinių virtualiųjų valiutų piniginių operatorius privalo nevykdyti veiklos ir neteikti paslaugų kitoje valstybėje tokiu mastu, kad Lietuvos Respublikoje liktų tik neesminės pagal jų veiklos pobūdį funkcijos ar paslaugos ir jos būtų atliekamos ar teikiamos išimtinai tik kitos valstybės klientams ar iš esmės veiklos Lietuvos Respublikoje jie nebevykdytų.
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
@@ -4613,3 +4679,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 12 ir 25-2 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 9, 25 straipsnių pakeitimo ir Įstatymo papildymo 25-3 straipsniu įstatymas
