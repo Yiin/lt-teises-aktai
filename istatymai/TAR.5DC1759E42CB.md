@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2022-09-27 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -232,6 +232,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
+191. Eskortavimas – veikla, kai specialiomis spalvomis nudažytomis specialiosiomis transporto priemonėmis – motociklais užtikrinamas iškilmingai lydimų transporto priemonių nestabdomas judėjimas ir eismo  saugumas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
 20. Galingasis keturratis – keturratė motorinė transporto priemonė, kuri negali būti klasifikuojama kaip lengvasis keturratis ar keturratis ir kurios didžiausioji naudingoji galia didesnė kaip 15 kW, bet ne didesnė kaip 100 kW, variklio darbinis tūris ne didesnis kaip 1 000 cm3. Prie galingųjų keturračių taip pat priskiriamos daugiau kaip 4 ratus turinčios motorinės transporto priemonės, atitinkančios galingiesiems keturračiams taikomus techninius reikalavimus.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
@@ -340,6 +348,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
+271. Kelio ženklinimas – KET nurodytas kelio horizontalusis ar vertikalusis ženklinimas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
 28. Kelių eismo reguliuotojas (toliau – reguliuotojas) – asmuo, teisės aktų nustatyta tvarka įgaliotas reguliuoti kelių eismą, dėvintis uniformą ir turintis skiriamąjį ženklą (raištį ant rankovės, reguliuotojo lazdelę, skritulį su raudonu atšvaitu).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
@@ -359,6 +375,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 30. Lengvasis keturratis – keturratė motorinė transporto priemonė, kurios masė (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma transporto priemonė) be krovinio ne didesnė kaip 350 kg, didžiausiasis projektinis greitis ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), didžiausioji nominalioji galia ne didesnė kaip 4 kW (esant elektros varikliui).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
+ 
+
+
+
+
+301. Lydėjimas specialiosiomis transporto priemonėmis – veikla, kai specialiosiomis transporto priemonėmis užtikrinamas lydimų transporto priemonių nestabdomas judėjimas ir eismo saugumas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
  
 
 
@@ -478,6 +502,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
+441. Oficiali delegacija – Lietuvos Respublikos oficialus svečias, jo sutuoktinis ar kitas lydintis šeimos narys, vizito metu atliekantys valstybinio ir diplomatinio protokolo nustatytas funkcijas, taip pat Lietuvos Respublikos oficialų svečią lydintys kiti oficialūs asmenys, kurių pareigos atitinka vizito tikslus ir poreikį dalyvauti oficialiojoje vizito programos dalyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
 45. Neteko galios nuo 2022-01-01.
 Straipsnio dalies pakeitimai:
 Nr. XIV-265, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08867
@@ -534,7 +566,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-49. Pėsčiasis – asmuo, esantis kelyje ne transporto priemonėje, taip pat važiuojantis neįgaliųjų vežimėliu, riedučiais, riedlente, paspirtuku, vedantis dviratį, mopedą, motociklą, traukiantis (stumiantis) rogutes, vaikišką ar kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo.
+49. Pėsčiasis – asmuo, esantis kelyje ne transporto priemonėje, taip pat važiuojantis neįgaliųjų vežimėliu, riedučiais, riedlente, paspirtuku be variklio, vedantis dviratį, mopedą, motociklą, traukiantis (stumiantis) rogutes, vaikišką ar kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -980,6 +1014,14 @@ Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
  
 
 
+
+
+99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kelių įstatyme ir Lietuvos Respublikos vadovybės apsaugos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XIII-1139, 2018-05-10, paskelbta TAR 2018-05-15, i. k. 2018-07790
  
@@ -1000,7 +1042,9 @@ Nr. XIII-1139, 2018-05-10, paskelbta TAR 2018-05-15, i. k. 2018-07790
 
 
 
-3. Eismą keliuose Lietuvos Respublikoje gali riboti tik KET numatyti kelio ženklai, ženklinimo linijos, šviesoforai ir reguliuotojo signalai. Jeigu kelio ženklo ir ženklinimo linijų reikalavimai skiriasi, vadovaujamasi kelio ženklo reikalavimais.
+3. Eismą keliuose Lietuvos Respublikoje gali riboti tik KET numatyti kelio ženklai, kelio ženklinimas, šviesoforai ir reguliuotojo signalai. Jeigu kelio ženklo ir kelio ženklinimo reikalavimai skiriasi, vadovaujamasi kelio ženklo reikalavimais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
  
 
 
@@ -1598,9 +1642,18 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 
 
-9) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
+9) nustato leidimų naudoti kelių transporto priemones su stiklais, kurių šviesos laidumas mažesnis, negu leistina, išdavimo sąlygas ir tvarką; 
+Papildyta straipsnio punktu:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
+10) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
  
 
 
@@ -1647,6 +1700,24 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 7) gali atlikti kitas funkcijas, susijusias su eismo saugumo užtikrinimu.
 
 
+
+
+
+
+61. Užtikrindama eismo saugumą, Krašto apsaugos ministerija ar jos įgaliotos institucijos:
+
+
+1) nustato taktinių ir logistinių transporto priemonių ir jų priekabų, kuriose integruotos ginklų ir valdymo sistemos, sąrašą;
+
+
+
+
+2) nustato taktinių ir logistinių transporto priemonių ir jų priekabų, kurios yra priskirtinos traktorių, savaeigių mašinų ar jų priekabų kategorijoms, techninės apžiūros tvarką ir techninius reikalavimus. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -1752,7 +1823,10 @@ Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 
 
-10) eskortuoja ir lydi vadovybę, oficialius Lietuvos Respublikos svečius ir oficialias delegacijas, lydi didžiagabarites transporto priemones, kai jos gali kelti grėsmę eismo saugumui, ir transporto priemones, kuriomis vežami keleiviai, masinių ir kitokių renginių dalyviai;
+10) eskortuoja ir lydi specialiosiomis transporto priemonėmis oficialias delegacijas ir saugomus asmenis, lydi specialiosiomis transporto priemonėmis didžiagabarites transporto priemones, kai jos gali kelti grėsmę eismo saugumui, ir transporto priemones, kuriomis vežami keleiviai, masinių ir kitokių renginių dalyviai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -1783,7 +1857,15 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 
 
-2) įstatymų nustatytais atvejais tiria KET pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų nustatytais atvejais surašo administracinių nusižengimų protokolus, nagrinėja administracinių nusižengimų bylas ir priima nutarimus šiose bylose, taiko kitas įstatymų numatytas priemones. 
+2) įstatymų nustatytais atvejais tiria KET pažeidimus, atlieka ikiteisminį tyrimą eismo įvykių bylose, įstatymų nustatytais atvejais surašo administracinių nusižengimų protokolus, nagrinėja administracinių nusižengimų bylas ir priima nutarimus šiose bylose, taiko kitas įstatymų numatytas priemones;
+
+
+
+
+3) lydi specialiosiomis transporto priemonėmis karines transporto priemones, taip pat oficialias delegacijas ir (ar) Lietuvos Respublikos oficialius svečius, kurie atvyksta krašto apsaugos ministro ar Lietuvos kariuomenės vado oficialiu kvietimu.
+Papildyta straipsnio punktu:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -2361,7 +2443,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 13 straipsnis. Bendrosios transporto priemonių vairuotojų pareigos
 
 
-1. Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną asmenims, neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo psichiką veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu kasdieniu poilsiu. Be to, neleidžiama vairuoti susirgus ar pavargus, jeigu dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims, kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės vairuoti šią transporto priemonę. 
+1. Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną asmenims, neturintiems šios teisės, taip pat neblaiviems, apsvaigusiems nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ar nepasinaudojus teisės aktų nustatytu privalomu kasdieniu poilsiu. Be to, neleidžiama vairuoti susirgus ar pavargus, jeigu dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims, kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės vairuoti šią transporto priemonę.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -2404,7 +2489,10 @@ Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 
 
-9. Lietuvos Respublikoje išduoto vairuotojo pažymėjimo nereikia turėti asmenims, turintiems Europos Sąjungos valstybėse narėse ir Europos laisvosios prekybos asociacijos šalyse išduotus galiojančius vairuotojo pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai Lietuvos Respublikoje galioja, jeigu jų turėtojas nėra nuolatinis Lietuvos Respublikos gyventojas. Šie užsienio valstybėse išduoti vairuotojo pažymėjimai nepripažįstami, jeigu jų turėtojai nėra sukakę šio įstatymo nustatyto amžiaus arba jeigu vairuotojo pažymėjimai buvo išduoti asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie nustatyta tvarka nesusigrąžino teisės vairuoti transporto priemonę po to, kai ji buvo atimta. Be to, nepripažįstami vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo pažymėjimo galiojimas yra apribotas, sustabdytas ar vairuotojo pažymėjimas atimtas jį išdavusioje valstybėje.
+9. Lietuvos Respublikoje išduoto vairuotojo pažymėjimo nereikia turėti asmenims, turintiems Europos Sąjungos valstybėse narėse ir Europos laisvosios prekybos asociacijos šalyse išduotus galiojančius vairuotojo pažymėjimus. 1926 metų Paryžiaus konvencijos dėl automobilių eismo, 1949 metų Ženevos konvencijos dėl kelių eismo ir 1968 metų Vienos konvencijos dėl kelių eismo susitariančiųjų šalių išduoti ir šių konvencijų reikalavimus atitinkantys nacionaliniai ir tarptautiniai vairuotojo pažymėjimai Lietuvos Respublikoje galioja, jeigu jų turėtojas nėra nuolatinis Lietuvos Respublikos gyventojas, o tapus nuolatiniu Lietuvos Respublikos gyventoju – ne ilgiau kaip šešis mėnesius nuo nuolatinio Lietuvos Respublikos gyventojo statuso įgijimo. Šie užsienio valstybėse išduoti vairuotojo pažymėjimai nepripažįstami, jeigu jų turėtojai nėra sukakę šio įstatymo nustatyto amžiaus arba jeigu vairuotojo pažymėjimai buvo išduoti asmenims, kuriems atimta teisė vairuoti transporto priemones ar kurie teisės pažeidimo, už kurį atimta teisė vairuoti transporto priemones, padarymo metu būdami nuolatiniais Lietuvos Respublikos gyventojais ar turėdami leidimą laikinai gyventi Lietuvos Respublikoje šio įstatymo 24 straipsnyje nustatyta tvarka nesusigrąžino teisės vairuoti transporto priemonę po to, kai ji buvo atimta. Be to, nepripažįstami vairuotojo pažymėjimai, išduoti asmenims, kuriems vairuotojo pažymėjimo galiojimas yra apribotas, sustabdytas ar vairuotojo pažymėjimas atimtas jį išdavusioje valstybėje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -2429,7 +2517,10 @@ Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 
 
-14. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas, sustojęs tamsiuoju paros metu neapšviestame kelyje, išskyrus stovėti skirtas vietas, išlipęs iš motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos, privalo vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais.
+14. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas, sustojęs tamsiuoju paros metu neapšviestame kelyje arba esant blogam matomumui, išskyrus stovėti skirtas vietas, išlipęs iš (nulipęs nuo) motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos, privalo vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -2455,12 +2546,20 @@ Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 
 
 19. Kitas transporto priemonių vairuotojų pareigas ir jų veiksmus konkrečiomis eismo situacijomis nustato KET. 
+
+
+
+
+20. Savivaldžių automobilių bandymus viešajame eisme privalo atlikti asmenys, kurie bet kuriuo metu tiesiogiai ar nuotoliniu būdu gali perimti savivaldžių automobilių valdymą. Šie asmenys savivaldžių automobilių bandymų metu yra prilyginami vairuotojams, vykdo įstatymuose ir kituose teisės aktuose nustatytas vairuotojų pareigas ir privalo turėti galiojantį vairuotojo pažymėjimą, kuriuo suteikiama teisė vairuoti bandomos kategorijos motorines transporto priemones.
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1943, 2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
 Nr. XI-2107, 2012-06-21, Žin., 2012, Nr. 78-4029 (2012-07-04)
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-974, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21733
  
@@ -2741,9 +2840,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 19 straipsnis. Specialiųjų transporto priemonių vairuotojų teisės ir pareigos 
 
 
-1. Specialiųjų transporto priemonių vairuotojai, turintys leidimus naudoti mėlynus ir raudonus švyturėlius bei specialiuosius garso signalus, gali naudotis įjungtais mėlynais ir raudonais arba tik mėlynais švyturėliais ir specialiaisiais garso signalais tik tuo atveju, kai tai būtina gelbėjant žmogaus gyvybę, sveikatą ar turtą, užtikrinant viešąją tvarką ir eismo saugumą, sulaikant teisės pažeidimų padarymu įtariamus asmenis, eskortuojant ir lydint Lietuvos Respublikos vadovybės apsaugos įstatyme nurodytus saugomus asmenis. 
+1. Specialiųjų transporto priemonių vairuotojai, turintys leidimus naudoti mėlynus ir raudonus švyturėlius bei specialiuosius garso signalus, gali naudotis įjungtais mėlynais ir raudonais arba tik mėlynais švyturėliais ir specialiaisiais garso signalais tik tuo atveju, kai tai būtina gelbėjant žmogaus gyvybę, sveikatą ar turtą, užtikrinant viešąją tvarką ir eismo saugumą, sulaikant teisės pažeidimų padarymu įtariamus asmenis, eskortuojant ir (ar) lydint specialiosiomis transporto priemonėmis oficialias delegacijas ir saugomus asmenis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2920, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10921
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
  
 
 
@@ -2764,7 +2864,10 @@ Nr. XIII-2920, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10921
 
 
 
-5. Šio straipsnio 1, 2 ir 3 dalyse nustatytas teises ir pareigas taip pat turi Europos Sąjungos valstybių narių ir asocijuotų Šengeno valstybių specialiųjų transporto priemonių vairuotojai, kai jie tarptautinių teisės aktų nustatytais atvejais ir tvarka vykdo tarnybines pareigas Lietuvos Respublikos teritorijoje.
+5. Šio straipsnio 1, 2 ir 3 dalyse nustatytas teises ir pareigas taip pat turi Europos Sąjungos valstybių narių, asocijuotų Šengeno valstybių ir Šiaurės Atlanto sutarties organizacijos (NATO) valstybių specialiųjų transporto priemonių vairuotojai, kai jie Lietuvos Respublikos tarptautinių sutarčių ar kitų susitarimų nustatytais atvejais ir tvarka vykdo tarnybines pareigas Lietuvos Respublikos teritorijoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 Straipsnio pakeitimai:
@@ -2780,27 +2883,41 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 20 straipsnis. Reikalavimai transporto priemonių savininkams ir valdytojams
 
 
-1. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Lietuvos Respublikos kelių transporto priemonių registro tvarkytojui privalo deklaruoti: 
+1. Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka gyvenamąją vietą Lietuvos Respublikoje deklaravęs ar per vienus kalendorinius metus Lietuvos Respublikoje išbuvęs ištisai arba su pertraukomis 183 arba daugiau dienų fizinis asmuo arba Lietuvos Respublikoje įregistruotas juridinis asmuo, arba Mokesčių mokėtojų registre įregistruotas fizinis asmuo, arba Mokesčių mokėtojų registre įregistruotas juridinis asmuo, arba Lietuvos Respublikoje įsteigtas kolektyvinio investavimo subjektas, kurio veiklos forma yra investicinis fondas ar investicinė bendrovė, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo Lietuvos Respublikos kelių transporto priemonių registro tvarkytojui deklaruoti Vyriausybės ar jos įgaliotos institucijos nustatytus duomenis: 
 
 
-1) Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka gyvenamąją vietą Lietuvos Respublikoje deklaravęs ar per vienus kalendorinius metus Lietuvoje išbuvęs ištisai arba su pertraukomis 183 arba daugiau dienų fizinis asmuo arba Lietuvos Respublikoje įregistruotas juridinis asmuo, arba Mokesčių mokėtojų registre įregistruotas fizinis asmuo, arba Mokesčių mokėtojų registre įregistruotas juridinis asmuo, arba Lietuvos Respublikoje įsteigtas kolektyvinio investavimo subjektas, kurio veiklos forma yra investicinis fondas ar investicinė bendrovė, Vyriausybės ar jos įgaliotos institucijos nustatytus duomenis apie ne Lietuvos Respublikos teritorijoje įgytą nuosavybės teisę į motorinę transporto priemonę ir (ar) priekabą – ne vėliau kaip iki šios transporto priemonės ir (ar) priekabos įvežimo į Lietuvos Respublikos teritoriją, o šie subjektai Vyriausybės ar jos įgaliotos institucijos nustatytus duomenis apie įgytą arba perleistą nuosavybės teisę į Lietuvos Respublikos kelių transporto priemonių registro tvarkytojui deklaruotą motorinę transporto priemonę ir (ar) priekabą – per 5 darbo dienas nuo nuosavybės teisės įgijimo arba perleidimo;
-
-
-
-
-2) užsienietis ar Lietuvos Respublikoje neregistruotas užsienio juridinis asmuo Vyriausybės ar jos įgaliotos institucijos nustatytus duomenis apie Lietuvos Respublikos teritorijoje įgytą arba perleistą nuosavybės teisę į Lietuvos Respublikos kelių transporto priemonių registro tvarkytojui deklaruotą motorinę transporto priemonę ir (ar) priekabą – šių aplinkybių atsiradimo dieną.
+1) apie ne Lietuvos Respublikos teritorijoje įgytą nuosavybės teisę į motorinę transporto priemonę ir (ar) priekabą. Šiuos duomenis privaloma deklaruoti ne vėliau kaip iki šios transporto priemonės ir (ar) priekabos įvežimo į Lietuvos Respublikos teritoriją;
 
 
 
 
-
-
-2. Šio straipsnio 1 dalyje nenumatytais atvejais motorinės transporto priemonės ir (ar) priekabos valdytojas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo deklaruoti Vyriausybės ar jos įgaliotos institucijos nustatytus duomenis apie motorinę transporto priemonę ir (ar) priekabą ne vėliau kaip iki įvežimo į Lietuvos Respublikos teritoriją. Ši nuostata netaikoma, kai motorinę transporto priemonę ir (ar) priekabą valdo asmuo, kuris yra ir šios motorinės transporto priemonės ir (ar) priekabos savininkas arba jo šeimos narys, kai motorinė transporto priemonė ir (ar) priekaba nuosavybės teise priklauso darbdaviui, kai motorinė transporto priemonė ir (ar) priekaba yra valdoma lizingo (finansinės nuomos) arba išperkamosios nuomos pagrindu.
+2) apie įgytą nuosavybės teisę į Lietuvos Respublikos kelių transporto priemonių registro tvarkytojui deklaruotą motorinę transporto priemonę ir (ar) priekabą. Šiuos duomenis privaloma deklaruoti per 5 darbo dienas nuo nuosavybės teisės įgijimo;
 
 
 
 
-3. Transporto priemonės savininkas ar valdytojas rūpinasi ir atsako už jam nuosavybės ar kita teise priklausančią transporto priemonę. Motorinės transporto priemonės ir (ar) priekabos savininkas ar valdytojas viešo pasiūlymo įsigyti motorinę transporto priemonę ir (ar) priekabą metu privalo skelbti šio straipsnio 1 ir 2 dalyse nustatytais atvejais deklaruotoms motorinėms transporto priemonėms ir (ar) priekaboms suteiktą galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą.
+3) apie perleistą nuosavybės teisę į Lietuvos Respublikos kelių transporto priemonių registro tvarkytojui deklaruotą motorinę transporto priemonę ir (ar) priekabą. Šiuos duomenis privaloma deklaruoti per 5 darbo dienas nuo duomenų apie įgytą nuosavybės teisę deklaravimo, o tais atvejais, kai nuosavybės teisė perleista užsieniečiui ar Lietuvos Respublikoje neregistruotam užsienio juridiniam asmeniui, – per 5 darbo dienas nuo nuosavybės teisės perleidimo.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
+2. Šio straipsnio 1 dalyje nenumatytais atvejais motorinės transporto priemonės ir (ar) priekabos valdytojas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo deklaruoti Vyriausybės ar jos įgaliotos institucijos nustatytus duomenis apie motorinę transporto priemonę ir (ar) priekabą ne vėliau kaip iki įvežimo į Lietuvos Respublikos teritoriją. Ši nuostata netaikoma užsieniečiams ir Lietuvos Respublikoje neregistruotiems užsienio juridiniams asmenims, kai motorinę transporto priemonę ir (ar) priekabą valdo asmuo, kuris yra ir šios motorinės transporto priemonės ir (ar) priekabos savininkas arba jo šeimos narys, kai motorinė transporto priemonė ir (ar) priekaba nuosavybės teise priklauso darbdaviui, kai motorinė transporto priemonė ir (ar) priekaba yra valdoma lizingo (finansinės nuomos), išperkamosios nuomos, nuomos arba panaudos sutarties pagrindais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
+3. Transporto priemonės savininkas ar valdytojas rūpinasi ir atsako už jam nuosavybės ar kita teise priklausančią transporto priemonę. Perleidžiant nuosavybės teisę, motorinė transporto priemonė ir (ar) priekaba privalo turėti galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą. Motorinės transporto priemonės ir (ar) priekabos (išskyrus naują transporto priemonę, kuri anksčiau nebuvo registruota) savininkas ar valdytojas viešo pasiūlymo įsigyti motorinę transporto priemonę ir (ar) priekabą metu privalo skelbti šio straipsnio 1 ir 2 dalyse nustatytais atvejais deklaruotoms motorinėms transporto priemonėms ir (ar) priekaboms suteiktą galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -2958,7 +3075,9 @@ Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
 
 
 
-11. Asmenys, kurie vairavo transporto priemonę neturėdami teisės vairuoti transporto priemones, tokią teisę gali įgyti ne anksčiau kaip po vienų metų nuo šio pažeidimo padarymo dienos.
+11. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
  
@@ -3357,64 +3476,38 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-2. Teisė vairuoti transporto priemones grąžinama asmeniui, iš kurio teisė vairuoti transporto priemones buvo atimta pagal šio straipsnio 1 dalies 2 punktą, kai jo sveikatos būklė atitinka nustatytus reikalavimus. 
+2. Teisė vairuoti transporto priemones grąžinama asmeniui, iš kurio ši teisė buvo atimta pagal šio straipsnio 1 dalies 2 punktą, kai jo sveikatos būklė atitinka nustatytus reikalavimus.
 
 
 
 
-3. Asmeniui, kuriam teisė vairuoti transporto priemones buvo atimta dėl KET pažeidimų, teisė vairuoti transporto priemones grąžinama tik jam nustatyta tvarka užbaigus papildomą vairuotojų mokymą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
- 
+3. Asmeniui, kuriam teisė vairuoti transporto priemones buvo atimta dėl KET pažeidimų, ši teisė grąžinama tik jam nustatyta tvarka užbaigus papildomą vairuotojų mokymą.
 
 
 
 
-4. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta dėl teisės pažeidimo padarymo vieniems metams ir ilgiau, teisė vairuoti transporto priemones grąžinama tik pasibaigus šios teisės atėmimo laikui ir baigus papildomą vairuotojų mokymą bei perlaikius vairavimo egzaminą, išskyrus asmenį, kuriam teisė vairuoti transporto priemones buvo atimta už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotikų, vaistų ar kitų svaigiųjų medžiagų.
+4. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta dėl teisės pažeidimo padarymo vieniems metams ir ilgiau, teisė vairuoti transporto priemones grąžinama tik pasibaigus šios teisės atėmimo laikui ir baigus papildomą vairuotojų mokymą bei perlaikius vairavimo egzaminą, išskyrus asmenį, kuriam teisė vairuoti transporto priemones buvo atimta už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų.
 
 
 
 
-5. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotikų, vaistų ar kitų svaigiųjų medžiagų, teisė vairuoti transporto priemones grąžinama tik pasibaigus šios teisės atėmimo laikui, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka po medicininės ir švietėjiškos atestacijos baigus papildomą vairuotojų mokymą ir perlaikius vairavimo egzaminą. Reikalavimas perlaikyti vairavimo egzaminą netaikomas, jeigu dėl šioje dalyje nurodyto teisės pažeidimo padarymo teisė vairuoti transporto priemones buvo atimta trumpesniam negu vieni metai laikui.
+5. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, teisė vairuoti transporto priemones grąžinama tik pasibaigus šios teisės atėmimo laikui, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka po medicininės ir švietėjiškos atestacijos, baigus papildomą vairuotojų mokymą ir perlaikius vairavimo egzaminą. Reikalavimas perlaikyti vairavimo egzaminą netaikomas, jeigu dėl šioje dalyje nurodyto teisės pažeidimo padarymo teisė vairuoti transporto priemones buvo atimta trumpesniam negu vieni metai laikui.
 
 
 
 
-6. Pasibaigus teisės vairuoti transporto priemones atėmimo laikui, asmeniui, kuriam paskirta administracinio poveikio priemonė – draudimas vairuoti transporto priemones, kuriose neįrengti antialkoholiniai variklio užraktai, šio draudimo laikotarpiu grąžinama teisė vairuoti tik transporto priemones, kuriose įrengti antialkoholiniai variklio užraktai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
- 
+6. Pasibaigus teisės vairuoti transporto priemones atėmimo laikui, asmeniui, kuriam paskirta administracinio poveikio priemonė – draudimas vairuoti transporto priemones, kuriose neįrengti antialkoholiniai variklio užraktai, įvykdžius šio straipsnio 5 dalyje nurodytas teisės vairuoti grąžinimo sąlygas, šio draudimo laikotarpiu grąžinama teisė vairuoti tik transporto priemones, kuriose įrengti antialkoholiniai variklio užraktai.
 
 
 
 
-7. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta du kartus už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotikų, vaistų ar kitų svaigiųjų medžiagų, teisė vairuoti transporto priemones grąžinama ne anksčiau kaip po 10 metų.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio 7 dalis (2013 m. birželio 13 d. redakcija; Žin., 2013, Nr. 68-3401) prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 5 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio dalies pakeitimai:
-Nr. KT133-N10/2020, 2020-07-24, paskelbta TAR 2020-07-24, i. k. 2020-16411
- 
-
-
-
-
-8. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta tris kartus, teisė vairuoti transporto priemones grąžinama ne anksčiau kaip po 10 metų.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio 8 dalis (2013 m. birželio 13 d. redakcija; Žin., 2013, Nr. 68-3401) prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 5 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio dalies pakeitimai:
-Nr. KT133-N10/2020, 2020-07-24, paskelbta TAR 2020-07-24, i. k. 2020-16411
- 
-
-
-
-
-9. Vairuotojas, kuris, būdamas pradedantysis vairuotojas, pažeidė KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba sukėlė eismo įvykį, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn), ir per šio įstatymo 22 straipsnio 5 dalyje nustatytus terminus nebaigė papildomo vairuotojų mokymo, praranda teisę vairuoti transporto priemones. Šiuo atveju vairuotojui teisė vairuoti transporto priemones grąžinama tik perlaikius vairavimo egzaminą ir išduodamas 3 metus galiojantis vairuotojo pažymėjimas, kurį jis turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą šio įstatymo 22 straipsnyje nustatyta tvarka. 
-TAR pastaba. 24 straipsnio 9 dalies nuostatos pradedantiesiems vairuotojams, kuriems vairuotojo pažymėjimas išduotas iki įstatymo Nr. XIII-1539 įsigaliojimo dienos (2019-04-01), netaikomos.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
- 
+7. Vairuotojas, kuris, būdamas pradedantysis vairuotojas, pažeidė KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba sukėlė eismo įvykį, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn), ir per šio įstatymo 22 straipsnio 5 dalyje nustatytus terminus nebaigė papildomo vairuotojų mokymo, praranda teisę vairuoti transporto priemones. Šiuo atveju vairuotojui teisė vairuoti transporto priemones grąžinama tik perlaikius vairavimo egzaminą ir išduodamas 3 metus galiojantis vairuotojo pažymėjimas, kurį jis turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą šio įstatymo 22 straipsnyje nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
+Straipsnio pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
  
 
 
@@ -3503,7 +3596,10 @@ Nr. XIII-1139, 2018-05-10, paskelbta TAR 2018-05-15, i. k. 2018-07790
 
 
 
-8. Transporto priemonėje draudžiama įrengti greitį matuoti trukdančias priemones ir daiktus.
+8. Draudžiama transporto priemonėje įrengti greitį matuoti trukdančias priemones ir daiktus, dalyvauti viešajame eisme transporto priemonėms, kurios nepriskirtos specialiosioms transporto priemonėms, tačiau yra su specialiaisiais šviesos ir (arba) garso signalais ir (arba) pažymėtos taip pat ar panašiai, kaip žymimos specialiosios transporto priemonės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -3903,6 +3999,14 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 
 
+41. Taktinių ir logistinių transporto priemonių ir jų priekabų, kuriose integruotos ginklų ir valdymo sistemos, techninę apžiūrą ir techninę ekspertizę atlieka Lietuvos kariuomenė šio įstatymo nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
 5. Motorinių transporto priemonių ir priekabų techninė ekspertizė atliekama Susisiekimo ministerijos arba jos įgaliotos institucijos nustatyta tvarka.
 
 
@@ -4064,7 +4168,10 @@ Siekiant užtikrinti eismo keliais saugumą ir apsaugoti žmonių gyvybę, sveik
 33 straipsnis. Transporto priemonės priverstinis nuvežimas arba uždraudimas toliau važiuoti
 
 
-1. Kai įtariama, kad transporto priemonė vairuojama neblaivaus ar apsvaigusio nuo psichiką veikiančių medžiagų asmens, taip pat kai yra Lietuvos Respublikos administracinių nusižengimų kodekso 603 straipsnyje nustatyti pagrindai, transporto priemonė gali būti priverstinai nuvežama į institucijos, kurios pareigūnas priėmė sprendimą transporto priemonę priverstinai nuvežti, ar į ūkio subjekto, kuriam suteikta teisė verstis tokia ūkine komercine veikla, transporto priemonių stovėjimo aikštelę, o transporto priemonės savininko (valdytojo) sutikimu ji gali būti pastatoma ir į kitą transporto priemonių stovėjimo aikštelę ar vietą, kurioje leidžiama transporto priemonėms stovėti (jeigu tai nepakenks baudžiamajam procesui ar administracinio nusižengimo teisenai).
+1. Kai įtariama, kad transporto priemonė vairuojama neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat kai yra Lietuvos Respublikos administracinių nusižengimų kodekso 603 straipsnyje nustatyti pagrindai, transporto priemonė gali būti priverstinai nuvežama į institucijos, kurios pareigūnas priėmė sprendimą transporto priemonę priverstinai nuvežti, ar į ūkio subjekto, kuriam suteikta teisė verstis tokia ūkine komercine veikla, transporto priemonių stovėjimo aikštelę, o transporto priemonės savininko (valdytojo) sutikimu ji gali būti pastatoma ir į kitą transporto priemonių stovėjimo aikštelę ar vietą, kurioje leidžiama transporto priemonėms stovėti (jeigu tai nepakenks baudžiamajam procesui ar administracinio nusižengimo teisenai).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -4625,6 +4732,11 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10, 13, 33 straipsnių ir 1 priedo pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 3, 10, 13, 15, 17, 19, 20, 22, 24, 25, 27-1, 29, 30 ir 33 straipsnių pakeitimo įstatymas
  
  
 
