@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2022-07-08 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-29
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -3966,15 +3966,19 @@ ATSINAUJINANČIŲ ENERGIJOS IŠTEKLIŲ NAUDOJIMAS DUJŲ GAMYBAI
 30 straipsnis. Biodujų gamybos skatinimas
 
 
-1. Biodujų gamyba yra viešuosius interesus atitinkanti paslauga.
+1. Neteko galios nuo 2022-11-01.
 Straipsnio dalies pakeitimai:
 Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
+Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
  
 
 
 
 
-2. Biodujų supirkimo į gamtinių dujų perdavimo ir (ar) skirstymo sistemas (toliau – dujų sistemos) tvarką ir sąlygas nustato ir Viešuosius interesus atitinkančių paslaugų teikimo tvarkos aprašą tvirtina Vyriausybė ar jos įgaliota institucija.
+2. Neteko galios nuo 2022-11-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
+ 
 
 
 
@@ -3987,7 +3991,18 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 
-4. Nustatant gamtinių dujų perdavimo ir skirstymo tarifus, turi būti užtikrinta, kad šių tarifų taikymas nebūtų diskriminacinis biodujų atžvilgiu.
+4. Nustatant gamtinių dujų perdavimo ir skirstymo tarifus, turi būti užtikrinta, kad šių tarifų taikymas nebūtų diskriminacinis biodujų atžvilgiu, kai biodujos yra tiekiamos į gamtinių dujų perdavimo ir (ar) skirstymo sistemas (toliau – dujų sistemos).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
+ 
+
+
+
+
+5. Dujų sistemų operatoriai privalo sudaryti sąlygas biodujas tiekti į dujų sistemas.
+Papildyta straipsnio dalimi:
+Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
+ 
 
 
 
@@ -4008,47 +4023,62 @@ Energetikos ministerija rengia ir tvirtina technines taisykles, nustatančias pr
 32 straipsnis. Biodujų gamybos įrenginių prijungimas prie dujų sistemų
 
 
-1. Dujų sistemų operatoriai privalo sudaryti sąlygas biodujoms tiekti į dujų sistemas. Biodujų gamybos įrenginiai privalo būti prijungti prie dujų sistemų, jeigu biodujų gamintojas laikosi visų šio įstatymo 31 straipsnyje nustatytų techninių, kokybės ir kitų reikalavimų.
+1. Biodujų gamybos įrenginiai privalo būti prijungti prie dujų sistemų laikantis visų šio įstatymo 31 straipsnyje nustatytų techninių, kokybės, dujų slėgio ir kitų reikalavimų.
 
 
 
 
-2. Dujų sistemų operatorius kiekvienam naujam biodujų gamintojui, planuojančiam prijungti biodujų gamybos įrenginius prie dujų sistemų, per 30 kalendorinių dienų nuo prašymo prijungti biodujų gamybos įrenginius prie dujų sistemų pateikimo dienos pateikia išsamią ir reikalingą informaciją, įskaitant:
-
-
-1) prijungimo techninius reikalavimus;
+2. Dujų sistemų operatorius kiekvienam naujam biodujų gamintojui, planuojančiam prijungti biodujų gamybos įrenginius prie dujų sistemų, per 30 kalendorinių dienų nuo biodujų gamintojo prašymo išduoti preliminarias prijungimo sąlygas gavimo dienos energetikos ministro nustatyta tvarka pateikia informaciją apie veiksmus, kurie turi būti atlikti siekiant prijungti biodujų gamybos įrenginius prie dujų sistemos, ir pateikia preliminarias prijungimo sąlygas.
 
 
 
 
-2) išsamią su prijungimu susijusių sąnaudų sąmatą;
+3. Dujų sistemos operatoriaus išduodamose preliminariose prijungimo sąlygose turi būti nurodoma su Valstybine energetikos reguliavimo taryba suderintame Dujų sistemos operatoriaus prijungimo prie dujų sistemos tvarkos apraše nurodyta informacija.
 
 
 
 
-3) pagrįstą ir tikslų prijungimo prie dujų sistemų prašymų pateikimo ir nagrinėjimo grafiką;
+4. Preliminarios prijungimo sąlygos galioja 12 mėnesių nuo jų išdavimo biodujų gamintojui dienos. Per šioje dalyje nustatytą galiojimo laikotarpį nesuderinus preliminarių prijungimo sąlygų su dujų sistemos operatoriumi, biodujų gamintojas netenka teisės teikti prašymo dėl biodujų gamybos įrenginių prijungimo prie dujų sistemos paslaugos sutarties sudarymo. 
 
 
 
 
-4) pagrįstą orientacinį siūlomų prijungimų prie dujų sistemų grafiką.
+5. Visais atvejais dujų sistemos operatorius ir biodujų gamintojas, planuojantis prijungti biodujų gamybos įrenginius prie dujų sistemų, keičiasi visa biodujų gamybos įrenginiams prijungti prie dujų sistemos reikalinga technine ir kita informacija. 
 
 
 
 
-
-
-3. Biodujų gamybos įrenginiai prijungiami prie dujų sistemų teisės aktų nustatyta tvarka. Biodujų gamybos įrenginių prijungimo kaina yra lygi rangovo, laimėjusio dujų sistemų operatoriaus paskelbtą viešąjį pirkimą dėl įrenginių prijungimo prie dujų sistemų, atliktų darbų kainai.
+6. Preliminariose prijungimo sąlygose nurodomi preliminarūs biodujų gamintojo įrenginių prijungimo prie dujų sistemos reikalavimai yra skirti biodujų gamintojo būsimų investicijų dydžiui preliminariai įvertinti ir nesukuria nei biodujų gamintojui, nei dujų sistemos operatoriui jokių papildomų teisių ir pareigų, išskyrus biodujų gamintojo teisę kreiptis į dujų sistemos operatorių dėl biodujų gamybos įrenginių prijungimo prie dujų sistemos paslaugos sutarties sudarymo. 
 
 
 
 
-4. Dujų sistemų operatoriaus patirtas investicijų išlaidas, susijusias su biodujų gamybos įrenginių prijungimu prie dujų sistemų, lygias rangovo, laimėjusio pagal dujų sistemų operatoriaus paskelbtą viešąjį pirkimą dėl įrenginių prijungimo prie dujų sistemų, atliktų darbų kainai, apmoka biodujų gamintojas. 
-TAR pastaba. 32 straipsnio 4 dalyje numatytas išlaidas arba jų dalis, patirtas ir nekompensuotas iki įstatymo Nr. XIV-197 įsigaliojimo dienos (2021-07-01), Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, taikant 40 procentų prijungimo kainos nuolaidą, gamintojui kompensuoja dujų sistemų operatorius.
+7. Dujų sistemos operatoriui ir biodujų gamintojui suderinus preliminarias prijungimo sąlygas, dujų sistemos operatorius per 60 kalendorinių dienų nuo biodujų gamintojo prašymo prijungti biodujų gamybos įrenginius prie dujų sistemos gavimo dienos pateikia biodujų gamybos įrenginių prijungimo prie dujų sistemos paslaugos sutarties ir galutinių prijungimo sąlygų projektą. 
+
+
+
+
+8. Biodujų gamybos įrenginių prijungimo prie dujų sistemos tašką nustato dujų sistemos operatorius, atsižvelgdamas į biodujų gamintojo pateiktame prašyme nurodytą esamų ar planuojamų biodujų gamybos įrenginių buvimo ar statybos (įrengimo) vietą ir įvertinęs technologinius ir ekonominius prijungimo taško parinkimo kriterijus. 
+
+
+
+
+9. Biodujų gamintojo prašymo išduoti preliminarias prijungimo sąlygas, prašymo sudaryti biodujų gamybos įrenginių prijungimo prie dujų sistemos paslaugos sutartį formos, kartu su prašymais pateikiamų dokumentų sąrašas nustatomi su Valstybine energetikos reguliavimo taryba suderintame Dujų sistemos operatoriaus prijungimo prie dujų sistemos tvarkos apraše. 
+
+
+
+
+10. Biodujų gamybos įrenginių prijungimo darbus dujų sistemų operatoriaus valdomų dujų tinklų dalyje atlieka (organizuoja) dujų sistemos operatorius. Naujas biodujų gamintojas, suderinęs su dujų sistemos operatoriumi, turi teisę projektuoti ir (ar) statyti (įrengti) ir atlikti darbus dujų sistemos operatoriaus vardu dujų sistemoje (jos objektuose ar atskirose jų dalyse) biodujų gamybos įrenginių prijungimo prie dujų sistemos paslaugos sutartyje nustatyta tvarka ir sąlygomis. Teikiant prijungimo paslaugą, pastatytos ir (ar) įrengtos dujų sistemos, jų objektai ir (ar) atskiros jų dalys yra dujų sistemos operatoriaus nuosavybė, nekeičiant rekonstruotų ar perkeltų dujų sistemos objektų nuosavybės. 
+
+
+
+
+11. Biodujų gamybos įrenginių prijungimo prie dujų sistemų paslaugos kaina yra lygi faktinių išlaidų, susijusių su dujų sistemos operatoriaus dujų sistemos (jos objektų ar atskirų jų dalių) projektavimo ir statybos (įrengimo) darbais, kuriuos reikia atlikti siekiant prijungti biodujų gamybos įrenginius prie dujų sistemos, sumai. Visas faktines išlaidas, susijusias su biodujų gamybos įrenginių prijungimu prie dujų sistemų, apmoka biodujų gamintojas, kurio biodujų gamybos įrenginiai yra prijungiami prie dujų sistemų. Biodujų gamintojo atlikti darbai, nurodyti šio straipsnio 10 dalyje, yra laikomi prijungimo prie dujų sistemų paslaugos dalimi.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
  
 
 
