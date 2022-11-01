@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-10-31
+Suvestinė redakcija nuo 2022-11-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -13422,14 +13422,6 @@ Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
 
 
 
-5. Notaras ne vėliau kaip kitą darbo dieną po pareiškimo dėl tėvystės pripažinimo ar pareiškimo dėl tėvystės pripažinimo atšaukimo patvirtinimo dienos privalo šį pareiškimą elektroninių ryšių priemonėmis išsiųsti notaro biuro buvimo vietos civilinės metrikacijos įstaigai.
-Papildyta straipsnio dalimi:
-Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
- 
-
-
-
-
 
 
 3.144 straipsnis. Tėvystės pripažinimas be motinos sutikimo
@@ -14553,7 +14545,6 @@ Tėvai neturi teisės tvarkyti uzufrukto teisėmis savo nepilnamečių vaikų tu
 
 
 4. Pažeidus šio straipsnio 1, 2 ir 3 dalyse nustatytas normas, sandoris gali būti pripažintas negaliojančiu pagal vaiko, vieno iš jo tėvų ar jų įpėdinių ieškinį.
- 
 
 
 
@@ -48774,28 +48765,30 @@ BendrOSIOS nuostatOS
  
 
 
-6.929 straipsnis. Atsiskaitymas grynaisiais ir negrynaisiais pinigais
+6.929 straipsnis. Atsiskaitymai ir kiti mokėjimai grynaisiais ir negrynaisiais pinigais 
 
 
-1. Atsiskaitymai dalyvaujant fiziniams asmenims, kurie nesiverčia ūkine komercine veikla, gali būti atliekami grynaisiais pinigais, neribojant sumos, arba negrynaisiais pinigais.
-
-
-
-
-2. Atsiskaitymai tarp juridinių asmenų, taip pat atsiskaitymai dalyvaujant fiziniams asmenims, užsiimantiems ūkine komercine veikla, vykdomi negrynaisiais pinigais, o įstatymų nustatytais atvejais ir tvarka – ir grynaisiais pinigais.
+1. Atsiskaitymai, taip pat bet kokie kiti mokėjimai tarp asmenų gali būti atliekami grynaisiais pinigais arba negrynaisiais pinigais. 
 
 
 
 
-3. Atsiskaitymas negrynaisiais pinigais atliekamas per bankus, kuriuose yra atidarytos atitinkamos sąskaitos, jeigu ko kita nenustatyta įstatyme arba ko neriboja naudojamos atsiskaitymų formos.
+2. Įstatymuose gali būti nustatyta, kad atsiskaitymai, taip pat bet kokie kiti mokėjimai tarp asmenų gali būti atliekami tik negrynaisiais pinigais, taip pat gali būti ribojami atsiskaitymų ir bet kokių kitų mokėjimų grynaisiais pinigais dydžiai.
 
 
 
 
-4. Atsiskaitymus čekiais ir vekseliais atitinkamai reglamentuoja čekių ir vekselių įstatymai.
+3. Atsiskaitymai, taip pat bet kokie kiti mokėjimai negrynaisiais pinigais atliekami per įstatymuose nustatytus mokėjimo paslaugų teikėjus, jeigu ko kita nenustatyta įstatymuose arba ko neriboja naudojamos atsiskaitymų formos. 
+
+
+
+
+4. Atsiskaitymus čekiais ir vekseliais atitinkamai reglamentuoja čekių ir vekselių įstatymai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1166, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14904
  
-
-
 
 
 
@@ -49984,7 +49977,15 @@ Partnerio kreditoriai turi teisę reikalauti atidalyti partnerio dalį iš bendr
 
 
 
-7) atidalijus vieno iš partnerių dalį iš bendro turto pagal jo kreditorių reikalavimą, išskyrus šios dalies 1 punkte nustatytas išimtis.
+7) atidalijus vieno iš partnerių dalį iš bendro turto pagal jo kreditorių reikalavimą, išskyrus šios dalies 1 punkte nustatytas išimtis;
+
+
+
+
+8) kitais įstatymų numatytais atvejais.
+Papildyta straipsnio punktu:
+Nr. XIV-1435, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20226
+ 
 
 
 
@@ -51515,3 +51516,33 @@ Lietuvos Respublikos civilinio kodekso 4.181, 6.66, 6.953, 6.961 ir 6.968 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1385, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15856
 Lietuvos Respublikos civilinio kodekso 2.70 straipsnio pakeitimo įstatymas
+ 
+64.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1166, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14904
+Lietuvos Respublikos civilinio kodekso 6.929 straipsnio pakeitimo įstatymas
+ 
+65.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1201, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15563
+Lietuvos Respublikos civilinio kodekso 2.138 ir 5.28 straipsnių pakeitimo įstatymas
+ 
+66.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+Lietuvos Respublikos civilinio kodekso 1.65, 1.117, 3.51, 3.52, 3.53, 3.61, 3.66, 3.67, 3.73, 3.77, 3.79, 3.85, 3.103, 3.140, 3.144, 3.188, 5.7, 6.492, 6.493 straipsnių pakeitimo ir kodekso papildymo 3.54-1, 3.54-2, 3.54-3, 3.54-4, 3.76-1 straipsniais įstatymas
+ 
+67.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1351, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15446
+Lietuvos Respublikos civilinio kodekso 3.142, 3.143 ir 4.197 straipsnių pakeitimo įstatymas
+ 
+68.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1356, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15490
+Lietuvos Respublikos civilinio kodekso 4.84 straipsnio pakeitimo įstatymas
+ 
+69.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1435, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20226
+Lietuvos Respublikos civilinio kodekso 6.978 straipsnio pakeitimo įstatymas
