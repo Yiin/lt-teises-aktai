@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2022-02-28 iki 2022-11-07
+Suvestinė redakcija nuo 2022-11-08 iki 2022-11-09
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -869,7 +869,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-44. Pagrindinė sandorio šalis – kaip tai apibrėžta Reglamento (ES) Nr. 648/2012 2 straipsnio 1 dalyje.
+44. Pagrindinė sandorio šalis – kaip tai apibrėžta Reglamento (ES) Nr. 648/2012 2 straipsnio 1 punkte.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
+ 
 
 
 
@@ -8653,7 +8656,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
-part_b7f8f80643a34dc8a09198e242da7f7e_end
+part_cbbde2915e6847b9b87320cac39dafb8_end
 
 
  
@@ -8807,7 +8810,7 @@ Priedo pakeitimai:
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
  
-part_b32f3cf279484c969b1f81d65094d04b_end
+part_4dead4163c434eeaba58212bb8a8303f_end
 
 
  
@@ -8935,3 +8938,8 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 15, 102,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 6, 8, 9, 13, 14, 15, 16, 23, 29, 30, 31, 33, 35, 37, 39, 49, 50, 51, 72, 73, 76, 93, 97, 99, 102, 107, 111, 112, 114 straipsnių, priedo pakeitimo, Įstatymo papildymo 14-1, 14-2, 15-1, 15-2, 15-3, 15-4, 15-5, 15-6, 44-1, 107-1, 111-1 straipsniais ir V skyriaus pripažinimo netekusiu galios įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 93, 111 straipsnių ir priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi įstatymas
