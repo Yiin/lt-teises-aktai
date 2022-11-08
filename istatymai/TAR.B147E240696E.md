@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b147e240696e11eca9ac839120d251c4"
 
 # Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-14 iki 2022-11-07
+Suvestinė redakcija nuo 2022-11-08 iki 2022-11-09
  
 Įstatymas paskelbtas: TAR 2021-12-30, i. k. 2021-27713
  
@@ -77,13 +77,14 @@ Pakeisti 11 straipsnio 1 dalies 18 punktą ir jį išdėstyti taip:
 
 
 
-„1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, pensijų anuitetų mokėtojas, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje, padengtųjų obligacijų bendrovės, pakeitimo vertybiniais popieriais bendrovės ir pakeitimo vertybiniais popieriais iniciatoriai, pakeitimo vertybiniais popieriais rėmėjai, pirminiai skolintojai ir trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams (toliau – PSS kriterijai).“
+„1. Prižiūrimi finansų rinkos dalyviai yra bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), pensijų anuitetų mokėtojai, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo paslaugų teikėjai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai, mišrios veiklos finansų kontroliuojančiosios įmonės, įsteigtos Lietuvos Respublikoje, finansų kontroliuojančiosios bendrovės, įsteigtos Lietuvos Respublikoje, pagrindinės sandorio šalys, padengtųjų obligacijų bendrovės, pakeitimo vertybiniais popieriais bendrovės ir pakeitimo vertybiniais popieriais iniciatoriai, pakeitimo vertybiniais popieriais rėmėjai, pirminiai skolintojai ir trečiosios šalys, tikrinančios pakeitimo vertybiniais popieriais atitiktį paprastiems, skaidriems ir standartizuotiems kriterijams (toliau – PSS kriterijai).
 
 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1338, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15403
+Nr. XIV-1461, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22572
  
 
 
@@ -425,5 +426,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1338, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15403
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymo Nr. XIV-822 2 straipsnio pakeitimo įstatymas
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1461, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22572
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymo Nr. XIV-822 2 straipsnio pakeitimo įstatymas
  
-part_40b8d1404358469f84ae8ee39fb4ed8d_end
+ 
+part_1d1c9751835541d2bb89700958b7705a_end
