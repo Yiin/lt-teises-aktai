@@ -13,17 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/253d5480697111eca9ac839120d251c4"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio ir priedo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2022-11-10
+ 
+Įstatymas paskelbtas: TAR 2021-12-30, i. k. 2021-27721
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO NR. IX-1007 17 STRAIPSNIO IR PRIEDO PAKEITIMO
 ĮSTATYMAS
  
 2021 m. gruodžio 23 d. Nr. XIV-829
 Vilnius
- 
- 
-
- 
-
  
  
 
@@ -105,20 +107,22 @@ gyventojų pajamų mokesčio
 3 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 
-1. Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2022 m. sausio 1 d. 
+1. Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2022 m. sausio 1 d.
 
 
 
 
-2. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2022 m. lapkričio 10 d.
+2. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2023 m. lapkričio 10 d.
 
 
 
 
-3. Šio įstatymo 1 straipsnio 1 dalis taikoma palūkanoms už lėšas, suteiktas nuo 2022 m. sausio 1 d. iki 2022 m. lapkričio 10 d. per sutelktinio finansavimo platformą Lietuvos Respublikos sutelktinio finansavimo įstatyme nustatyta tvarka, neatsižvelgiant į tai, kuriuo mokestiniu laikotarpiu šios palūkanos buvo gautos.  
+3. Šio įstatymo 1 straipsnio 1 dalis taikoma palūkanoms už lėšas, suteiktas nuo 2022 m. sausio 1 d. iki 2023 m. lapkričio 10 d. per sutelktinio finansavimo platformą Lietuvos Respublikos sutelktinio finansavimo įstatyme nustatyta tvarka, neatsižvelgiant į tai, kuriuo mokestiniu laikotarpiu šios palūkanos buvo gautos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1496, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22684
  
-
-
 
 
 
@@ -127,7 +131,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentas                                                                                               Gitanas Nausėda
+Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_7ea19f0dba4044f7b9671e312d608d4e_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1496, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22684
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio ir priedo pakeitimo įstatymo Nr. XIV-829 3 straipsnio pakeitimo įstatymas
