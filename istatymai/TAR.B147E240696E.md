@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b147e240696e11eca9ac839120d251c4"
 
 # Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2022-11-08 iki 2022-11-09
+Suvestinė redakcija nuo 2022-11-10
  
 Įstatymas paskelbtas: TAR 2021-12-30, i. k. 2021-27713
  
@@ -402,7 +402,9 @@ Papildyti Įstatymo 3 priedą 19 punktu:
 
 
 
-2. Šio įstatymo 2 straipsnio 2 ir 5 dalys, 8 straipsnio 2 dalis įsigalioja 2022 m. lapkričio 10 d.
+2. Šio įstatymo 2 straipsnio 2 ir 5 dalys, 8 straipsnio 2 dalis įsigalioja 2023 m. lapkričio 10 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1493, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22681
  
 
 
@@ -430,6 +432,11 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1461, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22572
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymo Nr. XIV-822 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1493, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22681
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymo Nr. XIV-822 10 straipsnio pakeitimo įstatymas
  
  
 part_1d1c9751835541d2bb89700958b7705a_end
