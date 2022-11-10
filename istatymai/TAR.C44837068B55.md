@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1998
  
 
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-11-09
+Suvestinė redakcija nuo 2022-11-10 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -4684,3 +4684,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 9, 25 straipsnių pakeitimo ir Įstatymo papildymo 25-3 straipsniu įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1497, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22685
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, 36 straipsnių pakeitimo įstatymo Nr. XIV-831 7 straipsnio pakeitimo įstatymas
