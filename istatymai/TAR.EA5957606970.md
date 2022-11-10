@@ -13,17 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea595760697011eca9ac839120d251c4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, 26 straipsnių ir priedo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2022-11-10
+ 
+Įstatymas paskelbtas: TAR 2021-12-30, i. k. 2021-27720
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 FINANSŲ ĮSTAIGŲ ĮSTATYMO NR. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, 26 STRAIPSNIŲ IR PRIEDO PAKEITIMO
 ĮSTATYMAS
  
 2021 m. gruodžio 23 d. Nr. XIV-828
 Vilnius
- 
- 
-
- 
-
  
  
 
@@ -79,7 +81,6 @@ Vilnius
 
 
 „26. Licencinės finansinės paslaugos – finansinės paslaugos, kurių teikimu galima verstis tik gavus įstatymų ar Europos Sąjungos teisės aktų nustatyta tvarka išduotą licenciją (leidimą).“
- 
  
 
 
@@ -454,7 +455,9 @@ Pakeisti Įstatymo priedo 2 punktą ir jį išdėstyti taip:
 
 
 
-2. Šio įstatymo 1 straipsnio 3 dalis ir 2 straipsnio 2 dalis įsigalioja 2022 m. lapkričio 10 d.
+2. Šio įstatymo 1 straipsnio 3 dalis ir 2 straipsnio 2 dalis įsigalioja 2023 m. lapkričio 10 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1492, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22680
  
 
 
@@ -469,4 +472,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_68eb613644ec4b5ba7fb3212bf4407cf_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1492, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22680
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, 26 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-828 13 straipsnio pakeitimo įstatymas
