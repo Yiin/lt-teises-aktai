@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/63fc0b406f9611e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos nacionalinės plėtros įstaigų įstatymas
 
-Suvestinė redakcija nuo 2021-10-01 iki 2022-11-09
+Suvestinė redakcija nuo 2022-11-10 iki 2023-06-27
  
 Įstatymas paskelbtas: TAR 2018-06-14, i. k. 2018-09936
  
@@ -368,4 +368,9 @@ Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
 Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 2, 6, 11-1 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1498, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22686
+Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 10 straipsnio pakeitimo įstatymo Nr. XIV-833 2 straipsnio pakeitimo įstatymas
 
