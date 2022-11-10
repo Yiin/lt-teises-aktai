@@ -21,7 +21,7 @@ Neoficialus ?statymo tekstas
  
 
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-11-09
+Suvestinė redakcija nuo 2022-11-10 iki 2022-11-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -3336,7 +3336,7 @@ Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
-part_eba2ba53d8e441e5a66f16e326d74b1b_end
+part_47897122bfd94d779ca6ec792e30b7b8_end
 
 
  
@@ -3539,9 +3539,11 @@ Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 
 
 
-20. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937.
+20. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, su paskutiniais pakeitimais, padarytais 2022 m. liepos 12 d. Komisijos deleguotuoju reglamentu (ES) 2022/1988.
 Papildyta punktu:
 Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
+Punkto pakeitimai:
+Nr. XIV-1494, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22682
 Punkto numeracijos pakeitimas:
 Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
  
@@ -3853,3 +3855,13 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1337, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15402
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42, 43-3 straipsnių ir 1, 3 priedų pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1493, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22681
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymo Nr. XIV-822 10 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1494, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22682
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 3 priedo pakeitimo įstatymas
