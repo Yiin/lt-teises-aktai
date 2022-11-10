@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/db522f20697111eca9ac839120d251c4"
 
 # Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, 36 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2022-11-10
+ 
+Įstatymas paskelbtas: TAR 2021-12-30, i. k. 2021-27723
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PINIGŲ PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO NR. VIII-275 2, 4, 11, 14, 15, 36 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -240,7 +247,9 @@ Pakeisti 36 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-2. Šio įstatymo 1 straipsnio 2 dalis ir 2 straipsnio 2 dalis įsigalioja 2022 m. lapkričio 10 d.
+2. Šio įstatymo 1 straipsnio 2 dalis ir 2 straipsnio 2 dalis įsigalioja 2023 m. lapkričio 10 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1497, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22685
  
 
 
@@ -255,4 +264,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1497, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22685
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, 36 straipsnių pakeitimo įstatymo Nr. XIV-831 7 straipsnio pakeitimo įstatymas
+ 
+ 
 part_0c18d6d68aee49eebcbf2dc71776edac_end
