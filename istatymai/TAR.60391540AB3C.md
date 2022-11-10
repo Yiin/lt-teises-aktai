@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60391540ab3c11e6a6f98c1425a5ffa8"
 
 # Lietuvos Respublikos sutelktinio finansavimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-21 iki 2022-11-09
+Įstatymas netenka galios 2023-11-10:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-823, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27714
+Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2022-11-10 iki 2023-11-09
  
 Įstatymas paskelbtas: TAR 2016-11-15, i. k. 2016-26828
  
@@ -606,4 +611,9 @@ Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 6, 7, 8, 9, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2359, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11981
 Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 4 straipsnio įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1491, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22679
+Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 pripažinimo netekusiu galios įstatymo Nr. XIV-823 2 straipsnio pakeitimo įstatymas
 
