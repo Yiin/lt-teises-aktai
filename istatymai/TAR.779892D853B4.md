@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-11-09
+Suvestinė redakcija nuo 2022-11-10 iki 2023-05-05
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -2992,7 +2992,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
 
- 
 Lietuvos Respublikos 
 finansų įstaigų įstatymo
 priedas
@@ -3177,5 +3176,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1336, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15401
 Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4 straipsnio pakeitimo įstatymas
  
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1492, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22680
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, 26 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-828 13 straipsnio pakeitimo įstatymas
  
-part_a6c3b67e8bd9493582778d4752202e3a_end
+ 
+part_156179abf68f4aeda47653ca4a237c01_end
