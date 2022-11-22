@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-11-21
+Suvestinė redakcija nuo 2022-11-22 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -639,9 +639,11 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-4. Jeigu vaiko laikino apgyvendinimo paslaugą teikia juridinis asmuo, už šią paslaugą atlyginama pagal Socialinių paslaugų įstatymą kaip už socialinę priežiūrą. 
+4. Jeigu vaiko laikino apgyvendinimo paslaugą teikia juridinis asmuo, už šią paslaugą atlyginama pagal Socialinių paslaugų įstatymą.
 Papildyta straipsnio dalimi:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+Straipsnio dalies pakeitimai:
+Nr. XIV-1512, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23363
  
 
 
@@ -716,7 +718,6 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 3. Valstybės ir savivaldybių institucijos ir įstaigos steigia ir remia vaikų sporto, kūrybos, laisvalaikio ir sveikatingumo centrų, vaikų dienos centrų, stovyklų veiklą. Pagal valstybės ir savivaldybių finansines galimybes yra remiami nevyriausybinių organizacijų įsteigti vaikų dienos bei kiti centrai, skirti vaikų saviraiškai, jų gebėjimams ir įgūdžiams ugdyti.
- 
 
 
 
@@ -2738,3 +2739,18 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 30, 36, 36-3, 36-4, 36-5 ir 42 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1033, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08777
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 18 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 4 ir 29 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1512, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23363
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 14, 48 straipsnių pakeitimo įstatymas
