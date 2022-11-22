@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-10-01 iki 2022-11-21
+Suvestinė redakcija nuo 2022-11-22 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -3841,7 +3841,11 @@ Nr. XII-2169, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20139
 
 
 
-4. Profesinės karo tarnybos karininkas krašto apsaugos ministro įsakymu gali būti iki 3 metų perkeltas į Lietuvos šaulių sąjungos vado, jo pavaduotojo ar rinktinės vado pareigas.
+4. Profesinės karo tarnybos karininkas Ministro Pirmininko teikimu, suderintu su krašto apsaugos ministru, Vyriausybės nutarimu gali būti iki 3 metų perkeltas į Lietuvos šaulių sąjungos vado ar jo pavaduotojo pareigas. Profesinės karo tarnybos karininkas krašto apsaugos ministro įsakymu, suderintu su Lietuvos šaulių sąjungos vadu, Lietuvos šaulių sąjungos Centro valdybos pritarimu gali būti iki 3 metų perkeltas į Lietuvos šaulių sąjungos rinktinės vado ar Lietuvos šaulių sąjungos Mokymų ir nekinetinių operacijų centro viršininko pareigas.
+TAR pastaba. 4 dalies pirmojo sakinio nuostata taikoma nuo 2022 m. gruodžio 1 d., antrojo sakinio nuostata – nuo 2023 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1507, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23355
+ 
 
 
 
@@ -6518,7 +6522,7 @@ Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 Priedo pakeitimai:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
  
-part_124c6f4d1ce14aa1b10ef66aa2f03cf9_end
+part_f4699f79cabf4048b11e55005ac513aa_end
 
 
  
@@ -7056,6 +7060,11 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymas
+ 
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1507, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23355
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 42 straipsnio pakeitimo įstatymas
  
  
 part_c0733c34aeee45b3bda56f58cd62ee8e_end
