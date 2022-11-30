@@ -18,9 +18,10 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-11-29
+Suvestinė redakcija nuo 2022-11-30 iki 2022-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -958,9 +959,10 @@ Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
 
 
 
-7. Šio įstatymo 6 straipsnio 2–6, 10 ir 11 dalyse nurodytų asmenų socialinio draudimo įmokas valstybės biudžeto lėšomis sumoka Lietuvos Respublikos biudžeto sandaros įstatyme nurodyti valstybės biudžeto asignavimų valdytojai.
+7. Šio įstatymo 6 straipsnio 2–6, 10 ir 11 dalyse nurodytų asmenų socialinio draudimo įmokas valstybės biudžeto lėšomis sumoka įstaigos, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, arba šių įstaigų vadovų įgaliotos asignavimų valdytojui pavaldžios ir (ar) ministrų valdymo sričių biudžetinės įstaigos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1175, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13891
+Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
  
 
 
@@ -1383,10 +1385,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-2. Jeigu patikrinimo metu nustatoma, kad socialinio draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda. Šiuo atveju delspinigiai, numatyti šio straipsnio 1 dalyje, neskaičiuojami. Jeigu draudėjas pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet iki datos, nurodytos pavedime patikrinti draudėją (jeigu pavedimo nėra, – iki tikrinimo pradžios), klaidas savanoriškai ištaisė, sumokėjo trūkstamą socialinio draudimo įmokų sumą, pateikė patikslintus socialinio draudimo pranešimus ir informavo apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą neskiriama. Šiuo atveju delspinigiai skaičiuojami šio straipsnio 1 dalyje nustatyta tvarka.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybinio socialinio draudimo įstatymo (2016 m. birželio 29 d. redakcija, TAR, 2016-07-15, Nr. 20645) 19 straipsnio 2 dalies nuostata „jeigu patikrinimo metu nustatoma, kad socialinio draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda“ tiek, kiek, joje įtvirtinus teisės pažeidėjams taikytiną griežtą sankciją, teismui neleidžiama, atsižvelgiant į teisės pažeidimo pobūdį, į atsakomybę lengvinančias ir kitas aplinkybes, jos individualizuoti, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+2. Jeigu patikrinimo metu nustatoma, kad socialinio draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio draudimo įmokų suma ir draudėjui skiriama bauda mutatis mutandis taikant Mokesčių administravimo įstatymo 139 ir 140 straipsniuose nurodytus baudų dydžius ir nustatytą baudų skyrimo tvarką. Šiuo atveju delspinigiai, numatyti šio straipsnio 1 dalyje, neskaičiuojami. Jeigu draudėjas pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet iki datos, nurodytos pavedime patikrinti draudėją (jeigu pavedimo nėra – iki tikrinimo pradžios), klaidas savanoriškai ištaisė, sumokėjo trūkstamą socialinio draudimo įmokų sumą, pateikė patikslintus socialinio draudimo pranešimus ir informavo apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą neskiriama. Šiuo atveju delspinigiai skaičiuojami šio straipsnio 1 dalyje nustatyta tvarka. Skundą nagrinėjantis teismas, atsižvelgdamas į padaryto teisės pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes, dėl kurių draudėjui skirta bauda akivaizdžiai per didelė ir neproporcinga (neadekvati) jo padarytam teisės pažeidimui ir dėl to neteisinga, turi teisę skirti mažesnio, negu nustatyta Mokesčių administravimo įstatymo 139 straipsnyje, dydžio baudą. 
 Straipsnio dalies pakeitimai:
 Nr. KT62-N6/2022, 2022-05-19, paskelbta TAR 2022-05-19, i. k. 2022-10567
+Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
  
 
 
@@ -1420,7 +1422,10 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 
-2) paskirtų baudų mokėjimo, jeigu draudėjas įrodo, kad priskaičiavo per mažas socialinio draudimo įmokas dėl aplinkybių, kurios nepriklausė nuo jo valios ir kurių jis nenumatė ir negalėjo numatyti.
+2) paskirtų baudų mokėjimo, jeigu draudėjui gali būti pritaikyti Mokesčių administravimo įstatymo 141 straipsnio 1 dalies 1–3 punktuose numatyti atleidimo nuo paskirtų baudų mokėjimo pagrindai.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
+ 
 
 
 
@@ -3662,3 +3667,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 15-1 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1366, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15461
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 straipsnio pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 12 ir 19 straipsnių pakeitimo įstatymas
