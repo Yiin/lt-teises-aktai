@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f3ae15b0c52b11eba2bad9a0748ee64d"
 
 # Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 3, 8, 10, 12, 19, 22, 24, 27, 28, 33, 34, 39, 42, 46, 49, 53 straipsnių, 1 priedo pakeitimo ir Įstatymo papildymo 27-1, 52-1  straipsniais įstatymas
 
+Suvestinė redakcija nuo 2022-11-30
+ 
+Įstatymas paskelbtas: TAR 2021-06-04, i. k. 2021-12948
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 STATYBOS ĮSTATYMO NR. I-1240 2, 3, 8, 10, 12, 19, 22, 24, 27, 28, 33, 34, 39, 42, 46, 49, 53 STRAIPSNIŲ, 1 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 271, 521  STRAIPSNIAIS
 ĮSTATYMAS
@@ -291,11 +298,14 @@ Pakeisti 19 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
 
-„7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą, griaunamas krašto apsaugos tikslams skirtose teritorijose esantis neypatingasis statinys arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys;“.
+„7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą, griaunamas krašto apsaugos tikslams skirtose teritorijose esantis ypatingasis ir neypatingasis statinys arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys;“.
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1539, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24189
+ 
 
 
 
@@ -1286,7 +1296,10 @@ Pakeisti 1 priedo 8 dalį ir ją išdėstyti taip:
 
 
 
-2. Šio įstatymo 9 straipsnio 1 dalis galioja iki 2027 m. sausio 1 d.
+2. Šio įstatymo 9 straipsnio 1 dalis galioja iki 2026 m. gruodžio 31 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1539, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24189
+ 
 
 
 
@@ -1334,3 +1347,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1539, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24189
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 3, 8, 10, 12, 19, 22, 24, 27, 28, 33, 34, 39, 42, 46, 49, 53 straipsnių, 1 priedo pakeitimo ir Įstatymo papildymo 27-1, 52-1 straipsniais įstatymo Nr. XIV-340 9 ir 21 straipsnių pakeitimo įstatymas
