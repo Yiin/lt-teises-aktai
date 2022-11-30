@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60718c50037311edb32c9f9d8ba206f8"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2022-11-16 iki 2022-11-29
+Suvestinė redakcija nuo 2022-11-30 iki 2023-06-27
  
 Įstatymas paskelbtas: TAR 2022-07-14, i. k. 2022-15485
  
@@ -1117,46 +1117,19 @@ Pakeisti 72 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Pakeisti 721 straipsnio 5 dalį ir ją išdėstyti taip:
+2. Pakeisti 721 straipsnio 5 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
 
-„5. Pareiginės algos koeficientai yra šie:
-
-
-1) instituto direktoriaus – 11,89–21,21;
+„5) mokslo darbuotojo, mokslininko stažuotojo – 9,82–11,98;“.
 
 
 
 
-2) instituto mokslinio sekretoriaus – 8,93–17,07;
-
-
-
-
-3) vyriausiojo mokslo darbuotojo – 10,24–18,44;
-
-
-
-
-4) vyresniojo mokslo darbuotojo – 8,93–14,32;
-
-
-
-
-5) mokslo darbuotojo, mokslininko stažuotojo – 8,93–10,89;
-
-
-
-
-6) jaunesniojo mokslo darbuotojo – 8,51–10,08.“
-
-
-
-
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-1543, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24193
+ 
 
 
 
@@ -1506,5 +1479,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1482, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22950
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 19 ir 29 straipsnių pakeitimo įstatymas
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1543, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24193
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 24 straipsnio pakeitimo įstatymas
  
-part_942e53b3a03248e6a6ec3e6f44ba9342_end
+ 
+part_a44cb93bf57d4e888564afc4ed553a34_end
