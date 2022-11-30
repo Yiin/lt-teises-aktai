@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-11-29
+Suvestinė redakcija nuo 2022-11-30 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -132,7 +132,10 @@ Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
 
 
 
-6. Santykiuose su kitais asmenimis naudojamuose bendrovės rašytiniuose dokumentuose, taip pat dokumentuose, pasirašytuose Elektroninio parašo įstatymo nustatyta tvarka ir perduodamuose elektroninių ryšių priemonėmis, ir bendrovės interneto svetainėje, jeigu bendrovė ją turi, turi būti Civilinio kodekso 2.44 straipsnyje nurodyta informacija.
+6. Santykiuose su kitais asmenimis naudojamuose bendrovės rašytiniuose dokumentuose, taip pat dokumentuose, pasirašytuose Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymo nustatyta tvarka ir perduodamuose elektroninių ryšių priemonėmis, ir bendrovės interneto svetainėje, jeigu bendrovė ją turi, turi būti Lietuvos Respublikos civilinio kodekso 2.44 straipsnyje nurodyta informacija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -987,9 +990,10 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-3) neatlygintinai gauti akcijų, kai įstatinis kapitalas didinamas iš bendrovės lėšų, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytą išimtį, ir šio Įstatymo 471 straipsnyje nustatytu atveju;
+3) neatlygintinai gauti akcijų, kai įstatinis kapitalas didinamas iš bendrovės lėšų, išskyrus šio Įstatymo 42 straipsnio 4 dalyje nustatytą išimtį, ir šio Įstatymo 471 straipsnyje nustatytu atveju;
 Straipsnio punkto pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
@@ -1525,30 +1529,59 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-4. Bendrovė gali sudaryti galimybę akcininkams visuotiniame akcininkų susirinkime dalyvauti ir balsuoti elektroninių ryšių priemonėmis. Akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, privalo užtikrinti, kad tais atvejais, kai akcininkas ar jo įgaliotinis visuotiniame akcininkų susirinkime dalyvavo ir balsavo elektroninių ryšių priemonėmis, jam nedelsiant būtų išsiųstas balsavimo elektroninių ryšių priemonėmis rezultato gavimo patvirtinimas ir akcininko ar jo įgaliotinio prašymu, kuris gali būti pateiktas ne vėliau kaip per 7 dienas nuo visuotinio akcininkų susirinkimo dienos, būtų pateiktas patvirtinimas, kad jo balsas užregistruotas ir įskaitytas tinkamai (nebent jis jau turi šią informaciją). Jeigu šioje dalyje nurodytą patvirtinimą gauna juridinis asmuo, kuris, vadovaujantis Finansinių priemonių rinkų įstatymu, yra atidaręs ir tvarko akcininko asmeninę vertybinių popierių sąskaitą, jis nedelsdamas bet kokiomis priemonėmis šį patvirtinimą perduoda akcininkui ar jo įgaliotiniui. Jeigu perduodant patvirtinimą yra daugiau negu vienas juridinis asmuo, kuris, vadovaujantis Finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas, taikomos Finansinių priemonių rinkų įstatymo 89 straipsnio 9–11 dalys.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+31. Akcinė bendrovė gali sudaryti galimybę akcininkams visuotiniame akcininkų susirinkime balsavimo nurodymą pateikti elektroninių ryšių priemonėmis per sąskaitų tvarkytojus ir Centrinį vertybinių popierių depozitoriumą, vadovaujantis Finansinių priemonių rinkų įstatymu (toliau – balsavimo nurodymas). 
+Papildyta straipsnio dalimi:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-5. Tam, kad akcininkai galėtų dalyvauti ir balsuoti visuotiniame akcininkų susirinkime elektroninių ryšių priemonėmis, gali būti taikomi tik tie elektroninių ryšių priemonių naudojimo reikalavimai ir apribojimai, kurie yra būtini akcininkų tapatybei nustatyti ir perduodamos informacijos saugumui užtikrinti, ir tik tuo atveju, kai jie yra proporcingi šiems tikslams pasiekti. 
+4. Bendrovė privalo sudaryti galimybę akcininkams dalyvauti visuotiniame akcininkų susirinkime ir balsuoti elektroninių ryšių priemonėmis, taip pat pateikti balsavimo nurodymą, kai to pareikalauja akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/10 visų balsų, jeigu įstatuose nenumatytas mažesnis balsų skaičius. Jeigu visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, sutinka, bendrovės įstatuose gali būti numatyta, kad visuotiniame akcininkų susirinkime akcininkai dalyvauja ir balsuoja tik elektroninių ryšių priemonėmis, taip pat gali būti numatyta, kad įstatuose nurodytais atvejais dalyvaujama ir balsuojama kitais šiame Įstatyme nustatytais būdais.  Šioje dalyje numatytais atvejais valdyba (jeigu valdyba nesudaroma – bendrovės vadovas) tvirtina dalyvavimo ir balsavimo visuotiniame akcininkų susirinkime elektroninių ryšių priemonėmis tvarkos aprašą, kuriame taip pat turi būti nurodyta akcininkų tapatybės nustatymo tvarka ir reikalavimai perduodamos informacijos saugumui užtikrinti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-6. Visuotiniame akcininkų susirinkime dalyvaujantys akcininkai registruojami akcininkų registravimo sąraše. Šiame sąraše turi būti nurodytas balsų skaičius, kurį kiekvienam akcininkui suteikia jo turimos akcijos.
+5. Akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, privalo užtikrinti, kad akcininkui ar jo įgaliotiniui, visuotiniame akcininkų susirinkime dalyvavusiam ir balsavusiam elektroninių ryšių priemonėmis, nedelsiant būtų išsiųstas balsavimo elektroninių ryšių priemonėmis rezultato gavimo patvirtinimas ir akcininko ar jo įgaliotinio prašymu, kuris gali būti pateikiamas ne vėliau kaip per 7 dienas nuo visuotinio akcininkų susirinkimo dienos, būtų pateiktas patvirtinimas, kad jo balsas užregistruotas ir įskaitytas tinkamai (nebent jis jau turi šią informaciją). Jeigu šioje dalyje nurodytą patvirtinimą gauna juridinis asmuo, kuris, vadovaudamasis Finansinių priemonių rinkų įstatymu, yra atidaręs ir tvarko akcininko asmeninę vertybinių popierių sąskaitą, jis nedelsdamas bet kokiomis priemonėmis šį patvirtinimą perduoda akcininkui ar jo įgaliotiniui. Jeigu perduodant patvirtinimą yra daugiau negu vienas juridinis asmuo, kuris, vadovaujantis Finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas, taikomos Finansinių priemonių rinkų įstatymo 89 straipsnio 9–11 dalys. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-7. Akcininkų registravimo sąrašą pasirašo visuotinio akcininkų susirinkimo pirmininkas ir sekretorius. Jeigu susirinkimo sekretorius nerenkamas, šį sąrašą pasirašo susirinkimo pirmininkas. Jeigu visi susirinkime dalyvaujantys akcininkai balsavo raštu, šį sąrašą pasirašo bendrovės vadovas.
+6. Tam, kad akcininkai galėtų dalyvauti ir balsuoti visuotiniame akcininkų susirinkime elektroninių ryšių priemonėmis, gali būti taikomi tik tie elektroninių ryšių priemonių naudojimo reikalavimai ir apribojimai, kurie yra būtini akcininkų tapatybei nustatyti ir perduodamos informacijos saugumui užtikrinti, ir tik tuo atveju, kai jie yra proporcingi šiems tikslams pasiekti. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-8. Asmuo, dalyvaujantis visuotiniame akcininkų susirinkime ir turintis teisę balsuoti, turi pateikti asmens tapatybę patvirtinantį dokumentą. Asmuo, kuris nėra akcininkas, be šio dokumento, turi pateikti dokumentą, patvirtinantį teisę balsuoti visuotiniame akcininkų susirinkime. Reikalavimas pateikti asmens tapatybę patvirtinantį dokumentą netaikomas, kai balsuojama raštu, užpildant bendrąjį balsavimo biuletenį, ir elektroninių ryšių priemonėmis.
+7. Visuotiniame akcininkų susirinkime dalyvaujantys akcininkai registruojami akcininkų registravimo sąraše. Šiame sąraše turi būti nurodytas balsų skaičius, kurį kiekvienam akcininkui suteikia jo turimos akcijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+8. Akcininkų registravimo sąrašą pasirašo visuotinio akcininkų susirinkimo pirmininkas ir sekretorius. Jeigu susirinkimo sekretorius nerenkamas, šį sąrašą pasirašo susirinkimo pirmininkas. Jeigu visi susirinkime dalyvaujantys akcininkai balsavo raštu, šį sąrašą pasirašo bendrovės vadovas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+9. Asmuo, dalyvaujantis visuotiniame akcininkų susirinkime ir turintis teisę balsuoti, turi pateikti asmens tapatybę patvirtinantį dokumentą. Asmuo, kuris nėra akcininkas, be šio dokumento, turi pateikti dokumentą, patvirtinantį teisę balsuoti visuotiniame akcininkų susirinkime. Reikalavimas pateikti asmens tapatybę patvirtinantį dokumentą netaikomas, kai balsuojama raštu, užpildant bendrąjį balsavimo biuletenį, ir elektroninių ryšių priemonėmis, išskyrus atvejus, kai šio straipsnio 4 dalyje nurodytame valdybos (jeigu valdyba nesudaroma – bendrovės vadovo) patvirtintame dalyvavimo ir balsavimo visuotiniame akcininkų susirinkime elektroninių ryšių priemonėmis tvarkos apraše numatyta kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 Straipsnio pakeitimai:
@@ -1853,7 +1886,10 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-2) susirinkimo data, laikas ir vieta (adresas);
+2) susirinkimo data, laikas ir vieta (adresas) ir (arba) elektroninių ryšių priemonės;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -2118,6 +2154,14 @@ Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
 
 
 
+51. Jeigu akcinė bendrovė sudaro galimybę akcininkams visuotiniame akcininkų susirinkime pateikti balsavimo nurodymą, tokiu būdu iš anksto balsavę akcininkai laikomi dalyvaujančiais visuotiniame akcininkų susirinkime ir jų balsai įskaitomi į šio susirinkimo kvorumą bei balsavimo rezultatus. Pakartotiniame visuotiniame akcininkų susirinkime galioja neįvykusio susirinkimo balsavimo nurodymai. Akcininkas neturi teisės balsuoti visuotiniame akcininkų susirinkime svarstant sprendimą, dėl kurio jis iš anksto yra pareiškęs savo valią pateikdamas balsavimo nurodymą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
 6. Jei šio Įstatymo nustatytais atvejais akcininkas negali balsuoti priimant sprendimus atskirais klausimais, balsavimo rezultatai šiais atskirais klausimais nustatomi pagal susirinkime dalyvaujančių ir turinčių balsavimo teisę sprendžiant šį klausimą akcininkų balsų skaičių.
 
 
@@ -2133,7 +2177,17 @@ Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
 
 
 
-9. Visuotinis akcininkų susirinkimas neturi teisės priimti sprendimų darbotvarkėje nepaskelbtais klausimais, išskyrus atvejus, kai jame dalyvauja visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, ir nė vienas akcininkas nebalsavo raštu.
+9. Visuotinis akcininkų susirinkimas neturi teisės priimti sprendimų darbotvarkėje nepaskelbtais klausimais, išskyrus atvejus, kai jame dalyvauja visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, ir nė vienas akcininkas nebalsavo raštu, užpildęs bendrąjį balsavimo biuletenį arba pateikęs balsavimo nurodymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+10. Jeigu akcinė bendrovė savo akcininkams sudaro galimybę visuotiniame akcininkų susirinkime dalyvauti ir balsuoti elektroninių ryšių priemonėmis, visuotiniame akcininkų susirinkime dalyvaujančio ir balsuojančio asmens tapatybė turi būti nustatoma prieš visuotinį akcininkų susirinkimą ir kiekvieną jame svarstomą klausimą. Reikalavimas nustatyti asmens tapatybę prieš kiekvieną klausimą netaikomas, jeigu visi visuotiniame akcininkų susirinkime dalyvaujantys akcininkai balsuoja elektroninių ryšių priemonėmis, kuriomis tiesiogiai perduodamas vaizdas viso susirinkimo metu, taip pat kai balsuojama raštu, užpildžius bendrąjį balsavimo biuletenį arba pateikus balsavimo nurodymą.
+Papildyta straipsnio dalimi:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
@@ -2157,7 +2211,10 @@ Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
 
 
 
-3) konvertuoti bendrovės vienos klasės akcijas į kitos, tvirtinti akcijų konvertavimo tvarką;
+3) konvertuoti bendrovės vienos klasės akcijas į kitos, tvirtinti akcijų konvertavimo tvarkos aprašą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -2308,7 +2365,10 @@ Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 
 
-3. Protokolas turi būti surašytas ir pasirašytas ne vėliau kaip per 7 dienas nuo visuotinio akcininkų susirinkimo dienos. 
+3. Protokolas turi būti surašytas ir pasirašytas ne vėliau kaip per 7 dienas nuo visuotinio akcininkų susirinkimo dienos. Elektroniniu būdu pasirašomas protokolas turi būti pasirašomas kvalifikuotu elektroniniu parašu, naudojant kvalifikuotą elektroninio parašo sertifikatą, kuris atitinka 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, I priede nustatytus reikalavimus. Trečiųjų valstybių kvalifikuoti elektroniniai parašai, sudaryti naudojant kvalifikuotą elektroninio parašo sertifikatą, pripažįstami vadovaujantis Reglamento (ES) Nr. 910/2014 14 straipsniu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -2318,17 +2378,64 @@ Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 
 
-5. Prie protokolo turi būti pridedama: visuotiniame akcininkų susirinkime dalyvavusių akcininkų registravimo sąrašas; įgaliojimai ir kiti dokumentai, patvirtinantys asmenų teisę balsuoti; iš anksto raštu balsavusių akcininkų bendrieji balsavimo biuleteniai; dokumentai, įrodantys, kaip buvo balsuota elektroninių ryšių priemonėmis; dokumentai, įrodantys, kad akcininkai buvo informuoti apie visuotinio akcininkų susirinkimo sušaukimą; pastabos dėl protokolo ir protokolą pasirašiusių asmenų išvada dėl šių pastabų. 
+5. Prie visuotinio akcininkų susirinkimo protokolo turi būti pridedama: 
+
+
+1) visuotiniame akcininkų susirinkime dalyvavusių akcininkų registravimo sąrašas; 
 
 
 
 
-6. Jeigu bendrovės visų akcijų savininkas yra vienas asmuo, jo raštiški sprendimai prilyginami visuotinio akcininkų susirinkimo sprendimams.
+2) įgaliojimai ir kiti dokumentai, patvirtinantys asmenų teisę balsuoti; 
 
 
 
 
-7. Protokolai ar kiti dokumentai, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, yra oficialūs dokumentai. Jie saugomi ir tvarkomi Dokumentų ir archyvų įstatymo nustatyta tvarka. Šių dokumentų klastojimas baudžiamas įstatymų nustatyta tvarka.
+3) iš anksto raštu balsavusių akcininkų bendrieji balsavimo biuleteniai; 
+
+
+
+
+4) dokumentai, įrodantys, kaip buvo balsuota elektroninių ryšių priemonėmis; 
+
+
+
+
+5) dokumentai, įrodantys, kad akcininkai buvo informuoti apie visuotinio akcininkų susirinkimo sušaukimą; 
+
+
+
+
+6) pastabos dėl protokolo ir protokolą pasirašiusių asmenų išvada dėl šių pastabų.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+6. Kai visuotinio akcininkų susirinkimo protokolas teikiamas tretiesiems asmenims, prie protokolo turi būti pridedami šio straipsnio 5 dalies 1, 5 ir 6 punktuose nurodyti dokumentai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+7. Jeigu bendrovės visų akcijų savininkas yra vienas asmuo, jo raštiški sprendimai prilyginami visuotinio akcininkų susirinkimo sprendimams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+8. Protokolai ar kiti dokumentai, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, yra oficialūs dokumentai. Jie saugomi ir tvarkomi Dokumentų ir archyvų įstatymo nustatyta tvarka. Šių dokumentų klastojimas baudžiamas įstatymų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 Straipsnio pakeitimai:
@@ -2367,7 +2474,10 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-4. Užpildytą bendrąjį balsavimo biuletenį turi pasirašyti akcininkas arba kitas asmuo, turintis teisę balsuoti šiam akcininkui priklausančiomis akcijomis. Jeigu užpildytą bendrąjį balsavimo biuletenį pasirašo asmuo, kuris nėra akcininkas, prie užpildyto bendrojo balsavimo biuletenio turi būti pridėtas teisę balsuoti patvirtinantis dokumentas.
+4. Užpildytą bendrąjį balsavimo biuletenį turi pasirašyti akcininkas arba kitas asmuo, turintis teisę balsuoti šiam akcininkui priklausančiomis akcijomis. Jeigu užpildytą bendrąjį balsavimo biuletenį pasirašo asmuo, kuris nėra akcininkas, prie užpildyto bendrojo balsavimo biuletenio turi būti pridėtas teisę balsuoti patvirtinantis dokumentas. Bendrąjį balsavimo biuletenį pasirašant elektroniniu būdu taikoma šio Įstatymo 29 straipsnio 3 dalis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -2396,7 +2506,10 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 301 straipsnis. Balsavimas pagal įgaliojimą 
 
 
-1. Visuotiniame akcininkų susirinkime įgaliotinis turi tokias pačias teises, kokias turėtų jo atstovaujamas akcininkas.
+1. Visuotiniame akcininkų susirinkime įgaliotinis turi tokias pat teises, kokias turėtų jo atstovaujamas akcininkas. Balsavimo nurodymo pateikimas nėra laikomas balsavimu pagal įgaliojimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -2662,37 +2775,66 @@ Pastaba: šio įstatymo 31 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 
-4) prižiūri valdybos ir bendrovės vadovo veiklą;
+4) tvirtina sandorių su susijusiomis šalimis, kurie sudaromi įprastinėmis rinkos sąlygomis verčiantis įprasta ūkine veikla, kaip nustatyta šio Įstatymo 372 straipsnio 11 dalyje, vertinimo tvarkos ir sąlygų aprašą; 
+Papildyta straipsnio punktu:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-5) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl Akcijų suteikimo taisyklių projekto;
+5) prižiūri valdybos ir bendrovės vadovo veiklą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-6) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno (nuostolių) paskirstymo projekto ir bendrovės metinio pranešimo, taip pat valdybos ir bendrovės vadovo veiklos;
+6) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl Akcijų suteikimo taisyklių projekto;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-7) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto ir jam priimti sudaryto tarpinių finansinių ataskaitų rinkinio bei parengto tarpinio pranešimo;
+7) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno (nuostolių) paskirstymo projekto ir bendrovės metinio pranešimo, taip pat valdybos ir bendrovės vadovo veiklos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-8) teikia siūlymus valdybai ir bendrovės vadovui atšaukti jų sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams ar visuotinio akcininkų susirinkimo sprendimams;
+8) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto ir jam priimti sudaryto tarpinių finansinių ataskaitų rinkinio bei parengto tarpinio pranešimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-9) pateikia visuotiniam akcininkų susirinkimui ir valdybai atsiliepimus ir pasiūlymus dėl akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir atlygio ataskaitos projekto;
+9) teikia siūlymus valdybai ir bendrovės vadovui atšaukti jų sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams ar visuotinio akcininkų susirinkimo sprendimams;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-10) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo organų veiklos priežiūros klausimus. 
+10) pateikia visuotiniam akcininkų susirinkimui ir valdybai atsiliepimus ir pasiūlymus dėl akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir atlygio ataskaitos projekto;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+11) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo organų veiklos priežiūros klausimus. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2902,7 +3044,15 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-6) bendrovės filialų ir atstovybių nuostatus.
+6) bendrovės filialų ir atstovybių nuostatus;
+
+
+
+
+7) dalyvavimo ir balsavimo visuotiniame akcininkų susirinkime elektroninių ryšių priemonėmis tvarkos aprašą. 
+Papildyta straipsnio punktu:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -3072,22 +3222,42 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-2) prižiūri bendrovės vadovo veiklą, pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl bendrovės vadovo veiklos; 
+2) tvirtina sandorių su susijusiomis šalimis, kurie sudaromi įprastinėmis rinkos sąlygomis verčiantis įprasta ūkine veikla, kaip nustatyta šio Įstatymo 372 straipsnio 11 dalyje, vertinimo tvarkos ir sąlygų aprašą; 
+Papildyta straipsnio punktu:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-3) svarsto, ar bendrovės vadovas tinka eiti pareigas, jeigu bendrovė dirba nuostolingai;
+3) prižiūri bendrovės vadovo veiklą, pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl bendrovės vadovo veiklos; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-4) teikia siūlymus bendrovės vadovui atšaukti jo sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams, visuotinio akcininkų susirinkimo ar valdybos sprendimams;
+4) svarsto, ar bendrovės vadovas tinka eiti pareigas, jeigu bendrovė dirba nuostolingai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-5) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose valdybos kompetencijai priskirtus bendrovės ir bendrovės vadovo veiklos priežiūros klausimus. 
+5) teikia siūlymus bendrovės vadovui atšaukti jo sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams, visuotinio akcininkų susirinkimo ar valdybos sprendimams;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+6) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose valdybos kompetencijai priskirtus bendrovės ir bendrovės vadovo veiklos priežiūros klausimus. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3270,10 +3440,11 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-10. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo 34 straipsnio 4 dalies 3, 4, 5 ir 6 punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jeigu bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jeigu bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo 34 straipsnio 1, 3, 4, 5, 6, 9, 10, 12, 13 ir 14 dalyse. Bendrovės, kurioje nesudaroma nei valdyba, nei stebėtojų taryba, vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo 32 straipsnio 1 dalies 1 punkte. 
+10. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo 34 straipsnio 4 dalies 3, 4, 5 ir 6 punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jeigu bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jeigu bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo 34 straipsnio 1, 3, 4, 5, 6, 9, 10, 13 ir 14 dalyse. Bendrovės, kurioje nesudaroma nei valdyba, nei stebėtojų taryba, vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo 32 straipsnio 1 dalies 1 punkte.
 Straipsnio dalies pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
@@ -3297,131 +3468,164 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-3) atlygio politikos projekto parengimą; 
+3) dalyvavimo ir balsavimo visuotiniame akcininkų susirinkime elektroninių ryšių priemonėmis tvarkos aprašo projekto parengimą; 
 Papildyta straipsnio punktu:
-Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-4) atlygio ataskaitos projekto parengimą; 
+4) sandorių su susijusiomis šalimis, kurie sudaromi įprastinėmis rinkos sąlygomis verčiantis įprasta ūkine veikla, vertinimo tvarkos ir sąlygų aprašo projekto parengimą; 
 Papildyta straipsnio punktu:
-Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-5) atlygio politikos ir atlygio ataskaitos viešą paskelbimą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje; 
+5) atlygio politikos projekto parengimą; 
 Papildyta straipsnio punktu:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-6) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio sudarymą ir tarpinio pranešimo parengimą, sprendimui dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo priimti. Tarpiniam pranešimui mutatis mutandis taikomos Įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą;
+6) atlygio ataskaitos projekto parengimą; 
+Papildyta straipsnio punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+7) atlygio politikos ir atlygio ataskaitos viešą paskelbimą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje; 
+Papildyta straipsnio punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+8) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio sudarymą ir tarpinio pranešimo parengimą, sprendimui dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo priimti. Tarpiniam pranešimui mutatis mutandis taikomos Įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-7) Akcijų suteikimo taisyklių projekto parengimą; 
+9) Akcijų suteikimo taisyklių projekto parengimą; 
 Papildyta straipsnio punktu:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-8) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus ar bendrovės įstatus;
+10) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus ar bendrovės įstatus;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-9) informacijos ir dokumentų pateikimą visuotiniam akcininkų susirinkimui, stebėtojų tarybai ir valdybai šio Įstatymo nustatytais atvejais ar jų prašymu;
+11) informacijos ir dokumentų pateikimą visuotiniam akcininkų susirinkimui, stebėtojų tarybai ir valdybai šio Įstatymo nustatytais atvejais ar jų prašymu;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-10) bendrovės dokumentų ir duomenų pateikimą juridinių asmenų registro tvarkytojui;
+12) bendrovės dokumentų ir duomenų pateikimą juridinių asmenų registro tvarkytojui;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-11) akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Centriniam vertybinių popierių depozitoriumui; 
+13) akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Centriniam vertybinių popierių depozitoriumui; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-12) šiame Įstatyme nustatytos informacijos viešą paskelbimą įstatuose nurodytame šaltinyje;
+14) šiame Įstatyme nustatytos informacijos viešą paskelbimą įstatuose nurodytame šaltinyje;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-13) pranešimą akcininkams, stebėtojų tarybai ir valdybai apie svarbiausius įvykius, turinčius reikšmės bendrovės veiklai; 
+15) pranešimą akcininkams, stebėtojų tarybai ir valdybai apie svarbiausius įvykius, turinčius reikšmės bendrovės veiklai; 
 Papildyta straipsnio punktu:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-14) informacijos pateikimą akcininkams;
+16) informacijos pateikimą akcininkams;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-15) neteko galios nuo 2017-07-13;
+17) neteko galios nuo 2017-07-13;
 Straipsnio punkto pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-16) kitų šiame ir kituose įstatymuose bei teisės aktuose, taip pat bendrovės įstatuose ir bendrovės vadovo pareiginiuose nuostatuose nustatytų pareigų vykdymą.
+18) kitų šiame ir kituose įstatymuose bei teisės aktuose, taip pat bendrovės įstatuose ir bendrovės vadovo pareiginiuose nuostatuose nustatytų pareigų vykdymą.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
@@ -3487,7 +3691,7 @@ Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
 372 straipsnis. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams su susijusia šalimi taikomi reikalavimai 
 
 
-1. Šio straipsnio nuostatos, išskyrus šio straipsnio 10 dalį, taikomos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams su susijusia šalimi, jeigu jie:
+1. Šio straipsnio nuostatos, išskyrus šio straipsnio 10, 11 ir 12 dalis, taikomos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams dėl turto investavimo, įsigijimo, perleidimo, nuomos, įkeitimo ir hipotekos, prievolių įvykdymo laidavimo ar garantavimo, kai sandorio arba bendra tokių sandorių suma per finansinius metus viršija 1/10 akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vėliausiai sudarytame balanse nurodytos turto vertės, su susijusia šalimi, jeigu jie:
 
 
 1) sudaromi neįprastinėmis rinkos sąlygomis ir (ar)
@@ -3495,14 +3699,12 @@ Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
 
 
 
-2) nepriskiriami bendrovės įprastai ūkinei veiklai, ir (ar)
+2) nepriskiriami bendrovės įprastai ūkinei veiklai.
 
 
-
-
-3) daro reikšmingą įtaką bendrovei, jos finansams, turtui, įsipareigojimams. Kriterijai, pagal kuriuos nustatoma, kad sandoris daro reikšmingą įtaką bendrovei, jos finansams, turtui, įsipareigojimams, nurodomi akcinės bendrovės įstatuose.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -3585,15 +3787,42 @@ Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
 
 
 
-10. Šio straipsnio nuostatos, išskyrus šio straipsnio 9 dalyje nustatytą reikalavimą, netaikomos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams su susijusia šalimi, sudaromiems verčiantis įprasta ūkine veikla. Papildomai bendrovės metiniame pranešime nurodoma tokių sandorių, sudarytų per finansinius metus su ta pačia susijusia šalimi, verčių suma. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+10. Šio straipsnio nuostatos netaikomos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams:
+
+
+1) kuriuos siūloma sudaryti visiems šios akcinės bendrovės akcininkams tomis pačiomis sąlygomis;
+
+
+
+
+2) dėl šios akcinės bendrovės vadovo, valdybos ar stebėtojų tarybos narių atlygio;
+
+
+
+
+3) sudaromiems su dukterine bendrove, kurios visų akcijų savininkė yra ši akcinė bendrovė. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
 
 
-11. Šis straipsnis mutatis mutandis taikomas šio straipsnio 1 dalyje nurodytus kriterijus atitinkantiems sandoriams, sudaromiems tarp su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, susijusios šalies ir šios akcinės bendrovės dukterinės bendrovės. 
+11. Sandoriai dėl turto investavimo, įsigijimo, perleidimo, nuomos, įkeitimo ir hipotekos, prievolių įvykdymo laidavimo ar garantavimo, kai sandorio arba bendra tokių sandorių suma per finansinius metus viršija 1/10 akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vėliausiai sudarytame balanse nurodytos turto vertės, su susijusia šalimi sudaromi įprastinėmis rinkos sąlygomis verčiantis įprasta ūkine veikla ir periodiškai vertinami dėl atitikties šioms sąlygoms, vadovaujantis stebėtojų tarybos arba valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, patvirtinta tvarka ir sąlygomis. Susijusios šalys vertinant sandorius nedalyvauja. Informacija apie tokius sandorius, sudarytus per finansinius metus su ta pačia susijusia šalimi, papildomai pateikiama šios akcinės bendrovės metiniame pranešime, kuriame nurodomos sandorio šalys (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, adresas korespondencijai) ir sandorio vertė.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+12. Apie šio straipsnio 1 dalyje nurodytus kriterijus atitinkančius sandorius, sudaromus tarp su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, susijusios šalies ir šios akcinės bendrovės dukterinės bendrovės, vėliausiai sandorio sudarymo metu paskelbiama akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje, kurioje nurodoma informacija apie sandorio šalis (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, adresas korespondencijai), kaip akcinė bendrovė yra susijusi su sandorį sudariusia susijusia šalimi – sandorio data ir vertė, taip pat pateikiamas vertinimas, ar sandoris yra sąžiningas ir pagrįstas akcinės bendrovės ir jos akcininkų, kurie nėra sandorio šalys, atžvilgiu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 Papildyta straipsniu:
@@ -4406,7 +4635,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-2. Akcijos emisijos kaina turi būti ne mažesnė už jos nominalią vertę.
+2. Akcijos emisijos kaina turi būti ne mažesnė už jos nominalią vertę. Vienos akcijų emisijos metu akcijos gali būti leidžiamos skirtingomis akcijų emisijos kainomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -4416,7 +4648,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-4. Kiekvieno akcijas pasirašiusio asmens pradinis įnašas pinigais turi būti ne mažesnis kaip 1/4 visų jo pasirašytų akcijų nominalios vertės ir visų pasirašytų akcijų nominalios vertės perviršio suma. Likusi dalis už pasirašytas akcijas gali būti apmokama tiek pinigais, tiek nepiniginiais įnašais.
+4. Akcinėje bendrovėje kiekvieno akcijas pasirašiusio asmens pradinis įnašas pinigais turi būti ne mažesnis kaip 1/4 visų jo pasirašytų akcijų nominalios vertės ir visų pasirašytų akcijų nominalios vertės perviršio suma, o uždarojoje akcinėje bendrovėje kiekvieno akcijas pasirašiusio asmens pradinis įnašas pinigais turi būti ne mažesnis kaip 1/4 visų jo pasirašytų akcijų nominalios vertės. Likusi dalis už pasirašytas akcijas gali būti apmokama tiek pinigais, tiek nepiniginiais įnašais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -4671,7 +4906,148 @@ Nr. X-715, 2006-06-22, Žin., 2006, Nr. 77-2964 (2006-07-14)
 
 
 
-47 straipsnis. Uždarosios akcinės bendrovės akcijų perleidimo ypatumai
+461 straipsnis. Bendrovės akcijų išpirkimas
+
+
+1. Bendrovės akcininkas, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įsigijęs ne mažiau kaip 95 procentus balsų visuotiniame akcininkų susirinkime suteikiančių bendrovės akcijų, turi teisę reikalauti, kad visi kiti tos bendrovės akcininkai privalomai parduotų sau nuosavybės teise priklausančias balsavimo teisę suteikiančias bendrovės akcijas (išpirkimo teisė), laikantis šiame straipsnyje nustatytos akcijų išpirkimo tvarkos.
+
+
+
+
+2. Bendrovės akcininkas turi teisę reikalauti kito tos bendrovės akcininko, kuris, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įsigijo ne mažiau kaip 95 procentus balsų visuotiniame akcininkų susirinkime suteikiančių bendrovės akcijų, išpirkti jam nuosavybės teise priklausančias balsavimo teisę suteikiančias bendrovės akcijas, o pastarasis privalo šias akcijas išpirkti (išpirkimo pareiga) laikydamasis šiame straipsnyje nustatytos akcijų išpirkimo tvarkos.
+
+
+
+
+3. Bendrovės akcijų išpirkimas gali būti inicijuojamas per 3 mėnesius nuo dienos, kai bendrovės akcininkas, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įsigyja ne mažiau kaip 95 procentus balsų visuotiniame akcininkų susirinkime suteikiančių bendrovės akcijų.
+
+
+
+
+4. Akcininkas, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, pasiekęs arba viršijęs 95 procentų balsų ribą, privalo ne vėliau kaip per 5 darbo dienas raštu pranešti bendrovei apie turimų balsų skaičių. Šią pareigą asmuo turi ir tuo atveju, kai šioje dalyje nurodytos balsų ribos peržengiamos mažėjimo tvarka. Apie tai bendrovė nedelsdama, bet ne vėliau kaip kitą darbo dieną privalo kiekvienam bendrovės akcininkui, kuris turi teisę reikalauti išpirkti jam nuosavybės teise priklausančias balsavimo teisę suteikiančias bendrovės akcijas, pranešti pasirašytinai arba išsiųsti registruotu laišku pranešimą.
+
+
+
+
+5. Akcininko, veikiančio savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, balsai skaičiuojami vadovaujantis Vertybinių popierių įstatymo 16 straipsnio nuostatomis. Sutartinai veikiantys asmenys solidariai atsako už pareigos išpirkti akcijas įvykdymą, o kiekvieno iš jų išperkamų akcijų skaičius yra proporcingas jo turimų bendrovės balsų skaičiui, buvusiam šio straipsnio 7 dalyje nustatyto pranešimo apie akcijų išpirkimą pateikimo metu, jeigu jie nesusitarė kitaip. Laikoma, kad Vertybinių popierių įstatymo 16 straipsnyje nustatytais atvejais asmenys veikia sutartinai.
+
+
+
+
+6. Bendrovės akcininkas, ketinantis pasinaudoti išpirkimo teise, ir akcininkas, reikalaujantis, kad būtų išpirktos jam nuosavybės teise priklausančios balsavimo teisę suteikiančios bendrovės akcijos, apie tai raštu informuoja bendrovę.
+
+
+
+
+7. Bendrovės akcininkas, ketinantis pasinaudoti išpirkimo teise ar vykdantis išpirkimo pareigą, apie akcijų išpirkimą informuoja bendrovę pateikdamas bendrovei pranešimą apie akcijų išpirkimą, kuriame turi būti nurodyta:
+
+
+1) bendrovės, dėl kurios akcijų teikiamas pranešimas, pavadinimas, teisinė forma, kodas ir buveinė;
+
+
+
+
+2) akcijas išperkančio akcininko duomenys (fizinio asmens vardas, pavardė, adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė) ir jo turimų akcijų skaičius, įskaitant akcijų skaičių pagal klases, jų suteikiamų balsų skaičius; 
+
+
+
+
+3) akcijas išperkančio akcininko reikalavimas, kad bendrovės akcininkai, kuriems skirtas pranešimas, parduotų sau nuosavybės teise priklausančias balsavimo teisę suteikiančias bendrovės akcijas;
+
+
+
+
+4) akcijos išpirkimo kaina, o jeigu pranešimas yra susijęs su skirtingų klasių akcijomis, – kiekvienos klasės akcijos išpirkimo kaina ir jos nustatymo būdas;
+
+
+
+
+5) akcijų išpirkimo tvarka;
+
+
+
+
+6) ne trumpesnis kaip 6 savaičių terminas, per kurį bendrovės akcininkai, kuriems skirtas pranešimas, turi atlikti šio straipsnio 13 dalyje nurodytus veiksmus.
+
+
+
+
+
+
+8. Bendrovės akcininkas, vykdantis išpirkimo pareigą, šio straipsnio 7 dalyje nurodytą pranešimą apie akcijų išpirkimą bendrovei turi pateikti ne vėliau kaip per 20 darbo dienų nuo bendrovės pranešimo apie akcininko reikalavimą, kad būtų išpirktos jam nuosavybės teise priklausančios balsavimo teisę suteikiančios bendrovės akcijos, gavimo dienos.
+
+
+
+
+9. Bendrovė gautą šio straipsnio 7 dalyje nurodytą pranešimą apie akcijų išpirkimą ne vėliau kaip per 5 darbo dienas viešai paskelbia bendrovės įstatuose nurodytame šaltinyje ir raštu informuoja reikalavimą išpirkti akcijas pateikusį bendrovės akcininką.
+
+
+
+
+10. Siūloma akcijos išpirkimo kaina turi būti teisinga. Akcijos vertę nustato nepriklausomas turto vertintojas teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Prie šio straipsnio 7 dalyje nurodyto pranešimo apie akcijų išpirkimą turi būti pridedami dokumentai, kuriais pagrindžiamas akcijos vertės nustatymas. Už išperkamas akcijas atsiskaitoma pinigais.
+
+
+
+
+11. Visiems bendrovės, dėl kurios akcijų teikiamas pranešimas apie išpirkimą, išleistų tos pačios klasės akcijų savininkams turi būti siūlomos vienodos akcijų išpirkimo sąlygos. 
+
+
+
+
+12. Bendrovės valdyba (jeigu valdyba nesudaroma – bendrovės vadovas) ne vėliau kaip per 10 darbo dienų nuo pranešimo apie akcijų išpirkimą gavimo dienos turi parengti ataskaitą. Šioje ataskaitoje pateikiama motyvuota bendrovės valdybos (jeigu valdyba nesudaroma – bendrovės vadovo) nuomonė dėl akcijų išpirkimo sąlygų ir galimo akcijų išpirkimo poveikio bendrovei. Ataskaita iki bendrovės akcijų išpirkimo dienos skelbiama bendrovės interneto svetainėje, o jeigu bendrovė jos neturi, suinteresuotiems asmenims turi būti sudaroma galimybė susipažinti su ataskaita bendrovės buveinėje. 
+
+
+
+
+13. Bendrovės akcijų, dėl kurių teikiamas pranešimas apie išpirkimą, savininkai per pranešime nurodytą terminą turi parduoti sau nuosavybės teise priklausančias balsavimo teisę suteikiančias bendrovės akcijas pranešime nurodytomis sąlygomis arba kreiptis į teismą dėl akcijos išpirkimo kainos atitikties teisingumo reikalavimams, apie tai informavę akcijas išperkantį akcininką ir bendrovę. Kreipimosi į teismą atveju mutatis mutandis taikoma Civilinio kodekso 2.115 straipsnio 2 dalis ir 2.118, 2.119 ir 2.120 straipsniai. 
+
+
+
+
+14. Jeigu bent vienas akcininkas kreipiasi į teismą, teismas gali privalomą akcijų išpirkimo procedūrą sustabdyti iki teismo nutarties dėl akcijų kainos nustatymo įsiteisėjimo dienos. Kol akcijų išpirkimo procedūra sustabdyta, akcininkai neprivalo nei parduoti, nei pirkti akcijų, taip pat sustabdomi šiame straipsnyje nustatyti akcininkų įsipareigojimų įvykdymo terminai.
+
+
+
+
+15. Jeigu teismo nustatyta akcijos išpirkimo kaina yra didesnė nei ta, kuri nurodyta pranešime apie akcijų išpirkimą, teismo nustatyta akcijos išpirkimo kaina taikoma visiems bendrovės išleistų tos pačios klasės akcijų, dėl kurių teikiamas pranešimas apie išpirkimą, savininkams nepriklausomai nuo to, ar jie kreipėsi į teismą.
+
+
+
+
+16. Jeigu akcininkas per pranešime apie akcijų išpirkimą nustatytą terminą akcijų nepardavė, laikoma, kad paskutinę pranešime apie akcijų išpirkimą nustatyto termino dieną akcijas išperkantis akcininkas įgijo teisę ne vėliau kaip per 30 dienų kreiptis į teismą ir pateikti dokumentus, kuriais įrodoma, kad atliktas mokėjimas į akcijų nepardavusio akcininko depozitinę sąskaitą Civilinio kodekso 6.56 straipsnyje nustatyta tvarka ar kitu būdu, ir reikalauti išduoti uždarosios akcinės bendrovės materialiąsias akcijas ar įpareigoti sąskaitų tvarkytojus vertybinių popierių sąskaitose padaryti įrašus apie akcijų nuosavybės teisės perėjimą akcijas superkančiam akcininkui. Teismo sprendimas išduoti uždarosios akcinės bendrovės materialiąsias akcijas ar padaryti įrašus bendrovių akcininkų asmeninėse vertybinių popierių sąskaitose laikomas teisėtu pagrindu, kuriuo remiantis išduodamos materialiosios akcijos arba padaromi įrašai akcininkų asmeninėse vertybinių popierių sąskaitose. Šioje dalyje nurodytos civilinės bylos nagrinėjamos byloms dėl juridinę reikšmę turinčių faktų nustatymo nagrinėti nustatyta tvarka.
+
+
+
+
+17. Jeigu akcijas išperkantis akcininkas per pranešime apie akcijų išpirkimą nurodytą terminą nesumoka pranešime nurodytos akcijos išpirkimo kainos, laikoma, kad jo teisė išpirkti akcijas pasibaigė ir asmuo praranda teisę ateityje reikalauti kitų tos bendrovės akcininkų parduoti sau nuosavybės teise priklausančias balsavimo teisę suteikiančias bendrovės akcijas šiame straipsnyje nustatyta tvarka. 
+
+
+
+
+18. Akcininkas, neįvykdęs pareigos išpirkti akcijas ir neužginčijęs akcijų išpirkimo kainos, privalo sumokėti 10 procentų metinių palūkanų nuo sumos, kurios mokėjimo terminas praleistas.
+
+
+
+
+19. Šio straipsnio nuostatos mutatis mutandis taikomos ir išperkant konvertuojamąsias obligacijas, kurios gali būti keičiamos į balsavimo teisę suteikiančias bendrovės akcijas.
+
+
+
+
+20. Šio straipsnio nuostatos netaikomos akcinėms bendrovėms, kurios pagal Vertybinių popierių įstatymą laikomos vertybinių popierių emitentais, ir atvirojo tipo kolektyvinio investavimo subjektams, veikiantiems pagal Kolektyvinio investavimo subjektų įstatymą.
+
+
+Papildyta straipsniu:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+47 straipsnis. Uždarosios akcinės bendrovės akcijų pardavimo ypatumai
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 1. Apie ketinimą parduoti visas ar dalį uždarosios akcinės bendrovės akcijų akcininkas privalo raštu pranešti uždarajai akcinei bendrovei, nurodydamas perleidžiamų akcijų skaičių pagal klases ir pardavimo kainą. 
@@ -4714,7 +5090,10 @@ Nr. X-715, 2006-06-22, Žin., 2006, Nr. 77-2964 (2006-07-14)
 
 
 
-9. Uždarosios akcinės bendrovės įstatuose gali būti nustatyta kitokia, nei šio straipsnio 1–8 dalyse nustatyta, akcijų pardavimo tvarka.
+9. Uždarosios akcinės bendrovės įstatuose gali būti nustatyta, kad pirmumo teisė, numatyta šio straipsnio 2 dalyje, netaikoma, taip pat gali būti nustatyta kitokia, nei šio straipsnio 1 ir 3–8 dalyse nustatyta, akcijų pardavimo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -4727,9 +5106,10 @@ Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
 
 
 
-11. Jei uždarosios akcinės bendrovės akcijos perleidžiamos kitu įstatymų nustatytu būdu (ne pardavimo) arba vykdant teismo sprendimą, šis straipsnis netaikomas.
+11. Neteko galios nuo 2022-11-30.
 Straipsnio dalies pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
  
@@ -4847,6 +5227,14 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 12. Akcijų suteikimo taisyklės skelbiamos bendrovės interneto svetainėje arba sudaroma galimybė bendrovės akcininkams, darbuotojams ir (ar) organų nariams ir, jeigu taip nustatyta šiose taisyklėse, kitiems asmenims su jomis susipažinti bendrovės buveinėje. Kai Akcijų suteikimo taisyklėse nustatomos disponavimo suteiktomis akcijomis sąlygos (suvaržymai), šių sąlygų (suvaržymų) faktą patvirtinantis dokumentas pateikiamas juridinių asmenų registro tvarkytojui per 10 darbo dienų nuo visuotinio akcininkų susirinkimo sprendimo dėl Akcijų suteikimo taisyklių patvirtinimo dienos.
 TAR pastaba. 471 straipsnio nuostatos netaikomos grupei, kaip ši sąvoka apibrėžta Akcinių bendrovių įstatymo 371 straipsnyje.
+
+
+
+
+13. Šio straipsnio nuostatos netaikomos bendrovėms, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso valstybei ar savivaldybei nuosavybės teise, taip pat šių bendrovių dukterinėms bendrovėms.
+Papildyta straipsnio dalimi:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 Papildyta straipsniu:
@@ -5037,9 +5425,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-4. Kai bendrovė didina įstatinį kapitalą iš bendrovės lėšų išleisdama naujas akcijas, akcininkai, išskyrus šio Įstatymo 42 straipsnio 3 dalyje nustatytą atvejį, turi teisę neatlygintinai gauti naujų paprastųjų akcijų, kurių skaičius būtų proporcingas jiems visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) nuosavybės teise priklausančių akcijų nominaliai vertei.
+4. Kai bendrovė didina įstatinį kapitalą iš bendrovės lėšų išleisdama naujas akcijas, akcininkai, išskyrus šio Įstatymo 42 straipsnio 4 dalyje ir 47 straipsnyje nustatytus atvejus, turi teisę neatlygintinai gauti naujų paprastųjų akcijų, kurių skaičius būtų proporcingas jiems visuotinio akcininkų susirinkimo, priėmusio sprendimą padidinti įstatinį kapitalą, dienos pabaigoje (akcinėje bendrovėje – teisių apskaitos dienos pabaigoje) nuosavybės teise priklausančių akcijų nominaliai vertei.
 Straipsnio dalies pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
@@ -7277,9 +7666,10 @@ BAIGIAMOSIOS NUOSTATOS ir įstatymo įsigaliojimas
 78 straipsnis. Baigiamosios nuostatos
 
 
-1. Šio Įstatymo 16 straipsnio 1 dalies 6 punkto, 20 straipsnio 1 dalies 6 punkto, 22 straipsnio 3 ir 4 dalių, 261, 262 straipsnių, 28 straipsnio 1 dalies 13 punkto, 302, 303 straipsnių, 32 straipsnio 1 dalies 9 punkto, 34 straipsnio 1 dalies 4 punkto, 21, 31 ir 92 dalių, 37 straipsnio 12 dalies 3, 4 ir 5 punktų, 373 straipsnio nuostatos netaikomos Kolektyvinio investavimo subjektų įstatyme nurodytiems kolektyvinio investavimo subjektams, išskyrus uždaro tipo kolektyvinio investavimo subjektus. 
+1. Šio Įstatymo 16 straipsnio 1 dalies 6 punkto, 20 straipsnio 1 dalies 6 punkto, 22 straipsnio 3 ir 4 dalių, 261, 262 straipsnių, 28 straipsnio 1 dalies 13 punkto, 302, 303 straipsnių, 32 straipsnio 1 dalies 10 punkto, 34 straipsnio 1 dalies 4 punkto, 21, 31 ir 92 dalių, 37 straipsnio 12 dalies 5, 6 ir 7 punktų, 373 straipsnio nuostatos netaikomos Kolektyvinio investavimo subjektų įstatyme nurodytiems kolektyvinio investavimo subjektams, išskyrus uždaro tipo kolektyvinio investavimo subjektus. Šio Įstatymo 19 straipsnio 2 dalyje nustatytas reikalavimas sudaryti kolegialų organą, atliekantį priežiūros funkcijas, netaikomas Kolektyvinio investavimo subjektų įstatyme nurodytoms investicinėms bendrovėms, kurių teisinė forma yra akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
@@ -7425,8 +7815,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
  
- 
- 
 
 
 
@@ -7464,7 +7852,10 @@ priedas
 
 
 
-5. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
+5. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151.
+Punkto pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 Priedo pakeitimai:
@@ -7478,7 +7869,7 @@ Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
 Priedo pakeitimai:
 Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
  
-part_af5475a7bfbb42ebb5002455ab0c9852_end
+part_cf424c21dffa4b4981a80507c65f43c2_end
 
 
 Pakeitimai:
@@ -7750,3 +8141,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 20, 37-2, 39, 4
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1332, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15397
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 15, 17, 21, 26, 27, 28, 29, 30, 30-1, 32, 34, 37, 37-2, 40, 42, 45, 47, 47-1, 51, 56 ir 78 straipsnių, priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
