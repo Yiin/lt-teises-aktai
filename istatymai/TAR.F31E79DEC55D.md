@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-11-29
+Suvestinė redakcija nuo 2022-11-30 iki 2022-11-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -2964,9 +2964,10 @@ Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
 7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą, griaunamas krašto apsaugos tikslams skirtose teritorijose esantis neypatingasis statinys arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys, pastatytas ne anksčiau kaip prieš 50 metų ir nepatenkantis į kultūros paveldo objekto teritoriją ar kultūros paveldo vietovę;
 27 straipsnio 1 dalies 7 punkto redakcija, įsigaliojanti 2027-01-01:
  
-7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą, griaunamas krašto apsaugos tikslams skirtose teritorijose esantis neypatingasis statinys arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys;
+7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą, griaunamas krašto apsaugos tikslams skirtose teritorijose esantis ypatingasis ir neypatingasis statinys arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys;
 Straipsnio punkto pakeitimai:
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
+Nr. XIV-1539, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24189
  
 
 
@@ -6034,3 +6035,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 17, 24, 27, 27-1, 28, 34, 39,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 27 ir 28 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1539, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24189
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 3, 8, 10, 12, 19, 22, 24, 27, 28, 33, 34, 39, 42, 46, 49, 53 straipsnių, 1 priedo pakeitimo ir Įstatymo papildymo 27-1, 52-1 straipsniais įstatymo Nr. XIV-340 9 ir 21 straipsnių pakeitimo įstatymas
