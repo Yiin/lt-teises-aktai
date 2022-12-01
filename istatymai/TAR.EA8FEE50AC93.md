@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2024-05-02
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -28,9 +28,6 @@ SU NEKILNOJAMUOJU TURTU SUSIJUSIO KREDITO
 Vilnius
  
  
-
- 
-
  
  
 
@@ -112,7 +109,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-7) kitoms, negu šios dalies 6 punkte nurodytos, kredito sutartims, pagal kurias teisės aktų nustatytais atvejais, kai siekiama bendro intereso, tam tikrai ribotai visuomenės daliai suteikiamas kreditas taikant mažesnę negu rinkoje vyraujanti palūkanų normą arba visai nemokant palūkanų, arba kitomis sąlygomis, kurios būtų palankesnės kredito gavėjui negu rinkoje vyraujančios sąlygos, ir taikant ne didesnę negu rinkoje vyraujanti palūkanų normą, išskyrus šio įstatymo 4 ir 7 straipsniuose nustatytus reikalavimus, kurie taikomi šiame punkte nurodytoms kredito sutartims.
+7) kitoms, negu šios dalies 6 punkte nurodytos, kredito sutartims, pagal kurias teisės aktų nustatytais atvejais, kai siekiama bendro intereso, tam tikrai ribotai visuomenės daliai suteikiamas kreditas taikant mažesnę negu rinkoje vyraujanti palūkanų normą arba visai nemokant palūkanų, arba kitomis sąlygomis, kurios būtų palankesnės kredito gavėjui negu rinkoje vyraujančios sąlygos, ir taikant ne didesnę negu rinkoje vyraujanti palūkanų normą, išskyrus šio įstatymo 4 ir 7 straipsniuose nustatytus reikalavimus, kurie taikomi šiame punkte nurodytoms kredito sutartims;
+
+
+
+
+8) kredito sutartims, kurios yra susijusios su nemokamai atidėtu esamos skolos mokėjimu ir kurioms netaikomas šio straipsnio 1 dalies 1 punktas.
+Papildyta straipsnio punktu:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -218,7 +223,10 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 
 
 
-12. Kredito davėjų arba tarpusavio skolinimo platformos operatorių grupė (toliau – grupė) – kredito davėjų grupė arba tarpusavio skolinimo platformos operatorių grupė, kurių finansinės ataskaitos turi būti sujungiamos ir teikiamos kaip įmonių grupės konsoliduotųjų finansinių ataskaitų rinkinys, kaip nustatyta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme.
+12. Kredito davėjų arba tarpusavio skolinimo platformos operatorių grupė (toliau – grupė) – kredito davėjų grupė arba tarpusavio skolinimo platformos operatorių grupė, kurių finansinės ataskaitos turi būti sujungiamos ir teikiamos kaip įmonių grupės konsoliduotųjų finansinių ataskaitų rinkinys, kaip nustatyta Lietuvos Respublikos įmonių grupių konsoliduotosios atskaitomybės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -368,7 +376,9 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 
 
 
-34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme ir Lietuvos Respublikos užimtumo rėmimo įstatyme.
+34. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įmonių atskaitomybės įstatyme, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme ir Lietuvos Respublikos užimtumo rėmimo įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
  
 
 
@@ -644,7 +654,9 @@ Kredito davėjas ir kredito tarpininkas, jeigu kredito sutartį siūlo sudaryti 
 
 
 
-8. Kredito davėjas ir (arba) kredito tarpininkas, pateikdami kredito gavėjui įpareigojantį pasiūlymą suteikti kreditą, kredito gavėjo prašymu kartu neatlygintinai pateikia kredito sutarties projekto kopiją. 
+8. Kredito davėjas ir (arba) kredito tarpininkas, pateikdami kredito gavėjui įpareigojantį pasiūlymą suteikti kreditą, informuoja kredito gavėją apie jo teisę gauti kredito sutarties projekto kopiją ir kredito gavėjo prašymu kartu neatlygintinai pateikia kredito sutarties projekto kopiją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
  
 
 
@@ -809,7 +821,10 @@ BENDRA KREDITO KAINA IR KREDITO GAVĖJO KREDITINGUMAS
 
 
 
-2) skolinimas grindžiamas kredito gavėjo finansinių įsipareigojimų pagal kredito ir kitas sutartis ir pajamų santykio ribojimu;
+2) skolinimas grindžiamas kredito gavėjo skolinių įsipareigojimų pagal kredito ir kitas sutartis ir pajamų santykio ribojimu;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -1451,7 +1466,10 @@ Nr. XIII-2815, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05695
 
 
 
-4. Užsienio valiuta konvertuojama pagal kredito sutartyje nurodytą šalių sutartą konvertavimo dieną Europos Centrinio Banko paskelbtą orientacinį euro ir užsienio valiutos santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutos santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutos santykį. 
+4. Užsienio valiuta konvertuojama pagal Europos Centrinio Banko paskelbtą orientacinį euro ir užsienio valiutos santykį, galiojantį konvertavimo dieną, o tais atvejais, kai orientacinio euro ir užsienio valiutos santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutos santykį, galiojantį konvertavimo dieną, išskyrus atvejus, kai kredito sutartyje nustatyta kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -1713,7 +1731,10 @@ KREDITO DAVĖJŲ IR KREDITO TARPININKŲ VEIKLOS REIKALAVIMAI
 
 
 
-2) jeigu paskutinius 6 mėnesius kredito tarpininkas nebevykdo kredito tarpininko veiklos arba nepradeda jos vykdyti per 6 mėnesius nuo jo įrašymo į šio straipsnio 1 arba 2 dalyje nurodytą viešąjį sąrašą dienos;
+2) paskutinius 6 mėnesius kredito tarpininkas nebevykdo kredito tarpininko veiklos ir neteikia konsultacinių paslaugų arba nepradeda vykdyti kredito tarpininko veiklos ir teikti konsultacinių paslaugų per 6 mėnesius nuo jo įrašymo į šio straipsnio 1 arba 2 dalyje nurodytą viešąjį sąrašą dienos;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -1740,7 +1761,10 @@ KREDITO DAVĖJŲ IR KREDITO TARPININKŲ VEIKLOS REIKALAVIMAI
 
 
 
-10. Kredito tarpininkas, paskutinius 6 mėnesius nebevykdantis kredito tarpininko veiklos arba nepradėjęs jos vykdyti per 6 mėnesius nuo jo įrašymo į šio straipsnio 1 arba 2 dalyje nurodytą viešąjį sąrašą dienos, apie tai nedelsdamas privalo raštu pranešti priežiūros institucijai.
+10. Kredito tarpininkas, paskutinius 6 mėnesius nebevykdantis kredito tarpininko veiklos ir nebeteikiantis konsultacinių paslaugų arba nepradėjęs vykdyti kredito tarpininko veiklos ir teikti konsultacinių paslaugų per 6 mėnesius nuo jo įrašymo į šio straipsnio 1 arba 2 dalyje nurodytą viešąjį sąrašą dienos, apie tai nedelsdamas privalo raštu pranešti priežiūros institucijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -1833,7 +1857,9 @@ KREDITO DAVĖJŲ IR KREDITO TARPININKŲ VEIKLOS REIKALAVIMAI
 31 straipsnis. Reikalavimai kredito davėjo ir kredito tarpininko vadovams bei kredito davėjo dalyviams
 
 
-1. Vadovu, fiziniu arba juridiniu asmeniu ar kartu veikiančiu asmeniu, kuriam priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, kredito davėjui, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų:
+1. Vadovu, fiziniu arba juridiniu asmeniu ar kartu veikiančiu asmeniu, kuriam priklausančių balsavimo teisių arba įstatinio kapitalo dalis yra lygi arba viršija 20 procentų arba kuris gali daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį, kaip tai apibrėžta Įmonių grupių konsoliduotosios atskaitomybės įstatyme, kredito davėjo veiklai, negali būti asmuo, atitinkantis bent vieną iš šių sąlygų: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
 
 
 1) fizinis asmuo yra pripažintas kaltu padaręs, sunkų, labai sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančias nusikalstamas veikas pagal kitų valstybių baudžiamuosius įstatymus, jeigu jo teistumas už pirmiau nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo;
@@ -1861,7 +1887,18 @@ Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
 
 
 
-2. Šio straipsnio 1 dalyje nurodytais kartu veikiančiais asmenimis laikomi du arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal toje dalyje nurodytą kredito davėjo ar kredito tarpininko įstatinio kapitalo ir (arba) balsavimo teisių dalį.
+2. Šio straipsnio 1 dalyje nurodytais kartu veikiančiais asmenimis laikomi du arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal šio straipsnio 1 dalyje nurodytą kredito davėjo įstatinio kapitalo ir (arba) balsavimo teisių dalį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
+
+
+
+
+21. Jeigu kredito davėjo kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi juridinis asmuo, šio juridinio asmens organų, išskyrus dalyvių susirinkimą, nariu negali būti asmuo, atitinkantis šio straipsnio 1 dalies 1 punkte nurodytą sąlygą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -1874,7 +1911,18 @@ Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
 
 
 
-4. Kredito davėjas ir kredito tarpininkas privalo iš anksto pranešti priežiūros institucijai apie visus būsimus šio straipsnio 1 dalyje nurodytų asmenų pasikeitimus, kartu pateikdamas priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar naujai skiriamas arba planuojamas rinkti vadovas ir (arba) kitas asmuo atitinka šio straipsnio 1 ir 3 dalyse nustatytas sąlygas. Naujai paskirtas arba išrinktas vadovas gali pradėti eiti pareigas, o kitas asmuo – įsigyti šio straipsnio 1 dalyje nurodytą kredito davėjo balsavimo teisių arba įstatinio kapitalo dalį, leidžiančią daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį juridiniam asmeniui, tik tada, kai priežiūros institucija pritaria jo kandidatūrai arba įsigijimo sandoriui. 
+4. Fizinis arba juridinis asmuo ar kartu veikiantys asmenys, nusprendę įsigyti kredito davėjo balsavimo teisių ir (arba) įstatinio kapitalo dalį, lygią arba viršijančią 20 procentų, arba tokią dalį, kuri leistų fiziniam arba juridiniam asmeniui ar kartu veikiantiems asmenims daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį kredito davėjo veiklai, privalo pateikti priežiūros institucijai informaciją, reikalingą įvertinti, ar šie asmenys atitinka šio straipsnio 1 dalyje nustatytus reikalavimus. Kredito davėjo balsavimo teisių arba įstatinio kapitalo dalies, lygios arba viršijančios 20 procentų, arba tokios dalies, kuri leistų fiziniam arba juridiniam asmeniui ar kartu veikiantiems asmenims daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį kredito davėjo veiklai, negali įsigyti fizinis arba juridinis asmuo ar kartu veikiantys asmenys, jeigu jie atitinka bent vieną iš šio straipsnio 1 dalies 1–4 punktuose nurodytų sąlygų ir jeigu negautas priežiūros institucijos pritarimas įsigijimo sandoriui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
+
+
+
+
+41. Kredito davėjas ir kredito tarpininkas privalo pranešti priežiūros institucijai apie būsimą kredito davėjo ar kredito tarpininko vadovo pasikeitimą ir pateikti informaciją, reikalingą įvertinti, ar naujai skiriamas arba planuojamas rinkti kredito davėjo ar kredito tarpininko vadovas atitinka šio straipsnio 1 ir 3 dalyse nustatytus reikalavimus. Kredito davėjo ir kredito tarpininko vadovas gali pradėti eiti pareigas, jeigu jis atitinka šio straipsnio 1 ir 3 dalyse nustatytus reikalavimus ir tik po to, kai priežiūros institucija pritaria jo kandidatūrai.
+Papildyta straipsnio dalimi:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -1970,10 +2018,7 @@ Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
 33 straipsnis. Teisių ir pareigų pagal kredito sutartis perleidimas
 
 
-1. Kredito davėjas turi teisę perleisti teises ir pareigas pagal su kredito gavėjais sudarytas galiojančias kredito sutartis tik į viešąjį kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 dalyje nustatytą atvejį.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
- 
+1. Kredito davėjas turi teisę perleisti teises ir pareigas pagal su kredito gavėjais sudarytas galiojančias kredito sutartis tik į viešąjį kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 ir 5 dalyse nustatytus atvejus.
 
 
 
@@ -1989,11 +2034,22 @@ Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
 
 
 4. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas, kai specialiosios paskirties bendrovė ar bet koks ne Lietuvos Respublikoje įsteigtas subjektas iš kredito davėjo perima teises ir pareigas pagal kredito sutartis, kaip nustatyta Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatyme.
-Papildyta straipsnio dalimi:
-Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
+
+
+
+
+5. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas kredito davėjo teisių ir pareigų pagal kredito sutartis perleidimui Lietuvos bankui, Europos Centriniam Bankui ir kitiems Europos centrinių bankų sistemos nacionaliniams centriniams bankams, kai jie atlieka savo funkcijas ir operacijas, nustatytas jų veiklą reglamentuojančiuose teisės aktuose (toliau šiame straipsnyje – funkcijos ir operacijos)
+
+
+
+
+6. Lietuvos bankui, Europos Centriniam Bankui ir kitiems Europos centrinių bankų sistemos nacionaliniams centriniams bankams, kai jie, atlikdami savo funkcijas ir operacijas, perima teises ir pareigas pagal kredito sutartis, taikomos tik šio įstatymo nuostatos, reglamentuojančios kredito davėjo pareigų vykdymą ir kredito gavėjo teisių įgyvendinimą.
+TAR pastaba. 33 straipsnio nuostatos taikomos iki įstatymo Nr. XIV-1476 įsigaliojimo dienos (2022-12-01) sudarytoms kredito sutartims.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
  
-
-
 
 
 
@@ -2001,7 +2057,10 @@ Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
 34 straipsnis. Kredito davėjo finansinių ataskaitų rinkiniai
 
 
-1. Jeigu pagal Įmonių finansinės atskaitomybės įstatymą kredito davėjas privalo sudaryti metinius finansinių ataskaitų rinkinius, jie turi būti audituoti.
+1. Jeigu pagal Įmonių atskaitomybės įstatymą kredito davėjas privalo sudaryti metinius finansinių ataskaitų rinkinius, jie turi būti audituoti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+ 
 
 
 
@@ -2568,10 +2627,10 @@ KREDITO TARPININKŲ VEIKLA KITOSE VALSTYBĖSE NARĖSE
 43 straipsnis. Kitoje valstybėje narėje įsteigto kredito tarpininko, veikiančio Lietuvos Respublikoje, priežiūra
 
 
-1. Priežiūros institucija prižiūri, kaip kredito tarpininkas, įsteigęs filialą Lietuvos Respublikoje, laikosi šio įstatymo 4, 6, 7, 9, 10, 11, 13, 32 straipsniuose, 35 straipsnio 1 dalyje, 36, 44, 56, 57 straipsniuose nustatytų reikalavimų ir juos detalizuojančių priežiūros institucijos teisės aktų. Šiuo tikslu priežiūros institucija turi teisę atlikti kredito tarpininko filialo patikrinimus, įpareigoti kredito tarpininką atlikti veiksmus, reikalingus užtikrinti, kad kredito tarpininko filialas, įsteigtas Lietuvos Respublikoje, laikytųsi šioje dalyje nurodytų teisės aktų reikalavimų, ir sudaryti sąlygas buveinės valstybės narės priežiūros institucijai užtikrinti, kad būtų vykdomos šio įstatymo 35 straipsnio 2 ir 4 dalyse nustatytos pareigos. 
-TAR pastaba. 1 dalies nuostatos netaikomos kredito sutartims, sudarytoms iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01).
+1. Priežiūros institucija prižiūri, kaip kredito tarpininkas, įsteigęs filialą Lietuvos Respublikoje, laikosi šio įstatymo 4, 6, 7, 9, 10, 11, 13, 32 straipsniuose, 35 straipsnio 1 dalyje, 36, 44, 56, 57 straipsniuose nustatytų reikalavimų ir juos detalizuojančių priežiūros institucijos teisės aktų. Šiuo tikslu priežiūros institucija turi teisę atlikti kredito tarpininko filialo patikrinimus, įpareigoti kredito tarpininką atlikti veiksmus, reikalingus užtikrinti, kad kredito tarpininko filialas, įsteigtas Lietuvos Respublikoje, laikytųsi šioje dalyje nurodytų teisės aktų reikalavimų, ir sudaryti sąlygas buveinės valstybės narės priežiūros institucijai užtikrinti, kad būtų vykdomos šio įstatymo 35 straipsnio 2, 3 ir 4 dalyse nustatytos pareigos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
  
 
 
@@ -3111,19 +3170,19 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
-
- 
-
  
  
-part_15c823146e0c4217a0ce061b6353a718_end
-part_49c1ba3329654520ab24db7acd5ef98e_end
+
+
+
+
 
 
 Lietuvos Respublikos 
@@ -3174,3 +3233,8 @@ Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1340, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15405
 Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 32, 33 straipsnių ir priedo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1476, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23021
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 2, 3, 7, 12, 24, 28, 31, 33, 34 ir 43 straipsnių pakeitimo įstatymas
