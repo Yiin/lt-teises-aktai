@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2022-10-01 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -72,7 +72,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
 
  
 
@@ -4546,10 +4545,11 @@ Nr. XII-1878, 2015-06-25, paskelbta TAR 2015-07-10, i. k. 2015-11239
 128 straipsnis. Pranešimas apie įtariamojo suėmimą
 
 
-1. Paskiriant suėmimą dalyvavęs prokuroras nedelsdamas privalo apie įtariamojo suėmimą pranešti vienam iš suimtojo nurodytų šeimos narių, artimųjų giminaičių arba kitam suimtojo nurodytam asmeniui. Jeigu suimtasis jokio asmens nenurodo, prokuroras savo nuožiūra turi pranešti vienam iš įtariamojo šeimos narių ar artimųjų giminaičių, jei šį pavyksta nustatyti. Jeigu suimtasis yra nepilnametis, prokuroras nedelsdamas privalo apie nepilnamečio įtariamojo suėmimą pranešti nepilnamečio tėvams arba kitiems atstovams pagal įstatymą, o kai toks pranešimas prieštarautų suimto nepilnamečio interesams, – kitam tinkamam pilnamečiui asmeniui. Be to, suimtam įtariamajam turi būti nedelsiant sudaryta galimybė pačiam susisiekti su vienu iš jo nurodytų šeimos narių, artimųjų giminaičių arba kitu suimtojo nurodytu asmeniu. Prokuroras motyvuotu nutarimu laikinai gali atsisakyti pranešti apie paskirtą suėmimą arba neleisti susisiekti su suimtojo nurodytu asmeniu, jeigu tai pakenktų ikiteisminio tyrimo sėkmei arba sukeltų pavojų suimtojo šeimos narių, artimųjų giminaičių ar kitų asmenų saugumui. Šiuo atveju, taip pat tais atvejais, kai suimtas nepilnametis neturi tėvų ar kitų atstovų pagal įstatymą ar jų nepavyksta nustatyti arba kai pranešimas šiems asmenims prieštarautų suimto nepilnamečio interesams, apie nepilnamečio įtariamojo suėmimą būtina nedelsiant pranešti valstybinei vaiko teisių apsaugos institucijai. Prokuroro nutarimas per penkias dienas nuo nutarimo nuorašo įteikimo įtariamajam ar jo gynėjui dienos gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo šį skundą išnagrinėti per septynias dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis neskundžiama. 
+1. Paskiriant suėmimą dalyvavęs prokuroras nedelsdamas privalo apie įtariamojo suėmimą pranešti vienam iš suimtojo nurodytų šeimos narių, artimųjų giminaičių arba kitam suimtojo nurodytam asmeniui. Jeigu suimtasis jokio asmens nenurodo, prokuroras savo nuožiūra turi pranešti vienam iš įtariamojo šeimos narių ar artimųjų giminaičių, jei šį pavyksta nustatyti. Jeigu suimtasis yra nepilnametis, prokuroras nedelsdamas privalo apie nepilnamečio įtariamojo suėmimą pranešti nepilnamečio tėvams arba kitiems atstovams pagal įstatymą, o kai toks pranešimas prieštarautų suimto nepilnamečio interesams, – kitam tinkamam pilnamečiam asmeniui. Be to, suimtam įtariamajam turi būti nedelsiant sudaryta galimybė pačiam susisiekti su vienu iš jo nurodytų šeimos narių, artimųjų giminaičių arba kitu suimtojo nurodytu asmeniu. Kai pagrįstai manoma, kad toks pranešimas arba susisiekimas keltų akivaizdų pavojų suimtojo šeimos narių, artimųjų giminaičių ar kitų asmenų gyvybei, sveikatai ar laisvei arba akivaizdžiai pakenktų vykstančiam baudžiamajam procesui, prokuroras motyvuotu nutarimu laikinai gali atsisakyti pranešti apie paskirtą suėmimą arba neleisti susisiekti su suimtojo nurodytu asmeniu. Šiuo atveju, taip pat tais atvejais, kai suimtas nepilnametis neturi tėvų ar kitų atstovų pagal įstatymą ar jų nepavyksta nustatyti arba kai pranešimas šiems asmenims prieštarautų suimto nepilnamečio interesams, apie nepilnamečio įtariamojo suėmimą būtina nedelsiant pranešti valstybinei vaiko teisių apsaugos institucijai. Prokuroro nutarimas per penkias dienas nuo nutarimo nuorašo įteikimo įtariamajam ar jo gynėjui dienos gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo šį skundą išnagrinėti per septynias dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis neskundžiama.
 Straipsnio dalies pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+Nr. XIV-1475, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22948
  
 
 
@@ -5131,7 +5131,10 @@ Nr. XIV-1359, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15453
 141 straipsnis. Atidavimas į sveikatos priežiūros įstaigą
 
 
-1. Jeigu tiriant ar nagrinėjant baudžiamąją bylą prireikia įtariamajam daryti teismo medicinos ar teismo psichiatrijos ekspertizę, įtariamasis ikiteisminio tyrimo teisėjo ar teismo nutartimi gali būti atiduotas į ekspertizės įstaigą ir laikomas ten iki ekspertizės akto pateikimo prokurorui arba teismui. Buvimo ekspertizės įstaigoje laikas įskaitomas į suėmimo laiką.
+1. Jeigu tiriant ar nagrinėjant baudžiamąją bylą prireikia įtariamajam daryti teismo medicinos ar stacionarinę teismo psichiatrijos ekspertizę, įtariamasis ikiteisminio tyrimo teisėjo ar teismo nutartimi gali būti atiduotas į ekspertizės įstaigą ir laikomas ten iki ekspertizės akto pateikimo prokurorui arba teismui. Buvimo ekspertizės įstaigoje laikas įskaitomas į suėmimo laiką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1475, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22948
+ 
 
 
 
@@ -5164,18 +5167,30 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 142 straipsnis. Atvesdinimas
 
 
-1. Įtariamasis, kaltinamasis, nukentėjusysis ir kiekvienas šaukiamas kaip liudytojas asmuo privalo šaukiami atvykti pas ikiteisminio tyrimo pareigūną, prokurorą ar į teismą. Be pateisinamos priežasties neatvykęs pas ikiteisminio tyrimo pareigūną, prokurorą ar į teismą įtariamasis, kaltinamasis, nukentėjusysis ar liudytojas gali būti atvesdinami. Jeigu įtariamojo ar kaltinamojo buvimo vieta nežinoma, ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi skelbiama įtariamojo ar kaltinamojo paieška. Ikiteisminio tyrimo pareigūnas privalo apie įtariamojo paieškos paskelbimą nedelsdamas raštu pranešti prokurorui.
+1. Įtariamasis, kaltinamasis, nukentėjusysis ir kiekvienas šaukiamas kaip liudytojas asmuo privalo šaukiami atvykti pas ikiteisminio tyrimo pareigūną, prokurorą ar į teismą. Be pateisinamos priežasties neatvykęs pas ikiteisminio tyrimo pareigūną, prokurorą ar į teismą įtariamasis, kaltinamasis, nukentėjusysis ar liudytojas gali būti atvesdinami. 
 
 
 
 
-2. Asmenį atvesdina policija ikiteisminio tyrimo pareigūno, prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo nutartimi.
+2. Įtariamasis ar kaltinamasis, kuriam tiriant ar nagrinėjant baudžiamąją bylą prireikia daryti teismo medicinos ar ambulatorinę teismo psichiatrijos ekspertizę ir kuris atsisako atvykti ar be pateisinamos priežasties neatvyksta pas teismo ekspertą ar į ekspertizės įstaigą, gali būti atvesdintas teismo medicinos ar ambulatorinei teismo psichiatrijos ekspertizei atlikti. 
+
+
+
+
+3. Jeigu įtariamojo ar kaltinamojo buvimo vieta nežinoma, ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi skelbiama įtariamojo ar kaltinamojo paieška. Ikiteisminio tyrimo pareigūnas privalo apie įtariamojo paieškos paskelbimą nedelsdamas raštu pranešti prokurorui.
+
+
+
+
+4. Asmenį atvesdina policija ikiteisminio tyrimo pareigūno, prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo nutartimi. Atvesdinamas asmuo turi būti pristatytas į atvesdinimo vietą per įmanomai trumpiausią laiką, bet ne vėliau kaip per penkias valandas. Atvesdinimo laikas skaičiuojamas nuo faktinio asmens laisvės apribojimo pradžios momento.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
+Straipsnio pakeitimai:
+Nr. XIV-1475, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22948
  
 
 
@@ -11841,6 +11856,8 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 
 Straipsnio pakeitimai:
+Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
+Straipsnio pakeitimai:
 Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
  
 
@@ -15753,7 +15770,7 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-part_424d0454a04d4e718aab0fb0a713a9d6_end
+part_8152b7371ac940798bfd1408a562d06d_end
 
 
  
@@ -16564,3 +16581,13 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 71-1, 73, 77, 77-1, 212, 254, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1359, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15453
 Lietuvos Respublikos baudžiamojo proceso kodekso 140 straipsnio pakeitimo įstatymas
+ 
+64.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+Lietuvos Respublikos baudžiamojo proceso kodekso 69, 69-1, 101, 128, 165, 188, 189, 189-1, 235, 246, 308, 333, 339, 342, 357, 358, 360, 362, 365, 377, 453, 454 ir 460 straipsnių pakeitimo įstatymas
+ 
+65.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1475, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22948
+Lietuvos Respublikos baudžiamojo proceso kodekso 128, 141, 142 straipsnių pakeitimo ir Kodekso papildymo 174-1 straipsniu įstatymas
