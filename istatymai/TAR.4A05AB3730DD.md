@@ -18,10 +18,9 @@ LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2020-06-15 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
  
@@ -1183,7 +1182,10 @@ MOKĖJIMO ĮSTAIGOS KAPITALO IR APSAUGOS REIKALAVIMAI
 1. Mokėjimo įstaiga, kuri teikia Mokėjimų įstatymo 5 straipsnio 1–6 punktuose nurodytas mokėjimo paslaugas, privalo apsaugoti tiesiogiai iš mokėjimo paslaugų vartotojų arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti vienu iš šių būdų:
 
 
-1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra mokėjimo paslaugų vartotojai, lėšų. Jeigu gavus lėšas kitos darbo dienos pabaigoje jas vis dar turi mokėjimo įstaiga ir jos nėra perduotos gavėjui ar pervestos kitam mokėjimo paslaugų teikėjui, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje), kitos valstybės narės kredito įstaigoje, Lietuvos banke arba kitos valstybės narės centriniame banke ar investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Mokėjimo įstaiga, šiame punkte nustatytu būdu saugodama mokėjimo paslaugų vartotojų tiesiogiai arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti, privalo imtis priemonių, užtikrinančių mokėjimo paslaugų vartotojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Mokėjimo paslaugų vartotojų lėšos, perduotos mokėjimo įstaigai mokėjimo paslaugoms vykdyti, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal mokėjimo įstaigos skolas; 
+1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra mokėjimo paslaugų vartotojai, lėšų. Jeigu gautas lėšas kitos darbo dienos pabaigoje vis dar turi mokėjimo įstaiga ir jos nėra perduotos gavėjui ar pervestos kitam mokėjimo paslaugų teikėjui, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos arba kitos valstybės narės kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje arba kitoje valstybėje narėje), Lietuvos banke arba kitos valstybės narės centriniame banke ar investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Mokėjimo įstaiga, šiame punkte nustatytu būdu saugodama mokėjimo paslaugų vartotojų tiesiogiai arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti, privalo imtis priemonių, užtikrinančių mokėjimo paslaugų vartotojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Mokėjimo paslaugų vartotojų lėšos, perduotos mokėjimo įstaigai mokėjimo paslaugoms vykdyti, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal mokėjimo įstaigos skolas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1480, 2022-11-03, paskelbta TAR 2022-11-17, i. k. 2022-23199
+ 
 
 
 
@@ -2208,8 +2210,6 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 mokėjimo įstaigų įstatymo
@@ -2271,5 +2271,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2968, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11349
 Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 8 straipsnio pakeitimo įstatymas
  
- 
-part_64c05fba4ffc489eaa5dd6f26890429a_end
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1480, 2022-11-03, paskelbta TAR 2022-11-17, i. k. 2022-23199
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 17 straipsnio pakeitimo įstatymas
