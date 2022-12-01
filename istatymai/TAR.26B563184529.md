@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-07-08 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2023-01-03
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -45,6 +45,14 @@ BENDROSIOS NUOSTATOS
 
 
 1. Šis įstatymas reglamentuoja Lietuvos Respublikos teritorijos, kontinentinio šelfo ir išskirtinės ekonominės zonos Baltijos jūroje teritorijų planavimą ir nustato šiame procese dalyvaujančių asmenų teises ir pareigas. Šio įstatymo tikslas – užtikrinti darnią teritorijų plėtrą ir racionalią urbanizaciją, nustatant teritorijų planavimo proceso sprendinių sistemiškumo, skirtingo lygmens dokumentų suderinamumo ir tarpusavio poveikio reikalavimus, sudaryti sąlygas gamtinės ir antropogeninės aplinkos darnai, urbanistinei kokybei, išsaugant vertingą kraštovaizdį, biologinę įvairovę, gamtos ir kultūros paveldo vertybes.
+
+
+
+
+11. Šio įstatymo nuostatos, išskyrus šio įstatymo 4 straipsnio 6 dalį, netaikomos teritorijoms, kurioms Lietuvos Respublikos žemės įstatymo nustatyta tvarka rengiami karinės infrastruktūros projektai karinei infrastruktūrai, nurodytai Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte nurodytame sąraše, pritaikyti ir (ar) sukurti.
+Papildyta straipsnio dalimi:
+Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
+ 
 
 
 
@@ -324,6 +332,13 @@ Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
 
 
 45. Viešoji erdvė – gyvenamosios vietovės urbanizuotos teritorijos erdvinės struktūros elementas, skirtas visuomenės bendriesiems interesams.
+
+
+
+
+46. Sąvoka „karinės infrastruktūros projektas“ suprantama taip, kai ji apibrėžiama Žemės įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
  
 
 
@@ -447,11 +462,12 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 
 
-6. Krašto apsaugos tikslams skirtų teritorijų žemės valdytojai ir naudotojai vadovaujasi vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais, o neurbanizuotose ir neurbanizuojamose teritorijose – ir specialiojo teritorijų planavimo dokumentais, o Investicijų įstatyme nurodytiems stambiems projektams įgyvendinti ar pritraukti skirtos teritorijos (toliau – stambiems projektams skirtos teritorijos) vystomos vadovaujantis valstybei svarbių projektų teritorijų planavimo dokumentais arba vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais. 
+6. Krašto apsaugos tikslams skirtų teritorijų žemės valdytojai ir naudotojai vadovaujasi vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais, o neurbanizuotose ir neurbanizuojamose teritorijose – ir specialiojo teritorijų planavimo dokumentais, tiek, kiek jie neprieštarauja karinės infrastruktūros projektų sprendiniams, o Investicijų įstatyme nurodytiems stambiems projektams įgyvendinti ar pritraukti skirtos teritorijos (toliau – stambiems projektams skirtos teritorijos) vystomos vadovaujantis valstybei svarbių projektų teritorijų planavimo dokumentais arba vietovės lygmens bendrojo plano sprendiniais, jeigu jis neparengtas, – savivaldybės lygmens bendrojo plano sprendiniais.
 Papildyta straipsnio dalimi:
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 Straipsnio dalies pakeitimai:
 Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
+Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
  
 
 
@@ -1257,7 +1273,10 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 1. Savivaldybės lygmens ir vietovės lygmens bendrųjų planų sprendiniai įgyvendinami:
 
 
-1) detalizuojant sprendinius žemesnio lygmens teritorijų planavimo dokumentuose, detaliuosiuose planuose ar žemėtvarkos planavimo dokumentuose – žemės valdos projektuose, kurių rengimą reglamentuoja Lietuvos Respublikos žemės įstatymas;
+1) detalizuojant sprendinius žemesnio lygmens teritorijų planavimo dokumentuose, detaliuosiuose planuose ar žemėtvarkos planavimo dokumentuose – žemės valdos projektuose, kurių rengimą reglamentuoja Žemės įstatymas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
+ 
 
 
 
@@ -3528,3 +3547,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 40 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1246, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14912
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 20 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2, 4 ir 16 straipsnių pakeitimo įstatymas
