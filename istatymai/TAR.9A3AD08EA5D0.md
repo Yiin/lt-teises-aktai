@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -4100,7 +4100,10 @@ Visuomenės dalyvavimą formuojant švietimo politiką ir priimant švietimo spr
 
 
 
-4) Aukštojo mokslo taryba yra Švietimo ir mokslo ministerijos patariamoji institucija strateginiais aukštojo mokslo plėtros klausimais. Aukštojo mokslo tarybos nuostatus tvirtina Vyriausybė. 
+4) Neteko galios nuo 2022-12-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1041, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08796
+ 
 
 
 
@@ -4893,3 +4896,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 23 ir 49 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir 47 straipsnių pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1041, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08796
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 62 straipsnio pakeitimo įstatymas
