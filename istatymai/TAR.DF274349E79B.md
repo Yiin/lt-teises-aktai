@@ -21,7 +21,7 @@ VIENOS VALSTYBĖS RIBAS PERŽENGIANČIO RIBOTOS
 
 
 
-Suvestinė redakcija nuo 2015-12-03 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2023-08-30
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 76-3001, i. k. 1081010ISTA00X-1607
  
@@ -165,6 +165,14 @@ BENDROSIOS NUOSTATOS
 3. Šio įstatymo nuostatos netaikomos Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams, kuriems taikomos Finansinio tvarumo įstatymo III skyriaus nuostatos.
 Papildyta straipsnio dalimi:
 Nr. XII-2064, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19177
+ 
+
+
+
+
+4. Šio įstatymo nuostatos netaikomos Finansinio tvarumo įstatymo 1 straipsnio 21 dalyje nurodytiems subjektams, kuriems taikomos 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132, V antraštinės dalies nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1459, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22570
  
 
 
@@ -1024,3 +1032,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2064, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19177
 Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ Nr. X-1607 3 straipsnio ir priedo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1459, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22570
+Lietuvos Respublikos įstatymo „Dėl darbuotojų dalyvavimo bendrovėje po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi“ Nr. X-1607 3 straipsnio pakeitimo įstatymas
