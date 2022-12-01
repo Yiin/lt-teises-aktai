@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2022-04-29 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
  
@@ -45,7 +45,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas taikomas visoms Lietuvos Respublikoje veikiančioms valdymo įmonėms, valdančioms papildomo savanoriško pensijų kaupimo fondus pagal priežiūros institucijos išduotą licenciją. Valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondus valdančioms įmonėms šis įstatymas taikomas taip, kaip tai nustato šiuos santykius reglamentuojantys įstatymai. 
+2. Šis įstatymas taikomas visoms Lietuvos Respublikoje veikiančioms valdymo įmonėms, valdančioms papildomo savanoriško pensijų kaupimo fondus pagal priežiūros institucijos išduotą licenciją. Tikslinių pensijų fondų dalyvių grupių pensijų fondus ir pensijų turto išsaugojimo pensijų fondus valdančioms įmonėms šis įstatymas taikomas taip, kaip tai nustato šiuos santykius reglamentuojantys įstatymai.
 
 
 
@@ -55,17 +55,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Valdymo įmonėms Lietuvos Respublikos akcinių bendrovių įstatymo (toliau – Akcinių bendrovių įstatymas) ir Lietuvos Respublikos įmonių bankroto įstatymo nuostatos taikomos tiek, kiek šis įstatymas nenustato kitaip.
+4. Valdymo įmonėms Lietuvos Respublikos akcinių bendrovių įstatymo ir Lietuvos Respublikos juridinių asmenų nemokumo įstatymo nuostatos taikomos tiek, kiek šis įstatymas nenustato kitaip.
 
 
 
 
-5. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+5. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
-
-
 
 
 
@@ -79,6 +79,30 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 2. Dukterinė įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme (toliau – Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymas).
+
+
+
+
+21. Europos asmeninės pensijos produktas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 2 straipsnio 2 dalyje.
+Papildyta straipsnio dalimi:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
+
+
+
+
+22. Europos asmeninės pensijos produkto platintojas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 2 straipsnio 16 dalyje.
+Papildyta straipsnio dalimi:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
+
+
+
+
+23. Europos asmeninės pensijos produkto teikėjas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 2 straipsnio 15 dalyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
@@ -222,7 +246,10 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
-2) jų valdytojas yra licencijuotas pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010 (OL 2011 L 174, p. 1) (su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES (OL 2014 L 173, p. 349), įskaitant subjektų valdytojus, veikiančius pagal 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1) ar 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentą (ES) 2015/760 dėl Europos ilgalaikių investicijų fondų (OL 2015 L 123, p. 98). 
+2) jų valdytojas yra licencijuotas pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010 (su visais pakeitimais), įskaitant subjektų valdytojus, veikiančius pagal 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (su visais pakeitimais) ar 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentą (ES) 2015/760 dėl Europos ilgalaikių investicijų fondų.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -282,7 +309,10 @@ Nr. XIII-2855, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08969
 
 
 
-4. Šio straipsnio 1 ir 2 dalyse nurodytos valdymo įmonės taip pat turi teisę valdyti Lietuvos Respublikos pensijų kaupimo įstatyme (toliau – Pensijų kaupimo įstatymas) nustatytus valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondus, jeigu jos atitinka Pensijų kaupimo įstatymo nustatytus reikalavimus.
+4. Šio straipsnio 1 ir 2 dalyse nurodytos valdymo įmonės taip pat turi teisę valdyti Pensijų kaupimo įstatyme nustatytus tikslinių pensijų fondų dalyvių grupių pensijų fondus ir pensijų turto išsaugojimo pensijų fondus, jeigu jos atitinka Pensijų kaupimo įstatymo nustatytus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
@@ -536,7 +566,10 @@ Priežiūros institucija turi teisę nustatyti:
 
 
 
-10) pensijų fondų taisyklių tvirtinimo tvarką;
+10) pensijų fondų taisyklių tvirtinimo ir jų keitimo suderinimo tvarką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
@@ -864,6 +897,14 @@ Valdymo įmonės akcijų paketo įsigijimui ir perleidimui mutatis mutandis taik
 
 
 
+81. Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų darbuotojai, teikiantys konsultacijas dėl Europos asmeninės pensijos produkto, turi turėti žinių ir gebėjimų, susijusių su šiuo produktu, kad galėtų paaiškinti pagrindines produkto savybes ir riziką bei kitą informaciją, įskaitant informaciją, susijusią su šio produkto kaina ir investuotojo faktiškai patiriamais mokesčiais ir mokėjimais. Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai turi užtikrinti, kad jų darbuotojai šias žinias nuolat atnaujintų. Priežiūros institucija detalizuoja kriterijus, kuriais remiantis įvertinamos Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų darbuotojų žinios ir gebėjimai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
+
+
+
+
 9. Asmenys, rengiantys ir (ar) platinantys viešam platinimui ar visuomenei skirtus tyrimus apie pensijų kaupimą pensijų fonduose ar kitą informaciją, kurioje rekomenduojama ar siūloma pasirinkti pensijų fondą, priežiūros institucijos nustatyta tvarka turi užtikrinti, kad tokia informacija būtų neklaidinanti, pateikiama išsamiai ir teisingai, viešai atskleisti savo interesus ir nurodyti interesų konfliktus, susijusius su pensijų fondais ir (ar) jų valdytojais, su kuriais susijusi ta informacija.
 
 
@@ -875,6 +916,13 @@ Valdymo įmonės akcijų paketo įsigijimui ir perleidimui mutatis mutandis taik
 
 
 11. Priežiūros institucija turi uždrausti skelbti pastebėtą neteisingą, klaidinančią ar neaiškią reklamą ir įpareigoti paneigti, patikslinti ar papildyti jau paskelbtą tokią reklamą.
+
+
+
+
+12. Šio straipsnio 3 ir 4 dalių nuostatos mutatis mutandis taikomos ir Europos asmeninės pensijos produkto teikėjams.
+Papildyta straipsnio dalimi:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
@@ -1149,12 +1197,18 @@ pensijų fondas ir jo dalyviai
 
 
 
-6. Valdymo įmonė privalo raštu arba elektroniniu paštu pranešti kiekvienam jos valdomo pensijų fondo dalyviui apie atitinkamus pensijų fondo taisyklių pakeitimus ne vėliau kaip prieš 20 dienų iki pakeitimų įsigaliojimo. Pranešimo būdą turi teisę pasirinkti pats dalyvis. Pensijų fondo taisyklių pakeitimai įsigalioja praėjus 30 dienų nuo jų patvirtinimo priežiūros institucijoje.
+6. Valdymo įmonė privalo raštu popieriuje ar kitoje patvariojoje laikmenoje arba elektroniniu būdu elektroninių ryšių priemonėmis pranešti kiekvienam jos valdomo pensijų fondo dalyviui apie atitinkamus pensijų fondo taisyklių pakeitimus ne vėliau kaip prieš 20 dienų iki pakeitimų įsigaliojimo. Pranešimo būdą turi teisę pasirinkti pats dalyvis. Pensijų fondo taisyklių pakeitimai įsigalioja praėjus 30 dienų nuo jų suderinimo su priežiūros institucija dienos. Šioje dalyje nustatyti reikalavimai netaikomi pensijų fondų taisyklėse pateiktos informacijos atnaujinimui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
 
-7. Pensijų fondo taisyklėse esančios informacijos atnaujinimui nėra taikomi šio straipsnio 5 ir 6 dalyse nustatyti reikalavimai gauti priežiūros institucijos patvirtinimą ir raštu pranešti dalyviams apie taisyklių pakeitimus, tačiau valdymo įmonė turi nedelsdama, ne vėliau kaip per 5 darbo dienas nuo taisyklėse esančios informacijos atnaujinimo pateikti priežiūros institucijai atnaujintas pensijų fondo taisykles. Atvejus, kurie yra laikomi pensijų fondo taisyklėse pateiktos informacijos atnaujinimu, nustato priežiūros institucija.
+7. Valdymo įmonė turi nedelsdama, ne vėliau kaip per 5 darbo dienas nuo valdymo įmonės valdybos sprendimo dėl pensijų fondų taisyklėse esančios informacijos atnaujinimo, pateikti priežiūros institucijai valdymo įmonės valdybos sprendimą dėl pensijų fondo taisyklių atnaujinimo, atnaujintas pensijų fondo taisykles ir nurodyti atliktus taisyklių atnaujinimus. Atvejus, kurie yra laikomi pensijų fondo taisyklėse pateiktos informacijos atnaujinimu, nustato priežiūros institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
@@ -1565,7 +1619,10 @@ Dalyviu tampama įsigaliojus pensijų kaupimo sutarčiai.
 
 
 
-2. Draudžiama jungti papildomo savanoriško pensijų kaupimo fondą (fondus) su valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondu (fondais).
+2. Draudžiama jungti papildomo savanoriško pensijų kaupimo fondą (fondus) su tikslinių pensijų fondų dalyvių grupių pensijų fondu (fondais) ir (ar) pensijų turto išsaugojimo pensijų fondu (fondais).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
@@ -1895,6 +1952,13 @@ Nr. XII-1113, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13422
 
 
 5. Iš pensijų sąskaitos negali būti daromos jokios šiame įstatyme nenumatytos išmokos.
+
+
+
+
+6. Šio straipsnio 1–5 dalys mutatis mutandis taikomos ir Europos asmeninės pensijos produkto teikėjams.
+Papildyta straipsnio dalimi:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
@@ -1931,6 +1995,13 @@ Nr. XII-1113, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13422
 
 
 3. Pensijų išmokų mokėjimo būdą pasirenka dalyvis. Valdymo įmonė turi ne vėliau negu prieš sudarant pensijų išmokos sutartį pranešti dalyviui apie būtinybę pasirinkti pensijų išmokos mokėjimo būdą.
+
+
+
+
+4. Šis straipsnis mutatis mutandis taikomas ir Europos asmeninės pensijos produkto teikėjams.
+Papildyta straipsnio dalimi:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
@@ -2022,14 +2093,15 @@ Pensijų turtas privalo būti saugomas viename depozitoriume.
 
 
 
-41 straipsnis. Depozitoriumo teisės ir pareigos
+41 straipsnis. Depozitoriumo teisės ir pareigos 
 
 
-Depozitoriumo teisės, pareigos ir depozitoriumui taikomi reikalavimai nustatyti Kolektyvinio investavimo subjektų įstatyme ir 2015 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2016/438, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl depozitoriumų pareigų (OL 2016 L 78, p. 11) (toliau – Reglamentas (ES) 2016/438), jeigu šis įstatymas nenustato kitaip. 
+Depozitoriumo teisės, pareigos ir depozitoriumui taikomi reikalavimai nustatyti Kolektyvinio investavimo subjektų įstatyme ir 2015 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2016/438, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl depozitoriumų pareigų (su visais pakeitimais), jeigu šis įstatymas nenustato kitaip.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
@@ -2405,9 +2477,10 @@ Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
 1. Leidžiama investuoti į investicinius vienetus ir akcijas tik tokių kolektyvinio investavimo subjektų, kurie atitinka šias sąlygas:
 
 
-1) yra licencijuoti valstybėje narėje arba Ekonominio bendradarbiavimo ir plėtros organizacijos narėje ar tokioje valstybėje, kurioje priežiūra yra ne mažiau griežta, negu numatyta pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvoje 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo (OL 2009 L 302, p. 32) (su paskutiniais pakeitimais, padarytais 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/91/ES (OL 2014 L 257, p. 186) (toliau – Direktyva 2009/65/EB) nustatytas taisykles, o priežiūros institucija bendradarbiauja su atitinkama užsienio priežiūros institucija. Tuo atveju, kai valstybė, kurioje kolektyvinio investavimo subjektas yra licencijuotas, nėra valstybė narė arba Ekonominio bendradarbiavimo ir plėtros organizacijos narė, būtinas priežiūros institucijos ir tokios valstybės atitinkamos priežiūros institucijos bendradarbiavimas dvišalių ar daugiašalių susitarimų, paskelbtų priežiūros institucijos interneto svetainėje, pagrindais; 
+1) yra licencijuoti valstybėje narėje arba Ekonominio bendradarbiavimo ir plėtros organizacijos narėje ar tokioje valstybėje, kurioje priežiūra yra ne mažiau griežta, negu numatyta pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvoje 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo (su visais pakeitimais) nustatytas taisykles, o priežiūros institucija bendradarbiauja su atitinkama užsienio priežiūros institucija. Tuo atveju, kai valstybė, kurioje kolektyvinio investavimo subjektas yra licencijuotas, nėra valstybė narė arba Ekonominio bendradarbiavimo ir plėtros organizacijos narė, būtinas priežiūros institucijos ir tokios valstybės atitinkamos priežiūros institucijos bendradarbiavimas dvišalių ar daugiašalių susitarimų, paskelbtų priežiūros institucijos interneto svetainėje, pagrindais;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
@@ -2710,22 +2783,23 @@ VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
 56 straipsnis. Priežiūros institucija
 
 
-1. Valdymo įmonių ir depozitoriumų veiklą prižiūri priežiūros institucija.
+1. Valdymo įmonių, depozitoriumų, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklą prižiūri priežiūros institucija.
 
 
 
 
-2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi Lietuvos banko įstatymu, Kolektyvinio investavimo subjektų įstatymu, šiuo įstatymu ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. 
+2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi Lietuvos banko įstatymu, Kolektyvinio investavimo subjektų įstatymu, šiuo įstatymu, Reglamentu (ES) 2019/1238 ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
 
 
-57 straipsnis. Priežiūros institucijos funkcijos prižiūrint valdymo įmonių ir depozitoriumų veiklą
+57 straipsnis. Priežiūros institucijos funkcijos prižiūrint valdymo įmonių, depozitoriumų, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklą
 
 
 Priežiūros institucija atlieka šias funkcijas:
@@ -2736,36 +2810,29 @@ Priežiūros institucija atlieka šias funkcijas:
 
 
 
-2) tvirtina pensijų fondų taisykles ir jų pakeitimus, pripažįsta pensijų fondų taisykles netekusiomis galios;
+2) tvirtina pensijų fondų taisykles, derina jų pakeitimus, pripažįsta pensijų fondų taisykles netekusiomis galios;
 
 
 
 
-3) stebi, analizuoja, tikrina ir kitaip prižiūri valdymo įmonių ir depozitoriumų veiklą;
+3) stebi, analizuoja, tikrina ir kitaip prižiūri valdymo įmonių, depozitoriumų, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklą;
 
 
 
 
-4) atlieka Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas; 
-Papildyta straipsnio punktu:
-Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
-Straipsnio punkto pakeitimai:
-Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
- 
+4) atlieka Reglamente (ES) 2019/1238, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas;
 
 
 
 
-5) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas. 
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
- 
+5) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
@@ -2797,7 +2864,9 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
-3. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus arba valdymo įmonės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) pensijų kaupimo dalyvių interesams, Lietuvos banko įstatymo nustatyta tvarka valdymo įmonei duoda šiuos privalomus nurodymus: 
+3. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus arba valdymo įmonės, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) pensijų kaupimo dalyvių interesams, Lietuvos banko įstatymo nustatyta tvarka valdymo įmonei, Europos asmeninės pensijos produkto teikėjui ir Europos asmeninės pensijos produkto platintojui duoda šiuos privalomus nurodymus:  
+Straipsnio dalies pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 1) apriboti teisę pensijų fondo sąskaita sudaryti sandorius dėl finansinių priemonių įsigijimo;
@@ -2852,7 +2921,10 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
-6. Valdymo įmonės privalo vykdyti šio straipsnio 3 ir 5 dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. 
+6. Valdymo įmonės privalo vykdyti šio straipsnio 3 ir 5 dalyse nustatytus, o Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai – šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 Straipsnio pakeitimai:
@@ -2883,7 +2955,10 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
-4) laikinai, kol yra pagrindas, sustabdo (apriboja) valdymo įmonės akcininko balsavimo teisę;
+4) laikinai, kol yra pagrindas, sustabdo (apriboja) valdymo įmonės, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų akcininko balsavimo teisę;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
@@ -2893,7 +2968,10 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
-6) įpareigoja pakeisti valdymo įmonės vadovą ir (arba) sprendimus dėl turto valdymo priimantį asmenį;
+6) įpareigoja pakeisti valdymo įmonės, Europos asmeninės pensijos produkto teikėjo ir Europos asmeninės pensijos produkto platintojo vadovą ir (arba) sprendimus dėl turto valdymo priimantį asmenį;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
@@ -2956,9 +3034,10 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
-7) pažeidžiami Reglamente (ES) Nr. 1286/2014, Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai;
+7) pažeidžiami Reglamente (ES) Nr. 1286/2014, Reglamente (ES) 2019/1238, Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir 7 straipsniuose nustatyti reikalavimai;
 Straipsnio punkto pakeitimai:
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
@@ -3067,6 +3146,14 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
 
 
+21. Už Reglamento (ES) 2019/1238 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) 2019/1238 67 straipsnyje.
+Papildyta straipsnio dalimi:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
+
+
+
+
 3. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. 
 
 
@@ -3120,6 +3207,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
+ 
 Lietuvos Respublikos 
 papildomo savanoriško 
 pensijų kaupimo įstatymo
@@ -3134,14 +3224,27 @@ priedas
 
 
 
-2. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
+2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1238 dėl visos Europos asmeninės pensijos produkto (PEPP). 
+Papildyta punktu:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
 
 
 
 
-3. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. 
+3. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852.
+Punkto numeracijos pakeitimas:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+ 
+
+
+
+
+4. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. 
 Papildyta punktu:
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
+Punkto numeracijos pakeitimas:
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
  
 
 
@@ -3149,8 +3252,7 @@ Priedo pakeitimai:
 Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
  
-
-
+part_57d8c79fb3574545b59ae65e48af70ef_end
 
 
 Pakeitimai:
@@ -3268,3 +3370,8 @@ Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1036, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08783
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, 60 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-1237 20 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 3, 8, 14, 21, 32, 35, 36, 41, 49, 56, 57, 58, 58-1, 58-2, 59 straipsnių ir priedo pakeitimo įstatymas
