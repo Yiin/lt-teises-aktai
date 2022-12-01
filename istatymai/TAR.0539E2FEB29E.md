@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2022-07-08 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 82-1965, i. k. 0961010ISTA00I-1495
  
@@ -52,6 +52,13 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šiuo įstatymu siekiama suderinti planuojamos ūkinės veiklos poveikio aplinkai vertinimo proceso reglamentavimą su Europos Sąjungos teisės aktais, nurodytais šio įstatymo 3 priede.
+
+
+
+
+3. Šio įstatymo nuostatos netaikomos karinės infrastruktūros, nurodytos Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte nurodytame sąraše, statybai, šioje karinėje infrastruktūroje ir teritorijose, kurioms Lietuvos Respublikos žemės įstatymo nustatyta tvarka rengiami karinės infrastruktūros projektai, planuojamai ūkinei veiklai, kurių vienintelis tikslas – valstybės gynyba ir kurių planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo ar poveikio aplinkai vertinimo procedūrų atlikimas darys neigiamą poveikį valstybės gynybos tikslams.
+Papildyta straipsnio dalimi:
+Nr. XIV-1535, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24181
  
 
 
@@ -2194,6 +2201,11 @@ Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1172, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14910
 Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 10, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1535, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24181
+Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 1 straipsnio pakeitimo įstatymas
  
  
 
