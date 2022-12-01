@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3DF892F52616"
 
 # Lietuvos Respublikos vertybinių popierių įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-626, i. k. 1071010ISTA00X-1023
  
@@ -703,7 +703,7 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 15 straipsnis. Pareiga pateikti pranešimą apie akcijų paketo įsigijimą ar jo netekimą
 
 
-1. Asmuo, pasiekęs arba viršijęs  5, 10, 15, 20, 25, 30, 50, 75 ir 95 procentų balsų ribą, privalo nedelsdamas, ne vėliau kaip per 4 prekybos dienas, pateikti pranešimą priežiūros institucijai ir emitentui apie turimų balsų kiekį. Šią pareigą asmuo turi ir tuo atveju, kai šioje dalyje nurodytos balsų ribos peržengiamos mažėjimo tvarka, perleidžiant balsus.
+1. Asmuo, pasiekęs arba viršijęs  5, 10, 15, 20, 25, 30, 50, 75 ir 95 procentų balsų ribą, privalo nedelsdamas, ne vėliau kaip per 4 prekybos dienas, pateikti pranešimą priežiūros institucijai ir emitentui apie turimų balsų kiekį. Šią pareigą asmuo turi ir tuo atveju, kai šioje dalyje nurodytos balsų ribos peržengiamos mažėjimo tvarka, perleidžiant balsus.
 
 
 
@@ -1330,7 +1330,10 @@ Taikant šiame skyriuje nustatytus reikalavimus, turi būti vadovaujamasi šiais
 
 
 
-8) balsų riba peržengiama taikant Lietuvos Respublikos finansinio tvarumo įstatymą.
+8) balsų riba peržengiama taikant Lietuvos Respublikos finansinio tvarumo įstatymą arba 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentą (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1456, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22567
+ 
 
 
 
@@ -2202,8 +2205,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 vertybinių popierių įstatymo
@@ -2218,7 +2219,10 @@ priedas
 
 
 
-2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/25/EB dėl įmonių perėmimo pasiūlymų su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES. 
+2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/25/EB dėl įmonių perėmimo pasiūlymų su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/23.
+Punkto pakeitimai:
+Nr. XIV-1456, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22567
+ 
 
 
 
@@ -2254,7 +2258,8 @@ priedas
 Priedo pakeitimai:
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
  
-part_d4e44b7a07f74bd0a1d72ae5b3155cd9_end
+
+
 
 
  
@@ -2361,3 +2366,8 @@ Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 4, 12, 15, 22 straipsnių ir priedo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1456, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22567
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 27 straipsnio ir priedo pakeitimo įstatymas
