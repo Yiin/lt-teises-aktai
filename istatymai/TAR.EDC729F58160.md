@@ -21,7 +21,7 @@ ATSAKOMYBĖS BENDROVIŲ JUNGIMOSI ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-12-03 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2023-08-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5747, i. k. 1071010ISTA00X-1367
  
@@ -56,6 +56,14 @@ Nr. XI-2126, 2012-06-26, Žin., 2012, Nr. 77-3981 (2012-07-01), i. k. 1121010IST
 4. Šio įstatymo nuostatos netaikomos Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams, kuriems taikomos Finansinio tvarumo įstatymo III skyriaus nuostatos. 
 Papildyta straipsnio dalimi:
 Nr. XII-2063, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19175
+ 
+
+
+
+
+41. Šio įstatymo nuostatos netaikomos Finansinio tvarumo įstatymo 1 straipsnio 21 dalyje nurodytiems subjektams, kuriems taikomos 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132, V antraštinės dalies nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1460, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22571
  
 
 
@@ -611,3 +619,8 @@ Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybė
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2063, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19175
 Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo Nr. X-1367 1 straipsnio ir priedo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1460, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22571
+Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo Nr. X-1367 1 straipsnio pakeitimo įstatymas
