@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/68f2cad098b711e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos juridinių asmenų nemokumo įstatymas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-11-30
+Suvestinė redakcija nuo 2022-12-01 iki 2024-07-31
  
 Įstatymas paskelbtas: TAR 2019-06-27, i. k. 2019-10324
  
@@ -53,9 +53,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Šio įstatymo nuostatos, reguliuojančios juridinių asmenų restruktūrizavimo procesą, netaikomos kredito įstaigoms, mokėjimo įstaigoms, elektroninių pinigų įstaigoms, draudimo ir perdraudimo įmonėms, valdymo įmonėms, investicinėms bendrovėms, centriniam vertybinių popierių depozitoriumui, vertybinių popierių viešosios apyvartos tarpininkams ir kitiems Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams.
+4. Šio įstatymo nuostatos, reguliuojančios juridinių asmenų restruktūrizavimo procesą, netaikomos kredito įstaigoms, mokėjimo įstaigoms, elektroninių pinigų įstaigoms, draudimo ir perdraudimo įmonėms, valdymo įmonėms, investicinėms bendrovėms, centriniam vertybinių popierių depozitoriumui, vertybinių popierių viešosios apyvartos tarpininkams, pagrindinėms sandorio šalims, kaip jos apibrėžtos 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (su visais pakeitimais) 2 straipsnio 1 punkte, ir kitiems Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodytiems subjektams.
 Straipsnio dalies pakeitimai:
 Nr. XIV-450, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15468
+Nr. XIV-1457, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22568
  
 
 
@@ -7726,4 +7727,9 @@ Lietuvos Respublikos juridinių asmenų nemokumo įstatymo Nr. XIII-2221 1, 2, 4
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1344, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15418
+Lietuvos Respublikos juridinių asmenų nemokumo įstatymo Nr. XIII-2221 1 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1457, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22568
 Lietuvos Respublikos juridinių asmenų nemokumo įstatymo Nr. XIII-2221 1 straipsnio pakeitimo įstatymas
