@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6d2af7605d9711eca9ac839120d251c4"
 
 # Lietuvos Respublikos gėlo požeminio vandens gavybos gręžinių įteisinimo laikinasis įstatymas
 
+Suvestinė redakcija nuo 2022-12-09 iki 2022-12-31
+ 
+Įstatymas paskelbtas: TAR 2021-12-15, i. k. 2021-25848
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 GĖLO POŽEMINIO VANDENS GAVYBOS GRĘŽINIŲ ĮTEISINIMO LAIKINASIS
 ĮSTATYMAS
@@ -24,6 +31,7 @@ Vilnius
 
  
 
+ 
  
 
 1 straipsnis. Įstatymo paskirtis
@@ -48,7 +56,10 @@ Vilnius
 
 3 straipsnis. Žemės gelmių registre neregistruoto gręžinio registravimas ir likvidavimas 
 
-1. Asmuo, norintis įregistruoti Žemės gelmių registre jam nuosavybės ar patikėjimo teise priklausantį arba jo valdomą ir (arba) naudojamą Žemės gelmių registre neregistruotą gręžinį, turi gauti savivaldybės, kurios teritorijoje planuojama naudoti anksčiau įrengtą gręžinį, vykdomosios institucijos pritarimą. Jis savivaldybės vykdomajai institucijai teikia paraišką dėl savivaldybės pritarimo naudoti gręžinį Lietuvos Respublikos aplinkos ministro nustatyta tvarka. Savivaldybės vykdomoji institucija, atsižvelgdama į geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planus arba į savivaldybės ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumentą, pateikia pagrįstą nuomonę dėl pritarimo ar nepritarimo naudoti gręžinį. Savivaldybės vykdomoji institucija nepritaria gręžinio naudojimui tik tokiu atveju, kai gręžinys yra viešojo vandens tiekimo teritorijoje, kurioje įrengta ar įrengiama geriamojo vandens tiekimo infrastruktūra vadovaujantis Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 16 straipsnio 13 dalimi. 
+1. Asmuo, norintis įregistruoti Žemės gelmių registre jam nuosavybės ar patikėjimo teise priklausantį arba jo valdomą ir (arba) naudojamą Žemės gelmių registre neregistruotą gręžinį, turi gauti savivaldybės, kurios teritorijoje planuojama naudoti anksčiau įrengtą gręžinį, vykdomosios institucijos pritarimą. Jis savivaldybės vykdomajai institucijai teikia paraišką dėl savivaldybės pritarimo naudoti gręžinį aplinkos ministro nustatyta tvarka. Savivaldybės vykdomoji institucija, atsižvelgdama į geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūros plėtros planus arba į savivaldybės ir (ar) vietovės lygmens kompleksinio teritorijų planavimo dokumentą, pateikia pagrįstą nuomonę dėl pritarimo ar nepritarimo naudoti gręžinį. Savivaldybės vykdomoji institucija nepritaria gręžinio naudojimui tik tokiu atveju, kai gręžinys yra viešojo vandens tiekimo teritorijoje, kurioje įrengta ar įrengiama geriamojo vandens tiekimo infrastruktūra vadovaujantis Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 16 straipsnio 19 dalimi, išskyrus atvejus, kai asmuo, pateikęs paraišką dėl savivaldybės pritarimo naudoti gręžinį, yra sudaręs viešąją geriamojo vandens tiekimo sutartį dėl geriamojo vandens tiekimo paslaugų gavimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1613, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25038
+ 
 
 2. Asmuo, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre neregistruotas gręžinys arba kuris valdo ir (arba) naudoja tokį gręžinį, gavęs savivaldybės vykdomosios institucijos pritarimą naudoti gręžinį, turi kreiptis į fizinį ar juridinį asmenį ar šių asmenų grupę, veikiančią pagal jungtinės veiklos sutartį, turinčius leidimą tirti žemės gelmes, suteikiantį teisę atlikti požeminio vandens paiešką ir žvalgybą, kad būtų atlikti aplinkos ministro nustatytame tvarkos apraše nurodyti veiksmai, būtini gręžiniui registruoti Žemės gelmių registre, ir parengtas Lietuvos geologijos tarnybos prie Aplinkos ministerijos nustatytos formos gręžinio pasas. 
 
@@ -114,5 +125,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
-part_ba37c9f18d574becb1e5a8fb39e0b48a_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1613, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25038
+Lietuvos Respublikos gėlo požeminio vandens gavybos gręžinių įteisinimo laikinojo įstatymo Nr. XIV-730 3 straipsnio pakeitimo įstatymas
+ 
+ 
+part_5fe7b27870a1433cb81f9f24da85d334_end
 
