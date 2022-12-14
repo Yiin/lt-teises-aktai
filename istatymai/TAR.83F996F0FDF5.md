@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/83f996f0fdf511ec8fa7d02a65c371ad"
 
 # Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 10, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2022-12-14
+ 
+Įstatymas paskelbtas: TAR 2022-07-07, i. k. 2022-14910
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PLANUOJAMOS ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO NR. I-1495 2, 3, 10, 11 STRAIPSNIų IR 1, 2 PRIEDŲ PAKEITIMO
 ĮSTATYMAS
@@ -238,6 +245,13 @@ Pakeisti Įstatymo 2 priedo 3.8 papunktį ir jį išdėstyti taip:
 
 
 3. Planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo procedūros, pradėtos iki šio įstatymo įsigaliojimo dienos, baigiamos pagal iki šio įstatymo įsigaliojimo dienos galiojusias Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas.
+
+
+
+
+4. Planuojant vėjo elektrinių, dėl kurių iki šio įstatymo įsigaliojimo dienos Lietuvos Respublikos elektros energetikos įstatyme nustatyta tvarka pasirašytas elektros įrenginių prijungimo prie elektros tinklų ketinimų protokolas, statybą ir jų statybai išduodant statybą leidžiantį dokumentą, taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1624, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25401
  
 
 
@@ -252,4 +266,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1624, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25401
+Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 10, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymo Nr. XIV-1172 7 straipsnio pakeitimo įstatymas
+ 
+ 
 part_121998c2f5d6473b848618f5c8e8d097_end
