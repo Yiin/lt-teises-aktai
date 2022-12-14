@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2022-07-08 iki 2022-12-13
+Suvestinė redakcija nuo 2022-12-14 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -8051,6 +8051,14 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
+21. Šio įstatymo III skyriaus septintasis skirsnis įsigalioja 2023 m. rugpjūčio 1 d.
+Papildyta straipsnio dalimi:
+Nr. XIV-1625, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25402
+ 
+
+
+
+
 3. Šio įstatymo 143 straipsnis įsigalioja 2025 m. sausio 1 d.
 
 
@@ -8644,7 +8652,8 @@ Respublikos Prezidentė                            �
  
 
  
-part_d83237996329494486d1c04dfbbb0a0e_end
+ 
+part_c3bfd837094d450abb9cba72d0396d31_end
 part_1f58dedaf4fc46b7b2cd42537b54ea02_end
 
 
@@ -8912,6 +8921,7 @@ Pastabos:
 
  
 
+ 
 Lietuvos Respublikos specialiųjų žemės
 naudojimo sąlygų įstatymo
 2 priedas
@@ -9450,6 +9460,7 @@ part_06b2b85e6f84416d9942193e30bd5b7d_end
 
  
 
+ 
 Lietuvos Respublikos specialiųjų
 žemės naudojimo sąlygų įstatymo
 3 priedas
@@ -9598,6 +9609,7 @@ Komunalinių objektų sanitarinės apsaugos zonų dydIS
  
 
  
+ 
 part_981f5a128ff640a2a4ed74fab4d7e972_end
 part_eb97384c32d141d580f2ff42063907e7_end
 
@@ -9697,3 +9709,8 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 50, 69, 84, 86 straipsnių ir 2 priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1625, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25402
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 140 ir 141 straipsnių pakeitimo įstatymas
