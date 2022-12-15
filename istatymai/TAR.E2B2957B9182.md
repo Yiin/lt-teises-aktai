@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-14
+Suvestinė redakcija nuo 2022-12-15 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -2178,7 +2178,40 @@ PRIEŽIŪRA IR JOS TEIKIMO TVARKA
 
 
 
-5) užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, užsieniečių, gavusių laikinąją apsaugą Lietuvos Respublikoje, užsieniečių, kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 40 straipsnio 1 dalies 8 punkte nurodytu pagrindu suteiktas leidimas laikinai gyventi Lietuvos Respublikoje, nelegaliai Lietuvos Respublikos sieną kirtusių užsieniečių ir užsieniečių, gyvenančių užsienio šalyje, kurioje vyksta ginkluotas konfliktas, dėl kurio Lietuvos Respublikoje paskelbta nepaprastoji padėtis ar ekstremalioji situacija, ir pasitraukusių iš šios užsienio šalies į Lietuvos Respubliką, būtinoji medicinos pagalba ir būtinosios paslaugos;
+5) užsieniečių: 
+
+
+a) pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+
+
+b) kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, išskyrus apdraustuosius privalomuoju sveikatos draudimu, būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+
+
+c) kuriems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 40 straipsnio 1 dalies 8 punkte nurodytu pagrindu suteiktas leidimas laikinai gyventi Lietuvos Respublikoje, būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+
+
+d) nelegaliai kirtusių Lietuvos Respublikos sieną, būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+
+
+e) gyvenančių užsienio šalyje, kurioje vyksta ginkluotas konfliktas, dėl kurio Lietuvos Respublikoje paskelbta nepaprastoji padėtis ar ekstremalioji situacija, ir pasitraukusių iš šios užsienio šalies į Lietuvos Respubliką, būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+
+
+f) turinčių teisę gauti laikinąją apsaugą, iki sprendimo dėl laikinosios apsaugos suteikimo (nesuteikimo) priėmimo, tačiau ne ilgiau kaip laikinosios apsaugos laikotarpiu būtinoji medicinos pagalba ir būtinosios paslaugos;
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-1637, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25404
+ 
 
 
 
@@ -2282,9 +2315,10 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14)
 paslaugų teikimo LNSS įstaigose tvarka 
 
 
-1. Teisę gauti valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą, nurodytą šio įstatymo 47 straipsnio 2 dalies 1–3 ir 7–9 punktuose, turi tik Lietuvos Respublikos, kitų valstybių piliečiai ir asmenys be pilietybės, nuolat gyvenantys Lietuvoje (toliau – nuolatiniai gyventojai). Būtinoji medicinos pagalba ir būtinosios paslaugos LNSS įstaigose teikiamos nemokamai visiems nuolatiniams gyventojams, neatsižvelgiant į tai, ar jie apdrausti privalomuoju sveikatos draudimu, taip pat neatsižvelgiant į paciento apsilankymų įstaigoje per kalendorinius metus skaičių ir jo gyvenamąją vietą. Būtinųjų paslaugų teikimo tvarką nustato sveikatos apsaugos ministras. Užsienio šalių piliečiams, asmenims be pilietybės, nepriskiriamiems nuolatiniams gyventojams ir nenurodytiems šio įstatymo 47 straipsnio 2 dalies 4–6 punktuose, LNSS įstaigos teikia būtinąją medicinos pagalbą sveikatos apsaugos ministro nustatyta tvarka, jeigu kitaip nenustato Lietuvos Respublikos tarptautinės sutartys.
+1. Teisę gauti valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą, nurodytą šio įstatymo 47 straipsnio 2 dalies 1–3 ir 9 punktuose, turi tik Lietuvos Respublikos, kitų valstybių piliečiai ir asmenys be pilietybės, nuolat gyvenantys Lietuvoje (toliau – nuolatiniai gyventojai), o valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą, nurodytą šio įstatymo 47 straipsnio 2 dalies 7 ir 8 punktuose, – asmenys, nurodyti Sveikatos draudimo įstatyme. Būtinoji medicinos pagalba ir būtinosios paslaugos LNSS įstaigose teikiamos nemokamai visiems nuolatiniams gyventojams, neatsižvelgiant į tai, ar jie apdrausti privalomuoju sveikatos draudimu, taip pat neatsižvelgiant į paciento apsilankymų įstaigoje per kalendorinius metus skaičių ir jo gyvenamąją vietą. Būtinųjų paslaugų teikimo tvarką nustato sveikatos apsaugos ministras. Užsienio šalių piliečiams, asmenims be pilietybės, nepriskiriamiems nuolatiniams gyventojams ir nenurodytiems šio įstatymo 47 straipsnio 2 dalies 4–6 punktuose, LNSS įstaigos teikia būtinąją medicinos pagalbą sveikatos apsaugos ministro nustatyta tvarka, jeigu kitaip nenustato Lietuvos Respublikos tarptautinės sutartys.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1043, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08798
+Nr. XIV-1637, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25404
  
 
 
@@ -5756,3 +5790,23 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 I dalies III skyriau
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1060, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09669
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymo Nr. XIII-2754 5, 10 ir 14 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1212, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15577
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 77 straipsnio pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1113, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11874
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 straipsnio pakeitimo ir Įstatymo papildymo 19-1 straipsniu įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1279, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15197
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 straipsnio pakeitimo ir Įstatymo papildymo 12-1 ir 51-1 straipsniais įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1637, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25404
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 47 ir 49 straipsnių pakeitimo įstatymas
