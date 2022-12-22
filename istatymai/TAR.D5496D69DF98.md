@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-12-21
+Suvestinė redakcija nuo 2022-12-22 iki 2022-12-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -1845,40 +1845,40 @@ Nr. XIII-3285, 2020-09-17, paskelbta TAR 2020-09-18, i. k. 2020-19503
 
 
 
-231 straipsnis. Valstybės ir savivaldybių valdomos bendrovės bei dukterinės bendrovės visuotinio akcininkų susirinkimo renkamo kolegialaus priežiūros ar valdymo organo sudarymas
+231 straipsnis. Valstybės ir (ar) savivaldybės valdomos bendrovės bei dukterinės bendrovės visuotinio akcininkų susirinkimo renkamo kolegialaus priežiūros ar valdymo organo sudarymas
 
 
-1. Valstybės ir savivaldybių valdomos bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe turi būti:
+1. Valstybės ir (ar) savivaldybės valdomos bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe turi būti:
 
 
-1) bent vienas valstybės tarnautojas, atitinkantis šio straipsnio 5 ir 6 dalyse nustatytus bendruosius ir specialiuosius reikalavimus; 
-
-
-
-
-2) fiziniai asmenys (ne mažiau kaip 1/2 valstybės ar savivaldybės valdomos bendrovės įstatuose nurodyto kolegialaus organo narių skaičiaus), atitinkantys šio straipsnio 5, 6 ir 7 dalyse nurodytus bendruosius, specialiuosius ir nepriklausomumo reikalavimus (toliau – kolegialaus organo nepriklausomi nariai). 
+1) bent vienas valstybės tarnautojas, atitinkantis šio straipsnio 5 ir 6 dalyse nustatytus bendruosius ir specialiuosius reikalavimus;
 
 
 
 
-
-
-2. Valstybės ir savivaldybių valdomos bendrovės dukterinės bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe kolegialaus organo nepriklausomų narių turi būti ne mažiau kaip 1/3 valstybės ar savivaldybės valdomos bendrovės įstatuose nurodyto kolegialaus organo narių skaičiaus.
-
-
-
-
-3. Valstybės ir savivaldybių valdomos bendrovės ar jos dukterinės bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe gali būti ir kitų, negu šio straipsnio 1 dalyje nurodytų, atranką inicijuojančio subjekto pasirinktų asmenų, atitinkančių šio straipsnio 5 ir 6 dalyse nurodytus bendruosius ir specialiuosius reikalavimus ir šio straipsnio 7 dalies 3–6 punktuose nurodytus nepriklausomumo reikalavimus.
+2) fiziniai asmenys (ne mažiau kaip 1/2 valstybės ir (ar) savivaldybės valdomos bendrovės įstatuose nurodyto kolegialaus organo narių skaičiaus), atitinkantys šio straipsnio 5, 6 ir 7 dalyse nurodytus bendruosius, specialiuosius ir nepriklausomumo reikalavimus (toliau – kolegialaus organo nepriklausomi nariai).
 
 
 
 
-4. Valstybės ir savivaldybių valdomos bendrovės ar jos dukterinės bendrovės valdybos nariu gali būti skiriamas įmonės vadovas (išskyrus Akcinių bendrovių įstatymo 33 straipsnio 6 dalies 3 punkte nurodytą atvejį).
+
+
+2. Valstybės ir (ar) savivaldybės valdomos bendrovės dukterinės bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe kolegialaus organo nepriklausomų narių skaičius turi būti ne mažesnis kaip 1/3 valstybės ir (ar) savivaldybės valdomos bendrovės dukterinės bendrovės įstatuose nurodyto kolegialaus organo narių skaičiaus.
 
 
 
 
-5. Kandidatas į kolegialaus organo narius turi atitikti šiuos bendruosius reikalavimus:
+3. Valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe gali būti ir kitų, negu šio straipsnio 1 ir 4 dalyse nurodytų, atranką inicijuojančio subjekto pasirinktų asmenų, kurie yra šios valstybės ir (ar) savivaldybės valdomos bendrovės, jos dukterinės arba patronuojančios bendrovės darbuotojai ar vadovai, atitinkantys šio straipsnio 5 dalyje nurodytus bendruosius ir atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir šio straipsnio 7 dalies 3 ir 5 punktuose nurodytus nepriklausomumo reikalavimus, arba juridinio asmens, kurio dalyvės yra šioje dalyje nurodytos bendrovės, darbuotojai ar vadovai, atitinkantys šio straipsnio 5 dalyje nurodytus bendruosius ir atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir šio straipsnio 7 dalies 3 ir 5 punktuose nurodytus nepriklausomumo reikalavimus, taip pat tam tikros srities ekspertai, atitinkantys šio straipsnio 5 dalyje nurodytus bendruosius ir atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir šio straipsnio 7 dalies 3–5 punktuose nurodytus nepriklausomumo reikalavimus.
+
+
+
+
+4. Valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės valdybos nariu gali būti skiriamas įmonės vadovas (išskyrus Akcinių bendrovių įstatymo 33 straipsnio 6 dalies 3 punkte nurodytą atvejį).
+
+
+
+
+5. Kandidatas į valstybės ir (ar) savivaldybės valdomos bendrovės ir valstybės ir (ar) savivaldybės valdomos bendrovės dukterinės bendrovės kolegialaus organo narius ir kolegialaus organo narys turi atitikti šiuos bendruosius reikalavimus:
 
 
 1) turi turėti aukštąjį universitetinį ar jam prilygintą išsilavinimą;
@@ -1886,79 +1886,99 @@ Nr. XIII-3285, 2020-09-17, paskelbta TAR 2020-09-18, i. k. 2020-19503
 
 
 
-2) turi būti nesusijęs su kitais fiziniais ir juridiniais asmenimis ryšiais, dėl kurių einant kolegialaus organo nepriklausomo nario pareigas kiltų interesų konfliktas;
+2) turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu įstatymų nustatyta tvarka yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikalstamos veikos nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai padarymo ir turi neišnykusį ar nepanaikintą teistumą;
 
 
 
 
-3) jam turi būti neatimta ar neapribota teisė eiti atitinkamas pareigas, į kurias pretenduojama, ar atlikti toms pareigoms priskirtas funkcijas;
+3) turi būti nesusijęs su kitais fiziniais ir juridiniais asmenimis ryšiais, dėl kurių einant kolegialaus organo nario pareigas kiltų interesų konfliktas;
 
 
 
 
-4) per pastaruosius 5 metus turi nebūti atšauktas iš juridinio asmens vienasmenio ar kolegialaus organo dėl netinkamo pareigų atlikimo.
+4) jam neturi būti atimta ar apribota teisė eiti atitinkamas pareigas, į kurias pretenduojama, ar atlikti toms pareigoms priskirtas funkcijas;
 
 
 
 
-
-
-6. Specialiuosius reikalavimus kolegialaus organo nariui savo sprendimu nustato atranką inicijuojantis subjektas.
-
-
-
-
-7. Kandidatas į kolegialaus organo nepriklausomus narius turi atitikti šiuos nepriklausomumo reikalavimus:
-
-
-1) turi nebūti tos bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės ir su jomis susijusio juridinio asmens, kurio dalyvės, dalininkės ar steigėjos yra šiame punkte nurodytos bendrovės (toliau – susijęs juridinis asmuo), atranką inicijuojančio subjekto ar jam pavaldaus juridinio asmens valstybės tarnautojas ar darbuotojas ir paskutinius vienus metus turi būti nėjęs tokių pareigų;
+5) per pastaruosius 5 metus neturi būti atšauktas iš juridinio asmens vienasmenio ar kolegialaus organo dėl netinkamo pareigų atlikimo;
 
 
 
 
-2) turi nebūti tos bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės ar susijusio juridinio asmens, kurio dalyvės, dalininkės ar steigėjos yra šiame punkte nurodytos bendrovės (toliau – susiję juridiniai asmenys), kolegialaus organo narys, vadovas ar darbuotojas ir paskutinius vienus metus turi būti nėjęs tokių pareigų ir negavęs atlygio iš šių juridinių asmenų, išskyrus atlygį už kolegialaus organo ar komiteto nario pareigas;
+6) negali būti ministerijoje, Vyriausybės įstaigoje ar įstaigoje prie ministerijos einantis pareigas karjeros valstybės tarnautojas, kuriam pavestos su valstybės politikos formavimu toje ūkio sektoriaus šakoje, kurioje veikia įmonė, į kurios kolegialų organą kandidatuoja, susijusios funkcijos;
 
 
 
 
-3) paskutinius vienus metus turi nebūti bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės ar susijusio juridinio asmens dalyvis, šių juridinių asmenų dalyvių atstovas;
+7) negali būti įstatymų nustatyta tvarka išrinktas ar paskirtas valstybės politiku ir politinio (asmeninio) pasitikėjimo valstybės tarnautoju;
 
 
 
 
-4) turi nebūti bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės ar susijusio juridinio asmens dalyvio, vadovo ar kolegialių organų narių artimas asmuo – sutuoktinis, sugyventinis, partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka, taip pat jų tėvai (įtėviai), vaikai (įvaikiai), broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai ir jų sutuoktiniai, sugyventiniai ar partneriai;
-
-
-
-
-5) turi neturėti reikšmingų verslo ryšių su ta bendrove, į kurios kolegialų organą pretenduoja, jos dukterine arba patronuojančia bendrove ar su susijusiu juridiniu asmeniu nei tiesiogiai, nei kaip turinčio tokių ryšių juridinio asmens dalyvis ar vadovas. Turinčiu reikšmingų verslo ryšių laikomas fizinis ar juridinis asmuo, kurio pajamos iš įmonės, jos dalyvio ar susijusio juridinio asmens per paskutinius 12 mėnesių yra didesnės negu 1 000 eurų, išskyrus darbo užmokestį ar atlygį už kolegialaus organo ar komiteto nario pareigas;
-
-
-
-
-6) paskutinius 2 metus turi nebūti audito įmonės, kuri atlieka ar atliko tos bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės ar susijusio juridinio asmens auditą, partneris, dalyvis, vadovas, kolegialaus organo narys arba darbuotojas;
-
-
-
-
-7) turi nebūti tos bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės, kolegialaus organo narys ilgiau kaip 10 metų. Šis laikotarpis apskaičiuojamas prie būsimo kolegialaus organo nario pareigų ėjimo laikotarpio, kuriam kandidatas būtų skiriamas, pridedant praėjusius tos pačios įmonės kolegialaus organo nario pareigų ėjimo laikotarpius, tarp kurių yra ne didesnis kaip vienų metų laiko tarpas;
-
-
-
-
-8) turi nebūti daugiau negu keturių valstybės ar savivaldybių valdomų įmonių kolegialių organų narys.
+8) jeigu jis yra valstybės tarnautojas, jis negali būti iš viso daugiau kaip 2 kolegialių organų, sudarytų valstybės ir savivaldybės valdomose įmonėse, narys.
 
 
 
 
 
 
-8. Kandidatų į valstybės ar savivaldybės įmonės, valstybės ar savivaldybės valdomos bendrovės ar jos dukterinės bendrovės kolegialaus priežiūros ar valdymo organo nepriklausomo nario pareigas atranką inicijuojantis subjektas ar jo įgaliota perkančioji organizacija Viešųjų pirkimų įstatymo nustatyta tvarka įsigyja vadovų ar personalo paieškos (atrankos) paslaugas iš jas teikiančio fizinio arba juridinio asmens, kuris ieško kandidatų į kolegialių organų nepriklausomus narius, vertina jų atitiktį šiame straipsnyje nustatytiems reikalavimams ir teikia kandidatų sąrašus atrankos komisijai. Kandidatų į valstybės ar savivaldybės įmonės, valstybės ar savivaldybės valdomos bendrovės ar jos dukterinės bendrovės kolegialų priežiūros ar valdymo organą, kai kolegialaus organo narius skiria valstybei ar savivaldybei atstovaujanti institucija arba renka valstybės ar savivaldybės valdomos bendrovės ar jos dukterinės bendrovės visuotinis akcininkų susirinkimas, tvarką nustato Vyriausybė.
-TAR pastaba. 231 straipsnyje nustatyti reikalavimai taikomi po įstatymo Nr. XIII-3285 įsigaliojimo (2020-11-01) sudaromiems valstybės ir savivaldybių valdomų bendrovių ir jų dukterinių bendrovių visuotinio akcininkų susirinkimo renkamiems kolegialiems priežiūros ar valdymo organams. Iki šio įstatymo įsigaliojimo sudaryti tokie kolegialūs organai savo funkcijas atlieka iki kadencijos, kuriai jie buvo sudaryti, pabaigos arba iki bus sudaryti nauji atitinkami priežiūros ar valdymo organai.
+6. Specialiuosius reikalavimus valstybės ir (ar) savivaldybės valdomos bendrovės ir valstybės ir (ar) savivaldybės valdomos bendrovės dukterinės bendrovės kolegialaus organo nariui savo sprendimu nustato atranką inicijuojantis subjektas.
 
 
-Papildyta straipsniu:
-Nr. XIII-3285, 2020-09-17, paskelbta TAR 2020-09-18, i. k. 2020-19503
+
+
+7. Kandidatas į valstybės ir (ar) savivaldybės valdomos bendrovės ir valstybės ir (ar) savivaldybės valdomos bendrovės dukterinės bendrovės kolegialaus organo nepriklausomus narius ir kolegialaus organo nepriklausomas narys turi atitikti šiuos nepriklausomumo reikalavimus:
+
+
+1) ne trumpiau kaip vienus metus neturi būti bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės ir su jomis susijusio juridinio asmens, kurio dalyvės yra šiame punkte nurodytos bendrovės (toliau – susijęs juridinis asmuo), atranką inicijuojančio subjekto ar jam pavaldaus juridinio asmens valstybės tarnautojas ar darbuotojas;
+
+
+
+
+2) ne trumpiau kaip vienus metus neturi būti bendrovės, į kurios kolegialų organą pretenduoja, vadovu, kito kolegialaus organo nariu, darbuotoju ar akcininku, šios bendrovės dukterinės arba patronuojančios bendrovės ar susijusio juridinio asmens vadovu, kolegialaus organo nariu, darbuotoju ar akcininku;
+
+
+
+
+3) neturi būti bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės ar susijusio juridinio asmens akcininko, kuriam priklauso daugiau kaip 1/5 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų, vadovo ar kolegialių organų narių artimas asmuo – sutuoktinis, sugyventinis, partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka, taip pat jų tėvas (įtėvis), motina (įmotė), vaikas (įvaikis), brolis (įbrolis), sesuo (įseserė), senelis (-ė), vaikaitis (-ė) ir jų sutuoktiniai, sugyventiniai ar partneriai;
+
+
+
+
+4) neturėti reikšmingų verslo ryšių su bendrove, į kurios kolegialų organą pretenduoja, jos dukterine arba patronuojančia bendrove ar su susijusiu juridiniu asmeniu nei tiesiogiai, nei kaip turinčio tokių ryšių juridinio asmens dalyvis, kolegialaus organo narys ar vadovas. Turinčiu reikšmingų verslo ryšių laikomas fizinis ar juridinis asmuo, kuris yra prekių tiekėjas arba paslaugų teikėjas (įskaitant finansines, teisines, patariamąsias ir konsultacines paslaugas) ir kurio pajamos, gautos iš bendrovės ar šiame punkte nurodytų juridinių asmenų per praėjusius finansinius metus, yra didesnės kaip 1 000 eurų, išskyrus atlygį už veiklą atliekant kolegialaus organo ar kolegialaus organo sudaryto komiteto nario pareigas;
+
+
+
+
+5) paskutinius 2 metus neturi būti audito įmonės, kuri atlieka ar atliko tos bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės ar susijusio juridinio asmens auditą, partneris, dalyvis, vadovas, kolegialaus organo narys arba darbuotojas;
+
+
+
+
+6) neturi būti bendrovės, į kurios kolegialų organą pretenduoja, jos dukterinės arba patronuojančios bendrovės, kolegialaus organo narys ilgiau kaip 10 metų. Šis laikotarpis apskaičiuojamas prie būsimo kolegialaus organo nario pareigų ėjimo laikotarpio, kuriam kandidatas būtų skiriamas, pridedant praėjusius tos pačios įmonės kolegialaus organo nario pareigų ėjimo laikotarpius, tarp kurių yra ne ilgesnis kaip vienų metų laiko tarpas;
+
+
+
+
+7) neturi būti iš viso daugiau kaip 3 kolegialių organų, sudarytų valstybės ir savivaldybės valdomose įmonėse, narys.
+
+
+
+
+
+
+8. Kandidatų į valstybės ar savivaldybės įmonės, valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės kolegialaus priežiūros ar valdymo organo nepriklausomo nario pareigas atranką inicijuojantis subjektas ar jo įgaliota perkančioji organizacija Viešųjų pirkimų įstatymo nustatyta tvarka įsigyja vadovų ar personalo paieškos (atrankos) paslaugas iš jas teikiančio fizinio arba juridinio asmens, kuris ieško kandidatų į kolegialių organų nepriklausomus narius, vertina jų atitiktį šiame straipsnyje nustatytiems reikalavimams ir teikia kandidatų sąrašus atrankos komisijai. Kandidatų į valstybės ar savivaldybės įmonės, valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės kolegialų priežiūros ar valdymo organą, kai kolegialaus organo narius skiria valstybei ar savivaldybei atstovaujanti institucija arba renka valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės visuotinis akcininkų susirinkimas, atrankos tvarką nustato Vyriausybė.
+
+
+
+
+9. Valstybės valdomos įmonės ir savivaldybės valdomos įmonės apdraudžia kolegialių organų narių civilinę atsakomybę atitinkamai valstybės valdomos įmonės ar savivaldybės valdomos įmonės lėšomis.
+TAR pastaba. 231 straipsnio nuostatos taikomos sudarant naują kolegialų organą ir atrenkant pavienius jo narius. Iki įstatymo Nr. XIV-1631 įsigaliojimo dienos (2022-12-22) sudaryti kolegialūs organai atlieka savo funkcijas iki kadencijos, kuriai jie buvo sudaryti, pabaigos arba iki sudaromas naujas kolegialus organas. Kolegialaus organo narių atrankos, pradėtos iki  įstatymo Nr. XIV-1631 įsigaliojimo dienos (2022-12-22), baigiamos atlikti taikant kandidatams į kolegialaus organo narius reikalavimus, kurie galiojo iki įstatymo Nr. XIV-1631 įsigaliojimo dienos (2022-12-22). Kolegialių organų, sudarytų valstybės ir savivaldybių valdomose įmonėse, nario pareigas einantys valstybės tarnautojai daugiau kaip 2 kolegialių organų tokiose įmonėse nariais gali būti ne ilgiau kaip iki 2023 m. spalio 31 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
  
 
 
@@ -2456,3 +2476,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1355, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15451
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 10 ir 12 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 15, 23 ir 23-1 straipsnių pakeitimo įstatymas
