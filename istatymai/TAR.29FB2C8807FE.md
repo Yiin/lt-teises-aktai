@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2020-11-19 iki 2022-12-21
+Suvestinė redakcija nuo 2022-12-22 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -555,27 +555,22 @@ Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
 2. Valdybos nariais turi būti skiriami:
 
 
-1) valstybės tarnautojai;
+1) valstybės tarnautojai, atitinkantys Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 231 straipsnio 5 dalyje nurodytus bendruosius reikalavimus ir įmonės savininko teises ir pareigas įgyvendinančios institucijos nustatytus specialiuosius reikalavimus;
 
 
 
 
-2) kiti fiziniai asmenys, kurių skaičius įmonėse turi sudaryti ne mažiau kaip 1/2 įmonės įstatuose nurodyto valdybos narių skaičiaus;
-TAR pastaba. 10 straipsnio 2 dalies 2 punkto nuostatos taikomos valstybės ir savivaldybės įmonėse sudarant naują valdybą. Iki įstatymo Nr. XIII-1076 įsigaliojimo (2019-01-01) sudaryta valdyba atlieka savo funkcijas iki kadencijos, kuriai ji buvo sudaryta, pabaigos arba iki bus sudaryta nauja valdyba.
-Straipsnio punkto pakeitimai:
-Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
+2) kiti fiziniai asmenys (nepriklausomi nariai), kurių skaičius įmonėje turi sudaryti ne mažiau kaip 1/2 įmonės įstatuose nurodyto valdybos narių skaičiaus ir kurie mutatis mutandis atitinka Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 231 straipsnio 5 ir 7 dalyse nurodytus bendruosius ir nepriklausomumo reikalavimus, taip pat įmonės savininko teises ir pareigas įgyvendinančios institucijos nustatytus specialiuosius reikalavimus;
+
+
+
+
+3) darbuotojų atstovai, kurių skaičius įmonėje turi sudaryti ne mažiau kaip 1/5 įmonės įstatuose nurodyto valdybos narių skaičiaus, bet kurių turi būti ne mažiau kaip vienas ir kurie atitinka Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 231 straipsnio 5 dalyje nurodytus bendruosius reikalavimus ir įmonės savininko teises ir pareigas įgyvendinančios institucijos nustatytus specialiuosius reikalavimus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
  
-
-
-
-
-3) darbuotojų atstovai, kurie turi sudaryti ne mažiau kaip 1/5 įmonės įstatuose nurodyto valdybos narių skaičiaus, bet ne mažiau kaip vieną. 
-TAR pastaba. 10 straipsnio 2 dalies 3 punkto nuostatos taikomos valstybės ir savivaldybės įmonėse sudarant naują valdybą. Iki įstatymo Nr. XII-2465 įsigaliojimo (2017-01-01) sudaryta valdyba atlieka savo funkcijas iki kadencijos, kuriai ji buvo sudaryta, pabaigos arba iki bus sudaryta nauja valdyba. 
-Papildyta straipsnio punktu:
-Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
- 
-
-
 
 
 
@@ -585,27 +580,18 @@ Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
 
 
 
-4. Valdybos nariu gali būti tik toks fizinis asmuo, kuris atitinka visus šiuos bendruosius reikalavimus:
-
-
-1) turi aukštąjį universitetinį ar jam prilygintą išsilavinimą;
-
-
-
-
-2) yra nepriekaištingos reputacijos; 
+4. Neteko galios nuo 2022-12-22
+Straipsnio dalies naikinimas:
+Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
+ 
 
 
 
 
-3) nesusijęs su kitais juridiniais asmenimis ryšiais, dėl kurių galėtų kilti interesų konfliktas. 
-
-
-
-
-
-
-5. Kandidatas į valdybos narius ar įmonės valdybos narys nelaikomas nepriekaištingos reputacijos šio Įstatymo tikslais, jeigu įstatymų nustatyta tvarka jis pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikalstamos veikos nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai padarymo ir turi neišnykusį ar nepanaikintą teistumą.
+5. Neteko galios nuo 2022-12-22
+Straipsnio dalies naikinimas:
+Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
+ 
 
 
 
@@ -615,7 +601,9 @@ Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
 
 
 
-7. Per 5 dienas nuo specialiųjų reikalavimų valdybos nariui nustatymo dienos apie valdybos nario atranką įmonė turi viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir įmonės interneto svetainėje. Skelbime turi būti nurodyti specialieji ir bendrieji reikalavimai valdybos nariui ir paraiškos juo tapti pateikimo tvarka.
+7. Neteko galios nuo 2022-12-22
+Straipsnio dalies naikinimas:
+Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
 Straipsnio dalies pakeitimai:
 Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
  
@@ -623,7 +611,9 @@ Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
 
 
 
-8. Fiziniai asmenys, atitinkantys valdybos nariui nustatytus bendruosius ir specialiuosius reikalavimus, paraiškas tapti įmonės valdybos nariu gali teikti Vyriausybės nustatyta tvarka 20 dienų nuo šio straipsnio 7 dalyje nurodyto viešo paskelbimo dienos. Kandidatus į įmonės valdybos narius, nurodytus šio straipsnio 2 dalies 2 punkte, parenka personalo paieškos (atrankos) paslaugas teikiantys asmenys, parinkti Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka. Kandidatų į įmonės valdybos narius parinkimo tvarką nustato Vyriausybė.
+8. Neteko galios nuo 2022-12-22
+Straipsnio dalies naikinimas:
+Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
 Straipsnio dalies pakeitimai:
 Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
  
@@ -641,7 +631,10 @@ Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
 
 
 
-11. Paaiškėjus, kad valdybos narys neatitinka bendrųjų ir (ar) specialiųjų reikalavimų, jis turi būti atšauktas iš valdybos. 
+11. Paaiškėjus, kad valdybos narys neatitinka bendrųjų, specialiųjų ir (ar) nepriklausomumo reikalavimų, jis turi būti atšauktas iš valdybos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
+ 
 
 
 
@@ -2318,3 +2311,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 4 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3358, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24246
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 15 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 10 straipsnio pakeitimo įstatymas
