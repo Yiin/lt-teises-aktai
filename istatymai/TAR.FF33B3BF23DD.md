@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-12-21
+Suvestinė redakcija nuo 2022-12-22 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
+ 
+TAR pastaba. 57 straipsnio 5–12 dalys taikomos rengiant 2023 m. liepos 1 d. įsigaliosiančius ir vėlesnius kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainynus ir jų pakeitimus.  Rengiant 2022 m. kompensuojamųjų medicinos pagalbos priemonių kainyno pakeitimus, 2023 m. kompensuojamųjų vaistinių preparatų kainyną, įsigaliosiantį 2023 m. sausio 1 d., ir jo pakeitimus, taikomi iki įstatymo Nr. XIV-1639  įsigaliojimo dienos (2023-01-01) galioję reikalavimai.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 57 ir 59 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 FARMACIJOS 
@@ -1723,14 +1728,18 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 
-5. Sveikatos apsaugos ministras gali laikinai leisti tiekti Lietuvos Respublikos rinkai neregistruotus vaistinius preparatus, būtinus vartoti, kai įtariama ar nustatoma sveikatai pavojingų patogeninių ar cheminių veiksnių, toksinų arba jonizuojančioji radiacija, taip pat įvykus gaivalinei nelaimei. 
+5. Kai įtariama ar nustatoma sveikatai pavojingų patogeninių ar cheminių veiksnių, toksinų arba jonizuojančioji radiacija, taip pat paskelbus valstybės lygio ekstremaliąją situaciją, teritorijų karantiną, įvedus karo ar nepaprastąją padėtį, sveikatos apsaugos ministras gali laikinai leisti tiekti Lietuvos Respublikos rinkai ir vartoti sveikatos priežiūrai būtinus neregistruotus vaistinius preparatus, taip pat nurodyti ar rekomenduoti vaistinius preparatus vartoti nesilaikant vaistinio preparato registracijos sąlygų, jeigu nurodomos ar rekomenduojamos terapinės indikacijos, dozavimas ir (ar) gydymo kursas yra moksliškai pagrįsti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
+ 
 
 
 
 
-6. Nepažeidžiant sveikatos apsaugos ministro nustatytos vardinių vaistinių preparatų tiekimo tvarkos reikalavimų, vaistinių preparatų registruotojams, gamintojams ir sveikatos priežiūros specialistams netaikoma atsakomybė už pasekmes dėl neregistruotų vaistinių preparatų vartojimo ar registruotų vaistinių preparatų vartojimo pagal nepatvirtintas indikacijas, jeigu tą daryti rekomendavo arba nurodė Sveikatos apsaugos ministerija, įtarusi arba nustačiusi sveikatai pavojingų patogeninių ar cheminių veiksnių, toksinų ar jonizuojančiąją radiaciją arba įvykus gaivalinei nelaimei. Ši nuostata netaikoma Lietuvos Respublikos civilinio kodekso nustatytais atvejais dėl nekokybiškų preparatų. 
+6. Vaistinių preparatų registruotojams, gamintojams ir sveikatos priežiūros specialistams netaikoma atsakomybė už pasekmes dėl neregistruotų vaistinių preparatų vartojimo ar registruotų vaistinių preparatų vartojimo nesilaikant jų registracijos sąlygų, jeigu tą daryti rekomendavo arba nurodė Sveikatos apsaugos ministerija šio straipsnio 5 dalyje nurodytais atvejais. Ši nuostata netaikoma Lietuvos Respublikos civilinio kodekso nustatytais atvejais dėl nekokybiškų vaistinių preparatų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
  
 
 
@@ -7810,7 +7819,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_51e0aa0f84ca44749bbb13ffc1b483f3_end
+part_4e0aa791bff5408a810fda38af6cda11_end
 
 
 Pakeitimai:
@@ -8085,3 +8094,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 8, 57 ir 59 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1089, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11325
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 1, 2, 42, 75 straipsnių pakeitimo ir septynioliktojo skirsnio pripažinimo netekusiu galios įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 57 ir 59 straipsnių pakeitimo įstatymas
