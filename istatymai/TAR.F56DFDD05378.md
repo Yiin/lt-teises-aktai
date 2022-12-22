@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f56dfdd0537811ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymas
 
-Suvestinė redakcija nuo 2022-07-16 iki 2022-12-21
+Suvestinė redakcija nuo 2022-12-22 iki 2023-07-05
  
 Įstatymas paskelbtas: TAR 2021-12-02, i. k. 2021-25020
  
@@ -514,21 +514,7 @@ Pakeisti 753 straipsnį ir jį išdėstyti taip:
 9 straipsnis. 76 straipsnio pakeitimas
 
 
-1. Pakeisti 76 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
-
-
-
-
-„4) socialinėms stipendijoms, studijų stipendijoms, tikslinėms stipendijoms, aukštojo mokslo socialinės dimensijos plėtros priemonėms ir kitai paramai.“
-
-
-
-
-
-
-
-
-2. Pakeisti 76 straipsnį ir jį išdėstyti taip:
+Pakeisti 76 straipsnį ir jį išdėstyti taip:
 
 
 
@@ -566,7 +552,7 @@ Pakeisti 753 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos mokslo ir studijų institucijoms pagal kiekvienais metais atliekamo mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo rezultatus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“.
+3. Valstybės biudžeto skatinamojo finansavimo už studijų veiklos pasiekimus lėšos skiriamos mokslo ir studijų institucijoms pagal kiekvienais metais atliekamo mokslo ir studijų institucijų studijų veiklos pasiekimų vertinimo rezultatus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
 
 
@@ -577,6 +563,7 @@ Pakeisti 753 straipsnį ir jį išdėstyti taip:
 
 Straipsnio pakeitimai:
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
  
 
 
@@ -1011,18 +998,21 @@ Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
 
 
 
-12. Šio įstatymo 9 straipsnio 1 dalis įsigalioja 2023 m. sausio 1 d. 
+12. Šio įstatymo 9, 10 ir 11 straipsniai įsigalioja 2023 m. sausio 1 d.
 Papildyta straipsnio dalimi:
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
+Straipsnio dalies pakeitimai:
+Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
  
 
 
 
 
-2. Šio įstatymo 3 straipsnio 2 dalis, 4 straipsnis, 5 straipsnio 2 dalis, 6, 7, 8 straipsniai, 9 straipsnio 2 dalis, 10 ir 11 straipsniai, 12 straipsnio 2, 3, 4 dalys ir 13 straipsnis įsigalioja 2024 m. sausio 1 d. 
+2. Šio įstatymo 3 straipsnio 2 dalis, 4 straipsnis, 5 straipsnio 2 dalis, 6, 7, 8 straipsniai, 12 straipsnio 2, 3, 4 dalys ir 13 straipsnis įsigalioja 2024 m. sausio 1 d.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
 Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
+Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
  
 
 
@@ -1037,6 +1027,14 @@ Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
 
 
 4. Šio įstatymo 6 straipsnyje išdėstyto Mokslo ir studijų įstatymo 751 straipsnio 2 dalies 2 punkte nurodytas meno veiklos ekspertinis vertinimas pirmą kartą atliekamas 2028 m.
+
+
+
+
+41. Šio įstatymo 11 straipsnyje išdėstytame Mokslo ir studijų įstatymo 762 straipsnyje numatytas valstybės biudžeto skatinamasis finansavimas mokslo ir studijų institucijoms už studijų veiklos pasiekimus pirmą kartą skiriamas 2024 metams pagal 2022–2023 studijų metų rezultatus.
+Papildyta straipsnio dalimi:
+Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
+ 
 
 
 
@@ -1074,3 +1072,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 3 ir 16 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 9 ir 16 straipsnių pakeitimo įstatymas
