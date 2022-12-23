@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9197387088f211e8af589337bf1eb893"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2021-06-10 iki 2022-12-22
+Suvestinė redakcija nuo 2022-12-23
  
 Įstatymas paskelbtas: TAR 2018-07-16, i. k. 2018-12037
  
@@ -3230,16 +3230,9 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-3. 2023 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 19 straipsnio 1 dalies 2 punkto redakcija: 
-
-
-
-
-„2) eiti daugiau negu vienas valstybės tarnautojo pareigas, dirbti pagal darbo sutartį valstybės ir savivaldybės institucijoje ar įstaigoje, kurioje jis eina valstybės tarnautojo pareigas, taip pat gauti iš valstybės ir savivaldybės institucijos ar įstaigos, kurioje jis eina valstybės tarnautojo pareigas, kitų pajamų negu darbo užmokestis ir šiame įstatyme nustatytos išmokos, kompensacijos ir pašalpos. Seimo nario patarėjas ir Seimo nario padėjėjas (toliau – Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojas) gali eiti ne vienas Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas pas skirtingus tai pačiai frakcijai priklausančius Seimo narius arba eiti Seimo frakcijos, kuriai priklauso Seimo narys, referento pareigas, bet jo darbo laikas einant visas šias pareigas negali būti ilgesnis kaip 40 valandų per savaitę.“
-
-
-
-
+3. Neteko galios nuo 2022-12-23
+Straipsnio dalies naikinimas:
+Nr. XIV-1689, 2022-12-15, paskelbta TAR 2022-12-22, i. k. 2022-26372
 Straipsnio dalies pakeitimai:
 Nr. XIII-3408, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24571
  
@@ -3485,5 +3478,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-371, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13179
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 3 straipsnio pakeitimo įstatymas
  
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1689, 2022-12-15, paskelbta TAR 2022-12-22, i. k. 2022-26372
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 2 straipsnio pakeitimo įstatymas
  
-part_f8025aedc9f343e8b8c68d6047ffe71d_end
+ 
+part_2cdb5ca9c207489cad3371ab8ce6e0d5_end
