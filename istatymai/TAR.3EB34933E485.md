@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-12-22
+Suvestinė redakcija nuo 2022-12-23 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -300,12 +300,12 @@ MOKESČIŲ TEISINIS REGLAMENTAVIMAS. MOKESČIŲ ĮSTATYMŲ ĮGYVENDINIMAS
 
 
 
-4. Šio straipsnio 3 dalis netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams, teisės aktams, kurie derinami su Europos Sąjungos teisės aktų nuostatomis, Lietuvos Respublikos mokesčių įstatymams, reikalingiems susidarius išskirtinėms aplinkybėms, kaip jos apibrėžtos Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, taip pat kai šie įstatymai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti.
-TAR pastaba. Lietuvos Respublikos mokesčių administravimo įstatymo 3 straipsnio 4 dalies (2020 m. birželio 30 d. redakcija, TAR, 2020-07-16, Nr. 15875) nuostata „su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams“ prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+4. Šio straipsnio 3 dalis netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams, jeigu šiais pakeitimais nėra sunkinama mokesčių mokėtojų padėtis, teisės aktams, kurie derinami su Europos Sąjungos teisės aktų nuostatomis, Lietuvos Respublikos mokesčių įstatymams, reikalingiems susidarius išskirtinėms aplinkybėms, kaip jos apibrėžtos Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, kai šie mokesčių įstatymai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3086, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14361
 Nr. XIII-3238, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15875
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -533,7 +533,10 @@ Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
 
 
 
-14) įmokos į Garantinį fondą; 
+14) Neteko galios nuo 2022-12-23
+Straipsnio punkto naikinimas:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -599,7 +602,10 @@ Nr. XIII-1216, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09732
 
 
 
-26) socialinis mokestis;
+26) Neteko galios nuo 2022-12-23
+Straipsnio punkto naikinimas:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -6638,7 +6644,7 @@ Priedo pakeitimai:
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
  
-part_6ce38c25caaa4572a3efec0deb08fa19_end
+part_1c787425feec44f5981a0de484456464_end
 
 
 Pakeitimai:
@@ -6936,3 +6942,8 @@ Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisini
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1241, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15187
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 ir 41 straipsnių pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 3, 12, 13, 25, 26, 32, 33, 38, 39, 40-1, 87, 88, 99, 104-2, 126, 139, 140, 164 straipsnių, priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymas
