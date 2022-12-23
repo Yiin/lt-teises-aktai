@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-22
+Suvestinė redakcija nuo 2022-12-23 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -2439,8 +2439,10 @@ Nr. XIV-686, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25112
 
 
 
-16) socialinis mokestis;
-TAR pastaba. 16 punkto nuostatos taikomos apskaičiuojant 2006 metų ir 2007 metų mokestinių laikotarpių apmokestinamąjį pelną (Įstatymas Nr. X-232).
+16) Neteko galios nuo 2022-12-23
+Straipsnio punkto naikinimas:
+Nr. XIV-1664, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26368
+ 
 
 
 
@@ -5351,3 +5353,13 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 38-3 ir 58 strai
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
 Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1052, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09665
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 12 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1664, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26368
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 31 straipsnio pakeitimo įstatymas
