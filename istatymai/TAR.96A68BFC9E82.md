@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-23
+Suvestinė redakcija nuo 2022-12-24 iki 2022-12-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -612,6 +612,19 @@ Nr. IX-1065, 2002-09-05, Žin., 2002, Nr. 91-3888 (2002-09-18)
 
 
 
+201 straipsnis. Vyriausybės pareiga užtikrinti veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą
+
+
+Vyriausybė užtikrina veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą priimdama jiems įgyvendinti reikalingus teisės aktus. Vyriausybė gali įgalioti priimti teisės aktą atitinkamos valdymo srities ministrą, Vyriausybės įstaigą ar įstaigą prie ministerijos, jeigu teisės aktu reglamentuojamų santykių Lietuvos Respublikos Konstitucija tiesiogiai nepriskiria Vyriausybės įgaliojimams.
+
+
+Papildyta straipsniu:
+Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
+ 
+
+
+
+
 21 straipsnis. Pasitikėjimo Vyriausybe patikrinimas
 
 
@@ -758,7 +771,15 @@ Vyriausybė:
 
 
 
-2) teikia rekomendacijas savivaldybėms socialinės apsaugos, sveikatos, švietimo ir kultūros plėtojimo bei kitais klausimais.
+2) teikia rekomendacijas savivaldybėms socialinės apsaugos, sveikatos, švietimo ir kultūros plėtojimo bei kitais klausimais;
+
+
+
+
+3) įstatymų nustatytais atvejais skiria užduotis ir koordinuoja su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusių funkcijų atlikimą.
+Papildyta straipsnio punktu:
+Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
+ 
 
 
 
@@ -1738,9 +1759,11 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 
 
 
-6. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio metu ar kai būtina neatidėliotinai spręsti klausimus, būtinus valstybės karinės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms užtikrinti, ir jeigu šiais atvejais teisės akto projekto nepriėmimas nedelsiant lemtų neigiamų pasekmių valstybės ir visuomenės saugumui ir stabilumui atsiradimą, taip pat kai reikia skelbti gedulą, Vyriausybės posėdžiai ir pasitarimai gali vykti nuotoliniu būdu realiuoju laiku elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Šiuo būdu priimant Vyriausybės nutarimus, sprendimus ir rezoliucijas, turi būti užtikrintas Vyriausybės nario tapatybės ir jo balsavimo rezultatų nustatymas.
+6. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio metu, taip pat kai būtina neatidėliotinai spręsti klausimus ar siekiant užtikrinti Vyriausybės narių ar asmenų, kuriems tokią teisę numato Lietuvos Respublikos Konstitucija, kiti įstatymai ir Vyriausybės darbo reglamentas, dalyvavimą, Vyriausybės posėdžiai ir pasitarimai gali vykti nuotoliniu būdu realiuoju laiku elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Šiuo būdu priimant Vyriausybės nutarimus, sprendimus ir rezoliucijas, turi būti užtikrintas Vyriausybės nario tapatybės ir jo balsavimo rezultatų nustatymas.
 Papildyta straipsnio dalimi:
 Nr. XIII-2817, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05698
+Straipsnio dalies pakeitimai:
+Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
  
 
 
@@ -1990,20 +2013,20 @@ Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 
 
 
-441 straipsnis. Vyriausybės kanceliarija 
+441 straipsnis. Vyriausybės kanceliarija
 
 
-1. Vyriausybės kanceliarija yra Vyriausybės įsteigta biudžetinė įstaiga, padedanti vykdyti Vyriausybės ir Ministro Pirmininko funkcijas. Vyriausybės kanceliarijai vadovauja Vyriausybės kancleris. 
-
-
-
-
-2. Vyriausybės kanceliarijos nuostatus tvirtina Vyriausybė.
+1. Vyriausybės kanceliarija yra Vyriausybės įsteigta biudžetinė įstaiga, padedanti atlikti Vyriausybės ir Ministro Pirmininko funkcijas. Vyriausybės kanceliarijai vadovauja Vyriausybės kancleris.
 
 
 
 
-3. Vyriausybės kancleris turi du pavaduotojus: Vyriausybės kanclerio pirmasis pavaduotojas yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas; Vyriausybės kanclerio pavaduotojas yra karjeros valstybės tarnautojas. Vyriausybės kanclerio pavaduotojas yra pavaldus Vyriausybės kancleriui ir atskaitingas Ministrui Pirmininkui.
+2. Vyriausybės kanceliarijoje gali būti steigiamas centras (-ai) bendriems ministerijų, taip pat kitų valstybės ir savivaldybių institucijų ir įstaigų veiksmams koordinuoti, reikiamoms viešojo administravimo subjektų kompetencijoms sutelkti, padėti Vyriausybei ir kitiems viešojo administravimo subjektams valdyti valstybės lygio situacijas ar procesus (toliau – centras). Centrui vadovauja centro vadovas arba Vyriausybės kanclerio paskirtas Vyriausybės kanclerio pavaduotojas.
+
+
+
+
+3. Vyriausybės kancleris turi du pavaduotojus: Vyriausybės kanclerio pirmasis pavaduotojas yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas; Vyriausybės kanclerio pavaduotojas yra karjeros valstybės tarnautojas. Nusprendus Vyriausybės kanceliarijoje įsteigti centrą, Vyriausybės kancleris gali turėti papildomą pavaduotoją, jeigu jis skiriamas vadovauti centrui. Vyriausybės kanclerio pavaduotojas yra pavaldus Vyriausybės kancleriui ir atskaitingas Ministrui Pirmininkui.
 
 
 Įstatymas papildytas straipsniu:
@@ -2012,6 +2035,8 @@ Straipsnio pakeitimai:
 Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr. XI-319, 2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
 Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
+Straipsnio pakeitimai:
+Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
  
 
 
@@ -2558,3 +2583,8 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-549, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21636
 Lietuvos Respublikos vyriausybės įstatymo Nr. I-464 22 ir 30-1 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 23, 37 ir 44-1 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
