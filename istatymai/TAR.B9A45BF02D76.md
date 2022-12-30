@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b9a45bf02d7611ec992fe4cdfceb5666"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8, 17, 19, 22, 25, 27, 31, 35, 46, 51, 52, 55, 57, 58, 82, 86, 91, 92, 93, 94, 95, 96 straipsnių pakeitimo ir Įstatymo papildymo 82-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2022-12-30
+ 
+Įstatymas paskelbtas: TAR 2021-10-15, i. k. 2021-21632
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VIEŠŲJŲ PIRKIMŲ ĮSTATYMO NR. I-1491 2, 8, 17, 19, 22, 25, 27, 31, 35, 46, 51, 52, 55, 57, 58, 82, 86, 91, 92, 93, 94, 95, 96 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 821 STRAIPSNIU
 ĮSTATYMAS
@@ -123,7 +130,9 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-5) įsigyjant prekes, paslaugas ar darbus būtų prisidedama prie socialinių klausimų, pavyzdžiui, remiamų asmenų įdarbinimo, sąžiningo darbo užmokesčio mokėjimo, lyčių lygių galimybių ir nediskriminavimo kitais pagrindais principų įgyvendinimo, psichologinio smurto darbo aplinkoje prevencijos ir pagalbos asmenims, patyrusiems tokį smurtą, priemonių įgyvendinimo klausimų, sprendimo ir užtikrinama, kad Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais būtų taikomi socialiniai reikalavimai ir (arba) kriterijai.“
+5) įsigyjant prekes, paslaugas ar darbus būtų prisidedama prie socialinių klausimų, pavyzdžiui, remiamų asmenų įdarbinimo, sąžiningo darbo užmokesčio mokėjimo, lyčių lygybės ir nediskriminavimo kitais pagrindais principų įgyvendinimo, psichologinio smurto darbo aplinkoje prevencijos ir pagalbos asmenims, patyrusiems tokį smurtą, priemonių įgyvendinimo klausimų, sprendimo.“
+Straipsnio punkto pakeitimai:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
  
 
 
@@ -154,16 +163,10 @@ Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-2. Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
-
-
-
-
-„3. Skiriant Komisijos narius, turi būti atsižvelgiama į jų ekonomines, technines, teisines žinias ir šio įstatymo bei kitų pirkimus reglamentuojančių teisės aktų išmanymą. Komisijoje turi būti bent vienas asmuo, turintis pirkimų specialisto pažymėjimą. Komisijos nariais gali būti tik nepriekaištingos reputacijos asmenys. Komisijos posėdžiai ir priimami sprendimai yra teisėti, kai posėdyje dalyvauja daugiau kaip pusė visų Komisijos narių ir kai bent vienas Komisijos narys turi pirkimų specialisto pažymėjimą, o jeigu Komisija sudaryta iš 3 asmenų, – kai posėdyje dalyvauja visi Komisijos nariai.“
-
-
-
-
+2. Neteko galios nuo 2022-12-30
+Straipsnio dalies naikinimas:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
+ 
 
 
 
@@ -706,22 +709,10 @@ Pakeisti 57 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-15 straipsnis. 58 straipsnio pakeitimas 
-
-
-Pakeisti 58 straipsnio 1 dalį ir ją išdėstyti taip:
-
-
-
-
-„1. Perkančioji organizacija kandidatams ir dalyviams ne vėliau kaip per 5 darbo dienas raštu praneša apie priimtą sprendimą nustatyti laimėjusį pasiūlymą, dėl kurio bus sudaroma pirkimo sutartis ar preliminarioji sutartis, arba sprendimą leisti dalyvauti dinaminėje pirkimo sistemoje, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta pirkimo procedūros metu, santrauką, nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą ir tikslų atidėjimo terminą. Perkančioji organizacija taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo. Šioje dalyje nurodyto reikalavimo gali būti nesilaikoma, kai supaprastinto pirkimo ar šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų pirkimų atveju pirkimo sutartis, kurios numatoma vertė neviršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), sudaroma preliminariosios sutarties pagrindu, kai pasiūlymas pateikiamas žodžiu ar pirkimo sutartis sudaroma žodžiu.“
+15 straipsnis. Neteko galios nuo 2022-12-30
+Straipsnio naikinimas:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
  
-
-
-
-
-
-
 
 
 
@@ -737,7 +728,7 @@ Pakeisti 82 straipsnį ir jį išdėstyti taip:
 „82 straipsnis. Centralizuotų pirkimų veikla ir centrinės perkančiosios organizacijos
 
 
-1. Perkančiosios organizacijos gali, o šio straipsnio 2 dalyje nustatytu atveju – privalo, prekių ir (arba) paslaugų įsigyti iš centrinės perkančiosios organizacijos. Taip pat prekės, paslaugos ir darbai gali būti, o šio straipsnio 2 dalyje nustatytu atveju – turi būti įsigyjami naudojantis centrinės perkančiosios organizacijos:
+1. Perkančiosios organizacijos gali, o šio straipsnio 2 dalyje nustatytu atveju – privalo prekių ir (arba) paslaugų įsigyti iš centrinės perkančiosios organizacijos. Taip pat prekės, paslaugos ir darbai gali būti, o šio straipsnio 2 dalyje nustatytu atveju – turi būti įsigyjami naudojantis centrinės perkančiosios organizacijos:
 
 
 1) atlikta pirkimo procedūra;
@@ -760,7 +751,7 @@ Pakeisti 82 straipsnį ir jį išdėstyti taip:
 2. Perkančioji organizacija, išskyrus Lietuvos Respublikos diplomatines atstovybes užsienio valstybėse, Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, konsulines įstaigas ir specialiąsias misijas, privalo įsigyti prekių, paslaugų ir darbų šio straipsnio 1 dalyje nurodytu būdu, jeigu:
 
 
-1) Lietuvos Respublikos Vyriausybės sprendimu įsteigtos centrinės perkančiosios organizacijos centralizuotų pirkimų kataloge galimos įsigyti prekės, paslaugos ar darbai atitinka perkančiosios organizacijos poreikius ir perkančioji organizacija negali prekių, paslaugų ar darbų įsigyti efektyvesniu būdu racionaliai naudodama tam skirtas lėšas. Perkančiosios organizacijos privalo motyvuoti savo sprendimą neatlikti pirkimo naudojantis centralizuotų pirkimų katalogu ir argumentus nurodyti pirkimo dokumentuose; 
+1) Vyriausybės sprendimu įsteigtos centrinės perkančiosios organizacijos centralizuotų pirkimų kataloge galimos įsigyti prekės, paslaugos ar darbai atitinka perkančiosios organizacijos poreikius ir perkančioji organizacija negali prekių, paslaugų ar darbų įsigyti efektyvesniu būdu racionaliai naudodama tam skirtas lėšas. Perkančiosios organizacijos privalo motyvuoti savo sprendimą neatlikti pirkimo naudojantis centralizuotų pirkimų katalogu ir argumentus nurodyti pirkimo dokumentuose. Šio punkto reikalavimai taikomi ir perkančiosioms organizacijoms, kurios atlieka centrinės perkančiosios organizacijos funkcijas; 
 
 
 
@@ -802,16 +793,18 @@ Pakeisti 82 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Perkančiosios organizacijos nuostolių, kurie atsirado dėl to, kad centrinė perkančioji organizacija nesilaikė šio įstatymo reikalavimų ir buvo nustatytos netinkamos finansuoti išlaidos Europos Sąjungos ar atskirų valstybių finansuojamuose projektuose, sumokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“
+6. Žala, atsiradusi dėl to, kad centrinė perkančioji organizacija nesilaikė šio įstatymo reikalavimų, atlyginama teisės aktų nustatyta tvarka.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
  
-
-
-
-
-
-
-
-
 
 
 
@@ -830,12 +823,12 @@ Papildyti Įstatymą 821 straipsniu:
 1. Sprendimą dėl centrinių perkančiųjų organizacijų steigimo, jų teisinės formos ar teisės atlikti centrinės perkančiosios organizacijos funkcijas perkančiajai organizacijai suteikimo, taip pat dėl konkrečių pirkimų atlikimo kitų perkančiųjų organizacijų vardu pagal kompetenciją priima:
 
 
-1) Lietuvos Respublikos Vyriausybė ar jos įgaliota (įgaliotos) institucija (institucijos) – dėl centrinės perkančiosios organizacijos, valdančios ir administruojančios centralizuotų pirkimų katalogą ir (ar) kitų centrinių perkančiųjų organizacijų; 
+1) Vyriausybė ar jos įgaliota (įgaliotos) institucija (institucijos) – dėl centrinės perkančiosios organizacijos, valdančios ir administruojančios centralizuotų pirkimų katalogą, ir (ar) kitų centrinių perkančiųjų organizacijų;
 
 
 
 
-2) savivaldybių tarybos. Kiekvienoje savivaldybėje turi būti užtikrinta, kad savivaldybės kontroliuojamos (valdomos) perkančiosios organizacijos pirkimai, kurių sutarties vertė viršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), būtų atliekami šio įstatymo 82 straipsnio 1 dalyje nurodytu būdu. Siekiant įgyvendinti šią pareigą, turi būti sukurta savivaldybės centrinė perkančioji organizacija arba (ir) kelios savivaldybės gali sukurti bendrą centrinę perkančiąją organizaciją arba (ir) savivaldybė gali pasirašyti centralizuotų pirkimų veiklos paslaugų sutartį su esama centrine perkančiąja organizacija dėl pirkimų paslaugų savivaldybei ir savivaldybės kontroliuojamoms (valdomoms) perkančiosioms organizacijoms;
+2) savivaldybių tarybos. Kiekvienoje savivaldybėje turi būti užtikrinta, kad savivaldybės kontroliuojamos (valdomos) perkančiosios organizacijos, išskyrus savivaldybių įmones, akcines bendroves, uždarąsias akcines bendroves ir viešąsias įstaigas, pirkimai, kurių sutarties vertė viršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), būtų atliekami šio įstatymo 82 straipsnio 1 dalyje nurodytu būdu. Siekiant įgyvendinti šią pareigą, turi būti sukurta (sukurtos) savivaldybės centrinė perkančioji organizacija (centrinės perkančiosios organizacijos) arba (ir) kelios savivaldybės gali sukurti bendrą centrinę perkančiąją organizaciją, arba (ir) savivaldybė gali pasirašyti centralizuotų pirkimų veiklos paslaugų sutartį su esama centrine perkančiąja organizacija dėl pirkimų paslaugų savivaldybei ir savivaldybės kontroliuojamoms (valdomoms) perkančiosioms organizacijoms;
 
 
 
@@ -853,15 +846,39 @@ Papildyti Įstatymą 821 straipsniu:
 
 
 3. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų perkančiųjų organizacijų veikla finansuojama iš įstaigoms, kurios įgyvendina centrinės perkančiosios organizacijos funkcijas atliekančio juridinio asmens dalyvio ar savininko teises ir pareigas, skirtų valstybės ar savivaldybės biudžeto asignavimų ir (arba) kitų lėšų.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
  
 
 
 
 
+171 straipsnis. 821 straipsnio pakeitimas
+
+
+Pakeisti 821 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
 
 
+„2) savivaldybių tarybos. Kiekvienoje savivaldybėje turi būti užtikrinta, kad savivaldybės kontroliuojamos (valdomos) perkančiosios organizacijos, išskyrus savivaldybių įmones, akcines bendroves ir uždarąsias akcines bendroves, pirkimai, kurių sutarties vertė viršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), būtų atliekami šio įstatymo 82 straipsnio 1 dalyje nurodytu būdu. Siekiant įgyvendinti šią pareigą, turi būti sukurta (sukurtos) savivaldybės centrinė perkančioji organizacija (centrinės perkančiosios organizacijos) arba (ir) kelios savivaldybės gali sukurti bendrą centrinę perkančiąją organizaciją, arba (ir) savivaldybė gali pasirašyti centralizuotų pirkimų veiklos paslaugų sutartį su esama centrine perkančiąja organizacija dėl pirkimų paslaugų savivaldybei ir savivaldybės kontroliuojamoms (valdomoms) perkančiosioms organizacijoms;“
+
+
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
+ 
 
 
 
@@ -1254,7 +1271,6 @@ Pakeisti 96 straipsnį ir jį išdėstyti taip:
 
 5. Šio straipsnio 2 ir 3 dalyse nurodytos ataskaitos ir šio įstatymo 92 straipsnio 10 dalyje nurodyti duomenys, išskyrus informaciją, kurios atskleidimas prieštarautų informacijos ir duomenų apsaugą reguliuojantiems teisės aktams arba visuomenės interesams, pažeistų teisėtus konkretaus tiekėjo komercinius interesus arba turėtų neigiamą poveikį tiekėjų konkurencijai, skelbiami Centrinėje viešųjų pirkimų informacinėje sistemoje. Perkančioji organizacija, laikydamasi šioje dalyje nustatytų reikalavimų, šio straipsnio 2 dalyje nurodytas ataskaitas gali paskelbti ir pirkėjo profilyje.“
  
- 
 
 
 
@@ -1280,22 +1296,34 @@ Pakeisti 96 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Šio įstatymo 1 straipsnio 2 dalis, 21 straipsniu keičiamo Viešųjų pirkimų įstatymo 93 straipsnio 6 dalis, 23 straipsniu keičiamo Viešųjų pirkimų įstatymo 95 straipsnio 1 dalies 42 punktas ir 6 dalis įsigalioja 2022 m. liepos 1 d. 
+3. Šio įstatymo 171 straipsnis įsigalioja 2024 m. sausio 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
+ 
 
 
 
 
-4. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2021 m. gruodžio 31 d. priima šio įstatymo 3 straipsniu keičiamo Viešųjų pirkimų įstatymo 17 straipsnio 2 dalies 3, 4 punktuose nurodytus įgyvendinamuosius teisės aktus. 
+4. Šio įstatymo 1 straipsnio 2 dalis, 21 straipsniu keičiamo Viešųjų pirkimų įstatymo 93 straipsnio 6 dalis, 23 straipsniu keičiamo Viešųjų pirkimų įstatymo 95 straipsnio 1 dalies 42 punktas ir 6 dalis įsigalioja 2022 m. liepos 1 d. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
+ 
 
 
 
 
-5. Lietuvos Respublikos Vyriausybė ir Viešųjų pirkimų tarnyba iki 2022 m. birželio 30 d. priima šio įstatymo 21 straipsniu keičiamo Viešųjų pirkimų įstatymo 93 straipsnio 6 dalyje ir 23 straipsniu keičiamo Viešųjų pirkimų įstatymo 95 straipsnio 6 dalyje nurodytus įgyvendinamuosius teisės aktus.
+5. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2021 m. gruodžio 31 d. priima šio įstatymo 3 straipsniu keičiamo Viešųjų pirkimų įstatymo 17 straipsnio 2 dalies 3, 4 punktuose nurodytus įgyvendinamuosius teisės aktus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
+ 
 
 
 
 
-6. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2022 m. gruodžio 31 d. priima šio įstatymo 3 straipsniu keičiamo Viešųjų pirkimų įstatymo 17 straipsnio 2 dalies 5 punkte ir 16 straipsniu keičiamo Viešųjų pirkimų įstatymo 82 straipsnio 6 dalyje nurodytus įgyvendinamuosius teisės aktus.
+6. Lietuvos Respublikos Vyriausybė ir Viešųjų pirkimų tarnyba iki 2022 m. birželio 30 d. priima šio įstatymo 21 straipsniu keičiamo Viešųjų pirkimų įstatymo 93 straipsnio 6 dalyje ir 23 straipsniu keičiamo Viešųjų pirkimų įstatymo 95 straipsnio 6 dalyje nurodytus įgyvendinamuosius teisės aktus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
+ 
 
 
 
@@ -1312,3 +1340,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1670, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27254
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8, 17, 19, 22, 25, 27, 31, 35, 46, 51, 52, 55, 57, 58, 82, 86, 91, 92, 93, 94, 95, 96 straipsnių pakeitimo ir Įstatymo papildymo 82-1 straipsniu įstatymo Nr. XIV-545 3, 4, 16, 17, 25 straipsnių pakeitimo, Įstatymo papildymo 17-1 straipsniu ir 15 straipsnio pripažinimo netekusiu galios įstatymas
