@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-29
+Suvestinė redakcija nuo 2022-12-30 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -2357,7 +2357,10 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 2. Informacija, kuri turi būti nurodyta pirkimo skelbimuose, skelbimų, įskaitant klaidų ištaisymo skelbimus, standartinės formos ir skelbimų reikalavimai nustatyti:
 
 
-1) tarptautinio pirkimo atveju – 2015 m. lapkričio 11 d. Komisijos įgyvendinimo reglamente (ES) 2015/1986, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Įgyvendinimo reglamentas (EB) Nr. 842/2011 (OL 2015 L 296, p. 1);
+1) tarptautinio pirkimo atveju – 2019 m. rugsėjo 23 d. Komisijos įgyvendinimo reglamente (ES) 2019/1780, kuriuo nustatomos viešųjų pirkimų skelbimo standartinės formos ir panaikinamas Įgyvendinimo reglamentas (ES) 2015/1986 (e. formos);
+Straipsnio punkto pakeitimai:
+Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
+ 
 
 
 
@@ -6806,12 +6809,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+ 
+ 
+ 
 
  
 
  
  
-part_552f8eab929646aabc9175b710e91076_end
+part_af1968f5b8e04974967849b1d1a302bd_end
 part_df4f6b6f3c384d668ef6f0b1bd9193d0_end
 
 
@@ -7596,6 +7602,16 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-955, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05374
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 37, 39, 48, 50, 52, 58, 98 ir 100 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1394, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16121
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 35 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 pakeitimo įstatymas
  
  
 part_f246b6a4c42140168e72fdd39b9088b9_end
