@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f3f6a0602d7611ec992fe4cdfceb5666"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 31, 34, 37, 39, 48, 49, 63, 66, 68, 90, 94, 99, 101, 102, 114 straipsnių pakeitimo ir Įstatymo papildymo 90-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2022-12-30
+ 
+Įstatymas paskelbtas: TAR 2021-10-15, i. k. 2021-21633
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PIRKIMŲ, ATLIEKAMŲ VANDENTVARKOS, ENERGETIKOS, TRANSPORTO AR PAŠTO PASLAUGŲ SRITIES PERKANČIŲJŲ SUBJEKTŲ, ĮSTATYMO NR. XIII-328 2, 29, 31, 34, 37, 39, 48, 49, 63, 66, 68, 90, 94, 99, 101, 102, 114 STRAIPSNIŲ PAKEITIMO IR įstatymo PAPILDYMO 901 STRAIPSNIU
 ĮSTATYMAS
@@ -78,7 +85,10 @@ Pakeisti 29 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-5) įsigyjant prekes, paslaugas ar darbus būtų prisidedama prie socialinių klausimų, pavyzdžiui, remiamų asmenų įdarbinimo, sąžiningo darbo užmokesčio mokėjimo, lyčių lygių galimybių ir nediskriminavimo kitais pagrindais principų įgyvendinimo, psichologinio smurto darbo aplinkoje prevencijos ir pagalbos asmenims, patyrusiems tokį smurtą, priemonių įgyvendinimo klausimų, sprendimo ir užtikrinama, kad Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais būtų taikomi socialiniai reikalavimai ir (arba) kriterijai.“
+5) įsigyjant prekes, paslaugas ar darbus būtų prisidedama prie socialinių klausimų, pavyzdžiui, remiamų asmenų įdarbinimo, sąžiningo darbo užmokesčio mokėjimo, lyčių lygybės ir nediskriminavimo kitais pagrindais principų įgyvendinimo, psichologinio smurto darbo aplinkoje prevencijos ir pagalbos asmenims, patyrusiems tokį smurtą, priemonių įgyvendinimo klausimų, sprendimo.“ 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
@@ -108,16 +118,10 @@ Pakeisti 29 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-2. Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip:
-
-
-
-
-„3. Skiriant Komisijos narius, turi būti atsižvelgiama į jų ekonomines, technines, teisines žinias ir šio įstatymo bei kitų pirkimus reglamentuojančių teisės aktų išmanymą. Komisijoje turi būti bent vienas asmuo, turintis pirkimų specialisto pažymėjimą. Komisijos nariais gali būti tik nepriekaištingos reputacijos asmenys. Komisijos posėdžiai ir priimami sprendimai yra teisėti, kai posėdyje dalyvauja daugiau kaip pusė visų Komisijos narių ir kai bent vienas Komisijos narys turi pirkimų specialisto pažymėjimą, o jeigu Komisija sudaryta iš 3 asmenų, – kai posėdyje dalyvauja visi Komisijos nariai.“
-
-
-
-
+2. Neteko galios nuo 2022-12-30
+Straipsnio dalies naikinimas:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
@@ -332,21 +336,10 @@ Pakeisti 66 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-11 straipsnis. 68 straipsnio pakeitimas
-
-
-Pakeisti 68 straipsnio 1 dalį ir išdėstyti taip:
-
-
-
-
-„1. Perkantysis subjektas kandidatams ir dalyviams ne vėliau kaip per 5 darbo dienas raštu praneša apie priimtą sprendimą nustatyti laimėjusį pasiūlymą, dėl kurio bus sudaroma pirkimo sutartis ar preliminarioji sutartis, arba sprendimą leisti dalyvauti dinaminėje pirkimo sistemoje, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta atliekant pirkimo procedūrą, santrauką, nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą ir tikslų atidėjimo terminą. Perkantysis subjektas taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo. Šioje dalyje nurodyto reikalavimo gali būti nesilaikoma, kai supaprastinto pirkimo atveju pirkimo sutartis, kurios numatoma vertė neviršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), sudaroma preliminariosios sutarties pagrindu, kai pasiūlymas pateikiamas žodžiu ar pirkimo sutartis sudaroma žodžiu.“
-
-
-
-
-
-
+11 straipsnis. Neteko galios nuo 2022-12-30
+Straipsnio naikinimas:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
@@ -382,15 +375,15 @@ Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Perkantysis subjektas privalo įsigyti prekių, paslaugų ir darbų šio straipsnio 1 dalyje nurodytu būdu, jeigu: 
+2. Perkantysis subjektas privalo įsigyti prekių, paslaugų ir darbų šio straipsnio 1 dalyje nurodytu būdu, jeigu:
 
 
-1) Lietuvos Respublikos Vyriausybės sprendimu įsteigtos centrinės perkančiosios organizacijos centralizuotų pirkimų kataloge galimos įsigyti prekės, paslaugos ar darbai atitinka perkančiojo subjekto poreikius ir perkantysis subjektas negali prekių, paslaugų ar darbų įsigyti efektyvesniu būdu racionaliai naudodamas tam skirtas lėšas. Perkantysis subjektas privalo motyvuoti savo sprendimą neatlikti pirkimo naudojantis centralizuotų pirkimų katalogu ir argumentus nurodyti pirkimo dokumentuose; 
+1) Vyriausybės sprendimu įsteigtos centrinės perkančiosios organizacijos centralizuotų pirkimų kataloge galimos įsigyti prekės, paslaugos ar darbai atitinka perkančiojo subjekto poreikius ir perkantysis subjektas negali prekių, paslaugų ar darbų įsigyti efektyvesniu būdu racionaliai naudodamas tam skirtas lėšas. Perkantysis subjektas privalo motyvuoti savo sprendimą neatlikti pirkimo naudojantis centralizuotų pirkimų katalogu ir argumentus nurodyti pirkimo dokumentuose. Šio punkto reikalavimai taikomi ir perkantiesiems subjektams, kurie atlieka centrinės perkančiosios organizacijos funkcijas;
 
 
 
 
-2) šio įstatymo 901 straipsnio 1 dalyje centrinė perkančioji organizacija atlieka viešojo pirkimo procedūrą perkančiojo subjekto vardu.
+2) šio įstatymo 901 straipsnio 1 dalyje centrinė perkančioji organizacija atlieka viešojo pirkimo procedūrą perkančiojo subjekto vardu.  
 
 
 
@@ -422,7 +415,7 @@ Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Perkančiojo subjekto nuostolių, kurie atsirado dėl to, kad centrinė perkančioji organizacija nesilaikė šio įstatymo reikalavimų ir buvo nustatytos netinkamos finansuoti išlaidos Europos Sąjungos ar atskirų valstybių finansuojamuose projektuose, sumokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“
+6. Žala, atsiradusi dėl to, kad centrinė perkančioji organizacija nesilaikė šio įstatymo reikalavimų, atlyginama teisės aktų nustatyta tvarka.“. 
 
 
 
@@ -431,6 +424,9 @@ Pakeisti 90 straipsnį ir jį išdėstyti taip:
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
@@ -449,12 +445,12 @@ Papildyti Įstatymą 901 straipsniu:
 1. Sprendimą dėl centrinių perkančiųjų organizacijų steigimo, jų teisinės formos ar teisės atlikti centrinės perkančiosios organizacijos funkcijas perkančiajai organizacijai suteikimo, taip pat dėl konkrečių pirkimų atlikimo kitų perkančiųjų organizacijų vardu pagal kompetenciją priima:
 
 
-1) Lietuvos Respublikos Vyriausybė ar jos įgaliota (įgaliotos) institucija (institucijos) – dėl centrinės perkančiosios organizacijos, valdančios ir administruojančios centralizuotų pirkimų katalogą, ir (ar) kitų centrinių perkančiųjų organizacijų; 
+1) Vyriausybė ar jos įgaliota (įgaliotos) institucija (institucijos) – dėl centrinės perkančiosios organizacijos, valdančios ir administruojančios centralizuotų pirkimų katalogą, ir (ar) kitų centrinių perkančiųjų organizacijų;
 
 
 
 
-2) savivaldybių tarybos. Kiekvienoje savivaldybėje turi būti užtikrinta, kad savivaldybės kontroliuojamo (valdomo) perkančiojo subjekto pirkimai, kurių sutarties vertė viršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), būtų atliekami šio įstatymo 90 straipsnio 1 dalyje nurodytu būdu. Siekiant įgyvendinti šią pareigą, turi būti sukurta savivaldybės centrinė perkančioji organizacija arba (ir)  kelios savivaldybės gali sukurti bendrą centrinę perkančiąją organizaciją arba (ir) savivaldybė gali pasirašyti centralizuotų pirkimų veiklos paslaugų sutartį su esama centrine perkančiąja organizacija dėl pirkimų paslaugų savivaldybei ir savivaldybės kontroliuojamiems (valdomiems) perkantiesiems subjektams;
+2) savivaldybių tarybos. Kiekvienoje savivaldybėje turi būti užtikrinta, kad savivaldybės kontroliuojamo (valdomo) perkančiojo subjekto, išskyrus savivaldybių įmones, akcines bendroves, uždarąsias akcines bendroves ir viešąsias įstaigas, pirkimai, kurių sutarties vertė viršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), būtų atliekami šio įstatymo 90 straipsnio 1 dalyje nurodytu būdu. Siekiant įgyvendinti šią pareigą, turi būti sukurta (sukurtos) savivaldybės centrinė perkančioji organizacija (centrinės perkančiosios organizacijos) arba (ir) kelios savivaldybės gali sukurti bendrą centrinę perkančiąją organizaciją, arba (ir) savivaldybė gali pasirašyti centralizuotų pirkimų veiklos paslaugų sutartį su esama centrine perkančiąja organizacija dėl pirkimų paslaugų savivaldybei ir savivaldybės kontroliuojamiems (valdomiems) perkantiesiems subjektams;
 
 
 
@@ -471,7 +467,7 @@ Papildyti Įstatymą 901 straipsniu:
 
 
 
-3. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų subjektų veikla finansuojama iš įstaigoms, kurios įgyvendina centrinės perkančiosios organizacijos funkcijas atliekančio juridinio asmens dalyvio ar savininko teises ir pareigas, skirtų valstybės ar savivaldybės biudžeto asignavimų ir (arba) kitų lėšų.“
+3. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų subjektų veikla finansuojama iš įstaigoms, kurios įgyvendina centrinės perkančiosios organizacijos funkcijas atliekančio juridinio asmens dalyvio ar savininko teises ir pareigas, skirtų valstybės ar savivaldybės biudžeto asignavimų ir (arba) kitų lėšų.“. 
 
 
 
@@ -480,6 +476,31 @@ Papildyti Įstatymą 901 straipsniu:
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
+
+
+
+
+131 straipsnis. 901 straipsnio pakeitimas
+
+
+Pakeisti 901 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
+
+
+
+
+„2) savivaldybių tarybos. Kiekvienoje savivaldybėje turi būti užtikrinta, kad savivaldybės kontroliuojamo (valdomo) perkančiojo subjekto, išskyrus savivaldybių įmones, akcines bendroves ir uždarąsias akcines bendroves, pirkimai, kurių sutarties vertė viršija 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio), būtų atliekami šio įstatymo 90 straipsnio 1 dalyje nurodytu būdu. Siekiant įgyvendinti šią pareigą, turi būti sukurta (sukurtos) savivaldybės centrinė perkančioji organizacija (centrinės perkančiosios organizacijos) arba (ir) kelios savivaldybės gali sukurti bendrą centrinę perkančiąją organizaciją, arba (ir) savivaldybė gali pasirašyti centralizuotų pirkimų veiklos paslaugų sutartį su esama centrine perkančiąja organizacija dėl pirkimų paslaugų savivaldybei ir savivaldybės kontroliuojamiems (valdomiems) perkantiesiems subjektams;“. 
+
+
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
@@ -691,30 +712,10 @@ Pakeisti 102 straipsnį ir jį išdėstyti taip:
 
 
 
-18 straipsnis. 114 straipsnio pakeitimas
-
-
-Pakeisti 114 straipsnio 7 dalį ir ją išdėstyti taip:
-
-
-
-
-„7. 2023 m. sausio 1 d. įsigalioja tokia šio įstatymo 37 straipsnio 2 dalies redakcija:
-
-
-
-
-„2. Atliekant mažos vertės pirkimus taikomos šio įstatymo I skyriaus, 38, 44, 47 straipsnių, 68 straipsnio 1 dalies, 90 straipsnio, 94 straipsnio 5, 6, 7 ir 9 dalių, 99 straipsnio, VI ir VII skyrių nuostatos ir perkančiojo subjekto patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu mažos vertės neskelbiamas pirkimas atliekamas šio įstatymo 79 straipsnio 1 dalies 3 punkte, 3 dalies 1, 2 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis ar į mažos vertės neskelbiamą pirkimą kviečiamas tik vienas tiekėjas, šio įstatymo 34 straipsnyje nustatytų reikalavimų, išskyrus 34 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Be to, gali būti nesilaikoma šio įstatymo 90 straipsnyje nustatytų reikalavimų, jeigu atliekamas mažos vertės neskelbiamas pirkimas, kurio numatoma pirkimo sutarties vertė yra mažesnė kaip 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio).“.“
-
-
-
-
-
-
-
-
-
-
+18 straipsnis. Neteko galios nuo 2022-12-30
+Straipsnio naikinimas:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
@@ -732,28 +733,39 @@ Pakeisti 114 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-3. Šio įstatymo 2 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 29 straipsnio 2 dalies 5 punktas, 3, 4 straipsniai, 5 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 37 straipsnio 2 dalis, 7, 11, 12, 13, 18 straipsniai įsigalioja 2023 m. sausio 1 d.
+3. Šio įstatymo 2 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 29 straipsnio 2 dalies 5 punktas, 3, 4 straipsniai, 5 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 37 straipsnio 2 dalis, 7, 12, 13 straipsniai įsigalioja 2023 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
 
-4. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2021 m. gruodžio 31 d. priima šio įstatymo 2 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 29 straipsnio 2 dalies 3, 4 punktuose nurodytus įgyvendinamuosius teisės aktus. 
+4. Šio įstatymo 131 straipsnis įsigalioja 2024 m. sausio 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
 
-5. Vyriausybė ir Viešųjų pirkimų tarnyba iki 2022 m. birželio 30 d. priima šio įstatymo 16 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 101 straipsnio 5 dalyje nurodytus įgyvendinamuosius teisės aktus.
+5. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2021 m. gruodžio 31 d. priima šio įstatymo 2 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 29 straipsnio 2 dalies 3, 4 punktuose nurodytus įgyvendinamuosius teisės aktus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
 
-6. Vyriausybė ar jos įgaliotos institucijos iki 2022 m. gruodžio 31 d. priima šio įstatymo 2 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 29 straipsnio 2 dalies 5 punkte ir šio įstatymo 12 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 90 straipsnio 6 dalyje nurodytus įgyvendinamuosius teisės aktus.
+6. Vyriausybė ir Viešųjų pirkimų tarnyba iki 2022 m. birželio 30 d. priima šio įstatymo 16 straipsniu keičiamo Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 101 straipsnio 5 dalyje nurodytus įgyvendinamuosius teisės aktus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+ 
 
 
 
 
 7. Iki šio įstatymo nuostatų įsigaliojimo pradėtos pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis atliekamas, sukurtose dinaminėse pirkimo sistemose pirkimo procedūros atliekamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nuostatas.
- 
 
 
 
@@ -767,4 +779,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_3fd48810b6f44058ac6cc8db33ba98bd_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 31, 34, 37, 39, 48, 49, 63, 66, 68, 90, 94, 99, 101, 102, 114 straipsnių pakeitimo ir Įstatymo papildymo 90-1 straipsniu įstatymo Nr. XIV-546 2, 3, 12, 13, 19 straipsnių pakeitimo, Įstatymo papildymo 13-1 straipsniu ir 11, 18 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+ 
+part_0b37153198af4e718b78c2eb277e28a5_end
