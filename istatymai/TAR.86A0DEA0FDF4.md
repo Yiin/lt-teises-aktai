@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/86a0dea0fdf411ec8fa7d02a65c371ad"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 3, 5, 6, 11, 13, 14, 20-1, 20-2, 22, 30, 32, 48, 49, 51 straipsnių pakeitimo ir Įstatymo papildymo 13-1, 20-3 straipsniais įstatymas
 
+Suvestinė redakcija nuo 2022-12-30 iki 2023-12-29
+ 
+Įstatymas paskelbtas: TAR 2022-07-07, i. k. 2022-14906
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO NR. XI-1375 2, 3, 5, 6, 11, 13, 14, 201, 202, 22, 30, 32, 48, 49, 51 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 131, 203 STRAIPSNIAIS
 ĮSTATYMAS
@@ -21,9 +28,6 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO NR. XI-1375 2, 3, 5, 6, 11, 1
 Vilnius
  
  
-
- 
-
  
  
 
@@ -217,12 +221,12 @@ Pripažinti netekusiu galios 11 straipsnio 7 punktą.
 7 straipsnis. Įstatymo papildymas 131 straipsniu
 
 
-Papildyti Įstatymą 131 straipsniu: 
+Papildyti Įstatymą 131 straipsniu:
 
 
 
 
-„131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka 
+„131 straipsnis. Atsinaujinančių išteklių elektros energijos gamybos įmoka
 
 
 1. Atsinaujinančių išteklių elektros energijos gamybos įmoką (toliau – gamybos įmoka) moka gamintojai, elektros energiją gaminantys saulės šviesos energijos, vėjo ir (ar) biodujų elektrinėse, išskyrus šio straipsnio 2 dalyje nurodytus gamintojus.
@@ -263,7 +267,7 @@ Papildyti Įstatymą 131 straipsniu:
 
 
 
-7) gamintojai, kurie laimėjo šio įstatymo 20 straipsnio 4 dalyje nurodytą skatinimo kvotų paskirstymo aukcioną arba šio įstatymo 22 straipsnio 3 dalyje nurodytą konkursą;
+7) gamintojai, kurie laimėjo šio įstatymo 20 straipsnio 4 dalyje nurodytą skatinimo kvotų paskirstymo aukcioną arba šio įstatymo 22 ir (ar) 221 straipsniuose nurodytą (nurodytus) konkursą (konkursus);
 
 
 
@@ -280,7 +284,7 @@ Papildyti Įstatymą 131 straipsniu:
 
 
 
-3. Už praėjusius kalendorinius metus mokama gamybos įmoka apskaičiuojama dauginant praėjusiais kalendoriniais metais pagamintą ir į elektros tinklus patiektą elektros energijos kiekį iš 0,0013 euro už 1 kWh. 
+3. Už praėjusius kalendorinius metus mokama gamybos įmoka apskaičiuojama dauginant praėjusiais kalendoriniais metais pagamintą ir į elektros tinklus patiektą elektros energijos kiekį iš 0,0013 euro už 1 kWh.
 
 
 
@@ -325,12 +329,12 @@ Papildyti Įstatymą 131 straipsniu:
 
 
 
-7. Gamybos įmoką už praėjusius kalendorinius metus elektros energijos gamintojai, nurodyti šio straipsnio 1 dalyje, įmokos administratoriui sumoka iki einamųjų metų sausio 31 dienos. 
+7. Gamybos įmoką už praėjusius kalendorinius metus elektros energijos gamintojai, nurodyti šio straipsnio 1 dalyje, įmokos administratoriui sumoka iki einamųjų metų sausio 31 dienos.
 
 
 
 
-8. Surinktas ir (ar) praėjusiais laikotarpiais nepanaudotas gamybos įmokos lėšas įmokos administratorius Vyriausybės nustatyta tvarka ir sąlygomis pagal su bendruomenine organizacija, vykdančia šio straipsnio 9 dalyje nurodytus projektus, pasirašytą finansinės paramos sutartį išmoka šioms bendruomeninėms organizacijoms. 
+8. Surinktas ir (ar) praėjusiais laikotarpiais nepanaudotas gamybos įmokos lėšas įmokos administratorius Vyriausybės nustatyta tvarka ir sąlygomis pagal su bendruomenine organizacija, vykdančia šio straipsnio 9 dalyje nurodytus projektus, pasirašytą finansinės paramos sutartį išmoka šioms bendruomeninėms organizacijoms.
 
 
 
@@ -338,7 +342,7 @@ Papildyti Įstatymą 131 straipsniu:
 9. Projektai, kuriems skiriamos gamybos įmokos lėšos, atrenkami įmokos administratoriaus vadovaujantis Vyriausybės nustatyta tvarka ir turi atitikti šias sąlygas:
 
 
-1) projektai vykdomi toje seniūnijoje arba savivaldybėje, kurioje eksploatuojamos šio straipsnio 1 dalyje nurodytos elektrinės, arba kitoje seniūnijoje arba savivaldybėje, esančioje ne didesniu negu 5 km atstumu nuo šio straipsnio 1 dalyje nurodytų elektrinių; 
+1) projektai vykdomi toje seniūnijoje arba savivaldybėje, kurioje eksploatuojamos šio straipsnio 1 dalyje nurodytos elektrinės, arba kitoje seniūnijoje arba savivaldybėje, esančioje ne didesniu negu 5 km atstumu nuo šio straipsnio 1 dalyje nurodytų elektrinių;
 
 
 
@@ -358,7 +362,7 @@ Papildyti Įstatymą 131 straipsniu:
 
 
 
-5) projektai turi atitikti kitas finansinės paramos sutartyje nurodytas sąlygas, būtinas projekto įgyvendinimui užtikrinti. 
+5) projektai turi atitikti kitas finansinės paramos sutartyje nurodytas sąlygas, būtinas projekto įgyvendinimui užtikrinti.
 
 
 
@@ -386,15 +390,17 @@ Papildyti Įstatymą 131 straipsniu:
 
 
 14. Įmokos administratorius privalo atskirai tvarkyti su gamybos įmokos lėšų administravimo veikla susijusią apskaitą ir Vyriausybės nustatyta tvarka kiekvienais metais viešajai įstaigai Lietuvos energetikos agentūrai teikti gamybos įmokos lėšų panaudojimo ataskaitas.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1699, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27272
  
-
-
-
-
-
-
-
-
 
 
 
@@ -1326,4 +1332,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_e5a5a4f4b0c342708c8e4dcadc6bbfd6_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1699, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27272
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 3, 5, 6, 11, 13, 14, 20-1, 20-2, 22, 30, 32, 48, 49, 51 straipsnių pakeitimo ir Įstatymo papildymo 13-1, 20-3 straipsniais įstatymo Nr. XIV-1169 7 straipsnio pakeitimo įstatymas
