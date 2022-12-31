@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-30
+Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
  
@@ -723,14 +723,6 @@ Daiktinių teisių į nekilnojamąjį daiktą atsiradimą, juridinius faktus pat
 
 
 
-5. Kai daiktinė teisė į nekilnojamąjį daiktą, šios teisės suvaržymai, juridiniai faktai atsiranda nuo notarine forma patvirtinto sandorio sudarymo arba išduodamo paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo, prašymas įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus ir dokumentus, patvirtinančius daiktinių teisių, šių teisių suvaržymų, juridinių faktų atsiradimą, teritoriniam registratoriui gali būti perduodamas tik iš notaro biuro nuotolinio ryšio priemonėmis (toliau – per notarą). Asmens prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus notaras teritoriniam registratoriui Centrinio registratoriaus nustatyta tvarka perduoda nedelsdamas, bet ne vėliau kaip per 24 valandas nuo sandorio patvirtinimo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo. 
-Papildyta straipsnio dalimi:
-Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
- 
-
-
-
-
 
 
 24 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus registravimas
@@ -1178,28 +1170,28 @@ Atlyginimo už daiktinių teisių į nekilnojamąjį daiktą, šių teisių suva
 
 
 
-42 straipsnis. Nekilnojamojo turto registro duomenų teikimas ir naudojimas
+42 straipsnis. Nekilnojamojo turto registro duomenų, Nekilnojamojo turto registrui pateiktų dokumentų kopijų ir Nekilnojamojo turto registro informacijos teikimas
 
 
-1. Nekilnojamojo turto registro duomenys apie nekilnojamąjį daiktą, daiktines teises ir šių teisių turėtojus, daiktinių teisių suvaržymus, juridinius faktus ir kitas žymas, įregistruotus šiame registre, ir su šiais suvaržymais, juridiniais faktais ir žymomis susijusių asmenų duomenys yra vieši, išskyrus šio ir kitų įstatymų nustatytus apribojimus.
-
-
-
-
-2. Nekilnojamojo turto registro archyviniai duomenys apie nekilnojamąjį daiktą, daiktines teises ir šių teisių turėtojus, daiktinių teisių suvaržymus, juridinius faktus ir kitas žymas, įregistruotus šiame registre, ir su šiais suvaržymais, juridiniais faktais ir žymomis susijusių asmenų duomenys teikiami tik:
-
-
-1) jo savininkams;
+1. Nekilnojamojo turto registro duomenys, Nekilnojamojo turto registrui pateiktų dokumentų kopijos, informacija apie Nekilnojamojo turto registro objektus ir su šiais Nekilnojamojo turto registro objektais susijusių asmenų duomenys teikiami šiame įstatyme nustatytomis sąlygomis ir Nekilnojamojo turto registro nuostatuose nustatyta tvarka.
 
 
 
 
-2) daiktinių teisių turėtojams;
+2. Nekilnojamojo turto registro archyviniai duomenys ir Nekilnojamojo turto registro informacija teikiami tik:
+
+
+1) nekilnojamojo daikto savininkams;
 
 
 
 
-3) teismams ir teisėtvarkos institucijoms – valstybės pavestoms funkcijoms atlikti;
+2) kitų daiktinių teisių turėtojams;
+
+
+
+
+3) teismams ir teisėtvarkos institucijoms – įstatymuose nustatytoms funkcijoms atlikti;
 
 
 
@@ -1209,70 +1201,77 @@ Atlyginimo už daiktinių teisių į nekilnojamąjį daiktą, šių teisių suva
 
 
 
-5) valstybės institucijoms ir kitiems asmenims – valstybės pavestoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti;
+5) valstybės institucijoms ir kitiems asmenims – įstatymuose arba Vyriausybės nutarimuose nustatytoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti;
 
 
 
 
 6) žurnalistams – Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
-Papildyta straipsnio punktu:
-Nr. XIV-248, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08859
- 
 
 
 
 
 
 
-3. Duomenys apie visą asmens nekilnojamąjį turtą, daiktines teises į jį ir šių teisių turėtojus, daiktinių teisių suvaržymus, juridinius faktus ir kitas žymas, įregistruotus šiame registre, ir su šiais suvaržymais, juridiniais faktais ir žymomis susijusių asmenų duomenys teikiami tik:
+3. Visi aktualūs Nekilnojamojo turto registro duomenys ir Nekilnojamojo turto registro informacija apie asmeniui priklausančius Nekilnojamojo turto registro objektus (visą nekilnojamąjį turtą, daiktines teises į jį ir juridinius faktus), įregistruotus Nekilnojamojo turto registre, ir su šiais objektais susijusių asmenų duomenys teikiami tik:
 
 
-1) jo savininkams;
-
-
-
-
-2) teismams ir teisėtvarkos institucijoms – valstybės pavestoms funkcijoms atlikti;
+1) nekilnojamojo daikto savininkams;
 
 
 
 
-3) juridiniams asmenims, kurie užsiima draudimo verslu, kai duomenys yra būtini atitinkamoms draudimo paslaugoms besikreipiantiems asmenims teikti;
+2) asmenims, turintiems teisę paveldėti mirusio asmens daiktines teises į nekilnojamąjį daiktą;
 
 
 
 
-4) juridiniams asmenims, kurie teikia finansines paslaugas, susijusias su rizikos prisiėmimu ar kreditingumo vertinimu, kai duomenys yra būtini atitinkamoms finansinėms paslaugoms besikreipiantiems asmenims teikti;
+3) teismams ir teisėtvarkos institucijoms – įstatymuose nustatytoms funkcijoms atlikti;
 
 
 
 
-5) savivaldybėms – savivaldybių funkcijoms atlikti;
+4) juridiniams asmenims, kurie verčiasi draudimo verslu, kai duomenys yra būtini atitinkamoms draudimo paslaugoms besikreipiantiems asmenims teikti;
 
 
 
 
-6) valstybės institucijoms ir kitiems asmenims – valstybės pavestoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti.
+5) juridiniams asmenims, kurie teikia licencijuojamas finansines paslaugas, susijusias su rizikos prisiėmimu ar kreditingumo vertinimu, kai duomenys yra būtini atitinkamoms finansinėms paslaugoms besikreipiantiems asmenims teikti;
+
+
+
+
+6) savivaldybėms – savivaldybių funkcijoms atlikti;
+
+
+
+
+7) valstybės institucijoms ir kitiems asmenims – įstatymuose arba Vyriausybės nutarimuose nustatytoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti;
+
+
+
+
+8) žurnalistams – Visuomenės informavimo įstatymo nustatytomis sąlygomis.
 
 
 
 
 
 
-4. Nekilnojamojo turto registro duomenys teikiami šio įstatymo ir Nekilnojamojo turto registro nuostatų nustatyta tvarka pagal duomenų teikimo sutartis arba pagal asmenų prašymus. Duomenys, identifikuojantys daiktinių teisių turėtojus ir kitus su daiktinių teisių suvaržymais, juridiniais faktais ir žymomis susijusius fizinius asmenis, teikiami vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+4. Nekilnojamojo turto registro duomenys, Nekilnojamojo turto registrui pateiktų dokumentų kopijos ir Nekilnojamojo turto registro informacija teikiami asmenims, turintiems teisinį duomenų gavimo pagrindą ir nurodžiusiems apibrėžtą ir teisėtą duomenų naudojimo tikslą, išskyrus atvejus, kai asmuo, kurio duomenys įrašyti Nekilnojamojo turto registre, susipažįsta su Nekilnojamojo turto registre tvarkomais savo, savo nepilnamečių vaikų ar įvaikių duomenimis, taip pat kai globėjai ar rūpintojai susipažįsta su Nekilnojamojo turto registre tvarkomais savo globotinių ar rūpintinių duomenimis arba kai asmuo, Nekilnojamojo turto registro tvarkytojo interneto svetainėje nurodęs nekilnojamojo daikto adresą, įgyvendina teisę neatlygintinai sužinoti tą nekilnojamąjį daiktą identifikuojančius duomenis, nurodytus Nekilnojamojo turto registro nuostatuose. Nekilnojamojo turto registre tvarkomi asmens duomenys, Nekilnojamojo turto registrui pateiktų dokumentų kopijos ir Nekilnojamojo turto registro informacija teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
 
 
 
 
-5. Dokumentų, kuriais remiantis nekilnojamojo turto registre įregistruotas nekilnojamasis daiktas, daiktinės teisės į jį, šių teisių suvaržymai, juridiniai faktai ar kitos žymos, kopijos motyvuotu prašymu teikiamos tik:
+5. Dokumentų, kurių pagrindu registruoti Nekilnojamojo turto registro objektai, kopijos teikiamos tik:
 
 
-1) jo savininkams;
+1) nekilnojamojo daikto savininkams;
 
 
 
 
-2) daiktinių teisių turėtojams;
+2) kitų daiktinių teisių turėtojams ar su konkrečiu juridiniu faktu susijusiems asmenims;
 
 
 
@@ -1287,7 +1286,7 @@ Nr. XIV-248, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08859
 
 
 
-5) advokatams (advokatų profesinėms bendrijoms) ir valstybės garantuojamos teisinės pagalbos tarnyboms;
+5) advokatams (advokatų profesinėms bendrijoms) ir valstybės garantuojamos teisinės pagalbos tarnybai;
 
 
 
@@ -1307,9 +1306,20 @@ Nr. XIV-248, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08859
 
 
 
+
+
+6. Asmenims, suinteresuotiems ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos, vykdymu, teikiami šių jų veiklai nustatytų teritorijų, į jas patenkančių kitų Nekilnojamojo turto registro objektų ir su jais susijusių asmenų aktualūs ir archyviniai Nekilnojamojo turto registro duomenys su šiomis teritorijomis ir į jas patenkančiais kitais Nekilnojamojo turto registro objektais susiję Nekilnojamojo turto registro duomenys, Nekilnojamojo turto registro informacija ir dokumentų, kurių pagrindu registruoti į šias teritorijas patenkantys Nekilnojamojo turto registro objektai, kopijos.
+
+
+
+
+7. Nekilnojamojo turto registro duomenys, Nekilnojamojo turto registrui pateiktų dokumentų kopijos ir Nekilnojamojo turto registro informacija teikiami už atlyginimą, išskyrus Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme numatytus atvejus.
+
+
 Straipsnio pakeitimai:
 2011-06-09, Žin., 2011, Nr. 156-7405 (2011-12-22), i. k. 1111000NUTARG117405            
 Nr. XI-1891, 2011-12-22, Žin., 2012, Nr. 6-189 (2012-01-10), i. k. 1111010ISTA0XI-1891
+Nr. XIV-1770, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27586
  
 
 
@@ -1448,3 +1458,13 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 9, 21 ir 26 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-667, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24270
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIII-2184 8 ir 12 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1770, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27586
+Lietuvos Respublikos Nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymas
