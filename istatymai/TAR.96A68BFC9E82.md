@@ -18,10 +18,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-12-24 iki 2022-12-30
+Suvestinė redakcija nuo 2022-12-31 iki 2023-11-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -2153,7 +2152,10 @@ Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 
 
 VIENUOLIKTASIS SKIRSNIS
-KLAUSIMŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS NARYSTE  EUROPOS SĄJUNGOJE, SPRENDIMAS
+KLAUSIMŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS NARYSTE EUROPOS SĄJUNGOJE IR KITAIS LIETUVOS RESPUBLIKOS TARPTAUTINIAIS ĮSIPAREIGOJIMAIS, SPRENDIMAS 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
  
 
 
@@ -2254,7 +2256,10 @@ Vyriausybė pagal savo kompetenciją yra atsakinga už Europos Sąjungos teisės
 
 
 
-52 straipsnis. Pareigūnų ir patariamųjų institucijų narių, kuriuos į pareigas Europos Sąjungos institucijose teikia Lietuvos Respublika, kandidatūrų siūlymas
+52 straipsnis. Pareigūnų ir patariamųjų institucijų narių, kuriuos į pareigas Europos Sąjungos institucijose ir Europos Žmogaus Teisių Teisme teikia Lietuvos Respublika, kandidatūrų siūlymas
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
+ 
 
 
 1. Vyriausybė siūlo kandidatus į aukščiausius Europos Sąjungos pareigūnus. Jų skyrimą numato sutartys, kuriomis yra grindžiama Europos Sąjunga.
@@ -2267,7 +2272,10 @@ Vyriausybė pagal savo kompetenciją yra atsakinga už Europos Sąjungos teisės
 
 
 
-3. Vyriausybė, Respublikos Prezidentui pritarus, siūlydama kandidatus į Europos Bendrijų Teisingumo Teismo ir Pirmosios instancijos teismo teisėjus Seimo statuto nustatyta tvarka konsultuojasi su Seimu.
+3. Vyriausybė, Respublikos Prezidentui pritarus, siūlydama kandidatus į Europos Sąjungos Teisingumo Teismo teisėjus ir generalinius advokatus bei Europos Žmogaus Teisių Teismo teisėjus (toliau – kandidatai) Seimo statuto nustatyta tvarka konsultuojasi su Seimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
+ 
 
 
 
@@ -2282,6 +2290,34 @@ Vyriausybė pagal savo kompetenciją yra atsakinga už Europos Sąjungos teisės
 
 Straipsnio pakeitimai:
 Nr. X-1726, 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
+ 
+
+
+
+
+53 straipsnis. Kandidatų atranka
+
+
+1. Kai Lietuvos Respublika turi pasiūlyti kandidatus, juos Vyriausybės nustatyta atrankos tvarka atrenka Ministro Pirmininko potvarkiu konkrečiai atrankai sudaryta darbo grupė. Apie kandidatų atranką skelbiama viešai. 
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytą darbo grupę sudaro 7 nariai: Konstitucinio Teismo deleguotas teisėjas (darbo grupės pirmininkas), Lietuvos Aukščiausiojo Teismo deleguotas teisėjas, Lietuvos vyriausiojo administracinio teismo deleguotas teisėjas, Teisėjų tarybos deleguotas teisėjas, Lietuvos advokatūros Advokatų tarybos deleguotas atstovas, Lietuvos Respublikos Seimo kontrolierių įstaigos (nacionalinės žmogaus teisių institucijos) deleguotas atstovas, Lietuvos teisininkų draugijos deleguotas atstovas. 
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodyta darbo grupė, atlikusi atranką, informuoja teisingumo ministrą apie kandidatus, atitinkančius Europos Sąjungos Teisingumo Teismo teisėjo ar generalinio advokato ir Europos Žmogaus Teisių Teismo teisėjo pareigoms eiti keliamus reikalavimus. Teisingumo ministras informuoja Ministrą Pirmininką apie atrinktus kandidatus. Ministras Pirmininkas, įvertinęs kandidatūras, Vyriausybei teikia motyvuotą siūlymą dėl konkrečių kandidatų.
+
+
+
+
+4. Vyriausybė, įgyvendindama Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 26 straipsnį, nustato kandidatų į Europos Žmogaus Teisių Teismo ad hoc teisėjų sąrašą atrankos tvarką.
+
+
+Papildyta straipsniu:
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
  
 
 
@@ -2588,3 +2624,8 @@ Lietuvos Respublikos vyriausybės įstatymo Nr. I-464 22 ir 30-1 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 23, 37 ir 44-1 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 vienuoliktojo skirsnio pavadinimo, 52 straipsnio pakeitimo ir Įstatymo papildymo 53 straipsniu įstatymas
