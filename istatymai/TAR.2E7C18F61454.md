@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2022-12-30
+Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -3421,6 +3421,39 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
+951 straipsnis. Piktnaudžiavimas procesinėmis teisėmis siekiant pakenkti atsakovo vykdomai veiklai
+
+
+1. Jeigu atsakovas mano, kad ieškovas nesąžiningai pareiškė nepagrįstą ieškinį siekdamas pakenkti atsakovo vykdomai visuomenės informavimo ar kitokiai su viešojo intereso tenkinimu ar gynimu susijusiai veiklai ar atgrasyti atsakovą nuo šios veiklos, jis turi teisę atsiliepime į ieškinį pateikti teismui prašymą taikyti šio straipsnio 2 dalyje nurodytą procedūrą.
+
+
+
+
+2. Gavęs šio straipsnio 1 dalyje nurodytą atsakovo prašymą ir preliminariai įsitikinęs jo pagrįstumu, teismas ne vėliau kaip per tris darbo dienas nuo prašymo gavimo dienos persiunčia jo kopiją ieškovui. Kartu su prašymo kopija teismas ieškovui nusiunčia pranešimą, kuriuo įpareigoja jį ne vėliau kaip per keturiolika dienų raštu pateikti atsikirtimus į atsakovo prašymą, tikėtinai pagrindžiant savo ieškinio reikalavimą ir pateikiant įrodymus, patvirtinančius ieškovo nurodomas aplinkybes, jei tokie įrodymai nebuvo pateikti su ieškiniu, taip pat informuoja apie atsikirtimų nepateikimo pasekmes.
+
+
+
+
+3. Jeigu ieškovas per šio straipsnio 2 dalyje nustatytą terminą nepateikia atsikirtimų į atsakovo prašymą arba nepateikia įrodymų, patvirtinančių ieškovo nurodomas aplinkybes, jei tokie įrodymai nebuvo pateikti su ieškiniu, arba teismas nustato, kad ieškovas nesąžiningai pareiškė nepagrįstą ieškinį siekdamas pakenkti atsakovo vykdomai visuomenės informavimo ar kitokiai su viešojo intereso tenkinimu ar gynimu susijusiai veiklai ar atgrasyti atsakovą nuo šios veiklos, ieškinys paliekamas nenagrinėtas. Teismas, vertindamas, ar ieškovas nesąžiningai pareiškė šioje dalyje nurodytą nepagrįstą ieškinį, atsižvelgia į šią teismo byloje turimą informaciją: į ieškinyje pareikšto reikalavimo ar jo dalies neproporcingumą, perteklinį pobūdį, į tai, kad ieškovas dėl panašių reikalavimų yra inicijavęs daugiau bylų, į tai, kad yra požymių, kad ieškovas baugina atsakovą ar jam grasina, į kitas reikšmingas aplinkybes. Ieškovo pateiktus atsikirtimus teismas turi įvertinti ir priimti nutartį ne vėliau kaip per trisdešimt dienų nuo atsikirtimų gavimo teisme dienos arba, kai ieškovas nepateikia atsikirtimų, – nuo šio straipsnio 2 dalyje nurodyto termino ieškovo atsikirtimams pateikti pabaigos dienos. Šioje dalyje nurodytą nutartį teismas priima rašytinio proceso tvarka.
+
+
+
+
+4. Jeigu teismas, gavęs šio straipsnio 1 dalyje nurodytą atsakovo prašymą ar įvertinęs ieškovo pateiktus atsikirtimus, priima nutartį atmesti atsakovo prašymą kaip nepagrįstą, ši teismo nutartis gali būti skundžiama atskiruoju skundu.
+
+
+
+
+5. Pritaikius šio straipsnio 2 dalyje nurodytą procedūrą, teismui įstatymuose nustatyti bylos išnagrinėjimo terminai pradedami skaičiuoti nuo šio straipsnio 4 dalyje nurodytos teismo nutarties priėmimo dienos.
+
+
+Papildyta straipsniu:
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
+ 
+
+
+
+
 96 straipsnis. Bylinėjimosi išlaidų atlyginimas valstybei
 
 
@@ -4805,6 +4838,14 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 6) atsakovo nuomonė dėl taikos sutarties sudarymo galimybių, kai atsakovas pageidauja ją pateikti, ir dėl ketinimo bei galimybių ginčą spręsti teisminės mediacijos būdu.
 Straipsnio punkto pakeitimai:
 Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
+
+
+
+
+7) atsakovo prašymas taikyti šio Kodekso 951 straipsnio 2 dalyje nurodytą procedūrą, kai atsakovas pageidauja, kad ji būtų taikoma, ir aplinkybės, pagrindžiančios, kodėl atsakovas mano, kad ieškovas siekia pakenkti atsakovo vykdomai visuomenės informavimo ar kitokiai su viešojo intereso tenkinimu ar gynimu susijusiai veiklai ar atgrasyti atsakovą nuo šios veiklos, šias aplinkybes pagrindžiantys įrodymai.
+Papildyta straipsnio punktu:
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
  
 
 
@@ -9422,7 +9463,18 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-12) kitais šio Kodekso ir Civilinio kodekso numatytais atvejais.
+12) šio Kodekso 951 straipsnio 3 dalyje nurodytu atveju; 
+Papildyta straipsnio punktu:
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
+ 
+
+
+
+
+13) kitais šio Kodekso ir Civilinio kodekso numatytais atvejais.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
+ 
 
 
 
@@ -9448,7 +9500,10 @@ Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 297 straipsnis. Pareiškimo palikimo nenagrinėto tvarka ir pasekmės
 
 
-1. Tais atvejais, kada pareiškimas paliekamas nenagrinėtas, byla užbaigiama teismo nutartimi. Šioje nutartyje teismas privalo nurodyti, kaip pašalinti aplinkybes, išvardytas šio Kodekso 296 straipsnio 1 dalies 1, 2, 3, 7, 8 ir 11 punktuose, kliudančias nagrinėti bylą.
+1. Tais atvejais, kai pareiškimas paliekamas nenagrinėtas, byla užbaigiama teismo nutartimi. Šioje nutartyje teismas privalo nurodyti, kaip pašalinti aplinkybes, išvardytas šio Kodekso 296 straipsnio 1 dalies 1, 2, 3, 7, 8, 11 ir 12 punktuose, kliudančias nagrinėti bylą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
+ 
 
 
 
@@ -25628,3 +25683,23 @@ Lietuvos Respublikos civilinio proceso kodekso 746 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1353, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15449
 Lietuvos Respublikos civilinio proceso kodekso 71 ir 482 straipsnio pakeitimo įstatymas
+ 
+57.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1202, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15564
+Lietuvos Respublikos civilinio proceso kodekso 125, 126 ir 739 straipsnių pakeitimo įstatymas
+ 
+58.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+Lietuvos Respublikos civilinio proceso kodekso 27, 35, 80, 82, 86, 115, 162-2, 284, 350, 515, 577, 582 ir 608 straipsnių pakeitimo įstatymas
+ 
+59.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+Lietuvos Respublikos civilinio proceso kodekso 62-1, 111, 134, 154, 175-2, 186, 192, 217 ir 240 straipsnių pakeitimo įstatymas
+ 
+60.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
+Lietuvos Respublikos civilinio proceso kodekso 142, 296, 297 straipsnių pakeitimo ir Kodekso papildymo 95-1 straipsniu įstatymas
