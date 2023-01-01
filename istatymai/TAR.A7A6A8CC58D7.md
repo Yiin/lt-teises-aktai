@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
  
@@ -106,9 +106,10 @@ Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
  
 
 
-1. Organizuojant loterijas, loterijų ir lošimų mokesčio bazei taikomas 13 procentų mokesčio tarifas.
+1. Organizuojant loterijas, loterijų ir lošimų mokesčio bazei taikomas 18 procentų mokesčio tarifas. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-602, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23523
+Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
  
 
 
