@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2022-06-29 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
  
@@ -144,7 +144,9 @@ Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
 
 
 
-16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas).
+16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme ir Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1648, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26596
  
 
 
@@ -757,12 +759,18 @@ EKSTREMALIOJI ENERGETIKOS PADĖTIS
 17 straipsnis. Ekstremalioji energetikos padėtis
 
 
-1. Ekstremaliosios energetikos padėties atveju Vyriausybė, Energetikos ministerija ir Vyriausybės ekstremalių situacijų komisija (toliau – Ekstremalių situacijų komisija) imasi Lietuvos Respublikos civilinės saugos įstatyme, Energetikos įstatyme ir šiame įstatyme nustatytų veiksmų.
+1. Ekstremaliosios energetikos padėties atveju Vyriausybė, Energetikos ministerija, Valstybinė energetikos reguliavimo taryba, savivaldybių administracijos ir Nacionalinis krizių valdymo centras imasi Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Energetikos įstatyme, šiame įstatyme ir kituose ekstremaliųjų situacijų valdymą reglamentuojančiuose teisės aktuose nustatytų veiksmų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1648, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26596
+ 
 
 
 
 
-2. Ekstremaliosios energetikos padėties naftos sektoriuje atveju Vyriausybė, Energetikos ministerija ir Ekstremalių situacijų komisija, siekdamos greitai, veiksmingai ir skaidriai leisti naudoti atsargas, laikantis naftos produktų tiekimo ir vartojimo apribojimų ekstremaliosios energetikos padėties laikotarpiu, imasi Vartotojų aprūpinimo energija ir (ar) energijos ištekliais esant ekstremaliai energetikos padėčiai tvarkoje nustatytų priemonių.
+2. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1648, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26596
+ 
 
 
 
@@ -777,7 +785,10 @@ EKSTREMALIOJI ENERGETIKOS PADĖTIS
 
 
 
-5. Esant ekstremaliajai energetikos padėčiai, naftos produktų tiekimo ir vartojimo apribojimai turi būti mažiausiai taikomi įmonėms, kurios iš naftos produktų gamina elektros energiją ir (ar) šilumos energiją, strateginę reikšmę nacionaliniam saugumui turintiems objektams, valstybės institucijoms, nurodytoms Vyriausybei ar jos įgaliotai institucijai pasitarus su Ekstremalių situacijų komisija, taip pat įmonėms, kurios gamina, išgauna, importuoja, krauna arba transportuoja naftos produktus ar naftą vidaus vartojimui. Vadovaujantis šio įstatymo 18 straipsnyje nurodytu Naftos produktų tiekimo ir vartojimo apribojimų taikymo planu ir užtikrinant dienos vidaus suvartojimo poreikio tenkinimą, šio įstatymo 10 straipsnio 4 dalyje nustatyta tvarka į Lietuvos Respubliką privalo būti įvežtos kitose valstybėse narėse pagal šį įstatymą laikomos atsargos. 
+5. Esant ekstremaliajai energetikos padėčiai, naftos produktų tiekimo ir vartojimo apribojimai turi būti mažiausiai taikomi įmonėms, kurios iš naftos produktų gamina elektros energiją ir (ar) šilumos energiją, strateginę reikšmę nacionaliniam saugumui turintiems objektams, Nacionalinio krizių valdymo centro nurodytoms valstybės institucijoms, taip pat įmonėms, kurios gamina, išgauna, importuoja, krauna arba transportuoja naftos produktus ar naftą vidaus vartojimui. Vadovaujantis šio įstatymo 18 straipsnyje nurodytu Naftos produktų tiekimo ir vartojimo apribojimų taikymo planu ir užtikrinant dienos vidaus suvartojimo poreikio tenkinimą, šio įstatymo 10 straipsnio 4 dalyje nustatyta tvarka į Lietuvos Respubliką privalo būti įvežtos kitose valstybėse narėse pagal šį įstatymą laikomos atsargos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1648, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26596
+ 
 
 
 
@@ -1149,3 +1160,8 @@ Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1139, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13823
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 10 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1648, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26596
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 2 ir 17 straipsnių pakeitimo įstatymas
