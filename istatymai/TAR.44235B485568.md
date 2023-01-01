@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2022-12-22 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
- 
-TAR pastaba. 19-2 straipsnio 1 dalies nuostata dėl dalinio kompensavimo dydžio apskaičiavimo elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, taikoma iki 2022 m. gruodžio 31 d. suvartotam elektros energijos kiekiui, jeigu pirmiau nurodyti nepriklausomo elektros energijos tiekėjo veiksmai ar neveikimas atlikti 2022 metais.  19-2 straipsnio 1 dalies nuostata dėl dalinio kompensavimo dydžio apskaičiavimo elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, taikoma iki 2023 m. balandžio 30 d. suvartotam elektros energijos kiekiui, jeigu pirmiau nurodyti nepriklausomo elektros energijos tiekėjo veiksmai ar neveikimas atlikti nuo 2023 m. sausio 1 d. iki 2023 m. balandžio 30 d. 19-2 straipsnio 1 dalies nuostata dėl dalinio kompensavimo dydžio apskaičiavimo elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, netaikoma, jeigu nepriklausomas elektros energijos tiekėjas turi galiojantį prievolių įvykdymo užtikrinimą.  19-2 straipsnio 1 dalies nuostata dėl dalinio kompensavimo dydžio apskaičiavimo elektros energijos buitiniams vartotojams, kuriems užtikrinamas elektros energijos garantinis tiekimas dėl to, kad jų pasirinktas nepriklausomas elektros energijos tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su elektros energijos vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, netaikoma elektros energijos buitiniams vartotojams, kurie dėl šioje dalyje nurodytų jų pasirinkto nepriklausomo elektros energijos tiekėjo veiksmų ar neveikimo pasirinko kitą nepriklausomą elektros energijos tiekėją ir vėliau su juo nutraukė sutartį, norėdami, kad jiems būtų užtikrinamas elektros energijos garantinis tiekimas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
-Lietuvos Respublikos energetikos įstatymo Nr. IX-884 19-2 ir 21 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2012-01-01:
 Nr. XI-1888, 2011-12-22, Žin., 2011, Nr. 160-7576 (2011-12-28)
@@ -100,7 +95,10 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-5. Ekstremalioji energetikos padėtis – dėl ekstremaliojo įvykio energetikos sektoriuje susidariusi padėtis, kai yra sutrikęs normalus energijos išteklių ar energijos tiekimas energetikos įmonėms ir (ar) vartotojams ir šis tiekimas trukdomas tiek, kad energetikos įmonės šių sutrikimų nespėja laiku prognozuoti ir valdyti ūkinės veiklos metodais, ir Vyriausybė, jos įgaliota valstybės institucija ir (ar) savivaldybės administracijos direktorius pagal kompetenciją turi reguliuoti energijos išteklių ar energijos tiekimą energetikos įmonėms ir (ar) vartotojams.
+5. Ekstremalioji energetikos padėtis – dėl ekstremaliojo įvykio energetikos sektoriuje susidariusi ekstremalioji situacija, kai yra sutrikęs normalus energijos išteklių ar energijos tiekimas energetikos įmonėms ir (ar) vartotojams ir šis tiekimas trukdomas tiek, kad energetikos įmonės šių sutrikimų nespėja laiku prognozuoti ir valdyti ūkinės veiklos metodais, ir Vyriausybė, jos įgaliota valstybės institucija ir (ar) savivaldybės administracijos direktorius pagal kompetenciją turi reguliuoti energijos išteklių ar energijos tiekimą energetikos įmonėms ir (ar) vartotojams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
+ 
 
 
 
@@ -439,9 +437,11 @@ Nr. XIII-1625, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18858
 
 
 
-45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos buhalterinės apskaitos įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme ir Europos Sąjungos reglamentuose, reglamentuojančiuose energetikos sektorių veiklą. 
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos buhalterinės apskaitos įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės kontrolės įstatyme ir Europos Sąjungos reglamentuose, reglamentuojančiuose energetikos sektorių veiklą. 
 Papildyta straipsnio dalimi:
 Nr. XIV-630, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24222
+Straipsnio dalies pakeitimai:
+Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
  
 
 
@@ -666,7 +666,10 @@ Nr. XIII-3098, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15302
 
 
 
-3) skelbia valstybės lygio ekstremaliąją energetikos padėtį;
+3) Neteko galios nuo 2023-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
+ 
 
 
 
@@ -874,7 +877,10 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 
 
-17) kartu su Lietuvos Respublikos ūkio ministerija nustato šio įstatymo 27 straipsnyje nurodytų įrenginių efektyvumo reikalavimus ir efektyvumo kontrolės tvarką;
+17) kartu su Lietuvos Respublikos ekonomikos ir inovacijų ministerija nustato šio įstatymo 27 straipsnyje nurodytų įrenginių efektyvumo reikalavimus ir efektyvumo kontrolės tvarką; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
+ 
 
 
 
@@ -1512,12 +1518,18 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-3) skelbia ir atšaukia savivaldybės lygio ekstremaliąją energetikos padėtį;
+3) Neteko galios nuo 2023-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
+ 
 
 
 
 
-4) paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendina Vyriausybės ar jos įgaliotos institucijos patvirtintą vartotojų aprūpinimo energija ir (ar) energijos ištekliais planą, užtikrina kitų Vyriausybės sprendimų įgyvendinimą;
+4) paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendina Vyriausybės ar jos įgaliotos institucijos patvirtintame vartotojų aprūpinimo energija ir (ar) energijos ištekliais tvarkos apraše nustatytas funkcijas ir atlieka kituose ekstremaliųjų situacijų valdymą reglamentuojančiuose teisės aktuose nustatytus veiksmus, užtikrina kitų Vyriausybės ar jos įgaliotos institucijos sprendimų įgyvendinimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
+ 
 
 
 
@@ -3684,71 +3696,45 @@ EKSTREMALIOJI ENERGETIKOS PADĖTIS
  
 
 
-33 straipsnis. Ekstremalioji energetikos padėtis
+33 straipsnis. Ekstremalioji energetikos padėtis
 
 
-1. Ekstremalioji energetikos padėtis skelbiama, kai elektros energijos, gamtinių dujų ar naftos produktų tiekimas sumažėja tiek, kad iškyla grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai.
-
-
-
-
-2. Valstybės lygio ekstremalioji energetikos padėtis skelbiama ir atšaukiama Vyriausybės nutarimu. Įstatymų nustatyta tvarka paskelbus nepaprastąją ar karo padėtį, be atskiro Vyriausybės nutarimo skelbiama ir ekstremalioji energetikos padėtis.
+1. Ekstremalioji energetikos padėtis skelbiama, kai elektros energijos, gamtinių dujų, naftos produktų ar šilumos tiekimas sumažėja tiek, kad iškyla grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai.
 
 
 
 
-3. Savivaldybės lygio ekstremalioji energetikos padėtis skelbiama ir atšaukiama savivaldybės administracijos direktoriaus sprendimu.
+2. Energetikos įmonės, susidarius šio straipsnio 1 dalyje nurodytoms aplinkybėms, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pranešti Energetikos ministerijai ir savivaldybės administracijos direktoriui apie energijos tiekimo sumažėjimą ir priemones energijos tiekimui atnaujinti.
 
 
 
 
-4. Energetikos įmonės, susidarius šio straipsnio 1 dalyje nurodytoms aplinkybėms, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pranešti Energetikos ministerijai ir savivaldybės administracijos direktoriui apie energijos tiekimo sumažėjimą ir priemones energijos tiekimui atnaujinti.
+3. Paskelbus ekstremaliąją energetikos padėtį, energijos ir (ar) energijos išteklių tiekimas vartotojams gali būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apribotas arba sustabdytas. Ekstremaliosios energetikos padėties metu energetikos įmonės, vykdančios Vyriausybės, jos įgaliotų valstybės institucijų ir (ar) savivaldybės administracijos direktoriaus nurodymus, už vartotojams padarytus nuostolius dėl energijos ar energijos išteklių tiekimo apribojimo ar nutraukimo neatsako.
 
 
 
 
-5. Paskelbus ekstremaliąją energetikos padėtį, energijos ir (ar) energijos išteklių tiekimas vartotojams gali būti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apribotas arba sustabdytas. Ekstremaliosios energetikos padėties metu energetikos įmonės, vykdančios Vyriausybės, jos įgaliotų valstybės institucijų ir (ar) savivaldybės administracijos direktoriaus nurodymus, už vartotojams padarytus nuostolius dėl energijos ar energijos išteklių tiekimo apribojimo ar nutraukimo neatsako.
+4. Paskelbus ekstremaliąją energetikos padėtį, įmonės, gaminančios, perduodančios, skirstančios, transportuojančios, pakraunančios ir iškraunančios naftą ir naftos produktus, gamtines dujas, kurą, elektros energiją ir (ar) šilumos energiją, pirmiausia privalo tenkinti Lietuvos Respublikos vidaus vartotojų poreikius, pirmenybę teikdamos civilinės saugos pajėgų, taip pat nacionaliniam saugumui užtikrinti svarbių objektų poreikiams.
 
 
 
 
-6. Ekstremaliosios energetikos padėties metu vartotojai aprūpinami energijos ištekliais naudojant įstatymų nustatyta tvarka sudarytas naftos produktų valstybės atsargas.
+5. Paskelbus ekstremaliąją energetikos padėtį, ūkio subjektams taikomi ūkinės veiklos laisvės apribojimai turi kuo mažiau trikdyti vidaus rinkos veikimą ir neturi būti taikomi platesniu mastu, negu yra būtina kilusioms grėsmėms suvaldyti.
 
 
 
 
-7. Paskelbus ekstremaliąją energetikos padėtį, įmonės, gaminančios, perduodančios, skirstančios, transportuojančios, pakraunančios ir iškraunančios naftą ir naftos produktus, gamtines dujas, kurą, elektros energiją ir (ar) šilumos energiją, pirmiausia privalo tenkinti Lietuvos Respublikos vidaus vartotojų poreikius, pirmenybę teikdamos civilinės saugos sistemos pajėgų, taip pat nacionaliniam saugumui užtikrinti svarbių objektų poreikiams. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-997, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01009
+6. Vyriausybė ar jos įgaliota institucija apie paskelbus ekstremaliąją energetikos padėtį taikomas priemones nedelsdama praneša kitoms valstybėms narėms ir Europos Komisijai. Europos Komisija gali nuspręsti, kad taikomos priemonės turi būti iš dalies pakeistos ar panaikintos, jeigu jos iškreipia konkurenciją ir neigiamai veikia prekybą tokiu būdu, kuris neatitinka Europos Sąjungos interesų.
+
+
+
+
+7. Ekstremaliosios energetikos padėties paskelbimo ir atšaukimo, taip pat kitus su tuo susijusius teisinius ir organizacinius pagrindus, kiek tai nenustatyta šiame įstatyme, reglamentuoja Krizių valdymo ir civilinės saugos įstatymas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
  
-
-
-
-
-8. Paskelbus ekstremaliąją energetikos padėtį, asmenys privalo vykdyti Vyriausybės, jos įgaliotų valstybės institucijų ir (ar) savivaldybės administracijos direktoriaus nurodymus. Jeigu ekstremaliosios energetikos padėties metu energetikos įmonės nevykdo nurodymų, Vyriausybė ar savivaldybės taryba turi teisę laikotarpiu, kol tęsis ekstremalioji energetikos padėtis, nušalinti šių įmonių valdymo organus ir įmonėms valdyti laikinai paskirti savo atstovus. Vyriausybės ar savivaldybės atstovai, atlikdami energetikos įmonių valdymo organų funkcijas, vadovaujasi Lietuvos Respublikos įstatymais ir kitais teisės aktais. Vyriausybės ar savivaldybės atstovai, veikdami pagal jiems suteiktus įgaliojimus, įgyja teises, pareigas ir atsakomybę, kurias Lietuvos Respublikos įstatymai nustato energetikos įmonių valdymo organams, jeigu šiame įstatyme ar kituose ekstremaliąją energetikos padėtį reglamentuojančiuose teisės aktuose nenustatyta kitaip.
-
-
-
-
-9. Paskelbus ekstremaliąją energetikos padėtį, Vyriausybė ar jos įgaliotos valstybės institucijos turi teisę reguliuoti naftos, naftos produktų, energijos, energijos išteklių eksportą, importą, prekybą, kontroliuoti ir, atsižvelgdamos į rinkos sąlygas, apriboti naftos produktų, parduodamos energijos, energijos išteklių ir teikiamų paslaugų kainas, jeigu jos yra nepagrįstai didinamos.
-
-
-
-
-10. Paskelbus ekstremaliąją energetikos padėtį, taikomos energetikos sektoriaus reguliavimo ir kitos poveikio priemonės, tarp jų ir lemiančios rinkos apribojimus, turi kuo mažiau trikdyti vidaus rinkos veikimą ir neturi būti taikomos platesniu mastu, negu yra būtina kilusioms grėsmėms suvaldyti.
-
-
-
-
-11. Vyriausybė ar jos įgaliota institucija apie taikomas priemones paskelbus ekstremaliąją energetikos padėtį nedelsdama praneša kitoms valstybėms narėms ir Europos Komisijai. Europos Komisija gali nuspręsti, kad taikomos priemonės turi būti iš dalies pakeistos ar panaikintos, jeigu jos iškreipia konkurenciją ir neigiamai veikia prekybą tokiu būdu, kuris neatitinka Europos Sąjungos interesų.
-
-
-
-
-12. Ekstremaliosios energetikos padėties paskelbimo ir atšaukimo, taip pat kitus su tuo susijusius teisinius ir organizacinius pagrindus, kiek tai nenustatyta šiame įstatyme, reglamentuoja Lietuvos Respublikos civilinės saugos įstatymas.
- 
-
-
 
 
 
@@ -4400,3 +4386,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 papildymo 19-2 ir 19-3 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 19-2 ir 21 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1645, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26592
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 6, 13 ir 33 straipsnių pakeitimo įstatymas
