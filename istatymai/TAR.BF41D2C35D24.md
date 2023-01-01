@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2022-06-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -701,13 +701,12 @@ Kelių priežiūros tvarką nustato Vyriausybė.
 
 
 1. Kelių ir kelio statinių projektavimas, tiesimas, statyba, rekonstravimas, taisymas (remontas) ir priežiūra yra finansuojami įstatymų nustatyta tvarka. Tais atvejais, kai dalis savivaldybei nuosavybės teise priklausančio kelio ir kelio statinio projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) išlaidų yra padengiama privačiomis fizinių ir (ar) juridinių asmenų lėšomis, tokio kelio ir kelio statinio projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) darbams gali būti teikiamas prioritetas kitų savivaldybei nuosavybės teise priklausančių kelių ir kelių statinių projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) atžvilgiu tos savivaldybės, kuriai nuosavybės teise priklauso kelias ir kelio statiniai, institucijos nustatyta tvarka ir sąlygomis.
-TAR pastaba. 1 dalis įsigalioja 2019 m. kovo 1 d. 1 dalies nuostatos taikomos kelio ir kelio statinio projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) darbų, finansuojamų privačiomis fizinių ir (ar) juridinių asmenų lėšomis, sutartims, sudarytoms po įstatymo Nr. XIII-1788 įsigaliojimo.
+TAR pastaba. 1 dalies nuostatos taikomos kelio ir kelio statinio projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) darbų, finansuojamų privačiomis fizinių ir (ar) juridinių asmenų lėšomis, sutartims, sudarytoms po įstatymo Nr. XIII-1788 įsigaliojimo.
 
 
 
 
 2. Nepanaudota atitinkamų metų Kelių priežiūros ir plėtros programos (toliau – Programa) finansavimo lėšų dalis, kuri yra ne mažesnė kaip 25 procentai nepanaudotų atitinkamų metų Programos lėšų, naudojama vietinės reikšmės keliams ir gatvėms tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti. 
-TAR pastaba. 2 dalis įsigalioja 2020 m. sausio 1 d.
 
 
 Straipsnio pakeitimai:
@@ -749,8 +748,11 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 
 4. Už naudojimąsi keliais mokami įstatymų nustatyti mokesčiai.
+4 dalies redakcija nuo 2026-01-01:
+4. Už naudojimąsi keliais mokami įstatymų nustatyti mokesčiai ir kelių rinkliava.
 Straipsnio dalies pakeitimai:
 Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
+Nr. XIII-3421, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24273
  
 
 
@@ -1066,29 +1068,6 @@ Nr. XIV-866, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27772
 
 
 
-
-
-22. Šio straipsnio 15 dalies 5 punkte nustatyta didžiausiosios leidžiamos naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovos viršijimo daugiau kaip 8 t riba gali būti netaikoma šiomis sąlygomis:
-
-
-1) didžiagabaritės ir (ar) sunkiasvorės transporto priemonės savininkas ar valdytojas savo lėšomis organizuoja išsamią važiavimo maršruto analizę, apimančią kelio juostos ir kelio statinių laikančiųjų konstrukcijų savybių ir būklės įvertinimą; važiavimo maršruto analizė atliekama vadovaujantis kompetentingų institucijų, atsakingų už kelių infrastruktūros reglamentavimą, priimtais teisės aktais; važiavimo maršruto analizę atlieka pagal Lietuvos standartą LST EN ISO/IEC 17025:2018 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ akredituotos laboratorijos;
-
-
-
-
-2) didžiagabaritės ir (ar) sunkiasvorės transporto priemonės savininkas ar valdytojas su kelio savininku, kai kelias yra vietinės reikšmės, kelią patikėjimo teise valdančiu subjektu, kai kelias yra valstybinės reikšmės, sudaro sutartį dėl kelio ir (ar) kelio statinių paprastojo ar kapitalinio remonto (arba kelio taisymo ir (ar) kelio statinių atstatymo), reikalingo šiuo keliu pravažiavus didžiagabaritei ir (ar) sunkiasvorei transporto priemonei, šios transporto priemonės savininko ir (ar) valdytojo lėšomis; sutartyje turi būti nurodytas kelio taisymo ir (ar) kelio statinių atstatymo terminas, siektini kelio taisymo ir (ar) kelio statinių atstatymo rodikliai;
-
-
-
-
-3) kelio savininkas ar valdytojas didžiagabaritės ir (ar) sunkiasvorės transporto priemonės savininko ar valdytojo lėšomis atlieka šios transporto priemonės maršruto apimamų kelių būklės tyrimą prieš šiai transporto priemonei važiuojant šiuo maršrutu ir (ar) juo pravažiavus ir nustato būklės pokytį. Kelių būklės tyrimas atliekamas vadovaujantis kompetentingų institucijų, atsakingų už kelių infrastruktūros reglamentavimą, priimtais teisės aktais. Kelių būklės tyrimą atlieka pagal Lietuvos standartą LST EN ISO/IEC 17025:2018 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ akredituotos laboratorijos.
-
-
-Papildyta straipsnio dalimi:
-Nr. XIV-866, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27772
- 
-
-
 Straipsnio pakeitimai:
 Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
@@ -1316,3 +1295,23 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-979, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06314
 Lietuvos Respublikos kelių įstatymo Nr. I-891 5 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3421, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24273
+Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
+Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1327, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15655
+Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymo Nr. XIV-661 5 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1703, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27292
+Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas
