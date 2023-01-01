@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1998
  
 
 
-Suvestinė redakcija nuo 2022-11-10 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -1090,9 +1090,11 @@ PINIGŲ PLOVIMO IR (AR) TERORISTŲ FINANSAVIMO PREVENCIJOS PRIEMONĖS
 
 
 
-6) prieš atlikdami virtualiosios valiutos keitimo operacijas ar sandorius virtualiąja valiuta lėšomis, kurių suma lygi arba viršija 1 000 eurų ar ją atitinkančią sumą užsienio ar virtualiąja valiuta, arba prieš įnešdami į depozitinę virtualiųjų valiutų piniginę arba iš jos išimdami virtualiąją valiutą, kurios suma lygi arba viršija 1 000 eurų arba ją atitinkančią sumą užsienio ar virtualiąja valiuta, nesvarbu, ar sandoris sudaromas atliekant vieną ar kelias tarpusavyje susijusias operacijas (virtualiosios valiutos vertė nustatoma piniginės operacijos atlikimo ar sandorio sudarymo momentu), išskyrus atvejus, kai kliento ir naudos gavėjo tapatybė jau yra nustatyta; 
+6) prieš atlikdami virtualiosios valiutos keitimo operacijas ar sandorius virtualiąja valiuta lėšomis, kurių suma lygi arba viršija 700 eurų ar ją atitinkančią sumą užsienio ar virtualiąja valiuta, arba prieš įnešdami į depozitinę virtualiųjų valiutų piniginę arba iš jos išimdami virtualiąją valiutą, kurios suma lygi arba viršija 700 eurų arba ją atitinkančią sumą užsienio ar virtualiąja valiuta, nesvarbu, ar sandoris sudaromas atliekant vieną ar kelias tarpusavyje susijusias operacijas (virtualiosios valiutos vertė nustatoma piniginės operacijos atlikimo ar sandorio sudarymo momentu), išskyrus atvejus, kai kliento ir naudos gavėjo tapatybė jau yra nustatyta;
 Papildyta straipsnio punktu:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Straipsnio punkto pakeitimai:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
@@ -1264,9 +1266,11 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-9) per parą atlieka kelias virtualiosios valiutos keitimo operacijas ar sandorius virtualiąja valiuta lėšomis, kurių suma lygi arba viršija 1 000 eurų arba ją atitinkančią sumą užsienio ar virtualiąja valiuta, arba per parą atlieka kelias virtualiosios valiutos įnešimo į depozitinę virtualiųjų valiutų piniginę arba išėmimo iš jos operacijas, kurių suma lygi arba viršija 1 000 eurų arba ją atitinkančią sumą užsienio ar virtualiąja valiuta; 
+9) per parą atlieka kelias virtualiosios valiutos keitimo operacijas ar sandorius virtualiąja valiuta lėšomis, kurių suma lygi arba viršija 700 eurų arba ją atitinkančią sumą užsienio ar virtualiąja valiuta, arba per parą atlieka kelias virtualiosios valiutos įnešimo į depozitinę virtualiųjų valiutų piniginę arba išėmimo iš jos operacijas, kurių suma lygi arba viršija 700 eurų arba ją atitinkančią sumą užsienio ar virtualiąja valiuta;
 Papildyta straipsnio punktu:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Straipsnio punkto pakeitimai:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
@@ -3088,7 +3092,27 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
 
 
-3. Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) kaupiama informacija apie naudos gavėjus visiems teisės aktų nustatytomis sąlygomis turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama neatlygintinai.
+3. Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) kaupiama informacija apie naudos gavėjus visiems teisės aktų nustatytomis sąlygomis turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji:
+
+
+1) teikiama juridinių asmenų naudos gavėjams, kai Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) tvarkomi duomenys apie juos;
+
+
+
+
+2) perduodama susijusiems registrams, valstybės informacinėms sistemoms;
+
+
+
+
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+
+
+
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
  
