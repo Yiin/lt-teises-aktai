@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2021-08-12 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-974, i. k. 1001010ISTAIII-1621
  
@@ -116,7 +116,9 @@ Nr. XII-2531, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20289
 
 
 
-6. Kitos Statute vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme, Lietuvos Respublikos karo policijos įstatyme (toliau – Karo policijos įstatymas), Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme ir kituose teisės aktuose.
+6. Kitos Statute vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos karo policijos įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos nacionalinio saugumo pagrindų įstatyme, Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme ir kituose teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1647, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26595
  
 
 
@@ -203,7 +205,7 @@ Priimant sprendimą dėl karinės jėgos naudojimo turi būti vadovaujamasi šia
 
 
 
-5  straipsnis. Kario ar karinio vieneto savigyna
+5  straipsnis. Kario ar karinio vieneto savigyna
 
 
 1. Karys ar karinis vienetas turi visuotinai pripažintą teisę naudoti būtiną ir proporcingą karinę jėgą apsiginant nuo pradėto ar neišvengiamo užpuolimo. 
@@ -507,9 +509,11 @@ Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
 
 
 
-11. Ekstremaliųjų situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja ir kai, siekiant išvengti grėsmės visuomenės rimčiai, yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos ar Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos pajėgoms vykdyti jų funkcijas, ir šiuo tikslu pasitelkiami kariniai vienetai, teikiantys pagalbą šioms valstybės institucijoms, Vyriausybei gavus Vyriausybės ekstremalių situacijų komisijos motyvuotą rašytinį prašymą ir pateikus siūlymą Seimui, Seimo sprendimu kariams gali būti suteikiamos šio straipsnio 12 dalyje nurodytos teisės. Tarp Seimo sesijų neatidėliotinais atvejais tokį sprendimą, Vyriausybei gavus Vyriausybės ekstremalių situacijų komisijos motyvuotą rašytinį prašymą ir pateikus siūlymą Respublikos Prezidentui, turi teisę priimti Respublikos Prezidentas. Šis Respublikos Prezidento sprendimas įsigalioja nuo priėmimo ir turi būti nedelsiant vykdomas. Respublikos Prezidentas teikia šį sprendimą tvirtinti artimiausiame Seimo posėdyje. Seimas gali patvirtinti arba pakeisti Respublikos Prezidento sprendimą. 
+11. Ekstremaliųjų situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja ir kai siekiant išvengti grėsmės visuomenės rimčiai yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos ar Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos pajėgoms vykdyti jų funkcijas ir šiuo tikslu pasitelkiami kariniai vienetai, teikiantys pagalbą šioms valstybės institucijoms, Vyriausybei gavus Nacionalinio saugumo komisijos motyvuotą rašytinį prašymą ir pateikus siūlymą Seimui, Seimo sprendimu kariams gali būti suteikiamos šio straipsnio 12 dalyje nurodytos teisės. Tarp Seimo sesijų neatidėliotinais atvejais tokį sprendimą, Vyriausybei gavus Nacionalinio saugumo komisijos motyvuotą rašytinį prašymą ir pateikus siūlymą Respublikos Prezidentui, turi teisę priimti Respublikos Prezidentas. Šis Respublikos Prezidento sprendimas įsigalioja nuo priėmimo ir turi būti nedelsiant vykdomas. Respublikos Prezidentas teikia šį sprendimą tvirtinti artimiausiame Seimo posėdyje. Seimas gali patvirtinti arba pakeisti Respublikos Prezidento sprendimą.
 Papildyta straipsnio dalimi:
 Nr. XIV-511, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17355
+Straipsnio dalies pakeitimai:
+Nr. XIV-1647, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26595
  
 
 
@@ -793,5 +797,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-511, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17355
 Lietuvos Respublikos karinės jėgos naudojimo statuto 13 ir 14 straipsnių pakeitimo įstatymas
  
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1647, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26595
+Lietuvos Respublikos karinės jėgos naudojimo statuto 2 ir 13 straipsnių pakeitimo įstatymas
  
-part_9302495267e54ac4902236da4bd569af_end
+ 
+part_0e676ff77e2f4f5bb4a2215a63d75eee_end
