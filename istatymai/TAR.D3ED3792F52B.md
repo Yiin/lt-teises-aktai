@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -1256,11 +1256,10 @@ Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
 
 
 2) eiti daugiau negu vienas valstybės tarnautojo pareigas, dirbti pagal darbo sutartį valstybės ir savivaldybės institucijoje ar įstaigoje, kurioje jis eina valstybės tarnautojo pareigas, taip pat gauti iš valstybės ir savivaldybės institucijos ar įstaigos, kurioje jis eina valstybės tarnautojo pareigas, kitų pajamų negu darbo užmokestis ir šiame įstatyme nustatytos išmokos, kompensacijos ir pašalpos. Seimo nario patarėjas ir Seimo nario padėjėjas (toliau – Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojas) gali eiti ne vienas Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas pas tą patį Seimo narį ar skirtingus tai pačiai frakcijai priklausančius Seimo narius arba eiti Seimo frakcijos, kuriai priklauso Seimo narys, referento pareigas, bet jo darbo laikas einant visas šias pareigas negali būti ilgesnis kaip 60 valandų per savaitę. 
-2 punkto redakcija nuo 2023-01-01:
-2) eiti daugiau negu vienas valstybės tarnautojo pareigas, dirbti pagal darbo sutartį valstybės ir savivaldybės institucijoje ar įstaigoje, kurioje jis eina valstybės tarnautojo pareigas, taip pat gauti iš valstybės ir savivaldybės institucijos ar įstaigos, kurioje jis eina valstybės tarnautojo pareigas, kitų pajamų negu darbo užmokestis ir šiame įstatyme nustatytos išmokos, kompensacijos ir pašalpos. Seimo nario patarėjas ir Seimo nario padėjėjas (toliau – Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojas) gali eiti ne vienas Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas pas skirtingus tai pačiai frakcijai priklausančius Seimo narius arba eiti Seimo frakcijos, kuriai priklauso Seimo narys, referento pareigas, bet jo darbo laikas einant visas šias pareigas negali būti ilgesnis kaip 40 valandų per savaitę.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 Nr. XIII-3408, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24571
+Nr. XIV-1689, 2022-12-15, paskelbta TAR 2022-12-22, i. k. 2022-26372
  
 
 
@@ -3201,7 +3200,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
 
 
  3.1. 
-
+ Nacionalinio krizių valdymo centro vadovas 
  Respublikos Prezidento patarėjas, Seimo Pirmininko patarėjas, Ministro Pirmininko patarėjas 
  18,7–20 
 
@@ -3216,9 +3215,17 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
  14,5–17,5 
 
 
+ 4.1. 
+   
+ vicemeras 
+   
+ 16,2 
+ 15,6 
+
+
  5. 
  departamento direktorius,  valdybos viršininkas, grupės vadovas, komisijos administracijos direktorius, tarybos administracijos direktorius, įstaigos prie ministerijos kancleris, Seimo komiteto biuro vedėjas (Seimo kanceliarijoje), sekretoriato vedėjas (Seimo kanceliarijoje), skyriaus, kuris nėra kitame struktūriniame padalinyje, vedėjas (Seimo kanceliarijoje), savivaldybės kontrolieriaus pavaduotojas 
- savivaldybės administracijos direktoriaus pavaduotojas, Vyriausybės įgaliotinio pavaduotojas  
+ Vyriausybės įgaliotinio pavaduotojas  
  11,5–18,5 
  10,5–18 
  9,5–17 
@@ -3266,7 +3273,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
 
  8. 
  vyriausiasis specialistas, specialiojo atašė pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje) 
- savivaldybės tarybos sekretorius, mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas 
+ savivaldybės tarybos posėdžių sekretorius, mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas 
  7,7–13,5 
  7,1–13 
  6,4–12 
@@ -3289,7 +3296,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
 
 
 
- 
+Pastaba. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, vicemerui šio įstatymo 1 priedo 4.1 papunktyje nustatytas pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, – 5 procentais.
 Priedo pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 Nr. XIII-1805, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21813
@@ -3299,8 +3306,9 @@ Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
 Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
 Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 Nr. XIV-711, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25137
+Nr. XIV-1652, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26609
  
-part_7f28de126a0f44239e5b9ef1af7fa867_end
+part_96f956bdf46240fa96fdf6e75843b189_end
 
 
  
@@ -4373,3 +4381,18 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 6 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1125, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12617
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 17 straipsnio pakeitimo įstatymas
+ 
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1652, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26609
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeitimo įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2, 5, 8, 10 straipsnių ir 1 priedo pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1689, 2022-12-15, paskelbta TAR 2022-12-22, i. k. 2022-26372
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 2 straipsnio pakeitimo įstatymas
