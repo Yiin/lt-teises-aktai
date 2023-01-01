@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E"
 
 # Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas
 
-Suvestinė redakcija nuo 2018-07-06 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-07-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 91-3190, i. k. 1011010ISTA00IX-547
+ 
+TAR pastaba. Įstatymas Nr.  XIII-3314 taikomas rengiant 2024 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius. Rengiamiems ataskaitinių laikotarpių iki 2024 metų ataskaitų rinkiniams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo nuostatos
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-848, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27748
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 1, 2, 5, 13, 15 straipsnių, antrojo ir trečiojo skirsnių pavadinimo pakeitimo ir 8 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIII-3314 9 straipsnio pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 Nr. X-1829, 2008-11-14, Žin., 2008, Nr. 137-5378 (2008-11-29)
@@ -36,7 +41,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir tikslas
 
 
-1. Šis įstatymas nustato Lietuvos Respublikos valstybinio socialinio draudimo fondo (toliau – Fondas) biudžeto sudarymo ir vykdymo tvarką bei rodiklius, pagal kuriuos tvirtinamas Fondo biudžetas ir šio biudžeto vykdymo ataskaitų rinkinys. Fondo biudžeto pajamų ir išlaidų bei piniginių įplaukų ir išlaidų klasifikaciją pagal jų pobūdį ir paskirtį, Fondo ir Fondo administravimo įstaigų biudžeto vykdymo ataskaitų rinkinio sudėtį nustato Vyriausybės patvirtintos Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės (toliau – Taisyklės).
+1. Šis įstatymas nustato Lietuvos Respublikos valstybinio socialinio draudimo fondo (toliau – Fondas) biudžeto sudarymo ir vykdymo tvarką bei rodiklius, pagal kuriuos tvirtinamas Fondo biudžetas. Fondo biudžeto pajamų ir išlaidų bei piniginių įplaukų ir išlaidų klasifikaciją pagal jų pobūdį ir paskirtį nustato Vyriausybės patvirtintos Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės (toliau – Taisyklės). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
+ 
 
 
 
@@ -89,12 +97,18 @@ Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 
 
 
-7. Fondo biudžeto išlaidos – Fondo ekonominės naudos sumažėjimas teikiant teisės aktais pavestas valstybinio socialinio draudimo ir kitas viešąsias paslaugas dėl turto sunaudojimo, pardavimo, perdavimo, netekimo arba nuvertėjimo ir įsipareigojimų prisiėmimo per ataskaitinį laikotarpį, dėl ko sumažėja Fondo grynasis turtas, išskyrus tiesioginį jo mažinimą.
+7. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
+ 
 
 
 
 
-8. Fondo biudžeto pajamos – Fondo gaunama arba gautina ekonominė nauda teikiant teisės aktais pavestas valstybinio socialinio draudimo ir kitas viešąsias paslaugas bei parduodant prekes ir paslaugas per ataskaitinį laikotarpį, kai turto vertė padidėja arba įsipareigojimai sumažėja, dėl ko padidėja Fondo grynasis turtas, išskyrus tiesioginį jo didinimą.
+8. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
+ 
 
 
 
@@ -130,7 +144,9 @@ Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 
 
 
-14. Fondo grynasis turtas – į Fondo apskaitą įtraukto turto dalis, likusi iš viso į Fondo apskaitą įtraukto turto atėmus Fondo įsipareigojimų vertę ir finansavimo sumas.
+14. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
  
@@ -205,7 +221,9 @@ Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 
 
 
-23. Valstybinio socialinio draudimo fondo konsoliduotųjų ataskaitų rinkinys – kaip ši sąvoka apibrėžta Viešojo sektoriaus atskaitomybės įstatyme.
+23. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
  
@@ -213,7 +231,9 @@ Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 
 
 
-24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Biudžeto sandaros įstatyme.
+24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos biudžeto sandaros įstatyme ir Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
  
@@ -231,7 +251,9 @@ Nr. XII-402, 2013-06-25, Žin., 2013, Nr. 73-3657 (2013-07-09)
 
 
 ANTRASIS SKIRSNIS
-FONDO BIUDŽETO PAJAMOS, IŠLAIDOS, PINIGINĖS ĮPLAUKOS IR IŠLAIDOS, JŲ PLANAVIMAS IR FONDO GRYNASIS TURTAS
+FONDO BIUDŽETO PAJAMOS, IŠLAIDOS, PINIGINĖS ĮPLAUKOS IR IŠLAIDOS, JŲ PLANAVIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
  
 
 
@@ -404,7 +426,10 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 
-2) Fondo veiklos sąnaudos – Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio ir už juos mokamų įmokų sumos, prekių ir paslaugų įsigijimo, ilgalaikio materialiojo turto ir nematerialiojo turto nusidėvėjimo (amortizacijos) sąnaudos, ilgalaikio turto likutinės vertės dalis, viršijanti pajamas, gautinas pardavus šį turtą, ekspertinių paslaugų išlaidos, kitos Fondo sąnaudos (palūkanos, delspinigiai, nuostolis dėl į Fondo apskaitą įtraukto turto vertės sumažėjimo ir kt.), patiriamos administruojant visų rūšių socialinį draudimą, socialinio draudimo išmokas, mokamas pagal tarptautines sutartis ar Europos Sąjungos reglamentus dėl socialinės apsaugos, Fondo valdybos administruojamus registrus, išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar kitų šaltinių, apskaičiavimą ir mokėjimą, atliekant kitas Fondo administravimo įstaigoms pavestas funkcijas.
+2) Fondo veiklos sąnaudos – Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio ir už juos mokamų įmokų sumos, prekių ir paslaugų įsigijimo, ilgalaikio materialiojo turto ir nematerialiojo turto nusidėvėjimo (amortizacijos) sąnaudos, ilgalaikio turto pardavimo nuostoliai, ekspertinių paslaugų sąnaudos, kitos Fondo sąnaudos (palūkanos, delspinigiai, nuostoliai dėl į Fondo apskaitą įtraukto turto vertės sumažėjimo ir kt.), patiriamos administruojant visų rūšių socialinio draudimo įmokas ir išmokas, mokamas pagal tarptautines sutartis ar Europos Sąjungos reglamentus dėl socialinės apsaugos, tvarkant Fondo valdybos administruojamus registrus, atliekant išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar kitų šaltinių, apskaičiavimą ir mokėjimą, atliekant kitas Fondo administravimo įstaigoms pavestas funkcijas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
+ 
 
 
 
@@ -511,25 +536,9 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 
-8 straipsnis. Fondo grynasis turtas
-
-
-1. Fondo grynasis turtas yra skirtas Fondo funkcijų vykdymui užtikrinti.
-
-
-
-
-2. Fondo grynąjį turtą sudaro rezervas Fondo veiklai užtikrinti ir Fondo sukauptas rezultatas. Rezervas Fondo veiklai užtikrinti sudaromas Fondo administravimo reikmėms. Fondo sukauptas rezultatas laikomas siekiant palaikyti Fondo pajėgumą vykdyti teisės aktų nustatytus Fondo įsipareigojimus apdraustiesiems, socialinio draudimo išmokoms padidinti ir laikinam pajamų trūkumui dengti.
-
-
-
-
-3. Fondo sukauptas rezultatas parodomas Fondo biudžeto projekte ir Fondo biudžeto vykdymo ataskaitų rinkinyje.
-
-
-
-
-4. Fondo grynasis turtas naudojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+8 straipsnis. Neteko galios nuo 2023-01-01
+Straipsnio naikinimas:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
  
 
 
@@ -537,10 +546,10 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 
-
-
 TREČIASIS SKIRSNIS
-FONDO BIUDŽETO PROJEKTO IR JO VYKDYMO ATASKAITŲ RINKINIO RENGIMAS IR TVIRTINIMAS
+FONDO BIUDŽETO PROJEKTO RENGIMAS IR TVIRTINIMAS
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
  
 
 
@@ -709,26 +718,16 @@ Jeigu Seimas ar Vyriausybė priima teisės aktus, dėl kurių keičiasi Fondo i�
 13 straipsnis. Fondo pajamų ir išlaidų priskyrimas
 
 
-1. Fondo biudžeto projektas ir Fondo biudžeto vykdymo ataskaitų rinkinys rengiami pagal Taisyklėse nustatytą Fondo biudžeto pajamų ir išlaidų bei piniginių įplaukų ir išlaidų klasifikaciją. 
+1. Fondo biudžeto projektas rengiamas pagal Taisyklėse nustatytą Fondo biudžeto pajamų ir išlaidų bei piniginių įplaukų ir išlaidų klasifikaciją. 
 
 
 
 
-2. Fondo biudžeto projekte ir Fondo biudžeto vykdymo ataskaitų rinkinyje parodomos biudžetiniams metams priskirtinos pajamos, neatsižvelgiant į jų gavimo laiką, ir biudžetiniams metams priskirtinos Fondo išlaidos, priskaičiuotos už laikotarpius, sutampančius su biudžetinių metų laikotarpiu.
-
-
-
-
-3. Fondo piniginių įplaukų ir išlaidų ataskaitoje parodomos biudžetinių metų faktinės pinigų įplaukos ir išlaidos.
-
-
-
-
-4. Įmokos ir išlaidos pagal atskiras valstybinio socialinio draudimo rūšis, neįvertinus Fondo veiklos sąnaudų bei neatgautinų ir abejotinai atgautinų sumų, pateikiamos papildomose lentelėse kartu su Fondo biudžeto vykdymo ataskaitų rinkiniu.
+2. Fondo biudžeto projekte parodomos biudžetiniams metams priskirtinos apskaičiuotos pajamos, neatsižvelgiant į jų gavimo laiką, ir su biudžetiniais metais sutampančių laikotarpių Fondo išlaidos. 
 
 
 Straipsnio pakeitimai:
-Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)(papildyta 4 dalimi)
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
  
 
 
@@ -772,34 +771,24 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 
-15 straipsnis. Fondo metinių konsoliduotųjų ataskaitų rinkinio rengimas ir tvirtinimas
+15 straipsnis. Fondo ataskaitų rinkinių rengimas 
 
 
-1. Fondo metinių konsoliduotųjų ataskaitų rinkinį rengia Fondo valdyba. 
-
-
-
-
-2. Fondo valdyba Fondo metinių konsoliduotųjų ataskaitų rinkinį teikia svarstyti Fondo tarybai, kuri pateikia išvadą. Fondo valdyba Fondo metinių konsoliduotųjų ataskaitų rinkinį kartu su Fondo tarybos išvada teikia Socialinės apsaugos ir darbo ministerijai, o ši teisės aktų nustatyta tvarka teikia juos derinti Finansų ministerijai.
+1. Fondo ataskaitų rinkinių sudėtį, šių rinkinių rengimo, pasirašymo, teikimo, skelbimo ir audito reikalavimus nustato Viešojo sektoriaus atskaitomybės įstatymas. 
 
 
 
 
-3. Fondo metinių konsoliduotųjų ataskaitų rinkinio teikimą už aukštesniojo lygio konsoliduotųjų ataskaitų rinkinio parengimą atsakingam viešojo sektoriaus subjektui ir Vyriausybei, jo tvirtinimą, skelbimą ir auditą reglamentuoja Viešojo sektoriaus atskaitomybės įstatymas.
+2. Fondo tarpinių ataskaitų rinkinius ir metinių ataskaitų rinkinį, kuris yra valstybės socialinių fondų metinių ataskaitų rinkinio sudedamoji dalis, rengia Fondo valdyba. 
 
 
 
 
-4. Informacija apie Fondo biudžeto struktūrinio postūmio užduoties vykdymą pateikiama Fondo biudžeto vykdymo ataskaitos aiškinamajame rašte, gavus iš Finansų ministerijos apskaičiuotą faktinį tam tikrų kalendorinių metų Fondo biudžeto struktūrinio rezultato rodiklį. Jeigu Fondo biudžeto struktūrinio postūmio užduotis neįvykdoma, Fondo biudžeto vykdymo ataskaitos aiškinamajame rašte paaiškinamos jos neįvykdymo priežastys.
-Papildyta straipsnio dalimi:
-Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
- 
+3. Fondo valdyba valstybės socialinių fondų metinių ataskaitų rinkinį teikia svarstyti Fondo tarybai, o ši pateikia išvadą dėl jo. Fondo valdyba valstybės socialinių fondų metinių ataskaitų rinkinį kartu su Fondo tarybos išvada teikia Socialinės apsaugos ir darbo ministerijai. 
 
 
-Straipsnio pakeitimas:
-Nr. XI-932, 2010-06-22, Žin., 2010, Nr. 81-4226 (2010-07-10)
-Nr. XI-1344, 2011-04-21, Žin., 2011, Nr. 52-2519 (2011-05-03)
-Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
+Straipsnio pakeitimai:
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
  
 
 
@@ -1014,3 +1003,13 @@ Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1337, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11430
 Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 4, 5, 6, 7 ir 11 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 1, 2, 5, 13, 15 straipsnių, antrojo ir trečiojo skirsnių pavadinimo pakeitimo ir 8 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-848, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27748
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 1, 2, 5, 13, 15 straipsnių, antrojo ir trečiojo skirsnių pavadinimo pakeitimo ir 8 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIII-3314 9 straipsnio pakeitimo įstatymas
