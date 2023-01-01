@@ -18,9 +18,10 @@ LIETUVOS RESPUBLIKOS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1243, i. k. 0951010ISTA000I-907
  
@@ -65,7 +66,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Finansinis auditas – valstybinio audito tipas, kai vertinami audituojamo subjekto metinių (konsoliduotųjų) finansinių ir biudžeto vykdymo ataskaitų rinkinių duomenys ir pareiškiama nepriklausoma auditoriaus nuomonė.
+3. Finansinis auditas – valstybinio audito tipas, kai vertinami audituojamo subjekto metinių ataskaitų rinkinių duomenys ir pareiškiama nepriklausoma auditoriaus nuomonė. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
+ 
 
 
 
@@ -265,32 +269,35 @@ Valstybės kontrolės uždaviniai yra:
 
 
 
-2. Valstybės kontrolė, kaip aukščiausioji audito institucija, kiekvienais metais teikia Seimui:
+2. Valstybės kontrolė, kaip aukščiausioji audito institucija, kiekvienais metais atlieka šioje dalyje nurodytų metinių ataskaitų rinkinių auditus ir teikia Seimui ir šiuos ataskaitų rinkinius parengusiems viešojo sektoriaus subjektams valstybinio audito išvadas ir valstybinio audito ataskaitas, t. y. dėl:
 
 
-1) valstybinio audito išvadą ir valstybinio audito ataskaitą dėl valstybės konsoliduotųjų ataskaitų rinkinio;
-
-
-
-
-2) valstybinio audito išvadą ir valstybinio audito ataskaitą dėl Privalomojo sveikatos draudimo fondo konsoliduotųjų ataskaitų rinkinio; 
+1) valstybės metinių ataskaitų rinkinio;
 
 
 
 
-3) valstybinio audito išvadą ir valstybinio audito ataskaitą dėl Valstybinio socialinio draudimo fondo konsoliduotųjų ataskaitų rinkinio;
+2) valstybės socialinių fondų metinių ataskaitų rinkinio;
 
 
 
 
-4) valstybinio audito išvadas ir valstybinio audito ataskaitas dėl valstybės išteklių fondų, kurių lėšų sąmatas tvirtina Seimas, ataskaitų rinkinių;
+3) Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio;
 
 
 
 
-5) valstybinio audito išvadą ir valstybinio audito ataskaitą dėl nacionalinio finansinių ataskaitų rinkinio.
+4) Pensijų anuitetų fondo metinių ataskaitų rinkinio;
 
 
+
+
+5) nacionalinio metinių ataskaitų rinkinio. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
+ 
 
 
 
@@ -343,7 +350,14 @@ Valstybės kontrolės uždaviniai yra:
 
 
 
-6) per 7 darbo dienas nuo Lietuvos stabilumo tam tikrų metų programos viešo paskelbimo Lietuvos stabilumo programos vertinimo ataskaitą.
+6) per 7 darbo dienas nuo Lietuvos stabilumo tam tikrų metų programos viešo paskelbimo Lietuvos stabilumo programos vertinimo ataskaitą;
+
+
+
+
+7) iki kiekvienų metų birželio 30 dienos savivaldybių biudžetų atitikties Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2, 4–7 dalyse nustatytoms taisyklėms ir neatitikties šioms taisyklėms ištaisymo vertinimo ataskaitą.
+Papildyta straipsnio punktu:
+Nr. XIV-1765, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27580
  
 
 
@@ -396,7 +410,10 @@ VALSTYBĖS KONTROLIERIAUS, VALSTYBĖS KONTROLIERIAUS PAVADUOTOJŲ, ADMINISTRACIJ
 
 
 
-7) teikia Seimui Valstybės kontrolės veiklos ataskaitą;
+7) teikia Seimui Valstybės kontrolės metinių ataskaitų rinkinį su auditoriaus išvada; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
+ 
 
 
 
@@ -637,7 +654,10 @@ VALSTYBĖS KONTROLĖS VEIKLA
 14 straipsnis. Subjekto teisės ir pareigos 
 
 
-1. Subjektas turi teisę susipažinti su valstybinio audito ar vertinimo dokumento projektu ir per Valstybės kontrolės nustatytą ne trumpesnį kaip 10 darbo dienų terminą pateikti dėl jo pastabas.
+1. Subjektas turi teisę susipažinti su valstybinio audito ar kito vertinimo dokumento projektu ir per Valstybės kontrolės nustatytą ne trumpesnį kaip 10 darbo dienų terminą pateikti dėl jo pastabas. Dėl Viešojo sektoriaus atskaitomybės įstatyme nustatytų valstybinio audito dokumentų Valstybės kontrolė gali nustatyti trumpesnį susipažinimo ir pastabų pateikimo Valstybės kontrolei terminą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
+ 
 
 
 
@@ -653,8 +673,6 @@ VALSTYBĖS KONTROLĖS VEIKLA
 
 
 4. Audituotas subjektas privalo per rekomendacijų įgyvendinimo plane nurodytą terminą informuoti aukščiausiąją audito instituciją, kaip įgyvendinamos valstybinio audito rekomendacijos. 
- 
- 
  
 
 
@@ -1580,3 +1598,13 @@ Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 9 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-135, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00255
 Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 pakeitimo įstatymo Nr. XIV-135 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1765, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27580
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 8 straipsnio pakeitimo įstatymas
