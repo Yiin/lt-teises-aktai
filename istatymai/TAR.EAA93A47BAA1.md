@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2020-07-15 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
  
@@ -1151,9 +1151,10 @@ PIRMINĖS TEISINĖS PAGALBOS TEIKIMAS
 15 straipsnis. Pirminės teisinės pagalbos teikimo tvarka
 
 
-1. Asmenys, norintys gauti pirminę teisinę pagalbą, turi teisę kreiptis į savivaldybės, kurioje gyvena, vykdomąją instituciją. Laisvės atėmimo bausmę atliekantys asmenys ir kardomojo kalinimo vietose laikomi asmenys turi teisę kreiptis į savivaldybės vykdomąją instituciją pagal laisvės atėmimo vietą. 
+1. Asmenys, norintys gauti pirminę teisinę pagalbą, turi teisę kreiptis į savivaldybės, kurioje gyvena, vykdomąją instituciją. Laisvės atėmimo vietų įstaigoje laikomi asmenys turi teisę kreiptis į savivaldybės vykdomąją instituciją pagal bausmės atlikimo ar suėmimo vykdymo vietą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
+Nr. XIV-1217, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15582
  
 
 
@@ -2408,3 +2409,8 @@ Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3179, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15005
 Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 2, 4, 6, 9, 11, 12, 13, 14, 15, 16, 18, 19, 23, 24, 27-1 ir 29 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1217, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15582
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 15 straipsnio pakeitimo įstatymas
