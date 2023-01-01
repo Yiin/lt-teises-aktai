@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -978,9 +978,19 @@ Nr. XIV-1038, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08785
 
 
 
-8. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir metinės ataskaitos parengimo tvarka nustatoma Lietuvos finansinės atskaitomybės standarte.
+8. Viešojo sektoriaus subjektų grupės, kurios kontroliuojantysis subjektas yra viešoji įstaiga, metinių finansinių ataskaitų auditas turi būti atliekamas, jeigu tokios viešojo sektoriaus subjektų grupės rodikliai tenkina bent dvi šio straipsnio 7 dalyje nurodytas sąlygas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1039, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08786
+ 
+
+
+
+
+9. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir metinės ataskaitos parengimo tvarka nustatoma Lietuvos finansinės atskaitomybės standarte.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1038, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08785
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1039, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08786
  
 
 
@@ -1706,3 +1716,18 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 9 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1038, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08785
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 9, 10, 11, 11-1, 12, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymo Nr. XIV-683 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3311, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21249
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-844, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27743
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11 straipsnio pakeitimo įstatymo Nr. XIII-3311 2 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1039, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08786
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11 straipsnio pakeitimo įstatymo Nr. XIII-3311 1 straipsnio pakeitimo įstatymas
