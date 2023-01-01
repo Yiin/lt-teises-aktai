@@ -21,7 +21,7 @@ Projektas XXXX XX XX Nr. –––––
  
 
 
-Suvestinė redakcija nuo 2022-11-16 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -375,7 +375,10 @@ Teismas turi išaiškinti proceso dalyviams jų procesines teises ir pareigas, �
 
 
 
-7. Proceso dalyvių, liudytojo, specialisto, eksperto, vertėjo dalyvavimas teismo posėdžiuose gali būti užtikrinamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip). Lietuvos Respublikos teisingumo ministro (toliau – teisingumo ministras) nustatyta tvarka naudojant šias technologijas, turi būti užtikrintas patikimas proceso dalyvių tapatybės nustatymas ir paaiškinimų, parodymų, klausimų ir prašymų pateikimo objektyvumas. 
+7. Bylų nagrinėjimas ir proceso dalyvių, liudytojų, specialistų, ekspertų, vertėjų dalyvavimas teismo posėdžiuose gali būti užtikrinamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip) teisingumo ministro nustatyta tvarka, suderinta su Teisėjų taryba. Naudojant šias technologijas, turi būti užtikrintas patikimas proceso dalyvių, liudytojų, specialistų, ekspertų, vertėjų tapatybės nustatymas, duomenų (įrodymų) objektyvus fiksavimas ir pateikimas, galimybė naudotis procesinėmis teisėmis ir bylos nagrinėjimo teisme viešumas, taip pat konfidencialus byloje dalyvaujančių asmenų bendravimas su advokatu (atstovu).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+ 
 
 
 Straipsnio pakeitimai:
@@ -1252,7 +1255,9 @@ Skundai (prašymai, pareiškimai) administraciniuose teismuose priimami ir nagri
 
 
 
-3. Šiame straipsnyje nurodytus skundus (prašymus, pareiškimus) paduodant teismui tik elektroninių ryšių priemonėmis, mokama 75 procentai už atitinkamą skundą (prašymą, pareiškimą) mokėtinos žyminio mokesčio sumos.
+3. Šiame straipsnyje nurodytus skundus (prašymus, pareiškimus) ir jų priedus paduodant teismui tik elektroninių ryšių priemonėmis, taip pat išreiškus pageidavimą procesinius dokumentus gauti tik šiomis priemonėmis, mokama 75 procentai už atitinkamą skundą (prašymą, pareiškimą) mokėtinos žyminio mokesčio sumos. Jeigu pareiškėjas bylos nagrinėjimo metu atsisako procesinius dokumentus gauti tik elektroninių ryšių priemonėmis, pareiškėjas primoka trūkstamą žyminio mokesčio dalį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1350, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15445
  
 
 
@@ -1411,7 +1416,15 @@ Administracinis teismas, atsižvelgdamas į turtinę fizinio asmens ar fizinių 
 
 
 
-8) kai žyminis mokestis sumokėtas už skundą (prašymą, pareiškimą), kuris žyminiu mokesčiu neapmokestinamas.
+8) kai žyminis mokestis sumokėtas už skundą (prašymą, pareiškimą), kuris žyminiu mokesčiu neapmokestinamas;
+
+
+
+
+9) skundą (prašymą, pareiškimą) palikus nenagrinėtą, kai pareiškėjas neprimoka trūkstamos žyminio mokesčio dalies.
+Papildyta straipsnio punktu:
+Nr. XIV-1350, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15445
+ 
 
 
 
@@ -2494,7 +2507,10 @@ Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
 
 
 
-2) posėdžio laikas ir vieta;
+2) posėdžio laikas ir vieta, informacija, ar posėdis organizuojamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip);
+Straipsnio punkto pakeitimai:
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+ 
 
 
 
@@ -2725,9 +2741,10 @@ Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
 
 
 
-5. Apie tos dienos teismo posėdžius skelbiama teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos paskirti teisėjai ar teisėjas nagrinėja bylą, skelbimų lentoje.
+5. Siekiant užtikrinti teismo posėdžių viešumą, apie tos dienos teismo posėdžius skelbiama teismo rūmų, kuriuose nagrinėjama byla, skelbimų lentoje ir specialiame interneto tinklalapyje.
 Straipsnio dalies pakeitimai:
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
  
 
 
@@ -2932,7 +2949,10 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-2. Pirmosios instancijos teisme byla nagrinėjama žodžiu ir esant nepasikeitusiai teisėjų sudėčiai. Jeigu atidėjus bylos nagrinėjimą proceso metu bent vienas iš teisėjų pakeičiamas, byla turi būti nagrinėjama nuo pat pradžios, išskyrus atvejus, kai proceso dalyviai neprieštarauja, kad byla būtų nagrinėjama toliau nuo to procesinio veiksmo, kurį atlikus ji buvo atidėta. Jeigu byla nagrinėjama nuo pat pradžios, teisme apklausti liudytojai iš naujo į posėdį paprastai nešaukiami.
+2. Pirmosios instancijos teisme byla nagrinėjama žodinio proceso tvarka ir esant nepasikeitusiai teisėjų sudėčiai. Jeigu atidėjus bylos nagrinėjimą proceso metu bent vienas iš teisėjų pakeičiamas, byla turi būti nagrinėjama nuo pat pradžios, išskyrus atvejus, kai proceso dalyviai neprieštarauja, kad byla būtų nagrinėjama toliau nuo to procesinio veiksmo, kurį atlikus ji buvo atidėta. Jeigu byla nagrinėjama nuo pat pradžios, teisme apklausti liudytojai iš naujo į posėdį paprastai nešaukiami.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+ 
 
 
 
@@ -3125,12 +3145,18 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-5. Jeigu teismo posėdyje dalyvauja vertėjas, specialistas ar ekspertas, posėdžio pirmininkas išaiškina jų pareigas ir administracinę bei baudžiamąją atsakomybę už žinomai melagingą vertimą ar žinomai melagingos išvados davimą. Dėl to iš vertėjo, specialisto ar eksperto paimamas rašytinis pasižadėjimas. Teismas taip pat išsprendžia proceso šalių (jų atstovų) prašymus. Iš posėdžių salės pašalinami iki apklausos atvykę liudytojai.
+5. Jeigu teismo posėdyje dalyvauja vertėjas, specialistas ar ekspertas, posėdžio pirmininkas išaiškina jų pareigas ir administracinę bei baudžiamąją atsakomybę už žinomai melagingą vertimą ar žinomai melagingos išvados davimą. Dėl to iš vertėjo, specialisto ar eksperto paimamas rašytinis pasižadėjimas. Tais atvejais, kai teismo posėdis vyksta naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip) arba vertėjas, specialistas ar ekspertas jame dalyvauja naudodamiesi informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ir kitaip), vertėjas, specialistas ar ekspertas pasižadėjimą pasako žodžiu. Teismas taip pat išsprendžia proceso šalių (jų atstovų) prašymus. Iš posėdžių salės pašalinami iki apklausos atvykę liudytojai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+ 
 
 
 
 
-6. Bylos nagrinėjimas iš esmės pradedamas teisėjo pranešimu, kuriame nurodomas ginčo dalykas, pagrindai, ginčo ribos ir kitos esminės bylos aplinkybės. Po to žodis suteikiamas pareiškėjui (pareiškėjams), atsakovui (atsakovams), trečiajam suinteresuotam asmeniui (asmenims) ir (ar) jų atstovams. Kalbėjimo trukmė neribojama, tačiau teismo posėdžio pirmininkas gali įspėti kurią nors iš proceso šalių ar jų atstovų, jeigu šie nukrypsta nuo bylos esmės. Proceso šalims (jų atstovams) gali būti užduodami klausimai: pirma klausimus užduoda teisėjas (teisėjai), po to – kitos proceso šalys (jų atstovai). Po proceso šalių pasisakymų ištiriami kiti įrodymai: išklausomi liudytojų parodymai, specialistų paaiškinimai ir ekspertų išvados, apžiūrimi daiktiniai įrodymai, peržiūrimos nuotraukos, vaizdo įrašai, išklausomi garso įrašai. Byloje esantys procesiniai dokumentai, įteikti šio įstatymo nustatyta tvarka, teismo posėdžio metu neskelbiami, išskyrus atvejus, kai bent vienas iš proceso dalyvių prašo juos paskelbti. Prieš liudytojui duodant parodymus, posėdžio pirmininkas nustato jo asmens tapatybę, išaiškina liudytojo teises ir pareigas ir įspėja jį dėl atsakomybės už atsisakymą ar vengimą duoti parodymus ir už žinomai melagingus parodymus. Iš liudytojo paimamas pasižadėjimas. Prieš baigiant bylos nagrinėjimą iš esmės, išsprendžiami nauji proceso šalių prašymai. 
+6. Bylos nagrinėjimas iš esmės pradedamas teisėjo pranešimu, kuriame nurodomas ginčo dalykas, pagrindai, ginčo ribos ir kitos esminės bylos aplinkybės. Po to žodis suteikiamas pareiškėjui (pareiškėjams), atsakovui (atsakovams), trečiajam suinteresuotam asmeniui (asmenims) ir (ar) jų atstovams. Kalbėjimo trukmė neribojama, tačiau teismo posėdžio pirmininkas gali įspėti kurią nors iš proceso šalių ar jų atstovų, jeigu šie nukrypsta nuo bylos esmės. Proceso šalims (jų atstovams) gali būti užduodami klausimai: pirma klausimus užduoda teisėjas (teisėjai), po to – kitos proceso šalys (jų atstovai). Po proceso šalių pasisakymų ištiriami kiti įrodymai: išklausomi liudytojų parodymai, specialistų paaiškinimai ir ekspertų išvados, apžiūrimi daiktiniai įrodymai, peržiūrimos nuotraukos, vaizdo įrašai, išklausomi garso įrašai. Byloje esantys procesiniai dokumentai, įteikti šio įstatymo nustatyta tvarka, teismo posėdžio metu neskelbiami, išskyrus atvejus, kai bent vienas iš proceso dalyvių prašo juos paskelbti. Prieš liudytojui duodant parodymus, posėdžio pirmininkas nustato jo asmens tapatybę, išaiškina liudytojo teises ir pareigas ir įspėja jį dėl atsakomybės už atsisakymą ar vengimą duoti parodymus ir už žinomai melagingus parodymus. Iš liudytojo paimamas pasižadėjimas. Tais atvejais, kai teismo posėdis vyksta naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip) ar liudytojas jame dalyvauja naudodamasis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ir kitaip), liudytojas pasižadėjimą pasako žodžiu. Prieš baigiant bylos nagrinėjimą iš esmės, išsprendžiami nauji proceso šalių prašymai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+ 
 
 
 
@@ -3273,9 +3299,11 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 
 
-6. Kai teismo sprendimo priėmimas ir paskelbimas buvo atidėtas šio straipsnio 5 dalyje nustatyta tvarka ir nė vienas iš proceso dalyvių neatvyko į teismo sprendimo paskelbimą, sprendimo paskelbimui yra prilyginamas bylą išnagrinėjusio teisėjo (teisėjų kolegijos narių) pasirašyto teismo sprendimo pateikimas teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos paskirti teisėjai ar teisėjas išnagrinėjo bylą, raštinei teismo nurodytą teismo sprendimo paskelbimo dieną. 
+6. Kai teismo sprendimo priėmimas ir paskelbimas buvo atidėtas šio straipsnio 5 dalyje nustatyta tvarka ir nė vienas iš proceso dalyvių neatvyko į teismo sprendimo paskelbimą, sprendimo paskelbimui yra prilyginamas bylą išnagrinėjusio teisėjo (teisėjų kolegijos narių) pasirašyto teismo sprendimo pateikimas teismo rūmų, kuriems priskirta byla, raštinei teismo nurodytą teismo sprendimo paskelbimo dieną.
 Papildyta straipsnio dalimi:
 Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+Straipsnio dalies pakeitimai:
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
  
 
 
@@ -3984,7 +4012,10 @@ Teismas skundą (prašymą, pareiškimą) palieka nenagrinėtą:
 
 
 
-6) jeigu bylos nagrinėjimo pirmosios instancijos teisme metu paaiškėja, kad skundas (prašymas, pareiškimas) neatitinka jo turiniui keliamų reikalavimų arba kad nesumokėtas žyminis mokestis. Šiuo pagrindu skundas (prašymas, pareiškimas) gali būti paliekamas nenagrinėtas tik tuo atveju, jeigu pareiškėjas per teismo nustatytą terminą trūkumų nepašalina;
+6) jeigu bylos nagrinėjimo pirmosios instancijos teisme metu paaiškėja, kad skundas (prašymas, pareiškimas) neatitinka jo turiniui keliamų reikalavimų arba kad nesumokėtas žyminis mokestis ar neprimokėta trūkstama žyminio mokesčio dalis. Šiuo pagrindu skundas (prašymas, pareiškimas) gali būti paliekamas nenagrinėtas tik tuo atveju, jeigu pareiškėjas per teismo nustatytą terminą trūkumų nepašalina;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1350, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15445
+ 
 
 
 
@@ -7101,3 +7132,13 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1474, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22947
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 158 straipsnio pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1350, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15445
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 35, 38 ir 105 straipsnių pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 13, 20, 21, 22, 23, 24, 31, 43, 45, 51, 63, 67, 68, 69, 71, 72, 73, 77, 78, 81, 84, 99, 122-1, 127, 128, 129, 130, 131-1, 131-2, 132, 134 ir 157 straipsnių pakeitimo įstatymas
