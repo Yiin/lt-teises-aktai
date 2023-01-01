@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -211,9 +211,10 @@ Nr. XIV-765, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26894
 
 
 
-4. Indėlius ar kitas grąžintinas lėšas centrinė kredito unija, be šio straipsnio 2 dalyje nurodytų asmenų, gali priimti ir iš Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, viešųjų įstaigų, biudžetinių įstaigų, viešąsias paslaugas (vandens, elektros energijos, dujų, šilumos energijos tiekimą, komunalines paslaugas) ir elektroninių ryšių paslaugas teikiančių juridinių asmenų, daugiabučio namo ar kitos paskirties pastato bendrojo naudojimo objektų valdytojų, Lietuvos Respublikos, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, užsienio valstybių finansų įstaigų. Centrinė kredito unija taip pat turi teisę teikti šioje dalyje nurodytiems asmenims šio įstatymo 2 straipsnio 8 dalies 2 punkte nustatytas mokėjimo paslaugas.
+4. Indėlius ar kitas grąžintinas lėšas centrinė kredito unija, be šio straipsnio 2 dalyje nurodytų asmenų, gali priimti ir iš visų rūšių ir visų teisinių formų juridinių asmenų. Be to, centrinė kredito unija turi teisę teikti šioje dalyje nurodytiems asmenims šio įstatymo 2 straipsnio 8 dalies 2 punkte nustatytas mokėjimo paslaugas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2777, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02012
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
  
 
 
@@ -593,7 +594,9 @@ Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
 
 
 
-5. Atšaukus licenciją, centrinė kredito unija neturi teisės teikti finansinių paslaugų, išskyrus atvejus, kai tai būtina atsiskaitant su centrinės kredito unijos kreditoriais ar vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus, ir šio įstatymo dešimtajame ir vienuoliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl centrinės kredito unijos likvidavimo ar bankroto bylos jai kėlimo. 
+5. Atšaukus licenciją, centrinė kredito unija neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su centrinės kredito unijos kreditoriais, vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus arba atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį, ir šio įstatymo dešimtajame ir vienuoliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl centrinės kredito unijos likvidavimo ar bankroto bylos jai kėlimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
  
 
 
@@ -1324,9 +1327,10 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-2. Centrinės kredito unijos vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirties, leidžiančios tinkamai eiti pareigas. Centrinės kredito unijos vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Centrinės kredito unijos vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos priimtų teisės aktų nustatyta tvarka. Centrinės kredito unijos vadovais negali būti asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame įstatyme numatytiems leidimams, licencijoms ir sutikimams išduoti reikalingus duomenis apie juos, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą. 
+2. Centrinės kredito unijos vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirties, leidžiančios tinkamai eiti pareigas. Centrinės kredito unijos vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Centrinės kredito unijos vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos priimtų teisės aktų nustatyta tvarka. Centrinės kredito unijos vadovais negali būti asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame įstatyme numatytiems leidimams, licencijoms ir sutikimams išduoti reikalingus duomenis apie juos, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą. Centrinė kredito unija, siekdama patikrinti, ar centrinės kredito unijos vadovai yra nepriekaištingos reputacijos, turi teisę kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registrą ir asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka tvarkyti šių asmenų asmens duomenis, įskaitant duomenis apie asmens teistumą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
  
 
 
@@ -1398,7 +1402,33 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-10. Centrinės kredito unijos darbuotojų kvalifikacijos, patirties ir reputacijos reikalavimus gali nustatyti priežiūros institucijos teisės aktai.
+10. Centrinės kredito unijos užtikrina, kad jų darbuotojai, kurių funkcijos centrinėje kredito unijoje susijusios su finansinių paslaugų teikimu, iš sandorių kylančios rizikos vertinimu ir (ar) valdymu, centrinės kredito unijos prievolių pinigų plovimo ir teroristų finansavimo prevencijos srityje vykdymu ir (ar) kuriems jas atliekant būtina prieiga prie centrinės kredito unijos paslaptį sudarančios informacijos, yra nepriekaištingos reputacijos. Centrinės kredito unijos darbuotojas nėra nepriekaištingos reputacijos, jeigu atitinka šio straipsnio 11 dalyje nustatytas sąlygas. Centrinė kredito unija, siekdama patikrinti, ar jos darbuotojai yra nepriekaištingos reputacijos, turi teisę kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registrą ir asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka tvarkyti šių asmenų asmens duomenis, įskaitant duomenis apie asmens teistumą. Kiti centrinės kredito unijos darbuotojams keliami reikalavimai gali būti nustatyti priežiūros institucijos teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
+ 
+
+
+
+
+11. Centrinės kredito unijos darbuotojas negali būti laikomas nepriekaištingos reputacijos, jeigu jis yra pripažintas kaltu dėl Lietuvos Respublikos baudžiamajame kodekse numatyto sunkaus, labai sunkaus nusikaltimo arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus padarymo ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 5 metai.
+Papildyta straipsnio dalimi:
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
+ 
+
+
+
+
+12. Įtariamųjų, kaltinamųjų ir nuteistųjų registro valdytojas centrinei kredito unijai pateikia pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie šio straipsnio 1 ir 10 dalyse nurodytus asmenis.
+Papildyta straipsnio dalimi:
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
+ 
+
+
+
+
+13. Į šio straipsnio 2 ir 10 dalyse nurodytų centrinės kredito unijos vadovų ir darbuotojų pareigas asmenį skirianti ar paskyrusi centrinė kredito unija šio straipsnio 2 ar 10 dalyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus.
+Papildyta straipsnio dalimi:
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
  
 
 
@@ -3850,3 +3880,8 @@ Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 1, 2, 8, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1339, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15404
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. XII-2566 61 ir 66 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1694, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27551
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 4, 9, 22, 63, 67, 68 ir 70 straipsnių pakeitimo įstatymas
