@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-05-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -319,9 +319,11 @@ Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
 
 
 
-21. Mobilizaciją ir karo padėtį reglamentuojančiuose įstatymuose gali būti nustatytos kitokios, negu nustato šis kodeksas, darbo santykius reglamentuojančios normos.
+21. Mobilizaciją, karo padėtį, krizių valdymą ir civilinę saugą reglamentuojančiuose įstatymuose gali būti nustatytos kitokios, negu nustato šis kodeksas, darbo santykius reglamentuojančios normos.
 Papildyta straipsnio dalimi:
 Nr. XIII-3232, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15866
+Straipsnio dalies pakeitimai:
+Nr. XIV-1643, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26587
  
 
 
@@ -4305,9 +4307,19 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-5. Švenčių dienų išvakarėse darbo dienos trukmė sutrumpinama viena valanda, išskyrus pagal sutrumpintą darbo laiko normą dirbančius darbuotojus.
+5. Valstybės ir savivaldybių įstaigų, kurios išlaikomos iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ir savivaldybės įmonių, viešųjų įstaigų, kurių savininkė yra valstybė ar savivaldybė, ir Lietuvos banko darbuotojams, kurie augina vaikus iki trejų metų, nustatoma sutrumpinta trisdešimt dviejų valandų per savaitę darbo laiko norma, už nedirbtą darbo laiko normos dalį paliekant nustatytą darbo užmokestį. Ši sutrumpinta darbo laiko norma taikoma vienam iš tėvų (įtėvių) ar globėjų jų pasirinkimu, iki vaikui sukanka treji metai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1032, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08775
+ 
+
+
+
+
+6. Švenčių dienų išvakarėse darbo dienos trukmė sutrumpinama viena valanda, išskyrus pagal sutrumpintą darbo laiko normą dirbančius darbuotojus.
 Papildyta straipsnio dalimi:
 Nr. XII-2688, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26498
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1032, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08775
  
 
 
@@ -5259,54 +5271,55 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 133 straipsnis. Tėvystės atostogos
 
 
-1. Darbuotojams po vaiko gimimo suteikiamos trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogos. Šios atostogos suteikiamos bet kuriuo laikotarpiu nuo vaiko gimimo, iki vaikui sukanka vieni metai.
-TAR pastaba. 1 dalies nuostatos taip pat taikomos iki įstatymo Nr. XIII-2595 įsigaliojimo (2020-01-01) gimusių vaikų tėvams, jeigu po šio įstatymo įsigaliojimo dienos nėra praėjęs vienų metų terminas nuo vaiko gimimo dienos ir tėvai nebuvo pasinaudoję po vaiko gimimo suteikiamomis trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogomis.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2595, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20027
+1. Darbuotojams po vaiko gimimo suteikiamos trisdešimties kalendorinių dienų trukmės tėvystės atostogos, kurios gali būti skaidomos į ne daugiau kaip dvi dalis. Šios atostogos suteikiamos bet kuriuo laikotarpiu nuo vaiko gimimo, iki vaikui sukanka vieni metai.
+
+
+
+
+2. Per vieną mėnesį nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per vieną mėnesį nuo sprendimo vykdymo pradžios) dienos darbuotojams suteikiamos trisdešimties kalendorinių dienų trukmės tėvystės atostogos, kurios gali būti skaidomos į ne daugiau kaip dvi dalis. Šioje dalyje nurodytos atostogos nesuteikiamos tuo atveju, kai įvaikintas sutuoktinio vaikas arba kai įtėviui tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos vaikui prižiūrėti.
+
+
+
+
+3. Už šio straipsnio 1 ir 2 dalyse nustatytų atostogų laiką mokama išmoka Ligos ir motinystės socialinio draudimo įstatymo nustatytomis sąlygomis ir tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
  
 
 
 
 
-2. Per tris mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per tris mėnesius nuo sprendimo vykdymo pradžios) dienos darbuotojams suteikiamos trisdešimt kalendorinių dienų nepertraukiamos trukmės tėvystės atostogos. Įvaikinus du ir daugiau vaikų – šios atostogos suteikiamos per šešis mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per šešis mėnesius nuo sprendimo vykdymo pradžios) dienos. Šioje dalyje nurodytos atostogos nesuteikiamos tuo atveju, kai įvaikintas sutuoktinio vaikas arba kai įtėviui tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos vaikui prižiūrėti. 
-Papildyta straipsnio dalimi:
-Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914
+134 straipsnis. Atostogos vaikui prižiūrėti 
+
+
+1. Pagal šeimos pasirinkimą, išskyrus šio straipsnio 3 dalyje nurodytos trukmės atostogų vaikui prižiūrėti dalį, motinai (įmotei), tėvui (įtėviui), senelei, seneliui arba kitiems giminaičiams, faktiškai auginantiems vaiką, taip pat darbuotojui, paskirtam vaiko globėju, suteikiamos atostogos vaikui prižiūrėti, iki vaikui sukanka treji metai. Šias atostogas galima imti visas iš karto, dalimis ar pakaitomis. 
+
+
+
+
+2. Per tris mėnesius nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per vieną mėnesį nuo sprendimo vykdymo pradžios) dienos pagal šeimos pasirinkimą, išskyrus šio straipsnio 3 dalyje nurodytos trukmės atostogų vaikui prižiūrėti dalį, įmotei ar įtėviui, išskyrus atvejus, kai įvaikintas sutuoktinio vaikas arba kai įmotei (įtėviui) tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos pagal šio straipsnio 1 dalį, suteikiamos dvidešimt keturių mėnesių trukmės atostogos vaikui prižiūrėti. Darbuotojui, kuris tuo pačiu metu tam pačiam vaikui prižiūrėti turi teisę į atostogas tiek pagal šio straipsnio 1 dalį, tiek pagal šią dalį, suteikiamos atitinkamos atostogos jo pasirinkimu. Darbuotojai, turintys teisę gauti šias atostogas, gali jas imti pakaitomis. 
+
+
+
+
+3. Kiekvienas iš tėvų (įtėvių, globėjų), imdamas atostogas vaikui prižiūrėti, bet kuriuo metu, iki vaikui sukaks aštuoniolika ar dvidešimt keturi mėnesiai, pirmiausia turi teisę pasinaudoti dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalimi, kuri niekam negali būti perleista. Neperleidžiamų dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalį kiekvienas iš tėvų (įtėvių, globėjų) gali imti visą iš karto arba dalimis, pakaitomis su kitu iš tėvų (įtėvių, globėjų). Neperleidžiamų dviejų mėnesių trukmės atostogų vaikui prižiūrėti dalies abu tėvai (įtėviai, globėjai) negali imti tuo pačiu metu. 
+
+
+
+
+4. Darbuotojas, ketinantis pasinaudoti atostogomis vaikui prižiūrėti pagal šio straipsnio 1 ar 3 dalį ar grįžti į darbą šioms atostogoms nepasibaigus, apie tai raštu privalo įspėti darbdavį ne vėliau kaip prieš keturiolika kalendorinių dienų. Darbuotojas, ketinantis pasinaudoti atostogomis vaikui prižiūrėti pagal šio straipsnio 2 dalį ar grįžti į darbą šioms atostogoms nepasibaigus, apie tai raštu privalo įspėti darbdavį ne vėliau kaip prieš tris darbo dienas. Kolektyvinėje sutartyje gali būti nustatytas ilgesnis įspėjimo terminas. Darbuotojas, ketinantis pasinaudoti atostogomis vaikui prižiūrėti, savo prašyme dėl šių atostogų suteikimo nurodo jų pradžios ir pabaigos datas.
+
+
+
+
+5. Už atostogų vaikui prižiūrėti laiką mokama išmoka Ligos ir motinystės socialinio draudimo įstatymo nustatytomis sąlygomis ir tvarka.  
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1189, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15178
  
-
-
-
-
-3. Už šio straipsnio 1 ir 2 dalyse nustatytų atostogų laiką mokama Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nustatyta išmoka.
-Straipsnio dalies pakeitimai:
-Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914
- 
-
-
-
-
-
-
-134 straipsnis. Atostogos vaikui prižiūrėti
-
-
-1. Pagal šeimos pasirinkimą motinai (įmotei), tėvui (įtėviui), senelei, seneliui arba kitiems giminaičiams, faktiškai auginantiems vaiką, taip pat darbuotojui, paskirtam vaiko globėju, suteikiamos atostogos vaikui prižiūrėti, iki vaikui sukanka treji metai. Atostogas galima imti visas iš karto arba dalimis. Darbuotojai, turintys teisę gauti šias atostogas, gali jas imti pakaitomis.
-
-
-
-
-2. Per vieną mėnesį nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus vykdymo atveju – per vieną mėnesį nuo sprendimo vykdymo pradžios) dienos pagal šeimos pasirinkimą įmotei ar įtėviui, išskyrus atvejus, kai įvaikintas sutuoktinio vaikas arba kai įmotei (įtėviui) tam pačiam vaikui prižiūrėti jau buvo suteiktos atostogos pagal šio straipsnio 1 dalį, suteikiamos dvidešimt keturių mėnesių trukmės atostogos vaikui prižiūrėti. Jeigu darbuotojas tuo pačiu metu tam pačiam vaikui prižiūrėti turi teisę tiek į atostogas pagal šio straipsnio 1 dalį, tiek pagal šią dalį, darbuotojui suteikiamos atitinkamos atostogos jo pasirinkimu. Darbuotojai, turintys teisę gauti šias atostogas, gali jas imti pakaitomis.
-TAR pastaba. 2 dalies nuostatos taip pat taikomos iki šio įstatymo (Nr. XIII-243) įsigaliojimo (2018-01-01) įvaikintų vaikų įtėviams, jeigu po šio įstatymo įsigaliojimo dienos nėra praėjęs dvidešimt keturių mėnesių terminas nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus teismo sprendimo vykdymo atveju – nuo šio sprendimo vykdymo pradžios) dienos. Tokiu atveju įmotei (įtėviui) suteikiamos atostogos vaikui prižiūrėti pagal Darbo kodekso 134 straipsnio 2 dalies nuostatas tokios trukmės, kiek yra likę nuo kreipimosi dėl šių atostogų suteikimo dienos iki dvidešimt keturių mėnesių, skaičiuojamų nuo teismo sprendimo įvaikinti įsiteisėjimo (skubaus teismo sprendimo vykdymo atveju – nuo šio sprendimo vykdymo pradžios) dienos.
-Straipsnio dalies pakeitimai:
-Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914
- 
-
-
-
-
-3. Darbuotojas, ketinantis pasinaudoti atostogomis pagal šio straipsnio 1 dalį ar grįžti į darbą joms nepasibaigus, apie tai raštu privalo įspėti darbdavį ne vėliau kaip prieš keturiolika kalendorinių dienų. Darbuotojas, ketinantis pasinaudoti atostogomis pagal šio straipsnio 2 dalį ar grįžti į darbą joms nepasibaigus, apie tai raštu privalo įspėti darbdavį ne vėliau kaip prieš tris darbo dienas. Kolektyvinėje sutartyje gali būti nustatytas ilgesnis įspėjimo terminas.
- 
-
-
 
 
 
@@ -5332,7 +5345,7 @@ Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914
 
 
 
-4) diplominiam (bakalauro, magistro) darbui ar daktaro disertacijai ar meno projektui baigti ir ginti – trisdešimt kalendorinių dienų;
+4) diplominiam (bakalauro, magistro) darbui ar daktaro disertacijai, ar meno projektui baigti ir ginti – trisdešimt kalendorinių dienų;
 
 
 
@@ -5344,18 +5357,22 @@ Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914
 
 
 
-2. Darbuotojams, kurie dalyvauja neformaliojo suaugusiųjų švietimo programose, suteikiamos iki penkių darbo dienų per metus mokymosi atostogos dalyvauti neformaliojo suaugusiųjų švietimo programose. Tokios atostogos suteikiamos informavus darbdavį ne vėliau kaip prieš dvidešimt darbo dienų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
+2. Darbuotojams, kurie dalyvauja neformaliojo suaugusiųjų švietimo programose arba mokosi savišvietos būdu, suteikiamos iki penkių darbo dienų per metus mokymosi atostogos dalyvauti neformaliojo suaugusiųjų švietimo programose arba mokytis savišvietos būdu. Tokios atostogos suteikiamos informavus darbdavį ne vėliau kaip prieš dvidešimt darbo dienų.
+
+
+
+
+3. Darbuotojams, kurių darbo santykiai su darbdaviu tęsiasi ilgiau negu penkerius metus, už mokymosi atostogas, nurodytas šio straipsnio 1 ir 2 dalyse, išskyrus mokymąsi savišvietos būdu, jeigu dalyvavimas neformaliojo suaugusiųjų švietimo programoje yra susijęs su darbuotojo kvalifikacijos kėlimu, trunkančias iki dešimt darbo dienų per vienus darbo metus, paliekama ne mažiau kaip pusė darbuotojo vidutinio darbo užmokesčio.
+
+
+
+
+4. Darbuotojams, kurie mokosi savišvietos būdu, už mokymosi atostogas yra neapmokama, nebent kolektyvinėse sutartyse ar šalių susitarimu susitarta kitaip.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1690, 2022-12-15, paskelbta TAR 2022-12-29, i. k. 2022-27268
  
-
-
-
-
-3. Darbuotojams, kurių darbo santykiai su darbdaviu tęsiasi ilgiau negu penkerius metus, už mokymosi atostogas, nurodytas šio straipsnio 1 ir 2 dalyse, jeigu dalyvavimas neformaliojo suaugusiųjų švietimo programoje yra susijęs su darbuotojo kvalifikacijos kėlimu, trunkančias iki dešimt darbo dienų per vienus darbo metus, paliekama ne mažiau kaip pusė darbuotojo vidutinio darbo užmokesčio.
- 
-
-
 
 
 
@@ -10042,7 +10059,7 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 
 
-part_d1af8b3b2b1a4e1fbf7defdbcc8143b8_end
+part_9a495bf6e2bc47069d5a1d5a6fbf7d9f_end
 
 
 Lietuvos Respublikos
@@ -10299,3 +10316,18 @@ Lietuvos Respublikos darbo kodekso 1, 2, 25, 26, 30, 36, 40, 44, 46, 51, 52, 55,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-975, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06312
 Lietuvos Respublikos darbo kodekso 47 straipsnio pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1032, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08775
+Lietuvos Respublikos darbo kodekso 112 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1643, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26587
+Lietuvos Respublikos darbo kodekso 3 straipsnio pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1690, 2022-12-15, paskelbta TAR 2022-12-29, i. k. 2022-27268
+Lietuvos Respublikos darbo kodekso 135 straipsnio pakeitimo įstatymas
