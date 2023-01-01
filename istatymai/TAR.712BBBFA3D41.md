@@ -18,11 +18,17 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-05-24 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
+ 
+TAR pastaba. Įstatymas Nr. XIV-1761 taikomas rengiant 2023 ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo ir savivaldybių biudžetų projektus.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 10, 17, 18, 21 ir 26 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2004-01-07: 
 Nr. IX-1946, 2003-12-23, Žin., 2004, Nr. 4-47 (2004-01-07)
@@ -210,11 +216,12 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Garantinį fondą, Ilgalaikio darbo išmokų fondą.
+2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą ir kitus išteklių fondus, į kuriuos surenkamos privalomos įmokos, nurodytos išteklių fondo steigimą reglamentuojančiame įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 Nr. XIII-85, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29273
 Nr. XIII-3429, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24626
+Nr. XIII-3309, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21246
  
 
 
@@ -471,7 +478,9 @@ Biudžeto pajamų ir asignavimų ekonominę ir funkcinę klasifikaciją nustato 
 10 straipsnis. Savivaldybių skolinimasis
 
 
-1. Savivaldybės, laikydamosi Seimo patvirtintų skolos, skolinimosi ir garantijų limitų, Vyriausybės nustatyta tvarka gali:
+1. Savivaldybės, laikydamosi Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme numatytų ir Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytų limitų, Vyriausybės nustatyta tvarka gali: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
 
 
 1) imti iš vidaus kreditorių arba užsienio kreditorių ilgalaikes (kurių trukmė ilgesnė kaip vieni metai ir grąžinimo terminas ne tais pačiais biudžetiniais metais) paskolas investicijų projektams finansuoti ir ankstesniems skoliniams įsipareigojimams vykdyti;
@@ -810,9 +819,11 @@ Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
 
 
 
-5. Taikant Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinio įstatymo (toliau – Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas) 3 straipsnio 3 dalyje nustatytą valdžios sektoriaus išlaidų augimo ribojimo taisyklę (toliau – išlaidų augimo ribojimo taisyklė), valdžios sektoriui priskiriamų biudžetų, kurių kiekvieno atskirai planuojami asignavimai viršija 3 procentus BVP to meto kainomis, asignavimų (išskyrus Europos Sąjungos finansinės paramos lėšas) visuma koreguojama tiems biudžetams priskiriamomis palūkanomis už skolą, diskrecinėmis pajamų priemonėmis, vienkartinėmis išlaidų priemonėmis, ciklinėmis nedarbo išmokomis ir investicijomis, kaip nustatyta Stabilumo ir augimo pakto reglamente. 
+5. Taikant Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 3 dalyje nustatytą valdžios sektoriaus išlaidų augimo ribojimo taisyklę (toliau – išlaidų augimo ribojimo taisyklė), valdžios sektoriui priskiriamų biudžetų, kurių kiekvieno atskirai planuojami asignavimai viršija 3 procentus BVP to meto kainomis, asignavimų (išskyrus Europos Sąjungos finansinės paramos lėšas) visuma koreguojama tiems biudžetams priskiriamomis palūkanomis už skolą, diskrecinėmis pajamų priemonėmis, vienkartinėmis išlaidų priemonėmis, ciklinėmis nedarbo išmokomis ir investicijomis, kaip nustatyta Stabilumo ir augimo pakto reglamente. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
+Straipsnio dalies pakeitimai:
+Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
  
 
 
@@ -879,9 +890,10 @@ Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 
 
-7) savivaldybių skolos, skolinimosi ir garantijų limitai; 
+7) savivaldybių grynasis skolinių įsipareigojimų pokyčio limitas (kai toks limitas nustatomas); 
 Straipsnio punkto pakeitimai:
 Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
  
 
 
@@ -1115,7 +1127,9 @@ SAVIVALDYBIŲ BIUDŽETAI
 
 
 
-3. Savivaldybių biudžeto balanso rodiklis valdomas taip, kaip nustatyta Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 ir 4 dalyse. Savivaldybės biudžeto einamųjų metų pajamos koreguojamos pridedant nepanaudotą pajamų dalį – praėjusių metų biudžeto pajamų dalį, kuri viršija praėjusių metų panaudotus asignavimus (toliau – nepanaudota pajamų dalis). Einamųjų metų savivaldybės biudžete turi būti numatyti asignavimai visiems trumpalaikiams įsipareigojimams, išskyrus skolinius įsipareigojimus (toliau – trumpalaikiai įsipareigojimai), buvusiems praėjusių metų gruodžio 31 dieną, padengti, nebent trumpalaikiai įsipareigojimai viršija nepanaudotų pajamų dalį – tada numatomų padengti trumpalaikių įsipareigojimų suma turi būti ne mažesnė negu nepanaudota pajamų dalis.
+3. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
 Straipsnio dalies pakeitimai:
 Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
@@ -1229,9 +1243,6 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 25 straipsnis. Savivaldybės administracijos direktoriaus rezervas
 
 
-1. Savivaldybės gali sudaryti savivaldybės administracijos direktoriaus rezervą, kuris turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto asignavimų sumos. Konkretų savivaldybės administracijos direktoriaus rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama atitinkamų metų savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas skirsto savivaldybės administracijos direktorius.
- 
-1 dalies redakcija nuo 2023-01-01:
 1. Savivaldybės sudaro savivaldybės administracijos direktoriaus rezervą, kuris turi būti ne mažesnis kaip 0,25 procento ir ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto pajamų (neįskaitant valstybės dotacijų savivaldybių biudžetams). Savivaldybės administracijos direktoriaus rezervas gali būti didesnis kaip 1 procentas, kai yra paskelbta valstybės ir (arba) savivaldybės lygio ekstremalioji situacija ir (arba) įvesta nepaprastoji padėtis. Konkretų savivaldybės administracijos direktoriaus rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama tam tikrų metų savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas skirsto savivaldybės administracijos direktorius.
 
 
@@ -1268,7 +1279,10 @@ Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
 26 straipsnis. Savivaldybių biudžetų rengimas ir tvirtinimas
 
 
-1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis, patvirtintais savivaldybių strateginio planavimo dokumentais, taip pat savivaldybių biudžetų asignavimų valdytojų programomis ir jų sąmatų projektais.
+1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios institucijos, remdamosi šiuo Įstatymu, Fiskalinės sutarties įgyvendinimo konstituciniu įstatymu, kitais įstatymais, Seimo patvirtintais savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų sudarymo ir vykdymo taisyklėmis, Oficialiosios statistikos portale skelbiamais duomenimis, patvirtintais savivaldybių planavimo dokumentais, taip pat savivaldybių biudžetų asignavimų valdytojų programomis ir jų sąmatų projektais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
+ 
 
 
 
@@ -1294,6 +1308,14 @@ Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
 2) bendra asignavimų, iš jų darbo užmokesčiui, suma ir jų paskirstymas biudžetinėms įstaigoms ar savivaldybių administracijos padaliniams programoms vykdyti;
 Straipsnio punkto pakeitimai:
 Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
+ 
+
+
+
+
+3) tais biudžetiniais metais planuojama metinė įsiskolinimų (mokėtinų sumų, išskyrus sumas paskoloms grąžinti) pokyčio suma. 
+Papildyta straipsnio punktu:
+Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
  
 
 
@@ -1339,7 +1361,10 @@ BIUDŽETŲ VYKDYMAS
 
 
 
-2. Valstybės biudžeto kasos operacijų vykdymą organizuoja Finansų ministerija per Lietuvos Respublikos kredito įstaigas.
+2. Valstybės biudžeto mokėjimo operacijų vykdymą organizuoja Finansų ministerija per valstybės iždą ir (arba), kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, finansų įstaigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
+ 
 
 
 
@@ -1349,7 +1374,10 @@ BIUDŽETŲ VYKDYMAS
 
 
 
-4. Savivaldybių biudžetų kasos operacijų vykdymą organizuoja savivaldybių administracijos per Lietuvos Respublikos kredito įstaigas.
+4. Savivaldybių biudžetų mokėjimo operacijų vykdymą organizuoja savivaldybių administracijos per finansų įstaigas arba valstybės iždą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
+ 
 
 
 
@@ -1598,40 +1626,12 @@ Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
 35 straipsnis. Valstybės ir savivaldybių biudžetų vykdymo ataskaitų rinkiniai
 
 
-1. Valstybės ir savivaldybių biudžetų vykdymo ataskaitų rinkiniai, kuriems reikalavimus nustato Viešojo sektoriaus atskaitomybės įstatymas, sudaromi atsižvelgiant į Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu patvirtintus rodiklius, panaudotas Vyriausybės rezervo lėšas ir savivaldybės administracijos direktoriaus rezervo lėšas, perkeltas viršplanines ir nepanaudotas įmokų į valstybės biudžetą arba savivaldybės biudžetą, nurodytų šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose, skirtų programoms finansuoti, sumas.
+1. Valstybės ir savivaldybių biudžetų vykdymo ataskaitų rinkinių sudėties, turinio ir teikimo reikalavimai nustatyti Viešojo sektoriaus atskaitomybės įstatyme.
 
 
 
 
-2. Neįvykdžius tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties, šio Įstatymo šeštajame skirsnyje nustatyta tvarka turi būti nurodomos pateisinamos priežastys.
-Straipsnio dalies pakeitimai:
-Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
- 
-
-
-
-
-3. Valstybės biudžeto vykdymo ataskaitų rinkinį rengia Finansų ministerija, remdamasi valstybės biudžeto buhalterinės apskaitos duomenimis – į valstybės biudžetą gautų pajamų ir valstybės biudžeto asignavimų valdytojų pateiktais biudžeto vykdymo ataskaitų rinkiniais.
-
-
-
-
-4. Savivaldybių biudžetų vykdymo ataskaitų rinkinius rengia savivaldybių administracijos, remdamosi savivaldybių biudžetų apskaitos duomenimis – į savivaldybių biudžetus gautų pajamų ir savivaldybių biudžetų asignavimų valdytojų panaudotų asignavimų bei asignavimų valdytojų pateiktais biudžeto vykdymo ataskaitų rinkiniais.
-
-
-
-
-5. Biudžeto vykdymo ataskaitų rinkinio sudarymo taisykles nustato Finansų ministerija.
-
-
-
-
-6. Valstybės biudžeto vykdymo ataskaitų rinkinį Vyriausybės nustatyta tvarka ir terminais Vyriausybei teikia Finansų ministerija.
-
-
-
-
-7. Biudžeto finansuojamų įstaigų gaunama negrąžintina finansinė parama biudžetinių įstaigų apskaitoje registruojama atskiroje sąskaitoje. 
+2. Ne viešojo sektoriaus subjektai, gaunantys valstybės biudžeto asignavimus, valstybės biudžeto asignavimų panaudojimo kontrolės tikslais Finansų ministerijai teikia finansų ministro nustatytą informaciją. 
 
 
 Straipsnio pakeitimai:
@@ -1640,6 +1640,8 @@ Nr. X-1354, 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr. X-1826, 2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
 Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
+Straipsnio pakeitimai:
+Nr. XIII-3309, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21246
  
 
 
@@ -1750,7 +1752,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 38 straipsnis. Procedūros dėl nepagrįsto tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties neįvykdymo arba išlaidų augimo ribojimo taisyklės nesilaikymo
 
 
-1. Kiekvienais metais Vyriausybė ar jos įgaliota institucija kartu su Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 2 dalyje nurodyta ataskaita Seimui pateikia informaciją apie tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties vykdymą ir apie tai, ar pasibaigusiais biudžetiniais metais buvo laikomasi išlaidų augimo ribojimo taisyklės. Laikoma, kad užduotis neįvykdyta arba išlaidų augimo ribojimo taisyklės buvo nesilaikyta, jeigu valdžios sektoriaus balanso rodiklis arba valdžios sektoriaus balanso rodiklio postūmis nukrypsta nuo užduoties arba išlaidų dydis viršija nustatytąjį daugiau negu 0,2 procento BVP to meto kainomis.
+1. Kiekvienais metais Vyriausybė ar jos įgaliota institucija kartu su Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 2 dalyje nurodyta ataskaita Seimui pateikia informaciją apie tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties vykdymą ir apie tai, ar pasibaigusiais biudžetiniais metais buvo laikomasi išlaidų augimo ribojimo taisyklės. Neįvykdžius tam tikrų metų valdžios sektoriaus balanso rodiklio arba valdžios sektoriaus balanso rodiklio postūmio užduoties, nurodomos neįvykdymo priežastys. Laikoma, kad užduotis neįvykdyta arba išlaidų augimo ribojimo taisyklės buvo nesilaikyta, jeigu valdžios sektoriaus balanso rodiklis arba valdžios sektoriaus balanso rodiklio postūmis nukrypsta nuo užduoties arba išlaidų dydis viršija nustatytąjį daugiau negu 0,2 procento BVP to meto kainomis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3309, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21246
+ 
 
 
 
@@ -1818,6 +1823,8 @@ Nr. I-430
 
 
 
+ 
+
  
 Lietuvos Respublikos
 biudžeto sandaros įstatymo
@@ -1834,8 +1841,7 @@ priedas
 Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31) 
  
  
-
-
+part_8ae39d05ced24a288b692dac41ef5528_end
 
 
 Pakeitimai:
@@ -2222,3 +2228,13 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 35 ir 38 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 15 ir 25 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-842, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27740
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 35 ir 38 straipsnių pakeitimo įstatymo Nr. XIII-3309 4 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 10, 17, 18, 21 ir 26 straipsnių pakeitimo įstatymas
