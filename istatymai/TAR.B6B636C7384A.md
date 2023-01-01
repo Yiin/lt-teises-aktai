@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -754,9 +754,10 @@ Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
 
 
 
-5. Atšaukus licenciją, bankas neturi teisės teikti finansinių paslaugų, išskyrus atvejus, kai tai būtina atsiskaitant su banko kreditoriais ar vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus, ir šio Įstatymo vienuoliktajame ir dvyliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl banko likvidavimo ar bankroto bylos jam kėlimo.
+5. Atšaukus licenciją, bankas neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su banko kreditoriais, vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus arba atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį, ir šio Įstatymo vienuoliktajame ir dvyliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl banko likvidavimo ar bankroto bylos jam kėlimo.
 Straipsnio dalies pakeitimai:
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
  
 
 
@@ -1949,9 +1950,10 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 
 
-2. Banko vadovai turi būti nepriekaištingos reputacijos (šio straipsnio 12 ir 13 dalys) ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Banko vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Banko vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos teisės aktų nustatyta tvarka. Banko vadovais negali būti asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame Įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus jų duomenis, tarp jų asmens duomenis bei informaciją apie asmens teistumą, sveikatą. 
+2. Banko vadovai turi būti nepriekaištingos reputacijos (šio straipsnio 12 ir 13 dalys) ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Banko vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Banko vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos teisės aktų nustatyta tvarka. Banko vadovais negali būti asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame Įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus jų duomenis, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą. Bankas, siekdamas patikrinti, ar jo vadovai yra nepriekaištingos reputacijos, turi teisę kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registrą ir asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka tvarkyti šių asmenų asmens duomenis, įskaitant duomenis apie asmens teistumą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
  
 
 
@@ -2033,7 +2035,10 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-10. Reikalavimus banko darbuotojams gali nustatyti priežiūros institucijos teisės aktai.
+10. Bankai, užsienio banko filialai ir atstovybės užtikrina, kad jų darbuotojai, kurių funkcijos banke susijusios su finansinių paslaugų teikimu, iš sandorių kylančios rizikos vertinimu ir (ar) valdymu, banko prievolių pinigų plovimo ir teroristų finansavimo prevencijos srityje vykdymu ir (ar) kuriems jas atliekant būtina prieiga prie banko paslaptį sudarančios informacijos, yra nepriekaištingos reputacijos. Banko darbuotojas nėra nepriekaištingos reputacijos, jeigu atitinka šio straipsnio 14 dalyje nustatytas sąlygas. Bankas, siekdamas patikrinti, ar jo darbuotojai yra nepriekaištingos reputacijos, turi teisę kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registrą ir asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka tvarkyti šių asmenų asmens duomenis, įskaitant duomenis apie asmens teistumą. Kiti banko darbuotojams taikomi reikalavimai gali būti nustatyti priežiūros institucijos teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+ 
 
 
 
@@ -2119,6 +2124,30 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
+ 
+
+
+
+
+14. Banko darbuotojas negali būti laikomas nepriekaištingos reputacijos, jeigu jis yra pripažintas kaltu dėl Lietuvos Respublikos baudžiamajame kodekse numatyto sunkaus, labai sunkaus nusikaltimo arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus padarymo ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 5 metai.
+Papildyta straipsnio dalimi:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+ 
+
+
+
+
+15. Įtariamųjų, kaltinamųjų ir nuteistųjų registro valdytojas bankui pateikia pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie šio straipsnio 1 ar 10 dalyje nurodytus asmenis.
+Papildyta straipsnio dalimi:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+ 
+
+
+
+
+16. Į šio straipsnio 2 ir 10 dalyse nurodytų banko vadovų ir darbuotojų pareigas asmenį skiriantis ar paskyręs bankas, užsienio banko filialas ar atstovybė šio straipsnio 2 ar 10 dalyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus.
+Papildyta straipsnio dalimi:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
  
 
 
@@ -5479,7 +5508,7 @@ Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
 Priedo pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
  
-part_05d2b3ee67c14fd5b15e0977bb8bc0fc_end
+part_31b8f6b10c3949bca45cbc896acfcbe8_end
 
 
 Pakeitimai:
@@ -5706,3 +5735,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10 ir 73 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1334, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15399
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 78 ir 83 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 10, 34, 77-1, 84, 85 ir 87 straipsnių pakeitimo įstatymas
