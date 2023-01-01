@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2022-12-23 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -1981,7 +1981,15 @@ Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
 
 
 
-14) atlikti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose numatytas pareigas.
+14) šio Įstatymo 424 straipsnyje nustatyta tvarka teikti Valstybinei mokesčių inspekcijai šio straipsnio 13 punkte nurodytus duomenis; 
+Papildyta straipsnio punktu:
+Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
+ 
+
+
+
+
+15) atlikti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose numatytas pareigas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
 Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
@@ -2019,13 +2027,13 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju 1
 
 
 
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 961, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 189, 190, 191, 192, 193, 195, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505, 546 straipsniuose.
+4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 961, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 1883, 189, 190, 191, 192, 193, 195, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505, 546 straipsniuose. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 Nr. XIV-465, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15524
 Nr. XIV-861, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27779
-TAR pastaba. 40-1 straipsnio 1 dalies 4 punkto nuostatos taikomos tik vertinant asmenų atitiktį minimaliems patikimo mokesčių mokėtojo kriterijams po 2022-06-28 įstatymo Nr. XIV-1241 įsigaliojimo dienos.
 Nr. XIV-1241, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15187
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -2155,6 +2163,24 @@ Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
 
 Papildyta straipsniu:
 Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
+ 
+
+
+
+
+424 straipsnis. Atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenų teikimas
+
+
+1. Mokesčių mokėtojai privalo teikti Valstybinei mokesčių inspekcijai atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenis. 
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytų duomenų turinį detalizuoja ir jų teikimo terminus ir tvarką nustato centrinis mokesčių administratorius. 
+
+
+Papildyta straipsniu:
+Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
  
 
 
@@ -2600,6 +2626,144 @@ TAR pastaba. Tarpininkai ir asmenys, kuriems sudarytos sąlygos įgyvendinti pra
 
 Papildyta straipsniu:
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+ 
+
+
+
+
+613 straipsnis. Platformų operatorių teikiama informacija
+
+
+1. Duomenis teikiantys platformų operatoriai privalo kaupti ir kartą per metus už praėjusius kalendorinius metus Valstybinei mokesčių inspekcijai pateikti informaciją apie platformas naudojančių pardavėjų pajamas, gaunamas iš tam tikros veiklos, kurią vykdyti buvo sudarytos sąlygos platformoje, atliktus sandorius ir kitą informaciją, susijusią su mokesčių apskaičiavimu ir deklaravimu, išskyrus šio Įstatymo nustatytus atvejus (toliau – informacija apie pardavėjus). 
+
+
+
+
+2. Šiame straipsnyje:
+
+
+1) platformos operatoriumi laikomas subjektas, kuris su pardavėjais sudaro naudojimosi platforma ar jos dalimi sutartį;
+
+
+
+
+2) duomenis teikiančiu platformos operatoriumi laikomas platformos operatorius, kuris atitinka bent vieną iš šių sąlygų:
+
+
+a) jis yra Lietuvos apmokestinamasis vienetas;
+
+
+
+
+b) jis yra įsisteigęs pagal Lietuvos Respublikos įstatymus;
+
+
+
+
+c) jo nuolatinis valdymo organas yra Lietuvos Respublikoje;
+
+
+
+
+d) jis turi nuolatinę buveinę Lietuvos Respublikoje; 
+
+
+
+
+e) jis yra užsienio, išskyrus Europos Sąjungos valstybes nares, platformos operatorius, kuris sudaro sąlygas pardavėjams vykdyti tam tikrą veiklą Europos Sąjungoje (toliau – užsienio platformos operatorius);
+
+
+
+
+
+
+3) platforma laikoma bet kokia programinė įranga, įskaitant interneto svetainę arba jos dalį, ir taikomosios programos (įskaitant mobiliąsias programėles), kuriomis gali naudotis platformos naudotojai ir kuriomis pardavėjai gali susisiekti su kitais platformos naudotojais, siekdami vykdyti tam tikrą veiklą. Platforma taip pat laikoma bet kokia su tam tikra veikla susijusi atlygio rinkimo ir mokėjimo priemonė. Platforma neapima programinės įrangos, kuria sudaroma galimybė tik tvarkyti su tam tikra veikla susijusius mokėjimus, tam tikrą veiklą įtraukti į skelbiamus veiklų sąrašus arba ją reklamuoti, nukreipti arba persiųsti platformos naudotojus į platformą;
+
+
+
+
+4) pardavėju laikomas platformos naudotojas, kuris, neatsižvelgiant į tai, ar jis fizinis asmuo, ar subjektas, yra užsiregistravęs platformoje ir vykdo tam tikrą veiklą arba kuriam sumokamas arba įskaitomas su tam tikra veikla susijęs atlygis;
+
+
+
+
+5) tam tikra veikla laikoma veikla, už kurią pardavėjui mokamas atlygis arba įskaitomas bet kokios rūšies užmokestis, kurio suma yra žinoma arba pagrįstai galima manyti, kad yra žinoma, platformos operatoriui, kurios pardavėjas nevykdo kaip platformos operatoriaus darbuotojas ar susijęs platformos operatoriaus subjektas ir kuri priskiriama vienai iš šių veiklų:
+
+
+a) nekilnojamojo turto nuoma;
+
+
+
+
+b) asmeninės paslaugos;
+
+
+
+
+c) prekių pardavimas;
+
+
+
+
+d) transporto priemonių nuoma;
+
+
+
+
+
+
+6) asmenine paslauga laikoma paslauga, kurią teikdami vienas ar keli nepriklausomai arba subjekto vardu veikiantys fiziniai asmenys atlieka darbą tam tikrą laiką arba kol įvykdo užduotį ir kuri platformos naudotojo užsakymu teikiama arba internetu, arba fiziškai ne internetu po to, kai buvo sudarytos sąlygos tą paslaugą teikti naudojantis platforma;
+
+
+
+
+7) subjektu laikomas juridinis asmuo arba bet kurios kitos teisinės ir (arba) veiklos formos asmuo, išskyrus fizinį asmenį.
+
+
+
+
+
+
+3. Pradėjęs užsienio platformos operatoriaus veiklą, duomenis teikiantis užsienio platformos operatorius privalo būti užsiregistravęs centrinio mokesčių administratoriaus nustatyta tvarka. Jeigu duomenis teikiantis užsienio platformos operatorius nevykdo pareigos registruotis arba jeigu jo registracija buvo panaikinta ir Europos Sąjungos valstybės narės koordinuodamos veiksmus, kuriais siekiama užtikrinti registravimosi ir informacijos teikimo reikalavimų vykdymą, be kita ko, sutaria neleisti duomenis teikiančiam užsienio platformos operatoriui veikti Europos Sąjungoje, Valstybinė mokesčių inspekcija atlieka poveikio vertinimą ir priima sprendimą, kuriuo duoda interneto prieigos paslaugų teikėjams privalomą nurodymą panaikinti galimybę pasiekti duomenis teikiančio užsienio platformos operatoriaus interneto svetainę iki tol, kol užsienio platformos operatorius įvykdo pareigą užsiregistruoti arba iš naujo užsiregistruoja, jeigu jo registracija buvo panaikinta. Priėmusi šį sprendimą Valstybinė mokesčių inspekcija kreipiasi į Vilniaus apygardos administracinį teismą su prašymu patvirtinti sprendimą. Prašyme dėl sprendimo patvirtinimo turi būti nurodytas įtariamą pažeidimą padariusio platformos operatoriaus pavadinimas, jeigu jis žinomas, įtariamo pažeidimo pobūdis, interneto svetainės, prie kurios prašoma panaikinti prieigą, tikslus adresas. Vilniaus apygardos administracinis teismas prašymą dėl sprendimo patvirtinimo išnagrinėja ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas dėl sprendimo pavirtinimo turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 15 dienų nuo prašymo pateikimo momento. Jeigu Valstybinė mokesčių inspekcija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą ne vėliau kaip per 7 dienas nuo Valstybinės mokesčių inspekcijos skundo gavimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Valstybinės mokesčių inspekcijos sprendimas vykdomas tik jį patvirtinus. Šis patvirtintas sprendimas skelbiamas Valstybinės mokesčių inspekcijos interneto svetainėje. 
+
+
+
+
+4. Jeigu duomenis teikiantis platformos operatorius, išskyrus užsienio platformos operatorių, nevykdo pareigos teikti informaciją apie pardavėjus pagal šį straipsnį, Valstybinė mokesčių inspekcija po dviejų iš eilės platformos operatoriui pateiktų priminimų, ne vėliau kaip per 90 dienų, bet ne anksčiau kaip po 30 dienų nuo antrojo priminimo dienos, priima sprendimą, kuriuo duoda interneto prieigos paslaugų teikėjams privalomą nurodymą panaikinti galimybę pasiekti platformos operatoriaus interneto svetainę, kol platformos operatorius pašalins pažeidimą. 30 dienų laikotarpis pradedamas skaičiuoti nuo tos dienos, kai platformos operatoriui buvo pateiktas antrasis priminimas. Šis sprendimas turi būti patvirtintas Vilniaus apygardos administracinio teismo šio straipsnio 3 dalyje nurodyta tvarka. Šis sprendimas vykdomas tik jį patvirtinus. Patvirtintas sprendimas skelbiamas Valstybinės mokesčių inspekcijos interneto svetainėje. 
+
+
+
+
+5. Duomenis teikiantis platformos operatorius privalo užtikrinti informacijos apie pardavėjus kaupimą, jos tikrinimą ir pateikimą Valstybinei mokesčių inspekcijai. Jeigu pardavėjas, gavęs duomenis teikiančio platformos operatoriaus prašymą pateikti informaciją ir du kartus iš eilės įspėtas dėl nepateiktos informacijos, per 60 dienų nuo pirmojo įspėjimo gavimo dienos nepateikia reikalaujamos informacijos, duomenis teikiantis platformos operatorius privalo panaikinti pardavėjo paskyrą ir neleisti pardavėjui iš naujo registruotis platformoje arba sustabdyti atlygio pardavėjui mokėjimą, kol pardavėjas pateiks prašomą informaciją. 60 dienų laikotarpis pradedamas skaičiuoti nuo tos dienos, kai pardavėjui buvo pateiktas pirmasis priminimas.
+
+
+
+
+6. Duomenis teikiantys platformų operatoriai privalo kaupti informaciją apie veiksmus, kurių ėmėsi įgyvendindami šio Įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimus, susijusius su informacijos apie pardavėjus kaupimu, tikrinimu ir teikimu Valstybinei mokesčių inspekcijai, ir saugoti šią informaciją 5 metus nuo kalendorinių metų, kuriais tie veiksmai vykdomi, pabaigos. 
+
+
+
+
+7. Duomenis teikiantys platformų operatoriai privalo informuoti pardavėjus apie atlygį, apie kurį pranešta Valstybinei mokesčių inspekcijai.
+
+
+
+
+8. Šio straipsnio nuostatos netaikomos platformų operatoriams, kurių platformos verslo modelis yra toks, kad jie neturi praneštinos informacijos apie pardavėjus, taip pat užsienio platformų operatoriams, kai automatiškai keičiamasi informacija apie pardavėjus pagal Lietuvos Respublikos tarptautines sutartis ar susitarimus.
+
+
+
+
+9. Nereikalaujama, kad duomenis teikiantis platformos operatorius pateiktų informaciją apie šiuos pardavėjus: viešojo sektoriaus subjektą (įskaitant Vyriausybę, politinį padalinį arba valstybės subjektą), subjektą, kurio akcijomis reguliariai prekiaujama pripažintoje vertybinių popierių rinkoje arba kuris susijęs su subjektu, kurio akcijomis reguliariai prekiaujama pripažintoje vertybinių popierių rinkoje, subjektą, kuriam platformos operatorius per metus daugiau kaip 2 000 kartų sudarė sąlygas vykdyti nekilnojamojo turto nuomą arba kuriam platformos operatorius mažiau kaip 30 kartų sudarė sąlygas vykdyti prekių pardavimą ir kuriam per metus sumokėta arba įskaityta atlygio suma neviršija 2 000 eurų.
+
+
+
+
+10. Centrinis mokesčių administratorius, atsižvelgdamas į Direktyvos 2011/16/ES ir Lietuvos Respublikos tarptautinėse sutartyse ar susitarimuose dėl automatinių informacijos apie platformose vykdomas veiklas mainų nuostatas, nustato šiame straipsnyje nurodytų reikalavimų vykdymą, be kita ko, detalizuoja, kokiais atvejais platformų operatoriai neturi teikti informacijos, taip pat apie kuriuos pardavėjus nereikia teikti informacijos Valstybinei mokesčių inspekcijai, nustato duomenis teikiančių platformų operatorių atliekamas procedūras, kuriomis siekiama nustatyti pardavėjus, informacijos teikimo Valstybinei mokesčių inspekcijai tvarką, privalomos pateikti informacijos apie pardavėjus apimtį, duomenis teikiančio užsienio platformos operatoriaus registravimosi ir išregistravimo atvejus, tvarką ir terminus, taisykles, kuriomis duomenis teikiantys platformų operatoriai įpareigojami informuoti pardavėjus apie atlygį, apie kurį pranešta Valstybinei mokesčių inspekcijai. 
+
+
+Papildyta straipsniu:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -6618,9 +6782,10 @@ priedas
 
 
 
-2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (OL 2011 L 64, p. 1) su paskutiniais pakeitimais, padarytais 2018 m. gegužės 25 d. Tarybos direktyva (ES) 2018/822 (OL 2018 L 139, p. 1). 
+2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB su paskutiniais pakeitimais, padarytais 2021 m. kovo 22 d. Tarybos direktyva (ES) 2021/514. 
 Punkto pakeitimai:
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
