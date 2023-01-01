@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2021-07-15 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
+ 
+TAR pastaba. Įstatymas Nr. XIV-3313 taikomas rengiant 2024 ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto projektus ir 2024 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius. Rengiamiems ataskaitinių laikotarpių iki 2024 metų ataskaitų rinkiniams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo nuostatos
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-847, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27747
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 19, 20 ir 21 straipsnių pakeitimo įstatymo Nr. XIII-3313 4 straipsnio pakeitimo įstatymas
  
 
  
@@ -862,12 +867,18 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 
 
 
-5) rengia ir teikia Tarybai Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektus, taip pat Garantinio fondo ir Ilgalaikio darbo išmokų fondo metinių finansinių ataskaitų rinkinius;
+5) rengia ir teikia Tarybai Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
+ 
 
 
 
 
-6) rengia ir teikia Tarybai ketvirčio ir metinę veiklos ataskaitas ir skelbia jas savo interneto svetainėje;
+6) rengia ir teikia Tarybai Garantinio fondo ir Ilgalaikio darbo išmokų fondo metinių ataskaitų rinkinius; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
+ 
 
 
 
@@ -946,12 +957,26 @@ Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 4. Taryba atlieka šias funkcijas:
 
 
-1) pritaria Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatos projektui, taip pat Garantinio fondo ir Ilgalaikio darbo išmokų fondo metinių ataskaitų rinkiniui; 
+1) pritaria Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
+ 
 
 
 
 
-2) svarsto metinę administratoriaus veiklos ataskaitą ir teikia pasiūlymus dėl Garantinio fondo ir Ilgalaikio darbo išmokų fondo administravimo;
+2) svarsto administratoriaus metinių ataskaitų rinkinį ir teikia pasiūlymus dėl Garantinio fondo ir Ilgalaikio darbo išmokų fondo administravimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
+ 
+
+
+
+
+21) pritaria Garantinio fondo ir Ilgalaikio darbo išmokų fondo metinių ataskaitų rinkiniams, kurie yra valstybės socialinių fondų ataskaitų rinkinio dalis; 
+Papildyta straipsnio punktu:
+Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
+ 
 
 
 
@@ -986,12 +1011,12 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 21 straipsnis. Garantinio fondo ir Ilgalaikio darbo išmokų fondo atskaitomybė ir finansų kontrolė
 
 
-1. Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatas, taip pat Garantinio fondo ir Ilgalaikio darbo išmokų fondo metinių ataskaitų rinkinius tvirtina Lietuvos Respublikos Seimas (toliau – Seimas) Vyriausybės teikimu.
+1. Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektai ir ataskaitų rinkiniai rengiami taikant kaupimo principą, pagal kurį biudžetiniams metams priskirtinos Garantinio fondo ir Ilgalaikio darbo išmokų fondo apskaičiuotos pajamos ir su biudžetiniais metais sutampančių laikotarpių sąnaudos parodomos pagal apskaičiavimo laikotarpius neatsižvelgiant į įplaukų gavimo ir išlaidų padarymo laiką.
 
 
 
 
-2. Vyriausybė Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektus teikia Seimui tvirtinti kartu su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu Lietuvos Respublikos Seimo statute nustatyta tvarka ir terminais.
+2. Vyriausybė Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektus teikia Seimui tvirtinti kartu su atitinkamų metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymo projektu Lietuvos Respublikos Seimo statute nustatyta tvarka ir terminais.
 
 
 
@@ -1001,15 +1026,12 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 
 
 
-4. Garantinio fondo ir Ilgalaikio darbo išmokų fondo metinių ataskaitų rinkinio sudarymą, teikimą, tvirtinimą ir skelbimą reglamentuoja Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas.
+4. Garantinio fondo ir Ilgalaikio darbo išmokų fondo ataskaitų rinkinių rengimo, sudėties, audito, skelbimo ir teikimo reikalavimus nustato Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas. 
 
 
-
-
-5. Valstybės kontrolė kiekvienais metais atlieka Garantinio fondo ir Ilgalaikio darbo išmokų fondo metinių ataskaitų rinkinio auditą ir parengia audito išvadą.
+Straipsnio pakeitimai:
+Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
  
-
-
 
 
 
@@ -1101,7 +1123,8 @@ Respublikos Prezidentė                             
 
 
 
- 
+ 
+
 Lietuvos Respublikos
 garantijų darbuotojams jų 
 darbdaviui tapus nemokiam ir 
@@ -1164,3 +1187,16 @@ Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir il
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 3, 6, 7 ir 19 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 19, 20 ir 21 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-847, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27747
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 19, 20 ir 21 straipsnių pakeitimo įstatymo Nr. XIII-3313 4 straipsnio pakeitimo įstatymas
+ 
+ 
+part_b107426b9d8c4c268c4e43345379a4ce_end
