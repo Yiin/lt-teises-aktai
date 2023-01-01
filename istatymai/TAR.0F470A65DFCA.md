@@ -13,11 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2020-11-04 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-07-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
-LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS RĖMIMO PROGRAMOS ĮSTATYMAS
+Nauja redakcija nuo 2023-01-01:
+Nr. XIV-1706, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27554
+ 
+LIETUVOS RESPUBLIKOS
+APLINKOS APSAUGOS RĖMIMO PROGRAMOS
+ĮSTATYMAS
  
 2000 m. spalio 12 d. Nr. VIII-2025
 Vilnius
@@ -28,7 +33,7 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Aplinkos apsaugos rėmimo programos (toliau – Programa) lėšų šaltinius bei jų naudojimo tvarką.
+Šis įstatymas nustato Aplinkos apsaugos rėmimo programos (toliau – Programa) lėšų šaltinius ir jų naudojimo tvarką.
  
 
 
@@ -39,20 +44,12 @@ Vilnius
 2 straipsnis. Bendrosios nuostatos
 
 
-1. Programos tikslas – finansuoti aplinkosaugos ir kitas priemones, numatytas šio įstatymo 4 straipsnyje.
-Straipsnio dalies pakeitimai:
-Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
- 
+1. Programos tikslas – finansuoti priemones, numatytas šio įstatymo 4 straipsnyje.
 
 
 
 
-2. Programos lėšos kaupiamos atskiroje  Valstybės iždo sąskaitoje. Programos finansavimo pajamos ir išlaidos, vadovaujantis specialiųjų programų finansavimo principais, planuojamos valstybės biudžete.
-
-
-
-
-3. Programos priemones tvirtina ir programai įgyvendinti skirtas lėšas naudoja Aplinkos ministerija.
+2. Programą administruoja Lietuvos Respublikos aplinkos ministerija ar jos įgaliota institucija. Programos lėšų naudojimo, subsidijų ir dotacijų teikimo tvarką nustato aplinkos ministras.
  
 
 
@@ -60,113 +57,78 @@ Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010IST
 
 
 
-3 straipsnis. Programos lėšos (įplaukos) 
+3 straipsnis. Programos lėšos
 
 
-Programos lėšas (įplaukas) sudaro:
+Programos lėšas sudaro:
 
 
-1) lėšos, nustatyta tvarka išieškotos už aplinkai ir valstybiniams gamtos ištekliams padarytą žalą pažeidus aplinkos apsaugos įstatymus ar kitus aplinkos apsaugą reglamentuojančius teisės aktus;
-
-
-
-
-2) lėšos iš sumokėtų Lietuvos Respublikos administracinių teisės pažeidimų kodekse ir Lietuvos Respublikos baudžiamajame kodekse nustatytų baudų už aplinkos apsaugos įstatymų ar kitų aplinkos apsaugą reglamentuojančių teisės aktų pažeidimus, taip pat lėšos iš juridinių asmenų (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat šių juridinių asmenų ir organizacijų padalinius) sumokėtų baudų už aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų pažeidimus; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2297, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10401
- 
+1) lėšos, išieškotos už aplinkai ir valstybiniams gamtos ištekliams padarytą žalą pažeidus aplinkos apsaugą reglamentuojančius įstatymus ir (ar) jų įgyvendinamuosius teisės aktus;
 
 
 
 
-3) lėšos, gautos kaip didesnio tarifo mokestis už aplinkos teršimą, kai šis mokestis taikomas už nuslėptą teršalų, sunaudotų degalų, sąvartyne pašalintų atliekų ir apmokestinamųjų gaminių bei pripildytos gaminių apmokestinamosios pakuotės kiekį, už normatyvus viršijantį teršalų kiekį, taip pat lėšos iš baudų už nuslėptą, limitus viršijantį, sugadintą valstybinių gamtos išteklių kiekį ar valstybinių gamtos išteklių, kurių panaudojimo sąlygos buvo pablogintos, kiekį;
-Straipsnio punkto pakeitimai:
-Nr. IX-2380, 2004-07-15, Žin., 2004, Nr. 116-4328 (2004-07-27), i. k. 1041010ISTA0IX-2380
-Nr. XII-2644, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24684
- 
+2) lėšos iš sumokėtų Lietuvos Respublikos administracinių nusižengimų kodekse ir Lietuvos Respublikos baudžiamajame kodekse nustatytų baudų už aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir (ar) jų įgyvendinamųjų teisės aktų pažeidimus, taip pat lėšos iš juridinių asmenų (įskaitant užsienio valstybių juridinius asmenis, kitas organizacijas, šių juridinių asmenų ir organizacijų padalinius) sumokėtų baudų už aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir (ar) jų įgyvendinamųjų teisės aktų pažeidimus; 
 
 
 
 
-4) lėšos, gautos Lietuvos Respublikos teisės aktų nustatyta tvarka realizavus konfiskuotus aplinkos apsaugos nusikaltimų ir pažeidimų padarymo įrankius bei priemones ir neteisėtai įgytus gamtos išteklius;
+3) lėšos, gautos kaip mokestis už aplinkos teršimą, kai jis taikomas už nuslėptą taršą, taip pat lėšos, gautos kaip didesnio tarifo mokestis už valstybinius gamtos išteklius, nedeklaruotą ar deklaruotą mažesnį, negu išgautas, gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį;
 
 
 
 
-5) asmenų, kurie užsiima žvejyba vidaus vandenyse, lėšos, skirtos žuvų ištekliams atkurti ir išsaugoti;
-Straipsnio punkto pakeitimai:
-Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
-Nr. X-1728, 2008-09-22, Žin., 2008, Nr. 117-4444 (2008-10-11), i. k. 1081010ISTA00X-1728
- 
+4) lėšos, gautos realizavus konfiskuotus aplinkos apsaugos nusikaltimų ir pažeidimų padarymo įrankius, priemones ir neteisėtai įgytus gamtos išteklius;
 
 
 
 
-6) užsienio valstybių, organizacijų bei piliečių, tarptautinių organizacijų lėšos, skirtos žuvų ištekliams atkurti ir saugoti;
+5) lėšos už mėgėjų žvejybos leidimus valstybiniuose vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą;
 
 
 
 
-7) juridinių ir fizinių asmenų, kurių ūkinė veikla daro neigiamą poveikį žuvų ištekliams, lėšos, skirtos šiam poveikiui kompensuoti; 
-Straipsnio punkto pakeitimai:
-Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
- 
+6) Europos Sąjungos valstybių narių, užsienio valstybių, organizacijų ir piliečių, tarptautinių organizacijų sumokėtos lėšos žuvų ištekliams atkurti ir saugoti;
 
 
 
 
-8) 50 procentų medžioklės plotų naudotojų mokamo mokesčio už medžiojamųjų gyvūnų išteklių naudojimą; 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio 8 punktas (2018 m. rugsėjo 11 d. redakcija; TAR, 2018-09-19, Nr. 14700) prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
-Papildyta straipsnio punktu:
-Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
-Straipsnio punkto pakeitimai:
-Nr. XIII-1472, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14700
-Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
- 
+7) juridinių ir fizinių asmenų, kurių ūkinė veikla daro neigiamą poveikį žuvų ištekliams, sumokėtos lėšos šiam poveikiui kompensuoti; 
 
 
 
 
-9) lėšos, išieškotos už Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo pažeidimą;
-Straipsnio punkto pakeitimai:
-Nr. IX-1611, 2003-06-10, Žin., 2003, Nr. 61-2764 (2003-06-27), i. k. 1031010ISTA0IX-1611
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
- 
+8) lėšos, gautos kaip medžioklės plotų naudotojų mokamas mokestis už medžiojamųjų gyvūnų išteklių naudojimą; 
+
+
+
+
+9) lėšos, išieškotos už Lietuvos Respublikos Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo pažeidimą;
 
 
 
 
 10) savanoriškos juridinių ir fizinių asmenų įmokos;
-Straipsnio punkto pakeitimai:
-Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
- 
 
 
 
 
-11) lėšos iš sumokėtų Statybos įstatyme, Administracinių teisės pažeidimų kodekse nustatytų baudų už statinių statybą reglamentuojančių teisės aktų pažeidimus, taip pat lėšos iš sumokėtų įmokų už savavališkų statybų įteisinimą; 
-Papildyta straipsnio punktu:
-Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
- 
+11) lėšos iš sumokėtų Lietuvos Respublikos statybos įstatyme, Administracinių nusižengimų kodekse nustatytų baudų už statinių statybą reglamentuojančių teisės aktų pažeidimus ir iš sumokėtų įmokų už savavališkų statybų įteisinimą; 
 
 
 
 
-12) už savavališkai pastatytų ar savavališkai statomų statinių, statinių, pastatytų ar statomų pagal neteisėtai išduotus statybą leidžiančius dokumentus, nugriovimą, savavališkai ar pagal neteisėtai išduotus statybą leidžiančius dokumentus perstatytų ar pertvarkytų statinio dalių išardymą ar nugriauto kultūros paveldo statinio (jo dalies) atstatymą pagal teismo sprendimą iš kaltų asmenų išieškotos lėšos; 
-Papildyta straipsnio punktu:
-Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
- 
+12) už savavališkai pastatytų ar savavališkai statomų statinių, statinių, pastatytų ar statomų pagal neteisėtai išduotus statybą leidžiančius dokumentus, nugriovimą, savavališkai ar pagal neteisėtai išduotus statybą leidžiančius dokumentus perstatytų ar pertvarkytų statinio dalių išardymą ar nugriauto kultūros paveldo statinio (jo dalies) atstatymą pagal teismo sprendimą iš kaltų asmenų išieškotos lėšos;
 
 
 
 
-13) kitos teisėtai gautos lėšos.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
-Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
+13) lėšos, gautos kaip mokestis už aplinkos teršimą iš stacionariųjų ir mobiliųjų taršos šaltinių;
+
+
+
+
+14) kitos teisėtai gautos lėšos.
  
 
 
@@ -176,114 +138,82 @@ Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010IST
 
 
 
-4 straipsnis. Programos lėšų naudojimas 
+4 straipsnis. Programos lėšų naudojimas
 
 
-1. Programos lėšos naudojamos:
+Programos lėšos naudojamos:
 
 
-1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, kraštovaizdžio kompleksams ar elementams atkurti, aplinkosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, aplinkos teršimo šaltiniams pašalinti, gamtos ištekliams atkurti ir gausinti, aplinkos apsaugos valstybinę kontrolę vykdančių pareigūnų darbo užmokesčiui ‒ ne mažiau kaip 30 procentų Programos metinių įplaukų (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 5, 6, 7, 8, 11 ir 12 punktus); 
-Straipsnio punkto pakeitimai:
-Nr. XII-937, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09159
+1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, kraštovaizdžio kompleksams ar elementams atkurti, aplinkosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, aplinkos teršimo šaltiniams pašalinti, gamtos ištekliams atkurti ir gausinti; 
+
+
+
+
+2) žuvų ištekliams atkurti ir saugoti;
+
+
+
+
+3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; brakonieriavimo stabdymo priemonėms; medžioklės plėtros, saugaus elgesio medžioklėje skatinimo, medžioklės kultūros, tradicijų puoselėjimo priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta visus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti, šių gyvūnų daromos žalos prevencijos priemonėms; vilkų ūkiniams gyvūnams padarytai žalai atlyginti; valstybės įgyvendinamoms laukinių gyvūnų globos ir užkrečiamųjų ligų prevencijos priemonėms; Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje nustatytoms kompensacijoms medžioklės plotų naudotojams ir privačių žemės sklypų savininkams mokėti;
+
+
+
+
+4) aplinkos apsaugos, gamtos išteklių naudojimo ir jų gausinimo programoms, schemoms, planams, įstatymų ir kitų teisės aktų projektams rengti;
+
+
+
+
+5) moksliniams taikomiesiems darbams, aplinkos monitoringui atlikti, poveikiui aplinkai vertinti;
+
+
+
+
+6) valstybinėms aplinkos apsaugos įstaigoms ir organizacijoms aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis aplinkosaugos veiklai vykdyti;
+
+
+
+
+7) su aplinkos apsauga susijusiam švietimui, mokymui, leidybai, specialistų kvalifikacijai kelti, informacijai skleisti, renginiams ir konkursams organizuoti, tarptautinių projektų ir sutarčių įgyvendinimo išlaidoms apmokėti;
+
+
+
+
+8) vardinėms premijoms asmenims už nuopelnus aplinkosaugos srityje;
+
+
+
+
+9) neetatiniams aplinkos apsaugos inspektoriams skatinti, atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams ir rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių lėšų;
+
+
+
+
+10) savavališkai pastatytiems ar savavališkai statomiems statiniams, statiniams, pastatytiems ar statomiems pagal neteisėtai išduotus statybą leidžiančius dokumentus, nugriauti, savavališkai ar pagal neteisėtai išduotus statybą leidžiančius dokumentus perstatytoms ar pertvarkytoms statinio dalims išardyti, nugriautam kultūros paveldo statiniui (jo daliai) atstatyti pagal teismo sprendimą; savavališkų statybų prevencijai; statinių ekspertizėms atlikti, kai šias ekspertizes būtina atlikti dėl statinių avarijų prevencijos ar pareiškiant ieškinius teismams; su teritorijų planavimo valstybine priežiūra ir statybos valstybine priežiūra susijusiam švietimui, leidybai, specialistams mokyti, jų kvalifikacijai kelti; statybos valstybinę priežiūrą atliekantiems specialistams aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis veiklai statybos valstybinės priežiūros srityje vykdyti;
+
+
+
+
+11) kraujasiurbių upinių mašalų populiacijos pokyčių stebėjimams ir populiacijos reguliavimo priemonėms finansuoti;
+
+
+
+
+12) oro ir vandens taršos mažinimo ir prevencijos investicijų projektams finansuoti;
+
+
+
+
+13) Programos lėšų administravimui finansuoti.
+
+
+
+
+
+
+
+
  
-
-
-
-
-2) žuvų ištekliams atkurti ir saugoti, aplinkos apsaugos valstybinę kontrolę vykdančių pareigūnų darbo užmokesčiui ‒ įplaukos pagal šio įstatymo 3 straipsnio 5, 6 ir 7 punktus; 
-Straipsnio punkto pakeitimai:
-Nr. XII-937, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09159
- 
-
-
-
-
-3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą, tradicijas puoselėjančioms ir saugų elgesį medžioklėje skatinančioms priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms; atlyginti vilkų ūkiniams gyvūnams padarytą žalą; valstybės įgyvendinamoms laukinių gyvūnų globos ir užkrečiamųjų ligų prevencijos priemonėms; Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje nustatytoms kompensacijoms medžioklės plotų naudotojams ir privačių žemės sklypų savininkams mokėti, aplinkos apsaugos valstybinę kontrolę vykdančių pareigūnų darbo užmokesčiui ‒ įplaukos pagal šio įstatymo 3 straipsnio 8 punktą;
-Straipsnio punkto pakeitimai:
-Nr. XII-373, 2013-06-18, Žin., 2013, Nr. 67-3336 (2013-06-26), i. k. 1131010ISTA0XII-373
-Nr. XII-937, 2014-06-12, paskelbta TAR 2014-06-26, i. k. 2014-09159
-Nr. XIII-1472, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14700
-Nr. XIII-1888, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00096
- 
-
-
-
-
-4) aplinkos apsaugos, gamtos išteklių naudojimo ir jų gausinimo programoms, schemoms, planams, įstatymų ir kitų teisės aktų projektams rengti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
-
-
-
-
-5) moksliniams taikomiesiems darbams, aplinkos monitoringui, poveikio aplinkai vertinimui (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
-
-
-
-
-6) valstybinėms aplinkos apsaugos įstaigoms ir organizacijoms aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų aplinkosaugos veiklai vykdyti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
-
-
-
-
-7) aplinkosaugos srityje švietimui, mokymui, specialistų kvalifikacijai kelti, leidybai, aplinkosaugos informacijai skleisti, aplinkos apsaugos renginiams ir konkursams organizuoti, tarptautinių projektų ir sutarčių aplinkosaugos srityje įgyvendinimo išlaidoms apmokėti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
-
-
-
-
-8) vardinėms premijoms skirti asmenims už nuopelnus aplinkosaugos srityje (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
-
-
-
-
-9) neetatiniams aplinkos apsaugos inspektoriams skatinti ir atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 5, 6, 7, 8, 11 ir 12 punktus); 
-
-
-
-
-10) savavališkai pastatytiems ar savavališkai statomiems statiniams, statiniams, pastatytiems ar statomiems pagal neteisėtai išduotus statybą leidžiančius dokumentus, nugriauti, savavališkai ar pagal neteisėtai išduotus statybą leidžiančius dokumentus perstatytoms ar pertvarkytoms statinio dalims išardyti ar nugriautam kultūros paveldo statiniui (jo daliai) atstatyti pagal teismo sprendimą; savavališkų statybų prevencijai; statinių ekspertizėms atlikti tais atvejais, kai šias ekspertizes būtina atlikti dėl statinių avarijų prevencijos ar pareiškiant ieškinius teismams; teritorijų planavimo valstybinės priežiūros ir statybos valstybinės priežiūros srityse švietimui, leidybai, specialistų mokymui, jų kvalifikacijai kelti; statybos valstybinę priežiūrą atliekantiems specialistams aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų veiklai statybos valstybinės priežiūros srityje vykdyti, jų darbo užmokesčiui – įplaukos pagal šio įstatymo 3 straipsnio 11 ir 12 punktus; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2199, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20900
- 
-
-
-
-
-11) kraujasiurbių upinių mašalų populiacijos pokyčių stebėjimams ir populiacijos reguliavimo priemonėms finansuoti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus). 
-Papildyta straipsnio punktu:
-Nr. XII-2199, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20900
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
-Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
- 
-
-
-
-
-2. Programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, yra naudojamos kitiems metams numatytoms priemonėms finansuoti.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo (Žin., 2000, Nr. 92-2872) 4 straipsnio 2 dalis prieštarauja Lietuvos Respublikos Konstitucijos 129 straipsniui, 131 straipsnio 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
-Straipsnio dalies pakeitimai:
-Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
- 
-
-
-
-
-
-
-5 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
- 
- 
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
@@ -292,6 +222,7 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
  
  
 Pakeitimai:
@@ -370,3 +301,8 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1706, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27554
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 pakeitimo įstatymas
