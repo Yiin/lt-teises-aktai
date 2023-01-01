@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -362,7 +362,10 @@ Nr. XIII-2416, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13754
 
 
 
-3) jeigu asmuo, turintis teisę gauti tikslinę kompensaciją, atlieka laisvės atėmimo bausmę (išskyrus atvejus, kai bausmė atliekama atvirose kolonijose, pataisos įstaigos ar kardomojo kalinimo vietos specialiame padalinyje – pusiaukelės namuose);
+3) jeigu asmuo, turintis teisę gauti tikslinę kompensaciją, atlieka laisvės atėmimo bausmę  uždaro arba pusiau atviro tipo bausmės atlikimo vietoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1232, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15598
+ 
 
 
 
@@ -672,6 +675,11 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 5 ir 9 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1232, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15598
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 7 straipsnio pakeitimo įstatymas
  
  
 part_a8e5ae3c69504d7cb9d75726cd814662_end
