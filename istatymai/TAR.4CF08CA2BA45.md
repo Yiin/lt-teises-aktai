@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-07-15 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-04-23
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
  
@@ -455,7 +455,10 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 4. Įsiteisėjus teismo nutarčiai iškelti fizinio asmens bankroto bylą, teismas privalo ne vėliau kaip kitą darbo dieną raštu pranešti, kartu pateikdamas šios nutarties patvirtintą kopiją:
 
 
-1) šio įstatymo 13 straipsnio 9 dalyje nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai apie iškeltą fizinio asmens bankroto bylą. Šiame punkte nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija apie fiziniam asmeniui iškeltą bankroto bylą, šio straipsnio 3 dalies 2 punkte nurodytus bankroto administratoriaus duomenis ir 3 punkte nurodytą laikotarpį ne vėliau kaip kitą darbo dieną nuo teismo pranešimo gavimo dienos turi paskelbti savo interneto svetainėje Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
+1) neteko galios nuo 2023-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
 
 
 
@@ -1402,7 +1405,10 @@ Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
 
 
 
-3) šio įstatymo 13 straipsnio 9 dalyje nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai, kuri paskirto naujo bankroto administratoriaus duomenis ne vėliau kaip kitą darbo dieną nuo nurodytos nutarties patvirtintos kopijos gavimo dienos turi paskelbti savo interneto svetainėje Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
+3) neteko galios nuo 2023-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
 
 
 
@@ -1896,55 +1902,91 @@ Kreditoriai, kurių reikalavimus patvirtino teismas, turi teisę:
 
 
 
-2. Įsiteisėjus teismo nutarčiai patvirtinti planą, kreditorių susirinkimai šaukiami ne rečiau kaip vieną kartą per pusmetį. Kreditorių susirinkimus šaukia bankroto administratorius. Apie šaukiamą kreditorių susirinkimą banko administratorius kreditoriams turi raštu pranešti ne vėliau kaip likus 10 dienų iki susirinkimo dienos, kartu pateikdamas ir siūlomą kreditorių susirinkimo darbotvarkę.
-
-
-
-
-3. Kreditorius (kreditoriai), kurio (kurių) reikalavimų suma vertine išraiška sudaro ne mažiau kaip 10 procentų teismo patvirtintų visų kreditorių reikalavimų sumos, turi teisę pateikti prašymą bankroto administratoriui dėl kreditorių susirinkimo sušaukimo. Šiame prašyme turi būti nurodyti motyvai, dėl ko turėtų būti sušauktas kreditorių susirinkimas, ir pasiūlyta šio susirinkimo darbotvarkė. Bankroto administratorius, gavęs nurodytą prašymą, ne vėliau kaip per 15 darbo dienų nuo nurodyto prašymo gavimo dienos turi sušaukti kreditorių susirinkimą.
-
-
-
-
-4. Kreditorių susirinkimuose turi teisę dalyvauti kreditoriai arba jų įgalioti atstovai, fizinis asmuo, jo sutuoktinis ar sugyventinis arba jų įgalioti atstovai ir bankroto administratorius. Teisę balsuoti kreditorių susirinkimuose turi tik kreditoriai. Kreditorių susirinkimuose kreditoriai balsuoja atvirai.
-
-
-
-
-5. Kreditorių susirinkimas laikomas įvykusiu, jeigu jame dalyvavo arba iš anksto raštu balsavo kreditoriai, kurių reikalavimų suma didesnė kaip pusė visų kreditorių bendros teismo patvirtintų reikalavimų sumos.
-
-
-
-
-6. Kreditorių susirinkimo sprendimas laikomas priimtu, kai už jį balsavo kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę visų kreditorių teismo patvirtintų reikalavimų sumos, išskyrus šio įstatymo 8 straipsnio 3 dalyje ir 10 straipsnio 2 dalyje nustatytus atvejus.
+2. Įsiteisėjus teismo nutarčiai patvirtinti planą, kreditorių susirinkimai šaukiami ne rečiau kaip vieną kartą per pusmetį. Kreditorių susirinkimus šaukia bankroto administratorius. Apie šaukiamą kreditorių susirinkimą bankroto administratorius kreditoriams turi raštu pranešti ne vėliau kaip likus 10 dienų iki susirinkimo dienos, kartu pateikdamas ir siūlomą kreditorių susirinkimo darbotvarkę.
 Straipsnio dalies pakeitimai:
-Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
 
 
 
 
-7. Kreditorius turi teisę iš anksto raštu balsuoti dėl kiekvieno kreditorių susirinkimo darbotvarkėje įrašyto sprendimo projekto. Šie balsai įskaitomi į kreditorių susirinkimo balsavimo rezultatus ir apie tai turi būti paskelbta kreditorių susirinkimo metu.
+3. Pranešimas apie šaukiamą pirmąjį kreditorių susirinkimą kreditoriams turi būti pateiktas pasirašytinai, registruotąja pašto siunta, per antstolius, pasiuntinių paslaugų teikėjus arba elektroninių ryšių priemonėmis, jeigu užtikrinamas perduodamos informacijos saugumas ir galima nustatyti ir pranešimą siunčiančio, ir jį gaunančio asmens tapatybę. Jeigu pranešimas apie šaukiamą pirmąjį kreditorių susirinkimą pateiktas elektroninių ryšių priemonėmis, turi būti gautas patvirtinimas apie pranešimo gavimą. Pranešimas apie šaukiamus kitus kreditorių susirinkimus skelbiamas šio įstatymo 13 straipsnio 9 dalyje nurodytos Lietuvos Respublikos Vyriausybės įgaliotos institucijos tvarkomoje informacinėje sistemoje (toliau – informacinė sistema). 
+Papildyta straipsnio dalimi:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
 
 
 
 
-8. Jeigu fizinio asmens kreditorių susirinkimas neįvyko, nes nebuvo kvorumo, bankroto administratorius per 15 dienų turi sušaukti pakartotinį kreditorių susirinkimą. Pakartotiniam kreditorių susirinkimui šio straipsnio 5 dalies reikalavimai netaikomi. Pakartotinis kreditorių susirinkimas turi teisę priimti sprendimus tik pagal neįvykusio kreditorių susirinkimo darbotvarkę.
+4. Kreditorius (kreditoriai), kurio (kurių) reikalavimų suma vertine išraiška sudaro ne mažiau kaip 10 procentų teismo patvirtintų visų kreditorių reikalavimų sumos, turi teisę pateikti prašymą bankroto administratoriui dėl kreditorių susirinkimo sušaukimo. Šiame prašyme turi būti nurodyti motyvai, dėl ko turėtų būti sušauktas kreditorių susirinkimas, ir pasiūlyta šio susirinkimo darbotvarkė. Bankroto administratorius, gavęs nurodytą prašymą, ne vėliau kaip per 15 darbo dienų nuo nurodyto prašymo gavimo dienos turi sušaukti kreditorių susirinkimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
 
 
 
 
-9. Pakartotiniame kreditorių susirinkime sprendimas laikomas priimtu, kai už jį balsavo kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę visų susirinkime dalyvaujančių ir iš anksto raštu balsavusių kreditorių teismo patvirtintų reikalavimų sumos.
+5. Kreditorių susirinkimuose turi teisę dalyvauti kreditoriai arba jų įgalioti atstovai, fizinis asmuo, jo sutuoktinis ar sugyventinis arba jų įgalioti atstovai ir bankroto administratorius. Teisę balsuoti kreditorių susirinkimuose turi tik kreditoriai. Kreditorių susirinkimuose kreditoriai balsuoja atvirai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
 
 
 
 
-10. Kreditorių susirinkimo protokolą pasirašo kreditorių susirinkimo pirmininkas ar šio įstatymo 26 straipsnio 8 punkte nurodytas asmuo ir protokolą rašęs asmuo. Kreditorių susirinkimo pirmininkas privalo užtikrinti, kad ne vėliau kaip per 5 darbo dienas nuo kreditorių susirinkimo dienos kreditorių susirinkimo protokolo kopija būtų pateikta fiziniam asmeniui, bankroto administratoriui ir teismui.
+6. Kreditorių susirinkimas laikomas įvykusiu, jeigu jame dalyvavo arba iš anksto raštu balsavo kreditoriai, kurių reikalavimų suma didesnė kaip pusė visų kreditorių bendros teismo patvirtintų reikalavimų sumos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
 
 
 
 
-11. Kreditorių susirinkimo sprendimai privalomi visiems kreditoriams, bankroto administratoriui ir fiziniam asmeniui. Kreditorių susirinkimo sprendimą kreditoriai, bankroto administratorius ar fizinis asmuo turi teisę apskųsti teismui ne vėliau kaip per 14 dienų nuo dienos, kurią kreditorius, bankroto administratorius ar fizinis asmuo sužinojo arba turėjo sužinoti apie sprendimo priėmimą.
+7. Kreditorių susirinkimo sprendimas laikomas priimtu, kai už jį balsavo kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę visų kreditorių teismo patvirtintų reikalavimų sumos, išskyrus šio įstatymo 8 straipsnio 3 dalyje ir 10 straipsnio 2 dalyje nustatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
+
+
+
+
+8. Kreditorius turi teisę iš anksto raštu balsuoti dėl kiekvieno kreditorių susirinkimo darbotvarkėje įrašyto sprendimo projekto. Šie balsai įskaitomi į kreditorių susirinkimo balsavimo rezultatus ir apie tai turi būti paskelbta kreditorių susirinkimo metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
+
+
+
+
+9. Jeigu fizinio asmens kreditorių susirinkimas neįvyko, nes nebuvo kvorumo, bankroto administratorius per 15 dienų turi sušaukti pakartotinį kreditorių susirinkimą. Pakartotiniam kreditorių susirinkimui šio straipsnio 5 dalies reikalavimai netaikomi. Pakartotinis kreditorių susirinkimas turi teisę priimti sprendimus tik pagal neįvykusio kreditorių susirinkimo darbotvarkę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
+
+
+
+
+10. Pakartotiniame kreditorių susirinkime sprendimas laikomas priimtu, kai už jį balsavo kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę visų susirinkime dalyvaujančių ir iš anksto raštu balsavusių kreditorių teismo patvirtintų reikalavimų sumos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
+
+
+
+
+11. Kreditorių susirinkimo protokolą pasirašo kreditorių susirinkimo pirmininkas ar šio įstatymo 26 straipsnio 8 punkte nurodytas asmuo ir protokolą rašęs asmuo. Kreditorių susirinkimo pirmininkas privalo užtikrinti, kad ne vėliau kaip per 5 darbo dienas nuo kreditorių susirinkimo dienos kreditorių susirinkimo protokolo kopija būtų pateikta fiziniam asmeniui, bankroto administratoriui ir teismui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
+
+
+
+
+12. Kreditorių susirinkimo sprendimai privalomi visiems kreditoriams, bankroto administratoriui ir fiziniam asmeniui. Kreditorių susirinkimo sprendimą kreditoriai, bankroto administratorius ar fizinis asmuo turi teisę apskųsti teismui ne vėliau kaip per 14 dienų nuo dienos, kurią kreditorius, bankroto administratorius ar fizinis asmuo sužinojo arba turėjo sužinoti apie sprendimo priėmimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
 
 
@@ -2260,34 +2302,28 @@ DUOMENŲ SKELBIMAS FIZINIO ASMENS BANKROTO PROCESO METU
  
 
 
-31 straipsnis. Duomenų apie fizinio asmens bankroto procesą teikimas ir skelbimas
+31 straipsnis. Duomenų apie fizinio asmens bankroto procesą teikimas ir skelbimas
 
 
-1. Bankroto administratorius šio įstatymo 13 straipsnio 9 dalyje nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai duomenis apie fizinio asmens bankroto procesą teikia šio įstatymo nustatyta tvarka.
-
-
-
-
-2. Šio įstatymo 13 straipsnio 9 dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija šio įstatymo 12 straipsnio 1 dalies 5 punkte ir 2 dalies 7 punkte nurodytose ataskaitose pateiktą informaciją teisės aktų nustatyta tvarka teikia Lietuvos statistikos departamentui, taip pat savo informacinėje sistemoje kaupia informaciją apie fizinių asmenų bankroto procesus. Šio įstatymo 13 straipsnio 9 dalyje nurodytos Lietuvos Respublikos Vyriausybės įgaliotos institucijos interneto svetainėje skelbiami šie duomenys:
-
-
-1) fizinio asmens, kuriam iškelta bankroto byla, vardas ir pavardė, gimimo data ir vieta; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
- 
+1. Teismas ir bankroto administratorius šio įstatymo 13 straipsnio 9 dalyje nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai duomenis apie fizinio asmens bankroto procesą teikia mutatis mutandis Juridinių asmenų nemokumo įstatymo 33 straipsnyje nustatyta tvarka.
 
 
 
 
-2) teismo, nagrinėjančio fizinio asmens bankroto bylą, pavadinimas, fizinio asmens bankroto bylos numeris, teismo nutarties iškelti fizinio asmens bankroto bylą priėmimo data ir apskundimo terminas, šios nutarties įsiteisėjimo data, teismo nutarties patvirtinti planą įsiteisėjimo data, ar teisė iškelti bylą grindžiama Reglamento (ES) 2015/848 3 straipsnio 1, 2 ar 4 dalimi, teismo nustatytas kreditorių reikalavimų pateikimo terminas; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
- 
+2. Šio įstatymo 13 straipsnio 9 dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija šio įstatymo 12 straipsnio 1 dalies 5 punkte ir 2 dalies 7 punkte nurodytose ataskaitose pateiktą informaciją teisės aktų nustatyta tvarka teikia Lietuvos statistikos departamentui, taip pat savo informacinėje sistemoje kaupia informaciją apie fizinių asmenų bankroto procesus. Šio įstatymo 13 straipsnio 9 dalyje nurodytos Lietuvos Respublikos Vyriausybės įgaliotos institucijos interneto svetainėje, siekiant užtikrinti fizinio asmens bankroto procesu suinteresuotų šalių apsaugą, skelbiami šie duomenys:
+
+
+1) fizinio asmens, kuriam iškelta bankroto byla, vardas ir pavardė, gimimo data ir vieta;
 
 
 
 
-3) bankroto administratoriaus, kai bankroto administratorius fizinis asmuo, – darbo vietos adresas, vardas, pavardė ir duomenys ryšiams palaikyti, kai bankroto administratorius juridinis asmuo arba juridinio asmens padalinys (filialas), – buveinės adresas, pavadinimas, vadovo vardas, pavardė ir duomenys ryšiams palaikyti;
+2) teismo, nagrinėjančio fizinio asmens bankroto bylą, pavadinimas, fizinio asmens bankroto bylos numeris, teismo nutarties iškelti fizinio asmens bankroto bylą priėmimo data ir apskundimo terminas, šios nutarties įsiteisėjimo data, teismo nutarties patvirtinti planą įsiteisėjimo data, ar teisė iškelti bylą grindžiama Reglamento (ES) 2015/848 3 straipsnio 1, 2 ar 4 dalimi, teismo nustatytas kreditorių reikalavimų pateikimo terminas;
+
+
+
+
+3) bankroto administratoriaus, kai bankroto administratorius fizinis asmuo, – darbo vietos adresas, vardas, pavardė ir duomenys ryšiams palaikyti, kai bankroto administratorius juridinis asmuo arba juridinio asmens padalinys (filialas), – buveinės adresas, pavadinimas, vadovo vardas, pavardė ir duomenys ryšiams palaikyti;
 
 
 
@@ -2297,17 +2333,74 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
 
 
-5) fizinio asmens bankroto proceso baigimo diena (teismo sprendimo baigti fizinio asmens bankroto bylą įsiteisėjimo diena).
+5) fizinio asmens bankroto proceso baigimo diena (teismo sprendimo baigti fizinio asmens bankroto bylą įsiteisėjimo diena);
+
+
+
+
+6) fizinio asmens bankroto byloje įsiteisėję teismų sprendimai ir nutartys.
 
 
 
 
 
 
-3. Šio straipsnio 2 dalyje nurodyta informacija skelbiama 10 metų nuo fizinio asmens bankroto proceso nutraukimo ar baigimo dienos.
+3. Šio įstatymo 13 straipsnio 9 dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija, siekdama užtikrinti fizinio asmens bankroto proceso skaidrumą ir suteikti palankesnes sąlygas proceso dalyviams (fiziniam asmeniui, kreditoriams, bankroto administratoriui, kitiems dalyvaujantiems byloje asmenims) ginti savo interesus, suteikia teisę teismui ir kreditorių susirinkimuose turintiems teisę dalyvauti asmenims savo nustatyta tvarka, nepažeidžiant asmens duomenų apsaugos ir komercinės (gamybinės) paslapties apsaugos reikalavimų, savo tvarkomoje informacinėje sistemoje susipažinti su šia informacija:
+
+
+1) pranešimais apie šaukiamus kreditorių susirinkimus;
+
+
+
+
+2) kreditorių susirinkimų sprendimais;
+
+
+
+
+3) plano projekto išvada ir planu;
+
+
+
+
+4) informacija apie fizinio asmens turtą pagal šio įstatymo 4 straipsnio 4 dalies 3 ir 4 punktus;
+
+
+
+
+5) bankroto administravimo išlaidų sąmata;
+
+
+
+
+6) informacija apie kreditorius (vardas ir pavardė, jeigu kreditorius fizinis asmuo, ar pavadinimas ir kodas, jeigu kreditorius juridinis asmuo), jų reikalavimų dydį ir tenkinimą pagal kreditorių reikalavimų tenkinimo eilę ir etapus;
+
+
+
+
+7) plano vykdymo eigos ataskaita;
+
+
+
+
+8) fizinio asmens bankroto byloje priimtais teismų sprendimais ir nutartimis.
+
+
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodyta informacija laikoma žinoma toje dalyje nurodytiems teisę susipažinti su šia informacija turintiems asmenims nuo šios informacijos pateikimo informacinėje sistemoje dienos.
+
+
+
+
+5. Šio straipsnio 2 dalyje nurodyta informacija skelbiama 10 metų nuo fizinio asmens bankroto proceso nutraukimo ar baigimo dienos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
-
-
 
 
 
@@ -2353,7 +2446,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
 
 
