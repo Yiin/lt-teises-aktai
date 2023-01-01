@@ -18,11 +18,17 @@ LIETUVOS RESPUBLIKOS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
+ 
+TAR pastaba. 23 straipsnio 6 dalies, 25 straipsnio 2 dalies ir 30 straipsnio 1 dalies  nuostatos taikomos kredito unijų stebėtojų tarybos pirmininko, stebėtojų tarybos nario, kredito unijų valdybos pirmininko, valdybos nario, paskolų komiteto pirmininko ar paskolų komiteto nario prašymams atsistatydinti iš pareigų, pateiktiems nuo 2023 m. sausio 1 d.  45 straipsnio 2 dalies, kuri   pripažįstama netekusia galios, reikalavimų panaikinimas taikomas kredito unijos sprendimams skolinti, priimtiems nuo 2023 m. sausio 1 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 5, 8, 10, 22, 23, 25, 27, 30, 45, 68, 74, 75, 77 straipsnių pakeitimo, Įstatymo papildymo 75-1 straipsniu ir vienuoliktuoju skirsniu ir 69 straipsnio pripažinimo netekusiu galios įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2567, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20320
@@ -277,7 +283,15 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 
 
 
-9) valiutos keitimas (grynaisiais pinigais).
+9) valiutos keitimas (grynaisiais pinigais);
+
+
+
+
+10) finansinė nuoma (lizingas). 
+Papildyta straipsnio punktu:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
 
 
 
@@ -314,7 +328,10 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 
 
 
-5. Šio straipsnio 2 dalies 2 punkte ir 3 dalies 3, 6, 7, 8, 9 punktuose nurodytas finansines paslaugas kredito unija turi teisę teikti visiems asmenims.
+5. Šio straipsnio 2 dalies 2, 3 punktuose ir 3 dalies 3, 5, 6, 7, 8, 9 punktuose nurodytas finansines paslaugas kredito unija turi teisę teikti visiems asmenims. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
 
 
 
@@ -589,7 +606,9 @@ Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
 
 
 
-5. Atšaukus licenciją, kredito unija neturi teisės teikti finansinių paslaugų, išskyrus tai, kiek tai būtina atsiskaityti su kredito unijos kreditoriais, ir šio įstatymo devintajame ir dešimtajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl kredito unijos likvidavimo ar bankroto bylos jai kėlimo.
+5. Atšaukus licenciją, kredito unija neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su kredito unijos kreditoriais arba atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį, ir šio įstatymo devintajame ir dešimtajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl kredito unijos likvidavimo ar bankroto bylos jai kėlimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
 
 
@@ -663,20 +682,10 @@ KREDITO UNIJOS NARIAI
 
 
 
-4. Kredito unijos asocijuotais nariais gali būti šie Lietuvos Respublikoje įregistruoti ir Lietuvos Respublikos savivaldybės, kurioje įregistruota kredito unijos buveinė, teritorijoje ir kitų kredito unijos įstatuose nurodytų savivaldybių, kurios ribojasi su šia savivaldybe, teritorijose buveinę turintys juridiniai asmenys:
-
-
-1) asociacijos, profesinės sąjungos, profesinių sąjungų susivienijimai, religinės bendruomenės ir bendrijos, advokatų profesinės bendrijos, sodininkų bendrijos, daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijos, viešosios įstaigos, šeimynos, kooperatinės bendrovės (kooperatyvai), žemės ūkio bendrovės; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+4. Kredito unijos asocijuotais nariais gali būti visi Lietuvos Respublikoje įregistruoti ir Lietuvos Respublikos savivaldybės, kurioje įregistruota kredito unijos buveinė, teritorijoje ir kitų kredito unijos įstatuose nurodytų savivaldybių, kurios ribojasi su šia savivaldybe, teritorijose buveinę turintys juridiniai asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
-
-
-
-
-2) kredito unijos narių – fizinių asmenų – individualios įmonės, taip pat tikrosios ūkinės bendrijos, komanditinės ūkinės bendrijos, uždarosios akcinės bendrovės, mažosios bendrijos, kuriose kredito unijos narys ar nariai valdo įstatinio kapitalo ir (arba) balsavimo teisių dalis, suteikiančias teisę kontroliuoti įmonės veiklą. Šiame punkte nurodyti juridiniai asmenys gali būti kredito unijos asocijuotais nariais, jeigu jie atitinka Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme numatytų vidutinių, mažų ir labai mažų įmonių sąvokų apibrėžtį.
-
-
 
 
 
@@ -1267,7 +1276,10 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 
 
 
-4. Užpildytą bendrąjį balsavimo biuletenį turi pasirašyti kredito unijos narys arba nario įgaliotas fizinis asmuo. Jeigu užpildytą bendrąjį balsavimo biuletenį pasirašo asmuo, kuris nėra narys, prie užpildyto bendrojo balsavimo biuletenio turi būti pridėtas teisę balsuoti patvirtinantis dokumentas. 
+4. Užpildytą bendrąjį balsavimo biuletenį turi pasirašyti kredito unijos narys arba nario įgaliotas fizinis asmuo. Jeigu užpildytą bendrąjį balsavimo biuletenį pasirašo asmuo, kuris nėra kredito unijos narys, prie užpildyto bendrojo balsavimo biuletenio turi būti pridėtas teisę balsuoti patvirtinantis dokumentas. Kredito unijos nario elektroninėmis ryšio priemonėmis užpildytas ir kredito unijai per jos naudojamą elektroninės bankininkystės sistemą pateiktas balsavimo biuletenis prilyginamas ranka popieriuje pasirašytam ar kvalifikuotu elektroniniu parašu pasirašytam biuleteniui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
 
 
 
@@ -1318,7 +1330,10 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 
 
 
-6. Stebėtojų tarybos narys gali atsistatydinti iš pareigų kadencijai nesibaigus, apie tai raštu įspėjęs stebėtojų tarybą ne vėliau kaip prieš 14 dienų.
+6. Stebėtojų tarybos pirmininkas ar stebėtojų tarybos narys gali atsistatydinti iš pareigų kadencijai nesibaigus, apie tai raštu įspėjęs stebėtojų tarybą ne vėliau kaip prieš 30 dienų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
 
 
 
@@ -1471,7 +1486,10 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-2. Valdybos narius ir valdybos pirmininką renka kredito unijos visuotinis narių susirinkimas kredito unijos nustatytam, bet ne ilgesniam kaip 4 metų, laikotarpiui. Valdyba funkcijas atlieka kredito unijos įstatuose nustatytą laiką arba tol, kol iš naujo išrinktos valdybos nariai pradeda eiti pareigas. Visuotinis narių susirinkimas gali atšaukti valdybos narį, valdybos pirmininką arba visą valdybą ir nepasibaigus jų kadencijos laikotarpiui. Valdybos pirmininkas ar valdybos narys gali atsistatydinti iš pareigų kadencijai nepasibaigus, apie tai raštu įspėjęs valdybą ne vėliau kaip prieš 14 dienų. Valdybos nario kadencijų skaičius neribojamas. Jeigu renkami pavieniai valdybos nariai, jie renkami tik iki veikiančios valdybos kadencijos pabaigos.
+2. Valdybos narius ir valdybos pirmininką renka kredito unijos visuotinis narių susirinkimas kredito unijos nustatytam, bet ne ilgesniam kaip 4 metų, laikotarpiui. Valdyba funkcijas atlieka kredito unijos įstatuose nustatytą laiką arba tol, kol iš naujo išrinktos valdybos nariai pradeda eiti pareigas. Kredito unijos visuotinis narių susirinkimas gali atšaukti valdybos narį, valdybos pirmininką arba visą valdybą ir nepasibaigus jų kadencijai. Valdybos pirmininkas ar valdybos narys gali atsistatydinti iš pareigų kadencijai nepasibaigus, apie tai raštu įspėjęs valdybą ne vėliau kaip prieš 30 dienų. Valdybos nario kadencijų skaičius neribojamas. Jeigu renkami pavieniai valdybos nariai, jie renkami tik laikotarpiui iki veikiančios valdybos kadencijos pabaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
 
 
 
@@ -1741,9 +1759,10 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 
 
 
-2. Kredito unijos vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai atlikti pareigas. Kredito unijos vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Kredito unijos vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos priimtuose teisės aktuose nustatyta tvarka. Kredito unijos vadovu negali būti asmuo, nesutinkantis, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus duomenis apie jį, įskaitant asmens duomenis ir informaciją apie asmens teistumą, sveikatą. 
+2. Kredito unijos vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai atlikti pareigas. Kredito unijos vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Kredito unijos vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos priimtuose teisės aktuose nustatyta tvarka. Kredito unijos vadovu negali būti asmuo, nesutinkantis, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus duomenis apie jį, įskaitant asmens duomenis ir informaciją apie jo teistumą, sveikatą. Kredito unija, siekdama patikrinti, ar kredito unijos vadovai yra nepriekaištingos reputacijos, turi teisę kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registrą ir asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka tvarkyti šių asmenų asmens duomenis, įskaitant duomenis apie asmens teistumą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
 
 
@@ -1865,7 +1884,33 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 
 
 
-13. Kredito unijos darbuotojų kvalifikacijos, patirties ir reputacijos reikalavimus gali nustatyti priežiūros institucijos teisės aktai.
+13. Kredito unijos užtikrina, kad jų darbuotojai, kurių funkcijos kredito unijoje susijusios su finansinių paslaugų teikimu, iš sandorių kylančios rizikos vertinimu ir (ar) valdymu, kredito unijos prievolių pinigų plovimo ir teroristų finansavimo prevencijos srityje vykdymu ir (ar) kuriems dėl to būtina prieiga prie kredito unijos paslaptį sudarančios informacijos, yra nepriekaištingos reputacijos. Kredito unijos darbuotojas nėra nepriekaištingos reputacijos, jeigu atitinka šio straipsnio 14 dalyje nustatytas sąlygas. Kredito unija, siekdama patikrinti, ar jos darbuotojai yra nepriekaištingos reputacijos, turi teisę kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registrą ir asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka tvarkyti šių asmenų asmens duomenis, įskaitant duomenis apie asmens teistumą. Kiti kredito unijos darbuotojams taikomi reikalavimai gali būti nustatyti priežiūros institucijos teisės aktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
+
+
+
+
+14. Kredito unijos darbuotojas negali būti laikomas nepriekaištingos reputacijos, jeigu jis yra pripažintas kaltu dėl Lietuvos Respublikos baudžiamajame kodekse numatyto sunkaus, labai sunkaus nusikaltimo arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus padarymo ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 5 metai
+Papildyta straipsnio dalimi:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
+
+
+
+
+15. Įtariamųjų, kaltinamųjų ir nuteistųjų registro valdytojas kredito unijai pateikia pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie šio straipsnio 1 ir 13 dalyje nurodytus asmenis
+Papildyta straipsnio dalimi:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
+
+
+
+
+16. Į šio straipsnio 2 ir 13 dalyse nurodytų kredito unijos vadovų ir darbuotojų pareigas asmenį skirianti ar paskyrusi kredito unija šio straipsnio 2 ar 13 dalyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
 
 
@@ -1924,7 +1969,10 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 30 straipsnis. Paskolų komitetas
 
 
-1. Paskolų komiteto narių negali būti mažiau kaip trys nariai. Paskolų komiteto narius ir pirmininką iš ne mažiau kaip trijų kredito unijos narių renka visuotinis narių susirinkimas kredito unijos nustatytam, bet ne ilgesniam kaip 4 metų laikotarpiui. Paskolų komitetas funkcijas atlieka kredito unijos įstatuose nustatytą laiką arba tol, kol iš naujo išrinkto paskolų komiteto nariai pradeda eiti pareigas. Visuotinis narių susirinkimas gali atšaukti visą paskolų komitetą ar pavienius jo narius ir nepasibaigus jų kadencijai. Paskolų komiteto pirmininkas ar narys gali atsistatydinti iš pareigų kadencijai nepasibaigus, apie tai raštu įspėjęs paskolų komitetą ne vėliau kaip prieš 14 dienų. Jeigu renkami pavieniai paskolų komiteto nariai, jie renkami tik iki veikiančio paskolų komiteto kadencijos pabaigos. Paskolų komiteto nariu negali būti kredito unijos stebėtojų tarybos narys, valdybos narys, administracijos vadovas, vidaus audito tarnybos narys.
+1. Paskolų komiteto narių negali būti mažiau kaip trys nariai. Paskolų komiteto narius ir pirmininką iš ne mažiau kaip trijų kredito unijos narių renka visuotinis narių susirinkimas kredito unijos nustatytam, bet ne ilgesniam kaip 4 metų, laikotarpiui. Paskolų komitetas funkcijas atlieka kredito unijos įstatuose nustatytą laiką arba tol, kol iš naujo išrinkto paskolų komiteto nariai pradeda eiti pareigas. Visuotinis narių susirinkimas gali atšaukti visą paskolų komitetą ar pavienius jo narius ir nepasibaigus jų kadencijai. Paskolų komiteto pirmininkas ar narys gali atsistatydinti iš pareigų kadencijai nepasibaigus, apie tai raštu įspėjęs paskolų komitetą ne vėliau kaip prieš 30 dienų. Jeigu renkami pavieniai paskolų komiteto nariai, jie renkami tik laikotarpiui iki veikiančio paskolų komiteto kadencijos pabaigos. Paskolų komiteto nariu negali būti kredito unijos stebėtojų tarybos narys, valdybos narys, administracijos vadovas, vidaus audito tarnybos narys. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
 
 
 
@@ -2468,32 +2516,9 @@ KREDITO UNIJOS VEIKLOS RIZIKA IR JOS APRIBOJIMAS. KREDITO UNIJOS KLIENTŲ INTERE
 
 
 
-2. Jeigu skolinimo laikas viršija 5 metus, toks skolinimas turi būti užtikrintas bent viena iš šių prievolių įvykdymo užtikrinimo priemonių:
-
-
-1) hipoteka;
-
-
-
-
-2) valstybių centrinių bankų ir vyriausybių vertybinių popierių įkeitimu;
-
-
-
-
-3) indėlio, esančio toje kredito unijoje, įkeitimu, jeigu prašoma skolinti pinigų suma ir palūkanos už ją neviršija indėlio su palūkanomis sumos;
-
-
-
-
-4) valstybės garantuojamos garantijų institucijos, kaip tai apibrėžta Lietuvos Respublikos valstybės skolos įstatyme, garantija; 
-
-
-
-
-5) kilnojamojo daikto, įsigyto už skolinimo sandorio lėšas, įkeitimu, tačiau ne daugiau negu 30 procentų skolinimo sumos ir ne ilgesniam kaip 7 metų terminui nuo skolinimo sandorio sudarymo. 
-
-
+2. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 Straipsnio dalies pakeitimai:
 Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
  
@@ -2643,40 +2668,35 @@ KREDITO UNIJOS APSKAITA. FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 4. Pasibaigus finansiniams metams, kredito unija privalo:
 
 
-1) ne vėliau kaip prieš 10 dienų iki eilinio kredito unijos visuotinio narių susirinkimo sudaryti sąlygas kredito unijos nariams susipažinti su auditoriaus ar audito įmonės audituotu metinių finansinių ataskaitų rinkiniu, sprendimo dėl pelno paskirstymo projektu ir auditoriaus išvada; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
- 
+1) ne vėliau kaip prieš 10 dienų iki kredito unijos visuotinio narių susirinkimo sudaryti sąlygas kredito unijos nariams susipažinti su metinių finansinių ataskaitų rinkiniu ir sprendimo dėl pelno paskirstymo projektu;
 
 
 
 
 2) ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos kredito unijos visuotinio narių susirinkimo sprendimu patvirtinti metinių finansinių ataskaitų rinkinį ir priimti sprendimą dėl pelno paskirstymo;
-Straipsnio punkto pakeitimai:
+
+
+
+
+3) per 5 darbo dienas po kredito unijos visuotinio narių susirinkimo sprendimo dėl metinių finansinių ataskaitų rinkinio patvirtinimo priėmimo dienos pateikti priežiūros institucijai šio susirinkimo patvirtintą metinių finansinių ataskaitų rinkinį ir sprendimą dėl pelno paskirstymo;
+
+
+
+
+4) per 4 mėnesius nuo finansinių metų pabaigos priežiūros institucijos nustatyta tvarka paskelbti metinių finansinių ataskaitų rinkinį ir kitą priežiūros institucijos nurodytą informaciją visuomenei. 
+
+
+Straipsnio dalies pakeitimai:
 Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
  
 
 
 
 
-3) per 5 darbo dienas po kredito unijos visuotinio narių susirinkimo sprendimo dėl metinių finansinių ataskaitų rinkinio patvirtinimo priėmimo dienos pateikti priežiūros institucijai auditoriaus arba audito įmonės audituotą ir šio susirinkimo patvirtintą metinių finansinių ataskaitų rinkinį ir sprendimą dėl pelno paskirstymo; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
- 
-
-
-
-
-4) per 4 mėnesius nuo finansinių metų pabaigos priežiūros institucijos nustatyta tvarka paskelbti metinių finansinių ataskaitų rinkinį, auditoriaus išvadą ir kitą priežiūros institucijos nurodytą informaciją visuomenei.
-
-
-
-
-
-
-5. Kredito unijos visuotinis narių susirinkimas negali priimti sprendimo dėl pelno paskirstymo, jeigu nėra auditoriaus ar audito įmonės atlikto metinių finansinių ataskaitų rinkinio audito. 
+5. Neteko galios 2023-01-01.
 Straipsnio dalies pakeitimai:
 Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
  
 
 
@@ -2690,55 +2710,9 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-52 straipsnis. Auditas
-
-
-1. Auditorius ar audito įmonė turi atlikti kredito unijos metinių finansinių ataskaitų rinkinių auditą ir tuo remdamiesi pateikti auditoriaus išvadą dėl šių ataskaitų rinkinių ir audito ataskaitą. Audito ataskaitoje auditorius turi pateikti informaciją apie tai, ar kredito unija:
-
-
-1) tiksliai ir kvalifikuotai įvertino turtą pagal Lietuvos Respublikoje galiojančius teisės aktus;
-
-
-
-
-2) atliko privalomus turto vertės patikslinimus ir nurašymus;
-
-
-
-
-3) sudarė privalomus ir būtinus kapitalus, rezervus ir atidėjinius (atidėjimus) veiklos rizikai sumažinti;
-
-
-
-
-4) laikosi Lietuvos Respublikos teisės aktuose nustatytų kapitalo reikalavimų;
-
-
-
-
-5) atitinka Lietuvos Respublikos teisės aktuose nustatytus veiksmingo ir patikimo nuosavybės valdymo bei saugios ir patikimos veiklos reikalavimus;
-
-
-
-
-6) turi tinkamas vidaus kontrolės ir informacines sistemas.
-
-
-
-
-
-
-2. Kredito unijos auditorius negali atlikti tos pačios kredito unijos audito ilgiau kaip 5 finansinius metus iš eilės. 
-Straipsnio dalies pakeitimai:
+52 straipsnis. Neteko galios nuo 2023-01-01
+Straipsnio naikinimas:
 Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
- 
-
-
-
-
-3. Kredito unija iki einamųjų finansinių metų pirmojo pusmečio pabaigos privalo su kredito unijos visuotinio narių susirinkimo išrinktu auditoriumi ar audito įmone sudaryti sutartį dėl metinių finansinių ataskaitų rinkinių audito. 
-
-
 Straipsnio pakeitimai:
 Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
  
@@ -2746,12 +2720,9 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-53 straipsnis. Reikalavimai auditoriui ir audito įmonei, jų pareigos ir atsakomybė
-
-
-Reikalavimus auditoriui ir audito įmonei, jų pareigas ir atsakomybę nustato Lietuvos Respublikos finansų įstaigų įstatymas, Lietuvos Respublikos finansinių ataskaitų audito įstatymas. 
-
-
+53 straipsnis. Neteko galios nuo 2023-01-01
+Straipsnio naikinimas:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
 Straipsnio pakeitimai:
 Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
  
@@ -4136,3 +4107,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 57 ir 61 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-770, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26899
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 77 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 5, 8, 10, 22, 23, 25, 27, 30, 45, 68, 74, 75, 77 straipsnių pakeitimo, Įstatymo papildymo 75-1 straipsniu ir vienuoliktuoju skirsniu ir 69 straipsnio pripažinimo netekusiu galios įstatymas
