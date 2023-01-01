@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/34cc90406ef211e484b9c12b550436a3"
 
 # Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas
 
+Suvestinė redakcija nuo 2023-01-01 iki 2024-12-12
+ 
+Konstitucinis įstatymas paskelbtas: TAR 2014-11-18, i. k. 2014-17028
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 FISKALINĖS SUTARTIES ĮGYVENDINIMO
 KONSTITUCINIS ĮSTATYMAS
@@ -25,10 +32,17 @@ KONSTITUCINIS ĮSTATYMAS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šio įstatymo paskirtis – užtikrinti valdžios sektoriaus finansų tvarumą, stabilią ūkio plėtrą ir įgyvendinti 2012 m. kovo 2 d. Belgijos Karalystės, Bulgarijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos, Maltos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės sutartį dėl stabilumo, koordinavimo ir valdysenos ekonominėje ir pinigų sąjungoje (toliau – Fiskalinė sutartis).
+1. Šio įstatymo paskirtis – užtikrinti valdžios sektoriaus finansų tvarumą, stabilią ūkio plėtrą ir įgyvendinti 2012 m. kovo 2 d. Belgijos Karalystės, Bulgarijos Respublikos, Danijos Karalystės, Vokietijos Federacinės Respublikos, Estijos Respublikos, Airijos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Italijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Liuksemburgo Didžiosios Hercogystės, Vengrijos, Maltos, Nyderlandų Karalystės, Austrijos Respublikos, Lenkijos Respublikos, Portugalijos Respublikos, Rumunijos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės sutartį dėl stabilumo, koordinavimo ir valdysenos ekonominėje ir pinigų sąjungoje (toliau – Fiskalinė sutartis).
+
+
+
+
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
  
-
-
 
 
 
@@ -148,10 +162,52 @@ KONSTITUCINIS ĮSTATYMAS
 
 
 
-4. Kiekvienas valdžios sektoriui priskiriamas biudžetas, kurio planuojami asignavimai neviršija 0,3 procento praėjusių metų BVP to meto kainomis, turi būti planuojamas, tvirtinamas, keičiamas ir vykdomas taip, kad to biudžeto asignavimai neviršytų jo pajamų, išskyrus metus, kuriais pagal Vyriausybės arba jos įgaliotos institucijos viešai paskelbtą ekonominės raidos scenarijų, dėl kurio tvirtinimo kontrolės institucija paskelbė savo išvadą, numatomas neigiamas produkcijos atotrūkis nuo potencialo. Pastaruoju atveju asignavimai negali viršyti pajamų daugiau kaip 1,5 procento. 
+4. Kiekvienas valdžios sektoriui priskiriamas biudžetas, kurio planuojami asignavimai neviršija 0,3 procento praėjusių metų BVP to meto kainomis, turi būti planuojamas, tvirtinamas, keičiamas ir vykdomas taip, kad to biudžeto asignavimai neviršytų jo pajamų (asignavimus ir pajamas vertinant kaupiamuoju principu), išskyrus metus, kuriais pagal Vyriausybės arba jos įgaliotos institucijos viešai paskelbtą ekonominės raidos scenarijų, dėl kurio tvirtinimo kontrolės institucija paskelbė savo išvadą, numatomas neigiamas produkcijos atotrūkis nuo potencialo. Pastaruoju atveju asignavimai negali viršyti pajamų daugiau kaip 1,5 procento.
+
+
+
+
+5. Nustatoma tokia savivaldybės biudžeto sudarymo lankstumo taisyklė: savivaldybė, vertindama savo biudžeto atitiktį atitinkamai šio straipsnio 2 arba 4 dalyje nustatytai biudžeto sudarymo taisyklei, gali:
+
+
+1) iš asignavimų atimti asignavimus, skirtus Europos Sąjungos ir kitai tarptautinei finansinei paramai bendrai finansuoti, įskaitant tinkamų finansuoti išlaidų daliai tenkantį pridėtinės vertės mokestį, išskyrus iš valstybės biudžeto gautus asignavimus, skirtus Europos Sąjungos ir kitai tarptautinei finansinei paramai bendrai finansuoti;
+
+
+
+
+2) prie einamųjų metų pajamų pridėti tokią dalį praėjusių metų gruodžio 31 dieną buvusių sukauptų savivaldybės biudžeto nepanaudotų pajamų (t. y. gautų, tačiau nepanaudotų pajamų, išskyrus nepanaudotas Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas), kuri einamaisiais metais panaudojama asignavimams. 
+
+
+
+
+
+
+6. Savivaldybės skola pagal įsipareigojamuosius skolos dokumentus, įskaitant paskolos, finansinės nuomos (lizingo) sutartis, bet neapsiribojant jomis, negali viršyti 60 procentų (Vilniaus miesto savivaldybės – 75 procentų) valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytų tiems metams prognozuojamų savivaldybės biudžeto pajamų iš gyventojų pajamų mokesčio ir paskutinių pasibaigusių metų savivaldybės biudžeto gautų pajamų, išskyrus iš gyventojų pajamų mokesčio gautas pajamas, valstybės biudžeto dotacijas ir Europos Sąjungos ir kitą tarptautinę finansinę paramą, sumos.
+
+
+
+
+7. Savivaldybės prisiimti įsipareigojimai pagal garantijas dėl savivaldybės valdomų įmonių prisiimtų, bet dar neįvykdytų įsipareigojimų grąžinti kreditoriams lėšas pagal paskolų sutartis, finansinės nuomos (lizingo) sutartis ar kitus įsipareigojamuosius skolos dokumentus negali viršyti 10 procentų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytų tiems metams prognozuojamų savivaldybės biudžeto pajamų iš gyventojų pajamų mokesčio ir paskutinių pasibaigusių metų savivaldybės biudžeto gautų pajamų, išskyrus iš gyventojų pajamų mokesčio gautas pajamas ir valstybės biudžeto dotacijas, sumos.
+
+
+
+
+8. Vyriausybė, įvertinusi valstybės finansines galimybes, gali siūlyti Seimui valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatyti savivaldybėms grynojo skolinių įsipareigojimų pokyčio limitą.
+
+
+
+
+9. Jeigu, remiantis paskutinių pasibaigusių metų gruodžio 31 dienos duomenimis, savivaldybės skola viršija šio straipsnio 6 dalyje nustatytą limitą, savivaldybės biudžeto sudarymo lankstumo taisyklė savivaldybės biudžetui netaikoma tol, kol savivaldybė viršija limitą.
+
+
+
+
+10. Jeigu paskutiniais pasibaigusiais metais savivaldybės biudžeto balanso rodiklis faktiškai nukrypsta nuo savivaldybės biudžeto balanso rodiklio, atitinkančio atitinkamai šio straipsnio 2 arba 4 dalyje nustatytą biudžeto sudarymo taisyklę (pritaikius savivaldybės biudžeto sudarymo lankstumo taisyklę), savivaldybė ne daugiau kaip per dvejus metus turi visiškai kompensuoti šį nukrypimą. Jeigu šis nukrypimas nekompensuojamas per dvejus metus, kitais ir vėlesniais metais savivaldybei netaikoma savivaldybės biudžeto sudarymo lankstumo taisyklė tol, kol nukrypimas bus kompensuotas. Savivaldybės biudžeto sudarymo lankstumo taisyklė pradedama taikyti po metų, kuriais savivaldybė kompensuoja biudžeto balanso rodiklio nukrypimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
  
-
-
 
 
 
@@ -317,5 +373,36 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
- 
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+ 
+
+
+
+
+
+
+ 
+Lietuvos Respublikos
+Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms.
+_______________
+ 
+
+
+Papildyta priedu:
+Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1760, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27575
+Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo Nr. XII-1289 1, 4 straipsnių pakeitimo ir Įstatymo papildymo priedu konstitucinis įstatymas
