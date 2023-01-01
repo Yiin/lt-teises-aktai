@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2022-12-15 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -4994,7 +4994,7 @@ Valstybinė ir teritorinės ligonių kasos pagal kompetenciją užtikrina nustat
 
 
 
-77 straipsnis. Vidaus reikalų ministro valdymo srities įstaiga, vykdanti sveikatinimo veiklą, Lietuvos kariuomenės padaliniai, vykdantys sveikatinimo veiklą, ir laisvės atėmimo vietų sveikatos priežiūros įstaigos 
+77 straipsnis. Vidaus reikalų ministro valdymo srities įstaiga, vykdanti sveikatinimo veiklą, Lietuvos kariuomenės ir laisvės atėmimo vietų įstaigos padaliniai, vykdantys sveikatinimo veiklą 
 
 
 1. Vidaus reikalų ministro valdymo srities įstaiga, vykdanti sveikatinimo veiklą, steigiama įstatymų nustatyta tvarka. Vidaus reikalų ministro valdymo srities įstaigos, vykdančios sveikatinimo veiklą, nuostatus tvirtina vidaus reikalų ministras, suderinęs su sveikatos apsaugos ministru. Jos veikla finansuojama iš Vidaus reikalų ministerijai skirtų valstybės biudžeto lėšų, taip pat iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.
@@ -5007,20 +5007,20 @@ Valstybinė ir teritorinės ligonių kasos pagal kompetenciją užtikrina nustat
 
 
 
-3. Laisvės atėmimo vietų sveikatos priežiūros įstaigos ir (ar) laisvės atėmimo įstaigų asmens sveikatos priežiūros padaliniai steigiami įstatymų nustatyta tvarka.
+3. Laisvės atėmimo vietų įstaigos padaliniai, vykdantys sveikatinimo veiklą, steigiami įstatymų nustatyta tvarka. 
 
 
 
 
-4. Asmens sveikatos priežiūra laisvės atėmimo vietų įstaigose finansuojama iš Privalomojo sveikatos draudimo fondo biudžeto ir iš valstybės biudžeto lėšų.
+4. Asmens sveikatos priežiūra laisvės atėmimo vietų įstaigoje finansuojama iš Privalomojo sveikatos draudimo fondo biudžeto ir iš valstybės biudžeto lėšų.
 
 
 
 
-5. Vidaus reikalų ministro valdymo srities įstaiga, vykdanti sveikatinimo veiklą, Lietuvos kariuomenės padaliniai, vykdantys sveikatinimo veiklą, laisvės atėmimo vietų sveikatos priežiūros įstaigos ir (ar) laisvės atėmimo įstaigų asmens sveikatos priežiūros padaliniai:
+5. Vidaus reikalų ministro valdymo srities įstaiga, vykdanti sveikatinimo veiklą, Lietuvos kariuomenės ir laisvės atėmimo vietų įstaigos padaliniai, vykdantys sveikatinimo veiklą:
 
 
-1) įgyvendina šio ir kitų įstatymų Vidaus reikalų ministerijos, Krašto apsaugos ministerijos ir Teisingumo ministerijos specialiajai kompetencijai priskiriamą sveikatinimo veiklą;
+1) įgyvendina šiame ir kituose įstatymuose Vidaus reikalų ministerijos, Krašto apsaugos ministerijos ir Teisingumo ministerijos specialiajai kompetencijai priskiriamą sveikatinimo veiklą;
 
 
 
@@ -5035,6 +5035,7 @@ Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 Nr. XI-2402, 2012-11-08, Žin., 2012, Nr. 135-6876 (2012-11-22)
 Straipsnio pakeitimai:
 Nr. XIII-2701, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21419
+Nr. XIV-1212, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15577
  
 
 
