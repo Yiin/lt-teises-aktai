@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-02-28
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
  
@@ -86,7 +86,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrija (toliau – bendrija) – ribotos civilinės atsakomybės pelno nesiekiantis juridinis asmuo, įsteigtas naudoti, valdyti, prižiūrėti bendrosios dalinės nuosavybės teisės objektus arba juos sukurti bendrijos narių poreikiams, arba tenkinti kitus bendruosius poreikius.
+7. Daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrija (toliau – bendrija) – ribotos civilinės atsakomybės pelno nesiekiantis juridinis asmuo, įsteigtas daugiabučių gyvenamųjų namų butų ir kitų patalpų ar kitos paskirties pastatų savininkų bendrosios dalinės nuosavybės teisės objektams naudoti, valdyti, prižiūrėti ar jiems sukurti arba kitiems bendriesiems šių savininkų poreikiams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
@@ -266,7 +269,10 @@ BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-5. Bendrijos steigimo iniciatoriai iki numatomo bendrijos steigiamojo susirinkimo dienos sudaro butų ir kitų patalpų (pastatų) savininkų, kurie pritaria bendrijos steigimui, sąrašą su šių savininkų parašais. Butų ir kitų patalpų (pastatų) savininkai, kurie iš anksto raštu nepareiškė valios dėl bendrijos steigimo, turi teisę savo valią pareikšti raštu bendrijos steigiamajame susirinkime. 
+5. Bendrija steigiama butų ir kitų patalpų (pastatų) savininkams pareiškiant pritarimą bendrijos steigimo ir kitais bendrijos steigiamojo susirinkimo darbotvarkės klausimais šiame susirinkime arba raštu iš anksto. Pritarimo raštu iš anksto bendrijos steigimo ir kitais steigiamojo susirinkimo darbotvarkės klausimais tvarką nustato Vyriausybės įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
@@ -276,12 +282,17 @@ BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-7. Bendrojo naudojimo objektų administratorius, pagal jungtinės veiklos sutartį įgaliotas asmuo ar pastato statytojas privalo per 30 dienų nuo bendrijos įregistravimo perduoti įsteigtai bendrijai nepanaudotas butų ir kitų patalpų (pastatų) savininkų kaupiamąsias lėšas, skirtas pastatui (pastatams) atnaujinti ir kitoms bendrosioms reikmėms, taip pat turimus pastato (pastatų) statybos ir techninės inventorizacijos dokumentus. 
+7. Nuo bendrijos įregistravimo Juridinių asmenų registre dienos baigiasi jungtinės veiklos sutartis, bendrojo naudojimo objektų administratoriaus įgaliojimai. Bendrojo naudojimo objektų administratorius, pagal jungtinės veiklos sutartį įgaliotas asmuo ar pastato statytojas privalo per 30 dienų nuo bendrijos įregistravimo dienos perduoti įsteigtai bendrijai nepanaudotas butų ir kitų patalpų (pastatų) savininkų kaupiamąsias lėšas, skirtas pastatui (pastatams) atnaujinti ir kitoms bendrosioms reikmėms, taip pat turimus pastato (pastatų) statybos ir techninės inventorizacijos dokumentus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
 
-8. Bendrijos steigimo išlaidas apmoka bendrijos steigėjai proporcingai jų daliai bendrojoje dalinėje nuosavybėje. 
+8. Juridinių asmenų registre įregistruotos bendrijos steigimo išlaidas apmoka butų ir kitų patalpų (pastatų) savininkai proporcingai savo daliai bendrojoje dalinėje nuosavybėje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
  
 
 
@@ -297,7 +308,10 @@ BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-2. Butų ir kitų patalpų (pastatų) savininkai sprendimą prisijungti prie veikiančios bendrijos priima butų ir kitų patalpų (pastatų) savininkų susirinkime. Sprendimas prisijungti prie veikiančios bendrijos yra teisėtas, jeigu daugiabučio namo ar kitos paskirties pastato (pastatų), kuriame (kuriuose) nėra įsteigta bendrija, butų ir kitų patalpų (pastatų) savininkų susirinkime dalyvavo daugiau kaip pusė šio namo butų ir kitų patalpų savininkų ir už sprendimą prisijungti prie veikiančios bendrijos balsavo daugiau kaip pusė susirinkime dalyvavusių butų ir kitų patalpų (pastatų) savininkų. Jeigu daugiabutį namą, kurio butų ir kitų patalpų savininkai priima sprendimą prisijungti prie veikiančios bendrijos, administruoja Civilinio kodekso nustatyta tvarka paskirtas administratorius, prisijungimo prie veikiančios bendrijos iniciatoriai prieš 30 dienų iki numatomo butų ir kitų patalpų savininkų susirinkimo dienos turi raštu pranešti šio daugiabučio namo bendrojo naudojimo objektų administratoriui.
+2. Butų ir kitų patalpų (pastatų) savininkai sprendimą prisijungti prie veikiančios bendrijos priima butų ir kitų patalpų (pastatų) savininkų susirinkime. Sprendimas prisijungti prie veikiančios bendrijos yra teisėtas, jeigu daugiabučio namo ar kitos paskirties pastato (pastatų), kuriame (kuriuose) nėra įsteigta bendrija, butų ir kitų patalpų (pastatų) savininkų susirinkime dalyvavo daugiau kaip pusė šio namo butų ir kitų patalpų savininkų ir už sprendimą prisijungti prie veikiančios bendrijos balsavo daugiau kaip pusė susirinkime dalyvavusių butų ir kitų patalpų (pastatų) savininkų. Jeigu sušauktas susirinkimas neįvyksta, nes į jį susirinkusių butų ir kitų patalpų (pastatų) savininkų skaičius nėra pakankamas sprendimui priimti, pakartotinis susirinkimas šaukiamas pagal tą pačią darbotvarkę ne anksčiau kaip po dviejų savaičių ir sprendimai priimami jame dalyvaujančių butų ir kitų patalpų (pastatų) savininkų balsų dauguma, bet ne mažiau kaip 1/4 visų butų ir kitų patalpų (pastatų) savininkų balsų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
@@ -313,6 +327,13 @@ BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 5. Patvirtinus prisijungimo sutartį, veikiančios bendrijos įstatai pakeičiami ir perregistruojami Juridinių asmenų registre. Prie veikiančios bendrijos prisijungę butų ir kitų patalpų (pastatų) savininkai įgyja šios bendrijos narių teises ir pareigas.
+
+
+
+
+6. Jeigu daugiabutį gyvenamąjį namą, kurio butų ir kitų patalpų savininkai priima sprendimą prisijungti prie veikiančios bendrijos, administruoja bendrojo naudojimo objektų administratorius ar pagal jungtinės veiklos sutartį įgaliotas asmuo, prisijungimo prie veikiančios bendrijos iniciatoriai apie šį savo sprendimą per 5 darbo dienas raštu praneša bendrojo naudojimo objektų administratoriui ar pagal jungtinės veiklos sutartį įgaliotam asmeniui ir savivaldybės vykdomajai institucijai. Nuo bendrijos įstatų perregistravimo Juridinių asmenų registre dienos baigiasi bendrojo naudojimo objektų administratoriaus įgaliojimai, jungtinės veiklos sutartis.
+Papildyta straipsnio dalimi:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
  
 
 
@@ -328,37 +349,65 @@ BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-2. Bendrijos steigiamasis susirinkimas yra teisėtas, kai jame dalyvauja daugiau kaip pusė visų butų ir kitų patalpų (pastatų) savininkų.
+2. Bendrijos steigiamasis susirinkimas yra teisėtas, kai jame dalyvauja daugiau kaip pusė visų butų ir kitų patalpų (pastatų) savininkų. Jeigu sušauktas susirinkimas neįvyksta, nes į jį susirinkusių butų ir kitų patalpų (pastatų) savininkų skaičius nėra pakankamas sprendimui priimti, pakartotinis susirinkimas šaukiamas pagal tą pačią darbotvarkę ne anksčiau kaip po dviejų savaičių ir yra teisėtas, kai jame dalyvauja ne mažiau kaip 1/4 visų butų ir kitų patalpų (pastatų) savininkų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
 
-3. Bendrijos steigiamojo susirinkimo sprendimai priimami susirinkime dalyvaujančių butų ir kitų patalpų (pastatų) savininkų balsų dauguma. Balsuojant bendrijos steigiamajame susirinkime, kiekvienas buto ar kitų patalpų (pastato) savininkas turi po vieną balsą. Buto ar kitų patalpų (pastato) bendraturčiams atstovauja vienas asmuo ir jis turi vieną balsą.
+3. Butų ir kitų patalpų (pastatų) savininkai Vyriausybės įgaliotos institucijos nustatyta tvarka gali raštu iš anksto pareikšti savo nuomonę dėl bendrijos steigiamajame susirinkime svarstomų klausimų. Iš anksto raštu pareiškę nuomonę butų ir kitų patalpų (pastatų) savininkai yra laikomi dalyvaujančiais bendrijos steigiamajame susirinkime, registruojami susirinkimo dalyvių sąraše, o jų balsai įskaitomi į balsavimo rezultatus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
 
-4. Bendrijos steigiamojo susirinkimo dalyviai registruojami sudarant jų sąrašą. Bendrijos steigiamojo susirinkimo dalyvių sąraše turi būti nurodyta susirinkimo dalyvio vardas ir pavardė, asmens tapatybę patvirtinantis dokumentas, jo numeris ir išdavimo data, juridinio asmens pavadinimas, kodas, susirinkimo dalyviui priklausančio buto (butų), kitos patalpos (kitų patalpų) (pastato (pastatų) adresas (adresai) ir jų unikalus numeris (unikalūs numeriai), susirinkimo dalyvio parašas. Jeigu susirinkimo dalyvis atstovauja buto ar kitų patalpų (pastato) savininkui, bendrijos steigiamojo susirinkimo dalyvių sąraše nurodomas įgaliojimo registracijos numeris ir data. Bendrijos steigiamojo susirinkimo dalyvių sąrašą pasirašo susirinkimo pirmininkas ir sekretorius.
+4. Bendrijos steigiamojo susirinkimo sprendimai priimami susirinkime dalyvaujančių butų ir kitų patalpų (pastatų) savininkų balsų dauguma. Pakartotinio susirinkimo sprendimai priimami susirinkime dalyvaujančių butų ir kitų patalpų (pastatų) savininkų balsų dauguma, bet ne mažiau kaip 1/4 visų butų ir kitų patalpų (pastatų) savininkų balsų. Balsuojant bendrijos steigiamajame susirinkime, kiekvienas buto ar kitų patalpų (pastato) savininkas turi po vieną balsą. Buto ar kitų patalpų (pastato) bendraturčiams atstovauja vienas asmuo ir jis turi vieną balsą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
 
-5. Bendrijos steigiamasis susirinkimas yra protokoluojamas. Bendrijos steigiamojo susirinkimo protokolas turi būti parengtas per 5 darbo dienas nuo susirinkimo dienos. Protokolą pasirašo susirinkimo pirmininkas ir sekretorius. Prie bendrijos steigiamojo susirinkimo protokolo pridedamas šio susirinkimo dalyvių sąrašas su jų parašais. Bendrijos steigiamojo susirinkimo protokolo ir bendrijos steigiamojo susirinkimo dalyvių sąrašo pavyzdinę formą tvirtina Vyriausybės įgaliota institucija.
+5. Bendrijos steigiamojo susirinkimo dalyviai registruojami sudarant jų sąrašą. Bendrijos steigiamojo susirinkimo dalyvių sąraše turi būti nurodyta susirinkimo dalyvio vardas ir pavardė, asmens tapatybę patvirtinantis dokumentas, jo numeris ir išdavimo data, juridinio asmens pavadinimas, kodas, susirinkimo dalyviui priklausančio buto (butų), kitos patalpos (kitų patalpų) (pastato (pastatų) adresas (adresai) ir jų unikalus numeris (unikalūs numeriai), susirinkimo dalyvio parašas. Jeigu susirinkimo dalyvis atstovauja buto ar kitų patalpų (pastato) savininkui, bendrijos steigiamojo susirinkimo dalyvių sąraše nurodomas įgaliojimo registracijos numeris ir data. Bendrijos steigiamojo susirinkimo dalyvių sąrašą pasirašo susirinkimo pirmininkas ir sekretorius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
 
-6. Bendrijos steigimo dokumentų atitiktį įstatymams tvirtina notaras.
+6. Bendrijos steigiamasis susirinkimas yra protokoluojamas. Bendrijos steigiamojo susirinkimo protokolas turi būti parengtas per 5 darbo dienas nuo susirinkimo dienos. Protokolą pasirašo susirinkimo pirmininkas ir sekretorius. Prie bendrijos steigiamojo susirinkimo protokolo pridedamas šio susirinkimo dalyvių sąrašas su jų parašais. Bendrijos steigiamojo susirinkimo protokolo ir bendrijos steigiamojo susirinkimo dalyvių sąrašo pavyzdinę formą tvirtina Vyriausybės įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
 
-7. Jeigu bendrijos steigiamasis susirinkimas numatytu laiku neįvyksta, pakartotinis bendrijos steigiamasis susirinkimas šaukiamas ne anksčiau kaip po 14 dienų nuo neįvykusio steigiamojo susirinkimo dienos. Pakartotiniam bendrijos steigiamajam susirinkimui taikomos šio straipsnio nuostatos.
+7. Bendrijos steigimo dokumentų atitiktį įstatymams tvirtina notaras.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
 
-8. Bendrijos steigiamasis susirinkimas turi patvirtinti bendrijos įstatus ir išrinkti bendrijos valdymo organą. Bendrijos steigiamasis susirinkimas gali išrinkti ir kitus bendrijos organus. 
+8. Jeigu bendrijos steigiamasis susirinkimas numatytu laiku neįvyksta, pakartotinis bendrijos steigiamasis susirinkimas šaukiamas ne anksčiau kaip po 14 dienų nuo neįvykusio steigiamojo susirinkimo dienos. Pakartotiniam bendrijos steigiamajam susirinkimui taikomos šio straipsnio nuostatos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
+
+
+
+
+9. Bendrijos steigiamasis susirinkimas turi patvirtinti bendrijos įstatus ir išrinkti bendrijos valdymo organą. Bendrijos steigiamasis susirinkimas gali išrinkti ir kitus bendrijos organus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
  
 
 
@@ -406,7 +455,10 @@ Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 
 
-7) kai bendrija steigiama turint tikslą sukurti bendrosios dalinės nuosavybės teisės objektą bendrijos narių poreikiams arba tenkinti kitus bendruosius poreikius, – įmokų mokėjimo tvarka, sąlygos ir terminai, nepiniginių turtinių įnašų įvertinimo tvarka, jeigu šių įnašų vertinimą atlieka steigėjai;
+7) kai bendrija steigiama butų ir kitų patalpų (pastatų) savininkų bendrosios dalinės nuosavybės teisės objektams sukurti arba kitiems bendriesiems šių savininkų poreikiams – įmokų mokėjimo tvarka, sąlygos ir terminai, nepiniginių turtinių įnašų įvertinimo tvarka, jeigu šių įnašų vertinimą atlieka steigėjai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
@@ -497,7 +549,10 @@ Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 
 
-4) butų ir kitų patalpų (pastatų) savininkų, raštu iš anksto ar steigiamojo susirinkimo metu pareiškusių pritarimą steigti bendriją, sąrašas su jų parašais.
+4) butų ir kitų patalpų (pastatų) savininkų, steigiamojo susirinkimo metu pareiškusių pritarimą steigti bendriją, sąrašas su jų parašais ir butų ir kitų patalpų (pastatų) savininkų raštu iš anksto pareikštą pritarimą steigti bendriją patvirtinantys dokumentai.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
@@ -681,7 +736,10 @@ BENDRIJOS VALDYMAS
 
 
 
-3. Visuotinis susirinkimas turi būti šaukiamas kasmet ne vėliau kaip per 3 mėnesius pasibaigus finansiniams metams. Kiekviename visuotiniame susirinkime išrenkamas susirinkimo pirmininkas ir sekretorius.
+3. Visuotinis susirinkimas turi būti šaukiamas kasmet ne vėliau kaip per 5 mėnesius pasibaigus finansiniams metams. Kiekviename visuotiniame susirinkime išrenkamas susirinkimo pirmininkas ir sekretorius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
@@ -726,7 +784,10 @@ BENDRIJOS VALDYMAS
 
 
 
-12. Bendrijos nariai sprendimus gali priimti balsuodami raštu, išskyrus sprendimus dėl šio straipsnio 7 dalyje nurodytų klausimų. Balsavimo raštu tvarką nustato Vyriausybės įgaliota institucija.
+12. Bendrijos nariai sprendimus gali priimti balsuodami raštu. Balsavimo raštu tvarką nustato Vyriausybės įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
@@ -809,7 +870,10 @@ BENDRIJOS VALDYMAS
 
 
 
-3. Darbo sutartį su bendrijos pirmininku, šios sutarties pakeitimus (darbo sutarties nutraukimą) pasirašo visuotinio susirinkimo (įgaliotinių susirinkimo) įgaliotas asmuo.
+3. Darbo sutartį su bendrijos pirmininku, šios sutarties pakeitimus (darbo sutarties nutraukimą) pasirašo visuotinio susirinkimo (įgaliotinių susirinkimo) įgaliotas asmuo. Su bendrijos pirmininku sudaroma terminuota darbo sutartis kadencijos laikotarpiui. Terminuota darbo sutartis pasibaigia suėjus šioje sutartyje nurodytam terminui, bendrijos įstatuose nustatyta tvarka atšaukus bendrijos pirmininką iš pareigų arba pirmininkui atsistatydinus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
@@ -910,12 +974,22 @@ Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
 
 
 
-9. Iki bendrijos pirmininko kadencijos pabaigos visuotinis susirinkimas (įgaliotinių susirinkimas) turi išrinkti naują bendrijos pirmininką. Jeigu bendrijos pirmininkas neišrenkamas per 12 mėnesių nuo bendrijos pirmininko kadencijos pabaigos, ne mažiau kaip ketvirtadalis bendrijos narių (jeigu bendrija jungia kelis daugiabučius namus, – ne mažiau kaip ketvirtadalis bendrijos narių kiekviename daugiabučiame name) arba ketvirtadalis įgaliotinių, taip pat bendrijos pirmininkas turi teisę kreiptis į savivaldybės vykdomąją instituciją dėl bendrijos likvidavimo ir bendrosios dalinės nuosavybės teisės objektų administratoriaus skyrimo, vadovaujantis Civilinio kodekso ketvirtosios knygos XIV skyriumi. 
+9. Iki bendrijos pirmininko kadencijos pabaigos arba gavęs bendrijos pirmininko rašytinį pranešimą apie atsistatydinimą iš pareigų visuotinis susirinkimas (įgaliotinių susirinkimas) turi išrinkti naują bendrijos pirmininką. Jeigu bendrijos pirmininkas neišrenkamas per 6 mėnesius nuo bendrijos pirmininko kadencijos pabaigos arba nuo bendrijos pirmininko atsistatydinimo iš pareigų dienos ir nėra pradėta bendrijos likvidavimo procedūra, bet kuris bendrijos narys (įgaliotinis) turi teisę kreiptis į savivaldybės vykdomąją instituciją dėl bendrijos likvidavimo ir bendrosios dalinės nuosavybės teisės objektų administratoriaus skyrimo. Savivaldybės vykdomoji institucija, gavusi šį prašymą, kreipiasi į Juridinių asmenų registro tvarkytoją dėl bendrijos likvidavimo pagal Civilinio kodekso 2.70 straipsnį, o bendrijos likvidavimo procedūrų vykdymo laikotarpiu laikinai skiria bendrojo naudojimo objektų administratorių, vadovaudamasi Civilinio kodekso 4.84 straipsnyje nustatyta tvarka. Likvidavus bendriją, šio administratoriaus veikla gali būti pratęsiama pagal Civilinio kodekso 4.84 straipsnio nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+ 
 
 
 
 
 10. Kai vienasmenis bendrijos valdymo organas – bendrijos pirmininkas negali eiti savo pareigų, bendrijos įstatuose nustatyta tvarka šias pareigas gali laikinai, iki naujo bendrijos pirmininko išrinkimo, eiti vienas iš bendrijos narių. 
+
+
+
+
+11. Bendrijos pirmininkas gali atsistatydinti iš pareigų, apie šį ketinimą ne vėliau kaip prieš 20 kalendorinių dienų raštu pranešęs visuotiniam susirinkimui (įgaliotinių susirinkimui) arba bendrijos valdybai, jeigu ji sudaryta. Jeigu bendrijos valdyba nesudaryta ir visuotinis susirinkimas (įgaliotinių susirinkimas) neįvyksta, bendrijos pirmininkas apie savo atsistatydinimą per 5 darbo dienas raštu, nurodydamas atsistatydinimo datą, informuoja butų ir kitų patalpų (pastatų) savininkus.
+Papildyta straipsnio dalimi:
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
  
 
 
@@ -1580,3 +1654,8 @@ Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2639, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24672
 Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 20 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 4, 5, 6, 7, 8, 11 ir 14 straipsnių pakeitimo įstatymas
