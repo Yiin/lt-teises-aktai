@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-06-20
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
  
@@ -52,7 +51,10 @@ Vilnius
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Eksporto kredito draudėjas – kredituojantis eksportuotojas, su draudimo įmone sudaręs draudimo sutartį dėl nuostolių, patirtų negavus komerciniu kreditu atidėtų mokėjimų už eksportuotas prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, ar suteiktas paslaugas, padengimo. 
+1. Eksporto kredito draudėjas – kredituojantis eksportuotojas, su draudimo įmone sudaręs draudimo sutartį dėl nuostolių, patirtų negavus komerciniu kreditu atidėtų mokėjimų už eksportuotas Lietuvos Respublikoje pagamintas prekes ar suteiktas paslaugas, padengimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
+ 
 
 
 
@@ -82,7 +84,10 @@ Vilnius
 
 
 
-7. Kredituojantis eksportuotojas – Lietuvos Respublikoje veikiantis, ūkinę komercinę veiklą vykdantis juridinis asmuo arba juridinio asmens statuso neturintis Europos ekonominės erdvės valstybės narės įmonės filialas, kuris eksportuoja į kitas šalis prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, arba kuris eksportuoja paslaugas ir taiko šių prekių ar paslaugų pirkėjui apmokėjimo už parduotas prekes ar suteiktas paslaugas atidėjimą (tai yra suteikia pirkėjui komercinį kreditą). 
+7. Kredituojantis eksportuotojas – Lietuvos Respublikoje veikiantis, ūkinę komercinę veiklą vykdantis juridinis asmuo arba juridinio asmens statuso neturintis Europos ekonominės erdvės valstybės narės įmonės filialas, kuris eksportuoja į kitas šalis Lietuvos Respublikoje pagamintas prekes arba kuris eksportuoja paslaugas ir taiko šių prekių ar paslaugų pirkėjui apmokėjimo už parduotas prekes ar suteiktas paslaugas atidėjimą (tai yra suteikia pirkėjui komercinį kreditą).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
+ 
 
 
 
@@ -351,12 +356,18 @@ Nr. XIV-660, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24264
 
 
 
-10. Vyriausybė valstybės vardu pasiskolintas lėšas gali naudoti tik šiame įstatyme nurodytiems tikslams.
+10. Vyriausybė arba jos įgaliota institucija valstybės vardu pasiskolintas lėšas gali naudoti tik šiame įstatyme nurodytiems tikslams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1696, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27553
+ 
 
 
 
 
-11. Vyriausybė turi teisę teikti perskolinamas paskolas, išskyrus atvejus, kai lėšos gaunamos pagal paskolų sutartis, kuriose nustatyta kitaip. Perskolinamų paskolų sutartis su valstybės skolininkais pasirašo finansų ministras arba jo įgaliotas asmuo.
+11. Vyriausybė arba jos įgaliota institucija turi teisę teikti perskolinamas paskolas, išskyrus atvejus, kai lėšos gaunamos pagal paskolų sutartis, kuriose nustatyta kitaip. Perskolinamų paskolų sutartis su valstybės skolininkais pasirašo finansų ministras arba jo įgaliotas asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1696, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27553
+ 
 
 
 
@@ -532,7 +543,10 @@ Nr. XIV-1342, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15416
 
 
 
-5) dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą prekių, turinčių Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, pirkimo–pardavimo sutartį ir (ar) kredituojančio eksportuotojo sudarytą paslaugų teikimo sutartį sumokėjimo kredituojančiam eksportuotojui ar jį pagal faktoringo sutartį finansuojančiam finansuotojui ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimo;
+5) dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą Lietuvos Respublikoje pagamintų prekių pirkimo–pardavimo sutartį ir (ar) kredituojančio eksportuotojo sudarytą paslaugų teikimo sutartį sumokėjimo kredituojančiam eksportuotojui ar jį pagal faktoringo sutartį finansuojančiam finansuotojui arba draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
+ 
 
 
 
@@ -552,7 +566,16 @@ Nr. XIV-1342, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15416
 
 
 
-9) dalies atidėto mokėjimo pagal sudarytą prekių pirkimo–pardavimo sutartį ar sudarytą paslaugų teikimo sutartį sumokėjimo mokėjimo atidėjimą suteikusiam prekių gamintojui ar paslaugų teikėjui arba jį pagal faktoringo sutartį finansuojančiam finansuotojui ar draudimo įmonės prekinio kredito draudėjui sumokėtos draudimo išmokos dalies padengimo.
+9) dalies atidėto mokėjimo pagal sudarytą prekių pirkimo–pardavimo sutartį ar sudarytą paslaugų teikimo sutartį sumokėjimo mokėjimo atidėjimą suteikusiam prekių gamintojui ar paslaugų teikėjui arba jį pagal faktoringo sutartį finansuojančiam finansuotojui ar draudimo įmonės prekinio kredito draudėjui sumokėtos draudimo išmokos dalies padengimo;
+
+
+
+
+10) savo garantuotų paskolų, kurias finansų įstaigos gali pateikti kaip finansinį užstatą ar kitaip įkeisti Lietuvos bankui, užtikrindamos savo įsipareigojimus pagal Lietuvos banko suteiktas paskolas arba kitas Lietuvos banko operacijas už jo paskolas finansų įstaigai. Garantijų institucijos įsipareigojimai pagal suteiktą šiame punkte nurodytą garantiją yra vykdomi, jeigu šios garantijų institucijos garantuotos paskolos gavėjas neįvykdo visų ar dalies savo įsipareigojimų pagal individualia garantija garantuotą paskolą Lietuvos bankui arba kitai finansų įstaigai, kuriai Lietuvos bankas yra perleidęs pateiktas kaip finansinį užstatą ar kitaip įkeistas garantijų institucijos garantuotas paskolas.
+TAR pastaba. 4 straipsnio 4 dalies 10 punktas taikomas, kai garantijų institucijos garantuotos paskolos suteikiamos po įstatymo Nr. XIV-1164 įsigaliojimo dienos (2023-01-01).
+Papildyta straipsnio punktu:
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
+ 
 
 
 
@@ -1006,4 +1029,14 @@ Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeiti
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1342, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15416
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 ir 4 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1696, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27553
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 straipsnio pakeitimo įstatymas
