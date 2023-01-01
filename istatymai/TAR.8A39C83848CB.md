@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -2410,7 +2410,10 @@ SANDORIŲ SAMPRATA IR FORMA
 
 
 
-2. Viešas skelbimas skelbiamas paskutinės žinomos kitos sandorio šalies gyvenamosios ar verslo vietos arba viešai išreiškiančio savo valią asmens gyvenamosios ar verslo vietos laikraštyje (jeigu toks yra) ir viename iš nacionalinių Lietuvos Respublikos laikraščių, o sutartyje numatytais atvejais – sutartyje nurodytame interneto tinklalapyje. Teismas prireikus gali nustatyti ir kitokią asmens valios viešo skelbimo tvarką.
+2. Viešas skelbimas skelbiamas paskutinės žinomos kitos sandorio šalies gyvenamosios ar verslo vietos arba viešai išreiškiančio savo valią asmens gyvenamosios ar verslo vietos laikraštyje (jeigu toks yra) ir viename iš nacionalinių Lietuvos Respublikos laikraščių arba atitinkamų visuomenės informavimo priemonių interneto svetainėse, o sutartyje numatytais atvejais – sutartyje nurodytoje interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -3699,7 +3702,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Atnaujinamasis terminas yra toks terminas, kuriam pasibaigus teismas gali jį atnaujinti, jeigu terminas buvo praleistas dėl svarbių priežasčių.
+4. Atnaujinamasis terminas yra toks terminas, kuriam pasibaigus teismas arba įstatymų nustatytais atvejais – kitas subjektas gali jį atnaujinti, jeigu jis buvo praleistas dėl svarbių priežasčių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -3709,7 +3715,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Naikinamasis terminas yra toks terminas, kuriam pasibaigus išnyksta tam tikra civilinė teisė ar pareiga. Naikinamieji terminai negali būti teismo ar arbitražo atnaujinti.
+6. Naikinamasis terminas yra toks terminas, kuriam pasibaigus išnyksta tam tikra civilinė teisė ar pareiga. Naikinamieji terminai negali būti teismo ar kito subjekto atnaujinti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
@@ -8723,7 +8731,10 @@ Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
 
 
-2) asmenų, esančių laisvės atėmimo vietose, įgaliojimai, patvirtinti laisvės atėmimo vietų vadovų;
+2) asmenų, esančių laisvės atėmimo vietų įstaigoje, įgaliojimai, patvirtinti Lietuvos kalėjimų tarnybos direktoriaus įgaliotų bausmių vykdymo sistemos pareigūnų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1201, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15563
+ 
 
 
 
@@ -8748,7 +8759,7 @@ Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 2.1381 straipsnis. Įgaliojimų registras
 
 
-1. Notarine tvarka patvirtinti įgaliojimai, šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai ir šio kodekso 2.139 straipsnio 2 dalyje nurodyti įgaliojimai turi būti registruojami viešame Įgaliojimų registre. Įgaliojimų registre šio registro nuostatuose nustatyta tvarka registruojami ir kiti įgaliojimai, sudaromi informacinių technologijų priemonėmis ir duodami juos įregistruojant Įgaliojimų registre.
+1. Notarine tvarka patvirtinti įgaliojimai, šio kodekso 2.138 straipsnio 2 dalyje nurodyti notaro patvirtintiems prilyginami įgaliojimai, šio kodekso 2.139 straipsnio 2 dalyje nurodyti įgaliojimai ir prokūros turi būti registruojami viešame Įgaliojimų registre. Įgaliojimų registre šio registro nuostatuose nustatyta tvarka registruojami ir kiti įgaliojimai, sudaromi informacinių technologijų priemonėmis ir duodami juos įregistruojant Įgaliojimų registre.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
  
@@ -9891,10 +9902,17 @@ Prokūra
 
 
 
-2. Prokūra turi būti įregistruota teisės aktų nustatyta tvarka.
+2. Prokūra gali būti sudaroma ir informacinių technologijų priemonėmis ir duodama ją įregistruojant Įgaliojimų registre.
+
+
+
+
+3. Prokūra turi būti įregistruota Įgaliojimų registre šio registro nuostatuose nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
  
-
-
 
 
 
@@ -9966,7 +9984,9 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-2. Prokuristo ir trečiųjų asmenų santykiams prokūra įsigalioja nuo jos įregistravimo teisės aktų nustatyta tvarka.
+2. Prokuristo ir trečiųjų asmenų santykiams prokūra įsigalioja nuo jos įregistravimo Įgaliojimų registre šio registro nuostatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
  
 
 
@@ -11084,7 +11104,7 @@ Santuokos nutraukimas abiejų sutuoktinių  bendru sutikimu
 1. Sutuoktinių bendru sutikimu santuoka gali būti nutraukta, jeigu yra visos šios sąlygos:
 
 
-1) nuo santuokos sudarymo yra praėję daugiau nei vieneri metai;
+1) nuo santuokos sudarymo yra praėję daugiau negu vieneri metai;
 
 
 
@@ -11095,24 +11115,31 @@ Santuokos nutraukimas abiejų sutuoktinių  bendru sutikimu
 
 
 3) abu sutuoktiniai yra visiškai veiksnūs šioje srityje.
-Straipsnio punkto pakeitimai:
-Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+
+
+
+
+
+
+2. Kai yra šio straipsnio 1 dalyje nurodytos sąlygos, santuoka nutraukiama teisme supaprastinto proceso tvarka.
+
+
+
+
+3. Kai yra šio straipsnio 1 dalyje nurodytos sąlygos, taip pat kai sutuoktiniai daugiau negu metus netvarko bendro ūkio, negyvena santuokinio gyvenimo ir neturi bendrų nepilnamečių vaikų, santuoka sutuoktinių bendru sutikimu nutraukiama notarine tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
 
 
-
-
-2. Santuoka šio straipsnio numatytais atvejais nutraukiama supaprastinto proceso tvarka.
+3.52 straipsnis. Prašymo nutraukti santuoką padavimas teismui 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
-
-
-
-
-
-
-3.52 straipsnis. Prašymas nutraukti santuoką
 
 
 1. Bendras sutuoktinių prašymas nutraukti santuoką paduodamas vieno iš sutuoktinių gyvenamosios vietos apylinkės teismui.
@@ -11133,7 +11160,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-3.53 straipsnis. Santuokos nutraukimo tvarka
+3.53 straipsnis. Santuokos nutraukimo teisme tvarka
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 1. Teismas priima sprendimą santuoką nutraukti, jeigu įsitikina, kad santuoka faktiškai iširo. Santuoka laikoma iširusia, jeigu sutuoktiniai kartu bendrai nebegyvena ir negalima tikėtis, kad jie vėl pradės gyventi kartu.
@@ -11185,6 +11215,93 @@ Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
  
 
 
+
+
+
+
+3.541 straipsnis. Kreipimasis dėl santuokos nutraukimo notarine tvarka
+
+
+1. Sutuoktiniai, kreipdamiesi į notarą dėl santuokos nutraukimo bendru jų sutikimu, turi pateikti notarui rašytinį patvirtinimą, kad daugiau negu metus netvarko bendro ūkio ir negyvena santuokinio gyvenimo, ir sutartį dėl santuokos nutraukimo pasekmių. Šio kodekso 3.543 straipsnio 1 dalyje nurodytu atveju sutuoktiniai taip pat turi pateikti notarui įrodymus, kad apie kreipimąsi į notarą dėl santuokos nutraukimo bendru sutuoktinių sutikimu informavo visus žinomus bendrus jų ar vieno iš jų kreditorius.
+
+
+
+
+2. Sutartyje dėl santuokos nutraukimo pasekmių turi būti aptarti sutuoktinių vienas kito išlaikymo klausimai, kitos turtinės teisės ir pareigos (jeigu šie klausimai neaptarti vedybų sutartyje ir (ar) jeigu turtas, kuris yra bendroji jungtinė sutuoktinių nuosavybė, nepadalytas bendru jų susitarimu, patvirtintu notarine tvarka ar teismo sprendimu), taip pat nurodyta, kokios bus sutuoktinių pavardės po santuokos nutraukimo.
+
+
+Papildyta straipsniu:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
+
+
+
+
+3.542 straipsnis. Santuokos nutraukimas notarine tvarka
+
+
+1. Prieš tvirtindamas sutartį dėl santuokos nutraukimo pasekmių, notaras turi pasiūlyti sutuoktiniams susitaikyti ir tokiu atveju iki šešių mėnesių atidėti sutarties dėl santuokos nutraukimo pasekmių tvirtinimą. Sutuoktiniai gali raštu atsisakyti siūlymo susitaikyti ir kad būtų atidėtas sutarties dėl santuokos nutraukimo pasekmių tvirtinimas. Jeigu pasibaigus terminui, kuriam buvo atidėtas sutarties dėl santuokos nutraukimo pasekmių tvirtinimas, sutuoktiniai ar vienas iš jų neatvyksta pas notarą, notaras netvirtina sutarties dėl santuokos nutraukimo pasekmių.
+
+
+
+
+2. Santuoka bendru sutuoktinių sutikimu nutraukiama notarine tvarka, notarui patvirtinant sutartį dėl santuokos nutraukimo pasekmių, jeigu toks santuokos nutraukimas atitinka šiame kodekse nustatytas sąlygas, taip pat jeigu sutuoktinių pateikta sutartis dėl santuokos nutraukimo pasekmių neprieštarauja viešajai tvarkai ar iš esmės nepažeidžia vieno iš sutuoktinių teisių ir (ar) teisėtų interesų. Sutartis dėl santuokos nutraukimo pasekmių įsigalioja kitą darbo dieną po jos notarinio patvirtinimo dienos. 
+
+
+Papildyta straipsniu:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
+
+
+
+
+3.543 straipsnis. Kreditorių interesų apsauga nutraukiant santuoką notarine tvarka
+
+
+1. Kai sutartyje dėl santuokos nutraukimo pasekmių aptariami sutuoktinių turto, kuris yra bendroji jungtinė sutuoktinių nuosavybė, padalijimo klausimai, sutuoktiniai, prieš kreipdamiesi į notarą dėl šios sutarties patvirtinimo, apie tai turi informuoti visus žinomus bendrus jų abiejų ar vieno iš jų kreditorius. Kartu su šiuo pranešimu kreditoriams turi būti išsiųstas sutarties dėl santuokos nutraukimo pasekmių projektas, taip pat notaro, į kurį ketinama kreiptis dėl šios sutarties patvirtinimo, kontaktiniai duomenys.
+
+
+
+
+2. Kreditoriai turi teisę per trisdešimt dienų nuo šio straipsnio 1 dalyje nurodytos informacijos gavimo dienos sutuoktiniams ir jų pranešime nurodytam notarui raštu pateikti savo motyvuotus prieštaravimus dėl bendrosios jungtinės sutuoktinių nuosavybės padalijimo būdo ar kitų sutarties dėl santuokos nutraukimo pasekmių nuostatų, galinčių pažeisti sutuoktinių bendrų kreditorių ar vieno iš jų kreditorių interesus, ir konkrečius siūlymus, kaip į šiuos prieštaravimus būtų galima atsižvelgti. Šiuo atveju notaras klausimą dėl santuokos nutraukimo bendru sutuoktinių sutikimu sprendžia ne anksčiau kaip pasibaigus šioje dalyje nurodytam terminui.
+
+
+
+
+3. Jeigu kreditoriai pateikia savo prieštaravimus, į kuriuos sutuoktiniai nesutinka atsižvelgti ir pagal juos pakeisti sutarties dėl santuokos nutraukimo pasekmių sąlygas, notaras sutarties dėl santuokos nutraukimo pasekmių netvirtina ir sutuoktiniai turi teisę dėl santuokos nutraukimo kreiptis į teismą. 
+
+
+
+
+4. Šio straipsnio nuostatos taip pat taikomos, kai keičiama sutartis dėl santuokos nutraukimo pasekmių.
+
+
+Papildyta straipsniu:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
+
+
+
+
+3.544 straipsnis. Sutarties dėl santuokos nutraukimo pasekmių keitimas ar pripažinimas negaliojančia
+
+
+1. Iš esmės pasikeitus aplinkybėms (buvusio sutuoktinio liga, nedarbingumas ar kt.), buvę sutuoktiniai gali keisti sutarties dėl santuokos nutraukimo pasekmių sąlygas. Sutartis dėl sutarties dėl santuokos nutraukimo pasekmių sąlygų pakeitimo taip pat turi būti sudaryta notarine tvarka. Vieno iš buvusių sutuoktinių reikalavimu sutartis dėl santuokos nutraukimo pasekmių gali būti pakeista teismo sprendimu. 
+
+
+
+
+2. Buvusio sutuoktinio reikalavimu teismas sutartį dėl santuokos nutraukimo pasekmių gali pripažinti visiškai ar iš dalies negaliojančia, jeigu ji iš esmės pažeidžia sutuoktinių lygiateisiškumo principą ir vienam iš jų yra labai nepalanki, taip pat šio kodekso pirmojoje knygoje numatytais sandorių negaliojimo pagrindais. Reikalavimas pripažinti sutartį dėl santuokos nutraukimo pasekmių visiškai ar iš dalies negaliojančia gali būti pareikštas ne vėliau kaip per metus nuo sutarties dėl santuokos nutraukimo pasekmių įsigaliojimo dienos. Sutarties dėl santuokos nutraukimo pasekmių pripažinimas visiškai ar iš dalies negaliojančia neturi poveikio santuokos nutraukimui pagal šią sutartį.
+
+
+
+
+3. Vieno ar abiejų sutuoktinių kreditoriai, kurie šio kodekso 3.543 straipsnio 1 dalyje nustatyta tvarka nebuvo informuoti apie sutarties dėl santuokos nutraukimo pasekmių sudarymą ar šios sutarties pakeitimą ir kurių teisės buvo pažeistos dėl sutarties dėl santuokos nutraukimo pasekmių sąlygų, turi teisę per vienus metus nuo dienos, kurią sužinojo apie sutarties dėl santuokos nutraukimo pasekmių sudarymą ar jos pakeitimą, šias sąlygas ginčyti teismo tvarka ir reikalauti atkurti pažeistas teises.
+
+
+Papildyta straipsniu:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -11352,7 +11469,9 @@ Santuokos nutraukimas dėl SUTUOKTINIO  (sutuoktinių) kaltės
 
 
 
-3. Pripažinus, kad santuoka iširo dėl abiejų sutuoktinių kaltės, atsiranda tos pačios pasekmės, kaip ir nutraukus santuoką sutuoktinių bendru sutikimu (šio kodekso 3.51–3.54 straipsniai).
+3. Pripažinus, kad santuoka iširo dėl abiejų sutuoktinių kaltės, atsiranda tos pačios pasekmės, kaip ir nutraukus santuoką sutuoktinių bendru sutikimu (šio kodekso 3.51–3.544 straipsniai).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
@@ -11488,17 +11607,22 @@ Santuokos nutraukimo teisinės pasekmės
 3.66 straipsnis. Santuokos nutraukimo momentas
 
 
-1. Santuoka laikoma nutraukta nuo teismo sprendimo ją nutraukti įsiteisėjimo dienos.
+1. Santuoka laikoma nutraukta nuo teismo sprendimo ją nutraukti įsiteisėjimo dienos arba nuo notaro patvirtintos sutarties dėl santuokos nutraukimo pasekmių įsigaliojimo dienos.
 
 
 
 
 2. Teismas ne vėliau kaip kitą darbo dieną nuo teismo sprendimo nutraukti santuoką įsiteisėjimo dienos privalo šį sprendimą elektroninių ryšių priemonėmis išsiųsti santuoką įregistravusiai civilinės metrikacijos įstaigai.
-Straipsnio dalies pakeitimai:
-Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+
+
+
+
+3. Notaras, patvirtinęs sutartį dėl santuokos nutraukimo pasekmių, ne vėliau kaip kitą darbo dieną nuo šios sutarties įsigaliojimo dienos elektroninių ryšių priemonėmis perduoda santuoką įregistravusiai civilinės metrikacijos įstaigai ir vedybų sutarčių registrui pranešimą apie patvirtintą sutartį dėl santuokos nutraukimo pasekmių. Jeigu notaro patvirtintoje sutartyje dėl santuokos nutraukimo pasekmių keičiamas registruojamo daikto teisinis statusas ar iš esmės keičiamos jo valdymo, naudojimo ir disponavimo juo sąlygos, pranešimą apie patvirtintą sutartį dėl santuokos nutraukimo pasekmių, laikydamasis šioje dalyje nustatytų terminų, notaras perduoda registro, kuriame įregistruotas tas daiktas ar daiktinės teisės į jį, tvarkytojui.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
-
-
 
 
 
@@ -11506,7 +11630,10 @@ Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
 3.67 straipsnis. Santuokos nutraukimo įtaka sutuoktinių turtinėms teisėms
 
 
-1. Santuokos nutraukimas sutuoktinių turtinėms teisėms teisines pasekmes sukelia nuo santuokos nutraukimo bylos iškėlimo.
+1. Santuokos nutraukimas sutuoktinių turtinėms teisėms teisines pasekmes sukelia nuo santuokos nutraukimo bylos iškėlimo teisme dienos arba nuo notaro patvirtintos sutarties dėl santuokos nutraukimo pasekmių įsigaliojimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -11706,7 +11833,9 @@ SUTUOKTINIŲ GYVENIMAS SKYRIUM (SEPARACIJA)
 
 
 
-2. Abu sutuoktiniai gali kreiptis su bendru prašymu į teismą dėl gyvenimo skyrium patvirtinimo, jeigu dėl gyvenimo skyrium pasekmių jie yra sudarę sutartį, kurioje numato nepilnamečių vaikų gyvenamosios vietos, jų išlaikymo ir auklėjimo, taip pat sutuoktinių turto padalijimo ir tarpusavio išlaikymo klausimus.
+2. Abu sutuoktiniai gali kreiptis su bendru prašymu į teismą dėl gyvenimo skyrium patvirtinimo, jeigu dėl gyvenimo skyrium pasekmių jie yra sudarę sutartį, kurioje aptarė nepilnamečių vaikų gyvenamosios vietos, jų išlaikymo ir auklėjimo, taip pat sutuoktinių turto padalijimo ir tarpusavio išlaikymo klausimus. Kai yra šioje dalyje nurodytos sąlygos, taip pat kai sutuoktiniai neturi bendrų nepilnamečių vaikų, gyvenimą skyrium sutuoktinių bendru sutarimu tvirtina notaras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
@@ -11791,15 +11920,43 @@ Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
 
 
 
+3.761 straipsnis. Gyvenimo skyrium patvirtinimas notarine tvarka
+
+
+1. Sutuoktiniai, kreipdamiesi į notarą dėl gyvenimo skyrium patvirtinimo, turi jam pateikti sutartį dėl gyvenimo skyrium pasekmių. Kai sutartyje dėl gyvenimo skyrium pasekmių aptariami sutuoktinių turto, kuris yra bendroji jungtinė sutuoktinių nuosavybė, padalijimo klausimai, sutuoktiniai taip pat turi notarui pateikti įrodymus, kad apie kreipimąsi į notarą dėl sutuoktinių gyvenimo skyrium patvirtinimo informavo visus žinomus bendrus jų ar vieno iš jų kreditorius.
+
+
+
+
+2. Sutartyje dėl gyvenimo skyrium pasekmių sutuoktiniai turi aptarti vienas kito išlaikymo, sutuoktinių turto padalijimo klausimus, taip pat nurodyti, kuris iš jų išlaiko teisę gyventi šeimos gyvenamojoje patalpoje, jeigu šie klausimai nebuvo aptarti vadovaujantis šio kodekso nuostatomis sudarytoje vedybų sutartyje ir (ar) jeigu turtas, kuris yra bendroji jungtinė sutuoktinių nuosavybė, nepadalytas bendru jų susitarimu, patvirtintu notarine tvarka ar teismo sprendimu.
+
+
+
+
+3. Tvirtinant, keičiant ir ginčijant sutartį dėl gyvenimo skyrium pasekmių, mutatis mutandis taikomos šio kodekso 3.541–3.544 straipsnių nuostatos.
+
+
+
+
+4. Notaras, patvirtinęs sutartį dėl gyvenimo skyrium pasekmių, ne vėliau kaip kitą darbo dieną nuo šios sutarties įsigaliojimo dienos elektroninių ryšių priemonėmis perduoda vedybų sutarčių registrui pranešimą apie patvirtintą sutartį dėl gyvenimo skyrium pasekmių. Jeigu notaro patvirtintoje sutartyje dėl gyvenimo skyrium pasekmių keičiamas registruojamo daikto teisinis statusas ar iš esmės keičiamos jo valdymo, naudojimo ir disponavimo juo sąlygos, pranešimą apie patvirtintą sutartį dėl gyvenimo skyrium pasekmių, laikydamasis šioje dalyje nustatytų terminų, notaras perduoda registro, kuriame įregistruotas tas daiktas ar daiktinės teisės į jį, tvarkytojui.
+
+
+Papildyta straipsniu:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
+
+
+
+
 3.77 straipsnis. Gyvenimo skyrium teisinės pasekmės
 
 
-1. Kai teismas priima sprendimą dėl gyvenimo skyrium, baigiasi sutuoktinių bendras gyvenimas, tačiau kitos sutuoktinių teisės ir pareigos išlieka, išskyrus šio kodekso numatytas išimtis.
+1. Kai teismas priima sprendimą dėl gyvenimo skyrium arba įsigalioja notaro patvirtinta sutartis dėl gyvenimo skyrium pasekmių, baigiasi sutuoktinių bendras gyvenimas, tačiau kitos sutuoktinių teisės ir pareigos išlieka, išskyrus šio kodekso nustatytas išimtis.
 
 
 
 
-2. Gyvenimas skyrium neturi įtakos sutuoktinių teisėms ir pareigoms jų nepilnamečiams vaikams, išskyrus šio kodekso numatytas išimtis.
+2. Gyvenimas skyrium neturi įtakos sutuoktinių teisėms ir pareigoms jų nepilnamečiams vaikams, išskyrus šio kodekso nustatytas išimtis.
 
 
 
@@ -11809,15 +11966,17 @@ Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
 
 
 
-4. Gyvenimas skyrium sutuoktinių turtinėms teisėms teisines pasekmes sukelia nuo bylos iškėlimo. Tačiau sutuoktinis, išskyrus tą, kuris buvo pripažintas kaltu dėl gyvenimo skyrium, gali prašyti, kad teismas nustatytų, jog gyvenimas skyrium sutuoktinių turtinėms teisėms teisines pasekmes sukėlė nuo tos dienos, kai jie faktiškai nustojo kartu gyventi.
+4. Gyvenimas skyrium sutuoktinių turtinėms teisėms teisines pasekmes sukelia nuo bylos iškėlimo teisme dienos arba nuo notaro patvirtintos sutarties dėl gyvenimo skyrium pasekmių įsigaliojimo dienos. Sutuoktinis, išskyrus tą, kuris buvo pripažintas kaltu dėl gyvenimo skyrium, gali prašyti, kad teismas nustatytų, jog gyvenimas skyrium sutuoktinių turtinėms teisėms teisines pasekmes sukėlė nuo tos dienos, kurią jie faktiškai nustojo kartu gyventi.
 
 
 
 
-5. Jeigu po teismo sprendimo dėl sutuoktinių gyvenimo skyrium vienas jų miršta, tai pergyvenęs sutuoktinis išsaugo visas teises, kurias įstatymai suteikia pergyvenusiam sutuoktiniui, išskyrus atvejus, kai pergyvenęs sutuoktinis teismo sprendimu yra pripažintas kaltu dėl gyvenimo skyrium. Ta pati taisyklė taikoma ir kai sprendimą dėl gyvenimo skyrium priima teismas pagal bendrą abiejų sutuoktinių prašymą, jeigu sutuoktinių sutartyje nenumatyta ko kita. Tačiau pergyvenęs sutuoktinis negali paveldėti mirusio sutuoktinio turto.
+5. Jeigu po teismo sprendimo dėl sutuoktinių gyvenimo skyrium vienas jų miršta, pergyvenęs sutuoktinis išsaugo visas teises, kurias įstatymai suteikia pergyvenusiam sutuoktiniui, išskyrus atvejus, kai pergyvenęs sutuoktinis teismo sprendimu yra pripažintas kaltu dėl gyvenimo skyrium. Ta pati taisyklė taikoma ir tuo atveju, kai sprendimą dėl gyvenimo skyrium priima teismas pagal bendrą abiejų sutuoktinių prašymą ar gyvenimas skyrium patvirtinamas notarine tvarka, jeigu sutuoktinių sutartyje dėl gyvenimo skyrium pasekmių nenustatyta ko kita. Pergyvenęs sutuoktinis negali paveldėti mirusio sutuoktinio turto.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
-
-
 
 
 
@@ -11861,7 +12020,10 @@ Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
 3.79 straipsnis. Gyvenimo skyrium pabaiga
 
 
-1. Gyvenimas skyrium baigiasi, jeigu sutuoktiniai vėl pradeda kartu gyventi ir bendras gyvenimas patvirtina jų ketinimą kartu gyventi nuolat. Gyvenimas skyrium baigiasi, kai teismas priima sprendimą, kuriuo patenkinamas bendras sutuoktinių prašymas dėl gyvenimo skyrium pabaigos ir kuriuo panaikinamas ankstesnis teismo sprendimas dėl gyvenimo skyrium.
+1. Gyvenimas skyrium baigiasi, jeigu sutuoktiniai vėl pradeda kartu gyventi ir bendras gyvenimas patvirtina jų ketinimą kartu gyventi nuolat. Gyvenimas skyrium baigiasi, kai teismas priima sprendimą, kuriuo patenkinamas bendras sutuoktinių prašymas dėl gyvenimo skyrium pabaigos ir kuriuo panaikinamas ankstesnis teismo sprendimas dėl gyvenimo skyrium. Jeigu gyvenimas skyrium buvo patvirtintas notarine tvarka, jis baigiasi, kai notaras patvirtina sutartį dėl gyvenimo skyrium pasekmių sutarties nutraukimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -11876,7 +12038,9 @@ Nr. XII-2552, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19358
 
 
 
-4. Jeigu sutuoktinių gyvenimas skyrium tęsiasi daugiau kaip vienerius metus po teismo sprendimo įsiteisėjimo, bet kuris sutuoktinis gali reikalauti santuoką nutraukti šio kodekso 3.55 straipsnio 1 dalies 1 punkte numatytu pagrindu.
+4. Jeigu sutuoktinių gyvenimas skyrium tęsiasi daugiau kaip vienerius metus nuo teismo sprendimo įsiteisėjimo arba notaro patvirtintos sutarties dėl gyvenimo skyrium pasekmių įsigaliojimo dienos, bet kuris sutuoktinis gali reikalauti santuoką nutraukti šio kodekso 3.55 straipsnio 1 dalies 1 punkte nurodytu pagrindu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
@@ -12006,7 +12170,10 @@ Jeigu sutuoktiniai nėra sudarę vedybų sutarties, jų turtui taikomas įstatym
 
 
 
-2. Sutuoktinis, kuris yra nekilnojamojo daikto, priskirto šeimos turtui, savininkas, gali perleisti nuosavybės teisę į jį, įkeisti ar kitaip suvaržyti teises į jį tik gavęs kito sutuoktinio rašytinį sutikimą. Jeigu sutuoktiniai turi nepilnamečių vaikų, nekilnojamojo daikto, kuris yra šeimos turtas, sandoriams sudaryti būtinas teismo leidimas.
+2. Sutuoktinis, kuris yra nekilnojamojo daikto, priskirto šeimos turtui, savininkas, gali perleisti nuosavybės teisę į jį, įkeisti ar kitaip suvaržyti teises į jį tik gavęs kito sutuoktinio rašytinį sutikimą. Nepilnamečių vaikų turintys sutuoktiniai privalo užtikrinti, kad dėl sandorio, susijusio su nekilnojamuoju daiktu, kuris yra šeimos turtas, nepilnametis vaikas nebus paliktas be gyvenamojo būsto ir nebus pažeista vaiko teisė į gyvenimo sąlygas, būtinas jo fiziniam, protiniam, dvasiniam ir doroviniam vystymuisi užtikrinti. Notaras, prieš tvirtindamas šį sandorį, Lietuvos Respublikos notariato įstatymo nustatyta tvarka įvertina, ar jį sudarius nepilnametis vaikas nebus paliktas be gyvenamojo būsto ir ar nebus pažeista jo teisė į gyvenimo sąlygas, būtinas jo fiziniam, dvasiniam ir doroviniam vystymuisi užtikrinti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -12525,9 +12692,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-2. Vedybų sutartis, taip pat jos pakeitimai turi būti įregistruoti vedybų sutarčių registre. Vedybų sutarčių registro valdytoja yra Teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė. Registro duomenys tvarkomi Vedybų sutarčių registro nuostatų nustatyta tvarka. Keisti vedybų sutartį galima tik teismo leidimu. Vedybų sutarties pakeitimai neturi grįžtamosios galios.
+2. Vedybų sutartis, taip pat jos pakeitimai turi būti įregistruoti vedybų sutarčių registre. Vedybų sutarčių registro valdytoja yra Teisingumo ministerija, šio registro tvarkytoją skiria Vyriausybė. Registro duomenys tvarkomi Vedybų sutarčių registro nuostatų nustatyta tvarka. Vedybų sutarties pakeitimai neturi grįžtamosios galios.
 Straipsnio dalies pakeitimai:
 Nr. XII-2544, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20313
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
@@ -13319,7 +13487,17 @@ Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
 
 
 
-5. Jeigu vaikas gimė išsituokusiai motinai po santuokos pabaigos nepraėjus trims šimtams dienų, vaiko motina, jos buvęs sutuoktinis ir vyras, pripažįstantis save gimusio vaiko tėvu, turi teisę paduoti teismui bendrą pareiškimą, prašydami vaiko tėvu įrašyti vyrą, pripažįstantį save vaiko tėvu. Teismo nutartimi patvirtinus tokį bendrą pareiškimą, kaip vaiko tėvas įrašomas ne buvęs motinos sutuoktinis, o vyras, pripažįstantis save vaiko tėvu.
+5. Jeigu vaikas gimė išsituokusiai motinai nuo santuokos pabaigos nepraėjus trims šimtams dienų arba motinai, kuri yra susituokusi, vaiko motina, jos buvęs ar esamas sutuoktinis ir vyras, pripažįstantis save gimusio vaiko tėvu, turi teisę paduoti notarui bendrą pareiškimą, kuriame nurodo vaiko tėvu įrašyti vyrą, pripažįstantį save vaiko tėvu. Notarui patvirtinus tokį bendrą pareiškimą, kaip vaiko tėvas įrašomas ne buvęs ar esamas vaiko motinos sutuoktinis, o vyras, pripažįstantis save vaiko tėvu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
+
+
+
+
+6. Notaras ne vėliau kaip kitą darbo dieną po šio straipsnio 5 dalyje nurodyto pareiškimo patvirtinimo dienos privalo jį elektroninių ryšių priemonėmis išsiųsti notaro biuro buvimo vietos civilinės metrikacijos įstaigai.
+Papildyta straipsnio dalimi:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
@@ -13363,22 +13541,22 @@ Tėvystės pripažinimas
 3.142 straipsnis. Tėvystės pripažinimo tvarka
 
 
-1. Vyras, laikantis save tėvu, turi teisę kartu su vaiko motina kreiptis į notarą, kad būtų patvirtintas pareiškimas dėl tėvystės pripažinimo.
+1. Vyras, laikantis save tėvu, turi teisę kartu su vaiko motina kreiptis į notarą, kad būtų patvirtintas pareiškimas dėl tėvystės pripažinimo, arba į civilinės metrikacijos įstaigą dėl tėvystės pripažinimo registravimo.
 
 
 
 
-2. Jei vaikui yra suėję dešimt metų, pareiškimas dėl tėvystės pripažinimo gali būti patvirtintas tik tuo atveju, kai yra vaiko rašytinis sutikimas.
+2. Jei vaikui yra suėję dešimt metų, pareiškimas dėl tėvystės pripažinimo gali būti tvirtinamas notaro arba civilinės metrikacijos įstaiga gali registruoti tėvystės pripažinimą, tik kai yra vaiko rašytinis sutikimas.
 
 
 
 
-3. Jei tėvystę pripažįstantis asmuo yra nepilnametis, tvirtinant pareiškimą dėl tėvystės pripažinimo, reikalaujamas jo tėvų, globėjų ar rūpintojų rašytinis sutikimas. Jei tėvai, globėjai ar rūpintojai tokio sutikimo neduoda, leidimą gali duoti teismas nepilnamečio prašymu.
+3. Jei tėvystę pripažįstantis asmuo yra nepilnametis, tvirtinant pareiškimą dėl tėvystės pripažinimo ar registruojant tėvystės pripažinimą, reikalaujamas jo tėvų, globėjų ar rūpintojų rašytinis sutikimas. Jei tėvai, globėjai ar rūpintojai tokio sutikimo neduoda, leidimą gali duoti teismas nepilnamečio prašymu.
 
 
 
 
-4. Pareiškimas dėl tėvystės pripažinimo negali būti tvirtinamas, jeigu dėl tėvystės pripažinimo nesutinka pilnametis vaikas.
+4. Pareiškimas dėl tėvystės pripažinimo negali būti tvirtinamas arba tėvystės pripažinimas negali būti registruojamas, jei dėl tėvystės pripažinimo nesutinka pilnametis vaikas.
 
 
 
@@ -13388,6 +13566,7 @@ Tėvystės pripažinimas
 
 Straipsnio pakeitimai:
 Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+Nr. XIV-1351, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15446
  
 
 
@@ -13396,30 +13575,32 @@ Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
 3.143 straipsnis. Tėvystės pripažinimas, kol gims vaikas
 
 
-1. Jei yra aplinkybių, dėl kurių vaikui gimus nebus galima kreiptis į notarą dėl tėvystės pripažinimo, vyras, laikantis save pradėto, bet dar negimusio vaiko tėvu, kartu su būsima vaiko motina gali kreiptis į notarą, kad būtų patvirtintas pareiškimas dėl tėvystės pripažinimo vaiko motinos nėštumo laikotarpiu. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+1. Jei yra aplinkybių, dėl kurių vaikui gimus nebus galima kreiptis į notarą dėl tėvystės pripažinimo arba į civilinės metrikacijos įstaigą dėl tėvystės pripažinimo registravimo, vyras, laikantis save pradėto, bet dar negimusio vaiko tėvu, kartu su būsima vaiko motina jos nėštumo laikotarpiu gali kreiptis į notarą, kad būtų patvirtintas pareiškimas dėl tėvystės pripažinimo, arba į civilinės metrikacijos įstaigą dėl tėvystės pripažinimo registravimo.
+
+
+
+
+2. Tvirtinant pareiškimą dėl tėvystės pripažinimo arba registruojant tėvystės pripažinimą, kol gims vaikas, kartu pateikiama medicinos įstaigos išduota pažyma apie nėštumą.
+
+
+
+
+3. Jei vaiko motina iki vaikui gimstant sudarė santuoką su vyru, kuris padavė pareiškimą dėl tėvystės pripažinimo ar prašymą įregistruoti tėvystės pripažinimą, ar su kitu vyru, gimusio vaiko tėvystės pripažinimo, remiantis šiuo pareiškimu dėl tėvystės pripažinimo ar prašymu įregistruoti tėvystės pripažinimą, registruoti negalima.
+
+
+
+
+4. Jei vaiko motina arba vyras, laikantis save pradėto, bet dar negimusio vaiko tėvu, atšaukė šio straipsnio nustatyta tvarka notaro patvirtintą pareiškimą dėl tėvystės pripažinimo arba civilinės metrikacijos įstaigai paduotą prašymą įregistruoti tėvystės pripažinimą, kol vaiko gimimas nebuvo įregistruotas civilinės metrikacijos įstaigoje, vaiko kilmė iš tėvo, remiantis pareiškimu dėl tėvystės pripažinimo ar prašymu įregistruoti tėvystės pripažinimą, neregistruojama.
+
+
+
+
+5. Notaras ne vėliau kaip kitą darbo dieną po pareiškimo dėl tėvystės pripažinimo ar pareiškimo dėl tėvystės pripažinimo atšaukimo patvirtinimo dienos privalo šį pareiškimą elektroninių ryšių priemonėmis išsiųsti notaro biuro buvimo vietos civilinės metrikacijos įstaigai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1351, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15446
  
-
-
-
-
-2. Paduodant pareiškimą dėl tėvystės pripažinimo, kol gims vaikas, kartu pateikiama medicinos įstaigos išduota pažyma apie nėštumą.
-
-
-
-
-3. Jeigu vaiko motina, iki vaikui gimstant, sudarė santuoką su vyru, kuris padavė pareiškimą dėl tėvystės pripažinimo, ar su kitu vyru, gimusio vaiko tėvystės, remiantis šiuo pareiškimu dėl tėvystės pripažinimo, patvirtinti negalima.
-
-
-
-
-4. Jei vaiko motina arba vyras atšaukė pareiškimą dėl tėvystės pripažinimo, patvirtintą šio straipsnio nustatyta tvarka, kol vaiko gimimas nebuvo įregistruotas civilinės metrikacijos įstaigoje, vaiko kilmė iš tėvo, remiantis pareiškimu dėl tėvystės pripažinimo, neregistruojama. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
- 
-
-
 
 
 
@@ -13427,7 +13608,10 @@ Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
 3.144 straipsnis. Tėvystės pripažinimas be motinos sutikimo
 
 
-1. Jei vaiko motina yra mirusi, neveiksni šioje srityje ar dėl kitų priežasčių negali paduoti pareiškimo pripažinti tėvystę su vaiko tėvu, ar tėvystės pripažinti nesutinka nepilnamečio, neveiksnaus šioje srityje ar ribotai veiksnaus šioje srityje vyro, laikančio save vaiko tėvu, tėvai ar globėjai (rūpintojai), ar raštiškai sutikimo nepatvirtina vaikas, kuriam yra suėję dešimt metų, pareiškimas dėl tėvystės pripažinimo gali būti pagrindas tėvystei registruoti, jei šį pareiškimą patvirtina teismas.
+1. Kai vaiko motina yra mirusi, neveiksni šioje srityje ar dėl kitų priežasčių negali paduoti pareiškimo pripažinti tėvystę su vaiko tėvu arba tėvystės pripažinti nesutinka nepilnamečio, neveiksnaus šioje srityje ar ribotai veiksnaus šioje srityje vyro, laikančio save vaiko tėvu, tėvai ar globėjai (rūpintojai), arba raštiškai sutikimo nepatvirtina vaikas, kuriam yra suėję dešimt metų, pareiškimas dėl tėvystės pripažinimo yra tėvystės registravimo pagrindas, jei šį pareiškimą patvirtina teismas. Kai vaiko motina yra mirusi, neveiksni šioje srityje ar dėl kitų priežasčių negali paduoti pareiškimo pripažinti tėvystę su vaiko tėvu, tačiau vaiko tėvas pateikia biologinius tėvystės ryšius įrodančių tyrimų išvadą, notaro patvirtintas pareiškimas dėl tėvystės pripažinimo yra tėvystės registravimo pagrindas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -13440,6 +13624,14 @@ Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
 3. Pareiškimas dėl tėvystės pripažinimo negali būti tvirtinamas, jeigu dėl tėvystės pripažinimo nesutinka pilnametis vaikas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
+ 
+
+
+
+
+4. Notaras ne vėliau kaip kitą darbo dieną po pareiškimo dėl tėvystės pripažinimo patvirtinimo dienos privalo jį elektroninių ryšių priemonėmis išsiųsti notaro biuro buvimo vietos civilinės metrikacijos įstaigai.
+Papildyta straipsnio dalimi:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
@@ -14545,6 +14737,14 @@ Tėvai neturi teisės tvarkyti uzufrukto teisėmis savo nepilnamečių vaikų tu
 
 
 4. Pažeidus šio straipsnio 1, 2 ir 3 dalyse nustatytas normas, sandoris gali būti pripažintas negaliojančiu pagal vaiko, vieno iš jo tėvų ar jų įpėdinių ieškinį.
+
+
+
+
+5. Išankstinio teismo leidimo sudaryti šio straipsnio 1 dalyje nurodytus sandorius nereikalaujama, kai sandoris sudaromas notarine forma. Notaras, prieš tvirtindamas sandorį, Notariato įstatymo nustatyta tvarka įvertina, ar jį sudarius bus užtikrinta tinkama nepilnamečio vaiko teisių ir interesų apsauga.
+Papildyta straipsnio dalimi:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -18948,7 +19148,10 @@ Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)
 
 
 
-4. Savivaldybės vykdomoji institucija bendrojo naudojimo objektų administratorių skiria penkeriems metams. Likus šešiems mėnesiams iki šio termino pabaigos, pradedama šio straipsnio 3 dalyje numatyta procedūra, jeigu bent 1/5 daugiabučio namo butų ir kitų patalpų savininkų raštu pareiškia pageidavimą spręsti bendrojo naudojimo objektų administratoriaus paskyrimo klausimą iš naujo arba savivaldybės vykdomoji institucija gauna šio namo gyventojų pagrįstų nusiskundimų dėl administratoriaus veiklos. Nesant tokio pageidavimo ir nusiskundimų, bendrojo naudojimo objektų administratoriaus paskyrimas šiam daugiabučiam namui pratęsiamas kitų penkerių metų laikotarpiui. Visais atvejais butų ir kitų patalpų savininkai balsų dauguma turi teisę priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių ir nesuėjus penkerių metų terminui.
+4. Savivaldybės vykdomoji institucija bendrojo naudojimo objektų administratorių skiria penkeriems metams. Likus šešiems mėnesiams iki šio termino pabaigos, pradedama šio straipsnio 3 dalyje numatyta procedūra, jeigu bent 1/5 daugiabučio namo butų ir kitų patalpų savininkų raštu pareiškia pageidavimą spręsti bendrojo naudojimo objektų administratoriaus paskyrimo klausimą iš naujo arba savivaldybės vykdomoji institucija yra gavusi šio namo butų ir kitų patalpų savininkų pagrįstų nusiskundimų dėl administratoriaus veiklos. Nesant tokio pageidavimo ir nusiskundimų, bendrojo naudojimo objektų administratoriaus paskyrimas šiam daugiabučiam namui pratęsiamas  penkerių metų laikotarpiui. Visais atvejais butų ir kitų patalpų savininkai turi teisę šio kodekso 4.85 straipsnyje nustatyta tvarka priimti sprendimą pakeisti bendrojo naudojimo objektų administratorių nesuėjus penkerių metų terminui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1356, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15490
+ 
 
 
 
@@ -18963,12 +19166,18 @@ Nr. XI-2005, 2012-05-10, Žin., 2012, Nr. 57-2828 (2012-05-19)
 
 
 
-7. Bendrojo naudojimo objektų administratoriais negali būti šilumos, elektros energijos, dujų, geriamojo vandens tiekėjai, asmenys, teikiantys atliekų vežimo paslaugas, liftų nuolatinės priežiūros paslaugas (išskyrus namus, kuriuose nėra liftų), jeigu jie dirba tos pačios savivaldybės teritorijoje, taip pat kiti asmenys, tiesiogiai ar netiesiogiai susiję su išvardytais asmenimis pagal Konkurencijos įstatymą. Šis draudimas bendrojo naudojimo objektų administratoriui netaikomas administruojant turtą, esantį gyvenamojoje vietovėje, kurioje, Lietuvos statistikos departamento duomenimis, gyvena mažiau negu 100 000 gyventojų, jeigu savivaldybės taryba nenusprendžia kitaip.
+7. Bendrojo naudojimo objektų administratoriais negali būti šilumos, elektros energijos, dujų, geriamojo vandens tiekėjai, asmenys, teikiantys atliekų vežimo paslaugas, liftų nuolatinės priežiūros paslaugas (išskyrus namus, kuriuose nėra liftų), jeigu jie dirba tos pačios savivaldybės teritorijoje, ūkio subjektai, kurie su bendrojo naudojimo objektų administratoriumi sudaro susijusių ūkio subjektų grupę, kaip tai apibrėžta Lietuvos Respublikos konkurencijos įstatyme. Šis draudimas bendrojo naudojimo objektų administratoriui netaikomas administruojant turtą, esantį gyvenamojoje vietovėje, kurioje, Lietuvos statistikos departamento duomenimis, gyvena mažiau negu 100 000 gyventojų, jeigu savivaldybės taryba nenusprendžia kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1356, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15490
+ 
 
 
 
 
-8. Bendrojo naudojimo objektų administratorius administruoja bendrojo naudojimo objektus pagal Vyriausybės patvirtintus nuostatus. 
+8. Bendrojo naudojimo objektų administratoriai administruoja bendrojo naudojimo objektus pagal Vyriausybės patvirtintus nuostatus. Bendrojo naudojimo objektų administratorius, kuris yra perkančioji organizacija, kaip tai apibrėžta Lietuvos Respublikos viešųjų pirkimų įstatyme, su administruojamu namu susijusias paslaugas, prekes ir darbus perka vadovaudamasis šiuo įstatymu. Bendrojo naudojimo objektų administratorius, kuris nėra perkančioji organizacija, pirkimus atlieka vadovaudamasis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, naudodamasis Vyriausybės įsteigtos centrinės perkančiosios organizacijos valdomomis ir administruojamomis informacinėmis sistemomis arba kitu būdu, kai nėra galimybės paslaugų, prekių ir darbų įsigyti naudojantis šiomis sistemomis, taip pat kai namo bendrojo naudojimo objektų gedimų, defektų šalinimo, avarijų lokalizavimo darbus administratorius privalo organizuoti nedelsiant, kad būtų išvengta pavojaus žmonių gyvybei, sveikatai ar aplinkai, arba galimi dideli materialiniai nuostoliai. Perkant kitu būdu, bendrojo naudojimo objektų administratoriui draudžiama pirkti iš ūkio subjektų, kurie su juo sudaro susijusių ūkio subjektų grupę, kaip tai apibrėžta Konkurencijos įstatyme. Butų ir kitų patalpų savininkai gali priimti sprendimą netaikyti šio draudimo. Šis draudimas taip pat netaikomas, kai susiję ūkio subjektai pateikia didžiausio ekonominio naudingumo pasiūlymą. Butų ir kitų patalpų savininkai neprivalo apmokėti išlaidų, kurias bendrojo naudojimo objektų administratorius patyrė pažeisdamas šį draudimą, taip pat gali priimti sprendimą netaikyti šioje dalyje nurodyto reikalavimo pirkti naudojantis Vyriausybės įsteigtos centrinės perkančiosios organizacijos valdomomis ir administruojamomis informacinėmis sistemomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1356, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15490
+ 
 
 
 
@@ -21805,7 +22014,10 @@ HIPOTEKOS PABAIGA
 
 
 
-7. Pasibaigusi hipoteka išregistruojama iš viešo registro. Hipotekos kreditoriaus, skolininko arba įkaito davėjo prašymas išregistruoti pasibaigusią hipoteką pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda viešam registrui. Šio straipsnio 2 dalies 1 punkte nustatytais pagrindais pasibaigusi hipoteka taip pat gali būti išregistruojama hipotekos kreditoriaus, skolininko arba įkaito davėjo prašymu, pateiktu informacinių technologijų priemonėmis viešam registrui šio registro nuostatų nustatyta tvarka (kai prašymą išregistruoti pasibaigusią hipoteką teikia skolininkas arba įkaito davėjas, hipotekos kreditorius privalo informacinių technologijų priemonėmis pateikti hipotekos pabaigos patvirtinimą). Sąlyginė hipoteka, sudaryta siekiant įsigyti nuosavybės teise nekilnojamąjį daiktą Civilinio proceso kodekso VI dalyje nustatyta tvarka, išregistruojama iš viešo registro pagal antstolio pranešimą, kad sąlyginę hipoteką sudaręs asmuo netapo šio turto savininku.
+7. Pasibaigusi hipoteka išregistruojama iš viešo registro. Hipotekos kreditorius, skolininkas arba įkaito davėjas prašymą išregistruoti pasibaigusią hipoteką informacinių technologijų priemonėmis pateikia viešam registrui šio registro nuostatų nustatyta tvarka (kai prašymą išregistruoti pasibaigusią hipoteką teikia skolininkas arba įkaito davėjas, hipotekos kreditorius privalo informacinių technologijų priemonėmis pateikti hipotekos pabaigos patvirtinimą). Hipotekos kreditoriaus, skolininko arba įkaito davėjo prašymas išregistruoti pasibaigusią hipoteką taip pat gali būti pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda viešam registrui. Sąlyginė hipoteka, sudaryta siekiant įsigyti nuosavybės teise nekilnojamąjį daiktą Civilinio proceso kodekso VI dalyje nustatyta tvarka, išregistruojama iš viešo registro pagal antstolio pranešimą, kad sąlyginę hipoteką sudaręs asmuo netapo šio turto savininku.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1351, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15446
+ 
 
 
 
@@ -23609,7 +23821,10 @@ II SKYRIUS
 
 
 
-2) teismas buvo nustatęs gyvenimą skyrium (separacija);
+2) teismas buvo nustatęs gyvenimą skyrium (separaciją) arba gyvenimas skyrium buvo patvirtintas notarine tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -24129,7 +24344,10 @@ Nr. XII-1154, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13599
 
 
 
-5) asmenų, esančių laisvės atėmimo vietose, testamentai, patvirtinti laisvės atėmimo vietų viršininkų;
+5) asmenų, esančių laisvės atėmimo vietų įstaigoje, testamentai, patvirtinti Lietuvos kalėjimų tarnybos direktoriaus įgaliotų bausmių vykdymo sistemos pareigūnų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1201, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15563
+ 
 
 
 
@@ -38896,7 +39114,10 @@ Išsinuomoto daikto duodamos pajamos, vaisiai, gyvulių prieauglis priklauso nuo
 
 
 
-2. Jeigu nuomotojas šio straipsnio 1 dalyje nurodytos pareigos nevykdo, nuomininkas teismo leidimu įgyja teisę atlikti kapitalinį remontą ir išieškoti remonto kainą iš nuomotojo ar įskaityti tą kainą į nuomos mokestį arba nutraukti sutartį ir išieškoti dėl sutarties nevykdymo atsiradusius nuostolius. Šiais atvejais nuomininkas privalo pateikti nuomotojui kapitalinio remonto darbų sąmatą ir sąskaitą.
+2. Jeigu nuomotojas šio straipsnio 1 dalyje nurodytos pareigos nevykdo, nuomininkas įgyja teisę šio kodekso 6.493 straipsnio 3 dalyje nurodytais atvejais atlikti kapitalinį remontą ir iš nuomotojo išieškoti remonto kainą ar šią kainą įskaityti į nuomos mokestį arba turi teisę nutraukti sutartį ir išieškoti dėl sutarties nevykdymo atsiradusius nuostolius. Šiais atvejais nuomininkas privalo pateikti nuomotojui kapitalinio remonto darbų sąmatą ir sąskaitą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
+ 
 
 
 
@@ -38932,7 +39153,9 @@ Išsinuomoto daikto duodamos pajamos, vaisiai, gyvulių prieauglis priklauso nuo
 
 
 
-3. Jeigu nuomotojas, gavęs nuomininko pranešimą, daikto trūkumų nepašalina, nuomininkas turi teisę pradėti būtinus daikto remonto darbus ir be teismo leidimo, kai tai būtina daiktui išsaugoti, apie tai pranešti nuomotojui ir vėliau pateikti atliktų darbų vertę patvirtinančius dokumentus bei pakeistas daikto dalis. Prireikus nuomininkas būtiną daikto remontą gali atlikti nuomos mokesčio sąskaita.
+3. Jeigu nuomotojas, gavęs nuomininko pranešimą, daikto trūkumų nepašalina, nuomininkas turi teisę pradėti būtinus daikto remonto darbus, kai tai būtina daiktui išsaugoti, apie tai pranešti nuomotojui ir vėliau pateikti atliktų darbų vertę patvirtinančius dokumentus bei pakeistas daikto dalis. Prireikus nuomininkas būtiną daikto remontą gali atlikti nuomos mokesčio sąskaita.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1346, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15441
  
 
 
