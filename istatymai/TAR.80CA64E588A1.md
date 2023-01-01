@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -544,9 +544,11 @@ Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010IS
 
 
 
-8) žemės ūkio rizikos valdymo priemonės, nustatytos Reglamento (ES) Nr. 1305/2013 36 straipsnio 1 dalies a ir c punktuose; 
+8) žemės ūkio rizikos valdymo priemonės, nustatytos Reglamento (ES) 2021/2115 76 straipsnio 3 dalyje;
 Papildyta straipsnio punktu:
 Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
+Straipsnio punkto pakeitimai:
+Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
  
 
 
@@ -627,7 +629,10 @@ b) administratorių (šio punkto a papunktyje nurodytai sąskaitai tvarkyti, nuo
 
 
 
-c) vadovaujantis Reglamento (ES) Nr. 1305/2013 39 straipsnio 3 dalimi patvirtintas ir viešai institucijos, atsakingos už Europos žemės ūkio fondo kaimo plėtrai išlaidų valdymą ir kontrolę, interneto svetainėje paskelbtas žemės ūkio rizikos valdymo fondo veiklos taisykles, nustatančias: fondo lėšų administravimą, kaupimą, naudojimą; įnašų ir prarastų pajamų kompensacijų apskaičiavimą ir mokėjimą; tapimo žemės ūkio rizikos valdymo fondo nariu ir išėjimo iš žemės ūkio rizikos valdymo fondo sąlygas; informacijos apie galimus interesų konfliktus teikimą; prarastų pajamų kompensacijų sumažinimo ar nemokėjimo žemės ūkio rizikos valdymo fondo nariams dėl jų aplaidumo sąlygas; žemės ūkio rizikos valdymo fondo narių atsakomybę už skolas, susidariusias dėl žemės ūkio rizikos valdymo fondo veiklos. 
+c) patvirtintas ir viešai institucijos, atsakingos už Europos žemės ūkio fondo kaimo plėtrai išlaidų valdymą ir kontrolę, interneto svetainėje paskelbtas žemės ūkio rizikos valdymo fondo veiklos taisykles, nustatančias: fondo lėšų administravimą, kaupimą, naudojimą; įnašų ir prarastų pajamų kompensacijų apskaičiavimą ir mokėjimą; tapimo žemės ūkio rizikos valdymo fondo nariu ir išėjimo iš žemės ūkio rizikos valdymo fondo sąlygas; informacijos apie galimus interesų konfliktus teikimą; prarastų pajamų kompensacijų sumažinimo ar nemokėjimo žemės ūkio rizikos valdymo fondo nariams dėl jų aplaidumo sąlygas; žemės ūkio rizikos valdymo fondo narių atsakomybę už skolas, susidariusias dėl žemės ūkio rizikos valdymo fondo veiklos. 
+Papunkčio pakeitimai:
+Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
+ 
 
 
 
@@ -676,7 +681,10 @@ c) vadovaujantis Reglamento (ES) Nr. 1305/2013 39 straipsnio 3 dalimi patvirtint
 
 
 
-5. Parama žemės ūkio rizikos valdymo fondo nariui, žemės ūkio veiklos subjektui iš Lietuvos Respublikos valstybės biudžeto lėšų, Europos Sąjungos fondų lėšų skiriama tik tuo atveju, kai pajamų sumažėjimas viršija 30 procentų atskiro žemės ūkio veiklos subjekto vidutinių metinių praėjusių trejų metų laikotarpio pajamų arba praėjusių penkerių metų laikotarpio vidutinių trejų metų pajamų, neįskaitant per tuos penkerius metus gautų didžiausių ir mažiausių pajamų sumų. Pajamos yra įplaukų, kurias žemės ūkio veiklos subjektas gauna iš rinkos, įskaitant bet kokios formos viešąją paramą, suma atskaičius sąnaudas. Iš žemės ūkio rizikos valdymo fondo žemės ūkio veiklos subjektui mokamomis prarastų pajamų kompensacijomis kompensuojama ne daugiau kaip 70 procentų pajamų, prarastų tais metais, kuriais žemės ūkio veiklos subjektas įgyja teisę gauti šią paramą. 
+5. Parama žemės ūkio rizikos valdymo fondo nariui, žemės ūkio veiklos subjektui iš Lietuvos Respublikos valstybės biudžeto lėšų, Europos Sąjungos fondų lėšų skiriama tik tuo atveju, kai pajamų sumažėjimas viršija Reglamento (ES) 2021/2115 76 straipsnio 5 dalyje nustatytą atskiro žemės ūkio veiklos subjekto vidutinių metinių praėjusių trejų metų laikotarpio pajamų arba praėjusių penkerių metų laikotarpio vidutinių trejų metų pajamų, neįskaitant per tuos penkerius metus gautų didžiausių ir mažiausių pajamų sumų, ribą. Pajamos yra įplaukų, kurias žemės ūkio veiklos subjektas gauna iš rinkos, įskaitant bet kokios formos viešąją paramą, suma atskaičius sąnaudas. Iš žemės ūkio rizikos valdymo fondo žemės ūkio veiklos subjektui mokamomis prarastų pajamų kompensacijomis kompensuojama ne daugiau kaip 70 procentų pajamų, prarastų tais metais, kuriais žemės ūkio veiklos subjektas įgyja teisę gauti šią paramą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
+ 
 
 
 
@@ -817,7 +825,6 @@ Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 
 
  
- 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
@@ -854,6 +861,14 @@ priedas
 
 
 3. 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1305/2013 dėl paramos kaimo plėtrai, teikiamos Europos žemės ūkio fondo kaimo plėtrai lėšomis, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1698/2005.
+
+
+
+
+4. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013.
+Papildyta punktu:
+Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
+ 
 
 
 Priedo pakeitimai:
@@ -913,5 +928,15 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 4, 7, 9 straipsnių ir priedo pakeitimo įstatymas
  
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 4, 8, 10 ir 13 straipsnių pakeitimo įstatymas
  
-part_9df1ac8be6214063afd09306d03e961d_end
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 7, 9 straipsnių ir priedo pakeitimo įstatymas
+ 
+ 
+part_1b388c9c8b6f43ed929be4212e8e976b_end
