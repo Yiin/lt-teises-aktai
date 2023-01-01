@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2021-12-04 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -411,6 +411,14 @@ Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
  
 
 
+
+
+32) dokumentų išduoti arba pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą arba keitimą bendra tvarka užsieniečiams, kurie Lietuvos Respublikoje užbaigė studijas arba mokslinius tyrimus ir eksperimentinės plėtros darbus. Valstybės rinkliava už dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo arba pakeitimo tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą arba keitimą bendra tvarka neimama vieną kartą šių asmenų pasirinkimu; 
+Papildyta straipsnio punktu:
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1077, 2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
 Nr. X-359, 2005-09-29, Žin., 2005, Nr. 121-4333 (2005-10-11)
@@ -435,7 +443,10 @@ Nr. XII-608, 2013-11-21, Žin., 2013, Nr. 124-6284 (2013-12-05)
 
 
 
-2. Nuo valstybės rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Konsulinio mokesčio įstatymo 3 straipsnio 16 punkte, atlikimą.
+2. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
+ 
 
 
 
@@ -460,6 +471,14 @@ Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
 1. Valstybės rinkliavos už paso, asmens tapatybės kortelės išdavimą, keitimą bendra tvarka Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, dydis sumažinamas 50 procentų, o piliečiams, kuriems sukako senatvės pensijos amžius, nustatytas Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme, dydis sumažinamas 80 procentų. Šiems asmenims valstybės rinkliava mažinama jų pasirinkimu tik už vieno iš šių dokumentų išdavimą, keitimą bendra tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2477, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17214
+ 
+
+
+
+
+11. Valstybės rinkliavos už dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo ar pakeitimo tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą ar pakeitimą bendra tvarka užsieniečiams, kurie priimti studijuoti į Lietuvos mokslo ir studijų instituciją pagal studijų programą (programas) arba į doktorantūrą, dydis sumažinamas 50 procentų.
+Papildyta straipsnio dalimi:
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
  
 
 
@@ -1170,3 +1189,8 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-702, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25130
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 2 ir 12 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1, 7 ir 8 straipsnių pakeitimo įstatymas
