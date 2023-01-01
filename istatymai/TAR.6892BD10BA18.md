@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6892bd10ba1811eab9d9cd0c85e0b745"
 
 # Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymas
 
+Suvestinė redakcija nuo 2023-01-01
+ 
+Įstatymas paskelbtas: TAR 2020-06-29, i. k. 2020-14343
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ORGANIZUOTO NUSIKALSTAMUMO PREVENCIJOS
 ĮSTATYMAS
@@ -174,7 +181,9 @@ Organizuoto nusikalstamumo prevencijos uždaviniai yra:
 
 
 
-5. Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Specialiųjų tyrimų tarnyba, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos, Valstybės saugumo departamentas pagal kompetenciją dalyvauja įgyvendinant organizuoto nusikalstamumo prevenciją, t. y.:
+5. Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos kalėjimų tarnyba, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos specialiųjų tyrimų tarnyba, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos, Lietuvos Respublikos valstybės saugumo departamentas pagal kompetenciją dalyvauja įgyvendinant organizuoto nusikalstamumo prevenciją, t. y.: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1209, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15573
 
 
 1) analizuoja ir vertina organizuoto nusikalstamumo priežastis ir sąlygas, teikia duomenis Policijos departamentui dėl organizuotos nusikalstamos grupės ir jos narių įtraukimo į Sąrašą;
@@ -834,3 +843,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1209, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15573
+Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo Nr. XIII-3068 4 straipsnio pakeitimo įstatymas
