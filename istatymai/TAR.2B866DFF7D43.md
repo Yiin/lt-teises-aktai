@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-04-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -2083,7 +2083,9 @@ Nr. XIII-2005, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05331
 
 
 
-3. Laisvės atėmimo iki gyvos galvos bausmę nuteistieji atlieka pataisos įstaigose. Laisvės atėmimo iki gyvos galvos bausmės atlikimo tvarką ir sąlygas nustato Bausmių vykdymo kodeksas.
+3. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557
 Straipsnio dalies pakeitimai:
 Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
@@ -2822,7 +2824,9 @@ BAUDŽIAMOJO POVEIKIO PRIEMONĖS IR JŲ SKYRIMAS
 
 
 
-2. Pilnamečiam asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, arba lygtinai paleistam iš pataisos įstaigos Bausmių vykdymo kodekso XI skyriuje numatytais pagrindais, gali būti skiriamos šios baudžiamojo poveikio priemonės:
+2. Pilnamečiam asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, arba lygtinai paleistam iš laisvės atėmimo vietų įstaigos, gali būti skiriamos šios baudžiamojo poveikio priemonės: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557
 
 
 1) uždraudimas naudotis specialia teise;
@@ -2871,6 +2875,14 @@ BAUDŽIAMOJO POVEIKIO PRIEMONĖS IR JŲ SKYRIMAS
 
 
 10) išplėstinis turto konfiskavimas;
+
+
+
+
+11) įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos. 
+Papildyta straipsnio punktu:
+Nr. XIII-3353, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24238
+ 
 
 
 
@@ -3255,7 +3267,10 @@ Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
 
 
 
-3. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, paskirtas kartu su terminuotu laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laikotarpį po laisvės atėmimo ar arešto atlikimo, o asmenį lygtinai paleidus iš pataisos įstaigos ar atidėjus bausmės vykdymą, – probacijos laikotarpiu ir likusį laikotarpį pasibaigus probacijai.
+3. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, paskirtas kartu su terminuotu laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo bausmės ar arešto bausmės atlikimo laiką ir teismo paskirtą laikotarpį po laisvės atėmimo bausmės ar arešto bausmės atlikimo, o asmenį lygtinai paleidus iš laisvės atėmimo vietų įstaigos ar atidėjus bausmės vykdymą, – probacijos laikotarpiu ir likusį laikotarpį pasibaigus probacijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557
+ 
 
 
 
@@ -3555,7 +3570,9 @@ Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje i
 82 straipsnis. Auklėjamojo poveikio priemonės nepilnamečiams
 
 
-1. Nepilnamečiui, padariusiam baudžiamąjį nusižengimą ar nusikaltimą ir atleistam nuo baudžiamosios atsakomybės ar bausmės, taip pat nepilnamečiui, kuriam atidėtas bausmės vykdymas arba kuris lygtinai paleistas iš pataisos įstaigų Lietuvos Respublikos bausmių vykdymo kodekso XI skyriuje numatytais pagrindais, gali būti skiriamos šios auklėjamojo poveikio priemonės:
+1. Nepilnamečiui, padariusiam baudžiamąjį nusižengimą ar nusikaltimą ir atleistam nuo baudžiamosios atsakomybės ar bausmės, taip pat nepilnamečiui, kuriam atidėtas bausmės vykdymas arba kuris lygtinai paleistas iš laisvės atėmimo vietų įstaigos, gali būti skiriamos šios auklėjamojo poveikio priemonės:“.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1199, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15557
 
 
 1) įspėjimas;
