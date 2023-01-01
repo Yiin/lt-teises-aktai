@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2022-07-22 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -1543,7 +1543,7 @@ Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 18 straipsnis. Pranešimas apie pažeidimus valdymo įmonėje ir depozitoriume 
 
 
-Valdymo įmonė ir depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje ar depozitoriume atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo ir kitų kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė ir depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.
+Valdymo įmonė ir depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje ar depozitoriume atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 1286/2014 ir kitų kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė ir depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.
 
 
 Straipsnio pakeitimai:
@@ -2118,32 +2118,58 @@ Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 301 straipsnis. Pagrindinės informacijos investuotojams dokumentas 
 
 
-1. Pagrindinės informacijos investuotojams dokumente turi būti aiškiai nurodyti žodžiai „pagrindinė informacija investuotojams“ ir pateikiama visa investuotojams reikalinga informacija apie esmines kolektyvinio investavimo subjekto savybes, kurios pagrindu jie galėtų suprasti jiems siūlomo kolektyvinio investavimo subjekto esmę bei jam būdingą riziką ir galėtų priimti pagrįstus investicinius sprendimus. 
+1. Rengiant pagrindinės informacijos investuotojams dokumentą, turi būti vadovaujamasi Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais arba, jeigu kolektyvinio investavimo subjektas siūlomas profesionaliesiems investuotojams, – pasirinktinai šio straipsnio 2–7 dalyse nustatytais reikalavimais arba Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-2. Siekiant, kad informaciją būtų galima palyginti, pagrindinės informacijos investuotojams dokumentas turi būti parengtas laikantis Europos Komisijos patvirtintos formos. Rengiant pagrindinės informacijos investuotojams dokumentą, taip pat turi būti vadovaujamasi 2010 m. liepos 1 d. Komisijos reglamentu (ES) Nr. 583/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl pagrindinės informacijos investuotojams ir dėl sąlygų, kurių reikia laikytis teikiant pagrindinę informaciją investuotojams ar prospektą patvariojoje laikmenoje, išskyrus popierių, arba svetainėje, ir laikomasi priežiūros institucijos nustatytų pagrindinės informacijos investuotojams dokumento turinio ir formos reikalavimų. 
+2. Pagrindinės informacijos investuotojams dokumente turi būti aiškiai nurodyti žodžiai „pagrindinė informacija investuotojams“ ir pateikiama visa investuotojams reikalinga informacija apie esmines kolektyvinio investavimo subjekto savybes, kurios pagrindu jie galėtų suprasti jiems siūlomo kolektyvinio investavimo subjekto esmę bei jam būdingą riziką ir galėtų priimti pagrįstus investicinius sprendimus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-3. Jeigu kitoje valstybėje narėje ar trečiojoje valstybėje įsteigtas suderintasis kolektyvinio investavimo subjektas ar jo valdymo įmonė yra gavę šio įstatymo 124 straipsnio 1 dalyje nustatytą pranešimą apie dokumentų perdavimą priežiūros institucijai, Lietuvos Respublikos investuotojams turi būti pateikiamas iš originalo kalbos į lietuvių kalbą be jokių pakeitimų ar papildymų išverstas pagrindinės informacijos investuotojams dokumentas. 
+3. Siekiant, kad informaciją būtų galima palyginti, pagrindinės informacijos investuotojams dokumentas turi būti parengtas laikantis Europos Komisijos patvirtintos formos. Rengiant pagrindinės informacijos investuotojams dokumentą, taip pat turi būti vadovaujamasi 2010 m. liepos 1 d. Komisijos reglamentu (ES) Nr. 583/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl pagrindinės informacijos investuotojams ir dėl sąlygų, kurių reikia laikytis teikiant pagrindinę informaciją investuotojams ar prospektą patvariojoje laikmenoje, išskyrus popierių, arba svetainėje, ir laikomasi priežiūros institucijos nustatytų pagrindinės informacijos investuotojams dokumento turinio ir formos reikalavimų. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-4. Pagrindinės informacijos investuotojams dokumentas laikomas ikisutartine informacija. Jame pateikta informacija turi būti teisinga, aiški ir neklaidinanti ir turi atitikti prospekte esamą informaciją. 
+4. Jeigu kitoje valstybėje narėje ar trečiojoje valstybėje įsteigtas suderintasis kolektyvinio investavimo subjektas ar jo valdymo įmonė yra gavę šio įstatymo 124 straipsnio 1 dalyje nustatytą pranešimą apie dokumentų perdavimą priežiūros institucijai, Lietuvos Respublikos investuotojams turi būti pateikiamas iš originalo kalbos į lietuvių kalbą be jokių pakeitimų ar papildymų išverstas pagrindinės informacijos investuotojams dokumentas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-5. Vadovaujantis vien pagrindinės informacijos investuotojams dokumente ar jo vertime pateikta informacija, civilinė atsakomybė valdymo įmonei neatsiranda, išskyrus atvejį, kai dokumente pateikta informacija yra klaidinanti, netiksli ar neatitinka prospekte pateiktos informacijos. Apie tai turi būti aiškiai įspėta pagrindinės informacijos investuotojams dokumente. 
+5. Pagrindinės informacijos investuotojams dokumentas laikomas ikisutartine informacija. Jame pateikta informacija turi būti teisinga, aiški ir neklaidinanti ir turi atitikti prospekte esamą informaciją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-6. Priežiūros institucija detalizuoja pagrindinės informacijos investuotojams dokumento turinio, formos ir jo pateikimo investuotojams tvarkos reikalavimus.
+6. Vadovaujantis vien pagrindinės informacijos investuotojams dokumente ar jo vertime pateikta informacija, civilinė atsakomybė valdymo įmonei neatsiranda, išskyrus atvejį, kai dokumente pateikta informacija yra klaidinanti, netiksli ar neatitinka prospekte pateiktos informacijos. Apie tai turi būti aiškiai įspėta pagrindinės informacijos investuotojams dokumente. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
+
+
+
+
+7. Priežiūros institucija detalizuoja pagrindinės informacijos investuotojams dokumento turinio, formos ir jo pateikimo investuotojams tvarkos reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 Papildyta straipsniu:
@@ -2156,32 +2182,58 @@ Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
 31 straipsnis. Pagrindinės informacijos investuotojams dokumento pateikimo tvarka
 
 
-1. Valdymo įmonė, prieš sudarydama su investuotoju susitarimą dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimo, privalo investuotojui pateikti atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Jeigu kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos valdymo įmonės vardu platinami per tarpininkus, valdymo įmonė privalo užtikrinti, kad atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentas būtų pateiktas investuotojui prieš sudarant su juo susitarimą dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimo. 
+1. Teikiant pagrindinės informacijos investuotojams dokumentą, turi būti vadovaujamasi Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais arba, jeigu kolektyvinio investavimo subjektas siūlomas profesionaliesiems investuotojams, – pasirinktinai šio straipsnio 2–7 dalyse nustatytais reikalavimais arba Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-2. Valdymo įmonė privalo investicinių produktų teikėjų ir tarpininkų, kurie platina atitinkamo kolektyvinio investavimo subjekto investicinius vienetus ar akcijas ne valdymo įmonės vardu arba konsultuoja investavimo į kolektyvinio investavimo subjektus ar produktus, sudarančius galimybę investuoti į šiuos kolektyvinio investavimo subjektus, klausimais, prašymu pateikti jiems atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. 
+2. Valdymo įmonė, prieš sudarydama su investuotoju susitarimą dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimo, privalo investuotojui pateikti atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Jeigu kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos valdymo įmonės vardu platinami per tarpininkus, valdymo įmonė privalo užtikrinti, kad atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentas būtų pateiktas investuotojui prieš sudarant su juo susitarimą dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų pardavimo. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-3. Šio straipsnio 2 dalyje nurodyti tarpininkai privalo investuotojams pateikti pagrindinės informacijos investuotojams dokumentą šiame straipsnyje nustatyta tvarka. 
+3. Valdymo įmonė privalo investicinių produktų teikėjų ir tarpininkų, kurie platina atitinkamo kolektyvinio investavimo subjekto investicinius vienetus ar akcijas ne valdymo įmonės vardu arba konsultuoja investavimo į kolektyvinio investavimo subjektus ar produktus, sudarančius galimybę investuoti į šiuos kolektyvinio investavimo subjektus, klausimais, prašymu pateikti jiems atitinkamo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-4. Valdymo įmonė pagrindinės informacijos investuotojams dokumentą turi nemokamai pateikti investuotojui patvariojoje laikmenoje, pateikdama nuorodą į interneto svetainę arba investuotojo prašymu pateikti popieriuje išspausdintą pagrindinės informacijos investuotojams dokumento kopiją. 
+4. Šio straipsnio 3 dalyje nurodyti tarpininkai privalo investuotojams pateikti pagrindinės informacijos investuotojams dokumentą šiame straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-5. Valdymo įmonė privalo nuolat atnaujinti pagrindinės informacijos investuotojams dokumentą ir naujausią šio dokumento versiją skelbti savo interneto svetainėje. 
+5. Valdymo įmonė pagrindinės informacijos investuotojams dokumentą turi nemokamai pateikti investuotojui patvariojoje laikmenoje, pateikdama nuorodą į interneto svetainę arba investuotojo prašymu pateikti popieriuje išspausdintą pagrindinės informacijos investuotojams dokumento kopiją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
 
-6. Valdymo įmonė privalo pagrindinės informacijos investuotojams dokumentą ir visus jo pakeitimus nedelsdama, ne vėliau kaip per 3 darbo dienas, pateikti priežiūros institucijai.
+6. Valdymo įmonė privalo nuolat atnaujinti pagrindinės informacijos investuotojams dokumentą ir naujausią šio dokumento versiją skelbti savo interneto svetainėje. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
+
+
+
+
+7. Valdymo įmonė privalo pagrindinės informacijos investuotojams dokumentą ir visus jo pakeitimus nedelsdama, ne vėliau kaip per 3 darbo dienas, pateikti priežiūros institucijai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 Straipsnio pakeitimai:
@@ -7881,7 +7933,7 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 
 
-5) nutraukti nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą;
+5) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
@@ -8221,7 +8273,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-8) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) 2019/1156 nustatytus reikalavimus;
+8) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) Nr. 1286/2014 ir Reglamente (ES) 2019/1156 nustatytus reikalavimus;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
@@ -8525,7 +8577,10 @@ priedas
 
 
 
-3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2162. 
+3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2261.
+Punkto pakeitimai:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
@@ -8540,7 +8595,10 @@ priedas
 
 
 
-6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156. 
+6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/2259.
+Punkto pakeitimai:
+Nr. XIV-1034, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08779
+ 
 
 
 
