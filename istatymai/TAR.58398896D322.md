@@ -18,12 +18,16 @@ LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-05-13
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
+ 
+TAR pastaba. Iki bus priimti 2022-06-28 įstatymo Nr. XIV-1204 įgyvendinamieji teisės aktai, taikomi su probacijos vykdymu susiję įgyvendinamieji teisės aktai, priimti iki 2022 m. gruodžio 31 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2, 6, 8, 10, 11, 15, 17, 18, 20, 21, 25, 30 ir 31 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-07-01:
 Nr. XIII-2266, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11184
@@ -80,7 +84,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Probacija – sąlyginė alternatyva paskirtai arešto ar laisvės atėmimo bausmei (bausmės ar jos dalies vykdymo atidėjimas ir lygtinis paleidimas iš pataisos įstaigų), kurios metu vykdoma probuojamojo priežiūra.
+5. Probacija – sąlyginė alternatyva paskirtai arešto ar laisvės atėmimo bausmei (bausmės ar jos dalies vykdymo atidėjimas ir lygtinis paleidimas iš laisvės atėmimo vietų įstaigos), kurios metu vykdoma probuojamojo priežiūra. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+ 
 
 
 
@@ -110,7 +117,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Probuotojas – pataisos pareigūnas, vykdantis probaciją.
+11. Probuotojas – bausmių vykdymo sistemos pareigūnas, vykdantis probaciją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
  
 
 
@@ -223,12 +232,17 @@ BENDRADARBIAVIMAS SU VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJOMIS, ĮSTAIGOMIS, OR
 
 
 
-3. Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas), laisvės atėmimo vietų įstaigos ir probacijos tarnyba kartu vertina resocializacijos priemonių nuteistiesiems, atliekantiems arešto ir laisvės atėmimo bausmes, veiksmingumą.
+3. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+ 
 
 
 
 
-4. Laisvės atėmimo vietų įstaigos, rengdamos nuteistuosius lygtinai paleisti iš pataisos įstaigų, savarankiškai ar kartu su probacijos tarnyba vykdo nuteistųjų resocializacijos priemones, teikia probuotojams informaciją apie rengiamus lygtinai paleisti iš pataisos įstaigų nuteistuosius, jiems taikytas resocializacijos priemones, atliktą rizikos vertinimą ir kitą informaciją, Kalėjimų departamento direktoriaus ir probacijos tarnybos direktoriaus nustatyta tvarka kartu su probacijos tarnyba rengia socialinio tyrimo išvadas dėl nuteistųjų, kuriuos rengiamasi lygtinai paleisti iš pataisos įstaigų.
+4. Neteko galios nuo 2023-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
 Straipsnio dalies pakeitimai:
 Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
  
@@ -311,9 +325,10 @@ SOCIALINIO TYRIMO IŠVADŲ RENGIMAS. RIZIKOS VERTINIMAS
 
 
 
-2. Socialinio tyrimo išvados formą ir jos rengimo metodines rekomendacijas tvirtina probacijos tarnybos direktorius ir Kalėjimų departamento direktorius.
+2. Socialinio tyrimo išvados formą ir jos rengimo metodines rekomendacijas tvirtina teisingumo ministras.
 Straipsnio dalies pakeitimai:
 Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
  
 
 
@@ -342,7 +357,10 @@ Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 
 
-3. Rizika vertinama vadovaujantis probacijos tarnybos direktoriaus ir (ar) Kalėjimų departamento direktoriaus aprobuotomis metodikomis ir programomis.
+3. Rizika vertinama vadovaujantis probacijos tarnybos direktoriaus ir (ar) Lietuvos kalėjimų tarnybos direktoriaus aprobuotomis metodikomis ir programomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+ 
 
 
 Straipsnio pakeitimai:
@@ -362,25 +380,27 @@ PROBACIJOS VYKDYMO PAGRINDAI. PROBUOJAMŲJŲ TEISINĖ PADĖTIS. PROBUOTOJŲ TEIS
 11 straipsnis. Probacijos vykdymo pagrindai
 
 
-1. Probacijos vykdymo pagrindai yra:
+1. Probacijos vykdymo pagrindai yra: 
 
 
-1) įsiteisėjęs apkaltinamasis teismo nuosprendis, kuriuo nuteistajam paskirta arešto ar laisvės atėmimo bausmė ir jos vykdymas atidėtas, ir teisėjo patvarkymas vykdyti nuosprendį;
-
-
-
-
-2) nuteistojo lygtinis paleidimas iš pataisos įstaigos.
+1) įsiteisėjęs apkaltinamasis teismo nuosprendis, kuriuo nuteistajam paskirta arešto ar laisvės atėmimo bausmė ir jos vykdymas atidėtas, ir teisėjo patvarkymas vykdyti nuosprendį; 
 
 
 
 
+2) nuteistojo lygtinis paleidimas iš laisvės atėmimo vietų įstaigos. 
 
 
-2. Probacija pradedama vykdyti įsiteisėjusio teismo nuosprendžio ir patvarkymo vykdyti nuosprendį gavimo probacijos tarnyboje dieną, o kai nuteistasis lygtinai paleidžiamas iš pataisos įstaigos, – jo lygtinio paleidimo iš pataisos įstaigos dieną. 
+
+
+
+
+2. Probacija pradedama vykdyti įsiteisėjusio teismo nuosprendžio ir patvarkymo vykdyti nuosprendį gavimo probacijos tarnyboje dieną, o kai nuteistasis lygtinai paleidžiamas iš laisvės atėmimo vietų įstaigos, – jo lygtinio paleidimo iš laisvės atėmimo vietų įstaigos dieną. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
  
-
-
 
 
 
@@ -458,58 +478,60 @@ Probuojamieji privalo:
 
 
 
-15 straipsnis. Lygtinai paleistų iš pataisos įstaigų nuteistųjų specialiosios pareigos
+15 straipsnis. Lygtinai paleistų iš laisvės atėmimo vietų įstaigos nuteistųjų specialiosios pareigos 
 
 
-1. Lygtinai paleisti iš pataisos įstaigų nuteistieji privalo:
+1. Lygtinai paleisti iš laisvės atėmimo vietų įstaigos nuteistieji privalo: 
 
 
-1) intensyvios priežiūros metu nustatytu laiku būti nustatytose vietose, taip pat laikytis intensyvios priežiūros vykdymo sąlygų, nustatytų šio įstatymo VI skyriuje, jeigu lygtinis paleidimas iš pataisos įstaigos buvo taikytas pagal Bausmių vykdymo kodekso 157 straipsnio 3 arba 4 dalį;
-
-
-
-
-2) dalyvauti elgesio pataisos programose;
+1) intensyvios priežiūros metu nustatytu laiku būti nustatytose vietose, taip pat laikytis intensyvios priežiūros vykdymo sąlygų, nustatytų šio įstatymo VI skyriuje, jeigu lygtinis paleidimas iš laisvės atėmimo vietų įstaigos buvo taikytas pagal Bausmių vykdymo kodekso 82 straipsnio 3 arba 4 dalį; 
 
 
 
 
-3) gydytis priklausomybės nuo psichiką veikiančių medžiagų ligas, jeigu toks gydymas buvo pradėtas ir nebaigtas pataisos įstaigoje;
+2) dalyvauti elgesio pataisos programose; 
 
 
 
 
-4) nesilankyti tam tikrose vietose;
+3) gydytis priklausomybės nuo psichiką veikiančių medžiagų ligas, jeigu toks gydymas buvo pradėtas ir nebaigtas laisvės atėmimo vietų įstaigoje; 
 
 
 
 
-5) nevartoti psichiką veikiančių medžiagų, jeigu nusikalstamą veiką, už kurią nuteistasis atlieka bausmę, padarė būdamas apsvaigęs nuo šių medžiagų;
+4) nesilankyti tam tikrose vietose; 
 
 
 
 
-6) nebendrauti su tam tikrais asmenimis ar asmenų grupėmis;
+5) nevartoti psichiką veikiančių medžiagų, jeigu nusikalstamą veiką, už kurią nuteistasis atlieka bausmę, padarė būdamas apsvaigęs nuo šių medžiagų; 
 
 
 
 
-7) darbingo amžiaus probuojamieji – per penkiolika dienų nuo paleidimo įsidarbinti arba užsiregistruoti Užimtumo tarnyboje.
+6) nebendrauti su tam tikrais asmenimis ar asmenų grupėmis; 
+
+
+
+
+7) darbingo amžiaus probuojamieji – per penkiolika dienų nuo paleidimo įsidarbinti arba užsiregistruoti Užimtumo tarnyboje. 
 
 
 
 
 
 
-2. Lygtinai paleisto iš pataisos įstaigos nuteistojo buvimo vietą ir laiką intensyvios priežiūros metu, elgesio pataisos programas, kuriose tikslinga dalyvauti šiam nuteistajam, vietas, kuriose negalima lankytis, ir asmenis, su kuriais negalima bendrauti, nustato probacijos tarnyba, atsižvelgdama į lygtinai paleisto iš pataisos įstaigos nuteistojo rizikos lygį, kriminogeninius veiksnius, nusikaltimo, už kurį vykdoma probacija, padarymo aplinkybes, elgesį, taikytas socialinės reabilitacijos priemones ir jų įgyvendinimo rezultatus atliekant laisvės atėmimo bausmę pataisos įstaigoje. 
+2. Lygtinai paleisto iš laisvės atėmimo vietų įstaigos nuteistojo buvimo vietą ir laiką intensyvios priežiūros metu, elgesio pataisos programas, kuriose tikslinga dalyvauti šiam nuteistajam, vietas, kuriose negalima lankytis, ir asmenis, su kuriais negalima bendrauti, nustato probacijos tarnyba, atsižvelgdama į lygtinai paleisto iš laisvės atėmimo vietų įstaigos nuteistojo rizikos lygį, kriminogeninius veiksnius, nusikaltimo, už kurį vykdoma probacija, padarymo aplinkybes, elgesį, taikytas socialinės reabilitacijos priemones ir jų įgyvendinimo rezultatus atliekant laisvės atėmimo bausmę. 
 
 
 
 
-3. Šio įstatymo 29 ir 30 straipsniuose nustatyta tvarka lygtinai paleistam iš pataisos įstaigos nuteistajam gali būti paskirtos ir kitos, šio straipsnio 1 dalyje nenurodytos, pareigos, auklėjamojo poveikio priemonės arba baudžiamojo poveikio priemonės, intensyvi priežiūra arba šio straipsnio 1 dalyje nurodytos pareigos gali būti pakeistos kitomis pareigomis, auklėjamojo poveikio priemonėmis arba baudžiamojo poveikio priemonėmis, intensyvia priežiūra.
+3. Šio įstatymo 29 ir 30 straipsniuose nustatyta tvarka lygtinai paleistam iš laisvės atėmimo vietų įstaigos nuteistajam gali būti paskirtos ir kitos, šio straipsnio 1 dalyje nenurodytos, pareigos, auklėjamojo poveikio priemonės arba baudžiamojo poveikio priemonės, intensyvi priežiūra arba šio straipsnio 1 dalyje nurodytos pareigos gali būti pakeistos kitomis pareigomis, auklėjamojo poveikio priemonėmis arba baudžiamojo poveikio priemonėmis, intensyvia priežiūra.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
  
-
-
 
 
 
@@ -656,9 +678,11 @@ Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 
 
-5. Elektroninio stebėjimo priemonių naudojimo ir probuojamųjų stebėjimo šiomis priemonėmis tvarką nustato probacijos tarnybos direktorius ir Kalėjimų departamento direktorius, o specialiųjų techninių priemonių naudojimo tvarką – probacijos tarnybos direktorius.
+5. Elektroninio stebėjimo priemonių naudojimo ir probuojamųjų stebėjimo šiomis priemonėmis tvarką, taip pat specialiųjų techninių priemonių naudojimo tvarką nustato teisingumo ministras.
 Papildyta straipsnio dalimi:
 Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
+Straipsnio dalies pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
  
 
 
@@ -681,7 +705,10 @@ PROBUOJAMOJO PRIEŽIŪROS PLANAVIMAS IR VYKDYMAS
 
 
 
-2. Individualus probuojamojo priežiūros planas sudaromas atsižvelgiant į šio įstatymo nustatytas ir teismo paskirtas probacijos sąlygas, probuojamojo rizikos lygį, kriminogeninius veiksnius. Nepilnamečiams probuojamiesiems individualus priežiūros planas sudaromas atsižvelgiant ir į jų socialinę brandą, asmenybės ugdymo poreikius. Lygtinai paleistiems iš pataisos įstaigų nuteistiesiems sudarant individualų priežiūros planą, taip pat atsižvelgiama į jų elgesį atliekant laisvės atėmimo bausmę ir šios bausmės atlikimo metu jiems taikytas socialinės reabilitacijos priemones ir jų įgyvendinimo rezultatus.
+2. Individualus probuojamojo priežiūros planas sudaromas atsižvelgiant į šio įstatymo nustatytas ir teismo paskirtas probacijos sąlygas, probuojamojo rizikos lygį, kriminogeninius veiksnius. Nepilnamečiams probuojamiesiems individualus priežiūros planas sudaromas atsižvelgiant ir į jų socialinę brandą, asmenybės ugdymo poreikius. Lygtinai paleistiems iš laisvės atėmimo vietų įstaigos nuteistiesiems sudarant individualų priežiūros planą, taip pat atsižvelgiama į jų elgesį atliekant laisvės atėmimo bausmę ir šios bausmės atlikimo metu jiems taikytas socialinės reabilitacijos priemones ir jų įgyvendinimo rezultatus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+ 
 
 
 
@@ -694,7 +721,10 @@ Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 
 
-4. Individualus probuojamojo priežiūros planas lygtinai paleistiems iš pataisos įstaigų nuteistiesiems turi būti sudarytas iki jų lygtinio paleidimo iš pataisos įstaigų, o kitiems probuojamiesiems – ne vėliau kaip per dešimt darbo dienų nuo priežiūros vykdymo bylos pradžios dienos. Individualus probuojamojo priežiūros planas gali būti nesudaromas, kai probacijos terminas yra ne ilgesnis kaip du mėnesiai, o nepilnamečiams probuojamiesiems ir lygtinai paleistiems iš pataisos įstaigų nuteistiesiems – ne ilgesnis kaip vienas mėnuo. Kai planas nesudaromas, probuojamasis supažindinamas su probacijos vykdymo tvarka ir sąlygomis, jo teisėmis ir pareigomis ir vykdomos šio įstatymo 19 straipsnyje nustatytos trumpalaikės probuojamojo resocializacijos priemonės. Individualus probuojamojo priežiūros planas gali būti tikslinamas atsižvelgiant į šio straipsnio 2 dalyje nustatytas aplinkybes.
+4. Individualus probuojamojo priežiūros planas lygtinai paleistiems iš laisvės atėmimo vietų įstaigos nuteistiesiems turi būti sudarytas iki jų lygtinio paleidimo iš laisvės atėmimo vietų įstaigos, o kitiems probuojamiesiems – ne vėliau kaip per penkiolika darbo dienų nuo priežiūros vykdymo bylos pradžios dienos. Individualus probuojamojo priežiūros planas gali būti nesudaromas, kai probacijos terminas yra ne ilgesnis kaip du mėnesiai, o nepilnamečiams probuojamiesiems ir lygtinai paleistiems iš laisvės atėmimo vietų įstaigos nuteistiesiems – ne ilgesnis kaip vienas mėnuo. Kai individualus probuojamojo priežiūros planas nesudaromas, probuojamasis supažindinamas su probacijos vykdymo tvarka ir sąlygomis, jo teisėmis ir pareigomis ir vykdomos šio įstatymo 19 straipsnyje nustatytos trumpalaikės probuojamojo resocializacijos priemonės. Individualus probuojamojo priežiūros planas gali būti tikslinamas atsižvelgiant į šio straipsnio 2 dalyje nustatytas aplinkybes.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+ 
 
 
 
@@ -781,7 +811,10 @@ Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
 
 
 
-2) nukreipia į socialinių paslaugų įstaigas, taip pat įstaigas, teikiančias paslaugas asmenims, sergantiems priklausomybės ligomis, informuoja apie socialines lengvatas iš laisvės atėmimo vietų paleistiems asmenims;
+2) nukreipia į socialinių paslaugų įstaigas, taip pat įstaigas, teikiančias paslaugas asmenims, sergantiems priklausomybės ligomis, informuoja apie socialines lengvatas iš laisvės atėmimo vietų įstaigos paleistiems asmenims;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+ 
 
 
 
@@ -814,9 +847,10 @@ Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
 21 straipsnis. Elgesio pataisos programų įgyvendinimas
 
 
-1. Probuotojas, atsižvelgdamas į probuojamojo kriminogeninius veiksnius ir riziką, nustato individualias socialinės pagalbos kryptis ir įgyvendina probacijos tarnybos direktoriaus ir (ar) Kalėjimų departamento direktoriaus aprobuotas elgesio pataisos programas.
+1. Probuotojas, atsižvelgdamas į probuojamojo kriminogeninius veiksnius ir riziką, nustato individualias socialinės pagalbos kryptis ir įgyvendina probacijos tarnybos direktoriaus ir (ar) Lietuvos kalėjimų tarnybos direktoriaus aprobuotas elgesio pataisos programas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
  
 
 
@@ -934,7 +968,10 @@ INTENSYVI PRIEŽIŪRA
 25 straipsnis. Intensyvi priežiūra
 
 
-1. Ne vėliau kaip per penkias darbo dienas nuo nuosprendžio, pagal kurį turi būti vykdoma probuojamojo intensyvi priežiūra, gavimo, o kai nuteistasis lygtinai paleidžiamas iš pataisos įstaigos taikant jam intensyvią priežiūrą, – lygtinio paleidimo iš pataisos įstaigos dieną probuojamajam uždedamas elektroninio stebėjimo įtaisas ir prireikus teismo ar probacijos tarnybos nustatytoje nuteistojo buvimo vietoje sumontuojama elektroninio stebėjimo įranga, o nuteistasis pasirašytinai supažindinamas su elektroninio stebėjimo įtaiso naudojimo instrukcija. Jeigu nuteistasis yra nepilnametis, su šia instrukcija pasirašytinai supažindinamas ir jo atstovas pagal įstatymą. 
+1. Ne vėliau kaip per penkias darbo dienas nuo nuosprendžio, pagal kurį turi būti vykdoma probuojamojo intensyvi priežiūra, gavimo, o kai nuteistasis lygtinai paleidžiamas iš laisvės atėmimo vietų įstaigos taikant jam intensyvią priežiūrą, – lygtinio paleidimo iš laisvės atėmimo vietų įstaigos dieną probuojamajam uždedamas elektroninio stebėjimo įtaisas ir prireikus teismo ar probacijos tarnybos nustatytoje nuteistojo buvimo vietoje sumontuojama elektroninio stebėjimo įranga, o nuteistasis pasirašytinai supažindinamas su elektroninio stebėjimo įtaiso naudojimo instrukcija. Jeigu nuteistasis yra nepilnametis, su šia instrukcija pasirašytinai supažindinamas ir jo atstovas pagal įstatymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+ 
 
 
 
@@ -1078,10 +1115,10 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 
 
 
-30 straipsnis. Probacijos vykdymo ir vengimo vykdyti teisinės pasekmės
+30 straipsnis. Probacijos vykdymo ir vengimo vykdyti probaciją teisinės pasekmės
 
 
-1. Probuojamasis, kuris probacijos laikotarpiu įvykdė auklėjamojo ar baudžiamojo poveikio priemones ir (ar) pareigas, laikėsi intensyvios priežiūros sąlygų, nepadarė šio straipsnio 2 dalies 2 ir 3 punktuose numatytų pažeidimų, dėl kurių buvo priimtas sprendimas panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai sueina bausmės vykdymo atidėjimo arba lygtinio paleidimo iš pataisos įstaigos terminas, laikomas atlikusiu bausmę.
+1. Probuojamasis, kuris probacijos laikotarpiu įvykdė auklėjamojo ar baudžiamojo poveikio priemones ir (ar) pareigas, laikėsi intensyvios priežiūros sąlygų, nepadarė šio straipsnio 2 dalies 2 ir 3 punktuose numatytų pažeidimų, dėl kurių buvo priimtas sprendimas panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš laisvės atėmimo vietų įstaigos ir vykdyti likusią bausmės dalį, kai sueina bausmės vykdymo atidėjimo arba lygtinio paleidimo iš laisvės atėmimo vietų įstaigos terminas, laikomas atlikusiu bausmę.
 
 
 
@@ -1094,12 +1131,12 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 
 
 
-2) vykdo probacijos sąlygas, tačiau padaro administracinių nusižengimų, už kuriuos jam taikytos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu gali jam papildomai paskirti Baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 5 ar 6 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių, ir (ar) šio kodekso 87 straipsnio 2, 3 ir 4 dalyse numatytų įpareigojimų ar draudimų arba priimti sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę, arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai pagrįstai manoma, kad probacijos tikslo nebus įmanoma pasiekti skirtinomis baudžiamojo poveikio priemonėmis ir (ar) pareigomis arba auklėjamojo poveikio priemonėmis;
+2) vykdo probacijos sąlygas, tačiau padaro administracinių nusižengimų, už kuriuos jam taikytos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu gali jam papildomai paskirti Baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso  75 straipsnio 5 ar 6 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių, ir (ar) šio kodekso 87 straipsnio 2, 3 ir 4 dalyse numatytų įpareigojimų ar draudimų arba priimti sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę, arba panaikinti lygtinį paleidimą iš laisvės atėmimo vietų įstaigos ir vykdyti likusią bausmės dalį, kai pagrįstai manoma, kad probacijos tikslo nebus įmanoma pasiekti skirtinomis baudžiamojo poveikio priemonėmis ir (ar) pareigomis arba auklėjamojo poveikio priemonėmis;
 
 
 
 
-3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro administracinį nusižengimą, už kurį jam taikyta administracinė nuobauda ir (ar) administracinio poveikio priemonė, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį. 
+3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro administracinį nusižengimą, už kurį jam taikyta administracinė nuobauda ir (ar) administracinio poveikio priemonė, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš laisvės atėmimo vietų įstaigos ir vykdyti likusią bausmės dalį.
 
 
 
@@ -1107,9 +1144,11 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 
 
 3. Probacijos tarnyba, nustačiusi šio straipsnio 2 dalies 2 ar 3 punkte nurodytus probuojamojo padarytus teisės pažeidimus ir (ar) probacijos sąlygų nevykdymo atvejus, teikimą teismui pateikia nedelsdama, ne vėliau kaip per vieną darbo dieną.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
  
-
-
 
 
 
@@ -1117,7 +1156,10 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 31 straipsnis. Probacijos vykdymo pabaiga
 
 
-1. Probacijos vykdymas baigiamas bausmės vykdymo atidėjimo ar laisvės atėmimo bausmės paskutinę dieną, jeigu probuojamasis yra lygtinai paleistas iš pataisos įstaigos ir nėra pagrindų jį pasiųsti atlikti paskirtą laisvės atėmimo bausmę ar likusią laisvės atėmimo bausmės dalį.
+1. Probacijos vykdymas baigiamas bausmės vykdymo atidėjimo ar laisvės atėmimo bausmės paskutinę dieną, jeigu probuojamasis yra lygtinai paleistas iš laisvės atėmimo vietų įstaigos ir nėra pagrindų jį pasiųsti atlikti paskirtos laisvės atėmimo bausmės ar likusios jos dalies.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+ 
 
 
 
@@ -1270,3 +1312,8 @@ Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 5, 6, 8, 10, 17, 18, 21, 22, 25, 28, 32, 33 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2, 6, 8, 10, 11, 15, 17, 18, 20, 21, 25, 30 ir 31 straipsnių pakeitimo įstatymas
