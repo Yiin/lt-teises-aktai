@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
  
@@ -3219,7 +3219,10 @@ priedas
  
 
 
-1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156.
+1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/2259.
+Punkto pakeitimai:
+Nr. XIV-1037, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08784
+ 
 
 
 
@@ -3252,7 +3255,7 @@ Priedo pakeitimai:
 Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
  
-part_57d8c79fb3574545b59ae65e48af70ef_end
+part_e9165a7dfc61446d9ebc8d9d8607637c_end
 
 
 Pakeitimai:
@@ -3375,3 +3378,8 @@ Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 3, 8, 14, 21, 32, 35, 36, 41, 49, 56, 57, 58, 58-1, 58-2, 59 straipsnių ir priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1037, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08784
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 priedo pakeitimo įstatymas
