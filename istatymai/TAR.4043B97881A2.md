@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4043B97881A2"
 
 # Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1290, i. k. 0951010ISTA000I-924
- 
-TAR pastaba. Iki įstatymo Nr. XIII-1906 įsigaliojimo (2019-05-01) priverstinai hospitalizuotų pacientų priverstinis hospitalizavimas vykdomas vadovaujantis sprendimais, priimtais pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas. Iki šio įstatymo įsigaliojimo priverstinai hospitalizuotų pacientų priverstinis hospitalizavimas įsigaliojus šiam įstatymui pratęsiamas šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo nustatyta tvarka.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1906, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00838
-Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo Nr. I-924 pakeitimo įstatymas
  
 Nauja redakcija nuo 2019-05-01:
 Nr. XIII-1906, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00838
@@ -230,18 +225,20 @@ VISUOMENĖS PSICHIKOS SVEIKATOS PRIEŽIŪRA IR ASMENS PSICHIKOS SVEIKATOS PRIEŽ
 
 
 
-7 straipsnis. Psichikos ir elgesio sutrikimų turinčių pacientų, kuriems skirta laisvės atėmimo bausmė ar kardomasis kalinimas, asmens psichikos sveikatos priežiūros paslaugos
+7 straipsnis. Psichikos ir elgesio sutrikimų turinčių pacientų, kuriems skirta laisvės atėmimo bausmė ar kardomasis kalinimas, asmens psichikos sveikatos priežiūros paslaugos 
 
 
-1. Psichikos ir elgesio sutrikimų turintiems pacientams, kuriems skirta laisvės atėmimo bausmė arba kardomasis kalinimas, asmens psichikos sveikatos priežiūros paslaugos laisvės atėmimo bausmės vykdymo arba kardomojo kalinimo metu teikiamos pataisos įstaigose ir tardymo izoliatoriuose esančiose sveikatos priežiūros įstaigose. Šiame straipsnyje nurodytiems asmenims psichikos sveikatos priežiūros paslaugos suteikiamos kitose asmens sveikatos priežiūros įstaigose, jeigu jų suteikti pataisos įstaigose ir tardymo izoliatoriuose esančiose sveikatos priežiūros įstaigose nėra galimybių.
+1. Psichikos ir elgesio sutrikimų turintiems pacientams, kuriems skirta laisvės atėmimo bausmė arba kardomasis kalinimas, asmens psichikos sveikatos priežiūros paslaugos laisvės atėmimo bausmės vykdymo arba kardomojo kalinimo metu teikiamos laisvės atėmimo vietų įstaigos padaliniuose, vykdančiuose sveikatinimo veiklą. Šiame straipsnyje nurodytiems asmenims psichikos sveikatos priežiūros paslaugos suteikiamos kitose asmens sveikatos priežiūros įstaigose, jeigu jų suteikti laisvės atėmimo vietų įstaigoje nėra galimybių. 
 
 
 
 
-2. Asmens psichikos sveikatos priežiūros paslaugų teikimo pataisos įstaigose ir tardymo izoliatoriuose esančiose sveikatos priežiūros įstaigose tvarką nustato sveikatos apsaugos ministras ir Lietuvos Respublikos teisingumo ministras, teritorinių policijos įstaigų areštinėse – sveikatos apsaugos ministras ir Lietuvos Respublikos vidaus reikalų ministras.
+2. Asmens psichikos sveikatos priežiūros paslaugų teikimo laisvės atėmimo vietų įstaigoje tvarką nustato sveikatos apsaugos ministras ir teisingumo ministras, teritorinių policijos įstaigų areštinėse – sveikatos apsaugos ministras ir vidaus reikalų ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1214, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15579
  
-
-
 
 
 
@@ -596,3 +593,8 @@ Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo 28 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1906, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00838
 Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo Nr. I-924 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1214, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15579
+Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo Nr. I-924 7 straipsnio pakeitimo įstatymas
