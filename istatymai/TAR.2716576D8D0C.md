@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2716576D8D0C"
 
 # Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 206-0; Žin. 1992, Nr.30-929, i. k. 0921010ISTA00I-2944
  
@@ -87,7 +87,10 @@ Angliavandenilių išteklių mokesčio mokėtojai yra Lietuvos ir užsienio apmo
 
 
 
-2. Kai angliavandenilių išteklių mokesčio neįmanoma apskaičiuoti šio straipsnio 1 dalyje nustatyta tvarka, angliavandenilių (naftos ir dujų) išteklių mokestis yra apskaičiuojamas nuo praėjusio mokestinio laikotarpio vidutinės Lietuvos statistikos departamento apskaičiuotos ir paskelbtos išgautų angliavandenilių (naftos ir dujų) išteklių pardavimo kainos už kubinį metrą gavybos vietoje.
+2. Kai angliavandenilių išteklių mokesčio neįmanoma apskaičiuoti šio straipsnio 1 dalyje nustatyta tvarka, angliavandenilių (naftos ir dujų) išteklių mokestis yra apskaičiuojamas nuo praėjusio mokestinio laikotarpio vidutinės Valstybės duomenų agentūros apskaičiuotos ir paskelbtos išgautų angliavandenilių (naftos ir dujų) išteklių pardavimo kainos už kubinį metrą gavybos vietoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1707, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27555
+ 
 
 
 
@@ -216,7 +219,10 @@ Nr. XII-2158, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19856
 
 
 
-2. Šio įstatymo 10 straipsnio 1 dalyje nustatyta bauda yra įskaitoma: 90 procentų – į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojama Aplinkos apsaugos rėmimo programai finansuoti, 10 procentų – į savivaldybės, kurios teritorijoje yra išgaunami angliavandenilių ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojama Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
+2. Šio įstatymo 10 straipsnio 1 dalyje nustatyta bauda įskaitoma: 90 procentų – į valstybės biudžetą, 10 procentų – į savivaldybės, kurios teritorijoje išgaunami angliavandenilių ištekliai, biudžetą ir naudojama Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1707, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27555
+ 
 
 
 
@@ -266,3 +272,8 @@ Lietuvos Respublikos naftos ir dujų išteklių mokesčio įstatymo Nr. I-2944 p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2158, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19856
 Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymo Nr. I-2944 8 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1707, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27555
+Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymo Nr. I-2944 6 ir 12 straipsnių pakeitimo įstatymas
