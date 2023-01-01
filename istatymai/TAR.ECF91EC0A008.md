@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ecf91ec0a00811e58fd1fc0b9bba68a7"
 
 # Lietuvos Respublikos civilinės būklės aktų registravimo įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
  
 Įstatymas paskelbtas: TAR 2015-12-14, i. k. 2015-19697
  
@@ -106,7 +106,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Civilinės būklės akto įrašą liudijantys išrašai išduodami asmeniui, kuriam įregistruotas civilinės būklės aktas, arba jo atstovui Civilinės būklės aktų registravimo taisyklėse nustatyta tvarka. Mirusio asmens civilinės būklės aktų įrašus liudijantys išrašai išduodami mirusiojo sutuoktiniui, artimiesiems giminaičiams ir įpėdiniams. 
+2. Civilinės būklės akto įrašą liudijantys išrašai išduodami asmeniui, kuriam įregistruotas civilinės būklės aktas, arba jo atstovui Civilinės būklės aktų registravimo taisyklėse nustatyta tvarka. Mirusio asmens civilinės būklės aktų įrašus liudijantys išrašai išduodami mirusiojo sutuoktiniui, artimiesiems giminaičiams ir įpėdiniams. Civilinės būklės akto įrašą liudijantį išrašą atsiima asmuo, turintis teisę gauti tokį išrašą, jo atstovas arba prašyme, kurį tas asmuo pateikė civilinės metrikacijos įstaigai ar konsulinei įstaigai, nurodytas asmuo, jei civilinės būklės akto įrašą liudijantis išrašas atsiimamas civilinės metrikacijos įstaigoje ar konsulinėje įstaigoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1352, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15448
  
 
 
@@ -304,7 +306,10 @@ TĖVYSTĖS PRIPAŽINIMO, TĖVYSTĖS (MOTINYSTĖS) NUSTATYMO AR NUGINČIJIMO IR �
 13 straipsnis. Tėvystės pripažinimo, tėvystės (motinystės) nustatymo ar nuginčijimo ir įvaikinimo registravimo tvarka 
 
 
-1. Civilinės metrikacijos įstaiga tėvystės (motinystės) nustatymą, tėvystės (motinystės) nuginčijimą ir įvaikinimą registruoja savo iniciatyva (ex officio), remdamasi teismo sprendimu. Tėvystės pripažinimą civilinės metrikacijos įstaiga registruoja savo iniciatyva (ex officio), remdamasi notaro ar teismo patvirtintu pareiškimu dėl tėvystės pripažinimo. 
+1. Civilinės metrikacijos įstaiga tėvystės (motinystės) nustatymą, tėvystės (motinystės) nuginčijimą, tėvystės pripažinimą ir įvaikinimą registruoja savo iniciatyva (ex officio), remdamasi teismo sprendimu, notaro ar teismo patvirtintu pareiškimu dėl tėvystės pripažinimo ar notaro patvirtintu pareiškimu dėl vaiko kilmės iš tėvo nustatymo. Tėvystės pripažinimą civilinės metrikacijos įstaiga taip pat registruoja remdamasi vyro, laikančio save tėvu, kartu su vaiko motina pateiktu prašymu įregistruoti tėvystės pripažinimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1352, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15448
+ 
 
 
 
@@ -369,45 +374,18 @@ Nr. XIII-2340, 2019-07-16, paskelbta TAR 2019-07-30, i. k. 2019-12536
 
 
 
-16 straipsnis. Prašymo įregistruoti santuoką viešas skelbimas
-
-
-1. Apie prašymą įregistruoti santuoką civilinės metrikacijos įstaiga skelbia viešai teisingumo ministro nustatyta tvarka ne vėliau kaip likus dviem savaitėms iki santuokos registravimo dienos.
-
-
-
-
-2. Skelbime apie prašymą įregistruoti santuoką nurodomi norinčių susituokti asmenų vardai, pavardės, gimimo data ir būsimos santuokos registravimo laikas.
+16 straipsnis. Neteko galios nuo 2023-01-01
+Straipsnio naikinimas:
+Nr. XIV-1352, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15448
  
 
 
 
 
-
-
-17 straipsnis. Pareiškimas dėl kliūčių sudaryti santuoką
-
-
-1. Bet kuris suinteresuotas asmuo turi teisę raštu pareikšti civilinės metrikacijos įstaigai, paskelbusiai apie prašymą įregistruoti santuoką, kad yra Lietuvos Respublikos civiliniame kodekse nustatytų kliūčių sudaryti santuoką.
-
-
-
-
-2. Civilinės metrikacijos įstaiga, gavusi pareiškimą dėl kliūčių sudaryti santuoką, sustabdo santuokos įregistravimą ir įpareigoja pareiškimą padavusį asmenį per tris dienas nuo pareiškimo padavimo dienos pateikti rašytinius pareiškime nurodytų faktų įrodymus. Jeigu asmuo per nurodytą terminą šių įrodymų nepateikia, santuoka registruojama bendra tvarka. 
-
-
-
-
-3. Jeigu, pateikus šio straipsnio 2 dalyje numatytus rašytinius įrodymus, kyla ginčas, civilinės metrikacijos įstaiga išaiškina norintiems susituokti asmenims jų teisę kreiptis į teismą dėl pareiškimo dėl kliūčių sudaryti santuoką paneigimo. Šiuo atveju santuoka įregistruojama tik po to, kai norintys susituokti asmenys pateikia civilinės metrikacijos įstaigai įsiteisėjusį teismo sprendimą, kuriuo pareiškimas dėl kliūčių sudaryti santuoką yra paneigtas kaip nepagrįstas.
-
-
-
-
-4. Jeigu pareiškimą dėl kliūčių sudaryti santuoką padavęs asmuo per šio straipsnio 2 dalyje nustatytą terminą nepateikia civilinės metrikacijos įstaigai rašytinių pareiškime nurodytų faktų įrodymų, taip pat jeigu teismas sprendimu pareiškimą dėl kliūčių sudaryti santuoką pripažįsta nepagrįstu, norintys susituokti asmenys, o po santuokos įregistravimo − sutuoktiniai turi teisę per vienus metus nuo šio straipsnio 2 dalyje nustatyto termino pabaigos ar teismo sprendimo įsiteisėjimo dienos reikalauti tiesioginių nuostolių atlyginimo iš pareiškimą dėl kliūčių sudaryti santuoką padavusio asmens, išskyrus atvejus, kai pareiškimą buvo padavę vieno iš sutuoktinių tėvai ar vienas iš tėvų arba prokuroras.
+17 straipsnis. Neteko galios nuo 2023-01-01
+Straipsnio naikinimas:
+Nr. XIV-1352, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15448
  
- 
-
-
 
 
 
@@ -416,7 +394,6 @@ Nr. XIII-2340, 2019-07-16, paskelbta TAR 2019-07-30, i. k. 2019-12536
 
 
 Santuoka registruojama praėjus ne mažiau kaip vienam mėnesiui nuo prašymo įregistruoti santuoką padavimo dienos. Dėl norinčios susituokti moters nėštumo, vieno iš norinčių susituokti asmenų sunkios ligos, išvykimo į tolimojo plaukiojimo reisą ar atlikti karinės užduoties užsienio valstybėje ilgesniam negu trijų mėnesių laikotarpiui, išvykimo į diplomatinę tarnybą gali būti leidžiama įregistruoti santuoką nepraėjus vienam mėnesiui, bet praėjus ne mažiau kaip dviem savaitėms nuo prašymo padavimo dienos. 
- 
  
 
 
@@ -482,7 +459,10 @@ SANTUOKOS NUTRAUKIMO REGISTRAVIMAS
 22 straipsnis. Santuokos nutraukimo registravimo tvarka 
 
 
-1. Santuokos nutraukimą registruoja civilinės metrikacijos įstaiga savo iniciatyva (ex officio), remdamasi teismo sprendimu.
+1. Santuokos nutraukimą registruoja civilinės metrikacijos įstaiga savo iniciatyva (ex officio), remdamasi teismo sprendimu ar notaro pateiktais duomenimis apie patvirtintą sutartį dėl santuokos nutraukimo pasekmių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1352, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15448
+ 
 
 
 
@@ -693,3 +673,8 @@ Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo Nr. XII-21
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1016, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08106
 Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo Nr. XII-2111 6, 12 ir 25 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1352, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15448
+Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo Nr. XII-2111 4, 13, 22 straipsnių pakeitimo ir 16, 17 straipsnių pripažinimo netekusiais galios įstatymas
