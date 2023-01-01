@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-02-12
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -630,7 +630,10 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 
-2. Akcizais apmokestinamų prekių sandėlio savininkas privalo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka tvarkyti visų operacijų, atliekamų sandėlyje ar tiesioginio pristatymo vietoje, akcizais apmokestinamų prekių apskaitą ir teikti centrinio mokesčių administratoriaus nustatyta tvarka parengtas ataskaitas vietos mokesčių administratoriui. Akcizais apmokestinamų prekių sandėlio savininkas privalo laikytis Vyriausybės ar jos įgaliotos institucijos nustatytų apskaitos priemonių reikalavimų.
+2. Akcizais apmokestinamų prekių sandėlio savininkas privalo tvarkyti visų akcizais apmokestinamų prekių sandėlyje atliekamų operacijų apskaitą. Akcizais apmokestinamų prekių sandėlyje atliekamų operacijų apskaitos tvarką (įskaitant privalomas naudoti matavimo, apskaitos priemones, jų naudojimo reikalavimus) nustato Vyriausybė ar jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
+ 
 
 
 
@@ -723,17 +726,26 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 
-7) mokesčių administratoriaus sprendimu, jeigu 3 mėnesius nuo leidimo steigti akcizais apmokestinamų prekių sandėlį išdavimo dienos jame nevykdoma jokia veikla, numatyta prašyme išduoti leidimą steigti akcizais apmokestinamų prekių sandėlį; 
+7) mokesčių administratoriaus sprendimu, jeigu 6 mėnesius iš eilės jame nevykdoma jokia veikla, numatyta prašyme išduoti leidimą steigti akcizais apmokestinamų prekių sandėlį;
+Straipsnio punkto pakeitimai:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
+ 
 
 
 
 
-8) mokesčių administratoriaus sprendimu, jeigu per 3 mėnesius nuo leidimo steigti akcizais apmokestinamų prekių sandėlį išdavimo dienos akcizais apmokestinamų prekių sandėlio savininkas nepateikia piniginio užstato ar akcizais apmokestinamų prekių sandėlio savininko prievolių įvykdymo užtikrinimo dokumento, jeigu teisės aktų nustatyta tvarka toks dokumentas turėjo būti pateiktas;
+8) mokesčių administratoriaus sprendimu, jeigu per 3 mėnesius nuo leidimo steigti akcizais apmokestinamų prekių sandėlį suteikimo dienos akcizais apmokestinamų prekių sandėlio savininkas nepateikia piniginio užstato ar akcizais apmokestinamų prekių sandėlio savininko prievolių įvykdymo užtikrinimo dokumento, jeigu teisės aktų nustatyta tvarka toks dokumentas turėjo būti pateiktas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
+ 
 
 
 
 
-9) mokesčių administratoriaus sprendimu, jeigu per 10 darbo dienų nuo termino, per kurį mokesčių administratoriaus rašytiniu nurodymu turėjo būti pateiktas akcizais apmokestinamų prekių sandėlio savininko prievolių įvykdymo užtikrinimo dokumentas, šis dokumentas nepateikiamas;
+9) mokesčių administratoriaus sprendimu, jeigu per 10 darbo dienų nuo piniginio užstato arba akcizais apmokestinamų prekių sandėlio savininko prievolių įvykdymo užtikrinimo dokumento galiojimo pabaigos nepateikiamas naujas atitinkamas dokumentas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
+ 
 
 
 
@@ -781,7 +793,7 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 
-2. Registruodamasis registruotu gavėju, asmuo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas mokesčių mokėtoju, privalo pateikti piniginį užstatą arba registruoto gavėjo prievolių įvykdymo užtikrinimo dokumentą. Registruoti gavėjai registruojami ir išregistruojami centrinio mokesčių administratoriaus nustatyta tvarka. Registruotam gavėjui suteikiamas atskiras identifikacinis numeris, kuris nurodomas registruoto gavėjo pažymėjime. Registruoto gavėjo pažymėjimo formą ir jo išdavimo tvarką nustato centrinis mokesčių administratorius. Piniginio užstato ir registruoto gavėjo prievolių įvykdymo užtikrinimo sumos dydžio apskaičiavimo tvarką, taip pat atvejus, kai piniginio užstato ir (arba) registruoto gavėjo prievolių įvykdymo užtikrinimo dokumento pateikti nereikalaujama, nustato Vyriausybė ar jos įgaliota institucija.
+2. Registruodamasis kaip registruotas gavėjas, asmuo mokesčių administratoriui privalo pateikti piniginį užstatą arba registruoto gavėjo prievolių įvykdymo užtikrinimo dokumentą. Registruoti gavėjai registruojami ir išregistruojami centrinio mokesčių administratoriaus nustatyta tvarka. Registruotam gavėjui suteikiamas atskiras identifikacinis numeris, kuris nurodomas registruoto gavėjo pažymėjime. Registruoto gavėjo pažymėjimo formą ir jo išdavimo tvarką nustato centrinis mokesčių administratorius. Piniginio užstato ir registruoto gavėjo prievolių įvykdymo užtikrinimo sumos dydžio apskaičiavimo tvarką, taip pat atvejus, kai piniginio užstato ir (arba) registruoto gavėjo prievolių įvykdymo užtikrinimo dokumento pateikti nereikalaujama, nustato Vyriausybė ar jos įgaliota institucija.
 
 
 
@@ -791,20 +803,20 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 
-4. Registruotas gavėjas privalo tvarkyti iš kitos valstybės narės gautų akcizais apmokestinamų prekių apskaitą, laikydamasis centrinio mokesčių administratoriaus nustatytos tvarkos, taip pat teikti vietos mokesčių administratoriui centrinio mokesčių administratoriaus nustatyta tvarka ir terminais parengtas gautų iš kitos valstybės narės akcizais apmokestinamų prekių ataskaitas.
+4. Registruotas gavėjas privalo tvarkyti iš kitos valstybės narės gautų akcizais apmokestinamų prekių apskaitą.
 
 
 
 
-5. Mokesčių administratorius turi teisę registruotą gavėją išregistruoti iš registruotų gavėjų sąrašo šiais atvejais:
+5. Mokesčių administratorius turi teisę registruotą gavėją išregistruoti šiais atvejais:
 
 
-1) registruotas gavėjas per 6 mėnesius nuo įregistravimo registruotu gavėju dienos verslo tikslams negavo iš kitos valstybės narės akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas;
+1) registruotas gavėjas 6 mėnesius iš eilės verslo tikslams negavo iš kitos valstybės narės akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas;
 
 
 
 
-2) registruotas gavėjas per nustatytą terminą nepateikia registruoto gavėjo prievolių įvykdymo užtikrinimo dokumento, kai toks dokumentas turi būti pateiktas teisės aktų nustatyta tvarka;
+2) registruotas gavėjas per 10 darbo dienų nuo piniginio užstato arba mokestinių prievolių įvykdymo užtikrinimo dokumento galiojimo pabaigos nepateikia naujo atitinkamo dokumento;
 
 
 
@@ -822,9 +834,11 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 6. Šio straipsnio 1 dalyje nurodytiems asmenims, kurie retkarčiais iš kitų valstybių narių gauna akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, šiame straipsnyje nurodytas registruoto gavėjo statusas suteikiamas vienam tokių prekių gavimui arba centrinio mokesčių administratoriaus nustatytais atvejais tam tikram akcizais apmokestinamų prekių kiekiui, vienam siuntėjui ir konkrečiam laikotarpiui.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
  
-
-
 
 
 
@@ -832,12 +846,12 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 8 straipsnis. Registruoti siuntėjai, jų teisės ir prievolės
 
 
-1. Registruotas siuntėjas turi teisę tik išgabenti importuotas akcizais apmokestinamas prekes, taikydamas joms akcizų mokėjimo laikino atidėjimo režimą, į bet kurią šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytą paskirties vietą. 
+1. Registruotas siuntėjas turi teisę tik išgabenti importuotas akcizais apmokestinamas prekes, taikydamas joms akcizų mokėjimo laikino atidėjimo režimą, į bet kurią šio įstatymo 14 straipsnio 1 dalyje ir 15 straipsnio 1 dalyje nurodytą paskirties vietą. 
 
 
 
 
-2. Registruodamasis registruotu siuntėju, asmuo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas mokesčių mokėtoju, privalo pateikti piniginį užstatą arba registruoto siuntėjo prievolių įvykdymo užtikrinimo dokumentą. Registruoti siuntėjai registruojami ir išregistruojami centrinio mokesčių administratoriaus nustatyta tvarka. Registruotam siuntėjui suteikiamas atskiras identifikacinis numeris, kuris nurodomas registruoto siuntėjo pažymėjime. Registruoto siuntėjo pažymėjimo formą ir jo išdavimo tvarką nustato centrinis mokesčių administratorius. Piniginio užstato ir registruoto siuntėjo prievolių įvykdymo užtikrinimo sumos dydžio apskaičiavimo tvarką, taip pat atvejus, kai piniginio užstato ir (arba) registruoto siuntėjo prievolių įvykdymo užtikrinimo dokumento pateikti nereikalaujama, nustato Vyriausybė ar jos įgaliota institucija.
+2. Registruodamasis kaip registruotas siuntėjas, asmuo mokesčių administratoriui privalo pateikti piniginį užstatą arba registruoto siuntėjo prievolių įvykdymo užtikrinimo dokumentą. Registruoti siuntėjai registruojami ir išregistruojami centrinio mokesčių administratoriaus nustatyta tvarka. Registruotam siuntėjui suteikiamas atskiras identifikacinis numeris, kuris nurodomas registruoto siuntėjo pažymėjime. Registruoto siuntėjo pažymėjimo formą ir jo išdavimo tvarką nustato centrinis mokesčių administratorius. Piniginio užstato ir registruoto siuntėjo prievolių įvykdymo užtikrinimo sumos dydžio apskaičiavimo tvarką, taip pat atvejus, kai piniginio užstato ir (arba) registruoto siuntėjo prievolių įvykdymo užtikrinimo dokumento pateikti nereikalaujama, nustato Vyriausybė ar jos įgaliota institucija.
 
 
 
@@ -847,20 +861,20 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 
-4. Registruotas siuntėjas privalo tvarkyti išgabentų akcizais apmokestinamų prekių apskaitą, laikydamasis centrinio mokesčių administratoriaus nustatytos tvarkos, taip pat teikti vietos mokesčių administratoriui centrinio mokesčių administratoriaus nustatyta tvarka ir terminais parengtas išsiųstų akcizais apmokestinamų prekių ataskaitas. 
+4. Registruotas siuntėjas privalo tvarkyti išgabentų akcizais apmokestinamų prekių apskaitą.
 
 
 
 
-5. Mokesčių administratorius turi teisę registruotą siuntėją išregistruoti iš registruotų siuntėjų sąrašo šiais atvejais:
+5. Mokesčių administratorius turi teisę registruotą siuntėją išregistruoti šiais atvejais:
 
 
-1) registruotas siuntėjas per 6 mėnesius nuo įregistravimo registruotu siuntėju dienos neišgabeno importuotų akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas;
+1) registruotas siuntėjas 6 mėnesius iš eilės neišgabeno importuotų akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas; 
 
 
 
 
-2) registruotas siuntėjas per nustatytą terminą nepateikia registruoto siuntėjo prievolių įvykdymo užtikrinimo dokumento, kai toks dokumentas turi būti pateiktas teisės aktų nustatyta tvarka;
+2) registruotas siuntėjas per 10 darbo dienų nuo piniginio užstato arba mokestinių prievolių įvykdymo užtikrinimo dokumento galiojimo pabaigos nepateikia naujo atitinkamo dokumento;
 
 
 
@@ -871,11 +885,13 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 4) registruoto siuntėjo rašytiniu prašymu.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
  
-
-
-
-
 
 
 
@@ -1798,7 +1814,7 @@ ETILO ALKOHOLIS IR ALKOHOLINIAI GĖRIMAI
 23 straipsnis. Alui taikomi akcizų tarifai 
 
 
-1. Alui taikomas 7,82 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą. 
+1. Alui taikomas 8,60 euro už 1 procentą faktinės tūrinės alkoholio koncentracijos procentais akcizų tarifas, kuris nustatomas už produkto hektolitrą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
@@ -1837,12 +1853,12 @@ Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams taikomi akcizų tarifai:
 
 
-1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 78 eurai už produkto hektolitrą;
+1) vynui ir kitiems fermentuotiems gėrimams, kurių faktinė tūrinė etilo alkoholio koncentracija (kitų fermentuotų gėrimų atveju – gauta tik fermentuojant) procentais yra ne didesnė kaip 8,5 procento, – 93 eurai už produkto hektolitrą;
 
 
 
 
-2) šio straipsnio 1 punkte nenurodytiems gėrimams – 181 euras už produkto hektolitrą. 
+2) šio straipsnio 1 punkte nenurodytiems gėrimams – 199 eurai už produkto hektolitrą.
 
 
 
@@ -1867,19 +1883,19 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 Tarpiniams produktams taikomi tokie akcizų tarifai:
 
 
-1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 200 eurų už produkto hektolitrą; 
+1) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra ne didesnė kaip 15 procentų, – 216 eurų už produkto hektolitrą; 
 
 
 
 
-2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 285 eurai už produkto hektolitrą. 
-
-
+2) tarpiniams produktams, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 15 procentų, – 308 eurai už produkto hektolitrą.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1633, 2011-11-08, Žin., 2011, Nr. 141-6614 (2011-11-22)
 Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
+
+
 Straipsnio pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
@@ -1894,7 +1910,7 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 26 straipsnis. Etilo alkoholiui taikomi akcizų tarifai
 
 
-1. Etilo alkoholiui taikomas 2 163 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas. 
+1. Etilo alkoholiui taikomas 2 310 eurų už gryno etilo alkoholio hektolitrą akcizų tarifas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
@@ -2044,7 +2060,7 @@ APDOROTAS TABAKAS
 2. Cigaretėms taikomas toks akcizų tarifas:
 
 
-1) specifinis elementas – 74,3 euro; 
+1) specifinis elementas – 79,6 euro;
 Straipsnio punkto pakeitimai:
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
@@ -2064,7 +2080,7 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 
 
-3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 122,5 euro už 1 000 cigarečių. 
+3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 130 eurų už 1 000 cigarečių.
 Straipsnio dalies pakeitimai:
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
@@ -2100,12 +2116,12 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 31 straipsnis. Kitam apdorotam tabakui taikomi akcizų tarifai
 
 
-1. Cigarams ir cigarilėms taikomas 66 eurų už kilogramą produkto akcizų tarifas.
+1. Cigarams ir cigarilėms taikomas 79 eurų už kilogramą produkto akcizų tarifas.
 
 
 
 
-2. Rūkomajam tabakui taikomas 97 eurų už kilogramą produkto akcizų tarifas. 
+2. Rūkomajam tabakui taikomas 104,6 euro už kilogramą produkto akcizų tarifas.
 
 
 Straipsnio pakeitimai:
@@ -2447,13 +2463,13 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 
 
-44 straipsnis. Energinių produktų, kuriems taikomos akcizų lengvatos, žymėjimas, tiekimas ir naudojimas 
+44 straipsnis. Energinių produktų, kuriems taikomos akcizų lengvatos, žymėjimas ir kontrolė 
 
 
 1. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka žymimi:
 
 
-1) šildymui skirti energiniai produktai, kuriems taikomas šio įstatymo 37 straipsnio 2 dalyje nustatytas akcizų tarifas; 
+1) šildymui skirti energiniai produktai, kuriems taikomas šio įstatymo 37 straipsnio 2 dalyje nustatytas akcizų tarifas; 
 
 
 
@@ -2465,15 +2481,12 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 
 
 
-2. Šio straipsnio 1 dalyje, taip pat šio įstatymo 43 straipsnio 1 dalies 1 ir 2 punktuose nurodytų energinių produktų tiekimo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+2. Energinių produktų, kuriems taikomos akcizų lengvatos, žymėjimo kontrolės tvarką nustato Lietuvos Respublikos energetikos ministerija kartu su Lietuvos Respublikos vidaus reikalų ministerija.
 
 
-
-
-3. Už energinių produktų žymėjimo ir (arba) tiekimo tvarkos nesilaikymą, taip pat tais atvejais, kai žymėti energiniai produktai panaudojami kaip degalai (variklių kuras) ir (arba) kaip šildymui skirtas kuras, tačiau kitaip negu tam tikslui, kuriam šiuos energinius produktus naudojant yra nustatyta akcizų lengvata, įstatymų nustatyta tvarka taikomos sankcijos.
+Straipsnio pakeitimai:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
  
-
-
 
 
 
@@ -2518,13 +2531,15 @@ Nr. XI-2024, 2012-05-22, Žin., 2012, Nr. 63-3165 (2012-06-05)
 
 
 
-46 straipsnis. Akcizų už elektros energiją mokėtojai
+46 straipsnis. Akcizų už elektros energiją mokėtojai 
 
 
-Akcizų už elektros energiją mokėtojai yra asmenys, kuriems šio įstatymo 45 straipsnyje nustatytais pagrindais atsiranda prievolė mokėti akcizus. Asmenys akcizų už elektros energiją mokėtojais registruojami centrinio mokesčių administratoriaus nustatyta tvarka.
+Akcizų už elektros energiją mokėtojai yra asmenys, kuriems šio įstatymo 45 straipsnyje nustatytais pagrindais atsiranda prievolė mokėti akcizus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
  
-
-
 
 
 
@@ -3142,6 +3157,13 @@ Akcizų už elektroninių cigarečių skystį mokėtojai yra registruoti akcizų
 
 
 2. Tais atvejais, kai akcizai už kaitinamojo tabako produktus ir elektroninių cigarečių skystį, kurie vadovaujantis šio straipsnio nuostatomis yra atleidžiami nuo akcizų, yra sumokėti, jie grąžinami centrinio mokesčių administratoriaus nustatyta tvarka.
+
+
+
+
+3. Nuo akcizų atleidžiami kaitinamojo tabako produktai, jeigu jie sunaikinti prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už sunaikintus kaitinamojo tabako produktus akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintiems kaitinamojo tabako produktams, kurie pagaminti ar laikomi (įskaitant saugojimą) pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabenti.
+Papildyta straipsnio dalimi:
+Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
  
 
 
@@ -3152,16 +3174,12 @@ Akcizų už elektroninių cigarečių skystį mokėtojai yra registruoti akcizų
 65 straipsnis. Kaitinamojo tabako produktams ir elektroninių cigarečių skysčiui taikomi akcizų tarifai
 
 
-1. Kaitinamojo tabako produktams taikomas 45,6 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
-TAR pastaba. Lietuvos Respublikos akcizų įstatymo 65 straipsnio 1 dalis (2019 m. gruodžio 5 d. redakcija) įsigaliojo 2020 m. kovo 1 d., prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 70 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
-Straipsnio dalies pakeitimai:
-Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
- 
+1. Kaitinamojo tabako produktams taikomas 60,2 euro už 1 000 vienetų kaitinamojo tabako produktų akcizų tarifas.
 
 
 
 
-2. Elektroninių cigarečių skysčiui taikomas 0,15 euro už mililitrą skysčio akcizų tarifas. 
+2. Elektroninių cigarečių skysčiui taikomas 0,19 euro už mililitrą skysčio akcizų tarifas.
 
 
 Straipsnio pakeitimai:
@@ -3445,10 +3463,10 @@ Akcizų už neapdorotą tabaką mokėtojai yra asmenys, kurie gavo iš kitos val
 
 
 
-74 straipsnis. Neapdorotam tabakui taikomas akcizų tarifas
+74 straipsnis. Neapdorotam tabakui taikomas akcizų tarifas 
 
 
-Neapdorotam tabakui taikomas 97 eurų už kilogramą neapdoroto tabako akcizų tarifas. 
+Neapdorotam tabakui taikomas 104,6 euro už kilogramą neapdoroto tabako akcizų tarifas.
 
 
 Straipsnio pakeitimai:
@@ -3553,7 +3571,7 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
  
 
 
-part_e914d3b663e3410aa111876cbdb2b19f_end
+part_9c85dc721b52479ab3420f8a3054cf1a_end
 
  
  
