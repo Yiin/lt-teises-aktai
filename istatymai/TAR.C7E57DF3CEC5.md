@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -1030,7 +1030,10 @@ Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
 
 
 
-7. Šio straipsnio 3 ar 4 dalyje nurodyto užsieniečio prašymas išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje išnagrinėjamas ne vėliau kaip per du mėnesius nuo prašymo išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje pateikimo dienos. Prašymas išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje teikiamas Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos.
+7. Šio straipsnio 3 ar 4 dalyje nurodyto užsieniečio prašymas išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje išnagrinėjamas ne vėliau kaip per du mėnesius nuo prašymo išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje pateikimo dienos. Užsienietis, esantis ne Lietuvos Respublikoje, prašymą išduoti leidimą laikinai gyventi pateikia per Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) pasirinktą išorės paslaugų teikėją. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti leidimą laikinai gyventi pateikia Migracijos departamentui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
+ 
 
 
 
@@ -1524,7 +1527,10 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
 
 
-6. Užsieniečiams, kurie nėra Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečiai, atvykstantiems į Lietuvos Respubliką dirbti pas stambų projektą įgyvendinantį investuotoją (toliau šiame straipsnyje – darbuotojai) ar užsiimti teisėta veikla, kai jie yra stambų projektą įgyvendinančio investuotojo akcininkai, kuriems nuosavybės teise priklausančių akcijų nominalioji vertė yra ne mažesnė kaip 1/10 stambų projektą įgyvendinančio investuotojo įstatinio kapitalo (toliau šiame straipsnyje – akcininkai), ar eiti stambų projektą įgyvendinančio investuotojo vadovo pareigas (toliau šiame straipsnyje – vadovas), įgyvendinantiems stambų projektą ir turintiems tai patvirtinantį Lietuvos Respublikos Vyriausybės įgaliotos institucijos išduotą dokumentą, leidimas gyventi gali būti išduodamas ar keičiamas trejiems metams arba darbo sutarties su stambų projektą įgyvendinančiu investuotoju galiojimo ar teisėtos veiklos Lietuvos Respublikoje laikotarpiui, jeigu darbuotojo darbo santykiai, akcininko ar vadovo teisėta veikla Lietuvos Respublikoje truks trumpiau negu trejus metus. Darbuotojų, akcininkų ir vadovo (toliau šiame straipsnyje kartu – užsieniečiai) prašymas išduoti ar pakeisti leidimą gyventi išnagrinėjamas ne vėliau kaip per vieną mėnesį nuo šio prašymo pateikimo dienos. Prašymas išduoti ar pakeisti leidimą gyventi teikiamas Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos diplomatinei atstovybei arba konsulinei įstaigai užsienyje. Šeimos nariui, kaip apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, atvykstančiam gyventi į Lietuvos Respubliką kartu su užsieniečiu, leidimas gyventi gali būti išduodamas tokiam pačiam laikotarpiui, kaip ir šiam užsieniečiui. Užsieniečiai atleidžiami nuo pareigos įsigyti leidimą dirbti, jiems netaikomi kvalifikacijos atitikties darbo vietai ar darbo patirties reikalavimai. Užsieniečiai, teisėtai esantys Lietuvos Respublikoje, gali pradėti dirbti nuo prašymo išduoti leidimą gyventi pateikimo dienos. Darbuotojų, kurie gali gauti leidimą gyventi šioje dalyje nurodytu pagrindu, skaičius nustatomas stambaus projekto investicijų sutartyje.
+6. Užsieniečiams, kurie nėra Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečiai, atvykstantiems į Lietuvos Respubliką dirbti pas stambų projektą įgyvendinantį investuotoją (toliau šiame straipsnyje – darbuotojai) ar užsiimti teisėta veikla, kai jie yra stambų projektą įgyvendinančio investuotojo akcininkai, kuriems nuosavybės teise priklausančių akcijų nominalioji vertė yra ne mažesnė kaip 1/10 stambų projektą įgyvendinančio investuotojo įstatinio kapitalo (toliau šiame straipsnyje – akcininkai), ar eiti stambų projektą įgyvendinančio investuotojo vadovo pareigas (toliau šiame straipsnyje – vadovas), įgyvendinantiems stambų projektą ir turintiems tai patvirtinantį Lietuvos Respublikos Vyriausybės įgaliotos institucijos išduotą dokumentą, leidimas gyventi gali būti išduodamas ar keičiamas trejiems metams arba darbo sutarties su stambų projektą įgyvendinančiu investuotoju galiojimo ar teisėtos veiklos Lietuvos Respublikoje laikotarpiui, jeigu darbuotojo darbo santykiai, akcininko ar vadovo teisėta veikla Lietuvos Respublikoje truks trumpiau negu trejus metus. Darbuotojų, akcininkų ir vadovo (toliau šiame straipsnyje kartu – užsieniečiai) prašymas išduoti ar pakeisti leidimą gyventi išnagrinėjamas ne vėliau kaip per vieną mėnesį nuo šio prašymo pateikimo dienos. Užsienietis, esantis ne Lietuvos Respublikoje, prašymą išduoti leidimą gyventi pateikia per Migracijos departamento pasirinktą išorės paslaugų teikėją. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti leidimą gyventi pateikia Migracijos departamentui. Šeimos nariui, kaip apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, atvykstančiam gyventi į Lietuvos Respubliką kartu su užsieniečiu, leidimas gyventi gali būti išduodamas tokiam pačiam laikotarpiui, kaip ir šiam užsieniečiui. Užsieniečiai atleidžiami nuo pareigos įsigyti leidimą dirbti, jiems netaikomi kvalifikacijos atitikties darbo vietai ar darbo patirties reikalavimai. Užsieniečiai, teisėtai esantys Lietuvos Respublikoje, gali pradėti dirbti nuo prašymo išduoti leidimą gyventi pateikimo dienos. Darbuotojų, kurie gali gauti leidimą gyventi šioje dalyje nurodytu pagrindu, skaičius nustatomas stambaus projekto investicijų sutartyje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
+ 
 
 
 
@@ -1836,3 +1842,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13-1 ir 15-5 straipsnių pakeitimo įstatymas
