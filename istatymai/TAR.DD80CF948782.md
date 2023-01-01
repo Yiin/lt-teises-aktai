@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
  
@@ -537,10 +537,11 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 Nacionalinis visuomenės sveikatos centras:
 
 
-1) vykdo asmens sveikatos priežiūros, papildomosios ir alternatyviosios sveikatos priežiūros, švietimo, stacionarių socialinių paslaugų įstaigų, interneto kavinių ir klubų, keleivių vežimo traukiniais, laivais ir keltais vidaus maršrutais, policijos areštinių ir laisvės atėmimo vietų, juridinių asmenų, valstybės įmonių, savivaldybės įmonių, viešųjų įstaigų, taip pat užsienio valstybių juridinių asmenų ar kitų organizacijų filialų (toliau – įmonė), gaminančių kosmetikos gaminius, kirpyklų, kosmetikos, tatuiruočių kabinetų, grožio salonų, soliariumų, baseinų, skalbyklų, pirčių, saunų, sporto klubų teikiamų paslaugų, apgyvendinimo paslaugų, sveikatingumo paslaugų, kurias teikiant naudojami papildomosios ir alternatyviosios sveikatos priežiūros produktai, gyvūnai ir kiti gyvi organizmai ir kurios nelicencijuojamos pagal Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros įstatymą, žmogaus palaikų laidojimo paslaugų (žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo veiklos, balzamavimo ir kremavimo veiklos valstybinę visuomenės sveikatos saugos kontrolę;
+1) vykdo asmens sveikatos priežiūros, papildomosios ir alternatyviosios sveikatos priežiūros, švietimo, stacionarių socialinių paslaugų įstaigų, interneto kavinių ir klubų, keleivių vežimo traukiniais, laivais ir keltais vidaus maršrutais, policijos areštinių ir laisvės atėmimo vietų įstaigos, juridinių asmenų, valstybės įmonių, savivaldybės įmonių, viešųjų įstaigų, taip pat užsienio valstybių juridinių asmenų ar kitų organizacijų filialų (toliau – įmonė), gaminančių kosmetikos gaminius, kirpyklų, kosmetikos, tatuiruočių kabinetų, grožio salonų, soliariumų, baseinų, skalbyklų, pirčių, saunų, sporto klubų teikiamų paslaugų, apgyvendinimo paslaugų, sveikatingumo paslaugų, kurias teikiant naudojami papildomosios ir alternatyviosios sveikatos priežiūros produktai, gyvūnai ir kiti gyvi organizmai ir kurios nelicencijuojamos pagal Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros įstatymą, žmogaus palaikų laidojimo paslaugų (žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo veiklos, balzamavimo ir kremavimo veiklos valstybinę visuomenės sveikatos saugos kontrolę;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2773, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02008
 Nr. XIV-406, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14509
+Nr. XIV-1213, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15578
  
 
 
@@ -2249,3 +2250,8 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-406, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14509
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 ir 21 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1213, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15578
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas
