@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea80d52054f211e7846ef01bfffb9b64"
 
 # Lietuvos Respublikos architektūros įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-04-30
  
 Įstatymas paskelbtas: TAR 2017-06-19, i. k. 2017-10247
  
@@ -895,7 +895,9 @@ Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
 
 
 
-4. Regioninių architektūros tarybų nuostatus ir sudėtį, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, tvirtina Lietuvos Respublikos architektų rūmų taryba. Regioninių architektūros tarybų nariais asmenys gali būti renkami ar skiriami ne daugiau kaip dviem kadencijoms iš eilės. Regioninės architektūros tarybos nariai išsirenka tarybos pirmininką. Regioninių architektūros tarybų nuostatuose nustatoma tarybų darbo tvarka, tarybų narių rotacijos tarybos viduje ir tarp skirtingų regioninių architektūros tarybų tvarka, tarybų narių teisės ir pareigos, nusišalinimo ir atšaukimo tvarka. Regioninių architektūros tarybų nuostatuose nustatoma nusišalinimo nuo sprendimų priėmimo ir asmenų teisės kreiptis į Lietuvos Respublikos architektų rūmus, jeigu regioninių architektūros tarybų nariai nevykdė šioje dalyje įtvirtintos prievolės nusišalinti nuo sprendimų priėmimo, įgyvendinimo tvarka. Regioninių architektūros tarybų nariai privalo nusišalinti, kai gali kilti interesų konfliktas dėl šiose tarybose nagrinėjamų klausimų, jeigu: 
+4. Regioninių architektūros tarybų nuostatus ir sudėtį, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, tvirtina Lietuvos Respublikos architektų rūmų taryba. Regioninių architektūros tarybų nariais asmenys gali būti renkami ar skiriami ne daugiau kaip dviem kadencijoms iš eilės. Regioninės architektūros tarybos nariai išsirenka tarybos pirmininką. Regioninių architektūros tarybų nuostatuose nustatoma tarybų darbo tvarka, tarybų posėdžiuose dalyvaujančių tarybų narių rašytinių išvadų ir (ar) rekomendacijų kokybiniai reikalavimai, tarybų posėdžių organizavimo, techninio aptarnavimo ir tarybų narių darbo apmokėjimo tvarka, tarybų narių rotacijos tarybos viduje ir tarp skirtingų regioninių architektūros tarybų tvarka, tarybų narių teisės ir pareigos, nusišalinimo ir atšaukimo tvarka. Regioninių architektūros tarybų nuostatuose nustatoma nusišalinimo nuo sprendimų priėmimo ir asmenų teisės kreiptis į Lietuvos Respublikos architektų rūmus, jeigu regioninių architektūros tarybų nariai nevykdė šioje dalyje įtvirtintos prievolės nusišalinti nuo sprendimų priėmimo, įgyvendinimo tvarka. Regioninių architektūros tarybų nariai privalo nusišalinti, kai gali kilti interesų konfliktas dėl šiose tarybose nagrinėjamų klausimų, jeigu:  
+Straipsnio dalies pakeitimai:
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
 
 
 1) sprendžiami klausimai, susiję su to paties nario vykdoma architekto veikla;
@@ -948,7 +950,10 @@ Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
 
 
 
-6. Regionines architektūros tarybas techniškai aptarnauja ir jų darbą organizuoja Lietuvos Respublikos architektų rūmai regioninės architektūros tarybos nuostatuose nustatyta tvarka.
+6. Regionines architektūros tarybas techniškai aptarnauja ir jų darbą organizuoja Lietuvos Respublikos architektų rūmai regioninių architektūros tarybų nuostatuose nustatyta tvarka. Teikiant šio straipsnio 14 dalyje nurodytas regioninių architektūros tarybų išvadas ir (ar) rekomendacijas, už tarybų posėdžių organizavimą, techninį aptarnavimą ir tarybų narių darbo apmokėjimą Lietuvos Respublikos aplinkos ministerija skiria Lietuvos Respublikos architektų rūmams valstybės biudžeto lėšas iš Lietuvos Respublikos aplinkos ministerijos papildomų valstybės biudžeto asignavimų, skirtų regioninių architektūros tarybų funkcijoms atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+ 
 
 
 
@@ -990,6 +995,54 @@ Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
 12. Stebėtojai, dalyvausiantys regioninių architektūros tarybų posėdžiuose, privalo pasirašyti konfidencialumo pasižadėjimą ir nešališkumo deklaraciją. Stebėtojai balsavimo teisės neturi. Stebėtojų dalyvavimo regioninių architektūros tarybų posėdžiuose tvarka nustatoma Regioninių architektūros tarybų nuostatuose.
 Papildyta straipsnio dalimi:
 Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
+ 
+
+
+
+
+13. Regioninės architektūros tarybos posėdžiuose pagal šio straipsnio 3 dalies nuostatas rotacijos principu dalyvauja ir rašytines išvadas ir (ar) rekomendacijas regioninės architektūros tarybos bendrai išvadai parengti teikia ne daugiau kaip 13 tarybos narių. Tarybos nariams už darbą apmokama šio straipsnio 17 dalyje nurodyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+ 
+
+
+
+
+14. Valstybės biudžeto lėšas Lietuvos Respublikos architektų rūmai naudoja regioninių architektūros tarybų posėdžiams organizuoti, techniniam aptarnavimui ir šių tarybų narių darbui apmokėti, kai valstybės biudžeto lėšomis regioninių architektūros tarybų išvados ir (ar) rekomendacijos teikiamos valstybės ir (ar) savivaldybių institucijų, nevyriausybinių organizacijų ar kitų viešųjų juridinių asmenų, suinteresuotų dėl savivaldybės teritorijoje vystomų objektų, prašymu ar regioninių architektūros tarybų iniciatyva (kai šios iniciatyvos yra būtinos siekiant tenkinti viešąjį interesą, pateikiant motyvuotą paaiškinimą). 
+Papildyta straipsnio dalimi:
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+ 
+
+
+
+
+15. Teikiant šio straipsnio 14 dalyje nenurodytas regioninių architektūros tarybų išvadas ir (ar) rekomendacijas, valstybės biudžeto lėšos neskiriamos ir už šių funkcijų atlikimą apmoka užsakovas regioninių architektūros tarybų nuostatuose nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+ 
+
+
+
+
+16. Planuojant valstybės biudžeto lėšas regioninių architektūros tarybų funkcijoms atlikti, turi būti laikomasi nuostatos, kad skiriamos valstybės biudžeto lėšos turi padengti ekonomiškai pagrįstas su Lietuvos Respublikos architektų rūmų ir regioninių architektūros tarybų funkcijų atlikimu susijusias sąnaudas ir užtikrinti pajamas, reikalingas šių funkcijų plėtrai ir kokybei gerinti, atsižvelgus į infliaciją, kitus ekonominius ir finansinius veiksnius. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+ 
+
+
+
+
+17. Regioninėms architektūros taryboms teikiant šio straipsnio 14 dalyje nurodytas regioninių architektūros tarybų išvadas ir (ar) rekomendacijas, asmenų, organizuojančių tarybų posėdžius, atliekančių techninį aptarnavimą ir tarybų narių atlygio už darbą tarybose dydį, diferencijuotą pagal atliekamas funkcijas ir darbų mastą, nustato aplinkos ministras. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+ 
+
+
+
+
+18. Lietuvos Respublikos architektų rūmai aplinkos ministro nustatyta tvarka kiekvienais metais iki balandžio 1 dienos teikia Lietuvos Respublikos aplinkos ministerijai ataskaitas apie panaudotas valstybės biudžeto lėšas regioninių architektūros tarybų funkcijoms atlikti.
+Papildyta straipsnio dalimi:
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
  
 
 
@@ -1081,5 +1134,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
 Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 8, 9, 10 ir 18 straipsnių pakeitimo įstatymas
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 18 straipsnio pakeitimo įstatymas
  
-part_90234752ceeb4137b6d78f890f705d72_end
+ 
+part_5802acda44574fe1b2f68aa08b8677a1_end
