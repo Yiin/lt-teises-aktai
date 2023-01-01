@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3ED3D65F5638"
 
 # Lietuvos Respublikos valstybės rezervo įstatymas
 
-Suvestinė redakcija nuo 2022-03-17 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 78-2359, i. k. 1001010ISTAIII-1908
  
@@ -64,7 +64,9 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Valstybės rezervas – mobilizaciniams, ūkio, sveikatos, krizės valdymo, susisiekimo ir civilinės saugos sistemos funkcionavimo ir nukentėjusių gyventojų poreikiams tenkinti ekstremaliųjų situacijų ar krizės metu ir jų padariniams likviduoti, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ar kitais šio įstatymo nustatytais atvejais, skirtos:
+1. Valstybės rezervas – mobilizaciniams, ūkio, sveikatos, krizės valdymo, susisiekimo ir krizių valdymo ir civilinės saugos sistemos funkcionavimo ir nukentėjusių gyventojų poreikiams tenkinti ekstremaliųjų situacijų ar krizės metu ir jų padariniams likviduoti, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ar kitais šio įstatymo nustatytais atvejais, skirtos: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
 
 
 1) lėšos;
@@ -112,7 +114,10 @@ Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
 
 
 
-5. Valstybės rezervo koordinatorius – Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota institucija, koordinuojanti valstybės rezervo tvarkytojų veiklą.
+5. Valstybės rezervo koordinatorius – Nacionalinis krizių valdymo centras, koordinuojantis valstybės rezervo tvarkytojų veiklą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
+ 
 
 
 
@@ -152,15 +157,19 @@ Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
 
 
 
-10. Valstybės rezervo tvarkytojas – Vyriausybės įgaliota valstybės institucija, organizuojanti valstybės rezervo atitinkamos rūšies materialinių išteklių atsargų sudarymą, kaupimą ir tvarkymą.
+10. Valstybės rezervo tvarkytojas – Lietuvos Respublikos Vyriausybės įgaliota valstybės institucija, organizuojanti valstybės rezervo atitinkamos rūšies materialinių išteklių atsargų sudarymą, kaupimą ir tvarkymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
+ 
 
 
 
 
-11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos karo padėties įstatyme, Viešųjų pirkimų įstatyme, Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme. 
+11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Viešųjų pirkimų įstatyme, Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
  
 
 
@@ -171,10 +180,12 @@ Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
 3 straipsnis. Valstybės rezervo sudarymo, kaupimo ir tvarkymo teisiniai pagrindai
 
 
-Sudarydamos, kaupdamos ir tvarkydamos valstybės rezervą, valstybės ir savivaldybių institucijos, įstaigos ar įmonės privalo vadovautis šiuo įstatymu, Civilinės saugos įstatymu ir Mobilizacijos ir priimančiosios šalies paramos įstatymu.
+Sudarydamos, kaupdamos ir tvarkydamos valstybės rezervą, valstybės ir savivaldybių institucijos, įstaigos ar įmonės privalo vadovautis šiuo įstatymu, Krizių valdymo ir civilinės saugos įstatymu ir Mobilizacijos ir priimančiosios šalies paramos įstatymu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
  
-
-
 
 
 
@@ -192,12 +203,18 @@ Sudarydamos, kaupdamos ir tvarkydamos valstybės rezervą, valstybės ir savival
 
 
 
-3. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama krizės valdymui užtikrinti krizės metu, civilinės saugos sistemos funkcionavimui užtikrinti ekstremaliųjų situacijų metu, civilinės saugos pratyboms, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ir kitais šio įstatymo nustatytais atvejais.
+3. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama krizės valdymui užtikrinti krizės metu, krizių valdymo ir civilinės saugos sistemos funkcionavimui užtikrinti ekstremaliųjų situacijų metu bei krizių valdymo ir civilinės saugos pratyboms, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ir kitais šio įstatymo nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
+ 
 
 
 
 
-4. Medicinos atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama sveikatos priežiūrai užtikrinti ekstremaliųjų situacijų ar krizės metu, civilinės saugos pratyboms, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ir kitais šio įstatymo nustatytais atvejais. 
+4. Medicinos atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama sveikatos priežiūrai užtikrinti ekstremaliųjų situacijų ar krizės metu, krizių valdymo ir civilinės saugos pratyboms, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ir kitais šio įstatymo nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
+ 
 
 
 
@@ -207,7 +224,10 @@ Sudarydamos, kaupdamos ir tvarkydamos valstybės rezervą, valstybės ir savival
 
 
 
-6. Susisiekimo atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama ryšių ir infrastruktūros priežiūrai užtikrinti ekstremaliųjų situacijų ar krizės metu, civilinės saugos pratyboms, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ir kitais šio įstatymo nustatytais atvejais.
+6. Susisiekimo atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama ryšių ir infrastruktūros priežiūrai užtikrinti ekstremaliųjų situacijų ar krizės metu, krizių valdymo ir civilinės saugos pratyboms, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ir kitais šio įstatymo nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
+ 
 
 
 
@@ -488,39 +508,29 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 
 
 
-3) pagalbai kitoms valstybėms suteikti pagal galiojančias Lietuvos Respublikos tarptautines sutartis arba kai kitos valstybės ar tarptautinės organizacijos pateikia prašymą suteikti pagalbą materialiniais ištekliais.
+3) pagalbai kitoms valstybėms suteikti pagal galiojančias Lietuvos Respublikos tarptautines sutartis arba kai kitos valstybės ar tarptautinės organizacijos pateikia prašymą suteikti pagalbą materialiniais ištekliais arba pagalbai Lietuvos Respublikos piliečiams užsienyje krizės ar ekstremaliosios situacijos atvejais.
 
 
 
 
 
 
-2. Šio straipsnio 1 dalyje nustatytais atvejais Vyriausybė priima sprendimą panaudoti valstybės rezervo lėšas, materialinių išteklių atsargas, naftos produktų ir naftos valstybės atsargas.
+2. Šio straipsnio 1 dalyje nustatytais atvejais Vyriausybė priima sprendimą panaudoti valstybės rezervo lėšas, materialinių išteklių atsargas, naftos produktų ir naftos valstybės atsargas, išskyrus šio straipsnio 4 dalyje nurodytą išimtį. Valstybės rezervo lėšos skiriamos ir naudojamos Vyriausybės nustatyta tvarka.
 
 
 
 
-3. Vyriausybė ar jos pavedimu valstybės rezervo tvarkytojas nustato valstybės, savivaldybių institucijas, įstaigas ar įmones, kurioms paskirstomos valstybės rezervo lėšos ir materialinių išteklių atsargos. Naftos produktų ir naftos valstybės atsargas skirsto Vyriausybė ar jos įgaliota institucija.
+3. Vyriausybė ar jos pavedimu valstybės rezervo tvarkytojas nustato valstybės, savivaldybių institucijas ir įstaigas, kitas įstaigas ir ūkio subjektus, gyventojus, Lietuvos Respublikos piliečius užsienyje, kuriems paskirstomos valstybės rezervo lėšos ir materialinių išteklių atsargos, naftos produktų ir naftos valstybės atsargos.
 
 
 
 
-4. Susidarius ekstremaliajai situacijai, krizės atveju, paskelbus mobilizaciją ir (arba) įvedus nepaprastąją ar karo padėtį, valstybės rezervo tvarkytojas už šių situacijų administravimą atsakingų institucijų prašymu turi teisę pats priimti sprendimą panaudoti jo tvarkomas arba pagal jo sudarytas preliminariąsias ir (arba) rezervavimo sutartis užtikrinamas valstybės rezervo materialinių išteklių atsargas. Valstybės rezervo tvarkytojo sprendimai panaudoti valstybės rezervą turi būti nedelsiant pateikti Vyriausybei. Jeigu Vyriausybė šiems sprendimams nepritaria, žalą, atsiradusią dėl nepagrįsto valstybės rezervo panaudojimo, valstybės rezervo tvarkytojas atlygina įstatymų nustatyta tvarka. Valstybės rezervo tvarkytojas, priėmęs sprendimą panaudoti valstybės rezervą, turi iš karto po sprendimo priėmimo, vadovaudamasis preliminariąja sutartimi, su atitinkamu tiekėju sudaryti valstybės rezervo materialinių išteklių atsargų pirkimo sutartį ir (arba) imtis veiksmų, kad, vadovaujantis rezervavimo sutartimi, materialinių išteklių atsargos jam būtų perduotos nuosavybės teise. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2258, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10928
-Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
-Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
- 
+4. Susidarius ekstremaliajai situacijai, krizės atveju, paskelbus mobilizaciją ir (arba) įvedus nepaprastąją ar karo padėtį, valstybės rezervo tvarkytojas už šių situacijų valdymą ar administravimą atsakingų institucijų prašymu turi teisę pats priimti sprendimą panaudoti jo tvarkomas arba pagal jo sudarytas preliminariąsias ir (arba) rezervavimo sutartis užtikrinamas valstybės rezervo materialinių išteklių atsargas. Šis sprendimas priimamas ne vėliau kaip kitą dieną po šioje dalyje nurodyto prašymo gavimo dienos. Valstybės rezervo tvarkytojo sprendimas panaudoti valstybės rezervo materialinių išteklių atsargas turi būti nedelsiant pateiktas Vyriausybei. Jeigu Vyriausybė šiam sprendimui nepritaria, žalą, atsiradusią dėl nepagrįsto valstybės rezervo panaudojimo, valstybės rezervo tvarkytojas atlygina įstatymų nustatyta tvarka. Valstybės rezervo tvarkytojas, priėmęs sprendimą panaudoti valstybės rezervo materialinių išteklių atsargas, turi iš karto po sprendimo priėmimo, vadovaudamasis preliminariąja sutartimi, su atitinkamu tiekėju sudaryti valstybės rezervo materialinių išteklių atsargų pirkimo sutartį ir (arba) imtis veiksmų, kad, vadovaujantis rezervavimo sutartimi, materialinių išteklių atsargos jam būtų perduotos nuosavybės teise. 
 
 
 
 
-5. Šio straipsnio 1 dalyje nustatytais atvejais naudojamų valstybės rezervo materialinių išteklių atsargų, naftos produktų ir naftos valstybės atsargų gabenimą į panaudojimo vietą organizuoja ekstremaliųjų situacijų operacijų centrai arba už krizės valdymą atsakinga institucija, paskirta Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo nustatyta tvarka, o į panaudojimo vietą gabena valstybės, savivaldybių institucijos, įstaigos, įmonės ar kiti subjektai, dalyvaujantys likviduojant ekstremaliąją situaciją ar krizę, arba valstybės ir savivaldybių institucijos, prašančios suteikti pagalbą, arba preliminariosiose ir (arba) rezervavimo sutartyse nurodyti subjektai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2258, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10928
-Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
-Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
- 
+5. Šio straipsnio 1 dalyje nustatytais atvejais naudojamų valstybės rezervo materialinių išteklių atsargų, naftos produktų ir naftos valstybės atsargų gabenimą į panaudojimo vietą organizuoja ekstremaliųjų situacijų operacijų centrai arba krizės metu – Nacionalinis krizių valdymo centras, o į panaudojimo vietą gabena valstybės, savivaldybių institucijos, įstaigos, įmonės ar kiti subjektai, dalyvaujantys likviduojant ekstremaliąją situaciją ar krizę, arba valstybės ir savivaldybių institucijos, prašančios suteikti pagalbą, arba preliminariosiose ir (arba) rezervavimo sutartyse nurodyti subjektai. 
 
 
 
@@ -530,10 +540,12 @@ Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
 
 
 
-7. Valstybės rezervo materialinių išteklių atsargos gali būti naudojamos civilinės saugos pratybų, tarptautinės pagalbos teikimo komandos pratybų ir mobilizacinio ar priimančiosios šalies paramos mokymo pratybų metu Vyriausybės nustatyta tvarka.
+7. Valstybės rezervo materialinių išteklių atsargos gali būti naudojamos krizių valdymo ir civilinės saugos pratybų, tarptautinės pagalbos teikimo komandos pratybų ir mobilizacinio ar priimančiosios šalies paramos mokymo pratybų metu Vyriausybės nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
  
-
-
 
 
 
@@ -861,3 +873,8 @@ Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 4, 8, 9, 10, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
 Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 8, 10, 13, 17 ir 18-1 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 3, 4 ir 13 straipsnių pakeitimo įstatymas
