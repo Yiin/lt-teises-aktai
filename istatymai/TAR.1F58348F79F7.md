@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-03-06
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
@@ -1973,7 +1973,10 @@ TAR pastaba. 355 straipsnis įsigalioja 2020 m. liepos 1 d.
 
 
 
-3. Pensijų anuitetų fondo lėšos kaupiamos kredito įstaigos sąskaitose atskirai nuo kitų VSDF valdybos ir VSDF administravimo įstaigų valdomų lėšų. Į šias lėšas negali būti nukreipiamas išieškojimas pagal prievoles, nesusijusias su pensijų anuitetų mokėjimo veikla, ir bet kokių laikinųjų apsaugos priemonių taikymas.
+3. Pensijų anuitetų fondo lėšos laikomos, kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, įstaigos tvarkomose sąskaitose valstybės ižde ir (arba) finansų įstaigos sąskaitose atskirai nuo kitų VSDF valdybos ir VSDF administravimo įstaigų valdomų lėšų. Į šias lėšas negali būti nukreipiamas išieškojimas pagal prievoles, nesusijusias su pensijų anuitetų mokėjimo veikla, ir bet kokių laikinųjų apsaugos priemonių taikymas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-659, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24261
+ 
 
 
 
@@ -2459,8 +2462,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 pensijų kaupimo įstatymo 
@@ -2503,7 +2504,8 @@ PENSIJŲ KAUPIMO ĮMOKOS DYDŽIAI
 
 
  
-part_d8c49221dd5f42459fefab5670edb273_end
+
+
 
 
  
