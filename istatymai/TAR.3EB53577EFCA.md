@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1997.03.17)
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-22
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
  
@@ -2950,7 +2949,15 @@ Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
 
 
 
-3) priemokos pagal šio Įstatymo 161 straipsnį.
+3) priemokos pagal šio Įstatymo 161 straipsnį;
+
+
+
+
+4) mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą.
+Papildyta straipsnio punktu:
+Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
+ 
 
 
 
@@ -3013,7 +3020,10 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
 
 
-4. Prokurorui, kuris dirba viršvalandinį darbą, poilsio ir švenčių dienomis dėl generalinio prokuroro ar jo pavaduotojo įsakymu pavestų funkcijų, nurodytų Baudžiamojo proceso kodekse ir kituose įstatymuose, kompensuojama suteikiant iki 10 darbo dienų papildomų atostogų. Šios papildomos atostogos suteikiamos generalinio prokuroro nustatyta tvarka.
+4. Neteko galios nuo 2023-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
+ 
 
 
 
@@ -3086,6 +3096,44 @@ Nr. XII-953, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09154
 
 Straipsnio pakeitimai:
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
+ 
+
+
+
+
+501 straipsnis. Darbas poilsio ir švenčių dienomis, nakties ir viršvalandinis darbas
+
+
+1. Prokurorui, kuris, atlikdamas generalinio prokuroro ar jo pavaduotojo įsakymu pavestas funkcijas, nurodytas Baudžiamojo proceso kodekse ir kituose įstatymuose, dirba poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą pasibaigus darbo dienai, mokamas darbo užmokestis arba prie prokuroro kasmetinių atostogų pridedamas darbo poilsio ir švenčių dienomis laikas, nakties ir viršvalandinio darbo laikas.
+
+
+
+
+2. Prokurorui už darbą poilsio ir švenčių dienomis mokamas dvigubas prokuroro darbo užmokestis.
+
+
+
+
+3. Prokurorui už darbą naktį mokamas pusantro prokuroro darbo užmokesčio dydžio užmokestis.
+
+
+
+
+4. Prokurorui už viršvalandinį darbą mokamas pusantro prokuroro darbo užmokesčio dydžio užmokestis. Už viršvalandinį darbą poilsio dienomis ar viršvalandinį darbą naktį mokamas dvigubas prokuroro darbo užmokestis, o už viršvalandinį darbą švenčių dienomis – dviejų su puse prokuroro darbo užmokesčio dydžio užmokestis.
+
+
+
+
+5. Prokuroro prašymu darbo poilsio ir švenčių dienomis laikas, nakties ir viršvalandinio darbo laikas, padaugintas iš šio straipsnio 2, 3, 4 dalyse nustatyto atitinkamo darbo užmokesčio dydžio, gali būti pridedamas prie prokuroro kasmetinių atostogų laiko.
+
+
+
+
+6. Šiame straipsnyje numatyto mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą ir poilsio laiko už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą suteikimo tvarką nustato generalinis prokuroras.
+
+
+Papildyta straipsniu:
+Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
  
 
 
@@ -3173,7 +3221,10 @@ Nr. XIII-1737, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20705
 
 
 
-8. Prokurorui, tarnybos atlikimo vietoje neturinčiam būsto, generalinio prokuroro nustatyta tvarka gali būti suteiktos tarnybinės gyvenamosios patalpos. 
+8. Prokurorui, tarnybos atlikimo vietoje neturinčiam būsto, generalinio prokuroro nustatyta tvarka gali būti suteikiamos tarnybinės gyvenamosios patalpos ir (arba) kompensuojamos Vyriausybės nustatyto dydžio gyvenamosios patalpos nuomos tarnybos vietovėje išlaidos ar jų dalis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
+ 
 
 
 
@@ -3466,8 +3517,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 prokuratūros įstatymo
@@ -3606,10 +3655,9 @@ Pastaba. ONKT – organizuotų nusikaltimų ir korupcijos tyrimas.
 Papildyta priedu:
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
  
-part_4e7b3cd32728460d8e418bdc6d956d87_end
 
 
- 
+
 
  
 Lietuvos Respublikos
@@ -3642,7 +3690,8 @@ Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 Priedo pakeitimai:
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
  
-part_9ec46ff5fa0742b5875ae79a88e8d3fa_end
+
+
 
 
 Pakeitimai:
@@ -3843,3 +3892,8 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 47 ir 49 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1124, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12616
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 37-5 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 49, 50, 52 straipsnių pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
