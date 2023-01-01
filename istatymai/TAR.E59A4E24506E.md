@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 
 # Lietuvos Respublikos susirinkimų įstatymas
 
-Suvestinė redakcija nuo 2022-04-21 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
  
@@ -161,7 +161,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Neleidžiama organizuoti susirinkimų ar vykdyti pavienio asmens akcijos valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, areštinių, tardymo izoliatorių, bausmių vykdymo, sveikatos priežiūros, taip pat krašto apsaugos, Lietuvos Respublikos valstybės saugumo departamento sistemos, prokuratūros, teismų patalpose, Lietuvos banke ir kituose Lietuvos Respublikoje veikiančiuose bankuose, nacionaliniam saugumui užtikrinti svarbiose įmonėse, taip pat branduolinės energetikos objektų apsaugos zonose.
+2. Neleidžiama organizuoti susirinkimų ar vykdyti pavienio asmens akcijos valstybės valdžios ir valdymo įstaigose, savivaldybių, policijos, areštinių, laisvės atėmimo vietų įstaigos, sveikatos priežiūros, krašto apsaugos, Lietuvos Respublikos valstybės saugumo departamento sistemos, prokuratūros, teismų patalpose, Lietuvos banke ir kituose Lietuvos Respublikoje veikiančiuose bankuose, nacionaliniam saugumui užtikrinti svarbiose įmonėse, taip pat branduolinės energetikos objektų apsaugos zonose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1231, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15597
+ 
 
 
 
@@ -539,3 +542,8 @@ Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 4 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1023, 2022-04-19, paskelbta TAR 2022-04-20, i. k. 2022-08030
 Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 5 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1231, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15597
+Lietuvos Respublikos susirinkimų įstatymo Nr. I-317 4 straipsnio pakeitimo įstatymas
