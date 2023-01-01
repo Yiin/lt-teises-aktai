@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-03
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -668,9 +668,11 @@ Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
 
 
 
+ 
 15 straipsnis. Tvenkinių įrengimas, ežerų patvenkimas. Tokių paviršinių vandens telkinių naudojimas ir priežiūra
 
 
+1 dalies redakcija iki 2024-01-01:
 1. Tvenkiniai įrengiami ir (arba) ežerai patvenkiami ir šių paviršinių vandens telkinių priežiūra vykdoma vadovaujantis aplinkos ministro patvirtintu tvarkos aprašu, kuriame nustatomi šie pagrindiniai reikalavimai:
 
 
@@ -700,6 +702,88 @@ Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
 
 
 6) turi būti tvarkoma per užtvankas (patvankas) pratekančio vandens apskaita ir teikiami apskaitos duomenys.
+
+
+
+
+
+
+1 dalies, išskyrus 8 punktą, redakcija nuo 2024-01-01:
+1. Tvenkinių ir (arba) patvenktų ežerų priežiūra vykdoma vadovaujantis aplinkos ministro patvirtintu tvarkos aprašu, pagal kurį tvenkinių ir (arba) patvenktų ežerų hidrotechninių statinių savininkai, valdytojai ar naudotojai turi laikytis šių pagrindinių reikalavimų:
+
+
+1) vandens lygio svyravimas tvenkinyje ir (arba) patvenktame ežere neturi daryti neigiamo poveikio tvenkinio ir (arba) patvenkto ežero ekosistemai ir aplinkinėms teritorijoms;
+
+
+
+
+2) turi būti užtikrinta, kad užtvankos ir (arba) patvankos praleistų ne mažiau vandens už nustatytą gamtosauginį debitą;
+
+
+
+
+3) turi būti užtikrinta, kad užtvankose ar greta jų būtų įrengtos žuvų pralaidos, jeigu:
+
+
+a) užtvanka įrengta upės, įrašytos į aplinkos ministro tvirtinamus upių ir ežerų, priskiriamų arba potencialiai galimų priskirti lašišiniams vandens telkiniams, sąrašus, ruože;
+
+
+
+
+b) užtvanka yra pirma neįveikiama kliūtis praeivių žuvų migracijai upėje;
+
+
+
+
+c) užtvanka yra upėje, atitinkančioje šiuos kriterijus:
+
+
+
+
+i) upės baseino plotas aukščiau užtvankos yra didesnis kaip 50 km2;
+
+
+
+
+ii) upės vidutinis vandens debitas žuvų migracijos laikotarpiu yra didesnis kaip 0,5 m3/s;
+
+
+
+
+iii) laisvai tekančios upės ruožas aukščiau užtvankos yra ilgesnis kaip 10 km;
+
+
+
+
+iv) upėje žemiau užtvankos įrengtos ne daugiau kaip 3 užtvankos;
+
+
+
+
+
+
+4) žuvų pralaidų efektyvumas turi būti periodiškai stebimas ir vertinamas, siekiant užtikrinti tinkamas žuvų migracijos sąlygas;
+
+
+
+
+5) turi būti imamasi priemonių tvenkinių ir (arba) patvenktų ežerų krantų erozijos procesams mažinti;
+
+
+
+
+6) hidroelektrinių darbas neturi keisti natūralaus upės nuotėkio režimo, kad būtų išvengta neigiamo poveikio žemiau užtvankų esantiems upių ruožams, neblogėtų jų hidromorfologinės sąlygos ir nebūtų pažeistas ekosistemų stabilumas;
+
+
+
+
+7) turi būti tvarkoma per užtvankas (patvankas) pratekančio vandens apskaita ir teikiami šios apskaitos duomenys;
+
+
+
+
+8 punkto redakcija nuo 2023-01-01
+8) jeigu prie tvenkinio ar patvenkto ežero įrengta hidroelektrinė, jos savininkas privalo užtikrinti, kad vandens lygis tvenkinyje ar patvenktame ežere ir jo žemutiniame bjefe kas valandą būtų matuojamas ir registruojamas automatinėmis vandens lygio matavimo ir registravimo priemonėmis, šiuos duomenis realiuoju laiku neatlygintinai perduodant aplinkos ministro įgaliotai institucijai, kuri užtikrina duomenų prieinamumą (saugojimą) ne trumpiau kaip vienus metus. 
 
 
 
@@ -1242,5 +1326,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
 Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3 ir 18 straipsnių pakeitimo įstatymas
  
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas
  
-part_62f8e77b0fd447d4b658779caf439505_end
+ 
+part_f342e6d8f83847c0bc5165ed0c1f1f99_end
