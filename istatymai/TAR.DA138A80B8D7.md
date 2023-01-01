@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/da138a80b8d711e3ad2eed5a4e1b7108"
 
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos Vyriausybės ir Norvegijos Karalystės Vyriausybės susitarimo dėl nuosprendžių baudžiamosiose bylose, kuriais paskirtos laisvės atėmimo bausmės ar su laisvės atėmimu susijusios priemonės, pripažinimo ir vykdymo ratifikavimo
 
+Suvestinė redakcija nuo 2023-01-01
+ 
+Įstatymas paskelbtas: TAR 2014-03-31, i. k. 2014-03680
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
 DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS IR NORVEGIJOS KARALYSTĖS VYRIAUSYBĖS SUSITARIMO DĖL NUOSPRENDŽIŲ BAUDŽIAMOSIOSE BYLOSE, KURIAIS PASKIRTOS LAISVĖS ATĖMIMO BAUSMĖS AR SU LAISVĖS ATĖMIMU SUSIJUSIOS PRIEMONĖS, PRIPAŽINIMO IR VYKDYMO RATIFIKAVIMO
@@ -45,7 +52,10 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 
 
-2) jeigu nuteistas asmuo atlieka bausmę Lietuvos Respublikos pataisos įstaigoje, – bausmės atlikimo vietos apylinkės teismas;
+2) jeigu nuteistas asmuo atlieka bausmę Lietuvos Respublikos laisvės atėmimo vietų įstaigoje, – bausmės atlikimo vietos apylinkės teismas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1239, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15606
+ 
 
 
 
@@ -62,7 +72,10 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 
 
-3. Lietuvos Respublikos Seimas pareiškia, kad Susitarimo 19 straipsnio f, g, h, i punktuose nuosprendį vykdančiai valstybei (vykdančiajai valstybei) numatytoms funkcijoms atlikti paskiriamas Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos.
+3. Lietuvos Respublikos Seimas pareiškia, kad Susitarimo 19 straipsnio f, g, h, i punktuose nuosprendį vykdančiai valstybei (vykdančiajai valstybei) numatytoms funkcijoms atlikti paskiriama Lietuvos kalėjimų tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1239, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15606
+ 
 
 
 
@@ -87,7 +100,10 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 
 
-6. Lietuvos Respublikos Seimas pareiškia, kad Susitarimo 4 straipsnio 5 dalyje, 19 straipsnio f, h, i punktuose nuosprendžio vykdymą perduodančiai valstybei (išduodančiajai valstybei) numatytoms funkcijoms atlikti paskiriamas Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos. Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos kartu su šio straipsnio 4 dalyje numatytomis kompetentingomis institucijomis paskiriami Susitarimo 6 straipsnio 3 dalyje nuosprendžio vykdymą perduodančiai valstybei (išduodančiajai valstybei) numatytai funkcijai atlikti.
+6. Lietuvos Respublikos Seimas pareiškia, kad Susitarimo 4 straipsnio 5 dalyje, 19 straipsnio f, h, i punktuose nuosprendžio vykdymą perduodančiai valstybei (išduodančiajai valstybei) numatytoms funkcijoms atlikti paskiriama Lietuvos kalėjimų tarnyba. Lietuvos kalėjimų tarnyba kartu su šio straipsnio 4 dalyje numatytomis kompetentingomis institucijomis paskiriamos Susitarimo 6 straipsnio 3 dalyje nuosprendžio vykdymą perduodančiai valstybei (išduodančiajai valstybei) numatytai funkcijai atlikti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1239, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15606
+ 
 
 
 
@@ -116,3 +132,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1239, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15606
+Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos Vyriausybės ir Norvegijos Karalystės Vyriausybės susitarimo dėl nuosprendžių baudžiamosiose bylose, kuriais paskirtos laisvės atėmimo bausmės ar su laisvės atėmimu susijusios priemonės, pripažinimo ir vykdymo ratifikavimo“ Nr. XII-800 2 straipsnio pakeitimo įstatymas
