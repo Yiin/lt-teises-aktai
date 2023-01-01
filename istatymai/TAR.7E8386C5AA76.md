@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-07-05
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
  
@@ -1104,12 +1104,18 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas, valdymo o
 
 
 
-4) tvirtina regiono plėtros tarybos metinių finansinių ataskaitų rinkinį;
+4) tvirtina regiono plėtros tarybos metinių ataskaitų rinkinį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
 
 
-5) priima sprendimą dėl regiono plėtros tarybos metinių finansinių ataskaitų rinkinio audito ir veiklos audito atlikimo ir parenka auditorių ar audito įmonę; 
+5) priima sprendimus dėl regiono plėtros tarybos metinių finansinių ataskaitų audito ir veiklos audito atlikimo ir parenka auditorių ar audito įmonę; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
 
@@ -1316,7 +1322,10 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas, valdymo o
 
 
 
-7) tvirtina regiono plėtros tarybos metinį veiklos planą ir metinę veiklos ataskaitą;
+7) vertina regiono plėtros tarybos metinių ataskaitų rinkinį, teikia atsiliepimus apie jį regiono plėtros tarybos visuotiniam dalyvių susirinkimui ir tvirtina regiono plėtros tarybos metinį veiklos planą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
 
@@ -1630,7 +1639,10 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 
-6) užtikrinti regiono plėtros tarybos metinių finansinių ataskaitų rinkinio parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliekamas) visuotiniam dalyvių susirinkimui ir Juridinių asmenų registro tvarkytojui;
+6) užtikrinti regiono plėtros tarybos metinių ataskaitų rinkinio parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliekamas) visuotiniam dalyvių susirinkimui ir Juridinių asmenų registro tvarkytojui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
 
@@ -1667,7 +1679,10 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 
-3. Administracijos direktorius atsiskaito už savo ir administracijos veiklą teikdamas regiono plėtros tarybos metines veiklos ataskaitas kolegijai.
+3. Administracijos direktorius atsiskaito už savo ir administracijos veiklą teikdamas regiono plėtros tarybos metinių ataskaitų rinkinį regiono plėtros tarybos visuotiniam dalyvių susirinkimui ir kolegijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
 
@@ -1700,7 +1715,10 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 9. Administracijos direktorius turi būti atleistas iš pareigų nesibaigus jo kadencijai, jeigu:
 
 
-1) kolegija du kartus iš eilės nepatvirtina regiono plėtros tarybos metinės veiklos ataskaitos;
+1) regiono plėtros tarybos visuotinis dalyvių susirinkimas du kartus iš eilės nepatvirtina regiono plėtros tarybos metinių ataskaitų rinkinio; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
 
@@ -1917,15 +1935,24 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 
-29 straipsnis. Regiono plėtros tarybos metinių finansinių ataskaitų rinkinys, metinė veiklos ataskaita ir auditas
+29 straipsnis. Regiono plėtros tarybos metinių ataskaitų rinkinys ir auditas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
-1. Regiono plėtros tarybos metinių finansinių ataskaitų rinkinys ir metinė veiklos ataskaita rengiami Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
+1. Regiono plėtros tarybos metinių ataskaitų rinkinys rengiamas Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
 
 
-2. Regiono plėtros taryba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Juridinių asmenų registro tvarkytojui turi pateikti regiono plėtros tarybos metinių finansinių ataskaitų rinkinį, o kai atliktas metinių finansinių ataskaitų auditas, – audituotą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada, taip pat metinę veiklos ataskaitą. Šie Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+2. Regiono plėtros taryba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Juridinių asmenų registro tvarkytojui turi pateikti regiono plėtros tarybos metinių ataskaitų rinkinį, o kai atliktas metinių finansinių ataskaitų auditas, – metinių ataskaitų rinkinį kartu su auditoriaus išvada. Šie Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
+ 
 
 
 
