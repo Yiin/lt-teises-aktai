@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-11-22 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -374,9 +374,11 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 
 
-37. Krizė suprantama taip, kaip ji apibrėžiama Nepaprastosios padėties įstatyme. 
+37. Krizė suprantama taip, kaip ji apibrėžiama Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
+Straipsnio dalies pakeitimai:
+Nr. XIV-1646, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26594
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
  
@@ -2018,9 +2020,10 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 1. Kariniai vienetai gali būti pasitelkiami teikiant pagalbą kitoms valstybės ir savivaldybių institucijoms šiais atvejais:
 
 
-1) ekstremalių situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja, tam tikroms gelbėjimo ir kitų neatidėliotinų darbų užduotims ekstremalios situacijos židinyje atlikti, taip pat ekstremalių situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja ir kai, siekiant išvengti grėsmės visuomenės rimčiai, yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas; 
+1) ekstremaliųjų situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja, tam tikroms gelbėjimo ir kitų neatidėliotinų darbų užduotims ekstremaliosios situacijos židinyje atlikti, taip pat ekstremaliųjų situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja ir kai siekiant išvengti grėsmės visuomenės rimčiai yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-512, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17356
+Nr. XIV-1646, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26594
  
 
 
@@ -2090,17 +2093,19 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 
 
-2. Šio straipsnio 1 dalies 1 punkte nurodytais atvejais kariniai vienetai gali būti pasiųsti padėti civilinės saugos sistemos pajėgoms krašto apsaugos ministro įsakymu, krašto apsaugos ministrui gavus Vyriausybės ekstremalių situacijų komisijos arba savivaldybės, kurios teritorijoje yra ekstremalios situacijos židinys, administracijos direktoriaus rašytinį prašymą. Karinių vienetų ir civilinės saugos sistemos pajėgų veiksmai koordinuojami pagal kariuomenės vado ar jo įgaliotų karinių vienetų vadų ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus ar jo įgaliotų civilinės saugos sistemos pareigūnų iš anksto parengtus sąveikos planus, išskyrus atvejus, kai, siekiant išvengti grėsmės visuomenės rimčiai, yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas. Kai, siekiant išvengti grėsmės visuomenės rimčiai, yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas ir kai šiuo tikslu pasitelkiami kariniai vienetai, karinių vienetų ir šių civilinės saugos sistemos pajėgų veiksmus koordinuoja ekstremalios situacijos operacijų vadovas. 
+2. Šio straipsnio 1 dalies 1 punkte nurodytais atvejais kariniai vienetai gali būti pasiųsti padėti civilinės saugos pajėgoms krašto apsaugos ministro įsakymu, krašto apsaugos ministrui gavus Nacionalinio saugumo komisijos arba savivaldybės, kurios teritorijoje yra ekstremaliosios situacijos židinys, administracijos direktoriaus rašytinį prašymą. Karinių vienetų ir civilinės saugos pajėgų veiksmai koordinuojami pagal kariuomenės vado ar jo įgaliotų karinių vienetų vadų ir civilinės saugos pajėgų vadovų iš anksto patvirtintus sąveikos planus, išskyrus atvejus, kai siekiant išvengti grėsmės visuomenės rimčiai yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas. Kai siekiant išvengti grėsmės visuomenės rimčiai yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos ar Viešojo saugumo tarnybos pajėgoms vykdyti jų funkcijas ir kai šiuo tikslu pasitelkiami kariniai vienetai, karinių vienetų ir šių civilinės saugos pajėgų veiksmus koordinuoja ekstremaliosios situacijos operacijų vadovas. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-512, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17356
+Nr. XIV-1646, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26594
  
 
 
 
 
-3. Šio straipsnio 1 dalies 2 punkte nurodytu atveju kariniai vienetai siunčiami padėti institucijoms, užtikrinančioms Nepaprastosios padėties įstatymo vykdymą, krašto apsaugos ministro įsakymu, gavę institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovo rašytinį prašymą. Karinių vienetų sąveiką su kitomis valstybės ir savivaldybių institucijomis koordinuoja institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovas. 
+3. Šio straipsnio 1 dalies 2 punkte nurodytu atveju kariniai vienetai siunčiami padėti institucijoms, užtikrinančioms Nepaprastosios padėties įstatymo vykdymą, krašto apsaugos ministro įsakymu, gavę institucijos, atsakingos už nepaprastosios padėties valdymą, vadovo rašytinį prašymą. Karinių vienetų sąveiką su kitomis valstybės ir savivaldybių institucijomis koordinuoja institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
+Nr. XIV-1646, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26594
  
 
 
@@ -3854,6 +3859,14 @@ Nr. XIV-1507, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23355
 Straipsnio dalies pakeitimai:
 Nr. XII-2169, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20139
 Nr. XIII-1820, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21841
+ 
+
+
+
+
+51. Krizių valdymo ir civilinės saugos įstatymo nustatytais atvejais, tvarka ir sąlygomis profesinės karo tarnybos kariai gali būti laikinai pasitelkti Nacionalinio krizių valdymo centro funkcijoms atlikti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1646, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26594
  
 
 
@@ -7065,6 +7078,11 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1507, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23355
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 42 straipsnio pakeitimo įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1646, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26594
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 18 ir 42 straipsnių pakeitimo įstatymas
  
  
 part_c0733c34aeee45b3bda56f58cd62ee8e_end
