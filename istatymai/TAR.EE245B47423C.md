@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -442,7 +442,10 @@ Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA0
 
 
 
-3) Krašto apsaugos ministerijos, Vidaus reikalų ministerijos ir Kalėjimų departamento prie Teisingumo ministerijos sveikatos priežiūros tarnybos – atitinkamai krašto apsaugos ministrui, Kalėjimų departamento prie Teisingumo ministerijos direktoriui ar vidaus reikalų ministrui ir Lietuvos Respublikos vyriausiajam epidemiologui Sveikatos apsaugos ministerijos nustatyta tvarka, suderinusios su Krašto apsaugos, Vidaus reikalų, Teisingumo ministerijomis.
+3) Lietuvos Respublikos krašto apsaugos ministerijos, Lietuvos Respublikos vidaus reikalų ministerijos ir Lietuvos kalėjimų tarnybos sveikatos priežiūros tarnybos – atitinkamai krašto apsaugos ministrui, vidaus reikalų ministrui ar Lietuvos kalėjimų tarnybos direktoriui ir Lietuvos Respublikos vyriausiajam epidemiologui sveikatos apsaugos ministro nustatyta tvarka, suderinusios su Krašto apsaugos ministerija, Vidaus reikalų ministerija ir Teisingumo ministerija.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1215, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15580
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -607,7 +610,7 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-3. Jei šio straipsnio 2 dalyje nurodyta komisija, o šio straipsnio 21 dalyje nurodytu atveju – gydantis gydytojas, priima sprendimą, kad pacientas dėl sveikatos būklės tebėra pavojingas kitiems asmenims, maksimalius būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminus, nurodytus šio straipsnio 2 ir 21 dalyse, gali pratęsti tik teismas savivaldybės gydytojo, o šio straipsnio 21 dalyje nurodytu atveju – asmens sveikatos priežiūros įstaigos vadovo arba jo įgalioto asmens motyvuotu prašymu. Tokie prašymai išnagrinėjami Civilinio proceso kodekso  579–582 straipsniuose nustatyta tvarka per 3 dienas nuo prašymo gavimo dienos. Būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą pratęsti galima ne ilgiau kaip 6 mėnesiams. Jei pacientas dėl sveikatos būklės išlieka pavojingas kitiems asmenims, būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą šioje dalyje nustatyta tvarka galima pratęsti pakartotinai iki 6 mėnesių, tačiau bendras asmens būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminas negali būti ilgesnis kaip 24 mėnesiai. Teismo sprendimas būtinai hospitalizuoti ir (ar) būtinai izoliuoti pacientą vykdomas skubiai.
+3. Jei šio straipsnio 2 dalyje nurodyta komisija, o šio straipsnio 21 dalyje nurodytu atveju – gydantis gydytojas, priima sprendimą, kad pacientas dėl sveikatos būklės tebėra pavojingas kitiems asmenims, maksimalius būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminus, nurodytus šio straipsnio 2 ir 21 dalyse, gali pratęsti tik teismas savivaldybės gydytojo, o šio straipsnio 21 dalyje nurodytu atveju – asmens sveikatos priežiūros įstaigos vadovo arba jo įgalioto asmens motyvuotu prašymu. Tokie prašymai išnagrinėjami Civilinio proceso kodekso 579–582 straipsniuose nustatyta tvarka per 3 dienas nuo prašymo gavimo dienos. Būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą pratęsti galima ne ilgiau kaip 6 mėnesiams. Jei pacientas dėl sveikatos būklės išlieka pavojingas kitiems asmenims, būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą šioje dalyje nustatyta tvarka galima pratęsti pakartotinai iki 6 mėnesių, tačiau bendras asmens būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminas negali būti ilgesnis kaip 24 mėnesiai. Teismo sprendimas būtinai hospitalizuoti ir (ar) būtinai izoliuoti pacientą vykdomas skubiai.
 
 
 
@@ -617,7 +620,10 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-5. Sprendimus dėl privalomosios pradinės karo tarnybos karių ir asmenų, esančių laisvės atėmimo vietose ar teritorinių policijos įstaigų areštinėse, būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo priima ir jų vykdymą organizuoja atitinkamai Krašto apsaugos ministerijos, Kalėjimų departamento prie Teisingumo ministerijos ar Vidaus reikalų ministerijos sveikatos priežiūros tarnybų vadovai ar jų įgalioti asmenys. Šioje dalyje nurodytų asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas be teismo sprendimo gali būti taikomi tol, kol asmuo tampa nebepavojingas kitiems asmenims, bet ne ilgiau kaip 7 kalendorines dienas, o kai asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas dėl ypač pavojingos užkrečiamosios ligos, dėl kurios visoje Lietuvos Respublikos teritorijoje paskelbtas karantinas, ir yra protrūkis ir (arba) epidemija arba jų grėsmė, iki ankstesnės iš šių datų – tol, kol asmuo tampa nebepavojingas kitiems asmenims, bet be teismo sprendimo ne ilgiau kaip vieną mėnesį, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną, arba tol, kol asmuo arba jo atstovas pagal įstatymą duoda sutikimą dėl hospitalizavimo ir (ar) izoliavimo. Pratęsti terminą per 3 dienas nuo prašymo gavimo dienos gali tik teismas atitinkamai Krašto apsaugos ministerijos, Kalėjimų departamento prie Teisingumo ministerijos ar Vidaus reikalų ministerijos sveikatos priežiūros tarnybų vadovų ar jų įgaliotų asmenų prašymu šio straipsnio 3 dalyje nustatyta tvarka, o kariams – tik karinio vieneto vadovas pagal motyvuotą sveikatos priežiūros tarnybų vadovų teikimą.
+5. Sprendimus dėl privalomosios pradinės karo tarnybos karių ir asmenų, esančių laisvės atėmimo vietų įstaigoje ar teritorinių policijos įstaigų areštinėse, būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo priima ir jų vykdymą organizuoja atitinkamai Krašto apsaugos ministerijos, Vidaus reikalų ministerijos ar Lietuvos kalėjimų tarnybos sveikatos priežiūros tarnybų vadovai ar jų įgalioti asmenys. Šioje dalyje nurodytų asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas be teismo sprendimo gali būti taikomi tol, kol asmuo tampa nebepavojingas kitiems asmenims, bet ne ilgiau kaip 7 kalendorines dienas, o kai asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas dėl ypač pavojingos užkrečiamosios ligos, dėl kurios visoje Lietuvos Respublikos teritorijoje paskelbtas karantinas, ir yra protrūkis ir (arba) epidemija arba jų grėsmė, iki ankstesnės iš šių datų – tol, kol asmuo tampa nebepavojingas kitiems asmenims, bet be teismo sprendimo ne ilgiau kaip vieną mėnesį, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną, arba tol, kol asmuo arba jo atstovas pagal įstatymą duoda sutikimą dėl hospitalizavimo ir (ar) izoliavimo. Pratęsti terminą per 3 dienas nuo prašymo gavimo dienos gali tik teismas atitinkamai Krašto apsaugos ministerijos, Vidaus reikalų ministerijos ar Lietuvos kalėjimų tarnybos sveikatos priežiūros tarnybų vadovų ar jų įgaliotų asmenų prašymu šio straipsnio 3 dalyje nustatyta tvarka, o kariams – tik karinio vieneto vadovas pagal motyvuotą sveikatos priežiūros tarnybų vadovų teikimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1215, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15580
+ 
 
 
 
@@ -901,7 +907,10 @@ Asmenų, mirusių nuo pavojingų ir ypač pavojingų užkrečiamųjų ligų, pal
 
 
 
-5. Uždaruose kolektyvuose gyvenantys kariai, asmenys, laikomi Vidaus reikalų ministerijos ar Kalėjimų departamento prie Teisingumo ministerijos uždarose įstaigose, privalo būti tikrinami, ar neserga užkrečiamosiomis ligomis. Šių asmenų sveikatos tikrinimo dėl užkrečiamųjų ligų tvarką nustato tų įstaigų savininko teises ir pareigas įgyvendinančios institucijos, suderinusios su Sveikatos apsaugos ministerija.
+5. Uždaruose kolektyvuose gyvenantys kariai, asmenys, kurie atlieka arešto ir laisvės atėmimo bausmes arba kuriems vykdomas suėmimas, taip pat Vidaus reikalų ministerijos uždarose įstaigose laikomi asmenys privalo būti tikrinami, ar neserga užkrečiamosiomis ligomis. Šių asmenų sveikatos tikrinimo dėl užkrečiamųjų ligų tvarką nustato tų įstaigų savininko teises ir pareigas įgyvendinančios institucijos, suderinusios su Sveikatos apsaugos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1215, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15580
+ 
 
 
 
@@ -927,6 +936,19 @@ Nr. XIV-620, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23538
 
 Straipsnio pakeitimai:
 Nr. XIV-195, 2021-03-23, paskelbta TAR 2021-03-25, i. k. 2021-05878
+ 
+
+
+
+
+181 straipsnis. Privalomos asmeninės apsaugos priemonės, būtinos visuomenės sveikatos saugos ir higienos sąlygos
+
+
+Kai iškyla pavojingų ir ypač pavojingų užkrečiamųjų ligų išplitimo pavojus, sveikatos apsaugos ministras Nacionalinio visuomenės sveikatos centro teikimu turi teisę nustatyti privalomus asmeninės apsaugos priemonių naudojimo reikalavimus, taip pat būtinas visuomenės sveikatos saugos ir higienos sąlygas.
+
+
+Papildyta straipsniu:
+Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
  
 
 
@@ -1008,34 +1030,44 @@ Nr. XIII-2831, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07194
 
 
 
-11. Karantino metu šioje dalyje ir kituose įstatymuose nustatytais atvejais ir tvarka gali būti laikinai apribota asmens judėjimo laisvė ir nustatyti šie ūkinės veiklos apribojimai:
+11. Karantino metu šioje dalyje ir kituose įstatymuose nustatytais atvejais ir tvarka gali būti laikinai apribota asmens judėjimo laisvė, ūkinės veiklos laisvė, privataus gyvenimo neliečiamumas ir nustatyti šie ūkinės veiklos, viešųjų ir administracinių paslaugų teikimo apribojimai:
 
 
-1) Vyriausybė gali nustatyti teritorijų karantino režimo priemones, susijusias su ūkinės veiklos apribojimais, – nustatyti produktų gamybos, jų realizavimo, geriamojo vandens tiekimo bei paslaugų teikimo sąlygas ir tvarką;
+1) Vyriausybė gali nustatyti teritorijų karantino režimo priemones, susijusias su ūkinės veiklos, viešųjų ir administracinių paslaugų teikimo apribojimais:
 
 
-
-
-2) visoje Lietuvos Respublikos teritorijoje ar keliose savivaldybėse dėl pavojingų ir ypač pavojingų užkrečiamųjų ligų paskelbto karantino metu Vyriausybė gali nustatyti šias teritorijų karantino režimo priemones, susijusias su asmens judėjimo laisvės ribojimu: 
-
-
-a) riboti arba laikinai uždrausti renginius ir kitokius daugiau kaip dviejų žmonių susibūrimus institucijose, įmonėse, įstaigose, organizacijose, išskyrus atvejus, kai valstybės ir savivaldybių institucijose, įstaigose, valstybės ir savivaldybių valdomose įmonėse atitinkamas funkcijas (darbus) būtina atlikti darbo vietoje, ir viešose vietose;
+a) riboti ar laikinai uždrausti ūkinę veiklą, viešųjų ir administracinių paslaugų teikimą, išskyrus atvejus, kai valstybės ir savivaldybių institucijose, įstaigose, valstybės ir savivaldybių valdomose įmonėse tam tikras funkcijas (darbus) būtina atlikti darbo vietoje, ir nustatyti šių paslaugų teikimo sąlygas ir tvarką;
 
 
 
 
-b) riboti arba laikinai uždrausti gyventojų išvykimą už jų gyvenamosios vietos savivaldybės ribų ir judėjimą joje bei ne Lietuvos Respublikos piliečių atvykimą į Lietuvos Respublikos teritoriją;
+b) nustatyti produktų gamybos, jų realizavimo, geriamojo vandens tiekimo bei paslaugų teikimo sąlygas ir tvarką;
 
 
 
 
-c) taikyti laikiną gyventojų perkėlimą (evakuaciją) iš karantino teritorijos, išskyrus atvejus, kai karantinas paskelbtas visoje Lietuvos Respublikos teritorijoje. 
+
+
+2) visoje Lietuvos Respublikos teritorijoje ar keliose savivaldybėse dėl pavojingų ir ypač pavojingų užkrečiamųjų ligų paskelbto karantino metu Vyriausybė gali nustatyti šias teritorijų karantino režimo priemones, susijusias su asmens judėjimo laisvės ir privataus gyvenimo ribojimu:
+
+
+a) riboti arba laikinai uždrausti renginius ir kitokius daugiau kaip dviejų žmonių susibūrimus institucijose, įmonėse, įstaigose, organizacijose, išskyrus atvejus, kai valstybės ir savivaldybių institucijose, įstaigose, valstybės ir savivaldybių valdomose įmonėse tam tikras funkcijas (darbus) būtina atlikti darbo vietoje, ir viešose vietose, taip pat susibūrimus privačiose vietose;
 
 
 
 
-Papildyta straipsnio dalimi:
-Nr. XIII-2831, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07194
+b) riboti arba laikinai uždrausti gyventojų išvykimą už jų gyvenamosios vietos savivaldybės ribų ir judėjimą joje bei ne Lietuvos Respublikos piliečių atvykimą į Lietuvos Respublikos teritoriją, nustatyti atvykimo ir grįžimo į Lietuvos Respubliką sąlygas;
+
+
+
+
+c) taikyti laikiną gyventojų perkėlimą (evakuaciją) iš karantino teritorijos, išskyrus atvejus, kai karantinas paskelbtas visoje Lietuvos Respublikos teritorijoje.
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
  
 
 
@@ -1092,7 +1124,7 @@ Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA
 
 
 
-8. Riboto karantino objektai gali būti: 
+8. Riboto karantino objektai gali būti:
 
 
 1) žaliava, produktai, prekės, pašto siuntos, transporto priemonės, konteineriai, kai jie įvežami į Lietuvos Respubliką ar vežami tranzitu per Lietuvos Respubliką iš ypač pavojingų užkrečiamųjų ligų sukėlėjais užkrėstų teritorijų užsienio šalyse arba iš užkrėstų šių ligų sukėlėjais teritorijų Lietuvos Respublikoje į neužkrėstą teritoriją Lietuvos Respublikoje;
@@ -1100,19 +1132,30 @@ Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA
 
 
 
-2) asmenys, įvažiuojantys į Lietuvos Respubliką ar pervažiuojantys per Lietuvos Respubliką tranzitu iš ypač pavojingų užkrečiamųjų ligų sukėlėjais užkrėstų teritorijų;
+2) asmenys, įvažiuojantys į Lietuvos Respubliką ar pervažiuojantys per Lietuvos Respubliką tranzitu iš ypač pavojingų užkrečiamųjų ligų sukėlėjais užkrėstų teritorijų arba iš užsienio šalies, įtrauktos į sveikatos apsaugos ministro patvirtintą užkrečiamosios ligos paveiktų šalių sąrašą;
 
 
 
 
-3) vietiniai gamintojai ir paslaugų teikėjai, jų naudojamos žaliavos ir medžiagos bei pagaminama ir realizuojama produkcija.
+3) vietiniai gamintojai, paslaugų teikėjai, įmonės, įstaigos ar organizacijos, jų naudojamos žaliavos ir medžiagos, pagaminama ir realizuojama produkcija bei jų teikiamos paslaugos;
 
 
 
 
+4) statiniai ar teritorijos, kurios neatitinka šiame straipsnyje nustatytų teritorijų karantino skelbimo sąlygų.
 
 
-9. Riboto karantino objektus, tokio karantino taikymo trukmę ir režimą nustato bei atšaukia Lietuvos Respublikos arba apskrities vyriausiasis epidemiologas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
+ 
+
+
+
+
+9. Riboto karantino objektus, šio karantino taikymo trukmę ir režimą nustato ir atšaukia Lietuvos Respublikos vyriausiasis epidemiologas arba apskrities vyriausiasis epidemiologas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
+ 
 
 
 
@@ -1140,6 +1183,14 @@ Straipsnio dalies pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 Nr. XI-1761, 2011-12-01, Žin., 2011, Nr. 153-7198 (2011-12-15), i. k. 1111010ISTA0XI-1761
 Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
+ 
+
+
+
+
+14. Sveikatos apsaugos ministras karantino metu gali nustatyti asmens sveikatos priežiūros paslaugų teikimo organizavimo ir šių paslaugų teikimo asmens sveikatos priežiūros įstaigose tvarką, pasitelkdamas šių įstaigų infrastruktūrą ir materialinius bei žmogiškuosius išteklius ir neatsižvelgdamas į asmens sveikatos priežiūros įstaigų pavaldumą bei teisinę formą.
+Papildyta straipsnio dalimi:
+Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
  
 
 
@@ -1607,7 +1658,10 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti pareigūnai, remdamiesi Sveikatos sistemos įstatymu, taip pat turi teisę reikalauti, kad Krašto apsaugos ministerijos, Kalėjimų departamento prie Teisingumo ministerijos ar Vidaus reikalų ministerijos valdymo srities įstaigos, kariniai vienetai ar kiti fiziniai ir juridiniai asmenys atlygintų išlaidas, atsiradusias dėl sveikatai neteisėta veika padarytos žalos, kurią lėmė užkrečiamoji liga.
+2. Šio straipsnio 1 dalyje nurodyti pareigūnai, remdamiesi Sveikatos sistemos įstatymu, taip pat turi teisę reikalauti, kad Krašto apsaugos ministerijos ar Vidaus reikalų ministerijos valdymo srities įstaigos, Lietuvos kalėjimų tarnyba, kariniai vienetai ar kiti fiziniai ir juridiniai asmenys atlygintų išlaidas, atsiradusias dėl sveikatai neteisėta veika padarytos žalos, kurią lėmė užkrečiamoji liga.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1215, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15580
+ 
 
 
 Straipsnio pakeitimai:
@@ -2071,3 +2125,13 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-748, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26578
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 32-1 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1215, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15580
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 5, 9, 18 ir 31 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 21 straipsnio pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
