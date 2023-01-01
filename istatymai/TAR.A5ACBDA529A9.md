@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-12-23 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-22
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -63,9 +63,11 @@ Nr. IX-2102, 2004-04-08, Žin., 2004, Nr. 60-2117 (2004-04-24)
 
 
 
-2. Lietuvos apmokestinamasis vienetas (toliau – Lietuvos vienetas) – juridinis asmuo, įregistruotas Lietuvos Respublikos teisės aktų nustatyta tvarka, taip pat Lietuvos Respublikoje įsteigtas kolektyvinio investavimo subjektas, neturintis juridinio asmens statuso. Kai kolektyvinio investavimo subjekto valdymas perduotas valdymo įmonei, šio Įstatymo nustatytą kolektyvinio investavimo subjekto uždirbto pelno ir (arba) gautų, išmokamų pajamų apmokestinimo tvarką taiko valdymo įmonė. 
+2. Lietuvos apmokestinamasis vienetas (toliau – Lietuvos vienetas) – juridinis asmuo, įregistruotas Lietuvos Respublikos teisės aktų nustatyta tvarka, Lietuvos Respublikoje įsteigtas kolektyvinio investavimo subjektas, neturintis juridinio asmens statuso, taip pat Lietuvos hibridinis subjektas. Kai kolektyvinio investavimo subjekto valdymas perduotas valdymo įmonei, šio Įstatymo nustatytą kolektyvinio investavimo subjekto uždirbto pelno ir (arba) gautų, išmokamų pajamų apmokestinimo tvarką taiko valdymo įmonė. Šio Įstatymo nustatytą Lietuvos hibridinio subjekto gautų pajamų apmokestinimo tvarką taiko jo dalyviai.
+TAR pastaba. 2 straipsnio 2 dalies nuostatos yra taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+Nr. XIV-726, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25844
  
 
 
@@ -230,6 +232,15 @@ Nr. XIII-1881, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00234
 
 
 161. Lietuvos filmo gamintojas – fizinis asmuo – nuolatinis Lietuvos gyventojas arba Europos ekonominės erdvės valstybės pilietis, veikiantis per nuolatinę bazę Lietuvoje, taip pat Lietuvos vienetas arba Europos ekonominės erdvės valstybės vienetas, veikiantis per nuolatinę buveinę Lietuvoje, kurie verčiasi filmų gamyba ir yra atsakingi už kūrybinį, organizacinį, finansinį filmo gamybos procesą.
+
+
+
+
+162. Lietuvos hibridinis subjektas – subjektas, išskyrus kolektyvinio investavimo subjektą, arba darinys, kuriame daugiau kaip 50 procentų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį, ar išimtinių teisių jas įsigyti tiesiogiai ar netiesiogiai valdo arba vienas užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis, arba keli asocijuoti asmenys, iš kurių bent vienas yra užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis.
+TAR pastaba. 2 straipsnį 162 dalies nuostatos yra taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+Papildyta straipsnio dalimi:
+Nr. XIV-726, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25844
+ 
 
 
 
@@ -861,6 +872,15 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
  
 
 
+
+
+8. Lietuvos hibridinio subjekto mokesčio bazei priskiriama pajamų dalis, kuri nėra kitaip apmokestinama pelno mokesčiu ar jam tapačiu mokesčiu pagal šio Įstatymo arba bet kurios kitos valstybės, kurios rezidentas mokesčių tikslais yra Lietuvos hibridinio subjekto dalyvis, teisės aktus.
+TAR pastaba. 4 straipsnį 8 dalies nuostatos yra taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+Papildyta straipsnio dalimi:
+Nr. XIV-726, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25844
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1659, 2003-07-01, Žin., 2003, Nr. 74-3417 (2003-07-25)
 Nr. IX-2102, 2004-04-08, Žin., 2004, Nr. 60-2117 (2004-04-24)
@@ -1372,10 +1392,18 @@ Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 
 
-18) pajamos, įskaitant turto vertės padidėjimo pajamas, dividendus ir kitą paskirstytąjį pelną, gautos iš kolektyvinio investavimo subjektų, kurie nėra įregistruoti ar kitaip organizuoti tikslinėse teritorijose, investicinių vienetų, akcijų ar įnašų turėjimo. Šio punkto nuostatos dėl turto vertės padidėjimo pajamų neapmokestinimo taikomos tik tuo atveju, jei tokios pajamos gaunamos ne iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar iš tų teritorijų gyventojų. 
-TAR pastaba. 18 punkto nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+18) pajamos, įskaitant turto vertės padidėjimo pajamas, dividendus ir kitą paskirstytąjį pelną, gautos iš kolektyvinio investavimo subjektų, kurie nėra įregistruoti ar kitaip organizuoti tikslinėse teritorijose, investicinių vienetų, akcijų ar įnašų turėjimo. Šio punkto nuostatos dėl turto vertės padidėjimo pajamų neapmokestinimo taikomos tik tuo atveju, jei tokios pajamos gaunamos ne iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse teritorijose, ar iš tų teritorijų gyventojų;
 Papildyta straipsnio punktu:
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
+
+
+
+
+19) atlyginimas už visuomenės poreikiams paimtą žemę ir (ar) kitą turtą.
+TAR pastaba. 19 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+Papildyta straipsnio punktu:
+Nr. XIV-1052, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09665
  
 
 
@@ -2465,9 +2493,17 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 
 
-20) sąnaudos, patirtos darant Baudžiamojo kodekso uždraustą veiką, įskaitant kyšius.
+20) sąnaudos, patirtos darant Baudžiamojo kodekso uždraustą veiką, įskaitant kyšius;
 Papildyta straipsnio punktu:
 Nr. XII-1466, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21227
+ 
+
+
+
+
+21) solidarumo įnašas, sumokėtas Lietuvos Respublikos įstatymo „Dėl Reglamento (ES) 2022/1854 įgyvendinimo“ nustatyta tvarka.
+Papildyta straipsnio punktu:
+Nr. XIV-1681, 2022-12-15, paskelbta TAR 2022-12-23, i. k. 2022-26618
  
 
 
@@ -4446,19 +4482,23 @@ Nr. XIII-517, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11226
 
 
 
-162. Juridinis asmuo, kuris įgyvendina stambų projektą pagal galiojančią stambaus projekto investicijų sutartį ir kurio vidutinis darbuotojų, reikalingų stambiam projektui Lietuvos Respublikoje įgyvendinti, skaičius mokestiniais metais ne mažesnis kaip 150, o kai investuojama Vilniuje, – ne mažesnis kaip 200 ir kai privačios kapitalo investicijos į stambų projektą Lietuvos Respublikoje pasiekė ne mažesnę kaip 20 milijonų eurų sumą, o kai investuojama Vilniuje, – ne mažesnę kaip 30 milijonų eurų sumą, ir kuris nesinaudoja šio straipsnio 16 dalies 1 ir 2 punktuose arba 163 dalyje nustatyta pelno mokesčio lengvata, nemoka pelno mokesčio, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma ir vidutinis darbuotojų skaičius buvo pasiekti. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai ne mažiau kaip 75 procentai atitinkamo mokestinio laikotarpio juridinio asmens pajamų sudaro pajamos iš duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos arba pajamos iš apdirbamosios gamybos, ir tik toms juridinio asmens pajamoms, kurios gautos įgyvendinant stambų projektą. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai juridinis asmuo turi auditoriaus išvadą, patvirtinančią reikalaujamą juridinio asmens privačių kapitalo investicijų dydį. Jeigu juridinio asmens privačių kapitalo investicijų suma į stambų projektą sumažėja ir nebesiekia 20 milijonų eurų sumos, o kai investuojama Vilniuje, – nebesiekia 30 milijonų eurų sumos, išskyrus ilgalaikio turto nusidėvėjimo arba amortizacijos sąnaudas, ir (arba) vidutinis darbuotojų, reikalingų  stambiam projektui įgyvendinti, skaičius mokestiniais metais tampa mažesnis kaip 150, o kai investuojama Vilniuje, – mažesnis kaip 200, lengvata netaikoma tą mokestinį laikotarpį, kurį juridinio asmens privačių kapitalo investicijų suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir lengvatos taikymas atnaujinamas tą mokestinį laikotarpį, kurį juridinio asmens privačios kapitalo investicijos į stambų projektą vėl pasiekia 20 milijonų eurų sumą, o kai investuojama Vilniuje, – 30 milijonų eurų sumą ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais vėl tampa ne mažesnis kaip 150, o kai investuojama Vilniuje, – ne mažesnis kaip 200. Šioje dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą, taikoma ne ilgiau negu 20 metų nuo stambaus projekto investicijų sutarties įsigaliojimo dienos. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Europos Sąjungos teisės aktais, kuriais reguliuojamas valstybės pagalbos teikimas, ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta valstybės pagalbos teikimo ir priežiūros tvarka. 
-TAR pastaba. 162 dalis taikoma tiek, kiek ji suderinama su 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, nuostatomis. 162 dalies nuostatos taikomos juridiniams asmenims, iki 2025 m. gruodžio 31 d. sudariusiems stambių projektų investicijų sutartis.
+162. Juridinis asmuo, kuris įgyvendina stambų projektą pagal galiojančią stambaus projekto investicijų sutartį ir kurio vidutinis darbuotojų, reikalingų stambiam projektui Lietuvos Respublikoje įgyvendinti, skaičius mokestiniais metais ne mažesnis kaip 150, o kai investuojama Vilniuje, – ne mažesnis kaip 200 ir kai privačios kapitalo investicijos į stambų projektą Lietuvos Respublikoje pasiekė ne mažesnę kaip 20 milijonų eurų sumą, o kai investuojama Vilniuje, – ne mažesnę kaip 30 milijonų eurų sumą, ir kuris nesinaudoja šio straipsnio 16 dalies 1 ir 2 punktuose arba 163 dalyje nustatyta pelno mokesčio lengvata, nemoka pelno mokesčio pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma ir vidutinis darbuotojų skaičius buvo pasiekti. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai ne mažiau kaip 75 procentai atitinkamo mokestinio laikotarpio juridinio asmens pajamų sudaro pajamos iš duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos arba pajamos iš apdirbamosios gamybos, ir tik toms juridinio asmens pajamoms, kurios gautos įgyvendinant stambų projektą. Šioje dalyje nustatyta lengvata pajamoms iš intelektinės nuosavybės turto naudojimo netaikoma, išskyrus atvejus, kai šios pajamos atitinka šio Įstatymo 5 straipsnio 7–10 dalyse ir 30 straipsnio 1 ir 21 dalyse nustatytas sąlygas (išskyrus šio Įstatymo 5 straipsnio 7 dalyje nustatytą taikytiną pelno mokesčio tarifo dydį). Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai juridinis asmuo turi auditoriaus išvadą, patvirtinančią reikalaujamą juridinio asmens privačių kapitalo investicijų dydį. Jeigu juridinio asmens privačių kapitalo investicijų suma į stambų projektą sumažėja ir nebesiekia 20 milijonų eurų sumos, o kai investuojama Vilniuje, – nebesiekia 30 milijonų eurų sumos, išskyrus ilgalaikio turto nusidėvėjimo arba amortizacijos sąnaudas, ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais tampa mažesnis kaip 150, o kai investuojama Vilniuje, – mažesnis kaip 200, lengvata netaikoma tą mokestinį laikotarpį, kurį juridinio asmens privačių kapitalo investicijų suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir lengvatos taikymas atnaujinamas tą mokestinį laikotarpį, kurį juridinio asmens privačios kapitalo investicijos į stambų projektą vėl pasiekia 20 milijonų eurų sumą, o kai investuojama Vilniuje, – 30 milijonų eurų sumą ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais vėl tampa ne mažesnis kaip 150, o kai investuojama Vilniuje, – ne mažesnis kaip 200. Šioje dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą, taikoma ne ilgiau negu 20 metų nuo stambaus projekto investicijų sutarties įsigaliojimo dienos. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Europos Sąjungos teisės aktais, kuriais reguliuojamas valstybės pagalbos teikimas, ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta valstybės pagalbos teikimo ir priežiūros tvarka.
+TAR pastaba. 58 straipsnio 162 dalies nuostatos yra taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 Papildyta straipsnio dalimi:
 Nr. XIII-3213, 2020-06-30, paskelbta TAR 2020-07-03, i. k. 2020-15010
+Straipsnio dalies pakeitimai:
+Nr. XIV-726, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25844
  
 
 
 
 
-163. Juridinis asmuo, kuris įgyvendina stambų projektą pagal galiojančią stambaus projekto investicijų sutartį ir kurio vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti Lietuvos Respublikoje, skaičius mokestiniais metais ne mažesnis kaip 200, o privačios kapitalo investicijos į stambų projektą Lietuvos Respublikoje pasiekė ne mažesnę kaip 100 milijonų eurų sumą, ir kuris nesinaudoja šio straipsnio 16 dalies 1 ir 2 punktuose arba 162 dalyje nustatyta pelno mokesčio lengvata, nemoka pelno mokesčio pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma ir vidutinis darbuotojų skaičius buvo pasiekti. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai ne mažiau kaip 75 procentai atitinkamo mokestinio laikotarpio juridinio asmens pajamų sudaro pajamos iš duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos arba pajamos iš apdirbamosios gamybos, ir tik toms juridinio asmens pajamoms, kurios gautos įgyvendinant stambų projektą. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai juridinis asmuo turi auditoriaus išvadą, patvirtinančią reikalaujamą juridinio asmens privačių kapitalo investicijų į stambų projektą dydį. Jeigu juridinio asmens privačių kapitalo investicijų į stambų projektą suma sumažėja ir nebesiekia 100 milijonų eurų, išskyrus ilgalaikio turto nusidėvėjimo arba amortizacijos sąnaudas, ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais tampa mažesnis kaip 200, lengvata netaikoma tą mokestinį laikotarpį, kurį juridinio asmens privačių kapitalo investicijų į stambų projektą suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir lengvatos taikymas atnaujinamas tą mokestinį laikotarpį, kurį juridinio asmens privačios kapitalo investicijos į stambų projektą vėl pasiekia 100 milijonų eurų ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais vėl tampa ne mažesnis kaip 200. Šioje dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą, taikoma ne ilgiau negu 20 metų nuo stambaus projekto investicijų sutarties įsigaliojimo dienos. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Europos Sąjungos teisės aktais, reglamentuojančiais valstybės pagalbos teikimą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta valstybės pagalbos teikimo ir priežiūros tvarka ir Europos Komisijos išduoto leidimo teikti valstybės pagalbą sąlygomis. 
-TAR pastaba. 163 dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą pagal galiojančią stambaus projekto investicijų sutartį, taikoma gavus Europos Komisijos pritarimą dėl lengvatos skyrimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, bet ne anksčiau kaip 2021 m. sausio 1 d. 163 dalies nuostatos taikomos juridiniams asmenims, iki 2025 m. gruodžio 31 d. sudariusiems stambių projektų investicijų sutartis.
+163. Juridinis asmuo, kuris įgyvendina stambų projektą pagal galiojančią stambaus projekto investicijų sutartį ir kurio vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti Lietuvos Respublikoje, skaičius mokestiniais metais ne mažesnis kaip 200, o privačios kapitalo investicijos į stambų projektą Lietuvos Respublikoje pasiekė ne mažesnę kaip 100 milijonų eurų sumą, ir kuris nesinaudoja šio straipsnio 16 dalies 1 ir 2 punktuose arba 162 dalyje nustatyta pelno mokesčio lengvata, nemoka pelno mokesčio pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma ir vidutinis darbuotojų skaičius buvo pasiekti. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai ne mažiau kaip 75 procentai atitinkamo mokestinio laikotarpio juridinio asmens pajamų sudaro pajamos iš duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos arba pajamos iš apdirbamosios gamybos, ir tik toms juridinio asmens pajamoms, kurios gautos įgyvendinant stambų projektą. Šioje dalyje nustatyta lengvata pajamoms iš intelektinės nuosavybės turto naudojimo netaikoma, išskyrus atvejus, kai šios pajamos atitinka šio Įstatymo 5 straipsnio 7–10 dalyse ir 30 straipsnio 1 ir 21 dalyse nustatytas sąlygas (išskyrus šio Įstatymo 5 straipsnio 7 dalyje nustatytą taikytiną pelno mokesčio tarifo dydį). Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai juridinis asmuo turi auditoriaus išvadą, patvirtinančią reikalaujamą juridinio asmens privačių kapitalo investicijų į stambų projektą dydį. Jeigu juridinio asmens privačių kapitalo investicijų į stambų projektą suma sumažėja ir nebesiekia 100 milijonų eurų, išskyrus ilgalaikio turto nusidėvėjimo arba amortizacijos sąnaudas, ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais tampa mažesnis kaip 200, lengvata netaikoma tą mokestinį laikotarpį, kurį juridinio asmens privačių kapitalo investicijų į stambų projektą suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir lengvatos taikymas atnaujinamas tą mokestinį laikotarpį, kurį juridinio asmens privačios kapitalo investicijos į stambų projektą vėl pasiekia 100 milijonų eurų ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais vėl tampa ne mažesnis kaip 200. Šioje dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą, taikoma ne ilgiau negu 20 metų nuo stambaus projekto investicijų sutarties įsigaliojimo dienos. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Europos Sąjungos teisės aktais, reglamentuojančiais valstybės pagalbos teikimą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta valstybės pagalbos teikimo ir priežiūros tvarka ir Europos Komisijos išduoto leidimo teikti valstybės pagalbą sąlygomis.
+TAR pastaba. 58 straipsnio 163 dalies nuostatos yra taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 Papildyta straipsnio dalimi:
 Nr. XIII-3213, 2020-06-30, paskelbta TAR 2020-07-03, i. k. 2020-15010
+Straipsnio dalies pakeitimai:
+Nr. XIV-726, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25844
  
 
 
@@ -5362,4 +5402,9 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 12 straipsnio pakeitim
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1664, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26368
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 31 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1681, 2022-12-15, paskelbta TAR 2022-12-23, i. k. 2022-26618
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 31 straipsnio pakeitimo įstatymas
