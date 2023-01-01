@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -458,9 +458,10 @@ Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
 
 
-4. Socialinei priežiūrai priskiriamos pagalbos į namus, socialinių įgūdžių ugdymo ir palaikymo, vaikų dienos socialinės priežiūros, laikino apnakvindinimo bei kitos paslaugos. 
+4. Socialinei priežiūrai priskiriamos pagalbos į namus, socialinių įgūdžių ugdymo ir palaikymo, vaikų dienos socialinės priežiūros, laikino apnakvindinimo, socialinės reabilitacijos neįgaliesiems bendruomenėje ir kitos paslaugos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
  
 
 
@@ -2413,6 +2414,14 @@ Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 
 
 
+13. Socialinės reabilitacijos neįgaliesiems bendruomenėje paslaugos teikiamos nemokamai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
+ 
+
+
+
+
 
 
 30 straipsnis. Asmens (šeimos) pajamos ir jų apskaičiavimas
@@ -2736,7 +2745,7 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
-2. Socialinė priežiūra šeimoms ir vaikų dienos socialinė priežiūra finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto dotacijų savivaldybių biudžetams. Kompleksinės paslaugos šeimai, jų organizavimas ir teikimas finansuojamas iš Europos Sąjungos struktūrinių fondų lėšų ir (ar) valstybės biudžeto dotacijų savivaldybių biudžetams, ir (ar) savivaldybių biudžetų lėšų.
+2. Socialinė priežiūra šeimoms, vaikų dienos socialinė priežiūra, socialinė reabilitacija neįgaliesiems bendruomenėje finansuojama iš savivaldybės biudžeto lėšų ir iš valstybės biudžeto dotacijų savivaldybių biudžetams. Kompleksinės paslaugos šeimai, jų organizavimas ir teikimas finansuojamas iš Europos Sąjungos struktūrinių fondų lėšų ir (ar) valstybės biudžeto dotacijų savivaldybių biudžetams, ir (ar) savivaldybių biudžetų lėšų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
@@ -2997,6 +3006,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 socialinių paslaugų įstatymo 
@@ -3140,3 +3151,6 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3, 4, 6, 8,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 23, 24 ir 34 straipsnių pakeitimo įstatymas
+ 
+ 
+part_af4b9d6ed9d640649b1243c8b4061e57_end
