@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2022-11-22 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -39,6 +39,11 @@ BENDROSIOS NUOSTATOS
 
 
 1. Šio įstatymo paskirtis – užtikrinti vaiko teisių ir laisvių įgyvendinimą, gynimą ir apsaugą, stiprinti tėvų ir kitų vaiko atstovų pagal įstatymą atsakomybę ir galimybes rūpintis vaiku, užtikrinti vaiko interesus, nustatyti pagalbos vaikui ir šeimai ar kitiems jo atstovams pagal įstatymą organizavimo pagrindus, atsižvelgiant į Lietuvos Respublikos Konstitucijos, Jungtinių Tautų vaiko teisių konvencijos ir Vaiko teisių deklaracijos nuostatas, apibrėžti vaiko teisių užtikrinimo ir apsaugos mechanizmus, vaiko teisių apsaugos sistemos institucijas, jų veiklos teisinius pagrindus ir bendrąsias atsakomybės už vaiko teisių pažeidimus nuostatas.
+1 dalies redakcija, įsigaliojanti nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos:
+1. Šio įstatymo paskirtis – užtikrinti vaiko teisių ir laisvių įgyvendinimą, gynimą ir apsaugą, stiprinti tėvų ir kitų vaiko atstovų pagal įstatymą atsakomybę ir galimybes rūpintis vaiku, užtikrinti vaiko interesus, nustatyti pagalbos vaikui ir šeimai ar kitiems jo atstovams pagal įstatymą organizavimo pagrindus, atsižvelgiant į Lietuvos Respublikos Konstitucijos, Jungtinių Tautų vaiko teisių konvencijos, jos fakultatyvių protokolų ir Jungtinių Tautų vaiko teisių deklaracijos nuostatas, apibrėžti vaiko teisių užtikrinimo ir apsaugos mechanizmus, vaiko teisių apsaugos sistemos institucijas, jų veiklos teisinius pagrindus ir bendrąsias atsakomybės už vaiko teisių pažeidimus nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
+ 
 
 
 
@@ -231,6 +236,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 3) teisės viršenybės – vaiko teisių apsaugą siekiama užtikrinti vadovaujantis Lietuvos Respublikos Konstitucija (toliau – Konstitucija), Jungtinių Tautų vaiko teisių konvencija, kitomis ratifikuotomis tarptautinėmis sutartimis, Lietuvos Respublikos įstatymais; 
+3 punkto redakcija, įsigaliojanti nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos:
+3) teisės viršenybės – vaiko teisių apsaugą siekiama užtikrinti vadovaujantis Konstitucija, Jungtinių Tautų vaiko teisių konvencija, jos fakultatyviais protokolais, kitomis ratifikuotomis tarptautinėmis sutartimis ir Lietuvos Respublikos įstatymais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
  
@@ -247,6 +256,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 5) nediskriminavimo – kiekvienas vaikas turi lygias su kitais vaikais teises ir negali būti diskriminuojamas dėl savo arba savo tėvų ar kitų jo atstovų pagal įstatymą lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, įsitikinimų ar pažiūrų, amžiaus, sveikatos būklės, religijos, etninės priklausomybės ar kitų aplinkybių. Kiekvienam vaikui be jokios diskriminacijos garantuojamos visos Konstitucijoje, Jungtinių Tautų vaiko teisių konvencijoje, Jungtinių Tautų Neįgaliųjų teisių konvencijoje, Jungtinių Tautų Vaiko teisių deklaracijoje išvardytos teisės ir laisvės;
+5 punkto redakcija, įsigaliojanti nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos:
+5) nediskriminavimo – kiekvienas vaikas turi lygias su kitais vaikais teises ir negali būti diskriminuojamas dėl savo arba savo tėvų ar kitų jo atstovų pagal įstatymą lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, įsitikinimų ar pažiūrų, amžiaus, sveikatos būklės, religijos, etninės priklausomybės ar kitų aplinkybių. Kiekvienam vaikui be jokios diskriminacijos garantuojamos visos Konstitucijoje, Jungtinių Tautų vaiko teisių konvencijoje, jos fakultatyviuose protokoluose, Jungtinių Tautų neįgaliųjų teisių konvencijoje ir Jungtinių Tautų vaiko teisių deklaracijoje išvardytos teisės ir laisvės;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
  
@@ -722,6 +735,14 @@ Nr. XIV-1512, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23363
 
 
 
+4. Valstybės ir savivaldybių įmonėse, įstaigose ir organizacijose, jeigu jose patvirtinta ne mažiau kaip 100 valstybės tarnautojų ir (ar) darbuotojų, dirbančių pagal darbo sutartis, pareigybių ir tie valstybės tarnautojai ir (ar) darbuotojai dirba viename ar šalia esančiuose pastatuose, turi būti įrengti vaikų valandinės priežiūros kambariai. Valstybės ir savivaldybių įmonėms, įstaigoms ir organizacijoms, jeigu jose patvirtinta mažiau kaip 100 valstybės tarnautojų ir (ar) darbuotojų, dirbančių pagal darbo sutartis, pareigybių, bei kitoms įmonėms, įstaigoms ir organizacijoms rekomenduojama įrengti vaikų valandinės priežiūros kambarius pagal poreikį. Minimalius reikalavimus, keliamus vaikų valandinės priežiūros kambariui, nustato Vyriausybė arba jos įgaliota institucija.
+Papildyta straipsnio dalimi:
+Nr. XIV-1033, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08777
+ 
+
+
+
+
 
 
 19 straipsnis. Vaikų su negalia teisės
@@ -1066,6 +1087,15 @@ VAIKAS IR SOCIALINĖ APLINKA
 8. Tėvai ar kiti vaiko atstovai pagal įstatymą turi teisę skųsti teismui Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus darbuotojų, policijos pareigūnų ar kitų valdžios institucijų darbuotojų neteisėtus veiksmus ir sprendimus, taip pat turi teisę kreiptis į vaiko teisių apsaugos kontrolierių ir kitas institucijas, turinčias teisę nagrinėti tokius skundus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+ 
+
+
+
+
+9. Vaikas (vaikai) pats (patys) ar per kitą (kitus) asmenį (asmenis), veikiantį (veikiančius) jo (jų) vardu, turi teisę kreiptis į Jungtinių Tautų Vaiko teisių komitetą dėl vaiko teisių, įtvirtintų Jungtinių Tautų vaiko teisių konvencijoje ir (ar) jos fakultatyviuose protokoluose, pažeidimo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros nustatyta tvarka.
+TAR pastaba. 29 straipsnio papildymas 9 dalimi įsigalioja nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
  
 
 
