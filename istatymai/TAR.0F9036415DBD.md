@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2022-11-30 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -145,9 +145,10 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 
-16. Vidutinis šalies darbo užmokestis (toliau – VDU) – Lietuvos statistikos departamento paskelbtas užpraeitų metų III ir IV ketvirčių ir praėjusių metų I ir II ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis). VDU tvirtinamas atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
+16. Vidutinis šalies darbo užmokestis (toliau – VDU) – Valstybės duomenų agentūros paskelbtas užpraeitų metų III ir IV ketvirčių ir praėjusių metų I ir II ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis). VDU tvirtinamas atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
  
 
 
@@ -343,10 +344,11 @@ Nr. XIV-1366, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15461
 
 
 
-5. Profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) siųsti į profesinį mokymą ar profesinę reabilitaciją, – jų profesinės veiklos praktikos įstaigoje ar įmonėje laikotarpiu, taip pat asmenys, kurie mokosi pataisos pareigūnų profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai) arba mokosi vidaus reikalų profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai), arba atlieka karo tarnybą studijuodami karo mokymo įstaigoje (kariūnai), – jų mokymosi ir pratybų laikotarpiu valstybės lėšomis draudžiami tik nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
+5. Profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) siųsti į profesinį mokymą ar profesinę reabilitaciją, – jų profesinės veiklos praktikos įstaigoje ar įmonėje laikotarpiu, taip pat asmenys, kurie mokosi bausmių vykdymo sistemos profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai) arba mokosi vidaus reikalų profesinio mokymo įstaigoje ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai), arba atlieka karo tarnybą studijuodami karo mokymo įstaigoje (kariūnai), – jų mokymosi ir pratybų laikotarpiu valstybės lėšomis draudžiami tik nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-947, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21639
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
+Nr. XIV-1228, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15594
  
 
 
@@ -874,7 +876,10 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 
 
-4) yra laisvės atėmimo vietose arba jiems Baudžiamojo kodekso nustatyta tvarka teismo nuosprendžiu yra paskirtos priverčiamosios stacionarinio stebėjimo medicinos priemonės ar auklėjamojo poveikio priemonės specializuotose psichikos sveikatos priežiūros įstaigose;
+4) yra laisvės atėmimo vietų įstaigoje arba jiems Baudžiamojo kodekso nustatyta tvarka teismo nuosprendžiu yra paskirtos priverčiamosios stacionarinio stebėjimo medicinos priemonės ar auklėjamojo poveikio priemonės specializuotose psichikos sveikatos priežiūros įstaigose;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1228, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15594
+ 
 
 
 
@@ -1063,7 +1068,7 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-4) Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokos, netekto darbingumo vienkartinės ir periodinės kompensacijos bei vienkartinės ir periodinės draudimo išmokos apdraustajam mirus.
+4) Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokos, netekto darbingumo vienkartinės ir periodinės kompensacijos bei periodinės draudimo išmokos apdraustajam mirus.
 
 
 
@@ -1078,7 +1083,12 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-2) Ligos ir motinystės socialinio draudimo įstatyme nustatytos išmokos dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino bei motinystės, tėvystės ir vaiko priežiūros išmokų skirtumai, mokami dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino dėl COVID-19 ligos (koronaviruso infekcijos) ir (ar) jos plitimo grėsmės. 
+2) Ligos ir motinystės socialinio draudimo įstatyme nustatytos išmokos dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino bei motinystės, tėvystės ir vaiko priežiūros išmokų skirtumai mokami dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino dėl COVID-19 ligos (koronaviruso infekcijos) ir (ar) jos plitimo grėsmės;
+
+
+
+
+3) Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės draudimo išmokos apdraustajam mirus. 
 
 
 
@@ -2072,7 +2082,10 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 31 straipsnis. Fondo valdyba 
 
 
-1. Fondo valdyba yra viešojo administravimo įstaiga, organizuojanti socialinį draudimą ir vykdanti operatyvų Fondo lėšų tvarkymą ir apskaitą, užtikrindama priskaičiuotų socialinio draudimo įmokų sumų, baudų, delspinigių surinkimą į Fondą ir jų išieškojimą, teisingą duomenų apie apdraustuosius asmenis tvarkymą bei įstatymuose nustatytų socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, paskyrimą ir mokėjimą gavėjams, taip pat vykdanti valstybės informacinių technologijų paslaugų teikėjo funkcijas. Fondo valdyba užtikrina Fondo lėšų naudojimo teisėtumą, ekonomiškumą, efektyvumą ir rezultatyvumą. Fondo valdyba yra biudžetinė įstaiga, turinti antspaudą su savo pavadinimu ir Lietuvos valstybės herbu, spaudą su savo pavadinimu ir įstatymų nustatyta tvarka patvirtinta simbolika, specialiųjų lėšų sąskaitas Lietuvos Respublikoje registruotose kredito įstaigose ir sudaranti Fondo konsoliduotųjų ataskaitų rinkinį.
+1. Fondo valdyba yra viešojo administravimo įstaiga, organizuojanti socialinį draudimą ir vykdanti operatyvų Fondo lėšų tvarkymą ir apskaitą, užtikrindama priskaičiuotų socialinio draudimo įmokų sumų, baudų, delspinigių surinkimą į Fondą ir jų išieškojimą, teisingą duomenų apie apdraustuosius asmenis tvarkymą ir įstatymuose nustatytų socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, paskyrimą ir mokėjimą gavėjams, taip pat vykdanti valstybės informacinių technologijų paslaugų teikėjo funkcijas. Fondo valdyba užtikrina Fondo lėšų naudojimo teisėtumą, ekonomiškumą, efektyvumą ir rezultatyvumą. Fondo valdyba yra biudžetinė įstaiga, turinti antspaudą su savo pavadinimu ir Lietuvos valstybės herbu, spaudą su savo pavadinimu ir įstatymų nustatyta tvarka patvirtinta simbolika, sąskaitas valstybės ižde ir (arba), kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, finansų įstaigose ir sudaranti Fondo konsoliduotųjų ataskaitų rinkinį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-658, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24260
+ 
 
 
 
@@ -2347,7 +2360,9 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 
-4. Fondo valdybos teritoriniai skyriai yra biudžetinės įstaigos, turinčios antspaudą su savo pavadinimu ir Lietuvos valstybės herbu, spaudą su savo pavadinimu ir įstatymų nustatyta tvarka patvirtinta simbolika, specialiųjų lėšų sąskaitas Lietuvos Respublikoje registruotose kredito įstaigose ir sudarančios Fondo valdybos atitinkamo teritorinio skyriaus finansinių ir biudžeto vykdymo ataskaitų rinkinius.
+4. Fondo valdybos teritoriniai skyriai yra biudžetinės įstaigos, turinčios antspaudą su savo pavadinimu ir Lietuvos valstybės herbu, spaudą su savo pavadinimu ir įstatymų nustatyta tvarka patvirtinta simbolika, sąskaitas valstybės ižde ir (arba), kaip nustatyta Valstybės iždo įstatyme, finansų įstaigose ir sudarančios Fondo valdybos atitinkamo teritorinio skyriaus finansinių ir biudžeto vykdymo ataskaitų rinkinius. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-658, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24260
  
 
 
@@ -3672,3 +3687,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 12 ir 19 straipsnių pakeitimo įstatymas
+ 
+47.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1228, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15594
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir 11 straipsnių pakeitimo įstatymas
