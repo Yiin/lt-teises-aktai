@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2635, i. k. 1021010ISTA00IX-975
  
@@ -1223,7 +1223,9 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
 
 
-6. Jeigu indėlių draudimo išmokoms mokėti Indėlių draudimo fonde trūksta finansinių išteklių, indėlių draudimo išmokos gali būti mokamos iš šių lėšų šaltinių:
+6. Jeigu indėlių draudimo išmokoms mokėti nepakanka alternatyvaus draudimo išmokų mokėjimo šaltinio ar alternatyvaus draudimo išmokų šaltinio lėšos nenaudojamos ir (ar) Indėlių draudimo fonde trūksta finansinių išteklių, indėlių draudimo išmokos gali būti mokamos iš šių lėšų šaltinių: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 
 
 1) indėlių draudimo sistemos dalyvių specialiųjų (ex post) indėlių draudimo įmokų, surinktų šio įstatymo 14 straipsnyje nustatyta tvarka;
@@ -1368,9 +1370,81 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
 
 15. Indėlių draudimo fondo buhalterinę apskaitą tvarko ir finansinių ataskaitų rinkinius rengia draudimo įmonė šio įstatymo 45 straipsnyje nustatyta tvarka. 
+
+
+
+
+
+
+161 straipsnis. Alternatyvus draudimo išmokų mokėjimo šaltinis
+
+
+1. Indėlių draudimo išmokoms išmokėti gali būti naudojami ir indėlių draudimo sistemos dalyvio, kuriam įvyko indėlių draudžiamasis įvykis, pinigai ir likvidus turtas, kuris šiame straipsnyje suprantamas kaip likvidus turtas, kurį galima parduoti už pinigus per ne ilgesnį negu indėlių draudimo išmokų išmokėjimo terminą, nustatytą šio įstatymo 7 straipsnio 2 dalyje (toliau kartu – likvidus turtas). Indėlių draudimo išmokų išmokėjimas naudojant indėlių draudimo sistemos dalyvio likvidų turtą laikomas privaloma vykdyti prievole, vykdytina ir tuo atveju, kai šiam dalyviui iškeliama bankroto byla.
+
+
+
+
+2. Įvykus indėlių draudžiamajam įvykiui, draudimo įmonės taryba įvertina šio straipsnio 3 dalyje nurodytą indėlių draudimo sistemos dalyvio pateiktą informaciją, parengia išvadą, ar indėlių draudimo sistemos dalyvio turimo likvidaus turto pakanka draudimo išmokoms išmokėti, ir šią išvadą kartu su priežiūros institucijos draudimo įmonei pagal Lietuvos banko įstatymo 43 straipsnio 7 dalies 4 punktą pateikta informacija per 2 darbo dienas nuo indėlių draudžiamojo įvykio dienos pateikia draudimo įmonės savininko teises ir pareigas įgyvendinančiai institucijai. 
+
+
+
+
+3. Indėlių draudimo sistemos dalyvis, kuriam įvyko indėlių draudžiamasis įvykis, per vieną darbo dieną nuo draudžiamojo įvykio paskelbimo dienos parengia ir pateikia draudimo įmonei draudžiamojo įvykio paskelbimo dienos informaciją apie:
+
+
+1) turimą visą turtą, išskirdamas likvidų turtą;
+
+
+
+
+2) kreditorių, kurių reikalavimai būtų tenkinami pirmąja eile, reikalavimų sumą;
+
+
+
+
+3) atlygio nemokumo administratoriui už bankroto proceso administravimą sumą; 
+
+
+
+
+4) kitas būtinas vykdyti prievoles, nurodytas Bankų įstatymo 76 straipsnio 5 dalyje, Centrinių kredito unijų įstatymo 59 straipsnyje ir Kredito unijų įstatymo 75 straipsnio 13 dalyje.
+
+
+
+
+
+
+4. Draudimo įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus sprendimą dėl indėlių draudimo sistemos dalyvio, kuriam įvyko indėlių draudžiamasis įvykis, likvidaus turto naudojimo, kaip tai nustatyta šio straipsnio 7 dalyje, draudimo įmonė indėlių draudimo išmokoms mokėti turi teisę naudoti indėlių draudimo sistemos dalyvio, kuriam įvyko indėlių draudžiamasis įvykis, likvidų turtą. Jeigu indėlių draudimo sistemos dalyvio, kuriam įvyko indėlių draudžiamasis įvykis, likvidaus turto, naudotino kaip alternatyvaus draudimo išmokų mokėjimo šaltinio, sumos, apskaičiuotos šio straipsnio 5 dalyje nustatyta tvarka, nepakanka indėlių draudimo išmokoms išmokėti, skirtumas sumokamas naudojant Indėlių draudimo fondo lėšas.
+
+
+
+
+5. Indėlių draudimo išmokoms išmokėti naudotina alternatyvaus draudimo išmokų mokėjimo šaltinio suma apskaičiuojama iš visos indėlių draudimo sistemos dalyvio, kuriam įvyko indėlių draudžiamasis įvykis, likvidaus turto sumos atimant šio straipsnio 3 dalies 2, 3 ir 4 punktuose nurodytas sumas.
+
+
+
+
+6. Indėlių draudimo išmokoms išmokėti panaudota alternatyvaus draudimo išmokų mokėjimo šaltinio suma negali viršyti indėlių draudimo sistemos dalyvio, kuriam įvyko indėlių draudžiamasis įvykis, apdraustųjų indėlių sumos.
+
+
+
+
+7. Draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija, atsižvelgusi į draudimo įmonės išvadą ir priežiūros institucijos pagal Lietuvos banko įstatymo 43 straipsnio 7 dalies 4 punktą draudimo įmonei pateiktą informaciją, per vieną darbo dieną priima sprendimą dėl indėlių draudimo sistemos dalyvio, kuriam įvyko indėlių draudžiamasis įvykis, likvidaus turto naudojimo indėlių draudimo išmokoms mokėti. Draudimo įmonės alternatyvaus draudimo išmokų šaltinio panaudojimas prilygsta indėlių draudimo išmokos išmokėjimui.
+
+
+
+
+8. Draudimo įmonė per vieną darbo dieną nuo šio straipsnio 7 dalyje nurodyto sprendimo priėmimo momento informuoja indėlių draudimo sistemos dalyvį, kuriam įvyko indėlių draudžiamasis įvykis, apie draudimo įmonės savininko teises ir pareigas įgyvendinančios institucijos priimtą sprendimą, kurio pagrindu jis nedelsdamas, ne vėliau kaip per 2 darbo dienas, imasi visų būtinų veiksmų likvidžiam turtui, išskyrus pinigus, realizuoti.
+
+
+
+
+9. Indėlių draudimo išmokos gali būti išmokamos per indėlių draudimo sistemos dalyvio, kuriam įvyko indėlių draudžiamasis įvykis, mokėjimų platformą, kurią šis indėlių draudimo sistemos dalyvis naudojo iki draudžiamojo įvykio.
+
+
+Papildyta straipsniu:
+Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
  
-
-
 
 
 
@@ -2958,7 +3032,7 @@ Tam tikriems indėliams taikomos išimtys nurodytos valstybės įmonės „Indė
  
 
 
-part_8172711e7be54fd19ac28f3dcade05df_end
+part_093aa78aab5f4ea094af70de088e3fe7_end
 
 
  
@@ -3082,3 +3156,8 @@ Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 23, 26, 28, 32, 33, 35, 40, 41, 42, 46 straipsnių, šeštojo skirsnio pavadinimo ir 2 priedo pakeitimo ir 5, 47 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 6, 7, 10, 11, 12, 13, 14, 16, 17, 18, 22, 23, 25, 26, 27, 28, 29, 30, 38, 39, 40, 42, 43, 45 straipsnių, penktojo, šeštojo skirsnių pavadinimų ir 1 priedo pakeitimo, Įstatymo papildymo 16-1, 48 straipsniais ir 36, 37, 41 straipsnių pripažinimo netekusiais galios įstatymas
