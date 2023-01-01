@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2022-05-05 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-06-26
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -253,28 +253,27 @@ Nacionalinio saugumo užtikrinimo subjektai yra:
 
 
 
-TrečiasIS skirsnis
-NACIONALINIO SAUGUMO UŽTIKRINIMO BŪDAI 
- 
-Nacionalinį saugumą užtikrina: 
-a) VALSTYBĖ: 
+TREČIASIS SKIRSNIS
+NACIONALINIO SAUGUMO UŽTIKRINIMO BŪDAI
+Nacionalinį saugumą užtikrina:
+a) VALSTYBĖ:
 – prognozuodama (numatydama) iššūkius saugumui, rizikos veiksnius, pavojus bei galinčias kilti grėsmes;
-– vykdydama rizikos veiksnius, pavojus ir grėsmes mažinančią vidaus ir užsienio politiką; 
-– patikimai kontroliuodama valstybės sausumos ir jūros sienas bei oro erdvę; 
-– garantuodama pasirengimą besąlygiškai gynybai ir visuotiniam pilietiniam pasipriešinimui agresijos atveju; 
-– stiprindama nacionalinio saugumo bei gynybos institucijas ir tobulindama jų veiklą; 
-– rengdama gynybai kariuomenę ir jos mobilizacinį rezervą pagal nacionalinius ir NATO kolektyvinės gynybos planus;
-– rengdama ir vykdydama ilgalaikes valstybines saugumo stiprinimo programas; 
-– integruodamasi į Europos Sąjungą (EU) ir Šiaurės Atlanto sutarties organizaciją (NATO) bei kaip visateisė narė aktyviai dalyvaudama šiose organizacijose;
-b) PILIEČIAI: 
-- saugodami tautines vertybes ir ugdydami pasiryžimą ginti Lietuvos laisvę; 
-- rengdamiesi visuotiniam pilietiniam pasipriešinimui; 
-- plėtodami visuomenės institutus, piliečių susivienijimų ir draugijų veiklą. 
+– vykdydama rizikos veiksnius, pavojus ir grėsmes mažinančią vidaus ir užsienio politiką;
+– užtikrindama gyvybiškai svarbių valstybės funkcijų, kurių neatliekant kyla grėsmė valstybės ir visuomenės saugumui ir stabilumui, vykdymą ekstremaliųjų situacijų, kitų krizių ir mobilizacijos atvejais;
+– patikimai kontroliuodama valstybės sausumos ir jūros sienas bei oro erdvę;
+– garantuodama pasirengimą besąlygiškai gynybai ir visuotiniam pilietiniam pasipriešinimui agresijos atveju;
+– stiprindama nacionalinio saugumo bei gynybos institucijas ir tobulindama jų veiklą, 
+– rengdama gynybai kariuomenę ir jos mobilizacinį rezervą pagal nacionalinius ir Šiaurės Atlanto sutarties organizacijos (NATO) kolektyvinės gynybos planus;
+– rengdama ir vykdydama ilgalaikes valstybines saugumo stiprinimo programas;
+– integruodamasi į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją bei kaip visateisė narė aktyviai dalyvaudama šiose organizacijose;
+b) PILIEČIAI:
+– saugodami tautines vertybes ir ugdydami pasiryžimą ginti Lietuvos laisvę;
+– rengdamiesi visuotiniam pilietiniam pasipriešinimui;
+– plėtodami visuomenės institutus, piliečių susivienijimų ir draugijų veiklą.
 Nacionalinio saugumo institucijos veikia ir plėtojamos, saugumo stiprinimo priemonės rengiamos ir vykdomos vadovaujantis demokratinės kontrolės principais.
 Valstybės institucijų vykdomas nacionalinio saugumo priemones nustato šis įstatymas, Nacionalinio saugumo strategija, ilgalaikės valstybinės saugumo stiprinimo programos bei kiti teisės aktai. Šioms priemonėms finansuoti naudojamos nacionalinio biudžeto, kreditų bei paramos lėšos.
 Skirsnio pakeitimai:
-Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
  
 
 
@@ -308,7 +307,7 @@ SVARBIAUSIOS NACIONALINĮ SAUGUMĄ UŽTIKRINANČIOS LIETUVOS  VIDAUS POLITIKOS N
  
 VIDAUS SAUGUMO UŽTIKRINIMO POLITIKA
  
-Lietuvos Respublikos vidaus politika yra orientuota į vidaus ekonominio ir socialinio stabilumo stiprinimą. Vidaus politika turi būti grindžiama teisingumu ir teisėtumu, turi ugdyti tautinę savimonę, pilietiškumą, pagarbą Konstitucijai ir pasitikėjimą nacionaliniais institutais, užtikrinti visų savo piliečių ir kitų jos jurisdikcijai priklausančių asmenų tarptautinės teisės pripažintas žmogaus teises.
+Lietuvos Respublikos vidaus politika yra orientuota į vidaus ekonominio ir socialinio stabilumo stiprinimą. Vidaus politika turi būti grindžiama teisingumu ir teisėtumu, turi ugdyti tautinę savimonę, pilietiškumą, pagarbą Konstitucijai ir pasitikėjimą nacionaliniais institutais, užtikrinti visų savo piliečių ir kitų jos jurisdikcijai priklausančių asmenų tarptautinės ir nacionalinės teisės pripažintas žmogaus teises.
 Valstybės vidaus politika privalo garantuoti saugią aplinką ir viešąją tvarką, sukurti palankias prielaidas piliečių švietimui, jų socialiniam ir kultūriniam aktyvinimui, įvairiapusei visuomenės pažangai bei valstybės gamtinės aplinkos apsaugai. Valstybė turi sukurti tinkamas sąlygas ekonomikos augimui, kaip pagrindinei aukštesnio gyventojų gyvenimo lygio užtikrinimo sąlygai. 
 Valstybės valdžia privalo apsaugoti Lietuvą nuo užsienio valstybių slaptųjų tarnybų ir jų priedangos struktūrų bei teroristinių organizacijų ardomosios veiklos, teroro aktų ir sukliudyti tokioms organizacijoms pasinaudoti Lietuvos Respublikos teritorija arba kaip tranzito valstybe ardomajai veiklai ar teroro aktams prieš kitas valstybes.
  
@@ -343,7 +342,7 @@ KULTŪROS POLITIKA
  
 Valstybės pareiga išsaugoti ir puoselėti nacionalinės kultūros tapatumą, užtikrinant lietuvių kalbos apsaugą ir tęstinumą, globojant etninę kultūrą ir vietos tradicijas, saugant kultūros paveldą. Valstybė remia užsienio lietuvių bendruomenių pastangas išsaugoti tautinį tapatumą, rūpinasi Lietuvoje gyvenančių tautinių bendrijų kultūra, remia profesionalųjį meną, užtikrina meno ir kūrybos sklaidą ir plėtrą.
 Valstybė sudaro sąlygas visuomenei dalyvauti kultūroje, ją vartoti, įgyvendina regioninę kultūros politiką, laikydamasi decentralizacijos principo. Remdama kultūros demokratiškumo ir atvirumo principus, valstybė privalo apsaugoti kultūros raidą nuo griaunančio antihumanistinio poveikio.
-Valstybė sudaro ekonomines, technologines ir teisines sąlygas kultūros paveldo apsaugai, skatina savininkus investuoti į kultūros paveldo apsaugą. Valstybės parengia priemones, užtikrinančias kultūros paveldo apsaugą ekstremalių situacijų (teroro aktų, gaisrų, potvynių, avarijų ir kitais) atvejais.
+Valstybė sudaro ekonomines, technologines ir teisines sąlygas kultūros paveldo apsaugai, skatina savininkus investuoti į kultūros paveldo apsaugą. Valstybė parengia priemones, užtikrinančias kultūros paveldo apsaugą ekstremaliųjų situacijų ir kitų krizių atvejais.
  
 ŠVIETIMO IR MOKSLO POLITIKA
  
@@ -360,7 +359,7 @@ Valstybė vykdo aplinkos taršos ir kitokio neigiamo poveikio aplinkai bei žmon
 SVEIKATOS POLITIKA
  
 Valstybė turi užtikrinti palankias sąlygas gyventojų sveikatai, jos saugojimui ir stiprinimui. Valstybės sveikatos politika turi sudaryti prielaidas šiuolaikinei visuomenės sveikatos priežiūros sistemai, garantuojančiai sveiką gyvenseną bei aplinką, prieinamą ir tinkamą sveikatos priežiūrą. Svarbi sveikatos politikos kryptis – užtikrinti ligų prevenciją, ypatingą dėmesį skiriant epidemijų, priklausomybės ligų (narkomanijos, alkoholizmo, toksikomanijos ir kitų) profilaktikai bei žmogaus imunodeficito viruso ir kitų pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikai ir kontrolei. 
-Svarbus valstybės uždavinys – sukurti, palaikyti ir plėtoti visuomenės sveikatos rizikos veiksnių bei pavojų stebėsenos, visuomenės sveikatos ekspertizės, greito sveikatos informacijos perdavimo ir reagavimo į grėsmes visuomenės sveikatai, ekstremalių sveikatai situacijų prevencijos ir jų padarinių mažinimo bei šalinimo sistemas, tobulinti Lietuvos nacionalinės sveikatos sistemos pasirengimą bei veiklą krizių ir ekstremalių situacijų atvejais. 
+Svarbus valstybės uždavinys – sukurti, palaikyti ir plėtoti visuomenės sveikatos rizikos veiksnių bei pavojų stebėsenos, visuomenės sveikatos ekspertizės, greito sveikatos informacijos perdavimo ir reagavimo į grėsmes visuomenės sveikatai, ekstremalių sveikatai situacijų prevencijos ir jų padarinių mažinimo bei šalinimo sistemas, tobulinti Lietuvos nacionalinės sveikatos sistemos pasirengimą bei veiklą ekstremaliųjų situacijų ir kitų krizių atvejais. 
 Vyriausybė užtikrina valstybės sveikatos politikos formavimo ir įgyvendinimo mechanizmus.
  
 TAUTINĖ POLITIKA
@@ -374,6 +373,7 @@ Nr. X-1598, 2008-06-12, Žin., 2008, Nr. 73-2797 (2008-06-27)
 Skyriaus pakeitimai:
 Nr. XIII-1004, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01017
 Nr. XIII-3118, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15355
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
  
 
 
@@ -658,27 +658,26 @@ NACIONALINĮ SAUGUMĄ UŽTIKRINANČIOS INSTITUCIJOS IR JŲ VEIKLA
  
 
 
-12 skyrius
-NACIONALINĮ SAUGUMĄ UŽTIKRINANČIOS INSTITUCIJOS 
+12 SKYRIUS
+NACIONALINĮ SAUGUMĄ UŽTIKRINANČIOS INSTITUCIJOS
  
 VADOVAUJANČIOS INSTITUCIJOS:
-Valstybės aukščiausiosios vadovaujančios institucijos, kurios vadovauja nacionalinio saugumo užtikrinimui, yra Seimas, Respublikos Prezidentas ir Vyriausybė. 
+Valstybės aukščiausiosios vadovaujančios institucijos, kurios vadovauja nacionalinio saugumo užtikrinimui, yra Seimas, Respublikos Prezidentas ir Vyriausybė.
 VYKDOMOSIOS IR KITOS INSTITUCIJOS:
-– Valstybės gynimo taryba; 
+– Valstybės gynimo taryba;
+– Nacionalinio saugumo komisija;
+– Nacionalinis krizių valdymo centras;
 – Užsienio reikalų ministerija;
 – Krašto apsaugos ministerija ir kitos krašto apsaugos ministrui pavaldžios krašto apsaugos sistemos institucijos;
-– kariuomenė; 
+– kariuomenė;
 – Vidaus reikalų ministerija, policija, Valstybės sienos apsaugos tarnyba ir kitos ministerijos valdymo sričiai priklausančios viešąjį saugumą užtikrinančios įstaigos;
 – Valstybės saugumo departamentas;
 – Specialiųjų tyrimų tarnyba;
 – Vadovybės apsaugos tarnyba;
-– kitos ministerijos ir valstybės bei savivaldybių institucijos pagal savo kompetenciją. 
-Skyriaus pakeitimai:
-Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr. 92-2849 (2000 10 31)
-Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+– kitos ministerijos ir valstybės bei savivaldybių institucijos pagal savo kompetenciją.
 Skyriaus pakeitimai:
 Nr. XIII-2914, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10914
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
  
 
 
@@ -709,31 +708,29 @@ PAGRINDINIAI VYRIAUSYBĖS UŽDAVINIAI
 Vyriausybė saugo Lietuvos Respublikos teritorijos neliečiamybę, garantuoja valstybės saugumą ir viešąją tvarką. Vyriausybė koordinuoja nacionalinį saugumą stiprinančių priemonių įgyvendinimą bei ministerijų ir kitų valstybės įstaigų, atliekančių šias funkcijas, veiklą, sutelkia šias įstaigas aktualiems ir svarbiems nacionalinio saugumo uždaviniams spręsti. 
 Vyriausybė yra atsakinga už strateginį nacionalinio saugumo planavimą. Vyriausybė, vadovaudamasi šio įstatymo, Nacionalinio saugumo strategijos ir kitų planavimo dokumentų nuostatomis, seka ir prognozuoja tarptautinės ir vidinės saugumo aplinkos pokyčius, rizikos veiksnių, pavojų bei grėsmių atsiradimą ir vystymąsi, Konstitucijos ir įstatymų nustatyta tvarka imasi būtinų atsako priemonių arba, jeigu to reikalauja įstatymai, pateikia šias priemones svarstyti Seimui, Respublikos Prezidentui, Valstybės gynimo tarybai.
 Vyriausybė yra atsakinga už valstybinės informacijos valdymo ir apsaugos užtikrinimo sistemos sukūrimą ir jos funkcionavimą. 
-Vyriausybė užtikrina, kad visos civilinės valstybės institucijos ir Lietuvos ūkio infrastruktūros objektai būtų parengti privalomiems gynybos bei civilinės saugos uždaviniams vykdyti. 
+Vyriausybė užtikrina, kad visos civilinės valstybės institucijos ir Lietuvos ūkio infrastruktūros objektai būtų parengti privalomiems gynybos, krizių valdymo ir civilinės saugos sistemos bei mobilizacijos uždaviniams vykdyti. 
 Vyriausybė, teikdama Seimui metinę ataskaitą, dalyje apie nacionalinio saugumo būklę ir plėtrą pateikia informaciją apie šio įstatymo, Nacionalinio saugumo strategijos bei ilgalaikių valstybinių saugumo stiprinimo programų įgyvendinimą, taip pat pateikia informaciją apie tarptautinės ir vidaus saugumo aplinkos pokyčius, esamus rizikos veiksnius, pavojus ir grėsmes, jų atsiradimą, vystymąsi bei informaciją apie įgyvendinamas priemones neutralizuojant grėsmes, rizikos veiksnius bei pavojus. 
 Skirsnio pakeitimai:
 Nr. XIII-3118, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15355
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
  
 
 
 
 
 ANTRASIS SKIRSNIS
-KRIZIŲ VALDYMAS
+KRIZIŲ valdymo ir civilinės saugos sistema
  
-Krizių valdymo sistema kuriama ir plėtojama grėsmę nacionaliniam saugumui keliantiems reiškiniams prognozuoti, stebėti, prevencinėms priemonėms parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti.
-Klausimus dėl grėsmių prevencijos svarsto ir krizių valdymą koordinuoja Vyriausybės sudaroma Nacionalinio saugumo komisija, kuriai vadovauja Ministras Pirmininkas. Prireikus Nacionalinio saugumo komisija, atsižvelgdama į krizės pobūdį, siūlo Vyriausybei paskirti už krizės valdymą atsakingą instituciją, kuri kartu su Jungtine grėsmių prevencijos ir krizių valdymo grupe, sudaryta iš Vyriausybės kanceliarijos, atitinkamų ministerijų ir kitų valstybės institucijų bei įstaigų atstovų, imasi krizės valdymo ir jos padarinių likvidavimo koordinavimo veiksmų. Jungtinės grėsmių prevencijos ir krizių valdymo grupės sudėtį ir nuostatus tvirtina Vyriausybė.
-Seimo nutarimu tvirtinamoje Nacionalinio saugumo strategijoje apibrėžtų grėsmių prevenciją ir pasirengimą valdyti krizes koordinuoja Vyriausybės kanceliarija  kartu su Jungtine grėsmių prevencijos ir krizių valdymo grupe. Grėsmių prevencija vykdoma Vyriausybės nustatyta grėsmių nacionaliniam saugumui stebėjimo, vertinimo ir perspėjimo apie grėsmes tvarka. Vyriausybės kanceliarija koordinuoja  grėsmių prevencijos bei krizių valdymo planų ir priemonių rengimą; ministerijos ir kitos valstybės institucijos bei įstaigos pagal savo kompetenciją rengia šiuos planus ir priemones, numatydamos veiksmų koordinavimą su kitomis institucijomis. Integralius krizių valdymo planus ir priemones tvirtina Vyriausybė.
-Krizių valdymą reglamentuoja įstatymai ir kiti teisės aktai. 
-Skyriaus pakeitimai:
-Nr. VIII-1778, 2000 06 29, Žin., 2000, Nr. 58-1710 (2000 07 19)
-Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
-Nr. XI-125, 2008-12-23, Žin., 2008, Nr. 149-6045 (2008-12-30)
-Nr. XI-480, 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
-Nr. XII-161, 2013-01-17, Žin., 2013, Nr. 11-505 (2013-01-30)
+Krizių valdymo ir civilinės saugos sistema kuriama ir plėtojama grėsmę Lietuvos Respublikos nacionaliniam saugumui keliantiems reiškiniams prognozuoti, stebėti, prevencinėms priemonėms parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti, siekiant apsaugoti gyventojus nuo nelaimių karo ir taikos metu, jiems patiems šioje veikloje aktyviai dalyvaujant. Ši sistema užtikrina visų valstybės ir savivaldybių institucijų ir įstaigų, ūkio subjektų, savanorių parengtį ir prevencinius veiksmus, o ekstremaliųjų situacijų, kitų krizių ir ginkluoto užpuolimo atvejais – krašto gyventojų perspėjimą ir informavimą, jų gyvybės ir turto apsaugą, reikalingą neatidėliotiną pagalbą ir evakuaciją iš pavojingų rajonų. 
+Strateginius klausimus dėl Seimo nutarimu tvirtinamoje Nacionalinio saugumo strategijoje apibrėžtų rizikos veiksnių, pavojų ir grėsmių Lietuvos Respublikos nacionalinio saugumo interesams prevencijos, pasirengimo valdyti krizes ir krizių valdymo svarsto ir pasiūlymus dėl būtinų sprendimų Vyriausybei teikia Vyriausybės sudaroma Nacionalinio saugumo komisija, kuriai vadovauja Ministras Pirmininkas. 
+Prireikus Nacionalinio saugumo komisija, atsižvelgdama į krizės pobūdį, siūlo Vyriausybei priimti sprendimą, kad būtina imtis krizės valdymo veiksmų. Vyriausybei priėmus sprendimą, kad būtina imtis krizės valdymo veiksmų, Nacionalinis krizių valdymo centras imasi krizės valdymo ir jos padarinių šalinimo organizavimo ir koordinavimo veiksmų.
+Rizikos veiksnių, pavojų ir grėsmių Lietuvos Respublikos nacionalinio saugumo interesams stebėseną, grėsmių vertinimą ir prognozavimą atlieka, jų prevenciją ir pasirengimą valdyti krizes koordinuoja Nacionalinis krizių valdymo centras.
+Nacionalinis krizių valdymo centras koordinuoja grėsmių prevencijos bei krizių ir ekstremaliųjų situacijų valdymo planų ir priemonių rengimą; ministerijos ir kitos valstybės institucijos bei įstaigos pagal savo kompetenciją rengia šiuos planus ir priemones.
+Ekstremaliosioms situacijoms ir kitoms krizėms likviduoti, jų padariniams šalinti, gelbėjimo ir kitiems neatidėliotiniems darbams vykdyti gali būti pasitelkiama kariuomenė, specialistai iš ministerijų, kitų valstybės ir savivaldybių institucijų bei įstaigų, panaudojami joms priklausantys ištekliai, pasitelkiami ūkio subjektai ir savanoriai.
+Krizių valdymą ir civilinę saugą reglamentuoja įstatymai ir kiti teisės aktai.
 Skirsnio pakeitimai:
 Nr. XIII-2255, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10925
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
  
 
 
@@ -867,7 +864,7 @@ Viešojo saugumo tarnybos paskirtis – atkurti ir (ar) užtikrinti viešąją t
 Valstybės finansų sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Šios tarnybos teisinį statusą ir veiklos pagrindus nustato įstatymas.
 Valstybės sienos apsaugos tarnybos paskirtis – įgyvendinti valstybės sienos apsaugą ir jos kirtimo kontrolę, o karo padėties ar ginkluotos gynybos nuo agresijos (karo) metu – priklausant ginkluotosioms pajėgoms ginti valstybę.
 Valstybės sienos apsaugos tarnyba, Viešojo saugumo tarnyba įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu tampa ginkluotųjų pajėgų dalimi.
-Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos organizuoja ir koordinuoja civilinę saugą, priešgaisrinę saugą ir gelbėjimo darbus.
+Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos įgyvendina įstatymų nustatytus krizių valdymo ir civilinės saugos sistemos uždavinius, organizuoja ir koordinuoja priešgaisrinę saugą ir gelbėjimo darbus.
 Policija, Valstybės sienos apsaugos tarnyba ir kitos Vidaus reikalų ministerijos valdymo sričiai priklausančios viešąjį saugumą užtikrinančios įstaigos formuojamos statutinės valstybės tarnybos pagrindais. 
 Skyriaus pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr. 92-2849 (2000 10 31)
@@ -880,6 +877,7 @@ Skyriaus pakeitimai:
 Nr. XII-1284, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15004
 Nr. XIII-2914, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10914
 Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
  
 
 
@@ -889,7 +887,7 @@ Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
 VALSTYBĖS SAUGUMO DEPARTAMENTAS
  
 Valstybės saugumo departamentas yra Seimui ir Respublikos Prezidentui atskaitinga institucija, kurios paskirtis – apsaugoti nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę santvarką.
-Valstybės saugumo departamento uždaviniai – vykdyti žvalgybą ir kontržvalgybą, tirti, analizuoti ir prognozuoti visuomeninius politinius bei ekonominius procesus, susijusius su grėsmėmis nacionaliniam saugumui; laiku atskleisti veikas, keliančias grėsmę valstybės saugumui, suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ir ekonominei galiai, užkirsti kelią šioms veikoms ir jas šalinti įstatymų nustatyta tvarka. Valstybės saugumo departamentas koordinuoja Lietuvos Respublikos institucijų kovą su terorizmu. 
+Valstybės saugumo departamento uždaviniai – stiprinti Lietuvos Respublikos nacionalinį saugumą renkant informaciją apie rizikos veiksnius, pavojus ir grėsmes, pateikiant ją nacionalinį saugumą užtikrinančioms institucijoms ir šalinant šiuos rizikos veiksnius, pavojus ir grėsmes. Valstybės saugumo departamentas koordinuoja Lietuvos Respublikos institucijų kovą su terorizmu. 
 Valstybės saugumo departamentas teikia žvalgybos, kontržvalgybos ir kitą nacionaliniam saugumui reikšmingą informaciją, išvadas ir rekomendacijas Seimui, Respublikos Prezidentui, Vyriausybei, o prireikus ir kitoms valstybės institucijoms. Informaciją, kuri nėra valstybės paslaptis, Valstybės saugumo departamentas teikia ir visuomenei. 
 Valstybės saugumo departamento veiklą reglamentuoja įstatymai.
 Valstybės saugumo departamento detalus biudžetas, ištekliai ir kita įstatymų numatyta informacija yra valstybės paslaptis. 
@@ -897,22 +895,16 @@ Seimas atlieka parlamentinę Valstybės saugumo departamento veiklos kontrolę. 
 Skyriaus pakeitimai:
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
- 
-
-
-
-
-21 skyrius
-CIVILINĖS SAUGOS IR GELBĖJIMO SISTEMA
- 
-Civilinės saugos ir gelbėjimo sistemos paskirtis – apsaugoti gyventojus nuo nelaimių karo ir taikos metu, jiems patiems šioje veikloje aktyviai dalyvaujant. Ši sistema užtikrina visų gelbėjimo tarnybų parengtį ir prevencinius veiksmus, o ekstremalių situacijų, gaivalinių nelaimių, katastrofų ir ginkluoto užpuolimo atvejais – krašto gyventojų perspėjimą ir informavimą, jų gyvybės ir turto apsaugą, reikalingą neatidėliotiną pagalbą ir evakuaciją iš pavojingų rajonų. 
-Civilinės saugos ir gelbėjimo sistemą, jos struktūrą, veiklos teisinius pagrindus, sistemai priklausančių institucijų pavaldumą, funkcijas, atsakomybę bei tarpusavio sąveiką, taip pat sąveiką su kitomis valstybės institucijomis nustato įstatymai ir kiti teisės aktai.
-Jeigu reikia, katastrofoms ir kitoms didelio masto nelaimėms įveikti, gelbėjimo darbams dirbti bei padariniams šalinti pasitelkiama ir kariuomenė, specialistai iš mobilizacinio rezervo, ministerijų, kitų valstybės ir savivaldybių institucijų bei įstaigų, panaudojami joms priklausantys ištekliai, pasitelkiami savaveiksmių organizacijų savanoriai. Šio telkimo ir dalyvavimo darbuose sąlygas ir tvarką nustato įstatymas.
 Skyriaus pakeitimai:
-Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. VIII-770, 1998 06 04, Žin., 1998, Nr. 55-1520 (1998 06 17)
-Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
+ 
+
+
+
+
+21 skyrius. Neteko galios nuo 2023-01-01
+Skyriaus naikinimas:
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
  
 
 
@@ -956,12 +948,18 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 
 
 
-24 skyrius
+24 SKYRIUS
 LIETUVOS ŠAULIŲ SĄJUNGA
  
-Lietuvos šaulių sąjunga yra valstybės remiama ir jai padedanti savanoriška sukarinta pilietinės savigynos asociacija, veikianti pagal specialų įstatymą ir savo statutą. Jos dalyvavimą krašto apsaugos sistemos veikloje ir bendradarbiavimą su krašto apsaugos sistemos ir kitomis valstybės institucijomis reglamentuoja įstatymas ir bendradarbiavimo sutartys.
+
+
+Lietuvos šaulių sąjunga yra valstybės remiama ir padedanti užtikrinti nacionalinį saugumą ir gyvybiškai svarbių valstybės funkcijų atlikimą savanoriška ir savaveiksmė sukarinta asociacija, veikianti pagal specialų įstatymą ir savo statutą. Jos dalyvavimą krašto apsaugos sistemos veikloje ir bendradarbiavimą su krašto apsaugos sistemos ir kitomis valstybės institucijomis reglamentuoja įstatymas ir bendradarbiavimo sutartys.
+
+
 Skyriaus pakeitimai:
 Nr. XI-409, 2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
+Skyriaus pakeitimai:
+Nr. XIV-1508, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23356
  
 
 
@@ -1193,4 +1191,14 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1053, 2022-04-26, paskelbta TAR 2022-05-04, i. k. 2022-09429
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1508, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23356
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
