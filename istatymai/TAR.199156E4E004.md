@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -577,6 +577,14 @@ Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 2. Neįgaliųjų sporto sritį, valstybės ir savivaldybių biudžetų lėšų neįgaliųjų sporto programoms ar projektams skyrimą reglamentuoja Sporto įstatymas ir kiti teisės aktai. 
 
 
+
+
+3. Asmeninis asistentas, lydintis neįgalųjį į kultūros įstaigas (muziejus, galerijas ir kt.), lankytinas vietas, kultūros, pramogų ar sporto renginius, turi teisę įsigyti bilietą su 100 procentų nuolaida.
+Papildyta straipsnio dalimi:
+Nr. XIV-1146, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13885
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
 Nr. XIII-1553, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17468
@@ -625,9 +633,10 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 
-5) Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba) pagal kompetenciją dalyvauja formuojant ir įgyvendinant neįgaliųjų socialinės integracijos politiką dėl neįgalumo lygio, darbingumo lygio, profesinės reabilitacijos paslaugų poreikio, specialiųjų poreikių ir specialiųjų poreikių lygio nustatymo, neįgaliojo aprūpintojo skyrimo;
+5) Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba) pagal kompetenciją dalyvauja formuojant ir įgyvendinant neįgaliųjų socialinės integracijos politiką dėl neįgalumo lygio, darbingumo lygio, profesinės reabilitacijos paslaugų poreikio, specialiųjų poreikių, specialiųjų poreikių lygio, darbo asistento pagalbos poreikio nustatymo, neįgaliojo aprūpintojo skyrimo;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
+Nr. XIV-1395, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16122
  
 
 
@@ -676,10 +685,11 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 KETVIRTASIS SKIRSNIS
-NEĮGALUMO LYGIO, DARBINGUMO LYGIO, SPECIALIŲJŲ POREIKIŲ LYGIO, SPECIALIOJO NUOLATINĖS SLAUGOS POREIKIO, SPECIALIOJO NUOLATINĖS PRIEŽIŪROS (PAGALBOS) POREIKIO, SPECIALIOJO LENGVOJO AUTOMOBILIO ĮSIGIJIMO IR JO TECHNINIO PRITAIKYMO IŠLAIDŲ KOMPENSACIJOS POREIKIO NUSTATYMAS, NEĮGALIOJO APRŪPINTOJO SKYRIMAS, PROFESINĖS REABILITACIJOS PASLAUGŲ TEIKIMAS, PROFESINĖS REABILITACIJOS IŠMOKA IR GINČŲ SPRENDIMAS
+NEĮGALUMO LYGIO, DARBINGUMO LYGIO, SPECIALIŲJŲ POREIKIŲ LYGIO, SPECIALIOJO NUOLATINĖS SLAUGOS POREIKIO, SPECIALIOJO NUOLATINĖS PRIEŽIŪROS (PAGALBOS) POREIKIO, SPECIALIOJO LENGVOJO AUTOMOBILIO ĮSIGIJIMO IR JO TECHNINIO PRITAIKYMO IŠLAIDŲ KOMPENSACIJOS POREIKIO, DARBO ASISTENTO PAGALBOS POREIKIO NUSTATYMAS, NEĮGALIOJO APRŪPINTOJO SKYRIMAS, PROFESINĖS REABILITACIJOS PASLAUGŲ TEIKIMAS, PROFESINĖS REABILITACIJOS IŠMOKA IR GINČŲ SPRENDIMAS 
 Pakeistas skirsnio pavadinimas:
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
+Nr. XIV-1395, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16122
  
 
 
@@ -734,11 +744,17 @@ Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
 
 
 
-9) neįgaliojo aprūpintojo skyrimo.
+9) neįgaliojo aprūpintojo skyrimo;
+
+
+
+
+10) darbo asistento pagalbos poreikio ir jo termino nustatymo.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
+Nr. XIV-1395, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16122
  
 
 
@@ -1202,6 +1218,24 @@ Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 
 Papildyta straipsniu:
 Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
+ 
+
+
+
+
+203 straipsnis. Darbo asistento pagalbos poreikio nustatymas
+
+
+1. Darbo asistento pagalbos poreikis ir jo terminas nustatomas atsižvelgiant į asmens darbingumo lygį arba neįgalumo lygį ir darbingumo lygio arba neįgalumo lygio terminą. 
+
+
+
+
+2. Darbo asistento pagalbos poreikio ir jo termino nustatymo tvarką, suderinęs su Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, nustato Tarnybos direktorius. 
+
+
+Papildyta straipsniu:
+Nr. XIV-1395, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16122
  
 
 
@@ -1909,5 +1943,15 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 3, 6, 16, 18, 20, 25-1 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-2 straipsniu įstatymas
  
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1146, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13885
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 15 straipsnio pakeitimo įstatymas
  
-part_09eb7a937d85451aad248624ce098c6b_end
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1395, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16122
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 16, 18 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-3 straipsniu įstatymas
+ 
+ 
+part_87ceb73cf54c431da29ab1ff276b11d3_end
