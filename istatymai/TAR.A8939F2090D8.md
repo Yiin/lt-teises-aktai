@@ -13,9 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a8939f2090d811e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2025-11-30
  
 Įstatymas paskelbtas: TAR 2014-12-31, i. k. 2014-21281
+ 
+Nauja redakcija nuo 2021-08-02:
+Nr. XIV-225, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07286
  
 LIETUVOS RESPUBLIKOS
 ASMENS TAPATYBĖS KORTELĖS IR PASO 
@@ -522,7 +525,9 @@ Nr. XIV-225, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07286
 
 
 
-3. Iš suimto piliečio, taip pat iš piliečio, kuris nuteistas laisvės atėmimo bausme, asmens tapatybės kortelę ir (ar) pasą paima teisėsaugos institucija arba teismas. Piliečiui, kuris paleistas iš suėmimo, lygtinai paleistas iš pataisos įstaigos, kuris atliko bausmę, asmens tapatybės kortelė ir (ar) pasas grąžinami. 
+3. Iš suimto piliečio, taip pat iš piliečio, kuris nuteistas laisvės atėmimo bausme, asmens tapatybės kortelę ir (ar) pasą paima teisėsaugos institucija arba teismas. Piliečiui, kuris paleistas iš suėmimo, lygtinai paleistas iš laisvės atėmimo vietų įstaigos, kuris atliko bausmę, asmens tapatybės kortelė ir (ar) pasas grąžinami.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1236, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15603
  
 
 
@@ -564,8 +569,6 @@ Respublikos Prezidentė                            �
 
 
 
-
- 
 
  
 Lietuvos Respublikos 
@@ -619,5 +622,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1017, 2022-04-14, paskelbta TAR 2022-04-21, i. k. 2022-08107
 Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 5 straipsnio pakeitimo įstatymas
  
- 
-part_361eb9e338354c389bf5ddc2c873c106_end
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1236, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15603
+Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 9 straipsnio pakeitimo įstatymas
