@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-04-05
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -2367,7 +2367,10 @@ Nr. XII-1295, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16788
 
 
 
-3. Įsiteisėjusio apkaltinamojo nuosprendžio, kuriuo buvo paskirta laisvės atėmimo bausmė, nuorašą, o tais atvejais, kai yra priimta ir įsiteisėjusi nutartis panaikinti bausmės vykdymo atidėjimą arba nutartis dėl lygtinai iš pataisos įstaigos paleisto asmens pasiuntimo į pataisos įstaigą atlikti likusios laisvės atėmimo bausmės, ir nutarties nuorašą kartu su šio straipsnio 2 dalyje nurodyta informacija nuosprendį arba nutartį priėmęs teismas, nusprendęs, kad reikalinga kreiptis dėl asmens išdavimo, siunčia Lietuvos Respublikos teisingumo ministerijai.
+3. Įsiteisėjusio apkaltinamojo nuosprendžio, kuriuo buvo paskirta laisvės atėmimo bausmė, nuorašą, o tais atvejais, kai yra priimta ir įsiteisėjusi nutartis panaikinti bausmės vykdymo atidėjimą arba nutartis dėl lygtinai paleisto iš laisvės atėmimo vietų įstaigos asmens pasiuntimo atlikti likusios laisvės atėmimo bausmės, – ir nutarties nuorašą kartu su šio straipsnio 2 dalyje nurodyta informacija nuosprendį arba nutartį priėmęs teismas, nusprendęs, kad reikia kreiptis dėl asmens išdavimo, siunčia Lietuvos Respublikos teisingumo ministerijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -2390,9 +2393,10 @@ Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 
 
-2. Dėl Lietuvos Respublikos piliečio ar kito asmens, kuris Lietuvos Respublikoje įsiteisėjusiu apkaltinamuoju nuosprendžiu nuteistas laisvės atėmimo bausme, tačiau nuo bausmės atlikimo pasislėpė Europos Sąjungos valstybėje narėje, Europos arešto orderį išduoda ir į kompetentingą šios valstybės instituciją tiesiogiai kreipiasi apygardos teismas pagal nuosprendį ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai iš pataisos įstaigos paleisto asmens pasiuntimo į pataisos įstaigą atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją. Prireikus apygardos teismas Europos arešto orderį kompetentingai Europos Sąjungos valstybės narės institucijai gali perduoti per Lietuvos Respublikos teisingumo ministeriją arba per Lietuvos Respublikos generalinės prokuratūros prokurorą – Lietuvos nacionalinį narį Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotoją). 
+2. Dėl Lietuvos Respublikos piliečio ar kito asmens, kuris Lietuvos Respublikoje įsiteisėjusiu apkaltinamuoju nuosprendžiu nuteistas laisvės atėmimo bausme, tačiau nuo jos atlikimo pasislėpė Europos Sąjungos valstybėje narėje, Europos arešto orderį išduoda ir į kompetentingą šios valstybės instituciją tiesiogiai kreipiasi apygardos teismas pagal nuosprendį ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai paleisto iš laisvės atėmimo vietų įstaigos asmens pasiuntimo atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją. Prireikus apygardos teismas Europos arešto orderį kompetentingai Europos Sąjungos valstybės narės institucijai gali perduoti per Lietuvos Respublikos teisingumo ministeriją arba per Lietuvos Respublikos generalinės prokuratūros prokurorą – Lietuvos nacionalinį narį Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotoją).
 Straipsnio dalies pakeitimai:
 Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -3688,7 +3692,10 @@ Baudžiamojo proceso terminai nustato procesinę reikšmę turinčių veiksmų p
 101 straipsnis. Terminų laikymasis
 
 
-1. Proceso veiksmai atliekami laikantis šio Kodekso nustatytų terminų. Terminas nelaikomas praleistu, jeigu skundas ar kitoks dokumentas iki termino pabaigos įteiktas paštui, o sulaikytų arba suimtų asmenų paduotas skundas ar kitoks dokumentas įteiktas kalinimo vietos administracijai.
+1. Proceso veiksmai atliekami laikantis šio Kodekso nustatytų terminų. Terminas nelaikomas praleistu, jeigu skundas ar kitoks dokumentas iki termino pabaigos įteiktas paštui, o sulaikytų arba suimtų asmenų paduotas skundas ar kitoks dokumentas įteiktas sulaikymą ar suėmimą vykdančiai įstaigai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -4555,7 +4562,10 @@ Nr. XIV-1475, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22948
 
 
 
-2. Prokuroras nutarties skirti suėmimą arba pratęsti suėmimo terminus nuorašus išsiunčia į suėmimo vietą.
+2. Prokuroras nutarties skirti suėmimą arba pratęsti suėmimo terminus nuorašus išsiunčia suėmimą vykdančiai įstaigai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -4568,9 +4578,10 @@ Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 
 
-4. Apie įtariamojo suėmimą prokuroras arba ikiteisminio tyrimo pareigūnas privalo pranešti nukentėjusiajam ir išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę ar įtariamojo pabėgimą iš laisvės atėmimo vietos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Pranešti apie įtariamojo suėmimą nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu šis pranešimas galėtų padaryti žalos įtariamajam. Jeigu nukentėjusiųjų yra daug, apie įtariamojo suėmimą pakanka pranešti jų interesams atstovaujančiam asmeniui (asmenims). Dėl pranešimo nukentėjusiajam surašomas protokolas. Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę ar įtariamojo pabėgimą iš laisvės atėmimo vietos, prokuroras arba ikiteisminio tyrimo pareigūnas surašo pažymą. Šią pažymą prokuroras arba ikiteisminio tyrimo pareigūnas išsiunčia į įtariamojo suėmimo vietą. Įtariamajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
+4. Apie įtariamojo suėmimą prokuroras arba ikiteisminio tyrimo pareigūnas privalo pranešti nukentėjusiajam ir išsiaiškinti, ar šis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę ar jo pabėgimą iš laisvės atėmimo vietų įstaigos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Pranešti apie įtariamojo suėmimą nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu šis pranešimas galėtų padaryti žalos įtariamajam. Jeigu nukentėjusiųjų yra daug, apie įtariamojo suėmimą pakanka pranešti jų interesams atstovaujančiam asmeniui (atstovaujantiems asmenims). Dėl pranešimo nukentėjusiajam surašomas protokolas. Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą įtariamojo paleidimą į laisvę ar jo pabėgimą iš laisvės atėmimo vietų įstaigos, prokuroras arba ikiteisminio tyrimo pareigūnas surašo pažymą ir ją išsiunčia suėmimą vykdančiai įstaigai. Įtariamajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
 Straipsnio dalies pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -6103,7 +6114,10 @@ Ikiteisminio tyrimo bendrosios nuostatos
 
 
 
-2. Ikiteisminį tyrimą taip pat atlieka esančių tolimajame plaukiojime jūros laivų kapitonai – dėl laivo įgulos narių ir keleivių nusikalstamų veikų, padarytų tolimojo plaukiojimo metu, Kalėjimų departamento pareigūnai, areštinių, kardomojo kalinimo ir pataisos įstaigų direktoriai arba jų įgalioti pareigūnai – dėl šiose įstaigose padarytų nusikalstamų veikų.
+2. Ikiteisminį tyrimą taip pat atlieka esančių tolimajame plaukiojime jūros laivų kapitonai – dėl laivo įgulos narių ir keleivių nusikalstamų veikų, padarytų tolimojo plaukiojimo metu, Lietuvos kalėjimų tarnybos direktorius arba jo įgalioti bausmių vykdymo sistemos pareigūnai – dėl laisvės atėmimo vietų įstaigoje padarytų nusikalstamų veikų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 Straipsnio pakeitimai:
@@ -6520,6 +6534,19 @@ Nr. XI-2407, 2012-11-13, Žin., 2012, Nr. 136-6961 (2012-11-24)
  
 
 
+
+
+
+
+1741 straipsnis. Ikiteisminio tyrimo priskyrimas pagal Europos prokuratūros kompetencijos sritį
+
+
+Vilniaus apygardos teismas, gavęs Europos deleguotojo prokuroro ar Europos prokuroro skundą dėl Lietuvos Respublikos generalinio prokuroro (jo pavaduotojo) ar jo pavedimu paskirto prokuroro nutarimo atsisakyti perduoti ikiteisminį tyrimą Europos prokuratūrai, vadovaudamasis Reglamente (ES) 2017/1939 nustatyta Europos prokuratūros kompetencija, priima sprendimą dėl ikiteisminio tyrimo priskyrimo. Skundas nagrinėjamas rašytinio proceso tvarka. Vilniaus apygardos teismo teisėjas, įvertinęs Reglamento (ES) 2017/1939 nuostatas, gauto skundo argumentus, priima sprendimą panaikinti Lietuvos Respublikos generalinio prokuroro (jo pavaduotojo) ar jo pavedimu paskirto prokuroro nutarimą atsisakyti perduoti ikiteisminį tyrimą Europos prokuratūrai ir įpareigoja ne vėliau kaip per penkias dienas perduoti ikiteisminį tyrimą Europos prokuratūrai arba priima sprendimą atmesti skundą. Vilniaus apygardos teismo teisėjas dėl to priima motyvuotą nutartį. Ši nutartis įsiteisėja nuo jos paskelbimo dienos ir yra neskundžiama. Kai Vilniaus apygardos teismo teisėjui kyla abejonių, ar ikiteisminis tyrimas priskirtinas Europos prokuratūros kompetencijai, jis kreipiasi į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo ir atideda skundo nagrinėjimą tol, kol bus gautas šios institucijos prejudicinis sprendimas.
+
+
+Papildyta straipsniu:
+Nr. XIV-1475, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22948
+ 
 
 
 
@@ -7054,9 +7081,11 @@ Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 
 
-7. Įtariamasis, kuris negali atvykti į apklausą arba yra laikomas areštinėje, kardomojo kalinimo ar pataisos įstaigoje, gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+7. Įtariamasis, kuris negali atvykti į apklausą arba yra laikomas laisvės atėmimo vietų įstaigoje, gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
 Papildyta straipsnio dalimi:
 Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -7098,9 +7127,11 @@ Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 
 
-6. Įtariamasis, kuris negali atvykti į ikiteisminio tyrimo teisėjo atliekamą apklausą arba yra laikomas areštinėje, kardomojo kalinimo ar pataisos įstaigoje, gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+6. Įtariamasis, kuris negali atvykti į ikiteisminio tyrimo teisėjo atliekamą apklausą arba yra laikomas laisvės atėmimo vietų įstaigoje, gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
 Papildyta straipsnio dalimi:
 Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -7111,7 +7142,10 @@ Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
 1891 straipsnis. Nepilnamečio individualaus vertinimo tvarka
 
 
-1. Pirmą kartą apklausus nepilnametį įtariamąjį, ikiteisminį tyrimą atliekantis ikiteisminio tyrimo pareigūnas ar prokuroras nedelsdamas kreipiasi į valstybinę vaiko teisių apsaugos instituciją dėl nepilnamečio įtariamojo individualaus vertinimo Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka ir forma. Valstybinė vaiko teisių apsaugos institucija turi teisę gauti iš savivaldybės pedagoginės psichologinės tarnybos duomenis apie nepilnamečio specialius ugdymosi poreikius, asmenybės ir brandos vertinimą.  Šiuos duomenis savivaldybės pedagoginė psichologinė tarnyba turi pateikti ne vėliau kaip per dešimt darbo dienų nuo kreipimosi  gavimo. Jeigu nepilnametis yra suimtas, kreipimasis dėl jo individualaus vertinimo pateikiamas laisvės atėmimo vietai, kurioje šis nepilnametis laikomas. Nepilnamečio individualus vertinimas turi būti atliktas ir informacijos apibendrinimas nustatyta rašytine forma pateiktas ikiteisminio tyrimo pareigūnui ar prokurorui ne vėliau kaip per dvidešimt penkias darbo dienas nuo kreipimosi gavimo dienos. 
+1. Pirmą kartą apklausus nepilnametį įtariamąjį, ikiteisminį tyrimą atliekantis ikiteisminio tyrimo pareigūnas ar prokuroras nedelsdamas kreipiasi į valstybinę vaiko teisių apsaugos instituciją dėl nepilnamečio įtariamojo individualaus vertinimo Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka ir forma. Valstybinė vaiko teisių apsaugos institucija turi teisę gauti iš savivaldybės pedagoginės psichologinės tarnybos duomenis apie nepilnamečio specialius ugdymosi poreikius, asmenybės ir brandos vertinimą. Šiuos duomenis savivaldybės pedagoginė psichologinė tarnyba turi pateikti ne vėliau kaip per dešimt darbo dienų nuo kreipimosi gavimo dienos. Jeigu nepilnametis yra suimtas, kreipimasis dėl jo individualaus vertinimo pateikiamas laisvės atėmimo vietų įstaigai. Nepilnamečio individualus vertinimas turi būti atliktas ir informacijos apibendrinimas nustatyta rašytine forma pateiktas ikiteisminio tyrimo pareigūnui ar prokurorui ne vėliau kaip per dvidešimt penkias darbo dienas nuo kreipimosi gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -8420,6 +8454,54 @@ Nr. XII-2480, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17978
 
 
 
+2291 straipsnis. Kito teismo teisėjo paskyrimas nagrinėti bylą
+
+
+1. Apygardos teismo pirmininkui konstatavus esminį darbo krūvio skirtumą apylinkės teismuose, esančiuose to apygardos teismo veiklos teritorijoje, apygardos teismo pirmininko nutartimi atsitiktine tvarka atrinktos bylos gali būti priskirtos nagrinėti kito apylinkės teismo, esančio to paties apygardos teismo veiklos teritorijoje, teisėjams.
+
+
+
+
+2. Lietuvos apeliacinio teismo pirmininkui konstatavus esminį darbo krūvio skirtumą apylinkės teismuose, esančiuose skirtingų apygardos teismų veiklos teritorijose, ar apygardų teismuose, Lietuvos apeliacinio teismo pirmininko nutartimi atsitiktine tvarka atrinktos šiems teismams pagal kompetenciją priskirtos nagrinėti bylos gali būti priskirtos nagrinėti kito apygardos teismo veiklos teritorijoje veikiančio apylinkės teismo teisėjams arba kito apygardos teismo teisėjams. 
+
+
+
+
+3. Nagrinėti kito teismo teisėjams gali būti priskiriamos bylos, kurios dar nėra paskirtos konkrečiam teisėjui (teisėjų kolegijai). 
+
+
+
+
+4. Bylos, kuri priskiriama nagrinėti kito teismo teisėjams, teismingumas nekeičiamas – bylą nagrinėjantis kito teismo teisėjas (teisėjų kolegija) veikia teismo, kuriam byla teisminga, vardu.
+
+
+
+
+5. Nagrinėti kito teismo teisėjams priskirtos bylos paskirstomos ir teisėjų kolegijos, kai bylą nagrinėja ne vienas teisėjas, sudaromos Teismų įstatymo nustatyta tvarka iš teismo, kurio teisėjams jos priskirtos, teisėjų. Teisėją skiria, reikiamais atvejais teisėjų kolegiją sudaro ir jos pirmininką bei pranešėją skiria, įstatymų numatytais atvejais pakeičia teismo, kuriame dirba teisėjas (teisėjai), pirmininkas arba Baudžiamųjų bylų skyriaus pirmininkas. Kitus su nagrinėti kito teismo teisėjams priskirtomis bylomis susijusius procesinius klausimus, kuriuos spręsti įstatymuose priskirta teismo pirmininkui, Baudžiamųjų bylų skyriaus pirmininkui arba jų paskirtam teisėjui, sprendžia atitinkamai teismo, kuriam byla teisminga, pirmininkas, Baudžiamųjų bylų skyriaus pirmininkas arba jų paskirtas teisėjas.
+
+
+
+
+6. Šiame straipsnyje nustatytais pagrindais nagrinėti kito teismo teisėjams priskiriamos bylos, kurios šio Kodekso nustatytais atvejais gali būti nagrinėjamos nerengiant teismo posėdžio arba rašytinio proceso tvarka, taip pat kai šio Kodekso nustatyta tvarka jos nagrinėjamos naudojant informacines ir elektroninių ryšių technologijas.
+
+
+
+
+7. Šio straipsnio nuostatos taip pat taikomos ir nagrinėjant proceso dalyvių skundus, pareiškimus, prašymus ir kitus dokumentus, kuriuos šio Kodekso nustatyta tvarka nagrinėja apylinkių ir apygardų teismai, nenagrinėdami baudžiamosios bylos iš esmės pirmosios ar apeliacinės instancijos teisme.
+
+
+
+
+8. Duomenys apie teismų darbo krūvį teikiami ir vertinami Teisėjų tarybos nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-1750, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27303
+ 
+
+
+
+
 230 straipsnis. Teismų ginčų dėl bylų teismingumo sprendimas
 
 
@@ -8616,10 +8698,11 @@ Nr. XI-1852, 2011-12-22, Žin., 2011, Nr. 164-7797 (2011-12-31)
 235 straipsnis. Bylos nutraukimas
 
 
-1. Byla nutraukiama, kai yra šio Kodekso 3 straipsnio 1 dalyje numatytos aplinkybės, dėl kurių procesas negalimas, arba yra Lietuvos Respublikos baudžiamojo kodekso 36–40 ir 93 straipsniuose numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės. Kai yra šio Kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, baudžiamoji byla nutraukiama tik tuo atveju, jeigu kaltinamasis nereikalauja tęsti baudžiamojo proceso. Kai baudžiamoji byla nutraukiama, nutraukiamas ir procesinių prievartos priemonių taikymas, suimtas kaltinamasis nedelsiant paleidžiamas iš kardomojo kalinimo vietos, taip pat nusprendžiama dėl daiktinių įrodymų. 
+1. Byla nutraukiama, kai yra šio Kodekso 3 straipsnio 1 dalyje numatytos aplinkybės, dėl kurių procesas negalimas, arba yra Lietuvos Respublikos baudžiamojo kodekso 36–40 ir 93 straipsniuose numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės. Kai yra šio Kodekso 3 straipsnio 1 dalies 2 punkte numatyta aplinkybė, baudžiamoji byla nutraukiama tik tuo atveju, jeigu kaltinamasis nereikalauja tęsti baudžiamojo proceso. Kai baudžiamoji byla nutraukiama, nutraukiamas ir procesinių prievartos priemonių taikymas, suimtas kaltinamasis nedelsiant paleidžiamas iš suėmimą vykdančios įstaigos, taip pat nusprendžiama dėl daiktinių įrodymų.
 Straipsnio dalies pakeitimai:
 Nr. KT19-N10/2016, 2016-06-27, paskelbta TAR 2016-06-27, i. k. 2016-17705
 Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -8917,9 +9000,10 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 246 straipsnis. Kaltinamojo dalyvavimas bylą nagrinėjant teisme
 
 
-1. Byla pirmosios instancijos teismo posėdyje nagrinėjama dalyvaujant kaltinamajam. Kaltinamajam atvykti į teismą privaloma. Nagrinėti bylą, kai nedalyvauja kaltinamasis, leidžiama tik tuo atveju, jeigu kaltinamasis yra ne Lietuvos Respublikos teritorijoje ir vengia atvykti į teismą. Kaltinamojo, kuris negali atvykti į teismą, kuriame nagrinėjama byla, arba kuris yra laikomas areštinėje, kardomojo kalinimo ar pataisos įstaigoje, dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
+1. Byla pirmosios instancijos teismo posėdyje nagrinėjama dalyvaujant kaltinamajam, kuriam atvykti į teismą privaloma. Nagrinėti bylą, kai nedalyvauja kaltinamasis, leidžiama tik tuo atveju, jeigu jis yra ne Lietuvos Respublikos teritorijoje ir vengia atvykti į teismą. Kaltinamojo, kuris negali atvykti į teismą, kuriame nagrinėjama byla, arba kuris yra laikomas laisvės atėmimo vietų įstaigoje, dalyvavimas teismo posėdyje gali būti užtikrinamas garso ir vaizdo nuotolinio perdavimo priemonėmis.
 Straipsnio dalies pakeitimai:
 Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -10670,9 +10754,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-5. Kai nuosprendžiu nuteistajam paskiriama reali arešto arba laisvės atėmimo bausmė, teisiamojo posėdžio pirmininkas privalo išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar nuteistojo pabėgimą iš laisvės atėmimo vietos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Jeigu nukentėjusysis nedalyvavo teismo posėdyje, ši informacija turi būti išsiaiškinta per penkias dienas po nuosprendžio paskelbimo. Išsiaiškinti nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu toks pranešimas galėtų padaryti žalos nuteistajam. Jeigu nukentėjusiųjų yra daug, pakanka šią informaciją išsiaiškinti per jų interesams atstovaujantį asmenį (asmenis). Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar nuteistojo pabėgimą iš laisvės atėmimo vietos, teisiamojo posėdžio pirmininkas surašo pažymą. Įsiteisėjus nuosprendžiui, ši pažyma kartu su nuosprendžio nuorašu šio Kodekso 342 straipsnio nustatyta tvarka išsiunčiama bausmės vykdymo institucijai. Nuteistajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
+5. Kai nuosprendžiu nuteistajam paskiriama reali arešto arba laisvės atėmimo bausmė, teisiamojo posėdžio pirmininkas privalo išsiaiškinti, ar nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar jo pabėgimą iš laisvės atėmimo vietų įstaigos. Nukentėjusiajam taip pat pranešama apie teisės aktuose nustatytas apsaugos priemones, kurios gali būti jam taikomos, ir jų skyrimo tvarką. Jeigu nukentėjusysis nedalyvavo teismo posėdyje, ši informacija turi būti išsiaiškinta per penkias dienas nuo nuosprendžio paskelbimo dienos. Išsiaiškinti nebūtina, jeigu nukentėjusiojo gyvenamoji vieta nežinoma, taip pat jeigu toks pranešimas galėtų padaryti žalos nuteistajam. Jeigu nukentėjusiųjų yra daug, pakanka šią informaciją išsiaiškinti per jų interesams atstovaujantį asmenį (atstovaujančius asmenis). Jeigu nukentėjusysis pageidauja, kad jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę ar jo pabėgimą iš laisvės atėmimo vietų įstaigos, teisiamojo posėdžio pirmininkas surašo pažymą. Įsiteisėjus nuosprendžiui, ši pažyma kartu su nuosprendžio nuorašu šio Kodekso 342 straipsnyje nustatyta tvarka išsiunčiama bausmės vykdymo institucijai. Nuteistajam ir jo gynėjui neleidžiama susipažinti su šios pažymos turiniu.
 Straipsnio dalies pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -11711,7 +11796,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-2. Apeliacinės instancijos teismo išteisinamasis nuosprendis ir nuosprendis nutraukti bylą vykdomi nedelsiant. Apeliacinės instancijos teismo posėdyje dalyvavęs suimtas nuteistasis iš suėmimo paleidžiamas teismo posėdžių salėje. Jei suimtas nuteistasis nedalyvavo posėdyje, nuosprendžio, pagal kurį asmuo paleidžiamas iš suėmimo, nuorašas šio sprendimo priėmimo dieną išsiunčiamas tiesiogiai kalinimo vietos administracijai vykdyti. Kalinimo vietos administracija privalo per vieną dieną pranešti nuosprendį priėmusiam pirmosios instancijos teismui apie apeliacinės instancijos teismo nuosprendžio įvykdymą.
+2. Apeliacinės instancijos teismo išteisinamasis nuosprendis ir nuosprendis nutraukti bylą vykdomi nedelsiant. Apeliacinės instancijos teismo posėdyje dalyvavęs suimtas nuteistasis iš suėmimo paleidžiamas teismo posėdžių salėje. Jei suimtas nuteistasis nedalyvavo posėdyje, nuosprendžio, pagal kurį jis paleidžiamas iš suėmimo, nuorašas šio sprendimo priėmimo dieną išsiunčiamas tiesiogiai suėmimą vykdančiai įstaigai. Suėmimą vykdanti įstaiga privalo per vieną dieną pranešti nuosprendį priėmusiam pirmosios instancijos teismui apie apeliacinės instancijos teismo nuosprendžio įvykdymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -11850,9 +11938,10 @@ Nepateikiamas vykdyti ir nevykdomas įsiteisėjęs apkaltinamasis teismo nuospre
 
 
 
-3. Kai atidėtas visos bausmės vykdymas, atidėjimo terminas skaičiuojamas nuo nuosprendžio įsiteisėjimo dienos. Kai bausmės vykdymas atidėtas iš dalies, bausmės vykdymo atidėjimo terminas skaičiuojamas nuo nuteistojo paleidimo iš pataisos įstaigos dienos. 
-Straipsnio pakeitimai:
-Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
+3. Kai atidėtas visos bausmės vykdymas, atidėjimo terminas skaičiuojamas nuo nuosprendžio įsiteisėjimo dienos. Kai bausmės vykdymas atidėtas iš dalies, bausmės vykdymo atidėjimo terminas skaičiuojamas nuo nuteistojo paleidimo iš laisvės atėmimo vietų įstaigos dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 Straipsnio pakeitimai:
@@ -11941,17 +12030,19 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 
 
-4) dėl arešto bausmės – laisvės atėmimo vietai, kurioje laikomas nuteistasis arba kurioje jis turės atlikti bausmę, jeigu nuteistajam iki nuosprendžio įsiteisėjimo nebuvo paskirta kardomoji priemonė – suėmimas; 
+4) dėl arešto bausmės – laisvės atėmimo vietų įstaigai, jeigu nuteistajam iki nuosprendžio įsiteisėjimo nebuvo paskirta kardomoji priemonė – suėmimas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
 
 
-5) dėl terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmių – laisvės atėmimo vietai, kurioje laikomas nuteistasis, arba policijos įstaigai, kurios teritorijoje yra nuteistojo gyvenamoji vieta, jeigu nuteistajam iki nuosprendžio įsiteisėjimo nebuvo paskirta kardomoji priemonė – suėmimas; 
+5) dėl terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmių – laisvės atėmimo vietų įstaigai arba policijos įstaigai, kurios teritorijoje yra nuteistojo gyvenamoji vieta, jeigu nuteistajam iki nuosprendžio įsiteisėjimo nebuvo paskirta kardomoji priemonė – suėmimas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -12312,18 +12403,20 @@ Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos laisv�
 
 
 
-3. Jeigu uždraudimas naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, arba viešųjų teisių atėmimas, arba įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos paskirtas kartu su laisvės atėmimo arba arešto bausme, šios baudžiamojo poveikio priemonės pradedamos vykdyti, kai nuteistasis atliko bausmę arba lygtinai paleidžiamas iš pataisos įstaigos. Pataisos įstaigos administracija ne vėliau kaip per tris darbo dienas išsiunčia pranešimą apie nuteistojo paleidimą iš pataisos įstaigos, uždraudimą naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, arba viešųjų teisių atėmimą, arba įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos vykdančiai institucijai. 
+3. Jeigu uždraudimas naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, arba viešųjų teisių atėmimas, arba įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos paskirti kartu su laisvės atėmimo arba arešto bausme, šios baudžiamojo poveikio priemonės pradedamos vykdyti, kai nuteistasis atliko bausmę arba yra lygtinai paleidžiamas iš laisvės atėmimo vietų įstaigos. Laisvės atėmimo vietų įstaigos administracija ne vėliau kaip per tris darbo dienas išsiunčia pranešimą apie nuteistojo paleidimą iš laisvės atėmimo vietų įstaigos, uždraudimą jam naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, arba viešųjų teisių atėmimą, arba jo įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos vykdančiai institucijai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
 
 
-4. Jeigu panaikinamas bausmės vykdymo atidėjimas arba lygtinis paleidimas iš pataisos įstaigos ir nuteistasis pasiunčiamas į pataisos įstaigą, baudžiamojo poveikio priemonių – uždraudimo naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo, arba viešųjų teisių atėmimo, arba įpareigojimo pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos – vykdymas sustabdomas iki šio straipsnio 3 dalyje nustatytų pagrindų vykdyti šias baudžiamojo poveikio priemones atsiradimo. 
+4. Jeigu panaikinamas bausmės vykdymo atidėjimas arba lygtinis paleidimas iš laisvės atėmimo vietų įstaigos ir nuteistasis pasiunčiamas atlikti laisvės atėmimo bausmės, baudžiamojo poveikio priemonių – uždraudimo naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo, arba viešųjų teisių atėmimo, arba įpareigojimo pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos – vykdymas sustabdomas iki šio straipsnio 3 dalyje nustatytų pagrindų vykdyti šias baudžiamojo poveikio priemones atsiradimo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -12370,22 +12463,34 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 
 
-2. Jeigu nuteistajam bausmės vykdymas buvo atidėtas iš dalies, bausmės vykdymo atidėjimas pradedamas vykdyti, kai nuteistasis atliko nuosprendyje nustatytą bausmės dalį. Pataisos įstaigos administracija ne vėliau kaip per tris darbo dienas nuo nuteistojo paleidimo iš pataisos įstaigos išsiunčia teismo nuosprendį su patvarkymu probacijos tarnybai.
+2. Jeigu nuteistajam bausmės vykdymas buvo atidėtas iš dalies, bausmės vykdymo atidėjimas pradedamas vykdyti, kai nuteistasis atliko nuosprendžiu nustatytą bausmės dalį. Laisvės atėmimo vietų įstaigos administracija ne vėliau kaip per tris darbo dienas nuo nuteistojo paleidimo iš laisvės atėmimo vietų įstaigos dienos išsiunčia teismo nuosprendį su patvarkymu probacijos tarnybai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
 
-3. Nuteistajam, kuriam bausmės vykdymas atidėtas remiantis Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsniu, bausmės vykdymo atidėjimo sąlygas pakeičia arba bausmės vykdymo atidėjimą panaikina ir nuteistąjį pasiunčia atlikti paskirtą bausmę, išskyrus Lietuvos Respublikos bausmių vykdymo kodekso 1641 straipsnyje nurodytą atvejį, nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu.
+3. Nuteistajam, kuriam bausmės vykdymas atidėtas remiantis Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsniu, bausmės vykdymo atidėjimo sąlygas pakeičia arba bausmės vykdymo atidėjimą panaikina ir nuteistąjį pasiunčia atlikti paskirtos bausmės, išskyrus Lietuvos Respublikos bausmių vykdymo kodekso 89 straipsnyje nurodytą atvejį, nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
 
-4. Lietuvos Respublikos bausmių vykdymo kodekso 1641 straipsnyje nurodytu atveju bausmės vykdymo atidėjimą nuteistajam panaikina bausmės atlikimo vietos apylinkės teismas pataisos įstaigos teikimu.
+4. Lietuvos Respublikos bausmių vykdymo kodekso 89 straipsnyje nurodytu atveju bausmės vykdymo atidėjimą nuteistajam panaikina bausmės atlikimo vietos apylinkės teismas laisvės atėmimo vietų įstaigos teikimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
 
-5. Teismas, gavęs Lietuvos Respublikos bausmių vykdymo kodekso 1641 straipsnyje arba Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą pataisos įstaigos arba probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+5. Teismas, gavęs Lietuvos Respublikos bausmių vykdymo kodekso 89 straipsnyje arba Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą laisvės atėmimo vietų įstaigos arba probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -12434,25 +12539,25 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 
 
-360 straipsnis. Lygtinis paleidimas iš pataisos įstaigų
+360 straipsnis. Lygtinis paleidimas iš laisvės atėmimo vietų įstaigos
 
 
-1. Lietuvos Respublikos bausmių vykdymo kodekse numatytais atvejais klausimus dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimų nagrinėja ir nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas rašytinio proceso tvarka. Proceso dalyviai į teismo posėdį nešaukiami.
-
-
-
-
-2. Kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos patvirtinimo, teismas apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam ir prokurorui. Teismas, įvertinęs, ar Lygtinio paleidimo iš pataisos įstaigos komisijos nutarime išdėstytos išvados atitinka faktines aplinkybes, ar tinkamai taikytos Lietuvos Respublikos bausmių vykdymo kodekse nustatytos lygtinio paleidimo iš pataisos įstaigų sąlygos, priima motyvuotą nutartį patvirtinti šį nutarimą arba jo nepatvirtinti. Jei dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos buvo gautas skundas, šį klausimą teismas išnagrinėja ir išsprendžia kartu su skundu.
+1. Lietuvos Respublikos bausmių vykdymo kodekse numatytais atvejais klausimus dėl Lygtinio paleidimo komisijos nutarimų nagrinėja ir nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas rašytinio proceso tvarka. Proceso dalyviai į teismo posėdį nešaukiami.
 
 
 
 
-3. Kai nagrinėjamas skundas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo, teismas per tris darbo dienas nuo skundo gavimo apie gautą skundą ir teisę per keturiolika dienų nuo pranešimo išsiuntimo pateikti atsiliepimą, taip pat apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam ir prokurorui. Teismo reikalavimu bausmę vykdanti institucija asmens bylą pateikia likus ne mažiau kaip penkioms dienoms iki klausimo nagrinėjimo teisme.
+2. Kai nagrinėjamas klausimas dėl Lygtinio paleidimo komisijos nutarimo taikyti nuteistajam lygtinį paleidimą iš laisvės atėmimo vietų įstaigos patvirtinimo, teismas apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam ir prokurorui. Teismas, įvertinęs, ar Lygtinio paleidimo komisijos nutarime išdėstytos išvados atitinka faktines aplinkybes ir ar tinkamai taikytos Lietuvos Respublikos bausmių vykdymo kodekse nustatytos lygtinio paleidimo iš laisvės atėmimo vietų įstaigos sąlygos, priima motyvuotą nutartį patvirtinti šį nutarimą arba jo nepatvirtinti. Jei dėl Lygtinio paleidimo komisijos nutarimo taikyti nuteistajam lygtinį paleidimą iš laisvės atėmimo vietų įstaigos buvo gautas skundas, šį klausimą teismas išnagrinėja ir išsprendžia kartu su skundu.
 
 
 
 
-4. Teismas, išnagrinėjęs skundą dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo, priima vieną iš šių nutarčių:
+3. Kai nagrinėjamas skundas dėl Lygtinio paleidimo komisijos nutarimo, teismas per tris darbo dienas nuo skundo gavimo dienos apie gautą skundą ir teisę per keturiolika dienų nuo pranešimo išsiuntimo dienos pateikti atsiliepimą, taip pat apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam ir prokurorui. Teismo reikalavimu bausmę vykdanti institucija asmens bylą pateikia likus ne mažiau kaip penkioms dienoms iki klausimo nagrinėjimo teisme dienos.
+
+
+
+
+4. Teismas, išnagrinėjęs skundą dėl Lygtinio paleidimo komisijos nutarimo, priima vieną iš šių nutarčių:
 
 
 1) atmesti skundą;
@@ -12460,56 +12565,37 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 
 
-2) patenkinti skundą ir taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos – kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos;
+2) patenkinti skundą ir taikyti nuteistajam lygtinį paleidimą iš laisvės atėmimo vietų įstaigos, – kai nagrinėjamas klausimas dėl Lygtinio paleidimo komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš laisvės atėmimo vietų įstaigos;
 
 
 
 
-3) patenkinti skundą ir pakeisti Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą – kai nagrinėjamas šios dalies 2 punkte nenurodytas klausimas.
+3) patenkinti skundą ir pakeisti Lygtinio paleidimo komisijos nutarimą, – kai nagrinėjamas šios dalies 2 punkte nenurodytas klausimas.
 
 
 
 
 
 
-5. Neteko galios 2020-07-01. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
- 
+5. Šiame straipsnyje nurodytų teismo nutarčių nuorašai ne vėliau kaip kitą darbo dieną nuo nutarčių priėmimo dienos išsiunčiami nuteistajam ir prokurorui. Nutartys skundžiamos ir skundai nagrinėjami šio Kodekso 364 straipsnyje nustatyta tvarka. 
 
 
 
 
-6. Neteko galios 2020-07-01.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
- 
+6. Nuteistajam, kuris lygtinai paleistas iš laisvės atėmimo vietų įstaigos remiantis Lietuvos Respublikos bausmių vykdymo kodekso 82 straipsniu, probacijos sąlygas pakeičia arba lygtinį paleidimą panaikina ir nuteistąjį pasiunčia atlikti likusios nuosprendžiu paskirtos laisvės atėmimo bausmės dalies nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu šio Kodekso 362 straipsnyje nustatyta tvarka.
 
 
 
 
-7. Šiame straipsnyje nurodytų teismo nutarčių nuorašai ne vėliau kaip kitą darbo dieną nuo nutarčių priėmimo išsiunčiami nuteistajam ir prokurorui. Nutartys skundžiamos ir skundai nagrinėjami šio Kodekso 364 straipsnyje nustatyta tvarka. 
+7. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
 
 
-
-
-8. Nuteistajam, kuris lygtinai paleistas iš pataisos įstaigos remiantis Lietuvos Respublikos bausmių vykdymo kodekso 157 straipsniu, probacijos sąlygas pakeičia arba lygtinį paleidimą iš pataisos įstaigos panaikina ir nuteistąjį pasiunčia atlikti likusią nuosprendžiu paskirtos laisvės atėmimo bausmės dalį nuteistojo gyvenamosios vietos apylinkės teismas probacijos tarnybos teikimu šio Kodekso 362 straipsnyje nustatyta tvarka.
-
-
-
-
-9. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
-Papildyta straipsnio dalimi:
-Nr. XII-2409, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15664
- 
-
-
-TAR pastaba. Klausimus dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimų ir skundų (atsiliepimų) dėl šių nutarimų, pateiktų iki 2015 m. rugpjūčio 31 d., teismas nuo 2015 m. rugsėjo 1 d. sprendžia 2015 m. birželio 23 d. įstatymo Nr. XII-1820 išdėstytame Lietuvos Respublikos baudžiamojo proceso kodekso 360 straipsnyje nustatyta tvarka.
-Straipsnio pakeitimai:
+ Straipsnio pakeitimai:
 Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
 Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 Straipsnio pakeitimai:
 Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
  
 
 
@@ -12588,7 +12674,10 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 
 
-2. Klausimus dėl baudos nuteistajam pakeitimo kita bausme pagal šio Kodekso 352 straipsnį nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Klausimus dėl nuteistojo lygtinio paleidimo iš pataisos įstaigos pagal šio Kodekso 360 straipsnio 8 dalį nagrinėja ir nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas. Šioje dalyje nurodytiems klausimams spręsti gali, o kai teikimas ar prašymas paduotas remiantis nuteistojo padėtį bloginančiais pagrindais, privalo būti rengiamas teismo posėdis, kuriame dalyvauja bausmę vykdančios institucijos atstovas. Į posėdį teismas šaukia nuteistąjį, prokurorą ir gynėją, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.
+2. Klausimus dėl baudos nuteistajam pakeitimo kita bausme pagal šio Kodekso 352 straipsnį nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Klausimus dėl nuteistojo lygtinio paleidimo iš laisvės atėmimo vietų įstaigos pagal šio Kodekso 360 straipsnio 6 dalį nagrinėja ir nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas. Šioje dalyje nurodytiems klausimams spręsti gali, o kai teikimas ar prašymas paduotas remiantis nuteistojo padėtį bloginančiais pagrindais, – privalo būti rengiamas teismo posėdis, kuriame dalyvauja bausmę vykdančios institucijos atstovas. Į posėdį teismas šaukia nuteistąjį, prokurorą ir gynėją, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -12795,7 +12884,10 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 
 
-3. Užsienio valstybės teismo nuosprendžiu paskirtą laisvės atėmimo bausmę su Lietuvos Respublikos baudžiamųjų ir bausmių vykdymo įstatymų reikalavimais Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais ir sąlygomis suderina ir pataisos įstaigos rūšį nustato apylinkės teismas, kurio veiklos teritorijoje yra iš užsienio valstybės perimto nuteistojo laisvės atėmimo vieta, šią laisvės atėmimo bausmę vykdančios pataisos įstaigos administracijos teikimu. Tuo atveju, kai nuteistasis yra Lietuvos Respublikos teritorijoje ir jo laisvė nėra apribota, laisvės atėmimo bausmės suderinimo klausimą sprendžia nuteistojo gyvenamosios vietos apylinkės teismas, gavęs Lietuvos Respublikos teisingumo ministerijos prašymą. 
+3. Užsienio valstybės teismo nuosprendžiu paskirtą laisvės atėmimo bausmę su Lietuvos Respublikos baudžiamųjų ir bausmių vykdymo įstatymų reikalavimais Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais ir sąlygomis suderina apylinkės teismas, kurio veiklos teritorijoje yra iš užsienio valstybės perimto nuteistojo laisvės atėmimo vieta, laisvės atėmimo vietų įstaigos administracijos teikimu. Tuo atveju, kai nuteistasis yra Lietuvos Respublikos teritorijoje ir jo laisvė nėra apribota, laisvės atėmimo bausmės suderinimo klausimą sprendžia nuteistojo gyvenamosios vietos apylinkės teismas, gavęs Lietuvos Respublikos teisingumo ministerijos prašymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -13492,7 +13584,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-8. Jeigu išnagrinėjus bylą kasacine tvarka nuteistasis turi būti paleistas iš laisvės atėmimo vietos, nutartis turi būti perduota vykdyti jos paskelbimo dieną.
+8. Jeigu, išnagrinėjus bylą kasacine tvarka, nuteistasis turi būti paleistas iš laisvės atėmimo vietų įstaigos, nutartis turi būti perduota vykdyti jos paskelbimo dieną.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 Straipsnio pakeitimai:
@@ -15409,7 +15504,10 @@ Nr. XI-1862, 2011-12-22, Žin., 2012, Nr. 4-109 (2012-01-06)
 
 
 
-3. Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegija per vieną mėnesį nuo šio straipsnio 2 dalyje nurodytos nutarties priėmimo dienos, o kai yra pagrindas manyti, jog nuteistąjį reikia paleisti iš laisvės atėmimo vietos, – nedelsdama nutartimi išsprendžia klausimą, ar reikia baudžiamąją bylą atnaujinti.
+3. Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegija per vieną mėnesį nuo šio straipsnio 2 dalyje nurodytos nutarties priėmimo dienos, o kai yra pagrindas manyti, kad nuteistąjį reikia paleisti iš laisvės atėmimo vietų įstaigos, – nedelsdama nutartimi išsprendžia klausimą, ar reikia baudžiamąją bylą atnaujinti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -15473,7 +15571,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-6. Jeigu nuteistasis turi būti paleistas iš laisvės atėmimo vietos, visa nutartis turi būti surašyta ir perduota vykdyti jos paskelbimo dieną.
+6. Jeigu nuteistasis turi būti paleistas iš laisvės atėmimo vietų įstaigos, visa nutartis turi būti surašyta ir perduota vykdyti jos paskelbimo dieną.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -15696,7 +15797,10 @@ Nr. XII-2556, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20293
 
 
 
-5. Jeigu, išnagrinėjus atnaujintą bylą, nuteistasis turi būti paleistas iš laisvės atėmimo vietos, nutartis perduodama vykdyti jos paskelbimo dieną.
+5. Jeigu, išnagrinėjus atnaujintą bylą, nuteistasis turi būti paleistas iš laisvės atėmimo vietų įstaigos, nutartis perduodama vykdyti jos paskelbimo dieną.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+ 
 
 
 
@@ -15770,7 +15874,7 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-part_8152b7371ac940798bfd1408a562d06d_end
+part_f3fb3ba3f7d74564ac3075d0dfc1a162_end
 
 
  
@@ -16591,3 +16695,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 69, 69-1, 101, 128, 165, 188, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1475, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22948
 Lietuvos Respublikos baudžiamojo proceso kodekso 128, 141, 142 straipsnių pakeitimo ir Kodekso papildymo 174-1 straipsniu įstatymas
+ 
+66.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1750, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27303
+Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 229-1 straipsniu įstatymas
