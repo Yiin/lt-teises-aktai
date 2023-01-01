@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2019-06-11 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-11-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
  
@@ -146,12 +146,18 @@ Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 
 
-9. Išsamus įsipareigojamasis pasiūlymas – ekonominės veiklos vykdytojo raštu ir elektroninėmis priemonėmis teikiamų dokumentų ir duomenų visuma, kuria teikiamas siūlymas atlikti darbus ir (ar) teikti paslaugas pagal suteikiančiosios institucijos nustatytas koncesijos suteikimo sąlygas.
+9. Išsamus įsipareigojamasis pasiūlymas – ekonominės veiklos vykdytojo raštu teikiamas siūlymas atlikti darbus ir (ar) teikti paslaugas pagal suteikiančiosios institucijos nustatytas koncesijos suteikimo sąlygas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
 
-10. Koncesija – suteikiančiosios institucijos koncesininkui pagal šį įstatymą ir sudaromą sutartį suteikiamas leidimas vykdyti ūkinę komercinę veiklą, apimančią paslaugų teikimą ir (ar) darbų vykdymą, ir (ar) viešųjų paslaugų teikimą, kai koncesininkas prisiima visą ar didžiąją dalį su tokia veikla susijusios rizikos bei atitinkamas teises ir pareigas, o jo atlygį už tokią veiklą sudaro tik teisės užsiimti atitinkama veikla suteikimas ir pajamos iš tokios veiklos arba tokios teisės suteikimas ir pajamos iš tokios veiklos kartu su atlygiu, mokamu koncesininkui suteikiančiosios institucijos, atsižvelgiant į jos prisiimtą riziką. 
+10. Koncesija – suteikiančiosios institucijos koncesininkui pagal šį įstatymą ir sudaromą sutartį suteikiamas leidimas vykdyti ekonominę veiklą, apimančią paslaugų teikimą ir (ar) darbų vykdymą, ir (ar) viešųjų paslaugų teikimą, kai koncesininkas prisiima visą ar didžiąją dalį su tokia veikla susijusios rizikos bei atitinkamas teises ir pareigas, o jo atlygį už tokią veiklą sudaro tik teisės užsiimti atitinkama veikla suteikimas ir pajamos iš tokios veiklos arba tokios teisės suteikimas ir pajamos iš tokios veiklos kartu su atlygiu, mokamu koncesininkui suteikiančiosios institucijos, atsižvelgiant į jos prisiimtą riziką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -174,7 +180,10 @@ Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 
 
-13. Koncesijos sutarties sudarymo atidėjimo terminas (toliau – atidėjimo terminas) – 15 dienų laikotarpis, kuris prasideda nuo pranešimo apie sprendimą sudaryti koncesijos sutartį išsiuntimo suteikiančiosios institucijos suinteresuotiems dalyviams dienos ir kurio metu negali būti sudaroma koncesijos sutartis.
+13. Koncesijos sutarties sudarymo atidėjimo terminas (toliau – atidėjimo terminas) – pagal šio įstatymo reikalavimus nustatytas laikotarpis, kuris prasideda nuo pranešimo apie sprendimą sudaryti koncesijos sutartį išsiuntimo suteikiančiosios institucijos suinteresuotiems dalyviams dienos ir kuriam pasibaigus sudaroma koncesijos sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -199,7 +208,7 @@ Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 
 
-18. Nepriekaištingos reputacijos asmuo – asmuo:
+18. Nepriekaištingos reputacijos asmuo – asmuo, atitinkantis visas šias sąlygas:
 
 
 1) kuris atitinka Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos kriterijus, keliamus asmeniui, einančiam valstybės tarnautojo pareigas;
@@ -207,14 +216,17 @@ Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 
 
-2) kuris nėra pripažintas pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymą arba dėl kurio sprendimas pripažinti jį pažeidusiu šį įstatymą priimtas daugiau kaip prieš vienus metus iki Komisijos sudarymo dienos; 
+2) kuris nėra pripažintas pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymą arba dėl kurio sprendimas pripažinti jį pažeidusiu šį įstatymą priimtas anksčiau kaip prieš vienus metus iki Komisijos sudarymo dienos; 
 
 
 
 
-3) kuriam nėra paskirta administracinė nuobauda (išskyrus įspėjimą) už šio įstatymo, Viešųjų pirkimų įstatymo, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo (toliau – Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas), Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo (toliau – Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas), taip pat šių įstatymų įgyvendinamųjų teisės aktų pažeidimą arba sprendimas dėl tokios administracinės nuobaudos paskyrimo priimtas daugiau kaip prieš vienus metus iki Komisijos sudarymo dienos.
+3) kuriam nėra paskirta administracinė nuobauda (išskyrus įspėjimą) už šio įstatymo, Viešųjų pirkimų įstatymo, Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo, Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo, šių įstatymų įgyvendinamųjų teisės aktų pažeidimą arba sprendimas dėl tokios administracinės nuobaudos paskyrimo įsiteisėjo ar asmuo įvykdė administracinį nurodymą anksčiau kaip prieš vienus metus iki Komisijos sudarymo dienos.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -224,7 +236,10 @@ Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 
 
-20. Netinkama paraiška – paraiška, kurią pateikęs ekonominės veiklos vykdytojas atitinka suteikiančiosios institucijos koncesijos dokumentuose nustatytą ekonominės veiklos vykdytojo pašalinimo pagrindą arba neatitinka šiuose dokumentuose nustatytų kvalifikacijos reikalavimų.
+20. Netinkama paraiška – paraiška, kurią pateikęs dalyvis atitinka suteikiančiosios institucijos koncesijos dokumentuose nustatytą ekonominės veiklos vykdytojo pašalinimo pagrindą arba neatitinka šiuose dokumentuose nustatytų kvalifikacijos reikalavimų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -239,7 +254,10 @@ Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 
 
-23. Pasiūlymas – dalyvio raštu ir elektroninėmis priemonėmis teikiamų dokumentų ir duomenų visuma, apimanti preliminarų neįsipareigojamąjį pasiūlymą ir išsamų įsipareigojamąjį pasiūlymą ir paaiškinimus. 
+23. Pasiūlymas – dalyvio raštu teikiamų dokumentų ir duomenų visuma, apimanti preliminarų neįsipareigojamąjį pasiūlymą ir išsamų įsipareigojamąjį pasiūlymą ir paaiškinimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -269,12 +287,22 @@ Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 
 
 
+281. Supaprastinta koncesija – koncesija, kurios vertė yra mažesnė už šio įstatymo 3 straipsnio 29 dalyje nurodytą vertę. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
+
+
+
+
 29. Tarptautinė koncesija – koncesija, kurios vertė be pridėtinės vertės mokesčio yra lygi arba viršija Direktyvos 2014/23/ES 8 straipsnio 1 dalyje nustatytą koncesijos vertės ribą, kuri kas 2 metus peržiūrima, tikslinama ir skelbiama Europos Sąjungos oficialiajame leidinyje.
 
 
 
 
-30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3) (toliau – Reglamentas Nr. 1008/2008/EB), 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1), keleivinio autobusų, tramvajų, geležinkelių ar metro transporto viešosioms paslaugoms teikti, kurios buvo suteiktos konkurso tvarka (toliau – Reglamentas Nr. 1370/2007/EEB), Lietuvos Respublikos elektroninių ryšių įstatyme (toliau – Elektroninių ryšių įstatymas), Lietuvos Respublikos visuomenės informavimo įstatyme. 
+30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių, 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70, keleivinio autobusų, tramvajų, geležinkelių ar metro transporto viešosioms paslaugoms teikti, kurios buvo suteiktos konkurso tvarka, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Viešųjų pirkimų įstatyme, Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -300,7 +328,7 @@ KONCESIJOS VERTĖ
  
 
 
-5 straipsnis. Numatomos koncesijos vertės skaičiavimas 
+5 straipsnis. Numatomos koncesijos vertės skaičiavimas
 
 
 1. Koncesijos vertę sudaro suteikiančiosios institucijos koncesijos sutarties vykdymo laikotarpiu apskaičiuotos koncesininko pajamos, neįskaitant pridėtinės vertės mokesčio, kurios bus gautos kaip atlygis už darbus ir paslaugas, kurie yra koncesijos dalykas, taip pat už prekes, susijusias su tokiais darbais ir paslaugomis.
@@ -308,7 +336,7 @@ KONCESIJOS VERTĖ
 
 
 
-2. Koncesijos vertė apskaičiuojama iki šio įstatymo 14 straipsnio 9 ir 10 dalyse nurodytų sprendimų priėmimo dienos. 
+2. Koncesijos vertė apskaičiuojama iki šio įstatymo 14 straipsnio 9 ir 10 dalyse nurodytų sprendimų priėmimo dienos ir gali būti tikslinama iki koncesijos suteikimo procedūros pradžios.
 
 
 
@@ -316,12 +344,12 @@ KONCESIJOS VERTĖ
 3. Koncesijos vertė apskaičiuojama taikant objektyvų koncesijos dokumentuose nurodytą metodą. Apskaičiuojant koncesijos vertę, suteikiančioji institucija turi atsižvelgti į:
 
 
-1) koncesijos sutarties trukmę ir koncesijos sutarties pratęsimą, jeigu toks numatytas;
+1) visas koncesijos sutarties pasirinkimo galimybes, koncesijos sutarties trukmę ir koncesijos sutarties pratęsimą, jeigu toks numatytas; 
 
 
 
 
-2) koncesininko pajamas iš darbų ir teisės eksploatuoti darbų rezultatus ir (ar) paslaugų, gautinas kaip tiesioginių vartotojų sumokami mokėjimai (įskaitant netesybas) už naudojimąsi darbų rezultatais ir paslaugomis;
+2) koncesininko pajamas iš darbų ir teisės eksploatuoti darbų rezultatus ir (ar) paslaugų, gautinas kaip tiesioginių vartotojų sumokami mokėjimai (įskaitant netesybas) už naudojimąsi darbų rezultatais ir paslaugomis. Į šias pajamas neįskaičiuojamos koncesininko pajamos, kurias pagal koncesijos sutartį koncesininkas perduoda suteikiančiajai institucijai;
 
 
 
@@ -356,14 +384,14 @@ KONCESIJOS VERTĖ
 
 
 
-9) kitas koncesijos sutarties vykdymo metu gautinas pajamas, nenurodytas šios dalies 1–8 punktuose.
+9) kitas koncesijos sutarties vykdymo metu gautinas pajamas, nenurodytas šios dalies  1–8 punktuose.
 
 
 
 
 
 
-4. Jeigu koncesijos suteikimo metu koncesijos vertė padidėja arba sumažėja daugiau kaip 20 procentų negu vertė, nustatyta šio įstatymo 14 straipsnio 9 ir 10 dalyse nurodytuose sprendimuose, koncesijos verte laikoma ta vertė, kuri apskaičiuota koncesijos suteikimo metu.
+4. Jeigu koncesijos suteikimo metu koncesijos vertė padidėja daugiau kaip 20 procentų, palyginti su ta verte, kuri apskaičiuota iki koncesijos suteikimo procedūros pradžios, koncesijos verte laikoma ta vertė, kuri apskaičiuota koncesijos suteikimo metu.
 
 
 
@@ -373,10 +401,12 @@ KONCESIJOS VERTĖ
 
 
 
-6. Tais atvejais, kai koncesija skaidoma į atskiras darbų ir paslaugų dalis, bendrą koncesijos vertę sudaro visų dalių vertė.
+6. Kai koncesija skaidoma į atskiras darbų ir paslaugų dalis, bendrą koncesijos vertę sudaro visų dalių vertė. Kai koncesijos suteikimo metu ketinama sudaryti koncesijos sutartį kiekvienai koncesijos daliai, vadovaujamasi šio įstatymo nuostatomis, kurios taikytinos atsižvelgiant į bendrą visų koncesijos dalių vertę.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -449,7 +479,10 @@ e) kitų teisinių paslaugų, susijusių su viešosios valdžios funkcijų vykdy
 
 
 
-7) darbo sutarčių;
+7) neteko galios nuo 2023-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -634,37 +667,47 @@ KONCESIJŲ YPATUMAI
 11 straipsnis. Mišrios sutartys
 
 
-1. Mišriomis sutartimis laikomos šios sutartys:
+1. Kai koncesijos dalykas apima:
 
 
-1) kurių dalykas yra darbai ir paslaugos. Jeigu koncesijos dalykas yra ir darbai, ir paslaugos, tokia koncesija laikytina atitinkamai darbų koncesija arba paslaugų koncesija, priklausomai nuo to, kuri – darbų ar paslaugų – vertė yra didesnė;
-
-
-
-
-2) kurios vienai ar kelioms dalims taikytinas šis įstatymas, o kitai daliai ar dalims – Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo, Sutarties dėl Europos Sąjungos veikimo 346 straipsnio arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos; 
+1) darbus kartu su paslaugomis, taikomos šio įstatymo nuostatos, kurios taikytinos pagrindinei mišrios koncesijos sutarties dalyko daliai;
 
 
 
 
-3) kurios vienai daliai ar kelioms dalims taikomos šio įstatymo nuostatos, o kitai daliai ar dalims – kiti Lietuvos Respublikos arba Europos Sąjungos teisės aktai, išskyrus šio straipsnio 1 dalies 2 punkte nurodytą sutartį. Tokiu atveju suteikiančioji institucija gali pasirinkti sudaryti vieną sutartį dėl visų dalių arba sudaryti sutartis dėl kiekvienos dalies atskirai. Suteikiančioji institucija, nusprendusi sudaryti sutartis dėl atskirų dalių, sprendimą, ar taikyti šio įstatymo nuostatas, priima įvertinusi atitinkamos koncesijos sutarties dalies savybes.
+2) šio įstatymo 4 priede nurodytas paslaugas ir kitas paslaugas, taikomos šio įstatymo nuostatos, taikytinos mišrios koncesijos sutarties dalyko daliai, kurios numatoma koncesijos vertė yra didžiausia, palyginti su kitomis tos koncesijos dalimis.
 
 
 
 
 
 
-2. Tuo atveju, kai suteikiančioji institucija pasirenka sudaryti mišrią sutartį atsižvelgiant į šio straipsnio 1 dalies 1 punktą, tokiai sutarčiai taikomos šio įstatymo nuostatos.
+2. Kai sudaroma sutartis, kurios dalykas apima koncesijų ir kitus elementus, suteikiančioji institucija gali sudaryti vieną sutartį arba sudaryti atskiras sutartis dėl skirtingų dalyko dalių. Kai suteikiančioji institucija nusprendžia sudaryti:
+
+
+1) sutartis dėl skirtingų dalyko dalių, sprendimas dėl šio įstatymo nuostatų taikymo priimamas dėl kiekvienos dalies atskirai, įvertinus atitinkamo dalyko dalies ypatybes; 
 
 
 
 
-3. Jeigu dėl objektyvių priežasčių turi būti sudaroma mišri sutartis, kurioje yra tiek su koncesijomis, tiek su viešaisiais pirkimais susijusios dalys, kaip numatyta šio straipsnio 1 dalies 2 punkte, tokios sutarties sudarymui atitinkamai taikomos Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo, arba Sutarties dėl Europos Sąjungos veikimo 346 straipsnio, arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos. 
+2) mišrią sutartį, neatsižvelgiant į dalyko dalių vertę ir į tai, kokių teisės aktų nuostatos turėtų būti taikomas toms dalims, tokiai sutarčiai taikomos šio įstatymo nuostatos, išskyrus šio įstatymo 111 straipsnyje arba šios dalies 3 punkte numatytus atvejus;
 
 
 
 
-4. Pasirinkimo sudaryti vieną sutartį ar atskiras sutartis negali nulemti siekis išvengti šio įstatymo, Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo, arba Europos Sąjungos veikimo 346 straipsnio, arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatų taikymo. 
+3) mišrią sutartį dėl dalyko, turinčio koncesijų ir viešųjų pirkimų ar pirkimų sutarčių, kurioms taikomos atitinkamai Viešųjų pirkimų įstatymo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nuostatos, elementų, tokiai sutarčiai taikytinas teisės aktas nustatomas vadovaujantis Viešųjų pirkimų įstatymo 11 straipsnio 3 dalies 3 punkto arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 20 straipsnio 3 dalies 3 punkto nuostatomis.
+
+
+
+
+
+
+3. Jeigu dėl objektyvių priežasčių, susijusių su sutarties dalyko techninėmis ir (ar) ekonominėmis ypatybėmis, sutarties dalykas negali būti atskirtas, tokiai sutarčiai taikytinos teisės aktų nuostatos nustatomos atsižvelgiant į tai, kuri sutarties dalyko dalis yra pagrindinė. Kai sutartis apima paslaugų koncesijos ir prekių sutarties elementus, pagrindinė sutarties dalyko dalis nustatoma atsižvelgiant į tai, kuri iš atitinkamų paslaugų ar prekių numatomų verčių yra didesnė.
+
+
+
+
+4. Jeigu sutartimi siekiama apimti kelių rūšių veiklą, kurių vienai taikomas šio įstatymo 2 priedas arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas, taikytinos nuostatos nustatomos atitinkamai pagal šio įstatymo 12 straipsnį ir Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 21 straipsnį.
  
 
 
@@ -672,25 +715,53 @@ KONCESIJŲ YPATUMAI
 
 
 
-12 straipsnis. Sutartys, apimančios šio įstatymo 2 priede nurodytų rūšių ir kitų rūšių veiklą
+111 straipsnis. Mišrios sutartys, apimančios gynybos ar saugumo aspektus
 
 
-1. Jeigu siekiama suteikti koncesiją kelių rūšių veikloms, suteikiančioji institucija, vykdanti kurią nors iš šio įstatymo 2 priede nurodytų rūšių veiklą, gali sudaryti vieną sutartį arba atskiras kiekvienai veiklos rūšiai sutartis:
-
-
-1) priėmus sprendimą sudaryti atskiras sutartis, turi būti taikomos taisyklės, atsižvelgiant į atskiros veiklos pobūdį;
+1. Šio straipsnio nuostatos taikomos tais atvejais, kai sudaroma mišri sutartis dėl dalyko, kurio daliai taikomos šio įstatymo nuostatos, o kitai daliai – Sutarties dėl Europos Sąjungos veikimo 346 straipsnio arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos.
 
 
 
 
-2) priėmus sprendimą sudaryti vieną sutartį, taikomos šio straipsnio 2 dalies nuostatos.
+2. Kai sudaroma mišri sutartis apima kelių rūšių veiklas, kurių dalis patenka į šio įstatymo 2 priedo arba Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo taikymo sritį, o kitai daliai taikomos Sutarties dėl Europos Sąjungos veikimo 346 straipsnio arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos, taikomos šio įstatymo 12 straipsnio ir Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo 24 straipsnio nuostatos.
+
+
+
+
+3. Jeigu objektyviai gali būti sudaromos atskiros sutartys dėl skirtingų dalyko dalių, suteikiančioji institucija gali sudaryti vieną sutartį arba sudaryti sutartis dėl skirtingų dalyko dalių. Kai suteikiančioji institucija nusprendžia sudaryti:
+
+
+1) atskiras sutartis dėl skirtingų dalių, sprendimas, kokio teisės akto nuostatas taikyti, priimamas dėl kiekvienos sutarties atskirai, įvertinus atitinkamos sutarties dalyko ypatybes;
+
+
+
+
+2) mišrią sutartį dėl dalyko, kurio daliai taikomos Sutarties dėl Europos Sąjungos veikimo 346 straipsnio nuostatos arba skirtingoms dalims taikomos Sutarties dėl Europos Sąjungos veikimo 346 straipsnio ir Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos, tokiai sutarčiai šio įstatymo nuostatos netaikomos, jeigu mišrios sutarties sudarymas pagrįstas objektyviomis priežastimis;
+
+
+
+
+3) mišrią sutartį dėl dalyko, kurio daliai taikomos Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos, tokiai sutarčiai taikomos šio įstatymo arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos, jeigu mišrios sutarties sudarymas pagrįstas objektyviomis priežastimis.
 
 
 
 
 
 
-2. Sutarčiai, kuria siekiama apimti kelias veiklos rūšis, taikomos taisyklės, taikytinos veiklos rūšiai, kuriai vykdyti iš esmės suteikiama koncesija. Jeigu dėl objektyvių priežasčių nėra galimybės nustatyti, kuriai veiklos rūšiai iš esmės suteikiama koncesija, tokiu atveju koncesija suteikiama vadovaujantis šio įstatymo nuostatomis, reguliuojančiomis suteikiančiosios institucijos koncesijos suteikimą, jeigu vienai iš veiklos rūšių taikytinos šio įstatymo nuostatos, reguliuojančios suteikiančiosios institucijos koncesijos suteikimą, o kitai – suteikiančiosios institucijos, vykdančios kurią nors iš šio įstatymo 2 priede nurodytų rūšių veiklą, koncesijų suteikimą.
+4. Pasirinkimo sudaryti mišrią sutartį negali nulemti siekis išvengti šio įstatymo ir Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatų taikymo.
+
+
+
+
+5. Jeigu dėl objektyvių priežasčių, susijusių su sutarties dalyko techninėmis ir (arba) ekonominėmis ypatybėmis, negali būti sudaromos atskiros sutartys dėl dalyko, kurio daliai taikomos:
+
+
+1) Sutarties dėl Europos Sąjungos veikimo 346 straipsnio nuostatos, tokiai sutarčiai šio įstatymo nuostatos gali būti netaikomos;
+
+
+
+
+2) Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos, tokiai sutarčiai suteikiančioji institucija gali taikyti šio įstatymo arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatas.
  
 
 
@@ -698,25 +769,111 @@ KONCESIJŲ YPATUMAI
 
 
 
-13 straipsnis. Mokslinių tyrimų plėtros paslaugos 
+
+
+12 straipsnis. Sutartys, apimančios šio įstatymo 2 priede nurodytų rūšių veiklą ir kitų rūšių veiklą
+
+
+1. Neatsižvelgdama į šio įstatymo 11 straipsnio nuostatas, suteikiančioji institucija, vykdanti kurią nors iš šio įstatymo 2 priede nurodytų rūšių veiklą, siekdama sudaryti sutartį dėl kelių rūšių veiklų, gali sudaryti vieną sutartį arba atskiras sutartis dėl kiekvienos veiklos rūšies. Suteikiančioji institucija, nusprendusi sudaryti vieną sutartį, vadovaujasi šio straipsnio 3 ir 4 dalių nuostatomis. Tačiau tuo atveju, kai vienai iš veiklų, kurias apima sutartis, taikomos Sutarties dėl Europos Sąjungos veikimo 346 straipsnio nuostatos arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos, vadovaujamasi šio įstatymo 121 straipsnio nuostatomis.
+
+
+
+
+2. Pasirinkimo sudaryti vieną ar kelias atskiras sutartis negali nulemti siekis išvengti šio įstatymo taikymo arba atitinkamais atvejais Viešųjų pirkimų įstatymo ir Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo taikymo.
+
+
+
+
+3. Jeigu sutartis apima kelių rūšių veiklą, ji sudaroma vadovaujantis reguliavimu, taikytinu tai veiklai, dėl kurios sutartis iš esmės yra sudaryta. 
+
+
+
+
+4. Jeigu objektyviai neįmanoma nustatyti, dėl kurios veiklos rūšies sutartis iš esmės yra sudaryta, taikytinas reguliavimas nustatomas vadovaujantis šiomis nuostatomis:
+
+
+1) sutartis sudaroma vadovaujantis šio įstatymo nuostatomis, taikomomis šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytai suteikiančiajai institucijai, jeigu vienai iš veiklos rūšių, dėl kurios sudaroma sutartis, turėtų būti taikomos šio įstatymo nuostatos, skirtos šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytai suteikiančiajai institucijai, o kitai – šio įstatymo nuostatos, skirtos šio įstatymo 15 straipsnio 1 dalies 4 ir 5 punktuose nurodytai suteikiančiajai institucijai;
+
+
+
+
+2) sutartis sudaroma vadovaujantis Viešųjų pirkimų įstatymo nuostatomis, jeigu vienai iš veiklos rūšių, dėl kurios sudaroma sutartis, taikomos šio įstatymo nuostatos, o kitai – Viešųjų pirkimų įstatymo nuostatos;
+
+
+
+
+3) sutartis sudaroma vadovaujantis šio įstatymo nuostatomis, jeigu vienai iš veiklos rūšių, dėl kurios sudaroma sutartis, taikomos šio įstatymo nuostatos, o kitai – netaikomos nei šio įstatymo, nei Viešųjų pirkimų įstatymo, nei Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nuostatos.
+ 
+
+
+
+
+
+
+
+
+121 straipsnis. Koncesijų sutartys, apimančios šio įstatymo 2 priede nurodytų rūšių veiklą ir veiklą, susijusią su gynybos arba saugumo aspektais
+
+
+1. Suteikiančioji institucija, vykdanti kurią nors iš šio įstatymo 2 priede nurodytų rūšių veiklą, siekdama sudaryti sutartį dėl kelių rūšių veiklų, gali sudaryti vieną sutartį arba atskiras sutartis dėl kiekvienos veiklos rūšies. Suteikiančiajai institucijai nusprendus:
+
+
+1) sudaryti atskiras sutartis dėl skirtingų veiklos rūšių, sprendimas, kokio teisės akto nuostatas taikyti, priimamas dėl kiekvienos sutarties atskirai, įvertinus atitinkamos veiklos ypatybes;
+
+
+
+
+2) sudaryti vieną sutartį, neatsižvelgiant į šio įstatymo 111 straipsnio nuostatas, taikomos šio straipsnio 3 dalies nuostatos.
+
+
+
+
+
+
+2. Pasirinkimo sudaryti vieną ar kelias atskiras sutartis negali nulemti siekis išvengti šio įstatymo arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo taikymo.
+
+
+
+
+3. Kai sudaroma sutartis apima veiklą, kuriai taikytinos šio įstatymo ir:
+
+
+1) Sutarties dėl Europos Sąjungos veikimo 346 straipsnio nuostatos, sudarant sutartį šio įstatymo nuostatos gali būti netaikomos;
+
+
+
+
+2) Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos, sudarant sutartį taikomos šio įstatymo arba Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo nuostatos. Ši nuostata taikoma atsižvelgiant į Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme nustatytas pirkimo vertės ribas ir atvejus, kai Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo reikalavimai netaikomi. Jeigu šiame punkte nurodytos sutartys turi pirkimų ar kitų elementų, kuriems taikomos Sutarties dėl Europos Sąjungos veikimo 346 straipsnio nuostatos, jos gali būti sudaromos netaikant šio įstatymo nuostatų.
+ 
+
+
+
+
+
+
+
+
+13 straipsnis. Mokslinių tyrimų plėtros paslaugos
 
 
 Mokslinių tyrimų plėtros paslaugų koncesijoms, kurių BVPŽ kodai yra nuo 73000000-2 iki 73120000-9, 73300000-5, 73420000-2 ir 73430000-5, šis įstatymas taikomas, kai yra tenkinamos visos šios sąlygos:
 
 
-1) gauta nauda yra naudojama tik suteikiančiosios institucijos veiklos poreikiams tenkinti;
+1) gauta nauda yra taikoma tik suteikiančiosios institucijos veiklos poreikiams tenkinti;
 
 
 
 
 2) už teikiamą paslaugą viską sumoka pati suteikiančioji institucija.
+
+
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
-
-
-
-
 
 
 
@@ -734,7 +891,10 @@ BENDROSIOS KONCESIJŲ SUTEIKIMO TAISYKLĖS
 
 
 
-2. Koncesijos suteikiamos šio įstatymo III skyriaus pirmajame skirsnyje numatytu konkurso būdu, išskyrus atvejus, numatytus šio įstatymo III skyriaus antrajame skirsnyje, kai koncesijos gali būti suteikiamos be konkurso.
+2. Koncesijos suteikiamos šio įstatymo III skyriuje nurodytais koncesijų suteikimo būdais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -780,6 +940,13 @@ BENDROSIOS KONCESIJŲ SUTEIKIMO TAISYKLĖS
 
 
 11. Suteikiančioji institucija Vyriausybės nustatyta tvarka privalo gauti viešosios įstaigos Centrinės projektų valdymo agentūros (toliau – Centrinė projektų valdymo agentūra) išvadą, nurodytą šio įstatymo 66 straipsnio 2 dalies 1 punkte, ir Lietuvos Respublikos finansų ministerijos (toliau – Finansų ministerija) išvadą dėl koncesijos sutarties projekto finansinių sąlygų vertinimo fiskalinės drausmės reikalavimų požiūriu. 
+
+
+
+
+12. Mobilizacijos, karo, nepaprastosios padėties atveju ar kai Vyriausybė, įvertinusi riziką, kad veiksniai, dėl kurių buvo ar gali būti paskelbta mobilizacija, įvesta karo ar nepaprastoji padėtis, kelia grėsmę nacionaliniam saugumui, yra priėmusi sprendimą dėl Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies nuostatos taikymo, suteikiančioji institucija paraiškos ar pasiūlymo vertinimui ir sutarties nutraukimui mutatis mutandis gali taikyti Viešųjų pirkimų įstatymo 45 straipsnio 21 dalies ir 90 straipsnio 1 dalies 4 punkto nuostatas.
+Papildyta straipsnio dalimi:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -932,7 +1099,10 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 
-2. Koncesijos sutarčių, kurių trukmė ilgesnė kaip 5 metai, trukmė negali būti ilgesnė už laikotarpį, per kurį koncesininkas pagrįstai gali tikėtis atgauti atliekant darbus ir teikiant paslaugas įdėtas investicijas ir būtų gauta investuoto kapitalo grąža, atsižvelgiant į investicijas, būtinas konkretiems tikslams pasiekti. Investicijos, į kurias atsižvelgiama apskaičiavimo tikslais, turi apimti pradines investicijas ir investicijas, padarytas koncesijos vykdymo metu. 
+2. Ilgiau kaip 5 metus trunkančių koncesijos sutarčių maksimali trukmė neturi viršyti laikotarpio, kurio koncesininkui galėtų pagrįstai prireikti, kad būtų atgautos investicijos, skirtos darbams vykdyti ar paslaugoms teikti, ir būtų gauta investuoto kapitalo grąža, atsižvelgiant į investicijas, būtinas konkretiems tikslams pasiekti. Investicijos, į kurias atsižvelgiama apskaičiavimo tikslais, turi apimti pradines investicijas ir investicijas, atliktas koncesijos vykdymo metu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -969,7 +1139,10 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 19 straipsnis. Dalyvių skaičiaus apribojimas 
 
 
-1. Suteikiančioji institucija turi teisę apriboti dalyvių, kuriuos ji kvies pateikti pasiūlymus, skaičių. Suteikiančioji institucija koncesijos skelbime nurodo objektyvius ir nediskriminacinius kriterijus ir taisykles, kuriuos suteikiančioji institucija ketina taikyti atrinkdama dalyvius, kurie atitinka minimalius kvalifikacijos reikalavimus, mažiausią ir, jeigu reikia, didžiausią kviečiamų pateikti pasiūlymus dalyvių skaičių. Kviečiamų dalyvių skaičius turi būti pakankamas konkurencijai užtikrinti, tačiau negali būti mažesnis kaip trys, išskyrus šio straipsnio 2 dalyje ir šio įstatymo 29 straipsnio 3 dalyje nurodytus atvejus.
+1. Suteikiančioji institucija turi teisę apriboti dalyvių, kuriuos ji kvies pateikti pasiūlymus, skaičių. Suteikiančioji institucija koncesijos skelbime nurodo objektyvius ir nediskriminacinius kriterijus ir taisykles, kuriuos suteikiančioji institucija ketina taikyti atrinkdama dalyvius, kurie atitinka minimalius kvalifikacijos reikalavimus, mažiausią ir, jeigu reikia, didžiausią kviečiamų pateikti pasiūlymus dalyvių skaičių. Kviečiamų dalyvių skaičius turi būti pakankamas konkurencijai užtikrinti, tačiau negali būti mažesnis kaip trys, išskyrus šio straipsnio 2 dalyje ir šio įstatymo 54 straipsnio 1 dalyje nurodytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -982,10 +1155,16 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 
-20 straipsnis. Koncesijos suteikimo komisija 
+20 straipsnis. Koncesijos suteikimą atliekantys ir kiti su koncesijos suteikimu ar jos vykdymu susiję asmenys 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
-1. Suteikiančioji institucija koncesijų suteikimo procedūroms atlikti privalo sudaryti Komisiją, nustatyti jai užduotis ir suteikti visus įgaliojimus toms užduotims atlikti. Jeigu suteikiančioji institucija koncesijos suteikimui organizuoti ir procedūroms iki koncesijos sutarties sudarymo atlikti įgalioja kitą instituciją, šiuos veiksmus atlieka įgaliotoji institucija. Komisija dirba pagal suteikiančiosios institucijos patvirtintą darbo reglamentą, yra jai atskaitinga ir vykdo tik rašytines jos užduotis ir įpareigojimus. Darbo reglamente taip pat turi būti nustatyta Komisijos narių, patekusių į interesų konflikto situaciją, nusišalinimo tvarka. 
+1. Suteikiančioji institucija koncesijų suteikimo procedūroms atlikti privalo sudaryti Komisiją, nustatyti jai užduotis ir suteikti visus įgaliojimus toms užduotims atlikti. Suteikiančioji institucija gali sudaryti atskiras komisijas koncesijos pasirengimo, ginčų nagrinėjimo ar sutarties vykdymo etapams vykdyti arba tokias užduotis nustatyti koncesijos procedūras atliekančiai Komisijai. Jeigu suteikiančioji institucija koncesijos suteikimui organizuoti ir procedūroms iki koncesijos sutarties sudarymo atlikti įgalioja kitą instituciją, šiuos veiksmus atlieka įgaliotoji institucija. Komisija dirba pagal suteikiančiosios institucijos patvirtintą darbo reglamentą, yra jai atskaitinga ir vykdo tik rašytines jos užduotis ir įpareigojimus. Darbo reglamente taip pat turi būti nustatyta Komisijos narių, patekusių į interesų konflikto situaciją, nusišalinimo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1000,7 +1179,10 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 
-4. Komisijos pirmininku skiriamas Komisiją sudariusios suteikiančiosios institucijos vadovas arba jo įgaliotas šios suteikiančiosios institucijos ar bendru pavaldumu susijusios kitos suteikiančiosios institucijos darbuotojas. Jeigu suteikiančioji institucija koncesijos suteikimui organizuoti ir procedūroms iki koncesijos sutarties sudarymo atlikti įgalioja kitą instituciją, Komisijos pirmininku gali būti skiriamas šios institucijos vadovas arba jo įgaliotas šios institucijos darbuotojas. Skiriant Komisijos narius, turi būti atsižvelgiama į jų ekonomines, technines, teisines žinias ir šio įstatymo bei kitų koncesijas reguliuojančių teisės aktų išmanymą. Komisijos nariais gali būti tik nepriekaištingos reputacijos asmenys. Komisijos posėdžiai ir priimami sprendimai yra teisėti, kai posėdyje dalyvauja daugiau kaip pusė visų Komisijos narių. 
+4. Komisijos pirmininku skiriamas Komisiją sudariusios suteikiančiosios institucijos vadovas arba jo įgaliotas šios suteikiančiosios institucijos ar bendru pavaldumu susijusios kitos suteikiančiosios institucijos darbuotojas. Jeigu suteikiančioji institucija koncesijos suteikimui organizuoti ir procedūroms iki koncesijos sutarties sudarymo atlikti įgalioja kitą instituciją, Komisijos pirmininku gali būti skiriamas šios institucijos vadovas arba jo įgaliotas šios institucijos darbuotojas. Skiriant Komisijos narius, turi būti atsižvelgiama į jų ekonomines, technines, teisines žinias ir šio įstatymo bei kitų koncesijas reglamentuojančių teisės aktų išmanymą, taip pat kitas specialiąsias žinias, kurios padėtų siekti aplinkos apsaugos, socialinių tikslų, skatinti inovacijų pasiūlą. Komisijos nariais gali būti tik nepriekaištingos reputacijos asmenys. Komisijos posėdžiai ir priimami sprendimai yra teisėti, kai posėdyje dalyvauja daugiau kaip pusė visų Komisijos narių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1011,6 +1193,13 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 6. Komisijos posėdžiai gali vykti Centrinės viešųjų pirkimų informacinės sistemos priemonėmis.
+
+
+
+
+7. Suteikiančioji institucija skiria asmenį (asmenis), atsakingą (atsakingus) už koncesijos sutarties vykdymą. Šis reikalavimas gali būti netaikomas, jeigu Komisijai nustatytos užduotys apima visus sutarties vykdymo etapus. Skiriant asmenį (asmenis), atsakingą (atsakingus) už koncesijos sutarties vykdymą, turi būti atsižvelgiama į koncesijos dalyko ir šio įstatymo 62 ir 63 straipsnių nuostatų išmanymą.
+Papildyta straipsnio dalimi:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -1044,14 +1233,25 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 
-3) pateiktos dalyvio pašalinimo pagrindų nebuvimą ir atitiktį kvalifikacijos reikalavimams patvirtinančiuose dokumentuose.
+3) pateiktos dalyvio pašalinimo pagrindų nebuvimą, atitiktį kvalifikacijos reikalavimams patvirtinančiuose dokumentuose, išskyrus informaciją, kurią atskleidus būtų pažeisti dalyvio įsipareigojimai pagal su trečiaisiais asmenimis sudarytas sutartis, – tuo atveju, kai ši informacija reikalinga dalyviui jo teisėtiems interesams ginti;
 
 
 
 
+4) apie pasitelktus ūkio subjektus, kurių pajėgumais remiasi dalyvis, ir subrangovus – tuo atveju, kai ši informacija reikalinga dalyviui jo teisėtiems interesams ginti.
 
 
-4. Suteikiančioji institucija, kilus abejonių dėl pasiūlyme nurodytos informacijos konfidencialumo, gali prašyti dalyvio įrodyti informacijos konfidencialumo pagrįstumą. Jeigu dalyvis per suteikiančiosios institucijos nurodytą terminą, kuris negali būti trumpesnis kaip 5 darbo dienos, nepateikia tokių įrodymų arba pateikia netinkamus įrodymus, laikoma, kad tokia informacija yra nekonfidenciali.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
+
+
+
+
+4. Suteikiančioji institucija, kilus abejonių dėl pasiūlyme nurodytos informacijos konfidencialumo, gali prašyti dalyvio įrodyti informacijos konfidencialumo pagrįstumą. Jeigu dalyvis per suteikiančiosios institucijos nurodytą terminą, kuris negali būti trumpesnis kaip 3 darbo dienos, nepateikia tokių įrodymų arba pateikia netinkamus įrodymus, laikoma, kad tokia informacija yra nekonfidenciali.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1069,26 +1269,35 @@ b) asmenis, kuriems specialiosios arba išimtinės teisės suteiktos laikantis p
 
 
 
-22 straipsnis. Interesų konfliktas 
+22 straipsnis. Interesų konfliktas suteikiančiojoje institucijoje
 
 
-1. Koncesijose kylantiems interesų konfliktams priskiriami atvejai, kai suteikiančiosios institucijos ar įgaliotosios institucijos darbuotojai, iniciatoriai, Komisijos nariai ar ekspertai, dalyvaujantys koncesijos suteikimo procedūroje ar galintys daryti įtaką jos rezultatams, turi tiesioginį ar netiesioginį finansinį, ekonominį ar kitokio pobūdžio asmeninį suinteresuotumą, galintį neigiamai paveikti koncesijos suteikimo procedūroje priimamų sprendimų nešališkumą ir nepriklausomumą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
+1. Suteikiančiosios institucijos koncesijose kylantiems interesų konfliktams priskiriami atvejai, kai suteikiančiosios institucijos ar įgaliotosios institucijos darbuotojai, iniciatoriai, Komisijos nariai ar ekspertai, dalyvaujantys koncesijos suteikimo procese ar galintys daryti įtaką jos rezultatams, turi tiesioginį ar netiesioginį finansinį, ekonominį ar kitokio pobūdžio asmeninį suinteresuotumą, galintį neigiamai paveikti koncesijos suteikimo proceso metu rengiamų, svarstomų ir (ar) priimamų sprendimų nešališkumą ir nepriklausomumą.
+
+
+
+
+2. Suteikiančioji institucija, siekdama užkirsti kelią koncesijose kylantiems interesų konfliktams, turi:
+
+
+1) reikalauti, kad kiekvienas šio straipsnio 1 dalyje nurodytas asmuo koncesijos suteikimo procese dalyvautų ar su koncesija susijusius sprendimus priimtų tik prieš tai pasirašęs konfidencialumo pasižadėjimą, Viešųjų ir privačių interesų derinimo įstatymo nustatyta tvarka deklaravęs privačius interesus, o asmenys, kuriems neprivaloma deklaruoti privačius interesus, – pasirašę Viešųjų pirkimų tarnybos kartu su Vyriausiąja tarnybinės etikos komisija nustatytos formos nešališkumo deklaraciją. Suteikiančiosios institucijos ar įgaliotosios institucijos darbuotojai, iniciatoriai, Komisijos nariai ar ekspertai, dalyvaujantys koncesijos suteikimo procese ar galintys daryti įtaką jos rezultatams, patekę į interesų konflikto situaciją, privalo nusišalinti nuo su atitinkama koncesija susijusių sprendimų rengimo, svarstymo ir priėmimo;
+
+
+
+
+2) pateikti šio įstatymo 67 straipsnio 1 dalies 1 punkte nurodytoje ataskaitoje Viešųjų ir privačių interesų derinimo įstatymo 4 straipsnio 3 dalies 8 punkte nurodytų asmenų vardus, pavardes.
+
+
+
+
+
+
+3. Gavusi pagrįstos informacijos apie tai, kad šio straipsnio 1 dalyje nurodytas asmuo gali būti patekęs į interesų konflikto situaciją ir nenusišalino nuo su atitinkama koncesija susijusių sprendimų rengimo, svarstymo ir (ar) priėmimo, suteikiančioji institucija ar jos įgaliota institucija sustabdo nurodyto asmens dalyvavimą rengiant, svarstant ir (ar) priimant su atitinkama koncesija susijusius sprendimus ir atlieka to asmens su koncesija susijusios veiklos patikrinimą. Suteikiančioji institucija ar jos įgaliota institucija, nustačiusi, kad šio straipsnio 1 dalyje nurodytas asmuo pateko į interesų konflikto situaciją, pašalina jį iš su atitinkama koncesija susijusių sprendimų rengimo, svarstymo ir (ar) priėmimo ir įvertina, ar dėl nustatyto interesų konflikto neatsirado šio įstatymo 26 straipsnio 4 dalies 2 punkte nurodytas dalyvio pašalinimo pagrindas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
-
-
-2. Suteikiančioji institucija, siekdama užkirsti kelią koncesijose kylantiems interesų konfliktams, turi reikalauti, kad kiekvienas šio straipsnio 1 dalyje nurodytas asmuo nedalyvautų koncesijos suteikimo procedūroje, ir tik tuo atveju, jeigu nėra kitų alternatyvų, koncesijos suteikimo procedūrose dalyvautų ar su koncesija susijusius sprendimus priimtų tik prieš tai pasirašęs konfidencialumo pasižadėjimą ir Viešųjų pirkimų tarnybos kartu su Vyriausiąja tarnybinės etikos komisija nustatytos formos nešališkumo deklaraciją. Suteikiančiosios institucijos ar įgaliotosios institucijos darbuotojai, Komisijos nariai ar ekspertai, dalyvaujantys koncesijos suteikimo procedūroje ar galintys daryti įtaką jos rezultatams, patekę į interesų konflikto situaciją, privalo nusišalinti nuo su atitinkama koncesija susijusių sprendimų priėmimo.
-
-
-
-
-3. Gavusi pagrįstos informacijos apie tai, kad šio straipsnio 1 dalyje nurodytas asmuo gali būti patekęs į interesų konflikto situaciją ir nenusišalino nuo su atitinkama koncesija susijusių sprendimų priėmimo, suteikiančioji institucija ar jos įgaliota institucija sustabdo nurodyto asmens dalyvavimą priimant su atitinkama koncesija susijusius sprendimus ir atlieka to asmens su koncesija susijusios veiklos patikrinimą. Suteikiančioji institucija ar jos įgaliota institucija, nustačiusi, kad šio straipsnio 1 dalyje nurodytas asmuo pateko į interesų konflikto situaciją, pašalina jį iš su atitinkama koncesija susijusių sprendimų priėmimo ir įvertina, ar dėl nustatyto interesų konflikto neatsirado šio įstatymo 26 straipsnio 4 dalies 2 punkte nurodytas ekonominės veiklos vykdytojo ar dalyvio pašalinimo pagrindas. 
- 
-
-
 
 
 
@@ -1168,6 +1377,14 @@ Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 8. Jeigu mobilizacijos, karo ar nepaprastosios padėties atveju yra Centrinės viešųjų pirkimų informacinės sistemos ar informacinės sistemos „E. sąskaita“ pažeidimų, dėl kurių negalimas suteikiančiosios institucijos ir ekonominės veiklos vykdytojo bendravimas ir keitimasis informacija naudojantis šiomis sistemomis, atliekant koncesijos suteikimo procedūras gali būti naudojamos kitos šiame straipsnyje Centrinei viešųjų pirkimų informacinei sistemai keliamus reikalavimus atitinkančios elektroninės priemonės, vykdant koncesijų sutartis sąskaitos faktūros gali būti teikiamos ne elektroninėmis priemonėmis. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
+ 
+
+
+
+
+9. Centrinės viešųjų pirkimų informacinės sistemos priemonės, informacinės sistemos „E. sąskaita“ priemonės ir jų techninės charakteristikos turi nediskriminuoti ekonominės veiklos vykdytojų, būti visiems prieinamos ir suderintos su visuotinai naudojamomis informacinių ir ryšių technologijų priemonėmis, neriboti ekonominės veiklos vykdytojų galimybių dalyvauti koncesijos suteikimo procedūrose.
+Papildyta straipsnio dalimi:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -1257,10 +1474,10 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 
 
 
-26 straipsnis. Dalyvio pašalinimo pagrindai 
+26 straipsnis. Dalyvio pašalinimo pagrindai
 
 
-1. Suteikiančioji institucija, nurodyta šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose, pašalina, o suteikiančioji institucija, kaip nurodyta šio įstatymo 15 straipsnio 1 dalies 4 ir 5 punktuose, gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu sužino, kad dalyvis arba jo atsakingas asmuo, nurodytas šio straipsnio 2 dalies 2 punkte, nuteistas už šią nusikalstamą veiką: 
+1. Suteikiančioji institucija, nurodyta šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose, pašalina, o suteikiančioji institucija, kaip nurodyta šio įstatymo 15 straipsnio 1 dalies 4 ir 5 punktuose, gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu sužino, kad dalyvis arba jo atsakingas asmuo, nurodytas šio straipsnio 2 dalies 2 punkte, nuteistas už šią nusikalstamą veiką: 
 
 
 1) dalyvavimą nusikalstamame susivienijime, jo organizavimą ar vadovavimą jam; 
@@ -1273,17 +1490,17 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 
 
 
-3) sukčiavimą, turto pasisavinimą, turto iššvaistymą, apgaulingą pareiškimą apie juridinio asmens veiklą, kredito, paskolos ar tikslinės paramos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar piktnaudžiavimą, kai šiomis nusikalstamomis veikomis kėsinamasi į Europos Sąjungos finansinius interesus, kaip apibrėžta Konvencijos dėl Europos Bendrijų finansinių interesų apsaugos 1 straipsnyje;
+3) sukčiavimą, turto pasisavinimą, turto iššvaistymą, apgaulingą pareiškimą apie juridinio asmens veiklą, kredito, paskolos, tikslinės paramos, subsidijos ar dotacijos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą finansinės apskaitos tvarkymą ir (ar) organizavimą ar piktnaudžiavimą, kai šiomis nusikalstamomis veikomis kėsinamasi į Europos Sąjungos finansinius interesus, kaip apibrėžta Konvencijos dėl Europos Bendrijų finansinių interesų apsaugos 1 straipsnyje;
 
 
 
 
-4) teroristinį ir su teroristine veikla susijusį nusikaltimą;
+4) teroristinį nusikaltimą ar su teroristine veikla susijusį nusikaltimą;
 
 
 
 
-5) nusikalstamu būdu gauto turto įgijimą ar legalizavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą; 
+5) nusikalstamu būdu gauto turto legalizavimą;
 
 
 
@@ -1295,7 +1512,7 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 
 
 
-2. Laikoma, kad dalyvis nuteistas už šio straipsnio 1 ar 3 dalyje nurodytą nusikalstamą veiką, kai dėl:
+2. Laikoma, kad dalyvis yra nuteistas už šio straipsnio 1 ar 3 dalyje nurodytą nusikalstamą veiką, kai dėl:
 
 
 1) dalyvio, kuris yra fizinis asmuo, per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis ir šis asmuo turi neišnykusį ar nepanaikintą teistumą; 
@@ -1303,7 +1520,7 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 
 
 
-2) dalyvio, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovo, kito valdymo ar priežiūros organo nario ar kito asmens, turinčio (turinčių) teisę atstovauti dalyviui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, ar buhalterio (buhalterių) ar kito (kitų) asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti dalyvio apskaitos dokumentus, per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis ir šis (šie) asmuo (asmenys) turi neišnykusį ar nepanaikintą teistumą; 
+2) dalyvio, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovo, kito valdymo ar priežiūros organo nario ar kito asmens, turinčio (turinčių) teisę atstovauti dalyviui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, ar buhalterio (buhalterių) ar kito (kitų) asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti dalyvio apskaitos dokumentus (supaprastintos koncesijos atveju – dalyvio, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovo ar buhalterio (buhalterių) ar kito (kitų) asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti dalyvio apskaitos dokumentus), per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis ir šis (šie) asmuo (asmenys) turi neišnykusį ar nepanaikintą teistumą;
 
 
 
@@ -1315,10 +1532,10 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 
 
 
-3. Už įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, nevykdymą pagal šalies, kurioje registruotas dalyvis, ar pagal šalies, kurioje yra dalyvio, kaip fizinio asmens, gyvenamoji vieta, ar šalies, kurioje yra suteikiančioji institucija, reikalavimus dalyvis iš koncesijos suteikimo procedūros pašalinamas, jeigu suteikiančioji institucija, kaip nurodyta šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose, sužino, kad dalyvis arba jo atsakingas asmuo nuteistas, kaip nurodyta šio straipsnio 2 dalies 1 ir 3 punktuose, arba turi kitų įrodymų apie šių įsipareigojimų nevykdymą. Ši nuostata netaikoma, jeigu: 
+3. Už įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, nevykdymą pagal šalies, kurioje registruotas dalyvis, ar pagal šalies, kurioje yra dalyvio, kaip fizinio asmens, gyvenamoji vieta, ar šalies, kurioje yra suteikiančioji institucija, reikalavimus dalyvis iš koncesijos suteikimo procedūros pašalinamas (jeigu koncesiją suteikia suteikiančioji institucija, kaip nurodyta šio įstatymo 15 straipsnio 1 dalies 4 ir 5 punktuose, gali būti pašalinamas), jeigu suteikiančioji institucija sužino, kad dalyvis arba jo atsakingas asmuo nuteistas, kaip nurodyta šio straipsnio 2 dalies 1 ir 3 punktuose, arba turi kitų įrodymų apie šių įsipareigojimų nevykdymą. Ši nuostata netaikoma, jeigu: 
 
 
-1) dalyvis yra įsipareigojęs sumokėti mokesčius, įskaitant socialinio draudimo įmokas, ir dėl to laikomas jau įvykdžiusiu šiuos įsipareigojimus; 
+1) dalyvis yra įsipareigojęs sumokėti mokesčius, įskaitant socialinio draudimo įmokas, ir dėl to laikomas jau įvykdžiusiu šiuos įsipareigojimus; 
 
 
 
@@ -1333,7 +1550,7 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 
 
 
-4) dalyvis apie tikslią jo įsiskolinimo sumą informuotas tokiu metu, kad iki paraiškų ar pasiūlymų pateikimo termino pabaigos nespėjo sumokėti mokesčių, įskaitant socialinio draudimo įmokas, sudaryti mokestinės paskolos sutarties ar kito panašaus pobūdžio įpareigojančio susitarimo dėl jų sumokėjimo ar imtis kitų priemonių, kad atitiktų šios dalies 2 punkto nuostatas. Dalyvis šiuo pagrindu nepašalinamas iš pirkimo procedūros, jis laikomas jau įvykdžiusiu savo įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, sumokėjimu. 
+4) dalyvis apie tikslią jo įsiskolinimo sumą informuotas tokiu metu, kad iki paraiškų ar pasiūlymų pateikimo termino pabaigos nespėjo sumokėti mokesčių, įskaitant socialinio draudimo įmokas, sudaryti mokestinės paskolos sutarties ar kito panašaus pobūdžio įpareigojančio susitarimo dėl jų sumokėjimo ar imtis kitų priemonių, kad atitiktų šios dalies 2 punkto nuostatas. Dalyvis šiuo pagrindu nepašalinamas iš koncesijos suteikimo procedūros, jeigu jis, suteikiančiajai institucijai susipažinus su paraiška ar pasiūlymu, įrodo, kad jau yra laikomas įvykdžiusiu įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu.
 
 
 
@@ -1343,7 +1560,7 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 4. Suteikiančioji institucija pašalina dalyvį iš koncesijos suteikimo procedūros, jeigu:
 
 
-1) suteikiančioji institucija, nurodyta šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose, išskyrus instituciją, vykdančią kurią nors iš šio įstatymo 2 priede nurodytų rūšių veiklą, turi pakankamai įtikinamų duomenų, kad dalyvis su kitais koncesijos suteikimo procedūroje dalyvaujančiais ekonominės veiklos vykdytojais yra sudaręs susitarimus, kuriais siekiama iškreipti arba kurie iškreipia koncesijos suteikimo procedūroje dalyvaujančių ekonominės veiklos vykdytojų konkurenciją;
+1) suteikiančioji institucija turi pakankamai įtikinamų duomenų, kad dalyvis su kitais koncesijos suteikimo procedūroje dalyvaujančiais ekonominės veiklos vykdytojais yra sudaręs susitarimus, kuriais siekiama iškreipti arba kurie iškreipia koncesijos suteikimo procedūroje dalyvaujančių ekonominės veiklos vykdytojų konkurenciją;
 
 
 
@@ -1358,7 +1575,7 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 
 
 
-4) koncesijos suteikimo procedūrų metu dalyvis nuslėpė ar pateikė melagingą informaciją apie atitiktį šiame straipsnyje ir šio įstatymo 41 straipsnyje nustatytiems reikalavimams ir suteikiančioji institucija gali tai įrodyti bet kokiomis teisėtomis priemonėmis; 
+4) koncesijos suteikimo procedūrų metu dalyvis nuslėpė ar pateikė melagingą informaciją apie atitiktį šiame straipsnyje ir šio įstatymo 41 straipsnyje nustatytiems reikalavimams ir suteikiančioji institucija gali tai įrodyti bet kokiomis teisėtomis priemonėmis arba dalyvis dėl pateiktos melagingos informacijos negali pateikti šio įstatymo 42–45 straipsniuose nurodytų patvirtinančių dokumentų. Šiuo pagrindu dalyvis taip pat šalinamas iš koncesijos suteikimo procedūros, kai ankstesnių procedūrų, atliktų šio įstatymo, Viešųjų pirkimų įstatymo, Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo, Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka, metu jis nuslėpė informaciją ar pateikė šiame punkte nurodytą melagingą informaciją arba dėl pateiktos melagingos informacijos negalėjo pateikti šio įstatymo 42–45 straipsniuose nurodytų patvirtinančių dokumentų, dėl kokių priežasčių per pastaruosius vienus metus buvo pašalintas iš koncesijos suteikimo ar pirkimo procedūrų. Šiuo pagrindu dalyvis taip pat pašalinamas iš koncesijos suteikimo procedūros, kai, vadovaudamasis kitų valstybių teisės aktais, ankstesnių procedūrų metu jis nuslėpė informaciją ar pateikė melagingą informaciją arba dėl melagingos informacijos pateikimo negalėjo pateikti patvirtinančių dokumentų ir dėl to per pastaruosius vienus metus buvo pašalintas iš koncesijos suteikimo ar pirkimo procedūrų arba buvo taikomos kitos panašios sankcijos;
 
 
 
@@ -1368,55 +1585,30 @@ Pasiūlymų ir paraiškų elektroninio gavimo priemonės ir prietaisai, naudojan
 
 
 
-6) dalyvis yra neįvykdęs koncesijos, viešojo pirkimo–pardavimo, pirkimo–pardavimo sutarties, kaip apibrėžta Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, su suteikiančiąja institucija ar netinkamai ją įvykdęs ir tai buvo esminis sutarties pažeidimas, kaip nustatyta Civiliniame kodekse (toliau – esminis koncesijos sutarties pažeidimas), dėl kurio per pastaruosius 3 metus buvo nutraukta sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinamas perkančiosios organizacijos ar suteikiančiosios institucijos reikalavimas atlyginti nuostolius, patirtus dėl to, kad dalyvis sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais. Šiuo pagrindu dalyvis taip pat pašalinamas iš koncesijos suteikimo procedūros, kai vadovaujantis kitų valstybių teisės aktais per pastaruosius 3 metus nustatyta, kad jis, vykdydamas ankstesnę sutartį, nurodytą šiame punkte, nustatytą esminį reikalavimą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to ta ankstesnė sutartis buvo nutraukta anksčiau laiko, buvo pareikalauta atlyginti žalą ar taikomos kitos panašios sankcijos. Suteikiančioji institucija iš koncesijų suteikimo procedūros pašalina dalyvį ir tuo atveju, kai ji turi įtikinamų duomenų, kad dalyvis yra įsteigtas siekiant išvengti šio pašalinimo pagrindo taikymo; 
+6) dalyvis yra neįvykdęs koncesijos sutarties, viešojo pirkimo–pardavimo sutarties, kaip ji apibrėžta Viešųjų pirkimų įstatyme, pirkimo–pardavimo sutarties, kaip ji apibrėžta Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, viešojo pirkimo–pardavimo sutarties, kaip ji apibrėžta Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme, su suteikiančiąja institucija, perkančiąja organizacija ar perkančiuoju subjektu ar netinkamai ją įvykdęs ir tai buvo esminis sutarties pažeidimas, kaip nustatyta Civilinio kodekso 6.217 straipsnyje (toliau – esminis koncesijos sutarties pažeidimas), dėl kurio per pastaruosius 3 metus buvo nutraukta sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinamas suteikiančiosios institucijos, perkančiosios organizacijos ar perkančiojo subjekto reikalavimas atlyginti nuostolius, patirtus dėl to, kad dalyvis sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais, ar per pastaruosius 3 metus buvo priimtas suteikiančiosios institucijos, perkančiosios organizacijos ar perkančiojo subjekto sprendimas, kad dalyvis sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais, ir dėl to buvo pritaikyta sutartyje nustatyta sankcija. Šiuo pagrindu dalyvis taip pat pašalinamas iš koncesijos suteikimo procedūros, kai vadovaujantis kitų valstybių teisės aktais per pastaruosius 3 metus nustatyta, kad jis, vykdydamas ankstesnę sutartį, nurodytą šiame punkte, nustatytą esminį reikalavimą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to ta ankstesnė sutartis buvo nutraukta prieš terminą, buvo pareikalauta atlyginti žalą ar taikomos kitos panašios sankcijos;
 
 
 
 
-7) gynybos ir saugumo srityse suteikiamų koncesijų atveju, kai, remiantis bet kurios rūšies įrodymais, įskaitant apsaugotus duomenų šaltinius, paaiškėjo, kad dalyvis nėra patikimas, kai tai būtina, kad nekiltų pavojus valstybės saugumui.
+7) suteikiant gynybos ir saugumo sričių koncesijas, kai, remiantis bet kurios rūšies įrodymais, įskaitant apsaugotus duomenų šaltinius, paaiškėja, kad dalyvis nėra patikimas, kai tai būtina, kad nekiltų pavojus valstybės saugumui;
 
 
 
 
+8) suteikiančioji institucija bet kokiomis tinkamomis priemonėmis gali įrodyti, kad dalyvis yra padaręs rimtą profesinį pažeidimą, dėl kurio suteikiančioji institucija abejoja dalyvio sąžiningumu. Šiuo pagrindu dalyvis iš koncesijos suteikimo procedūros pašalinamas, kai jis:
 
 
-5. Suteikiančioji institucija šio straipsnio 1 ir 3 dalyse nustatytais pagrindais gali nepašalinti dalyvio iš koncesijos suteikimo procedūros tik išimtiniais atvejais, kai būtina užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą. 
-
-
-
-
-6. Suteikiančioji institucija gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu jis: 
-
-
-1) yra pažeidęs bent vieną iš šio įstatymo 14 straipsnio 5 dalyje nurodytų aplinkos apsaugos, socialinės ir darbo teisės įpareigojimų ir už tai dalyviui paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos įstatymuose ar kitų valstybių teisės aktuose, kai nuo sprendimo, kuriuo buvo paskirta sankcija, įsiteisėjimo dienos praėjo mažiau kaip vieni metai; 
+a) yra padaręs finansinės atskaitomybės ir audito teisės aktų pažeidimą ir nuo jo padarymo dienos praėjo mažiau kaip vieni metai;
 
 
 
 
-2) yra nemokus, jam iškelta restruktūrizavimo ar bankroto byla, pradėtas bankroto procesas ne teismo tvarka, inicijuotos likvidavimo procedūros, kai jo turtą valdo teismas ar bankroto administratorius, kai jis su kreditoriais yra sudaręs taikos sutartį (dalyvio ir kreditorių susitarimą tęsti dalyvio veiklą, kai dalyvis prisiima tam tikrus įsipareigojimus, o kreditoriai sutinka savo reikalavimus atidėti, sumažinti ar jų atsisakyti), kai jo veikla sustabdyta ar apribota arba jo padėtis pagal šalies, kurioje jis registruotas, įstatymus yra tokia pati ar panaši. Tačiau, kai yra šiame punkte nurodyta padėtis, suteikiančioji institucija negali pašalinti dalyvio iš koncesijos suteikimo procedūros, jeigu jis pateikė pagrįstų įrodymų, kad sugebės tinkamai įvykdyti koncesijos sutartį; 
+b) neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje. Taikant šį dalyvio pašalinimo iš koncesijos suteikimo procedūros pagrindą, vadovaujamasi Mokesčių administravimo įstatymo 401 straipsnio 1 dalyje nustatytais terminais, juos skaičiuojant nuo Mokesčių administravimo įstatymo 401 straipsnio 1 dalyje nurodytų pažeidimų padarymo dienos, tačiau visais atvejais šie terminai negali būti ilgesni negu 3 metai;
 
 
 
 
-3) yra padaręs rimtą profesinį pažeidimą, kaip nurodyta Viešųjų pirkimų įstatyme, ir dėl to kyla abejonių, kad jis sąžiningai vykdys sudarytą koncesijos sutartį. Šiuo pagrindu suteikiančioji institucija, nurodyta šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose, išskyrus vykdančią kurią nors iš šio įstatymo 2 priede nurodytų rūšių veiklą, dalyvį iš koncesijos suteikimo procedūros gali pašalinti, kai yra bent vienas iš šių pažeidimų:
-
-
-a) profesinės etikos pažeidimas, kai nuo sprendimo pripažinti dalyvį nesilaikančiu profesinės etikos normų momento praėjo mažiau kaip vieni metai; 
-
-
-
-
-b) konkurencijos, darbuotojų saugos ir sveikatos, informacijos apsaugos, intelektinės nuosavybės apsaugos, finansinės atskaitomybės ir audito teisės aktų pažeidimas, už kurį dalyviui ar jo vadovui yra paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos ar kitų valstybių įstatymuose, kai nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos praėjo mažiau kaip vieni metai;
-
-
-
-
-c) draudimo sudaryti draudžiamus susitarimus, įtvirtinto Lietuvos Respublikos konkurencijos įstatyme (toliau – Konkurencijos įstatymas) ar panašaus pobūdžio kitos valstybės teisės akte, pažeidimas, kai nuo sprendimo paskirti Konkurencijos įstatyme ar kitos valstybės teisės akte nustatytą ekonominę sankciją įsiteisėjimo dienos praėjo mažiau kaip 3 metai; 
-
-
-
-
-d) dalyvis, kuris yra fizinis asmuo, arba dalyvis, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovas, kitas valdymo ar priežiūros organo narys ar kitas asmuo, turintis (turintys) teisę atstovauti dalyviui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, arba juridinio asmens dalyvis, turintis balsų daugumą juridinio asmens dalyvių susirinkime, yra pripažintas kaltu dėl tyčinio bankroto, kaip jis apibrėžtas Lietuvos Respublikos įmonių bankroto įstatyme (toliau – Įmonių bankroto įstatymas) ar panašaus pobūdžio kitų valstybių teisės aktuose, kai nuo teismo sprendimo įsiteisėjimo dienos praėjo mažiau kaip 3 metai.
+c) yra padaręs draudimo sudaryti draudžiamus susitarimus, įtvirtinto Lietuvos Respublikos konkurencijos įstatyme ar panašaus pobūdžio kitos valstybės teisės akte, pažeidimą ir nuo jo padarymo dienos praėjo mažiau kaip 3 metai.
 
 
 
@@ -1425,12 +1617,47 @@ d) dalyvis, kuris yra fizinis asmuo, arba dalyvis, kuris yra juridinis asmuo, ki
 
 
 
-7. Suteikiančioji institucija, kaip nurodyta šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose, dalyvį pašalina iš koncesijos suteikimo procedūros bet kuriame koncesijos suteikimo procedūros etape, jeigu paaiškėja, kad dėl savo veiksmų ar neveikimo prieš koncesijos suteikimo procedūrą ar jos metu jis atitinka koncesijos dokumentuose nustatytus reikalavimus dėl pašalinimo pagrindų, nurodytų šio straipsnio 1 ir 3 dalyse. 
+5. Suteikiančioji institucija šio straipsnio 1 ir 3 dalyse nustatytais pagrindais gali nepašalinti dalyvio iš koncesijos suteikimo procedūros tik išimtiniais atvejais, kai yra būtina užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą.
 
 
 
 
-8. Jeigu dalyvis atitinka šio straipsnio 1, 4 ir 6 dalyse nustatytus pašalinimo pagrindus, suteikiančioji institucija gali jo nepašalinti iš koncesijos suteikimo procedūros, jeigu yra visos šios sąlygos kartu: 
+6. Suteikiančioji institucija gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu jis:
+
+
+1) yra pažeidęs bent vieną iš šio įstatymo 14 straipsnio 5 dalyje nurodytų aplinkos apsaugos, socialinės ir darbo teisės įpareigojimų, kurį suteikiančioji institucija gali įrodyti bet kokiomis tinkamomis priemonėmis. Šiuo pagrindu suteikiančioji institucija gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu nuo pažeidimo padarymo dienos praėjo mažiau kaip vieni metai;
+
+
+
+
+2) yra nemokus, jam iškelta restruktūrizavimo ar bankroto byla, pradėtas bankroto procesas ne teismo tvarka, inicijuotos likvidavimo procedūros, kai jo turtą valdo teismas ar nemokumo administratorius, kai jis su kreditoriais yra sudaręs taikos sutartį (dalyvio ir kreditorių susitarimą tęsti dalyvio veiklą, kai dalyvis prisiima tam tikrus įsipareigojimus, o kreditoriai sutinka savo reikalavimus atidėti, sumažinti ar jų atsisakyti), kai jo veikla sustabdyta ar apribota arba jo padėtis pagal šalies, kurioje jis registruotas, įstatymus yra tokia pati ar panaši. Tačiau, kai yra šiame punkte nurodyta padėtis, suteikiančioji institucija gali nepašalinti dalyvio iš koncesijos suteikimo procedūros, jeigu jis pateikė pagrįstų įrodymų, kad sugebės tinkamai įvykdyti koncesijos sutartį;
+
+
+
+
+3) yra padaręs rimtą profesinį pažeidimą (išskyrus nurodytą šio straipsnio 4 dalies 8 punkte), dėl kurio suteikiančioji institucija abejoja koncesininko sąžiningumu, ir šį pažeidimą gali įrodyti bet kokiomis tinkamomis priemonėmis. Šiuo pagrindu suteikiančioji institucija gali pašalinti dalyvį iš koncesijos suteikimo procedūros, jeigu nuo pažeidimo padarymo dienos praėjo mažiau kaip vieni metai. 
+
+
+
+
+
+
+7. Suteikiančioji institucija pašalina dalyvį iš koncesijos suteikimo procedūros pagal šio straipsnio 4 ir 6 dalyse nurodytus pašalinimo pagrindus ir tuo atveju, kai ji turi įtikinamų duomenų, kad dalyvis yra įsteigtas arba dalyvauja koncesijos suteikimo procedūroje vietoj kito asmens, siekdama išvengti šio straipsnio 4 ir 6 dalyse nurodytų pašalinimo pagrindų taikymo.
+
+
+
+
+8. Suteikiančioji institucija, priimdama sprendimus dėl dalyvio pašalinimo iš koncesijos suteikimo procedūros pagal šio straipsnio 4 ir 6 dalyse nurodytus pašalinimo pagrindus, atsižvelgia į tai, ar vertinant dalyvio patikimumą dalyvio pašalinimas iš koncesijos suteikimo procedūros proporcingas vertinamam dalyvio elgesiui, šio straipsnio 4 dalies 8 punkto c papunkčio atveju – ar taikant šį dalyvio pašalinimo iš koncesijos suteikimo procedūros pagrindą būtų reikšmingai apribota konkurencija. Priimant sprendimus dėl dalyvio pašalinimo iš koncesijos suteikimo procedūros pagal šio straipsnio 4 dalies 4 ir 6 punktuose nurodytus pašalinimo pagrindus, gali būti atsižvelgiama į pagal šio įstatymo 461 ir 64 straipsnius skelbiamą informaciją.
+
+
+
+
+9. Suteikiančioji institucija dalyvį pašalina iš koncesijos suteikimo procedūros bet kuriuo koncesijos suteikimo procedūros etapu, jeigu paaiškėja, kad dėl savo veiksmų ar neveikimo prieš koncesijos suteikimo procedūrą ar jos metu jis atitinka koncesijos dokumentuose nustatytus reikalavimus dėl pašalinimo pagrindų.
+
+
+
+
+10. Jeigu dalyvis atitinka šio straipsnio 1, 4 ir 6 dalyse nustatytus pašalinimo pagrindus, suteikiančioji institucija gali jo nepašalinti iš koncesijos suteikimo procedūros, jeigu yra abi šios sąlygos kartu: 
 
 
 1) dalyvis pateikė suteikiančiajai institucijai informaciją apie tai, kad, siekdamas įrodyti savo patikimumą, jis ėmėsi atitinkamų priemonių, įskaitant:
@@ -1453,17 +1680,24 @@ c) technines, organizacines, personalo valdymo priemones, skirtas tolesnių nusi
 
 
 
-2) suteikiančioji institucija įvertino dalyvio informaciją, pateiktą pagal šios dalies 1 punktą, ir priėmė motyvuotą sprendimą, kad priemonės, kurių ėmėsi dalyvis, siekdamas įrodyti savo patikimumą, yra pakankamos. Šių priemonių pakankamumas vertinamas atsižvelgiant į nusikalstamos veikos ar pažeidimo rimtumą ir aplinkybes. Suteikiančioji institucija turi pateikti dalyviui motyvuotą sprendimą raštu ne vėliau kaip per 10 dienų nuo šios dalies 1 punkte nurodytos dalyvio informacijos gavimo.
+2) suteikiančioji institucija įvertino dalyvio informaciją, pateiktą pagal šios dalies 1 punktą, ir priėmė motyvuotą sprendimą, kad priemonės, kurių ėmėsi dalyvis, siekdamas įrodyti savo sąžiningumą, yra pakankamos. Šių priemonių pakankamumas vertinamas atsižvelgiant į nusikalstamos veikos pavojingumą ar pažeidimo rimtumą ir aplinkybes. Suteikiančioji institucija turi pateikti dalyviui motyvuotą sprendimą raštu ne vėliau kaip per 10 dienų nuo šios dalies 1 punkte nurodytos dalyvio informacijos gavimo.
 
 
 
 
 
 
-9. Šio straipsnio 8 dalis netaikoma, jeigu dalyvis galutiniu teismo sprendimu yra pašalintas iš pirkimo ar koncesijos suteikimo procedūrų. 
+11. Šio straipsnio 9 dalis netaikoma, jeigu dalyvis priimtu ir įsiteisėjusiu teismo sprendimu yra pašalintas iš pirkimo procedūros ar koncesijos suteikimo procedūros teismo sprendime nurodytam laikotarpiui.
+
+
+
+
+12. Kai priimtu ir įsiteisėjusiu teismo sprendimu dalyviui yra nustatytas šio straipsnio 1, 2, 4 ir 6 dalyse nurodytų pašalinimo pagrindų laikotarpis, suteikiančioji institucija pašalina dalyvį iš koncesijos suteikimo procedūros teismo sprendime nurodytam laikotarpiui.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -1506,7 +1740,10 @@ PASIRENGIMAS KONCESIJOS SUTEIKIMUI
 28 straipsnis. Koncesijos suteikimo procedūros pradžia ir pabaiga 
 
 
-1. Koncesijos suteikimo procedūra prasideda, kai Viešųjų pirkimų tarnyba išsiunčia Europos Sąjungos leidinių biurui suteikiančiosios institucijos pateiktą koncesijos skelbimą. Kai šio įstatymo 29 straipsnio 3 dalyje nustatytais atvejais apie koncesijos suteikimą neskelbiama, koncesijos suteikimo procedūra prasideda pateikus ekonominės veiklos vykdytojui (vykdytojams) kvietimą dalyvauti koncesijos suteikimo procedūroje.
+1. Koncesijos suteikimo procedūra prasideda, kai Viešųjų pirkimų tarnyba išsiunčia Europos Sąjungos leidinių biurui (supaprastintos koncesijos atveju – paskelbia Centrinėje viešųjų pirkimų informacinėje sistemoje) suteikiančiosios institucijos pateiktą koncesijos skelbimą. Kai šio įstatymo 54 straipsnio 1 dalyje nustatytais atvejais apie koncesijos suteikimą neskelbiama, koncesijos suteikimo procedūra prasideda pateikus ekonominės veiklos vykdytojui (vykdytojams) kvietimą dalyvauti koncesijos suteikimo procedūroje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1546,7 +1783,9 @@ PASIRENGIMAS KONCESIJOS SUTEIKIMUI
 
 
 
-3. Suteikiančioji institucija bet kuriuo metu iki koncesijos sutarties sudarymo turi teisę nutraukti koncesijos suteikimo procedūras, jeigu atsirado aplinkybių, kurių nebuvo galima numatyti ir kurios iš esmės keičia koncesijos objektą arba tolesnė koncesijos suteikimo procedūra neužtikrina konkurencijos (dalyvauti konkurse norą pareiškia mažiau kaip 3 dalyviai), arba dėl kurių koncesijos sutartis negali būti įgyvendinama, arba koncesijos sutartimi prisiimami finansiniai įsipareigojimai viršija suteikiančiosios institucijos galimybes. 
+3. Suteikiančioji institucija bet kuriuo metu iki koncesijos sutarties sudarymo turi teisę nutraukti koncesijos suteikimo procedūras, jeigu atsirado aplinkybių, kurių nebuvo galima numatyti, arba koncesijos dokumentuose padaryta esminių klaidų, dėl kurių koncesijos suteikimas tampa nebetikslingas ar ją suteikus sutarties dalykas būtų ne toks, kokio reikia suteikiančiajai institucijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -1561,10 +1800,10 @@ KONCESIJŲ SKELBIMAI
  
 
 
-29 straipsnis. Koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo
+29 straipsnis. Koncesijos skelbimai, išankstiniai informaciniai skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo
 
 
-1. Suteikiančioji institucija, ketinanti suteikti koncesiją, privalo paskelbti koncesijos skelbimą, išskyrus atvejus, kai šiame įstatyme nurodyta, kad neprivaloma skelbti apie ketinimą suteikti koncesiją, taip pat skelbimą apie koncesijos suteikimą, skelbimą dėl koncesijos pakeitimo laikydamasi šių reikalavimų: 
+1. Suteikiančioji institucija, ketinanti suteikti koncesiją, privalo paskelbti koncesijos skelbimą, o ketinanti suteikti šio įstatymo 4 priede nurodytų socialinių ir kitų specialiųjų paslaugų koncesiją, – išankstinį informacinį skelbimą (toliau – koncesijos skelbimas), išskyrus atvejus, kai šiame įstatyme nurodyta, kad neprivaloma skelbti apie ketinimą suteikti koncesiją, taip pat skelbimą apie koncesijos suteikimą, skelbimą dėl koncesijos pakeitimo, laikydamasi šių reikalavimų: 
 
 
 1) skelbimas apie koncesijos suteikimą skelbiamas ne vėliau kaip per 48 dienas po koncesijos sutarties sudarymo; 
@@ -1584,30 +1823,12 @@ KONCESIJŲ SKELBIMAI
 
 
 
-2. Skelbime apie koncesijos suteikimą gali būti neskelbiama informacija, kurios atskleidimas trukdytų įgyvendinti šį įstatymą arba kitaip prieštarautų visuomenės interesams, pažeistų teisėtus konkretaus ekonominės veiklos vykdytojo komercinius interesus ar būtų pažeista konkurencija. 
+2. Skelbime apie koncesijos suteikimą gali būti neskelbiama informacija, kurios atskleidimas trukdytų įgyvendinti šį įstatymą arba kitaip prieštarautų visuomenės interesams, pažeistų teisėtus konkretaus ekonominės veiklos vykdytojo komercinius interesus ar būtų pažeista konkurencija.
 
 
-
-
-3. Suteikiančioji institucija neprivalo skelbti koncesijos skelbimo:
-
-
-1) jeigu darbus atlikti arba paslaugas suteikti gali tik konkretus ekonominės veiklos vykdytojas, tais atvejais, kai koncesijos tikslas yra unikalaus meno kūrinio ar meninio pasirodymo sukūrimas arba įsigijimas;
-
-
-
-
-2) jeigu darbus atlikti arba paslaugas suteikti gali tik konkretus ekonominės veiklos vykdytojas dėl konkurencijos nebuvimo dėl techninių priežasčių, išimtinės teisės ar intelektinės nuosavybės teisių ir kitų išimtinių teisių, negu apibrėžta šio įstatymo 3 straipsnio 8 dalyje, apsaugos ir nėra pagrįstos alternatyvos arba pakaitalo ir konkurencijos nebuvimas nėra nulemtas dirbtinio koncesijos suteikimo parametrų susiaurinimo. 
-
-
-
-
-
-
-4. Suteikiančioji institucija neprivalo skelbti naujo koncesijos skelbimo, kai per ankstesnę koncesijos procedūrą nebuvo pateikta paraiškų ar pasiūlymų arba buvo pateiktos netinkamos paraiškos ar netinkami pasiūlymai, su sąlyga, kad iš esmės nekeičiamos pradinės koncesijos sutarties sąlygos ir kad Europos Komisijai nusiunčiama ataskaita, kai ji to prašo. 
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -1615,50 +1836,55 @@ KONCESIJŲ SKELBIMAI
 30 straipsnis. Koncesijos skelbimų, skelbimų apie koncesijos suteikimą ir skelbimų dėl koncesijos pakeitimo rengimas ir skelbimas
 
 
-1. Informacija, kuri turi būti nurodyta koncesijos skelbimuose, skelbimuose apie koncesijos suteikimą, skelbimų standartinės formos, klaidų ištaisymo formos ir skelbimų reikalavimai nustatyti 2015 m. lapkričio 11 d. Komisijos įgyvendinimo reglamente (ES) 2015/1986, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Įgyvendinimo reglamentas (EB) Nr. 842/2011 (OL 2015 L 296, p. 1). Informacija, kuri turi būti nurodyta skelbimuose dėl koncesijos pakeitimo, ir skelbimų dėl koncesijos pakeitimo reikalavimai nustatyti šio įstatymo 6 priede.
+1. Informacija, kuri turi būti nurodyta šio įstatymo 29 straipsnio 1 dalyje nurodytuose skelbimuose, skelbimų standartinės formos, klaidų ištaisymo formos ir skelbimų reikalavimai nustatyti 2019 m. rugsėjo 11 d. Komisijos įgyvendinimo reglamente (ES) 2019/1780, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Įgyvendinimo reglamentas (EB) Nr. 2015/1986 (e. formos).
 
 
 
 
-2. Koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo, išskyrus skelbimus, nurodytus šio straipsnio 3 dalyje, skelbiami per Europos Sąjungos leidinių biurą ir Centrinėje viešųjų pirkimų informacinėje sistemoje. 
+2. Sudarant tarptautinės koncesijos sutartį, koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo skelbiami per Europos Sąjungos leidinių biurą ir Centrinėje viešųjų pirkimų informacinėje sistemoje.
 
 
 
 
-3. Koncesijų, kurių vertė yra mažesnė, negu nurodyta Direktyvos 2014/23/ES 8 straipsnio 1 dalyje, koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo skelbiami Centrinėje viešųjų pirkimų informacinėje sistemoje ir suteikiančiosios institucijos interneto svetainėje. 
+3. Sudarant supaprastintos koncesijos sutartį, koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo skelbiami Centrinėje viešųjų pirkimų informacinėje sistemoje.
 
 
 
 
-4. Koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo rengiami ir teikiami elektroninėmis priemonėmis Viešųjų pirkimų tarnybos nustatyta tvarka. Visus skelbimus, kurie skelbtini Europos Sąjungos leidinių biuro ir Centrinėje viešųjų pirkimų informacinėje sistemoje, suteikiančioji institucija pateikia Viešųjų pirkimų tarnybai. Viešųjų pirkimų tarnyba šio įstatymo reikalavimus atitinkančius skelbimus Europos Komisijos nustatyto formato elektroninėmis priemonėmis privalo per 5 darbo dienas nuo skelbimo gavimo dienos pateikti Europos Sąjungos leidinių biurui. Skelbimo paskelbimo data yra laikoma Europos Sąjungos leidinių biuro suteikiančiajai institucijai atsiųstoje informacijoje nurodyta paskelbimo data.
+4. Koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo rengiami ir teikiami elektroninėmis priemonėmis Viešųjų pirkimų tarnybos nustatyta tvarka. Visus skelbimus, kurie skelbiami Europos Sąjungos leidinių biuro ir Centrinėje viešųjų pirkimų informacinėje sistemoje, suteikiančioji institucija pateikia Viešųjų pirkimų tarnybai.
 
 
 
 
-5. Viešųjų pirkimų tarnyba persiunčia Europos Sąjungos leidinių biurui skelbti suteikiančiųjų institucijų koncesijos skelbimus, skelbimus apie koncesijos suteikimą ir skelbimus dėl koncesijos pakeitimo ir užtikrina suteikiančiųjų institucijų perduodamų kitų pranešimų ir informacijos persiuntimą.
+5. Viešųjų pirkimų tarnyba, gavusi suteikiančiosios institucijos pateiktus skelbimus, privalo:
+
+
+1) kai sudaroma tarptautinės koncesijos sutartis, – per 3 darbo dienas nuo jų gavimo dienos Europos Komisijos nustatytu formatu išsiųsti Europos Sąjungos leidinių biurui ir po 48 valandų nuo patvirtinimo apie skelbimo gavimą Europos Sąjungos leidinių biure paskelbti juos Centrinėje viešųjų pirkimų informacinėje sistemoje. Skelbimo paskelbimo data yra laikoma Europos Sąjungos leidinių biuro suteikiančiajai institucijai atsiųstoje informacijoje nurodyta paskelbimo data;
 
 
 
 
-6. Viešųjų pirkimų tarnyba koncesijos skelbimus, skelbimus apie koncesijos suteikimą ir skelbimus dėl koncesijos pakeitimo Centrinėje viešųjų pirkimų informacinėje sistemoje turi paskelbti ne vėliau kaip per 2 dienas po to, kai skelbimus paskelbė Europos Sąjungos leidinių biuras, arba per 2 dienas po to, kai buvo gautas Europos Sąjungos leidinių biuro patvirtinimas apie skelbimo gavimą Europos Sąjungos leidinių biure, tačiau skelbimas per 48 valandas nebuvo paskelbtas per Europos Sąjungos leidinių biurą. 
+2) kai sudaroma supaprastintos koncesijos sutartis, – per 3 darbo dienas nuo jų gavimo dienos paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje. Skelbimo paskelbimo data yra laikoma jo paskelbimo Centrinėje viešųjų pirkimų informacinėje sistemoje data.
 
 
 
 
-7. Koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo turi būti skelbiami lietuvių kalba. Papildomai jie gali būti skelbiami ir kitomis suteikiančiosios institucijos pasirinktomis oficialiosiomis Europos Sąjungos institucijų kalbomis. Autentišku laikomas tik suteikiančiosios institucijos parengtas skelbimų tekstas.
+
+
+6. Koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo turi būti skelbiami lietuvių kalba. Papildomai jie gali būti skelbiami ir kitomis suteikiančiosios institucijos pasirinktomis oficialiosiomis Europos Sąjungos institucijų kalbomis. Autentišku skelbimo tekstu laikomas tik suteikiančiosios institucijos parengtas skelbimų tekstas.
 
 
 
 
-8. Suteikiančiosios institucijos interneto svetainėje papildomai gali būti skelbiami koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo bei kita su koncesijomis susijusi informacija, įskaitant informaciją apie galiojančius kvietimus teikti paraiškas ir pasiūlymus, planuojamas koncesijas, sudarytas koncesijos sutartis ir kitą bendrojo pobūdžio informaciją. 
+7. Koncesijų skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo papildomai gali būti skelbiami suteikiančiosios institucijos interneto svetainėje, kitur internete ir (ar) leidiniuose. Kita su koncesijomis susijusi informacija, įskaitant informaciją apie galiojančius kvietimus teikti paraiškas ir pasiūlymus, planuojamas koncesijas, sudarytas koncesijos sutartis ir kitą bendrojo pobūdžio informaciją, papildomai gali būti skelbiama suteikiančiosios institucijos interneto svetainėje.
 
 
 
 
-9. Koncesijų skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo papildomai gali būti skelbiami ne tik suteikiančiosios institucijos interneto svetainėje, bet ir kituose leidiniuose ar internete, laikantis šių reikalavimų: 
+8. Kai sudaroma tarptautinės koncesijos sutartis, skelbiant koncesijų skelbimus, skelbimus apie koncesijos suteikimą ir skelbimus dėl koncesijos pakeitimo Centrinėje viešųjų pirkimų informacinėje sistemoje, suteikiančiosios institucijos interneto svetainėje, kitur internete ir (ar) leidiniuose, turi būti laikomasi šių reikalavimų: 
 
 
-1) prieš tai juos turi paskelbti Europos Sąjungos leidinių biuras, taip pat jie turi būti paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje ir (ar) suteikiančiosios institucijos interneto svetainėje;
+1) prieš tai juos turi paskelbti Europos Sąjungos leidinių biuras;
 
 
 
@@ -1669,11 +1895,18 @@ KONCESIJŲ SKELBIMAI
 
 
 3) to paties skelbimo turinys visur turi būti tapatus.
+
+
+
+
+
+
+9. Sudarant supaprastintos koncesijos sutartį, koncesijos skelbimai, skelbimai apie koncesijos suteikimą ir skelbimai dėl koncesijos pakeitimo prieš skelbiant suteikiančiosios institucijos interneto svetainėje, kitur internete ir (ar) leidiniuose turi būti paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje ir to paties skelbimo turinys visur turi būti tapatus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
-
-
 
 
 
@@ -1688,7 +1921,10 @@ KONCESIJOS DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 31 straipsnis. Koncesijos dokumentų turinys 
 
 
-1. Suteikiančioji institucija koncesijos dokumentuose turi pateikti visą informaciją apie koncesijos suteikimo sąlygas, procedūras ir nurodyti, kuri informacija yra konfidenciali ir negali būti skelbiama pagal šio įstatymo 29 straipsnio 2 dalį. 
+1. Suteikiančioji institucija koncesijos dokumentuose turi pateikti visą informaciją apie koncesijos suteikimo sąlygas ir procedūras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1701,7 +1937,10 @@ KONCESIJOS DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 
 
 
-2) ekonominės veiklos vykdytojų kvalifikacijos reikalavimai, tarp jų ir reikalavimai atskiriems bendrą paraišką ar pasiūlymą pateikiantiems ekonominės veiklos vykdytojams;
+2) ekonominės veiklos vykdytojų pašalinimo pagrindai, kvalifikacijos reikalavimai, tarp jų ir reikalavimai atskiriems bendrą paraišką ar pasiūlymą pateikiantiems ekonominės veiklos vykdytojams. Suteikiančioji institucija koncesijos dokumentuose turi paaiškinti, kaip ekonominės veiklos vykdytojų grupės turi atitikti kvalifikacijos reikalavimus, keliamus pagal šio įstatymo  41–44 straipsnius. Jeigu ekonominės veiklos vykdytojų grupei keliami reikalavimai, taip pat koncesijos sutarties vykdymo sąlygos, įskaitant reikalavimus, kad ekonominės veiklos vykdytojų grupė paskirtų bendrą atstovą arba vadovaujantį narį, nurodytų grupės sudėtį, skiriasi nuo atskiriems dalyviams keliamų reikalavimų ir sąlygų, šie reikalavimai ir sąlygos turi būti pagrįsti objektyviomis priežastimis ir proporcingi;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1736,7 +1975,10 @@ KONCESIJOS DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 
 
 
-9) dalyvių pareiga pateikti preliminarius neįsipareigojamuosius pasiūlymus;
+9) informacija apie dalyvių pareigą pateikti preliminarius neįsipareigojamuosius pasiūlymus, jeigu tai nustato suteikiančioji institucija;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1751,7 +1993,10 @@ KONCESIJOS DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 
 
 
-12) teisinės formos reikalavimai, kai suteikiančioji institucija reikalauja, kad, ekonominės veiklos vykdytojo ar tokių vykdytojų grupės pateiktą pasiūlymą pripažinus laimėjusiu ir pasiūlius sudaryti koncesijos sutartį, šis ekonominės veiklos vykdytojas ar tokių vykdytojų grupė įsteigtų juridinį asmenį, nurodant pareigą ekonominės veiklos vykdytojui ar tokių vykdytojų grupei laiduoti už įsteigto juridinio asmens prievoles, susijusias su koncesijos sutarties sąlygų įvykdymu;
+12) teisinės formos reikalavimai, suteikiančiajai institucijai priėmus sprendimą reikalauti, kad, ekonominės veiklos vykdytojo ar tokių vykdytojų grupės pateiktą pasiūlymą pripažinus laimėjusiu ir pasiūlius sudaryti koncesijos sutartį, šis ekonominės veiklos vykdytojas ar tokių vykdytojų grupė įsteigtų juridinį asmenį, nurodant pareigą ekonominės veiklos vykdytojui ar tokių vykdytojų grupei laiduoti už įsteigto juridinio asmens prievoles, susijusias su koncesijos sutarties sąlygų įvykdymu. Šiame punkte išdėstyti reikalavimai negali būti keliami tam, kad ekonominės veiklos vykdytojų grupės galėtų pateikti paraišką ar pasiūlymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1806,7 +2051,10 @@ KONCESIJOS DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 
 
 
-23) informacija, kad pasiūlymuose koncesijos mokestis (jeigu taikoma), pajamos ir sąnaudos bus vertinami eurais. Jeigu pasiūlymuose koncesijos mokestis (jeigu taikoma), pajamos ir sąnaudos nurodyti užsienio valiuta, jie bus perskaičiuojami eurais pagal Europos centrinio banko skelbiamą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutų santykį paskutinę pasiūlymų pateikimo termino dieną;
+23) informacija, kad pasiūlymuose nurodytas koncesijos mokestis (jeigu taikoma), pajamos ir sąnaudos bus vertinami eurais. Jeigu pasiūlymuose koncesijos mokestis (jeigu taikoma), pajamos ir sąnaudos nurodyti užsienio valiuta, jie bus perskaičiuojami eurais pagal Europos Centrinio Banko skelbiamą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutų santykį paskutinę pasiūlymų pateikimo termino dieną;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1876,27 +2124,42 @@ KONCESIJOS DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 33 straipsnis. Koncesijos dokumentų teikimas 
 
 
-1. Suteikiančioji institucija koncesijos dokumentus, kuriuos įmanoma pateikti elektroninėmis priemonėmis, įskaitant technines specifikacijas, dokumentų paaiškinimus (patikslinimus), taip pat atsakymus į ekonominės veiklos vykdytojų paklausimus dėl koncesijos dokumentų, skelbia Centrinėje viešųjų pirkimų informacinėje sistemoje kartu su koncesijos skelbimu, siunčiamu kviečiant pateikti paraišką ar pateikti pasiūlymą. Jeigu koncesijos dokumentų neįmanoma paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje, suteikiančioji institucija koncesijos dokumentus ekonominės veiklos vykdytojui pateikia kitomis priemonėmis. 
+1. Suteikiančioji institucija koncesijos dokumentus, kuriuos įmanoma pateikti elektroninėmis priemonėmis, įskaitant technines specifikacijas, dokumentų paaiškinimus (patikslinimus), taip pat atsakymus į ekonominės veiklos vykdytojų paklausimus dėl koncesijos dokumentų, skelbia Centrinėje viešųjų pirkimų informacinėje sistemoje kartu su koncesijos skelbimu, siunčiamu kviečiant pateikti paraišką ar pateikti pasiūlymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
 
-2. Jeigu suteikiančioji institucija negali koncesijos dokumentų paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje, nes jų neįmanoma pateikti elektroninėmis priemonėmis dėl bent vienos šio įstatymo 23 straipsnio 3 dalyje nurodytos priežasties ar yra taikomi šio įstatymo 21 straipsnio 2 dalyje nurodyti konfidencialios informacijos apsaugos reikalavimai, suteikiančioji institucija koncesijos dokumentus pateikia taikydama koncesijos skelbime nurodytas kitas priemones ir (ar) konfidencialumo reikalavimus, o pasiūlymų pateikimo terminas yra pratęsiamas. 
+2. Jeigu suteikiančioji institucija negali koncesijos dokumentų paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje, nes jų neįmanoma pateikti elektroninėmis priemonėmis dėl bent vienos šio įstatymo 23 straipsnio 3 dalyje nurodytos priežasties ar yra taikomi šio įstatymo 21 straipsnio 6 dalyje nurodyti konfidencialios informacijos apsaugos reikalavimai, suteikiančioji institucija koncesijos dokumentus pateikia taikydama koncesijos skelbime nurodytas kitas priemones ir (ar) konfidencialumo reikalavimus, o pasiūlymų pateikimo terminas yra pratęsiamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
 
-3. Ekonominės veiklos vykdytojo prašymu suteikiančioji institucija jam pateikia papildomą su koncesijos dokumentais susijusią informaciją, koncesijos dokumentų patikslinimus, paaiškinimus, pataisymus, o šio straipsnio 2 dalyje nurodytu atveju – ir pačius koncesijos dokumentus ne vėliau kaip likus 6 dienoms iki pasiūlymų pateikimo termino pabaigos, jeigu jų paprašyta laiku. 
+3. Jeigu papildomos su koncesijos dokumentais susijusios informacijos paprašoma laiku, suteikiančioji institucija ją pateikia visiems ekonominės veiklos vykdytojams ne vėliau kaip likus 6 dienoms iki pasiūlymų pateikimo termino pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
 
-4. Nepasibaigus koncesijos pasiūlymų pateikimo terminui, suteikiančioji institucija savo iniciatyva ar atsakydama į ekonominės veiklos vykdytojo prašymą gali paaiškinti (patikslinti) koncesijos dokumentus. Suteikiančioji institucija turi užtikrinti, kad visi ekonominės veiklos vykdytojai turėtų galimybę susipažinti su šiais paaiškinimais, tačiau ji neturi nurodyti, iš ko buvo gautas prašymas teikti paaiškinimą. 
+4. Neteko galios nuo 2023-01-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
 
-5. Tuo atveju, kai tikslinama pirmiau paskelbta informacija, suteikiančioji institucija privalo per 5 dienas atitinkamai patikslinti koncesijos skelbimą, o prireikus pratęsti pasiūlymų pateikimo terminą protingumo kriterijų atitinkančiam terminui, per kurį ekonominės veiklos vykdytojai, rengdami pasiūlymus, galėtų atsižvelgti į pateiktus patikslinimus. 
+5. Kai suteikiančioji institucija tikslina informaciją, pateiktą koncesijos skelbime, ji privalo atitinkamai patikslinti koncesijos skelbimą, o prireikus pratęsti pasiūlymų pateikimo terminą protingumo kriterijų atitinkančiam terminui, per kurį ekonominės veiklos vykdytojai, rengdami pasiūlymus, galėtų atsižvelgti į pateiktus patikslinimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -1986,12 +2249,28 @@ PARAIŠKOS IR PASIŪLYMO PATEIKIMAS
 
 
 
-2. Paraiškų dalyvauti koncesijoje pateikimo terminas negali būti trumpesnis kaip 30 dienų nuo Viešųjų pirkimų tarnybos skelbimo išsiuntimo Europos Sąjungos oficialiajam leidiniui ar nuo kvietimo pateikti paraiškas išsiuntimo dienos. 
+2. Paraiškų, nepaisant to, ar su jomis pateikiami ir pasiūlymai, pateikimo terminas negali būti trumpesnis kaip:
+
+
+1) 30 dienų nuo Viešųjų pirkimų tarnybos skelbimo išsiuntimo Europos Sąjungos oficialiajam leidiniui dienos – tarptautinės koncesijos suteikimo procedūros atveju;
 
 
 
 
-3. Jeigu suteikiančioji institucija kviečia ekonominės veiklos vykdytojus pateikti preliminarius neįsipareigojamuosius pasiūlymus, tokių pasiūlymų pateikimo terminas negali būti trumpesnis kaip 22 dienos nuo kvietimo pateikti pasiūlymus išsiuntimo dienos. 
+2) 22 dienos nuo skelbimo paskelbimo Centrinėje viešųjų pirkimų informacinėje sistemoje dienos – supaprastintos koncesijos suteikimo procedūros atveju.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
+
+
+
+
+3. Jeigu suteikiančioji institucija kviečia ekonominės veiklos vykdytojus pateikti preliminarius neįsipareigojamuosius pasiūlymus, tokių pasiūlymų pateikimo terminas negali būti trumpesnis kaip 22 dienos nuo kvietimo pateikti pasiūlymus išsiuntimo dienos. Jeigu suteikiančioji institucija nekviečia ekonominės veiklos vykdytojų pateikti preliminarių neįsipareigojamųjų pasiūlymų, šioje dalyje nustatytas terminas taikomas išsamiems įsipareigojamiesiems pasiūlymams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -2017,6 +2296,13 @@ PARAIŠKOS IR PASIŪLYMO PATEIKIMAS
 
 
 8. Suteikiančioji institucija visiems dalyviams perduoda numatomos koncesijų suteikimo procedūros aprašymą ir informaciją, kada preliminariai numatoma užbaigti šią procedūrą. 
+
+
+
+
+9. Jeigu dalyvis pateikė netikslius, neišsamius ar klaidingus dokumentus ar duomenis apie atitiktį koncesijos dokumentų reikalavimams arba šių dokumentų ar duomenų trūksta, suteikiančioji institucija, nepažeisdama lygiateisiškumo ir skaidrumo principų, gali prašyti dalyvį šiuos dokumentus ar duomenis patikslinti, papildyti arba paaiškinti per jos nustatytą protingą terminą. Pasiūlymai patikslinami, papildomi arba paaiškinami vadovaujantis Viešųjų pirkimų tarnybos nustatytomis taisyklėmis.
+Papildyta straipsnio dalimi:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -2095,7 +2381,10 @@ PARAIŠKOS IR PASIŪLYMO PATEIKIMAS
 
 
 
-2. Susipažinimas su paraiškomis ar pasiūlymais pradedamas koncesijų dokumentuose nurodytą dieną, valandą ir minutę. Komisijos posėdžio diena, valanda ir minutė turi sutapti su paraiškų ar pasiūlymų pateikimo termino pabaiga. Pakeitus šį terminą, atitinkamai turi būti pakeistas ir susipažinimo su paraiškomis ar pasiūlymais laikas. Nustatytu laiku turi įvykti pradinis susipažinimas su visomis paraiškomis ar pasiūlymais, gautais nepasibaigus jų pateikimo terminui. 
+2. Susipažinimas su paraiškomis ar pasiūlymais pradedamas koncesijų dokumentuose nurodytą dieną, valandą ir minutę. Komisijos posėdžio diena ir valanda turi sutapti su paraiškų ar pasiūlymų pateikimo termino pabaiga. Pakeitus šį terminą, atitinkamai turi būti pakeistas ir susipažinimo su paraiškomis ar pasiūlymais laikas. Nustatytu laiku turi įvykti pradinis susipažinimas su visomis paraiškomis ar pasiūlymais, gautais nepasibaigus jų pateikimo terminui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -2204,7 +2493,10 @@ DALYVIO IR JO PATEIKTOS PARAIŠKOS IR PASIŪLYMO KVALIFIKACINIS VERTINIMAS
 
 
 
-2. Minimalūs kvalifikacijos ir informacijos bei dokumentų, kuriais dalyviai turi pagrįsti kvalifikaciją ir kuriuos turi pateikti suteikiančiajai institucijai, reikalavimai nustatomi vadovaujantis šio įstatymo 48–52 straipsniais. 
+2. Minimalūs kvalifikacijos ir informacijos bei dokumentų, kuriais dalyviai turi pagrįsti kvalifikaciją ir kuriuos turi pateikti suteikiančiajai institucijai, reikalavimai nustatomi vadovaujantis šio įstatymo 42–45 straipsniais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -2246,22 +2538,30 @@ Suteikiančioji institucija gali koncesijos dokumentuose pareikalauti, kad dalyv
 43 straipsnis. Dalyvio ekonominis ir finansinis pajėgumas 
 
 
-1. Suteikiančioji institucija gali nustatyti šiuos ekonominės ir finansinės būklės reikalavimus, būtinus koncesijos sutarčiai įvykdyti:
+1. Suteikiančioji institucija, tikrindama tiekėjo finansinį ir ekonominį pajėgumą, gali:
 
 
-1) nustatyti tam tikrą iš dalyvių reikalaujamą metinių veiklos pajamų, įskaitant pajamas, gautas iš visos veiklos arba konkrečios veiklos, su kuria susijusi suteikiama koncesija, sumą. Reikalaujama metinė dalyvio veiklos pajamų suma negali būti daugiau kaip du kartus didesnė už numatomos koncesijos vertę, išskyrus pagrįstus atvejus, kai dėl paslaugų ar darbų pobūdžio arba su tuo susijusios rizikos būtina nustatyti didesnę reikalaujamą metinę dalyvio veiklos pajamų sumą. Suteikiančioji institucija koncesijos dokumentuose arba atskiroje ataskaitoje nurodo pagrindines tokio reikalavimo priežastis; 
-
-
-
-
-2) reikalauti, kad dalyvis pateiktų informaciją apie metinį finansinių ataskaitų rinkinį, kuriame matytųsi dalyvio turimo turto ir įsipareigojimų santykis. Suteikiančioji institucija gali vertinti dalyvio pateiktą informaciją, jeigu koncesijos dokumentuose nurodė skaidrius, objektyvius ir nediskriminacinius tokio vertinimo kriterijus ir metodus; 
+1) nustatyti tam tikrą iš dalyvių reikalaujamą metinių veiklos pajamų iš visos veiklos arba iš veiklos, su kuria susijusi suteikiama koncesija, sumą. Reikalaujama metinė dalyvio veiklos pajamų suma negali būti daugiau kaip du kartus didesnė už numatomą atliekamos koncesijos vertę, išskyrus pagrįstus atvejus, kai dėl paslaugų ar darbų pobūdžio arba su tuo susijusios rizikos būtina nustatyti didesnę reikalaujamą metinę dalyvio veiklos pajamų sumą. Suteikiančioji institucija koncesijos dokumentuose arba koncesijos procedūrų ataskaitoje nurodo pagrindines tokio reikalavimo priežastis;
 
 
 
 
-3) reikalauti atitinkamų įrodymų, kad dalyvis yra apsidraudęs profesinės civilinės atsakomybės draudimu. 
+2) atsižvelgti į tam tikrą finansinį santykį, įskaitant turimo turto ir įsipareigojimų santykį. Suteikiančioji institucija gali atsižvelgti į tokį santykį, jeigu koncesijos dokumentuose ji nurodė skaidrius, objektyvius ir nediskriminacinius finansinio santykio vertinimo kriterijus ir metodus;
 
 
+
+
+3) reikalauti atitinkamo lygio dalyvio profesinės civilinės atsakomybės draudimo;
+
+
+
+
+4) nustatyti kitus reikalavimus, kurie įrodytų, kad dalyvis yra finansiškai pajėgus finansuoti ir įvykdyti sutartį.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -2271,22 +2571,35 @@ Suteikiančioji institucija gali koncesijos dokumentuose pareikalauti, kad dalyv
 
 
 
-3. Suteikiančioji institucija turi teisę koncesijos dokumentuose prašyti pateikti šiuos (vieną ar kelis) ekonominę ir finansinę dalyvio būklę apibūdinančius dokumentus: 
+3. Suteikiančioji institucija gali reikalauti iš dalyvių pateikti šiuos dokumentus (vieną ar kelis), patvirtinančius jų finansinį ir ekonominį pajėgumą:
 
 
-1) atitinkamas banko pažymas arba, jeigu reikia, atitinkamus įrodymus, kad dalyvis yra apsidraudęs profesinės civilinės atsakomybės draudimu; 
-
-
-
-
-2) paskutinių finansinių metų dalyvio juridinio asmens finansinių ataskaitų rinkinį su auditoriaus išvada (tais atvejais, kai auditas atliktas) ar jo ištrauką, jeigu šalies, kurioje registruotas dalyvis, įstatymuose reikalaujama skelbti metinį finansinių ataskaitų rinkinį; 
+1) atitinkamus banko ar kitos finansų įstaigos raštus ar pažymas;
 
 
 
 
-3) daugiausia paskutinių 3 finansinių metų, o jeigu juridinis asmuo įregistruotas ar veiklą atitinkamoje srityje pradėjo vėliau, – nuo juridinio asmens įregistravimo ar veiklos su koncesija susijusioje srityje pradžios dalyvio juridinio asmens pažymą apie visos veiklos pajamas ar, jeigu reikia, pažymą apie pajamas, gautas iš konkrečios veiklos, su kuria susijusi suteikiama koncesija, jeigu ši informacija turima. 
+2) atitinkamus įrodymus, kad dalyvis yra apsidraudęs profesiniu civilinės atsakomybės draudimu, jeigu tokia profesinė rizika yra draudžiama;
 
 
+
+
+3) paskutinių finansinių metų ekonominio veiklos vykdytojo finansinių ataskaitų rinkinį su auditoriaus išvada (tais atvejais, kai auditas atliktas) ar jo ištrauką, jeigu šalies, kurioje registruotas dalyvis, įstatymuose reikalaujama skelbti metinį finansinių ataskaitų rinkinį;
+
+
+
+
+4) daugiausia paskutinių 3 finansinių metų, o jeigu ekonominės veiklos vykdytojas įregistruotas ar veiklą atitinkamoje srityje pradėjo vėliau, – nuo ekonominės veiklos vykdytojo įregistravimo ar veiklos su koncesija susijusioje srityje pradžios dalyvio įmonės pažymą apie gautas pajamas iš visos veiklos ar iš veiklos, su kuria susijęs suteikiama koncesija, jeigu ši informacija turima;
+
+
+
+
+5) kitų dokumentų, kurie įrodytų, kad dalyvis yra pajėgus finansuoti koncesijos sutartį.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -2370,18 +2683,20 @@ Suteikiančioji institucija gali koncesijos dokumentuose pareikalauti, kad dalyv
 
 
 
-45 straipsnis. Dalyvio kvalifikacijos patvirtinimo priemonės 
+45 straipsnis. Dalyvio pašalinimo pagrindų nebuvimą patvirtinančios priemonės
 
 
-1. Suteikiančioji institucija, koncesijos dokumentuose reikalaudama, kad dalyvis įrodytų, jog šio įstatymo 26 straipsnio 1, 3 ir 6 dalyse nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. 
+1. Suteikiančioji institucija, koncesijos dokumentuose reikalaudama, kad dalyvis įrodytų, jog šio įstatymo 26 straipsnio 1, 3 dalyse ir 6 dalies 2 punkte nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. 
 
 
 
 
-2. Jeigu dalyvis negali pateikti šio straipsnio 1 dalyje nurodytų dokumentų, nes valstybėje narėje ar atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio įstatymo 26 straipsnio 1, 3 ir 6 dalyse keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia dalyvio deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai valstybėje narėje ar savo kilmės šalyje arba šalyje, kurioje jis yra įsisteigęs. 
+2. Jeigu dalyvis negali pateikti šio straipsnio 1 dalyje nurodytų dokumentų, nes valstybėje narėje ar atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų šio įstatymo 26 straipsnio 1, 3 dalyse ir 6 dalies 2 punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia dalyvio deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai valstybėje narėje ar savo kilmės šalyje arba šalyje, kurioje jis yra įsisteigęs.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -2422,6 +2737,49 @@ Suteikiančioji institucija gali koncesijos dokumentuose pareikalauti, kad dalyv
 
 
 
+461 straipsnis. Informacijos nuslėpimas ar melagingos informacijos pateikimas arba dokumentų nepateikimas
+
+
+1. Suteikiančioji institucija Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia šią informaciją apie dalyvį (esant dalyvių grupei – apie visus grupės narius), kuris (kurie) koncesijos suteikimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 26 ir 41 straipsniuose nustatytiems reikalavimams, arba dėl pateiktos melagingos informacijos nepateikė šio įstatymo  42–45 straipsniuose nurodytų patvirtinančių dokumentų: 
+
+
+1) dalyvio pavadinimas (jeigu dalyvis yra fizinis asmuo, – vardas ir pavardė), suteikiančiosios institucijos sprendimo pašalinti dalyvį pagal šio įstatymo 26 straipsnio 4 dalies 6 punktą iš koncesijos suteikimo procedūros priėmimo data ir priežastys, dėl kurių priimtas šis sprendimas;
+
+
+
+
+2) dalyvio kreipimosi į teismą, kuriuo ginčijamas suteikiančiosios institucijos sprendimas pašalinti dalyvį iš koncesijos suteikimo procedūros, data;
+
+
+
+
+3) galutinio teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti dalyvio reikalavimą, kuriuo ginčijamas suteikiančiosios institucijos sprendimas pašalinti jį iš koncesijos suteikimo procedūros, įsiteisėjimo data ir nuoroda į šį sprendimą.
+
+
+
+
+
+
+2. Suteikiančioji institucija šio straipsnio 1 dalyje nurodytą informaciją paskelbia nedelsdama, bet ne anksčiau, negu dalyviui pateikė informaciją pagal šio straipsnio 3 dalį, ir ne vėliau kaip per 10 dienų nuo šio straipsnio 1 dalies 1–3 punktuose nurodyto įvykio dienos. Jeigu šio straipsnio 1 dalies 2 punkte nurodytas dalyvio reikalavimas galutiniu teismo sprendimu yra patenkinamas, suteikiančioji institucija nedelsdama, ne vėliau kaip per 10 dienų nuo teismo sprendimo įsiteisėjimo dienos, pašalina šio straipsnio 1 dalyje nurodytą informaciją apie dalyvį. 
+
+
+
+
+3. Suteikiančioji institucija nedelsdama, ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 1 dalies 1–3 punktuose nurodytų įvykių dienos, informuoja dalyvį apie tai, kad bus paskelbta šio straipsnio 1 dalyje nurodyta informacija. Dalyvis turi teisę Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka pateikti šio straipsnio 1 dalies 1 punkte nurodytos informacijos paaiškinimą.
+
+
+
+
+4. Šiame straipsnyje nurodytos informacijos paskelbimo tikslas – informuoti perkančiąsias organizacijas, perkančiuosius subjektus ar suteikiančiąsias institucijas apie tiekėjo pašalinimo iš pirkimo procedūros ar dalyvio pašalinimo iš koncesijos suteikimo procedūros pagrindą. Viešųjų pirkimų tarnyba, atlikdama šio įstatymo 66 straipsnio 1 dalies 8 punkte nustatytą funkciją, užtikrina, kad šiame straipsnyje nustatyta informacija būtų skelbiama ne ilgiau kaip vienus metus nuo šio įstatymo 26 straipsnio 4 dalies 4 punkte nurodyto pažeidimo padarymo dienos.
+
+
+Papildyta straipsniu:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
+
+
+
+
 
 
 
@@ -2436,33 +2794,33 @@ KONKURSAS
  
 
 
-47 straipsnis. Konkurso vykdymas 
+47 straipsnis. Konkurso vykdymas
 
 
 Suteikiančioji institucija konkursą vykdo šiais etapais:
 
 
-1) šio įstatymo 29 ir 31 straipsniuose nustatyta tvarka kviečia ekonominės veiklos vykdytojus pateikti paraiškas dalyvauti konkurse;
+1) šio įstatymo 29 ir 31 straipsniuose nustatyta tvarka kviečia ekonominės veiklos vykdytojus pateikti paraiškas dalyvauti konkurse. Supaprastintos koncesijos atveju paraiškas dalyvauti konkurse gali kviesti teikti kartu su pasiūlymais;
 
 
 
 
-2) patikrina, ar nėra koncesijos dokumentuose nustatytų dalyvių pašalinimo pagrindų, atlieka dalyvių kvalifikacinę atranką, jeigu tokia atranka numatyta koncesijos dokumentuose, ir dalyvių, kuriuos kvies teikti pasiūlymus, atranką pagal koncesijos dokumentuose nustatytas procedūras ir kriterijus;
+2) patikrina, ar nėra koncesijos dokumentuose nustatytų dalyvių pašalinimo pagrindų, ar kandidatai atitinka keliamus kvalifikacijos reikalavimus, atlieka dalyvių kvalifikacinę atranką, jeigu tokia atranka numatyta koncesijos dokumentuose;
 
 
 
 
-3) kviečia dalyvius teikti preliminarius neįsipareigojamuosius pasiūlymus ir įvertina šiuos pasiūlymus pagal koncesijos dokumentuose nustatytus kriterijus ir tvarką, jeigu taikoma;
+3) kviečia dalyvius teikti preliminarius neįsipareigojamuosius pasiūlymus, jeigu koncesijos dokumentuose nustatyta, kad jie turi būti teikiami ir nebuvo pateikti kartu su paraiška, ir įvertina šiuos pasiūlymus pagal koncesijos dokumentuose nustatytus reikalavimus ir tvarką;
 
 
 
 
-4) kviečia dalyvius teikti išsamius įsipareigojamuosius pasiūlymus;
+4) kviečia dalyvius teikti išsamius įsipareigojamuosius pasiūlymus, jeigu jie nebuvo pateikti kartu su paraiška;
 
 
 
 
-5) įvertina dalyvių pateiktus išsamius įsipareigojamuosius pasiūlymus pagal koncesijos dokumentuose nustatytus kriterijus ir tvarką; 
+5) įvertina dalyvių pateiktus išsamius įsipareigojamuosius pasiūlymus pagal koncesijos dokumentuose nustatytus kriterijus ir tvarką;
 
 
 
@@ -2473,11 +2831,13 @@ Suteikiančioji institucija konkursą vykdo šiais etapais:
 
 
 7) pasirašo koncesijos sutartį su konkurso laimėtoju.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
-
-
 
 
 
@@ -2527,7 +2887,9 @@ Suteikiančioji institucija konkursą vykdo šiais etapais:
 50 straipsnis. Išsamių įsipareigojamųjų pasiūlymų pateikimas
 
 
-1. Išsamiuose įsipareigojamuosiuose pasiūlymuose privalo būti nurodyti koncesijos dokumentuose suformuluoti techniniai, finansiniai ir komerciniai klausimai bei pateikta koncesijos dokumentuose reikalaujama informacija, kuri visais atvejais turi apimti:
+1. Išsamiuose įsipareigojamuosiuose pasiūlymuose privalo būti pateikta koncesijos dokumentuose reikalaujama informacija, kuri visais atvejais turi apimti: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
 
 
 1) pasiūlymus ir komentarus dėl koncesijos projekto techninių sąlygų ir jo įgyvendinimo reikalavimų, įskaitant suteikiančiosios institucijos koncesijos dokumentuose numatytus saugumo ir aplinkos apsaugos reikalavimus;
@@ -2553,10 +2915,12 @@ Suteikiančioji institucija konkursą vykdo šiais etapais:
 51 straipsnis. Išsamių įsipareigojamųjų pasiūlymų vertinimas ir palyginimas
 
 
-Vadovaudamasi koncesijos skelbime ir koncesijos dokumentuose nustatytais vertinimo kriterijais, suteikiančioji institucija įvertina gautus išsamius įsipareigojamuosius dalyvių pasiūlymus, koncesijos dokumentuose pasiūlytų sutarties projekto sąlygų komentarą ar išlygas dėl jų ir sudaro dalyvių sąrašą pagal suteiktų vertinimų eiliškumą. Jeigu yra gautas tik vienas išsamus įsipareigojamasis pasiūlymas, kuris atitinka koncesijos dokumentų reikalavimus, suteikiančioji institucija skelbia kvietimą pateikti pasiūlymą ir pradeda su dalyviu derybas šio įstatymo 53 straipsnyje nustatyta tvarka.
+Vadovaudamasi koncesijos skelbime ir koncesijos dokumentuose nustatytais vertinimo kriterijais, suteikiančioji institucija įvertina gautus išsamius įsipareigojamuosius dalyvių pasiūlymus, koncesijos dokumentuose pasiūlytų sutarties projekto sąlygų komentarą ar išlygas dėl jų ir sudaro dalyvių sąrašą pagal suteiktų vertinimų eiliškumą. Jeigu yra gautas tik vienas išsamus įsipareigojamasis pasiūlymas, kuris atitinka koncesijos dokumentuose nustatytus reikalavimus, suteikiančioji institucija kviečia dalyvį dalyvauti derybose šio įstatymo 53 straipsnyje nustatyta tvarka, jeigu suteikiančioji institucija nepasinaudoja teise nutraukti koncesijos suteikimo procedūrų, vadovaudamasi šio įstatymo 28 straipsnio 3 dalimi.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -2690,12 +3054,18 @@ Vadovaudamasi koncesijos skelbime ir koncesijos dokumentuose nustatytais vertini
 53 straipsnis. Derybos
 
 
-1. Suteikiančioji institucija pakviečia dalyvį, kuris šio įstatymo 51 ir 52 straipsniuose nustatyta tvarka gavo aukščiausią įvertinimą, dalyvauti derybose. Derantis negali būti iš esmės pakeistas koncesijos dalykas, taip pat negali būti keičiami vertinimo kriterijai ir minimalūs kvalifikacijos reikalavimai. Bet kuriuo atveju esminiu koncesijos dalyko pakeitimu laikytina, kai koncesininko pasiūlyme nurodyta koncesijos vertė yra 50 procentų ir daugiau mažesnė arba didesnė, negu buvo numatyta pradiniuose koncesijos dokumentuose ir koncesijos skelbime, arba tokiu pakeitimu labai išplečiama arba labai susiaurinama koncesijos taikymo sritis.
+1. Suteikiančioji institucija pakviečia dalyvį, kuris šio įstatymo 51 ir 52 straipsniuose nustatyta tvarka gavo aukščiausią įvertinimą, dalyvauti derybose. Derantis negali būti iš esmės pakeistas koncesijos dalykas, taip pat negali būti keičiami vertinimo kriterijai ir minimalūs kvalifikacijos reikalavimai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
 
-2. Pasibaigus deryboms, suteikiančioji institucija turi teisę paprašyti dalyvio pateikti galutinį pasiūlymą, atsižvelgiant į derybų rezultatus. 
+2. Pasibaigus deryboms, suteikiančioji institucija paprašo dalyvio pateikti galutinį pasiūlymą, atsižvelgiant į derybų rezultatus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -2731,100 +3101,102 @@ Vadovaudamasi koncesijos skelbime ir koncesijos dokumentuose nustatytais vertini
 
 
 ANTRASIS SKIRSNIS
-KONCESIJOS SUTEIKIMAS BE KONKURSO
+KONCESIJOS SUTEIKIMAS, KAI NEPRIVALOMA SKELBTI KONCESIJOS SKELBIMO
  
 
 
-54 straipsnis. Sąlygos, kai koncesijos gali būti suteikiamos be konkurso 
+54 straipsnis. Koncesijos suteikimas, kai neprivaloma skelbti koncesijos skelbimo 
 
 
-Suteikiančioji institucija gali suteikti koncesiją be konkurso, nesivadovaudama šio įstatymo III skyriaus pirmajame skirsnyje nustatyta tvarka, jeigu koncesijos vertė yra mažesnė už tarptautinės koncesijos vertę ir kai yra bent viena iš šių aplinkybių:
+1. Koncesija gali būti suteikiama neskelbiant koncesijos skelbimo, kai yra bent viena iš šių sąlygų:
 
 
-1) yra neatidėliotinas infrastruktūros ir su ja susijusių paslaugų poreikis, kurio nebuvo galima iš anksto numatyti, ir (ar) reikia užtikrinti nenutrūkstamą paslaugų teikimą, ir susidarius tokioms nenumatytoms aplinkybėms nėra galimybės rengti konkursą dėl koncesijos suteikimo;
+1) jeigu darbus atlikti arba paslaugas suteikti gali tik konkretus ekonominės veiklos vykdytojas dėl vienos iš šių priežasčių:
 
 
+a) koncesijos tikslas – unikalaus meno kūrinio ar meninio pasirodymo sukūrimas arba įsigijimas;
 
 
-2) dėl turimų išimtinių teisių teikti viešąsias paslaugas, suteiktų teisės akto, atitinkančio Sutartį dėl Europos Sąjungos veikimo, yra tik vienas įmanomas paslaugų, dėl kurių suteikiama koncesija, teikimo šaltinis ir nėra kitos alternatyvos;
 
 
+b) konkurencijos nėra dėl techninių priežasčių;
 
 
-3) buvo surengtas konkursas, tačiau nebuvo gauta pasiūlymų, atitinkančių konkurso sąlygas. Tokiu atveju sprendimas dėl koncesijos suteikimo be konkurso turi būti priimtas ne vėliau kaip per šešis mėnesius po surengto konkurso pabaigos ir tokia koncesijos sutartis gali būti sudaryta ne ilgesniam terminui kaip iki koncesijos sutarties, sudarytos su kitu koncesininku, kuris bus atrinktas konkurso būdu, įsigaliojimo;
 
 
+c) išimtinės teisės egzistavimas;
 
 
-4) koncesijos projektas yra ne mažiau kaip 50 procentų finansuojamas užsienio institucijos ar valstybės palankesnėmis sąlygomis negu koncesijos suteikimo metu Lietuvoje esamos rinkos sąlygos ir tokia finansuojančioji institucija ar valstybė yra potencialiems koncesininkams nustačiusi reikalavimus, kuriuos atitinka tik tam tikra asmenų kategorija, bei reikalavimus, kokia tvarka turi būti parenkamas koncesininkas, ir tokia tvarka skiriasi nuo šio įstatymo nustatytos konkurso tvarkos.
- 
 
 
+d) dėl intelektinės nuosavybės teisių ir kitų išimtinių teisių, negu apibrėžta šio įstatymo 3 straipsnio 8 dalyje, apsaugos; 
 
 
 
 
 
 
-55 straipsnis. Koncesijos suteikimas be konkurso
+2) jeigu supaprastinta koncesija suteikiama dėl neatidėliotino infrastruktūros ir su ja susijusių paslaugų poreikio, kurio nebuvo galima iš anksto numatyti, ir (ar) reikia užtikrinti nenutrūkstamą paslaugų teikimą, ir susidarius tokioms nenumatytoms aplinkybėms nėra galimybės rengti konkursą dėl koncesijos suteikimo. Aplinkybės, kuriomis grindžiamas neatidėliotinas poreikis, negali priklausyti nuo suteikiančiosios institucijos;
 
 
-1. Suteikiančioji institucija, ketindama suteikti koncesiją be konkurso, privalo priimti motyvuotą sprendimą dėl koncesijos suteikimo be konkurso.
 
 
+3) jeigu per ankstesnę koncesijos suteikimo procedūrą nebuvo pateikta paraiškų ar pasiūlymų arba buvo pateiktos netinkamos paraiškos ar netinkami pasiūlymai, su sąlyga, kad iš esmės nekeičiamos pradinės koncesijos dokumentų sąlygos ir kad Europos Komisijai nusiunčiama ataskaita, kai ji to prašo.
 
 
-2. Suteikiančioji institucija apie koncesijos suteikimą be konkurso skelbia vadovaudamasi šio įstatymo II skyriaus antrojo skirsnio nuostatomis. 
 
 
 
 
-3. Suteikiančioji institucija, suteikdama koncesiją be konkurso, turi laikytis šio įstatymo 14 straipsnyje nustatytų reikalavimų.
-
-
-
-
-4. Suteikiančioji institucija koncesiją be konkurso, išskyrus koncesijas, suteikiamas pagal šio įstatymo 54 straipsnio 4 punktą, suteikia šiais etapais:
-
-
-1) pasirinktų ekonominės veiklos vykdytojų kvietimas raštu pateikti preliminarius neįsipareigojamuosius pasiūlymus ir dalyvių pateiktų preliminarių neįsipareigojamųjų pasiūlymų įvertinimas pagal koncesijos dokumentuose nustatytus kriterijus ir tvarką, jeigu taikoma;
-
-
-
-
-2) pasirinktų ekonominės veiklos vykdytojų kvietimas raštu pateikti išsamius įsipareigojamuosius pasiūlymus ir dalyvių pateiktų išsamių įsipareigojamųjų pasiūlymų įvertinimas pagal koncesijos dokumentuose nustatytus kriterijus ir tvarką;
-
-
-
-
-3) derybos su dalyviu ar dalyviais, kaip nurodyta šio įstatymo 53 straipsnyje;
-
-
-
-
-4) kvietimas dalyviui arba dalyviams pateikti galutinius išsamius pasiūlymus pagal derybų rezultatus;
-
-
-
-
-5) koncesijos sutarties pasirašymas. 
-
-
-
-
-
-
-5. Suteikiančioji institucija, suteikdama koncesiją be konkurso pagal šio įstatymo 54 straipsnio 2 punktą, gali netaikyti šio straipsnio 4 dalies nuostatų ir koncesijos sutartį sudaryti tiesiogiai. 
-
-
-
-
-6. Suteikiančioji institucija, suteikdama koncesiją ir sudarydama koncesijos sutartį (ir kitas papildomas bei susijusias sutartis, įskaitant sutartis su koncesijos finansuotojais be konkurso), turi imtis visų reikiamų veiksmų, kad koncesijos sutartyje būtų kiek galima geriau užtikrinti viešieji interesai ir būtų užtikrintos suteikiančiajai institucijai palankiausios koncesijos sutarties sąlygos, atsižvelgiant į visus susijusius veiksnius, įskaitant rizikos, kurią prisiima koncesininkas, mastą, galimybę gauti alternatyvius pasiūlymus iš kitų potencialių koncesininkų, koncesijos dalyko sudėtingumą, konfidencialumo bei kitus aspektus, susijusius su aplinkybėmis, dėl kurių konkursas neskelbiamas.
+2. Šio straipsnio 1 dalies 1 punkto b, c ir d papunkčiuose nustatytos išimtys taikomos tik tuo atveju, kai nėra pagrįstos alternatyvos arba pakaitalo ir konkurencijos nebuvimas nėra nulemtas dirbtinio koncesijos suteikimo parametrų susiaurinimo. 
  
 
 
 
 
+
+
+55 straipsnis. Koncesijos suteikimo, kai neprivaloma skelbti koncesijos skelbimo, etapai
+
+
+1. Suteikiančioji institucija koncesiją, kai neprivaloma skelbti koncesijos skelbimo, suteikia šiais etapais:
+
+
+1) pasirinktus ekonominės veiklos vykdytojus kviečia raštu pateikti paraiškas arba jas pateikti kartu su pasiūlymais dalyvauti koncesijos suteikimo procedūroje;
+
+
+
+
+2) patikrina, ar nėra koncesijos dokumentuose nustatytų dalyvių pašalinimo pagrindų ir ar dalyviai atitinka keliamus kvalifikacijos reikalavimus;
+
+
+
+
+3) dalyvius kviečia raštu pateikti išsamius įsipareigojamuosius pasiūlymus, išskyrus atvejus, kai jie buvo pateikti kartu su paraiška, ir jų pateiktus išsamius įsipareigojamuosius pasiūlymus vertina pagal koncesijos dokumentuose nustatytus kriterijus ir tvarką;
+
+
+
+
+4) vykdo derybas su dalyviu ar dalyviais, kaip nurodyta šio įstatymo 53 straipsnyje;
+
+
+
+
+5) pasirašo koncesijos sutartį su laimėtoju.
+
+
+
+
+
+
+2. Suteikiančioji institucija, suteikdama koncesiją, kai vadovaujantis šio įstatymo 54 straipsnio 1 dalies 1 punktu neprivaloma skelbti koncesijos skelbimo, gali nesilaikyti šio straipsnio 1 dalyje nustatytų etapų, tačiau privalo laikytis šio įstatymo 14 straipsnyje nustatytų reikalavimų.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -2885,15 +3257,15 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
  
 
 
-58 straipsnis. Informavimas apie koncesijos suteikimo procedūros rezultatus 
+58 straipsnis. Informavimas apie koncesijos suteikimo procedūros rezultatus
 
 
-1. Suteikiančioji institucija suinteresuotiems dalyviams ne vėliau kaip per 5 darbo dienas nuo šio įstatymo 53, 55 ir 57 straipsniuose nurodytų procedūrų pasibaigimo raštu praneša apie priimtą sprendimą sudaryti koncesijos sutartį, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta koncesijos suteikimo procedūros metu, santrauką ir nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą ir tikslų atidėjimo terminą. Tais atvejais, kai koncesijos sutartis nėra sudaroma, suteikiančioji institucija turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti koncesijos sutarties arba pradėti koncesijos suteikimo procedūrą iš naujo. 
+1. Suteikiančioji institucija suinteresuotiems dalyviams ne vėliau kaip per 5 darbo dienas nuo šio įstatymo 53, 55 ir 57 straipsniuose nurodytų procedūrų pasibaigimo raštu praneša apie priimtą sprendimą sudaryti koncesijos sutartį, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta koncesijos suteikimo procedūros metu, santrauką ir nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą ir tikslų atidėjimo terminą. Kai koncesijos sutartis nėra sudaroma, suteikiančioji institucija turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti koncesijos sutarties arba pradėti koncesijos suteikimo procedūrą iš naujo. 
 
 
 
 
-2. Suteikiančioji institucija, gavusi suinteresuoto dalyvio raštu pateiktą prašymą, turi ne vėliau kaip per 15 dienų nuo šio prašymo gavimo dienos nurodyti:
+2. Suteikiančioji institucija, gavusi suinteresuoto dalyvio raštu pateiktą prašymą, kaip įmanoma greičiau, ne vėliau kaip per 15 dienų nuo šio prašymo gavimo dienos, turi nurodyti:
 
 
 1) dalyviui, kurio pasiūlymas nebuvo atmestas, – laimėjusio pasiūlymo charakteristikas ir santykinius pranašumus, dėl kurių šis pasiūlymas buvo pripažintas geriausiu, taip pat šį pasiūlymą pateikusio dalyvio pavadinimą; 
@@ -2908,15 +3280,27 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
 
 
 
-3. Suteikiančioji institucija šio straipsnio 1 ir 2 dalyse nurodytais atvejais negali teikti informacijos, jeigu jos atskleidimas prieštarauja teisės aktams, kenkia visuomenės interesams, teisėtiems konkretaus ekonominės veiklos vykdytojo komerciniams interesams arba trukdo užtikrinti sąžiningą ekonominės veiklos vykdytojų konkurenciją. 
+3. Suinteresuoti dalyviai nuo suteikiančiosios institucijos pranešimo apie sprendimą nustatyti laimėjusį pasiūlymą pateikimo dalyviams dienos iki atidėjimo termino pabaigos gali prašyti suteikiančiosios institucijos pateikti laimėjusio dalyvio pasiūlymą. Tokiu atveju šio įstatymo 73 straipsnio 1 dalyje nustatytas terminas ir atidėjimo terminas pratęsiami nuo suinteresuoto dalyvio prašymo pateikti laimėjusio dalyvio pasiūlymą pateikimo suteikiančiajai institucijai dienos tol, kol suinteresuotam dalyviui bus pateiktas minėtas pasiūlymas. Suteikiančioji institucija laimėjusį pasiūlymą suinteresuotiems dalyviams gali pateikti teikdama šio straipsnio 1 dalyje nurodytą informaciją. 
 
 
 
 
-4. Tais atvejais, kai šis įstatymas neleidžia atskleisti su koncesija susijusios informacijos, su ja gali susipažinti tik Komisijos nariai ir suteikiančiosios institucijos pakviesti ekspertai, Viešųjų pirkimų tarnybos atstovai, kitų Vyriausybės įgaliotų institucijų bei įstaigų, pagal kompetenciją atliekančių koncesijų priežiūrą, atstovai, suteikiančiosios institucijos vadovas, jo įgalioti asmenys bei kiti asmenys ir institucijos, turinčios tokią teisę pagal Lietuvos Respublikos įstatymus, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti Lietuvos Respublikos viešojo administravimo įstatymo (toliau – Viešojo administravimo įstatymas) nustatyta tvarka.
+4. Suinteresuoti dalyviai turi teisę prašyti suteikiančiosios institucijos supažindinti juos su kitų dalyvių, kurie buvo pakviesti pateikti pasiūlymų, paraiškomis.
+
+
+
+
+5. Suteikiančioji institucija šio straipsnio 1, 2, 3 ir 4 dalyse nurodytais atvejais negali teikti informacijos, jeigu jos atskleidimas prieštarauja informacijos ir duomenų apsaugą reglamentuojantiems teisės aktams arba visuomenės interesams, pažeidžia teisėtus konkretaus tiekėjo komercinius interesus arba turi neigiamą poveikį tiekėjų konkurencijai.
+
+
+
+
+6. Kai šis įstatymas neleidžia atskleisti su koncesija susijusios informacijos, su ja gali susipažinti tik Komisijos nariai ir suteikiančiosios institucijos pakviesti ekspertai, Viešųjų pirkimų tarnybos atstovai, kitų Vyriausybės įgaliotų institucijų bei įstaigų, pagal kompetenciją atliekančių koncesijų priežiūrą, atstovai, suteikiančiosios institucijos vadovas, jo įgalioti asmenys bei kiti asmenys ir institucijos, turinčios tokią teisę pagal Lietuvos Respublikos įstatymus, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -2929,7 +3313,9 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
 
 
 
-2. Suteikiančioji institucija gali reikalauti, kad dalyvis, siekdamas tinkamai įvykdyti koncesijos sutartį, įsteigtų tam tikrą teisinę formą turintį juridinį asmenį. Reikalavimai dėl tokio juridinio asmens įsteigimo ir jo teisinės formos turi būti nustatyti koncesijos dokumentuose. Jeigu suteikiančioji institucija reikalauja iš dalyvio, kurio pasiūlymas pripažintas geriausiu, įsteigti juridinį asmenį, koncesijos sutartis sudaroma su dalyviu ir su jo įsteigtu juridiniu asmeniu. Dalyvis ar ūkio subjektai, įsteigę juridinį asmenį, privalo laiduoti už įsteigto juridinio asmens prievoles, susijusias su koncesijos sutarties sąlygų įvykdymu. Tai turi būti nurodyta ir koncesijos dokumentuose.
+2. Suteikiančioji institucija gali reikalauti, kad dalyvis įsteigtų tam tikrą teisinę formą turintį juridinį asmenį, jeigu tai būtina sutarčiai tinkamai įvykdyti. Reikalavimai dėl tokio juridinio asmens įsteigimo ir jo teisinės formos turi būti nustatyti koncesijos dokumentuose. Jeigu suteikiančioji institucija reikalauja iš dalyvio, kurio pasiūlymas pripažintas geriausiu, įsteigti juridinį asmenį, koncesijos sutartis sudaroma su dalyviu ir su jo įsteigtu juridiniu asmeniu. Dalyvis ar ūkio subjektai, įsteigę juridinį asmenį, privalo laiduoti už įsteigto juridinio asmens prievoles, susijusias su koncesijos sutarties sąlygų įvykdymu. Tai turi būti nurodyta ir koncesijos dokumentuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -2975,7 +3361,10 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
 
 
 
-5. Sudarant koncesijos sutartį, joje negali būti keičiamos laimėjusio dalyvio derybų protokole ar po derybų pateiktame galutiniame pasiūlyme, jeigu toks buvo pateiktas pagal šio įstatymo 53 straipsnio 2 dalį, nustatytos koncesijos sąlygos bei pradinės koncesijos sąlygos, dėl kurių šalys nesiderėjo. 
+5. Sudarant koncesijos sutartį, joje negali būti keičiamos laimėjusio dalyvio po derybų pateiktame galutiniame pasiūlyme nustatytos koncesijos sąlygos ir pradinės koncesijos sąlygos, dėl kurių šalys nesiderėjo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3013,7 +3402,10 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
 
 
 
-7) šalių teisės į turtą, kuris bus sukuriamas, naudojamas, keičiamas, valdomas, prižiūrimas ar perduodamas arba kuriuo bus naudojamasi teikiant paslaugas ar atliekant darbus pagal koncesijos sutartį;
+7) šalių teisės į turtą, kuris bus sukuriamas, naudojamas, keičiamas, valdomas, prižiūrimas ar perduodamas arba kuriuo bus naudojamasi teikiant paslaugas ar atliekant darbus pagal koncesijos sutartį, ir dėl to atsirandančios pareigos;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3080,7 +3472,17 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
 
 
 
-7. Koncesijos sutartis turi būti sudaroma nedelsiant, bet ne anksčiau, negu pasibaigė atidėjimo terminas. 
+7. Koncesijos sutartis turi būti sudaroma nedelsiant, bet ne anksčiau, negu pasibaigė atidėjimo terminas, kuris negali būti trumpesnis kaip 10 dienų (supaprastintos koncesijos atveju – ne trumpesnis kaip 5 darbo dienos), o jeigu pranešimas apie sprendimą sudaryti koncesijos sutartį nebuvo siunčiamas elektroninėmis priemonėmis, terminas negali būti trumpesnis kaip 15 dienų. Atidėjimo terminas gali būti netaikomas, kai vienintelis suinteresuotas dalyvis yra tas, su kuriuo sudaroma koncesijos sutartis, ir nėra kitų suinteresuotų dalyvių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
+
+
+
+
+8. Suteikiančioji institucija laimėjusio dalyvio galutinį pasiūlymą, sudarytą koncesijos sutartį ir šios sutarties pakeitimus, išskyrus informaciją, kurios atskleidimas prieštarautų informacijos ir duomenų apsaugą reglamentuojantiems teisės aktams arba visuomenės interesams, pažeistų teisėtus konkretaus ekonominės veiklos vykdytojo komercinius interesus arba turėtų neigiamą poveikį ekonominės veiklos vykdytojų konkurencijai, ne vėliau kaip per 15 dienų nuo koncesijos sutarties sudarymo ar jos pakeitimo dienos Viešųjų pirkimų tarnybos nustatyta tvarka turi paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje.
+Papildyta straipsnio dalimi:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -3107,7 +3509,10 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
 62 straipsnis. Koncesijos sutarties keitimas jos galiojimo laikotarpiu 
 
 
-1. Draudžiami tokie koncesijos sutarties pakeitimai ar pasirinkimo galimybės, dėl kurių iš esmės pasikeistų koncesijos sutarties pobūdis. Jeigu koncesijos sutarties pakeitimas laikomas esminiu pagal šio straipsnio 2 dalį ar jis nepatenka tarp šio straipsnio 3, 4 ir 5 dalyse apibrėžtų atvejų, tokiam pakeitimui atlikti turi būti vykdoma nauja koncesijos suteikimo procedūra pagal šio įstatymo reikalavimus.
+1. Jeigu koncesijos sutarties pakeitimas laikomas esminiu pagal šio straipsnio 2 dalį ar jis nepatenka tarp šio straipsnio 3, 4 ir 5 dalyse apibrėžtų atvejų, tokiam pakeitimui atlikti turi būti vykdoma nauja koncesijos suteikimo procedūra pagal šio įstatymo reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3157,7 +3562,10 @@ INFORMAVIMAS APIE KONCESIJOS SUTEIKIMO PROCEDŪROS REZULTATUS, KONCESIJOS SUTART
 
 
 
-4. Koncesijos sutartis gali būti keičiama, kai pakeitimas, neatsižvelgiant į jo piniginę vertę, iš anksto buvo numatytas koncesijos dokumentuose, aiškiai, tiksliai ir nedviprasmiškai suformuluotose koncesijos sutarties peržiūros sąlygose ar pasirinkimo galimybėse. Jose turi būti nurodytos galimos pakeitimo ar pasirinkimo galimybių apimtis, pobūdis ir sąlygos, kurioms esant tai gali būti atliekama. Pakeitimas gali apimti vertės peržiūrą.
+4. Koncesijos sutartis gali būti keičiama, kai pakeitimas, neatsižvelgiant į jo piniginę vertę, iš anksto buvo numatytas koncesijos dokumentuose, aiškiai, tiksliai ir nedviprasmiškai suformuluotose koncesijos sutarties peržiūros sąlygose ar pasirinkimo galimybėse. Neleidžiami tokie pakeitimai ar pasirinkimo galimybės, dėl kurių iš esmės pasikeistų koncesijos sutarties pobūdis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3193,7 +3601,10 @@ b) pakeitimu iš esmės nepakeičiamas koncesijos sutarties pobūdis;
 
 
 
-c) kiekvieno atskiro pakeitimo vertė neviršija 50 procentų pradinės koncesijos, kurią suteikiančioji institucija, nurodyta šio įstatymo 15 straipsnio 1 dalies 1, 2 ir 3 punktuose, išskyrus vykdančią kurią nors iš šio įstatymo 2 priede nurodytų rūšių veiklą, suteikė kitų negu šio įstatymo 2 priede nurodytų rūšių veiklai, sutarties vertės. Jeigu koncesijos sutarties vertė buvo peržiūrėta pagal joje numatytas kainų peržiūros sąlygas, atsižvelgiama į patikslintą sutarties vertę. Atskiri pakeitimai negali būti vykdomi vien siekiant išvengti šio įstatymo taikymo. Ši nuostata taikoma koncesijoms, suteikiamoms kitai negu šio įstatymo 2 priede nurodytai veiklai vykdyti; 
+c) jeigu sutartis nėra skirta kuriai nors iš šio įstatymo 2 priede nurodytų rūšių veiklai, kiekvieno atskiro pakeitimo vertė neviršija 50 procentų pradinės koncesijos sutarties vertės. Jeigu koncesijos sutarties vertė buvo peržiūrėta pagal joje numatytas kainų peržiūros sąlygas, atsižvelgiama į patikslintą sutarties vertę. Atskiri pakeitimai negali būti vykdomi vien siekiant išvengti šio įstatymo taikymo;
+Papunkčio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3208,7 +3619,10 @@ a) įgyvendinant koncesijos dokumentuose iš anksto nedviprasmiškai suformuluot
 
 
 
-b) dėl pradinio koncesininko reorganizavimo ar nemokumo, kaip jis suprantamas pagal Įmonių bankroto įstatymą, naujas koncesininkas, atitinkantis anksčiau koncesijos dokumentuose nustatytus kvalifikacinius reikalavimus, visiškai arba iš dalies perima pradinio koncesininko teises ir pareigas. Toks koncesininko pakeitimas negali lemti kitų esminių sutarties pakeitimų ir taip negali būti siekiama išvengti šio įstatymo taikymo; 
+b) dėl pradinio koncesininko reorganizavimo ar nemokumo, kaip jis suprantamas pagal Lietuvos Respublikos juridinių asmenų nemokumo įstatymą, naujas koncesininkas, atitinkantis anksčiau koncesijos dokumentuose nustatytus kvalifikacijos reikalavimus, visiškai arba iš dalies perima pradinio koncesininko teises ir pareigas. Toks koncesininko pakeitimas negali lemti kitų esminių sutarties pakeitimų ir taip negali būti siekiama išvengti šio įstatymo taikymo;
+Papunkčio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3266,48 +3680,50 @@ TAR pastaba. Iki įstatymo Nr. XIII-440 įsigaliojimo (2018-01-01) pradėtos kon
 
 
 
-64 straipsnis. Informacijos apie dalyvius skelbimas, kai yra esminis sutarties pažeidimas
+64 straipsnis. Koncesijos sutarties neįvykdymas ar netinkamas įvykdymas
 
 
-1. Suteikiančioji institucija ne vėliau kaip per 10 dienų Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia informaciją apie koncesininkus, kai:
+1. Suteikiančioji institucija Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia šią informaciją apie koncesijos sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius koncesininkus (koncesininkų grupės atveju – visus grupės narius), taip pat apie ūkio subjektus, kurių pajėgumais rėmėsi koncesininkas ir kurie su koncesininku prisiėmė solidarią atsakomybę už koncesijos sutarties įvykdymą pagal šio įstatymo 46 straipsnio 2 dalį, jeigu pažeidimas įvykdytas dėl tos koncesijos sutarties dalies, kuriai jie buvo pasitelkti:
 
 
-1) sutartis nutraukta dėl esminio koncesijos sutarties pažeidimo; 
-
-
-
-
-2) priimtas teismo sprendimas, kuriuo tenkinamas suteikiančiosios institucijos reikalavimas atlyginti nuostolius, patirtus dėl to, kad koncesininkas sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais. 
+1) koncesininko pavadinimas (jeigu koncesininkas yra fizinis asmuo, – vardas ir pavardė), suteikiančiosios institucijos sprendimo nutraukti koncesijos sutartį dėl esminio koncesijos sutarties pažeidimo arba suteikiančiosios institucijos sprendimo, kad koncesininkas koncesijos sutartyje nustatytą esminę koncesijos sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to suteikiančioji institucija pritaikė koncesijos sutartyje nustatytą sankciją, priėmimo data; 
 
 
 
 
-
-
-2. Šio straipsnio 1 dalyje nurodytas terminas skaičiuojamas:
-
-
-1) jeigu dalyvis nesikreipė į teismą, ginčydamas koncesijos sutarties nutraukimą dėl esminio koncesijos sutarties pažeidimo, – per 30 dienų nuo pranešimo kitai sutarties šaliai apie koncesijos sutarties nutraukimą; 
+2) koncesininko kreipimosi į teismą, kuriuo ginčijamas suteikiančiosios institucijos sprendimas nutraukti koncesijos sutartį dėl esminio koncesijos sutarties pažeidimo ar sprendimas, kad koncesininkas koncesijos sutartyje nustatytą esminę koncesijos sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to suteikiančioji institucija pritaikė koncesijos sutartyje nustatytą sankciją, data;
 
 
 
 
-2) jeigu dalyvis kreipėsi į teismą, ginčydamas koncesijos sutarties nutraukimą dėl esminio koncesijos sutarties pažeidimo, – nuo teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti dalyvio reikalavimą, įsiteisėjimo dienos; 
+3) galutinio teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti koncesininko reikalavimą, kuriuo ginčijamas koncesijos sutarties nutraukimas dėl esminio koncesijos sutarties pažeidimo ar suteikiančiosios institucijos sprendimas, kad koncesininkas koncesijos sutartyje nustatytą esminę koncesijos sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to suteikiančioji institucija pritaikė koncesijos sutartyje nustatytą sankciją, įsiteisėjimo data ir nuoroda į šį sprendimą;
 
 
 
 
-3) nuo teismo sprendimo, kuriuo tenkinamas suteikiančiosios institucijos reikalavimas atlyginti nuostolius, patirtus dėl to, kad koncesininkas sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais, įsiteisėjimo dienos.
+4) teismo sprendimo, kuriuo tenkinamas suteikiančiosios institucijos reikalavimas atlyginti nuostolius, patirtus dėl to, kad koncesininkas sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais, įsiteisėjimo data.
 
 
 
 
 
 
-3. Suteikiančioji institucija, Centrinėje viešųjų pirkimų informacinėje sistemoje paskelbusi šio straipsnio 1 dalyje nurodytą informaciją, nedelsdama, tačiau ne vėliau kaip per 3 darbo dienas nuo informacijos paskelbimo Centrinėje viešųjų pirkimų informacinėje sistemoje dienos, apie tai informuoja dalyvį.
+2. Suteikiančioji institucija šio straipsnio 1 dalyje nurodytą informaciją paskelbia nedelsdama, bet ne anksčiau, negu koncesininkui pateikė informaciją pagal šio straipsnio 3 dalį, ir ne vėliau kaip per 10 dienų nuo šio straipsnio 1 dalies 1–4 punktuose nurodyto įvykio dienos. Jeigu šio straipsnio 1 dalies 2 punkte nurodytas koncesininko reikalavimas galutiniu teismo sprendimu yra patenkinamas, suteikiančioji institucija nedelsdama, ne vėliau kaip per 10 dienų nuo teismo sprendimo įsiteisėjimo dienos, pašalina šio straipsnio 1 dalyje nurodytą informaciją apie koncesininką.
+
+
+
+
+3. Suteikiančioji institucija nedelsdama, ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 1 dalies 1–4 punktuose nurodytų įvykių dienos, informuoja koncesininką apie tai, kad bus paskelbta šio straipsnio 1 dalyje nurodyta informacija. Koncesininkas turi teisę Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka pateikti šio straipsnio 1 dalies 1 punkte nurodytos informacijos paaiškinimą.
+
+
+
+
+4. Šiame straipsnyje nurodytos informacijos paskelbimo tikslas – informuoti perkančiąsias organizacijas, perkančiuosius subjektus ar suteikiančiąsias institucijas apie koncesijos sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius koncesininkus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -3332,7 +3748,10 @@ KONCESIJŲ VALDYMAS, PRIEŽIŪRA IR INFORMACIJOS TEIKIMAS
 
 
 
-3. Koncesijų priežiūrą atlieka Viešųjų pirkimų tarnyba ir kitos Vyriausybės įgaliotos institucijos bei įstaigos pagal kompetenciją, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti Viešojo administravimo įstatymo, pagal savo kompetenciją.
+3. Koncesijų priežiūrą atlieka Viešųjų pirkimų tarnyba ir kitos Vyriausybės įgaliotos institucijos bei įstaigos pagal kompetenciją, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti Viešojo administravimo įstatymo, pagal savo kompetenciją. Koncesijas prižiūrinčios institucijos turi teisę stebėti visas koncesijų suteikimo procedūras, prireikus filmuoti Komisijos posėdžius ir kitas koncesijų suteikimo procedūras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3363,6 +3782,21 @@ KONCESIJŲ VALDYMAS, PRIEŽIŪRA IR INFORMACIJOS TEIKIMAS
 
 
 9. Suteikiančioji institucija nereikalauja iš ekonominės veiklos vykdytojo pateikti dokumentų, patvirtinančių jo pašalinimo pagrindų nebuvimą ir atitiktį kvalifikacijos reikalavimams, jeigu ji turi galimybę susipažinti su šiais dokumentais ar informacija tiesiogiai ir neatlygintinai prisijungusi prie nacionalinės duomenų bazės bet kurioje valstybėje narėje arba naudodamasi Centrinės viešųjų pirkimų informacinės sistemos priemonėmis.
+
+
+
+
+10. Duomenis apie koncesijos sutarčių vykdymą iš informacinės sistemos „E. sąskaita“ į Centrinę viešųjų pirkimų informacinę sistemą teikia valstybės įmonė Registrų centras. Informaciją, kuri turi būti teikiama pagal šį reikalavimą, nustato Viešųjų pirkimų tarnyba.
+Papildyta straipsnio dalimi:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
+
+
+
+
+11. Informaciją apie subjektus, neatitinkančius minimalių patikimo mokesčių mokėtojo kriterijų, kaip tai nurodyta šio įstatymo 26 straipsnio 4 dalies 8 punkto b papunktyje, skelbia Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos, vadovaudamasi Mokesčių administravimo įstatymu.
+Papildyta straipsnio dalimi:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
@@ -3386,43 +3820,42 @@ KONCESIJŲ VALDYMAS, PRIEŽIŪRA IR INFORMACIJOS TEIKIMAS
 
 
 
-3) vertina koncesijos dokumentų atitiktį šio įstatymo nuostatoms iki jų paskelbimo;
+3) pagal savo kompetenciją nagrinėja administracinių nusižengimų bylas;
 
 
 
 
-4) pagal savo kompetenciją nagrinėja administracinių nusižengimų bylas;
+4) analizuoja ir vertina koncesijų suteikimą, pastebėjusi trūkumų, rengia valstybės institucijoms pasiūlymus dėl teisės aktų tobulinimo; 
 
 
 
 
-5) vertina koncesijos suteikimo procedūras iki koncesijos sutarties sudarymo;
+5) konsultuoja suteikiančiąsias institucijas ir ekonominės veiklos vykdytojus šio įstatymo taikymo klausimais, taip pat atrankos proceso teisėtumo bei šio įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų taikymo koncesininkų atrankos metu klausimais, rengia metodines rekomendacijas koncesininko atrankos dokumentų rengimo ir atrankos vykdymo klausimais;
 
 
 
 
-6) teikia nuomonę dėl koncesijos sutarties pakeitimų atitikties šio įstatymo reikalavimams;
+6) renka, kaupia ir analizuoja informaciją apie koncesijas, sudarytas koncesijos sutartis ir sutarčių vykdymo rezultatus, koncesijų ginčus, nustatytus koncesijų suteikimo tvarkos pažeidimus ir koncesijų praktikoje kylančias problemas. Šią informaciją, išskyrus konfidencialią, teikia Europos Komisijai ir skelbia Centrinėje viešųjų pirkimų informacinėje sistemoje;
 
 
 
 
-7) rengia valstybės institucijoms pasiūlymus dėl koncesijos suteikimo tobulinimo; 
+7) koordinuoja informacijos pagal kitų valstybių narių institucijų, suteikiančiųjų institucijų ar ekonominės veiklos vykdytojų paklausimus dėl šio įstatymo 26, 34, 35 ir 41 straipsnių nuostatų teikimą;
 
 
 
 
-8) konsultuoja suteikiančiąsias institucijas ir suinteresuotus dalyvius bei koncesininkus atrankos proceso teisėtumo, šio įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimų taikymo klausimais koncesininkų atrankos metu, rengia metodines rekomendacijas koncesininko atrankos dokumentų rengimo ir atrankos vykdymo klausimais;
-TAR pastaba. Lietuvos Respublikos koncesijų įstatymo 66 straipsnio 1 dalies 8 punkte nustatytą funkciją iki 2018 m. gruodžio 31 d. vykdo viešoji įstaiga Centrinė projektų valdymo agentūra, nuo 2019 m. sausio 1 d. – Viešųjų pirkimų tarnyba.
+8) administruoja suteikiančiųjų institucijų pagal šio įstatymo 64 straipsnio 1 dalį paskelbtą informaciją apie koncesijos sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius koncesininkus ir pagal šio įstatymo 461 straipsnio 1 dalį paskelbtą informaciją apie dalyvius, kurie koncesijos suteikimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 26 ir 41 straipsniuose nustatytiems reikalavimams, arba apie dalyvius, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 42–45 straipsnius;
 
 
 
 
-9) renka, kaupia ir analizuoja informaciją apie koncesijas, sudarytas koncesijos sutartis ir sutarčių vykdymo rezultatus, koncesijų ginčus, nustatytus koncesijų suteikimo tvarkos pažeidimus ir koncesijų praktikoje kylančias problemas. Šią informaciją, išskyrus konfidencialią, teikia Europos Komisijai ir skelbia Centrinėje viešųjų pirkimų informacinėje sistemoje;
+9) pagal savo kompetenciją vertina, kaip suteikiančiojoje institucijoje veikia koncesijos suteikimo vidaus kontrolė;
 
 
 
 
-10) koordinuoja informacijos pagal kitų valstybių narių institucijų, suteikiančiųjų institucijų ar ekonominės veiklos vykdytojų paklausimus dėl šio įstatymo 26, 34, 35 ir 41 straipsniu teikimą;
+10) tvirtina šio įstatymo įgyvendinimo priežiūros vykdymo tvarkos aprašą;
 
 
 
@@ -3447,14 +3880,17 @@ TAR pastaba. Lietuvos Respublikos koncesijų įstatymo 66 straipsnio 1 dalies 8
 
 
 
-15) tais atvejais, kai ekonominės veiklos vykdytojui suteikiama išimtinė teisė vykdyti vienos iš šio įstatymo 2 priede nurodytų rūšių veiklą, per vieną mėnesį po šios išimtinės teisės suteikimo apie tai informuoja Europos Komisiją;
+15) kai ekonominės veiklos vykdytojui suteikiama išimtinė teisė vykdyti vienos iš šio įstatymo 2 priede nurodytų rūšių veiklą, per vieną mėnesį po šios išimtinės teisės suteikimo apie tai informuoja Europos Komisiją;
 
 
 
 
-16) bendradarbiauja su Europos Komisija koncesijų teisės aktų taikymo klausimais, palaiko ryšius su atitinkamomis kitų valstybių narių institucijomis ir tarptautinėmis organizacijomis. 
+16) bendradarbiauja su Europos Komisija koncesijų teisės aktų taikymo klausimais, palaiko ryšius su atitinkamomis kitų valstybių narių institucijomis ir tarptautinėmis organizacijomis.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3543,19 +3979,17 @@ TAR pastaba. Lietuvos Respublikos koncesijų įstatymo 66 straipsnio 1 dalies 8
 1. Suteikiančioji institucija privalo Centrinės viešųjų pirkimų informacinės sistemos priemonėmis Viešųjų pirkimų tarnybai pateikti:
 
 
-1) kiekvienos koncesijos suteikimo procedūrų ataskaitą ne vėliau kaip per 5 darbo dienas po koncesijos suteikimo;
+1) kiekvienos koncesijos suteikimo procedūrų ataskaitą ne vėliau kaip per 5 darbo dienas po koncesijos suteikimo procedūros pabaigos;
 
 
 
 
-2) visų per kalendorinius metus suteiktų koncesijų pagal šį įstatymą ataskaitą per 30 dienų, pasibaigus ataskaitiniams kalendoriniams metams; 
+2) kiekvienos įvykdytos ar nutrauktos koncesijos sutarties ataskaitą ne vėliau kaip per 14 dienų, įvykdžius ar nutraukus koncesijos sutartį.
 
 
-
-
-3) kiekvienos įvykdytos ar nutrauktos koncesijos sutarties ataskaitą ne vėliau kaip per 14 dienų, įvykdžius ar nutraukus koncesijos sutartį.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3573,28 +4007,35 @@ TAR pastaba. Lietuvos Respublikos koncesijų įstatymo 66 straipsnio 1 dalies 8
 
 
 
-68 straipsnis. Koncesijų suteikimo eigą pagrindžiantys dokumentai ir informacija, jų saugojimas
+68 straipsnis. Suteikiančiosios institucijos atsakomybė ir koncesijos suteikimo procedūros bei koncesijos sutarties vykdymo vidaus kontrolė
 
 
-1. Suteikiančioji institucija turi dokumentais pagrįsti koncesijos suteikimo procedūros eigą, neatsižvelgdama į tai, ar koncesijos suteikimo procedūros vykdomos elektroninėmis priemonėmis. 
-
-
-
-
-2. Koncesijas prižiūrinčios institucijos turi teisę stebėti visas koncesijos suteikimo procedūras, prireikus filmuoti Komisijos posėdžius ir kitas koncesijos suteikimo procedūras.
+1. Už suteikiančiosios institucijos atliekamas koncesijos suteikimo procedūras ir koncesijos sutarties vykdymą atsako suteikiančiosios institucijos vadovas. 
 
 
 
 
-3. Planavimo ir pasirengimo koncesijai dokumentai, koncesijos dokumentai, paraiškos, pasiūlymai bei jų nagrinėjimo ir vertinimo dokumentai, Komisijos sprendimų priėmimo, derybų ir kiti protokolai, susirašinėjimo su ekonominės veiklos vykdytojais dokumentai, kiti su koncesija susiję dokumentai saugomi ne mažiau kaip 4 metus nuo koncesijos suteikimo, koncesijos sutartys, jų pakeitimai ir su jų vykdymu susiję dokumentai – ne mažiau kaip 4 metus nuo sutarties įvykdymo. 
+2. Komisijos nariai, ekspertai, stebėtojai, už sutarties vykdymą atsakingi asmenys ir kiti koncesijos suteikimo procese dalyvaujantys ar galintys daryti įtaką jo rezultatams asmenys atsako už savo veiką pagal Lietuvos Respublikos įstatymus.
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodyti dokumentai, neatsižvelgiant į jų pateikimo būdą, formą ir laikmeną, saugomi Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka.
+3. Koncesijos suteikimo procedūros ir koncesijos sutarties vykdymo vidaus kontrolės procese dalyvaujantys asmenys (struktūriniai padaliniai), jų funkcijos, atsakomybė ir atskaitomybė apibrėžiama suteikiančiosios institucijos patvirtintame koncesijos suteikimo procedūros organizavimo bei koncesijos sutarties vykdymo ir vidaus kontrolės tvarkos apraše. Suteikiančiosios institucijos kuriama ir įgyvendinama koncesijos suteikimo procedūros ir koncesijos sutarties vykdymo vidaus kontrolė turi padėti užtikrinti Vidaus kontrolės ir vidaus audito įstatyme nurodytų vidaus kontrolės tikslų pasiekimą per visą koncesijos suteikimo procedūrą – nuo pasirengimo koncesijos suteikimo procedūrai iki koncesijos sutarties įvykdymo.
+
+
+
+
+4. Suteikiančioji institucija turi dokumentais pagrįsti atliekamos koncesijos suteikimo procedūros eigą net ir tuo atveju, kai koncesija suteikiama elektroninėmis priemonėmis.
+
+
+
+
+5. Planavimo ir pasirengimo koncesijos suteikimo procedūrai dokumentai, koncesijos suteikimo procedūros dokumentai, paraiškos, pasiūlymai bei jų nagrinėjimo ir vertinimo dokumentai, Komisijos sprendimų priėmimo, derybų ar kiti protokolai, susirašinėjimo su dalyviais dokumentai, kiti su koncesijos suteikimu susiję dokumentai saugomi ne trumpiau kaip 4 metus nuo koncesijos suteikimo procedūros pabaigos, koncesijos sutartys, jų pakeitimai ir su jų vykdymu susiję dokumentai – ne trumpiau kaip 4 metus nuo koncesijos sutarties įvykdymo. Šioje dalyje nurodyti dokumentai saugomi Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -3698,18 +4139,10 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, KONCESIJOS SUTARTIES PRIPAŽINIMAS NE
  
 
 
-71 straipsnis. Suteikiančiosios institucijos vadovų ir kitų įgaliotų asmenų atsakomybė
-
-
-1. Už suteikiančiosios institucijos suteikiamas koncesijas atsako suteikiančiosios institucijos vadovas teisės aktų nustatyta tvarka.
-
-
-
-
-2. Komisijos nariai, ekspertai, stebėtojai, už sutarties vykdymą atsakingi asmenys ir kiti asmenys už savo veiką atsako teisės aktų nustatyta tvarka.
+71 straipsnis. Neteko galios nuo 2023-01-01.
+Straipsnio pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
-
-
 
 
 
@@ -3763,17 +4196,20 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, KONCESIJOS SUTARTIES PRIPAŽINIMAS NE
 73 straipsnis. Pretenzijos pateikimo suteikiančiajai institucijai ar įgaliotajai institucijai, prašymo pateikimo ar ieškinio pareiškimo teismui terminai
 
 
-1. Ekonominės veiklos vykdytojas turi teisę pateikti pretenziją suteikiančiajai institucijai ar įgaliotajai institucijai, pateikti prašymą ar pareikšti ieškinį teismui (išskyrus ieškinį dėl koncesijos sutarties pripažinimo negaliojančia ar ieškinį dėl koncesijos sutarties nutraukimo pripažinimo nepagrįstu):
+1. Ekonominės veiklos vykdytojas turi teisę pateikti pretenziją suteikiančiajai institucijai ar įgaliotajai institucijai, pateikti prašymą ar pareikšti ieškinį teismui (išskyrus ieškinį dėl koncesijos sutarties pripažinimo negaliojančia ar ieškinį dėl koncesijos sutarties nutraukimo pripažinimo nepagrįstu): 
 
 
-1) per 10 dienų nuo suteikiančiosios institucijos ar įgaliotosios institucijos pranešimo raštu apie jos priimtą sprendimą išsiuntimo ekonominės veiklos vykdytojui dienos, o jeigu šis pranešimas nebuvo siunčiamas elektroninėmis priemonėmis, – per 15 dienų nuo pranešimo išsiuntimo ekonominės veiklos vykdytojui dienos;
+1) per 10 dienų (suteikiant supaprastintą koncesiją – per 5 darbo dienas) nuo suteikiančiosios institucijos ar įgaliotosios institucijos pranešimo raštu apie jos priimtą sprendimą išsiuntimo ekonominės veiklos vykdytojui dienos, o jeigu šis pranešimas nebuvo siunčiamas elektroninėmis priemonėmis, – per 15 dienų nuo pranešimo išsiuntimo ekonominės veiklos vykdytojui dienos;
 
 
 
 
-2) per 10 dienų nuo paskelbimo apie suteikiančiosios institucijos ar įgaliotosios institucijos priimtą sprendimą dienos, jeigu šiame įstatyme nėra reikalavimo raštu informuoti ekonominės veiklos vykdytojus ar suinteresuotus dalyvius apie suteikiančiosios institucijos ar įgaliotosios institucijos priimtus sprendimus.
+2) per 10 dienų (suteikiant supaprastintą koncesiją – per 5 darbo dienas) nuo paskelbimo apie suteikiančiosios institucijos ar įgaliotosios institucijos priimtą sprendimą dienos, jeigu šiame įstatyme nėra reikalavimo raštu informuoti ekonominės veiklos vykdytojus ar suinteresuotus dalyvius apie suteikiančiosios institucijos ar įgaliotosios institucijos priimtus sprendimus.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+ 
 
 
 
@@ -3970,7 +4406,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
  
 Lietuvos Respublikos
 koncesijų įstatymo
@@ -4215,7 +4650,6 @@ LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 3 STRAIPSNIO 4 DALYJE NURODYTŲ VEIKLO
 
 
 
- 
  
 Lietuvos Respublikos
 koncesijų įstatymo
@@ -4327,7 +4761,6 @@ c) kitos negu pašto paslaugos – paslaugos, teikiamos šiose srityse: pašto p
 
 
 
- 
  
 Lietuvos Respublikos 
 koncesijų įstatymo
@@ -4365,7 +4798,6 @@ Procedūrų, kuriomis iš anksto užtikrinamas tinkamas skaidrumas, skirtų kit�
 
 
 
- 
  
 Lietuvos Respublikos 
 koncesijų įstatymo
@@ -4448,7 +4880,6 @@ LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 29 STRAIPSNIO 1 DALIES 2 PUNKTE NUROD
 
 
 
- 
  
 Lietuvos Respublikos 
 koncesijų įstatymo
@@ -4520,84 +4951,14 @@ LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 14 STRAIPSNIO 5 DALYJE NURODYTŲ TARPT
 
 
 
- 
- 
-Lietuvos Respublikos 
-koncesijų įstatymo
-6 priedas
- 
-SKELBIMO DĖL KONCESIJOS PAKEITIMO PAGAL LIETUVOS RESPUBLIKOS KONCESIJŲ ĮSTATYMO 30 STRAIPSNĮ TURINYS
+6 priedas. Neteko galios nuo 2023-01-01
+Priedo naikinimas:
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
  
 
 
-1. Suteikiančiosios institucijos ir, jeigu skiriasi, papildomos informacijos suteikti galinčios tarnybos pavadinimas, identifikacinis numeris (jeigu numatytas nacionalinės teisės aktų), adresas, įskaitant bendro teritorinių statistinių vienetų klasifikatoriaus (NUTS) kodą, telefono numeris, fakso numeris, el. pašto ir interneto adresas. 
 
 
-
-
-2. Bendrojo viešųjų pirkimų žodyno kodai. 
-
-
-
-
-3. Pagrindinės darbų vykdymo vietos NUTS kodas, jeigu tai yra darbų koncesija, arba pagrindinės paslaugų suteikimo vietos NUTS kodas, jeigu tai yra paslaugų koncesija. 
-
-
-
-
-4. Koncesijos aprašymas prieš pakeitimą ir po jo: darbų pobūdis ir apimtis, paslaugų pobūdis ir apimtis. 
-
-
-
-
-5. Kai taikoma, koncesijos vertės pakeitimas, įskaitant dėl pakeitimo padidėjusias kainas ar mokesčius. 
-
-
-
-
-6. Aplinkybių, dėl kurių buvo būtina daryti pakeitimus, aprašymas. 
-
-
-
-
-7. Sprendimo dėl koncesijos suteikimo data. 
-
-
-
-
-8. Kai taikoma, naujo ekonominės veiklos vykdytojo ar vykdytojų pavadinimas, adresas, įskaitant NUTS kodą, telefono numeris, fakso numeris, el. pašto adresas ir interneto adresas. 
-
-
-
-
-9. Informacija, ar koncesija susijusi su iš Europos Sąjungos lėšų finansuojamu projektu ir (ar) programa. 
-
-
-
-
-10. Įstaigos, atsakingos už peržiūros ir atitinkamais atvejais tarpininkavimo procedūras, pavadinimas ir adresas. Tiksli informacija, susijusi su peržiūros procedūrų terminu, arba prireikus tarnybos, iš kurios šią informaciją galima gauti, pavadinimas, adresas, telefono numeris, fakso numeris ir el. pašto adresas. 
-
-
-
-
-11. Ankstesnių publikacijų Europos Sąjungos oficialiajame leidinyje dėl šiame skelbime minimos (minimų) sutarties (sutarčių) data (datos) ir nuoroda (nuorodos). 
-
-
-
-
-12. Skelbimo išsiuntimo data. 
-
-
-
-
-13. Kita aktuali informacija.
-
-
-
-
-
-
- 
  
 Lietuvos Respublikos 
 koncesijų įstatymo
@@ -4686,3 +5047,8 @@ Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2160, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09413
 Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 3, 22 ir 23 straipsnių ir 7 priedo pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1676, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27267
+Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas
