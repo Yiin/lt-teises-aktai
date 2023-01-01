@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -984,11 +984,12 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 Apygardos teismai, kaip pirmosios instancijos teismai, nagrinėja civilines bylas:
 
 
-1) kuriose ieškinio suma didesnė kaip keturiasdešimt tūkstančių eurų, išskyrus šeimos ir darbo teisinių santykių bylas ir bylas dėl neturtinės žalos atlyginimo; 
-TAR pastaba. 1 punktas taikomas ieškiniams (pradiniams ar priešieškiniams), pareiškimams, skundams, atskiriesiems skundams, prašymams ir trečiųjų asmenų savarankiškiems reikalavimams, pareikštiems po 2017 m. liepos 1 d.
+1) kuriose ieškinio suma didesnė kaip šimtas tūkstančių eurų, išskyrus šeimos ir darbo teisinių santykių bylas ir bylas dėl neturtinės žalos atlyginimo; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+TAR pastaba. 1 punkto nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
  
 
 
@@ -1302,7 +1303,11 @@ Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
 35 straipsnis. Bylos priėmimo kitame teisme tvarka
 
 
-1. Kiekvieną bylą, iš vieno teismo perduotą nagrinėti kitam teismui šio Kodekso 34 straipsnyje numatytais atvejais ir tvarka, turi besąlygiškai priimti savo žinion tas teismas, kuriam ji perduota, ir jokie ginčai dėl to tarp teismų neleidžiami. Aukštesnės pakopos teismas, konstatavęs, kad byla, vadovaujantis šio Kodekso 34 straipsnio 2 dalies 4 punktu, jam perduota neteisėtai, nutartimi ją perduoda nagrinėti pagal teismingumą. Dėl šios nutarties gali būti duodamas atskirasis skundas.
+1. Kiekvieną bylą, iš vieno teismo perduotą nagrinėti kitam teismui šio Kodekso 34 straipsnyje numatytais atvejais ir tvarka, turi besąlygiškai priimti savo žinion tas teismas, kuriam ji perduota, ir jokie ginčai dėl to tarp teismų neleidžiami. 
+Straipsnio dalies pakeitimai:
+TAR pastaba. 1 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
 
 
 
@@ -2110,7 +2115,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-2. Lietuvos apeliacinio teismo pirmininkui konstatavus esminį darbo krūvio skirtumą apygardų teismuose, Lietuvos apeliacinio teismo pirmininko nutartimi atsitiktine tvarka atrinktos bylos, nagrinėtinos pirmosios instancijos ir (arba) apeliacinės instancijos tvarka, gali būti priskirtos nagrinėti kito apygardos teismo teisėjams. 
+2. Lietuvos apeliacinio teismo pirmininkui konstatavus esminį darbo krūvio skirtumą apylinkės teismuose, esančiuose skirtingų apygardos teismų veiklos teritorijose, apygardų teismuose, Lietuvos apeliacinio teismo pirmininko nutartimi atsitiktine tvarka atrinktos šiems teismams pagal kompetenciją priskirtos nagrinėti bylos gali būti priskirtos nagrinėti kito apygardos teismo veiklos teritorijoje veikiančio apylinkės teismo teisėjams arba kito apygardos teismo teisėjams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
 
 
 
@@ -2130,7 +2138,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-6. Šiame straipsnyje nustatytais pagrindais pirmiausiai nagrinėti kito teismo teisėjams priskiriamos bylos, kurios šio kodekso nustatytais atvejais gali būti nagrinėjamos rašytinio proceso tvarka, taip pat bylos, kurias nagrinėja vienas teisėjas. 
+6. Šiame straipsnyje nustatytais pagrindais pirmiausiai nagrinėti kito teismo teisėjams priskiriamos bylos, kurios šio kodekso nustatytais atvejais gali būti nagrinėjamos rašytinio proceso tvarka, taip pat bylos, kurias nagrinėja vienas teisėjas. Kitam apylinkės teismui nagrinėti gali būti priskiriamos bylos, nagrinėtinos pirmosios instancijos tvarka, o kitam apygardos teismui – pirmosios ir (arba) apeliacinės instancijos tvarka nagrinėtinos bylos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
 
 
 Papildyta straipsniu:
@@ -2723,7 +2734,11 @@ Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 
 
-7. Šiame straipsnyje nurodytus procesinius dokumentus ir jų priedus pateikiant teismui tik elektroninių ryšių priemonėmis, mokama 75 procentai už atitinkamą procesinį dokumentą mokėtinos žyminio mokesčio sumos, bet ne mažiau kaip penki eurai. 
+7. Šiame straipsnyje nurodytus procesinius dokumentus ir jų priedus pateikiant teismui tik elektroninių ryšių priemonėmis bei išreiškus pageidavimą procesinius dokumentus gauti tik šiomis priemonėmis, mokama 75 procentai už atitinkamą procesinį dokumentą mokėtinos žyminio mokesčio sumos, bet ne mažiau kaip penki eurai. 
+Straipsnio dalies pakeitimai:
+TAR pastaba. 7 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
 
 
 
@@ -2773,7 +2788,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-3. Vyriausybės įgaliota institucija teismų taikomus indeksus skelbia vieną kartą per ketvirtį teisės aktams oficialiai skelbti nustatyta tvarka.
+3. Vyriausybės įgaliota institucija teismų taikomus indeksus skelbia vieną kartą per ketvirtį Oficialiosios statistikos portale.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
 
 
 
@@ -2786,7 +2804,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-83 straipsnis. Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų  mokėjimo
+83 straipsnis. Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų  mokėjimo
 
 
 1. Bylose, kurias nagrinėja teismai, nuo žyminio mokesčio mokėjimo atleidžiami: 
@@ -3021,7 +3039,18 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-3. Jeigu šalis žyminio mokesčio neprimoka, ieškinys gali būti paliktas nenagrinėtas visas arba ta reikalavimų dalis, už kurią žyminis mokestis neprimokėtas.
+3. Jeigu šalis bylos nagrinėjimo metu atsisako procesinius dokumentus gauti tik elektroninių ryšių priemonėmis ir buvo taikyta šio Kodekso 80 straipsnio 7 dalyje nurodyta žyminio mokesčio lengvata, šalis primoka trūkstamą žyminio mokesčio dalį. 
+Papildyta straipsnio dalimi:
+TAR pastaba. 3 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
+
+
+
+
+4. Jeigu šalis žyminio mokesčio neprimoka, ieškinys gali būti paliktas nenagrinėtas visas arba ta reikalavimų dalis, už kurią žyminis mokestis neprimokėtas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
  
 
 
@@ -3911,12 +3940,26 @@ Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
 
 
 
-6) priedai, pridedami prie pateikiamo procesinio dokumento;
+6) dalyvaujančio byloje asmens nuomonė dėl bylos nagrinėjimo naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip); 
+Papildyta straipsnio punktu:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
 
 
 
 
-7) procesinį dokumentą paduodančio asmens parašas ir dokumento surašymo data.
+7) priedai, pridedami prie pateikiamo procesinio dokumento;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
+
+
+
+
+8) procesinį dokumentą paduodančio asmens parašas ir dokumento surašymo data.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
 
 
 
@@ -4043,7 +4086,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-5. Teismo nutartis pašalinti procesinio dokumento trūkumus yra įteikiama tik šį dokumentą pateikusiam asmeniui. Ši nutartis gali būti skundžiama atskiruoju skundu. Atskiruoju skundu taip pat gali būti skundžiama teismo nutartis, kuria procesinis dokumentas grąžintas dėl to, kad nepašalinti jo trūkumai.
+5. Teismo nutartis pašalinti procesinio dokumento trūkumus yra įteikiama tik šį dokumentą pateikusiam asmeniui. Ši nutartis atskiruoju skundu neskundžiama. Atskiruoju skundu gali būti skundžiama teismo nutartis, kuria procesinis dokumentas grąžintas dėl to, kad nepašalinti jo trūkumai.
+Straipsnio dalies pakeitimai:
+TAR pastaba. 5 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
 
 
 
@@ -4283,7 +4330,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-125 straipsnis. Procesinių dokumentų įteikimas sukarintoms organizacijoms ir laisvės atėmimo vietose laikomiems asmenims
+125 straipsnis. Procesinių dokumentų įteikimas sukarintoms organizacijoms ir laisvės atėmimo vietų įstaigoje laikomiems asmenims
 
 
 1. Procesiniai dokumentai sukarintoms organizacijoms šio Kodekso nustatyta tvarka įteikiami atitinkamos organizacijos ar jos padalinio vadui arba budėtojui.
@@ -4291,20 +4338,22 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-2. Laisvės atėmimo vietose laikomiems asmenims procesiniai dokumentai įteikiami per atitinkamos laisvės atėmimo vietos administraciją.
+2. Laisvės atėmimo vietų įstaigoje laikomiems asmenims procesiniai dokumentai įteikiami per laisvės atėmimo vietų įstaigos administraciją.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XIV-1202, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15564
  
 
 
 
 
-126 straipsnis. Atsakomybė už pareigų, susijusių su procesinių dokumentų įteikimu, nevykdymą
+126 straipsnis. Atsakomybė už pareigų, susijusių su procesinių dokumentų įteikimu, nevykdymą 
 
 
-Kai dalyvaujančio byloje asmens atstovas, kartu su fiziniu asmeniu gyvenantis pilnametis šeimos narys, įgaliotas asmuo su byla susijusiems procesiniams dokumentams gauti, juridinio asmens vadovas, kitas juridinių asmenų registre nurodytas valdymo organo narys, juridinio asmens atstovas teisme, juridinio asmens raštinės darbuotojas ar darbovietės administracija, sukarintos organizacijos ar jos padalinio vadas arba budėtojas, laisvės atėmimo vietos administracija be svarbių priežasčių atsisako priimti pagal šio Kodekso nuostatas įteikiamus procesinius dokumentus arba, priėmę procesinius dokumentus, pagal šio Kodekso reikalavimus nepraneša apie gautus procesinius dokumentus ar neperduoda jų adresatui, arba nevykdo kitų šiame Kodekse nustatytų pareigų, susijusių su procesinių dokumentų įteikimu, teismas turi teisę skirti jiems baudą iki trijų šimtų eurų. 
+Kai dalyvaujančio byloje asmens atstovas, kartu su fiziniu asmeniu gyvenantis pilnametis šeimos narys, įgaliotas asmuo su byla susijusiems procesiniams dokumentams gauti, juridinio asmens vadovas, kitas juridinių asmenų registre nurodytas valdymo organo narys, juridinio asmens atstovas teisme, juridinio asmens raštinės darbuotojas ar darbovietės administracija, sukarintos organizacijos ar jos padalinio vadas arba budėtojas, laisvės atėmimo vietų įstaigos administracija be svarbių priežasčių atsisako priimti pagal šio Kodekso nuostatas įteikiamus procesinius dokumentus arba, juos priėmę, pagal šio Kodekso reikalavimus nepraneša apie tai ar šių dokumentų neperduoda  adresatui, arba nevykdo kitų šiame Kodekse nustatytų pareigų, susijusių su procesinių dokumentų įteikimu, teismas turi teisę skirti jiems baudą iki trijų šimtų eurų.
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
@@ -4312,6 +4361,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 Straipsnio pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Nr. XIV-1202, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15564
  
 
 
@@ -4487,7 +4537,10 @@ Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
 
 
 
-3) teismo posėdžio ar atskiro procesinio veiksmo atlikimo vieta ir laikas;
+3) teismo posėdžio ar atskiro procesinio veiksmo atlikimo vieta ir laikas, o tuo atveju, kai posėdis organizuojamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), – prisijungimo prie posėdžio duomenys;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
 
 
 
@@ -5406,7 +5459,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 154 straipsnis. Teismo posėdžių skyrimas ir vieta
 
 
-1. Teismo posėdžių vietą, datą ir laiką skiria teismas. Apie tą dieną vykstančius teismo posėdžius skelbiama teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos paskirti teisėjas ar teisėjai nagrinėja bylą, skelbimų lentoje.
+1. Teismo posėdžių vietą, datą ir laiką skiria teismas. Siekiant užtikrinti teismo posėdžių viešumą, apie tą dieną vykstančius teismo posėdžius skelbiama teismo, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, į kuriuos paskirti teisėjas ar teisėjai nagrinėja bylą, skelbimų lentoje ir specialiame interneto tinklalapyje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
 
 
 
@@ -5693,7 +5749,10 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 
-4. Bylos nagrinėjimą atidėjus, byla nagrinėjama iš pradžių. Kai dalyvaujantys byloje asmenys neprieštarauja, bylos nagrinėjimas gali būti pradėtas nuo to procesinio veiksmo, kurį atlikus bylos nagrinėjimas buvo atidėtas.
+4. Bylos nagrinėjimą atidėjus, byla pradedama nagrinėti nuo to procesinio veiksmo, kurį atlikus jos nagrinėjimas buvo atidėtas. Dalyvaujančių byloje asmenų prašymu byla, kurios nagrinėjimas buvo atidėtas, gali būti nagrinėjama iš pradžių. 
+Straipsnio dalies pakeitimai:
+TAR pastaba. 4 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
  
 
 
@@ -6100,16 +6159,28 @@ Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29)
 1752 straipsnis. Vaizdo konferencijų, telekonferencijų naudojimas
 
 
-1. Proceso dalyvių dalyvavimas teismo posėdžiuose ir liudytojo apklausa jo buvimo vietoje gali būti užtikrinami naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip). Teisingumo ministro nustatyta tvarka naudojant šias technologijas, turi būti užtikrintas patikimas proceso dalyvių tapatybės nustatymas ir duomenų (įrodymų) objektyvus fiksavimas ir pateikimas.
+1. Bylų nagrinėjimas ir byloje dalyvaujančių asmenų bei kitų proceso dalyvių dalyvavimas teismo posėdžiuose gali būti užtikrinamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip) teisingumo ministro nustatyta tvarka, suderinta su Teisėjų taryba. Naudojant šias technologijas, turi būti užtikrintas patikimas byloje dalyvaujančių asmenų ir kitų proceso dalyvių tapatybės nustatymas, duomenų (įrodymų) objektyvus fiksavimas ir pateikimas, galimybė naudotis procesinėmis teisėmis ir bylos nagrinėjimo teisme viešumas, taip pat konfidencialus byloje dalyvaujančių asmenų bendravimas su advokatu (atstovu).
 
 
 
 
-2. Įrodymams rinkti gali būti naudojamos informacinės ir elektroninių ryšių technologijos (vaizdo konferencijos, telekonferencijos ir kita)
+2. Kai byla žodinio proceso tvarka nagrinėjama naudojant saugias informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), teisėjų kolegijos nariai teismo posėdyje gali dalyvauti iš skirtingų teismo (teismo rūmų) patalpų. 
 
 
-Skirsnis papildytas straipsniu:
+
+
+3. Bylą nagrinėjant naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), byloje dalyvaujantys asmenys ir kiti proceso dalyviai gali būti skirtingose teismo (teismo rūmų) ar ne teismo patalpose. 
+
+
+
+
+4. Įrodymams rinkti gali būti naudojamos informacinės ir elektroninių ryšių technologijos (vaizdo konferencijos, telekomunikacijos ir kita).
+
+
+Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
  
 
 
@@ -6386,10 +6457,11 @@ Antrasis skirsnis
 
 
 
-6. Prieš atliekant šalies ar trečiojo asmens apklausą, šalis ir trečiasis asmuo, turintys procesinį veiksnumą, taip pat jų atstovai pagal įstatymą prisiekia padėję ranką ant Lietuvos Respublikos Konstitucijos šiais žodžiais: „Aš, (vardas, pavardė), garbingai ir sąžiningai pasižadu sakyti byloje tiesą.“ Prisiekusi šalis ar trečiasis asmuo, taip pat jų atstovai pagal įstatymą pasirašo priesaikos tekstą, išskyrus atvejus, kai apklausa vyksta naudojant informacines ir elektroninių ryšių technologijas. Už priesaikos sulaužymą teismas šaliai ar trečiajam asmeniui, taip pat jų atstovams pagal įstatymą turi teisę skirti iki trijų šimtų eurų baudą. 
+6. Prieš atliekant šalies ar trečiojo asmens apklausą, šalis ir trečiasis asmuo, turintys procesinį veiksnumą, taip pat jų atstovai pagal įstatymą prisiekia šiais žodžiais: „Aš, (vardas, pavardė), garbingai ir sąžiningai pasižadu sakyti byloje tiesą.“ Prisiekusi šalis ar trečiasis asmuo, taip pat jų atstovai pagal įstatymą pasirašo priesaikos tekstą. Tais atvejais, kai teismo posėdis ar apklausa vyksta naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), priesaikos tekstas nepasirašomas. Už priesaikos sulaužymą teismas šaliai ar trečiajam asmeniui, taip pat jų atstovams pagal įstatymą turi teisę skirti iki trijų šimtų eurų baudą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
  
 
 
@@ -6542,10 +6614,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-4. Prieš duodamas parodymus, liudytojas žodžiu prisiekia padėjęs ranką ant Lietuvos Respublikos Konstitucijos šiais žodžiais: „Aš, (vardas, pavardė), garbingai ir sąžiningai pasižadu sakyti byloje tiesą, nieko nenuslėpdamas, nepridėdamas ir nepakeisdamas.“ Prisiekęs liudytojas pasirašo priesaikos tekstą, išskyrus atvejus, kai parodymai duodami naudojant informacines ir elektroninių ryšių technologijas. Liudytojo pasirašytas priesaikos tekstas pridedamas prie bylos. Liudytojo, kurio konfidencialumas užtikrintas Pranešėjų apsaugos įstatymo nustatyta tvarka, priesaikos tekstas laikomas voke ir saugomas atskirai nuo bylos medžiagos. 
+4. Prieš duodamas parodymus, liudytojas žodžiu prisiekia šiais žodžiais: „Aš, (vardas, pavardė), garbingai ir sąžiningai pasižadu sakyti byloje tiesą, nieko nenuslėpdamas, nepridėdamas ir nepakeisdamas.“ Prisiekęs liudytojas pasirašo priesaikos tekstą. Liudytojo pasirašytas priesaikos tekstas pridedamas prie bylos. Liudytojo, kurio konfidencialumas užtikrinamas Pranešėjų apsaugos įstatymo nustatyta tvarka, priesaikos tekstas laikomas voke ir saugomas atskirai nuo bylos medžiagos. Tais atvejais, kai teismo posėdis vyksta ar parodymai duodami naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), priesaikos tekstas nepasirašomas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 Nr. XIII-1846, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21876
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
  
 
 
@@ -7074,7 +7147,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 217 straipsnis. Eksperto apklausa 
 
 
-1. Eksperto išvada balsu perskaitoma teismo posėdyje. Prieš perskaitant eksperto išvadą, ekspertizę atlikęs teismo posėdyje dalyvaujantis ekspertas (ekspertai) prisiekia padėjęs (padėję) ranką ant Lietuvos Respublikos Konstitucijos šiais žodžiais: „Aš, (vardas, pavardė), garbingai prisiekiu, kad sąžiningai vykdysiu savo pareigą remiantis visomis turimomis žiniomis pateikti objektyvią ir pagrįstą išvadą byloje“. Jeigu ekspertizė atliekama ne teismo posėdžio metu, eksperto pasirašytas priesaikos tekstas yra ekspertizės akto sudedamoji dalis. Į Lietuvos Respublikos teismo ekspertų sąrašą įrašyti ekspertai, prisiekę įrašant juos į Lietuvos Respublikos teismo ekspertų sąrašą, neturi prisiekti teisme ir laikomi įspėtais dėl atsakomybės už melagingos išvados ir paaiškinimų davimą.
+1. Eksperto išvada balsu perskaitoma teismo posėdyje. Prieš perskaitant eksperto išvadą, ekspertizę atlikęs teismo posėdyje dalyvaujantis ekspertas (ekspertai) prisiekia šiais žodžiais: „Aš, (vardas, pavardė), garbingai prisiekiu, kad sąžiningai vykdysiu savo pareigą remiantis visomis turimomis žiniomis pateikti objektyvią ir pagrįstą išvadą byloje.“ Jeigu ekspertizė atliekama ne teismo posėdžio metu, eksperto pasirašytas priesaikos tekstas yra ekspertizės akto sudedamoji dalis. Į Lietuvos Respublikos teismo ekspertų sąrašą įrašyti ekspertai, prisiekę įrašant juos į Lietuvos Respublikos teismo ekspertų sąrašą, neturi prisiekti teisme ir laikomi įspėtais dėl atsakomybės už melagingos išvados ir paaiškinimų davimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
 
 
 
@@ -7799,7 +7875,10 @@ Paskirtu laiku posėdžio pirmininkas pradeda teismo posėdį ir paskelbia, kuri
 
 
 
-2. Prieš atlikdamas savo pareigas, vertėjas, padėjęs ranką ant Lietuvos Respublikos Konstitucijos, prisiekia šiais žodžiais: „Aš, (vardas, pavardė), pasižadu sąžiningai vykdyti vertėjo pareigas pasitelkdamas (pasitelkdama) visus savo sugebėjimus“. Prisiekęs vertėjas pasirašo priesaikos tekstą ir šis pridedamas prie bylos.
+2. Prieš atlikdamas savo pareigas, vertėjas prisiekia šiais žodžiais: „Aš, (vardas, pavardė), pasižadu sąžiningai vykdyti vertėjo pareigas pasitelkdamas (pasitelkdama) visus savo sugebėjimus.“ Prisiekęs vertėjas pasirašo priesaikos tekstą ir šis pridedamas prie bylos. Tais atvejais, kai teismo posėdis vyksta ar vertėjas jame dalyvauja naudodamasis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ir kitaip), vertėjas priesaikos teksto nepasirašo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+ 
 
 
 
@@ -8916,7 +8995,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-2. Jeigu šio straipsnio 1 dalyje nurodyti klausimai nebuvo išspręsti teismo sprendimu, jie išnagrinėjami teismo posėdyje, pranešus dalyvaujantiems byloje asmenims. Šių asmenų neatvykimas nekliudo išspręsti teismui iškeltą klausimą.
+2. Jeigu šio straipsnio 1 dalyje nurodyti klausimai nebuvo išspręsti teismo sprendimu, jie išnagrinėjami rašytinio proceso tvarka, pranešus apie tai dalyvaujantiems byloje asmenims, išskyrus atvejus, kai šiuos klausimus žodinio proceso tvarka prašo išspręsti bent vienas dalyvaujantis byloje asmuo arba teismas pripažįsta, kad juos būtina nagrinėti žodinio proceso tvarka. 
+Straipsnio dalies pakeitimai:
+TAR pastaba. 2 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
 
 
 
@@ -10899,7 +10982,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 350 straipsnis. Kasacinio skundo priėmimo tvarka
 
 
-1. Kasacinio skundo priėmimo klausimą sprendžia Lietuvos Aukščiausiojo Teismo pirmininko ar šio teismo Civilinių bylų skyriaus pirmininko iš trijų teisėjų sudaryta atrankos kolegija. Kasacinis skundas laikomas priimtu, jeigu už jį balsavo bent vienas iš atrankos kolegijos narių. Kasacinio skundo priėmimo klausimas išsprendžiamas priimant nutartį rašytinio proceso tvarka. Teisėjo dalyvavimas atrankos kolegijoje, sprendžiant joje tam tikro kasacinio skundo priėmimo klausimą, netrukdo jam nagrinėti bylą pagal tą kasacinį skundą kasacine tvarka. 
+1. Kasacinio skundo priėmimo klausimą sprendžia Lietuvos Aukščiausiojo Teismo pirmininko ar šio teismo Civilinių bylų skyriaus pirmininko nutartimi iš trijų teisėjų sudaryta atrankos kolegija. Kasacinis skundas laikomas priimtu, jeigu už jį balsavo bent vienas iš atrankos kolegijos narių. Kasacinio skundo priėmimo klausimas išsprendžiamas priimant nutartį rašytinio proceso tvarka. Teisėjo dalyvavimas atrankos kolegijoje, sprendžiant tam tikro kasacinio skundo priėmimo klausimą, netrukdo jam nagrinėti bylą pagal tą kasacinį skundą kasacine tvarka. 
+Straipsnio dalies pakeitimai:
+TAR pastaba. 1 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
 
 
 
@@ -10970,6 +11057,15 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 8. Išsprendus kasacinio skundo priėmimo klausimą, kasacinio skundo papildyti ar pakeisti negalima.
+
+
+
+
+9. Šio straipsnio 1 dalyje nurodyta nutartis dėl tam tikram veiklos laikotarpiui sudarytos atrankos kolegijos paskelbiama Lietuvos Aukščiausiojo Teismo interneto tinklalapyje likus ne mažiau kaip 6 darbo dienoms iki šios kolegijos veiklos pradžios. Nutartis, kuria atrankos kolegijos sudėtis pakeičiama tam tikram veiklos laikotarpiui, paskelbiama Lietuvos Aukščiausiojo Teismo interneto tinklalapyje tą pačią dieną, kurią buvo priimta. Apie šią nutartį ne vėliau kaip kitą darbo dieną po jos priėmimo pranešama dalyvaujantiems byloje asmenims, kurių paduoti procesiniai dokumentai nebuvo išnagrinėti iki atrankos kolegijos sudėties pakeitimo. Nutartis, kuria atrankos kolegijos sudėtis pakeista konkrečioje byloje, ne vėliau kaip kitą darbo dieną išsiunčiama dalyvaujantiems byloje asmenims.
+Papildyta straipsnio dalimi:
+TAR pastaba. 9 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
 
 
 Straipsnio pakeitimai:
@@ -17079,13 +17175,16 @@ Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
 
 
 
-515 straipsnis. Pareiškimo nagrinėjimas 
+515 straipsnis. Pareiškimo nagrinėjimas
 
 
-Pareiškimą dėl civilinės būklės akto įregistravimo, akto įrašo atkūrimo, papildymo, pakeitimo, ištaisymo ar anuliavimo teismas nagrinėja žodinio proceso tvarka.
+Pareiškimą dėl civilinės būklės akto įregistravimo, akto įrašo atkūrimo, papildymo, pakeitimo, ištaisymo ar anuliavimo teismas nagrinėja rašytinio proceso tvarka, išskyrus atvejus, kai šį klausimą žodinio proceso tvarka prašo išspręsti bent vienas dalyvaujantis byloje asmuo arba teismas pripažįsta, kad žodinis bylos nagrinėjimas būtinas. 
+
+
+Straipsnio pakeitimai:
+TAR pastaba. 515 straipsnio nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
  
-
-
 
 
 
@@ -18174,13 +18273,16 @@ termino atnaujinimo
 
 
 
-577 straipsnis. Bylų nagrinėjimo tvarka 
+577 straipsnis. Bylų nagrinėjimo tvarka
 
 
-Pareiškimas dėl praleisto įstatymų nustatyto termino atnaujinimo teisinę reikšmę turintiems veiksmams atlikti ne teisme yra nagrinėjamas žodinio proceso tvarka. 
+Pareiškimas dėl praleisto įstatymų nustatyto termino atnaujinimo teisinę reikšmę turintiems veiksmams atlikti ne teisme yra nagrinėjamas rašytinio proceso tvarka, išskyrus atvejus, kai šį klausimą žodinio proceso tvarka prašo išspręsti bent vienas dalyvaujantis byloje asmuo arba teismas pripažįsta, kad žodinis bylos nagrinėjimas būtinas. 
+
+
+Straipsnio pakeitimai:
+TAR pastaba. 577 straipsnio nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
  
-
-
 
 
 
@@ -18317,7 +18419,10 @@ Nr. XIII-2037, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06549
 
 
 
-7. Kai sprendžiamas klausimas, susijęs su vaiko teisėmis, leidimo išdavimo klausimą teismas turi spręsti atsižvelgdamas išimtinai į vaiko interesus. Kai sprendžiamas klausimas dėl leidimo perleisti nuosavybės teisę į šeimos turtą, šeimos turtą įkeisti ar kitaip suvaržyti teises į jį, teismas, atsižvelgdamas į aplinkybes, turi teisę reikalauti, kad pareiškėjas pateiktų įrodymus, patvirtinančius šeimos turtinę padėtį (pajamas, santaupas, kitą turtą, prievoles), duomenis apie perleidžiamą šeimos turtą, duomenis iš valstybinės vaiko teisių apsaugos institucijos apie vaiko tėvus, taip pat būsimo sandorio preliminarias sąlygas ir jo įvykdymo galimybes bei vaiko teisių apsaugos galimybes sandorio neįvykdymo atveju ir kitus įrodymus. 
+7. Kai sprendžiamas klausimas, susijęs su vaiko teisėmis, dėl leidimo išdavimo teismas turi spręsti atsižvelgdamas išimtinai į vaiko interesus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
+ 
 
 
 
@@ -19119,13 +19224,26 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-608 straipsnis. Praleisto termino vykdomajam dokumentui pateikti vykdyti atnaujinimas 
+608 straipsnis. Praleisto termino vykdomajam dokumentui pateikti vykdyti atnaujinimas
 
 
-Išieškotojui, kuris praleido terminą vykdomajam dokumentui pateikti vykdyti dėl priežasčių, teismo pripažintų svarbiomis, praleistas terminas teismo gali būti atnaujintas šio Kodekso 576–578 straipsniuose nustatyta tvarka, jeigu ko kita nenustato įstatymai. 
+1. Išieškotojui, kuris praleido terminą vykdomajam dokumentui pateikti vykdyti dėl priežasčių, antstolio pripažintų svarbiomis, praleistas terminas antstolio gali būti atnaujintas, jeigu ko kita nenustato įstatymai. Išieškotojas, pageidaujantis, kad būtų atnaujintas šis terminas, kartu su vykdomuoju dokumentu antstoliui pateikia prašymą atnaujinti praleistą terminą. Prie šio prašymo turi būti pridėti įrodymai, patvirtinantys aplinkybes, sudarančias pagrindą atnaujinti terminą.
+
+
+
+
+2. Praleisto termino vykdomajam dokumentui pateikti vykdyti atnaujinimo klausimą antstolis išsprendžia patvarkymu. Šis patvarkymas gali būti skundžiamas šio Kodekso 510 straipsnyje nustatyta tvarka.
+
+
+
+
+3. Jei antstolis nusprendžia tenkinti šio straipsnio 1 dalyje nurodytą prašymą, tuo pačiu patvarkymu išsprendžiamas ir vykdomojo dokumento priėmimo vykdyti klausimas. Jei antstolis atsisako prašymą atnaujinti praleistą terminą tenkinti, vykdomasis dokumentas grąžinamas išieškotojui.
+
+
+Straipsnio pakeitimai:
+TAR pastaba. 608 straipsnio nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
  
-
-
 
 
 
@@ -23095,9 +23213,11 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 
 
-9) laisvės atėmimo vietos įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės Lietuvos Respublikos bausmių vykdymo kodekso 92 straipsnio 2 dalyje nustatytų dydžių; 
+9) laisvės atėmimo vietų įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės Lietuvos Respublikos bausmių vykdymo kodekso 38 straipsnio 3 dalyje nustatytų dydžių;
 Papildyta straipsnio punktu:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
+Straipsnio punkto pakeitimai:
+Nr. XIV-1202, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15564
  
 
 
