@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2021-08-02 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -716,12 +716,9 @@ Nr. XIV-226, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07287
 
 
 
-26 straipsnis. Prašymo išduoti leidimą gyventi perdavimas
-
-
-Konsulinis pareigūnas arba įgaliotas darbuotojas priima asmens prašymą išduoti leidimą gyventi Lietuvos Respublikoje ir jį perduoda Migracijos departamentui. 
-
-
+26 straipsnis. Neteko galios nuo 2023-01-01
+Straipsnio naikinimas:
+Nr. XIV-1290, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15440
 Straipsnio pakeitimai:
 Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 Nr. XIII-2059, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06502
@@ -1229,5 +1226,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-226, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07287
 Lietuvos Respublikos konsulinio statuto 20 ir 25-1 straipsnių pakeitimo įstatymas
  
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1290, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15440
+Lietuvos Respublikos konsulinio statuto 23 straipsnio pakeitimo ir 26 straipsnio pripažinimo netekusiu galios įstatymas
  
-part_3b967d24e59f450da3ab0f90584982ce_end
+ 
+part_87dd203648d845569436e60092c9eecf_end
