@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
  
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-07-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -2683,7 +2683,10 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 191 straipsnis. Privalomųjų nurodymų skyrimo vidaus ir tarpvalstybinės nuotolinės prekybos tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais ir draudžiamos reklamos atvejais vykdymo tvarka
 
 
-1. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklama ar vykdoma vidaus ir tarpvalstybinė nuotolinė prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, turi teisę duoti privalomuosius nurodymus informacijos prieglobos paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklamai ar vykdomai vidaus ir tarpvalstybinei nuotolinei prekybai tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, arba panaikinti galimybę tokią informaciją pasiekti.
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklama ar vykdoma vidaus ir tarpvalstybinė nuotolinė prekyba tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, turi teisę duoti privalomuosius nurodymus informacijos prieglobos paslaugų teikėjui ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjo saugomą informaciją, naudojamą tabako gaminių ir (ar) su tabako gaminiais susijusių gaminių reklamai ar vykdomai vidaus ir tarpvalstybinei nuotolinei prekybai tabako gaminiais ir (ar) su tabako gaminiais susijusiais gaminiais, arba panaikinti galimybę pasiekti tokią informaciją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1617, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25041
+ 
 
 
 
@@ -3638,3 +3641,8 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-909, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01408
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 9-2 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1617, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25041
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 19-1 straipsnio pakeitimo įstatymas
