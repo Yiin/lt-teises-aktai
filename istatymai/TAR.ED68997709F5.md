@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-10-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -2107,17 +2107,17 @@ Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 3. Lengvatinis 9 procentų PVM tarifas taikomas:
 
 
-1) šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti; 
+1) šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti;
 
 
 
 
-2) knygoms ir neperiodiniams informaciniams leidiniams (įskaitant vadovėlius, pratybų sąsiuvinius, enciklopedijas, žodynus, žinynus, informacines brošiūras, nuotraukų ir reprodukcijų albumus, vaikiškas knygeles su paveikslėliais, piešimo ir spalvinimo knygeles, spausdintas ar rankraštines natas, žemėlapius, schemas ir brėžinius, tačiau išskyrus kalendorius, užrašų knygeles ir kitus panašaus pobūdžio spaudinius);
+2) spausdintoms ir elektroninėms knygoms bei spausdintiems ir elektroniniams neperiodiniams informaciniams leidiniams (įskaitant vadovėlius, pratybų sąsiuvinius, enciklopedijas, žodynus, žinynus, informacines brošiūras, nuotraukų ir reprodukcijų albumus, vaikiškas knygeles su paveikslėliais, piešimo ir spalvinimo knygeles, spausdintas ar rankraštines natas, žemėlapius, schemas ir brėžinius, tačiau išskyrus kalendorius, užrašų knygeles ir kitus panašaus pobūdžio spaudinius). Šio punkto nuostatos netaikomos leidiniams, kuriuose reklama sudaro daugiau kaip 4/5 viso leidinio arba kurių visą ar didžiąją dalį sudaro muzikos ar vaizdo turinys;
 
 
 
 
-3) iki 2022 m. gruodžio 31 d. turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms; 
+3) turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms;
 
 
 
@@ -2132,28 +2132,27 @@ Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 
 
 
-6) iki 2022 m. gruodžio 31 d. restoranų, kavinių ir panašių maitinimo įstaigų teikiamoms maitinimo paslaugoms ir išsinešti tiekiamam maistui, išskyrus alkoholinius gėrimus ir paslaugas ar paslaugų dalis, kurios susijusios su alkoholiniais gėrimais; 
-Papildyta straipsnio punktu:
-Nr. XIV-429, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14645
+6) iki 2023 m. gruodžio 31 d. restoranų, kavinių ir panašių maitinimo įstaigų teikiamoms maitinimo paslaugoms ir išsinešti tiekiamam maistui, išskyrus alkoholinius gėrimus ir paslaugas ar paslaugų dalis, kurios susijusios su alkoholiniais gėrimais; 
+
+
+
+
+7) visų rūšių meno ir kultūros įstaigų, meno ir kultūros renginių lankymui, kai netaikomos šio Įstatymo 23 straipsnio nuostatos;
+
+
+
+
+8) iki 2023 m. birželio 30 d. atlikėjų (aktoriaus, dainininko, muzikanto, dirigento, šokėjo ar kito asmens, vaidinančio, dainuojančio, skaitančio, deklamuojančio arba kitaip atliekančio literatūros, meno, folkloro kūrinius ar cirko numerius) teikiamoms atlikimo paslaugoms;
+
+
+
+
+9) iki 2023 m. birželio 30 d. sporto renginių, sporto klubų lankymui ir kitų asmenų, teikiančių panašias į sporto klubų teikiamas paslaugas, lankymui, kai netaikomos šio Įstatymo 23 straipsnio nuostatos.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1551, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24640
  
-
-
-
-
-7) iki 2022 m. gruodžio 31 d. visų rūšių meno ir kultūros įstaigų, meno ir kultūros renginių, sporto renginių, sporto klubų lankymui ir kitų asmenų, teikiančių panašias į sporto klubų teikiamas paslaugas, lankymui, kai netaikomos šio Įstatymo 23 straipsnio nuostatos; 
-Papildyta straipsnio punktu:
-Nr. XIV-429, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14645
- 
-
-
-
-
-8) iki 2022 m. gruodžio 31 d. atlikėjų (aktoriaus, dainininko, muzikanto, dirigento, šokėjo ar kito asmens, vaidinančio, dainuojančio, skaitančio, deklamuojančio arba kitaip atliekančio literatūros, meno, folkloro kūrinius ar cirko numerius) teikiamoms atlikimo paslaugoms.
-Papildyta straipsnio punktu:
-Nr. XIV-429, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14645
- 
-
-
 
 
 
@@ -2161,9 +2160,10 @@ Nr. XIV-429, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14645
 4. Lengvatinis 5 procentų PVM tarifas taikomas:
 
 
-1) vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams, išskyrus šio straipsnio 5 dalyje nustatytus atvejus; 
+1) vaistams, medicinos pagalbos priemonėms ir specialiosios medicininės paskirties maisto produktams, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams, išskyrus šio straipsnio 5 dalyje nustatytus atvejus;
 Straipsnio punkto pakeitimai:
 Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
+Nr. XIV-1551, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24640
  
 
 
@@ -4007,7 +4007,11 @@ Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
 
 
 
-3) pirkimo arba importo PVM už lengvąjį automobilį, skirtą vežti ne daugiau kaip 8 žmones (neskaičiuojant vairuotojo), arba nurodytos klasės automobilį, priskiriamą visureigių kategorijai, jeigu automobilis nebus tiekiamas arba išnuomojamas, taip pat juo nebus teikiamos keleivių vežimo už atlygį paslaugos. Tie patys apribojimai taikomi atskaitant pirkimo PVM už nurodytų kategorijų automobilių nuomą. Šie apribojimai netaikomi tik nurodytų kategorijų automobiliams, jeigu jie pagal teisės aktus, reglamentuojančius transporto priemonių klasifikavimą ir kodavimą, priskiriami specialios paskirties transporto priemonėms;
+3) pirkimo arba importo PVM už lengvąjį automobilį, skirtą vežti ne daugiau kaip 8 žmones (neskaičiuojant vairuotojo), arba nurodytos klasės automobilį, priskiriamą visureigių kategorijai, jeigu automobilis nebus tiekiamas arba išnuomojamas, taip pat juo nebus teikiamos keleivių vežimo už atlygį paslaugos. Tie patys apribojimai taikomi atskaitant pirkimo PVM už nurodytų kategorijų automobilių nuomą. Šie apribojimai netaikomi M1 klasės elektromobiliams, jeigu M1 klasės elektromobilio vertė neviršija 50 000 eurų (įskaitant PVM), ir nurodytų kategorijų automobiliams, jeigu jie pagal teisės aktus, reglamentuojančius transporto priemonių klasifikavimą ir kodavimą, priskiriami specialios paskirties transporto priemonėms;
+TAR pastaba. 62 straipsnio 2 dalies 3 punkto nuostatos taikomas prekėms ir paslaugoms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį ar importo pridėtinės vertės mokestį atsirado nuo 2023-01-01.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1484, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23023
+ 
 
 
 
@@ -4419,7 +4423,20 @@ Nr. XIII-3346, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23933
 
 
 
-7. Kai tas pats asmuo (vienas ar kartu su kitais asmenimis, kurie pagal šį Įstatymą laikomi su juo susijusiais) kontroliuoja keletą juridinių asmenų, visi jo kontroliuojami juridiniai asmenys ir jis pats (jeigu jis pats vykdo ekonominę veiklą) privalo pateikti prašymus įregistruoti juos PVM mokėtojais, jeigu bendra visų jų gauta ar gautina atlygio už vykdant ekonominę veiklą patiektas prekes ir (arba) suteiktas paslaugas suma per metus (paskutinius 12 mėnesių) viršijo šio straipsnio 2 dalyje nustatytą ribą, neatsižvelgiant į tai, kad kiekvieno tokio asmens ar dalies jų gauto ar gautino atlygio suma yra mažesnė už nustatytą ribą. 
+7. Kai tas pats asmuo (vienas ar kartu su kitais asmenimis, kurie pagal šį Įstatymą laikomi su juo susijusiais) kontroliuoja keletą juridinių asmenų, visi jo kontroliuojami juridiniai asmenys ir jis pats (jeigu jis pats vykdo ekonominę veiklą) privalo pateikti prašymus įregistruoti juos PVM mokėtojais, jeigu bendra visų jų gauta ar gautina atlygio už vykdant ekonominę veiklą patiektas prekes ir (arba) suteiktas paslaugas suma per metus (paskutinius 12 mėnesių) viršijo šio straipsnio 2 dalyje nustatytą ribą, neatsižvelgiant į tai, kad kiekvieno tokio asmens ar dalies jų gauto ar gautino atlygio suma yra mažesnė už nustatytą ribą. Šios dalies nuostatos netaikomos, jeigu šie asmenys gali įrodyti, kad:
+
+
+1) nė vienas jų valdymo organas ir (arba) atskiras valdymo organo narys nėra tas pats asmuo ir
+
+
+
+
+2) jų faktiškai vykdoma ekonominė veikla nėra to paties pobūdžio, ir jie neveikia vienas kito naudai ar interesais.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1629, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26093
+ 
 
 
 
@@ -7919,7 +7936,7 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Priedo pakeitimai:
 Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
  
-part_2eafcd7b28534f30b0f0503b3384610b_end
+part_504437a5cef94e88bbeb58dbefb6e8c8_end
 
 
  
@@ -8373,3 +8390,18 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 papildy
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1427, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19804
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 papildymo 125-3, 125-4 straipsniais ir 125-3, 125-4 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1484, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23023
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 62 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1551, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24640
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1629, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26093
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 71 straipsnio pakeitimo įstatymas
