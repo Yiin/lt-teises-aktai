@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6d2af7605d9711eca9ac839120d251c4"
 
 # Lietuvos Respublikos gėlo požeminio vandens gavybos gręžinių įteisinimo laikinasis įstatymas
 
-Suvestinė redakcija nuo 2022-12-09 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
  
 Įstatymas paskelbtas: TAR 2021-12-15, i. k. 2021-25848
  
@@ -61,9 +61,20 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-1613, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25038
  
 
-2. Asmuo, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre neregistruotas gręžinys arba kuris valdo ir (arba) naudoja tokį gręžinį, gavęs savivaldybės vykdomosios institucijos pritarimą naudoti gręžinį, turi kreiptis į fizinį ar juridinį asmenį ar šių asmenų grupę, veikiančią pagal jungtinės veiklos sutartį, turinčius leidimą tirti žemės gelmes, suteikiantį teisę atlikti požeminio vandens paiešką ir žvalgybą, kad būtų atlikti aplinkos ministro nustatytame tvarkos apraše nurodyti veiksmai, būtini gręžiniui registruoti Žemės gelmių registre, ir parengtas Lietuvos geologijos tarnybos prie Aplinkos ministerijos nustatytos formos gręžinio pasas. 
+2. Asmuo, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre neregistruotas gręžinys arba kuris valdo ir (arba) naudoja tokį gręžinį ir kuriam:
 
-3. Gręžinio pasas teikiamas Lietuvos geologijos tarnybai prie Aplinkos ministerijos ir gręžiniai registruojami Žemės gelmių registre Žemės gelmių registro nuostatuose ir kituose teisės aktuose nustatyta tvarka.
+1) reikia leidimo, gavęs savivaldybės vykdomosios institucijos pritarimą naudoti gręžinį, turi kreiptis į fizinį ar juridinį asmenį ar šių asmenų grupę, veikiančią pagal jungtinės veiklos sutartį, turinčius leidimą tirti žemės gelmes, suteikiantį teisę atlikti požeminio vandens paiešką ir žvalgybą, kad būtų atlikti aplinkos ministro nustatytame tvarkos apraše nurodyti veiksmai, būtini gręžiniui registruoti Žemės gelmių registre, ir parengtas Lietuvos geologijos tarnybos prie Aplinkos ministerijos nustatytos formos gręžinio pasas; 
+
+2) nereikia leidimo, gavęs savivaldybės vykdomosios institucijos pritarimą naudoti gręžinį, pateikia Lietuvos geologijos tarnybai prie Aplinkos ministerijos aplinkos ministro nustatytame tvarkos apraše nurodytus duomenis, būtinus gręžiniui registruoti Žemės gelmių registre.
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1613, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25038
+ 
+
+3. Gręžiniai registruojami Žemės gelmių registre Žemės gelmių registro nuostatuose ir kituose teisės aktuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1613, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25038
+ 
 
 4. Asmuo, kuriam nuosavybės ar patikėjimo teise priklauso Žemės gelmių registre neregistruotas gręžinys arba kuris valdo ir (arba) naudoja tokį gręžinį, šiame straipsnyje nustatyta tvarka per 12 mėnesių nuo šio straipsnio 1 dalyje nurodytos paraiškos pateikimo savivaldybės vykdomajai institucijai dienos turi įregistruoti Žemės gelmių registre nuosavybės ar patikėjimo teise jam priklausantį arba valdomą ir (arba) naudojamą Žemės gelmių registre neregistruotą gręžinį.
 
@@ -135,5 +146,5 @@ Nr. XIV-1613, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25038
 Lietuvos Respublikos gėlo požeminio vandens gavybos gręžinių įteisinimo laikinojo įstatymo Nr. XIV-730 3 straipsnio pakeitimo įstatymas
  
  
-part_5fe7b27870a1433cb81f9f24da85d334_end
+part_cc7a897e09b7401684bf3439864a7396_end
 
