@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/64896750c04e11ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2023-01-01 iki 2023-10-03
+ 
+Įstatymas paskelbtas: TAR 2020-07-07, i. k. 2020-15136
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO NR. VIII-1183 PAKEITIMO
 ĮSTATYMAS
@@ -21,9 +28,7 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO NR. VIII-1183 PAKEITIMO
 Vilnius
  
  
-
- 
-
+ 
  
 
 
@@ -1544,7 +1549,7 @@ mokesčio už aplinkos teršimą įstatymo
 „6 straipsnis. Mokesčio lengvatos
 
 
-1. Mokesčio mokėtojai, įgyvendinantys aplinkos apsaugos priemones, mažinančias teršalų išmetimą į aplinką iš stacionariųjų taršos šaltinių ne mažiau kaip 5 procentais skaičiuojant nuo nustatyto didžiausios leidžiamos taršos normatyvo, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiami nuo mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių už tuos teršalus, kurių kiekis sumažinamas 5 procentais, išskyrus atvejus, kai aplinkos apsaugos priemonei įgyvendinti naudojamos valstybės biudžeto lėšos, taip pat kai įgyvendinamos aplinkos apsaugos priemonės, skirtos biokurui naudoti. Atleidimas nuo mokesčio galioja ne ilgiau kaip 3 metus nuo aplinkos apsaugos priemonės įgyvendinimo pradžios.
+1. Mokesčio mokėtojai, įgyvendinantys aplinkos apsaugos priemones, mažinančias teršalų išmetimą į aplinką iš stacionariųjų taršos šaltinių ne mažiau kaip 5 procentais, skaičiuojant nuo faktinio, tačiau ne didesnio už nustatytą didžiausios leidžiamos taršos normatyvą, kiekio, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiami nuo mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių už tuos teršalus, kurių kiekis sumažinamas 5 procentais, išskyrus atvejus, kai aplinkos apsaugos priemonei įgyvendinti naudojamos valstybės biudžeto lėšos, taip pat kai įgyvendinamos aplinkos apsaugos priemonės, skirtos biokurui naudoti. Atleidimas nuo mokesčio galioja ne ilgiau kaip 3 metus nuo aplinkos apsaugos priemonės įgyvendinimo pradžios. Jeigu aplinkos apsaugos priemonė nustatytu laiku neįgyvendinama arba negaunamas planuotas efektas, mokestis už aplinkos teršimą iš stacionariųjų taršos šaltinių už visą laikotarpį, kurį buvo atleidžiama nuo mokesčio, sumokamas šio įstatymo nustatyta tvarka arba išieškomas Mokesčių administravimo įstatymo nustatyta tvarka.
 
 
 
@@ -1552,12 +1557,12 @@ mokesčio už aplinkos teršimą įstatymo
 2. Nuo mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių atleidžiami:
 
 
-1) mokesčio mokėtojai, teršiantys: iš M1 ir N1 kategorijos kelių transporto priemonių, varomų benzinu ir (ar) dujomis, kurios pirmą kartą registruotos ne anksčiau kaip prieš 4 metus, ir iš M2, M3, N2 ir N3 kategorijų transporto priemonių, kurios pirmą kartą registruotos ne anksčiau kaip prieš 3 metus. Transporto priemonės naudojimo laikotarpis skaičiuojamas nuo transporto priemonės pirmosios registracijos dienos iki mokestinio laikotarpio paskutinės dienos;
+1) mokesčio mokėtojai, teršiantys: iš M1 ir N1 kategorijos kelių transporto priemonių, varomų benzinu ir (ar) dujomis, kurios pirmą kartą registruotos ne anksčiau kaip prieš 4 metus, ir iš M2, M3, N2 ir N3 kategorijų transporto priemonių, kurios pirmą kartą registruotos ne anksčiau kaip prieš 3 metus. Transporto priemonės naudojimo laikotarpis skaičiuojamas nuo transporto priemonės pirmosios registracijos dienos iki mokestinio laikotarpio paskutinės dienos;
 
 
 
 
-2) mokesčio mokėtojai, teršiantys iš transporto priemonių, naudojančių Lietuvos techninės specifikacijos standartus atitinkančius biodegalus: biodyzeliną, atitinkantį standartą LST EN 14214, ir sintetinį dyzeliną, atitinkantį standartą LST EN 15940, bioetanolį E85, atitinkantį standartą LST EN 15293, – už sunaudotą biodegalų kiekį, kurio sunaudojimas patvirtintas biodegalų įsigijimo dokumentais.
+2) mokesčio mokėtojai, teršiantys iš transporto priemonių, naudojančių Lietuvos techninės specifikacijos standartus atitinkančius biodegalus: biodyzeliną, atitinkantį standartą LST EN 14214, ir sintetinį dyzeliną, atitinkantį standartą LST EN 15940, bioetanolį E85, atitinkantį standartą LST EN 15293, – už sunaudotą biodegalų kiekį, kurio sunaudojimas patvirtintas biodegalų įsigijimo dokumentais.
 
 
 
@@ -1584,7 +1589,7 @@ mokesčio už aplinkos teršimą įstatymo
 
 
 
-7. Nuo mokesčio už aplinkos teršimą vienkartinių pakuočių atliekomis atleidžiami mokesčio mokėtojai, per mokestinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos visų pripildytų vienkartinių pakuočių, kurioms netaikoma užstato už vienkartines pakuotes sistema, ir tvarkantys pakuočių ir pakuočių atliekų apskaitą Lietuvos Respublikos aplinkos ministro nustatyta tvarka.
+7. Nuo mokesčio už aplinkos teršimą vienkartinių pakuočių atliekomis atleidžiami mokesčio mokėtojai, per mokestinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos visų pripildytų vienkartinių pakuočių, kurioms netaikoma užstato už vienkartines pakuotes sistema, ir tvarkantys pakuočių ir pakuočių atliekų apskaitą aplinkos ministro nustatyta tvarka.
 
 
 
@@ -1616,6 +1621,9 @@ mokesčio už aplinkos teršimą įstatymo
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1709, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27558
+ 
 
 
 
@@ -1646,4 +1654,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_d1669e39b0bd49eb9de0252e971ce2f7_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1709, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27558
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymo Nr. XIII-3158 2 straipsnio pakeitimo įstatymas
