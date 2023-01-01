@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10fb2930715211e484b9c12b550436a3"
 
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-11-12
  
 Įstatymas paskelbtas: TAR 2014-11-21, i. k. 2014-17299
  
@@ -236,7 +236,9 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-9. Probacijos priemonė – nuteistajam paskirti vienas ar keli įpareigojimai ir (ar) draudimai, taikomi vietoj laisvės atėmimo bausmės ar kitos su laisvės atėmimu susijusios priemonės tais atvejais, kai nuteistasis lygtinai paleidžiamas iš laisvės atėmimo vietos arba kai visiškai ar iš dalies atidedamas paskirtos laisvės atėmimo bausmės ar kitos su laisvės atėmimu susijusios priemonės vykdymas, arba kai nuteistasis lygtinai atleidžiamas nuo laisvės atėmimo bausmės ar kitos su laisvės atėmimu susijusios priemonės prieš terminą. 
+9. Probacijos priemonė – nuteistajam paskirti vienas ar keli įpareigojimai ir (ar) draudimai, taikomi vietoj laisvės atėmimo bausmės ar kitos su laisvės atėmimu susijusios priemonės tais atvejais, kai nuteistasis lygtinai paleidžiamas iš laisvės atėmimo vietų įstaigos arba kai visiškai ar iš dalies atidedamas paskirtos laisvės atėmimo bausmės ar kitos su laisvės atėmimu susijusios priemonės vykdymas, arba kai nuteistasis lygtinai atleidžiamas nuo laisvės atėmimo bausmės ar kitos su laisvės atėmimu susijusios priemonės prieš terminą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
  
@@ -321,7 +323,9 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-14. Sprendimas dėl probacijos – teismo priimtas galutinis nuosprendis ar remiantis šiuo nuosprendžiu kompetentingos institucijos priimtas galutinis sprendimas, kuriuo nuteistasis lygtinai paleidžiamas iš laisvės atėmimo vietos ir (ar) kuriuo nuteistajam paskiriama viena arba kelios probacijos priemonės. 
+14. Sprendimas dėl probacijos – teismo priimtas galutinis nuosprendis ar remiantis šiuo nuosprendžiu kompetentingos institucijos priimtas galutinis sprendimas, kuriuo nuteistasis lygtinai paleidžiamas iš laisvės atėmimo vietų įstaigos ir (ar) kuriuo nuteistajam paskiriama viena arba kelios probacijos priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
  
@@ -335,7 +339,10 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
  
 
 
-1) laisvės atėmimo bausmė ar kita su laisvės atėmimu susijusi priemonė, tačiau nuteistasis buvo lygtinai paleistas iš laisvės atėmimo vietos remiantis šiuo sprendimu arba vėlesniu sprendimu dėl probacijos, paskiriant nuteistajam vieną ar kelias probacijos priemones; 
+1) laisvės atėmimo bausmė ar kita su laisvės atėmimu susijusi priemonė, tačiau nuteistasis buvo lygtinai paleistas iš laisvės atėmimo vietų įstaigos remiantis šiuo sprendimu arba vėlesniu sprendimu dėl probacijos, paskiriant nuteistajam vieną ar kelias probacijos priemones;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -431,9 +438,10 @@ SPRENDIMŲ DĖL LAISVĖS ATĖMIMO BAUSMĖS PRIPAŽINIMAS IR VYKDYMAS LIETUVOS RE
 
 
 
-3) Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas) sutinka, kad sprendimo dėl laisvės atėmimo bausmės vykdymas Lietuvos Respublikoje sudarytų palankesnes sąlygas nuteistojo socialinei reabilitacijai; 
+3) laisvės atėmimo vietų įstaiga sutinka, kad sprendimo dėl laisvės atėmimo bausmės vykdymas Lietuvos Respublikoje sudarytų palankesnes sąlygas nuteistojo socialinei reabilitacijai;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -464,7 +472,7 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-4 straipsnis. Institucijos, pripažįstančios kitoje Europos Sąjungos valstybėje narėje priimtą ir Lietuvos Respublikai perduotą vykdyti sprendimą dėl laisvės atėmimo bausmės 
+4 straipsnis. Institucijos, pripažįstančios kitoje Europos Sąjungos valstybėje narėje priimtą ir Lietuvos Respublikai perduotą vykdyti sprendimą dėl laisvės atėmimo bausmės
 
 
 1. Kitoje Europos Sąjungos valstybėje narėje priimtą ir Lietuvos Respublikai perduotą vykdyti sprendimą dėl laisvės atėmimo bausmės Lietuvos Respublikoje pripažįsta:
@@ -475,7 +483,7 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-2) jeigu nuteistasis atlieka bausmę Lietuvos Respublikos pataisos įstaigoje, – bausmės atlikimo vietos apylinkės teismas;
+2) jeigu nuteistasis atlieka bausmę Lietuvos Respublikos laisvės atėmimo vietų įstaigoje, – bausmės atlikimo vietos apylinkės teismas;
 
 
 
@@ -487,12 +495,12 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-2. Kitos Europos Sąjungos valstybės narės kompetentingos institucijos kreipimąsi pripažinti ir vykdyti Lietuvos Respublikoje sprendimą dėl laisvės atėmimo bausmės teismas gauna per Kalėjimų departamentą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+2. Kitos Europos Sąjungos valstybės narės kompetentingos institucijos kreipimąsi pripažinti ir vykdyti Lietuvos Respublikoje sprendimą dėl laisvės atėmimo bausmės teismas gauna per laisvės atėmimo vietų įstaigą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
-
-
 
 
 
@@ -505,9 +513,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-2. Nuteistojo ar jo šeimos nario arba jo gynėjo prašymu Kalėjimų departamentas gali kreiptis į kitos Europos Sąjungos valstybės narės kompetentingą instituciją ir siūlyti sprendimą dėl laisvės atėmimo bausmės perduoti vykdyti Lietuvos Respublikai, jeigu tai sudarytų palankesnes sąlygas nuteistojo socialinei reabilitacijai. 
+2. Nuteistojo ar jo šeimos nario arba jo gynėjo prašymu laisvės atėmimo vietų įstaiga gali kreiptis į kitos Europos Sąjungos valstybės narės kompetentingą instituciją ir siūlyti sprendimą dėl laisvės atėmimo bausmės perduoti vykdyti Lietuvos Respublikai, jeigu tai sudarytų palankesnes sąlygas nuteistojo socialinei reabilitacijai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -521,29 +530,30 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-6 straipsnis. Konsultacijos dėl sprendimo dėl laisvės atėmimo bausmės perdavimo vykdyti Lietuvos Respublikai 
+6 straipsnis. Konsultacijos dėl sprendimo dėl laisvės atėmimo bausmės perdavimo vykdyti Lietuvos Respublikai
 
 
-1. Jeigu kitos Europos Sąjungos valstybės narės kompetentinga institucija kreipiasi dėl konsultacijos siekdama nustatyti, ar sprendimo dėl laisvės atėmimo bausmės vykdymas Lietuvos Respublikoje sudarytų palankesnes sąlygas nuteistojo socialinei reabilitacijai, Kalėjimų departamentas patikrina, ar nuteistasis yra Lietuvos Respublikos pilietis, ar turi gyvenamąją vietą Lietuvos Respublikoje ir socialinių, šeimos, ekonominių ar kitų svarbių ryšių, siejančių jį su Lietuvos Respublika ir sudarančių palankesnes sąlygas nuteistojo socialinei reabilitacijai. Kalėjimų departamentas turi teisę kreiptis į kitas institucijas dėl reikalingos informacijos ar nuomonės pateikimo. Įvertinęs surinktą informaciją, Kalėjimų departamentas kitos Europos Sąjungos valstybės narės kompetentingai institucijai gali pateikti pagrįstą nuomonę, kad sprendimą dėl laisvės atėmimo bausmės vykdant Lietuvos Respublikoje palankesnės sąlygos nuteistojo socialinei reabilitacijai nebus sudarytos.
-
-
-
-
-2. Jeigu konsultacijų šio straipsnio 1 dalyje nustatyta tvarka nebuvo, Kalėjimų departamentas pagrįstą nuomonę kitos Europos Sąjungos valstybės narės kompetentingai institucijai gali pateikti ir savo iniciatyva ne vėliau kaip per penkias darbo dienas nuo dokumentų, nurodytų šio įstatymo 7 straipsnio 1 dalyje, gavimo dienos. Kai kita Europos Sąjungos valstybės narės kompetentinga institucija, apsvarsčiusi pagrįstą nuomonę, nusprendžia, kad nėra tikslinga atšaukti Lietuvos Respublikai perduotą vykdyti sprendimą dėl laisvės atėmimo bausmės, Kalėjimų departamentas gautus dokumentus, nurodytus šio įstatymo 7 straipsnio 1 dalyje, teismui persiunčia per tris darbo dienas nuo kitos Europos Sąjungos valstybės narės kompetentingos institucijos atsakymo gavimo dienos. 
+1. Jeigu kitos Europos Sąjungos valstybės narės kompetentinga institucija kreipiasi dėl konsultacijos siekdama nustatyti, ar sprendimo dėl laisvės atėmimo bausmės vykdymas Lietuvos Respublikoje sudarytų palankesnes sąlygas nuteistojo socialinei reabilitacijai, laisvės atėmimo vietų įstaiga patikrina, ar nuteistasis yra Lietuvos Respublikos pilietis, ar turi gyvenamąją vietą Lietuvos Respublikoje ir socialinių, šeimos, ekonominių ar kitų svarbių ryšių, siejančių jį su Lietuvos Respublika ir sudarančių palankesnes sąlygas nuteistojo socialinei reabilitacijai. Laisvės atėmimo vietų įstaiga turi teisę kreiptis į kitas institucijas dėl reikalingos informacijos ar nuomonės pateikimo. Įvertinusi surinktą informaciją, laisvės atėmimo vietų įstaiga kitos Europos Sąjungos valstybės narės kompetentingai institucijai gali pateikti pagrįstą nuomonę, kad sprendimą dėl laisvės atėmimo bausmės vykdant Lietuvos Respublikoje palankesnės sąlygos nuteistojo socialinei reabilitacijai nebus sudarytos.
 
 
 
 
-3. Šio įstatymo 3 straipsnio 2 dalyje numatytais atvejais konsultacijos su kitos Europos Sąjungos valstybės narės kompetentinga institucija yra privalomos. Atsižvelgdamas į konsultacijų rezultatus, Kalėjimų departamentas gali nesutikti, kad sprendimo dėl laisvės atėmimo bausmės vykdymas Lietuvos Respublikoje sudarys palankesnes sąlygas nuteistojo socialinei reabilitacijai, ir nedelsdamas apie tai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją, ir grąžina jai šio įstatymo 7 straipsnio 1 dalyje nurodytus dokumentus, jeigu jie buvo gauti. 
+2. Jeigu konsultacijų šio straipsnio 1 dalyje nustatyta tvarka nebuvo, laisvės atėmimo vietų įstaiga pagrįstą nuomonę kitos Europos Sąjungos valstybės narės kompetentingai institucijai gali pateikti ir savo iniciatyva ne vėliau kaip per penkias darbo dienas nuo dokumentų, nurodytų šio įstatymo 7 straipsnio 1 dalyje, gavimo dienos. Kai kitos Europos Sąjungos valstybės narės kompetentinga institucija, apsvarsčiusi pagrįstą nuomonę, nusprendžia, kad nėra tikslinga atšaukti Lietuvos Respublikai perduotą vykdyti sprendimą dėl laisvės atėmimo bausmės, laisvės atėmimo vietų įstaiga gautus dokumentus, nurodytus šio įstatymo 7 straipsnio 1 dalyje, teismui persiunčia per tris darbo dienas nuo kitos Europos Sąjungos valstybės narės kompetentingos institucijos atsakymo gavimo dienos. 
 
 
 
 
-4. Šiame straipsnyje nurodyti Kalėjimų departamento veiksmai yra neskundžiami. 
+3. Šio įstatymo 3 straipsnio 2 dalyje numatytais atvejais konsultacijos su kitos Europos Sąjungos valstybės narės kompetentinga institucija yra privalomos. Atsižvelgdama į konsultacijų rezultatus, laisvės atėmimo vietų įstaiga gali nesutikti, kad sprendimo dėl laisvės atėmimo bausmės vykdymas Lietuvos Respublikoje sudarys palankesnes sąlygas nuteistojo socialinei reabilitacijai, ir nedelsdama apie tai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją, ir grąžina jai šio įstatymo 7 straipsnio 1 dalyje nurodytus dokumentus, jeigu jie buvo gauti. 
+
+
+
+
+4. Šiame straipsnyje nurodyti laisvės atėmimo vietų įstaigos veiksmai yra neskundžiami.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -552,9 +562,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 7 straipsnis. Sprendimo dėl laisvės atėmimo bausmės pripažinimas
 
 
-1. Kalėjimų departamentas, gavęs kitos Europos Sąjungos valstybės narės sprendimą dėl laisvės atėmimo bausmės ir Pamatinio sprendimo 2008/909/TVR 4 straipsnyje nurodytą liudijimą, per penkias darbo dienas nuo visų dokumentų gavimo dienos persiunčia juos šio įstatymo 4 straipsnio 1 dalyje nurodytam atitinkamam teismui. Kalėjimų departamentas šio įstatymo 4 straipsnio 1 dalyje nurodytam teismui taip pat pateikia informaciją apie šio įstatymo 6 straipsnyje nustatyta tvarka vykusias konsultacijas, jeigu jų buvo, ir prideda susijusių dokumentų nuorašus. Jeigu nuteistasis yra Lietuvos Respublikoje, jam išsiunčiamas kitos Europos Sąjungos valstybės narės kompetentingos institucijos parengtas standartinis pranešimas, supažindinantis su jos sprendimu perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės Lietuvos Respublikai. Atlikęs šiuos veiksmus, Kalėjimų departamentas apie tai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją. Kitos Europos Sąjungos valstybės narės kompetentingai institucijai kartu pateikiama informacija apie lygtinį paleidimą iš pataisos įstaigų reglamentuojančias Lietuvos Respublikos įstatymų nuostatas, jeigu to buvo prašoma liudijime. 
+1. Laisvės atėmimo vietų įstaiga, gavusi kitos Europos Sąjungos valstybės narės sprendimą dėl laisvės atėmimo bausmės ir Pamatinio sprendimo 2008/909/TVR 4 straipsnyje nurodytą liudijimą, per penkias darbo dienas nuo visų dokumentų gavimo dienos persiunčia juos šio įstatymo 4 straipsnio 1 dalyje nurodytam atitinkamam teismui. Laisvės atėmimo vietų įstaiga šio įstatymo 4 straipsnio 1 dalyje nurodytam teismui taip pat pateikia informaciją apie šio įstatymo 6 straipsnyje nustatyta tvarka vykusias konsultacijas, jeigu jų buvo, ir prideda susijusių dokumentų nuorašus. Jeigu nuteistasis yra Lietuvos Respublikoje, jam išsiunčiamas kitos Europos Sąjungos valstybės narės kompetentingos institucijos parengtas standartinis pranešimas, supažindinantis su jos sprendimu perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės Lietuvos Respublikai. Atlikusi šiuos veiksmus, laisvės atėmimo vietų įstaiga apie tai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją. Kitos Europos Sąjungos valstybės narės kompetentingai institucijai kartu pateikiama informacija apie lygtinį paleidimą iš laisvės atėmimo vietų įstaigos reglamentuojančias Lietuvos Respublikos įstatymų nuostatas, jeigu to buvo prašoma liudijime.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -712,7 +723,12 @@ c) jam įteikus sprendimą ir aiškiai informavus apie teisę į bylos persvarst
 
 
 
-5. Jeigu nuteistajam skiriama terminuoto laisvės atėmimo bausmė, teismas, vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso 50 straipsnio 3 dalimi, parenka bausmės atlikimo vietą. 
+5. Jeigu nuteistajam skiriama terminuoto laisvės atėmimo bausmė, teismas, vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso 50 straipsnio 3 dalimi, parenka bausmės atlikimo vietą.
+5 dalies redakcija nuo 2023-01-01:
+5. Neteko galios 2023-01-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -764,9 +780,10 @@ c) jam įteikus sprendimą ir aiškiai informavus apie teisę į bylos persvarst
 
 
 
-2. Kalėjimų departamentas, gavęs kitos Europos Sąjungos valstybės narės kompetentingos institucijos prašymą skirti nuteistajam kardomąją priemonę ir informacijos, kad nuteistasis yra Lietuvos Respublikos teritorijoje ir yra būtina skubiai užtikrinti jo dalyvavimą procese, nedelsdamas persiunčia gautus dokumentus teritorinei prokuratūrai su prašymu spręsti kardomosios priemonės paskyrimo klausimą. 
+2. Laisvės atėmimo vietų įstaiga, gavusi kitos Europos Sąjungos valstybės narės kompetentingos institucijos prašymą skirti nuteistajam kardomąją priemonę ir informacijos, kad nuteistasis yra Lietuvos Respublikos teritorijoje ir yra būtina skubiai užtikrinti jo dalyvavimą procese, nedelsdama persiunčia gautus dokumentus teritorinei prokuratūrai su prašymu spręsti kardomosios priemonės paskyrimo klausimą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -800,7 +817,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-5. Iš kitos Europos Sąjungos valstybės narės Lietuvos Respublikos perimtas nuteistasis perkeliamas į tardymo izoliatorių, iki bus nustatyta konkreti jo bausmės atlikimo vieta. Jeigu asmuo perimtas priverčiamajai medicinos priemonei taikyti, jis perduodamas į sveikatos priežiūros įstaigą.
+5. Iš kitos Europos Sąjungos valstybės narės Lietuvos Respublikos perimtas nuteistasis pristatomas į laisvės atėmimo vietų įstaigą. Jeigu asmuo perimtas priverčiamajai medicinos priemonei taikyti, jis perduodamas į sveikatos priežiūros įstaigą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -858,7 +878,10 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-2) jeigu nuteistasis yra Lietuvos Respublikos teritorijoje, – laisvės atėmimo vietai, kurioje laikomas nuteistasis, arba policijos įstaigai, kurios veiklos teritorijoje yra nuteistojo gyvenamoji vieta. 
+2) jeigu nuteistasis yra Lietuvos Respublikos teritorijoje, – laisvės atėmimo vietų įstaigai arba policijos įstaigai, kurios veiklos teritorijoje yra nuteistojo gyvenamoji vieta. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -868,9 +891,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-2. Šio straipsnio 1 dalyje nurodytų dokumentų nuorašai taip pat išsiunčiami sprendimo dėl laisvės atėmimo bausmės pateikimą vykdyti kontroliuojančiam prokurorui ir Kalėjimų departamentui. Kalėjimų departamentas, kai priimamas sprendimas dėl to, kurioje bausmę vykdančioje institucijoje nuteistasis atliks bausmę, išsiunčia jai šio straipsnio 1 dalyje nurodytos nutarties ir gauto liudijimo kopiją. 
+2. Šio straipsnio 1 dalyje nurodytų dokumentų nuorašai taip pat išsiunčiami sprendimo dėl laisvės atėmimo bausmės pateikimą vykdyti kontroliuojančiam prokurorui ir laisvės atėmimo vietų įstaigai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -901,7 +925,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-8. Lygtinio paleidimo iš pataisos įstaigos klausimai sprendžiami vadovaujantis Lietuvos Respublikos įstatymais. 
+8. Lygtinio paleidimo iš laisvės atėmimo vietų įstaigos klausimai sprendžiami vadovaujantis Lietuvos Respublikos įstatymais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -996,7 +1023,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 2. Bausmę vykdanti institucija nedelsdama, bet ne vėliau kaip per penkias darbo dienas, informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją:
 
 
-1) jeigu nuteistasis pabėgo iš laisvės atėmimo vietos;
+1) jeigu nuteistasis pabėgo iš laisvės atėmimo vietų įstaigos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -1011,7 +1041,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-4) apie lygtinio paleidimo iš pataisos įstaigos laiko pradžią ir pabaigą, jeigu kitos Europos Sąjungos valstybės narės kompetentinga institucija to paprašo liudijime.
+4) apie lygtinio paleidimo iš laisvės atėmimo vietų įstaigos laiko pradžią ir pabaigą, jeigu kitos Europos Sąjungos valstybės narės kompetentinga institucija to paprašo liudijime.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -1039,9 +1072,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-3. Šio straipsnio 2 dalyje numatytu atveju sprendimą dėl laisvės atėmimo bausmės pripažįsta nuteistojo gyvenamosios vietos apylinkės teismas arba, kai gyvenamosios vietos neįmanoma nustatyti, Vilniaus miesto apylinkės teismas, gavęs Kalėjimų departamento persiųstą kitos Europos Sąjungos valstybės narės priimtą sprendimą dėl laisvės atėmimo bausmės ir liudijimą. Teismas, priimdamas nutartį, nesprendžia, ar yra atsisakymo pripažinti sprendimą dėl laisvės atėmimo bausmės šio įstatymo 8 straipsnyje numatyti pagrindai. 
+3. Šio straipsnio 2 dalyje numatytu atveju sprendimą dėl laisvės atėmimo bausmės pripažįsta nuteistojo gyvenamosios vietos apylinkės teismas arba, kai gyvenamosios vietos neįmanoma nustatyti, Vilniaus miesto apylinkės teismas, gavęs laisvės atėmimo vietų įstaigos persiųstą kitos Europos Sąjungos valstybės narės priimtą sprendimą dėl laisvės atėmimo bausmės ir liudijimą. Teismas, priimdamas nutartį, nesprendžia, ar yra atsisakymo pripažinti sprendimą dėl laisvės atėmimo bausmės šio įstatymo 8 straipsnyje numatyti pagrindai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -1171,6 +1205,11 @@ Dėl Lietuvos Respublikos teismo sprendimo dėl laisvės atėmimo bausmės perda
 
 
 3. Šio įstatymo 18 straipsnio 5 dalyje numatytais atvejais šio straipsnio 1 dalyje nurodytą teikimą pateikia Kalėjimų departamentas. 
+3 dalies redakcija nuo 2023-01-01:
+3. Neteko galios 2023-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 Straipsnio pakeitimai:
@@ -1180,30 +1219,30 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-21 straipsnis. Konsultacijos dėl sprendimo dėl laisvės atėmimo bausmės perdavimo vykdyti kitai Europos Sąjungos valstybei narei 
+21 straipsnis. Konsultacijos dėl sprendimo dėl laisvės atėmimo bausmės perdavimo vykdyti kitai Europos Sąjungos valstybei narei
 
 
-1. Konsultacijas su kitos Europos Sąjungos valstybės narės kompetentinga institucija šio straipsnio 2 ir 3 dalyse nurodytais atvejais vykdo Kalėjimų departamentas. Konsultacijos nevykdomos, jeigu sprendimas dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei perduodamas remiantis šios valstybės kompetentingos institucijos prašymu. 
-
-
-
-
-2. Šio įstatymo 18 straipsnio 3 dalies 2 punkte ir 6 dalyje nurodytais atvejais, kai sprendimas dėl laisvės atėmimo bausmės gali būti perduodamas vykdyti kitai Europos Sąjungos valstybei narei tik gavus jos kompetentingos institucijos sutikimą, bausmę vykdanti institucija, prieš šio įstatymo 20 straipsnio 1 dalyje nustatyta tvarka pateikdama teismui teikimą, kreipiasi į Kalėjimų departamentą dėl konsultacijų su kitos Europos Sąjungos valstybės narės kompetentinga institucija vykdymo. 
+1. Konsultacijas su kitos Europos Sąjungos valstybės narės kompetentinga institucija šio straipsnio 2 ir 3 dalyse nurodytais atvejais vykdo laisvės atėmimo vietų įstaiga. Konsultacijos nevykdomos, jeigu sprendimas dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei perduodamas remiantis šios valstybės kompetentingos institucijos prašymu. 
 
 
 
 
-3. Jeigu teismui nagrinėjant šio įstatymo 20 straipsnio 1 dalyje nurodytą teikimą kyla abejonių, ar sprendimo dėl laisvės atėmimo bausmės vykdymo perdavimas kitai Europos Sąjungos valstybei narei sudarys palankesnes sąlygas nuteistojo socialinei reabilitacijai, teismas gali kreiptis į Kalėjimų departamentą dėl konsultacijų su kitos Europos Sąjungos valstybės narės kompetentinga institucija vykdymo. 
+2. Šio įstatymo 18 straipsnio 3 dalies 2 punkte ir 6 dalyje nurodytais atvejais, kai sprendimas dėl laisvės atėmimo bausmės gali būti perduodamas vykdyti kitai Europos Sąjungos valstybei narei tik gavus jos kompetentingos institucijos sutikimą, bausmę vykdanti institucija, prieš šio įstatymo 20 straipsnio 1 dalyje nustatyta tvarka pateikdama teismui teikimą, konsultuojasi su kitos Europos Sąjungos valstybės narės kompetentinga institucija. 
 
 
 
 
-4. Kartu su kreipimusi Kalėjimų departamentui pateikiami šio įstatymo 20 straipsnyje nurodyti dokumentai.
+3. Jeigu teismui nagrinėjant šio įstatymo 20 straipsnio 1 dalyje nurodytą teikimą kyla abejonių, ar sprendimo dėl laisvės atėmimo bausmės vykdymo perdavimas kitai Europos Sąjungos valstybei narei sudarys palankesnes sąlygas nuteistojo socialinei reabilitacijai, teismas gali kreiptis į laisvės atėmimo vietų įstaigą dėl konsultacijų su kitos Europos Sąjungos valstybės narės kompetentinga institucija vykdymo. 
 
 
 
 
-5. Kalėjimų departamentas, konsultuodamasis su kitos Europos Sąjungos valstybės narės kompetentinga institucija, jai pateikia informaciją, pagrindžiančią, kad šioje valstybėje būtų sudarytos palankesnės sąlygos užtikrinti nuteistojo socialinę reabilitaciją. Gavęs kitos Europos Sąjungos valstybės narės kompetentingos institucijos atsakymą, Kalėjimų departamentas informaciją apie konsultacijų rezultatus perduoda bausmę vykdančiai institucijai ar teismui. 
+4. Kartu su kreipimusi laisvės atėmimo vietų įstaigai pateikiami šio įstatymo 20 straipsnyje nurodyti dokumentai.
+
+
+
+
+5. Laisvės atėmimo vietų įstaiga, konsultuodamasi su kitos Europos Sąjungos valstybės narės kompetentinga institucija, jai pateikia informaciją, pagrindžiančią, kad šioje valstybėje būtų sudarytos palankesnės sąlygos užtikrinti nuteistojo socialinę reabilitaciją. Gavusi kitos Europos Sąjungos valstybės narės kompetentingos institucijos atsakymą, laisvės atėmimo vietų įstaiga informaciją apie konsultacijų rezultatus perduoda teismui, jei konsultacijos buvo vykdomos pagal teismo kreipimąsi. 
 
 
 
@@ -1213,11 +1252,12 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-7. Kai konsultacijos šiame straipsnyje nustatyta tvarka nebuvo vykdomos, o kitos Europos Sąjungos valstybės narės kompetentinga institucija pagrįstą nuomonę, kad nėra tikslinga jai perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės, pateikia po to, kai jai buvo perduoti šio įstatymo 23 straipsnio 1 dalyje nurodyti dokumentai, teismas įvertina pagrįstą nuomonę ir gali nuspręsti priimti nutartį atšaukti nutartį perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės šiai valstybei. Pagrįsta nuomonė išnagrinėjama ir apie priimtą sprendimą kitos Europos Sąjungos valstybės narės kompetentinga institucija informuojama ne vėliau kaip per dešimt darbo dienų nuo pagrįstos nuomonės gavimo teisme dienos. 
+7. Kai konsultacijos šiame straipsnyje nustatyta tvarka nebuvo vykdomos, o kitos Europos Sąjungos valstybės narės kompetentinga institucija pagrįstą nuomonę, kad nėra tikslinga jai perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės, pateikia po to, kai jai buvo perduoti šio įstatymo 23 straipsnio 1 dalyje nurodyti dokumentai, teismas įvertina pagrįstą nuomonę ir gali nuspręsti priimti nutartį atšaukti nutartį perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės šiai valstybei. Pagrįsta nuomonė išnagrinėjama ir apie priimtą sprendimą kitos Europos Sąjungos valstybės narės kompetentinga institucija informuojama ne vėliau kaip per dešimt darbo dienų nuo pagrįstos nuomonės gavimo teisme dienos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -1242,7 +1282,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 3. Teismas, išnagrinėjęs klausimą, pasitarimų kambaryje priima vieną iš šių nutarčių:
 
 
-1) perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei. Teismas gali nustatyti sąlygą, kad sprendimas dėl laisvės atėmimo bausmės galės būti vykdomas kitoje Europos Sąjungos valstybėje narėje tik po to, kai teismas šio įstatymo 23 straipsnio 7 dalyje nustatyta tvarka gaus ir įvertins informaciją apie kitos Europos Sąjungos valstybės narės teisės aktus, reglamentuojančius ankstyvą paleidimą iš laisvės atėmimo vietos;
+1) perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei. Teismas gali nustatyti sąlygą, kad sprendimas dėl laisvės atėmimo bausmės galės būti vykdomas kitoje Europos Sąjungos valstybėje narėje tik po to, kai teismas šio įstatymo 23 straipsnio 7 dalyje nustatyta tvarka gaus ir įvertins informaciją apie kitos Europos Sąjungos valstybės narės teisės aktus, reglamentuojančius ankstyvą paleidimą iš laisvės atėmimo vietų įstaigos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -1259,9 +1302,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-5. Šio straipsnio 3 dalyje nurodytas nutartis nuteistasis ar jo gynėjas, bausmę vykdanti institucija, Kalėjimų departamentas šio įstatymo 20 straipsnio 3 dalyje nurodytais atvejais ir prokuroras gali skųsti Lietuvos Respublikos baudžiamojo proceso kodekso 364 straipsnyje nustatyta tvarka. Jeigu sprendimu dėl laisvės atėmimo bausmės buvo paskirta priverčiamoji medicinos priemonė, šio straipsnio 3 dalyje nurodytos teismo nutartys skundžiamos pagal Lietuvos Respublikos baudžiamojo proceso kodekso 405 straipsnio 6 dalies nuostatas. 
+5. Šio straipsnio 3 dalyje nurodytas nutartis nuteistasis ar jo gynėjas, bausmę vykdanti institucija ir prokuroras gali skųsti Lietuvos Respublikos baudžiamojo proceso kodekso 364 straipsnyje nustatyta tvarka. Jeigu sprendimu dėl laisvės atėmimo bausmės buvo paskirta priverčiamoji medicinos priemonė, šio straipsnio 3 dalyje nurodytos teismo nutartys skundžiamos pagal Lietuvos Respublikos baudžiamojo proceso kodekso 405 straipsnio 6 dalies nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -1305,7 +1349,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-7. Jeigu sprendimas dėl laisvės atėmimo bausmės perduodamas vykdyti kitai Europos Sąjungos valstybei narei su šio įstatymo 22 straipsnio 3 dalies 1 punkte nurodyta sąlyga, teismas liudijime nurodo, kad reikalauja pateikti informaciją apie šios valstybės teisės aktus, reglamentuojančius ankstyvą paleidimą iš laisvės atėmimo vietos. Gavęs informaciją, teismas nedelsdamas įvertina, ar šių įstatymų taikymas nekliudys įgyvendinti bausmės paskirtį. Prireikus teismas rengia teismo posėdį. Nusprendęs, kad sprendimą dėl laisvės atėmimo bausmės vykdančios kitos Europos Sąjungos valstybės narės įstatymų, reglamentuojančių ankstyvą paleidimą iš laisvės atėmimo vietos, taikymas gali kliudyti įgyvendinti bausmės paskirtį, teismas priima nutartį atšaukti nutartį perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei. Ši nutartis gali būti skundžiama šio įstatymo 22 straipsnio 5 dalyje nustatyta tvarka. Įsiteisėjus nutarčiai atšaukti nutartį perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei, apie tai nedelsiant, bet ne vėliau kaip kitą darbo dieną, informuojama kitos Europos Sąjungos valstybės narės kompetentinga institucija. 
+7. Jeigu sprendimas dėl laisvės atėmimo bausmės perduodamas vykdyti kitai Europos Sąjungos valstybei narei su šio įstatymo 22 straipsnio 3 dalies 1 punkte nurodyta sąlyga, teismas liudijime nurodo, kad reikalauja pateikti informaciją apie šios valstybės teisės aktus, reglamentuojančius ankstyvą paleidimą iš laisvės atėmimo vietų įstaigos. Gavęs informaciją, teismas nedelsdamas įvertina, ar šių įstatymų taikymas nekliudys įgyvendinti bausmės paskirtį. Prireikus teismas rengia teismo posėdį. Nusprendęs, kad sprendimą dėl laisvės atėmimo bausmės vykdančios kitos Europos Sąjungos valstybės narės įstatymų, reglamentuojančių ankstyvą paleidimą iš laisvės atėmimo vietų įstaigos, taikymas gali kliudyti įgyvendinti bausmės paskirtį, teismas priima nutartį atšaukti nutartį perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei. Ši nutartis gali būti skundžiama šio įstatymo 22 straipsnio 5 dalyje nustatyta tvarka. Įsiteisėjus nutarčiai atšaukti nutartį perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei, apie tai nedelsiant, bet ne vėliau kaip kitą darbo dieną, informuojama kitos Europos Sąjungos valstybės narės kompetentinga institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -1326,9 +1373,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 24 straipsnis. Nuteistojo perdavimas ir sprendimo dėl laisvės atėmimo bausmės perdavimo vykdyti kitai Europos Sąjungos valstybei narei teisinės pasekmės 
 
 
-1. Teismas, gavęs kitos Europos Sąjungos valstybės narės kompetentingos institucijos pranešimą, kad yra priimtas sprendimas pripažinti ir vykdyti sprendimą dėl laisvės atėmimo bausmės, apie gautą pranešimą informuoja nuteistąjį, bausmę vykdančią instituciją, Kalėjimų departamentą, taip pat šio įstatymo 12 straipsnio 2 dalyje nurodytas institucijas, jeigu nuteistasis yra Lietuvos Respublikos teritorijoje. Šio įstatymo 23 straipsnio 7 dalyje nurodytais atvejais pirmiau įvertinama gauta informacija apie sprendimą dėl laisvės atėmimo bausmės vykdančios Europos Sąjungos valstybės narės teisės aktus, reglamentuojančius ankstyvą paleidimą iš laisvės atėmimo vietos. 
+1. Teismas, gavęs kitos Europos Sąjungos valstybės narės kompetentingos institucijos pranešimą, kad yra priimtas sprendimas pripažinti ir vykdyti sprendimą dėl laisvės atėmimo bausmės, apie gautą pranešimą informuoja nuteistąjį, bausmę vykdančią instituciją, taip pat šio įstatymo 12 straipsnio 2 dalyje nurodytas institucijas, jeigu nuteistasis yra Lietuvos Respublikos teritorijoje. Šio įstatymo 23 straipsnio 7 dalyje nurodytais atvejais pirmiau įvertinama gauta informacija apie sprendimą dėl laisvės atėmimo bausmės vykdančios Europos Sąjungos valstybės narės teisės aktus, reglamentuojančius ankstyvą paleidimą iš laisvės atėmimo vietų įstaigos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -1367,17 +1415,19 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-8. Jeigu vykdant sprendimą dėl laisvės atėmimo bausmės kitoje Europos Sąjungos valstybėje narėje paaiškėja, kad nuteistasis yra Lietuvos Respublikos teismo nuosprendžiu išteisinamas, jam pakeičiama bausmė, nuteistasis yra atleidžiamas nuo baudžiamosios atsakomybės ar bausmės arba dėl kitų priežasčių sprendimas dėl laisvės atėmimo bausmės tampa nevykdytinas, bausmę vykdanti institucija arba Kalėjimų departamentas šio įstatymo 20 straipsnio 3 dalyje nurodytais atvejais nedelsdami apie tai informuoja sprendimą dėl laisvės atėmimo bausmės vykdančios Europos Sąjungos valstybės narės kompetentingą instituciją. 
+8. Jeigu vykdant sprendimą dėl laisvės atėmimo bausmės kitoje Europos Sąjungos valstybėje narėje paaiškėja, kad nuteistasis yra Lietuvos Respublikos teismo nuosprendžiu išteisinamas, jam pakeičiama bausmė, nuteistasis yra atleidžiamas nuo baudžiamosios atsakomybės ar bausmės arba dėl kitų priežasčių sprendimas dėl laisvės atėmimo bausmės tampa nevykdytinas, bausmę vykdanti institucija nedelsdama apie tai informuoja sprendimą dėl laisvės atėmimo bausmės vykdančios Europos Sąjungos valstybės narės kompetentingą instituciją. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
 
 
-9. Jeigu sprendimą dėl laisvės atėmimo bausmės vykdančios Europos Sąjungos valstybės narės kompetentinga institucija informuoja, kad nuteistasis pabėgo iš laisvės atėmimo vietos ar kitaip nerandamas jos teritorijoje ir dėl to ji negali vykdyti sprendimo dėl laisvės atėmimo bausmės, bausmę vykdanti institucija arba Kalėjimų departamentas šio įstatymo 20 straipsnio 3 dalyje nurodytais atvejais nedelsdami kreipiasi į nutartį perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei priėmusį teismą su teikimu sustabdyti šios nutarties galiojimą. Lietuvos Respublikos kompetentingos institucijos atgauna sprendimo dėl laisvės atėmimo bausmės vykdymo teises nuo Lietuvos Respublikos teismo nutarties sustabdyti nutarties perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei galiojimą priėmimo dienos. Jeigu kitos Europos Sąjungos valstybės narės kompetentinga institucija vėliau informuoja, kad nuteistasis buvo rastas tos valstybės teritorijoje ir ji gali toliau vykdyti sprendimą dėl laisvės atėmimo bausmės, bausmę vykdanti institucija arba Kalėjimų departamentas šio įstatymo 20 straipsnio 3 dalyje numatytais atvejais nedelsdami, bet ne vėliau kaip per tris darbo dienas, kreipiasi į teismą su teikimu atšaukti nutarties perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei galiojimo sustabdymą. Jeigu teismas sutinka tęsti sprendimo dėl laisvės atėmimo bausmės vykdymą kitoje Europos Sąjungos valstybėje narėje ir atšaukia nutarties perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei galiojimo sustabdymą, apie tai nedelsiant, bet ne vėliau kaip kitą darbo dieną, informuojama kitos Europos Sąjungos valstybės narės kompetentinga institucija. 
+9. Jeigu sprendimą dėl laisvės atėmimo bausmės vykdančios Europos Sąjungos valstybės narės kompetentinga institucija informuoja, kad nuteistasis pabėgo iš laisvės atėmimo vietų įstaigos ar kitaip nerandamas jos teritorijoje ir dėl to ji negali vykdyti sprendimo dėl laisvės atėmimo bausmės, bausmę vykdanti institucija nedelsdama kreipiasi į nutartį perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei priėmusį teismą su teikimu sustabdyti šios nutarties galiojimą. Lietuvos Respublikos kompetentingos institucijos atgauna sprendimo dėl laisvės atėmimo bausmės vykdymo teises nuo Lietuvos Respublikos teismo nutarties sustabdyti nutarties perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei galiojimą priėmimo dienos. Jeigu kitos Europos Sąjungos valstybės narės kompetentinga institucija vėliau informuoja, kad nuteistasis buvo rastas tos valstybės teritorijoje ir ji gali toliau vykdyti sprendimą dėl laisvės atėmimo bausmės, bausmę vykdanti institucija nedelsdama, bet ne vėliau kaip per tris darbo dienas, kreipiasi į teismą su teikimu atšaukti nutarties perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei galiojimo sustabdymą. Jeigu teismas sutinka tęsti sprendimo dėl laisvės atėmimo bausmės vykdymą kitoje Europos Sąjungos valstybėje narėje ir atšaukia nutarties perduoti vykdyti sprendimą dėl laisvės atėmimo bausmės kitai Europos Sąjungos valstybei narei galiojimo sustabdymą, apie tai nedelsiant, bet ne vėliau kaip kitą darbo dieną, informuojama kitos Europos Sąjungos valstybės narės kompetentinga institucija.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
@@ -1719,7 +1769,10 @@ c) jam įteikus sprendimą ir aiškiai informavus apie teisę į bylos persvarst
 
 
 
-3) nutartį pakeisti lygtinio paleidimo iš pataisos įstaigos sąlygas arba dėl lygtinio paleidimo iš pataisos įstaigos panaikinimo ir nuteistojo pasiuntimo atlikti likusią laisvės atėmimo bausmės dalį;
+3) nutartį pakeisti lygtinio paleidimo iš laisvės atėmimo vietų įstaigos sąlygas arba dėl lygtinio paleidimo iš laisvės atėmimo vietų įstaigos panaikinimo ir nuteistojo pasiuntimo atlikti likusios laisvės atėmimo bausmės dalies;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -1869,7 +1922,10 @@ LIETUVOS RESPUBLIKOS TEISMŲ SPRENDIMŲ DĖL SU LAISVĖS ATĖMIMU NESUSIJUSIOS B
 
 
 
-4) nutartys, kuriomis nuteistasis lygtinai paleidžiamas iš pataisos įstaigos. 
+4) nutartys, kuriomis nuteistasis lygtinai paleidžiamas iš laisvės atėmimo vietų įstaigos.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -2020,15 +2076,19 @@ LIETUVOS RESPUBLIKOS TEISMŲ SPRENDIMŲ DĖL SU LAISVĖS ATĖMIMU NESUSIJUSIOS B
 
 
 
-3. Jeigu kita Europos Sąjungos valstybė narė Europos Sąjungos Tarybos generaliniam sekretoriatui yra pateikusi Pamatinio sprendimo 2008/947/TVR 14 straipsnio 3 dalyje nurodytą pareiškimą, probacijos tarnyba ir teismas ex officio išlaiko įgaliojimus, susijusius su bausmės vykdymo atidėjimo ar lygtinio paleidimo iš pataisos įstaigos panaikinimu ir nuteistojo pasiuntimu atlikti likusią laisvės atėmimo bausmės dalį, ta apimtimi ir tais atvejais, dėl kurių kita Europos Sąjungos valstybė narė šiuo pareiškimu atsisakė tokių įgaliojimų. 
+3. Jeigu kita Europos Sąjungos valstybė narė Europos Sąjungos Tarybos generaliniam sekretoriatui yra pateikusi Pamatinio sprendimo 2008/947/TVR 14 straipsnio 3 dalyje nurodytą pareiškimą, probacijos tarnyba ir teismas ex officio išlaiko įgaliojimus, susijusius su bausmės vykdymo atidėjimo ar lygtinio paleidimo iš laisvės atėmimo vietų įstaigos panaikinimu ir nuteistojo pasiuntimu atlikti likusios laisvės atėmimo bausmės dalies ta apimtimi ir tais atvejais, dėl kurių kita Europos Sąjungos valstybė narė šiuo pareiškimu atsisakė tokių įgaliojimų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
 
 
-4. Jeigu kitos Europos Sąjungos valstybės narės kompetentinga institucija informuoja teismą, kad nustatė vieną ar kelis pagrindus, dėl kurių ji galėtų atsisakyti pripažinti ir vykdyti sprendimą dėl su laisvės atėmimu nesusijusios bausmės ar sprendimą dėl probacijos, tačiau galėtų sutikti perimti alternatyviosios bausmės ar probacijos priemonės priežiūrą, išskyrus įgaliojimus, susijusius su alternatyviosios bausmės ar probacijos priemonės pakeitimu, bausmės vykdymo atidėjimo ar lygtinio paleidimo iš pataisos įstaigos panaikinimu ir nuteistojo pasiuntimu atlikti likusią laisvės atėmimo bausmės dalį, sprendimą dėl su laisvės atėmimu nesusijusios bausmės ar sprendimą dėl probacijos kitai Europos Sąjungos valstybei narei perdavęs vykdyti teismas gali duoti sutikimą šios valstybės narės kompetentingai institucijai dėl alternatyviosios bausmės ar probacijos priemonės priežiūros perdavimo šiai valstybei narei tokiomis sąlygomis. Tokiu atveju probacijos tarnyba ir teismas ex officio išlaiko įgaliojimus, susijusius su alternatyviosios bausmės ar probacijos priemonės pakeitimu, bausmės vykdymo atidėjimo ar lygtinio paleidimo iš pataisos įstaigos panaikinimu ir nuteistojo pasiuntimu atlikti likusią laisvės atėmimo bausmės dalį, ta apimtimi, kiek kita Europos Sąjungos valstybė narė atsisakė šių įgaliojimų. Teismas apie alternatyviosios bausmės ar probacijos priemonės perdavimo vykdyti kitai Europos Sąjungos valstybei narei sąlygas nedelsdamas informuoja nuteistąjį, jeigu jis yra Lietuvos Respublikoje, ir probacijos tarnybą. 
+4. Jeigu kitos Europos Sąjungos valstybės narės kompetentinga institucija informuoja teismą, kad nustatė vieną ar kelis pagrindus, dėl kurių ji galėtų atsisakyti pripažinti ir vykdyti sprendimą dėl su laisvės atėmimu nesusijusios bausmės ar sprendimą dėl probacijos, tačiau galėtų sutikti perimti alternatyviosios bausmės ar probacijos priemonės priežiūrą, išskyrus įgaliojimus, susijusius su alternatyviosios bausmės ar probacijos priemonės pakeitimu, bausmės vykdymo atidėjimo ar lygtinio paleidimo iš laisvės atėmimo vietų įstaigos panaikinimu ir nuteistojo pasiuntimu atlikti likusios laisvės atėmimo bausmės dalies, sprendimą dėl su laisvės atėmimu nesusijusios bausmės ar sprendimą dėl probacijos kitai Europos Sąjungos valstybei narei perdavęs vykdyti teismas gali duoti sutikimą šios valstybės narės kompetentingai institucijai dėl alternatyviosios bausmės ar probacijos priemonės priežiūros perdavimo šiai valstybei narei tokiomis sąlygomis. Tokiu atveju probacijos tarnyba ir teismas ex officio išlaiko įgaliojimus, susijusius su alternatyviosios bausmės ar probacijos priemonės pakeitimu, bausmės vykdymo atidėjimo ar lygtinio paleidimo iš laisvės atėmimo vietų įstaigos panaikinimu ir nuteistojo pasiuntimu atlikti likusios laisvės atėmimo bausmės dalies, ta apimtimi, kiek kita Europos Sąjungos valstybė narė atsisakė šių įgaliojimų. Teismas apie alternatyviosios bausmės ar probacijos priemonės perdavimo vykdyti kitai Europos Sąjungos valstybei narei sąlygas nedelsdamas informuoja nuteistąjį, jeigu jis yra Lietuvos Respublikoje, ir probacijos tarnybą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -2049,15 +2109,17 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 38 straipsnis. Kitos Europos Sąjungos valstybės narės kompetentingos institucijos informavimas
 
 
-1. Probacijos tarnyba per penkias darbo dienas tiesiogiai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją, kai paaiškėja aplinkybių, dėl kurių, probacijos tarnybos nuomone, kitai Europos Sąjungos valstybei narei reikėtų pakeisti alternatyviosios bausmės ar probacijos priemonės sąlygas arba panaikinti lygtinį paleidimą iš pataisos įstaigos ar bausmės vykdymo atidėjimą ir nuteistąjį pasiųsti atlikti likusią bausmę. 
+1. Probacijos tarnyba per penkias darbo dienas tiesiogiai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją, kai paaiškėja aplinkybių, dėl kurių, probacijos tarnybos nuomone, kitai Europos Sąjungos valstybei narei reikėtų pakeisti alternatyviosios bausmės ar probacijos priemonės sąlygas arba panaikinti lygtinį paleidimą iš laisvės atėmimo vietų įstaigos ar bausmės vykdymo atidėjimą ir nuteistąjį pasiųsti atlikti likusios bausmės. 
 
 
 
 
-2. Šio įstatymo 37 straipsnio 3 ir 4 dalyse nurodytais atvejais probacijos tarnyba per penkias darbo dienas informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją, kai Lietuvos Respublikoje priimamas sprendimas dėl alternatyviosios bausmės ar probacijos priemonės pakeitimo, dėl bausmės vykdymo atidėjimo ar lygtinio paleidimo iš pataisos įstaigos panaikinimo ir nuteistojo pasiuntimo atlikti likusią laisvės atėmimo bausmės dalį arba kai pasibaigia alternatyviosios bausmės ar probacijos priemonės vykdymo terminas. 
+2. Šio įstatymo 37 straipsnio 3 ir 4 dalyse nurodytais atvejais probacijos tarnyba per penkias darbo dienas informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją, kai Lietuvos Respublikoje priimamas sprendimas dėl alternatyviosios bausmės ar probacijos priemonės pakeitimo, dėl bausmės vykdymo atidėjimo ar lygtinio paleidimo iš laisvės atėmimo vietų įstaigos panaikinimo ir nuteistojo pasiuntimo atlikti likusios laisvės atėmimo bausmės dalies arba kai pasibaigia alternatyviosios bausmės ar probacijos priemonės vykdymo terminas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
-
-
 
 
 
@@ -2083,7 +2145,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-4) šio įstatymo 37 straipsnio 3 ir 4 dalyse numatytais atvejais, kai Lietuvos Respublikoje priimamas sprendimas dėl bausmės vykdymo atidėjimo ar lygtinio paleidimo iš pataisos įstaigos panaikinimo ir nuteistojo pasiuntimo atlikti likusią laisvės atėmimo bausmės dalį.
+4) šio įstatymo 37 straipsnio 3 ir 4 dalyse numatytais atvejais, kai Lietuvos Respublikoje priimamas sprendimas dėl bausmės vykdymo atidėjimo ar lygtinio paleidimo iš laisvės atėmimo vietų įstaigos panaikinimo ir nuteistojo pasiuntimo atlikti likusios laisvės atėmimo bausmės dalies.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -3093,7 +3158,10 @@ Nr. XIII-3349, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24233
 
 
 
-2. Priėmęs šio straipsnio 1 dalyje nurodytą nutarimą, Lietuvos Respublikos generalinės prokuratūros prokuroras ne vėliau kaip per penkias darbo dienas nuo nutarimo priėmimo kreipiasi į Lietuvos kriminalinės policijos biurą, o kai perdavimas turi būti vykdomas iš Lietuvos Respublikos, – ir į suimto asmens kardomojo kalinimo (suėmimo) vietos administraciją ar nuteisto asmens laisvės atėmimo vietos administraciją su prašymu organizuoti asmens perdavimą, taip pat raštu informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją apie priimtą nutarimą. Tuo atveju, kai laikinas asmens perdavimas turi būti vykdomas iš Lietuvos Respublikos į kitą Europos Sąjungos valstybę narę, nurodomas ir terminas, per kurį asmuo turi būti grąžintas į Lietuvos Respubliką.
+2. Priėmęs šio straipsnio 1 dalyje nurodytą nutarimą, Lietuvos Respublikos generalinės prokuratūros prokuroras ne vėliau kaip per penkias darbo dienas nuo nutarimo priėmimo kreipiasi į Lietuvos kriminalinės policijos biurą, o kai perdavimas turi būti vykdomas iš Lietuvos Respublikos, – ir į laisvės atėmimo vietų įstaigą su prašymu organizuoti asmens perdavimą, taip pat raštu informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją apie priimtą nutarimą. Tuo atveju, kai laikinas asmens perdavimas turi būti vykdomas iš Lietuvos Respublikos į kitą Europos Sąjungos valstybę narę, nurodomas ir terminas, per kurį asmuo turi būti grąžintas į Lietuvos Respubliką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -4344,15 +4412,19 @@ Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
 
 
 
-2. Informaciją apie Lietuvos Respublikoje gautų, pripažintų ir atsisakytų pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotų vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintų ar atsisakytų pripažinti sprendimų dėl laisvės atėmimo bausmės ir sprendimų dėl bausmės, nesusijusios su laisvės atėmimu, bei sprendimų dėl probacijos skaičių renka ir sistemina Nacionalinė teismų administracija. Kiekvienais metais iki vasario 1 d. susistemintą informaciją apie Lietuvos Respublikoje gautus, pripažintus ir atsisakytus pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotus vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintus ar atsisakytus pripažinti sprendimus dėl laisvės atėmimo bausmės Nacionalinė teismų administracija pateikia Kalėjimų departamentui, o informaciją apie Lietuvos Respublikoje gautus, pripažintus ir atsisakytus pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotus vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintus ar atsisakytus pripažinti sprendimus dėl bausmės, nesusijusios su laisvės atėmimu, ir sprendimus dėl probacijos – Lietuvos probacijos tarnybai.
+2. Informaciją apie Lietuvos Respublikoje gautų, pripažintų ir atsisakytų pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotų vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintų ar atsisakytų pripažinti sprendimų dėl laisvės atėmimo bausmės ir sprendimų dėl bausmės, nesusijusios su laisvės atėmimu, bei sprendimų dėl probacijos skaičių renka ir sistemina Nacionalinė teismų administracija. Kiekvienais metais iki vasario 1 dienos susistemintą informaciją apie Lietuvos Respublikoje gautus, pripažintus ir atsisakytus pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotus vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintus ar atsisakytus pripažinti sprendimus dėl laisvės atėmimo bausmės Nacionalinė teismų administracija pateikia laisvės atėmimo vietų įstaigai, o informaciją apie Lietuvos Respublikoje gautus, pripažintus ir atsisakytus pripažinti, taip pat kitoms Europos Sąjungos valstybėms narėms perduotus vykdyti ir kitose Europos Sąjungos valstybėse narėse pripažintus ar atsisakytus pripažinti sprendimus dėl bausmės, nesusijusios su laisvės atėmimu, ir sprendimus dėl probacijos – Lietuvos probacijos tarnybai. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-884, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00175
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
  
 
 
 
 
-3. Informaciją apie šio įstatymo II ir III skyriuose nustatyta tvarka iš kitų Europos Sąjungos valstybių narių perimtų ir kitoms Europos Sąjungos valstybėms narėms perduotų nuteistųjų skaičių renka, sistemina ir kiekvienais metais iki vasario 1 dienos Kalėjimų departamentui teikia Viešojo saugumo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos.
+3. Informaciją apie šio įstatymo II ir III skyriuose nustatyta tvarka iš kitų Europos Sąjungos valstybių narių perimtų ir kitoms Europos Sąjungos valstybėms narėms perduotų nuteistųjų skaičių renka, sistemina ir kiekvienais metais iki vasario 1 dienos laisvės atėmimo vietų įstaigai teikia Viešojo saugumo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+ 
 
 
 
@@ -4397,8 +4469,6 @@ Respublikos Prezidentė                            �
 
 
 
-
- 
 
  
 Lietuvos Respublikos įstatymo
@@ -4502,5 +4572,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-884, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00175
 Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 87 straipsnio pakeitimo įstatymas
  
- 
-part_dc0205ef6f45494698840b000df681a4_end
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1237, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15604
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 2, 3, 4, 5, 6, 7, 9, 11, 12, 14, 16, 17, 20, 21, 22, 23, 24, 30, 33, 37, 38, 39, 55 ir 87 straipsnių pakeitimo įstatymas
