@@ -22,7 +22,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-07-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -174,6 +174,14 @@ Nr. XII-1826, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10576
 
 
 
+151. Kombinuotoji pakuotė – kaip tai apibrėžta Lietuvos Respublikos pakuočių ir pakuočių atliekų įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
+ 
+
+
+
+
 16. Masinis renginys – šventė, festivalis ar kitas didelei žmonių grupei skirtas renginys, kurį organizuoja valstybės ar savivaldybių institucijos ar įstaigos, fiziniai asmenys, juridiniai asmenys ar juridinio asmens statuso neturinčios organizacijos ar jų filialai, suderinę renginio laiką ir jo organizavimo tvarką su reikiamomis savivaldybės institucijomis (kai toks suderinimas būtinas pagal Lietuvos Respublikos susirinkimų įstatymą).
 
 
@@ -260,6 +268,14 @@ Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
 
 27. Stacionarioji viešojo maitinimo vieta – viešojo maitinimo vieta, įrengta Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka Nekilnojamojo turto registre įregistruotame pastate. 
+
+
+
+
+271. Sudėtinė pakuotė – alkoholinio gėrimo vieneto pakuotė, sudaryta iš dviejų ar daugiau skirtingų medžiagų pakuočių, kurios viena nuo kitos gali būti atskirtos rankomis ar paprastomis fizinėmis priemonėmis.
+Papildyta straipsnio dalimi:
+Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
+ 
 
 
 
@@ -1212,7 +1228,10 @@ Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 
 
 
-4) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 6 procentai, išpilstytus į didesnę negu 0,2 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą; 
+4) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 6 procentai, išpilstytus į didesnę negu 0,2 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą. Natūralios fermentacijos vaisių ir (ar) uogų vynai bei vaisių ir (ar) uogų vyno gėrimai, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 6 procentai, gali būti išpilstyti ir į ne didesnę kaip 3,5 litro plastikinę tarą, sudėtinę pakuotę ar kombinuotąją pakuotę;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
+ 
 
 
 
@@ -1969,7 +1988,10 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 
 
 
-4. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta alkoholio reklama, turi teisę duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, kuri naudojama skleidžiant alkoholio reklamą, arba panaikinti galimybę alkoholio reklamą pasiekti.
+4. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta alkoholio reklama, turi teisę duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjo saugomą informaciją, kuri naudojama skleidžiant alkoholio reklamą, arba panaikinti galimybę pasiekti alkoholio reklamą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1618, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25042
+ 
 
 
 
@@ -3101,3 +3123,13 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 18 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-797, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27375
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 11, 18-1 ir 34-1 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1618, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25042
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 29 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1619, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25043
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2 ir 18 straipsnių pakeitimo įstatymas
