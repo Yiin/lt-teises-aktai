@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2021-07-17 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
  
@@ -319,6 +319,14 @@ BENDROSIOS NUOSTATOS
 
 
 
+51) informacija apie lėšas, skirtas institucijos veiklos viešinimui; 
+Papildyta straipsnio punktu:
+Nr. XIV-1080, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11317
+ 
+
+
+
+
 6) kita Vyriausybės nustatyta informacija, įskaitant institucijų darbuotojų kontaktinius duomenis, jeigu jie skelbiami asmens duomenų teisėto tvarkymo tikslais.
 
 
@@ -331,7 +339,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Šio straipsnio 2 dalies 5 punktas taip pat taikomas viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, tačiau kurios nėra finansuojamos iš valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų ir neatlieka viešųjų funkcijų, taip pat akcinėms bendrovėms ar uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei tiesiogiai arba netiesiogiai priklauso (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) akcijos, suteikiančios daugiau kaip pusę balsų visuotiniame akcininkų susirinkime, ir valstybė ar savivaldybė tiesiogiai ar netiesiogiai gali daryti lemiamą įtaką (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) rinkdama ir atšaukdama akcinės bendrovės arba uždarosios akcinės bendrovės vadovą, taip pat daugiau kaip pusę valdybos arba stebėtojų tarybos narių.
+4. Šio straipsnio 2 dalies 5 ir 51 punktai taip pat taikomi viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, tačiau kurios nėra finansuojamos iš valstybės ir savivaldybių biudžetų bei valstybės pinigų fondų ir neatlieka viešųjų funkcijų, taip pat akcinėms bendrovėms ar uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei tiesiogiai arba netiesiogiai priklauso (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) akcijos, suteikiančios daugiau kaip pusę balsų visuotiniame akcininkų susirinkime, ir valstybė ar savivaldybė tiesiogiai ar netiesiogiai gali daryti lemiamą įtaką (suprantama taip, kaip nustatyta Akcinių bendrovių įstatymo 5 straipsnyje) rinkdama ir atšaukdama akcinės bendrovės arba uždarosios akcinės bendrovės vadovą, taip pat daugiau kaip pusę valdybos arba stebėtojų tarybos narių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1080, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11317
  
 
 
@@ -1064,3 +1074,8 @@ Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-491, 2021-06-30, paskelbta TAR 2021-07-12, i. k. 2021-15751
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1080, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11317
+Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 5 straipsnio pakeitimo įstatymas
