@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
  
@@ -2007,24 +2007,22 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-2) atliekantiems aplinkos monitoringo radiologinius tyrimus ir matavimus Lietuvos Respublikos aplinkos monitoringo įstatyme nustatytais pagrindais;
+2) atliekantiems aplinkos tyrimus, jeigu tokie tyrimai yra akredituoti įstaigos, priklausančios Europos akreditacijos organizacijai;
 
 
 
 
-3) atliekantiems aplinkos tyrimus, jeigu tokie tyrimai yra akredituoti įstaigos, priklausančios Europos akreditacijos organizacijai;
+3) kurių atliktų matavimų ir (ar) apšvitos dozių įvertinimo rezultatai naudojami moksliniams tyrimams;
 
 
 
 
-4) kurių atliktų matavimų ir (ar) apšvitos dozių įvertinimo rezultatai naudojami moksliniams tyrimams;
+4) turintiems kitos valstybės narės reguliuojančiosios institucijos išduotą dokumentą, įrodantį, kad jie turi teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą. 
 
 
-
-
-5) turintiems kitos valstybės narės reguliuojančiosios institucijos išduotą dokumentą, įrodantį, kad jie turi teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
+ 
 
 
 
