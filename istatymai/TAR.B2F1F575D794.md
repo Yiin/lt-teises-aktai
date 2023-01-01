@@ -21,7 +21,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
  
 
 
-Suvestinė redakcija nuo 2020-12-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 51-951, i. k. 0941010ISTA000I-509
  
@@ -151,7 +151,10 @@ Konsulinis mokestis imamas už:
 
 
 
-16) dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo priėmimą ir perdavimą;
+16) Neteko galios nuo 2023-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
+ 
 
 
 
@@ -548,3 +551,8 @@ Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 6 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2972, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12203
 Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, 5 ir 6 straipsnių pakeitimo įstatymas
