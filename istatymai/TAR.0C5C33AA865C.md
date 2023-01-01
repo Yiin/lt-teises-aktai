@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2022-07-12 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -397,6 +397,22 @@ Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 
 
 54. Mažos apimties suskystintų gamtinių dujų pakartotinis dujinimas (toliau – mažos apimties SGD pakartotinis dujinimas) – procesas, kai SGD verčiamos į dujinę formą mažos apimties SGD pakartotinio dujinimo įrenginyje vėlesniam pateikimui į skirstymo sistemą.
+
+
+
+
+541. Nacionalinis gamtinių dujų tiekimo ekstremaliųjų situacijų valdymo planas (toliau – ekstremaliųjų situacijų valdymo planas) – valstybės institucijų, gamtinių dujų įmonių, nebuitinių gamtinių dujų vartotojų pagrindinių funkcijų, priemonių ir veiksmų, kurių reikia imtis siekiant sumažinti galimą gamtinių dujų trūkumo poveikį sutrikus gamtinių dujų tiekimui, planas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
+ 
+
+
+
+
+542. Nacionalinis gamtinių dujų tiekimo saugumo užtikrinimo prevencinių veiksmų valdymo planas (toliau – prevencinių veiksmų valdymo planas) – iš anksto numatytų valstybės institucijų, gamtinių dujų įmonių ir nebuitinių gamtinių dujų vartotojų funkcijų ir įpareigojimų, švelninančių gamtinių dujų tiekimo sutrikimų poveikį, planas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
+ 
 
 
 
@@ -1270,7 +1286,7 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-5. Didžiausią leistiną pastatų ir jų aukštų skaičių vietovės klasės teritorijoje ir vietovės klasės vienete, atsižvelgdama į magistralinio dujotiekio vamzdyno pavojingumo ir rizikos laipsnį, nustato Vyriausybė ar jos įgaliota institucija.
+5. Magistralinių dujotiekių vietovės klasių teritorijų dydis ir specialiosios žemės naudojimo sąlygos šiose teritorijose nustatytos Specialiųjų žemės naudojimo sąlygų įstatyme. Didžiausią leistiną pastatų ir jų aukštų skaičių vietovės klasės teritorijoje ir vietovės klasės vienete, atsižvelgdama į magistralinio dujotiekio vamzdyno pavojingumo ir rizikos laipsnį, nustato Vyriausybė ar jos įgaliota institucija.
 
 
 Straipsnio pakeitimai:
@@ -3165,10 +3181,11 @@ Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 
 
 
-2. Vyriausybė nustato konkrečias saugumą užtikrinančias priemones, kurių įgyvendinimas Tarybai, gamtinių dujų įmonėms ir vartotojams yra privalomas. Priemonės turi apimti minimalius dujų tiekimo patikimumo reikalavimus, pažeidžiamų vartotojų ir solidariai saugomų pažeidžiamų vartotojų apibrėžimus, dujų tiekimo prioritetus dujų tiekimo sutrikimo atveju, dujų tiekimo kontrolės ir finansavimo tvarką, jos turi būti nediskriminuojančios, aiškios ir paskelbtos teisės aktų nustatyta tvarka. Su gamtinių dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimu susijusių dalyvių funkcijas ir atsakomybę Vyriausybė nustato taip, kad visų pirma veiksmų turėtų imtis gamtinių dujų įmonės ir nebuitiniai dujų vartotojai, o po to – valstybės ir Europos Sąjungos institucijos. 
+2. Vyriausybė nustato konkrečias saugumą užtikrinančias priemones, kurių įgyvendinimas Tarybai, gamtinių dujų įmonėms ir vartotojams yra privalomas. Priemonės turi apimti minimalius dujų tiekimo patikimumo reikalavimus, pažeidžiamų vartotojų ir solidariai saugomų pažeidžiamų vartotojų apibrėžtis, dujų tiekimo prioritetus dujų tiekimo sutrikimo atveju, jos turi būti nediskriminacinės, aiškios ir paskelbtos teisės aktų nustatyta tvarka. Su gamtinių dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimu susijusių dalyvių funkcijas ir atsakomybę Vyriausybė nustato taip, kad visų pirma veiksmų turėtų imtis gamtinių dujų įmonės ir nebuitiniai dujų vartotojai, o po to – valstybės ir Europos Sąjungos institucijos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
  
 
 
@@ -3187,9 +3204,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-2) prevencinio ir ekstremaliųjų situacijų valdymo planų rengimą; 
+2) prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planų rengimą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
  
 
 
@@ -3268,9 +3286,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-6. Siekdami gamtinių dujų tiekimo saugumo užtikrinimo, šio straipsnio 1 dalyje nurodyti dalyviai tarpusavyje bendradarbiauja rengiant gamtinių dujų tiekimo sutrikimų rizikos vertinimą, rengiant prevencinį ir ekstremaliųjų situacijų valdymo planus, įgyvendinant infrastruktūros ir tiekimo standartus ir fizinį pajėgumą transportuoti gamtines dujas tarpvalstybinėmis jungtimis abiem (priešpriešinėmis) kryptimis. 
+6. Siekdami užtikrinti gamtinių dujų tiekimo saugumą, šio straipsnio 1 dalyje nurodyti dalyviai tarpusavyje bendradarbiauja rengiant gamtinių dujų tiekimo sutrikimų rizikos vertinimą, prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planus, įgyvendinant infrastruktūros ir tiekimo standartus ir fizinį pajėgumą transportuoti gamtines dujas tarpvalstybinėmis jungtimis abiem (priešpriešinėmis) kryptimis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
  
 
 
@@ -3278,14 +3297,10 @@ Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 
 
 
-46 straipsnis. Gamtinių dujų tiekimo saugumą užtikrinančios priemonės 
+46 straipsnis. Gamtinių dujų tiekimo saugumą užtikrinančios priemonės
 
 
-1. Gamtinių dujų įmonės privalo būti nuolat pasirengusios veikti galimo dujų tiekimo sutrikimo atveju ir įgyvendinti nacionalinį prevencinį planą gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, kilus grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei žmonių sveikatai ar saugumui, gamtinių dujų įmonės privalo įgyvendinti nacionalinį ekstremaliųjų situacijų valdymo planą ir nedelsdamos imtis visų pagrįstų priemonių gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Šios priemonės turi būti pagrįstos ir proporcingos. Gamtinių dujų įmonės apie taikomas prevencines ir ekstremaliųjų situacijų valdymo priemones praneša Energetikos ministerijai.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
-Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
- 
+1. Gamtinių dujų įmonės privalo būti nuolat pasirengusios veikti galimo dujų tiekimo sutrikimo atveju ir įgyvendinti prevencinių veiksmų valdymo planą gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, kilus grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei žmonių sveikatai ar saugumui, gamtinių dujų įmonės privalo įgyvendinti ekstremaliųjų situacijų valdymo planą ir nedelsdamos imtis visų pagrįstų priemonių gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Šios priemonės turi būti pagrįstos ir proporcingos. Gamtinių dujų įmonės apie taikomas prevencines ir ekstremaliųjų situacijų valdymo priemones praneša Energetikos ministerijai.
 
 
 
@@ -3295,60 +3310,41 @@ Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
 
 
 
-3. Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, Vyriausybė ar jos įgaliota institucija turi teisę pagal nacionalinį ekstremaliųjų situacijų valdymo planą nustatyti reikalavimą gamtinių dujų įmonėms ir nebuitiniams vartotojams naudotis gamtinių dujų saugyklomis ir šio reikalavimo sąlygas. Gamtinių dujų atsargos gali būti tiekiamos iš valstybių narių teritorijoje esančių gamtinių dujų saugyklų.
+3. Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, Vyriausybė ar jos įgaliota institucija turi teisę pagal ekstremaliųjų situacijų valdymo planą nustatyti reikalavimą gamtinių dujų įmonėms ir nebuitiniams vartotojams naudotis gamtinių dujų saugyklomis ir šio reikalavimo sąlygas. Gamtinių dujų atsargos gali būti tiekiamos iš valstybių narių teritorijoje esančių gamtinių dujų saugyklų.
 
 
 
 
 31. SGD terminalo operatorius negali SGD terminalo pajėgumų ar jų dalies paskirstyti ir (ar) naudoti suskystintoms gamtinėms dujoms tiekti iš valstybių, kurios pagal Nacionalinio saugumo strategiją kelia grėsmę Lietuvos Respublikos nacionaliniam saugumui ir nacionalinio saugumo interesų užtikrinimui.
-Papildyta straipsnio dalimi:
-Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
- 
 
 
 
 
-32. Perdavimo sistemos operatorius ir skirstymo sistemos operatorius negali šių sistemų naudotojams suteikti teisės naudotis perdavimo sistema ir skirstymo sistema tiekti gamtines dujas į (per) Lietuvos Respublikos teritoriją tiesiogiai iš valstybių, kurios pagal Nacionalinio saugumo strategiją kelia grėsmę Lietuvos Respublikos nacionaliniam saugumui ir nacionalinio saugumo interesų užtikrinimui. Šis reikalavimas nėra taikomas gamtinių dujų tranzitui į Rusijos Federacijos Kaliningrado sritį. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
- 
+32. Perdavimo sistemos operatorius ir skirstymo sistemos operatorius negali šių sistemų naudotojams suteikti teisės naudotis perdavimo sistema ir skirstymo sistema tiekti gamtines dujas į (per) Lietuvos Respublikos teritoriją tiesiogiai iš valstybių, kurios pagal Nacionalinio saugumo strategiją kelia grėsmę Lietuvos Respublikos nacionaliniam saugumui ir nacionalinio saugumo interesų užtikrinimui. Šis reikalavimas nėra taikomas gamtinių dujų tranzitui į Rusijos Federacijos Kaliningrado sritį.
 
 
 
 
 4. Nebuitiniai vartotojai, kurie naudoja gamtines dujas energijai gaminti, kai ta energija parduodama ar naudojama visuomeniniams ar gyventojų poreikiams tenkinti, privalo turėti Energetikos įstatyme nustatyto laikotarpio energijos išteklių rezervo atsargas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
- 
 
 
 
 
 5. Buitinių vartotojų nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidos, kurių įtraukimo į gamtinių dujų tiekimo sąnaudų metodiką tvirtina Taryba, įtraukiamos apskaičiuojant gamtinių dujų tiekimo kainą kaip atskira tiekimo kainos dalis. Nebuitiniai vartotojai pagal sutartis nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidas padengia savo lėšomis.
-Straipsnio dalies pakeitimai:
-Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
- 
 
 
 
 
-6. Lietuvos energetikos agentūra, vadovaudamasi Reglamento (ES) 2017/1938 nuostatomis, atlieka gamtinių dujų tiekimo sutrikimų rizikos vertinimą, rengia ir teikia tvirtinti Energetikos ministerijai prevencinį ir ekstremaliųjų situacijų valdymo planus. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
- 
+6. Lietuvos energetikos agentūra, vadovaudamasi Reglamento (ES) 2017/1938 nuostatomis, atlieka gamtinių dujų tiekimo sutrikimų rizikos vertinimą, rengia ir teikia tvirtinti Energetikos ministerijai prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planus.
 
 
 
 
-7. Energetikos ministro patvirtintus prevencinį ir ekstremaliųjų situacijų valdymo planus Energetikos ministerija viešai paskelbia ministerijos interneto svetainėje ir užtikrina nuolatinę jų įgyvendinimo stebėseną. Apie patvirtintus prevencinį ir ekstremaliųjų situacijų valdymo planus ir jų atnaujinimus Energetikos ministerija nedelsdama praneša Europos Komisijai. Vyriausybei paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Vyriausybė, Energetikos ministerija, Taryba ir gamtinių dujų įmonės imasi iš anksto nustatytų veiksmų, apibūdintų ekstremaliųjų situacijų valdymo plane, ir nedelsdamos apie tai praneša Europos Komisijai ir kitoms valstybėms narėms. Paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Energetikos ministerija gali kreiptis į Europos Komisiją su prašymu paskelbti regioninio arba Europos Sąjungos lygmens ekstremaliąją situaciją, kuri gali būti paskelbta Europos Komisijai atlikus patikrinimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
-Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
- 
+7. Energetikos ministro patvirtintus prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planus Energetikos ministerija viešai paskelbia savo interneto svetainėje ir užtikrina nuolatinę jų įgyvendinimo stebėseną. Apie patvirtintus prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planus ir jų atnaujinimus Energetikos ministerija nedelsdama praneša Europos Komisijai. Vyriausybei paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Vyriausybė, Energetikos ministerija, Taryba ir gamtinių dujų įmonės imasi iš anksto nustatytų veiksmų, apibūdintų ekstremaliųjų situacijų valdymo plane, ir nedelsdamos apie tai praneša Europos Komisijai ir kitoms valstybėms narėms. Paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Energetikos ministerija gali kreiptis į Europos Komisiją su prašymu paskelbti regioninio arba Europos Sąjungos lygmens ekstremaliąją situaciją, kuri gali būti paskelbta Europos Komisijai atlikus patikrinimą. 
 
 
 Straipsnio pakeitimai:
-Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
  
 
 
@@ -3923,7 +3919,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-3) kyla avarija ar ekstremalioji energetikos situacija, dėl kurių neįmanoma tęsti gamtinių dujų perdavimo, skirstymo ar tiekimo konkretiems vartotojams, jeigu tenkinami Energetikos įstatyme nustatyti apribojimų ekstremaliųjų energetikos situacijų metu taikymo pagrindai;
+3) kyla avarija ar ekstremalioji energetikos padėtis, dėl kurių neįmanoma tęsti gamtinių dujų perdavimo, skirstymo ar tiekimo konkretiems vartotojams, jeigu tenkinami Energetikos įstatyme nustatyti apribojimų ekstremaliųjų energetikos padėčių metu taikymo pagrindai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
+ 
 
 
 
@@ -4129,7 +4128,10 @@ Vykdydamas tarptautinį bendradarbiavimą, perdavimo sistemos operatorius prival
 2. Bendradarbiavimas, vykdomas susidarius aplinkybėms, kurios sukelia ar per trumpą laiką gali sukelti didelį tiekimo sutrikimą, darantį poveikį bet kuriai bendradarbiaujančiai valstybei narei, apima:
 
 
-1) ekstremaliosios padėties nacionalinių priemonių, skirtų gamtinių dujų tiekimo patikimumui užtikrinti, koordinavimą;
+1) ekstremaliosios energetikos padėties nacionalinių priemonių, skirtų gamtinių dujų tiekimo patikimumui užtikrinti, koordinavimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
+ 
 
 
 
@@ -4421,3 +4423,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 9 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 46, 47 ir 52 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 45, 46, 57 ir 62 straipsnių pakeitimo įstatymas
