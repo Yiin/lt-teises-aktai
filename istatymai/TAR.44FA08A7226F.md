@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2022-06-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
  
@@ -767,12 +767,18 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-2. Valstybinė ar savivaldybės profesinio mokymo įstaiga yra viešasis juridinis asmuo, veikiantis kaip viešoji įstaiga (išskyrus pataisos pareigūnų ir vidaus reikalų profesinio mokymo teikėjus), kurio savininko teises ir pareigas įgyvendina atitinkamai Vyriausybė ar jos įgaliota institucija arba įstaiga, ar savivaldybė. Valstybinės ar savivaldybės profesinio mokymo įstaigos dalininkais gali būti fiziniai asmenys ir kiti negu Vyriausybė ar jos įgaliotos institucijos arba savivaldybė juridiniai asmenys.
+2. Valstybinė ar savivaldybės profesinio mokymo įstaiga yra viešasis juridinis asmuo, veikiantis kaip viešoji įstaiga (išskyrus bausmių vykdymo sistemos ir vidaus reikalų profesinio mokymo teikėjus), kurio savininko teises ir pareigas įgyvendina atitinkamai Vyriausybė ar jos įgaliota institucija arba įstaiga, ar savivaldybė. Valstybinės ar savivaldybės profesinio mokymo įstaigos dalininkais gali būti fiziniai asmenys ir kiti negu Vyriausybė ar jos įgaliotos institucijos arba savivaldybė juridiniai asmenys.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
 
-3. Profesinio mokymo įstaigos reorganizuojamos, likviduojamos ir pertvarkomos vadovaujantis Lietuvos Respublikos viešųjų įstaigų įstatymu, išskyrus pataisos pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigas, kurios reorganizuojamos, likviduojamos ir pertvarkomos vadovaujantis Lietuvos Respublikos civiliniu kodeksu.
+3. Profesinio mokymo įstaigos reorganizuojamos, likviduojamos ir pertvarkomos vadovaujantis Lietuvos Respublikos viešųjų įstaigų įstatymu, išskyrus bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigas, kurios reorganizuojamos, likviduojamos ir pertvarkomos vadovaujantis Lietuvos Respublikos civiliniu kodeksu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -857,30 +863,52 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-4) nustato bendrą mokymosi vietų skaičių, atsižvelgdama į galimybes užtikrinti profesinio mokymo kokybę, ir apie tai informuoja Švietimo, mokslo ir sporto ministeriją;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+4) atsižvelgdama į profesinio mokymo įstaigos lėšas darbo užmokesčiui, svarsto profesinio mokymo įstaigos direktoriaus tvirtinamo profesinio mokymo įstaigos pareigybių sąrašo ir jo pakeitimo projektus ir teikia siūlymus dėl jų; 
+Papildyta straipsnio punktu:
+Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
  
 
 
 
 
-5) svarsto profesinio mokymo įstaigos direktoriaus pateiktą profesinio mokymo įstaigos metinę pajamų ir išlaidų sąmatą ir tvirtina šios sąmatos įvykdymo ataskaitą; 
+5) nustato bendrą mokymosi vietų skaičių, atsižvelgdama į galimybes užtikrinti profesinio mokymo kokybę, ir apie tai informuoja Švietimo, mokslo ir sporto ministeriją;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
+ 
 
 
 
 
-6) iki kiekvienų metų kovo 1 dienos įvertina ir teikia siūlymus profesinio mokymo įstaigos savininkui (dalininkų susirinkimui) dėl profesinio mokymo įstaigos direktoriaus pateiktos profesinio mokymo įstaigos metinės veiklos ataskaitos;
+6) svarsto profesinio mokymo įstaigos direktoriaus pateiktą profesinio mokymo įstaigos metinę pajamų ir išlaidų sąmatą ir tvirtina šios sąmatos įvykdymo ataskaitą; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
+ 
 
 
 
 
-7) savo sprendimus skelbia viešai profesinio mokymo įstaigos interneto svetainėje ir apie savo sprendimus informuoja savininką (dalininkų susirinkimą);
+7) iki kiekvienų metų kovo 1 dienos įvertina ir teikia siūlymus profesinio mokymo įstaigos savininkui (dalininkų susirinkimui) dėl profesinio mokymo įstaigos direktoriaus pateiktos profesinio mokymo įstaigos metinės veiklos ataskaitos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
+ 
 
 
 
 
-8) atlieka kitas funkcijas, nustatytas kituose teisės aktuose ir profesinio mokymo įstaigos įstatuose.
+8) savo sprendimus skelbia viešai profesinio mokymo įstaigos interneto svetainėje ir apie savo sprendimus informuoja savininką (dalininkų susirinkimą);
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
+ 
+
+
+
+
+9) atlieka kitas funkcijas, nustatytas kituose teisės aktuose ir profesinio mokymo įstaigos įstatuose.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
+ 
 
 
 
@@ -1010,7 +1038,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-3. Priėmimas į profesinio mokymo įstaigas, išskyrus pataisos pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjus, profesinio mokymo teikėjus, vykdančius asmenų, kuriems taikomas Užimtumo įstatymas ir Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymas, vykdomas centralizuotai.
+3. Priėmimas į profesinio mokymo įstaigas, išskyrus bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjus, profesinio mokymo teikėjus, vykdančius asmenų, kuriems taikomas Užimtumo įstatymas ir Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymas, vykdomas centralizuotai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -1040,7 +1071,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-9. Priėmimo į pataisos pareigūnų profesinio mokymo įstaigų vykdomas programas planą tvirtina Lietuvos Respublikos teisingumo ministras, o priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą – Lietuvos Respublikos vidaus reikalų ministras.
+9. Priėmimo į bausmių vykdymo sistemos profesinio mokymo įstaigų vykdomas programas planą tvirtina Lietuvos Respublikos teisingumo ministras, o priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą – Lietuvos Respublikos vidaus reikalų ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -1050,7 +1084,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-11. Asmenų priėmimą į pataisos pareigūnų profesinio mokymo įstaigas ir vidaus reikalų profesinio mokymo įstaigas reglamentuoja Vidaus tarnybos statutas.
+11. Asmenų priėmimą į bausmių vykdymo sistemos profesinio mokymo įstaigas ir vidaus reikalų profesinio mokymo įstaigas reglamentuoja Vidaus tarnybos statutas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -1060,7 +1097,18 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-13. Asmens priėmimas mokytis pagal profesinio mokymo programą įforminamas profesinio mokymo sutartimi. Pataisos pareigūnų profesinio mokymo įstaigose ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato vidaus reikalų ministras, suderinęs su teisingumo ministru, kitoms profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato švietimo, mokslo ir sporto ministras kartu su ekonomikos ir inovacijų ministru.
+121. Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos registruotų bedarbių, siekiančių įgyti kvalifikaciją, priėmimas į profesinio mokymo įstaigas ar profesinio mokymo teikėjus mokytis pagal profesinio mokymo programas vykdomas ne rečiau kaip kartą per mėnesį švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-1145, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13884
+ 
+
+
+
+
+13. Asmens priėmimas mokytis pagal profesinio mokymo programą įforminamas profesinio mokymo sutartimi. Bausmių vykdymo sistemos profesinio mokymo įstaigose ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato vidaus reikalų ministras, suderinęs su teisingumo ministru, kitoms profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato švietimo, mokslo ir sporto ministras kartu su ekonomikos ir inovacijų ministru.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 Straipsnio pakeitimai:
@@ -1094,7 +1142,14 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-4. Mokymas pameistrystės forma gali būti organizuojamas tiek pagal formaliojo, tiek pagal neformaliojo profesinio mokymo programas Vyriausybės nustatyta tvarka. 
+4. Mokymas pameistrystės forma gali būti organizuojamas tiek pagal formaliojo, tiek pagal neformaliojo profesinio mokymo programas Vyriausybės nustatyta tvarka.
+
+
+
+
+5. Profesinio mokymo teikėjas Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos registruotų bedarbių, kurie nėra įgiję jokios profesinės kvalifikacijos, suteikiamos baigus Lietuvos Respublikos profesinio mokymo teikėjų vykdomą profesinio mokymo programą, arba kurių užsienyje įgyta profesinė kvalifikacija teisės aktų nustatyta tvarka nėra pripažinta kaip Lietuvoje įgyta kvalifikacija, taip pat bedarbių, neturinčių kompetencijų, įgytų mokantis pagal neformaliojo profesinio mokymo programą, teisės aktų nustatyta tvarka pripažįstamų kaip atitinkamo lygio kvalifikacija arba jos dalis, profesinį mokymą organizuoja pirmenybę teikdamas mokymui pameistrystės forma.
+Papildyta straipsnio dalimi:
+Nr. XIV-1145, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13884
  
 
 
@@ -1129,7 +1184,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 21 straipsnis. Asmenų, kuriems atimta ar apribota laisvė, profesinis mokymas
 
 
-1. Asmenims, kuriems atimta ar apribota laisvė, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka sudaromos sąlygos mokytis pataisos darbų įstaigose. Šių grupių asmenims profesinio mokymo programoje numatytas praktinis mokymas realioje darbo vietoje gali būti neskiriamas.
+1. Asmenims, kuriems atimta laisvė, sudaromos sąlygos mokytis laisvės atėmimo vietų įstaigoje. Šiems asmenims profesinio mokymo programoje numatytas praktinis mokymas realioje darbo vietoje gali būti neskiriamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -1235,6 +1293,19 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
  
 
 
+
+
+
+
+231 straipsnis. Formaliojo ir neformaliojo švietimo bei savišvietos būdu įgytų kompetencijų vertinimas ir pripažinimas
+
+
+Asmuo, siekiantis įgyti kvalifikaciją, ar asmens kvalifikacijos įgijimą finansuojanti institucija, gavusi šio asmens prašymą, gali kreiptis į profesinio mokymo įstaigas dėl neformaliojo švietimo būdu ar savišvietos būdu įgytų kompetencijų, susijusių su siekiama įgyti kvalifikacija, vertinimo ir pripažinimo. Šių kompetencijų vertinimo ir pripažinimo tvarką nustato švietimo, mokslo ir sporto ministras.
+
+
+Papildyta straipsniu:
+Nr. XIV-1145, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13884
+ 
 
 
 
@@ -1453,12 +1524,18 @@ PROFESINIO MOKYMO VALDYMAS. SAVIVALDA
 
 
 
-11) rengia profesinio mokymo lėšų skaičiavimo vienam mokiniui, kuris mokosi pagal formaliojo profesinio mokymo programą (išskyrus pataisos pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigų vykdomas programas), metodiką (toliau – profesinio mokymo lėšų skaičiavimo vienam mokiniui metodika);
+11) rengia profesinio mokymo lėšų skaičiavimo vienam mokiniui, kuris mokosi pagal formaliojo profesinio mokymo programą (išskyrus bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigų vykdomas programas), metodiką (toliau – profesinio mokymo lėšų skaičiavimo vienam mokiniui metodika);
+Straipsnio punkto pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
 
-12) kartu su Lietuvos Respublikos ekonomikos ir inovacijų ministerija vykdo profesinio rengimo, išskyrus pataisos pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigų vykdomas programas, finansavimą iš valstybės biudžeto, taikydama profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+12) kartu su Lietuvos Respublikos ekonomikos ir inovacijų ministerija vykdo profesinio rengimo (išskyrus bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigų vykdomas programas) finansavimą iš valstybės biudžeto, taikydama profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -1634,7 +1711,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 1. Vidaus reikalų ministerija:
 
 
-1) kartu su Teisingumo ministerija rengia vidaus reikalų ir pataisos pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+1) kartu su Teisingumo ministerija rengia vidaus reikalų ir bausmių vykdymo sistemos profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -1654,12 +1734,18 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-2) suderinęs su teisingumo ministru, nustato reikalavimus, taikomus pataisos pareigūnų profesinio mokymo įstaigose ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų, kuriems taikomas Vidaus tarnybos statutas, profesinio mokymo sutartims, ir šių sutarčių registravimo tvarką;
+2) suderinęs su teisingumo ministru, nustato reikalavimus, taikomus vidaus reikalų  profesinio mokymo įstaigose ir bausmių vykdymo sistemos profesinio mokymo įstaigose besimokančių asmenų, kuriems taikomas Vidaus tarnybos statutas, profesinio mokymo sutartims, ir šių sutarčių registravimo tvarką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
 
-3) teikia Vyriausybei tvirtinti vidaus reikalų ir pataisos pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+3) teikia Vyriausybei tvirtinti vidaus reikalų ir bausmių vykdymo sistemos profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -1682,7 +1768,10 @@ Nr. XIII-1392, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12062
 1. Teisingumo ministerija:
 
 
-1) kartu su Vidaus reikalų ministerija rengia vidaus reikalų ir pataisos pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+1) kartu su Vidaus reikalų ministerija rengia vidaus reikalų ir bausmių vykdymo sistemos profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -1697,7 +1786,10 @@ Nr. XIII-1392, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12062
 2. Teisingumo ministras:
 
 
-1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas, pageidaujančių įgyti kvalifikaciją, priėmimo į pataisos pareigūnų profesinio mokymo įstaigų vykdomas programas planą;
+1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas, pageidaujančių įgyti kvalifikaciją, priėmimo į bausmių vykdymo sistemos profesinio mokymo įstaigų vykdomas programas planą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 
@@ -2054,9 +2146,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-5. Mokymo lėšos formaliajam profesiniam mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų, taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos pataisos pareigūnų profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų vykdomam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą vidaus reikalų ir pataisos pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. 
+5. Mokymo lėšos formaliajam profesiniam mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų, taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos bausmių vykdymo sistemos profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų vykdomam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą vidaus reikalų ir bausmių vykdymo sistemos profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
  
 
 
@@ -2176,7 +2269,10 @@ Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
 
 
 
-3. Šis straipsnis netaikomas asmenims, kurių profesinis mokymas vykdomas Užimtumo įstatymo ir Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ir asmenims, kurių profesinį mokymą vykdo pataisos pareigūnų profesinio mokymo, vidaus reikalų profesinio mokymo teikėjai.
+3. Šis straipsnis netaikomas asmenims, kurių profesinis mokymas vykdomas Užimtumo įstatymo ir Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, ir asmenims, kurių profesinį mokymą vykdo bausmių vykdymo sistemos profesinio mokymo, vidaus reikalų profesinio mokymo teikėjai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+ 
 
 
 Straipsnio pakeitimai:
@@ -2189,9 +2285,10 @@ Nr. XIV-1128, 2022-05-26, paskelbta TAR 2022-05-30, i. k. 2022-11560
 38 straipsnis. Materialinė parama
 
 
-1. Mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas ar jų modulius, siekdami įgyti pirmąją kvalifikaciją, pataisos pareigūnų profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokamos stipendijos ir teikiama kita materialinė parama. Mokymosi stipendija nemokama mokiniams, neturintiems teisės į valstybės finansuojamą vietą, o mokiniams, kuriems laikinai atimta ar apribota laisvė, nemokama socialinė stipendija ir neteikiama kita materialinė parama.
+1. Mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas ar jų modulius, siekdami įgyti pirmąją kvalifikaciją, bausmių vykdymo sistemos profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokamos stipendijos ir teikiama kita materialinė parama. Mokymosi stipendija nemokama mokiniams, neturintiems teisės į valstybės finansuojamą vietą, o mokiniams, kuriems laikinai atimta ar apribota laisvė, nemokama socialinė stipendija ir neteikiama kita materialinė parama.
 Straipsnio dalies pakeitimai:
 Nr. XIV-536, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20295
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
  
 
 
@@ -2510,3 +2607,13 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 17 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1128, 2022-05-26, paskelbta TAR 2022-05-30, i. k. 2022-11560
 Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 37 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1145, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13884
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 18 ir 19 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 15, 18, 21, 26, 28, 29, 36, 37 ir 38 straipsnių pakeitimo įstatymas
