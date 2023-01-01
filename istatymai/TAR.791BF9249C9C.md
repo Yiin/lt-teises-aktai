@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -503,15 +503,22 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 10 straipsnis. Sportininkų, trenerių ir teisėjų veikla
 
 
-1. Sportininkui, treneriui ar teisėjui atlygis už jų vykdomą veiklą gali būti mokamas pagal darbo arba sporto veiklos sutartis.
+1. Sportininkui, treneriui ar teisėjui atlygis už jų vykdomą veiklą gali būti mokamas pagal darbo arba sporto veiklos sutartis. 
 
 
 
 
-2. Sporto veiklos sutartis turi būti rašytinė. Sporto veiklos sutartyje turi būti aptartos sutarties šalių teisės ir pareigos, atlygis, sutarties šalių atsakomybė už sporto veiklos sutartyje nurodytų įsipareigojimų nevykdymą, sutarties galiojimo terminas. Sporto veiklos sutartyje gali būti ir kitų sutarties šalių sutartų sąlygų.
+2. Sporto šakų federacijos, įgyvendinančios aukšto meistriškumo sporto programas, privalo sudaryti sporto veiklos sutartis su sportininkais, kurie rengiami įgyvendinant aukšto meistriškumo sporto programas ir (ar) gauna valstybės stipendiją.
+
+
+
+
+3. Sporto veiklos sutartis turi būti rašytinė. Sporto veiklos sutartyje turi būti aptartos sutarties šalių teisės ir pareigos, atsakomybės, susijusios su pasirengimu ir dalyvavimu sporto varžybose atstovaujant Lietuvos Respublikai, atlygis, sutarties šalių atsakomybė už sporto veiklos sutartyje nurodytų įsipareigojimų nevykdymą, sutarties galiojimo terminas, sutarties keitimo ir nutraukimo sąlygos, ginčų nagrinėjimo tvarka. Sporto veiklos sutartis gali būti neatlygintinė. Sporto veiklos sutartyje gali būti ir kitų sutarties šalių sutartų sąlygų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-908, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01355
  
-
-
 
 
 
@@ -1038,10 +1045,10 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-19 straipsnis. Kriterijai, kuriuos atitinkantis juridinis asmuo turi teisę gauti valstybės biudžeto lėšų aukšto meistriškumo sporto programai įgyvendinti.
+19 straipsnis. Kriterijai, kuriuos atitinkantis juridinis asmuo turi teisę gauti valstybės biudžeto lėšų aukšto meistriškumo sporto programai įgyvendinti 
 
 
-1. Sporto šakos federacija, siekianti gauti valstybės biudžeto lėšų šio įstatymo 18 straipsnio 3 dalyje nurodytai aukšto meistriškumo sporto programai įgyvendinti, turi atitikti šiuos kriterijus:
+1. Sporto šakos federacija, siekianti gauti valstybės biudžeto lėšų šio įstatymo 18 straipsnio 3 dalyje nurodytai aukšto meistriškumo sporto programai įgyvendinti, turi atitikti šiuos kriterijus:
 
 
 1) atitikti Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme nevyriausybinėms organizacijoms keliamus reikalavimus ir Lietuvos Respublikos asociacijų įstatyme asociacijoms keliamus reikalavimus;
@@ -1050,9 +1057,6 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 2) būti atsakinga už visų Lietuvos Respublikoje kultivuojamų atstovaujamos sporto šakos disciplinų plėtrą (tuo atveju, kai tos sporto šakos tarptautinė (pasaulio) sporto šakos federacija atstovavimą leidžia ir sporto šakos disciplinų principu, valstybės biudžeto lėšų sporto programoms įgyvendinti gali gauti kelios tos sporto šakos federacijos, kurios yra atsakingos tik už vienos ar kelių tos sporto šakos disciplinų plėtrą);
-Straipsnio punkto pakeitimai:
-Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
- 
 
 
 
@@ -1062,9 +1066,7 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-4) yra narė atstovaujamos sporto šakos tarptautinės (pasaulio) sporto šakos federacijos (arba, kai yra tarptautinės (pasaulio) sporto šakos federacijos leidimas, – narė tarptautinės (pasaulio) sporto šakos federacijos, kuruojančios tik konkrečią sporto šakos discipliną ir kartu esančios nare atstovaujančios sporto šakos tarptautinės (pasaulio) sporto šakos federacijos), kuri: 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
+4) yra narė atstovaujamos sporto šakos tarptautinės (pasaulio) sporto šakos federacijos (arba, kai yra tarptautinės sporto šakos federacijos leidimas, – narė tarptautinės (pasaulio) sporto šakos federacijos, kuruojančios tik konkrečią sporto šakos discipliną ir kartu esančios nare atstovaujančios sporto šakos tarptautinės (pasaulio) sporto šakos federacijos), kuri:
 
 
 a) turi ne mažiau kaip 55 valstybėse iš ne mažiau kaip 4 žemynų veikiančius narius;
@@ -1083,9 +1085,6 @@ c) per paskutinius 4 metus iki sporto šakos federacijos kreipimosi į Švietimo
 
 
 d) yra pripažinusi šią federaciją vienintele tos sporto šakos (tos sporto šakos disciplinos) atstove Lietuvos Respublikoje, palaikančia santykius su tarptautine (pasaulio) sporto šakos federacija (arba, kai yra tarptautinės (pasaulio) sporto šakos federacijos leidimas, – su tarptautine (pasaulio) sporto šakos federacija, kuruojančia tik konkrečią sporto šakos discipliną);
-Papunkčio pakeitimai:
-Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
- 
 
 
 
@@ -1117,7 +1116,17 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-10) sporto šakos federacijos steigimo dokumente yra įtvirtinta sporto šakos federacijos valdymo organų narių rotacija, numatant maksimalų galimą iš eilės einančių kadencijų skaičių tam pačiam asmeniui.
+10) sporto šakos federacijos steigimo dokumente yra įtvirtinta sporto šakos federacijos valdymo organų narių rotacija, numatant 4 kadencijas po 2 metus arba 2 kadencijas po 4 metus tam pačiam asmeniui ir 4 metų pertrauka šioms kadencijoms pasibaigus;
+
+
+
+
+11) yra atlikusi praėjusių kalendorinių metų finansinių ataskaitų auditą ir švietimo, mokslo ir sporto ministro nustatyta tvarka yra pateikusi nepriklausomo auditoriaus išvadą;
+
+
+
+
+12) yra suformavusi nacionalinę rinktinę, vadovaudamasi savo patvirtintais ir viešai paskelbtais objektyviais, skaidriais ir nediskriminaciniais nacionalinės rinktinės sudarymo kriterijais, ir sudariusi sporto veiklos sutartis su sportininkais, kurie rengiami įgyvendinant aukšto meistriškumo sporto programas ir (ar) gauna valstybės stipendiją.
 
 
 
@@ -1154,15 +1163,18 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-3. Olimpiniam, paralimpiniam, regos, klausos, judėjimo ar intelekto negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančioms nevyriausybinėms organizacijoms, siekiančioms gauti valstybės biudžeto lėšų šio įstatymo 18 straipsnio 3 dalyje nurodytoms aukšto meistriškumo sporto programoms įgyvendinti, mutatis mutandis taikomi šio straipsnio 1 dalies 6–10 punktuose nustatyti kriterijai, išskyrus intelekto negalią turinčių asmenų sporto judėjimui vadovaujančią organizaciją, kuriai netaikomas šio straipsnio 1 dalies 6 punkte nustatytas reikalavimas savo veiklos dokumentuose įtvirtinti atsakomybę už Pasaulinio antidopingo kodekso pažeidimus, be to, tarptautinės nevyriausybinės sporto organizacijos, kurių narėmis yra olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos, turi būti pripažinusios Pasaulinį antidopingo kodeksą.
+3. Olimpiniam, paralimpiniam, regos, klausos, judėjimo ar intelekto negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančioms nevyriausybinėms organizacijoms, siekiančioms gauti valstybės biudžeto lėšų šio įstatymo 18 straipsnio 3 dalyje nurodytoms aukšto meistriškumo sporto programoms įgyvendinti, mutatis mutandis taikomi šio straipsnio 1 dalies 6–12 punktuose nustatyti kriterijai, išskyrus intelekto negalią turinčių asmenų sporto judėjimui vadovaujančią organizaciją, kuriai netaikomas šio straipsnio 1 dalies 6 punkte nustatytas reikalavimas savo veiklos dokumentuose įtvirtinti atsakomybę už Pasaulinio antidopingo kodekso pažeidimus, be to, tarptautinės nevyriausybinės sporto organizacijos, kurių narėmis yra olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto, studentų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos, turi būti pripažinusios Pasaulinį antidopingo kodeksą.
 
 
 
 
 4. Nacionalinei antidopingo organizacijai, siekiančiai gauti valstybės ir (ar) savivaldybių biudžeto lėšų nacionalinei antidopingo programai įgyvendinti, mutatis mutandis taikomi šio straipsnio 1 dalies 7–10 punktuose nustatyti kriterijai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-908, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01355
+Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
  
-
-
 
 
 
@@ -1203,7 +1215,7 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-7) juridinio asmens vadovas, kolegialaus valdymo organo nariai, asmuo, turintis teisę juridinio asmens vardu sudaryti sandorį, buhalteris (buhalteriai) ar kitas (kiti) asmuo (asmenys), tvarkantis (tvarkantys) juridinio asmens apskaitą:
+7) juridinio asmens vadovas, kolegialaus valdymo organo nariai, asmuo, turintis teisę juridinio asmens vardu sudaryti sandorį, buhalteris (buhalteriai) ar kitas (kiti) asmuo (asmenys), tvarkantis (tvarkantys) juridinio asmens apskaitą: 
 
 
 a) turi neišnykusį ar nepanaikintą teistumą už sunkų ar labai sunkų nusikaltimą arba nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, už korupcinio pobūdžio nusikaltimą arba nusikaltimą, susijusį su dopingo medžiagų neteisėtu disponavimu, platinimu ar lenkimu (įtraukimu) jas vartoti;
@@ -1223,7 +1235,17 @@ c) turi jam pritaikytas atitinkamos nevyriausybinės organizacijos, veikiančios
 
 
 
-8) juridinis asmuo buvo patrauktas baudžiamojon atsakomybėn ir nepraėjo 10 metų nuo nuosprendžio įsiteisėjimo dienos.
+8) juridinis asmuo buvo patrauktas baudžiamojon atsakomybėn ir nepraėjo 10 metų nuo nuosprendžio įsiteisėjimo dienos;
+
+
+
+
+9) juridinis asmuo, atlikęs praėjusių kalendorinių metų finansinių ataskaitų auditą, pateikė nepriklausomo auditoriaus neigiamą išvadą;
+
+
+
+
+10) ilgiau negu 12 mėnesių Juridinių asmenų registro tvarkytojui nepateikė metinės finansinės atskaitomybės dokumentų.
 
 
 
@@ -1231,9 +1253,11 @@ c) turi jam pritaikytas atitinkamos nevyriausybinės organizacijos, veikiančios
 
 
 2. Jeigu šio straipsnio 1 dalyje nurodytos aplinkybės atsiranda po sprendimo skirti valstybės biudžeto lėšų projektui ar programai įgyvendinti priėmimo, valstybės biudžeto lėšų mokėjimas sustabdomas, o šiomis aplinkybėmis išmokėtos valstybės biudžeto lėšos atitinkamai finansavimą skyrusių institucijų ar įstaigų nustatyta tvarka ir per nustatytus terminus turi būti grąžintos į valstybės biudžeto lėšų naudojimo sutartyje nurodytą valstybės iždo sąskaitą; jų negrąžinus, išmokėtos lėšos išieškomos. Jeigu aplinkybės išnyksta nepasibaigus projekto ar programos įgyvendinimo terminui, valstybės biudžeto lėšų mokėjimas atnaujinamas projektams ar toms programos priemonėms, kurių vykdymo terminai nėra pasibaigę, įgyvendinti; priešingu atveju priimamas sprendimas nutraukti valstybės biudžeto lėšų mokėjimą projektui ar programai įgyvendinti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-908, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01355
  
-
-
 
 
 
@@ -1247,9 +1271,16 @@ c) turi jam pritaikytas atitinkamos nevyriausybinės organizacijos, veikiančios
 
 
 2. Savivaldybės gali steigti įstaigas, kurios rengtų sportininkus ar sudarytų sąlygas jiems rengti.
+
+
+
+
+3. Savivaldybių biudžetų lėšomis finansuojamų sportininkų rengimo įstaigų ir organizacijų veiklos reglamentavimo rekomendacijas tvirtina švietimo, mokslo ir sporto ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-908, 2022-01-18, paskelbta TAR 2022-01-28, i. k. 2022-01355
  
-
-
 
 
 
