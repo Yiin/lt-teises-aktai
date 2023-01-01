@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -193,6 +193,14 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
+81. Atliekų deginimo įrenginys – stacionarus arba mobilus techninis vienetas, įskaitant visą įrangą, kuris skirtas atliekoms termiškai apdoroti ir kurio pagaminta šiluma naudojama arba nenaudojama. Terminis atliekų apdorojimas apima deginimą oksiduojant ir kitus terminius procesus, įskaitant pirolizę, pavertimą dujomis ir plazminius procesus, jeigu vykstant šiems procesams susidariusios medžiagos yra sudeginamos. Ši sąvoka apima visą įrenginį ir jo teritoriją, įskaitant visas deginimo linijas, atliekų priėmimo, laikymo, vietoje atliekamo pirminio apdorojimo įrenginius, atliekų, kuro ir oro tiekimo sistemas, katilus, išmetamųjų dujų valymo įrenginius, vietoje esančius degimo liekanų ir nuotekų apdorojimo ar laikymo įrenginius, kaminus, krovimo priemones, deginimo operacijų tikrinimo sistemas ir prietaisus, registruojančius deginimo sąlygas ir atliekančius jų stebėseną. Jeigu atliekos termiškai apdorojamos kitu būdu nei oksiduojant, pavyzdžiui, pirolizės, pavertimo dujomis arba plazminių procesų būdu, atliekų deginimo įrenginio veikla apima ir terminio apdorojimo procesą, ir vėlesnį deginimo procesą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
 9. Atliekų eksportuotojas – įmonė, kuri priima atliekas iš jų turėtojo, jas veža ir perduoda atliekų naudotojui į Europos Sąjungos valstybes nares ar Europos ekonominės erdvės valstybes.
 
 
@@ -304,19 +312,39 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-241. Biologinės atliekos – biologiškai skaidžios sodų ir parkų atliekos (pavyzdžiui, šakos, lapai, žolė), maisto ir virtuvės atliekos iš namų ūkių, biurų, restoranų, didmeninės prekybos, valgyklų, viešojo maitinimo įstaigų ir mažmeninės prekybos punktų ir panašios atliekos iš maisto perdirbimo įmonių. Prie jų nepriskiriamos miškų ar žemės ūkio atliekos, nuotekų dumblas, natūralių audinių, popieriaus ir kartono, medienos atliekos. 
+241. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas – juridinis asmuo, eksploatuojantis bendro atliekų deginimo įrenginį (ir) ar atliekų deginimo įrenginį, skirtą deginti kaip įprastinį ar papildomą kurą po rūšiavimo likusias netinkamas perdirbti ar kitaip panaudoti energinę vertę turinčias komunalines atliekas siekiant gauti energiją arba jas pašalinti. 
 Papildyta straipsnio dalimi:
-Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
-Straipsnio dalies pakeitimai:
-Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
  
 
 
 
 
-242. Biologiškai skaidus plastikas – plastikas, galintis fiziškai ir biologiškai suirti ir galiausiai suskilti į anglies dioksidą (CO2), biomasę ir vandenį ir atitinkantis Europos standartus, taikomus pakuotėms, kurių atliekas galima panaudoti jas kompostuojant ar anaerobiškai skaidant. 
+242. Bendro atliekų deginimo įrenginys – stacionarus arba mobilus techninis vienetas, kurio pagrindinis tikslas yra energijos arba materialių produktų gamyba ir kuriam kaip įprastinis ar papildomas kuras naudojamos atliekos arba kuriame atliekos termiškai apdorojamos siekiant jas pašalinti. Terminis atliekų apdorojimas apima deginimą oksiduojant ir kitus terminius procesus, įskaitant pirolizę, pavertimą dujomis ir plazminius procesus, jeigu vykstant šiems procesams susidariusios medžiagos yra sudeginamos. Ši sąvoka apima visą įrenginį ir jo teritoriją, įskaitant visas bendrojo deginimo linijas, atliekų priėmimo, laikymo, vietoje atliekamo pirminio apdorojimo įrenginius, atliekų, kuro ir oro tiekimo sistemas, katilus, išmetamųjų dujų valymo įrenginius, vietoje esančius degimo liekanų ir nuotekų apdorojimo ar laikymo įrenginius, kaminus, krovimo priemones, deginimo operacijų tikrinimo sistemas ir prietaisus, registruojančius deginimo sąlygas ir atliekančius jų stebėseną. Jeigu atliekos termiškai apdorojamos kitu būdu nei oksiduojant, pavyzdžiui, pirolizės, pavertimo dujomis arba plazminių procesų būdu, bendro atliekų deginimo įrenginio veikla apima ir terminio apdorojimo procesą, ir vėlesnį deginimo procesą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+243. Biologinės atliekos – biologiškai skaidžios sodų ir parkų atliekos (pavyzdžiui, šakos, lapai, žolė), maisto ir virtuvės atliekos iš namų ūkių, biurų, restoranų, didmeninės prekybos, valgyklų, viešojo maitinimo įstaigų ir mažmeninės prekybos punktų ir panašios atliekos iš maisto perdirbimo įmonių. Prie jų nepriskiriamos miškų ar žemės ūkio atliekos, nuotekų dumblas, natūralių audinių, popieriaus ir kartono, medienos atliekos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
+Straipsnio dalies pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+244. Biologiškai skaidus plastikas – plastikas, galintis fiziškai ir biologiškai suirti ir galiausiai suskilti į anglies dioksidą (CO2), biomasę ir vandenį ir atitinkantis Europos standartus, taikomus pakuotėms, kurių atliekas galima panaudoti jas kompostuojant ar anaerobiškai skaidant. 
 Papildyta straipsnio dalimi:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
  
 
 
@@ -516,6 +544,14 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
+391. Komunalinių atliekų tvarkymo lėšų administravimas – savivaldybės ar savivaldybės pavedimu juridinio asmens atliekamas vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą ir jų tvarkymą surinkimas iš atliekų turėtojų ir kitos funkcijos, nurodytos šio Įstatymo 305 straipsnio 1 dalyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
 40. Komunalinių atliekų tvarkymo paslauga – viešoji paslauga, apimanti komunalinių atliekų surinkimą, vežimą, naudojimą, šalinimą, šių veiklų organizavimą, stebėseną, šalinimo vietų vėlesnę priežiūrą.
 
 
@@ -544,7 +580,10 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 
 
-44. Komunalinių atliekų tvarkymo sistemos administratorius – vienos, kelių ar visų į komunalinių atliekų tvarkymo regioną įeinančių savivaldybių įsteigtas juridinis asmuo, savivaldybės (savivaldybių) pavedimu atliekantis komunalinių atliekų tvarkymo sistemos organizavimo funkcijas ir (ar) teikiantis atliekų tvarkymo paslaugas.
+44. Komunalinių atliekų tvarkymo sistemos administratorius – vienos, kelių ar visų į komunalinių atliekų tvarkymo regioną įeinančios savivaldybės (savivaldybių) įsteigtas juridinis asmuo, savivaldybės (savivaldybių) pavedimu atliekantis komunalinių atliekų tvarkymo sistemos organizavimo funkcijas ir (ar) regioninių komunalinių atliekų tvarkymo įrenginių valdymą ir (ar) teikiantis komunalinių atliekų tvarkymo paslaugas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -575,6 +614,14 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 471. Mišriosios komunalinės atliekos – buityje susidarančios įvairios, sumaišytos atliekos, likusios po pirminio atliekų rūšiavimo, neatskirtos pagal rūšį ir pobūdį atliekų susidarymo vietoje, įskaitant atliekas, surinktas iš kitų šaltinių, kai šios atliekos savo pobūdžiu ar sudėtimi yra panašios į buitines atliekas. 
 Papildyta straipsnio dalimi:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+472. Namų ūkis – atskirai gyvenantis vienas fizinis asmuo arba grupė viename būste gyvenančių fizinių asmenų, kurie dalijasi išlaidas ir bendrai apsirūpina gyventi būtinomis priemonėmis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
  
 
 
@@ -681,6 +728,78 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
+581. Regioninė kaina – trejų metų reguliavimo laikotarpiui savivaldybėms Valstybinės energetikos reguliavimo tarybos nustatoma komunalinių atliekų tvarkymo paslaugos kaina, kuri apskaičiuojama pagal šios tarybos patvirtintą Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodiką ir kurią sudaro regioninio atliekų tvarkymo centro reguliuojama kaina, pagrįsta būtinosiomis sąnaudomis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+582. Regioninis atliekų tvarkymo centras – visų į komunalinių atliekų tvarkymo regioną įeinančių savivaldybių įsteigtas juridinis asmuo, vykdantis regioninių komunalinių atliekų tvarkymo įrenginių valdymą, atliekantis savivaldybių pavestas funkcijas, apimančias komunalinių ir kitų atliekų tvarkymo paslaugos teikimą ar šios paslaugos teikimo organizavimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+583. Regioniniai komunalinių atliekų tvarkymo įrenginiai – regione naudojami komunalinių atliekų mechaninio-biologinio apdorojimo įrenginiai ir (ar) biologinio apdorojimo įrenginiai, nepavojingųjų atliekų sąvartynai, didelių gabaritų atliekų surinkimo aikštelės, kompostavimo aikštelės ir kiti įrenginiai, kuriuos savivaldybių pavedimu tvarko regioninis atliekų tvarkymo centras ar komunalinių atliekų sistemos administratorius arba kitas juridinis asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+584. Reguliuojamoji kaina – valstybės reguliuojama regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojų komunalinių atliekų tvarkymo paslaugos kaina, į kurią neįskaičiuojamos komunalinių atliekų tvarkymo administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudos ir komunalinių atliekų surinkimo ir vežimo iš atliekų turėtojų paslaugų kaina. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+585. Reguliuojamoji veikla – regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojų vykdoma komunalinių atliekų tvarkymo veikla, kurios įkainius ar kainas reguliuoja valstybė. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+586. Reguliuojamosios veiklos apskaitos sistema – reguliavimo veiklos tikslais naudojama regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojų veiklos apskaitos sistema, grindžiama reguliuojamosios veiklos apskaitos atskyrimo ir sąnaudų paskirstymo principais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+587. Reguliuojamosios veiklos apskaitos sistemos patikra – regioniniams atliekų tvarkymo centrams, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojams auditoriaus ar audito įmonės pagal Valstybinės energetikos reguliavimo tarybos regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojams motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal šios tarybos patvirtintą techninę užduotį pateikiama ataskaita ir (ar) išvada. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+588. Reguliuojamosios veiklos ataskaita – regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojų Valstybinei energetikos reguliavimo tarybai teikiama kasmetinė ataskaita, kuri rengiama vadovaujantis reguliuojamosios veiklos apskaitos sistemos ir teisės aktų reikalavimais ir kurioje parodomas reguliuojamosios veiklos apskaitos atskyrimas ir sąnaudų paskirstymas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+589. Reguliuojamosios veiklos ataskaitų patikra – regioniniams atliekų tvarkymo centrams, bendro atliekų deginimo įrenginių, atliekų deginimo įrenginių valdytojams auditoriaus ar audito įmonės kasmet teikiama paslauga, kurią atlikus pagal Valstybinės energetikos reguliavimo tarybos patvirtintą ar pratęstą galioti techninę užduotį pateikiama reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
 59. Rūšiuojamasis atliekų surinkimas – atliekų surinkimas, kai jos atskiriamos pagal rūšį ir pobūdį siekiant palengvinti specialų tos rūšies ir pobūdžio atliekų apdorojimą.
 
 
@@ -733,6 +852,14 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 63. Tarpininkas – atliekų naudojimą ar šalinimą kito vardu organizuojanti įmonė, įskaitant įmones, kurios atliekų neįsigyja fiziškai.
+
+
+
+
+631. Techninė užduotis – Valstybinės energetikos reguliavimo tarybos kasmet iki kovo 31 dienos tvirtinamas ar pratęsiamas galioti dokumentas, o atliekant reguliuojamosios veiklos apskaitos sistemos patikrą šio Įstatymo 306 straipsnio 3 dalyje nustatytais atvejais – šios tarybos tvirtinamas dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, peržiūros užduočių, susijusių paslaugų standartai ir praktiniai nurodymai arba tarptautiniai audito standartai, kuriais reikia vadovautis atliekant reguliuojamosios veiklos ataskaitų patikrą ir (ar) šios veiklos apskaitos sistemos patikrą, šių patikros paslaugų reikalavimus ir (ar) apimtis.
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -803,42 +930,55 @@ Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
 
 
 
-68. Sąvoka „medicinos prietaisas“ suprantama kaip „medicinos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1993 m. birželio 14 d. Tarybos direktyvos 93/42/EEB dėl medicinos prietaisų 1 straipsnio 2 dalies a arba b punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „in vitro diagnostikos medicinos prietaisas“ suprantama kaip „in vitro diagnostikos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1998 m. spalio 27 d. Europos Parlamento ir Tarybos direktyvos 98/79/EB dėl in vitro diagnostikos medicinos prietaisų 1 straipsnio 2 dalies b arba c punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „aktyvusis implantuojamasis medicinos prietaisas“ suprantama kaip „aktyvusis implantuojamasis medicinos prietaisas“, kuris apibrėžtas 1990 m. birželio 20 d. Tarybos direktyvos 90/385/EEB dėl valstybių narių įstatymų, reglamentuojančių aktyviuosius implantuojamuosius medicinos prietaisus, suderinimo 1 straipsnio 2 dalies c punkte ir kuris yra elektros ir elektroninė įranga.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+68. Sąvoka „gamintojų ir importuotojų organizacijų ar užstato už vienkartines pakuotes sistemos administratorių veiklos patikrinimo techninė užduotis“ (toliau – veiklos patikrinimo techninė užduotis) suprantama taip, kaip ji apibrėžta Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
 
 
 
 
-69. Sąvoka „maisto tvarkymo subjektas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos maisto įstatyme. 
+69. Sąvoka „medicinos prietaisas“ suprantama kaip „medicinos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1993 m. birželio 14 d. Tarybos direktyvos 93/42/EEB dėl medicinos prietaisų 1 straipsnio 2 dalies a arba b punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „in vitro diagnostikos medicinos prietaisas“ suprantama kaip „in vitro diagnostikos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1998 m. spalio 27 d. Europos Parlamento ir Tarybos direktyvos 98/79/EB dėl in vitro diagnostikos medicinos prietaisų 1 straipsnio 2 dalies b arba c punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „aktyvusis implantuojamasis medicinos prietaisas“ suprantama kaip „aktyvusis implantuojamasis medicinos prietaisas“, kuris apibrėžtas 1990 m. birželio 20 d. Tarybos direktyvos 90/385/EEB dėl valstybių narių įstatymų, reglamentuojančių aktyviuosius implantuojamuosius medicinos prietaisus, suderinimo 1 straipsnio 2 dalies c punkte ir kuris yra elektros ir elektroninė įranga.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+70. Sąvoka „maisto tvarkymo subjektas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos maisto įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
- 
-
-
-
-
-70. Sąvoka „statybinės atliekos“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos statybos įstatyme. 
-Papildyta straipsnio dalimi:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
 
 
 
 
-71. Sąvoka „strateginės prekės“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos strateginių prekių kontrolės įstatyme. 
+71. Sąvoka „statybinės atliekos“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos statybos įstatyme. 
 Papildyta straipsnio dalimi:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
 
 
 
 
-72. Sąvoka „tabako gaminys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme. 
-TAR pastaba. 2 straipsnio 72 dalis galioja iki 2022-12-31.
+72. Sąvoka „strateginės prekės“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos strateginių prekių kontrolės įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+73. Sąvoka „tabako gaminys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
@@ -846,8 +986,7 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
-73. Sąvoka „uosto priėmimo įrenginys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos jūros aplinkos apsaugos įstatyme. 
-TAR pastaba. 2 straipsnio 73 dalis galioja iki 2022-12-31.
+74. Sąvoka „uosto priėmimo įrenginys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos jūros aplinkos apsaugos įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
@@ -1808,7 +1947,10 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 
-3) už atliekų deginimo (kai atliekos deginamos kaip įprastinis arba kaip papildomas kuras) įrenginių eksploatavimą ir kontrolę atsakingi įmonių darbuotojai.
+3) už bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio eksploatavimą ir kontrolę atsakingi šių įmonių darbuotojai.
+Straipsnio punkto pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -1840,7 +1982,10 @@ PAVOJINGŲ ATLIEKŲ TVARKYMO YPATUMAI
 12 straipsnis. Pavojingų atliekų tvarkymo licencijavimas
 
 
-1. Pavojingas atliekas ketinančios tvarkyti įmonės, neturinčios šio Įstatymo 6 straipsnyje nurodytų leidimų, turi gauti pavojingų atliekų tvarkymo licenciją.
+1. Pavojingas atliekas ketinančios surinkti ir vežti įmonės turi gauti pavojingų atliekų tvarkymo licenciją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -1850,22 +1995,28 @@ PAVOJINGŲ ATLIEKŲ TVARKYMO YPATUMAI
 
 
 
-3. Pavojingų atliekų tvarkymo licencijavimo taisykles tvirtina aplinkos ministras. Pavojingų atliekų tvarkymo licencijas išduoda, atsisako išduoti, licencijų duomenis tikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos dublikatą išduoda aplinkos ministro įgaliota institucija.
+3. Pavojingų atliekų tvarkymo licencijavimo taisykles tvirtina aplinkos ministras. Pavojingų atliekų tvarkymo licencijas išduoda, atsisako išduoti, licencijų duomenis tikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina aplinkos ministro įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
 
-4. Pavojingų atliekų tvarkymo licencija išduodama jas tvarkančiai įmonei, jeigu:
+4. Pavojingų atliekų tvarkymo licencija išduodama jas surenkančiai ir vežančiai įmonei, jeigu:
 
 
-1) pavojingas atliekas tvarkančios įmonės atsakingų darbuotojų kompetencija atitinka šio Įstatymo 112 straipsnyje nustatytus reikalavimus;
+1) pavojingas atliekas surenkančios ir vežančios įmonės atsakingų darbuotojų kompetencija atitinka šio Įstatymo 112 straipsnyje nustatytus reikalavimus;
 
 
 
 
-2) pavojingas atliekas tvarkančios įmonės civilinė atsakomybė apdrausta draudimo įmonėje.
+2) pavojingas atliekas surenkančios ir vežančios įmonės civilinė atsakomybė apdrausta draudimo įmonėje.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -1873,19 +2024,22 @@ PAVOJINGŲ ATLIEKŲ TVARKYMO YPATUMAI
 5. Pavojingų atliekų tvarkymo licencija neišduodama ar netikslinama, jeigu:
 
 
-1) pavojingas atliekas tvarkančios įmonės atsakingų darbuotojų kompetencija neatitinka šio Įstatymo 112 straipsnyje nustatytų reikalavimų;
+1) pavojingas atliekas surenkančios ir vežančios įmonės atsakingų darbuotojų kompetencija neatitinka šio Įstatymo 112 straipsnyje nustatytų reikalavimų;
 
 
 
 
-2) pavojingas atliekas tvarkanti įmonė pateikė melagingus duomenis pavojingų atliekų tvarkymo licencijai gauti ar tikslinti;
+2) pavojingas atliekas surenkanti ir vežanti įmonė pateikė melagingus duomenis pavojingų atliekų tvarkymo licencijai gauti ar tikslinti;
 
 
 
 
-3) pavojingas atliekas tvarkančios įmonės pateikti dokumentai neatitinka jiems nustatytų reikalavimų.
+3) pavojingas atliekas surenkančios ir vežančios įmonės pateikti dokumentai neatitinka jiems nustatytų reikalavimų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -1933,10 +2087,10 @@ PAVOJINGŲ ATLIEKŲ TVARKYMO YPATUMAI
 
 
 
-4) licencijos turėtojas pažeidė pavojingų atliekų tvarkymo reikalavimus ir neįvykdė aplinkos apsaugos valstybinės kontrolės pareigūnų privalomojo nurodymo pašalinti pažeidimus. 
-Straipsnio pakeitimai:
-Nr. IX-2214, 2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
-Nr. XI-1892, 2011-12-22, Žin., 2012, Nr. 6-190 (2012-01-10)
+4) licencijos turėtojas pažeidė pavojingų atliekų surinkimo ir vežimo reikalavimus ir neįvykdė aplinkos apsaugos valstybinės kontrolės pareigūnų privalomojo nurodymo pašalinti pažeidimus.
+Straipsnio punkto pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 Straipsnio pakeitimai:
@@ -2245,6 +2399,149 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
+251 straipsnis. Valstybinės energetikos reguliavimo tarybos kompetencija ir finansavimo tvarka
+
+
+1. Valstybinė energetikos reguliavimo taryba (toliau – Taryba):
+
+
+1) tvirtina Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodiką ir prižiūri, kaip ji taikoma;
+
+
+
+
+2) nustato regionines kainas ir prižiūri, kaip jos taikomos;
+
+
+
+
+3) tvirtina po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos (toliau – komunalinių atliekų deginimo viena tona) įkainio viršutinės ribos nustatymo metodiką ir prižiūri, kaip ji taikoma;
+
+
+
+
+4) nustato bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinę ribą ir prižiūri, kaip ji taikoma;
+
+
+
+
+5) vadovaudamasi skaidrumo, objektyvumo ir nediskriminavimo principais bei investicijų efektyvumo, atsipirkimo laikotarpio ir pagrįstumo įvertinimo kriterijais, tvirtina investicijų vertinimo ir derinimo tvarkos aprašą, derina regioninių atliekų tvarkymo centrų ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų investicijas, susijusias su komunalinių atliekų tvarkymu ir komunalinių atliekų deginimu; 
+
+
+
+
+6) ginčų sprendimo ne teismo tvarka nagrinėja bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų ir regioninių atliekų tvarkymo centrų kylančius ginčus dėl bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų taikomų komunalinių atliekų deginimo vienos tonos įkainių;
+
+
+
+
+7) tvirtina apskaitos atskyrimo ir sąnaudų paskirstymo reikalavimus ir (ar) metodą, ir (ar) modelį; 
+
+
+
+
+8) tvirtina regioninių atliekų tvarkymo centrų ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų informacijos teikimo Tarybai taisykles;
+
+
+
+
+9) prižiūri, kad būtų veiksmingai atskirtos reguliuojamųjų veiklų sąnaudos nuo kitų sąnaudų;
+
+
+
+
+10) inicijuoja reguliuojamosios veiklos apskaitos sistemos patikros atlikimą ir prižiūri reguliuojamosios veiklos ataskaitų patikros atitiktį techninei užduočiai;
+
+
+
+
+11) tvirtina techninę užduotį;
+
+
+
+
+12) prižiūri, ar regioniniai atliekų tvarkymo centrai ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai taiko šio Įstatymo 302 straipsnyje numatyta tvarka nustatytas kainas ir įkainius pagal teisės aktų reikalavimus;
+
+
+
+
+13) atlieka kitas šio Įstatymo ir kitų teisės aktų nustatytas funkcijas.
+
+
+
+
+
+
+2. Taryba turi teisę:
+
+
+1) gauti reikiamą informaciją iš regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginių ir (ar) atliekų deginimo įrenginių valdytojų ir kitų ūkio subjektų, valstybės ir savivaldybės institucijų ir organizacijų, komunalinių atliekų tvarkymo sistemų administratorių, savivaldybės pavedimu juridinių asmenų (ar pačių savivaldybių), vykdančių komunalinių atliekų tvarkymo lėšų administravimo funkcijas, šiame Įstatyme numatytoms funkcijoms atlikti;
+
+
+
+
+2) patikrinti atliekų tvarkytojų valstybės institucijoms ir (ar) atliekų turėtojams teikiamą informaciją, vertinti jos patikimumą, nepažeisdama komercine (gamybine) ar profesine paslaptimi laikomos informacijos ar asmens duomenų apsaugos reikalavimų; 
+
+
+
+
+3) skirti šio Įstatymo 309 straipsnyje numatytas sankcijas.
+
+
+
+
+
+
+3. Tarybos finansavimo šaltiniai yra šio straipsnio 4 dalyje numatytos Tarybos pajamos. Tarybos strateginiame veiklos plane numatytos ir vykdomos programos, įgyvendinamos atliekant komunalinių atliekų tvarkymo sektoriaus reguliavimą, finansuojamos iš Tarybos pajamų, gautų šio straipsnio 4 dalyje nustatyta tvarka. 
+
+
+
+
+4. Tarybos pajamos:
+
+
+1) Tarybos kitų metų pajamas sudaro 0,95 procento praėjusių kalendorinių metų regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo reguliuojamosios veiklos pajamų;
+
+
+
+
+2) šios dalies 1 punkte nustatyta tvarka apskaičiuotos Tarybos pajamos pripažįstamos regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų pagrįstomis būtinosiomis sąnaudomis nustatant reguliuojamąsias kainas.
+
+
+
+
+
+
+5. Tarybos pajamų naudojimo tvarka:
+
+
+1) Taryba iki kiekvienų metų kovo 31 dienos apskaičiuoja šio straipsnio 4 dalies 1 punkte nurodytas Tarybos pajamas, informuoja regioninius atliekų tvarkymo centrus ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojus apie jų kiekvieną ketvirtį mokėtiną sumą. Regioniniai atliekų tvarkymo centrai ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai Tarybos nurodytą sumą privalo pervesti į Tarybos sąskaitą kiekvieną kalendorinių metų ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio paskutinės dienos;
+
+
+
+
+2) regioniniams atliekų tvarkymo centrams ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojams, laiku nesumokėjusiems šios dalies 1 punkte nustatyta tvarka apskaičiuotos sumos, skaičiuojami 0,02 procento dydžio delspinigiai už kiekvieną pradelstą mokėjimo termino dieną. Delspinigiai nėra pripažįstami regioninių atliekų tvarkymo centrų ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų pagrįstomis būtinosiomis sąnaudomis nustatant reguliuojamąją kainą. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą laiku nesumokėtą sumą;
+
+
+
+
+3) Taryba pagal šią dalį gautas pajamas privalo pervesti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka;
+
+
+
+
+4) Tarybos pajamos, gautos pagal šią dalį ir pervestos į valstybės biudžetą, gali būti naudojamos tik Tarybos strateginiame veiklos plane numatytoms ir vykdomoms programoms, įgyvendinamoms atliekant komunalinių atliekų tvarkymo sektoriaus reguliavimą, finansuoti.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
 
 
 ŠEŠTASIS SKIRSNIS
@@ -2455,7 +2752,10 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
-8. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savivaldybės teikia Aplinkos apsaugos agentūrai informaciją apie įstatymuose ir kituose teisės aktuose savivaldybėms nustatytų reikalavimų ir Valstybiniame atliekų prevencijos ir tvarkymo plane nustatytų užduočių vykdymą atliekų tvarkymo srityje. 
+8. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka savivaldybė teikia aplinkos ministro įgaliotai institucijai informaciją apie įstatymuose ir kituose teisės aktuose savivaldybėms nustatytų reikalavimų ir Valstybiniame atliekų prevencijos ir tvarkymo plane nustatytų užduočių vykdymą atliekų tvarkymo srityje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -2486,7 +2786,9 @@ komunalinių atliekų tvarkymo sistemos
 
 
 
-3. Komunalinių atliekų tvarkymo sistemos administratorius gali atlikti šias komunalinių atliekų tvarkymo sistemos organizavimo funkcijas:
+3. Komunalinių atliekų tvarkymo sistemos administratorius gali atlikti šias komunalinių atliekų tvarkymo sistemos administravimo funkcijas, jeigu jas paveda savivaldybė:
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 1) organizuoti konkursą komunalinių atliekų tvarkymo paslaugą teikiančiam atliekų tvarkytojui parinkti;
@@ -2494,45 +2796,84 @@ komunalinių atliekų tvarkymo sistemos
 
 
 
-2) vykdyti sutartinių įsipareigojimų tarp komunalinių atliekų tvarkymo sistemos administratoriaus ir šio straipsnio 12 dalyje nurodyto atliekų tvarkytojo priežiūrą ir kontrolę;
-
-
-
-
-3) pateikti savivaldybės institucijai įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir komunalinių atliekų tvarkymą dydžio apskaičiavimą ir, jeigu savivaldybės taryba šią įmoką patvirtina, ją rinkti;
-
-
-
-
-4) registruoti komunalinių atliekų turėtojus;
-
-
-
-
-5) rinkti, analizuoti informaciją apie komunalinių atliekų tvarkymą savivaldybės ir (ar) atliekų tvarkymo regiono teritorijoje, regiono plėtros tarybos patvirtinto regioninio ir savivaldybės tarybos patvirtinto savivaldybės atliekų prevencijos ir tvarkymo planų priemonių, užtikrinančių Valstybiniame atliekų prevencijos ir tvarkymo plane nustatytų užduočių įgyvendinimą, vykdymą; 
+2) tikrinti, kaip yra vykdomi sutartiniai įsipareigojimai tarp komunalinių atliekų tvarkymo sistemos administratoriaus ir šio straipsnio 12 dalyje nurodyto atliekų tvarkytojo;
 Straipsnio punkto pakeitimai:
-Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
  
 
 
 
 
-6) teikti pasiūlymus regiono plėtros tarybai ir savivaldybės tarybai dėl komunalinių atliekų tvarkymo sistemos tobulinimo ir plėtojimo;
+3) atlikti sutartinių įsipareigojimų tarp komunalinių atliekų tvarkymo sistemos administratoriaus ir šio straipsnio 12 dalyje nurodyto atliekų tvarkytojo priežiūrą ir kontrolę; 
+Papildyta straipsnio punktu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
 
-7) įgyvendinti visuomenės informavimo, švietimo ir mokymo priemones komunalinių atliekų tvarkymo srityje;
+4) pateikti savivaldybei rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio apskaičiavimą ir, jeigu savivaldybės taryba patvirtina, ją rinkti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
 
-8) sudaryti sutartis su komunalinių atliekų turėtojais; 
+5) registruoti komunalinių atliekų turėtojus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
 
-9) kitas su komunalinių atliekų tvarkymo sistemos organizavimu susijusias savivaldybių pavestas funkcijas.
+6) rinkti, analizuoti informaciją apie komunalinių atliekų tvarkymą savivaldybės ir (ar) atliekų tvarkymo regiono teritorijoje, regiono plėtros tarybos patvirtinto regioninio ir savivaldybės tarybos patvirtinto savivaldybės atliekų prevencijos ir tvarkymo planų priemonių, užtikrinančių Valstybiniame atliekų prevencijos ir tvarkymo plane nustatytų užduočių įgyvendinimą, vykdymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+7) teikti pasiūlymus regiono plėtros tarybai ir savivaldybės tarybai dėl komunalinių atliekų tvarkymo sistemos tobulinimo ir plėtojimo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+8) įgyvendinti visuomenės informavimo, švietimo ir mokymo priemones komunalinių atliekų tvarkymo srityje;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+9) sudaryti sutartis su komunalinių atliekų turėtojais; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+10) vykdyti komunalinių atliekų tvarkymo lėšų administravimo veiklą; 
+Papildyta straipsnio punktu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+11) kitas su komunalinių atliekų tvarkymo sistemos organizavimu susijusias savivaldybių pavestas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -2549,7 +2890,18 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 
 
-6. Savivaldybės privalo užtikrinti, kad visiems jos teritorijoje esantiems atliekų turėtojams būtų sudarytos sąlygos naudotis komunalinių atliekų tvarkymo paslauga.
+6. Savivaldybės privalo užtikrinti, kad visiems jos teritorijoje esantiems atliekų turėtojams būtų sudarytos sąlygos naudotis nepertraukiama komunalinių atliekų tvarkymo paslauga.
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+61. Savivaldybės privalo užtikrinti regioninių komunalinių atliekų tvarkymo įrenginių nepertraukiamą veiklą ir šių įrenginių valdymą. Savivaldybės, vadovaudamosi teisės aktais, gali pavesti regioniniam atliekų tvarkymo centrui užtikrinti regioninių komunalinių atliekų tvarkymo įrenginių nepertraukiamą veiklą ir šių įrenginių valdymą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
@@ -2570,6 +2922,8 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 
 10. Komunalinių atliekų tvarkymas turi būti organizuojamas taip, kad skatintų atliekas paruošti naudoti pakartotinai ir perdirbti. Visiems komunalinių atliekų turėtojams, neimant papildomo mokesčio, išskyrus nustatytą vietinę rinkliavą už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą (toliau – rinkliava) ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir komunalinių atliekų tvarkymą, turi būti:
+Straipsnio dalies pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 
 
 1) užtikrintas aprūpinimas mišrių komunalinių atliekų surinkimo priemonėmis;
@@ -2733,6 +3087,14 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 18. Savivaldybės privalo užtikrinti, kad sąvartynuose būtų šalinamos jų teritorijose surinktos tik po rūšiavimo likusios netinkamos naudoti komunalinės atliekos.
 
 
+
+
+19. Siekdamos komunalinių atliekų tvarkymo paslaugų kainodaroje vadovautis atliekų tvarkymo srityje taikomu principu „teršėjas moka“, savivaldybės (arba savivaldybių įsteigti juridiniai asmenys, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti šio Įstatymo 3433, 3434, 3436, 3437 straipsniuose ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 72 ir 10 straipsniuose nurodytas sutartis dėl vienkartinių plastikinių gaminių atliekų ir šiukšlių išrinkimo ir tvarkymo finansavimo. Komunalinių atliekų sraute susidarančių vienkartinių plastikinių gaminių atliekų ir šiukšlių surinkėjus, vežėjus, apdorotojus savivaldybės turi išrinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka. Aplinkos ministras tvirtina rekomendacijas dėl šių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų.
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-2214, 2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
 Nr. X-279, 2005-06-28, Žin., 2005, Nr. 84-3111 (2005-07-12)
@@ -2746,24 +3108,20 @@ Nr. XII-289, 2013-05-09, Žin., 2013, Nr. 55-2729 (2013-05-28)
 
 
 
-301 straipsnis. Komunalinių atliekų tvarkymo paslaugos teikimo sutartis ir vietinė rinkliava už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą
+301 straipsnis. Komunalinių atliekų tvarkymo paslaugos teikimo sutartis ir rinkliava už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą
 
 
-1. Organizuojant komunalinių atliekų tvarkymą, sudarant komunalinių atliekų tvarkymo paslaugos teikimo sutartį arba mokant savivaldybės nustatytą rinkliavą, atliekų turėtojams atstovauja jų naudojamo nekilnojamojo turto objekto savininkas arba nekilnojamojo turto objekto savininko atstovas pagal įstatymą, arba nekilnojamojo turto objekto savininko įgaliotas asmuo, arba daugiabučio namo butų ir kitų patalpų savininkų bendrija, individualių gyvenamųjų namų savininkų bendrija, garažų savininkų bendrija, sodininkų bendrija ar kita bendrija, bendrojo naudojimo objektų administratorius, esant savininkų raštu įformintam susitarimui, arba asmenys, sudarę jungtinės veiklos sutartis bendrosios dalinės nuosavybės teisei įgyvendinti (toliau – įgalioti asmenys).
-TAR pastaba. Iki įstatymo Nr. XIII-1796 įsigaliojimo (2018-12-22) dienos sudarytos komunalinių atliekų tvarkymo paslaugos teikimo sutartys su daugiabučio namo butų ir kitų patalpų savininkų bendrija, individualių gyvenamųjų namų savininkų bendrija, garažų savininkų bendrija, sodininkų bendrija ar kita bendrija, bendrojo naudojimo objektų administratoriumi turi būti pakeistos ar sudarytos naujos iki 2020 m. sausio 1 d.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1796, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21124
- 
+1. Organizuojant komunalinių atliekų tvarkymą, sudarant komunalinių atliekų tvarkymo paslaugos teikimo sutartį arba mokant savivaldybės nustatytą rinkliavą, atliekų turėtojams atstovauja jų naudojamo nekilnojamojo turto objekto savininkas arba nekilnojamojo turto objekto savininko atstovas pagal įstatymą, arba nekilnojamojo turto objekto savininko įgaliotas asmuo, arba daugiabučio namo butų ir kitų patalpų savininkų bendrija, individualių gyvenamųjų namų savininkų bendrija, garažų savininkų bendrija, sodininkų bendrija ar kita bendrija, bendrojo naudojimo objektų administratorius, arba, esant butų arba kitų patalpų savininkų raštu įformintam susitarimui, asmenys, sudarę Civiliniame kodekse nurodytas jungtinės veiklos sutartis bendrosios dalinės nuosavybės teisei įgyvendinti (toliau – įgalioti asmenys).
 
 
 
 
-2. Nekilnojamojo turto objektų, kurių rūšių sąrašą nustato Aplinkos ministerija, savininkas arba įgalioti asmenys privalo mokėti nustatytą rinkliavą arba, jeigu rinkliava savivaldybės teritorijoje nenustatyta, sudaryti komunalinių atliekų tvarkymo paslaugos teikimo sutartį su savivaldybės, kurios teritorijoje yra nekilnojamojo turto objektas, komunalinių atliekų tvarkymo sistemos administratoriumi arba savivaldybe. Tuo atveju, jeigu rinkliava savivaldybės teritorijoje nenustatyta, komunalinių atliekų tvarkymo sistemos administratorius arba savivaldybės administracijos direktorius privalo raštu pateikti pasiūlymą sudaryti komunalinių atliekų tvarkymo paslaugos teikimo sutartį pagal individualiai aptartas sąlygas nekilnojamojo turto objekto savininkui arba įgaliotiems asmenims. Nekilnojamojo turto objekto savininkas arba įgalioti asmenys, nesudarę komunalinių atliekų tvarkymo paslaugos teikimo sutarties per terminą, kuris negali būti trumpesnis kaip 45 dienos nuo pasiūlymo išsiuntimo dienos, laikomi sudarę sutartį pagal komunalinių atliekų tvarkymo paslaugos teikimo sutarties standartines sąlygas, kurias tvirtina Vyriausybė ar jos įgaliota institucija. Ši sąlyga turi būti nurodyta pasiūlyme sudaryti komunalinių atliekų tvarkymo paslaugos teikimo sutartį pagal individualiai aptartas sąlygas.
+2. Nekilnojamojo turto objektų, kurių rūšių sąrašą nustato aplinkos ministras, savininkas arba įgalioti asmenys privalo mokėti nustatytą rinkliavą arba, jeigu rinkliava savivaldybės teritorijoje nenustatyta, sudaryti komunalinių atliekų tvarkymo paslaugos teikimo sutartį su savivaldybės, kurios teritorijoje yra nekilnojamojo turto objektas, juridiniu asmeniu, savivaldybės pavedimu atliekančiu komunalinių atliekų tvarkymo lėšų administravimą, arba savivaldybe. Tokius juridinius asmenis Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka parenka savivaldybės. Juridinis asmuo, atliekantis komunalinių atliekų tvarkymo lėšų administravimo funkcijas, arba savivaldybė, atsižvelgdama į šio straipsnio 4 dalyje nurodytas standartines sutarčių sąlygas, raštu pateikia nekilnojamojo turto objekto savininkui arba įgaliotiems asmenims pasiūlymą sudaryti komunalinių atliekų tvarkymo paslaugos teikimo sutartį pagal individualiai aptartas paslaugos teikimo sąlygas. Paslaugos teikimo sąlygų kriterijai nustatyti savivaldybės atliekų tvarkymo taisyklėse. Nekilnojamojo turto objekto savininkas arba įgalioti asmenys, nesudarę komunalinių atliekų tvarkymo paslaugos teikimo sutarties per terminą, kuris negali būti trumpesnis kaip 45 kalendorinės dienos nuo pasiūlymo išsiuntimo dienos, laikomi sudarę sutartį pagal komunalinių atliekų tvarkymo paslaugos teikimo sutarties standartines sąlygas, kurias tvirtina Vyriausybė ar jos įgaliota institucija. Ši sąlyga turi būti nurodyta pasiūlyme sudaryti komunalinių atliekų tvarkymo paslaugos teikimo sutartį pagal individualiai aptartas sąlygas.
 
 
 
 
-3. Komunalinių atliekų tvarkymo paslaugos teikimo sutartis sudaroma, keičiama ir nutraukiama vadovaujantis šiuo įstatymu, Civiliniu kodeksu ir komunalinių atliekų tvarkymo paslaugos teikimo sutarties standartinėmis sąlygomis, kurias tvirtina Vyriausybė. 
+3. Komunalinių atliekų tvarkymo paslaugos teikimo sutartis sudaroma, keičiama ir nutraukiama vadovaujantis šiuo įstatymu, Civiliniu kodeksu ir komunalinių atliekų tvarkymo paslaugos teikimo sutarties standartinėmis sąlygomis, kurias tvirtina Vyriausybė ar jos įgaliota institucija. 
 
 
 
@@ -2808,30 +3166,29 @@ Nr. XIII-1796, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21124
 
 
 
-5. Nekilnojamojo turto objekto savininkas arba įgalioti asmenys, kurie yra sudarę komunalinių atliekų tvarkymo paslaugos teikimo sutartį pagal komunalinių atliekų tvarkymo paslaugos teikimo sutarties standartines sąlygas, arba asmenys, kuriems pasiūlymas, nurodytas šio straipsnio 2 dalyje, nepateiktas, turi teisę kreiptis su prašymu į savivaldybę dėl komunalinių atliekų tvarkymo paslaugos teikimo sutarties sudarymo pagal individualiai aptartas sąlygas. Savivaldybė privalo išnagrinėti tokį prašymą ir sudaryti komunalinių atliekų tvarkymo paslaugos teikimo sutartį ne vėliau kaip per 14 dienų nuo prašymo gavimo dienos.
+5. Nekilnojamojo turto objekto savininkas arba įgalioti asmenys, kurie yra sudarę komunalinių atliekų tvarkymo paslaugos teikimo sutartį pagal komunalinių atliekų tvarkymo paslaugos teikimo sutarties standartines sąlygas, arba asmenys, kuriems pasiūlymas, nurodytas šio straipsnio 2 dalyje, nepateiktas, turi teisę kreiptis su prašymu į savivaldybę arba juridinį asmenį, savivaldybės pavedimu atliekantį komunalinių atliekų tvarkymo lėšų administravimo funkcijas, dėl komunalinių atliekų tvarkymo paslaugos teikimo sutarties sudarymo pagal individualiai aptartas sąlygas. Savivaldybė arba juridinis asmuo, savivaldybės pavedimu atliekantis komunalinių atliekų tvarkymo lėšų administravimo funkcijas, išnagrinėja tokį prašymą ir sudaro komunalinių atliekų tvarkymo paslaugos teikimo sutartį ne vėliau kaip per 14 kalendorinių dienų nuo prašymo gavimo dienos, jeigu aptartos sąlygos atitinka savivaldybės atliekų tvarkymo taisyklėse nustatytus individualių sutarčių sudarymo kriterijus. 
 
 
 
 
-6. Reikalavimai dėl laiku nesumokėtos rinkliavos priteisimo iš rinkliavos mokėtojo nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Dėl laiku nesumokėtos rinkliavos priteisimo gali būti kreipiamasi į apygardos administracinį teismą su pareiškimu dėl teismo įsakymo išdavimo.
-Papildyta straipsnio dalimi:
-Nr. XIII-2433, 2019-09-19, paskelbta TAR 2019-10-01, i. k. 2019-15589
- 
+6. Reikalavimai dėl laiku nesumokėtos rinkliavos priteisimo iš rinkliavos mokėtojo nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 Įstatymas papildytas straipsniu:
 Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 Straipsnio pakeitimai:
-Nr. XII-137, 2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
+Nr. XII-137, 2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31
+Straipsnio pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
  
 
 
 
 
-302 straipsnis. Komunalinių atliekų tvarkymo paslaugų kainodara 
+302 straipsnis. Komunalinių atliekų tvarkymo paslaugų kainodara
 
 
-1. Komunalinių atliekų tvarkymo paslaugų kainodara už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą nustatoma vadovaujantis solidarumo, proporcingumo, nediskriminavimo, sąnaudų susigrąžinimo principais ir atliekų tvarkymo srityje taikomu principu „teršėjas moka“. Solidarumo, proporcingumo, nediskriminavimo, sąnaudų susigrąžinimo principai komunalinių atliekų tvarkymo paslaugų kainodaroje suprantami taip:
+1. Komunalinių atliekų tvarkymo paslaugų kainodara už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą nustatoma vadovaujantis solidarumo, proporcingumo, nediskriminavimo, sąnaudų susigrąžinimo, skaidrumo principais ir atliekų tvarkymo srityje taikomu principu „teršėjas moka“. Solidarumo, proporcingumo, nediskriminavimo, sąnaudų susigrąžinimo, skaidrumo principai komunalinių atliekų tvarkymo paslaugų kainodaroje suprantami taip:
 
 
 1) solidarumo. Šis principas, nustatant rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, reiškia, kad palankesnes sąlygas dėl ekonominių, gyvenamosios vietos, atstumo iki atliekų tvarkymo įrenginių ar kitų priežasčių turintys komunalinių atliekų turėtojai prisideda prie komunalinių atliekų tvarkymo finansavimo, kad būtų sudarytos prieinamos sąlygos naudotis komunalinių atliekų tvarkymo paslaugomis komunalinių atliekų turėtojams, kurie tokių sąlygų neturi ir kuriems rinkliava ar kita įmoka už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą tampa didesne našta;
@@ -2844,55 +3201,738 @@ Nr. XII-137, 2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
 
 
 
-3) nediskriminavimo. Šis principas komunalinių atliekų tvarkymo sistemoje reiškia, kad, nustatant rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą tos pačios kategorijos komunalinių atliekų turėtojams, turi būti taikomi vienodi rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą nustatymo ir apskaičiavimo metodai, tvarka ir dydžiai;
+3) nediskriminavimo. Šis principas komunalinių atliekų tvarkymo sistemoje reiškia, kad, nustatant rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą tos pačios kategorijos komunalinių atliekų turėtojams, turi būti taikomi vienodi rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą nustatymo ir apskaičiavimo metodai, tvarka ir dydis;
 
 
 
 
-4) sąnaudų susigrąžinimo. Šis principas reikalauja, kad už suteiktą paslaugą gautos pajamos padengtų būtinąsias su komunalinių atliekų tvarkymu susijusias sąnaudas, reikalingas tai paslaugai teikti. Įgyvendinant šį principą, reikia nustatyti tokį rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, kuris užtikrintų, kad komunalinių atliekų turėtojai padengtų būtinąsias su komunalinių atliekų tvarkymu susijusias sąnaudas, kurios patiriamos siekiant užtikrinti, kad komunalinių atliekų tvarkymo sistema atitiktų teisės aktuose nustatytus reikalavimus. 
+4) sąnaudų susigrąžinimo. Šis principas reikalauja, kad už suteiktą paslaugą gautos pajamos padengtų būtinąsias su komunalinių atliekų tvarkymu susijusias sąnaudas, reikalingas tai paslaugai teikti. Įgyvendinant šį principą, reikia nustatyti tokį rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, kuris užtikrintų, kad komunalinių atliekų turėtojai padengtų būtinąsias su komunalinių atliekų tvarkymu susijusias sąnaudas, kurios patiriamos siekiant užtikrinti, kad komunalinių atliekų tvarkymo sistema atitiktų teisės aktuose nustatytus reikalavimus;
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
- 
+
+
+5) skaidrumo. Šio principo įgyvendinimas turi užtikrinti, kad informacija apie rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą nustatymo ir apskaičiavimo metodus, tvarką ir dydį turi būti vieša. 
+
+
 
 
 
 
 2. Komunalinių atliekų tvarkymo paslaugų kaina turi užtikrinti ilgalaikį komunalinėms atliekoms tvarkyti skirtos infrastruktūros eksploatavimą, jos atnaujinimą ir sudaryti komunalinių atliekų turėtojams priimtinas sąlygas dalyvauti tvarkant komunalines atliekas, taip pat mažinti aplinkos taršą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
- 
 
 
 
 
-3. Nustatant rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, turi būti vadovaujamasi Vyriausybės patvirtintomis taisyklėmis. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1590, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04838
- 
+3. Nustatant rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, turi būti vadovaujamasi Vyriausybės patvirtintomis vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą taisyklėmis ir savivaldybių vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio nustatymo teisės aktais.
 
 
 
 
-4. Komunalinių atliekų tvarkymo paslaugų kainą ir įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybė, vadovaudamasi šio straipsnio 1 ir 2 dalyse nurodytais principais.
-Straipsnio dalies pakeitimai:
-Nr. XII-1590, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04838
- 
+4. Rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybės taryba, vadovaudamasi šio straipsnio 1 ir 2 dalyse nurodytais principais ir neviršydama Tarybos nustatyto regioninės kainos dydžio.
 
 
 
 
-5. Savivaldybių nustatytos rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą skelbiamos atitinkamos savivaldybės administracijos interneto svetainėje. 
-Papildyta straipsnio dalimi:
-Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
- 
+5. Savivaldybių tarybų nustatytos rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą skelbiamos atitinkamos savivaldybės interneto svetainėje. 
+
+
+
+
+6. Regioninė kaina, įskaitant protingumo kriterijų atitinkančią investicijų grąžą, grindžiama būtinosiomis su komunalinių atliekų tvarkymu susijusiomis pagrįstomis sąnaudomis, reikalingomis komunalinių atliekų tvarkymo paslaugai suteikti, ilgalaikiam komunalinėms atliekoms tvarkyti skirtų regioninių komunalinių atliekų tvarkymo įrenginių eksploatavimui, jų atnaujinimui, plėtrai užtikrinti, priimtinos komunalinių atliekų tvarkymo paslaugos teikimo užtikrinimui ir aplinkos taršos mažinimui. Į būtinąsias su komunalinių atliekų tvarkymu susijusias sąnaudas neįskaičiuojama komunalinių atliekų tvarkymo administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudos bei komunalinių atliekų surinkimo ir vežimo iš atliekų turėtojų paslaugų kaina. Nustatant regioninės kainos būtinąsias sąnaudas, įvertinama ir atskirų komunalinių atliekų tvarkymo paslaugų sutartys, būtinos investicijos ir atidėjinių sąvartynų uždarymui poreikis nenutrūkstamam ir aplinkosauginius reikalavimus atitinkančiam komunalinių atliekų tvarkymui užtikrinti. Regioninio atliekų tvarkymo centro atliekų deginimo sąnaudos, patiriamos atsiskaitant su bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytoju už po rūšiavimo likusias netinkamas perdirbti ar kitaip panaudoti energinę vertę turinčias sudegintas komunalines atliekas, pripažįstamos būtinosiomis sąnaudomis. Pareiga pagrįsti, kad regioninė kaina grindžiama būtinosiomis sąnaudomis, tenka regioniniam atliekų tvarkymo centrui.
+
+
+
+
+7. Regioninės kainos projekto rengimo etapai:
+
+
+1) regioniniai atliekų tvarkymo centrai, vadovaudamiesi šio straipsnio 1 ir 2 dalyse nustatytais principais ir Tarybos patvirtinta Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodika, likus ne mažiau kaip 5 mėnesiams iki regioninės kainos galiojimo termino pabaigos, parengia ir Tarybai pateikia regioninės kainos apskaičiavimo projektą;
+
+
+
+
+2) regioniniams atliekų tvarkymo centrams rengiant regioninės kainos apskaičiavimo projektus, savivaldybės privalo suteikti visą jiems reikalingą informaciją;
+
+
+
+
+3) su teikiamais derinti regioninių kainų apskaičiavimo projektais regioniniai atliekų tvarkymo centrai pateikia regioninių kainų apskaičiavimo projektų pagrindimą ir veiklos planus, atsižvelgdami į Tarybos patvirtintą Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodiką. Regioninės kainos apskaičiavimo projekto kopija teikiama komunalinių atliekų tvarkymo regiono savivaldybėms tuo pačiu metu kaip ir Tarybai, kurios ne vėliau kaip per 2 mėnesius nuo regioninės kainos apskaičiavimo projekto gavimo dienos pateikia pastabas regioniniams atliekų tvarkymo centrams ir Tarybai;
+
+
+
+
+4) Taryba, per 5 mėnesius nuo regioninio atliekų tvarkymo centro visų tinkamų duomenų ir (arba) dokumentų pateikimo dienos išnagrinėjusi regioninės kainos apskaičiavimo projektą, nustato naują konkretaus regiono regioninę kainą. Tarybai nepatvirtinus naujos regioninės kainos per numatytą terminą, lieka galioti ankstesnė patvirtina regioninė kaina. Tarybos patvirtinta regioninė kaina galioja ne trumpiau kaip 3 metus iki naujos Tarybos sprendimu patvirtintos regioninės kainos įsigaliojimo;
+
+
+
+
+5) Taryba turi teisę grąžinti papildyti regioninės kainos apskaičiavimo projektą regioniniam atliekų tvarkymo centrui tais atvejais, kai Tarybai pateiktame regioninės kainos apskaičiavimo projekte regioninė kaina apskaičiuota nesilaikant regioninės kainos nustatymo reikalavimų, nustatytų Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodikoje, ir (arba) yra klaidinga. 
+
+
+
+
+
+
+8. Prireikus Tarybos nustatytos regioninės kainos gali būti koreguojamos kartą per metus. Regioninis atliekų tvarkymo centras regioninės kainos perskaičiavimo projektą, parengtą vadovaujantis Tarybos patvirtinta Komunalinių atliekų tvarkymo regioninių kainų nustatymo metodika, Tarybai pateikia likus ne mažiau kaip 3 mėnesiams iki datos, kai buvo patvirtinta galiojanti regioninė kaina.
+
+
+
+
+9. Tarybos patvirtintos galiojančios regioninės kainos yra skelbiamos Tarybos interneto svetainėje ir kitomis priemonėmis.
+
+
+
+
+10. Savivaldybių tarybos, atsižvelgdamos į Tarybos nustatytas regionines kainas ir vadovaudamosi Vyriausybės patvirtintomis vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą taisyklėmis ir savivaldybių vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio nustatymo teisės aktais, pridėdamos savivaldybės komunalinių atliekų tvarkymo administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudas ir komunalinių atliekų surinkimo iš atliekų turėtojų ir vežimo paslaugų kainą, ne vėliau kaip per 3 mėnesius nuo regioninių kainų patvirtinimo patvirtina naujus arba patvirtina esamus rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžius. Savivaldybių tarybos, patvirtindamos naujus arba patvirtindamos esamus rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžius, turi įvertinti, ar jų mokama suma už paslaugas neviršys vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Savivaldybės, įgyvendindamos šią nuostatą, turi atsižvelgti į Lietuvos statistikos departamento naujausių kalendorinių metų duomenis apie tos apskrities vidutines disponuojamąsias pajamas per mėnesį. Jeigu apskaičiuotas rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydis už atliekų tvarkymo paslaugas viršija vieną procentą vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų, savivaldybės iš naujo turi įvertinti komunalinių atliekų tvarkymo administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudas ir perskaičiuoti rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydį, kad jis neviršytų vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Patvirtinti nauji rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžiai taikomi nuo artimiausio mokestinio laikotarpio pradžios. Jeigu savivaldybės taryba per šioje dalyje nurodytą terminą nepatvirtina naujų arba nepatvirtina esamų rinkliavos ar kitos įmokos už atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžių, taikomi rinkliavos ar kitos įmokos už atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžiai, galioję iki naujų apskaičiuotų regioninių kainų dydžių. Patvirtinus naujus rinkliavos ar kitos įmokos už atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžius, atliekų turėtojams (fiziniams asmenims) susidariusį skirtumą savivaldybės kompensuoja iš savivaldybių biudžetų lėšų.
+
+
+
+
+11. Savivaldybės privalo užtikrinti, kad patvirtinti nauji rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą, kurią moka atliekų turėtojai (fiziniai asmenys) kiekvieną mėnesį už paslaugas, dydžiai neviršys vieno procento vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų. Savivaldybė, vadovaudamasi savivaldybės parengtais ir patvirtintais vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą teisės aktais, turi atlikti vertinimą, ar patvirtinus naujus rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą dydžius, šie dydžiai neviršys vieno procento vidutinių mėnesio namų ūkio pajamų. Toks vertinimas atliekamas atsižvelgiant į savivaldybės teritorijoje gyvenančių fizinių asmenų vidutines statistines mėnesio namų ūkio pajamas ir atliekų turėtojų (fizinių asmenų) per mėnesį mokamos rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio už atliekų tvarkytojo suteiktas paslaugas sumą. Savivaldybė, nustačiusi, kad nauja rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą mokama suma už šias paslaugas viršys vieną procentą vidutinių mėnesio statistinių savivaldybės namų ūkio pajamų, turi imtis veiksmų sumažinti komunalinių atliekų tvarkymo sąnaudas. 
+
+
+
+
+12. Taikant rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų (fizinių asmenų) ir atliekų tvarkymą savivaldybėje, turi būti užtikrinamas savivaldybėje surenkamų komunalinių atliekų tvarkymo sąnaudų, apskaičiuojamų pagal galiojančią regioninę kainą, kompensavimas regioniniam atliekų tvarkymo centrui ir atliekų surinkėjams. Savivaldybės taryba gali teikti lengvatas atliekų turėtojams (fiziniams asmenims) savivaldybės biudžeto sąskaita. Lengvatos atliekų turėtojams teikiamos savivaldybės tarybos nustatyta tvarka.
+
+
+
+
+13. Atliekų turėtojai su savivaldybe ar juridiniu asmeniu, atliekančiu komunalinių atliekų tvarkymo lėšų administravimo funkciją, atsiskaito mokėdami nustatytą rinkliavą ar kitą įmoką už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, vadovaudamiesi:
+
+
+1) Lietuvos Respublikos rinkliavų įstatymo nuostatomis, jeigu savivaldybės teritorijoje taikoma rinkliava už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą;
+
+
+
+
+2) sudarytomis sutartimis, jeigu savivaldybės teritorijoje taikoma rinkliava už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą. 
+
+
+
+
+
+
+14. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai taiko komunalinių atliekų deginimo vienos tonos įkainį už regioninio atliekų tvarkymo centro sudegintas po rūšiavimo likusias netinkamas perdirbti ar kitaip panaudoti energinę vertę turinčias komunalines atliekas. Visais atvejais bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų taikomas komunalinių atliekų deginimo vienos tonos įkainis negali viršyti pagal šio straipsnio 16 dalį nustatytos komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos.
+
+
+
+
+15. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai, vadovaudamiesi Tarybos patvirtinta Po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodika, parengia ir Tarybai pateikia komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą. Taryba, per 5 mėnesius nuo visų tinkamų duomenų ir (ar) dokumentų pateikimo dienos, išnagrinėjusi komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą, nustato komunalinių atliekų deginimo vienos tonos įkainio viršutinę ribą konkrečiam bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui. Komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektas Tarybai turi būti pateiktas likus ne mažiau kaip 5 mėnesiams iki galiojančio įkainio viršutinės ribos termino galiojimo pabaigos. Taryba privalo grąžinti papildyti komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui tais atvejais, kai Tarybai pateikta komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba yra apskaičiuota nesilaikant komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo reikalavimų, nustatytų Po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodikoje, ir (arba) yra klaidingas.
+
+
+
+
+16. Komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba nustatoma atsižvelgiant į aplinkosauginius reikalavimus bei alternatyvius atliekų šalinimo būdus ir yra pagrįsta būtinosiomis komunalinių atliekų deginimo sąnaudomis. Būtinosios komunalinių atliekų deginimo sąnaudos nustatomos atsižvelgiant į bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų išlaikymo sąnaudas, protingumo kriterijų atitinkančią investicijų grąžą. Pareiga pagrįsti, kad komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba grindžiama būtinosiomis komunalinių atliekų deginimo sąnaudomis, tenka bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui.
+
+
+
+
+17. Komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba nustatoma ne trumpesniam kaip 3 metų laikotarpiui ir yra koreguojama kartą per metus. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas perskaičiuoto komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos projektą, parengtą vadovaujantis Tarybos patvirtinta Po rūšiavimo likusių, perdirbti ir pakartotinai panaudoti netinkančių energinę vertę turinčių komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos nustatymo metodika, Tarybai pateikia likus ne mažiau kaip 5 mėnesiams iki datos, kai buvo patvirtinta galiojanti komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba. Taryba, per 5 mėnesius nuo visų tinkamų duomenų ir (ar) dokumentų pateikimo dienos išnagrinėjusi komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą, tvirtina perskaičiuotą komunalinių atliekų deginimo vienos tonos įkainio viršutinę ribą.
+
+
+
+
+18. Tarybos nutarimas dėl komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos oficialiai skelbiamas Teisės aktų registre, o juo nustatyta komunalinių atliekų deginimo vienos tonos įkainio viršutinė riba įsigalioja nuo kito mėnesio pirmosios dienos.
 
 
 Įstatymas papildytas straipsniu:
 Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 Straipsnio pakeitimai:
 Nr. XII-137, 2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
+Straipsnio pakeitimai:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+303 straipsnis. Regioninių atliekų tvarkymo centrų funkcijos
+
+
+Regioniniai atliekų tvarkymo centrai atlieka šias komunalinių atliekų tvarkymo sistemos administravimo funkcijas:
+
+
+1) atlieka komunalinių atliekų tvarkymo sistemos administravimo funkcijas, jeigu jas paveda savivaldybės;
+
+
+
+
+2) vykdo komunalinių atliekų tvarkymo lėšų administravimo veiklą, jeigu tai paveda savivaldybės;
+
+
+
+
+3) savivaldybių pavedimu vykdo regioninių komunalinių atliekų tvarkymo įrenginių valdymą;
+
+
+
+
+4) organizuoja atliekų tvarkymo paslaugų teikimą šio Įstatymo 302 straipsnyje nustatyta tvarka apskaičiuotomis kainomis, jeigu šias paslaugas paveda savivaldybės;
+
+
+
+
+5) rengia ir teikia Tarybai regioninės kainos apskaičiavimo projektą bei dokumentus ir informaciją, reikalingą teisės aktų nustatytoms pareigoms atlikti;
+
+
+
+
+6) rengia reguliuojamosios veiklos ataskaitas, užtikrina, kad būtų atliktos reguliuojamosios veiklos ataskaitų ir reguliuojamosios veiklos apskaitos sistemos patikros vadovaujantis šio Įstatymo 306 straipsnio nuostatomis;
+
+
+
+
+7) viešai skelbia informaciją, nurodytą šio Įstatymo 311 straipsnyje;
+
+
+
+
+8) teikia valstybės ir savivaldybių institucijoms informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms atlikti;
+
+
+
+
+9) derina regioninės kainos apskaičiavimo projektą su komunalinių atliekų tvarkymo regiono savivaldybėmis šio Įstatymo 302 straipsnio 7 dalyje numatyta tvarka; 
+
+
+
+
+10) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+304 straipsnis. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų funkcijos
+
+
+Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai atlieka šias funkcijas:
+
+
+1) eksploatuoja bendro atliekų deginimo įrenginį ir (ar) atliekų deginimo įrenginį;
+
+
+
+
+2) taiko šio Įstatymo 302 straipsnyje nustatyta tvarka nustatytą komunalinių atliekų deginimo vienos tonos įkainį;
+
+
+
+
+3) teikia valstybės ir savivaldybių institucijoms informaciją, reikalingą įstatymų ir teisės aktų nustatytoms pareigoms atlikti;
+
+
+
+
+4) rengia ir teikia Tarybai komunalinių atliekų deginimo vienos tonos įkainio viršutinės ribos apskaičiavimo projektą bei dokumentus ir informaciją, reikalingą teisės aktų nustatytoms pareigoms atlikti;
+
+
+
+
+5) rengia reguliuojamosios veiklos ataskaitas, užtikrina, kad būtų atliktos reguliuojamosios veiklos ataskaitų ir reguliuojamosios veiklos apskaitos sistemos patikros, vadovaudamiesi šio Įstatymo 306 straipsnio nuostatomis;
+
+
+
+
+6) viešai skelbia informaciją, nurodytą šio Įstatymo 311 straipsnyje;
+
+
+
+
+7) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+305 straipsnis. Komunalinių atliekų tvarkymo lėšų administravimas
+
+
+1. Komunalinių atliekų tvarkymo lėšų administravimas apima šias funkcijas, jeigu jas paveda savivaldybė:
+
+
+1) sutarčių pasirašymą su komunalinių atliekų turėtojais;
+
+
+
+
+2) rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą surinkimą;
+
+
+
+
+3) komunalinių atliekų tvarkymo lėšų išmokėjimą komunalinių atliekų tvarkymo paslaugų teikėjams;
+
+
+
+
+4) komunalinių atliekų tvarkymo lėšų apskaitą, tvarkomą atskirai nuo kitų savo vykdomų veiklų, pagal kiekvieną komunalinių atliekų tvarkymo paslaugas teikiantį teikėją ir kiekvieną lėšas gaunantį subjektą;
+
+
+
+
+5) viešą informacijos teikimą apie į apskaitą įtrauktas ir išmokėtas komunalinių atliekų tvarkymo lėšas;
+
+
+
+
+6) komunalinių atliekų tvarkymo lėšų administravimo mažiausiomis sąnaudomis užtikrinimą.
+
+
+
+
+
+
+2. Komunalinių atliekų tvarkymo lėšų administravimo sąnaudomis laikomos juridinio asmens, savivaldybės pavedimu atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, sąnaudos, patirtos apskaičiuojant ir surenkant įmokas už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, išrašant sąskaitas už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, darbuotojų atlyginimų ir biuro eksploatavimo sąnaudos, susijusios su komunalinių atliekų tvarkymo lėšų administravimo funkcijomis.
+
+
+
+
+3. Komunalinių atliekų tvarkymo sistemos administratoriui nepavestas komunalinių atliekų tvarkymo lėšų administravimo funkcijas savivaldybė atlieka pati įstatymų nustatyta tvarka.
+
+
+
+
+4. Rinkliava ar kita įmoka už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą, nustatyta vadovaujantis Vyriausybės patvirtintomis vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą taisyklėmis ir savivaldybių vietinės rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio nustatymo teisės aktais, yra privaloma visiems atliekų turėtojams. 
+
+
+
+
+5. Rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą lėšos gali būti naudojamos tik komunalinių atliekų tvarkymo būtinosioms sąnaudoms, susijusioms su naudojimu, šalinimu, šių veiklų organizavimu, stebėsena, šalinimo vietų vėlesne priežiūra, finansuoti ir komunalinių atliekų tvarkymo lėšų administravimo sąnaudoms padengti.
+
+
+Papildyta straipsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+306 straipsnis. Reguliuojamosios veiklos ataskaitų ir reguliuojamosios veiklos apskaitos sistemos patikra
+
+
+1. Regioniniai atliekų tvarkymo centrai ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai, vadovaudamiesi šiame įstatyme, kituose teisės aktuose nustatyta tvarka, užtikrina reguliuojamosios veiklos komunalinių atliekų tvarkymo sektoriuje efektyvumą ir sąnaudų pagrįstumą.
+
+
+
+
+2. Regioninis atliekų tvarkymo centras ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas privalo užtikrinti, kad pasibaigus kiekvieniems finansiniams metams per 4 mėnesius būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl ataskaitų atitikties Tarybos patvirtintiems apskaitos atskyrimo ir sąnaudų paskirstymo reikalavimams ir (ar) metodui, ir (ar) modeliui ir reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada pateiktos Tarybai. 
+
+
+
+
+3. Taryba gali nustatyti reikalavimą regioniniam atliekų tvarkymo centrui ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui ne ilgiau kaip per 6 mėnesius atlikti reguliuojamosios veiklos apskaitos sistemos patikrą dėl jos atitikties reguliuojamąją veiklą reglamentuojančių teisės aktų reikalavimams. 
+
+
+
+
+4. Reguliuojamosios veiklos ataskaitų patikra ir reguliuojamosios veiklos apskaitos sistemos patikra atliekamos vadovaujantis Tarybos patvirtinta technine užduotimi. Taryba, rengdama techninę užduotį, konsultuojasi su Lietuvos auditorių rūmais. 
+
+
+
+
+5. Regioniniai atliekų tvarkymo centrai ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai reguliuojamosios veiklos apskaitos sistemos patikros ataskaitą ir (ar) išvadą per 10 darbo dienų nuo patikros atlikimo pateikia Tarybai.
+
+
+
+
+6. Reguliuojamosios veiklos ataskaitų patikrą ir (ar) reguliuojamosios veiklos apskaitos sistemos patikrą gali atlikti auditorius, audito įmonė, turintys teisę atlikti finansinių ataskaitų auditą Lietuvos Respublikos finansinių ataskaitų audito įstatymo nustatyta tvarka.
+
+
+
+
+7. Jeigu Taryba turi informacijos ar Tarybai kyla pagrįstų įtarimų dėl netinkamai atliktos reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliuojamosios veiklos apskaitos sistemos patikros, Vyriausybės įgaliota atlikti auditorių ir audito įmonių viešąją priežiūrą įstaiga pagal Finansinių ataskaitų audito įstatymą atlieka reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliuojamosios veiklos apskaitos sistemos patikros kokybės tyrimą ir parengia tyrimo ataskaitą. Jeigu tyrimo ataskaitoje nurodyta, kad asmuo, atlikdamas atitinkamą patikrą, nesilaikė tokiai patikrai techninėje užduotyje nurodytų privalomų taikyti profesinių standartų, tos patikros sąnaudos negali būti pripažintos pagrįstomis sąnaudomis nustatant valstybės reguliuojamąsias kainas ir Taryba įpareigoja regioninį atliekų tvarkymo centrą ar bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytoją ne ilgiau kaip per 6 mėnesius atlikti pakartotinę reguliuojamosios veiklos ataskaitų patikrą ir (ar) pakartotinę reguliuojamosios veiklos apskaitos sistemos patikrą šio Įstatymo nustatyta tvarka. Su šiuo patikrinimu susijusios išlaidos gali būti pripažįstamos pagrįstomis būtinosiomis sąnaudomis nustatant regioninę kainą. 
+
+
+
+
+8. Taryba šio Įstatymo 251 straipsnyje numatytoms funkcijoms atlikti turi teisę gauti iš auditoriaus, audito įmonės, atlikusių reguliuojamosios veiklos ataskaitų patikrą ir (ar) reguliuojamosios veiklos apskaitos sistemos patikrą, paaiškinimus, susijusius su atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliuojamosios veiklos apskaitos sistemos patikra, paaiškinimus pagrindžiančius duomenis ir dokumentus. 
+
+
+Papildyta straipsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+307 straipsnis. Investicijų derinimas 
+
+
+1. Bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai investicijas, susijusias su komunalinių atliekų deginimu, teikia derinti Tarybai jos nustatyta tvarka. Jeigu šios bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų investicijos nėra suderintos su Taryba, jos negali būti pripažintos pagrįstomis būtinosiomis sąnaudomis valstybės reguliuojamosioms kainoms nustatyti. 
+
+
+
+
+2. Regioniniai atliekų tvarkymo centrai investicijas, susijusias su komunalinių atliekų tvarkymu, numato įmonių veiklos strategijose, tvirtinamose Lietuvos Respublikos akcinių bendrovių įstatyme ar įmonės įstatuose, kai įmonei netaikomas Akcinių bendrovių įstatymas, nustatyta tvarka, ir teikia jas derinti Tarybai jos nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+308 straipsnis. Regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų reguliuojamosios veiklos patikrinimai
+
+
+1. Taryba, vadovaudamasi šio Įstatymo ir Lietuvos Respublikos viešojo administravimo įstatymo nuostatomis, prižiūrėdama, kaip regioniniai atliekų tvarkymo centrai, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai vykdo reguliuojamąją veiklą, turi teisę atlikti regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų veiklos patikrinimus. Atlikdama patikrinimus, Taryba turi teisę:
+
+
+1) pagal šio ir kitų įstatymų nustatytas sąlygas ir procedūras gauti visą patikrinimui atlikti būtiną ir reikalingą informaciją, duomenis, dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus;
+
+
+
+
+2) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamo regioninio atliekų tvarkymo centro ar bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo veikla, reikalauti, kad jie atvyktų į Tarybos patalpas pateikti paaiškinimų;
+
+
+
+
+3) gauti patikrinimui atlikti būtiną informaciją ir dokumentus, jų kopijas apie juridinių asmenų turtą ir pajamas, ūkines, finansines ir kitas operacijas iš valstybės ir savivaldybės institucijų, taip pat iš Lietuvos banko, komercinių bankų ir kitų kredito bei finansinių įstaigų, auditorių, kitų juridinių asmenų, nepaisant to, ar informacija laikoma konfidencialia, ar tokia nelaikoma, gauti informaciją iš valstybės ar kitų juridinių asmenų valdomų ar tvarkomų registrų ar duomenų bazių;
+
+
+
+
+4) pagal patikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas;
+
+
+
+
+5) patikrinimui pasitelkti specialistus ir ekspertus;
+
+
+
+
+6) sudaryti sutartis su audito įmonėmis, auditoriais, kitais juridiniais ar fiziniais asmenimis, kurių paslaugomis Taryba naudosis atlikdama patikrinimą;
+
+
+
+
+7) atlikdama patikrinimą, naudoti visą Tarybos turimą informaciją, įskaitant ir informaciją, gautą kitų patikrinimų metu;
+
+
+
+
+8) už pažeidimus vykdant reguliuojamąją veiklą skirti baudas;
+
+
+
+
+9) naudotis kitomis įstatymų suteiktomis teisėmis.
+
+
+
+
+
+
+2. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, užtikrindami jiems pavestų uždavinių ir funkcijų vykdymą atliekant patikrinimus, turi šias teises, kurias įgyvendina Tarybos vardu:
+
+
+1) nekliudomai įeiti į regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų naudojamas patalpas ar teritoriją ir atlikti patikrinimo veiksmus juridinių asmenų darbo metu, o ne darbo laiku – jeigu yra pagrįstų įtarimų, kad pažeidžiami įstatymai, dalyvaujant juridinio asmens atstovui, patalpų, teritorijos savininkui ar jų įgaliotajam atstovui. Į kitų juridinių asmenų naudojamas patalpas ar teritoriją Tarybos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, gali patekti tik pateikę teismo išduotą leidimą arba gavę juridinio asmens sutikimą;
+
+
+
+
+2) užfiksuoti faktines aplinkybes;
+
+
+
+
+3) patikrinimo metu naudoti technines priemones;
+
+
+
+
+4) pasitelkti šio straipsnio 1 dalies 5 ir 6 punktuose nurodytus asmenis patikrinimo veiksmams atlikti;
+
+
+
+
+5) tikrinti asmenų tapatybę patvirtinančius dokumentus;
+
+
+
+
+6) savo funkcijoms atlikti teisės aktų nustatyta tvarka pasitelkti teisėsaugos institucijas.
+
+
+
+
+
+
+3. Asmenys, nurodyti šio straipsnio 1 dalies 5 ir 6 punktuose, turi teises, nustatytas šio straipsnio 1 dalies 1, 2 ir 7 punktuose ir 2 dalies 1 punkte.
+
+
+
+
+4. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, prieš atlikdami šiame straipsnyje nurodytus veiksmus, turi pateikti Tarybos išduotą dokumentą, patvirtinantį jų įgaliojimus, patikrinimo tikslus ir terminus.
+
+
+
+
+5. Tikrinamas regioninis atliekų tvarkymo centras ir (ar) bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas privalo:
+
+
+1) paskirti įgaliotus atsakingus asmenis, kurie dalyvautų atliekant patikrinimą ir bendradarbiautų su Taryba;
+
+
+
+
+2) pateikti Tarybai visą patikrinimui atlikti būtiną ir reikalingą informaciją, duomenis ir dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), jų kopijas ir išrašus;
+
+
+
+
+3) teikti žodinius ir rašytinius paaiškinimus, Tarybai pareikalavus, paaiškinimus duoti Tarybos patalpose;
+
+
+
+
+4) sudaryti reikiamas sąlygas patikrinimui atlikti, kai patikrinimas atliekamas regioninio atliekų tvarkymo centro ir (ar) bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo patalpose ar teritorijoje;
+
+
+
+
+5) vykdyti kitus Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, teisėtus reikalavimus.
+
+
+
+
+
+
+6. Tikrinamas regioninis atliekų tvarkymo centras ir (ar) bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas turi teisę:
+
+
+1) informuoti Tarybą apie neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, veiksmus;
+
+
+
+
+2) apskųsti neteisėtus Tarybos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, veiksmus;
+
+
+
+
+3) raštu ir (ar) žodžiu teikti pastabas ir paaiškinimus dėl patikrinimo akte ir jo prieduose nurodytos informacijos;
+
+
+
+
+4) dalyvauti Tarybos posėdyje, kai svarstomas patikrinimo aktas.
+
+
+
+
+
+
+7. Regioninių atliekų tvarkymo centrų ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų reguliuojamosios veiklos patikrinimuose dalyvaujantys kiti juridiniai asmenys šių patikrinimų metu turi teises ir pareigas, nustatytas šio straipsnio 5 dalies  2–5 punktuose ir 6 dalies 1 ir 2 punktuose.
+
+
+
+
+8. Tarybos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, įgyvendindami jiems suteiktas teises, surašo dokumentus. Jų formas patvirtina ir pildymo tvarką nustato Taryba.
+
+
+
+
+9. Tarybos ir jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, reikalavimai, duoti atliekant šiame straipsnyje nurodytus veiksmus, yra privalomi juridiniams ir fiziniams asmenims, kurie privalo bendradarbiauti su Taryba, jos įgaliotais Tarybos administracijos valstybės tarnautojais ir darbuotojais, dirbančiais pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodytais asmenimis. Už reikalavimų nevykdymą, nebendradarbiavimą ar trukdymą atlikti patikrinimo veiksmus taikomos šio ir kitų įstatymų nustatytos sankcijos. Baudos, skirtos regioniniams atliekų tvarkymo centrams, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojams, neįtraukiamos apskaičiuojant regionines kainas ir komunalinių atliekų deginimo vienos tonos įkainio viršutines ribas.
+
+
+
+
+10. Tikrinamas regioninis atliekų tvarkymo centras, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas, juridiniai ir fiziniai asmenys Tarybai, jos įgaliotiems Tarybos administracijos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodytiems asmenims privalo pateikti reikalaujamą informaciją net ir tuo atveju, jeigu tokia informacija sudaro tikrinamo regioninio atliekų tvarkymo centro ir (ar) bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo komercinę (gamybinę) paslaptį arba yra konfidenciali dėl kitų priežasčių. Taryba, jos įgalioti Tarybos administracijos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, ir šio straipsnio 1 dalies 5 ir 6 punktuose nurodyti asmenys privalo užtikrinti regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo, juridinių ir fizinių asmenų jiems pateiktos informacijos konfidencialumą.
+
+
+
+
+11. Šio straipsnio 6 dalies 2 punkte nurodytus neteisėtus veiksmus tikrinamas regioninis atliekų tvarkymo centras, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas turi teisę apskųsti Vilniaus apygardos administraciniam teismui teisės aktų nustatyta tvarka. Neteisėtų veiksmų apskundimas Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, patikrinimui pasitelktų specialistų ar ekspertų atitinkamų veiksmų nesustabdo, jeigu teismas nenusprendžia kitaip.
+
+
+
+
+12. Už šio straipsnio 1 dalies 3, 4, 5 ir 6 punktuose nurodytas paslaugas, jeigu jos pagal galiojančius teisės aktus yra teikiamos atlygintinai, Taryba atsiskaito teisės aktų nustatyta tvarka.
+
+
+
+
+13. Lietuvos bankas, komerciniai bankai ar kitos kredito ir finansų įstaigos šio straipsnio 1 dalies 3 punkte nurodytą informaciją Tarybai teikia teisės aktų nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+309 straipsnis. Sankcijos ir jų taikymo tvarka
+
+
+1. Regioniniams atliekų tvarkymo centrams, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojams už pažeidimus vykdant reguliuojamąją veiklą, užtikrinant atitiktį Tarybos teisės aktų nustatytiems reikalavimams Taryba skiria baudas:
+
+
+1) už viešai privalomos skelbti informacijos apie regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo reguliuojamąją veiklą nepaskelbimą, už teisės aktuose nustatytos informacijos nepateikimą šio Įstatymo 251 straipsnio 2 dalyje, 301 straipsnio 2 dalyje ir 308 straipsnio 1 dalyje nurodytiems asmenims, taip pat už neteisingos ar ne visos informacijos pateikimą – iki 10 procentų regioninio atliekų tvarkymo centro ar bendro atliekų deginimo ir (ar) atliekų deginimo įrenginio valdytojo metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas;
+
+
+
+
+2) už Tarybos teisės aktų nustatytų reguliuojamosios veiklos sąlygų pažeidimą arba jų nevykdymą, už Tarybos įpareigojimų (nurodymų) nevykdymą arba vykdymą ne laiku – iki 10 procentų regioninio atliekų tvarkymo centro ar bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas; 
+
+
+
+
+3) regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui už Tarybos, jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, ar asmenų, nurodytų šio Įstatymo 308 straipsnio 1 dalies 5 ir 6 punktuose, reikalavimų, duotų atliekant šio Įstatymo 308 straipsnyje nurodytus veiksmus, nevykdymą – iki 0,5 procento regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo metinių pajamų, gautų praėjusiais finansiniais metais. Kitiems juridiniams asmenims už šioje dalyje nurodytus pažeidimus Taryba skiria baudą iki 6 000 eurų.
+
+
+
+
+
+
+2. Tais atvejais, kai nesąžiningos konkurencijos veiksmus ar vartotojų nediskriminavimo principų pažeidimą komunalinių atliekų tvarkymo sektoriuje pagal kompetenciją tiria Konkurencijos taryba, šių veiksmų tyrimas atliekamas, privalomi nurodymai regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui duodami ir atsakomybė už pažeidimus nustatoma Lietuvos Respublikos konkurencijos įstatymo nustatyta tvarka ir sąlygomis. Šiuo tikslu Taryba ir Konkurencijos taryba bendradarbiauja tarpusavyje, siekdamos efektyviai nustatyti nesąžiningos konkurencijos veiksmų ar vartotojų nediskriminavimo principų pažeidimų komunalinių atliekų tvarkymo sektoriuje mastą ir poveikį komunalinių atliekų tvarkymo paslaugos vartotojams ir (ar) kitiems regioniniams atliekų tvarkymo centrams, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojams. Regioniniai atliekų tvarkymo centrai, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai už tuos pačius pažeidimus atsako tik pagal šį įstatymą arba pagal Konkurencijos įstatymą, atsižvelgiant į nustatytą Tarybos ar Konkurencijos tarybos kompetenciją. 
+
+
+
+
+3. Taryba, skirdama baudą, kartu nustato protingą terminą, ne ilgesnį kaip 2 mėnesiai, pažeidimui pašalinti, jeigu pažeidimo pašalinimas yra objektyviai įmanomas. Jeigu pažeidimas yra mažareikšmis, Taryba, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos. 
+
+
+
+
+4. Regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui skiriamos sankcijos atsižvelgiant į: 
+
+
+1) pažeidimo pavojingumą;
+
+
+
+
+2) pažeidimo trukmę;
+
+
+
+
+3) pažeidimo pasekmes;
+
+
+
+
+4) regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo atsakomybę lengvinančias ar sunkinančias aplinkybes.
+
+
+
+
+
+
+5. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad regioninis atliekų tvarkymo centras, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas:
+
+
+1) savo noru užkirto kelią žalingiems pažeidimo padariniams;
+
+
+
+
+2) padėjo išaiškinti pažeidimo aplinkybes;
+
+
+
+
+3) nedelsdami ėmėsi priemonių pažeidimui pašalinti. 
+
+
+
+
+
+
+6. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad regioninis atliekų tvarkymo centras, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojas:
+
+
+1) kliudė nustatyti pažeidimo aplinkybes;
+
+
+
+
+2) slėpė padarytą pažeidimą;
+
+
+
+
+3) tęsė pažeidimą, nepaisydami Tarybos nurodymo nutraukti neteisėtą veiklą, arba padarė pažeidimą, dėl kurio šiam regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui per paskutinius 12 mėnesių buvo skirta sankcija (įspėjimas, bauda). 
+
+
+
+
+
+
+7. Taryba, nustatydama sankciją, atsakomybę lengvinančiomis aplinkybėmis gali pripažinti ir kitas šiame Įstatyme nenurodytas aplinkybes.
+
+
+
+
+8. Skiriamos sankcijos nustatomos įvertinus šio straipsnio 4 dalies 1, 2 ir 3 punktuose nurodytas aplinkybes. Nustatytos sankcijos mažinamos, jeigu yra atsakomybę lengvinančių aplinkybių, arba didinamos, jeigu yra atsakomybę sunkinančių aplinkybių. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, sankcijos nustatomos atsižvelgiant į jų kiekį ir reikšmingumą. 
+
+
+
+
+9. Įtraukus sankcijos skyrimo klausimą į Tarybos posėdžio darbotvarkę, apie posėdžio datą ir laiką asmeniui, dėl kurio veiksmų yra pradėta sankcijos skyrimo procedūra, pranešama raštu. Nustatant sankcijos skyrimo svarstymo datą, turi būti suteikta teisė asmeniui pateikti paaiškinimus ne trumpiau kaip per 14 darbo dienų iki sankcijos skyrimo klausimo svarstymo datos. Kai Taryba svarsto sankcijos skyrimo klausimą, dalyvauja regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo vadovas ir (ar) jo įgaliotas atstovas, kurie turi teisę būti išklausyti ir duoti paaiškinimus. Jeigu šie asmenys nedalyvauja, sankcijos skyrimo klausimas gali būti nagrinėjamas tik tais atvejais, kai yra duomenų, kad šiems asmenims buvo laiku pranešta apie šio klausimo nagrinėjimo vietą ir laiką, ir negautas jų pagrįstas (nurodant priežastis) prašymas atidėti klausimo nagrinėjimą, arba, nors ir yra gautas prašymas atidėti klausimo nagrinėjimą, Taryba pripažįsta neatvykimo į klausimo nagrinėjimą priežastis nesvarbiomis, atmeta asmens prašymą atidėti klausimo nagrinėjimą. 
+
+
+
+
+10. Tarybos sprendimas dėl sankcijos skyrimo turi būti priimtas per 6 mėnesius nuo pažeidimo nustatymo dienos. Tęstinio pažeidimo atveju sankcija gali būti paskirta ne vėliau kaip per 6 mėnesius nuo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip 5 metai, sankcijos negali būti skiriamos.
+
+
+
+
+11. Už tą patį pažeidimą gali būti skiriama tik viena sankcija. Sankcijos skyrimas neatleidžia nuo pareigos, už kurios nevykdymą paskirta sankcija, vykdymo.
+
+
+
+
+12. Tarybos paskirta bauda į valstybės biudžetą sumokama Tarybos nustatyta tvarka ir terminais.
+
+
+
+
+13. Tarybos sprendimas dėl sankcijos skyrimo per 30 kalendorinių dienų nuo jo priėmimo dienos gali būti skundžiamas teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+14. Tarybos sprendimas dėl baudos skyrimo įsigalioja po 30 kalendorinių dienų nuo jo priėmimo dienos, jeigu per šį laiką įstatymų nustatyta tvarka sprendimas nebuvo apskųstas teismui. Tuo atveju, jeigu Taryba sprendimu ne tik skiria sankciją, bet ir nustato įpareigojimus, Tarybos sprendimo dalis dėl įpareigojimų nustatymo įsigalioja sprendimo priėmimo dieną, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data. Tarybos sprendimo dėl įpareigojimų nustatymo apskundimas teismui įpareigojimų vykdymo nesustabdo, jeigu teismas nenusprendžia kitaip. 
+
+
+
+
+15. Tarybos sprendimas dėl sankcijos skyrimo yra vykdomasis dokumentas. Regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų nesumokėta bauda ir palūkanos išieškomos į valstybės biudžetą. Tarybos sprendimas pateikiamas vykdyti antstoliui Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka ne vėliau kaip per vienus metus nuo Tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas tiek laiko, kiek buvo atidėtas baudos mokėjimas ir sustabdytas baudos ir palūkanų priverstinis išieškojimas.
+
+
+
+
+16. Tarybos sprendimo dėl sankcijos skyrimo ir įpareigojimų nustatymo nuorašas asmeniui išsiunčiamas ne vėliau kaip per 3 darbo dienas nuo jo priėmimo. 
+
+
+
+
+17. Sankcijų skyrimo klausimai svarstomi, pažeidimų tyrimo procedūros vykdomos Tarybos sankcijų skyrimo taisyklėse nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
  
 
 
@@ -2926,6 +3966,122 @@ Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
 
 
 
+SEPTINTASIS1 SKIRSNIS
+INFORMACIJOS TEIKIMAS VISUOMENEI, VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJOMS
+ 
+
+
+311 straipsnis. Informacijos teikimas visuomenei, valstybės ir savivaldybių institucijoms
+
+
+1. Informacija apie regioninius atliekų tvarkymo centrus, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojus, juridinį asmenį, savivaldybių pavedimu atliekantį komunalinių atliekų tvarkymo lėšų administravimo funkcijas, komunalinių atliekų tvarkymo paslaugų kokybę, paslaugų teikimo sąlygas ir numatomus sutarčių sąlygų pakeitimus, komunalinių atliekų tvarkymo sistemų eksploatavimą, modernizavimą, plėtrą, renovaciją, investicijas į komunalinių atliekų tvarkymo sistemos plėtrą ir renovaciją, rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, jų struktūrą, vartojimo ginčų neteisminio sprendimo subjektus yra vieša ir skelbiama savivaldybių, regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų, juridinio asmens, savivaldybės pavedimu vykdančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, interneto svetainėse. Savivaldybių, regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų, juridinio asmens, savivaldybės pavedimu vykdančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, interneto svetainėse skelbiama informacija atnaujinama esant pasikeitimams.
+
+
+
+
+2. Regioninių atliekų tvarkymo centrų, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų, juridinio asmens, savivaldybės pavedimu vykdančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, arba savivaldybės informacija apie veiklą, kurios kainos reguliuojamos, yra vieša. Valstybės ir savivaldybių institucijos turi teisę gauti iš regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo, juridinio asmens, savivaldybės pavedimu vykdančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, arba savivaldybės visus finansinės atskaitomybės, kitus dokumentus ir informaciją, reikalingą teisės aktų nustatytoms pareigoms vykdyti.
+
+
+
+
+3. Keičiantis rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžiui, regioniniai atliekų tvarkymo centrai, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai, juridinis asmuo, savivaldybių pavedimu vykdantis komunalinių atliekų tvarkymo lėšų administravimo funkcijas, ir savivaldybė viešai savo interneto svetainėse, taip pat regioniniame laikraštyje ar kitose visuomenės informavimo priemonėse informuoja atliekų turėtojus apie pasikeitusias ir nustatytas rinkliavas ar kitas įmokas už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą.
+
+
+
+
+4. Atliekų turėtojų teises ginančios institucijos teisės aktų nustatyta tvarka turi teisę gauti iš regioninio atliekų tvarkymo centro ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo, juridinio asmens, savivaldybės pavedimu vykdančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, arba savivaldybės informaciją, reikalingą atliekų turėtojų teisėms ginti.
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
+SEPTINTASIS2 SKIRSNIS
+IŠANKSTINĖ GINČŲ SPRENDIMO IR SKUNDŲ NAGRINĖJIMO TVARKA 
+ 
+
+
+312 straipsnis. Ginčų ir skundų sprendimas ne teismo tvarka 
+
+
+1. Ginčų dėl rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio nustatymo sprendimas ne teismo tvarka:
+
+
+1) ginčus dėl rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio bei nustatymo ir ginčus tarp atliekų turėtojo ir juridinio asmens, atliekančio viešosios paslaugos komunalinių atliekų tvarkymo lėšų administravimo funkciją, ne teismo tvarka sprendžia Lietuvos administracinių ginčų komisija;
+
+
+
+
+2) atliekų tvarkytojo, juridinio asmens, atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkciją, skundus dėl rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydžio bei nustatymo sprendžia savivaldybės vykdomoji institucija. 
+
+
+
+
+
+
+2. Taryba ne teismo tvarka nagrinėja tarp bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo ir regioninio atliekų tvarkymo centro kylančius ginčus dėl bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo taikomų komunalinių atliekų deginimo vienos tonos įkainių. Šie ginčai nagrinėjami pagal Tarybos patvirtintas ginčų nagrinėjimo taisykles. 
+
+
+
+
+3. Savivaldybės vykdomosios institucijos, Tarybos procedūriniai sprendimai, priimti nagrinėjant atliekų turėtojo ir regioninio atliekų tvarkymo centro ginčą ar skundą, Tarybos sprendimai, priimti išnagrinėjus regioninio atliekų tvarkymo centro ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo ginčą, sprendimai atsisakyti nagrinėti ginčą ir (ar) skundą, sustabdyti ar nutraukti ginčo ar skundo nagrinėjimą, užkertantys kelią toliau nagrinėti ginčą ar skundą, per 7 kalendorines dienas nuo sprendimo įteikimo suinteresuotam asmeniui dienos gali būti skundžiami bendrosios kompetencijos teismui. Teismo nutartys dėl šioje dalyje nurodytų sprendimų neskundžiamos.
+
+
+
+
+4. Įsigaliojęs savivaldybės vykdomosios institucijos ir Tarybos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas Civilinio proceso kodekso nustatyta tvarka. 
+
+
+
+
+5. Atliekų turėtojas, manantis, kad netenkina teikiamos komunalinių atliekų tvarkymo paslaugos kokybė, pirmiausia privalo raštu kreiptis į savivaldybės vykdomąją instituciją ir nurodyti savo reikalavimus. Neišsprendus šių klausimų savivaldybės vykdomajai institucijai, atliekų turėtojas gali kreiptis į teismą.
+ 
+
+
+
+
+
+
+313 straipsnis. Skundų nagrinėjimas
+
+
+1. Atliekų turėtojų skundus dėl teikiamos komunalinių atliekų tvarkymo paslaugos kokybės, t. y. surinkimo, vežimo, naudojimo ir šalinimo, komunalinių atliekų tvarkymo paslaugų teikimo organizavimo nagrinėja savivaldybės vykdomoji institucija. 
+
+
+
+
+2. Skundus dėl teikiamos komunalinių atliekų tvarkymo paslaugos, susijusios su surinkimu, vežimu, naudojimu ir šalinimu, komunalinių atliekų tvarkymo paslaugų teikimo organizavimu, kokybės tarp atliekų turėtojo ir regioninio atliekų tvarkymo centro ne teismo tvarka sprendžia savivaldybės vykdomoji institucija. Atliekų turėtojo ir juridinio asmens, savivaldybės pavedimu atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, skundų nagrinėjimą organizuoja savivaldybės vykdomoji institucija teisės aktų nustatyta tvarka. Iš sutartinių santykių kylančius atliekų turėtojo ir komunalinių atliekų tvarkymo sistemos administratoriaus skundus dėl komunalinių atliekų tvarkymo paslaugos kokybės sprendžia savivaldybės vykdomoji institucija. Atliekų turėtojas, manantis, kad komunalinių atliekų tvarkymo sistemos administratorius pažeidė jo teises ar teisėtus interesus, susijusius su komunalinių atliekų tvarkymo paslauga, pirmiausia privalo raštu kreiptis į savivaldybės vykdomąją instituciją ir nurodyti savo reikalavimus, išskyrus atvejus, kai atliekų turėtojas tiesiogiai kreipiasi į teismą. Nesutinkant su savivaldybės vykdomosios institucijos priimtu sprendimu arba kai sprendimas per nustatytus terminus nepriimamas, gali būti kreipiamasi į teismą Lietuvos Respublikos teisės aktų nustatyta tvarka.
+
+
+
+
+3. Regioninių atliekų tvarkymo centrų skundus dėl bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo taikomų komunalinių atliekų deginimo vienos tonos įkainių nagrinėja Taryba.
+
+
+
+
+4. Skundai nagrinėjami Viešojo administravimo įstatymo ir Tarybos ar savivaldybės tarybos patvirtintose taisyklėse skundų nagrinėjimo nustatyta tvarka.
+
+
+
+
+5. Savivaldybės vykdomosios institucijos sprendimai, priimti išnagrinėjus skundus tarp atliekų turėtojo ir juridinio asmens, savivaldybės pavedimu atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, Tarybos sprendimai, priimti išnagrinėjus regioninio atliekų tvarkymo centro ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo ginčus, įsigalioja ir yra privalomi vykdyti, jeigu nė viena šalis per 30 kalendorinių dienų nuo savivaldybės vykdomosios institucijos ar Tarybos sprendimo dėl sprendimo priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme Civilinio proceso kodekso nustatyta tvarka, prašydama nagrinėti ginčą ar skundą iš esmės.
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
+
+
+
+
 aštuntasis skirsnis
 ATLIEKŲ TVARKYMO EKONOMINĖS IR FINANSINĖS PRIEMONĖS
  
@@ -2947,6 +4103,29 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 Straipsnio pakeitimai:
 Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
+ 
+
+
+
+
+321 straipsnis. Gamintojo atsakomybės principo taikymas
+
+
+1. Šio Įstatymo aštuntajame1 – aštuntajame6 skirsniuose nurodytiems gaminiams ir pakuotėms yra taikomas gamintojo atsakomybės principas. Tai apima gaminių ar pakuočių atliekų surinkimo, vežimo, atliekų apdorojimo sistemos organizavimą ir (ar) dalyvavimą organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, įskaitant šioms veikloms tenkančių išlaidų finansavimą, Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių vykdymą ir (ar) Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka nustatyto mokesčio mokėjimą už aplinkos teršimą gaminių ar pakuočių atliekomis (kai gamintojai ir importuotojai nevykdo Vyriausybės ar jos įgaliotos institucijos nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių), visuomenės švietimą atliekų prevencijos ir tvarkymo klausimais, informacijos apie gaminius, pakuotes ir jų atliekų tvarkymą šių gaminių naudotojams ir atliekų tvarkytojams teikimą, grąžinamų produktų ir juos panaudojus susidarančių atliekų priėmimą, tvarkymą ir finansinę atsakomybę už tokią veiklą.
+
+
+
+
+2. Gamintojai ir importuotojai, be pareigų, nurodytų šio Įstatymo 341 straipsnio 1 dalyje, 344 straipsnio 1 dalyje, 347 straipsnio 1 dalyje, 3415 straipsnio 1 dalyje, 3418 straipsnio 1 dalyje, 3421 straipsnio 2 dalyje, papildomai pagal kompetenciją turi prisidėti prie Valstybiniame atliekų prevencijos ir tvarkymo plane numatytų atliekų prevencijos ir (ar) tvarkymo kiekybinių ar kokybinių tikslų ir užduočių (pavyzdžiui, atliekų prevencijos, komunalinių atliekų paruošimo pakartotinai naudoti ir (ar) perdirbti, naudojimo, šalinimo sąvartyne) vykdymo ir priemonių, numatytų šiems tikslams ir užduotims pasiekti, įgyvendinimo, jeigu gaminiai ar pakuotės, virtę atliekomis, daro įtaką nustatytų atliekų prevencijos ir (ar) tvarkymo tikslų ir užduočių siekimui.
+
+
+
+
+3. Gamintojų ir importuotojų organizacija, nurodyta šio Įstatymo 3422 straipsnyje, nustatydama įmokų už gaminių atliekų tvarkymą, kurias organizacijai turi mokėti organizacijos nariai ir pavedimo davėjai (toliau – organizacijos įkainiai), dydžius, turi juos diferencijuoti, jeigu įmanoma, atsižvelgdama į gaminio ar gaminių grupės savybes (pavyzdžiui, patvarumą, pataisomumą, tinkamumą pakartotinai naudoti ar perdirbti, pavojingųjų medžiagų kiekį gaminio sudėtyje ir pan.). Aplinkos ministras nustato pagrindinius kriterijus, kuriais remiantis organizacijų įkainių dydžiai diferencijuojami atsižvelgiant į gaminio ar gaminių grupės savybes. 
+
+
+Papildyta straipsniu:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
 
 
@@ -3096,7 +4275,10 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 
 
 
-3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę elektros ir elektroninės įrangos atliekų tvarkymo klausimais: apie reikalavimą atskirti elektros ir elektroninės įrangos atliekas nuo kitų atliekų; elektros ir elektroninėje įrangoje esančias pavojingas medžiagas; netinkamo elektros ir elektroninės įrangos atliekų tvarkymo žalą aplinkai ir žmonių sveikatai; elektros ir elektroninės įrangos atliekų tvarkymo galimybes ir surinkimo vietas ir pan.;
+3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę elektros ir elektroninės įrangos atliekų prevencijos ir tvarkymo klausimais: apie reikalavimą atskirti elektros ir elektroninės įrangos atliekas nuo kitų atliekų; elektros ir elektroninėje įrangoje esančias pavojingąsias medžiagas; netinkamo elektros ir elektroninės įrangos atliekų tvarkymo žalą aplinkai ir visuomenės sveikatai; elektros ir elektroninės įrangos pakartotinio naudojimo, paruošimo pakartotinai naudoti ir kitas atliekų tvarkymo galimybes, surinkimo vietas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -3483,7 +4665,10 @@ EKSPLOATUOTI NETINKAMŲ TRANSPORTO PRIEMONIŲ TVARKYMO YPATUMAI
 
 
 
-4) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę eksploatuoti netinkamų transporto priemonių tvarkymo klausimais: apie transporto priemonėse esančias pavojingas medžiagas; eksploatuoti netinkamų transporto priemonių netinkamo tvarkymo poveikį aplinkai ir žmonių sveikatai; transporto priemonių dalių pakartotinio naudojimo galimybes, eksploatuoti netinkamų transporto priemonių ir jų dalių tvarkymo galimybes. Tokia informacija gali būti pateikiama reklaminėje literatūroje, kuri naudojama parduodant transporto priemones; 
+4) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę eksploatuoti netinkamų transporto priemonių prevencijos ir tvarkymo klausimais: apie transporto priemonėse esančias pavojingąsias medžiagas; eksploatuoti netinkamų transporto priemonių netinkamo tvarkymo poveikį aplinkai ir visuomenės sveikatai; transporto priemonių dalių pakartotinio naudojimo ir paruošimo pakartotinai naudoti galimybes, eksploatuoti netinkamų transporto priemonių ir jų dalių tvarkymo galimybes. Tokia informacija gali būti pateikiama reklaminėje literatūroje, kuri naudojama parduodant transporto priemones;
+Straipsnio punkto pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -3705,7 +4890,10 @@ Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 
 
 
-3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę apie alyvos atliekų keliamą pavojų aplinkai ir šių atliekų tvarkymo galimybes. Tokia informacija gali būti pateikiama įmonės pardavimo, perdavimo dokumentuose, reklaminėje alyvos ar jos produkto medžiagoje, taip pat elektroninėse informavimo priemonėse;
+3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę apie alyvos atliekų keliamą pavojų aplinkai, šių atliekų prevencijos ir tvarkymo galimybes. Tokia informacija gali būti pateikiama įmonės pardavimo, perdavimo dokumentuose, reklaminėje alyvos ar jos produkto medžiagoje, taip pat elektroninėse informavimo priemonėse;
+Straipsnio punkto pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -3794,7 +4982,10 @@ Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 
 
 
-6) aplinkos ministro nustatyta tvarka šviesti ir informuoti vartotojus apie alyvos atliekų keliamą pavojų aplinkai ir šių atliekų tvarkymo galimybes.
+6) aplinkos ministro nustatyta tvarka šviesti ir informuoti vartotojus apie alyvos atliekų keliamą pavojų aplinkai, šių atliekų prevencijos ir tvarkymo galimybes.
+Straipsnio punkto pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -3973,9 +5164,10 @@ BATERIJŲ IR AKUMULIATORIŲ ATLIEKŲ TVARKYMO YPATUMAI
 
 
 
-5) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka šviesti ir informuoti visuomenę baterijų ir akumuliatorių atliekų tvarkymo klausimais: apie baterijose ir akumuliatoriuose esančių medžiagų ir netinkamo baterijų ir akumuliatorių atliekų tvarkymo žalą aplinkai ir žmonių sveikatai, baterijų ir akumuliatorių atliekų tvarkymo sistemas ir surinkimo vietas ir pan.; 
+5) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka šviesti ir informuoti visuomenę baterijų ir akumuliatorių atliekų prevencijos ir tvarkymo klausimais: apie baterijose ir akumuliatoriuose esančių medžiagų ir netinkamo baterijų ir akumuliatorių atliekų tvarkymo žalą aplinkai ir visuomenės sveikatai, baterijų ir akumuliatorių pakartotinio naudojimo ir paruošimo pakartotinai naudoti galimybes, atliekų tvarkymo sistemas, surinkimo vietas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
 
 
@@ -4204,7 +5396,10 @@ APMOKESTINAMŲJŲ GAMINIŲ, IŠSKYRUS BATERIJAS IR AKUMULIATORIUS, ATLIEKŲ TVAR
 
 
 
-3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę apmokestinamųjų gaminių atliekų tvarkymo klausimais: apie netinkamo apmokestinamųjų gaminių atliekų tvarkymo žalą aplinkai ir žmonių sveikatai, apmokestinamųjų gaminių atliekų tvarkymo galimybes ir surinkimo vietas ir pan.;
+3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę apmokestinamųjų gaminių atliekų prevencijos ir tvarkymo klausimais: apie netinkamo apmokestinamųjų gaminių atliekų tvarkymo žalą aplinkai ir visuomenės sveikatai, apmokestinamųjų gaminių pakartotinio naudojimo, paruošimo pakartotinai naudoti, kitas atliekų tvarkymo galimybes, surinkimo vietas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -4563,6 +5758,14 @@ GAMINIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ORGANIZAVIMO LICENCIJAVIMAS
 
 
 
+4. Licencijuojamos veiklos priežiūrą atliekanti institucija, konsultuodamasi su Lietuvos auditorių rūmais, turi kiekvienais metais iki vasario 15 dienos patvirtinti veiklos patikrinimo techninę užduotį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
 
 
 3424 straipsnis. Gaminių ir pakuočių atliekų tvarkymo organizavimo licencijų rūšys
@@ -4674,6 +5877,9 @@ b) atliekų tvarkymo finansavimo schemą, garantuojančią, kad gaminių ar paku
 
 
 c) visuomenės švietimo ir informavimo atliekų prevencijos ir tvarkymo klausimais programą;
+Papunkčio pakeitimai:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
@@ -4820,6 +6026,38 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 11) praėjusių finansinių metų turto, nuosavo kapitalo, finansavimo sumų ir įsipareigojimų balansas turi būti teigiamas;
+
+
+
+
+12) sudaryti šio Įstatymo 3433 straipsnio 2 dalyje nurodytas sutartis bei šiose sutartyse ir šio Įstatymo 3433 straipsnio 3 dalyje nustatyta tvarka finansuoti atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimą ir tvarkymą; 
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+13) sudaryti šio Įstatymo 3436 straipsnio 2 dalyje nurodytas sutartis bei šiose sutartyse ir šio Įstatymo 3436 straipsnio 3 dalyje nustatyta tvarka finansuoti šiukšlių išrinkimą ir tvarkymą; 
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+14) sudaryti šio Įstatymo 3439 straipsnio 2 dalyje nurodytas sutartis bei šiose sutartyse ir šio Įstatymo 3439 straipsnio 3 dalyje nustatyta tvarka finansuoti atliekų, pristatytų į uostų priėmimo įrenginius arba kitas lygiavertes surinkimo sistemas, atskirą surinkimą ir tolesnį tvarkymą; 
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+15) sudaryti Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 42 dalyje nurodytas sutartis bei šiose sutartyse ir Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnio 52 dalyje nustatyta tvarka finansuoti atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimą ir tvarkymą.
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -5368,6 +6606,405 @@ Nr. XI-1892, 2011-12-22, Žin., 2012, Nr. 6-190 (2012-01-10)
 
 
 
+AŠTUNTASIS11 SKIRSNIS
+Vienkartinių plastikinių GAMINIŲ ir žvejybos įrankių, kurių
+sudėtyje yra plastiko, ATLIEKŲ ir šiukšlių TVARKYMO YPATUMAI
+ 
+
+
+3432 straipsnis. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo sistemos dalyvių teisės ir pareigos
+
+
+1. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, gamintojų ir importuotojų pareigos:
+
+
+1) registruotis aplinkos ministro nustatyta tvarka. Gamintojas ar importuotojas laikomas įregistruotu kitą dieną po jo prašymo pateikimo aplinkos ministro įgaliotai institucijai dienos arba nuo prašyme nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po prašymo pateikimo aplinkos ministro įgaliotai institucijai dienos;
+
+
+
+
+2) organizuoti šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai tabako gaminius su filtrais ir (ar) filtrus, parduodamus naudoti kartu su tabako gaminiais, išrinkimo, surinkimo, vežimo, apdorojimo finansavimą;
+
+
+
+
+3) organizuoti į viešas surinkimo sistemas išmestų atliekų, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai tabako gaminius su filtrais ir (ar) filtrus, parduodamus naudoti kartu su tabako gaminiais, surinkimo, vežimo, apdorojimo finansavimą;
+
+
+
+
+4) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų prevencijos ir tvarkymo klausimais: apie esamus daugkartinius alternatyvius gaminius ir jų naudojimo galimybes, pakartotinio naudojimo sistemas, atliekų tvarkymo galimybes, taip pat geriausią tinkamo šių atliekų tvarkymo praktiką, taikomą pagal šio Įstatymo 41 straipsnį, taršos šiukšlėmis ir kitokio netinkamo šių atliekų šalinimo poveikį aplinkai, visų pirma jūros aplinkai, ir nuotekų kanalizacijos tinklui;
+
+
+
+
+5) apmokėti šios dalies 2 ir 3 punktuose nurodyto tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo, apdorojimo išlaidas, taip pat šios dalies 4 punkte nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas, neviršijant šioms paslaugoms ekonomiškai efektyviai teikti būtinų išlaidų;
+
+
+
+
+6) tvarkyti tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, apskaitą ir teikti apskaitos ataskaitas aplinkos ministro nustatyta tvarka.
+
+
+
+
+
+
+2. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, gamintojas ir (ar) importuotojas, įregistravę savo veiklą kitoje valstybėje narėje, privalo paskirti Lietuvos Respublikoje savo veiklą įregistravusį juridinį ar fizinį asmenį įgaliotuoju atstovu, atsakingu už šio straipsnio 1 dalyje nustatytų pareigų vykdymą Lietuvos Respublikoje. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, gamintojas ir (ar) importuotojas su įgaliotuoju atstovu privalo sudaryti pavedimo sutartį.
+
+
+
+
+3. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, gamintojas ir (ar) importuotojas, įregistravę savo veiklą Lietuvos Respublikoje ir, naudodami nuotolinio ryšio priemones, iš Lietuvos Respublikos tiesiogiai atlygintinai perleidžiantys kitos valstybės narės, kurioje nėra įregistravę savo veiklos, vartotojams tabako gaminius su filtrais ir (ar) filtrus, parduodamus naudoti kartu su tabako gaminiais, privalo paskirti toje valstybėje narėje savo veiklą įregistravusį fizinį ar juridinį asmenį įgaliotuoju atstovu, kuris būtų atsakingas už teisės aktuose nustatytų pareigų, susijusių su gamintojo atsakomybės principu, vykdymą tos valstybės narės teritorijoje. Tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, gamintojas ir (ar) importuotojas su įgaliotuoju atstovu privalo sudaryti pavedimo sutartį.
+
+
+
+
+4. Šiame straipsnyje nustatytas pareigas tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, gamintojai ir importuotojai turi teisę vykdyti:
+
+
+1) individualiai – organizuodami po jų Lietuvos Respublikos rinkai pateiktų tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, naudojimo susidariusių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą;
+
+
+
+
+2) kolektyviai – steigdami šio Įstatymo 3433 straipsnyje nurodytą gamintojų ir importuotojų organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir, kaip numatyta šio Įstatymo 3433 straipsnio 1 dalyje, jai pavesdami vykdyti šiame straipsnyje nustatytas pareigas ar organizacijai sutartiniais pagrindais pavesdami vykdyti šiame straipsnyje nustatytas pareigas netapdami organizacijos dalyviais.
+ 
+
+
+
+
+
+
+
+
+3433 straipsnis. Papildomi kolektyvaus tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimo organizavimo reikalavimai
+
+
+1. Siekdami kolektyviai organizuoti tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą, gamintojai ir importuotojai gali steigti šio Įstatymo 3422 straipsnyje nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais ir jai pavesti organizuoti tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą ir vykdyti šio Įstatymo 3432 straipsnio 1 dalies 2, 3, 4, 5 punktuose nustatytas pareigas ar Organizacijai sutartiniais pagrindais pavesti organizuoti tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą bei vykdyti šio Įstatymo 3432 straipsnio 1 dalies 2, 3, 4, 5 punktuose nustatytas pareigas netapdami Organizacijos dalyviais.
+
+
+
+
+2. Siekdama įvykdyti šio Įstatymo 3432 straipsnyje tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti:
+
+
+1) sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, šiukšlių išrinkimo, vykdomo savivaldybės ar jos vardu, surinkimo, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių ar jų vardu vykdomos šiukšlių išrinkimo veiklos sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+
+
+
+
+2) sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, surinkimo savivaldybės organizuojamoje komunalinių atliekų tvarkymo sistemoje, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių atliekų, išmestų į viešas surinkimo sistemas, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, surinkimo, įskaitant tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų infrastruktūrą ir jos veikimą, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių organizuojamos komunalinių atliekų tvarkymo sistemos infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
+
+
+
+
+
+
+3. Organizacija šio straipsnio 2 dalies 1 ir 2 punktuose nurodytas išlaidas turi finansuoti proporcingai pagal tokių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį bei proporcingai jos dalyvių ir jai organizuoti tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos rinkai pateiktų tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, kiekį.
+
+
+
+
+4. Apskaičiuojant tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį, kuriuo remiantis nustatomas šio straipsnio 2 dalyje nurodytas finansavimas, vadovaujamasi aplinkos ministro nustatytais referenciniais skaičiais, apibrėžiančiais, kiek tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais: 
+
+
+1) suvartojama viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.) iš visų Lietuvos Respublikos rinkai pateikiamų; 
+
+
+
+
+2) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), išmetama į viešas surinkimo sistemas (t. y. kiek yra atliekų, išmestų į viešas surinkimo sistemas); 
+
+
+
+
+3) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), netinkamai išmetama (t. y. kiek yra šiukšlių). 
+ 
+
+
+
+
+
+
+
+
+3434 straipsnis. Individualus tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimo organizavimas
+
+
+1. Vykdydami šio Įstatymo 3432 straipsnyje nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą organizuojantys gamintojai ir (ar) importuotojai privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti:
+
+
+1) sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, šiukšlių išrinkimo, vykdomo savivaldybės ar jos vardu, surinkimo, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių ar jų vardu vykdomos šiukšlių išrinkimo veiklos sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka;
+
+
+
+
+2) sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, surinkimo savivaldybės organizuojamoje komunalinių atliekų tvarkymo sistemoje, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių atliekų, išmestų į viešas surinkimo sistemas, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, surinkimo, įskaitant tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų infrastruktūrą ir jos veikimą, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių organizuojamos komunalinių atliekų tvarkymo sistemos infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
+
+
+
+
+
+
+2. Individualiai tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo ir tvarkymo finansavimą organizuojantys gamintojai ir (ar) importuotojai šio straipsnio 1 dalies 1 ir 2 punktuose nurodytas išlaidas turi finansuoti proporcingai pagal tokių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį bei proporcingai jo užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal gamintojo ir (ar) importuotojo deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos rinkai pateiktų tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, kiekį.
+
+
+
+
+3. Apskaičiuojant tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių svorį, kuriuo remiantis nustatomas šio straipsnio 1 dalyje nurodytas finansavimas, vadovaujamasi aplinkos ministro nustatytais referenciniais skaičiais, apibrėžiančiais, kiek tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais: 
+
+
+1) suvartojama viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.) iš visų Lietuvos Respublikos rinkai pateikiamų; 
+
+
+
+
+2) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), išmetama į viešas surinkimo sistemas (t. y. kiek yra atliekų, išmestų į viešas surinkimo sistemas); 
+
+
+
+
+3) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), netinkamai išmetama (t. y. kiek yra šiukšlių).
+ 
+
+
+
+
+
+
+
+
+3435 straipsnis. Drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo sistemos dalyvių teisės ir pareigos
+
+
+1. Drėgnųjų servetėlių ir (ar) oro balionėlių, išskyrus pramoniniam ir kitam profesiniam naudojimui ar paskirčiai skirtus balionus, kurie neplatinami vartotojams, gamintojų ir importuotojų pareigos:
+
+
+1) registruotis aplinkos ministro nustatyta tvarka. Gamintojas ar importuotojas laikomas įregistruotu kitą dieną po jo prašymo pateikimo aplinkos ministro įgaliotai institucijai dienos arba nuo prašyme nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po prašymo pateikimo aplinkos ministro įgaliotai institucijai dienos;
+
+
+
+
+2) organizuoti šiukšlių, kurios susidarė naudojant gamintojų ir importuotojų pateiktas Lietuvos Respublikos rinkai drėgnąsias servetėles ir (ar) oro balionėlius, išrinkimo, surinkimo, vežimo, apdorojimo finansavimą;
+
+
+
+
+3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę drėgnųjų servetėlių ir (ar) oro balionėlių atliekų prevencijos ir tvarkymo klausimais: apie esamus daugkartinius alternatyvius gaminius, pakartotinio naudojimo sistemas, atliekų tvarkymo galimybes, taip pat geriausią tinkamo šių atliekų tvarkymo praktiką, taikomą pagal šio Įstatymo 41 straipsnį, taršos šiukšlėmis ir kitokio netinkamo šių atliekų šalinimo poveikį aplinkai, visų pirma jūros aplinkai, ir nuotekų kanalizacijos tinklui;
+
+
+
+
+4) apmokėti šios dalies 2 punkte nurodyto drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo, surinkimo, vežimo, apdorojimo išlaidas, taip pat šios dalies 3 punkte nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas, neviršijant šioms paslaugoms ekonomiškai efektyviai teikti būtinų išlaidų;
+
+
+
+
+5) tvarkyti drėgnųjų servetėlių ir (ar) oro balionėlių apskaitą ir teikti apskaitos ataskaitas aplinkos ministro nustatyta tvarka.
+
+
+
+
+
+
+2. Drėgnųjų servetėlių ir (ar) oro balionėlių gamintojas ir (ar) importuotojas, įregistravę savo veiklą kitoje valstybėje narėje, privalo paskirti Lietuvos Respublikoje savo veiklą įregistravusį juridinį ar fizinį asmenį įgaliotuoju atstovu, atsakingu už šio straipsnio 1 dalyje nustatytų pareigų vykdymą Lietuvos Respublikoje. Drėgnųjų servetėlių ir (ar) oro balionėlių gamintojas ir (ar) importuotojas su įgaliotuoju atstovu privalo sudaryti pavedimo sutartį.
+
+
+
+
+3. Drėgnųjų servetėlių ir (ar) oro balionėlių gamintojas ir (ar) importuotojas, įregistravę savo veiklą Lietuvos Respublikoje ir, naudodami nuotolinio ryšio priemones, iš Lietuvos Respublikos tiesiogiai atlygintinai perleidžiantys kitos valstybės narės, kurioje nėra įregistravę savo veiklos, vartotojams drėgnąsias servetėles ir (ar) oro balionėlius, privalo paskirti toje valstybėje narėje savo veiklą įregistravusį fizinį ar juridinį asmenį įgaliotuoju atstovu, kuris būtų atsakingas už teisės aktuose nustatytų pareigų, susijusių su gamintojo atsakomybės principu, vykdymą tos valstybės narės teritorijoje. Drėgnųjų servetėlių ir (ar) oro balionėlių gamintojas ir (ar) importuotojas su įgaliotuoju atstovu privalo sudaryti pavedimo sutartį.
+
+
+
+
+4. Šiame straipsnyje nustatytas pareigas drėgnųjų servetėlių ir (ar) oro balionėlių gamintojai ir importuotojai turi teisę vykdyti:
+
+
+1) individualiai – organizuodami po jų Lietuvos Respublikos rinkai pateiktų drėgnųjų servetėlių ir (ar) oro balionėlių naudojimo susidariusių šiukšlių išrinkimo ir tvarkymo finansavimą;
+
+
+
+
+2) kolektyviai – steigdami šio Įstatymo 3436 straipsnyje nurodytą gamintojų ir importuotojų organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir, kaip numatyta šio Įstatymo 3436 straipsnio 1 dalyje, jai pavesdami vykdyti šiame straipsnyje nustatytas pareigas ar organizacijai sutartiniais pagrindais pavesdami vykdyti šiame straipsnyje nustatytas pareigas netapdami organizacijos dalyviais.
+
+
+
+
+
+
+
+
+3436 straipsnis. Papildomi kolektyvaus drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimo organizavimo reikalavimai
+
+
+1. Siekdami kolektyviai organizuoti drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimą, gamintojai ir importuotojai gali steigti šio Įstatymo 3422 straipsnyje nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais ir jai pavesti organizuoti drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimą ir vykdyti šio Įstatymo 3435 straipsnio 1 dalies 2, 3, 4 punktuose nustatytas pareigas ar Organizacijai sutartiniais pagrindais pavesti organizuoti drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimą ir vykdyti šio Įstatymo 3435 straipsnio 1 dalies 2, 3, 4 punktuose nustatytas pareigas netapdami Organizacijos dalyviais.
+
+
+
+
+2. Siekdama įvykdyti šio Įstatymo 3435 straipsnyje drėgnųjų servetėlių ir (ar) oro balionėlių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo, vykdomo savivaldybės ar jos vardu, surinkimo, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių ar jų vardu vykdomos šiukšlių išrinkimo veiklos sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
+
+
+
+
+3. Organizacija šio straipsnio 2 dalyje nurodytas išlaidas turi finansuoti proporcingai pagal tokių šiukšlių svorį bei proporcingai jos dalyvių ir jai organizuoti drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos rinkai pateiktų drėgnųjų servetėlių ir (ar) oro balionėlių kiekį.
+
+
+
+
+4. Apskaičiuojant drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių svorį, kuriuo remiantis nustatomas šio straipsnio 2 dalyje nurodytas finansavimas, vadovaujamasi aplinkos ministro nustatytais referenciniais skaičiais, apibrėžiančiais, kiek drėgnųjų servetėlių ir (ar) oro balionėlių: 
+
+
+1) suvartojama viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.) iš visų Lietuvos Respublikos rinkai pateikiamų; 
+
+
+
+
+2) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), netinkamai išmetama (t. y. kiek yra šiukšlių).
+
+
+
+
+
+
+
+
+3437 straipsnis. Individualus drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimo organizavimas
+
+
+1. Vykdydami šio Įstatymo 3435 straipsnyje nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimą organizuojantys gamintojai ir (ar) importuotojai privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo, vykdomo savivaldybės ar jos vardu, surinkimo, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių ar jų vardu vykdomos šiukšlių išrinkimo veiklos sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
+
+
+
+
+2. Individualiai drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimą organizuojantys gamintojai ir (ar) importuotojai šio straipsnio 1 dalyje nurodytas išlaidas turi finansuoti proporcingai pagal tokių šiukšlių svorį bei proporcingai jo užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal gamintojo ir (ar) importuotojo deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos rinkai pateiktų drėgnųjų servetėlių ir (ar) oro balionėlių kiekį.
+
+
+
+
+3. Apskaičiuojant drėgnųjų servetėlių ir (ar) oro balionėlių šiukšlių svorį, kuriuo remiantis nustatomas šio straipsnio 1 dalyje nurodytas finansavimas, vadovaujamasi aplinkos ministro nustatytais referenciniais skaičiais, apibrėžiančiais, kiek drėgnųjų servetėlių ir (ar) oro balionėlių: 
+
+
+1) suvartojama viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.) iš visų Lietuvos Respublikos rinkai pateikiamų; 
+
+
+
+
+2) jų, suvartotų viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.), netinkamai išmetama (t. y. kiek yra šiukšlių).
+
+
+
+
+
+
+
+
+3438 straipsnis. Žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo sistemos dalyvių teisės ir pareigos
+
+
+1. Žvejybos įrankių, kurių sudėtyje yra plastiko, gamintojų ir importuotojų pareigos:
+
+
+1) registruotis aplinkos ministro nustatyta tvarka. Gamintojas ar importuotojas laikomas įregistruotu kitą dieną po jo prašymo pateikimo aplinkos ministro įgaliotai institucijai dienos arba nuo prašyme nurodytos dienos, jeigu ši diena yra vėlesnė negu kita diena po prašymo pateikimo aplinkos ministro įgaliotai institucijai dienos;
+
+
+
+
+2) organizuoti į atitinkamus uostų priėmimo įrenginius arba į kitas lygiavertes surinkimo sistemas, kurios nepatenka į Jūros aplinkos apsaugos įstatymo taikymo sritį, pristatytų atliekų, kurios susidarė naudojant gamintojų ir importuotojų pateiktus Lietuvos Respublikos rinkai žvejybos įrankius, kurių sudėtyje yra plastiko, atskiro surinkimo, vežimo, apdorojimo finansavimą;
+
+
+
+
+3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų prevencijos ir tvarkymo klausimais: apie esamus daugkartinius alternatyvius gaminius, pakartotinio naudojimo sistemas ir atliekų tvarkymo galimybes, taip pat geriausią tinkamo šių atliekų tvarkymo praktiką, taikomą pagal šio Įstatymo 41 straipsnį, taršos šiukšlėmis ir kitokio netinkamo šių atliekų šalinimo poveikį aplinkai, visų pirma jūros aplinkai;
+
+
+
+
+4) apmokėti šios dalies 2 punkte nurodyto žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų atskiro surinkimo, vežimo, apdorojimo išlaidas, taip pat šios dalies 3 punkte nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas, neviršijant šioms paslaugoms ekonomiškai efektyviai teikti būtinų išlaidų;
+
+
+
+
+5) tvarkyti žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitą ir teikti apskaitos ataskaitas aplinkos ministro nustatyta tvarka;
+
+
+
+
+6) vykdyti Vyriausybės nustatytas žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo užduotis. Vyriausybė nustato minimalų metinį žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų surinkimo perdirbimui rodiklį.
+
+
+
+
+
+
+2. Žvejybos įrankių, kurių sudėtyje yra plastiko, gamintojas ir (ar) importuotojas, įregistravę savo veiklą kitoje valstybėje narėje, privalo paskirti Lietuvos Respublikoje savo veiklą įregistravusį juridinį ar fizinį asmenį įgaliotuoju atstovu, atsakingu už šio straipsnio 1 dalyje nustatytų pareigų vykdymą Lietuvos Respublikoje. Žvejybos įrankių, kurių sudėtyje yra plastiko, gamintojas ir (ar) importuotojas su įgaliotuoju atstovu privalo sudaryti pavedimo sutartį.
+
+
+
+
+3. Žvejybos įrankių, kurių sudėtyje yra plastiko, gamintojas ir (ar) importuotojas, įregistravę savo veiklą Lietuvos Respublikoje ir, naudodami nuotolinio ryšio priemones, iš Lietuvos Respublikos tiesiogiai atlygintinai perleidžiantys kitos valstybės narės, kurioje nėra įregistravę savo veiklos, vartotojams žvejybos įrankius, kurių sudėtyje yra plastiko, privalo paskirti toje valstybėje narėje savo veiklą įregistravusį fizinį ar juridinį asmenį įgaliotuoju atstovu, kuris būtų atsakingas už teisės aktuose nustatytų pareigų, susijusių su gamintojo atsakomybės principu, vykdymą tos valstybės narės teritorijoje. Žvejybos įrankių, kurių sudėtyje yra plastiko, gamintojas ir (ar) importuotojas su įgaliotuoju atstovu privalo sudaryti pavedimo sutartį.
+
+
+
+
+4. Šiame straipsnyje nustatytas pareigas žvejybos įrankių, kurių sudėtyje yra plastiko, gamintojai ir importuotojai turi teisę vykdyti:
+
+
+1) individualiai – organizuodami po jų Lietuvos Respublikos rinkai pateiktų žvejybos įrankių, kurių sudėtyje yra plastiko, naudojimo susidariusių atliekų tvarkymo finansavimą;
+
+
+
+
+2) kolektyviai – steigdami šio Įstatymo 3439 straipsnyje nurodytą gamintojų ir importuotojų organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir, kaip numatyta šio Įstatymo 3439 straipsnio 1 dalyje, jai pavesdami vykdyti šiame straipsnyje nustatytas pareigas ar organizacijai sutartiniais pagrindais pavesdami vykdyti šiame straipsnyje nustatytas pareigas netapdami organizacijos dalyviais.
+
+
+
+
+
+
+
+
+3439 straipsnis. Papildomi kolektyvaus žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo organizavimo reikalavimai
+
+
+1. Siekdami kolektyviai organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo 3422 straipsnyje nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais ir jai pavesti organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą ir vykdyti šio Įstatymo 3438 straipsnio 1 dalies 2, 3, 4 punktuose nustatytas pareigas ar Organizacijai sutartiniais pagrindais pavesti organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą ir vykdyti šio Įstatymo 3438 straipsnio 1 dalies 2, 3, 4 punktuose nustatytas pareigas netapdami Organizacijos dalyviais.
+
+
+
+
+2. Siekdama įvykdyti šio Įstatymo 3438 straipsnyje žvejybos įrankių, kurių sudėtyje yra plastiko, gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti sutartis su visomis Lietuvos jūrų uostų administracijomis dėl žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų atskiro surinkimo uostų priėmimo įrenginiuose arba kitose lygiavertėse surinkimo sistemose, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių atliekų surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų, pristatytų į uostų priėmimo įrenginius arba į kitas lygiavertes surinkimo sistemas, atskiro surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, uostų priėmimo įrenginių arba kitų lygiaverčių surinkimo sistemų infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
+
+
+
+
+3. Organizacija šio straipsnio 2 dalyje nurodytas išlaidas turi finansuoti proporcingai pagal tokių atliekų svorį bei proporcingai jos dalyvių ir jai organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą sutartiniais pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių gamintojų ir importuotojų bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos rinkai pateiktų žvejybos įrankių, kurių sudėtyje yra plastiko, kiekį.
+
+
+
+
+
+
+3440 straipsnis. Individualus žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo organizavimas
+
+
+1. Vykdydami šio Įstatymo 3438 straipsnyje nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti sutartis su visomis Lietuvos jūrų uostų administracijomis dėl žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų atskiro surinkimo uostų priėmimo įrenginiuose arba kitose lygiavertėse surinkimo sistemose, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių atliekų surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų, pristatytų į uostų priėmimo įrenginius arba į kitas lygiavertes surinkimo sistemas, atskiro surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, uostų priėmimo įrenginių arba kitų lygiaverčių surinkimo sistemų infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka.
+
+
+
+
+2. Individualiai žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai šio straipsnio 1 dalyje nurodytas išlaidas turi finansuoti proporcingai pagal tokių atliekų svorį bei proporcingai jo užimamai rinkos daliai, kuri Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal gamintojo ir (ar) importuotojo deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos rinkai pateiktų žvejybos įrankių, kurių sudėtyje yra plastiko, kiekį.
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
 devintasis skirsnis
 ATSAKOMYBĖ
  
@@ -5417,6 +7054,14 @@ INFORMACINĖ SISTEMA
 
 3. Aplinkos ministras nustato pereinamąjį laikotarpį, jo sąlygas ir ūkio subjektus, kuriems jis taikomas tam, kad pasibaigus pereinamajam laikotarpiui būtų tinkamai vykdomos šio straipsnio 1 dalyje nurodytos procedūros naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema. 
 TAR pastaba. 2017 metų ataskaitos, nurodytos 351 straipsnio 1 dalyje, teikiamos iki šio įstatymo įsigaliojimo nustatyta tvarka.
+
+
+
+
+4. Aplinkos ministras nustato asmens duomenų tvarkymo tikslus ir priemones suvedant asmens duomenis į Vieningą gaminių, pakuočių ir atliekų apskaitos informacinę sistemą ar dėl techninių galimybių negalint naudotis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema pildant popierinius arba laisvos formos elektroninius dokumentus ir juose nurodant asmens duomenis.
+Papildyta straipsnio dalimi:
+Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
+ 
 
 
 
