@@ -13,14 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/163f6c700d4211ebb74de75171d26d52"
 
 # Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir 35 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2023-01-01
+ 
+Įstatymas paskelbtas: TAR 2020-10-13, i. k. 2020-21253
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SVEIKATOS DRAUDIMO ĮSTATYMO NR. I-1343 131, 28, 30 IR 35 STRAIPSNIŲ PAKEITIMO 
 ĮSTATYMAS
  
 2020 m. spalio 1 d. Nr. XIII-3315
 Vilnius
- 
- 
  
  
 
@@ -47,6 +52,7 @@ Pakeisti 131 straipsnį ir jį išdėstyti taip:
 
 
 3. Valstybinė ligonių kasa Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinį kartu su Privalomojo sveikatos draudimo tarybos išvada teikia Sveikatos apsaugos ministerijai.“
+ 
 
 
 
@@ -68,6 +74,7 @@ Pakeisti 28 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 
 „3) teikia išvadą dėl Privalomojo sveikatos draudimo fondo biudžeto projekto, Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinio;“.
+ 
 
 
 
@@ -87,6 +94,7 @@ Pakeisti 30 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 „1) rengia Privalomojo sveikatos draudimo fondo biudžeto projektą, Privalomojo sveikatos draudimo fondo ataskaitų rinkinius, vykdo Privalomojo sveikatos draudimo fondo biudžetą;“.
+ 
 
 
 
@@ -120,6 +128,7 @@ Pakeisti 30 straipsnio 1 punktą ir jį išdėstyti taip:
 
 
 „3. Teritorinės ligonių kasos stebėtojų taryba turi teisę organizuoti teritorinės ligonių kasos ataskaitų rinkinių auditą. Auditas apmokamas iš teritorinės ligonių kasos valdymui skirtų lėšų. Teritorinės ligonių kasos stebėtojų taryba taip pat turi teisę nemokamai gauti sveikatos priežiūros įstaigų, su kuriomis teritorinė ligonių kasa yra sudariusi sutartis, veiklos ekonominio-finansinio bei medicininio audito duomenis.“
+ 
 
 
 
@@ -133,15 +142,17 @@ Pakeisti 30 straipsnio 1 punktą ir jį išdėstyti taip:
 5 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 
-1. Šis įstatymas įsigalioja 2022 m. sausio 1 d. 
+1. Šis įstatymas įsigalioja 2023 m. sausio 1 d.
 
 
 
 
-2. Šis įstatymas taikomas rengiant 2023 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius. Rengiamiems ataskaitinių laikotarpių iki 2023 metų ataskaitų rinkiniams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos sveikatos draudimo įstatymo nuostatos.
+2. Šis įstatymas taikomas rengiant 2024 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius. Rengiamiems ataskaitinių laikotarpių iki 2024 metų ataskaitų rinkiniams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos sveikatos draudimo įstatymo nuostatos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-849, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27749
  
-
-
 
 
 
@@ -151,3 +162,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-849, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27749
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir 35 straipsnių pakeitimo įstatymo Nr. XIII-3315 5 straipsnio pakeitimo įstatymas
