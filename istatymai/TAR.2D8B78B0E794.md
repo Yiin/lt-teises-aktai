@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
- 
-TAR pastaba. 2022-06-30 įstatymas Nr. XIV-1259 taikomas Lietuvos mokslo tarybos valdybos ir ekspertų komitetų nariams, paskirtiems Lietuvos Respublikos Vyriausybės 2022 m. balandžio 20 d. nutarime Nr. 375 „Dėl Lietuvos mokslo tarybos nuostatų patvirtinimo“ nustatyta tvarka.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
-Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 7, 8 straipsnių ir 5 priedo pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-01-01:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
@@ -582,7 +577,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-2. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytos priemokos gali siekti iki 30 procentų pareiginės algos pastoviosios dalies dydžio ir gali būti skiriamos ne ilgiau kaip iki kalendorinių metų pabaigos. Šių priemokų ir pareiginės algos kintamosios dalies suma negali viršyti 60 procentų nustatytos pareiginės algos pastoviosios dalies dydžio. Šio straipsnio 1 dalies 4 punkte nustatyta priemoka gali siekti iki 20 procentų pareiginės algos pastoviosios dalies dydžio ir gali būti skiriama iki darbo, esant nukrypimų nuo normalių darbo sąlygų, pabaigos. Nacionalinių ir valstybinių kultūros ir meno įstaigų vadovams ir atlikėjams priemokų ir pareiginės algos kintamosios dalies suma negali viršyti 160 procentų nustatytos pareiginės algos pastoviosios dalies dydžio, neįskaičiuojant priemokos už darbą, esant nukrypimų nuo normalių darbo sąlygų.
+2. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytų priemokų, kurios gali būti skiriamos ne ilgiau kaip iki kalendorinių metų pabaigos, suma negali viršyti 30 procentų pareiginės algos pastoviosios dalies dydžio. Šių priemokų ir pareiginės algos kintamosios dalies suma negali viršyti 60 procentų nustatytos pareiginės algos pastoviosios dalies dydžio. Šio straipsnio 1 dalies 4 punkte nustatyta priemoka gali siekti iki 20 procentų pareiginės algos pastoviosios dalies dydžio ir gali būti skiriama iki darbo, esant nukrypimų nuo normalių darbo sąlygų, pabaigos. Nacionalinių ir valstybinių kultūros ir meno įstaigų vadovams ir atlikėjams skiriamų priemokų ir pareiginės algos kintamosios dalies suma negali viršyti 160 procentų nustatytos pareiginės algos pastoviosios dalies dydžio, neįskaičiuojant priemokos už darbą, esant nukrypimų nuo normalių darbo sąlygų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
+ 
 
 
 
@@ -611,6 +609,14 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 
 
 3. Darbuotojo prašymu darbo poilsio ar švenčių dienomis laikas ar viršvalandinio darbo laikas, padaugintas iš šio straipsnio 1 ir 2 dalyse nustatyto atitinkamo dydžio, gali būti pridedamas prie kasmetinių atostogų laiko. 
+
+
+
+
+4. Už budėjimą darbuotojui mokama Darbo kodekso nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
+ 
 
 
 Straipsnio pakeitimai:
@@ -779,7 +785,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-4) nepatenkinamai, biudžetinės įstaigos vadovui, išskyrus mokyklos vadovą, nustato mažesnį pareiginės algos pastoviosios dalies koeficientą, tačiau ne mažesnį, negu šio įstatymo 1 ir 5 prieduose tai pareigybei pagal vadovaujamo darbo patirtį numatytas minimalus koeficientas; mokyklos vadovui nustato vienetu mažesnį pareiginės algos pastoviosios dalies koeficientą. Su biudžetinės įstaigos vadovu gali būti sudarytas rezultatų gerinimo planas (pagal Darbo kodekso 57 straipsnio 5 dalį), kurio vykdymas įvertinamas ne anksčiau kaip po 2 mėnesių. Rezultatų gerinimo plano vykdymo rezultatus įvertinus nepatenkinamai, su biudžetinės įstaigos vadovu sudaryta darbo sutartis gali būti nutraukiama pagal Darbo kodekso 57 straipsnio 1 dalies 2 punktą. 
+4) nepatenkinamai, biudžetinės įstaigos vadovui, išskyrus mokyklos vadovą, švietimo pagalbos įstaigos vadovą, nustato mažesnį pareiginės algos pastoviosios dalies koeficientą, tačiau ne mažesnį, negu šio įstatymo 1 priede tai pareigybei pagal vadovaujamo darbo patirtį numatytas minimalus koeficientas; mokyklos vadovui, švietimo pagalbos įstaigos vadovui nustato vienetu mažesnį pareiginės algos pastoviosios dalies koeficientą. Su biudžetinės įstaigos vadovu gali būti sudarytas rezultatų gerinimo planas (pagal Darbo kodekso 57 straipsnio 5 dalį), kurio vykdymas įvertinamas ne anksčiau kaip po 2 mėnesių. Rezultatų gerinimo plano vykdymo rezultatus įvertinus nepatenkinamai, su biudžetinės įstaigos vadovu sudaryta darbo sutartis gali būti nutraukiama pagal Darbo kodekso 57 straipsnio 1 dalies 2 punktą. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
+ 
 
 
 
@@ -804,7 +813,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-4) nepatenkinamai, teikia vertinimo išvadą į pareigas priimančiam asmeniui su siūlymu darbuotojui, išskyrus mokyklos vadovo pavaduotoją ugdymui ir mokyklos ugdymą organizuojančio skyriaus vedėją, nustatyti mažesnį pareiginės algos pastoviosios dalies koeficientą, tačiau ne mažesnį, negu šio įstatymo 1, 2, 3, 4 ir 5 prieduose tai pareigybei pagal vadovaujamo darbo patirtį ir (ar) profesinę darbo patirtį numatytas minimalus pareiginės algos pastoviosios dalies koeficientas; mokyklos vadovo pavaduotojui ugdymui, mokyklos ugdymą organizuojančio skyriaus vedėjui nustatyti vienetu mažesnį pareiginės algos pastoviosios dalies koeficientą. Su darbuotoju gali būti sudarytas rezultatų gerinimo planas (pagal Darbo kodekso 57 straipsnio 5 dalį), kurio vykdymas įvertinamas ne anksčiau kaip po 2 mėnesių. Rezultatų gerinimo plano vykdymo rezultatus įvertinus nepatenkinamai, su darbuotoju sudaryta darbo sutartis gali būti nutraukiama pagal Darbo kodekso 57 straipsnio 1 dalies 2 punktą.
+4) nepatenkinamai, teikia vertinimo išvadą į pareigas priimančiam asmeniui su siūlymu darbuotojui, išskyrus mokyklos vadovo pavaduotoją ugdymui ir mokyklos ugdymą organizuojančio skyriaus vedėją, švietimo pagalbos įstaigos vadovo pavaduotoją ir švietimo pagalbos įstaigos skyriaus vedėją, kurių darbas laikomas pedagoginiu, nustatyti mažesnį pareiginės algos pastoviosios dalies koeficientą, tačiau ne mažesnį, negu šio įstatymo 1, 2, 3 ir 4 prieduose tai pareigybei pagal vadovaujamo darbo patirtį ir (ar) profesinę darbo patirtį numatytas minimalus pareiginės algos pastoviosios dalies koeficientas; mokyklos vadovo pavaduotojui ugdymui, mokyklos ugdymą organizuojančio skyriaus vedėjui, švietimo pagalbos įstaigos vadovo pavaduotojui, švietimo pagalbos įstaigos skyriaus vedėjui, kurių darbas laikomas pedagoginiu, nustatyti vienetu mažesnį pareiginės algos pastoviosios dalies koeficientą. Su darbuotoju gali būti sudarytas rezultatų gerinimo planas (pagal Darbo kodekso 57 straipsnio 5 dalį), kurio vykdymas įvertinamas ne anksčiau kaip po 2 mėnesių. Rezultatų gerinimo plano vykdymo rezultatus įvertinus nepatenkinamai, su darbuotoju sudaryta darbo sutartis gali būti nutraukiama pagal Darbo kodekso 57 straipsnio 1 dalies 2 punktą. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
+ 
 
 
 
@@ -913,18 +925,18 @@ Respublikos Prezidentė                            �
 
  
 Lietuvos Respublikos
-valstybės ir savivaldybių įstaigų darbuotojų 
-darbo apmokėjimo ir komisijų narių atlygio 
-už darbą įstatymo 
+valstybės ir savivaldybių įstaigų darbuotojų
+darbo apmokėjimo ir komisijų narių atlygio
+už darbą įstatymo
 1 priedas
  
-VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI 
+VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
 (Baziniais dydžiais)
 
 
 
- Valstybės ar savivaldybių įstaigų grupė 
+ Valstybės ir savivaldybių įstaigų grupė 
  Vadovaujamo darbo patirtis (metais) 
  Pastoviosios dalies koeficientai, jeigu pareigybės lygis A 
 
@@ -935,70 +947,75 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS AL
 
 
 
- I grupė  (201 ir daugiau pareigybių) 
+ I grupė (201 ir daugiau pareigybių) 
  iki 5 
- 9,1–14,1 
- 8,4–12,7 
+ 9,7–15,7 
+ 9–14,3 
 
 
  nuo daugiau kaip 5 iki 10 
- 9,2–14,5 
- 8,5–13 
+ 9,8–16,1 
+ 9,1–14,6 
 
 
  daugiau kaip 10 
- 9,3–14,8 
- 8,6–13,6 
+ 9,9–16,5 
+ 9,2–15,0 
 
 
- II grupė  (51–200 pareigybių) 
+ II grupė (51–200 pareigybių) 
  iki 5 
- 8,8–13,7 
- 8,2–12,3 
+ 9,4–15,3 
+ 8,8–13,9 
 
 
  nuo daugiau kaip 5 iki 10 
- 8,9–13,9 
- 8,3–12,5 
+ 9,5–15,5 
+ 8,9–14,1 
 
 
  daugiau kaip 10 
- 9–14,1 
- 8,4–12,7 
+ 9,6–15,7 
+ 9–14,3 
 
 
  III grupė (50 ir mažiau pareigybių) 
  iki 5 
- 8,5–13,3 
- 8–11,9 
+ 9,1–14,9 
+ 8,6–13,5 
 
 
  nuo daugiau kaip 5 iki 10 
- 8,6–13,5 
- 8,1–12,2 
+ 9,2–15,1 
+ 8,7–13,7 
 
 
  daugiau kaip 10 
- 8,7–13,7 
- 8,2–12,3 
+ 9,3–15,3 
+ 8,8–13,9 
 
 
 
- 
+
+
+_______________
+
+
 Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
-part_4210a6ebfae3468680f3841405975d69_end
+part_cfa541262737476d8e95aaa2e4148e6a_end
 
 
  
 
  
 Lietuvos Respublikos
-valstybės ir savivaldybių įstaigų darbuotojų 
-darbo apmokėjimo ir komisijų narių 
-atlygio už darbą įstatymo
+valstybės ir savivaldybių įstaigų darbuotojų
+darbo apmokėjimo ir komisijų narių atlygio
+už darbą įstatymo
 2 priedas
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS PADALINIŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
@@ -1033,30 +1050,30 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS PADALINIŲ VADOVŲ PAREIGI
 
 
  iki 5 
- 7,4–10,5 
- 7,5–10,7 
- 7,6–12 
- 6,3–9,9 
- 6,5–10,1 
- 6,7–10,3 
+ 8–12,0 
+ 8,1–12,6 
+ 8,2–13,3 
+ 6,9–11,1 
+ 7,1–11,3 
+ 7,3–11,5 
 
 
  nuo daugiau kaip 5 iki 10 
- 7,5–10,6 
- 7,6–10,9 
- 7,7–12,1 
- 6,5–10,1 
- 6,7–10,3 
- 6,8–10,5 
+ 8,1–12,3 
+ 8,2–12,8 
+ 8,3–13,6 
+ 7,1–11,3 
+ 7,3–11,5 
+ 7,4–11,7 
 
 
  daugiau kaip 10 
- 7,6–10,7 
- 7,7–11,2 
- 7,8–12,2 
- 6,7–10,3 
- 6,8–10,5 
- 6,9–10,6 
+ 8,2–12,6 
+ 8,3–13,0 
+ 8,4–14,0 
+ 7,3–11,5 
+ 7,4–11,7 
+ 7,5–11,8 
 
 
 
@@ -1093,49 +1110,55 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS PADALINIŲ VADOVŲ PAVADUO
 
 
  iki 5 
- 6,9–9,5 
- 7,0–10,6 
- 7,1–11,8 
- 6,2–9,0 
- 6,3–9,1 
- 6,4–9,3 
+ 7,5–10,7 
+ 7,6–12,0 
+ 7,7–13,0 
+ 6,8–10,2 
+ 6,9–10,3 
+ 7,0–10,5 
 
 
  nuo daugiau kaip 5 iki 10 
- 7,0–9,6 
+ 7,6–11,0 
+ 7,7–12,3 
+ 7,8–13,3 
+ 6,9–10,3 
+ 7,0–10,5 
  7,1–10,7 
- 7,2–11,9 
- 6,3–9,1 
- 6,4–9,3 
- 6,5–9,5 
 
 
  daugiau kaip 10 
- 7,1–9,7 
- 7,2–10,8 
- 7,3–12 
- 6,4–9,3 
- 6,5–9,5 
- 6,7–9,6  
+ 7,7–11,5 
+ 7,8–12,5 
+ 7,9–13,5 
+ 7,0–10,5 
+ 7,1–10,7 
+ 7,3–10,8 
 
 
 
  
+
+
+
+
+________________
 
 
 Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
-part_8597c8a326b147b683dead3ac00610d6_end
+part_daecafa9795a45f39c1264feb8416f8c_end
 
 
  
 
  
-Lietuvos Respublikos 
-valstybės ir savivaldybių įstaigų darbuotojų 
-darbo apmokėjimo ir komisijų narių atlygio 
+Lietuvos Respublikos
+valstybės ir savivaldybių įstaigų darbuotojų
+darbo apmokėjimo ir komisijų narių atlygio
 už darbą įstatymo
 3 priedas
  
@@ -1146,10 +1169,10 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ, SU KURIAIS SUDARYTOS SUTARTYS
 
 
  Pareigybės lygis 
- Pastoviosios dalies koeficientai  
+ Pastoviosios dalies koeficientai 
 
 
- profesinio darbo patirtis (metais) 
+ Profesinio darbo patirtis (metais) 
 
 
  iki 2 
@@ -1159,35 +1182,40 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ, SU KURIAIS SUDARYTOS SUTARTYS
 
 
  A lygis 
- 5,5–8,4 
- 5,6–9,4 
- 5,7–10,5 
- 5,8–11,6 
+ 6–10,0 
+ 6,1–11,0 
+ 6,2–12,0 
+ 6,3–13,0 
 
 
  B lygis 
- 5,1–8,1 
- 5,2–8,2 
- 5,3–8,4 
- 5,4–8,9 
+ 5,6–8,5 
+ 5,7–9,0 
+ 5,8–9,5 
+ 5,9–10,0 
 
 
 
- 
+
+
+_______________
+
+
 Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
-part_e64ea44d4a0041acb52babf989b21454_end
+part_27a3b4f3cae14de09f1e7132b37e55d0_end
 
 
  
 
  
 Lietuvos Respublikos
-valstybės ir savivaldybių įstaigų darbuotojų 
-darbo apmokėjimo ir komisijų narių atlygio 
-už darbą įstatymo 
+valstybės ir savivaldybių įstaigų darbuotojų
+darbo apmokėjimo ir komisijų narių atlygio
+už darbą įstatymo
 4 priedas
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
@@ -1197,10 +1225,10 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGO
 
 
  Pareigybės lygis 
- Pastoviosios dalies koeficientai  
+ Pastoviosios dalies koeficientai 
 
 
- profesinio darbo patirtis (metais) 
+ Profesinio darbo patirtis (metais) 
 
 
  iki 2 
@@ -1210,19 +1238,24 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGO
 
 
  C lygis 
- 4,7–6,2 
- 4,8–6,3 
- 4,9–6,5 
- 5–7,8 
+ 5,1–6,7 
+ 5,2–7,1 
+ 5,3–7,5 
+ 5,4–8,0 
 
 
 
- 
+
+
+_______________
+
+
 Priedo pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
-part_99201cc7dc014cd8aca112a29f8e6d95_end
+part_6518c64e98164cdfb326d7e3a545e711_end
 
 
  
@@ -1253,12 +1286,11 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
 
-
  Kvalifikacinė kategorija  
  Pastoviosios dalies koeficientai 
 
 
- pedagoginio darbo stažas (metais) 
+ Pedagoginio darbo stažas (metais) 
 
 
  iki 2 
@@ -1276,57 +1308,56 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
  Mokytojas 
- 7,44 
- 7,47 
- 7,53 
- 7,67 
- 7,91 
- 7,94 
- 7,98 
+ 8,11 
+ 8,14 
+ 8,21 
+ 8,36 
+ 8,62 
+ 8,65 
+ 8,7 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 7,99 
- 8,01 
- 8,02 
- 8,06 
- 8,08 
- 8,11 
- 8,17 
+ 8,71 
+ 8,73 
+ 8,74 
+ 8,79 
+ 8,81 
+ 8,84 
+ 8,91 
 
 
  Vyresnysis mokytojas 
 
- 8,18 
- 8,21 
- 8,25 
- 8,58 
- 8,62 
- 8,66 
+ 8,92 
+ 8,95 
+ 8,99 
+ 9,35 
+ 9,4 
+ 9,44 
 
 
  Mokytojas metodininkas 
 
 
- 8,74 
- 8,9 
- 9,18 
- 9,22 
- 9,28 
+ 9,53 
+ 9,7 
+ 10,01 
+ 10,05 
+ 10,12 
 
 
  Mokytojas ekspertas 
 
 
- 9,94 
- 10,1 
- 10,36 
- 10,4 
- 10,45 
-
+ 10,83 
+ 11,01 
+ 11,29 
+ 11,34 
+ 11,39 
 
 
 
@@ -1334,6 +1365,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 Punkto pakeitimai:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -1490,12 +1522,11 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
 
-
  Kvalifikacinė  kategorija  
  Pastoviosios dalies koeficientai 
 
 
- pedagoginio darbo stažas (metais) 
+ Pedagoginio darbo stažas (metais) 
 
 
  iki 2 
@@ -1511,57 +1542,56 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
  Mokytojas 
- 7,44 
- 7,47 
- 7,53 
- 7,67 
- 7,91 
- 7,94 
- 7,98 
+ 8,11 
+ 8,14 
+ 8,21 
+ 8,36 
+ 8,62 
+ 8,65 
+ 8,70 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 7,99 
- 8,01 
- 8,02 
- 8,06 
- 8,08 
- 8,11 
- 8,17 
+ 8,71 
+ 8,73 
+ 8,74 
+ 8,79 
+ 8,81 
+ 8,84 
+ 8,91 
 
 
  Vyresnysis mokytojas 
 
- 8,18 
- 8,21 
- 8,25 
- 8,58 
- 8,62 
- 8,66 
+ 8,92 
+ 8,95 
+ 8,99 
+ 9,35 
+ 9,4 
+ 9,44 
 
 
  Mokytojas metodininkas 
 
 
- 8,74 
- 8,9 
- 9,18 
- 9,22 
- 9,28 
+ 9,53 
+ 9,7 
+ 10,01 
+ 10,05 
+ 10,12 
 
 
  Mokytojas ekspertas 
 
 
- 9,94 
- 10,1 
- 10,36 
- 10,4 
- 10,45 
-
+ 10,83 
+ 11,01 
+ 11,29 
+ 11,34 
+ 11,39 
 
 
 
@@ -1569,6 +1599,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 Punkto pakeitimai:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -1667,17 +1698,19 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-16. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą mokyklose (ikimokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (ikimokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+16. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą mokyklose (ikimokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (ikimokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 30 valandų, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
 
 
-17. Meninio ugdymo mokytojų, dirbančių pagal ikimokyklinio ir (arba) priešmokyklinio ugdymo programas, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+17. Meninio ugdymo mokytojų, dirbančių pagal ikimokyklinio ir (arba) priešmokyklinio ugdymo programas, darbo laikas per savaitę yra 30 valandų, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -1695,12 +1728,11 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
 
-
  Kvalifikacinė  kategorija  
  Pastoviosios dalies koeficientai 
 
 
- pedagoginio darbo stažas (metais) 
+ Pedagoginio darbo stažas (metais) 
 
 
  iki 2 
@@ -1718,57 +1750,56 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
  Mokytojas 
- 7,44 
- 7,47 
- 7,53 
- 7,67 
- 7,91 
- 7,94 
- 7,98 
+ 8,11 
+ 8,14 
+ 8,21 
+ 8,36 
+ 8,62 
+ 8,65 
+ 8,7 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 7,99 
- 8,01 
- 8,02 
- 8,06 
- 8,08 
- 8,11 
- 8,17 
+ 8,71 
+ 8,73 
+ 8,74 
+ 8,79 
+ 8,81 
+ 8,84 
+ 8,91 
 
 
  Vyresnysis mokytojas 
 
- 8,18 
- 8,21 
- 8,25 
- 8,58 
- 8,62 
- 8,66 
+ 8,92 
+ 8,95 
+ 8,99 
+ 9,35 
+ 9,4 
+ 9,44 
 
 
  Mokytojas metodininkas 
 
 
- 8,74 
- 8,9 
- 9,18 
- 9,22 
- 9,28 
+ 9,53 
+ 9,7 
+ 10,01 
+ 10,05 
+ 10,12 
 
 
  Mokytojas ekspertas 
 
 
- 9,94 
- 10,1 
- 10,36 
- 10,4 
- 10,45 
-
+ 10,83 
+ 11,01 
+ 11,29 
+ 11,34 
+ 11,39 
 
 
 
@@ -1776,6 +1807,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 Punkto pakeitimai:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -1854,9 +1886,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-22. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą mokyklose (priešmokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (priešmokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.).
+22. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą mokyklose (priešmokyklinio ugdymo grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose (priešmokyklinio ugdymo grupėse), sutrikusio vystymosi kūdikių namuose, darbo laikas per savaitę yra 30 valandų, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.). 
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -1873,6 +1906,7 @@ Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
 
 
 23. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
+ 
 
 
 
@@ -1884,7 +1918,7 @@ Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
  Pastoviosios dalies koeficientai 
 
 
- pedagoginio darbo stažas (metais) 
+ Pedagoginio darbo stažas (metais) 
 
 
  iki 2 
@@ -1900,56 +1934,56 @@ Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, judesio korekcijos specialistas, karjeros specialistas 
- 7,44 
- 7,47 
- 7,53 
- 7,67 
- 7,91 
- 7,94 
- 7,98 
+ 8,11 
+ 8,14 
+ 8,21 
+ 8,36 
+ 8,62 
+ 8,65 
+ 8,7 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas 
- 7,99 
- 8,01 
- 8,02 
- 8,06 
- 8,08 
- 8,11 
- 8,17 
+ 8,71 
+ 8,73 
+ 8,74 
+ 8,79 
+ 8,81 
+ 8,84 
+ 8,91 
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas 
-   
- 8,18 
- 8,21 
- 8,25 
- 8,58 
- 8,62 
- 8,66 
+
+ 8,92 
+ 8,95 
+ 8,99 
+ 9,35 
+ 9,4 
+ 9,44 
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas 
-   
-   
- 8,74 
- 8,9 
- 9,18 
- 9,22 
- 9,28 
+
+
+ 9,53 
+ 9,7 
+ 10,01 
+ 10,05 
+ 10,12 
 
 
  Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas 
-   
-   
- 9,94 
- 10,1 
- 10,36 
- 10,4 
- 10,45“ 
+
+
+ 10,83 
+ 11,01 
+ 11,29 
+ 11,34 
+ 11,39 
 
 
 
@@ -1957,6 +1991,7 @@ Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -1971,7 +2006,6 @@ Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
 
 
 25. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo specialiesiems pedagogams, logopedams, surdopedagogams, tiflopedagogams, judesio korekcijos specialistams ir karjeros specialistams: 
- 
 Punkto pakeitimai:
 Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
 
@@ -2034,17 +2068,19 @@ Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
 27. Darbo laikas per savaitę:
 
 
-27.1. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, sutrikusio vystymosi kūdikių namuose su ikimokyklinio ir priešmokyklinio amžiaus vaikais, – 34 valandos, iš jų 22 valandos skiriamos tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 12 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita);
+27.1. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, sutrikusio vystymosi kūdikių namuose su ikimokyklinio ir priešmokyklinio amžiaus vaikais, – 36 valandos, iš jų 22 valandos skiriamos tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 14 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kt.); 
 Papunkčio pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
 
 
-27.2. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, su mokyklinio amžiaus vaikais, – 30 valandų, iš jų 18 valandų skiriama tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 12 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kita);
+27.2. specialiųjų pedagogų, logopedų, surdopedagogų ir tiflopedagogų, dirbančių mokyklose, socialinės globos įstaigose, skirtose vaikams, su mokyklinio amžiaus vaikais, – 32 valandos, iš jų 18 valandų skiriama tiesioginiam darbui su vaikais, mokiniais (vaikų, mokinių specialiesiems ugdymosi poreikiams įvertinti, specialiosioms pratyboms vesti), 14 valandų – netiesioginiam darbui su vaikais, mokiniais (veikloms planuoti ir joms pasirengti, dokumentams rengti, bendradarbiauti su mokytojais, kitais ugdymo procese dalyvaujančiais asmenimis, vaikų, mokinių tėvais (globėjais, rūpintojais) ugdymo ir (ar) švietimo pagalbos klausimais ir kt.); 
 Papunkčio pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2086,7 +2122,7 @@ PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ IR ŠVIETIMO PAGALBOS
  Pastoviosios dalies koeficientai 
 
 
- pedagoginio darbo stažas (metais) 
+ Pedagoginio darbo stažas (metais) 
 
 
  iki 2 
@@ -2102,62 +2138,63 @@ PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ IR ŠVIETIMO PAGALBOS
 
 
  Psichologo asistentas, specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas 
- 7,44 
- 7,47 
- 7,53 
- 7,67 
- 7,91 
- 7,94 
- 7,98 
+ 8,11 
+ 8,14 
+ 8,21 
+ 8,36 
+ 8,62 
+ 8,65 
+ 8,7 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas, ketvirtos kategorijos psichologas 
- 7,99 
- 8,01 
- 8,02 
- 8,06 
- 8,08 
- 8,11 
- 8,17 
+ 8,71 
+ 8,73 
+ 8,74 
+ 8,79 
+ 8,81 
+ 8,84 
+ 8,91 
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas, vyresnysis socialinis pedagogas, trečios kategorijos psichologas 
 
- 8,18 
- 8,21 
- 8,25 
- 8,58 
- 8,62 
- 8,66 
+ 8,92 
+ 8,95 
+ 8,99 
+ 9,35 
+ 9,4 
+ 9,44 
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas, socialinis pedagogas metodininkas, antros kategorijos psichologas 
 
 
- 8,74 
- 8,9 
- 9,18 
- 9,22 
- 9,28 
+ 9,53 
+ 9,7 
+ 10,01 
+ 10,05 
+ 10,12 
 
 
- Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas, socialinis pedagogas ekspertas,  pirmos kategorijos psichologas 
+ Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas, socialinis pedagogas ekspertas, pirmos kategorijos psichologas 
 
 
- 9,94 
- 10,1 
- 10,36 
- 10,4 
- 10,45 
+ 10,83 
+ 11,01 
+ 11,29 
+ 11,34 
+ 11,39 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2243,7 +2280,7 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
  Pastoviosios dalies koeficientai  
 
 
- pedagoginio darbo stažas (metais) 
+ Pedagoginio darbo stažas (metais) 
 
 
  iki 3  
@@ -2256,10 +2293,10 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 
 
  Auklėtojas, koncertmeisteris, akompaniatorius 
- 5,5 
- 5,7 
- 5,8 
- 5,85 
+ 6,1 
+ 6,21 
+ 6,32 
+ 6,38 
 
 
 
@@ -2276,27 +2313,27 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 
 
  Auklėtojas, koncertmeisteris, akompaniatorius  
- 5,9 
- 5,95 
- 6 
+ 6,43 
+ 6,49 
+ 6,54 
 
 
  Vyresnysis auklėtojas, vyresnysis koncertmeisteris, vyresnysis akompaniatorius  
- 6,05 
- 6,1 
- 6,15 
+ 6,59 
+ 6,65 
+ 6,7 
 
 
  Auklėtojas metodininkas, koncertmeisteris metodininkas, akompaniatorius metodininkas  
- 6,20 
- 6,25 
- 6,3 
+ 6,76 
+ 6,81 
+ 6,87 
 
 
  Auklėtojas ekspertas, koncertmeisteris ekspertas, akompaniatorius ekspertas 
- 6,40 
- 6,48 
- 6,64 
+ 6,98 
+ 7,06 
+ 7,24 
 
 
 
@@ -2304,6 +2341,7 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 Punkto pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2359,25 +2397,28 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-35. Koncertmeisterių ir akompaniatorių, dirbančių mokykloje, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (pasiruošti pamokoms, renginiams ir metodinei veiklai).
+35. Koncertmeisterių ir akompaniatorių, dirbančių mokykloje, darbo laikas per savaitę yra 30 valandų, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (pasiruošti pamokoms, renginiams ir metodinei veiklai). 
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
 
 
-36. Auklėtojų, dirbančių bendrojo ugdymo mokyklose (išskyrus bendrojo ugdymo mokyklas, skirtas mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, ir sanatorijų mokyklas), darbo laikas per savaitę yra 32 valandos, iš jų 28 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.).
+36. Auklėtojų, dirbančių bendrojo ugdymo mokyklose (išskyrus bendrojo ugdymo mokyklas, skirtas mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, ir sanatorijų mokyklas), darbo laikas per savaitę yra 34 valandos, iš jų 28 valandos skiriamos tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.). 
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
 
 
-37. Auklėtojų, dirbančių su mokyklinio amžiaus vaikais bendrojo ugdymo mokyklose (grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose, vaikų socializacijos centruose, socialinės globos įstaigose, skirtose vaikams, darbo laikas per savaitę yra 28 valandos, iš jų 24 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.).
+37. Auklėtojų, dirbančių su mokyklinio amžiaus vaikais bendrojo ugdymo mokyklose (grupėse), skirtose mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių, sanatorijų mokyklose, vaikų socializacijos centruose, socialinės globos įstaigose, skirtose vaikams, darbo laikas per savaitę yra 30 valandų, iš jų 24 valandos per savaitę skiriamos tiesioginiam darbui su mokiniais, 6 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais, rūpintojais) ugdymo klausimais ir kt.). 
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2390,7 +2431,7 @@ PAGALBOS MOKINIUI SPECIALISTŲ, NENURODYTŲ ŠIO PRIEDO IV, V IR VI SKYRIUOSE, P
  
 
 
-38. Šiame skyriuje nurodytų pagalbos mokiniui specialistų pareiginės algos pastoviosios dalies koeficientai: 
+38. Šiame skyriuje nurodytų pagalbos mokiniui specialistų pareiginės algos pastoviosios dalies koeficientai:
 (Baziniais dydžiais)
 
 
@@ -2400,21 +2441,22 @@ PAGALBOS MOKINIUI SPECIALISTŲ, NENURODYTŲ ŠIO PRIEDO IV, V IR VI SKYRIUOSE, P
 
 
  iki 10  
- 6,4 
+ 6,98 
 
 
  nuo daugiau kaip 10 iki 15  
- 7,16 
+ 7,8 
 
 
  daugiau kaip 15  
- 7,91 
+ 8,62 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2478,13 +2520,13 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 
 
 
- pedagoginio darbo stažas (metais) 
-   
+ Pedagoginio darbo stažas (metais) 
 
 
- iki 10  
- nuo daugiau kaip 10 iki 15  
- daugiau kaip 15  
+
+ iki 10 metų  
+ nuo daugiau kaip 10 iki 15 metų 
+ daugiau kaip 15 metų 
 
 
 
@@ -2494,37 +2536,37 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 
 
  iki 200 
- 12,54 
- 13 
- 13,31 
+ 14,81 
+ 15,35 
+ 15,72 
 
 
 
  201–400 
- 13,7 
- 13,82 
- 13,83 
+ 16,18 
+ 16,32 
+ 16,33 
 
 
 
  401–600 
- 13,75 
- 13,84 
- 13,88 
+ 16,24 
+ 16,35 
+ 16,39 
 
 
 
  601–1 000 
- 14,75 
- 14,78 
- 14,81 
+ 17,42 
+ 17,46 
+ 17,49 
 
 
 
  1 001 ir daugiau 
- 14,78 
- 14,8 
- 14,85 
+ 17,46 
+ 17,48 
+ 17,54 
 
 
 
@@ -2533,12 +2575,13 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 Punkto pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
 
 
-43. Mokyklų vadovų pavaduotojų ugdymui pareiginės algos pastoviosios dalies koeficientai: 
+43. Mokyklų vadovų pavaduotojų ugdymui pareiginės algos pastoviosios dalies koeficientai:
 (Baziniais dydžiais)
 
 
@@ -2547,24 +2590,24 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
  Pastoviosios dalies koeficientai 
 
 
- pedagoginio darbo stažas (metais) 
+ Pedagoginio darbo stažas (metais) 
 
 
  iki 10 
- nuo daugiau kaip 10 iki 15  
- daugiau kaip 15  
+ nuo daugiau kaip 10 iki 15 
+ daugiau kaip 15 
 
 
  iki 500 
- 12,23 
- 12,25 
- 12,27 
+ 14,44 
+ 14,47 
+ 14,49 
 
 
  501 ir daugiau 
- 12,30 
- 12,47 
- 12,65 
+ 14,53 
+ 14,73 
+ 14,94 
 
 
 
@@ -2572,6 +2615,7 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 Punkto pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2627,7 +2671,9 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-46. Bendrojo ugdymo, ikimokyklinio ugdymo mokyklų, profesinio mokymo įstaigų vadovų ir vadovų pavaduotojų ugdymui pareiginės algos pastoviosios dalies koeficientai nustatomi atsižvelgiant į mokinių skaičių einamųjų metų rugsėjo 1 dieną, išskyrus mokyklas, skirtas mokiniams, dėl įgimtų ar įgytų sutrikimų (elgesio ir emocijų ar sveikatos problemų) turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių; ligoninių mokyklų, sanatorijų mokyklų, nepilnamečių tardymo izoliatorių ir pataisos įstaigų mokyklų, tardymo izoliatorių ir (ar) pataisos įstaigų suaugusiųjų mokyklų, vaikų socializacijos centrų vadovų ir vadovų pavaduotojų ugdymui – pagal vidutinį metinį mokinių skaičių; neformaliojo vaikų švietimo mokyklų vadovų ir vadovų pavaduotojų ugdymui – atsižvelgiant į mokinių skaičių einamųjų metų spalio 1 dieną. Bendrabučiuose gyvenantys mokiniai į bendrą mokinių skaičių įskaičiuojami taikant koeficientą 1,5. Vidutinis metinis mokinių skaičius apskaičiuojamas sudėjus praėjusių mokslo metų kiekvieno mėnesio vidutinį mokinių skaičių ir šią sumą padalijus iš to laikotarpio mėnesių, kuriais buvo mokinių, skaičiaus. Vidutinis mėnesinis mokinių skaičius apskaičiuojamas sudėjus kiekvieną dieną buvusių mokinių skaičių ir šį bendrą skaičių padalijus iš mėnesio dienų, kuriomis buvo mokinių, skaičiaus. Į mokinių skaičių įskaičiuojami tik tie mokiniai, kurie buvo mokomi. 
+46. Bendrojo ugdymo, ikimokyklinio ugdymo mokyklų, profesinio mokymo įstaigų vadovų ir vadovų pavaduotojų ugdymui pareiginės algos pastoviosios dalies koeficientai nustatomi atsižvelgiant į mokinių skaičių einamųjų metų rugsėjo 1 dieną, išskyrus mokyklas, skirtas mokiniams, dėl įgimtų ar įgytų sutrikimų (elgesio ir emocijų ar sveikatos problemų) turintiems didelių ar labai didelių specialiųjų ugdymosi poreikių; ligoninių mokyklų, sanatorijų mokyklų, laisvės atėmimo vietų įstaigos mokyklų, vaikų socializacijos centrų vadovų ir vadovų pavaduotojų ugdymui – pagal vidutinį metinį mokinių skaičių; neformaliojo vaikų švietimo mokyklų vadovų ir vadovų pavaduotojų ugdymui – atsižvelgiant į mokinių skaičių einamųjų metų spalio 1 dieną. Bendrabučiuose gyvenantys mokiniai į bendrą mokinių skaičių įskaičiuojami taikant koeficientą 1,5. Vidutinis metinis mokinių skaičius apskaičiuojamas sudėjus praėjusių mokslo metų kiekvieno mėnesio vidutinį mokinių skaičių ir šią sumą padalijus iš to laikotarpio mėnesių, kuriais buvo mokinių, skaičiaus. Vidutinis mėnesinis mokinių skaičius apskaičiuojamas sudėjus kiekvieną dieną buvusių mokinių skaičių ir šį bendrą skaičių padalijus iš mėnesio dienų, kuriomis buvo mokinių, skaičiaus. Į mokinių skaičių įskaičiuojami tik tie mokiniai, kurie buvo mokomi.
+Punkto pakeitimai:
+Nr. XIV-1234, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15600
  
 
 
@@ -2650,15 +2696,15 @@ MOKYKLŲ UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ PAREIGINĖS ALGOS PASTOVIOSI
 
 
  iki 10  
- 10,66 
+ 12,59 
 
 
  nuo daugiau kaip 10 iki 15  
- 11,12 
+ 13,13 
 
 
  daugiau kaip 15  
- 11,71 
+ 13,83 
 
 
 
@@ -2666,6 +2712,7 @@ MOKYKLŲ UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ PAREIGINĖS ALGOS PASTOVIOSI
 Punkto pakeitimai:
 Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2729,7 +2776,7 @@ X SKYRIUS
  
 
 
-50. Švietimo pagalbos įstaigų vadovų ir jų pavaduotojų, kurių darbas laikomas pedagoginiu, pareiginės algos pastoviosios dalies koeficientai: 
+50. Švietimo pagalbos įstaigų vadovų ir jų pavaduotojų, kurių darbas laikomas pedagoginiu, pareiginės algos pastoviosios dalies koeficientai:
 (Baziniais dydžiais)
 
 
@@ -2743,58 +2790,59 @@ X SKYRIUS
  vadovų pavaduotojų 
 
 
- 201 ir daugiau  
+ 201 ir daugiau pareigybių 
  iki 5 
- 12,47–14,1 
- 11,24–12,7 
+ 14,73 
+ 13,27 
 
 
  nuo daugiau kaip 5 iki 10 
-   12,65–14,5 
- 11,42–13 
+ 14,94 
+ 13,49 
 
 
  daugiau kaip 10 
- 12,82–14,8 
- 11,59–13,6 
+ 15,14 
+ 13,69 
 
 
- 51–200  
+ 51–200 pareigybių 
  iki 5 
- 11,94–13,7 
- 10,89–12,3 
+ 14,1 
+ 12,86 
 
 
  nuo daugiau kaip 5 iki 10 
- 12,12–13,9 
- 11,07–12,5 
+ 14,31 
+ 13,07 
 
 
  daugiau kaip 10 
- 12,3–14,1 
- 11,24–12,7 
+ 14,53 
+ 13,27 
 
 
- 50 ir mažiau  
+ 50 ir mažiau pareigybių 
  iki 5 
- 11,42–13,3 
- 10,54–11,9 
+ 13,49 
+ 12,45 
 
 
  nuo daugiau kaip 5 iki 10 
- 11,59–13,5 
- 10,71–12,2 
+ 13,69 
+ 12,65 
 
 
  daugiau kaip 10 
- 11,77–13,7 
- 10,89–12,3 
+ 13,9 
+ 12,86 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2826,36 +2874,37 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
  iki 5 
- 10,08–10,5 
- 10,26–10,7 
- 10,43–12 
- 8,2–9,8 
- 8,55–10 
- 8,9–10,2 
+ 11,9 
+ 12,12 
+ 12,32 
+ 9,84 
+ 10,1 
+ 10,51 
 
 
  nuo daugiau kaip 5 iki 10 
- 10,26–10,6 
- 10,43–10,9 
- 10,6–12,1 
- 8,55–10 
- 8,9–10,2 
- 9,06–10,4 
+ 12,12 
+ 12,32 
+ 12,52 
+ 10,1 
+ 10,51 
+ 10,7 
 
 
  daugiau kaip 10 
- 10,43–10,7 
- 10,6–11,2 
- 10,77–12,2 
- 8,9–10,2 
- 9,06–10,4 
- 9,23–10,6 
+ 12,32 
+ 12,52 
+ 12,72 
+ 10,51 
+ 10,7 
+ 10,9 
 
 
 
  
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -2947,6 +2996,16 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1259, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15486
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 7, 8 straipsnių ir 5 priedo pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1234, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15600
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 5 priedo pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 10, 11, 14 straipsnių ir 1, 2, 3, 4, 5 priedų pakeitimo įstatymas
  
  
 part_db801440f7984293b3909b73906cca0d_end
