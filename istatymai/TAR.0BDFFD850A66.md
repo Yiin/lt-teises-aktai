@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-29 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-11-29
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -1532,7 +1532,7 @@ LICENCIJAVIMAS IR ŪKIO SUBJEKTŲ VEIKLOS PRIEŽIŪRA
 
 
 
-4. Planinių patikrinimų taisyklės ir neplaninių patikrinimų taisyklės turi būti rengiamos vadovaujantis šio įstatymo 30 straipsnyje įtvirtintais minimalios ir proporcingos ūkio subjektų veiklos priežiūros naštos bei nediskriminavimo principais ir juos atitikti. 
+4. Planinių patikrinimų taisyklės ir neplaninių patikrinimų taisyklės turi būti rengiamos vadovaujantis šio įstatymo 30 straipsnyje įtvirtintais minimalios ir proporcingos priežiūros naštos bei nediskriminavimo principais ir juos atitikti. 
 
 
 
@@ -1542,40 +1542,45 @@ LICENCIJAVIMAS IR ŪKIO SUBJEKTŲ VEIKLOS PRIEŽIŪRA
 
 
 
-6. Patvirtintas patikrinimų planas ir jo pakeitimai skelbiami ūkio subjektų veiklos priežiūrą atliekančio subjekto interneto svetainėje arba į planą įtraukti ūkio subjektai informuojami individualiai ne vėliau kaip per 3 darbo dienas po patikrinimų plano patvirtinimo ar jo pakeitimo. Ūkio subjektų veiklos priežiūrą atliekantis subjektas, prieš pradėdamas ūkio subjekto veiklos planinį patikrinimą, likus ne mažiau kaip 10 darbo dienų, privalo ūkio subjektą informuoti apie numatomą atlikti planinį patikrinimą, nurodyti atliekamo patikrinimo pagrindą, terminą, dalyką ir pateikti preliminarų dokumentų, kuriuos ūkio subjektas turi pateikti priežiūrą atliekančiam subjektui, sąrašą. 
+6. Patvirtintas patikrinimų planas ir jo pakeitimai skelbiami ūkio subjektų veiklos priežiūrą atliekančio subjekto interneto svetainėje arba į planą įtraukti ūkio subjektai informuojami individualiai ne vėliau kaip per 3 darbo dienas po patikrinimų plano patvirtinimo ar jo pakeitimo. Ūkio subjektų veiklos priežiūrą atliekantis subjektas, prieš pradėdamas ūkio subjekto veiklos planinį patikrinimą, likus ne mažiau kaip 10 darbo dienų, privalo ūkio subjektą informuoti apie numatomą atlikti planinį patikrinimą, nurodyti atliekamo patikrinimo pagrindą, terminą, dalyką ir pateikti preliminarų dokumentų, kuriuos ūkio subjektas turi pateikti ūkio subjektų veiklos priežiūrą atliekančiam subjektui, sąrašą. 
 
 
 
 
-7. Pirmaisiais metais po ūkio subjekto veiklos, dėl kurios atliekamas veiklos patikrinimas, pradžios šiam subjektui už atliekamo pirmojo planinio patikrinimo metu nustatytus pažeidimus negali būti taikomos poveikio priemonės, susijusios su ūkio subjekto veiklos ribojimu (sustabdomos ar naikinamos veiklos licencijos). Nustačius teisės aktų reikalavimų nesilaikymo, netinkamo taikymo faktą, ūkio subjektui nustatomas protingas (paprastai ne trumpesnis kaip vieno mėnesio) terminas pažeidimams ištaisyti.
+7. Ūkio subjekto veiklos patikrinimas atliekamas po to, kai užregistruojamas Priežiūrą atliekančių institucijų informacinėje sistemoje (PAIIS). Neužregistruoto patikrinimo metu nustatytos aplinkybės negali būti pagrindas ūkio subjektų veiklos priežiūrą atliekančio subjekto sprendimui.
 
 
 
 
-8. Šio straipsnio 7 dalyje nustatyta išlyga netaikyti poveikio priemonių ir nustatyti terminą pažeidimams ištaisyti netaikoma, jeigu poveikio priemonės yra būtinos ir neišvengiamos siekiant užkirsti kelią žalai teisės normų saugomoms vertybėms atsirasti.
+8. Pirmaisiais metais po ūkio subjekto veiklos, dėl kurios atliekama priežiūra, pradžios šiam subjektui už atliekamo pirmojo planinio patikrinimo metu nustatytus pažeidimus negali būti taikomos poveikio priemonės, susijusios su ūkio subjekto veiklos ribojimu (sustabdomos ar naikinamos veiklos licencijos). Nustačius teisės aktų reikalavimų nesilaikymo, netinkamo taikymo faktą, ūkio subjektui nustatomas protingas (paprastai ne trumpesnis kaip vieno mėnesio) terminas pažeidimams ištaisyti. 
 
 
 
 
-9. Ūkio subjektų veiklos priežiūrą atliekantis subjektas po licencijos išdavimo ūkio subjektui 6 mėnesius neatlieka šio subjekto planinių patikrinimų, išskyrus atvejus, kai licencija ūkio subjektui išduota be patikrinimo. 
+9. Šio straipsnio 8 dalyje nustatyta išlyga netaikyti poveikio priemonių ir nustatyti terminą pažeidimams ištaisyti netaikoma, jeigu poveikio priemonės yra būtinos ir neišvengiamos siekiant užkirsti kelią žalai teisės normų saugomoms vertybėms atsirasti.
 
 
 
 
-10. Vienu metu gali būti atliekami ne daugiau kaip du ūkio subjekto veiklos planiniai patikrinimai. Ūkio subjektų veiklos priežiūrą atliekantys subjektai, kurių priežiūros dalykas ir forma yra tarpusavyje susiję, gali atlikti bendrą dviejų ar daugiau ūkio subjektų veiklos priežiūrą atliekančių subjektų planinį patikrinimą, jeigu taip sumažėja priežiūros našta ūkio subjektui. 
+10. Ūkio subjektų veiklos priežiūrą atliekantis subjektas po licencijos išdavimo ūkio subjektui 6 mėnesius neatlieka šio subjekto planinių patikrinimų, išskyrus atvejus, kai licencija ūkio subjektui išduota be patikrinimo. 
 
 
 
 
-11. Ūkio subjekto veiklos neplaninis patikrinimas atliekamas, kai ūkio subjektų veiklos priežiūrą atliekantis subjektas priima motyvuotą sprendimą atlikti šį patikrinimą. Neplaninis patikrinimas turi atitikti neplaninių patikrinimų taisykles ir turi būti atliekamas šio straipsnio 12 dalyje nurodytu pagrindu. Ūkio subjektų veiklos priežiūrą atliekantis subjektas, pradėdamas ūkio subjekto veiklos neplaninį patikrinimą, pateikia tikrinamam ūkio subjektui sprendimo atlikti neplaninį patikrinimą kopiją. Įstatymų nustatytais atvejais kontroliniai pirkimai gali būti atliekami nepateikus ūkio subjektui sprendimo atlikti neplaninį patikrinimą kopijos. Šiais atvejais sprendimo atlikti neplaninį patikrinimą kopija ūkio subjektui turi būti pateikta iš karto po atlikto kontrolinio pirkimo.
+11. Vienu metu gali būti atliekami ne daugiau kaip du ūkio subjekto veiklos planiniai patikrinimai. Ūkio subjektų veiklos priežiūrą atliekantys subjektai, kurių priežiūros dalykas ir forma yra tarpusavyje susiję, gali atlikti bendrą dviejų ar daugiau ūkio subjektų veiklos priežiūrą atliekančių subjektų planinį patikrinimą, jeigu taip sumažėja priežiūros našta ūkio subjektui. 
 
 
 
 
-12. Ūkio subjekto veiklos neplaninis patikrinimas gali būti atliekamas:
+12. Ūkio subjekto veiklos neplaninis patikrinimas atliekamas, kai ūkio subjektų veiklos priežiūrą atliekantis subjektas priima motyvuotą sprendimą atlikti šį patikrinimą. Neplaninis patikrinimas turi atitikti neplaninių patikrinimų taisykles ir turi būti atliekamas šio straipsnio 13 dalyje nurodytu pagrindu. Ūkio subjektų veiklos priežiūrą atliekantis subjektas, pradėdamas ūkio subjekto veiklos neplaninį patikrinimą, pateikia tikrinamam ūkio subjektui sprendimo atlikti neplaninį patikrinimą kopiją. Įstatymų nustatytais atvejais kontroliniai pirkimai gali būti atliekami nepateikus ūkio subjektui sprendimo atlikti neplaninį patikrinimą kopijos. Šiais atvejais sprendimo atlikti neplaninį patikrinimą kopija ūkio subjektui turi būti pateikta iš karto po atlikto kontrolinio pirkimo.
 
 
-1) gavus kito kompetentingo viešojo administravimo subjekto rašytinį motyvuotą prašymą ar pavedimą atlikti ūkio subjekto veiklos patikrinimą arba kitos valstybės kompetentingos institucijos prašymą;
+
+
+13. Ūkio subjekto veiklos neplaninis patikrinimas gali būti atliekamas:
+
+
+1) gavus kito kompetentingo viešojo administravimo subjekto rašytinį motyvuotą prašymą ar pavedimą atlikti ūkio subjekto veiklos patikrinimą ar kitos valstybės kompetentingos institucijos prašymą;
 
 
 
@@ -1602,10 +1607,12 @@ LICENCIJAVIMAS IR ŪKIO SUBJEKTŲ VEIKLOS PRIEŽIŪRA
 
 
 
-13. Informacija apie atliekamą patikrinimą su patikrinimu nesusijusiems asmenims negali būti teikiama tol, kol patikrinimas nėra baigtas, išskyrus įstatymuose nustatytus atvejus, kai šią informaciją privaloma pateikti.
+14. Informacija apie atliekamą patikrinimą su patikrinimu nesusijusiems asmenims negali būti teikiama tol, kol patikrinimas nėra baigtas, išskyrus įstatymuose nustatytus atvejus, kai šią informaciją privaloma pateikti.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2987, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12819
  
-
-
 
 
 
