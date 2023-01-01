@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -1079,9 +1079,104 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 3. Esminius statinių reikalavimus ir statinių techninius parametrus nustatančios institucijos privalo Vyriausybės nustatyta tvarka kontaktiniam centrui pagal kompetenciją teikti Reglamento (ES) Nr. 305/2011 10 straipsnio 3 dalyje nustatytą informaciją.
+
+
+
+
+
+
+111 straipsnis. Statybos sektoriaus pažangos ir plėtros politiką įgyvendinanti įstaiga
+
+
+1. Statybos sektoriaus pažangos ir plėtros politiką pagal šiame įstatyme nustatytą kompetenciją įgyvendina Vyriausybės įgaliota įstaiga.
+TAR pastaba. 11-1 straipsnio 1 dalis įsigalioja 2023-05-01.
+
+
+
+
+2.  Vyriausybės įgaliota įstaiga atlieka šias funkcijas:
+
+
+1) dalyvauja planuojant, koordinuojant ir (ar) įgyvendinant su planavimo, statybos technine veikla susijusius paramos atkuriant nuo karo, stichinių ir kitų nelaimių nukentėjusių valstybių infrastruktūros ir kitus objektus, teritorijas, projektus ir priemones;
+TAR pastaba. 11-1 straipsnio 2 dalies 1 punktas įsigalioja 2023-02-01.
+
+
+
+
+2) rengia, įgyvendina arba dalyvauja rengiant ir (ar) įgyvendinant statybos sektoriaus pažangos ir plėtros skatinimo projektus ir priemones, statybos sektoriaus skaitmeninimo, statybos dalyvių kompetencijos didinimo, statinių tvarumo vertinimo srityse nacionaliniu ir (ar) tarptautiniu lygmeniu;
+TAR pastaba. 11-1 straipsnio 2 dalies 2 punktas įsigalioja 2023-02-01.
+
+
+
+
+3) atlieka statinių statybos techninės veiklos pagrindinių sričių vadovų (išskyrus architektus), pastatų energinio sertifikavimo ekspertų, statybos rangovų, statinio projekto (jo dalies) ekspertizės ir statinio (jo dalies) ekspertizės rangovų veiklos priežiūrą, apimančią šių subjektų atitikties kvalifikaciniams reikalavimams tikrinimą, privalomųjų nurodymų pateikti reikalingą informaciją ir dokumentus, pašalinti tikrinant nustatytas neatitiktis teikimą;
+TAR pastaba. 11-1 straipsnio 2 dalies 3 punktas įsigalioja 2023-02-01.
+
+
+
+
+4) atlieka statinių statybos techninės veiklos pagrindinių sričių vadovų (išskyrus architektus), įrašytų į teismo ekspertų sąrašą ir teikiančių teismo ekspertizės paslaugas, kvalifikacijos, kurios pagrindu asmuo įrašytas į teismo ekspertų sąrašą, patikrinimą;
+TAR pastaba. 11-1 straipsnio 2 dalies 4 punktas įsigalioja 2023-02-01.
+
+
+
+
+5) pripažįsta užsienyje įgytas statybos inžinieriaus profesines kvalifikacijas aplinkos ministro nustatyta tvarka;
+TAR pastaba. 11-1 straipsnio 2 dalies 5 punktas įsigalioja 2023-05-01.
+
+
+
+
+6) kuria, tvarko, plėtoja priemones ir (ar) paslaugas, reikalingas statybos sektoriui skaitmeninti, statinio informacinio modeliavimo metodų taikymo plėtrai, jų naudai vertinti ir stebėti;
+TAR pastaba. 11-1 straipsnio 2 dalies 6 punktas įsigalioja 2023-02-01.
+
+
+
+
+7) kuria, tvarko ir teikia su statybos sektoriaus skaitmeninimu susijusius duomenis, klasifikatorius, informaciją, jų tvarkymo priemones ir paslaugas, jas plėtoja ir techniškai aptarnauja;
+TAR pastaba. 11-1 straipsnio 2 dalies 7 punktas įsigalioja 2023-02-01.
+
+
+
+
+8) vykdo statybos ir su juo susijusiuose sektoriuose vykstančių procesų stebėseną ir vertinimą, atsižvelgdama į statybos sektoriaus pažangos ir plėtros politikos formavimo ir įgyvendinimo poreikius, rengia ir teikia pasiūlymus politiką formuojančioms institucijoms dėl statybos sektoriaus pažangos ir plėtros politikos formavimo ir įgyvendinimo;
+TAR pastaba. 11-1 straipsnio 2 dalies 8 punktas įsigalioja 2023-02-01.
+
+
+
+
+9)  atlieka tyrimus, reikalingus visuomenei aktualiems sektoriaus pažangos ir plėtros politikos formavimo ir įgyvendinimo sprendimams pagrįsti ir priimti;
+TAR pastaba. 11-1 straipsnio 2 dalies 9 punktas įsigalioja 2023-02-01.
+
+
+
+
+10) aplinkos ministro nustatyta tvarka skiria paskirtąsias įstaigas, sustabdo jų paskyrimo galiojimą, panaikina paskyrimo galiojimo sustabdymą ir paskyrimą;
+TAR pastaba. 11-1 straipsnio 2 dalies 10 punktas įsigalioja 2023-05-01.
+
+
+
+
+11) aplinkos ministro nustatyta tvarka vertina ir stebi techninio vertinimo įstaigų veiklą, skiria techninio vertinimo įstaigas, sustabdo jų paskyrimo galiojimą, panaikina paskyrimo galiojimo sustabdymą ir paskyrimą; 
+TAR pastaba. 11-1 straipsnio 2 dalies 11 punktas įsigalioja 2023-05-01.
+
+
+
+
+12) atlieka šiame ir kituose įstatymuose jai pavestas funkcijas.
+TAR pastaba. 11-1 straipsnio 2 dalies 12 punktas įsigalioja 2023-02-01.
+
+
+
+
+
+
+3.  Vyriausybės įgaliotos įstaigos funkcijos, nurodytos šio straipsnio 2 dalyje, finansuojamos valstybės biudžeto lėšomis, pajamomis, gautomis iš įstaigos vykdomos veiklos, fizinių ar juridinių asmenų teikiamos paramos, kitomis teisėtai gautomis lėšomis.
+
+
+Papildyta straipsniu:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
-
-
 
 
 
@@ -3057,7 +3152,10 @@ Nr. XIV-1534, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24179
 
 
 
-14) žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įrašymo į Nekilnojamojo turto registrą, Nekilnojamojo turto kadastrą, kai šiam sklypui dėl statytojo žemės sklype numatomos vykdyti ar vykdomos ūkinės veiklos šios teritorijos turi būti nustatytos, arba valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas, kai dėl šios veiklos atsiranda apribojimų valstybinėje ar savivaldybės žemėje;
+14) žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimo Nekilnojamojo turto registre, kai šiam sklypui dėl statytojo žemės sklype numatomos vykdyti ar vykdomos ūkinės veiklos šios teritorijos turi būti nustatytos, arba valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas, kai dėl šios veiklos atsiranda apribojimų valstybinėje ar savivaldybės žemėje;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
+ 
 
 
 
@@ -3245,7 +3343,7 @@ Nr. XIV-718, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25447
 
 
 
-3) kai nepateiktas žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įrašymo į Nekilnojamojo turto registrą, Nekilnojamojo turto kadastrą, kai šiam sklypui dėl statytojo žemės sklype numatomos vykdyti ar vykdomos ūkinės veiklos šios teritorijos turi būti nustatytos, arba valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas, kai dėl šios veiklos atsiranda apribojimų valstybinėje ar savivaldybės žemėje;
+3) kai nepateiktas žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimo Nekilnojamojo turto registre, kai šiam sklypui dėl statytojo žemės sklype numatomos vykdyti ar vykdomos ūkinės veiklos šios teritorijos turi būti nustatytos, arba valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas, kai dėl šios veiklos atsiranda apribojimų valstybinėje ar savivaldybės žemėje.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
  
@@ -6036,3 +6134,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 3, 8, 10, 12, 19, 22, 24, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1534, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24179
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 4, 8, 12, 14, 17, 18, 22, 24, 27, 27-1, 28, 29, 34, 35, 36, 37, 39, 40, 47, 51, 55 straipsnių, 1 priedo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
