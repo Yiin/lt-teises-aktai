@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/81473890c8e011eba2bad9a0748ee64d"
 
 # Lietuvos Respublikos vienišo asmens išmokos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
  
 Įstatymas paskelbtas: TAR 2021-06-09, i. k. 2021-13152
  
@@ -113,11 +113,12 @@ Nr. XIV-679, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24470
 3 straipsnis. Vienišo asmens išmokos dydis
 
 
-Vienišo asmens išmokos dydis – 32 eurai. 
+Vienišo asmens išmokos dydis – vienas Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme nustatytas našlių pensijos bazinis dydis.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-352, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13152
+Nr. XIV-679, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24470
  
 
 
