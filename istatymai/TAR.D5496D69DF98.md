@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2022-12-31 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-05-02
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -795,7 +795,10 @@ Nr. XIII-3295, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20890
 
 
 
-3) užtikrinti neįgaliųjų ar kitų socialinę atskirtį patiriančių asmenų grupių (prekybos žmonėmis aukų, asmenų, turinčių psichikos ir elgesio sutrikimų dėl psichoaktyviųjų medžiagų vartojimo, nuteistųjų ir asmenų, paleistų iš laisvės atėmimo vietų, bei kitoms socialinę atskirtį patiriančių asmenų grupėms priklausančių asmenų) ir užsieniečių socialinę integraciją;
+3) užtikrinti neįgaliųjų ar kitų socialinę atskirtį patiriančių asmenų grupių (prekybos žmonėmis aukų, asmenų, turinčių psichikos ir elgesio sutrikimų dėl psichoaktyviųjų medžiagų vartojimo, nuteistųjų ir asmenų, paleistų iš laisvės atėmimo vietų įstaigos, bei kitoms socialinę atskirtį patiriančių asmenų grupėms priklausančių asmenų) ir užsieniečių socialinę integraciją;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1235, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15601
+ 
 
 
 
@@ -2491,4 +2494,9 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1683, 2022-12-15, paskelbta TAR 2022-12-30, i. k. 2022-27545
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1235, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15601
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
