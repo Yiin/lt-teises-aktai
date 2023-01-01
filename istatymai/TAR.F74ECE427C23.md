@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
  
@@ -201,7 +201,10 @@ Nr. XIII-1870, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00222
 
 
 
-5) asmenys, laikomi tardymo izoliatoriuose ir pataisos įstaigose;
+5) asmenys, laikomi laisvės atėmimo vietų įstaigoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1219, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15584
+ 
 
 
 
@@ -283,7 +286,10 @@ Gyvenamosios vietos nedeklaruoja:
 
 
 
-4) asmenys, laikomi tardymo izoliatoriuose ir pataisos įstaigose, visą buvimo šiose įstaigose laikotarpį – pagal savivaldybę, kurios teritorijoje buvo paskutinė asmens deklaruota gyvenamoji vieta arba kurios teritorijoje jie gyveno iki suėmimo arba bausmės atlikimo;
+4) asmenys, laikomi laisvės atėmimo vietų įstaigoje, visą buvimo šioje įstaigoje laikotarpį – pagal savivaldybę, kurios teritorijoje buvo paskutinė asmens deklaruota gyvenamoji vieta arba kurios teritorijoje jie gyveno iki suėmimo arba bausmės atlikimo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1219, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15584
+ 
 
 
 
@@ -770,5 +776,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-420, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14577
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 7 straipsnio pakeitimo įstatymas
  
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1219, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15584
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 4 ir 6 straipsnių pakeitimo įstatymas
  
-part_be9d153934a94a0cb7228a6ae3691e9c_end
+ 
+part_e9c6a152373445d0ab463415f6403fd5_end
