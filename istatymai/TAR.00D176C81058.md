@@ -20,19 +20,21 @@ LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 25-1176, i. k. 1101010ISTA00XI-681
+ 
+Nauja redakcija nuo 2023-01-01:
+Nr. XIV-1511, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23361
  
 LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
  
 2010 m. vasario 11 d. Nr. XI-681
 Vilnius
  
- 
 
 
-PIRMASIS SKIRSNIS
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
@@ -40,7 +42,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato juridinių asmenų, kurių teisinė forma yra šeimyna, steigimą, valdymą, teises, pareigas ir atsakomybę, lėšas ir turtą, taip pat šeimynų reorganizavimą, pertvarkymą ir likvidavimą.
+Šio įstatymo paskirtis – reglamentuoti šeimynos steigimą, šeimynos teises, pareigas ir atsakomybę, šeimynos valdymą, lėšas ir turtą, taip pat šeimynos reorganizavimą, pertvarkymą ir likvidavimą.
  
 
 
@@ -48,39 +50,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Šeimynos apibrėžtis ir paskirtis 
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Šeimyna – šio įstatymo ir kitų teisės aktų nustatyta tvarka įsteigtas pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo. 
-
-
-
-
-2. Šeimyna globoja keturis ir daugiau vaikų šeimos aplinkoje. Bendras vaikų skaičius šeimynoje su savais vaikais – ne daugiau kaip aštuoni vaikai. Šis vaikų skaičius gali būti didesnis, negu nurodyta šioje dalyje, kai broliai ir seserys neišskiriami, arba mažesnis, jeigu globojamas vaikas su negalia. 
-TAR pastaba. 2 dalies nuostatos dėl maksimalaus vaikų skaičiaus netaikomos iki įstatymo Nr. XIII-648 įsigaliojimo (2018-07-01) įsteigtoms šeimynoms, kol globojamų (rūpinamų) vaikų skaičius dėl vaikų pilnametystės, grąžinimo tėvams, emancipacijos, įvaikinimo ar mirties sumažės iki šiuo įstatymu nustatytos ribos.
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
+1. Šeimyna – pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, kuris šeimos aplinkoje globoja (rūpina) ir (ar) prižiūri saugioje aplinkoje laikinai apgyvendintus 4 ar daugiau vaikų. Bendras savų vaikų, šeimynoje globojamų (rūpinamų) ir prižiūrimų vaikų skaičius – ne daugiau kaip 8, išskyrus atvejus, kai vaikų gali būti daugiau, jeigu neišskiriami broliai ir seserys, arba mažiau, jeigu globojamas (rūpinamas) ar prižiūrimas laikinai apgyvendintas vaikas su negalia. 
 
 
 
 
-3. Šeimynos paskirtis – užtikrinti vaiko globą (rūpybą) pagal vaiko globą (rūpybą) reglamentuojančius teisės aktus ir teikti socialinę globą pagal socialinę globą reglamentuojančius teisės aktus, užtikrinti reikiamą pagalbą ir paslaugas pagal individualius vaikų poreikius, įskaitant specialiuosius vaikų su negalia ir specialiųjų ugdymosi poreikių turinčių vaikų poreikius, nulemtus jų amžiaus, brandos, įgimtų ar įgytų savybių ar kitų ypatumų, bei jų integraciją į visuomenę teisės aktų nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
-
-
-
-
-4. Šeimynos pavadinime turi būti jos teisinę formą apibrėžiantis žodis „šeimyna“. Šeimynos buveinė turi būti Lietuvos Respublikoje.
-
-
-
-
-5. Šeimyna gali turėti antspaudą ir turi turėti sąskaitą banke.
-Straipsnio dalies pakeitimai:
-Nr. XII-507, 2013-07-02, Žin., 2013, Nr. 75-3778 (2013-07-13), i. k. 1131010ISTA0XII-507
+2. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme.
  
 
 
@@ -91,12 +69,22 @@ Nr. XII-507, 2013-07-02, Žin., 2013, Nr. 75-3778 (2013-07-13), i. k. 1131010IST
 3 straipsnis. Šeimynos veikla 
 
 
-1. Šeimynos veiklos tikslai – užtikrinti šeimynos globojamų (rūpinamų) vaikų teisių ir įstatymų ginamų interesų įgyvendinimą ir apsaugą, suteikiant šiems vaikams tokias gyvenimo sąlygas, kokių reikia jų fizinei, protinei, dvasinei, dorovinei bei socialinei raidai, ir tokią šeimos aplinką, kokios reikia jų gerovei, kad tinkamai pasirengtų savarankiškai gyventi šeimoje ir visuomenėje.
+1. Šeimynos veiklos tikslas – užtikrinti šeimynos globojamo (rūpinamo) vaiko auklėjimą ir priežiūrą aplinkoje, kurioje jis galėtų saugiai tinkamai augti, vystytis ir tobulėti, bei saugią aplinką šeimynoje laikinai apgyvendintam vaikui.  
 
 
 
 
-2. Šeimyna savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos civiliniu kodeksu (toliau – Civilinis kodeksas), Lietuvos Respublikos socialinių paslaugų įstatymu (toliau – Socialinių paslaugų įstatymas), šiuo įstatymu, Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos patvirtintais Šeimynų nuostatais, kitais teisės aktais ir šeimynos įstatais. 
+2. Šeimynos veiklos paskirtis – užtikrinti vaikų globą (rūpybą), priežiūrą pagal vaikų globą (rūpybą) bei laikiną apgyvendinimą reglamentuojančius teisės aktus ir teikti socialinę globą pagal socialinę globą reglamentuojančius teisės aktus, užtikrinti reikiamą pagalbą ir paslaugas pagal individualius vaikų poreikius, įskaitant specialiuosius vaikų su negalia ir specialiųjų ugdymosi poreikių turinčių vaikų poreikius, lemiamus jų amžiaus, brandos, įgimtų ar įgytų savybių arba kitų ypatumų, bei jų integraciją į visuomenę teisės aktų nustatyta tvarka. 
+
+
+
+
+3. Šeimyna savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, Socialinių paslaugų įstatymu, Vaiko teisių apsaugos pagrindų įstatymu, šiuo įstatymu, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos tvirtinamais šeimynų nuostatais (toliau – Šeimynų nuostatai), kitais teisės aktais, reglamentuojančiais vaiko laikiną apgyvendinimą, jo globą (rūpybą) ir (ar) šeimynos veiklą, ir šeimynos įstatais. 
+
+
+
+
+4. Šeimynoje globojami (rūpinami) ar laikinai apgyvendinami tos savivaldybės teritorijoje, kurioje įsteigta šeimyna, likę be tėvų globos vaikai. Savivaldybių administracijų rašytiniu tarpusavio sutarimu dėl likusių be tėvų globos vaikų apgyvendinimo ir jų globos (rūpybos) šeimynoje finansavimo užtikrinimo bei finansinės ir materialinės pagalbos šeimynos veiklai užtikrinimo šeimynoje gali būti globojami (rūpinami) ar laikinai apgyvendinami ir kitos savivaldybės teritorijoje likę be tėvų globos vaikai. Kitos savivaldybės teritorijoje įsteigtoje šeimynoje vaikai apgyvendinami be savivaldybių administracijų rašytinio tarpusavio sutarimo dėl likusių be tėvų globos vaikų apgyvendinimo ir jų globos (rūpybos) šeimynoje finansavimo užtikrinimo bei finansinės ir materialinės pagalbos šeimynos veiklai užtikrinimo, jeigu neišskiriami broliai ir seserys.
  
 
 
@@ -106,7 +94,7 @@ Nr. XII-507, 2013-07-02, Žin., 2013, Nr. 75-3778 (2013-07-13), i. k. 1131010IST
 
 
 
-ANTRASIS SKIRSNIS
+II SKYRIUS
 ŠEIMYNOS STEIGIMAS 
  
 
@@ -114,33 +102,28 @@ ANTRASIS SKIRSNIS
 4 straipsnis. Šeimynos steigėjui ir dalyviui taikomi reikalavimai
 
 
-1. Šeimynos steigėjas turi būti bent vienas veiksnus fizinis asmuo, kuris: 
+1. Šeimynos steigėjas turi būti veiksnus fizinis asmuo, kuris: 
 
 
-1) atitinka visus Civiliniame kodekse vaiko globėjui (rūpintojui) taikomus reikalavimus;
-
-
-
-
-2) yra išklausęs globėjų ir įtėvių mokymo ir konsultavimo kursus;
+1) atitinka visus Civiliniame kodekse vaiko globėjui (rūpintojui) nustatytus reikalavimus;
 
 
 
 
-3) atitinka bent vieną iš šiame punkte nurodytų sąlygų: 
+2) atitinka bent vieną iš toliau nurodytų sąlygų: 
 
 
-a) ne mažiau kaip trejus metus iki šeimynos įsteigimo vykdė vaikų globėjo (rūpintojo) pareigas, į kurias buvo paskirtas savivaldybės administracijos direktoriaus įsakymu ar teismo nutartimi; 
-
-
-
-
-b) turi ne mažesnę kaip trejų metų darbo su likusiais be tėvų globos vaikais, vaikais, turinčiais specialiųjų ugdymosi poreikių, neįgaliais vaikais ir (ar) šeimomis, patiriančiomis socialinę riziką, patirtį; 
+a) ne trumpiau kaip 3 metus iki įsteigdamas šeimyną vykdė vaiko globėjo (rūpintojo) pareigas, į kurias buvo paskirtas savivaldybės administracijos direktoriaus įsakymu ar teismo nutartimi; 
 
 
 
 
-c) turi aukštąjį universitetinį ar jam lygiavertį išsilavinimą ir ne mažesnę kaip vienų metų tiesioginio darbo su vaikais patirtį socialinio darbo, socialinės pedagogikos, specialiosios pedagogikos, psichologinės pagalbos teikimo, ikimokyklinio ugdymo srityse.
+b) turi ne trumpesnę kaip 3 metų darbo su likusiais be tėvų globos vaikais, vaikais, turinčiais specialiųjų ugdymosi poreikių, vaikais su negalia ir (ar) šeimomis, patiriančiomis socialinę riziką, patirtį; 
+
+
+
+
+c) turi aukštąjį išsilavinimą ir ne trumpesnę kaip vienų metų tiesioginio darbo su vaikais patirtį socialinio darbo ir (ar) socialinės pedagogikos, ir (ar) specialiosios pedagogikos, ir (ar) psichologinės pagalbos teikimo, ir (ar) ikimokyklinio ugdymo, ir (ar) priešmokyklinio ugdymo srityse.
 
 
 
@@ -149,18 +132,15 @@ c) turi aukštąjį universitetinį ar jam lygiavertį išsilavinimą ir ne maž
 
 
 
-2. Šeimynos dalyviui yra taikomi tokie patys reikalavimai kaip ir šeimynos steigėjui, išskyrus šio straipsnio 1 dalies 3 punkte nustatytą reikalavimą.
+2. Šeimynos dalyviui taikomas šio straipsnio 1 dalies 1 punkte nustatytas reikalavimas. 
 
 
 
 
-3. Šeimynos dalyviai negali būti kitos šeimynos dalyviais. 
-TAR pastaba. 4 straipsnio nuostatos dėl globėjų ir įtėvių mokymo ir konsultavimo kursų išklausymo netaikomos iki įstatymo Nr. XIII-648 įsigaliojimo (2018-07-01) įsteigtų šeimynų steigėjams ir dalyviams.
-
-
-Straipsnio pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
+3. Šeimynos dalyviai negali būti kitos šeimynos dalyviai. 
  
+
+
 
 
 
@@ -168,56 +148,62 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 5 straipsnis. Šeimynos steigimas
 
 
-1. Šeimynos steigėjas iki šeimynos įregistravimo Juridinių asmenų registre turi:
+1. Šeimynos steigėjas iki šeimynos įregistravimo Juridinių asmenų registre dienos turi:
 
 
-1) gauti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) ar jos įgalioto teritorinio skyriaus išvadą apie šeimynos steigėjo atitiktį šio įstatymo 4 straipsnyje šeimynos steigėjui nustatytiems reikalavimams ir steigiamos šeimynos tinkamumą tapti vaikų globėju (rūpintoju); 
-Straipsnio punkto pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
+1) pateikti dokumentus, nurodomus Vyriausybės tvirtinamuose vaiko globos organizavimo nuostatuose (toliau – Vaiko globos organizavimo nuostatai), ir šių nuostatų nustatyta tvarka gauti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) atestuoto asmens parengtą išvadą, patvirtinančią šeimynos steigėjo atitiktį šio įstatymo 4 straipsnio 1 dalyje nustatytiems reikalavimams; 
 
 
 
 
-2) raštu kreiptis į savivaldybės, kurios teritorijoje šeimyna steigiama, administraciją dėl likusių be tėvų globos vaikų apgyvendinimo būsimojoje šeimynoje ir per 3 mėnesius gauti šios savivaldybės administracijos rašytinį patvirtinimą apgyvendinti būsimojoje šeimynoje likusius be tėvų globos vaikus ir užtikrinti jų socialinės globos finansavimą.
-Straipsnio punkto pakeitimai:
-Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
- 
+2) Šeimynų nuostatuose nustatyta tvarka:
+
+
+a) kreiptis į savivaldybės, kurios teritorijoje šeimyna steigiama, administraciją dėl sutikimo steigti šeimyną savivaldybės teritorijoje. Savivaldybės administracija per vieną mėnesį nuo prašymo gavimo dienos turi pateikti šeimynos steigėjui rašytinį sutikimą dėl šeimynos steigimo ir finansavimo. Savivaldybės administracija nesutinka leisti steigti šeimyną savivaldybės teritorijoje, jeigu patenkinamas savivaldybės teritorijoje likusių be tėvų globos vaikų globos (rūpybos) šeimoje poreikis;
 
 
 
 
-3) patvirtinti šeimynos įstatus, kurie kartu yra ir steigimo sandoris;
+b) gauti kartu su šeimynos steigėju gyvenančių vyresnių kaip 16 metų asmenų rašytinį sutikimą steigti šeimyną; 
 
 
 
 
-4) gauti šeimynos steigėjo sutuoktinio, jei toks yra, o jei jo nėra, – kartu su šeimynos steigėju gyvenančio pilnamečio vaiko (jei toks yra) rašytinį pritarimą steigti šeimyną, jeigu sutuoktinis, jei toks yra, o jei jo nėra, – kartu su šeimynos steigėju gyvenantis pilnametis vaikas neketina tapti šeimynos dalyviu, arba gauti šeimynos steigėjo sutuoktinio, jei toks yra, o jei jo nėra, – kartu su šeimynos steigėju gyvenančio pilnamečio vaiko (jei toks yra) rašytinį sutikimą tapti šeimynos dalyviu. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
+c) gauti kartu su šeimynos steigėju gyvenančio vieno ne jaunesnio kaip 21 metų asmens rašytinį sutikimą tapti šeimynos dalyviu, jeigu šis asmuo ketina juo tapti ir turi dokumentus, patvirtinančius jo atitiktį šio įstatymo 4 straipsnio 1 dalies 1 punkte nustatytiems reikalavimams;
 
 
 
 
 
 
-2. Šeimynai įregistruoti jos steigėjas Juridinių asmenų registrui pateikia šio straipsnio 1 dalyje ir Civilinio kodekso 2.64 straipsnyje nurodytus dokumentus.
+3) patvirtinti šeimynos įstatus, kurie yra ir šeimynos steigimo sandoris.
 
 
 
 
-3. Be Civilinio kodekso 2.66 straipsnyje nurodytų duomenų, Juridinių asmenų registre nurodomi duomenys apie šeimynos dalyvius: fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta.
+
+
+2. Šeimynai įregistruoti jos steigėjas Juridinių asmenų registrui pateikia šio straipsnio 1 dalyje ir Civilinio kodekso 2.64 straipsnyje nurodytus dokumentus ar jų kopijas Juridinių asmenų registro tvarkytojo nustatyta tvarka.
 
 
 
 
-4. Šeimyna laikoma įsteigta nuo jos įregistravimo Juridinių asmenų registre.
+3. Šeimyna laikoma įsteigta nuo jos įregistravimo Juridinių asmenų registre dienos.
 
 
 
 
-5. Šeimyna tampa likusių be tėvų globos vaikų globėju (rūpintoju) nuo:
+4. Šeimynos pavadinime turi būti jos teisinę formą apibrėžiantis žodis „šeimyna“. 
+
+
+
+
+5. Šeimyna gali turėti antspaudą ir turi turėti sąskaitą banke ar kitoje kredito įstaigoje.
+
+
+
+
+6. Šeimyna tampa likusių be tėvų globos vaikų globėja (rūpintoja) nuo:
 
 
 1) savivaldybės administracijos direktoriaus įsakymo dėl vaikų laikinosios globos (rūpybos) nustatymo šeimynoje įsigaliojimo dienos;
@@ -225,11 +211,14 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-2) teismo nutarties dėl vaikų nuolatinės globos (rūpybos) nustatymo šeimynoje įsiteisėjimo dienos, išskyrus atvejus, kai teismo nutartis ar jos dalis dėl vaiko globos (rūpybos) vykdoma skubiai arba teismas nustato konkretų vykdymo terminą. 
+2) teismo nutarties dėl vaikų nuolatinės globos (rūpybos) nustatymo šeimynoje įsiteisėjimo dienos, išskyrus atvejus, kai teismo nutartis ar jos dalis dėl vaiko globos (rūpybos) vykdoma skubiai arba teismas nustato tam tikrą jos vykdymo terminą. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
+
+
+
+
+7. Šeimyna savo veiklą gali pradėti tik gavusi licenciją teikti institucinę socialinę globą (ilgalaikę, trumpalaikę) vaikams šeimynoje Socialinių paslaugų įstatymo nustatyta tvarka.
  
 
 
@@ -253,7 +242,7 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-2) jos teisinė forma – šeimyna;
+2) šeimynos teisinė forma (šeimyna);
 
 
 
@@ -273,17 +262,17 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-6) šeimynos dalyviai;
+6) šeimynos dalyviai (vardai, pavardės) ir jų kompetencija;
 
 
 
 
-7) šeimynos dalyvių kompetencija;
+7) šeimynos turto valdymas;
 
 
 
 
-8) šeimynos turto valdymas;
+8) šeimynos dalyvio teisė į jo šeimynai perduotą turtą, šeimynos dalyviui atsisakius juo būti ar likvidavus šeimyną;
 
 
 
@@ -301,11 +290,6 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 3. Šeimynos įstatuose gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
-
-
-
-
-4. Steigiamos šeimynos įstatus ir pakeistus šeimynos įstatus pasirašiusio asmens parašo tikrumas notaro netvirtinamas.
  
 
 
@@ -315,8 +299,8 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-TREČIASIS SKIRSNIS
-ŠEIMYNOS TEISĖS, PAREIGOS IR ATSAKOMYBĖ
+III SKYRIUS
+ŠEIMYNOS TEISĖS, GARANTIJOS, PAREIGOS IR ATSAKOMYBĖ
  
 
 
@@ -336,17 +320,17 @@ TREČIASIS SKIRSNIS
 
 
 
-2) sudaryti sandorius šeimynos globojamų vaikų iki keturiolikos metų vardu ar duoti sutikimą šeimynos rūpinamiems vaikams nuo keturiolikos iki aštuoniolikos metų patiems sudaryti sandorius įstatymų nustatyta tvarka;
+2) sudaryti sandorius šeimynos globojamų vaikų iki 14 metų vardu ar duoti sutikimą šeimynos rūpinamiems vaikams nuo 14 iki 18 metų patiems sudaryti sandorius įstatymų nustatyta tvarka;
 
 
 
 
-3) gauti iš valstybės ir savivaldybių institucijų ir įstaigų dokumentus ir informaciją, tiesiogiai susijusius su šeimynos globojamais (rūpinamais) vaikais;
+3) gauti iš valstybės ir savivaldybių institucijų bei įstaigų dokumentus ir informaciją, tiesiogiai susijusius su šeimynos globojamais (rūpinamais) vaikais;
 
 
 
 
-4) gauti kitokią negu valstybės ar savivaldybės garantuojamą, kitų asmenų finansinę ir materialinę pagalbą šeimynos veiklai užtikrinti.
+4) gauti ne valstybės ar savivaldybės garantuojamą kitų asmenų finansinę ir materialinę pagalbą šeimynos veiklai užtikrinti.
 
 
 
@@ -361,12 +345,7 @@ TREČIASIS SKIRSNIS
 
 
 
-2) teisės aktų nustatyta tvarka finansavimas už vaiko poreikius atitinkančios socialinės globos teikimą;
-
-
-
-
-3) neatlygintina valstybės ir savivaldybių vaiko teisių apsaugos institucijų teikiama metodinė pagalba vaiko globos (rūpybos), o iš socialinę globą organizuojančių institucijų – socialinės globos klausimais.
+2) socialinės globos ir laikino apgyvendinimo finansavimas teisės aktų nustatyta tvarka.
 
 
 
@@ -374,11 +353,9 @@ TREČIASIS SKIRSNIS
 
 
 4. Šeimyna gali turėti ir kitų teisių bei garantijų, nustatytų įstatymuose ir kituose teisės aktuose.
-
-
-Straipsnio pakeitimai:
-Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
  
+
+
 
 
 
@@ -386,77 +363,27 @@ Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 8 straipsnis. Šeimynos pareigos ir atsakomybė
 
 
-1. Šeimynos pareigos:
+1. Šeimyna vykdo Civiliniame kodekse ir Socialinių paslaugų įstatyme nurodytas globėjo (rūpintojo) bei licencijos teikti institucinę socialinę globą (ilgalaikę, trumpalaikę) vaikams šeimynoje turėtojo pareigas ir turi:
 
 
-1) įstatymų nustatyta tvarka rūpintis, auklėti, atstovauti šeimynos globojamiems (rūpinamiems) vaikams ir ginti jų teises ir įstatymų saugomus interesus;
-
-
-
-
-2) įsigyti Socialinių paslaugų įstatymo nustatyta tvarka licenciją socialinei globai teikti;
+1) supažindinti savo globojamus (rūpinamus) ar laikinai apgyvendintus vaikus su jų teisėmis ir pareigomis, informuoti juos apie jų turtą ir teikti jiems kitą jų teisėtus interesus atitinkančią informaciją;
 
 
 
 
-3) užtikrinti šeimynos vaikų globos (rūpybos) tinkamą įgyvendinimą;
+2) informuoti savivaldybės, kurios teritorijoje ji įsteigta, administraciją apie ketinimą nutraukti savo veiklą prieš 3 mėnesius iki šios veiklos nutraukimo šios savivaldybės administracijos nustatyta tvarka;
 
 
 
 
-4) teikti globojamiems (rūpinamiems) vaikams socialinę globą, atitinkančią teisės aktų nustatytus reikalavimus;
-
-
-
-
-5) tinkamai administruoti šeimynos globojamų (rūpinamų) vaikų turtą;
-
-
-
-
-6) sudaryti šeimynos globojamiems (rūpinamiems) vaikams sąlygas bendrauti su savo tėvais, jei tai nekenkia vaikų interesams;
-
-
-
-
-7) bendrauti su šeimynos globojamų (rūpinamų) vaikų tėvais ar artimaisiais giminaičiais;
-
-
-
-
-8) supažindinti šeimynos globojamus (rūpinamus) vaikus su jų teisėmis ir pareigomis, informuoti juos apie nuosavybės teise priklausantį turtą ir teikti vaikams kitą jų teisėtus interesus atitinkančią informaciją;
-
-
-
-
-9) informuoti prieš 3 mėnesius iki šeimynos veiklos nutraukimo savivaldybės, kurios teritorijoje šeimyna veikia, administraciją; 
-
-
-
-
-10) vykdyti ir kitas pareigas, kurias šeimynai nustato įstatymai ir kiti teisės aktai.
+3) vykdyti kituose įstatymuose ir teisės aktuose jai nustatytas ir (ar) su jos veikla susijusias pareigas.
 
 
 
 
 
 
-2. Šeimyna įstatymų nustatyta tvarka atsako už:
-
-
-1) šeimynos globojamų (rūpinamų) vaikų padarytą žalą:
-
-
-
-
-2) savo pareigų nevykdymą ar netinkamą jų atlikimą;
-
-
-
-
-3) kitus prisiimtus įsipareigojimus.
-
-
+2. Šeimynos, kaip globėjos (rūpintojos), atsakomybės pagrindai ir tvarka nustatyti Civiliniame kodekse.
 
 
 
@@ -469,7 +396,7 @@ Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 
 
-2) šeimynoje įdarbinti jos globojamus (rūpinamus) vaikus;
+2) šeimynoje įdarbinti savo globojamus (rūpinamus) ar laikinai apgyvendintus vaikus;
 
 
 
@@ -479,22 +406,22 @@ Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 
 
-4) suteikti paskolas, garantuoti, laiduoti ar kitaip užtikrinti kitų asmenų prievolių šeimynai priklausančiu turtu vykdymą;
+4) suteikti paskolas, garantuoti, laiduoti ar kitaip užtikrinti kitų asmenų prievolių vykdymą šeimynai priklausančiu turtu;
 
 
 
 
-5) gauti paskolas pagal paskolos sutartis, nustatančias palūkanas, didesnes už vidutinę paskolų rinkos palūkanų normą; 
+5) gauti paskolas pagal paskolų sutartis, nustatančias palūkanas, didesnes už vidutinę paskolų rinkos palūkanų normą; 
 
 
 
 
-6) priimti lėšų ir turto, jeigu juos perduodantis asmuo nurodo šias lėšas ir turtą panaudoti kitiems tikslams, negu nustatyta šeimynos įstatuose;
+6) priimti lėšas ir turtą, jeigu lėšas ir turtą perduodantis asmuo nurodo juos panaudoti kitiems tikslams, negu nustatyta šeimynos įstatuose;
 
 
 
 
-7) steigti juridinį asmenį arba būti dalyviu kituose juridiniuose asmenyse, išskyrus jungimąsi į asociacijas.
+7) steigti juridinį asmenį arba būti kitų juridinių asmenų dalyviu, išskyrus narystę asociacijose.
  
 
 
@@ -506,7 +433,7 @@ Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 
 
-KETVIRTASIS SKIRSNIS
+iv SKYRIUS
 ŠEIMYNOS VALDYMAS 
  
 
@@ -514,80 +441,66 @@ KETVIRTASIS SKIRSNIS
 9 straipsnis. Šeimynos dalyviai ir šeimynos valdymas
 
 
-1. Šeimynos dalyvis yra šeimynos steigėjas. Šeimynos dalyviu taip pat yra šeimynos steigėjo sutuoktinis, jei toks yra, o jei jo nėra, – kartu su šeimynos steigėju gyvenantis pilnametis vaikas (jei toks yra), šeimynos steigimo metu davęs šio įstatymo 5 straipsnio 1 dalies 4 punkte nurodytą rašytinį sutikimą tapti šeimynos dalyviu.
+1. Šeimynos steigėjas, įregistravęs šeimyną Juridinių asmenų registre, tampa šeimynos dalyviu. Šio įstatymo 5 straipsnio 1 dalies 2 punkto c papunktyje nurodytas asmuo šeimynos dalyviu tampa nuo šeimynos įregistravimo Juridinių asmenų registre dienos. Šeimyna įregistravimo Juridinių asmenų registre dieną turi vieną arba 2 šeimynos dalyvius. Jeigu šeimynoje globojami (rūpinami) ir (ar) prižiūrimi daugiau kaip 6 vaikai, ji gali turėti ir 3 šeimynos dalyvius. Visais atvejais šeimyna turi turėti bent vieną dalyvį, atitinkantį šio įstatymo 4 straipsnio 1 dalyje nurodytas sąlygas.
 
 
 
 
-2. Šeimynos steigėjas ir jo sutuoktinis, jei toks yra, o jei jo nėra, – kartu su šeimynos steigėju gyvenantis pilnametis vaikas (jei toks yra ir yra jo rašytinis sutikimas tapti šeimynos dalyviu) šeimynos dalyviais tampa nuo šeimynos įregistravimo Juridinių asmenų registre momento. Šeimyna gali turėti ne daugiau kaip 2 dalyvius. 
+2. Jeigu kartu su šeimynos dalyviu gyvenantis ne jaunesnis kaip 21 metų asmuo Šeimynų nuostatuose nustatyta tvarka šeimynai duoda rašytinį sutikimą tapti šeimynos dalyviu ją jau įregistravus Juridinių asmenų registre, jis juo tampa nuo šeimynos duomenų pakeitimo įregistravimo Juridinių asmenų registre dienos. Jeigu šeimynos dalyvis Šeimynų nuostatuose nustatyta tvarka šeimynai pateikia atsisakymą būti šeimynos dalyviu, šeimynos dalyvio statuso jis netenka nuo šeimynos duomenų pakeitimo įregistravimo Juridinių asmenų registre dienos. 
 
 
 
 
-3. Kai santuoka su šeimynos steigėju sudaroma ir (ar) kartu su šeimynos steigėju gyvenantis pilnametis vaikas pilnametystės sulaukia po šeimynos įregistravimo Juridinių asmenų registre, šeimynos steigėjo sutuoktinis, išreiškęs valią tapti šeimynos dalyviu, juo tampa nuo šeimynos duomenų pakeitimo įregistravimo Juridinių asmenų registre. Jeigu šeimynos steigėjo sutuoktinis nesutinka tapti šeimynos dalyviu, juo gali tapti kartu su šeimynos steigėju gyvenantis pilnametis vaikas, išreiškęs valią tapti šeimynos dalyviu, ir juo tampa nuo šeimynos duomenų pakeitimo įregistravimo Juridinių asmenų registre.
+3. Šeimyna įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per šeimynos dalyvius.
 
 
 
 
-4. Šeimyna įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per šeimynos dalyvius.
+4. Jeigu šeimynoje yra vienas šeimynos dalyvis, ji turi vienasmenį valdymo organą – šeimynos dalyvį. Jeigu šeimynoje yra 2 arba 3 dalyviai, ji turi kolegialų valdymo organą, kurio nariai yra visi šeimynos dalyviai. Šeimynos valdymo organas atlieka ir šeimynos dalyvių susirinkimo funkcijas.
 
 
 
 
-5. Šeimyna turi vienasmenį arba kolegialų valdymo organą. Šeimynos vienasmenis valdymo organas – šeimynos dalyvis, o kolegialus valdymo organas – šeimynos dalyviai.
-
-
-
-
-6. Šeimynos dalyvis veikia šeimynos vardu vienasmeniškai, o šeimynos dalyviai sprendimus priima bendru sutarimu šio įstatymo nustatyta tvarka. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
+5. Šeimynos dalyvis veikia šeimynos vardu vienasmeniškai pagal šeimynos įstatuose nustatytą kompetenciją, o šeimynos dalyviai sprendimus priima bendru sutarimu Šeimynų nuostatuose nustatyta tvarka. 
  
 
 
 
 
-10 straipsnis. Šeimynos dalyvių teisės ir garantijos
 
 
-1. Šeimynos dalyviai tik bendru sutarimu turi teisę:
+10 straipsnis. Šeimynos dalyvių teisės 
 
 
-1) pakeisti šeimynos įstatus;
+1. Šeimynos dalyviai bendru sutarimu, o kai šeimyna turi tik vieną dalyvį – vienasmenišku sprendimu turi teisę:
 
 
-
-
-2) surašyti ir pasirašyti pinigų ar kito turto perdavimo šeimynai dokumentus;
+1) pakeisti šeimynos įstatus; 
 
 
 
 
-3) sudaryti darbo sutartis su socialinę globą teikiančiais ir kitais darbuotojais;
+2) priimti sprendimus dėl šeimynos turto valdymo;
 
 
 
 
-4) priimti sprendimą likviduoti šeimyną.
+3) sudaryti darbo sutartis su darbuotojais;
+
+
+
+
+4) priimti sprendimą reorganizuoti ar likviduoti šeimyną. 
 
 
 
 
 
 
-2. Šeimynos dalyviai turi ir kitų teisės aktuose jiems nustatytų teisių.
-
-
-
-
-3. Šeimynos dalyviams garantuojamos ne mažesnės negu šio įstatymo 12 straipsnio 1 dalyje nurodytos išlaikymo pajamos.
-
-
-Straipsnio pakeitimai:
-Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
+2. Šeimynos dalyviai gali turėti ir kitų įstatymuose, kituose teisės aktuose jiems nustatytų teisių. 
  
+
+
 
 
 
@@ -603,39 +516,54 @@ Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 
 
-2) organizuoti teisės aktų nustatyta tvarka vaikų globą (rūpybą) ir jos vykdymą;
+2) teisės aktų nustatyta tvarka vykdyti vaiko globą (rūpybą);
 
 
 
 
-3) teisės aktų nustatyta tvarka teikti duomenis ir dokumentus apie šeimyną Juridinių asmenų registrui;
+3) prižiūrėti vaiką ir užtikrinti visų jo poreikių tenkinimą bei saugią aplinką laikinai apgyvendintam vaikui;
 
 
 
 
-4) rengti šio įstatymo 16 straipsnio 2 dalyje nurodytas ataskaitas ir informaciją;
+4) teisės aktų nustatyta tvarka teikti duomenis ir dokumentus apie šeimyną Juridinių asmenų registrui;
 
 
 
 
-5) saugoti dokumentus ir kitą svarbią su šeimynos veikla susijusią informaciją teisės aktų nustatyta tvarka;
+5) rengti šio įstatymo 16 straipsnio 2 dalyje nurodytas ataskaitas ir informaciją;
 
 
 
 
-6) vykdyti kituose teisės aktuose jiems nustatytas pareigas.
+6) saugoti dokumentus ir kitą svarbią su šeimynos veikla susijusią informaciją teisės aktų nustatyta tvarka;
+
+
+
+
+7) atlikti pareigas pagal jiems šeimynos įstatuose nustatytą kompetenciją;
+
+
+
+
+8) sumažinti šeimynos dalyvių skaičių, jeigu šeimynoje globojama (rūpinama) ir (ar) prižiūrima 6 ar mažiau vaikų, šio įstatymo 20 straipsnio 3 dalyje nustatyta tvarka;
+
+
+
+
+9) vykdyti kitas įstatymuose, kituose teisės aktuose jiems nustatytas pareigas.
 
 
 
 
 
 
-2. Šeimynos dalyviai atsako įstatymų nustatyta tvarka už pareigų nevykdymą ar netinkamą jų atlikimą.
+2. Šeimynos dalyviai įstatymų nustatyta tvarka atsako už pareigų nevykdymą ar netinkamą jų vykdymą.
 
 
 
 
-3. Šeimynos dalyviai neatsako už šeimynos prisiimtus įsipareigojimus savo turtu.
+3. Šeimynos dalyviai savo turtu neatsako už šeimynos prisiimtus įsipareigojimus.
  
 
 
@@ -643,20 +571,10 @@ Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 
 
 
-12 straipsnis. Šeimynos dalyvių socialinės garantijos
+12 straipsnis. Šeimynos socialinės garantijos
 
 
-1. Šeimynos dalyviams garantuojamos Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatytos išlaikymo pajamos, kurios negali būti mažesnės negu 1,1637 Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA) dydžio, nepriklausomai nuo šeimynoje globojamų (rūpinamų) vaikų skaičiaus. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
-Nr. XIII-1347, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11448
- 
-
-
-
-
-2. Šeimynų dalyviai draudžiami sveikatos draudimu ir valstybiniu socialiniu draudimu Lietuvos Respublikos sveikatos draudimo įstatymo ir Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+Šeimynų dalyviai draudžiami sveikatos draudimu ir valstybiniu socialiniu draudimu Lietuvos Respublikos sveikatos draudimo įstatymo ir Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka.
  
 
 
@@ -666,7 +584,7 @@ Nr. XIII-1347, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11448
 
 
 
-PENKTASIS SKIRSNIS
+V SKYRIUS
 ŠEIMYNOS LĖŠOS IR TURTAS
  
 
@@ -674,7 +592,7 @@ PENKTASIS SKIRSNIS
 13 straipsnis. Šeimynos lėšos 
 
 
-1. Šeimynos lėšos gali būti:
+Šeimynos lėšos gali būti:
 
 
 1) valstybės biudžeto lėšos;
@@ -687,20 +605,20 @@ PENKTASIS SKIRSNIS
 
 
 
-3) dalyvių lėšos;
+3) šeimynos dalyvių lėšos;
 
 
 
 
-4) lėšos, gautos kaip parama.
+4) lėšos, gautos kaip parama;
 
 
 
 
-
-
-2. Šeimyna gali turėti ir kitų teisėtai įsigytų lėšų.
+5) kitos teisėtai įgytos lėšos.
  
+
+
 
 
 
@@ -715,15 +633,12 @@ PENKTASIS SKIRSNIS
 
 
 
-2. Šeimynos dalyviai jiems nuosavybės teise priklausantį kilnojamąjį ir nekilnojamąjį turtą, reikalingą šeimynos veiklai, jeigu jis neperleistas tretiesiems asmenims, neišnuomotas, nesuteiktas neatlyginamai naudotis, neareštuotas, neįkeistas, nėra teisminio ginčo objektas, gali perduoti šeimynos nuosavybėn arba panaudos pagrindais.
+2. Šeimynos dalyviai sau nuosavybės teise priklausantį kilnojamąjį ir nekilnojamąjį turtą, reikalingą šeimynos veiklai vykdyti, jeigu jis neišnuomotas, nesuteiktas neatlygintinai naudotis, neareštuotas, neįkeistas, nėra teisminio ginčo objektas, gali perduoti šeimynos nuosavybėn arba panaudos pagrindais.
 
 
 
 
-3. Valstybės ir savivaldybių turtas gali būti perduodamas šeimynai jos veiklai vykdyti panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis atitinkamai Vyriausybės arba savivaldybės tarybos nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
- 
+3. Valstybės ir savivaldybių turtas gali būti perduodamas šeimynai jos veiklai vykdyti panaudos pagrindais laikinai neatlygintinai valdyti ir juo naudotis Vyriausybės arba savivaldybės tarybos nustatyta tvarka.
 
 
 
@@ -739,55 +654,66 @@ Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 15 straipsnis. Šeimynos finansavimas
 
 
-1. Šeimyna sudaro su savivaldybės, kuri apgyvendino likusį be tėvų globos vaiką šeimynoje, administracija sutartį dėl socialinės globos finansavimo, o esant šeimynos dalyvio rašytiniam prašymui, – ir dėl finansinės paramos šeimynos naudojamo ar nuosavybės teise valdomo nekilnojamojo turto, naudojamo šeimynos veiklai, rekonstravimo ar remonto. Sutartyje aptariamos socialinės globos finansavimo, finansinės paramos, šeimynos nekilnojamojo turto rekonstravimo ar remonto, šeimynos dalyvio išlaikymo pajamų, kitos finansinės ir materialinės pagalbos, užtikrinančios kokybišką šeimynos veiklą, skyrimo sąlygos ir priemonės. Pavyzdinę sutarties formą tvirtina Vyriausybė ar jos įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
-Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
+1. Šeimynai mokamos šeimynos išlaikymo pajamos. Jos apskaičiuojamos ir mokamos Vyriausybės ar jos įgaliotos institucijos tvirtinamoje socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje (toliau – Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika) nustatyta tvarka. Šeimynos dalyvio išlaikymo pajamų, finansuojamų iš savivaldybės biudžeto lėšų, dydis negali būti mažesnis negu 2 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra vienas šeimynos dalyvis, arba mažesnis negu 1,5 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra 2 šeimynos dalyviai, arba mažesnis negu 1 Vyriausybės patvirtinta minimalioji mėnesinė alga, jeigu šeimynoje yra 3 šeimynos dalyviai. Šeimynos dalyvio išlaikymo pajamų, finansuojamų iš savivaldybės biudžeto lėšų, dydis nepriklauso nuo šeimynoje globojamų (rūpinamų) vaikų skaičiaus.
+
+
+
+
+2. Savivaldybės, kurioje įsteigta šeimyna ir (ar) kurios teritorijoje likę be tėvų globos vaikai apgyvendinami šeimynoje, administracija turi sudaryti su šeimyna sutartį dėl vaiko socialinės globos finansavimo, o gavusi šeimynos dalyvio Šeimynų nuostatuose nustatyta tvarka pateiktą prašymą – ir sutartį dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti.
+
+
+
+
+3. Sutartyje dėl vaiko socialinės globos finansavimo nustatoma vaiko socialinės globos finansavimo skyrimo sąlygos, priemonės ir šeimynos dalyvio išlaikymo pajamų dydis. Ji turi būti sudaroma per 10 darbo dienų nuo likusio be tėvų globos vaiko apgyvendinimo šeimynoje dienos. 
+
+
+
+
+4. Sutartyje dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti nustatomos finansinės paramos, šeimynos nekilnojamojo turto rekonstravimo ar remonto, kitos finansinės ir materialinės pagalbos, užtikrinančios kokybišką šeimynos veiklą, skyrimo sąlygos ir priemonės. Sutartis dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti turi būti sudaroma per 10 darbo dienų nuo sprendimo dėl finansinės paramos šiam turtui rekonstruoti ar remontuoti skyrimo priėmimo savivaldybės, kuriai šeimyna yra pateikusi prašymą, administracijos direktoriaus nustatyta tvarka dienos. 
+
+
+
+
+5. Pavyzdines sutarties dėl vaiko socialinės globos finansavimo ir sutarties dėl finansinės paramos šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti formas tvirtina socialinės apsaugos ir darbo ministras.
+
+
+
+
+6. Šeimynoje globojamo (rūpinamo) vaiko ir laikinai apgyvendinto vaiko socialinė globa finansuojama Socialinių paslaugų įstatyme ir Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatyta tvarka. 
+
+
+
+
+7. Savivaldybės, kurioje įsteigta šeimyna, administracija, gavusi šeimynos dalyvio Šeimynų nuostatuose nustatyta tvarka pateiktą prašymą, savivaldybės administracijos direktoriaus nustatyta tvarka turi kompensuoti faktiškai patirtas ir pagrįstas šeimynos steigimo išlaidas. 
+
+
+
+
+8. Finansinė parama šeimynos naudojamam ar nuosavybės teise valdomam nekilnojamajam turtui, skirtam šeimynos veiklai vykdyti, rekonstruoti ar remontuoti teikiama savivaldybės, kurioje įsteigta šeimyna ir (ar) kurios teritorijoje likę be tėvų globos vaikai apgyvendinami šeimynoje, taip pat kuriai šeimyna teikia prašymą, administracijos direktoriaus nustatyta tvarka.  
  
 
 
 
 
-2. Vaikų globa (rūpyba) ir socialinė globa šeimynoje finansuojamos išmokų vaikams skyrimą reglamentuojančiuose teisės aktuose ir Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
- 
+
+
+16 straipsnis. Šeimynos lėšų ir turto naudojimas ir atskaitomybė
+
+
+1. Šeimynos lėšos ir turtas valdomi, naudojami ir jais disponuojama vadovaujantis šiuo įstatymu, šeimynų įstatais ir kitais teisės aktais, reglamentuojančiais šeimynos lėšų ir turto valdymą, naudojimą ir disponavimą jais. 
 
 
 
 
-3. Šeimynos globojamų (rūpinamų) vaikų socialinė globa finansuojama iš valstybės ir savivaldybės biudžetų lėšų.
+2. Šeimyna teikia šias ataskaitas:
+
+
+1) kiekvienais metais savivaldybės administracijai – lėšų panaudojimo ataskaitą Šeimynų nuostatuose nustatytais terminais ir tvarka, pagal juose pateiktą Šeimynos lėšų panaudojimo ataskaitos formą;
 
 
 
 
-4. Sumažėjus šeimynoje šiame įstatyme nustatytam globojamų (rūpinamų) vaikų skaičiui, šeimynos dalyvio išlaikymo pajamų skirtumą iki šio įstatymo 12 straipsnio 1 dalyje nustatyto minimalaus šeimynos dalyvio išlaikymo pajamų dydžio proporcingai finansuoja kiekviena savivaldybė, kurios vaikas, likęs be tėvų globos, yra apgyvendintas šeimynoje.
-Papildyta straipsnio dalimi:
-Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010ISTA0XI-1471
- 
-
-
-
-
-
-
-16 straipsnis. Šeimynos lėšų ir turto naudojimas
-
-
-1. Šeimynos lėšos ir turtas valdomi, naudojami ir jais disponuojama vadovaujantis šiuo įstatymu, šeimynų įstatais ir kitais teisės aktais. 
-
-
-
-
-2. Šeimyna:
-
-
-1) kiekvienais metais teikia savivaldybės administracijai lėšų panaudojimo ataskaitą Šeimynų nuostatuose nustatyta Šeimynos lėšų panaudojimo ataskaitos forma;
-
-
-
-
-2) valstybės ir savivaldybės biudžetų lėšų panaudojimo ataskaitą pagal pateiktą reikalavimą teikia kompetentingoms valstybės institucijoms.
+2) kompetentingoms valstybės institucijoms jų nustatyta tvarka – valstybės ir savivaldybės biudžetų lėšų panaudojimo ataskaitą.
  
 
 
@@ -800,22 +726,22 @@ Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010IST
 17 straipsnis. Šeimynos globojamų (rūpinamų) vaikų turtas 
 
 
-1. Šeimynos globojamų (rūpinamų) vaikų iki apgyvendinimo šeimynoje nuosavybės teise priklausantis ar šeimynoje gyvenant įgytas turtas yra šių vaikų nuosavybė. 
+1. Šeimynos globojamų (rūpinamų) vaikų iki apgyvendinimo šeimynoje dienos nuosavybės teise jiems priklausęs ir (ar) gyvenant šeimynoje įgytas turtas yra šių vaikų nuosavybė. 
 
 
 
 
-2. Šeimynos globojamų (rūpinamų) vaikų turtas administruojamas šeimynos. Šeimynos globojamų (rūpinamų) vaikų turtas turi būti atskirtas nuo šeimynos turto ir jam administruoti yra taikomas paprastasis administravimas, kuris yra nemokamas. 
+2. Šeimynos globojamų (rūpinamų) vaikų turtą administruoja šeimyna. Šeimynos globojamų (rūpinamų) vaikų turtas turi būti atskirtas nuo šeimynos turto. Jam taikomas nemokamas paprastasis administravimas. 
 
 
 
 
-3. Šeimynos globojamų (rūpinamų) vaikų turto administratoriumi savivaldybės administracijos direktoriaus įsakymu ar teismo nutartimi gali būti paskirtas ir kitas asmuo.
+3. Šeimynos globojamų (rūpinamų) vaikų turto administratoriumi savivaldybės administracijos direktoriaus įsakymu ar teismo nutartimi gali būti skiriamas ir kitas asmuo, negu nurodyta šio straipsnio 2 dalyje.
 
 
 
 
-4. Šeimyna administruoja jos globojamų (rūpinamų) vaikų turtą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+4. Šeimyna administruoja savo globojamų (rūpinamų) vaikų turtą socialinės apsaugos ir darbo ministro tvirtinamo šeimynos globojamų (rūpinamų) vaikų turto administravimo tvarkos aprašo nustatyta tvarka.
  
 
 
@@ -825,7 +751,7 @@ Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010IST
 
 
 
-ŠEŠTASIS SKIRSNIS
+vI SKYRIUS
 ŠEIMYNOS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
  
 
@@ -838,10 +764,7 @@ Nr. XI-1471, 2011-06-21, Žin., 2011, Nr. 78-3803 (2011-06-30), i. k. 1111010IST
 
 
 
-2. Šeimyną reorganizuojant, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius teisės aktų nustatyta tvarka organizuoja (prireikus) buvusios šeimynos globotų (rūpintų) vaikų globos (rūpybos) vietos pakeitimą ir kitų globėjų (rūpintojų) paskyrimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
+2. Reorganizuojant šeimyną, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius įvertina, ar yra Civiliniame kodekse nustatyti globėjo (rūpintojo) atleidimo nuo globėjo (rūpintojo) pareigų pagrindai, ir, jeigu yra, inicijuoja globėjo (rūpintojo) atleidimą ir naujo globėjo (rūpintojo) skyrimą vaikui.
 
 
 
@@ -862,34 +785,15 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-2. Atleidžiant šeimyną nuo vaikų globėjo (rūpintojo) pareigų, šeimyna likviduojama jos dalyvių arba teismo sprendimu pagal šeimynos dalyvių arba Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus pareiškimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
+2. Likviduojant šeimyną, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius teisės aktų nustatyta tvarka inicijuoja globėjo (rūpintojo) keitimą ir naujo globėjo (rūpintojo) skyrimą vaikui. 
 
 
 
 
-3. Nušalinant šeimyną nuo vaikų globėjo (rūpintojo) pareigų, šeimyna likviduojama teismo sprendimu pagal Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus arba prokuroro pareiškimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
+3. Likviduojant šeimyną, turi būti:
 
 
-
-
-4. Likviduojant šeimyną, Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius teisės aktų nustatyta tvarka organizuoja buvusios šeimynos globotų (rūpintų) vaikų globos (rūpybos) vietos pakeitimą ir kitų globėjų (rūpintojų) paskyrimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
-
-
-
-
-5. Likviduojant šeimyną, turi būti:
-
-
-1) grąžintas valstybės ar savivaldybės perduotas turtas ir nepanaudotos valstybės ir savivaldybės biudžetų šeimynos veiklai skirtos lėšos į valstybės ar savivaldybės biudžetą įstatymų nustatyta tvarka;
+1) įstatymų nustatyta tvarka grąžintas valstybės ar savivaldybės perduotas turtas ir į valstybės ar savivaldybės biudžetą grąžintos nepanaudotos iš valstybės ir savivaldybės biudžetų šeimynos veiklai vykdyti skirtos lėšos;
 
 
 
@@ -899,7 +803,7 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-3) grąžintas šeimynos globojamiems (rūpinamiems) vaikams iki jų apgyvendinimo šeimynoje turėtas ar šeimynoje gyvenant įgytas turtas.
+3) grąžintas šeimynos globojamiems (rūpinamiems) vaikams iki jų apgyvendinimo šeimynoje dienos turėtas ir (ar) gyvenant šeimynoje įgytas turtas. 
  
 
 
@@ -909,13 +813,13 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-20 straipsnis. Vaikų skaičiaus šeimynoje sumažėjimo pasekmės 
+20 straipsnis. Vaikų skaičiaus šeimynoje sumažėjimas 
 
 
-1. Sumažėjus šeimynoje šiame įstatyme nustatytam globojamų (rūpinamų) vaikų skaičiui, savivaldybės, kurios teritorijoje šeimyna veikia, administracija per 2 mėnesius šeimynai pasiūlo:
+1. Sumažėjus šiame įstatyme nustatytam šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičiui, savivaldybės, kurios teritorijoje šeimyna veikia, administracija per 2 mėnesius šeimynai pateikia pasiūlymus tokia eilės tvarka:
 
 
-1) atkurti pagal šio įstatymo 2 straipsnio 2 dalyje nustatytus reikalavimus globojamų (rūpinamų) vaikų skaičių šeimynoje;
+1) atkurti pagal šio įstatymo 2 straipsnio 1 dalyje nustatytus reikalavimus globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičių šeimynoje;
 
 
 
@@ -923,34 +827,16 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 2) reorganizuoti šeimyną Civilinio kodekso nustatytais pagrindais ir tvarka. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
 
 
 
 
-2. Tais atvejais, kai, sumažėjus šeimynoje šio įstatymo nustatytam globojamų (rūpinamų) vaikų skaičiui, šeimyna dėl susidariusių objektyvių aplinkybių (dėl šeimynos dalyvių amžiaus ar jų ligos) negali būti papildyta kitais tėvų globos netekusiais vaikais, šeimynos veikla tęsiasi tol, kol visi šeimynos globojami (rūpinami) vaikai sulaukia pilnametystės.
+2. Jeigu, sumažėjus šio įstatymo nustatytam šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičiui, į šią šeimyną dėl objektyvių aplinkybių (dėl šeimynos dalyvių amžiaus ar jų ligos) negali būti priimami kiti likę be tėvų globos vaikai, šeimyna tęsia veiklą tol, kol visi jos globojami (rūpinami) vaikai sulaukia pilnametystės.
 
 
 
 
-3. Jeigu šeimynos dalyviai raštu atsisako šio straipsnio 1 dalyje nurodytų pasiūlymų, išskyrus šio straipsnio 2 dalyje nustatytus atvejus, teisės aktų nustatyta tvarka pradedamas šeimynos likvidavimas.
-
-
-
-
-4. Šeimyną likvidavus:
-
-
-1) buvusi šeimyna gali tapti šeima, kurioje globojami (rūpinami) vaikai;
-
-
-
-
-2) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius organizuoja buvusios šeimynos dalyvių arba kitų asmenų paskyrimą vaikų globėjais (rūpintojais). 
-Straipsnio punkto pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
+3. Jeigu šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičius sumažėja iki 6 ar mažesnio skaičiaus, bet jis nėra mažesnis negu šio įstatymo 2 straipsnio 1 dalyje nustatytas šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičius, šeimyna turi 3 dalyvius ir Vaiko globos organizavimo nuostatuose nustatyta tvarka atsisako globoti (rūpinti) ar prižiūrėti daugiau jai pasiūlytų likusių be tėvų globos vaikų, ji bendru sutarimu per 3 darbo dienas nuo atsisakymo globoti (rūpinti) ar prižiūrėti daugiau jai pasiūlytų likusių be tėvų globos vaikų pateikimo Vaiko globos organizavimo nuostatuose nustatyta tvarka dienos turi sumažinti šeimynos dalyvių skaičių iki vieno ar 2 dalyvių ir šio skaičiaus pokytį įregistruoti Juridinių asmenų registre.
  
 
 
@@ -960,9 +846,7 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-
-
-SEPTINTASIS SKIRSNIS
+VII SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
@@ -971,43 +855,11 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 1. Šeimynos vykdomą globą (rūpybą) prižiūri Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius teisės aktų nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
 
 
 
 
-2. Šeimynos teikiamą socialinę globą prižiūri Socialinių paslaugų priežiūros departamentas prie Socialinės apsaugos ir darbo ministerijos teisės aktų nustatyta tvarka.
- 
-
-
-
-
-
-
-22 straipsnis. Įstatymo įgyvendinimas
-
-
-1. Vyriausybė ir jos įgaliotos institucijos iki 2010 m. liepos 1 d. priima ar pakeičia šio įstatymo įgyvendinamuosius teisės aktus.
-
-
-
-
-2. Iki šio įstatymo įsigaliojimo savivaldybių valdybų sprendimais, merų potvarkiais ar savivaldybių tarybų sprendimais įsteigtos šeimynos įstatymų nustatyta tvarka likviduojamos ir šeimynos steigėjo šeimynai perduotas turtas ir nepanaudotos valstybės ir savivaldybių biudžetų lėšos, skirtos šeimynos veiklai, grąžinamos iki 2010 m. liepos 1 d.
-
-
-
-
-3. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgalioti teritoriniai skyriai teisės aktų nustatyta tvarka organizuoja iki šio įstatymo įsigaliojimo savivaldybių valdybų sprendimais, merų potvarkiais ar savivaldybių tarybų sprendimais įsteigtose šeimynose buvusių vaikų globėjų (rūpintojų) atleidimą ir naujų vaikų globėjų (rūpintojų) paskyrimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
- 
-
-
-
-
-4. Savivaldybės nutraukia teisės aktų nustatyta tvarka darbo sutartis su šio straipsnio 2 ir 3 dalyse nurodytų šeimynų motinomis (tėvais) ne vėliau kaip iki 2010 m. liepos 1 d.
+2. Šeimynos teikiamą socialinę globą prižiūri Socialinių paslaugų priežiūros departamentas prie Socialinės apsaugos ir darbo ministerijos Socialinių paslaugų įstatymo, socialinės apsaugos ir darbo ministro įsakymu tvirtinamų socialinės globos normų aprašo bei socialinės globos įstaigų licencijavimo taisyklių nustatyta tvarka.
  
 
 
@@ -1015,15 +867,15 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 
 
 
-23 straipsnis. Įstatymo įsigaliojimas
+22 straipsnis. Asmens duomenų tvarkymas ir dokumentų saugojimas
 
 
-1. Šis įstatymas, išskyrus 22 straipsnio 1 dalį, įsigalioja 2010 m. liepos 1 d.
+1. Įgyvendindami šį įstatymą, duomenų valdytojai užtikrina, kad jų atliekamas asmens duomenų tvarkymas atitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentą (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, nuostatas. 
 
 
 
 
-2. Iki šio įstatymo įsigaliojimo savivaldybių valdybų sprendimais, merų potvarkiais ar savivaldybių tarybų sprendimais įsteigtoms šeimynoms šio įstatymo nuostatos taikomos nuo šių šeimynų perregistravimo Juridinių asmenų registre. 
+2. Šeimynos veiklos dokumentai (įskaitant dokumentus, kuriuose yra asmens duomenų) saugomi Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka Lietuvos vyriausiojo archyvaro nustatytais terminais. Duomenų subjektų teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, vadovaujantis Reglamentu (ES) 2016/679.
  
 
 
@@ -1036,11 +888,12 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
+ 
 RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
+
+
  
-
-
  
  
 Pakeitimai:
@@ -1069,3 +922,8 @@ Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 2, 4, 5, 9, 12, 18, 19, 20, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1347, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11448
 Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 12 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1511, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23361
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas
