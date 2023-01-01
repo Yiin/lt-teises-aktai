@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-06-21
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
- 
-TAR pastaba. Įstatymas Nr. XIV-681 taikomas rengiant 2022 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės finansinių ataskaitų rinkinius ir metinius pranešimus
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
-Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 pavadinimo, 2, 3, 4, 16, 17, 19, 20, 21, 22, 23, 23-2, 23-3, 25, 26, 28, 29 straipsnių, ketvirtojo skirsnio pavadinimo ir priedo pakeitimo, Įstatymo papildymo 3-1 straipsniu ir trečiojo skirsnio pripažinimo netekusiu galios įstatymas
  
 Nauja redakcija nuo 2015-07-01:
 Nr. XII-1696, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08160
@@ -104,15 +99,24 @@ Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
 
 17. Tarpinių finansinių ataskaitų rinkinys (toliau – tarpinės finansinės ataskaitos) – finansinių ataskaitų rinkinys, sudaromas apibendrinus laikotarpio, trumpesnio negu finansiniai metai, duomenis.
 
-18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 1997 m. Konvencijoje dėl kovos su užsienio pareigūnų papirkimu sudarant tarptautinius verslo sandorius, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme. 
+18. Šiame įstatyme vartojama sąvoka „viešojo sektoriaus subjektai“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIV-850, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27750
+ 
+
+19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 1997 m. Konvencijoje dėl kovos su užsienio pareigūnų papirkimu sudarant tarptautinius verslo sandorius, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
 Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-850, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27750
  
 
-19. Kai šio įstatymo normos taikomos finansinėms ataskaitoms, metiniam pranešimui ir mokėjimų valdžios institucijoms ataskaitai, vartojama sąvoka „ataskaitos“. 
+20. Kai šio įstatymo normos taikomos finansinėms ataskaitoms, metiniam pranešimui ir mokėjimų valdžios institucijoms ataskaitai, vartojama sąvoka „ataskaitos“. 
 Papildyta straipsnio dalimi:
 Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-850, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27750
  
 
 31 straipsnis. Finansinei ataskaitų informacijai keliami reikalavimai
@@ -541,7 +545,7 @@ Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
 
 5. Įmonė gali neatskleisti informacijos apie būsimą plėtrą arba su vykstančiomis derybomis susijusių klausimų, jeigu, remiantis tinkamai pagrįsta įmonės vadovo, valdymo ir priežiūros organų narių, veikiančių pagal jiems įstatymais atitinkamai priskirtą kompetenciją, nuomone, už kurią įmonės vadovas, valdymo ir priežiūros organų nariai yra atsakingi, tokios informacijos atskleidimas pakenktų komercinei įmonės padėčiai, o jos neatskleidimas netrukdytų teisingai suprasti įmonės plėtros, veiklos rezultatų, būklės ir jos veiklos poveikio. 
 
-6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
+6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
 
 7. Įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis Įmonių grupių konsoliduotosios atskaitomybės įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
 Straipsnio dalies pakeitimai:
@@ -647,8 +651,9 @@ Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
 AŠTUNTASIS SKIRSNIS
-FINANSINIŲ ATASKAITŲ IR METINIO PRANEŠIMO SAUGOJIMAS, ATSAKOMYBĖ UŽ JŲ PARENGIMĄ IR PATEIKIMĄ JURIDINIŲ ASMENŲ REGISTRUI
- 
+FINANSINIŲ ATASKAITŲ, METINIO PRANEŠIMO AR VEIKLOS ATASKAITOS SAUGOJIMAS. ATSAKOMYBĖ UŽ FINANSINIŲ ATASKAITŲ, METINIO PRANEŠIMO AR VEIKLOS ATASKAITOS PARENGIMĄ IR ŠIŲ ATASKAITŲ AR JŲ DUOMENŲ PATEIKIMĄ 
+Skirsnio pakeitimai:
+Nr. XIII-3316, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21255
 
 27 straipsnis. Finansinių ataskaitų ir metinio pranešimo saugojimo tvarka
 
@@ -672,6 +677,16 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 Straipsnio pakeitimai:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+ 
+
+281 straipsnis. Finansinių ataskaitų, metinio pranešimo ar veiklos ataskaitos ir jų duomenų teikimas, atsakomybė 
+
+1. Įmonės, kurių dalyviai yra viešojo sektoriaus subjektai, ir valstybės valdomos įmonės bei savivaldybių valdomos įmonės savo finansinių ataskaitų rinkinius, įmonės metinius pranešimus ar veiklos ataskaitas, šių ataskaitų duomenis kartu su auditoriaus išvada, jeigu auditas buvo privalomas arba atliktas šios įmonės ar viešojo sektoriaus subjekto iniciatyva, teikia tiems viešojo sektoriaus subjektams, kurie yra šių juridinių asmenų dalyviai ar įgyvendina savininko teises ir pareigas, Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka.
+
+2. Įmonės vadovas arba jo įgaliotas asmuo už šio straipsnio 1 dalyje nustatyto reikalavimo nevykdymą atsako Lietuvos Respublikos administracinių nusižengimų kodekse nustatyta tvarka. 
+
+Papildyta straipsniu:
+Nr. XIII-3316, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21255
  
 
 DEVINTASIS SKIRSNIS
@@ -821,4 +836,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 23
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 pavadinimo, 2, 3, 4, 16, 17, 19, 20, 21, 22, 23, 23-2, 23-3, 25, 26, 28, 29 straipsnių, ketvirtojo skirsnio pavadinimo ir priedo pakeitimo, Įstatymo papildymo 3-1 straipsniu ir trečiojo skirsnio pripažinimo netekusiu galios įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-850, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27750
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 3, 16, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymo Nr. XIII-3316 1 ir 6 straipsnių pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas
 
