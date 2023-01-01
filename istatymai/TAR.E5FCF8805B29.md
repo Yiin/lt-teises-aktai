@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e5fcf8805b2911eb9dc7b575f08e8bea"
 
 # Lietuvos Respublikos įstatymas dėl Lietuvos Respublikos pareiškimų pagal Europos Sąjungos bei Europos atominės energijos bendrijos ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės prekybos ir bendradarbiavimo susitarimą
 
+Suvestinė redakcija nuo 2023-01-01 iki 2024-10-24
+ 
+Įstatymas paskelbtas: TAR 2021-01-20, i. k. 2021-00905
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
 DĖL LIETUVOS RESPUBLIKOS PAREIŠKIMŲ PAGAL EUROPOS SĄJUNGOS BEI EUROPOS ATOMINĖS ENERGIJOS BENDRIJOS IR JUNGTINĖS DIDŽIOSIOS BRITANIJOS IR ŠIAURĖS AIRIJOS KARALYSTĖS PREKYBOS IR BENDRADARBIAVIMO SUSITARIMĄ
@@ -21,9 +28,6 @@ DĖL LIETUVOS RESPUBLIKOS PAREIŠKIMŲ PAGAL EUROPOS SĄJUNGOS BEI EUROPOS ATOMI
 Vilnius
  
  
-
- 
-
  
  
 
@@ -44,7 +48,10 @@ Vilnius
 
 
 
-2) d punkte nurodytomis išduodančiomis teisminėmis institucijomis skiriami apygardos teismai pagal apkaltinamąjį nuosprendį, kuriuo skiriama laisvės atėmimo bausmė, ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai iš pataisos įstaigos paleisto asmens pasiuntimo į pataisos įstaigą atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją, kai arešto orderis išduodamas dėl nuosprendžiu paskirtos laisvės atėmimo bausmės vykdymo, ir Lietuvos Respublikos generalinė prokuratūra, kai arešto orderis išduotas baudžiamojo persekiojimo tikslais. 
+2) d punkte nurodytomis išduodančiomis teisminėmis institucijomis skiriami apygardos teismai pagal apkaltinamąjį nuosprendį, kuriuo skiriama laisvės atėmimo bausmė, ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai paleisto iš laisvės atėmimo vietų įstaigos asmens pasiuntimo atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją, kai arešto orderis išduodamas dėl nuosprendžiu paskirtos laisvės atėmimo bausmės vykdymo, ir Lietuvos Respublikos generalinė prokuratūra, kai arešto orderis išduotas baudžiamojo persekiojimo tikslais.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1240, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15607
+ 
 
 
 
@@ -114,4 +121,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_af959ffe614241489ae89d7cf616323b_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1240, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15607
+Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos pareiškimų pagal Europos Sąjungos bei Europos atominės energijos bendrijos ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės prekybos ir bendradarbiavimo susitarimą“ Nr. XIV-164 1 straipsnio pakeitimo įstatymas
