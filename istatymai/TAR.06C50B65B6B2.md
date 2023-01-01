@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
  
@@ -325,7 +325,7 @@ Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010IST
 4 straipsnis. Ne teismo tvarka atlyginamos žalos dydžio nustatymas
 
 
-1. Asmeniui, kuriam žala atsirado dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis), taip pat asmeniui, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, ne teismo tvarka atlyginama reali turtinė žala, t. y. turto netekimas arba sužalojimas, turėtos išlaidos, negautos pajamos (negautas darbo užmokestis ar kitos darbinės pajamos, atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas; pašalpos; pensijos), kurias asmuo būtų gavęs, jeigu nebūtų buvę neteisėtų veiksmų, taip pat neturtinė žala, apskaičiuota šio straipsnio nustatyta tvarka. Ne teismo tvarka atlyginamos turtinės žalos dydis negali viršyti 2 900 eurų, o neturtinės žalos dydis negali viršyti 1 500 eurų. Teisingumo ministerija, atlygindama žalą dėl negauto darbo užmokesčio, sumoka pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą ir Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą darbdavio ir darbuotojo mokėtinas įmokas ir mokesčius už laikotarpį, per kurį asmuo negavo darbo užmokesčio dėl neteisėtų veiksmų. Privalomojo valstybinio socialinio draudimo įmokos ir gyventojų pajamų mokestis neįskaičiuojami į asmeniui atlyginamos turtinės žalos sumą. 
+1. Asmeniui, kuriam žala atsirado dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis), taip pat asmeniui, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, ne teismo tvarka atlyginama reali turtinė žala, t. y. turto netekimas arba sužalojimas, turėtos išlaidos, negautos pajamos (negautas darbo užmokestis ar kitos darbinės pajamos, atskaičius mokesčius ir privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokas; pašalpos; pensijos), kurias asmuo būtų gavęs, jeigu nebūtų buvę neteisėtų veiksmų, taip pat neturtinė žala, apskaičiuota šio straipsnio nustatyta tvarka. Ne teismo tvarka atlyginamos turtinės žalos dydis negali viršyti 10 000 eurų, o neturtinės žalos dydis negali viršyti 5 000 eurų. Teisingumo ministerija, atlygindama žalą dėl negauto darbo užmokesčio, sumoka pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą ir Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą darbdavio ir darbuotojo mokėtinas įmokas ir mokesčius už laikotarpį, per kurį asmuo negavo darbo užmokesčio dėl neteisėtų veiksmų. Privalomojo valstybinio socialinio draudimo įmokos ir gyventojų pajamų mokestis neįskaičiuojami į asmeniui atlyginamos turtinės žalos sumą.
 Straipsnio dalies pakeitimai:
 Nr. IX-2092, 2004-03-30, Žin., 2004, Nr. 55-1888 (2004-04-16), i. k. 1041010ISTA0IX-2092
 Nr. XII-1257, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14861
@@ -559,8 +559,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 žalos, atsiradusios dėl valdžios institucijų
@@ -650,6 +648,3 @@ Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėt�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
 Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo Nr. IX-895 2, 3, 4 ir 5-1 straipsnių pakeitimo įstatymas
- 
- 
-part_7ca4a315255d49e5a6e87733044041e1_end
