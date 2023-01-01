@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-12-01 iki 2022-12-31
+Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -640,10 +640,6 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 
 
-3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) sprendimu, bet ne anksčiau, negu vaikui sueina 5 metai. 
-3 dalies redakcija nuo 2022-01-01 iki 2022-12-31:
-3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) sprendimu, bet ne anksčiau, negu vaikui sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.
-3 dalies redakcija nuo 2023-01-01:
 3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais iki balandžio 30 dienos jam sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, vaikui priešmokyklinis ugdymas gali būti pradedamas teikti, kai jam tais kalendoriniais metais 5 metai sueina iki rugsėjo 1 dienos. Priešmokyklinis ugdymas gali būti teikiamas vėliau tėvų (globėjų) sprendimu, bet ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai. Socialinę riziką patiriančiam vaikui priešmokyklinis ugdymas užtikrinamas švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.
 Straipsnio dalies pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
@@ -1522,7 +1518,18 @@ Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
 
 
 
-6. Lituanistinio švietimo įstaigoms užsienyje valstybės turtas gali būti perduodamas panaudos pagrindais. 
+6. Įstaigoms, įmonėms, organizacijoms užsienyje, kuriose mokoma lietuvių kalbos ar lietuvių kalba (toliau – lituanistinio švietimo įstaiga), skiriamos lėšos lituanistinio švietimo programoms vykdyti iš Lietuvos Respublikos valstybės biudžeto asignavimų, skirtų Švietimo, mokslo ir sporto ministerijai. Lituanistinio švietimo įstaigos turi būti registruotos Švietimo ir mokslo institucijų registre. Bendruosius iš valstybės biudžeto finansuojamų lituanistinio švietimo programų kriterijus nustato švietimo, mokslo ir sporto ministras. Valstybės biudžeto lėšos lituanistinio švietimo įstaigoms skiriamos atsižvelgiant į mokinių skaičių ir valstybės finansines galimybes. Lėšos apskaičiuojamos, skiriamos ir naudojamos Vyriausybės nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-796, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27373
+ 
+
+
+
+
+7. Lituanistinio švietimo įstaigoms užsienyje valstybės turtas gali būti perduodamas panaudos pagrindais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-796, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27373
+ 
 
 
 Straipsnio pakeitimai:
@@ -1930,7 +1937,10 @@ Nr. XII-2537, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20659
 
 
 
-2. Asmeniui, kuriam laikinai atimta ar apribota laisvė, Vyriausybės nustatyta tvarka sudaromos sąlygos mokytis jo perauklėjimo ar bausmės atlikimo vietoje, kad šis asmuo galėtų įgyti pradinį, pagrindinį ir vidurinį išsilavinimą, kvalifikaciją, savarankiškai lavintis.
+2. Asmeniui, kuriam atimta ar apribota laisvė, sudaromos sąlygos mokytis vaikų socializacijos centre ar bausmės atlikimo vietoje, kad šis asmuo galėtų įgyti pradinį, pagrindinį ir vidurinį išsilavinimą, kvalifikaciją, savarankiškai lavintis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1223, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15589
+ 
 
 
 
@@ -2822,8 +2832,6 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-6) 5 metų sulaukusį vaiką leisti mokytis pagal priešmokyklinio ugdymo programą, o 6 metų sulaukusį vaiką – pagal pradinio ugdymo programą; 
-1 dalies 6 punkto redakcija nuo 2023-01-01 iki 2023-12-31:
 6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, arba, jeigu toks vaikas jau yra baigęs priešmokyklinio ugdymo programą, pagal pradinio ugdymo programą; 
 1 dalies 6 punkto redakcija nuo 2024-01-01:
 6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, o pagal pradinio ugdymo programą – ne vėliau, negu vaikui tais kalendoriniais metais sueina 7 metai;
@@ -2865,8 +2873,6 @@ Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 2. Tėvai (globėjai, rūpintojai) privalo:
 
 
-1) vaiką, kuriam tais kalendoriniais metais sueina 6 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus; 
-2 dalies 1 punkto redakcija nuo 2023-01-01 iki 2023-12-31:
 1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus; 
 2 dalies 1 punkto redakcija nuo 2024-01-01:
 1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
@@ -4901,3 +4907,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir 47 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1041, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08796
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 62 straipsnio pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1223, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15589
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 35 straipsnio pakeitimo įstatymas
