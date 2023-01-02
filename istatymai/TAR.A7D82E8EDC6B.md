@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-01-01
+Suvestinė redakcija nuo 2023-01-02 iki 2023-01-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -368,12 +368,18 @@ Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 
 
 
-18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir valstybės įmonės Lietuvos automobilių kelių direkcijos išlaikymo išlaidoms apmokėti;
+18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, išlaikymo išlaidoms ir akcinės bendrovės Lietuvos automobilių kelių direkcijos išlaidoms, patiriamoms vykdant įstatymais priskirtas valstybines funkcijas, apmokėti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
+ 
 
 
 
 
-19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir valstybės įmonės Lietuvos automobilių kelių direkcijos paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti;
+19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir akcinės bendrovės Lietuvos automobilių kelių direkcijos paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
+ 
 
 
 
@@ -510,7 +516,10 @@ Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 
 
 
-4. Programos finansavimo lėšos naudojamos pagal per mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą trejų metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki trejų metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos valstybės įmonė Lietuvos automobilių kelių direkcija ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir 2 dalyse numatytų veiklų finansavimo ne didesnei kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumai. Trejų metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka.  
+4. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina akcinė bendrovė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą vykdo CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija. Susisiekimo ministras kiekvienais metais atsiskaito Seimui už Programos finansavimo lėšų panaudojimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
+ 
 
 
 
@@ -657,7 +666,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
 
- 
 Lietuvos Respublikos 
 kelių priežiūros ir 
 plėtros programos 
@@ -746,12 +754,11 @@ Priedo pakeitimai:
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
  
-part_eeb5fe3931ce489fae9e59aec22c4baa_end
+part_3f4e8bc7ab024a1f8c73627ed074dafa_end
 
 
  
 
- 
 Lietuvos Respublikos 
 kelių priežiūros ir 
 plėtros programos 
@@ -867,7 +874,6 @@ part_1e19b874a13b492cb4668d57f3a7cd62_end
 
  
 
- 
 Lietuvos Respublikos 
 kelių priežiūros ir 
 plėtros programos 
@@ -1235,7 +1241,6 @@ part_3a804eb8080b413fb24350b538e2f327_end
 
  
 
- 
 Lietuvos Respublikos 
 kelių priežiūros ir plėtros 
 programos finansavimo 
@@ -1392,7 +1397,6 @@ part_13500aa429c2408e89328812418bd17d_end
 
  
 
- 
 Lietuvos Respublikos 
 kelių priežiūros ir plėtros 
 programos finansavimo 
@@ -1633,3 +1637,8 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 8, 9 straipsnių, 3 priedo pakeitimo ir 3, 4 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo įstatymas
