@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS SUSKYSTINTŲ GAMTINIŲ DUJŲ TERMINALO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2023-01-01
+Suvestinė redakcija nuo 2023-01-02
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 68-3466, i. k. 1121010ISTA0XI-2053
  
@@ -214,14 +214,14 @@ Nr. XIII-708, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18143
 
 
 4. SGD terminalo veikla, išskyrus SGD terminalo veiklos nutraukimą vadovaujantis šio įstatymo 9 straipsnio 7 dalimi, vykdoma ne trumpiau kaip iki 2044 m. gruodžio 31 d. SGD terminalo operatorius, vadovaudamasis šio įstatymo 9 straipsnio 6 dalies nuostatomis ir teikdamas duomenis Komisijai papildomai dedamajai nustatyti ir (ar) koreguoti, turi įvertinti susidarysiantį SGD terminalo pastoviųjų sanaudų sumažėjimą SGD terminalo veiklos laikotarpiu ir pateikti Komisijai pasiūlymus dėl papildomos dedamosios mažinimo priemonių, sudarančių sąlygas dar iki plaukiojančiosios suskystintų gamtinių dujų saugyklos įsigijimo sumažinti papildomą dedamąją, paskirstant SGD terminalo pastoviųjų sąnaudų dalį per SGD terminalo veiklos laikotarpį. 
-TAR pastaba. 4 dalis įsigalioja 2019-03-01. 4 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
+TAR pastaba.. 4 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 Gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, Valstybinės kainų ir energetikos kontrolės komisijos sprendimu pakartotinai pagal Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo 5 straipsnio 4 ir 5 dalių nuostatas koreguojama ir pradedama taikyti 2019 metų gamtinių dujų tiekimo saugumo papildoma dedamoji prie gamtinių dujų perdavimo kainos.
 
 
 
 
 5. Komisija įvertina šio straipsnio 4 dalyje numatytas SGD terminalo operatoriaus pateiktas papildomos dedamosios mažinimo priemones, taip pat, atsižvelgdama į plaukiojančiosios suskystintų gamtinių dujų saugyklos įsigijimo ir finansavimo sąnaudas, įtraukia tiesiogiai ir netiesiogiai su šiomis sąnaudomis ir papildomos dedamosios mažinimo priemonėmis susijusias pagrįstas SGD terminalo operatoriaus sąnaudas į papildomą dedamąją ir nustato SGD terminalo pastoviųjų sąnaudų kompensavimą per ne trumpesnį nei šio straipsnio 4 dalyje nurodytą SGD terminalo veiklos laikotarpį. 
-TAR pastaba. 5 dalis įsigalioja 2019-03-01. 5 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
+TAR pastaba. 5 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 Gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, Valstybinės kainų ir energetikos kontrolės komisijos sprendimu pakartotinai pagal Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo 5 straipsnio 4 ir 5 dalių nuostatas koreguojama ir pradedama taikyti 2019 metų gamtinių dujų tiekimo saugumo papildoma dedamoji prie gamtinių dujų perdavimo kainos.
 
 
@@ -232,23 +232,25 @@ Nr. XIII-1786, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21236
 
 
 
-6 straipsnis. Sprendimų priėmimas
+6 straipsnis. Sprendimų priėmimas
 
 
-1. Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, pagal kompetenciją priimdamos sprendimus, susijusius su projekto įgyvendinimu, visapusiškai bendradarbiauja tarpusavyje ir su bendrove, keičiasi reikalinga informacija ir užtikrina savalaikį sprendimų priėmimą, suteikiantį bendrovei ir (ar) kitiems asmenims teisę vykdyti SGD terminalo infrastruktūros projektavimo, plėtros, įrengimo ir kitus susijusius darbus. Su projekto įgyvendinimu susiję sprendimai turi būti priimami per įmanomai trumpiausią terminą.
-
-
-
-
-2. Valstybės įmonė Klaipėdos valstybinio jūrų uosto direkcija visapusiškai bendradarbiauja su bendrove teisės aktų nustatyta tvarka parenkant vietą (aikštelę) SGD terminalui įrengti.
+1. Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, pagal kompetenciją priimdamos sprendimus, susijusius su projekto įgyvendinimu, visapusiškai bendradarbiauja tarpusavyje ir su bendrove, keičiasi reikalinga informacija ir užtikrina, kad būtų laiku priimti sprendimai, suteikiantys bendrovei ir (ar) kitiems asmenims teisę vykdyti SGD terminalo infrastruktūros projektavimo, plėtros, įrengimo ir kitus susijusius darbus. Su projekto įgyvendinimu susiję sprendimai turi būti priimami per įmanomai trumpiausią terminą.
 
 
 
 
-3. Bendrovei suteikiama teisė naudotis Klaipėdos valstybinio jūrų uosto teritorija, reikalinga SGD terminalui įrengti ir eksploatuoti, sutarties su valstybės įmone Klaipėdos valstybinio jūrų uosto direkcija pagrindu teisės aktų nustatyta tvarka ir sąlygomis.
+2. Akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija visapusiškai bendradarbiauja su bendrove teisės aktų nustatyta tvarka parenkant vietą (aikštelę) SGD terminalui įrengti.
+
+
+
+
+3. Bendrovei suteikiama teisė naudotis Klaipėdos valstybinio jūrų uosto teritorija, reikalinga SGD terminalui įrengti ir eksploatuoti, sutarties su akcine bendrove Klaipėdos valstybinio jūrų uosto direkcija pagrindu teisės aktų nustatyta tvarka ir sąlygomis.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-528, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19623
  
-
-
 
 
 
@@ -326,7 +328,7 @@ SGD TERMINALO ĮRENGIMAS IR VEIKLA
 
 
 6. Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės valdomų akcinių bendrovių akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių suskystintų gamtinių dujų terminalo operatoriaus akcijų suteikiamas neturtines teises, užtikrina, kad SGD terminalo operatorius, įgyvendindamas Nacionalinėje energetinės nepriklausomybės strategijos ir Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 5 straipsnio 1 dalies nuostatas, ne vėliau kaip iki 2024 m. gruodžio 31 d. nuosavybės teise įsigyja plaukiojančiąją suskystintų gamtinių dujų saugyklą ir tampa jos valdytoju, pasirinkdamas ekonomiškai naudingiausią pasiūlymą dėl plaukiojančiosios suskystintų gamtinių dujų saugyklos įsigijimo. 
-TAR pastaba. 6 dalis įsigalioja 2019-03-01. 6 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
+TAR pastaba. 6 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 Papildyta straipsnio dalimi:
 Nr. XIII-1786, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21236
  
@@ -335,7 +337,7 @@ Nr. XIII-1786, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21236
 
 
 7. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į tai, kad šalyje ženkliai sumažėjo gamtinių dujų suvartojimas, ir į Lietuvos Respublikos gamtinių dujų rinkos išsivystymo ir integracijos lygmenį, taip pat Nacionalinėje energetinės nepriklausomybės strategijoje numatytus valstybės energetikos politikos tikslus ir uždavinius, atlieka SGD terminalo ekonominio naudingumo vertinimą ir pateikia Lietuvos Respublikos Seimui išvadą dėl SGD terminalo veiklos tęstinumo. Jeigu SGD terminalo ekonominė nauda neigiama, SGD terminalo veikla gali būti nutraukiama Lietuvos Respublikos Seimui priėmus įstatymą dėl SGD terminalo veiklos nutraukimo, kuriame taip pat numatomas pagrįstų SGD terminalo operatoriaus sąnaudų, patirtų įgyvendinant šio įstatymo 5 straipsnio 5 dalies ir 9 straipsnio 6 dalies nuostatas, kompensavimas. 
-TAR pastaba. 7 dalis įsigalioja 2019-03-01. 7 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
+TAR pastaba. 7 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 Papildyta straipsnio dalimi:
 Nr. XIII-1786, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21236
  
@@ -543,8 +545,6 @@ priedas
 
 
 2. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 994/2010 dėl dujų tiekimo saugumo užtikrinimo priemonių, kuriuo panaikinama Tarybos direktyva 2004/67/EB (OL 2010 L 295, p. 1).
- 
- 
 
 
  
@@ -580,3 +580,8 @@ Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-205
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1783, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21217
 Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 11 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-528, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19623
+Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 6 straipsnio pakeitimo įstatymas
