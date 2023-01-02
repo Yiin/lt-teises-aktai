@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2023-01-01
+Suvestinė redakcija nuo 2023-01-02
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
  
@@ -68,12 +68,18 @@ Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
 
 
 
-3. Uosto infrastruktūra – hidrotechninių ir inžinerinių įrenginių ir statinių, navigacinių įrenginių, taip pat kelių bei privažiuojamųjų geležinkelio kelių kompleksas.
+3. Uosto infrastruktūra – transporto infrastruktūros dalis, kurią sudaro molai, bangolaužiai, laivybos kanalas, krantinės, krantosaugos statiniai, navigacijos įrenginiai ir keliai, esantys uosto teritorijoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
 
-4. Uosto akvatorija – Lietuvos Respublikos Vyriausybės nustatytų ribų vandens plotas, kuriame yra laivybos kanalas, plūdrieji statiniai ir vidinis bei išorinis reidai.
+4. Uosto akvatorija – Lietuvos Respublikos Vyriausybės nustatytų ribų vandens plotas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
@@ -137,7 +143,10 @@ Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
 
 
 
-15. Uosto direkcija – valstybės įmonė Klaipėdos valstybinio jūrų uosto direkcija.
+15. Uosto direkcija – akcinė bendrovė Klaipėdos valstybinio jūrų uosto direkcija, kurios visos akcijos nuosavybės teise priklauso valstybei. Siekiant efektyvios Uosto direkcijos veiklos priežiūros ir valdymo, Uosto direkcijoje turi būti sudaromas kolegialus priežiūros organas – stebėtojų taryba ir kolegialus valdymo organas – valdyba, kurios pirmininkas skiriamas ir Uosto direkcijos vadovu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
@@ -217,7 +226,10 @@ UOSTAS
 3 straipsnis. Uostas ir jo ribos
 
 
-1. Klaipėdos valstybinis jūrų uostas yra Lietuvos Respublikos nuosavybė.
+1. Uostą sudaro uosto žemė, uosto akvatorija, uosto infrastruktūra, privažiuojamieji geležinkelio keliai, esantys uosto teritorijoje, ir kiti uosto objektai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
@@ -267,25 +279,27 @@ Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
 
 
 
-5 straipsnis. Uosto žemė ir kitas nekilnojamasis turtas
+5 straipsnis. Uosto objektų nuosavybė
 
 
-1. Uosto žemė, akvatorija ir uosto infrastruktūra yra Lietuvos Respublikos nuosavybė.
-
-
-
-
-2. Uosto direkcija turi teisę išnuomoti uosto žemę su uosto veikla susijusioms reikmėms, taip pat Lietuvos Respublikos Vyriausybės nustatyta tvarka perduoti ją laikinai neatlygintinai naudotis.
+1. Uosto žemė ir uosto akvatorija yra išimtinė Lietuvos Respublikos nuosavybė. 
 
 
 
 
-3. Uostui priskirtu valstybės turtu negali būti užtikrinamas trečiųjų asmenų prievolių vykdymas.
+2. Uosto infrastruktūra ir privažiuojamieji geležinkelio keliai, esantys uosto teritorijoje, nuosavybės teise gali priklausyti Lietuvos Respublikai arba Uosto direkcijai. 
+
+
+
+
+3. Kiti uosto objektai nuosavybės teise gali priklausyti Lietuvos Respublikai, savivaldybėms, Lietuvos Respublikos ir kitų valstybių fiziniams ir juridiniams asmenims.
 
 
 Straipsnio pakeitimai:
 Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 Nr. X-950, 2006-12-05, Žin., 2006, Nr. 141-5392 (2006-12-28)
+Straipsnio pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
  
 
 
@@ -300,20 +314,10 @@ Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 
 
 
-7 straipsnis. Uosto privatizavimas
-
-
-1. Uosto žemė, infrastruktūra ir akvatorija neprivatizuojama.
-
-
-
-
-2. Kiti uoste esantys valstybės nuosavybės objektai gali būti parduodami pagal Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymą, tai suderinus su Susisiekimo ministerija.
-Straipsnio dalies pakeitimai:
-Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
+7 straipsnis. Neteko galios nuo 2023-01-02.
+Straipsnio pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
  
-
-
 
 
 
@@ -392,7 +396,7 @@ UOSTO VALDYMAS
 10 straipsnis. Uosto valdymas
 
 
-Uosto žemę, akvatoriją ir uosto infrastruktūrą patikėjimo teise valdo, naudoja ir jomis disponuoja Uosto direkcija savo įstatų, jos veiklą reglamentuojančių teisės aktų nustatyta tvarka ir sąlygomis. Uosto direkcija yra Lietuvos Respublikos Vyriausybės nutarimu įsteigta valstybės įmonė. Jos savininko teises ir pareigas įgyvendina Susisiekimo ministerija.
+Uosto žemę ir uosto akvatoriją patikėjimo teise valdo, naudoja ir jomis disponuoja Uosto direkcija. Uosto direkcijai žemės ir akvatorijos sklypai perduodami patikėjimo teise Lietuvos Respublikos Vyriausybei nustačius uosto teritorijos ir uosto akvatorijos ribas. Uosto direkcija šių sklypų negali perduoti nuosavybės teise kitiems asmenims, jų įkeisti ar kitaip suvaržyti daiktines teises į juos, jais garantuoti, laiduoti ar kitu būdu jais užtikrinti savo ir kitų asmenų prievolių įvykdymą. Uosto direkcija turi teisę išnuomoti uosto žemę su uosto veikla susijusioms reikmėms, taip pat Lietuvos Respublikos Vyriausybės nustatyta tvarka perduoti ją laikinai neatlygintinai naudotis.
 
 
 Straipsnio pakeitimai:
@@ -400,6 +404,7 @@ Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 Straipsnio pakeitimai:
 Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
  
 
 
@@ -426,7 +431,10 @@ Pagrindinės Uosto direkcijos funkcijos:
 
 
 
-4) efektyviai naudoti ir valdyti patikėjimo teise perduotą valstybės turtą;
+4) neteko galios nuo 2023-01-02;
+Straipsnio punkto pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
@@ -486,7 +494,10 @@ Pagrindinės Uosto direkcijos funkcijos:
 
 
 
-16) organizuoti socialinį-buitinį jūrininkų aptarnavimą.
+16) neteko galios nuo 2023-01-02.
+Straipsnio punkto pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
@@ -600,7 +611,10 @@ Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
 
 
 
-4. Uosto direkcijos vadovas ne vėliau kaip per 15 darbo dienų nuo šio straipsnio 3 dalyje nurodytos informacijos gavimo sudaro laisvojo uosto priėmimo komisiją (toliau – priėmimo komisija), į kurią skiriami Uosto direkcijos ir šio straipsnio 2 dalyje nurodytų institucijų, su kuriomis buvo derintas laisvojo uosto įrengimo projektas, atstovai. Priėmimo komisiją sudaro ne mažiau kaip 5 nariai. Priėmimo komisijos pirmininku skiriamas Uosto direkcijos atstovas. Priėmimo komisija vertina, ar laisvasis uostas yra įrengtas pagal laisvojo uosto įrengimo projektą.
+4. Uosto direkcijos vadovas, gavęs šio straipsnio 3 dalyje nurodytą informaciją, ne vėliau kaip per 5 darbo dienas pateikia Susisiekimo ministerijai iš uosto žemės naudotojo gautus dokumentus. Susisiekimo ministerija per 20 darbo dienų nuo šio straipsnio 3 dalyje nurodytos informacijos gavimo dienos sudaro laisvojo uosto priėmimo komisiją (toliau – priėmimo komisija), į kurią skiriami Uosto direkcijos ir šio straipsnio 2 dalyje nurodytų institucijų, su kuriomis buvo derintas laisvojo uosto įrengimo projektas, atstovai. Priėmimo komisiją sudaro ne mažiau kaip 5 nariai. Priėmimo komisijos pirmininku skiriamas Susisiekimo ministerijos atstovas. Priėmimo komisija vertina, ar laisvasis uostas yra įrengtas pagal laisvojo uosto įrengimo projektą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
@@ -699,12 +713,18 @@ Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 
 
 
-5. Laisvojo uosto veiklos reikalavimų laikymosi priežiūrą atlieka Uosto direkcija Lietuvos Respublikos viešojo administravimo įstatyme nustatyta tvarka. Planinis uosto žemės naudotojo, vykdančio veiklą laisvajame uoste, patikrinimas atliekamas ne rečiau kaip kartą per 3 metus.
+5. Lietuvos transporto saugos administracija prižiūri, kaip laikomasi laisvojo uosto veiklos reikalavimų. Planinis uosto žemės naudotojo, vykdančio veiklą laisvajame uoste, patikrinimas atliekamas ne rečiau kaip kartą per 3 metus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
 
-6. Susisiekimo ministerija, gavusi Uosto direkcijos išvadas, kad uosto žemės naudotojas, vykdantis veiklą laisvajame uoste, pažeidžia šio straipsnio 1, 2 ir (ar) 11 dalyse nurodytus reikalavimus (arba vieną iš jų) arba deklaravo savo atitiktį šio straipsnio 2 dalyje nustatytiems reikalavimams pateikdamas netikslius duomenis, per 2 darbo dienas nuo šių išvadų gavimo dienos, įspėja uosto žemės naudotoją, vykdantį veiklą laisvajame uoste, apie galimą teisės vykdyti veiklą laisvajame uoste sustabdymą, informuoja apie nustatytus pažeidimus (pažeidimų rūšį, turinį ir esmę) ir nustato ne trumpesnį kaip 30 darbo dienų nuo įspėjimo apie galimą teisės vykdyti veiklą laisvajame uoste sustabdymą gavimo terminą, per kurį nustatyti pažeidimai privalo būti pašalinti. Uosto žemės naudotojas, vykdantis veiklą laisvajame uoste, per nustatytą terminą pašalinęs visus pažeidimus, ne vėliau kaip per 5 darbo dienas privalo apie tai deklaruoti Susisiekimo ministerijai ir pateikti tai patvirtinančią informaciją. Jeigu per nustatytą terminą pažeidimai nepašalinami ir (ar) apie tai nedeklaruojama, Susisiekimo ministerija per 5 darbo dienas nuo termino, per kurį nustatyti pažeidimai privalėjo būti pašalinti, pabaigos sustabdo teisę vykdyti veiklą laisvajame uoste ir apie tai praneša uosto žemės naudotojui. Draudžiama vykdyti veiklą laisvajame uoste, jeigu Susisiekimo ministerija sustabdė teisę vykdyti veiklą laisvajame uoste ir uosto žemės naudotojas apie tai yra informuotas.
+6. Susisiekimo ministerija, gavusi Lietuvos transporto saugos administracijos išvadas, kad uosto žemės naudotojas, vykdantis veiklą laisvajame uoste, pažeidžia šio straipsnio 1, 2 ir (ar) 11 dalyse nurodytus reikalavimus (arba vieną iš jų) arba deklaravo savo atitiktį šio straipsnio 2 dalyje nustatytiems reikalavimams pateikdamas netikslius duomenis, per 2 darbo dienas nuo šių išvadų gavimo dienos įspėja uosto žemės naudotoją, vykdantį veiklą laisvajame uoste, apie galimą teisės vykdyti veiklą laisvajame uoste sustabdymą, informuoja apie nustatytus pažeidimus (pažeidimų rūšį, turinį ir esmę) ir nustato ne trumpesnį kaip 30 darbo dienų nuo įspėjimo apie galimą teisės vykdyti veiklą laisvajame uoste sustabdymą gavimo terminą, per kurį nustatyti pažeidimai privalo būti pašalinti. Uosto žemės naudotojas, vykdantis veiklą laisvajame uoste, per nustatytą terminą pašalinęs visus pažeidimus, ne vėliau kaip per 5 darbo dienas privalo apie tai deklaruoti Susisiekimo ministerijai ir pateikti tai patvirtinančią informaciją. Jeigu per nustatytą terminą pažeidimai nepašalinami ir (ar) apie tai nedeklaruojama, Susisiekimo ministerija per 5 darbo dienas nuo termino, per kurį nustatyti pažeidimai privalėjo būti pašalinti, pabaigos sustabdo teisę vykdyti veiklą laisvajame uoste ir apie tai praneša uosto žemės naudotojui. Draudžiama vykdyti veiklą laisvajame uoste, jeigu Susisiekimo ministerija sustabdė teisę vykdyti veiklą laisvajame uoste ir uosto žemės naudotojas apie tai yra informuotas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
@@ -744,7 +764,10 @@ Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 
 
 
-9. Panaikinus teisę vykdyti veiklą laisvajame uoste šio straipsnio 8 dalyje nustatyta tvarka, uosto žemės naudotojas, pašalinęs aplinkybes, dėl kurių teisė vykdyti veiklą laisvajame uoste buvo panaikinta, gali deklaruoti Susisiekimo ministerijai atitiktį uosto žemės naudotojui keliamiems reikalavimams šio straipsnio 3 dalyje nustatyta tvarka (ši nuostata netaikoma šio straipsnio 8 dalies 3 punkte nustatytu atveju) ir įgyti teisę vykdyti veiklą laisvajame uoste. Jeigu teisė vykdyti veiklą laisvajame uoste buvo panaikinta trečią kartą per pastaruosius 24 mėnesius, uosto žemės naudotojas negali 6 mėnesius nuo teisės vykdyti veiklą laisvajame uoste panaikinimo (arba kol Uosto direkcija nepatikrino ir neįsitikino, kad šioje dalyje minimi pažeidimai pašalinti) deklaruoti Susisiekimo ministerijai šioje dalyje nurodytos atitikties. 
+9. Panaikinus teisę vykdyti veiklą laisvajame uoste šio straipsnio 8 dalyje nustatyta tvarka, uosto žemės naudotojas, pašalinęs aplinkybes, dėl kurių teisė vykdyti veiklą laisvajame uoste buvo panaikinta, gali deklaruoti Susisiekimo ministerijai atitiktį uosto žemės naudotojui keliamiems reikalavimams šio straipsnio 3 dalyje nustatyta tvarka (ši nuostata netaikoma šio straipsnio 8 dalies 3 punkte nustatytu atveju) ir įgyti teisę vykdyti veiklą laisvajame uoste. Jeigu teisė vykdyti veiklą laisvajame uoste buvo panaikinta trečią kartą per pastaruosius 24 mėnesius, uosto žemės naudotojas negali 6 mėnesius nuo teisės vykdyti veiklą laisvajame uoste panaikinimo (arba kol Lietuvos transporto saugos administracija nepatikrino ir neįsitikino, kad šioje dalyje minimi pažeidimai pašalinti) deklaruoti Susisiekimo ministerijai šioje dalyje nurodytos atitikties.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 
@@ -817,7 +840,10 @@ Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
 
 
 
-2. Uosto direkcijos ir valstybės institucijų, vykdančių laisvojo uosto ar laivybos priežiūrą bei kontrolę, pareigūnai ir jų transporto priemonės į laisvąjį uostą įleidžiami pateikę tarnybinį pažymėjimą.
+2. Valstybės institucijų, vykdančių laisvojo uosto ar laivybos priežiūrą ir kontrolę, pareigūnai ir jų transporto priemonės į laisvąjį uostą įleidžiami pateikę tarnybinį pažymėjimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 Straipsnio pakeitimai:
@@ -894,7 +920,10 @@ Nr. XIII-2180, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09962
 
 
 
-3. Uosto rezervinėse teritorijose esantys statiniai ar kitas nekilnojamasis turtas negali būti perduodami privačion nuosavybėn, juo negali būti užtikrinami trečiųjų asmenų įsipareigojimai ir iš jo negali būti išieškoma pagal kreditorių reikalavimus.
+3. Uosto rezervinėse teritorijose esantys statiniai ar kitas nekilnojamasis turtas negali būti perduodami privačion nuosavybėn, išskyrus atvejus, kai uosto rezervinėse teritorijose esantys statiniai ar kitas nekilnojamasis turtas perduodami Uosto direkcijai ar uosto rezervinėse teritorijose esantys statiniai ar kitas nekilnojamasis turtas, priskirtinas viešajai geležinkelių infrastruktūrai, perduodami viešosios geležinkelių infrastruktūros valdytojui, jais negali būti užtikrinami trečiųjų asmenų įsipareigojimai ir iš jų negali būti išieškoma pagal kreditorių reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 Straipsnio pakeitimai:
@@ -1337,7 +1366,7 @@ UOSTO LĖŠOS
 32 straipsnis. Uosto lėšos
 
 
-1. Uosto lėšas sudaro:
+Uosto lėšas sudaro:
 
 
 1) uosto rinkliavos;
@@ -1355,27 +1384,19 @@ UOSTO LĖŠOS
 
 
 
-4) amortizaciniai atskaitymai;
+4) pajamos, gaunamos už Uosto direkcijos teikiamas paslaugas;
 
 
 
 
-5) pajamos, gaunamos už Uosto direkcijos teikiamus patarnavimus;
+5) kitos teisėtai gautos lėšos.
 
 
 
 
-6) kitos teisėtai gautos lėšos.
-
-
-
-
-
-
-2. Uosto rinkliavos ir uosto žemės nuomos mokestis yra nerealizacinės ir neapmokestinamosios pajamos.
+Straipsnio pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
  
-
-
 
 
 
@@ -1383,85 +1404,12 @@ UOSTO LĖŠOS
 33 straipsnis. Uosto lėšų naudojimas
 
 
-Uosto lėšos naudojamos uosto eksploatavimo, plėtros ir kitoms išlaidoms, susijusioms su uosto veikla, apmokėti. Šios lėšos skiriamos:
-
-
-1) uosto teritorijai prižiūrėti ir saugoti, saugiai laivybai uoste užtikrinti;
+1. Uosto lėšos naudojamos uosto eksploatavimo, plėtros ir kitoms išlaidoms, susijusioms su uosto veikla ir numatytoms Uosto direkcijos strateginiame veiklos plane, apmokėti. 
 
 
 
 
-2) projektiniam uosto vandens gyliui palaikyti bei akvatorijos gilinimo darbams;
-
-
-
-
-3) Uosto direkcijai išlaikyti;
-
-
-
-
-4) gelbėjimo darbams ir taršos padariniams uosto akvatorijoje likviduoti;
-
-
-
-
-5) hidrotechniniams įrenginiams statyti;
-
-
-
-
-6) terminalams statyti;
-
-
-
-
-7) bendrojo naudojimo inžineriniams įrenginiams statyti;
-
-
-
-
-8) privažiavimo prie uosto keliams rekonstruoti ir tiesti, kompensuoti savivaldybei nuosavybės teise priklausančių statinių, trukdančių uosto plėtrai, netekimą ir pašalinimą iš uosto teritorijos bei uosto rezervinių teritorijų (šiuo atveju lėšos perduodamos savivaldybei Lietuvos Respublikos Vyriausybės nustatyta tvarka);
-
-
-
-
-9) mokslinio tyrimo ir projektavimo darbams;
-
-
-
-
-10) jūrininkų socialiniam-buitiniam aptarnavimui organizuoti;
-
-
-
-
-11) kompensacijoms už žemės ar kitų privačios nuosavybės objektų paėmimą visuomenės poreikiams, taip pat už nuostolius, patirtus nutraukus žvejybos galimybes dėl uosto infrastruktūros objektų statybos ir uosto teritorijos plėtros;
-
-
-
-
-12) žemei ar kitiems privačios nuosavybės objektams įsigyti;
-
-
-
-
-13) parengiamiesiems infrastruktūros plėtros darbams uosto rezervinėse teritorijose atlikti;
-
-
-
-
-14) uosto rezervinėms teritorijoms prižiūrėti bei tvarkyti;
-
-
-
-
-15) kitoms išlaidoms, numatytoms susisiekimo ministro patvirtintoje Uosto direkcijos veiklos strategijoje.
-Straipsnio punkto pakeitimai:
-Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
- 
-
-
+2. Uosto lėšos taip pat naudojamos privažiavimo prie uosto keliams rekonstruoti ir tiesti, savivaldybei nuosavybės teise priklausančių statinių, trukdančių uosto plėtrai, netekimo ir pašalinimo iš uosto teritorijos bei uosto rezervinių teritorijų (šiuo atveju lėšos perduodamos savivaldybei Lietuvos Respublikos Vyriausybės nustatyta tvarka) išlaidoms kompensuoti.
 
 
 Straipsnio pakeitimai:
@@ -1470,6 +1418,8 @@ Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
 Nr. IX-1226, 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
 Nr. X-430, 2005-12-06, Žin., 2005, Nr. 148-5391 (2005-12-20)
 Nr. X-811, 2006-09-14, Žin., 2006, Nr. 107-4048 (2006-10-06)
+Straipsnio pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
  
 
 
@@ -1488,7 +1438,10 @@ Nr. X-811, 2006-09-14, Žin., 2006, Nr. 107-4048 (2006-10-06)
 
 
 
-3. Uosto rinkliavų taikymo taisykles tvirtina susisiekimo ministras.
+3. Uosto rinkliavų taikymo taisykles rengia ir tvirtina Uosto direkcija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+ 
 
 
 Straipsnio pakeitimai:
@@ -1848,3 +1801,8 @@ Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 31
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2180, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09962
 Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 22 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 3, 5, 10, 11, 14, 17, 19, 22, 32, 33, 34 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
