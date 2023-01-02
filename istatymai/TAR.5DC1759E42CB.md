@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-01
+Suvestinė redakcija nuo 2023-01-02 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -46,9 +46,10 @@ Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
 
 
 
-2. Keliams, jų projektavimui, tiesimui ir priežiūrai, kelio statiniams, įrenginiams, techninėms eismo reguliavimo priemonėms keliamus reikalavimus ir su tuo susijusias kelių savininkų bei kitų institucijų ir valstybės įmonių pareigas nustato Lietuvos Respublikos kelių įstatymas. 
+2. Keliams, jų projektavimui, tiesimui ir priežiūrai, kelio statiniams, įrenginiams, techninėms eismo reguliavimo priemonėms keliamus reikalavimus ir su tuo susijusias kelių savininkų bei kitų institucijų, valstybės įmonių ir akcinės bendrovės Lietuvos automobilių kelių direkcijos pareigas nustato Lietuvos Respublikos kelių įstatymas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
  
 
 
@@ -1096,9 +1097,10 @@ Eismo saugumo užtikrinimą reglamentuoja šis įstatymas, kiti Lietuvos Respubl
 Eismo saugumas užtikrinamas: 
 
 
-1) nustatant Vyriausybės įgaliojimus, valstybės ir savivaldybių institucijų, įstaigų ir valstybės įmonių kompetenciją eismo saugumo užtikrinimo srityje; 
+1) nustatant Vyriausybės įgaliojimus, valstybės ir savivaldybių institucijų, įstaigų,  valstybės įmonių ir akcinės bendrovės Lietuvos automobilių kelių direkcijos kompetenciją eismo saugumo užtikrinimo srityje;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
  
 
 
@@ -1906,7 +1908,9 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 
 
-11. Užtikrindama eismo saugumą, valstybės įmonė Lietuvos automobilių kelių direkcija:
+11. Užtikrindama eismo saugumą, akcinė bendrovė Lietuvos automobilių kelių direkcija: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
 
 
 1) vykdo automobilių srautų valdymą ir koordinuoja eismo tvarką valstybinės reikšmės keliuose; 
@@ -1919,7 +1923,10 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 
 
-3) valdo ir tvarko eismo valdymo, stebėjimo ir kontrolės sistemas valstybinės reikšmės keliuose;
+3) neteko galios nuo 2023-01-02;
+Straipsnio punkto pakeitimai:
+Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
+ 
 
 
 
@@ -2048,9 +2055,10 @@ KELIAS
 11 straipsnis. Saugių eismo sąlygų užtikrinimas keliuose
 
 
-1. Saugias eismo sąlygas valstybinės reikšmės keliuose užtikrinančių eismo saugumo priemonių įgyvendinimą koordinuoja Susisiekimo ministerija arba jos įgaliota viešoji įstaiga Transporto kompetencijų agentūra, organizuoja valstybės įmonė Lietuvos automobilių kelių direkcija. Savivaldybės ar kiti juridiniai ir (ar) fiziniai asmenys – kelių savininkai ar valdytojai, atlikdami priskirtąsias funkcijas, užtikrina vietinės reikšmės keliuose ir gatvėse saugias eismo sąlygas, įgyvendindami juose eismo saugumo priemones. 
+1. Saugias eismo sąlygas valstybinės reikšmės keliuose užtikrinančių eismo saugumo priemonių įgyvendinimą koordinuoja Susisiekimo ministerija arba jos įgaliota viešoji įstaiga Transporto kompetencijų agentūra, organizuoja akcinė bendrovė Lietuvos automobilių kelių direkcija. Savivaldybės ar kiti juridiniai ir (ar) fiziniai asmenys – kelių savininkai ar valdytojai, atlikdami priskirtąsias funkcijas, užtikrina vietinės reikšmės keliuose ir gatvėse saugias eismo sąlygas, įgyvendindami juose eismo saugumo priemones.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
  
 
 
@@ -2115,9 +2123,11 @@ Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 
 
 
-6) Susisiekimo ministerijos nustatytais atvejais suderinti eismo organizavimą su Susisiekimo ministerija arba jos įgaliota institucija, įstaiga arba valstybės įmone. 
+6) Susisiekimo ministerijos nustatytais atvejais suderinti eismo organizavimą su Susisiekimo ministerija ar jos įgaliota institucija, įstaiga arba akcine bendrove Lietuvos automobilių kelių direkcija.
 Papildyta straipsnio punktu:
 Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
+Straipsnio punkto pakeitimai:
+Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
  
 
 
@@ -4743,6 +4753,11 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1226, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15592
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 straipsnio pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 6, 10 ir 11 straipsnių pakeitimo įstatymas
  
  
 
