@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-01
+Suvestinė redakcija nuo 2023-01-02 iki 2023-01-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -4111,12 +4111,18 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 321 straipsnis. Gamintojo atsakomybės principo taikymas
 
 
-1. Šio Įstatymo aštuntajame1 – aštuntajame6 skirsniuose nurodytiems gaminiams ir pakuotėms yra taikomas gamintojo atsakomybės principas. Tai apima gaminių ar pakuočių atliekų surinkimo, vežimo, atliekų apdorojimo sistemos organizavimą ir (ar) dalyvavimą organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, įskaitant šioms veikloms tenkančių išlaidų finansavimą, Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių vykdymą ir (ar) Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka nustatyto mokesčio mokėjimą už aplinkos teršimą gaminių ar pakuočių atliekomis (kai gamintojai ir importuotojai nevykdo Vyriausybės ar jos įgaliotos institucijos nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių), visuomenės švietimą atliekų prevencijos ir tvarkymo klausimais, informacijos apie gaminius, pakuotes ir jų atliekų tvarkymą šių gaminių naudotojams ir atliekų tvarkytojams teikimą, grąžinamų produktų ir juos panaudojus susidarančių atliekų priėmimą, tvarkymą ir finansinę atsakomybę už tokią veiklą.
+1. Šio Įstatymo aštuntajame1 – aštuntajame6 ir aštuntajame11 skirsniuose nurodytiems gaminiams ir pakuotėms yra taikomas gamintojo atsakomybės principas. Tai apima gaminių ar pakuočių atliekų surinkimo, vežimo, atliekų apdorojimo sistemos organizavimą ir (ar) dalyvavimą organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, įskaitant šioms veikloms tenkančių išlaidų finansavimą, Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių vykdymą ir (ar) Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka nustatyto mokesčio mokėjimą už aplinkos teršimą gaminių ar pakuočių atliekomis (kai gamintojai ir importuotojai nevykdo Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių), visuomenės švietimą atliekų prevencijos ir tvarkymo klausimais, informacijos apie gaminius, pakuotes ir jų atliekų tvarkymą šių gaminių naudotojams ir atliekų tvarkytojams teikimą, grąžinamų produktų ir juos panaudojus susidarančių atliekų priėmimą, tvarkymą ir finansinę atsakomybę už tokią veiklą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
 
-2. Gamintojai ir importuotojai, be pareigų, nurodytų šio Įstatymo 341 straipsnio 1 dalyje, 344 straipsnio 1 dalyje, 347 straipsnio 1 dalyje, 3415 straipsnio 1 dalyje, 3418 straipsnio 1 dalyje, 3421 straipsnio 2 dalyje, papildomai pagal kompetenciją turi prisidėti prie Valstybiniame atliekų prevencijos ir tvarkymo plane numatytų atliekų prevencijos ir (ar) tvarkymo kiekybinių ar kokybinių tikslų ir užduočių (pavyzdžiui, atliekų prevencijos, komunalinių atliekų paruošimo pakartotinai naudoti ir (ar) perdirbti, naudojimo, šalinimo sąvartyne) vykdymo ir priemonių, numatytų šiems tikslams ir užduotims pasiekti, įgyvendinimo, jeigu gaminiai ar pakuotės, virtę atliekomis, daro įtaką nustatytų atliekų prevencijos ir (ar) tvarkymo tikslų ir užduočių siekimui.
+2. Gamintojai ir importuotojai, be pareigų, nurodytų šio Įstatymo 341 straipsnio 1 dalyje, 344 straipsnio 1 dalyje, 347 straipsnio 1 dalyje, 3415 straipsnio 1 dalyje, 3418 straipsnio 1 dalyje, 3421 straipsnio 2 dalyje, 3432 straipsnio 1 dalyje, 3435 straipsnio 1 dalyje, 3438 straipsnio 1 dalyje, papildomai pagal kompetenciją turi prisidėti prie Valstybiniame atliekų prevencijos ir tvarkymo plane numatytų atliekų prevencijos ir (ar) tvarkymo kiekybinių ar kokybinių tikslų ir užduočių (pavyzdžiui, atliekų prevencijos, komunalinių atliekų paruošimo pakartotinai naudoti ir (ar) perdirbti, naudojimo, šalinimo sąvartyne) vykdymo ir priemonių, numatytų šiems tikslams ir užduotims pasiekti, įgyvendinimo, jeigu gaminiai ar pakuotės, virtę atliekomis, daro įtaką nustatytų atliekų prevencijos ir (ar) tvarkymo tikslų ir užduočių siekimui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
