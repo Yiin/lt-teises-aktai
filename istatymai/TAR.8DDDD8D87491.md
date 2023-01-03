@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-09-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -932,9 +932,10 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 
 
 
-4. Gyvūnų augintinių registro valdytoja – Aplinkos ministerija, tvarkytojai – valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras ir Valstybinė maisto ir veterinarijos tarnyba.
+4. Gyvūnų augintinių registro valdytoja – Aplinkos ministerija, tvarkytoją (tvarkytojus) skiria Vyriausybė.
 Straipsnio dalies pakeitimai:
 Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
+Nr. XIV-1307, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15634
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
 Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
@@ -1733,5 +1734,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 6 ir 21 straipsnių pakeitimo įstatymas
  
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1307, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15634
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 7 straipsnio pakeitimo įstatymas
  
-part_f8b33ec10b4a42e49e4f5cca38279a57_end
+ 
+part_0a4e013cb08541c2b92cbc56c6d7229d_end
