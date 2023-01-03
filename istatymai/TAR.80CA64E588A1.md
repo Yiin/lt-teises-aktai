@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -390,7 +390,10 @@ Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 
 
 
-5. Viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros savininkė yra valstybė. Viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros veikla atliekant šio straipsnio 4 dalyje ir 8 straipsnio 1 dalyje, Lietuvos Respublikos tautinio paveldo produktų įstatyme ir Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatyme nurodytas funkcijas, viešosios įstaigos Lietuvos žemės ūkio konsultavimo tarnybos veikla atliekant šio įstatymo 13 straipsnio 2 dalyje, Lietuvos Respublikos augalų apsaugos įstatyme nurodytas funkcijas ir valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro veikla atliekant šio įstatymo 8 straipsnio 1 dalyje, 10 straipsnyje ir Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatyme nurodytas funkcijas finansuojama iš Žemės ūkio ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų. 
+5. Viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros savininkė yra valstybė. Viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros veikla atliekant šio straipsnio 4 dalyje ir 8 straipsnio 1 dalyje, Lietuvos Respublikos tautinio paveldo produktų įstatyme ir Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatyme nurodytas funkcijas, viešosios įstaigos Lietuvos žemės ūkio konsultavimo tarnybos veikla atliekant šio įstatymo 13 straipsnio 2 dalyje, Lietuvos Respublikos augalų apsaugos įstatyme nurodytas funkcijas ir valstybės įmonės Žemės ūkio duomenų centro veikla atliekant šio įstatymo 8 straipsnio 1 dalyje, 10 straipsnyje, Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo 2 straipsnio 1 dalyje ir Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatyme nurodytas funkcijas finansuojama iš Žemės ūkio ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
+ 
 
 
 Straipsnio pakeitimai:
@@ -571,10 +574,11 @@ Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 8 straipsnis. Paramos žemės ūkiui, maisto ūkiui ir kaimo plėtrai administravimas
 
 
-1. Valstybės ir Europos Sąjungos paramos priemones administruoja Žemės ūkio ministerija, valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras, viešoji įstaiga Kaimo verslo ir rinkų plėtros agentūra, Vyriausybės įgaliotos institucijos ir savivaldybių institucijos pagal įstatymų nustatytą kompetenciją. 
+1. Valstybės ir Europos Sąjungos paramos priemones administruoja Žemės ūkio ministerija, valstybės įmonė Žemės ūkio duomenų centras, viešoji įstaiga Kaimo verslo ir rinkų plėtros agentūra, Vyriausybės įgaliotos institucijos ir savivaldybių institucijos pagal įstatymų nustatytą kompetenciją. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
 Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
+Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
  
 
 
@@ -714,16 +718,17 @@ Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
  
 
 
-10 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros oficialioji statistika 
+10 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros oficialioji statistika
 
 
-Žemės ūkio, maisto ūkio ir kaimo plėtros oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos oficialiosios statistikos įstatymu, tvarko Lietuvos statistikos departamentas, Žemės ūkio ministerija, valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras, Vyriausybės įgaliotos institucijos ir (ar) kiti subjektai, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį. 
+Žemės ūkio, maisto ūkio ir kaimo plėtros oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymu, tvarko Valstybės duomenų agentūra, Žemės ūkio ministerija, valstybės įmonė Žemės ūkio duomenų centras, Vyriausybės įgaliotos institucijos ir (ar) kiti subjektai, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1091, 2010-11-04, Žin., 2010, Nr. 137-6992 (2010-11-23), i. k. 1101010ISTA0XI-1091
 Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
 Nr. XIII-1131, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07483
+Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
  
 
 
@@ -792,9 +797,11 @@ Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
 
 
 
-5. Siekdama sustiprinti žemės ūkio veiklos subjektų, parduodančių žalią pieną, derybines galias ir didinti pieno rinkos skaidrumą, valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras turi teisę iš ūkio subjektų, teisės aktų nustatyta tvarka registruotų žalio pieno supirkimo ir (ar) perdirbimo veiklai plėtoti (toliau – žalio pieno pirkėjas), rinkti ir skelbti informaciją apie vidutines kalendorinio mėnesio žalio pieno pirkimo kainas pagal kiekvieną žalio pieno pirkėją, jas išskiriant pagal žalio pieno pristatymo būdą (žalias pienas pristatomas į žalio pieno supirkimo punktą, žalias pienas paimamas tiesiogiai iš žemės ūkio veiklos subjekto ūkio, žalias pienas pristatomas tiesiogiai į žalio pieno perdirbimo įmonę) ir (ar) pagal iš žemės ūkio veiklos subjekto perkamo žalio pieno kiekį. Šios informacijos rinkimo, naudojimo ir viešinimo tvarką nustato žemės ūkio ministras. 
+5. Siekdama sustiprinti žemės ūkio veiklos subjektų, parduodančių žalią pieną, derybines galias ir didinti pieno rinkos skaidrumą, valstybės įmonė Žemės ūkio duomenų centras turi teisę iš ūkio subjektų, teisės aktų nustatyta tvarka registruotų žalio pieno supirkimo ir (ar) perdirbimo veiklai plėtoti (toliau – žalio pieno pirkėjas), rinkti ir skelbti informaciją apie vidutines kalendorinio mėnesio žalio pieno pirkimo kainas pagal kiekvieną žalio pieno pirkėją, jas išskiriant pagal žalio pieno pristatymo būdą (žalias pienas pristatomas į žalio pieno supirkimo punktą, žalias pienas paimamas tiesiogiai iš žemės ūkio veiklos subjekto ūkio, žalias pienas pristatomas tiesiogiai į žalio pieno perdirbimo įmonę) ir (ar) pagal iš žemės ūkio veiklos subjekto perkamo žalio pieno kiekį. Šios informacijos rinkimo, naudojimo ir viešinimo tvarką nustato žemės ūkio ministras.
 Papildyta straipsnio dalimi:
 Nr. XIV-461, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15458
+Straipsnio dalies pakeitimai:
+Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
  
 
 
