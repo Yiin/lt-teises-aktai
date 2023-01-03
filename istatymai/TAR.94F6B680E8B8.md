@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -1547,7 +1547,10 @@ Nr. XIV-1174, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13890
 
 
 
-8. Asmenys, kurie nepriskiriami šio straipsnio 2, 3 dalyse, 4 dalies 1 punkte ir 5, 6, 7, 9 ir 10 dalyse bei šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims ir kurių žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne didesnis kaip 2 ekonominio dydžio vienetai, kas mėnesį moka už save 2,33 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas.
+8. Asmenys, kurie nepriskiriami šio straipsnio 2, 3 dalyse, 4 dalies 1 punkte ir 5, 6, 7, 9 ir 10 dalyse bei šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims ir kurių žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne didesnis kaip 2 ekonominio dydžio vienetai, kas mėnesį moka už save 2,33 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1303, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15630
+ 
 
 
 
