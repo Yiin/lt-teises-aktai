@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06C50B65B6B2"
 
 # Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2228, i. k. 1021010ISTA00IX-895
  
@@ -83,9 +83,7 @@ Nr. XII-1762, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09298
 
 
 
-4) tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo), jei yra nustatytas piniginės kompensacijos dydis;
-4 punkto redakcija nuo 2011 m. gruodžio 19 d. Niujorke priimto Jungtinių Tautų vaiko teisių konvencijos fakultatyvaus protokolo dėl pranešimų procedūros įsigaliojimo Lietuvos Respublikai dienos:
-4) tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo), jei yra nustatytas piniginės kompensacijos dydis, ir šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė;
+4) tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo), jei yra nustatytas piniginės kompensacijos dydis, ir šalių taikius susitarimus, kuriems preliminariai pritarė Lietuvos Respublikos Vyriausybė; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1377, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15469
  
