@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-06-30
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -1306,7 +1306,10 @@ Nedirbantis asmuo yra asmuo, kuris atitinka bent vieną iš šių sąlygų:
 
 
 
-2) nėra savarankiškai dirbantis asmuo, išskyrus asmenį, vykdantį šio įstatymo 5 straipsnio 3 punkte nurodytą veiklą pagal paslaugų kvitus teikiant žemės ūkio ir miškininkystės paslaugas, asmenį, kuris yra užimtas šio įstatymo 7 straipsnio 3–7 punktuose nurodytomis veiklomis, asmenį, kuris yra individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos, kuri laikinai nevykdo veiklos ir apie tai yra informavusi mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka, savininkas arba mažosios bendrijos narys ar tikrosios ūkinės bendrijos, ar komanditinės ūkinės bendrijos tikrasis narys arba Juridinių asmenų registre suteiktą likviduojamos ar bankrutuojančios individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos statusą turinčios individualios įmonės savininkas ar mažosios bendrijos narys, ar tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrasis narys, ir asmenį, vykdantį individualią žemės ūkio veiklą, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra mažesnis už 4 ekonominio dydžio vienetus;
+2) nėra savarankiškai dirbantis asmuo, išskyrus asmenį, vykdantį šio įstatymo 5 straipsnio 3 punkte nurodytą veiklą pagal paslaugų kvitus teikiant žemės ūkio ir miškininkystės paslaugas, asmenį, kuris yra užimtas šio įstatymo 7 straipsnio 3–7 punktuose nurodytomis veiklomis, asmenį, kuris yra individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos, kuri laikinai nevykdo veiklos ir apie tai yra informavusi mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka, savininkas arba mažosios bendrijos narys ar tikrosios ūkinės bendrijos, ar komanditinės ūkinės bendrijos tikrasis narys arba Juridinių asmenų registre suteiktą likviduojamos ar bankrutuojančios individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos statusą turinčios individualios įmonės savininkas ar mažosios bendrijos narys, ar tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrasis narys, ir asmenį, vykdantį individualią žemės ūkio veiklą, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio  31 d. yra mažesnis už 4 ekonominio dydžio vienetus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1304, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15631
+ 
 
 
 
@@ -1541,9 +1544,10 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 
 
 
-2) bedarbis įregistruoja ūkininko ūkį Ūkininkų ūkių registre ar tampa ūkininko partneriu arba įregistruoja žemės ūkio valdą Lietuvos Respublikos žemės ūkio ir kaimo verslo registre ar tampa žemės ūkio valdos partneriu, išskyrus bedarbius, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra mažesnis už 4 ekonominio dydžio vienetus;
+2) bedarbis įregistruoja ūkininko ūkį Ūkininkų ūkių registre ar tampa ūkininko partneriu arba įregistruoja žemės ūkio valdą Lietuvos Respublikos žemės ūkio ir kaimo verslo registre ar tampa žemės ūkio valdos partneriu, išskyrus atvejus, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra mažesnis už 4 ekonominio dydžio vienetus;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2133, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08712
+Nr. XIV-1304, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15631
  
 
 
@@ -4685,6 +4689,7 @@ Respublikos Prezidentė                            �
 
  
 
+ 
 Lietuvos Respublikos
 užimtumo įstatymo 
 priedas
