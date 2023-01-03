@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-01-03
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
  
@@ -204,7 +204,10 @@ Nr. XIII-2465, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17211
 6. Lėšos, gautos už parduotus valstybinės žemės ūkio paskirties žemės sklypus, paskirstomos taip:
 
 
-1) 20 procentų – į valstybės įmonės Valstybės žemės fondo sąskaitą žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, įskaitant privačios žemės įsigijimą valstybės nuosavybėn pasinaudojant šio įstatymo 5 straipsnio 2 dalyje nustatyta pirmumo teise;
+1) 20 procentų – į valstybės įmonės Žemės ūkio duomenų centro sąskaitą žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, įskaitant privačios žemės įsigijimą valstybės nuosavybėn pasinaudojant šio įstatymo 5 straipsnio 2 dalyje nustatyta pirmumo teise;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1310, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15637
+ 
 
 
 
@@ -247,7 +250,10 @@ Nr. XIII-2465, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17211
 
 
 
-2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačios žemės ūkio paskirties žemės, kurią pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, taip pat žemės ūkio paskirties žemės, reikalingos valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, už tą kainą, už kurią ji parduodama, ir kitomis tokiomis pačiomis sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės ūkio paskirties žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą visuotiniu būdu Vyriausybės nustatyta tvarka, arba rinkos vertės, apskaičiuotos valstybės vardu veikiančios institucijos ar įmonės užsakymu taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, jeigu pastaroji vertė yra didesnė. Valstybės įmonė Valstybės žemės fondas žemės ūkio paskirties žemę, reikalingą valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, vadovaudamasis Žemės įstatymu, gali nuomoti (Civilinio kodekso 6.559 straipsnyje nustatyta tvarka perimti nuomotojo teises ir pareigas, jeigu nuomos sutartis buvo įregistruota viešajame registre) be aukciono asmeniui (asmenims), teisėtai ją naudojusiam (naudojusiems) iki žemės ūkio paskirties žemės perėjimo valstybės nuosavybėn. Sukauptos lėšos už pagal šį įstatymą išnuomotą valstybinę žemę skiriamos žemei, reikalingai žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, išpirkti. 
+2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačios žemės ūkio paskirties žemės, kurią pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, taip pat žemės ūkio paskirties žemės, reikalingos valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, už tą kainą, už kurią ji parduodama, ir kitomis tokiomis pačiomis sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės ūkio paskirties žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą visuotiniu būdu Vyriausybės nustatyta tvarka, arba rinkos vertės, apskaičiuotos valstybės vardu veikiančios institucijos ar įmonės užsakymu taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, jeigu pastaroji vertė yra didesnė. Valstybės įmonė Žemės ūkio duomenų centras žemės ūkio paskirties žemę, reikalingą valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, vadovaudamasis Žemės įstatymu, gali nuomoti (Civilinio kodekso 6.559 straipsnyje nustatyta tvarka perimti nuomotojo teises ir pareigas, jeigu nuomos sutartis buvo įregistruota viešajame registre) be aukciono asmeniui (asmenims), teisėtai ją naudojusiam (naudojusiems) iki žemės ūkio paskirties žemės perėjimo valstybės nuosavybėn. Sukauptos lėšos už pagal šį įstatymą išnuomotą valstybinę žemę skiriamos žemei, reikalingai žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, išpirkti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1310, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15637
+ 
 
 
 
@@ -257,7 +263,10 @@ Nr. XIII-2465, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17211
 
 
 
-4. Nacionalinė žemės tarnyba apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 5 darbo dienas nuo žemės savininko pranešimo gavimo dienos raštu praneša parduodamo žemės sklypo naudotojui (naudotojams), asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, savivaldybės pagal žemės buvimo vietą administracijos direktoriui ar kitai žemės paėmimu visuomenės poreikiams suinteresuotai institucijai, jeigu parduodamą žemės ūkio paskirties žemės sklypą pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, ir valstybės įmonei Valstybės žemės fondui. Nacionalinė žemės tarnyba informaciją apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant šio straipsnio 1 dalies 4 punkte nurodyti asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 2 darbo dienas nuo žemės savininko pranešimo gavimo dienos taip pat paskelbia Nacionalinės žemės tarnybos interneto svetainėje. Šie asmenys savo sutikimą (sprendimą, kai žemė įsigyjama valstybės nuosavybėn) pirkti žemės ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinei žemės tarnybai ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo arba pranešimo paskelbimo Nacionalinės žemės tarnybos interneto svetainėje dienos. Šio straipsnio 1 dalies 2–4 punktuose nurodyti asmenys, pageidaujantys pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemės sklypą, kartu su sutikimu pirkti žemės sklypą pateikia dokumentus, kuriais patvirtinama jų atitiktis pirmumo teisei.
+4. Nacionalinė žemės tarnyba apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kuriomis asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 5 darbo dienas nuo žemės savininko pranešimo gavimo dienos raštu praneša parduodamo žemės sklypo naudotojui (naudotojams), asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, savivaldybės pagal žemės buvimo vietą administracijos direktoriui ar kitai žemės paėmimu visuomenės poreikiams suinteresuotai institucijai, jeigu parduodamą žemės ūkio paskirties žemės sklypą pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, ir valstybės įmonei Žemės ūkio duomenų centrui. Nacionalinė žemės tarnyba informaciją apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kuriomis šio straipsnio 1 dalies 4 punkte nurodyti asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 2 darbo dienas nuo žemės savininko pranešimo gavimo dienos taip pat paskelbia Nacionalinės žemės tarnybos interneto svetainėje. Šie asmenys savo sutikimą (sprendimą, kai žemė įsigyjama valstybės nuosavybėn) pirkti žemės ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinei žemės tarnybai ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo arba pranešimo paskelbimo Nacionalinės žemės tarnybos interneto svetainėje dienos. Šio straipsnio 1 dalies 2–4 punktuose nurodyti asmenys, pageidaujantys pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemės sklypą, kartu su sutikimu pirkti žemės sklypą pateikia dokumentus, kuriais patvirtinama jų atitiktis pirmumo teisei.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1310, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15637
+ 
 
 
 
@@ -484,3 +493,8 @@ Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2935, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10938
 Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 3 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1310, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15637
+Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymas
