@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-05-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -100,9 +100,45 @@ Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 
 
 
-9. Savarankiškai dirbantys asmenys – individualių įmonių savininkai; mažųjų bendrijų nariai; tikrųjų ūkinių bendrijų ir komanditinių ūkinių bendrijų tikrieji nariai; asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme (advokatai, advokatų padėjėjai, notarai, antstoliai, verslo liudijimus turintys asmenys ir kiti asmenys); fiziniai asmenys, kurie verčiasi individualia žemės ūkio veikla, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 4 ekonominio dydžio vienetams arba didesnis (toliau – ūkininkai ir jų partneriai); šeimynos dalyviai, kaip jie apibrėžti Lietuvos Respublikos šeimynų įstatyme (toliau – šeimynos dalyviai); asmenys, gaunantys pajamas pagal autorines sutartis arba pajamas iš sporto ar atlikėjo veiklos (išskyrus asmenis, nurodytus šio įstatymo 4 straipsnio 1 dalyje). 
+9. Savarankiškai dirbantis asmuo:
+
+
+1) individualios įmonės savininkas;
+
+
+
+
+2) mažosios bendrijos narys;
+
+
+
+
+3) tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos tikrasis narys;
+
+
+
+
+4) asmuo, kuris verčiasi individualia veikla, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme;
+
+
+
+
+5) fizinis asmuo, kuris verčiasi individualia žemės ūkio veikla, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra lygus 4 ekonominio dydžio vienetams arba didesnis;
+
+
+
+
+6) šeimynos dalyvis, kaip jis apibrėžtas Lietuvos Respublikos šeimynų įstatyme;
+
+
+
+
+7) asmuo, gaunantis pajamas pagal autorines sutartis arba pajamas iš sporto ar atlikėjo veiklos. 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+Nr. XIV-1302, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15629
  
 
 
@@ -154,7 +190,9 @@ Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
 
 
 
-17. Žemės ūkio valdos ar ūkio ekonominis dydis – dydis, nustatomas bendrąjį standartinį gamybinį pelną, apskaičiuotą Lietuvos Respublikos žemės ūkio ministro nustatyta tvarka, padalijus iš ekonominio dydžio vieneto, kuris lygus 1 200 eurų.
+17. Žemės ūkio valdos ar ūkio ekonominis dydis – dydis, nustatomas bendrąjį standartinį gamybinį pelną, apskaičiuotą žemės ūkio ministro nustatyta tvarka, padalijus iš ekonominio dydžio vieneto, kuris lygus 1 200 eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1302, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15629
  
 
 
@@ -3692,3 +3730,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 12 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1228, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15594
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir 11 straipsnių pakeitimo įstatymas
+ 
+48.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1302, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15629
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2 straipsnio pakeitimo įstatymas
