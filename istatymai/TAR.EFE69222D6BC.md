@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-01-02
+Suvestinė redakcija nuo 2023-01-03 iki 2023-01-03
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
  
@@ -796,7 +796,9 @@ Lietuvos Respublikos Vyriausybė:
 
 
 
-3. Valstybės įmonė Distancinių tyrimų ir geoinformatikos centras „GIS-Centras“:
+3. Valstybės įmonė Žemės ūkio duomenų centras: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1306, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15633
 
 
 1) vykdo šio įstatymo 4 straipsnio 1 dalies 9 punkte nurodytus valstybinius geodezijos ir kartografijos darbus;
@@ -2139,5 +2141,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-362, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13164
 Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 pakeitimo įstatymas
  
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1306, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15633
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 10 straipsnio pakeitimo įstatymas
  
-part_acbd622ae6214fb19c4516326ca51a64_end
+ 
+part_b8c80ad71a16441ebce79d772843330d_end
