@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61"
 
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1728, i. k. 0981010ISTAVIII-792
  
@@ -170,7 +170,10 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 8 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą pinigais tvarka
 
 
-1. Piniginės kompensacijos už valstybės išperkamą išlikusį nekilnojamąjį turtą išmokamos ir piliečių sąrašai kompensacijoms mokėti sudaromi Vyriausybės nustatyta tvarka. Piliečių sąrašus kompensacijoms už išperkamą žemę, mišką ir vandens telkinius tvirtina Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas arba jo įgaliotas teritorinio padalinio vadovas. Piliečių sąrašus kompensacijoms už išperkamus ūkinės komercinės paskirties pastatus, gyvenamuosius namus, jų dalis, butus tvirtina savivaldybių administracijų direktoriai.
+1. Piniginės kompensacijos už valstybės išperkamą išlikusį nekilnojamąjį turtą išmokamos ir piliečių sąrašai kompensacijoms mokėti sudaromi Vyriausybės nustatyta tvarka. Piliečių sąrašus kompensacijoms už išperkamą žemę, mišką ir vandens telkinius tvirtina Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovas arba jo įgaliotas teritorinio padalinio vadovas. Piliečių sąrašus kompensacijoms už išperkamus ūkinės komercinės paskirties pastatus, gyvenamuosius namus, jų dalis, butus tvirtina savivaldybių administracijų direktoriai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1324, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15652
+ 
 
 
 
@@ -332,7 +335,10 @@ Nr. XI-913, 2010-06-18, Žin., 2010, Nr. 72-3617 (2010-06-22)
 
 
 
-2. Lietuvos Respublikos piliečiams 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), kuriems atkurtos arba atkuriamos nuosavybės teisės į žemę, priskirtą valstybės išperkamai žemei ir naudojamą asmeniniam arba valstiečių ūkiui, tarnybinėms daloms, Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu atlyginimo dydis pinigais padidinamas 15 procentų.
+2. Lietuvos Respublikos piliečiams 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), kuriems atkurtos arba atkuriamos nuosavybės teisės į žemę, priskirtą valstybės išperkamai žemei ir naudojamą asmeniniam arba valstiečių ūkiui, tarnybinėms daloms, Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu atlyginimo dydis pinigais padidinamas 15 procentų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1324, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15652
+ 
 
 
 Straipsnio pakeitimai:
@@ -459,3 +465,8 @@ Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį tu
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1188, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09344
 Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo Nr. VIII-792 9 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1324, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15652
+Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo Nr. VIII-792 8 ir 10 straipsnių pakeitimo įstatymas
