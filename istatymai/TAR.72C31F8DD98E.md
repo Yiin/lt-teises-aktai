@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E"
 
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 58-1704, i. k. 1001010ISTAIII-1764
  
@@ -209,9 +209,19 @@ Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 
 
 
-4. Lietuvos Respublikos žemės ūkio ministerija formuoja valstybės politiką Nekilnojamojo turto kadastro srityje.
+4. Lietuvos Respublikos aplinkos ministerija formuoja valstybės politiką Nekilnojamojo turto kadastro srityje. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
+Straipsnio dalies pakeitimai:
+Nr. XIV-1320, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15648
+ 
+
+
+
+
+5. Nekilnojamojo turto kadastro valdytoja yra Aplinkos ministerija.
+Papildyta straipsnio dalimi:
+Nr. XIV-1320, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15648
  
 
 
@@ -1705,3 +1715,8 @@ Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 1, 2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
 Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 2, 3, 4, 6, 8, 11, 12, 13, 14, 17 ir 19 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1320, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15648
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 4 straipsnio pakeitimo įstatymas
