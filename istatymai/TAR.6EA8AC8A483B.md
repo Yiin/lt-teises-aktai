@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2023-01-02 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -1231,9 +1231,10 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-3. Žemė naujų viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių statybai suteikiama Lietuvos Respublikos žemės įstatymo nustatyta tvarka. Visuomenės poreikiams paimta ir kaip valstybinė žemė Nekilnojamojo turto registre įregistruota žemė, kurioje numatoma statyti naujus ar rekonstruoti esamus viešosios geležinkelių infrastruktūros objektus ar Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius, Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo sprendimu, suderintu su Lietuvos Respublikos žemės ūkio ministerija, Vyriausybės nustatyta tvarka perduodama valdyti, naudoti ir ja disponuoti patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
+3. Žemė naujų viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių statybai suteikiama Lietuvos Respublikos žemės įstatymo nustatyta tvarka. Visuomenės poreikiams paimta ir kaip valstybinė žemė Nekilnojamojo turto registre įregistruota žemė, kurioje numatoma statyti naujus ar rekonstruoti esamus viešosios geležinkelių infrastruktūros objektus ar Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius, Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) vadovo sprendimu, suderintu su Lietuvos Respublikos aplinkos ministerija, Vyriausybės nustatyta tvarka perduodama valdyti, naudoti ir disponuoti ja patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1050, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09663
+Nr. XIV-1323, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15651
  
 
 
@@ -2320,10 +2321,11 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
 
 
-1. Viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimama valstybinė žemė Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo sprendimu, suderintu su Žemės ūkio ministerija, Vyriausybės nustatyta tvarka perduodama valdyti, naudoti ir ja disponuoti patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
+1. Viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimama valstybinė žemė Nacionalinės žemės tarnybos vadovo sprendimu, suderintu su Aplinkos ministerija, Vyriausybės nustatyta tvarka perduodama valdyti, naudoti ir disponuoti ja patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 Nr. XIV-1050, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09663
+Nr. XIV-1323, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15651
  
 
 
@@ -5398,3 +5400,8 @@ Lietuvos Respublikos geležinkelių transporto kodekso 3, 4, 4-1, 7-1, 10-1, 12,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1050, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09663
 Lietuvos Respublikos geležinkelių transporto kodekso 9 ir 23-1 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1323, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15651
+Lietuvos Respublikos geležinkelių transporto kodekso 9 ir 23-1 straipsnių pakeitimo įstatymo Nr. XIV-1050 1 ir 2 straipsnių pakeitimo įstatymas
