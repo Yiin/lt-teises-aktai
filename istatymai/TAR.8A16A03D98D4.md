@@ -21,7 +21,7 @@ Neoficialus įstatymo tekstas
  
 
 
-Suvestinė redakcija nuo 2022-08-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 65-1558, i. k. 0971010ISTAVIII-359
  
@@ -227,7 +227,10 @@ ir tvarka
 
 
 
-4. Žemė grąžinama natūra nedelsiant. Piliečiams, kuriems teismo sprendimu atnaujinti šio įstatymo 10 straipsnio 1 ir 4 dalyse nurodyti praleisti terminai, žemė grąžinama natūra tik pagal žemės reformos žemėtvarkos projektus Vyriausybės nustatyta tvarka, išskyrus atvejus, kai šie piliečiai prašymus atkurti nuosavybės teises ir nuosavybės teises bei giminystės ryšį su savininku patvirtinančius dokumentus pateikė iki Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimo dėl žemės reformos žemėtvarkos projekto rengimui parinktos teritorijos ribų patvirtinimo priėmimo. Toje Lietuvos valstybės teritorijos dalyje, kur buvo likusi rėžių sistema, žemė grąžinama bei kompensuojama natūra pagal sudarytus žemės reformos žemėtvarkos projektus. Tokiu pat būdu perduodamas neatlygintinai nuosavybėn lygiavertis savininko turėtajam žemės sklypas.
+4. Žemė grąžinama natūra. Piliečiams, kuriems teismo sprendimu atnaujinti šio įstatymo 10 straipsnio 1 ir 4 dalyse nurodyti praleisti terminai, žemė grąžinama natūra tik pagal žemės reformos žemėtvarkos projektus Vyriausybės nustatyta tvarka, išskyrus atvejus, kai šie piliečiai prašymus atkurti nuosavybės teises ir nuosavybės teises bei giminystės ryšį su savininku patvirtinančius dokumentus pateikė iki Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimo dėl žemės reformos žemėtvarkos projekto rengimui parinktos teritorijos ribų patvirtinimo priėmimo. Lietuvos valstybės teritorijos dalyje, kurioje buvo likusi rėžių sistema, žemė grąžinama ir kompensuojama natūra pagal žemės reformos žemėtvarkos projektus. Tokiu pat būdu perduodamas neatlygintinai nuosavybėn lygiavertis savininko turėtam žemės sklypas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1318, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15646
+ 
 
 
 
@@ -247,7 +250,10 @@ ir tvarka
 
 
 
-8. Prie vienkiemių ir 1940–1990 metų ginkluoto pasipriešinimo dalyvių-karių savanorių tėviškių sunaikintų sodybų, esančių gyventojų asmeniniam ūkiui, tarnybinių dalų ir valstiečių ūkiui skirtoje teritorijoje, šių vienkiemių ir sunaikintų sodybų savininkams pageidaujant, grąžinama natūra ne mažiau kaip 3 ha žemės ūkio naudmenų, o likusi žemės sklypo dalis yra valstybės išperkama ir už ją atlyginama pagal šio įstatymo 16 straipsnį. Kai įstatymo nustatyta tvarka žemės sklypas, kurį savininkas nori atgauti natūra, išskyrus šioje dalyje pirmiau išvardytus atvejus, yra skirtas ir naudojamas gyventojų asmeniniam ūkiui arba valstiečių ūkiui, už jį savininkui, norinčiam, kad būtų atkurta nuosavybės teisė natūra, ar asmeniui, šiuo metu naudojančiam ar įgijusiam nuosavybėn iš valstybės šį žemės sklypą, skiriamas iki 30 procentų didesnio žemės sklypo plotas iš laisvos žemės fondo žemės, esančios teritorijoje, kurią apima vietinis žemės reformos žemėtvarkos projektas. Jeigu piliečiai, kuriems nuosavybės teisės atkuriamos į tose teritorijose esančią žemę, yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai ar Vyčio Kryžiaus ordinu apdovanoti asmenys, jų sutuoktiniai, tėvai (įtėviai), vaikai (įvaikiai), Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu jiems siūlomas žemės sklypo plotas iš apskrities teritorijoje esančio laisvos žemės fondo padidinamas iki 100 procentų. Jeigu apskrities teritorijoje laisvos žemės fonde nėra pakankamo žemės ploto, šių asmenų pageidavimu toks žemės sklypas suformuojamas kitos pageidaujamos apskrities teritorijoje. Šiems asmenims gali būti taikomos ir kitos įstatymų nustatytos lengvatos.
+8. Prie vienkiemių ir 1940–1990 metų ginkluoto pasipriešinimo dalyvių-karių savanorių tėviškių sunaikintų sodybų, esančių gyventojų asmeniniam ūkiui, tarnybinių dalų ir valstiečių ūkiui skirtoje teritorijoje, šių vienkiemių ir sunaikintų sodybų savininkams pageidaujant, grąžinama natūra ne mažiau kaip 3 ha žemės ūkio naudmenų, o likusi žemės sklypo dalis valstybės išperkama ir už ją atlyginama pagal šio įstatymo 16 straipsnį. Kai šio įstatymo nustatyta tvarka žemės sklypas, kurį savininkas nori atgauti natūra, išskyrus šioje dalyje išvardytus atvejus, skirtas ir naudojamas gyventojų asmeniniam ūkiui arba valstiečių ūkiui, už jį savininkui, norinčiam, kad būtų atkurta nuosavybės teisė natūra, ar asmeniui, naudojančiam ar įgijusiam nuosavybėn iš valstybės šį žemės sklypą, skiriamas iki 30 procentų didesnio žemės sklypo plotas iš laisvos žemės fondo žemės, esančios teritorijoje, kurią apima vietinis žemės reformos žemėtvarkos projektas. Jeigu piliečiai, kuriems nuosavybės teisės atkuriamos į tose teritorijose esančią žemę, yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai ar Vyčio Kryžiaus ordinu apdovanoti asmenys, jų sutuoktiniai, tėvai (įtėviai), vaikai (įvaikiai), Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu jiems siūlomas žemės sklypo plotas iš apskrities teritorijoje esančio laisvos žemės fondo padidinamas iki 100 procentų. Jeigu apskrities teritorijoje laisvos žemės fonde nėra pakankamo žemės ploto, šių asmenų pageidavimu toks sklypas suformuojamas kitos pageidaujamos apskrities teritorijoje. Šiems asmenims gali būti taikomos ir kitos įstatymų nustatytos lengvatos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1318, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15646
+ 
 
 
 
@@ -920,7 +926,10 @@ Nr. XI-2404, 2012-11-08, Žin., 2012, Nr. 135-6878 (2012-11-22)
 17 straipsnis. Institucijos, nagrinėjančios piliečių prašymus atkurti nuosavybės teises
 
 
-1. Piliečių prašymus atkurti nuosavybės teises į žemę, mišką ir vandens telkinius nagrinėja Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos.
+1. Piliečių prašymus atkurti nuosavybės teises į žemę, mišką ir vandens telkinius nagrinėja Nacionalinė žemės tarnyba prie Aplinkos ministerijos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1318, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15646
+ 
 
 
 
@@ -1391,3 +1400,8 @@ Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąj�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1242, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15190
 Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr.VIII-359 21 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1318, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15646
+Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo Nr. VIII-359 4 ir 17 straipsnių pakeitimo įstatymas
