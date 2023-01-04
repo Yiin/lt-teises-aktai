@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2023-01-02 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-04-14
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -21362,9 +21362,12 @@ Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
 
 
 
-45) Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos – dėl šio kodekso 110, 112, 113, 257, 258, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+45) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 257, 258, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+45 punkto redakcija nuo 2024-01-01:
+45) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 364, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
+Nr. XIV-1398, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16124
  
 
 
@@ -21596,8 +21599,11 @@ Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
 
 
 67) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 3561, 3562, 357, 3571, 358, 361, 362, 363, 364, 3641, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+67 punkto redakcija nuo 2024-01-01:
+67) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 257, 258, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333, 334, 350, 351, 352, 353, 354, 355, 356, 3561, 3562, 357, 3571, 358, 361, 362, 363, 364, 3641, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334
+Nr. XIV-1398, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16124
  
 
 
