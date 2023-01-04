@@ -19,10 +19,9 @@ YPATINGOS VALSTYBINĖS SVARBOS PROJEKTUS ĮSTATYMAS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-05-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 49-2362, i. k. 1111010ISTA0XI-1307
  
@@ -78,7 +77,10 @@ Nr. XIV-1047, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09658
 
 
 
-3. Nacionalinė žemės tarnyba – Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos, atsakinga už valstybinės žemės administravimą.
+3. Nacionalinė žemės tarnyba prie Aplinkos ministerijos – institucija, atsakinga už valstybinės žemės administravimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1313, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15640
+ 
 
 
 
@@ -232,15 +234,18 @@ Nr. XIV-1047, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09658
 
 
 
-2. Projektą įgyvendinanti institucija, parengusi žemės paėmimo visuomenės poreikiams projektą ir turto vertinimo ataskaitą, kreipiasi į Nacionalinę žemės tarnybą su prašymu patvirtinti žemės paėmimo visuomenės poreikiams projektą ir priimti sprendimą paimti žemę visuomenės poreikiams. Nacionalinė žemės tarnyba projektą įgyvendinančios institucijos prašymą išnagrinėja per 30 dienų nuo prašymo pateikimo dienos. Jeigu Nacionalinė žemės tarnyba nustato, kad žemės paėmimo visuomenės poreikiams projektas ir turto vertinimo ataskaita yra parengti šio įstatymo nustatyta tvarka, ji patvirtina žemės paėmimo visuomenės poreikiams projektą. Patvirtinusi minėtą projektą pagal suinteresuotos institucijos pateiktas kadastro duomenų bylas Nacionalinė žemės tarnyba priima sprendimus patvirtinti paimamų visuomenės poreikiams žemės sklypų kadastro duomenis ir žemės sklypų, suformuotų pertvarkius žemės sklypų dalis, likusias nuo visuomenės poreikiams paimamų žemės sklypų dalių, kadastro duomenis ir per 5 darbo dienas nuo sprendimo patvirtinti minėtus kadastro duomenis priėmimo dienos Nekilnojamojo turto kadastro ir registro tvarkytojui pateikia prašymą juos įrašyti ar pakeisti, o Nekilnojamojo turto kadastro ir registro tvarkytojas per 10 darbo dienų nuo prašymo gavimo dienos juos įrašo ar pakeičia. 
+2. Projektą įgyvendinanti institucija, parengusi žemės paėmimo visuomenės poreikiams projektą ir turto vertinimo ataskaitą, kreipiasi į Nacionalinę žemės tarnybą prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) su prašymu patvirtinti žemės paėmimo visuomenės poreikiams projektą ir priimti sprendimą paimti žemę visuomenės poreikiams. Nacionalinė žemės tarnyba projektą įgyvendinančios institucijos prašymą išnagrinėja per 30 dienų nuo prašymo pateikimo dienos. Jeigu Nacionalinė žemės tarnyba nustato, kad žemės paėmimo visuomenės poreikiams projektas ir turto vertinimo ataskaita parengti šio įstatymo nustatyta tvarka, ji patvirtina žemės paėmimo visuomenės poreikiams projektą. Patvirtinusi minėtą projektą pagal suinteresuotos institucijos pateiktas kadastro duomenų bylas, Nacionalinė žemės tarnyba priima sprendimus patvirtinti paimamų visuomenės poreikiams žemės sklypų kadastro duomenis ir žemės sklypų, suformuotų pertvarkius žemės sklypų dalis, likusias nuo visuomenės poreikiams paimamų žemės sklypų dalių, kadastro duomenis ir per 5 darbo dienas nuo sprendimo patvirtinti minėtus kadastro duomenis priėmimo dienos Nekilnojamojo turto kadastro ir registro tvarkytojui pateikia prašymą juos įrašyti ar pakeisti, o Nekilnojamojo turto kadastro ir registro tvarkytojas per 10 darbo dienų nuo prašymo gavimo dienos juos įrašo ar pakeičia. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2203, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09726
+Nr. XIV-1313, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15640
  
 
 
 
 
-21. Nekilnojamojo turto kadastro ir registro tvarkytojui įrašius ar pakeitus paimamų visuomenės poreikiams žemės sklypų kadastro duomenis ir žemės sklypų, suformuotų pertvarkius žemės sklypų dalis, likusias nuo visuomenės poreikiams paimamų žemės sklypų dalių, kadastro duomenis, Nacionalinės žemės tarnybos vadovas priima sprendimą paimti žemę visuomenės poreikiams. Sprendimas paimti žemę visuomenės poreikiams įforminamas žemės paėmimo visuomenės poreikiams aktu. Žemės paėmimo visuomenės poreikiams akte nurodoma:
+21. Nekilnojamojo turto kadastro ir registro tvarkytojui įrašius ar pakeitus paimamų visuomenės poreikiams žemės sklypų kadastro duomenis ir žemės sklypų, suformuotų pertvarkius žemės sklypų dalis, likusias nuo visuomenės poreikiams paimamų žemės sklypų dalių, kadastro duomenis, Nacionalinės žemės tarnybos vadovas priima sprendimą paimti žemę visuomenės poreikiams. Šis sprendimas įforminamas žemės paėmimo visuomenės poreikiams aktu. Žemės paėmimo visuomenės poreikiams akte nurodoma: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1313, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15640
 
 
 1) paimamo visuomenės poreikiams žemės sklypo kadastro duomenys (kadastro numeris, pagrindinė žemės naudojimo paskirtis, žemės sklypo naudojimo būdas, žemės sklypo plotas, adresas, jeigu yra suteiktas, unikalus statinio numeris, statinio pavadinimas, pagrindinė statinio naudojimo paskirtis);
@@ -613,9 +618,10 @@ Nr. XIII-2203, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09726
 12 straipsnis. Žemės paėmimo projekto tvirtinimas
 
 
-1. Projektą įgyvendinanti institucija parengtą žemės paėmimo projektą teikia tvirtinti Nacionalinei žemės tarnybai šio įstatymo 5 straipsnio 2 dalyje nustatyta tvarka. Patvirtintas žemės paėmimo projektas galioja neterminuotai. 
+1. Projektą įgyvendinanti institucija žemės paėmimo projektą teikia tvirtinti Nacionalinei žemės tarnybai šio įstatymo 5 straipsnio 2 dalyje nustatyta tvarka. Patvirtintas žemės paėmimo projektas galioja neterminuotai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2203, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09726
+Nr. XIV-1313, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15640
  
 
 
@@ -688,9 +694,10 @@ Visuomenės poreikiams paimtas žemės sklypas, Nekilnojamojo turto registre įr
 15 straipsnis. Paimto visuomenės poreikiams žemės sklypo išpirkimas
 
 
-1. Tais atvejais, kai nuo valstybės nuosavybės teisės į visuomenės poreikiams paimtą žemės sklypą įregistravimo dienos yra praėję ne daugiau kaip 10 metų ir pagal Teritorijų planavimo įstatymo nustatyta tvarka naujai parengtus arba pakeistus teritorijų planavimo dokumentus (vietovės lygmens kompleksinio teritorijų planavimo dokumentus ar specialiojo teritorijų planavimo dokumentus) žemės sklypo nenumatoma naudoti toms reikmėms, kurioms šis žemės sklypas buvo paimtas visuomenės poreikiams, Nacionalinė žemės tarnyba privalo raštu pasiūlyti žemės savininkui, iš kurio šis žemės sklypas buvo paimtas visuomenės poreikiams, išpirkti šį žemės sklypą už kainą, nustatytą atlikus individualų turto vertinimą pagal Turto ir verslo vertinimo pagrindų įstatymą.
+1. Kai nuo valstybės nuosavybės teisės į visuomenės poreikiams paimtą žemės sklypą įregistravimo dienos yra praėję ne daugiau kaip 10 metų ir pagal Teritorijų planavimo įstatymo nustatyta tvarka naujai parengtus arba pakeistus teritorijų planavimo dokumentus (detaliuosius ar specialiuosius planus) žemės sklypo nenumatoma naudoti reikmėms, kurioms šis žemės sklypas paimtas visuomenės poreikiams, Nacionalinė žemės tarnyba privalo raštu pasiūlyti žemės savininkui, iš kurio šis žemės sklypas buvo paimtas visuomenės poreikiams, išpirkti šį žemės sklypą už kainą, nustatytą atlikus individualų turto vertinimą pagal Turto ir verslo vertinimo pagrindų įstatymą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-442, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15448
+Nr. XIV-1313, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15640
  
 
 
@@ -813,3 +820,8 @@ Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypati
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1047, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09658
 Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo Nr. XI-1307 2, 4, 5, 6, 7, 8, 10, 13 straipsnių ir V skyriaus pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1313, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15640
+Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo Nr. XI-1307 2, 5, 12 ir 15 straipsnių pakeitimo įstatymas
