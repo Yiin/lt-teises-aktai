@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F95269B43A0"
 
 # Lietuvos Respublikos pajūrio juostos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3091, i. k. 1021010ISTA0IX-1016
  
@@ -234,7 +234,10 @@ Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA
 
 
 
-4. Privažiavimo prie jūros kranto tvarką pajūrio juostoje pagal kompetenciją nustato Neringos savivaldybė, suderinusi su Kuršių nerijos nacionalinio parko direkcija, Nacionaline žemės tarnyba prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) ir Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žuvininkystės tarnyba), Klaipėdos miesto savivaldybė, suderinusi su Kuršių nerijos nacionalinio parko direkcija (Kuršių nerijos dalyje), Aplinkos apsaugos agentūra (pajūrio juostos žemyninėje dalyje), Nacionaline žemės tarnyba ir Žuvininkystės tarnyba, Klaipėdos rajono savivaldybė, suderinusi su Aplinkos apsaugos agentūra, Pajūrio regioninio parko direkcija (Pajūrio regioninio parko teritorijoje), Nacionaline žemės tarnyba ir Žuvininkystės tarnyba, ir Palangos miesto savivaldybė, suderinusi su Aplinkos apsaugos agentūra, Nacionaline žemės tarnyba, Žuvininkystės tarnyba ir Pajūrio regioninio parko direkcija (Pajūrio regioninio parko teritorijoje).
+4. Privažiavimo prie jūros kranto tvarką pajūrio juostoje savivaldybės teritorijos ribose nustato savivaldybės taryba, suderinusi su Nacionaline žemės tarnyba prie Aplinkos ministerijos ir Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos. Privažiavimo prie jūros kranto tvarka pajūrio juostoje Kuršių nerijos nacionalinio parko teritorijoje ir Pajūrio juostos regioninio parko teritorijoje turi būti suderinta ir su šių parkų direkcijomis bei Aplinkos apsaugos agentūra.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
+ 
 
 
 Straipsnio pakeitimai:
@@ -308,7 +311,9 @@ PAJŪRIO JUOSTOS NAUDOJIMO KONTROLĖ IR ATSAKOMYBĖ UŽ PAŽEIDIMUS
 
 
 
-2. Žemės naudojimo ir šio Įstatymo nustatytų veiklos apribojimų kontrolę pagal kompetenciją atlieka valstybiniai aplinkos apsaugos inspektoriai, valstybiniai saugomų teritorijų pareigūnai, valstybiniai miškų pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo ir statybos priežiūros pareigūnai, kultūros vertybių apsaugos pareigūnai. 
+2. Žemės naudojimo ir šio Įstatymo nustatytų veiklos apribojimų valstybinę kontrolę pagal kompetenciją atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių miškų apsaugos pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, kultūros vertybių apsaugos pareigūnai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
  
 
 
@@ -361,3 +366,8 @@ Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 4, 6 ir 7 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
 Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 1, 4, 5, 6, 7 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 6 ir 10 straipsnių pakeitimo įstatymas
