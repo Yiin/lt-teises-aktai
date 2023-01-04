@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
  
@@ -113,7 +113,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-13. Savivaldybės želdynų ir želdinių teritorijos – želdiniais ar želdynais užimti žemės plotai, esantys savivaldybės patikėjimo ar panaudos teise valdomoje valstybinėje žemėje ir savivaldybei nuosavybės teise priklausančioje žemėje, taip pat valstybinės žemės valdytojos Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos valdomoje valstybinėje žemėje miestuose, miesteliuose ir kurortuose.
+13. Savivaldybės želdynų ir želdinių teritorijos – želdiniais ar želdynais užimti žemės plotai, esantys savivaldybės patikėjimo ar panaudos teise valdomoje valstybinėje žemėje ir savivaldybei nuosavybės teise priklausančioje žemėje, taip pat Nacionalinės žemės tarnybos prie Aplinkos ministerijos valdomoje valstybinėje žemėje miestuose, miesteliuose ir kurortuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1326, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15654
+ 
 
 
 
@@ -1660,3 +1663,8 @@ Lietuvos Respublikos želdynų įstatymo Nr. X-1241 8, 9 ir 13 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-199, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07437
 Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1326, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15654
+Lietuvos Respublikos želdynų įstatymo Nr. X-1241 2 straipsnio pakeitimo įstatymas
