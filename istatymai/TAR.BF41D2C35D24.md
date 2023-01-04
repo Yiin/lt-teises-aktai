@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2023-01-02 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -518,11 +518,12 @@ Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
 
 
 
-2. Valstybinės reikšmės keliams priskirta žemė priklauso valstybei išimtine nuosavybės teise. Ją patikėjimo teise valdo, naudoja ir ja disponuoja akcinė bendrovė Lietuvos automobilių kelių direkcija. Valstybinės žemės sklypai, reikalingi valstybinės reikšmės keliams projektuoti, tiesti, statyti, rekonstruoti, taisyti (remontuoti) ar priskirti valstybinės reikšmės keliams, perduodami patikėjimo teise akcinei bendrovei Lietuvos automobilių kelių direkcijai Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo sprendimu, suderintu su Lietuvos Respublikos žemės ūkio ministerija, Žemės įstatymo ir Vyriausybės nustatyta tvarka. Valstybinės žemės sklypo, perduodamo patikėjimo teise akcinei bendrovei Lietuvos automobilių kelių direkcijai, perdavimo–priėmimo aktą pasirašo Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas arba jo įgaliotas teritorinio padalinio vadovas. Valstybinės reikšmės kelią ar jo ruožą išbraukus iš valstybinės reikšmės kelių sąrašo, Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas Žemės įstatymo ir Vyriausybės nustatyta tvarka priima sprendimą, suderintą su Žemės ūkio ministerija, dėl patikėjimo teisės į šio kelio ar jo ruožo užimamą valstybinės žemės sklypą pasibaigimo ir tokį žemės sklypą akcinė bendrovė Lietuvos automobilių kelių direkcija perdavimo–priėmimu aktu grąžina Nacionalinei žemės tarnybai prie Žemės ūkio ministerijos.
+2. Valstybinės reikšmės keliams priskirta žemė priklauso valstybei išimtine nuosavybės teise. Ją patikėjimo teise valdo, naudoja ir ja disponuoja akcinė bendrovė Lietuvos automobilių kelių direkcija. Valstybinės žemės sklypai, reikalingi valstybinės reikšmės keliams projektuoti, tiesti, statyti, rekonstruoti, taisyti (remontuoti) ar priskirti valstybinės reikšmės keliams, perduodami patikėjimo teise akcinei bendrovei Lietuvos automobilių kelių direkcijai Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) vadovo sprendimu, suderintu su Lietuvos Respublikos aplinkos ministerija, Žemės įstatymo ir Vyriausybės nustatyta tvarka. Valstybinės žemės sklypo, perduodamo patikėjimo teise akcinei bendrovei Lietuvos automobilių kelių direkcijai, perdavimo–priėmimo aktą pasirašo Nacionalinės žemės tarnybos vadovas arba jo įgaliotas teritorinio padalinio vadovas. Valstybinės reikšmės kelią ar jo ruožą išbraukus iš valstybinės reikšmės kelių sąrašo, Nacionalinės žemės tarnybos vadovas Žemės įstatymo ir Vyriausybės nustatyta tvarka priima sprendimą, suderintą su Aplinkos ministerija, dėl patikėjimo teisės į šio kelio ar jo ruožo užimamą valstybinės žemės sklypą pasibaigimo ir tokį žemės sklypą akcinė bendrovė Lietuvos automobilių kelių direkcija perdavimo–priėmimo aktu grąžina Nacionalinei žemės tarnybai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
 Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
 Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
+Nr. XIV-1327, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15655
  
 
 
