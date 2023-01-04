@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
  
@@ -89,7 +89,10 @@ Bendrosios nuostatos
 
 
 
-8. Geodezininkas – geodezijos ir kartografijos darbus atliekantis fizinis asmuo, turintis Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba), kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės (toliau – valstybė narė) kompetentingos institucijos išduotą kvalifikacijos pažymėjimą arba kitą dokumentą, kuriuo suteikiama teisė atlikti šiuos darbus.
+8. Geodezininkas – geodezijos ir kartografijos darbus atliekantis fizinis asmuo, turintis Nacionalinės žemės tarnybos prie Aplinkos ministerijos, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės kompetentingos institucijos išduotą kvalifikacijos pažymėjimą arba kitą dokumentą, kuriuo suteikiama teisė atlikti šiuos darbus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -556,12 +559,17 @@ geodezinė IR kartografinė veikla
 
 
 
-4. Šio įstatymo 10 straipsnio 3 dalies 1, 2 ir 3 punktuose nurodytos funkcijos finansuojamos iš Lietuvos Respublikos žemės ūkio ministerijai atitinkamais metais patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+4. Šio įstatymo 10 straipsnio 3 dalyje nurodytos funkcijos finansuojamos iš Lietuvos Respublikos aplinkos ministerijai atitinkamais metais patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
 
-5. Šio įstatymo 10 straipsnio 3 dalies 4 punkte nurodytos funkcijos finansuojamos iš Žemės ūkio ministerijai ir Lietuvos Respublikos aplinkos ministerijai atitinkamais metais patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+5. Neteko galios nuo 2023-01-04
+Straipsnio dalies naikinimas:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
  
 
 
@@ -602,10 +610,15 @@ Lietuvos Respublikos Vyriausybė:
 
 
 
-9 straipsnis. Žemės ūkio ministerijos kompetencija geodezijos, kartografijos, erdvinių duomenų rinkinių tvarkymo ir Lietuvos erdvinės informacijos infrastruktūros plėtojimo srityse
+9 straipsnis. Aplinkos ministerijos kompetencija geodezijos, kartografijos, erdvinių duomenų rinkinių tvarkymo ir Lietuvos erdvinės informacijos infrastruktūros plėtojimo srityse 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
-1. Žemės ūkio ministerija:
+1. Aplinkos ministerija:
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 
 1) formuoja valstybės politiką geodezijos, kartografijos, erdvinių duomenų rinkinių tvarkymo ir Lietuvos erdvinės informacijos infrastruktūros plėtojimo srityse, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
@@ -655,7 +668,9 @@ Lietuvos Respublikos Vyriausybė:
 
 
 
-2. Lietuvos Respublikos žemės ūkio ministras tvirtina:
+2. Aplinkos ministras tvirtina:
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 
 1) valstybinio geodezinio pagrindo tvarkymo ir krašto kartografavimo programas;
@@ -741,10 +756,15 @@ Lietuvos Respublikos Vyriausybė:
 10 straipsnis. Valstybės politiką geodezijos, kartografijos, erdvinių duomenų rinkinių tvarkymo ir Lietuvos erdvinės informacijos infrastruktūros plėtojimo srityse įgyvendinančios institucijos ir įmonės kompetencija
 
 
-1. Nacionalinė žemės tarnyba: 
+1. Nacionalinė žemės tarnyba prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba): 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 
-1) organizuoja į žemės ūkio ministro patvirtintas valstybinio geodezinio pagrindo tvarkymo ir krašto kartografavimo programas įtrauktus geodezijos ir kartografijos darbus;
+1) organizuoja į aplinkos ministro patvirtintas valstybinio geodezinio pagrindo tvarkymo ir krašto kartografavimo programas įtrauktus geodezijos ir kartografijos darbus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -852,7 +872,10 @@ Nr. XIV-1306, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15633
 
 
 
-5) suderinusios su Žemės ūkio ministerija, tvirtina jų tvarkomų erdvinių duomenų rinkinių, atitinkančių Vyriausybės patvirtintas Lietuvos erdvinės informacijos erdvinių duomenų temas, specifikacijas;
+5) suderinusios su Aplinkos ministerija, tvirtina jų tvarkomų erdvinių duomenų rinkinių, atitinkančių Vyriausybės patvirtintas Lietuvos erdvinės informacijos erdvinių duomenų temas, specifikacijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -867,7 +890,10 @@ Nr. XIV-1306, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15633
 2. Savivaldybės: 
 
 
-1) pagal žemės ūkio ministro patvirtintus techninius reglamentus ir specifikacijas tvarko savivaldybės erdvinių duomenų rinkinio duomenis, apimančius savivaldybės teritoriją, ir žemės ūkio ministro nustatyta tvarka juos integruoja į Topografijos ir inžinerinės infrastruktūros informacinės sistemos Žemės paviršiaus gamtinių ir antropogeninių objektų erdvinių duomenų rinkinį;
+1) pagal aplinkos ministro patvirtintus techninius reglamentus ir specifikacijas tvarko savivaldybės erdvinių duomenų rinkinio duomenis, apimančius savivaldybės teritoriją, ir aplinkos ministro nustatyta tvarka juos integruoja į Topografijos ir inžinerinės infrastruktūros informacinės sistemos Žemės paviršiaus gamtinių ir antropogeninių objektų erdvinių duomenų rinkinį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -892,7 +918,10 @@ Nr. XIV-1306, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15633
 
 
 
-6) žemės ūkio ministro nustatyta tvarka derina per Topografijos ir inžinerinės infrastruktūros informacinę sistemą geodezininko pateiktus topografinius planus ir inžinerinių tinklų planus;
+6) aplinkos ministro nustatyta tvarka derina per Topografijos ir inžinerinės infrastruktūros informacinę sistemą geodezininko pateiktus topografinius planus ir inžinerinių tinklų planus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -914,7 +943,9 @@ Nr. XIV-1306, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15633
 
 
 
-3. Inžinerinius tinklus, valstybinės reikšmės kelius valdančios institucijos ir įmonės, geležinkelių infrastruktūros valdytojai žemės ūkio ministro nustatyta tvarka:
+3. Inžinerinius tinklus, valstybinės reikšmės kelius valdančios institucijos ir įmonės, geležinkelių infrastruktūros valdytojai aplinkos ministro nustatyta tvarka:
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
 
 
 1) priima per Topografijos ir inžinerinės infrastruktūros informacinę sistemą pateiktus topografinius planus ir inžinerinių tinklų planus, kuriuose pažymėti jų valdomų inžinerinės infrastruktūros objektų erdviniai duomenys, per Topografijos ir inžinerinės infrastruktūros informacinę sistemą gavę savivaldybių kreipimusis juos vertina ir teikia savivaldybėms vertinimo išvadą bei turimą papildomą informaciją;
@@ -965,7 +996,10 @@ GEODEZININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 
 
 
-3. Fizinis asmuo, atliekantis šio straipsnio 9 dalyje nurodytus geodezijos ir kartografijos darbus, privalo turėti Nacionalinės žemės tarnybos išduotą geodezininko kvalifikacijos pažymėjimą. Tuo atveju, jeigu valstybės narės pilietis, taip pat trečiosios šalies fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktų jam suteiktomis judėjimo valstybėje narėje teisėmis, kitoje valstybėje narėje įsteigtų juridinių asmenų ar kitų organizacijų, ar jų padalinių darbuotojas turi kitos valstybės narės kompetentingos institucijos išduotą kvalifikacijos pažymėjimą arba kitą dokumentą, kuriuo patvirtinama, kad jis turi teisę atlikti geodezijos ir kartografijos darbus pagal tos valstybės narės teisės aktus, reikalavimas tokį pažymėjimą gauti iš naujo netaikomas.
+3. Fizinis asmuo, atliekantis šio straipsnio 9 dalyje nurodytus geodezijos ir kartografijos darbus, privalo turėti Nacionalinės žemės tarnybos išduotą geodezininko kvalifikacijos pažymėjimą. Jeigu valstybės narės pilietis, taip pat trečiosios šalies fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktų jam suteiktomis judėjimo valstybėje narėje teisėmis, kitoje valstybėje narėje įsteigtų juridinių asmenų ar kitų organizacijų, ar jų padalinių darbuotojas turi kitos valstybės narės kompetentingos institucijos išduotą kvalifikacijos pažymėjimą arba kitą dokumentą, kuriuo patvirtinama, kad jis turi teisę atlikti geodezijos ir kartografijos darbus pagal tos valstybės narės teisės aktus, reikalavimas tokį pažymėjimą gauti iš naujo netaikomas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -978,7 +1012,10 @@ GEODEZININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 
 
 
-2) iki prašymo gauti geodezininko kvalifikacijos pažymėjimą pateikimo Nacionalinei žemės tarnybai įgyta ne mažesnė kaip 2 metų darbo geodezijos ir kartografijos darbų srityje patirtis; 
+2) iki prašymo gauti geodezininko kvalifikacijos pažymėjimą pateikimo Nacionalinei žemės tarnybai įgyta ne trumpesnė kaip 2 metų darbo geodezijos ir kartografijos darbų srityje patirtis;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1099,12 +1136,18 @@ GEODEZININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 
 
 
-4) žemės ūkio ministro nustatyta tvarka teikti Nacionalinei žemės tarnybai ir savivaldybės administracijos direktoriui informaciją apie geodezinių ženklų būklę; 
+4) aplinkos ministro nustatyta tvarka teikti Nacionalinei žemės tarnybai ir savivaldybės administracijos direktoriui informaciją apie geodezinių ženklų būklę; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
 
-5) ne rečiau kaip kas 3 metus tobulinti savo kvalifikaciją pagal Nacionalinės žemės tarnybos direktoriaus patvirtintas geodezininko kvalifikacijos tobulinimo programas. 
+5) ne rečiau kaip kas 3 metus tobulinti kvalifikaciją pagal Nacionalinės žemės tarnybos direktoriaus patvirtintas geodezininko kvalifikacijos tobulinimo programas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1195,7 +1238,10 @@ GEODEZININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 
 
 
-3) geodezininkas per geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymo terminą nepašalino geodezininko kvalifikacijos pažymėjimus išduodančios Nacionalinės žemės tarnybos nustatytų veiklos pažeidimų ir Nacionalinei žemės tarnybai nepateikė šių pažeidimų pašalinimo įrodymo dokumentų;
+3) geodezininkas per geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymo terminą nepašalino geodezininko kvalifikacijos pažymėjimus išduodančios Nacionalinės žemės tarnybos nustatytų veiklos pažeidimų ir jai nepateikė šių pažeidimų pašalinimo įrodymo dokumentų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1324,7 +1370,10 @@ GEODEZINIAI PUNKTAI ir JŲ APSAUGA
 5. Geodeziniai ženklai gali būti perkeliami:
 
 
-1) valstybinių geodezinių tinklų – žemės ūkio ministro nustatyta tvarka;
+1) valstybinių geodezinių tinklų – aplinkos ministro nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1362,7 +1411,10 @@ BENDROSIOS NUOSTATOS
 1. Lietuvos erdvinės informacijos infrastruktūra skirta: 
 
 
-1) kaupti valstybės kadastrų, registrų, valstybės informacinių sistemų, valstybės ir savivaldybių institucijų erdvinių duomenų rinkinių metaduomenis pagal žemės ūkio ministro patvirtintą tvarkos aprašą; 
+1) kaupti valstybės kadastrų, registrų, valstybės informacinių sistemų, valstybės ir savivaldybių institucijų erdvinių duomenų rinkinių metaduomenis pagal aplinkos ministro patvirtintą tvarkos aprašą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1466,7 +1518,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Erdvinių duomenų rinkiniai kuriami žemės ūkio ministro nustatyta tvarka. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų temas atitinkantys erdvinių duomenų rinkiniai sudaromi pagal Europos Komisijos patvirtintus reikalavimus.
+3. Erdvinių duomenų rinkiniai kuriami aplinkos ministro nustatyta tvarka. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų temas atitinkantys erdvinių duomenų rinkiniai sudaromi pagal Europos Komisijos patvirtintus reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1476,7 +1531,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Erdvinių duomenų rinkinių specifikacijas, suderinę su Žemės ūkio ministerija, nustato valstybės kadastrų, registrų ir valstybės informacinių sistemų valdytojai, valstybės institucijos, tvarkančios erdvinių duomenų rinkinius. 
+5. Erdvinių duomenų rinkinių specifikacijas, suderinę su Aplinkos ministerija, nustato valstybės kadastrų, registrų ir valstybės informacinių sistemų valdytojai, valstybės institucijos, tvarkančios erdvinių duomenų rinkinius. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1486,7 +1544,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Siekdama užtikrinti, kad erdviniai duomenys, kurie yra nustatomi abipus dviejų ar daugiau valstybių narių sienų, būtų darnūs, Žemės ūkio ministerija kartu su valstybių narių, turinčių su Lietuvos Respublika bendrą valstybės sieną, kompetentingomis institucijomis prireikus bendru sutarimu sprendžia dėl tokių bendrų elementų vaizdavimo ir padėties.
+7. Siekdama užtikrinti, kad abipus dviejų ar daugiau valstybių narių sienų nustatomi erdviniai duomenys būtų darnūs, Aplinkos ministerija kartu su valstybių narių, turinčių su Lietuvos Respublika bendrą valstybės sieną, kompetentingomis institucijomis prireikus bendru sutarimu sprendžia dėl bendrų elementų vaizdavimo ir padėties.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
  
 
 
@@ -1497,7 +1557,10 @@ BENDROSIOS NUOSTATOS
 20 straipsnis. Metaduomenys
 
 
-1. Valstybės kadastrų, registrų, valstybės informacinių sistemų, valstybės ir savivaldybių institucijų tvarkomų erdvinių duomenų rinkinių tvarkytojai privalo parengti ir nuolat atnaujinti metaduomenis pagal žemės ūkio ministro patvirtintus Lietuvos erdvinės informacijos infrastruktūros metaduomenų reikalavimus ir žemės ūkio ministro nustatyta tvarka juos teikti viešai ir neatlygintinai per Lietuvos erdvinės informacijos portalą.
+1. Valstybės kadastrų, registrų, valstybės informacinių sistemų, valstybės ir savivaldybių institucijų tvarkomų erdvinių duomenų rinkinių tvarkytojai privalo parengti ir nuolat atnaujinti metaduomenis pagal aplinkos ministro patvirtintus Lietuvos erdvinės informacijos infrastruktūros metaduomenų reikalavimus, aplinkos ministro nustatyta tvarka juos teikti viešai ir neatlygintinai per Lietuvos erdvinės informacijos portalą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1532,7 +1595,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Institucija, atsakinga už metaduomenų kūrimą, suderinusi su Žemės ūkio ministerija, gali išplėsti metaduomenų turinį papildoma informacija. Metaduomenys turi būti išsamūs ir tikslūs, kad pagal juos būtų galima surasti erdvinių duomenų rinkinius ir su jais susijusias paslaugas, įvertinti metaduomenų kokybę ir juos naudoti.
+3. Institucija, atsakinga už metaduomenų kūrimą, suderinusi su Aplinkos ministerija, gali išplėsti metaduomenų turinį papildoma informacija. Metaduomenys turi būti išsamūs ir tikslūs, kad pagal juos būtų galima surasti erdvinių duomenų rinkinius ir su jais susijusias paslaugas, įvertinti metaduomenų kokybę ir juos naudoti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
  
 
 
@@ -1555,7 +1620,9 @@ LIETUVOS ERDVINĖS INFORMACIJOS PORTALAS
 
 
 
-2. Lietuvos erdvinės informacijos portalo tvarkymo ir erdvinių duomenų rinkinių teikimo naudotojams tvarka nustatoma žemės ūkio ministro tvirtinamuose Lietuvos erdvinės informacijos portalo nuostatuose. 
+2. Lietuvos erdvinės informacijos portalo tvarkymo ir erdvinių duomenų rinkinių teikimo naudotojams tvarka nustatoma aplinkos ministro tvirtinamuose Lietuvos erdvinės informacijos portalo nuostatuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
  
 
 
@@ -1780,12 +1847,18 @@ TOPOGRAFIJOS IR INŽINERINĖS INFRASTRUKTŪROS INFORMACINĖ SISTEMA
 
 
 
-4. Topografijos ir inžinerinės infrastruktūros informacinės sistemos nuostatus tvirtina žemės ūkio ministras ir Lietuvos Respublikos aplinkos ministras.
+4. Topografijos ir inžinerinės infrastruktūros informacinės sistemos nuostatus tvirtina aplinkos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
 
-5. Žemės ūkio ministerija planuoja, koordinuoja ir kontroliuoja Topografijos ir inžinerinės infrastruktūros informacinės sistemos Žemės paviršiaus gamtinių ir antropogeninių objektų erdvinių duomenų rinkinio tvarkymo darbus, tvirtina šio rinkinio specifikaciją ir tvarkymo aprašą.
+5. Aplinkos ministerija planuoja, koordinuoja ir kontroliuoja Topografijos ir inžinerinės infrastruktūros informacinės sistemos Žemės paviršiaus gamtinių ir antropogeninių objektų erdvinių duomenų rinkinio tvarkymo darbus, tvirtina šio rinkinio specifikaciją ir tvarkymo aprašą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -1865,7 +1938,10 @@ Georeferencinio pagrindo kadastro paskirtis – registruoti šio įstatymo 28 st
 27 straipsnis. Georeferencinio pagrindo kadastro tvarkymas
 
 
-1. Georeferencinio pagrindo kadastro valdytoja – Žemės ūkio ministerija.
+1. Georeferencinio pagrindo kadastro valdytoja – Aplinkos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+ 
 
 
 
@@ -2030,7 +2106,9 @@ VALSTYBINIŲ ERDVINIŲ DUOMENŲ RINKINIŲ IR ŽEMĖLAPIŲ AUTORIŲ TEISIŲ APSAU
 
 
 
-2. Valstybiniai erdvinių duomenų rinkiniai ir žemėlapiai naudotojui teikiami žemės ūkio ministro tvirtinamame Valstybinių erdvinių duomenų rinkinių ir žemėlapių naudojimo tvarkos apraše nustatyta tvarka. 
+2. Valstybiniai erdvinių duomenų rinkiniai ir žemėlapiai naudotojui teikiami aplinkos ministro tvirtinamame Valstybinių erdvinių duomenų rinkinių ir žemėlapių naudojimo tvarkos apraše nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
  
 
 
@@ -2089,7 +2167,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
 
- 
 Lietuvos Respublikos
 geodezijos ir kartografijos
 įstatymo
@@ -2146,5 +2223,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1306, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15633
 Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 10 straipsnio pakeitimo įstatymas
  
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 2, 7, 9, 10, 11, 12, 13, 14, 16, 17, 19, 20, 21, 24, 27 ir 31 straipsnių pakeitimo įstatymas
  
-part_b8c80ad71a16441ebce79d772843330d_end
+ 
+part_b27a9b352df448489506d8090a45631f_end
