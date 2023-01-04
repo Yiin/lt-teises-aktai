@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-12-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -3074,38 +3074,32 @@ Nr. XII-1197, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14126
 45 straipsnis. Atsakomybė už šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus ir jų nagrinėjimo tvarka
 
 
-1. Už šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus atsako ir juridinių asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai. Nurodyti pažeidimai tiriami, protokolai surašomi ir pažeidimų bylos nagrinėjamos ne teismo tvarka pagal Administracinių nusižengimų kodeksą, išskyrus šiame straipsnyje nurodytus atvejus. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2643, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24683
+1. Už šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus atsako ir juridinių asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai. Nurodyti pažeidimai tiriami, protokolai surašomi ir pažeidimų bylos nagrinėjamos ne teismo tvarka pagal Administracinių nusižengimų kodeksą, išskyrus šiame straipsnyje nurodytus atvejus.
+
+
+
+
+2. Dėl šio įstatymo 42, 43 ir 44 straipsniuose nurodytų pažeidimų protokolus surašo šio straipsnio 5 dalyje nurodyti pareigūnai.
+
+
+
+
+3. Šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus, susijusius su specialiojo teritorijų planavimo žemėtvarkos dokumentais, nagrinėja Nacionalinė žemės tarnyba prie Aplinkos ministerijos.
+
+
+
+
+4. Šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus, išskyrus pažeidimus, kuriuos nagrinėja šio straipsnio 3 dalyje nurodyta institucija, nagrinėja Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos.
+
+
+
+
+5. Nacionalinės žemės tarnybos prie Aplinkos ministerijos ir Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos vardu nagrinėti šiame įstatyme nurodytus pažeidimus ir skirti nuobaudas turi teisę nurodytų įstaigų vadovai, vadovo pavaduotojas ar vadovo įgalioti kiti institucijos pareigūnai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1316, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15644
  
-
-
-
-
-2. Dėl šio įstatymo 42, 43 ir 44 straipsniuose nurodytų pažeidimų protokolus surašo šio straipsnio 6 dalyje nurodyti pareigūnai.
-
-
-
-
-3. Šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus, susijusius su miškų tvarkymo schemomis, nagrinėja Valstybinė miškų tarnyba.
-
-
-
-
-4. Šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus, susijusius su specialiojo teritorijų planavimo žemėtvarkos dokumentais, nagrinėja Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos.
-
-
-
-
-5. Šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus, išskyrus pažeidimus, kuriuos nagrinėja šio straipsnio 3 ir 4 dalyse nurodytos įstaigos, nagrinėja Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos.
-
-
-
-
-6. Valstybinės miškų tarnybos, Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos ir Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos vardu nagrinėti šiame įstatyme nurodytus pažeidimus ir skirti nuobaudas turi teisę nurodytų įstaigų vadovai, vadovo pavaduotojas ar vadovo įgalioti kiti institucijos pareigūnai. 
- 
-
-
 
 
 
@@ -3131,7 +3125,10 @@ BAIGIAMOSIOS NUOSTATOS
 47 straipsnis. Naudojimasis informacinėmis sistemomis
 
 
-1. Teritorijų planavimo procedūras, išskyrus specialiojo teritorijų planavimo žemėtvarkos dokumentams taikomas teritorijų planavimo procedūras, planavimo organizatoriai, teritorijų planavimo dokumentų rengėjai, viešojo administravimo subjektai ir kiti teritorijų planavimo proceso dalyviai atlieka naudodamiesi Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacine sistema šios sistemos nuostatuose nustatyta tvarka, išskyrus atvejus, jeigu teritorijų planavimo dokumentai buvo pradėti rengti iki šios sistemos sukūrimo. Specialiojo teritorijų planavimo žemėtvarkos dokumentams taikomas teritorijų planavimo procedūras planavimo organizatoriai, teritorijų planavimo dokumentų rengėjai, viešojo administravimo subjektai ir kiti teritorijų planavimo proceso dalyviai atlieka naudodamiesi Žemėtvarkos planavimo dokumentų rengimo informacine sistema šios sistemos nuostatuose nustatyta tvarka, išskyrus atvejus, jeigu specialiojo teritorijų planavimo žemėtvarkos dokumentai buvo pradėti rengti iki šios sistemos sukūrimo. Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinės sistemos nuostatus tvirtina aplinkos ministras, Žemėtvarkos planavimo dokumentų rengimo informacinės sistemos nuostatus – Lietuvos Respublikos žemės ūkio ministras.
+1. Teritorijų planavimo procedūras, išskyrus specialiojo teritorijų planavimo žemėtvarkos dokumentams taikomas teritorijų planavimo procedūras, planavimo organizatoriai, teritorijų planavimo dokumentų rengėjai, viešojo administravimo subjektai ir kiti teritorijų planavimo proceso dalyviai atlieka naudodamiesi Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacine sistema šios sistemos nuostatuose nustatyta tvarka, išskyrus atvejus, jeigu teritorijų planavimo dokumentai buvo pradėti rengti iki šios sistemos sukūrimo. Specialiojo teritorijų planavimo žemėtvarkos dokumentams taikomas teritorijų planavimo procedūras planavimo organizatoriai, teritorijų planavimo dokumentų rengėjai, viešojo administravimo subjektai ir kiti teritorijų planavimo proceso dalyviai atlieka naudodamiesi Žemėtvarkos planavimo dokumentų rengimo informacine sistema šios sistemos nuostatuose nustatyta tvarka, išskyrus atvejus, jeigu specialiojo teritorijų planavimo žemėtvarkos dokumentai buvo pradėti rengti iki šios sistemos sukūrimo. Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinės sistemos nuostatus ir Žemėtvarkos planavimo dokumentų rengimo informacinės sistemos nuostatus tvirtina aplinkos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1316, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15644
+ 
 
 
 
@@ -3552,3 +3549,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 20 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2, 4 ir 16 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1316, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15644
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 45 ir 47 straipsnių pakeitimo įstatymas
