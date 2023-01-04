@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-03
+Suvestinė redakcija nuo 2023-01-04 iki 2023-06-28
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -2687,7 +2687,10 @@ Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
 
 
 
-3. Nustatant sanitarinės apsaugos zonas, ūkinės veiklos išmetamų (išleidžiamų, paskleidžiamų) aplinkos oro teršalų, kvapų, triukšmo ir kitų fizikinių veiksnių sukeliama žmogaus sveikatai kenksminga aplinkos tarša už sanitarinės apsaugos zonų ribų neturi viršyti ribinių užterštumo (ar kitokių) verčių, nustatytų gyvenamosios paskirties pastatų (namų), viešbučių, mokslo, poilsio, gydymo paskirties pastatų, su apgyvendinimu susijusių specialiosios paskirties pastatų, rekreacijai skirtų objektų aplinkai.
+3. Nustatant sanitarinės apsaugos zonas, ūkinės veiklos išmetamų (išleidžiamų, paskleidžiamų) aplinkos oro teršalų, kvapų, triukšmo ir kitų fizikinių veiksnių sukeliama žmogaus sveikatai kenksminga aplinkos tarša už sanitarinės apsaugos zonų ribų, taip pat tose sanitarinės apsaugos zonose (jų dalyse), kuriose yra objektai, nurodyti šio įstatymo 53 straipsnio 1 dalies  1–4 punktuose, neturi viršyti ribinių užterštumo (ar kitokių) verčių, nustatytų gyvenamosios paskirties pastatų (namų), viešbučių, mokslo, poilsio, gydymo paskirties pastatų, su apgyvendinimu susijusių specialiosios paskirties pastatų, rekreacijai skirtų objektų aplinkai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
+ 
 
 
 
@@ -2739,7 +2742,9 @@ Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
 53 straipsnis. Specialiosios žemės naudojimo sąlygos sanitarinės apsaugos zonose
 
 
-1. Šio įstatymo 50 straipsnio 1, 2 ir 4 punktuose nurodytose sanitarinės apsaugos zonose draudžiama:
+1. Šio įstatymo 50 straipsnio 1, 2 ir 4 punktuose nurodytose sanitarinės apsaugos zonose, išskyrus šio straipsnio 11 dalyje nurodytą šių sanitarinės apsaugos zonų įrašymo į Nekilnojamojo turto registrą atvejį, draudžiama: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
 
 
 1) statyti sodo namus, gyvenamosios, viešbučių, kultūros paskirties pastatus, bendrojo ugdymo, profesinių, aukštųjų mokyklų, vaikų darželių, lopšelių mokslo paskirties pastatus, skirtus švietimo reikmėms, kitus mokslo paskirties pastatus, skirtus neformaliajam švietimui, poilsio, gydymo, sporto ir religinės paskirties pastatus, specialiosios paskirties pastatus, susijusius su apgyvendinimu (kareivinių pastatus, laisvės atėmimo vietų įstaigos pastatus);
@@ -2763,6 +2768,14 @@ Nr. XIV-1229, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15595
 4) planuoti teritorijas rekreacijai ir šios dalies 1 punkte nurodytos paskirties objektų statybai, išskyrus atvejus, kai šie objektai naudojami tik ūkininko ar įmonės, vykdančios veiklą sanitarinės apsaugos zonose leistinos paskirties pastatuose (patalpose), ūkinės veiklos ir (ar) darbuotojų saugos ir sveikatos reikmėms.
 
 
+
+
+
+
+11. Šio įstatymo 50 straipsnio 1, 2 ir 4 punktuose nurodytose sanitarinės apsaugos zonose, į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą įrašytose šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos), išskyrus sanitarinės apsaugos zoną (jos dalį), patenkančią į likviduotos sodininkų bendrijos teritoriją, draudžiama keisti pagrindinę žemės naudojimo paskirtį į kitą žemės paskirtį, pagal kurią galima šio straipsnio 1 dalies 1 punkte nurodytų objektų statyba. Šioje dalyje nurodytose sanitarinės apsaugos zonose netaikomos šio straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
+ 
 
 
 
@@ -8045,7 +8058,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo III skyriaus septintasis skirsnis ir 142 straipsnis įsigalioja 2023 m. sausio 1 d.
+2. Šio įstatymo 142 straipsnis įsigalioja 2023 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
+ 
 
 
 
@@ -8098,6 +8114,22 @@ Nr. XIV-1625, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25402
 
 
 4. Jeigu iki šio įstatymo įsigaliojimo dienos ūkinei ir (ar) kitokiai veiklai, dėl kurios turėjo būti nustatytos šiame įstatyme nurodytos sanitarinės apsaugos zonos, šios zonos pagal iki šio įstatymo įsigaliojimo dienos galiojusį teisinį reguliavimą nustatytos, bet, į jas patekus Nekilnojamojo turto registre įregistruotiems žemės sklypams (jų dalims), neįrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą (išskyrus šio įstatymo 9 straipsnio 3 dalyje nurodytus atvejus), asmuo, suinteresuotas šios ūkinės ir (ar) kitokios veiklos vykdymu, šio įstatymo 8 straipsnio 1 dalyje ir 9 straipsnio 2 dalyje nurodytus pranešimus ir prašymus Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pateikia per dvejus kalendorinius metus nuo šio įstatymo įsigaliojimo dienos (bet ne vėliau kaip iki 2022 m. gruodžio 31 d.) gavęs žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimus, jeigu jie nebuvo gauti, išskyrus atvejus, kai šiame įstatyme nurodytos teritorijos nustatytos tenkinant viešąjį interesą, kai žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas. 
+
+
+
+
+41. Kai sanitarinės apsaugos zona į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą buvo įrašyta šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos), bet šio įstatymo 142 straipsnyje išdėstyto Specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnio 1 dalyje nurodytas prašymas arba šiai teritorijai įregistruoti reikalingi duomenys nepateikti Nekilnojamojo turto registro tvarkytojui, asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatyta sanitarinės apsaugos zona, vykdymu, šioje dalyje nurodytu atveju nustato šią sanitarinės apsaugos zoną poveikio visuomenės sveikatai vertinimo dokumente ir Nekilnojamojo turto registro tvarkytojui pateikia šioje dalyje nurodytus prašymus arba sanitarinės apsaugos zonai įregistruoti reikalingus duomenis. Šioje dalyje nurodytas poveikio visuomenės sveikatai vertinimo dokumentas rengiamas, kai į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą įrašyta sanitarinės apsaugos zona nenurodyta (nepažymėta grafiškai) šio įstatymo 6 straipsnio 1 dalyje ir šio įstatymo 142 straipsnyje išdėstyto Specialiųjų žemės naudojimo sąlygų įstatymo 6 straipsnio 1 dalyje nurodytuose dokumentuose (ar kituose dokumentuose pagal iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos galiojusį teisinį reguliavimą). Prašymas įgaliotai institucijai priimti sprendimą dėl šioje dalyje nurodyto poveikio visuomenės sveikatai vertinimo dokumento pateikiamas iki 2024 m. gruodžio 31 d., o šio įstatymo 142 straipsnyje išdėstyto Specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnio 1 dalyje nurodyti prašymai arba šioms teritorijoms įregistruoti reikalingi duomenys Nekilnojamojo turto registro tvarkytojui pateikiami iki 2025 m. gruodžio 1 d. Šioje dalyje nurodytoms sanitarinės apsaugos zonoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas, išskyrus atvejus, kai žemės sklypo ar valstybinės žemės dalis, patenkanti į poveikio visuomenės sveikatai vertinimo dokumentuose nustatytą sanitarinės apsaugos zoną, padidėja (šiais atvejais padidėjusioje, palyginti su įrašytąja į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, sanitarinės apsaugos zonos dalyje taikomos šio įstatymo 53 straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos). 
+Papildyta straipsnio dalimi:
+Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
+ 
+
+
+
+
+42. Kai sanitarinės apsaugos zona turėjo būti įrašyta į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos), bet nebuvo įrašyta iki 2022 m. gruodžio 31 d., asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatyta sanitarinės apsaugos zona, vykdymu, nustato šią sanitarinės apsaugos zoną poveikio visuomenės sveikatai vertinimo dokumente ir Nekilnojamojo turto registro tvarkytojui pateikia šio įstatymo 142 straipsnyje išdėstyto Specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnio 1 dalyje nurodytus prašymus arba sanitarinės apsaugos zonai įregistruoti reikalingus duomenis. Prašymas įgaliotai institucijai priimti sprendimą dėl šioje dalyje nurodyto poveikio visuomenės sveikatai vertinimo dokumento pateikiamas iki 2024 m. gruodžio 31 d. Šio straipsnio 41 dalyje nustatytais terminais šioje dalyje nurodyti prašymai arba sanitarinės apsaugos zonoms įregistruoti reikalingi duomenys teikiami kartu su Nacionalinės žemės tarnybos prie Aplinkos ministerijos direktoriaus nustatyta tvarka parengta Nacionalinės žemės tarnybos prie Aplinkos ministerijos išvada dėl galimybės nustatyti sanitarinės apsaugos zoną šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos). Šioje dalyje nurodytoms sanitarinės apsaugos zonoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas, išskyrus atvejus, kai žemės sklypo ar valstybinės žemės dalis, patenkanti į poveikio visuomenės sveikatai vertinimo dokumentuose nustatytą sanitarinės apsaugos zoną, padidėja (šiais atvejais padidėjusioje, palyginti su galėjusia būti įrašyta į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos) sanitarinės apsaugos zonos dalyje taikomos šio įstatymo 53 straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos).
+Papildyta straipsnio dalimi:
+Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
+ 
 
 
 
@@ -8654,8 +8686,7 @@ Respublikos Prezidentė                            �
  
 
  
- 
-part_866eab23705f4615becc0f39fc95b096_end
+part_e93c4da641ca43b89fe8d3f43d97b490_end
 part_1f58dedaf4fc46b7b2cd42537b54ea02_end
 
 
@@ -8923,7 +8954,6 @@ Pastabos:
 
  
 
- 
 Lietuvos Respublikos specialiųjų žemės
 naudojimo sąlygų įstatymo
 2 priedas
@@ -9462,7 +9492,6 @@ part_06b2b85e6f84416d9942193e30bd5b7d_end
 
  
 
- 
 Lietuvos Respublikos specialiųjų
 žemės naudojimo sąlygų įstatymo
 3 priedas
@@ -9611,7 +9640,6 @@ Komunalinių objektų sanitarinės apsaugos zonų dydIS
  
 
  
- 
 part_981f5a128ff640a2a4ed74fab4d7e972_end
 part_eb97384c32d141d580f2ff42063907e7_end
 
@@ -9721,3 +9749,8 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1229, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15595
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 53 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 51, 53, 140 ir 141 straipsnių pakeitimo įstatymas
