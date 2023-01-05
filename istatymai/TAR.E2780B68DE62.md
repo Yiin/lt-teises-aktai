@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-04
+Suvestinė redakcija nuo 2023-01-05 iki 2023-04-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -2236,14 +2236,20 @@ Aplinkos ministerija arba jos įgaliota institucija bet kuriuo momentu turi teis
 
 
 
-5) pati imtis būtinų žalos aplinkai prevencijos priemonių, būtinų veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių šio straipsnio 4 dalyje nustatytais atvejais.
+5) šio straipsnio 4 dalyje nustatytais atvejais informuoti savivaldybės vykdomąją instituciją ir (arba) valstybės instituciją pagal kompetenciją apie būtinybę taikyti būtinas žalos aplinkai prevencijos priemones ir (ar) veiksmus, užtikrinančius teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai arba aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemones. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1778, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00159
+ 
 
 
 
 
 
 
-Jeigu ūkio subjektas nevykdo šiame straipsnyje nustatytų pareigų taikyti žalos aplinkai prevencijos priemones, būtinus veiksmus, užtikrinančius teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemones ar neprivalo atlyginti žalos aplinkai prevencijos ir (arba) aplinkos atkūrimo priemonių išlaidų arba nėra nustatytas atsakingas už žalą aplinkai asmuo, savivaldybės ir (arba) valstybės įgaliotos institucijos pagal kompetenciją pačios ar per trečiuosius asmenis vykdo būtinas priemones.
+Jeigu ūkio subjektas nevykdo šiame straipsnyje nustatytų pareigų taikyti žalos aplinkai prevencijos priemones, būtinus veiksmus, užtikrinančius teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ar neprivalo atlyginti žalos aplinkai prevencijos priemonių išlaidų arba nenustatytas atsakingas už žalą aplinkai asmuo, arba atsakingas už žalą aplinkai juridinis asmuo išregistruotas iš Juridinių asmenų registro ar fizinis asmuo miręs, savivaldybės vykdomoji institucija ir (arba) valstybės institucijos pagal kompetenciją pačios ar per trečiuosius asmenis taiko būtinas priemones. Jeigu ūkio subjektas nevykdo šiame straipsnyje nustatytų pareigų taikyti aplinkos atkūrimo priemones ar neprivalo atlyginti aplinkos atkūrimo priemonių išlaidų arba nenustatytas atsakingas už žalą aplinkai asmuo, arba atsakingas už žalą aplinkai juridinis asmuo išregistruotas iš Juridinių asmenų registro ar fizinis asmuo miręs, savivaldybės vykdomoji institucija pati ar per trečiuosius asmenis organizuoja ir (arba) taiko būtinas aplinkos atkūrimo priemones.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1778, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00159
+ 
 
 
 
@@ -2263,7 +2269,10 @@ Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 322 straipsnis. Žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą, ir aplinkos atkūrimo priemonių išlaidų atlyginimas
 
 
-Visas žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių išlaidas ir kitus susijusius nuostolius, nurodytus šio įstatymo 33 straipsnio 2 dalyje, atlygina ūkio subjektas, padaręs žalą aplinkai arba sukėlęs neišvengiamą (realią) žalos aplinkai grėsmę, net ir tais atvejais, kai atitinkamas priemones vykdė savivaldybės arba valstybės įgaliotos institucijos (pačios ar per trečiuosius asmenis). Savivaldybės arba valstybės įgaliotos institucijos iš ūkio subjekto, padariusio žalą aplinkai arba sukėlusio neišvengiamą (realią) žalos aplinkai grėsmę, susigrąžina išlaidas, kurias jos patyrė dėl žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo ir kitus susijusius nuostolius, nurodytus šio įstatymo 33 straipsnio 2 dalyje. Jeigu ūkio subjektas pateikia prievolės atlyginti minėtas išlaidas ir nuostolius užtikrinimą, savivaldybės arba valstybės įgaliotos institucijos šias išlaidas ir nuostolius susigrąžina pasinaudodamos pateiktomis prievolės užtikrinimo priemonėmis.
+Visas žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių išlaidas ir kitus susijusius nuostolius, nurodytus šio įstatymo 33 straipsnio 2 dalyje, atlygina ūkio subjektas, padaręs žalą aplinkai arba sukėlęs neišvengiamą (realią) žalos aplinkai grėsmę, net ir tais atvejais, kai atitinkamas priemones vykdė savivaldybės vykdomoji institucija arba valstybės institucijos pagal kompetenciją (pačios ar per trečiuosius asmenis). Savivaldybės vykdomoji institucija arba valstybės institucijos pagal kompetenciją iš ūkio subjekto, padariusio žalą aplinkai arba sukėlusio neišvengiamą (realią) žalos aplinkai grėsmę, susigrąžina išlaidas, kurias jos patyrė dėl žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo ir kitus nuostolius, nurodytus šio įstatymo 33 straipsnio 2 dalyje. Jeigu ūkio subjektas pateikia prievolės atlyginti šias išlaidas ir nuostolius užtikrinimą, savivaldybės vykdomoji institucija arba valstybės institucijos pagal kompetenciją šias išlaidas ir nuostolius susigrąžina pasinaudodamos pateiktomis prievolės užtikrinimo priemonėmis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1778, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00159
+ 
 
 
 
@@ -7370,3 +7379,13 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 25 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1433, 2022-09-29, paskelbta TAR 2022-10-04, i. k. 2022-20225
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1 straipsnio pakeitimo, Įstatymo papildymo 19-4 straipsniu ir 19-4 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1564, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24644
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 108-1 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1778, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00159
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 32-1 ir 32-2 straipsnių pakeitimo įstatymas
