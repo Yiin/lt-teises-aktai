@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e61448c0537911ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2023-01-04
+Suvestinė redakcija nuo 2023-01-05
  
 Įstatymas paskelbtas: TAR 2021-12-02, i. k. 2021-25024
  
@@ -57,13 +57,14 @@ Vilnius
 
 
 
-„5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius du valstybinius brandos egzaminus: lietuvių kalbos ir literatūros ir mokinio pasirinktą brandos egzaminą, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų. Vidurinį išsilavinimą įgijusių asmenų mokymosi rezultatai apibendrinami ir fiksuojami dalykų metiniais ir išlaikytų brandos egzaminų įvertinimais. Asmens brandos egzaminų įvertinimai atitinka aukštesnįjį, pagrindinį, slenkstinį ar patenkinamą pasiekimų lygius ir jų ribas, nustatytas švietimo, mokslo ir sporto ministro tvirtinamose bendrosiose programose.“
+„5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius du valstybinius brandos egzaminus: lietuvių kalbos ir literatūros ir mokinio pasirinktą brandos egzaminą, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų. Vidurinį išsilavinimą įgijusių asmenų mokymosi rezultatai apibendrinami ir fiksuojami dalykų metiniais ir išlaikytų brandos egzaminų įvertinimais. Asmens brandos egzaminų įvertinimai atitinka slenkstinį, patenkinamą, pagrindinį ar aukštesnįjį pasiekimų lygius ir jų ribas, nustatytas švietimo, mokslo ir sporto ministro tvirtinamose bendrosiose programose.“
 
 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1263, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15494
+Nr. XIV-1729, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00144
  
 
 
@@ -74,13 +75,13 @@ Nr. XIV-1263, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15494
 
 
 
-„5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius tris valstybinius brandos egzaminus: lietuvių kalbos ir literatūros ir du kitus mokinio pasirinktus brandos egzaminus, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų. Vidurinį išsilavinimą įgijusių asmenų mokymosi rezultatai apibendrinami ir fiksuojami dalykų metiniais ir išlaikytų brandos egzaminų įvertinimais. Asmens brandos egzaminų įvertinimai atitinka aukštesnįjį, pagrindinį, slenkstinį ar patenkinamą pasiekimų lygius ir jų ribas, nustatytas švietimo, mokslo ir sporto ministro tvirtinamose bendrosiose programose.“
+„5. Vidurinis išsilavinimas įgyjamas baigus vidurinio ugdymo programą ir išlaikius tris valstybinius brandos egzaminus: lietuvių kalbos ir literatūros ir du kitus mokinio pasirinktus brandos egzaminus, išskyrus atvejus, kai asmuo švietimo, mokslo ir sporto ministro nustatytais atvejais yra atleidžiamas nuo brandos egzaminų. Vidurinį išsilavinimą įgijusių asmenų mokymosi rezultatai apibendrinami ir fiksuojami dalykų metiniais ir išlaikytų brandos egzaminų įvertinimais. Asmens brandos egzaminų įvertinimai atitinka slenkstinį, patenkinamą, pagrindinį ar aukštesnįjį pasiekimų lygius ir jų ribas, nustatytas švietimo, mokslo ir sporto ministro tvirtinamose bendrosiose programose.“
 
 
 
 
-Papildyta straipsnio dalimi:
-Nr. XIV-1263, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15494
+Straipsnio dalies pakeitimai:
+Nr. XIV-1729, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00144
  
 
 
@@ -129,6 +130,11 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1263, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15494
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įstatymo Nr. XIV-655 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1729, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00144
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 11 straipsnio pakeitimo įstatymo Nr. XIV-655 1 straipsnio pakeitimo įstatymas
  
  
 part_d2d71a0525de4994bacc254e9f400484_end
