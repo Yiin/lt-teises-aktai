@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5dfa6ee0c2a411ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2021-09-01 iki 2023-01-04
+Suvestinė redakcija nuo 2023-01-05 iki 2024-07-08
  
 Įstatymas paskelbtas: TAR 2020-07-10, i. k. 2020-15543
  
@@ -78,20 +78,20 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 
 
-„21 straipsnis. Specialioji pedagoginė ir specialioji pagalba 
+„21 straipsnis. Specialioji pedagoginė ir specialioji pagalba
 
 
-1. Specialiosios pedagoginės pagalbos paskirtis – didinti asmens, turinčio specialiųjų ugdymosi poreikių, ugdymosi veiksmingumą. Ją teikia asmenys, įgiję aukštąjį universitetinį ar jam lygiavertį išsilavinimą pagal specialiosios pedagogikos studijų programą, atitinkantys švietimo, mokslo ir sporto ministro nustatytus kvalifikacijos reikalavimus. Specialiosios pedagoginės pagalbos teikimo asmenims iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos, o tiems, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos, tvarką nustato švietimo, mokslo ir sporto ministras.
-
-
-
-
-2. Specialiosios pagalbos paskirtis – didinti ugdymosi prieinamumą ir mokinio savarankiškumą. Ją teikia mokinio padėjėjas, gestų kalbos vertėjas ir kiti specialistai. Specialiosios pagalbos teikimo tvarką nustato švietimo, mokslo ir sporto ministras.
+1. Specialiosios pedagoginės pagalbos paskirtis – didinti asmens, turinčio specialiųjų ugdymosi poreikių, ugdymosi veiksmingumą. Specialiąją pedagoginę pagalbą teikia asmenys, kurie yra įgiję aukštąjį universitetinį išsilavinimą pagal specialiosios pedagogikos studijų programą, atitinka švietimo, mokslo ir sporto ministro nustatytus kvalifikacijos reikalavimus ir kurie pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos. Specialiosios pedagoginės pagalbos teikimo asmenims iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos, o tiems, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos, tvarką nustato švietimo, mokslo ir sporto ministras.
 
 
 
 
-3. Pedagoginėse psichologinėse tarnybose, mokyklose dirbantys specialistai konsultuoja specialiosios pedagoginės pagalbos gavėjus, jų tėvus (globėjus, rūpintojus) ir mokytojus.“.
+2. Specialiosios pagalbos paskirtis – didinti ugdymosi prieinamumą ir mokinio savarankiškumą. Specialiąją pagalbą teikia mokinio padėjėjas, gestų kalbos vertėjas ir kiti specialistai. Specialiosios pagalbos teikimo tvarką nustato švietimo, mokslo ir sporto ministras.
+
+
+
+
+3. Pedagoginėse psichologinėse tarnybose, mokyklose dirbantys specialistai konsultuoja specialiosios pedagoginės pagalbos gavėjus, jų tėvus (globėjus, rūpintojus) ir mokytojus.“
 
 
 
@@ -102,6 +102,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 Straipsnio pakeitimai:
 Nr. XIV-485, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15864
+Nr. XIV-1727, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00141
  
 
 
@@ -171,16 +172,19 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 7 straipsnis. 36 straipsnio pakeitimas
 
 
-Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
+1. Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
 
-„1. Mokiniai į atitinkamą švietimo programą vykdančią mokyklą vežami keleiviniu transportu, mokykliniu autobusu arba kitu transportu. Mokinių važiavimo keleiviniu transportu lengvatas nustato Lietuvos Respublikos transporto lengvatų įstatymas. Siekiant užtikrinti švietimo prieinamumą, į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Vežimą į mokyklą ir atgal organizuoja valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) savo nustatyta tvarka. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo, mokslo ir sporto ministras.“
+„1. Mokiniai į atitinkamą švietimo programą vykdančią mokyklą vežami keleiviniu transportu, mokykliniu autobusu arba kitu transportu. Mokinių važiavimo keleiviniu transportu lengvatas nustato Lietuvos Respublikos transporto lengvatų įstatymas. Siekiant užtikrinti švietimo prieinamumą, į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Vežimą į mokyklą ir atgal organizuoja valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) savo nustatyta tvarka.“
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1727, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00141
+ 
 
 
 
@@ -259,3 +263,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-485, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15864
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1727, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00141
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymo Nr. XIII-3268 3 ir 7 straipsnių pakeitimo įstatymas
