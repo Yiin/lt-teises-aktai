@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2023-01-06
+Suvestinė redakcija nuo 2023-01-07 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
  
@@ -2806,59 +2806,61 @@ Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 
 
 
-50 straipsnis. Paskendusio turto savanoriškas iškėlimas iš Lietuvos Respublikos teritorinės jūros
+50 straipsnis. Paskendusių arba plūduriuojančių objektų iškėlimas (pašalinimas) ir tvarkymas
 
 
-1. Jeigu Lietuvos Respublikos teritorinėje jūroje paskendęs turtas nekliudo laivybai, nekelia grėsmės žmonių gyvybei ar saugumui, neteršia aplinkos, tačiau turto savininkas nori paskendusį turtą iškelti, šio turto savininkas ne vėliau kaip per 3 mėnesius nuo turto paskendimo dienos apie tai turi raštu pranešti Administracijai.
-
-
-
-
-2. Administracija nustato terminą paskendusiam turtui iškelti ir šių darbų atlikimo tvarką ir apie tai praneša turto savininkui.
+1. Jeigu Lietuvos Respublikos teritorinėje jūroje ar Lietuvos Respublikos išskirtinėje ekonominėje zonoje paskendęs ar plūduriuojantis objektas, išskyrus patenkančius į 1989 metų Tarptautinės turto gelbėjimo vandenyse konvencijos taikymo sritį, (toliau šiame straipsnyje – objektas) nekliudo laivybai, neteršia ar nekelia kitokios grėsmės aplinkai, žmonių gyvybei ar saugumui, tačiau objekto savininkas nori objektą iškelti (pašalinti), šio objekto savininkas ne vėliau kaip per 3 mėnesius nuo turto paskendimo (praradimo) dienos apie tai turi raštu pranešti Administracijai (toliau šiame straipsnyje – pranešimas).
 
 
 
 
-3. Administracija turi teisę neleisti turto savininkui kelti paskendusio turto savo priemonėmis arba jo pasirinktu kėlimo organizavimo būdu ir terminais, jeigu tai gali kliudyti laivybai, kelti grėsmę žmonių gyvybei ar saugumui, teršti aplinką. Šiuo atveju turto iškėlimą organizuoja Administracija turto savininko lėšomis.
+2. Administracija nustato objekto iškėlimo (pašalinimo) darbų atlikimo tvarką ir apie tai praneša objekto savininkui.
+
+
+
+
+3. Administracija turi teisę neleisti objekto savininkui organizuoti objekto iškėlimo (pašalinimo) darbų savo priemonėmis arba jo pasirinktu būdu ir terminais, jeigu tai gali kliudyti laivybai, teršti ar kelti kitokią grėsmę aplinkai, žmonių gyvybei ar saugumui. Šiuo atveju objekto iškėlimo (pašalinimo) darbus organizuoja Administracija turto objekto savininko lėšomis.
+
+
+
+
+4. Jeigu objektas trukdo laivybai, teršia ar kelia kitokią grėsmę aplinkai, žmonių gyvybei ar saugumui, objekto savininkas privalo iškelti (pašalinti) šį objektą Administracijos reikalavimu jos nustatyta objekto iškėlimo (pašalinimo) darbų atlikimo tvarka ir terminais. Nustatytas objekto iškėlimo (pašalinimo) terminas negali būti ilgesnis kaip 3 mėnesiai nuo pranešimo gavimo Administracijoje dienos. Jeigu pranešimas Administracijai nebuvo pateiktas, tačiau objekto savininkas yra žinomas, arba jeigu objekto savininkas per Administracijos nustatytą terminą neiškelia (nepašalina) objekto, Administracija privalo imtis reikiamų priemonių objektui iškelti (pašalinti) objekto savininko lėšomis.
+
+
+
+
+5. Objekto savininkas likus ne mažiau kaip 5 darbo dienoms iki objekto iškėlimo (pašalinimo) dienos Administracijai privalo pateikti informaciją apie planuojamą objekto iškėlimo (pašalinimo) datą (laiką), objekto iškėlimo (pašalinimo) būdus ir priemones pagal Administracijos nustatytą objekto iškėlimo (pašalinimo) darbų atlikimo tvarką.
+
+
+
+
+6. Jeigu objektas trukdo laivybai, teršia ar kelia kitokią grėsmę aplinkai, žmonių gyvybei ar saugumui ir (arba) objekto savininkas yra nežinomas, Administracija privalo imtis reikiamų priemonių objektui iškelti (pašalinti).
+
+
+
+
+7. Iškeltas (pašalintas) objektas perduodamas, apskaitomas, saugomas, realizuojamas, grąžinamas, pripažįstamas atliekomis ar kiti su objektu susiję veiksmai atliekami Lietuvos Respublikos civilinio kodekso, Lietuvos Respublikos atliekų tvarkymo įstatymo ir kitų teisės aktų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1744, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00393
  
 
 
 
 
-
-
-51 straipsnis. Paskendusio turto privalomas iškėlimas iš Lietuvos Respublikos teritorinės jūros
-
-
-1. Jeigu Lietuvos Respublikos teritorinėje jūroje paskendęs turtas kliudo laivybai, kelia grėsmę žmonių gyvybei ar saugumui, gali teršti arba teršia aplinką, turto savininkas privalo iškelti šį turtą Administracijos reikalavimu per jos nustatytą terminą.
-
-
-
-
-2. Jeigu dėl paskendusio turto kyla tiesioginė grėsmė saugiai laivybai ar aplinkai arba jeigu paskendusio turto savininkas neiškelia jo per nustatytą terminą ar turto savininkas yra nežinomas, Administracija privalo imtis reikiamų priemonių turtui iškelti arba kitu būdu jį pašalinti.
-
-
-
-
-3. Jeigu paskendusio turto savininkas yra nežinomas, terminus, nustatytus paskendusiam laivui iškelti, Administracija paskelbia visuomenės informavimo priemonėse.
+51 straipsnis. Neteko galios nuo 2023-01-07
+Straipsnio naikinimas:
+Nr. XIV-1744, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00393
  
 
 
 
 
-
-
-52 straipsnis. Administracijos iškeltas paskendęs turtas
-
-
-1. Turtas, kurio iškėlimą organizavo Administracija, perduodamas savininkui, jeigu jis pateikė prašymą per 6 mėnesius nuo turto iškėlimo dienos. Tuo atveju turto savininkas privalo Administracijai atlyginti turto iškėlimo, jo saugojimo, nukenksminimo ir kitas dėl to pagrįstai patirtas išlaidas.
-
-
-
-
-2. Jeigu Administracijos iškelto paskendusio turto savininkas yra nežinomas, turtas perduodamas valstybės nuosavybėn pagal Lietuvos Respublikos civilinio kodekso reikalavimus
-
-
+52 straipsnis. Neteko galios nuo 2023-01-07
+Straipsnio naikinimas:
+Nr. XIV-1744, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00393
+ 
 
 
 
@@ -2994,3 +2996,8 @@ Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 20-1, 37, 39, 40 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2661, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20996
 Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 1, 2, 3, 8, 13, 16, 19, 21, 25, 26, 31, 33, 39, 40, 40-1, 48 ir 49 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1744, 2022-12-22, paskelbta TAR 2023-01-06, i. k. 2023-00393
+Lietuvos Respublikos saugios laivybos įstatymo Nr. VIII-1897 pakeitimo įstatymas
