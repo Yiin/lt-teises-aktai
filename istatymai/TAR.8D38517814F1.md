@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-01-02 iki 2023-01-30
+Suvestinė redakcija nuo 2023-01-31 iki 2023-10-03
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -3045,6 +3045,14 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 
 2) užtikrinti antrinių žaliavų rūšiavimo galimybę ir priemones visiems komunalinių atliekų turėtojams;
+
+
+
+
+21) užtikrinti biologiškai skaidžių atliekų rūšiavimo galimybę ir priemones visiems komunalinių atliekų turėtojams; 
+Papildyta straipsnio punktu:
+Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
 
 
 
