@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
+Suvestinė redakcija nuo 2023-02-01 iki 2023-02-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -1673,7 +1673,10 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-2. Priėmimo į valstybinę ir savivaldybės bendrojo ugdymo mokyklą tvarką nustato savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), vadovaudamasi švietimo ir mokslo ministro patvirtintais bendraisiais priėmimo kriterijais.
+2. Priėmimo į valstybinę ir savivaldybės bendrojo ugdymo mokyklą mokytis pagal priešmokyklinio ugdymo, bendrojo ugdymo programas, ikimokyklinio ugdymo mokyklą mokytis pagal priešmokyklinio ugdymo programą tvarką nustato savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), vadovaudamasi švietimo, mokslo ir sporto ministro patvirtintais priėmimo kriterijais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -1687,7 +1690,10 @@ Nr. XIII-2894, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10796
 
 
 
-3. Į valstybinę ir savivaldybės bendrojo ugdymo mokyklą pirmumo teise privalo būti priimamas asmuo, gyvenantis mokyklos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) tai mokyklai priskirtoje aptarnavimo teritorijoje. Tėvų (globėjų, rūpintojų) ir vaiko pageidavimu vaikas gali būti priimtas į kitą bendrojo ugdymo mokyklą tuo atveju, jeigu joje yra laisvų vietų.
+3. Į valstybinę ir savivaldybės bendrojo ugdymo mokyklą mokytis pagal priešmokyklinio, bendrojo ugdymo programas, ikimokyklinio ugdymo mokyklą mokytis pagal priešmokyklinio ugdymo programą pirmumo teise privalo būti priimamas asmuo, gyvenantis mokyklos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) tai mokyklai priskirtoje aptarnavimo teritorijoje. Tėvų (globėjų, rūpintojų) ir vaiko pageidavimu vaikas gali būti priimtas į kitą bendrojo ugdymo mokyklą tuo atveju, jeigu joje yra laisvų vietų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -1702,7 +1708,10 @@ Nr. XIII-2894, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10796
 
 
 
-6. Priėmimo į valstybinę ir savivaldybės ikimokyklinio ugdymo, formalųjį švietimą papildančio ugdymo mokyklą ir neformaliojo vaikų švietimo mokyklą tvarką nustato savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas).
+6. Priėmimo į valstybinę ir savivaldybės ikimokyklinio ugdymo mokyklą mokytis pagal ikimokyklinio ugdymo programą, formalųjį švietimą papildančio ugdymo mokyklą ir neformaliojo vaikų švietimo mokyklą kriterijus ir tvarką nustato savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -4912,3 +4921,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 62 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1223, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15589
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 35 straipsnio pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas
