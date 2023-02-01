@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1998
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
+Suvestinė redakcija nuo 2023-02-01 iki 2023-11-09
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -1313,6 +1313,138 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 16. Finansų įstaigos ir kiti įpareigotieji subjektai visais atvejais privalo vykdyti nuolatinę kliento dalykinių santykių stebėseną, įskaitant sandorių, kurie buvo sudaryti tokių santykių metu, tyrimą, siekiant užtikrinti, kad vykdomi sandoriai atitiktų finansų įstaigų ar kitų įpareigotųjų subjektų turimą informaciją apie klientą, jo verslą, rizikos pobūdį ir lėšų šaltinį.
+
+
+
+
+161. Virtualiųjų valiutų keityklos operatorius ir depozitinių virtualiųjų valiutų piniginių operatorius, siekdami nustatyti įtartinas pinigines operacijas ar sandorius ir prireikus imtis priemonių, atlikdami virtualiosios valiutos keitimo, pervedimo ar kitokią operaciją, privalo rinkti, saugoti ir perduoti operacijos gavėjo virtualiųjų valiutų keityklos operatoriui, depozitinių virtualiųjų valiutų piniginių operatoriui arba finansų įstaigai šią informaciją:
+
+
+1) informaciją apie operacijos iniciatorių – fizinį asmenį:
+
+
+a) vardą (vardus), pavardę (pavardes);
+
+
+
+
+b) unikalų operacijos kodą;
+
+
+
+
+c) mokėjimo sąskaitos ar depozitinių virtualiųjų valiutų piniginių identifikacinius kodus;
+
+
+
+
+d) tapatybę patvirtinančio dokumento rūšį, jo numerį;
+
+
+
+
+e) asmens kodą (užsieniečio – gimimo datą, jeigu yra, – asmens kodą ar kitą šiam asmeniui suteiktą unikalią simbolių seką, skirtą asmeniui identifikuoti) ir pilietybę (jeigu asmuo be pilietybės, nurodyti valstybę, kuri išdavė asmens tapatybę patvirtinantį dokumentą);
+
+
+
+
+f) gyvenamosios vietos adresą;
+
+
+
+
+
+
+2) informaciją apie operacijos iniciatorių – juridinį asmenį:
+
+
+a) pavadinimą;
+
+
+
+
+b) unikalų operacijos kodą;
+
+
+
+
+c) mokėjimo sąskaitos ar depozitinių virtualiųjų valiutų piniginių identifikacinius kodus;
+
+
+
+
+d) kodą (jeigu kodas nesuteiktas, – registracijos išrašą);
+
+
+
+
+e) buveinės adresą;
+
+
+
+
+
+
+3) informaciją apie operacijos gavėją – fizinį asmenį:
+
+
+a) vardą (vardus), pavardę (pavardes);
+
+
+
+
+b) asmens kodą (užsieniečio – gimimo datą, jeigu yra, – asmens kodą ar kitą šiam asmeniui suteiktą unikalią simbolių seką, skirtą asmeniui identifikuoti);
+
+
+
+
+c) mokėjimo sąskaitos ar depozitinių virtualiųjų valiutų piniginių identifikacinius kodus;
+
+
+
+
+
+
+4) informaciją apie operacijos gavėją – juridinį asmenį:
+
+
+a) pavadinimą;
+
+
+
+
+b) kodą (jeigu kodas suteiktas);
+
+
+
+
+c) mokėjimo sąskaitos ar depozitinių virtualiųjų valiutų piniginių identifikacinius kodus. 
+TAR pastaba. 9 straipsnio 161 dalis įsigalioja 2025-01-01.
+
+
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
+
+
+
+
+162. Operaciją inicijuojantis virtualiųjų valiutų keityklos operatorius ar depozitinių virtualiųjų valiutų piniginių operatorius, perduodamas operacijos gavėjo virtualiųjų valiutų keityklos operatoriui, depozitinių virtualiųjų valiutų piniginių operatoriui arba finansų įstaigai nurodymą atlikti operaciją, kartu perduoda šio straipsnio 161 dalyje nurodytą informaciją. 
+TAR pastaba. 9 straipsnio 162 dalis įsigalioja 2025-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
+
+
+
+
+163. Virtualiųjų valiutų keityklos operatorius ar depozitinių virtualiųjų valiutų piniginių operatorius negali priimti operacijos iš kito virtualiųjų valiutų keityklos operatoriaus ar depozitinių virtualiųjų valiutų piniginių operatoriaus, jeigu šis nesilaiko reikalavimo perduoti šio straipsnio 161 dalyje nurodytą informaciją. 
+TAR pastaba. 9 straipsnio 16 3dalis įsigalioja 2025-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
+ 
 
 
 
@@ -3128,6 +3260,54 @@ Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
 
 Straipsnio pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+ 
+
+
+
+
+253 straipsnis. Virtualiųjų valiutų keityklos operatoriaus ir depozitinių virtualiųjų valiutų piniginių operatoriaus sąrašai 
+
+
+1. Juridinių asmenų registro tvarkytojas tvarko virtualiųjų valiutų keityklos operatoriaus ir depozitinių virtualiųjų valiutų piniginių operatoriaus veiklą vykdančių Lietuvos Respublikoje įsteigtų juridinių asmenų ir Europos Sąjungos valstybės narės ar užsienio valstybės juridinio asmens filialų sąrašus ir juos skelbia savo interneto svetainėje.
+
+
+
+
+2. Virtualiųjų valiutų keityklos operatorių ir depozitinių virtualiųjų valiutų piniginių operatorių sąrašuose nurodomi šie duomenys:
+
+
+1) juridinio asmens ar filialo pavadinimas;
+
+
+
+
+2) juridinio asmens ar filialo kodas;
+
+
+
+
+3) buveinės adresas;
+
+
+
+
+4) veiklos pradžios data;
+
+
+
+
+5) elektroninio pašto adresas (jeigu jis nurodytas Juridinių asmenų registre); 
+
+
+
+
+6) interneto svetainės adresas (jeigu jis nurodytas Juridinių asmenų registre).
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
  
 
 
