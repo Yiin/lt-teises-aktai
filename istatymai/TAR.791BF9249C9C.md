@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
+Suvestinė redakcija nuo 2023-02-01 iki 2023-12-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -876,7 +876,10 @@ Sporto finansavimą sudaro:
 
 
 
-2) viešųjų pirkimų būdu organizuoja ir atlieka programų atranką;
+2) švietimo, mokslo ir sporto ministro nustatyta tvarka organizuoja ir atlieka programų atranką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
+ 
 
 
 
@@ -891,7 +894,10 @@ Sporto finansavimą sudaro:
 
 
 
-5) vykdo programų ir projektų įgyvendinimo priežiūrą, įskaitant prevencinę viešųjų pirkimų kontrolę ir stebėseną, išlaidų pagrįstumo ir teisėtumo vertinimą įgyvendinamose programose ir projektuose ir dėl jų priima sprendimus;
+5) vykdo programų ir projektų įgyvendinimo priežiūrą, išlaidų pagrįstumo ir teisėtumo vertinimą įgyvendinamose programose ir projektuose ir dėl jų priima sprendimus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
+ 
 
 
 
@@ -1805,3 +1811,8 @@ Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 17 straipsnio pakeitimo įstatymas
