@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-01-31
+Suvestinė redakcija nuo 2023-02-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -1098,25 +1098,21 @@ TAR pastaba. 11-1 straipsnio 1 dalis įsigalioja 2023-05-01.
 
 
 1) dalyvauja planuojant, koordinuojant ir (ar) įgyvendinant su planavimo, statybos technine veikla susijusius paramos atkuriant nuo karo, stichinių ir kitų nelaimių nukentėjusių valstybių infrastruktūros ir kitus objektus, teritorijas, projektus ir priemones;
-TAR pastaba. 11-1 straipsnio 2 dalies 1 punktas įsigalioja 2023-02-01.
 
 
 
 
 2) rengia, įgyvendina arba dalyvauja rengiant ir (ar) įgyvendinant statybos sektoriaus pažangos ir plėtros skatinimo projektus ir priemones, statybos sektoriaus skaitmeninimo, statybos dalyvių kompetencijos didinimo, statinių tvarumo vertinimo srityse nacionaliniu ir (ar) tarptautiniu lygmeniu;
-TAR pastaba. 11-1 straipsnio 2 dalies 2 punktas įsigalioja 2023-02-01.
 
 
 
 
 3) atlieka statinių statybos techninės veiklos pagrindinių sričių vadovų (išskyrus architektus), pastatų energinio sertifikavimo ekspertų, statybos rangovų, statinio projekto (jo dalies) ekspertizės ir statinio (jo dalies) ekspertizės rangovų veiklos priežiūrą, apimančią šių subjektų atitikties kvalifikaciniams reikalavimams tikrinimą, privalomųjų nurodymų pateikti reikalingą informaciją ir dokumentus, pašalinti tikrinant nustatytas neatitiktis teikimą;
-TAR pastaba. 11-1 straipsnio 2 dalies 3 punktas įsigalioja 2023-02-01.
 
 
 
 
 4) atlieka statinių statybos techninės veiklos pagrindinių sričių vadovų (išskyrus architektus), įrašytų į teismo ekspertų sąrašą ir teikiančių teismo ekspertizės paslaugas, kvalifikacijos, kurios pagrindu asmuo įrašytas į teismo ekspertų sąrašą, patikrinimą;
-TAR pastaba. 11-1 straipsnio 2 dalies 4 punktas įsigalioja 2023-02-01.
 
 
 
@@ -1128,25 +1124,21 @@ TAR pastaba. 11-1 straipsnio 2 dalies 5 punktas įsigalioja 2023-05-01.
 
 
 6) kuria, tvarko, plėtoja priemones ir (ar) paslaugas, reikalingas statybos sektoriui skaitmeninti, statinio informacinio modeliavimo metodų taikymo plėtrai, jų naudai vertinti ir stebėti;
-TAR pastaba. 11-1 straipsnio 2 dalies 6 punktas įsigalioja 2023-02-01.
 
 
 
 
 7) kuria, tvarko ir teikia su statybos sektoriaus skaitmeninimu susijusius duomenis, klasifikatorius, informaciją, jų tvarkymo priemones ir paslaugas, jas plėtoja ir techniškai aptarnauja;
-TAR pastaba. 11-1 straipsnio 2 dalies 7 punktas įsigalioja 2023-02-01.
 
 
 
 
 8) vykdo statybos ir su juo susijusiuose sektoriuose vykstančių procesų stebėseną ir vertinimą, atsižvelgdama į statybos sektoriaus pažangos ir plėtros politikos formavimo ir įgyvendinimo poreikius, rengia ir teikia pasiūlymus politiką formuojančioms institucijoms dėl statybos sektoriaus pažangos ir plėtros politikos formavimo ir įgyvendinimo;
-TAR pastaba. 11-1 straipsnio 2 dalies 8 punktas įsigalioja 2023-02-01.
 
 
 
 
 9)  atlieka tyrimus, reikalingus visuomenei aktualiems sektoriaus pažangos ir plėtros politikos formavimo ir įgyvendinimo sprendimams pagrįsti ir priimti;
-TAR pastaba. 11-1 straipsnio 2 dalies 9 punktas įsigalioja 2023-02-01.
 
 
 
@@ -1164,7 +1156,6 @@ TAR pastaba. 11-1 straipsnio 2 dalies 11 punktas įsigalioja 2023-05-01.
 
 
 12) atlieka šiame ir kituose įstatymuose jai pavestas funkcijas.
-TAR pastaba. 11-1 straipsnio 2 dalies 12 punktas įsigalioja 2023-02-01.
 
 
 
@@ -1231,9 +1222,10 @@ STATYBOS TECHNINĖS VEIKLOS PAGRINDINĖS SRITYS
 
 
 
-4. Eiti ypatingųjų ir neypatingųjų statinių statybos techninės veiklos pagrindinių sričių vadovų pareigas, nurodytas šio straipsnio 2 dalyje, turi teisę Lietuvos Respublikos piliečiai ir kiti fiziniai asmenys, nenurodyti šio straipsnio 7 dalyje, – atestuoti architektai (išskyrus statinio statybos vadovo, statinio specialiųjų statybos darbų vadovo pareigas) ir statybos inžinieriai (išskyrus statinio projekto architektūrinės dalies vadovo, statinio projekto architektūrinės dalies vykdymo priežiūros vadovo pareigas). Šias pareigas siekiantiems eiti asmenims taikomą kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo tvarką nustato aplinkos ministras, vadovaudamasis šio straipsnio 10, 11, 12, 13, 14, 15, 16 ir 18 dalyse ir Lietuvos Respublikos viešojo administravimo įstatyme nustatytais reikalavimais. Atestavimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra, išskyrus architektų atestavimą, kurį atlieka Lietuvos Respublikos architektų rūmai (toliau – atestavimą atliekanti organizacija).
+4. Eiti ypatingųjų ir neypatingųjų statinių statybos techninės veiklos pagrindinių sričių vadovų pareigas, nurodytas šio straipsnio 2 dalyje, turi teisę Lietuvos Respublikos piliečiai ir kiti fiziniai asmenys, nenurodyti šio straipsnio 7 dalyje, – atestuoti architektai (išskyrus statinio statybos vadovo, statinio specialiųjų statybos darbų vadovo pareigas) ir statybos inžinieriai (išskyrus statinio projekto architektūrinės dalies vadovo, statinio projekto architektūrinės dalies vykdymo priežiūros vadovo pareigas). Šias pareigas siekiantiems eiti asmenims taikomą kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo tvarką nustato aplinkos ministras, vadovaudamasis šio straipsnio 10, 11, 12, 13, 14, 15, 16 ir 18 dalyse ir Lietuvos Respublikos viešojo administravimo įstatyme nustatytais reikalavimais. Atestavimą, išskyrus architektų atestavimą, atlieka Vyriausybės įgaliota įstaiga. Architektų atestavimą atlieka Lietuvos Respublikos architektų rūmai (toliau – atestavimą atliekanti organizacija).
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -1330,7 +1322,10 @@ Nr. XIV-501, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15877
 15. Atestavimą atliekanti organizacija kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimą panaikina šiais atvejais:
 
 
-1) už Lietuvos Respublikos įstatymų, normatyvinių statybos techninių dokumentų, normatyvinių statinio saugos ir paskirties dokumentų reikalavimų šiurkščius pažeidimus. Šiurkščiais pažeidimais laikomi Lietuvos Respublikos įstatymų, kitų teisės aktų pažeidimai, susiję su esminiais statinio projekto sprendiniais arba esminiais statinių reikalavimais, dėl kurių atsirado ar galėjo atsirasti žala;
+1) už Lietuvos Respublikos įstatymų, normatyvinių statybos techninių dokumentų, normatyvinių statinio saugos ir paskirties dokumentų reikalavimų šiurkščius pažeidimus vadovaujant pagrindinėms statybos techninės veiklos sritims, vykdant teismo eksperto veiklą ar tvirtinant pažymą  apie  statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių arba deklaraciją apie statybos užbaigimą. Šiurkščiais pažeidimais laikomi Lietuvos Respublikos įstatymų, kitų teisės aktų pažeidimai, susiję su esminiais statinio projekto sprendiniais arba esminiais statinių reikalavimais, dėl kurių atsirado ar galėjo atsirasti žala;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -1403,9 +1398,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-19. Eiti branduolinės energetikos objekto statinių statybos techninės veiklos pagrindinių sričių vadovų pareigas, nurodytas šio straipsnio 2 dalyje, turi teisę atestuoti architektai ir statybos inžinieriai. Šias pareigas einantiems asmenims taikomą kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir kvalifikacijos atestatų galiojimo panaikinimo tvarką, egzaminų programas, suderinęs su Valstybine atominės energetikos saugos inspekcija, nustato aplinkos ministras, vadovaudamasis šio straipsnio 10, 11, 12, 13, 14, 15, 16, 17 ir 18 dalyse nustatytais reikalavimais, o atestavimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra.
+19. Eiti branduolinės energetikos objekto statinių statybos techninės veiklos pagrindinių sričių vadovų pareigas, nurodytas šio straipsnio 2 dalyje, turi teisę atestuoti architektai ir statybos inžinieriai. Šias pareigas einantiems asmenims taikomą kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir kvalifikacijos atestatų galiojimo panaikinimo tvarką, egzaminų programas, suderinęs su Valstybine atominės energetikos saugos inspekcija, nustato aplinkos ministras, vadovaudamasis šio straipsnio 10, 11, 12, 13, 14, 15, 16, 17 ir 18 dalyse nustatytais reikalavimais. Atestavimą atlieka Vyriausybės įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -1826,9 +1822,10 @@ Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 
 
 
-2. Šio straipsnio 1 dalyje nurodytų juridinių asmenų, kitų užsienio organizacijų ar jų padalinių kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų galiojimo panaikinimo tvarką nustato aplinkos ministras, vadovaudamasis šio įstatymo 22 straipsnyje nustatytais reikalavimais. Atestavimą ir teisės pripažinimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra.
+2. Šio straipsnio 1 dalyje nurodytų juridinių asmenų, kitų užsienio organizacijų ar jų padalinių kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų galiojimo panaikinimo tvarką nustato aplinkos ministras, vadovaudamasis šio įstatymo 22 straipsnyje nustatytais reikalavimais. Atestavimą ir teisės pripažinimą atlieka Vyriausybės įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -1837,9 +1834,10 @@ Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 3. Lietuvos Respublikoje įsteigti juridiniai asmenys, kitos užsienio organizacijos ir jų padaliniai, pageidaujantys būti statinio projekto (dalies) ekspertizės rangovais ir statinio (dalies) ekspertizės rangovais, turi atitikti minimalius kvalifikacinius reikalavimus:
 
 
-1) neturi būti pradėtas bankroto procesas (šią informaciją patikrina viešoji įstaiga Statybos sektoriaus vystymo agentūra), kreiptasi į teismą dėl kvalifikacijos atestato galiojimo sustabdymo, galiojimo panaikinimo ar kitokio apribojimo;
+1) neturi būti pradėtas bankroto procesas (šią informaciją patikrina Vyriausybės įgaliota įstaiga), kreiptasi į teismą dėl kvalifikacijos atestato galiojimo sustabdymo, galiojimo panaikinimo ar kitokio apribojimo;
 Straipsnio punkto pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -2020,17 +2018,19 @@ Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
 
 
 
-11. Branduolinės energetikos objekto statinių projekto ekspertizės rangovams ir statinio ekspertizės rangovams taikomą kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų galiojimo panaikinimo tvarką, suderinusi su Valstybine atominės energetikos saugos inspekcija, nustato Vyriausybės įgaliota institucija, vadovaudamasi šio įstatymo 22 straipsnyje nustatytais reikalavimais. Atestavimą ir teisės pripažinimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra.
+11. Branduolinės energetikos objekto statinių projekto ekspertizės rangovams ir statinio ekspertizės rangovams taikomą kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų galiojimo panaikinimo tvarką, suderinusi su Valstybine atominės energetikos saugos inspekcija, nustato Vyriausybės įgaliota institucija, vadovaudamasi šio įstatymo 22 straipsnyje nustatytais reikalavimais. Atestavimą ir teisės pripažinimą atlieka Vyriausybės įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
 
 
-12. Ypatingųjų ar neypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros paveldo vietovėje, statinių projektų ekspertizės rangovų ir statinio ekspertizės rangovų kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, suderinęs su kultūros ministru, nustato aplinkos ministras, laikydamasis šio įstatymo 22 straipsnyje nustatytų reikalavimų. Atestavimą ir teisės pripažinimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra.
+12. Ypatingųjų ar neypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros paveldo vietovėje, statinių projektų ekspertizės rangovų ir statinio ekspertizės rangovų kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, suderinęs su kultūros ministru, nustato aplinkos ministras, laikydamasis šio įstatymo 22 straipsnyje nustatytų reikalavimų. Atestavimą ir teisės pripažinimą atlieka Vyriausybės įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -2069,9 +2069,10 @@ Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 3. Ypatingojo statinio statybos rangovas turi atitikti šiuos kvalifikacinius reikalavimus:
 
 
-1) neturi būti pradėtas bankroto procesas (šią informaciją patikrina viešoji įstaiga Statybos sektoriaus vystymo agentūra), kreiptasi į teismą dėl kvalifikacijos atestato galiojimo sustabdymo, galiojimo panaikinimo ar kitokio apribojimo;
+1) neturi būti pradėtas bankroto procesas (šią informaciją patikrina Vyriausybės įgaliota įstaiga), kreiptasi į teismą dėl kvalifikacijos atestato galiojimo sustabdymo, galiojimo panaikinimo ar kitokio apribojimo;
 Straipsnio punkto pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -2104,9 +2105,10 @@ Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 
 
 
-4. Šio straipsnio 2 dalyje nurodytiems juridiniams asmenims, kitoms užsienio organizacijoms ir jų padaliniams taikomą kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų galiojimo panaikinimo tvarką nustato aplinkos ministras, laikydamasis šio įstatymo 22 straipsnyje nustatytų reikalavimų. Atestavimą ir teisės pripažinimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra.
+4. Šio straipsnio 2 dalyje nurodytiems juridiniams asmenims, kitoms užsienio organizacijoms ir jų padaliniams taikomą kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų galiojimo panaikinimo tvarką nustato aplinkos ministras, laikydamasis šio įstatymo 22 straipsnyje nustatytų reikalavimų. Atestavimą ir teisės pripažinimą atlieka Vyriausybės įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -2117,9 +2119,10 @@ Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 
 
 
-6. Ypatingųjų ar neypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros paveldo vietovėje, statybos rangovų kvalifikacijos atestatų išdavimo ir kilmės valstybėje turimos teisės pripažinimo tvarką, išduoto kvalifikacijos atestato ir teisės pripažinimo dokumento keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, suderinęs su kultūros ministru, nustato aplinkos ministras, laikydamasis šio įstatymo 22 straipsnyje nustatytų reikalavimų. Atestavimą ir teisės pripažinimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra.
+6. Ypatingųjų ar neypatingųjų statinių, esančių kultūros paveldo objekto teritorijoje, jo apsaugos zonoje, kultūros paveldo vietovėje, statybos rangovų kvalifikacijos atestatų išdavimo ir kilmės valstybėje turimos teisės pripažinimo tvarką, išduoto kvalifikacijos atestato ir teisės pripažinimo dokumento keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką, suderinęs su kultūros ministru, nustato aplinkos ministras, laikydamasis šio įstatymo 22 straipsnyje nustatytų reikalavimų. Atestavimą ir teisės pripažinimą atlieka Vyriausybės įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -2611,9 +2614,11 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-11. Viešoji įstaiga Statybos sektoriaus vystymo agentūra aplinkos ministro nustatyta tvarka šviečia, konsultuoja fizinius ir juridinius asmenis ir nagrinėja prašymus, skundus statinių projektuotojų, statybos rangovų, statinio projekto ekspertizės ir statinio ekspertizės rangovų, statinio statybos techninių prižiūrėtojų, statinio statybos techninės priežiūros rangovų kvalifikacinių reikalavimų, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo klausimais, atlieka statinių projektuotojų, statybos rangovų, statinio projekto ekspertizės ir statinio ekspertizės rangovų, statinio statybos techninių prižiūrėtojų, statinio statybos techninės priežiūros rangovų atitikties kvalifikaciniams reikalavimams stebėseną.
+11. Vyriausybės įgaliota įstaiga aplinkos ministro nustatyta tvarka šviečia, konsultuoja fizinius ir juridinius asmenis ir nagrinėja prašymus, skundus statinių projektuotojų, statybos rangovų, statinio projekto ekspertizės ir statinio ekspertizės rangovų, statinio statybos techninių prižiūrėtojų, statinio statybos techninės priežiūros rangovų kvalifikacinių reikalavimų, kvalifikacijos atestatų ir kilmės valstybėje turimos teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo klausimais, atlieka statinių projektuotojų, statybos rangovų, statinio projekto ekspertizės ir statinio ekspertizės rangovų, statinio statybos techninių prižiūrėtojų, statinio statybos techninės priežiūros rangovų atitikties kvalifikaciniams reikalavimams stebėseną.
 Papildyta straipsnio dalimi:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -5035,9 +5040,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-5. Pastato energinio naudingumo sertifikatas galioja ne ilgiau kaip 10 metų. Minimalius privalomus pastatų energinio naudingumo reikalavimus, pastatų energinio naudingumo sertifikavimo tvarką ir sąlygas, pastatų energinio naudingumo sertifikavimo priežiūros tvarką nustato Vyriausybė arba jos įgaliota institucija. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių statomi nauji, o nuo 2021 m. sausio 1 d. – visi statomi nauji pastatai turi būti energijos beveik nevartojantys pastatai, kaip jie suprantami pagal Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymą. Reikalavimus energijos beveik nevartojantiems pastatams nustato Vyriausybė arba jos įgaliotos institucijos. Pastatų energinio naudingumo sertifikatai registruojami ir sertifikavimo priežiūra atliekama naudojantis išduotų pastatų energinio naudingumo sertifikatų informacine sistema, kurios valdytoja yra Aplinkos ministerija, o tvarkytoja – pastatų energinio naudingumo sertifikavimą prižiūrinti institucija. Pastatų energinio naudingumo sertifikavimo ekspertas turi sumokėti pastatų energinio naudingumo sertifikavimą prižiūrinčiai institucijai aplinkos ministro nustatytą įmoką už pastato energinio naudingumo sertifikato patikrinimo procedūras kiekvieną kartą, kai šis sertifikatas teikiamas registruoti, taip pat įmoką už išduotų pastatų energinio naudingumo sertifikatų informacinės sistemos tvarkymą kiekvieną kartą, kai registruojamas pastato energinio naudingumo sertifikatas. Nustatant šios įmokos dydį, turi būti laikomasi nuostatos, kad ji turi padengti ekonomiškai pagrįstas paslaugos teikimo sąnaudas. Teikiamų paslaugų sąnaudos nustatomos pagal šių paslaugų ataskaitinius metinius duomenis ir argumentuotas normatyvines išlaidas. Įmoką už paslaugas nustatant pirmą kartą, šios paslaugos teikimo sąnaudos nustatomos lyginant jas su panašios paslaugos teikimo sąnaudomis. Pastatų energinio naudingumo sertifikavimą prižiūrinčias institucijas ir jų funkcijas sertifikavimo priežiūros srityje nustato aplinkos ministras. Pastatų energinio naudingumo sertifikavimą prižiūrinčios institucijos funkcijas atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra.
+5. Pastato energinio naudingumo sertifikatas galioja ne ilgiau kaip 10 metų. Minimalius privalomus pastatų energinio naudingumo reikalavimus, pastatų energinio naudingumo sertifikavimo tvarką ir sąlygas, pastatų energinio naudingumo sertifikavimo priežiūros tvarką nustato Vyriausybė arba jos įgaliota institucija. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių statomi nauji, o nuo 2021 m. sausio 1 d. – visi statomi nauji pastatai turi būti energijos beveik nevartojantys pastatai, kaip jie suprantami pagal Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymą. Reikalavimus energijos beveik nevartojantiems pastatams nustato Vyriausybė arba jos įgaliotos institucijos. Pastatų energinio naudingumo sertifikatai registruojami ir sertifikavimo priežiūra atliekama naudojantis išduotų pastatų energinio naudingumo sertifikatų informacine sistema, kurios valdytoja yra Aplinkos ministerija, o tvarkytoja – pastatų energinio naudingumo sertifikavimą prižiūrinti institucija. Pastatų energinio naudingumo sertifikavimo ekspertas turi sumokėti pastatų energinio naudingumo sertifikavimą prižiūrinčiai institucijai aplinkos ministro nustatytą įmoką už pastato energinio naudingumo sertifikato patikrinimo procedūras kiekvieną kartą, kai šis sertifikatas teikiamas registruoti, taip pat įmoką už išduotų pastatų energinio naudingumo sertifikatų informacinės sistemos tvarkymą kiekvieną kartą, kai registruojamas pastato energinio naudingumo sertifikatas. Nustatant šios įmokos dydį, turi būti laikomasi nuostatos, kad ji turi padengti ekonomiškai pagrįstas paslaugos teikimo sąnaudas. Teikiamų paslaugų sąnaudos nustatomos pagal šių paslaugų ataskaitinius metinius duomenis ir argumentuotas normatyvines išlaidas. Įmoką už paslaugą nustatant pirmą kartą, šios paslaugos teikimo sąnaudos nustatomos lyginant jas su panašios paslaugos teikimo sąnaudomis. Pastatų energinio naudingumo sertifikavimą prižiūrinčias institucijas ir jų funkcijas sertifikavimo priežiūros srityje nustato aplinkos ministras. Pastatų energinio naudingumo sertifikavimą prižiūrinčios institucijos funkcijas atlieka Vyriausybės įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -5088,9 +5094,10 @@ Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 
 
 
-8. Pastatų energinio naudingumo sertifikavimą atlieka atestuoti fiziniai asmenys – pastatų energinio naudingumo sertifikavimo ekspertai. Pastatų energinio naudingumo sertifikavimo ekspertų kvalifikacinius reikalavimus, atestavimo, kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir kvalifikacijos atestatų panaikinimo tvarką nustato Vyriausybės įgaliota institucija. Atestavimą atlieka viešoji įstaiga Statybos sektoriaus vystymo agentūra.
+8. Pastatų energinio naudingumo sertifikavimą atlieka atestuoti fiziniai asmenys – pastatų energinio naudingumo sertifikavimo ekspertai. Pastatų energinio naudingumo sertifikavimo ekspertų kvalifikacinius reikalavimus, atestavimo, kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir kvalifikacijos atestatų panaikinimo tvarką nustato Vyriausybės įgaliota institucija. Atestavimą atlieka Vyriausybės įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -5186,9 +5193,11 @@ Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 
 
 
-17. Viešoji įstaiga Statybos sektoriaus vystymo agentūra aplinkos ministro nustatyta tvarka šviečia, konsultuoja fizinius ir juridinius asmenis ir nagrinėja prašymus, skundus pastatų energinio naudingumo sertifikavimo, pastatų energinio naudingumo sertifikavimo ekspertų kvalifikacinių reikalavimų, atestavimo, kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir kvalifikacijos atestatų panaikinimo klausimais, atlieka šių ekspertų atitikties kvalifikaciniams reikalavimams stebėseną.
+17. Vyriausybės įgaliota įstaiga aplinkos ministro nustatyta tvarka šviečia, konsultuoja fizinius ir juridinius asmenis ir nagrinėja prašymus, skundus pastatų energinio naudingumo sertifikavimo, pastatų energinio naudingumo sertifikavimo ekspertų kvalifikacinių reikalavimų, atestavimo, kvalifikacijos atestatų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir kvalifikacijos atestatų panaikinimo klausimais, atlieka šių ekspertų atitikties kvalifikaciniams reikalavimams stebėseną.
 Papildyta straipsnio dalimi:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
