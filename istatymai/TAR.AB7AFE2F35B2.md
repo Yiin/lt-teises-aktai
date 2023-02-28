@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2022-12-01 iki 2023-02-27
+Suvestinė redakcija nuo 2023-02-28 iki 2023-06-29
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -3085,7 +3085,7 @@ Priežiūros institucija, detalizuodama šio skirsnio nuostatas:
 
 
 
-3. Šio įstatymo 29, 30, 31, 33 ir 34 straipsniuose nustatyti reikalavimai netaikomi sandoriams, sudarytiems pagal daugiašalės prekybos sistemos veiklą reglamentuojančias taisykles, kai sudarant sandorį dalyvauja tik tos sistemos nariai ar dalyviai arba tik pati sistema ir jos nariai ar dalyviai. Tačiau daugiašalės prekybos sistemos nariai ar dalyviai turi laikytis šio įstatymo 29, 30, 31, 33 ir 34 straipsniuose nustatytų reikalavimų dėl savo klientų, kai, veikdami kliento sąskaita, vykdo jo pavedimus daugiašalėje prekybos sistemoje.
+3. Šio įstatymo 29, 30, 31, 33 straipsniuose (išskyrus 33 straipsnio 41 dalį) ir 34 straipsnyje nustatyti reikalavimai netaikomi sandoriams, sudarytiems pagal daugiašalės prekybos sistemos veiklą reglamentuojančias taisykles, kai sudarant sandorį dalyvauja tik tos sistemos nariai ar dalyviai arba tik pati sistema ir jos nariai ar dalyviai. Tačiau daugiašalės prekybos sistemos nariai ar dalyviai turi laikytis šio įstatymo 29, 30, 31, 33 ir 34 straipsniuose nustatytų reikalavimų dėl savo klientų, kai, veikdami kliento sąskaita, vykdo jo pavedimus daugiašalėje prekybos sistemoje.
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
  
@@ -3857,6 +3857,14 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 4. Finansų maklerio įmonė neturi teisės priimti jokio atlygio, nuolaidos ar nepiniginės naudos už tai, kad ji perduoda klientų pavedimus vykdyti į konkrečią prekybos vietą ar pavedimų vykdymo vietą, kai tai pažeistų šio straipsnio 1, 2 ir 3 dalyse, šio įstatymo 16 straipsnio 2–7 dalyse, 28 ir 29 straipsniuose nustatytus užmokesčio, komisinio atlyginimo arba kitokios nepiniginės naudos teikimo ar gavimo reikalavimus arba pareigą vengti interesų konfliktų.
+
+
+
+
+41. Dėl finansinių priemonių, kurioms taikoma prekybos pareiga pagal Reglamento (ES) Nr. 600/2014 23 ir 28 straipsnius, kiekviena prekybos vieta (įskaitant sisteminę prekybą vykdančias finansų maklerio įmones), o dėl kitų finansinių priemonių – kiekviena pavedimų vykdymo vieta turi ne rečiau kaip kartą per metus viešai skelbti, netaikydama jokių mokesčių ar rinkliavų, duomenis apie sandorių vykdymo kokybę toje prekybos ar sandorių sudarymo vietoje, o sandorį kliento naudai įvykdžiusi finansų maklerio įmonė turi informuoti klientą, kur pavedimas buvo įvykdytas. Periodinėse ataskaitose turi būti pateikiama informacija apie atskirų finansinių priemonių kainą, sandorių sudarymo išlaidas, greitį ir tikimybę. 
+Papildyta straipsnio dalimi:
+Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
+ 
 
 
 
@@ -8756,7 +8764,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
-part_78889c7b9eae4f57a6d54d6f36b0e751_end
+part_54eece26fb584fbfa94e5015c3cae9ce_end
 
 
  
@@ -8920,7 +8928,7 @@ Priedo pakeitimai:
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
  
-part_54cceb0d40d94c3080437fe99ef295f6_end
+part_4dc11d70224a453d9c534a30ad4fe1cd_end
 
 
  
