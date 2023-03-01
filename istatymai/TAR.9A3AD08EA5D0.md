@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-02-01 iki 2023-02-28
+Suvestinė redakcija nuo 2023-03-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -1255,17 +1255,20 @@ Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
 
 
 
-6. Kvalifikacijos tobulinimo programas įgyvendina švietimo, mokslo ir sporto ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai ir akredituotos kvalifikacijos tobulinimo įstaigos. Reikalavimus kvalifikacijos tobulinimo programoms nustato švietimo, mokslo ir sporto ministras. 
+6. Pedagoginių darbuotojų (išskyrus aukštųjų mokyklų darbuotojus) kvalifikacijos tobulinimo programas įgyvendina švietimo, mokslo ir sporto ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai ir akredituotos kvalifikacijos tobulinimo įstaigos. Reikalavimus pedagoginių darbuotojų (išskyrus aukštųjų mokyklų darbuotojus) kvalifikacijos tobulinimo programoms nustato švietimo, mokslo ir sporto ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
 
 
-7. Nacionalines pedagogų kvalifikacijos tobulinimo programas prioritetinėse kvalifikacijos tobulinimo srityse, kurias trejų metų laikotarpiui tvirtina švietimo, mokslo ir sporto ministras, įgyvendina švietimo, mokslo ir sporto ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai kartu su kitomis aukštosiomis mokyklomis ir (ar) akredituotomis kvalifikacijos tobulinimo įstaigomis. Reikalavimus nacionalinėms pedagogų kvalifikacijos tobulinimo programoms, jų vertinimo, akreditavimo ir registravimo tvarką nustato švietimo, mokslo ir sporto ministras.
+7. Nacionalines pedagoginių darbuotojų (išskyrus aukštųjų mokyklų darbuotojus) kvalifikacijos tobulinimo programas prioritetinėse kvalifikacijos tobulinimo srityse, kurias trejų metų laikotarpiui tvirtina švietimo, mokslo ir sporto ministras, įgyvendina švietimo, mokslo ir sporto ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai kartu su kitomis aukštosiomis mokyklomis ir (ar) akredituotomis kvalifikacijos tobulinimo įstaigomis. Reikalavimus nacionalinėms pedagoginių darbuotojų (išskyrus aukštųjų mokyklų darbuotojus) kvalifikacijos tobulinimo programoms, jų vertinimo, akreditavimo ir registravimo tvarką nustato švietimo, mokslo ir sporto ministras. 
 Papildyta straipsnio dalimi:
 Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
@@ -1965,13 +1968,12 @@ Nr. XIV-1223, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15589
 36 straipsnis. Vežimas, apgyvendinimas, maitinimas
 
 
-1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu (toliau – Transporto lengvatų įstatymas), vežami visuomeniniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo, mokslo ir sporto ministras. 
-1 dalies redakcija nuo 2024-09-01:
-1. Mokiniai į atitinkamą švietimo programą vykdančią mokyklą vežami keleiviniu transportu, mokykliniu autobusu arba kitu transportu. Mokinių važiavimo keleiviniu transportu lengvatas nustato Lietuvos Respublikos transporto lengvatų įstatymas. Siekiant užtikrinti švietimo prieinamumą, į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Vežimą į mokyklą ir atgal organizuoja valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) savo nustatyta tvarka. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo, mokslo ir sporto ministras.
+1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu, vežami keleiviniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
 Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
@@ -2157,7 +2159,10 @@ Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
 
 
 
-5) mokymosi pasiekimų pažymėjimas – neįgijusiam pradinio, pagrindinio ar vidurinio išsilavinimo.
+5) mokymosi pasiekimų pažymėjimas – neįgijusiam pradinio, pagrindinio ar vidurinio išsilavinimo arba įgijusiam vidurinį ar jam prilygintą išsilavinimą, patvirtintą išduotu brandos atestatu ar kitu vidurinį ar jam prilygintą išsilavinimą patvirtinančiu dokumentu, ir papildomai ir (ar) pakartotinai besimokiusiam pagal vidurinio ugdymo dalykų programas ir jas baigusiam, ir (ar) papildomai, ir (ar) pakartotinai išlaikiusiam brandos egzaminus. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -3729,27 +3734,27 @@ Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
 1. Ministerijos ir Vyriausybės įstaigos:
 
 
-1) dalyvauja švietimo politiką ir mokyklų veiklą reglamentuojančių dokumentų rengimo darbo grupėse, teikia siūlymus Švietimo ir mokslo ministerijai dėl rengiamų teisės aktų projektų;
+1) dalyvauja švietimo politiką ir mokyklų veiklą reglamentuojančių dokumentų rengimo darbo grupėse, teikia siūlymus Švietimo, mokslo ir sporto ministerijai dėl rengiamų teisės aktų projektų;
 
 
 
 
-2) kartu su švietimo ir mokslo ministru leidžia su švietimu susijusius teisės aktus; 
+2) kartu su švietimo, mokslo ir sporto ministru leidžia su švietimu susijusius teisės aktus;
 
 
 
 
-3) atlieka švietimo įstaigų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės kaip savininkės ar dalininkės teises ir pareigas, vadovų metų veiklos ataskaitų vertinimą švietimo ir mokslo ministro nustatyta tvarka;
-Straipsnio punkto pakeitimai:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
+3) atlieka švietimo įstaigų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės, kaip savininkės ar dalininkės, teises ir pareigas, vadovų metų veiklos vertinimą švietimo, mokslo ir sporto ministro nustatyta tvarka;
+
+
+
+
+4) organizuoja mokyklų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės, kaip savininkės ar dalininkės, teises ir pareigas, mokytojų, švietimo pagalbos specialistų atestaciją švietimo, mokslo ir sporto ministro nustatyta tvarka. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
-
-
-
-
-4) organizuoja mokyklų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės kaip savininkės ar dalininkės teises ir pareigas, mokytojų, švietimo pagalbos specialistų atestaciją švietimo ir mokslo ministro nustatyta tvarka.
-
-
 
 
 
@@ -3860,40 +3865,40 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-59 straipsnis. Švietimo įstaigos vadovo skyrimas, įgaliojimai, vertinimas, nušalinimas ir atleidimas
+59 straipsnis. Švietimo įstaigos vadovo skyrimas, funkcijos, vertinimas ir atleidimas 
 
 
-1. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo pareigybės aprašymą tvirtina, švietimo įstaigos vadovą viešo konkurso būdu į pareigas penkeriems metams skiria ir iš jų atleidžia, viešą konkursą švietimo įstaigos vadovo pareigoms eiti organizuoja valstybinių švietimo įstaigų atveju – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos įgaliotas asmuo, savivaldybių švietimo įstaigų atveju – savivaldybės meras. 
-
-
-
-
-2. Švietimo įstaigos vadovu gali būti tik nepriekaištingos reputacijos asmuo, kuriam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimas, atitinkantis švietimo, mokslo ir sporto ministro nustatytus reikalavimus, arba, jeigu asmuo vienoje švietimo įstaigoje vadovo pareigas ėjo ne mažiau kaip 10 metų, jam prilygintas vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka. Asmuo priimamas į švietimo įstaigos vadovo pareigas švietimo, mokslo ir sporto ministro nustatyta tvarka, patikrinus jo kompetencijas atlikti pareigybės aprašyme nustatytas funkcijas. 
+1. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo pareigybės aprašymą, parengtą pagal šiame straipsnyje nustatytas švietimo įstaigos vadovo funkcijas ir švietimo, mokslo ir sporto ministro nustatytus kvalifikacinius reikalavimus, tvirtina, švietimo įstaigos vadovą viešo konkurso būdu į pareigas penkeriems metams skiria ir iš jų atleidžia, viešą konkursą švietimo įstaigos vadovo pareigoms eiti organizuoja valstybinių švietimo įstaigų atveju – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo. 
 
 
 
 
-3. Vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimą atlieka švietimo, mokslo ir sporto ministro įgaliota įstaiga, kurios savininko teises ir pareigas įgyvendina Švietimo, mokslo ir sporto ministerija. Vadovavimo valstybinei ir savivaldybės švietimo įstaigai kompetencijų vertinimas apima asmens kompetencijų, reikalingų vadovavimo valstybinei ir savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) funkcijoms atlikti, vertinimą.
+2. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovu gali būti asmuo, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos ir jam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka arba, jeigu jis vienoje švietimo įstaigoje vadovo pareigas ėjo ne mažiau kaip 10 metų ir jam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimui prilygintas vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka. Valstybinės ar savivaldybės švietimo pagalbos įstaigos, bendrojo ugdymo mokyklos ir profesinio mokymo įstaigos vadovas turi turėti aukštąjį universitetinį išsilavinimą, valstybinės ar savivaldybės neformaliojo švietimo mokyklos vadovas – aukštąjį koleginį išsilavinimą. Asmuo skiriamas į švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas švietimo, mokslo ir sporto ministro nustatyta tvarka, įvertinus jo gebėjimus įgyvendinti viešam konkursui pateiktas vadovavimo švietimo įstaigai gaires ir pareigybės aprašyme nustatytas funkcijas.
 
 
 
 
-4. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo pirmajai penkerių metų kadencijai, jis gali būti skiriamas be konkurso antrajai penkerių metų kadencijai, jeigu jo metų veikla kiekvienais metais buvo vertinama labai gerai arba gerai. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo kadencijai, jam sutikus, jo įgaliojimai pratęsiami, iki įvyks viešas konkursas švietimo įstaigos vadovo pareigoms eiti ir bus paskirtas švietimo įstaigos vadovas. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovas, baigęs penkerių metų kadenciją, turi teisę dalyvauti tos pačios švietimo įstaigos viešame konkurse vadovo pareigoms eiti. 
+3. Vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimą atlieka švietimo, mokslo ir sporto ministro įgaliota institucija. Vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimo užduotys yra konfidenciali informacija.
 
 
 
 
-5. Likus ne mažiau kaip 4 mėnesiams iki valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo kadencijos pabaigos, valstybinės švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos įgaliotas asmuo, savivaldybių švietimo įstaigų atveju – savivaldybės meras skelbia viešą konkursą šios švietimo įstaigos vadovo pareigoms eiti, išskyrus atvejus, kai vadovas paskiriamas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nustatyta tvarka.
+4. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pirmajai penkerių metų kadencijai, jis skiriamas be konkurso antrajai penkerių metų kadencijai, jeigu jo metų veikla kiekvienais metais buvo vertinama labai gerai arba gerai ir jis sutinka eiti pareigas. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo kadencijai, jam sutikus, jo įgaliojimai pratęsiami, iki įvyks viešas konkursas švietimo įstaigos vadovo pareigoms eiti ir bus paskirtas švietimo įstaigos vadovas. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovas, baigęs penkerių metų kadenciją, turi teisę dalyvauti tos pačios švietimo įstaigos viešame konkurse vadovo pareigoms eiti. 
 
 
 
 
-6. Švietimo, mokslo ir sporto ministras nustato valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų kvalifikacinius reikalavimus ir viešo konkurso švietimo įstaigų vadovų pareigoms eiti tvarką. 
+5. Likus ne mažiau kaip 4 mėnesiams iki valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo kadencijos pabaigos, valstybinės švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo skelbia viešą konkursą šios švietimo įstaigos vadovo pareigoms eiti, išskyrus atvejus, kai vadovas paskiriamas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nustatyta tvarka arba paskiriamas buvęs kitos švietimo įstaigos vadovas penkerių metų kadencijai šio straipsnio 9 dalyje nustatyta tvarka.
 
 
 
 
-7. Į nevalstybinių švietimo įstaigų vadovų pareigas asmenys skiriami ir iš jų atleidžiami įstatymų nustatyta tvarka.
+6. Švietimo, mokslo ir sporto ministras nustato valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų kvalifikacinius reikalavimus ir viešo konkurso švietimo įstaigų vadovų pareigoms eiti tvarką.
+
+
+
+
+7. Į nevalstybinių švietimo įstaigų vadovų pareigas skiriami asmenys, kurie pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos, ir iš jų atleidžiami įstatymų nustatyta tvarka.
 
 
 
@@ -3901,109 +3906,85 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 8. Švietimo įstaigos vadovas:
 
 
-1) vadovauja švietimo įstaigos strateginio plano ir metinių veiklos planų, švietimo programų rengimui, rekomendacijų dėl smurto prevencijos įgyvendinimo mokykloje priemonių įgyvendinimui, juos tvirtina, vadovauja jų vykdymui;
+1) organizuoja švietimo įstaigos veiklą, įgyvendindamas strateginį švietimo įstaigos valdymą; vadovauja rengiant švietimo įstaigos strateginį ir metinį planus, užtikrina jų įgyvendinimą; organizuoja švietimo įstaigos veiklos įsivertinimą ir stebėseną, analizuoja išteklių būklę ir atsako už švietimo įstaigos veiklos rezultatus;
 
 
 
 
-2) nustatyta tvarka skiria ir atleidžia mokytojus, kitus ugdymo procese dalyvaujančius asmenis ir aptarnaujantį personalą, tvirtina jų pareigybių aprašymus;
+2) vadovauja kuriant lyderystės ugdymui kultūrą, išlaikant ir stiprinant kiekvienam mokiniui mokytis ir savo galimybėms atskleisti palankią aplinką;
 
 
 
 
-3) atsako už šio įstatymo 26 straipsnyje nurodytos informacijos skelbimą, demokratinį švietimo įstaigos valdymą, užtikrina bendradarbiavimu grįstus santykius, Pedagogų etikos kodekso reikalavimų laikymąsi, skaidriai priimamus sprendimus, švietimo įstaigos bendruomenės narių informavimą, pedagoginio ir nepedagoginio personalo profesinį tobulėjimą, sveiką, saugią, užkertančią kelią bet kokioms smurto, prievartos apraiškoms ir žalingiems įpročiams aplinką;
+3) įgyvendina personalo valdymo priemones, sudaro galimybes ir skatina darbuotojus, užtikrina jų profesinį tobulėjimą ir Pedagogų etikos kodekso normų laikymąsi;
 
 
 
 
-4) rūpinasi mokytojų ir kitų darbuotojų darbo sąlygomis, organizuoja trūkstamų mokytojų paiešką;
+4) bendradarbiauja su mokinių tėvais (globėjais, rūpintojais), vietos bendruomene ir partneriais, siekdamas švietimo įstaigos tikslų, kartu su švietimo įstaigos savivaldos institucijomis sprendžia svarbiausius įstaigos veiklos klausimus; bendradarbiauja su institucijomis, įstaigomis, įmonėmis ir organizacijomis siekdamas efektyvaus įstaigos valdymo, ugdymo kokybės ir mokinių saugumo;
 
 
 
 
-5) analizuoja švietimo įstaigos veiklos ir valdymo išteklių būklę ir atsako už švietimo įstaigos veiklos rezultatus;
+5) kiekvienais metais iki sausio 20 dienos valstybinės ar savivaldybės mokyklos (išskyrus aukštąją mokyklą) vadovas teikia švietimo įstaigos (išskyrus aukštąją mokyklą) bendruomenei ir mokyklos tarybai, valstybinės ar savivaldybės švietimo pagalbos įstaigos vadovas – švietimo pagalbos įstaigos savivaldos institucijai, jeigu ji yra, o jeigu švietimo pagalbos įstaigoje savivaldos institucijos nėra, – darbuotojų atstovavimą įgyvendinantiems asmenims svarstyti bei viešai paskelbia savo metų veiklos ataskaitą. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo metų veiklos ataskaitos struktūrą ir reikalavimus nustato švietimo, mokslo ir sporto ministras;
 
 
 
 
-6) atlieka kitas funkcijas, nustatytas švietimo įstaigos įstatuose ir švietimo įstaigos vadovo pareigybės aprašyme;
+6) atlieka kitas funkcijas, nustatytas švietimo įstaigos įstatuose ir kituose teisės aktuose.
 
 
 
 
-7) kartu su mokyklos taryba sprendžia mokyklai svarbius palankios ugdymui aplinkos kūrimo klausimus;
 
 
+9. Buvusiam švietimo įstaigos (išskyrus aukštąją mokyklą) vadovui (išskyrus švietimo įstaigos vadovus, kurie turi teisę gauti visą socialinio draudimo senatvės pensiją) gali būti pasiūlyta valstybinių švietimo įstaigų atveju – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos įgalioto asmens, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės mero, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimo ar jo įgalioto asmens per 6 mėnesius nuo atleidimo iš pareigų dienos Vyriausybės nustatyta tvarka pretenduoti į kitos švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas penkerių metų kadencijai, jeigu jis atitinka vieną iš šių sąlygų:
 
 
-8) už mokinio elgesio normų pažeidimą gali skirti mokiniui drausmines auklėjamojo poveikio priemones, numatytas Vaiko teisių apsaugos pagrindų įstatyme;
+1) yra atleistas iš pareigų dėl pareigybės panaikinimo, į kurią jis jau yra laimėjęs viešą konkursą švietimo įstaigos vadovo pareigoms eiti po 2018 m. sausio 1 d., ir jo visų metų veikla kadencijos, kurios metu jis atleistas iš pareigų dėl pareigybės panaikinimo, laikotarpiu buvo įvertinta gerai ir labai gerai;
 
 
 
 
-9) Vaiko minimalios ir vidutinės priežiūros įstatymo nustatyta tvarka kreipiasi į savivaldybės administracijos direktorių dėl minimalios ir vidutinės priežiūros priemonių vaikui skyrimo;
+2) yra pabaigęs penkerių metų kadenciją, kurios metu visais metais jo veikla buvo įvertinta gerai ir labai gerai, ir yra atsisakęs būti paskirtas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nustatyta tvarka arba dalyvauti viešame konkurse tos pačios švietimo įstaigos vadovo pareigoms eiti.
 
 
 
 
-10) kiekvienais metais valstybinės ar savivaldybės mokyklos (išskyrus aukštąsias mokyklas) vadovas teikia švietimo įstaigos (išskyrus aukštąsias mokyklas) bendruomenei ir mokyklos tarybai, valstybinės ar savivaldybės švietimo pagalbos įstaigos vadovas – švietimo pagalbos įstaigos savivaldos institucijai, jeigu ji yra, jei švietimo pagalbos įstaigoje savivaldos institucijos nėra, – darbuotojų atstovavimą įgyvendinančiai institucijai svarstyti bei viešai paskelbia savo metų veiklos ataskaitą. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovų metų veiklos ataskaitos struktūrą ir reikalavimus nustato švietimo, mokslo ir sporto ministras;
 
 
+10. Jeigu su valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovu darbo sutartis nutraukiama, ne vėliau kaip per 10 darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas švietimo įstaigos vadovo pareigoms eiti. Valstybinių švietimo įstaigų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo, priėmusi (priėmęs) sprendimą dėl darbo sutarties nutraukimo, paskiria asmenį, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos, laikinai eiti švietimo įstaigos vadovo pareigas.
 
 
-11) atsako už švietimo įstaigos finansinę veiklą, svarsto ir priima sprendimus, susijusius su švietimo įstaigos lėšų (įskaitant lėšas, skirtas švietimo įstaigos darbuotojų darbo užmokesčiui), turto naudojimą ir disponavimą juo.
 
 
+11. Valstybinių švietimo įstaigų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo viešam konkursui švietimo įstaigos vadovo pareigoms eiti sudaro komisiją. Į viešo konkurso mokyklų vadovo pareigoms eiti komisiją 2 narius siūlo skirti valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo, po vieną narį siūlo skirti Švietimo, mokslo ir sporto ministerija, švietimo įstaigų vadovų ar atitinkamo tipo švietimo įstaigų asociacija, taip pat valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo kviečia vieną mokyklos socialinių partnerių atstovą, 2 narius siūlo skirti mokyklos taryba savo sprendimu (mokinys gali būti siūlomas, jei jam yra sukakę 16 metų). Viešo konkurso švietimo įstaigos vadovo pareigoms eiti komisijos nariu gali būti tik asmuo, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos. Šios komisijos nariais negali būti valstybės politikai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Komisijos sudėtis skelbiama viešai švietimo įstaigos interneto svetainėje.
 
 
 
 
-9. Švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija atsako už informacijos apie švietimo įstaigos vadovo metų veiklos ataskaitos vertinimą pateikimą viešai.
+12. Viešo konkurso švietimo pagalbos įstaigos vadovo pareigoms eiti komisijos sudarymo tvarkos aprašą tvirtina švietimo, mokslo ir sporto ministras.
 
 
 
 
-10. Jeigu pasibaigus penkerių metų kadencijai švietimo įstaigos vadovas, kurio visos metų veiklos ataskaitos buvo įvertintos gerai ir labai gerai, atsisako būti paskirtas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nustatyta tvarka arba dalyvauti viešame konkurse tos švietimo įstaigos vadovo pareigoms eiti arba jo nelaimi, esant galimybei, jam turi būti pasiūlytos iki paskyrimo švietimo įstaigos vadovu eitos arba kitos pareigos atitinkamai valstybės ar savivaldybės įsteigto juridinio asmens, savininko teises ir pareigas įgyvendinančios Vyriausybės ar jos įgaliotos institucijos arba savivaldybės tarybos ar savivaldybės vykdomosios institucijos įsteigtoje įstaigoje.
+13. Viešo konkurso naujai įsteigtos mokyklos vadovo pareigoms eiti komisija sudaroma be mokyklos tarybos ir socialinio partnerio teikiamų asmenų.
 
 
 
 
-11. Jeigu su valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovu darbo sutartis nutraukiama, ne vėliau kaip per 10 darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas švietimo įstaigos vadovo pareigoms eiti. Valstybinių švietimo įstaigų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų atveju – savivaldybės meras, priėmusi (priėmęs) sprendimą dėl darbo sutarties nutraukimo, paskiria nepriekaištingos reputacijos asmenį laikinai eiti švietimo įstaigos vadovo pareigas.
+14. Aukštosios mokyklos vadovo skyrimą į pareigas, atleidimą iš jų, jo įgaliojimus ir atsakomybę nustato Mokslo ir studijų įstatymas.
 
 
 
 
-12. Valstybinių švietimo įstaigų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų atveju – savivaldybės meras viešam konkursui švietimo įstaigos vadovo pareigoms eiti sudaro komisiją iš 7 narių. Į viešo konkurso bendrojo ugdymo mokyklų ir ikimokyklinio ugdymo įstaigų vadovo pareigoms eiti komisiją po vieną narį siūlo skirti valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų atveju – savivaldybės meras, Švietimo, mokslo ir sporto ministerija, atitinkamo tipo švietimo įstaigų ar vadovų asociacija, taip pat valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų atveju – savivaldybės meras kviečia vieną mokyklos socialinių partnerių atstovą, 3 narius siūlo skirti mokyklos bendruomenė (po vieną atstovą siūlo skirti tėvai, pedagogai, mokiniai – jeigu jie nėra sukakę 16 metų, jiems atstovauja tėvai). Viešo konkurso švietimo įstaigos vadovo pareigoms eiti komisijos nariu gali būti tik nepriekaištingos reputacijos asmuo. Šios komisijos nariais negali būti valstybės politikai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Komisijos sudėtis skelbiama viešai švietimo įstaigos interneto svetainėje.
-
-
-
-
-13. Viešo konkurso švietimo pagalbos ir kitos švietimo įstaigos vadovo pareigoms eiti komisijos sudarymo tvarkos aprašą tvirtina švietimo, mokslo ir sporto ministras.
-
-
-
-
-14. Viešo konkurso naujai įsteigtos mokyklos vadovo pareigoms eiti komisija sudaroma be mokyklos bendruomenės teikiamų asmenų. Tokiu atveju komisiją sudaro 4 nariai. 
-
-
-
-
-15. Valstybinės ar savivaldybės mokyklos (išskyrus aukštąsias mokyklas) taryba, valstybinės ar savivaldybės švietimo pagalbos įstaigoje – švietimo pagalbos įstaigos savivaldos institucija, jeigu ji yra, jei švietimo pagalbos įstaigoje savivaldos institucijos nėra, – darbuotojų atstovavimą įgyvendinanti institucija švietimo įstaigos vadovo metų veiklos ataskaitą įvertinusi nepatenkinamai, kreipiasi į valstybinės švietimo įstaigos savininko teises ir pareigas įgyvendinančią instituciją (dalyvių susirinkimą) ar jos (jo) įgaliotą asmenį, savivaldybių švietimo įstaigų atveju – į savivaldybės merą, ir prašo jos (jo) įvertinti švietimo įstaigos vadovo darbą. Jeigu švietimo įstaigos vadovo metų veiklos ataskaita įvertinama nepatenkinamai dvejus metus iš eilės, valstybinės švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių švietimo įstaigų atveju – savivaldybės meras priima sprendimą atleisti švietimo įstaigos vadovą iš pareigų ir nutraukti su juo sudarytą darbo sutartį per 10 darbo dienų nuo švietimo įstaigos vadovo metų veiklos ataskaitos įvertinimo, neišmokant jam išeitinės išmokos. 
-
-
-
-
-16. Aukštosios mokyklos vadovo skyrimą į pareigas, jo įgaliojimus ir atsakomybę nustato Mokslo ir studijų įstatymas.
-
-
-
-
-17. Buvusiam švietimo įstaigos vadovui (išskyrus švietimo įstaigos vadovus, kurie turi teisę gauti visą senatvės pensiją), atleistam iš pareigų dėl pareigybės panaikinimo, per 6 mėnesius nuo atleidimo iš pareigų dienos Vyriausybės nustatyta tvarka siūloma pretenduoti į kitos švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas, jeigu jis jau yra laimėjęs viešą konkursą švietimo įstaigos vadovo pareigoms eiti po 2018 m. sausio 1 d.
+15. Kiekvienais metais į pareigas priimantis asmuo ar jo įgaliotas asmuo švietimo, mokslo ir sporto ministro nustatyta tvarka, dalyvaujant mokyklos tarybai, įvertina valstybinės ar savivaldybės mokyklos (išskyrus aukštąją mokyklą) vadovo praėjusių kalendorinių metų veiklą, o dalyvaujant švietimo pagalbos įstaigos savivaldos institucijoms, jeigu jos yra (jeigu švietimo pagalbos įstaigoje savivaldos institucijų nėra, – darbuotojų atstovavimą įgyvendinantiems asmenims), – valstybinės ar savivaldybės švietimo pagalbos įstaigos vadovo praėjusių kalendorinių metų veiklą. Jeigu valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo metų veikla įvertinama nepatenkinamai dvejus metus iš eilės, į pareigas priimantis asmuo priima sprendimą atleisti valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovą iš pareigų ir nutraukti su juo sudarytą darbo sutartį per 10 darbo dienų nuo švietimo įstaigos vadovo metų veiklos įvertinimo, neišmokant jam išeitinės išmokos. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
