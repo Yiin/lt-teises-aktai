@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-02-28
+Suvestinė redakcija nuo 2023-03-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -2341,7 +2341,10 @@ Nr. XIV-1094, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10292
 
 
 
-4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą šio straipsnio 5 dalyje nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą šio straipsnio 7 dalyje nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 5 dalies 6, 9 ar 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo pažeidimų nustatymo dienos, o už pažeidimus, nurodytus šio straipsnio 5 dalies 7 ir 11 punktuose, – ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 7 dalies 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas panaikinamas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos.
+4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą šio straipsnio 5 dalyje nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą šio straipsnio 7 dalyje nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. Šio straipsnio 5 dalies 5 punkte nurodytu atveju, taip pat už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 5 dalies 6, 9 ar 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo pažeidimų nustatymo dienos, o už pažeidimus, nurodytus šio straipsnio 5 dalies 7 ir 11 punktuose, – ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo arba energetikos įmonės pranešimo apie įsiteisėjusios teismo nutarties iškelti bankroto bylą ar apie kreditorių susirinkimo nutarimo dėl bankroto procedūros atlikimo ne teismo tvarka gavimo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 7 dalies 10, 11 ar 12 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas panaikinamas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimą, nurodytą šio straipsnio 7 dalies 13 punkte, nepriklausomas elektros energijos tiekėjas įspėjamas apie galimą leidimo galiojimo panaikinimą šio straipsnio 7 dalies 13 punkte nustatytu pagrindu ir nustatomas ne ilgesnis kaip 3 mėnesių laikotarpis nuo įspėjimo gavimo dienos, per kurį turi būti pašalintas nurodytas reguliuojamosios veiklos pažeidimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+ 
 
 
 
@@ -2460,6 +2463,30 @@ Nr. XIV-1094, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10292
 
 
 10) paaiškėja aplinkybės dėl leidimo importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, galiojimo panaikinimo, nustatytos Būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 2 dalyje;
+
+
+
+
+11) įsiteisėja teismo nutartis energetikos įmonei – juridiniam asmeniui – iškelti bankroto bylą arba kreditorių susirinkimas priima nutarimą energetikos įmonei – juridiniam asmeniui – bankroto procedūras atlikti ne teismo tvarka;
+Papildyta straipsnio punktu:
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+ 
+
+
+
+
+12) įsiteisėja teismo nutartis fiziniam asmeniui, turėjusiam licenciją, leidimą ar atestatą, iškelti bankroto bylą, tačiau jis per 10 darbo dienų nuo teismo nutarties įsiteisėjimo dienos nepateikia Tarybai teismo leidimo vykdyti individualią veiklą arba įsiteisėja teismo nutartis, kuria patvirtinamas fizinio asmens mokumo atkūrimo planas, kuriame nenumatyta, kad fizinis asmuo vykdys individualią veiklą;
+Papildyta straipsnio punktu:
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+ 
+
+
+
+
+13) nepriklausomas elektros energijos tiekėjas neatitinka Elektros energetikos įstatymo 46 straipsnio 6 dalies 1 punkte nurodyto reikalavimo. 
+Papildyta straipsnio punktu:
+Nr. XIV-1666, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26103
+ 
 
 
 
