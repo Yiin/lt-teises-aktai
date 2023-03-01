@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-02-28
+Suvestinė redakcija nuo 2023-03-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
  
@@ -726,7 +726,10 @@ BENDRIJOS VALDYMAS
 11 straipsnis. Visuotinio susirinkimo šaukimo ir organizavimo tvarka. Sprendimų priėmimas
 
 
-1. Visuotinius susirinkimus šaukia bendrijos pirmininkas arba bendrijos valdyba bendrijos įstatuose nustatyta tvarka. Visuotinis susirinkimas turi būti sušauktas ir tais atvejais, kai to reikalauja revizijos komisija (revizorius) arba daugiau kaip ketvirtadalis bendrijos narių (jeigu bendrija jungia kelis daugiabučius namus, – daugiau kaip ketvirtadalis bendrijos narių kiekviename pastate arba daugiau kaip ketvirtadalis bendrijos narių bent viename pastate, jeigu visuotinis susirinkimas šaukiamas pasibaigus valdymo organų kadencijai). Jeigu bendrijos valdymo organas per mėnesį nuo reikalavimo sušaukti visuotinį susirinkimą pateikimo dienos susirinkimo nesušaukia, jį gali sušaukti revizijos komisija (revizorius) arba daugiau kaip ketvirtadalis bendrijos narių (jeigu bendrija jungia kelis daugiabučius namus, – daugiau kaip ketvirtadalis bendrijos narių kiekviename pastate arba daugiau kaip ketvirtadalis bendrijos narių bent viename pastate, jeigu visuotinis susirinkimas šaukiamas pasibaigus valdymo organų kadencijai). 
+1. Visuotinius susirinkimus šaukia bendrijos pirmininkas arba bendrijos valdyba bendrijos įstatuose nustatyta tvarka. Visuotinis susirinkimas turi būti sušauktas ir tais atvejais, kai to reikalauja revizijos komisija (revizorius) arba daugiau kaip penktadalis bendrijos narių (jeigu bendrija jungia kelis daugiabučius namus, – daugiau kaip penktadalis bendrijos narių kiekviename pastate arba daugiau kaip penktadalis bendrijos narių bent viename pastate, jeigu visuotinis susirinkimas šaukiamas pasibaigus valdymo organų kadencijai). Jeigu bendrijos valdymo organas per mėnesį nuo reikalavimo sušaukti visuotinį susirinkimą pateikimo dienos susirinkimo nesušaukia, jį gali sušaukti revizijos komisija (revizorius) arba daugiau kaip penktadalis bendrijos narių (jeigu bendrija jungia kelis daugiabučius namus, – daugiau kaip penktadalis bendrijos narių kiekviename pastate arba daugiau kaip penktadalis bendrijos narių bent viename pastate, jeigu visuotinis susirinkimas šaukiamas pasibaigus valdymo organų kadencijai).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1710, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27300
+ 
 
 
 
@@ -749,7 +752,10 @@ Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
 
 
 
-5. Visuotinis susirinkimas yra teisėtas ir gali priimti sprendimus, kai jame dalyvauja daugiau kaip pusė bendrijos narių. Jeigu kvorumo nėra, laikoma, kad visuotinis susirinkimas neįvyko, ir ne anksčiau kaip po dviejų savaičių turi būti sušauktas pakartotinis visuotinis susirinkimas, kuris turi teisę svarstyti ir priimti sprendimus pagal neįvykusio susirinkimo darbotvarkę. Pakartotinis visuotinis susirinkimas yra teisėtas, kai jame dalyvauja daugiau kaip ketvirtadalis bendrijos narių. 
+5. Visuotinis susirinkimas yra teisėtas ir gali priimti sprendimus, kai jame dalyvauja daugiau kaip pusė bendrijos narių. Jeigu kvorumo nėra, laikoma, kad visuotinis susirinkimas neįvyko, ir ne anksčiau kaip po dviejų savaičių turi būti sušauktas pakartotinis visuotinis susirinkimas, kuris turi teisę svarstyti ir priimti sprendimus pagal neįvykusio susirinkimo darbotvarkę. Pakartotinis visuotinis susirinkimas yra teisėtas, kai jame dalyvauja daugiau kaip penktadalis bendrijos narių. Garažų savininkų bendrijų pakartotiniam visuotiniam susirinkimui kvorumo reikalavimas netaikomas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1779, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27592
+ 
 
 
 
@@ -1659,3 +1665,13 @@ Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
 Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 4, 5, 6, 7, 8, 11 ir 14 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1710, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27300
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 11 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1779, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27592
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 11 straipsnio pakeitimo įstatymas
