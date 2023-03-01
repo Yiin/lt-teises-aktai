@@ -20,14 +20,9 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-02-28
+Suvestinė redakcija nuo 2023-03-01 iki 2023-05-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 151-0; Žin. 1991, Nr.24-635, i. k. 0911010ISTA00I-1607
- 
-TAR pastaba. Įsigaliojus 2022-06-30 įstatymui Nr. XIV-1312, iki jo įsigaliojimo pradėti, bet nebaigti rengti ir dar nepatvirtinti žemės reformai reikalingi žemės reformos žemėtvarkos projektai baigiami rengti ir tvirtinami iki įstatymo įsigaliojimo galiojusia tvarka.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 9, 10, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija:
 Nr. VIII-370, 97.07.02, Žin., 1997, Nr.69-1735 (97.07.23)
@@ -645,7 +640,11 @@ Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 
 
-11. Piliečiams, kurie neturi teisės į nuosavybės teisių atkūrimą pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą arba kurie turi teisę atkurti nuosavybės teisę į mažesnį, negu naudoja asmeninam ūkiui, žemės sklypą, taip pat kitiems fiziniams asmenims naudojami asmeniniam ūkiui žemės sklypai parduodami Vyriausybės nustatyta tvarka. Piliečiams, kurie pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą turi teisę atkurti nuosavybės teises į ne mažesnį kaip asmeniniam ūkiui suteiktos žemės sklypą, tačiau pageidauja kitos kompensacijos arba savo teisę susigrąžinti žemę perleidžia kitiems piliečiams, arba atsisako šios teisės kitų piliečių naudai, asmeninio ūkio žemė neparduodama, o žemės sklypai išnuomojami iš laisvos žemės fondo.
+11. Piliečiams, kurie neturi teisės į nuosavybės teisių atkūrimą pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą arba kurie turi teisę atkurti nuosavybės teisę į mažesnį, negu naudoja asmeninam ūkiui, žemės sklypą, taip pat kitiems fiziniams asmenims naudojami, bet neįsigyti asmeninio ūkio žemės sklypai parduodami Vyriausybės nustatyta tvarka iki 2023 rugsėjo 30 d. Nuo 2023 m. spalio 1 d. šie žemės sklypai, jeigu už juos nebuvo įmokėtos įmokos valstybės vienkartinėmis išmokomis ar pinigais arba jie nėra išnuomoti, arba juose nėra pastatytų ar statomų statinių, nekeičiant jų naudojimo paskirties, priskiriami laisvos žemės fondo žemei. Piliečiams, kurie pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą turi teisę atkurti nuosavybės teises į ne mažesnį kaip asmeniniam ūkiui suteiktos žemės sklypą, tačiau pageidauja kitos kompensacijos arba savo teisę susigrąžinti žemę perleidžia kitiems piliečiams, arba atsisako šios teisės kitų piliečių naudai, asmeninio ūkio žemė neparduodama, o žemės sklypai išnuomojami iš laisvos žemės fondo.
+TAR pastaba. 15 straipsnio 11 dalies nuostatos netaikomos asmeninio ūkio žemės sklypų pardavimo procedūroms, kurios buvo pradėtos pagal iki įstatymo Nr. XIV-1711 įsigaliojimo dienos (2023-03-01) galiojusias Žemės reformos įstatymo 15 straipsnio nuostatas, užbaigti. Pardavimo procedūra laikoma pradėta, jeigu asmuo iki 2023 m. rugsėjo 30 d. raštu kreipiasi į sprendimus parduoti valstybinę žemę priimančias valstybės institucijas dėl valstybinės žemės sklypo pirkimo–pardavimo sutarties sudarymo ir (ar) už šį žemės sklypą Vyriausybės nustatyta tvarka buvo įmokėtos įmokos (dalis įmokų, jeigu žemės sklypas perkamas išsimokėtinai) valstybės vienkartinėmis išmokomis ar pinigais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1711, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27301
+ 
 
 
 
@@ -1204,3 +1203,8 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 10 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 9, 10, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1711, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27301
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 15 straipsnio pakeitimo įstatymas
