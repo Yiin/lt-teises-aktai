@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-02-01 iki 2023-02-28
+Suvestinė redakcija nuo 2023-03-01 iki 2023-05-05
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -662,7 +662,10 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-111. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos įmonių konsoliduotosios finansinės atskaitomybės įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Reglamente (ES) 2019/943 ir šio reglamento VII skyriuje nurodytų sričių tinklo kodeksuose ir gairėse (toliau – tinklo kodeksai ir gairės). 
+111. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos įmonių konsoliduotosios finansinės atskaitomybės įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Reglamente (ES) 2019/943 ir šio reglamento VII skyriuje nurodytų sričių tinklo kodeksuose ir gairėse (toliau – tinklo kodeksai ir gairės).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
 
 
 Straipsnio pakeitimai:
@@ -2451,26 +2454,72 @@ Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
 
 
 
-21. Leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą, nepriklausomo paklausos telkėjo veiklą išduodamas asmenims, kuriems nėra pradėta bankroto, reorganizavimo ir (ar) likvidavimo procedūra. 
+21. Leidimas vykdyti nepriklausomo paklausos telkėjo veiklą išduodamas asmenims, kuriems nėra pradėta bankroto, reorganizavimo ir (ar) likvidavimo procedūra.
 Straipsnio dalies pakeitimai:
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
 
 
-211. Aktyviesiems vartotojams, elektros energiją gaminantiems iš atsinaujinančių išteklių, leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą nereikalingas. Aktyviesiems vartotojams, sudarantiems sutartis, kaip nustatyta 2014 m. gruodžio 17 d. Komisijos įgyvendinimo reglamento (ES) 1348/2014 dėl duomenų teikimo, kuriuo įgyvendinamos Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo 8 straipsnio 2 ir 6 dalys (toliau – Reglamentas (ES) 1348/2014), 4 straipsnio 1 dalies b punkte, dėl elektros energijos, kurią pagamino atskiras ne didesnio kaip 10 MW pajėgumo gamybos vienetas arba ne didesnio kaip 10 MW bendro pajėgumo gamybos vienetai, fizinio tiekimo ir norintiems parduoti elektros energiją vartotojams, nepriskirtiems aktyviajam vartotojui, kurį sudaro grupė vartotojų, leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą nereikalingas. 
+211. Leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą išduodamas šio įstatymo nustatyta tvarka ir sąlygomis asmenims, kurie atitinka visus šiuos reikalavimus: 
+
+
+1) turi šio įstatymo 463 straipsnyje nurodytą galiojantį prievolių įvykdymo užtikrinimą, jeigu elektros energija tiekiama buitiniams vartotojams;
+
+
+
+
+2) neturi pradelstų įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu. Laikoma, kad įsipareigojimai, susiję su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, yra vykdomi, jeigu neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų;
+
+
+
+
+3) asmeniui nėra pradėtų nemokumo, bankroto, reorganizavimo ir (ar) likvidavimo procedūrų;
+
+
+
+
+4) turi parengtą Tarybos nustatytos formos nepriklausomo tiekėjo veiklos rizikų valdymo planą;
+
+
+
+
+5) atitinka šio įstatymo 46 straipsnio 6 dalies 1 punkte nurodytą reikalavimą
+
+
 Papildyta straipsnio dalimi:
-Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
 
 
-212. Piliečių energetikos bendrijoms, norinčioms parduoti elektros energiją savo dalininkams ar nariams, taip pat piliečių energetikos bendrijoms, elektros energiją gaminančioms iš atsinaujinančių išteklių, leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą nereikalingas. Piliečių energetikos bendrijoms, sudarančioms sutartis, kaip nustatyta Reglamento (ES) 1348/2014 4 straipsnio 1 dalies b punkte, dėl elektros energijos, kurią pagamino atskiras ne didesnio kaip 10 MW pajėgumo gamybos vienetas arba ne didesnio kaip 10 MW bendro pajėgumo gamybos vienetai, fizinio tiekimo ir norinčioms parduoti elektros energiją vartotojams, kurie nėra tos piliečių energetikos bendrijos dalininkai ar nariai, leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą nereikalingas. 
+212. Šio straipsnio 211 dalies 1–5 punktuose nurodytų reikalavimų taikymo ir įvertinimo tvarka nustatoma šio įstatymo 9 straipsnio 3 dalies 2 punkte nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
+
+
+
+
+213. Aktyviesiems vartotojams, elektros energiją gaminantiems iš atsinaujinančių išteklių, leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą nereikalingas. Aktyviesiems vartotojams, sudarantiems sutartis, kaip nustatyta 2014 m. gruodžio 17 d. Komisijos įgyvendinimo reglamento (ES) 1348/2014 dėl duomenų teikimo, kuriuo įgyvendinamos Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo 8 straipsnio 2 ir 6 dalys (toliau – Reglamentas (ES) 1348/2014), 4 straipsnio 1 dalies b punkte, dėl elektros energijos, kurią pagamino atskiras ne didesnio kaip 10 MW pajėgumo gamybos vienetas arba ne didesnio kaip 10 MW bendro pajėgumo gamybos vienetai, fizinio tiekimo ir norintiems parduoti elektros energiją vartotojams, nepriskirtiems aktyviajam vartotojui, kurį sudaro grupė vartotojų, leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą nereikalingas. 
 Papildyta straipsnio dalimi:
 Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
+
+
+
+
+214. Piliečių energetikos bendrijoms, norinčioms parduoti elektros energiją savo dalininkams ar nariams, taip pat piliečių energetikos bendrijoms, elektros energiją gaminančioms iš atsinaujinančių išteklių, leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą nereikalingas. Piliečių energetikos bendrijoms, sudarančioms sutartis, kaip nustatyta Reglamento (ES) 1348/2014 4 straipsnio 1 dalies b punkte, dėl elektros energijos, kurią pagamino atskiras ne didesnio kaip 10 MW pajėgumo gamybos vienetas arba ne didesnio kaip 10 MW bendro pajėgumo gamybos vienetai, fizinio tiekimo ir norinčioms parduoti elektros energiją vartotojams, kurie nėra tos piliečių energetikos bendrijos dalininkai ar nariai, leidimas vykdyti nepriklausomo elektros energijos tiekimo veiklą nereikalingas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -2618,21 +2667,23 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 17 straipsnis. Veiklos elektros energetikos sektoriuje licencijų ir leidimų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
 
 
-1. Asmuo, siekiantis gauti veiklos elektros energetikos sektoriuje licenciją ar leidimą, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 ar 7 punkte nurodytą leidimą, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licencijas ar leidimus išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus ir (ar) informaciją. Asmuo, siekiantis įgyti leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą ar leidimą vykdyti nepriklausomo paklausos telkėjo veiklą, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia Tarybai atitikties šio įstatymo 16 straipsnio 21 dalyje nustatytiems reikalavimams deklaraciją (toliau – deklaracija). Ne vėliau kaip per 5 darbo dienas nuo asmens teisės vykdyti nepriklausomo elektros energijos tiekimo veiklą ar nuo asmens teisės vykdyti nepriklausomo paklausos telkėjo veiklą įgijimo dienos Taryba privalo patikrinti deklaracijoje pateiktą informaciją. 
+1. Asmuo, siekiantis gauti veiklos elektros energetikos sektoriuje licenciją ar leidimą, išskyrus šio įstatymo 16 straipsnio 1 dalies 7 punkte nurodytą leidimą, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licencijas ar leidimus išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus ir (ar) informaciją. Asmuo, siekiantis įgyti leidimą vykdyti nepriklausomo paklausos telkėjo veiklą, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia Tarybai atitikties šio įstatymo 16 straipsnio 21 dalyje nustatytiems reikalavimams deklaraciją (toliau – deklaracija). Ne vėliau kaip per 5 darbo dienas nuo asmens teisės vykdyti nepriklausomo paklausos telkėjo veiklą įgijimo dienos Taryba privalo patikrinti deklaracijoje pateiktą informaciją.
 Straipsnio dalies pakeitimai:
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
 
 
-2. Licencija ar leidimas, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 ar 7 punkte nurodytą leidimą, išduodami, tikslinami ir keičiami arba rašytinis motyvuotas atsisakymas išduoti, patikslinti ar pakeisti licenciją ar leidimą pateikiamas pareiškėjui ne vėliau kaip per 30 kalendorinių dienų nuo Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo bei visų reikalingų ir tinkamai įformintų dokumentų registravimo licencijas ar leidimus išduodančioje institucijoje dienos. Jeigu į tinkamai pateiktą prašymą išduoti, patikslinti ar pakeisti licenciją ar leidimą neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos ar leidimo išdavimo, patikslinimo ar pakeitimo.
+2. Licencija ar leidimas, išskyrus šio įstatymo 16 straipsnio 1 dalies 7 punkte nurodytą leidimą, išduodami, tikslinami ir keičiami arba rašytinis motyvuotas atsisakymas išduoti, patikslinti ar pakeisti licenciją ar leidimą pateikiamas pareiškėjui ne vėliau kaip per 30 kalendorinių dienų nuo Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo bei visų reikalingų ir tinkamai įformintų dokumentų registravimo licencijas ar leidimus išduodančioje institucijoje dienos. Jeigu į tinkamai pateiktą prašymą išduoti, patikslinti ar pakeisti licenciją ar leidimą neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas dėl licencijos ar leidimo išdavimo, patikslinimo ar pakeitimo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -2646,10 +2697,11 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-4. Už licencijuojamos veiklos ir leidimus turinčių asmenų veiklos sąlygų ir reikalavimų pažeidimus asmenys, turintys licencijas ir (ar) leidimus atitinkamai energetikos veiklai, įspėjami apie galimą licencijų ar leidimų galiojimo sustabdymą ar panaikinimą Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka. Licencijos ar leidimo galiojimas sustabdomas, galiojimo sustabdymas panaikinamas, licencijos ar leidimo galiojimas panaikinamas Energetikos įstatyme nustatyta tvarka. Leidimų, nurodytų šio įstatymo 16 straipsnio 1 dalies 1–5 ir 8 punktuose, keitimo, tikslinimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir leidimų galiojimo panaikinimo pagrindų taikymo tvarka nustatoma Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse.
+4. Už licencijuojamos veiklos ir leidimus turinčių asmenų veiklos sąlygų ir reikalavimų pažeidimus asmenys, turintys licencijas ir (ar) leidimus atitinkamai energetikos veiklai, įspėjami apie galimą licencijų ar leidimų galiojimo sustabdymą ar panaikinimą Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka. Licencijos ar leidimo galiojimas sustabdomas, galiojimo sustabdymas panaikinamas, licencijos ar leidimo galiojimas panaikinamas Energetikos įstatyme nustatyta tvarka. Leidimų, nurodytų šio įstatymo 16 straipsnio 1 dalies 1–6 ir 8 punktuose, keitimo, tikslinimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir leidimų galiojimo panaikinimo pagrindų taikymo tvarka nustatoma Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -2934,10 +2986,11 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-2. Gamintojai, išskyrus gamintojus, elektros energiją gaminančius iš atsinaujinančių išteklių, norintys parduoti elektros energiją tiesiogiai vartotojams, privalo gauti leidimą verstis nepriklausomo elektros energijos tiekimo veikla, kaip nurodyta šio įstatymo 16 straipsnio 21 dalyje. Gamintojams, elektros energiją gaminantiems iš atsinaujinančių išteklių, elektros energiją parduodantiems tiesiogiai vartotojui, taikomos nepriklausomam elektros energijos tiekėjui nustatytos sąlygos ir reikalavimai, išskyrus reikalavimus, nustatytus šio įstatymo 46 straipsnyje. 
+2. Gamintojai, išskyrus gamintojus, elektros energiją gaminančius iš atsinaujinančių išteklių, norintys parduoti elektros energiją tiesiogiai vartotojams, privalo gauti leidimą verstis nepriklausomo elektros energijos tiekimo veikla, kaip nurodyta šio įstatymo 16 straipsnio 211 dalyje. Gamintojams, elektros energiją gaminantiems iš atsinaujinančių išteklių, elektros energiją parduodantiems tiesiogiai vartotojui, taikomos nepriklausomam elektros energijos tiekėjui nustatytos sąlygos ir reikalavimai, išskyrus reikalavimus, nustatytus šio įstatymo 46 ir 463 straipsniuose.
 Straipsnio dalies pakeitimai:
 Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -5312,7 +5365,10 @@ Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
 46 straipsnis. Nepriklausomas elektros energijos tiekimas
 
 
-1. Jeigu yra rašytinis ar elektroninių ryšių priemonėmis pateiktas vartotojo sutikimas, nepriklausomas tiekėjas turi teisę iš skirstomųjų tinklų operatoriaus gauti vartotojo elektros energijos suvartojimo duomenis, kurie naudojami pasiūlymui dėl elektros energijos tiekimo parengti ir pateikti vartotojui. Vartotojo elektros energijos suvartojimo duomenų pateikimo nepriklausomam tiekėjui tvarka nustatoma Elektros energijos tiekimo ir naudojimo taisyklėse. Nepriklausomas tiekėjas jį pasirinkusiems vartotojams elektros energiją tiekia pagal sutartis. Vartotojo prašymu nepriklausomas tiekėjas ne vėliau kaip per 10 dienų nuo vartotojo prašymo pateikimo dienos privalo parengti ir pateikti elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties projektą. Šios sutartys sudaromos raštu ar, jeigu yra techninės galimybės, elektroninių ryšių priemonėmis (pasirašomos saugiu elektroniniu parašu, per elektroninės bankininkystės sistemą ar naudojant kitas technologijas), jeigu jomis galima tinkamai identifikuoti sutartį sudarantį asmenį. Šioje dalyje nurodytas sutartis gali būti siūloma sudaryti ir nuotoliniu būdu telefonu. Nuotolinių sutarčių telefonu sudarymo tvarka ir kiti reikalavimai tokioms sutartims nustatyti Lietuvos Respublikos civilinio kodekso 6.2287, 6.2288, 6.22810 ir 6.22811 straipsniuose. 
+1. Jeigu yra rašytinis ar elektroninių ryšių priemonėmis pateiktas vartotojo sutikimas, nepriklausomas tiekėjas turi teisę iš skirstomųjų tinklų operatoriaus gauti vartotojo elektros energijos suvartojimo duomenis, kurie naudojami pasiūlymams dėl elektros energijos tiekimo parengti ir pateikti vartotojui. Vartotojo elektros energijos suvartojimo duomenų pateikimo nepriklausomam tiekėjui tvarka nustatoma Elektros energijos tiekimo ir naudojimo taisyklėse. Nepriklausomas tiekėjas jį pasirinkusiems vartotojams elektros energiją tiekia pagal sutartis. Vartotojo prašymu nepriklausomas tiekėjas ne vėliau kaip per 10 dienų nuo vartotojo prašymo pateikimo dienos privalo parengti ir pateikti elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties projektą. Šios sutartys sudaromos raštu ar, jeigu yra techninės galimybės, elektroninių ryšių priemonėmis (pasirašomos saugiu elektroniniu parašu, per elektroninės bankininkystės sistemą ar naudojant kitas technologijas), jeigu jomis galima tinkamai identifikuoti sutartį sudarantį asmenį. Šioje dalyje nurodytas sutartis gali būti siūloma sudaryti ir nuotoliniu būdu telefonu. Nuotolinių sutarčių telefonu sudarymo tvarka ir kiti reikalavimai tokioms sutartims nustatyti Civilinio kodekso 6.2287, 6.2288, 6.22810 ir 6.22811 straipsniuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
 
 
 
@@ -5335,6 +5391,88 @@ Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
 5. Vartotojai, kurių įrenginiai prijungti prie perdavimo tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo perdavimo sistemos operatoriui apmokėti už elektros energijos persiuntimą perdavimo tinklais, įskaitant už papildomų paslaugų įsigijimo dedamąją prie perdavimo paslaugos kainos, taip pat už viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Vartotojas, gavęs perdavimo sistemos operatoriaus ir nepriklausomo tiekėjo sutikimą ir būdamas atsakingas perdavimo sistemos operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
+ 
+
+
+
+
+6. Nepriklausomas tiekėjas privalo: 
+
+
+1) užtikrinti, kad nepriklausomo tiekėjo – akcinės bendrovės ar uždarosios akcinės bendrovės – nuosavas kapitalas būtų ne mažesnis negu 1/2 įstatuose nurodyto įstatinio kapitalo dydžio. Jeigu nepriklausomo tiekėjo – juridinio asmens – teisinė forma kitokia negu akcinė bendrovė ar uždaroji akcinė bendrovė, visi nepriklausomo tiekėjo – juridinio asmens – turtiniai įsipareigojimai negali viršyti viso juridinio asmens turto. Šio punkto reikalavimas netaikomas nepriklausomam tiekėjui – fiziniam asmeniui;
+
+
+
+
+2) ne vėliau kaip per 20 darbo dienų nuo kiekvieno ketvirčio pabaigos pateikti Tarybai jos nustatytos formos ataskaitą, kurioje pateikiami duomenys, reikalingi nepriklausomo tiekėjo atitikčiai šios dalies 1 punkte nustatytam reikalavimui įvertinti;
+
+
+
+
+3) jeigu elektros energija tiekiama buitiniams vartotojams, pasibaigus kiekvienam mėnesiui, ne vėliau kaip per 20 darbo dienų nuo paskutinės mėnesio dienos, Tarybai pateikti nepriklausomo tiekėjo visų įvykdytų įsipareigojimų per praėjusius 3 mėnesius pajamų sumą pagal visas nepriklausomo tiekėjo su buitiniais vartotojais sudarytas elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartis pagrindžiančią informaciją;
+
+
+
+
+4) jeigu elektros energija tiekiama buitiniams vartotojams, likus ne mažiau kaip 3 darbo dienoms iki turimo prievolių įvykdymo užtikrinimo galiojimo pabaigos, pateikti Tarybai naują nepriklausomo tiekėjo prievolių įvykdymo užtikrinimą ar esamo prievolių įvykdymo užtikrinimo galiojimo termino ir (ar) sumos patikslinimą ir prievolių įvykdymo užtikrinime nurodytą prievolių įvykdymo užtikrinimo sumą pagrindžiančius dokumentus;
+
+
+
+
+5) užtikrinti, kad vartotojai būtų informuojami ir konsultuojami bei jų kreipimaisi nagrinėjami laikantis šiame įstatyme ir kituose energetikos sektoriaus teisės aktuose, reglamentuojančiuose nepriklausomo tiekėjo veiklą, nustatytų reikalavimų;
+
+
+
+
+6) jeigu elektros energija tiekiama buitiniams vartotojams, skelbti savo interneto svetainėje informaciją apie turimą prievolių įvykdymo užtikrinimo sumą ir šios sumos pokyčius;
+
+
+
+
+7) ne vėliau kaip per 2 darbo dienas pranešti Tarybai apie įsiteisėjusią teismo nutartį iškelti bankroto bylą ar apie priimtą kreditorių susirinkimo nutarimą dėl bankroto procedūros atlikimo ne teismo tvarka.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
+
+
+
+
+7. Nepriklausomas tiekėjas, vykdydamas nepriklausomo elektros energijos tiekimo veiklą, Tarybos patvirtintų nepriklausomo tiekėjo veiklos rizikų valdymo gairėse nustatyta tvarka rengia ir Tarybai teikia nepriklausomo tiekėjo veiklos rizikų valdymo planą. Nepriklausomo tiekėjo veiklos rizikų valdymo plano tikslas – nustatyti, įvertinti nepriklausomo tiekėjo veiklos rizikas, numatyti rizikų valdymo priemones ir nepriklausomą elektros energijos tiekimo veiklą vykdančio asmens pasirengimą valdyti veiklos rizikas. Nepriklausomo tiekėjo veiklos rizikų valdymo planas atnaujinamas kartą per kalendorinius metus, išskyrus šio straipsnio 8 dalyje nurodytus atvejus, ir teikiamas Tarybai.
+Papildyta straipsnio dalimi:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
+
+
+
+
+8. Taryba, pagal nepriklausomo tiekėjo veiklos rizikų valdymo plane pateiktą informaciją nustačiusi nepriklausomo tiekėjo veiklos rizikas, priima vieną iš šių sprendimų:
+
+
+1) nurodo, kad nepriklausomas tiekėjas pagerintų nepriklausomo tiekėjo veiklos rizikų valdymo procesus;
+
+
+
+
+2) nurodo, kad nepriklausomas tiekėjas patikslintų nepriklausomo tiekėjo veiklos rizikų valdymo planą;
+
+
+
+
+3) nurodo, kad nepriklausomas tiekėjas pašalintų nepriklausomo tiekėjo veiklos trūkumus, sukėlusius nepriklausomo tiekėjo veiklos rizikas.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
+
+
+
+
+9. Nepriklausomas tiekėjas Tarybos nustatyta tvarka informuoja Tarybą apie šio straipsnio 8 dalyje nurodytų Tarybos priimtų sprendimų įgyvendinimą.
+Papildyta straipsnio dalimi:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -5419,6 +5557,119 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 
 Papildyta straipsniu:
 Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
+ 
+
+
+
+
+463 straipsnis. Nepriklausomo tiekėjo prievolių įvykdymo užtikrinimas, kai elektros energija tiekiama buitiniams vartotojams
+
+
+1. Nepriklausomas tiekėjas privalo turėti galiojantį prievolių įvykdymo užtikrinimą, kai elektros energija tiekiama buitiniams vartotojams. Pagal nepriklausomo tiekėjo prievolių įvykdymo užtikrinimą finansų įstaiga įsipareigoja sumokėti Tarybai jos reikalaujamą pagrįstą sumą, neviršijančią prievolių įvykdymo užtikrinime nurodytos sumos, buitinių vartotojų nuostoliams kompensuoti, jeigu atsirado bent viena iš šio straipsnio 7 dalyje nurodytų aplinkybių.
+
+
+
+
+2. Nepriklausomo tiekėjo prievolių įvykdymo užtikrinimo trumpiausias galiojimo terminas – 3 mėnesiai.
+
+
+
+
+3. Prievolių įvykdymo užtikrinimo panaudojimo ir administravimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+4. Nepriklausomas tiekėjas užtikrina, kad jo turimas prievolių įvykdymo užtikrinimas atitinka šioje dalyje nustatytus reikalavimus. Nepriklausomo tiekėjo prievolių įvykdymo užtikrinimo suma turi būti didžiausia suma iš šių:
+
+
+1) 2 000 eurų;
+
+
+
+
+2) 7 procentai nepriklausomo tiekėjo visų įvykdytų įsipareigojimų per praėjusius 3 mėnesius pajamų sumos pagal visas nepriklausomo tiekėjo su buitiniais vartotojais sudarytas elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartis. Apskaičiuojant šią pajamų sumą, nepriklausomo tiekėjo taikyta galutinė elektros energijos kaina buitiniams vartotojams (su pridėtinės vertės mokesčiu) padauginama iš šių vartotojų suvartoto elektros energijos kiekio.
+
+
+
+
+
+
+5. Nepriklausomas tiekėjas privalo užtikrinti, kad prievolių įvykdymo užtikrinimo suma netaptų mažesnė, negu nustatyta šio straipsnio 4 dalyje. Jeigu nepriklausomo tiekėjo prievolių įvykdymo užtikrinimo suma tampa mažesnė, negu nustatyta šio straipsnio 4 dalyje, nepriklausomas tiekėjas privalo nedelsdamas, ne vėliau kaip per vieną darbo dieną nuo šioje dalyje numatytos aplinkybės atsiradimo, kreiptis į finansų įstaigą dėl prievolių įvykdymo užtikrinimo sumos patikslinimo. Finansų įstaiga ne vėliau kaip per 15 darbo dienų nuo nepriklausomo tiekėjo kreipimosi dienos priima sprendimą dėl prievolių įvykdymo užtikrinimo sumos patikslinimo. Nepriklausomas tiekėjas ne vėliau kaip per 2 darbo dienas nuo finansų įstaigos sprendimo dėl prievolių įvykdymo užtikrinimo sumos patikslinimo gavimo dienos privalo pateikti Tarybai prievolių įvykdymo užtikrinimą ir prievolių įvykdymo užtikrinime nurodytą prievolių įvykdymo užtikrinimo sumą pagrindžiančius dokumentus.
+
+
+
+
+6. Taryba, šio įstatymo 16 straipsnio 211 dalies 1 punkte, 46 straipsnio 6 dalies 3 ir 4 punktuose, 463 straipsnio 5 dalyje nurodytais atvejais Tarybos nustatyta tvarka, tikrina, ar nepriklausomo tiekėjo prievolių įvykdymo užtikrinime nurodyta prievolių įvykdymo užtikrinimo suma apskaičiuota pagal šio straipsnio nuostatas.
+
+
+
+
+7. Taryba, veikianti kaip naudos gavėja, turi teisę gauti prievolių įvykdymo užtikrinimo sumą dėl bent vienos iš nurodytų aplinkybių, atsiradusių prievolių įvykdymo užtikrinimo galiojimo laikotarpiu:
+
+
+1) nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su buitiniais vartotojais sąlygomis, nutraukia veiklą arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, išskyrus atvejus, jeigu nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su buitiniais vartotojais sąlygomis arba vienašališkai nutraukia elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį dėl to, kad buitinis vartotojas nevykdo ar netinkamai vykdo sutartinius įpareigojimus ir tai yra esminis sutarties pažeidimas;
+
+
+
+
+2) nepriklausomas tiekėjas tampa nemokus;
+
+
+
+
+3) nepriklausomam tiekėjui iškeliama bankroto byla, pradedamas bankroto procesas ne teismo tvarka arba pradedama likvidavimo procedūra, nepriklausomo tiekėjo – fizinio asmens – mirties atveju.
+
+
+
+
+
+
+8. Prievolių įvykdymo užtikrinimas neapima:
+
+
+1) žalos, kurią buitinis vartotojas patyrė dėl netinkamos nepriklausomo tiekėjo suteiktų paslaugų kokybės;
+
+
+
+
+2) neturtinės žalos, kurią patyrė buitinis vartotojas;
+
+
+
+
+3) žalos, kurią patyrė buitinis vartotojas dėl nepriklausomo tiekėjų veiksmų, kuriuos nulėmė nenugalimos jėgos aplinkybės (force majeure), kaip tai suprantama pagal Civilinio kodekso 6.212 straipsnio 1 dalį;
+
+
+
+
+4) žalos, kurią buitinis vartotojas patyrė dėl nepriklausomo tiekėjo nesuteiktų į elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį neįtrauktų paslaugų, kurios nėra nepriklausomas elektros energijos tiekimas.
+
+
+
+
+
+
+9. Taryba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka skelbia informaciją apie buitinių vartotojų prašymų dėl nuostolių kompensavimo pateikimą ir nagrinėjimą. Buitinis vartotojas ne vėliau kaip per 3 mėnesius nuo Tarybos informacijos apie prašymų dėl nuostolių kompensavimo pateikimą ir nagrinėjimą paskelbimo dienos turi kreiptis į Tarybą. Prašymai dėl nuostolių kompensavimo nagrinėjami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+
+
+
+
+10. Prievolių įvykdymo užtikrinimo suma Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka proporcingai pagal elektros energijos suvartojimą padalijama visiems į Tarybą besikreipusiems buitiniams vartotojams ir Tarybos išmokama besikreipusiems buitiniams vartotojams ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 11 dalyje nustatyta tvarka išmokos gavimo dienos Taryboje. 
+
+
+
+
+11. Taryba, nedelsdama, ne vėliau kaip per 5 darbo dienas nuo visų buitinių vartotojų prašymų išnagrinėjimo, finansų įstaigai pateikia rašytinį reikalavimą ir jį patvirtinančius dokumentus dėl prievolių įvykdymo užtikrinime nurodytos sumos. Finansų įstaiga prievolių įvykdymo užtikrinime nurodytą sumą, skirtą buitinio vartotojo nuostoliams kompensuoti, turi išmokėti Tarybai ne vėliau kaip per 10 darbo dienų nuo Tarybos rašytinio reikalavimo ir jį patvirtinančių dokumentų gavimo dienos. 
+
+
+
+
+12. Finansų įstaiga prievolių įvykdymo užtikrinime nurodytos sumos turi teisę nemokėti, kai patirtus nuostolius buitiniams vartotojams visiškai kompensuoja nepriklausomas tiekėjas, arba išmoką sumažinti proporcingai nepriklausomo tiekėjo buitiniams vartotojams atlygintų nuostolių sumos dydžiui.
+
+
+Papildyta straipsniu:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -6140,7 +6391,10 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-3. Vartotojai turi būti raštu ir (ar) elektroninių ryšių priemonėmis informuojami apie elektros energetikos įmonės ketinimą pakeisti sutarties sąlygas. Teikiant informaciją apie šį ketinimą, turi būti pranešama apie vartotojų teisę nepritarti sutarties sąlygų pakeitimui ir (ar) nutraukti sutartį.
+3. Vartotojai turi būti raštu ir (ar) elektroninių ryšių priemonėmis informuojami apie elektros energetikos įmonės ketinimą pakeisti sutarties sąlygas. Teikiant informaciją apie šį ketinimą, turi būti pranešama apie vartotojų teisę nepritarti sutarties sąlygų pakeitimui ir, vartotojui neišreiškus savo valios dėl energetikos įmonės siūlomų sutarties sąlygų pakeitimo, sutartis laikoma nepakeista.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
 
 
 
@@ -9348,7 +9602,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-4. Kilnojamųjų elektros energetikos objektų ir įrenginių projektuotojas turi ir kitų teisių ir pareigų, numatytų Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) ir kituose įstatymuose. 
+4. Kilnojamųjų elektros energetikos objektų ir įrenginių projektuotojas turi ir kitų teisių ir pareigų, numatytų Civiliniame kodekse ir kituose įstatymuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
 
 
 Papildyta straipsniu:
