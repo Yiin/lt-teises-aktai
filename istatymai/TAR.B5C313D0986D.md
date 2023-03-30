@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b5c313d0986d11eb9fecb5ecd3bd711c"
 
 # Lietuvos Respublikos alternatyviųjų degalų įstatymas
 
-Suvestinė redakcija nuo 2022-07-08 iki 2023-03-29
+Suvestinė redakcija nuo 2023-03-30 iki 2023-06-30
  
 Įstatymas paskelbtas: TAR 2021-04-08, i. k. 2021-07413
  
@@ -425,7 +425,17 @@ Susisiekimo ministerija:
 
 
 
-4) atlieka kitas šio įstatymo nustatytas funkcijas.
+4) tvirtina mažos taršos zonų nustatymo rekomendacijas; 
+Papildyta straipsnio punktu:
+Nr. XIV-1825, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05496
+ 
+
+
+
+
+5) atlieka kitas šio įstatymo nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1825, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05496
  
 
 
@@ -1558,7 +1568,10 @@ ALTERNATYVIŲJŲ DEGALŲ NAUDOJIMAS TRANSPORTE
 
 
 
-15. Savivaldybių tarybos nustato ir pagal poreikį periodiškai atnaujina mažos taršos transporto zonas miestuose, atsižvelgdamos į darnaus judumo mieste planus ir valstybinio aplinkos oro monitoringo ir (ar) savivaldybės aplinkos oro monitoringo duomenis savivaldybių teritorijose. 
+15. Savivaldybių tarybos nustato ir pagal poreikį periodiškai atnaujina mažos taršos zonas miestuose, turinčiuose kurorto arba kurortinės teritorijos statusą ar daugiau negu 50 tūkst. gyventojų, atsižvelgdamos į mažos taršos zonų nustatymo rekomendacijas, valstybinio aplinkos oro monitoringo ir (ar) savivaldybės aplinkos oro monitoringo duomenis savivaldybių teritorijose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1825, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05496
+ 
 
 
 
@@ -2173,7 +2186,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-7. Savivaldybių tarybos ne vėliau kaip iki 2023 m. sausio 1 d. šio įstatymo 23 straipsnio 15 dalyje nustatyta tvarka nustato mažos taršos zonas miestuose. 
+7. Savivaldybių tarybos ne vėliau kaip iki 2025 m. sausio 1 d. nustato šio įstatymo 23 straipsnio 15 dalyje nustatyta tvarka mažos taršos zonas miestuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1825, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05496
+ 
 
 
 
@@ -2287,5 +2303,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
 Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 15, 18 ir 24 straipsnių pakeitimo įstatymas
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1825, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05496
+Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 6, 23 ir 35 straipsnių pakeitimo įstatymas
  
-part_3558d25de4dd45eab2685ce3631c2193_end
+ 
+part_0ee8a118bece4263944b7ecf49392568_end
