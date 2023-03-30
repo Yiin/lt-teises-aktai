@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 
 # Lietuvos Respublikos veterinarijos įstatymas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2023-03-29
+Suvestinė redakcija nuo 2023-03-30 iki 2024-07-08
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
  
@@ -54,7 +54,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Gyvūnų laikymo vieta – pastatas  arba tuo atveju, kai gyvūnai laikomi lauke, bet kuri vieta, kur gyvūnai yra laikomi, auginami ir prižiūrimi.
+2. Gyvūnų laikymo vieta – pastatas  arba tuo atveju, kai gyvūnai laikomi lauke, bet kuri vieta, kur gyvūnai yra laikomi, auginami ir prižiūrimi.
 
 
 
@@ -421,33 +421,30 @@ Nr. XIII-3206, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15399
 
 
 
-8 straipsnis. Valstybinės maisto ir veterinarijos tarnybos ir jai pavaldžių įstaigų pareigūnai ir darbuotojai
+8 straipsnis. Valstybinės maisto ir veterinarijos tarnybos vadovas ir vyriausiasis veterinaras 
 
 
-1. Valstybinės maisto ir veterinarijos tarnybos vadovas yra valstybės pareigūnas, kurį žemės ūkio ministro teikimu ketveriems metams priima į pareigas ir iš jų atleidžia Vyriausybė.
-
-
-
-
-2. Asmuo, priimamas į Valstybinės maisto ir veterinarijos tarnybos vadovo pareigas, turi turėti suteiktą veterinarijos gydytojo kvalifikaciją ir atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas. Valstybinės maisto ir veterinarijos tarnybos vadovas gali būti skiriamas eiti pareigas ne daugiau kaip dvi kadencijas iš eilės. Valstybinės maisto ir veterinarijos tarnybos vadovas yra atsakingas ir atskaitingas Vyriausybei ir žemės ūkio ministrui.
+1. Valstybinės maisto ir veterinarijos tarnybos vadovas priimamas į pareigas ir atleidžiamas iš jų Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka.
 
 
 
 
-3. Valstybinės maisto ir veterinarijos tarnybos vadovo pavaduotojus valstybės tarnybą reglamentuojančių teisės aktų nustatyta tvarka priima į pareigas ir iš jų atleidžia Valstybinės maisto ir veterinarijos tarnybos vadovas.
+2. Valstybinės maisto ir veterinarijos tarnybos vadovas yra atsakingas ir atskaitingas Vyriausybei ir žemės ūkio ministrui.
 
 
 
 
-4. Kitus Valstybinės maisto ir veterinarijos tarnybos pareigūnus ir darbuotojus teisės aktų nustatyta tvarka priima į pareigas ir iš jų atleidžia Valstybinės maisto ir veterinarijos tarnybos vadovas.
+3. Lietuvos Respublikos vyriausiasis veterinaras – Valstybinės maisto ir veterinarijos tarnybos vadovo į pareigas priimamas valstybės tarnautojas, atsakingas už veterinarijos politikos įgyvendinimą.
 
 
 
 
-5. Valstybinei maisto ir veterinarijos tarnybai pavaldžių įstaigų vadovus ir jų pavaduotojus priima į pareigas ir iš jų atleidžia Valstybinės maisto ir veterinarijos tarnybos vadovas.
+4. Asmuo, priimamas į vyriausiojo veterinaro pareigas, turi turėti veterinarijos gydytojo kvalifikaciją ir atitikti pareigybės aprašyme nustatytus specialiuosius reikalavimus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1824, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05490
  
-
-
 
 
 
@@ -1145,8 +1142,6 @@ Nr. I-2110
 
 
 
- 
-
  
 Lietuvos Respublikos 
 veterinarijos įstatymo
@@ -1237,5 +1232,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
 Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 17 straipsnių ir priedo pakeitimo įstatymas
  
- 
-part_3fb0710cb00b41e9be94b8c71cffb4d9_end
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1824, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05490
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 8 straipsnio pakeitimo įstatymas
