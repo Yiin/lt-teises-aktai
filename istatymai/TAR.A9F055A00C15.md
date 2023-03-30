@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a9f055a00c1511edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 2, 16, 20, 24, 25, 30-2, 35, 38, 41, 42, 43, 44, 45 ir 47 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2023-03-30
+ 
+Įstatymas paskelbtas: TAR 2022-07-25, i. k. 2022-16117
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 UŽIMTUMO ĮSTATYMO NR. XII-2470 2, 16, 20, 24, 25, 302, 35, 38, 41, 42, 43, 44, 45 IR 47 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -1077,7 +1084,9 @@ Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-7. Darbdavių pasiūlymai (paraiškos, prašymai) dėl remiamojo įdarbinimo priemonių, darbo vietų steigimo (pritaikymo) subsidijavimo arba įdarbinimo pagal pameistrystės darbo sutartį, pateikti iki 2022 m. gruodžio 31 d., baigiami nagrinėti, sprendimai dėl subsidijų skyrimo priimami vadovaujantis iki 2022 m. gruodžio 31 d. galiojusiomis Užimtumo įstatymo ir jo įgyvendinamųjų teisės aktų nuostatomis, o darbo vietų steigimo (pritaikymo), įdarbinimo subsidijuojant vykdymo ir finansavimo, darbo įgūdžių įgijimo rėmimo ir finansavimo sutartims, sudarytoms iki 2022 m. gruodžio 31 d., taikomos Užimtumo įstatymo ir jo įgyvendinamųjų teisės aktų nuostatos, galiojusios sudarant sutartis.
+7. Darbdavių pasiūlymai (paraiškos, prašymai) dėl remiamojo įdarbinimo priemonių, darbo vietų steigimo (pritaikymo) subsidijavimo arba įdarbinimo pagal pameistrystės darbo sutartį, pateikti iki 2022 m. gruodžio 31 d., baigiami nagrinėti, sprendimai dėl subsidijų skyrimo priimami vadovaujantis iki 2022 m. gruodžio 31 d. galiojusiomis Užimtumo įstatymo ir jo įgyvendinamųjų teisės aktų nuostatomis, o darbo vietų steigimo (pritaikymo), įdarbinimo subsidijuojant vykdymo ir finansavimo, darbo įgūdžių įgijimo rėmimo ir finansavimo sutartims, sudarytoms iki 2022 m. gruodžio 31 d., taikomos Užimtumo įstatymo ir jo įgyvendinamųjų teisės aktų nuostatos, galiojusios sudarant sutartis, išskyrus atvejį, kai įdarbinimo subsidijuojant vykdymo ir finansavimo sutartyje numatyta nutraukti subsidijos darbo užmokesčiui mokėjimą įdarbintam asmeniui pradėjus dirbti savarankiškai, – tokiu atveju šios subsidijos mokėjimas nenutraukiamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1809, 2023-03-21, paskelbta TAR 2023-03-29, i. k. 2023-05484
  
 
 
@@ -1092,4 +1101,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1809, 2023-03-21, paskelbta TAR 2023-03-29, i. k. 2023-05484
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 2, 16, 20, 24, 25, 30-2, 35, 38, 41, 42, 43, 44, 45 ir 47 straipsnių pakeitimo įstatymo Nr. XIV-1390 15 straipsnio pakeitimo įstatymas
+ 
+ 
 part_046166294ad1405fb49fcb9ab2d89995_end
