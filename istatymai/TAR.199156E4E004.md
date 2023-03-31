@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-30
+Suvestinė redakcija nuo 2023-03-31 iki 2023-03-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -1552,7 +1552,10 @@ Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
 
 
 
-3. Asmeninis asistentas, pradėdamas teikti asmeninio asistento paslaugas, turi būti išklausęs įžanginius individualios priežiūros personalo mokymus, jeigu neturi Lietuvos Respublikos socialinių paslaugų įstatymo 20 straipsnio 3 dalyje nustatyto išsilavinimo arba nėra įgijęs socialinio darbuotojo padėjėjo, lankomosios priežiūros ar asmeninio asistento kvalifikacijos pagal socialinių darbuotojų padėjėjo, lankomosios priežiūros ar asmeninio asistento profesinio mokymo programą. Įžanginiai individualios priežiūros personalo mokymai vykdomi pagal individualios priežiūros personalo profesinės kompetencijos tobulinimo programas socialinės apsaugos ir darbo ministro nustatyta tvarka.
+3. Asmeninis asistentas, pradėdamas teikti asmeninio asistento paslaugas, turi būti išklausęs įžanginius individualios priežiūros personalo mokymus, jeigu neturi Lietuvos Respublikos socialinių paslaugų įstatyme nustatyto išsilavinimo arba nėra įgijęs socialinio darbuotojo padėjėjo, lankomosios priežiūros ar asmeninio asistento kvalifikacijos pagal socialinių darbuotojų padėjėjo, lankomosios priežiūros ar asmeninio asistento profesinio mokymo programą. Įžanginiai individualios priežiūros personalo mokymai vykdomi pagal individualios priežiūros personalo profesinės kompetencijos tobulinimo programas socialinės apsaugos ir darbo ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1840, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05734
+ 
 
 
 
@@ -1562,9 +1565,11 @@ Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
 
 
 
-5. Neįgaliojo mokėjimo už asmeninę pagalbą dydis negali viršyti 20 procentų asmeninės pagalbos teikimo išlaidų dydžio ir negali būti didesnis negu 20 procentų neįgaliojo pajamų, nustatomų ir apskaičiuojamų vadovaujantis Socialinių paslaugų įstatymo 30 straipsniu. Asmeninė pagalba teikiama nemokamai neįgaliajam, kurio pajamos yra mažesnės negu 2 valstybės remiamų pajamų dydžiai. Neįgaliojo mokėjimo už asmeninę pagalbą dydį nustato savivaldybės vykdomoji institucija ar jos įgaliotas asmuo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+5. Neįgaliojo mokėjimo už asmeninę pagalbą dydis negali viršyti 20 procentų asmeninės pagalbos teikimo išlaidų dydžio ir negali būti didesnis negu 20 procentų neįgaliojo pajamų, nustatomų ir apskaičiuojamų vadovaujantis Socialinių paslaugų įstatymo 30 straipsniu. Asmeninė pagalba teikiama nemokamai neįgaliajam, kurio pajamos yra mažesnės negu 2 valstybės remiamų pajamų dydžiai. Neįgaliojo mokėjimo už asmeninę pagalbą dydį nustato savivaldybės administracija Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+TAR pastaba. 5 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
+Nr. XIV-1840, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05734
  
 
 
@@ -1953,5 +1958,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1395, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16122
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 16, 18 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-3 straipsniu įstatymas
  
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1840, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05734
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 11 ir 25-1 straipsnių pakeitimo įstatymas
  
-part_87ceb73cf54c431da29ab1ff276b11d3_end
+ 
+part_a6a0fa6e5e2643618f7608bb32fde81c_end
