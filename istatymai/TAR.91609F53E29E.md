@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-30
+Suvestinė redakcija nuo 2023-03-31 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
+ 
+TAR pastaba. Įstatymo Nr. XIV-1841 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos socialinių paslaugų įstatymo nuostatos. Iki šio įstatymo taikymo dienos pradėtos su socialinių paslaugų teikimu ir organizavimu susijusios procedūros baigiamos pagal Socialinių paslaugų įstatymo nuostatas, galiojusias iki šio įstatymo įsigaliojimo dienos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 SOCIALINIŲ PASLAUGŲ
@@ -800,14 +805,14 @@ Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
 
 
 
-141 straipsnis. Lietuvos statistikos departamento kompetencija
+141 straipsnis. Valstybės duomenų agentūros kompetencija
 
 
-Lietuvos statistikos departamentas kiekvienais metais pagal suderintą su Socialinės apsaugos ir darbo ministerija statistinių rodiklių sąrašą atlieka statistinį socialinių paslaugų tyrimą, rengia ir skelbia statistinę informaciją apie socialines paslaugas. 
+Valstybės duomenų agentūra kiekvienais metais pagal suderintą su Socialinės apsaugos ir darbo ministerija statistinių rodiklių sąrašą atlieka statistinį socialinių paslaugų tyrimą, rengia ir skelbia statistinę informaciją apie socialines paslaugas.
 
 
-Papildyta straipsniu:
-Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Straipsnio pakeitimai:
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
  
 
 
@@ -2520,7 +2525,10 @@ Nr. XIII-652, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16002
 
 
 
-15) netekto darbingumo periodinės kompensacijos, mokamos pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą arba Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimo profesine liga laikinąjį įstatymą;
+15) netekto darbingumo periodinės kompensacijos, mokamos pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą arba Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinąjį įstatymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
+ 
 
 
 
@@ -3152,5 +3160,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 23, 24 ir 34 straipsnių pakeitimo įstatymas
  
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir 35 straipsnių pakeitimo įstatymas
  
-part_af4b9d6ed9d640649b1243c8b4061e57_end
+ 
+part_d3c29b706220483a86224d2d62362bc9_end
