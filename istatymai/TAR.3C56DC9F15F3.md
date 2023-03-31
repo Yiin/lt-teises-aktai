@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3C56DC9F15F3"
 
 # Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)
 
-Suvestinė redakcija nuo 2015-07-01 iki 2023-03-30
+Suvestinė redakcija nuo 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1162, i. k. 0941010ISTA000I-576
  
@@ -131,11 +131,12 @@ Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
 
 
 
-8 straipsnis. Vienkartinės kompensacijos išmokamos iš valstybės biudžeto asmenims, nuolat gyvenantiems Lietuvos Respublikoje, jeigu sužaloti ar žuvę asmenys į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje buvo pašaukti iš Lietuvos teritorijos. Kompensacijas skiria ir moka šiame įstatyme nurodytų asmenų gyvenamosios vietos savivaldybės. Savivaldybėms skiriami 2 procentai nuo kompensacijoms mokėti skirtų lėšų administravimo išlaidoms padengti. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. 
+8 straipsnis. Vienkartinės kompensacijos mokamos, jų skyrimo ir mokėjimo administravimo išlaidos apmokamos iš Lietuvos Respublikos valstybės biudžeto lėšų. Vienkartines kompensacijas šiame įstatyme nustatytas sąlygas atitinkantiems asmenims, nuolat gyvenantiems Lietuvos Respublikoje, jeigu sužaloti ar žuvę asmenys į būtinąją karinę tarnybą ar karinius apmokymus sovietinėje armijoje buvo pašaukti iš Lietuvos teritorijos, skiria ir moka šių asmenų gyvenamosios vietos savivaldybės administracija. Savivaldybių administracijoms vienkartinių kompensacijų skyrimo ir mokėjimo administravimo išlaidoms padengti skiriami 2 procentai nuo šioms kompensacijoms mokėti skirtų lėšų. Vienkartinių kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 Straipsnio pakeitimai:
 Nr. VIII-241, 1997-06-05, Žin., 1997, Nr. 63-1467 (1997-07-02), i. k. 0971010ISTAVIII-241
 Nr. IX-1984, 2004-01-27, Žin., 2004, Nr. 25-755 (2004-02-14), i. k. 1041010ISTA0IX-1984
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
+Nr. XIV-1850, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05753
  
 
 
@@ -212,3 +213,8 @@ Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiem
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1627, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06450
 Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22–1991 12 31)“ Nr. I-576 2 ir 6 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1850, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05753
+Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945-07-22 – 1991-12-31)“ Nr. I-576 8 straipsnio pakeitimo įstatymas
