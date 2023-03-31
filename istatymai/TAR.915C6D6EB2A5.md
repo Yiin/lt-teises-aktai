@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2023-03-30
+Suvestinė redakcija nuo 2023-03-31 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
  
@@ -327,13 +327,15 @@ SOCIALINĖS PARAMOS MOKINIAMS ADMINISTRAVIMAS
  
 
 
-9 straipsnis. Socialinę paramą mokiniams administruojančios institucijos
+9 straipsnis. Socialinę paramą mokiniams administruojančios institucijos ir įstaigos
 
 
-Švietimo, mokslo ir sporto ministerija administruoja mokinių nemokamą maitinimą valstybinėse mokyklose, o savivaldybių administracijos – savivaldybių įsteigtose mokyklose ir savivaldybių teritorijose įsteigtose nevalstybinėse mokyklose. Savivaldybių administracijos administruoja paramą mokinio reikmenims įsigyti.
+Švietimo, mokslo ir sporto ministerija administruoja mokinių nemokamą maitinimą valstybinėse mokyklose, o savivaldybių administracijos – savivaldybių mokyklose ir nevalstybinėse mokyklose, veikiančiose savivaldybių teritorijose. Savivaldybių administracijos administruoja paramą mokinio reikmenims įsigyti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
  
-
-
 
 
 
@@ -465,7 +467,9 @@ Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
 
 
-5. Sprendimas dėl socialinės paramos mokiniams skyrimo priimamas ne vėliau kaip per 10 darbo dienų nuo prašymo-paraiškos ir visų dokumentų gavimo dienos. Per šį laikotarpį sprendimo dėl socialinės paramos mokiniams skyrimo kopija pateikiama šio įstatymo 9 straipsnyje nurodytoms institucijoms, išskyrus atvejį, kai sprendimą dėl socialinės paramos mokiniams skyrimo priima savivaldybės, kurios mokykloje mokinys mokosi, administracija. Šios institucijos ne vėliau kaip per 3 darbo dienas apie priimtą sprendimą dėl socialinės paramos mokiniams skyrimo raštu informuoja mokyklas, išskyrus atvejį, kai informacija gaunama iš Socialinės paramos šeimai informacinės sistemos (SPIS). 
+5. Sprendimas dėl socialinės paramos mokiniams skyrimo priimamas ne vėliau kaip per 10 darbo dienų nuo prašymo-paraiškos ir visų reikalingų dokumentų gavimo dienos. Per šį laikotarpį sprendimo dėl socialinės paramos mokiniams skyrimo kopija pateikiama šio įstatymo 9 straipsnyje nurodytoms institucijoms ir įstaigoms, išskyrus atvejį, kai sprendimą dėl socialinės paramos mokiniams skyrimo priima savivaldybės, kurios mokykloje mokinys mokosi, administracija. Šios institucijos ir įstaigos ne vėliau kaip per 3 darbo dienas apie priimtą sprendimą dėl socialinės paramos mokiniams skyrimo raštu informuoja mokyklas, išskyrus atvejį, kai informacija gaunama iš Socialinės paramos šeimai informacinės sistemos (SPIS). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
  
@@ -481,7 +485,9 @@ Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
 
 
-7. Savivaldybės administracija, nustačiusi, kad per laikotarpį, kurį mokiniui teikiama socialinė parama mokiniams, atsiranda nors viena iš aplinkybių, nurodytų šio įstatymo 13 straipsnio 1 ar 2 dalyje, priima sprendimą dėl socialinės paramos mokiniams nutraukimo ir jį pateikia šio įstatymo 9 straipsnyje nurodytoms institucijoms, išskyrus atvejį, kai sprendimą dėl socialinės paramos mokiniams nutraukimo priima savivaldybės, kurios mokykloje mokinys mokosi, administracija, ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos. Socialinė parama mokiniui neteikiama nuo kitos darbo dienos, kai mokykloje buvo gautas sprendimas dėl socialinės paramos mokiniams nutraukimo.
+7. Savivaldybės administracija, nustačiusi, kad per laikotarpį, kurį mokiniui teikiama socialinė parama mokiniams, atsiranda nors viena iš aplinkybių, nurodytų šio įstatymo 13 straipsnio 1 ar 2 dalyje, priima sprendimą dėl socialinės paramos mokiniams nutraukimo ir jį pateikia šio įstatymo 9 straipsnyje nurodytoms institucijoms ir įstaigoms, išskyrus atvejį, kai sprendimą dėl socialinės paramos mokiniams nutraukimo priima savivaldybės, kurios mokykloje mokinys mokosi, administracija ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos. Socialinė parama mokiniui neteikiama nuo kitos darbo dienos, kurią mokykloje buvo gautas sprendimas dėl socialinės paramos mokiniams nutraukimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
  
@@ -737,9 +743,6 @@ Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
 
 6. Nevalstybinių mokyklų administracijos:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
- 
 
 
 1) atsako už valstybės biudžeto lėšų, skiriamų šiam įstatymui įgyvendinti, tikslingą panaudojimą;
@@ -747,15 +750,17 @@ Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
 
 
-2) teikia savivaldybės, kurios teritorijoje mokykla įsteigta, administracijai duomenis, reikalingus valstybės biudžeto lėšų poreikiui apskaičiuoti, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie valstybės biudžeto lėšų poreikį socialinei paramai mokiniams teikimo tvarkos aprašu;
+2) teikia savivaldybės, kurios teritorijoje veikia mokykla, administracijai duomenis, reikalingus valstybės biudžeto lėšų poreikiui apskaičiuoti, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie valstybės biudžeto lėšų poreikį socialinei paramai mokiniams teikimo tvarkos aprašu;
 
 
 
 
-3) teikia savivaldybės, kurios teritorijoje mokykla įsteigta, administracijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarkos aprašu.
+3) teikia savivaldybės, kurios teritorijoje veikia mokykla, administracijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi socialinės apsaugos ir darbo ministro patvirtintu Duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarkos aprašu.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
  
-
-
 
 
 
@@ -916,3 +921,8 @@ Lietuvos Respublikos socialinės paramos mokiniams įstatymo Nr. X-686 1, 2, 4, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 Lietuvos Respublikos socialinės paramos mokiniams įstatymo Nr. X-686 1, 5, 10, 11, 12, 13 ir 15 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
+Lietuvos Respublikos socialinės paramos mokiniams įstatymo Nr. X-686 5, 9, 11 ir 15 straipsnių pakeitimo įstatymas
