@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D841592F4E8A"
 
 # Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2023-03-30
+Suvestinė redakcija nuo 2023-03-31 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 114-2868, i. k. 0971010ISTAVIII-541
  
@@ -81,7 +81,10 @@ Vilnius
 
 
 
-3. Vienkartinės pašalpos išmokamos iš valstybės biudžeto. Pašalpas skiria ir moka šiame įstatyme nurodytų asmenų gyvenamosios vietos savivaldybės. Savivaldybėms skiriami 2 procentai nuo pašalpoms mokėti skirtų lėšų administravimo išlaidoms padengti. Vienkartinių pašalpų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+3. Vienkartinės pašalpos mokamos, jų skyrimo ir mokėjimo administravimo išlaidos apmokamos iš Lietuvos Respublikos valstybės biudžeto lėšų. Vienkartines pašalpas skiria ir moka šiame įstatyme nurodytų asmenų gyvenamosios vietos savivaldybės administracija. Savivaldybių administracijoms vienkartinių pašalpų skyrimo ir mokėjimo administravimo išlaidoms padengti skiriami 2 procentai nuo vienkartinėms pašalpoms mokėti skirtų lėšų. Vienkartinių pašalpų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1846, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05746
+ 
 
 
 Straipsnio pakeitimai:
@@ -149,4 +152,9 @@ Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1209, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14116
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo Nr. VIII-541 3 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1846, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05746
 Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo Nr. VIII-541 3 straipsnio pakeitimo įstatymas
