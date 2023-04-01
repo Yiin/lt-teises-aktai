@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-28
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
- 
-TAR pastaba. Įstatymas taikomas 2023 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams, išskyrus išteklių fondų teikiamus ataskaitų rinkinius.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
-Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 1 ir 2 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2023-01-01:
 Nr. XIII-3308, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21245
@@ -1097,9 +1092,10 @@ Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
 
 
-4. Savivaldybės metinių ataskaitų rinkinio ataskaitas pasirašo savivaldybės meras, administracijos direktorius ir už ataskaitų parengimą atsakingas asmuo.
+4. Savivaldybės metinių ataskaitų rinkinio ataskaitas pasirašo meras ir už ataskaitų parengimą atsakingas asmuo.
 Straipsnio dalies pakeitimai:
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
+Nr. XIV-1612, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25037
  
 
 
@@ -1629,3 +1625,13 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1274, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15621
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 1 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1612, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25037
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 15 straipsnio pakeitimo įstatymo Nr. XIV-1274 pakeitimo įstatymas
