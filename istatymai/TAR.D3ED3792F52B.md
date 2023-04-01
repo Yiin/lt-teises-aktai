@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -95,7 +95,10 @@ Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
 
 
 
-9. Valstybės politikai – asmenys, įstatymų nustatyta tvarka išrinkti ar paskirti į Lietuvos Respublikos Prezidento, Seimo Pirmininko, Seimo nario, Ministro Pirmininko, ministro, savivaldybės tarybos nario, savivaldybės tarybos nario – mero (toliau – savivaldybės meras), savivaldybės mero pavaduotojo pareigas.
+9. Valstybės politikai – asmenys, įstatymų nustatyta tvarka išrinkti ar paskirti į Lietuvos Respublikos Prezidento, Seimo Pirmininko, Seimo nario, Ministro Pirmininko, ministro, savivaldybės tarybos nario, savivaldybės mero (toliau – meras) pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
+ 
 
 
 
@@ -394,11 +397,12 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-9. Kai savivaldybės teritorijoje įvedamas tiesioginis valdymas, šio įstatymo nuostatos, reglamentuojančios savivaldybės administracijos direktoriaus, direktoriaus pavaduotojo statusą ir savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų atleidimą iš pareigų, taikomos tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymas.
+9. Kai savivaldybės teritorijoje įvedamas tiesioginis valdymas, šio įstatymo nuostatos, reglamentuojančios savivaldybės administracijos direktoriaus statusą ir mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų atleidimą iš pareigų, taikomos tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymas.
 Papildyta straipsnio dalimi:
 Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
 Straipsnio dalies pakeitimai:
 Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
+Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
  
 
 
@@ -529,12 +533,26 @@ Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 
 
-5) savivaldybės administracijos direktoriaus, jo pavaduotojo ir savivaldybės kontrolieriaus – savivaldybės taryba;
+5) savivaldybės kontrolieriaus – savivaldybės taryba; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
+ 
 
 
 
 
-6) valstybės institucijų ir įstaigų vadovų – juos į pareigas priimantis asmuo arba juos į pareigas paskyrusios kolegialios institucijos vadovas.
+6) savivaldybės administracijos direktoriaus – meras; 
+Papildyta straipsnio punktu:
+Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
+ 
+
+
+
+
+7) valstybės institucijų ir įstaigų vadovų – juos į pareigas priimantis asmuo arba juos į pareigas paskyrusios kolegialios institucijos vadovas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
+ 
 
 
 
@@ -694,7 +712,10 @@ Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 
 
-7) savivaldybės administracijos direktorių (direktoriaus pavaduotoją) ir savivaldybės kontrolierių – savivaldybės taryba.
+7) savivaldybės kontrolierių – savivaldybės taryba.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
+ 
 
 
 
@@ -3307,6 +3328,7 @@ Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
 Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
 Nr. XIV-711, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25137
 Nr. XIV-1652, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26609
+Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
  
 part_96f956bdf46240fa96fdf6e75843b189_end
 
