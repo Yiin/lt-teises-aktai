@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -432,7 +432,10 @@ Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA0
 3. Užkrečiamųjų ligų epidemiologinę analizę ir prognozę atlieka Nacionalinis visuomenės sveikatos centras. Šios analizės duomenis ir užkrečiamosiomis ligomis sergančiųjų sveikatos priežiūros vertinimą ne rečiau kaip kartą per metus pateikia:
 
 
-1) savivaldybėse savivaldybės gydytojas – savivaldybės administracijos direktoriui;
+1) savivaldybėse savivaldybės gydytojas – savivaldybės merui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
+ 
 
 
 
@@ -569,7 +572,9 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-9. Asmuo, turėjęs sąlytį su ligoniu ar asmeniu, įtariamu, kad serga ypač pavojinga liga, įrašyta į šio straipsnio 2 dalyje nurodytą sąrašą, arba šios ligos sukėlėjo nešiotoju, privalo būti izoliuotas savivaldybės vykdomųjų institucijų specialiai šiam tikslui įrengtose patalpose, stacionariose asmens sveikatos priežiūros įstaigose arba šių asmenų namuose, jeigu higienos sąlygos leidžia tai padaryti. Izoliavimą skiria, jo vietą bei terminus nustato apskrities vyriausiasis epidemiologas.
+9. Asmuo, turėjęs sąlytį su ligoniu ar asmeniu, įtariamu, kad serga ypač pavojinga liga, įrašyta į šio straipsnio 2 dalyje nurodytą sąrašą, arba su šios ligos sukėlėjo nešiotoju, privalo būti izoliuotas specialiai šiam tikslui įrengtose patalpose, kurių įrengimą organizuoja savivaldybės administracija, stacionariose asmens sveikatos priežiūros įstaigose arba šių asmenų namuose, jeigu higienos sąlygos leidžia tai padaryti. Izoliavimą skiria, jo vietą bei terminus nustato apskrities vyriausiasis epidemiologas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
 
 
@@ -817,9 +822,11 @@ Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
 
 
 
-8. Kontrolę, kaip laikomasi nuolatinių užkrečiamųjų ligų židinių apsauginėse zonose taikomų specialiųjų žemės naudojimo sąlygų, pagal kompetenciją vykdo savivaldybių institucijos, Lietuvos Respublikos žemės ūkio ministerija, Lietuvos Respublikos aplinkos ministerija, Sveikatos apsaugos ministerija ar jų įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba ir kitos valstybės institucijos.
+8. Kontrolę, kaip laikomasi nuolatinių užkrečiamųjų ligų židinių apsauginėse zonose taikomų specialiųjų žemės naudojimo sąlygų, pagal kompetenciją vykdo savivaldybių administracijos, Lietuvos Respublikos žemės ūkio ministerija, Lietuvos Respublikos aplinkos ministerija, Sveikatos apsaugos ministerija ar jų įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba ir kitos valstybės institucijos.
 Papildyta straipsnio dalimi:
 Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
+Straipsnio dalies pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
 
 
@@ -996,7 +1003,10 @@ Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 
 
-2) vienos savivaldybės teritorijoje – Vyriausybė bendru savivaldybės administracijos direktoriaus ir sveikatos apsaugos ministro teikimu.
+2) vienos savivaldybės teritorijoje – Vyriausybė bendru savivaldybės mero ir sveikatos apsaugos ministro teikimu.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1089,7 +1099,10 @@ Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 
 
-2) vienos savivaldybės teritorijoje – Vyriausybė bendru savivaldybės administracijos direktoriaus ir sveikatos apsaugos ministro teikimu. 
+2) vienos savivaldybės teritorijoje – Vyriausybė bendru savivaldybės mero ir sveikatos apsaugos ministro teikimu. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1105,10 +1118,11 @@ Nr. XIII-2831, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07194
 
 
 
-5. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti savivaldybių, kurių teritorijoje skelbiamas karantinas, administracijų direktoriai.
+5. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti savivaldybių, kurių teritorijoje skelbiamas karantinas, savivaldybės administracija Nacionalinio visuomenės sveikatos centro teikimu. 
 Straipsnio dalies pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
 
 
@@ -1270,9 +1284,10 @@ Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA0
 
 
 
-3. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą savivaldybėse vykdo savivaldybės administracijos direktorius. 
+3. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą savivaldybėse vykdo savivaldybės meras. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
 
 
@@ -1326,7 +1341,9 @@ Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA0
 1. Savivaldybės taryba:
 
 
-1) kasmet išklauso savivaldybės administracijos direktoriaus ataskaitą apie užkrečiamųjų ligų profilaktikos ir kontrolės organizacinių priemonių plano įgyvendinimo eigą ir rezultatus; 
+1) Neteko galios nuo 2023-04-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
 Straipsnio punkto pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
@@ -1357,7 +1374,9 @@ Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 
 
-2. Savivaldybės administracijos direktorius:
+2. Savivaldybės administracija: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
 
 
 1) koordinuoja savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose nustatytų užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimą; 
@@ -1412,33 +1431,31 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-3. Savivaldybės administracijos direktorius Nacionalinio visuomenės sveikatos centro teikimu:
+3. Nacionalinio visuomenės sveikatos centro teikimu:
 
 
-1) uždraudžia žmonių susibūrimus savivaldybės teritorijoje esančiose įmonėse, įstaigose, organizacijose, viešose vietose, kai iškyla pavojingų ir ypač pavojingų užkrečiamųjų ligų išplitimo pavojus;
+1) savivaldybės meras:
 
 
-
-
-2) riboja gyventojų keliones ir transporto priemonių judėjimą apkrėstoje teritorijoje ir išvykimą už jos ribų;
-
-
-
-
-3) organizuoja nustatytose teritorijose karantino režimo priemonių įgyvendinimą, kai savivaldybės teritorijai yra paskelbtas teritorijų karantinas;
+a) uždraudžia žmonių susibūrimus savivaldybės teritorijoje esančiose įmonėse, įstaigose, organizacijose, viešose vietose, kai iškyla pavojingų ir ypač pavojingų užkrečiamųjų ligų išplitimo pavojus;
 
 
 
 
-4) Neteko galios nuo 2017-01-01
-Straipsnio punkto naikinimas:
-Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
- 
+b) riboja gyventojų keliones ir transporto priemonių judėjimą apkrėstoje teritorijoje ir išvykimą už jos ribų;
+
+
+
+
+
+
+2) savivaldybės administracija organizuoja nustatytose teritorijose karantino režimo priemonių įgyvendinimą, kai savivaldybės teritorijai yra paskelbtas teritorijų karantinas.
 
 
 Straipsnio dalies pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
 
 
@@ -2135,3 +2152,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 21 straipsnio pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 5, 8, 9, 14, 20, 21, 25, 26 ir 29 straipsnių pakeitimo įstatymas
