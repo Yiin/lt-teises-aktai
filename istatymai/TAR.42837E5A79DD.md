@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-05-02
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -1867,7 +1867,11 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-3. Jeigu nelydimo nepilnamečio užsieniečio atstovu paskiriamas juridinis asmuo, jis ne vėliau kaip kitą darbo dieną nuo savivaldybės administracijos direktoriaus įsakymo dėl vaiko laikinosios globos (rūpybos) nustatymo priėmimo dienos paskiria atsakingą darbuotoją, kuris vykdo nelydimo nepilnamečio užsieniečio atstovo pareigas.
+3. Jeigu nelydimo nepilnamečio užsieniečio atstovu paskiriamas juridinis asmuo, jis ne vėliau kaip kitą darbo dieną nuo savivaldybės mero potvarkio dėl vaiko laikinosios globos (rūpybos) nustatymo priėmimo dienos paskiria atsakingą darbuotoją, kuris vykdo nelydimo nepilnamečio užsieniečio atstovo pareigas.
+TAR pastaba. 3 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1852, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05756
+ 
 
 
 
@@ -10762,3 +10766,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1220, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15585
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 36 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1852, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05756
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 32 straipsnio pakeitimo įstatymas
