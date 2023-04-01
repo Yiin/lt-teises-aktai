@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.90D8CF4E3E9F"
 
 # Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2021-09-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3214, i. k. 1071010ISTA00X-1238
+ 
+TAR pastaba. Įstatymo Nr. XIV-1837 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki 2023 m. kovo 31 d. galiojusios Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo nuostatos. Iki pradedant taikyti šį įstatymą pradėtos su vaiko minimalios ir vidutinės priežiūros priemonių skyrimu, pratęsimu, pakeitimu ir panaikinimu susijusios procedūros baigiamos pagal iki įsigaliojant šiam įstatymui galiojusias Vaiko minimalios ir vidutinės priežiūros įstatymo nuostatas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 2, 7, 11, 12, 15, 16, 17, 18, 21, 22, 23, 24, 28, 29, 30 ir 31 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2021-01-01:
 Nr. XIII-3292, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20886
@@ -97,7 +102,9 @@ Nr. XIV-486, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15867
 
 
 
-9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos profesinio mokymo įstatyme, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos mediacijos įstatyme.
+9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos profesinio mokymo įstatyme, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos mediacijos įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
  
 
 
@@ -284,7 +291,9 @@ Vaikui gali būti taikoma šių formų priežiūra:
 
 
 
-2. Kai koordinuotai teikiamos paslaugos vaiko tėvams ar turimam vieninteliam iš tėvų yra neveiksmingos ir atsiranda vaiko globos (rūpybos) nustatymo pagrindai, pagal tėvų deklaruotą gyvenamąją vietą, o kai jos nėra, pagal tėvų gyvenamąją vietą valstybinės vaiko teisių apsaugos institucijos nurodymu savivaldybės administracijos direktorius vaikui nustato vaiko laikinąją globą (rūpybą). Vaiko laikinosios globos (rūpybos) nustatymas ir priežiūra organizuojami vadovaujantis Lietuvos Respublikos civiliniu kodeksu ir kitais laikinosios globos (rūpybos) organizavimą reglamentuojančiais teisės aktais.
+2. Kai koordinuotai teikiamos paslaugos vaiko tėvams ar turimam vieninteliam iš tėvų yra neveiksmingos ir atsiranda vaiko globos (rūpybos) nustatymo pagrindų, pagal tėvų deklaruotą gyvenamąją vietą, o kai jos nėra, pagal tėvų gyvenamąją vietą valstybinės vaiko teisių apsaugos institucijos nurodymu savivaldybės meras nustato vaiko laikinąją globą (rūpybą). Vaiko laikinosios globos (rūpybos) nustatymas ir priežiūra organizuojami vadovaujantis Lietuvos Respublikos civiliniu kodeksu ir kitais laikinosios globos (rūpybos) organizavimą reglamentuojančiais teisės aktais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
  
 
 
@@ -430,10 +439,12 @@ VAIKO MINIMALIOS IR VIDUTINĖS PRIEŽIŪROS PRIEMONIŲ SKYRIMAS, PRATĘSIMAS, PA
 11 straipsnis. Vaiko minimalios ir vidutinės priežiūros priemones skiriančios institucijos
 
 
-Vaiko minimalios ir vidutinės priežiūros priemones, koordinuotai teikiamas paslaugas vaiko atstovams pagal įstatymą skiria ir kitas pagalbos priemones vaiko atstovams pagal įstatymą siūlo vaiko nuolatinės gyvenamosios vietos savivaldybės administracijos direktorius.
+Vaiko minimalios ir vidutinės priežiūros priemones, koordinuotai teikiamas paslaugas ir kitas pagalbos priemones vaiko atstovams pagal įstatymą skiria vaiko nuolatinės gyvenamosios vietos savivaldybės meras.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
  
-
-
 
 
 
@@ -441,7 +452,12 @@ Vaiko minimalios ir vidutinės priežiūros priemones, koordinuotai teikiamas pa
 12 straipsnis. Vaiko minimalios ir vidutinės priežiūros priemonių skyrimo, pratęsimo, pakeitimo ir panaikinimo tvarka
 
 
-1. Į vaiko nuolatinės gyvenamosios vietos savivaldybės administracijos direktorių su prašymu dėl:
+1. Prašymai dėl vaiko minimalios ir vidutinės priežiūros priemonių skyrimo, pratęsimo, pakeitimo ir panaikinimo, kiek to nereglamentuoja šis įstatymas, teikiami ir nagrinėjami Viešojo administravimo įstatymo nustatyta tvarka.
+
+
+
+
+2. Į vaiko nuolatinės gyvenamosios vietos savivaldybės merą su prašymu dėl: 
 
 
 1) vaiko minimalios priežiūros priemonių skyrimo turi teisę kreiptis:
@@ -477,12 +493,9 @@ f) prokuroras;
 
 
 
-g) teismas ir administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų); 
+g) teismas ir administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
 
 
-Straipsnio punkto pakeitimai:
-Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
- 
 
 
 
@@ -518,14 +531,11 @@ e) prokuroras;
 f) teismas ir administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
 
 
-Straipsnio punkto pakeitimai:
-Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
- 
 
 
 
 
-3) vaiko minimalios priežiūros priemonių pakeitimo ar panaikinimo turi teisę kreiptis tarpinstitucinio bendradarbiavimo koordinatorius, vaikas, vaiko atstovai pagal įstatymą, teritorinė policijos įstaiga, mokykla, prokuroras, atvejo vadybininkas; dėl vaiko vidutinės priežiūros priemonių pakeitimo ar panaikinimo turi teisę kreiptis vaikas, vaiko atstovai pagal įstatymą, teritorinė policijos įstaiga, prokuroras, specialistas, vykdęs koordinuotai teikiamų paslaugų teikimo atvejo vadybininko funkcijas (toliau – atvejo vadybininkas) ir vaikų socializacijos centras;
+3) vaiko minimalios priežiūros priemonių pakeitimo ar panaikinimo turi teisę kreiptis tarpinstitucinio bendradarbiavimo koordinatorius, vaikas, vaiko atstovai pagal įstatymą, teritorinė policijos įstaiga, mokykla, prokuroras, atvejo vadybininkas; dėl vaiko vidutinės priežiūros priemonių pakeitimo ar panaikinimo turi teisę kreiptis vaikas, vaiko atstovai pagal įstatymą, teritorinė policijos įstaiga, prokuroras, specialistas, vykdęs koordinuotai teikiamų paslaugų teikimo atvejo vadybininko funkcijas (toliau – atvejo vadybininkas), ir vaikų socializacijos centras;
 
 
 
@@ -542,42 +552,42 @@ Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
 
 
 
-2. Savivaldybės administracijos direktorius, gavęs prašymą skirti, pakeisti, pratęsti ar panaikinti vaiko minimalios ar vidutinės priežiūros priemones (toliau – prašymas), ne vėliau kaip per 2 darbo dienas jį perduoda savivaldybės administracijos Vaiko gerovės komisijai.
+3. Savivaldybės meras, gavęs prašymą skirti, pakeisti, pratęsti ar panaikinti vaiko minimalios ar vidutinės priežiūros priemones (toliau – prašymas), ne vėliau kaip per 2 darbo dienas jį perduoda savivaldybės administracijos Vaiko gerovės komisijai.
 
 
 
 
-3. Savivaldybės administracijos Vaiko gerovės komisija ne vėliau kaip per 10 darbo dienų nuo prašymo gavimo dienos, išskyrus šio straipsnio 11 dalyje nurodytus atvejus, surenka informaciją, būtiną šio straipsnio 9 dalyje nurodytam siūlymui parengti bei šio straipsnio 9 ir 10 dalyse nurodytam savivaldybės administracijos direktoriaus sprendimui priimti.
+4. Savivaldybės administracijos Vaiko gerovės komisija ne vėliau kaip per 10 darbo dienų nuo prašymo gavimo dienos, išskyrus šio straipsnio 12 dalyje nurodytus atvejus, surenka informaciją, būtiną šio straipsnio 10 dalyje nurodytam siūlymui parengti bei šio straipsnio 10 ir 11 dalyse nurodytam savivaldybės mero sprendimui priimti.
 
 
 
 
-4. Kai rengiamasi svarstyti vaiko vidutinės priežiūros priemonės skyrimo ar pratęsimo klausimą, surinkta informacija, nurodyta šio straipsnio 3 dalyje, ne vėliau kaip likus 4 darbo dienoms iki šio straipsnio 5 dalyje numatyto posėdžio pateikiama švietimo, mokslo ir sporto ministro įgaliotai institucijai jos išvadai gauti. Išvada pateikiama švietimo, mokslo ir sporto ministro nustatyta tvarka.
+5. Kai rengiamasi svarstyti vaiko vidutinės priežiūros priemonės skyrimo ar pratęsimo klausimą, surinkta informacija, nurodyta šio straipsnio 4 dalyje, ne vėliau kaip likus 4 darbo dienoms iki šio straipsnio 6 dalyje numatyto posėdžio pateikiama švietimo, mokslo ir sporto ministro įgaliotai institucijai siekiant gauti jos išvadą. Išvada pateikiama švietimo, mokslo ir sporto ministro nustatyta tvarka.
 
 
 
 
-5. Savivaldybės administracijos Vaiko gerovės komisija prašymus nagrinėja uždarame posėdyje, kuriame privalo dalyvauti vaikas, išskyrus šio straipsnio 6 dalyje nurodytus atvejus, vaiko atstovai pagal įstatymą, mokyklos, kurioje ugdomas vaikas, Vaiko gerovės komisijos narys, prašymą pateikęs asmuo (išskyrus atvejus, kai prašymą pateikė teismas), atvejo vadybininkas, valstybinės vaiko teisių apsaugos institucijos atstovas ir vaikų socializacijos centro atstovas (kai vaikui buvo paskirta vidutinės priežiūros priemonė). Be to, savivaldybės administracijos Vaiko gerovės komisijos posėdyje turi teisę dalyvauti ir kiti suinteresuoti kviestiniai asmenys. Apie savivaldybės administracijos Vaiko gerovės komisijos posėdžio vietą ir laiką savivaldybės administracijos Vaiko gerovės komisijos pirmininkas posėdžio dalyviams privalo pranešti ne vėliau kaip prieš 4 darbo dienas. Jeigu posėdyje nedalyvauja asmenys, kurių dalyvavimas yra privalomas, savivaldybės administracijos Vaiko gerovės komisijos pirmininkas atideda posėdį ir raštu įspėja nedalyvavusius asmenis, kad kitame posėdyje sprendimas gali būti priimtas ir jiems nedalyvaujant. Savivaldybės administracijos Vaiko gerovės komisijos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip 2/3 komisijos narių. Savivaldybės administracijos Vaiko gerovės komisijos posėdyje sprendimai priimami komisijos narių balsų dauguma.
+6. Savivaldybės administracijos Vaiko gerovės komisija prašymus nagrinėja uždarame posėdyje. Jame privalo dalyvauti vaikas, išskyrus šio straipsnio 7 dalyje nurodytus atvejus, vaiko atstovai pagal įstatymą, mokyklos, kurioje ugdomas vaikas, Vaiko gerovės komisijos narys, prašymą pateikęs asmuo (išskyrus atvejus, kai prašymą pateikė teismas), atvejo vadybininkas, valstybinės vaiko teisių apsaugos institucijos atstovas ir vaikų socializacijos centro atstovas (kai vaikui buvo paskirta vidutinės priežiūros priemonė). Be to, savivaldybės administracijos Vaiko gerovės komisijos posėdyje turi teisę dalyvauti ir kiti suinteresuoti kviestiniai asmenys. Apie savivaldybės administracijos Vaiko gerovės komisijos posėdžio vietą ir laiką šios komisijos pirmininkas posėdžio dalyviams privalo pranešti ne vėliau kaip prieš 4 darbo dienas. Jeigu posėdyje nedalyvauja asmenys, kurių dalyvavimas yra privalomas, savivaldybės administracijos Vaiko gerovės komisijos pirmininkas atideda posėdį ir raštu įspėja nedalyvavusius asmenis, kad kitame posėdyje sprendimas gali būti priimtas ir jiems nedalyvaujant. Savivaldybės administracijos Vaiko gerovės komisijos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip 2/3 komisijos narių. Savivaldybės administracijos Vaiko gerovės komisijos posėdyje sprendimai priimami komisijos narių balsų dauguma.
 
 
 
 
-6. Savivaldybės administracijos Vaiko gerovės komisijos posėdyje turi būti išklausoma vaiko ir kitų posėdyje dalyvaujančių asmenų nuomonė dėl vaiko minimalios ar vidutinės priežiūros priemonių skyrimo, pakeitimo, pratęsimo ar panaikinimo ir koordinuotai teikiamų paslaugų teikimo, kitų pagalbos priemonių vaiko atstovams pagal įstatymą, numatytų šio įstatymo 7 ir 9 straipsniuose, skyrimo. Siekiant apsaugoti vaiką nuo galimo neigiamo poveikio, vaikas gali nedalyvauti savivaldybės administracijos Vaiko gerovės komisijos posėdyje, tačiau tokiu atveju vaiko nuomonė turi būti iš anksto išklausyta valstybinės vaiko teisių apsaugos institucijos. Asmenų, turinčių didelių ir labai didelių specialiųjų ugdymosi poreikių iki 21 metų, nuomonę išklauso ir išvadą dėl minimalios ar vidutinės priežiūros priemonių jiems skyrimo, pratęsimo ar panaikinimo teikia savivaldybės administracijos Vaiko gerovės komisijos įgaliotas asmuo. Ši nuomonė įvertinama savivaldybės administracijos Vaiko gerovės komisijos posėdyje. Valstybinė vaiko teisių apsaugos institucija taip pat išklauso vaiko nuomonę, kai vaikas vengia dalyvauti savivaldybės administracijos Vaiko gerovės komisijos rengiamame posėdyje, ir apie ją informuoja posėdžio dalyvius. Posėdžio metu pristatoma švietimo, mokslo ir sporto ministro įgaliotos institucijos išvada dėl vidutinės priežiūros priemonės vaikui skyrimo ar pratęsimo. Valstybinės vaiko teisių apsaugos institucijos atstovas raštu pateikia išvadą dėl vaiko minimalios ar vidutinės priežiūros priemonių skyrimo, pratęsimo, pakeitimo ar panaikinimo. Pateikta išvada posėdžio metu gali būti patikslinta arba papildyta.
+7. Savivaldybės administracijos Vaiko gerovės komisijos posėdyje turi būti išklausoma vaiko ir kitų posėdyje dalyvaujančių asmenų nuomonė dėl vaiko minimalios ar vidutinės priežiūros priemonių skyrimo, pakeitimo, pratęsimo ar panaikinimo ir koordinuotai teikiamų paslaugų teikimo, kitų pagalbos priemonių vaiko atstovams pagal įstatymą, numatytų šio įstatymo 7 ir 9 straipsniuose, skyrimo. Siekiant apsaugoti vaiką nuo galimo neigiamo poveikio, vaikas gali nedalyvauti savivaldybės administracijos Vaiko gerovės komisijos posėdyje, tačiau tokiu atveju vaiko nuomonė turi būti iš anksto išklausyta valstybinės vaiko teisių apsaugos institucijos. Asmenų, turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių iki 21 metų, nuomonę išklauso ir išvadą dėl minimalios ar vidutinės priežiūros priemonių jiems skyrimo, pratęsimo ar panaikinimo teikia savivaldybės administracijos Vaiko gerovės komisijos įgaliotas asmuo. Ši nuomonė įvertinama savivaldybės administracijos Vaiko gerovės komisijos posėdyje. Valstybinė vaiko teisių apsaugos institucija taip pat išklauso vaiko nuomonę, kai vaikas vengia dalyvauti savivaldybės administracijos Vaiko gerovės komisijos rengiamame posėdyje, ir apie ją informuoja posėdžio dalyvius. Posėdyje pristatoma švietimo, mokslo ir sporto ministro įgaliotos institucijos išvada dėl vidutinės priežiūros priemonės vaikui skyrimo ar pratęsimo. Valstybinės vaiko teisių apsaugos institucijos atstovas raštu pateikia išvadą dėl vaiko minimalios ar vidutinės priežiūros priemonių skyrimo, pratęsimo, pakeitimo ar panaikinimo. Pateikta išvada posėdyje gali būti patikslinta arba papildyta.
 
 
 
 
-7. Savivaldybės administracijos Vaiko gerovės komisijos posėdyje rašomas posėdžio protokolas. Šiame protokole turi būti nurodytos esminės prašymo nagrinėjimo aplinkybės, taip pat nurodyta posėdžio data, protokolo eilės numeris, posėdžio dalyviai, svarstomų klausimų eilės numeriai ir pavadinimai, klausimus pateikę pranešėjai, kalbėtojai, valstybinės vaiko teisių apsaugos institucijos išvada, priimtas siūlymas, balsavimo rezultatai ir šio straipsnio 5 dalyje nurodytų posėdžio dalyvių atskirosios nuomonės. Savivaldybės administracijos Vaiko gerovės komisijos posėdžio protokolą pasirašo komisijos pirmininkas ir sekretorius. Protokolas turi būti pasirašytas ne vėliau kaip per 3 darbo dienas po savivaldybės administracijos Vaiko gerovės komisijos posėdžio.
+8. Savivaldybės administracijos Vaiko gerovės komisijos posėdyje rašomas posėdžio protokolas. Šiame protokole turi būti nurodytos esminės prašymo nagrinėjimo aplinkybės, taip pat posėdžio data, protokolo eilės numeris, posėdžio dalyviai, svarstomų klausimų eilės numeriai ir pavadinimai, klausimus pateikę pranešėjai, kalbėtojai, valstybinės vaiko teisių apsaugos institucijos išvada, priimtas siūlymas, balsavimo rezultatai ir šio straipsnio 6 dalyje nurodytų posėdžio dalyvių atskirosios nuomonės. Savivaldybės administracijos Vaiko gerovės komisijos posėdžio protokolą pasirašo komisijos pirmininkas ir sekretorius. Protokolas turi būti pasirašytas ne vėliau kaip per 3 darbo dienas nuo savivaldybės administracijos Vaiko gerovės komisijos posėdžio.
 
 
 
 
-8. Savivaldybės administracijos Vaiko gerovės komisija, įvertinusi išsakytas nuomones, valstybinės vaiko teisių apsaugos institucijos ir švietimo, mokslo ir sporto ministro įgaliotos institucijos pateiktas išvadas, informaciją apie vaiko priežiūros ir gyvenimo sąlygas, vaiko sveikatos būklę bei specialiuosius ugdymosi poreikius, vaiko atstovų pagal įstatymą teisių įgyvendinimą ir pareigų vykdymą, vaikui ir (ar) jo atstovams pagal įstatymą teikiamas socialines paslaugas ir kitą pagalbą ar jos poreikį, vaikui skirtą Baudžiamajame kodekse nustatytą auklėjamojo poveikio priemonę ir kitą surinktą informaciją, balsų dauguma priima siūlymą dėl vaiko minimalios priežiūros priemonių skyrimo, pratęsimo, pakeitimo ar panaikinimo, vaiko vidutinės priežiūros priemonės pakeitimo ar panaikinimo, koordinuotai teikiamų paslaugų teikimo, kitų pagalbos priemonių vaiko atstovams pagal įstatymą, numatytų šio įstatymo 7 ir 9 straipsniuose, skyrimo, vaiko minimalios priežiūros priemonių vykdymą koordinuosiančios institucijos (toliau – koordinuojanti institucija) paskyrimo. Siūlymas dėl vaiko vidutinės priežiūros priemonės skyrimo ar pratęsimo priimamas tada, kai gaunamas švietimo, mokslo ir sporto ministro įgaliotos institucijos pritarimas. Jeigu gaunamas švietimo, mokslo ir sporto ministro įgaliotos institucijos nepritarimas, svarstomas siūlymas dėl koordinuotai teikiamų paslaugų vaikui ir vaiko atstovams pagal įstatymą teikimo, vaiko minimalios priežiūros priemonių skyrimo. Savivaldybės administracijos Vaiko gerovės komisija, nustačiusi, kad yra pagrįstų įtarimų dėl galimai padarytos ar daromos nusikalstamos veikos vaiko atžvilgiu, numatytos Baudžiamajame kodekse, vaiko galimai patirto ar stebėto smurto artimoje aplinkoje, privalo nedelsdama apie tai informuoti policiją ir (ar) valstybinę vaiko teisių apsaugos instituciją, kuri, gavusi nurodytą informaciją, privalo nedelsdama, tačiau ne vėliau kaip per 24 valandas, apie galimai padarytą nusikalstamą veiką prieš vaiką pranešti policijai ar kitam ikiteisminį tyrimą organizuojančiam subjektui ir pradėti nagrinėti pranešimą bei imtis veiksmų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 36 straipsnyje. Savivaldybės administracijos Vaiko gerovės komisija apie kitus galimus vaiko teisių pažeidimus privalo informuoti valstybinę vaiko teisių apsaugos instituciją, kuri pranešimą apie galimą vaiko teisių pažeidimą nagrinėja Vaiko teisių apsaugos pagrindų įstatymo 36 straipsnyje nustatyta tvarka. Savivaldybės administracijos Vaiko gerovės komisijos siūlymas ir kita prašymo nagrinėjimo medžiaga pateikiami savivaldybės administracijos direktoriui.
+9. Savivaldybės administracijos Vaiko gerovės komisija, įvertinusi išsakytas nuomones, valstybinės vaiko teisių apsaugos institucijos ir švietimo, mokslo ir sporto ministro įgaliotos institucijos pateiktas išvadas, informaciją apie vaiko priežiūros ir gyvenimo sąlygas, vaiko sveikatos būklę bei specialiuosius ugdymosi poreikius, vaiko atstovų pagal įstatymą teisių įgyvendinimą ir pareigų vykdymą, vaikui ir (ar) jo atstovams pagal įstatymą teikiamas socialines paslaugas ir kitą pagalbą ar jos poreikį, vaikui skirtą Baudžiamajame kodekse nustatytą auklėjamojo poveikio priemonę ir kitą surinktą informaciją, balsų dauguma priima siūlymą dėl vaiko minimalios priežiūros priemonių skyrimo, pratęsimo, pakeitimo ar panaikinimo, vaiko vidutinės priežiūros priemonės pakeitimo ar panaikinimo, koordinuotai teikiamų paslaugų teikimo, kitų pagalbos priemonių vaiko atstovams pagal įstatymą, numatytų šio įstatymo 7 ir 9 straipsniuose, skyrimo, vaiko minimalios priežiūros priemonių vykdymą koordinuosiančios institucijos (toliau – koordinuojanti institucija) paskyrimo. Siūlymas dėl vaiko vidutinės priežiūros priemonės skyrimo ar pratęsimo priimamas tada, kai gaunamas švietimo, mokslo ir sporto ministro įgaliotos institucijos pritarimas. Jeigu gaunamas šios institucijos nepritarimas, svarstomas siūlymas dėl koordinuotai teikiamų paslaugų vaikui ir vaiko atstovams pagal įstatymą teikimo, vaiko minimalios priežiūros priemonių skyrimo. Savivaldybės administracijos Vaiko gerovės komisija, nustačiusi, kad yra pagrįstų įtarimų dėl galimai padarytos ar daromos nusikalstamos veikos vaiko atžvilgiu, numatytos Baudžiamajame kodekse, vaiko galimai patirto ar stebėto smurto artimoje aplinkoje, privalo nedelsdama apie tai informuoti policiją ir (ar) valstybinę vaiko teisių apsaugos instituciją. Ši, gavusi nurodytą informaciją, privalo nedelsdama, tačiau ne vėliau kaip per 24 valandas apie galimai padarytą nusikalstamą veiką prieš vaiką pranešti policijai ar kitam ikiteisminį tyrimą organizuojančiam subjektui ir pradėti nagrinėti pranešimą bei imtis veiksmų, nurodytų Vaiko teisių apsaugos pagrindų įstatymo 36 straipsnyje. Savivaldybės administracijos Vaiko gerovės komisija apie kitus galimus vaiko teisių pažeidimus privalo informuoti valstybinę vaiko teisių apsaugos instituciją. Ši pranešimą apie galimą vaiko teisių pažeidimą nagrinėja Vaiko teisių apsaugos pagrindų įstatymo 36 straipsnyje nustatyta tvarka. Savivaldybės administracijos Vaiko gerovės komisijos siūlymas ir kita prašymo nagrinėjimo medžiaga pateikiami savivaldybės merui.
 
 
 
 
-9. Savivaldybės administracijos direktorius, įvertinęs prašymą, savivaldybės administracijos Vaiko gerovės komisijos siūlymą ir kitą prašymo nagrinėjimo medžiagą, priima vieną iš šių sprendimų:
+10. Savivaldybės meras, įvertinęs prašymą, savivaldybės administracijos Vaiko gerovės komisijos siūlymą ir kitą prašymo nagrinėjimo medžiagą, priima vieną iš šių sprendimų: 
 
 
 1) skirti, pratęsti ar panaikinti paskirtas vaiko minimalios priežiūros priemones nepasibaigus jų vykdymo terminui, pakeisti paskirtas vaiko minimalios priežiūros priemones kitomis arba paskirti kitą vaiko minimalios priežiūros priemones vykdantį asmenį;
@@ -605,7 +615,7 @@ Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
 
 
 
-6) atmesti savivaldybės administracijos Vaiko gerovės komisijos siūlymą ir siūlyti savivaldybės administracijos Vaiko gerovės komisijai svarstyti kitų priežiūros priemonių skyrimą;
+6) atmesti savivaldybės administracijos Vaiko gerovės komisijos siūlymą ir siūlyti šiai komisijai svarstyti kitų priežiūros priemonių skyrimą;
 
 
 
@@ -617,40 +627,42 @@ Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
 
 
 
-10. Savivaldybės administracijos direktorius, priimdamas vieną iš šio straipsnio 9 dalies 1, 2, 4 ir 6 punktuose nurodytų sprendimų, priima sprendimą dėl koordinuotai teikiamų paslaugų teikimo vaiko atstovams pagal įstatymą, numatytų šio įstatymo 7 straipsnyje. Savivaldybės administracijos direktorius gali priimti sprendimą ir dėl kitų pagalbos priemonių vaiko atstovams pagal įstatymą, numatytų šio įstatymo 9 straipsnyje, skyrimo.
+11. Savivaldybės meras, priimdamas vieną iš šio straipsnio 10 dalies 1, 2, 4 ir 6 punktuose nurodytų sprendimų, taip pat priima sprendimą dėl šio įstatymo 7 straipsnyje numatytų koordinuotai teikiamų paslaugų teikimo vaiko atstovams pagal įstatymą. Savivaldybės meras gali priimti sprendimą ir dėl šio įstatymo 9 straipsnyje numatytų kitų pagalbos priemonių vaiko atstovams pagal įstatymą skyrimo.
 
 
 
 
-11. Savivaldybės administracijos direktorius, įvertinęs savivaldybės administracijos Vaiko gerovės komisijos siūlymą, paskiria koordinuojančią instituciją. 
+12. Savivaldybės meras, įvertinęs savivaldybės administracijos Vaiko gerovės komisijos siūlymą, paskiria koordinuojančią instituciją.
 
 
 
 
-12. Jeigu vaiko elgesys kelia realų pavojų jo paties ar kitų žmonių gyvybei, sveikatai ar turtui, savivaldybės administracijos direktorius šio straipsnio 9 dalyje nustatytą vieną iš sprendimų priima ne vėliau kaip per 10 darbo dienų nuo prašymo gavimo dienos, kitais atvejais – ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos.
+13. Jeigu vaiko elgesys kelia realų pavojų jo paties ar kitų žmonių gyvybei, sveikatai ar turtui, savivaldybės meras šio straipsnio 10 dalyje nustatytą vieną iš sprendimų priima ne vėliau kaip per 10 darbo dienų nuo prašymo gavimo dienos, kitais atvejais – ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos.
 
 
 
 
-13. Savivaldybės administracijos direktoriaus sprendime dėl vaiko minimalios priežiūros priemonių skyrimo, pratęsimo ar pakeitimo nurodoma: vaikas, vaiko atstovai pagal įstatymą, vaikui paskirtos minimalios priežiūros priemonės, vaiko minimalios priežiūros priemonę vykdantis asmuo, koordinuojanti institucija, šių priemonių vykdymo terminas ir kita svarbi informacija. Savivaldybės administracijos direktoriaus sprendime taip pat nurodomos koordinuotai teikiamos paslaugos vaiko atstovams pagal įstatymą, jas koordinuojanti institucija, koordinuotai teikiamų paslaugų teikėjai, koordinuotai teikiamų paslaugų teikimo trukmė. Savivaldybės administracijos direktoriaus sprendime taip pat nurodomos kitos šio įstatymo 9 straipsnyje numatytos pagalbos priemonės vaiko atstovams pagal įstatymą, jeigu tokios buvo paskirtos, jų vykdymo terminas ir jas vykdantys asmenys. Prie savivaldybės administracijos direktoriaus sprendimo pridedami savivaldybės administracijos Vaiko gerovės komisijos posėdžio protokolo išrašas ir valstybinės vaiko teisių apsaugos institucijos raštu pateikta išvada.
+14. Savivaldybės mero sprendime dėl vaiko minimalios priežiūros priemonių skyrimo, pratęsimo ar pakeitimo nurodoma: vaikas, vaiko atstovai pagal įstatymą, vaikui paskirtos minimalios priežiūros priemonės, vaiko minimalios priežiūros priemonę vykdantis asmuo, koordinuojanti institucija, šių priemonių vykdymo terminas ir kita svarbi informacija. Savivaldybės mero sprendime taip pat nurodomos koordinuotai teikiamos paslaugos vaiko atstovams pagal įstatymą, jas koordinuojanti institucija, koordinuotai teikiamų paslaugų teikėjai, koordinuotai teikiamų paslaugų teikimo trukmė. Savivaldybės mero sprendime taip pat nurodomos kitos šio įstatymo 9 straipsnyje numatytos pagalbos priemonės vaiko atstovams pagal įstatymą, jeigu tokios buvo paskirtos, jų vykdymo terminas ir jas vykdantys asmenys. Prie savivaldybės mero sprendimo pridedami savivaldybės administracijos Vaiko gerovės komisijos posėdžio protokolo išrašas ir valstybinės vaiko teisių apsaugos institucijos raštu pateikta išvada.
 
 
 
 
-14. Savivaldybės administracijos direktoriaus prašyme teismui dėl leidimo skirti vaiko vidutinės priežiūros priemonę arba pratęsti vaiko vidutinės priežiūros priemonės vykdymo terminą turi būti nurodyti argumentai, kuriais grindžiamas prašymas, vaiko vidutinės priežiūros priemonės terminas, informacija apie vaiko nuomonę dėl vaiko vidutinės priežiūros priemonės skyrimo ar pratęsimo, apie vaikui skirtą (skirtas) Baudžiamajame kodekse nustatytą (nustatytas) auklėjamojo poveikio priemonę (priemones) (jeigu jos buvo skirtos), išskyrus auklėjamojo poveikio priemonę – atidavimą į specialiąją auklėjimo įstaigą. Kai kreipiamasi dėl leidimo skirti vaiko vidutinės priežiūros priemonę, pateikiamas vaiko sveikatos pažymėjimas. Prie šioje dalyje nurodyto prašymo teismui pridedami savivaldybės administracijos Vaiko gerovės komisijos posėdžio, kuriame buvo svarstytas klausimas dėl vaiko vidutinės priežiūros priemonės skyrimo ar pratęsimo, protokolas, valstybinės vaiko teisių apsaugos institucijos raštu pateikta išvada, švietimo, mokslo ir sporto ministro įgaliotos institucijos išvada dėl vidutinės priežiūros vaikui skyrimo ar pratęsimo, kiti prašymą pagrindžiantys dokumentai.
+15. Savivaldybės mero prašyme teismui dėl leidimo skirti vaiko vidutinės priežiūros priemonę arba pratęsti vaiko vidutinės priežiūros priemonės vykdymo terminą turi būti nurodyti argumentai, kuriais grindžiamas prašymas, vaiko vidutinės priežiūros priemonės terminas, informacija apie vaiko nuomonę dėl vaiko vidutinės priežiūros priemonės skyrimo ar pratęsimo, apie vaikui skirtą (skirtas) Baudžiamajame kodekse nustatytą (nustatytas) auklėjamojo poveikio priemonę (priemones) (jeigu jos buvo skirtos), išskyrus auklėjamojo poveikio priemonę – atidavimą į specialiąją auklėjimo įstaigą. Kai kreipiamasi dėl leidimo skirti vaiko vidutinės priežiūros priemonę, pateikiamas vaiko sveikatos pažymėjimas. Prie šioje dalyje nurodyto prašymo teismui pridedami savivaldybės administracijos Vaiko gerovės komisijos posėdžio, kuriame buvo svarstytas klausimas dėl vaiko vidutinės priežiūros priemonės skyrimo ar pratęsimo, protokolas, valstybinės vaiko teisių apsaugos institucijos raštu pateikta išvada, švietimo, mokslo ir sporto ministro įgaliotos institucijos išvada dėl vidutinės priežiūros vaikui skyrimo ar pratęsimo, kiti prašymą pagrindžiantys dokumentai.
 
 
 
 
-15. Savivaldybės administracijos direktorius, gavęs šio straipsnio 14 dalyje nurodytą teismo leidimą, ne vėliau kaip per 7 darbo dienas priima sprendimą skirti ar pratęsti vaiko vidutinės priežiūros priemonę. Savivaldybės administracijos direktoriaus sprendime dėl vaiko vidutinės priežiūros priemonės skyrimo arba pratęsimo nurodoma: vaikas, vaiko atstovai pagal įstatymą, tarpinstitucinio bendradarbiavimo koordinatorius, teismas, išdavęs leidimą, vaikų socializacijos centras, vidutinės priežiūros priemonės vykdymo terminas, mokykla, kurioje vaikas mokėsi, ir kita svarbi informacija. Savivaldybės administracijos direktoriaus sprendime taip pat nurodomos koordinuotai teikiamos paslaugos vaiko atstovams pagal įstatymą, jas koordinuojanti institucija, koordinuotai teikiamų paslaugų teikėjai, koordinuotai teikiamų paslaugų teikimo trukmė. Savivaldybės administracijos direktoriaus sprendime taip pat nurodomos kitos šio įstatymo 9 straipsnyje numatytos pagalbos priemonės vaiko atstovams pagal įstatymą, jeigu tokios buvo paskirtos, jų vykdymo terminas ir jas vykdantys asmenys. Prie savivaldybės administracijos direktoriaus sprendimo dėl vidutinės priežiūros priemonės skyrimo ar pratęsimo pridedami savivaldybės administracijos Vaiko gerovės komisijos posėdžio protokolas, valstybinės vaiko teisių apsaugos institucijos raštu pateikta išvada, švietimo, mokslo ir sporto ministro įgaliotos institucijos išvada.
+16. Savivaldybės meras, gavęs šio straipsnio 15 dalyje nurodytą teismo leidimą, ne vėliau kaip per 7 darbo dienas priima sprendimą skirti ar pratęsti vaiko vidutinės priežiūros priemonę. Savivaldybės mero sprendime dėl vaiko vidutinės priežiūros priemonės skyrimo arba pratęsimo nurodoma: vaikas, vaiko atstovai pagal įstatymą, tarpinstitucinio bendradarbiavimo koordinatorius, teismas, išdavęs leidimą, vaikų socializacijos centras, vidutinės priežiūros priemonės vykdymo terminas, mokykla, kurioje vaikas mokėsi, ir kita svarbi informacija. Savivaldybės mero sprendime taip pat nurodomos koordinuotai teikiamos paslaugos vaiko atstovams pagal įstatymą, jas koordinuojanti institucija, koordinuotai teikiamų paslaugų teikėjai, koordinuotai teikiamų paslaugų teikimo trukmė. Savivaldybės mero sprendime taip pat nurodomos kitos šio įstatymo 9 straipsnyje numatytos pagalbos priemonės vaiko atstovams pagal įstatymą, jeigu tokios buvo paskirtos, jų vykdymo terminas ir jas vykdantys asmenys. Prie savivaldybės mero sprendimo dėl vidutinės priežiūros priemonės skyrimo ar pratęsimo pridedami savivaldybės administracijos Vaiko gerovės komisijos posėdžio protokolas, valstybinės vaiko teisių apsaugos institucijos raštu pateikta išvada, švietimo, mokslo ir sporto ministro įgaliotos institucijos išvada. 
 
 
 
 
-16. Jeigu teismas neduoda leidimo vaikui skirti vidutinės priežiūros priemonę, savivaldybės administracijos direktorius šiame straipsnyje nustatyta tvarka sprendžia klausimą dėl vaiko minimalios priežiūros priemonių skyrimo.
+17. Jeigu teismas neduoda leidimo vaikui skirti vidutinės priežiūros priemonę, savivaldybės meras šiame straipsnyje nustatyta tvarka sprendžia klausimą dėl vaiko minimalios priežiūros priemonių skyrimo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
  
-
-
 
 
 
@@ -722,13 +734,15 @@ Vaiko minimalios ar vidutinės priežiūros priemonių vykdymas baigiasi:
 
 
 
-15 straipsnis. Savivaldybės administracijos direktoriaus sprendimų apskundimo tvarka
+15 straipsnis. Savivaldybės mero sprendimų apskundimo tvarka
 
 
-Savivaldybės administracijos direktoriaus sprendimai gali būti apskųsti Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Savivaldybės mero sprendimai gali būti apskųsti Viešojo administravimo įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
  
-
-
 
 
 
@@ -743,7 +757,10 @@ VAIKO MINIMALIOS PRIEŽIŪROS PRIEMONIŲ VYKDYMAS
 16 straipsnis. Vaikui paskirtų minimalios priežiūros priemonių vykdymo pradžia
 
 
-1. Savivaldybės administracijos direktoriaus sprendimą dėl vaiko minimalios priežiūros priemonių skyrimo, savivaldybės administracijos Vaiko gerovės komisijos posėdžio protokolą ir kitus sprendimą pagrindžiančius dokumentus per 3 darbo dienas nuo sprendimo priėmimo savivaldybės administracija išsiunčia (perduoda) tarpinstitucinio bendradarbiavimo koordinatoriui, koordinuojančiai institucijai ir vaiko atstovams pagal įstatymą. Koordinuojančios institucijos vadovas, gavęs savivaldybės administracijos direktoriaus sprendimą, ne vėliau kaip kitą darbo dieną iš savo institucijos paskiria atvejo vadybininką. 
+1. Savivaldybės mero sprendimą dėl vaiko minimalios priežiūros priemonių skyrimo, savivaldybės administracijos Vaiko gerovės komisijos posėdžio protokolą ir kitus sprendimą pagrindžiančius dokumentus per 3 darbo dienas nuo sprendimo priėmimo dienos savivaldybės administracija išsiunčia (perduoda) tarpinstitucinio bendradarbiavimo koordinatoriui, koordinuojančiai institucijai ir vaiko atstovams pagal įstatymą. Koordinuojančios institucijos vadovas, gavęs savivaldybės mero sprendimą, ne vėliau kaip kitą darbo dieną iš savo institucijos paskiria atvejo vadybininką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -782,7 +799,10 @@ VAIKO MINIMALIOS PRIEŽIŪROS PRIEMONIŲ VYKDYMAS
 
 
 
-4) teisę kreiptis su prašymais ar skundais į savivaldybės administracijos direktorių, atvejo vadybininką, tarpinstitucinio bendradarbiavimo koordinatorių, vaiko teisių apsaugos kontrolieriaus, valstybinę vaiko teisių apsaugos, teisėsaugos ir kitas institucijas, įstaigas ar organizacijas;
+4) teisę kreiptis su prašymais ar skundais į savivaldybės merą, atvejo vadybininką, tarpinstitucinio bendradarbiavimo koordinatorių, vaiko teisių apsaugos kontrolieriaus, valstybinę vaiko teisių apsaugos, teisėsaugos ir kitas institucijas, įstaigas ar organizacijas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -853,7 +873,10 @@ VAIKO MINIMALIOS PRIEŽIŪROS PRIEMONIŲ VYKDYMAS
 
 
 
-3) kreiptis su prašymais ar skundais į savivaldybės administracijos direktorių, atvejo vadybininką, tarpinstitucinio bendradarbiavimo koordinatorių, vaiko teisių apsaugos kontrolieriaus, valstybinę vaiko teisių apsaugos, teisėsaugos ir kitas institucijas, įstaigas ar organizacijas;
+3) kreiptis su prašymais ar skundais į savivaldybės merą, atvejo vadybininką, tarpinstitucinio bendradarbiavimo koordinatorių, vaiko teisių apsaugos kontrolieriaus, valstybinę vaiko teisių apsaugos, teisėsaugos ir kitas institucijas, įstaigas ar organizacijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -888,7 +911,10 @@ VAIKO MINIMALIOS PRIEŽIŪROS PRIEMONIŲ VYKDYMAS
 
 
 
-4) dalyvauti teikiant koordinuotai teikiamas paslaugas, vykdyti savivaldybės administracijos direktoriaus skirtas kitas pagalbos priemones, numatytas šio įstatymo 9 straipsnyje;
+4) dalyvauti teikiant koordinuotai teikiamas paslaugas, vykdyti savivaldybės mero skirtas kitas pagalbos priemones, numatytas šio įstatymo 9 straipsnyje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1073,12 +1099,18 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-7) priima sprendimą dėl vaiko atostogų, trumpalaikių išvykų, svečiavimosi, vadovaudamasis Vaiko vidutinės priežiūros priemonės įgyvendinimo tvarkos aprašo nuostatomis. Jeigu vaiko atstovai pagal įstatymą yra vaiko tėvai (tėvas, motina), šiame punkte nurodytas sprendimas priimamas gavus valstybinės vaiko teisių apsaugos institucijos informaciją apie vaiko tėvų (tėvo, motinos) tinkamas vaiko priežiūros ir gyvenimo sąlygas. Apie vaiko išvykimą dėl jo atostogų, trumpalaikių išvykų, svečiavimosi raštu pranešama atvejo vadybininkui, valstybinei vaiko teisių apsaugos institucijai, teritorinei policijos įstaigai, vaiko atstovams pagal įstatymą, prireikus – vaiko nuolatinės gyvenamosios vietos savivaldybės administracijos direktoriui, probacijos tarnybai;
+7) priima sprendimą dėl vaiko atostogų, trumpalaikių išvykų, svečiavimosi, vadovaudamasis Vaiko vidutinės priežiūros priemonės įgyvendinimo tvarkos aprašo nuostatomis. Jeigu vaiko atstovai pagal įstatymą yra vaiko tėvai (įtėviai), šiame punkte nurodytas sprendimas priimamas gavus valstybinės vaiko teisių apsaugos institucijos informaciją apie vaiko tėvų (įtėvių) tinkamas vaiko priežiūros ir gyvenimo sąlygas. Apie vaiko išvykimą atostogų, trumpalaikių išvykų, svečiuotis raštu pranešama atvejo vadybininkui, valstybinei vaiko teisių apsaugos institucijai, teritorinei policijos įstaigai, vaiko atstovams pagal įstatymą, prireikus – vaiko nuolatinės gyvenamosios vietos savivaldybės merui, probacijos tarnybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
 
-8) informuoja savivaldybės administracijos direktorių, tarpinstitucinio bendradarbiavimo koordinatorių, atvejo vadybininką dėl vaiko vidutinės priežiūros priemonės vykdymo sustabdymo ar nutraukimo;
+8) informuoja savivaldybės merą, tarpinstitucinio bendradarbiavimo koordinatorių, atvejo vadybininką dėl vaiko vidutinės priežiūros priemonės vykdymo sustabdymo ar nutraukimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1093,7 +1125,10 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-11) bendradarbiauja su tarpinstitucinio bendradarbiavimo koordinatoriumi, atvejo vadybininku, valstybine vaiko teisių apsaugos institucija, policijos įstaigomis, prokuratūra, probacijos tarnybomis, kitais asmenimis ir institucijomis, teikia siūlymus savivaldybės administracijos direktoriui dėl vaiko vidutinės priežiūros priemonės pratęsimo, pakeitimo ar panaikinimo;
+11) bendradarbiauja su tarpinstitucinio bendradarbiavimo koordinatoriumi, atvejo vadybininku, valstybine vaiko teisių apsaugos institucija, policijos įstaigomis, prokuratūra, probacijos tarnybomis, kitais asmenimis ir institucijomis, teikia siūlymus savivaldybės merui dėl vaiko vidutinės priežiūros priemonės pratęsimo, pakeitimo ar panaikinimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1108,7 +1143,10 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 2. Vaikų socializacijos centras turi teisę:
 
 
-1) kreiptis į vaiko nuolatinės gyvenamosios vietos savivaldybės administracijos direktorių dėl vaiko vidutinės priežiūros priemonės pratęsimo, pakeitimo ar panaikinimo;
+1) kreiptis į vaiko nuolatinės gyvenamosios vietos savivaldybės merą dėl vaiko vidutinės priežiūros priemonės pratęsimo, pakeitimo ar panaikinimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1163,7 +1201,10 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-6) sudaryti sąlygas vaikui kreiptis su prašymais ar skundais į vaikų socializacijos centro direktorių ar jo įgaliotą atstovą, savivaldybės administracijos direktorių, atvejo vadybininką, valstybinės vaiko teisių apsaugos, teisėsaugos ar kitas institucijas, įstaigas ar organizacijas;
+6) sudaryti sąlygas vaikui kreiptis su prašymais ar skundais į vaikų socializacijos centro direktorių ar jo įgaliotą atstovą, savivaldybės merą, atvejo vadybininką, valstybinės vaiko teisių apsaugos, teisėsaugos ar kitas institucijas, įstaigas ar organizacijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1178,12 +1219,18 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-9) ne rečiau kaip kartą per 6 mėnesius informuoti raštu, skubiais atvejais – žodžiu vaiko atstovus pagal įstatymą apie vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo eigą, nedelsdamas informuoti apie vaiko hospitalizavimą, sveikatos priežiūros paslaugų poreikį, vaiko savarankišką pasišalinimą iš vaikų socializacijos centro, paaiškėjusius vaiko teisių pažeidimus, būtinybę atstovauti vaikui ar ginti vaiko teises ir teisėtus interesus;
+9) ne rečiau kaip kartą per 6 mėnesius informuoti raštu, skubiais atvejais – žodžiu vaiko atstovus pagal įstatymą apie vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo eigą, nedelsdamas, tačiau ne vėliau kaip per 24 valandas informuoti apie vaiko hospitalizavimą, sveikatos priežiūros paslaugų poreikį, vaiko savarankišką pasišalinimą iš vaikų socializacijos centro, paaiškėjusius vaiko teisių pažeidimus, būtinybę atstovauti vaikui ar ginti vaiko teises ir teisėtus interesus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
 
-10) ne rečiau kaip kartą per 6 mėnesius raštu teikti išvadas savivaldybės administracijos direktoriui, atvejo vadybininkui apie vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo eigą;
+10) ne rečiau kaip kartą per 6 mėnesius raštu teikti išvadas savivaldybės merui, atvejo vadybininkui apie vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo eigą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1198,7 +1245,10 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-13) ne vėliau kaip likus vienam mėnesiui iki vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo pabaigos raštu informuoti vaiko atstovus pagal įstatymą, tarpinstitucinio bendradarbiavimo koordinatorių, savivaldybės administracijos direktorių ir kitas atsakingas institucijas apie numatomą vaiko sugrįžimą iš vaikų socializacijos centro, atvejo vadybininkui pateikti informaciją apie vaiko elgesio pokyčius, poreikius ir galimybes bei rekomendacijas dėl vaiko integracijos į visuomenę;
+13) ne vėliau kaip likus vienam mėnesiui iki vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo pabaigos raštu informuoti vaiko atstovus pagal įstatymą, tarpinstitucinio bendradarbiavimo koordinatorių, savivaldybės merą ir kitas atsakingas institucijas apie numatomą vaiko sugrįžimą iš vaikų socializacijos centro, atvejo vadybininkui pateikti informaciją apie vaiko elgesio pokyčius, poreikius ir galimybes bei rekomendacijas dėl vaiko integracijos į visuomenę;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1231,12 +1281,18 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 22 straipsnis. Vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo pradžia ir pabaiga
 
 
-1. Sprendimą dėl vaiko vidutinės priežiūros priemonės skyrimo ar įsiteisėjusį teismo nuosprendį dėl auklėjamojo poveikio priemonės skyrimo savivaldybės administracijos direktorius per 3 darbo dienas nuo jų atitinkamai priėmimo arba gavimo išsiunčia (perduoda) vaikų socializacijos centrui, į kurį siunčiamas vaikas, valstybinei vaiko teisių apsaugos institucijai, tarpinstitucinio bendradarbiavimo koordinatoriui, teritorinei policijos įstaigai, vaiko atstovams pagal įstatymą ir informuoja juos apie numatomą vaiko pristatymo į vaikų socializacijos centrą datą.
+1. Sprendimą dėl vaiko vidutinės priežiūros priemonės skyrimo ar įsiteisėjusį teismo nuosprendį dėl auklėjamojo poveikio priemonės skyrimo savivaldybės meras per 3 darbo dienas nuo jų atitinkamai priėmimo arba gavimo dienos išsiunčia (perduoda) vaikų socializacijos centrui, į kurį siunčiamas vaikas, valstybinei vaiko teisių apsaugos institucijai, tarpinstitucinio bendradarbiavimo koordinatoriui, teritorinei policijos įstaigai, vaiko atstovams pagal įstatymą ir informuoja juos apie numatomą vaiko pristatymo į vaikų socializacijos centrą datą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
 
-2. Savivaldybės administracijos direktorius, informavęs šio straipsnio 1 dalyje nurodytas institucijas ir asmenis, nedelsdamas organizuoja vaiko pristatymą į vaikų socializacijos centrą. Tais atvejais, kai reikia užtikrinti vaiko arba kitų asmenų saugumą, savivaldybės administracija vaiko pristatymą į vaikų socializacijos centrą organizuoja kartu su teritorine policijos įstaiga. Atvejo vadybininkas ir vaiko atstovas pagal įstatymą, išskyrus atvejus, kai jis negali vykti kartu dėl svarbių priežasčių, privalo lydėti vaiką į vaikų socializacijos centrą.
+2. Savivaldybės meras, informavęs šio straipsnio 1 dalyje nurodytas institucijas ir asmenis, nedelsdamas, tačiau ne vėliau kaip per 1 darbo dieną organizuoja vaiko pristatymą į vaikų socializacijos centrą. Kai reikia užtikrinti vaiko arba kitų asmenų saugumą, vaiko pristatymas į vaikų socializacijos centrą organizuojamas kartu su teritorine policijos įstaiga. Atvejo vadybininkas ir vaiko atstovas pagal įstatymą privalo lydėti vaiką į vaikų socializacijos centrą, išskyrus atvejus, kai jie negali vykti kartu su vaiku dėl svarbių priežasčių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1246,7 +1302,10 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-4. Pristatant į vaikų socializacijos centrą vaiką, kuriam paskirta vaiko vidutinės priežiūros priemonė, turi būti pateikiamas vaiko asmens tapatybę patvirtinantis dokumentas, teismo leidimas ir savivaldybės administracijos direktoriaus sprendimas dėl vaiko vidutinės priežiūros priemonės skyrimo, vaiko išsilavinimo pažymėjimas arba pažyma apie vaiko mokymosi pasiekimus, pedagoginės psichologinės tarnybos pažyma apie asmens specialiuosius ugdymo (ugdymosi) poreikius, pažyma iš mokyklos, kurioje vaikas mokėsi, apie jo išregistravimą iš Mokinių registro, valstybinės vaiko teisių apsaugos institucijos raštu pateikta išvada, švietimo, mokslo ir sporto ministro įgaliotos institucijos išvada, vaiko sveikatos pažymėjimas, vaiko charakteristika iš mokyklos, kurioje vaikas mokėsi. Jeigu vaikui buvo taikytos vaiko minimalios priežiūros priemonės, turi būti pateikiama atvejo vadybininko informacija apie  individualaus vaiko minimalios priežiūros vykdymo plano įgyvendinimą.
+4. Pristatant į vaikų socializacijos centrą vaiką, kuriam paskirta vaiko vidutinės priežiūros priemonė, turi būti pateikiamas vaiko asmens tapatybę patvirtinantis dokumentas, teismo leidimas ir savivaldybės mero sprendimas dėl vaiko vidutinės priežiūros priemonės skyrimo, vaiko išsilavinimo pažymėjimas arba pažyma apie vaiko mokymosi pasiekimus, pedagoginės psichologinės tarnybos pažyma apie asmens specialiuosius ugdymo (ugdymosi) poreikius, pažyma iš mokyklos, kurioje vaikas mokėsi, apie jo išregistravimą iš Mokinių registro, valstybinės vaiko teisių apsaugos institucijos raštu pateikta išvada, švietimo, mokslo ir sporto ministro įgaliotos institucijos išvada, vaiko sveikatos pažymėjimas, vaiko charakteristika iš mokyklos, kurioje vaikas mokėsi. Jeigu vaikui buvo taikytos vaiko minimalios priežiūros priemonės, turi būti pateikiama atvejo vadybininko informacija apie individualaus vaiko minimalios priežiūros vykdymo plano įgyvendinimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1295,7 +1354,10 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-5) kreiptis su prašymais ar skundais į vaikų socializacijos centro direktorių ar jo įgaliotą atstovą, savivaldybės administracijos direktorių, atvejo vadybininką, vaiko teisių apsaugos kontrolieriaus, valstybinės vaiko teisių apsaugos, teisėsaugos ar kitas institucijas, įstaigas ar organizacijas;
+5) kreiptis su prašymais ar skundais į vaikų socializacijos centro direktorių ar jo įgaliotą atstovą, savivaldybės merą, atvejo vadybininką, vaiko teisių apsaugos kontrolieriaus, valstybinės vaiko teisių apsaugos, teisėsaugos ar kitas institucijas, įstaigas ar organizacijas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1371,7 +1433,10 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-4) kreiptis su prašymais ar skundais į vaikų socializacijos centro direktorių ar jo įgaliotą atstovą, savivaldybės administracijos direktorių, atvejo vadybininką, valstybinės vaiko teisių apsaugos, teisėsaugos ir kitas institucijas, įstaigas ar organizacijas;
+4) kreiptis su prašymais ar skundais į vaikų socializacijos centro direktorių ar jo įgaliotą atstovą, savivaldybės merą, atvejo vadybininką, valstybinės vaiko teisių apsaugos, teisėsaugos ir kitas institucijas, įstaigas ar organizacijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1411,12 +1476,18 @@ VAIKO VIDUTINĖS PRIEŽIŪROS PRIEMONĖS VYKDYMAS
 
 
 
-4) užtikrinti tinkamą vaiko aprūpinimą drabužiais, avalyne, higienos ir kitomis būtinomis priemonėmis, kai vaikas yra vaikų socializacijos centre, tinkamas vaiko priežiūros ir gyvenimo sąlygas jo svečiavimosi, atostogų metu ir vaiko grįžimą laiku į vaikų socializacijos centrą bei nedelsdami informuoti teritorinę policijos įstaigą, atvejo vadybininką ir vaikų socializacijos centrą, jeigu vaikas negali ar vengia grįžti į vaikų socializacijos centrą, yra savavališkai iš jo pasišalinęs, pasibaigus nustatytam vaiko vidutinės priežiūros priemonės vykdymo terminui ir jam sugrįžus iš centro, sudaryti tinkamas vaiko priežiūros ir gyvenimo sąlygas;
+4) užtikrinti tinkamą vaiko aprūpinimą drabužiais, avalyne, higienos ir kitomis būtinomis priemonėmis, kai vaikas yra vaikų socializacijos centre, tinkamas vaiko priežiūros ir gyvenimo sąlygas jo svečiavimosi, atostogų metu ir vaiko grįžimą laiku į vaikų socializacijos centrą bei nedelsdami, tačiau ne vėliau kaip per 24 valandas informuoti teritorinę policijos įstaigą, atvejo vadybininką ir vaikų socializacijos centrą, jeigu vaikas negali ar vengia grįžti į vaikų socializacijos centrą, yra savavališkai iš jo pasišalinęs, pasibaigus nustatytam vaiko vidutinės priežiūros priemonės vykdymo terminui ir jam sugrįžus iš centro, sudaryti tinkamas vaiko priežiūros ir gyvenimo sąlygas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
 
-5) dalyvauti teikiant koordinuotai teikiamas paslaugas, vykdyti savivaldybės administracijos direktoriaus skirtas pagalbos priemones, numatytas šio įstatymo 9 straipsnyje;
+5) dalyvauti teikiant koordinuotai teikiamas paslaugas, vykdyti savivaldybės mero skirtas pagalbos priemones, numatytas šio įstatymo 9 straipsnyje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1641,23 +1712,23 @@ Lietuvos Respublikos švietimo, mokslo ir sporto ministerija, formuodama vaiko m
 
 
 
-28 straipsnis. Savivaldybės administracijos direktoriaus įgaliojimai
+28 straipsnis. Savivaldybės mero įgaliojimai
 
 
-Savivaldybės administracijos direktorius:
+Savivaldybės meras:
 
 
-1) organizuoja, koordinuoja ir kontroliuoja, kaip vykdomos vaiko minimalios priežiūros priemonės savivaldybėje, tvirtina Vaiko minimalios ir vidutinės priežiūros priemonių, auklėjamojo poveikio priemonės įgyvendinimo savivaldybėje organizavimo, koordinavimo ir kontrolės tvarkos aprašą, parengtą pagal švietimo, mokslo ir sporto ministro patvirtintas rekomendacijas;
-
-
-
-
-2) vykdo šio įstatymo nuostatų įgyvendinimo savivaldybėje stebėseną ir teikia siūlymus Švietimo, mokslo ir sporto ministerijai, kitoms ministerijoms ir suinteresuotoms institucijoms dėl vaiko minimalios ir vidutinės priežiūros priemonių ar auklėjamojo poveikio priemonės tobulinimo;
+1) organizuoja, koordinuoja ir kontroliuoja, kaip vykdomos vaiko minimalios priežiūros priemonės savivaldybėje, tvirtina vaiko minimalios ir vidutinės priežiūros priemonių, auklėjamojo poveikio priemonės įgyvendinimo savivaldybėje organizavimo, koordinavimo ir kontrolės tvarkos aprašą, parengtą pagal švietimo, mokslo ir sporto ministro patvirtintas rekomendacijas;
 
 
 
 
-3) užtikrina reikalingų koordinuotai teikiamų paslaugų ir kitos pagalbos vaikui, kuriam paskirtos minimalios ar vidutinės priežiūros ar auklėjamojo poveikio priemonės, ir jo atstovams pagal įstatymą teikimą;
+2) vykdo šio įstatymo nuostatų įgyvendinimo savivaldybėje stebėseną ir teikia siūlymus Švietimo, mokslo ir sporto ministerijai, kitoms ministerijoms ir suinteresuotoms institucijoms dėl vaiko minimalios ir vidutinės priežiūros priemonių ar auklėjamojo poveikio priemonės tobulinimo; 
+
+
+
+
+3) užtikrina reikalingų koordinuotai teikiamų paslaugų ir kitos pagalbos vaikui, kuriam paskirtos minimalios ar vidutinės priežiūros arba auklėjamojo poveikio priemonės, ir jo atstovams pagal įstatymą teikimą;
 
 
 
@@ -1673,11 +1744,13 @@ Savivaldybės administracijos direktorius:
 
 
 6) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
  
-
-
-
-
 
 
 
@@ -1693,7 +1766,10 @@ Savivaldybės administracijos direktorius:
 
 
 
-2) pasibaigus nustatytam vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo terminui, koordinuoja vaiko socialinę integraciją į bendruomenę, koordinuotai teikiamų paslaugų teikimą vaikui ir vaiko atstovams pagal įstatymą, tvirtina vaiko socialinės integracijos planą, teikia prašymą savivaldybės administracijos direktoriui dėl vaiko minimalios priežiūros priemonių skyrimo, pakeitimo, pratęsimo ar panaikinimo; 
+2) pasibaigus nustatytam vaiko vidutinės priežiūros ar auklėjamojo poveikio priemonės vykdymo terminui, koordinuoja vaiko socialinę integraciją į bendruomenę, koordinuotai teikiamų paslaugų teikimą vaikui ir vaiko atstovams pagal įstatymą, tvirtina vaiko socialinės integracijos planą, teikia prašymą savivaldybės merui dėl vaiko minimalios priežiūros priemonių skyrimo, pakeitimo, pratęsimo ar panaikinimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1703,12 +1779,18 @@ Savivaldybės administracijos direktorius:
 
 
 
-4) vertina vaiko minimalios priežiūros priemones vykdančių asmenų ir jų teikiamų paslaugų, koordinuotai teikiamų paslaugų, kitų pagalbos priemonių vaiko atstovams pagal įstatymą, kai vaikui skiriamos minimalios ar vidutinės priežiūros priemonės, įvairovę, prieinamumą, nustato jų poreikį savivaldybėje, kaupia ir analizuoja duomenis apie vaiko minimalios priežiūros priemonių įgyvendinimą savivaldybėje ir teikia siūlymus savivaldybės administracijos direktoriui dėl jų steigimo, plėtros ir tobulinimo; 
+4) vertina vaiko minimalios priežiūros priemones vykdančių asmenų ir jų teikiamų paslaugų, koordinuotai teikiamų paslaugų, kitų pagalbos priemonių vaiko atstovams pagal įstatymą, kai vaikui skiriamos minimalios ar vidutinės priežiūros priemonės, įvairovę, prieinamumą, nustato jų poreikį savivaldybėje, kaupia ir analizuoja duomenis apie vaiko minimalios priežiūros priemonių įgyvendinimą savivaldybėje ir teikia siūlymus savivaldybės merui dėl šių priemonių steigimo, plėtros ir tobulinimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
 
-5) kartą per metus atsiskaito savivaldybės administracijos direktoriui už vaiko minimalios priežiūros priemonių, koordinuotai teikiamų paslaugų, kitų pagalbos priemonių vaiko atstovams pagal įstatymą, kai vaikui skiriamos minimalios ar vidutinės priežiūros priemonės, vaikų socialinės integracijos planų įgyvendinimą, jų vykdymo eigą ir rezultatus; 
+5) kartą per metus atsiskaito savivaldybės merui už vaiko minimalios priežiūros priemonių, koordinuotai teikiamų paslaugų, kitų pagalbos priemonių vaiko atstovams pagal įstatymą, kai vaikui skiriamos minimalios ar vidutinės priežiūros priemonės, vaikų socialinės integracijos planų įgyvendinimą, jų vykdymo eigą ir rezultatus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1751,7 +1833,10 @@ Savivaldybės administracijos direktorius:
 
 
 
-3. Savivaldybės administracijos direktorius tvirtina savivaldybės administracijos Vaiko gerovės komisijos sudėtį ir jos darbo reglamentą, skiria iš komisijos narių sekretorių, kuris yra savivaldybės administracijos atstovas. Tarpinstitucinio bendradarbiavimo koordinatorius atlieka savivaldybės administracijos Vaiko gerovės komisijos pirmininko funkcijas.
+3. Savivaldybės meras tvirtina savivaldybės administracijos Vaiko gerovės komisijos sudėtį ir jos darbo reglamentą, skiria iš komisijos narių sekretorių, kuris yra savivaldybės administracijos atstovas. Tarpinstitucinio bendradarbiavimo koordinatorius atlieka savivaldybės administracijos Vaiko gerovės komisijos pirmininko funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1759,17 +1844,17 @@ Savivaldybės administracijos direktorius:
 4. Savivaldybės administracijos Vaiko gerovės komisija:
 
 
-1) kiekvienais metais tvirtina metų veiklos planą, nustatydama vaiko gerovės prioritetus, tikslus, priemones jiems įgyvendinti, ir savivaldybės administracijos direktoriaus nustatyta tvarka atsiskaito už jo įgyvendinimą;
+1) kiekvienais metais tvirtina metų veiklos planą, nustatydama vaiko gerovės prioritetus, tikslus, priemones jiems įgyvendinti, ir savivaldybės mero nustatyta tvarka atsiskaito už jo įgyvendinimą;
 
 
 
 
-2) surenka informaciją, būtiną savivaldybės administracijos direktoriaus sprendimui dėl vaiko minimalios priežiūros priemonių skyrimo, pratęsimo, pakeitimo ar panaikinimo arba dėl vaiko vidutinės priežiūros priemonės skyrimo, pratęsimo ar panaikinimo priimti;
+2) surenka informaciją, būtiną savivaldybės mero sprendimui dėl vaiko minimalios priežiūros priemonių skyrimo, pratęsimo, pakeitimo ar panaikinimo arba dėl vaiko vidutinės priežiūros priemonės skyrimo, pratęsimo ar panaikinimo priimti;
 
 
 
 
-3) nagrinėja prašymus ir teikia siūlymus savivaldybės administracijos direktoriui dėl vaiko minimalios ar vidutinės priežiūros priemonių skyrimo, pratęsimo, pakeitimo ar panaikinimo ir kitų priemonių, numatytų šio įstatymo 7 ir 9 straipsniuose, skyrimo;
+3) nagrinėja prašymus ir teikia siūlymus savivaldybės merui dėl vaiko minimalios ar vidutinės priežiūros priemonių skyrimo, pratęsimo, pakeitimo ar panaikinimo ir kitų priemonių, numatytų šio įstatymo 7 ir 9 straipsniuose, skyrimo;
 
 
 
@@ -1784,12 +1869,12 @@ Savivaldybės administracijos direktorius:
 
 
 
-6) koordinuoja mokyklų vaiko gerovės komisijų veiklą, vaiko gerovės srityje dirbančių institucijų ir nevyriausybinių organizacijų tarpusavio bendradarbiavimą;
+6) koordinuoja mokyklų vaiko gerovės komisijų veiklą, vaiko gerovės srityje dirbančių institucijų ir nevyriausybinių organizacijų tarpusavio bendradarbiavimą; 
 
 
 
 
-7) teikia siūlymus savivaldybės administracijos direktoriui dėl vaiko minimalios ar vidutinės priežiūros priemonių tobulinimo;
+7) teikia siūlymus savivaldybės merui dėl vaiko minimalios ar vidutinės priežiūros priemonių tobulinimo; 
 
 
 
@@ -1797,6 +1882,9 @@ Savivaldybės administracijos direktorius:
 8) atlieka kitas teisės aktuose nustatytas funkcijas.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+ 
 
 
 
@@ -1910,7 +1998,9 @@ Mokyklos, išskyrus vaikų socializacijos centrą, vadovas:
 
 
 
-9) teikia prašymus savivaldybės administracijos direktoriui dėl vaiko minimalios ar vidutinės priežiūros priemonių skyrimo.
+9) teikia prašymus savivaldybės merui dėl vaiko minimalios ar vidutinės priežiūros priemonių skyrimo.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
  
 
 
@@ -2001,3 +2091,8 @@ Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-486, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15867
 Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 2 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1837, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05879
+Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 2, 7, 11, 12, 15, 16, 17, 18, 21, 22, 23, 24, 28, 29, 30 ir 31 straipsnių pakeitimo įstatymas
