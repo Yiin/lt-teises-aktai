@@ -18,17 +18,16 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-11-29
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
-TAR pastaba. Įstatymas Nr. XIV-1761 taikomas rengiant 2023 ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo ir savivaldybių biudžetų projektus.
+TAR pastaba. Įstatymų Nr. XIV-1271 ir Nr. XIV-1764 nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 10, 17, 18, 21 ir 26 straipsnių pakeitimo įstatymas
+Nr. XIV-1764, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27579
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 11, 25, 26, 27, 31 ir 34 straipsnių pakeitimo įstatymo Nr. XIV-1271 3 straipsnio pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2004-01-07: 
 Nr. IX-1946, 2003-12-23, Žin., 2004, Nr. 4-47 (2004-01-07)
@@ -558,7 +557,10 @@ Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 
 
-3. Informaciją apie patvirtintus savivaldybių biudžetus, jų vykdymą skelbia savivaldybės administracijos direktorius vietinėje spaudoje.
+3. Informaciją apie patvirtintus savivaldybių biudžetus, jų vykdymą skelbia savivaldybės meras (toliau – meras) vietinėje spaudoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
+ 
 
 
 Straipsnio pakeitimai:
@@ -1240,18 +1242,18 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-25 straipsnis. Savivaldybės administracijos direktoriaus rezervas
+25 straipsnis. Mero rezervas
 
 
-1. Savivaldybės sudaro savivaldybės administracijos direktoriaus rezervą, kuris turi būti ne mažesnis kaip 0,25 procento ir ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto pajamų (neįskaitant valstybės dotacijų savivaldybių biudžetams). Savivaldybės administracijos direktoriaus rezervas gali būti didesnis kaip 1 procentas, kai yra paskelbta valstybės ir (arba) savivaldybės lygio ekstremalioji situacija ir (arba) įvesta nepaprastoji padėtis. Konkretų savivaldybės administracijos direktoriaus rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama tam tikrų metų savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas skirsto savivaldybės administracijos direktorius.
+1. Savivaldybės sudaro mero rezervą, kuris turi būti ne mažesnis kaip 0,25 procento ir ne didesnis kaip 1 procentas patvirtintų savivaldybės biudžeto pajamų (neįskaitant valstybės dotacijų savivaldybių biudžetams). Mero rezervas gali būti didesnis kaip 1 procentas, kai yra paskelbta valstybės ir (arba) savivaldybės lygio ekstremalioji situacija ir (arba) įvesta nepaprastoji padėtis. Konkretų mero rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama tam tikrų metų savivaldybės biudžetą. Mero rezervo lėšas skirsto meras.
 
 
 
 
-2. Savivaldybės administracijos direktoriaus rezervo lėšos naudojamos savivaldybės tarybos nustatyta tvarka:
+2. Mero rezervo lėšos naudojamos savivaldybės tarybos nustatyta tvarka:
 
 
-1) ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies apmokėti; 
+1) ekstremaliosioms situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies apmokėti;
 
 
 
@@ -1261,38 +1263,44 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-3) dėl nepaprastosios padėties atsiradusioms išlaidoms iš dalies apmokėti ir (arba) jos padariniams šalinti.
+3) dėl nepaprastosios padėties atsiradusioms išlaidoms iš dalies apmokėti ir (arba) jos padariniams šalinti. 
 
 
 
 
-Straipsnio pakeitimai:
-Nr. XI-2069, 2012-06-14, Žin., 2012, Nr. 76-3923 (2012-06-30)
 Straipsnio pakeitimai:
 Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
  
 
 
- 
 
 
 26 straipsnis. Savivaldybių biudžetų rengimas ir tvirtinimas
 
 
-1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios institucijos, remdamosi šiuo Įstatymu, Fiskalinės sutarties įgyvendinimo konstituciniu įstatymu, kitais įstatymais, Seimo patvirtintais savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų sudarymo ir vykdymo taisyklėmis, Oficialiosios statistikos portale skelbiamais duomenimis, patvirtintais savivaldybių planavimo dokumentais, taip pat savivaldybių biudžetų asignavimų valdytojų programomis ir jų sąmatų projektais. 
+1. Savivaldybių biudžetų projektus rengia merai, remdamiesi šiuo Įstatymu, Fiskalinės sutarties įgyvendinimo konstituciniu įstatymu, kitais įstatymais, Seimo patvirtintais savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų sudarymo ir vykdymo taisyklėmis, Oficialiosios statistikos portale skelbiamais duomenimis, patvirtintais savivaldybių planavimo dokumentais, taip pat savivaldybių biudžetų asignavimų valdytojų programomis ir jų sąmatų projektais.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
+Nr. XIV-1764, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27579
  
 
 
 
 
-2. Savivaldybių vykdomosios institucijos parengtus biudžetų projektus teikia savivaldybių taryboms savivaldybių tarybų reglamento nustatyta tvarka.
+2. Merai parengtus biudžetų projektus teikia savivaldybių taryboms savivaldybių tarybų reglamento nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
+ 
 
 
 
 
-3. Savivaldybių tarybos svarsto biudžetų projektus atsižvelgdamos į savivaldybių vykdomųjų institucijų pranešimus, tarybos komitetų pasiūlymus ir išvadas.
+3. Savivaldybių tarybos svarsto biudžetų projektus atsižvelgdamos į merų pranešimus, tarybos komitetų pasiūlymus ir išvadas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
+ 
 
 
 
@@ -1328,9 +1336,10 @@ Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
 
 
 
-6. Patvirtintus biudžetus savivaldybių administracijų direktoriai pateikia Finansų ministerijai.
+6. Patvirtintus biudžetus merai pateikia Finansų ministerijai. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
  
 
 
@@ -1369,7 +1378,10 @@ Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
 
 
 
-3. Savivaldybių biudžetų vykdymą organizuoja savivaldybių administracijų direktoriai.
+3. Savivaldybių biudžetų vykdymą organizuoja merai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
+ 
 
 
 
@@ -1464,7 +1476,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-2. Jeigu nevykdomi savivaldybių biudžetai, tai yra gaunama mažiau pajamų, negu buvo numatyta, finansavimas iš savivaldybių biudžetų vykdomas savivaldybių tarybų nustatyta tvarka. Jeigu numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas, sprendimus dėl šiuose biudžetuose numatytų programų finansavimo tvarkos savivaldybės administracijos direktoriaus teikimu priima savivaldybės taryba.
+2. Jeigu nevykdomi savivaldybių biudžetai, tai yra gaunama mažiau pajamų, negu buvo numatyta, finansavimas iš savivaldybių biudžetų vykdomas savivaldybių tarybų nustatyta tvarka. Jeigu numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas, sprendimus dėl šiuose biudžetuose numatytų programų finansavimo tvarkos mero teikimu priima savivaldybės taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
+ 
 
 
 
@@ -1613,11 +1628,12 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 34 straipsnis. Valstybės biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymai
 
 
-Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant įstatymus, dėl kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų biudžetinių metų įsipareigojimai, valstybės institucijos ir įstaigos bei savivaldybių vykdomosios institucijos patikslina valstybės biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus.
+Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant įstatymus, dėl kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų biudžetinių metų įsipareigojimai, valstybės institucijos ir įstaigos bei merai patikslina valstybės biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus. 
 
 
 Straipsnio pakeitimai:
 Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
  
 
 
@@ -1823,8 +1839,6 @@ Nr. I-430
 
 
 
- 
-
  
 Lietuvos Respublikos
 biudžeto sandaros įstatymo
@@ -1841,7 +1855,8 @@ priedas
 Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31) 
  
  
-part_8ae39d05ced24a288b692dac41ef5528_end
+
+
 
 
 Pakeitimai:
@@ -2238,3 +2253,13 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 35 ir 38 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 10, 17, 18, 21 ir 26 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 11, 25, 26, 27, 31 ir 34 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1764, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27579
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 11, 25, 26, 27, 31 ir 34 straipsnių pakeitimo įstatymo Nr. XIV-1271 3 straipsnio pakeitimo įstatymas
