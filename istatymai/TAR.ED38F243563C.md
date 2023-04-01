@@ -18,10 +18,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
  
@@ -694,7 +693,11 @@ III. NUKENTĖJUSIŲJŲ ASMENŲ VALSTYBINĖS PENSIJOS
 Nukentėjusiųjų asmenų valstybines pensijas turi teisę gauti Lietuvos Respublikos piliečiai, deklaravę gyvenamąją vietą arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, kurie negauna iš kitos valstybės panašaus pobūdžio pensijos (išskyrus socialinio draudimo pensiją) ar kitokios nuolatinės kompensacinės išmokos:
 
 
-1) kurie tapo invalidais dėl 1991 metų sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, taip pat Lietuvos Respublikos nepriklausomybės gynėjai, sužaloti 1991 metų sausio 11–13 dienomis ir po to vykdytos SSRS agresijos, bet dėl to netapę invalidais, pateikę savivaldybės institucijos išduotą pažymėjimą, patvirtinantį nurodytą teisinį statusą, bei Lietuvos Respublikos generalinės prokuratūros išduotą pažymą, patvirtinančią sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 metais, faktą;
+1) kurie tapo invalidais dėl 1991 metų sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių, taip pat Lietuvos Respublikos nepriklausomybės gynėjai, sužaloti dėl 1991 metų sausio 11–13 dienomis ir po to vykdytos SSRS agresijos, bet dėl to netapę invalidais, pateikę savivaldybės administracijos pagal Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymą išduotą pažymėjimą, patvirtinantį nurodytą teisinį statusą, bei Lietuvos Respublikos generalinės prokuratūros išduotą pažymą, patvirtinančią sužalojimo, padaryto ginant Lietuvos Respublikos laisvę 1991 metais, faktą;
+Straipsnio punkto pakeitimai:
+TAR pastaba. punkto nuostatospradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos valstybinių pensijų įstatymo nuostatos.
+Nr. XIV-1847, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05747
+ 
 
 
 
@@ -1713,3 +1716,8 @@ Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 5 ir 15-1 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-355, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13158
 Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 3 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1847, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05747
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 11 straipsnio pakeitimo įstatymas
