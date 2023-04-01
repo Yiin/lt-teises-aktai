@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2022-09-30 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-09-18
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -1727,7 +1727,10 @@ Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
 
 
 
-14. Sprendimas dėl piniginės socialinės paramos skyrimo priimamas nurodant šio įstatymo 8 straipsnio 1 dalies sąlygą (sąlygas), kuriai (kurioms) esant paskirta piniginė socialinė parama, ne vėliau kaip per mėnesį nuo prašymo-paraiškos ir visų reikalingų dokumentų gavimo dienos savivaldybės administracijos nustatyta tvarka.
+14. Sprendimas dėl piniginės socialinės paramos skyrimo priimamas nurodant šio įstatymo 8 straipsnio 1 dalies sąlygą (sąlygas), kuriai (kurioms) esant paskirta piniginė socialinė parama, ne vėliau kaip per mėnesį nuo prašymo-paraiškos ir visų reikalingų dokumentų gavimo dienos savivaldybės mero nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1844, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05744
+ 
 
 
 
@@ -2209,14 +2212,15 @@ NETEISĖTAI GAUTOS PINIGINĖS SOCIALINĖS PARAMOS IŠIEŠKOJIMAS
 
 
 
-27 straipsnis. Dėl savivaldybės administracijos valstybės tarnautojų ir (ar) darbuotojų, dirbančių pagal darbo sutartis, kaltės neteisėtai išmokėtos piniginės socialinės paramos išieškojimas 
+27 straipsnis. Dėl savivaldybės administracijos valstybės tarnautojų kaltės neteisėtai išmokėtos piniginės socialinės paramos išieškojimas
 
 
-Dėl savivaldybės administracijos valstybės tarnautojų ir (ar) darbuotojų, dirbančių pagal darbo sutartis, kaltės neteisėtai išmokėtos piniginės socialinės paramos lėšos išieškomos Lietuvos Respublikos įstatymų nustatyta tvarka.
+Dėl savivaldybės administracijos valstybės tarnautojų kaltės neteisėtai išmokėtos piniginės socialinės paramos lėšos išieškomos Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1844, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05744
  
- 
-
-
 
 
 
@@ -2656,3 +2660,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1428, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19806
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 21 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1844, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05744
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 21 ir 27 straipsnių pakeitimo įstatymas
