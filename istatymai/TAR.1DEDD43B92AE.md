@@ -18,12 +18,16 @@ LIETUVOS RESPUBLIKOS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-11-02 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
+ 
+TAR pastaba. Įstatymo Nr. XIV-1842  nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos išmokų vaikams įstatymo nuostatos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17, 20, 21 ir 24 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2018-01-01:
 Nr. XIII-822, 2017-12-05, paskelbta TAR 2017-12-18, i. k. 2017-20326
@@ -1047,11 +1051,12 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 
-10. Kai Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka pas fizinius ar juridinius asmenis laikinai apgyvendintas vaikas grąžinamas tėvams ar kitiems vaiko atstovams pagal įstatymą, pagal šį įstatymą vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą arba vaikams paskirtų ir sustabdytų išmokų neišmokėta priklausiusi išmokų suma išmokama vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą ir jų mokėjimas tęsiamas nuo vaiko grąžinimo tėvams ar kitiems vaiko atstovams pagal įstatymą dienos. Kai vaiko laikino apgyvendinimo metu įsiteisėja teismo nutartis, leidžianti paimti vaiką iš jo atstovų pagal įstatymą, arba įsiteisėja teismo nutartis ar priimamas savivaldybės administracijos direktoriaus įsakymas atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų arba nušalinti nuo jų, pagal šį įstatymą vaikams paskirtų ir sustabdytų šio įstatymo 6 ir 11 straipsniuose nustatytų išmokų neišmokėta priklausiusi išmokų suma už laikotarpį nuo vaiko laikino apgyvendinimo dienos iki vaiko globos (rūpybos) nustatymo arba kito globėjo (rūpintojo) paskyrimo dienos išmokama paskirtam vaiko globėjui (rūpintojui), kitų pagal šį įstatymą vaikams ar vaiko atstovams pagal įstatymą paskirtų ir sustabdytų išmokų mokėjimas nutraukiamas nuo vaiko laikino apgyvendinimo nustatymo pirmos dienos.
+10. Jeigu Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka pas fizinius ar juridinius asmenis laikinai apgyvendintas vaikas grąžinamas tėvams ar kitiems vaiko atstovams pagal įstatymą, neišmokėta priklausiusi pagal šį įstatymą vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą arba vaikams paskirtų ir sustabdytų išmokų suma išmokama vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą ir jų mokėjimas tęsiamas nuo vaiko grąžinimo tėvams ar kitiems vaiko atstovams pagal įstatymą dienos. Jeigu vaiko laikino apgyvendinimo metu įsiteisėja teismo nutartis, leidžianti paimti vaiką iš jo atstovų pagal įstatymą, arba įsiteisėja teismo nutartis ar priimamas savivaldybės mero sprendimas atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų arba nušalinti nuo jų, neišmokėta priklausiusi pagal šį įstatymą vaikams paskirtų ir sustabdytų šio įstatymo 6 ir 11 straipsniuose nustatytų išmokų suma už laikotarpį nuo vaiko laikino apgyvendinimo dienos iki vaiko globos (rūpybos) nustatymo arba kito globėjo (rūpintojo) paskyrimo dienos išmokama paskirtam vaiko globėjui (rūpintojui), kitų pagal šį įstatymą vaikams ar vaiko atstovams pagal įstatymą paskirtų ir sustabdytų išmokų mokėjimas nutraukiamas nuo vaiko laikino apgyvendinimo nustatymo pirmos dienos.
 Papildyta straipsnio dalimi:
 Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 Straipsnio dalies pakeitimai:
 Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
+Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
  
 
 
@@ -1194,7 +1199,10 @@ Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 
 
 
-3. Jeigu asmenys kreipdamiesi dėl išmokos pateikia neteisingus duomenis, reikalingus išmokai skirti, arba per mėnesį nepraneša apie atsiradusias aplinkybes, turinčias įtakos teisei į išmoką arba jos dydžiui, ir dėl to permokama išmoka, permokėta suma grąžinama arba išskaičiuojama iš išmokos gavėjui pagal šį įstatymą priklausančių išmokų savivaldybės administracijos direktoriaus sprendimu. 
+3. Jeigu asmenys kreipdamiesi dėl išmokos pateikia neteisingus duomenis, reikalingus išmokai skirti, arba per mėnesį nepraneša apie atsiradusias aplinkybes, turinčias įtakos teisei į išmoką arba jos dydžiui, ir dėl to permokama išmoka, permokėta suma grąžinama arba išskaičiuojama iš išmokos gavėjui pagal šį įstatymą priklausančių išmokų savivaldybės administracijos sprendimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
+ 
 
 
 
@@ -1218,7 +1226,7 @@ Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 1. Savivaldybės administracija nutraukia išmokų mokėjimą, jeigu atsiranda nors viena iš nurodytų aplinkybių:
 
 
-1) vaikas ir (ar) asmuo neatitinka šio įstatymo 6 straipsnio 3 dalyje ar 7 straipsnio 3 dalyje, ar 8 straipsnio 2 dalyje, ar 9 straipsnio 2 dalyje, ar 11 straipsnio 4 dalyje, ar 12 straipsnio 4 dalyje, ar 14 straipsnio 3 dalyje nurodytų sąlygų – nuo faktinių aplinkybių atsiradimo dienos; 
+1) vaikas ir (ar) asmuo neatitinka šio įstatymo 6 straipsnio 3 dalyje ar 7 straipsnio 3 dalyje, ar 8 straipsnio 2 dalyje, ar 9 straipsnio 2 dalyje, ar 11 straipsnio 4 dalyje, ar 12 straipsnio 4 dalyje, ar 14 straipsnio 3 dalyje nurodytų sąlygų – nuo faktinių aplinkybių atsiradimo dienos;
 
 
 
@@ -1243,12 +1251,12 @@ Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 
 
 
-6) vaikui, auginamam šeimoje, nustatoma vaiko laikinoji arba nuolatinė globa (rūpyba) – nuo savivaldybės administracijos direktoriaus sprendime nurodytos datos arba teismo nutarties įsiteisėjimo dienos ar teismo nutartyje nurodytos datos;
+6) vaikui, auginamam šeimoje, nustatoma laikinoji arba nuolatinė globa (rūpyba) – nuo savivaldybės mero sprendime nurodytos datos arba teismo nutarties įsiteisėjimo dienos ar teismo nutartyje nurodytos datos;
 
 
 
 
-7) vaikas (asmuo), kuriam paskirtos šio įstatymo 8 straipsnyje ar 13 straipsnyje nustatytos išmokos, yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) valstybės ar savivaldybės finansuojamoje įstaigoje – nuo faktinių aplinkybių atsiradimo dienos;
+7) vaikas (asmuo), kuriam paskirtos šio įstatymo 8 ar 13 straipsnyje nustatytos išmokos, yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) valstybės ar savivaldybės finansuojamoje įstaigoje – nuo faktinių aplinkybių atsiradimo dienos;
 
 
 
@@ -1258,130 +1266,89 @@ Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 
 
 
-9) asmens, kuriam paskirtos šio įstatymo 9 straipsnyje ar 14 straipsnyje nustatytos išmokos, vaiko kitam tėvui (įtėviui) ar globėjui, ar vienam iš vaiko senelių už tą patį vaiką paskirta vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą – nuo vaiko priežiūros išmokos pagal Ligos ir motinystės socialinio draudimo įstatymą skyrimo dienos;
+9) asmens, kuriam paskirtos šio įstatymo 9 ar 14 straipsnyje nustatytos išmokos, vaiko kitam tėvui (įtėviui) ar globėjui, ar vienam iš vaiko senelių už tą patį vaiką paskirta vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą – nuo vaiko priežiūros išmokos pagal Ligos ir motinystės socialinio draudimo įstatymą skyrimo dienos;
 
 
 
 
-10) vaiko įtėviui (įmotei), kuriam (kuriai) paskirta šio įstatymo 14 straipsnyje nustatyta išmoka, už tą patį vaiką ir laikotarpį paskirta vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą, kurios dydis ne mažesnis už šio įstatymo 14 straipsnio 1 dalyje nustatytą išmokos įvaikinus vaiką dydį, – nuo vaiko priežiūros išmokos pagal Ligos ir motinystės socialinio draudimo įstatymą skyrimo dienos; 
-Papildyta straipsnio punktu:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
+10) vaiko įtėviui (įmotei), kuriam (kuriai) paskirta šio įstatymo 14 straipsnyje nustatyta išmoka, už tą patį vaiką ir laikotarpį pagal Ligos ir motinystės socialinio draudimo įstatymą paskirta vaiko priežiūros išmoka, kurios dydis ne mažesnis už šio įstatymo 14 straipsnio 1 dalyje nustatytą išmokos įvaikinus vaiką dydį, – nuo vaiko priežiūros išmokos pagal Ligos ir motinystės socialinio draudimo įstatymą skyrimo dienos;
 
 
 
 
-11) asmuo, kurio buvusiam globėjui (rūpintojui) paskirta šio įstatymo 12 straipsnio 4 dalyje nustatyta išmoka, nutraukia mokymąsi ar negyvena pas buvusį globėją (rūpintoją) ir nėra jo išlaikomas (nemokamai negauna nakvynės, maisto ir kitų paslaugų) – nuo mokymosi nutraukimo dienos, o tais atvejais, kai asmuo negyvena pas buvusį globėją (rūpintoją) ir nėra jo išlaikomas, – nuo kito mėnesio, kai asmuo negyvena pas buvusį globėją (rūpintoją) ir nėra jo išlaikomas, pirmos dienos; 
-Papildyta straipsnio punktu:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
+11) asmuo, kurio buvusiam globėjui (rūpintojui) paskirta šio įstatymo 12 straipsnio 4 dalyje nustatyta išmoka, nutraukia mokymąsi ar negyvena pas buvusį globėją (rūpintoją) ir nėra jo išlaikomas (nemokamai negauna nakvynės, maisto ir kitų paslaugų) – nuo mokymosi nutraukimo dienos, o tais atvejais, kai asmuo negyvena pas buvusį globėją (rūpintoją) ir nėra jo išlaikomas, – nuo kito mėnesio, kurį asmuo negyvena pas buvusį globėją (rūpintoją) ir nėra jo išlaikomas, pirmos dienos;
 
 
 
 
-12) vaikas, kuriam nustatyta laikinoji globa (rūpyba), grąžinamas tėvams – nuo savivaldybės administracijos direktoriaus įsakyme nurodytos datos; 
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
+12) vaikas, kuriam nustatyta laikinoji globa (rūpyba), grąžinamas tėvams – nuo savivaldybės mero sprendime nurodytos datos;
 
 
 
 
-13) asmeniui teismo sprendimu apribota tėvų valdžia ar globėjas (rūpintojas) teismo nutartimi ar savivaldybės administracijos direktoriaus įsakymu atleistas ar nušalintas nuo globėjo (rūpintojo) pareigų atlikimo – nuo teismo sprendimo ar teismo nutarties įsiteisėjimo dienos arba nuo teismo sprendime ar teismo nutartyje arba savivaldybės administracijos direktoriaus įsakyme nurodytos datos;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
+13) asmeniui teismo sprendimu apribota tėvų valdžia ar globėjas (rūpintojas) teismo nutartimi ar savivaldybės mero sprendimu atleistas ar nušalintas nuo globėjo (rūpintojo) pareigų atlikimo – nuo teismo sprendimo ar teismo nutarties įsiteisėjimo dienos arba nuo teismo sprendime ar teismo nutartyje, ar savivaldybės mero sprendime nurodytos datos;
 
 
 
 
 14) globojamas vaikas įvaikinamas – nuo teismo sprendimo įvaikinti įsiteisėjimo dienos arba teismo sprendime nurodytos datos;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
 
 
 
 
-15) vaikas (asmuo), kuriam paskirtos šio įstatymo 6 straipsnyje, 11 straipsnyje ar 13 straipsnyje nustatytos išmokos, ir (ar) globojamas vaikas, už kurį globėjui (rūpintojui) paskirta šio įstatymo 12 straipsnyje nustatyta išmoka, ar įvaikintas vaikas, kurio vienam iš įtėvių paskirta šio įstatymo 14 straipsnyje nustatyta išmoka, yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška – nuo suėmimo, teismo apkaltinamojo nuosprendžio įsigaliojimo, pradėto priverstinio gydymo, vaiko (asmens) paieškos paskelbimo dienos; 
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
+15) vaikas (asmuo), kuriam paskirtos šio įstatymo 6, 11 ar 13 straipsnyje nustatytos išmokos, ir (ar) globojamas vaikas, už kurį globėjui (rūpintojui) paskirta šio įstatymo 12 straipsnyje nustatyta išmoka, ar įvaikintas vaikas, kurio vienam iš įtėvių paskirta šio įstatymo 14 straipsnyje nustatyta išmoka, yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam Baudžiamojo proceso kodekso nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška – nuo suėmimo, teismo apkaltinamojo nuosprendžio įsigaliojimo, pradėto priverstinio gydymo, vaiko (asmens) paieškos paskelbimo dienos;
 
 
 
 
 16) vaikas (asmuo), kuriam išmoka paskirta, mirė, pripažintas nežinia kur esančiu arba paskelbtas mirusiu – nuo mirties datos arba nuo teismo sprendime pripažinti vaiką (asmenį) nežinia kur esančiu arba paskelbti jį mirusiu nurodytos datos;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
+
+
+
+
+17) tėvui (įtėviui) ar motinai (įmotei), kurių vaikui (vaikams) jų privalomosios pradinės karo tarnybos laikotarpiu paskirta šio įstatymo 8 straipsnyje nustatyta išmoka, nutraukus privalomosios pradinės karo tarnybos sutartį, – nuo privalomosios pradinės karo tarnybos sutarties nutraukimo dienos;
+
+
+
+
+18) išmokos gavėjui persikėlus nuolat gyventi į kitą valstybę, – nuo kito mėnesio, kurį asmuo persikėlė nuolat gyventi į kitą valstybę, pirmos dienos, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos teisės aktuose nenustatyta kitaip;
+
+
+
+
+19) vaikui (asmeniui), kuriam išmoka paskirta, pakeitus gyvenamąją vietą ir persikėlus gyventi pas kitą iš tėvų (įtėvių) ar globėją (rūpintoją), – nuo kito mėnesio, kurį vaikas (asmuo) persikėlė nuolat gyventi pas kitą iš tėvų (įtėvių) ar globėją (rūpintoją), pirmos dienos.
+
+
+
+
+
+
+2. Savivaldybės administracija sustabdo išmokų mokėjimą, jeigu atsiranda nors viena iš šių aplinkybių:
+
+
+1) išmokos gavėjas nevykdo šio įstatymo 22 straipsnyje nustatytų pareigų – nuo faktinių aplinkybių atsiradimo dienos iki pareigos bus įvykdytos;
+
+
+
+
+2) vaikas laikinai apgyvendinamas pas fizinius ar juridinius asmenis Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka – nuo Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus sprendime dėl vaiko laikino apgyvendinimo nurodytos dienos iki vaikas grąžinamas tėvams ar kitiems vaiko atstovams pagal įstatymą arba iki teismo nutarties leisti paimti vaiką iš jo atstovų pagal įstatymą įsiteisėjimo dienos, arba iki teismo nutarties atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų ar nušalinti nuo jų įsiteisėjimo dienos, arba iki teismo nutartyje ar savivaldybės mero sprendime atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų arba nušalinti nuo jų nurodytos datos.
+
+
+
+
+
+
+3. Sprendimas nutraukti ar sustabdyti išmokų mokėjimą priimamas ne vėliau kaip per 10 darbo dienų nuo dokumentų ar duomenų, patvirtinančių šio straipsnio 1 ar 2 dalyje nurodytas aplinkybes, gavimo dienos.
+
+
+
+
+4. Išmokų gavėjas apie priimtą sprendimą nutraukti ar sustabdyti išmokų mokėjimą informuojamas Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
  
-
-
-
-
-17) tėvui (įtėviui) ar motinai (įmotei), kurių vaikui (vaikams) jų tarnybos laikotarpiu paskirta šio įstatymo 8 straipsnyje nustatyta išmoka, nutraukus privalomosios pradinės karo tarnybos sutartį, – nuo privalomosios pradinės karo tarnybos sutarties nutraukimo dienos;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
-
-
-
-
-18) išmokos gavėjui persikėlus nuolat gyventi į kitą valstybę, – nuo kito mėnesio po to, kai asmuo persikėlė nuolat gyventi į kitą valstybę, pirmos dienos, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos teisės aktuose nenustatyta kitaip; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
-
-
-
-
-19) vaikui (asmeniui), kuriam išmoka paskirta, pakeitus gyvenamąją vietą ir persikėlus gyventi pas kitą iš tėvų (įtėvių) ar globėją (rūpintoją), – nuo kito mėnesio po to, kai vaikas (asmuo) persikėlė nuolat gyventi pas kitą iš tėvų (įtėvių) ar globėją (rūpintoją), pirmos dienos. 
-Papildyta straipsnio punktu:
-Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
- 
-
-
-
-
-2. Savivaldybės administracija sustabdo išmokų mokėjimą, jeigu atsiranda nors viena iš šių aplinkybių: 
-
-
-1) išmokos gavėjas nevykdo šio įstatymo 22 straipsnyje nustatytų pareigų, – nuo faktinių aplinkybių atsiradimo dienos iki pareigos bus įvykdytos;
-
-
-
-
-2) vaikas laikinai apgyvendinamas pas fizinius ar juridinius asmenis Vaiko teisių apsaugos pagrindų įstatymo nustatyta tvarka – nuo Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos ar jos įgalioto teritorinio skyriaus sprendime dėl vaiko laikino apgyvendinimo nurodytos dienos iki vaikas grąžinamas tėvams ar kitiems vaiko atstovams pagal įstatymą arba iki teismo nutarties leisti paimti vaiką iš jo atstovų pagal įstatymą įsiteisėjimo dienos, arba iki teismo nutarties atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų ar nušalinti nuo jų įsiteisėjimo dienos, arba iki teismo nutartyje ar savivaldybės administracijos direktoriaus įsakyme atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų arba nušalinti nuo jų nurodytos datos.
-Straipsnio punkto pakeitimai:
-Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
- 
-
-
-
-
-3. Sprendimas nutraukti išmokų mokėjimą priimamas ne vėliau kaip per 10 darbo dienų nuo dokumentų ar duomenų, patvirtinančių šio straipsnio 1 dalyje nurodytas aplinkybes, gavimo dienos.
-
-
-
-
-4. Išmokų gavėjas apie priimtą sprendimą nutraukti išmokų mokėjimą informuojamas Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka. 
- 
-
-
 
 
 
@@ -1447,7 +1414,10 @@ Savivaldybių administracijos turi teisę:
 
 
 
-3) kilus ginčui tarp tėvų (įtėvių) dėl to, kam bus mokama išmoka, rekomendavus socialiniams darbuotojams, priimti sprendimą teikti išmoką šio įstatymo 19 straipsnio 2 dalyje nustatytais būdais;
+3) kilus ginčui tarp tėvų (įtėvių) dėl to, kam bus mokama išmoka, rekomendavus socialiniams darbuotojams, priimti sprendimą teikti išmoką šio įstatymo 19 straipsnio 3 dalyje nustatytais būdais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
+ 
 
 
 
@@ -1495,8 +1465,6 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
-
- 
 
  
 Lietuvos Respublikos
@@ -1548,7 +1516,8 @@ Nr. XIV-947, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05125
 Priedo pakeitimai:
 Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
  
-part_3fb0f8fbbe694ea09557e9c62ab4bb0b_end
+
+
 
 
  
@@ -1806,3 +1775,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 6, 9, 11, 12, 13, 14, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-947, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05125
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1 straipsnio ir priedo pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17, 20, 21 ir 24 straipsnių pakeitimo įstatymas
