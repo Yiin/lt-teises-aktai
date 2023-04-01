@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4C2B9F5E31B7"
 
 # Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 12-0; Žin. 1991, Nr.3-78, i. k. 0911010ISTA000I-954
  
@@ -158,7 +158,11 @@ KOMPENSACIJŲ NEPRIKLAUSOMYBĖS GYNĖJAMS, NUKENTĖJUSIEMS NUO 1991 M. SAUSIO 1
 4 straipsnis. Kompensacijų už būstą ir laidojimo išlaidų kompensacijų administravimas
 
 
-1. Kompensacijas už būstą skiria ir išmoka kompensacijų už būstą gavėjų deklaruotos gyvenamosios vietos savivaldybės administracija savivaldybės administracijos direktoriaus nustatyta tvarka.
+1. Kompensacijas už būstą skiria ir išmoka kompensacijų už būstą gavėjų deklaruotos gyvenamosios vietos savivaldybės administracija savivaldybės mero nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+TAR pastaba. pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo nuostatos. Iki šio įstatymo taikymo dienos pradėtos prašymų dėl kompensacijų už vieno būsto, kuriame deklaruota asmens gyvenamoji vieta, šildymą, karštą vandenį, geriamąjį vandenį ir nuotekas, dujas, kietąjį ir skystąjį kurą, elektros energiją, laidinio telefono abonentinį (mėnesinį) mokestį, žemės, esančios po daugiaaukščiu gyvenamuoju namu, mokestį ir kitas paslaugas skyrimo nagrinėjimo ir nurodytų kompensacijų skyrimo procedūros baigiamos pagal iki šio įstatymo įsigaliojimo dienos galiojusias Kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo nuostatas.
+Nr. XIV-1848, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05749
+ 
 
 
 
@@ -225,3 +229,8 @@ Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2601, 2016-09-13, paskelbta TAR 2016-09-19, i. k. 2016-23695
 Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo Nr. I-954 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1848, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05749
+Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo Nr. I-954 4 straipsnio pakeitimo įstatymas
