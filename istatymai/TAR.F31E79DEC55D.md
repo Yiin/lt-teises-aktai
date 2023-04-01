@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2023-02-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -332,7 +332,10 @@ Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 
 
-47. Specialieji reikalavimai – neprivalomas, statytojo (užsakovo) pageidavimu statiniui nustatytų specialiųjų architektūros reikalavimų, specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų rinkinys, kurį išduoda savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas.
+47. Specialieji reikalavimai – neprivalomas, statytojo (užsakovo) pageidavimu statiniui nustatytų specialiųjų architektūros reikalavimų, specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų rinkinys, kurį išduoda savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -2808,7 +2811,9 @@ Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 
 
-4. Specialiesiems reikalavimams gauti, išskyrus atvejus, kai jie gaunami atlikus visuomenės informavimą apie projektinius pasiūlymus pagal šio įstatymo 37 straipsnio nuostatas, statytojas (užsakovas) pateikia savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) prašymą ir:
+4. Specialiesiems reikalavimams gauti, išskyrus atvejus, kai jie gaunami atlikus visuomenės informavimą apie projektinius pasiūlymus pagal šio įstatymo 37 straipsnio nuostatas, statytojas (užsakovas) pateikia savivaldybės merui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) prašymą ir: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 1) aplinkos ministro nustatytą užpildytą formą su žemės sklypo ir statinio (statinių grupės) duomenimis; 
@@ -2831,7 +2836,9 @@ Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 
 
-6. Savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas, gavęs šio straipsnio 4 dalyje nurodytus duomenis, per 3 darbo dienas pateikia aplinkos ministro patvirtintos formos paraiškas:
+6. Savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas, gavę šio straipsnio 4 dalyje nurodytus duomenis, per 3 darbo dienas pateikia aplinkos ministro patvirtintos formos paraiškas:
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 1) Kultūros paveldo departamentui prie Kultūros ministerijos (jo teritoriniam padaliniui) – specialiesiems paveldosaugos reikalavimams, taikomiems kultūros paveldo objektui ar jo teritorijai, kultūros paveldo objekto teritorijoje esančiam statiniui, kultūros paveldo vietovėje ar jų apsaugos zonose, parengti;
@@ -2846,37 +2853,52 @@ Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 
 
-7. Specialieji paveldosaugos reikalavimai ir specialieji saugomos teritorijos tvarkymo ir apsaugos reikalavimai parengiami per 7 darbo dienas gavus savivaldybės administracijos direktoriaus ar jo įgalioto savivaldybės administracijos valstybės tarnautojo paraišką ir pateikiami savivaldybės administracijos direktoriui ar jo įgaliotam asmeniui. Savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas, gavęs šio straipsnio 4 dalyje nurodytus duomenis, per 10 darbo dienų parengia specialiuosius architektūros reikalavimus. 
+7. Specialieji paveldosaugos reikalavimai ir specialieji saugomos teritorijos tvarkymo ir apsaugos reikalavimai parengiami per 7 darbo dienas gavus savivaldybės mero ar jo įgalioto savivaldybės administracijos valstybės tarnautojo paraišką ir pateikiami savivaldybės merui ar jo įgaliotam asmeniui. Savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas, gavę šio straipsnio 4 dalyje nurodytus duomenis, per 10 darbo dienų parengia specialiuosius architektūros reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
 
-8. Specialiuosius paveldosaugos reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus, specialiuosius architektūros reikalavimus nagrinėja, derina, jeigu reikia, šiuos reikalavimus nustačiusioms institucijoms siūlo pakeisti (siekdamas rasti sprendimą, tenkinantį statytojo (užsakovo), trečiųjų asmenų, visuomenės, savivaldybės ir valstybės interesus) savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas. Jeigu dėl specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų, specialiųjų architektūros reikalavimų neiškyla poreikis kreiptis į jas išdavusias institucijas dėl jų pakeitimo, specialieji reikalavimai išduodami per 3 darbo dienas nuo specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų ir specialiųjų architektūros reikalavimų gavimo dienos. Jeigu savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas priima sprendimą teikti siūlymus dėl specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų ar specialiųjų architektūros reikalavimų pakeitimo, šie reikalavimai turi būti suderinti per 3 darbo dienas nuo jų gavimo dienos. Jeigu per šį terminą savivaldybės administracijos direktoriui ar jo įgaliotam savivaldybės administracijos valstybės tarnautojui pavyksta suderinti specialiuosius paveldosaugos reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus ar specialiuosius architektūros reikalavimus su juos išdavusiomis institucijomis, specialieji reikalavimai išduodami per 3 darbo dienas nuo suderintų specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ar apsaugos reikalavimų, specialiųjų architektūros reikalavimų gavimo dienos. Jeigu šių reikalavimų suderinti nepavyksta, savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas perduoda ginčą dėl specialiųjų reikalavimų suderinamumo nagrinėti savivaldybės administracijos direktoriaus sudarytai komisijai. Išnagrinėjus ginčą, savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas išduoda specialiuosius reikalavimus per 3 darbo dienas nuo ginčą išsprendusios institucijos sprendimo priėmimo dienos.
+8. Specialiuosius paveldosaugos reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus, specialiuosius architektūros reikalavimus nagrinėja, derina, jeigu reikia, šiuos reikalavimus nustačiusioms institucijoms siūlo pakeisti (siekdamas rasti sprendimą, tenkinantį statytojo (užsakovo), trečiųjų asmenų, visuomenės, savivaldybės ir valstybės interesus) savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas. Jeigu dėl specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų, specialiųjų architektūros reikalavimų neiškyla poreikis kreiptis į juos išdavusias institucijas dėl jų pakeitimo, specialieji reikalavimai išduodami per 3 darbo dienas nuo specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų ir specialiųjų architektūros reikalavimų gavimo dienos. Jeigu savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas priima sprendimą teikti siūlymus dėl specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų ar specialiųjų architektūros reikalavimų pakeitimo, šie reikalavimai turi būti suderinti per 3 darbo dienas nuo jų gavimo dienos. Jeigu per šį terminą savivaldybės merui ar jo įgaliotam savivaldybės administracijos valstybės tarnautojui pavyksta suderinti specialiuosius paveldosaugos reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus ar specialiuosius architektūros reikalavimus su juos išdavusiomis institucijomis, specialieji reikalavimai išduodami per 3 darbo dienas nuo suderintų specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų, specialiųjų architektūros reikalavimų gavimo dienos. Jeigu šių reikalavimų suderinti nepavyksta, savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas perduoda ginčą dėl specialiųjų reikalavimų suderinamumo nagrinėti savivaldybės mero sudarytai komisijai. Išnagrinėjus ginčą, savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas išduoda specialiuosius reikalavimus per 3 darbo dienas nuo ginčą išsprendusios institucijos sprendimo priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
 
-9. Savivaldybės administracijos direktoriaus sudarytoje komisijoje, kurios darbo pavyzdinius nuostatus tvirtina aplinkos ministras, turi dalyvauti specialiuosius paveldosaugos reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus, specialiuosius architektūros reikalavimus išduodančių institucijų atstovai. Savivaldybės administracijos direktoriaus sudaryta komisija per 10 darbo dienų balsų dauguma gali nuspręsti:
+9. Savivaldybės mero sudarytoje komisijoje, kurios darbo pavyzdinius nuostatus tvirtina aplinkos ministras, turi dalyvauti specialiuosius paveldosaugos reikalavimus, specialiuosius saugomos teritorijos tvarkymo ir apsaugos reikalavimus, specialiuosius architektūros reikalavimus išduodančių institucijų atstovai. Savivaldybės mero sudaryta komisija per 10 darbo dienų balsų dauguma gali nuspręsti:
 
 
-1) siūlyti savivaldybės administracijos direktoriui ar jo įgaliotam savivaldybės administracijos valstybės tarnautojui išduoti specialiuosius reikalavimus, vadovaujantis šios komisijos suderintais specialiaisiais paveldosaugos reikalavimais, specialiaisiais saugomos teritorijos tvarkymo ir apsaugos reikalavimais ir (ar) specialiaisiais architektūros reikalavimais;
-
-
-
-
-2) perduoti ginčą nagrinėti aplinkos ministro ir kultūros ministro sudarytai komisijai (jeigu nepriimamas šios dalies 1 punkte nurodytas sprendimas ar atsiranda bent vieno komisijos nario asmeninis suinteresuotumas ginčo baigtimi ar kitoks pagrindas nusišalinti arba to motyvuotai prašo statytojas (užsakovas).
+1) siūlyti savivaldybės merui ar jo įgaliotam savivaldybės administracijos valstybės tarnautojui išduoti specialiuosius reikalavimus vadovaujantis šios komisijos suderintais specialiaisiais paveldosaugos reikalavimais, specialiaisiais saugomos teritorijos tvarkymo ir apsaugos reikalavimais ir (ar) specialiaisiais architektūros reikalavimais;
 
 
 
 
+2) perduoti ginčą nagrinėti aplinkos ministro ir kultūros ministro sudarytai komisijai (jeigu nepriimamas šios dalies 1 punkte nurodytas sprendimas ar atsiranda bent vieno komisijos nario asmeninis suinteresuotumas ginčo baigtimi ar kitoks pagrindas nusišalinti arba to motyvuotai prašo statytojas (užsakovas)).
 
 
-10. Šio straipsnio 9 dalies 2 punkte nurodytu atveju savivaldybės administracijos direktoriaus sudaryta komisija per 3 darbo dienas ginčą perduoda nagrinėti aplinkos ministro ir kultūros ministro sudarytai komisijai. Aplinkos ministras ir kultūros ministras tvirtina šios komisijos nuostatus ir sudėtį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
 
-11. Per 10 darbo dienų išnagrinėjusi ginčą dėl specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų ir specialiųjų architektūros reikalavimų suderinamumo, aplinkos ministro ir kultūros ministro sudaryta komisija gali nurodyti savivaldybės administracijos direktoriui ar jo įgaliotam savivaldybės administracijos valstybės tarnautojui išduoti specialiuosius reikalavimus vadovaujantis šios komisijos suderintais specialiaisiais paveldosaugos reikalavimais, specialiaisiais saugomos teritorijos tvarkymo ir apsaugos reikalavimais, ir (ar) specialiaisiais architektūros reikalavimais. Kilus ginčui dėl specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų, specialiųjų architektūros reikalavimų suderinamumo, specialiųjų reikalavimų išdavimo procedūros sustabdomos ir specialiųjų reikalavimų išdavimo terminas neskaičiuojamas, kol ginčas išsprendžiamas.
+10. Šio straipsnio 9 dalies 2 punkte nurodytu atveju savivaldybės mero sudaryta komisija per 3 darbo dienas ginčą perduoda nagrinėti aplinkos ministro ir kultūros ministro sudarytai komisijai. Aplinkos ministras ir kultūros ministras tvirtina šios komisijos nuostatus ir sudėtį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
+
+
+
+
+11. Per 10 darbo dienų išnagrinėjusi ginčą dėl specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų ir specialiųjų architektūros reikalavimų suderinamumo, aplinkos ministro ir kultūros ministro sudaryta komisija gali nurodyti savivaldybės merui ar jo įgaliotam savivaldybės administracijos valstybės tarnautojui išduoti specialiuosius reikalavimus vadovaujantis šios komisijos suderintais specialiaisiais paveldosaugos reikalavimais, specialiaisiais saugomos teritorijos tvarkymo ir apsaugos reikalavimais ir (ar) specialiaisiais architektūros reikalavimais. Kilus ginčui dėl specialiųjų paveldosaugos reikalavimų, specialiųjų saugomos teritorijos tvarkymo ir apsaugos reikalavimų, specialiųjų architektūros reikalavimų suderinamumo, specialiųjų reikalavimų išdavimo procedūros sustabdomos ir specialiųjų reikalavimų išdavimo terminas neskaičiuojamas, kol ginčas išsprendžiamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -2960,9 +2982,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-24. Šio straipsnio 1 dalyje nurodyti statinio projektai turi atitikti Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo tą dieną, kai buvo išduoti specialieji reikalavimai. Praėjus 5 metams po specialiųjų reikalavimų išdavimo ir tais atvejais, kai specialieji reikalavimai nebuvo išduoti, šio straipsnio 1 dalyje nurodyti statinio projektai turi atitikti Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo prašymo gauti statybą leidžiantį dokumentą, kuris buvo priimtas, pateikimo dieną. Jeigu statinio projektas buvo pradėtas rengti iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo, jis turi atitikti Specialiųjų žemės naudojimo sąlygų įstatymo nustatytus reikalavimus. Šiuo atveju, kai buvo išduoti specialieji reikalavimai, statytojas (užsakovas) kreipiasi į savivaldybės administracijos direktorių (jo įgaliotą savivaldybės administracijos valstybės tarnautoją) dėl specialiųjų reikalavimų, atitinkančių Specialiųjų žemės naudojimo sąlygų įstatymo reikalavimus, gavimo. Kai teisės aktų numatytais atvejais yra privaloma parengti statinio projektą, tačiau nėra privaloma gauti statybą leidžiantį dokumentą, statinio projektas turi atitikti normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo statinio projektavimo darbų rangos sutarties pasirašymo dieną.
+24. Šio straipsnio 1 dalyje nurodyti statinio projektai turi atitikti Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo tą dieną, kai buvo išduoti specialieji reikalavimai. Praėjus 5 metams po specialiųjų reikalavimų išdavimo dienos ir tais atvejais, kai specialieji reikalavimai nebuvo išduoti, šio straipsnio 1 dalyje nurodyti statinio projektai turi atitikti Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo prašymo gauti statybą leidžiantį dokumentą, kuris buvo priimtas, pateikimo dieną. Jeigu statinio projektas buvo pradėtas rengti iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo, jis turi atitikti Specialiųjų žemės naudojimo sąlygų įstatymo nustatytus reikalavimus. Šiuo atveju, kai buvo išduoti specialieji reikalavimai, statytojas (užsakovas) kreipiasi į savivaldybės merą (jo įgaliotą savivaldybės administracijos valstybės tarnautoją) dėl specialiųjų reikalavimų, atitinkančių Specialiųjų žemės naudojimo sąlygų įstatymo reikalavimus, gavimo. Kai teisės aktų numatytais atvejais yra privaloma parengti statinio projektą, tačiau nėra privaloma gauti statybą leidžiantį dokumentą, statinio projektas turi atitikti normatyvinių statybos techninių dokumentų reikalavimus, kurie galiojo statinio projektavimo darbų rangos sutarties pasirašymo dieną.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -3074,7 +3097,10 @@ Nr. XIV-1534, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24179
 
 
 
-2. Statybą leidžiančius dokumentus, išskyrus šio straipsnio 3 dalyje ir kituose Lietuvos Respublikos įstatymuose nurodytus dokumentus, išduoda savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas. Kai išduodamas statybą leidžiantis dokumentas statyti laikinąjį statinį, jame nurodomas šio statinio naudojimo terminas. Laikinųjų statinių naudojimo termino nustatymo sąlygas ir tvarką nustato aplinkos ministras.
+2. Statybą leidžiančius dokumentus, išskyrus šio straipsnio 3 dalyje ir kituose Lietuvos Respublikos įstatymuose nurodytus dokumentus, išduoda savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas. Kai išduodamas statybą leidžiantis dokumentas statyti laikinąjį statinį, jame nurodomas šio statinio naudojimo terminas. Laikinųjų statinių naudojimo termino nustatymo sąlygas ir tvarką nustato aplinkos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -3084,7 +3110,10 @@ Nr. XIV-1534, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24179
 
 
 
-4. Jeigu statinys statomas kelių savivaldybių teritorijoje, kiekvienos savivaldybės administracijos direktorius ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas išduoda statinio dalies, kuri yra tos savivaldybės teritorijoje, statybą leidžiantį dokumentą.
+4. Jeigu statinys statomas kelių savivaldybių teritorijoje, kiekvienos savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas išduoda statinio dalies, kuri yra tos savivaldybės teritorijoje, statybą leidžiantį dokumentą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -3257,11 +3286,12 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-10. Šio įstatymo 24 straipsnio 1 dalies 4–12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina savivaldybės administracija, kai statybą leidžiantį dokumentą išduoda ji. Savivaldybių administracijos paveldosaugos padaliniai tikrina statinio projektų atitiktį nekilnojamojo kultūros paveldo apsaugą ir tvarkybą reglamentuojantiems teisės aktams, kai tvarkomieji statybos darbai projektuojami savivaldybės tarybos saugomais paskelbtuose kultūros paveldo objektuose, saugomais paskelbtuose kultūros paveldo vietovėse ir jų apsaugos zonose esančiuose statiniuose (išskyrus ten esančius regioninio ir nacionalinio reikšmingumo lygmens kultūros paveldo objektus, valstybės saugomus kultūros paveldo objektus, paminklus). Kultūros paveldo departamentas prie Kultūros ministerijos tikrina statinio projektų atitiktį nekilnojamojo kultūros paveldo apsaugą ir tvarkybą reglamentuojantiems teisės aktams, kai tvarkomieji statybos darbai projektuojami valstybės saugomais paskelbtuose objektuose, jų teritorijose ir apsaugos zonose, regioninio bei nacionalinio reikšmingumo lygmens kultūros paveldo objektuose ir jų teritorijose, valstybės saugomomis paskelbtose kultūros paveldo vietovėse ir jų apsaugos zonose (išskyrus ten esančius savivaldybės tarybos saugomais paskelbtus kultūros paveldo objektus), regioninio bei nacionalinio reikšmingumo lygmens kultūros paveldo vietovėse ir jų apsaugos zonose (išskyrus ten esančius savivaldybės tarybos saugomais paskelbtus kultūros paveldo objektus), kultūriniuose rezervatuose ir draustiniuose, kompleksiniuose (kraštovaizdžio) draustiniuose, istoriniuose nacionaliniuose, istoriniuose regioniniuose parkuose esančiuose statiniuose (išskyrus ten esančius savivaldybės tarybos saugomais paskelbtus kultūros paveldo objektus). Šio įstatymo 24 straipsnio 1 dalies 4 ir 12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos. Šio įstatymo 24 straipsnio 1 dalies 4 ir 9 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams pagal kompetenciją tikrina ir Valstybinė energetikos reguliavimo taryba, kai pertvarkoma daugiabučio namo ar jo dalies šildymo ir apsirūpinimo karštu vandeniu bendroji inžinerinė sistema (keičiamas šildymo būdas, atsijungiama nuo (prisijungiama prie) šilumos perdavimo tinklų).
+10. Šio įstatymo 24 straipsnio 1 dalies 4–12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina savivaldybės administracija, kai statybą leidžiantį dokumentą išduoda savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas. Savivaldybių administracijos paveldosaugos padaliniai tikrina statinio projektų atitiktį nekilnojamojo kultūros paveldo apsaugą ir tvarkybą reglamentuojantiems teisės aktams, kai tvarkomieji statybos darbai projektuojami savivaldybės tarybos saugomais paskelbtuose kultūros paveldo objektuose, saugomais paskelbtuose kultūros paveldo vietovėse ir jų apsaugos zonose esančiuose statiniuose (išskyrus ten esančius regioninio ir nacionalinio reikšmingumo lygmens kultūros paveldo objektus, valstybės saugomus kultūros paveldo objektus, paminklus). Kultūros paveldo departamentas prie Kultūros ministerijos tikrina statinio projektų atitiktį nekilnojamojo kultūros paveldo apsaugą ir tvarkybą reglamentuojantiems teisės aktams, kai tvarkomieji statybos darbai projektuojami valstybės saugomais paskelbtuose objektuose, jų teritorijose ir apsaugos zonose, regioninio bei nacionalinio reikšmingumo lygmens kultūros paveldo objektuose ir jų teritorijose, valstybės saugomomis paskelbtose kultūros paveldo vietovėse ir jų apsaugos zonose (išskyrus ten esančius savivaldybės tarybos saugomais paskelbtus kultūros paveldo objektus), regioninio bei nacionalinio reikšmingumo lygmens kultūros paveldo vietovėse ir jų apsaugos zonose (išskyrus ten esančius savivaldybės tarybos saugomais paskelbtus kultūros paveldo objektus), kultūriniuose rezervatuose ir draustiniuose, kompleksiniuose (kraštovaizdžio) draustiniuose, istoriniuose nacionaliniuose, istoriniuose regioniniuose parkuose esančiuose statiniuose (išskyrus ten esančius savivaldybės tarybos saugomais paskelbtus kultūros paveldo objektus). Šio įstatymo 24 straipsnio 1 dalies 4 ir 12 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams aplinkos ministro nustatyta tvarka tikrina ir Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos. Šio įstatymo 24 straipsnio 1 dalies 4 ir 9 punktuose nurodytų statinio projektų sprendinių atitiktį nustatytiems reikalavimams pagal kompetenciją tikrina ir Valstybinė energetikos reguliavimo taryba, kai pertvarkoma daugiabučio namo ar jo dalies šildymo ir apsirūpinimo karštu vandeniu bendroji inžinerinė sistema (keičiamas šildymo būdas, atsijungiama nuo (prisijungiama prie) šilumos perdavimo tinklų).
 Straipsnio dalies pakeitimai:
 Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 Nr. XIII-2187, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09971
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
 
 
@@ -3371,7 +3401,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-18. Savivaldybės administracijos direktorius ar jo įgaliotas išduoti statybą leidžiantį dokumentą savivaldybės administracijos valstybės tarnautojas, nagrinėdamas prašymą dėl statybą leidžiančio dokumento išdavimo, privalo statybos techniniame reglamente nustatyta tvarka patikrinti, ar nėra požymių, kad prašymą pateikęs asmuo siekia gauti statybą leidžiantį dokumentą, įteisinantį jau atliktus savavališkus statybos darbus, dėl kurių nėra surašytas savavališkos statybos aktas. Nustatęs tokius požymius, jis privalo sustabdyti statybą leidžiančio dokumento išdavimo procedūras ir informuoti apie tai Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos ir prašymą pateikusį asmenį. Gavusi šioje dalyje nurodytą informaciją, Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos per 20 darbo dienų nuo statybą leidžiančio dokumento išdavimo procedūros sustabdymo atlieka gautos informacijos patikrinimą ir apie patikrinimo rezultatus informuoja informaciją pateikusį asmenį. Statybą leidžiančio dokumento išdavimo procedūros atnaujinamos praėjus 20 darbo dienų nuo jų sustabdymo arba anksčiau, kai yra gaunamas atsakymas iš Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos. Jeigu iš Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos gaunama informacija apie surašytą savavališkos statybos aktą ir yra nustatoma, kad nėra pateiktas dokumentas, patvirtinantis nurodytos įmokos už savavališkos statybos įteisinimą šio įstatymo 1 priede, sumokėjimą, ir dokumentai, pagrindžiantys šios įmokos apskaičiavimo dydį, statybą leidžiantis dokumentas yra neišduodamas.
+18. Savivaldybės meras ar jo įgaliotas išduoti statybą leidžiantį dokumentą savivaldybės administracijos valstybės tarnautojas, nagrinėdamas prašymą dėl statybą leidžiančio dokumento išdavimo, privalo statybos techniniame reglamente nustatyta tvarka patikrinti, ar nėra požymių, kad prašymą pateikęs asmuo siekia gauti statybą leidžiantį dokumentą, įteisinantį jau atliktus savavališkus statybos darbus, dėl kurių nėra surašytas savavališkos statybos aktas. Nustatęs tokius požymius, jis privalo sustabdyti statybą leidžiančio dokumento išdavimo procedūras ir informuoti apie tai Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos ir prašymą pateikusį asmenį. Gavusi šioje dalyje nurodytą informaciją, Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos per 20 darbo dienų nuo statybą leidžiančio dokumento išdavimo procedūros sustabdymo atlieka gautos informacijos patikrinimą ir apie patikrinimo rezultatus informuoja informaciją pateikusį asmenį. Statybą leidžiančio dokumento išdavimo procedūros atnaujinamos praėjus 20 darbo dienų nuo jų sustabdymo arba anksčiau, kai yra gaunamas atsakymas iš Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos. Jeigu iš Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos gaunama informacija apie surašytą savavališkos statybos aktą ir yra nustatoma, kad nėra pateiktas dokumentas, patvirtinantis nurodytos įmokos už savavališkos statybos įteisinimą šio įstatymo 1 priede, sumokėjimą, ir dokumentai, pagrindžiantys šios įmokos apskaičiavimo dydį, statybą leidžiantis dokumentas neišduodamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -3523,7 +3556,10 @@ Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 1. Savivaldybių administracijos tikrina visus statinių projektus. Tikrinama:
 
 
-1) ar prašyme išduoti statybą leidžiantį dokumentą nurodytas statytojas atitinka šio įstatymo 3 straipsnyje nustatytus reikalavimus statytojui (užsakovui) (kai statybą leidžiantį dokumentą išduoda savivaldybės administracija);
+1) ar prašyme išduoti statybą leidžiantį dokumentą nurodytas statytojas atitinka šio įstatymo 3 straipsnyje nustatytus reikalavimus statytojui (užsakovui) (kai statybą leidžiantį dokumentą išduoda savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas);
+Straipsnio punkto pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -3533,12 +3569,18 @@ Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 
 
-3) ar pateikti visi privalomi dokumentai (kai statybą leidžiantį dokumentą išduoda savivaldybės administracija);
+3) ar pateikti visi privalomi dokumentai (kai statybą leidžiantį dokumentą išduoda savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas);
+Straipsnio punkto pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
 
-4) ar pateikta statinio projekto elektroninė versija atitinka aplinkos ministro nustatytus reikalavimus (kai statybą leidžiantį dokumentą išduoda savivaldybės administracija), ar statinio projekto sudedamosios dalys atitinka aplinkos ministro nustatytas statinio projekto sudedamąsias dalis, ar statinio projektą pasirašė visi jį pasirašyti privalėję asmenys;
+4) ar pateikta statinio projekto elektroninė versija atitinka aplinkos ministro nustatytus reikalavimus (kai statybą leidžiantį dokumentą išduoda savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas), ar statinio projekto sudedamosios dalys atitinka aplinkos ministro nustatytas statinio projekto sudedamąsias dalis, ar statinio projektą pasirašė visi jį pasirašyti privalėję asmenys;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -3558,7 +3600,10 @@ Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
 
 
 
-8) ar statinio projektui pritarė visi aplinkos ministro nustatytais atvejais iki statybą leidžiančio dokumento išdavimo procedūrų pradžios privalėję jį patikrinti subjektai, kurie nedalyvauja statybą leidžiančio dokumento išdavimo procedūrose (kai statybą leidžiantį dokumentą išduoda savivaldybės administracija);
+8) ar statinio projektui pritarė visi aplinkos ministro nustatytais atvejais iki statybą leidžiančio dokumento išdavimo procedūrų pradžios privalėję jį patikrinti subjektai, kurie nedalyvauja statybą leidžiančio dokumento išdavimo procedūrose (kai statybą leidžiantį dokumentą išduoda savivaldybės meras ar jo įgaliotas savivaldybės administracijos valstybės tarnautojas);
+Straipsnio punkto pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -4030,7 +4075,10 @@ STATINIO AVARIJA
 
 
 
-5) pranešti apie avariją savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui), Valstybinei teritorijų planavimo ir statybos inspekcijai prie Aplinkos ministerijos; jeigu avarija įvyko kultūros paveldo statinio, statinio kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, – Kultūros paveldo departamentui prie Kultūros ministerijos, viešojo administravimo subjektui, atliekančiam statinio naudojimo priežiūrą; jeigu avarija įvyko statybos metu, – taip pat statytojui (užsakovui), statinio statybos techninės priežiūros vykdytojui ir statinio projektuotojui. Jeigu įvyksta avarija, dėl kurios buvo (gali būti) užteršta aplinka, – už aplinkos apsaugą atsakingai institucijai;
+5) pranešti apie avariją savivaldybės merui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui), Valstybinei teritorijų planavimo ir statybos inspekcijai prie Aplinkos ministerijos; jeigu avarija įvyko kultūros paveldo statinio, statinio kultūros paveldo objekto teritorijoje, kultūros paveldo vietovėje, – Kultūros paveldo departamentui prie Kultūros ministerijos, viešojo administravimo subjektui, atliekančiam statinio naudojimo priežiūrą; jeigu avarija įvyko statybos metu, – taip pat statytojui (užsakovui), statinio statybos techninės priežiūros vykdytojui ir statinio projektuotojui; jeigu įvyko avarija, dėl kurios buvo (gali būti) užteršta aplinka, – už aplinkos apsaugą atsakingai institucijai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -4271,7 +4319,10 @@ Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
 37 straipsnis. Visuomenės informavimas apie numatomą statinių projektavimą ir visuomenės dalyvavimas svarstant statinių projektinius pasiūlymus
 
 
-1. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo informuoti visuomenę apie numatomą visuomenei svarbių statinių ir statinių dalių projektavimą, apie numatomą statinių ir statinių dalių projektavimą, kai Lietuvos Respublikos teritorijų planavimo įstatymo 20 straipsnyje nustatytais atvejais neparengti vietovės lygmens teritorijų planavimo dokumentai ir statyba konkrečiame žemės sklype leidžiama, taip pat apie visuomenės dalyvavimą svarstant statinių ir statinių dalių projektinius pasiūlymus. Visuomenei svarbių statinių ir statinių dalių sąrašus (nurodant paskirtį), visuomenės informavimo apie numatomą statinių ir statinių dalių projektavimą ir visuomenės dalyvavimo svarstant statinių ir statinių dalių projektinius pasiūlymus tvarką nustato aplinkos ministras. 
+1. Savivaldybės meras (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo informuoti visuomenę apie numatomą visuomenei svarbių statinių ir statinių dalių projektavimą, apie numatomą statinių ir statinių dalių projektavimą, kai Lietuvos Respublikos teritorijų planavimo įstatymo 20 straipsnyje nustatytais atvejais neparengti vietovės lygmens teritorijų planavimo dokumentai ir statyba konkrečiame žemės sklype leidžiama, taip pat apie visuomenės dalyvavimą svarstant statinių ir statinių dalių projektinius pasiūlymus. Visuomenei svarbių statinių ir statinių dalių sąrašus (nurodant paskirtį), visuomenės informavimo apie numatomą statinių ir statinių dalių projektavimą ir visuomenės dalyvavimo svarstant statinių ir statinių dalių projektinius pasiūlymus tvarką nustato aplinkos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
@@ -4398,7 +4449,10 @@ Pastatytas statinys (išskyrus kultūros paveldo statinius) nugriaunamas, nebaig
 
 
 
-2) kai tai numatyta teritorijų planavimo dokumentuose (po to, kai žemės sklypas ar jo dalis arba statinys paimamas visuomenės poreikiams) – per savivaldybės tarybos sprendime nurodytą terminą arba per savivaldybės administracijos ieškinio pagrindu priimtame teismo sprendime nurodytą terminą;
+2) kai tai numatyta teritorijų planavimo dokumentuose (kai žemės sklypas ar jo dalis arba statinys paimamas visuomenės poreikiams) – per savivaldybės tarybos sprendime nurodytą terminą arba per savivaldybės ieškinio pagrindu priimtame teismo sprendime nurodytą terminą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
