@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
  
@@ -71,7 +71,10 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 
 
-6) merams ir merų pavaduotojams;
+6) savivaldybių merams (toliau – meras);
+Straipsnio punkto pakeitimai:
+Nr. XIV-1269, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15615
+ 
 
 
 
@@ -461,7 +464,6 @@ RESPUBLIKOS PREZIDENTAS                             
 
  
 
- 
 Lietuvos Respublikos 
 valstybės politikų ir valstybės
 pareigūnų darbo apmokėjimo
@@ -575,39 +577,33 @@ I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
 
 
  5. 
- Savivaldybių merai ir merų pavaduotojai, kai savivaldybės teritorijoje gyvena 
-
-
+ Merai, kai savivaldybės teritorijoje gyvena: 
    
-   
- per 500 tūkst. gyventojų 
- nuo 100 tūkst. gyventojų iki 500 tūkst. gyventojų 
- nuo 50 tūkst. gyventojų iki 100 tūkst. gyventojų 
- nuo 15 tūkst. gyventojų iki 50 tūkst. gyventojų 
- iki 15 tūkst. gyventojų 
 
 
  5.1. 
- Merai 
+ per 500 tūkst. gyventojų 
  19,1 
- 19 
- 18,6 
- 18,3 
- 18 
 
 
  5.2. 
- Merų pavaduotojai 
- 16,1 
- 16 
- 15,6 
- 15,3 
- 15 
+ nuo 100 tūkst. gyventojų iki 500 tūkst. gyventojų 
+ 19 
 
 
+ 5.3. 
+ nuo 50 tūkst. gyventojų iki 100 tūkst. gyventojų 
+ 18,6 
 
 
+ 5.4. 
+ nuo 15 tūkst. gyventojų iki 50 tūkst. gyventojų 
+ 18,3 
 
+
+ 5.5. 
+ iki 15 tūkst. gyventojų 
+ 18 
 
 
 
@@ -620,8 +616,8 @@ I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
 
 
 Pastabos. 
-1. Savivaldybės mero ir mero pavaduotojo pareiginėms algoms taikytini koeficientai nustatomi atsižvelgiant į savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje Lietuvos Respublikos gyventojų registro tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatyti koeficientai galioja iki pirmojo išrinktos naujos savivaldybės tarybos posėdžio.
-2. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, savivaldybės merui ir mero pavaduotojams šio įstatymo priedėlio I skyriaus 5.1 ir 5.2 papunkčiuose nustatytas pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, savivaldybės merui ir mero pavaduotojams šio įstatymo priedėlio I skyriaus 5.1 ir 5.2 papunkčiuose nustatytas pareiginės algos koeficientas didinamas 5 procentais.
+1. Mero pareiginei algai taikytinas koeficientas nustatomas atsižvelgiant į savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų ir merų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje Lietuvos Respublikos gyventojų registro tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatytas koeficientas galioja iki pirmojo išrinktos naujos savivaldybės tarybos posėdžio.
+2. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, merui šio įstatymo priedėlio I skyriaus 5 punkte nustatytas pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, merui šio įstatymo priedėlio I skyriaus 5 punkte nustatytas pareiginės algos koeficientas didinamas 5 procentais.
  
 III. Prokurorų pareiginės algos
 III skyrius neteko galios 2018-07-01
@@ -971,8 +967,9 @@ Nr. XIII-2431, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16069
 Nr. XIII-2751, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21567
 Nr. XIV-873, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26910
 Nr. XIV-639, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24250
+Nr. XIV-1269, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15615
  
-part_49535bd0a135457d8f4fee03388ccd68_end
+part_d396ab3ca29343ec8aa35b511dd2b4bc_end
 
 
  
@@ -1364,3 +1361,8 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-813, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27702
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2 straipsnio ir priedėlio pakeitimo įstatymo Nr. XIV-639 3 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1269, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15615
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2 straipsnio ir priedėlio pakeitimo įstatymas
