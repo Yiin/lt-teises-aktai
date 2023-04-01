@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/13ecbb50c1be11ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos strateginio valdymo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2020-07-09, i. k. 2020-15358
  
@@ -1060,7 +1060,9 @@ STRATEGINIO VALDYMO SISTEMOS VALDYSENA
 
 
 
-3. Savivaldybių strateginių plėtros planų įgyvendinimą, stebėseną, vertinimą ir ataskaitų rengimą organizuoja savivaldybių administracijų direktoriai.
+3. Savivaldybių strateginių plėtros planų įgyvendinimą, stebėseną, vertinimą ir ataskaitų rengimą organizuoja savivaldybių merai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1273, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15620
  
 
 
@@ -1180,3 +1182,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-836, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27728
 Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1273, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15620
+Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 22 straipsnio pakeitimo įstatymas
