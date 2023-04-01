@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F19AC41B9F15"
 
 # Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2005-07-14 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 5-124, i. k. 1001010ISTAIII-1517
+ 
+TAR pastaba. Įstatymo Nr. XIV-1849 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo nuostatos. Iki šio įstatymo taikymo dienos pradėtos prašymų dėl Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo nagrinėjimo procedūros baigiamos pagal iki šio įstatymo įsigaliojimo dienos galiojusias Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo nuostatas. Iki šio įstatymo taikymo dienos galiojusia tvarka išduoti nepriklausomybės gynėjo teisinį statusą bei nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmens teisinį statusą patvirtinantys pažymėjimai galioja ir yra prilyginami šio įstatymo nustatyta tvarka išduotiems pažymėjimams.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1849, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05750
+Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo Nr. VIII-1517 4 ir 5 straipsnių pakeitimo įstatymas
  
  
 LIETUVOS RESPUBLIKOS
@@ -113,18 +118,25 @@ Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA0
 
 
 
-4 straipsnis.         Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimas
+4 straipsnis. Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimas
 
 
-1. Šio įstatymo 2 straipsnyje išvardytiems asmenims pripažįstamas nepriklausomybės gynėjo, nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, teisinis statusas.
+1. Šio įstatymo 2 straipsnyje išvardytiems asmenims savivaldybės meras pripažįsta nepriklausomybės gynėjo, nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, teisinį statusą.
 
 
 
 
-2. Šio įstatymo 3 straipsnyje išvardytiems asmenims pripažįstamas nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmens teisinis statusas.
+2. Šio įstatymo 3 straipsnyje išvardytiems asmenims savivaldybės meras pripažįsta nukentėjusio nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmens teisinį statusą.
+
+
+
+
+3. Savivaldybės, kurios mero sprendimu asmenims pripažintas šio straipsnio 1 ar 2 dalyje nurodytas teisinis statusas, administracija Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda šį teisinį statusą patvirtinančius pažymėjimus ir tvarko jų apskaitą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1849, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05750
  
-
-
 
 
 
@@ -132,15 +144,12 @@ Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA0
 5 straipsnis. Baigiamosios nuostatos
 
 
-1. Nepriklausomybės gynėjams ir kitiems nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenims valstybės paramos teikimo sąlygas ir tvarką nustato įstatymai ir kiti teisės aktai. 
+Nepriklausomybės gynėjams ir kitiems nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenims valstybės paramos teikimo sąlygas ir tvarką nustato įstatymai ir kiti teisės aktai.
 
 
-
-
-2. Nepriklausomybės gynėjams ir kitiems nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenims pripažįsta atitinkamą teisinį statusą, išduoda pažymėjimus bei tvarko jų apskaitą vietos savivaldos vykdomosios institucijos. 
+Straipsnio pakeitimai:
+Nr. XIV-1849, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05750
  
-
-
 
 
 
@@ -184,3 +193,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1849, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05750
+Lietuvos Respublikos nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo Nr. VIII-1517 4 ir 5 straipsnių pakeitimo įstatymas
