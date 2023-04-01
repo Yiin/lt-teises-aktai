@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
  
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
  
@@ -227,7 +227,11 @@ Apsauga nuo smurto artimoje aplinkoje įgyvendinama vadovaujantis šiais princip
 
 
 
-4. Prevencijos priemonių ir projektų įgyvendinimą savivaldybėse koordinuoja savivaldybės administracijos direktorius arba jo pavaduotojas. Koordinuodamas prevencijos priemonių ir projektų įgyvendinimą, savivaldybės administracijos direktorius arba jo pavaduotojas turi teisę gauti iš savivaldybių institucijų, įstaigų ir nevyriausybinių organizacijų, dirbančių apsaugos nuo smurto artimoje aplinkoje srityje, prevencijos priemonėms ir projektams įgyvendinti būtinus duomenis.
+4. Prevencijos priemonių ir projektų įgyvendinimą savivaldybėse koordinuoja savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius. Koordinuodamas prevencijos priemonių ir projektų įgyvendinimą, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius turi teisę gauti iš savivaldybių institucijų, įstaigų ir nevyriausybinių organizacijų, dirbančių apsaugos nuo smurto artimoje aplinkoje srityje, prevencijos priemonėms ir projektams įgyvendinti būtinus duomenis.
+TAR pastaba. 4 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1856, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05763
+ 
 
 
 Straipsnio pakeitimai:
@@ -688,3 +692,8 @@ Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-142
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3106, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15315
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 1, 4, 8, 14 ir 15 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1856, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05763
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 4 straipsnio pakeitimo įstatymas
