@@ -21,7 +21,7 @@ Projektas XXXX XX XX Nr. –––––
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -537,7 +537,11 @@ Nr. XIII-2079, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07318
 
 
 
-13) savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų;
+13) savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės meras (toliau – meras), kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų;
+TAR pastaba. 17 straipsnio 1 dalies 13 punkto nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
+ 
 
 
 
@@ -1324,7 +1328,11 @@ Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
 
 
-11) išvadų, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų, pateikimo;
+11) išvadų, ar savivaldybės tarybos narys, meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų, pateikimo;
+TAR pastaba. 36 straipsnio 1 dalies 11 punkto nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
+ 
 
 
 
@@ -1954,7 +1962,8 @@ Nr. XIII-1848, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21880
 51 straipsnis. Teisė sudaryti taikos sutartį
 
 
-1. Bet kurioje proceso stadijoje ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutartis negali būti sudaroma bylose dėl norminių administracinių aktų teisėtumo, bylose pagal skundus dėl Rinkimų kodekso ir Referendumo konstitucinio įstatymo pažeidimų, bylose dėl savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė jiems įstatymuose nustatytų įgaliojimų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai). Teismas imasi priemonių ginčo šalims sutaikyti tik tuo atveju, kai yra ginčo šalių sutikimas pradėti derybas dėl taikos sutarties sudarymo. 
+1. Bet kurioje proceso stadijoje ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutartis negali būti sudaroma bylose dėl norminių administracinių aktų teisėtumo, bylose pagal skundus dėl Rinkimų kodekso ir Referendumo konstitucinio įstatymo pažeidimų, bylose dėl savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė jiems įstatymuose nustatytų įgaliojimų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai). Teismas imasi priemonių ginčo šalims sutaikyti tik tuo atveju, kai yra ginčo šalių sutikimas pradėti derybas dėl taikos sutarties sudarymo.
+TAR pastaba. 51 straipsnio 1 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
@@ -4476,7 +4485,11 @@ PRAŠYMAI PATEIKTI IŠVADĄ
 120 straipsnis. Prašymo pateikti išvadą padavimas
 
 
-1. Prašymą pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų (toliau – prašymas pateikti išvadą), paduoda savivaldybės taryba Lietuvos Respublikos vietos savivaldos įstatyme (toliau – Vietos savivaldos įstatymas) nustatyta tvarka.
+1. Prašymą pateikti išvadą, ar savivaldybės tarybos narys, meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų (toliau – prašymas pateikti išvadą), paduoda savivaldybės taryba Lietuvos Respublikos vietos savivaldos įstatyme nustatyta tvarka.
+TAR pastaba. 120 straipsnio 1 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
+ 
 
 
 
@@ -4517,7 +4530,7 @@ PRAŠYMAI PATEIKTI IŠVADĄ
 121 straipsnis. Prašymo pateikti išvadą nagrinėjimas Lietuvos vyriausiajame administraciniame teisme ir išvados pateikimas
 
 
-1. Lietuvos vyriausiasis administracinis teismas išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras sulaužė priesaiką ir (ar) nevykdė jiems įstatymuose nustatytų įgaliojimų (toliau – išvada dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo), pateikia per du mėnesius nuo prašymo pateikti išvadą gavimo.
+1. Lietuvos vyriausiasis administracinis teismas išvadą, ar savivaldybės tarybos narys, meras sulaužė priesaiką ir (ar) nevykdė jiems įstatymuose nustatytų įgaliojimų (toliau – išvada dėl savivaldybės tarybos nario, mero priesaikos sulaužymo ir įgaliojimų vykdymo), pateikia per du mėnesius nuo prašymo pateikti išvadą gavimo.
 
 
 
@@ -4527,15 +4540,18 @@ PRAŠYMAI PATEIKTI IŠVADĄ
 
 
 
-3. Teismas, gavęs prašymą pateikti išvadą, išsiunčia savivaldybės tarybos nariui, savivaldybės tarybos nariui – merui prašymo pateikti išvadą ir prie jo pridėtų dokumentų kopijas (skaitmenines kopijas). Savivaldybės tarybos narys, savivaldybės tarybos narys – meras turi teisę per septynias kalendorines dienas nuo šioje dalyje nurodytų dokumentų kopijų gavimo pateikti atsiliepimą į prašymą.
+3. Teismas, gavęs prašymą pateikti išvadą, išsiunčia savivaldybės tarybos nariui, merui prašymo pateikti išvadą ir prie jo pridėtų dokumentų kopijas (skaitmenines kopijas). Savivaldybės tarybos narys, meras turi teisę per septynias kalendorines dienas nuo šioje dalyje nurodytų dokumentų kopijų gavimo pateikti atsiliepimą į prašymą.
 
 
 
 
-4. Prašymą pateikti išvadą Lietuvos vyriausiasis administracinis teismas nagrinėja apie teismo posėdį pranešęs prašymą padavusiai savivaldybės tarybai ir savivaldybės tarybos nariui, savivaldybės tarybos nariui – merui, dėl kurių įgaliojimų netekimo pradėta ši procedūra. Proceso dalyvių, kuriems apie teismo posėdį buvo tinkamai pranešta, neatvykimas į teismo posėdį nėra kliūtis nagrinėti bylą ir priimti išvadą dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo. 
+4. Prašymą pateikti išvadą Lietuvos vyriausiasis administracinis teismas nagrinėja apie teismo posėdį pranešęs prašymą padavusiai savivaldybės tarybai ir savivaldybės tarybos nariui, merui, dėl kurių įgaliojimų netekimo pradėta ši procedūra. Proceso dalyvių, kuriems apie teismo posėdį buvo tinkamai pranešta, neatvykimas į teismo posėdį nėra kliūtis nagrinėti bylą ir priimti išvadą dėl savivaldybės tarybos nario, mero priesaikos sulaužymo ir įgaliojimų vykdymo.
+TAR pastaba. 121 straipsnio nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
  
-
-
 
 
 
@@ -4543,12 +4559,12 @@ PRAŠYMAI PATEIKTI IŠVADĄ
 122 straipsnis. Lietuvos vyriausiojo administracinio teismo išvada
 
 
-1. Išnagrinėjęs šio įstatymo 120 straipsnio 1 dalyje nurodytą prašymą, Lietuvos vyriausiasis administracinis teismas priima išvadą dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo.
+1. Išnagrinėjęs šio įstatymo 120 straipsnio 1 dalyje nurodytą prašymą, Lietuvos vyriausiasis administracinis teismas priima išvadą dėl savivaldybės tarybos nario, mero priesaikos sulaužymo ir įgaliojimų vykdymo.
 
 
 
 
-2. Išvadoje dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo nurodoma:
+2. Išvadoje dėl savivaldybės tarybos nario, mero priesaikos sulaužymo ir įgaliojimų vykdymo nurodoma:
 
 
 1) išvados priėmimo laikas ir vieta;
@@ -4598,15 +4614,18 @@ PRAŠYMAI PATEIKTI IŠVADĄ
 
 
 
-3. Lietuvos vyriausiojo administracinio teismo išvada dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo yra galutinė ir neskundžiama.
+3. Lietuvos vyriausiojo administracinio teismo išvada dėl savivaldybės tarybos nario, mero priesaikos sulaužymo ir įgaliojimų vykdymo yra galutinė ir neskundžiama.
 
 
 
 
-4. Išvada dėl savivaldybės tarybos nario, savivaldybės tarybos nario – mero priesaikos sulaužymo ir įgaliojimų vykdymo skelbiama Lietuvos vyriausiojo administracinio teismo interneto svetainėje.
+4. Išvada dėl savivaldybės tarybos nario, mero priesaikos sulaužymo ir įgaliojimų vykdymo skelbiama Lietuvos vyriausiojo administracinio teismo interneto svetainėje.
+TAR pastaba. 122 straipsnio nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
  
-
-
 
 
 
