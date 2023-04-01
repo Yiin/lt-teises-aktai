@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -435,9 +435,11 @@ Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
  
 
 
-1. Permokėta tikslinės kompensacijos suma arba asmeniui, kuriam paskirta tikslinė kompensacija, priklausiusi, tačiau slaugančiam asmeniui ar neįgaliojo aprūpintojui neteisėtai išmokėta tikslinės kompensacijos suma grąžinama savivaldybės administracijos direktoriaus nustatyta tvarka. 
+1. Permokėta tikslinės kompensacijos suma arba asmeniui, kuriam paskirta tikslinė kompensacija, priklausiusi, tačiau slaugančiam asmeniui neteisėtai išmokėta tikslinės kompensacijos suma grąžinama savivaldybės mero nustatyta tvarka.
+TAR pastaba. 1 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos tikslinių kompensacijų įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1364, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15458
+Nr. XIV-1851, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05755
  
 
 
@@ -680,6 +682,11 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 5 ir 9 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1232, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15598
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 7 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1851, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05755
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 9 straipsnio pakeitimo įstatymas
  
  
 part_a8e5ae3c69504d7cb9d75726cd814662_end
