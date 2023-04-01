@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-05-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
  
@@ -266,10 +266,10 @@ Nr. XIV-1314, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15642
 
 
 
-4. Nacionalinė žemės tarnyba apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 5 darbo dienas nuo žemės savininko pranešimo gavimo dienos raštu praneša parduodamo žemės sklypo naudotojui (naudotojams), asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, savivaldybės pagal žemės buvimo vietą administracijos direktoriui ar kitai žemės paėmimu visuomenės poreikiams suinteresuotai institucijai, jeigu parduodamą žemės ūkio paskirties žemės sklypą pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, ir valstybės įmonei Žemės ūkio duomenų centrui. Nacionalinė žemės tarnyba informaciją apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant šio straipsnio 1 dalies 4 punkte nurodyti asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 2 darbo dienas nuo žemės savininko pranešimo gavimo dienos taip pat paskelbia Nacionalinės žemės tarnybos interneto svetainėje. Šie asmenys savo sutikimą (sprendimą, kai žemė įsigyjama valstybės nuosavybėn) pirkti žemės ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinei žemės tarnybai ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo arba pranešimo paskelbimo Nacionalinės žemės tarnybos interneto svetainėje dienos. Šio straipsnio 1 dalies 2–4 punktuose nurodyti asmenys, pageidaujantys pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemės sklypą, kartu su sutikimu pirkti žemės sklypą pateikia dokumentus, kuriais patvirtinama jų atitiktis pirmumo teisei.
- 
+4. Nacionalinė žemės tarnyba apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 5 darbo dienas nuo žemės savininko pranešimo gavimo dienos raštu praneša parduodamo žemės sklypo naudotojui (naudotojams), asmenims, kurių nuosavybės teise turimi žemės sklypai ribojasi su parduodamu žemės ūkio paskirties žemės sklypu, savivaldybės pagal žemės buvimo vietą merui ar kitai žemės paėmimu visuomenės poreikiams suinteresuotai institucijai, jeigu parduodamą žemės ūkio paskirties žemės sklypą pagal galiojančius detaliuosius ar specialiuosius planus numatoma panaudoti visuomenės poreikiams, ir valstybės įmonei Žemės ūkio duomenų centrui. Nacionalinė žemės tarnyba informaciją apie parduodamą žemės ūkio paskirties žemės sklypą, pardavimo sąlygas ir sąlygas, kurioms esant šio straipsnio 1 dalies 4 punkte nurodyti asmenys gali pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemę, ne vėliau kaip per 2 darbo dienas nuo žemės savininko pranešimo gavimo dienos taip pat paskelbia Nacionalinės žemės tarnybos interneto svetainėje. Šie asmenys savo sutikimą (sprendimą, kai žemė įsigyjama valstybės nuosavybėn) pirkti žemės ūkio paskirties žemės sklypą ar atsisakymą jį pirkti turi pateikti Nacionalinei žemės tarnybai ne vėliau kaip per 15 darbo dienų nuo pranešimo gavimo arba pranešimo paskelbimo Nacionalinės žemės tarnybos interneto svetainėje dienos. Šio straipsnio 1 dalies 2–4 punktuose nurodyti asmenys, pageidaujantys pasinaudoti pirmumo teise įsigyti parduodamą žemės ūkio paskirties žemės sklypą, kartu su sutikimu pirkti žemės sklypą pateikia dokumentus, kuriais patvirtinama jų atitiktis pirmumo teisei. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1310, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15637
+TAR pastaba. 4 dalyje išdėstytos nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
 Nr. XIV-1314, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15642
  
 
