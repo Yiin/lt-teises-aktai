@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-08-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -722,7 +722,10 @@ Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 
 
 
-4. Kiekvienais metais iki kovo 1 dienos į pareigas priimantis asmuo ar jo įgaliotas asmuo įvertina biudžetinių įstaigų vadovų (išskyrus biudžetinių įstaigų vadovus, kurių darbo biudžetinėje įstaigoje pradžios data praėjusiais metais buvo vėlesnė negu spalio 1 diena) praėjusių metų veiklą pagal nustatytas metines užduotis, siektinus rezultatus, jų vertinimo rodiklius ir gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas Vyriausybės ar atitinkamo ministro, nurodyto šio straipsnio 2 dalyje, nustatyta tvarka. Biudžetinės įstaigos vadovo praėjusių metų veikla gali būti vertinama labai gerai, gerai, patenkinamai ir nepatenkinamai. Jeigu biudžetinės įstaigos vadovo metinė veikla įvertinama nepatenkinamai 2 metus iš eilės, į pareigas priimantis asmuo (savivaldybių biudžetinių įstaigų, išskyrus švietimo įstaigas ir seniūnijas – biudžetines įstaigas, – merai) priima sprendimą biudžetinės įstaigos vadovą atleisti iš pareigų, nutraukia su juo sudarytą darbo sutartį per 10 darbo dienų nuo šio sprendimo įsigaliojimo dienos ir neišmoka jam išeitinės išmokos.
+4. Kiekvienais metais iki kovo 1 dienos į pareigas priimantis asmuo ar jo įgaliotas asmuo įvertina biudžetinių įstaigų vadovų (išskyrus biudžetinių įstaigų vadovus, kurių darbo biudžetinėje įstaigoje pradžios data praėjusiais metais buvo vėlesnė negu spalio 1 diena) praėjusių metų veiklą pagal nustatytas metines užduotis, siektinus rezultatus, jų vertinimo rodiklius ir gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas Vyriausybės ar atitinkamo ministro, nurodyto šio straipsnio 2 dalyje, nustatyta tvarka. Biudžetinės įstaigos vadovo praėjusių metų veikla gali būti vertinama labai gerai, gerai, patenkinamai ir nepatenkinamai. Jeigu biudžetinės įstaigos vadovo metinė veikla įvertinama nepatenkinamai 2 metus iš eilės, į pareigas priimantis asmuo priima sprendimą biudžetinės įstaigos vadovą atleisti iš pareigų, nutraukia su juo sudarytą darbo sutartį per 10 darbo dienų nuo šio sprendimo įsigaliojimo dienos ir neišmoka jam išeitinės išmokos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
+ 
 
 
 
@@ -923,7 +926,6 @@ Respublikos Prezidentė                            �
 
  
 
- 
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -1011,7 +1013,6 @@ part_cfa541262737476d8e95aaa2e4148e6a_end
 
  
 
- 
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -1155,7 +1156,6 @@ part_daecafa9795a45f39c1264feb8416f8c_end
 
  
 
- 
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -1211,7 +1211,6 @@ part_27a3b4f3cae14de09f1e7132b37e55d0_end
 
  
 
- 
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -1260,7 +1259,6 @@ part_6518c64e98164cdfb326d7e3a545e711_end
 
  
 
- 
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
 darbuotojų darbo apmokėjimo ir 
