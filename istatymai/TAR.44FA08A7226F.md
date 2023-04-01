@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2023-08-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
  
@@ -1935,7 +1935,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-2) vykdo profesinio mokymo įstaigų, kuriose teisės aktų nustatyta tvarka įgyvendina savivaldybės kaip savininkės ar dalininkės teises ir pareigas, vadovų kvalifikacijos tobulinimą;
+2) organizuoja profesinio mokymo įstaigų, kuriose teisės aktų nustatyta tvarka įgyvendina savivaldybės, kaip savininkės ar dalininkės, teises ir pareigas, vadovų kvalifikacijos tobulinimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -2617,3 +2620,8 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 18 ir 19 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
 Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 15, 18, 21, 26, 28, 29, 36, 37 ir 38 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
