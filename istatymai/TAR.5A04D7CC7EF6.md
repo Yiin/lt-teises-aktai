@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
  
@@ -318,6 +318,38 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 2. Lietuvos nacionalinės, apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų (išskyrus Vilniaus universiteto biblioteką) vadovai į pareigas skiriami 5 metų kadencijai. Lietuvos nacionalinės bibliotekos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Apskričių, savivaldybių viešųjų ir valstybinės reikšmės bibliotekų vadovų kadencijų skaičius neribojamas.
 Straipsnio dalies pakeitimai:
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
+ 
+
+
+
+
+21. Pasibaigus savivaldybės viešosios bibliotekos vadovo 5 metų kadencijai, mero sprendimu jis gali būti skiriamas be konkurso antrajai 5 metų kadencijai, jeigu jo eitos kadencijos metu visuose kasmetiniuose veiklos vertinimuose jo metų veikla buvo įvertinta gerai arba labai gerai. Sprendimas dėl savivaldybės viešosios bibliotekos vadovo skyrimo be konkurso antrajai 5 metų kadencijai turi būti priimtas likus ne mažiau kaip 2 mėnesiams iki šio vadovo kadencijos pabaigos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
+ 
+
+
+
+
+22. Savivaldybės viešosios bibliotekos vadovas, kuris nebuvo skirtas be konkurso antrajai 5 metų kadencijai šio straipsnio 21 dalyje nurodytu atveju, turi teisę dalyvauti viešame konkurse šios bibliotekos vadovo pareigoms eiti.
+Papildyta straipsnio dalimi:
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
+ 
+
+
+
+
+23. Likus ne mažiau kaip 2 mėnesiams iki savivaldybės viešosios bibliotekos vadovo kadencijos pabaigos, meras priima sprendimą dėl konkurso šioms pareigoms eiti skelbimo, išskyrus atvejus, kai savivaldybės viešosios bibliotekos vadovas be konkurso skiriamas antrajai 5 metų kadencijai šio straipsnio 21 dalyje nurodytu atveju.
+Papildyta straipsnio dalimi:
+Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
+ 
+
+
+
+
+24. Jeigu, pasibaigus bibliotekos vadovo kadencijai, konkurso į laisvą pareigybę metu pretendentas nebuvo atrinktas, atitinkamai kultūros ministras ar meras gali paskirti eiti šias pareigas iki kadencijos pabaigos bibliotekos vadovo pareigas ėjusį ar kitą asmenį, iki konkurso būdu bus paskirtas naujas bibliotekos vadovas, bet ne ilgesniam negu vienų metų laikotarpiui. Šis asmuo turi būti nepriekaištingos reputacijos, kaip tai nustatyta šio straipsnio 4 dalyje, ir atitikti kultūros ministro nustatytus kvalifikacinius reikalavimus, nurodytus šio straipsnio 3 dalyje.
+Papildyta straipsnio dalimi:
 Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
  
 
