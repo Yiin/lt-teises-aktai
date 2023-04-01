@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EA5F9F0D6DBB"
 
 # Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas
 
-Suvestinė redakcija nuo 2021-01-02 iki 2023-03-31
+Suvestinė redakcija nuo 2023-04-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 31-701, i. k. 0951010ISTA000I-830
- 
-TAR pastaba. Lietuvos Respublikos įstatymuose ir kituose teisės aktuose nuoroda į Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymą reiškia nuorodą į Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymą, o vartojama sąvoka „laikinas tiesioginis valdymas“ atstoja sąvoką „tiesioginis valdymas“.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-92, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28941
-Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 pakeitimo įstatymas
  
 Nauja redakcija nuo 2021-01-02:
 Nr. XIV-92, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28941
@@ -67,7 +62,10 @@ Vilnius
 
 
 
-2) savivaldybės taryba per Vietos savivaldos įstatyme nustatytą laiką nepaskiria mero pavaduotojo (pavaduotojų), savivaldybės administracijos direktoriaus, savivaldybės administracijos direktoriaus pavaduotojo (pavaduotojų); 
+2) Neteko galios nuo 2023-04-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1276, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15624
+ 
 
 
 
@@ -87,7 +85,10 @@ Vilnius
 
 
 
-6) savivaldybės administracijos direktorius neatlieka Lietuvos Respublikos karo padėties įstatyme nustatytų funkcijų ar jas atlieka neatsižvelgdamas į ginkluotųjų pajėgų poreikius ir savivaldybės taryba, gavusi Karo padėties įstatyme nustatytų subjektų siūlymą atleisti savivaldybės administracijos direktorių iš pareigų, jo neatleidžia. 
+6) savivaldybės administracijos direktorius neatlieka Lietuvos Respublikos karo padėties įstatyme nustatytų funkcijų ar jas atlieka neatsižvelgdamas į ginkluotųjų pajėgų poreikius ir savivaldybės meras (toliau – meras), gavęs Karo padėties įstatyme nustatytų subjektų siūlymą atleisti savivaldybės administracijos direktorių iš pareigų, jo neatleidžia.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1276, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15624
+ 
 
 
 
@@ -125,7 +126,7 @@ Vilnius
 3 straipsnis. Tiesioginio valdymo įvedimas 
 
 
-1. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 1, 2, 3 ir 6 punktuose nustatytais pagrindais Seimui teikia Lietuvos Respublikos Vyriausybė, Vyriausybės nustatyta tvarka įvertinusi šių pagrindų buvimą.
+1. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 1, 3 ir 6 punktuose nustatytais pagrindais Seimui teikia Lietuvos Respublikos Vyriausybė, Vyriausybės nustatyta tvarka įvertinusi šių pagrindų buvimą.
 
 
 
@@ -135,30 +136,37 @@ Vilnius
 
 
 
-3. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 5 punkte nustatytu pagrindu, kai savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje, Seimui teikia Seimo Valstybės valdymo ir savivaldybių komitetas arba Respublikos Prezidentas savo dekrete dėl nepaprastosios padėties įvedimo. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 5 punkte nustatytu pagrindu, kai savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su karo padėties įvedimu savivaldybės teritorijoje, Seimui teikia Seimo Valstybės valdymo ir savivaldybių komitetas ar Nacionalinio saugumo ir gynybos komitetas, taip pat šį pasiūlymą gali pateikti Respublikos Prezidentas savo dekrete dėl karo padėties įvedimo.
+3. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 5 punkte nustatytu pagrindu, kai savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje, Seimui teikia Seimo Valstybės valdymo ir savivaldybių komitetas arba Respublikos Prezidentas savo dekrete dėl nepaprastosios padėties įvedimo. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 5 punkte nustatytu pagrindu, kai savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su karo padėties įvedimu savivaldybės teritorijoje, Seimui teikia Seimo Valstybės valdymo ir savivaldybių komitetas arba Nacionalinio saugumo ir gynybos komitetas, taip pat šį pasiūlymą gali pateikti Respublikos Prezidentas savo dekrete dėl karo padėties įvedimo.
 
 
 
 
-4. Seimas, priimdamas sprendimą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 1, 2, 3, 4 punktuose nustatytais pagrindais arba pratęsdamas tiesioginį valdymą šio įstatymo 2 straipsnio 3 dalies 2 punkte nustatytu atveju, nustato naujų savivaldybės tarybos rinkimų datą. Šiais atvejais naujai išrinktos savivaldybės tarybos kadencija baigiasi tuo laiku ir tokia pačia tvarka, kaip būtų pasibaigusi įgaliojimų netekusios savivaldybės tarybos kadencija.
+4. Seimas, priimdamas sprendimą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 1, 3 ir 4 punktuose nustatytais pagrindais arba pratęsdamas tiesioginį valdymą šio įstatymo 2 straipsnio 3 dalies 2 punkte nustatytu atveju, nustato naujų savivaldybės tarybos rinkimų datą. Šiais atvejais naujai išrinktos savivaldybės tarybos kadencija baigiasi tuo laiku ir tokia pačia tvarka, kaip būtų pasibaigusi įgaliojimų netekusios savivaldybės tarybos kadencija.
 
 
 
 
-5. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo įvedimo savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 1, 2, 3, 4 punktuose nustatytais pagrindais, šios savivaldybės taryba, tarybos nariai ir savivaldybės tarybos narys – savivaldybės meras (toliau – meras) netenka įgaliojimų.
+5. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo įvedimo savivaldybės teritorijoje šio įstatymo 2 straipsnio 2 dalies 1, 3 ir 4 punktuose nustatytais pagrindais, šios savivaldybės taryba, tarybos nariai netenka įgaliojimų.
 
 
 
 
-6. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo savivaldybės teritorijoje įvedimo šio įstatymo 2 straipsnio 2 dalies 5 ar 6 punkte nustatytu pagrindu, šios savivaldybės tarybos, tarybos narių ir mero įgaliojimai sustabdomi.
+6. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo savivaldybės teritorijoje įvedimo šio įstatymo 2 straipsnio 2 dalies 5 punkte nustatytu pagrindu, šios savivaldybės tarybos, tarybos narių įgaliojimai sustabdomi.
 
 
 
 
-7. Pasibaigus šio įstatymo 2 straipsnio 2 dalies 5 ar 6 punkte nustatytais pagrindais įvesto tiesioginio valdymo terminui, savivaldybės taryba, vykdžiusi įgaliojimus iki tiesioginio valdymo įvedimo, tęsia įgaliojimų vykdymą iki kadencijos pabaigos.
+7. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo savivaldybės teritorijoje įvedimo šio įstatymo 2 straipsnio 2 dalies 6 punkte nustatytu pagrindu, sustabdomi mero įgaliojimai.
+
+
+
+
+8. Pasibaigus šio įstatymo 2 straipsnio 2 dalies 5 ar 6 punkte nustatytais pagrindais įvesto tiesioginio valdymo terminui, savivaldybės taryba, meras, vykdę įgaliojimus iki tiesioginio valdymo įvedimo, tęsia įgaliojimų vykdymą iki kadencijos pabaigos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1276, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15624
  
-
-
 
 
 
@@ -181,45 +189,37 @@ Vilnius
 
 
 
-4. Vyriausybės įgaliotinis vykdo savivaldybės tarybos ir mero įgaliojimus, kurie būtini įstatymų nustatytoms savivaldybių funkcijoms atlikti. 
+4. Vyriausybės įgaliotinis vykdo savivaldybės tarybos ir (arba) mero įgaliojimus, kurie būtini įstatymų nustatytoms savivaldybių funkcijoms atlikti. 
 
 
 
 
-5. Vyriausybės įgaliotinis, išskyrus atvejį, kai tiesioginis valdymas įvestas šio įstatymo  2 straipsnio 2 dalies 5 punkte nustatytu pagrindu, gali atleisti savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją iš pareigų. Vyriausybės įgaliotinis gali pavesti savivaldybės administracijos valstybės tarnautojui laikinai atlikti savivaldybės administracijos direktoriaus funkcijas. Savivaldybės administracijos direktoriaus funkcijas atliekantis asmuo yra pavaldus ir atskaitingas Vyriausybės įgaliotiniui. 
+5. Vyriausybės įgaliotinis gali atleisti mero politinio (asmeninio) pasitikėjimo valstybės tarnautojus iš pareigų, kai tiesioginis valdymas įvestas šio įstatymo 2 straipsnio 2 dalies 6 punkte nustatytu pagrindu. Vyriausybės įgaliotinis gali pavesti savivaldybės administracijos valstybės tarnautojui laikinai atlikti savivaldybės administracijos direktoriaus funkcijas. Savivaldybės administracijos direktoriaus funkcijas atliekantis asmuo yra pavaldus ir atskaitingas Vyriausybės įgaliotiniui. 
 
 
 
 
-6. Jeigu tiesioginis valdymas įvedamas šio įstatymo 2 straipsnio 2 dalies 5 punkte nustatytu pagrindu, savivaldybės administracijos direktorius, direktoriaus pavaduotojas (pavaduotojai) toliau eina savo pareigas. 
+6. Vyriausybės įgaliotinis, manydamas, kad savivaldybės administravimo subjektų sprendimai, priimti iki tiesioginio valdymo savivaldybės teritorijoje įvedimo, arba jų pagrindu sudaryti viešąjį interesą pažeidžiantys sandoriai neatitinka Konstitucijos, įstatymų ar Vyriausybės nutarimų, kreipiasi į Vyriausybės atstovą.
 
 
 
 
-7. Vyriausybės įgaliotinis atleidžia iš pareigų mero politinio (asmeninio) pasitikėjimo valstybės tarnautojus, išskyrus atvejį, kai tiesioginis valdymas įvedamas šio įstatymo 2 straipsnio 2 dalies 5 punkte nustatytu pagrindu.
+7. Vyriausybės įgaliotinio sprendimai įforminami potvarkiais.
 
 
 
 
-8. Vyriausybės įgaliotinis, manydamas, kad savivaldybės administravimo subjektų sprendimai, priimti iki tiesioginio valdymo savivaldybės teritorijoje įvedimo, arba jų pagrindu sudaryti viešąjį interesą pažeidžiantys sandoriai neatitinka Konstitucijos, įstatymų ar Vyriausybės nutarimų, kreipiasi į Vyriausybės atstovą.
+8. Vyriausybės įgaliotinio pavaduotojas (pavaduotojai) atlieka Vyriausybės įgaliotinio jam (jiems) pavestas funkcijas, o kai Vyriausybės įgaliotinis laikinai negali eiti savo pareigų, Ministrui Pirmininkui pavedus vienas iš Vyriausybės įgaliotinio pavaduotojų atlieka visas Vyriausybės įgaliotinio funkcijas. 
 
 
 
 
-9. Vyriausybės įgaliotinio sprendimai įforminami potvarkiais.
+9. Vyriausybės įgaliotinio, Vyriausybės įgaliotinio pavaduotojo (pavaduotojų) įgaliojimai pasibaigia, kai išrinkta nauja savivaldybės taryba susirenka į pirmąjį posėdį, kuriame šios tarybos nariai prisiekia. Jeigu tiesioginis valdymas savivaldybės teritorijoje įvestas šio įstatymo 2 straipsnio 2 dalies 5 ar 6 punkte nustatytu pagrindu, Vyriausybės įgaliotinio, Vyriausybės įgaliotinio pavaduotojo (pavaduotojų) įgaliojimai pasibaigia, kai pasibaigia tiesioginio valdymo terminas.
 
 
-
-
-10. Vyriausybės įgaliotinio pavaduotojas (pavaduotojai) atlieka Vyriausybės įgaliotinio jam (jiems) pavestas funkcijas, o kai Vyriausybės įgaliotinis laikinai negali eiti savo pareigų, Ministrui Pirmininkui pavedus vienas iš Vyriausybės įgaliotinio pavaduotojų atlieka visas Vyriausybės įgaliotinio funkcijas. 
-
-
-
-
-11. Vyriausybės įgaliotinio, Vyriausybės įgaliotinio pavaduotojo (pavaduotojų) įgaliojimai pasibaigia, kai išrinkta nauja savivaldybės taryba susirenka į pirmąjį posėdį, kuriame šios tarybos nariai prisiekia. Jeigu tiesioginis valdymas savivaldybės teritorijoje įvestas šio įstatymo 2 straipsnio 2 dalies 5 ar 6 punkte nustatytu pagrindu, Vyriausybės įgaliotinio, Vyriausybės įgaliotinio pavaduotojo (pavaduotojų) įgaliojimai pasibaigia, kai pasibaigia tiesioginio valdymo terminas ir negalėjusi vykdyti įgaliojimų savivaldybės taryba susirenka į posėdį. Posėdį ne vėliau kaip per vieną savaitę pasibaigus tiesioginio valdymo terminui šaukia Vyriausybės įgaliotinis, o kai jis negali, – Vyriausybės įgaliotinio pavaduotojas. 
+Straipsnio pakeitimai:
+Nr. XIV-1276, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15624
  
-
-
 
 
 
@@ -238,10 +238,12 @@ Iki tiesioginio valdymo savivaldybės teritorijoje įvedimo patvirtintas savival
 6 straipsnis. Savivaldybės įstaigų ir savivaldybės valdomų įmonių veikla
 
 
-Įvedus tiesioginį valdymą savivaldybės teritorijoje, savivaldybės administracija, kitos savivaldybės įstaigos ir savivaldybės valdomos įmonės tęsia savo veiklą, vykdo įstatymų nustatytas funkcijas, iki tiesioginio valdymo įvedimo priimtus savivaldybės tarybos sprendimus ir savivaldybės administracijos direktoriaus įsakymus, taip pat Vyriausybės įgaliotinio potvarkius.
+Įvedus tiesioginį valdymą savivaldybės teritorijoje, savivaldybės administracija, kitos savivaldybės įstaigos ir savivaldybės valdomos įmonės tęsia savo veiklą, vykdo įstatymų nustatytas funkcijas, iki tiesioginio valdymo įvedimo priimtus savivaldybės tarybos sprendimus, mero potvarkius, savivaldybės administracijos direktoriaus įsakymus, taip pat Vyriausybės įgaliotinio potvarkius.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1276, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15624
  
-
-
 
 
 
@@ -308,3 +310,8 @@ Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-92, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28941
 Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1276, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15624
+Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2, 3, 4 ir 6 straipsnių pakeitimo įstatymas
