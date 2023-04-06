@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-04-05
+Suvestinė redakcija nuo 2023-04-06 iki 2023-05-04
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -12687,9 +12687,10 @@ Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
 
 
 
-4. Klausimus dėl nuosprendžio vykdymo metu kylančių abejonių ir neaiškumų pagal šio Kodekso 361 straipsnį, taip pat klausimus, numatytus Lietuvos Respublikos bausmių vykdymo kodekse, nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Lietuvos Respublikos probacijos įstatyme nurodytus klausimus nagrinėja ir nutartimi išsprendžia nuteistojo gyvenamosios vietos apylinkės teismas. Šioje dalyje nurodytiems klausimams spręsti gali būti rengiamas teismo posėdis. Į teismo posėdį reikiamais atvejais teismas šaukia prokurorą, gynėją ir kitus proceso dalyvius, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.
+4. Klausimus dėl nuosprendžio vykdymo metu kylančių abejonių ir neaiškumų pagal šio Kodekso 361 straipsnį, taip pat Lietuvos Respublikos bausmių vykdymo kodekse numatytus klausimus, išskyrus Bausmių vykdymo kodekso 76 straipsnio 5 dalyje numatytuosius, nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Klausimus dėl prevencijos priemonių taikymo nuteistajam pagal Bausmių vykdymo kodekso 76 straipsnio 5 dalį motyvuotu laisvės atėmimo vietų įstaigos direktoriaus teikimu nagrinėja ir nutartimi išsprendžia vietovės, kurioje yra nuteistojo bausmės atlikimo vieta, apylinkės teismas. Lietuvos Respublikos probacijos įstatyme nurodytus klausimus nagrinėja ir nutartimi išsprendžia nuteistojo gyvenamosios vietos apylinkės teismas. Šioje dalyje nurodytiems klausimams spręsti gali būti rengiamas teismo posėdis. Į teismo posėdį reikiamais atvejais teismas šaukia prokurorą, gynėją ir kitus proceso dalyvius, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.
 Straipsnio dalies pakeitimai:
 Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
+Nr. XIV-1863, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06470
  
 
 
@@ -15874,7 +15875,7 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-part_f3fb3ba3f7d74564ac3075d0dfc1a162_end
+part_514485fde2a2483b8283d6f5c9031efc_end
 
 
  
@@ -16700,3 +16701,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 128, 141, 142 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1750, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27303
 Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 229-1 straipsniu įstatymas
+ 
+67.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1863, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06470
+Lietuvos Respublikos baudžiamojo proceso kodekso 362 straipsnio pakeitimo įstatymas
