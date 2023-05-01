@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
  
@@ -752,7 +752,9 @@ Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
 
 
 
-5. Branduolinės energijos įstatyme nustatytais atvejais radioaktyviųjų atliekų tvarkytojui saugoti gali būti perduodamos branduolinės ir (ar) radioaktyviosios medžiagos. Tokių branduolinių ir (ar) radioaktyviųjų medžiagų saugojimo tvarką ir sąlygas nustato radioaktyviųjų atliekų tvarkytojas, suderinęs su Valstybine atominės energetikos saugos inspekcija.
+5. Branduolinės energijos įstatyme nustatytais atvejais radioaktyviųjų atliekų tvarkytojui saugoti privalo būti perduodamos branduolinės ir (ar) radioaktyviosios medžiagos. Tokios branduolinės ir (ar) radioaktyviosios medžiagos tvarkomos ir saugomos, kol jos nėra grąžintos savininkui ar perduotos nuosavybės teise kitam asmeniui, turinčiam įstatymų nustatytą licenciją ar leidimą tokias medžiagas valdyti, vadovaujantis Valstybinės atominės energetikos saugos inspekcijos nustatytais branduolinės saugos reikalavimais dėl radioaktyviųjų atliekų tvarkymo, iki jų dėjimo į atliekyną. Šių branduolinių ir (ar) radioaktyviųjų medžiagų tvarkymo ir saugojimo išlaidas apmoka branduolines ar radioaktyviąsias medžiagas nuosavybės teise valdantis asmuo, kuris nustatyta tvarka ir terminais nesikreipė dėl licencijos ar leidimo galiojimo sustabdymo panaikinimo arba kuriam buvo panaikintas licencijos ar leidimo galiojimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1883, 2023-04-18, paskelbta TAR 2023-04-21, i. k. 2023-07768
  
 
 
@@ -939,7 +941,10 @@ Prieš pradedant eksploatuoti radioaktyviųjų atliekų tvarkymo įrenginį, lic
 2. Radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo metu:
 
 
-1) licencijos turėtojas, suderinęs su Valstybine atominės energetikos saugos inspekcija, nustato ir prireikus tikslina eksploatavimo ribas ir sąlygas, pagrįstas bandymais, eksploatavimo patirtimi ir šio įstatymo 15 straipsnyje nurodytu saugos vertinimu;
+1) licencijos turėtojas, suderinęs su Valstybine atominės energetikos saugos inspekcija, nustato ir prireikus tikslina taisyklių, nustatančių branduolinės energetikos objekto ir jo konstrukcijų, sistemų ir komponentų veikimo režimus ir veikimo parametrų ribines vertes bei mažiausią operatyvinių darbuotojų skaičių ir jų veiksmus, rinkinį (toliau – branduolinės energetikos objekto eksploatavimo parametrų ribinės vertės ir sąlygos), kurio laikantis užtikrinamas saugus branduolinės energetikos objekto eksploatavimas, pagrįstas bandymais, eksploatavimo patirtimi ir šio įstatymo 15 straipsnyje nurodytu saugos vertinimu. Licencijos turėtojas pagal Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytus reikalavimus parengia branduolinės energetikos objekto eksploatavimo parametrų ribinių verčių ir sąlygų aprašą ir jį suderina su Valstybine atominės energetikos saugos inspekcija;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1883, 2023-04-18, paskelbta TAR 2023-04-21, i. k. 2023-07768
+ 
 
 
 
@@ -1309,6 +1314,11 @@ Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3121, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15364
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 2, 4, ir 5 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1883, 2023-04-18, paskelbta TAR 2023-04-21, i. k. 2023-07768
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 11 ir 17 straipsnių pakeitimo įstatymas
  
  
 part_4da19803f12b4089954382e6f5b29670_end
