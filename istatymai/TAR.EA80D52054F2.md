@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea80d52054f211e7846ef01bfffb9b64"
 
 # Lietuvos Respublikos architektūros įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2024-04-30
  
 Įstatymas paskelbtas: TAR 2017-06-19, i. k. 2017-10247
  
@@ -28,9 +28,6 @@ ARCHITEKTŪROS
 Vilnius
  
  
-
- 
-
  
  
 
@@ -923,7 +920,10 @@ Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
 5. Regioninės architektūros tarybos atlieka šias funkcijas:
 
 
-1) teikia valstybės ir savivaldybių institucijoms rekomendacijas dėl teritorijų planavimo dokumentų, architektūrinių, nekilnojamojo architektūrinio ir urbanistinio paveldo bei šiame įstatyme nurodytų objektų projektinių pasiūlymų, architektūrinių ir urbanistinių idėjų sprendinių, statinių projektų, statinių architektūros atitikties architektūros kokybės reikalavimams ir kitais architektūros kokybės klausimais;
+1) teikia valstybės ir savivaldybių institucijoms išvadas ir (ar) rekomendacijas dėl teritorijų planavimo dokumentų, architektūrinių, nekilnojamojo architektūrinio ir urbanistinio paveldo bei šiame įstatyme nurodytų objektų projektinių pasiūlymų, architektūrinių ir urbanistinių idėjų sprendinių, statinių projektų, statinių architektūros atitikties architektūros kokybės reikalavimams ir kitais architektūros kokybės klausimais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1756, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27574
+ 
 
 
 
@@ -1139,5 +1139,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
 Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 18 straipsnio pakeitimo įstatymas
  
- 
-part_5802acda44574fe1b2f68aa08b8677a1_end
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1756, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27574
+Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 18 straipsnio pakeitimo įstatymas
