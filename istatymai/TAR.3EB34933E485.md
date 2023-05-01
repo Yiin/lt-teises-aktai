@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2023-05-23
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -49,12 +49,18 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Apibendrintas mokesčio įstatymo paaiškinimas – su Finansų ministerija suderinta centrinio mokesčių administratoriaus arba kitos šiuo Įstatymu tam įgaliotos institucijos pateikta nuomonė, kaip mokesčių administratorius ar minėta institucija supranta ir taiko mokesčio įstatymo nuostatas.
+1. Apibendrintas mokesčio įstatymo paaiškinimas – centrinio mokesčių administratoriaus arba kitos šiuo Įstatymu tam įgaliotos institucijos pateikta nuomonė, kaip mokesčių administratorius ar minėta institucija supranta ir taiko mokesčio įstatymo nuostatas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
 
-2. Asmuo – fizinis asmuo arba juridinis asmuo. Juridiniu asmeniu taip pat laikoma bet kokia užsienio valstybės organizacija, pagal Lietuvos Respublikos ar užsienio valstybės įstatymus pripažįstama teisės subjektu.
+2. Asmuo – fizinis asmuo, juridinis asmuo, įskaitant bet kokią kitą organizaciją, kuri pagal Lietuvos Respublikos ar užsienio valstybės įstatymus pripažįstama teisės subjektu, investicinis fondas, pensijų fondas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -432,7 +438,10 @@ Mokesčių įstatymus įgyvendinančius lydimuosius teisės aktus leidžia Lietu
 12 straipsnis. Mokesčio įstatymo aiškinimas
 
 
-1. Apibendrintus mokesčių įstatymų paaiškinimus, suderinusi su Finansų ministerija, teikia ir skelbia Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos. Aplinkos ministerijos ar jos įgaliotos institucijos, Lietuvos Respublikos muitinės bei Žemės ūkio ministerijos ar jos įgaliotos institucijos administruojamų mokesčių įstatymų apibendrintus paaiškinimus teikia ir skelbia atitinkamai Aplinkos ministerija, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos (toliau – Muitinės departamentas) bei Žemės ūkio ministerija, suderinę su Finansų ministerija.
+1. Apibendrintus mokesčių įstatymų paaiškinimus, pasikonsultavusi su visuomene, teikia ir skelbia Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos. Aplinkos ministerijos ar jos įgaliotos institucijos, Lietuvos Respublikos muitinės ir Žemės ūkio ministerijos ar jos įgaliotos institucijos administruojamų mokesčių įstatymų apibendrintus paaiškinimus, pasikonsultavę su visuomene, teikia ir skelbia atitinkamai Aplinkos ministerija, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos (toliau – Muitinės departamentas) ir Žemės ūkio ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -965,7 +974,10 @@ Nr. XIII-1390, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12060
 
 
 
-2) suderinęs su Finansų ministerija teikia apibendrintus mokesčių įstatymų paaiškinimus;
+2) teikia apibendrintus mokesčių įstatymų paaiškinimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -1058,7 +1070,15 @@ Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 
 
 
-20) nustato į biudžetą mokamų mokesčių apskaitos politiką ir tvarko į biudžetą mokamų mokesčių apskaitą.
+20) nustato į biudžetą mokamų mokesčių apskaitos politiką ir tvarko į biudžetą mokamų mokesčių apskaitą;
+
+
+
+
+21) analizuoja mokestines rizikas ir mokesčių mokėtojų elgseną, įgyvendina mokestinių prievolių nevykdymo prevenciją. 
+Papildyta straipsnio punktu:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -1137,11 +1157,17 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 
 
-12) šiame Įstatyme ir kituose teisės aktuose nustatyta tvarka administruoja baudas už administracinius nusižengimus, paskirtas Administracinių nusižengimų kodekso nustatyta tvarka. 
-TAR pastaba. 12 punkto nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+12) šiame Įstatyme ir kituose teisės aktuose nustatyta tvarka administruoja baudas už administracinius nusižengimus, paskirtas Administracinių nusižengimų kodekso nustatyta tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+ 
+
+
+
+
+13) analizuoja mokestines rizikas ir mokesčių mokėtojų elgseną, įgyvendina mokestinių prievolių nevykdymo prevenciją. 
+Papildyta straipsnio punktu:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -1385,7 +1411,17 @@ Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas,
 
 
 
-8) vykdyti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose nustatytas pareigas.
+8) užtikrinti, kad būtų laikomasi asmens duomenų tvarkymo reikalavimų, ir įgyvendinti tinkamas technines ir organizacines duomenų saugumo priemones ir kitas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) duomenų valdytojui nustatytas prievoles; 
+Papildyta straipsnio punktu:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
+
+
+
+
+9) vykdyti kitas šiame ir kituose įstatymuose bei jų lydimuosiuose teisės aktuose nustatytas pareigas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -1401,10 +1437,11 @@ Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas,
 Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas, turi teisę:
 
 
-1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kito asmens, įskaitant naudos gavėją, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;
+1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, mokesčių administravimo ir kitoms teisės aktuose nustatytoms funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kitų konkrečiai įvardytų asmenų, įskaitant naudos gavėjus, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
 Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -1415,7 +1452,10 @@ Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
 
 
 
-3) laikinai paimti iš mokesčių mokėtojo apskaitos, sandorių ir kitus mokesčių apskaičiavimo teisingumo patikrinimui ir mokestiniam tyrimui atlikti reikalingus dokumentus;
+3) laikinai paimti iš mokesčių mokėtojo finansinės apskaitos (toliau – apskaita), sandorių ir kitus mokesčių apskaičiavimo teisingumo patikrinimui ir mokestiniam tyrimui atlikti reikalingus dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -1516,9 +1556,18 @@ Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
 
 
 
-22) naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
+22) užkardydamas galimai neteisėtus asmenų veiksmus ir saugodamas valstybės finansų sistemą nuo galimos žalos, analizuodamas mokestines rizikas ir mokesčių mokėtojų elgseną, nustatydamas kontrolės prioritetus ir vykdydamas pridėtinės vertės mokesčio skirtumo grąžinimo kontrolę, atlikdamas mokestinį tyrimą ir (ar) mokestinį patikrinimą, vykdydamas susitarimo dėl mokesčio ir su juo susijusių sumų dydžio procedūrą, taip pat administruodamas jo kompetencijai priskirtinus mokesčius, gauti, atsižvelgiant į konkretų asmens duomenų gavimo poreikį, Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenis apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) pradėtus ikiteisminius tyrimus dėl galimo sukčiavimo, neteisėto praturtėjimo, nusikalstamų veikų ekonomikai ir verslo tvarkai, nusikalstamų veikų finansų sistemai, taip pat apie mokesčių mokėtojams (fiziniams ir juridiniams asmenims) priimtus ir įsiteisėjusius apkaltinamuosius nuosprendžius dėl šių nusikalstamų veikų; 
+Papildyta straipsnio punktu:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
+
+
+
+
+23) naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -1738,7 +1787,10 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 
 
-38 straipsnis. Informacijos apie mokesčių mokėtoją slaptumas
+38 straipsnis. Informacijos apie mokesčių mokėtoją slaptumas, asmens duomenų apsauga ir viešinimas
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 1. Informacija apie mokesčių mokėtoją, pateikta mokesčių administratoriui, turi būti laikoma paslaptyje ir naudojama tik teisėtiems tikslams. 
@@ -1746,53 +1798,65 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 
 
-2. Paslaptyje nelaikoma tokia informacija:
+2. Paslaptyje nelaikoma tokia informacija: 
 
 
-1) mokesčių mokėtojo identifikacinis numeris, taip pat atskirų mokesčių mokėtojų registrų, duomenų bazių mokesčių mokėtojams suteikti identifikaciniai numeriai;
-
-
-
-
-2) įregistravimo į mokesčių mokėtojų registrą ir į kitus šios dalies 1 punkte nurodytus registrus bei duomenų bazes datos, taip pat išregistravimo datos;
+1) mokesčių mokėtojo identifikacinis numeris (išskyrus fizinio asmens kodą), taip pat atskiruose registruose ar informacinėse sistemose suteikti asmens, kuris yra mokesčių mokėtojas, identifikaciniai numeriai (išskyrus fizinio asmens kodą);
 
 
 
 
-3) mokesčių mokėtojo – juridinio asmens sumokėtų (įskaitytų) mokesčių suma. Mokesčių mokėtojo – fizinio asmens sumokėtų (įskaitytų) mokesčių suma nelaikoma paslaptyje įstatymų nustatytais atvejais;
+2) įregistravimo į mokesčių mokėtojų registrą ir į kitus registrus ar informacines sistemas, kuriose suteikiami identifikaciniai numeriai, datos, taip pat išregistravimo datos;
 
 
 
 
-4) mokesčių mokėtojo mokestinės nepriemokos suma;
+3) mokesčių mokėtojo (išskyrus fizinį asmenį) sumokėtų (įskaitytų) mokesčių sumos. Mokesčių mokėtojo – fizinio asmens sumokėtų (įskaitytų) mokesčių sumos nelaikomos paslaptyje įstatymų nustatytais atvejais; 
 
 
 
 
-5) (neteko galios nuo 2007-07-19);
+4) mokesčių mokėtojo (išskyrus fizinį asmenį) mokestinės nepriemokos sumos. Mokesčių mokėtojo – fizinio asmens mokestinės nepriemokos sumos nelaikomos paslaptyje įstatymų nustatytais atvejais;
 
 
 
 
-6) informacija, susijusi su mokesčių teisės aktų pažeidimais, kai mokesčių mokėtojo kaltė už mokesčio įstatymo pažeidimus įrodyta. Mokesčių mokėtojo kaltė laikoma įrodyta, kai mokesčių mokėtojas per įstatymų nustatytus terminus ir tvarka neapskundė mokesčių administratoriaus veiksmų arba kai apskundus mokesčių administratoriaus veiksmus skundą nagrinėjanti institucija savo sprendimu jų nepripažįsta neteisėtais ir tokio sprendimo mokesčių mokėtojas įstatymų nustatytais terminais bei tvarka neapskundė, arba kai skundą nagrinėjančios institucijos sprendimas, nepripažįstantis mokesčių administratoriaus veiksmų neteisėtais, yra galutinis;
+5) informacija, susijusi su mokesčių teisės aktų pažeidimais, kai mokesčių mokėtojo kaltė už mokesčio įstatymo pažeidimus įrodyta. Mokesčių mokėtojo kaltė laikoma įrodyta, kai mokesčių mokėtojas per įstatymų nustatytus terminus ir įstatymų nustatyta tvarka neapskundė mokesčių administratoriaus veiksmų arba kai apskundus mokesčių administratoriaus veiksmus skundą nagrinėjanti institucija savo sprendimu jų nepripažįsta neteisėtais ir tokio sprendimo mokesčių mokėtojas įstatymų nustatytais terminais ir tvarka neapskundė, arba kai skundą nagrinėjančios institucijos sprendimas, kuriuo mokesčių administratoriaus veiksmai nepripažįstami neteisėtais, yra galutinis;
 
 
 
 
-7) mokesčių mokėtojo – juridinio asmens arba individualia veikla užsiimančio fizinio asmens – atitiktis minimaliems patikimo mokesčių mokėtojo kriterijams; 
-Papildyta straipsnio punktu:
-Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
+6) mokestinių prievolių vykdymo užtikrinimo, mokesčių teisės pažeidimų prevencijos, trečiųjų asmenų informavimo ir jų teisėtų interesų apsaugos užtikrinimo tikslais centrinio mokesčių administratoriaus interneto svetainėje centrinio mokesčių administratoriaus nustatyta tvarka skelbiami šie asmenų duomenys (fizinių asmenų atveju duomenys skelbiami atlikus paiešką pagal mokesčių mokėtojo identifikacinius duomenis, leidžiančius vienareikšmiškai identifikuoti asmenį): 
+
+
+a) juridinių asmenų duomenys: juridinio asmens teisinė forma ir jo pavadinimas, juridinio asmens teisinis statusas ir šio teisinio statuso galiojimo pradžios data, juridinio asmens identifikacinis numeris, juridinio asmens interneto svetainės adresas (jeigu juridinis asmuo turi interneto svetainę). Šie juridinių asmenų duomenys gaunami iš Juridinių asmenų registro ir skelbiami tol, kol juridinis asmuo išregistruojamas iš Juridinių asmenų registro. Kai mokesčių mokėtojas yra investicinis fondas ar pensijų fondas, kuriam mokesčių įstatymuose nustatytos atitinkamos mokestinės prievolės, mutatis mutandis taikomos šio papunkčio nuostatos; 
+
+
+
+
+b) informacija apie mokesčių mokėtoją – juridinį asmenį arba individualia veikla užsiimantį fizinį asmenį, kuris neatitinka minimalių patikimo mokesčių mokėtojo kriterijų: minimalių patikimo mokesčių mokėtojo kriterijų neatitinkančio juridinio asmens identifikacinis kodas, juridinio asmens pavadinimas, minimalių patikimo mokesčių mokėtojo kriterijų neatitinkančio individualia veikla užsiimančio fizinio asmens vardas ir pavardė, individualios veiklos vykdymo patvirtinimo dokumento numeris, informacija apie veiklos vykdymo teritoriją (vietą), laikotarpis, kuriuo mokesčių mokėtojas bus laikomas neatitinkančiu minimalių patikimo mokesčių mokėtojo kriterijų. Duomenų skelbimo laikotarpis – terminas, iki kada asmuo laikomas neatitinkančiu minimalių patikimo mokesčių mokėtojo kriterijų; 
+
+
+
+
+c) duomenys apie visus asmenis, kurie yra pridėtinės vertės mokesčio mokėtojai, ir fizinius asmenis, vykdančius individualią veiklą: visais atvejais skelbiama informacija apie tai, kokiai mokesčių mokėtojų grupei priskiriamas konkretus mokesčių mokėtojas; jeigu pridėtinės vertės mokesčio mokėtojo statusą turi juridinis asmuo, papildomai skelbiamas juridinio asmens – pridėtinės vertės mokesčio mokėtojo kodas ir šio kodo galiojimo pradžios data; jeigu pridėtinės vertės mokesčio mokėtojo statusą turi fizinis asmuo, papildomai skelbiami šie fizinio asmens duomenys: fizinio asmens, kuris yra pridėtinės vertės mokesčio mokėtojas, vardas ir pavardė, pridėtinės vertės mokesčio mokėtojo kodas ir data, nuo kada mokesčių mokėtojas yra pridėtinės vertės mokesčio mokėtojas; jeigu vykdoma individuali veikla, papildomai skelbiami šie duomenys: fizinio asmens vardas, pavardė, individualios veiklos pažymos numeris, informacija apie individualios veiklos rūšį, o jeigu išduotas verslo liudijimas, papildomai skelbiami šie duomenys: verslo liudijimo galiojimo data, veiklos, kuria verčiamasi turint verslo liudijimą, kodas, verslo liudijimo numeris, veiklos, kuria verčiamasi turint verslo liudijimą, pavadinimas ir vykdymo teritorija. Šie duomenys skelbiami tol, kol asmuo, kuris yra pridėtinės vertės mokesčio mokėtojas, netenka pridėtinės vertės mokesčio mokėtojo statuso, o kai vykdoma individuali veikla, ‒ kol asmuo nutraukia individualią veiklą;
+
+
+
+
+
+
+7) mokestinių prievolių vykdymo užtikrinimo, trečiųjų asmenų teisėtų interesų apsaugos užtikrinimo, mokesčių teisės pažeidimų prevencijos tikslais centrinio mokesčių administratoriaus interneto svetainėje centrinio mokesčių administratoriaus nustatyta tvarka skelbiami šie duomenys apie paramos gavėjo statusą įgijusius asmenis (turinčius paramos gavėjo ar meno kūrėjo, turinčio paramos gavėjo statusą, teisinį statusą): juridinio asmens pavadinimas, fizinio asmens vardas ir pavardė, paramos gavėjo statuso suteikimo data, paramos gavėjo identifikacinis numeris (išskyrus fizinio asmens kodą) ir savivaldybė, kurioje yra (veikia) šis paramos gavėjas, individualios veiklos vykdymo patvirtinimo dokumento (individualios veiklos pažymos, verslo liudijimo) numeris, informacija apie tai, ar fizinis asmuo turi pridėtinės vertės mokesčio mokėtojo statusą, informacija apie tai, kokiai mokesčių mokėtojų grupei priskiriamas konkretus mokesčių mokėtojas. Fizinių asmenų atveju duomenys skelbiami atlikus paiešką pagal mokesčių mokėtojo identifikacinius duomenis, leidžiančius vienareikšmiškai identifikuoti asmenį. Šie duomenys skelbiami tol, kol asmuo netenka paramos gavėjo statuso; 
+
+
+
+
+8) kita pagal Lietuvos Respublikos įstatymus paslaptimi nelaikoma informacija. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
-
-
-
-
-8) kita pagal Lietuvos Respublikos įstatymus paslaptimi nelaikoma informacija.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
- 
-
-
 
 
 
@@ -1865,7 +1929,10 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-3. Šio straipsnio 1 dalies 2 punkte nurodytos institucijos pateiktą informaciją naudoja apmokestinimo, taip pat teisės pažeidimų mokesčių srityje tyrimo tikslais. Mokesčių administratorius gali leisti minėtoms institucijoms perduoti jo pateiktą informaciją teismams ir teisėsaugos institucijoms, taip pat trečiųjų valstybių mokesčių administracijoms (kompetentingoms institucijoms), jei tai reikalinga apmokestinimo arba teisės pažeidimų mokesčių srityje tyrimo tikslais. 
+3. Šio straipsnio 1 dalies 2 punkte nurodytos institucijos pateiktą informaciją naudoja apmokestinimo, taip pat teisės pažeidimų mokesčių srityje tyrimo tikslais. Mokesčių administratorius gali duoti rašytinį sutikimą užsienio valstybių mokesčių administracijoms (kompetentingoms institucijoms) perduoti jo pateiktą informaciją tų užsienio valstybių teismams ar kitiems subjektams, taip pat trečiųjų valstybių mokesčių administracijoms (kompetentingoms institucijoms), jeigu tokia galimybė numatyta Lietuvos Respublikos tarptautinėse sutartyse, susitarimuose ar Europos Sąjungos teisės aktuose ir jeigu tokia informacija reikalinga šių subjektų funkcijoms atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -2009,44 +2076,41 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju 1
 401 straipsnis. Minimalūs patikimo mokesčių mokėtojo kriterijai 
 
 
-1. Laikoma, kad mokesčių mokėtojas – juridinis asmuo arba individualia veikla užsiimantis fizinis asmuo – atitinka minimalius patikimo mokesčių mokėtojo kriterijus, kai: 
+1. Laikoma, kad mokesčių mokėtojas – juridinis asmuo arba individualia veikla užsiimantis fizinis asmuo – atitinka minimalius patikimo mokesčių mokėtojo kriterijus, kai:
 
 
-1) juridiniam asmeniui arba individualia veikla užsiimančiam fiziniam asmeniui per paskutinius trejus metus iki jo vertinimo dienos įsigaliojusiu sprendimu pagal šį Įstatymą ar specialiuosius mokesčių įstatymus nebuvo skirta bauda už pajamų neįtraukimą į apskaitą, įsigaliojusiu sprendimu nebuvo skirta bauda už į buhalterinę apskaitą neįtraukto darbo užmokesčio mokėjimą, įsigaliojusiu sprendimu nebuvo skirta bauda už nepagrįstą pridėtinės vertės mokesčio atskaitą ir leidžiamų atskaitymų didinimą dėl į buhalterinę apskaitą įtrauktų apskaitos dokumentų, kuriuose įformintos tikrovėje nevykdytos arba kitomis, negu nurodyta, sąlygomis vykdytos ūkinės operacijos, įsigaliojusiu sprendimu nebuvo skirta bauda už juridinio asmens vadovo ar kitų atsakingų asmenų arba individualia veikla užsiimančio asmens privačių poreikių tenkinimą juridinio asmens lėšomis arba su individualia veikla susijusiomis lėšomis, įsigaliojusiu sprendimu nebuvo skirta bauda už paramos panaudojimą ne pagal paskirtį ir dėl bent vieno iš padarytų šių pažeidimų nebuvo apskaičiuota daugiau kaip 15 000 eurų mokesčių ir 
-
-
-
-
-2) juridinis asmuo arba individualia veikla užsiimantis fizinis asmuo per paskutinius trejus metus iki jo vertinimo dienos pagal Lietuvos Respublikos užimtumo įstatymą įsigaliojusiu sprendimu nebuvo baustas už nelegalų darbą, ir 
+1) juridiniam asmeniui arba individualia veikla užsiimančiam fiziniam asmeniui per paskutinius 3 metus iki jo vertinimo dienos įsigaliojusiu sprendimu pagal šį Įstatymą ar specialiuosius mokesčių įstatymus nebuvo skirta bauda už pajamų neįtraukimą į apskaitą, įsigaliojusiu sprendimu nebuvo skirta bauda už į apskaitą neįtraukto darbo užmokesčio mokėjimą, įsigaliojusiu sprendimu nebuvo skirta bauda už nepagrįstą pridėtinės vertės mokesčio atskaitą ir (arba) leidžiamų atskaitymų didinimą dėl į apskaitą įtrauktų apskaitos dokumentų, kuriuose įformintos tikrovėje nevykdytos arba kitomis, negu nurodyta, sąlygomis vykdytos ūkinės operacijos, įsigaliojusiu sprendimu nebuvo skirta bauda už juridinio asmens vadovo ar kitų atsakingų asmenų arba individualia veikla užsiimančio asmens privačių poreikių tenkinimą juridinio asmens lėšomis arba su individualia veikla susijusiomis lėšomis, įsigaliojusiu sprendimu nebuvo skirta bauda už paramos panaudojimą ne pagal paskirtį ir dėl bent vieno iš padarytų šių pažeidimų nebuvo apskaičiuota daugiau kaip 15 000 eurų mokesčių ir
 
 
 
 
-3) juridinis asmuo ir (ar) jo vadovas arba individualia veikla užsiimantis asmuo per paskutinius trejus metus iki jo vertinimo dienos priimtu ir įsigaliojusiu apkaltinamuoju nuosprendžiu nebuvo nuteistas už sukčiavimą, neteisėtą praturtėjimą, nusikalstamą veiką ekonomikai ir verslo tvarkai, nusikalstamą veiką finansų sistemai, ir 
+2) darbdavys ar kitas atsakingas asmuo per paskutinius 3 metus iki jo vertinimo dienos įsigaliojusiu sprendimu nebuvo baustas už nelegalų darbą, ir 
 
 
 
 
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 95, 961, 99, 127, 132, 134, 137, 142, 143, 150, 151, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 1883, 189, 190, 191, 192, 193, 195, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505, 546 straipsniuose. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
-Nr. XIV-465, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15524
-Nr. XIV-861, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27779
-Nr. XIV-1241, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15187
+3) juridinis asmuo ir (ar) jo vadovas arba individualia veikla užsiimantis asmuo per paskutinius 3 metus iki jo vertinimo dienos įsiteisėjusiu apkaltinamuoju nuosprendžiu nebuvo nuteistas už sukčiavimą, neteisėtą praturtėjimą, nusikalstamą veiką ekonomikai ir verslo tvarkai, nusikalstamą veiką finansų sistemai, ir 
+
+
+
+
+4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso 961, 99, 127, 132, 134, 137, 143, 150, 151, 158, 159, 160, 162, 163, 164, 165, 166, 167, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 1883, 190, 192, 193, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505 straipsniuose. 
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytų fizinio asmens duomenų, kuriems taikytinas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), valdytoja yra Valstybinė mokesčių inspekcija, šie duomenys tvarkomi ir naudojami šio Įstatymo 25 straipsnio 1 dalies 7, 9, 10, 11, 16, 17, 19 ir 21 punktuose bei 26 straipsnio 1 dalies 2, 3, 4, 7, 8, 9, 10, 11, 12 ir 13 punktuose nurodytoms mokesčių administratoriaus funkcijoms atlikti ir 33 straipsnyje nurodytoms teisėms įgyvendinti, taip pat siekiant užtikrinti Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio nuostatų, reglamentuojančių tiekėjo pašalinimo iš pirkimo procedūros pagrindus, įgyvendinimą bei siekiant užtikrinti Lietuvos Respublikos labdaros ir paramos įstatymo 13 straipsnio nuostatų, reglamentuojančių paramos gavėjo statuso suteikimą ir panaikinimą, įgyvendinimą. Fizinio asmens duomenų tvarkymo terminas yra 10 metų. 
+
+
+
+
+3. Šio straipsnio 1 dalies nuostatos netaikomos asmenims, nurodytiems Lietuvos Respublikos pelno mokesčio įstatymo 3 straipsnio 2 dalyje. 
+
+
+Straipsnio pakeitimai:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
-
-
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytų fizinio asmens duomenų, kuriems taikytinas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), valdytoja yra Valstybinė mokesčių inspekcija, šie duomenys tvarkomi ir naudojami šio įstatymo 25 straipsnio 1 dalies 7, 9, 10, 11, 16, 17 ir 19 punktuose bei 26 straipsnio 1 dalies 2, 3, 4, 7, 8, 9, 10, 11 ir 12 punktuose nurodytoms mokesčių administratoriaus funkcijoms atlikti ir 33 straipsnyje nurodytoms teisėms įgyvendinti, taip pat siekiant užtikrinti Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio nuostatų, reglamentuojančių tiekėjo pašalinimo iš pirkimo procedūros pagrindus, įgyvendinimą bei siekiant užtikrinti Lietuvos Respublikos labdaros ir paramos įstatymo 13 straipsnio nuostatų, reglamentuojančių paramos gavėjo statuso suteikimą ir panaikinimą, įgyvendinimą. Fizinio asmens duomenų tvarkymo terminas yra dešimt metų. 
-TAR pastaba. 401 straipsnio nuostatos taikomos tais atvejais, kai yra vertinami teisės pažeidimai, padaryti nuo 2019 m. sausio 1 d.
-
-
-Papildyta straipsniu:
-Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
  
 
 
@@ -3431,10 +3495,11 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 
 
 
-9. Mokesčių administratorius, per šio straipsnio 7 dalyje nurodytą terminą negrąžinęs mokesčio permokos sumos, mokesčių mokėtojo naudai skaičiuoja palūkanas, kurių dydis lygus praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinio vidurkio dydžiui, iki ši mokesčio permoka bus mokesčių mokėtojui grąžinta. Mokesčių mokėtojo naudai palūkanos neskaičiuojamos, kai vykdomos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje. Šiuo atveju palūkanos neskaičiuojamos laikotarpiu nuo kreipimosi dėl dvigubo apmokestinimo ginčų sprendimo procedūrų iki šių procedūrų pabaigos, tačiau jeigu pasibaigus dvigubo apmokestinimo ginčų sprendimo procedūroms mokesčių mokėtojo prievolė sumažėja, jam proporcingai grąžinamos visos, jei jų buvo, sumokėtos ar išieškotos baudų, delspinigių ar palūkanų pagal mokestinės paskolos sutartį sumos. 
+9. Mokesčių administratorius, per šio straipsnio 7 dalyje nurodytą terminą negrąžinęs mokesčio permokos sumos, mokesčių mokėtojo naudai skaičiuoja palūkanas, kurių dydis lygus šio Įstatymo 88 straipsnio 5 dalyje nustatytoms palūkanoms, mokamoms pagal mokestinės paskolos sutartis, iki ši mokesčio permoka bus mokesčių mokėtojui grąžinta. Mokesčių mokėtojo naudai palūkanos neskaičiuojamos, kai vykdomos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje. Šiuo atveju palūkanos neskaičiuojamos laikotarpiu nuo kreipimosi dėl dvigubo apmokestinimo ginčų sprendimo procedūrų iki šių procedūrų pabaigos, tačiau jeigu pasibaigus dvigubo apmokestinimo ginčų sprendimo procedūroms mokesčių mokėtojo prievolė sumažėja, jam proporcingai grąžinamos visos, jei jų buvo, sumokėtos ar išieškotos baudų, delspinigių ar palūkanų pagal mokestinės paskolos sutartį sumos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -3512,10 +3577,11 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 
 
 
-5. Už suteiktą mokestinę paskolą mokamos palūkanos, kurių dydį nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį. Jeigu kitas palūkanų dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas palūkanų dydis. Mokesčių mokėtojui laiku nesumokėjus įmokų pagal mokestinės paskolos sutartimi patvirtintą mokėjimo grafiką, skaičiuojamos padidintos palūkanos, o nesumokėjus palūkanų pagal mokestinės paskolos sutartį – palūkanų delspinigiai. Padidintos palūkanos ir palūkanų delspinigiai skaičiuojami iki tos dienos, kol atitinkamos sumos yra sumokamos (įskaitomos). Padidintų palūkanų ir palūkanų delspinigių dydis yra lygus delspinigių už laiku nesumokėtą mokestį dydžiui. 
+5. Už suteiktą mokestinę paskolą mokamos palūkanos, kurių dydį, kuris visais atvejais negali būti mažesnis už nulį, ir apskaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio paskutinės darbo dienos Vyriausybės vertybinio popieriaus, kurio išpirkimo laikotarpis artimiausias 12 mėnesių laikotarpiui, pelningumą antrinės vertybinių popierių apyvartos, kaip ji apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme (toliau – antrinė vertybinių popierių apyvarta), rinkoje. Jeigu kitas palūkanų dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas palūkanų dydis. Mokesčių mokėtojui laiku nesumokėjus įmokų pagal mokestinės paskolos sutartimi patvirtintą mokėjimo grafiką, skaičiuojamos padidintos palūkanos, o nesumokėjus palūkanų pagal mokestinės paskolos sutartį – palūkanų delspinigiai. Padidintos palūkanos ir palūkanų delspinigiai skaičiuojami iki tos dienos, kol atitinkamos sumos yra sumokamos (įskaitomos). Padidintų palūkanų ir palūkanų delspinigių dydis yra lygus delspinigių už laiku nesumokėtą mokestį dydžiui. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -3904,12 +3970,13 @@ Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 99 straipsnis. Delspinigių dydis
 
 
-Delspinigių dydį ir jo apskaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinį vidurkį. Delspinigių dydis nustatomas minėtąją palūkanų normą padidinus 10 procentinių punktų. Jeigu kitas delspinigių dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas delspinigių dydis.
+Delspinigių dydį, kuris visais atvejais negali būti mažesnis už nulį, ir jo apskaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio paskutinės darbo dienos Vyriausybės vertybinio popieriaus, kurio išpirkimo laikotarpis artimiausias 12 mėnesių laikotarpiui, pelningumą antrinės vertybinių popierių apyvartos rinkoje. Delspinigių dydis nustatomas minėtąjį dydį padidinus 7 procentiniais punktais. Jeigu kitas delspinigių dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas delspinigių dydis. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -4147,12 +4214,11 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
 
 
 
-2. Nurodymas atsiskaityti negrynaisiais pinigais gali būti duodamas, jeigu mokesčių mokėtojas arba mokesčių mokėtojo – juridinio asmens vadovas ar jo įgaliotas asmuo, veikdami to juridinio asmens naudai arba interesais, buvo pripažinti kaltais arba jiems buvo paskirta administracinė nuobauda dėl apgaulingo ar aplaidaus buhalterinės apskaitos tvarkymo, nusikalstamu būdu įgytų pinigų ar turto legalizavimo ir (ar) jo realizavimo, nelegalaus darbo, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimo, buhalterinės piniginių lėšų ir materialinių vertybių apskaitos taisyklių pažeidimo, neteisingų duomenų apie pajamas, pelną, turtą ar jų naudojimą pateikimo ir teistumas neišnykęs ir nepanaikintas arba nuo tos dienos, kurią pasibaigia administracinės nuobaudos vykdymas, nėra praėję daugiau kaip vieni metai, taip pat kai mokesčių administratorius vykdo mokesčių mokėtojo mokestinės nepriemokos priverstinį išieškojimą. 
-TAR pastaba. 2 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+2. Nurodymas atsiskaityti negrynaisiais pinigais gali būti duodamas, jeigu mokesčių mokėtojas arba mokesčių mokėtojo – juridinio asmens vadovas ar jo įgaliotas asmuo, veikdami to juridinio asmens naudai arba interesais, buvo pripažinti kaltais arba jiems buvo paskirta administracinė nuobauda dėl apgaulingo ar aplaidaus apskaitos tvarkymo, nusikalstamu būdu įgytų pinigų ar turto legalizavimo ir (ar) jo realizavimo, nelegalaus darbo, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos pažeidimo, lėšų ir materialinių vertybių apskaitos taisyklių pažeidimo, neteisingų duomenų apie pajamas, pelną, turtą ar jų naudojimą pateikimo ir teistumas neišnykęs ir nepanaikintas arba nuo tos dienos, kurią pasibaigia administracinės nuobaudos vykdymas, nėra praėję daugiau kaip vieni metai, taip pat kai mokesčių administratorius vykdo mokesčių mokėtojo mokestinės nepriemokos priverstinį išieškojimą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -4982,7 +5048,9 @@ Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 
 
-4. Tais atvejais, kai į mokesčių mokėtojo turėtas išlaidas bei kitus mokėjimus, taip pat turto ir pajamų įsigijimo teisėtumą pagrindžiančius šaltinius nėra galimybės atsižvelgti, kadangi dokumentuose trūksta teisės aktuose numatytų rekvizitų ir (arba) mokesčių administratorius pagal šiuos dokumentus negali tiksliai identifikuoti juose nurodytų asmenų arba, mokesčių administratoriaus duomenimis, tokie asmenys neegzistuoja, mokesčių administratorius leidžia mokesčių mokėtojui finansų ministro nustatyta tvarka papildyti minėtus dokumentus trūkstamais rekvizitais. Šios nuostatos neriboja šio Įstatymo 69 straipsnio 2 dalies taikymo galimybių.
+4. Tais atvejais, kai į mokesčių mokėtojo turėtas išlaidas bei kitus mokėjimus, taip pat turto ir pajamų įsigijimo teisėtumą pagrindžiančius šaltinius nėra galimybės atsižvelgti, kadangi dokumentuose trūksta teisės aktuose numatytos informacijos (duomenų) ir (arba) mokesčių administratorius pagal šiuos dokumentus negali tiksliai identifikuoti juose nurodytų asmenų arba, mokesčių administratoriaus duomenimis, tokie asmenys neegzistuoja, mokesčių administratorius leidžia mokesčių mokėtojui centrinio mokesčių administratoriaus nustatyta tvarka papildyti minėtus dokumentus trūkstama informacija (duomenimis). Šios nuostatos neriboja šio Įstatymo 69 straipsnio 2 dalies taikymo galimybių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -5370,40 +5438,36 @@ Mokesčių įstatymų pažeidimu yra laikomas neteisėtas asmenų elgesys, kuriu
 
 
 
-139 straipsnis. Baudos už mokesčių įstatymų pažeidimus
+139 straipsnis. Baudos už mokesčių įstatymų pažeidimus 
 
 
-1. Jeigu mokesčių administratorius mokestinio patikrinimo metu nustato, kad mokesčių mokėtojas neapskaičiavo nedeklaruojamo (įskaitant muitinės deklaracijose apskaičiuojamą mokestį) ar nedeklaravo deklaruojamo mokesčio arba neteisėtai pritaikė mažesnį mokesčio tarifą ir dėl šių priežasčių mokėtiną mokestį neteisėtai sumažino, mokesčių mokėtojui priskaičiuojama trūkstama mokesčio suma ir skiriama nuo 10 iki 50 procentų šios trūkstamos mokesčio sumos dydžio bauda, jei atitinkamo mokesčio įstatymas nenustato kitaip. 
-
-
-
-
-2. Jeigu šio straipsnio 1 dalyje nurodyta trūkstama mokesčio suma priskaičiuojama dėl mokesčių administratoriaus mokestinio patikrinimo metu nustatytų mokesčių mokėtojo pajamų, kurių gavimo šaltinių mokesčių mokėtojas negali pagrįsti, mokesčių mokėtojui skiriama nuo 50 iki 100 procentų priskaičiuotos trūkstamos mokesčio sumos dydžio bauda. 
+1. Jeigu mokesčių administratorius mokestinio patikrinimo metu nustato, kad mokesčių mokėtojas neapskaičiavo nedeklaruojamo (įskaitant muitinės deklaracijose apskaičiuojamą mokestį) ar nedeklaravo deklaruojamo mokesčio arba neteisėtai pritaikė mažesnį mokesčio tarifą ir dėl šių priežasčių mokėtiną mokestį neteisėtai sumažino, mokesčių mokėtojui priskaičiuojama trūkstama mokesčio suma ir skiriama nuo 20 iki 100 procentų šios trūkstamos mokesčio sumos dydžio bauda, jei atitinkamo mokesčio įstatymas nenustato kitaip. 
 
 
 
 
-3. Skirdamas konkrečią baudą, jos dydį mokesčių administratorius nustato vadovaudamasis šio Įstatymo 140 straipsnyje nustatytomis baudų skyrimo taisyklėmis.
+2. Skirdamas konkrečią baudą, jos dydį mokesčių administratorius nustato vadovaudamasis šio Įstatymo 140 straipsnyje nustatytomis baudų skyrimo taisyklėmis.
 
 
 
 
-4. Mokesčių mokėtojui, kuriam už to paties mokesčio įstatymo pažeidimą pagal šį Įstatymą per trumpesnį negu šio Įstatymo 68 straipsnyje numatytasis atitinkamą mokesčių apskaičiavimo ir perskaičiavimo senaties terminą jau buvo paskirta bauda, šio Įstatymo 140 straipsnyje nustatyta tvarka apskaičiuota bauda didinama dvigubai.
+3. Mokesčių mokėtojui, kuriam už to paties mokesčio įstatymo pažeidimą pagal šį Įstatymą ar specialųjį mokesčio įstatymą per trumpesnį negu šio Įstatymo 68 straipsnio 4 dalyje nustatytą mokesčių apskaičiavimo ir perskaičiavimo senaties terminą jau buvo paskirta bauda, šio Įstatymo 140 straipsnyje nustatyta tvarka apskaičiuota bauda didinama dvigubai.
 
 
 
 
-5. Šio straipsnio 1, 2 ir 4 dalyse nustatytos baudos netaikomos, kai mokesčių mokėtojas per mokesčio įstatyme nustatytą terminą nepateikė mokesčio deklaracijos arba kai po mokesčio deklaracijos pateikimo mokesčių administratoriui pastebėjo, kad deklaravo per mažai mokesčio, tačiau iki mokesčių administratoriaus pavedimo patikrinti asmenį išrašymo dienos pateikė mokesčio deklaraciją, o klaidų taisymo atveju – ją patikslino ir pateikė mokesčių administratoriui. Šios dalies nuostatos taip pat taikomos muitinės deklaracijose apskaičiuojamiems mokesčiams.
+4. Šio straipsnio 1 ir 3 dalyse nustatytos baudos netaikomos, kai mokesčių mokėtojas per mokesčio įstatyme nustatytą terminą nepateikė mokesčio deklaracijos arba kai po mokesčio deklaracijos pateikimo mokesčių administratoriui pastebėjo, kad deklaravo per mažai mokesčio, tačiau iki mokesčių administratoriaus pavedimo patikrinti asmenį išrašymo dienos pateikė mokesčio deklaraciją, o klaidų taisymo atveju – ją patikslino ir pateikė mokesčių administratoriui. Šios dalies nuostatos taip pat taikomos muitinės deklaracijose apskaičiuojamiems mokesčiams.
 
 
 
 
-6. Biudžetinėms įstaigoms, taip pat Lietuvos bankui šio straipsnio 1, 2 ir 4 dalyse nustatytos baudos neskiriamos. Šių įstaigų vadovai ir vyriausieji buhalteriai ar kiti už apskaitos tvarkymą atsakingi asmenys, pažeidę mokesčių įstatymų reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka. 
+5. Biudžetinėms įstaigoms, taip pat Lietuvos bankui šio straipsnio 1 ir 3 dalyse nustatytos baudos neskiriamos. Šių įstaigų vadovai ir už apskaitos tvarkymą atsakingi asmenys, pažeidę mokesčių įstatymų reikalavimus, atsako pagal Administracinių nusižengimų kodeksą arba pagal Baudžiamąjį kodeksą. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1155, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08527
 Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
  
 
 
@@ -5417,7 +5481,9 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 
 
 
-2. Mokesčių administratorius už mokesčių įstatymų pažeidimus skiria asmenims baudas, vadovaudamasis teisingumo, protingumo kriterijais ir neviršydamas šio Įstatymo 139 straipsnio 1 ir 2 dalyse nustatytų skirtinos baudos dydžių, o jeigu skirtinos baudos dydžiai nustatyti specialiajame mokesčio įstatyme, – neviršydamas jame nustatytų skirtinos baudos dydžių, atsižvelgdamas į:
+2. Mokesčių administratorius už mokesčių įstatymų pažeidimus skiria asmenims baudas, vadovaudamasis teisingumo, protingumo kriterijais ir neviršydamas šio Įstatymo 139 straipsnio 1 dalyje nustatyto skirtinos baudos dydžio, o jeigu skirtinos baudos dydis nustatytas specialiajame mokesčio įstatyme, – neviršydamas jame nustatyto skirtinos baudos dydžio, atsižvelgdamas į: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
 
 1) pažeidimo pavojingumo pobūdį ir mastą; 
@@ -5475,34 +5541,42 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 4. Asmens atsakomybę sunkinančios aplinkybės yra šios: 
 
 
-1) pažeidimas padarytas asmeniui siekiant gauti mokestinę naudą, kaip ji suprantama pagal šio Įstatymo 69 straipsnio 1 dalį, ir mokesčiai apskaičiuoti mokesčių administratoriui taikant turinio viršenybės prieš formą principą; 
+1) pažeidimas padarytas asmeniui siekiant gauti mokestinę naudą; 
 
 
 
 
-2) mokesčių mokėtojas nevykdo ar netinkamai vykdo savo pareigas apskaičiuoti mokestį, bendradarbiauti su mokesčių administratoriumi, tvarkyti apskaitą, saugoti apskaitos ar kitus dokumentus ir dėl to mokesčių administratorius neturi galimybių apskaičiuoti mokėtinų mokesčių įprastine, t. y. specialiojo mokesčio įstatymo nustatyta, tvarka; 
+2) mokesčių mokėtojas nevykdo savo pareigų apskaičiuoti mokestį, bendradarbiauti su mokesčių administratoriumi, tvarkyti apskaitą, saugoti apskaitos ar kitus dokumentus ar šias pareigas vykdo netinkamai, taip pat nesilaiko kitų apskaitą reglamentuojančių teisės aktų reikalavimų ir dėl to mokesčių administratorius neturi galimybių apskaičiuoti mokėtinų mokesčių įprastine, tai yra specialiojo mokesčio įstatymo nustatyta, tvarka; 
 
 
 
 
-3) kai mokesčių mokėtojas mokesčių administratoriaus nurodytu laiku nepateikia mokesčių administratoriui tinkamų dokumentų apie sandorių ar ūkinių operacijų vertę arba pateikia netinkamus dokumentus ir mokesčių administratorius koreguoja sandorių ar ūkinių operacijų vertę, taikydamas Pelno mokesčio įstatymo 40 straipsnį arba Gyventojų pajamų mokesčio įstatymo 15 straipsnį; 
+3) kai mokesčių mokėtojas mokesčių administratoriaus nurodytu laiku nepateikia mokesčių administratoriui tinkamų dokumentų apie sandorių ar ūkinių operacijų vertę arba pateikia netinkamus dokumentus ir mokesčių administratorius koreguoja sandorių ar ūkinių operacijų vertę, taikydamas Pelno mokesčio įstatymo 40 straipsnį arba Gyventojų pajamų mokesčio įstatymo 15 straipsnį;
 
 
 
 
-4) mokesčių mokėtojas, vykdydamas mokestines prievoles, vengia bendradarbiauti su mokesčių administratoriumi ir teikti jam aktualią informaciją ar paaiškinimus; 
+4) mokesčių mokėtojas mokestinio patikrinimo metu vengia bendradarbiauti su mokesčių administratoriumi ir teikti jam aktualią informaciją, dokumentus (jų kopijas) ar paaiškinimus;
 
 
 
 
-5) dėl mokesčių mokėtojo tyčinių veiksmų ar neveikimo padaryta didelė žala valstybės biudžetui, kai nesumokėtų mokesčių dydis viršija 500 bazinių socialinių išmokų; 
+5) dėl mokesčių mokėtojo veiksmų ar neveikimo padaryta didelė žala valstybės biudžetui, kai nesumokėtų mokesčių dydis viršija 500 bazinių socialinių išmokų dydį, galiojantį priimant sprendimą dėl patikrinimo akto tvirtinimo;
 
 
 
 
-6) į buhalterinę apskaitą įtraukti juridinės galios neturintys apskaitos dokumentai, kuriuose nurodytomis sąlygomis užfiksuotos ūkinės operacijos realiai neįvyko. 
+6) į apskaitą įtraukti juridinės galios neturintys apskaitos dokumentai arba juridinę galią turintys apskaitos dokumentai, kuriuose užfiksuotos ūkinės operacijos realiai neįvyko arba įvyko kitomis, negu nurodyta, sąlygomis;
 
 
+
+
+7) kai šio Įstatymo nustatyta tvarka mokesčių administratorius mokestinio patikrinimo metu nustato nesumokėtą mokesčių sumą ir ši suma priskaičiuojama dėl mokesčių administratoriaus mokestinio patikrinimo metu nustatytų mokesčių mokėtojo pajamų, kurių gavimo šaltinių mokesčių mokėtojas negali pagrįsti. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -5510,7 +5584,10 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 5. Konkretų asmeniui skirtinos baudos dydį mokesčių administratorius apskaičiuoja ir motyvuotai nustato atsižvelgdamas į šias baudų skyrimo taisykles: 
 
 
-1) mokesčių administratorius pasirenka skiriamos konkrečios baudos dydį, skaičiuodamas nuo jos vidurkio, kuris apskaičiuojamas šio Įstatymo 139 straipsnio 1 ar 2 dalyje (ar specialiajame mokesčio įstatyme) nurodytos trūkstamos mokesčio sumos dydžio baudos minimalų ir maksimalų dydžius sudedant ir gautą rezultatą padalijant pusiau; 
+1) mokesčių administratorius pasirenka skiriamos konkrečios baudos dydį, skaičiuodamas nuo jos vidurkio, kuris apskaičiuojamas šio Įstatymo 139 straipsnio 1 dalyje (ar specialiajame mokesčio įstatyme) nurodytos trūkstamos mokesčio sumos dydžio baudos minimalų ir maksimalų dydžius sudedant ir gautą rezultatą padalijant pusiau; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 
@@ -5528,6 +5605,14 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 4) mokesčių administratorius, nustatęs, kad yra kelios asmens atsakomybę sunkinančios aplinkybės ir nėra lengvinančių aplinkybių, asmeniui skiria baudą, viršijančią skirtinos baudos vidurkį. 
 
 
+
+
+
+
+6. Kai už mokesčių įstatymų pažeidimus atsako keli asmenys, muitinė kiekvienam pažeidėjui skiria individualią baudą, kurios dydis siekia 60 procentų vidutinio pagal šio Įstatymo 139 straipsnį apskaičiuoto baudos dydžio, padalyto iš mokesčių įstatymus pažeidusių  asmenų skaičiaus ir patikslinto atsižvelgus į šio Įstatymo 139 straipsnio 2–5 dalių nuostatas. Bendras skiriamos baudos dydis turi atitikti šio Įstatymo 139 straipsnio 1 dalyje nustatytą skirtinos baudos dydį, o jeigu skirtinos baudos dydis nustatytas specialiajame mokesčio įstatyme, – jame nustatytą skirtinos baudos dydį. Jeigu bendras už mokesčių įstatymų pažeidimus atsakingiems asmenims skirtinos baudos dydis viršija šio Įstatymo 139 straipsnio 1 dalyje ar specialiajame mokesčio įstatyme nustatytą maksimalų skirtinos baudos dydį, šis dydis proporcingai mažinamas kiekvienam atsakingam asmeniui. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 Straipsnio pakeitimai:
@@ -6400,7 +6485,10 @@ Dokumentų įteikimo mokesčių administratoriui data laikoma ta data, kurią mo
 
 
 
-5. Tais atvejais, kai dokumentų įteikti šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais būdais mokesčių mokėtojui neįmanoma (mokesčių mokėtojas (jo atstovas) nerandamas arba duomenų apie mokesčių mokėtojo adresą nėra atitinkamame registre), mokesčių administratorius Valstybinės mokesčių inspekcijos interneto svetainėje (www.vmi.lt) paskelbia pranešimą, kuriame mokesčių mokėtojui (jo atstovui) per nustatytą terminą (ne trumpesnį kaip 5 dienos nuo pranešimo paskelbimo dienos) pasiūloma atvykti pas mokesčių administratorių atsiimti atitinkamo dokumento šio straipsnio 1 dalyje nurodytu būdu. Jeigu mokesčių mokėtojas per nustatytą terminą neatvyksta, dokumentas laikomas įteiktu minėto pranešimo paskelbimo Valstybinės mokesčių inspekcijos interneto svetainėje dieną. Šioje dalyje nurodytų procedūrų mokesčių administratorius neprivalo taikyti, jeigu mokesčių mokėtojui įteiktinas centrinio mokesčių administratoriaus sprendimas priimtas išnagrinėjus mokesčių mokėtojo skundą dėl vietos mokesčių administratoriaus priimto sprendimo.
+5. Tais atvejais, kai dokumentų įteikti šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais būdais mokesčių mokėtojui neįmanoma (mokesčių mokėtojas (jo atstovas) nerandamas arba duomenų apie mokesčių mokėtojo adresą nėra atitinkamame registre), mokesčių administratorius, siekdamas įteikti dokumentus, centrinio mokesčių administratoriaus interneto svetainėje paskelbia pranešimą (pranešime nurodomas juridinio asmens pavadinimas, juridinio asmens identifikacinis kodas, fizinio asmens vardas, pavardė, individualios veiklos vykdymo patvirtinimo dokumento (individualios veiklos pažymos, verslo liudijimo) numeris, kvietimo atvykti priežastis; kai mokesčių mokėtojas yra investicinis fondas ir (ar) pensijų fondas, šios nuostatos mutatis mutandis taikomos tiems investicinių fondų ir (ar) pensijų fondų atsakingiems asmenims ar kitiems asmenims, kurie pagal specialiuosius mokesčių įstatymus privalo vykdyti atitinkamas šio mokesčio mokėtojo mokestines prievoles), kuriame mokesčių mokėtojui (jo atstovui) per nustatytą terminą (ne trumpesnį kaip 5 dienos ir ne ilgesnį kaip 20 dienų nuo pranešimo paskelbimo dienos) pasiūloma atvykti pas mokesčių administratorių atsiimti atitinkamo dokumento šio straipsnio 1 dalyje nurodytu būdu. Jeigu mokesčių mokėtojas per nustatytą terminą neatvyksta, dokumentas laikomas įteiktu minėto pranešimo paskelbimo centrinio mokesčių administratoriaus interneto svetainėje dieną. Šioje dalyje nurodytų procedūrų mokesčių administratorius neprivalo taikyti, jeigu mokesčių mokėtojui įteiktinas centrinio mokesčių administratoriaus sprendimas priimtas išnagrinėjus mokesčių mokėtojo skundą dėl vietos mokesčių administratoriaus priimto sprendimo. Pranešime nurodytų duomenų skelbimo laikotarpis yra ne ilgesnis kaip pranešime nurodytas laikotarpis mokesčių mokėtojui atvykti pas mokesčių administratorių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
+ 
 
 
 Straipsnio pakeitimai:
@@ -6766,8 +6854,6 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
- 
-
  
 Lietuvos Respublikos
 mokesčių administravimo įstatymo 
@@ -6809,7 +6895,8 @@ Priedo pakeitimai:
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
  
-part_1c787425feec44f5981a0de484456464_end
+
+
 
 
 Pakeitimai:
