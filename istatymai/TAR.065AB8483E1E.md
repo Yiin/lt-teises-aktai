@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1996
  
 
 
-Suvestinė redakcija nuo 2023-04-28 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2023-05-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -1965,35 +1965,24 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 
 
-27 straipsnis. Valstybės parama viešosios informacijos rengėjams 
+27 straipsnis. Valstybės parama viešosios informacijos rengėjams ir (ar) skleidėjams
 
 
-1. Valstybė remia viešosios informacijos rengėjų – juridinių asmenų – kultūrinius ir šviečiamuosius projektus. Valstybės finansinė parama viešosios informacijos rengėjams teikiama konkursų tvarka ir, išskyrus nurodytą šio straipsnio 2 dalyje, per viešąją įstaigą Spaudos, radijo ir televizijos rėmimo fondą (toliau – Fondas). Fondo veiklai lėšas iš valstybės biudžeto kasmet skiria Seimas. Valstybės institucijos ir įstaigos negali teikti finansinės ar jai iš esmės lygiavertės paramos viešosios informacijos rengėjams.
-
-
-
-
-2. Finansinė parama iš valstybės biudžeto knygų leidybai, taip pat garso ir vaizdo laikmenomis platinamos produkcijos leidybai, kino filmų gamybai yra skiriama per Kultūros ministeriją bei Švietimo ir mokslo ministeriją ekspertų komisijų, veikiančių prie šių ministerijų, teikimu.
+1. Valstybė remia viešosios informacijos rengėjų ir (ar) skleidėjų projektus ir veiklą pagal šio įstatymo 28 straipsnio 16 dalyje nurodytas programas (prioritetines sritis). Valstybės parama teikiama viešųjų konkursų tvarka per viešąją įstaigą Medijų rėmimo fondą (toliau – Fondas). Fondui lėšas iš valstybės biudžeto kiekvienais metais skiria Seimas. 
 
 
 
 
-3. Viešosios informacijos rengėjas ir (ar) skleidėjas, kuriam šio įstatymo nustatyta tvarka buvo skirta šio įstatymo 48 straipsnio 3 dalyje nurodyta bauda arba taikytos šiame įstatyme numatytos kitos poveikio priemonės už šio įstatymo 19 straipsnio 1, 2 ir (ar) 3 dalies pažeidimą, vienus metus nuo paskutinio pažeidimo nustatymo dienos laikomas rimtą profesinį pažeidimą padariusiu viešosios informacijos rengėju ir (ar) skleidėju. 
-Papildyta straipsnio dalimi:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
- 
+2. Viešosios informacijos rengėjas ir (ar) skleidėjas, kuriam šio įstatymo nustatyta tvarka buvo skirta šio įstatymo 48 straipsnio 3 dalyje nurodyta bauda arba taikytos šiame įstatyme numatytos kitos poveikio priemonės už šio įstatymo 19 straipsnio 1 dalies pažeidimą, vienus metus nuo paskutinio pažeidimo nustatymo dienos laikomas rimtą profesinį pažeidimą padariusiu viešosios informacijos rengėju ir (ar) skleidėju.
 
 
 
 
-4. Viešosios informacijos rengėjui, kuris laikomas padaręs rimtą profesinį pažeidimą, šiame straipsnyje nurodyta parama negali būti teikiama.
-Papildyta straipsnio dalimi:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
- 
+3. Viešosios informacijos rengėjui ir (ar) skleidėjui, kuris laikomas padaręs rimtą profesinį pažeidimą, šiame straipsnyje nurodyta parama negali būti teikiama.
 
 
 Straipsnio pakeitimai:
-Nr. XI-1048, 2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
  
 
 
@@ -2010,154 +1999,300 @@ Nr. XI-1820, 2011-12-20, Žin., 2011, Nr. 163-7740 (2011-12-31)
 
 
 
-28 straipsnis. Spaudos, radijo ir televizijos rėmimo fondas
+28 straipsnis. Medijų rėmimo fondas
 
 
-1. Fondas yra pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, kurio tikslas – konkurso tvarka teikti paramą viešosios informacijos rengėjų kultūriniams, visuomenės informavimo saugumo, medijų raštingumo ugdymo ir šviečiamiesiems projektams.
+1. Fondo misija – remti visuomenei ir valstybei reikšmingo, kokybiško, etiško ir politiškai neutralaus visuomenės informavimo priemonių turinio kūrimą, sklaidą ir viešosios informacijos rengėjų ir (ar) skleidėjų veiklą. Fondo tikslas – siekti žiniasklaidos pliuralizmo, nuomonių ir tautinių kultūrų įvairovės, socialiai reikšmingos, kultūrą skatinančios informacijos prieinamumo visuomenėje, įskaitant asmenų su negalia informacinį prieinamumą, teikiant valstybės paramą viešosios informacijos rengėjams ir (ar) skleidėjams, užtikrinant racionalų ir pagrįstą valstybės lėšų panaudojimą.
 
 
 
 
-2. Fondas savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, Viešųjų įstaigų, šiuo ir kitais įstatymais, taip pat Fondo įstatais. Fondo dalininkais Fondo įstatuose nustatyta tvarka gali būti meno kūrėjų asociacijos, viešosios informacijos rengėjų ir kitos organizacijos bei institucijos, formuojančios kultūros ir švietimo politiką, užsiimančios kultūrine ir (ar) šviečiamąja veikla. Fondo įstatuose turi būti numatyta naujų dalininkų priėmimo tvarka.
+2. Fondo steigėjai ir dalininkai yra trys: valstybė, kurios kaip Fondo steigėjos ir dalininkės teises ir pareigas įgyvendina Vyriausybės įgaliota institucija, Visuomenės informavimo etikos asociacija ir Kultūros periodinių leidinių asociacija. Fondo dalininkai Fondo valdyme dalyvauja lygiomis dalimis.
 
 
 
 
-3. Fondui ir jo administracijai, kuri atlieka Fondo finansinį, ūkinį ir materialinį aptarnavimą ir padeda Fondui atlikti jam pavestas funkcijas, vadovauja direktorius. Fondo direktorių į pareigas skiria ir atšaukia iš pareigų Fondo visuotinis dalininkų susirinkimas viešo konkurso būdu 5 metų laikotarpiui. Asmuo, priimamas į šias pareigas, turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, turėti aukštąjį universitetinį išsilavinimą, išmanyti kultūros, švietimo raidos procesus ir turėti ne mažesnę kaip 5 metų vadovaujamojo darbo patirtį visuomenės informavimo srityje. Tas pats asmuo gali būti Fondo direktoriumi ne daugiau kaip dvi kadencijas iš eilės. Fondo tarybos posėdžiuose Fondo direktorius turi teisę dalyvauti stebėtojo teisėmis. Fondo direktoriaus skyrimo į pareigas konkurso būdu nuostatus (tvarką) ir pareigybės aprašymą tvirtina Fondo visuotinis dalininkų susirinkimas ir viešai juos skelbia Fondo interneto svetainėje. Fondo direktorius kiekvienais metais teikia Fondo visuotiniam dalininkų susirinkimui Fondo veiklos ir finansines ataskaitas, jo veikla kiekvienais metais vertinama Fondo įstatuose nustatyta tvarka. Fondo direktoriaus teises ir pareigas organizuojant viešosios įstaigos veiklą ir atsakomybę tvarkant, naudojant, įtraukiant į apskaitą Fondui skirtas valstybės biudžeto lėšas, veiklos vertinimo kriterijus bei tvarką nustato įstatymai, Fondo įstatai ir Fondo direktoriaus pareigybės aprašymas.
+3. Fondo veiklai Lietuvos Respublikos viešųjų įstaigų įstatymas taikomas tiek, kiek šis įstatymas nenustato kitaip.
 
 
 
 
-4. Fondui pateiktus kultūrinius ir šviečiamuosius projektus vertina ekspertai. Visi ekspertai turi turėti aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip 5 metų patirtį visuomenės informavimo, kultūros ar švietimo srityse, būti nepriekaištingos reputacijos, turėti specialių žinių, įgūdžių, kompetencijos, reikalingų vertinti pateiktus projektus. Ekspertams taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos. Ekspertai skiriami 2 metų laikotarpiui, tas pats asmuo negali būti ekspertų grupės nariu daugiau kaip dvi kadencijas iš eilės. Ekspertais negali būti kultūros ir meno organizacijų vadovai, jų pavaduotojai, jų įsteigtų įstaigų vadovai, Fondo darbuotojai. Taip pat ekspertu negali būti asmuo, kurio artimi asmenys, kaip jie apibrėžti Viešųjų ir privačių interesų derinimo valstybės tarnyboje įstatyme, yra susiję su Fondo dalininkais darbo, autorinių sutarčių ar kitais sutartiniais santykiais.
+4. Fondas, siekdamas jam pavesto tikslo, atlieka šias funkcijas:
 
 
+1) skiria valstybės paramą atrinktiems projektams;
 
 
-5. Kandidatus į Fondo ekspertų sąrašą konkrečiai programai per ne trumpesnį kaip 30 kalendorinių dienų terminą po viešo paskelbimo gali siūlyti Fondo dalininkai, meno kūrėjų, viešosios informacijos rengėjų asociacijos ir kitos asociacijos bei institucijos, formuojančios kultūros politiką ar veikiančios kultūrinėje žiniasklaidoje. Tarybos patvirtintas bendras ekspertų sąrašas per 14 kalendorinių dienų skelbiamas Fondo interneto svetainėje. 
 
 
+2) vykdo finansuojamų projektų įgyvendinimo ir finansinę priežiūrą;
 
 
-6. Kiekvienai fondo programai yra sudaroma ekspertų grupė, kurią sudaro ne mažiau kaip 3 asmenys. Kiekviena ekspertų grupė savo narių balsų dauguma išsirenka ekspertų grupės pirmininką. Detali ekspertų atrankos, ekspertų sąrašo ir ekspertų grupių sudarymo ir darbo tvarka, projektų vertinimo kriterijai ir tvarka nustatoma ekspertų darbo reglamente, kurį tvirtina Fondo direktorius.
 
 
+3) vertina įgyvendintų projektų rezultatų poveikį visuomenei;
 
 
-7. Ekspertų grupės savo išvadas dėl projektų vertinimo pateikia Fondo tarybai. 
 
 
+4) skiria stipendijas viešosios informacijos rengėjams;
 
 
-8. Fondo tarybą sudaro 7 nariai. Į Fondo tarybą narius deleguoja: Lietuvos radijo ir televizijos asociacija, Lietuvos kabelinės televizijos asociacija ir Regioninių televizijų asociacija bendru sutarimu – vieną narį; Lietuvos žurnalistų sąjunga ir Lietuvos žurnalistų draugija bendru sutarimu – vieną narį; Lietuvos meno kūrėjų asociacija, Nacionalinė rajonų ir miestų laikraščių leidėjų asociacija, Interneto žiniasklaidos asociacija, Kultūros ministerija ir Švietimo ir mokslo ministerija – po vieną narį. Galutinę Fondo tarybos sudėtį tvirtina Fondo visuotinis dalininkų susirinkimas. Detali delegavimo į Fondo tarybos narius tvarka nustatoma Fondo įstatuose.
 
 
+5) organizuoja visuomenės informavimo srities tyrimus, koordinuoja šių tyrimų vykdymą;
 
 
-9. Fondo tarybos nariai privalo būti nepriekaištingos reputacijos, turėti aukštąjį universitetinį išsilavinimą, išmanyti kultūros ir žiniasklaidos raidos procesus. Fondo tarybos nariams taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos. Tarybos nariais negali būti Fondo darbuotojai ir Fondo ekspertai.
 
 
+6) kiekvienais metais rengia ir kartu su Fondo veiklos ataskaita viešai skelbia praėjusiais metais įgyvendintų projektų eigos ir pasiektų rezultatų apžvalgą bei visuomenės informavimo kultūros raidos ir plėtros apžvalgą.
 
 
-10. Fondo tarybos kadencija trunka 3 metus ir pradedama skaičiuoti nuo tada, kai Fondo visuotinis dalininkų susirinkimas patvirtina galutinę Fondo tarybos sudėtį. Tas pats asmuo negali būti Fondo tarybos nariu daugiau kaip dvi kadencijas iš eilės. Fondo tarybai vadovauja Fondo tarybos pirmininkas. Jį Fondo taryba renka iš savo narių Fondo tarybos kadencijos laikotarpiui. Fondo tarybos sprendimai priimami paprasta visų Fondo tarybos narių balsų dauguma; balsams pasidalijus po lygiai, lemia Fondo tarybos pirmininko balsas. Fondo taryba veikia pagal savo patvirtintą darbo reglamentą. Fondo taryba sprendimus dėl konkursų rezultatų priima remdamasi ekspertų grupių išvadomis.
 
 
 
 
-11. Visi ekspertai ir Fondo tarybos nariai prieš pradėdami eiti atitinkamas pareigas turi pateikti nešališkumo deklaraciją ir pasirašyti konfidencialumo pasižadėjimą, kurių formas tvirtina Fondo visuotinis dalininkų susirinkimas.
+5. Fondas turi kolegialų valdymo organą – visuotinį dalininkų susirinkimą ir vienasmenį valdymo organą – direktorių.
 
 
 
 
-12. Visiems ekspertams ir Fondo tarybos nariams yra taikomos Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatos. 
+6. Sprendimus dėl Fondo teikiamos valstybės paramos skyrimo priima Fondo kolegialus organas – Fondo taryba. Fondo tarybą sudaro 10 narių. Vieną narį į Fondo tarybą skiria Medijų taryba iš aukštųjų mokyklų, vykdančių žurnalistikos studijų programą, pasiūlytų kandidatų, kitus narius po vieną skiria viešosios informacijos rengėjus ir skleidėjus vienijančios organizacijos:
 
 
+1) Kultūros periodinių leidinių asociacija;
 
 
-13. Fondo lėšų šaltiniai:
 
 
-1) valstybės dotacijos (subsidijos);
+2) Lietuvos meno kūrėjų asociacija;
 
 
 
 
-2) juridinių ar fizinių asmenų dovanotos lėšos; 
+3) Interneto žiniasklaidos asociacija;
 
 
 
 
-3) palūkanos už bankuose saugomas Fondo lėšas; 
+4) Nacionalinė rajonų ir miestų laikraščių leidėjų asociacija;
 
 
 
 
-4) kitos teisėtai įgytos lėšos.
+5) asociacija „Nacionalinė spauda“;
 
 
 
 
+6) Lietuvos žurnalistų draugija;
 
 
-14. Fondas konkurso tvarka remia viešosios informacijos rengėjų kultūrinius, visuomenės informavimo saugumo, medijų raštingumo ugdymo ir šviečiamuosius projektus pagal 6 programas:
 
 
-1) periodinių kultūros ir meno leidinių;
+7) Lietuvos žurnalistų sąjunga;
 
 
 
 
-2) nacionalinės periodinės spaudos;
+8) Lietuvos radijo ir televizijos asociacija ir Lietuvos regioninių radijo stočių asociacija bendru sutarimu;
 
 
 
 
-3) regioninės periodinės spaudos;
+9) Lietuvos kabelinės televizijos asociacija ir Regioninių televizijų asociacija bendru sutarimu.
 
 
 
 
-4) nacionalinės radijo ir televizijos;
 
 
+7. Fondo tarybos nariais skiriami nepriekaištingos reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip 5 metų veiklos, akademinę ar profesinę patirtį visuomenės informavimo, kultūros, švietimo, mokslo ar žmogaus teisių srityse. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną Lietuvos Respublikos valstybės tarnybos įstatyme nustatytą kriterijų, dėl kurio asmuo nelaikytinas nepriekaištingos reputacijos. Fondo tarybos nariais negali būti valstybės politikai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, Lietuvos nacionalinio radijo ir televizijos tarybos nariai, Vyriausybės įgaliotos institucijos darbuotojai, Fondo administracijos darbuotojai ir ekspertai, viešosios informacijos rengėjų ir (ar) skleidėjų vadovai, valdymo organų nariai, taip pat Europos Parlamento nariai. Jeigu Fondo tarybos nariu skiriamas politinės partijos narys, jis iki paskyrimo sustabdo savo narystę politinėje partijoje ir dalyvavimą jos veikloje iki kadencijos Fondo taryboje pabaigos.
 
 
-5) regioninės radijo ir televizijos;
 
 
+8. Fondo tarybos sudėtį 4 metų kadencijai tvirtina Fondo visuotinis dalininkų susirinkimas. Asmuo Fondo tarybos nariu gali būti ne daugiau kaip dvi kadencijas iš eilės. Jeigu asmuo Fondo tarybos nariu buvo ilgiau kaip pusę kadencijos laikotarpio, šis laikotarpis prilyginamas vienai jo kadencijai Fondo taryboje. Fondo tarybos kadencija pradedama skaičiuoti nuo tada, kai Fondo tarybos sudėtį patvirtina Fondo visuotinis dalininkų susirinkimas. Fondo tarybos nariu asmuo netvirtinamas, jeigu nustatoma, kad jis neatitinka šiame straipsnyje nustatytų reikalavimų. Tokiu atveju kreipiamasi į organizaciją, skyrusią šį asmenį į Fondo tarybos narius, su prašymu per 15 kalendorinių dienų skirti į Fondo tarybą kitą asmenį, atitinkantį šiame straipsnyje nustatytus reikalavimus. Fondo taryba veikia, jeigu yra patvirtinti ne mažiau kaip 7 jos nariai. Fondo taryba veikia tol, kol patvirtinama naujos sudėties Fondo taryba. Likus ne mažiau kaip 2 mėnesiams iki Fondo tarybos kadencijos pabaigos, Fondo direktorius kreipiasi į Fondo tarybos narius skiriančias organizacijas dėl naujų narių skyrimo į Fondo tarybą.
 
 
-6) internetinės žiniasklaidos (informacinės visuomenės informavimo priemonių).
 
 
+9. Fondo tarybos nario įgaliojimai pasibaigia:
 
 
+1) atsistatydinus savo noru;
 
 
-15. Fondo tarybos parengtus bendruosius konkursų nuostatus, kuriuose atsispindi programų ir finansavimo proporcijos ir kurie suderinti su Seimo Kultūros komitetu, tvirtina Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
- 
 
 
+2) pasibaigus Fondo tarybos kadencijai;
 
 
-151. Fondo taryba motyvuotu sprendimu karo, nepaprastosios padėties, ekstremaliosios situacijos atveju ar paskelbus mobilizaciją gali remti ir šio straipsnio 14 dalyje nenumatytus viešosios informacijos rengėjų kultūrinius, visuomenės informavimo saugumo, medijų raštingumo ugdymo ir šviečiamuosius projektus, taip pat nukrypti nuo bendruosiuose konkursų nuostatuose patvirtintų programų finansavimo proporcijų perkeldama iki 20 procentų konkrečiai programai finansuoti skirtų lėšų į kitą (kitas) programą (programas).
-Papildyta straipsnio dalimi:
-Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
- 
 
 
+3) netekus Lietuvos Respublikos pilietybės;
 
 
-16. Fondas kiekvienais metais spaudoje paskelbia metų veiklos ataskaitą, o Fondo tarybos pirmininkas kiekvienais metais Seimo plenariniame posėdyje pateikia lėšų, gautų iš biudžeto, paskirstymo ir panaudojimo ataskaitą.
-Straipsnio pakeitimai:
-Nr. X-1696, 2008-07-14, Žin., 2008, Nr. 87-3456 (2008-07-31)
-Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
-Nr. XI-1820, 2011-12-20, Žin., 2011, Nr. 163-7740 (2011-12-31)
+
+
+4) šio straipsnio 6 dalyje nurodytam subjektui paskyrus kitą Fondo tarybos narį ir Fondo visuotiniam dalininkų susirinkimui jį patvirtinus;
+
+
+
+
+5) paaiškėjus, kad Fondo tarybos narys nebeatitinka šio straipsnio 7 dalyje numatytų reikalavimų;
+
+
+
+
+6) kai Fondo tarybos narys be pateisinamos priežasties daugiau kaip 3 mėnesius iš eilės nedalyvauja Fondo tarybos posėdžiuose;
+
+
+
+
+7) negalint eiti pareigų dėl sveikatos būklės;
+
+
+
+
+8) mirus.
+
+
+
+
+
+
+10. Jeigu Fondo tarybos nario įgaliojimai baigiasi anksčiau negu Fondo tarybos kadencija, naujas Fondo tarybos narys skiriamas likusiam Fondo tarybos kadencijos laikui.
+
+
+
+
+11. Fondo taryba kadencijos laikotarpiui iš savo narių išsirenka Fondo tarybos pirmininką ir jo pavaduotoją, kuris pavaduoja pirmininką, kai jis dėl svarbių priežasčių laikinai negali eiti savo pareigų. Fondo tarybos pirmininkas ir jo pavaduotojas į pareigas skiriami ir atšaukiami iš pareigų Fondo tarybos sprendimu. Fondo tarybos darbo tvarką nustato jos patvirtintas darbo reglamentas.
+
+
+
+
+12. Fondo taryba viešojo konkurso būdu atrenka ekspertus, kurie teikia Fondo tarybai išvadas dėl projektų finansavimo. Sprendimus dėl lėšų skyrimo Fondo taryba priima tik įvertinusi ekspertų išvadas. Fondo tarybos sprendimai dėl lėšų skyrimo skelbiami viešai Fondo interneto svetainėje.
+
+
+
+
+13. Fondo tarybos nariai ir ekspertai, prieš pradėdami eiti atitinkamas pareigas, turi pateikti nešališkumo deklaraciją ir pasirašyti konfidencialumo pasižadėjimą, kurių formas tvirtina Fondo visuotinis dalininkų susirinkimas, deklaruoti privačius interesus Viešųjų ir privačių interesų derinimo įstatymo nustatyta tvarka.
+
+
+
+
+14. Fondo direktorių viešojo konkurso būdu atrenka, skiria į pareigas ir iš jų atleidžia Fondo visuotinis dalininkų susirinkimas. Fondo direktoriumi skiriamas nepriekaištingos reputacijos, kaip tai nurodyta šio straipsnio 7 dalyje, Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą, išmanantis visuomenės informavimo raidos procesus, turintis ne mažesnę kaip 5 metų veiklos, akademinę ar profesinę patirtį visuomenės informavimo, kultūros, švietimo, mokslo ar žmogaus teisių srityse. Fondo direktorius skiriamas 5 metų kadencijai. Fondo direktoriumi paskirtas asmuo šias pareigas gali eiti ne daugiau kaip dvi kadencijas iš eilės. Fondo direktoriumi negali būti skiriami valstybės politikai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, Lietuvos nacionalinio radijo ir televizijos tarybos nariai, Vyriausybės įgaliotos institucijos darbuotojai, Fondo tarybos nariai, Fondo administracijos darbuotojai ir ekspertai, viešosios informacijos rengėjų ir (ar) skleidėjų vadovai, valdymo organų nariai, taip pat Europos Parlamento nariai. Jeigu Fondo direktoriumi skiriamas politinės partijos narys, jis iki paskyrimo sustabdo savo narystę politinėje partijoje ir dalyvavimą jos veikloje iki Fondo direktoriaus kadencijos pabaigos.
+
+
+
+
+15. Fondo lėšų šaltiniai:
+
+
+1) valstybės biudžeto asignavimai;
+
+
+
+
+2) asmenų, išskyrus politines organizacijas, jų įsteigtus ar valdomus juridinius asmenis, dovanotos lėšos;
+
+
+
+
+3) kitos teisėtai įgytos lėšos.
+
+
+
+
+
+
+16. Fondas skiria paramą viešosios informacijos rengėjų ir (ar) skleidėjų projektams ir veiklai pagal šias programas (prioritetines sritis):
+
+
+1) kultūrinės žiniasklaidos ir kultūros periodinių leidinių (t. y. leidinių, kurių ne mažiau kaip 4/5 turinio yra skirta kultūros ar meno reiškiniams aprašyti, jiems profesionaliai vertinti, Lietuvos ir pasaulio kultūros įvykiams analizuoti ir informuoti apie juos, meninei kūrybai skleisti);
+
+
+
+
+2) regioninės žiniasklaidos;
+
+
+
+
+3) naujienų, tiriamosios ir šviečiamosios žurnalistikos;
+
+
+
+
+4) žiniasklaidos tautinių mažumų kalbomis ir lietuvių išeivijos (diasporos) žiniasklaidos;
+
+
+
+
+5) kitas programas, parengtas Fondo tarybos, atsižvelgiant į visuomenės informavimo kultūros raidos ir plėtros bei informacinio saugumo ir visuomenės atsparumo stiprinimo prioritetus, ir patvirtintas Fondo visuotinio dalininkų susirinkimo.
+
+
+
+
+
+
+17. Fondo finansuojamų projektų teikimo taisykles tvirtina Vyriausybė arba jos įgaliota institucija. Fondo finansuojamų projektų teikimo taisyklėse nustatomas Fondo veiklai skiriamo valstybės finansavimo pagal šio straipsnio 16 dalyje numatytas programas paskirstymas, viešųjų konkursų tvarka, reikalavimai projektams, jų paraiškoms ir įgyvendinimui, taip pat kitos valstybės paramos administravimo ir teikimo sąlygos. Karo, nepaprastosios padėties, valstybės lygio ekstremaliosios situacijos atveju ar paskelbus mobilizaciją, Fondo tarybos motyvuotu sprendimu prioriteto tvarka remiami viešosios informacijos rengėjų ir (ar) skleidėjų projektai, kuriais siekiama stiprinti visuomenės informacinį saugumą ir atsparumą.
+
+
+
+
+18. Pagal šį straipsnį neremiami:
+
+
+1) Lietuvos nacionalinio radijo ir televizijos projektai, kitų viešosios informacijos rengėjų ir (ar) skleidėjų projektai, įgyvendinami Lietuvos nacionalinio radijo ir televizijos programose ar interneto svetainėje;
+
+
+
+
+2) viešųjų ryšių, reklamos, informacijos agentūrų projektai;
+
+
+
+
+3) mokslo ir studijų institucijų bei švietimo įstaigų projektai;
+
+
+
+
+4) šio įstatymo 27 straipsnio 3 dalyje nurodytų viešosios informacijos rengėjų ir (ar) skleidėjų projektai;
+
+
+
+
+5) projektai, skirti knygų, garso ir vaizdo laikmenomis platinamos produkcijos leidybai, kino filmų gamybai;
+
+
+
+
+6) politinių organizacijų, jų įsteigtų ar valdomų juridinių asmenų projektai, taip pat projektai, kurių turinys tenkina politinių organizacijų politinius interesus, išreiškia jų politines nuostatas ir (ar) valią.
+
+
+
+
+
+
+19. Fondo funkcijoms įgyvendinti ir kitoms su Fondo veikla susijusioms išlaidoms apmokėti skiriama lėšų dalis negali viršyti 10 procentų Fondo einamųjų metų biudžeto.
+
+
+
+
+20. Fondo veikla, įskaitant Fondo tarybos veiklą, kiekvienais metais vertinama Fondo visuotiniame dalininkų susirinkime. Fondas kiekvienais metais iki balandžio 1 dienos Fondo interneto svetainėje viešai paskelbia Fondo praėjusių metų veiklos ataskaitą, metinių finansinių ataskaitų rinkinį ir biudžeto lėšų paskirstymo ir panaudojimo ataskaitą, kurią pateikia Seimui.
+
+
+
+
+21. Fondo vidaus auditą ne rečiau kaip kartą per 3 metus atlieka Vyriausybės įgaliotos institucijos centralizuoto vidaus audito tarnyba, valstybinį (finansinį ir veiklos) auditą ne rečiau kaip kartą per 5 metus atlieka Lietuvos Respublikos valstybės kontrolė.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1273, 2014-10-21, paskelbta TAR 2014-11-04, i. k. 2014-15747
+Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
  
 
 
@@ -5336,7 +5471,7 @@ Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
  
  
  
-part_2e85ea0f74664cbd978ef36d78a3ce74_end
+part_4837436509184492bf535514e53367cc_end
 
 
 Pakeitimai:
