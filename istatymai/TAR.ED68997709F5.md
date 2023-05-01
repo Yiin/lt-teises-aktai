@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2025-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -7428,24 +7428,24 @@ Nr. X-1251, 2007-07-03, Žin., 2007, Nr. 80-3222 (2007-07-19)
 
 
 
-2. Jeigu nustatoma, kad PVM mokėtojas nepagrįstai sumažino apskaičiuotą mokėtiną į biudžetą PVM sumą (padidino apskaičiuotą grąžintiną iš biudžeto PVM sumą), apskaičiuojama papildomai mokėtina PVM suma, kuria atitinkamai didinama mokėtina į biudžetą PVM suma (mažinama grąžintina iš biudžeto PVM suma), ir skiriama nuo 10 iki 50 procentų apskaičiuotos papildomai mokėtinos PVM sumos dydžio bauda.
+2. Jeigu nustatoma, kad PVM mokėtojas nepagrįstai sumažino apskaičiuotą mokėtiną į biudžetą PVM sumą (padidino apskaičiuotą grąžintiną iš biudžeto PVM sumą), apskaičiuojama papildomai mokėtina PVM suma, kuria atitinkamai didinama mokėtina į biudžetą PVM suma (mažinama grąžintina iš biudžeto PVM suma), ir skiriama nuo 20 iki 100 procentų apskaičiuotos papildomai mokėtinos PVM sumos dydžio bauda.
 
 
 
 
-3. Jeigu nustatoma, kad apmokestinamasis asmuo arba bet koks kitas asmuo, nesantis PVM mokėtoju, tačiau šio Įstatymo nustatyta tvarka privalėjęs mokėti į biudžetą PVM, jo nesumokėjo, apskaičiuojama mokėtina į biudžetą PVM suma ir skiriama nuo 10 iki 50 procentų apskaičiuotos PVM sumos dydžio bauda. 
+3. Jeigu nustatoma, kad apmokestinamasis asmuo arba bet koks kitas asmuo, nesantis PVM mokėtoju, tačiau šio Įstatymo nustatyta tvarka privalėjęs mokėti į biudžetą PVM, jo nesumokėjo, apskaičiuojama mokėtina į biudžetą PVM suma ir skiriama nuo 20 iki 100 procentų apskaičiuotos PVM sumos dydžio bauda.
 
 
 
 
-4. Šio straipsnio 2 ar 3 dalyje nurodytais atvejais skirdamas baudą, konkretų jos dydį mokesčių administratorius nustato vadovaudamasis Mokesčių administravimo įstatyme nustatytomis baudų skyrimo taisyklėmis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1332, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10975
- 
+4. Šio straipsnio 2 ar 3 dalyje nurodytais atvejais skirdamas baudą, konkretų jos dydį mokesčių administratorius nustato vadovaudamasis Mokesčių administravimo įstatyme nustatytomis baudų skyrimo taisyklėmis.
+TAR pastaba. Iki įstatymo Nr. XIV-1661 įsigaliojimo dienos (2023-05-01) padarytų Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo pažeidimų tyrimui ir baudų už šiuos pažeidimus skyrimui taikomos iki 2023-04-30 galiojusios Pridėtinės vertės mokesčio įstatymo 123 straipsnio nuostatos.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
+Straipsnio pakeitimai:
+Nr. XIV-1661, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26365
  
 
 
@@ -7886,8 +7886,6 @@ SEIMO PIRMININKAS                               �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 2002 m. kovo 5 d.
@@ -7936,10 +7934,9 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Priedo pakeitimai:
 Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
  
-part_504437a5cef94e88bbeb58dbefb6e8c8_end
 
 
- 
+
 
  
 Lietuvos Respublikos 
@@ -7996,7 +7993,8 @@ Priedo pakeitimai:
 Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 Nr. XIII-3346, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23933
  
-part_07214757dd994cafb195ac8efaec8d2f_end
+
+
 
 
 3 priedas neteko galios nuo 2008-12-30.
@@ -8405,3 +8403,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1629, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26093
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 71 straipsnio pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1661, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26365
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 123 straipsnio pakeitimo įstatymas
