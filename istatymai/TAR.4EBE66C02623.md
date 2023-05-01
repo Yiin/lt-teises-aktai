@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2023-04-15 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2023-05-01
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -592,7 +592,7 @@ Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 85 straipsnio 1 ir 4 dalyse, 86 straipsnyje, 88 straipsnio 1 dalyje, 89 straipsnio 1 dalyje, 90 straipsnio 1, 2 ir 6 dalyse, 92 straipsnio 1 ir 2 dalyse, 93 straipsnio 1, 3, 5, 7, 8 ir 9 dalyse, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 2172 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 258 straipsnyje, 261 straipsnio 1 dalyje, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 325 straipsnyje, 327 straipsnio 1 ir 3 dalyse, 333 straipsnio 1 dalyje, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 544 straipsnio 1 ir 4 dalyse, 545 straipsnio 1 ir 2 dalyse, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
@@ -605,6 +605,7 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 Nr. XIV-1382, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15868
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
  
 
 
@@ -1016,12 +1017,13 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 2342 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 515 straipsnio 1, 2 dalyse, 524, 5571 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:  
+4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 2342 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475, 524, 5571 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:  
 Straipsnio dalies pakeitimai:
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
 Nr. XIV-1568, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25034
 Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
 
 
 1) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
@@ -6412,19 +6414,19 @@ Nr. XIV-1400, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16126
 208 straipsnis. Kontrabanda
 
 
-1. Prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius daiktus, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė neviršija penkių bazinių bausmių ir nuobaudų dydžių,
+1. Prekių, pinigų ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų ar kitų privalomų pateikti muitinei daiktų vertė neviršija penkių bazinių bausmių ir nuobaudų dydžių,
 užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio vieno šimto dvidešimt eurų.
 
 
 
 
-2. Prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius daiktus, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė viršija penkis bazinius bausmių ir nuobaudų dydžius, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
-užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki keturių tūkstančių eurų. 
+2. Prekių, pinigų ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų ar kitų privalomų pateikti muitinei daiktų vertė viršija penkis bazinius bausmių ir nuobaudų dydžius, bet neviršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki keturių tūkstančių eurų.
 
 
 
 
-3. Prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius daiktus, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė viršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių, bet neviršija vieno šimto penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
+3. Prekių, pinigų ar kitų privalomų pateikti muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas tam tikras dopingo medžiagas, nuodingąsias ir stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei arba kitaip išvengiant muitinės kontrolės, kai neteisėtai gabenamų prekių, pinigų ar kitų privalomų pateikti muitinei daiktų vertė viršija penkiasdešimt bazinių bausmių ir nuobaudų dydžių, bet neviršija vieno šimto penkiasdešimt bazinių bausmių ir nuobaudų dydžių,
 užtraukia baudą nuo trijų tūkstančių penkių šimtų iki šešių tūkstančių eurų. 
 
 
@@ -6435,11 +6437,12 @@ užtraukia baudą nuo trijų tūkstančių penkių šimtų iki šešių tūkstan
 
 
 
-5. Šiame straipsnyje nurodytų prekių, meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius.
+5. Šiame straipsnyje nurodytų prekių ar kitų privalomų pateikti muitinei daiktų vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
  
 
 
@@ -6533,8 +6536,11 @@ Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
 210 straipsnis. Muitinės prižiūrimų prekių muitinio tikrinimo vietų tvarkos pažeidimas
 
 
-1. Per Lietuvos Respublikos pasienio kontrolės punktą, kuriame veikia muitinės įstaiga, į Europos Sąjungos muitų teritoriją atvykstančių transporto priemonių arba iš Europos Sąjungos muitų teritorijos išvykstančių transporto priemonių nesustojimas muitinės įstaigoje ar kitoje muitinės nustatytoje vietoje, kad būtų atliktas muitinis tikrinimas, 
+1. Per Lietuvos Respublikos pasienio kontrolės punktą į Europos Sąjungos muitų teritoriją atvykstančių ir prekes vežančių transporto priemonių arba iš Europos Sąjungos muitų teritorijos išvykstančių ir prekes vežančių transporto priemonių vykimas į kitą muitinės įstaigą ar kitą muitinės nustatytą vietą nesilaikant muitinės nurodyto maršruto ar kitų nurodymų, nesustojimas muitinės įstaigoje ar kitoje muitinės nustatytoje vietoje, kad būtų atliktas muitinis tikrinimas, arba išvykimas iš muitinės įstaigos ar kitos muitinės nustatytos vietos be muitinės pareigūno leidimo
 užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
+ 
 
 
 
@@ -6545,8 +6551,11 @@ užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
 
 
 
-3. Muitinės prižiūrimų prekių iškrovimas iš į Europos Sąjungos muitų teritoriją atvykstančių transporto priemonių (įskaitant šių prekių perkrovimą į kitas transporto priemones) muitinės nenustatytose vietose arba be muitinės pareigūno leidimo, muitinės prižiūrimų prekių išdavimas arba paėmimas be muitinės pareigūno leidimo
+3. Muitinės prižiūrimų prekių iškrovimas iš transporto priemonių (įskaitant šių prekių perkrovimą į kitas transporto priemones) muitinės nenustatytose vietose arba be muitinės pareigūno leidimo, muitinės prižiūrimų prekių išdavimas arba paėmimas be muitinės pareigūno leidimo
 užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
+ 
 
 
 
@@ -6562,11 +6571,11 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 
 
 
-211 straipsnis. Muitinės formalumų atlikimo tvarkos pažeidimas 
+211 straipsnis. Prekių pateikimo muitinei tvarkos pažeidimas
 
 
-1. Prekių, kurioms įforminta ar turi būti įforminta bet kuri muitinės procedūra, nepateikimas per nustatytą muitinės procedūros vykdymo terminą muitinės formalumams su prekėmis atlikti arba deklaravimas pažeidžiant nustatytą tvarką
-užtraukia baudą nuo devynių šimtų iki vieno tūkstančio penkių šimtų eurų. 
+1. Prekių, kurios privalo būti pateiktos muitinei, nepateikimas per nustatytą jų pateikimo terminą ar pažeidžiant jų pateikimo į muitinės nustatytą vietą tvarką, laikinai saugomų prekių nepateikimas muitinės procedūrai įforminti ar reeksportui per muitinės nustatytą terminą, prekių, kurioms įforminta muitinės procedūra, nepateikimas per nustatytą muitinės procedūros vykdymo terminą muitinės formalumams su prekėmis atlikti arba pateikimas pažeidžiant nustatytą tvarką
+užtraukia baudą nuo devynių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 
@@ -6577,6 +6586,7 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 
 Straipsnio pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
  
 
 
@@ -6777,6 +6787,26 @@ užtraukia baudą asmenims nuo aštuoniasdešimt iki dviejų šimtų eurų ir ju
 
 Straipsnio pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+ 
+
+
+
+
+2172 straipsnis. Lengvatinę prekių kilmę reglamentuojančiuose susitarimuose nustatytų pareigų ir reikalavimų nevykdymas 
+
+
+1. Netikslios ir (ar) neišsamios informacijos pateikimas lengvatinės prekių kilmės įrodymo dokumentuose, reikalavimų saugoti lengvatinės prekių kilmės įrodymo dokumentus nesilaikymas ar kitų pareigų ir reikalavimų, nustatytų lengvatinę prekių kilmę reglamentuojančiuose susitarimuose, kuriuos Europos Sąjunga sudarė su tam tikromis Europos Sąjungos muitų teritorijai nepriklausančiomis šalimis ar teritorijomis arba su tokių šalių ar teritorijų grupėmis, ir su šių susitarimų įgyvendinimu susijusiuose teisės aktuose, nevykdymas 
+užtraukia baudą nuo keturiasdešimt iki vieno šimto eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo vieno šimto iki vieno tūkstančio eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
  
 
 
@@ -9943,42 +9973,61 @@ užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešim
 281 straipsnis. Lietuvos Respublikos želdynų įstatymo, kitų želdynų ir želdinių apsaugą, priežiūrą ir tvarkymą, želdynų projektavimą, želdinių veisimą reglamentuojančių teisės aktų pažeidimas 
 
 
-1. Neteisėtas saugotinų želdinių naikinimas 
+1. Neteisėtas krūmų, kurie pagal Želdynų įstatymą priskiriami saugotiniems želdiniams, naikinimas 
 užtraukia baudą asmenims nuo šešiasdešimt iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuoniasdešimt iki trijų šimtų eurų.
 
 
 
 
-2. Neteisėtas želdinių naikinimas, neteisėtas želdynų statinių ir įrenginių gadinimas, naikinimas ar perkėlimas 
-užtraukia įspėjimą arba baudą asmenims nuo dvidešimt iki aštuoniasdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims _ nuo šešiasdešimt iki vieno šimto septyniasdešimt eurų.
+2. Neteisėtas medžių, kurie pagal Želdynų įstatymą priskiriami saugotiniems želdiniams, naikinimas
+užtraukia baudą asmenims nuo vieno šimto aštuoniasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų keturiasdešimt iki devynių šimtų eurų.
 
 
 
 
-3. Sodmenų kokybės reikalavimų pažeidimas, Želdynų įrengimo ir želdinių veisimo taisyklių pažeidimas, Medžių ir krūmų, vandens telkinių, esančių želdynuose, priežiūros taisyklių pažeidimas, Želdynų ir želdinių sanitarinės apsaugos taisyklių pažeidimas, Želdinių apsaugos, vykdant statybos darbus, taisyklių pažeidimas 
+3. Neteisėtas ne miško žemėje įveistų ar natūraliai augančių krūmų ar lianų naikinimas 
+užtraukia įspėjimą arba baudą asmenims nuo dvidešimt iki aštuoniasdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki vieno šimto septyniasdešimt eurų.
+
+
+
+
+4. Neteisėtas ne miško žemėje įveistų ar natūraliai augančių medžių naikinimas 
+užtraukia įspėjimą arba baudą asmenims nuo keturiasdešimt iki vieno šimto šešiasdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dvidešimt iki trijų šimtų keturiasdešimt eurų.
+
+
+
+
+5. Neteisėtas želdynų statinių ir įrenginių gadinimas, naikinimas ar perkėlimas
+užtraukia įspėjimą arba baudą asmenims nuo dvidešimt iki aštuoniasdešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki vieno šimto septyniasdešimt eurų.
+
+
+
+
+6. Sodmenų kokybės reikalavimų pažeidimas, Želdynų įrengimo ir želdinių veisimo taisyklių pažeidimas, Medžių ir krūmų, vandens telkinių, esančių želdynuose, priežiūros taisyklių pažeidimas, Želdynų ir želdinių sanitarinės apsaugos taisyklių pažeidimas, Želdinių apsaugos, vykdant statybos darbus, taisyklių pažeidimas 
 užtraukia baudą asmenims nuo trisdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
 
 
 
-4. Želdynų ir želdinių inventorizavimo, želdynų ir želdinių būklės ekspertizės, želdynų projektavimo, įrengimo, pertvarkymo, želdinių veisimo, medžių ir krūmų kirtimo, genėjimo, želdinių apsaugos nuo ligų ir kenkėjų darbų atlikimas, kai darbus atlieka ar jiems vadovauja juridinių asmenų darbuotojai, kurie neatitinka teisės aktuose numatytų kvalifikacijos reikalavimų šiems darbams atlikti,
+7. Želdynų ir želdinių inventorizavimo, želdynų ir želdinių būklės ekspertizės, želdynų projektavimo, įrengimo, pertvarkymo, želdinių veisimo, medžių ir krūmų kirtimo, genėjimo, želdinių apsaugos nuo ligų ir kenkėjų darbų atlikimas, kai darbus atlieka ar jiems vadovauja juridinių asmenų darbuotojai, kurie neatitinka teisės aktuose numatytų kvalifikacijos reikalavimų šiems darbams atlikti,
 užtraukia įspėjimą arba baudą juridinių asmenų vadovams nuo keturiasdešimt iki devyniasdešimt eurų.
 
 
 
 
-5. Želdynų projektavimo reikalavimų pažeidimas
+8. Želdynų projektavimo reikalavimų pažeidimas
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
 
-6. Leidimų kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius išdavimas ar sprendimų kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius priėmimas pažeidžiant nustatytus reikalavimus 
+9. Leidimų kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius išdavimas ar sprendimų kirsti, kitaip pašalinti iš augimo vietos ar intensyviai genėti saugotinus želdinius priėmimas pažeidžiant nustatytus reikalavimus 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devyniasdešimt iki dviejų šimtų trisdešimt eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-201, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07418
+Nr. XIV-1615, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25059
  
 
 
@@ -13469,13 +13518,18 @@ užtraukia baudą nuo penkių tūkstančių keturių šimtų iki šešių tūkst
 356 straipsnis. Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus
 
 
-Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus, išskyrus šio kodekso 235 straipsnio 3 ir 5 dalyse, 265 straipsnio 5 dalyje, 281 straipsnio 2 dalyje, 314 straipsnio 3 ir 4 dalyse, 350, 351, 352, 353, 354, 355, 3561, 3562, 357, 3571, 361, 363, 365 straipsniuose, 385 straipsnio 2 ir 4 dalyse, 459 straipsnio 3 ir 8 dalyse, 460 straipsnyje numatytus pažeidimus,
+Statybos darbų atlikimas pažeidžiant teisės aktų reikalavimus, išskyrus šio kodekso 235 straipsnio 3 ir 5 dalyse, 265 straipsnio 5 dalyje, 281 straipsnio 5 dalyje, 314 straipsnio 3 ir 4 dalyse, 350, 351, 352, 353, 354, 355, 3561, 3562, 357, 3571, 361, 363, 365 straipsniuose, 385 straipsnio 2 ir 4 dalyse, 459 straipsnio 3 ir 8 dalyse, 460 straipsnyje numatytus pažeidimus,
+
+
+
+
 užtraukia įspėjimą arba baudą nuo penkiasdešimt iki vieno tūkstančio eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334
 Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
+Nr. XIV-1615, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25059
  
 
 
@@ -15663,10 +15717,11 @@ Nr. XIV-1567, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25033
 
 
 
-3. Reikalavimo duoti kelią pradedant važiuoti, įvažiuojant į kelią, persirikiuojant ir kitaip keičiant važiavimo kryptį nevykdymas, įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus, apsisukimas geležinkelio pervažose, vietose, kur kelio matomumas bent viena kryptimi mažesnis kaip 100 metrų, draudimo vairuotojams naudotis mobiliojo ryšio priemonėmis, kai jomis naudojamasi rankomis (išskyrus atvejus, kai stovinčios transporto priemonės variklis išjungtas), nesilaikymas
-užtraukia baudą vairuotojams nuo šešiasdešimt iki devyniasdešimt eurų. 
+3. Reikalavimo duoti kelią pradedant važiuoti, įvažiuojant į kelią, persirikiuojant ir kitaip keičiant važiavimo kryptį nevykdymas, įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus, apsisukimas geležinkelio pervažose, vietose, kur kelio matomumas bent viena kryptimi mažesnis kaip 100 metrų, draudimo vairuotojams, transporto priemonei dalyvaujant viešajame eisme (išskyrus atvejus, kai transporto priemonė stovi), naudotis mobiliojo ryšio priemonėmis, kai jomis naudojamasi rankomis, išskyrus mobiliojo ryšio priemonių valdymą naudojant laisvų rankų įrangą, kai mobiliojo ryšio priemonė pritvirtinta specialiame laikiklyje, ar naudojant transporto priemonės įrangą, nesilaikymas
+užtraukia baudą vairuotojams nuo šešiasdešimt iki devyniasdešimt eurų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-640, 2017-09-26, paskelbta TAR 2017-10-02, i. k. 2017-15486
+Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
  
 
 
@@ -16088,10 +16143,11 @@ Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
 428 straipsnis. Pėsčiųjų ir kitų kelių eismo dalyvių padarytas Kelių eismo taisyklių pažeidimas
 
 
-1. Važiuojamosios kelio dalies perėjimas arba ėjimas ja ten, kur draudžiama, dviračius vairuojančių asmenų, pėsčiųjų, vadeliotojų ir kitų asmenų, kurie naudojasi keliais, nepaklusimas eismo reguliavimo signalams, kelio ženklų, ženklinimo reikalavimų, eismo tvarkos automagistralėse nesilaikymas, Kelių eismo taisyklėse pėstiesiems, dviračių vairuotojams ir vadeliotojams nustatytų elgesio tamsiuoju paros metu arba esant blogam matomumui reikalavimų nesilaikymas
+1. Pėsčiųjų judėjimas per važiuojamąją kelio dalį arba judėjimas ja ten, kur draudžiama, dviračius vairuojančių asmenų, pėsčiųjų, vadeliotojų ir kitų asmenų, kurie naudojasi keliais, nepaklusimas eismo reguliavimo signalams, kelio ženklų, ženklinimo reikalavimų, eismo tvarkos automagistralėse ir greitkeliuose nesilaikymas, Kelių eismo taisyklėse pėstiesiems, dviračių vairuotojams ir vadeliotojams nustatytų elgesio tamsiuoju paros metu arba esant blogam matomumui reikalavimų nesilaikymas
 užtraukia baudą nuo dvidešimt iki keturiasdešimt eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
  
 
 
@@ -21312,7 +21368,7 @@ Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653
 
 
 
-40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 1411, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 3431 straipsnio 3, 4, 5, 6, 19, 20 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9, 10 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508, 5101, 515, 5261 straipsniuose numatytų administracinių nusižengimų; 
+40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 1411, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 2172, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 3431 straipsnio 3, 4, 5, 6, 19, 20 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 436, 437 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 459 straipsnio 4, 5, 6, 9, 10 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 507, 508, 5101, 515, 5261 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -21333,6 +21389,8 @@ Nr. XIV-1449, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21164
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
 Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
 Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
+Nr. XIV-1862, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06469
  
 
 
@@ -21409,7 +21467,7 @@ Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 
 
 
-49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311,  133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 507, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 5261, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų; 
+49) policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 1311, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2, 3, 4, 5 dalyse, 282, 290, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450 straipsnio 1, 2, 17, 18 dalyse, 451, 452, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 41, 5, 6 dalyse, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524 straipsniuose, 526 straipsnio 3 dalyje, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
@@ -21430,6 +21488,7 @@ Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
 Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
 Nr. XIV-1773, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27651
+Nr. XIV-1615, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25059
  
 
 
@@ -23021,7 +23080,10 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-4. Už šio straipsnio 1 dalyje nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu; kiti bylai išnagrinėti būtini duomenys. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas nepasirašomas.
+4. Už šio straipsnio 1 dalyje ir šio kodekso 187 straipsnio 1 ir 2 dalyse nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole (nutarime) nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas (nutarimas) buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu (nutarime šie duomenys nenurodomi); kiti bylai išnagrinėti būtini duomenys. Šio kodekso 608 straipsnio 5 dalyje nustatyta tvarka priimtame nutarime taip pat nurodoma asmeniui skiriama nuobauda ir šio nutarimo apskundimo tvarka. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas (nutarimas) nepasirašomas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
+ 
 
 
 Straipsnio pakeitimai:
@@ -25473,7 +25535,7 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
-part_a977f8f6e0d044c99151461801b43328_end
+part_260ab15471884202ac6e4c963231d588_end
 
 
 Lietuvos Respublikos 
@@ -27105,3 +27167,13 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
 Lietuvos Respublikos administracinių nusižengimų kodekso 29, 515 ir 589 straipsnių pakeitimo įstatymas
+ 
+196.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1615, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25059
+Lietuvos Respublikos administracinių nusižengimų kodekso 281, 356 ir 589 straipsnių pakeitimo įstatymas
+ 
+197.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1862, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06469
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 208, 210, 211, 589, 611 straipsnių ir priedo pakeitimo ir Kodekso papildymo 188-3, 217-2 straipsniais įstatymo Nr. XIV-1660 8 straipsnio pakeitimo įstatymas
