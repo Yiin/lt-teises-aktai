@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-05 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -1704,7 +1704,10 @@ Organinius tirpiklius naudojantis įrenginys (toliau – įrenginys) šiame stra
 
 
 
-Įrenginiui įregistruoti fizinis ar juridinis asmuo privalo aplinkos ministro įgaliotai institucijai pateikti LOJ taisyklėse nurodytus įrenginio registracijos duomenis. Draudžiama eksploatuoti išregistruotą įrenginį.
+Įrenginiui įregistruoti fizinis ar juridinis asmuo privalo aplinkos ministro įgaliotai institucijai pateikti LOJ taisyklėse nurodytus įrenginio registracijos duomenis. Fizinis ar juridinis asmuo neturi teisės teikti įgaliotai institucijai įrenginio registracijos duomenų, jeigu įrenginys išregistruotas šio straipsnio devintosios dalies 2, 6, 7 ir 9 punktuose nurodytais pagrindais ir nepašalintos priežastys, lėmusios įrenginio išregistravimą, arba nepraėjo dveji metai nuo įrenginio išregistravimo šio straipsnio devintosios dalies 8 punkte nurodytu pagrindu dienos. Draudžiama eksploatuoti išregistruotą įrenginį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
 
 
 
@@ -1737,9 +1740,20 @@ Aplinkos ministro įgaliota institucija savo interneto svetainėje skelbia įreg
 
 
 
+4) fiziniam ar juridiniam asmeniui per 12 mėnesių 2 kartus viršijus pagal LOJ taisyklių reikalavimus taikomas išmetamų lakiųjų organinių junginių ribines vertes, jeigu tokių pažeidimų prevencijai reikia sugriežtinti įrenginio eksploatavimo sąlygas. 
+Papildyta straipsnio punktu:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
 
 
-Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes LOJ taisyklėse nustatyta tvarka nustato aplinkos ministro įgaliota institucija, ji raštu informuoja fizinį ar juridinį asmenį apie pareigą tikslinti įrenginio registracijos duomenis ir nustato protingą terminą, per kurį turi būti pateikti patikslinti duomenys. Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes nustato fizinis ar juridinis asmuo, jis privalo LOJ taisyklėse nustatyta tvarka ir terminais pateikti aplinkos ministro įgaliotai institucijai patikslintus įrenginio registracijos duomenis.
+
+
+
+
+Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes LOJ taisyklėse nustatyta tvarka nustato aplinkos ministro įgaliota institucija, ji raštu informuoja fizinį ar juridinį asmenį apie pareigą tikslinti įrenginio registracijos duomenis ir nustato protingą terminą, per kurį turi būti pateikti patikslinti duomenys. Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes nustato fizinis ar juridinis asmuo, jis privalo LOJ taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai patikslintus įrenginio registracijos duomenis. Patikslintų duomenų pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, šio straipsnio septintosios dalies 4 punkte nurodytu atveju – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
 
 
 
@@ -1747,29 +1761,65 @@ Kai šio straipsnio septintojoje dalyje nurodytas aplinkybes LOJ taisyklėse nus
 Aplinkos ministro įgaliota institucija išregistruoja įrenginį, kai yra bent viena iš šių sąlygų:
 
 
-1) įrenginio registracijos duomenis pateikusio fizinio ar juridinio asmens prašymu, jei dėl veiklos pakeitimo nelieka įrenginio įregistravimo prievolės;
+1) įrenginio registracijos duomenis pateikusio fizinio ar juridinio asmens prašymu, jeigu dėl veiklos pakeitimo nelieka įrenginio įregistravimo prievolės; 
 
 
 
 
-2) neįvykdytas Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka priimtas nutarimas sustabdyti aplinkai kenksmingą veiklą;
+2) neįvykdytas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duotas privalomasis nurodymas sustabdyti veiklą;
 
 
 
 
-3) įrenginio registracijos duomenis pateikęs juridinis asmuo likviduotas, įrenginio registracijos duomenis pateikęs fizinis asmuo mirė arba teismas jį pripažino neveiksniu arba ribotai veiksniu srityje, susijusioje su įrenginio eksploatavimu, ar nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo nesikreipia dėl registracijos duomenų patikslinimo;
+3) įrenginio registracijos duomenis pateikęs juridinis asmuo likviduotas, įrenginio registracijos duomenis pateikęs fizinis asmuo mirė arba teismas jį pripažino neveiksniu arba ribotai veiksniu srityje, susijusioje su įrenginio eksploatavimu, ar nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo LOJ taisyklėse nustatyta tvarka nesikreipia dėl formalių įrenginio registracijos duomenų patikslinimo; 
 
 
 
 
-4) paaiškėja, kad fizinio ar juridinio asmens pateikti įrenginio registracijos duomenys ir (ar) patikslinti įrenginio registracijos duomenys yra tokie, dėl kurių būtų pripažinta, kad įrenginys neprivalo būti įregistruotas;
+4) fizinio ar juridinio asmens pateikti įrenginio registracijos duomenys ir (ar) patikslinti įrenginio registracijos duomenys yra tokie, dėl kurių įrenginys neprivalo būti įregistruotas;
 
 
 
 
-5) šio straipsnio aštuntojoje dalyje nurodytais atvejais fizinis ar juridinis asmuo per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikė patikslintų įrenginio registracijos duomenų. 
+5) šio straipsnio aštuntojoje dalyje nurodytais atvejais fizinis ar juridinis asmuo per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikė patikslintų įrenginio registracijos duomenų;
 
 
+
+
+6) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus, jeigu ši išvada ar šis sprendimas privalomi norint vykdyti veiklą įrenginyje, kuris turi būti įregistruotas;
+
+
+
+
+7) vykdoma veikla neįgyvendinus sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki veiklos pradžios, ar atrankos išvadoje dėl poveikio aplinkai vertinimo, kad poveikio aplinkai vertinimas neprivalomas, nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki veiklos pradžios;
+
+
+
+
+8) Aplinkos apsaugos departamentui prie Aplinkos ministerijos, vykdant Aplinkos apsaugos valstybinės kontrolės įstatyme nustatytas funkcijas, per 12 mėnesių 3 kartus nustačius, kad pagal LOJ taisyklių reikalavimus taikomos išmetamų LOJ ribinės vertės viršijamos ir (ar) nevykdomas išmetamų LOJ monitoringas, arba jeigu toks pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo nustatymo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis terminas, negu šiame punkte nurodytas terminas;
+
+
+
+
+9) fizinis ar juridinis asmuo pateikė aplinkos ministro įgaliotai institucijai įrenginio registracijos duomenis, neturėdamas teisės jų pateikti šio straipsnio ketvirtojoje dalyje nurodytais atvejais;
+
+
+
+
+10) jeigu pertvarkius ar reorganizavus juridinį asmenį jo teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo LOJ taisyklėse nustatyta tvarka nesikreipia dėl formalių įrenginio registracijos duomenų patikslinimo.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
+
+
+
+
+Nustačius šio straipsnio devintosios dalies 2, 3, 4, 5, 6, 7 ir 10 punktuose nurodytas aplinkybes, fizinis ar juridinis asmuo iki sprendimo išregistruoti įrenginį priėmimo per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą įrenginio išregistravimą. Šio straipsnio devintosios dalies 2, 4, 5, 7 ir 10 punktuose nurodytais atvejais nustatomas 20 darbo dienų terminas, šio straipsnio devintosios dalies 6 punkte nurodytu atveju – 6 mėnesių terminas, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, įrenginys neišregistruojamas. Nustačius šio straipsnio devintosios dalies 1, 8 ir 9 punktuose nurodytas aplinkybes, įrenginys išregistruojamas neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą išregistruoti įrenginį per 3 darbo dienas nuo sprendimo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai įrenginys išregistruotas nustačius šio straipsnio devintosios dalies 3 punkte nurodytas aplinkybes, ir nurodomos įrenginio išregistravimo priežastys. Išregistravus įrenginį, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti LOJ taisyklėse nurodytas priemones per LOJ taisyklėse nustatytą terminą.
+Papildyta straipsnio dalimi:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
 
 
 Papildyta straipsniu:
@@ -1808,6 +1858,24 @@ Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 Straipsnio pakeitimai:
 Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
+ 
+
+
+
+
+201 straipsnis. Dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimas Lietuvos Respublikos rinkai ir naudojimas Lietuvos Respublikos teritorijoje
+
+
+Juridiniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat juridinių asmenų ar kitų organizacijų padalinius) ir fiziniai asmenys tiekti Lietuvos Respublikos rinkai, juridiniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat juridinių asmenų ar kitų organizacijų padalinius) ir fiziniai asmenys, kurie verčiasi individualia veikla, naudoti Lietuvos Respublikos teritorijoje privalo tik pagal aplinkos ministro tvirtinamose Lakiųjų organinių junginių kiekių, susidarančių naudojant organinius tirpiklius tam tikrų dažų, lakų ir transporto priemonių pakartotinės apdailos produktų sudėtyje, ribojimo taisyklėse, suderintose su ekonomikos ir inovacijų ministru, finansų ministru ir teisingumo ministru, nustatytus reikalavimus paženklintus ir didžiausio sudėtyje esančio lakiųjų organinių junginių kiekio neviršijančius dažus, lakus ir transporto priemonių pakartotinės apdailos produktus.
+
+
+
+
+Šiame įstatyme nurodyta individuali veikla suprantama taip, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme.
+
+
+Papildyta straipsniu:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
  
 
 
@@ -2605,7 +2673,10 @@ Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
 Juridinių asmenų padarytus pažeidimus tiria, juridinių asmenų padarytų pažeidimų protokolus surašo ir bylas dėl ekonominių sankcijų skyrimo nagrinėja:
 
 
-1) vyriausieji valstybiniai aplinkos apsaugos inspektoriai – dėl šio įstatymo 55–128 straipsniuose numatytų pažeidimų;
+1) vyriausieji valstybiniai aplinkos apsaugos inspektoriai – dėl šio įstatymo 55–58, 581 (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų naudojimo Lietuvos Respublikos teritorijoje), 59–128 straipsniuose numatytų pažeidimų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
 
 
 
@@ -2642,19 +2713,21 @@ Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
 
 
 
-6) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos įgalioti muitinės pareigūnai – dėl šio įstatymo 78 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9 dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), 79 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), 87 straipsnyje, 95 straipsnyje (dėl įvežimo į Lietuvos Respublikos teritoriją), 98 straipsnyje (dėl įvežimo į Lietuvos Respublikos teritoriją), 100 straipsnyje (dėl įvežimo į Lietuvos Respublikos teritoriją), 101 straipsnyje (dėl įvežimo į Lietuvos Respublikos teritoriją), 109 straipsnio 8 dalyje, 1091 straipsnio 1, 2 dalyse, 110 straipsnio 8, 9 dalyse numatytų pažeidimų; 
+6) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos įgalioti muitinės pareigūnai – dėl šio įstatymo 581 straipsnio (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimo Lietuvos Respublikos rinkai), 78 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9 dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), 79 straipsnio 1, 2, 3, 4, 6, 7, 8 dalyse (dėl atliekų įvežimo, importo į Lietuvos Respublikos teritoriją, išvežimo ar eksporto iš Lietuvos Respublikos teritorijos ar vežimo tranzitu per Lietuvos Respublikos teritoriją), 87 straipsnyje, 95 straipsnyje (dėl įvežimo į Lietuvos Respublikos teritoriją), 98 straipsnyje (dėl įvežimo į Lietuvos Respublikos teritoriją), 100 straipsnyje (dėl įvežimo į Lietuvos Respublikos teritoriją), 101 straipsnyje (dėl įvežimo į Lietuvos Respublikos teritoriją), 109 straipsnio 8 dalyje, 1091 straipsnio 1, 2 dalyse, 110 straipsnio 8, 9 dalyse numatytų pažeidimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
  
 
 
 
 
-7) Valstybinės vartotojų teisių apsaugos tarnybos įgalioti pareigūnai – dėl šio įstatymo 97, 98, 100 straipsniuose, 109 straipsnio 1, 11, 12, 14, 17, 21 dalyse, 110 straipsnio 8, 9 dalyse, 1281 straipsnyje numatytų pažeidimų;
+7) Valstybinės vartotojų teisių apsaugos tarnybos įgalioti pareigūnai – dėl šio įstatymo 581, 97, 98, 100 straipsniuose, 109 straipsnio 1, 11, 12, 14, 17, 21 dalyse, 110 straipsnio 8, 9 dalyse, 1281 straipsnyje numatytų pažeidimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-756, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18807
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
  
 
 
@@ -2722,7 +2795,10 @@ Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-7) vyresnieji valstybiniai aplinkos apsaugos inspektoriai ir valstybiniai aplinkos apsaugos inspektoriai – dėl šio įstatymo 55–128 straipsniuose numatytų pažeidimų;
+7) vyresnieji valstybiniai aplinkos apsaugos inspektoriai ir valstybiniai aplinkos apsaugos inspektoriai – dėl šio įstatymo 55–58, 581 (dėl dažų, lakų, transporto priemonių pakartotinės apdailos produktų naudojimo Lietuvos Respublikos teritorijoje), 59–128 straipsniuose numatytų pažeidimų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
 
 
 
@@ -2953,7 +3029,7 @@ Nagrinėjant bylas dėl ekonominių sankcijų skyrimo dalyvauja:
 47 straipsnis. Rašytinis įspėjimas 
 
 
-Nustačius šio įstatymo 55 straipsnio 7 dalyje, 57 straipsnio 1, 3, 5 dalyse, 76 straipsnio 1 dalyje, 93 straipsnio 1, 4 dalyse, 94 straipsnio 1, 4 dalyse, 941 straipsnio 1, 4 dalyse, 107 straipsnio 1, 4 dalyse, 109 straipsnio 3, 4, 6, 9, 10, 11, 12, 13, 15, 19, 20 dalyse, 112 straipsnio 1 dalyje numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas protingas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
+Nustačius šio įstatymo 55 straipsnio 7 dalyje, 57 straipsnio 1, 3, 5 dalyse, 581 straipsnio 3 dalyje, 76 straipsnio 1 dalyje, 93 straipsnio 1, 4 dalyse, 94 straipsnio 1, 4 dalyse, 941 straipsnio 1, 4 dalyse, 107 straipsnio 1, 4 dalyse, 109 straipsnio 3, 4, 6, 9, 10, 11, 12, 13, 15, 19, 20 dalyse, 112 straipsnio 1 dalyje numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas protingas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 Nr. XIV-597, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23518
@@ -3253,7 +3329,7 @@ Juridiniai asmenys baudas moka į valstybės biudžetą. Šios lėšos sudaro Ap
 
 
 
-55 straipsnis. Juridinių asmenų atsakomybė už ūkinės ar kitokios veiklos vykdymą, objektų naudojimą neturint taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo arba neįregistravus įrenginio, arba nesilaikant leidime nustatytų sąlygų ar įregistruotam įrenginiui nustatytų reikalavimų, negavus įgaliotos institucijos sprendimo dėl leidime nurodytų sąlygų įgyvendinimo iki ūkinės veiklos vykdymo pradžios atitikties 
+55 straipsnis. Juridinių asmenų atsakomybė už ūkinės ar kitokios veiklos vykdymą, objektų naudojimą neturint taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo arba neįregistravus įrenginio, arba pateikus įrenginio registracijos duomenis neturint teisės juos pateikti, nesilaikant leidime nustatytų sąlygų ar įregistruotam įrenginiui nustatytų reikalavimų, negavus įgaliotos institucijos sprendimo dėl leidime nurodytų sąlygų įgyvendinimo iki ūkinės veiklos vykdymo pradžios atitikties 
 Pakeistas straipsnio pavadinimas:
 Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
  
@@ -3269,7 +3345,10 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos leidimo arba neįregistravus įrenginio, kai pagal teisės aktus toks leidimas yra reikalingas arba pagal teisės aktus toks įrenginys turi būti įregistruotas, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
+Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos leidimo arba neįregistravus įrenginio, kai pagal teisės aktus toks leidimas reikalingas arba pagal teisės aktus toks įrenginys turi būti įregistruotas, arba įrenginio registracijos duomenų pateikimas neturint teisės juos pateikti šio įstatymo 193 straipsnio 4 dalyje nurodytais atvejais užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
 
 
 
@@ -3430,6 +3509,34 @@ Neteisėtas Europos Sąjungos ekologinio ženklo naudojimas ar jo naudojimas pa�
  
 
 
+
+
+
+
+581 straipsnis. Juridinių asmenų atsakomybė už pagal reikalavimus nepaženklintų ar didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimą Lietuvos Respublikos rinkai ir naudojimą Lietuvos Respublikos teritorijoje
+
+
+Pagal reikalavimus nepaženklintų arba didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų tiekimas Lietuvos Respublikos rinkai užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų. 
+
+
+
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų. 
+
+
+
+
+Pagal reikalavimus nepaženklintų arba didžiausią sudėtyje esančių lakiųjų organinių junginių kiekį viršijančių dažų, lakų, transporto priemonių pakartotinės apdailos produktų naudojimas Lietuvos Respublikos teritorijoje po rašytinio įspėjimo apie pažeidimą užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+
+
+
+Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
+ 
 
 
 
