@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2022-11-30 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -116,12 +116,13 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 2,5 tūkstančio eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Jeigu uždarosios akcinės bendrovės siūlomos akcijos ar jų siūlymas atitinka bent vieną iš Vertybinių popierių įstatyme ir (arba) 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su visais pakeitimais nustatytų sąlygų, kai vertybinius popierius viešai siūlant nereikalaujama paskelbti prospekto, akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka Finansinių priemonių rinkų įstatyme nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme nustatytus kriterijus, nėra laikomas vertybinių popierių viešu siūlymu.
+4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip vienas tūkstantis eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Jeigu uždarosios akcinės bendrovės siūlomos akcijos ar jų siūlymas atitinka bent vieną iš Vertybinių popierių įstatyme ir (arba) 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, nustatytų sąlygų, kai vertybinius popierius viešai siūlant nereikalaujama paskelbti prospekto, akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka Lietuvos Respublikos finansinių priemonių rinkų įstatyme nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme nustatytus kriterijus, nėra laikomas vertybinių popierių viešu siūlymu.
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
 Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
@@ -1142,7 +1143,10 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-3. Bendrovės įstatuose gali būti nustatyta, kad kai kurių klasių privilegijuotosios akcijos balsavimo teisės nesuteikia. Privilegijuotųjų akcijų, kurios nesuteikia balsavimo teisės, savininkams teisė balsuoti suteikiama šio Įstatymo nustatytais atvejais.
+3. Privilegijuotųjų akcijų suteikiamos balsavimo teisės nustatomos bendrovės įstatuose. Privilegijuotųjų akcijų, kurios nesuteikia balsavimo teisės, savininkams teisė balsuoti suteikiama šio Įstatymo nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -4246,7 +4250,9 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-17. Bendrovė negali išleisti šiame Įstatyme nenumatytų akcijų, taip pat akcijų, kurias būtų galima keisti į obligacijas.
+17. Bendrovė negali išleisti akcijų, kurias būtų galima keisti į obligacijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
 
 
@@ -4402,57 +4408,98 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 42 straipsnis. Paprastosios ir privilegijuotosios akcijos
 
 
-1. Paprastosios akcijos sudaro pagrindinę bendrovės akcijų dalį. Privilegijuotosios akcijos gali sudaryti ne didesnę kaip 1/3 įstatinio kapitalo dalį. Visų paprastųjų akcijų nominalios vertės turi būti vienodos.
+1. Visų paprastųjų akcijų nominalios vertės turi būti vienodos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-2. Visos paprastosios akcijos suteikia balso teisę. Paprastųjų akcijų savininkų teisė į dividendą įgyvendinama tik po to, kai yra įgyvendintos atitinkamos privilegijuotųjų akcijų savininkų turtinės teisės.
+2. Bendrovė gali išleisti skirtingų klasių privilegijuotąsias akcijas. Privilegijuotosios akcijos be balso teisės negali sudaryti daugiau kaip 1/2 įstatinio kapitalo dalies. Bendrovės privilegijuotųjų akcijų klasės ir jų suteikiamos teisės nustatomos bendrovės įstatuose. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-3. Tik paprastųjų akcijų savininkai turi teisę gauti naujų akcijų, kurios išleidžiamos, kai iš bendrovės nepaskirstytojo pelno ar sudarytų iš paskirstytojo pelno rezervų šio Įstatymo nustatyta tvarka didinamas įstatinis kapitalas. Jeigu įstatinis kapitalas didinamas iš akcijų priedų ar perkainojimo rezervo, privilegijuotųjų ir paprastųjų akcijų savininkai turi lygias teises gauti naujų akcijų. 
+3. Visos paprastosios akcijos suteikia balso teisę. Paprastųjų akcijų savininkų teisė į dividendą įgyvendinama tik po to, kai yra įgyvendintos atitinkamos privilegijuotųjų akcijų savininkų turtinės teisės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-4. Bendrovės paprastosios akcijos negali būti konvertuojamos į privilegijuotąsias akcijas. Bendrovei neleidžiama įstatuose ar akcijų pasirašymo sutartyje nustatyti dividendo dydį paprastųjų akcijų savininkams.
+4. Tik paprastųjų akcijų savininkai turi teisę gauti naujų akcijų, kurios išleidžiamos, kai iš bendrovės nepaskirstytojo pelno ar sudarytų iš paskirstytojo pelno rezervų šio Įstatymo nustatyta tvarka didinamas įstatinis kapitalas. Jeigu įstatinis kapitalas didinamas iš akcijų priedų ar perkainojimo rezervo, privilegijuotųjų ir paprastųjų akcijų savininkai turi lygias teises gauti naujų akcijų. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-5. Bendrovės privilegijuotosios akcijos gali būti konvertuotos į paprastąsias akcijas visuotinio akcininkų susirinkimo sprendimu, jei galimybė jas konvertuoti yra nustatyta bendrovės įstatuose ir jei kvalifikuota balsų dauguma šiam sprendimui balsuodami atskirai pritaria kiekvienos klasės akcijų savininkai. Konvertuodama privilegijuotąsias su kaupiamuoju dividendu akcijas į paprastąsias, bendrovė turi visiškai atsiskaityti su privilegijuotųjų akcijų savininkais arba įsipareigoti įsiskolinimą padengti ne vėliau kaip iki kitų finansinių metų pabaigos.
+5. Bendrovės paprastosios akcijos negali būti konvertuojamos į privilegijuotąsias akcijas. Bendrovei neleidžiama įstatuose ar akcijų pasirašymo sutartyje nustatyti dividendo dydį paprastųjų akcijų savininkams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-6. Bendrovės, kuri išleidžia privilegijuotąsias akcijas, įstatuose turi būti nustatytas konkretus (nekintamas) privilegijuotųjų akcijų dividendo dydis procentais, skaičiuojant nuo akcijos nominalios vertės. 
+6. Bendrovės privilegijuotosios akcijos gali būti konvertuotos į paprastąsias akcijas arba kitos klasės privilegijuotąsias akcijas visuotinio akcininkų susirinkimo sprendimu, jeigu kvalifikuota balsų dauguma šiam sprendimui balsuodami atskirai pritaria kiekvienos klasės akcijų savininkai. Bendrovės privilegijuotosios akcijos konvertuojamos vadovaujantis visuotinio akcininkų susirinkimo patvirtintu akcijų konvertavimo tvarkos aprašu. Kai konvertuojamos ne visos visuotinio akcininkų susirinkimo, priėmusio sprendimą konvertuoti privilegijuotąsias akcijas į kitos klasės akcijas, sprendime numatytos akcijos ir šiame visuotinio akcininkų susirinkimo sprendime buvo numatyta tokia galimybė, bendrovės valdyba (jeigu valdyba nesudaroma – bendrovės vadovas) bendrovės įstatuose turi atitinkamai pakeisti akcijų skaičių pagal klases ir (ar) nominalią vertę ir pateikti pakeistus įstatus juridinių asmenų registro tvarkytojui. Konvertuodama privilegijuotąsias akcijas su kaupiamuoju dividendu į paprastąsias, taip pat į kitos klasės privilegijuotąsias akcijas su nekaupiamuoju dividendu, bendrovė turi visiškai atsiskaityti su privilegijuotųjų akcijų savininkais arba įsipareigoti įsiskolinimą padengti ne vėliau kaip iki kitų finansinių metų pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-7. Privilegijuotosios akcijos gali būti su kaupiamuoju arba su nekaupiamuoju dividendu, su balso teise ar be balso teisės. Tai nustatoma bendrovės įstatuose nurodant akcijų klases.
+7. Bendrovės, kuri išleidžia privilegijuotąsias akcijas, įstatuose turi būti nustatytas konkretus (nekintamas) privilegijuotųjų akcijų dividendo dydis procentais, skaičiuojant nuo akcijos nominalios vertės, arba jo apskaičiavimo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-8. Privilegijuotųjų akcijų su kaupiamuoju dividendu savininkui garantuojama teisė į šiose akcijose nurodyto dydžio dividendą. 
+8. Privilegijuotosios akcijos pagal klases gali būti su kaupiamuoju arba su nekaupiamuoju dividendu, su balso teise ar be balso teisės. Bendrovė gali išleisti ir kitokias pagal suteikiamas teises privilegijuotąsias akcijas, jeigu tokia galimybė yra numatyta bendrovės įstatuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-9. Jeigu dividendams skirtos paskirstytinojo pelno dalies nepakanka visam nustatytam dividendui privilegijuotųjų akcijų savininkams išmokėti, jiems išmokama proporcingai sumažinta suma. Privilegijuotųjų akcijų su kaupiamuoju dividendu savininkams neišmokėta suma perkeliama į kitus finansinius metus. Privilegijuotųjų akcijų su nekaupiamuoju dividendu savininkams neišmokėta suma į kitus finansinius metus neperkeliama. 
+9. Privilegijuotųjų akcijų su kaupiamuoju dividendu savininkui garantuojama teisė į šiose akcijose nurodyto dydžio dividendą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-10. Jeigu bendrovėje paskirti dividendai už trumpesnį negu finansiniai metai laikotarpį, iš dividendams skirtos sumos pirmiausia turi būti išmokama privilegijuotųjų akcijų su kaupiamuoju dividendu savininkams už praėjusius finansinius metus ir už tų pačių finansinių metų trumpesnį negu finansiniai metai laikotarpį neišmokėta suma.
+10. Jeigu dividendams skirtos paskirstytinojo pelno dalies nepakanka visam nustatytam dividendui privilegijuotųjų akcijų savininkams išmokėti, jiems išmokama proporcingai sumažinta suma. Privilegijuotųjų akcijų su kaupiamuoju dividendu savininkams neišmokėta suma perkeliama į kitus finansinius metus. Privilegijuotųjų akcijų su nekaupiamuoju dividendu savininkams neišmokėta suma į kitus finansinius metus neperkeliama. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-11. Jeigu per 2 finansinius metus iš eilės bendrovė neskiria privilegijuotųjų akcijų su kaupiamuoju dividendu be balso teisės savininkams viso nustatyto dividendo, šios akcijos įgyja balso teisę iki tų finansinių metų, kuriais visiškai atsiskaityta su šių akcijų savininkais, pabaigos.
+11. Jeigu bendrovėje paskirti dividendai už trumpesnį negu finansiniai metai laikotarpį, iš dividendams skirtos sumos pirmiausia turi būti išmokama privilegijuotųjų akcijų su kaupiamuoju dividendu savininkams už praėjusius finansinius metus ir už tų pačių finansinių metų trumpesnį negu finansiniai metai laikotarpį neišmokėta suma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
+
+
+
+
+12. Jeigu per 2 finansinius metus iš eilės bendrovė neskiria privilegijuotųjų akcijų su kaupiamuoju dividendu be balso teisės savininkams viso nustatyto dividendo, šios akcijos įgyja balso teisę iki tų finansinių metų, kuriais visiškai atsiskaityta su šių akcijų savininkais, pabaigos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 Straipsnio pakeitimai:
@@ -5913,7 +5960,10 @@ Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
 56 straipsnis. Konvertuojamosios obligacijos
 
 
-1. Bendrovė gali išleisti konvertuojamąsias obligacijas, kurios, pasibaigus jų išpirkimo terminui, gali būti pakeistos į šios bendrovės akcijas.
+1. Bendrovė gali išleisti konvertuojamąsias obligacijas, kurios, pasibaigus jų išpirkimo terminui, gali būti pakeistos į šios bendrovės akcijas obligacijų pasirašymo sutartyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -5923,7 +5973,10 @@ Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
 
 
 
-3. Visuotinio akcininkų susirinkimo sprendimas išleisti konvertuojamąsias obligacijas yra kartu ir sprendimas padidinti bendrovės įstatinį kapitalą suma, lygia akcijų, į kurias gali būti keičiamos konvertuojamosios obligacijos, nominalių verčių sumai.
+3. Visuotinio akcininkų susirinkimo sprendimas išleisti konvertuojamąsias obligacijas yra kartu ir sprendimas padidinti bendrovės įstatinį kapitalą suma, lygia akcijų, į kurias gali būti keičiamos konvertuojamosios obligacijos, nominalių verčių sumai. Bendrovės įstatinio kapitalo didinamoji suma nėra nurodoma, jeigu ji nėra iš anksto žinoma, ir yra apskaičiuojama obligacijų pasirašymo sutartyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -5936,12 +5989,18 @@ Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
 
 
 
-2) akcijų, į kurias keičiamos konvertuojamosios obligacijos, klasė, skaičius, nominali vertė ir suteikiamos teisės;
+2) akcijų, į kurias keičiamos konvertuojamosios obligacijos, klasė, skaičius, nominali vertė ir suteikiamos teisės arba šių akcijų klasės, skaičiaus, nominalios vertės ir suteikiamų teisių apskaičiavimo tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
 
-3) santykis, kuriuo konvertuojamosios obligacijos keičiamos į akcijas. Šis santykis turi būti toks, kad konvertuojamųjų obligacijų emisijos kaina būtų ne mažesnė už akcijų, į kurias jos keičiamos, nominalią vertę;
+3) santykis, kuriuo konvertuojamosios obligacijos keičiamos į akcijas, arba jo apskaičiavimo tvarka. Šis santykis turi būti toks arba jo apskaičiavimo tvarka turi užtikrinti, kad konvertuojamųjų obligacijų emisijos kaina būtų ne mažesnė už akcijų, į kurias jos keičiamos, nominalią vertę;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+ 
 
 
 
@@ -7821,8 +7880,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 akcinių bendrovių įstatymo 
@@ -7869,7 +7926,8 @@ Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
 Priedo pakeitimai:
 Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
  
-part_cf424c21dffa4b4981a80507c65f43c2_end
+
+
 
 
 Pakeitimai:
