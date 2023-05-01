@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-04-30
+Suvestinė redakcija nuo 2023-05-01 iki 2023-12-29
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
- 
-TAR pastaba. Įstatymo Nr. XIV-1858 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki 2023 m. naujai išrinktų savivaldybių tarybų pirmųjų posėdžių taikomos iki 2023 m. kovo 31 d. galiojusios Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo nuostatos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1858, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05789
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10, 11-1 ir 33 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2008-07-01 (25 straipsnio 6 dalis įsigaliojo nuo 2009-07-01):
 Nr. X-1337, 2007-11-22, Žin., 2007, Nr. 128-5213 (2007-12-07)
@@ -2519,7 +2514,10 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 
 
-10. Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės nustatyta tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo psichiką veikiančių medžiagų.
+10. Policijos pareigūno reikalavimu vairuotojas privalo leistis Vyriausybės nustatyta tvarka patikrinamas, ar nėra neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -2534,7 +2532,10 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 
 
-13. Motorinių transporto priemonių, traktorių, savaeigių mašinų vairuotojams draudžiama naudotis mobiliojo ryšio priemonėmis, jeigu jomis naudojamasi rankomis, išskyrus atvejus, kai stovinčios motorinės transporto priemonės variklis išjungtas.
+13. Transporto priemonei dalyvaujant viešajame eisme (išskyrus atvejus, kai transporto priemonė stovi), vairuotojams draudžiama naudotis mobiliojo ryšio priemonėmis, jeigu jomis naudojamasi rankomis, išskyrus mobiliojo ryšio priemonių valdymą naudojant laisvų rankų įrangą, kai mobiliojo ryšio priemonė pritvirtinta specialiame laikiklyje, ar naudojant transporto priemonės įrangą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -2629,15 +2630,15 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-15 straipsnis. Pėsčiųjų pareigos
+15 straipsnis. Pėsčiųjų pareigos ir jiems taikomi draudimai
 
 
-1. Pėstieji, eidami neapšviestu kelkraščiu arba važiuojamosios dalies kraštu tamsiuoju paros metu arba esant blogam matomumui, privalo neštis šviečiantį žibintą arba vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais, arba būti prie drabužių prisisegę kitiems eismo dalyviams matomoje vietoje atšvaitą.
+1. Pėstieji, judėdami neapšviestu kelkraščiu arba važiuojamosios kelio dalies pakraščiu arba ten stovėdami tamsiuoju paros metu, arba esant blogam matomumui, privalo turėti šviečiantį kitiems eismo dalyviams matomą žibintą arba vilkėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais, arba būti prie drabužių prisisegę kitiems eismo dalyviams matomoje vietoje atšvaitą.
 
 
 
 
-2. Į kitą važiuojamosios dalies pusę pėstieji privalo eiti tik pėsčiųjų (taip pat požeminėmis ir esančiomis virš kelio) perėjomis, o kur jų nėra, – per sankryžas pagal šaligatvių arba kelkraščių liniją. Kai matomumo zonoje perėjos ar sankryžos nėra, leidžiama eiti per kelią stačiu kampu į abi puses gerai apžvelgiamose vietose, tačiau tik įsitikinus, kad eiti saugu ir nebus trukdoma transporto priemonėms.
+2. Į kitą važiuojamosios kelio dalies pusę pėstieji privalo eiti (judėti) tik pėsčiųjų (taip pat požeminėmis ir esančiomis virš kelio) perėjomis, o kur jų nėra, – per sankryžas pagal šaligatvių arba kelkraščių liniją. Kai matomumo zonoje perėjos ar sankryžos nėra, leidžiama eiti (judėti) stačiu kampu į abi puses gerai apžvelgiamose vietose, tačiau tik įsitikinus, kad eiti (judėti) saugu.
 
 
 
@@ -2645,32 +2646,42 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 3. Pėstiesiems draudžiama:
 
 
-1) eiti per važiuojamąją dalį tose vietose, kur yra transporto ar pėsčiųjų atitvarai, o gyvenvietėse – ir ten, kur yra skiriamoji juosta (išskyrus pėsčiųjų perėjas ir sankryžas);
+1) judėti per važiuojamąją kelio dalį tose vietose, kur yra transporto ar pėsčiųjų atitvarai, o gyvenvietėse – ir ten, kur yra skiriamoji juosta (išskyrus pėsčiųjų perėjas ir sankryžas);
 
 
 
 
-2) eiti automagistrale ar greitkeliu; 
+2) judėti automagistrale ar greitkeliu; 
 
 
 
 
-3) eiti skiriamąja juosta arba greta jos važiuojamosios dalies pakraščiu;
+3) judėti skiriamąja juosta arba greta jos važiuojamosios kelio dalies pakraščiu;
 
 
 
 
-4) išeiti iš už stovinčios transporto priemonės ar kitos kliūties, trukdančios apžvelgti vietą, neįsitikinus, kad nėra artėjančių transporto priemonių;
+4) išeiti (pajudėti) iš už stovinčios transporto priemonės ar kitos kliūties, trukdančios apžvelgti vietą, neįsitikinus, kad nėra artėjančių transporto priemonių;
 
 
 
 
-5) eiti dviračių takais;
+5) judėti dviračių takais, išskyrus atvejus, kai reikia pereiti į kitą dviračių tako pusę arba kai kelyje nėra šaligatvio ar pėsčiųjų tako ir šiais atvejais nebus trukdoma dviratininkų eismui;
 
 
 
 
-6) pasišalinti iš eismo įvykio vietos, jeigu pėstieji yra susiję su juo.
+6) pasišalinti iš eismo įvykio vietos, jeigu pėstieji yra susiję su juo;
+
+
+
+
+7) judėti dviračių juostomis, išskyrus atvejus, kai reikia pereiti į kitą dviračių juostos pusę ir nebus trukdoma dviratininkų eismui;
+
+
+
+
+8) važiuoti riedučiais, riedlentėmis ar paspirtukais be variklio važiuojamąja kelio dalimi, išskyrus gyvenamąją zoną.
 
 
 
@@ -2678,9 +2689,11 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 4. Kitos pėsčiųjų pareigos yra nustatytos KET.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
  
-
-
 
 
 
@@ -2728,7 +2741,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-17 straipsnis. Reikalavimai dviračių vairuotojams
+17 straipsnis. Dviračių vairuotojams taikomi reikalavimai ir draudimai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 1. Važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 14 metų, o išklausiusiems Švietimo, mokslo ir sporto ministerijos nustatytą mokymo kursą ir turintiems mokyklos išduotą pažymėjimą, – ne jaunesniems kaip 12 metų asmenims. Prižiūrint suaugusiajam, važiuoti važiuojamąja kelio dalimi dviračiu leidžiama ne jaunesniems kaip 8 metų asmenims. Gyvenamojoje zonoje dviračių vairuotojų amžius neribojamas.
@@ -2753,7 +2769,10 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 4. Dviračių vairuotojams draudžiama:
 
 
-1) važiuoti važiuojamąja dalimi, jeigu įrengti dviračių takai, išskyrus KET nustatytus atvejus;
+1) važiuoti važiuojamąja kelio dalimi, išskyrus KET nustatytus atvejus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -2791,6 +2810,14 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 8) važiuoti įsikibus į kitas transporto priemones. 
 
 
+
+
+
+
+41. Šiame straipsnyje nustatyti reikalavimai ir draudimai taip pat taikomi motorinių dviračių vairuotojams.
+Papildyta straipsnio dalimi:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
 
 
 
@@ -4148,7 +4175,9 @@ EISMO ĮVYKIAI
 
 
 
-4) po eismo įvykio nevartoti alkoholinių gėrimų, vaistų, narkotinių ar kitų svaigiųjų medžiagų, iki bus patikrintas neblaivumas (girtumas) ar apsvaigimas arba bus atsisakyta tai atlikti.
+4) po eismo įvykio nevartoti alkoholinių gėrimų, vaistų, narkotinių ar kitų svaigiųjų medžiagų, iki bus patikrintas neblaivumas (girtumas) ar apsvaigimas nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba bus atsisakyta tai atlikti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
  
 
 
@@ -4286,8 +4315,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 saugaus eismo automobilių keliais įstatymo
@@ -4344,10 +4371,9 @@ Priedo pakeitimai:
 Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
  
-part_23821eff571d4570a0dde179497c779f_end
 
 
- 
+
 
  
 Lietuvos Respublikos 
@@ -4420,7 +4446,8 @@ MINIMALUS AMŽIUS, NUO KURIO ASMENIMS, ĮGIJUSIEMS KVALIFIKACIJĄ VEŽTI KROVINI
 Papildyta priedu:
 Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
  
-part_59362a37ed3d44d5b4abb17c72a05387_end
+
+
 
 
 Pakeitimai:
