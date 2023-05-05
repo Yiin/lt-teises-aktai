@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b367a420db0711eb9f09e7df20500045"
 
 # Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas
 
-Suvestinė redakcija nuo 2022-08-01 iki 2023-05-04
+Suvestinė redakcija nuo 2023-05-05 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2021-07-02, i. k. 2021-15163
  
@@ -26,11 +26,6 @@ NESĄŽININGOS PREKYBOS PRAKTIKOS ŽEMĖS ŪKIO IR MAISTO PRODUKTŲ TIEKIMO GRAN
  
 2021 m. birželio 17 d. Nr. XIV-409
 Vilnius
- 
- 
-
- 
-
  
  
 
@@ -189,7 +184,10 @@ e) tiekėjai, kurių metinė apyvarta per praėjusius finansinius metus yra dide
 
 
 
-11. Žemės ūkio ir maisto produktų pirkėjas (toliau – pirkėjas) – Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje veikiantis fizinis ar juridinis asmuo, nepriklausomai nuo jų įsisteigimo vietos, viešasis subjektas arba tokių asmenų grupė, perkantys žemės ūkio ir (ar) maisto produktus.
+11. Žemės ūkio ir maisto produktų pirkėjas (toliau – pirkėjas) – fizinis ar juridinis asmuo, nepriklausomai nuo jo įsisteigimo vietos, taip pat tokių asmenų grupė arba Europos Sąjungoje veikiantis viešasis subjektas, perkantys žemės ūkio ir (ar) maisto produktus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
+ 
 
 
 
@@ -406,7 +404,10 @@ b) vyno gamybai skirtų vynuogių arba misos tiekėjų ir jų tiesioginių pirk�
 7. Draudžiama bet kuri toliau nurodyta prekybos praktika ir paslaugų, susijusių su žemės ūkio ir maisto produktų pardavimu ir nurodytų šios dalies 1, 2, 4, 5 ir 6 punktuose, teikimas, jeigu dėl jų nebuvo iš anksto aiškiai ir nedviprasmiškai susitarta ir toks susitarimas nebuvo patvirtintas pirkimo–pardavimo sutartyje ir (arba) paslaugų teikimo sutartyje arba vėliau tiekėjo ir pirkėjo sudarytose sutartyse, kai:
 
 
-1) pirkėjas grąžina neparduotus žemės ūkio ir maisto produktus tiekėjui nesumokėjęs jam už tuos neparduotus produktus arba nesumokėjęs už tų neparduotų produktų pašalinimą iš rinkos, arba abiem atvejais;
+1) pirkėjas grąžina neparduotus žemės ūkio ir maisto produktus tiekėjui nesumokėjęs jam už tuos neparduotus produktus arba nesumokėjęs už tų neparduotų produktų pašalinimą, arba abiem atvejais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
+ 
 
 
 
@@ -1202,7 +1203,10 @@ Agentūros sprendimai, priimti pagal šio įstatymo 10 straipsnio 2 dalį, 13 st
 21 straipsnis. Sankcijos, atsakomybę lengvinančios ir sunkinančios aplinkybės, baudų sumokėjimas ir išieškojimas
 
 
-1. Priežiūros institucijos skiriamos sankcijos turi būti veiksmingos, proporcingos ir atgrasančios, jų dydis priklauso nuo pažeidimo pobūdžio, trukmės ir masto, atsakomybę lengvinančių ir sunkinančių aplinkybių.
+1. Priežiūros institucijos skiriamos sankcijos turi būti veiksmingos, proporcingos ir atgrasančios, jų dydis priklauso nuo pažeidimo pobūdžio, trukmės ir masto, atsakomybę lengvinančių ir sunkinančių aplinkybių. Priežiūros institucija taip pat turi teisę pirkėjui skirti įpareigojimą nutraukti šiame įstatyme nustatytus draudžiamus nesąžiningos prekybos praktikos veiksmus ar įpareigojimą atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant sutarties pakeitimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
+ 
 
 
 
@@ -1277,7 +1281,30 @@ c) kai tiekėjui vėluojama sumokėti daugiau kaip 60 kalendorinių dienų nuo n
 
 
 
-7. Jeigu pirkėjas nepateikia Agentūrai informacijos apie gautas pajamas per praėjusius finansinius ar einamuosius metus, jam skiriama bauda nuo trijų tūkstančių iki dešimt tūkstančių eurų, o jeigu toks pat pažeidimas padaromas pakartotinai per vienus metus nuo baudos paskyrimo, – nuo šešių tūkstančių iki dvidešimt tūkstančių eurų. 
+7. Už Agentūros reikalavimų nevykdymą ar netinkamą vykdymą baudos skiriamos šiais atvejais:
+
+
+1) jeigu suėjus privalomojo nurodymo įvykdymo terminui tiekėjas ir (arba) pirkėjas, ir (arba) viešojo administravimo subjektas nevykdo Agentūros privalomojo nurodymo pateikti finansinių ir (ar) kitų dokumentų, iš jų ir dokumentų, kuriuose yra komercinių paslapčių, kopijas ir informaciją, reikalingus šiame įstatyme Agentūrai nustatytoms funkcijoms atlikti, jam skiriama iki penkiasdešimt eurų bauda už kiekvieną Agentūros privalomojo nurodymo nevykdymo dieną;
+
+
+
+
+2) jeigu pirkėjas:
+
+
+a) nepateikia Agentūrai informacijos apie gautas pajamas per praėjusius finansinius ar einamuosius metus, jam skiriama bauda nuo trijų tūkstančių iki dešimt tūkstančių eurų, o jeigu toks pat pažeidimas padaromas pakartotinai per vienus metus nuo baudos paskyrimo, – nuo šešių tūkstančių iki dvidešimt tūkstančių eurų;
+
+
+
+
+b) nevykdo Agentūros įpareigojimo nutraukti draudžiamus nesąžiningus prekybos praktikos veiksmus ar įpareigojimo atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant sutarties pakeitimą, arba šiuos įpareigojimus vykdo ne laiku, jam skiriama iki trijų šimtų eurų bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną. 
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
+ 
 
 
 
@@ -1285,7 +1312,10 @@ c) kai tiekėjui vėluojama sumokėti daugiau kaip 60 kalendorinių dienų nuo n
 8. Už Agentūros darbuotojų reikalavimų nevykdymą ar netinkamą vykdymą, jiems atliekant:
 
 
-1) šio įstatymo 14 straipsnio 2 dalyje nurodytus veiksmus, pirkėjams skiriama trijų šimtų eurų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną;
+1) šio įstatymo 14 straipsnio 2 dalyje nurodytus veiksmus, pirkėjams skiriama iki trijų šimtų eurų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
+ 
 
 
 
@@ -1488,8 +1518,8 @@ Respublikos Prezidentas                            �
 
  
  
-part_9819f34d9b494d98bfc776be8ce35dde_end
-part_afd6956235a64ab498923f35035b247a_end
+part_acf647a1307f4bc980af09a9dc319445_end
+part_05dd24c2478849a1b6fb6b7ba21ba918_end
 
 
 Lietuvos Respublikos 
@@ -1514,3 +1544,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1183, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15165
 Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 21 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
+Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 2, 4 ir 21 straipsnių pakeitimo įstatymas
