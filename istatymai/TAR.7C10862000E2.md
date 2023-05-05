@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/7c10862000e211ed8fa7d02a65c371ad"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2023-05-05 iki 2023-12-28
+ 
+Įstatymas paskelbtas: TAR 2022-07-11, i. k. 2022-15164
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO NR. VIII-723 PAKEITIMO 
 ĮSTATYMAS
@@ -21,9 +28,6 @@ KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO NR. VIII-723 P
 Vilnius
  
  
-
- 
-
  
  
 
@@ -1453,20 +1457,17 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
-
-
  
 
 
-Lietuvos Respublikos
-„krašto apsaugos sistemos organizavimo
+
+
+„Lietuvos Respublikos
+krašto apsaugos sistemos organizavimo
 ir karo tarnybos įstatymo
 1 priedas
  
- 
- 
-profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
- 
+profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI 
 (baziniais dydžiais)
 
 
@@ -1489,15 +1490,24 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 
  1. 
- Generolas leitenantas, viceadmirolas 
- 29,5 
- 29,5 
- 29,5 
- 29,5 
- 29,5 
+ Generolas, admirolas 
+ 31,7 
+ 31,7 
+ 31,7 
+ 31,7 
+ 31,7 
 
 
  2. 
+ Generolas leitenantas, viceadmirolas 
+ 29,5 
+ 29,8 
+ 29,8 
+ 29,8 
+ 29,8 
+
+
+ 3. 
  Generolas majoras, kontradmirolas 
  26,8 
  27,1 
@@ -1506,7 +1516,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  27,1 
 
 
- 3. 
+ 4. 
  Brigados generolas, flotilės admirolas 
  24,3 
  24,6 
@@ -1515,7 +1525,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  24,6 
 
 
- 4. 
+ 5. 
  Pulkininkas, jūrų kapitonas 
  21,1 
  21,4 
@@ -1524,7 +1534,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  22 
 
 
- 5. 
+ 6. 
  Pulkininkas leitenantas, komandoras 
  18 
  18,3 
@@ -1533,7 +1543,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  19,2 
 
 
- 6. 
+ 7. 
  Majoras, komandoras leitenantas 
  15,8 
  16,1 
@@ -1542,7 +1552,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  17 
 
 
- 7. 
+ 8. 
  Kapitonas, kapitonas leitenantas 
  13,7 
  13,9 
@@ -1551,7 +1561,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  14,3 
 
 
- 8. 
+ 9. 
  Vyresnysis leitenantas 
  12,3 
  12,5 
@@ -1560,7 +1570,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  12,7 
 
 
- 9. 
+ 10. 
  Leitenantas 
  10,3 
  10,5 
@@ -1569,7 +1579,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  10,5 
 
 
- 10. 
+ 11. 
  Seržantas majoras, vyresnysis laivūnas 
  15,2 
  15,5 
@@ -1578,7 +1588,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  15,8 
 
 
- 11. 
+ 12. 
  Viršila, laivūnas 
  12,9 
  13,1 
@@ -1587,7 +1597,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  13,3 
 
 
- 12. 
+ 13. 
  Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas 
  11,5 
  11,7 
@@ -1596,7 +1606,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  11,9 
 
 
- 13. 
+ 14. 
  Vyresnysis seržantas, vyresnysis seržantas specialistas 
  10,6 
  10,8 
@@ -1605,7 +1615,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  11 
 
 
- 14. 
+ 15. 
  Seržantas, seržantas specialistas 
  9,5 
  9,7 
@@ -1614,7 +1624,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  9,7 
 
 
- 15. 
+ 16. 
  Grandinis 
  8,9 
  9,1 
@@ -1623,7 +1633,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  9,1 
 
 
- 16. 
+ 17. 
  Vyresnysis eilinis, vyresnysis jūreivis 
  8,2 
  8,2 
@@ -1632,7 +1642,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  8,2 
 
 
- 17. 
+ 18. 
  Eilinis, jūreivis 
  7,5 
  7,5 
@@ -1641,16 +1651,18 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  7,5 
 
 
- 18. 
+ 19. 
  Jaunesnysis eilinis, jaunesnysis jūreivis 
  7,3 
  7,3 
  7,3 
  7,3 
- 7,3“ 
+ 7,3 
 
 
 
+ 
+_________________”
  
 
 
@@ -1658,6 +1670,9 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
+ 
 
 
 
@@ -1666,18 +1681,17 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
-
-
  
 
 
-„Lietuvos Respublikos
+
+
+„Lietuvos Respublikos 
 krašto apsaugos sistemos organizavimo
 ir karo tarnybos įstatymo
 1 priedas
  
 profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
- 
 (baziniais dydžiais)
 
 
@@ -1700,15 +1714,24 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 
  1. 
- Generolas leitenantas, viceadmirolas 
- 31,1 
- 31,1 
- 31,1 
- 31,1 
- 31,1 
+ Generolas, admirolas 
+ 33,4 
+ 33,4 
+ 33,4 
+ 33,4 
+ 33,4 
 
 
  2. 
+ Generolas leitenantas, viceadmirolas 
+ 31,1 
+ 31,4 
+ 31,4 
+ 31,4 
+ 31,4 
+
+
+ 3. 
  Generolas majoras, kontradmirolas 
  28,3 
  28,6 
@@ -1717,7 +1740,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  28,6 
 
 
- 3. 
+ 4. 
  Brigados generolas, flotilės admirolas 
  25,6 
  25,9 
@@ -1726,7 +1749,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  25,9 
 
 
- 4. 
+ 5. 
  Pulkininkas, jūrų kapitonas 
  22,3 
  22,6 
@@ -1735,7 +1758,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  23,2 
 
 
- 5. 
+ 6. 
  Pulkininkas leitenantas, komandoras 
  19 
  19,3 
@@ -1744,7 +1767,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  20,2 
 
 
- 6. 
+ 7. 
  Majoras, komandoras leitenantas 
  16,7 
  17 
@@ -1753,7 +1776,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  17,9 
 
 
- 7. 
+ 8. 
  Kapitonas, kapitonas leitenantas 
  14,5 
  14,7 
@@ -1762,7 +1785,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  15,1 
 
 
- 8. 
+ 9. 
  Vyresnysis leitenantas 
  13 
  13,2 
@@ -1771,7 +1794,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  13,4 
 
 
- 9. 
+ 10. 
  Leitenantas 
  10,9 
  11,1 
@@ -1780,7 +1803,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  11,1 
 
 
- 10. 
+ 11. 
  Seržantas majoras, vyresnysis laivūnas 
  16,1 
  16,4 
@@ -1789,7 +1812,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  16,7 
 
 
- 11. 
+ 12. 
  Viršila, laivūnas 
  13,6 
  13,8 
@@ -1798,7 +1821,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  14 
 
 
- 12. 
+ 13. 
  Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas 
  12,1 
  12,3 
@@ -1807,7 +1830,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  12,5 
 
 
- 13. 
+ 14. 
  Vyresnysis seržantas, vyresnysis seržantas specialistas 
  11,2 
  11,4 
@@ -1816,7 +1839,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  11,6 
 
 
- 14. 
+ 15. 
  Seržantas, seržantas specialistas 
  10 
  10,2 
@@ -1825,7 +1848,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  10,2 
 
 
- 15. 
+ 16. 
  Grandinis 
  9,4 
  9,6 
@@ -1834,7 +1857,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  9,6 
 
 
- 16. 
+ 17. 
  Vyresnysis eilinis, vyresnysis jūreivis 
  8,7 
  8,7 
@@ -1843,7 +1866,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  8,7 
 
 
- 17. 
+ 18. 
  Eilinis, jūreivis 
  7,9 
  7,9 
@@ -1852,16 +1875,18 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  7,9 
 
 
- 18. 
+ 19. 
  Jaunesnysis eilinis, jaunesnysis jūreivis 
  7,7 
  7,7 
  7,7 
  7,7 
- 7,7“ 
+ 7,7 
 
 
 
+ 
+_________________”
  
 
 
@@ -1869,6 +1894,9 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
+ 
 
 
 
@@ -2151,4 +2179,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
 
 
-part_4fce81aae6934419b4761e69ea0f618f_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymo Nr. XIV-1179 28 ir 29 straipsnių pakeitimo įstatymas
