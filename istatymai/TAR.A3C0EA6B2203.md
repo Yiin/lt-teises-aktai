@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A3C0EA6B2203"
 
 # Lietuvos Respublikos metrologijos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2023-05-05
+Suvestinė redakcija nuo 2023-05-06 iki 2023-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 74-1768, i. k. 0961010ISTA00I-1452
  
@@ -1361,7 +1361,7 @@ Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
 
 
 
-5) pasitelkti ekspertus (konsultantus), kitų valstybės ir savivaldybių institucijų bei įstaigų atstovus.
+5) pasitelkti ekspertus (konsultantus), kitų valstybės ir savivaldybių institucijų bei įstaigų atstovus;
 
 
 
@@ -2058,39 +2058,43 @@ priedas
  
 
 
-1. 1974 m. gruodžio 19 d. Tarybos direktyva 75/107/EEB dėl valstybių narių įstatymų, susijusių su butelių, naudojamų kaip matavimo talpos, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 2 tomas, p. 169).
+1. 1974 m. gruodžio 19 d. Tarybos direktyva 75/107/EEB dėl valstybių narių įstatymų, susijusių su butelių, naudojamų kaip matavimo talpos, suderinimo. 
 
 
 
 
-2. 1976 m. sausio 20 d. Tarybos direktyva 76/211/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimu pagal masę arba tūrį, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 3 tomas, p. 91) su paskutiniais pakeitimais, padarytais 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/45/EB (OL 2007 L 247, p. 17).
+2. 1976 m. sausio 20 d. Tarybos direktyva 76/211/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimu pagal masę arba tūrį, suderinimo su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.
 
 
 
 
-3. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 6 tomas, p. 3) su paskutiniais pakeitimas, padarytais 2009 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2009/3/EB (OL 2009 L 114, p. 10).
+3. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2019 m. liepos 23 d. Komisijos direktyva (ES) 2019/1258.
 
 
 
 
-4. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/31/ES dėl valstybių narių įstatymų, susijusių su neautomatinių svarstyklių tiekimu rinkai, suderinimo (OL 2014 L 96, p. 107).
+4. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/31/ES dėl valstybių narių įstatymų, susijusių su neautomatinių svarstyklių tiekimu rinkai, suderinimo.
 
 
 
 
-5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/32/ES dėl valstybių narių įstatymų, susijusių su matavimo priemonių tiekimu rinkai, suderinimo (OL 2014 L 96, p. 149) su paskutiniais pakeitimais, padarytais 2014 m. spalio 31 d. Komisijos deleguotąja direktyva (ES) 2015/13 (OL 2015 L 3, p. 42).
+5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/32/ES dėl valstybių narių įstatymų, susijusių su matavimo priemonių tiekimu rinkai, suderinimo su paskutiniais pakeitimais, padarytais 2014 m. spalio 31 d. Komisijos deleguotąja direktyva (ES) 2015/13.
 
 
 
 
-6. 2016 m. kovo 18 d. Komisijos įgyvendinimo reglamentas (ES) 2016/799, kuriuo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 ir nustatomi tachografų ir jų komponentų konstrukcijos, bandymo, įrengimo, naudojimo ir remonto reikalavimai (OL 2016 L 139, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. vasario 28 d. Komisijos įgyvendinimo reglamentu (ES) 2018/502 (OL 2018 L 85, p. 1).
-Punkto pakeitimai:
-Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
+6. 2016 m. kovo 18 d. Komisijos įgyvendinimo reglamentas (ES) 2016/799, kuriuo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 ir nustatomi tachografų ir jų komponentų konstrukcijos, bandymo, įrengimo, naudojimo ir remonto reikalavimai, su paskutiniais pakeitimais, padarytais 2020 m. vasario 5 d. Komisijos įgyvendinimo reglamentu (ES) 2020/158.
+
+
+
+
+________________
  
 
 
 Priedo pakeitimai:
 Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
  
  
  
@@ -2131,5 +2135,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
 Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 1, 16, 26, 31 straipsnių, devintojo skirsnio ir priedo pakeitimo įstatymas
  
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
+Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 2, 25, 26, 27, 28, 29, 30, 38 straipsnių ir priedo pakeitimo įstatymas
  
-part_18105590d8f747b3a8f90e3d22e05918_end
+ 
+part_4f405c0712fe4f538c0e9fde9cd48ea9_end
