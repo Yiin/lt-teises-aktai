@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-03-01 iki 2023-05-05
+Suvestinė redakcija nuo 2023-05-06 iki 2023-05-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -5429,7 +5429,7 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-7) ne vėliau kaip per 2 darbo dienas pranešti Tarybai apie įsiteisėjusią teismo nutartį iškelti bankroto bylą ar apie priimtą kreditorių susirinkimo nutarimą dėl bankroto procedūros atlikimo ne teismo tvarka.
+7) ne vėliau kaip per 2 darbo dienas pranešti Tarybai apie įsiteisėjusią teismo nutartį iškelti bankroto bylą ar apie priimtą kreditorių susirinkimo nutarimą dėl bankroto procedūros atlikimo ne teismo tvarka;
 
 
 Papildyta straipsnio dalimi:
@@ -6394,6 +6394,14 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 3. Vartotojai turi būti raštu ir (ar) elektroninių ryšių priemonėmis informuojami apie elektros energetikos įmonės ketinimą pakeisti sutarties sąlygas. Teikiant informaciją apie šį ketinimą, turi būti pranešama apie vartotojų teisę nepritarti sutarties sąlygų pakeitimui ir, vartotojui neišreiškus savo valios dėl energetikos įmonės siūlomų sutarties sąlygų pakeitimo, sutartis laikoma nepakeista.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
+
+
+
+
+31. Nepriklausomas tiekėjas turi teisę vienašališkai mažinti elektros energijos tiekimo kainą buitiniams vartotojams. Apie šį ketinimą buitiniai vartotojai turi būti informuojami raštu ir (ar) elektroninių ryšių priemonėmis. Šiuo atveju šio straipsnio 3 dalies nuostatos netaikomos, išskyrus atvejus, kai kartu yra keičiamos kitos sutarties sąlygos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
  
 
 
@@ -10458,6 +10466,11 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 69 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 21-1, 22, 31 ir 73-2 straipsnių pakeitimo įstatymas
+ 
+54.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 46, 47 ir 51 straipsnių pakeitimo įstatymas
  
  
 part_cc5e00d041854adfb46efa9925e79327_end
