@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2023-05-02 iki 2023-05-23
+Suvestinė redakcija nuo 2023-05-24 iki 2023-05-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -1017,13 +1017,14 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 2342 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 515 straipsnio 1, 2 dalyse, 524, 5571 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:  
+4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 2342 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 515 straipsnio 1, 2 dalyse, 524, 5571 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:  
 Straipsnio dalies pakeitimai:
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
 Nr. XIV-1568, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25034
 Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
 Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
+Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690
 
 
 1) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
@@ -6592,7 +6593,7 @@ Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
 
 
 
-212 straipsnis. Prekių ir grynųjų pinigų deklaravimo tvarkos pažeidimas 
+212 straipsnis. Prekių ir grynųjų pinigų deklaravimo tvarkos pažeidimas
 
 
 1. Netikslios ir (ar) neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė neviršija trijų bazinių bausmių ir nuobaudų dydžių arba tai neturėjo įtakos apribojimų ar draudimų netaikymui,
@@ -6601,25 +6602,37 @@ užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto aštuoniasde
 
 
 
-2. Netikslios ir (ar) neišsamios informacijos pateikimas grynųjų pinigų deklaracijoje ar grynųjų pinigų atskleidimo deklaracijoje 
-užtraukia baudą nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų.
+2. Netikslios ir (ar) neišsamios informacijos pateikimas grynųjų pinigų deklaracijoje ar grynųjų pinigų atskleidimo deklaracijoje
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
-3. Netikslios ir (ar) neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija tris bazinių bausmių ir nuobaudų dydžius, bet neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių, arba tai turėjo įtakos apribojimų ar draudimų taikymui,
+3. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo vieno tūkstančio keturiasdešimt iki trijų tūkstančių devynių šimtų eurų.
+
+
+
+
+4. Netikslios ir (ar) neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija tris bazinių bausmių ir nuobaudų dydžius, bet neviršija vieno šimto bazinių bausmių ir nuobaudų dydžių, arba tai turėjo įtakos apribojimų ar draudimų taikymui,
 užtraukia baudą nuo trijų šimtų iki vieno tūkstančio devynių šimtų eurų.
 
 
 
 
-4. Netikslios ir (ar) neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija vieną šimtą bazinių bausmių ir nuobaudų dydžių arba tai turėjo įtakos draudimų ir apribojimų, susijusių su prekėms taikomais saugos ir saugumo reikalavimais, taikymui,
-užtraukia baudą nuo vieno tūkstančio devynių šimtų iki trijų tūkstančių eurų. 
+5. Netikslios ir (ar) neišsamios informacijos pateikimas muitinės deklaracijoje, laikinojo saugojimo deklaracijoje, reeksporto deklaracijoje, įvežimo arba išvežimo bendrojoje deklaracijoje ar pranešime apie reeksportą arba kitoks muitinės suklaidinimas, kai dėl šių veiksmų galinti atsirasti ar atsiradusi mokestinė prievolė viršija vieną šimtą bazinių bausmių ir nuobaudų dydžių arba tai turėjo įtakos draudimų ir apribojimų, susijusių su prekėms taikomais saugos ir saugumo reikalavimais, taikymui,
+užtraukia baudą nuo vieno tūkstančio devynių šimtų iki trijų tūkstančių eurų.
+
+
+
+
+6. Už šio straipsnio 2, 3 dalyse numatytus administracinius nusižengimus gali būti skiriamas grynųjų pinigų konfiskavimas.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
+Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690
  
 
 
@@ -25535,7 +25548,7 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
-part_e313606c118d489499359511a2cf4322_end
+part_e9cb224f4d5641f5924ef7a1be5ff763_end
 
 
 Lietuvos Respublikos 
@@ -27177,3 +27190,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 281, 356 ir 589 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1862, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06469
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 208, 210, 211, 589, 611 straipsnių ir priedo pakeitimo ir Kodekso papildymo 188-3, 217-2 straipsniais įstatymo Nr. XIV-1660 8 straipsnio pakeitimo įstatymas
+ 
+198.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690
+Lietuvos Respublikos administracinių nusižengimų kodekso 29, 212, 589 straipsnių pakeitimo ir Kodekso papildymo 188-4 straipsniu įstatymas
