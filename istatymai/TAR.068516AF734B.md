@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-05-30
+Suvestinė redakcija nuo 2023-05-31 iki 2023-06-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
+ 
+TAR pastaba. Įįstatymas Nr. XIV-1971  taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. Lietuvos Respublikos 2023 metų Valstybinio socialinio draudimo fondo biudžetas ligos socialinio draudimo ir motinystės socialinio draudimo srityse vykdomas pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatas, galiojusias iki šio įstatymo Nr. XIV-1971 įsigaliojimo dienos (2023-07-02).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3, 6-1, 30 ir 31 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2501, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20641
@@ -140,7 +145,10 @@ Nr. XIV-1176, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13892
 
 
 
-7. Šalies vidutinis mėnesinis darbo užmokestis – Lietuvos statistikos departamento skelbiamas vidutinis mėnesinis bruto darbo užmokestis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) šalies ūkyje. 
+7. Šalies vidutinis mėnesinis darbo užmokestis – Valstybės duomenų agentūros skelbiamas vidutinis mėnesinis bruto darbo užmokestis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) šalies ūkyje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
+ 
 
 
 
@@ -1698,7 +1706,7 @@ priedas
 Papildyta priedu:
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
  
-part_0510341684444f099549aaf70fc1f601_end
+part_54b97f2787994209a017fe4d0fe61708_end
 
 
  
@@ -2070,3 +2078,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 1, 5, 11-1, 16, 19, 20, 22, 23, 24 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3, 6-1, 30 ir 31 straipsnių pakeitimo įstatymas
