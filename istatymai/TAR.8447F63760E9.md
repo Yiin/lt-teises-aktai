@@ -21,7 +21,7 @@ Projektas XXXX XX XX Nr
  
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-05-30
+Suvestinė redakcija nuo 2023-05-31 iki 2023-09-29
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -522,9 +522,11 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-421. Investavimo krypties valdymas – sprendimų dėl investicinių priemonių, kurios atitinka investavimo kryptį, priėmimas ir kita tiesiogiai su tokių sprendimų priėmimu susijusi veikla. Investavimo krypties valdymu nelaikomas gyvybės draudimo, susijusio su investiciniais fondais, sutarties administravimas (buhalterinės apskaitos tvarkymas, investicijų tikrosios vertės nustatymas, investicijų paskirstymas, duomenų apie atliktas operacijas saugojimas, atsakymas į draudėjų, apdraustųjų, naudos gavėjų klausimus ir kita panaši veikla), rinkodara ir kita tiesiogiai su sprendimų dėl investicinių priemonių, kurios atitinka investavimo kryptį, priėmimu nesusijusi veikla. 
+421. Investavimo krypties valdymas – sprendimų dėl investicinių priemonių, kurios atitinka investavimo kryptį, priėmimas ir kita tiesiogiai su tokių sprendimų priėmimu susijusi veikla. Investavimo krypties valdymu nelaikomas gyvybės draudimo, susijusio su investiciniais fondais, sutarties administravimas (finansinės apskaitos tvarkymas, investicijų tikrosios vertės nustatymas, investicijų paskirstymas, duomenų apie atliktas operacijas saugojimas, atsakymas į draudėjų, apdraustųjų, naudos gavėjų klausimus ir kita panaši veikla), rinkodara ir kita tiesiogiai su sprendimų dėl investicinių priemonių, kurios atitinka investavimo kryptį, priėmimu nesusijusi veikla.
 Papildyta straipsnio dalimi:
 Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+Straipsnio dalies pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
  
 
 
@@ -3643,7 +3645,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 52 straipsnis. Apskaita ir finansinė atskaitomybė
 
 
-1. Draudimo ar perdraudimo įmonė privalo tvarkyti buhalterinę apskaitą ir sudaryti tarpinių finansinių ataskaitų rinkinį ir metinių finansinių ataskaitų rinkinį vadovaudamasi Lietuvos Respublikos įstatymais, priežiūros institucijos sprendimais ir kitais teisės aktais, taip pat draudimo ar perdraudimo įmonės pasirinkta apskaitos politika.
+1. Draudimo ar perdraudimo įmonė privalo tvarkyti finansinę apskaitą ir sudaryti tarpinių finansinių ataskaitų rinkinį ir metinių finansinių ataskaitų rinkinį vadovaudamasi Lietuvos Respublikos įstatymais, priežiūros institucijos sprendimais ir kitais teisės aktais, taip pat draudimo ar perdraudimo įmonės pasirinkta apskaitos politika.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 
@@ -4772,7 +4777,10 @@ TREČIŲJŲ VALSTYBIŲ draudimo ir PERDRAUDIMO įmonių veikla LIETUVOS RESPUBLI
 
 
 
-5) trečiosios valstybės draudimo ar perdraudimo įmonės organo sprendimą steigti filialą Lietuvos Respublikoje, patvirtinti filialo nuostatus ir paskirti filialo vadovą, taip pat šio organo rašytinį įsipareigojimą, kad įsteigtas filialas buhalterinės apskaitos ir kitus su filialo vykdoma veikla susijusius dokumentus tvarkys ir laikys filialo buveinėje;
+5) trečiosios valstybės draudimo ar perdraudimo įmonės organo sprendimą steigti filialą Lietuvos Respublikoje, patvirtinti filialo nuostatus ir paskirti filialo vadovą, taip pat šio organo rašytinį įsipareigojimą, kad įsteigtas filialas finansinės apskaitos ir kitus su filialo vykdoma veikla susijusius dokumentus tvarkys ir laikys filialo buveinėje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 
@@ -5237,6 +5245,13 @@ BENDROSIOS NUOSTATOS
 
 
 4. Šio skyriaus pirmojo, antrojo ir trečiojo skirsnių nuostatos, reglamentuojančios draudimo sutartinius santykius, išskyrus šio įstatymo 111 straipsnio nuostatą, dėl kurios netaikymo negalima susitarti, didelių draudimo rizikų draudimo sutartims taikomos tiek, kiek draudimo sutarties šalys nesusitarė kitaip.
+
+
+
+
+5. Šio skyriaus nuostatos netaikomos papildomos draudimo veiklos tarpininkams, atitinkantiems šio įstatymo 158 straipsnio 1 ar 2 dalyje nustatytas sąlygas.
+Papildyta straipsnio dalimi:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
  
 
 
@@ -5519,7 +5534,10 @@ Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 
 
 
-3. Sutarties galiojimo laikotarpiu draudikas nedelsdamas privalo pranešti ne gyvybės draudimo sutarties draudėjui apie bet kokį šio straipsnio 2 dalies 1 ir 2 punktuose nurodytos informacijos pasikeitimą. Jei draudėjas atlieka kokius nors mokėjimus, išskyrus draudimo įmokas ir numatytus mokėjimus pagal draudimo sutartį sudarius šią sutartį, draudikas arba draudimo tarpininkas taip pat atskleidžia informaciją pagal šio straipsnio 2 dalies 4 punktą apie kiekvieną tokį mokėjimą.
+3. Sutarties galiojimo laikotarpiu draudikas nedelsdamas privalo pranešti ne gyvybės draudimo sutarties draudėjui apie bet kokį šio straipsnio 2 dalies 1 ir 2 punktuose nurodytos informacijos pasikeitimą. Jei ne gyvybės draudimo sutarties galiojimo laikotarpiu draudėjas atlieka kokius nors mokėjimus, išskyrus draudimo įmokų mokėjimą ir numatytus mokėjimus pagal draudimo sutartį sudarius šią sutartį, draudikas arba draudimo tarpininkas taip pat atskleidžia informaciją, numatytą šio straipsnio 2 dalies 4 ir 5 punktuose, apie kiekvieną tokį mokėjimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 
@@ -6137,6 +6155,14 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 2) šio straipsnio 1 dalyje nurodytos informacijos pasikeitimą, jei keičiasi draudimo taisyklės ar teisė, taikoma draudimo sutarčiai.
 
 
+
+
+
+
+21. Jei gyvybės draudimo sutarties galiojimo laikotarpiu draudėjas atlieka kokius nors mokėjimus, išskyrus draudimo įmokų mokėjimą ir numatytus mokėjimus pagal gyvybės draudimo sutartį sudarius šią sutartį, draudikas arba draudimo tarpininkas taip pat atskleidžia informaciją, numatytą šio įstatymo 93 straipsnio 2 dalies 4 ir 5 punktuose, apie kiekvieną tokį mokėjimą.
+Papildyta straipsnio dalimi:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 
@@ -7698,7 +7724,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Papildomos draudimo veiklos tarpininkams, teikiantiems paslaugas, neatitinkančias šio straipsnio 1 ir 2 dalyse nustatytų sąlygų, taikomos tik šio įstatymo 1581 ir 1861 straipsnių nuostatos. 
+4. Neteko galios nuo 2023-05-31
+Straipsnio dalies naikinimas:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 Straipsnio pakeitimai:
@@ -7773,6 +7802,14 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 5. Šio straipsnio 1, 2 ir 3 dalyse nurodyta informacija neteikiama, kai sudaroma didelės draudimo rizikos draudimo sutartis, o sudarant sutartį dėl draudimo principu pagrįsto investicinio produkto neteikiama profesionaliam klientui, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme. 
+
+
+
+
+6. Vykdant kolektyvinį (grupinį) draudimą, kai su draudiku draudimo sutartį sudaręs asmuo siūlo tretiesiems asmenims už atlygį prisijungti prie šios draudimo sutarties, naudotis šia sutartimi teikiama draudimo apsauga ir gauti draudimo išmoką, šiam asmeniui mutatis mutandis taikomi šiame įstatyme draudimo produktų platintojams nustatyti reikalavimai, o prisijungusių asmenų (apdraustųjų) atžvilgiu mutatis mutandis taikomi šiame įstatyme nustatyti draudėjų teisių ir interesų apsaugos reikalavimai.
+Papildyta straipsnio dalimi:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 Papildyta straipsniu:
@@ -8692,7 +8729,9 @@ Draudimo brokerių rūmų organai yra visuotinis Draudimo brokerių rūmų nari�
 
 
 
-4. Draudimo brokerių rūmų administracijai vadovauja direktorius. Direktorių ir vyriausiąjį buhalterį (buhalterį) skiria Draudimo brokerių rūmų prezidiumas. Vyriausiojo buhalterio (buhalterio) pareigas gali atlikti ir apskaitos tvarkymo paslaugas teikiančios įmonės.
+4. Draudimo brokerių rūmų administracijai vadovauja direktorius. Direktorių ir finansinę apskaitą tvarkantį asmenį skiria Draudimo brokerių rūmų prezidiumas. Finansinę apskaitą tvarkančio asmens pareigas gali atlikti ir finansinės apskaitos paslaugas teikiantys subjektai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
  
 
 
@@ -11094,7 +11133,10 @@ priedas
 
 
 
-8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo.
+8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo su pakeitimais, padarytais 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2118.
+Punkto pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 
@@ -11337,3 +11379,8 @@ Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 17, 30, 39, 64 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-804, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27382
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 93, 200, 205 straipsnių ir priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 22, 52, 79, 90, 90-1, 93, 116, 158, 158-2, 161, 174 straipsnių ir priedo pakeitimo įstatymas
