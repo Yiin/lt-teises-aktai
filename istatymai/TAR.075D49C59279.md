@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2023-03-01 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 151-0; Žin. 1991, Nr.24-635, i. k. 0911010ISTA00I-1607
  
@@ -841,7 +841,10 @@ Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 
 
 
-2. Žemės reformos žemėtvarkos projektai, kuriuose projektuojami žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai, rengiami ir įgyvendinami valstybės lėšomis, o kitais atvejais – fizinių ar juridinių asmenų, užsienio organizacijų, juridinių asmenų ar užsienio organizacijų filialų lėšomis. Žemės reformos žemėtvarkos projektai, kuriuose suprojektuoti žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai, fizinių asmenų pageidavimu gali būti įgyvendinami jų lėšomis. Asmenų lėšomis atliekamų žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo darbų apmokėjimo tvarką nustato Vyriausybė.
+2. Žemės reformos žemėtvarkos projektai, kuriuose projektuojami žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai, rengiami ir įgyvendinami valstybės lėšomis, o kitais atvejais – fizinių ar juridinių asmenų, užsienio organizacijų, juridinių asmenų ar užsienio organizacijų filialų lėšomis, išskyrus Žemės įstatymo 22 straipsnio 2 dalies 8 punkte nustatytą atvejį. Žemės reformos žemėtvarkos projektai, kuriuose suprojektuoti žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai, fizinių asmenų pageidavimu gali būti įgyvendinami jų lėšomis. Asmenų lėšomis atliekamų žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo darbų apmokėjimo tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1878, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07543
+ 
 
 
 
@@ -1208,3 +1211,8 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 9, 10, 15, 16, 17, 18
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1711, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27301
 Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 15 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1878, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07543
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 19 straipsnio pakeitimo įstatymas
