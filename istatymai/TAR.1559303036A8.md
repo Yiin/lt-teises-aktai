@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2022-09-01 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2319; Žin. 1996, Nr.103-0, i. k. 0961010ISTA00I-1571
  
@@ -694,7 +694,10 @@ LRT organai yra Taryba ir LRT generalinis direktorius. LRT organų sudarymą, ko
 15 straipsnis. LRT etikos kontrolierius
 
 
-1. LRT etikos kontrolierius, vadovaudamasis teisėtumo, nešališkumo, teisingumo, nepriklausomumo ir viešumo principais, prižiūri, kaip LRT žurnalistai laikosi Visuomenės informavimo etikos kodekso, Europos Tarybos Parlamentinės Asamblėjos rezoliucijos dėl žurnalistikos etikos ir LRT žurnalistų etikos kodekse nustatytų pagrindinių profesinės etikos taisyklių bei principų, skatina laikytis profesinės etikos, pagal savo kompetenciją nagrinėja ir rengia atsakymus į asmenų skundus dėl žurnalistikos etikos taisyklių pažeidimo. 
+1. LRT etikos kontrolierius, vadovaudamasis teisėtumo, nešališkumo, teisingumo, nepriklausomumo ir viešumo principais, prižiūri, kaip LRT žurnalistai laikosi LRT žurnalistų etikos kodekse nustatytų pagrindinių profesinės etikos taisyklių bei principų, skatina laikytis profesinės etikos, pagal savo kompetenciją nagrinėja ir rengia atsakymus į asmenų skundus dėl žurnalistikos etikos taisyklių pažeidimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2019, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10705
+ 
 
 
 
@@ -773,7 +776,10 @@ LRT organai yra Taryba ir LRT generalinis direktorius. LRT organų sudarymą, ko
 1. LRT etikos kontrolierius:
 
 
-1) prižiūri, kaip LRT žurnalistai laikosi Visuomenės informavimo etikos kodekso, Europos Tarybos Parlamentinės Asamblėjos rezoliucijos dėl žurnalistikos etikos ir LRT žurnalistų etikos kodekse nustatytų pagrindinių profesinės etikos taisyklių ir principų; 
+1) prižiūri, kaip LRT žurnalistai laikosi LRT žurnalistų etikos kodekse nustatytų pagrindinių profesinės etikos taisyklių ir principų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2019, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10705
+ 
 
 
 
@@ -793,7 +799,10 @@ LRT organai yra Taryba ir LRT generalinis direktorius. LRT organų sudarymą, ko
 
 
 
-5) vertina LRT žurnalistų veiklą vadovaudamasis Visuomenės informavimo etikos kodeksu, Europos Tarybos Parlamentinės Asamblėjos rezoliucija dėl žurnalistikos etikos ir LRT žurnalistų etikos kodeksu, atsižvelgdamas į faktinį jų veiklos turinį, kuris apima LRT programose, visuomenės informavimo priemonėse skelbiamą informaciją;
+5) vertina LRT žurnalistų veiklą vadovaudamasis LRT žurnalistų etikos kodeksu, atsižvelgdamas į faktinį jų veiklos turinį, kuris apima LRT programose, visuomenės informavimo priemonėse skelbiamą informaciją;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2019, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10705
+ 
 
 
 
@@ -1202,3 +1211,8 @@ Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1387, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15858
 Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2019, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10705
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 15 ir 16 straipsnių pakeitimo įstatymas
