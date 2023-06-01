@@ -21,14 +21,9 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
  
 
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
- 
-TAR pastaba. Įstatymu Nr. XIV-1311 keičiamos 2023-04-01 įsigaliojančios  nuostatos  pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
-Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas
  
 Nauja redakcija nuo 2023-01-04:
 Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
@@ -67,7 +62,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Karinės infrastruktūros projektas – karinei infrastruktūrai reikalingas žemės valdos projektas, nustatantis valstybinės žemės sklypo (-ų) formavimą, pertvarkymą ir (ar) naudojimo sąlygas (paskirtį, naudojimo būdą, servitutus).
+1. Karinės infrastruktūros projektas – karinei infrastruktūrai reikalingas žemės valdos projektas, kuriame nustatomas žemės sklypo (-ų) formavimas, pertvarkymas, paėmimas visuomenės poreikiams, naudojimo sąlygos (paskirtis, naudojimo būdas, servitutai).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1929, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09515
+ 
 
 
 
@@ -996,7 +994,9 @@ Bendroji dalinė valstybės ir savivaldybių arba kitų asmenų žemės nuosavyb
 
 
 
-3. Perduotuose naudotis ar išnuomotuose valstybinės žemės sklypuose, valstybinės žemės plotuose, kuriuose nesuformuoti žemės sklypai, jų patikėtinių ir naudotojų lėšomis atliekami žemės sklypų formavimo, žemės tvarkymo darbai, būtini šiems žemės sklypams naudoti pagal teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytą pagrindinę žemės naudojimo paskirtį (kelių tiesimas, melioracijos sistemų rekonstrukcija ir kiti darbai).
+3. Perduotuose naudotis ar išnuomotuose valstybinės žemės sklypuose, valstybinės žemės plotuose, kuriuose nesuformuoti žemės sklypai, jų patikėtinių ir naudotojų lėšomis atliekami žemės sklypų formavimo (išskyrus šio įstatymo 22 straipsnio 2 dalies 8 punkte nustatytą atvejį), žemės tvarkymo darbai, būtini šiems žemės sklypams naudoti pagal teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytą pagrindinę žemės naudojimo paskirtį (kelių tiesimas, melioracijos sistemų rekonstrukcija ir kiti darbai).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1877, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07542
  
 
 
@@ -1326,9 +1326,25 @@ IV skyrius
 
 
 
-7) valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, kai įgyvendinant ypatingos valstybinės svarbos projektą numatomas servitutas, suteikiantis teisę tiesti inžinerinius tinklus ar kelius bei takus, jais naudotis ir juos prižiūrėti.
+7) valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, kai įgyvendinant ypatingos valstybinės svarbos projektą numatomas servitutas, suteikiantis teisę tiesti inžinerinius tinklus ar kelius bei takus, jais naudotis ir juos prižiūrėti;
 
 
+
+
+8) valstybinės žemės sklypams, taip pat savivaldybių ir privačios žemės sklypams, jeigu šiuos valstybinės žemės sklypus išnuomojant, perduodant neatlygintinai naudotis ar patikėjimo teise valdyti, o savivaldybių ir privačios žemės sklypus perleidžiant iš valstybės į savivaldybės ar privačią nuosavybę bei atkuriant nuosavybės teises, teritorijų planavimo dokumento ar žemės valdos projekto rengimo metu nebuvo suprojektuoti sprendiniai dėl patekimo per šiuos žemės sklypus į kitą žemės sklypą ar statinį arba sprendiniai buvo suprojektuoti, tačiau nebuvo priimti administraciniai aktai, reikalingi šiems sprendiniams įgyvendinti. 
+Papildyta straipsnio punktu:
+Nr. XIV-1877, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07542
+ 
+
+
+
+
+
+
+21. Savivaldybių ir privačios žemės sklypams servitutai administraciniu aktu nustatomi tik tada, kai servitutas negali būti suprojektuotas laisvos valstybinės žemės fondo žemei (tais atvejais, kai viešpataujančiuoju tampantis daiktas nesiriboja su laisvos valstybinės žemės fondo žeme arba ribojasi su ja, bet dėl laisvoje valstybinėje žemėje esančių šlaitų, griovių, pelkėtų vietų, miško ar kitų vietovės ypatumų servituto nustatymas šiai žemei neužtikrintų tinkamo viešpataujančiuoju tampančio daikto naudojimo pagal paskirtį). Teritorijų planavimo dokumentų arba žemės valdos projektų ir žemės sklypų planų rengimas šio straipsnio 2 dalies 8 punkte nustatytu atveju finansuojamas valstybės ir (ar) savivaldybių biudžetų lėšomis Vyriausybės nustatyta tvarka. Fizinių ir (ar) juridinių asmenų pageidavimu teritorijų planavimo dokumentai arba žemės valdos projektai ir žemės sklypų planai gali būti rengiami jų lėšomis.
+Papildyta straipsnio dalimi:
+Nr. XIV-1877, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07542
+ 
 
 
 
@@ -1394,14 +1410,6 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 2. Sprendimą pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą tvirtinanti institucija kartu su sprendimu patvirtinti detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą, o urbanizuotoje ir urbanizuojamoje teritorijoje, kuriai detalieji planai neparengti, sprendimą pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, priima meras. Pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo tvarką ir sąlygas nustato Vyriausybė. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1311, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15638
- 
-
-
-
-
-3. Sprendimą pakeisti valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima Vyriausybė, tvirtindama karinės infrastruktūros projektą. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
  
 
 
@@ -1743,8 +1751,6 @@ Kitos paskirties žemei priskiriami žemės sklypai, kurie pagal teritorijų pla
 
 
 14) atskirųjų želdynų teritorijas.
- 
- 
  
  
 
@@ -2660,7 +2666,15 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-7) suformuojami nauji valstybinės žemės sklypai, išskyrus atvejus, kai sklypai formuojami Žemės reformos įstatymo nustatyta tvarka.
+7) suformuojami nauji valstybinės žemės sklypai, išskyrus atvejus, kai sklypai formuojami Žemės reformos įstatymo nustatyta tvarka;
+
+
+
+
+8) kai nustatomi servitutai šio įstatymo 22 straipsnio 2 dalies 8 punkte nustatytu atveju.
+Papildyta straipsnio punktu:
+Nr. XIV-1877, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07542
+ 
 
 
 
@@ -2911,7 +2925,10 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-2. Valstybinės ir savivaldybės žemės sklypų formavimo ir pertvarkymo projektai rengiami projektą organizavusių asmenų lėšomis. Valstybinės žemės sklypų formavimo ir pertvarkymo projektai Vyriausybės nustatytais atvejais rengiami asmenų, naudojančių arba pageidaujančių įsigyti žemės sklypus ar norinčių naudotis šiais žemės sklypais, lėšomis. Privačių žemės sklypų formavimo ir pertvarkymo projektai rengiami žemės sklypų savininkų lėšomis.
+2. Valstybinės ir savivaldybės žemės sklypų formavimo ir pertvarkymo projektai rengiami projektą inicijavusių asmenų lėšomis. Valstybinės žemės sklypų formavimo ir pertvarkymo projektai Vyriausybės nustatytais atvejais rengiami asmenų, naudojančių arba pageidaujančių įsigyti žemės sklypus ar norinčių naudotis šiais žemės sklypais, lėšomis. Privačių žemės sklypų formavimo ir pertvarkymo projektai rengiami žemės sklypų savininkų lėšomis, išskyrus šio įstatymo 22 straipsnio 2 dalies 8 punkte nustatytą atvejį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1877, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07542
+ 
 
 
 
@@ -3053,7 +3070,9 @@ VIII skyrius
 
 
 
-3. Vyriausybės teikimu Lietuvos Respublikos Seimas gali pripažinti tam tikrą energetikos infrastruktūros, transporto infrastruktūros ar krašto apsaugos sričių projektą ypatingos valstybinės svarbos projektu. Kai žemės paėmimas visuomenės poreikiams yra reikalingas tokiam ypatingos valstybinės svarbos projektui įgyvendinti, vadovaujamasi Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymu. Tokiais atvejais šio skyriaus nuostatos ir jas įgyvendinantys šio įstatymo įgyvendinamieji teisės aktai netaikomi.
+3. Vyriausybės teikimu Lietuvos Respublikos Seimas gali pripažinti tam tikrą energetikos infrastruktūros, transporto infrastruktūros ar krašto apsaugos sričių projektą ypatingos valstybinės svarbos projektu. Pagal Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymą ypatingos valstybinės svarbos projektais taip pat yra laikomi ir karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti ir įtrauktos į Vyriausybės pagal Mobilizacijos ir priimančiosios šalies paramos įstatymą patvirtintą sąrašą, pritaikymo ir (ar) sukūrimo projektai. Kai žemės paėmimas visuomenės poreikiams yra reikalingas ypatingos valstybinės svarbos projektui įgyvendinti, vadovaujamasi Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymu. Tokiais atvejais šio skyriaus nuostatos ir jas įgyvendinantys šio įstatymo įgyvendinamieji teisės aktai netaikomi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1929, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09515
  
 
 
@@ -4095,3 +4114,13 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1877, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07542
+Lietuvos Respublikos žemės įstatymo Nr. I-446 13, 22, 40 ir 42 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1929, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09515
+Lietuvos Respublikos žemės įstatymo Nr. I-446 2 ir 45 straipsnių pakeitimo įstatymas
