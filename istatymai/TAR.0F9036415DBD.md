@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-07-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -740,9 +740,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-3) išmokų už buto nuomą, elektros, šiluminę energiją, karštą ir šaltą vandenį, komunalines ir ryšių paslaugas, asmeninio transporto naudojimą, darbuotojų maitinimą ir išmokų, skirtų kompensuoti išlaidas darbuotojams, kurių darbas atliekamas kelionėje, lauko sąlygomis, susijęs su važiavimu arba yra kilnojamojo pobūdžio, mokamų įstatymuose nustatyto dydžio ir nustatytais atvejais; 
+3) įstatymuose nustatyto dydžio ir nustatytais atvejais mokamų išmokų už buto nuomą, elektros, šiluminę energiją, karštą ir šaltą vandenį, komunalines ir ryšių paslaugas, asmeninio transporto naudojimą, darbuotojų maitinimą ir išmokų, skirtų darbuotojų, kurių darbas atliekamas kelionėje, susijęs su važiavimu, išlaidoms kompensuoti;
 Straipsnio punkto pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+Nr. XIV-1188, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15175
  
 
 
@@ -3735,3 +3736,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1302, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15629
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2 straipsnio pakeitimo įstatymas
+ 
+49.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1188, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15175
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 11 straipsnio pakeitimo įstatymas
