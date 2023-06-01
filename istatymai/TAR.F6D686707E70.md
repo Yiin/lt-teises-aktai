@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-08-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -5702,10 +5702,11 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-144 straipsnis. Mokėjimas už darbą poilsio ir švenčių dienomis, viršvalandinį darbą ir kompensacijos darbuotojams, kurių darbas yra kilnojamojo pobūdžio arba atliekamas lauko sąlygomis, arba susijęs su kelionėmis ar važiavimu 
+144 straipsnis. Mokėjimas už darbą poilsio ir švenčių dienomis, viršvalandinį darbą ir darbą, kai yra nukrypimų nuo normalių darbo sąlygų, taip pat kai padidinamas darbuotojo darbo mastas 
 Pakeistas straipsnio pavadinimas:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
  
 
 
@@ -5744,7 +5745,9 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 
-8. Darbuotojams, kurių darbas yra kilnojamojo pobūdžio arba atliekamas lauko sąlygomis, arba susijęs su kelionėmis ar važiavimu, kompensuojamos su tuo susijusios padidėjusios išlaidos už faktiškai tokio pobūdžio dirbtą darbo laiką. Šių kompensacijų dydis negali viršyti 30 procentų bazinio (tarifinio) darbo užmokesčio ir jos mokamos tuo atveju, kai darbuotojui neapmokamos komandiruotės išlaidos.
+8. Neteko galios nuo 2023-06-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 Papildyta straipsnio dalimi:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 Straipsnio dalies pakeitimai:
