@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CE3B174CA7E6"
 
 # Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas
 
-Suvestinė redakcija nuo 2023-05-16 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-11-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1909, i. k. 0981010ISTAVIII-822
  
@@ -315,6 +315,39 @@ Nr. XIV-1932, 2023-05-09, paskelbta TAR 2023-05-15, i. k. 2023-09151
 
 
 
+91 straipsnis. Individualių mokymosi paskyrų sistema
+
+
+1. Individualių mokymosi paskyrų sistema – vieno langelio principu veikianti vieninga tarpinstitucinė sistema, kurioje teikiami pasiūlymai mokytis pagal neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, galimybės pretenduoti į valstybės institucijų skiriamą finansavimą neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programoms ir profesinio orientavimo paslaugos asmenims, siekiantiems tobulinti kompetencijas ir (arba) jų įgyti. Individualių mokymosi paskyrų sistemoje subendrinamas visų neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi sistemoje veikiančių institucijų skiriamas finansavimas ir valdoma informacija apie neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas bei įgytas kompetencijas.
+
+
+
+
+2. Individualių mokymosi paskyrų sistemoje skelbiamos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programos, kurios atitinka šio įstatymo 10 straipsnyje nustatytos kokybės užtikrinimo tvarkos reikalavimus, įskaitant neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, kurias baigus įgyjamos kvalifikacijos ir kompetencijos, įtrauktos į aukštą pridėtinę vertę kuriančių kvalifikacijų ir kompetencijų sąrašą, tvirtinamą Užimtumo įstatyme nustatyta tvarka. 
+
+
+
+
+3. Švietimo, mokslo ir sporto ministras, suderinęs su socialinės apsaugos ir darbo ministru bei ekonomikos ir inovacijų ministru, nustato Individualių mokymosi paskyrų sistemos administravimo ir asmenų, siekiančių tobulinti kompetencijas ir (arba) jų įgyti per šią sistemą, finansavimo tvarką bei konkurso gauti finansavimą, skiriamą dalyvauti neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programose, organizavimo tvarką. Individualių mokymosi paskyrų informacinę sistemą administruoja švietimo, mokslo ir sporto ministro įgaliota įstaiga.
+
+
+
+
+4. Individualių mokymosi paskyrų sistemai valdyti švietimo, mokslo ir sporto ministras sudaro valdymo grupę, tvirtina jos nuostatus ir personalinę sudėtį.
+
+
+
+
+5. Švietimo, mokslo ir sporto ministro siūlymu Vyriausybė, įvertinusi Vyriausybės sudarytos komisijos, koordinuojančios nacionalinės žmogiškųjų išteklių stebėsenos vykdymą, išvadą (rekomendacijas), ne rečiau nei kartą per dvejus metus, bet ne vėliau nei iki tam tikrų metų gegužės 1 dienos tvirtina ministerijų ir jų administruojamų neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi finansavimo priemonių, įtraukiamų į Individualių mokymosi paskyrų sistemą, sąrašą ir prioritetines Individualių mokymosi paskyrų sistemoje teikiamų valstybės finansuojamų programų sritis, prioritetines asmenų grupes. 
+
+
+Papildyta straipsniu:
+Nr. XIV-1932, 2023-05-09, paskelbta TAR 2023-05-15, i. k. 2023-09151
+ 
+
+
+
+
 10 straipsnis. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi kokybės užtikrinimas
 
 
@@ -331,9 +364,11 @@ Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
 
 
 
-3. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjų, finansuojamų iš valstybės ir (arba) savivaldybių biudžetų lėšų, veiklos įsivertinimas atliekamas švietimo teikėjui pasirenkant įsivertinimo sritis, metodiką, analizuojant įsivertinimo rezultatus ir priimant sprendimus dėl veiklos tobulinimo. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjų, finansuojamų iš valstybės ir (arba) savivaldybių biudžetų lėšų, veiklos išorinio vertinimo tvarką nustato valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų, švietimo teikėjų – savininkas (dalyvių susirinkimas), atsižvelgdami į šias kokybės vertinimo sritis: mokymo programų vertinimo, mokymo paslaugų viešinimo vertinimo, vadybinio (organizacinio) vertinimo, projektinės veiklos vertinimo, švietimo teikėjo vadovo ir kitų darbuotojų kvalifikacijos vertinimo.
+3. Individualių mokymosi paskyrų sistemoje skelbiamų neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programų kokybės užtikrinimo tvarką nustato švietimo, mokslo ir sporto ministras. 
 Papildyta straipsnio dalimi:
 Nr. XII-2675, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25272
+Straipsnio dalies pakeitimai:
+Nr. XIV-1932, 2023-05-09, paskelbta TAR 2023-05-15, i. k. 2023-09151
  
 
 
@@ -496,7 +531,7 @@ NEFORMALIOJO SUAUGUSIŲJŲ ŠVIETIMO ir tęstinio mokymosi FINANSAVIMAS IR RĖMI
 1. Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi finansavimo šaltiniai:
 
 
-1) valstybės ir savivaldybių biudžetų lėšos;
+1) valstybės biudžeto ir savivaldybių biudžetų lėšos;
 
 
 
@@ -511,45 +546,39 @@ NEFORMALIOJO SUAUGUSIŲJŲ ŠVIETIMO ir tęstinio mokymosi FINANSAVIMAS IR RĖMI
 
 
 
-4) kitos lėšos. 
+4) kitos lėšos.
 
 
 
 
 
 
-2. Valstybės ir savivaldybių biudžetų lėšos skiriamos:
+2. Valstybės biudžeto ir savivaldybių biudžetų lėšos skiriamos:
 
 
-1) suaugusiųjų, kurie mokosi pagal suaugusiųjų formaliojo švietimo programas suaugusiųjų bendrojo ugdymo mokykloje, mokymuisi finansuoti pagal Vyriausybės patvirtintą mokinio krepšelio metodiką;
-
-
-
-
-2) suaugusiųjų, kurie mokosi pagal neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, mokymuisi finansuoti pagal Vyriausybės patvirtintas finansavimo metodikas;
+1) suaugusiųjų, kurie mokosi pagal neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, mokymuisi finansuoti pagal Vyriausybės patvirtintą finansavimo metodiką;
 
 
 
 
-3) nacionalinėse plėtros programose suplanuotoms neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi priemonėms ir jų įgyvendinimo projektams finansuoti.
-Straipsnio punkto pakeitimai:
-Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
+2) nacionalinėse plėtros programose suplanuotoms neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi priemonėms ir jų įgyvendinimo projektams finansuoti.
+
+
+
+
+
+
+3. Lėšos valstybės tarnautojų, kitų biudžetinių įstaigų darbuotojų profesinei kvalifikacijai tobulinti skiriamos iš valstybės biudžeto ir (arba) savivaldybių biudžetų.
+
+
+
+
+4. Valstybės finansavimas skiriamas asmenims, patenkantiems į prioritetines valstybės finansavimą galinčių gauti asmenų grupes ir besimokantiems pagal neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programas, atitinkančias prioritetines sritis, nustatomas pagal šio įstatymo 91 straipsnio 5 dalį. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1932, 2023-05-09, paskelbta TAR 2023-05-15, i. k. 2023-09151
  
-
-
-
-
-
-
-3. Lėšos valstybės tarnautojų, kitų biudžetinių įstaigų darbuotojų profesinei kvalifikacijai tobulinti skiriamos iš valstybės ir (arba) savivaldybių biudžetų įstatymų ar ministrų pagal valdymo sritį teisės aktų nustatyta tvarka.
-
-
-
-
-4. Darbdavys, skyręs lėšų darbuotojų neformaliajam švietimui ir tęstiniam mokymuisi, kvalifikacijai tobulinti, Vyriausybės nustatyta tvarka gali gauti valstybės paramą patirtoms išlaidoms iš dalies finansuoti.
- 
-
-
 
 
 
