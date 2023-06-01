@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2022-12-01 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
+ 
+TAR pastaba. Įstatymo 6 straipsnio 10 punkto ir 7 straipsnio 1 dalies 5 punkto nuostatos netaikomos iki įstatymo Nr. XIV-1931 įsigaliojimo (2023-06-01) patvirtintam karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašui, išskyrus atvejus, kai, įsigaliojusius šiam įstatymui, šis sąrašas yra keičiamas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1931, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09519
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 6 ir 7 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2021-01-01:
 Nr. XIII-3228, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15862
@@ -334,9 +339,11 @@ Vyriausybė:
 
 
 
-10) tvirtina karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašą, kuriame nurodoma priimančiosios šalies paramai užtikrinti reikalinga karinė infrastruktūra, jos paskirtis, jos pritaikymui ir (ar) sukūrimui reikalinga teritorija ar žemės sklypai, nuosavybės teise priklausantys valstybei, ir vieta Lietuvos regione. Teritorija, reikalinga karinei infrastruktūrai pritaikyti ir (ar) sukurti, parenkama įvertinus urbanizuotas teritorijas, kraštovaizdį, gamtos ir kultūros paveldą, suderinus tose teritorijose vykdomas veiklas su veiklomis, vykdomomis karinėse teritorijose; 
+10) atsižvelgdama į neatidėliotiną visuomenės poreikį plėsti pasirengimą krašto gynybai, tvirtina karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašą, kuriame nurodoma priimančiosios šalies paramai užtikrinti reikalinga karinė infrastruktūra, jos paskirtis, jos pritaikymui ir (ar) sukūrimui reikalinga teritorija ir jos dydis ir (ar) žemės sklypai ir vieta Lietuvos regione. Teritorija, reikalinga karinei infrastruktūrai pritaikyti ir (ar) sukurti, jos dydis ir (ar) žemės sklypai ir vieta Lietuvos regione parenkama įvertinus konkrečiai karinei infrastruktūrai reikalingus specialiuosius karinius reikalavimus (operacinius, logistinius, infrastruktūros išdėstymo), urbanizuotas teritorijas, kraštovaizdį, gamtos ir kultūros paveldą, suderinus tose teritorijose vykdomas veiklas su veiklomis, vykdomomis karinėse teritorijose, ir veiklomis, vykdomomis besiribojančiose teritorijose, pirmumą teikiant valstybinės žemės plotams, kuriuose nesuformuoti žemės sklypai, ir (ar) žemės sklypams, nuosavybės teise priklausantiems valstybei, stengiantis į teritoriją neįtraukti privačios žemės sklypų, o jeigu įvertinus alternatyvias teritorijas privačios žemės sklypų įtraukimas į teritoriją neišvengiamas, – stengiantis į teritoriją įtraukti kuo mažesnį privačios žemės sklypų plotą;
 Papildyta straipsnio punktu:
 Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
+Straipsnio punkto pakeitimai:
+Nr. XIV-1931, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09519
  
 
 
@@ -380,9 +387,11 @@ Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
 
 
 
-5) rengia ir, suderinusi su Lietuvos Respublikos aplinkos ministerija, teikia Vyriausybei tvirtinti karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašą; 
+5) rengia ir, suderinusi su Lietuvos Respublikos aplinkos ministerija, teikia Vyriausybei tvirtinti karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašą kartu su motyvuotu karinės infrastruktūros ir jai pritaikyti ir (ar) sukurti reikalingos teritorijos pagrindimu, kuriame detaliai aprašomas šio įstatymo 6 straipsnio 10 punkte nurodytų kriterijų įvertinimas;
 Papildyta straipsnio punktu:
 Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
+Straipsnio punkto pakeitimai:
+Nr. XIV-1931, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09519
  
 
 
@@ -1524,4 +1533,9 @@ Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1931, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09519
 Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 6 ir 7 straipsnių pakeitimo įstatymas
