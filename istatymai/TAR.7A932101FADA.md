@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
  
@@ -159,7 +159,10 @@ Nr. XIII-2935, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10938
 4 straipsnis. Valstybinės žemės ūkio paskirties žemės įsigijimas 
 
 
-1. Laisva valstybinė žemės ūkio paskirties žemė neparduodama, išskyrus šio straipsnio 2 dalyje nurodytus atvejus. Šio straipsnio 2 dalyje įvardyta valstybinė žemės ūkio paskirties žemė, dėl kurios pagal įstatymus, reglamentuojančius piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimą, nepateikti prašymai atkurti nuosavybės teises ją perduodant nuosavybėn neatlygintinai, parduodama suformavus žemės ūkio paskirties žemės sklypus teritorijų planavimo dokumentuose ar žemės valdos projektuose Žemės reformos įstatymo nustatyta tvarka.
+1. Laisva valstybinė žemės ūkio paskirties žemė neparduodama, išskyrus šio straipsnio 2 dalyje nurodytus atvejus. Šio straipsnio 2 dalyje įvardyta valstybinė žemės ūkio paskirties žemė, dėl kurios pagal įstatymus, reglamentuojančius piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimą, nepateikti prašymai atkurti nuosavybės teises ją perduodant nuosavybėn neatlygintinai, parduodama suformavus žemės ūkio paskirties žemės sklypus teritorijų planavimo dokumentuose ar žemės valdos projektuose Žemės reformos įstatymo nustatyta tvarka. Teritorijose, kuriose pagal savivaldybės lygmens ir vietovės lygmens bendruosius planus valstybinė žemės ūkio paskirties žemė numatyta naudoti ne žemės ūkio veiklai, šio straipsnio 2 dalies 3 punkte įvardyta valstybinė žemės ūkio paskirties žemė asmenims neparduodama. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1899, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08465
+ 
 
 
 
@@ -177,9 +180,10 @@ Nr. XIII-2935, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10938
 
 
 
-3) privačių žemės sklypų savininkai – tarp jų nuosavybės teise valdomų žemės sklypų įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, ne didesnius kaip 3 ha. Pirmumo teisė pirkti įsiterpusį valstybinės žemės ūkio paskirties žemės plotą taikoma jį nuomojančiam ar laikinai naudojančiam besiribojančio žemės sklypo savininkui. 
+3) privačių žemės sklypų savininkai – tarp jų nuosavybės teise valdomų žemės sklypų įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, ne didesnius kaip 3 ha, taip pat tarp jų nuosavybės teise valdomų žemės sklypų ir stabilių kraštovaizdžio objektų (kelių (gatvių), geležinkelių, miškų sklypų (plotų), vandens telkinių) įsiterpusius valstybinės žemės ūkio paskirties žemės plotus, ne didesnius kaip 3 ha, jeigu šiuose plotuose negalima suformuoti atskirų žemės sklypų arba žemės sklypų su privažiuojamaisiais keliais, išskyrus Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio 7 dalyje ir Žemės reformos įstatymo 8 straipsnio 6 dalyje nurodytus valstybinės žemės plotus. Įsiterpusiu valstybinės žemės ūkio paskirties žemės sklypu nelaikomas žemės sklypas, kuris ribojasi su laisvos valstybinės žemės plotu, nesuformuotu kaip atskiras valstybinės žemės sklypas. Pirmumo teisė pirkti įsiterpusį valstybinės žemės ūkio paskirties žemės plotą taikoma jį nuomojančiam ar laikinai naudojančiam besiribojančio žemės sklypo savininkui.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2465, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17211
+Nr. XIV-1899, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08465
  
 
 
@@ -508,3 +512,8 @@ Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1314, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15642
 Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 3, 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1899, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08465
+Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 straipsnio pakeitimo įstatymas
