@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2023-05-05 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-07-05
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -4312,7 +4312,10 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 
 
 
-4. Kai pagrįstai manoma, kad įtariamasis darys naujus nusikaltimus, suėmimas gali būti paskirtas, jei yra duomenų, jog asmuo, įtariamas padaręs vieną ar kelis labai sunkius ar sunkius nusikaltimus arba Lietuvos Respublikos baudžiamojo kodekso 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje numatytus apysunkius nusikaltimus, iki nuosprendžio priėmimo gali padaryti naujų labai sunkių, sunkių ar šioje dalyje nurodytų apysunkių nusikaltimų, taip pat jei yra duomenų, kad būdamas laisvėje asmuo, įtariamas grasinimu ar pasikėsinimu padaryti nusikaltimą, gali tą nusikaltimą padaryti.
+4. Kai pagrįstai manoma, kad įtariamasis darys naujus nusikaltimus, suėmimas gali būti paskirtas, jei yra duomenų, jog asmuo, įtariamas padaręs vieną ar kelis labai sunkius ar sunkius nusikaltimus arba Lietuvos Respublikos baudžiamojo kodekso 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 199 straipsnio 2 dalyje, 1991 straipsnio 2 dalyje, 1992 straipsnio 2 dalyje, 200 straipsnio 2 dalyje, 207 straipsnio 2 dalyje, 2532 straipsnio 1 dalyje, 2601 straipsnio 2 dalyje, 2661 straipsnio 1 dalyje, 2672 straipsnio 1 dalyje ir 2764 straipsnio 1 dalyje numatytus apysunkius nusikaltimus, iki nuosprendžio priėmimo gali padaryti naujų labai sunkių, sunkių ar šioje dalyje nurodytų apysunkių nusikaltimų, taip pat jei yra duomenų, kad būdamas laisvėje asmuo, įtariamas grasinimu ar pasikėsinimu padaryti nusikaltimą, gali tą nusikaltimą padaryti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1927, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08477
+ 
 
 
 
@@ -5508,9 +5511,10 @@ Nr. XIV-700, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25129
 
 
 
-7. Baudžiamosiose bylose dėl apysunkių nusikaltimų, numatytų Lietuvos Respublikos baudžiamojo kodekso 189 straipsnio 1 ir 2 dalyse, sunkių ar labai sunkių nusikaltimų arba baudžiamosiose bylose, kuriose pareikštas civilinis ieškinys dėl nusikalstama veika padarytos žalos atlyginimo, arba kai įtariamasis yra pasislėpęs, laikino nuosavybės teisės apribojimo termino pratęsimų skaičius neribojamas.
+7. Baudžiamosiose bylose dėl apysunkių nusikaltimų, numatytų Lietuvos Respublikos baudžiamojo kodekso 178 straipsnio 3 dalyje, 182 straipsnio 2 dalyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 1891 straipsnio 1 dalyje, 199 straipsnio 2 dalyje, 1991 straipsnio 2 dalyje, 1992 straipsnio 2 dalyje, 200 straipsnio 2 dalyje, 206 straipsnio 3 dalyje, 207 straipsnio 2 dalyje, 220 straipsnio 1 dalyje, 222 straipsnio 1 dalyje, 246 straipsnio 2 dalyje, 2532 straipsnio 1 dalyje, 2601 straipsnio 2 dalyje, 2661 straipsnio 1 dalyje, 2672 straipsnio 1 dalyje ir 2764 straipsnio 1 dalyje, sunkių ar labai sunkių nusikaltimų arba baudžiamosiose bylose, kuriose pareikštas civilinis ieškinys dėl nusikalstama veika padarytos žalos atlyginimo, arba kai įtariamasis yra pasislėpęs, laikino nuosavybės teisės apribojimo termino pratęsimų skaičius neribojamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-700, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25129
+Nr. XIV-1927, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08477
  
 
 
@@ -6170,10 +6174,11 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 167 straipsnis. Ikiteisminio tyrimo pradžia tik pagal nukentėjusiojo skundą ar jo teisėto atstovo pareiškimą, ar prokuroro reikalavimą
 
 
-1. Dėl nusikalstamų veikų, numatytų Lietuvos Respublikos baudžiamojo kodekso 139 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 145, 148, 1481 straipsniuose, 149 straipsnio 1 dalyje, 150 straipsnio 1 dalyje, 151 straipsnio 1 dalyje, 152, 154, 165, 168 straipsniuose, 178 straipsnio 1 ir 4 dalyse, 179 straipsnio 1 ir 3 dalyse, 182 straipsnio 1 ir 3 dalyse, 183 straipsnio 1 ir 3 dalyse, 184 straipsnio 1 ir 3 dalyse, 186 straipsnyje, 187 straipsnio 1 ir 3 dalyse, 188 straipsnyje, 294 straipsnio 1 dalyje, 313 straipsnyje, ikiteisminis tyrimas pradedamas tik tuo atveju, kai yra nukentėjusiojo skundas ar jo teisėto atstovo pareiškimas. Šiais atvejais procesas vyksta bendra tvarka. 
+1. Dėl nusikalstamų veikų, numatytų Lietuvos Respublikos baudžiamojo kodekso 139 straipsnio 1 dalyje, 140 straipsnio 1 dalyje, 145, 148, 1481 straipsniuose, 149 straipsnio 1 dalyje, 150 straipsnio 1 dalyje, 151 straipsnio 1 dalyje, 152, 154, 165, 168 straipsniuose, 178 straipsnio 1 ir 5 dalyse, 179 straipsnio 1 ir 3 dalyse, 182 straipsnio 1 ir 4 dalyse, 183 straipsnio 1 ir 4 dalyse, 184 straipsnio 1 ir 4 dalyse, 187 straipsnio 1 ir 3 dalyse, 188 straipsnyje, 294 straipsnio 1 dalyje, 313 straipsnyje, ikiteisminis tyrimas pradedamas tik tuo atveju, kai yra nukentėjusiojo skundas ar jo teisėto atstovo pareiškimas. Šiais atvejais procesas vyksta bendra tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 Nr. XIV-786, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27363
+Nr. XIV-1927, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08477
  
 
 
@@ -8335,7 +8340,10 @@ Apylinkės teismui teismingos visos baudžiamosios bylos, išskyrus tas, kurios 
 225 straipsnis. Apygardos teismui teismingos baudžiamosios bylos
 
 
-1. Apygardos teismui teismingos baudžiamosios bylos, kuriose asmenys kaltinami padarę sunkius ir labai sunkius nusikaltimus, išskyrus bylas, kuriose asmenys kaltinami padarę nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 135 straipsnio 1 dalyje, 149 straipsnio 1, 2 ir 3 dalyse, 150 straipsnio 1, 2 ir 3 dalyse, 178 straipsnio 3 dalyje, 180 straipsnio 2 ir 3 dalyse, 182 straipsnio 2 dalyje ir 260 straipsnio 1 ir 2 dalyse, taip pat bylos, kuriose kaltinamieji nusikalstamos veikos padarymo metu buvo Respublikos Prezidentu, Seimo ar Vyriausybės nariais, Konstitucinio Teismo teisėjais, teisėjais ar prokurorais.
+1. Apygardos teismui teismingos baudžiamosios bylos, kuriose asmenys kaltinami padarę sunkius ir labai sunkius nusikaltimus, išskyrus bylas, kuriose asmenys kaltinami padarę nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 135 straipsnio 1 dalyje, 149 straipsnio 1, 2 ir 3 dalyse, 150 straipsnio 1, 2 ir 3 dalyse, 178 straipsnio 4 dalyje, 180 straipsnio 2 ir 3 dalyse, 182 straipsnio 3 dalyje ir 260 straipsnio 1 ir 2 dalyse, taip pat bylos, kuriose kaltinamieji nusikalstamos veikos padarymo metu buvo Respublikos Prezidentu, Seimo ar Vyriausybės nariais, Konstitucinio Teismo teisėjais, teisėjais ar prokurorais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1927, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08477
+ 
 
 
 
@@ -15876,7 +15884,7 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-part_b80b968148364c03a2f52d324e317c7b_end
+part_8365e57c40d24b8bb80357fadb0170ae_end
 
 
  
@@ -16712,3 +16720,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 362 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1903, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08469
 Lietuvos Respublikos baudžiamojo proceso kodekso 308 straipsnio pakeitimo įstatymas
+ 
+69.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1927, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08477
+Lietuvos Respublikos baudžiamojo proceso kodekso 122, 151, 167 ir 225 straipsnių pakeitimo įstatymas
