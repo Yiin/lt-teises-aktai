@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2023-05-03 iki 2023-05-31
+Suvestinė redakcija nuo 2023-06-01 iki 2023-08-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -897,6 +897,14 @@ Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
 
 
 
+3) nuomojama valstybės arba savivaldybės elektroninių ryšių infrastruktūra, skirta šalies gynybai ar saugumui užtikrinti, ir tai nekelia grėsmės nacionalinio saugumo interesams. Vertinimo, ar dėl materialiojo turto nuomos kyla grėsmių šalies gynybos ar saugumo funkcijų vykdymui, tvarką nustato Vyriausybė.
+Papildyta straipsnio punktu:
+Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
+ 
+
+
+
+
 
 
 2. Valstybės arba savivaldybės ilgalaikis materialusis turtas išnuomojamas viešo nuomos konkurso būdu, išskyrus šiuos valstybės arba savivaldybės ilgalaikio materialiojo turto nuomos atvejus, kai toks turtas gali būti išnuomotas be konkurso, jeigu:
@@ -1742,12 +1750,12 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 23 straipsnis. Valstybės ir savivaldybių, kaip juridinio asmens dalyvio, turtinių ir neturtinių teisių įgyvendinimas
 
 
-1. Valstybės ir savivaldybių, kaip valstybės įmonių, savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių, viešųjų įstaigų ir kitos teisinės formos juridinių asmenų dalyvio, turtines ir neturtines teises ir pareigas įgyvendina Vyriausybės įgaliotos institucijos ir atitinkamai savivaldybių vykdomosios institucijos Vyriausybės nustatyta tvarka. 
+1. Valstybės, kaip valstybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių, viešųjų įstaigų ir kitos teisinės formos juridinių asmenų dalyvio, turtines ir neturtines teises ir pareigas įgyvendina Vyriausybės įgaliotos institucijos Vyriausybės nustatyta tvarka. Savivaldybių, kaip savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių, viešųjų įstaigų ir kitos teisinės formos juridinių asmenų dalyvių, turtines ir neturtines teises ir pareigas Vyriausybės nustatyta tvarka įgyvendina savivaldybių vykdomosios institucijos. Prireikus išsamią tvarką, reikalingą savivaldybių, kaip juridinių asmenų dalyvių, turtinėms ir neturtinėms teisėms ir pareigoms įgyvendinti, nustato savivaldybių vykdomosios institucijos.
 
 
 
 
-2. Vyriausybė nustato, kokios šio straipsnio 1 dalyje nurodytų Vyriausybės priimtų teisės aktų nuostatos taikomos be išimčių (įprastai) arba pagal taisyklę „laikykis arba paaiškink“ valstybės ir savivaldybių valdomų bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip jos suprantamos Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, taip pat visoms kitoms su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per dukterines bendroves susijusioms paskesnių eilių dukterinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje (toliau kartu – dukterinė bendrovė). Taisyklė „laikykis arba paaiškink“ suprantama taip, kad nukrypimas nuo Vyriausybės nustatytos tvarkos nuostatų turi būti racionaliai pagrįstas ir paaiškintas.
+2. Vyriausybė nustato, kurios pagal šio straipsnio 1 dalį Vyriausybės priimtų teisės aktų nuostatos valstybės valdomoms įmonėms ir savivaldybės valdomoms įmonėms taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos. Vyriausybė taip pat nustato, kurios pagal šio straipsnio 1 dalį Vyriausybės priimtų teisės aktų nuostatos taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos valstybės ir (ar) savivaldybės valdomų bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip jos suprantamos Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, taip pat visoms kitoms su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per dukterines bendroves susijusioms paskesnių eilių dukterinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje (toliau kartu – dukterinė bendrovė). Taisyklė „laikykis arba paaiškink“ suprantama taip, kad nukrypimas nuo Vyriausybės nustatytos tvarkos nuostatų turi būti racionaliai pagrįstas ir paaiškintas.
 
 
 
@@ -1757,7 +1765,7 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 
 
 
-4. Viešoji įstaiga Valdymo koordinavimo centras, kurios savininkė yra valstybė, atlieka su valstybės ir savivaldybių valdomų įmonių bei jų dukterinių bendrovių valdymo politikos įgyvendinimu susijusias funkcijas, nurodytas šio straipsnio 5 dalyje, ir turi teisę iš valstybės ir savivaldybės valdomų įmonių bei jų dukterinių bendrovių, taip pat Vyriausybės įgaliotų institucijų ir atitinkamai savivaldybių vykdomųjų institucijų, įgyvendinančių valstybės ar savivaldybės, kaip juridinio asmens dalyvio, turtines ir neturtines teises ir pareigas valstybės įmonėse, savivaldybės įmonėse, akcinėse bendrovėse ir uždarosiose akcinėse bendrovėse (toliau – valstybei ar savivaldybei atstovaujanti institucija), gauti informaciją apie valstybės ar savivaldybės valdomų įmonių bei jų dukterinių bendrovių veiklos rezultatus, valstybei ar savivaldybei atstovaujančių institucijų sprendimus, susijusius su valstybės ar savivaldybės turtinių ir neturtinių teisių ir pareigų įgyvendinimu, o valstybės ir savivaldybės valdomos įmonės bei jų dukterinės bendrovės, taip pat valstybei ar savivaldybei atstovaujančios institucijos privalo viešajai įstaigai Valdymo koordinavimo centrui šioje dalyje nurodytą informaciją teikti. 
+4. Viešoji įstaiga Valdymo koordinavimo centras, kurios savininkė yra valstybė, atlieka su valstybės ir savivaldybės valdomų įmonių bei jų dukterinių bendrovių valdymo politikos įgyvendinimu susijusias funkcijas, nurodytas šio straipsnio 5 dalyje, ir turi teisę iš valstybės ir savivaldybės valdomų įmonių bei jų dukterinių bendrovių, taip pat Vyriausybės įgaliotų institucijų ir atitinkamai savivaldybių vykdomųjų institucijų, įgyvendinančių valstybės ar savivaldybės, kaip juridinio asmens dalyvio, turtines ir neturtines teises ir pareigas valstybės įmonėse, savivaldybės įmonėse, akcinėse bendrovėse ir uždarosiose akcinėse bendrovėse (toliau – valstybei ar savivaldybei atstovaujanti institucija), gauti informaciją apie valstybės ir savivaldybės valdomų įmonių bei jų dukterinių bendrovių veiklos rezultatus, valstybei ar savivaldybei atstovaujančių institucijų sprendimus, susijusius su valstybės ar savivaldybės turtinių ir neturtinių teisių ir pareigų įgyvendinimu, o valstybės ir savivaldybės valdomos įmonės bei jų dukterinės bendrovės, taip pat valstybei ar savivaldybei atstovaujančios institucijos privalo viešajai įstaigai Valdymo koordinavimo centrui šioje dalyje nurodytą informaciją teikti.
 
 
 
@@ -1765,27 +1773,27 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 5. Viešoji įstaiga Valdymo koordinavimo centras:
 
 
-1) kiekvienais metais rengia, teikia Lietuvos Respublikos ekonomikos ir inovacijų ministerijai ir skelbia savo interneto svetainėje valstybės valdomų įmonių veiklą apibendrinančias tarpines ataskaitas, taip pat valstybės ir savivaldybės valdomų įmonių bei jų dukterinių bendrovių veiklą apibendrinančias metines ataskaitas, kurių turinio reikalavimus nustato Vyriausybė;
+1) kiekvienais metais rengia, teikia Lietuvos Respublikos ekonomikos ir inovacijų ministerijai ir skelbia savo interneto svetainėje apibendrinamąsias tarpines valstybės valdomų įmonių veiklos ataskaitas, taip pat apibendrinamąsias metines valstybės ir savivaldybės valdomų įmonių bei jų dukterinių bendrovių veiklos ataskaitas, kurių turinio reikalavimus nustato Vyriausybė;
 
 
 
 
-2) dėl visų valstybės valdomų įmonių ir jų dukterinių bendrovių veiklos kiekvienais metais rengia apibendrinančią valstybės valdomų įmonių ir jų dukterinių bendrovių gerojo valdymo indekso ataskaitą ir iki rugpjūčio 30 dienos ją pateikia Ekonomikos ir inovacijų ministerijai bei valstybei atstovaujančioms institucijoms. Gerojo valdymo indekso ataskaitos turinio reikalavimus nustato Vyriausybė; ši ataskaita rengiama pagal ekonomikos ir inovacijų ministro nustatytas rekomendacijas;
+2) dėl visų valstybės valdomų įmonių ir jų dukterinių bendrovių veiklos kiekvienais metais rengia apibendrinamąją valstybės valdomų įmonių ir jų dukterinių bendrovių gerojo valdymo indekso ataskaitą ir iki rugpjūčio 30 dienos ją pateikia Ekonomikos ir inovacijų ministerijai bei valstybei atstovaujančioms institucijoms. Gerojo valdymo indekso ataskaitos turinio reikalavimus nustato Vyriausybė;
 
 
 
 
-3) kiekvienais metais peržiūri valstybės valdomų įmonių ir jų dukterinių bendrovių rengiamų veiklos strategijų projektus ir patvirtintas veiklos strategijas, teikia rekomendacijas valstybei atstovaujančioms institucijoms dėl veiklos strategijose numatomų tikslų ir jų vertinimo rodiklių nustatymo bei valstybei atstovaujančių institucijų nustatytų valstybės tikslų ir lūkesčių valstybės valdomose įmonėse, vertina veiklos strategijų įgyvendinimo rezultatus ir teikia Ekonomikos ir inovacijų ministerijai apibendrintas veiklos strategijų įgyvendinimo ataskaitas; 
+3) kiekvienais metais peržiūri valstybės valdomų įmonių ir jų dukterinių bendrovių rengiamų veiklos strategijų projektus ir patvirtintas veiklos strategijas, teikia rekomendacijas valstybei atstovaujančioms institucijoms dėl veiklos strategijose numatomų tikslų ir jų vertinimo rodiklių nustatymo bei valstybei atstovaujančių institucijų nustatytų valstybės tikslų ir lūkesčių valstybės valdomose įmonėse, vertina veiklos strategijų įgyvendinimo rezultatus ir teikia Ekonomikos ir inovacijų ministerijai apibendrinamąsias veiklos strategijų įgyvendinimo ataskaitas;
 
 
 
 
-4) rengia rekomendacijas ir pasiūlymus, teikia metodinę pagalbą ir konsultuoja valstybei atstovaujančias institucijas dėl valstybės tikslų ir lūkesčių valstybės valdomose įmonėse nustatymo. Valstybės tikslus ir lūkesčius nustato valstybei atstovaujanti institucija rašte dėl valstybės tikslų ir lūkesčių (toliau – raštas), kurio turinio reikalavimus ir rengimo tvarką nustato Vyriausybės įgaliota institucija; 
+4) rengia rekomendacijas ir pasiūlymus, teikia metodinę pagalbą valstybei atstovaujančioms institucijoms ir konsultuoja jas dėl valstybės tikslų ir lūkesčių valstybės valdomose įmonėse nustatymo. Valstybės tikslus ir lūkesčius nustato valstybei atstovaujanti institucija rašte dėl valstybės tikslų ir lūkesčių (toliau – raštas), kurio turinio reikalavimus ir rengimo tvarką nustato Vyriausybės įgaliota institucija;
 
 
 
 
-5) vertina raštų projektus ir teikia valstybei atstovaujančioms institucijoms išvadas dėl valstybei atstovaujančių institucijų rengiamų pateikti raštų; 
+5) vertina raštų projektus ir teikia valstybei atstovaujančioms institucijoms išvadas dėl šių institucijų rengiamų pateikti raštų;
 
 
 
@@ -1795,12 +1803,12 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 
 
 
-7) kiekvienais metais apskaičiuoja valstybės valdomų įmonių ir jų dukterinių bendrovių pelningumo rezultatus atlikdama jų individualų vertinimą (toliau – įmonės individualus vertinimas) ir teikia šią informaciją valstybei atstovaujančioms institucijoms, rengia ir Ekonomikos ir inovacijų ministerijai teikia siūlymus dėl valstybės valdomoms įmonėms ir jų dukterinėms bendrovėms Vyriausybės nustatomų siektinų pelningumo rodiklių. Individualus įmonės vertinimas suprantamas kaip Vyriausybės nustatyta tvarka apskaičiuoto ir įmonės siektino pelningumo rodiklio padidinimas arba sumažinimas, atsižvelgiant į įmonei iškeltus tikslus, jos veiklos specifiką, rinkos sąlygas, kuriomis veikia įmonė, kitus aktualius veiksnius, galinčius turėti įtakos įmonės pelningumui;
+7) kiekvienais metais apskaičiuoja valstybės valdomų įmonių pelningumo rezultatus atlikdama jų individualų vertinimą (toliau – įmonės individualus vertinimas) ir teikia šią informaciją valstybei atstovaujančioms institucijoms, rengia ir Ekonomikos ir inovacijų ministerijai teikia siūlymus dėl valstybės valdomoms įmonėms Vyriausybės nustatomų siektinų pelningumo rodiklių. Individualus įmonės vertinimas suprantamas kaip Vyriausybės patvirtinto įmonės siektino pelningumo rodiklio padidinimas arba sumažinimas, atsižvelgiant į įmonei iškeltus tikslus, jos veiklos specifiką, rinkos sąlygas, kuriomis veikia įmonė, kitus aktualius veiksnius, galinčius turėti įtakos įmonės pelningumui;
 
 
 
 
-8) kiekvienais metais teikia informaciją Finansų ministerijai apie planuojamus valstybės valdomų įmonių dividendus ir pelno įmokas, konsultuoja valstybei atstovaujančias institucijas dividendų ir pelno įmokų apskaičiavimo klausimais, teikia išvadas Vyriausybei dėl valstybei atstovaujančios institucijos siūlomų mažesnių, negu nustatyta teisės aktuose, dividendų ar pelno įmokų; 
+8) kiekvienais metais teikia informaciją Finansų ministerijai apie planuojamus valstybės valdomų įmonių dividendus ir pelno įmokas, konsultuoja valstybei atstovaujančias institucijas dividendų ir pelno įmokų apskaičiavimo klausimais, teikia išvadas Vyriausybei dėl valstybei atstovaujančios institucijos siūlomų mažesnių, negu nustatyta teisės aktuose, dividendų ar pelno įmokų;
 
 
 
@@ -1820,7 +1828,7 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 
 
 
-12) teikia metodinę pagalbą savivaldybėms atstovaujančioms institucijoms savivaldybių valdomų įmonių tikslų ir strategijose numatomų vertinimo rodiklių nustatymo, strategijų rengimo, tikslų siekimo vertinimo, nepriklausomų valdybos narių atrankos ir kitais su savivaldybės valdomų įmonių ir jų dukterinių bendrovių valdymu susijusiais klausimais; 
+12) vertina valstybės valdomų įmonių ir jų dukterinių bendrovių vykdomų specialiųjų įpareigojimų, kurie nustatomi pagal ekonomikos ir inovacijų ministro patvirtintas rekomendacijas, atlikimo rezultatus, jų įtaką valstybės valdomų įmonių finansiniams rodikliams, specialiųjų įpareigojimų įtraukimo į apskaitą ir jų atskleidimo tinkamumą ir teikia dėl viso to pasiūlymus valstybei atstovaujančioms institucijoms ir Ekonomikos ir inovacijų ministerijai, taip pat vertina, ar valstybės valdomų įmonių atliekamos funkcijos priskirtinos specialiesiems įpareigojimams, ir apie tai teikia informaciją valstybės valdomoms įmonėms, valstybei atstovaujančioms institucijoms ir Ekonomikos ir inovacijų ministerijai. Specialieji įpareigojimai suprantami kaip įmonės funkcijos, kurias ji įpareigota atlikti pagal įstatymus, Vyriausybės nutarimus ar savivaldybės tarybos sprendimus, kad būtų užtikrintas konkrečių socialinių, strateginių ir politinių valstybės ar savivaldybės tikslų įgyvendinimas. Valstybės valdomų įmonių specialiųjų įpareigojimų sąrašą tvirtina ekonomikos ir inovacijų ministras. Šis sąrašas skelbiamas viešosios įstaigos Valdymo koordinavimo centro interneto svetainėje;
 
 
 
@@ -1835,7 +1843,7 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 
 
 
-15) vertina ir teikia pasiūlymus valstybei atstovaujančioms institucijoms ir Ekonomikos ir inovacijų ministerijai dėl valstybės valdomų įmonių ir jų dukterinių bendrovių vykdomų specialiųjų įpareigojimų, kurie nustatomi pagal ekonomikos ir inovacijų ministro patvirtintas rekomendacijas, įtakos valstybės valdomų įmonių ir jų dukterinių bendrovių strategijose numatomiems vertinimo rodikliams, specialiųjų įpareigojimų masto, finansavimo, kokybės kriterijų ir teisinio reguliavimo tobulinimo. Specialieji įpareigojimai suprantami kaip įmonės funkcijos, kurias ji įpareigota atlikti pagal įstatymus ar Vyriausybės nutarimus, kad būtų užtikrintas konkrečių socialinių, strateginių ir politinių valstybės tikslų įgyvendinimas. Specialiųjų įpareigojimų sąrašą tvirtina ekonomikos ir inovacijų ministras; šis sąrašas skelbiamas viešosios įstaigos Valdymo koordinavimo centro interneto svetainėje.
+15) teikia metodinę pagalbą savivaldybių vykdomosioms institucijoms savivaldybių valdomų įmonių tikslų ir šių įmonių strategijose numatomų vertinimo rodiklių nustatymo, strategijų rengimo, tikslų siekimo vertinimo, nepriklausomų valdybos narių atrankos, šių įmonių atliekamų funkcijų priskyrimo specialiesiems įpareigojimams, kurie nustatomi pagal ekonomikos ir inovacijų ministro patvirtintas rekomendacijas, ir kitais su savivaldybės valdomų įmonių ir jų dukterinių bendrovių valdymu susijusiais klausimais.
 
 
 
@@ -1849,6 +1857,7 @@ Straipsnio pakeitimai:
 Nr. XIII-294, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06972
 Nr. XIII-1663, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19160
 Nr. XIII-3285, 2020-09-17, paskelbta TAR 2020-09-18, i. k. 2020-19503
+Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
  
 
 
