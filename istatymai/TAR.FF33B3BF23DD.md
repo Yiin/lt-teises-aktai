@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-01
+Suvestinė redakcija nuo 2023-06-02 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
- 
-TAR pastaba. 57 straipsnio 5–12 dalys taikomos rengiant 2023 m. liepos 1 d. įsigaliosiančius ir vėlesnius kompensuojamųjų vaistinių preparatų ir kompensuojamųjų medicinos pagalbos priemonių kainynus ir jų pakeitimus.  Rengiant 2022 m. kompensuojamųjų medicinos pagalbos priemonių kainyno pakeitimus, 2023 m. kompensuojamųjų vaistinių preparatų kainyną, įsigaliosiantį 2023 m. sausio 1 d., ir jo pakeitimus, taikomi iki įstatymo Nr. XIV-1639  įsigaliojimo dienos (2023-01-01) galioję reikalavimai.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
-Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 57 ir 59 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 FARMACIJOS 
@@ -4610,11 +4605,12 @@ Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 
 
-12. Vaistinės darbo laiku vaistinėje turi dirbti ne mažiau kaip vienas vaistininkas.
+12. Vaistinės patalpose darbo laiku turi dirbti bent vienas vaistininkas, išskyrus miestus, turinčius mažiau kaip 3 tūkst. gyventojų, ir kaimo gyvenamąsias vietoves, kuriuose nesant vaistininko vaistinės patalpose jos darbo laiku gali dirbti vaistininko padėjėjas (farmakotechnikas), iki 2006 m. įgijęs vaistininko padėjėjo (farmakotechniko) ar jai prilygintą profesinę kvalifikaciją, sveikatos apsaugos ministro nustatyta tvarka ryšio priemonėmis prižiūrimas vaistininko.
 TAR pastaba. 12 dalis įsigalioja 2023-07-01.
 Straipsnio dalies pakeitimai:
 Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
 Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
+Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
  
 
 
@@ -8065,7 +8061,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_4e0aa791bff5408a810fda38af6cda11_end
+part_34970840f976413d8f22bfc96f00eae8_end
 
 
 Pakeitimai:
@@ -8345,3 +8341,13 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 1, 2, 42, 75 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 57 ir 59 straipsnių pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1943, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09686
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2 straipsnio pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 5 straipsnio pakeitimo įstatymas
