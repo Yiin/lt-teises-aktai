@@ -21,7 +21,7 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-12-31 iki 2023-06-01
+Suvestinė redakcija nuo 2023-06-02
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3161, i. k. 1121010ISTA0XI-2017
  
@@ -167,16 +167,19 @@ Papildyti 5 straipsnio 8 dalį 7 punktu:
 5 straipsnis. 35 straipsnio papildymas ir pakeitimas
 
 
-1. Papildyti 35 straipsnį nauja 11 dalimi:
+1. Papildyti 35 straipsnį nauja 12 dalimi:
 
 
 
 
-„11. Vaistinės darbo laiku vaistinėje turi dirbti ne mažiau kaip vienas vaistininkas.“
+„12. Vaistinės patalpose darbo laiku turi dirbti bent vienas vaistininkas, išskyrus miestus, turinčius mažiau kaip 3 tūkst. gyventojų, ir kaimo gyvenamąsias vietoves, kuriuose nesant vaistininko vaistinės patalpose jos darbo laiku gali dirbti vaistininko padėjėjas (farmakotechnikas), iki 2006 m. įgijęs vaistininko padėjėjo (farmakotechniko) ar jai prilygintą profesinę kvalifikaciją, sveikatos apsaugos ministro nustatyta tvarka ryšio priemonėmis prižiūrimas vaistininko.“
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
+ 
 
 
 
@@ -279,3 +282,8 @@ Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
 Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 8 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 5 straipsnio pakeitimo įstatymas
