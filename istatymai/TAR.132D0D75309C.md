@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-21
+Įstatymas netenka galios 2024-07-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2811, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12134
+Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymas
+ 
+Suvestinė redakcija nuo 2023-06-22 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -35,7 +40,10 @@ BENDROSIOS NUOSTATOS
 
 1 straipsnis. Įstatymo paskirtis
 
-1. Šis įstatymas nustato įmonių finansinę atskaitomybę, reikalavimą atlikti įmonių finansinių ataskaitų auditą, įmonių finansinių ataskaitų skelbimo tvarką, metinio pranešimo, mokėjimų valdžios institucijoms ataskaitos parengimo ir skelbimo tvarką, atsakomybę už įmonių finansinių ataskaitų, metinio pranešimo rengimą ir skelbimą.
+1. Šis įstatymas nustato įmonių finansinę atskaitomybę, reikalavimą atlikti įmonių finansinių ataskaitų auditą, įmonių finansinių ataskaitų teikimo ir skelbimo tvarką, metinio pranešimo, mokėjimų valdžios institucijoms ataskaitos, pelno mokesčio informacijos ataskaitos parengimo, teikimo ir skelbimo tvarką, atsakomybę už įmonių finansinių ataskaitų, metinio pranešimo, mokėjimų valdžios institucijoms ataskaitos, pelno mokesčio informacijos ataskaitos rengimą, teikimą ir skelbimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+ 
 
 2. Šiuo įstatymu įgyvendinami įstatymo priede nurodyti Europos Sąjungos teisės aktai.
  
@@ -60,9 +68,19 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-468, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10830
  
 
+7. Šio įstatymo dešimtasis skirsnis taip pat taikomas ne Lietuvos Respublikoje arba ne kitoje valstybėje narėje įsteigtų juridinių asmenų, kurių teisinė forma atitinka Lietuvos Respublikos akcinių bendrovių įstatyme reglamentuojamas juridinių asmenų teisines formas (akcinę bendrovę arba uždarąją akcinę bendrovę), Lietuvos Respublikoje įsteigtiems filialams.
+Papildyta straipsnio dalimi:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+ 
+
 3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 1. Ataskaitinis laikotarpis – laikotarpis, kuriam sudaromas įmonės metinių arba tarpinių finansinių ataskaitų rinkinys.
+
+11. Atskira įmonė – įmonė, kuri nepriklauso įmonių grupei. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+ 
 
 2. Finansinės ataskaitos straipsnis – finansinės ataskaitos duomenų eilutė.
 
@@ -90,6 +108,16 @@ Nr. XIII-468, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10830
 
 14. Įmonės vadovas – juridinio asmens vadovas arba juridinio asmens, kuris neturi vadovo, savininkas, arba mažosios bendrijos atstovas. Ūkinėje bendrijoje ūkio subjekto vadovu laikytinas tikrasis narys, kuris paskirtas vykdyti Lietuvos Respublikos civilinio kodekso 2.82 straipsnio 3 dalyje nurodytas valdymo organo pareigas.
 
+141. Mokesčių jurisdikciją turinti teritorija – valstybinei arba nevalstybinei jurisdikcijai priklausanti teritorija, turinti fiskalinę autonomiją pelno mokesčio atžvilgiu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+ 
+
+142. Pagrindinė patronuojančioji įmonė – įmonė, rengianti įmonių grupės, apimančios kitas įmonių grupes, konsoliduotųjų finansinių ataskaitų rinkinį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+ 
+
 15. Neteko galios nuo 2022-05-01
 Straipsnio dalies naikinimas:
 Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
@@ -104,17 +132,20 @@ Papildyta straipsnio dalimi:
 Nr. XIV-850, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27750
  
 
-19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 1997 m. Konvencijoje dėl kovos su užsienio pareigūnų papirkimu sudarant tarptautinius verslo sandorius, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme. 
+19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 1997 m. Konvencijoje dėl kovos su užsienio pareigūnų papirkimu sudarant tarptautinius verslo sandorius, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos finansinių ataskaitų audito įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos įmonių grupių konsoliduotosios atskaitomybės įstatyme. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
 Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-850, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27750
  
 
-20. Kai šio įstatymo normos taikomos finansinėms ataskaitoms, metiniam pranešimui ir mokėjimų valdžios institucijoms ataskaitai, vartojama sąvoka „ataskaitos“. 
+20. Kai šio įstatymo normos taikomos finansinėms ataskaitoms, metiniam pranešimui, mokėjimų valdžios institucijoms ataskaitai ir pelno mokesčio informacijos ataskaitai, vartojama sąvoka „ataskaitos“.
 Papildyta straipsnio dalimi:
 Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+Straipsnio dalies pakeitimai:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-850, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27750
  
@@ -545,7 +576,7 @@ Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
 
 5. Įmonė gali neatskleisti informacijos apie būsimą plėtrą arba su vykstančiomis derybomis susijusių klausimų, jeigu, remiantis tinkamai pagrįsta įmonės vadovo, valdymo ir priežiūros organų narių, veikiančių pagal jiems įstatymais atitinkamai priskirtą kompetenciją, nuomone, už kurią įmonės vadovas, valdymo ir priežiūros organų nariai yra atsakingi, tokios informacijos atskleidimas pakenktų komercinei įmonės padėčiai, o jos neatskleidimas netrukdytų teisingai suprasti įmonės plėtros, veiklos rezultatų, būklės ir jos veiklos poveikio. 
 
-6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
+6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
 
 7. Įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis Įmonių grupių konsoliduotosios atskaitomybės įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
 Straipsnio dalies pakeitimai:
@@ -602,7 +633,9 @@ Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
  
 
 SEPTINTASIS SKIRSNIS
-FINANSINIŲ ATASKAITŲ AUDITAS. FINANSINIŲ ATASKAITŲ IR METINIO PRANEŠIMO PASIRAŠYMAS, TVIRTINIMAS IR SKELBIMAS
+FINANSINIŲ ATASKAITŲ AUDITAS. FINANSINIŲ ATASKAITŲ IR METINIO PRANEŠIMO PASIRAŠYMAS, TVIRTINIMAS, TEIKIMAS IR SKELBIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
  
 
 24 straipsnis. Finansinių ataskaitų auditas
@@ -636,18 +669,16 @@ Straipsnio pakeitimai:
 Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
  
 
-26 straipsnis. Finansinių ataskaitų ir metinio pranešimo skelbimas, finansinių ataskaitų kokybės stebėsena
-Pakeistas straipsnio pavadinimas:
-Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
- 
+26 straipsnis. Finansinių ataskaitų ir metinio pranešimo teikimas ir skelbimas, finansinių ataskaitų kokybės stebėsena
 
-1. Finansinės ataskaitos ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) skelbiami viešai Juridinių asmenų registre įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka, o šio įstatymo 4 straipsnio 9 dalyje išvardytų įmonių, taip pat akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka, – skelbiami ir jų interneto svetainėse.
+1. Finansinės ataskaitos ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) teikiami Juridinių asmenų registro tvarkytojui įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka, o šio įstatymo 4 straipsnio 9 dalyje išvardytų įmonių, taip pat akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių prekių (paslaugų) kainos reguliuojamos įstatymų nustatyta tvarka, finansinės ataskaitos ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas) skelbiami ir jų interneto svetainėse.
 
-2. Skelbiamų finansinių ataskaitų ir metinio pranešimo formos ir tekstai turi būti tokie, pagal kuriuos buvo parengta auditoriaus išvada.
+2. Juridinių asmenų registro tvarkytojui pateiktų ir juridinių asmenų interneto svetainėse skelbiamų finansinių ataskaitų ir metinio pranešimo formos ir tekstai turi būti tokie, pagal kuriuos buvo parengta auditoriaus išvada.
 
-3. Vyriausybė arba jos įgaliota institucija nustato Juridinių asmenų registre viešai skelbiamų finansinių ataskaitų kokybės stebėsenos tvarką ir paskiria instituciją, atliksiančią šią stebėseną. 
-Papildyta straipsnio dalimi:
-Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
+3. Vyriausybė arba jos įgaliota institucija nustato Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų kokybės stebėsenos tvarką ir paskiria instituciją, atliksiančią šią stebėseną.
+
+Straipsnio pakeitimai:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
  
 
 AŠTUNTASIS SKIRSNIS
@@ -706,20 +737,92 @@ Nr. XIV-681, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25106
 
 2) įmonės mokėjimai valdžios institucijoms įtraukiami į tos patronuojančiosios įmonės rengiamą konsoliduotąją mokėjimų valdžios institucijoms ataskaitą.
 
-3. Mokėjimų valdžios institucijoms ataskaita pateikiama ir skelbiama viešai kartu su finansinėmis ataskaitomis ir metiniu pranešimu Juridinių asmenų registre.
-
-4. Mokėjimų valdžios institucijoms ataskaitą pasirašo ir už jos parengimą ir paskelbimą atsako įmonės vadovas.
-
+3. Mokėjimų valdžios institucijoms ataskaita kartu su finansinėmis ataskaitomis ir metiniu pranešimu teikiama Juridinių asmenų registro tvarkytojui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
  
+
+4. Mokėjimų valdžios institucijoms ataskaitą pasirašo ir už jos parengimą ir pateikimą Juridinių asmenų registro tvarkytojui atsako įmonės vadovas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+ 
+
+DEŠIMTASIS SKIRSNIS
+PELNO MOKESČIO INFORMACIJOS ATASKAITA
+ 
+
+30 straipsnis. Pelno mokesčio informacijos ataskaita
+
+1. Pagrindinės patronuojančiosios įmonės, kurių konsoliduotosios pajamos, nurodytos jų metinėse konsoliduotosiose finansinėse ataskaitose, ir atskiros įmonės, kurių pajamos, nurodytos jų metinėse finansinėse ataskaitose, kiekvienais iš 2 pastarųjų finansinių metų iš eilės paskutinę finansinių metų dieną viršija 750 000 000 eurų, privalo parengti antrųjų iš tų 2 finansinių metų pelno mokesčio informacijos ataskaitą ir užtikrinti jos prieinamumą visuomenei. Prieinamumas visuomenei užtikrinamas, kai pagal šio įstatymo reikalavimus parengta pelno mokesčio informacijos ataskaita pateikiama Juridinių asmenų registro tvarkytojui ir paskelbiama taip, kaip nurodyta šio įstatymo 31 straipsnio 3 dalyje. Šioje dalyje nustatytos pareigos nebetaikomos, kai pagrindinės patronuojančiosios įmonės metinėse konsoliduotosiose finansinėse ataskaitose nurodytos konsoliduotosios pajamos ir atskiros įmonės metinėse finansinėse ataskaitose nurodytos pajamos kiekvienais iš 2 pastarųjų finansinių metų iš eilės paskutinę finansinių metų dieną neviršija 750 000 000 eurų.
+
+2. Šio straipsnio 1 dalies nuostatos netaikomos atskiroms įmonėms arba pagrindinėms patronuojančiosioms įmonėms ir jų grupės įmonėms, jeigu tokios įmonės, įskaitant jų filialus, yra įsisteigusios arba turi nuolatinę verslo arba nuolatinės verslo veiklos vietą tik Lietuvos Respublikos teritorijoje ir nėra įsisteigusios arba tokios vietos neturi jokioje kitoje mokesčių jurisdikciją turinčioje teritorijoje.
+
+3. Šio straipsnio 1 dalies nuostatos netaikomos atskiroms įmonėms ir pagrindinėms patronuojančiosioms įmonėms, jeigu tokios įmonės arba jų grupės įmonės paskelbia informaciją pagal Lietuvos banko valdybos nustatomus visuomenei skelbiamos informacijos reikalavimus ir pateikia informaciją apie visą savo ir įmonių grupės įmonių, įtrauktų į metines konsoliduotąsias finansines ataskaitas, veiklą.
+
+4. Vidutinės ir didelės patronuojamosios įmonės, kontroliuojamos pagrindinės patronuojančiosios įmonės, kuriai netaikomi Lietuvos Respublikos arba kitos valstybės narės teisės aktai ir kurios konsoliduotosios pajamos, nurodytos jos metinėse konsoliduotosiose finansinėse ataskaitose, kiekvienais iš 2 pastarųjų finansinių metų iš eilės paskutinę finansinių metų dieną viršija 750 000 000 eurų, privalo užtikrinti antrųjų iš tų 2 finansinių metų pagrindinės patronuojančiosios įmonės pelno mokesčio informacijos ataskaitos prieinamumą visuomenei. Kai vidutinė arba didelė patronuojamoji įmonė pelno mokesčio informacijos ataskaitai reikalingos informacijos neturi, ji prašo savo pagrindinės patronuojančiosios įmonės pateikti jai informaciją, kuri reikalinga išsamiai pelno mokesčio informacijos ataskaitai parengti. Jeigu pagrindinė patronuojančioji įmonė visos reikalingos informacijos nepateikia, vidutinė arba didelė patronuojamoji įmonė parengia pelno mokesčio informacijos ataskaitą, kurioje pateikiama visa jos turima arba gauta informacija, ir pareiškimą, kuriame nurodoma, kad jos pagrindinė patronuojančioji įmonė nepateikė informacijos, kuri reikalinga išsamiai pelno mokesčio informacijos ataskaitai parengti, bei užtikrina jų prieinamumą visuomenei. Vidutinėms ir didelėms patronuojamosioms įmonėms šioje dalyje nustatytos pareigos nebetaikomos, kai pagrindinės patronuojančiosios įmonės konsoliduotosios pajamos, nurodytos jos metinėse konsoliduotosiose finansinėse ataskaitose, kiekvienais iš 2 pastarųjų finansinių metų iš eilės paskutinę finansinių metų dieną neviršija 750 000 000 eurų.
+
+5. Ne Lietuvos Respublikoje arba ne kitoje valstybėje narėje įsteigtų juridinių asmenų Lietuvos Respublikoje įsteigti filialai (toliau – filialas) privalo užtikrinti antrųjų iš 2 pastarųjų finansinių metų šio straipsnio 6 dalies 1 punkte nurodytos pagrindinės patronuojančiosios įmonės arba atskiros įmonės pelno mokesčio informacijos ataskaitos prieinamumą visuomenei. Kai filialas pelno mokesčio ataskaitai reikalingos informacijos neturi, asmuo (asmenys), paskirtas (paskirti) vykdyti informacijos atskleidimo reikalavimus filiale, prašo šio straipsnio 6 dalies 1 punkte nurodytos pagrindinės patronuojančiosios įmonės arba atskiros įmonės pateikti jam (jiems) informaciją, kuri reikalinga išsamiai pelno mokesčio informacijos ataskaitai parengti. Jeigu visa prašoma informacija nepateikiama, filialas parengia pelno mokesčio informacijos ataskaitą, kurioje pateikiama visa jo turima arba gauta informacija, ir pareiškimą, kuriame nurodoma, kad pagrindinė patronuojančioji įmonė arba atskira įmonė nepateikė informacijos, kuri reikalinga išsamiai pelno mokesčio informacijos ataskaitai parengti, bei užtikrina jų prieinamumą visuomenei. Šioje dalyje nustatytos pareigos taikomos tik tiems filialams, kurių pardavimo grynosios pajamos kiekvienais iš 2 pastarųjų finansinių metų iš eilės paskutinę finansinių metų dieną viršija 8 000 000 eurų. Filialui šioje dalyje nustatytos pareigos nebetaikomos, kai pardavimo grynosios pajamos kiekvienais iš 2 pastarųjų finansinių metų iš eilės paskutinę finansinių metų dieną neviršija 8 000 000 eurų.
+
+6. Šio straipsnio 5 dalies nuostatos filialui taikomos, jeigu tenkinami šie kriterijai:
+
+1) įmonė, kuri įsteigė filialą, yra įmonė įmonių grupėje, kurios pagrindinei patronuojančiajai įmonei netaikomi Lietuvos Respublikos arba kitos valstybės narės teisės aktai ir kurios konsoliduotosios pajamos, nurodytos jos metinėse konsoliduotosiose finansinėse ataskaitose, kiekvienais iš 2 pastarųjų finansinių metų iš eilės paskutinę finansinių metų dieną viršija 750 000 000 eurų, arba atskira įmonė, kurios pajamos, nurodytos jos metinėse finansinėse ataskaitose, kiekvienais iš 2 pastarųjų finansinių metų iš eilės paskutinę finansinių metų dieną viršija 750 000 000 eurų;
+
+2) šios dalies 1 punkte nurodyta pagrindinė patronuojančioji įmonė neturi vidutinės arba didelės patronuojamosios įmonės, kaip nurodyta šio straipsnio 4 dalyje.
+
+7. Filialui šio straipsnio 5 dalyje nustatytos pareigos nebetaikomos, kai 2 finansinius metus iš eilės netenkinamas šio straipsnio 6 dalies 1 punkte nurodytas kriterijus.
+
+8. Šio straipsnio 4 dalyje nurodyta vidutinė arba didelė patronuojamoji įmonė ir šio straipsnio 5 dalyje nurodytas filialas neprivalo užtikrinti pelno mokesčio informacijos ataskaitos prieinamumo visuomenei, kai pagrindinė patronuojančioji įmonė arba atskira įmonė, kuriai netaikomi Lietuvos Respublikos arba kitos valstybės narės teisės aktai, yra parengusi pelno mokesčio informacijos ataskaitą, kuri atitinka šiuos kriterijus:
+
+1) ataskaita prieinama visuomenei nemokamai ir elektroniniu formatu, kuris nuskaitomas mašininiu būdu, pagrindinės patronuojančiosios įmonės arba atskiros įmonės interneto svetainėje bent viena iš Europos Sąjungos oficialiųjų kalbų ne vėliau kaip per 12 mėnesių nuo finansinių metų, už kuriuos pelno mokesčio informacijos ataskaita yra parengta, paskutinės dienos;
+
+2) ataskaitoje nurodomas pelno mokesčio informacijos ataskaitą atskleidusios vienos patronuojamosios įmonės arba vieno filialo, kuriems taikomi kitos valstybės narės teisės aktai, pavadinimas ir buveinė (adresas).
+
+9. Vidutinės ir didelės patronuojamosios įmonės, kurioms netaikomos šio straipsnio 4 dalies nuostatos, arba filialai, kuriems netaikomos šio straipsnio 5–7 dalių nuostatos, privalo užtikrinti pelno mokesčio informacijos ataskaitos prieinamumą visuomenei, jeigu tokios patronuojamosios įmonės arba filialai veikia tik tam, kad būtų išvengta šiame skirsnyje nustatytų atskaitomybės reikalavimų vykdymo.
+
+10. Šio straipsnio 1, 4 ir 6 dalyse nurodytos pajamos suprantamos kaip:
+
+1) įmonių, kurioms taikomi Lietuvos Respublikos arba kitos valstybės narės teisės aktai ir kurios netaiko tarptautinių finansinės atskaitomybės standartų, pardavimo grynosios pajamos;
+
+2) kitų, negu nurodyta šios dalies 1 punkte, įmonių pajamos, kaip jos apibrėžiamos arba suprantamos finansinės atskaitomybės teisės aktuose, pagal kuriuos rengiamos finansinės ataskaitos.
+
+11. Pelno mokesčio informacijos ataskaitoje pateikiama finansų ministro nustatyta informacija, susijusi su visa atskiros įmonės arba pagrindinės patronuojančiosios įmonės veikla, įskaitant visų įmonių grupės įmonių, įtrauktų į atitinkamų finansinių metų konsoliduotąsias finansines ataskaitas, veiklą.
+ 
+
+31 straipsnis. Pelno mokesčio informacijos ataskaitos pasirašymas, teikimas, skelbimas ir atsakomybė
+
+1. Pelno mokesčio informacijos ataskaitą ir, kai taikytina, pareiškimą, nurodytą šio įstatymo 30 straipsnio 4 ir 5 dalyse, pasirašo įmonės vadovas arba asmuo, paskirtas vykdyti informacijos atskleidimo reikalavimus filiale.
+
+2. Pelno mokesčio informacijos ataskaita ir, kai taikytina, pareiškimas, nurodytas šio įstatymo 30 straipsnio 4 ir 5 dalyse, per 12 mėnesių nuo finansinių metų, už kuriuos parengta ataskaita, paskutinės dienos pateikiami Juridinių asmenų registro tvarkytojui.
+
+3. Pelno mokesčio informacijos ataskaita ir, kai taikytina,  pareiškimas, nurodytas šio įstatymo 30 straipsnio 4 ir 5 dalyse, turi būti paskelbti bent viena iš oficialiųjų Europos Sąjungos kalbų ne vėliau kaip per 12 mėnesių nuo finansinių metų, už kuriuos parengta pelno mokesčio informacijos ataskaita, paskutinės dienos:
+
+1) įmonės interneto svetainėje, kai taikoma šio įstatymo 30 straipsnio 1 dalis;
+
+2) patronuojamosios įmonės interneto svetainėje arba įmonių grupės įmonės interneto svetainėje, kai taikoma šio įstatymo 30 straipsnio 4 dalis;
+
+3) filialo arba jį įsteigusios įmonės interneto svetainėje arba įmonių grupės įmonės interneto svetainėje, kai taikoma šio įstatymo 30 straipsnio 5 dalis.
+
+4. Pelno mokesčio informacijos ataskaita ir, kai taikytina, pareiškimas, nurodytas šio įstatymo 30 straipsnio 4 ir 5 dalyse, turi būti nemokamai prieinami visuomenei šio straipsnio 3 dalyje nurodytose interneto svetainėse mažiausiai 5 metus iš eilės.
+
+5. Už pelno mokesčio informacijos ataskaitos ir, kai taikytina, pareiškimo, nurodyto šio įstatymo 30 straipsnio 4 ir 5 dalyse, parengimą ir prieinamumo visuomenei užtikrinimą pagal įstatymuose priskirtą kompetenciją atsako šio įstatymo 30 straipsnio 1 dalyje nurodytos pagrindinės patronuojančiosios įmonės ar atskiros įmonės vadovas, valdymo ir priežiūros organų nariai arba šio įstatymo 30 straipsnio 4 dalyje nurodytos patronuojamosios įmonės vadovas, valdymo ir priežiūros organų nariai arba asmuo (asmenys), paskirtas (paskirti) vykdyti informacijos atskleidimo reikalavimus filiale.
+
+6. Atlikdami auditą, auditorius arba audito įmonė patikrina, ar už finansinius metus, einančius prieš finansinius metus, už kuriuos parengtos metinės finansinės ataskaitos, įmonė privalėjo užtikrinti pelno mokesčio informacijos ataskaitos prieinamumą visuomenei ir, jeigu taip, ar buvo užtikrintas šios ataskaitos prieinamumas visuomenei, ir tai nurodo auditoriaus išvadoje.
+
+Papildyta skirsniu:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+ 
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
 RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
+ 
 
  
 
+ 
 Lietuvos Respublikos
 įmonių atskaitomybės įstatymo
 priedas
@@ -731,7 +834,10 @@ priedas
 
 2. 2008 m. lapkričio 3 d. Komisijos reglamentas (EB) Nr. 1126/2008, priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002.
 
-3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/95/ES.
+3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2101.
+Punkto pakeitimai:
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+ 
 
 4. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu. 
 
@@ -841,4 +947,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-850, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27750
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 3, 16, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymo Nr. XIII-3316 1 ir 6 straipsnių pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2020, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11827
+Lietuvos Respublikos įmonių atskaitomybės įstatymo Nr. IX-575 1, 2, 3, 26, 29 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo dešimtuoju skirsniu įstatymas
 
