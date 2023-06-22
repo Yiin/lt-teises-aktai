@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-06-21
+Suvestinė redakcija nuo 2023-06-22 iki 2023-06-23
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -7048,21 +7048,41 @@ Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
 
 
 
-223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui tvarkos pažeidimas
+223 straipsnis. Juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų ir registro duomenų pateikimo Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui ir skelbimo juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje tvarkos pažeidimas
 
 
-1. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinę ataskaitą, metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui arba juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinę ataskaitą, metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, auditoriaus išvadą, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
+1. Neteisingų juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinę ataskaitą, metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), pelno mokesčio informacijos ataskaitą, duomenų ir kitos teiktinos informacijos pateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui arba juridinio asmens, jo filialo ar atstovybės, užsienio juridinio asmens ar kitos organizacijos filialo ar atstovybės dokumentų, išskyrus finansines ataskaitas (konsoliduotąsias finansines ataskaitas), metinę ataskaitą, metinį pranešimą (konsoliduotąjį metinį pranešimą), veiklos ataskaitas, auditoriaus išvadą, mokėjimų valdžios institucijoms ataskaitą (konsoliduotąją mokėjimų valdžios institucijoms ataskaitą), pelno mokesčio informacijos ataskaitą, duomenų ir kitos teiktinos informacijos nepateikimas Juridinių asmenų registro tvarkytojui ar Juridinių asmenų dalyvių informacinės sistemos tvarkytojui laiku teisės aktų nustatyta tvarka
 užtraukia baudą juridinių asmenų, jų filialų ar atstovybių, užsienio juridinių asmenų ar kitų organizacijų filialų ar atstovybių vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo trisdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
 
 
 
 
-2. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
-užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo dviejų šimtų iki trijų tūkstančių eurų. 
+2. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) pateikimas Juridinių asmenų registro tvarkytojui arba juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos, metinio pranešimo (konsoliduotojo metinio pranešimo), veiklos ataskaitų, auditoriaus išvados, mokėjimų valdžios institucijoms ataskaitos (konsoliduotosios mokėjimų valdžios institucijoms ataskaitos) nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka
+užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+
+
+
+3. Neteisingų juridinio asmens, užsienio juridinio asmens ar kitos organizacijos filialo finansinių ataskaitų (konsoliduotųjų finansinių ataskaitų), metinės ataskaitos pateikimas Juridinių asmenų registro tvarkytojui
+užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+
+
+
+4. Neteisingos juridinio asmens pelno mokesčio informacijos ataskaitos pateikimas Juridinių asmenų registro tvarkytojui, pelno mokesčio informacijos ataskaitos nepateikimas Juridinių asmenų registro tvarkytojui laiku teisės aktų nustatytais atvejais ir tvarka arba šios ataskaitos nepaskelbimas juridinio asmens ar užsienio juridinio asmens filialo interneto svetainėje laiku teisės aktų nustatytais atvejais ir tvarka
+užtraukia baudą juridinių asmenų, užsienio juridinių asmenų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo šešių šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+
+
+
+5. Šio straipsnio 3, 4 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+užtraukia baudą juridinių asmenų, užsienio juridinių asmenų ar kitų organizacijų filialų vadovams ar kitiems įstatymuose arba steigimo dokumentuose nurodytiems asmenims nuo dviejų tūkstančių iki šešių tūkstančių eurų.
+ 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1184, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09075
+Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
  
 
 
@@ -21884,7 +21904,7 @@ Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952
 
 
 
-66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 961, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 1871, 188, 1881, 1883, 189, 190, 191, 192, 194, 1981, 205, 207, 2071 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 3621, 431, 449, 4491 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
+66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 961, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 1871, 188, 1881, 1883, 189, 190, 191, 192, 194, 1981, 205, 207, 2071 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 3621, 431, 449, 4491 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
@@ -21897,6 +21917,7 @@ Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
 Nr. XIV-1400, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16126
 Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
+Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
  
 
 
@@ -22252,7 +22273,9 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-97) valstybės įmonės Registrų centro – dėl šio kodekso 223, 505 straipsniuose numatytų administracinių nusižengimų; 
+97) valstybės įmonės Registrų centro – dėl šio kodekso 223 straipsnio 1, 2 dalyse, 505 straipsnyje numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -22262,9 +22285,10 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-98) Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 127 straipsnyje numatytų administracinių nusižengimų; 
+98) Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos – dėl šio kodekso 127 straipsnyje, 223 straipsnio 3, 5 dalyse numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-104, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29416
+Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -25752,7 +25776,7 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
-part_060648f0170c41f2b9a2c9ce1eac7db8_end
+part_44702640353747eaae7a82745df8583f_end
 
 
 Lietuvos Respublikos 
@@ -27412,3 +27436,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 108, 115, 122, 125, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 21-1, 373, 374, 375, 376, 377, 378, 380, 381, 382, 421, 484, 576, 577, 579, 581, 584, 587, 588, 589, 594, 608, 609, 616, 617, 619, 620, 621, 627, 644, 666, 671, 673, 675, 676, 678 straipsnių ir priedo pakeitimo, Kodekso papildymo 422-1, 565-1, 574-1 straipsniais ir 591, 677 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+201.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
+Lietuvos Respublikos administracinių nusižengimų kodekso 223 ir 589 straipsnių pakeitimo įstatymas
