@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-22
+Suvestinė redakcija nuo 2023-06-23
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 82-1965, i. k. 0961010ISTA00I-1495
  
@@ -152,7 +152,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Poveikio aplinkai vertinimo subjektas – valstybės institucija ar savivaldybės vykdomoji institucija, nagrinėjanti ir vertinanti poveikio aplinkai vertinimo dokumentus, pagal kompetenciją teikianti išvadas ir dalyvaujanti planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo procese.
+11. Poveikio aplinkai vertinimo subjektas – valstybės institucija arba savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius, nagrinėjantys ir vertinantys poveikio aplinkai vertinimo dokumentus, pagal kompetenciją teikiantys išvadas ir dalyvaujantys planuojamos ūkinės veiklos atrankos dėl poveikio aplinkai vertinimo procese.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
+ 
 
 
 
@@ -336,7 +339,10 @@ BENDROSIOS NUOSTATOS
 2) poveikio aplinkai vertinimo subjektai: 
 
 
-a) savivaldybės, kurios teritorijoje planuojama ūkinė veikla, vykdomoji institucija; 
+a) savivaldybės, kurios teritorijoje planuojama ūkinė veikla, meras ar jo įgaliotas savivaldybės administracijos direktorius; 
+Papunkčio pakeitimai:
+Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
+ 
 
 
 
@@ -371,7 +377,10 @@ g) kitos valstybės institucijos, įtrauktos į poveikio aplinkai vertinimo proc
 
 
 
-h) šio punkto a papunktyje nenurodyta (-os) savivaldybės (-ių) vykdomoji (-osios) institucija (-os), įtraukta (-os) į poveikio aplinkai vertinimo procesą šio straipsnio 2 dalyje nustatyta tvarka;
+h) šio punkto a papunktyje nenurodytas (-i) savivaldybės (-ių) meras (-ai) ar jo (jų) įgaliotas (-i) savivaldybės administracijos direktorius (-iai), įtrauktas (-i) į poveikio aplinkai vertinimo procesą šio straipsnio 2 dalyje nustatyta tvarka;
+Papunkčio pakeitimai:
+Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
+ 
 
 
 
@@ -564,7 +573,10 @@ c) turėti specialistų, turinčių ne mažesnę kaip vienų metų darbo patirt�
 
 
 
-5) savivaldybės vykdomoji institucija – dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir šios veiklos galimo poveikio aplinkai, atsižvelgdama į patvirtintų ir galiojančių teritorijų planavimo dokumentų sprendinius, galimybes pagal teritorijų planavimą reglamentuojančių teisės aktų reikalavimus juos keisti, galimą poveikį savivaldybės įsteigtoms saugomoms teritorijoms ir pagal Lietuvos Respublikos aplinkos monitoringo įstatymą vykdomos savivaldybės aplinkos stebėsenos (monitoringo) duomenis.
+5) savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius – dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo ir šios veiklos galimo poveikio aplinkai, atsižvelgdamas į patvirtintų ir galiojančių teritorijų planavimo dokumentų sprendinius, galimybes pagal teritorijų planavimą reglamentuojančių teisės aktų reikalavimus juos keisti, galimą poveikį savivaldybės įsteigtoms saugomoms teritorijoms ir pagal Lietuvos Respublikos aplinkos monitoringo įstatymą vykdomos savivaldybės aplinkos stebėsenos (monitoringo) duomenis.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
+ 
 
 
 
@@ -634,7 +646,10 @@ ATRANKA DĖL POVEIKIO APLINKAI VERTINIMO
 
 
 
-4. Atsakingoji institucija apie gautą atrankos informaciją ir apie galimybę pateikti pasiūlymus dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo ne vėliau kaip per 3 darbo dienas nuo jos gavimo dienos aplinkos ministro nustatyta tvarka informuoja poveikio aplinkai vertinimo subjektus ir visuomenę. Poveikio aplinkai vertinimo subjektai per 10 darbo dienų nuo pateiktos informacijos gavimo dienos, o suinteresuota visuomenė – nuo informacijos paskelbimo dienos, pateikia pasiūlymus dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo atsakingajai institucijai. Per šioje dalyje nustatytą terminą nepateikus pasiūlymų dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo atsakingajai institucijai, laikoma, kad poveikio aplinkai vertinimo subjektai, suinteresuota visuomenė pasiūlymų dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo neturi.
+4. Atsakingoji institucija apie gautą atrankos informaciją ir apie galimybę pateikti pasiūlymus dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo ne vėliau kaip per 3 darbo dienas nuo jos gavimo dienos aplinkos ministro nustatyta tvarka informuoja poveikio aplinkai vertinimo subjektus ir visuomenę. Poveikio aplinkai vertinimo subjektai per 10 darbo dienų nuo pateiktos informacijos gavimo dienos, o suinteresuota visuomenė – nuo informacijos paskelbimo dienos pateikia pasiūlymus dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo atsakingajai institucijai. Per šioje dalyje nustatytą terminą nepateikus pasiūlymų dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo atsakingajai institucijai, laikoma, kad suinteresuota visuomenė pasiūlymų dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo neturi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
+ 
 
 
 
@@ -697,7 +712,10 @@ POVEIKIO APLINKAI VERTINIMAS
 
 
 
-6. Jeigu iki programos patvirtinimo, tačiau ne vėliau kaip per 20 darbo dienų nuo programos gavimo savivaldybės vykdomojoje institucijoje dienos savivaldybės, kurios teritorijoje planuojama ūkinė veikla, taryba, veikdama Lietuvos Respublikos vietos savivaldos įstatymo ir kitų įstatymų, kuriuose nustatoma savivaldybių kompetencija, neviršydama nustatytos kompetencijos, priima neigiamą motyvuotą sprendimą dėl planuojamos ūkinės veiklos galimybių, poveikio aplinkai vertinimo procedūros negali būti tęsiamos tol, kol galioja savivaldybės tarybos priimtas neigiamas motyvuotas sprendimas, išskyrus atvejus, kai planuojama ūkinė veikla yra pripažinta valstybei svarbiu projektu ar yra regioninės svarbos projektas arba planuojama ūkinė veikla reikalinga valstybei svarbiam ar regioninės svarbos projektui įgyvendinti. Apie savivaldybės tarybos priimtą neigiamą motyvuotą sprendimą savivaldybės administracija nedelsdama – per 3 darbo dienas – informuoja atsakingąją instituciją ir planuojamos ūkinės veiklos organizatorių ir kartu pateikia neigiamą motyvuotą savivaldybės tarybos sprendimą. Atsakingoji institucija, gavusi šį savivaldybės tarybos sprendimą, apie tai informuoja visuomenę aplinkos ministro nustatyta tvarka. 
+6. Jeigu iki programos patvirtinimo, tačiau ne vėliau kaip per 20 darbo dienų nuo programos gavimo savivaldybės administracijoje dienos savivaldybės, kurios teritorijoje planuojama ūkinė veikla, taryba, veikdama pagal Lietuvos Respublikos vietos savivaldos įstatymą ir kitus įstatymus, kuriuose nustatoma savivaldybių institucijų kompetencija, neviršydama nustatytos kompetencijos, priima neigiamą motyvuotą sprendimą dėl planuojamos ūkinės veiklos galimybių, poveikio aplinkai vertinimo procedūros negali būti tęsiamos tol, kol galioja savivaldybės tarybos priimtas neigiamas motyvuotas sprendimas, išskyrus atvejus, kai planuojama ūkinė veikla yra pripažinta valstybei svarbiu projektu ar yra regioninės svarbos projektas arba planuojama ūkinė veikla reikalinga valstybei svarbiam ar regioninės svarbos projektui įgyvendinti. Apie savivaldybės tarybos priimtą neigiamą motyvuotą sprendimą savivaldybės administracija nedelsdama, ne vėliau kaip per 3 darbo dienas nuo šioje dalyje nurodyto sprendimo priėmimo dienos, informuoja atsakingąją instituciją ir planuojamos ūkinės veiklos organizatorių ir kartu pateikia neigiamą motyvuotą savivaldybės tarybos sprendimą. Atsakingoji institucija, gavusi šį savivaldybės tarybos sprendimą, apie tai informuoja visuomenę aplinkos ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
+ 
 
 
 
@@ -870,7 +888,10 @@ POVEIKIO APLINKAI VERTINIMAS
 
 
 
-6. Jeigu programa nebuvo rengta ir jeigu iki sprendimo dėl planuojamos ūkinės veiklos priėmimo, tačiau ne vėliau kaip per 20 darbo dienų nuo ataskaitos gavimo savivaldybės vykdomojoje institucijoje dienos savivaldybės, kurios teritorijoje planuojama ūkinė veikla, taryba, veikdama Vietos savivaldos įstatymo ir kitų įstatymų, kuriuose nustatoma savivaldybių kompetencija, neviršydama nustatytos kompetencijos, priima neigiamą motyvuotą sprendimą dėl planuojamos ūkinės veiklos galimybių, šio įstatymo 8 straipsnio 6 dalyje nustatyta tvarka procedūros stabdomos, išskyrus šio įstatymo 8 straipsnio 6 dalyje nustatytus išimties atvejus. 
+6. Jeigu programa nebuvo rengta ir jeigu iki sprendimo dėl planuojamos ūkinės veiklos priėmimo, tačiau ne vėliau kaip per 20 darbo dienų nuo ataskaitos gavimo savivaldybės administracijoje dienos savivaldybės, kurios teritorijoje planuojama ūkinė veikla, taryba, veikdama pagal Vietos savivaldos įstatymą ir kitus įstatymus, kuriuose nustatoma savivaldybių institucijų kompetencija, neviršydama nustatytos kompetencijos, priima neigiamą motyvuotą sprendimą dėl planuojamos ūkinės veiklos galimybių, šio įstatymo 8 straipsnio 6 dalyje nustatyta tvarka procedūros stabdomos, išskyrus šio įstatymo 8 straipsnio 6 dalyje nustatytus išimties atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
+ 
 
 
 
@@ -2448,3 +2469,8 @@ Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1560, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25031
 Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2039, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12401
+Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 5, 6, 7, 8 ir 11 straipsnių pakeitimo įstatymas
