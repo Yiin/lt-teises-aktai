@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2021-07-30 iki 2023-06-22
+Suvestinė redakcija nuo 2023-06-23 iki 2023-07-05
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -199,43 +199,70 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-131. Patronuojamoji įmonė – įmonė, kuriai kita įmonė daro lemiamą įtaką. 
+14. Pagalbos teikėjas – valstybės valdymo ar savivaldybės institucija arba kitas juridinis asmuo, teikiantis valstybės pagalbą arba nereikšmingą (de minimis) pagalbą. 
 Papildyta straipsnio dalimi:
-Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
 
 
 
 
-132. Patronuojančioji įmonė – įmonė, kuri daro lemiamą įtaką kitai įmonei. 
+15. Patronuojamoji įmonė – įmonė, kuriai kita įmonė daro lemiamą įtaką. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
 
 
 
 
-14. Permoka – skirtumas tarp faktiškai sumokėtos prekės kainos ir kainos, kuri būtų, jei nebūtų šio įstatymo 5 ar 7 straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimo.
+16. Patronuojančioji įmonė – įmonė, kuri daro lemiamą įtaką kitai įmonei. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-15. Prekė – kiekvienas pirkimo ar pardavimo objektas, įskaitant visų rūšių paslaugas, darbus, teises ar vertybinius popierius. Pirkimu ar pardavimu laikomas prekės perleidimas ar įsigijimas pagal pirkimo–pardavimo, tiekimo, rangos sutartis ar kitus sandorius. Prekei prilyginami daiktai (turtas), perduodami pagal nuomos ar panaudos sutartis.
+17. Permoka – skirtumas tarp faktiškai sumokėtos prekės kainos ir kainos, kuri būtų, jei nebūtų šio įstatymo 5 ar 7 straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-16. Prekės rinka – visuma prekių, kurios, pirkėjų požiūriu, yra tinkamas pakaitalas viena kitai pagal jų savybes, naudojimą ir kainas.
+18. Prekė – kiekvienas pirkimo ar pardavimo objektas, įskaitant visų rūšių paslaugas, darbus, teises ar vertybinius popierius. Pirkimu ar pardavimu laikomas prekės perleidimas ar įsigijimas pagal pirkimo–pardavimo, tiekimo, rangos sutartis ar kitus sandorius. Prekei prilyginami daiktai (turtas), perduodami pagal nuomos ar panaudos sutartis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-17. Rinkos dalis – ūkio subjekto ar susijusių ūkio subjektų grupės perkamo ar parduodamo prekių kiekio procentinis santykis su bendru perkamu ar parduodamu prekių kiekiu atitinkamoje rinkoje. Jeigu neįmanoma gauti patikimų duomenų apie perkamą ar parduodamą prekių kiekį, nustatant rinkos dalį galima vadovautis ir kita objektyvia informacija apie atitinkamą rinką, įskaitant prekių pirkimų ar pardavimų vertę.
+19. Prekės rinka – visuma prekių, kurios, pirkėjų požiūriu, yra tinkamas pakaitalas viena kitai pagal jų savybes, naudojimą ir kainas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-18. Susijusių ūkio subjektų grupė – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės yra laikomi vienu ūkio subjektu koncentracijos priežiūros tikslais apskaičiuojant bendrąsias pajamas ir rinkos dalį. Jeigu neįrodoma priešingai, laikoma, kad susijusių ūkio subjektų grupę sudaro:
+20. Rinkos dalis – ūkio subjekto ar susijusių ūkio subjektų grupės perkamo ar parduodamo prekių kiekio procentinis santykis su bendru perkamu ar parduodamu prekių kiekiu atitinkamoje rinkoje. Jeigu neįmanoma gauti patikimų duomenų apie perkamą ar parduodamą prekių kiekį, nustatant rinkos dalį galima vadovautis ir kita objektyvia informacija apie atitinkamą rinką, įskaitant prekių pirkimų ar pardavimų vertę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+21. Susijusių ūkio subjektų grupė – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės yra laikomi vienu ūkio subjektu koncentracijos priežiūros tikslais apskaičiuojant bendrąsias pajamas ir rinkos dalį. Jeigu neįrodoma priešingai, laikoma, kad susijusių ūkio subjektų grupę sudaro:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 1) nagrinėjamas ūkio subjektas ir
@@ -271,35 +298,67 @@ Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 
 
 
-19. Susitarimas – bet kuria forma (raštu ar žodžiu) dviejų ar daugiau ūkio subjektų sudarytos sutartys arba ūkio subjektų suderinti veiksmai, įskaitant bet kurio ūkio subjektų junginio (asociacijos, susivienijimo, konsorciumo ir panašiai) (toliau – ūkio subjektų junginys) arba šio ūkio subjektų junginio atstovų priimtą sprendimą. 
+22. Susitarimas – bet kuria forma (raštu ar žodžiu) dviejų ar daugiau ūkio subjektų sudarytos sutartys arba ūkio subjektų suderinti veiksmai, įskaitant bet kurio ūkio subjektų junginio (asociacijos, susivienijimo, konsorciumo ir panašiai) (toliau – ūkio subjektų junginys) arba šio ūkio subjektų junginio atstovų priimtą sprendimą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
 
 
 
 
-20. Tiesioginis pirkėjas – fizinis arba juridinis asmuo, kuris tiesiogiai iš šio įstatymo 5 ar 7 straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimą padariusio ūkio subjekto įsigijo šio pažeidimo objektu tapusių prekių.
+23. Tiesioginis pirkėjas – fizinis arba juridinis asmuo, kuris tiesiogiai iš šio įstatymo 5 ar 7 straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimą padariusio ūkio subjekto įsigijo šio pažeidimo objektu tapusių prekių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-21. Ūkinė veikla – gamybinė, komercinė, finansinė ar profesinė veikla, susijusi su prekių pirkimu ar pardavimu, išskyrus atvejus, kai fiziniai asmenys prekę įsigyja asmeniniams ir namų ūkio poreikiams tenkinti.
+24. Ūkinė veikla – gamybinė, komercinė, finansinė ar profesinė veikla, susijusi su prekių pirkimu ar pardavimu, išskyrus atvejus, kai fiziniai asmenys prekę įsigyja asmeniniams ir namų ūkio poreikiams tenkinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-22. Ūkio subjektas – įmonės, jų junginiai (asociacijos, susivienijimai, konsorciumai ir pan.), įstaigos ar organizacijos arba kiti juridiniai ar fiziniai asmenys, kurie vykdo ar gali vykdyti ūkinę veiklą Lietuvos Respublikoje arba kurių veiksmai daro įtaką ar ketinimai, jeigu būtų įgyvendinti, galėtų daryti įtaką ūkinei veiklai Lietuvos Respublikoje. Lietuvos Respublikos viešojo administravimo subjektai laikomi ūkio subjektais, jeigu jie vykdo ūkinę veiklą.
+25. Ūkio subjektas – įmonės, jų junginiai (asociacijos, susivienijimai, konsorciumai ir pan.), įstaigos ar organizacijos arba kiti juridiniai ar fiziniai asmenys, kurie vykdo ar gali vykdyti ūkinę veiklą Lietuvos Respublikoje arba kurių veiksmai daro įtaką ar ketinimai, jeigu būtų įgyvendinti, galėtų daryti įtaką ūkinei veiklai Lietuvos Respublikoje. Lietuvos Respublikos viešojo administravimo subjektai laikomi ūkio subjektais, jeigu jie vykdo ūkinę veiklą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-23. Ūkio subjekto turtas – ilgalaikis materialusis turtas ir kiti neapyvartiniai aktyvai, naudojami ūkinei veiklai.
+26. Ūkio subjekto turtas – ilgalaikis materialusis turtas ir kiti neapyvartiniai aktyvai, naudojami ūkinei veiklai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-24. Ūkio subjekto vadovas – fizinis asmuo, kuris vadovauja juridiniam asmeniui ir yra vienasmenis jo valdymo organas.
+27. Ūkio subjekto vadovas – fizinis asmuo, kuris vadovauja juridiniam asmeniui ir yra vienasmenis jo valdymo organas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+28. Valstybės pagalbos arba nereikšmingos (de minimis) pagalbos priemonė (toliau – pagalbos priemonė) – teisės aktas, valstybės pagalbos arba nereikšmingos (de minimis) pagalbos schema, sprendimas ar kitas dokumentas arba tokių dokumentų visuma, kuriais vadovaujantis teikiama valstybės pagalba arba nereikšminga (de minimis) pagalba. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+29. Šiame įstatyme vartojama sąvoka „valstybės pagalba“ suprantama taip, kaip apibrėžiama Sutarties dėl Europos Sąjungos veikimo 107 straipsnio 1 dalyje. Šiame įstatyme vartojama sąvoka „nereikšminga (de minimis) pagalba“ suprantama taip, kaip apibrėžiama 2013 m. gruodžio 18 d. Komisijos reglamente (ES) Nr. 1407/2013 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai su visais pakeitimais, 2013 m. gruodžio 18 d. Komisijos reglamente (ES) Nr. 1408/2013 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žemės ūkio sektoriuje su visais pakeitimais, 2014 m. birželio 27 d. Komisijos reglamente (ES) Nr. 717/2014 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žuvininkystės ir akvakultūros sektoriuje su visais pakeitimais ir 2012 m. balandžio 25 d. Komisijos reglamente (ES) Nr. 360/2012 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai, skiriamai visuotinės ekonominės svarbos paslaugas teikiančioms įmonėms, su visais pakeitimais.
+Papildyta straipsnio dalimi:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
 
 
@@ -593,9 +652,10 @@ KONCENTRACIJOS PRIEŽIŪRA
 8 straipsnis. Pranešimas apie koncentraciją
 
 
-1. Apie numatomą įvykdyti koncentraciją privaloma pranešti Konkurencijos tarybai ir gauti leidimą, jeigu koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos Lietuvos Respublikoje paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu dvidešimt milijonų eurų ir jeigu kiekvieno mažiausiai iš dviejų koncentracijoje dalyvaujančių ūkio subjektų bendrosios pajamos Lietuvos Respublikoje paskutiniais prieš koncentraciją ūkiniais metais yra didesnės negu du milijonai eurų. 
+1. Apie numatomą įvykdyti koncentraciją privaloma pranešti Konkurencijos tarybai ir gauti leidimą, jeigu koncentracijoje dalyvaujančių ūkio subjektų suminės bendrosios pajamos Lietuvos Respublikoje paskutiniais prieš koncentraciją finansiniais metais yra didesnės negu dvidešimt milijonų eurų ir jeigu kiekvieno mažiausiai iš dviejų koncentracijoje dalyvaujančių ūkio subjektų bendrosios pajamos Lietuvos Respublikoje paskutiniais prieš koncentraciją finansiniais metais yra didesnės negu du milijonai eurų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
 
 
@@ -1402,7 +1462,18 @@ Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
 
 
 
-6) atlieka kitas įstatymuose įstaigos vadovui nustatytas ir Konkurencijos tarybos pavestas funkcijas.
+6) turi teisę spręsti su savimi susijusius einamuosius vidaus administravimo klausimus, išskyrus numatytus Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo 11 straipsnio 4 dalyje; 
+Papildyta straipsnio punktu:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+7) atlieka kitas įstatymuose įstaigos vadovui nustatytas ir Konkurencijos tarybos pavestas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
@@ -1520,7 +1591,18 @@ Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
 
 
 
-15. Konkurencijos taryba turi teisę visiškai ar iš dalies apriboti šias 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) įtvirtintas su šio įstatymo ir kitų įstatymų, kurių priežiūrą vykdo Konkurencijos taryba, pažeidimų tyrimų ar koncentracijos priežiūros procedūra susijusių duomenų subjektų teises: 
+15. Konkurencijos taryba asmens duomenis tvarko šiame įstatyme ir kituose įstatymuose bei Europos Sąjungos reglamentuose nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+16. Konkurencijos taryba turi teisę visiškai ar iš dalies apriboti šias 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) įtvirtintas su šio įstatymo ir kitų įstatymų, kurių priežiūrą vykdo Konkurencijos taryba, pažeidimų tyrimų ar koncentracijos priežiūros procedūra susijusių duomenų subjektų teises: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 1) teisę būti informuotiems apie savo duomenų tvarkymą;
@@ -1550,7 +1632,12 @@ Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
 
 
 
-16. Šio straipsnio 15 dalyje nurodyti teisių apribojimai gali būti taikomi Konkurencijos tarybai atliekant šio įstatymo ir kitų įstatymų, kurių priežiūrą vykdo Konkurencijos taryba, pavestas funkcijas tiek laiko ir tokia apimtimi, kiek tai yra būtina ir proporcinga šiais atvejais:
+17. Šio straipsnio 16 dalyje nurodyti teisių apribojimai gali būti taikomi Konkurencijos tarybai atliekant šio įstatymo ir kitų įstatymų, kurių priežiūrą vykdo Konkurencijos taryba, pavestas funkcijas tiek laiko ir tokia apimtimi, kiek tai yra būtina ir proporcinga šiais atvejais: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 1) jeigu įgyvendinus duomenų subjekto teises būtų padarytas neigiamas poveikis šio įstatymo ir kitų įstatymų, kurių priežiūrą vykdo Konkurencijos taryba, pažeidimų tyrimo ar koncentracijos priežiūros procedūros eigai, strategijai ar tikslams;
@@ -1565,7 +1652,10 @@ Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
 
 
 
-17. Duomenų subjekto teisių apribojimas gali būti taikomas tik toms duomenų subjekto asmens duomenų kategorijoms, dėl kurių šios teisės negali būti visiškai arba iš dalies įgyvendintos. Šių teisių apribojimų įgyvendinimo tvarką nustato Konkurencijos taryba. 
+18. Duomenų subjekto teisių apribojimas gali būti taikomas tik toms duomenų subjekto asmens duomenų kategorijoms, dėl kurių šios teisės negali būti visiškai arba iš dalies įgyvendintos. Šių teisių apribojimų įgyvendinimo tvarką nustato Konkurencijos taryba. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 Straipsnio pakeitimai:
@@ -2359,22 +2449,35 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 36 straipsnis. Baudos
 
 
-1. Už draudžiamus susitarimus, piktnaudžiavimą dominuojančia padėtimi, koncentracijos, apie kurią buvo privaloma pranešti, įgyvendinimą be Konkurencijos tarybos leidimo, koncentracijos tęsimą jos sustabdymo laikotarpiu, Konkurencijos tarybos nustatytų koncentracijos vykdymo sąlygų ar privalomų įpareigojimų pažeidimą, už šio įstatymo 35 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų įpareigojimų nevykdymą, už laikinųjų priemonių, ūkinės veiklos apribojimų ar už šio įstatymo 28 straipsnio 4 dalyje prisiimtų įsipareigojimų nesilaikymą ūkio subjektams skiriama piniginė bauda iki 10 procentų bendrųjų metinių pasaulinių pajamų praėjusiais ūkiniais metais. Bendrosios pasaulinės pajamos – visos ūkio subjekto gautos pajamos visose pasaulio valstybėse.
+1. Už draudžiamus susitarimus, piktnaudžiavimą dominuojančia padėtimi, koncentracijos, apie kurią buvo privaloma pranešti, įgyvendinimą be Konkurencijos tarybos leidimo, koncentracijos tęsimą jos sustabdymo laikotarpiu, Konkurencijos tarybos nustatytų koncentracijos vykdymo sąlygų ar privalomų įpareigojimų pažeidimą, už šio įstatymo 35 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų įpareigojimų nevykdymą, už laikinųjų priemonių, ūkinės veiklos apribojimų ar už šio įstatymo 28 straipsnio 4 dalyje prisiimtų įsipareigojimų nesilaikymą ūkio subjektams skiriama piniginė bauda iki 10 procentų bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. Bendrosios pasaulinės pajamos – visos ūkio subjekto gautos pajamos visose pasaulio valstybėse. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-2. Kai ūkio subjektų junginio padarytas šio įstatymo 5 ar 7 straipsnyje nurodytas pažeidimas yra susijęs su tokiam ūkio subjektų junginiui priklausančių ūkio subjektų veikla, Konkurencijos taryba turi teisę pasirinkti skirti baudą pagal šio straipsnio 1 dalį, arba procedūros dėl šio įstatymo pažeidimo tyrimo efektyvumo tikslais skirti baudą pagal šią dalį. Konkurencijos taryba už šio įstatymo 5 ar 7 straipsnio pažeidimą turi teisę skirti piniginę baudą ūkio subjektų junginiui iki 10 procentų sumos, kuri gaunama sudėjus kiekvieno ūkio subjektų junginiui priklausančio ūkio subjekto, vykdančio veiklą rinkoje, kuriai ūkio subjektų junginio padarytas pažeidimas daro poveikį, bendrąsias metines pasaulines pajamas praėjusiais ūkiniais metais. Tokiu atveju kiekvieno ūkio subjektų junginiui priklausančio ūkio subjekto finansinė atsakomybė, susijusi su ūkio subjektų junginiui paskirtos baudos sumokėjimu, neturi viršyti 10 procentų ūkio subjektų junginiui priklausančio ūkio subjekto bendrųjų metinių pasaulinių pajamų praėjusiais ūkiniais metais.
+2. Kai ūkio subjektų junginio padarytas šio įstatymo 5 ar 7 straipsnyje nurodytas pažeidimas yra susijęs su tokiam ūkio subjektų junginiui priklausančių ūkio subjektų veikla, Konkurencijos taryba turi teisę pasirinkti skirti baudą pagal šio straipsnio 1 dalį arba procedūros dėl šio įstatymo pažeidimo tyrimo efektyvumo tikslais skirti baudą pagal šią dalį. Konkurencijos taryba už šio įstatymo 5 ar 7 straipsnio pažeidimą turi teisę skirti piniginę baudą ūkio subjektų junginiui iki 10 procentų sumos, kuri gaunama sudėjus kiekvieno ūkio subjektų junginiui priklausančio ūkio subjekto, vykdančio veiklą rinkoje, kuriai ūkio subjektų junginio padarytas pažeidimas daro poveikį, bendrąsias metines pasaulines pajamas praėjusiais finansiniais metais. Tokiu atveju kiekvieno ūkio subjektų junginiui priklausančio ūkio subjekto finansinė atsakomybė, susijusi su ūkio subjektų junginiui paskirtos baudos sumokėjimu, neturi viršyti 10 procentų ūkio subjektų junginiui priklausančio ūkio subjekto bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą ar pateikimą ne laiku, taip pat neteisingos, klaidinančios ar ne visos informacijos pagal šio įstatymo 11 straipsnio 5 dalį ir 25 straipsnio 1 dalies 6 punktą pateikimą, nurodymų pateikti atsakymus į klausimus, užduotus asmenims, susijusiesiems su tiriamųjų ūkio subjektų veikla dėl faktų ir dokumentų pagal šio įstatymo 25 straipsnio 1 dalies 5 punktą, nevykdymą arba neteisingų, klaidinančių ar neišsamių atsakymų į klausimus pateikimą, už reikalavimų, pareikštų įgyvendinant šio įstatymo 25 straipsnio 1 dalyje nurodytas teises, nevykdymą, kliudymą atlikti šio įstatymo 25 straipsnio 1 dalyje nurodytus veiksmus, pažeistą ar nuplėštą antspaudą, uždėtą pagal šio įstatymo 25 straipsnio 1 dalies 1 ar 4 punktą, ūkio subjektams skiriama piniginė bauda iki 1 procento bendrųjų metinių pasaulinių pajamų praėjusiais ūkiniais metais.
+3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą ar pateikimą ne laiku, taip pat neteisingos, klaidinančios ar ne visos informacijos pagal šio įstatymo 11 straipsnio 5 dalį ir 25 straipsnio 1 dalies 6 punktą pateikimą, nurodymų pateikti atsakymus į klausimus, užduotus asmenims, susijusiesiems su tiriamųjų ūkio subjektų veikla dėl faktų ir dokumentų pagal šio įstatymo 25 straipsnio 1 dalies 5 punktą, nevykdymą arba neteisingų, klaidinančių ar neišsamių atsakymų į klausimus pateikimą, už reikalavimų, pareikštų įgyvendinant šio įstatymo 25 straipsnio 1 dalyje nurodytas teises, nevykdymą, kliudymą atlikti šio įstatymo 25 straipsnio 1 dalyje nurodytus veiksmus, pažeistą ar nuplėštą antspaudą, uždėtą pagal šio įstatymo 25 straipsnio 1 dalies 1 ar 4 punktą, ūkio subjektams skiriama piniginė bauda iki 1 procento bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-4. Už Konkurencijos tarybos įpareigojimų nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą, už įpareigojimų nutraukti draudžiamą susitarimą ar piktnaudžiavimą dominuojančia padėtimi ūkio subjektų struktūrą keičiančiomis priemonėmis nevykdymą, už laikinųjų priemonių nesilaikymą, už reikalavimų, pareikštų įgyvendinant šio įstatymo 25 straipsnio 1 dalyje nurodytas teises, nevykdymą, už kliudymą atlikti šio įstatymo 25 straipsnio 1 dalyje nurodytus veiksmus, už prisiimtų įsipareigojimų nesilaikymą pagal šio įstatymo 28 straipsnio 4 dalį ūkio subjektams skiriama piniginė bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną iki 5 procentų vidutinių dienos bendrųjų pasaulinių pajamų praėjusiais ūkiniais metais.
+4. Už Konkurencijos tarybos įpareigojimų nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą, už įpareigojimų nutraukti draudžiamą susitarimą ar piktnaudžiavimą dominuojančia padėtimi ūkio subjektų struktūrą keičiančiomis priemonėmis nevykdymą, už laikinųjų priemonių nesilaikymą, už reikalavimų, pareikštų įgyvendinant šio įstatymo 25 straipsnio 1 dalyje nurodytas teises, nevykdymą, už kliudymą atlikti šio įstatymo 25 straipsnio 1 dalyje nurodytus veiksmus, už prisiimtų įsipareigojimų nesilaikymą pagal šio įstatymo 28 straipsnio 4 dalį ūkio subjektams skiriama piniginė bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną iki 5 procentų vidutinių dienos bendrųjų pasaulinių pajamų praėjusiais finansiniais metais.
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
@@ -3486,22 +3589,32 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 VII SKYRIUS
-EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ TAIKYMAS
+EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ IR REGLAMENTO (ES) 2022/1925 TAIKYMAS 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
 
 
-54 straipsnis. Įgaliota institucija
+54 straipsnis. Įgaliota ir (arba) kompetentinga institucija 
 
 
-1. Konkurencijos taryba yra institucija, įgaliota taikyti Europos Sąjungos konkurencijos taisykles, kurių laikymosi priežiūra pagal Europos Sąjungos konkurencijos teisę pavedama nacionalinei konkurencijos institucijai.
+1. Konkurencijos taryba yra institucija, įgaliota taikyti Europos Sąjungos konkurencijos taisykles, kurių laikymosi priežiūra pagal Europos Sąjungos konkurencijos teisę pavedama nacionalinei konkurencijos institucijai. 
 
 
 
 
-2. Konkurencijos taryba, atlikdama savo funkcijas, suteiktas pagal šio straipsnio 1 dalį, veikia šio įstatymo nustatyta tvarka.
+2. Konkurencijos taryba laikoma kompetentinga institucija, užtikrinančia Reglamento (ES) 2022/1925 1 straipsnio 6 dalyje nurodytų taisyklių vykdymą.
+
+
+
+
+3. Konkurencijos taryba, atlikdama savo funkcijas, suteiktas pagal šio straipsnio 1 ir 2 dalis, veikia šio įstatymo nustatyta tvarka tiek, kiek jos, kaip įgaliotos ir (arba) kompetentingos institucijos, atitinkamų funkcijų nenustato Europos Sąjungos konkurencijos taisyklės ir (arba) Reglamentas (ES) 2022/1925.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
-
-
 
 
 
@@ -3532,12 +3645,18 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 56 straipsnis. Policijos pagalba ir teismo leidimų dėl tyrimo veiksmų išdavimas
 
 
-1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles atliekantys Europos Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti ir galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus.
+1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles ar Reglamento (ES) 2022/1925 nuostatas atliekantys Europos Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti ir galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-2. Vilniaus apygardos administracinis teismas išduoda teismo leidimus dėl galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 20 straipsnyje nurodytu atveju.
+2. Vilniaus apygardos administracinis teismas išduoda teismo leidimus dėl galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 20 straipsnyje ar Reglamento (ES) 2022/1925 23 straipsnio 8 dalyje nurodytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
@@ -3555,7 +3674,10 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-57 straipsnis. Konkurencijos bylų nagrinėjimas teisme
+57 straipsnis. Konkurencijos bylų ir Reglamento (ES) 2022/1925 taikymo bylų nagrinėjimas teisme 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 1. Teismas, gavęs ieškinį, susijusį su Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio taikymu, apie tai informuoja Konkurencijos tarybą. Tokiu atveju Konkurencijos taryba turi Civilinio proceso kodekso 50 straipsnio 2 dalyje numatytas teises. 
@@ -3566,12 +3688,19 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-2. Sprendimo (nutarties), priimto (priimtos) byloje, kurioje buvo taikomas Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnis, nuorašas nedelsiant po tokio sprendimo (nutarties) paskelbimo išsiunčiamas Europos Komisijai ir Konkurencijos tarybai. 
+2. Sprendimo (nutarties), priimto (priimtos) byloje, kurioje buvo taikomas Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnis arba Reglamento (ES) 2022/1925 nuostatos, nuorašas nedelsiant, paskelbus tokį sprendimą (tokią nutartį), išsiunčiamas Europos Komisijai ir Konkurencijos tarybai. Sprendimo (nutarties), priimto (priimtos) byloje, kurioje buvo taikomas šio įstatymo 4, 5, 6 ar 7 straipsnis, nuorašas nedelsiant, paskelbus tokį sprendimą (tokią nutartį), išsiunčiamas Konkurencijos tarybai. 
+TAR pastaba: 57 straipsnio 2 dalies nuostatos taikomos po įstatymo Nr. XIV-2035 įsigaliojimo dienos (2023-06-23) priimtiems teismo sprendimams (priimtoms teismo nutartims) bylose, kuriose buvo taikomas Konkurencijos įstatymo 4, 5, 6 ar 7 straipsnis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-3. Procesas gali būti atnaujinamas, kai paaiškėja, kad po teismo sprendimo (nutarties) priėmimo, kuriame (kurioje) susitarimams, sprendimams ar veiklai buvo taikomas Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnis, priimamas Europos Komisijos sprendimas dėl šių straipsnių taikymo tiems patiems susitarimams, sprendimams ar veiklai ir tas taikymo rezultatas iš esmės skiriasi.
+3. Procesas gali būti atnaujinamas, kai paaiškėja, kad priėmus teismo sprendimą (nutartį), kuriame (kurioje) susitarimams, sprendimams ar veiklai buvo taikomas Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnis arba Reglamento (ES) 2022/1925 nuostatos, priimamas Europos Komisijos sprendimas dėl šių straipsnių arba Reglamento (ES) 2022/1925 nuostatų taikymo tiems patiems susitarimams, sprendimams ar veiklai ir tas taikymo rezultatas iš esmės skiriasi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
@@ -3720,12 +3849,34 @@ priedas
 
 
 
-3. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151.
+3. 2015 m. liepos 13 d. Tarybos reglamentas (ES) 2015/1589, nustatantis išsamias Sutarties dėl Europos Sąjungos veikimo 108 straipsnio taikymo taisykles (kodifikuota redakcija). 
+Papildyta punktu:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 
 
-4. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1, kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas.
+4. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151.
+Punkto numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+5. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1, kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas.
+Punkto numeracijos pakeitimas:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+6. 2022 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/1925 dėl atvirų konkurencijai ir sąžiningų skaitmeninio sektoriaus rinkų, kuriuo iš dalies keičiamos direktyvos (ES) 2019/1937 ir (ES) 2020/1828 (Skaitmeninių rinkų aktas).
+Papildyta punktu:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
 
 
 Priedo pakeitimai:
@@ -3830,3 +3981,13 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 1, 3, 11, 16, 17, 18,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 20, 41 straipsnių ir priedo pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 26, 27, 32, 33, 35, 39, 41, 56, 57 ir 59 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 8, 20, 21, 36, 54, 55, 56, 57 straipsnių, VII skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
