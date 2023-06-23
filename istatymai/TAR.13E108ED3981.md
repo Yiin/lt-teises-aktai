@@ -18,10 +18,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-07-01 iki 2023-06-22
+Suvestinė redakcija nuo 2023-06-23 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 63-1582, i. k. 0951010ISTA00I-1034
  
@@ -454,23 +453,25 @@ II SKYRIUS
 
 
 
-5 straipsnis. Savivaldybės institucijos kompetencija žemės gelmių naudojimo ir apsaugos srityje
+5 straipsnis. Savivaldybės mero ar jo įgalioto savivaldybės administracijos direktoriaus kompetencija žemės gelmių naudojimo ir apsaugos srityje
 
 
-Savivaldybės vykdomosios institucijos funkcijos žemės gelmių naudojimo ir apsaugos srityje:
+Savivaldybės mero ar jo įgalioto savivaldybės administracijos direktoriaus funkcijos žemės gelmių naudojimo ir apsaugos srityje:
 
 
-1) išduoda planavimo sąlygas žemės gelmių naudojimo plano rengimui; 
+1) išduoda planavimo sąlygas žemės gelmių naudojimo plano rengimui;
 
 
 
 
-2) Aplinkos ministerijos nustatyta tvarka teikia išvadas paraiškoms dėl gėlo požeminio vandens gavybos gręžinio projektavimo. 
+2) Aplinkos ministerijos nustatyta tvarka teikia išvadas paraiškoms dėl gėlo požeminio vandens gavybos gręžinio projektavimo.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2040, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12402
  
-
-
-
-
 
 
 
@@ -720,9 +721,10 @@ Leidimas tirti žemės gelmes neišduodamas, jeigu:
 
 
 
-3. Registruojamų tiesioginių žemės gelmių tyrimų vieta (kai gręžiamas gręžinys, kurio projektinis gylis 300 metrų ir daugiau, ar mineralinio požeminio vandens gręžinys) ar plotas (visais kitais atvejais), atlikimo būdas ir trukmė turi būti suderinti su žemės savininkais, valdytojais ir naudotojais vadovaujantis Žemės įstatymo nuostatomis, o įgyvendinant ypatingos valstybinės svarbos projektus informacija ir pranešimai žemės savininkams, valdytojams ir (ar) kitiems naudotojams pateikiami vadovaujantis Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo nuostatomis. Prieš pradėdamas angliavandenilių išteklių tiesioginį žemės gelmių tyrimą, leidimo turėtojas ne vėliau kaip prieš 15 kalendorinių dienų apie tai turi raštu pranešti savivaldybės, kurios teritorijoje numatomi žemės gelmių tyrimai, vykdomajai institucijai.
+3. Registruojamų tiesioginių žemės gelmių tyrimų vieta (kai gręžiamas gręžinys, kurio projektinis gylis 300 metrų ir daugiau, ar mineralinio požeminio vandens gręžinys) ar plotas (visais kitais atvejais), atlikimo būdas ir trukmė turi būti suderinti su žemės savininkais, valdytojais ir naudotojais vadovaujantis Žemės įstatymo nuostatomis, o įgyvendinant ypatingos valstybinės svarbos projektus informacija ir pranešimai žemės savininkams, valdytojams ir (ar) kitiems naudotojams pateikiami vadovaujantis Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo nuostatomis. Prieš pradėdamas angliavandenilių išteklių tiesioginį žemės gelmių tyrimą, leidimo turėtojas ne vėliau kaip prieš 15 kalendorinių dienų apie tai turi raštu pranešti savivaldybės, kurios teritorijoje numatomi žemės gelmių tyrimai, administracijai.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1049, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09662
+Nr. XIV-2040, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12402
  
 
 
@@ -1913,7 +1915,6 @@ V – valstybės lėšomis iki konkurso atliktų ploto (telkinio) žemės gelmi�
 
  
 
- 
 Lietuvos Respublikos 
 žemės gelmių įstatymo
 2 priedas
@@ -2026,3 +2027,13 @@ Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1049, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09662
 Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 2 ir 11 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1955, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09699
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 23 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2040, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12402
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 5 ir 11 straipsnių pakeitimo įstatymas
