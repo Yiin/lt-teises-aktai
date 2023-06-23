@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-11-01 iki 2023-06-22
+Suvestinė redakcija nuo 2023-06-23 iki 2023-12-22
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
  
@@ -2397,22 +2397,17 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-44 straipsnis. Neteko galios nuo 2015-01-01
-Straipsnio naikinimas:
-Nr. XII-1116, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13413
+44 straipsnis. Įgaliojimas Biurui
+
+
+Biuras, atsižvelgdamas į žalos atlyginimo institucijų teises, pareigas ir tarpusavio atsiskaitymą dėl žalos atlyginimo nukentėjusiems tretiesiems asmenims, kai draudimo įmonė bankrutuoja ar yra likviduojama, siekia iki 2023 m. gruodžio 23 d. sudaryti susitarimą su kitų Europos Sąjungos valstybių narių įgaliotomis institucijomis, atsakingomis už žalos atlyginimą, ir apie sudarytą susitarimą informuoti Europos Komisiją.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIV-1973, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10366
  
-
-
-
-
-45 straipsnis. Informacija, teikiama Europos Bendrijų Komisijai
-
-
-Finansų ministerija informuoja Europos Bendrijų Komisiją apie šio įstatymo 11 straipsnio 1 dalyje nustatytus draudimo sumų pereinamuosius laikotarpius.
-
-
-
-
 
 
 
@@ -2439,12 +2434,18 @@ priedas
  
 
 
-3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo (OL 2009 L 263, p. 11).
+3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo su pakeitimais, padarytais 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2118. 
+Punkto pakeitimai:
+Nr. XIV-1973, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10366
+ 
 
 
 
 
-4. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1).
+4. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II).
+Punkto pakeitimai:
+Nr. XIV-1973, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10366
+ 
 
 
 Priedo pakeitimai:
@@ -2454,7 +2455,6 @@ Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
 
 
 
- 
  
  
  
@@ -2518,3 +2518,8 @@ Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės pr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
 Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 11, 14, 15, 19 straipsnių ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1973, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10366
+Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo Nr. IX-378 šeštojo skirsnio ir priedo pakeitimo įstatymas
