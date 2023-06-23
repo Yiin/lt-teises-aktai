@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-06-22
+Suvestinė redakcija nuo 2023-06-23 iki 2023-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -3624,16 +3624,22 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-3) iki 1 m keičiami statinio ar jo dalių išorės matmenys;
+3) iki 1 m keičiami (didinami ar mažinami) pastato ar turinčio stogą inžinerinio statinio ar jo dalių išorės matmenys;
 
 
 
 
-4) keičiamos statinio laikančiosios konstrukcijos ar jų išdėstymas statinio viduje ir nesikeičia statinio kategorija.
+4) iki 1 m didinami ar neribotai mažinami neturinčio stogo inžinerinio statinio ar jo dalių išorės matmenys;
+
+
+
+
+5) keičiamos statinio laikančiosios konstrukcijos ar jų išdėstymas statinio viduje ir nesikeičia statinio kategorija.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
+Nr. XIV-2041, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12405
  
 
 
@@ -3863,7 +3869,10 @@ Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
 8. Valstybinė energetikos reguliavimo taryba tikrina daugiabučių namų kapitalinio remonto projektus ir paprastojo remonto aprašus (funkcinius ir technologinius projektų sprendinius, su jais susijusius techninius rodiklius ir energetikos įrenginių technines charakteristikas), kai pertvarkoma daugiabučio namo ar jo dalies šildymo ir apsirūpinimo karštu vandeniu bendroji inžinerinė sistema (keičiamas šildymo būdas, atsijungiama nuo (prisijungiama prie) šilumos perdavimo tinklų) ir šių naujai statomų ar rekonstruojamų energetikos objektų (statinių) projektus (projektų sprendinių atitiktį energetikos objektų (išskyrus pastatus), įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimams):
 
 
-1) elektrinių (didesnės kaip 30 kW įrengtosios galios) ir katilinių;
+1) elektrinių (didesnės kaip 100 kW įrengtosios galios) ir katilinių;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2041, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12405
+ 
 
 
 
@@ -6377,3 +6386,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 4, 8, 12, 14, 17, 18, 22, 24, 27, 27-1, 28, 29, 34, 35, 36, 37, 39, 40, 47, 51, 55 straipsnių, 1 priedo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2041, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12405
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-1 straipsnių pakeitimo įstatymas
