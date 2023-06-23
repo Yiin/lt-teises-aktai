@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-22
+Suvestinė redakcija nuo 2023-06-23 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -236,10 +236,11 @@ Nr. XIII-1881, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00234
 
 
 
-162. Lietuvos hibridinis subjektas – subjektas, išskyrus kolektyvinio investavimo subjektą, arba darinys, kuriame daugiau kaip 50 procentų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį, ar išimtinių teisių jas įsigyti tiesiogiai ar netiesiogiai valdo arba vienas užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis, arba keli asocijuoti asmenys, iš kurių bent vienas yra užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis.
-TAR pastaba. 2 straipsnį 162 dalies nuostatos yra taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+162. Lietuvos hibridinis subjektas – subjektas, išskyrus kolektyvinio investavimo subjektą, arba darinys, kuriame 50 procentų ar daugiau akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį, ar išimtinių teisių jas įsigyti tiesiogiai ar netiesiogiai valdo arba vienas užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis, arba keli asocijuoti asmenys, iš kurių bent vienas yra užsienio valstybės rezidentas mokesčių tikslais, kuris pagal užsienio valstybės teisės aktus laikomas atskiru vienetu, tačiau jo pajamos ir sąnaudos pagal šį Įstatymą laikomos kito (kitų) asmens (asmenų) pajamomis ir sąnaudomis.
 Papildyta straipsnio dalimi:
 Nr. XIV-726, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25844
+Straipsnio dalies pakeitimai:
+Nr. XIV-2038, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12400
  
 
 
@@ -5408,3 +5409,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 31 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1681, 2022-12-15, paskelbta TAR 2022-12-23, i. k. 2022-26618
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 31 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2038, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12400
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2 straipsnio pakeitimo įstatymas
