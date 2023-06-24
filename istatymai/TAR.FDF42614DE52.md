@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-23
+Suvestinė redakcija nuo 2023-06-24 iki 2023-07-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
  
@@ -146,7 +146,10 @@ Nr. XIV-1532, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24176
 
 
 
-2. Bedarbiams, nurodytiems šio įstatymo 5 straipsnio 1 dalies 1 punkte, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau negu anksčiau nei nuo bedarbio statuso įgijimo dienos.
+2. Bedarbiams, nurodytiems šio įstatymo 5 straipsnio 1 dalies 1 punkte, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau ne anksčiau negu nuo bedarbio statuso įgijimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
+ 
 
 
 
@@ -798,3 +801,8 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 2 ir 19 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1532, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24176
 Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 5, 6, 8, 10, 11 ir 18 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 6, 8 ir 12 straipsnių pakeitimo įstatymas
