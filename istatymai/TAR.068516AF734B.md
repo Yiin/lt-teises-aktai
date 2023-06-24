@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-05-31 iki 2023-06-23
+Suvestinė redakcija nuo 2023-06-24 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
- 
-TAR pastaba. Įįstatymas Nr. XIV-1971  taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. Lietuvos Respublikos 2023 metų Valstybinio socialinio draudimo fondo biudžetas ligos socialinio draudimo ir motinystės socialinio draudimo srityse vykdomas pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatas, galiojusias iki šio įstatymo Nr. XIV-1971 įsigaliojimo dienos (2023-07-02).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3, 6-1, 30 ir 31 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2501, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20641
@@ -197,9 +192,10 @@ Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
 
 
 
-3) teisę į naują ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką įgyja be pertraukos kitą dieną po ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo pabaigos, o ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas anksčiau paskirtai ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokai gauti yra sumokėję šios dalies 1 ar 2 punkte nustatyta tvarka.
+3) teisę į naują ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką įgyja ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo laikotarpiu arba be pertraukos kitą dieną po ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo pabaigos, o ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas anksčiau paskirtai ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokai gauti yra sumokėję šios dalies 1 ar 2 punkte nustatyta tvarka.
 Straipsnio punkto pakeitimai:
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -300,12 +296,12 @@ Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
 
 
 
-2) tėvystės – apdraustajam asmeniui tėvystės atostogų metu arba tėvystės laikotarpiu; 
+2) tėvystės – apdraustajam asmeniui tėvystės atostogų metu arba tėvystės laikotarpiu, arba tėvystės atostogų, suteiktų pagal Lietuvos Respublikos darbo kodekso 133 straipsnio 2 dalį, metu, jeigu įtėviui anksčiau nebuvo suteiktos vaiko priežiūros atostogos tam pačiam vaikui prižiūrėti arba jeigu įvaikintas ne sutuoktinio vaikas;
 
 
 
 
-3) vaiko priežiūros – apdraustajam asmeniui vaiko priežiūros atostogų metu, kol vaikui sueis 18 arba 24 mėnesiai, arba vaiko priežiūros laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte ir šio įstatymo 22 straipsnio 3 dalyje, arba vaiko priežiūros atostogų, suteiktų pagal Lietuvos Respublikos darbo kodekso 134 straipsnio 2 dalį, metu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, bet ne ilgiau, iki vaikui sukaks 18 metų, jeigu įmotė (įtėvis) anksčiau negavo vaiko priežiūros išmokos tam pačiam vaikui prižiūrėti.
+3) vaiko priežiūros – apdraustajam asmeniui vaiko priežiūros atostogų metu, kol vaikui sueis 18 arba 24 mėnesiai, arba vaiko priežiūros laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte ir šio įstatymo 22 straipsnio 3 dalyje, arba vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 134 straipsnio 2 dalį, metu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, bet ne ilgiau, iki vaikui sukaks 18 metų, jeigu įmotė (įtėvis) anksčiau negavo vaiko priežiūros išmokos tam pačiam vaikui prižiūrėti arba jeigu įvaikintas ne sutuoktinio vaikas. 
 
 
 Straipsnio dalies pakeitimai:
@@ -313,14 +309,16 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
 Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
 
 
-4. Pagal Valstybinio socialinio draudimo įstatymą motinystės socialiniu draudimu draudžiami asmenys, kuriems nėštumo ir gimdymo, tėvystės ir vaiko priežiūros atostogos nesuteikiamos, nėštumo ir gimdymo laikotarpiu remiantis nėštumo ir gimdymo atostogų pažymėjimu prilyginami asmenims, kuriems suteiktos nėštumo ir gimdymo atostogos, o remiantis Lietuvos Respublikos gyventojų registro duomenimis apie vaiko gimimą (vaiko vardas, pavardė, asmens kodas (jei neturi, – gimimo data), motinos ir tėvo vardas, pavardė, asmens kodas (jei neturi, – gimimo data) arba vaiko gimimo faktą patvirtinančiu dokumentu, jeigu duomenų apie vaiko gimimą nėra Lietuvos Respublikos gyventojų registre, ir jų Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui (toliau – Fondo valdybos teritorinis skyrius) pateiktu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus (toliau – Fondo valdybos direktorius) patvirtintos formos pranešimu apie pasirinktą tėvystės laikotarpį vaikui prižiūrėti ar vaiko priežiūros laikotarpį, – asmenims, kuriems suteiktos tėvystės ar vaiko priežiūros atostogos.
+4. Pagal Valstybinio socialinio draudimo įstatymą motinystės socialiniu draudimu draudžiami asmenys, kuriems nėštumo ir gimdymo, tėvystės ir vaiko priežiūros atostogos nesuteikiamos, nėštumo ir gimdymo laikotarpiu, remiantis nėštumo ir gimdymo atostogų pažymėjimu, prilyginami asmenims, kuriems suteiktos nėštumo ir gimdymo atostogos, o remiantis Lietuvos Respublikos gyventojų registro duomenimis apie vaiko gimimą (vaiko vardas, pavardė, asmens kodas (jei neturi, – gimimo data), motinos ir tėvo vardas, pavardė, asmens kodas (jei neturi, – gimimo data) arba vaiko gimimo faktą patvirtinančiu dokumentu, jeigu duomenų apie vaiko gimimą nėra Lietuvos Respublikos gyventojų registre, ir jų Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui (toliau – Fondo valdybos teritorinis skyrius) pateiktu Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus (toliau – Fondo valdybos direktorius) patvirtintos formos pranešimu apie pasirinktą tėvystės laikotarpį ar vaiko priežiūros laikotarpį, – asmenims, kuriems suteiktos tėvystės ar vaiko priežiūros atostogos. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -367,9 +365,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-5. Maksimalus kompensuojamasis uždarbis ligos, profesinės reabilitacijos, tėvystės ir vaiko priežiūros išmokoms apskaičiuoti negali viršyti dviejų šalies vidutinių mėnesinių darbo užmokesčių, galiojusių užpraeitą ketvirtį iki nedarbingumo atsiradimo mėnesio, profesinės reabilitacijos programos pradžios mėnesio ar teisės gauti tėvystės ar vaiko priežiūros išmoką atsiradimo dienos, dydžio. Kompensuojamasis uždarbis motinystės išmokoms apskaičiuoti negali viršyti atitinkamų kalendorinių metų socialinio draudimo įmokų bazės, galiojančios laikotarpiu, už kurį skaičiuojamas kompensuojamasis uždarbis. Kai kompensuojamasis uždarbis motinystės išmokos dydžiui nustatyti apskaičiuojamas pagal draudžiamąsias pajamas, turėtas keliose darbovietėse, atitinkamų kalendorinių metų socialinio draudimo įmokų bazė taikoma kiekvienoje darbovietėje turėtoms pajamoms atskirai.
+5. Maksimalus kompensuojamasis uždarbis ligos, profesinės reabilitacijos, tėvystės ir vaiko priežiūros išmokoms apskaičiuoti negali viršyti dviejų šalies vidutinių mėnesinių darbo užmokesčių, galiojusių užpraeitą ketvirtį iki nedarbingumo atsiradimo mėnesio, profesinės reabilitacijos programos pradžios mėnesio ar teisės gauti tėvystės ar vaiko priežiūros išmoką atsiradimo dienos, dydžio. Kompensuojamasis uždarbis motinystės išmokoms apskaičiuoti negali viršyti atitinkamų kalendorinių metų socialinio draudimo įmokų bazės, galiojančios laikotarpiu, už kurį skaičiuojamas kompensuojamasis uždarbis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1827, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21847
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -483,9 +482,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3) iki laikinojo nedarbingumo pradžios dienos turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos socialinio draudimo stažą, išskyrus atvejus, numatytus šio straipsnio 2, 3 ir 4 dalyse.
+3) iki laikinojo nedarbingumo pradžios dienos turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos socialinio draudimo stažą, išskyrus atvejus, numatytus šio straipsnio 2, 3 ir 4 dalyse. Ligos išmokoms, darbdavio mokamoms dvi pirmąsias ligos dienas, ligos socialinio draudimo stažo reikalavimas netaikomas. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -910,12 +910,13 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3. Asmeniui, turinčiam šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą ir per 24 mėnesius iki pirmosios nėštumo ir gimdymo atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, atleistam iš tarnybos, nutraukusiam individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį), motinystės išmoka mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+3. Asmeniui, turinčiam šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą ir per 24 mėnesius iki pirmosios nėštumo ir gimdymo atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, atleidus iš tarnybos, nutraukus individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį), motinystės išmoka mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Motinystės išmoka asmeniui, turinčiam šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą, taip pat skiriama, jeigu nėštumo ir gimdymo atostogos prasideda prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
 Straipsnio dalies pakeitimai:
 Nr. KT23-N13/2018, 2018-12-19, paskelbta TAR 2018-12-19, i. k. 2018-20843
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 Nr. XIII-2741, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21563
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
  
@@ -1067,9 +1068,11 @@ Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
 
 
 
-3. Jeigu gimęs vaikas mirė arba jeigu gimė negyvas vaikas ir dar neprasidėjo apdraustojo asmens tėvystės atostogos, tėvystės išmoka skiriama ir mokama už visą tėvystės atostogų laikotarpį, jei tėvystės atostogos prasideda ne vėliau kaip per 5 darbo dienas nuo negyvo vaiko gimimo arba vaiko mirties dienos. Jeigu vaikas miršta prasidėjusių tėvystės atostogų laikotarpiu, tėvystės išmoka skiriama ir mokama iki apdraustajam asmeniui suteiktų tėvystės atostogų arba tėvystės laikotarpio vaikui prižiūrėti pabaigos.
+3. Jeigu gimęs vaikas mirė arba jeigu gimė negyvas vaikas ir dar neprasidėjo apdraustojo asmens tėvystės atostogos, tėvystės išmoka skiriama ir mokama už visą tėvystės atostogų laikotarpį, jei tėvystės atostogos prasideda ne vėliau kaip per 5 darbo dienas nuo negyvo vaiko gimimo arba vaiko mirties dienos. Jeigu vaikas miršta prasidėjusių tėvystės atostogų laikotarpiu, tėvystės išmoka skiriama ir mokama iki apdraustajam asmeniui suteiktų tėvystės atostogų arba tėvystės laikotarpio pabaigos.
 Papildyta straipsnio dalimi:
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
+Straipsnio dalies pakeitimai:
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -1706,7 +1709,7 @@ priedas
 Papildyta priedu:
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
  
-part_54b97f2787994209a017fe4d0fe61708_end
+part_ad3d45877cb2495a8dba30fdb6868f1d_end
 
 
  
@@ -2083,3 +2086,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3, 6-1, 30 ir 31 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 5, 6, 8, 9, 10, 11, 11-1, 16, 18, 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas
