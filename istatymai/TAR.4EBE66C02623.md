@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2023-06-22 iki 2023-06-23
+Suvestinė redakcija nuo 2023-06-24 iki 2023-06-30
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -18583,27 +18583,25 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 488 straipsnis. Viešosios rimties trikdymas
 
 
-1. Šauksmai, švilpimas, garsus dainavimas arba grojimas muzikos instrumentais, kitokiais garsiniais aparatais ar kiti triukšmą keliantys veiksmai gatvėse, aikštėse, parkuose, paplūdimiuose, viešajame transporte ir kitose viešosiose vietose, o vakaro (nuo 19 val. iki 22 val.) ir nakties (nuo 22 val. iki 7 val.) metu – ir gyvenamosiose patalpose, įmonėse, įstaigose ar organizacijose, kai tai trikdo asmenų ramybę, poilsį ar darbą,
-užtraukia baudą nuo dvidešimt iki aštuoniasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-401, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09785
- 
+1. Šauksmai, švilpimas, garsus dainavimas arba grojimas muzikos instrumentais, kitokiais garsiniais aparatais ar kiti triukšmą keliantys veiksmai gatvėse, aikštėse, parkuose, paplūdimiuose, viešajame transporte ir kitose viešosiose vietose, o vakaro (nuo 19 val. iki 22 val.) ir nakties (nuo 22 val. iki 7 val.) metu – ir gyvenamosiose patalpose, įmonėse, įstaigose ar organizacijose, kai tai trikdo asmenų ramybę, poilsį ar darbą,
+užtraukia baudą asmenims nuo aštuoniasdešimt iki dviejų šimtų eurų ir juridinių asmenų vadovams arba kitiems atsakingiems asmenims – nuo dviejų šimtų iki trijų šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo aštuoniasdešimt iki trijų šimtų eurų.
+užtraukia baudą asmenims nuo dviejų šimtų iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki keturių šimtų eurų.
 
 
 
 
-3. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus, padarytus viešojoje vietoje vykstančiame renginyje, gali būti skiriamas draudimas lankytis viešosiose vietose vykstančiuose renginiuose nuo vieno mėnesio iki vienų metų. 
-Papildyta straipsnio dalimi:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+3. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus, padarytus viešojoje vietoje vykstančiame renginyje, gali būti skiriamas draudimas lankytis viešosiose vietose vykstančiuose renginiuose nuo vieno mėnesio iki vienų metų.
  
 
 
+Straipsnio pakeitimai:
+Nr. XIV-2077, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12587
+ 
 
 
 
@@ -23282,7 +23280,10 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-2. Kai transporto priemonės savininkas (valdytojas) yra juridinis asmuo, apie šio straipsnio 1 dalyje nurodytą administracinį nusižengimą, išskyrus dėl šio kodekso 463 straipsnyje numatytus administracinius nusižengimus, pranešama šio juridinio asmens vadovui. Juridinio asmens vadovas ar kitas atsakingas asmuo per tris darbo dienas nuo pranešimo apie administracinį nusižengimą gavimo dienos privalo pranešti duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o dėl šio kodekso 415 straipsnio 1 dalyje, 431 straipsnio 1, 2, 3 ir 4 dalyse ar 459 straipsnio 1, 4, 5, 6 ir 7 dalyse nurodyto administracinio nusižengimo – taip pat duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio nusižengimo padarymo metu buvo atsakingas už transporto priemonės, kuria padarytas nusižengimas, valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymą arba už transporto priemonės savininkui (valdytojui) Saugaus eismo automobilių keliais įstatyme nustatytų reikalavimų vykdymą, ar atitinkamai apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuriam administracinio nusižengimo padarymo metu buvo pavesta vadovauti krovinių ar keleivių vežimo veiklai. Šiam asmeniui surašomas ir siunčiamas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas). Juridinio asmens, kuris perdavė transporto priemonę naudoti pagal lizingo (finansinės nuomos), išperkamosios nuomos ar kitą sutartį (toliau – lizingo sutartis), vadovas ar kitas atsakingas asmuo privalo pranešti duomenis apie fizinį asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą) arba juridinį asmenį (juridinio asmens pavadinimą, kodą, buveinės adresą), kuriam pagal lizingo sutartį transporto priemonė perduota valdyti.
+2. Kai transporto priemonės savininkas (valdytojas) yra juridinis asmuo, apie šio straipsnio 1 dalyje nurodytą administracinį nusižengimą, išskyrus dėl šio kodekso 463 straipsnyje numatytus administracinius nusižengimus, pranešama šio juridinio asmens vadovui. Juridinio asmens vadovas ar kitas atsakingas asmuo per penkias darbo dienas nuo pranešimo apie administracinį nusižengimą gavimo dienos privalo pranešti duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą, dokumento, suteikiančio teisę vairuoti transporto priemones, išdavimo datą, numerį ir dokumentą išdavusią instituciją), kuris administracinio nusižengimo padarymo metu naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone, o dėl šio kodekso 415 straipsnio 1 dalyje, 431 straipsnio 1, 2, 3 ir 4 dalyse ar 459 straipsnio 1, 4, 5, 6 ir 7 dalyse nurodyto administracinio nusižengimo – taip pat duomenis apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuris administracinio nusižengimo padarymo metu buvo atsakingas už transporto priemonės, kuria padarytas nusižengimas, valdytojų civilinės atsakomybės privalomojo draudimo sutarties sudarymą arba už transporto priemonės savininkui (valdytojui) Saugaus eismo automobilių keliais įstatyme nustatytų reikalavimų vykdymą, ar atitinkamai apie asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą), kuriam administracinio nusižengimo padarymo metu buvo pavesta vadovauti krovinių ar keleivių vežimo veiklai. Šiam asmeniui surašomas ir siunčiamas administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas). Juridinio asmens, kuris perdavė transporto priemonę naudoti pagal lizingo (finansinės nuomos), išperkamosios nuomos ar kitą sutartį (toliau – lizingo sutartis), vadovas ar kitas atsakingas asmuo privalo pranešti duomenis apie fizinį asmenį (vardą, pavardę, asmens kodą arba gimimo datą, gyvenamąją vietą) arba juridinį asmenį (juridinio asmens pavadinimą, kodą, buveinės adresą), kuriam pagal lizingo sutartį transporto priemonė perduota valdyti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2076, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12586
+ 
 
 
 
@@ -23295,6 +23296,15 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 4. Už šio straipsnio 1 dalyje ir šio kodekso 187 straipsnio 1 ir 2 dalyse nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas, o pagal šio kodekso 608 straipsnio 5 dalį – tik nutarimas) gali būti automatiškai suformuojamas Administracinių nusižengimų registre. Automatiškai suformuotame administracinio nusižengimo protokole (nutarime) nurodoma: jo suformavimo data ir vieta, įstaigos, kurioje administracinio nusižengimo protokolas (nutarimas) buvo suformuotas, pavadinimas; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo suformavimo metu (nutarime šie duomenys nenurodomi); kiti bylai išnagrinėti būtini duomenys. Šio kodekso 608 straipsnio 5 dalyje nustatyta tvarka priimtame nutarime taip pat nurodoma asmeniui skiriama nuobauda ir šio nutarimo apskundimo tvarka. Kai nėra šio kodekso 610 straipsnio 2 dalyje nurodytų pagrindų, administracinio nusižengimo protokole automatiškai suformuojamas šio kodekso 609 straipsnio 2 dalyje, 610 straipsnio 1 dalyje nurodyto turinio administracinis nurodymas. Automatiškai Administracinių nusižengimų registre suformuotas administracinio nusižengimo protokolas (nutarimas) nepasirašomas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
+ 
+
+
+
+
+5. Kai už šio straipsnio 1 dalyje nurodytus administracinius nusižengimus administracinio nusižengimo protokolas su administraciniu nurodymu (tais atvejais, kai pagal šio kodekso 610 straipsnio 2 dalį administracinis nurodymas negali būti surašomas, – tik administracinio nusižengimo protokolas) ar pranešimas apie administracinio nusižengimo požymių turinčios veikos padarymą automatiškai suformuojamas Administracinių nusižengimų registre, administracinio nusižengimo protokolas ar pranešimas apie administracinio nusižengimo požymių turinčios veikos padarymą transporto priemonės savininkui (valdytojui) turi būti išsiųstas ne vėliau kaip per šešiasdešimt kalendorinių dienų nuo administracinio nusižengimo padarymo dienos. Šis terminas netaikomas tais atvejais, kai reikalingas papildomas tyrimas.
+ 
+Papildyta straipsnio dalimi:
+Nr. XIV-2076, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12586
  
 
 
@@ -25776,7 +25786,7 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
-part_44702640353747eaae7a82745df8583f_end
+part_e8e178adab804025a3b80acfe7221029_end
 
 
 Lietuvos Respublikos 
@@ -27441,3 +27451,13 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 12, 21-1, 373, 374, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
 Lietuvos Respublikos administracinių nusižengimų kodekso 223 ir 589 straipsnių pakeitimo įstatymas
+ 
+202.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2076, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12586
+Lietuvos Respublikos administracinių nusižengimų kodekso 611 straipsnio pakeitimo įstatymas
+ 
+203.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2077, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12587
+Lietuvos Respublikos administracinių nusižengimų kodekso 488 straipsnio pakeitimo įstatymas
