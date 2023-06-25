@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-24
+Suvestinė redakcija nuo 2023-06-25 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -1020,7 +1020,7 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 2. Įgaliotąja vartotojų asociacija laikoma vartotojų asociacija, įrašyta į įgaliotųjų vartotojų asociacijų sąrašą. Vartotojų asociacija įrašoma į įgaliotųjų vartotojų asociacijų sąrašą, jeigu ji atitinka visas šias sąlygas:
 
 
-1) yra įregistruota Juridinių asmenų registre ne mažiau negu 6 mėnesius iki prašymo įrašyti ją į įgaliotųjų vartotojų asociacijų sąrašą pateikimo;
+1) yra įregistruota Juridinių asmenų registre;
 
 
 
@@ -1030,24 +1030,27 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 
 
 
-3) ne mažiau negu 3 mėnesius iki prašymo įrašyti ją į įgaliotųjų vartotojų asociacijų sąrašą pateikimo faktiškai vykdo veiklą vartotojų apsaugos srityje ir pateikia tai įrodančius duomenis; 
+3) ne mažiau negu 12 mėnesių iki prašymo įrašyti ją į įgaliotųjų vartotojų asociacijų sąrašą pateikimo faktiškai vykdo veiklą vartotojų apsaugos srityje ir pateikia tai įrodančius duomenis;
 
 
 
 
-4) yra nepriklausoma nuo verslo ir kitų su vartotojų teisių gynimu nesusijusių interesų ir pateikia tai patvirtinantį pareiškimą (deklaraciją);
+4) yra nepriklausoma nuo verslo ir kitų su vartotojų teisių gynimu nesusijusių interesų ir pateikia tai patvirtinantį pareiškimą (deklaraciją). Vartotojų asociacija, kuri gauna finansavimą iš kito asmens, turi nustatyti taisykles, kuriomis užkertamas kelias vartotojų, jos pačios ir jai finansavimą teikiančio asmens interesų konfliktui;
 
 
 
 
-5) turi reikalingų žinių ir gebėjimų vartotojų apsaugos srityje ir pateikia tai įrodančius duomenis;
+5) nėra priimtas sprendimas dėl šios vartotojų asociacijos nemokumo bylos iškėlimo ir (ar) sprendimas dėl jos, kaip juridinio asmens, likvidavimo dėl bankroto pagal Juridinių asmenų nemokumo įstatymą;
 
 
 
 
-6) yra pateikusi Juridinių asmenų registro tvarkytojui veiklos ataskaitą ir metinių finansinių ataskaitų rinkinį, jeigu šis reikalavimas taikomas pagal Lietuvos Respublikos asociacijų įstatymą.
+6) jos interneto svetainėje yra paskelbta aiški ir suprantama informacija apie šios vartotojų asociacijos atitiktį šios dalies 1–5 punktuose nustatytoms sąlygoms, finansavimo šaltinius, organizacinę, valdymo ir narystės struktūrą, įstatuose nurodytus veiklos tikslus ir veiklos ataskaitos.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
+ 
 
 
 
@@ -2481,23 +2484,17 @@ VARTOTOJŲ VIEŠOJO INTERESO GYNIMAS
 30 straipsnis. Vartotojų viešojo intereso gynimas
 
 
-1. Vartotojų viešąjį interesą gina Valstybinė vartotojų teisių apsaugos tarnyba ir įgaliotosios vartotojų asociacijos, o įstatymų nustatytais atvejais – kitos valstybės ir savivaldybių institucijos ir juridiniai asmenys. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+1. Vartotojų viešasis interesas ginamas pareiškiant ieškinį dėl verslininko padaryto vartotojų apsaugos teisės aktų nuostatų pažeidimo, kuriuo daroma ar gali būti padaryta žala vartotojų kolektyviniams interesams, kai ieškinį vartotojų vardu pareiškia šio įstatymo 32 straipsnyje nurodytas subjektas kaip ieškovas. Ieškiniai dėl vartotojų viešojo intereso gynimo nagrinėjami Civilinio proceso kodekso nustatyta tvarka. 
+
+
+
+
+2. Ieškinių dėl vartotojų viešojo intereso gynimo dėl verslininkų padarytų Europos Sąjungos vartotojų apsaugos teisės aktų nuostatų, įskaitant perkeltąsias į nacionalinę teisę, pažeidimų, kuriais daroma ar gali būti padaryta žala vartotojų kolektyviniams interesams, kai ieškinius vartotojų vardu, siekdami verslininko veiksmų ar neveikimo nutraukimo, jų uždraudimo ir (ar) vartotojų teisių gynimo priemonių taikymo, pareiškia šio įstatymo 32 straipsnyje nurodyti subjektai kaip ieškovai, nagrinėjimo ypatumus nustato Civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymas. Europos Sąjungos vartotojų apsaugos teisės aktų nuostatų sąrašą tvirtina teisingumo ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
  
-
-
-
-
-2. Vartotojų viešojo intereso gynimas – tai ieškinio ar pareiškimo (skundo) vartotojų viešajam interesui ginti pareiškimas, kai siekiama pripažinti ar pakeisti teisinius santykius, uždrausti (nutraukti) pardavėjo ar paslaugų teikėjo veiksmus (neveikimą), kurie pažeidžia vartotojų teisėtus bendruosius interesus ir yra nesąžiningi vartotojų požiūriu, neatitinka sąžiningos verslo praktikos arba prieštarauja Civiliniam kodeksui, šiam įstatymui ar kitiems teisės aktams. 
-
-
-
-
-3. Šio skirsnio nuostatos nevaržo vartotojo teisių pačiam ginti pažeistas teises.
- 
-
-
 
 
 
@@ -2510,65 +2507,133 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 
 
 
-32 straipsnis. Kreipimasis į pardavėją ar paslaugų teikėją
+32 straipsnis. Teisė pareikšti ieškinį dėl vartotojų viešojo intereso gynimo
 
 
-1. Valstybinė vartotojų teisių apsaugos tarnyba, nustačiusi, kad pažeistas vartotojų viešasis interesas, turi kreiptis į pardavėją, paslaugų teikėją ir pasiūlyti jam per 14 dienų nuo šio pasiūlymo gavimo nutraukti viešojo intereso pažeidimą, taip pat nurodyti pardavėjui ar paslaugų teikėjui, kad Valstybinė vartotojų teisių apsaugos tarnyba kreipsis į teismą su ieškiniu ar pareiškimu (skundu) dėl viešojo intereso gynimo, jeigu pardavėjas ar paslaugų teikėjas nenutrauks viešojo intereso pažeidimo. 
+1. Ieškinį dėl vartotojų viešojo intereso gynimo, kuriuo prašoma nutraukti verslininko veiksmus ar neveikimą ar juos uždrausti, turi teisę pareikšti:
 
 
-
-
-2. Jeigu viešojo intereso pažeidimas nenutrauktas per šio straipsnio 1 dalyje nustatytą terminą, Valstybinė vartotojų teisių apsaugos tarnyba kreipiasi į teismą dėl viešojo intereso gynimo.
+1) Valstybinė vartotojų teisių apsaugos tarnyba;
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalių nuostatos mutatis mutandis taikomos ir tais atvejais, kai vartotojų viešąjį interesą gina įgaliotosios vartotojų asociacijos, o įstatymų nustatytais atvejais – kitos valstybės ir savivaldybių institucijos ir kiti juridiniai asmenys.
+2) įgaliotoji vartotojų asociacija;
+
+
+
+
+3) vartotojų interesams atstovaujanti organizacija, valstybės valdžios institucija ar kitas viešasis subjektas, kitos Europos Sąjungos valstybės narės paskirtas ieškiniams pareikšti pagal Direktyvą (ES) 2020/1828 ir Europos Komisijos nurodytas pagal šią direktyvą paskelbtame kompetentingų subjektų sąraše;
+
+
+
+
+4) kituose Lietuvos Respublikos įstatymuose nustatyti subjektai.
+
+
+
+
+
+
+2. Ieškinį dėl vartotojų viešojo intereso gynimo, kuriuo prašoma taikyti vartotojų teisių gynimo priemones, turi teisę pareikšti:
+
+
+1) įgaliotoji vartotojų asociacija;
+
+
+
+
+2) vartotojų interesams atstovaujanti organizacija, valstybės valdžios institucija ar kitas viešasis subjektas, kitos Europos Sąjungos valstybės narės paskirtas ieškiniams pareikšti pagal Direktyvą (ES) 2020/1828 ir Europos Komisijos nurodytas pagal šią direktyvą paskelbtame kompetentingų subjektų sąraše;
+
+
+
+
+3) kituose Lietuvos Respublikos įstatymuose nustatyti subjektai.
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
+Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
  
 
 
 
 
-33 straipsnis. Europos Sąjungos valstybių narių institucijų ar organizacijų teisė pareikšti ieškinį Lietuvoje 
+33 straipsnis. Vartotojų kolektyvinių interesų gynimas kitose Europos Sąjungos valstybėse narėse
 
 
-1. Europos Sąjungos valstybių narių institucijos ar organizacijos, kurias Europos Komisija įtraukia į Direktyvoje 2009/22/EB dėl ieškinių dėl uždraudimo ginant vartotojų interesus numatytą sąrašą ir paskelbia Europos Sąjungos oficialiajame leidinyje, turi teisę pagal Civilinio proceso kodekso 49 straipsnio 1 dalį Lietuvos Respublikos teismuose pareikšti ieškinius pardavėjams ar paslaugų teikėjams dėl vartotojų kolektyvinius interesus pažeidžiančių veiksmų nutraukimo ar uždraudimo. Ši nuostata taikoma tais atvejais, kai Lietuvoje veikiančių pardavėjų ar paslaugų teikėjų veiksmai pažeidžia Europos Sąjungos teisės aktus, kurių sąrašą pagal Direktyvos 2009/22/EB priedą tvirtina Lietuvos Respublikos teisingumo ministras.
+1. Ieškinį dėl vartotojų kolektyvinių interesų gynimo su prašymu, kad kitos Europos Sąjungos valstybės narės teismas ar kita kompetentinga įstaiga priimtų sprendimą, įpareigojantį verslininką nutraukti tam tikrus veiksmus ar neveikimą arba juos uždrausti, turi teisę pareikšti:
+
+
+1) Valstybinė vartotojų teisių apsaugos tarnyba;
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodyta teise pareikšti ieškinį Europos Sąjungos valstybių narių institucijos ar organizacijos gali pasinaudoti tik tuo atveju, jeigu prieš tai raštu konsultavosi su pardavėju ar paslaugų teikėju ir Valstybine vartotojų teisių apsaugos tarnyba. Jeigu per 14 dienų nuo prašymo konsultuotis gavimo pažeidimas nenutraukiamas, gali būti pareiškiamas ieškinys.
+2) įgaliotoji vartotojų asociacija, pateikusi Teisingumo ministerijai prašymą būti paskirta tokių ieškinių pareiškimo tikslais ir Europos Komisijos nurodyta pagal Direktyvą (ES) 2020/1828 paskelbtame kompetentingų subjektų sąraše.
+
+
+
+
+
+
+2. Ieškinį dėl vartotojų kolektyvinių interesų gynimo su prašymu, kad kitos Europos Sąjungos valstybės narės teismas ar kita kompetentinga įstaiga priimtų sprendimą dėl vartotojų teisių gynimo priemonių taikymo, turi teisę pareikšti įgaliotoji vartotojų asociacija, pateikusi Teisingumo ministerijai prašymą būti paskirta tokių ieškinių pareiškimo tikslais ir Europos Komisijos nurodyta pagal Direktyvą (ES) 2020/1828 paskelbtame kompetentingų subjektų sąraše.
+
+
+
+
+3. Teisingumo ministerija teikia Europos Komisijai informaciją apie asmenis, turinčius teisę reikšti ieškinius pagal šį straipsnį, ir kitą Direktyvai (ES) 2020/1828 įgyvendinti reikalingą informaciją.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
+Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
  
 
 
 
 
-34 straipsnis. Vartotojų viešojo intereso gynimas Europos Sąjungos valstybėse narėse
+34 straipsnis. Informacija apie ieškinius dėl vartotojų kolektyvinių interesų apsaugos
 
 
-1. Valstybinė vartotojų teisių apsaugos tarnyba turi teisę kreiptis į Europos Sąjungos valstybių narių teismus ar kitas kompetentingas įstaigas su prašymu priimti sprendimą, įpareigojantį pardavėją ar paslaugų teikėją, veikiantį toje Europos Sąjungos valstybėje narėje, nutraukti Lietuvos vartotojų viešojo intereso pažeidimą.
+1. Valstybinė vartotojų teisių apsaugos tarnyba savo interneto svetainėje skelbia informaciją apie:
 
 
-
-
-2. Įgaliotosios vartotojų asociacijos, apie kurias pranešta Europos Komisijai pagal šio straipsnio 3 dalį, taip pat turi teisę kreiptis į kitų Europos Sąjungos valstybių narių teismus ar kitas kompetentingas įstaigas su prašymu priimti sprendimą, įpareigojantį pardavėją ar paslaugų teikėją, veikiantį toje Europos Sąjungos valstybėje narėje, nutraukti Lietuvos vartotojų viešojo intereso pažeidimą.
+1) subjektus, turinčius teisę pareikšti ieškinius dėl vartotojų viešojo intereso gynimo, ir subjektus, turinčius teisę pareikšti ieškinius dėl vartotojų kolektyvinių interesų gynimo kitų Europos Sąjungos valstybių narių teismuose ar kitose kompetentingose įstaigose;
 
 
 
 
-3. Valstybinė vartotojų teisių apsaugos tarnyba praneša Europos Komisijai įgaliotųjų asociacijų pavadinimus ir tikslus. 
+2) pareikštus ieškinius dėl vartotojų viešojo intereso gynimo, jų nagrinėjimo eigą ir šių bylų rezultatus;
+
+
+
+
+3) šio įstatymo 33 straipsnyje nurodytų asmenų kitų Europos Sąjungos valstybių narių teismuose ir kitose kompetentingose įstaigose pareikštus ieškinius dėl vartotojų kolektyvinių interesų gynimo, jų nagrinėjimo eigą ir šių bylų rezultatus.
+
+
+
+
+
+
+2. Šio įstatymo 32 straipsnio 1 dalies 2, 3 ir 4 punktuose ir 2 dalyje nurodyti subjektai šio straipsnio 1 dalies 2 ir 3 punktuose nurodytą informaciją:
+
+
+1) pateikia Valstybinei vartotojų teisių apsaugos tarnybai jos nustatyta tvarka;
+
+
+
+
+2) skelbia savo interneto svetainėse.
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
  
 
 
@@ -3762,6 +3827,9 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
+ 
+
+ 
 Lietuvos Respublikos 
 vartotojų teisių apsaugos įstatymo 
 priedas
@@ -3780,7 +3848,10 @@ priedas
 
 
 
-3. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/22/EB dėl ieškinių dėl uždraudimo ginant vartotojų interesus su paskutiniais pakeitimais, padarytais 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/302.
+3. Neteko galios nuo 2023-06-25.
+Punkto pakeitimai:
+Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
+ 
 
 
 
@@ -3826,13 +3897,20 @@ Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 11. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.
 
 
+
+
+12. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 dėl atstovaujamųjų ieškinių siekiant apsaugoti vartotojų kolektyvinius interesus, kuria panaikinama Direktyva 2009/22/EB.
+Papildyta punktu:
+Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
+ 
+
+
 Priedo pakeitimai:
 Nr. XIII-1096, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06735
 Nr. XIII-1600, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18211
 Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
  
-
-
+part_b01a2a18d68d4bb99e045d064fa0accb_end
 
 
  
@@ -4017,3 +4095,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 40 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1611, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25036
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 13-1, 30, 32, 33, 34 straipsnių ir priedo pakeitimo įstatymas
