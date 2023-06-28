@@ -13,20 +13,28 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/63fc0b406f9611e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos nacionalinės plėtros įstaigų įstatymas
 
-Suvestinė redakcija nuo 2022-11-10 iki 2023-06-27
+Suvestinė redakcija nuo 2023-06-28 iki 2023-11-09
  
 Įstatymas paskelbtas: TAR 2018-06-14, i. k. 2018-09936
+ 
+TAR pastaba. Kituose įstatymuose pateiktos nuorodos į Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymą laikomos nuorodomis į Lietuvos Respublikos nacionalinės plėtros įstaigos įstatymą, o nuorodos į sąvoką „nacionalinės plėtros įstaigos“ laikomos nuorodomis į sąvoką „nacionalinė plėtros įstaiga“.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 pavadinimo, 1, 4, 6, 7 straipsnių pakeitimo ir 11-1 straipsnio pripažinimo netekusiu galios įstatymas
  
  
 
  
-LIETUVOS RESPUBLIKOS
-NACIONALINIŲ PLĖTROS ĮSTAIGŲ
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS 
+NACIONALINĖS PLĖTROS ĮSTAIGOS 
+ĮSTATYMAS 
  
 2018 m. birželio 5 d. Nr. XIII-1257
 Vilnius
  
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
  
 
 I SKYRIUS
@@ -37,7 +45,9 @@ BENDROSIOS NUOSTATOS
 
 1. Šio įstatymo tikslas – užtikrinti efektyvų investavimą srityse, kuriose finansavimas rinkos sąlygomis yra nepakankamas ir (ar) neoptimalus, ir skatinti finansiškai gyvybingas investicijas.
 
-2. Šis įstatymas reglamentuoja Lietuvos Respublikos nacionalinių plėtros įstaigų paskyrimą, veiklą, valdymą, finansavimą ir priežiūrą bei atsakomybę už veiklos reikalavimų pažeidimus.
+2. Šis įstatymas reglamentuoja Lietuvos Respublikos nacionalinės plėtros įstaigos paskyrimą, veiklą, valdymą, finansavimą ir priežiūrą bei atsakomybę už veiklos reikalavimų pažeidimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
  
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
@@ -74,9 +84,15 @@ PAVEDIMAS vykdyti NPĮ veiklą
 
 4 straipsnis. Pavedimas vykdyti NPĮ veiklą ir pavedimo panaikinimas
 
-1. Finansų įstaigoms vykdyti NPĮ veiklą, kuri apima skatinamojo finansavimo veiklą, Vyriausybės įgaliotos institucijos teikimu paveda Vyriausybė (toliau – pavedimas vykdyti NPĮ veiklą).
+1. Finansų įstaigai vykdyti NPĮ veiklą, kuri apima skatinamojo finansavimo veiklą, Vyriausybės įgaliotos institucijos teikimu paveda Vyriausybė (toliau – pavedimas vykdyti NPĮ veiklą). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
 
-2. Pavesti vykdyti NPĮ veiklą galima finansų įstaigoms, kurios atitinka šio įstatymo 3 straipsnio ir V skyriaus reikalavimus, užtikrinant, kad skirtingų NPĮ pagrindinė skatinamojo finansavimo veikla būtų orientuota į skirtingas Vyriausybės nustatytas sritis, kurių plėtrą būtina skatinti. Vykdyti NPĮ veiklą pavedama atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą ir finansų įstaigos veiklos srityse, kurių plėtrą Vyriausybės sprendimu būtina skatinti, nustačius finansavimo rinkos sąlygomis nepakankamumą ir (ar) neoptimalumą.
+2. Pavesti vykdyti NPĮ veiklą galima finansų įstaigai, kuri atitinka šio įstatymo 3 straipsnyje ir V skyriuje nustatytus reikalavimus. NPĮ skatinamojo finansavimo veikla vykdoma atlikus šio įstatymo 7 straipsnyje nurodytą vertinimą ir finansų įstaigos veiklos srityse, nustatytose Vyriausybės sprendimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
 
 3. Finansų įstaiga, kuriai pavesta vykdyti NPĮ veiklą, gali ją pradėti tik tada, kai priežiūros institucija įrašo ją į NPĮ sąrašą šio įstatymo 8 straipsnyje nustatyta tvarka. NPĮ licencinių finansinių paslaugų teikimu turi teisę verstis tik gavusi atitinkamą licenciją.
 
@@ -134,11 +150,45 @@ NPĮ TIKSLAI, UŽDAVINIAI, FUNKCIJOS
 
 6) dalyvauja rengiant skatinamųjų finansinių priemonių investavimo strategijas ir vykdant investicijų rezultatyvumo bei poveikio stebėseną;
 
-7) teikia pasiūlymus ir ekspertinę (techninę ir metodinę) pagalbą valstybės ir savivaldybių institucijoms ir įstaigoms dėl būtinų sprendimų siekiant pagerinti investicinę aplinką ir finansavimo prieinamumą projektus įgyvendinantiems subjektams;
+7) teikia pasiūlymus ir ekspertinę (techninę ir metodinę) pagalbą valstybės ir savivaldybių institucijoms ir įstaigoms tvariųjų (žaliųjų) finansų srityje ir dėl būtinų sprendimų siekiant pagerinti investicinę aplinką ir finansavimo prieinamumą projektus įgyvendinantiems subjektams; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
 
-8) kitas funkcijas, kurios reikalingos šio įstatymo 5 straipsnyje nurodytiems NPĮ tikslams pasiekti.
+8) plėtoja tvaraus ženklinimo ekosistemą; 
+Papildyta straipsnio punktu:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
 
-2. NPĮ, siekdama valdyti riziką, skatinamajai finansinei priemonei įgyvendinti gali steigti NPĮ patronuojamąją (dukterinę) įmonę, kuri suprantama taip , kaip nurodyta Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnyje, kai tai numatyta skatinamosios finansinės priemonės investavimo strategijoje. NPĮ gali būti ir kitų juridinių asmenų steigėja ir (ar) dalyvė ir (ar) veiklai vykdyti pasitelkti finansų tarpininkus. 
+9) inicijuoja ir teikia siūlymus dėl su tvariaisiais (žaliaisiais) finansais susijusių mokslinių tyrimų, vykdo švietimo ir informavimo veiklas;
+Papildyta straipsnio punktu:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
+
+10) koordinuoja viešojo ir privataus sektorių bendradarbiavimą tvariųjų (žaliųjų) finansų srityje;
+Papildyta straipsnio punktu:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
+
+11) garsina Lietuvos vardą tvariųjų (žaliųjų) finansų srityje;
+Papildyta straipsnio punktu:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
+
+12) įgyvendina skatinamąsias finansines priemones, projektus ir programas vystomojo bendradarbiavimo srityje; 
+Papildyta straipsnio punktu:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
+
+13) kitas funkcijas, kurios reikalingos šio įstatymo 5 straipsnyje nurodytiems NPĮ tikslams pasiekti.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
+
+2. NPĮ, siekdama valdyti riziką, skatinamajai finansinei priemonei įgyvendinti gali steigti NPĮ patronuojamąją (dukterinę) įmonę, kuri suprantama taip, kaip nurodyta Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnyje, kai tai numatyta skatinamosios finansinės priemonės investavimo strategijoje. NPĮ gali būti ir kitų juridinių asmenų steigėja ir (ar) dalyvė, gali veikti kaip komanditinės ūkinės bendrijos tikroji narė ir (ar) veiklai vykdyti pasitelkti finansų tarpininkus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
 
 3. NPĮ, siekdama užtikrinti tinkamą skatinamųjų finansinių priemonių, dotacijų ir (ar) subsidijų, kuriomis prisidedama prie NPĮ įgyvendinamų skatinamųjų finansinių priemonių, įgyvendinimą, turi teisę gauti iš valstybės registrų ir informacinių sistemų duomenis bei informaciją, kurie reikalingi nurodytų priemonių pareiškėjų, jų atstovų ir dalyvių (toliau – pareiškėjai) tapatybei nustatyti, pareiškėjų finansinei padėčiai ir kreditingumui įvertinti, pareiškėjų atitikčiai nurodytų priemonių įgyvendinimą reglamentuojančiuose teisės aktuose nustatytiems pareiškėjų tinkamumo reikalavimams įvertinti, pareiškėjų NPĮ pateiktų duomenų teisingumui patikrinti. 
 
@@ -150,7 +200,10 @@ Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
 
 7 straipsnis. NPĮ skatinamojo finansavimo poreikio vertinimas
 
-1. NPĮ veikla turi būti pagrįsta vertinimu, kuriuo nustatomas finansavimo rinkos sąlygomis nepakankamumas ir (ar) neoptimalumas, apskaičiuojamas investicijų poreikis. Vertinimas atliekamas Vyriausybės nustatyta tvarka ir atvejais. 
+1. NPĮ skatinamojo finansavimo veikla turi būti pagrįsta vertinimu, kuriuo nustatomas finansavimo rinkos sąlygomis nepakankamumas ir (ar) neoptimalumas, apskaičiuojamas investicijų poreikis. Vertinimas atliekamas Vyriausybės nustatyta tvarka ir atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+ 
 
 2. Atsižvelgdama į šio straipsnio 1 dalyje nurodyto vertinimo rezultatus, NPĮ srityse, kuriose finansavimas rinkos sąlygomis pakankamas ir (ar) optimalus, veiklą toliau vykdo tik tiek, kiek tai yra būtina pradėtai veiklai užbaigti.
  
@@ -205,19 +258,9 @@ NPĮ vadovai turi atitikti Lietuvos Respublikos sutelktinio finansavimo įstatym
 NPĮ veiklos vidaus kontrolė užtikrinama vadovaujantis Lietuvos Respublikos finansų įstaigų įstatyme ir priežiūros institucijos teisės aktuose nustatyta tvarka.
  
 
-111 straipsnis. NPĮ dalyvavimas komanditinių ūkinių bendrijų veikloje
-
-1. NPĮ gali veikti kaip komanditinės ūkinės bendrijos tikroji narė.
-
-2. Tais atvejais, kai Lietuvos bankas yra šio straipsnio 1 dalyje nurodytos komanditinės ūkinės bendrijos narys komanditorius arba Lietuvos bankui suteikiamos teisės veikti narių komanditorių pavedimu komanditinės ūkinės bendrijos patariamajame komitete, šio įstatymo 8, 10 ir 11 straipsniuose nustatyti priežiūros reikalavimai netaikomi, o NPĮ, veikiančios kaip komanditinės ūkinės bendrijos tikroji narė, veiklos kontrolė vykdoma įgyvendinant komanditinės ūkinės bendrijos veiklos ir dalyvių sutartyse nustatytas finansines priemones ir Lietuvos bankui suteikiant teisę atstovauti komanditorių interesams patariamajame komitete, kurio pagrindinės funkcijos yra vertinti, kaip užtikrinama komanditinės ūkinės bendrijos tikrojo nario veiklos vidaus kontrolė, nustatyti komanditinės ūkinės bendrijos tikrojo nario organų narių interesų valdymo principus, teikti siūlymus dėl komanditinės ūkinės bendrijos tikrojo nario valdybos narių ir vadovo skyrimo ir atšaukimo. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
- 
-
-3. Patariamajame komitete turi būti ne mažiau kaip trys nariai, kuriuos deleguoja nariai komanditoriai komanditinės ūkinės bendrijos veiklos ir dalyvių sutartyse nustatyta tvarka. Patariamojo komiteto sudėtį tvirtina ir atšaukia narių komanditorių susirinkimas. Patariamojo komiteto pirmininku skiriamas patariamojo komiteto narys – Lietuvos banko atstovas. Patariamasis komitetas pasitvirtina darbo reglamentą.
-
-Papildyta straipsniu:
-Nr. XIII-3033, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13471
+111 straipsnis. Neteko galios nuo 2023-06-28
+Straipsnio naikinimas:
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
  
 
 v SKYRIUS
@@ -373,4 +416,14 @@ Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1498, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22686
 Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 10 straipsnio pakeitimo įstatymo Nr. XIV-833 2 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-833, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27725
+Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 10 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2078, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12870
+Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 pavadinimo, 1, 4, 6, 7 straipsnių pakeitimo ir 11-1 straipsnio pripažinimo netekusiu galios įstatymas
 
