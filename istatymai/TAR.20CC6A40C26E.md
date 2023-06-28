@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/20cc6a40c26e11ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos inovacijų skatinimo fondo įstatymas
 
-Suvestinė redakcija nuo 2022-03-31 iki 2023-06-27
+Suvestinė redakcija nuo 2023-06-28
  
 Įstatymas paskelbtas: TAR 2020-07-10, i. k. 2020-15500
  
@@ -74,7 +74,10 @@ Vilnius
 
 
 
-3. Fondo valdytojas – uždaroji akcinė bendrovė „Investicijų ir verslo garantijos“ (INVEGA).
+3. Fondo valdytojas – finansų įstaiga, kuriai Vyriausybė pavedė vykdyti nacionalinės plėtros įstaigos veiklą ir kuri valdo Fondą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2079, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12871
+ 
 
 
 
@@ -92,7 +95,9 @@ Nr. XIV-740, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25853
 
 
 
-6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės skolos įstatyme ir Technologijų ir inovacijų įstatyme.
+6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos nacionalinės plėtros įstaigos įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos valstybės skolos įstatyme ir Lietuvos Respublikos technologijų ir inovacijų įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2079, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12871
  
 
 
@@ -379,6 +384,11 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-740, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25853
+Lietuvos Respublikos inovacijų skatinimo fondo įstatymo Nr. XIII-3167 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2079, 2023-06-20, paskelbta TAR 2023-06-27, i. k. 2023-12871
 Lietuvos Respublikos inovacijų skatinimo fondo įstatymo Nr. XIII-3167 2 straipsnio pakeitimo įstatymas
  
  
