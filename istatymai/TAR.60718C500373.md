@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60718c50037311edb32c9f9d8ba206f8"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2022-11-30 iki 2023-06-27
+Suvestinė redakcija nuo 2023-06-28 iki 2023-11-30
  
 Įstatymas paskelbtas: TAR 2022-07-14, i. k. 2022-15485
  
@@ -28,9 +28,6 @@ MOKSLO IR STUDIJŲ ĮSTATYMO NR. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 5
 Vilnius
  
  
-
- 
-
  
  
 
@@ -848,12 +845,12 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Profesoriaus pareigas gali eiti pirmaujantysis tyrėjas arba pripažintas menininkas. Profesoriaus pareigas einantis pirmaujantysis tyrėjas arba pripažintas menininkas turi rengti mokslininkus, dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą ir jiems vadovauti, skelbti tyrimų rezultatus. Profesoriaus pareigas einantis pripažintas menininkas, meno daktaras turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje ir (arba) formuoti meno projektų tematiką ir jiems vadovauti, skelbti tyrimų rezultatus.
+2. Profesoriaus pareigas gali eiti mokslininkas arba meno daktaras, esantis pirmaujantysis tyrėjas arba pripažintas menininkas. Profesoriaus pareigas einantis pirmaujantysis tyrėjas arba pripažintas menininkas turi rengti mokslininkus, dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą ir jiems vadovauti, skelbti tyrimų rezultatus. Profesoriaus pareigas einantis pripažintas menininkas, meno daktaras turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje ir (arba) formuoti meno projektų tematiką ir jiems vadovauti, skelbti tyrimų rezultatus.
 
 
 
 
-3. Docento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip pripažintas tyrėjas arba pripažintas menininkas. Docento pareigas einantis pripažintas tyrėjas arba pripažintas menininkas turi dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą, skelbti šios veiklos rezultatus. Docento pareigas einantis pripažintas menininkas, meno daktaras turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje. 
+3. Docento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip pripažintas tyrėjas arba pripažintas menininkas. Docento pareigas einantis pripažintas tyrėjas arba pripažintas menininkas turi dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą, skelbti šios veiklos rezultatus. Docento pareigas einantis pripažintas menininkas, meno daktaras turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje.
 
 
 
@@ -863,7 +860,7 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 
 
-5. Jaunesniojo asistento pareigas gali eiti pradedantysis tyrėjas. Jaunesnysis asistentas turi atlikti arba padėti atlikti dėstymo darbus.
+5. Jaunesniojo asistento pareigas gali eiti pradedantysis tyrėjas. Jaunesnysis asistentas turi atlikti arba padėti atlikti dėstymo darbus bei padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus.
 
 
 
@@ -878,21 +875,23 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 
 
-8. Aukštosios mokyklos gali nustatyti įvairias dėstytojų praktikų pareigybes. Tokie dėstytojai dėsto, veda praktinius užsiėmimus, vadovauja studentų praktiniams darbams, supažindina studentus su mokslinių tyrimų taikymu praktikoje, padeda jiems atlikti taikomosios mokslinės veiklos darbus, perteikia jiems praktinio darbo žinias. Į šias pareigas aukštosios mokyklos nustatyta tvarka priimami asmenys, turintys ne trumpesnę kaip 3 metų praktinio darbo patirtį dėstymo srityje ir profesinių pasiekimų. Atlikdami pareigas tokie dėstytojai privalo dirbti praktinį darbą dėstymo srityje ir turėti aukštosios mokyklos nustatyta tvarka numatytas dėstymo kompetencijas. 
+8. Aukštosios mokyklos gali nustatyti įvairias dėstytojų praktikų pareigybes. Tokie dėstytojai dėsto, veda praktinius užsiėmimus, vadovauja studentų praktiniams darbams, supažindina studentus su mokslinių tyrimų taikymu praktikoje, padeda jiems atlikti taikomosios mokslinės veiklos darbus, perteikia jiems praktinio darbo žinias. Į šias pareigas aukštosios mokyklos nustatyta tvarka priimami asmenys, turintys ne trumpesnę kaip 3 metų praktinio darbo patirtį dėstymo srityje ir profesinių pasiekimų. Atlikdami pareigas tokie dėstytojai privalo dirbti praktinį darbą dėstymo srityje ir turėti aukštosios mokyklos nustatyta tvarka numatytas dėstymo kompetencijas.
 
 
 
 
 9. Kvalifikacinius dėstytojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio 2–7 dalyse, konkursų šioms pareigoms eiti organizavimo ir dėstytojų atestavimo tvarką nustato aukštoji mokykla.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
  
-
-
-
-
-
-
-
-
 
 
 
@@ -1427,7 +1426,18 @@ Pakeisti 753 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-3. Šio įstatymo 1, 16, 17, 18, 19, 20, 21, 22, 23, 24 ir 25 straipsniai įsigalioja 2023 m. liepos 1 d.
+3. Šio įstatymo 1 straipsnio 2 dalis, 17, 20, 22 ir 25 straipsniai įsigalioja 2023 m. liepos 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
+ 
+
+
+
+
+31. Šio įstatymo 1 straipsnio 1 dalis, 16, 18, 19, 21, 23, 24 straipsniai įsigalioja 2024 m. sausio 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
+ 
 
 
 
@@ -1442,7 +1452,10 @@ Pakeisti 753 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-6. Šio įstatymo nuostatos taikomos mokslo ir studijų institucijų dėstytojams ir mokslo darbuotojams, priimtiems į pareigas nuo 2023 m. liepos 1 d. Iki 2023 m. liepos 1 d. priimtų į pareigas dėstytojų, mokslo darbuotojų ir tyrėjų pareigos ir kitos darbo sąlygos gali būti keičiamos atsižvelgiant į šio įstatymo nuostatas tik šių darbuotojų sutikimu. 
+6. Šio įstatymo nuostatos taikomos mokslo ir studijų institucijų dėstytojams ir mokslo darbuotojams, priimtiems į pareigas nuo 2024 m. sausio 1 d. Iki 2024 m. sausio 1 d. priimtų į pareigas dėstytojų, mokslo darbuotojų ir tyrėjų pareigos ir kitos darbo sąlygos gali būti keičiamos atsižvelgiant į šio įstatymo nuostatas tik šių darbuotojų sutikimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
+ 
 
 
 
@@ -1484,5 +1497,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1543, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24193
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 24 straipsnio pakeitimo įstatymas
  
- 
-part_a44cb93bf57d4e888564afc4ed553a34_end
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 18 ir 29 straipsnių pakeitimo įstatymas
