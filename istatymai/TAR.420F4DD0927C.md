@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-06-28
+Suvestinė redakcija nuo 2023-06-29 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -8106,8 +8106,10 @@ Nr. XIV-1625, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25402
 
 
 3. Jeigu iki šio įstatymo įsigaliojimo dienos ūkinei ir (ar) kitokiai veiklai, dėl kurios turėjo būti nustatytos šiame įstatyme nurodytos teritorijos, statybą leidžiantys dokumentai išduoti, projektai, kuriems įstatymų nustatytais atvejais tokie dokumentai neišduodami, suderinti ir ši veikla vykdoma, bet šiame įstatyme nurodytos teritorijos nenustatytos ir neįrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, jas nustato Vyriausybė ar Vyriausybės įgaliota institucija Vyriausybės ar Vyriausybės įgaliotos institucijos nustatyta tvarka tvirtinamuose planuose, žemėlapiuose ir (ar) schemose. Šioms teritorijoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas. Šioje dalyje nurodytos teritorijos nustatomos ir šio įstatymo 8 straipsnio 1 dalyje ir 9 straipsnio 2 dalyje nurodyti pranešimai ir prašymai pateikiami iki 2022 m. gruodžio 31 d. šio įstatymo 8 straipsnio 3 dalies 6 punkte ir šio straipsnio 13 dalyje nustatyta tvarka arba, pateikus šio įstatymo 8 straipsnio 1 dalyje nurodytą pranešimą iki 2022 m. gruodžio 31 d., gali būti pateikiami šio įstatymo 142 straipsnyje išdėstyto 9 straipsnio 1 dalyje nurodyti prašymai. Jeigu šioje dalyje nurodytos teritorijos buvo nustatytos, bet nebuvo įrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą iki 2022 m. gruodžio 31 d. ir (ar) nustatomos po 2022 m. gruodžio 31 d., šio įstatymo 142 straipsnyje išdėstyto 9 straipsnio 1 dalyje nurodyti prašymai pateikiami arba šioms teritorijoms įregistruoti reikalingi duomenys perduodami iki 2024 m. gruodžio 31 d., nustatomos po 2022 m. gruodžio 31 d., šio įstatymo 142 straipsnyje išdėstyto Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnio 1 dalyje nurodyti prašymai pateikiami arba šioms teritorijoms įregistruoti reikalingi duomenys perduodami iki 2024 m. gruodžio 31 d. Pranešimus ir prašymus Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pateikia asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, – įstatymų ar atitinkamos srities ministro (pagal jam pavestas valdymo sritis) įgaliota institucija. Žemės savininkas, valstybinės ar savivaldybės žemės patikėtinis, taip pat fizinis ar juridinis asmuo arba kita organizacija ar jų padaliniai, naudojantys žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) nustatytoje šiame įstatyme nurodytoje teritorijoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkai ar patikėtiniai apie nustatytas šioje dalyje nurodytas teritorijas ir jose taikomas specialiąsias žemės naudojimo sąlygas, o asmenys, turintys teisę į kompensacijas, – apie teisę kreiptis į konkretų subjektą dėl šios kompensacijos sumokėjimo informuojami šio įstatymo 11 straipsnyje nustatyta tvarka. Šioje dalyje nurodytais atvejais žemės sklypo savininkui, valstybinės ar savivaldybės žemės sklypo patikėtiniui išmokamos kompensacijos, kurių dydis apskaičiuojamas pagal žemės sklypo vidutinę rinkos vertę, nustatytą Vyriausybės nustatyta tvarka taikant masinį turto vertinimą, išskyrus atvejus, kai šioje dalyje nurodytai veiklai statybą leidžiantys dokumentai buvo išduoti, projektai, kuriems įstatymų nustatytais atvejais tokie dokumentai neišduodami, buvo suderinti ir (ar) ši veikla buvo pradėta vykdyti iki 1992 m. gegužės 11 d. Šios kompensacijos nemokamos, kai dėl tų pačių ar skirtingų apribojimų taikymo buvo atlyginta, jeigu teritorija (jos dalis), dėl kurios nustatymo atsiradusių apribojimų taikymo buvo atlyginta, sutampa su naujai nustatyta šiame įstatyme nurodyta teritorija (jos dalimi), kai šiame įstatyme nurodyta teritorija nustatoma tik dėl šio žemės savininko naudai vykdomos veiklos, kitais įstatymų numatytais atvejais. Šios dalies nuostatos netaikomos nustatant sanitarinės apsaugos zonas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 141 straipsnio 3 dalis (2022 m. gruodžio 6 d. redakcija, TAR, 2022-12-13, Nr. 25402) tiek, kiek pagal ją kompensacija dėl specialiųjų žemės naudojimo sąlygų taikymo nemokama, kai specialiosios žemės naudojimo sąlygos žemės sklypui taikomos dėl ūkinės ir (ar) kitokios veiklos, kuriai statybą leidžiantys dokumentai išduoti, projektai, kuriems įstatymų nustatytais atvejais tokie dokumentai neišduodami, suderinti ir (ar) ši veikla pradėta vykdyti iki 1992 m. gegužės 11 d., prieštarauja Lietuvos Respublikos Konstitucijos 23, 29 straipsniams.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1625, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25402
+Nr.  KT60-N7/2023, 2023-06-29, paskelbta TAR 2023-06-29, i. k. 2023-13152
  
 
 
@@ -8676,18 +8678,19 @@ Pakeisti šio įstatymo 10 straipsnį ir jį išdėstyti taip:
 
 
 
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
-
- 
-
  
-part_e93c4da641ca43b89fe8d3f43d97b490_end
-part_1f58dedaf4fc46b7b2cd42537b54ea02_end
+ 
+
+
+
+
 
 
 Lietuvos Respublikos specialiųjų žemės
@@ -8952,8 +8955,7 @@ Pastabos:
 
 
 
- 
-
+ 
 Lietuvos Respublikos specialiųjų žemės
 naudojimo sąlygų įstatymo
 2 priedas
@@ -9487,11 +9489,11 @@ Priedo pakeitimai:
 Nr. XIII-3264, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15776
 Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
  
-part_06b2b85e6f84416d9942193e30bd5b7d_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos specialiųjų
 žemės naudojimo sąlygų įstatymo
 3 priedas
@@ -9568,6 +9570,7 @@ Komunalinių objektų sanitarinės apsaugos zonų dydIS
 
 
 
+
 2 lentelė. Komunalinių objektų, nenurodytų 1 lentelėje, sanitarinės apsaugos zonų dydis
  
 
@@ -9636,12 +9639,12 @@ Komunalinių objektų sanitarinės apsaugos zonų dydIS
 
  
 * Reikalavimas taikomas Lietuvos Respublikos aplinkos ministerijos ar jos įgaliotos institucijos nustatytu laikotarpiu, kurio metu sąvartynas gali kelti pavojų aplinkai ir žmonių sveikatai.
-
- 
-
  
-part_981f5a128ff640a2a4ed74fab4d7e972_end
-part_eb97384c32d141d580f2ff42063907e7_end
+ 
+
+
+
+
 
 
 Lietuvos Respublikos specialiųjų
@@ -9754,3 +9757,8 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 51, 53, 140 ir 141 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr.  KT60-N7/2023, 2023-06-29, paskelbta TAR 2023-06-29, i. k. 2023-13152
+Dėl Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 141 straipsnio 3 dalies atitikties Lietuvos Respublikos Konstitucijai
