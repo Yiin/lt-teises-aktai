@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2021-11-02 iki 2023-06-29
+Suvestinė redakcija nuo 2023-06-30 iki 2024-12-29
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -560,7 +560,10 @@ Nr. XIII-1092, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06727
 
 
 
-13. Šio įstatymo X skyriaus ir 91 straipsnio nuostatos taikomos įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio Reglamentą (EB) Nr. 2560/2001 (toliau – Reglamentas (EB) Nr. 924/2009), 9, 10, 11, 12 ir 13 straipsnių, Reglamento (ES) Nr. 260/2012 10, 11 ir 12 straipsnių ir 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 2015/751 dėl tarpbankinių mokesčių už kortele grindžiamas mokėjimo operacijas (toliau – Reglamentas (ES) Nr. 2015/751) 13 ir 14 straipsnių nuostatas.
+13. Šio įstatymo X skyriaus ir 91 straipsnio nuostatos taikomos įgyvendinant Reglamento (ES) Nr. 260/2012 10, 11 ir 12 straipsnių, Reglamento (ES) 2015/751 13 ir 14 straipsnių ir Reglamento (ES) 2021/1230 8, 9, 10, 11 ir 12 straipsnių nuostatas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
+ 
 
 
 
@@ -3452,9 +3455,10 @@ X SKYRIUS
 
 
 
-2. Priežiūros institucija prižiūri, kaip laikomasi šio įstatymo, su jo įgyvendinimu susijusių teisės aktų, Reglamento (EB) Nr. 924/2009, Reglamento (ES) Nr. 260/2012 ir Reglamento (ES) 2015/751 (toliau šiame skyriuje – šis įstatymas ir (arba) kiti teisės aktai) reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo šio įstatymo ir (arba) kitų teisės aktų pažeidimo (toliau – teisės akto pažeidimas). 
+2. Priežiūros institucija prižiūri, kaip laikomasi šio įstatymo, su jo įgyvendinimu susijusių teisės aktų, Reglamento (ES) Nr. 260/2012, Reglamento (ES) 2015/751 ir Reglamento (ES) 2021/1230 (toliau šiame skyriuje – šis įstatymas ir (arba) kiti teisės aktai) reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo šio įstatymo ir (arba) kitų teisės aktų pažeidimo (toliau – teisės akto pažeidimas).
 Straipsnio dalies pakeitimai:
 Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
+Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
  
 
 
@@ -3953,7 +3957,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos
+Lietuvos Respublikos 
 mokėjimų įstatymo
 priedas
  
@@ -3961,32 +3965,38 @@ priedas
  
 
 
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinantis Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11).
+1. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009.
 
 
 
 
-2. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (OL 2012 L 94, p. 22).
+2. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis.
 
 
 
 
-3. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis (OL 2014 L 257, p. 214).
+3. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/751 dėl tarpbankinių mokesčių už kortele grindžiamas mokėjimo operacijas.
 
 
 
 
-4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/751 dėl tarpbankinių mokesčių už kortele grindžiamas mokėjimo operacijas (OL 2015 L 123, p. 1).
+4. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB.
 
 
 
 
-5. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB (OL 2015 L 337, p. 35).
+5. 2021 m. liepos 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/1230 dėl tarptautinių mokėjimų Sąjungoje (kodifikuota redakcija).
+
+
+
+
+___________________
  
 
 
 Priedo pakeitimai:
 Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
  
  
  
@@ -4066,3 +4076,8 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2488, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17215
 Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 2 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 3, 76 straipsnių ir priedo pakeitimo įstatymas
