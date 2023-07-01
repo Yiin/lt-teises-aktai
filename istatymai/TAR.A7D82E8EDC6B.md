@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-11-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -78,7 +78,9 @@ Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 
 
 
-5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos kelių įstatyme (toliau – Kelių įstatymas), Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme (toliau – Saugaus eismo automobilių keliais įstatymas) ir Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme.
+5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos kelių transporto kodekse, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos žemės ūkio, maisto ūkio, kaimo plėtros įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
  
 
 
@@ -210,7 +212,14 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-9) vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais (nurodytais leidimuose) važiuojančiomis keleivinėmis transporto priemonėmis ar jų junginiais.
+9) vietinio (miesto ir priemiestinio) reguliaraus susisiekimo maršrutais (nurodytais leidimuose) važiuojančiomis keleivinėmis transporto priemonėmis ar jų junginiais;
+
+
+
+
+10) grynaisiais elektromobiliais ir vandenilio dujomis varomais automobiliais. 
+Papildyta straipsnio punktu:
+Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
  
 
 
@@ -690,8 +699,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 kelių priežiūros ir 
@@ -781,10 +788,9 @@ Priedo pakeitimai:
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
  
-part_00399d8819344d679ac3ed4162be44bb_end
 
 
- 
+
 
  
 Lietuvos Respublikos 
@@ -897,10 +903,9 @@ KELIŲ NAUDOTOJO MOKESČIO RIBINIAI TARIFAI
 Priedo pakeitimai:
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
  
-part_1e19b874a13b492cb4668d57f3a7cd62_end
 
 
- 
+
 
  
 Lietuvos Respublikos 
@@ -1265,10 +1270,9 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 Priedo pakeitimai:
 Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
  
-part_3a804eb8080b413fb24350b538e2f327_end
 
 
- 
+
 
  
 Lietuvos Respublikos 
@@ -1422,10 +1426,9 @@ Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 
 
 
-part_13500aa429c2408e89328812418bd17d_end
 
 
- 
+
 
  
 Lietuvos Respublikos 
@@ -1451,7 +1454,8 @@ Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
  
 
 
-part_ce02f3a5172f4814bcc7f54fcd934107_end
+
+
 
 
 Pakeitimai:
@@ -1678,3 +1682,8 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo įstatymo Nr. XIII-3420 pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2 ir 6 straipsnių pakeitimo įstatymas
