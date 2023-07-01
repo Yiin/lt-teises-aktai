@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-01
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
- 
-TAR pastaba. Įstatymas Nr. XIV-3313 taikomas rengiant 2024 ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto projektus ir 2024 m. sausio 1 d. prasidedančių ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius. Rengiamiems ataskaitinių laikotarpių iki 2024 metų ataskaitų rinkiniams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo nuostatos
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-847, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27747
-Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 19, 20 ir 21 straipsnių pakeitimo įstatymo Nr. XIII-3313 4 straipsnio pakeitimo įstatymas
  
 
  
@@ -104,6 +99,13 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 
 
 7. Taryba – Garantinio fondo ir Ilgalaikio darbo išmokų fondo priežiūros organas, sudarytas iš darbdavių organizacijų, profesinių sąjungų organizacijų ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) atstovų.
+
+
+
+
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme ir Lietuvos Respublikos fizinių asmenų bankroto įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
  
 
 
@@ -334,15 +336,19 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 Garantinio fondo lėšos naudojamos:
 
 
-1) šio įstatymo 3 straipsnio 1 dalyje nurodytų darbdavių darbuotojų negautoms priskaičiuotoms su darbo santykiais susijusioms sumoms, neviršijančioms šio įstatymo 7 straipsnyje nustatytų dydžių, mokėti;
+1) šio įstatymo 3 straipsnio 1 dalyje nurodytų darbdavių darbuotojams nesumokėtoms su darbo santykiais susijusių Valstybinio socialinio draudimo įstatymo 10 straipsnio 1 dalies 1–6 punktuose nurodytų pajamų, nuo kurių atskaičiuoti mokėtini mokesčiai (darbuotojo valstybinio socialinio draudimo įmokos, privalomojo sveikatos draudimo įmokos ir gyventojų pajamų mokestis) ir pensijų kaupimo įmokos pagal Lietuvos Respublikos pensijų kaupimo įstatymą, sumoms, neviršijančioms šio įstatymo 7 straipsnyje nustatytų dydžių, mokėti; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
+Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
  
 
 
 
 
-2) mokesčiams, nurodytiems Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnyje (išskyrus gyventojų pajamų mokestį), kurie skaičiuojami nuo darbuotojams priskaičiuotų sumų, mokėti, kaip nurodyta Garantinio fondo nuostatuose;
+2) Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnyje nurodytiems mokesčiams (išskyrus gyventojų pajamų mokestį), kurie skaičiuojami nuo darbuotojams priskaičiuotų pajamų sumų, nurodytų šio straipsnio 1 punkte, mokėti, kaip nurodyta Garantinio fondo nuostatuose;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
+ 
 
 
 
@@ -424,12 +430,12 @@ Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 8 straipsnis. Garantinio fondo lėšų skyrimo ir mokėjimo tvarka
 
 
-1. Įsiteisėjusi teismo nutartis arba kreditorių susirinkimo sprendimas patvirtinti darbuotojų reikalavimus, susijusius su darbo santykiais, ar teismo nutartis atsisakyti iškelti nemokiam juridiniam asmeniui bankroto bylą ir siūlyti inicijuoti jo likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva yra dokumentai, kuriais patvirtinama darbuotojų teisė gauti su darbo santykiais susijusią išmoką iš Garantinio fondo. Šie dokumentai administratoriui pateikiami Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka.
+1. Įsiteisėjusi teismo nutartis arba kreditorių susirinkimo sprendimas patvirtinti darbuotojų reikalavimus, susijusius su darbo santykiais, ar teismo nutartis atsisakyti iškelti nemokiam juridiniam asmeniui bankroto bylą ir pavesti inicijuoti jo likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva yra dokumentai, kuriais patvirtinama darbuotojų teisė gauti su darbo santykiais susijusią išmoką iš Garantinio fondo. Šie dokumentai administratoriui pateikiami Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka.
 
 
 
 
-2. Išmokos iš Garantinio fondo šio įstatymo 3 straipsnio 1 dalyje nurodytiems darbuotojams skiriamos, jeigu jie Garantinio fondo nuostatuose nustatyta tvarka ne vėliau kaip per 6 mėnesius nuo šio straipsnio 1 dalyje nurodytų dokumentų įsiteisėjimo dienos kreipėsi į administratorių.
+2. Išmokos iš Garantinio fondo šio įstatymo 3 straipsnio 1 dalyje nurodytiems darbuotojams mokamos, jeigu jie Garantinio fondo nuostatuose nustatyta tvarka ne vėliau kaip per 12 mėnesių nuo šio straipsnio 1 dalyje nurodytų dokumentų įsiteisėjimo dienos yra kreipęsi į administratorių.
 
 
 
@@ -439,7 +445,7 @@ Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 
 
 
-4. Išmokos iš Garantinio fondo neskiriamos darbuotojui, kuriam išmokos, analogiškos šio įstatymo 6 straipsnio 1 ir 2 punktuose nurodytoms išmokoms iš Garantinio fondo, buvo skirtos kitų valstybių narių institucijų, atliekančių garantijų institucijų funkcijas. Jeigu šioje dalyje nurodytam darbuotojui buvo skirtos išmokos iš Garantinio fondo, administratorius priima sprendimą dėl darbuotojui skirtų išmokų iš Garantinio fondo grąžinimo. Šios išmokos iš Garantinio fondo grąžinamos Vyriausybės nustatyta tvarka. 
+4. Išmokos iš Garantinio fondo neskiriamos darbuotojui, kuriam išmokos, analogiškos šio įstatymo 6 straipsnio 1 ir 2 punktuose nurodytoms išmokoms iš Garantinio fondo, buvo skirtos kitų valstybių narių institucijų, atliekančių garantijų institucijų funkcijas. Jeigu šioje dalyje nurodytam darbuotojui buvo skirtos išmokos iš Garantinio fondo, administratorius Garantinio fondo nuostatuose nustatytais terminais priima sprendimą dėl šių darbuotojui skirtų išmokų iš Garantinio fondo grąžinimo. Šios išmokos iš Garantinio fondo grąžinamos Garantinio fondo nuostatuose nustatyta tvarka.
 
 
 
@@ -449,16 +455,27 @@ Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 
 
 
-6. Patvirtinta darbuotojų reikalavimų, susijusių su darbo santykiais, suma mažinama iš Garantinio fondo sumokėtos išmokos suma. Administratorius turi atgręžtinio reikalavimo teisę išieškoti šią sumą iš darbdavio. Administratoriaus reikalavimai tenkinami Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka.
+6. Patvirtinta darbuotojų reikalavimų, susijusių su darbo santykiais, suma mažinama iš Garantinio fondo priskaičiuotų mokėti išmokų suma. Administratorius turi atgręžtinio reikalavimo teisę išieškoti šią sumą iš darbdavio. Nemokumo administratorius Garantinio fondo nuostatuose nustatyta tvarka ir terminais įtraukia administratorių į darbdavio kreditorių sąrašą. Administratoriaus reikalavimai tenkinami Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka.
 
 
 
 
-7. Darbuotojai nepraranda teisės gauti išmokas iš Garantinio fondo darbdaviui į Garantinį fondą nesumokėjus šio įstatymo 5 straipsnio 1 dalies 1 punkte nurodytų įmokų. 
+7. Darbuotojai nepraranda teisės gauti išmokas iš Garantinio fondo darbdaviui į Garantinį fondą nesumokėjus šio įstatymo 5 straipsnio 1 dalies 1 punkte nurodytų įmokų.
+
+
+
+
+8. Išmokų iš Garantinio fondo permokos išieškomos Valstybinio socialinio draudimo įstatymo 21 straipsnyje nustatyta tvarka.
+
+
+
+
+9. Išmokų iš Garantinio fondo sumos, kurios priklausė šio įstatymo 3 straipsnio 1 dalyje nurodytam darbuotojui ir kurių jis dėl savo mirties negavo, išmokamos šio mirusio asmens įpėdiniams, kuriems paveldėjimo tvarka yra perėjęs jo turtas ir kurie Garantinio fondo nuostatuose nustatyta tvarka yra kreipęsi į administratorių.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
+Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
  
 
 
@@ -530,7 +547,10 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 
 
 
-2. Teisę į sankcijų taikymo išmoką turinčiam darbuotojui iš Ilgalaikio darbo išmokų fondo skiriama 77,58 procento dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio sankcijų taikymo išmoka, bet ne daugiau kaip dviejų Lietuvos statistikos departamento paskelbto šalies ūkio vidutinių mėnesinių bruto darbo užmokesčių (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) dydžio, galiojusio užpraeitą kalendorinį ketvirtį nuo atleidimo iš darbo dienos.
+2. Teisę į sankcijų taikymo išmoką turinčiam darbuotojui iš Ilgalaikio darbo išmokų fondo skiriama 77,58 procento dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio sankcijų taikymo išmoka, bet ne daugiau kaip dviejų Valstybės duomenų agentūros paskelbto šalies ūkio vidutinių mėnesinių bruto darbo užmokesčių (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) dydžio, galiojusio užpraeitą kalendorinį ketvirtį nuo atleidimo iš darbo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
+ 
 
 
 
@@ -553,7 +573,10 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 11 straipsnis. Ilgalaikio darbo išmokų ir sankcijų taikymo išmokų skyrimo ir mokėjimo tvarka
 
 
-1. Ilgalaikio darbo išmokos šio įstatymo 9 straipsnio 1 dalyje nurodytiems darbuotojams (išskyrus iš biudžetinių įstaigų ir Lietuvos banko atleistus asmenis), kurie ne vėliau kaip per šešis mėnesius po atleidimo iš darbo kreipėsi Ilgalaikio darbo išmokų fondo nuostatuose (toliau – IDIF nuostatai) nustatyta tvarka į administratorių, skiriamos ne anksčiau kaip praėjus trims mėnesiams nuo atleidimo dienos. Ilgalaikio darbo išmokos yra mokamos IDIF nuostatuose nustatyta tvarka iš karto išmokant visą išmokos sumą, apskaičiuotą šio įstatymo 10 straipsnyje nustatyta tvarka. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
+1. Ilgalaikio darbo išmokos skiriamos ne anksčiau kaip praėjus trims mėnesiams nuo darbuotojo atleidimo iš darbo dienos. Ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos be asmens prašymo, jeigu to asmens duomenys yra Registre. Jeigu asmens duomenų nėra Registre, ilgalaikio darbo išmokos iš Ilgalaikio darbo išmokų fondo skiriamos, jeigu asmuo ne vėliau kaip per 12 mėnesių nuo atleidimo iš darbo dienos Ilgalaikio darbo išmokų fondo nuostatuose (toliau – IDIF nuostatai) nustatyta tvarka yra pateikęs administratoriui prašymą skirti išmoką. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
+ 
 
 
 
@@ -579,6 +602,14 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 
 
 6. Ilgalaikio darbo išmokų ir sankcijų taikymo išmokų skyrimo ir mokėjimo tvarka nustatoma IDIF nuostatuose. 
+
+
+
+
+7. Ilgalaikio darbo išmokos, kurios priklausė šio įstatymo 9 straipsnio 1 dalyje nurodytam darbuotojui ir kurių jis dėl savo mirties negavo, IDIF nuostatuose nustatyta tvarka išmokamos šio mirusio asmens įpėdiniams, kuriems paveldėjimo tvarka yra perėjęs jo turtas.
+Papildyta straipsnio dalimi:
+Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
+ 
 
 
 Straipsnio pakeitimai:
@@ -1125,6 +1156,7 @@ Respublikos Prezidentė                             
 
  
 
+ 
 Lietuvos Respublikos
 garantijų darbuotojams jų 
 darbdaviui tapus nemokiam ir 
@@ -1198,5 +1230,10 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-847, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27747
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 19, 20 ir 21 straipsnių pakeitimo įstatymo Nr. XIII-3313 4 straipsnio pakeitimo įstatymas
  
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 2, 6, 8, 10 ir 11 straipsnių pakeitimo įstatymas
  
-part_b107426b9d8c4c268c4e43345379a4ce_end
+ 
+part_83aca0af9aae483aa7491d16cb42c5fb_end
