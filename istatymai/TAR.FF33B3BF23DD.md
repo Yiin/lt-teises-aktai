@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2023-06-02 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-10-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -4606,7 +4606,6 @@ Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 
 12. Vaistinės patalpose darbo laiku turi dirbti bent vienas vaistininkas, išskyrus miestus, turinčius mažiau kaip 3 tūkst. gyventojų, ir kaimo gyvenamąsias vietoves, kuriuose nesant vaistininko vaistinės patalpose jos darbo laiku gali dirbti vaistininko padėjėjas (farmakotechnikas), iki 2006 m. įgijęs vaistininko padėjėjo (farmakotechniko) ar jai prilygintą profesinę kvalifikaciją, sveikatos apsaugos ministro nustatyta tvarka ryšio priemonėmis prižiūrimas vaistininko.
-TAR pastaba. 12 dalis įsigalioja 2023-07-01.
 Straipsnio dalies pakeitimai:
 Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
 Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
@@ -4616,9 +4615,10 @@ Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
 
 
 
-13. Vaistininko padėjėjo (farmakotechniko) teikiamos farmacinės paslaugos, vaistinių preparatų pardavimo (išdavimo) ir ekstemporaliųjų vaistinių preparatų gamybos priežiūra vaistinėje suprantama kaip receptų, pagal kuriuos vaistininko padėjėjas (farmakotechnikas) pardavė (išdavė) vaistinius preparatus, patikrinimas, jeigu reikia, vaistininko padėjėjo (farmakotechniko) konsultavimas (žodžiu ar ryšio priemonėmis), parenkant gyventojui reikalingus vaistinius preparatus, teikiant farmacinę informaciją, vaistininko padėjėjo (farmakotechniko) pagamintų ekstemporaliųjų vaistinių preparatų patikrinimas. 
+13. Vaistininko padėjėjo (farmakotechniko) teikiamos farmacinės paslaugos, vaistinių preparatų pardavimo (išdavimo) ir ekstemporaliųjų vaistinių preparatų gamybos priežiūra vaistinėje suprantama kaip receptų, pagal kuriuos vaistininko padėjėjas (farmakotechnikas) pardavė (išdavė) vaistinius preparatus, patikrinimas, jeigu reikia, vaistininko padėjėjo (farmakotechniko) konsultavimas (žodžiu ar ryšio priemonėmis), parenkant gyventojui reikalingus vaistinius preparatus, teikiant farmacinę informaciją, vaistininko padėjėjo (farmakotechniko) pagamintų ekstemporaliųjų vaistinių preparatų patikrinimas. Vienas vaistininkas ryšio priemonėmis gali prižiūrėti ne daugiau kaip tris vaistininko padėjėjus (farmakotechnikus).
 Straipsnio dalies pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIV-1960, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10826
  
 
 
@@ -8061,7 +8061,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_34970840f976413d8f22bfc96f00eae8_end
+part_39b8b15807e142d0a6ff2fe6939099b3_end
 
 
 Pakeitimai:
@@ -8351,3 +8351,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
 Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 5 straipsnio pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1960, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10826
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 35 straipsnio pakeitimo įstatymas
