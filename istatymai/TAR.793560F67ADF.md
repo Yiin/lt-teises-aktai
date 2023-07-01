@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
  
@@ -124,43 +124,156 @@ Nr. XIII-2484, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17360
 
 
 
-6 straipsnis. Mokesčio tarifų nustatymas ir jų indeksavimas
+6 straipsnis. Mokesčio tarifų nustatymas ir jų indeksavimas, ekonominių sankcijų skyrimas
 
 
-1. Mokesčio už valstybinius gamtos išteklius tarifai nustatyti šio įstatymo 1, 2 ir 3 prieduose.
-
-
-
-
-2. Už nedeklaruotą ar deklaruotą mažesnį negu išgautas gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį taikomas didesnis mokesčio tarifas. Jis apskaičiuojamas šio įstatymo 1, 2 ir 3 prieduose nustatytus tarifus dauginant iš  koeficiento 10.
+1. Mokesčio už valstybinius gamtos išteklius tarifai nustatyti šio įstatymo 1, 2 ir 3 prieduose.
 
 
 
 
-3. Šio įstatymo 1 ir 2 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Lietuvos statistikos departamento apskaičiuojamą ir Oficialiosios statistikos portale skelbiamą mokestinio ketvirčio vartotojų kainų indeksą. Vartotojų kainų indeksas nustatomas palyginus mokestinio ketvirčio antrojo mėnesio kainas su 2014 metų gruodžio mėnesio kainomis.
-Straipsnio dalies pakeitimai:
-Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
- 
+2. Už nedeklaruotą ar deklaruotą mažesnį, negu išgautas, gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį taikoma ekonominė sankcija. Ji apskaičiuojama šio įstatymo 1, 2 ir 3 prieduose nustatytus tarifus dauginant iš koeficiento (nuo 2 iki 10). Ekonominės sankcijos koeficiento dydį, vadovaudamasi teisingumo ir protingumo kriterijais, taip pat šiame straipsnyje nurodytomis atsakomybę lengvinančiomis ir (ar) sunkinančiomis aplinkybėmis ir taisyklėmis, nustato Lietuvos Respublikos aplinkos ministerijos įgaliotos institucijos vadovo sudaryta komisija (toliau – Komisija). Komisijos sudarymo tvarką nustato aplinkos ministras.
 
 
 
 
-4. Šio įstatymo 3 priede nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Lietuvos statistikos departamento skelbiamą mokestinių metų vartotojų kainų indeksą. Kainų indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2005 metų gruodžio mėnesio kainomis.
+3. Asmens atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad:
+
+
+1) gamtos ištekliai išgauti turint teisę juos išgauti toje vietoje;
 
 
 
 
-5. Indeksavimo koeficientas, kurį taikant indeksuojami mokesčio už valstybinius gamtos išteklius tarifai, nustatomas vartotojų kainų indeksą dalijant iš šimto.
+2) išgauti ištekliai panaudoti viešajam vandeniui tiekti;
 
 
 
 
-6. Indeksuoti mokesčio tarifai, išskyrus mokesčio už medžiojamųjų gyvūnų išteklius tarifus, įsigalioja nuo kiekvieno mokestinio ketvirčio, kurio mokestis deklaruojamas, pradžios. Indeksuoti mokesčio už medžiojamųjų gyvūnų išteklius tarifai įsigalioja nuo kalendorinių metų, kurių mokestis deklaruojamas, pradžios. 
+3) pagal turimą leidimą išgautus išteklius asmuo deklaravo mokestinio patikrinimo metu;
+
+
+
+
+4) asmuo iki patikrinimo pradžios pateikė deklaraciją apie be leidimo išgautus gamtos išteklius;
+
+
+
+
+5) asmuo pats pranešė apie padarytą pažeidimą iki patikrinimo pradžios;
+
+
+
+
+6) asmuo pripažino pažeidimą ir bendradarbiavo su patikrinimą atlikusiu pareigūnu (toliau – pareigūnas), patikrinimo metu sudarė sąlygas pareigūnui atlikti patikrinimą, tirti pažeidimą, pateikė prašomą informaciją, padėjo išaiškinti šį pažeidimą;
+
+
+
+
+7) kitos svarbios aplinkybės, kurias Komisija pripažįsta lengvinančiomis aplinkybėmis.
+
+
+
+
+
+
+4. Asmens atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad:
+
+
+1) gamtos ištekliai išgauti pažeidžiant Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo nuostatas;
+
+
+
+
+2) padaryta žala tretiesiems asmenims;
+
+
+
+
+3) gamtos ištekliai išgauti žemės, kurios valdymo teisės asmuo neturi, sklype;
+
+
+
+
+4) pažeidimas padarytas pakartotinai; šiuo atveju taikomas Lietuvos Respublikos mokesčių administravimo įstatymo 68 straipsnio 1 dalyje nurodytas laikotarpis;
+
+
+
+
+5) išgaunant gamtos išteklius, padaryta žala aplinkai ar pabloginta likusių gamtos išteklių būklė;
+
+
+
+
+6) mokesčio mokėtojas nevykdo ar netinkamai vykdo pareigas tvarkyti apskaitą, saugoti apskaitos ar kitus dokumentus ir dėl to negalima apskaičiuoti mokėtinų mokesčių įprastine tvarka;
+
+
+
+
+7) mokesčių mokėtojas pareigūno nurodytu laiku nepateikia pareigūnui tikrinti reikiamų dokumentų, pateikia netinkamus dokumentus ar neteisingus duomenis.
+
+
+
+
+
+
+5. Konkretų ekonominės sankcijos dydį Komisija motyvuotai nustato atsižvelgdama į šias taisykles:
+
+
+1) ekonominės sankcijos koeficientas skaičiuojamas nuo jo vidurkio, kuris apskaičiuojamas minimalų ir maksimalų koeficientą sudedant ir gautą rezultatą padalijant pusiau;
+
+
+
+
+2) nustatant konkretų ekonominės sankcijos koeficientą, vertinamos šiame straipsnyje nustatytos atsakomybę lengvinančios ir sunkinančios aplinkybės;
+
+
+
+
+3) nustačius, kad yra atsakomybę lengvinančių aplinkybių ir nėra sunkinančių aplinkybių, asmeniui nustatomas ekonominės sankcijos koeficientas, nesiekiantis jo vidurkio;
+
+
+
+
+4) nustačius, kad yra atsakomybę sunkinančių aplinkybių ir nėra lengvinančių aplinkybių, asmeniui nustatomas ekonominės sankcijos koeficientas, viršijantis jo vidurkį;
+
+
+
+
+5) kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, asmeniui ekonominės sankcijos koeficientas nustatomas atsižvelgiant į jų kiekį ir reikšmingumą.
+
+
+
+
+
+
+6. Patikrinimo metu vertinamos iki patikrinimo pradžios mokesčio mokėtojo pateiktos mokesčio už valstybinius gamtos išteklius deklaracijos.
+
+
+
+
+7. Šio įstatymo 1 ir 2 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Valstybės duomenų agentūros apskaičiuojamą ir Oficialiosios statistikos portale skelbiamą mokestinių metų vartotojų kainų indeksą. Vartotojų kainų indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2014 metų gruodžio mėnesio kainomis.
+
+
+
+
+8. Šio įstatymo 3 priede nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Valstybės duomenų agentūros skelbiamą mokestinių metų vartotojų kainų indeksą. Kainų indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2005 metų gruodžio mėnesio kainomis.
+
+
+
+
+9. Indeksavimo koeficientas, kurį taikant indeksuojami mokesčio už valstybinius gamtos išteklius tarifai, nustatomas vartotojų kainų indeksą dalijant iš šimto.
+
+
+
+
+10. Indeksuoti mokesčio už valstybinius gamtos išteklius tarifai įsigalioja nuo mokestinių metų, kurių mokestis deklaruojamas, pradžios. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
+Nr. XIV-1751, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27571
  
 
 
@@ -169,9 +282,10 @@ Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010IS
 7 straipsnis. Mokesčio apskaičiavimo, deklaravimo ir mokėjimo tvarka
 
 
-1. Mokesčio už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, mokestinis laikotarpis yra kalendorinis ketvirtis. Mokesčio už medžiojamųjų gyvūnų išteklius mokestinis laikotarpis yra kalendoriniai metai. 
+1. Mokesčio už valstybinius gamtos išteklius mokestinis laikotarpis yra kalendoriniai metai. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
+Nr. XIV-1751, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27571
  
 
 
@@ -211,25 +325,27 @@ Nr. XII-2155, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19851
 8 straipsnis. Mokesčio už valstybinius gamtos išteklius mokėjimo kontrolė
 
 
-1. Teritorinės valstybinės mokesčių inspekcijos pagal mokesčio mokėtojų pateiktas deklaracijas bei Aplinkos ministerijos ar jų įgaliotų institucijų tikrinimo dokumentus kontroliuoja, ar laiku sumokamas mokestis, išieško nesumokėtą mokestį ir su juo susijusias sumas.
+1. Teritorinės valstybinės mokesčių inspekcijos pagal mokesčio už valstybinius gamtos išteklius mokėtojų pateiktas deklaracijas ir Aplinkos ministerijos ar jų įgaliotų institucijų tikrinimo dokumentus kontroliuoja, ar laiku sumokamas mokestis, išieško nesumokėtą mokestį ir su juo susijusias sumas.
 
 
 
 
-2. Aplinkos ministerija ar jos įgaliotos institucijos kontroliuoja, ar teisingai apskaičiuojamas ir deklaruojamas mokestis už valstybinius gamtos išteklius.
+2. Aplinkos ministerijos įgaliota institucija kontroliuoja, ar teisingai apskaičiuojamas ir deklaruojamas mokestis už valstybinius gamtos išteklius.
 
 
 
 
-3. Aplinkos ministerijos įgaliotos institucijos pagal kompetenciją mokestinio patikrinimo rezultatus įformina bei juos patvirtina Aplinkos ministerijos nustatyta tvarka.
+3. Aplinkos ministerijos įgaliota institucija atlieka mokesčio už valstybinius gamtos išteklius apskaičiavimo ir deklaravimo teisingumo patikrinimą savo nustatyta tvarka, vadovaudamasi šio įstatymo nuostatomis.
 
 
 
 
-4. Valstybinė mokesčių inspekcija prie Finansų ministerijos ir teritorinės valstybinės mokesčių inspekcijos, taip pat Aplinkos ministerija ar jos įgaliotos institucijos keičiasi mokesčiui už valstybinius gamtos išteklius administruoti reikalinga informacija. Keitimosi mokesčio už valstybinius gamtos išteklius informacija tvarką nustato Aplinkos ministerija, suderinusi su Valstybine mokesčių inspekcija prie Finansų ministerijos.
+4. Valstybinė mokesčių inspekcija prie Finansų ministerijos ir teritorinės valstybinės mokesčių inspekcijos, taip pat Aplinkos ministerija ar jos įgaliotos institucijos keičiasi mokesčiui už valstybinius gamtos išteklius administruoti reikalinga informacija. Keitimosi mokesčio už valstybinius gamtos išteklius informacija tvarką nustato Aplinkos ministerija, suderinusi su Valstybine mokesčių inspekcija prie Finansų ministerijos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1751, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27571
  
-
-
 
 
 
@@ -264,32 +380,27 @@ Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių v
 11 straipsnis. Mokesčio įskaitymas
 
 
-1. Mokestis už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, įskaitomas: 80 procentų – į valstybės biudžetą, o 20 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti. 
-Straipsnio dalies pakeitimai:
-Nr. XII-835, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04869
- 
+1. Mokestis už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, įskaitomas: 80 procentų – į valstybės biudžetą, 20 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
 
 
 
 
-2. Mokestis už medžiojamųjų gyvūnų išteklius įskaitomas: 50 procentų mokesčio už medžiojamųjų gyvūnų išteklius – į savivaldybės, kurios teritorijoje išgaunami medžiojamųjų gyvūnų ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti, ir 50 procentų – į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojamas Aplinkos apsaugos rėmimo programai finansuoti.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
- 
+2. Mokestis už medžiojamųjų gyvūnų išteklius įskaitomas: 50 procentų – į valstybės biudžetą, 50 procentų – į savivaldybės, kurios teritorijoje išgaunami medžiojamųjų gyvūnų ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
 
 
 
 
-3. Didesnio tarifo mokestis už valstybinius gamtos išteklius įskaitomas: 90 procentų – į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojamas Aplinkos apsaugos rėmimo programai finansuoti, o 10 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
+3. Ekonominė sankcija už valstybinius gamtos išteklius įskaitoma: 90 procentų – į valstybės biudžetą, 10 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir naudojama Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
 
 
 
 
-4. Aplinkos apsaugos rėmimo programos lėšos naudojamos Aplinkos apsaugos rėmimo programos įstatyme, o šio straipsnio 1, 2 ir 3 dalyse nurodytos savivaldybių biudžetų lėšos – Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme numatytiems tikslams. 
+4. Šio straipsnio 1, 2 ir 3 dalyse nurodytos savivaldybių biudžetų lėšos naudojamos Lietuvos Respublikos Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme nustatytiems tikslams įgyvendinti. 
 
 
 Straipsnio pakeitimai:
 Nr. X-1658, 2008-07-01, Žin., 2008, Nr. 81-3170 (2008-07-17), i. k. 1081010ISTA00X-1658
+Nr. XIV-1751, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27571
  
 
 
@@ -419,7 +530,7 @@ Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
 Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
  
-part_8e0b589b173b42d191e94dfd1906f8c3_end
+part_3b3a2b8c07c74248a18c777aba02f80b_end
 
 
  
@@ -669,6 +780,16 @@ Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2484, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17360
 Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 4 straipsnio ir 2 priedo pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1281, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14925
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 5 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1751, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27571
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 6, 7, 8 ir 11 straipsnių pakeitimo įstatymas
  
  
 part_bb8e8624b232454c8f86fecbf1773829_end
