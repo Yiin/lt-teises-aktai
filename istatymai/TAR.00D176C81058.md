@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 25-1176, i. k. 1101010ISTA00XI-681
  
@@ -673,7 +673,10 @@ V SKYRIUS
 15 straipsnis. Šeimynos finansavimas
 
 
-1. Šeimynai mokamos šeimynos išlaikymo pajamos. Jos apskaičiuojamos ir mokamos Vyriausybės ar jos įgaliotos institucijos tvirtinamoje socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje (toliau – Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika) nustatyta tvarka. Šeimynos dalyvio išlaikymo pajamų, finansuojamų iš savivaldybės biudžeto lėšų, dydis negali būti mažesnis negu 2 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra vienas šeimynos dalyvis, arba mažesnis negu 1,5 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra 2 šeimynos dalyviai, arba mažesnis negu 1 Vyriausybės patvirtinta minimalioji mėnesinė alga, jeigu šeimynoje yra 3 šeimynos dalyviai. Šeimynos dalyvio išlaikymo pajamų, finansuojamų iš savivaldybės biudžeto lėšų, dydis nepriklauso nuo šeimynoje globojamų (rūpinamų) vaikų skaičiaus.
+1. Šeimynai mokamos šeimynos išlaikymo pajamos. Jos apskaičiuojamos ir mokamos Vyriausybės ar jos įgaliotos institucijos tvirtinamoje socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje (toliau – Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodika) nustatyta tvarka. Šeimynos dalyvio išlaikymo pajamų, finansuojamų iš savivaldybės biudžeto lėšų, dydis negali būti mažesnis negu 3,5 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra vienas šeimynos dalyvis, arba mažesnis negu 2,4 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra 2 šeimynos dalyviai, arba mažesnis negu 1,8 Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu šeimynoje yra 3 šeimynos dalyviai. Šeimynos dalyvio išlaikymo pajamų, finansuojamų iš savivaldybės biudžeto lėšų, dydis nepriklauso nuo šeimynoje globojamų (rūpinamų) vaikų skaičiaus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1511, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23361
+ 
 
 
 
