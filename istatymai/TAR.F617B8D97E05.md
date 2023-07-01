@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2025-11-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -641,21 +641,20 @@ KITOS KONSULINĖS FUNKCIJOS
  
 
 
-23 straipsnis. Vizų ir joms prilyginamų dokumentų išdavimas
+23 straipsnis. Šengeno vizų ir joms prilyginamų dokumentų išdavimas
 
 
-1. Konsulinis pareigūnas arba įgaliotas darbuotojas priima prašymus išduoti vizas ar joms prilyginamus dokumentus. Konsulinis pareigūnas teisės aktų nustatytomis sąlygomis ir tvarka prašymus nagrinėja ir priima sprendimus dėl jų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
+1. Konsulinis pareigūnas arba įgaliotas darbuotojas priima prašymus išduoti Šengeno vizas ar joms prilyginamus dokumentus. Konsulinis pareigūnas teisės aktų nustatytomis sąlygomis ir tvarka prašymus nagrinėja ir priima sprendimus dėl jų.
+
+
+
+
+2. Konsulinis pareigūnas yra atsakingas už Šengeno vizų ar joms prilyginamų dokumentų išdavimo teisėtumą, o jo sprendimas atsisakyti išduoti Šengeno vizą ar jai prilyginamą dokumentą negali būti skundžiamas administracine tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1290, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15440
  
-
-
-
-
-2. Konsulinis pareigūnas yra atsakingas už vizų ar joms prilyginamų dokumentų išdavimo teisėtumą, o jo sprendimas atsisakyti išduoti vizą ar jai prilyginamą dokumentą negali būti skundžiamas administracine tvarka.
- 
-
-
 
 
 
@@ -1115,8 +1114,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 konsulinio statuto
@@ -1230,6 +1227,3 @@ Lietuvos Respublikos konsulinio statuto 20 ir 25-1 straipsnių pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1290, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15440
 Lietuvos Respublikos konsulinio statuto 23 straipsnio pakeitimo ir 26 straipsnio pripažinimo netekusiu galios įstatymas
- 
- 
-part_87dd203648d845569436e60092c9eecf_end
