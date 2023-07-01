@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-11-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1058,9 +1058,10 @@ Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
 
 
 
-9) nustato tinklų naudotojų įrenginių prijungimo prie elektros tinklų ir aprūpinimo elektros energija atkūrimo trukmę; 
+9) nustato tinklų naudotojų įrenginių prijungimo prie elektros tinklų trukmę;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -1084,7 +1085,10 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-13) nustato laikino elektros energijos persiuntimo nutraukimo ir ribojimo sąlygas;
+13) nustato dėl laikino elektros energijos persiuntimo nutraukimo ir ribojimo, siekiant užtikrinti visuomenės interesus, atsiradusių tiesioginių pagrįstų nuostolių apskaičiavimo ir atlyginimo tvarką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
 
 
 
@@ -1184,6 +1188,14 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 3) nustato elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimus;
+
+
+
+
+31) tvirtina kompensacijos, kurią tinklų operatorius moka vartotojams tais atvejais, kai elektros energijos persiuntimas atnaujinamas per ilgesnį negu šio įstatymo 721 straipsnio 1 ir (ar) 3 dalyje nustatytą laikotarpį, apskaičiavimo metodiką ir nustato maksimalų kompensacijos dydį; 
+Papildyta straipsnio punktu:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
 
 
 
@@ -1590,7 +1602,10 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-3) per kiek laiko tinklų operatoriai atlieka vartotojų įrenginių prijungimo prie elektros tinklų ir aprūpinimo elektros energija atkūrimo darbus;
+3) per kiek laiko tinklų operatoriai atlieka vartotojų įrenginių prijungimo prie elektros tinklų ir aprūpinimo elektros energija atnaujinimo darbus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
 
 
 
@@ -8051,6 +8066,22 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
+41. Taryba, nustatydama viršutines perdavimo ir skirstymo paslaugų kainų ribas, įvertina tinklų operatoriaus patirtas pagrįstas išlaidas, susijusias su kompensacijų, nurodytų šio įstatymo 721 straipsnio 2 ir 3 dalyse, apskaičiavimo ir išmokėjimo administravimu, bei tinklų operatoriaus patirtas pagrįstas išlaidas, susijusias su pagrįstų tiesioginių nuostolių tinklų naudotojams, įskaitant gamintojus, atlyginimo administravimu viršijus šio įstatymo 71 straipsnio 4 ar 5 dalyje nustatytą elektros energijos persiuntimo nutraukimo laikotarpį arba pagal šio įstatymo 71 straipsnio 8 dalį sutartą laikotarpį.
+Papildyta straipsnio dalimi:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
+
+
+
+
+42. Jeigu tinklų operatoriaus išlaidos kompensacijoms, nurodytoms šio įstatymo 721 straipsnio 2 ir 3 dalyse, išmokėti patiriamos, kai elektros energijos persiuntimas buvo nutrauktas dėl trečiųjų asmenų (išskyrus operatoriaus įgaliotus trečiuosius asmenis) kaltės ir neatnaujintas šio įstatymo 721 straipsnio 1 ir 3 dalyse nurodytais terminais, tinklų operatorius imasi visų priemonių, kad būtų nustatytas kaltas asmuo ir išieškota padaryta žala, įskaitant vartotojams sumokėtų kompensacijų sumas. Jeigu tinklų operatoriui pritaikius šias priemones paaiškėja, kad nėra galimybės nustatyti trečiųjų asmenų, dėl kurių kaltės buvo nutrauktas elektros energijos persiuntimas, ir reguliuojamosios veiklos ataskaitų patikrą atliekančio auditoriaus išvadoje nėra nustatyta kitaip, tinklų operatoriaus patirtos išlaidos kompensacijoms išmokėti įvertinamos nustatant viršutines perdavimo ar skirstymo paslaugų kainų ribas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+ 
+
+
+
+
 5. Elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų reguliavimas neturi riboti paslaugų, susijusių su elektros energijos paklausos valdymu, įskaitant paklausos telkimą, elektros energijos pajėgumų plėtra, plėtojimo, įskaitant:
 
 
@@ -8862,155 +8893,141 @@ Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
 
 
 VIENUOLIKTASIS SKIRSNIS
-APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI REIKALAVIMAI IR ELEKTROS ENERGIJOS TIEKIMO SAUGUMO UŽTIKRINIMAS 
+APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS, RIBOJIMAS IR ATNAUJINIMAS. TECHNINIAI REIKALAVIMAI IR ELEKTROS ENERGIJOS TIEKIMO SAUGUMO UŽTIKRINIMAS 
 Pakeistas skirsnio pavadinimas:
 Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
-71 straipsnis. Laikino elektros energijos persiuntimo iš elektros energijos tinklų nutraukimo ir ribojimo sąlygos tinklų naudotojams nesant tinklų naudotojų kaltės 
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
- 
+71 straipsnis. Laikino elektros energijos persiuntimo iš elektros tinklų ir į elektros tinklus nutraukimo ir ribojimo sąlygos tinklų naudotojams nesant tinklų naudotojų kaltės
 
 
-1. Elektros energijos persiuntimas tinklų naudotojams gali būti laikinai nutrauktas nesant tinklų naudotojų kaltės tik siekiant apsaugoti visuomenės interesus, tarp jų Energetikos įstatyme nustatyta tvarka paskelbus ekstremaliąją energetikos padėtį, arba įgyvendinant ypatingos valstybinės svarbos projektus, arba atliekant naujų vartotojų ar gamintojų prijungimo ar elektros tinklų priežiūros darbus. Laikino elektros energijos persiuntimo nutraukimo siekiant užtikrinti visuomenės interesus ir su tuo tiesiogiai susijusių pagrįstų nuostolių apskaičiavimo ir atlyginimo tvarką nustato energetikos ministras.
+1. Tinklų operatorius gali laikinai nutraukti elektros energijos persiuntimą tinklų naudotojams nesant tinklų naudotojų kaltės tik siekdamas apsaugoti visuomenės interesus, tarp jų Energetikos įstatyme nustatyta tvarka paskelbus ekstremaliąją energetikos padėtį, arba įgyvendindamas ypatingos valstybinės svarbos projektus, arba atlikdamas naujų vartotojų ar gamintojų prijungimo prie elektros tinklų ar elektros tinklų priežiūros darbus. Laikino elektros energijos persiuntimo nutraukimo siekiant užtikrinti visuomenės interesus ir su tuo tiesiogiai susijusių pagrįstų nuostolių apskaičiavimo ir atlyginimo tvarką nustato energetikos ministras.
 
 
 
 
-2. Elektros energijos persiuntimą nutraukti ar apriboti tinklų naudotojams be išankstinio įspėjimo galima tik tais atvejais, kai tuo siekiama išvengti avarijos ar gedimų elektros energetikos sistemoje ar operatoriaus elektros tinkle arba likviduoti patirtą avariją, gedimus ar sutrikimus, tarp jų esant šio straipsnio 1 dalyje nurodytoms aplinkybėms. Šiais atvejais teisės aktų nustatyta tvarka ir sąlygomis tinklų naudotojui turi būti nedelsiant pranešama apie elektros energijos persiuntimo nutraukimą ar apribojimą.
+2. Tinklų operatorius gali nutraukti ar apriboti elektros energijos persiuntimą tinklų naudotojams be išankstinio įspėjimo tik tais atvejais, kai tuo siekiama išvengti avarijos, sutrikimo ar gedimų elektros energetikos sistemoje ar tinklų operatoriaus elektros tinkle, likviduoti patirtą avariją, sutrikimus ar gedimus arba Energetikos įstatyme nustatyta tvarka paskelbus ekstremaliąją energetikos padėtį, kai reikia vykdyti tinklų naudotojų avarinius atjungimus pagal avarinių atjungimų grafikus. Šiais atvejais energetikos ministro nustatyta tvarka tinklų naudotojui turi būti nedelsiant pranešama apie elektros energijos persiuntimo nutraukimą ar apribojimą.
 
 
 
 
-3. Atlikdami naujų vartotojų ar gamintojų elektros įrenginių prijungimo ar elektros tinklų priežiūros darbus, elektros tinklų operatoriai gali iš dalies arba visiškai atjungti tinklų naudotojo įrenginius reikiamam laikotarpiui tik pagal iš anksto nustatytą grafiką ir ne vėliau kaip prieš 5 kalendorines dienas pranešę tinklų naudotojams. 
+3. Įgyvendindamas ypatingos valstybinės svarbos projektus, atlikdamas naujų vartotojų ar gamintojų elektros įrenginių prijungimo prie elektros tinklų ar tinklų priežiūros darbus, tinklų operatorius gali iš dalies arba visiškai atjungti tinklų naudotojo įrenginius reikiamam laikotarpiui, ne vėliau kaip prieš 5 kalendorines dienas pranešęs tinklų naudotojui, išskyrus atvejus, kai tinklų naudotojas sutiko dėl trumpesnio įspėjimo termino.
 
 
 
 
-4. Sprendžiant dėl nuostolių, susijusių su laikinu elektros energijos persiuntimo nutraukimu, siekiant užtikrinti visuomenės interesus, atlyginimo ir apskaičiavimo vadovaujamasi šiomis nuostatomis:
-
-
-1) tinklų operatorius tinklų naudotojui neatlygina jo patirtų nuostolių, kai elektros energijos persiuntimas nutraukiamas arba apribojamas Tarybai nustačius tokius tinklų naudotojo elektros įrenginių ir (ar) jų eksploatacijos trūkumus, dėl kurių gresia avarija, gedimai, sutrikimai ar kyla pavojus žmonių gyvybei ir saugumui, taip pat tais atvejais, kai tai būtina siekiant išvengti ekstremaliosios padėties ar susiklosčius energetikos sistemoje ar tinklų operatoriaus elektros tinkle ne dėl tinklų operatoriaus kaltės ekstremaliajai padėčiai, kuri kelia grėsmę sistemos ar elektros tinklo funkcionavimui ir stabilumui, taip pat susidarius generavimo galios ar elektros energijos deficitui ir tada, kai elektros energijos persiuntimo nutraukimas arba apribojimas yra būtinas atliekant elektros tinklų priežiūros darbus, taip pat vykdant naujų elektros energijos vartotojų ir (ar) gamintojų įrenginių prijungimo prie elektros tinklų darbus; taip pat tinklų operatorius tinklų naudotojui neatlygina jo patirtų nuostolių dėl izoliuoto elektros energetikos sistemos darbo bandymo, jeigu jie atsiranda dėl aplinkybių, kurių prieš pradedant izoliuoto elektros energetikos sistemos darbo bandymą nebuvo ir kurios negalėjo būti numatytos, taip pat jų nebuvo galima išvengti, kontroliuoti ir pašalinti;
+4. Įgyvendinant ypatingos valstybinės svarbos projektus, atliekant naujų vartotojų ar gamintojų elektros įrenginių prijungimo prie elektros tinklų ar tinklų priežiūros darbus, taip pat šio straipsnio 6 dalyje nurodytais atvejais, elektros energijos persiuntimas gali būti laikinai nutrauktas ar apribotas ne ilgesniam kaip 336 valandų per dvejus kalendorinius metus laikotarpiui. Į šį laikotarpį nėra įtraukiamas laikas, kai elektros energijos persiuntimas laikinai nutraukiamas ar apribojamas tinklų naudotojui sutikus su kitokiomis elektros energijos persiuntimo sąlygomis, be kurių būtų neįmanomas jo elektros įrenginių prijungimas prie tinklų operatoriaus elektros tinklų.
 
 
 
 
-2) elektros energijos persiuntimo nutraukimo laikas, nepersiųstos (nepatiektos) elektros energijos kiekis ir priežastys nustatomi pagal tinklų operatoriaus bei tinklų naudotojo operatyvinius dokumentus ir registravimo prietaisų rodmenis. Nepersiųstos (nepatiektos) elektros energijos kiekis, nekokybiškai pagamintos arba sugadintos produkcijos kiekis, sugadintos įrangos vertė nustatomi pagal tinklų operatoriaus arba tinklų naudotojo pateiktus įrodančius dokumentus. Jeigu nuostolių dydžių pagal turimą informaciją tiksliai nustatyti negalima, jų dydis nustatomas šalių susitarimu. Šalims nesusitarus, nuostolių dydį nustato teismas;
+5. Vartotojams, kurių elektros įrenginiai prijungti prie skirstomųjų tinklų, elektros energijos persiuntimas negali būti laikinai nutrauktas ilgiau kaip 24 valandas iš eilės. Tinklų operatorius ir vartotojas, išskyrus buitinį vartotoją, gali susitarti dėl kitų negu šioje dalyje nustatytų elektros energijos persiuntimo nutraukimo sąlygų.
 
 
 
 
-3) prašymą dėl nuostolių atlyginimo tinklų naudotojas turi teisę pateikti tinklų operatoriui ne vėliau kaip per vieną mėnesį nuo nuostolių atsiradimo dienos. Tinklų operatorius privalo tinklų naudotojo prašymą išnagrinėti ne vėliau kaip per 30 kalendorinių dienų nuo prašymo gavimo dienos;
+6. Kai tinklų naudotojams elektros energijos persiuntimas laikinai nutraukiamas ar apribojamas dėl kito tinklų operatoriaus įgyvendinamų ypatingos valstybinės svarbos projektų, kito tinklų operatoriaus valdomuose elektros tinkluose vykdomo naujų vartotojų ar gamintojų elektros įrenginių prijungimo prie elektros tinklų, tinklų priežiūros darbų ir dėl to elektros energijos persiuntimo nutraukimo ar apribojimo laikotarpis yra ilgesnis negu nurodytas šio straipsnio 4 ar 5 dalyje, tinklų operatorius, prie kurio valdomų elektros tinklų prijungti tinklų naudotojo elektros įrenginiai, turi atgręžtinių reikalavimų teisę į šį tinklų operatorių. Atgręžtinių reikalavimų atveju tinklų operatoriaus patirti nuostoliai apskaičiuojami proporcingai laikui, kurį elektros energijos persiuntimas laikinai nutraukiamas ar apribojamas dėl kito tinklų operatoriaus įgyvendinamų ypatingos valstybinės svarbos projektų, kito tinklų operatoriaus valdomuose elektros tinkluose vykdomo naujų vartotojų ar gamintojų elektros įrenginių prijungimo prie elektros tinklų ar tinklų priežiūros darbų. Atgręžtinių reikalavimų dydis nustatomas bendroje tinklų operatorių susitarimu sudaromoje komisijoje.
 
 
 
 
-4) tinklų operatoriai, nustatę, kad tinklų naudotojo prašymas dėl nuostolių atlyginimo yra pagrįstas, tinklų naudotojams nuostolius, patirtus dėl elektros energijos persiuntimo nutraukimo ar apribojimo, atlygina per 30 kalendorinių dienų nuo tinklų naudotojo prašymo išnagrinėjimo dienos, jeigu tinklų naudotojas ir tinklų operatorius nesusitaria kitaip. Tinklų operatoriai tinklų naudotojų prašymus nagrinėja vadovaudamiesi teisingumo, protingumo ir sąžiningumo reikalavimais. 
+7. Šio straipsnio 4 ir 5 dalių nuostatos netaikomos, kai tinklų priežiūros darbai atliekami siekiant išvengti avarijos, sutrikimo ar gedimų elektros energetikos sistemoje ar tinklų operatoriaus elektros tinkle, likviduoti patirtą avariją, sutrikimus ar gedimus arba Energetikos įstatyme nustatyta tvarka paskelbus ekstremaliąją energetikos padėtį, kai reikia vykdyti tinklų naudotojų avarinius atjungimus pagal avarinių atjungimų grafikus.
 
 
+
+
+8. Tinklų operatorius ir tinklų naudotojas gali susitarti dėl objektyviai pagrįsto ilgesnio, negu nurodyta šio straipsnio 4 dalyje, laikino elektros energijos persiuntimo nutraukimo ar apribojimo laikotarpio.
+
+
+
+
+9. Už nepersiųstą elektros energijos kiekį, esant ilgesniam negu šio straipsnio 4 ar 5 dalyje nurodytam laikotarpiui arba ilgesniam negu pagal šio straipsnio 8 dalį sutartam laikotarpiui, su tuo susiję pagrįsti tiesioginiai nuostoliai, kaip jie apibrėžti Civilinio kodekso 6.249 straipsnio 1 dalyje, apskaičiuojami ir atlyginami tinklų naudotojui energetikos ministro nustatyta tvarka.
+
+
+
+
+10. Tinklų operatorius tinklų naudotojui neatlygina jo patirtų nuostolių, kai tinklų operatorius elektros energijos persiuntimą nutraukia ar apriboja:
+
+
+1) kai Taryba ir (ar) tinklų operatorius nustato tokius tinklų naudotojo elektros įrenginių ir (ar) jų eksploatacijos trūkumus, dėl kurių gresia avarija, gedimai, sutrikimai ar kyla pavojus žmonių gyvybei ir saugumui; 
+
+
+
+
+2) kai tinklų naudotojas neužtikrina elektros kokybės standarto ir tinklų operatorių išduotų techninių sąlygų bei kitų atitinkamų techninių norminių dokumentų reikalavimų laikymosi;
+
+
+
+
+3) kai tinklų naudotojas viršija suteiktą leistiną naudoti galią ir (ar) leistiną generuoti galią;
+
+
+
+
+4) kai tai būtina siekiant išvengti ekstremaliosios energetikos padėties ar susiklosčius elektros energetikos sistemoje ar tinklų operatoriaus elektros tinkle ne dėl tinklų operatoriaus kaltės ekstremaliajai energetikos padėčiai, kuri kelia grėsmę elektros energetikos sistemos ar elektros tinklo funkcionavimui ir stabilumui;
+
+
+
+
+5) kai susidaro generavimo galios ar elektros energijos deficitas;
+
+
+
+
+6) dėl izoliuoto elektros energetikos sistemos darbo bandymo, jeigu nuostoliai dėl šio bandymo atsiranda dėl aplinkybių, kurių prieš pradedant izoliuoto elektros energetikos sistemos darbo bandymą nebuvo ir kurių nebuvo galima numatyti, taip pat jų nebuvo galima išvengti, kontroliuoti ir pašalinti;
+
+
+
+
+7) jeigu tinklų naudotojas sutinka su kitokiomis elektros energijos persiuntimo sąlygomis, be kurių būtų neįmanomas jo elektros įrenginių prijungimas prie tinklų operatoriaus elektros tinklų.
+
+
+
+
+
+
+11. Tiesioginių nuostolių dydis nustatomas pagal tinklų operatoriaus arba tinklų naudotojo pateiktus įrodančius dokumentus. Jeigu tiesioginių nuostolių dydžių pagal turimą informaciją tiksliai nustatyti negalima, jų dydis nustatomas šalių susitarimu. Šalims nesusitarus, tiesioginių nuostolių dydį nustato teismas.
+
+
+
+
+12. Jeigu elektros energijos persiuntimas buvo nutrauktas ar apribotas ilgiau negu šio straipsnio 4 ar 5 dalyje nurodytą laikotarpį arba ilgiau negu pagal šio straipsnio 8 dalį sutartą laikotarpį, tinklų operatorius kas dvejus kalendorinius metus per 3 mėnesius, pasibaigus antriems kalendoriniams metams, informuoja apie tai tinklų naudotojus energetikos ministro nustatyta tvarka.
+
+
+
+
+13. Tinklų naudotojas, kuriam elektros energijos persiuntimas buvo nutrauktas ar apribotas ilgiau negu šio straipsnio 4 ar 5 dalyje nurodytą laikotarpį arba ilgiau negu pagal šio straipsnio 8 dalį sutartą laikotarpį, turi teisę tinklų operatoriui pateikti prašymą dėl tiesioginių nuostolių atlyginimo iš karto po tiesioginių nuostolių atsiradimo, tačiau visais atvejais ne vėliau kaip per 6 mėnesius nuo šio straipsnio 12 dalyje nurodytos informacijos gavimo. 
+
+
+
+
+14. Tinklų operatorius privalo tinklų naudotojo prašymą išnagrinėti ne vėliau kaip per 60 kalendorinių dienų nuo prašymo gavimo dienos, išskyrus atvejus, kai tinklų operatoriaus sprendimu tinklų naudotojo prašymui nagrinėti sudaroma komisija (tokiu atveju šis terminas gali būti pratęstas ne ilgiau kaip 30 kalendorinių dienų). Tinklų operatorius tinklų naudotojų prašymus nagrinėja vadovaudamasis energetikos ministro nustatyta tvarka.
+
+
+
+
+15. Tinklų operatorius, nustatęs, kad tinklų naudotojo prašymas dėl nuostolių atlyginimo yra pagrįstas, tinklų naudotojui nuostolius, patirtus dėl elektros energijos persiuntimo nutraukimo ar apribojimo, atlygina per 30 kalendorinių dienų nuo tinklų naudotojo prašymo išnagrinėjimo dienos, jeigu tinklų naudotojas ir tinklų operatorius nesusitaria kitaip.
+
+
+
+
+16. Gamintojo pagamintos elektros energijos persiuntimo į elektros tinklus nutraukimui ir ribojimui mutatis mutandis taikomos šio straipsnio 1–4 ir 6–15 dalių nuostatos. Apskaičiuojant susijusių pagrįstų tiesioginių nuostolių dydį už nepersiųstą pagamintos elektros energijos kiekį, esant ilgesniam negu šio straipsnio 4 dalyje nurodytam laikotarpiui arba ilgesniam negu pagal šio straipsnio 8 dalį sutartam laikotarpiui, taip pat įvertinami gamintojo sutaupymai. Be šio straipsnio 9 dalyje nurodytų pagrįstų tiesioginių nuostolių atlyginimo, gamintojui už nepersiųstą pagamintos elektros energijos kiekį, esant ilgesniam negu šio straipsnio 4 dalyje nurodytam laikotarpiui arba ilgesniam negu pagal šio straipsnio 8 dalį sutartam laikotarpiui, taip pat atlyginamos negautos pajamos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
 
 
-711 straipsnis. Laikino pagamintos elektros energijos persiuntimo į elektros energijos tinklus nutraukimo ir ribojimo sąlygos nesant gamintojo kaltės 
-
-
-1. Pagamintos elektros energijos persiuntimas gali būti laikinai nutrauktas ar apribotas, jeigu nėra gamintojo kaltės, tik dėl šio įstatymo 71 straipsnio 1 dalyje nurodytų aplinkybių. 
-
-
-
-
-2. Tinklų operatorius gali iš dalies arba visiškai atjungti gamintojo įrenginius šio straipsnio 3 dalyje nustatytam laikotarpiui atlikdamas naujų vartotojų ar gamintojų elektros įrenginių prijungimo, elektros tinklų priežiūros darbus ar įgyvendindamas ypatingos valstybinės svarbos projektus ne vėliau kaip prieš 5 kalendorines dienas apie tai pranešęs gamintojui. Iš dalies arba visiškai atjungti gamintojo įrenginius be išankstinio įspėjimo galima tik tais atvejais, kai tuo siekiama išvengti avarijos ar gedimų elektros energetikos sistemoje ar tinklų operatoriaus elektros tinkle arba likviduoti patirtą avariją, gedimus ar sutrikimus. Šiais atvejais Vyriausybės įgaliotos institucijos nustatyta tvarka ir sąlygomis gamintojui turi būti nedelsiant pranešama apie pagamintos elektros energijos persiuntimo nutraukimą ar apribojimą.
-
-
-
-
-3. Atliekant naujų vartotojų ar gamintojų elektros įrenginių prijungimo, elektros tinklų priežiūros darbus ar įgyvendinant ypatingos valstybinės svarbos projektus, pagamintos elektros energijos persiuntimas gali būti laikinai nutrauktas ar apribotas ne ilgesniam kaip 336 valandų per 2 kalendorinius metus laikotarpiui.
-
-
-
-
-4. Tinklų operatorius ir gamintojas gali susitarti dėl objektyviai pagrįsto ir reikalingo ilgesnio negu šio straipsnio 3 dalyje nurodyto laikino pagamintos elektros energijos persiuntimo nutraukimo ar apribojimo laikotarpio.
-
-
-
-
-5. Už nepersiųstą (nepatiektą) pagamintą elektros energijos kiekį, esant ilgesniam negu šio straipsnio 3 dalyje nurodytam laikotarpiui arba ilgesniam negu pagal šio straipsnio 4 dalį sutartą laikotarpį, su tuo tiesiogiai susiję pagrįsti nuostoliai apskaičiuojami ir atlyginami gamintojui energetikos ministro nustatyta tvarka įvertinant:
-
-
-1) gamintojo prarastas pajamas ir sutaupytas išlaidas;
-
-
-
-
-2) elektros energijos persiuntimo nutraukimo ar apribojimo laiką;
-
-
-
-
-3) nepersiųstos (nepatiektos) elektros energijos kiekį ir priežastis (nustatoma pagal operatoriaus bei gamintojo operatyvinius dokumentus ir registravimo prietaisų rodmenis).
-
-
-
-
-
-
-6. Tinklų operatorius gamintojui neatlygina jo patirtų nuostolių, kai pagamintos elektros energijos persiuntimas nutraukiamas ar apribojamas:
-
-
-1) operatoriui nustačius tokius gamintojo elektros įrenginių ir (ar) jų eksploatacijos trūkumus, dėl kurių gresia avarija, gedimai, sutrikimai ar kyla pavojus žmonių gyvybei ir saugumui;
-
-
-
-
-2) kai neužtikrinami elektros kokybės standarto bei operatorių išduotų techninių sąlygų ir kitų atitinkamų techninių norminių dokumentų reikalavimai;
-
-
-
-
-3) kai tai būtina siekiant išvengti ekstremaliosios padėties ar susiklosčius energetikos sistemoje ar tinklų operatoriaus elektros tinkle ne dėl tinklų operatoriaus kaltės ekstremaliajai padėčiai, kuri kelia grėsmę sistemos ar elektros tinklo funkcionavimui ir stabilumui;
-
-
-
-
-4) susidarius generavimo galios ar elektros energijos deficitui ir tada, kai dėl izoliuoto elektros energetikos sistemos darbo bandymo nuostoliai atsiranda dėl aplinkybių, kurių prieš pradedant izoliuoto elektros energetikos sistemos darbo bandymą nebuvo ir kurios negalėjo būti numatytos, taip pat jų nebuvo galima išvengti, kontroliuoti ir pašalinti;
-
-
-
-
-5) gamintojui viršijus leistiną generuoti galią. 
-Papildyta straipsnio punktu:
-Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
- 
-
-
-
-
-
-
-7. Gamintojas, nustatęs, kad pagamintos elektros energijos persiuntimas buvo nutrauktas ar apribotas ilgiau negu šio straipsnio 3 dalyje nurodytą laikotarpį arba ilgiau negu pagal šio straipsnio 4 dalį sutartą laikotarpį, per 5 darbo dienas nuo šių aplinkybių nustatymo kreipiasi į tinklų operatorių, o tinklų operatorius gamintojo pateiktą prašymą išnagrinėja šio įstatymo 71 straipsnio 4 dalies 3 punkte nustatyta tvarka.
-
-
-
-
-8. Tinklų operatorius, nustatęs, kad gamintojo prašymas dėl nuostolių atlyginimo yra pagrįstas, gamintojui nuostolius, patirtus dėl elektros energijos persiuntimo nutraukimo ar apribojimo, atlygina per 30 kalendorinių dienų nuo gamintojo prašymo išnagrinėjimo dienos, jeigu gamintojas ir operatorius nesusitaria kitaip. Tinklų operatoriai gamintojų prašymus nagrinėja vadovaudamiesi energetikos ministro nustatyta tvarka.
-
-
-
-
-9. Taryba, nustatydama viršutines perdavimo ir skirstymo paslaugų kainų ribas, įvertina tinklų operatoriaus sąnaudas, patirtas gamintojui atlyginant pagrįstus nuostolius, atsiradusius dėl naujų vartotojų ar gamintojų elektros įrenginių prijungimo, elektros energijos persiuntimo nutraukimo ar apribojimo atliekant elektros tinklų priežiūros darbus ar įgyvendinant ypatingos valstybinės svarbos projektus, jeigu šie nuostoliai atsirado ne dėl operatoriaus kaltės. 
-
-
-Papildyta straipsniu:
-Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+711 straipsnis. Neteko galios nuo 2023-07-01.
+Straipsnio pakeitimai:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -9048,6 +9065,119 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 Straipsnio pakeitimai:
 Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+ 
+
+
+
+
+721 straipsnis. Elektros energijos persiuntimo atnaujinimas vartotojams
+
+
+1. Nutrūkus elektros energijos persiuntimui, išskyrus šio straipsnio 3 dalyje numatytus atvejus:
+
+
+1) perdavimo sistemos operatorius turi atnaujinti elektros energijos persiuntimą vartotojams ne vėliau kaip per 12 valandų;
+
+
+
+
+2) skirstomųjų tinklų operatorius turi atnaujinti elektros energijos persiuntimą vartotojams ne vėliau kaip per 6 valandas, kai vartotojo elektros įrenginiai įrengti miestuose, kuriuose gyvena daugiau kaip 80 000 gyventojų, ir laisvųjų ekonominių zonų teritorijose, ir ne vėliau kaip per 12 valandų, kai vartotojų elektros įrenginiai įrengti kitoje Lietuvos Respublikos teritorijoje.
+
+
+
+
+
+
+2. Jeigu tinklų operatorius neatnaujina elektros energijos persiuntimo šio straipsnio 1 dalyje nurodytais terminais, vartotojo prašymu jis turi sumokėti vartotojui kompensaciją, išskyrus atvejus, kai elektros energijos persiuntimas:
+
+
+1) nutrūko dėl:
+
+
+a) vartotojo kaltės;
+
+
+
+
+b) karo, teroristinių veiksmų;
+
+
+
+
+c) nenugalimos jėgos aplinkybių;
+
+
+
+
+d) valstybės veiksmų;
+
+
+
+
+e) būtinojo reikalingumo;
+
+
+
+
+
+
+2) buvo nutrauktas:
+
+
+a) siekiant apsaugoti visuomenės interesus, įskaitant atvejį, kai tai būtina siekiant išvengti ekstremaliosios energetikos padėties arba Energetikos įstatyme nustatyta tvarka paskelbus ekstremaliąją energetikos padėtį;
+
+
+
+
+b) siekiant išvengti avarijos, sutrikimo ar gedimų elektros energetikos sistemoje ar tinklų operatoriaus elektros tinkle ar likviduoti patirtą avariją, sutrikimus ar gedimus;
+
+
+
+
+c) vartotojams ir (ar) gaminantiems vartotojams viršijus leistinos naudoti galios ir (ar) leistinos generuoti galios dydį arba nevykdant susitarimų dėl kitų elektros energijos persiuntimo sąlygų, be kurių būtų neįmanomas jų elektros įrenginių prijungimas prie tinklų operatoriaus elektros tinklų.
+
+
+
+
+
+
+
+
+3. Jeigu elektros energijos persiuntimas nutrūko dėl gamtos reiškinių (potvynio, perkūnijos, apšalo, šlapdribos, audros, škvalo, ižo ar panašiai) sukeltos energetikos objektų ir įrenginių avarijos, kurios kriterijai numatyti energetikos objektų ir įrenginių avarijų ir sutrikimų tyrimą reglamentuojančiuose teisės aktuose, ar gaisro ir tinklų operatorius neatnaujina elektros energijos persiuntimo per 72 valandas, vartotojo prašymu jis turi sumokėti vartotojui Tarybos nustatyta tvarka apskaičiuotą kompensaciją.
+
+
+
+
+4. Šio straipsnio 2 ir 3 dalyse nurodytas metinis vienam vartotojo objektui išmokamos kompensacijos dydis negali viršyti pusės vartotojui per praėjusius kalendorinius metus priskaičiuotų persiuntimo paslaugos mokesčių sumos (be pridėtinės vertės mokesčio) už konkretų vartotojo objektą, išskyrus atvejus, kai elektros energijos persiuntimas nutrūksta ir nėra atnaujinamas šio straipsnio 1 dalyje nurodytais terminais daugiau kaip du kartus per metus. Tuo atveju, jeigu elektros energija būtų vartojama ne ištisus metus, didžiausias mokėtinas kompensacijos dydis būtų apskaičiuojamas proporcingai faktiniam elektros energijos vartojimo laikui. Kai elektros energijos persiuntimas nutrūksta ir nėra atnaujinamas šio straipsnio 1 dalyje nurodytais terminais daugiau kaip du kartus per metus, paskesniais atvejais kiekvienos išmokamos kompensacijos maksimalus dydis negali būti didesnis kaip pusė vartotojo per praėjusius kalendorinius metus už konkretų vartotojo objektą priskaičiuotų persiuntimo paslaugos mokesčių sumos (be pridėtinės vertės mokesčio). Einamaisiais kalendoriniais metais vartotojui priskaičiuotos kompensacijos dalis, viršijanti šioje dalyje nurodytą metinę vienam vartotojo objektui galimą išmokėti kompensacijos sumą, nėra mokama.
+
+
+
+
+5. Jeigu tinklų operatorius neatnaujina elektros energijos persiuntimo šio straipsnio 1 ar 3 dalyje nurodytais terminais, ne vėliau kaip per 45 kalendorines dienas nuo elektros energijos persiuntimo atnaujinimo tinklų operatorius privalo informuoti vartotoją apie teisę kreiptis dėl šio straipsnio 2 ir 3 dalyse nurodytos kompensacijos. Vartotojas, siekiantis gauti šio straipsnio 2 ir 3 dalyse nurodytą kompensaciją, per 6 mėnesius nuo tinklų operatoriaus pranešimo gavimo dienos pateikia prašymą tinklų operatoriui. Tinklų operatorius vartotojo prašymą privalo išnagrinėti ne vėliau kaip per 30 kalendorinių dienų nuo prašymo gavimo dienos.
+
+
+
+
+6. Tinklų operatorius, nustatęs, kad vartotojo prašymas dėl kompensacijos yra pagrįstas, vartotojui kompensaciją sumoka per 30 kalendorinių dienų nuo vartotojo prašymo išnagrinėjimo dienos, jeigu vartotojas ir tinklų operatorius nesusitaria kitaip.
+
+
+
+
+7. Kai būtina užsitikrinti trumpesnį elektros energijos persiuntimo atnaujinimo laiką, negu numatyta šio straipsnio 1 dalyje, arba išvengti elektros energijos persiuntimo nutrūkimo, vartotojai, išskyrus buitinius vartotojus, kreipiasi į tinklų operatorių dėl rezervinės linijos ar dėl tiesioginės skirstymo linijos įrengimo. Rezervinė linija įrengiama nuo skirstomųjų tinklų operatoriui priklausančių žemos ar vidutinės įtampos elektros tinklų ir, jai atsijungus, jos įjungimas vykdomas per laiką, nurodytą šio straipsnio 1 dalyje. Tiesioginė skirstymo linija įrengiama nuo skirstomųjų tinklų operatoriui priklausančių vidutinės įtampos elektros tinklų taip, kad, sugedus šiai linijai ir (ar) kitam elektros energijos šaltiniui, perjungimas nuo vieno elektros energijos šaltinio prie kito būtų vykdomas per relinės apsaugos ir automatikos įtaisų suveikimo laiką. Šioje dalyje nurodyti vartotojai taip pat turi teisę patys įsirengti elektros energijos šaltinius, kurie užtikrina nuo skirstomųjų tinklų operatoriaus elektros tinklų nepriklausomą elektros energijos tiekimą. Vartotojas tinklų operatoriui kompensuoja 100 procentų visų tinklų operatoriaus išlaidų, patirtų tinklų operatoriui įrengiant rezervinę ir (ar) tiesioginę skirstymo linijas.
+
+
+
+
+8. Jeigu tinklų operatorius neatnaujina elektros energijos persiuntimo šio straipsnio 1 ir 3 dalyse nurodytais terminais dėl įvykių kito tinklų operatoriaus valdomuose elektros tinkluose ir vartotojo prašymu sumoka vartotojui kompensaciją, tinklų operatorius, prie kurio valdomų elektros tinklų prijungti vartotojo elektros įrenginiai, turi atgręžtinių reikalavimų teisę į kitą tinklų operatorių. Atgręžtinių reikalavimų atveju tinklų operatoriaus patirti nuostoliai apskaičiuojami proporcingai laikui, kurį elektros energijos persiuntimas buvo nutrūkęs dėl įvykių kito tinklų operatoriaus valdomuose elektros tinkluose. Atgręžtinių reikalavimų dydis nustatomas bendroje tinklų operatorių susitarimu sudaromoje komisijoje.
+
+
+
+
+9. Vartotojai, nutrūkus elektros energijos persiuntimui, taip pat turi teisę kreiptis į tinklų operatorių dėl patirtų pagrįstų tiesioginių nuostolių, kaip jie apibrėžti Civilinio kodekso 6.249 straipsnio 1 dalyje, atlyginimo.
+
+
+Papildyta straipsniu:
+Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
  
 
 
@@ -10097,8 +10227,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 elektros energetikos įstatymo
@@ -10488,6 +10616,3 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 21-1, 22, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 46, 47 ir 51 straipsnių pakeitimo įstatymas
- 
- 
-part_cc5e00d041854adfb46efa9925e79327_end
