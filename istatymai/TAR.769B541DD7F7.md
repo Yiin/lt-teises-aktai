@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
  
@@ -472,7 +472,10 @@ Nr. XI-1510, 2011-06-23, Žin., 2011, Nr. 86-4152 (2011-07-13), i. k. 1111010IST
 11 straipsnis. Ūkininko sodybos statybos sąlygos
 
 
-1. Nerengiant detaliųjų planų žemės ūkio paskirties žemėje ūkininkas gali statyti vieną ūkininko sodybą, išskyrus miestams po 1995 m. birželio 1 d. nustatyta tvarka priskirtose teritorijose. Ūkininko sodyba ar pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatai statomi nuosavybės teise priklausančiame žemės ūkio paskirties žemės sklype, ne mažesniame kaip 0,5 hektaro.
+1. Neurbanizuotoje ir neurbanizuojamoje teritorijoje (išskyrus miestams po 1995 m. birželio 1 d. nustatyta tvarka priskirtas teritorijas) esančioje žemės ūkio paskirties žemėje ūkininkas, kuris pastaruosius 3 metus yra deklaravęs pajamas iš žemės ūkio veiklos, gali statyti vieną ūkininko sodybą (vieną gyvenamosios paskirties pastatą su pagalbinio ūkio paskirties pastatais). Reikalavimas pastaruosius 3 metus deklaruoti pajamas iš žemės ūkio veiklos netaikomas kitos paskirties pastatų, reikalingų ūkininko veiklai vykdyti, statybai. Ūkininko sodyba (gyvenamosios paskirties pastatas su pagalbinio ūkio paskirties pastatais) statoma nuosavybės teise priklausančiame žemės ūkio paskirties žemės sklype, ne mažesniame kaip 2 hektarai, išskyrus atvejus, kai kituose įstatymuose, teritorijų planavimo dokumentuose nustatyta kitaip. Kitos paskirties pastatai, reikalingi ūkininko veiklai vykdyti, gali būti statomi ir nuosavybės teise priklausančiame žemės ūkio paskirties žemės sklype, ne mažesniame kaip 0,5 hektaro, išskyrus atvejus, kai kituose įstatymuose, teritorijų planavimo dokumentuose nustatyta kitaip. Saugomose teritorijose ūkininko sodybos pastatų statyba turi būti numatyta saugomų teritorijų specialiojo teritorijų planavimo dokumentais nustatytose vietose. Kai žemės ūkio paskirties žemės sklypo dalis yra Europos ekologinio tinklo „Natura 2000“ teritorijoje, nepatenkančioje į nacionalinę saugomą teritoriją, ūkininko sodybos pastatų statyba galima ne mažesnėje kaip 2 ha jo dalyje, esančioje už šios Europos ekologinio tinklo „Natura 2000“ teritorijos ribų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1796, 2023-03-16, paskelbta TAR 2023-03-17, i. k. 2023-04815
+ 
 
 
 
@@ -553,3 +556,8 @@ Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 6, 8 ir 9 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3205, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15398
 Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 7, 8 ir 8-1 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1796, 2023-03-16, paskelbta TAR 2023-03-17, i. k. 2023-04815
+Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 11 straipsnio pakeitimo įstatymas
