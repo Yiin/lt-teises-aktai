@@ -18,10 +18,9 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2022-12-23 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-07-05
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -1076,10 +1075,11 @@ Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
 
 
-2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, konkurencijai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai, reglamentuojamoms profesijoms ir kitoms sritims. 
+2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, konkurencijai, valstybės finansams, socialinei aplinkai ir lygioms galimybėms, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai ir klimato kaitai, administracinei naštai, regionų plėtrai, reglamentuojamoms profesijoms ir kitoms sritims.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
 Nr. XIII-2986, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12791
+Nr. XIV-1630, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26094
  
 
 
@@ -1921,3 +1921,8 @@ Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisini
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1662, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26366
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1630, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26094
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15 straipsnio pakeitimo įstatymas
