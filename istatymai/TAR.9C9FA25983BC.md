@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2022-03-24 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-11-22
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -361,7 +361,9 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS STRUKTŪRA IR VALDYMAS
 
 
 
-3. Specialiųjų tyrimų tarnybos didžiausią leistiną pareigūnų ir darbuotojų pareigybių skaičių nustato Seimo valdyba. Specialiųjų tyrimų tarnybos pareigybių sąrašą, pareigūnų ir darbuotojų pareigybių aprašymus tvirtina Specialiųjų tyrimų tarnybos direktorius.
+3. Specialiųjų tyrimų tarnybos pareigybių sąrašą ir pareigybių skaičių, pareigūnų ir darbuotojų pareigybių aprašymus tvirtina Specialiųjų tyrimų tarnybos direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
 
 
@@ -600,7 +602,10 @@ SKYRIMAS Į TARNYBĄ (DARBĄ) SPECIALIŲJŲ TYRIMŲ TARNYBOJE
 
 
 
-8) iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš valstybės tarnybos tvarkymo funkcijas atliekančios įstaigos pateiktos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, pateiktos informacijos ar kitų duomenų Specialiųjų tyrimų tarnybos direktorius padaro išvadą, kad asmuo neatitinka nepriekaištingos reputacijos reikalavimų;
+8) iš Lietuvos Respublikos korupcijos prevencijos įstatymo nustatytais atvejais ir tvarka pateiktos informacijos, iš Vyriausybės įgaliotos įstaigos pateiktos informacijos apie asmenis, atleistus iš valstybės tarnautojo pareigų už šiurkštų tarnybinį nusižengimą ar pripažintus padariusiais tarnybinį nusižengimą, už kurį jiems turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, iš asmens, pareiškusio norą tarnauti Specialiųjų tyrimų tarnyboje, pateiktos informacijos ar kitų duomenų Specialiųjų tyrimų tarnybos direktorius padaro išvadą, kad asmuo neatitinka nepriekaištingos reputacijos reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
+ 
 
 
 
@@ -1175,7 +1180,10 @@ Tarnybos pakopos yra šios (nuo aukščiausios iki žemiausios):
 
 
 
-2. Tarnybos pakopa – pareigūno pareiginės algos koeficientas iš atitinkamai pareigybei taikomo koeficientų intervalo, nustatomas pagal pareigūno kvalifikaciją, tarnybos patirtį ir tarnybinės veiklos rezultatus, atitinkantis pareigūno tarnybinės veiklos įvertinimą. Kai tarnybos pakopa nustatoma pareigūną pirmą kartą skiriant į tarnybą Specialiųjų tyrimų tarnyboje, taip pat atsižvelgiama į jo profesinio pasirengimo lygį ir ankstesnės tarnybinės ar kitokios profesinės veiklos rezultatus.
+2. Tarnybos pakopa – pareigūno pareiginės algos koeficientas iš atitinkamai pareigybei taikomo koeficiento ar jų intervalo, nustatyto Specialiųjų tyrimų tarnybos direktoriaus tvirtinamoje Specialiųjų tyrimų tarnybos pareigūnų darbo apmokėjimo sistemoje (toliau – Pareigūnų darbo apmokėjimo sistema), atsižvelgiant į pareigūno kvalifikaciją, tarnybos patirtį ir tarnybinės veiklos rezultatus, atitinkantis pareigūno tarnybinės veiklos įvertinimą bei kitas šio įstatymo nuostatas. Kai tarnybos pakopa nustatoma pareigūną pirmą kartą skiriant į tarnybą Specialiųjų tyrimų tarnyboje, taip pat atsižvelgiama į jo profesinio pasirengimo lygį ir ankstesnės tarnybinės ar kitokios profesinės veiklos rezultatus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
+ 
 
 
 
@@ -1211,6 +1219,13 @@ Tarnybos pakopos yra šios (nuo aukščiausios iki žemiausios):
 
 
 9. Specialiųjų tyrimų tarnybos direktoriui ir direktoriaus pavaduotojams tarnybos pakopos nenustatomos.
+
+
+
+
+10. Pareigūno tarnybinio rango įtaka pareigūno pareiginei algai nustatoma Specialiųjų tyrimų tarnybos direktoriaus tvirtinamoje Pareigūnų darbo apmokėjimo sistemoje.
+Papildyta straipsnio dalimi:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
 
 
@@ -1358,10 +1373,12 @@ Tarnybos pakopos yra šios (nuo aukščiausios iki žemiausios):
 33 straipsnis. Tarnybos stažas
 
 
-Šiame įstatyme nurodytą tarnybos stažą, skaičiuojamą kasmetinių atostogų trukmei ir šio įstatymo 60 straipsnio 3 dalyje numatytos išeitinės išmokos dydžiui nustatyti, sudaro Lietuvos valstybei ištarnauti metai.
+Šiame įstatyme nurodytą tarnybos stažą, apskaičiuojamą kasmetinių atostogų trukmei, šio įstatymo 51 straipsnio 1 dalies 2 punkte nurodytam priedui ir šio įstatymo 60 straipsnio 3 dalyje numatytos išeitinės išmokos dydžiui nustatyti, sudaro Lietuvos valstybei ištarnauti metai, nurodyti Valstybės tarnybos įstatymo 31 straipsnio 1 ir 2 dalyse.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
-
-
 
 
 
@@ -2171,27 +2188,22 @@ PAREIGŪNŲ DARBO UŽMOKESTIS
 
 
 
-2) priedas už tarnybinį rangą;
+2) priedas už tarnybos Lietuvos valstybei stažą (išskyrus Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus);
 
 
 
 
-3) priedas už tarnybos Lietuvos valstybei stažą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
+3) priemokos;
+
+
+
+
+4) mokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
-
-
-
-
-4) priemokos;
-
-
-
-
-5) apmokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą.
-
-
 
 
 
@@ -2207,64 +2219,35 @@ Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
 52 straipsnis. Pareiginė alga
 
 
-1. Pareigūno pareiginė alga nustatoma pagal šio įstatymo priede pareigūno pareigybei nustatytą pareiginės algos koeficientą.
+1. Pareigūno pareiginės algos koeficientas nustatomas atsižvelgiant į šio įstatymo priedą ir Specialiųjų tyrimų tarnybos direktoriaus tvirtinamą Pareigūnų darbo apmokėjimo sistemą, kurioje detalizuojami pareigybių sąraše esančių pareigybių pareiginės algos koeficientų, viršijančių šio įstatymo priede nustatytuosius minimalius pareiginės algos koeficientus, dydžių nustatymo kriterijai, atsižvelgiant į pareigūnui suteiktą tarnybinį rangą, išsilavinimą, profesinio darbo patirtį, veiklos sudėtingumą, darbo krūvį, atsakomybės lygį, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimą ir kita.
 
 
 
 
-2. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos Seimo patvirtintas atitinkamų metų valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
+2. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis).
+
+
+
+
+3. Pareiginė alga apskaičiuojama pagal šio straipsnio 1 dalį Specialiųjų tyrimų tarnybos direktoriaus tvirtinamoje Pareigūnų darbo apmokėjimo sistemoje nustatytą pareiginės algos koeficientą padauginus iš bazinio dydžio. Pareigūno pareiginės algos koeficientas negali viršyti Specialiųjų tyrimų tarnybos direktoriaus pareiginės algos koeficiento.
+
+
+
+
+4. Pareigūnų, dirbusių ne visas mėnesio darbo dienas ar dirbančių ne visą darbo dieną, pareiginė alga apskaičiuojama taip: pareiginės algos dydis padalijamas iš to mėnesio nustatytų darbo valandų ar dienų skaičiaus ir gautas darbo valandos ar darbo dienos atlygis padauginamas iš pareigūno dirbtų valandų ar dienų skaičiaus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
 
 
 
 
-3. Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio įstatymo priede, dauginant iš bazinio dydžio. Pareiginė alga apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis skaitmuo būtų 0 arba 5.
-
-
-
-
-4. Pareigūnų, dirbusių ne visas mėnesio darbo dienas ar dirbančių ne visą darbo dieną, pareiginė alga apskaičiuojama taip: pareiginės algos dydis padalijamas iš to mėnesio nustatytų darbo valandų ar dienų skaičiaus, gautas darbo valandos ar darbo dienos atlygis padauginamas iš pareigūno dirbtų valandų ar dienų skaičiaus.
+53 straipsnis. Neteko galios nuo 2023-07-01
+Straipsnio naikinimas:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
-
-
-
-
-
-
-53 straipsnis. Priedas už tarnybinį rangą 
-
-
-Pareigūnams priedai už tarnybinį rangą skaičiuojami nuo pareiginės algos:
-
-
-1) jaunesniajam agentui, agentui, vyresniajam agentui, specialiajam agentui patarėjui – 10 procentų dydžio;
-
-
-
-
-2) specialiajam agentui – 15 procentų dydžio;
-
-
-
-
-3) vyresniajam specialiajam agentui – 20 procentų dydžio;
-
-
-
-
-4) vyriausiajam specialiajam agentui – 25 procentų dydžio;
-
-
-
-
-5) ypatingajam specialiajam agentui – 30 procentų dydžio.
- 
-
-
-
-
 
 
 
@@ -2272,16 +2255,12 @@ Pareigūnams priedai už tarnybinį rangą skaičiuojami nuo pareiginės algos:
 54 straipsnis. Priedas už tarnybos Lietuvos valstybei stažą
 
 
-1. Pareigūnams mokamas priedas už tarnybos Lietuvos valstybei stažą, nurodytą Valstybės tarnybos įstatymo 47 straipsnio 1 ir 2 dalyse.
-
-
-
-
-2. Priedą už tarnybos Lietuvos valstybei stažą sudaro 1 procentas pareigūno pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus, tačiau šio priedo dydis negali viršyti 30 procentų pareigūno pareiginės algos. 
+Priedą už tarnybos Lietuvos valstybei stažą sudaro 1 procentas pareigūno pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus, tačiau šio priedo dydis negali viršyti 20 procentų pareigūno pareiginės algos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
 
 
@@ -2298,27 +2277,29 @@ Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
 
 
 
-2) trūkstant darbo rinkoje atitinkamų profesijų, atsižvelgiant į Vyriausybės ar jos įgaliotos institucijos nustatytą atskirų profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą;
+2) už papildomų užduočių, suformuluotų raštu, atlikimą, kai dėl to viršijamas įprastas darbo krūvis arba kai atliekamos pareigybės aprašyme nenumatytos funkcijos;
 
 
 
 
-3) už darbą, kai yra nukrypimų nuo normalių darbo sąlygų.
+3) už įprastą darbo krūvį viršijančią veiklą, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas.
 
 
 
 
 
 
-2. Priemokų dydis nustatomas Specialiųjų tyrimų tarnybos direktoriaus įsakymu. Šio straipsnio 1 dalies 1 punkte nurodytos priemokos dydis negali viršyti 40 procentų pareiginės algos, 1 dalies 2 punkte – 100 procentų pareiginės algos, 1 dalies 3 punkte – 20 procentų pareiginės algos.
+2. Šio straipsnio 1 dalyje nurodytos priemokos negali būti mažesnės kaip 10 procentų pareigūno pareiginės algos. Šio straipsnio 1 dalyje nurodytų priemokų suma negali viršyti 80 procentų pareigūno pareiginės algos.
 
 
 
 
-3. Šiame straipsnyje numatytų priemokų skyrimo kriterijus ir tvarką nustato Specialiųjų tyrimų tarnybos direktorius. 
+3. Šiame straipsnyje numatytų priemokų dydis, jų skyrimo kriterijai ir tvarka nustatoma Specialiųjų tyrimų tarnybos direktoriaus tvirtinamoje Pareigūnų darbo apmokėjimo sistemoje. Priemoka pareigūnui skiriama Specialiųjų tyrimų tarnybos direktoriaus įsakymu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
-
-
 
 
 
@@ -3072,123 +3053,81 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
-specialiųjų tyrimų tarnybos
-įstatymo
+specialiųjų tyrimų tarnybos įstatymo
 priedas
  
-SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
-(Baziniais dydžiais)
+SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
 
 
 
- Eil. Nr. 
+
+ Eil. Nr 
  Pareigų pavadinimas 
- Pareiginės algos koeficientas  
-
-
- I pakopa 
- II pakopa 
- III pakopa 
- IV pakopa 
- V pakopa 
- VI pakopa 
+ Pareiginės algos koeficientas (baziniais dydžiais) 
 
 
  1. 
  Direktorius 
- 18,35 
+ 4,0 
 
 
  2. 
  Direktoriaus pavaduotojas 
- 17,61 
+ 3,9 
 
 
  3. 
  Valdybos viršininkas 
- 14,42 
- 14,88 
- 15,34 
- 15,80 
- 16,26 
- 16,72 
+ nuo 1,9 
 
 
  4. 
  Valdybos viršininko pavaduotojas 
- 13,72 
- 14,15 
- 14,58 
- 15,01 
- 15,44 
- 15,87 
+ nuo 1,8 
 
 
  5. 
  Skyriaus viršininkas 
- 13,47 
- 13,87 
- 14,27 
- 14,67 
- 15,07 
- 15,47 
+ nuo 1,7 
 
 
  6. 
  Skyriaus viršininko pavaduotojas, poskyrio viršininkas 
- 12,93 
- 13,31 
- 13,69 
- 14,07 
- 14,45 
- 14,83 
+ nuo 1,6 
 
 
  7. 
  Vyriausiasis specialistas 
- 12,55 
- 12,89 
- 13,23 
- 13,57 
- 13,93 
- 14,29 
+ nuo 1,5 
 
 
  8. 
  Vyresnysis specialistas 
- 11,27 
- 11,56 
- 11,85 
- 12,14 
- 12,43 
- 12,74 
+ nuo 1,3 
 
 
  9. 
  Specialistas 
- 9,00 
- 9,25 
- 9,50 
- 9,75 
- 10,00 
- 10,25 
+ nuo 1,1 
 
 
  10. 
  Jaunesnysis specialistas 
- 7,30 
- 7,59 
- 7,88 
- 8,17 
- 8,46 
- 8,75 
+ nuo 0,9 
 
 
 
+
+
+
+___________________
+ 
+
+
+Priedo pakeitimai:
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
  
  
  
@@ -3274,5 +3213,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 23, 24 ir 58 straipsnių pakeitimo įstatymas
  
- 
-part_1b91190ce20b458ea8f3368bf564810b_end
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 11, 18, 30, 33, 51, 52, 54, 55 straipsnių ir priedo pakeitimo ir 53 straipsnio pripažinimo netekusiu galios įstatymas
