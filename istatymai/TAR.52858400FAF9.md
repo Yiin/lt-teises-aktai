@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/52858400faf911e4b733cba410730a6c"
 
 # Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatymas
 
+Suvestinė redakcija nuo 2023-07-01
+ 
+Įstatymas paskelbtas: TAR 2015-05-15, i. k. 2015-07406
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TAM TIKRŲ DOPINGO MEDŽIAGŲ KONTROLĖS
 ĮSTATYMAS
@@ -55,14 +62,32 @@ Vilnius
 
 
 
-4) eritropoezę skatinančios medžiagos.
+4) eritropoezę skatinančios medžiagos;
+
+
+
+
+5) nepatvirtintos medžiagos, kaip jos apibrėžtos  Pasauliniame antidopingo kodekse;
+Papildyta straipsnio punktu:
+Nr. XIV-1984, 2023-05-23, paskelbta TAR 2023-05-31, i. k. 2023-10703
+ 
+
+
+
+
+6) antiestrogeninės medžiagos (antiestrogenai ir selektyvūs estrogenų receptorių moduliatoriai (SERM), nurodytos Pasauliniame antidopingo kodekse. 
+Papildyta straipsnio punktu:
+Nr. XIV-1984, 2023-05-23, paskelbta TAR 2023-05-31, i. k. 2023-10703
+ 
 
 
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytų tam tikrų dopingo medžiagų sąrašus tvirtina Lietuvos Respublikos sveikatos apsaugos ministras.
+2. Šio straipsnio 1 dalyje nurodytų tam tikrų dopingo medžiagų sąrašus tvirtina nacionalinė antidopingo organizacija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1984, 2023-05-23, paskelbta TAR 2023-05-31, i. k. 2023-10703
  
 
 
@@ -134,3 +159,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1984, 2023-05-23, paskelbta TAR 2023-05-31, i. k. 2023-10703
+Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatymo Nr. XII-1672 2 straipsnio pakeitimo įstatymas
