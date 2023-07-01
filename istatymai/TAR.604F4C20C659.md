@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/604f4c20c65911ea997c9ee767e856b4"
 
 # Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-12-31
  
 Įstatymas paskelbtas: TAR 2020-07-15, i. k. 2020-15758
  
@@ -250,9 +250,10 @@ ASMENS SVEIKATOS PRIEŽIŪROS PRAKTIKA
 
 
 
-6. Gydomojo masažo specialisto profesinė kvalifikacija įgyjama baigus masažuotojo formaliojo profesinio mokymo programą ir papildomą gydomojo masažo profesinio mokymo modulį.
+6. Gydomojo masažo specialisto profesinė kvalifikacija įgyjama baigus gydomojo masažo specialisto formaliojo profesinio mokymo programą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+Nr. XIV-2043, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12408
  
 
 
@@ -1035,3 +1036,8 @@ Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
 Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2043, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12408
+Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 3 straipsnio pakeitimo įstatymas
