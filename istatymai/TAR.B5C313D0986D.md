@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b5c313d0986d11eb9fecb5ecd3bd711c"
 
 # Lietuvos Respublikos alternatyviųjų degalų įstatymas
 
-Suvestinė redakcija nuo 2023-03-30 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-05-30
  
 Įstatymas paskelbtas: TAR 2021-04-08, i. k. 2021-07413
  
@@ -78,7 +78,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. DAEI apskaitos vienetų sistemos dalyvis – degalų tiekėjas ar transporto sektoriaus gamtinių dujų tiekėjas, kuriam šio įstatymo 16 straipsnyje nustatyta tvarka taikomas įpareigojimas, arba degalus iš atsinaujinančių energijos išteklių, išskyrus elektros energiją, tiekiantis subjektas, kuris DAEI apskaitos vienetų sistemoje dalyvauja savanoriškai.
+5. DAEI apskaitos vienetų sistemos dalyvis – degalų tiekėjas ar transporto sektoriaus gamtinių dujų tiekėjas, kuriam šio įstatymo 16 straipsnyje nustatyta tvarka taikomas įpareigojimas, viešosios elektromobilių įkrovimo prieigos operatorius arba kitus degalus iš atsinaujinančių energijos išteklių tiekiantis subjektas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
+ 
 
 
 
@@ -1049,7 +1052,10 @@ KETVIRTASIS SKIRSNIS
 2. DAEI apskaitos vienetų sistemos dalyviai, vadovaudamiesi DAEI apskaitos vienetų sistemos administravimo tvarkos aprašu, privalo:
 
 
-1) registruotis DAEI apskaitos vienetų sistemoje;
+1) registruotis DAEI apskaitos vienetų sistemoje, kaip numatyta šio įstatymo 16 straipsnio 4 dalyje arba kai subjektai siekia įgyti DAEI apskaitos vienetus už į vidaus rinką patiektus degalus iš atsinaujinančių energijos išteklių; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
+ 
 
 
 
@@ -1077,6 +1083,14 @@ KETVIRTASIS SKIRSNIS
 6) per 14 kalendorinių dienų nuo degalų iš atsinaujinančių energijos išteklių išvežimo už Lietuvos Respublikos teritorijos ribų dienos informuoti DAEI apskaitos vienetų sistemos administratorių apie degalų iš atsinaujinančių energijos išteklių, už kuriuos buvo skirti DAEI apskaitos vienetai, išvežimą už Lietuvos Respublikos teritorijos ribų. 
 
 
+
+
+
+
+21. DAEI apskaitos vienetai skiriami viešųjų elektromobilių įkrovimo prieigų operatoriams tik tuo atveju, jeigu jie yra įregistruoti Viešųjų ir pusiau viešųjų elektromobilių įkrovimo prieigų informacinėje sistemoje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
+ 
 
 
 
@@ -1114,7 +1128,10 @@ KETVIRTASIS SKIRSNIS
 
 
 
-6) gamtinių dujų transporto sektoriui tiekėjai turi pateikti atsinaujinančių išteklių energijos kilmės garantijos, įrodančios degalų iš atsinaujinančių energijos išteklių patiekimą galutiniam vartotojui, kopiją; 
+6) gamtinių dujų transporto sektoriui tiekėjai ir viešųjų elektromobilių įkrovimo prieigų operatoriai turi pateikti atsinaujinančių išteklių energijos kilmės garantijos, įrodančios degalų iš atsinaujinančių energijos išteklių patiekimą galutiniam vartotojui, kopiją; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
+ 
 
 
 
@@ -1136,7 +1153,10 @@ KETVIRTASIS SKIRSNIS
 
 
 
-7. DAEI apskaitos vienetų sistemos valdytojas turi teisę pagal duomenų teikimo sutartis gauti informaciją iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos duomenų bazių ir Muitinės departamento prie Lietuvos Respublikos finansų ministerijos Integruotoje muitinės informacinėje sistemoje registruotus duomenis, susijusius su degalų vežimu, tiekimu vidaus rinkai ir prievolės mokėti akcizus atsiradimu.
+7. DAEI apskaitos vienetų sistemos valdytojas turi teisę pagal duomenų teikimo sutartis gauti informaciją iš Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos duomenų bazių, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos Integruotoje muitinės informacinėje sistemoje registruotus duomenis, susijusius su degalų vežimu, tiekimu vidaus rinkai ir prievolės mokėti akcizus atsiradimu, ir duomenis iš elektros energijos skirstomųjų tinklų operatorių apie elektros energiją, patiektą į transporto priemones per viešąsias elektromobilių įkrovimo prieigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
+ 
 
 
 
@@ -1613,6 +1633,14 @@ Nr. XIV-1825, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05496
 
 
 2. Viešųjų, pusiau viešųjų ir privačių elektromobilių įkrovimo prieigų operatoriai turi teisę sudaryti elektros tiekimo įkrovimo prieigai sutartis su bet kuriuo pasirinktu nepriklausomu elektros energijos tiekėju, elektros energijos gamintoju pagal dvišales elektros energijos pirkimo–pardavimo sutartis arba su atsinaujinančių išteklių energijos bendrijomis Elektros energetikos įstatymo nustatyta tvarka. 
+
+
+
+
+21. Elektros energija iš atsinaujinančių energijos išteklių, patiekta į transporto priemones per viešųjų elektromobilių įkrovimo prieigų operatorių valdomas įkrovimo prieigas, energetikos ministro nustatyta tvarka įskaičiuojama į atsinaujinančių energijos išteklių dalies transporto sektoriuje tikslą, užtikrinant, kad į suvartotą energiją iš atsinaujinančių energijos išteklių būtų atsižvelgiama tik vieną kartą.
+Papildyta straipsnio dalimi:
+Nr. XIV-1372, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14928
+ 
 
 
 
@@ -2265,8 +2293,6 @@ Respublikos Prezidentas                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 alternatyviųjų degalų įstatymo
@@ -2307,6 +2333,3 @@ Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 15, 18 ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1825, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05496
 Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 6, 23 ir 35 straipsnių pakeitimo įstatymas
- 
- 
-part_0ee8a118bece4263944b7ecf49392568_end
