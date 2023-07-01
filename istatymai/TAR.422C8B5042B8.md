@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-05-30
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -2609,7 +2609,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-6. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija, atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui, išskyrus atvejus, kai dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino bedarbio profesinio mokymo teikėjo veikla sustabdoma. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Nedarbo socialinio draudimo įstatymo nustatyta tvarka arba Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu, bedarbiui mokama 0,4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija. Jeigu Lietuvos Respublikos Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną arba profesinio mokymo teikėjas atnaujina dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino sustabdytą veiklą, mokymo stipendijos dydis, atsižvelgiant į bedarbio lankytų profesinio mokymosi valandų skaičių, bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Nedarbo socialinio draudimo įstatymu. 
+6. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija, atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už lankytą profesinio mokymosi valandą arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Nedarbo socialinio draudimo įstatymu ir kuri mažinama proporcingai numatytų, bet nelankytų valandų skaičiui, išskyrus atvejus, kai dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino bedarbio profesinio mokymo teikėjo veikla sustabdoma. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Nedarbo socialinio draudimo įstatymo nustatyta tvarka, mokymo stipendija bedarbiui mokama 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už lankytą profesinio mokymosi valandą. Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu bedarbiui mokama 0,4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija. Jeigu Lietuvos Respublikos Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną arba profesinio mokymo teikėjas atnaujina dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino sustabdytą veiklą, mokymo stipendijos dydis, atsižvelgiant į bedarbio lankytų profesinio mokymosi valandų skaičių, bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už kiekvieną lankytą valandą arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Nedarbo socialinio draudimo įstatymu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2084, 2023-06-22, paskelbta TAR 2023-06-27, i. k. 2023-12872
+ 
 
 
 
@@ -2906,7 +2909,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-3) mokytis valstybinės kalbos siunčiami bedarbiai ar užimti asmenys, nurodyti šio įstatymo 1 straipsnio 2 dalies 3 punkte, jeigu jų turimas leidimas gyventi Lietuvos Respublikoje galioja ne trumpiau kaip vienus metus.
+3) mokytis valstybinės kalbos siunčiami bedarbiai ar užimti asmenys, nurodyti šio įstatymo 1 straipsnio 2 dalies 3 punkte.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2084, 2023-06-22, paskelbta TAR 2023-06-27, i. k. 2023-12872
+ 
 
 
 
@@ -2996,7 +3002,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-5. Bedarbiams mokymo stipendija mutatis mutandis mokama šio įstatymo 37 straipsnio 6 dalyje nustatytomis sąlygomis. Užimtiems asmenims per visą mokymosi laikotarpį pagal lankytas valandas kartą per mėnesį mokama 0,3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija.
+5. Bedarbiams mokymo stipendija mutatis mutandis mokama šio įstatymo 37 straipsnio 6 dalyje nustatytomis sąlygomis. Užimtiems asmenims per visą mokymosi laikotarpį pagal lankytas valandas kartą per mėnesį mokama 0,3 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio mokymo stipendija už kiekvieną lankytą valandą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2084, 2023-06-22, paskelbta TAR 2023-06-27, i. k. 2023-12872
+ 
 
 
 
@@ -4687,8 +4696,6 @@ Respublikos Prezidentė                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 užimtumo įstatymo 
@@ -4908,5 +4915,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 2, 16, 20, 24, 25, 30-2, 35, 38, 41, 42, 43, 44, 45 ir 47 straipsnių pakeitimo įstatymas
  
- 
-part_b53ad67e28aa4367ae5b597b85cae3fa_end
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2084, 2023-06-22, paskelbta TAR 2023-06-27, i. k. 2023-12872
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 37, 39-2 ir 39-3 straipsnių pakeitimo įstatymas
