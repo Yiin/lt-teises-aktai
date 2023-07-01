@@ -18,16 +18,18 @@ LIETUVOS RESPUBLIKOS DAINŲ ŠVENČIŲ ĮSTATYMAS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2010-07-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 128-5212, i. k. 1071010ISTA00X-1334
  
-LIETUVOS RESPUBLIKOS
-DAINŲ ŠVENČIŲ
-Į S T A T Y M A S
+Nauja redakcija nuo 2023-07-01:
+Nr. XIV-1513, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23365
+ 
+Lietuvos Respublikos
+Dainų švenčių TRadicijos
+ĮSTATYMAS
  
 2007 m. lapkričio 20 d. Nr. X-1334
 Vilnius
@@ -42,7 +44,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas užtikrina dainų švenčių tradicijos valstybinę apsaugą, periodiškumą, tęstinumą ir plėtrą, reglamentuoja rengimosi ir vadovavimo dainų šventėms tvarką, valstybės ir savivaldybių institucijų atsakomybę bei kompetenciją, nustato finansavimo principus.
+Šis įstatymas nustato dainų švenčių tradicijos išsaugojimo tikslą ir jo įgyvendinimo priemones, dainų šventes ir jų sandarą, dainų švenčių tradicijos išsaugojimą užtikrinančius subjektus ir jų funkcijas, Dainų švenčių tarybos (toliau – Taryba), Dainų švenčių tarpinstitucinės komisijos (toliau – Komisija) sudarymo tvarką ir jų funkcijas, dainų švenčių organizavimą ir finansavimą.
  
 
 
@@ -53,101 +55,52 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Ansamblių vakaras – Lietuvos dainų šventės dalis, kurios meninę programą sudaro įvairių amžiaus grupių dainų ir šokių ansamblių, liaudies instrumentų orkestrų, liaudiškų kapelų jungtiniai pasirodymai: atliekami autorių sukurti vokaliniai, instrumentiniai, choreografiniai kūriniai, harmonizuotos, aranžuotos liaudies dainos, instrumentiniai kūriniai, stilizuoti liaudies šokiai, rateliai, žaidimai.
+1. Baltijos šalių studentų dainų ir šokių šventė „Gaudeamus“ (toliau – „Gaudeamus“ šventė) – Lietuvoje, Latvijoje ir Estijoje pakaitomis rengiama dainų šventė, kurioje dalyvauja šių šalių studentų meno kolektyvai.
 
 
 
 
-2. Dainų diena – Lietuvos dainų šventės dalis, kurios meninę programą sudaro įvairių amžiaus grupių chorų, pučiamųjų ir kitų orkestrų jungtiniai pasirodymai: atliekami autorių sukurti vokaliniai, instrumentiniai kūriniai, harmonizuotos, aranžuotos ar kitaip pritaikytos, išplėtotos liaudies dainos.
+2. Dainų švenčių tradicija – XIX a. pabaigos tautinio atgimimo ir mėgėjų meno sąjūdyje gimęs ir nuolat besitęsiantis unikalus nematerialus kultūros paveldo reiškinys, ugdantis visuomenės tautinę ir kultūrinę tapatybę, patriotiškumą, kūrybiškumą, socialinius įgūdžius, skatinantis įvairių meno šakų ir žanrų meno kolektyvų veiklas, periodiškai buriantis juos į dainų švenčių renginius.
 
 
 
 
-3. Dainų švenčių tradicija – unikalus visuotinis kultūros reiškinys, kurio šaknys yra XIX a. pabaigos tautinio atgimimo ir mėgėjų meno sąjūdyje ir kuris padeda išlaikyti tautinę tapatybę, ugdo visuomenės tautiškumą, patriotizmą, kūrybiškumą, periodiškai buria įvairių sričių mėgėjų ir profesionalius meno kolektyvus į dainų šventės renginius.
+3. Dainų švenčių tradicijos išsaugojimas – teisinių, administracinių, finansinių, sociokultūrinių ir kitų priemonių, užtikrinančių dainų švenčių tradicijos apsaugą, tęstinumą ir plėtrą, visuma.
 
 
 
 
-4. Dainų šventė – stambaus masto tradicinio, mėgėjų ir profesionalaus meno renginys arba jų ciklas, kurį sudaro jungtinės dainų, šokių, instrumentinių kolektyvų, folkloro ansamblių ir kitų meno kolektyvų programos.
+4. Dainų šventė – dainų švenčių tradiciją puoselėjantis stambaus masto tradicinio, mėgėjų ir profesionaliojo meno renginys arba jų ciklas, kurį sudaro jungtinės dainų, šokių, instrumentinių kolektyvų, folkloro ansamblių ir kitų meno kolektyvų, atlikėjų, kūrėjų meninės programos.
 
 
 
 
-5. Etnografinis regionas – istoriškai susiformavusi teritorijos dalis, kurioje išlaikyta savita tarmė, tradicijos ir papročiai, integruotas baltų genčių palikimas. 
-Papildyta straipsnio dalimi:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
+5. Kūrybinė grupė – tikslingai suburta grupė, kuri savo idėjomis, kūrybinėmis, intelektinėmis pastangomis sukuria dainų šventės programą ir prisideda prie jos įgyvendinimo.
 
 
 
 
-6. Folkloro diena – Lietuvos dainų šventės dalis, kurios renginiuose dalyvauja Lietuvos etnografinių regionų, miestų ir kaimų folkloro ansambliai, dainininkai, muzikantai, pasakotojai, liaudies menininkai ir amatininkai, tradicinės virtuvės žinovai, kitų etninės kultūros sričių puoselėtojai. 
-Straipsnio dalies pakeitimai:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
+6. Lietuvos dainų šventė – Lietuvos ir Pasaulio lietuvių bendruomenes ir jų vaikų, jaunimo ir suaugusiųjų meno kolektyvus burianti dainų šventė, grindžiama etninės kultūros tradicijomis, geriausiais lietuvių autorių kūriniais.
 
 
 
 
-7. Kūrybinė grupė – tikslingai suburta grupė, kuri savo idėjomis, kūrybinėmis, intelektinėmis pastangomis sukuria ir įgyvendina dainų šventės programą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
+7. Lietuvos moksleivių dainų šventė – Lietuvos vaikų ir jaunimo meno kolektyvus burianti dainų šventė, grindžiama etninės kultūros tradicijomis, geriausiais lietuvių autorių kūriniais ir pačių vaikų ir jaunimo kūryba.
 
 
 
 
-8. Liaudies meno paroda – Lietuvos dainų šventės dalis – liaudies menininkų ir amatininkų darbų ekspozicija, sudaryta atrenkant darbus etapais pagal tradicijų ir meniškumo kriterijus iš rajoninių bei regioninių parodų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
+8. Meno kolektyvas – asmenų grupė, užsiimanti mėgėjų ar profesionaliuoju menu ir dalyvaujanti dainų švenčių tradiciją palaikančiose veiklose.
 
 
 
 
-9. Lietuvos dainų šventė – tradiciškai susiklosčiusi meninių programų visuma, grindžiama geriausiais nacionalinės – tradicinės, mėgėjų ir profesionalios – kultūros kūriniais, susidedanti iš pagrindinių renginių (Liaudies meno parodos, Folkloro dienos, Ansamblių vakaro, Šokių dienos, Dainų dienos) ir kitų meninių programų, kultūrinių renginių, burianti Lietuvos ir Pasaulio lietuvių bendruomenės vaikų, jaunimo ir suaugusiųjų meno kolektyvus.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
+9. Regioninė dainų šventė – etninės kultūros tradicijomis grindžiama, etnografinio regiono ar vietovės tapatybę išryškinanti ir stiprinanti dainų šventė, kurioje dalyvauja vienos ar daugiau savivaldybių meno kolektyvai.
 
 
 
 
-10. Lietuvos moksleivių dainų šventė – įvairių meno šakų, žanrų vaikų ir jaunimo kolektyvų meninės programos, iš kurių svarbiausios – Dainų diena ir Šokių diena – grindžiamos vertingiausiomis nacionalinės kultūros tradicijomis, šiuolaikinių autorių ir pačių vaikų kūryba.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
-
-
-
-
-11. Meno kolektyvo vadovas – asmuo, kuris turi vienos ar kitos meno šakos, žanro profesinį išsilavinimą arba darbo patirtį ir pagal darbo sutartį vadovauja meno kolektyvui, t. y. atsako už jo meninę, mokomąją, organizacinę veiklą ir jos rezultatus.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
-
-
-
-
-12. Regioninė dainų šventė – dainų šventė, organizuojama savivaldybės ar etnografinio regiono mastu; sudedamoji rengimosi dainų šventėms dalis.
-Straipsnio dalies pakeitimai:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
-
-
-
-
-13. Rengimasis dainų šventėms – nenutrūkstanti kultūros ir švietimo institucijų, mėgėjų ir profesionalių meno kolektyvų, jų vadovų, švenčių ir jų repertuaro kūrėjų, organizatorių veikla, garantuojanti dainų švenčių tradicijos tęstinumą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
-
-
-
-
-14. Šokių diena – Lietuvos dainų šventės dalis, kurios meninę programą sudaro įvairių amžiaus grupių liaudies šokių kolektyvų, ansamblių jungtiniai pasirodymai: atliekami autorių sukurti choreografiniai kūriniai, stilizuoti liaudies šokiai, rateliai ar žaidimai, autoriniai ar aranžuoti instrumentiniai kūriniai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Lietuvos Respublikos kultūros centrų įstatyme ir Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatyme.
  
 
 
@@ -155,10 +108,28 @@ Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA
 
 
 
-3 straipsnis. Dainų švenčių tradicijos išsaugojimo teisiniai pagrindai
+3 straipsnis. Dainų švenčių tradicijos išsaugojimo tikslas ir priemonės
 
 
-Dainų švenčių tradicijos išsaugojimą ir tęstinumo palaikymą reglamentuoja Lietuvos Respublikos Konstitucija, šis įstatymas, Lietuvos kultūros centrų įstatymas, UNESCO nematerialaus paveldo apsaugos konvencija, kiti įstatymai ir teisės aktai.
+1. Dainų švenčių tradicijos išsaugojimo tikslas – puoselėti etninės ir nacionalinės kultūros tradicijas, stiprinti kultūrinį, tautinį savitumą ir tapatumą, visuomenės kūrybingumą, bendrumą, vienybę, susitelkimą teikiant apsaugą nematerialiam kultūros paveldui ir stiprinant dainų švenčių gyvąją tradiciją, skatinant šių tradicijų bei kultūros atsinaujinimo ir inovacijų dermę, kuriamą valstybės paramos, bendrų kultūros politikos, mokslinių tyrimų ir viešų diskusijų formomis.
+
+
+
+
+2. Dainų švenčių tradicijos išsaugojimo priemonės yra:
+
+
+1) valstybės ir savivaldybių institucijų ir įstaigų tarpinstitucinis bendradarbiavimas puoselėjant dainų švenčių tradiciją;
+
+
+
+
+2) aktyvaus visuomenės dalyvavimo ir įsitraukimo, siekiant palaikyti dainų švenčių tradicijos gyvybingumą, skatinimas;
+
+
+
+
+3) dainų švenčių tradicijos sklaida Lietuvos Respublikoje ir pasaulyje.
  
 
 
@@ -166,31 +137,103 @@ Dainų švenčių tradicijos išsaugojimą ir tęstinumo palaikymą reglamentuoj
 
 
 
-4 straipsnis. Dainų švenčių tradicijos valstybinės apsaugos uždaviniai
 
 
-Dainų švenčių tradicijos valstybinės apsaugos uždaviniai yra:
+4 straipsnis. Dainų šventės ir jų sandara
 
 
-1) išsaugoti, išplėtoti ir perduoti ateities kartoms dainų švenčių tradiciją;
+1. Dainų šventės yra šios:
 
 
-
-
-2) sukurti teisines, ekonomines, organizacines prielaidas nenutrūkstamam, periodiškam dainų švenčių vyksmui, rengimuisi dainų šventėms užtikrinti;
+1) Lietuvos dainų šventė;
 
 
 
 
-3) įtvirtinti dainų švenčių tradicijos išsaugojimo, vadovavimo, organizavimo institucijų sistemą ir tvarką;
+2) Lietuvos moksleivių dainų šventė;
 
 
 
 
-4) įtvirtinti dainų švenčių tradicijos sąsajas su vaikų ir jaunimo meniniu ugdymu, tautiniu pilietiniu auklėjimu, kultūringos, kūrybingos, išprususios visuomenės kūrimu, negatyvių visuomenės reiškinių prevencija.
+3) „Gaudeamus“ šventė;
+
+
+
+
+4) regioninės dainų šventės.
+
+
+
+
+
+
+2. Lietuvos dainų šventes sudaro šie pagrindiniai renginiai: 
+
+
+1) Ansamblių vakaras, kurio meninę programą sudaro įvairių amžiaus grupių dainų ir šokių ansamblių, liaudies instrumentų orkestrų, liaudiškų kapelų jungtiniai pasirodymai: atliekami autorių sukurti vokaliniai, instrumentiniai, choreografiniai kūriniai, harmonizuotos, aranžuotos liaudies dainos, instrumentiniai kūriniai, stilizuoti liaudies šokiai, rateliai, žaidimai;
+
+
+
+
+2) Dainų diena, kurios meninę programą sudaro įvairių amžiaus grupių chorų, pučiamųjų ir kitų orkestrų jungtiniai pasirodymai: atliekami autorių sukurti vokaliniai, instrumentiniai kūriniai, harmonizuotos, aranžuotos ar kitaip pritaikytos, išplėtotos liaudies dainos;
+
+
+
+
+3) Folkloro diena, kurioje dalyvauja Lietuvos etnografinių regionų, pasaulio lietuvių bendruomenių miestų ir kaimų įvairaus amžiaus narių folkloro ansambliai, dainininkai, muzikantai, pasakotojai, tautodailės menininkai ir amatininkai, kulinarinio paveldo bei kitų etninės kultūros sričių puoselėtojai;
+
+
+
+
+4) Tautodailės paroda – tautodailininkų ir amatininkų darbų paroda, sudaryta iš savivaldybių ir regioninių parodų atrenkant darbus etapais pagal tradicijų ir meniškumo kriterijus;
+
+
+
+
+5) Šokių diena, kurios meninę programą sudaro įvairių amžiaus grupių liaudies šokių kolektyvų, ansamblių jungtiniai pasirodymai: atliekami autorių sukurti choreografiniai kūriniai, stilizuoti liaudies šokiai, rateliai ar žaidimai, autoriniai ar aranžuoti instrumentiniai kūriniai;
+
+
+
+
+6) Pučiamųjų instrumentų orkestrų diena, kurios meninę programą sudaro įvairių amžiaus grupių pučiamųjų orkestrų jungtiniai pasirodymai viešosiose vietose.
+
+
+
+
+
+
+3. Lietuvos moksleivių dainų šventes sudaro šie pagrindiniai renginiai:
+
+
+1) Ansamblių vakaras;
+
+
+
+
+2) Dainų diena;
+
+
+
+
+3) Šokių diena;
+
+
+
+
+4) Vaikų meninės raiškos paroda – vizualiųjų menų darbų ekspozicija, sudaryta atrenkant Lietuvos mokinių kūrybinių darbų konkurso darbus.
+
+
+
+
+
+
+4. „Gaudeamus“ šventę, vykstančią Lietuvos Respublikoje, Tarybos sprendimu gali sudaryti vienas ar keli šio straipsnio 2 ir 3 dalyse numatyti pagrindiniai dainų švenčių renginiai. 
+
+
+
+
+5. Lietuvos dainų šventes, Lietuvos moksleivių dainų šventes ir „Gaudeamus“ šventes, vykstančias Lietuvos Respublikoje, Taryba savo sprendimu gali papildyti ir kitais meno renginiais (teatro diena, kanklių koncertu, vokalinių ansamblių koncertu ir kt.) ir kitomis meninėmis programomis. Dėl regioninių dainų švenčių sandaros sprendžia jas organizuojančių savivaldybių institucijos.
  
-
-
 
 
 
@@ -200,93 +243,52 @@ Dainų švenčių tradicijos valstybinės apsaugos uždaviniai yra:
 
 
 II SKYRIUS
-DAINŲ ŠVENČIŲ TRADICIJOS IŠSAUGOJIMO, VADOVAVIMO, ORGANIZAVIMO INSTITUCIJŲ SISTEMA
+DAINŲ ŠVENČIŲ TRADICIJOS IŠSAUGOJIMĄ UŽTIKRINANTYS SUBJEKTAI IR JŲ FUNKCIJOS
  
 
 
-5 straipsnis. Dainų švenčių taryba
+5 straipsnis. Dainų švenčių tradicijos išsaugojimą užtikrinantys subjektai
 
 
-1. Dainų švenčių tradicijos tęstinumo programos vykdymui prižiūrėti, Lietuvos dainų švenčių parengimui ir surengimui užtikrinti bei koordinuoti Vyriausybė sudaro Dainų švenčių tarybą (toliau – Taryba).
+Dainų švenčių tradicijos išsaugojimą užtikrina šie subjektai: 
 
 
+1) Lietuvos Respublikos kultūros ministerija ir Lietuvos nacionalinis kultūros centras;
 
 
-2. Taryba veikia pagal nuostatus; šiuos nuostatus ir Tarybos narių sudėtį bei pirmininką tvirtina Vyriausybė.
 
 
+2) Lietuvos Respublikos švietimo, mokslo ir sporto ministerija ir Nacionalinė Mikalojaus Konstantino Čiurlionio menų mokykla; 
 
 
-3. Tarybos techninę ir organizacinę veiklą užtikrina Kultūros ministerija bei Švietimo ir mokslo ministerija.
 
 
+3) Lietuvos Respublikos vidaus reikalų ministerija;
 
 
-4. Taryba svarsto ir teikia siūlymus Vyriausybei ir savivaldybėms: 
 
 
-1) dėl dainų švenčių tradicijos tęstinumo programos įgyvendinimo;
+4) Lietuvos Respublikos sveikatos apsaugos ministerija; 
 
 
 
 
-2) dėl Lietuvos dainų šventės ir Lietuvos moksleivių dainų šventės finansavimo;
+5) Lietuvos Respublikos užsienio reikalų ministerija;
 
 
 
 
-3) dėl kitų tarpžinybinių organizacinių, finansinių, ūkinių rengimosi dainų šventėms ir eilinės dainų šventės surengimo klausimų.
- 
+6) Lietuvos nacionalinis radijas ir televizija;
 
 
 
 
+7) Lietuvos aukštosios mokyklos;
 
 
 
 
-6 straipsnis. Dainų švenčių nacionalinė komisija
-
-
-1. Dainų švenčių tradicijos tęstinumui užtikrinti, kūrybinio meninio proceso priežiūrai Kultūros ministerija bei Švietimo ir mokslo ministerija sudaro Dainų švenčių nacionalinę komisiją (toliau – Komisija).
-
-
-
-
-2. Komisijos personalinę sudėtį ketveriems metams ir Komisijos nuostatus tvirtina kultūros ministras bei švietimo ir mokslo ministras.
-
-
-
-
-3. Komisijos pirmininką renka Komisija iš Komisijos narių.
-
-
-
-
-4. Komisijos techninę ir organizacinę veiklą užtikrina Lietuvos liaudies kultūros centras.
-
-
-
-
-5. Komisija:
-
-
-1) analizuoja ir vertina Lietuvos dainų švenčių raidos tendencijas, jų įtaką visuomenės, ypač vaikų, mokinių, jaunimo, meniniam ugdymui;
-
-
-
-
-2) teikia išvadas ir siūlymus Lietuvos dainų šventės ir Lietuvos moksleivių dainų šventės rengėjams, kūrybinių grupių vadovams, kūrėjams dėl dainų švenčių tradicijos išsaugojimo ir meninių programų, repertuaro atitikties UNESCO kriterijams;
-
-
-
-
-3) nagrinėja galimas rengimosi dainų šventėms problemas ir rekomenduoja Kultūros ministerijai bei Švietimo ir mokslo ministerijai, savivaldybėms, kaip išvengti neigiamos įtakos jų vyksmui;
-
-
-
-
-4) aptaria ir vertina Dainų šventės koncepciją, menines programas, jų idėjų bei sprendimų pagrįstumą, meninę vertę.
+8) savivaldybių institucijos ir įstaigos.
  
 
 
@@ -296,83 +298,109 @@ DAINŲ ŠVENČIŲ TRADICIJOS IŠSAUGOJIMO, VADOVAVIMO, ORGANIZAVIMO INSTITUCIJŲ
 
 
 
-7 straipsnis. Dainų švenčių organizavimas ir metodinis vadovavimas joms
+6 straipsnis. Kultūros ministerijos ir Lietuvos nacionalinio kultūros centro funkcijos 
 
 
-1. Dainų šventes organizuoja ir metodiškai rengimuisi vadovauja Lietuvos liaudies kultūros centras ir Švietimo ir mokslo ministerijos įgaliota įstaiga.
+1. Kultūros ministerija: 
 
 
-
-
-2. Šios įstaigos:
-
-
-1) atsako už dainų švenčių proceso nenutrūkstamumą, plėtrą, kokybinius rodiklius;
+1) formuoja dainų švenčių tradicijos išsaugojimo politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
 
 
 
-2) rengia respublikinius konkursus, festivalius, šventes, kitas kultūros akcijas;
+2) kontroliuoja Lietuvos dainų švenčių rengimo ir įgyvendinimo eigą;
 
 
 
 
-3) užtikrina meno kolektyvų, vadovų konsultavimo sistemos funkcionavimą;
+3) kartu su Švietimo, mokslo ir sporto ministerija rengia ir tvirtina mėgėjų meno kolektyvų skatinimo tvarkos aprašą;
 
 
 
 
-4) analizuoja ir tyrinėja folkloro, tautodailės, mėgėjų meno įvairių meno šakų ir žanrų gyvybingumą, žmogiškųjų išteklių būklę;
+4) kartu su Švietimo, mokslo ir sporto ministerija rengia ir tvirtina mėgėjų meno kolektyvų aprūpinimo tautiniais, archeologiniais, istoriniais kostiumais ir muzikos instrumentais ar jų įsigijimo ir gamybos išlaidų dalinio finansavimo tvarkos aprašą;
 
 
 
 
-5) rengia seminarus, kursus, mokymus meno kolektyvų vadovams;
+5) atlieka kitas šiame įstatyme nustatytas funkcijas.
 
 
 
 
-6) nustato kolektyvų meninį pajėgumą;
+
+
+2. Lietuvos nacionalinis kultūros centras:
+
+
+1) įgyvendina dainų švenčių tradicijos išsaugojimo politiką;
 
 
 
 
-7) padeda Kultūros ministerijai bei Švietimo ir mokslo ministerijai parengti Dainų švenčių tradicijos tęstinumo programą;
+2) puoselėja dainų švenčių tradiciją, skatina jos plėtrą, pažinimą ir vykdo sklaidą;
 
 
 
 
-8) organizuoja šventes;
+3) organizuoja nenutrūkstamą rengimosi dainų šventėms, išskyrus Lietuvos moksleivių dainų šventę, procesą ir metodiškai jam vadovauja;
 
 
 
 
-9) organizuoja dainų švenčių meninių programų kūrėjų, kūrybinių grupių vadovų, dirigentų, baletmeisterių parinkimą;
+4) suderinęs su Kultūros ministerija, organizuoja ir koordinuoja Lietuvos dainų švenčių koncepcijų, meninių programų kūrimą ir kontroliuoja jų įgyvendinimą, suderinęs su Švietimo, mokslo ir sporto ministerija, – „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, koncepcijų, meninių programų kūrimą ir kontroliuoja jų įgyvendinimą;
 
 
 
 
-10) koordinuoja meninių programų kūrimą ir jų įgyvendinimą;
+5) organizuoja ir koordinuoja Lietuvos dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, techninį ir materialinį aprūpinimą;
 
 
 
 
-11) bendradarbiauja su Komisija, teikia jai vertinti švenčių koncepciją ir menines programas;
+6) konsultuoja savivaldybių institucijas ir įstaigas regioninių dainų švenčių rengimo klausimais ir kartu su savivaldybių institucijomis ir įstaigomis organizuoja regionines dainų šventes; 
 
 
 
 
-12) bendradarbiauja su savivaldybių kultūros įstaigomis, nevyriausybinėmis kultūros organizacijomis;
+7) rengia ir teikia Komisijai tvirtinti praėjusių Lietuvos dainų švenčių ir „Gaudeamus“ švenčių, vykusių Lietuvos Respublikoje, organizavimo ataskaitas; 
 
 
 
 
-13) rūpinasi autorinio repertuaro, metodinės literatūros įsigijimu ir leidyba;
+8) teikia Tarybai tvirtinti Lietuvos dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, koncepcijas, meninių programų koncepcijas, praėjusių Lietuvos dainų švenčių ir „Gaudeamus“ švenčių, vykusių Lietuvos Respublikoje, koncepcijų ir meninių programų įgyvendinimo ataskaitas;
 
 
 
 
-14) rengia dainų švenčių sąmatas ir norminius aktus.
+9) organizuoja mėgėjų meno kolektyvų vadovų kvalifikacijos kėlimą ir kategorijų mėgėjų meno kolektyvams, išskyrus švietimo įstaigų mėgėjų meno kolektyvus, suteikimą; 
+
+
+
+
+10) kartu su Nacionaline Mikalojaus Konstantino Čiurlionio menų mokykla užtikrina kultūros ministro ir švietimo, mokslo ir sporto ministro patvirtinto mėgėjų meno kolektyvų skatinimo tvarkos aprašo įgyvendinimą; 
+
+
+
+
+11) kartu su Nacionaline Mikalojaus Konstantino Čiurlionio menų mokykla užtikrina kultūros ministro ir švietimo, mokslo ir sporto ministro patvirtinto mėgėjų meno kolektyvų aprūpinimo tautiniais, archeologiniais, istoriniais kostiumais ir muzikos instrumentais ar jų įsigijimo ir gamybos išlaidų dalinio finansavimo tvarkos aprašo įgyvendinimą;
+
+
+
+
+12) ne vėliau kaip iki kalendorinių metų, einančių prieš kalendorinius metus, kuriais turi vykti Lietuvos dainų šventė, rugsėjo 30 dienos pateikia savivaldybių, kuriose vyks Lietuvos dainų šventės renginiai, institucijoms duomenis apie šios dainų šventės dalyvių apgyvendinimo poreikį;
+
+
+
+
+13) techniškai aptarnauja Komisijos ir Tarybos posėdžius;
+
+
+
+
+14) atlieka kitas šiame įstatyme nustatytas funkcijas.
+ 
  
 
 
@@ -382,138 +410,162 @@ DAINŲ ŠVENČIŲ TRADICIJOS IŠSAUGOJIMO, VADOVAVIMO, ORGANIZAVIMO INSTITUCIJŲ
 
 
 
-8 straipsnis. Valstybės institucijų kompetencija
+7 straipsnis. Švietimo, mokslo ir sporto ministerijos ir Nacionalinės Mikalojaus Konstantino Čiurlionio menų mokyklos funkcijos
 
 
-1. Kultūros ministerija:
+1. Švietimo, mokslo ir sporto ministerija:
 
 
-1) kartu su Švietimo ir mokslo ministerija rengia Dainų švenčių tradicijos tęstinumo programą;
+1) finansuoja ir kontroliuoja Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, rengimo ir įgyvendinimo procesus, jų eigą;
 
 
 
 
-2) užtikrina Lietuvos dainų šventės rengimo procesą ir kontroliuoja jo eigą;
+2) derina su Nacionaline Mikalojaus Konstantino Čiurlionio menų mokykla Lietuvos moksleivių dainų švenčių koncepcijų, meninių programų kūrimą ir kontroliuoja jų įgyvendinimą;
 
 
 
 
-3) svarsto ir tvirtina sąmatas Lietuvos dainų šventei parengti ir surengti, rengimuisi dainų šventėms palaikyti;
+3) atlieka kitas šiame įstatyme nustatytas funkcijas.
 
 
 
 
-4) skiria Lietuvos dainų šventės direktorių;
 
 
+2. Nacionalinė Mikalojaus Konstantino Čiurlionio menų mokykla:
 
 
-5) tobulina darbo užmokesčio meno kolektyvų vadovams sistemą.
+1) organizuoja nenutrūkstamą pasirengimo Lietuvos moksleivių dainų šventėms procesą ir metodiškai jam vadovauja;
 
 
 
 
+2) suderinusi su Švietimo, mokslo ir sporto ministerija, organizuoja ir koordinuoja Lietuvos moksleivių dainų švenčių koncepcijų, meninių programų kūrimą ir kontroliuoja jų įgyvendinimą;
 
 
-2. Švietimo ir mokslo ministerija:
 
 
-1) kartu su Kultūros ministerija rengia Dainų švenčių tradicijos tęstinumo programą;
+3) organizuoja ir koordinuoja Lietuvos moksleivių dainų švenčių techninį ir materialinį aprūpinimą;
 
 
 
 
-2) užtikrina nuolatinį rengimąsi Lietuvos moksleivių dainų šventei ir kontroliuoja jo eigą;
+4) rengia ir Komisijai teikia tvirtinti praėjusių Lietuvos moksleivių dainų švenčių organizavimo ataskaitas;
 
 
 
 
-3) svarsto ir tvirtina sąmatas Lietuvos moksleivių dainų šventei parengti ir surengti, rengimuisi dainų šventėms palaikyti;
+5) teikia Tarybai tvirtinti Lietuvos moksleivių dainų švenčių koncepcijas ir meninių programų koncepcijas, praėjusių Lietuvos moksleivių dainų švenčių koncepcijų ir meninių programų įgyvendinimo ataskaitas; 
 
 
 
 
-4) užtikrina pagal savo kompetenciją Lietuvos dainų šventės rengimo procesą;
+6) organizuoja švietimo įstaigų mėgėjų meno kolektyvų vadovų kvalifikacijos kėlimą ir kategorijų švietimo įstaigų mėgėjų meno kolektyvams suteikimą;
 
 
 
 
-5) skiria Lietuvos moksleivių dainų šventės direktorių ir nustato jo funkcijas bei atsakomybę;
+7) likus metams iki Lietuvos moksleivių dainų šventės, bet ne vėliau kaip iki kalendorinių metų, einančių prieš kalendorinius metus, kuriais turi vykti Lietuvos moksleivių dainų šventė, rugsėjo 30 dienos pateikia savivaldybių, kuriose vyks Lietuvos moksleivių dainų šventės renginiai, institucijoms duomenis apie šios dainų šventės dalyvių apgyvendinimo poreikį;
 
 
 
 
-6) rengia darbo užmokesčio meno kolektyvų vadovams sistemą.
-
-
-
-
-
-
-3. Vidaus reikalų ministerija užtikrina viešąją tvarką ir saugumą dainų šventės metu jos renginių, repeticijų, dalyvių apgyvendinimo vietose.
-
-
-
-
-4. Sveikatos apsaugos ministerija užtikrina medicinos pagalbą dainų šventės metu jos dalyviams ir žiūrovams.
-
-
-
-
-5. Lietuvos nacionalinis radijas ir televizija:
-
-
-1) įvairiomis formomis ir priemonėmis savo laidose propaguoja kultūrinę, socialinę ir (ar) šviečiamąją veiklą, susijusią su dainų švenčių tradicijos tęstinumo užtikrinimu, atspindi rengimąsi dainų šventėms;
-
-
-
-
-2) garantuoja dainų šventės renginių transliacijas, vaizdo ir garso įrašų išsaugojimą;
-
-
-
-
-3) suteikia nemokamą informaciją apie dainų šventės renginius visuose Lietuvos nacionalinio radijo ir televizijos transliuojamuose kanaluose.
-
-
-
-
-
-
-6. Savivaldybių institucijos:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+8) atlieka kitas šiame įstatyme nustatytas funkcijas.
  
 
 
-1) rūpinasi meno kolektyvų steigimu, jų veiklos gerinimu, vaikų, jaunimo meniniu ugdymu;
 
 
 
 
-2) sudaro tinkamas darbui sąlygas meno kolektyvų vadovams, specialistams, rūpinasi užmokesčio už darbą sistemos įgyvendinimu;
+
+
+8 straipsnis. Ministerijų ir kitų valstybės institucijų funkcijos 
+
+
+1. Užsienio reikalų ministerija kartu su Lietuvos Respublikos diplomatinėmis atstovybėmis ir konsulinėmis įstaigomis bendradarbiauja vykdydama informacijos apie dainų švenčių tradiciją pasaulio lietuvių bendruomenėse sklaidą ir skatindama pasaulio lietuvius ir jų meno kolektyvus dalyvauti dainų švenčių renginiuose.
 
 
 
 
-3) sudaro sąlygas meno kolektyvų vadovams, kitiems specialistams kelti kvalifikaciją;
+2. Sveikatos apsaugos ministerija dainų švenčių metu užtikrina medicinos pagalbą jų dalyviams ir žiūrovams, dainų švenčių renginių repeticijų metu – jų dalyviams.
 
 
 
 
-4) aprūpina meno kolektyvus tautiniais, koncertiniais kostiumais, muzikos instrumentais;
+3. Policija užtikrina viešąją tvarką, dainų švenčių dalyvių, žiūrovų ir eismo saugumą vykstant dainų švenčių renginiams ir repeticijoms, rengiamoms viešose vietose.
+ 
 
 
 
 
-5) skatina ir remia meno kolektyvų koncertinę veiklą, dalyvavimą respublikiniuose ir regioniniuose renginiuose – konkursuose, festivaliuose, šventėse;
+
+
+9 straipsnis. Lietuvos nacionalinio radijo ir televizijos funkcijos
+
+
+Lietuvos nacionalinis radijas ir televizija iš jam skirtų valstybės biudžeto asignavimų:
+
+
+1) įvairiomis formomis ir priemonėmis propaguoja kultūrinę, socialinę ir (ar) šviečiamąją veiklą, susijusią su dainų švenčių tradicijos tęstinumo užtikrinimu, informuoja visuomenę apie rengimąsi dainų šventėms;
 
 
 
 
-6) rengia regionines dainų šventes.
-Straipsnio punkto pakeitimai:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+2) viešina Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, renginius Lietuvos nacionalinio radijo ir televizijos programose, svetainėje ir tinklalaidėse.
+ 
+
+
+
+
+
+
+
+
+10 straipsnis. Lietuvos aukštųjų mokyklų funkcijos
+
+
+Lietuvos aukštosios mokyklos sudaro sąlygas dainų švenčių tradiciją palaikančių meno kolektyvų veiklai, išsaugodamos ir puoselėdamos esamus, formuodamos naujus dainų švenčių žanrams atstovaujančius meno kolektyvus, aprūpindamos mėgėjų meno kolektyvus tautiniais, archeologiniais, istoriniais kostiumais ir muzikos instrumentais.
+ 
+
+
+
+
+
+
+11 straipsnis. Savivaldybių institucijų funkcijos 
+
+
+1. Savivaldybių institucijos:
+
+
+1) priima sprendimus dėl regioninių dainų švenčių ir kitų dainų švenčių tradiciją palaikančių renginių organizavimo;
+
+
+
+
+2) priima sprendimus dėl savivaldybių teritorijose veikiančių dainų švenčių tradiciją palaikančių mėgėjų meno kolektyvų, dalyvaujančių tarptautiniuose, nacionaliniuose ir regioniniuose renginiuose, palaikančiuose dainų švenčių tradiciją, finansavimo ar jų veiklos skatinimo kitais būdais;
+
+
+
+
+3) priima sprendimus dėl savivaldybių teritorijose veikiančių dainų švenčių tradiciją palaikančių mėgėjų meno kolektyvų, dalyvaujančių tarptautiniuose, nacionaliniuose ir regioniniuose renginiuose, palaikančiuose dainų švenčių tradiciją, išsaugojimo, veiklos ir puoselėjimo, naujų, dainų švenčių žanrams atstovaujančių, mėgėjų meno kolektyvų formavimo, mėgėjų meno kolektyvų aprūpinimo tautiniais, archeologiniais, istoriniais kostiumais ir muzikos instrumentais.
+
+
+
+
+
+
+2. Savivaldybių, kuriose vyksta dainų švenčių renginiai, institucijos:
+
+
+1) padeda dainų švenčių techninį ir materialinį aprūpinimą organizuojančioms ir koordinuojančioms institucijoms organizuoti Lietuvos dainų šventės ir Lietuvos moksleivių dainų šventės dalyvių apgyvendinimą, iki kalendorinių metų, einančių prieš kalendorinius metus, kuriais turi vykti dainų šventė, spalio 31 dienos teikia preliminarią informaciją apie dalyvių apgyvendinimo galimybes; 
+
+
+
+
+2) sprendžia dainų švenčių dalyvių pavėžėjimo viešuoju miesto transportu klausimus.
  
 
 
@@ -526,83 +578,62 @@ Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA
 
 
 III SKYRIUS
-DAINŲ ŠVENČIŲ ORGANIZAVIMO PRINCIPAI
+KOMISIJA, TARYBA IR JŲ FUNKCIJOS
  
 
 
-9 straipsnis. Dainų švenčių tradicijos tęstinumo programa
+12 straipsnis. Komisija
 
 
-1. Siekiant užtikrinti dainų švenčių tradicijos išsaugojimą, tęstinumą ir plėtrą, garantuoti intensyvią, tolygią, nepertraukiamą institucijų, kolektyvų, asmenų veiklą, tinkamai pasirengti eilinei dainų šventei, koordinuoti įvairių žinybų veiksmus, rengiama Dainų švenčių tradicijos tęstinumo programa.
-
-
-
-
-2. Dainų švenčių tradicijos tęstinumo programa rengiama iškart po kiekvienos Lietuvos dainų šventės. Ketverių metų laikotarpiui ją tvirtina Vyriausybė.
- 
+1. Tarpinstituciniam bendradarbiavimui organizuojant Lietuvos dainų šventes, Lietuvos moksleivių dainų šventes ir „Gaudeamus“ šventes, vykstančias Lietuvos Respublikoje, bei įgyvendinant kultūros ministro ir švietimo, mokslo ir sporto ministro tvirtinamą dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planą (toliau – dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planas) koordinuoti 4 metų laikotarpiui sudaroma visuomeniniais pagrindais veikianti Komisija. Komisijos nuostatus ir Komisijos personalinę sudėtį tvirtina kultūros ministras. Komisijos pirmininkas yra kultūros ministras, o Komisijos pirmininko pavaduotojas – švietimo, mokslo ir sporto ministras.
 
 
 
 
-
-
-10 straipsnis. Rengimasis dainų šventėms ir jų periodiškumas
-
-
-1. Lietuvos dainų šventės rengiamos kas ketveri metai.
+2. Komisiją sudaro 16 narių: kultūros ministras, švietimo, mokslo ir sporto ministras ir 14 narių, kuriuos po vieną deleguoja: Lietuvos Respublikos Prezidento kanceliarija, Lietuvos Respublikos Vyriausybės kanceliarija, Lietuvos Respublikos Seimo kanceliarija, Sveikatos apsaugos ministerija, Lietuvos Respublikos finansų ministerija, Užsienio reikalų ministerija, Vidaus reikalų ministerija, Lietuvos savivaldybių asociacija, Lietuvos nacionalinis kultūros centras, Taryba, Nacionalinė Mikalojaus Konstantino Čiurlionio menų mokykla, Vilniaus miesto savivaldybė, Kauno miesto savivaldybė, Lietuvos nacionalinis radijas ir televizija.
 
 
 
 
-2. Lietuvos moksleivių dainų šventės organizuojamos taip pat kas ketveri metai – tarp Lietuvos dainų švenčių (po Lietuvos dainų šventės praėjus dvejiems metams).
+3. Kultūros ministras naują Komisijos personalinę sudėtį patvirtina ne vėliau kaip prieš tris mėnesius iki Komisijos kadencijos pabaigos. Iki Komisijos kadencijos pabaigos nepatvirtinus naujos Komisijos personalinės sudėties, Komisijos nariai savo pareigas eina tol, kol pavirtinama nauja Komisijos personalinė sudėtis.
 
 
 
 
-3. Svarbių Lietuvos valstybės istorijos datų ar įvykių proga gali būti rengiamos neeilinės proginės dainų šventės.
+4. Tas pats asmuo, išskyrus kultūros ministrą ir švietimo, mokslo ir sporto ministrą, Komisijos nariu gali būti ne daugiau kaip 2 kadencijas iš eilės. Asmuo, ėjęs Komisijos nario pareigas 2 kadencijas iš eilės, gali būti deleguojamas į Komisijos narius tik praėjus 4 metams nuo jo antros kadencijos pabaigos.
 
 
 
 
-4. Tarp dainų švenčių vyksta nuolatinis rengimasis joms:
+5. Komisija:
 
 
-1) meno kolektyvų koncertinė, šviečiamoji, įgūdžių tobulinimo veikla;
-
-
-
-
-2) repertuaro kūrimas, leidyba, platinimas, mokymas ir mokymasis;
+1) derina dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planą ir vykdo jo priemonių įgyvendinimo stebėseną;
 
 
 
 
-3) kolektyvų vadovų kvalifikacijos kėlimo veikla – kursai, seminarai, laboratorijos ir kita;
+2) koordinuoja tarpinstitucinį bendradarbiavimą organizuojant Lietuvos dainų šventes, Lietuvos moksleivių dainų šventes ir „Gaudeamus“ šventes, vykstančias Lietuvos Respublikoje, ir vykdo šių dainų švenčių stebėseną;
 
 
 
 
-4) meno kolektyvų konkursai, apžiūros, festivaliai, šventės, stovyklos;
+3) pasibaigus Lietuvos dainų šventei, Lietuvos moksleivių dainų šventei, „Gaudeamus“ šventei, vykusiai Lietuvos Respublikoje, vertina jų organizavimo patirtį, rezultatus, kokybinius ir kiekybinius įgyvendinimo rodiklius, tvirtina Lietuvos nacionalinio kultūros centro ir Nacionalinės Mikalojaus Konstantino Čiurlionio menų mokyklos pateiktas dainų švenčių organizavimo ataskaitas, teikia išvadas ir pasiūlymus dainų švenčių tradicijos išsaugojimą užtikrinantiems subjektams;
 
 
 
 
-5) regioninės dainų šventės, kiti dainų švenčių tradicijai artimi renginiai;
+4) bendradarbiauja su Taryba dainų švenčių tradicijos išsaugojimo, Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, pasirengimo ir organizavimo klausimais;
 
 
 
 
-6) apsirūpinimas tautiniais drabužiais, muzikos instrumentais, atributika;
+5) priima sprendimus dėl Lietuvos dainų šventės, Lietuvos moksleivių dainų šventės, „Gaudeamus“ šventės, vykstančios Lietuvos Respublikoje, atšaukimo ar nukėlimo dėl karo, nepaprastosios padėties, ekstremaliųjų situacijų ar kitų aplinkybių, dėl kurių būtų neįmanoma surengti šių dainų švenčių;
 
 
 
 
-7) kūrybinių konkursų organizavimas, dainų švenčių programų kūrimas ir jų įgyvendinimo darbai;
-
-
-
-
-8) kiti Dainų švenčių tradicijos tęstinumo programoje numatyti veiksmai.
+6) teikia pasiūlymus dainų švenčių tradicijos išsaugojimą užtikrinantiems subjektams dėl Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių finansavimo, kitų tarpinstitucinių, organizacinių, finansinių, ūkinių rengimosi šioms dainų šventėms klausimų.
  
 
 
@@ -612,58 +643,71 @@ DAINŲ ŠVENČIŲ ORGANIZAVIMO PRINCIPAI
 
 
 
-11 straipsnis. Dainų švenčių dalyviai
+13 straipsnis. Taryba
 
 
-1. Dainų švenčių programose dalyvauja vaikų, jaunimo ir suaugusiųjų įvairių meno šakų ir žanrų mėgėjų ir profesionalų kolektyvai: mišrūs, vyrų ir moterų chorai, vokaliniai ansambliai, liaudies šokio grupės ir ansambliai, folkloro ansambliai, tradicinės instrumentinės muzikos grupės, dainų ir šokių ansambliai, pučiamųjų, simfoniniai, liaudiškų instrumentų orkestrai, kapelos, ansambliai, grupės, mėgėjų teatrai, liaudies meno studijos, taip pat pavieniai menininkai: dirigentai, liaudies meno meistrai, dainininkai, muzikantai ir kiti.
+1. Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, kūrybiniam meniniam procesui užtikrinti ir prižiūrėti 4 metų laikotarpiui sudaroma visuomeniniais pagrindais veikianti Taryba. Tarybos nuostatus ir Tarybos personalinę sudėtį tvirtina ir Tarybos pirmininką skiria kultūros ministras. 
 
 
 
 
-2. Dainų švenčių dalyviai renkami atsižvelgiant į meninių programų uždavinius, apžiūrų, konkursų nuostatus ir rezultatus.
+2. Tarybą sudaro 16 narių, iš kurių po vieną narį deleguoja: Kultūros ministerija, Švietimo, mokslo ir sporto ministerija, Lietuvos nacionalinis kultūros centras, Nacionalinė Mikalojaus Konstantino Čiurlionio menų mokykla, Lietuvos nacionalinės UNESCO komisijos sekretoriatas, Lietuvos nacionalinis radijas ir televizija, Lietuvos kompozitorių sąjunga, Lietuvos rašytojų sąjunga. Lietuvos nacionalinis kultūros centras, suderinęs su Nacionaline Mikalojaus Konstantino Čiurlionio menų mokykla, į Tarybą deleguoja 8 dainų švenčių tradiciją palaikančių meno šakų ir žanrų specialistus: po 2 chorų, šokių kolektyvų, folkloro kolektyvų atstovus (vieną moksleivių, kitą suaugusiųjų kolektyvų atstovą) ir po vieną pučiamųjų instrumentų orkestrų, liaudiškos muzikos atstovą.
+
+
+
+
+3. Kultūros ministras naują Tarybos narių personalinę sudėtį patvirtina ir Tarybos pirmininką paskiria ne vėliau kaip prieš 3 mėnesius iki Tarybos kadencijos pabaigos. Iki Tarybos kadencijos pabaigos nepatvirtinus naujos Tarybos personalinės sudėties, Tarybos pirmininkas ir nariai savo pareigas eina tol, kol patvirtinama nauja Tarybos personalinė sudėtis.
+
+
+
+
+4. Tas pats asmuo Tarybos nariu gali būti ne daugiau kaip 2 kadencijas iš eilės. Asmuo, ėjęs Tarybos nario pareigas 2 kadencijas iš eilės, gali būti deleguojamas į Tarybos narius tik praėjus 4 metams nuo jo antros kadencijos pabaigos.
+
+
+
+
+5. Taryba:
+
+
+1) analizuoja, vertina ir tvirtina Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, koncepcijas;
+
+
+
+
+2) analizuoja, vertina ir tvirtina Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, meninių programų koncepcijas, vertina jų idėjų bei sprendimų pagrįstumą, repertuaro atitiktį UNESCO pripažintiems dainų švenčių tradicijos kriterijams ir teikia dėl jų pasiūlymus Lietuvos nacionaliniam kultūros centrui ir Nacionalinei Mikalojaus Konstantino Čiurlionio menų mokyklai;
+
+
+
+
+3) sprendžia dėl Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, sandaros;
+
+
+
+
+4) analizuoja ir vertina dainų švenčių tradicijos būklę, raidos tendencijas, jų įtaką visuomenės, ypač vaikų ir jaunimo, kultūriniam, pilietiniam, tautinės savimonės ir meniniam ugdymui; 
+
+
+
+
+5) teikia rekomendacijas Kultūros ministerijai, Švietimo, mokslo ir sporto ministerijai ir Komisijai dėl dainų švenčių tradicijos išsaugojimo, pažinimo ir sklaidos;
+
+
+
+
+6) pasibaigus Lietuvos dainų šventei, Lietuvos moksleivių dainų šventei, „Gaudeamus“ šventei, vykusiai Lietuvos Respublikoje, vertina jų koncepcijų ir meninių programų įgyvendinimą ir tvirtina Lietuvos nacionalinio kultūros centro ir Nacionalinės Mikalojaus Konstantino Čiurlionio menų mokyklos pateiktas šių dainų švenčių koncepcijų ir meninių programų įgyvendinimo ataskaitas;
+
+
+
+
+7) bendradarbiauja su Komisija dainų švenčių tradicijos išsaugojimo, Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių, „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, pasirengimo ir organizavimo klausimais;
+
+
+
+
+8) teikia pasiūlymus Lietuvos nacionaliniam radijui ir televizijai dėl transliuotinų dainų švenčių renginių.
  
 
 
-
-
-
-
-12 straipsnis. Dainų švenčių programų vyksmo vietos
-
-
-1. Dainų švenčių vyksmo ir repeticijų vietų panaudojimo galimybes, jų būklės tinkamumą užtikrina Vyriausybė ir savivaldybė, kurios teritorijoje šventė vyksta.
-
-
-
-
-2. Lietuvos dainų šventės ir Lietuvos moksleivių dainų šventės Dainų dienos programos bei jungtinės repeticijos paprastai vyksta Vilniaus Vingio parko Dainų estradoje, Ansamblių vakaro – Kalnų parke.
-
-
-
-
-3. Kitų pagrindinių programų dalių repeticijų vietos, taip pat kitų sudedamųjų konkrečios dainų šventės programų, regioninių švenčių, kitų dainų švenčių tradicijai priskiriamų renginių veiksmo bei repeticijų vietos nustatomos atsižvelgiant į Dainų švenčių tradicijos tęstinumo programą, šventės renginių koncepciją, jos įgyvendinimo reikmes.
- 
-
-
-
-
-
-
-13 straipsnis. Dainų švenčių meninių programų kūrimas
-
-
-1. Dainų švenčių menines programas, jų koncepciją kuria Viešųjų pirkimų įstatymo nustatyta tvarka parinkti kūrėjai, kūrybinių grupių vadovai, jų sudarytos kūrybinės grupės.
-
-
-
-
-2. Reikalavimus meninių programų kūrėjams, kūrybinių grupių vadovams nustato Komisija.
-
-
-
-
-3. Dainų švenčių meninių programų kūrimo ir jų įgyvendinimo veiksmus koordinuoja šventę organizuojanti institucija.
- 
 
 
 
@@ -673,43 +717,201 @@ DAINŲ ŠVENČIŲ ORGANIZAVIMO PRINCIPAI
 
 
 IV SKYRIUS
+DAINŲ ŠVENČIŲ ORGANIZAVIMAS 
+ 
+
+
+14 straipsnis. Dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planas
+
+
+1. Dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planas rengiamas siekiant užtikrinti dainų švenčių tradicijos išsaugojimą, tęstinumą ir plėtrą, garantuoti intensyvią, tolygią, nenutrūkstamą institucijų, kolektyvų, fizinių asmenų veiklą, tinkamai pasirengti Lietuvos dainų šventėms, Lietuvos moksleivių dainų šventėms ir „Gaudeamus“ šventėms, vykstančioms Lietuvos Respublikoje, koordinuoti dainų švenčių tradicijos išsaugojimą užtikrinančių subjektų veiksmus.
+
+
+
+
+2. Lietuvos nacionalinis kultūros centras kartu su Nacionaline Mikalojaus Konstantino Čiurlionio menų mokykla ne vėliau kaip iki metų, kuriais vyko Lietuvos dainų šventė, gruodžio 31 dienos parengia, su Komisija suderina ir teikia kultūros ministrui ir švietimo, mokslo ir sporto ministrui tvirtinti 4 metų trukmės dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planą. 
+
+
+
+
+3. Kultūros ministras kartu su švietimo, mokslo ir sporto ministru tvirtina 4 metų dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planą.
+
+
+
+
+4. Dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų plane numatomos veiklos kryptys, uždaviniai, konkretūs veiksmai, finansavimo poreikis ir šaltiniai, kiekybiniai ir kokybiniai rezultatų vertinimo kriterijai, dainų švenčių organizavimo datos, vietos, dalyvių apgyvendinimo, maitinimo ir kitų techninių ir materialinių klausimų sprendiniai. Šis veiksmų planas apima Lietuvos dainų šventės, Lietuvos moksleivių dainų šventės ir „Gaudeamus“ šventės, vykstančios Lietuvos Respublikoje, organizavimo klausimus. 
+
+
+
+
+5. Patvirtinus dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planą, Lietuvos nacionalinis kultūros centras kartu su Nacionaline Mikalojaus Konstantino Čiurlionio menų mokykla kiekvienais metais ne vėliau kaip iki vasario 28 dienos peržiūri šį planą ir prireikus šio straipsnio 2 dalyje nustatyta tvarka parengia, suderina ir teikia kultūros ministrui ir švietimo, mokslo ir sporto ministrui tvirtinti jo pakeitimus.
+ 
+
+
+
+
+
+
+15 straipsnis. Dainų švenčių periodiškumas
+
+
+1. Lietuvos dainų šventės rengiamos kas 4 metai.
+
+
+
+
+2. Lietuvos moksleivių dainų šventės rengiamos kas 4 metai – praėjus 2 metams po Lietuvos dainų šventės. 
+
+
+
+
+3. „Gaudeamus“ šventės, vykstančios Lietuvos Respublikoje, rengimo vieta ir data nustatoma dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų plane.
+
+
+
+
+4. Svarbių Lietuvos valstybės istorijos datų ar įvykių proga dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų plane gali būti numatomos dainų šventės, organizuojamos nesilaikant šiame straipsnyje nurodytų laiko intervalų.
+
+
+
+
+5. Regioninės dainų šventės rengiamos savivaldybių institucijų sprendimuose dėl jų organizavimo nustatytomis datomis.
+
+
+
+
+6. Išimtiniais atvejais, dėl karo, nepaprastosios padėties, ekstremaliųjų situacijų ar kitų aplinkybių, dėl kurių būtų neįmanoma surengti dainų šventės, ši šventė gali būti atšaukta arba nukelta. Sprendimus dėl Lietuvos dainų šventės, Lietuvos moksleivių dainų šventės bei „Gaudeamus“ šventės, vykstančios Lietuvos Respublikoje, atšaukimo ar nukėlimo priima Komisija, dėl regioninių dainų švenčių – savivaldybių institucijos.
+ 
+
+
+
+
+
+
+16 straipsnis. Dainų švenčių dalyviai
+
+
+1. Dainų švenčių programose dalyvauja Lietuvos kultūros tradicijas palaikantys Lietuvos Respublikos ir pasaulio lietuvių vaikų, jaunimo ir suaugusiųjų meno kolektyvai. 
+
+
+
+
+2. Dainų švenčių dalyviai atrenkami atsižvelgiant į meninių programų uždavinius ir apžiūrų, konkursų nuostatų, patvirtintų Lietuvos nacionalinio kultūros centro arba Nacionalinės Mikalojaus Konstantino Čiurlionio menų mokyklos, reikalavimus ir šių apžiūrų, konkursų rezultatus. 
+
+
+
+
+3. Dainų švenčių dalyvių atranka pradedama ne vėliau kaip likus vieniems metams ir baigiama ne vėliau kaip likus 6 mėnesiams iki dainų šventės pradžios.
+
+
+
+
+4. Dainų švenčių techninį ir materialinį aprūpinimą organizuojančios ir koordinuojančios institucijos užtikrina dainų švenčių dalyvių maitinimą, siekdamos organizuoti procesą taip, kad maitinimo paslaugos būtų teikiamos dainų švenčių dalyvių apgyvendinimo ir (ar) repeticijų vietose. 
+ 
+
+
+
+
+
+
+17 straipsnis. Kategorijų suteikimas mėgėjų meno kolektyvams
+
+
+1. Siekiant užtikrinti dainų švenčių tradicijos tęstinumą, skatinti mėgėjų meno kolektyvų tobulėjimą ir dalyvavimą dainų švenčių tradicijos išsaugojimo veikloje, mėgėjų meno kolektyvams suteikiamos kategorijos, apibūdinančios mėgėjų meno kolektyvo gebėjimus ir pasirengimo dalyvauti dainų šventėse lygį.
+
+
+
+
+2. Kategorijos mėgėjų meno kolektyvams suteikiamos pagal kultūros ministro ir švietimo, mokslo ir sporto ministro patvirtintą mėgėjų meno kolektyvų vertinimo tvarkos aprašą, įvertinus jų meninį lygį ir veiklos rezultatus.
+ 
+ 
+
+
+
+
+
+
+18 straipsnis. Dainų švenčių renginių vietos 
+
+
+1. Dainų švenčių renginių ir repeticijų vietų priežiūrą, šių vietų panaudojimo galimybes, jų būklės tinkamumą numatytai veiklai užtikrina valstybės ir savivaldybių institucijos, įmonės, įstaigos ar organizacijos, kurios nuosavybės ar patikėjimo teise valdo, naudoja šį turtą ir juo disponuoja. 
+
+
+
+
+2. Lietuvos dainų šventės ir Lietuvos moksleivių dainų šventės Dainų dienos programos ir repeticijos paprastai vyksta Vilniuje, Vingio parko Dainų estradoje, Ansamblių vakaro – Vilniuje, Kalnų parke, Šokių dienos – viename iš Vilniaus miesto stadionų, Folkloro diena – Vilniuje, Katedros aikštėje, Vilniaus pilių valstybinio kultūrinio rezervato teritorijoje, Vilniaus Sereikiškių parko Bernardinų sode.
+
+
+
+
+3. Kitų šio straipsnio 2 dalyje nenurodytų dainų švenčių renginių ir programų, kitų dainų švenčių tradicijai priskiriamų renginių veiksmo vietas nustato Taryba, atsižvelgdama į dainų švenčių tradicijos tęstinumo užtikrinimo veiksmų planą, šventės renginių koncepciją, jos įgyvendinimo reikmes.
+ 
+
+
+
+
+
+
+19 straipsnis. Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių, „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, koncepcijų, meninių programų kūrimas
+
+
+1. Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių, „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, koncepcijas, menines programas kuria konkurso tvarka atrinkti kūrėjai, kūrybinių grupių vadovai ir jų sudarytos kūrybinės grupės.
+
+
+
+
+2. Reikalavimus meninių programų kūrėjams, kūrybinėms grupėms ir kūrybinių grupių vadovams nustato, jų atrankos konkursus organizuoja, dainų švenčių meninių programų kūrimo ir jų įgyvendinimo veiksmus koordinuoja:
+
+
+1) Lietuvos dainų švenčių – Lietuvos nacionalinis kultūros centras, suderinęs su Kultūros ministerija;
+
+
+
+
+2) „Gaudeamus“ švenčių, vykstančių Lietuvos Respublikoje, – Lietuvos nacionalinis kultūros centras, suderinęs su Švietimo, mokslo ir sporto ministerija;
+
+
+
+
+3) Lietuvos moksleivių dainų švenčių – Nacionalinė Mikalojaus Konstantino Čiurlionio menų mokykla, suderinusi su Švietimo, mokslo ir sporto ministerija.
+ 
+
+
+
+
+
+
+
+
+
+
+V SKYRIUS
 DAINŲ ŠVENČIŲ FINANSAVIMAS
  
 
 
-14 straipsnis. Valstybės biudžeto lėšos
+20 straipsnis. Valstybės biudžeto lėšos
 
 
-1. Kiekvienais metais valstybės biudžete numatomos lėšos Kultūros ministerijai bei Švietimo ir mokslo ministerijai – nuolatiniam rengimuisi Lietuvos dainų šventėms ir Lietuvos moksleivių dainų šventėms pagal Dainų švenčių tradicijos tęstinumo programą.
-Straipsnio dalies pakeitimai:
-Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
- 
+1. Kiekvienais metais valstybės biudžete numatomos lėšos Kultūros ministerijai ir Švietimo, mokslo ir sporto ministerijai nuolatiniam Lietuvos dainų švenčių, Lietuvos moksleivių dainų švenčių ir „Gaudeamus“ švenčių rengimui ir dainų švenčių tradicijos išsaugojimo veikloms.
 
 
 
 
-2. Lietuvos dainų šventės ir Lietuvos moksleivių dainų šventės metais numatomos lėšos:
+2. Lietuvos dainų šventės, Lietuvos moksleivių dainų šventės ir „Gaudeamus“ šventės, vykstančios Lietuvos Respublikoje, vyksmo metais šių dainų švenčių pasirengimui reikalingos lėšos numatomos asignavimų valdytojams, užtikrinantiems dainų švenčių tradicijos išsaugojimą:
 
 
-1) dainų šventėms parengti ir surengti;
-
-
-
-
-2) dalyvių vykimo į šventę, nakvynės ir maitinimo išlaidoms padengti.
- 
+1) šioms dainų šventėms pasirengti ir organizuoti;
 
 
 
 
+2) dalyvių vykimo į šių dainų švenčių renginių vietas Lietuvos Respublikoje, nakvynės, maitinimo ir dalyvių saugumo užtikrinimo išlaidoms padengti;
 
 
 
 
-15 straipsnis. Savivaldybių biudžetų lėšos
-
-
-Rengimasis dainų šventėms savivaldybių lygiu, jo plėtra finansuojami iš savivaldybių biudžetų.
+3) šių dainų švenčių vietoms parengti ir sutvarkyti. 
  
 
 
@@ -719,41 +921,10 @@ Rengimasis dainų šventėms savivaldybių lygiu, jo plėtra finansuojami iš sa
 
 
 
-V SKYRIUS 
-BAIGIAMOSIOS NUOSTATOS
- 
+21 straipsnis. Savivaldybių biudžetų lėšos
 
 
-16 straipsnis. Pasiūlymai Vyriausybei ir ministerijoms
-
-
-1. Vyriausybė iki šio įstatymo įsigaliojimo:
-
-
-1) patvirtina Dainų švenčių tarybos nuostatus;
-
-
-
-
-2) patvirtina meno kolektyvų vadovų apmokėjimo tvarkos nuostatus.
-
-
-
-
-
-
-2. Kultūros ministerija bei Švietimo ir mokslo ministerija iki šio įstatymo įsigaliojimo parengia, o kultūros ministras bei švietimo ir mokslo ministras patvirtina Dainų švenčių nacionalinės komisijos nuostatus.
- 
-
-
-
-
-
-
-17 straipsnis. Įstatymo įsigaliojimas
-
-
-Įstatymas įsigalioja po 6 mėnesių nuo jo paskelbimo „Valstybės žiniose“.
+Regioninės dainų šventės, kitos dainų švenčių tradicijos išsaugojimo ir tęstinumo užtikrinimo veiklos savivaldybėse finansuojamos iš savivaldybių biudžetų ir kitų teisėtai gautų lėšų.
  
 
 
@@ -773,9 +944,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
 Lietuvos Respublikos dainų švenčių įstatymo 2, 8, 14 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1513, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23365
+Lietuvos Respublikos dainų švenčių įstatymo Nr. X-1334 pakeitimo įstatymas
