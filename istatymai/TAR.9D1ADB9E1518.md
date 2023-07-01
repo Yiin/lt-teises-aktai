@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-10-03
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -898,14 +898,14 @@ Nr. XI-1627, 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
 
 
 
-82 straipsnis. Draudimas dalyti lengvuosius plastikinius pirkinių maišelius prekių ar produktų pardavimo vietose
+82 straipsnis. Draudimas dalyti lengvuosius ir labai lengvus plastikinius pirkinių maišelius prekių ar produktų pardavimo vietose
 
 
-Pakuočių pardavėjams ir platintojams draudžiama prekių ar produktų pardavimo vietose neatlygintinai dalyti lengvuosius plastikinius pirkinių maišelius, išskyrus labai lengvus plastikinius pirkinių maišelius.
+Pakuočių pardavėjams ir platintojams draudžiama prekių ar produktų pardavimo vietose neatlygintinai dalyti lengvuosius ir labai lengvus plastikinius pirkinių maišelius, išskyrus labai lengvus plastikinius pirkinių maišelius, į kuriuos pakuojami šviežia mėsa, jos produktai ir šviežios žuvys, jų produktai.
 
 
-Papildyta straipsniu:
-Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+Straipsnio pakeitimai:
+Nr. XIV-1563, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24643
  
 
 
@@ -1995,3 +1995,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 5, 8, 10, 11 straipsnių ir 2 priedo pakeitimo ir Įstatymo papildymo 7-2 straipsniu ir 1-1 priedu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1563, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24643
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 8-2 straipsnio pakeitimo įstatymas
