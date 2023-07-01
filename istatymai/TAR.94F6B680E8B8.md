@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-12-22
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -1075,12 +1074,13 @@ Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 
 
-6. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus senatvės pensijos amžių sukakusiems arba Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nurodytiems neįgaliesiems asmenims, kurių užpraeitą mėnesį gautų socialinio draudimo pensijų, išskyrus socialinio draudimo našlių pensiją (kartu su socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokomis), šalpos išmokų, valstybinių pensijų, užsienio valstybės pensijų, pensijų išmokų, mokamų pagal Lietuvos Respublikos pensijų kaupimo įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacijų už ypatingas darbo sąlygas ir (ar) draudžiamųjų pajamų, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, suma sudaro mažiau kaip 100 procentų einamųjų metų minimalių vartojimo poreikių dydžio, apskaičiuoto Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka, arba 75 metų ir vyresniems asmenims, padengiamos Vyriausybės nustatyta tvarka.
+6. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus senatvės pensijos amžių sukakusiems arba Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nurodytiems neįgaliesiems asmenims, kurių užpraeitą mėnesį gautų socialinio draudimo pensijų, išskyrus socialinio draudimo našlių pensiją (kartu su socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokomis), šalpos išmokų, valstybinių pensijų, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacijų už ypatingas darbo sąlygas ir (ar) draudžiamųjų pajamų, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, suma sudaro mažiau kaip 100 procentų einamųjų metų minimalių vartojimo poreikių dydžio, apskaičiuoto Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka, arba 75 metų ir vyresniems asmenims, padengiamos Vyriausybės nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 Straipsnio dalies pakeitimai:
 Nr. XIV-165, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00840
 Nr. XIV-402, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14505
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
 
 
@@ -3669,3 +3669,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 17 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1688, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26108
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 10 ir 15 straipsnių pakeitimo įstatymas
+ 
+53.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 5, 6, 8, 9, 9-1, 10, 12, 12-1, 15, 17, 21, 22, 23, 26, 30, 43 straipsnių ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
