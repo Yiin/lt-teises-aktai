@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2023-06-07 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-12-29
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -278,6 +278,14 @@ Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 
 
 
+152. Nacionalinė viza – Lietuvos Respublikos išduodama viza, kuria užsieniečiui leidžiama atvykti į Lietuvos Respublikos teritoriją ir būti joje visą vizos galiojimo laikotarpį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
+
+
+
+
 16. Nelydimas nepilnametis užsienietis – nepilnametis užsienietis, kuris atvyko į Lietuvos Respubliką be tėvų ar kitų teisėtų atstovų arba kuris, atvykęs į Lietuvos Respubliką, liko be jų tol, kol tie asmenys pradeda juo veiksmingai rūpintis. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
@@ -478,9 +486,10 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 
 
-274. Šengeno viza – Šengeno valstybės viza, išduodama vadovaujantis Reglamento (EB) Nr. 810/2009 (toliau – Vizų kodeksas) ir Šengeno teisyno nuostatomis. 
+274. Šengeno viza – vadovaujantis Reglamento (EB) Nr. 810/2009 ir Šengeno teisyno nuostatomis, Šengeno valstybės išduodama viza, kuria užsieniečiui leidžiama atvykti į Šengeno valstybių teritoriją ir būti joje ne ilgiau negu 90 dienų per bet kurį 180 dienų laikotarpį arba vykti tranzitu per Šengeno valstybių teritoriją. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
@@ -562,12 +571,13 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-34. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Vizų kodekse, 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, ir Reglamente (ES) 2018/1240.
+34. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente (EB) Nr. 810/2009 (toliau – Vizų kodeksas), 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, ir Reglamente (ES) 2018/1240.
 Papildyta straipsnio dalimi:
 Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
 Straipsnio dalies pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
@@ -658,48 +668,75 @@ Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 4 straipsnis. Užsieniečių buvimo, gyvenimo Lietuvos Respublikoje ir vykimo per Lietuvos Respublikos teritoriją kontrolė
 
 
-1. Valstybės politiką užsieniečių buvimo ir gyvenimo Lietuvos Respublikoje kontrolės srityje formuoja, jos įgyvendinimą koordinuoja ir kontroliuoja Lietuvos Respublikos vidaus reikalų ministerija.
-
-
-
-
-2. Užsieniečių buvimą ir gyvenimą Lietuvos Respublikoje kontroliuoja Migracijos departamentas ir Valstybės sienos apsaugos tarnyba, bendradarbiaudami su Lietuvos Respublikos valstybės ir savivaldybių institucijomis ir įstaigomis. Rusijos Federacijos piliečių vykimo iš Rusijos Federacijos teritorijos į Rusijos Federacijos Kaliningrado sritį ir atgal per Lietuvos Respublikos teritoriją kontrolę atlieka policija ir Valstybės sienos apsaugos tarnyba.
-
-
-
-
-3. Užsieniečio keliamos grėsmės valstybės saugumui vertinimą atlieka Lietuvos Respublikos valstybės saugumo departamentas, o grėsmės viešajai tvarkai ar visuomenei – policija arba Valstybės sienos apsaugos tarnyba.
-
-
-
-
-4. Migracijos departamentas, gavęs užsieniečio prašymą išduoti jam leidimą gyventi Lietuvos Respublikoje (toliau – leidimas gyventi), spręsdamas dėl prieglobsčio Lietuvos Respublikoje ar laikinosios apsaugos užsieniečiui suteikimo, privalo gauti šio straipsnio 3 dalyje nurodytų institucijų įvertinimą, ar nėra šio straipsnio 3 dalyje nurodytų grėsmių valstybės saugumui, viešajai tvarkai ar visuomenei. Leidimas gyventi užsieniečiui išduodamas tik gavus šių institucijų išvadas, kad užsienietis nekelia grėsmės valstybės saugumui ir viešajai tvarkai ar visuomenei. Prieglobstis Lietuvos Respublikoje ar laikinoji apsauga užsieniečiui suteikiami tik gavus išvadą, kad šis užsienietis nekelia grėsmės valstybės saugumui, ir išvadą, kad užsienietis, kuriam šio Įstatymo nustatyta tvarka suteikiama papildoma apsauga, nekelia grėsmės visuomenei, o užsienietis, kuriam suteikiamas pabėgėlio statusas arba laikinoji apsauga, nėra įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir nekelia grėsmės visuomenei. Šioje dalyje nurodytos išvados pateikiamos ne vėliau kaip per 14 kalendorinių dienų nuo prašymo gavimo dienos. Tuo atveju, jeigu dėl svarbių priežasčių Valstybės saugumo departamentas ir policija arba Valstybės sienos apsaugos tarnyba negali pateikti šiame straipsnyje nurodytų išvadų per nustatytą terminą, jie apie tai informuoja Migracijos departamentą. Bendras išvadų pateikimo terminas negali viršyti 28 kalendorinių dienų nuo prašymo gavimo dienos. 
-
-
-
-
-5. Policija arba Valstybės sienos apsaugos tarnyba, nustačiusios, kad užsienietis, kuriam išduota viza, leidimas gyventi ar kitas šiame Įstatyme nurodytas užsieniečio teisę gyventi Lietuvos Respublikoje patvirtinantis dokumentas, kelia grėsmę viešajai tvarkai, nedelsdamos apie tai informuoja Migracijos departamentą. Migracijos departamentas ne vėliau kaip per 14 kalendorinių dienų nuo šios informacijos gavimo dienos panaikina užsieniečiui išduotą vizą, leidimą gyventi, jeigu tokie dokumentai buvo išduoti, arba užsieniečio teisę gyventi Lietuvos Respublikoje ir apie tai nedelsdamas informuoja užsienietį.
-Straipsnio dalies pakeitimai:
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
-Nr. XIV-1889, 2023-04-20, paskelbta TAR 2023-04-26, i. k. 2023-08041
- 
-
-
-
-
-6. Valstybės saugumo departamentas, turėdamas duomenų, kad užsienietis, kuriam išduota viza, leidimas gyventi ar kitas šiame Įstatyme nurodytas užsieniečio teisę gyventi Lietuvos Respublikoje patvirtinantis dokumentas, kelia grėsmę valstybės saugumui, nedelsdamas apie tai informuoja Migracijos departamentą, kuris ne vėliau kaip per 7 kalendorines dienas nuo šios informacijos gavimo dienos panaikina užsieniečiui išduotą vizą, leidimą gyventi, jeigu tokie dokumentai buvo išduoti, arba užsieniečio teisę gyventi Lietuvos Respublikoje ir apie tai nedelsdamas informuoja užsienietį.
-Straipsnio dalies pakeitimai:
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+1. Valstybės politiką užsieniečių trumpalaikio atvykimo į Lietuvos Respubliką kontrolės srityje formuoja, jos įgyvendinimą koordinuoja ir kontroliuoja Lietuvos Respublikos užsienio reikalų ministerija, bendradarbiaudama su Lietuvos Respublikos vidaus reikalų ministerija. 
+Papildyta straipsnio dalimi:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
 
 
-7. Valstybės saugumo departamentas, turėdamas duomenų, kad užsienietis, kuriam suteiktas pabėgėlio statusas, papildoma arba laikinoji apsauga, kelia grėsmę valstybės saugumui, policija arba Valstybės sienos apsaugos tarnyba, nustatę, kad užsienietis, kuriam suteikta papildoma apsauga, kelia grėsmę visuomenei, užsienietis, kuriam suteiktas pabėgėlio statusas arba laikinoji apsauga, įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir kelia grėsmę visuomenei, nedelsdami apie tai informuoja Migracijos departamentą. Migracijos departamentas sprendimą dėl pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo priima ne vėliau kaip per 14 kalendorinių dienų nuo šios informacijos gavimo dienos, gavęs užsieniečio paaiškinimus žodžiu arba raštu. Migracijos departamentui priėmus sprendimą panaikinti pabėgėlio statusą, papildomą arba laikinąją apsaugą, užsieniečiui turi būti išaiškinta šio sprendimo apskundimo tvarka. 
+2. Valstybės politiką užsieniečių ilgalaikio buvimo ir gyvenimo Lietuvos Respublikoje kontrolės srityje formuoja, jos įgyvendinimą koordinuoja ir kontroliuoja Vidaus reikalų ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
+
+
+
+
+3. Užsieniečių buvimą ir gyvenimą Lietuvos Respublikoje kontroliuoja Migracijos departamentas ir Valstybės sienos apsaugos tarnyba, bendradarbiaudami su Lietuvos Respublikos valstybės ir savivaldybių institucijomis ir įstaigomis. Rusijos Federacijos piliečių vykimo iš Rusijos Federacijos teritorijos į Rusijos Federacijos Kaliningrado sritį ir atgal per Lietuvos Respublikos teritoriją kontrolę atlieka policija ir Valstybės sienos apsaugos tarnyba.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
+
+
+
+
+4. Užsieniečio keliamos grėsmės valstybės saugumui vertinimą atlieka Lietuvos Respublikos valstybės saugumo departamentas, o grėsmės viešajai tvarkai ar visuomenei – policija arba Valstybės sienos apsaugos tarnyba.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
+
+
+
+
+5. Migracijos departamentas, gavęs užsieniečio prašymą išduoti jam leidimą gyventi Lietuvos Respublikoje (toliau – leidimas gyventi), spręsdamas dėl prieglobsčio Lietuvos Respublikoje ar laikinosios apsaugos užsieniečiui suteikimo, privalo gauti šio straipsnio 4 dalyje nurodytų institucijų įvertinimą, ar nėra šio straipsnio 4 dalyje nurodytų grėsmių valstybės saugumui, viešajai tvarkai ar visuomenei. Leidimas gyventi užsieniečiui išduodamas tik gavus šių institucijų išvadas, kad užsienietis nekelia grėsmės valstybės saugumui, viešajai tvarkai ar visuomenei. Prieglobstis Lietuvos Respublikoje ar laikinoji apsauga užsieniečiui suteikiami tik gavus išvadą, kad šis užsienietis nekelia grėsmės valstybės saugumui, ir išvadą, kad užsienietis, kuriam šio Įstatymo nustatyta tvarka suteikiama papildoma apsauga, nekelia grėsmės visuomenei, o užsienietis, kuriam suteikiamas pabėgėlio statusas arba laikinoji apsauga, nėra įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir nekelia grėsmės visuomenei. Šioje dalyje nurodytos išvados pateikiamos ne vėliau kaip per 14 kalendorinių dienų nuo prašymo gavimo dienos. Tuo atveju, jeigu dėl svarbių priežasčių Valstybės saugumo departamentas ir policija arba Valstybės sienos apsaugos tarnyba negali pateikti šiame straipsnyje nurodytų išvadų per nustatytą terminą, jie apie tai informuoja Migracijos departamentą. Bendras išvadų pateikimo terminas negali viršyti 28 kalendorinių dienų nuo prašymo gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
+
+
+
+
+6. Policija arba Valstybės sienos apsaugos tarnyba, nustačiusios, kad užsienietis, kuriam išduota viza, leidimas gyventi ar kitas šiame Įstatyme nurodytas užsieniečio teisę gyventi Lietuvos Respublikoje patvirtinantis dokumentas, kelia grėsmę viešajai tvarkai, nedelsdamos apie tai informuoja Migracijos departamentą. Migracijos departamentas ne vėliau kaip per 14 kalendorinių dienų nuo šios informacijos gavimo dienos panaikina užsieniečiui išduotą vizą, leidimą gyventi, jeigu tokie dokumentai buvo išduoti, arba užsieniečio teisę gyventi Lietuvos Respublikoje ir apie tai nedelsdamas informuoja užsienietį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-1889, 2023-04-20, paskelbta TAR 2023-04-26, i. k. 2023-08041
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
+
+
+
+
+7. Valstybės saugumo departamentas, turėdamas duomenų, kad užsienietis, kuriam išduota viza, leidimas gyventi ar kitas šiame Įstatyme nurodytas užsieniečio teisę gyventi Lietuvos Respublikoje patvirtinantis dokumentas, kelia grėsmę valstybės saugumui, nedelsdamas apie tai informuoja Migracijos departamentą, kuris ne vėliau kaip per 7 kalendorines dienas nuo šios informacijos gavimo dienos panaikina užsieniečiui išduotą vizą, leidimą gyventi, jeigu tokie dokumentai buvo išduoti, arba užsieniečio teisę gyventi Lietuvos Respublikoje ir apie tai nedelsdamas informuoja užsienietį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
+
+
+
+
+8. Valstybės saugumo departamentas, turėdamas duomenų, kad užsienietis, kuriam suteiktas pabėgėlio statusas, papildoma arba laikinoji apsauga, kelia grėsmę valstybės saugumui, policija arba Valstybės sienos apsaugos tarnyba, nustatę, kad užsienietis, kuriam suteikta papildoma apsauga, kelia grėsmę visuomenei, užsienietis, kuriam suteiktas pabėgėlio statusas arba laikinoji apsauga, įsiteisėjusiu teismo nuosprendžiu pripažintas kaltu dėl labai sunkaus nusikaltimo padarymo ir kelia grėsmę visuomenei, nedelsdami apie tai informuoja Migracijos departamentą. Migracijos departamentas sprendimą dėl pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo priima ne vėliau kaip per 14 kalendorinių dienų nuo šios informacijos gavimo dienos, gavęs užsieniečio paaiškinimus žodžiu arba raštu. Migracijos departamentui priėmus sprendimą panaikinti pabėgėlio statusą, papildomą arba laikinąją apsaugą, užsieniečiui turi būti išaiškinta šio sprendimo apskundimo tvarka. 
 Straipsnio pakeitimai:
 Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
 
 
 Straipsnio pakeitimai:
@@ -1137,7 +1174,10 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 17 straipsnis. Nacionalinė viza 
 
 
-1. Nacionalinė viza gali būti išduota užsieniečiui, kurio atvykimo į Lietuvos Respubliką tikslas – ilgalaikis buvimas Lietuvos Respublikoje. Užsienietis, turintis nacionalinę vizą, gali atvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje visą nacionalinės vizos galiojimo laikotarpį, kuris negali viršyti 12 mėnesių.
+1. Nacionalinė viza gali būti išduota užsieniečiui, kurio atvykimo į Lietuvos Respubliką tikslas – ilgalaikis buvimas Lietuvos Respublikoje. Nacionalinė viza išduodama laikotarpiui, ne ilgesniam kaip 12 mėnesių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
 
 
 
@@ -1295,93 +1335,126 @@ Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 
 
-21 straipsnis. Vizos išdavimas, atsisakymas išduoti vizą, konsultacijų vykdymas, vizos panaikinimas ir atšaukimas
+202 straipsnis. Lietuvos vizų tarnybos
 
 
-1. Dokumentai vizai gauti pateikiami Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai, o kai tokios nėra, dokumentai Šengeno vizai gauti pateikiami Lietuvos Respublikai atstovaujančiai Šengeno valstybės diplomatinei atstovybei ar konsulinei įstaigai. Dokumentai vizai gauti vidaus reikalų ministro kartu su užsienio reikalų ministru nustatytais atvejais taip pat gali būti pateikti pasienio kontrolės punkte, Migracijos departamente arba Lietuvos Respublikos užsienio reikalų ministerijoje. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Valstybės institucijų ir įstaigų, kuriose užsieniečiams yra išduodamos vizos, sąrašą tvirtina vidaus reikalų ministras kartu su užsienio reikalų ministru.
+
+
+Papildyta straipsniu:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
 
 
-2. Lietuvos Respublika gali atstovauti kitai (kitoms) Šengeno valstybei (valstybėms) arba būti atstovaujama kitos (kitų) Šengeno valstybės (valstybių) vizų išdavimo klausimais pagal su kita (kitomis) Šengeno valstybe (valstybėmis) sudarytus susitarimus.
+203 straipsnis. Šengeno vizos išdavimas, atsisakymas ją išduoti, panaikinimas ir atšaukimas, konsultacijų vykdymas 
+
+
+1. Šengeno vizos išduodamos Vizų kodekse nustatytais atvejais. Dokumentai Šengeno vizai gauti pateikiami Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai. Dokumentai Šengeno vizai gauti taip pat gali būti pateikiami Lietuvos Respublikai atstovaujančiai Šengeno valstybės diplomatinei atstovybei ar konsulinei įstaigai arba per Užsienio reikalų ministerijos pasirinktą išorės paslaugų teikėją. Dokumentai Šengeno vizai gauti vidaus reikalų ministro kartu su užsienio reikalų ministru nustatyta tvarka taip pat gali būti pateikti pasienio kontrolės punkte, Migracijos departamente arba Užsienio reikalų ministerijoje. 
 
 
 
 
-3. Sprendimus dėl vizos išdavimo ar atsisakymo ją išduoti, jos panaikinimo ir atšaukimo priima:
-
-
-1) Lietuvos Respublikos užsienio reikalų ministerijos Konsulinis departamentas – dėl visų rūšių vizų išdavimo ar atsisakymo jas išduoti, dėl visų rūšių vizų panaikinimo ir atšaukimo;
+2. Lietuvos Respublika gali atstovauti kitai (kitoms) Šengeno valstybei (valstybėms) arba būti atstovaujama kitos (kitų) Šengeno valstybės (valstybių) Šengeno vizų išdavimo klausimais pagal su kita (kitomis) Šengeno valstybe (valstybėmis) sudarytus susitarimus.
 
 
 
 
-2) Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos – dėl visų rūšių vizų išdavimo ar atsisakymo jas išduoti, dėl visų rūšių vizų panaikinimo ir atšaukimo;
+3. Sprendimus dėl Šengeno vizos priima:
+
+
+1) Užsienio reikalų ministerijos Konsulinis departamentas – dėl išdavimo ar atsisakymo ją išduoti, dėl panaikinimo ir atšaukimo;
 
 
 
 
-3) Valstybės sienos apsaugos tarnyba – dėl Šengeno vizų išdavimo ar atsisakymo jas išduoti pasienio kontrolės punkte, dėl visų rūšių vizų panaikinimo, dėl Šengeno vizų atšaukimo;
+2) Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos – dėl išdavimo ar atsisakymo ją išduoti, dėl panaikinimo ir atšaukimo;
 
 
 
 
-4) Migracijos departamentas – dėl visų rūšių vizų išdavimo ar atsisakymo jas išduoti, dėl visų rūšių vizų panaikinimo ir atšaukimo;
+3) Valstybės sienos apsaugos tarnyba – dėl išdavimo ar atsisakymo ją išduoti pasienio kontrolės punkte, dėl panaikinimo ir atšaukimo;
 
 
 
 
-5) Šengeno valstybės, pagal susitarimą dėl atstovavimo atstovaujančios Lietuvos Respublikai vizų išdavimo klausimais, kompetentinga institucija – dėl visų rūšių vizų išdavimo ar atsisakymo jas išduoti, dėl visų rūšių vizų panaikinimo ir atšaukimo. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+4) Migracijos departamentas – dėl pratęsimo ar atsisakymo pratęsti jos galiojimą, dėl panaikinimo ir atšaukimo;
+
+
+
+
+5) Šengeno valstybės, pagal susitarimą dėl atstovavimo atstovaujančios Lietuvos Respublikai vizų išdavimo klausimais, kompetentinga institucija – dėl išdavimo ar atsisakymo ją išduoti, dėl panaikinimo ir atšaukimo.
+
+
+
+
+
+
+4. Vizų kodekse nustatytais atvejais sprendimas dėl Šengeno vizos išdavimo užsieniečiui priimamas tik po Migracijos departamento konsultacijų su kitomis Šengeno valstybėmis.
+
+
+
+
+5. Konsultacijų dėl Šengeno vizų išdavimo su šio Įstatymo 4 straipsnyje nurodytomis institucijomis tvarką nustato vidaus reikalų ministras, suderinęs su užsienio reikalų ministru.
+
+
+
+
+6. Išorės paslaugų teikėjų atrankos Vizų kodekso 43 straipsnio 6 dalyje nustatytoms užduotims atlikti tvarką nustato užsienio reikalų ministras.
+
+
+Papildyta straipsniu:
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
 
 
+21 straipsnis. Nacionalinės vizos išdavimas, atsisakymas išduoti nacionalinę vizą, konsultacijų vykdymas, nacionalinės vizos panaikinimas ir atšaukimas
 
 
-4. Vizų kodekse numatytais atvejais Šengeno viza užsieniečiui išduodama tik po Migracijos departamento konsultacijų su kitomis Šengeno valstybėmis.
-
-
-
-
-5. Šio straipsnio 9 dalyje numatyta tvarka ir atvejais Šengeno viza ir nacionalinė viza užsieniečiui išduodama tik po Migracijos departamento konsultacijų su kitomis valstybės institucijomis.
+1. Užsienietis, esantis ne Lietuvos Respublikoje, prašymą išduoti nacionalinę vizą pateikia per Migracijos departamento pasirinktą išorės paslaugų teikėją. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti nacionalinę vizą gali pateikti Migracijos departamentui, tačiau tokio prašymo pateikimas nesuteikia teisės užsieniečiui būti Lietuvos Respublikos teritorijoje, iki bus išduota nacionalinė viza. 
 
 
 
 
-6. Sprendimą dėl Šengeno vizos galiojimo pratęsimo arba atsisakymo pratęsti jos galiojimą priima Migracijos departamentas.
+2. Sprendimus dėl nacionalinės vizos priima:
+
+
+1) Migracijos departamentas – dėl išdavimo ar atsisakymo ją išduoti, dėl panaikinimo ir atšaukimo;
 
 
 
 
-7. Valstybės institucijų ir įstaigų, kuriose užsieniečiams yra išduodamos vizos, sąrašą tvirtina vidaus reikalų ministras kartu su užsienio reikalų ministru.
+2) Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos – dėl panaikinimo ir atšaukimo;
 
 
 
 
-8. Užsienietis dokumentus vizai gauti taip pat gali pateikti per Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos akredituotą komercinį tarpininką, užsienio reikalų ministro įgaliotą garbės konsulą arba per Lietuvos Respublikos užsienio reikalų ministerijos pasirinktą išorės paslaugų teikėją. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
- 
+3) Valstybės sienos apsaugos tarnyba – dėl panaikinimo ir atšaukimo.
 
 
 
 
-9. Dokumentų vizai gauti pateikimo, konsultacijų vykdymo, vizos išdavimo ar atsisakymo ją išduoti, jos pratęsimo ar atsisakymo ją pratęsti, jos panaikinimo ir vizos atšaukimo, taip pat komercinių tarpininkų akreditavimo ir išorės paslaugų teikėjų pasirinkimo tvarką nustato vidaus reikalų ministras kartu su užsienio reikalų ministru. Ši tvarka taikoma tiek, kiek šių klausimų nereglamentuoja Vizų kodeksas. 
-Straipsnio pakeitimai:
-Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
-Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
-Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
-Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
+
+
+3. Nacionalinė viza užsieniečiui išduodama tik po Migracijos departamento konsultacijų su šio Įstatymo 4 straipsnyje nurodytomis institucijomis.
+
+
+
+
+4. Migracijos departamentas, nagrinėdamas prašymą išduoti nacionalinę vizą, turi teisę reikalauti pateikti papildomus dokumentus, patvirtinančius užsieniečio ir (arba) darbdavio, švietimo įstaigos arba priimančiojo subjekto pateiktą informaciją, taip pat prašyme išduoti nacionalinę vizą nurodytus duomenis.
+
+
+
+
+5. Dokumentų nacionalinei vizai gauti pateikimo, konsultacijų vykdymo, nacionalinės vizos išdavimo ar atsisakymo ją išduoti, nacionalinės vizos panaikinimo ir atšaukimo tvarką nustato vidaus reikalų ministras.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
@@ -4512,43 +4585,27 @@ UŽSIENIEČIŲ DARBAS LIETUVOS RESPUBLIKOJE
 1. Užsienietis, kuris ketina dirbti Lietuvos Respublikoje ir kuris pagal šio Įstatymo 58 straipsnį nėra atleidžiamas nuo pareigos įsigyti leidimą dirbti, privalo įsigyti leidimą dirbti, jeigu:
 
 
-1) atvyksta į Lietuvos Respubliką dirbti ir yra užsienietis, kurio profesija neįtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis;
+1) užsienietis ketina pasinaudoti šio Įstatymo 62 straipsnio 2 dalyje nustatyta teise dirbti ir jo profesija neįtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis; 
 
 
 
 
-2) atvyksta į Lietuvos Respubliką dirbti ir yra užsienietis, kurio profesija įtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis, ir yra išnaudota kvota, nustatoma pagal šio Įstatymo 571 straipsnį;
+2) užsienietis ketina pasinaudoti šio Įstatymo 62 straipsnio 2 dalyje nustatyta teise dirbti ir jo profesija įtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis, ir yra išnaudota kvota, nustatoma pagal šio Įstatymo 571 straipsnį;
 
 
 
 
-3) Neteko galios nuo 2022-08-01
-Straipsnio punkto naikinimas:
+3) atvyksta į Lietuvos Respubliką dirbti sezoninio darbo;
+
+
+
+
+4) yra užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, įsteigtos įmonės darbuotojas, dirbantis pagal neterminuotą darbo sutartį, šios įmonės komandiruojamas laikinai dirbti į Lietuvos Respubliką ir yra apdraustas socialiniu draudimu toje valstybėje narėje.
+
+
+Straipsnio dalies pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
-
-
-
-
-4) atvyksta į Lietuvos Respubliką dirbti sezoninio darbo;
-
-
-
-
-5) Neteko galios nuo 2022-08-01
-Straipsnio punkto naikinimas:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
-
-
-
-
-6) yra užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, įsteigtos įmonės darbuotojas, dirbantis pagal neterminuotą darbo sutartį, šios įmonės komandiruojamas laikinai dirbti į Lietuvos Respubliką ir yra apdraustas socialiniu draudimu toje valstybėje narėje. 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
-
-
 
 
 
@@ -9292,9 +9349,10 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 1401 straipsnis. Skundų dėl užsieniečiui išduoto leidimo gyventi ar teisės gyventi Lietuvos Respublikoje, pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo dėl užsieniečio keliamos grėsmės valstybės saugumui, viešajai tvarkai ar visuomenei nagrinėjimas
 
 
-1. Užsienietis, gavęs šio Įstatymo 4 straipsnio 5, 6 arba 7 dalyje nurodytą sprendimą panaikinti jam išduotą leidimą gyventi ar jo teisę gyventi Lietuvos Respublikoje arba panaikinti jam suteiktą pabėgėlio statusą, papildomą arba laikinąją apsaugą, turi teisę jį skųsti Vilniaus apygardos administraciniam teismui per 14 kalendorinių dienų nuo sprendimo įteikimo dienos. 
+1. Užsienietis, gavęs šio Įstatymo 4 straipsnio 6, 7 ar 8 dalyje nurodytą sprendimą panaikinti jam išduotą leidimą gyventi ar jo teisę gyventi Lietuvos Respublikoje arba panaikinti jam suteiktą pabėgėlio statusą, papildomą arba laikinąją apsaugą, turi teisę jį skųsti Vilniaus apygardos administraciniam teismui per 14 kalendorinių dienų nuo sprendimo įteikimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
