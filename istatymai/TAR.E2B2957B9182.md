@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -95,7 +95,10 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 
 
-4. Greitosios medicinos pagalbos paslaugos – greitosios medicinos pagalbos įstaigų teikiamos asmens sveikatos priežiūros paslaugos, siekiant laiku suteikti pacientui reikalingą medicinos pagalbą jo buvimo vietoje ir prireikus transportuoti sergantį ar sužeistą pacientą į asmens sveikatos priežiūros įstaigą. Greitosios medicinos pagalbos paslaugos laikomos paslaugomis, skirtomis gyvybei gelbėti ir išsaugoti.
+4. Greitosios medicinos pagalbos paslaugos – Greitosios medicinos pagalbos tarnybos teikiamos asmens sveikatos priežiūros paslaugos, siekiant laiku suteikti pacientui reikalingą medicinos pagalbą jo buvimo vietoje ir prireikus transportuoti sergantį ar sužeistą pacientą į asmens sveikatos priežiūros įstaigą. Greitosios medicinos pagalbos paslaugos laikomos paslaugomis, skirtomis gyvybei gelbėti ir išsaugoti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1113, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11874
+ 
 
 
 
@@ -1238,6 +1241,29 @@ Nr. XII-1387, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19560
  
 
 
+
+
+
+
+191 straipsnis. Greitosios medicinos pagalbos paslaugų teikimo organizavimas
+
+
+1. Greitosios medicinos pagalbos paslaugas Lietuvoje teikia viena Greitosios medicinos pagalbos tarnyba (toliau – GMP tarnyba).  GMP tarnyba yra viešoji įstaiga, kurios savininkė yra valstybė (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešosios įstaigos savininkės, teises ir pareigas). GMP tarnybos buveinės adresą nustato sveikatos apsaugos ministras. 
+
+
+
+
+2. GMP tarnyba greitosios medicinos pagalbos paslaugas teikia per teritorinius padalinius (toliau – GMP teritoriniai padaliniai). GMP teritorinių padalinių skaičių, GMP teritorinių padalinių aptarnaujamas teritorijas Lietuvoje ir greitosios medicinos pagalbos paslaugas teikiančių brigadų skaičių aptarnaujamose teritorijose nustato sveikatos apsaugos ministras. 
+
+
+
+
+3. Greitosios medicinos pagalbos paslaugų teikimo reikalavimus ir tvarką nustato sveikatos apsaugos ministras. 
+
+
+Papildyta straipsniu:
+Nr. XIV-1113, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11874
+ 
 
 
 
