@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A23697137FA"
 
 # Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 1-0; Žin. 1990, Nr.14-386, i. k. 0901010ISTA000I-180
  
@@ -68,7 +68,10 @@ priima šį įstatymą.
 2 straipsnis. Šio įstatymo 1 straipsnio nuostatų netaikymas
 
 
-1. Šio įstatymo 1 straipsnio nuostatos netaikomos asmenims, dalyvavusiems darant Lietuvos Respublikos baudžiamojo kodekso XV skyriuje numatytus nusikaltimus žmoniškumui ir karo nusikaltimus, kuriems pagal Lietuvos Respublikos baudžiamojo kodekso 95 straipsnio 5 dalį, nėra senaties, taip pat dalyvavusiems beginklių civilių žmonių žudynėse ar kankinimuose.
+1. Šio įstatymo 1 straipsnio nuostatos netaikomos asmenims, dalyvavusiems darant Lietuvos Respublikos baudžiamojo kodekso XV skyriuje numatytus nusikaltimus žmoniškumui ir karo nusikaltimus, kuriems pagal Lietuvos Respublikos baudžiamojo kodekso 95 straipsnio 9 dalį nėra senaties, taip pat dalyvavusiems beginklių civilių žmonių žudynėse ar kankinimuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
+ 
 
 
 
@@ -81,10 +84,10 @@ priima šį įstatymą.
 
 
 
-3 straipsnis. Pažymėjimų apie asmenų nuteisimo, įkalinimo, ištrėmimo ar kitokio laisvės apribojimo laiką išdavimas
+3 straipsnis. Pažymėjimų ir kitų dokumentų apie asmenų nuteisimo, įkalinimo, ištrėmimo ar kitokio laisvės apribojimo laiką išdavimas
 
 
-1. Šio įstatymo 1 straipsnyje nurodytiems asmenims pažymėjimus apie jų nuteisimo, įkalinimo, ištrėmimo ar kitokio laisvės apribojimo laiką (toliau – pažymėjimas) pagal šių asmenų, jų sutuoktinių, giminaičių (vaikų, įvaikių, vaikaičių, taip pat brolių ir seserų) arba politinių kalinių ir tremtinių interesams atstovaujančių asociacijų, taip pat pagal kitų valstybės institucijų ir asociacijų, kurios kreipiasi už pasipriešinimą okupacijoms represuotų ir dėl to nukentėjusių asmenų interesais, rašytinius prašymus išduoda:
+1. Šio įstatymo 1 straipsnyje nurodytiems asmenims pažymėjimus apie jų nuteisimo, įkalinimo ar kitokio laisvės apribojimo laiką (toliau – pažymėjimas) pagal šių asmenų, jų sutuoktinių, giminaičių (vaikų, įvaikių, vaikaičių, taip pat brolių ir seserų) arba politinių kalinių ir tremtinių interesams atstovaujančių asociacijų, taip pat pagal kitų valstybės institucijų ir asociacijų, kurios kreipiasi už pasipriešinimą okupacijoms represuotų ir dėl to nukentėjusių asmenų interesais, rašytinius prašymus išduoda:
 
 
 1) Lietuvos Aukščiausiasis Teismas – teisminių institucijų represuotiems asmenims;
@@ -92,35 +95,34 @@ priima šį įstatymą.
 
 
 
-2) Lietuvos Respublikos generalinė prokuratūra (toliau – Generalinė prokuratūra) – ne teismo tvarka represuotiems asmenims;
+2) Lietuvos Respublikos generalinė prokuratūra – ne teismo tvarka represuotiems asmenims.
 
 
 
 
-3) Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija) – ištremtiems asmenims. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
- 
+2. Asmenims, kurie buvo represuoti teisminių institucijų ar ne teismo tvarka ir po to jiems buvo apribota gyvenamosios vietos pasirinkimo teisė, pažymėjimus apie tokį apribojimą išduoda atitinkamai Lietuvos Aukščiausiasis Teismas ir Generalinė prokuratūra.
 
 
 
 
-2. Asmenims, kurie buvo represuoti teisminių institucijų ar ne teismo tvarka arba buvo ištremti ir po to jiems buvo apribota gyvenamosios vietos pasirinkimo teisė, pažymėjimus apie tokį apribojimą išduoda atitinkamai Lietuvos Aukščiausiasis Teismas, Generalinė prokuratūra ir Vidaus reikalų ministerija.
-
-
-
-
-3. Asmenims, represuotiems už Lietuvos ribų ir pateikusiems kitų valstybių įgaliotų institucijų išduotus pažymėjimus, jeigu šie asmenys dabar yra Lietuvos Respublikos piliečiai, šių pažymėjimų pagrindu Lietuvos Aukščiausiasis Teismas, Generalinė prokuratūra ir Vidaus reikalų ministerija išduoda atitinkamus pažymėjimus. Išduodamuosiuose pažymėjimuose įrašoma šio įstatymo 1 straipsnio formuluotė, kad asmuo yra nekaltas Lietuvos Respublikai ir yra atkuriamos visos jo pilietinės teisės.
+3. Asmenims, represuotiems už Lietuvos ribų ir pateikusiems kitų valstybių įgaliotų institucijų išduotus pažymėjimus, jeigu šie asmenys dabar yra Lietuvos Respublikos piliečiai, šių pažymėjimų pagrindu Lietuvos Aukščiausiasis Teismas ir Generalinė prokuratūra išduoda atitinkamus pažymėjimus. Išduodamuose pažymėjimuose įrašoma šio įstatymo 1 straipsnio formuluotė, kad asmuo yra nekaltas Lietuvos Respublikai ir yra atkuriamos visos jo pilietinės teisės.
 
 
 
 
 4. Asmenims, represuotiems už Lietuvos ribų ir pateikusiems kitų valstybių įgaliotų institucijų išduotus pažymėjimus, jeigu šie asmenys dabar yra Lietuvos Respublikos piliečiai, šių pažymėjimų pagrindu Lietuvos gyventojų genocido ir rezistencijos tyrimo centras išduoda atitinkamus nukentėjusiųjų asmenų teisinio statuso pažymėjimus.
+
+
+
+
+5. Ištremtiems asmenims, taip pat asmenims, kuriems po ištrėmimo buvo apribota gyvenamosios vietos pasirinkimo teisė, Lietuvos ypatingasis archyvas šių asmenų prašymu išduoda pažymas apie tremtį. Lietuvos ypatingojo archyvo pažymos apie tremtį taip pat išduodamos šioje dalyje nurodytų asmenų sutuoktinių, giminaičių (vaikų, įvaikių, vaikaičių, taip pat brolių ir seserų) arba tremtinių interesams atstovaujančių asociacijų, taip pat kitų valstybės institucijų ir asociacijų, kurios kreipiasi už pasipriešinimą okupacijoms represuotų ir dėl to nukentėjusių asmenų interesais, prašymu. Prašymai išduoti pažymas pateikiami, nagrinėjami, pažymos išduodamos, skundai priimami ir nagrinėjami Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
  
-
-
 
 
 
@@ -128,12 +130,12 @@ Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 4 straipsnis. Prašymų išduoti pažymėjimus nagrinėjimo tvarka
 
 
-1. Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros ir Vidaus reikalų ministerijos pareigūnai gautus šio įstatymo 3 straipsnio 1 dalyje nurodytų asmenų prašymus išduoti pažymėjimus turi išnagrinėti per 3 mėnesius, o tuo atveju, kai yra atliekamas tyrimas, – per 6 mėnesius nuo prašymų gavimo dienos.
+1. Lietuvos Aukščiausiojo Teismo ir Generalinės prokuratūros pareigūnai gautus šio įstatymo 3 straipsnio 1 dalyje nurodytų asmenų prašymus išduoti pažymėjimus turi išnagrinėti per 3 mėnesius, o tuo atveju, kai atliekamas tyrimas, – per 6 mėnesius nuo prašymų gavimo dienos.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytas pareigūnas, spręsdamas klausimą dėl šio įstatymo 2 straipsnio taikymo, gautą prašymą išduoti pažymėjimą pateikia Generalinei prokuratūrai tyrimui atlikti. Generalinė prokuratūra tyrimą atlieka dėl nusikalstamų veikų padarymo fakto nustatymo ir patvirtinimo. Tyrimas atliekamas vadovaujantis Lietuvos Respublikos baudžiamojo proceso kodekso normomis. Tyrimo metu savo išvadą Generalinei prokuratūrai turi pateikti Lietuvos gyventojų genocido ir rezistencijos tyrimo centras. Šis tyrimas turi būti baigtas per 6 mėnesius. Išimtiniais atvejais generalinis prokuroras arba jo pavaduotojas gali šį terminą pratęsti ne ilgiau kaip 2 mėnesiams.
+2. Šio straipsnio 1 dalyje nurodytas pareigūnas, spręsdamas klausimą dėl šio įstatymo 2 straipsnio taikymo, gautą prašymą išduoti pažymėjimą pateikia Generalinei prokuratūrai tyrimui atlikti. Generalinė prokuratūra tyrimą atlieka dėl nusikalstamų veikų padarymo fakto nustatymo ir patvirtinimo. Tyrimas atliekamas vadovaujantis Lietuvos Respublikos baudžiamojo proceso kodekso normomis. Tyrimo metu savo išvadą Generalinei prokuratūrai turi pateikti Lietuvos gyventojų genocido ir rezistencijos tyrimo centras. Šis tyrimas turi būti baigtas per 6 mėnesius. Išimtiniais atvejais generalinis prokuroras arba jo pavaduotojas gali šį terminą pratęsti ne ilgiau kaip 2 mėnesiams.
 
 
 
@@ -143,30 +145,32 @@ Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 
 
 
-4. Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros ar Vidaus reikalų ministerijos pareigūnas, išnagrinėjęs šio įstatymo 3 straipsnio 1 dalyje nurodyto asmens prašymą ir kitą turimą medžiagą, išduoda asmeniui pažymėjimą arba atsisako jį išduoti. Jeigu išduoti pažymėjimą atsisakoma, dėl to surašomas motyvuotas sprendimas. Šio sprendimo nuorašas yra siunčiamas prašymą padavusiam asmeniui.
+4. Lietuvos Aukščiausiojo Teismo ar Generalinės prokuratūros pareigūnas, išnagrinėjęs šio įstatymo 3 straipsnio 1 dalyje nurodyto asmens prašymą ir kitą turimą medžiagą, išduoda asmeniui pažymėjimą arba atsisako jį išduoti. Jeigu išduoti pažymėjimą atsisakoma, dėl to surašomas motyvuotas sprendimas. Šio sprendimo nuorašas siunčiamas prašymą padavusiam asmeniui, o prireikus apsaugoti atitinkamų kategorijų duomenis, prašymą padavusiam asmeniui siunčiamas šio sprendimo nuasmenintas nuorašas.
 
 
 
 
-5. Generalinės prokuratūros ar Vidaus reikalų ministerijos pareigūnų sprendimą išduoti pažymėjimą ar sprendimą atsisakyti jį išduoti šio įstatymo 1 straipsnio 3 dalyje nurodyti asmenys, jų giminaičiai (sutuoktiniai, vaikai, įvaikiai, taip pat broliai ir seserys) per 2 mėnesius nuo šio sprendimo priėmimo dienos turi teisę apskųsti atitinkamai generaliniam prokurorui arba vidaus reikalų ministrui.
+5. Generalinės prokuratūros pareigūno sprendimą išduoti pažymėjimą ar sprendimą atsisakyti jį išduoti šio įstatymo 1 straipsnio 3 dalyje nurodyti asmenys, jų sutuoktiniai, giminaičiai (vaikai, įvaikiai, vaikaičiai, taip pat broliai ir seserys) per 2 mėnesius nuo šio sprendimo priėmimo dienos turi teisę apskųsti generaliniam prokurorui.
 
 
 
 
-6. Lietuvos Aukščiausiojo Teismo pirmininko, generalinio prokuroro ar vidaus reikalų ministro sprendimą išduoti pažymėjimą ar atsisakyti jį išduoti šio įstatymo 1 straipsnio 3 dalyje nurodyti asmenys, jų giminaičiai (sutuoktiniai, vaikai, įvaikiai, taip pat broliai ir seserys) per 2 mėnesius nuo šio sprendimo gavimo dienos turi teisę apskųsti Lietuvos Aukščiausiajam Teismui. Šis skundas nagrinėjamas šio įstatymo 6 straipsnyje nustatyta tvarka.
+6. Lietuvos Aukščiausiojo Teismo pirmininko ar generalinio prokuroro sprendimą išduoti pažymėjimą ar atsisakyti jį išduoti šio įstatymo 1 straipsnio 3 dalyje nurodyti asmenys, jų sutuoktiniai, giminaičiai (vaikai, įvaikiai, vaikaičiai, taip pat broliai ir seserys) per 2 mėnesius nuo šio sprendimo gavimo dienos turi teisę apskųsti Lietuvos Aukščiausiajam Teismui. Šis skundas nagrinėjamas šio įstatymo 6 straipsnyje nustatyta tvarka.
 
 
 
 
-7. Praleistas šio straipsnio 5 ar 6 dalyje nustatytas skundo padavimo terminas gali būti atnaujintas atitinkamai Lietuvos Aukščiausiojo Teismo pirmininko paskirto teisėjo arba teisėjų kolegijos nutartimi, generalinio prokuroro sprendimu ar vidaus reikalų ministro sprendimu, jeigu yra pagrindas šio termino praleidimo priežastis pripažinti objektyviomis ir pateisinamomis.
+7. Praleistas šio straipsnio 5 ar 6 dalyje nustatytas skundo padavimo terminas gali būti atnaujintas atitinkamai Lietuvos Aukščiausiojo Teismo pirmininko paskirto teisėjo arba teisėjų kolegijos nutartimi ar generalinio prokuroro sprendimu, jeigu yra pagrindas šio termino praleidimo priežastis pripažinti svarbiomis.
 
 
 
 
-8. Šio straipsnio 7 dalyje numatytas generalinio prokuroro ar vidaus reikalų ministro sprendimas dėl skundo padavimo termino atnaujinimo gali būti apskųstas Lietuvos Aukščiausiajam Teismui.
+8. Šio straipsnio 7 dalyje nurodytas generalinio prokuroro sprendimas dėl skundo padavimo termino atnaujinimo gali būti apskųstas Lietuvos Aukščiausiajam Teismui.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
  
-
-
 
 
 
@@ -230,7 +234,10 @@ Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 
 
 
-8. Šio straipsnio 7 dalyje nurodytas sprendimas, jei yra Lietuvos Aukščiausiojo Teismo pirmininko, generalinio prokuroro ar vidaus reikalų ministro teikimas arba asmens, nurodyto šio įstatymo 4 straipsnio 6 dalyje skundas, taip pat jei kyla abejonių dėl nutarties teisėtumo ir pagrįstumo, Lietuvos Aukščiausiojo Teismo pirmininko teikimu gali būti kartu su medžiaga perduotas nagrinėti Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus septynių teisėjų kolegijai. Išnagrinėjusi byloje surinktą ir papildomai pateiktą medžiagą, ši kolegija gali priimti sprendimą panaikinti ar pakeisti šio straipsnio 7 dalyje nurodytą sprendimą arba atmesti teikimą.
+8. Šio straipsnio 7 dalyje nurodytas sprendimas, jeigu yra Lietuvos Aukščiausiojo Teismo pirmininko ar generalinio prokuroro teikimas arba šio įstatymo 4 straipsnio 6 dalyje nurodyto asmens skundas, taip pat jeigu kyla abejonių dėl nutarties teisėtumo ir pagrįstumo, Lietuvos Aukščiausiojo Teismo pirmininko teikimu gali būti kartu su medžiaga perduotas nagrinėti Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus išplėstinei septynių teisėjų kolegijai. Išnagrinėjusi byloje surinktą ir papildomai pateiktą medžiagą, ši kolegija gali priimti sprendimą panaikinti ar pakeisti šio straipsnio 7 dalyje nurodytą sprendimą arba atmesti teikimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
+ 
 
 
 
@@ -276,7 +283,10 @@ Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 
 
 
-2. Pareiškimą Lietuvos Aukščiausiajam Teismui dėl pilietinių teisių atkūrimo bylos atnaujinimo gali paduoti generalinis prokuroras, vidaus reikalų ministras, Lietuvos gyventojų genocido ir rezistencijos tyrimo centras, šio įstatymo 1 straipsnio 3 dalyje nurodyti asmenys, jų giminaičiai (sutuoktiniai, vaikai, įvaikiai, taip pat broliai ir seserys), politinė ar visuomeninė organizacija. Lietuvos Aukščiausiojo Teismo pirmininkas turi teisę šiuo klausimu teisėjų kolegijai paduoti teikimą.
+2. Pareiškimą Lietuvos Aukščiausiajam Teismui dėl pilietinių teisių atkūrimo bylos atnaujinimo gali paduoti generalinis prokuroras, Lietuvos gyventojų genocido ir rezistencijos tyrimo centras, šio įstatymo 1 straipsnio 3 dalyje nurodyti asmenys, jų sutuoktiniai, giminaičiai (vaikai, įvaikiai, vaikaičiai, taip pat broliai ir seserys), politinių kalinių ir tremtinių interesams atstovaujanti asociacija. Lietuvos Aukščiausiojo Teismo pirmininkas turi teisę šiuo klausimu teisėjų kolegijai paduoti teikimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
+ 
 
 
 
@@ -289,7 +299,10 @@ Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 4. Atnaujinus procesą dėl pilietinių teisių atkūrimo ir gavus Generalinės prokuratūros išvadą, kai jai buvo pavesta atlikti tyrimą, Lietuvos Aukščiausiojo Teismo pirmininkas ar šio teismo Baudžiamųjų bylų skyriaus pirmininkas bylą dėl pilietinių teisių atkūrimo perduoda nagrinėti:
 
 
-1) Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegijai, jeigu sprendimą išduoti asmeniui pažymėjimą arba atsisakyti jį išduoti priėmė Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros ar Vidaus reikalų ministerijos pareigūnas;
+1) Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegijai, jeigu sprendimą išduoti asmeniui pažymėjimą arba atsisakyti jį išduoti priėmė Lietuvos Aukščiausiojo Teismo ar Generalinės prokuratūros pareigūnas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
+ 
 
 
 
@@ -399,3 +412,8 @@ Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams rež
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
 Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo Nr. I-180 3 ir 5 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
+Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo Nr. I-180 2, 3, 4, 5 ir 6 straipsnių pakeitimo įstatymas
