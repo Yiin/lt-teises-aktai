@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -2457,7 +2457,10 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-6) greitosios medicinos pagalbos stotys ar skyriai; 
+6) neteko galios nuo 2023-07-01; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1112, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11873
+ 
 
 
 
@@ -2493,6 +2496,14 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 3) specializuotos ligoninės, medicininės reabilitacijos ir sanatorinio gydymo įstaigos;
+
+
+
+
+4) Greitosios medicinos pagalbos tarnyba.
+Papildyta straipsnio punktu:
+Nr. XIV-1112, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11873
+ 
 
 
 Straipsnio dalies pakeitimai:
