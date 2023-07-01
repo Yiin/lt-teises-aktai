@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
  
@@ -702,7 +702,10 @@ Nr. XIV-1847, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05747
 
 
 
-2) Politiniai kaliniai, tremtiniai ir buvę beglobiai vaikai, pateikę Lietuvos Respublikos teisėsaugos institucijų išduotus dokumentus (reabilitacijos pažymas), patvirtinančius politinių kalinių ir tremtinių  teisių atkūrimą, arba Lietuvos gyventojų genocido ir rezistencijos tyrimo centro išduotus nuo okupacijų nukentėjusio asmens – politinio kalinio, tremtinio ar buvusio beglobio vaiko teisinio statuso pažymėjimus;
+2) politiniai kaliniai, pateikę Lietuvos Aukščiausiojo Teismo ar Lietuvos Respublikos generalinės prokuratūros išduotus dokumentus (reabilitacijos pažymėjimus) arba Lietuvos gyventojų genocido ir rezistencijos tyrimo centro išduotus nuo okupacijų nukentėjusio asmens – politinio kalinio teisinio statuso pažymėjimus; tremtiniai, pateikę Lietuvos ypatingojo archyvo išduotas pažymas apie tremtį arba Lietuvos gyventojų genocido ir rezistencijos tyrimo centro išduotus nuo okupacijų nukentėjusio asmens – tremtinio teisinio statuso pažymėjimus; buvę beglobiai vaikai, pateikę Lietuvos gyventojų genocido ir rezistencijos tyrimo centro išduotus nuo okupacijų nukentėjusio asmens – buvusio beglobio vaiko teisinio statuso pažymėjimus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2028, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11847
+ 
 
 
 
@@ -1720,4 +1723,9 @@ Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 3 straipsnio pake
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1847, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05747
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 11 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2028, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11847
 Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 11 straipsnio pakeitimo įstatymas
