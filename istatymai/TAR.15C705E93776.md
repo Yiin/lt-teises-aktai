@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -1473,7 +1473,10 @@ Nr. X-1558, 2008-05-22, Žin., 2008, Nr. 65-2457 (2008-06-07)
 13 straipsnis. Kariuomenės vadas
 
 
-1. Kariuomenės vadą Lietuvos Respublikos Konstitucijos nustatyta tvarka skiria Respublikos Prezidentas. Paskirtas kariuomenės vadas pareigas eina ne ilgiau kaip 5 metus. Kariuomenės vadas, pradėdamas eiti pareigas, iškilmingoje aplinkoje prisiekia ir pasirašo priesaikos lapą.
+1. Kariuomenės vadą Lietuvos Respublikos Konstitucijos nustatyta tvarka skiria Respublikos Prezidentas. Kariuomenės vadu skiriamas karininkas, turintis ne žemesnį kaip brigados generolo (flotilės admirolo) laipsnį. Paskirtas kariuomenės vadas pareigas eina ne ilgiau kaip 5 metus. Kariuomenės vadas, pradėdamas eiti pareigas, iškilmingoje aplinkoje prisiekia ir pasirašo priesaikos lapą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
+ 
 
 
 
@@ -1799,10 +1802,11 @@ Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
 
 
 
-10. Kai kariuomenės vado nėra arba jis laikinai negali eiti pareigų, jį pavaduoja Gynybos štabo viršininkas arba krašto apsaugos ministro įsakymu paskirtas kitas karininkas, turintis generolo (admirolo) laipsnį. 
+10. Kai kariuomenės vado nėra arba jis laikinai negali eiti pareigų, jį pavaduoja Gynybos štabo viršininkas arba krašto apsaugos ministro įsakymu paskirtas kitas karininkas, turintis ne žemesnį kaip brigados generolo (flotilės admirolo) laipsnį.
 Straipsnio dalies pakeitimai:
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
  
 
 
@@ -4422,7 +4426,7 @@ seržantas majoras                               
 3) jaunesniųjų karininkų
 leitenantas                                                                            leitenantas
 vyresnysis leitenantas                                                            vyresnysis leitenantas
-kapitonas                                                                              kapitonas leitenantas 
+kapitonas                                                                              kapitonas leitenantas 
  
 
 
@@ -4440,7 +4444,10 @@ pulkininkas                                  �
 5) generolų ir admirolų
 brigados generolas                                                                flotilės admirolas
 generolas majoras                                                                 kontradmirolas
-generolas leitenantas                                                             viceadmirolas.
+generolas leitenantas                                                             viceadmirolas
+generolas                                                                              admirolas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
  
 
 
@@ -4646,16 +4653,20 @@ Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 
 
-8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 4 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus jį Gynybos štabo viršininku, kariuomenės pajėgų rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas. 
+8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 4 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus jį į brigados generolo (flotilės admirolo) laipsnį atitinkančias pareigas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
  
 
 
 
 
-9. Kariuomenės vadui, kai jis yra ištarnavęs generolu majoru (kontradmirolu) ne mažiau kaip 2 metus, gali būti suteikiamas generolo leitenanto (viceadmirolo) laipsnis.
+9. Karininką paskyrus kariuomenės vadu, jam suteikiamas generolo (admirolo) laipsnis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
+ 
 
 
 
@@ -6344,7 +6355,6 @@ ir karo tarnybos įstatymo
 1 priedas
  
 profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
- 
 (baziniais dydžiais)
 
 
@@ -6367,15 +6377,24 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 
  1. 
- Generolas leitenantas, viceadmirolas 
- 28 
- 28 
- 28 
- 28 
- 28 
+ Generolas, admirolas 
+ 30 
+ 30 
+ 30 
+ 30 
+ 30 
 
 
  2. 
+ Generolas leitenantas, viceadmirolas 
+ 28 
+ 28,3 
+ 28,3 
+ 28,3 
+ 28,3 
+
+
+ 3. 
  Generolas majoras, kontradmirolas 
  25,4 
  25,7 
@@ -6384,7 +6403,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  25,7 
 
 
- 3. 
+ 4. 
  Brigados generolas, flotilės admirolas 
  23 
  23,3 
@@ -6393,7 +6412,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  23,3 
 
 
- 4. 
+ 5. 
  Pulkininkas, jūrų kapitonas 
  20 
  20,3 
@@ -6402,7 +6421,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  20,9 
 
 
- 5. 
+ 6. 
  Pulkininkas leitenantas, komandoras 
  17,1 
  17,4 
@@ -6411,7 +6430,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  18,3 
 
 
- 6. 
+ 7. 
  Majoras, komandoras leitenantas 
  15 
  15,3 
@@ -6420,7 +6439,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  16,2 
 
 
- 7. 
+ 8. 
  Kapitonas, kapitonas leitenantas 
  13 
  13,2 
@@ -6429,7 +6448,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  13,6 
 
 
- 8. 
+ 9. 
  Vyresnysis leitenantas 
  11,7 
  11,9 
@@ -6438,7 +6457,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  12,1 
 
 
- 9. 
+ 10. 
  Leitenantas 
  9,8 
  10 
@@ -6447,7 +6466,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  10 
 
 
- 10. 
+ 11. 
  Seržantas majoras, vyresnysis laivūnas 
  14,4 
  14,7 
@@ -6456,7 +6475,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  15 
 
 
- 11. 
+ 12. 
  Viršila, laivūnas 
  12,2 
  12,4 
@@ -6465,7 +6484,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  12,6 
 
 
- 12. 
+ 13. 
  Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas 
  10,9 
  11,1 
@@ -6474,7 +6493,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  11,3 
 
 
- 13. 
+ 14. 
  Vyresnysis seržantas, vyresnysis seržantas specialistas 
  10 
  10,2 
@@ -6483,7 +6502,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  10,4 
 
 
- 14. 
+ 15. 
  Seržantas, seržantas specialistas 
  9 
  9,2 
@@ -6492,7 +6511,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  9,2 
 
 
- 15. 
+ 16. 
  Grandinis 
  8,4 
  8,6 
@@ -6501,7 +6520,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  8,6 
 
 
- 16. 
+ 17. 
  Vyresnysis eilinis, vyresnysis jūreivis 
  7,8 
  7,8 
@@ -6510,7 +6529,7 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  7,8 
 
 
- 17. 
+ 18. 
  Eilinis, jūreivis 
  7,1 
  7,1 
@@ -6519,23 +6538,26 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
  7,1 
 
 
- 18. 
+ 19. 
  Jaunesnysis eilinis, jaunesnysis jūreivis 
  6,9 
  6,9 
  6,9 
  6,9 
- 6,9“ 
+ 6,9 
 
 
 
+ 
+_______________
  
 Papildyta priedu:
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 Priedo pakeitimai:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
+Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
  
-part_83a75f5c39c54408a8abbf461780079a_end
+part_81ecee97689b42299ab64cc1ff841874_end
 
 
  
@@ -7083,6 +7105,11 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1646, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26594
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 18 ir 42 straipsnių pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 13, 52, 54 straipsnių ir 1 priedo pakeitimo įstatymas
  
  
 part_c0733c34aeee45b3bda56f58cd62ee8e_end
