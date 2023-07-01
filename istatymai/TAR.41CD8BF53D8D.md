@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-07-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -419,6 +419,14 @@ Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
  
 
 
+
+
+33) nacionalinių vizų išdavimą Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais, kai užsienio valstybė Lietuvos Respublikos piliečiams taiko ne mažiau palankias sąlygas.
+Papildyta straipsnio punktu:
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1077, 2002-09-17, Žin., 2002, Nr. 95-4086 (2002-10-02)
 Nr. X-359, 2005-09-29, Žin., 2005, Nr. 121-4333 (2005-10-11)
@@ -499,13 +507,14 @@ Nr. XI-1061, 2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
 8 straipsnis. Valstybės rinkliavos keitimas ar neėmimas
 
 
-Tais atvejais, kai pariteto pagrindais, taip pat kai tai būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose numatytus užsienio politikos ar nacionalinio saugumo tikslus, didinamas, mažinamas ar neimamas konsulinis mokestis už prašymų išduoti nacionalines vizas nagrinėjimą užsienio valstybių piliečiams ir asmenims be pilietybės, taip pat keičiama ar neimama ir valstybės rinkliava už prašymų išduoti nacionalines vizas nagrinėjimą. 
-Straipsnio pakeitimai:
+Lietuvos Respublikos Vyriausybė tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, turi teisę pariteto pagrindais, taip pat kai tai būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose numatytus užsienio politikos ar nacionalinio saugumo tikslus, užsienio valstybių piliečiams ir asmenims be pilietybės didinti, mažinti ar neimti valstybės rinkliavos už prašymų išduoti nacionalines vizas nagrinėjimą.
+
+
+ Straipsnio pakeitimai:
 Nr. XI-1462, 2011-06-20, Žin., 2011, Nr. 78-3801 (2011-06-30)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
+Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
  
 
 
