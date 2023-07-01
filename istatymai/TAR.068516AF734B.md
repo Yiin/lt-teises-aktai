@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-06-24 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -340,10 +340,11 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 
 
-2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį. Jeigu apdraustasis asmuo, turintis teisę gauti motinystės išmoką, per šioje dalyje nurodytą laikotarpį draudžiamųjų pajamų Lietuvoje neturėjo iš viso ar iš dalies dėl to, kad dirbo ir (ar) buvo draudžiamas užsienyje, kompensuojamasis uždarbis, pagal kurį nustatomas motinystės išmokos dydis, apskaičiuojamas iš paskutinių kalendorinių mėnesių, kuriais motinystės socialiniu draudimu apdraustasis asmuo Lietuvoje dirbo ir gavo draudžiamųjų pajamų, nurodytų šio įstatymo 3 straipsnio 2 dalyje, arba iš paeiliui einančių 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, draudžiamųjų pajamų Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka, taikant iš jų palankesnį kompensuojamojo uždarbio dydį.
+2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį. Jeigu apdraustasis asmuo, turintis teisę gauti motinystės išmoką, per visą ar dalį šioje dalyje nurodyto laikotarpio draudžiamųjų pajamų Lietuvoje neturėjo dėl to, kad dirbo ir (ar) buvo draudžiamas užsienyje, kompensuojamasis uždarbis, pagal kurį nustatomas motinystės išmokos dydis, apskaičiuojamas pagal paskutinių kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, kuriais motinystės socialiniu draudimu apdraustasis asmuo Lietuvoje dirbo ir (ar) gavo draudžiamųjų pajamų, nurodytų šio įstatymo 3 straipsnio 2 dalyje, arba pagal paeiliui einančių 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, draudžiamąsias pajamas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka, taikant palankesnį kompensuojamojo uždarbio dydį. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -357,7 +358,9 @@ Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
 
 
 
-4. Jeigu vidutinis mėnesinis kompensuojamasis uždarbis ligos išmokai apskaičiuoti yra mažesnis negu 15 procentų šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki nedarbingumo atsiradimo mėnesio, ši išmoka skaičiuojama taikant pastarąjį dydį. Jeigu profesinės reabilitacijos išmokos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis yra mažesnis už profesinės reabilitacijos programos pradžios mėnesį galiojusių dviejų valstybinių socialinio draudimo bazinių pensijų sumą, profesinės reabilitacijos išmoka skaičiuojama pagal pastarąjį dydį.
+4. Neteko galios nuo 2023-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
  
@@ -993,9 +996,10 @@ Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 
 
 
-2. Motinystės išmoka per mėnesį negali būti mažesnė už 6 bazinės socialinės išmokos, kurios dydį Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą ketvirtį iki teisės gauti motinystės išmoką atsiradimo dienos.
+2. Motinystės išmoka per mėnesį negali būti mažesnė už 8 bazinės socialinės išmokos, kurios dydį Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą mėnesį iki teisės gauti motinystės išmoką atsiradimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -1109,9 +1113,10 @@ Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 
 
 
-2. Tėvystės išmoka per mėnesį negali būti mažesnė už 6 bazinės socialinės išmokos, kurios dydį Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą ketvirtį iki teisės gauti tėvystės išmoką atsiradimo dienos.
+2. Tėvystės išmoka per mėnesį negali būti mažesnė už 8 bazinės socialinės išmokos, kurios dydį Socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą mėnesį iki teisės gauti tėvystės išmoką atsiradimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -1369,7 +1374,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-5. Vaiko priežiūros išmoka per mėnesį negali būti mažesnė už 6 bazinės socialinės išmokos, kurios dydį Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą ketvirtį iki teisės gauti vaiko priežiūros išmoką atsiradimo dienos.
+5. Vaiko priežiūros išmoka per mėnesį negali būti mažesnė už 8 bazinės socialinės išmokos, kurios dydį Socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą mėnesį iki teisės gauti vaiko priežiūros išmoką atsiradimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+ 
 
 
 
@@ -1709,7 +1717,7 @@ priedas
 Papildyta priedu:
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
  
-part_ad3d45877cb2495a8dba30fdb6868f1d_end
+part_b6a6c20a639048c89688f2f5f2c542c1_end
 
 
  
