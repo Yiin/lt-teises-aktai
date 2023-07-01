@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-05
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -2087,15 +2087,19 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 38 straipsnis. Mokymosi pasiekimų vertinimas
 
 
-1. Mokymosi pasiekimų vertinimo paskirtis – padėti mokiniui pasitikrinti mokymosi pažangą, nustatyti jo pasiekimus ir, palyginus su bendrosiose programose nustatytais pasiekimų lygiais ar (ir) profesiniais standartais, padėti priimti sprendimus dėl tolesnio mokymosi ar veiklos. 
+1. Mokymosi pasiekimų vertinimo ugdymo (ugdymosi) procese paskirtis – padėti mokiniui pasitikrinti individualią mokymosi pažangą, nustatyti jo pasiekimus ir, palyginus su bendrosiose programose nustatytais pasiekimų lygiais ar (ir) profesiniais standartais, rekomenduoti priimti sprendimus dėl tolesnio mokymosi bendrojo ugdymo mokykloje, profesinio mokymo įstaigoje ar aukštojoje mokykloje. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
 
 
-2. Mokymosi pasiekimus įsivertina mokinys, vertina mokytojas, švietimo teikėjas, mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija ar jos įgaliotas asmuo (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų), Švietimo ir mokslo ministerija ir jos įgaliotos institucijos.
+2. Mokymosi pasiekimus įsivertina mokinys, vertina mokytojas, švietimo teikėjas, mokyklos savininko teises ir pareigas įgyvendinanti institucija (valstybinės mokyklos – biudžetinės įstaigos), savivaldybės vykdomoji institucija ar jos įgaliotas asmuo (savivaldybės mokyklos – biudžetinės įstaigos), savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) (valstybinės ir savivaldybės mokyklos – viešosios įstaigos), savininkas (dalyvių susirinkimas) (kitų mokyklų), švietimo, mokslo ir sporto ministro įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -2105,11 +2109,12 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-4. Švietimo, mokslo ir sporto ministro įgaliotos institucijos ir savivaldybių vykdomosios institucijos organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas mokymosi pasiekimų patikrinimų programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą (nacionalinio mokinių pasiekimų patikrinimo, pagrindinio ugdymo pasiekimų patikrinimo ir brandos egzaminų).
+4. Švietimo, mokslo ir sporto ministro įgaliota institucija ir savivaldybės vykdomoji institucija organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas mokymosi pasiekimų patikrinimų programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą (nacionalinio mokinių pasiekimų patikrinimo, pagrindinio ugdymo pasiekimų patikrinimo ir brandos egzaminų). 
 4 dalies redakcija nuo 2024-09-01:
 4. Švietimo, mokslo ir sporto ministro įgaliotos institucijos ir savivaldybių vykdomosios institucijos organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas bendrąsias programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
@@ -2342,9 +2347,10 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 
 
-7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo ir mokslo ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, pagal Vyriausybės patvirtintus kriterijus priskirta prie miesto pakraščio mokyklų; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties programą, kuriai reikalingas ugdymo nuoseklumas, mokykla, kurioje ne mažiau kaip 15 procentų visų mokinių yra didelių ir labai didelių specialiųjų ugdymosi poreikių ir (ar) vidutinį ir sunkų neįgalumą turintys mokiniai ir kuri atitinka Vyriausybės patvirtintus kriterijus) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą, vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis.
+7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo, mokslo ir sporto ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, pagal Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus kriterijus priskirta prie miesto pakraščio mokyklų; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties programą, kuriai reikalingas ugdymo nuoseklumas, ir atitinkanti Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus kriterijus; mokykla, kurioje ne mažiau kaip 15 procentų visų mokinių yra didelių ir labai didelių specialiųjų ugdymosi poreikių ir (ar) vidutinį ir sunkų neįgalumą turintys mokiniai; savivaldybės kadetų ugdymo mokykla, skirta šalies (regiono) mokiniams) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą, vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2090, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07327
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
@@ -2513,7 +2519,10 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-7. Mokykloje gali būti vykdomos tik Studijų, mokymo programų ir kvalifikacijų registre įregistruotos formaliojo švietimo programos. Mokykla bendrojo ugdymo programas gali vykdyti, jei atitinka Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus bendruosius ir specialiuosius kriterijus. Mokykla formaliojo profesinio mokymo programas gali vykdyti tik turėdama švietimo ir mokslo ministro išduotą licenciją, už kurios išdavimą, papildymą ar patikslinimą mokama valstybės rinkliava. Formaliojo profesinio mokymo licencijavimo taisykles tvirtina Vyriausybė.
+7. Mokykloje gali būti vykdomos tik Studijų, mokymo programų ir kvalifikacijų registre įregistruotos formaliojo švietimo programos. Mokykla bendrojo ugdymo programas gali vykdyti, jeigu atitinka Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus bendruosius ir specialiuosius kriterijus. Mokykla formaliojo profesinio mokymo programas gali vykdyti tik turėdama Profesinio mokymo įstatymo nustatyta tvarka išduotą licenciją, už kurios išdavimą, papildymą ar patikslinimą mokama valstybės rinkliava. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -2605,9 +2614,10 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-2. Savivaldybės taryba neformaliojo švietimo mokyklas (biudžetines įstaigas) reorganizuoja, likviduoja ar pertvarko savarankiškai, bendrojo ugdymo mokyklas (biudžetines įstaigas) – vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigas (biudžetines įstaigas) – Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Savivaldybės neformaliojo švietimo mokyklos (viešosios įstaigos) reorganizuojamos, likviduojamos ar pertvarkomos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, bendrojo ugdymo mokyklos (viešosios įstaigos), profesinio mokymo įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Tais atvejais, kai savivaldybės tarybos sprendimų projektai dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo prieštarauja mokyklos bendruomenės sprendimams, siūlymus dėl tokios mokyklos reorganizavimo, likvidavimo ir pertvarkymo pateikia Švietimo ir mokslo ministerija. Mokyklos bendruomenės sprendimų priėmimo tvarką nustato švietimo ir mokslo ministras. 
+2. Savivaldybės taryba neformaliojo švietimo mokyklas (biudžetines įstaigas) reorganizuoja, likviduoja ar pertvarko savarankiškai, bendrojo ugdymo mokyklas (biudžetines įstaigas) – vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigas (biudžetines įstaigas) – Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Savivaldybės neformaliojo švietimo mokyklos (viešosios įstaigos) reorganizuojamos, likviduojamos ar pertvarkomos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, bendrojo ugdymo mokyklos (viešosios įstaigos), profesinio mokymo įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Tais atvejais, kai savivaldybės tarybos ar dalyvių susirinkimo sprendimų projektai dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo prieštarauja mokyklos bendruomenės sprendimams, siūlymus dėl tokios mokyklos reorganizavimo, likvidavimo ir pertvarkymo pateikia švietimo, mokslo ir sporto ministro įgaliota institucija. Mokyklos bendruomenės sprendimų priėmimo tvarką nustato švietimo, mokslo ir sporto ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
@@ -3337,24 +3347,32 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-2) Vyriausybė, Švietimo ir mokslo ministerija, kitos ministerijos, Vyriausybės įstaigos;
+2) Vyriausybė, Švietimo, mokslo ir sporto ministerija, kitos ministerijos, Vyriausybės įstaigos;
 
 
 
 
-3) savivaldybės institucijos;
+3) švietimo, mokslo ir sporto ministro įgaliota institucija;
 
 
 
 
-4) nevalstybinės mokyklos savininkas (dalyvių susirinkimas);
+4) savivaldybės institucijos;
 
 
 
 
-5) švietimo įstaigos vadovas.
+5) nevalstybinės mokyklos savininkas (dalyvių susirinkimas);
 
 
+
+
+6) švietimo įstaigos vadovas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -3367,7 +3385,7 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-53 straipsnis. Švietimo stebėsena
+53 straipsnis. Švietimo stebėsena 
 
 
 1. Švietimo stebėsenos paskirtis – sudaryti sąlygas visiems švietimo valdymo subjektams priimti pagrįstus sprendimus ir vykdyti švietimo kokybę laiduojantį valdymą.
@@ -3375,32 +3393,27 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-2. Valstybės švietimo stebėseną, vadovaudamosi švietimo ir mokslo ministro patvirtintais švietimo stebėsenos rodikliais ir jo nustatyta tvarka, vykdo Švietimo ir mokslo ministerija bei kitos švietimo ir mokslo ministro įgaliotos įstaigos, savivaldybių administracijos, mokyklos. 
+2. Valstybės švietimo stebėseną, vadovaudamosi švietimo, mokslo ir sporto ministro patvirtintais švietimo stebėsenos rodikliais ir jo nustatyta tvarka, vykdo Švietimo, mokslo ir sporto ministerija, švietimo, mokslo ir sporto ministro įgaliota institucija bei kitos švietimo, mokslo ir sporto ministro įgaliotos įstaigos, savivaldybių administracijos, mokyklos.
 
 
 
 
-3. Švietimo ir mokslo ministerija kiekvienais metais paskelbia pranešimą apie švietimo sistemos būklę šalyje ir regionuose.
+3. Švietimo, mokslo ir sporto ministro įgaliota institucija kiekvienais metais paskelbia pranešimą apie ikimokyklinio, priešmokyklinio ir bendrojo ugdymo būklę šalyje ir regionuose. 
 
 
 
 
 4. Asmens duomenys Švietimo valdymo informacinėje sistemoje tvarkomi Vyriausybės tvirtinamuose Švietimo valdymo informacinės sistemos nuostatuose nustatyta tvarka.
-Papildyta straipsnio dalimi:
-Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
+
+
+
+
+5. Švietimo, mokslo ir sporto ministro įgaliotai institucijai nustačius, kad mokykloje nesudarytos sąlygos užtikrinti švietimo kokybę laiduojantį valdymą, švietimo, mokslo ir sporto ministro įgaliota institucija gali kreiptis į savininko teises ir pareigas įgyvendinančią instituciją (dalyvių susirinkimą) dėl kokybiško valdymo užtikrinimo. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
-
-
-
-
-5. Švietimo, mokslo ir sporto ministro įgaliotai įstaigai nustačius, kad mokykloje nėra sudarytos sąlygos užtikrinti švietimo kokybę laiduojantį valdymą, švietimo, mokslo ir sporto ministras gali kreiptis į savininko teises ir pareigas įgyvendinančią instituciją (dalyvių susirinkimą) dėl kokybiško valdymo užtikrinimo.
-Papildyta straipsnio dalimi:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Straipsnio dalies pakeitimai:
-Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
- 
-
-
 
 
 
@@ -3486,155 +3499,125 @@ Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 
 
 
-56 straipsnis. Švietimo ir mokslo ministerijos įgaliojimai 
+56 straipsnis. Švietimo, mokslo ir sporto ministerijos ir švietimo, mokslo ir sporto ministro įgaliojimai
 
 
-Švietimo ir mokslo ministerija yra įgaliota:
+1. Švietimo, mokslo ir sporto ministerija:
 
 
-1) dalyvauti formuojant, vykdyti ir užtikrinti valstybinę švietimo politiką; 
+1) formuoja valstybinę švietimo politiką, taip pat organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
 
 
 
-11) dalyvauti rengiant Nacionalinį pažangos planą dėl švietimo politikos strateginių tikslų ir pažangos uždavinių nustatymo; 
-Papildyta straipsnio punktu:
-Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
+2) kai rengiamas Nacionalinis pažangos planas, teikia pasiūlymus dėl švietimo politikos strateginių tikslų ir pažangos uždavinių nustatymo;
+
+
+
+
+3) rengia švietimo politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+
+
+
+
+4) atsako už švietimo kokybę;
+
+
+
+
+5) teikia Vyriausybei siūlymus ir nutarimų projektus: dėl įstatymų ir kitų teisės aktų rengimo bei tobulinimo; dėl švietimo finansavimo, mokyklų materialinės bazės, disponavimo mokyklų turtu;
+
+
+
+
+6) valdo Studijų, mokymo programų ir kvalifikacijų registrą, steigia ir valdo žinybinius registrus ir valstybės informacines sistemas ir valdo valstybės informacinėse sistemose tvarkomus asmens duomenis;
+
+
+
+
+7) bendradarbiauja su savivaldybių administracijų švietimo padaliniais dėl valstybės švietimo politikos formavimo ir įgyvendinimo, teikia Vyriausybei tvirtinti bendruosius jų nuostatus;
+
+
+
+
+8) koordinuoja profesinio mokymo įstaigų ir bendrojo ugdymo mokyklų, skirtų šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, tinklo kūrimą;
+
+
+
+
+9) organizuoja ir koordinuoja informacijos apie profesinio mokymo įstaigas ir jų vykdomas profesinio mokymo programas sklaidą, siekiant didinti profesinio mokymo patrauklumą;
+
+
+
+
+10) bendradarbiauja su atitinkamomis užsienio valstybių institucijomis ir tarptautinėmis organizacijomis, finansuoja ar kitaip skatina užsienyje gyvenančių lietuvių veiklą švietimo ir studijų srityse, atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose;
+
+
+
+
+11) organizuoja mokyklų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės, kaip savininkės ar dalininkės, teises ir pareigas, mokytojų, švietimo pagalbos specialistų atestaciją; 
+
+
+
+
+12) organizuoja ir koordinuoja valstybės paramos ir pagalbos teikimą lituanistiniam švietimui užsienyje, užsieniečių lietuvių kalbos mokymuisi; analizuoja, ar tinkamai naudojamos švietimui skirtos valstybės biudžeto lėšos, informuoja visuomenę apie bendrąją švietimo būklę šalyje; 
+
+
+
+
+13) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+
+
+
+
+
+
+2. Švietimo, mokslo ir sporto ministras:
+
+
+1) tvirtina vidurinio ugdymo programų akreditacijos kriterijus ir jos vykdymo tvarkos aprašą; nustato prevencinių programų kriterijus ir atitikties jiems vertinimo tvarką; kas dveji metai atnaujina ir iki einamųjų metų kovo 1 dienos tvirtina bendruosius ugdymo planus;
+
+
+
+
+2) tvirtina Nuosekliojo mokymosi pagal bendrojo ugdymo programas tvarkos aprašą;
+
+
+
+
+3) tvirtina valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų veiklos vertinimo nuostatus, mokytojų ir pagalbos mokiniui specialistų atestacijos nuostatus ir kompetencijų aprašą, pedagogų rengimo reglamentą, švietimo įstaigų vadovų rezervo reglamentą, valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų, mokytojų ir pagalbos mokiniui specialistų mentorystės ir palydėjimo į profesinę veiklą tvarkos aprašą;
+
+
+
+
+4) nustato valstybės biudžeto lėšų skyrimo konkurso būdu įstaigoms, įmonėms ir organizacijoms, valstybės narės juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikos teisės aktų nustatyta tvarka, vykdantiems švietimo, mokslo, kultūros ir sporto programas, projektus, tvarką;
+
+
+
+
+5) tvirtina rekomendacijas dėl prevencinių programų įgyvendinimo mokyklose;
+
+
+
+
+6) nustato kvalifikacinius reikalavimus savivaldybių administracijų švietimo padalinių vadovams ir specialistams;
+
+
+
+
+7) tvirtina mokinių, išskyrus besimokančius pagal aukštojo mokslo programas, nelaimingų atsitikimų tyrimo tvarkos aprašą;
+
+
+
+
+8) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
-
-
-
-
-12) rengti švietimo politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoti, koordinuoti ir kontroliuoti jų įgyvendinimą;
-Papildyta straipsnio punktu:
-Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
- 
-
-
-
-
-2) atsakyti už švietimo kokybę;
-
-
-
-
-3) teikti Vyriausybei siūlymus ir nutarimų projektus: dėl įstatymų ir kitų teisės aktų rengimo bei tobulinimo; dėl švietimo finansavimo, mokyklų materialinės bazės, disponavimo mokyklų turtu; 
-
-
-
-
-4) valdyti Studijų, mokymo programų ir kvalifikacijų registrą, steigti ir valdyti žinybinius registrus ir valstybės informacines sistemas ir valdyti valstybės informacinėse sistemose tvarkomus asmens duomenis;
-Straipsnio punkto pakeitimai:
-Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
- 
-
-
-
-
-5) koordinuoti savivaldybių administracijų švietimo padalinių veiklą įgyvendinant valstybės švietimo politiką, teikti Vyriausybei tvirtinti bendruosius jų nuostatus; nustatyti kvalifikacinius reikalavimus savivaldybių administracijų švietimo padalinių vadovams ir specialistams;
-
-
-
-
-6) koordinuoti profesinio mokymo įstaigų ir bendrojo ugdymo mokyklų, skirtų šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, tinklo kūrimą;
-
-
-
-
-7) organizuoti ir koordinuoti vidurinio ugdymo programų akreditavimą;
-
-
-
-
-8) Vyriausybės nustatyta tvarka išduoti licencijas formaliojo profesinio mokymo programoms vykdyti;
-
-
-
-
-9) organizuoti ir koordinuoti informacijos apie profesinio mokymo įstaigas ir jų vykdomas profesinio mokymo programas sklaidą, siekiant didinti profesinio rengimo ir mokymo patrauklumą; 
-Papildyta straipsnio punktu:
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
-10) palaikyti ryšius su atitinkamomis užsienio valstybių institucijomis ir tarptautinėmis organizacijomis, skatinti savarankišką šalies mokyklų ir organizacijų bendradarbiavimą su atitinkamomis kitų užsienio valstybių mokyklomis ir organizacijomis, finansuoti ar kitaip skatinti užsienyje gyvenančių lietuvių veiklą švietimo ir studijų srityse, atstovauti Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose; 
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
-11) organizuoti mokyklų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės kaip savininkės ar dalininkės teises ir pareigas, mokytojų, švietimo pagalbos specialistų atestaciją;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
-12) tvirtinti ikimokyklinio ugdymo programų kriterijus, Priešmokyklinio ugdymo bendrąją programą, formaliojo švietimo bendrąjį ugdymo, mokymo turinį (pradinio, pagrindinio, vidurinio ugdymo programų aprašus, bendrąsias programas, ugdymo, mokymo planus), kurį tvirtina švietimo, mokslo ir sporto ministras; Vidurinio ugdymo programų akreditacijos kriterijus ir jos vykdymo tvarkos aprašą; bendruosius iš valstybės ar savivaldybių biudžetų finansuojamų formalųjį švietimą papildančio švietimo (ugdymo) neformaliojo švietimo programų kriterijus, kuriuos tvirtina švietimo, mokslo ir sporto ministras; kas dveji metai atnaujinti ir iki einamųjų metų kovo 1 dienos tvirtinti bendruosius ugdymo planus;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1781, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20999
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
-13) tvirtinti Nuosekliojo mokymosi pagal bendrojo ugdymo programas tvarkos aprašą, Priešmokyklinio ugdymo tvarkos aprašą; 
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
-14) tvirtinti valstybinių ir savivaldybių švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų kvalifikacijos tobulinimo ir veiklos vertinimo nuostatus, mokytojų, pagalbos mokiniui specialistų kvalifikacijos tobulinimo ir atestacijos nuostatus, pedagogų rengimo reglamentą, vadovų rezervo reglamentą;
-Straipsnio punkto pakeitimai:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
-15) rūpintis lietuvių kalbos mokymu ir mokymu lietuvių kalba užsienio valstybėse; analizuoti, ar tinkamai naudojamos švietimui skirtos valstybės biudžeto lėšos, atsiskaityti visuomenei už bendrąją švietimo būklę šalyje ir atlikti kitas įstatymų ir Vyriausybės nustatytas funkcijas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
-16) konkurso tvarka skirti biudžeto lėšas įstaigoms, įmonėms ir organizacijoms, vykdančioms švietimo, mokslo, kultūros ir sporto programas, projektus;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
-17) parengti rekomendacijas dėl smurto prevencijos įgyvendinimo mokyklose. 
-Papildyta straipsnio punktu:
-Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
- 
-
-
-
-
 
 
 
@@ -3726,6 +3709,84 @@ Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
 
 Straipsnio pakeitimai:
 Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
+ 
+
+
+
+
+564 straipsnis. Švietimo, mokslo ir sporto ministro įgaliotos institucijos įgaliojimai
+
+
+Švietimo, mokslo ir sporto ministro įgaliota institucija:
+
+
+1) vykdo mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, kitus egzaminus, įskaitas ir kitus mokymosi pasiekimų patikrinimus), nacionalinius ir tarptautinius mokinių pasiekimų tyrimus;
+
+
+
+
+2) organizuoja užsienio lietuvių ir užsieniečių lietuvių kalbos pasiekimų vertinimą;
+
+
+
+
+3) užtikrina ikimokyklinio, priešmokyklinio ir bendrojo ugdymo kokybę; 
+
+
+
+
+4) atlieka valstybinę švietimo teikėjų (išskyrus aukštąsias mokyklas) veiklos priežiūrą; 
+
+
+
+
+5) vykdo vidurinio ugdymo programų akreditavimą;
+
+
+
+
+6) vykdo bendrojo ugdymo dalykų vadovėlių ir mokymo priemonių kokybės priežiūrą;
+
+
+
+
+7) atlieka vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimą;
+
+
+
+
+8) administruoja ir (ar) įgyvendina, ir (ar) finansuoja priemones, projektus, skirtus ikimokyklinio, priešmokyklinio ir bendrojo ugdymo politikos tęstinės veiklos ir (ar) pažangos uždaviniams įgyvendinti, priima sprendimus dėl finansavimo skyrimo šias priemones įgyvendinantiems projektams;
+
+
+
+
+9) konsultuoja savivaldybių administracijų švietimo padalinius dėl valstybės ikimokyklinio, priešmokyklinio ir bendrojo ugdymo politikos įgyvendinimo;
+
+
+
+
+10) vykdo mokyklų, vykdančių ikimokyklinio, priešmokyklinio, bendrojo ugdymo programas, veiklos kokybės išorinį vertinimą;
+
+
+
+
+11) kiekvienais metais iki rugpjūčio 31 dienos parengia pranešimą apie ikimokyklinio, priešmokyklinio ir bendrojo ugdymo būklę šalyje ir regionuose ir teikia išvadas Švietimo, mokslo ir sporto ministerijai dėl reikalingo ikimokyklinio, priešmokyklinio ir bendrojo ugdymo sistemos tobulinimo; 
+
+
+
+
+12) teikia siūlymus Švietimo, mokslo ir sporto ministerijai dėl rengiamų teisės aktų projektų;
+
+
+
+
+13) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
@@ -3964,7 +4025,10 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-11. Valstybinių švietimo įstaigų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo viešam konkursui švietimo įstaigos vadovo pareigoms eiti sudaro komisiją. Į viešo konkurso mokyklų vadovo pareigoms eiti komisiją 2 narius siūlo skirti valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo, po vieną narį siūlo skirti Švietimo, mokslo ir sporto ministerija, švietimo įstaigų vadovų ar atitinkamo tipo švietimo įstaigų asociacija, taip pat valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo kviečia vieną mokyklos socialinių partnerių atstovą, 2 narius siūlo skirti mokyklos taryba savo sprendimu (mokinys gali būti siūlomas, jei jam yra sukakę 16 metų). Viešo konkurso švietimo įstaigos vadovo pareigoms eiti komisijos nariu gali būti tik asmuo, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos. Šios komisijos nariais negali būti valstybės politikai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Komisijos sudėtis skelbiama viešai švietimo įstaigos interneto svetainėje.
+11. Valstybinių švietimo įstaigų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo viešam konkursui švietimo įstaigos vadovo pareigoms eiti sudaro komisiją. Į viešo konkurso mokyklų vadovo pareigoms eiti komisiją 2 narius siūlo skirti valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo, po vieną narį siūlo skirti švietimo, mokslo ir sporto ministro įgaliota institucija, švietimo įstaigų vadovų ar atitinkamo tipo švietimo įstaigų asociacija, taip pat valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo kviečia vieną mokyklos socialinių partnerių atstovą, 2 narius siūlo skirti mokyklos taryba savo sprendimu (mokinys gali būti siūlomas, jei jam yra sukakę 16 metų). Viešo konkurso švietimo įstaigos vadovo pareigoms eiti komisijos nariu gali būti tik asmuo, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos. Šios komisijos nariais negali būti valstybės politikai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Komisijos sudėtis skelbiama viešai švietimo įstaigos interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -4156,7 +4220,10 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-3. Valstybinę švietimo teikėjų veiklos priežiūrą atlieka Švietimo ir mokslo ministerija. 
+3. Valstybinę švietimo teikėjų (išskyrus aukštąsias mokyklas) veiklos priežiūrą atlieka švietimo, mokslo ir sporto ministro įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
@@ -4171,9 +4238,11 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-6. Švietimo ir mokslo ministro nustatyta tvarka savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) vykdo švietimo įstaigos veiklos kokybės gerinimo priežiūrą, atsižvelgdama (atsižvelgdamas) į vadovo metų veiklos ataskaitos vertinimo rezultatus. 
+6. Švietimo, mokslo ir sporto ministro nustatyta tvarka savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) vykdo švietimo įstaigos veiklos kokybės gerinimo priežiūrą, atsižvelgdama (atsižvelgdamas) į švietimo, mokslo ir sporto ministro įgaliotos institucijos pateiktas rekomendacijas, vadovo metų veiklos vertinimo rezultatus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
+Straipsnio dalies pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
  
 
 
@@ -4256,7 +4325,10 @@ Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
 4. Ūkio lėšos mokykloms (išskyrus aukštąsias mokyklas) skiriamos:
 
 
-1) savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, atitinkančioms Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytą paskirtį ir kriterijus, taip pat savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, ir vykdančioms ikimokyklinio ir priešmokyklinio ugdymo programas, skiriamos iš Lietuvos Respublikos atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką ir iš savivaldybių biudžetų asignavimų;
+1) savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, savivaldybių kadetų ugdymo mokykloms, skirtoms šalies (regiono) mokiniams, atitinkančioms Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytą paskirtį ir kriterijus, taip pat savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, ir vykdančioms ikimokyklinio ir priešmokyklinio ugdymo programas, skiriamos iš Lietuvos Respublikos atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką ir iš savivaldybių biudžetų asignavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+ 
 
 
 
