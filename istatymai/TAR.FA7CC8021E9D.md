@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA7CC8021E9D"
 
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 66-1609, i. k. 0971010ISTAVIII-342
  
@@ -327,7 +327,10 @@ Nr. XI-260, 2009-05-14, Žin., 2009, Nr. 64-2546 (2009-05-30), i. k. 1091010ISTA
 
 
 
-3. Asmeniui, kuriam buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje), pateikus Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros ir Vidaus reikalų ministerijos bei kitų valstybių įgaliotų institucijų išduotus dokumentus, kad nėra duomenų apie šio apribojimo panaikinimo datą, leidimo grįžti ir gyventi data 5 straipsnio 1 dalyje ir 2 dalies 1 punkte išvardytais atvejais laikoma faktinio grįžimo į Lietuvą data, bet ne vėlesnė kaip iki 1990 m. kovo 11 d.
+3. Asmeniui, kuriam buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje), pateikus Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros ir Lietuvos ypatingojo archyvo bei kitų valstybių įgaliotų institucijų išduotus dokumentus, kad nėra duomenų apie šio apribojimo panaikinimo datą, leidimo grįžti ir gyventi data šio straipsnio 1 dalyje ir 2 dalies 1 punkte išvardytais atvejais laikoma faktinio grįžimo į Lietuvą data, bet ne vėlesnė kaip iki 1990 m. kovo 11 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2032, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11849
+ 
 
 
 
@@ -735,4 +738,9 @@ Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, t
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2325, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12118
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2032, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11849
 Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas
