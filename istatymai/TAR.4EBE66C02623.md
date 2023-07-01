@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2023-06-24 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-11
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -4131,22 +4131,21 @@ užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešim
 
 
 
-122 straipsnis. Autorių teisių ir gretutinių teisių pažeidimas
+122 straipsnis. Autorių teisių ir gretutinių teisių pažeidimas 
 
 
-1. Neteisėtas autorių teisių ar gretutinių teisių objekto arba jų dalies viešas atlikimas, atgaminimas, viešas paskelbimas, kitoks panaudojimas bet kokiais būdais ir priemonėmis nekomerciniais tikslais
+1. Neteisėtas autorių teisių ar gretutinių teisių objekto arba jų dalies viešas atlikimas, atgaminimas, viešas paskelbimas, įskaitant padarymą viešai prieinamo kompiuterių tinklais (internete), kitoks panaudojimas bet kokiais būdais ir priemonėmis nekomerciniais tikslais
 užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų. 
 
 
 
 
-3. Autorių teisių ar gretutinių teisių objekto neteisėtų kopijų platinimas, gabenimas ar laikymas komerciniais tikslais, jeigu jų vertė pagal teisėtų kopijų, o kai jų nėra, – pagal atgamintų kūrinių originalų kainas neviršija keturių šimtų bazinių bausmių ir nuobaudų dydžių,
+3. Neteisėtas autorių teisių ar gretutinių teisių objekto arba jų dalies viešas atlikimas, atgaminimas, viešas paskelbimas, įskaitant padarymą viešai prieinamo kompiuterių tinklais (internete), kitoks panaudojimas bet kokiais būdais ir priemonėmis komerciniais tikslais, taip pat autorių teisių ar gretutinių teisių objekto neteisėtų kopijų platinimas, gabenimas ar laikymas komerciniais tikslais 
 užtraukia baudą nuo trijų šimtų iki trijų tūkstančių penkių šimtų eurų.
 
 
@@ -4158,7 +4157,7 @@ užtraukia baudą nuo septynių šimtų iki keturių tūkstančių penkių šimt
 
 
 
-5. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus privaloma skirti autorių teisių ar gretutinių teisių objekto neteisėtų kopijų konfiskavimą. Už šio straipsnio 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti autorių teisių ar gretutinių teisių objekto neteisėtų kopijų ir jų gamybos priemonių ar įrangos konfiskavimą.
+5. Už šio straipsnio 1 dalyje numatytus administracinius nusižengimus privaloma skirti autorių teisių ar gretutinių teisių objekto neteisėtų kopijų konfiskavimą. Už šio straipsnio 2, 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti autorių teisių ar gretutinių teisių objekto neteisėtų kopijų ir jų gamybos priemonių ar įrangos konfiskavimą.
 
 
 
@@ -4168,6 +4167,8 @@ užtraukia baudą nuo septynių šimtų iki keturių tūkstančių penkių šimt
 
 Straipsnio pakeitimai:
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
+Nr. XIV-2026, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11218
+Nr. XIV-2080, 2023-06-20, paskelbta TAR 2023-06-26, i. k. 2023-12756
  
 
 
@@ -8298,10 +8299,12 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 
 
-9. Lengvųjų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikinius pirkinių maišelius, neatlygintinas dalijimas prekių ar produktų pardavimo vietose
-užtraukia įspėjimą arba baudą pakuočių pardavėjams ir (ar) platintojams fiziniams asmenims nuo trisdešimt iki šešiasdešimt eurų ir baudą pakuočių pardavėjų ir (ar) platintojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto iki dviejų šimtų eurų. 
+9. Lengvųjų ir (arba) labai lengvų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikinius pirkinių maišelius, į kuriuos pakuojami šviežia mėsa ir jos produktai, šviežios žuvys ir jų produktai, neatlygintinas dalijimas prekių ar produktų pardavimo vietose
+užtraukia įspėjimą arba baudą pakuočių pardavėjams ir (ar) platintojams fiziniams asmenims nuo trisdešimt iki šešiasdešimt eurų ir baudą pakuočių pardavėjų ir (ar) platintojų juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto iki dviejų šimtų eurų.
 Papildyta straipsnio dalimi:
 Nr. XIII-2800, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02852
+Straipsnio dalies pakeitimai:
+Nr. XIV-1565, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24645
  
 
 
@@ -18609,15 +18612,30 @@ Nr. XIV-2077, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12587
 489 straipsnis. Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo pažeidimas
 
 
-Melagingas pranešimas apie smurtą artimoje aplinkoje ar piktnaudžiavimas smurtą patyrusio asmens teisėmis
-
-
-
-
+1. Piktnaudžiavimas smurto artimoje aplinkoje pavojų patiriančių asmenų ar smurtą patyrusių asmenų teisėmis
 užtraukia baudą nuo keturiolikos iki trisdešimt eurų.
+
+
+
+
+2. Apsaugos nuo smurto artimoje aplinkoje orderio įpareigojimų nesilaikymas
+užtraukia baudą nuo aštuoniasdešimt iki trijų šimtų dvidešimt eurų. 
+
+
+
+
+3. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo trijų šimtų iki septynių šimtų aštuoniasdešimt eurų.
+
+
+
+
+4. Už šio straipsnio 2, 3 dalyse numatytus administracinius nusižengimus gali būti skiriama administracinio poveikio priemonė – įpareigojimas dalyvauti alkoholizmo ir narkomanijos prevencijos, ankstyvosios intervencijos, sveikatos priežiūros, resocializacijos, bendravimo su vaikais tobulinimo, smurtinio elgesio keitimo ar kitose programose (kursuose).
+
+
+Straipsnio pakeitimai:
+Nr. XIV-935, 2022-03-15, paskelbta TAR 2022-03-22, i. k. 2022-05118
  
-
-
 
 
 
@@ -21304,10 +21322,11 @@ Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
 
 
 
-8) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 124 straipsnyje, 146, 2261, 477, 505, 507 straipsniuose, 515 straipsnio 1, 2 dalyse, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
+8) Lietuvos radijo ir televizijos komisijos – dėl šio kodekso 79 straipsnio 5, 6 dalyse, 122 straipsnyje (kai pažeidimai padaryti dėl autorių teisių ar gretutinių teisių objekto arba jų dalies, įskaitant padarymą viešai prieinamo kompiuterių tinklais (internete), 124 straipsnyje, 146, 2261, 477, 505, 507 straipsniuose, 515 straipsnio 1, 2 dalyse, 548 straipsnio 3, 4 dalyse numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-610, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12431
 Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
+Nr. XIV-2026, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11218
  
 
 
@@ -25786,7 +25805,7 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
-part_e8e178adab804025a3b80acfe7221029_end
+part_a14b27507d654eafac1cc6b0a100b959_end
 
 
 Lietuvos Respublikos 
@@ -27461,3 +27480,13 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 611 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2077, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12587
 Lietuvos Respublikos administracinių nusižengimų kodekso 488 straipsnio pakeitimo įstatymas
+ 
+204.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2026, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11218
+Lietuvos Respublikos administracinių nusižengimų kodekso 122 ir 589 straipsnių pakeitimo įstatymas
+ 
+205.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2080, 2023-06-20, paskelbta TAR 2023-06-26, i. k. 2023-12756
+Lietuvos Respublikos administracinių nusižengimų kodekso 122 ir 589 straipsnių pakeitimo įstatymo Nr. XIV-2026 1 straipsnio pakeitimo įstatymas
