@@ -18,9 +18,10 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2023-06-23 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 63-1582, i. k. 0951010ISTA00I-1034
  
@@ -1498,12 +1499,18 @@ X ir Y – svertinės reikšmės, kurių dydis negali skirtis daugiau kaip 3 kar
 23 straipsnis. Mažasis karjeras
 
 
-1. Savivaldybės administracija gali įrengti po vieną iki 1 hektaro ploto ir iki 3 metrų gylio smėlio ar žvyro mažąjį karjerą, o žemės savininkas – iki 0,5 hektaro ploto ir iki 3 metrų gylio smėlio ar žvyro mažąjį karjerą, kuris užimtų ne daugiau negu 1 proc. žemės savininko ar kito naudotojo savivaldybės teritorijoje turimos žemės ploto. Valstybinio parko žemės ūkio funkcinio prioriteto zonoje galima įrengti iki 0,2 hektaro ploto ir iki 3 metrų gylio smėlio ar žvyro mažąjį karjerą.
+1. Savivaldybės administracija gali įrengti po vieną iki 1 hektaro ploto ir iki 3 metrų gylio smėlio ar žvyro mažąjį karjerą, o žemės savininkas – iki 0,5 hektaro ploto ir iki 3 metrų gylio smėlio ar žvyro mažąjį karjerą, kuris užimtų ne daugiau negu 1 proc. žemės savininko ar kito naudotojo savivaldybės teritorijoje turimos žemės ploto. Valstybinio parko žemės ūkio funkcinio prioriteto zonoje galima įrengti iki 0,2 hektaro ploto ir iki 3 metrų gylio smėlio ar žvyro mažąjį karjerą. Miškų urėdija gali įrengti iki 0,5 hektaro ploto ir iki 3 metrų gylio smėlio ar žvyro mažąjį karjerą miškų urėdijos regioninio padalinio girininkijos teritorijoje (išskyrus saugomas teritorijas). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1955, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09699
+ 
 
 
 
 
-2. Smėlio ar žvyro ištekliai, išgauti mažajame karjere, naudojami savivaldybės funkcijoms atlikti ir aplinkos ministro nustatyta tvarka asmeninėms žemės savininko reikmėms.
+2. Smėlio ar žvyro ištekliai, išgauti mažajame karjere, naudojami savivaldybės funkcijoms atlikti ir aplinkos ministro nustatyta tvarka asmeninėms žemės savininko reikmėms. Miškų urėdijos įrengtame mažajame karjere išgauti smėlio ar žvyro ištekliai naudojami miškų urėdijos ūkio reikmėms – valstybinėms funkcijoms, nustatytoms Miškų įstatymo 5 straipsnio 5 dalyje, atlikti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1955, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09699
+ 
 
 
 
@@ -1915,6 +1922,7 @@ V – valstybės lėšomis iki konkurso atliktų ploto (telkinio) žemės gelmi�
 
  
 
+ 
 Lietuvos Respublikos 
 žemės gelmių įstatymo
 2 priedas
