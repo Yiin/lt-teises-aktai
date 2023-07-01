@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-06-30
+Suvestinė redakcija nuo 2023-07-01 iki 2023-07-05
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -417,9 +417,11 @@ Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
 
 
 
-29. Trumposios studijos – aukštojo mokslo studijų pakopa profesinei kvalifikacijai pagal Lietuvos kvalifikacijų sandaros penktąjį lygį įgyti. 
+29. Trumposios pakopos studijos – aukštojo mokslo studijų pakopa profesinei kvalifikacijai pagal Lietuvos kvalifikacijų sandaros penktąjį lygį įgyti.
 Papildyta straipsnio dalimi:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
+Straipsnio dalies pakeitimai:
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
  
 
 
@@ -3491,6 +3493,44 @@ AKADEMINĖ BENDRUOMENĖ
 
 
 
+641 straipsnis. Mokslo ir studijų institucijų tyrėjų karjera
+
+
+1. Mokslo ir studijų institucijų tyrėjų karjerą sudaro keturios pakopos:
+
+
+1) pradedantysis tyrėjas – asmuo turintis magistro kvalifikacinį laipsnį ar jam lygiavertę aukštojo mokslo kvalifikaciją; jis vykdo mokslinę (meno) veiklą vadovaujant pripažintam arba pirmaujančiajam tyrėjui;
+
+
+
+
+2) patvirtintas tyrėjas – mokslininkas (meno daktaras), kurio mokslinė (meno) veikla nėra visiškai savarankiška;
+
+
+
+
+3) pripažintas tyrėjas – mokslininkas (meno daktaras), pasiekęs mokslinės (meno) veiklos savarankiškumo lygį;
+
+
+
+
+4) pirmaujantysis tyrėjas – savarankiškas mokslininkas (meno daktaras), pirmaujantis savo tyrimų ar mokslo (meno) srityje.
+
+
+
+
+
+
+2. Kiekvienos pakopos mokslo ir studijų institucijų tyrėjų privalomas kompetencijas nustato Lietuvos mokslo taryba, vadovaudamasi tarptautiniais tyrėjų karjeros formavimo Europos mokslinių tyrimų erdvėje ir Europos aukštojo mokslo erdvėje principais ir kriterijais bei tyrėjų tarpinstitucinio ir tarptautinio judumo skatinimo principais.
+
+
+Papildyta straipsniu:
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+ 
+
+
+
+
 65 straipsnis. Dėstytojai
 
 
@@ -3592,6 +3632,14 @@ AKADEMINĖ BENDRUOMENĖ
 
 
 2. Administraciją sudaro mokslo ir studijų institucijų darbuotojai, išskyrus aukštųjų mokyklų akademinių padalinių, kurie įeina į kitų akademinių padalinių sudėtį, ir mokslinių tyrimų institutų akademinių padalinių vadovus, kurie turi teisę pagal savo kompetenciją duoti privalomus nurodymus sau pavaldiems darbuotojams. Be administracinių pareigų, jie gali dirbti pedagoginį ir (arba) mokslinį darbą. Mokslo ir studijų institucijų akademinis padalinys yra toks padalinys, kurio pagrindinė veikla yra studijų vykdymas ir (arba) moksliniai tyrimai ir eksperimentinė plėtra.
+
+
+
+
+21. Aukštųjų mokyklų pirmosios ir antrosios studijų pakopų arba vientisųjų studijų studentai mokslo ir studijų institucijose gali užimti tyrėjo padėjėjo pareigas. Tyrėjo padėjėjas padeda tyrėjams, siekdamas įgyti pedagoginio, mokslinio darbo ir profesionalios veiklos patirties. Su tyrėjo padėjėjais sudaromos terminuotos darbo sutartys, trunkančios ne ilgiau kaip iki studijų aukštojoje mokykloje pabaigos ar studijų nutraukimo dienos, tačiau ne ilgiau kaip 5 metų laikotarpiui. Tyrėjų padėjėjų priėmimo į pareigas reikalavimus ir jų darbo apmokėjimo sąlygas nustato mokslo ir studijų institucijos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+ 
 
 
 
@@ -3710,7 +3758,10 @@ AKADEMINĖ BENDRUOMENĖ
 
 
 
-3. Dėstytojai, mokslo darbuotojai ir kiti tyrėjai gali gauti valstybės paramą mokslinėms stažuotėms, taip pat paramą dalyvauti mokslinėse konferencijose užsienyje, dėstyti užsienio valstybių mokslo ir studijų institucijose. Šią paramą administruoja Lietuvos mokslo taryba savo nustatyta tvarka. Valstybės paramą taip pat gali teikti ir kitos valstybės institucijos. Dėstytojams, mokslo darbuotojams ir kitiems tyrėjams, vykstantiems į mokslines stažuotes užsienyje pagal tarptautines sutartis, valstybės parama skiriama švietimo ir mokslo ministro nustatyta tvarka. Šią paramą teikia Lietuvos mokslo taryba ir kitos valstybės institucijos.
+3. Dėstytojai ir mokslo darbuotojai gali gauti valstybės paramą mokslinėms stažuotėms, taip pat paramą dalyvauti mokslinėse konferencijose užsienyje, dėstyti užsienio valstybių mokslo ir studijų institucijose. Šią paramą administruoja Lietuvos mokslo taryba savo nustatyta tvarka. Valstybės paramą taip pat gali teikti ir kitos valstybės institucijos. Dėstytojams ir mokslo darbuotojams, vykstantiems į mokslines stažuotes užsienyje pagal tarptautines sutartis, valstybės parama skiriama švietimo, mokslo ir sporto ministro nustatyta tvarka. Šią paramą teikia Lietuvos mokslo taryba ir kitos valstybės institucijos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+ 
 
 
 
@@ -3939,12 +3990,18 @@ Nr. XIII-422, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10246
 73 straipsnis. Mokslo ir studijų institucijų, studentų, dėstytojų, mokslininkų ir kitų tyrėjų organizacijos
 
 
-1. Mokslo ir studijų institucijos, studentai, dėstytojai, mokslininkai ir kiti tyrėjai turi teisę Asociacijų įstatymo nustatyta tvarka burtis į sąjungas ir kitas asociacijas.
+1. Mokslo ir studijų institucijos studentai, dėstytojai ir mokslininkai turi teisę Asociacijų įstatymo nustatyta tvarka burtis į sąjungas ir kitas asociacijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+ 
 
 
 
 
-2. Mokslo ir studijų institucijų, studentų sąjungos ir organizacijos, dėstytojų, mokslininkų ir kitų tyrėjų organizacijos, studentų mokslinės draugijos ir kitos asociacijos, veikiančios pagal įstatymus ir savo įstatus, veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali gauti lėšų iš Lietuvos mokslo tarybai šiam tikslui skirtų valstybės biudžeto lėšų Lietuvos mokslo tarybos nustatyta tvarka.
+2. Mokslo ir studijų institucijų studentų sąjungos ir organizacijos, dėstytojų, mokslininkų organizacijos, studentų mokslinės draugijos ir kitos asociacijos, veikiančios pagal įstatymus ir savo įstatus, veiklai, susijusiai su mokslo ir studijų sistemai keliamais tikslais, gali gauti lėšų iš Lietuvos mokslo tarybai šiuo tikslu skirtų valstybės biudžeto lėšų Lietuvos mokslo tarybos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
+ 
 
 
 
@@ -5739,3 +5796,18 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 9 ir 16 straipsnių pakeitimo įstatymas
+ 
+56.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2095, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13992
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 59 straipsnio pakeitimo įstatymas
+ 
+57.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1543, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24193
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 24 straipsnio pakeitimo įstatymas
+ 
+58.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1482, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22950
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 19 ir 29 straipsnių pakeitimo įstatymas
