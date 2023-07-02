@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-07-01
+Suvestinė redakcija nuo 2023-07-02 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
+ 
+TAR pastaba. Įstatymas  Nr. XIV-1969 taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. 2023 metų Valstybinio socialinio draudimo fondo biudžetas vykdomas pagal Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatas, galiojusias iki įstatymo Nr. XIV-1969 įsigaliojimo dienos (2023-07-02).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1969, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10362
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3 ir 29 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2472, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18827
@@ -160,9 +165,10 @@ Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
 
 
 
-14. Šalies vidutinis mėnesinis darbo užmokestis – Lietuvos statistikos departamento skelbiamas vidutinis mėnesinis bruto darbo užmokestis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) šalies ūkyje. 
+14. Šalies vidutinis mėnesinis darbo užmokestis – Valstybės duomenų agentūros skelbiamas vidutinis mėnesinis bruto darbo užmokestis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis) šalies ūkyje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+Nr. XIV-1969, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10362
  
 
 
@@ -996,7 +1002,10 @@ TAR pastaba. 29 straipsnio 1 dalis taikoma priskiriant draudėjus nelaimingų at
 
 
 
-3. Šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kiekvienais metais Lietuvos Respublikos Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Valstybinio socialinio draudimo fondo valdyba, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta metodika ir šio straipsnio 1 dalyje nurodytais rodikliais, kiekvienais metais apskaičiuoja draudėjų darbuotojų saugos ir sveikatos būklę apibūdinančių rodiklių dydžius, priskiria draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms ir tvirtina draudėjų priskyrimą konkrečiai socialinio draudimo įmokos tarifo grupei.
+3. Šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, šio draudimo įmokos tarifų grupių skaičius ir šių grupių tarifai tvirtinami kiekvienais metais Lietuvos Respublikos valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu. Valstybinio socialinio draudimo fondo valdyba, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos patvirtinta metodika ir remdamasi šio straipsnio 1 dalyje nurodytais rodikliais, kiekvienais metais apskaičiuoja draudėjų darbuotojų saugos ir sveikatos būklę apibūdinančių rodiklių dydžius, priskiria draudėjus nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų grupėms ir tvirtina draudėjų priskyrimą konkrečiai socialinio draudimo įmokos tarifo grupei.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1969, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10362
+ 
 
 
 Straipsnio pakeitimai:
@@ -1326,3 +1335,8 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1222, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15587
 Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 5 ir 6 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1969, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10362
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3 ir 29 straipsnių pakeitimo įstatymas
