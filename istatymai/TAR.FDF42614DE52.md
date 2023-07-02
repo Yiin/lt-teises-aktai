@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-06-24 iki 2023-07-01
+Suvestinė redakcija nuo 2023-07-02 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
+ 
+TAR pastaba. Įstatymas Nr. XIV-1970 taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. 2023 metų Valstybinio socialinio draudimo fondo biudžetas nedarbo socialinio draudimo srityje vykdomas pagal Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nuostatas, galiojusias iki įstatymo Nr. XIV-170 įsigaliojimo dienos (2023-07-02).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1970, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10363
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 19 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-07-01:
 Nr. XII-2471, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18826
@@ -552,9 +557,10 @@ NEDARBO DRAUDIMO LĖŠOS, ATSAKOMYBĖ
 
 
 
-2. Nedarbo draudimo pajamas sudaro draudėjų mokamos valstybinio socialinio draudimo įmokos šiai draudimo rūšiai, delspinigiai, palūkanos ir baudos. Nedarbo draudimo pajamų dalį gali sudaryti valstybės biudžeto lėšos ir lėšos, skirtos iš Valstybinio socialinio draudimo rezervinio fondo Lietuvos Respublikos Vyriausybės tvirtinamuose Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatuose nustatyta tvarka. Įmokų tarifas nedarbo draudimui kiekvienais metais tvirtinamas Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
+2. Nedarbo draudimo pajamas sudaro draudėjų mokamos valstybinio socialinio draudimo įmokos šiai draudimo rūšiai, delspinigiai, palūkanos ir baudos. Nedarbo draudimo pajamų dalį gali sudaryti valstybės biudžeto lėšos ir lėšos, skirtos iš Valstybinio socialinio draudimo rezervinio fondo Lietuvos Respublikos Vyriausybės tvirtinamuose Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatuose nustatyta tvarka. Įmokų tarifas nedarbo draudimui kiekvienais metais tvirtinamas Lietuvos Respublikos valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIV-754, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26586
+Nr. XIV-1970, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10363
  
 
 
@@ -806,3 +812,8 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 5, 6, 8, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
 Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 6, 8 ir 12 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1970, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10363
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 19 straipsnio pakeitimo įstatymas
