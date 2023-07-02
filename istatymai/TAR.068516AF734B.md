@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-07-01
+Suvestinė redakcija nuo 2023-07-02 iki 2023-11-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
+ 
+TAR pastaba. Įstatymas Nr. XIV-1971  taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. Lietuvos Respublikos 2023 metų Valstybinio socialinio draudimo fondo biudžetas ligos socialinio draudimo ir motinystės socialinio draudimo srityse vykdomas pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatas, galiojusias iki  įstatymo Nr. XIV-1971 įsigaliojimo dienos (203-07-02).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3, 6-1, 30 ir 31 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2501, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20641
@@ -438,7 +443,10 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 
 
-7. Motinystės, tėvystės ir vaiko priežiūros išmokoms, jeigu asmens kompensuojamasis uždarbis apskaičiuotas pagal šio straipsnio 2, 3 ar 5 dalį, mokėti skirtų motinystės socialinio draudimo išlaidų dalis, apskaičiuota iš motinystės, tėvystės ir vaiko priežiūros išmokų, kurioms apskaičiuoti naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio straipsnio 2, 3 ar 5 dalį, sumos atėmus motinystės, tėvystės ir vaiko priežiūros išmokų, jeigu joms apskaičiuoti būtų naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio įstatymo 6 straipsnio 2 dalį, sumą, apmokama iš valstybės biudžeto. 
+7. Motinystės, tėvystės ir vaiko priežiūros išmokoms, jeigu asmens kompensuojamasis uždarbis apskaičiuotas pagal šio straipsnio 2, 3 ar 5 dalį, mokėti skirtų motinystės socialinio draudimo sąnaudų dalis, apskaičiuota iš motinystės, tėvystės ir vaiko priežiūros išmokų, kurioms apskaičiuoti naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio straipsnio 2, 3 ar 5 dalį, sumos atėmus motinystės, tėvystės ir vaiko priežiūros išmokų, jeigu joms apskaičiuoti būtų naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio įstatymo 6 straipsnio 2 dalį, sumą, mokama iš valstybės biudžeto.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
+ 
 
 
 Papildyta straipsniu:
@@ -1580,26 +1588,25 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO LĖŠOS LIGOS SOCIALINIAM DRAUDIMUI IR MOT
  
 
 
-30 straipsnis. Valstybinio socialinio draudimo fondo lėšos ligos socialiniam draudimui ir motinystės socialiniam draudimui 
+30 straipsnis. Valstybinio socialinio draudimo fondo lėšos, skirtos ligos socialiniam draudimui ir motinystės socialiniam draudimui
 
 
-1. Ligos socialiniam draudimui ir motinystės socialiniam draudimui skirtos lėšos įtraukiamos į Valstybinio socialinio draudimo fondo biudžetą įstatymų nustatyta tvarka pagal Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymo nustatytus šių valstybinio socialinio draudimo rūšių įmokų tarifus.
+1. Ligos socialiniam draudimui ir motinystės socialiniam draudimui skirtos lėšos įtraukiamos į Valstybinio socialinio draudimo fondo biudžetą įstatymų nustatyta tvarka pagal Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymo nustatytus šių valstybinio socialinio draudimo rūšių įmokų tarifus.
 
 
 
 
-2. Ligos socialinio draudimo ir motinystės socialinio draudimo pajamas sudaro šiai draudimo rūšiai draudėjų ir apdraustųjų asmenų mokamos privalomosios valstybinio socialinio draudimo įmokos, delspinigiai, palūkanos ir baudos. Ligos socialinio draudimo ir motinystės socialinio draudimo pajamų dalį gali sudaryti valstybės biudžeto lėšos ir lėšos, skirtos iš Valstybinio socialinio draudimo rezervinio fondo Vyriausybės tvirtinamuose Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatuose nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+2. Ligos socialinio draudimo ir motinystės socialinio draudimo pajamas sudaro šiai draudimo rūšiai draudėjų ir apdraustųjų asmenų mokamos valstybinio socialinio draudimo įmokos, delspinigiai, palūkanos ir baudos. Ligos socialinio draudimo ir motinystės socialinio draudimo pajamų dalį gali sudaryti valstybės biudžeto lėšos ir lėšos, skirtos iš Valstybinio socialinio draudimo rezervinio fondo Vyriausybės tvirtinamuose Valstybinio socialinio draudimo rezervinio fondo sudarymo ir valdymo nuostatuose nustatyta tvarka.
+
+
+
+
+3. Ligos socialinio draudimo ir motinystės socialinio draudimo sąnaudas sudaro lėšos, skirtos šio įstatymo 5 straipsnyje nurodytoms ligos, profesinės reabilitacijos, motinystės, tėvystės ir vaiko priežiūros išmokoms mokėti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
  
-
-
-
-
-3. Ligos socialinio draudimo ir motinystės socialinio draudimo išlaidas sudaro lėšos, skirtos šio įstatymo 5 straipsnyje nurodytoms ligos, profesinės reabilitacijos, motinystės, tėvystės ir vaiko priežiūros išmokoms mokėti.
- 
-
-
 
 
 
@@ -1607,10 +1614,13 @@ Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 31 straipsnis. Valstybinio socialinio draudimo įmokų tarifai ligos socialiniam draudimui ir motinystės socialiniam draudimui
 
 
-Valstybinio socialinio draudimo įmokų tarifai ligos socialiniam draudimui ir motinystės socialiniam draudimui tvirtinami Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.
+Valstybinio socialinio draudimo įmokų tarifai ligos socialiniam draudimui ir motinystės socialiniam draudimui tvirtinami Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu.
  
 
 
+Straipsnio pakeitimai:
+Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
+ 
 
 
 
@@ -1700,8 +1710,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 ligos ir motinystės socialinio draudimo įstatymo
@@ -1717,7 +1725,8 @@ priedas
 Papildyta priedu:
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
  
-part_b6a6c20a639048c89688f2f5f2c542c1_end
+
+
 
 
  
