@@ -18,12 +18,16 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-07-01
+Suvestinė redakcija nuo 2023-07-02 iki 2023-12-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
+ 
+TAR pastaba. Įstatymas  Nr. XIV-1967 taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. Valstybinio socialinio draudimo fondo 2023 metų biudžetas vykdomas pagal įstatymų nuostatas, galiojusias iki  įstatymo Nr. XIV-1967 įsigaliojimo dienos )2023-07-02).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 6, 8, 10, 12, 19, 22, 23 ir 34 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2508, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20645
@@ -181,10 +185,11 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 
-16. Vidutinis šalies darbo užmokestis (toliau – VDU) – Valstybės duomenų agentūros paskelbtas užpraeitų metų III ir IV ketvirčių ir praėjusių metų I ir II ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis). VDU tvirtinamas atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
+16. Vidutinis šalies darbo užmokestis (toliau – VDU) – Valstybės duomenų agentūros paskelbtas užpraeitų metų III ir IV ketvirčių ir praėjusių metų I ir II ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkis (įtraukiant ir individualiųjų įmonių darbo užmokesčio duomenis). VDU tvirtinamas Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
@@ -431,7 +436,9 @@ Nr. XIV-1175, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13891
 
 
 
-12. Draudimo valstybės lėšomis ypatumai, kai asmuo gali būti draudžiamas valstybės lėšomis pagal kelias šio straipsnio dalis, nustatomi Vyriausybės patvirtintose Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse (toliau – Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės).
+12. Draudimo valstybės lėšomis ypatumai, kai asmuo gali būti draudžiamas valstybės lėšomis pagal kelias šio straipsnio dalis, nustatomi socialinės apsaugos ir darbo ministro tvirtinamose valstybės socialinių fondų biudžetų sudarymo ir vykdymo taisyklėse (toliau – Fondų biudžetų sudarymo ir vykdymo taisyklės).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1175, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13891
  
@@ -481,11 +488,12 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 
-2. Socialinio draudimo įmokų tarifai, jų dydžiai (jų dalys) atskirų rūšių socialiniam draudimui tvirtinami Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu. Lietuvos Respublikos darbo kodekso 66 straipsnio 1 dalies 2 punkte numatytoms terminuotoms darbo sutartims nedarbo draudimo įmokos tarifas, nustatytas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu, didinamas 1,55 karto. 
+2. Socialinio draudimo įmokų tarifai, atskirų rūšių socialinio draudimo įmokų dydžiai (jų dalys) tvirtinami Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu. Lietuvos Respublikos darbo kodekso 66 straipsnio 1 dalies 2 punkte numatytoms terminuotoms darbo sutartims nedarbo draudimo įmokos tarifas, nustatytas Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu, didinamas 1,55 karto.
 Straipsnio dalies pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
@@ -698,12 +706,13 @@ Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 
 
 
-9. Pagal šio įstatymo 4 straipsnį draudžiamų asmenų apdraustųjų socialinio draudimo įmokos, išskyrus privalomojo sveikatos draudimo įmokas, pagal Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu patvirtintus tarifus skaičiuojamos nuo sumos, ne didesnės kaip 60 VDU suma, o šias sumas viršijančiai pajamų daliai taikomas 0 procentų įmokų tarifas. Priskaičiavus pagal Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu patvirtintus tarifus vienos iš socialinio draudimo rūšies socialinio draudimo įmokas nuo šioje dalyje nurodytos maksimalios sumos, toliau pagal tuos tarifus skaičiuojamos tik kitų socialinio draudimo rūšių socialinio draudimo įmokos, iki bus pasiekta atitinkamų kalendorinių metų atitinkamos socialinio draudimo rūšies įmokų skaičiavimo maksimali suma. 
+9. Pagal šio įstatymo 4 straipsnį draudžiamų asmenų apdraustųjų socialinio draudimo įmokos, išskyrus privalomojo sveikatos draudimo įmokas, pagal atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu patvirtintus tarifus skaičiuojamos nuo sumos, ne didesnės kaip 60 VDU, o šią sumą viršijančiai pajamų daliai taikomas 0 procentų įmokų tarifas. Apskaičiavus pagal atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu patvirtintus tarifus vienos iš socialinio draudimo rūšies socialinio draudimo įmokas nuo šioje dalyje nurodytos maksimalios sumos, toliau pagal tuos tarifus skaičiuojamos tik kitų socialinio draudimo rūšių socialinio draudimo įmokos, iki bus pasiekta maksimali atitinkamų kalendorinių metų atitinkamos socialinio draudimo rūšies įmokų suma.
 Papildyta straipsnio dalimi:
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 Straipsnio dalies pakeitimai:
 Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
@@ -955,9 +964,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 12 straipsnis. Socialinio draudimo įmokų mokėjimas 
 
 
-1. Draudėjo ir apdraustojo asmens socialinio draudimo įmokas į Fondą priskaičiuoja, išskaito ir moka draudėjas nuo tos dienos, kurią apdraustasis asmuo pradeda dirbti, neatsižvelgdamas į draudėjo įregistravimo Mokesčių mokėtojų registre datą. Už asmenis, nurodytus šio įstatymo 6 straipsnio 1 dalyje, socialinio draudimo įmokas sumoka valstybės institucija, perkėlusi ar išsiuntusi valstybės tarnautoją į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiuntusi dirbti į specialiąją misiją ar paskyrusi profesinės karo tarnybos karį atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip pat asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija ar Respublikos Prezidento kanceliarija. Socialinio draudimo įmokos mokamos iš institucijoms patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų. Už asmenis, gaunančius pajamas pagal autorines sutartis, taip pat už asmenis, gaunančius pajamas iš sporto ir (ar) atlikėjo veiklos (šio įstatymo 4 straipsnio 1 dalis ir 5 straipsnio 1 dalis), draudėjo ir apdraustojo asmens socialinio draudimo įmokas į Fondą priskaičiuoja, išskaito ir sumoka draudėjas atitinkamo atlygio išmokėjimo dieną, kuri yra laikoma asmens socialinio draudimo pradžios data. Už meno kūrėjo statusą turinčius asmenis, nurodytus šio įstatymo 6 straipsnio 7 dalyje, socialinio draudimo įmokas į Fondą Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka ir terminais priskaičiuoja Fondo valdyba, o sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas valstybės biudžeto asignavimų valdytojas iš Meno kūrėjų socialinės apsaugos programos Vyriausybės nustatyta tvarka. Už sportininkus, nurodytus šio įstatymo 6 straipsnio 11 dalyje, socialinio draudimo įmokas į Fondą Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka ir terminais priskaičiuoja Fondo valdyba. 
+1. Draudėjo ir apdraustojo asmens socialinio draudimo įmokas į Fondą apskaičiuoja, išskaičiuoja ir moka draudėjas nuo tos dienos, kurią apdraustasis asmuo pradeda dirbti, neatsižvelgdamas į draudėjo įregistravimo Mokesčių mokėtojų registre datą. Socialinio draudimo įmokas už asmenis, nurodytus šio įstatymo 6 straipsnio 1 dalyje, sumoka valstybės institucija, perkėlusi ar išsiuntusi valstybės tarnautoją į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiuntusi dirbti į specialiąją misiją ar paskyrusi profesinės karo tarnybos karį atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip pat asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija ar Respublikos Prezidento kanceliarija. Socialinio draudimo įmokos mokamos iš institucijoms patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų. Socialinio draudimo įmokas į Fondą už asmenis, gaunančius pajamas pagal autorines sutartis, taip pat už asmenis, gaunančius pajamas iš sporto ir (ar) atlikėjo veiklos (šio įstatymo 4 straipsnio 1 dalis ir 5 straipsnio 1 dalis), apskaičiuoja, išskaičiuoja ir sumoka draudėjas atitinkamo atlygio išmokėjimo dieną, kuri laikoma asmens socialinio draudimo pradžios data. Socialinio draudimo įmokas į Fondą už meno kūrėjo statusą turinčius asmenis, nurodytus šio įstatymo 6 straipsnio 7 dalyje, Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka ir terminais apskaičiuoja Fondo valdyba, o sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas valstybės biudžeto asignavimų valdytojas iš Meno kūrėjų socialinės apsaugos programos Vyriausybės nustatyta tvarka. Socialinio draudimo įmokas į Fondą už sportininkus, nurodytus šio įstatymo 6 straipsnio 11 dalyje, Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka ir terminais apskaičiuoja Fondo valdyba. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1175, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13891
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
@@ -1017,19 +1027,21 @@ Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
 
 
 
-9. Socialinio draudimo įmokų mokėjimo ir sumokėtų (išieškotų) socialinio draudimo įmokų ir kitų Fondo administravimo įstaigų administruojamų įmokų, delspinigių, baudų ir palūkanų sumų įskaitymo tvarka nustatoma Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse. 
+9. Socialinio draudimo įmokų mokėjimo ir sumokėtų (išieškotų) socialinio draudimo įmokų bei kitų Fondo administravimo įstaigų administruojamų įmokų, delspinigių, baudų ir palūkanų sumų įskaitymo tvarka nustatoma Fondų biudžetų sudarymo ir vykdymo taisyklėse. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
 
 
-10. Socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos suma Fondo valdybos direktoriaus nustatyta tvarka pirmiausia įskaitoma socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti, po to – privalomojo sveikatos draudimo įmokų skolai padengti, o likusi nurodytos permokos suma Valstybinės mokesčių inspekcijos viršininko nustatyta tvarka, suderinta su Fondo valdyba, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti, o jeigu mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos suma Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka įskaitoma kaip socialinio draudimo įmoka ar jos dalis už būsimus laikotarpius arba, gavus draudėjo prašymą, Fondo valdybos direktoriaus nustatyta tvarka grąžinama draudėjui. Jeigu dalis socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos yra apdraustojo socialinio draudimo įmokų permoka, draudėjas privalo grąžinti savo apdraustajam jam priklausančią apdraustojo socialinio draudimo įmokų permokos dalį.
+10. Socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos suma Fondo valdybos direktoriaus nustatyta tvarka pirmiausia įskaitoma socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti, po to – privalomojo sveikatos draudimo įmokų skolai padengti, o likusi nurodytos permokos suma Valstybinės mokesčių inspekcijos viršininko nustatyta tvarka, suderinta su Fondo valdyba, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti. Jeigu mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos suma Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka įskaitoma kaip socialinio draudimo įmoka ar jos dalis už būsimus laikotarpius arba, gavus draudėjo prašymą, Fondo valdybos direktoriaus nustatyta tvarka grąžinama draudėjui. Jeigu dalis socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos yra apdraustojo socialinio draudimo įmokų permoka, draudėjas privalo grąžinti savo apdraustajam jam priklausančią apdraustojo socialinio draudimo įmokų permokos dalį.
 Papildyta straipsnio dalimi:
 Nr. XIII-3011, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13046
 Straipsnio dalies pakeitimai:
 Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
@@ -1443,27 +1455,32 @@ Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
 
 
 
-3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti socialinio draudimo įmokų sumokėjimą netenka galios ir vykdomas socialinio draudimo įmokų įsiskolinimo išieškojimas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, socialinio draudimo įmokų įsiskolinimas neatidedamas. 
+3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką ne vėliau kaip per 4 metus. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti socialinio draudimo įmokų sumokėjimą netenka galios ir socialinio draudimo įmokų įsiskolinimo išieškojimas vykdomas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, socialinio draudimo įmokų įsiskolinimas neatidedamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
 
 
-4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą netenka galios ir vykdomas delspinigių išieškojimas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas neatidedamas. 
+4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką ne vėliau kaip per 4 metus. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą netenka galios ir delspinigių išieškojimas vykdomas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas neatidedamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
 
 
-5. Fondo administravimo įstaigos Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atleisti draudėją nuo:
+5. Fondo administravimo įstaigos Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atleisti draudėją nuo: 
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 
 
 1) priskaičiuotų delspinigių mokėjimo, jeigu draudėjas įrodo, kad priskaičiavo per mažas socialinio draudimo įmokas ar negalėjo laiku sumokėti priskaičiuotų socialinio draudimo įmokų dėl aplinkybių, kurios nepriklausė nuo jo valios ir kurių jis nenumatė ir negalėjo numatyti;
@@ -1481,9 +1498,10 @@ Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
 
 
 
-6. Fondo administravimo įstaigos gali atidėti baudų išieškojimą iki vienų metų, nustatydamos baudos mokėjimo grafiką Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka, kuris negali būti ilgesnis negu 4 metai. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti baudų išieškojimą netenka galios ir vykdomas baudų išieškojimas priverstine tvarka. 
+6. Fondo administravimo įstaigos gali atidėti baudų išieškojimą iki vienų metų, Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka nustatydamos baudų sumokėjimo ne ilgiau kaip per 4 metus grafiką. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti baudų išieškojimą netenka galios ir baudų išieškojimas vykdomas priverstine tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
@@ -1724,7 +1742,10 @@ SOCIALINIO DRAUDIMO FINANSAI IR TURTAS
 
 
 
-3. Fondo konsoliduotųjų finansinių ataskaitų rinkinio sudėtį, jo sudarymo reikalavimus nustato Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas. Fondo biudžeto sudarymą, vykdymą, Fondo biudžeto vykdymo ataskaitų rinkinio sudėtį ir jo sudarymo tvarką reglamentuoja Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinis įstatymas, Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymas ir Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės.
+3. Fondo biudžeto sudarymo ir vykdymo tvarka nustatoma Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatyme ir Fondų biudžetų sudarymo ir vykdymo taisyklėse.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
+ 
 
 
 
@@ -1755,17 +1776,17 @@ SOCIALINIO DRAUDIMO FINANSAI IR TURTAS
 
 
 
-2. Jeigu šio įstatymo 14 straipsnio 3 dalyje numatytų išmokų ir šio straipsnio 1 dalyje numatytų nurašytų skolų faktinės išlaidos yra didesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, Fondo biudžetui iš valstybės biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos faktinės išlaidos. Jeigu faktinės šio įstatymo 14 straipsnio 3 dalyje numatytų išmokų ir šio straipsnio 1 dalyje numatytų nurašytų skolų išlaidos yra mažesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, valstybės biudžetui iš Fondo biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos faktinės išlaidos.
+2. Jeigu šio įstatymo 14 straipsnio 3 dalyje numatytų išmokų ir šio straipsnio 1 dalyje numatytų nurašytų skolų sąnaudos yra didesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, Fondo biudžetui iš valstybės biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos sąnaudos. Jeigu šio įstatymo 14 straipsnio 3 dalyje numatytų išmokų ir šio straipsnio 1 dalyje numatytų nurašytų skolų sąnaudos yra mažesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, valstybės biudžetui iš Fondo biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos sąnaudos.
 
 
 
 
-3. Valstybės biudžeto asignavimų Fondo biudžetui dydžiai nustatomi Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu ir Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.
+3. Valstybės biudžeto asignavimų Fondo biudžetui dydžiai nustatomi Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu ir Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu.
 
 
 
 
-4. Asignavimai iš valstybės biudžeto skiriami, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja kurios nors socialinio draudimo rūšies išlaidos arba sumažėja pajamos, o socialinio draudimo įmokų tarifai šiai socialinio draudimo rūšiai nekeičiami arba keičiami nepakankamu dydžiu. 
+4. Asignavimai iš valstybės biudžeto skiriami, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja kurios nors socialinio draudimo rūšies sąnaudos arba sumažėja pajamos, o šios rūšies socialinio draudimo įmokų tarifai nekeičiami arba keičiami nepakankamu dydžiu.
 
 
 Straipsnio pakeitimai:
@@ -1773,6 +1794,7 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
 Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
  
 
 
@@ -2425,7 +2447,10 @@ Fondo valdybos teritoriniai skyriai:
 
 
 
-3) tvarko apdraustųjų asmenų duomenis Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre ir kontroliuoja šių duomenų keitimo pagrįstumą, suteikia apdraustiesiems asmenims asmens socialinio draudimo numerį, šio įstatymo ir Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatytais pagrindais registruoja draudėjus;
+3) tvarko apdraustųjų asmenų duomenis Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre ir kontroliuoja jų keitimo pagrįstumą, apdraustiesiems asmenims suteikia asmens socialinio draudimo numerį, šiame įstatyme ir Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatytais pagrindais registruoja draudėjus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
+ 
 
 
 
@@ -3741,3 +3766,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1188, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15175
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 11 straipsnio pakeitimo įstatymas
+ 
+50.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 6, 8, 10, 12, 19, 22, 23 ir 34 straipsnių pakeitimo įstatymas
