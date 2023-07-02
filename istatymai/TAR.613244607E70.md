@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-07-01
+Suvestinė redakcija nuo 2023-07-02 iki 2024-06-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
+ 
+TAR pastaba. Įstatymas  Nr. XIV-1972 taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. 2023 metų Garantinio fondo lėšų sąmata ir 2023 metų Ilgalaikio darbo išmokų fondo lėšų sąmata vykdomos pagal Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo nuostatas, galiojusias iki  įstatymo Nr. XIV-1972  įsigaliojimo dienos (2023-07-02).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 5, 7, 8, 14, 19, 20 straipsnių pakeitimo ir 6, 15, 21 straipsnių pripažinimo netekusiais galios įstatymas
  
 
  
@@ -233,51 +238,10 @@ Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
 5 straipsnis. Garantinio fondo lėšos
 
 
-1. Garantinio fondo lėšas sudaro:
-
-
-1) šio straipsnio 3 dalyje nurodytų subjektų įmokos;
-
-
-
-
-2) delspinigiai, palūkanos ir baudos;
-
-
-
-
-3) iš darbdavių gautos lėšos administratoriaus reikalavimams tenkinti;
-
-
-
-
-4) fizinių ir juridinių asmenų, kitų organizacijų ir jų padalinių savanoriškos įmokos;
-
-
-
-
-5) iš valstybės biudžeto ar Europos Sąjungos struktūrinių ir kitų fondų pervedamos lėšos, skirtos darbo užmokesčiui už prastovą ir išmokoms savarankiškai dirbantiems asmenims mokėti; 
-Papildyta straipsnio punktu:
-Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
+1. Garantinio fondo pajamas sudaro Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymo 6 straipsnyje nurodytos pajamos, o šio fondo sąnaudas – Valstybės socialinių fondų biudžetų sandaros įstatymo 7 straipsnyje nurodytos sąnaudos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
  
-
-
-
-
-6) pajamos už investuotas laikinai laisvas Garantinio fondo lėšas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
- 
-
-
-
-
-7) kitos teisėtai gautos lėšos.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
- 
-
-
 
 
 
@@ -330,47 +294,9 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 
 
 
-6 straipsnis. Garantinio fondo lėšų naudojimas
-
-
-Garantinio fondo lėšos naudojamos:
-
-
-1) šio įstatymo 3 straipsnio 1 dalyje nurodytų darbdavių darbuotojams nesumokėtoms su darbo santykiais susijusių Valstybinio socialinio draudimo įstatymo 10 straipsnio 1 dalies 1–6 punktuose nurodytų pajamų, nuo kurių atskaičiuoti mokėtini mokesčiai (darbuotojo valstybinio socialinio draudimo įmokos, privalomojo sveikatos draudimo įmokos ir gyventojų pajamų mokestis) ir pensijų kaupimo įmokos pagal Lietuvos Respublikos pensijų kaupimo įstatymą, sumoms, neviršijančioms šio įstatymo 7 straipsnyje nustatytų dydžių, mokėti; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
-Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
- 
-
-
-
-
-2) Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnyje nurodytiems mokesčiams (išskyrus gyventojų pajamų mokestį), kurie skaičiuojami nuo darbuotojams priskaičiuotų pajamų sumų, nurodytų šio straipsnio 1 punkte, mokėti, kaip nurodyta Garantinio fondo nuostatuose;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
- 
-
-
-
-
-3) kredito pervedimams dėl išmokų iš Garantinio fondo pervedimo į darbuotojų asmenines sąskaitas Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (jų filialuose) apmokėti pagal šių kredito įstaigų (jų filialų) įkainius. Jeigu išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose negu Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (jų filialuose), su šių išmokų pervedimu susijusios išlaidos atlyginamos iš jų gavėjui skirtų išmokų iš Garantinio fondo. Jeigu kredito pervedimui apmokėti naudojamos Garantinio fondo lėšos, kai išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose negu Lietuvos Respublikoje ar kitose valstybėse narėse įsteigtose kredito įstaigose (jų filialuose), viršija darbuotojui skirtų išmokų iš Garantinio fondo sumą, išmokos iš Garantinio fondo šiam darbuotojui nepervedamos;
-
-
-
-
-4) Garantinio fondo administravimo išlaidoms apmokėti Garantinio fondo nuostatuose nustatyta tvarka ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms apmokėti finansų ministro nustatyta tvarka;
-
-
-
-
-5) šio įstatymo 31 straipsnyje numatytoms išmokoms kompensuoti.
-Papildyta straipsnio punktu:
-Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
- 
-
-
-
-
+6 straipsnis. Neteko galios nuo 2023-07-02
+Straipsnio naikinimas:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
 Straipsnio pakeitimai:
 Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
  
@@ -381,7 +307,10 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 7 straipsnis. Išmokų iš Garantinio fondo skaičiavimo tvarka
 
 
-1. Išmokos, nurodytos šio įstatymo 6 straipsnio 1 punkte, apskaičiuojamos:
+1. Išmokos, skirtos šio įstatymo 3 straipsnio 1 dalyje nurodytų darbdavių darbuotojams nesumokėtoms su darbo santykiais susijusių Valstybinio socialinio draudimo įstatymo 10 straipsnio 1 dalies 1–6 punktuose nurodytų pajamų, iš kurių atskaičiuoti mokėtini mokesčiai (darbuotojo valstybinio socialinio draudimo įmokos, privalomojo sveikatos draudimo įmokos ir gyventojų pajamų mokestis) bei pensijų kaupimo įmokos pagal Lietuvos Respublikos pensijų kaupimo įstatymą, sumoms mokėti, apskaičiuojamos: 
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
 
 
 1) kai darbdaviui iškelta nemokumo byla arba bankroto procesas vykdomas ne teismo tvarka, – pagal teismo nutartimi ar kreditorių susirinkimo sprendimu patvirtintas darbuotojų reikalavimų sumas, kurios teismo nutartyje ar kreditorių susirinkimo sprendime turi būti nurodomos atskaičius darbuotojo mokėtinas valstybinio socialinio draudimo įmokas, pensijų kaupimo įmokas pagal Lietuvos Respublikos pensijų kaupimo įstatymą, privalomojo sveikatos draudimo įmokas, mokėtiną gyventojų pajamų mokestį ir kurios turi būti nurodomos atskirai pagal Juridinių asmenų nemokumo įstatyme ar Fizinių asmenų bankroto įstatyme nustatytus reikalavimų tenkinimo etapus. Tuo atveju, jeigu pirmuoju etapu tenkintina darbuotojo reikalavimo suma neviršija šešių minimaliųjų mėnesinių algų dydžio, darbuotojui išmokama patvirtinto pirmuoju etapu tenkintino reikalavimo dydžio išmoka. Tuo atveju, jeigu šio reikalavimo suma viršija šešių minimaliųjų mėnesinių algų dydį, darbuotojui išmokama šešių minimaliųjų mėnesinių algų dydžio išmoka;
@@ -440,12 +369,18 @@ Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 
 
 
-3. Administratorius Garantinio fondo nuostatuose nustatyta tvarka ir terminais apskaičiuoja šio įstatymo 6 straipsnio 1 ir 2 punktuose nustatytas sumas ir priima sprendimus dėl Garantinio fondo lėšų skyrimo ir išmokėjimo.
+3. Administratorius Garantinio fondo nuostatuose nustatyta tvarka ir terminais apskaičiuoja šio įstatymo 7 straipsnio 1 dalyje nustatytas išmokas, nuo jų apskaičiuotas mokesčių, nurodytų Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnyje (išskyrus gyventojų pajamų mokestį), sumas ir priima sprendimus dėl Garantinio fondo lėšų skyrimo ir išmokėjimo. Jeigu išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas ne Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (jų filialuose), su šių išmokų pervedimu susijusios išlaidos atlyginamos iš jų gavėjams skirtų išmokų iš Garantinio fondo. Jeigu kredito pervedimui apmokėti naudojamos Garantinio fondo lėšos, kai išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas ne Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (jų filialuose), viršija darbuotojams skirtų išmokų iš Garantinio fondo sumą, išmokos iš Garantinio fondo šiems darbuotojams nepervedamos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
+ 
 
 
 
 
-4. Išmokos iš Garantinio fondo neskiriamos darbuotojui, kuriam išmokos, analogiškos šio įstatymo 6 straipsnio 1 ir 2 punktuose nurodytoms išmokoms iš Garantinio fondo, buvo skirtos kitų valstybių narių institucijų, atliekančių garantijų institucijų funkcijas. Jeigu šioje dalyje nurodytam darbuotojui buvo skirtos išmokos iš Garantinio fondo, administratorius Garantinio fondo nuostatuose nustatytais terminais priima sprendimą dėl šių darbuotojui skirtų išmokų iš Garantinio fondo grąžinimo. Šios išmokos iš Garantinio fondo grąžinamos Garantinio fondo nuostatuose nustatyta tvarka.
+4. Išmokos iš Garantinio fondo neskiriamos darbuotojui, kuriam išmokos, analogiškos šio straipsnio 3 dalyje nurodytoms išmokoms iš Garantinio fondo, buvo skirtos kitų valstybių narių institucijų, atliekančių garantijų institucijų funkcijas. Jeigu šioje dalyje nurodytam darbuotojui buvo skirtos išmokos iš Garantinio fondo, administratorius Garantinio fondo nuostatuose nustatytais terminais priima sprendimą dėl darbuotojui skirtų išmokų iš Garantinio fondo grąžinimo. Šios išmokos iš Garantinio fondo grąžinamos Garantinio fondo nuostatuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
+ 
 
 
 
@@ -460,7 +395,10 @@ Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 
 
 
-7. Darbuotojai nepraranda teisės gauti išmokas iš Garantinio fondo darbdaviui į Garantinį fondą nesumokėjus šio įstatymo 5 straipsnio 1 dalies 1 punkte nurodytų įmokų.
+7. Darbuotojai nepraranda teisės gauti išmokas iš Garantinio fondo darbdaviui į Garantinį fondą nesumokėjus šio įstatymo 5 straipsnio 3 dalyje nurodytų įmokų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
+ 
 
 
 
@@ -679,46 +617,10 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 14 straipsnis. Ilgalaikio darbo išmokų fondo lėšos
 
 
-1. Ilgalaikio darbo išmokų fondo lėšas sudaro:
-
-
-1) darbdavių mokamos šio straipsnio 3 dalyje nustatytos piniginės įmokos į Ilgalaikio darbo išmokų fondą;
-
-
-
-
-2) delspinigiai, palūkanos ir baudos;
-
-
-
-
-3) fizinių ir juridinių asmenų, kitų organizacijų ir jų padalinių savanoriškos įmokos;
-
-
-
-
-4) iš valstybės biudžeto pervedamos lėšos, skirtos sankcijų taikymo išmokoms mokėti; 
-Papildyta straipsnio punktu:
-Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+1. Ilgalaikio darbo išmokų fondo pajamas sudaro Valstybės socialinių fondų biudžetų sandaros įstatymo 8 straipsnyje nurodytos pajamos, o šio fondo sąnaudas – Valstybės socialinių fondų biudžetų sandaros įstatymo 9 straipsnyje nurodytos sąnaudos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
  
-
-
-
-
-5) pajamos už investuotas laikinai laisvas lėšas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
- 
-
-
-
-
-6) kitos teisėtai gautos lėšos.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
- 
-
-
 
 
 
@@ -755,44 +657,10 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 
 
 
-15 straipsnis. Ilgalaikio darbo išmokų fondo lėšų naudojimas
-
-
-Ilgalaikio darbo išmokų fondo lėšos naudojamos:
-
-
-1) ilgalaikio darbo išmokoms ir sankcijų taikymo išmokoms mokėti; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
+15 straipsnis. Neteko galios nuo 2023-07-02
+Straipsnio naikinimas:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
  
-
-
-
-
-2) Ilgalaikio darbo išmokų fondo administravimo išlaidoms apmokėti IDIF nuostatuose nustatyta tvarka;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1726, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20985
- 
-
-
-
-
-3) laikinai laisvų lėšų investavimo išlaidoms apmokėti;
-
-
-
-
-4) Ilgalaikio darbo išmokų fondo įsipareigojimams padengti;
-
-
-
-
-5) Garantinio fondo lėšų sumai, susidariusiai dėl šio įstatymo 14 straipsnio 5 dalyje nurodytos priežasties, atkurti.
- 
-
-
-
-
 
 
 
@@ -898,9 +766,10 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 
 
 
-5) rengia ir teikia Tarybai Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektus; 
+5) rengia ir teikia Tarybai Garantinio fondo biudžeto ir Ilgalaikio darbo išmokų fondo biudžeto projektus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
  
 
 
@@ -922,7 +791,10 @@ Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 
 
 
-8) Tarybos prašymu teikia informaciją apie išmokų iš Garantinio fondo ir Ilgalaikio darbo išmokų fondo skyrimą, Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatos vykdymą ir kitais Garantinio fondo ir Ilgalaikio darbo išmokų fondo administravimo klausimais;
+8) Tarybos prašymu teikia informaciją apie išmokų iš Garantinio fondo ir Ilgalaikio darbo išmokų fondo skyrimą, Garantinio fondo biudžeto ir Ilgalaikio darbo išmokų fondo biudžeto vykdymą ir kitais Garantinio fondo ir Ilgalaikio darbo išmokų fondo administravimo klausimais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
+ 
 
 
 
@@ -988,9 +860,10 @@ Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
 4. Taryba atlieka šias funkcijas:
 
 
-1) pritaria Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektams; 
+1) pritaria Garantinio fondo biudžeto ir Ilgalaikio darbo išmokų fondo biudžeto projektams;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
  
 
 
@@ -1039,27 +912,9 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 
 
 
-21 straipsnis. Garantinio fondo ir Ilgalaikio darbo išmokų fondo atskaitomybė ir finansų kontrolė
-
-
-1. Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektai ir ataskaitų rinkiniai rengiami taikant kaupimo principą, pagal kurį biudžetiniams metams priskirtinos Garantinio fondo ir Ilgalaikio darbo išmokų fondo apskaičiuotos pajamos ir su biudžetiniais metais sutampančių laikotarpių sąnaudos parodomos pagal apskaičiavimo laikotarpius neatsižvelgiant į įplaukų gavimo ir išlaidų padarymo laiką.
-
-
-
-
-2. Vyriausybė Garantinio fondo ir Ilgalaikio darbo išmokų fondo lėšų sąmatų projektus teikia Seimui tvirtinti kartu su atitinkamų metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymo projektu Lietuvos Respublikos Seimo statute nustatyta tvarka ir terminais.
-
-
-
-
-3. Jeigu ateinančių metų Garantinio fondo lėšų sąmata nepatvirtinama iki einamųjų metų pabaigos, Garantinio fondo lėšos, skiriamos vadovaujantis šio įstatymo 6 straipsniu, metų pradžioje iki Garantinio fondo lėšų sąmatos patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusiais metais skirtų Garantinio fondo lėšų. Jeigu ateinančių metų Ilgalaikio darbo išmokų fondo lėšų sąmata nepatvirtinama iki einamųjų metų pabaigos, Ilgalaikio darbo išmokų fondo lėšos, skiriamos vadovaujantis šio įstatymo 15 straipsniu, metų pradžioje iki Ilgalaikio darbo išmokų fondo lėšų sąmatos patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusiais metais skirtų Ilgalaikio darbo išmokų fondo lėšų.
-
-
-
-
-4. Garantinio fondo ir Ilgalaikio darbo išmokų fondo ataskaitų rinkinių rengimo, sudėties, audito, skelbimo ir teikimo reikalavimus nustato Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas. 
-
-
+21 straipsnis. Neteko galios nuo 2023-07-02
+Straipsnio naikinimas:
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
 Straipsnio pakeitimai:
 Nr. XIII-3313, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21251
  
@@ -1154,8 +1009,6 @@ Respublikos Prezidentė                             
 
 
 
- 
-
  
 Lietuvos Respublikos
 garantijų darbuotojams jų 
@@ -1235,5 +1088,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1818, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05486
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 2, 6, 8, 10 ir 11 straipsnių pakeitimo įstatymas
  
- 
-part_83aca0af9aae483aa7491d16cb42c5fb_end
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1972, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10365
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 5, 7, 8, 14, 19, 20 straipsnių pakeitimo ir 6, 15, 21 straipsnių pripažinimo netekusiais galios įstatymas
