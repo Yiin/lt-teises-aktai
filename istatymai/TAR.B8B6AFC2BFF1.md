@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2023-06-23 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-08-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -64,7 +64,10 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 2 straipsnis. Įstatymo taikymas
 
 
-1. Šiuo įstatymu draudžiama ūkio subjektams atlikti veiksmus, kurie riboja ar gali riboti konkurenciją, nesvarbu, kokio pobūdžio jų ūkinė veikla, išskyrus atvejus, kai šiame įstatyme ar kituose įstatymuose, skirtuose atskiroms ūkinės veiklos sritims, numatomos išimtys.
+1. Šiuo įstatymu draudžiama ūkio subjektams atlikti veiksmus, kurie riboja ar gali riboti konkurenciją, nesvarbu, kokio pobūdžio jų ūkinė veikla, išskyrus atvejus, kai šiame įstatyme ar kituose įstatymuose, skirtuose atskiroms ūkinės veiklos sritims, numatomos išimtys. Šiuo įstatymu taip pat draudžiama viešojo administravimo subjektams priimti sprendimus, ribojančius konkurenciją, išskyrus šiame įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme ar kituose įstatymuose nustatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2110, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14001
+ 
 
 
 
@@ -3991,3 +3994,8 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 26, 27, 32, 33, 35, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 8, 20, 21, 36, 54, 55, 56, 57 straipsnių, VII skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2110, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14001
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 2 straipsnio pakeitimo įstatymas
