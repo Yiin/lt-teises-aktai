@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -3498,14 +3498,28 @@ VIEŠŲJŲ IR ADMINISTRACINIŲ PASLAUGŲ TEIKIMAS
 
 
 
-3) pagal šio įstatymo 56 straipsnį steigiant naują juridinį asmenį ar pavedant vykdyti šios viešosios paslaugos teikimą, kai šios paslaugos teikimas yra ūkinė veikla, jau veikiančiai savivaldybės valdomai įmonei buvo gautas Lietuvos Respublikos konkurencijos tarybos sutikimas. 
+3) pagal šio įstatymo 56 straipsnį steigiant naują juridinį asmenį ar pavedant vykdyti šios viešosios paslaugos teikimą, kai šios paslaugos teikimas yra ūkinė veikla, jau veikiančiai savivaldybės valdomai įmonei buvo gautas Lietuvos Respublikos konkurencijos tarybos sutikimas, arba 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
+ 
+
+
+
+
+4) savivaldybių nekilnojamasis turtas: koncertų salės, muziejai, parodų rūmai, bibliotekos, kultūros namai, teatrai, sporto salės, maniežai, stadionai, baseinai, naudojamas viešosioms paslaugoms teikti švietimo, kultūros, sporto srityse ir su jomis susijusiai ūkinei veiklai vykdyti, jeigu toks objektas yra vienintelis savivaldybės teritorijoje ar seniūnijoje. 
+Papildyta straipsnio punktu:
+Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
+ 
 
 
 
 
 
 
-3. Kai viešosios paslaugos teikimas yra ūkinė veikla, kaip ji apibrėžiama Lietuvos Respublikos konkurencijos įstatyme, turi būti įgyvendinti šio įstatymo 56 straipsnyje nustatyti reikalavimai. Šio straipsnio 2 dalies 1 ir 2 punktuose nurodytais atvejais šio įstatymo 56 straipsnyje nustatyti reikalavimai nėra taikomi. 
+3. Kai viešosios paslaugos teikimas yra ūkinė veikla, kaip ji apibrėžiama Lietuvos Respublikos konkurencijos įstatyme, turi būti įgyvendinti šio įstatymo 56 straipsnyje nustatyti reikalavimai. Šio straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytais atvejais šio įstatymo 56 straipsnyje nustatyti reikalavimai ir Konkurencijos įstatymo 4 straipsnyje nustatyti reikalavimai ir draudimai nėra taikomi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
+ 
 
 
 
@@ -4402,7 +4416,7 @@ priedas
 2006 m. lapkričio 16 d. Komisijos direktyva 2006/111/EB dėl finansinių santykių tarp valstybių narių ir valstybės įmonių skaidrumo ir dėl finansinio skaidrumo tam tikrose įmonėse (kodifikuota redakcija)
 
 
-part_bdc7b610e96e41e0acf6572fa1f56b2d_end
+part_3a4c59ea1e614100b95a62616367ef30_end
 
 
  
@@ -5249,3 +5263,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9, 12 ir 25 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2108, 2023-06-29, paskelbta TAR 2023-06-30, i. k. 2023-13408
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 7 straipsnių pakeitimo įstatymo Nr. XIV-1730 3 straipsnio pakeitimo įstatymas
+ 
+73.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 55 straipsnio pakeitimo įstatymas
