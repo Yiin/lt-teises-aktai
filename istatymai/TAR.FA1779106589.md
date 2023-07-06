@@ -13,17 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/fa177910658911eca9ac839120d251c4"
 
 # Lietuvos Respublikos žvalgybos kontrolierių įstatymas
 
+Suvestinė redakcija nuo 2023-07-06
+ 
+Įstatymas paskelbtas: TAR 2021-12-25, i. k. 2021-26905
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ŽVALGYBOS KONTROLIERIŲ
 ĮSTATYMAS
  
 2021 m. gruodžio 23 d. Nr. XIV-868
 Vilnius
- 
- 
-
- 
-
  
  
 
@@ -208,10 +210,12 @@ ANTRASIS SKIRSNIS
 6 straipsnis. Žvalgybos kontrolieriui keliami reikalavimai
 
 
-Žvalgybos kontrolieriumi skiriamas nepriekaištingos reputacijos, kaip tai apibrėžta Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos pilietis, įgijęs magistro kvalifikacinį laipsnį arba kvalifikaciją, įgyjamą baigus vientisąsias studijas, ne mažesnę kaip 10 metų patirtį vykdant veiklą, susijusią su nacionaliniu saugumu ir gynyba, ir atitinkantis teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“. Žvalgybos kontrolieriumi skiriamas asmuo, kuris iki jo kandidatūros pateikimo Seime dienos pastaruosius 5 metus nebuvo valstybės politiku.
+Žvalgybos kontrolieriumi skiriamas nepriekaištingos reputacijos, kaip tai apibrėžta Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos Respublikos pilietis, įgijęs magistro kvalifikacinį laipsnį arba kvalifikaciją, įgyjamą baigus vientisąsias studijas, ne mažesnę kaip 10 metų patirtį vykdant veiklą, susijusią su nacionaliniu saugumu ir gynyba ir (arba) žmogaus teisių ir laisvių apsauga, ir atitinkantis teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“. Žvalgybos kontrolieriumi skiriamas asmuo, kuris iki jo kandidatūros pateikimo Seime dienos pastaruosius 5 metus nebuvo valstybės politiku.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2090, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13989
  
-
-
 
 
 
@@ -1209,4 +1213,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_ad40c60252a241a1b74b2e5651de5e44_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2090, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13989
+Lietuvos Respublikos žvalgybos kontrolierių įstatymo Nr. XIV-868 6 straipsnio pakeitimo įstatymas
