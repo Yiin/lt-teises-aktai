@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
  
@@ -672,9 +672,16 @@ TAR pastaba. 10 straipsnio 1 dalies 11 punktas galioja iki 2023 m. gruodžio 31 
 
 
 11) atlieka kitas šiame ir kituose įstatymuose, Vyriausybės nutarimuose nustatytas regiono plėtros tarybos funkcijas.
+
+
+
+
+
+
+4. Regiono plėtros taryba gali atlikti ir kitas regiono plėtros tarybos nuostatuose nustatytas funkcijas, kurios neatsiejamai susijusios su šio straipsnio 1 dalyje nurodytų regiono plėtros tarybos veiklos tikslų įgyvendinimu.
+Papildyta straipsnio dalimi:
+Nr. XIV-2107, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14029
  
-
-
 
 
 
@@ -2063,7 +2070,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
 
- 
 Lietuvos Respublikos 
 regioninės plėtros įstatymo
 priedas
@@ -2164,3 +2170,8 @@ Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2107, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14029
+Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 12 straipsnio pakeitimo įstatymas
