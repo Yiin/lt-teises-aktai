@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2fa8f9a08c0d11ed8df094f359a60216"
 
 # Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2023-07-06 iki 2024-07-24
+ 
+Įstatymas paskelbtas: TAR 2023-01-04, i. k. 2023-00140
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ŠVIETIMO ĮSTATYMO NR. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 564 STRAIPSNIU
 ĮSTATYMAS
@@ -21,9 +28,6 @@ LIETUVOS RESPUBLIKOS
 Vilnius
  
  
-
- 
-
  
  
 
@@ -51,6 +55,7 @@ Vilnius
 
 
 „5. Pagal ikimokyklinio ugdymo programą ugdomam ikimokyklinio amžiaus vaikui ir jo tėvams (globėjams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo, mokslo ir sporto ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.“
+ 
 
 
 
@@ -98,6 +103,7 @@ Vilnius
 
 
 „4. Pagal priešmokyklinio ugdymo programą ugdomam priešmokyklinio amžiaus vaikui ir jo tėvams (globėjams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo, mokslo ir sporto ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.“
+ 
 
 
 
@@ -159,6 +165,7 @@ Vilnius
 
 
 „7. Pagal pradinio ugdymo programą ugdomam mokiniui ir jo tėvams (globėjams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo, mokslo ir sporto ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.“
+ 
 
 
 
@@ -201,6 +208,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 
 
 5. Pagal pagrindinio ugdymo programą ugdomam mokiniui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo, mokslo ir sporto ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.“
+ 
 
 
 
@@ -250,6 +258,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 
 6. Pagal vidurinio ugdymo programą ugdomam mokiniui ir jo tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo, mokslo ir sporto ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.“
+ 
 
 
 
@@ -327,6 +336,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 
 „4. Reikalavimus pedagoginių psichologinių tarnybų paslaugoms ir jų teikimo sąlygoms ir jų darbo organizavimo tvarką nustato švietimo, mokslo ir sporto ministras, suderinęs su sveikatos apsaugos ministru.“
+ 
 
 
 
@@ -369,6 +379,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 
 
 5. Neformalųjį suaugusiųjų švietimą nustato Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas.“
+ 
 
 
 
@@ -428,6 +439,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 4. Socialinės pedagoginės pagalbos teikimo vaikams ir mokiniams tvarką nustato švietimo, mokslo ir sporto ministras.“
+ 
 
 
 
@@ -463,6 +475,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „3. Specialioji pagalba mokiniui, kuriam jos reikia, teikiama mokykloje. Jam teikiamos žodinės kalbos vertimo į gestų kalbą, teksto skaitymo ir konspektavimo bei kitos paslaugos, didinančios ugdymosi prieinamumą. Specialiosios pagalbos teikimo mokyklose (išskyrus aukštąsias mokyklas) tvarką nustato švietimo, mokslo ir sporto ministras. Aukštojoje mokykloje specialioji pagalba teikiama aukštosios mokyklos nustatyta tvarka.“
+ 
 
 
 
@@ -496,6 +509,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „7. Nacionalines pedagoginių darbuotojų (išskyrus aukštųjų mokyklų darbuotojus) kvalifikacijos tobulinimo programas prioritetinėse kvalifikacijos tobulinimo srityse, kurias trejų metų laikotarpiui tvirtina švietimo, mokslo ir sporto ministras, įgyvendina švietimo, mokslo ir sporto ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai kartu su kitomis aukštosiomis mokyklomis ir (ar) akredituotomis kvalifikacijos tobulinimo įstaigomis. Reikalavimus nacionalinėms pedagoginių darbuotojų (išskyrus aukštųjų mokyklų darbuotojus) kvalifikacijos tobulinimo programoms, jų vertinimo, akreditavimo ir registravimo tvarką nustato švietimo, mokslo ir sporto ministras.“
+ 
 
 
 
@@ -571,6 +585,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „11. Mokinys Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo nustatytais pagrindais ir tvarka gali būti perkeltas į kitą mokyklą arba jam gali būti skirta kita minimalios ar vidutinės priežiūros priemonė.“
+ 
 
 
 
@@ -604,6 +619,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „6. Mokinių gyvenimo valstybinės ir savivaldybės bendrojo ugdymo mokyklos bendrabutyje išlaidos apmokamos iš mokyklos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) skirtų ūkio lėšų. Tėvai (globėjai, rūpintojai) už mokinių maitinimą moka švietimo, mokslo ir sporto ministro nustatyta tvarka.“
+ 
 
 
 
@@ -651,6 +667,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „4. Švietimo, mokslo ir sporto ministro įgaliota institucija ir savivaldybės vykdomoji institucija organizuoja mokymosi pagal bendrojo ugdymo programas pasiekimų patikrinimus (brandos egzaminus, pasiekimų patikrinimus baigus pagrindinio ugdymo programą, nacionalinius mokinių pasiekimų patikrinimus ir kitus mokymosi pasiekimų patikrinimo būdus) pagal švietimo, mokslo ir sporto ministro patvirtintas mokymosi pasiekimų patikrinimų programas ir mokymosi pasiekimų patikrinimų organizavimo ir vykdymo tvarkos aprašus, mokinių pasiekimų tyrimus. Šie mokymosi pasiekimų patikrinimai organizuojami vienodi visų mokomųjų kalbų mokyklų mokiniams, nepažeidžiant lygių galimybių principo, apibrėžto šio įstatymo 5 straipsnyje, o mokiniams, turintiems specialiųjų ugdymosi poreikių (išskyrus atsirandančius dėl išskirtinių asmens gabumų), pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka. Nacionaliniai mokinių pasiekimų patikrinimai organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka. Visos bendrojo ugdymo mokyklos užtikrina lietuvių kalbos mokėjimą pagal švietimo, mokslo ir sporto ministro patvirtintą lietuvių kalbos ir literatūros bendrąją programą (nacionalinio mokinių pasiekimų patikrinimo, pagrindinio ugdymo pasiekimų patikrinimo ir brandos egzaminų).“
+ 
 
 
 
@@ -684,6 +701,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „5) mokymosi pasiekimų pažymėjimas – neįgijusiam pradinio, pagrindinio ar vidurinio išsilavinimo arba įgijusiam vidurinį ar jam prilygintą išsilavinimą, patvirtintą išduotu brandos atestatu ar kitu vidurinį ar jam prilygintą išsilavinimą patvirtinančiu dokumentu, ir papildomai ir (ar) pakartotinai besimokiusiam pagal vidurinio ugdymo dalykų programas ir jas baigusiam, ir (ar) papildomai, ir (ar) pakartotinai išlaikiusiam brandos egzaminus.“
+ 
 
 
 
@@ -717,6 +735,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „15. Mokyklų pavadinimų (išskyrus aukštųjų mokyklų pavadinimus) sudarymo ir rašymo tvarką, suderinus su Valstybine lietuvių kalbos komisija, nustato švietimo, mokslo ir sporto ministras. Mokyklos pavadinime grupę ar tipą nusakantis žodis gali būti nevartojamas.“
+ 
 
 
 
@@ -800,7 +819,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Pakeisti 43 straipsnio 11 dalį ir ją išdėstyti taip:
+6. Pakeisti 43 straipsnio 11 dalį ir ją išdėstyti taip: 
 
 
 
@@ -813,7 +832,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 
-2) sukurti ir palaikyti sveiką ir saugią aplinką, sudarančią palankias galimybes ugdyti (ugdytis) ir mokytis; 
+2) sukurti ir palaikyti sveiką ir saugią aplinką, sudarančią palankias galimybes ugdyti ir mokytis;
 
 
 
@@ -823,7 +842,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 
-4) tobulinti veiklą, stiprinant veiklos įsivertinimą;
+4) tobulinti veiklą, stiprindama veiklos įsivertinimą;
 
 
 
@@ -833,13 +852,26 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 
-6) dalyvauti nacionaliniuose ir tarptautiniuose mokinių pasiekimų tyrimuose ir patikrinimuose, kurie organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka.“
+6) dalyvauti nacionaliniuose ir tarptautiniuose mokinių pasiekimų tyrimuose ir patikrinimuose, kurie organizuojami švietimo, mokslo ir sporto ministro nustatyta tvarka;
+
+
+
+
+7) tą pačią dieną informuoti tėvus (globėjus, rūpintojus) apie mokinio, kuris mokosi pagal bendrojo ugdymo programas, neatvykimą į mokyklą ar pamoką, jeigu tėvai (globėjai, rūpintojai) nepraneša mokyklai apie vaiko neatvykimą į mokyklą ar pamoką; 
+
+
+
+
+8) informuoti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybą prie Socialinės apsaugos ir darbo ministerijos apie atvejus, kai mokinio tėvai (globėjai, rūpintojai) neužtikrina vaiko pareigos mokytis iki 16 metų.“
 
 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2093, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13990
+ 
 
 
 
@@ -850,6 +882,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „12. Mokyklos Vaiko gerovės komisijos paskirtis – rūpintis mokiniui saugia ir palankia ugdymo aplinka. Mokyklos Vaiko gerovės komisijos funkcijas, sudarymo ir jos darbo organizavimo tvarką nustato švietimo, mokslo ir sporto ministras.“
+ 
 
 
 
@@ -883,6 +916,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „4. Mokyklos (išskyrus aukštąsias mokyklas) struktūros pertvarka – mokyklos grupės ar tipo pakeitimas arba vykdomos organizacinės veiklos pakeitimai (klasių, grupių, skyrių, filialų steigimas ar likvidavimas, mokymo valstybine kalba ar tautinės mažumos kalba įvedimas ar pabaiga mokykloje, paskirties keitimas) – vykdoma valstybinės ir savivaldybės mokyklos – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitų mokyklų – savininko (dalyvių susirinkimo) sprendimu, jeigu įstatymai, nustatantys konkrečias juridinių asmenų teisines formas, nenustato kitaip. Mokyklų (išskyrus aukštąsias mokyklas), vykdančių formaliojo švietimo programas, struktūros pertvarka vykdoma vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Valstybinės mokyklos (išskyrus profesinio mokymo įstaigą) grupės ar tipo pakeitimas atliekamas gavus švietimo, mokslo ir sporto ministro rašytinį sutikimą.“
+ 
 
 
 
@@ -916,6 +950,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „13) į akademines atostogas dėl ligos, gydytojų konsultacinei komisijai rekomendavus, arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti metu, neprarandant mokinio statuso ir teisės po akademinių atostogų tęsti mokymąsi toje mokykloje, kurioje mokėsi prieš akademines atostogas.“
+ 
 
 
 
@@ -977,6 +1012,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 
 
 „10) vykdyti kitas Profesinio mokymo įstatymo, Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo nustatytas pareigas.“
+ 
 
 
 
@@ -1024,6 +1060,7 @@ Pakeisti 52 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 6) švietimo įstaigos vadovas.“
+ 
 
 
 
@@ -1068,6 +1105,7 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 
 5. Švietimo, mokslo ir sporto ministro įgaliotai institucijai nustačius, kad mokykloje nesudarytos sąlygos užtikrinti švietimo kokybę laiduojantį valdymą, švietimo, mokslo ir sporto ministro įgaliota institucija gali kreiptis į savininko teises ir pareigas įgyvendinančią instituciją (dalyvių susirinkimą) dėl kokybiško valdymo užtikrinimo.“
+ 
 
 
 
@@ -1200,6 +1238,7 @@ Pakeisti 56 straipsnį ir jį išdėstyti taip:
 
 
 8) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.“
+ 
 
 
 
@@ -1331,6 +1370,7 @@ Pakeisti 57 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 4) organizuoja mokyklų, kuriose teisės aktų nustatyta tvarka įgyvendina valstybės, kaip savininkės ar dalininkės, teises ir pareigas, mokytojų, švietimo pagalbos specialistų atestaciją švietimo, mokslo ir sporto ministro nustatyta tvarka.“
+ 
 
 
 
@@ -1385,6 +1425,7 @@ Pakeisti 57 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 „10) teikia informaciją Švietimo, mokslo ir sporto ministerijai ir visuomenei apie švietimo būklę savivaldybėje.“
+ 
 
 
 
@@ -1517,6 +1558,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 15. Kiekvienais metais į pareigas priimantis asmuo ar jo įgaliotas asmuo švietimo, mokslo ir sporto ministro nustatyta tvarka, dalyvaujant mokyklos tarybai, įvertina valstybinės ar savivaldybės mokyklos (išskyrus aukštąją mokyklą) vadovo praėjusių kalendorinių metų veiklą, o dalyvaujant švietimo pagalbos įstaigos savivaldos institucijoms, jeigu jos yra (jeigu švietimo pagalbos įstaigoje savivaldos institucijų nėra, – darbuotojų atstovavimą įgyvendinantiems asmenims), – valstybinės ar savivaldybės švietimo pagalbos įstaigos vadovo praėjusių kalendorinių metų veiklą. Jeigu valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo metų veikla įvertinama nepatenkinamai dvejus metus iš eilės, į pareigas priimantis asmuo priima sprendimą atleisti valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovą iš pareigų ir nutraukti su juo sudarytą darbo sutartį per 10 darbo dienų nuo švietimo įstaigos vadovo metų veiklos įvertinimo, neišmokant jam išeitinės išmokos.“
+ 
 
 
 
@@ -1538,6 +1580,7 @@ Pakeisti 59 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 „2. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąją mokyklą) vadovu gali būti ne žemesnį kaip magistro kvalifikacinį laipsnį arba prilygintą aukštojo mokslo kvalifikaciją, arba teisės aktų nustatyta tvarka pripažintą kaip lygiavertę užsienyje įgytą kvalifikaciją turintis asmuo, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos ir jam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka arba, jeigu jis vienoje švietimo įstaigoje vadovo pareigas ėjo ne mažiau kaip 10 metų ir jam atliktas vadovavimo valstybinei ar savivaldybės švietimo įstaigai (išskyrus aukštąją mokyklą) kompetencijų vertinimui prilygintas vertinimas švietimo, mokslo ir sporto ministro nustatyta tvarka. Asmuo skiriamas į švietimo įstaigos (išskyrus aukštąją mokyklą) vadovo pareigas švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus jo gebėjimus įgyvendinti viešam konkursui pateiktas vadovavimo švietimo įstaigai gaires ir pareigybės aprašyme nustatytas funkcijas.“ 
+ 
 
 
 
@@ -1557,6 +1600,7 @@ Pakeisti 59 straipsnio 11 dalį ir ją išdėstyti taip:
 
 
 „11. Valstybinių švietimo įstaigų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo viešam konkursui švietimo įstaigos vadovo pareigoms eiti sudaro komisiją. Į viešo konkurso mokyklų vadovo pareigoms eiti komisiją 2 narius siūlo skirti valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo, po vieną narį siūlo skirti švietimo, mokslo ir sporto ministro įgaliota institucija, švietimo įstaigų vadovų ar atitinkamo tipo švietimo įstaigų asociacija, taip pat valstybinių mokyklų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo, savivaldybių biudžetinių švietimo įstaigų atveju – savivaldybės meras, savivaldybių viešųjų švietimo įstaigų atveju – dalyvių susirinkimas ar jo įgaliotas asmuo kviečia vieną mokyklos socialinių partnerių atstovą, 2 narius siūlo skirti mokyklos taryba savo sprendimu (mokinys gali būti siūlomas, jei jam yra sukakę 16 metų). Viešo konkurso švietimo įstaigos vadovo pareigoms eiti komisijos nariu gali būti tik asmuo, kuris pagal šio įstatymo 51 straipsnį yra nepriekaištingos reputacijos. Šios komisijos nariais negali būti valstybės politikai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Komisijos sudėtis skelbiama viešai švietimo įstaigos interneto svetainėje.“
+ 
 
 
 
@@ -1576,6 +1620,7 @@ Pakeisti 62 straipsnio 2 punktą ir jį išdėstyti taip:
 
 
 „2) Bendrojo ugdymo taryba inicijuoja ir svarsto ikimokyklinio, priešmokyklinio, pradinio, pagrindinio, vidurinio ugdymo turinio kaitos perspektyvas, mokytojų kvalifikacijos tobulinimo kryptis, teikia siūlymus dėl mokyklų aprūpinimo. Bendrojo ugdymo tarybos nuostatus tvirtina švietimo, mokslo ir sporto ministras;“.
+ 
 
 
 
@@ -1618,6 +1663,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 
 5. Profesinių sąjungų veiklą nustato Lietuvos Respublikos profesinių sąjungų įstatymas.“
+ 
 
 
 
@@ -1653,6 +1699,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 
 „6. Švietimo, mokslo ir sporto ministro nustatyta tvarka savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) vykdo švietimo įstaigos veiklos kokybės gerinimo priežiūrą, atsižvelgdama (atsižvelgdamas) į švietimo, mokslo ir sporto ministro įgaliotos institucijos pateiktas rekomendacijas, vadovo metų veiklos vertinimo rezultatus.“
+ 
 
 
 
@@ -1686,6 +1733,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 
 
 „13. Vaikų, kuriems šio įstatymo 7 straipsnio 2 dalyje nustatyta tvarka yra skirtas privalomas ugdymas pagal ikimokyklinio ugdymo programą, ugdymui, maitinimui ir vežiojimui iš valstybės biudžeto skiriama papildomų lėšų, kurios apskaičiuojamos, paskirstomos ir naudojamos pagal Vyriausybės patvirtintą tvarkos aprašą.“
+ 
 
 
 
@@ -1738,6 +1786,7 @@ Pakeisti 69 straipsnį ir jį išdėstyti taip:
 
 
 7. Valstybinės švietimo įstaigos (išskyrus aukštąsias mokyklas) savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) iš jai skiriamų valstybės biudžeto bendrųjų asignavimų ar kitų lėšų savo nustatyta tvarka, savivaldybės švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) iš savivaldybės biudžeto ar kitų lėšų savo nustatyta tvarka, kitų švietimo įstaigų (išskyrus aukštąsias mokyklas) savininkas (dalyvių susirinkimas) savo nustatyta tvarka gali teikti ir kitą materialinę paramą ar kompensuoti tam tikras išlaidas (važiavimo į darbą ir atgal nuosava, išsinuomota ar pagal panaudos sutartį perduota transporto priemone, gyvenamojo ploto nuomos ir kitas) švietimo įstaigų vadovams, jų pavaduotojams ugdymui, ugdymą organizuojančių skyrių vedėjams, mokytojams, pagalbos mokiniui specialistams ir kitiems ugdymo procese dalyvaujantiems asmenims.“
+ 
 
 
 
@@ -1759,6 +1808,7 @@ Pakeisti 70 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
 „8. Atlyginimo dydį už išsilavinimo pažymėjimų blankus, už asmenų, įgijusių vidurinį išsilavinimą ir pageidaujančių geriau pasirengti tolesniam mokymuisi, papildomą ir (ar) pakartotinį pageidaujamų vidurinio ugdymo programos dalykų mokymąsi ir šių asmenų brandos egzaminus nustato švietimo, mokslo ir sporto ministras.“
+ 
 
 
 
@@ -1894,7 +1944,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentas                                                                                               Gitanas Nausėda
+Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_3205bc173b2141659bfec8c3402740cf_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2093, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13990
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymo Nr. XIV-1726 17 straipsnio pakeitimo įstatymas
