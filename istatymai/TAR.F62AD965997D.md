@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2022-07-15 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-09-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -471,7 +471,9 @@ Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
 
 
-44. Šilumos punktas – prie šilumos įvado prijungtas pastato šildymo ir karšto vandens sistemos įrenginys, su šilumnešiu gaunamą šilumą transformuojantis pristatymui į pastato šildymo prietaisus. Daugiabučio namo šilumos punkto įrenginiai, būtini namo tinkamam eksploatavimui ir naudojimui, yra neatskiriama namo dalis ir šio namo butų ir patalpų savininkų bendroji dalinė nuosavybė, kurią draudžiama perduoti tretiesiems asmenims (kurie nėra šio namo butų ir patalpų savininkai).
+44. Šilumos punktas – prie šilumos įvado prijungtas pastato šildymo ir karšto vandens sistemos įrenginys, su šilumnešiu gaunamą šilumą transformuojantis pristatymui į pastato šildymo prietaisus. Daugiabučio namo šilumos punkto įrenginiai, būtini namo tinkamam eksploatavimui ir naudojimui, yra neatskiriama namo dalis ir šio namo butų ir patalpų savininkų bendroji dalinė nuosavybė, kurią draudžiama perduoti nuosavybės teise tretiesiems asmenims.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2111, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14002
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
@@ -591,12 +593,6 @@ Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
  
 
 
-Straipsnio pakeitimai:
-Nr. XI-250, 2009-05-12, Žin., 2009, Nr. 61-2402 (2009-05-26)
-Nr. XI-592, 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
-Nr. XI-1608, 2011-09-29, Žin., 2011, Nr. 123-5816 (2011-10-13)
-Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
- 
 
 
 
@@ -2497,3 +2493,13 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 12, 17, 20, 22, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 20, 23, 24 ir 32 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1876, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07541
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 3, 7, 8, 9, 10, 10-1, 12, 15, 17, 20, 22, 30, 32, 34, 35, 36, 37 straipsnių, aštuntojo ir vienuoliktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 8-2, 10-2, 29-1 straipsniais įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2111, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14002
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2 straipsnio pakeitimo įstatymas
