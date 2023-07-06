@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-10-25
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -72,8 +72,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-
- 
 
  
 PATVIRTINTAS
@@ -993,7 +991,10 @@ Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
 28 straipsnis. Nukentėjusysis
 
 
-1. Nukentėjusysis yra fizinis asmuo, kuriam nusikalstama veika padarė fizinės, turtinės ar neturtinės žalos, arba nuo nusikalstamos veikos mirusio fizinio asmens šeimos narys ar artimasis giminaitis, kurie dėl to asmens mirties patyrė fizinės, turtinės ar neturtinės žalos. Asmuo pripažįstamas nukentėjusiuoju ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi.
+1. Nukentėjusysis yra fizinis asmuo, kuriam nusikalstama veika padarė fizinės, turtinės ar neturtinės žalos, arba dėl nusikalstamos veikos mirusio arba priverstinai pradanginto fizinio asmens šeimos narys ar artimasis giminaitis, kurie dėl to asmens mirties ar priverstinio dingimo patyrė fizinės, turtinės ar neturtinės žalos. Asmuo pripažįstamas nukentėjusiuoju ikiteisminio tyrimo pareigūno, prokuroro nutarimu ar teismo nutartimi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2086, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13987
+ 
 
 
 
@@ -15884,7 +15885,8 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-part_8365e57c40d24b8bb80357fadb0170ae_end
+
+
 
 
  
@@ -16725,3 +16727,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 308 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1927, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08477
 Lietuvos Respublikos baudžiamojo proceso kodekso 122, 151, 167 ir 225 straipsnių pakeitimo įstatymas
+ 
+70.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2086, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13987
+Lietuvos Respublikos baudžiamojo proceso kodekso 28 straipsnio pakeitimo įstatymas
