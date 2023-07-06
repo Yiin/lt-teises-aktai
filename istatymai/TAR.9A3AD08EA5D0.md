@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -971,7 +971,9 @@ Nr. XIV-339, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12790
 
 
 
-5. Neformalųjį suaugusiųjų švietimą nustato Lietuvos Respublikos neformaliojo suaugusiųjų švietimo įstatymas (toliau – Neformaliojo suaugusiųjų švietimo įstatymas).
+5. Neformalųjį suaugusiųjų švietimą nustato Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
  
 
 
@@ -1724,7 +1726,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-8. Asmenų priėmimą į profesinio mokymo įstaigas ir neformaliojo suaugusiųjų švietimo programas vykdančias mokyklas nustato Profesinio mokymo įstatymas ir Neformaliojo suaugusiųjų švietimo įstatymas.
+8. Asmenų priėmimą į profesinio mokymo įstaigas ir neformaliojo suaugusiųjų švietimo programas vykdančias mokyklas nustato Profesinio mokymo įstatymas ir Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
 
 
 
@@ -2723,6 +2728,14 @@ Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
 
 
 
+11) ikimokyklinį, priešmokyklinį, pradinį, pagrindinį ir vidurinį ugdymą; 
+Papildyta straipsnio punktu:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
+
+
+
+
 2) pagal savo gebėjimus ir poreikius mokytis mokykloje, savarankiškai mokytis ir įgyti išsilavinimą, kvalifikaciją;
 
 
@@ -2771,7 +2784,10 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-11) naudotis kitomis Profesinio mokymo įstatymo ar Neformaliojo suaugusiųjų švietimo įstatymo ir kitų įstatymų nustatytomis teisėmis;
+11) naudotis kitomis Profesinio mokymo įstatymo ar Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo ir kitų įstatymų nustatytomis teisėmis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
 
 
 
@@ -2789,30 +2805,42 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 2. Mokinys privalo:
 
 
-1) sudarius mokymo sutartį, laikytis visų jos sąlygų, mokyklos vidaus tvarką nustatančių dokumentų reikalavimų;
+1) sudarius mokymo sutartį, laikytis visų jos sąlygų, mokyklos vidaus tvarką nustatančių dokumentų reikalavimų, savo veiksmais ir elgesiu nediskredituoti mokyklos;
 
 
 
 
-2) lankyti mokyklą, stropiai mokytis, laikytis mokinio elgesio normų, gerbti mokytojus ir kitus mokyklos bendruomenės narius, nepažeisti jų teisių ir teisėtų interesų;
+2) reguliariai lankyti mokyklą, be pateisinamos priežasties nepraleisti pamokų ir kitų privalomų ugdymo proceso užsiėmimų;
 
 
 
 
-3) mokytis pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų;
-Straipsnio punkto pakeitimai:
-Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+3) nuosekliai ir stropiai mokytis, atlikti mokytojo pateiktas mokymosi užduotis;
+
+
+
+
+4) gerbti Lietuvos valstybę, Lietuvos Respublikos Konstituciją, Lietuvos istoriją, lietuvių kalbą, visuomenę ir valstybės simbolius, žmogaus teises ir pagrindines laisves;
+
+
+
+
+5) laikytis mokinio elgesio normų, gerbti mokytojus ir kitus mokyklos bendruomenės narius, nepažeisti jų teisių ir teisėtų interesų;
+
+
+
+
+6) mokytis pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų;
+
+
+
+
+7) dalyvauti nuosekliose ir ilgalaikėse prevencinėse programose, pranešti apie emocinio ir fizinio smurto atvejus suaugusiesiems, nekelti pavojaus savo ir kitų asmenų sveikatai, saugumui ir gyvybei.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
  
-
-
-
-
-4) dalyvauti nuosekliose ir ilgalaikėse prevencinėse programose.
-Papildyta straipsnio punktu:
-Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
- 
-
-
 
 
 
@@ -2825,7 +2853,10 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 1. Tėvai (globėjai, rūpintojai) turi teisę:
 
 
-1) nemokamai gauti informaciją apie veikiančias mokyklas, švietimo programas, mokymo formas;
+1) nemokamai gauti informaciją apie veikiančias mokyklas, švietimo programas, mokymo formas, mokykloje vykdomas su vertybinių nuostatų ugdymu susijusias programas ir veiklas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
 
 
 
@@ -2884,7 +2915,9 @@ Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 
 
 
-9) naudotis kitų įstatymų nustatytomis teisėmis.
+9) naudotis kitų įstatymų nustatytomis teisėmis ir įstatymų nustatyta tvarka ginti savo teises. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
  
@@ -2897,26 +2930,19 @@ Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 2. Tėvai (globėjai, rūpintojai) privalo:
 
 
-1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus; 
+1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
 2 dalies 1 punkto redakcija nuo 2024-01-01:
 1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
-Straipsnio punkto pakeitimai:
-Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
-Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
- 
 
 
 
 
-2) sudaryti vaikui sveikas ir saugias gyvenimo sąlygas, gerbti vaiko asmenybę, apsaugoti jį nuo smurto, prievartos ir išnaudojimo, užtikrinti, kad vaikas laiku pasitikrintų sveikatą;
+2) sudaryti vaikui sveikas ir saugias gyvenimo sąlygas, gerbti vaiko asmenybę, apsaugoti jį nuo smurto, prievartos ir išnaudojimo, užtikrinti, kad vaiko sveikata būtų patikrinta laiku;
 
 
 
 
-3) bendradarbiauti su mokyklos vadovu, kitu švietimo teikėju, mokytojais, kitais specialistais, teikiančiais specialiąją, psichologinę, socialinę pedagoginę, specialiąją pedagoginę pagalbą, sveikatos priežiūrą, sprendžiant vaiko ugdymosi klausimus ir vykdyti jų rekomendacijas. Vaikui smurtaujant ar patiriant smurtą, kartu su vaiku psichologo nurodytu laiku atvykti į konsultaciją; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
- 
+3) bendradarbiauti su mokyklos vadovu, kitu švietimo teikėju, mokytojais, kitais specialistais, teikiančiais specialiąją, psichologinę, socialinę pedagoginę, specialiąją pedagoginę pagalbą, sveikatos priežiūrą, sprendžiant vaiko ugdymosi klausimus ir vykdyti jų rekomendacijas. Vaikui smurtaujant ar patiriant smurtą, kartu su vaiku psichologo nurodytu laiku atvykti į konsultaciją;
 
 
 
@@ -2926,20 +2952,17 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-5) ugdyti vaiko vertybines orientacijas, kontroliuoti ir koreguoti jo elgesį;
+5) ugdyti vaiko vertybines orientacijas, kontroliuoti ir koreguoti jo elgesį, ugdyti pagarbą Lietuvos valstybei, Lietuvos Respublikos Konstitucijai, Lietuvos istorijai, lietuvių kalbai, visuomenei ir valstybės simboliams; 
 
 
 
 
-6) užtikrinti vaiko parengimą mokyklai, jo mokymąsi pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų;
-Straipsnio punkto pakeitimai:
-Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
- 
+6) užtikrinti vaiko parengimą mokyklai, jo nuoseklų ir stropų mokymąsi, mokymosi užduočių atlikimą pagal priešmokyklinio, pradinio ir pagrindinio ugdymo programas iki 16 metų;
 
 
 
 
-7) užtikrinti vaiko punktualų ir reguliarų mokyklos lankymą; jeigu vaikas negali atvykti į mokyklą, nedelsdami informuoti mokyklą;
+7) užtikrinti vaiko punktualų ir reguliarų mokyklos lankymą, pamokų ir kitų privalomų ugdymo proceso užsiėmimų nepraleidimą be pateisinamos priežasties; jeigu vaikas negali atvykti į mokyklą, nedelsdami informuoti mokyklos administraciją ar jos įgaliotus asmenis;
 
 
 
@@ -2949,12 +2972,17 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 
-9) pranešti mokyklos vadovui apie žinomą smurto švietimo įstaigoje atvejį.
-Papildyta straipsnio punktu:
-Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
+9) pranešti mokyklos vadovui apie žinomą smurto švietimo įstaigoje atvejį;
+
+
+
+
+10) gerbti mokytojus ir kitus mokyklos bendruomenės narius, nepažeisti jų teisių ir teisėtų interesų.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
  
-
-
 
 
 
@@ -3112,7 +3140,18 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-5) dalyvauti mokyklos savivaldoje;
+41) į nešališką mokytojo darbo vertinimą, teisingą apmokėjimą už darbą; 
+Papildyta straipsnio punktu:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
+
+
+
+
+5) dalyvauti mokyklos savivaldoje ir profesinės sąjungos veikloje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
 
 
 
@@ -3125,7 +3164,18 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-7) naudotis kitomis Profesinio mokymo, Neformaliojo suaugusiųjų švietimo ir kitų įstatymų nustatytomis teisėmis.
+61) įstatymų nustatyta tvarka ginti savo teises; 
+Papildyta straipsnio punktu:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
+
+
+
+
+7) naudotis kitomis Profesinio mokymo įstatymo, Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo ir kitų įstatymų nustatytomis teisėmis. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
 
 
 
@@ -3140,12 +3190,18 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-2) ugdyti tvirtas mokinių dorovės, pilietines, tautines ir patriotines nuostatas, pagarbą tėvams, savo kultūriniam identitetui laiduoti mokinių asmenybės galių plėtotę, suprantamai ir aiškiai, taisyklinga lietuvių kalba perteikti ugdymo turinį, kai teisės aktais nustatyta, kad atitinkamas ugdymo turinys perteikiamas lietuvių kalba;
+2) ugdyti tvirtas mokinių dorovės, pilietines, tautines ir patriotines nuostatas, pagarbą Lietuvos valstybei, Lietuvos Respublikos Konstitucijai, Lietuvos istorijai, lietuvių kalbai, valstybės simboliams, visuomenei, tėvams, savo kultūriniam identitetui, laiduoti mokinių asmenybės galių plėtotę, suprantamai ir aiškiai, taisyklinga lietuvių kalba perteikti ugdymo turinį, kai teisės aktais nustatyta, kad atitinkamas ugdymo turinys perteikiamas lietuvių kalba; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
 
 
 
 
-3) laikytis švietimo įstaigų nusistatytų etikos normų ir švietimo įstaigos vidaus tvarką nustatančių dokumentų reikalavimų;
+3) laikytis švietimo įstaigų nusistatytų etikos normų ir švietimo įstaigos vidaus tvarką nustatančių dokumentų reikalavimų, savo veiksmais ir elgesiu nediskredituoti mokyklos, gerbti Lietuvos valstybę, Lietuvos Respublikos Konstituciją, Lietuvos istoriją, lietuvių kalbą, visuomenę ir valstybės simbolius, žmogaus teises ir pagrindines laisves; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
 
 
 
@@ -3187,7 +3243,10 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-10) vykdyti kitas Profesinio mokymo, Neformaliojo suaugusiųjų švietimo įstatymų nustatytas pareigas.
+10) vykdyti kitas Profesinio mokymo įstatymo ir Neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo nustatytas pareigas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+ 
 
 
 
@@ -4985,3 +5044,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 35 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, 70 straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 16, 29, 46, 47 ir 49 straipsnių pakeitimo įstatymas
