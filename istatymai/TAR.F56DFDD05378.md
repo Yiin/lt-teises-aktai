@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f56dfdd0537811ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymas
 
-Suvestinė redakcija nuo 2022-12-22 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-12-14
  
 Įstatymas paskelbtas: TAR 2021-12-02, i. k. 2021-25020
  
@@ -99,7 +99,7 @@ Pakeisti 46 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-2. Asmenų priėmimas į aukštąsias mokyklas gali būti vykdomas iki studijų pagal atitinkamą studijų programą pradžios. Konkursinių mokomųjų dalykų pagal studijų kryptis sąrašą, išskirdamos pagrindinį dalyką, kiekvienais metais nustato aukštosios mokyklos ir, suderinusios su Švietimo, mokslo ir sporto ministerija, paskelbia jį ne vėliau kaip prieš 3 metus iki atitinkamų metų rugsėjo 1 dienos. Šio straipsnio 1 dalyje nurodyti priėmimo į aukštąsias mokyklas reikalavimai netaikomi:
+2. Asmenų priėmimas į aukštąsias mokyklas gali būti vykdomas iki studijų pagal atitinkamą studijų programą pradžios. Konkursinių mokomųjų dalykų pagal studijų kryptis sąrašą, išskirdamos pagrindinį dalyką, kiekvienais metais nustato aukštosios mokyklos ir, suderinusios su Švietimo, mokslo ir sporto ministerija, paskelbia jį ne vėliau kaip prieš 3 metus iki atitinkamų metų rugsėjo 1 dienos. Šio straipsnio 1 dalyje nurodyti priėmimo į aukštąsias mokyklas reikalavimai netaikomi:
 
 
 1) asmenims, įgijusiems kvalifikaciją, suteikiančią teisę į aukštąjį mokslą, pagal tarptautinių organizacijų arba užsienio valstybių švietimo programas;
@@ -139,7 +139,7 @@ Pakeisti 46 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-7. Asmenų, stojančių į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas, priėmimas vykdomas centralizuotai. Centralizuotą priėmimą vykdo švietimo, mokslo ir sporto ministro įgaliota institucija švietimo, mokslo ir sporto ministro nustatyta tvarka. Kiekvienais metais iki rugpjūčio 30 dienos savo interneto svetainėse aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės finansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į aukštųjų mokyklų valstybės finansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas. Kiekvienais metais iki spalio 1 dienos aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės nefinansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į valstybės nefinansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas.
+7. Asmenų (išskyrus užsieniečius, kurie pretenduoja į valstybės nefinansuojamas studijų vietas), stojančių į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas, priėmimas vykdomas naudojantis šiai funkcijai atlikti skirta valstybės informacine sistema. Centralizuotas priėmimo į trumposios pakopos, pirmosios pakopos, vientisąsias ir profesines studijas koordinavimas vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka. Kiekvienais metais iki rugpjūčio 30 dienos savo interneto svetainėse aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės finansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į aukštųjų mokyklų valstybės finansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas. Kiekvienais metais iki spalio 1 dienos aukštosios mokyklos pateikia visuomenei informaciją apie priėmimo į savo aukštosios mokyklos valstybės nefinansuojamas vietas rezultatus pagal studijų programas, o Švietimo, mokslo ir sporto ministerija – informaciją apie priėmimo į valstybės nefinansuojamas vietas rezultatus pagal aukštąsias mokyklas ir studijų programas.
 
 
 
@@ -156,6 +156,9 @@ Pakeisti 46 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2094, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13991
+ 
 
 
 
@@ -1077,3 +1080,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 9 ir 16 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2094, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13991
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 3 straipsnio pakeitimo įstatymas
