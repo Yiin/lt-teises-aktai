@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-07-05
+Suvestinė redakcija nuo 2023-07-06 iki 2023-10-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -78,8 +78,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-
- 
 
  
 PATVIRTINTAS
@@ -4559,16 +4557,14 @@ Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
 1001 straipsnis. Priverstinis dingimas
 
 
-Tas, kas veikdamas kaip valstybės atstovas arba asmuo ar asmenų grupė, veikiantys valstybės leidimu, palaikymu ar pritarimu, sulaikė, pagrobė asmenį ar kitaip atėmė jo laisvę, kai atsisakoma pripažinti tokį sulaikymą, pagrobimą ar laisvės atėmimą, arba slėpė dingusio asmens likimą ar buvimo vietą, 
-
-
-
-
+Tas, kas veikdamas kaip valstybės atstovas arba asmuo ar asmenų grupė, veikiantys valstybės leidimu, palaikymu ar pritarimu, sulaikė, suėmė, pagrobė asmenį ar kitaip atėmė jo laisvę, kai atsisakoma pripažinti tokį sulaikymą, suėmimą, pagrobimą ar laisvės atėmimą, arba slėpė dingusio asmens likimą ar buvimo vietą,
 baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
 
 
-Papildyta straipsniu:
-Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
+Kodeksas papildytas straipsniu:
+Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
+Straipsnio pakeitimai:
+Nr. XIV-2085, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13986
  
 
 
@@ -4595,8 +4591,11 @@ Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
 1003 straipsnis. Kankinimas
 
 
-1. Tas, kas vykdydamas valstybės politiką arba veikdamas valstybės leidimu, kurstymu, palaikymu ar pritarimu, bet kokiu būdu kankino arba kitaip itin žiauriai elgėsi su žmogumi taip sukeldamas nukentėjusiam asmeniui stiprų fizinį ar psichinį skausmą arba dideles kančias,
-baudžiamas laisvės atėmimu iki penkerių metų.
+1. Tas, kas vykdydamas valstybės politiką arba veikdamas valstybės leidimu, kurstymu, palaikymu ar pritarimu, bet kokiu būdu kankino arba kitaip itin žiauriai elgėsi su žmogumi taip sukeldamas nukentėjusiam asmeniui stiprų fizinį ar psichinį skausmą arba dideles kančias, 
+baudžiamas laisvės atėmimu iki septynerių metų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2085, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13986
+ 
 
 
 
@@ -4835,19 +4834,28 @@ Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
 
 
 
-1131 straipsnis. Aplaidus vado pareigų vykdymas
+1131 straipsnis. Aplaidus arba netinkamas vado pareigų vykdymas
 
 
-Tas, kas aplaidžiai vykdė vado pareigas ir dėl to jam teisiškai ar faktiškai pavaldūs asmenys padarė šiame skyriuje numatytą nusikalstamą veiką, 
-
-
-
-
+1. Tas, kas aplaidžiai vykdė vado pareigas ir dėl to jam teisiškai ar faktiškai pavaldūs asmenys padarė šiame skyriuje numatytą nusikalstamą veiką,
 baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
+
+
+
+
+2. Tas, kas vykdė vado pareigas žinodamas, kad jam teisiškai ar faktiškai pavaldūs asmenys padarė ar ketino padaryti šiame skyriuje numatytą nusikalstamą veiką, arba nepaisydamas šios informacijos ir nesiėmęs visų būtinų ir pagrįstų, nuo jo priklausančių priemonių, kad užkirstų kelią šių nusikalstamų veikų padarymui ar kėsinimuisi jas padaryti, arba neperdavęs šios informacijos kompetentingoms institucijoms ištirti,
+baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
+
+
+
+
+3. Asmuo atsako pagal šio straipsnio 1 dalį tik tais atvejais, kai joje numatyta veika padaryta dėl neatsargumo.
 
 
 Kodeksas papildytas straipsniu:
 Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
+Straipsnio pakeitimai:
+Nr. XIV-2085, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13986
  
 
 
@@ -11948,7 +11956,8 @@ Nr. XI-1520, 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
 
 
 
-part_2d657e633c56443ca2259813f0a117c8_end
+
+
 
 
 Lietuvos Respublikos
@@ -12805,3 +12814,8 @@ Lietuvos Respublikos baudžiamojo kodekso 141, 156, 176, 178, 180, 181, 182, 183
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2025, 2023-06-01, paskelbta TAR 2023-06-07, i. k. 2023-11217
 Lietuvos Respublikos baudžiamojo kodekso 191, 192, 193 ir 194 straipsnių pakeitimo įstatymas
+ 
+57.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2085, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13986
+Lietuvos Respublikos baudžiamojo kodekso 100-1, 100-3 ir 113-1 straipsnių pakeitimo įstatymas
