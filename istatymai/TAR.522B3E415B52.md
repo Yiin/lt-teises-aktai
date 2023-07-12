@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-07-11
+Suvestinė redakcija nuo 2023-07-12 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -4644,7 +4644,15 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
-5) jis atšaukiamas iš Teisėjų tarybos nario pareigų (išskyrus Aukščiausiojo Teismo, Apeliacinio teismo ir Vyriausiojo administracinio teismo pirmininkus; jie ex officio yra Teisėjų tarybos nariai).
+5) jis atšaukiamas iš Teisėjų tarybos nario pareigų (išskyrus Aukščiausiojo Teismo, Apeliacinio teismo ir Vyriausiojo administracinio teismo pirmininkus; jie ex officio yra Teisėjų tarybos nariai);
+
+
+
+
+6) pasibaigia jo, kaip to teismo (tos jurisdikcijos ir pakopos teismų grandies), nuo kurio (kurios) jis buvo išrinktas į Teisėjų tarybą, teisėjo, įgaliojimai. 
+Papildyta straipsnio punktu:
+Nr. XIV-2137, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14331
+ 
 
 
 
@@ -4656,10 +4664,11 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
-8. Pasibaigus Teisėjų tarybos nario įgaliojimams šio straipsnio 6 dalies 1, 3, 4 arba 5 punkte nustatytu pagrindu, į jo vietą likusiam Teisėjų tarybos įgaliojimų laikui nuo atitinkamo teismo arba atitinkamos jurisdikcijos ir pakopos teismų Visuotinio teisėjų susirinkimo nustatyta tvarka elektroniniu būdu išrenkamas naujas Teisėjų tarybos narys.
-TAR pastaba. 119 straipsnio 8 dalies nuostatos taikomos Teismų įstatymo nustatyta tvarka renkant naujos sudėties Teisėjų tarybą.
+8. Pasibaigus Teisėjų tarybos nario įgaliojimams šio straipsnio 6 dalies 1, 3, 4, 5 arba 6 punkte nustatytu pagrindu, į jo vietą likusiam Teisėjų tarybos įgaliojimų laikui nuo atitinkamo teismo arba atitinkamos jurisdikcijos ir pakopos teismų Visuotinio teisėjų susirinkimo nustatyta tvarka elektroniniu būdu išrenkamas naujas Teisėjų tarybos narys.
 Papildyta straipsnio dalimi:
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
+Straipsnio dalies pakeitimai:
+Nr. XIV-2137, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14331
  
 
 
@@ -5844,3 +5853,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 papildymo 44-2 straipsniu įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1570, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25121
 Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 14, 28, 31, 34, 36, 39, 41, 74, 76, 78, 79-1, 81, 85, 90, 91-1, 91-2, 91-3, 104, 105, 106, 107, 119, 120, 122 straipsnių, IV skyriaus pirmojo skirsnio pavadinimo ir VII skyriaus pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2137, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14331
+Lietuvos Respublikos teismų įstatymo Nr. I-480 57, 101 ir 119 straipsnių pakeitimo įstatymas
