@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b7522400882311ed8df094f359a60216"
 
 # Lietuvos Respublikos Nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2023-07-12
+ 
+Įstatymas paskelbtas: TAR 2022-12-30, i. k. 2022-27586
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 NEKILNOJAMOJO TURTO REGISTRO ĮSTATYMO NR. I-1539 42 STRAIPSNIO PAKEITIMO IR NEKILNOJAMOJO TURTO REGISTRO ĮSTATYMO NR. I-1539 PAKEITIMO
 ĮSTATYMAS
@@ -520,6 +527,14 @@ f) kiti asmenys, kuriems pagal įstatymus suteikiama ši teisė;
 
 
 
+71) Lietuvos Respublikos žemės įstatymo 362 straipsnio 8 dalyje nustatyta tvarka Žemės informacinėje sistemoje nepateikta Nacionalinės žemės tarnybos prie Aplinkos ministerijos išvada, kad sandoris atitinka teisės aktų reikalavimus (nėra trūkumų) ir jį galima registruoti.
+Papildyta straipsnio punktu:
+Nr. XIV-2150, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14336
+ 
+
+
+
+
 8) prašomas registruoti objektas nėra Registro objektas;
 
 
@@ -967,4 +982,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
 
 
-part_ef12374e89264de584a0227e66ddf336_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2150, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14336
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymo Nr. XIV-1770 2 straipsnio pakeitimo įstatymas
+ 
+ 
+part_b922050159584908bca43ec4deec3474_end
