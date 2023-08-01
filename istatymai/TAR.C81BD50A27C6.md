@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-07-31
+Suvestinė redakcija nuo 2023-08-01 iki 2023-11-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -168,9 +167,19 @@ Nr. XIV-1031, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08773
 
 
 
-14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme, Lietuvos Respublikos viešųjų įstaigų įstatyme, Lietuvos Respublikos biudžetinių įstaigų įstatyme. 
+14. Stacionarinės aktyviojo gydymo asmens sveikatos priežiūros paslaugos – asmens sveikatos priežiūros paslaugos, teikiamos pacientams dėl ūmios ligos, ūmios klinikinės būklės, lėtinės ligos paūmėjimo ar sužalojimo, kai reikalingas ištyrimas ir (ar) aktyvus medikamentinis ir (ar) chirurginis gydymas, kurie negali būti atliekami ne stacionaro sąlygomis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
+ 
+
+
+
+
+15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme, Lietuvos Respublikos viešųjų įstaigų įstatyme, Lietuvos Respublikos biudžetinių įstaigų įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
  
 
 
@@ -831,6 +840,11 @@ Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
 
 
 12) kartu su Valstybine ligonių kasa nustato minimalius LNSS įstaigų išdėstymo, jų struktūros reikalavimus bei paslaugų poreikį;
+12 punkto redakcija nuo 2023-08-01:
+            12) Neteko galios nuo 2023-08-01.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
+ 
 
 
 
@@ -847,21 +861,65 @@ Nr. XI-1122, 2010-11-12, Žin., 2010, Nr. 139-7106 (2010-11-27)
 
 
 
-11 straipsnis. LNSS įstaigų išdėstymo, jų struktūros reikalavimų bei paslaugų poreikio 
-nustatymas
+11 straipsnis. LNSS įstaigų išdėstymo ir teikiamų paslaugų nustatymo reikalavimai
 
 
-1. LNSS įstaigų minimalius išdėstymo, jų struktūros reikalavimus bei paslaugų poreikį nustato Sveikatos apsaugos ministerija kartu su Valstybine ligonių kasa.
+1. LNSS įstaigų, teikiančių stacionarines aktyviojo gydymo asmens sveikatos priežiūros paslaugas, atitinkamo laikotarpio, kuris negali būti trumpesnis kaip 5 metai, išdėstymo reikalavimus ir išdėstymą nustato Vyriausybė. LNSS įstaigų, teikiančių stacionarines aktyviojo gydymo asmens sveikatos priežiūros paslaugas, išdėstymo reikalavimai ir jų išdėstymas grindžiamas šiais kriterijais:
+
+
+1) geografiniu stacionarinių aktyviojo gydymo asmens sveikatos priežiūros prieinamumu pacientams;
 
 
 
 
-2. LNSS įstaigų savininko (dalininkų) teises ir pareigas įgyvendinančios institucijos ir įstaigos privalo užtikrinti, kad būtų įgyvendinti minimalūs LNSS įstaigų išdėstymo ir jų struktūros reikalavimai.
-Straipsnio dalies pakeitimai:
-Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
+2) daugiaprofiliniu stacionarinių aktyviojo gydymo asmens sveikatos priežiūros paslaugų teikimu;
+
+
+
+
+3) stacionarinių aktyviojo gydymo asmens sveikatos priežiūros paslaugų kokybe pacientams;
+
+
+
+
+4) skubiosios medicinos pagalbos užtikrinimu visą parą.
+
+
+
+
+
+
+2. Stacionarinių aktyviojo gydymo asmens sveikatos priežiūros paslaugų profilių grupes nustato Vyriausybė.
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytų kriterijų reikšmes atitinkamam laikotarpiui nustato Vyriausybė.
+
+
+
+
+4. Kitų negu šio straipsnio 1 dalyje nurodytas paslaugas teikiančių LNSS įstaigų išdėstymo reikalavimai nustatomi, jeigu tai numatyta atitinkamas asmens sveikatos priežiūros paslaugas reglamentuojančiuose įstatymuose ar jų pagrindu priimtuose teisės aktuose.
+
+
+
+
+5. LNSS įstaigų paslaugų poreikį nustato sveikatos apsaugos ministras, suderinęs su Valstybine ligonių kasa.
+
+
+
+
+6. LNSS įstaigų savininko (dalininkų) teises ir pareigas įgyvendinančios institucijos ir įstaigos privalo užtikrinti, kad būtų įgyvendinti pagal šį straipsnį nustatomi LNSS įstaigų išdėstymo reikalavimai.
+
+
+
+
+7. Sveikatos apsaugos ministras, atsižvelgdamas į LNSS įstaigų priskyrimą Sveikatos sistemos įstatymo 12 straipsnio 1–3 dalyse nustatytiems LNSS veiklos organizavimo ir (ar) sveikatos priežiūros paslaugų lygiams ir (ar) LNSS priklausančių asmens sveikatos priežiūros įstaigų lygmenims ir (arba) LNSS įstaigos priskyrimą šio įstatymo 39 straipsnyje nurodytai nomenklatūrai, tvirtina minimalius privalomai teikiamų asmens sveikatos priežiūros paslaugų sąrašus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
  
-
-
 
 
 
@@ -1214,7 +1272,10 @@ Nr. XI-1770, 2011-12-01, Žin., 2011, Nr. 154-7261 (2011-12-17)
 
 
 
-8. Naujai įsteigtų LNSS viešųjų įstaigų vadovų mėnesinio darbo užmokesčio, mokamo pirmaisiais kalendoriniais įstaigos veiklos metais, pastoviosios dalies dydis apskaičiuojamas atsižvelgiant į praėjusių kalendorinių metų visų to paties Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodyto lygmens ir tos pačios šio įstatymo 39 straipsnio 1 ir 2 dalyse nurodytos nomenklatūros (jeigu LNSS viešoji įstaiga nėra priskirta Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodytam lygmeniui, vertinamas tik priskyrimas šio įstatymo 39 straipsnio 1 ir 2 dalyse nurodytai nomenklatūrai) LNSS viešųjų įstaigų vadovams praėjusiais kalendoriniais metais nustatytą mėnesinio darbo užmokesčio pastoviosios dalies dydžio vidurkį. Duomenis apie visų to paties Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodyto lygmens ir (ar) tos pačios šio įstatymo 39 straipsnio 1 ir 2 dalyse nurodytos nomenklatūros LNSS viešųjų įstaigų vadovų praėjusiais kalendoriniais metais nustatytą mėnesinio darbo užmokesčio pastoviosios dalies dydžio vidurkį naujai įsteigtos LNSS viešosios įstaigos savininko teises ir pareigas įgyvendinančiai institucijai arba visuotiniam dalininkų susirinkimui teikia Sveikatos apsaugos ministerija.
+8. Naujai įsteigtų LNSS viešųjų įstaigų vadovų mėnesinio darbo užmokesčio, mokamo pirmaisiais kalendoriniais įstaigos veiklos metais, pastoviosios dalies dydis apskaičiuojamas atsižvelgiant į praėjusių kalendorinių metų visų to paties Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodyto lygmens ir tos pačios šio įstatymo 39 straipsnio 1–3 dalyse nurodytos nomenklatūros (jeigu LNSS viešoji įstaiga nėra priskirta Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodytam lygmeniui, vertinamas tik jos priskyrimas šio įstatymo 39 straipsnio 1–3 dalyse nurodytai nomenklatūrai) LNSS viešųjų įstaigų vadovams praėjusiais kalendoriniais metais nustatytą mėnesinio darbo užmokesčio pastoviosios dalies dydžio vidurkį. Duomenis apie visų to paties Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodyto lygmens ir (ar) tos pačios šio įstatymo 39 straipsnio 1–3 dalyse nurodytos nomenklatūros LNSS viešųjų įstaigų vadovų praėjusiais kalendoriniais metais nustatytą mėnesinio darbo užmokesčio pastoviosios dalies dydžio vidurkį naujai įsteigtos LNSS viešosios įstaigos savininko teises ir pareigas įgyvendinančiai institucijai arba visuotiniam dalininkų susirinkimui teikia Sveikatos apsaugos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
+ 
 
 
 
@@ -2442,7 +2503,7 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-3) ambulatorijos; 
+3) ambulatorijos;
 
 
 
@@ -2452,20 +2513,17 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-5) šeimos gydytojų kabinetai; 
+5) šeimos gydytojų kabinetai;
 
 
 
 
-6) neteko galios nuo 2023-07-01; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-1112, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11873
- 
+6) palaikomojo gydymo ir slaugos ligoninės;
 
 
 
 
-7) palaikomojo gydymo ir slaugos ligoninės;
+7) sveikatos centrai;
 
 
 
@@ -2475,14 +2533,14 @@ Nr. XIV-1112, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11873
 
 
 
-9) medicininės reabilitacijos ir sanatorinio gydymo įstaigos.
+9) reabilitacijos centrai ir sanatorijos.
 
 
 
 
 
 
-2. Valstybės asmens sveikatos priežiūros viešųjų įstaigų, kurios yra pavaldžios Sveikatos apsaugos ministerijai, ir asmens sveikatos priežiūros viešųjų įstaigų, kurių dalininkės yra savivaldybė (savivaldybės) kartu su valstybe, nomenklatūra:
+2. LNSS valstybės asmens sveikatos priežiūros viešųjų įstaigų nomenklatūra:
 
 
 1) ligoninės;
@@ -2495,25 +2553,61 @@ Nr. XIV-1112, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11873
 
 
 
-3) specializuotos ligoninės, medicininės reabilitacijos ir sanatorinio gydymo įstaigos;
+3) Greitosios medicinos pagalbos tarnyba;
 
 
 
 
-4) Greitosios medicinos pagalbos tarnyba.
-Papildyta straipsnio punktu:
-Nr. XIV-1112, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11873
- 
+4) reabilitacijos centrai ir sanatorijos.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
- 
 
 
+
+
+3. Asmens sveikatos priežiūros viešosios įstaigos, kurių dalininkės yra valstybė kartu su valstybiniu universitetu, arba valstybiniu mokslinių tyrimų institutu, priskiriamos LNSS valstybės asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektui – ligoninei. Asmens sveikatos priežiūros viešosios įstaigos, kurių dalininkės yra valstybė kartu su savivaldybe (savivaldybėmis), priskiriamos mišraus pavaldumo asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektui – ligoninei.
+
+
+
+
+4. Savivaldybės tarybos motyvuotu sprendimu ir bendradarbiaudamos su visų savivaldybėje veikiančių sveikatos priežiūros įstaigų atstovais:
+
+
+1) šio straipsnio 1 dalies 3–6 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip šio straipsnio 1 dalies 1 punkte nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba
+
+
+
+
+2) šio straipsnio 1 dalies 1 ir 3–6 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip šio straipsnio 1 dalies 2 punkte nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba
+
+
+
+
+3) šio straipsnio 1 dalies 1–6 ir 8, 9 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip šio straipsnio 1 dalies 7 punkte nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba
+
+
+
+
+4) šio straipsnio 1 dalies 7 punkte nurodytiems LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektams priklausančios teikti asmens sveikatos priežiūros paslaugos atitinkamoje savivaldybės teritorijoje gali būti teikiamos sveikatos priežiūros įstaigų bendradarbiavimo sutarties, sudarytos tarp šio straipsnio 1 dalies 1–6 ir 8, 9 punktuose nurodytos nomenklatūros subjektų, pagrindu ir pasitelkiant atitinkamas sveikatos centro paslaugų sąraše nurodytas asmens sveikatos priežiūros paslaugas teikiančias LNSS asmens sveikatos priežiūros įstaigas, kurių savininkė (dalininkė) nėra valstybė arba savivaldybė (toliau – privačios asmens sveikatos priežiūros įstaigos), ir kitus sveikatos centro paslaugų sąraše nurodytų paslaugų teikėjus.
+
+
+
+
+
+
+5. Šio straipsnio 4 dalies 4 punkte nurodytiems subjektams, privačioms asmens sveikatos priežiūros įstaigoms ir kitiems sveikatos centro paslaugų sąraše nurodytiems paslaugų teikėjams draudžiama atsisakyti sudaryti šio straipsnio 4 dalies 4 punkte nurodytą sveikatos priežiūros įstaigų bendradarbiavimo sutartį su norą sudaryti tokią sutartį pareiškusia ir toje savivaldybėje veiklą vykdančia LNSS asmens sveikatos priežiūros įstaiga (nepriklausomai nuo jos nuosavybės formos ar pavaldumo), kuri atitinka sveikatos centro paslaugų sąraše nurodytų atitinkamų asmens sveikatos priežiūros paslaugų sveikatos apsaugos ministro pagal šio įstatymo 9 straipsnio 1 dalies 3 punktą patvirtintus asmens sveikatos priežiūros paslaugų teikimo reikalavimus.
+
+
+
+
+6. Tik privačių asmens sveikatos priežiūros įstaigų savivaldybės teritorijoje teikiamos asmens sveikatos priežiūros paslaugos gali būti laikomos atitinkančiomis savivaldybių sveikatos centrų teikiamas asmens sveikatos priežiūros paslaugas, jeigu privačios asmens sveikatos priežiūros įstaigos atitinkamos savivaldybės teritorijoje teikia visas sveikatos centro paslaugų sąraše nurodytas asmens sveikatos priežiūros paslaugas, šios paslaugos atitinka sveikatos centro paslaugų sąraše nurodytų atitinkamų asmens sveikatos priežiūros paslaugų sveikatos apsaugos ministro pagal šio įstatymo 9 straipsnio 1 dalies 3 punktą patvirtintus asmens sveikatos priežiūros paslaugų teikimo reikalavimus, dėl tokių paslaugų teikimo yra sudaryta sveikatos priežiūros įstaigų bendradarbiavimo sutartis su kitomis privačiomis asmens sveikatos priežiūros įstaigomis (jeigu paslaugą teikia daugiau negu viena įstaiga) ir sudarytos sveikatos priežiūros įstaigų bendradarbiavimo sutartys su sveikatos centro paslaugų sąraše nurodytų visuomenės sveikatos priežiūros ir kitų paslaugų teikėjais.
 Straipsnio pakeitimai:
 Nr. IX-1931, 2003-12-18, Žin., 2004, Nr. 4-37 (2004-01-07)
 Nr. XI-767, 2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
  
 
 
@@ -2849,6 +2943,34 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
 
 
+
+
+
+
+461 straipsnis. Sveikatos priežiūros įstaigų bendradarbiavimo sutartys
+
+
+1. Sveikatos priežiūros įstaigos šio įstatymo ir sveikatos apsaugos ministro pagal šio įstatymo 9 straipsnio 1 dalies 3 punktą tvirtinamų asmens sveikatos priežiūros paslaugų teikimo reikalavimų nustatytais atvejais atitinkamų sveikatos priežiūros paslaugų teikimą gali užtikrinti sudarydamos sveikatos priežiūros įstaigų bendradarbiavimo sutartis su kitomis atitinkamas sveikatos priežiūros paslaugas galinčiomis suteikti sveikatos priežiūros įstaigomis (nepriklausomai nuo jų nuosavybės formos ir pavaldumo).
+
+
+
+
+2. Sveikatos priežiūros įstaigų bendradarbiavimo sutartyje turi būti sutarta dėl atitinkamų sveikatos priežiūros paslaugų teikimo užtikrinimo (sutarties objekto), šalių įsipareigojimų. 
+
+
+
+
+3. Rekomenduojamą sveikatos priežiūros įstaigų bendradarbiavimo sutarčių sudarymo tvarką nustato ir pavyzdines formas tvirtina sveikatos apsaugos ministras.
+
+
+
+
+4. Sveikatos priežiūros įstaigų bendradarbiavimo sutartis nėra privaloma sveikatos priežiūros įstaigoms sudarant sutartis su teritorinėmis ligonių kasomis dėl sveikatos priežiūros paslaugų teikimo ir jų išlaidų apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis pagal Sveikatos draudimo įstatymo 26 straipsnio nuostatas.
+
+
+Papildyta straipsniu:
+Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
+ 
 
 
 
@@ -3961,3 +4083,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 45 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1292, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15198
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15 straipsnio pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 10, 11, 15-1, 39 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
