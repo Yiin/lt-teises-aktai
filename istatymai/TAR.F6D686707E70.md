@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-08-30
+Suvestinė redakcija nuo 2023-08-31 iki 2023-11-29
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -231,11 +231,9 @@ Respublikos Prezidentė                            �
 
 
 
+
  
  
-
- 
-
  
  
 PATVIRTINTA
@@ -8330,7 +8328,9 @@ DALYVAVIMAS JURIDINIO ASMENS VALDYME
 
 
 
-3. Darbuotojų dalyvavimą priimant sprendimus Europos bendrovėse, Europos kooperatinėse bendrovėse ir bendrovėse po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi veiksiančiose ribotos atsakomybės bendrovėse nustato specialūs įstatymai.
+3. Darbuotojų dalyvavimą priimant sprendimus Europos bendrovėse, Europos kooperatinėse bendrovėse ir bendrovėse, po vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių pertvarkymo, jungimosi ar skaidymo veiksiančiose ribotos atsakomybės bendrovėse nustato specialūs įstatymai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1875, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07540
  
 
 
@@ -10062,7 +10062,8 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 
 
-part_9a495bf6e2bc47069d5a1d5a6fbf7d9f_end
+
+
 
 
 Lietuvos Respublikos
@@ -10334,3 +10335,8 @@ Lietuvos Respublikos darbo kodekso 3 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1690, 2022-12-15, paskelbta TAR 2022-12-29, i. k. 2022-27268
 Lietuvos Respublikos darbo kodekso 135 straipsnio pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1875, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07540
+Lietuvos Respublikos darbo kodekso 210 straipsnio pakeitimo įstatymas
