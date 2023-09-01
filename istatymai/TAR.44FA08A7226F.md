@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
  
@@ -85,12 +85,18 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-8. Pirminis profesinis mokymas – profesinis mokymas, skirtas pirmajai kvalifikacijai įgyti. 
+8. Pirminis profesinis mokymas – profesinis mokymas, įprastai skirtas pirmajai kvalifikacijai įgyti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
 
-9. Praktinis profesinis mokymas – profesinio mokymo teikėjo teikiamas mokymas, kai profesiniai įgūdžiai ugdomi ir formuojami jo paties patalpose, aprūpintose būtinais profesinio mokymo kokybei užtikrinti materialiaisiais ištekliais, ir profesiniai įgūdžiai formuojami ir įtvirtinami realioje darbo vietoje.
+9. Praktinis profesinis mokymas – profesinio mokymo teikėjo teikiamas mokymas, kai profesiniai įgūdžiai ugdomi ir formuojami mokymui pritaikytose patalpose, aprūpintose būtinais profesinio mokymo kokybei užtikrinti materialiaisiais ištekliais, ir profesiniai įgūdžiai formuojami ir įtvirtinami realioje darbo vietoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -116,7 +122,6 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 14. Profesinio mokymo teikėjas – profesinio mokymo įstaiga, laisvasis mokytojas ar kitas profesinio mokymo paslaugas teikiantis asmuo, kuriam profesinis mokymas nėra pagrindinė veikla, įstatymų nustatyta tvarka turintys teisę rengti ir (ar) vykdyti profesinio mokymo programas.
- 
 
 
 
@@ -292,7 +297,7 @@ Lietuvos profesinio mokymo sistema apima:
 6 straipsnis. Pirminis profesinis mokymas
 
 
-1. Pirminis profesinis mokymas yra skirtas pirmajai kvalifikacijai įgyti ir teikiamas ne jaunesniems kaip 14 metų asmenims:
+1. Pirminis profesinis mokymas yra skirtas pirmajai kvalifikacijai įgyti, išskyrus šio straipsnio 8 ir 9 dalyse nurodytus atvejus, ir teikiamas ne jaunesniems kaip 14 metų asmenims:
 
 
 1) įgijusiems pagrindinį ar vidurinį išsilavinimą;
@@ -305,14 +310,14 @@ Lietuvos profesinio mokymo sistema apima:
 
 
 
-3) kurie yra mokęsi pagal specialiojo ugdymo programas.
+3) turintiems specialiųjų ugdymosi poreikių ir neįgijusiems reikiamo išsilavinimo švietimo, mokslo ir sporto ministro tvirtinamame priėmimo mokytis pagal formaliojo profesinio mokymo programas į valstybines ir savivaldybių profesinio mokymo įstaigas ir kitas valstybinių ar savivaldybių švietimo įstaigas kriterijų sąraše nustatytais atvejais.
 
 
 
 
 
 
-2. Profesinio mokymo teikėjas mokiniui, neįgijusiam pagrindinio išsilavinimo, sudaro sąlygas tęsti mokymąsi pagal pagrindinio ugdymo programą.
+2. Profesinio mokymo teikėjas mokiniui, neįgijusiam pagrindinio išsilavinimo, užtikrina galimybę tęsti mokymąsi pagal pagrindinio ugdymo programą.
 
 
 
@@ -322,15 +327,12 @@ Lietuvos profesinio mokymo sistema apima:
 
 
 
-4. Mokiniui mokantis pagal profesinio mokymo programą, bendrojo ugdymo technologijų dalykų ar profesinio mokymo programų moduliai įskaitomi švietimo, mokslo ir sporto ministro nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
- 
+4. Mokinio, kuris mokosi pagal formaliojo profesinio mokymo programą, anksčiau baigti profesinio mokymo programų moduliai įskaitomi švietimo, mokslo ir sporto ministro nustatyta tvarka.
 
 
 
 
-5. Mokiniui, baigusiam pirminio formaliojo profesinio mokymo programą ir (arba) nustatyta tvarka gavusiam jo įgytų kompetencijų įvertinimą, suteikiama atitinkamo lygio kvalifikacija.
+5. Mokiniui, baigusiam pirminio formaliojo profesinio mokymo programą ir (ar) nustatyta tvarka gavusiam jo įgytų kompetencijų įvertinimą, suteikiama atitinkamo lygio kvalifikacija.
 
 
 
@@ -340,12 +342,22 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-7. Tuo atveju, kai profesinis mokymas vykdomas pameistrystės profesinio mokymo organizavimo forma, darbdavys, sudaręs pameistrystės darbo sutartį su mokiniu, kuris mokosi ir pagal vidurinio ugdymo programą, privalo sudaryti sąlygas baigti vidurinio ugdymo programas pameistriui patogiu laiku švietimo, mokslo ir sporto ministro nustatyta tvarka. Pameistrystės darbo sutartis gali būti sudaroma tik mokiniui įgijus pagrindinį išsilavinimą.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+7. Kai profesinis mokymas vykdomas pameistrystės profesinio mokymo organizavimo forma, darbdavys, sudaręs pameistrystės darbo sutartį su mokiniu, kuris mokosi ir pagal vidurinio ugdymo programą, privalo sudaryti sąlygas baigti vidurinio ugdymo programas pameistriui patogiu laiku švietimo, mokslo ir sporto ministro nustatyta tvarka. Pameistrystės darbo sutartis gali būti sudaroma tik mokiniui įgijus pagrindinį išsilavinimą. 
+
+
+
+
+8. Pirminis profesinis mokymas gali būti teikiamas asmenims, įgijusiems kvalifikaciją kartu su pagrindiniu išsilavinimu arba turintiems tik pagrindinį išsilavinimą ir siekiantiems įgyti kvalifikaciją kartu su viduriniu išsilavinimu, ir asmenims, turintiems specialiųjų ugdymosi poreikių, kurie kvalifikaciją įgijo neturėdami reikiamo išsilavinimo, ir siekiantiems kvalifikacijos kartu nuosekliai besimokant pagal bendrojo ugdymo programas.
+
+
+
+
+9. Pirminis profesinis mokymas taip pat gali būti teikiamas asmenims, kurie įgijo kvalifikaciją pagal mažesnės negu 20 mokymosi kreditų apimties formaliojo profesinio mokymo programas, o jeigu formaliojo profesinio mokymo programų trukmė nustatyta valandomis, jų atitiktis mokymosi kreditams nustatoma švietimo, mokslo ir sporto ministro nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
-
-
 
 
 
@@ -353,7 +365,11 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 7 straipsnis. Tęstinis profesinis mokymas 
 
 
-1. Tęstinis profesinis mokymas yra skirtas ne pirmajai kvalifikacijai įgyti.
+1. Tęstinis profesinis mokymas yra skirtas ne pirmajai kvalifikacijai įgyti, išskyrus atvejus, kai nebe pirmoji kvalifikacija teikiama šio įstatymo 6 straipsnio 8 ir 9 dalyse nurodytomis sąlygomis pagal pirminio profesinio mokymo programas.
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -419,38 +435,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-11 straipsnis. Pirmoji kvalifikacija
-
-
-Laikoma, kad asmuo įgijo pirmąją kvalifikaciją, jeigu jis įgijo kvalifikaciją:
-
-
-1) turėdamas tik pradinį ar pagrindinį išsilavinimą;
-
-
-
-
-2) kartu su pagrindiniu išsilavinimu;
-
-
-
-
-3) kartu su pagrindiniu išsilavinimu ir nuosekliai mokydamasis (arba nenutraukęs mokymosi) įgijo kitą kvalifikaciją kartu su viduriniu išsilavinimu;
-
-
-
-
-4) kartu su viduriniu išsilavinimu;
-
-
-
-
-5) turėdamas tik vidurinį išsilavinimą.
+11 straipsnis. Neteko galios nuo 2023-09-01
+Straipsnio naikinimas:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
-
-
-
-
 
 
 
@@ -488,9 +476,10 @@ PROFESINIO MOKYMO ORGANIZAVIMAS IR KOKYBĖ
 
 
 
-2. Profesinio mokymo teikėjas priimti asmenis mokytis, pradėti vykdyti formaliojo profesinio mokymo programas ir su profesiniu mokymu susijusią veiklą gali tik gavęs Lietuvos Respublikos švietimo, mokslo ir sporto ministerijos išduotą licenciją.
+2. Profesinio mokymo teikėjas priimti asmenis mokytis, pradėti vykdyti formaliojo profesinio mokymo programas ir su profesiniu mokymu susijusią veiklą gali tik gavęs švietimo, mokslo ir sporto ministro įgaliotos įstaigos išduotą licenciją vykdyti formalųjį profesinį mokymą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
@@ -519,7 +508,9 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-7. Asmuo, kurio formalųjį profesinį mokymą finansuoja valstybė, Švietimo, mokslo ir sporto ministerijos nustatytais atvejais ir tvarka turi teisę keisti profesinio mokymo programą ir formą toje pačioje švietimo srityje pagal Lietuvos švietimo klasifikatorių, neprarasdamas likusios valstybinio profesinio mokymo finansavimo dalies, ne didesnės negu tos profesinės mokymo programos, pagal kurią asmuo mokėsi iki pakeisdamas profesinio mokymo programą, kaina.
+7. Neteko galios nuo 2023-09-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 Straipsnio dalies pakeitimai:
 Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
  
@@ -570,23 +561,20 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 14 straipsnis. Licencija vykdyti formalųjį profesinį mokymą
 
 
-1. Formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą gali vykdyti juridiniai asmenys, kitos juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jų padaliniai, įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turintys formaliojo profesinio mokymo licenciją (toliau – licencija), kuri suteikia teisę vykdyti Licencijų registre juridiniam ar fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas ar jų modulius.
+1. Formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą gali vykdyti juridiniai asmenys, kitos juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jų padaliniai, įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turintys formaliojo profesinio mokymo licenciją (toliau – licencija), kuri suteikia teisę vykdyti Licencijų registre juridiniam ar fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas ar jų modulius.
 
 
 
 
-2. Licencijas išduoda, papildo, atsisako jas išduoti, licencijų duomenis patikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina ir galiojimą panaikina Švietimo, mokslo ir sporto ministerija. Duomenys apie licencijų išdavimą, papildymą, patikslinimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą perduodami Licencijų registrui šio registro nuostatuose nustatyta tvarka. Formaliojo profesinio mokymo licencijavimo taisykles tvirtina Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
- 
+2. Licencijas išduoda, papildo, atsisako jas išduoti, licencijų duomenis patikslina, licencijų galiojimą sustabdo, galiojimo sustabdymą panaikina ir galiojimą panaikina švietimo, mokslo ir sporto ministro įgaliota įstaiga, vadovaudamasi šiuo įstatymu ir švietimo, mokslo ir sporto ministro tvirtinamomis formaliojo profesinio mokymo licencijavimo taisyklėmis. Duomenys apie licencijų išdavimą, papildymą, patikslinimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą perduodami Licencijų registrui šio registro nuostatuose nustatyta tvarka. 
 
 
 
 
-3. Fiziniams ir juridiniams asmenims, kitoms juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms bei jų padaliniams, norintiems gauti licenciją vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą, keliami šie reikalavimai:
+3. Fiziniams ir juridiniams asmenims, kitoms juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms ir jų padaliniams, įsteigtiems Lietuvos Respublikoje, norintiems gauti licenciją vykdyti formalųjį profesinį mokymą, keliami šie reikalavimai:
 
 
-1) profesijos mokytojai arba kandidatai į profesijos mokytojus turi atitikti profesinio mokymo programose ir Švietimo įstatyme nustatytus kvalifikacinius ir kompetencijų reikalavimus, kvalifikuotas personalas turi būti tinkamas planuojamam profesiniam mokymui vykdyti ir profesinio mokymo kokybei užtikrinti;
+1) profesijos mokytojai arba kandidatai į profesijos mokytojus turi atitikti profesinio mokymo programose ir Švietimo įstatyme nustatytus kvalifikacinius ir kompetencijų reikalavimus; kvalifikuotas personalas turi būti tinkamas planuojamam profesiniam mokymui vykdyti ir profesinio mokymo kokybei užtikrinti;
 
 
 
@@ -596,45 +584,47 @@ Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 
 
-3) turėti mokymo patalpas, aprūpintas materialiaisiais ištekliais, būtinais profesinio mokymo kokybei užtikrinti.
+3) turėti mokymo patalpas, aprūpintas materialiaisiais ištekliais, būtinais profesinio mokymo kokybei užtikrinti. Asmenims su negalia arba asmenims, turintiems specialiųjų ugdymosi poreikių dėl negalios, patalpos, kuriose vykdomas profesinis mokymas, turi būti pritaikytos pagal jų negalios pobūdį.
 
 
 
 
 
 
-4. Atitikties nustatytiems reikalavimams vertinimą organizuoja ir atlieka, ekspertizės aktą dėl pasirengimo vykdyti formalųjį profesinį mokymą išduoda kvalifikacijų tvarkymo institucija.
+4. Atitikties nustatytiems reikalavimams vertinimą organizuoja ir atlieka, ekspertizės aktą dėl pasirengimo vykdyti formalųjį profesinį mokymą išduoda kvalifikacijų tvarkymo institucija.
 
 
 
 
-5. Sprendimas dėl licencijos išdavimo ar motyvuotas atsisakymas ją išduoti turi būti pateikiamas fiziniam ar juridiniam asmeniui, kitoms juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms ir jų padaliniams ne vėliau kaip per 20 darbo dienų nuo paraiškos (prašymo) gavimo dienos. Nustačiusi, kad pateikti ne visi reikiami dokumentai, pateikti dokumentai netinkamai įforminti, dokumentuose yra klaidingų ir (ar) netikslių duomenų, Švietimo, mokslo ir sporto ministerija per 5 darbo dienas nuo dokumentų gavimo dienos apie tai informuoja siekiantį gauti (papildyti, patikslinti) licenciją fizinį ar juridinį asmenį, juridinio asmens statuso neturinčias valstybės narės organizacijas bei jų padalinius ir nustato 20 darbo dienų terminą trūkumams pašalinti. Jeigu per šį terminą trūkumai nepašalinami, Švietimo, mokslo ir sporto ministerija atsisako išduoti licenciją. Terminas licencijai išduoti skaičiuojamas nuo visų tinkamai įformintų dokumentų ir informacijos pateikimo dienos.
+5. Atitikties vertinimas neorganizuojamas ir neatliekamas, jeigu licencija papildoma naujomis formaliojo profesinio mokymo programomis ar jų moduliais, įrašytais į švietimo, mokslo ir sporto ministro tvirtinamą formaliojo profesinio mokymo programų, pagal kurias gali būti suteikiama teisė vykdyti profesinį mokymą tuo pačiu mokymo vietos adresu neatliekant ekspertizės, sąrašą.
 
 
 
 
-6. Už licencijos išdavimą, papildymą ar patikslinimą turi būti sumokėta Vyriausybės nustatyto dydžio valstybės rinkliava. Valstybės rinkliava sumokama iki švietimo, mokslo ir sporto ministro sprendimo dėl licencijos išdavimo, papildymo ar patikslinimo priėmimo. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
- 
+6. Sprendimas dėl licencijos išdavimo ar motyvuotas atsisakymas ją išduoti turi būti pateikiamas fiziniam ar juridiniam asmeniui, kitoms juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms ir jų padaliniams, įsteigtiems Lietuvos Respublikoje, ne vėliau kaip per 20 darbo dienų nuo paraiškos (prašymo) gavimo dienos. Švietimo, mokslo ir sporto ministro įgaliota įstaiga švietimo, mokslo ir sporto ministro tvirtinamose formaliojo profesinio mokymo licencijavimo taisyklėse nustatyta tvarka ir terminais per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba kreipdamasi tiesiogiai per 5 darbo dienas nuo dokumentų gavimo dienos informuoja fizinį ar juridinį asmenį, siekiantį gauti (papildyti, patikslinti) licenciją, apie švietimo, mokslo ir sporto ministro įgaliotoje įstaigoje gautus dokumentus ir, jeigu reikia, apie reikalingumą patikslinti ar pateikti trūkstamus dokumentus. Patikslintų ar trūkstamų dokumentų pateikimo terminas negali būti ilgesnis kaip 20 darbo dienų nuo informavimo apie nustatytus trūkumus dienos.
 
 
 
 
-7. Licencija neišduodama, jeigu:
-
-
-1) fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, neatitinka bent vieno reikalavimo, nurodyto šio straipsnio 3 dalyje;
+7. Už licencijos išdavimą, papildymą ar patikslinimą turi būti sumokėta Vyriausybės nustatyto dydžio valstybės rinkliava. Valstybės rinkliava sumokama iki švietimo, mokslo ir sporto ministro įgaliotos įstaigos sprendimo dėl licencijos išdavimo, papildymo ar patikslinimo priėmimo.
 
 
 
 
-2) pateikti dokumentai ir paraiška neatitinka Vyriausybės patvirtintose Formaliojo profesinio mokymo licencijavimo taisyklėse nustatytų reikalavimų arba buvo pateikti suklastoti;
+8. Licencija neišduodama, jeigu:
+
+
+1) fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, neatitinka bent vieno reikalavimo, nurodyto šio straipsnio 3 dalyje;
 
 
 
 
-3) fiziniam ar juridiniam asmeniui, juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms bei jų padaliniams licencijos galiojimas buvo panaikintas dėl nustatytų pažeidimų, kurie per nustatytą laikotarpį nebuvo pašalinti, ir nuo licencijos galiojimo panaikinimo dienos nepraėjo 6 mėnesiai;
+2) pateikti dokumentai ir paraiška neatitinka švietimo, mokslo ir sporto ministro tvirtinamose formaliojo profesinio mokymo licencijavimo taisyklėse nustatytų reikalavimų;
+
+
+
+
+3) fiziniam ar juridiniam asmeniui, juridinio asmens statuso neturinčioms kitos valstybės narės organizacijoms ir jų padaliniams, įsteigtiems Lietuvos Respublikoje, licencijos galiojimas buvo panaikintas dėl nustatytų pažeidimų, kurie per nustatytą laikotarpį nebuvo pašalinti, ir nuo licencijos galiojimo panaikinimo dienos nepraėjo 6 mėnesiai;
 
 
 
@@ -651,7 +641,7 @@ Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 
 
-8. Švietimo, mokslo ir sporto ministerija raštu įspėja licencijos turėtoją ir nustato ne ilgesnį kaip 20 darbo dienų terminą trūkumams pašalinti šiais atvejais:
+9. Švietimo, mokslo ir sporto ministro įgaliota įstaiga raštu įspėja licencijos turėtoją ir nustato ne ilgesnį kaip 20 darbo dienų terminą trūkumams pašalinti šiais atvejais:
 
 
 1) nustatoma, kad profesijos mokytojai neatitinka profesinio mokymo programoje (programose) ir Švietimo įstatyme nustatytų reikalavimų;
@@ -669,24 +659,24 @@ Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 
 
-4) nustatoma, kad juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, nesilaiko Vyriausybės patvirtintose Formaliojo profesinio mokymo licencijavimo taisyklėse nustatytų licencijuojamos veiklos sąlygų.
+4) nustatoma, kad juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, neužtikrina profesinio mokymo ir su profesiniu mokymu susijusios veiklos kokybės.
 
 
 
 
 
 
-9. Jeigu šio straipsnio 8 dalyje išvardyti trūkumai nėra pašalinami per nustatytą terminą, Švietimo, mokslo ir sporto ministerija priima sprendimą sustabdyti licencijos galiojimą iki 20 darbo dienų; kai yra objektyvių priežasčių, šis terminas gali būti pratęsiamas dar iki 20 darbo dienų nustatytiems pažeidimams ištaisyti.
+10. Jeigu šio straipsnio 9 dalyje išvardyti trūkumai nėra pašalinami per nustatytą terminą, švietimo, mokslo ir sporto ministro įgaliota įstaiga priima sprendimą sustabdyti licencijos galiojimą iki 20 darbo dienų. Šis terminas gali būti pratęsiamas dar iki 20 darbo dienų nustatytiems pažeidimams ištaisyti.
 
 
 
 
-10. Licencijos galiojimo sustabdymas Švietimo, mokslo ir sporto ministerijos sprendimu panaikinamas nedelsiant, ne vėliau kaip per 5 darbo dienas, jeigu nustatyti pažeidimai pašalinami.
+11. Licencijos galiojimo sustabdymas švietimo, mokslo ir sporto ministro įgaliotos įstaigos sprendimu panaikinamas nedelsiant, ne vėliau kaip per 5 darbo dienas, jeigu nustatyti pažeidimai pašalinami.
 
 
 
 
-11. Švietimo, mokslo ir sporto ministerija priima sprendimą licencijos galiojimą panaikinti šiais atvejais:
+12. Švietimo, mokslo ir sporto ministro įgaliota įstaiga priima sprendimą licencijos galiojimą panaikinti šiais atvejais:
 
 
 1) juridinio asmens, kitos juridinio asmens statuso neturinčios kitos valstybės narės organizacijos ir jos padalinio, įsteigto Lietuvos Respublikoje, arba fizinio asmens, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, prašymu;
@@ -699,7 +689,7 @@ Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 
 
-3) paaiškėja, kad juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, licencijai gauti pateiktuose dokumentuose nurodė klaidingus duomenis arba licencija buvo gauta pateikus suklastotus dokumentus;
+3) paaiškėja, kad juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, licencijai gauti pateiktuose dokumentuose nurodė klaidingus duomenis;
 
 
 
@@ -709,51 +699,100 @@ Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
 
 
 
-5) fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, nepradėjo vykdyti formaliojo profesinio mokymo ir (ar) su profesiniu mokymu susijusios veiklos per 2 metus nuo licencijos vykdyti formalųjį profesinį mokymą ir (ar) su profesiniu mokymu susijusią veiklą išdavimo dienos arba nevykdo formaliojo profesinio mokymo ir (ar) su profesiniu mokymu susijusios veiklos ilgiau kaip 2 metus;
+5) fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, nepradėjo vykdyti formaliojo profesinio mokymo ir su profesiniu mokymu susijusios veiklos per 2 metus nuo sprendimo dėl licencijos vykdyti formalųjį profesinį mokymą išdavimo priėmimo dienos arba nevykdo formaliojo profesinio mokymo ir su profesiniu mokymu susijusios veiklos ilgiau kaip 2 metus nuo sprendimo dėl licencijos vykdyti formalųjį profesinį mokymą išdavimo priėmimo dienos;
 
 
 
 
-6) pakartotinio išorinio institucijos vertinimo metu profesinio mokymo įstaigos ar kito profesinio mokymo teikėjo veikla įvertinama neigiamai, kai po išorinio institucijos įvertinimo profesinio mokymo įstaiga ar kitas profesinio mokymo teikėjas, bendradarbiaudamas su kvalifikacijos tvarkymo institucija ar kita švietimo, mokslo ir sporto ministro įgaliota institucija, neįgyvendino išorinio vertinimo metu pateiktų rekomendacijų;
+6) pakartotinio išorinio institucijos vertinimo metu profesinio mokymo įstaigos ar kito profesinio mokymo teikėjo veikla įvertinama neigiamai, kai po išorinio institucijos įvertinimo profesinio mokymo įstaiga ar kitas profesinio mokymo teikėjas, bendradarbiaudami su kvalifikacijos tvarkymo institucija ar kita švietimo, mokslo ir sporto ministro įgaliota institucija, neįgyvendino išorinio vertinimo metu pateiktų rekomendacijų;
 
 
 
 
-7) mirus licencijos turėtojui – fiziniam asmeniui.
+7) nelikus licencijoje nė vienos formaliojo profesinio mokymo programos ar jos modulio, kai formaliojo profesinio mokymo programa išregistruota iš Studijų, mokymo programų ir kvalifikacijų registro kaip neatitinkanti reikalavimų;
+
+
+
+
+8) mirus licencijos turėtojui – fiziniam asmeniui.
 
 
 
 
 
 
-12. Švietimo, mokslo ir sporto ministro nustatyta tvarka per 20 darbo dienų nuo šio straipsnio 11 dalyje nurodytų aplinkybių paaiškėjimo dienos priimamas sprendimas panaikinti licenciją ir apie tai pranešama Licencijų registrui, profesinio mokymo įstaigai, kitam profesinio mokymo teikėjui arba kitos valstybės narės organizacijai ar jos padaliniui, įsteigtam Lietuvos Respublikoje.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2969, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11350
+13. Švietimo, mokslo ir sporto ministro įgaliota įstaiga per 20 darbo dienų nuo bent vienos iš šio straipsnio 12 dalyje nurodytų aplinkybių paaiškėjimo dienos priima sprendimą panaikinti licencijos vykdyti formalųjį profesinį mokymą galiojimą. 
+
+
+
+
+14. Gavęs licenciją vykdyti formalųjį profesinį mokymą profesinio mokymo teikėjas švietimo, mokslo ir sporto ministro įgaliotoms institucijoms šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduota licencija vykdyti profesinį mokymą ir su profesiniu mokymu susijusią veiklą. Licencijos turėtojų licencijuojamos veiklos sąlygų laikymosi priežiūrą organizuoja ir vykdo švietimo, mokslo ir sporto ministro įgaliota įstaiga Lietuvos Respublikos viešojo administravimo įstatymo IV skyriuje nustatyta tvarka.
+
+
+
+
+15. Pasikeitus licencijoje vykdyti formalųjį profesinį mokymą nurodytiems duomenims, profesinio mokymo teikėjas per 5 darbo dienas nuo duomenų pasikeitimo informuoja švietimo, mokslo ir sporto ministro įgaliotą įstaigą, kuri per 5 darbo dienas nuo kreipimosi gavimo dienos patikslina licenciją.
+
+
+
+
+16. Licenciją gavęs profesinio mokymo teikėjas Lietuvos Respublikoje įgyja teisę vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą nuo sprendimo dėl licencijos vykdyti formalųjį profesinį mokymą išdavimo priėmimo dienos.
+
+
+
+
+17. Profesinio mokymo teikėjams, turintiems licenciją vykdyti formalųjį profesinį mokymą, draudžiama įgalioti kitus asmenis ar pagal sutartį perduoti kitiems asmenims teisę verstis licencijoje nurodyta veikla.
+
+
+
+
+18. Informacija ir dokumentai, susiję su licencijos vykdyti formalųjį profesinį mokymą ir (ar) su profesiniu mokymu susijusią veiklą išdavimu, papildymu, patikslinimu, atsisakymu ją išduoti ar jos panaikinimu (išskyrus konfidencialią informaciją, dokumentus ar jų dalį), sprendimai, susiję ir su licencijos galiojimo sustabdymu, skelbiami viešai Atviroje informavimo, konsultavimo ir orientavimo sistemoje ir Licencijų informacinėje sistemoje.
+
+
+
+
+19. Licencijos turėtojas turi teisę:
+
+
+1) vykdyti Licencijų registre įrašytas formaliojo profesinio mokymo programas ar jų modulius;
+
+
+
+
+2) vykdyti su profesiniu mokymu susijusią veiklą;
+
+
+
+
+3) apskųsti sprendimus dėl licencijos galiojimo sustabdymo, licencijos galiojimo panaikinimo, atsisakymo išduoti licenciją.
+
+
+
+
+
+
+20. Licencijos turėtojas privalo:
+
+
+1) teikti ir leisti švietimo, mokslo ir sporto ministro įgaliotai įstaigai tikrinti informaciją, susijusią su išduota licencija vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusią veiklą;
+
+
+
+
+2) užtikrinti profesinio mokymo ir su profesiniu mokymu susijusios veiklos kokybę;
+
+
+
+
+3) tobulinti veiklą, atsižvelgiant į išorinio vertinimo rezultatus.
  
 
 
 
 
-13. Gavęs licenciją vykdyti profesinį mokymą ir su profesiniu mokymu susijusią veiklą, profesinio mokymo teikėjas Švietimo, mokslo ir sporto ministerijai ar švietimo, mokslo ir sporto ministro įgaliotoms institucijoms šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduota licencija vykdyti profesinį mokymą ir (ar) su profesiniu mokymu susijusią veiklą.
-
-
-
-
-14. Pasikeitus licencijoje vykdyti profesinį mokymą ir (ar) su profesiniu mokymu susijusią veiklą nurodytiems duomenims, profesinio mokymo teikėjas per 5 darbo dienas nuo duomenų pasikeitimo informuoja Švietimo, mokslo ir sporto ministeriją, kuri per 5 darbo dienas nuo kreipimosi gavimo dienos išduoda patikslintą licenciją.
-
-
-
-
-15. Licenciją gavęs profesinio mokymo teikėjas Lietuvos Respublikoje įgyja teisę vykdyti profesinį mokymą ir su profesiniu mokymu susijusią veiklą nuo sprendimo dėl licencijos vykdyti profesinį mokymą ir (ar) su profesiniu mokymu susijusią veiklą išdavimo dienos.
-
-
-
-
-16. Informacija ir dokumentai, susiję su licencijos vykdyti profesinį mokymą ir (ar) su profesiniu mokymu susijusią veiklą išdavimu, patikslinimu, atsisakymu ją išduoti ar jos panaikinimu (išskyrus konfidencialią informaciją, dokumentus ar jų dalį), skelbiami Studijų, mokymo programų ir kvalifikacijų registre.
-
-
 Straipsnio pakeitimai:
 Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
@@ -863,9 +902,11 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-4) atsižvelgdama į profesinio mokymo įstaigos lėšas darbo užmokesčiui, svarsto profesinio mokymo įstaigos direktoriaus tvirtinamo profesinio mokymo įstaigos pareigybių sąrašo ir jo pakeitimo projektus ir teikia siūlymus dėl jų; 
+4) kiekvienais metais iki spalio 30 dienos, vadovaudamasi švietimo, mokslo ir sporto ministro tvirtinamais valstybės finansuojamų ir nefinansuojamų profesinio mokymo vietų skaičiaus nustatymo kriterijais, pagrindinio ir vidurinio ugdymo kokybę laiduojančiais kriterijais ir atsižvelgdama į galimybes užtikrinti profesinio mokymo bei pagrindinio ir vidurinio ugdymo kokybę, nustato valstybės finansuojamų ir nefinansuojamų mokymosi vietų, į kurias planuoja vykdyti ateinančių metų priėmimą, skaičių pagal Lietuvos švietimo klasifikatoriuje nustatytas sritis ir profesinio mokymo programas ir apie tai informuoja Švietimo, mokslo ir sporto ministeriją; 
 Papildyta straipsnio punktu:
 Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
+Straipsnio punkto pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
@@ -920,9 +961,10 @@ Nr. XIV-1000, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07165
 
 
 
-4. Profesinio mokymo įstaigos savininkas (dalininkų susirinkimas) tvirtina tarybos sudėtį iš 9 deleguotų narių. Tarybą sudaro vienas mokinių atstovas, vienas profesinio mokymo įstaigos mokytojų atstovas, vienas profesinio mokymo įstaigos kitų darbuotojų atstovas, vienas Švietimo, mokslo ir sporto ministerijos atstovas, 4 socialinių partnerių atstovai, vienas regionų tarybos atstovas.
+4. Profesinio mokymo įstaigos savininkas (dalininkų susirinkimas) tvirtina tarybos sudėtį iš 9 deleguotų narių. Tarybą sudaro vienas mokinių atstovas, vienas profesinio mokymo įstaigos mokytojų atstovas, vienas profesinio mokymo įstaigos kitų darbuotojų atstovas, vienas Švietimo, mokslo ir sporto ministerijos atstovas, 4 socialinių partnerių atstovai, vienas regiono plėtros tarybos atstovas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
@@ -933,9 +975,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-6. Vieną tarybos narį deleguoja visuotinis mokinių susirinkimas (konferencija), vieną – profesinio mokymo įstaigos darbuotojai mokytojai, vieną – kiti profesinės mokymo įstaigos darbuotojai, kiti 6 tarybos nariai atrenkami švietimo, mokslo ir sporto ministro nustatyta tvarka. Tarybos sudėtį viešai skelbia savininkas (dalyvių susirinkimas).
+6. Vieną tarybos narį deleguoja visuotinis mokinių susirinkimas (konferencija), vieną – profesinio mokymo įstaigos mokytojai, vieną – kiti profesinės mokymo įstaigos darbuotojai, vieną – regiono plėtros tarybos kolegija, kiti 5 tarybos nariai atrenkami švietimo, mokslo ir sporto ministro nustatyta tvarka. Tarybos sudėtį viešai skelbia savininkas (dalyvių susirinkimas). 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
@@ -982,7 +1025,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-14. Profesinio mokymo įstaigos direktorius skiriamas, vertinamas, nuo pareigų nušalinamas ir atleidžiamas Švietimo įstatyme nustatyta tvarka.
+14. Profesinio mokymo įstaigos direktorius skiriamas, vertinamas ir atleidžiamas Švietimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -997,7 +1043,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-17. Jeigu tarybos nario įgaliojimai nutrūksta iki kadencijos pabaigos, naują tarybos narį šio straipsnio 3 dalyje nustatyta tvarka deleguoja asmuo (asmenys) delegavęs (delegavę) tarybos narį, kurio įgaliojimai nutrūko. Naujas tarybos narys pareigas pradeda eiti po to, kai profesinio mokymo įstaigos savininkas (dalininkų susirinkimas) patvirtina pakeistą tarybos sudėtį, apie jo paskyrimą paskelbia tarybos pirmininkas ir tarybos narys pasirašo šio straipsnio 12 dalyje nurodytą įsipareigojimą.
+17. Jeigu tarybos nario įgaliojimai nutrūksta iki kadencijos pabaigos, naują tarybos narį šio straipsnio 6 dalyje nustatyta tvarka deleguoja asmuo (asmenys), delegavęs (delegavę) tarybos narį, kurio įgaliojimai nutrūko. Naujas tarybos narys pareigas pradeda eiti po to, kai profesinio mokymo įstaigos savininkas (dalininkų susirinkimas) patvirtina pakeistą tarybos sudėtį. Apie naujo tarybos nario paskyrimą paskelbia tarybos pirmininkas. Paskirtas tarybos narys pasirašo šio straipsnio 12 dalyje nurodytą įsipareigojimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -1028,91 +1077,67 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 18 straipsnis. Profesinio mokymo planavimas ir priėmimas mokytis
 
 
-1. Atitinkamais metais priimamų į profesinio mokymo įstaigas mokinių preliminarų skaičių pagal Ekonominės veiklos rūšių klasifikatorių iki kiekvienų metų vasario 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ir savivaldybių ūkinės ir socialinės plėtros poreikius, įvertinusi nacionalinės žmogiškųjų išteklių stebėsenos informaciją, regionų plėtros tarybų siūlymus ir valstybės finansines galimybes.
+1. Preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų, skirtų asmenims priimti mokytis pagal formaliojo profesinio mokymo programas profesinio mokymo įstaigose ir kitose valstybinėse ar savivaldybių švietimo įstaigose, skaičių 2 metams nustato Vyriausybė pagal Lietuvos švietimo klasifikatoriuje nustatytas švietimo sritis iki atitinkamų metų sausio 20 dienos. Šis skaičius nustatomas atsižvelgus į valstybės ir savivaldybės ūkinės ir socialinės plėtros poreikius, įvertinus nacionalinės žmogiškųjų išteklių stebėsenos informaciją, profesinio mokymo kvalifikacijų poreikio prognozes, pagrindinio ugdymo pasiekimų patikrinimų rezultatų informaciją, regionų plėtros tarybų siūlymus ir valstybės finansines galimybes. Į preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų skaičių neįskaičiuojamos bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo vietos bei profesinio mokymo, vykdomo Užimtumo įstatymo ir Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka, vietos.
 
 
 
 
-2. Valstybės finansuojamų ir nefinansuojamų profesinio mokymo vietų skaičius nustatomas vadovaujantis švietimo, mokslo ir sporto ministro nustatyta tvarka pagal savivaldybes, Lietuvos švietimo klasifikatoriuje apibrėžiamas švietimo sritis ir profesinio mokymo formas, profesinio mokymo įstaigas ir kvalifikacijas, įvertinus nacionalinės žmogiškųjų išteklių stebėsenos informaciją ir sektorinių profesinių komitetų siūlymus dėl galimybių vykdyti profesinį mokymą pameistrystės būdu.
+2. Valstybės finansuojamų formaliojo profesinio mokymo vietų skaičių pagal Lietuvos švietimo klasifikatoriuje apibrėžiamas švietimo sritis ir pagal regionus kiekvienais metais iki vasario 1 dienos nustato švietimo, mokslo ir sporto ministras. Valstybės finansuojamų formaliojo profesinio mokymo vietų skaičiaus pagal Lietuvos švietimo klasifikatoriuje apibrėžiamas švietimo sritis ir pagal regionus projektas teikiamas susipažinti ir pateikti siūlymus ministerijoms bei regionų plėtros taryboms ir tvirtinamas įvertinus ministerijų ir regionų plėtros tarybų siūlymus bei atsižvelgus į kvalifikacijų poreikio regionuose prognozės duomenis, neviršijant Vyriausybės nustatyto preliminaraus valstybės finansuojamų formaliojo profesinio mokymo vietų skaičiaus. Švietimo, mokslo ir sporto ministras, neviršydamas Vyriausybės nustatyto vietų skaičiaus, nustato vietų skaičių jo tvirtinamoms prioritetinėms formaliojo profesinio mokymo programoms. Atsižvelgęs į mokinių, pasirinkusių valstybės finansuojamas formaliojo profesinio mokymo vietas, skaičių ir neužpildytų vietų skaičių, švietimo, mokslo ir sporto ministras gali perskirstyti ne daugiau kaip 10 procentų nustatyto valstybės finansuojamų formaliojo profesinio mokymo vietų skaičiaus pagal Lietuvos švietimo klasifikatoriuje apibrėžiamas švietimo sritis ir regionus.
 
 
 
 
-3. Priėmimas į profesinio mokymo įstaigas, išskyrus bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjus, profesinio mokymo teikėjus, vykdančius asmenų, kuriems taikomas Užimtumo įstatymas ir Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymas, vykdomas centralizuotai.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
- 
+3. Priėmimą mokytis pagal formaliojo profesinio mokymo programas į profesinio mokymo įstaigų ir kitų valstybinių ar savivaldybių švietimo įstaigų valstybės finansuojamas formaliojo profesinio mokymo vietas centralizuotai vykdo švietimo, mokslo ir sporto ministro įgaliota institucija. Ši nuostata netaikoma bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjams, profesinio mokymo teikėjams, vykdantiems asmenų, kuriems taikomas Užimtumo įstatymas ir Neįgaliųjų socialinės integracijos įstatymas, profesinį mokymą.
 
 
 
 
-4. Stojančiųjų į profesinio mokymo valstybės finansuojamas vietas eilė sudaroma švietimo, mokslo ir sporto ministro nustatyta tvarka, kuri paskelbiama kiekvienais metais likus ne mažiau kaip 2 mėnesiams iki priėmimo į profesinio mokymo įstaigas pradžios. Priėmimo į profesinio mokymo įstaigas kriterijus nustato švietimo, mokslo ir sporto ministras.
+4. Priėmimo mokytis pagal formaliojo profesinio mokymo programas į profesinio mokymo įstaigas ir kitas valstybines ar savivaldybių švietimo įstaigas tvarką nustato švietimo, mokslo ir sporto ministras. Nuostatos, reglamentuojančios konkursinės eilės sudarymą, negali būti keičiamos likus mažiau kaip 2 mėnesiams iki atitinkamo priėmimo etapo pradžios.
 
 
 
 
-5. Priėmimas mokytis į valstybės nefinansuojamas formaliojo profesinio mokymo vietas valstybinėse profesinio mokymo įstaigose vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka, įvertinus profesinio mokymo įstaigos galimybes kokybiškai suteikti kvalifikaciją.
+5. Priėmimo mokytis pagal formaliojo profesinio mokymo programas į valstybines ir savivaldybių profesinio mokymo įstaigas ir kitas valstybinių ar savivaldybių švietimo įstaigas kriterijus nustato švietimo, mokslo ir sporto ministras.
 
 
 
 
-6. Valstybės finansuojamos vietos profesinio mokymo įstaigoms tenka pagal stojančiųjų pasirinkimą, neviršijant švietimo, mokslo ir sporto ministro nustatyto valstybinėms profesinio mokymo įstaigoms vietų bendro skaičiaus. Tvirtinant galutinį valstybės finansuojamų vietų skaičių, atsižvelgiama į profesinio mokymo įstaigos galimybes kokybiškai suteikti kvalifikaciją.
+6. Priėmimas mokytis į valstybės nefinansuojamas formaliojo profesinio mokymo vietas valstybinėse ir savivaldybių profesinio mokymo įstaigose vykdomas švietimo, mokslo ir sporto ministro nustatyta tvarka.
 
 
 
 
-7. Galutinį valstybės finansuojamų formaliojo profesinio mokymo vietų skaičių ir jų pasiskirstymą pagal profesinio mokymo įstaigas ir kvalifikacijas tvirtina švietimo, mokslo ir sporto ministras.
+7. Priėmimą mokytis į valstybės finansuojamas neformaliojo profesinio mokymo vietas, atsižvelgiant į profesinio mokymo teikėjo galimybes kokybiškai suteikti kvalifikaciją, profesinio mokymo teikėjas vykdo švietimo, mokslo ir sporto ministro nustatyta tvarka.
 
 
 
 
-8. Priėmimą mokytis į valstybės finansuojamas neformaliojo profesinio mokymo vietas, atsižvelgiant į profesinio mokymo teikėjo galimybes kokybiškai suteikti kvalifikaciją, profesinio mokymo teikėjas vykdo Vyriausybės nustatyta tvarka.
+8. Priėmimo į bausmių vykdymo sistemos profesinio mokymo įstaigų vykdomas programas planą tvirtina teisingumo ministras, o priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą – vidaus reikalų ministras.
 
 
 
 
-9. Priėmimo į bausmių vykdymo sistemos profesinio mokymo įstaigų vykdomas programas planą tvirtina Lietuvos Respublikos teisingumo ministras, o priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą – Lietuvos Respublikos vidaus reikalų ministras.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
- 
+9. Asmenų priėmimą į bausmių vykdymo sistemos profesinio mokymo įstaigas ir vidaus reikalų profesinio mokymo įstaigas reglamentuoja Vidaus tarnybos statutas.
 
 
 
 
-10. Asmenų, pageidaujančių mokytis pagal pirminio arba tęstinio profesinio mokymo programas, bendrojo priėmimo į valstybines ar savivaldybių arba nevalstybines profesinio mokymo įstaigas tvarką nustato švietimo, mokslo ir sporto ministras.
+10. Asmenys, kurie pirmąją kvalifikaciją įgijo mokydamiesi pagal mažesnės negu 20 mokymosi kreditų apimties formaliojo profesinio mokymo programą, gali būti priimami į pirminį arba tęstinį profesinį mokymą. Nustatant asmens įgytų kvalifikacijų skaičių, neįskaitomos kvalifikacijos, įgytos pagal formaliojo profesinio mokymo programas, kurių apimtis mažesnė negu 20 mokymosi kreditų, o jeigu formaliojo profesinio mokymo programų trukmė nustatyta valandomis, jų atitiktis mokymosi kreditams nustatoma švietimo, mokslo ir sporto ministro nustatyta tvarka, o pagal vieną formaliąją profesinio mokymo programą įgytos ne daugiau kaip trys kvalifikacijos prilyginamos vienai kvalifikacijai.
 
 
 
 
-11. Asmenų priėmimą į bausmių vykdymo sistemos profesinio mokymo įstaigas ir vidaus reikalų profesinio mokymo įstaigas reglamentuoja Vidaus tarnybos statutas.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
- 
+11. Asmens priėmimas mokytis pagal profesinio mokymo programą įforminamas profesinio mokymo sutartimi. Bausmių vykdymo sistemos profesinio mokymo įstaigose ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato vidaus reikalų ministras, suderinęs su teisingumo ministru, kitoms profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką – švietimo, mokslo ir sporto ministras kartu su ekonomikos ir inovacijų ministru.
 
 
 
 
-12. Asmenys, įgiję kvalifikaciją pagal pirminio profesinio mokymo programą, išskyrus tuos, kurie įgijo kvalifikaciją kartu su pagrindiniu išsilavinimu ir nuosekliai mokydamiesi (arba nenutraukę mokymosi) įgijo kitą kvalifikaciją kartu su viduriniu išsilavinimu, taip pat asmenys, turintys aukštojo mokslo kvalifikaciją ir siekiantys mokytis valstybės finansuojamoje profesinio mokymo vietoje, priimami tik į tęstinį profesinį mokymą švietimo, mokslo ir sporto ministro nustatyta tvarka.
-
-
-
-
-121. Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos registruotų bedarbių, siekiančių įgyti kvalifikaciją, priėmimas į profesinio mokymo įstaigas ar profesinio mokymo teikėjus mokytis pagal profesinio mokymo programas vykdomas ne rečiau kaip kartą per mėnesį švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka.
-Papildyta straipsnio dalimi:
-Nr. XIV-1145, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13884
- 
-
-
-
-
-13. Asmens priėmimas mokytis pagal profesinio mokymo programą įforminamas profesinio mokymo sutartimi. Bausmių vykdymo sistemos profesinio mokymo įstaigose ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato vidaus reikalų ministras, suderinęs su teisingumo ministru, kitoms profesinio mokymo sutartims taikomus reikalavimus ir šių sutarčių registravimo tvarką nustato švietimo, mokslo ir sporto ministras kartu su ekonomikos ir inovacijų ministru.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
- 
+12. Asmuo, kurio formalųjį profesinį mokymą finansuoja valstybė, švietimo, mokslo ir sporto ministro nustatyta tvarka turi teisę vieną kartą keisti pasirinktą profesinio mokymo programą, neprarasdamas valstybės finansuojamos profesinio mokymo vietos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
@@ -1157,26 +1182,26 @@ Nr. XIV-1145, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13884
 
 
 
-20 straipsnis. Specialiųjų poreikių asmenų profesinis mokymas
+20 straipsnis. Asmenų, turinčių specialiųjų ugdymosi poreikių, profesinis mokymas
 
 
-1. Specialiųjų poreikių asmenims teisės aktų nustatyta tvarka sudaromos sąlygos mokytis pagal profesinio mokymo programas ir įgyti kvalifikaciją. 
+1. Asmenims, turintiems specialiųjų ugdymosi poreikių, švietimo, mokslo ir sporto ministro nustatyta formaliojo profesinio mokymo tvarka sudaromos sąlygos mokytis pagal profesinio mokymo programas ar jų modulius ir įgyti kvalifikaciją ar kompetenciją. 
 
 
 
 
-2. Asmenys, baigę specialiojo ugdymo programas, mokomi kartu su kitais mokiniais pagal jiems pritaikytas profesinio mokymo programas švietimo, mokslo ir sporto ministro nustatyta tvarka, suderinus su socialinės apsaugos ir darbo ministru.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
+2. Asmenys, turintys specialiųjų ugdymosi poreikių, mokomi kartu su kitais mokiniais. Asmenims, turintiems specialiųjų ugdymosi poreikių, profesinio mokymo programos ar jų moduliai prireikus pritaikomi švietimo, mokslo ir sporto ministro nustatyta tvarka, suderinus su socialinės apsaugos ir darbo ministru.
+
+
+
+
+3. Vyriausybės įgaliotos institucijos gali užsakyti valstybės finansuojamų vietų asmenims, turintiems specialiųjų ugdymosi poreikių, mokyti pagal profesinio mokymo programas ar jų modulius.
  
 
 
-
-
-3. Vyriausybės įgaliotos institucijos profesinio mokymo įstaigose gali užsakyti profesinio mokymo programas specialiųjų poreikių asmenims. 
+Straipsnio pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
-
-
 
 
 
@@ -1264,7 +1289,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-2) pažymėjimas – asmeniui, baigusiam profesinio mokymo programos modulį ar įvertinus dalies atitinkamos kvalifikacijos neformaliuoju būdu įgytas kompetencijas.
+2) pažymėjimas – asmeniui, baigusiam profesinio mokymo programos modulį, neformaliojo profesinio mokymo programą ir įvertinus dalies atitinkamos kvalifikacijos neformaliuoju būdu įgytas kompetencijas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -1484,7 +1512,10 @@ PROFESINIO MOKYMO VALDYMAS. SAVIVALDA
 
 
 
-3) skelbia informaciją apie profesinio mokymo įstaigų vykdomą profesinį mokymą, profesinį mokymą vykdančius ir (arba) turinčius licencijas jį vykdyti profesinio mokymo teikėjus, apie institucijas, kurioms suteikta teisė vertinti asmens įgytas kompetencijas;
+3) skelbia informaciją apie institucijas, kurioms suteikta teisė vertinti asmens įgytas kompetencijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -1494,7 +1525,10 @@ PROFESINIO MOKYMO VALDYMAS. SAVIVALDA
 
 
 
-5) rengia Kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką;
+5) Neteko galios nuo 2023-09-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -1524,7 +1558,9 @@ PROFESINIO MOKYMO VALDYMAS. SAVIVALDA
 
 
 
-11) rengia profesinio mokymo lėšų skaičiavimo vienam mokiniui, kuris mokosi pagal formaliojo profesinio mokymo programą (išskyrus bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigų vykdomas programas), metodiką (toliau – profesinio mokymo lėšų skaičiavimo vienam mokiniui metodika);
+11) Neteko galios nuo 2023-09-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 Straipsnio punkto pakeitimai:
 Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
  
@@ -1532,7 +1568,9 @@ Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
 
 
 
-12) kartu su Lietuvos Respublikos ekonomikos ir inovacijų ministerija vykdo profesinio rengimo (išskyrus bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo įstaigų vykdomas programas) finansavimą iš valstybės biudžeto, taikydama profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
+12) Neteko galios nuo 2023-09-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 Straipsnio punkto pakeitimai:
 Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
  
@@ -1550,7 +1588,10 @@ Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
 
 
 
-15) atlieka formaliojo profesinio mokymo ir su juo susijusios veiklos licencijavimo funkcijas;
+15) Neteko galios nuo 2023-09-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 
@@ -1565,74 +1606,48 @@ Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
 2. Švietimo, mokslo ir sporto ministras:
 
 
-1) tvirtina bendruosius profesinio mokymo planus;
+1) tvirtina bendruosius formaliojo profesinio mokymo planus;
 
 
 
 
-2) tvirtina asmenų, išskyrus asmenis, kuriems taikomas Užimtumo įstatymas, Neįgaliųjų socialinės integracijos įstatymas ar Vidaus tarnybos statutas, pageidaujančių įgyti kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo vietas planą;
+2) nustato formaliojo profesinio mokymo tvarką;
 
 
 
 
-3) tvirtina asmenų priėmimo į valstybines ir savivaldybių profesinio mokymo įstaigas bendruosius kriterijus;
+3) tvirtina ankstesnio mokymosi pasiekimų įskaitymo tvarką keičiant arba tęsiant mokymąsi pagal formaliojo profesinio mokymo programas, skirtas pirminiam ar tęstiniam profesiniam mokymui;
 
 
 
 
-4) nustato kvalifikacijos ir mokymosi pasiekimų dokumentų, nurodytų šio įstatymo 23 straipsnio 1 dalyje, turinį, formą ir išdavimo tvarką;
+4) suderinęs su ekonomikos ir inovacijų ministru, tvirtina asmens įgytų kompetencijų vertinimo tvarkos aprašą;
 
 
 
 
-5) tvirtina bendrojo ugdymo technologijų dalykų ir profesinio mokymo programos, profesinių standartų, modulių užskaitos tvarkos aprašą;
+5) nustato neformaliojo profesinio mokymo tvarką;
 
 
 
 
-6) suderinęs su ekonomikos ir inovacijų ministru, tvirtina asmens įgytų kompetencijų vertinimo tvarkos aprašą;
+6) skiria profesinio mokymo įstaigas IV ir V lygio kvalifikacijų kompetencijų praktinės dalies (gebėjimų) vertinimui;
 
 
 
 
-7) suderinęs su ekonomikos ir inovacijų ministru, tvirtina kompetencijų vertinimo lėšų paskirstymo tvarkos aprašą;
+7) priima sprendimus dėl valstybei nuosavybės teise priklausančio ilgalaikio (išskyrus nekilnojamąjį turtą) ir trumpalaikio materialiojo ir nematerialiojo turto perdavimo patikėjimo teise pagal valstybės turto patikėjimo sutartį 20 metų valstybinėms profesinio mokymo įstaigoms;
 
 
 
 
-8) nustato profesinio mokymo tvarką;
+8) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+ 
 
 
-
-
-9) nustato profesinio mokymo programų ir jų modulių rengimo ir įregistravimo tvarką;
-
-
-
-
-10) nustato sektorinių profesinių komitetų uždavinius, funkcijas, komitetų sudarymo ir finansavimo tvarką;
-
-
-
-
-11) teikia Vyriausybei tvirtinti profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
-
-
-
-
-12) teikia Vyriausybei tvirtinti Formaliojo profesinio mokymo licencijavimo taisykles;
-
-
-
-
-13) teikia Vyriausybei tvirtinti Kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką;
-
-
-
-
-14) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
 Straipsnio pakeitimai:
@@ -1705,102 +1720,56 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-28 straipsnis. Vidaus reikalų ministerijos ir vidaus reikalų ministro įgaliojimai
+28 straipsnis. Vidaus reikalų ministro įgaliojimai
 
 
-1. Vidaus reikalų ministerija:
+Vidaus reikalų ministras:
 
 
-1) kartu su Teisingumo ministerija rengia vidaus reikalų ir bausmių vykdymo sistemos profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
+1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas ir kurie pageidauja įgyti kvalifikaciją, priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą; 
+
+
+
+
+2) suderinęs su teisingumo ministru, nustato reikalavimus, taikomus bausmių vykdymo sistemos profesinio mokymo įstaigose ir vidaus reikalų profesinio mokymo įstaigose besimokančių asmenų, kuriems taikomas Vidaus tarnybos statutas, profesinio mokymo sutartims, ir šių sutarčių registravimo tvarką;
+
+
+
+
+3) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
  
-
-
-
-
-2) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
-
-
-
-
-
-
-2. Vidaus reikalų ministras:
-
-
-1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas, pageidaujančių įgyti kvalifikaciją, priėmimo į vidaus reikalų profesinio mokymo įstaigų vykdomas programas planą; 
-
-
-
-
-2) suderinęs su teisingumo ministru, nustato reikalavimus, taikomus vidaus reikalų  profesinio mokymo įstaigose ir bausmių vykdymo sistemos profesinio mokymo įstaigose besimokančių asmenų, kuriems taikomas Vidaus tarnybos statutas, profesinio mokymo sutartims, ir šių sutarčių registravimo tvarką;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
- 
-
-
-
-
-3) teikia Vyriausybei tvirtinti vidaus reikalų ir bausmių vykdymo sistemos profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
- 
-
-
-
-
-4) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1392, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12062
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
 
 
-29 straipsnis. Teisingumo ministerijos ir teisingumo ministro įgaliojimai
+29 straipsnis. Teisingumo ministro įgaliojimai
 
 
-1. Teisingumo ministerija:
+Teisingumo ministras:
 
 
-1) kartu su Vidaus reikalų ministerija rengia vidaus reikalų ir bausmių vykdymo sistemos profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
- 
+1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas ir kurie pageidauja įgyti kvalifikaciją, priėmimo į bausmių vykdymo sistemos profesinio mokymo įstaigų vykdomas programas planą;
 
 
 
 
 2) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
-
-
-
-
-
-
-2. Teisingumo ministras:
-
-
-1) tvirtina asmenų, kuriems taikomas Vidaus tarnybos statutas, pageidaujančių įgyti kvalifikaciją, priėmimo į bausmių vykdymo sistemos profesinio mokymo įstaigų vykdomas programas planą;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
  
-
-
-
-
-2) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1392, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12062
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
@@ -1876,10 +1845,15 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-32 straipsnis. Vyriausybės strateginės analizės centras 
+32 straipsnis. Vyriausybės įgaliotos įstaigos įgaliojimai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
+ 
 
 
-Šio įstatymo reguliavimo srityje Vyriausybės strateginės analizės centras:
+Šio įstatymo reguliavimo srityje Vyriausybės įgaliota įstaiga: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 
 1) vykdo žmogiškųjų išteklių ir profesinio mokymo sistemos stebėseną;
@@ -2022,18 +1996,18 @@ PROFESINIO MOKYMO FINANSAVIMAS
  
 
 
-35 straipsnis. Profesinio mokymo įstaigų finansavimo lėšos
+35 straipsnis. Profesinio mokymo įstaigų lėšos
 
 
-Profesinio mokymo įstaigų finansavimo lėšas sudaro:
+Profesinio mokymo įstaigų lėšas sudaro:
 
 
-1) valstybės ir savivaldybių biudžetų finansavimo lėšos;
+1) valstybės biudžeto ir savivaldybių biudžetų lėšos;
 
 
 
 
-2) valstybės ir savivaldybių investicijų programų ir valstybės investicijų projektų lėšos valstybinėms profesinio mokymo įstaigoms;
+2) pajamos, gautos kaip užmokestis už profesinį mokymą ir kitas paslaugas, taip pat pajamos iš ūkinės veiklos;
 
 
 
@@ -2048,18 +2022,20 @@ Profesinio mokymo įstaigų finansavimo lėšas sudaro:
 
 
 
-5) socialinių partnerių lėšos;
+5) darbdavių ir kitų socialinių partnerių lėšos;
 
 
 
 
-6) kitos teisėtai gautos lėšos. 
+6) kitos teisėtai gautos lėšos.
+ 
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
  
 
 
