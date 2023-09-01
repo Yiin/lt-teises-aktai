@@ -19,10 +19,9 @@ IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-06-25 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 137-5366, i. k. 1081010ISTA00X-1809
  
@@ -292,6 +291,36 @@ KETVIRTASIS1 SKIRSNIS
 
 Papildyta skirsniu:
 Nr. XII-890, 2014-05-15, paskelbta TAR 2014-05-28, i. k. 2014-05780
+ 
+
+
+
+
+KETVIRTASIS2 SKIRSNIS
+SPRENDIMO (ES) 2022/1206 IR 2019 M. liepos 2 D. HAGOS KONVENCIJOS DĖL UŽSIENIO TEISMŲ SPRENDIMŲ CIVILINIAIS ARBA KOMERCINIAIS KLAUSIMAIS PRIPAŽINIMO IR VYKDYMO ĮGYVENDINIMAS
+ 
+
+
+44 straipsnis. Teismų sprendimų pripažinimo ir vykdymo tvarka
+
+
+1. 2019 m. liepos 2 d. Hagos konvencijos dėl užsienio teismų sprendimų civiliniais arba komerciniais klausimais pripažinimo ir vykdymo (toliau – 2019 m. Hagos konvencija), prie kurios Europos Sąjunga prisijungė Sprendimu (ES) 2022/1206, 12 straipsnyje nurodytus prašymus pripažinti ir (ar) vykdyti teismų sprendimus nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+
+
+
+2. Prašymas peržiūrėti Lietuvos apeliacinio teismo nutartį, priimtą dėl šio straipsnio 1 dalyje nurodyto prašymo, gali būti paduotas per trisdešimt dienų nuo nutarties įteikimo šaliai dienos. Jeigu šalies, kuri turi teisę paduoti prašymą peržiūrėti Lietuvos apeliacinio teismo nutartį, nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje, prašymo peržiūrėti Lietuvos apeliacinio teismo nutartį pateikimo terminas yra šešiasdešimt dienų ir jis skaičiuojamas nuo nutarties įteikimo šiai šaliai asmeniškai arba pristatymo į jos gyvenamąją vietą dienos.
+
+
+
+
+3. Pagal šio straipsnio nuostatas taip pat pripažįstami ir vykdomi 2019 m. Hagos konvencijos 11 straipsnyje numatyti teisminiai susitarimai.
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-1962, 2023-05-18, paskelbta TAR 2023-05-25, i. k. 2023-09976
  
 
 
@@ -1744,8 +1773,6 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
- 
-
  
 Lietuvos Respublikos 
 civilinį procesą 
@@ -1824,6 +1851,14 @@ Nr. XIV-1473, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23020
  
 
 
+
+
+14. 2022 m. liepos 12 d. Tarybos sprendimas (ES) 2022/1206 dėl Europos Sąjungos prisijungimo prie Konvencijos dėl užsienio teismų sprendimų civiliniais arba komerciniais klausimais pripažinimo ir vykdymo.
+Papildyta punktu:
+Nr. XIV-1962, 2023-05-18, paskelbta TAR 2023-05-25, i. k. 2023-09976
+ 
+
+
 Priedo pakeitimai:
 Nr. XIV-673, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24271
  
@@ -1891,5 +1926,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1473, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23020
 Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 priedo pakeitimo ir Įstatymo papildymo devintuoju-6 skirsniu įstatymas
  
- 
-part_c68c1e76e3bd44a081358a048ecf3c40_end
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1962, 2023-05-18, paskelbta TAR 2023-05-25, i. k. 2023-09976
+Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo Nr. X-1809 priedo pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas
