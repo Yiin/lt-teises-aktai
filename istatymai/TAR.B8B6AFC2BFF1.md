@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2023-07-06 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -3625,21 +3625,66 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 55 straipsnis. Valstybės pagalba
 
 
-1. Konkurencijos taryba yra koordinuojanti institucija valstybės pagalbos ir nereikšmingos (de minimis) pagalbos (toliau kartu – pagalba), kurioms taikomos Europos Sąjungos valstybės pagalbos ar de minimis pagalbos taisyklės, klausimais. 
+1. Konkurencijos taryba yra koordinuojanti institucija valstybės pagalbos ir nereikšmingos (de minimis) pagalbos (toliau kartu – pagalba), kurioms taikomos Europos Sąjungos pagalbos taisyklės, klausimais.
 
 
 
 
-2. Konkurencijos taryba Vyriausybės nustatyta tvarka atlieka pagalbos projektų ekspertizę, teikia pagalbos teikėjams išvadas ir rekomendacijas, kaupia informaciją apie Lietuvos Respublikos pagalbos teikėjų suteiktą pagalbą ir teikia ją Europos Komisijai, kitoms suinteresuotoms institucijoms ir asmenims.
+2. Pagalbos teikėjas Vyriausybės nustatyta tvarka Konkurencijos tarybai teikia pagalbos priemonių projektus ekspertizei. Pagalbos priemonės projekte nurodomas (nurodomi) pagalbos teikimą reglamentuojantis (reglamentuojantys) Europos Komisijos sprendimas (sprendimai) ir (arba) kitas (kiti) Europos Sąjungos teisės aktas (aktai), pagal kurio (kurių) reikalavimus yra parengtas pagalbos priemonės projektas. Pagalbos priemonės projekte daroma nuoroda į šio įstatymo 551 straipsnyje nustatytą reguliavimą, kuriuo numatoma, kada pagalbos gavėjas privalo pagal pagalbos priemonę jam išmokėtą pagalbos sumą sugrąžinti savanoriškai arba ši suma išieškoma ne ginčo tvarka. Konkurencijos taryba Vyriausybės nustatyta tvarka atlieka pagalbos priemonių projektų ekspertizę ir teikia pagalbos teikėjams išvadas dėl pagalbos priemonių projektų atitikties Europos Sąjungos pagalbos taisyklėms. Konkurencijos taryba taip pat teikia rekomendacijas dėl pagalbos ir pareigos išieškoti neteisėtą pagalbą, pagalbos teikėjo suteiktą nesilaikant Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalyje nustatyto reikalavimo arba pažeidžiant taikomų Europos Sąjungos teisės aktų ar Europos Komisijos sprendimo (sprendimų) reikalavimus (toliau – neteisėta pagalba), ir pareigos išieškoti pagalbos teikėjo suteiktą pagalbą, kuri Europos Komisijos buvo pripažinta neteisėta ir nesuderinama su Europos Sąjungos vidaus rinka (toliau – nesuderinama pagalba), kaupia informaciją apie pagalbos teikėjų suteiktą pagalbą ir šią informaciją teikia Europos Komisijai, kitoms suinteresuotoms institucijoms ir asmenims.
 
 
 
 
-3. Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro (toliau – registras) valdytoja yra Konkurencijos taryba. Pagalbos teikimo skaidrumo ir visuomenės informavimo tikslais registre sukaupta dešimties metų informacija, skaičiuojant nuo konkrečios pagalbos suteikimo datos, skelbiama registro viešai prieinamoje dalyje. Informacija apie konkretiems pagalbos gavėjams suteiktą pagalbą bei registre rezervuotą nereikšmingą (de minimis) pagalbą, įskaitant ūkinę veiklą vykdančių fizinių asmenų vardus ir pavardes bei jiems registro suformuotus unikalius kodus, viešai skelbiama Vyriausybės nustatyta tvarka. 
+3. Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro (toliau – registras) valdytoja yra Konkurencijos taryba. Pagalbos teikimo skaidrumo ir visuomenės informavimo tikslais registre sukaupta dešimties metų, skaičiuojant nuo tam tikros pagalbos suteikimo datos, informacija skelbiama registro viešai prieinamoje dalyje. Informacija apie konkretiems pagalbos gavėjams suteiktą pagalbą bei registre rezervuotą nereikšmingą (de minimis) pagalbą, įskaitant ūkinę veiklą vykdančių fizinių asmenų vardus ir pavardes bei jiems registro suformuotus unikalius kodus, viešai skelbiama Vyriausybės nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+551 straipsnis. Neteisėtos ir nesuderinamos pagalbos grąžinimas (išieškojimas ne ginčo tvarka)
+
+
+1. Jeigu pagalbos teikėjas nustato, kad teikdamas pagalbą pažeidė Europos Sąjungos pagalbos taisykles ir suteikė neteisėtą pagalbą, nedelsdamas, bet ne vėliau kaip per 10 darbo dienų nuo minėtos aplinkybės nustatymo dienos jis priima sprendimą, kuriuo pripažįsta tokią pagalbą suteikta neteisėtai ir grąžintina į valstybės biudžetą (toliau – sprendimas dėl neteisėtos pagalbos grąžinimo), bei kreipdamasis į pagalbos gavėją informuoja, kad neteisėtos pagalbos grąžinimas (išieškojimas) vykdomas ne ginčo tvarka, ir siūlo, kad pagalbos gavėjas neteisėtos pagalbos grąžintiną sumą savanoriškai sumokėtų į valstybės biudžetą per 10 darbo dienų nuo sprendimo dėl neteisėtos pagalbos grąžinimo gavimo dienos. Jeigu pagalbos gavėjas grąžintinos sumos nesumoka per 10 darbo dienų, pagalbos teikėjas ne vėliau kaip per 3 darbo dienas nuo savanoriško neteisėtos pagalbos grąžinimo termino suėjimo dienos kreipiasi į Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos (toliau – VMI), išskyrus šio straipsnio 4 dalyje nurodytą atvejį, kad ji šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradėtų neteisėtos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą, ir pateikia reikiamą sprendimą dėl neteisėtos pagalbos grąžinimo. VMI ne vėliau kaip per 45 darbo dienas perduoda minėtą pagalbos teikėjo sprendimą dėl neteisėtos pagalbos grąžinimo vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+2. Europos Komisijai pripažinus pagalbos teikėjo suteiktą pagalbą nesuderinama pagalba, ją suteikęs pagalbos teikėjas nedelsdamas, bet ne vėliau kaip per 10 darbo dienų nuo Europos Komisijos sprendimo priėmimo dienos priima sprendimą, kuriuo pripažįsta pagalbą grąžintina į valstybės biudžetą (toliau – sprendimas dėl nesuderinamos pagalbos grąžinimo), bei kreipdamasis į pagalbos gavėją informuoja, kad nesuderinamos pagalbos grąžinimas (išieškojimas) vykdomas ne ginčo tvarka, ir siūlo, kad pagalbos gavėjas grąžintiną nesuderinamos pagalbos sumą savanoriškai sumokėtų į valstybės biudžetą per 10 darbo dienų nuo sprendimo dėl nesuderinamos pagalbos grąžinimo gavimo dienos. Jeigu pagalbos gavėjas grąžintinos sumos nesumoka per 10 darbo dienų, pagalbos teikėjas ne vėliau kaip per 3 darbo dienas nuo savanoriško nesuderinamos pagalbos grąžinimo termino suėjimo dienos kreipiasi į VMI, išskyrus šio straipsnio 4 dalyje nurodytą atvejį, kad ji šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradėtų nesuderinamos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą, ir pateikia reikiamą Europos Komisijos sprendimą bei sprendimą dėl nesuderinamos pagalbos grąžinimo. VMI ne vėliau kaip per 45 darbo dienas perduoda minėtą pagalbos teikėjo sprendimą dėl nesuderinamos pagalbos grąžinimo vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+3. Jeigu pagalbos gavėjui yra iškelta nemokumo byla, pagalbos teikėjas, šio straipsnio 1 arba 2 dalyje numatyta tvarka priėmęs sprendimą dėl neteisėtos pagalbos grąžinimo arba sprendimą dėl nesuderinamos pagalbos grąžinimo, ne vėliau kaip per 3 darbo dienas nuo teismo nutarties pagalbos gavėjui iškelti nemokumo bylą paskelbimo priežiūros institucijos interneto svetainėje dienos perleidžia VMI reikalavimo teises į pagalbos gavėjo neteisėtos pagalbos ar nesuderinamos pagalbos grąžintiną sumą.
+
+
+
+
+4. Jeigu pagalbos teikėja yra VMI, ji, šio straipsnio 1 arba 2 dalyje numatyta tvarka priėmusi sprendimą dėl neteisėtos pagalbos grąžinimo arba sprendimą dėl nesuderinamos pagalbos grąžinimo, nedelsdama kreipiasi į pagalbos gavėją ir informuoja, kad neteisėtos pagalbos ar nesuderinamos pagalbos grąžinimas vykdomas ne ginčo tvarka, bei siūlo grąžintiną neteisėtos pagalbos ar nesuderinamos pagalbos sumą savanoriškai sumokėti į valstybės biudžetą per 10 darbo dienų nuo atitinkamo sprendimo gavimo dienos. Jeigu pagalbos gavėjas nesumoka grąžintinos sumos per 10 darbo dienų, VMI šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradeda neteisėtos pagalbos arba nesuderinamos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą ir ne vėliau kaip per 45 darbo dienas nuo savanoriško neteisėtos pagalbos ar nesuderinamos pagalbos grąžinimo termino suėjimo dienos perduoda atitinkamą sprendimą vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+5. Pagalbos teikėjo sprendimas dėl neteisėtos pagalbos grąžinimo arba sprendimas dėl nesuderinamos pagalbos grąžinimo yra vykdomasis dokumentas. Jis vykdomas Civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+6. Pagalbos teikėjo sprendime dėl neteisėtos pagalbos grąžinimo arba sprendime dėl nesuderinamos pagalbos grąžinimo nurodoma pagalbos išmokėjimo data (datos) ir kiekvieno pagalbos gavėjo grąžintina suma, įskaitant palūkanas, kurios apskaičiuojamos Reglamento (ES) 2015/1589 ir jo įgyvendinamųjų Europos Sąjungos teisės aktų nustatyta tvarka. Vyriausybė patvirtina sprendimo dėl neteisėtos pagalbos grąžinimo bei sprendimo dėl nesuderinamos pagalbos grąžinimo standartines formas ir pagalbos grąžinimo procedūros aprašą.
+
+
+
+
+7. Šio straipsnio nuostatos netaikomos, jeigu neteisėta pagalba ar nesuderinama pagalba buvo suteikta iš Europos Sąjungos fondų paramos ir bendrojo finansavimo lėšų. Tokia privaloma grąžinti pagalba grąžinama Vyriausybės nustatyta tvarka.
+TAR pastaba: 551 straipsnio nuostatos taikomos pagalbos teikėjo sprendimams dėl neteisėtos pagalbos grąžinimo arba dėl nesuderinamos pagalbos grąžinimo, priimtiems po 2023 m. rugsėjo 1 d.
+
+
+Papildyta straipsniu:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
 
 
