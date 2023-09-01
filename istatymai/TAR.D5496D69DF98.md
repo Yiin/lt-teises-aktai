@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -1755,7 +1755,18 @@ Nr. XIII-1012, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01025
 
 
 
-2. Vyriausybė nustato, kurios pagal šio straipsnio 1 dalį Vyriausybės priimtų teisės aktų nuostatos valstybės valdomoms įmonėms ir savivaldybės valdomoms įmonėms taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos. Vyriausybė taip pat nustato, kurios pagal šio straipsnio 1 dalį Vyriausybės priimtų teisės aktų nuostatos taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos valstybės ir (ar) savivaldybės valdomų bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip jos suprantamos Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, taip pat visoms kitoms su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per dukterines bendroves susijusioms paskesnių eilių dukterinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje (toliau kartu – dukterinė bendrovė). Taisyklė „laikykis arba paaiškink“ suprantama taip, kad nukrypimas nuo Vyriausybės nustatytos tvarkos nuostatų turi būti racionaliai pagrįstas ir paaiškintas.
+2. Vyriausybė nustato, kurios pagal šio straipsnio 1 ir 21 dalis Vyriausybės priimtų teisės aktų nuostatos valstybės valdomoms įmonėms ir savivaldybės valdomoms įmonėms taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos. Vyriausybė taip pat nustato, kurios pagal šio straipsnio 1 ir 21 dalis Vyriausybės priimtų teisės aktų nuostatos taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos valstybės ir (ar) savivaldybės valdomų bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, taip pat visoms kitoms su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per dukterines bendroves susijusioms paskesnių eilių dukterinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje (toliau kartu – dukterinė bendrovė). Taisyklė „laikykis arba paaiškink“ suprantama taip, kad nukrypimas nuo Vyriausybės nustatytos tvarkos nuostatų turi būti racionaliai pagrįstas ir paaiškintas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
+ 
+
+
+
+
+21. Turi būti užtikrinamas valstybės valdomų įmonių, savivaldybės valdomų įmonių ir jų dukterinių bendrovių veiklos skaidrumas, kuris suprantamas kaip šių įmonių viešai atskleidžiamų duomenų, informacijos ir dokumentų paskelbimas jų interneto svetainėse ir šio straipsnio 5 dalies 1 punkte nurodytose apibendrinamosiose ataskaitose. Valstybės valdomų įmonių, savivaldybės valdomų įmonių ir jų dukterinių bendrovių veiklos skaidrumo užtikrinimo gaires, kuriose, be kita ko, gali būti nustatomi ir kiti, negu įstatymuose nustatyti, šių įmonių metinių ir tarpinių finansinių ataskaitų rinkinių, pranešimų ir veiklos ataskaitų rengimo ir turinio reikalavimai, nustato Vyriausybė.
+Papildyta straipsnio dalimi:
+Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
+ 
 
 
 
