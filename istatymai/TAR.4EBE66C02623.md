@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2023-07-12 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2023-12-29
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -263,8 +263,6 @@ Respublikos Prezidentė                             
 
 
 
-
- 
 
  
 PATVIRTINTA
@@ -16298,11 +16296,12 @@ Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
 428 straipsnis. Pėsčiųjų ir kitų kelių eismo dalyvių padarytas Kelių eismo taisyklių pažeidimas
 
 
-1. Pėsčiųjų judėjimas per važiuojamąją kelio dalį arba judėjimas ja ten, kur draudžiama, dviračius vairuojančių asmenų, pėsčiųjų, vadeliotojų ir kitų asmenų, kurie naudojasi keliais, nepaklusimas eismo reguliavimo signalams, kelio ženklų, ženklinimo reikalavimų, eismo tvarkos automagistralėse ir greitkeliuose nesilaikymas, Kelių eismo taisyklėse pėstiesiems, dviračių vairuotojams ir vadeliotojams nustatytų elgesio tamsiuoju paros metu arba esant blogam matomumui reikalavimų nesilaikymas
+1. Pėsčiųjų judėjimas per važiuojamąją kelio dalį arba judėjimas ja ten, kur draudžiama, dviračius, motorinius dviračius, elektrines mikrojudumo priemones vairuojančių asmenų, pėsčiųjų, vadeliotojų ir kitų asmenų, kurie naudojasi keliais, nepaklusimas eismo reguliavimo signalams, kelio ženklų, ženklinimo reikalavimų, eismo tvarkos automagistralėse ir greitkeliuose nesilaikymas, Kelių eismo taisyklėse pėstiesiems, dviračių, motorinių dviračių, elektrinių mikrojudumo priemonių vairuotojams ir vadeliotojams nustatytų elgesio tamsiuoju paros metu arba esant blogam matomumui reikalavimų nesilaikymas arba dviračių, motorinių dviračių vairuotojams ir (ar) keleiviams, elektrinių mikrojudumo priemonių vairuotojams reikalavimo naudoti šalmą nesilaikymas 
 užtraukia baudą nuo dvidešimt iki keturiasdešimt eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
+Nr. XIV-2051, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12414
  
 
 
@@ -16338,19 +16337,21 @@ užtraukia baudą nuo dešimt iki dvylikos eurų.
 
 
 
-7. Dviračių, motorinių dviračių vairavimas, vadeliojimas ir jojimas, kai tai daro neblaivūs (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės) asmenys,
+7. Dviračių, motorinių dviračių, elektrinių mikrojudumo priemonių vairavimas, vadeliojimas ir jojimas, kai tai daro neblaivūs (ne mažiau negu 0,41 promilės, bet ne daugiau negu 1,5 promilės) asmenys,
 užtraukia baudą nuo aštuoniasdešimt iki vieno šimto penkiasdešimt eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
+Nr. XIV-2051, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12414
  
 
 
 
 
-8. Dviračių, motorinių dviračių vairavimas, vadeliojimas ir jojimas, kai tai daro neblaivūs (ne mažiau negu 1,51 promilės) ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmenys, vengimas pasitikrinti dėl neblaivumo ar apsvaigimo 
+8. Dviračių, motorinių dviračių, elektrinių mikrojudumo priemonių vairavimas, vadeliojimas ir jojimas, kai tai daro neblaivūs (ne mažiau negu 1,51 promilės) ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmenys, vengimas pasitikrinti dėl neblaivumo ar apsvaigimo
 užtraukia baudą nuo vieno šimto penkiasdešimt iki dviejų šimtų eurų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
+Nr. XIV-2051, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12414
  
 
 
@@ -25824,7 +25825,8 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 
 
 
-part_4c69bbe0638e42339e4230b98d027f1f_end
+
+
 
 
 Lietuvos Respublikos 
@@ -27514,3 +27516,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 122 ir 589 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2151, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14337
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 507-1 straipsniu įstatymas
+ 
+207.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2051, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12414
+Lietuvos Respublikos administracinių nusižengimų kodekso 428 straipsnio pakeitimo įstatymas
