@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-07-06 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2023-12-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -352,7 +351,10 @@ Savarankiškosios (Konstitucijos ir įstatymų nustatytos (priskirtos)) savivald
 
 
 
-6) švietimo pagalbos teikimo mokiniui, mokytojui, šeimai, mokyklai, vaiko minimaliosios priežiūros priemonių vykdymo organizavimas ir koordinavimas;
+6) švietimo pagalbos teikimo mokiniui, mokytojui, šeimai, mokyklai, vaiko minimaliosios priežiūros priemonių vykdymo organizavimas ir koordinavimas, prevencinių programų įgyvendinimo mokyklose užtikrinimas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
+ 
 
 
 
@@ -594,6 +596,11 @@ Valstybinės (valstybės perduotos savivaldybėms) funkcijos yra:
 
 
 6) priešmokyklinio ugdymo, bendrojo ugdymo, profesinio mokymo ir profesinio orientavimo organizavimas, savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi pagal privalomojo švietimo programas užtikrinimas, mokyklų (klasių), vykdančių bendrojo ugdymo programas ir skirtų mokiniams, turintiems išskirtinių gabumų ar specialiųjų poreikių, išlaikymas;
+6 punkto redakcija nuo 2024-01-02:
+6) priešmokyklinio ugdymo, bendrojo ugdymo, profesinio mokymo ir profesinio orientavimo organizavimas, savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi pagal privalomojo švietimo programas užtikrinimas, mokyklų (klasių), vykdančių bendrojo ugdymo programas ir skirtų šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, kadetų ugdymo mokyklų, skirtų šalies (regiono) mokiniams, išlaikymas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
+ 
 
 
 
@@ -4402,8 +4409,6 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
- 
-
  
 Lietuvos Respublikos 
 vietos savivaldos įstatymo
@@ -4416,7 +4421,8 @@ priedas
 2006 m. lapkričio 16 d. Komisijos direktyva 2006/111/EB dėl finansinių santykių tarp valstybių narių ir valstybės įmonių skaidrumo ir dėl finansinio skaidrumo tam tikrose įmonėse (kodifikuota redakcija)
 
 
-part_3a4c59ea1e614100b95a62616367ef30_end
+
+
 
 
  
@@ -5268,3 +5274,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 7 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 55 straipsnio pakeitimo įstatymas
+ 
+74.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 7 straipsnių pakeitimo įstatymas
