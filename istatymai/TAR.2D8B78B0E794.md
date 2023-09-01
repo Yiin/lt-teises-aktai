@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -924,8 +924,7 @@ Respublikos Prezidentė                            �
 
 
 
- 
-
+ 
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -1008,11 +1007,11 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
-part_cfa541262737476d8e95aaa2e4148e6a_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -1151,11 +1150,11 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
-part_daecafa9795a45f39c1264feb8416f8c_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -1206,11 +1205,11 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
-part_27a3b4f3cae14de09f1e7132b37e55d0_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų
 darbo apmokėjimo ir komisijų narių atlygio
@@ -1254,11 +1253,11 @@ Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
 Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
-part_6518c64e98164cdfb326d7e3a545e711_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
 darbuotojų darbo apmokėjimo ir 
@@ -1688,9 +1687,10 @@ Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
 
 
 
-15. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą, išskyrus nurodytus šio priedo 16 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 32 valandos per savaitę skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+15. Mokytojų, dirbančių pagal ikimokyklinio ugdymo programą, išskyrus mokytojus, nurodytus šio priedo 16 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 31 valanda skiriama tiesioginiam darbui su mokiniais, 5 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -1876,9 +1876,10 @@ Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
 
 
 
-21. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą, išskyrus nurodytus šio priedo 22 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 32 valandos skiriamos tiesioginiam darbui su mokiniais, 4 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.).
+21. Mokytojų, dirbančių pagal priešmokyklinio ugdymo programą, išskyrus mokytojus, nurodytus šio priedo 22 punkte, darbo laikas per savaitę yra 36 valandos, iš jų 31 valanda skiriama tiesioginiam darbui su mokiniais, 5 valandos – netiesioginiam darbui su mokiniais (darbams planuoti, dokumentams, susijusiems su ugdymu, rengti, bendradarbiauti su mokytojais, tėvais (globėjais) ugdymo klausimais ir kt.). 
 Punkto pakeitimai:
 Nr. XIV-710, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25136
+Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
  
 
 
@@ -3004,6 +3005,3 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1559, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25030
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 10, 11, 14 straipsnių ir 1, 2, 3, 4, 5 priedų pakeitimo įstatymas
- 
- 
-part_db801440f7984293b3909b73906cca0d_end
