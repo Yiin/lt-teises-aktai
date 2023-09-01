@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/473b1f30bb3311e38766a859941f6073"
 
 # Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2023-08-31
+Suvestinė redakcija nuo 2023-09-01
  
 Įstatymas paskelbtas: TAR 2014-04-03, i. k. 2014-04033
  
@@ -105,7 +105,15 @@ Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
 
 
 
-5) administruoja bešeimininkį, konfiskuotą, valstybės paveldėtą, valstybei perduotą nekilnojamąjį turtą, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijas. 
+5) administruoja bešeimininkį, konfiskuotą, valstybės paveldėtą, valstybei perduotą nekilnojamąjį turtą, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijas; 
+
+
+
+
+6) parduoda viešosioms įstaigoms nuosavybės teise priklausančius statinius, patalpas ar jų dalis kartu su viešajai įstaigai arba valstybei nuosavybės teise priklausančiu žemės sklypu, jeigu jis gali būti perleidžiamas privačion nuosavybėn. 
+Papildyta straipsnio punktu:
+Nr. XIV-2098, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-14028
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -295,6 +303,24 @@ Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
  
 
 
+
+
+7. Įmonė, parduodama viešosioms įstaigoms nuosavybės teise priklausančius statinius, patalpas ar jų dalis kartu su viešajai įstaigai arba valstybei nuosavybės teise priklausančiu žemės sklypu, jeigu jis gali būti perleidžiamas privačion nuosavybėn:
+
+
+1) Vyriausybės nustatyta tvarka sudaro sutartis su viešosiomis įstaigomis, kurių savininkė ar dalininkė, turinti pusę ar daugiau kaip pusę balsų visuotiniame viešosios įstaigos dalininkų susirinkime, yra valstybė, dėl viešajai įstaigai nuosavybės teise priklausančių, tačiau valstybės priskirtoms funkcijoms atlikti nenaudojamų statinių, patalpų ar jų dalių pardavimo kartu su valstybei nuosavybės teise priklausančiu žemės sklypu, reikalingu parduodamam viešųjų įstaigų nuosavybės teise valdomam turtui eksploatuoti, kai nuspręsta perleisti viešajai įstaigai nuosavybės teise priklausančius statinius, patalpas ar jų dalis;
+
+
+
+
+2) Vyriausybės nustatyta tvarka gali sudaryti sutartis su viešosiomis įstaigomis dėl viešajai įstaigai nuosavybės teise priklausančių statinių, patalpų ar jų dalių pardavimo kartu su viešajai įstaigai nuosavybės teise arba valstybei nuosavybės teise priklausančiu žemės sklypu, reikalingu parduodamam viešųjų įstaigų nuosavybės teise valdomam turtui eksploatuoti, arba dėl viešajai įstaigai nuosavybės teise priklausančių statinių, patalpų ar jų dalių pardavimo, jeigu pagal įstatymus valstybinės žemės sklypas negali būti perleidžiamas privačion nuosavybėn, kai nuspręsta perleisti viešajai įstaigai nuosavybės teise priklausančius statinius, patalpas ar jų dalis ir centralizuotai valdomo valstybės turto valdytojas konkurencingos procedūros būdu buvo atrinktas kaip atitinkamų paslaugų teikėjas.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2098, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-14028
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XII-1591, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04841
  
@@ -358,7 +384,18 @@ Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
 
 
 
-2. Įmonės lėšos naudojamos:
+2. Įmonės išlaidų ir pajamų, gautų vykdant šio įstatymo 4 straipsnio 7 dalies 2 punkte nurodytą veiklą, apskaita tvarkoma atskirai nuo kitų įmonės veiklų pajamų ir išlaidų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2098, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-14028
+ 
+
+
+
+
+3. Įmonės lėšos naudojamos:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2098, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-14028
+ 
 
 
 1) atstovavimo valstybės interesams akcinėse bendrovėse ir uždarosiose akcinėse bendrovėse išlaidoms apmokėti;
@@ -601,3 +638,8 @@ Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
 Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 3, 4, 6, 8, 9 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2098, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-14028
+Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 4 ir 6 straipsnių pakeitimo įstatymas
