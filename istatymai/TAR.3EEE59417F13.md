@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-09-18
+Suvestinė redakcija nuo 2023-09-19 iki 2023-09-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -2665,3 +2665,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1844, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05744
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 21 ir 27 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2153, 2023-09-12, paskelbta TAR 2023-09-18, i. k. 2023-18278
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir 23 straipsnių pakeitimo įstatymo Nr. XIII-2883 11 straipsnio pakeitimo įstatymas
