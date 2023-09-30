@@ -21,7 +21,7 @@ Projektas XXXX XX XX Nr
  
 
 
-Suvestinė redakcija nuo 2023-05-31 iki 2023-09-29
+Suvestinė redakcija nuo 2023-09-30 iki 2023-12-22
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -2100,9 +2100,11 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS VALDYMAS
 
 
 
-6. Draudimo įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus (prašymus). Draudimo įmonė privalo išnagrinėti rašytinius draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus ir ne vėliau kaip per 15 darbo dienų nuo skundų gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ir draudimo įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių draudimo įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio draudėjas, apdraustasis, naudos gavėjas ir nukentėjęs trečiasis asmuo gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Draudimo įmonė draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus nagrinėja neatlygintinai. 
+6. Draudimo įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti draudėjų, apdraustųjų, naudos gavėjų, nukentėjusių trečiųjų asmenų ir kitų suinteresuotų asmenų – interesą dėl draudimo įmonės teikiamų paslaugų ir (arba) su draudimo įmone sudarytų draudimo sutarčių turinčių asmenų (toliau šioje straipsnio dalyje – kiti suinteresuoti asmenys) skundus (prašymus). Draudimo įmonė privalo išnagrinėti rašytinius draudėjų, apdraustųjų, naudos gavėjų, nukentėjusių trečiųjų asmenų ir kitų suinteresuotų asmenų skundus ir ne vėliau kaip per 15 darbo dienų nuo skundų gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl pateikimo formos susitarė draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo, kitas suinteresuotas asmuo ir draudimo įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių draudimo įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, turi būti išsiunčiamas negalutinis atsakymas, kuriame aiškiai nurodoma atsakymo į skundą vėlavimo priežastys ir terminas, iki kurio draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ir kitas suinteresuotas asmuo gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Draudimo įmonė draudėjų, apdraustųjų, naudos gavėjų, nukentėjusių trečiųjų asmenų ir kitų suinteresuotų asmenų skundus nagrinėja neatlygintinai. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Straipsnio dalies pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
  
 
 
@@ -5259,19 +5261,24 @@ Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
 
 
 
-901 straipsnis. Pareiga elgtis geriausiomis draudėjui, apdraustajam, naudos gavėjui ir nukentėjusiam trečiajam asmeniui sąlygomis ir jų interesais
+901 straipsnis. Pareiga veikti geriausiomis draudėjui, apdraustajam, naudos gavėjui ir nukentėjusiam trečiajam asmeniui sąlygomis ir kuo labiau atsižvelgiant į jų interesus
 
 
-1. Draudimo produktų platintojas, teikdamas draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui draudimo produktų platinimo paslaugas, turi visada sąžiningai, teisingai ir profesionaliai veikti geriausiomis draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims sąlygomis ir jų interesais.
+1. Draudimo produktų platintojas, teikdamas draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui draudimo produktų platinimo paslaugas, turi pareigą visada veikti sąžiningai, teisingai ir profesionaliai geriausiomis draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims sąlygomis ir kuo labiau atsižvelgdamas į jų interesus.
 
 
 
 
-2. Draudimo produktų platintojui draudžiama nustatyti tokią savo darbuotojų, į kurių pareigas įeina draudimo produktų platinimo veikla, atlyginimo, pardavimo tikslų, darbo rezultatų siekimo ar kitą tvarką, pagal kurią darbuotojai galėtų būti skatinami draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui rekomenduoti konkretų draudimo produktą ar paslaugą, nors draudimo produktų platintojas galėtų pasiūlyti kitą, labiau draudėjo, apdraustojo, naudos gavėjo ar nukentėjusio trečiojo asmens poreikius atitinkantį, draudimo produktą ar paslaugą. 
+2. Draudimo produktų platintojų gaunamas atlygis arba draudimo produktų platintojų darbuotojams mokamas atlygis ir jų darbo vertinimas turi neprieštarauti šio straipsnio 1 dalyje nustatytai pareigai.
 
 
-Papildyta straipsniu:
-Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+
+
+3. Draudimo produktų platintojui draudžiama nustatyti tokią atlygio mokėjimo, pardavimo tikslų, darbo rezultatų siekimo ar kitą tvarką, pagal kurią jis pats ar jo darbuotojai, į kurių pareigas įeina draudimo produktų platinimo veikla, galėtų būti skatinami draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui rekomenduoti konkretų draudimo produktą ar paslaugą, nors draudimo produktų platintojas galėtų pasiūlyti kitą, draudėjo, apdraustojo, naudos gavėjo ar nukentėjusio trečiojo asmens poreikius labiau atitinkantį, draudimo produktą ar paslaugą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
  
 
 
@@ -8209,7 +8216,10 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-10. Draudimo brokerių įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus (prašymus). Draudimo brokerių įmonė privalo išnagrinėti rašytinius draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus ir ne vėliau kaip per 15 darbo dienų nuo skundų gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ir draudimo brokerių įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių draudimo brokerių įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio draudėjas, apdraustasis, naudos gavėjas ir nukentėjęs trečiasis asmuo gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Draudimo brokerių įmonė skundus nagrinėja neatlygintinai. 
+10. Draudimo brokerių įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti draudėjų, apdraustųjų, naudos gavėjų, nukentėjusių trečiųjų asmenų ir kitų suinteresuotų asmenų – interesą dėl draudimo brokerių įmonės teikiamų paslaugų ir (arba) draudimo brokerių įmonei tarpininkaujant sudarytų draudimo sutarčių turinčių asmenų (toliau šioje straipsnio dalyje – kiti suinteresuoti asmenys) skundus (prašymus). Draudimo brokerių įmonė privalo išnagrinėti rašytinius draudėjų, apdraustųjų, naudos gavėjų, nukentėjusių trečiųjų asmenų ir kitų suinteresuotų asmenų skundus ir ne vėliau kaip per 15 darbo dienų nuo skundų gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl pateikimo formos susitarė draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo, kitas suinteresuotas asmuo ir draudimo brokerių įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių draudimo brokerių įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, turi būti išsiunčiamas negalutinis atsakymas, kuriame aiškiai nurodoma atsakymo į skundą vėlavimo priežastys ir terminas, iki kurio draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ir kitas suinteresuotas asmuo gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Draudimo brokerių įmonė skundus nagrinėja neatlygintinai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 Straipsnio pakeitimai:
