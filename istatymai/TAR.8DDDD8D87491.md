@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-09-30
+Suvestinė redakcija nuo 2023-10-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -38,7 +38,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato valstybės ir savivaldybių institucijų kompetenciją užtikrinant gyvūnų, kaip juslių būtybių, gerovę ir apsaugą, fizinių ir juridinių asmenų, kitų organizacijų ir filialų (toliau – asmuo) pareigas gyvūnų apsaugos ir gerovės srityje, bepriežiūrių gyvūnų gerovę ir apsaugą, bešeimininkių gyvūnų populiacijos mažinimo priemones, humaniško elgesio su gyvūnais reikalavimus, kad gyvūnai būtų apsaugoti nuo žiauraus elgesio, kankinimo ir kito neigiamo poveikio ir būtų užtikrintas žmonių saugumas.
+1. Šis įstatymas nustato valstybės ir savivaldybių institucijų ir kitų juridinių asmenų kompetenciją užtikrinant gyvūnų, kaip juslių būtybių, gerovę ir apsaugą, fizinių ir juridinių asmenų, kitų organizacijų ir jų filialų (toliau – asmuo) pareigas gyvūnų apsaugos ir gerovės srityje, bepriežiūrių gyvūnų gerovę ir apsaugą, bešeimininkių gyvūnų populiacijos mažinimo priemones, humaniško elgesio su gyvūnais reikalavimus, kad gyvūnai būtų apsaugoti nuo žiauraus elgesio, kankinimo ir kito neigiamo poveikio ir būtų užtikrintas žmonių saugumas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
+ 
 
 
 
@@ -259,10 +262,10 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 
 
 
-3 straipsnis. Valstybės ir savivaldybių institucijų kompetencija
+3 straipsnis. Valstybės ir savivaldybių institucijų ir kitų juridinių asmenų kompetencija
 
 
-1. Gyvūnų gerovės ir apsaugos užtikrinimą pagal kompetenciją vykdo Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija) ar jos įgaliotos institucijos, Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija) ar jos įgaliotos institucijos, Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), Lietuvos Respublikos švietimo ir mokslo ministerija (toliau – Švietimo ir mokslo ministerija), Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija) ar jos įgaliotos institucijos, Lietuvos Respublikos žemės ūkio ministerija (toliau – Žemės ūkio ministerija) ar jos įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba, savivaldybių administracijos.
+1. Gyvūnų gerovės ir apsaugos užtikrinimą pagal kompetenciją vykdo Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos aplinkos ministerija ar aplinkos ministro įgaliotos institucijos, Lietuvos Respublikos sveikatos apsaugos ministerija ar sveikatos apsaugos ministro įgaliotos institucijos, Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija, Lietuvos Respublikos vidaus reikalų ministerija ar vidaus reikalų ministro įgaliotos institucijos, Lietuvos Respublikos žemės ūkio ministerija ar žemės ūkio ministro įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba, savivaldybių merai, Lietuvos sveikatos mokslų universitetas.
 
 
 
@@ -292,76 +295,20 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 
 
 
-3. Aplinkos ministerija ar jos įgaliotos institucijos:
+3. Aplinkos ministerija ar aplinkos ministro įgaliotos institucijos:
 
 
 1) pagal kompetenciją formuoja valstybės politiką laukinių gyvūnų ir gyvūnų augintinių gerovės ir apsaugos srityje, organizuoja, koordinuoja ir kontroliuoja, kaip ji įgyvendinama;
-Straipsnio punkto pakeitimai:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
- 
 
 
 
 
-2) Neteko galios nuo 2021-05-01
-Straipsnio punkto naikinimas:
-Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
- 
+2) tvirtina medžioklės Lietuvos Respublikos teritorijoje taisykles, kuriose nustato: medžiojamųjų gyvūnų rūšių sąrašą ir šių gyvūnų medžioklės terminus; draudžiamus ir leidžiamus medžioklės būdus ir jų taikymo terminus, draudžiamus ir leidžiamus naudoti įrankius bei kitus medžioklės reikalavimus;
 
 
 
 
-3) tvirtina medžioklės Lietuvos Respublikos teritorijoje taisykles, kuriose nustato: medžiojamųjų gyvūnų rūšių sąrašą ir šių gyvūnų medžioklės terminus; draudžiamus ir leidžiamus medžioklės būdus ir jų taikymo terminus, draudžiamus ir leidžiamus naudoti įrankius bei kitus medžioklės reikalavimus;
-
-
-
-
-4) Neteko galios nuo 2021-05-01
-Straipsnio punkto naikinimas:
-Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
- 
-
-
-
-
-5) nustato kačių, šunų, šeškų ir kitų gyvūnų augintinių ženklinimo ir registravimo tvarką;
-Straipsnio punkto pakeitimai:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
- 
-
-
-
-
-6) atlieka kitas teisės aktuose nustatytas funkcijas.
-
-
-
-
-
-
-4. Žemės ūkio ministerija ar jos įgaliotos institucijos:
-
-
-1) pagal kompetenciją formuoja valstybės politiką ūkinių gyvūnų gerovės ir apsaugos srityje, organizuoja, koordinuoja ir kontroliuoja, kaip ji įgyvendinama;
-Straipsnio punkto pakeitimai:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
- 
-
-
-
-
-2) neteko galios nuo 2023-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
- 
-
-
-
-
-3) neteko galios nuo 2023-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
- 
+3) nustato kačių, šunų, šeškų ir kitų gyvūnų augintinių ženklinimo ir registravimo tvarką;
 
 
 
@@ -373,7 +320,22 @@ Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 
 
-5. Vidaus reikalų ministerija ar jos įgaliotos institucijos pagal kompetenciją užtikrina, kad būtų laikomasi gyvūnų laikymo reikalavimų.
+4. Žemės ūkio ministerija ar žemės ūkio ministro įgaliotos institucijos:
+
+
+1) pagal kompetenciją formuoja valstybės politiką ūkinių gyvūnų gerovės ir apsaugos srityje, organizuoja, koordinuoja ir kontroliuoja, kaip ji įgyvendinama;
+
+
+
+
+2) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+
+
+
+
+
+5. Vidaus reikalų ministerija ar vidaus reikalų ministro įgaliotos institucijos pagal kompetenciją užtikrina, kad būtų laikomasi gyvūnų laikymo reikalavimų.
 
 
 
@@ -383,7 +345,7 @@ Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 
 
-7. Švietimo ir mokslo ministerija:
+7. Švietimo, mokslo ir sporto ministerija:
 
 
 1) įtraukia į formaliojo švietimo bendrojo ugdymo programas gyvūnų gerovės ir apsaugos temas;
@@ -398,7 +360,7 @@ Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 
 
-8. Sveikatos apsaugos ministerija ar jos įgaliotos institucijos:
+8. Sveikatos apsaugos ministerija ar sveikatos apsaugos ministro įgaliotos institucijos:
 
 
 1) renka ir apibendrina duomenis apie asmenis, kuriems buvo suteikta medicinos pagalba dėl gyvūno apkandžiojimo ar dėl kitokio sąlyčio su gyvūnais;
@@ -421,105 +383,74 @@ Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 
 
-2) tvirtina bendruosius ir atskirų rūšių (specialiuosius) ūkinių gyvūnų gerovės reikalavimus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
+2) tvirtina bendruosius ir atskirų rūšių (specialiuosius) ūkinių gyvūnų gerovės reikalavimus;
 
 
 
 
-3) Neteko galios nuo 2020-07-10
-Straipsnio punkto naikinimas:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
+3) tvirtina bandomųjų gyvūnų laikymo ir naudojimo reikalavimus ir kontroliuoja, kaip jie įgyvendinami, išduoda leidimus atlikti bandymus su gyvūnais;
 
 
 
 
-4) tvirtina bandomųjų gyvūnų laikymo ir naudojimo reikalavimus ir kontroliuoja, kaip jie įgyvendinami, išduoda leidimus atlikti bandymus su gyvūnais;
+4) tvirtina kovinių ir pavojingų veislių šunų sąrašus;
 
 
 
 
-5) tvirtina kovinių ir pavojingų veislių šunų sąrašus;
+5) tvirtina pavojingų šunų įvežimo, įsigijimo, veisimo, dresavimo, prekybos ir laikymo reikalavimus, taip pat kovinių šunų, kovinių šunų mišrūnų ir pavojingų šunų mišrūnų laikymo reikalavimus;
 
 
 
 
-6) tvirtina pavojingų šunų įvežimo, įsigijimo, veisimo, dresavimo, prekybos ir laikymo reikalavimus, taip pat kovinių šunų, kovinių šunų mišrūnų ir pavojingų šunų mišrūnų laikymo reikalavimus;
+6) tvirtina reikalavimus gyvūnų globėjams, gyvūnų augintinių viešbučiams, gyvūnų globos namams, gyvūnų augintinių veisėjams;
 
 
 
 
-7) tvirtina reikalavimus gyvūnų globėjams, gyvūnų augintinių viešbučiams, gyvūnų globos namams, gyvūnų augintinių veisėjams; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
+7) tvirtina prekybos ūkiniais gyvūnais ir gyvūnais augintiniais reikalavimus;
 
 
 
 
-8) tvirtina prekybos ūkiniais gyvūnais ir gyvūnais augintiniais reikalavimus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
+8) tvirtina gyvūnų vežėjų leidimų, vežamų gyvūnų prižiūrėtojų kompetencijos pažymėjimų išdavimo tvarką;
 
 
 
 
-9) tvirtina gyvūnų vežėjų leidimų, vežamų gyvūnų prižiūrėtojų kompetencijos pažymėjimų išdavimo tvarką;
+9) tvirtina veterinarinių procedūrų, kurias leidžiama atlikti specialiai apmokytiems asmenims, sąrašą ir nustato jų atlikimo tvarką;
 
 
 
 
-10) tvirtina veterinarinių procedūrų, kurias leidžiama atlikti specialiai apmokytiems asmenims, sąrašą ir nustato jų atlikimo tvarką;
+10) rengia gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse tvarkos aprašą;
 
 
 
 
-11) rengia gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse tvarkos aprašą;
+11) vykdo gyvūnų globėjų, gyvūnų augintinių veisėjų, gyvūnų globos namuose ir gyvūnų augintinių viešbučiuose laikomų kačių, šunų ir šeškų ženklinimo ir registravimo reikalavimų laikymosi priežiūrą;
 
 
 
 
-12) vykdo gyvūnų globėjų, gyvūnų augintinių veisėjų, gyvūnų globos namuose ir gyvūnų augintinių viešbučiuose laikomų kačių, šunų ir šeškų ženklinimo ir registravimo reikalavimų laikymosi priežiūrą;
-Straipsnio punkto pakeitimai:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
- 
+12) tvirtina gyvūnų galimybes stimuliuojančių medžiagų, didinančių gyvūnų produktyvumą, darbingumą, sportinius rezultatus, naudojimo reikalavimus;
 
 
 
 
-13) tvirtina gyvūnų galimybes stimuliuojančių medžiagų, didinančių gyvūnų produktyvumą, darbingumą, sportinius rezultatus, naudojimo reikalavimus;
+13) organizuoja ir vykdo šios dalies 2, 3, 6–9, 12 punktuose nustatytų reikalavimų laikymosi priežiūrą, įskaitant Reglamento (ES) 2017/625 21 straipsnio 1 dalyje nustatytą oficialią kontrolę;
 
 
 
 
-14) organizuoja ir vykdo šios dalies 2, 4, 7–10, 13 punktuose nustatytų reikalavimų laikymosi priežiūrą, įskaitant Reglamento (ES) 2017/625 21 straipsnio 1 dalyje nustatytą oficialią kontrolę; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
-
-
-
-
-15) neteko galios nuo 2023-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
- 
-
-
-
-
-16) atlieka kitas teisės aktuose nustatytas funkcijas.
+14) atlieka kitas teisės aktuose nustatytas funkcijas.
 
 
 
 
 
 
-10. Savivaldybių administracijos:
+10. Savivaldybių merai:
 
 
 1) pagal kompetenciją dalyvauja įgyvendinant gyvūnų gerovės ir apsaugos programas, informuoja ir skatina visuomenę globoti gyvūnus, išskyrus laukinius;
@@ -527,7 +458,7 @@ Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 
 
-2) vadovaudamosi Valstybinės maisto ir veterinarijos tarnybos patvirtintu gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse tvarkos aprašu, tvirtina gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse taisykles ir kontroliuoja, kaip jos įgyvendinamos;
+2) vadovaudamiesi Valstybinės maisto ir veterinarijos tarnybos patvirtintu gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse tvarkos aprašu, tvirtina gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse taisykles ir kontroliuoja, kaip jos įgyvendinamos;
 
 
 
@@ -547,30 +478,44 @@ Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
 
 
 
-6) organizuoja kovinių šunų, kovinių šunų mišrūnų, pavojingų šunų ir pavojingų šunų mišrūnų paėmimą ir perdavimą gyvūnų globėjams laikinai juos laikyti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
- 
+6) organizuoja kovinių šunų, kovinių šunų mišrūnų, pavojingų šunų ir pavojingų šunų mišrūnų paėmimą ir perdavimą gyvūnų globėjams laikinai juos laikyti;
 
 
 
 
-7) kontroliuoja, ar šunų, kačių ir šeškų laikytojai ar savininkai nustatyta tvarka yra paženklinę ir registravę laikomus gyvūnus augintinius; 
-Papildyta straipsnio punktu:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
- 
+7) kontroliuoja, ar šunų, kačių ir šeškų laikytojai ar savininkai nustatyta tvarka yra paženklinę ir registravę laikomus gyvūnus augintinius;
 
 
 
 
 8) atlieka kitas teisės aktuose nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
+
+
+
+
+
+
+11. Lietuvos sveikatos mokslų universitetas:
+
+
+1) vykdo paimtų iš aplinkos, sulaikytų, paimtų ir (ar) konfiskuotų laukinių gyvūnų sveikatos priežiūrą, globą, laukinių gyvūnų paleidimą į jiems būdingas buveines ar jų perdavimą asmenims, turintiems teisę ir sąlygas nelaisvėje laikyti perduodamus laukinius gyvūnus;
+
+
+
+
+2) informuoja ir konsultuoja asmenis laukinių gyvūnų gerovės, globos ir apsaugos klausimais.
+
+
+
+
+
+
+12. Lietuvos sveikatos mokslų universiteto veikla atliekant šio straipsnio 11 dalyje nurodytas funkcijas finansuojama iš Aplinkos ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
  
-
-
-
-
 
 
 
@@ -1538,7 +1483,10 @@ Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 
 
 
-2. Šio įstatymo 3 straipsnio 9 dalies 14 punkte nustatyta valstybinė veterinarinė priežiūra gyvūnų gerovės srityje tiek, kiek ji nenustatyta Reglamente (ES) 2017/625, vykdoma vadovaujantis Lietuvos Respublikos veterinarijos įstatymu.
+2. Šio įstatymo 3 straipsnio 9 dalies 13 punkte nustatyta valstybinė veterinarinė priežiūra gyvūnų gerovės srityje tiek, kiek ji nenustatyta Reglamente (ES) 2017/625, vykdoma vadovaujantis Lietuvos Respublikos veterinarijos įstatymu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
+ 
 
 
 
@@ -1643,8 +1591,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 gyvūnų gerovės ir apsaugos įstatymo
@@ -1739,5 +1685,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1307, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15634
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 7 straipsnio pakeitimo įstatymas
  
- 
-part_0a4e013cb08541c2b92cbc56c6d7229d_end
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 3 ir 21 straipsnių pakeitimo įstatymas
