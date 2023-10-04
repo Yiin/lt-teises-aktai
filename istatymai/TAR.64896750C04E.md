@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/64896750c04e11ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-10-03
+Suvestinė redakcija nuo 2023-10-04
  
 Įstatymas paskelbtas: TAR 2020-07-07, i. k. 2020-15136
  
@@ -1574,7 +1574,7 @@ mokesčio už aplinkos teršimą įstatymo
 
 
 
-4. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis už tą gaminių ir (ar) pripildytų pakuočių kiekį, kuris proporcingas įvykdytos gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties daliai. Norėdami pasinaudoti šia mokesčio lengvata, mokesčio mokėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi turėti dokumentus, patvirtinančius gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties įvykdymą.
+4. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis už tą gaminių ir (ar) pripildytų pakuočių, išskyrus kombinuotas, plastikines ir polietileno tereftalato (toliau – PET) pakuotes, kiekį, kuris proporcingas įvykdytos gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties daliai. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą kombinuotų, plastikinių, PET pakuočių atliekomis už tą pripildytų kombinuotų, plastikinių, PET pakuočių kiekį, kuris buvo perdirbtas. Norėdami pasinaudoti šia mokesčio lengvata, mokesčio mokėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi turėti dokumentus, patvirtinančius gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties įvykdymą, kombinuotų, plastikinių, PET pakuočių atliekų perdirbimą.
 
 
 
@@ -1612,7 +1612,7 @@ mokesčio už aplinkos teršimą įstatymo
 
 
 
-4) iki 2017 m. gruodžio 31 d. sąvartyne saugotas ir teisės aktų nustatyta tvarka pripažintas pašalintomis po mišrių komunalinių atliekų apdorojimo likusias netinkamas pakartotinai panaudoti ir perdirbti, tačiau energetinę vertę turinčias komunalines atliekas.“
+4) iki 2017 m. gruodžio 31 d. sąvartyne saugotas ir teisės aktų nustatyta tvarka pripažintas pašalintomis po mišrių komunalinių atliekų apdorojimo likusias netinkamas pakartotinai panaudoti ir perdirbti, tačiau energetinę vertę turinčias komunalines atliekas.“.
 
 
 
@@ -1623,6 +1623,7 @@ mokesčio už aplinkos teršimą įstatymo
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1709, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27558
+Nr. XIV-2174, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19346
  
 
 
@@ -1661,4 +1662,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1709, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27558
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymo Nr. XIII-3158 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2174, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19346
 Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymo Nr. XIII-3158 2 straipsnio pakeitimo įstatymas
