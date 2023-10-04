@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-10-03
+Suvestinė redakcija nuo 2023-10-04 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
  
@@ -448,7 +448,7 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 
 
-4. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis už tą gaminių ir (ar) pripildytų pakuočių kiekį, kuris proporcingas įvykdytos gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties daliai. Norėdami pasinaudoti šia mokesčio lengvata, mokesčio mokėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi turėti dokumentus, patvirtinančius gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties įvykdymą.
+4. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą gaminių ir (ar) pakuočių atliekomis už tą gaminių ir (ar) pripildytų pakuočių, išskyrus kombinuotas, plastikines ir polietileno tereftalato (toliau – PET) pakuotes, kiekį, kuris proporcingas įvykdytos gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties daliai. Mokesčio mokėtojai atleidžiami nuo mokesčio už aplinkos teršimą kombinuotų, plastikinių, PET pakuočių atliekomis už tą pripildytų kombinuotų, plastikinių, PET pakuočių kiekį, kuris buvo perdirbtas. Norėdami pasinaudoti šia mokesčio lengvata, mokesčio mokėtojai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka turi turėti dokumentus, patvirtinančius gaminių ir (ar) pakuočių atliekų naudojimo ir (ar) perdirbimo užduoties įvykdymą, kombinuotų, plastikinių, PET pakuočių atliekų perdirbimą.
 
 
 
@@ -493,6 +493,7 @@ Nr. XIV-876, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00168
 
 Straipsnio pakeitimai:
 Nr. XIV-1709, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27558
+Nr. XIV-2174, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19346
  
 
 
@@ -1850,4 +1851,9 @@ Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 7 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1709, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27558
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymo Nr. XIII-3158 2 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2174, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19346
 Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 pakeitimo įstatymo Nr. XIII-3158 2 straipsnio pakeitimo įstatymas
