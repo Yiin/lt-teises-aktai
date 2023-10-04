@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-01-31 iki 2023-10-03
+Suvestinė redakcija nuo 2023-10-04 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -4119,9 +4119,10 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 321 straipsnis. Gamintojo atsakomybės principo taikymas
 
 
-1. Šio Įstatymo aštuntajame1 – aštuntajame6 ir aštuntajame11 skirsniuose nurodytiems gaminiams ir pakuotėms yra taikomas gamintojo atsakomybės principas. Tai apima gaminių ar pakuočių atliekų surinkimo, vežimo, atliekų apdorojimo sistemos organizavimą ir (ar) dalyvavimą organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, įskaitant šioms veikloms tenkančių išlaidų finansavimą, Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių vykdymą ir (ar) Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka nustatyto mokesčio mokėjimą už aplinkos teršimą gaminių ar pakuočių atliekomis (kai gamintojai ir importuotojai nevykdo Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių), visuomenės švietimą atliekų prevencijos ir tvarkymo klausimais, informacijos apie gaminius, pakuotes ir jų atliekų tvarkymą šių gaminių naudotojams ir atliekų tvarkytojams teikimą, grąžinamų produktų ir juos panaudojus susidarančių atliekų priėmimą, tvarkymą ir finansinę atsakomybę už tokią veiklą.
+1. Šio Įstatymo aštuntajame1 – aštuntajame6 ir aštuntajame11 skirsniuose nurodytiems gaminiams ir pakuotėms yra taikomas gamintojo atsakomybės principas. Tai apima gaminių ar pakuočių atliekų surinkimo, vežimo, atliekų apdorojimo sistemos organizavimą ir (ar) dalyvavimą organizuojant gaminių ar pakuočių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, įskaitant šioms veikloms tenkančių išlaidų finansavimą, Vyriausybės nustatytų gaminių ar pakuočių atliekų tvarkymo užduočių vykdymą, Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka nustatyto mokesčio mokėjimą už aplinkos teršimą gaminių ar pakuočių atliekomis, visuomenės švietimą atliekų prevencijos ir tvarkymo klausimais, informacijos apie gaminius, pakuotes ir jų atliekų tvarkymą šių gaminių naudotojams ir atliekų tvarkytojams teikimą, grąžinamų produktų ir juos panaudojus susidarančių atliekų priėmimą, tvarkymą ir finansinę atsakomybę už tokią veiklą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+Nr. XIV-2175, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19348
  
 
 
@@ -7522,3 +7523,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4-2 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1092, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11330
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir 4 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2175, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19348
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 32-1 straipsnio pakeitimo įstatymas
