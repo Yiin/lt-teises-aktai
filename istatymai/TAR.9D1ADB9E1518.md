@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-10-03
+Suvestinė redakcija nuo 2023-10-04 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -607,7 +607,10 @@ Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 
 
 
-3. Gamintojai ir importuotojai privalo Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka mokėti mokestį už aplinkos teršimą pakuočių atliekomis, jeigu nevykdo Vyriausybės ar jos įgaliotos institucijos nustatytų pakuočių atliekų tvarkymo užduočių.
+3. Gamintojai ir importuotojai Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo nustatyta tvarka moka mokestį už aplinkos teršimą pakuočių atliekomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2176, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19351
+ 
 
 
 
@@ -2000,3 +2003,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1563, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24643
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 8-2 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2176, 2023-09-21, paskelbta TAR 2023-10-03, i. k. 2023-19351
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 7 straipsnio pakeitimo įstatymas
