@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-08-01 iki 2023-10-25
+Suvestinė redakcija nuo 2023-10-26 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -230,7 +230,10 @@ Nr. XIV-1279, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15197
 
 
 
-26. Visuomenės sveikatos stiprinimas – valstybės institucijų, savivaldybių vykdomųjų institucijų, kitų juridinių ir fizinių asmenų įgyvendinamos organizacinės, teisinės, socialinės ir ekonominės priemonės, kurios padeda gausinti bei racionaliau naudoti sveikatos priežiūros išteklius, formuoti visuomenės sveikatos problemų sprendimo socialinės kontrolės sistemą, skatina visuomenės dalyvavimą formuojant valstybės ir savivaldybių sveikatos politiką, padeda kurti sveiką aplinką, skatina žmones gyventi sveikai ir didina sveikos gyvensenos motyvacijos efektyvumą, skatina sveikatos draudimo organizacijas ir asmens sveikatos priežiūros įstaigas orientuotis į ekonomiškai efektyvesnes sveikatinimo priemones, grindžiamas ligų profilaktika.
+26. Visuomenės sveikatos stiprinimas – valstybės institucijų, savivaldybių institucijų, savivaldybių administracijų, kitų juridinių ir fizinių asmenų įgyvendinamos organizacinės, teisinės, socialinės ir ekonominės priemonės, kurios padeda gausinti bei racionaliau naudoti sveikatos priežiūros išteklius, formuoti visuomenės sveikatos problemų sprendimo socialinės kontrolės sistemą, skatina visuomenės dalyvavimą formuojant valstybės ir savivaldybių sveikatos politiką, padeda kurti sveiką aplinką, skatina žmones gyventi sveikai ir didina sveikos gyvensenos motyvacijos efektyvumą, skatina sveikatos draudimo organizacijas ir asmens sveikatos priežiūros įstaigas orientuotis į ekonomiškai efektyvesnes sveikatinimo priemones, grindžiamas ligų profilaktika.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 
@@ -665,7 +668,10 @@ LNSS vykdomieji subjektai - tai sveikatos priežiūros ar farmacinės veiklos li
 1. Sveikatinimo veiklos valdymo subjektai yra:
 
 
-1) sveikatinimo veiklos valstybinio valdymo subjektai (Vyriausybė, ministerijos, kitos Vyriausybės įstaigos);
+1) sveikatinimo veiklos valstybinio valdymo subjektai (Lietuvos Respublikos Vyriausybė, ministerijos, Vyriausybės įstaigos); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 
@@ -680,7 +686,10 @@ LNSS vykdomieji subjektai - tai sveikatos priežiūros ar farmacinės veiklos li
 
 
 
-4) savivaldos vykdomosios institucijos.
+4) savivaldybių institucijos ir įstaigos.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 
@@ -713,7 +722,10 @@ Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
 
 
 
-3) LNSS veiklai laiduoti skirti valstybės ir savivaldybių biudžeto ištekliai;
+3) LNSS veiklai laiduoti skirti valstybės ir savivaldybių biudžetų ištekliai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 
@@ -887,14 +899,18 @@ Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
 
 
 
-4. Savivaldybių vykdomosios institucijos organizuoja pirminę asmens sveikatos priežiūrą. Pirminės asmens sveikatos priežiūros organizavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Savivaldybės vykdomos visuomenės sveikatos priežiūros apimtį ir vykdymo tvarką nustato šis įstatymas, Visuomenės sveikatos priežiūros įstatymas ir kiti teisės aktai. 
+4. Savivaldybių merai organizuoja pirminę asmens sveikatos priežiūrą. Pirminės asmens sveikatos priežiūros organizavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Savivaldybės vykdomos visuomenės sveikatos priežiūros apimtį ir vykdymo tvarką nustato šis įstatymas, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas ir kiti teisės aktai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 
 
-5. Savivaldybių vykdomosios institucijos taip pat įgyvendina įstatymo deleguotą valstybės funkciją – organizuoja antrinę asmens sveikatos priežiūrą. Tretinę asmens sveikatos priežiūrą organizuoja Sveikatos apsaugos ministerija. Antrinės ir tretinės asmens sveikatos priežiūros mastą nustato Sveikatos apsaugos ministerija.
+5. Savivaldybių merai taip pat įgyvendina įstatymo deleguotą valstybės funkciją – organizuoja antrinę asmens sveikatos priežiūrą. Tretinę asmens sveikatos priežiūrą organizuoja Sveikatos apsaugos ministerija. Antrinės ir tretinės asmens sveikatos priežiūros mastą nustato sveikatos apsaugos ministras.
 Straipsnio dalies pakeitimai:
 Nr. XII-1231, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14522
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
  
 
 
@@ -1537,7 +1553,10 @@ Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 
 
 
-2. Sveikatos propagandą, remiančią sveikatos politikos iniciatyvas, per Lietuvos nacionalinį radiją ir televiziją bei kitas visuomenės informavimo priemones iš valstybės ar savivaldybių biudžetų lėšų pagal kompetenciją organizuoja Sveikatos apsaugos ministerija, kitos Vyriausybės įstaigos, savivaldybės vykdomoji institucija.
+2. Sveikatos propagandą, remiančią sveikatos politikos iniciatyvas, per Lietuvos nacionalinį radiją ir televiziją bei kitas visuomenės informavimo priemones iš valstybės ar savivaldybių biudžetų lėšų pagal kompetenciją organizuoja Sveikatos apsaugos ministerija, kitos ministerijos, kitos valstybės institucijos ir įstaigos, savivaldybės meras ir savivaldybės įstaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 
@@ -2008,9 +2027,10 @@ Nr. XI-1318, 2011-04-14, Žin., 2011, Nr. 49-2372 (2011-04-28)
 
 
 
-4. Savivaldybės institucija ataskaitą, o prireikus – ir papildomą informaciją apie Savivaldybės visuomenės sveikatos rėmimo specialiosios programos priemonių vykdymą teikia sveikatos apsaugos ministro nustatyta tvarka. 
+4. Savivaldybės meras teikia savivaldybės tarybai sveikatos apsaugos ministro nustatytos formos metinę savivaldybės visuomenės sveikatos rėmimo specialiosios programos priemonių vykdymo ataskaitą. Ši ataskaita skelbiama viešai savivaldybės interneto svetainėje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1691, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20189
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
  
 
 
@@ -2174,27 +2194,26 @@ prioritetai
 
 
 
-46 straipsnis. Sveikatinimo veiklos planavimas
+46 straipsnis. Sveikatinimo veiklos planavimas 
 
 
-1. Nacionalinės sveikatinimo veiklos vystymosi kryptis nustato Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Nacionalinės sveikatinimo veiklos strateginiai tikslai ir (arba) pažangos uždaviniai, valstybės siekiamo sveikatos lygio rodikliai nustatomi Vyriausybės tvirtinamame Nacionaliniame pažangos plane.
-
-
-
-
-2. Nacionaliniame pažangos plane nustatytiems nacionalinės sveikatinimo veiklos pažangos uždaviniams įgyvendinti Vyriausybė tvirtina nacionalines plėtros programas, kuriose suplanuojamos priemonės šiems uždaviniams įgyvendinti.
+1. Nacionalinės sveikatinimo veiklos vystymosi kryptis nustato Seimas, tvirtindamas Valstybės pažangos strategiją, nacionalines darbotvarkes ir priimdamas įstatymus. Nacionalinės sveikatinimo veiklos strateginiai tikslai ir (arba) pažangos uždaviniai, valstybės siekiamo sveikatos lygio rodikliai nustatomi Vyriausybės tvirtinamame Nacionaliniame pažangos plane.
 
 
 
 
-3. Kitos Vyriausybės įstaigos, savivaldybės, prisidedančios įgyvendinant nacionalinės sveikatinimo veiklos strateginius tikslus ir (arba) pažangos uždavinius, rengia arba dalyvauja rengiant pažangos uždaviniams įgyvendinti skirtų nacionalinių plėtros programų priemones. 
+2. Nacionaliniame pažangos plane nustatytiems nacionalinės sveikatinimo veiklos pažangos uždaviniams įgyvendinti Vyriausybė tvirtina nacionalines plėtros programas, regionų plėtros tarybos – regionų plėtros planus, kuriuose suplanuojamos pažangos priemonės šiems uždaviniams įgyvendinti.
 
 
-Straipsnio pakeitimai:
-Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
+
+
+3. Ministerijos, regionų plėtros tarybos, kitos valstybės institucijos ir įstaigos, savivaldybių institucijos ir įstaigos, prisidedančios įgyvendinant nacionalinės sveikatinimo veiklos strateginius tikslus ir (arba) pažangos uždavinius, rengia arba dalyvauja rengiant pažangos uždaviniams įgyvendinti skirtų nacionalinių plėtros programų ir regionų plėtros planų pažangos priemones.
+
+
 Straipsnio pakeitimai:
 Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
 Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
  
 
 
@@ -4038,11 +4057,15 @@ Nr. X-1505, 2008-04-22, Žin., 2008, Nr. 50-1850 (2008-04-30)
 
 
 
-62 straipsnis. Bendroji ministerijų, Vyriausybės įstaigų kompetencija sveikatinimo 
-reikalų klausimais
+62 straipsnis. Bendroji ministerijų ir kitų valstybės institucijų ir įstaigų kompetencija sveikatinimo veiklos valdymo klausimais
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
-1. Ministerijos, kitos Vyriausybės įstaigos pagal kompetenciją:
+1. Ministerijos ir kitos valstybės institucijos ir įstaigos pagal kompetenciją: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 
 
 1) sustabdo, riboja ūkinių subjektų veiklą, kenkiančią sveikatai bei aplinkai, kai pažeidžiami sveikatos priežiūros ar aplinkos apsaugos teisės aktų reikalavimai;
@@ -4127,7 +4150,9 @@ reikalų klausimais
 
 
 
-2. Ministerijų ir kitų Vyriausybės įstaigų specialiąją kompetenciją sveikatinimo veiklos valdymo klausimais nustato Vyriausybė. 
+2. Ministerijų ir kitų valstybės institucijų ir įstaigų specialiąją kompetenciją sveikatinimo veiklos valdymo klausimais nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
  
 
 
@@ -4175,7 +4200,9 @@ Nr. XII-1336, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17990
 
 
 
-7) įstatymų nustatytais atvejais įgyvendina savivaldybės, kaip sveikatinimo veiklos srityje veiklą vykdančių juridinių asmenų savininkės ar dalininkės, teises ir pareigas;
+7) Neteko galios nuo 2023-10-26
+Straipsnio punkto naikinimas:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 Straipsnio punkto pakeitimai:
 Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
  
@@ -4193,7 +4220,9 @@ Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
 
 
 
-10) atšaukia prieštaraujančius įstatymams ar savivaldybės tarybos sprendimams savivaldybės mero potvarkius, komitetų, komisijų, bendruomenės sveikatos tarybos, kitų padalinių sprendimus sveikatinimo veiklos klausimais;
+10) Neteko galios nuo 2023-10-26
+Straipsnio punkto naikinimas:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 Straipsnio punkto pakeitimai:
 Nr. XII-1336, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17990
  
@@ -4214,81 +4243,49 @@ Nr. XII-462, 2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
 
 
 
-64 straipsnis. Savivaldybės administracijos direktoriaus kompetencija sveikatinimo veiklos klausimais
+64 straipsnis. Savivaldybės mero ir savivaldybės administracijos kompetencija sveikatinimo veiklos klausimais
 
 
-Savivaldybės administracijos direktorius:
-
-
-1) organizuoja nacionalinės sveikatinimo veiklos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų priemonių įgyvendinimą, savivaldybės sveikatos priežiūros plėtojimo programos, kitų savivaldybės kompleksinių ir tikslinių sveikatos programų projektų rengimą ir savivaldybės tarybos patvirtintų programų, sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą savivaldybės teritorijoje; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
-Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
- 
+1. Savivaldybės meras atlieka šio įstatymo 12 straipsnio 4 ir 5 dalyse nustatytas funkcijas ir vykdo kitus sveikatinimo veiklos įgaliojimus, nustatytus įstatymuose ir kituose teisės aktuose.
 
 
 
 
-2) pagal kompetenciją užtikrina valstybės laiduojamą ir savivaldybės remiamą sveikatos priežiūrą savivaldybės teritorijoje;
+2. Savivaldybės administracija:
+
+
+1) organizuoja nacionalinės sveikatinimo veiklos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų priemonių įgyvendinimą, savivaldybės sveikatos priežiūros plėtojimo programos, kitų savivaldybės kompleksinių ir tikslinių sveikatos programų projektų rengimą ir savivaldybės tarybos patvirtintų programų, sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą savivaldybės teritorijoje;
 
 
 
 
-3) organizuoja visuomenės sveikatos priežiūrą ir pirminę asmens sveikatos priežiūrą ir vykdo valstybės deleguotą funkciją – organizuoja antrinę asmens sveikatos priežiūrą;
-Straipsnio punkto pakeitimai:
-Nr. XII-1231, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14522
- 
+2) organizuoja savivaldybės tarybos patvirtintų sanitarijos ir higienos taisyklių laikymosi kontrolę savivaldybės teritorijoje;
 
 
 
 
-4) organizuoja savivaldybės tarybos patvirtintų sanitarijos ir higienos taisyklių laikymosi kontrolę savivaldybės teritorijoje;
+3) kontroliuoja, kaip laikomasi šio įstatymo 58 straipsnyje nurodytų sveikatinimo veiklos sutarčių;
 
 
 
 
-5) šio įstatymo ir kitų teisės aktų nustatyta tvarka sudaro sveikatinimo veiklos sutartis ir kontroliuoja, kaip jų laikomasi;
-Straipsnio punkto pakeitimai:
-Nr. XII-1336, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17990
- 
+4) organizuoja pacientų teisių įgyvendinimo priežiūrą savivaldybei pavaldžiose asmens sveikatos priežiūros įstaigose;
 
 
 
 
-6) vykdo savivaldybės nuosavybei priklausančių sveikatos priežiūros įstaigų projektavimo, statybos, kapitalinio remonto užsakovo funkcijas;
+5) organizuoja alkoholio ir tabako reklamos išorinėse reklamos priemonėse ribojimo ir draudimų laikymosi kontrolę;
 
 
 
 
-7) organizuoja savivaldybei pavaldžių sveikatos priežiūros įstaigų vidaus medicininį ir visuomenės sveikatos priežiūros auditą;
-
-
-
-
-8) organizuoja pacientų teisių įgyvendinimo priežiūrą savivaldybei pavaldžiose asmens sveikatos priežiūros įstaigose;
-
-
-
-
-9) įstatymų numatytais pagrindais neleidžia įmonėms verstis ūkine komercine veikla, nustatyta tvarka atšaukia juridiniams ir fiziniams asmenims išduotas šios veiklos licencijas;
-
-
-
-
-10) organizuoja alkoholio ir tabako reklamos išorinėse reklamos priemonėse ribojimo ir draudimų laikymosi kontrolę;
-
-
-
-
-11) vykdo įstatymų ir kitų teisės aktų nustatytus kitus sveikatinimo veiklos įgaliojimus.
+6) vykdo kitus įstatymų ir kitų teisės aktų nustatytus sveikatinimo veiklos įgaliojimus.
 
 
 
 
 Straipsnio pakeitimai:
-Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
-Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
-Nr. XII-462, 2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
  
 
 
@@ -4563,52 +4560,48 @@ Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
 
 
 
-68 straipsnis. Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos 
-Vyriausybės
+68 straipsnis. Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės
 
 
-1. Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės yra institucija, koordinuojanti sveikatos politikos priemonių planavimą ir įgyvendinimą ministerijose, kitose Vyriausybės įstaigose, sveikatinimo veiklos įstatymų ir kitų teisės aktų įgyvendinimą.
-
-
-
-
-2. Valstybinę sveikatos reikalų komisiją prie Lietuvos Respublikos Vyriausybės sudaro ir jos nuostatus tvirtina Vyriausybė. Valstybinės sveikatos reikalų komisijos prie Lietuvos Respublikos Vyriausybės veikla finansuojama iš valstybės biudžeto. 
+1. Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės (toliau – Valstybinė sveikatos reikalų komisija) yra institucija, koordinuojanti sveikatos politikos priemonių planavimą ir įgyvendinimą ministerijose ir kitose valstybės institucijose ir įstaigose, sveikatinimo veiklos įstatymų ir kitų teisės aktų įgyvendinimą.
 
 
 
 
-3. Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės:
-
-
-1) koordinuoja sveikatos politikos formavimą ministerijose ir kitose Vyriausybės įstaigose;
+2. Valstybinę sveikatos reikalų komisiją sudaro ir jos nuostatus tvirtina Vyriausybė. Valstybinės sveikatos reikalų komisijos veikla finansuojama iš valstybės biudžeto.
 
 
 
 
-2) teikia išvadas dėl Vyriausybės sprendimų projektų sveikatos politikos klausimais. 
+3. Valstybinė sveikatos reikalų komisija:
+
+
+1) koordinuoja sveikatos politikos formavimą ministerijose ir kitose valstybės institucijose ir įstaigose;
 
 
 
 
-3) teikia Vyriausybei pasiūlymus dėl ministerijų ir kitų Vyriausybės įstaigų specialiosios kompetencijos sveikatinimo srityje nustatymo;
+2) teikia išvadas dėl Vyriausybės sprendimų projektų sveikatos politikos klausimais;
 
 
 
 
-4) vykdo kitas jos nuostatuose numatytas funkcijas. 
+3) teikia Vyriausybei pasiūlymus dėl ministerijų ir kitų valstybės institucijų ir įstaigų specialiosios kompetencijos sveikatinimo srityje nustatymo;
+
+
+
+
+4) atlieka kitas jos nuostatuose numatytas funkcijas.
 
 
 
 
 
 
-4. Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės turi teisę:
+4. Valstybinė sveikatos reikalų komisija turi teisę:
 
 
-1) gauti iš Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo organų, įmonių, įstaigų, organizacijų įstatymų, kitų teisės aktų, savivaldybės strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų projektus, informaciją apie nacionalinių plėtros programų priemones, jas įgyvendinančius projektus bei kitą informaciją, reikalingą šiame įstatyme ir komisijos nuostatuose nustatytoms funkcijoms vykdyti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
- 
+1) gauti iš Vyriausybės, ministerijų, kitų valstybės institucijų ir įstaigų, savivaldybių institucijų, įmonių, įstaigų, organizacijų įstatymų, kitų teisės aktų, savivaldybės strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų projektus, informaciją apie nacionalinių plėtros programų priemones, jas įgyvendinančius projektus ir kitą informaciją, reikalingą šiame įstatyme ir Valstybinės sveikatos reikalų komisijos nuostatuose nustatytoms funkcijoms atlikti;
 
 
 
@@ -4618,24 +4611,23 @@ Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
 
 
 
-3) pagal kompetenciją teikti siūlymus ministerijoms, kitoms Vyriausybės įstaigoms, savivaldybės vykdomajai institucijai;
+3) teikti siūlymus ministerijoms, kitoms valstybės institucijoms ir įstaigoms bei savivaldybių institucijoms;
 
 
 
 
-4) dalyvauti svarstant sveikatos politikos klausimus Vyriausybėje, savivaldybės vykdomojoje institucijoje, ministerijose, kitose Vyriausybės įstaigose;
+4) dalyvauti Vyriausybei, savivaldybių institucijoms, ministerijoms, Vyriausybės įstaigoms svarstant sveikatos politikos klausimus;
 
 
 
 
-5) sudaryti laikinas ar nuolatines ekspertų ar kitų specialistų grupes komisijos kompetencijai priskirtiems uždaviniams spręsti.
+5) sudaryti laikinas ar nuolatines ekspertų ar kitų specialistų grupes jos kompetencijai priskirtiems uždaviniams spręsti.
 
 
 
 
 Straipsnio pakeitimai:
-Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
-Nr. XII-462, 2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
  
 
 
@@ -4657,14 +4649,17 @@ Nr. XII-462, 2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
 3. Savivaldybės bendruomenės sveikatos taryba turi teisę:
 
 
-1) gauti iš savivaldybės valdymo institucijų, savivaldybės teritorijoje esančių įmonių, įstaigų, organizacijų informaciją, reikalingą šiame įstatyme ir jos nuostatuose numatytoms funkcijoms vykdyti;
+1) gauti iš savivaldybės institucijų, savivaldybės teritorijoje esančių įmonių, įstaigų, organizacijų informaciją, reikalingą šiame įstatyme ir jos nuostatuose numatytoms funkcijoms atlikti; 
 
 
 
 
-2) pagal kompetenciją teikti siūlymus savivaldybės tarybai, savivaldos vykdomosioms institucijoms.
+2) teikti siūlymus savivaldybės tarybai, savivaldybės merui.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+ 
 
 
 Straipsnio pakeitimai:
@@ -5887,3 +5882,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 47 ir 49 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2149, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14335
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 70-1 straipsnio pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 9, 10, 12, 26, 32, 38-1, 41, 46, 49, 62, 63, 64, 65, 68 ir 69 straipsnių pakeitimo įstatymas
