@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2023-07-06 iki 2023-10-25
+Suvestinė redakcija nuo 2023-10-26 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -12071,7 +12071,10 @@ Nr. XIII-2269, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11190
 
 
 
-8) dėl baudžiamojo poveikio priemonės – teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo – probacijos tarnybai ir asmens darbovietės administracijai ir, jeigu šiam asmeniui atimta teisė užsiimti tam tikra veikla, – institucijai, išduodančiai leidimus tokiai veiklai;
+8) dėl baudžiamojo poveikio priemonių – viešųjų teisių atėmimo ar teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo – probacijos tarnybai ir asmens darbovietės administracijai, viešųjų teisių atėmimą vykdančiai institucijai Vyriausiajai rinkimų komisijai – dėl teisės būti išrinktam atėmimo ir, jeigu šiam asmeniui atimta teisė užsiimti tam tikra veikla, – institucijai, išduodančiai leidimus tokiai veiklai, institucijai, registruojančiai tokią veiklą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2188, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20769
+ 
 
 
 
@@ -16732,3 +16735,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 122, 151, 167 ir 225 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2086, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13987
 Lietuvos Respublikos baudžiamojo proceso kodekso 28 straipsnio pakeitimo įstatymas
+ 
+71.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2188, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20769
+Lietuvos Respublikos baudžiamojo proceso kodekso 342 straipsnio pakeitimo įstatymas
