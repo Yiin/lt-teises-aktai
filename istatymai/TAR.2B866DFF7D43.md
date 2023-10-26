@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2023-07-06 iki 2023-10-25
+Suvestinė redakcija nuo 2023-10-26 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -2955,10 +2955,10 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 
 
-681 straipsnis. Viešųjų teisių atėmimas
+681 straipsnis. Viešųjų teisių atėmimas ar teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas
 
 
-1. Viešųjų teisių atėmimas yra teisės būti išrinktam ar paskirtam į valstybės ar savivaldybių institucijų ir įstaigų, įmonių ar nevalstybinių organizacijų renkamas ar skiriamas pareigas atėmimas.
+1. Viešųjų teisių atėmimas yra teisės būti išrinktam arba teisės būti paskirtam į valstybės ar savivaldybių institucijų ir įstaigų, įmonių ar nevalstybinių organizacijų renkamas ar skiriamas pareigas atėmimas. Asmeniui gali būti skiriamas vienos arba abiejų šių teisių atėmimas.
 
 
 
@@ -2968,47 +2968,30 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 
 
-3. Viešosios teisės gali būti atimtos nuo vienerių iki penkerių metų. Už šio kodekso XXXIII skyriuje numatytus apysunkius ir sunkius nusikaltimus viešosios teisės gali būti atimtos nuo trejų iki septynerių metų. Teismas, skirdamas viešųjų teisių atėmimą, nurodo, kokia teisė atimama, ir konkretų šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
+3. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą teismas skiria tais atvejais, kai asmuo nusikalstamą veiką padaro darbinės ar profesinės veiklos srityje arba kai teismas, atsižvelgdamas į padarytos nusikalstamos veikos pobūdį, padaro išvadą, kad asmeniui negalima palikti teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla.
+
+
+
+
+4. Viešosios teisės gali būti atimamos ar teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo vienerių iki penkerių metų. Už šio kodekso XXXIII skyriuje numatytus apysunkius ir sunkius nusikaltimus viešosios teisės gali būti atimamos ar teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo trejų iki septynerių metų. Teismas, skirdamas viešųjų teisių atėmimą ar teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, nurodo, kurios iš šio straipsnio 1 ir 3 dalyse nurodytų teisių yra atimamos, taip pat nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis. 
+
+
+
+
+5. Viešųjų teisių atėmimas ar teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, paskirtas kartu su laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laiką po laisvės atėmimo ar arešto atlikimo.
+ 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2187, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20768
  
 
 
 
 
-4. Viešųjų teisių atėmimas, paskirtas kartu su laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laiką po laisvės atėmimo ar arešto atlikimo.
-
-
-Kodeksas papildytas straipsniu:
-Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
-Pastaba. Baudžiamojo kodekso 681 straipsnyje numatyta baudžiamojo poveikio priemonė – viešųjų teisių atėmimas– skiriama asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po įstatymo Nr. XI-1472 įsigaliojimo.
- 
-
-
-
-
-682 straipsnis. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas
-
-
-1. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą teismas skiria tais atvejais, kai asmuo nusikalstamą veiką padaro darbinės ar profesinės veiklos srityje arba kai teismas, atsižvelgdamas į padarytos nusikalstamos veikos pobūdį, padaro išvadą, kad asmeniui negalima palikti teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla.
-
-
-
-
-2. Teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo vienerių iki penkerių metų. Už šio kodekso XXXIII skyriuje numatytus apysunkius ir sunkius nusikaltimus teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimta nuo trejų iki septynerių metų. Teismas, skirdamas teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
- 
-
-
-
-
-3. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, paskirtas kartu su laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laiką po laisvės atėmimo ar arešto atlikimo.
-
-
-Kodeksas papildytas straipsniu:
-Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
-Pastaba. Baudžiamojo kodekso 682 straipsnyje numatyta baudžiamojo poveikio priemonė – teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas – skiriama asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po įstatymo (Nr. XI-1472) įsigaliojimo.
+682 straipsnis. Neteko galios nuo 2023-10-26
+Straipsnio naikinimas:
+Nr. XIV-2187, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20768
  
 
 
@@ -12819,3 +12802,8 @@ Lietuvos Respublikos baudžiamojo kodekso 191, 192, 193 ir 194 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2085, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13986
 Lietuvos Respublikos baudžiamojo kodekso 100-1, 100-3 ir 113-1 straipsnių pakeitimo įstatymas
+ 
+58.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2187, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20768
+Lietuvos Respublikos baudžiamojo kodekso 68-1 straipsnio pakeitimo ir 68-2 straipsnio pripažinimo netekusiu galios įstatymas
