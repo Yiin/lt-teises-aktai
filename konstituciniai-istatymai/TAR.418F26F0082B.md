@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
 
+Suvestinė redakcija nuo 2023-10-26 iki 2023-11-10
+ 
+Konstitucinis įstatymas paskelbtas: TAR 2022-07-20, i. k. 2022-15851
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis
 ĮSTATYMAS
@@ -454,7 +461,10 @@ RINKIMŲ TEISĖ
 1. Asmuo negali būti renkamas, kai yra bent vienas iš šių pagrindų: 
 
 
-1) likus 65 dienoms iki rinkimų dienos jis yra nebaigęs atlikti bausmės pagal teismo paskirtą nuosprendį;
+1) jis yra nebaigęs atlikti teismo paskirtos bausmės ir (ar) baudžiamojo poveikio priemonės; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2186, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20810
+ 
 
 
 
@@ -479,7 +489,10 @@ RINKIMŲ TEISĖ
 
 
 
-2) jis yra statutinės institucijos ar įstaigos pareigūnas, kuris likus 65 dienoms iki rinkimų dienos nėra išėjęs į pensiją;
+2) jis yra statutinės institucijos ar įstaigos pareigūnas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2186, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20810
+ 
 
 
 
@@ -1282,7 +1295,10 @@ Vyriausiosios rinkimų komisijos uždaviniai yra:
 
 
 
-15) ne vėliau kaip per 4 mėnesius po galutinių rinkimų rezultatų paskelbimo dienos perduoda archyvui nuolat saugoti apylinkių, apygardų, savivaldybių rinkimų komisijų balsų skaičiavimo protokolus;
+15) ne vėliau kaip per 4 mėnesius po galutinių rinkimų rezultatų paskelbimo dienos perduoda archyvui nuolat saugoti apylinkių, apygardų, savivaldybių rinkimų komisijų balsų skaičiavimo protokolus ir priima sprendimą sunaikinti nesaugotinus rinkimų dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -3058,43 +3074,18 @@ RINKIMŲ POLITINĖ KAMPANIJA IR JOS DALYVIAI
 
 
 
-2. Rinkimų politinė kampanija prasideda nuo rinkimų datos paskelbimo ir baigiasi praėjus 100 dienų nuo Vyriausiosios rinkimų komisijos sprendimo, kuriuo nustatomi galutiniai rinkimų rezultatai arba rinkimai pripažįstami negaliojančiais, įsigaliojimo dienos. Jai vykstant registruojami rinkimų politinės kampanijos dalyviai, kandidatai, kandidatų sąrašai, vykdoma rinkimų agitacija, atliekama rinkimų politinės kampanijos finansavimo ir politinės reklamos stebėsena ir kontrolė. 
-
-
-
-
-3. Rinkimų politinę kampaniją sudaro šie etapai:
-
-
-1) rinkimų politinės kampanijos dalyvių registravimas – nuo rinkimų politinės kampanijos pradžios iki tos dienos, kai pagal šį kodeksą yra pradedamas pareiškinių dokumentų įteikimas; šiuo etapu registruojami rinkimuose ketinantys dalyvauti rinkimų politinės kampanijos dalyviai;
-
-
-
-
-2) kandidatų kėlimas (išsikėlimas) – nuo pareiškinių dokumentų pagal šį kodeksą teikimo pradžios iki kandidatų registracijos pabaigos; šiuo etapu keliami arba keliasi ir registruojami kandidatai;
-
-
-
-
-3) rinkimų agitacija – nuo kandidatų registracijos ir paskelbimo iki rinkimų agitacijos draudimo pradžios. Vykstant pakartotiniam balsavimui, šis etapas taip pat apima laikotarpį nuo rinkimų agitacijos draudimo pabaigos iki pakartotinio balsavimo agitacijos draudimo pradžios;
-
-
-
-
-4) rinkimų agitacijos draudimas – 7 valandos iki balsavimo rinkimų dieną pradžios ir rinkimų dieną iki balsavimo pabaigos; šiuo etapu draudžiama vykdyti bet kokią rinkimų agitaciją;
-
-
-
-
-5) rinkimų diena (pakartotinio balsavimo diena) – nuo 7 iki 20 val. Rinkimų (pakartotinio balsavimo) dieną rinkimų agitacija nevyksta; 
-
-
-
-
-6) baigiamasis etapas – nuo balsavimo pabaigos iki praėjus 100 dienų nuo galutinių rinkimų rezultatų paskelbimo – jo metu teikiamos ataskaitos. Rinkimuose, kuriuose vykdomas pakartotinis balsavimas, baigiamasis etapas prasideda nuo balsavimo pakartotinio balsavimo dieną pabaigos iki praėjus 100 dienų nuo galutinių rinkimų rezultatų paskelbimo.
+2. Rinkimų politinė kampanija prasideda nuo rinkimų datos paskelbimo ir baigiasi praėjus 100 dienų nuo Vyriausiosios rinkimų komisijos sprendimo, kuriuo nustatomi galutiniai rinkimų rezultatai arba rinkimai pripažįstami negaliojančiais, įsigaliojimo dienos. Jai vykstant registruojami rinkimų politinės kampanijos dalyviai, kandidatai, kandidatų sąrašai, vykdoma rinkimų agitacija, balsavimas, nustatomi ir paskelbiami balsavimo rezultatai, sprendžiami rinkimų ginčai, atliekama rinkimų politinės kampanijos finansavimo ir politinės reklamos stebėsena ir kontrolė. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
  
 
 
+
+
+3. Neteko galios nuo 2023-10-26
+Straipsnio dalies naikinimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -3389,7 +3380,10 @@ RINKIMŲ POLITINĖS KAMPANIJOS DALYVIŲ REGISTRACIJA
 1. Rinkimų politinės kampanijos dalyvio statusas prarandamas, kai yra bent vienas iš šių pagrindų:
 
 
-1) rinkimų politinės kampanijos dalyvio ar jį teikusio registruoti rinkimų politinės kampanijos dalyvio prašymu;
+1) rinkimų politinės kampanijos dalyvio ar jį teikusio registruoti rinkimų politinės kampanijos dalyvio prašymu, pateiktu nepasibaigus pareiškinių dokumentų atšaukimo laikotarpiui;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -3414,7 +3408,10 @@ RINKIMŲ POLITINĖS KAMPANIJOS DALYVIŲ REGISTRACIJA
 
 
 
-6) politinei organizacijai paskirta bausmė pagal teismo nuosprendį (bausmės atlikimo laikotarpiu);
+6) politinei organizacijai teismas paskiria bausmę ir (ar) baudžiamojo poveikio priemonę (jų atlikimo laikotarpiu);
+Straipsnio punkto pakeitimai:
+Nr. XIV-2186, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20810
+ 
 
 
 
@@ -3800,7 +3797,10 @@ TEISĖS BŪTI KANDIDATU ĮGYVENDINIMO TVARKA
 
 
 
-7) narystę politinėje partijoje, politiniame komitete ar asociacijose;
+7) esamą ir buvusią narystę politinėse organizacijose, taip pat narystės laikotarpį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -3810,7 +3810,10 @@ TEISĖS BŪTI KANDIDATU ĮGYVENDINIMO TVARKA
 
 
 
-9) ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės;
+9) ar neturi nebaigtos atlikti teismo paskirtos bausmės ir (ar) baudžiamojo poveikio priemonės;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2186, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20810
+ 
 
 
 
@@ -3867,7 +3870,10 @@ TEISĖS BŪTI KANDIDATU ĮGYVENDINIMO TVARKA
 
 
 
-4. Kandidato biografijoje pateikiama informacija apie gimimo vietą, tautybę, išsilavinimą, užsienio kalbų mokėjimą, darbovietę, visuomeninę veiklą, pomėgius, šeiminę padėtį.
+4. Kandidatas biografijoje privalo pateikti  informaciją apie gimimo datą ir vietą, išsilavinimą, užsienio kalbų mokėjimą, darbovietę, darbo patirtį, visuomeninę veiklą, pomėgius, šeiminę padėtį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4150,7 +4156,23 @@ TEISĖS BŪTI KANDIDATU ĮGYVENDINIMO TVARKA
 
 
 
-7) kandidatas yra šiurkščiai pažeidęs šiame kodekse nustatytą draudimą papirkti rinkėjus ar politinių kampanijų finansavimo tvarką.
+7) kandidatas yra šiurkščiai pažeidęs šiame kodekse nustatytą draudimą papirkti rinkėjus ar politinių kampanijų finansavimo tvarką;
+
+
+
+
+8) paaiškėjus, kad kandidatui pradėtas ikiteisminis tyrimas – šį kandidatą iškėlusios politinės organizacijos arba išsikėlusio kandidato prašymu;
+Papildyta straipsnio punktu:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
+
+
+
+
+9) kandidatui mirus. 
+Papildyta straipsnio punktu:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4165,22 +4187,42 @@ TEISĖS BŪTI KANDIDATU ĮGYVENDINIMO TVARKA
 
 
 
-2) rinkėjų parašai rinkėjų parašų rinkimo lapuose suklastoti;
+2) kandidatų sąrašas neatitinka šio kodekso nustatytų reikalavimų; 
+Papildyta straipsnio punktu:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-3) renkant parašus pažeista rinkėjų parašų rinkimo tvarka arba kiti šio kodekso nustatyti reikalavimai; 
+3) rinkėjų parašai rinkėjų parašų rinkimo lapuose suklastoti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-4) kandidatų sąrašas arba politinė partija, iškėlusi sąrašą, politinis komitetas yra praradę savarankiško dalyvio statusą;
+4) renkant parašus pažeista rinkėjų parašų rinkimo tvarka arba kiti šio kodekso nustatyti reikalavimai; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-5) kandidatų sąrašas yra šiurkščiai pažeidęs šiame kodekse nustatytą draudimą papirkti rinkėjus ar politinių kampanijų finansavimo tvarką.
+5) kandidatų sąrašas arba politinė partija, iškėlusi sąrašą, politinis komitetas yra praradę savarankiško dalyvio statusą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
+
+
+
+
+6) kandidatų sąrašas yra šiurkščiai pažeidęs šiame kodekse nustatytą draudimą papirkti rinkėjus ar politinių kampanijų finansavimo tvarką.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4270,7 +4312,10 @@ Jeigu pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straip
 1. Pagal politinės partijos ar politinio komiteto, asmens, keliančio save kandidatu, pateiktus pareiškinius ir kitus dokumentus Vyriausiosios rinkimų komisijos interneto svetainėje neterminuotai skelbiama ši informacija: 
 
 
-1) kandidato anketa, kurioje nurodomas kandidato vardas, pavardė, gimimo data, pilietybė, darbovietė, einamos pareigos (tarnyba), narystė politinėse organizacijose ir asociacijose bei šiame kodekse nurodyti privalomi duomenys: ar kandidatas neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės; ar įsiteisėjusiu teismo nuosprendžiu buvo pripažintas kaltu dėl nusikalstamos veikos; ar yra bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis; 
+1) kandidato anketa, kurioje nurodomas kandidato vardas, pavardė, gimimo data, pilietybė, darbovietė, einamos pareigos (tarnyba), esama ir buvusi narystė politinėse organizacijose, taip pat narystės laikotarpis bei šiame kodekse nurodyti privalomi duomenys: ar kandidatas neturi nebaigtos atlikti teismo paskirtos bausmės ir (ar) baudžiamojo poveikio priemonės; ar įsiteisėjusiu teismo nuosprendžiu buvo pripažintas kaltu dėl nusikalstamos veikos; ar yra bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2186, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20810
+ 
 
 
 
@@ -4285,7 +4330,18 @@ Jeigu pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straip
 
 
 
-4) kandidato biografija, kurioje nurodoma kandidato gimimo data ir vieta, savivaldybė, kurioje gyvena, išsilavinimas, užsienio kalbų mokėjimas, darbo patirtis, dalyvavimas visuomeninėje veikloje, šeiminė padėtis ir kita papildoma kandidato pateikta informacija, kurią jis nori skelbti.
+4) kandidato biografija, kurioje pateikiama informacija, nustatyta šio kodekso 76 straipsnio 4 dalyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
+
+
+
+
+5) kandidato nuotrauka.
+Papildyta straipsnio punktu:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4303,7 +4359,6 @@ Jeigu pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straip
 
 
 4. Kandidato asmens tapatybę ir pilietybę patvirtinančio dokumento, teisę nuolat gyventi Lietuvos Respublikoje patvirtinančio dokumento numeris, nuolatinės gyvenamosios vietos adresas viešai neskelbiami.
- 
 
 
 
@@ -4375,7 +4430,10 @@ Jeigu pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straip
 
 
 
-6. Jeigu savivaldybių tarybų rinkimuose kandidatų sąraše įrašyti kandidatai, einantys pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, rinkimų užstatas už kiekvieną tokį kandidatą – 2 rinkimuose taikomi VMDU dydžiai.
+6. Jeigu savivaldybių tarybų rinkimuose kandidatų sąraše įrašyti kandidatai, einantys pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, rinkimų užstatas už kiekvieną tokį kandidatą – 2 rinkimuose taikomi VMDU dydžiai, išskyrus rinkimų užstatą už tuos kandidatus, kurių einamų pareigų įgaliojimai nutrūksta pasibaigus savivaldybės tarybos ir mero įgaliojimams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4421,7 +4479,10 @@ Jeigu pirmalaikiai Respublikos Prezidento rinkimai pagal Konstitucijos 87 straip
 
 
 
-3. Šio kodekso 88 straipsnio 6 dalyje nustatytas rinkimų užstatas už kiekvieną kandidatą atskirai grąžinamas jį sumokėjusiai politinei partijai, politiniam komitetui ar kandidatui, jeigu šis užstatas yra grąžintinas pagal šio straipsnio 1 dalyje nustatytus reikalavimus ir kandidatas nebuvo išrinktas, taip pat jeigu kandidatas buvo išrinktas arba buvo pripažintas išrinktu ir atsisakė pareigų, nesuderinamų su savivaldybės tarybos nario, mero pareigomis ne vėliau kaip likus 10 dienų iki savivaldybės tarybos pirmojo posėdžio dienos.
+3. Šio kodekso 88 straipsnio 6 dalyje nustatytas rinkimų užstatas už kiekvieną kandidatą atskirai grąžinamas jį sumokėjusiai politinei partijai, politiniam komitetui ar kandidatui, jeigu šis užstatas yra grąžintinas pagal šio straipsnio 1 dalyje nustatytus reikalavimus ir kandidatas nebuvo išrinktas, taip pat jeigu kandidatas buvo išrinktas arba buvo pripažintas išrinktu ir atsisakė pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis ne vėliau kaip likus 10 dienų iki savivaldybės tarybos pirmojo posėdžio dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4702,15 +4763,22 @@ RINKIMŲ AGITACIJA
 93 straipsnis. Rinkimų agitacijos pagrindai
 
 
-1. Rinkimų agitacija vykdoma laikantis Konstitucijos, šio kodekso ir kitų įstatymų, moralės, teisingumo, visuomenės darnos, sąžiningų ir garbingų rinkimų principų. Draudžiama vykdyti rinkimų agitaciją, neatitinkančią šioje dalyje nurodytų reikalavimų.
+1. Rinkimų agitacija – politinei reklamai skleisti skirta veikla.
 
 
 
 
-2. Vyriausioji rinkimų komisija teikia rekomendacijas dėl šio kodekso reikalavimus atitinkančios rinkimų agitacijos vykdymo ir politinės reklamos skleidimo, sprendžia visus ginčus dėl rinkimų agitacijos, taip pat sprendžia, ar paskelbta informacija yra politinė reklama, ar vykstant rinkimų agitacijai visuomenės informavimo priemonėmis paskelbta medžiaga yra kompromituojanti. 
+2. Rinkimų agitacija vykdoma laikantis Konstitucijos, šio kodekso ir kitų įstatymų, moralės, teisingumo, visuomenės darnos, sąžiningų ir garbingų rinkimų principų. Draudžiama vykdyti rinkimų agitaciją, neatitinkančią šioje dalyje nurodytų reikalavimų.
+
+
+
+
+3. Vyriausioji rinkimų komisija teikia rekomendacijas dėl šio kodekso reikalavimus atitinkančios rinkimų agitacijos vykdymo ir politinės reklamos skleidimo, sprendžia visus ginčus dėl rinkimų agitacijos, taip pat sprendžia, ar paskelbta informacija yra politinė reklama, ar vykstant rinkimų agitacijai visuomenės informavimo priemonėmis paskelbta informacija yra kompromituojanti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
  
-
-
 
 
 
@@ -4806,7 +4874,10 @@ Vyriausiajai rinkimų komisijai paskelbus kandidatus ir kandidatų sąrašus, š
 
 
 
-2. Viešosios informacijos rengėjai ar skleidėjai gali atsisakyti skleisti politinę reklamą, kurioje yra kitas politines organizacijas ar rinkimų politinės kampanijos dalyvius ir (ar) jų keliamus kandidatus kompromituojančios medžiagos, jeigu atsisakoma prisiimti galimas atsakomosios nuomonės paskleidimo išlaidas.
+2. Viešosios informacijos rengėjai ar skleidėjai gali atsisakyti skleisti politinę reklamą, kurioje yra kitas politines organizacijas ar rinkimų politinės kampanijos dalyvius ir (ar) jų keliamus kandidatus kompromituojančios informacijos, jeigu atsisakoma prisiimti galimas atsakomosios nuomonės paskleidimo išlaidas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -4996,25 +5067,25 @@ Vyriausiajai rinkimų komisijai paskelbus kandidatus ir kandidatų sąrašus, š
 
 
 
-100 straipsnis. Rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą kompromituojančios informacijos skelbimas ir atsakomoji nuomonė
+100 straipsnis. Kompromituojančios informacijos skelbimas ir atsakomoji nuomonė
 
 
-1. Paskelbus kandidatus ir kandidatų sąrašus, rinkimų politinės kampanijos dalyvis, kandidatų sąrašas ar kandidatas turi teisę pareikšti reikalavimą paskelbti atsakomąją nuomonę apie juos kompromituojančią informaciją paskelbusiai visuomenės informavimo priemonei. Kompromituojančia informacija pripažįstama tokia informacija, kuria siekiama paveikti rinkėjus, kad šie nebalsuotų už rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą, ir kurioje pranešama šį dalyvį, kandidatų sąrašą ar kandidatą neigiamai apibūdinanti žinia. Visuomenės informavimo priemonės paskelbta nuomonė (skirtingai nuo žinios, nuomonei netaikomi tiesos kriterijai), taip pat ir neigiama, nepripažįstama kompromituojančia informacija ir nesuteikia teisės reikalauti paskelbti atsakomąją nuomonę. Reikalavimas paskelbti atsakomąją nuomonę taip pat gali būti netenkinamas, jeigu: informacija paskelbta ne apie rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą; paskelbta informacija nėra kompromituojanti; kompromituojančią informaciją apie rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą paskelbė pats rinkimų politinės kampanijos dalyvis, kandidatas; paskelbtoje informacijoje nėra jokių rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą apibūdinančių žinių; rinkimų politinės kampanijos dalyvis, kandidatų sąrašas ar kandidatas jau pasinaudojo atsakomosios nuomonės teise. Teisę į atsakomąją nuomonę su politinės organizacijos sutikimu taip pat turi ir politinės organizacijos struktūriniai padaliniai.
-
-
-
-
-2. Kompromituojančią informaciją draudžiama skelbti visuomenės informavimo priemonėje likus 3 dienoms iki rinkimų, taip pat paskutiniame iki rinkimų periodiniame leidinyje. Visuomenės informavimo priemonė, paskelbusi kompromituojančią informaciją apie rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą, privalo suteikti jiems teisę pareikšti atsakomąją nuomonę. Atsakomąją nuomonę sudaro trumpas paskelbtos kompromituojančios informacijos išdėstymas ir atsakymas. Atsakomoji nuomonė paprastai negali būti daugiau kaip tris kartus ilgesnė už kompromituojančią informaciją. Visuomenės informavimo priemonė atsakomąją nuomonę turi paskelbti ne vėliau kaip likus 2 dienoms iki draudimo vykdyti rinkimų agitaciją pradžios. Jeigu visuomenės informavimo priemonė negali per šio kodekso nustatytą laikotarpį pati paskelbti atsakomosios nuomonės, ji turi pasirūpinti savo lėšomis paskelbti atsakomąją nuomonę kitoje visuomenės informavimo priemonėje adekvačiu būdu.
+1. Prasidėjus rinkimų politinės kampanijos laikotarpiui, rinkimų politinės kampanijos dalyvis, kandidatų sąrašas ar kandidatas turi teisę pareikšti reikalavimą paskelbti atsakomąją nuomonę apie juos kompromituojančią informaciją paskelbusiai visuomenės informavimo priemonei. Kompromituojančia informacija pripažįstama tokia informacija, kuria siekiama paveikti rinkėjus, kad jie nebalsuotų už rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą, ir (ar) dalyvį, kandidatų sąrašą ar kandidatą neigiamai apibūdinanti informacija. Reikalavimas paskelbti atsakomąją nuomonę gali būti netenkinamas, jeigu: informacija paskelbta ne apie rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą; paskelbta informacija nėra kompromituojanti pagal šiame straipsnyje nurodytus kriterijus; kompromituojančią informaciją apie rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą paskelbė pats rinkimų politinės kampanijos dalyvis, kandidatas; paskelbtoje informacijoje nėra jokios rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą apibūdinančios informacijos; rinkimų politinės kampanijos dalyvis, kandidatų sąrašas ar kandidatas jau pasinaudojo atsakomosios nuomonės teise. Teisę į atsakomąją nuomonę su politinės organizacijos sutikimu taip pat turi ir politinės organizacijos struktūriniai padaliniai.
 
 
 
 
-3. Tyrimas dėl kompromituojančios informacijos paskelbimo pradedamas, gavus rinkimų politinės kampanijos dalyvio, kandidatų sąrašo ar kandidato kreipimąsi.
+2. Kompromituojančią informaciją draudžiama skelbti visuomenės informavimo priemonėje likus 3 dienoms iki rinkimų, taip pat paskutiniame iki rinkimų periodiniame leidinyje. Visuomenės informavimo priemonė, paskelbusi kompromituojančią informaciją apie rinkimų politinės kampanijos dalyvį, kandidatų sąrašą ar kandidatą, privalo suteikti jiems teisę pareikšti atsakomąją nuomonę. Rinkimų politinės kampanijos dalyvis, kandidatų sąrašas arba kandidatas, kreipdamasis į visuomenės informavimo priemonę dėl atsakomosios nuomonės paskelbimo, privalo raštu pateikti paaiškinimą, kodėl paskleista informacija yra kompromituojanti. Atsakomąją nuomonę sudaro trumpas paskelbtos kompromituojančios informacijos išdėstymas ir atsakymas. Atsakomoji nuomonė paprastai negali būti daugiau kaip tris kartus ilgesnė už kompromituojančią informaciją. Visuomenės informavimo priemonė atsakomąją nuomonę turi paskelbti per 5 darbo dienas nuo atsakomosios nuomonės gavimo dienos arba artimiausiame periodinio leidinio numeryje, bet ne vėliau kaip likus 2 dienoms iki rinkimų dienos. Jeigu visuomenės informavimo priemonė negali per šio kodekso nustatytą laikotarpį pati paskelbti atsakomosios nuomonės, ji turi pasirūpinti savo lėšomis paskelbti atsakomąją nuomonę kitoje visuomenės informavimo priemonėje adekvačiu būdu.
 
 
 
 
-4. Jeigu rinkimų politinės kampanijos dalyvis, kandidatų sąrašas ar kandidatas kreipiasi į visuomenės informavimo priemonę ir jai laiku pateikia reikalavimą paskelbti atsakomąją nuomonę ir jos tekstą, bet ji neskelbiama, atsakomoji nuomonė Vyriausiosios rinkimų komisijos sprendimu skelbiama per Lietuvos nacionalinį radiją ar televiziją ir už tai apmokama pagal Lietuvos nacionalinio radijo ir televizijos patvirtintus informacijos skelbimų įkainius. Šiuo atveju visuomenės informavimo priemonė privalo Vyriausiajai rinkimų komisijai sumokėti dvigubą šio paskelbimo kainą.
+3. Ginčus dėl atsakomosios nuomonės paskelbimo sprendžia Vyriausioji rinkimų komisija. Visuomenės informavimo priemonė, gavusi rinkimų politinės kampanijos dalyvio, kandidatų sąrašo arba kandidato kreipimąsi dėl atsakomosios nuomonės paskelbimo, gali kreiptis į Vyriausiąją rinkimų komisiją, prašydama išaiškinti, ar paskleista informacija yra laikoma kompromituojančia. Vyriausioji rinkimų komisija rinkimų politinės kampanijos dalyvių, kandidatų sąrašo, kandidatų ir visuomenės informavimo priemonių užklausas turi išnagrinėti ir atsakymą į jas pateikti per 4 darbo dienas, bet ne vėliau kaip likus 3 dienoms iki rinkimų dienos.
+
+
+
+
+4. Jeigu rinkimų politinės kampanijos dalyvis, kandidatų sąrašas ar kandidatas, kreipiasi į visuomenės informavimo priemonę ir jai laiku pateikia reikalavimą paskelbti atsakomąją nuomonę ir jos tekstą, bet ji neskelbiama, atsakomoji nuomonė Vyriausiosios rinkimų komisijos sprendimu skelbiama per Lietuvos nacionalinį radiją ar televiziją ir už tai apmokama pagal Lietuvos nacionalinio radijo ir televizijos patvirtintus informacijos skelbimų įkainius. Šiuo atveju visuomenės informavimo priemonė privalo Vyriausiajai rinkimų komisijai sumokėti dvigubą šio paskelbimo kainą.
 
 
 
@@ -5025,9 +5096,11 @@ Vyriausiajai rinkimų komisijai paskelbus kandidatus ir kandidatų sąrašus, š
 
 
 6. Šio straipsnio nuostatos mutatis mutandis taikomos ir asmenims, kompromituojančią informaciją paskelbusiems interneto svetainėje ar socialinio tinklo paskyroje.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
  
-
-
 
 
 
@@ -5298,12 +5371,18 @@ Politinės organizacijos turi teisę finansuoti savo keliamų kandidatų sąraš
 
 
 
-5. Bendra vieno fizinio asmens aukų, išskyrus mažas aukas, savarankiškiems dalyviams ir politinei partijai sumokėtų nario mokesčių suma per kalendorinius metus negali viršyti 10 procentų fizinio asmens už paskutinius praėjusius kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama po gegužės 1 dienos) arba už užpraeitus kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama iki gegužės 1 dienos).
+5. Bendra vieno fizinio asmens aukų savarankiškiems dalyviams ir politinei organizacijai sumokėtų nario mokesčių suma per kalendorinius metus negali viršyti 10 procentų fizinio asmens už paskutinius praėjusius kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama po gegužės 1 dienos) arba už užpraeitus kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama iki gegužės 1 dienos). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-6. Bendra kandidato vienmandatėje rinkimų apygardoje ir referendumo iniciatorių auka savo rinkimų politinei kampanijai finansuoti per kalendorinius metus, įskaitant kitiems savarankiškiems dalyviams suteiktas fizinio asmens aukas ir politinei partijai sumokėtus nario mokesčius, negali viršyti 20 procentų tokių asmenų už paskutinius praėjusius kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama po gegužės 1 dienos) arba už užpraeitus kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama iki gegužės 1 dienos) ir deklaruotų turimų lėšų. 
+6. Bendra kandidato vienmandatėje rinkimų apygardoje ir referendumo iniciatorių auka savo rinkimų politinei kampanijai finansuoti per kalendorinius metus, įskaitant kitiems savarankiškiems dalyviams suteiktas fizinio asmens aukas ir politinei organizacijai sumokėtus nario mokesčius, negali viršyti 20 procentų tokių asmenų už paskutinius praėjusius kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama po gegužės 1 dienos) arba už užpraeitus kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama iki gegužės 1 dienos) ir deklaruotų turimų lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -5443,7 +5522,10 @@ Politinės organizacijos turi teisę finansuoti savo keliamų kandidatų sąraš
 
 
 
-5. Savivaldybių tarybų rinkimuose politinė organizacija, iškėlusi bent vieną kandidatų sąrašą, papildomai šiai rinkimų politinei kampanijai gali išleisti ne daugiau kaip 10 procentų savo iškeltų kandidatų sąrašų limitų sumos.
+5. Savivaldybių tarybų rinkimuose politinė partija, iškėlusi daugiau kaip vieną kandidatų sąrašą, papildomai šiai rinkimų politinei kampanijai gali išleisti ne daugiau kaip 10 procentų savo iškeltų kandidatų sąrašų limitų sumos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -5665,7 +5747,10 @@ Jeigu save išsikėlęs kandidatas surinko lėšų daugiau, negu jų buvo panaud
 
 
 
-5) fizinį asmenį, teismo pripažintą neveiksniu ar ribotai veiksniu su rinkimų teisės įgyvendinimu arba finansų tvarkymu susijusiose srityse arba nebaigusį atlikti bausmės pagal teismo nuosprendį.
+5) fizinį asmenį, teismo pripažintą neveiksniu ar ribotai veiksniu su rinkimų teisės įgyvendinimu arba finansų tvarkymu susijusiose srityse arba nebaigusį atlikti teismo paskirtos bausmės ir (ar) baudžiamojo poveikio priemonės.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2186, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20810
+ 
 
 
 
@@ -6604,7 +6689,10 @@ Rinkėjų balsavimą savivaldybės pastate ar (ir) kitose balsavimui tinkamose i
 138 straipsnis. Balsavimo namuose organizavimas
 
 
-1. Balsuoti namuose gali tik šie rinkėjai: neįgalieji, neįgaliuosius namuose slaugantys ar juos prižiūrintys (jiems teikiantys pagalbą) asmenys, dėl ligos laikinai nedarbingi rinkėjai, sukakę 70 metų ir vyresni rinkėjai, jeigu jie dėl sveikatos būklės patys negali atvykti rinkimų dieną į rinkimų apylinkę, yra pateikę Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose ir yra įrašyti į namuose balsuojančių rinkėjų sąrašus. Taip pat balsuoti namuose gali dėl 140 straipsnio 3 dalyje nurodytų aplinkybių saviizoliacijoje esantys rinkėjai, pateikę Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose. Rinkimų komisijų nariai, platindami pranešimus apie rinkimus, privalo juos įteikti asmeniškai tiems rinkėjams, kurie turi teisę balsuoti namuose, išskyrus saviizoliacijoje esančius rinkėjus.
+1. Balsuoti namuose gali tik šie rinkėjai: neįgalieji, neįgaliuosius namuose slaugantys ar juos prižiūrintys (jiems teikiantys pagalbą) asmenys, dėl ligos laikinai nedarbingi rinkėjai, sukakę 70 metų ir vyresni rinkėjai, jeigu jie dėl sveikatos būklės patys negali atvykti rinkimų dieną į rinkimų apylinkę, yra pateikę Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose ir yra įrašyti į namuose balsuojančių rinkėjų sąrašus. Taip pat balsuoti namuose gali dėl 139 straipsnio 3 dalyje nurodytų aplinkybių saviizoliacijoje esantys rinkėjai, pateikę Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose. Rinkimų komisijų nariai, platindami pranešimus apie rinkimus, privalo juos įteikti asmeniškai tiems rinkėjams, kurie turi teisę balsuoti namuose, išskyrus saviizoliacijoje esančius rinkėjus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -7588,15 +7676,32 @@ BALSAVIMO REZULTATŲ NUSTATYMAS APYGARDOS, SAVIVALDYBĖS RINKIMŲ KOMISIJOSE IR 
 163 straipsnis. Apygardos, savivaldybės rinkimų komisijos kompetencija skaičiuojant balsavimo rezultatus
 
 
-1. Apygardos, savivaldybės rinkimų komisija privalo priimti sprendimą perskaičiuoti visus vienmandatės rinkimų apygardos biuletenius, kai balsų skirtumas pirmą kartą balsuojant vienmandatėje rinkimų apygardoje tarp antrą ir trečią vietas užėmusių kandidatų, o per pakartotinį balsavimą ir pirmą kartą balsuojant vienmandatėje rinkimų apygardoje, kai dalyvauja tik du kandidatai, – tarp pirmą ir antrą vietas užėmusių kandidatų yra mažesnis kaip 50 ir kai iki pasirašant vienmandatės rinkimų apygardos rinkėjų balsų skaičiavimo protokolą to pareikalauja bent vienas šios komisijos narys arba politinės partijos, politinio komiteto, rinkimuose iškėlusių savo kandidatą, taip pat išsikėlusio kandidatu asmens atstovas rinkimams.
+1. Apygardos rinkimų komisija perskaičiuoja visus Seimo vienmandatės rinkimų apygardos biuletenius, kai balsų skirtumas pirmą kartą balsuojant vienmandatėje rinkimų apygardoje tarp antrą ir trečią vietas užėmusių kandidatų, o per pakartotinį balsavimą ir pirmą kartą balsuojant vienmandatėje rinkimų apygardoje, kai dalyvauja tik du kandidatai arba kai pirmą kartą balsuojant išrenkamas pirmą vietą užėmęs kandidatas – tarp pirmą ir antrą vietas užėmusių kandidatų yra mažesnis kaip 50 balsų ir kai iki nustatant rinkimų rezultatus to pareikalauja bent vienas šios komisijos narys arba kandidatas, kuris pirmą kartą balsuojant užėmė antrą ar trečią vietą arba per pakartotinį balsavimą užėmė antrą vietą.
 
 
 
 
-2. Apygardos, savivaldybės rinkimų komisija pagal Vyriausiosios rinkimų komisijos nustatytus duomenis gali patikrinti, ar tiksliai buvo suskaičiuoti rinkimų biuleteniai, išoriniai ir vidiniai balsavimo vokai, rinkimuose naudojami blankai ir plombos.
+2. Savivaldybės rinkimų komisija perskaičiuoja visus mero rinkimų vienmandatės apygardos biuletenius, kai balsų skirtumas pirmą kartą balsuojant tarp antrą ir trečią vietas užėmusių kandidatų, o per pakartotinį balsavimą ir pirmą kartą balsuojant vienmandatėje rinkimų apygardoje, kai dalyvauja tik du kandidatai arba kai pirmą kartą balsuojant išrenkamas pirmą vietą užėmęs kandidatas – tarp pirmą ir antrą vietas užėmusių kandidatų balsų yra ne didesnis kaip 10 balsų arba kai šis skirtumas didesnis kaip 10 balsų, bet neviršija 0,05 procento dalyvavusių rinkėjų skaičiaus, ir kai iki nustatant rinkimų rezultatus to pareikalauja bent vienas šios komisijos narys arba kandidatas, kuris pirmą kartą balsuojant užėmė antrą ar trečią vietą arba per pakartotinį balsavimą užėmė antrą vietą.
+
+
+
+
+3. Savivaldybės rinkimų komisija perskaičiuoja visus savivaldybės tarybos rinkimų daugiamandatės apygardos biuletenius, kai balsų skirtumas tarp iki šio kodekso 168 straipsnio 4 dalyje nustatyto reikalingos dalies balsų mandatams gauti ir nepatekusio kandidatų sąrašo gautų rinkėjų balsų yra ne didesnis kaip 10 balsų arba kai šis skirtumas didesnis kaip 10 balsų, bet neviršija 0,05 procento dalyvavusių rinkėjų skaičiaus, ir kai iki nustatant rinkimų rezultatus to pareikalauja bent vienas šios komisijos narys arba pirmos į savivaldybės tarybą nepatekusios politinės organizacijos atstovas rinkimams.
+
+
+
+
+4. Pirmumo balsams perskaičiuoti savivaldybės rinkimų komisija Vyriausiosios rinkimų komisijos nustatyta tvarka burtais parenka savivaldybių tarybų rinkimų daugiamandatės rinkimų apygardos rinkimų apylinkę ar apylinkes ir kandidatų sąrašą ar sąrašus. Perskaičiuojamų kandidatų sąrašų konkrečiose rinkimų apylinkėse skaičius nustatomas taip, kad bendras savivaldybėje perskaičiuojamų kandidatų sąrašų skaičius būtų ne mažesnis kaip 10 procentų kandidatų sąrašų savivaldybėje skaičiaus, padauginto iš rinkimų apylinkių skaičiaus. Jeigu savivaldybių tarybų rinkimų daugiamandatės rinkimų apygardos biuleteniai buvo perskaičiuoti šio straipsnio 3 dalyje nurodytu pagrindu ar kitais šiame kodekse numatytais atvejais, šių apygardų rinkimų apylinkių biuleteniai į atsitiktiniu būdu atrenkamų rinkimų apylinkių biuletenių pirmumo balsų perskaičiavimą neįtraukiami.
+
+
+
+
+5. Apygardos, savivaldybės rinkimų komisija pagal Vyriausiosios rinkimų komisijos nustatytus duomenis gali patikrinti, ar tiksliai buvo suskaičiuoti rinkimų biuleteniai, išoriniai ir vidiniai balsavimo vokai, rinkimuose naudojami blankai ir plombos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
  
-
-
 
 
 
@@ -7961,25 +8066,25 @@ NESUDERINAMOS PAREIGOS. ĮGALIOJIMŲ NUTRŪKIMAS. LAISVOS VIETOS UŽĖMIMAS
 
 
 
-5. Savivaldybės tarybos nario, mero pareigos nesuderinamos su šiomis valstybės lygmens pareigomis:
+5. Savivaldybės tarybos nario, mero pareigos nesuderinamos su šiomis pareigomis:
 
 
-1) Respublikos Prezidento; 
-
-
-
-
-2) Seimo nario; 
+1) Respublikos Prezidento;
 
 
 
 
-3) Europos Parlamento nario; 
+2) Seimo nario;
 
 
 
 
-4) Vyriausybės nario; 
+3) Europos Parlamento nario;
+
+
+
+
+4) Vyriausybės nario;
 
 
 
@@ -7994,9 +8099,17 @@ NESUDERINAMOS PAREIGOS. ĮGALIOJIMŲ NUTRŪKIMAS. LAISVOS VIETOS UŽĖMIMAS
 
 
 
-7) valstybės kontrolieriaus ir jo pavaduotojo.
+7) valstybės kontrolieriaus ir jo pavaduotojo;
 
 
+
+
+8) regiono plėtros tarybos, kurios viena iš dalyvių yra ši savivaldybė, administracijos direktoriaus.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2189, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20812
+ 
 
 
 
@@ -8489,7 +8602,15 @@ RINKIMŲ REZULTATŲ PRIPAŽINIMAS NEGALIOJANČIAIS
 
 
 
-3) pagal balsų skaičiavimo protokolus ar kitus rinkimų dokumentus negalima nustatyti rinkimų rezultatų.
+3) pagal balsų skaičiavimo protokolus ar kitus rinkimų dokumentus negalima nustatyti rinkimų rezultatų;
+
+
+
+
+4) pirmą kartą balsuojant vienmandatėje rinkimų apygardoje dalyvaujant tik dviem kandidatams išrinktas pirmą vietą užėmęs kandidatas  ir pakartotiniame balsavime vienmandatėje rinkimų apygardoje dalyvavęs ir daugiausia balsų gavęs kandidatas miršta arba yra apribota jo pasyvioji rinkimų teisė.
+Papildyta straipsnio punktu:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -8695,7 +8816,10 @@ c) rinkimų ginčus dėl balsavimo tvarkos rinkimų apylinkėje.
 
 
 
-3) skundo dėl rinkimų politinės kampanijos dalyvio, politinio komiteto registravimo, kandidato ar kandidatų sąrašo registravimo arba informacijos apie juos paskelbimo – per 5 dienas. 
+3) skundo dėl rinkimų politinės kampanijos dalyvio, kandidato ar kandidatų sąrašo registravimo arba informacijos apie juos paskelbimo – per 5 dienas. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -8712,7 +8836,17 @@ c) rinkimų ginčus dėl balsavimo tvarkos rinkimų apylinkėje.
 
 
 
-5. Apie priimtą sprendimą skundą pateikęs asmuo informuojamas ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos.
+5. Apie priimtą sprendimą skundą pateikęs asmuo informuojamas ne vėliau kaip per 5 dienas nuo sprendimo priėmimo dienos, o apie priimtą sprendimą šio straipsnio 2 dalyje nurodytą skundą pateikęs asmuo informuojamas per 2 dienas nuo sprendimo priėmimo dienos, bet ne vėliau kaip iki rinkimų dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
+
+
+
+
+6. Vyriausiosios rinkimų komisijos sprendimai dėl šio straipsnio 2 dalyje nurodytų skundų, taip pat dėl rinkimų politinės kampanijos dalyvio statuso praradimo, rinkėjų parašų rinkimo reikalavimų pažeidimo arba šios komisijos neveikimas per 3 dienas nuo jos sprendimo įsigaliojimo dienos arba nuo tos dienos, kai sprendimas turėjo būti priimtas, gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui. Šis teismas šiuos skundus išnagrinėja per 3 dienas. Vyriausiosios rinkimų komisijos sprendimai dėl kitų šiame skirsnyje nurodytų sprendimų skundžiami Vilniaus apygardos administraciniam teismui įstatymų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
  
 
 
@@ -8915,62 +9049,106 @@ ATSAKOMYBĖ
 
 
 
-5) nustatyto didžiausio rinkimų politinės kampanijos išlaidų dydžio viršijimas 10 ar daugiau procentų;
+5) jeigu kandidato aukų savo rinkimų politinei kampanijai finansuoti, įskaitant prisiimtų rinkimų politinės kampanijos skolos įsipareigojimų ir iki rinkimų politinės kampanijos pradžios apmokėtų rinkimų politinės kampanijos išlaidų sumą, suma viršija šio kodekso 110 straipsnio 3 dalyje nurodytą dydį daugiau kaip 10 procentų; 
+Papildyta straipsnio punktu:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-6) jeigu rinkimų politinės kampanijos dalyvio išlaidos nedeklaruotai politinei reklamai sudaro 10 ar daugiau procentų nustatyto didžiausio rinkimų politinės kampanijos išlaidų dydžio;
+6) nustatyto didžiausio rinkimų politinės kampanijos išlaidų dydžio viršijimas 10 ar daugiau procentų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-7) jeigu rinkimų politinės kampanijos dalyvio nedeklaruotos rinkimų politinei kampanijai gautos lėšos sudaro 10 ar daugiau procentų nustatyto didžiausio politinės kampanijos išlaidų dydžio;
+7) jeigu rinkimų politinės kampanijos dalyvio išlaidos nedeklaruotai politinei reklamai sudaro 10 ar daugiau procentų nustatyto didžiausio rinkimų politinės kampanijos išlaidų dydžio;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-8) saugotinų dokumentų praradimas, kita veikla, dėl kurios negalima nustatyti, ar savarankiško dalyvio finansavimo ataskaitos duomenys atitinka tikrovę;
+8) jeigu rinkimų politinės kampanijos dalyvio nedeklaruotos rinkimų politinei kampanijai gautos lėšos sudaro 10 ar daugiau procentų nustatyto didžiausio politinės kampanijos išlaidų dydžio;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-9) paslėptos politinės reklamos skleidimas, jeigu išlaidos šiai reklamai sudaro 10 ar daugiau procentų nustatyto didžiausio rinkimų politinės kampanijos išlaidų dydžio;
+9) saugotinų dokumentų praradimas, kita veikla, dėl kurios negalima nustatyti, ar savarankiško dalyvio finansavimo ataskaitos duomenys atitinka tikrovę;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-10) jeigu rinkimų politinės kampanijos dalyvio nedeklaruotos politinės kampanijos išlaidos viršija vieną rinkimuose taikomą VMDU dydį ir jeigu nedeklaruotos politinės kampanijos išlaidos sudaro 50 procentų politinės kampanijos dalyvio deklaruotų išlaidų;
+10) paslėptos politinės reklamos skleidimas, jeigu išlaidos šiai reklamai sudaro 10 ar daugiau procentų nustatyto didžiausio rinkimų politinės kampanijos išlaidų dydžio;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-11) politinės reklamos skleidimas per užsienio transliuotojus, pažeidžiant šio kodekso reikalavimus politinei reklamai;
+11) jeigu rinkimų politinės kampanijos dalyvio nedeklaruotos politinės kampanijos išlaidos viršija vieną rinkimuose taikomą VMDU dydį ir jeigu nedeklaruotos politinės kampanijos išlaidos sudaro 50 procentų politinės kampanijos dalyvio deklaruotų išlaidų;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-12) šio kodekso 79 straipsnio 10 dalyje ir 101 straipsnyje nustatyto draudimo papirkti rinkėjus pažeidimas;
+12) politinės reklamos skleidimas per užsienio transliuotojus, pažeidžiant šio kodekso reikalavimus politinei reklamai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-13) jeigu kandidatas kandidato anketoje nenurodo, kad yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis ir įstatymų nustatyta tvarka įrodoma, kad jis tą darė;
+13) šio kodekso 79 straipsnio 10 dalyje ir 101 straipsnyje nustatyto draudimo papirkti rinkėjus pažeidimas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-14) jeigu kandidatas kandidato anketoje nenurodo, kad jis po 1990 m. kovo 11 d. Lietuvos Respublikos ar užsienio valstybės teismo įsiteisėjusiu nuosprendžiu (sprendimu) buvo pripažintas kaltu dėl nusikalstamos veikos padarymo, nepaisant to, ar teistumas išnykęs, ar panaikintas;
+14) jeigu kandidatas kandidato anketoje nenurodo, kad yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis ir įstatymų nustatyta tvarka įrodoma, kad jis tą darė;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-15) jeigu kandidatas anketoje pateikia žinomai neteisingą (tikrovės neatitinkančią) informaciją (dokumentą), kad jis priesaika ar pasižadėjimu nėra susijęs su užsienio valstybe ir (ar) atsisakė kitos valstybės pilietybės;
+15) jeigu kandidatas kandidato anketoje nenurodo, kad jis po 1990 m. kovo 11 d. Lietuvos Respublikos ar užsienio valstybės teismo įsiteisėjusiu nuosprendžiu (sprendimu) buvo pripažintas kaltu dėl nusikalstamos veikos padarymo, nepaisant to, ar teistumas išnykęs, ar panaikintas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
 
-16) jeigu kandidatas kandidato anketoje nenurodo, kad jis anksčiau buvo pašalintas iš Respublikos Prezidento pareigų ar neteko Seimo nario, savivaldybės tarybos nario, mero ar Europos Parlamento nario mandato (įgaliojimų) už priesaikos sulaužymą, šiurkštų Konstitucijos pažeidimą ar nusikaltimo padarymą arba už šiurkštų šio kodekso pažeidimą.
+16) jeigu kandidatas anketoje pateikia žinomai neteisingą (tikrovės neatitinkančią) informaciją (dokumentą), kad jis priesaika ar pasižadėjimu nėra susijęs su užsienio valstybe ir (ar) atsisakė kitos valstybės pilietybės;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
+
+
+
+
+17) jeigu kandidatas kandidato anketoje nenurodo, kad jis anksčiau buvo pašalintas iš Respublikos Prezidento pareigų ar neteko Seimo nario, savivaldybės tarybos nario, mero ar Europos Parlamento nario mandato (įgaliojimų) už priesaikos sulaužymą, šiurkštų Konstitucijos pažeidimą ar nusikaltimo padarymą arba už šiurkštų šio kodekso pažeidimą.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+ 
 
 
 
@@ -9050,3 +9228,23 @@ priedas
 
 
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-2186, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20810
+Lietuvos Respublikos rinkimų kodekso 11, 69, 76, 85 ir 118 straipsnių pakeitimo konstitucinis įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-2189, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20812
+Lietuvos Respublikos rinkimų kodekso 172 straipsnio pakeitimo konstitucinis įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+Lietuvos Respublikos rinkimų kodekso 32, 64, 69, 76, 78, 79, 80, 81, 85, 87, 88, 89, 93, 97, 100, 110, 114, 125, 138, 163, 181, 185 ir 193 straipsnių pakeitimo konstitucinis įstatymas
