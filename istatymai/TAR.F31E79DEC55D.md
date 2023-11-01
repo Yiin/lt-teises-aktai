@@ -21,7 +21,7 @@ Redagavo: Ramunė Lūžaitė (1997
  
 
 
-Suvestinė redakcija nuo 2023-06-23 iki 2023-10-31
+Suvestinė redakcija nuo 2023-11-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -2874,6 +2874,14 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 
 
 2. Jeigu numatoma atlikti statybos darbus, priskiriamus skirtingoms statybos rūšims, arba numatoma atlikti kultūros paveldo statinio tvarkomuosius statybos darbus, tvarkomuosius paveldosaugos darbus, gali būti rengiamas vienas skirtingas statybos rūšis, tvarkomuosius statybos ir paveldosaugos darbus jungiantis statinio projektas, statinio projekto pavadinime nurodant atliekamų darbų rūšis.
+
+
+
+
+21. Jeigu rekonstruojamo pastato tūris padidėja daugiau negu 100 procentų, jam taikomi įstatymuose ir jų įgyvendinamuosiuose teisės aktuose, teritorijų planavimo dokumentuose nustatyti naujo statinio projektavimui ir statybai keliami reikalavimai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
 
 
 
