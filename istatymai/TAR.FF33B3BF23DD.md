@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-10-31
+Suvestinė redakcija nuo 2023-11-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -66,7 +66,9 @@ Nr. XI-59, 2008-12-16, Žin., 2008, Nr. 149-5991 (2008-12-30)
 
 
 
-2. Bendrijos vaistinių preparatų registras – vaistinių preparatų, kurie registruoti Europos Komisijos sprendimu ir kurių registracija galioja visose Europos Sąjungos valstybėse narėse, registras. 
+2. Neteko galios nuo 2023-11-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
  
@@ -82,6 +84,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 31. Biologinis vaistinis preparatas – vaistinis preparatas, kurio veiklioji medžiaga yra pagaminta ar ekstrahuota iš biologinio šaltinio ir kuriai apibūdinti ir jos kokybei nustatyti yra svarbūs ir fizikiniai, cheminiai, biologiniai tyrimai, ir gamybos procesas bei jo kontrolė. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
+ 
+
+
+
+
+32. Centralizuota vaistinio preparato registravimo procedūra (toliau – centralizuota registravimo procedūra) – vaistinio preparato registravimo procedūra, vykdoma pagal Reglamentą (EB) Nr. 726/2004. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -113,7 +123,10 @@ Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 
 
-8. Europos vaistų agentūra – agentūra, įsteigta pagal 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 726/2004, nustatantį Bendrijos leidimų dėl žmonėms skirtų ir veterinarinių vaistų išdavimo ir priežiūros tvarką ir įsteigiantį Europos vaistų agentūrą (toliau – Reglamentas (EB) Nr. 726/2004).
+8. Europos vaistų agentūra – agentūra, įsteigta pagal Reglamentą (EB) Nr. 726/2004. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -217,37 +230,37 @@ Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
 14. Farmacinė veikla – sveikatinimo veikla, apimanti:
 
 
-1) vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš trečiųjų šalių, kokybės kontrolę; 
+1) vaistinių preparatų, tiriamųjų vaistinių preparatų, veikliųjų medžiagų gamybą, importą iš valstybių, kurios nėra EEE valstybės (toliau – trečiosios šalys);
 
 
 
 
-2) didmeninį vaistinių preparatų platinimą ir vaistinių preparatų prekybos tarpininkavimą, veikliųjų medžiagų platinimą; 
+2) didmeninį vaistinių preparatų platinimą ir vaistinių preparatų prekybos tarpininkavimą, veikliųjų medžiagų platinimą;
 
 
 
 
-3) vaistinių preparatų lygiagretų importą ir lygiagretų platinimą; 
+3) vaistinių preparatų lygiagretų importą ir lygiagretų platinimą;
 
 
 
 
-4) vaistinių preparatų pardavimą ar išdavimą galutiniams vartotojams; 
+4) vaistinių preparatų pardavimą ar išdavimą galutiniams vartotojams;
 
 
 
 
-5) farmacinių paslaugų teikimą; 
+5) farmacinių paslaugų teikimą;
 
 
 
 
-6) farmacinę rūpybą; 
+6) farmacinę rūpybą;
 
 
 
 
-7) ekstemporaliųjų vaistinių preparatų gamybą, kokybės kontrolę; 
+7) ekstemporaliųjų vaistinių preparatų gamybą, kokybės kontrolę;
 
 
 
@@ -257,6 +270,7 @@ Nr. XII-1538, 2015-03-12, paskelbta TAR 2015-03-18, i. k. 2015-03949
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -377,6 +391,14 @@ Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
 
 
 
+252. Mokslinis-reguliacinis patarimas – teisiškai neįpareigojanti įgaliotosios institucijos paslauga, teikiama siekiant suteikti pagalbą vaistinio preparato kūrimo, jo registracijos ir poregistraciniu laikotarpiu, vaistinio preparato kokybės užtikrinimo, ikiklinikinių ir klinikinių tyrimų stadijose bei padėti užtikrinti reikalaujamus standartus bei atitinkamos srities gairių laikymąsi sveikatos technologijų, įskaitant vaistinius preparatus, vertinimo, jų pradinių medžiagų, prireikus ir tarpinių produktų laboratorinių tyrimų stadijose. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
 26. Neteko galios nuo 2009-07-01.
 
 
@@ -405,9 +427,19 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 
-291. Nesupakuotas produktas – produktas, gaunamas atlikus visas vaistinio preparato gamybos operacijas, išskyrus pakavimą į vartotojams skirtas galutines pakuotes. 
+291. Neregistruotas vaistinis preparatas – vaistinis preparatas, pagamintas pramoniniu būdu arba pramoninį procesą apimančiu metodu ir neįregistruotas į Lietuvos Respublikos vaistinių preparatų registrą, Sąjungos vaistinių preparatų registrą arba Lygiagrečiai importuojamų vaistinių preparatų sąrašą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+292. Nesupakuotas produktas – produktas, gaunamas atlikus visas vaistinio preparato gamybos operacijas, išskyrus pakavimą į vartotojams skirtas galutines pakuotes. 
 Papildyta straipsnio dalimi:
 Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -573,9 +605,19 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-411. Sudėtinis vaistinis preparatas – vaistinis preparatas, į kurio sudėtį įeina dvi ar daugiau veikliųjų medžiagų, kurios atskirai (po vieną) gali įeiti į kitų vaistinių preparatų sudėtį. 
+411. Sąjungos vaistinių preparatų registras – vaistinių preparatų, kurie registruoti Europos Komisijos sprendimu ir kurių registracija galioja visose Europos Sąjungos valstybėse narėse, registras. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+412. Sudėtinis vaistinis preparatas – vaistinis preparatas, į kurio sudėtį įeina dvi ar daugiau veikliųjų medžiagų, kurios atskirai (po vieną) gali įeiti į kitų vaistinių preparatų sudėtį. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -731,9 +773,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-571. Vaistinio preparato lygiagretus platinimas – į Bendrijos vaistinių preparatų registrą įrašyto vaistinio preparato didmeninis platinimas, kai jis įvežamas į Lietuvos Respubliką nesinaudojant vaistinio preparato registruotojo platinimo tinklu. 
+571. Vaistinio preparato lygiagretus platinimas – į Sąjungos vaistinių preparatų registrą įrašyto vaistinio preparato didmeninis platinimas, kai jis įvežamas į Lietuvos Respubliką nesinaudojant vaistinio preparato registruotojo platinimo tinklu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -928,7 +971,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-72. Vardinis vaistinis preparatas – pavieniam pacientui būtinas neregistruotas vaistinis preparatas, tiekiamas į Lietuvos Respubliką remiantis to paciento gydytojo paskyrimu, pateiktu sveikatos apsaugos ministro nustatyta tvarka, ir skirtas vartoti tiesiogiai šiam gydytojui atsakant.
+72. Vardinis vaistinis preparatas – pavieniam pacientui būtinas neregistruotas vaistinis preparatas, tiekiamas į Lietuvos Respubliką remiantis paciento gydytojo paskyrimu, pateikiamu sveikatos apsaugos ministro nustatyta tvarka, ir skirtas tik pacientui, kuriam sveikatos priežiūros paslaugas teikia šis gydytojas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -1020,7 +1066,7 @@ Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
 
 
 
-83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos karo padėties įstatyme, 2015 m. spalio 2 d. Komisijos deleguotajame reglamente (ES) 2016/161, kuriuo nustatomos išsamios apsaugos priemonių ant žmonėms skirtų vaistų pakuotės naudojimo taisyklės ir taip papildoma Europos Parlamento ir Tarybos direktyva 2001/83/EB (toliau – Reglamentas (ES) 2016/161), ir Reglamente (ES) Nr. 536/2014. 
+83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos karo padėties įstatyme, Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos nepaprastosios padėties įstatyme, Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme, Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme, Deleguotajame reglamente (ES) 2016/161 ir Reglamente (ES) Nr. 536/2014.
 Papildyta straipsnio dalimi:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Straipsnio dalies pakeitimai:
@@ -1028,6 +1074,7 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 Nr. XIII-1562, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17477
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -1770,7 +1817,10 @@ VAISTINIŲ PREPARATŲ TIEKIMAS RINKAI
 8 straipsnis. Bendrosios nuostatos 
 
 
-1. Vaistiniai preparatai, pagaminti pramoniniu būdu arba apimančiu pramoninį procesą metodu, gali būti tiekiami Lietuvos Respublikos rinkai tik kai yra įregistruoti Lietuvos Respublikos vaistinių preparatų registre, Bendrijos vaistinių preparatų registre arba Lygiagrečiai importuojamų vaistinių preparatų sąraše (toliau – registruoti vaistiniai preparatai).
+1. Vaistiniai preparatai, pagaminti pramoniniu būdu arba pramoninį gamybos procesą apimančiu metodu, gali būti tiekiami Lietuvos Respublikos rinkai tik kai yra įregistruoti Lietuvos Respublikos vaistinių preparatų registre, Sąjungos vaistinių preparatų registre arba Lygiagrečiai importuojamų vaistinių preparatų sąraše (toliau – registruoti vaistiniai preparatai). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -1892,23 +1942,71 @@ Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 
 
 
-9. Juridiniai asmenys, turintys Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai (toliau – asmens sveikatos priežiūros įstaigos), ir vaistinių preparatų mažmeninės prekybos įmonės vaistinius preparatus gali įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, o kartinius vaistinius preparatus – iš vaistinės, kurios licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba.
+9. Asmens sveikatos priežiūros įstaigos registruotus vaistinius preparatus gali įsigyti iš: 
+
+
+1) juridinių asmenų, turinčių šio įstatymo nustatyta tvarka išduotą didmeninio platinimo ar gamybos licenciją;
+
+
+
+
+2) asmenų, turinčių didmeninio platinimo ar gamybos licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, ir įrašytų į šio įstatymo 30 straipsnio 5 dalyje nurodytą Asmenų, pateikusių pranešimą apie numatomą vaistinių preparatų tiekimą, sąrašą (toliau – EEE tiekėjų sąrašas), jeigu asmens sveikatos priežiūros įstaiga turi ligoninės vaistinę ir yra prisijungusi prie Lietuvos nacionalinės kaupyklos ir vaistiniai preparatai nėra tiekiami pagal šio straipsnio 16, 161 ir (ar) 162 dalis; 
+
+
+
+
+3) asmenų, turinčių didmeninio platinimo ar gamybos licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, ir įrašytų į EEE tiekėjų sąrašą, – Vyriausybės ar sveikatos apsaugos ministro įgaliotų institucijų valstybės biudžeto, Privalomojo sveikatos draudimo fondo biudžeto ir (ar) kitomis lėšomis perkamus registruotus vaistinius preparatus, jeigu pirkimą vykdanti institucija asmens sveikatos priežiūros įstaigą nurodo kaip vaistinio preparato gavėją;
+
+
+
+
+4) kitos asmens sveikatos priežiūros įstaigos:
+
+
+a) jeigu ji turi įsigyjančioje asmens sveikatos priežiūros įstaigoje esančio paciento (įskaitant atvejus, kai ambulatoriškai gydomiems pacientams sveikatos priežiūros paslauga suteikiama asmens sveikatos priežiūros įstaigoje) gydymui, gyvybės išgelbėjimui ar pratęsimui, taip pat ligos diagnostikai ar prevencijai būtiną vaistinį preparatą, kurio nėra galimybės įsigyti iš šios dalies 1–3 punktuose nurodytų asmenų. Sveikatos apsaugos ministras nustato tokių vaistinių preparatų įsigijimo, patiekimo, laikymo ir apskaitos tvarką;
+
+
+
+
+b) sveikatos apsaugos ministro sprendimu, jeigu vaistiniai preparatai, skirti pavojingų ar ypač pavojingų užkrečiamųjų ligų imunoprofilaktikai ar gydymui, perkami asmens sveikatos priežiūros įstaigoms valstybės biudžeto, Privalomojo sveikatos draudimo fondo biudžeto ir (ar) kitomis lėšomis ir dėl objektyvių priežasčių nėra galimybės šiuos vaistinius preparatus laiku ir (ar) reikiamais kiekiais patiekti iš juridinio asmens, turinčio didmeninio platinimo ar gamybos licenciją. 
+
+
+
+
 Straipsnio dalies pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
 Nr. XIII-1561, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17476
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 Nr. XIII-2645, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20823
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
 
 
-91. Asmens sveikatos priežiūros įstaigos įsigytus vaistinius preparatus laiko, įtraukia į apskaitą, tikrina gautų vaistinių preparatų pakuočių apsaugos priemones ir deaktyvina unikalius identifikatorius sveikatos apsaugos ministro nustatyta tvarka, taip pat prisijungia prie Lietuvos Respublikos teritoriją aptarnaujančios kaupyklos, nurodytos Reglamento (ES) 2016/161 32 straipsnio 1 dalies b punkte (toliau – Lietuvos nacionalinė kaupykla), ir vykdo Reglamente (ES) 2016/161 nustatytas pareigas asmenims, turintiems leidimą arba įgaliotiems tiekti vaistus visuomenei. Vaistinių preparatų pakuočių unikalūs identifikatoriai gali būti deaktyvinami nuskaitant kiekvienos pakuotės dvimatį brūkšninį kodą, kuriame užkoduotas unikalus identifikatorius, arba naudojantis gamintojo ar didmeninio platintojo saugiu būdu pateikta suvestine informacija apie patiektų vaistinių preparatų pakuočių unikalius identifikatorius. Asmenims, nurodytiems šio straipsnio 84 dalyje, prisijungti prie Lietuvos nacionalinės kaupyklos nereikia. 
+91. Asmens sveikatos priežiūros įstaigos kartinius vaistinius preparatus gali įsigyti iš juridinių asmenų, turinčių šio įstatymo nustatyta tvarka išduotą vaistinės veiklos licenciją, kurioje nurodyta ekstemporaliųjų vaistinių preparatų gamyba. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+92. Asmens sveikatos priežiūros įstaigos vaistinius preparatus įsigyja, laiko, įtraukia į apskaitą, tikrina gautų vaistinių preparatų pakuočių apsaugos priemones ir deaktyvina unikalius identifikatorius sveikatos apsaugos ministro nustatyta tvarka, taip pat prisijungia prie Lietuvos nacionalinės kaupyklos ir vykdo Reglamente (ES) 2016/161 nustatytas pareigas asmenims, turintiems leidimą arba įgaliotiems tiekti vaistus visuomenei. Vaistinių preparatų pakuočių unikalūs identifikatoriai gali būti deaktyvinami nuskaitant kiekvienos pakuotės dvimatį brūkšninį kodą, kuriame užkoduotas unikalus identifikatorius, arba naudojantis gamintojo ar didmeninio platintojo saugiu būdu pateikta suvestine informacija apie patiektų vaistinių preparatų pakuočių unikalius identifikatorius. Šio straipsnio 84 dalyje nurodytiems asmenims prisijungti prie Lietuvos nacionalinės kaupyklos nereikia. Vaistinių preparatų, kuriuos asmens sveikatos priežiūros įstaiga tiekia kitai asmens sveikatos priežiūros įstaigai pagal šio straipsnio 9 dalies 4 punktą, pakuočių unikalius identifikatorius tikrina ir deaktyvina vaistinius preparatus tiekianti asmens sveikatos priežiūros įstaiga, išskyrus atvejus, kai šiai asmens sveikatos priežiūros įstaigai taikoma šio straipsnio 84 dalyje numatyta išimtis. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 Straipsnio dalies pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+93. Vaistinių preparatų mažmeninės prekybos įmonės registruotus vaistinius preparatus gali įsigyti tik iš juridinių asmenų, turinčių šio įstatymo nustatyta tvarka išduotą didmeninio platinimo ar gamybos licenciją. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -1992,21 +2090,59 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-16. Valstybinė vaistų kontrolės tarnyba, išskyrus šio straipsnio 161 dalyje nurodytą atvejį, gali laikinai leisti tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, jeigu vaistinio preparato gamintojas, o lygiagrečiai importuojamo vaistinio preparato atveju – jo perpakavimą vykdantis gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir jeigu vaistinis preparatas nėra kompensuojamasis, nėra galimybės jo pakeisti kitais registruotais nekompensuojamaisiais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas per 7 darbo dienas ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato arba lygiagrečiai importuojamo vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas galioja tol, kol tęsiasi priežastys, dėl kurių jis buvo išduotas, bet ne ilgiau kaip vienus metus nuo leidimo išdavimo datos. Jeigu vaistinis preparatas yra kompensuojamasis, leidimas galioja ne ilgiau kaip iki sveikatos apsaugos ministro įsakymo dėl naujo Kompensuojamųjų vaistinių preparatų kainyno patvirtinimo įsigaliojimo dienos ir vaistinį preparatą išduoti (parduoti) gyventojams kaip kompensuojamąjį vaistinį preparatą galima tik leidimo galiojimo metu. Leidimo tiekti nekompensuojamąjį vaistinį preparatą galiojimo terminas gali būti vieną kartą pratęstas, bet ne ilgiau kaip 6 mėnesiams. Sveikatos apsaugos ministras tvirtina šioje dalyje nurodytų leidimų išdavimo ir pratęsimo tvarkos aprašą, priežasčių objektyvumo vertinimo kriterijus ir būtinų visuomenės sveikatai apsaugoti priemonių sąrašą bei jų taikymo sąlygas. Vaistinių preparatų, atitinkančių šio straipsnio 81 dalies nuostatas, pakuotės turi būti su apsaugos priemonėmis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
-Nr. XIII-1192, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08644
-Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+151. Valstybinė vaistų kontrolės tarnyba teikia mokslinius-reguliacinius patarimus juridiniams asmenims, kuriantiems ir vystantiems vaistinius preparatus, atliekantiems su vaistiniais preparatais susijusius mokslinius tyrimus ir eksperimentinę plėtrą, taip pat vaistinių preparatų registruotojams ar jų atstovams. Moksliniai-reguliaciniai patarimai grindžiami pareiškėjo pateikta informacija, galiojančių teisės aktų reikalavimais ir šiuolaikinėmis mokslo žiniomis. Mokslinio-reguliacinio patarimo metu nėra vertinamas vaistinio preparato naudos ir rizikos santykis. Mokslinių-reguliacinių patarimų teikimo tvarką nustato Valstybinės vaistų kontrolės tarnybos viršininkas. Už paraiškos moksliniam-reguliaciniam patarimui gauti, kartu pateiktų dokumentų ir informacijos vertinimą ir mokslinio-reguliacinio patarimo dokumentų išdavimą mokama valstybės rinkliava. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
 
 
-161. Registruoti vaistiniai preparatai pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, gali būti tiekiami asmens sveikatos priežiūros įstaigoms taikant sveikatos apsaugos ministro nustatytas būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Asmens sveikatos priežiūros įstaigai tiekiami vaistiniai preparatai turi atitikti vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir gali būti vartojami tik toje asmens sveikatos priežiūros įstaigoje teikiamoms asmens sveikatos priežiūros paslaugoms suteikti. Vaistinių preparatų, atitinkančių šio straipsnio 81 dalies nuostatas, pakuotės turi būti su apsaugos priemonėmis. 
+16. Valstybinė vaistų kontrolės tarnyba, išskyrus šio straipsnio 161 ir 162 dalyse nurodytus atvejus, gali išduoti leidimą laikinai tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, jeigu vaistinio preparato gamintojas, o lygiagrečiai importuojamo vaistinio preparato atveju – jo perpakavimą vykdantis gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir jeigu vaistinis preparatas nėra kompensuojamasis, nėra galimybės jo pakeisti kitais registruotais nekompensuojamaisiais vaistiniais preparatais (įskaitant vaistinius preparatus, kurių pavadinimai įrašyti į sveikatos apsaugos ministro patvirtintą Kompensuojamųjų vaistinių preparatų kainyną) lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas konkrečiam vaistinio preparato kiekiui per 7 darbo dienas nuo vaistinio preparato registruotojo, lygiagretaus importo leidimo turėtojo arba juridinio asmens, turinčio šio įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją, prašymo išduoti leidimą gavimo dienos ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato arba lygiagrečiai importuojamo vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas laikinai tiekti nekompensuojamuosius vaistinius preparatus išduodamas kiekiui, kuris reikalingas vaistinių preparatų poreikiui užtikrinti laikotarpiu, kol yra šioje dalyje nurodytos objektyvios priežastys, tačiau ne ilgesniu kaip vieni metai, o leidime laikinai tiekti kompensuojamuosius vaistinius preparatus – kiekiui, kuris reikalingas vaistinių preparatų poreikiui užtikrinti laikotarpiu, kol yra šioje dalyje nurodytos objektyvios priežastys, tačiau ne ilgesniu kaip likęs Kompensuojamųjų vaistinių preparatų kainyno galiojimo laikotarpis. Pagal leidimo išdavimo laikotarpį apskaičiuojamas vaistinio preparato poreikis ir nustatomas leidžiamo laikinai tiekti vaistinio preparato pakuočių kiekis. Leidime nurodytą vaistinio preparato pakuočių kiekį galima įvežti į Lietuvos Respubliką ir (ar) tiekti juridiniams asmenims, turintiems šio įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją, vaistinėms ir asmens sveikatos priežiūros įstaigoms tik leidimo galiojimo laikotarpiu. Vaistiniai preparatai, patiekti vaistinėms ir (ar) asmens sveikatos priežiūros įstaigoms, gali būti parduodami (išduodami) gyventojams vaistinėse ir (ar) vartojami asmens sveikatos priežiūros įstaigose iki vaistinių preparatų tinkamumo laiko pabaigos. Jeigu Valstybinė vaistų kontrolės tarnyba gauna informacijos, kad išnyko objektyvios priežastys, dėl kurių buvo išduotas leidimas, ji leidimo galiojimą apriboja ir jame nustato, kad vaistinius preparatus pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, draudžiama įvežti į Lietuvos Respubliką. Vaistiniai preparatai pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, įvežti į Lietuvos Respubliką iki leidimo galiojimo apribojimo dienos, gali būti tiekiami juridiniams asmenims, turintiems šio įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją, vaistinėms ir asmens sveikatos priežiūros įstaigoms iki leidimo galiojimo pabaigos. Jeigu nekompensuojamasis vaistinis preparatas, kuriam išduotas leidimas, įtraukiamas į Kompensuojamųjų vaistinių preparatų kainyną arba jeigu kompensuojamasis vaistinis preparatas, kuriam išduotas leidimas, įtraukiamas į kitą Kompensuojamųjų vaistinių preparatų kainyną, kuris įsigalioja iš karto po leidimo išdavimo metu galiojusio Kompensuojamųjų vaistinių preparatų kainyno galiojimo pabaigos, tokie kompensuojamieji vaistiniai preparatai gali būti įvežami į Lietuvos Respubliką ir tiekiami kitos EEE valstybės kalba, vartojant lotynišką raidyną, paženklintomis pakuotėmis ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, tik gavus naują leidimą. Tais atvejais, kai kompensuojamasis vaistinis preparatas, kuriam išduotas leidimas, išbraukiamas iš Kompensuojamųjų vaistinių preparatų kainyno, jis gali būti įvežamas į Lietuvos Respubliką ir tiekiamas kitos EEE valstybės kalba, vartojant lotynišką raidyną, paženklintomis pakuotėmis ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, tik gavus naują leidimą. Sveikatos apsaugos ministras nustato šioje dalyje nurodytų leidimų išdavimo ir jų galiojimo apribojimo tvarką, priežasčių, dėl kurių negalima užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, objektyvumo vertinimo kriterijus, vaistinių preparatų poreikio nustatymo kriterijus ir būtinas visuomenės sveikatai apsaugoti priemones bei jų taikymo sąlygas. Vaistinių preparatų, atitinkančių šio straipsnio 81 dalies nuostatas, pakuotės turi būti su apsaugos priemonėmis, išskyrus atvejus, kai vaistinis preparatas yra skirtas EEE valstybei, kurioje jis yra priskirtas vaistiniams preparatams, kuriems pakuočių apsaugos priemonės neprivalomos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+Nr. XIII-1192, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08644
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+161. Jeigu registruoti vaistiniai preparatai tiekiami tik asmens sveikatos priežiūros įstaigoms, jie gali būti tiekiami pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, taikant sveikatos apsaugos ministro nustatytas būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Asmens sveikatos priežiūros įstaigai tiekiami vaistiniai preparatai turi atitikti vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir gali būti vartojami tik toje asmens sveikatos priežiūros įstaigoje teikiamoms asmens sveikatos priežiūros paslaugoms suteikti. Vaistinių preparatų, atitinkančių šio straipsnio 81 dalies nuostatas, pakuotės turi būti su apsaugos priemonėmis, išskyrus atvejus, kai vaistinis preparatas yra skirtas EEE valstybei, kurioje jis yra priskirtas vaistiniams preparatams, kuriems pakuočių apsaugos priemonės neprivalomos. 
 Papildyta straipsnio dalimi:
 Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 Straipsnio dalies pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+162. Sveikatos apsaugos ministro nustatyta tvarka gali būti tiekiami ir vartojami registruoti vaistiniai preparatai (išskyrus kompensuojamuosius vaistinius preparatus, Vyriausybės ar sveikatos apsaugos ministro įgaliotų institucijų valstybės biudžeto, Privalomojo sveikatos draudimo fondo biudžeto ir (ar) kitomis lėšomis perkamus vaistinius preparatus ir (ar) vaistinius preparatus, tiekiamus vadovaujantis šio straipsnio 16 ar 161 dalies nuostatomis) pakuotėmis kitos EEE valstybės kalba ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, jeigu jie atitinka šios dalies 1, 2 ir 4 punktų arba 1, 3 ir 4 punktų sąlygas: 
+
+
+1) yra skirti tik pavieniams pacientams gydyti;
+
+
+
+
+2) vaistinio preparato registruotojas, vadovaudamasis šio įstatymo 15 straipsnio 8 dalimi, yra pranešęs Valstybinei vaistų kontrolės tarnybai apie laikiną arba visišką vaistinio preparato tiekimo Lietuvos Respublikos rinkai nutraukimą; 
+
+
+
+
+3) vaistinio preparato, registruoto taikant centralizuotą registravimo procedūrą, registruotojas neužtikrina šio vaistinio preparato tiekimo lietuvių kalba paženklintomis pakuotėmis ir su pakuotės lapeliais, parengtais lietuvių kalba;
+
+
+
+
+4) nėra galimybės pakeisti vaistinį preparatą kitais registruotais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra rinkoje. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -2020,9 +2156,11 @@ Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 
 
 
-18. Ikiklinikiniam tyrimui reikalingi neregistruoti vaistiniai preparatai, kurie nėra šio tyrimo objektas, gali būti įvežami iš kitos EEE valstybės ar importuojami iš trečiosios šalies kiekiais, reikalingais ikiklinikiniam tyrimui atlikti, ir tiekiami tik šį ikiklinikinį tyrimą atliekantiems asmenims. 
+18. Ikiklinikiniam tyrimui reikalingi neregistruoti vaistiniai preparatai, kurie nėra šio tyrimo objektas, gali būti įsigyjami iš kitos EEE valstybės ar trečiosios šalies kiekiais, reikalingais ikiklinikiniam tyrimui atlikti, ir tiekiami tik šį ikiklinikinį tyrimą atliekantiems asmenims. 
 Papildyta straipsnio dalimi:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -2044,9 +2182,11 @@ Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 
 
 
-21. Klinikiniams vaistinių preparatų tyrimams reikalingi pagalbiniai vaistiniai preparatai, kurie nėra registruoti, kaip numatyta Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 10 punkte (toliau – neregistruoti pagalbiniai vaistiniai preparatai), gali būti įvežami iš kitos EEE valstybės ar importuojami iš trečiosios šalies kiekiais, reikalingais klinikiniam tyrimui atlikti, ir tiekiami tik šiuos klinikinius tyrimus atliekantiems klinikinio tyrimo centrams.
+21. Klinikiniams vaistinių preparatų tyrimams reikalingi pagalbiniai vaistiniai preparatai, kurie nėra registruoti, kaip numatyta Reglamento (ES) Nr. 536/2014 2 straipsnio 2 dalies 10 punkte (toliau – neregistruoti pagalbiniai vaistiniai preparatai), gali būti įsigyjami iš kitos EEE valstybės ar trečiosios šalies kiekiais, reikalingais klinikiniam tyrimui atlikti, ir tiekiami tik šiuos klinikinius tyrimus atliekantiems klinikinio tyrimo centrams.
 Papildyta straipsnio dalimi:
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -2282,7 +2422,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-13. Būtinų studijų ir tyrimų atlikimas, norint pateikti paraišką registruoti vaistinį preparatą Lietuvos Respublikoje pagal šio straipsnio 5, 10 ir 11 dalis ar Bendrijos vaistinių preparatų registre pagal Reglamentą (EB) Nr. 726/2004 arba kitose valstybėse pagal tų valstybių teisės aktų reikalavimus, ir su jais susiję praktiniai poreikiai nepažeidžia vaistinių preparatų patento ar papildomos apsaugos liudijimų suteikiamų teisių, numatytų Lietuvos Respublikos patentų įstatyme ir kituose teisės aktuose, reglamentuojančiuose pramoninės nuosavybės apsaugą.
+13. Būtinų studijų ir tyrimų atlikimas, norint pateikti paraišką registruoti vaistinį preparatą Lietuvos Respublikoje pagal šio straipsnio 5, 10 ir 11 dalis ar Sąjungos vaistinių preparatų registre pagal Reglamentą (EB) Nr. 726/2004 arba kitose valstybėse pagal tų valstybių teisės aktų reikalavimus, ir su jais susiję praktiniai poreikiai nepažeidžia vaistinių preparatų patento ar papildomos apsaugos liudijimų suteikiamų teisių, numatytų Lietuvos Respublikos patentų įstatyme ir kituose teisės aktuose, reglamentuojančiuose pramoninės nuosavybės apsaugą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -2636,9 +2779,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-81. Vaistinio preparato registruotojas, bendradarbiaudamas su platintojais, turi užtikrinti, kad vaistiniai preparatai, tiekiami pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, pagal šio įstatymo 8 straipsnio 161 dalį, atitiktų vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį. Vaistinio preparato registruotojas ar jo atstovas Lietuvos Respublikoje turi pateikti informaciją apie tokius tiekiamus vaistinius preparatus Valstybinei vaistų kontrolės tarnybai, vadovaudamasis sveikatos apsaugos ministro nustatyta tvarka. Sveikatos apsaugos ministras nustato, kokie duomenys (informacija) ir kokiais terminais turi būti pateikiami. 
+81. Vaistinio preparato registruotojas, bendradarbiaudamas su platintojais, turi užtikrinti, kad vaistiniai preparatai, tiekiami pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, pagal šio įstatymo 8 straipsnio 16 ir (ar) 161 dalis, atitiktų vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį. Vaistinio preparato registruotojas ar jo atstovas Lietuvos Respublikoje turi pateikti informaciją apie tokius į Lietuvos Respubliką įvežtus vaistinius preparatus Valstybinei vaistų kontrolės tarnybai, vadovaudamasis sveikatos apsaugos ministro nustatyta tvarka. Sveikatos apsaugos ministras nustato, kokie duomenys (informacija) ir kokiais terminais turi būti pateikiami.
 Papildyta straipsnio dalimi:
 Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -2887,9 +3032,11 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-31) užtikrinti, kad vaistiniai preparatai, tiekiami pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, pagal šio įstatymo 8 straipsnio 161 dalį, atitiktų lygiagretaus importo leidimo sąlygas, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį. Lygiagretaus importo leidimo turėtojas turi pateikti informaciją apie tokius tiekiamus vaistinius preparatus Valstybinei vaistų kontrolės tarnybai, vadovaudamasis šio įstatymo 15 straipsnio 81  dalyje nustatyta tvarka;
+31) užtikrinti, kad vaistiniai preparatai, tiekiami pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, pagal šio įstatymo 8 straipsnio 16 ir (ar) 161 dalis, atitiktų lygiagretaus importo leidimo sąlygas, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį. Lygiagretaus importo leidimo turėtojas turi pateikti informaciją apie tokius į Lietuvos Respubliką įvežtus vaistinius preparatus Valstybinei vaistų kontrolės tarnybai, vadovaudamasis šio įstatymo 15 straipsnio 81 dalyje nustatyta tvarka;
 Papildyta straipsnio punktu:
 Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+Straipsnio punkto pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -3440,10 +3587,11 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-5) vardinių vaistinių preparatų, šio įstatymo 8 straipsnio 18 ir 21 dalyse nurodytų vaistinių preparatų ir pagalbinių vaistinių preparatų importui iš trečiųjų šalių.
+5) vardinių vaistinių preparatų, šio įstatymo 8 straipsnio 18 ir 21 dalyse nurodytų vaistinių preparatų ir pagalbinių vaistinių preparatų įsigijimui iš trečiųjų šalių. 
 Straipsnio punkto pakeitimai:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -3455,6 +3603,39 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 Straipsnio dalies pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+ 
+
+
+
+
+41. Vaistinių preparatų, tiriamųjų vaistinių preparatų importas iš trečiųjų šalių apima toliau išvardytus veiksmus, atliekamus įforminus jų išleidimo į laisvą apyvartą muitinės procedūras Lietuvos Respublikos muitinėje:
+
+
+1) vaistinio preparato, tiriamojo vaistinio preparato laikymą gamybos licencijoje nurodytoje fizinio importo vietoje;
+
+
+
+
+2) kiekvienos vaistinio preparato serijos gamybos ir atliktos kontrolės atitikties šio įstatymo ir kitų teisės aktų, reglamentuojančių vaistinių preparatų gamybą bei importą, reikalavimams ir vaistinio preparato registravimo dokumentams įvertinimą;
+
+
+
+
+3) kiekvienos vaistinio preparato serijos visos kokybinės, visų veikliųjų medžiagų kiekybinės analizės ir visų kitų tyrimų ar patikrinimų, būtinų vaistinio preparato kokybei užtikrinti pagal vaistinio preparato registravimo dokumentus, atlikimą Lietuvos Respublikoje ar kitoje EEE valstybėje;
+
+
+
+
+4) tiriamojo vaistinio preparato serijos importo atitikties Reglamento (ES) Nr. 536/2014 62 straipsnio 1 dalyje nurodytiems reikalavimams įvertinimą;
+
+
+
+
+5) vaistinio preparato, tiriamojo vaistinio preparato serijos sertifikavimą, kurį atlieka gamybos licencijos turėtojo kvalifikuotas asmuo.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -3804,10 +3985,12 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 28 straipsnis. Kvalifikuoto asmens, atsakingo už gamybą ir (ar) importą, kvalifikacijos reikalavimai
 
 
-Kvalifikacijos ir patirties reikalavimus kvalifikuotam asmeniui, atsakingam už gamybą ir (ar) importą, nustato Lietuvos Respublikos Vyriausybė.
+Kvalifikacijos ir patirties reikalavimus kvalifikuotam asmeniui, atsakingam už gamybą ir (ar) importą, nustato Vyriausybė. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
-
-
 
 
 
@@ -4084,7 +4267,18 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-4. Asmenims, turintiems kitų EEE valstybių išduotą didmeninio platinimo licenciją ir norintiems verstis didmeniniu platinimu Lietuvos Respublikoje, negali būti taikomi griežtesni veiklos reikalavimai negu juridiniams asmenims, turintiems šio įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją.
+4. Asmenims, turintiems kitų EEE valstybių išduotą didmeninio platinimo ar gamybos licenciją ir norintiems verstis didmeniniu platinimu Lietuvos Respublikoje, negali būti taikomi griežtesni veiklos reikalavimai negu juridiniams asmenims, turintiems šio įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+5. Asmuo, turintis kitos EEE valstybės įgaliotos institucijos išduotą didmeninio platinimo ar gamybos licenciją ir norintis vykdyti atitinkamai vaistinių preparatų ar savo pagamintų vaistinių preparatų didmeninį platinimą į asmens sveikatos priežiūros įstaigas pagal šio įstatymo 8 straipsnio 9 dalies 2 punktą ir (ar) vaistines pagal šio įstatymo 39 straipsnio 2 punktą, turi pateikti Valstybinei vaistų kontrolės tarnybai jos viršininko nustatytos formos pranešimą apie numatomą vaistinių preparatų tiekimą asmens sveikatos priežiūros įstaigoms pagal šio įstatymo 8 straipsnio 9 dalies 2 punktą ir (ar) vaistinėms pagal šio įstatymo 39 straipsnio 2 punktą ne vėliau kaip prieš 14 darbo dienų iki numatomo pirmojo patiekimo datos. Valstybinė vaistų kontrolės tarnyba skelbia EEE tiekėjų sąrašą savo interneto svetainėje. Asmenims, įrašytiems į EEE tiekėjų sąrašą, mutatis mutandis taikomos šio įstatymo 33 straipsnio 1 dalies nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 Straipsnio pakeitimai:
@@ -4219,9 +4413,10 @@ Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 
 
 
-6) vykdyti Reglamente (ES) 2016/161 nustatytas pareigas didmenininkams ir asmenims, atsakingiems už lygiagrečiai platinamų vaistų pateikimą rinkai, prisijungti prie Lietuvos nacionalinės kaupyklos, taip pat tikrinti vaistinių preparatų, tiekiamų asmenims, atitinkantiems Reglamento (ES) 2016/161 26 straipsnio 3 dalyje nustatytas sąlygas, ir asmenims, įrašytiems į Asmenų, kuriems tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą tikrina ir juos deaktyvina didmeninio platinimo licencijos turėtojas, sąrašą, pakuočių unikalių identifikatorių autentiškumą ir juos deaktyvinti. Šio įstatymo 8 straipsnio 91 dalyje nurodytų asmenų prašymu saugiu būdu pateikti suvestinę informaciją apie jiems patiektų vaistinių preparatų pakuočių unikalius identifikatorius; 
+6) vykdyti Reglamente (ES) 2016/161 nustatytas pareigas didmenininkams ir asmenims, atsakingiems už lygiagrečiai platinamų vaistų pateikimą rinkai, prisijungti prie Lietuvos nacionalinės kaupyklos, taip pat tikrinti vaistinių preparatų, tiekiamų asmenims, atitinkantiems Reglamento (ES) 2016/161 26 straipsnio 3 dalyje nustatytas sąlygas, ir asmenims, įrašytiems į Asmenų, kuriems tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą tikrina ir juos deaktyvina didmeninio platinimo licencijos turėtojas, sąrašą, pakuočių unikalių identifikatorių autentiškumą ir juos deaktyvinti; šio įstatymo 8 straipsnio 92 dalyje nurodytų asmenų prašymu saugiu būdu pateikti suvestinę informaciją apie jiems patiektų vaistinių preparatų pakuočių unikalius identifikatorius; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -4353,10 +4548,11 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-3. Jeigu didmeninio platinimo licencijos turėtojas vaistinius preparatus, skirtus tik eksportuoti, gauna tiesiogiai iš trečiosios šalies, tačiau jų neimportuoja arba importuoja vardinius ar pagal šio įstatymo 8 straipsnio 5, 18 ir 21 dalis leistus neregistruotus vaistinius preparatus ir neregistruotus pagalbinius vaistinius preparatus, šio straipsnio 1 dalies 5 ir 6 punktų nuostatos netaikomos. Šiuo atveju didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistinius preparatus gauna iš asmenų, kurie turi teisę tiekti vaistinius preparatus pagal tos šalies teisės aktus. Eksportuojant vaistinius preparatus į trečiąją šalį, netaikomos šio įstatymo 17 straipsnio 11 dalies ir šio straipsnio 1 dalies 9 ir 20 punktų nuostatos, tačiau didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistiniai preparatai būtų tiekiami asmenims, kurie turi teisę gauti vaistinius preparatus didmeninio platinimo tikslu arba juos išduoti (parduoti) gyventojams pagal tos šalies teisės aktus. Jeigu vaistiniai preparatai tiekiami trečiosios šalies asmeniui, kuris turi teisę pagal tos šalies teisės aktus išduoti (parduoti) vaistinius preparatus gyventojams, šio straipsnio 1 dalies 14 punkte nurodyta pareiga turi būti vykdoma.
+3. Jeigu didmeninio platinimo licencijos turėtojas vaistinius preparatus, skirtus tik reeksportuoti, gauna tiesiogiai iš trečiosios šalies ir neatlieka šio įstatymo 24 straipsnio 41 dalyje nurodytų veiksmų, šio straipsnio 1 dalies 5 ir 6 punktų nuostatos netaikomos. Šiuo atveju didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistinius preparatus gauna iš asmenų, kurie turi teisę tiekti vaistinius preparatus pagal tos šalies teisės aktus. Eksportuojant vaistinius preparatus į trečiąją šalį, netaikomos šio įstatymo 17 straipsnio 11 dalies ir šio straipsnio 1 dalies 9 ir 20 punktų nuostatos, tačiau didmeninio platinimo licencijos turėtojas turi užtikrinti, kad vaistiniai preparatai būtų tiekiami asmenims, kurie turi teisę gauti vaistinius preparatus didmeninio platinimo tikslu arba juos išduoti (parduoti) gyventojams pagal tos šalies teisės aktus. Jeigu vaistiniai preparatai tiekiami trečiosios šalies asmeniui, kuris turi teisę pagal tos šalies teisės aktus išduoti (parduoti) vaistinius preparatus gyventojams, šio straipsnio 1 dalies 14 punkte nurodyta pareiga turi būti vykdoma.
 Straipsnio dalies pakeitimai:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -4871,10 +5067,41 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-2) įsigyti vaistinius preparatus tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą Valstybinės vaistų kontrolės tarnybos, arba asmenų, turinčių gamybos ar didmeninio platinimo licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, įsigyti veikliąsias medžiagas tik iš jų gamintojų, importuotojų ar platintojų, kurie įregistravę savo veiklą Valstybinėje vaistų kontrolės tarnyboje arba kitos EEE valstybės įgaliotoje institucijoje, kartinius vaistinius preparatus įsigyti tik iš juos pagaminusios pagal pateiktą receptą visuomenės vaistinės ar universiteto vaistinės, kurių licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba, dalyvaujant reorganizavime įsigyti vaistinius preparatus iš reorganizuojamos vaistinės; 
+2) įsigyti:
+
+
+a) registruotus vaistinius preparatus tik iš juridinių asmenų, turinčių didmeninio platinimo ar gamybos licenciją, išduotą šio įstatymo nustatyta tvarka, arba asmenų, turinčių didmeninio platinimo ar gamybos licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, ir įrašytų į EEE tiekėjų sąrašą;
+
+
+
+
+b) neregistruotus vaistinius preparatus, nurodytus šio įstatymo 8 straipsnio 3 dalyje, tik iš juridinių asmenų, turinčių didmeninio platinimo ar gamybos licenciją, išduotą šio įstatymo nustatyta tvarka;
+
+
+
+
+c) neregistruotus vaistinius preparatus šio įstatymo 35 straipsnio 8 dalyje nustatytu atveju tik iš juridinių asmenų, turinčių didmeninio platinimo ar gamybos licenciją, išduotą šio įstatymo nustatyta tvarka, arba asmenų, turinčių didmeninio platinimo ar gamybos licenciją, išduotą kitos EEE valstybės įgaliotos institucijos;
+
+
+
+
+d) veikliąsias medžiagas tik iš jų gamintojų, importuotojų ar platintojų, kurie įregistravę savo veiklą Valstybinėje vaistų kontrolės tarnyboje arba kitos EEE valstybės įgaliotoje institucijoje;
+
+
+
+
+e) kartinius vaistinius preparatus tik iš juos pagaminusios pagal pateiktą receptą visuomenės vaistinės ar universiteto vaistinės, kurių licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba; 
+
+
+
+
+f) vaistinius preparatus iš reorganizuojamos vaistinės, jeigu ji dalyvauja reorganizavime;
+
+
 Straipsnio punkto pakeitimai:
 Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -6290,7 +6517,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-10. Vaistiniams preparatams, kurie yra registruoti daugiau negu vienoje EEE valstybėje, ir visiems vaistiniams preparatams, kuriuose yra tos pačios veikliosios medžiagos arba tas pats veikliųjų medžiagų derinys, kai pagal šio straipsnio 5 ir 6 dalis yra nustatyta Europos Sąjungos referencinė data bei periodiškai atnaujinamų saugumo protokolų teikimo dažnumas, atliekamas vienas periodiškai atnaujinamų saugumo protokolų duomenų vertinimas. Šį vertinimą atlieka Koordinavimo grupės paskirta EEE valstybė, kai tarp vaistinių preparatų, dėl kurių atliekamas vienas periodiškai atnaujinamų saugumo protokolų duomenų vertinimas, nėra nė vieno į Bendrijos vaistinių preparatų registrą įrašyto vaistinio preparato.
+10. Vaistiniams preparatams, kurie yra registruoti daugiau negu vienoje EEE valstybėje, ir visiems vaistiniams preparatams, kuriuose yra tos pačios veikliosios medžiagos arba tas pats veikliųjų medžiagų derinys, kai pagal šio straipsnio 5 ir 6 dalis yra nustatyta Europos Sąjungos referencinė data bei periodiškai atnaujinamų saugumo protokolų teikimo dažnumas, atliekamas vienas periodiškai atnaujinamų saugumo protokolų duomenų vertinimas. Šį vertinimą atlieka Koordinavimo grupės paskirta EEE valstybė, kai tarp vaistinių preparatų, dėl kurių atliekamas vienas periodiškai atnaujinamų saugumo protokolų duomenų vertinimas, nėra nė vieno į Sąjungos vaistinių preparatų registrą įrašyto vaistinio preparato.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -6585,7 +6815,10 @@ a) lygiagrečiai importuojami vaistiniai preparatai ir į Lietuvos Respublikos v
 
 
 
-b) to paties registruotojo vaistiniai preparatai, įrašyti į Bendrijos vaistinių preparatų registrą ir registruotojo tikslingai skirti Lietuvos Respublikos rinkai, taip pat tie, kurie lygiagrečiai platinami.
+b) to paties registruotojo vaistiniai preparatai, įrašyti į Sąjungos vaistinių preparatų registrą ir registruotojo tikslingai skirti Lietuvos Respublikos rinkai, taip pat tie, kurie lygiagrečiai platinami.
+Papunkčio pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -6844,7 +7077,10 @@ Nr. XI-627, 2009-12-22, Žin., 2010, Nr. 1-32 (2010-01-05)
 5. Iš Kompensuojamųjų vaistinių preparatų kainyno vaistiniai preparatai išbraukiami sveikatos apsaugos ministro nustatyta tvarka, jeigu nustatomas vienas iš šių pagrindų:
 
 
-1) panaikintas vaistinio preparato registracijos pažymėjimo galiojimas, Europos Komisijos sprendimu panaikinta vaistinio preparato registracija ir jis išbrauktas iš Bendrijos vaistinių preparatų registro arba vaistinis preparatas išbrauktas iš Lygiagrečiai importuojamų vaistinių preparatų sąrašo; 
+1) panaikintas vaistinio preparato registracijos pažymėjimo galiojimas, Europos Komisijos sprendimu panaikinta vaistinio preparato registracija ir jis išbrauktas iš Sąjungos vaistinių preparatų registro arba vaistinis preparatas išbrauktas iš Lygiagrečiai importuojamų vaistinių preparatų sąrašo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -6971,7 +7207,10 @@ Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
 
 
 
-4. Priimdama sprendimą kompensuoti gydymo išlaidas konkrečiam pacientui ar teikti labai retai būklei gydyti skirtą vaistinį preparatą, medicinos pagalbos priemonę ir (ar) asmens sveikatos priežiūros paslaugą įtraukti į išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus, Komisija remiasi tik jų terapine nauda, naujoviškumu ir įtaka Privalomojo sveikatos draudimo fondo biudžetui. Terapinė nauda ir naujoviškumas nustatomi remiantis Lietuvos Respublikos vaistinių preparatų registro arba Bendrijos vaistinių preparatų registro informacija, klinikinių tyrimų duomenimis, nepriklausomų institucijų vertinimu, atitinkamos srities asmens sveikatos priežiūros specialistus vienijančių organizacijų rekomendacijomis ir kita reikšminga medicinine informacija. Komisija atsižvelgia į Lietuvos Respublikos atitinkamos srities sveikatos priežiūros specialistus vienijančios organizacijos atliktą terapinės naudos ir naujoviškumo įvertinimą. Prireikus į Komisijos posėdžius kviečiami atitinkamos srities sveikatos priežiūros specialistai ekspertai. Komisijos sprendimas turi būti išsamiai argumentuotas. Terapinės naudos, naujoviškumo ir įtakos Privalomojo sveikatos draudimo fondo biudžetui nustatymo bei sprendimų priėmimo tvarką nustato sveikatos apsaugos ministras.
+4. Priimdama sprendimą kompensuoti gydymo išlaidas konkrečiam pacientui ar teikti labai retai būklei gydyti skirtą vaistinį preparatą, medicinos pagalbos priemonę ir (ar) asmens sveikatos priežiūros paslaugą įtraukti į išlaidų kompensavimo sąrašus ir (ar) apmokėjimo tvarkos aprašus, Komisija remiasi tik jų terapine nauda, naujoviškumu ir įtaka Privalomojo sveikatos draudimo fondo biudžetui. Terapinė nauda ir naujoviškumas nustatomi remiantis Lietuvos Respublikos vaistinių preparatų registro arba Sąjungos vaistinių preparatų registro informacija, klinikinių tyrimų duomenimis, nepriklausomų institucijų vertinimu, atitinkamos srities asmens sveikatos priežiūros specialistus vienijančių organizacijų rekomendacijomis ir kita reikšminga medicinine informacija. Komisija atsižvelgia į Lietuvos Respublikos atitinkamos srities sveikatos priežiūros specialistus vienijančios organizacijos atliktą terapinės naudos ir naujoviškumo įvertinimą. Prireikus į Komisijos posėdžius kviečiami atitinkamos srities sveikatos priežiūros specialistai ekspertai. Komisijos sprendimas turi būti išsamiai argumentuotas. Terapinės naudos, naujoviškumo ir įtakos Privalomojo sveikatos draudimo fondo biudžetui nustatymo bei sprendimų priėmimo tvarką nustato sveikatos apsaugos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -7076,7 +7315,10 @@ VALSTYBINĖ VEIKLOS SU FARMACIJOS PRODUKTAIS PRIEŽIŪRA
 61 straipsnis. Valstybinės veiklos su farmacijos produktais priežiūros vykdomasis subjektas ir reguliavimas
 
 
-1. Šiuo įstatymu nustatytos veiklos su farmacijos produktais valstybinę priežiūrą vykdo Valstybinė vaistų kontrolės tarnyba, kuri taip pat atlieka Reglamento (EB) Nr. 726/2004 18 ir 19 straipsniuose nustatytas žmonėms skirtų vaistų priežiūros institucijos pareigas.
+1. Šiuo įstatymu nustatytos veiklos su farmacijos produktais valstybinę priežiūrą, išskyrus vaistinių preparatų skyrimą ir (ar) išrašymą pacientams, vykdo Valstybinė vaistų kontrolės tarnyba, kuri taip pat atlieka Reglamento (EB) Nr. 726/2004 18 ir 19 straipsniuose nustatytas žmonėms skirtų vaistų priežiūros institucijos pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
 
 
 
@@ -7126,6 +7368,14 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 8. Jeigu Valstybinė vaistų kontrolės tarnyba neturi reikiamos kvalifikacijos geros gamybos praktikos, geros platinimo praktikos ar geros farmakologinio budrumo praktikos inspektorių atitinkamiems patikrinimams atlikti, gali būti pasitelkiami atitinkami kitų EEE valstybių žmonėms skirtų vaistų priežiūros institucijų inspektoriai pagal sutartis su tomis institucijomis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+ 
+
+
+
+
+9. Vaistinių preparatų skyrimo ir (ar) išrašymo pacientams priežiūrą vykdo Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos Sveikatos priežiūros įstaigų įstatymo nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -8061,7 +8311,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_39b8b15807e142d0a6ff2fe6939099b3_end
+part_025f1d9917f949f7a46b6942ddce5615_end
 
 
 Pakeitimai:
@@ -8356,3 +8606,8 @@ Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1960, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10826
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 35 straipsnio pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 11, 15, 17, 24, 28, 30, 33, 39, 55-1, 57, 59, 59-2 ir 61 straipsnių pakeitimo įstatymas
