@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d9cab340800311ec993ff5ca6e8ba60c"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 9, 10, 14, 17, 22, 23, 27-2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 22-1 straipsniu ir 2 priedu įstatymas
 
+Suvestinė redakcija nuo 2023-11-01
+ 
+Įstatymas paskelbtas: TAR 2022-01-28, i. k. 2022-01359
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO NR. VIII-2043 2, 9, 10, 14, 17, 22, 23, 272 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 221 sTRAIPSNIU IR 2 PRIEDU 
 ĮSTATYMAS
@@ -633,7 +640,10 @@ MINIMALUS AMŽIUS, NUO KURIO ASMENIMS, ĮGIJUSIEMS KVALIFIKACIJĄ VEŽTI KROVINI
 
 
 
-4. Valstybės įmonė „Regitra“ vairuotojo kvalifikacijos korteles išduoda nuo 2023 m. lapkričio 1 d.
+4. Valstybės įmonė „Regitra“ vairuotojo kvalifikacijos korteles išduoda nuo 2024 m. liepos 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2210, 2023-10-31, paskelbta TAR 2023-10-31, i. k. 2023-21354
+ 
 
 
 
@@ -651,3 +661,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2210, 2023-10-31, paskelbta TAR 2023-10-31, i. k. 2023-21354
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 9, 10, 14, 17, 22, 23, 27-2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 22-1 straipsniu ir 2 priedu įstatymo Nr. XIV-917 12 straipsnio pakeitimo įstatymas
