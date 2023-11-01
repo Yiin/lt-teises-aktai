@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-10-31
+Suvestinė redakcija nuo 2023-11-01 iki 2024-07-05
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -3325,6 +3325,14 @@ Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
 
 
 
+33. Klaipėdos SGD paskirstymo stoties ir mažos apimties SGD pakartotinio dujinimo įrenginių valdytojai negali šių įrenginių naudoti mažos apimties SGD perkrovai ir pakartotiniam dujinimui, kai SGD tiekiamos iš valstybių, kurios pagal Nacionalinio saugumo strategiją kelia grėsmę Lietuvos Respublikos nacionaliniam saugumui ir nacionalinio saugumo interesų užtikrinimui. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2196, 2023-10-26, paskelbta TAR 2023-10-31, i. k. 2023-21353
+ 
+
+
+
+
 4. Nebuitiniai vartotojai, kurie naudoja gamtines dujas energijai gaminti, kai ta energija parduodama ar naudojama visuomeniniams ar gyventojų poreikiams tenkinti, privalo turėti Energetikos įstatyme nustatyto laikotarpio energijos išteklių rezervo atsargas. 
 
 
@@ -4428,3 +4436,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 46, 47 ir 52 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 45, 46, 57 ir 62 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2196, 2023-10-26, paskelbta TAR 2023-10-31, i. k. 2023-21353
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 46 straipsnio pakeitimo įstatymas
