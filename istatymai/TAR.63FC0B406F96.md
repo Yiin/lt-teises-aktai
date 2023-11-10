@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/63fc0b406f9611e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos nacionalinės plėtros įstaigų įstatymas
 
-Suvestinė redakcija nuo 2023-06-28 iki 2023-11-09
+Įstatymas netenka galios 2024-11-20:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-3098, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20118
+Lietuvos Respublikos nacionalinio plėtros banko įstatymas
+ 
+Suvestinė redakcija nuo 2023-11-10 iki 2024-11-19
  
 Įstatymas paskelbtas: TAR 2018-06-14, i. k. 2018-09936
  
@@ -250,7 +255,10 @@ NPĮ VEIKLOS REIKALAVIMAI
 
 10 straipsnis. Reikalavimai NPĮ vadovams
 
-NPĮ vadovai turi atitikti Lietuvos Respublikos sutelktinio finansavimo įstatymo 8 straipsnio 1 dalyje nustatytus reikalavimus ir jų tinkamumo vertinimui mutatis mutandis taikomos Lietuvos Respublikos sutelktinio finansavimo įstatymo 8 straipsnio 4, 5 ir 6 dalių nuostatos.
+NPĮ vadovai turi atitikti Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo 31 straipsnio 1 dalyje nustatytus reikalavimus ir jų tinkamumo vertinimui mutatis mutandis taikomos Su nekilnojamuoju turtu susijusio kredito įstatymo 31 straipsnio 4–8 dalių nuostatos.
+
+Straipsnio pakeitimai:
+Nr. XIV-833, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27725
  
 
 11 straipsnis. NPĮ veiklos vidaus kontrolė
