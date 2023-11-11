@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
 
-Suvestinė redakcija nuo 2023-10-26 iki 2023-11-10
+Suvestinė redakcija nuo 2023-11-11 iki 2023-12-31
  
 Konstitucinis įstatymas paskelbtas: TAR 2022-07-20, i. k. 2022-15851
  
@@ -2885,10 +2885,16 @@ ASMENŲ, TURINČIŲ TEISĘ RINKTI, SĄRAŠAS. RINKĖJŲ SĄRAŠAI
 
 
 
-57 straipsnis. Asmenų, nedeklaravusių gyvenamosios vietos Lietuvos Respublikoje, įrašymas į rinkėjų sąrašus
+57 straipsnis. Asmenų, nedeklaravusių gyvenamosios vietos Lietuvos Respublikoje arba neturinčių galiojančio pilietybę patvirtinančio dokumento, įrašymas į rinkėjų sąrašus 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2217, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21812
+ 
 
 
-1. Asmenys, turintys teisę rinkti, tačiau nedeklaravę gyvenamosios vietos Lietuvos Respublikoje, norėdami dalyvauti atitinkamuose rinkimuose privalo kreiptis į pasirinktą rinkimų komisiją su prašymu įrašyti juos į rinkėjų sąrašus. Tokių prašymų pateikimo tvarką nustato Vyriausioji rinkimų komisija. 
+1. Asmenys, turintys teisę rinkti, tačiau nedeklaravę gyvenamosios vietos Lietuvos Respublikoje arba ilgiau kaip vienus metus iki rinkimų dienos neturintys nė vieno galiojančio pagal šio kodekso 8 straipsnio 1 ir 4 dalis reikiamą pilietybę patvirtinančio asmens dokumento, norėdami dalyvauti atitinkamuose rinkimuose privalo kreiptis į pasirinktą rinkimų komisiją su prašymu įrašyti juos į rinkėjų sąrašus. Tokių prašymų pateikimo tvarką nustato Vyriausioji rinkimų komisija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2217, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21812
+ 
 
 
 
@@ -3007,7 +3013,10 @@ ASMENŲ, TURINČIŲ TEISĘ RINKTI, SĄRAŠAS. RINKĖJŲ SĄRAŠAI
 
 
 
-2) jeigu rinkėjas nėra įrašytas į rinkėjų sąrašus, nes nėra deklaravęs savo gyvenamosios vietos.
+2) jeigu rinkėjas nėra įrašytas į rinkėjų sąrašus, nes nėra deklaravęs savo gyvenamosios vietos arba ilgiau kaip vienus metus iki rinkimų dienos neturi nė vieno galiojančio pagal šio kodekso 8 straipsnio 1 ir 4 dalis reikiamą pilietybę patvirtinančio asmens dokumento.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2217, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21812
+ 
 
 
 
@@ -9248,3 +9257,8 @@ Lietuvos Respublikos rinkimų kodekso 172 straipsnio pakeitimo konstitucinis įs
 Lietuvos Respublikos Seimas, Konstitucinis įstatymas
 Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 Lietuvos Respublikos rinkimų kodekso 32, 64, 69, 76, 78, 79, 80, 81, 85, 87, 88, 89, 93, 97, 100, 110, 114, 125, 138, 163, 181, 185 ir 193 straipsnių pakeitimo konstitucinis įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-2217, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21812
+Lietuvos Respublikos rinkimų kodekso 57 ir 61 straipsnių pakeitimo konstitucinis įstatymas
