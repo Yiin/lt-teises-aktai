@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-11-21
+Suvestinė redakcija nuo 2023-11-22 iki 2023-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -719,9 +719,10 @@ Valstybės valdžios, valdymo ir kontrolės institucijos pagal savo kompetencij�
 
 
 
-3) informuoti visuomenę apie šio įstatymo 15 straipsnio ketvirtojoje dalyje nurodytus išduotus leidimus; 
+3) informuoti visuomenę apie šio įstatymo 15 straipsnio trečiojoje dalyje nurodytus išduotus leidimus šių leidimų išdavimo tvarką reglamentuojančiuose teisės aktuose nustatyta tvarka;
 Straipsnio punkto pakeitimai:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
  
 
 
@@ -998,7 +999,10 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-Valstybės institucijos ir savivaldybės vykdomoji institucija, įstatymuose nustatyta tvarka dalyvaujančios planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – poveikio aplinkai vertinimas) ar atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka) procese, įstatymų nustatyta tvarka įvertina pateiktus poveikio aplinkai vertinimo dokumentus ir pagal kompetenciją teikia išvadas arba motyvuotą sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai ar pateikia pasiūlymus dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo. 
+Valstybės institucijos ir savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatyta tvarka dalyvaujantys planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – poveikio aplinkai vertinimas) ar atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka) procese, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatyta tvarka įvertina pateiktus poveikio aplinkai vertinimo dokumentus ir pagal kompetenciją teikia išvadas arba motyvuotą sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai ar pateikia pasiūlymus dėl informacijos, reikalingos atrankai dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo atlikti (toliau – atrankos informacija), ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
+ 
 
 
 
@@ -1026,7 +1030,9 @@ Fizinis ar juridinis asmuo, rengiantis statinių, kuriuose planuojama vykdyti ū
 
 
 
-Valstybės institucijos ir savivaldybės vykdomoji institucija, nagrinėjusios poveikio aplinkai vertinimo dokumentus ar informaciją atrankai ir nurodytos Statybos įstatyme, tikrindamos statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, statybos ar rekonstravimo projektų atitiktį, pagal kompetenciją tikrina, ar bus įgyvendintos sprendime nustatytos sąlygos ir suprojektuotos sprendime ir (ar) išvadoje numatytos priemonės reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos konkrečiu statybos etapu. Papildomai aplinkos ministro įgaliota institucija tikrina, ar statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, statybos ar rekonstravimo projektai:
+Statybos įstatyme nurodytos valstybės institucijos, nagrinėjusios poveikio aplinkai vertinimo dokumentus ar atrankos informaciją, ir savivaldybės administracija, tikrindamos statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, projektų atitiktį, pagal kompetenciją tikrina, ar bus įgyvendintos sprendime nustatytos konkrečiu statybos etapu būtinos įgyvendinti sąlygos ir suprojektuotos sprendime numatytos konkrečiu statybos etapu būtinos įgyvendinti priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje nustatytos konkrečiu statybos etapu būtinos įgyvendinti priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią. Papildomai aplinkos ministro įgaliota institucija tikrina, ar statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, projektai: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
 
 
 1) atitinka sprendime ar atrankos išvadoje nurodytą ūkinės veiklos mastą ir charakteristikas;
@@ -1091,7 +1097,10 @@ Fizinis ar juridinis asmuo, prieš pradėdamas eksploatuoti ūkinės veiklos obj
 
 
 
-2) jeigu pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas planuojamai ūkinei veiklai atliktas poveikio aplinkai vertinimas arba atranka dėl poveikio aplinkai vertinimo, turi būti įgyvendintos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytos sąlygos ir sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai ir (ar) atrankos išvadoje dėl poveikio aplinkai vertinimo numatytos priemonės reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įdiegtos ūkinės veiklos objekte, jeigu šiame punkte nurodytame sprendime ar išvadoje nustatyta, kad jos privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios;
+2) jeigu pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas planuojamai ūkinei veiklai atliktas poveikio aplinkai vertinimas arba atranka dėl poveikio aplinkai vertinimo, turi būti įgyvendintos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytos planuojamos ūkinės veiklos įgyvendinimo sąlygos ir priemonės reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti, kas pažeista, arba atrankos išvadoje dėl poveikio aplinkai vertinimo nustatytos būtinos įdiegti ūkinės veiklos objekte priemonės reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, jeigu šiame punkte nurodytame sprendime ar atrankos išvadoje nustatyta, kad jos privalo būti įgyvendintos iki planuojamos ūkinės veiklos vykdymo pradžios;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
+ 
 
 
 
@@ -1166,7 +1175,10 @@ TIPK paraiškas derina ir pagal kompetenciją nustato ir peržiūri TIPK leidimo
 
 
 
-Aplinkos ministro įgaliota institucija apie gautą TIPK paraišką ir apie galimybę susipažinti su TIPK paraiška informuoja savivaldybės vykdomąją instituciją. Savivaldybės vykdomoji institucija, turėdama pastabų dėl TIPK paraiškos, per 7 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo dienos pateikia pastabas aplinkos ministro įgaliotai institucijai.
+Aplinkos ministro įgaliota institucija apie gautą TIPK paraišką ir galimybę susipažinti su TIPK paraiška informuoja savivaldybės administraciją. Savivaldybės administracija, turėdama pastabų dėl TIPK paraiškos, per 7 darbo dienas nuo šioje dalyje nurodytos informacijos gavimo dienos pateikia pastabas aplinkos ministro įgaliotai institucijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
+ 
 
 
 
@@ -1220,7 +1232,10 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-7) paraiškoje nenumatytos priemonės sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki ūkinės veiklos pradžios, ar atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki ūkinės veiklos pradžios, įgyvendinimui;
+7) paraiškoje nenumatytos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią, įgyvendinimo priemonės;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
+ 
 
 
 
@@ -1485,7 +1500,10 @@ Nr. XIV-1369, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15199
 
 
 
-7) paraiškoje nenumatytos priemonės sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki ūkinės veiklos pradžios, ar atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki ūkinės veiklos pradžios, įgyvendinimui;
+7) paraiškoje nenumatytos sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti planuojamos ūkinės veiklos įgyvendinimo sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią įgyvendinimo priemonės;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
+ 
 
 
 
@@ -1790,7 +1808,10 @@ Aplinkos ministro įgaliota institucija išregistruoja įrenginį, kai yra bent 
 
 
 
-7) vykdoma veikla neįgyvendinus sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki veiklos pradžios, ar atrankos išvadoje dėl poveikio aplinkai vertinimo, kad poveikio aplinkai vertinimas neprivalomas, nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki veiklos pradžios;
+7) vykdoma veikla neįgyvendinus sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai išvengti, sumažinti, kompensuoti ir (ar) atkurti tai, kas pažeista, arba atrankos išvadoje dėl poveikio aplinkai vertinimo, kad poveikio aplinkai vertinimas neprivalomas, nustatytų iki ūkinės veiklos vykdymo pradžios būtinų įgyvendinti priemonių reikšmingam neigiamam poveikiui aplinkai išvengti ir (ar) užkirsti jam kelią;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
+ 
 
 
 
@@ -7494,3 +7515,8 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 108-1 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1778, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00159
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 32-1 ir 32-2 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2219, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22365
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 8, 15, 19, 19-1, 19-2 ir 19-3 straipsnių pakeitimo įstatymas
