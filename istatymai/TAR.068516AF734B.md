@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-07-02 iki 2023-11-21
+Suvestinė redakcija nuo 2023-11-22 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
- 
-TAR pastaba. Įstatymas Nr. XIV-1971  taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. Lietuvos Respublikos 2023 metų Valstybinio socialinio draudimo fondo biudžetas ligos socialinio draudimo ir motinystės socialinio draudimo srityse vykdomas pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nuostatas, galiojusias iki  įstatymo Nr. XIV-1971 įsigaliojimo dienos (203-07-02).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3, 6-1, 30 ir 31 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2501, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20641
@@ -921,13 +916,14 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3. Asmeniui, turinčiam šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą ir per 24 mėnesius iki pirmosios nėštumo ir gimdymo atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, atleidus iš tarnybos, nutraukus individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį), motinystės išmoka mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Motinystės išmoka asmeniui, turinčiam šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą, taip pat skiriama, jeigu nėštumo ir gimdymo atostogos prasideda prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+3. Asmeniui, turinčiam šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą ir per 24 mėnesius iki pirmosios nėštumo ir gimdymo atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą), motinystės išmoka mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Motinystės išmoka asmeniui, turinčiam šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą, taip pat skiriama, jeigu nėštumo ir gimdymo atostogos prasideda prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
 Straipsnio dalies pakeitimai:
 Nr. KT23-N13/2018, 2018-12-19, paskelbta TAR 2018-12-19, i. k. 2018-20843
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 Nr. XIII-2741, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21563
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
  
@@ -1276,12 +1272,18 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-10. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, gaunančiam vaiko priežiūros išmoką, kuris tapo neapdraustu asmeniu (pasibaigus darbo sutarčiai, atleistam iš tarnybos, nutraukusiam individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį), vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+10. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, gaunančiam vaiko priežiūros išmoką, tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą), vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
+ 
 
 
 
 
-11. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, turinčiam šio straipsnio 1 dalies 3 punkte nurodytą motinystės socialinio draudimo stažą, kuris per 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos tapo neapdraustu asmeniu (pasibaigus darbo sutarčiai, atleistam iš tarnybos, nutraukusiam individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį) ir dėl to negavo vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+11. Vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, turinčiam šio straipsnio 1 dalies 3 punkte nurodytą motinystės socialinio draudimo stažą, per 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią veiklą ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą) ir dėl to negavusiam vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo 23 ir 24 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
+ 
 
 
 
@@ -2108,3 +2110,13 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 5, 6, 8, 9, 10, 11, 11-1, 16, 18, 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2193, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20773
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5 straipsnio pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 16 ir 22 straipsnių pakeitimo įstatymas
