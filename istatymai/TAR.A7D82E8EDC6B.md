@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-11-21
+Suvestinė redakcija nuo 2023-11-22 iki 2023-12-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -217,14 +217,6 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-10) grynaisiais elektromobiliais ir vandenilio dujomis varomais automobiliais. 
-Papildyta straipsnio punktu:
-Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
- 
-
-
-
-
 
 
 
@@ -279,7 +271,6 @@ Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
 
 
 3. Programai finansuoti skiriamos lėšos iš sumokėtų ar išieškotų baudų už nustatyto greičio viršijimą, užfiksuotą stacionariąja Kelių eismo taisyklių pažeidimų fiksavimo įranga, įrengta valstybinės reikšmės keliuose. Vyriausybė ar jos įgaliota institucija nustato šių lėšų mokėjimo, administravimo ir priežiūros tvarką.
- 
 
 
 
@@ -515,7 +506,10 @@ Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
 
 
 
-13) darnaus judumo priemonėms (esamiems šaligatviams, pėsčiųjų takams, pėsčiųjų viadukams ir tiltams, pėsčiųjų estakadoms, pėsčiųjų perėjoms (įskaitant požemines) pritaikyti specialiųjų poreikių turintiems žmonėms; viešojo transporto infrastruktūrai; viešojo transporto eismui organizuoti; dviračių statymo infrastruktūrai; stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis; elektrinių transporto priemonių (išskyrus elektromobilius) viešosioms įkrovimo prieigoms; šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; pėsčiųjų, dviračių takų įrenginiams (tvorelėms ir pan.)) įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+13) darnaus judumo priemonėms (esamiems šaligatviams, pėsčiųjų takams, pėsčiųjų viadukams ir tiltams, pėsčiųjų estakadoms, pėsčiųjų perėjoms (įskaitant požemines) pritaikyti specialiųjų poreikių turintiems žmonėms; viešojo transporto infrastruktūrai; viešojo transporto eismui organizuoti; dviračių statymo infrastruktūrai; transporto priemonių stovėjimo aikštelėms ir (ar) automobilių saugykloms kurortuose ir kurortinėse teritorijose įrengti; stovėjimo aikštelėms, skirtoms motorinėms transporto priemonėms arba dviračiams palikti, siekiant tęsti kelionę viešuoju transportu, įrengti, jeigu už naudojimąsi jomis neimamas atlygis; elektrinių transporto priemonių (išskyrus elektromobilius) viešosioms įkrovimo prieigoms; šaligatviams, pėsčiųjų ir (ar) dviračių takams įrengti, projektuoti, tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti; pėsčiųjų, dviračių takų įrenginiams (tvorelėms ir pan.)) įgyvendinti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2227, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22372
+ 
 
 
 
@@ -1687,3 +1681,18 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2 ir 6 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1674, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27265
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 ir 9-1 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 8, 9 straipsnių ir 2, 5 priedų pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2227, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22372
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo įstatymas
