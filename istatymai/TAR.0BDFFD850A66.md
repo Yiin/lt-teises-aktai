@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -726,7 +726,10 @@ Nr. XIII-2987, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12819
 
 
 
-5) nuo skunde nurodytų pažeidimų paaiškėjimo asmeniui dienos iki skundo padavimo dienos yra praėję daugiau kaip 6 mėnesiai;
+5) nuo skunde nurodytų pažeidimų paaiškėjimo asmeniui dienos iki skundo padavimo dienos yra praėjęs daugiau kaip vienas mėnuo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -833,10 +836,12 @@ Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
 14 straipsnis. Administracinio sprendimo apskundimas
 
 
-Asmuo turi teisę apskųsti viešojo administravimo subjekto priimtą administracinį sprendimą arba veiksmą (neveikimą), taip pat viešojo administravimo subjekto vilkinimą atlikti jo kompetencijai priskirtus veiksmus šio įstatymo nustatyta tvarka tam pačiam viešojo administravimo subjektui arba aukštesniam pagal pavaldumą viešojo administravimo subjektui, arba kitų įstatymų, reglamentuojančių ginčų, kylančių iš administracinių teisinių santykių, nagrinėjimą, nustatyta tvarka išankstinio ginčų nagrinėjimo ne teismo tvarka institucijai, arba administraciniam teismui.
+Asmuo turi teisę apskųsti viešojo administravimo subjekto priimtą administracinį sprendimą ar kitokį viešojo administravimo subjekto atsakymą į asmens prašymą ar skundą arba veiksmą (neveikimą), taip pat viešojo administravimo subjekto vilkinimą atlikti jo kompetencijai priskirtus veiksmus šio įstatymo nustatyta tvarka per vieną mėnesį nuo administracinio sprendimo ar atsakymo įteikimo (paskelbimo) asmeniui šio įstatymo 13 straipsnio 2 dalyje nustatyta tvarka dienos ar veiksmo (neveikimo) arba vilkinimo paaiškėjimo asmeniui dienos tam pačiam viešojo administravimo subjektui arba aukštesniam pagal pavaldumą viešojo administravimo subjektui, arba kitų įstatymų, reglamentuojančių ginčų, kylančių iš administracinių teisinių santykių, nagrinėjimą, nustatyta tvarka išankstinio ginčų nagrinėjimo ne teismo tvarka institucijai, arba administraciniam teismui.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
  
-
-
 
 
 
@@ -1231,7 +1236,10 @@ Asmuo, dėl kurio galimai pažeistų teisių ar teisėtų interesų yra pradėta
 
 
 
-2. Jeigu paaiškėja, kad skunde ir (ar) prie jo pridedamuose dokumentuose yra duomenų apie galimai padarytą (daromą) nusikalstamą veiką (veikas) ar administracinį nusižengimą (nusižengimus), administracinė procedūra sustabdoma ir tokio skundo kopija ir prie jo pridedamų dokumentų kopijos persiunčiamos institucijai, kompetentingai tirti šiuos teisės pažeidimus. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar administracinių nusižengimų teiseną, administracinė procedūra atnaujinama.
+2. Jeigu paaiškėja, kad skunde ir (ar) prie jo pridedamuose dokumentuose yra duomenų apie galimai padarytą (daromą) nusikalstamą veiką (veikas), administracinį nusižengimą (nusižengimus) ar kitą pažeidimą, kurio tyrimo procedūrą reglamentuoja kitas įstatymas ar kitas jo pagrindu priimtas teisės aktas, administracinė procedūra sustabdoma ir tokio skundo kopija ir prie jo pridedamų dokumentų kopijos persiunčiamos institucijai, kompetentingai tirti šiuos teisės pažeidimus. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar administracinių nusižengimų teiseną ar kito pažeidimo, kurio tyrimo procedūrą reglamentuoja kitas įstatymas ar jo pagrindu priimtas kitas teisės aktas, tyrimą, administracinė procedūra atnaujinama. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -1241,7 +1249,9 @@ Asmuo, dėl kurio galimai pažeistų teisių ar teisėtų interesų yra pradėta
 
 
 
-4. Apie sprendimą sustabdyti administracinę procedūrą ir apie sprendimą ją atnaujinti per 3 darbo dienas nuo atitinkamo sprendimo priėmimo dienos raštu informuojamas asmuo, dėl kurio galimai pažeistų teisių ir teisėtų interesų pradėta administracinė procedūra.
+4. Apie sprendimą sustabdyti administracinę procedūrą ir apie sprendimą ją atnaujinti per 3 darbo dienas nuo atitinkamo sprendimo priėmimo dienos šio įstatymo 11 straipsnio 1 dalyje nurodytose taisyklėse nustatyta tvarka informuojamas asmuo, dėl kurio galimai pažeistų teisių ir teisėtų interesų pradėta administracinė procedūra.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
  
 
 
@@ -1987,3 +1997,13 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-923, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01364
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 5 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2007, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11585
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 1, 2, 3, 4, 5, 7, 8, 9, 11, 14, 19, 20, 23, 25 ir 30 straipsnių pakeitimo įstatymas
