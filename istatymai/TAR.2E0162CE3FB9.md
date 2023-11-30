@@ -21,7 +21,7 @@ DRAUDIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-11-01 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 1-31, i. k. 1091010ISTA00XI-626
  
@@ -207,7 +207,15 @@ NESĄŽININGI VEIKSMAI IR JŲ PRIEŽIŪRA
 
 
 
-10) suteikti prekėms komercines nuolaidas, mokėti tiesiogiai ar netiesiogiai arba kitokiu būdu atlyginti mažmeninės prekybos įmonei už tai, dėl ko nebuvo susitarta raštu, elektroniniu paštu ar kitomis elektroninėmis priemonėmis.
+10) suteikti prekėms komercines nuolaidas, mokėti tiesiogiai ar netiesiogiai arba kitokiu būdu atlyginti mažmeninės prekybos įmonei už tai, dėl ko nebuvo susitarta raštu, elektroniniu paštu ar kitomis elektroninėmis priemonėmis;
+
+
+
+
+11) pristatyti mažmeninės prekybos įmonės užsakytą prekių kiekį, jeigu tiekėjas per vieną darbo dieną nuo gauto užsakymo dienos praneša mažmeninės prekybos įmonei negalintis pristatyti mažmeninės prekybos įmonės užsakyto prekių kiekio arba negalintis pristatyti užsakyto prekių kiekio per mažmeninės prekybos įmonės nurodytą terminą.
+Papildyta straipsnio punktu:
+Nr. XIV-2236, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22967
+ 
 
 
 
@@ -1019,3 +1027,13 @@ Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų drau
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
 Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 1, 2, 3, 4, 5, 6, 8, 9, 9-1, 11, 12, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 9-3, 9-4 straipsniais ir priedu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2067, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12750
+Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 15 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2236, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22967
+Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 3 straipsnio pakeitimo įstatymas
