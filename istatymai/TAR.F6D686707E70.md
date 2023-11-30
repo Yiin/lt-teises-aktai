@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2023-08-31 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -1216,7 +1216,10 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-4. Darbo sutartyje, kurioje nustatytas mėnesinis darbo užmokestis yra ne mažesnis negu du Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžiai, galima nukrypti nuo šiame kodekse ar kitose darbo teisės normose nustatytų imperatyvių taisyklių, išskyrus taisykles, susijusias su maksimaliuoju darbo ir minimaliuoju poilsio laiku, darbo sutarties sudarymu ir pasibaigimu, minimaliuoju darbo užmokesčiu, darbuotojų sauga ir sveikata, lyčių lygybe ir nediskriminavimu kitais pagrindais, jeigu darbo sutartimi pasiekiama darbdavio ir darbuotojo interesų pusiausvyra. Ginčai dėl tokių susitarimų teisėtumo nagrinėjami darbo ginčams dėl teisės nagrinėti nustatyta tvarka. Nustačius, kad darbo sutarties sąlyga prieštarauja šiame kodekse ar kitose darbo teisės normose nustatytoms imperatyvioms taisyklėms ar darbo sutartimi nėra pasiekiama darbdavio ir darbuotojo interesų pusiausvyros, darbo sutarties sąlyga negali būti taikoma, o turi būti taikoma šio kodekso ar darbo teisės normos taisyklė. Bet kuriuo atveju darbo sutarties sąlyga gali gerinti darbuotojo padėtį, palyginti su ta, kuri nustatyta šiame kodekse ar kitose darbo teisės normose.
+4. Darbo sutartyje, kurioje nustatytas mėnesinis darbo užmokestis yra ne mažesnis negu du Valstybės duomenų agentūros paskutinio paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžiai, galima nukrypti nuo šiame kodekse ar kitose darbo teisės normose nustatytų imperatyvių taisyklių, išskyrus taisykles, susijusias su maksimaliuoju darbo ir minimaliuoju poilsio laiku, darbo sutarties sudarymu ir pasibaigimu, minimaliuoju darbo užmokesčiu, darbuotojų sauga ir sveikata, lyčių lygybe ir nediskriminavimu kitais pagrindais, jeigu darbo sutartimi pasiekiama darbdavio ir darbuotojo interesų pusiausvyra. Ginčai dėl tokių susitarimų teisėtumo nagrinėjami darbo ginčams dėl teisės nagrinėti nustatyta tvarka. Nustačius, kad darbo sutarties sąlyga prieštarauja šiame kodekse ar kitose darbo teisės normose nustatytoms imperatyvioms taisyklėms ar darbo sutartimi nėra pasiekiama darbdavio ir darbuotojo interesų pusiausvyros, darbo sutarties sąlyga negali būti taikoma, o turi būti taikoma šio kodekso ar darbo teisės normos taisyklė. Bet kuriuo atveju darbo sutarties sąlyga gali gerinti darbuotojo padėtį, palyginti su ta, kuri nustatyta šiame kodekse ar kitose darbo teisės normose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993
+ 
 
 
 
@@ -5793,9 +5796,10 @@ Nr. XIV-1187, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15174
 147 straipsnis. Pavėluotas darbo užmokesčio ir kitų su darbo santykiais susijusių išmokų mokėjimas
 
 
-1. Darbo santykiams nepasibaigus, kai dėl darbdavio kaltės pavėluotai išmokamas darbo užmokestis ar kitos su darbo santykiais susijusios išmokos, kartu su jomis darbuotojui, turinčiam darbo santykių, išmokami delspinigiai, kurių dydį tvirtina Lietuvos Respublikos socialinės apsaugos ir darbo ministras, jeigu darbo teisės normos nenustato didesnio delspinigių dydžio. Delspinigių dydį Lietuvos Respublikos socialinės apsaugos ir darbo ministras tvirtina kiekvienais metais iki vasario 1 dienos, atsižvelgdamas į Lietuvos statistikos departamento paskelbtą vartotojų kainų indeksą per praėjusius kalendorinius metus (lygindamas praėjusių metų gruodžio mėnesį su užpraeitų metų gruodžio mėnesiu). Darbdaviui iškėlus bankroto bylą arba pradėjus bankroto procedūrą ne teismo tvarka, delspinigių skaičiavimas nutraukiamas įsiteisėjus teismo nutarčiai iškelti bankroto bylą arba nuo kreditorių susirinkimo, kuriame kreditoriai nutarė įmonės bankroto procedūras vykdyti ne teismo tvarka, dienos. 
+1. Darbo santykiams nepasibaigus, kai dėl darbdavio kaltės pavėluotai išmokamas darbo užmokestis ar kitos su darbo santykiais susijusios išmokos, kartu su jomis darbuotojui, turinčiam darbo santykių, išmokami delspinigiai, kurių dydį tvirtina Lietuvos Respublikos socialinės apsaugos ir darbo ministras, jeigu darbo teisės normos nenustato didesnio delspinigių dydžio. Delspinigių dydį Lietuvos Respublikos socialinės apsaugos ir darbo ministras tvirtina kiekvienais metais iki vasario 1 dienos, atsižvelgdamas į Valstybės duomenų agentūros paskelbtą vartotojų kainų indeksą per praėjusius kalendorinius metus (lygindamas praėjusių metų gruodžio mėnesį su užpraeitų metų gruodžio mėnesiu). Darbdaviui iškėlus bankroto bylą arba pradėjus bankroto procedūrą ne teismo tvarka, delspinigių skaičiavimas nutraukiamas įsiteisėjus teismo nutarčiai iškelti bankroto bylą arba nuo kreditorių susirinkimo, kuriame kreditoriai nutarė įmonės bankroto procedūras vykdyti ne teismo tvarka, dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
+Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993
  
 
 
@@ -10340,3 +10344,8 @@ Lietuvos Respublikos darbo kodekso 135 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1875, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07540
 Lietuvos Respublikos darbo kodekso 210 straipsnio pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993
+Lietuvos Respublikos darbo kodekso 33, 147 ir 210 straipsnių pakeitimo įstatymas
