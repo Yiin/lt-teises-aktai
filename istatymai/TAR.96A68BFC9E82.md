@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2022-12-31 iki 2023-11-29
+Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -431,7 +431,10 @@ Ministras Pirmininkas ir ministrai negali būti patraukti baudžiamojon atsakomy
 
 
 
-3. Vyriausybės atstovavimo šalyje ir užsienyje išlaidoms finansuoti Vyriausybės nutarimu gali būti sudaromas Ministro Pirmininko fondas, kuriam, nedidinant Vyriausybės kanceliarijai Lietuvos Respublikos valstybės biudžete numatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį skiriama iki vieno Lietuvos statistikos departamento paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio suma. Konkrečius dydžius ir šių lėšų naudojimo tvarką nustato Vyriausybė.
+3. Vyriausybės atstovavimo šalyje ir užsienyje išlaidoms finansuoti Vyriausybės nutarimu gali būti sudaromas Ministro Pirmininko fondas, kuriam, nedidinant Vyriausybės kanceliarijai Lietuvos Respublikos valstybės biudžete numatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį skiriama iki vieno Valstybės duomenų agentūros paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio suma. Konkrečius dydžius ir šių lėšų naudojimo tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2244, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22974
+ 
 
 
 
@@ -2629,3 +2632,13 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 23, 37 ir 44-1 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1768, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27582
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 vienuoliktojo skirsnio pavadinimo, 52 straipsnio pakeitimo ir Įstatymo papildymo 53 straipsniu įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2003, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11579
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 13, 22, 26, 27, 28 ir 45 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2244, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22974
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5, 13, 22, 26, 28-1, 29, 29-1, 30, 30-1, 30-2, 31, 31-1, 32 ir 45 straipsnių pakeitimo įstatymas
