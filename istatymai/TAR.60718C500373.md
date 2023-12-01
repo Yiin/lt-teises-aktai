@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60718c50037311edb32c9f9d8ba206f8"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2023-06-28 iki 2023-11-30
+Suvestinė redakcija nuo 2023-12-01 iki 2023-12-14
  
 Įstatymas paskelbtas: TAR 2022-07-14, i. k. 2022-15485
  
@@ -1116,18 +1116,66 @@ Pakeisti 72 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Pakeisti 721 straipsnio 5 dalies 5 punktą ir jį išdėstyti taip:
+11. Pakeisti 721 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
 
-„5) mokslo darbuotojo, mokslininko stažuotojo – 9,82–11,98;“.
+„4. Darbuotojo pareiginei algai apskaičiuoti taikomas Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga nustatoma bazinį dydį padauginus iš tai pareigybei nustatyto pareiginės algos koeficiento.“ 
+
+
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+ 
+
+
+
+
+2. Pakeisti 721 straipsnio 5 dalį ir ją išdėstyti taip:
+
+
+
+
+„5. Pareiginės algos koeficientai yra šie:
+
+
+1) instituto direktoriaus – 1,50–2,67;
+
+
+
+
+2) instituto mokslinio sekretoriaus – 1,13–2,15;
+
+
+
+
+3) vyriausiojo mokslo darbuotojo – 1,29–2,32;
+
+
+
+
+4) vyresniojo mokslo darbuotojo – 1,13–1,80;
+
+
+
+
+5) mokslo darbuotojo, mokslininko stažuotojo – 1,13–1,37;
+
+
+
+
+6) jaunesniojo mokslo darbuotojo – 1,07–1,27.“
+
+
 
 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1543, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24193
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
  
 
 
@@ -1231,6 +1279,58 @@ Nr. XIV-1543, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24193
 
 
 
+
+
+
+
+241 straipsnis. 721 straipsnio pakeitimas
+
+
+Pakeisti 721 straipsnio 5 dalį ir ją išdėstyti taip:
+
+
+
+
+„5. Pareiginės algos koeficientai yra šie:
+
+
+1) instituto direktoriaus – 1,78–3,17;
+
+
+
+
+2) instituto mokslinio sekretoriaus – 1,34–2,55;
+
+
+
+
+3) vyriausiojo mokslo darbuotojo – 1,53–2,75;
+
+
+
+
+4) vyresniojo mokslo darbuotojo – 1,34–2,14;
+
+
+
+
+5) mokslo darbuotojo, mokslininko stažuotojo – 1,34–1,63;
+
+
+
+
+6) jaunesniojo mokslo darbuotojo – 1,27–1,51.“
+
+
+
+
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+ 
 
 
 
@@ -1416,7 +1516,10 @@ Pakeisti 753 straipsnio 4 dalį ir ją išdėstyti taip:
 29 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 
-1. Šis įstatymas, išskyrus 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27 ir 28 straipsnius, šio straipsnio 7 dalį, įsigalioja 2022 m. rugsėjo 1 d.
+1. Šis įstatymas, išskyrus 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 241, 25, 26, 27 ir 28 straipsnius, šio straipsnio 7 dalį, įsigalioja 2022 m. rugsėjo 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+ 
 
 
 
@@ -1442,6 +1545,14 @@ Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
 
 
 
+32. Šio įstatymo 241 straipsnis įsigalioja 2024 m. rugsėjo 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+ 
+
+
+
+
 4. Šio įstatymo 11 straipsnis įsigalioja 2028 m. sausio 1 d.
 
 
@@ -1460,9 +1571,35 @@ Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
 
 
 
-61. Šio įstatymo 27 straipsnio 2  dalyje išdėstytos Lietuvos Respublikos mokslo ir studijų įstatymo 77 straipsnio 6 dalies nuostatos taikomos skiriant valstybės biudžeto lėšas asmenų, priimtų į valstybines aukštąsias mokyklas ne anksčiau kaip 2023 m. sausio 1 d., studijų kainai apmokėti. Skiriant valstybės biudžeto lėšas asmenų, priimtų į valstybines aukštąsias mokyklas iki 2023 m. sausio 1 d., studijų kainai apmokėti, taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos mokslo ir studijų įstatymo 77 straipsnio 6 dalies nuostatos.
+61. Iki 2024 m. sausio 1 d. priimtiems į pareigas valstybinių mokslinių tyrimų institutų tyrėjams nuo 2024 m. sausio 1 d. iki 2024 m. rugpjūčio 31 d. nustatomi pareiginės algos koeficientai yra 1,13–1,37, nuo 2024 m. rugsėjo 1 d. – 1,34–1,63.
+Papildyta straipsnio dalimi:
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+ 
+
+
+
+
+62. Įsigaliojus šiam įstatymui, valstybinių mokslinių tyrimų institutų darbuotojams pareiginės algos koeficientai perskaičiuojami darbuotojo iki šio įstatymo įsigaliojimo dienos gautą pareiginę algą padalijant iš Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto pareiginės algos (atlyginimo) bazinio dydžio. Gautas koeficientas apvalinamas iki šimtųjų dalių darbuotojo naudai.
+Papildyta straipsnio dalimi:
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+ 
+
+
+
+
+63. Įsigaliojus šiam įstatymui, valstybinių mokslinių tyrimų institutų darbuotojams iki šio įstatymo įsigaliojimo dienos nustatyta pareiginė alga negali būti sumažinta tol, kol jie eina tas pačias pareigas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+ 
+
+
+
+
+64. Šio įstatymo 27 straipsnio 2  dalyje išdėstytos Lietuvos Respublikos mokslo ir studijų įstatymo 77 straipsnio 6 dalies nuostatos taikomos skiriant valstybės biudžeto lėšas asmenų, priimtų į valstybines aukštąsias mokyklas ne anksčiau kaip 2023 m. sausio 1 d., studijų kainai apmokėti. Skiriant valstybės biudžeto lėšas asmenų, priimtų į valstybines aukštąsias mokyklas iki 2023 m. sausio 1 d., studijų kainai apmokėti, taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos mokslo ir studijų įstatymo 77 straipsnio 6 dalies nuostatos.
 Papildyta straipsnio dalimi:
 Nr. XIV-1482, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22950
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
  
 
 
@@ -1501,3 +1638,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 18 ir 29 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 24, 29 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
