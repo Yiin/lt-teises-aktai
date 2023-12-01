@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CE3B174CA7E6"
 
 # Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-11-30
+Suvestinė redakcija nuo 2023-12-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1909, i. k. 0981010ISTAVIII-822
  
@@ -415,15 +415,17 @@ Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
 13 straipsnis. Trečiojo amžiaus universitetas
 
 
-1. Trečiojo amžiaus universitetas – neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjas, jo padalinys arba neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi programa, teikiantys vyresnio amžiaus asmenų neformalųjį švietimą ir tęstinį mokymąsi, tenkinantys jų žinių, kompetencijos plėtotės ir kultūrinius poreikius.
+1. Trečiojo amžiaus universitetas – neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjas, jo padalinys, senatvės pensijos amžių sukakusiems asmenims teikiantis neformalųjį švietimą ir tęstinį mokymąsi, tenkinantis jų žinių, kompetencijų plėtotės ir kultūrinius poreikius.
 
 
 
 
-2. Trečiojo amžiaus universitetas vyresnio amžiaus asmenų neformaliajam švietimui ir tęstiniam mokymuisi vykdyti, jų žinių, kompetencijos plėtotės ir kultūriniams poreikiams tenkinti gali gauti konkurso būdu valstybės paramą. 
+2. Trečiojo amžiaus universitetams ir kitiems neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjams asmenų, sukakusių senatvės pensijos amžių, neformaliajam švietimui ir tęstiniam mokymuisi vykdyti, jų žinių, kompetencijų plėtotės ir pilietiniams, socialiniams, kultūriniams poreikiams tenkinti skirtas finansavimas iš valstybės biudžeto skiriamas švietimo, mokslo ir sporto ministro nustatyta tvarka ir (arba) iš savivaldybės biudžeto savivaldybės mero nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1932, 2023-05-09, paskelbta TAR 2023-05-15, i. k. 2023-09151
  
-
-
 
 
 
