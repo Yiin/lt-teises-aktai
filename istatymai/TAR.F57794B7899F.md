@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-11-30
+Suvestinė redakcija nuo 2023-12-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -2958,7 +2958,10 @@ Taryba stebi ir vertina perdavimo ir skirstomųjų tinklų patikimumą. Patikimu
 
 
 
-3) elektros energijos gamybos pajėgumų plėtra;
+3) elektros energijos gamybos pajėgumų plėtra ir investicijos į elektros energijos gamybos ir energijos kaupimo pajėgumus, siekiant užtikrinti elektros energijos tiekimo saugumą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+ 
 
 
 
@@ -3447,6 +3450,14 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
+4) vienu metu teikti kelias šios dalies 1, 2 ir 3 punktuose nurodytas paslaugas, jeigu tai techniškai įmanoma. 
+Papildyta straipsnio punktu:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+ 
+
+
+
+
 
 
 3. Vartotojas ar vartotojų grupė, siekiantys veikti kaip aktyvusis vartotojas ir vykdyti šio įstatymo 2 straipsnio 1 dalyje nurodytas veiklas, privalo laikytis Energetikos įstatymo 20 straipsnio 3 dalyje nustatytų reikalavimų ir šio įstatymo 16 straipsnio nuostatų dėl atitinkamos veiklos vykdymo sąlygų.
@@ -3460,6 +3471,14 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 5. Aktyvieji vartotojai yra finansiškai atsakingi už disbalansą, kurį jų veikla sukelia elektros energetikos rinkoje, tiek, kiek jie yra už balansą atsakingos šalys, arba perduoda savo atsakomybę už balansą pagal Reglamento (ES) 2019/943 5 straipsnį ir turi sudarytą atsiskaitymo už disbalansą sutartį su perdavimo sistemos operatoriumi arba sutartį dėl savo atsakomybės už balansą perdavimo su kita už balansą atsakinga šalimi. Perdavimo sistemos operatorius teikia informaciją apie tokios sutarties nutraukimą skirstomųjų tinklų operatoriui, prie kurio tinklų yra prijungti aktyviojo vartotojo elektros įrenginiai.
+
+
+
+
+51. Aktyviesiems vartotojams, kuriems priklauso energijos kaupimo įrenginiai, negali būti taikomi jokie dvigubi mokesčiai, įskaitant tinklo mokesčius ir mokesčius už saugomą elektros energiją, liekančią jų energijos kaupimo įrenginiuose, ar teikiant lankstumo paslaugas skirstomųjų tinklų operatoriams. Nepriklausomi paklausos telkėjai negali sudaryti elektros energijos persiuntimo paslaugos teikimo sutarčių su aktyviaisiais vartotojais ir (ar) taikyti jiems mokesčių ar atskirų jų dedamųjų už elektros energijos persiuntimo, perdavimo ar skirstymo paslaugas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+ 
 
 
 
@@ -3502,7 +3521,10 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
-5. Piliečių energetikos bendrijos dalininkais, nariais ar dalyviais gali būti fiziniai asmenys, taip pat labai mažos ir mažos įmonės, kaip jos apibrėžtos Smulkiojo ir vidutinio verslo plėtros įstatyme, savivaldybės ir (ar) savivaldybių įstaigos, kai dalininkais ar nariais nedraudžia būti šio straipsnio 1 dalyje nurodyti įstatymai. Šie subjektai, būdami piliečių energetikos bendrijos dalininkai, nariai ar dalyviai, nepraranda savo, kaip buitinių vartotojų, gaminančių vartotojų arba aktyviųjų vartotojų, turimų teisių ir pareigų, išskyrus vartotojo teisę rinktis energijos tiekėją, kuri gali būti apribota teise rinktis piliečių energetikos bendrijos energijos tiekėją balsuojant dėl piliečių energetikos bendrijos energijos tiekėjo piliečių energetinės bendrijos įstatuose nustatyta tvarka.
+5. Piliečių energetikos bendrijos dalininkais, nariais ar dalyviais gali būti fiziniai ir juridiniai asmenys, kai to nedraudžia juridinių asmenų, nurodytų šio straipsnio 1 dalyje, teisinę formą reglamentuojantys įstatymai. Šie subjektai, būdami piliečių energetikos bendrijos dalininkai, nariai ar dalyviai, nepraranda savo, kaip buitinių vartotojų, gaminančių vartotojų arba aktyviųjų vartotojų, turimų teisių ir pareigų, išskyrus vartotojo teisę rinktis energijos tiekėją, kuri gali būti apribota teise rinktis piliečių energetikos bendrijos energijos tiekėją balsuojant dėl piliečių energetikos bendrijos energijos tiekėjo piliečių energetinės bendrijos įstatuose nustatyta tvarka. Įgyvendinant piliečių energetikos bendrijos teises ir pareigas, teisę priimti sprendimus piliečių energetikos bendrijoje turi fiziniai asmenys, labai mažos ir mažos įmonės, kaip jos apibrėžtos Smulkiojo ir vidutinio verslo plėtros įstatyme, ir savivaldybių tarybos, kaip tai apibrėžta Lietuvos Respublikos vietos savivaldos įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+ 
 
 
 
@@ -4436,7 +4458,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-3. Rengdamas 10 metų perdavimo tinklų plėtros planą, perdavimo sistemos operatorius daro ir šiame plane nurodo pagrįstas prielaidas apie elektros energijos gamybos, tiekimo, vartojimo ir tarpsisteminių elektros energijos srautų tendencijas, atsižvelgdamas į regioniniams ir visos Europos Sąjungos tinklams skirtų investicijų planus.
+3. Rengdamas 10 metų perdavimo tinklų plėtros planą, perdavimo sistemos operatorius, remdamasis turimais duomenimis, šiame plane prognozuoja elektros energijos gamybos, tiekimo, vartojimo, energijos kaupimo ir tarpsisteminius elektros energijos srautus, atsižvelgdamas į regioniniams ir visos Europos Sąjungos tinklams skirtų investicijų planus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+ 
 
 
 
@@ -5758,7 +5783,10 @@ Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
 
 
 
-7. Išmaniosios apskaitos sistemos diegiamos vadovaujantis skirstomųjų tinklų operatoriaus parengtu planu dviem etapais. Pirmuoju etapu per išmaniųjų apskaitos sistemų ilgalaikių sąnaudų ir numatomos naudos rinkai ir atskiriems vartotojams ekonominiame vertinime numatytą laikotarpį išmaniosios apskaitos sistemos diegiamos vartotojų grupėms, atitinkančioms šiame vertinime nurodytus kriterijus, įskaitant kriterijus, susijusius su atitinkamu elektros energijos suvartojimu. Antruoju etapu likusiai vartotojų grupei išmaniosios apskaitos sistemos diegiamos, kai nustoja galioti vartotojo apskaitos prietaiso, kuris nėra išmanusis apskaitos prietaisas (toliau – įprastas apskaitos prietaisas), teisinis metrologinis patvirtinimas, jeigu išmaniųjų apskaitos sistemų ilgalaikių sąnaudų ir numatomos naudos rinkai ir atskiriems vartotojams ekonominiame vertinime nenumatyta kitaip. Skirstomųjų tinklų operatorius savo interneto svetainėje nurodo tvarką, pagal kurią vartotojai gali susipažinti su išmaniųjų apskaitos sistemų diegimo planu, ir skelbia informaciją apie išmaniųjų apskaitos sistemų diegimo etapų pradžią ir pabaigą.
+7. Išmaniosios apskaitos sistemos diegiamos vadovaujantis skirstomųjų tinklų operatoriaus parengtu planu laikotarpiui iki 10 metų dviem etapais. Pirmuoju etapu per išmaniųjų apskaitos sistemų ilgalaikių sąnaudų ir numatomos naudos rinkai ir atskiriems vartotojams ekonominiame vertinime numatytą laikotarpį išmaniosios apskaitos sistemos diegiamos vartotojų grupėms, atitinkančioms šiame vertinime nurodytus kriterijus, įskaitant kriterijus, susijusius su elektros energijos suvartojimu. Antruoju etapu išmaniosios apskaitos sistemos diegiamos kitiems vartotojams, kai nustoja galioti vartotojo apskaitos prietaiso, kuris nėra išmanusis apskaitos prietaisas (toliau – įprastas apskaitos prietaisas), teisinis metrologinis patvirtinimas, arba pagal atskirą skirstomųjų tinklų operatoriaus nustatytą planą, jeigu išmaniųjų apskaitos sistemų ilgalaikių sąnaudų ir numatomos naudos rinkai ir atskiriems vartotojams ekonominiame vertinime nenumatyta kitaip. Skirstomųjų tinklų operatorius savo interneto svetainėje paskelbia tvarkos aprašą, pagal kurį vartotojai gali susipažinti su išmaniųjų apskaitos sistemų diegimo planu, ir informaciją apie išmaniųjų apskaitos sistemų diegimo etapų pradžią ir pabaigą. Prieš įdiegiant išmaniąją apskaitos sistemą arba jos įrengimo metu skirstomųjų tinklų operatorius vartotojams teikia informaciją apie visas išmaniosios apskaitos sistemos galimybes, susijusias su išmaniojo apskaitos prietaiso rodmenų valdymu ir energijos vartojimo stebėjimu. Tarybai patvirtinus teigiamus išmaniųjų apskaitos sistemų ilgalaikių sąnaudų ir numatomos naudos rinkai ir atskiriems vartotojams ekonominio vertinimo rezultatus, išmaniosios apskaitos sistemos turi būti įdiegtos bent 80 procentų vartotojų per 7 metus po šio vertinimo atlikimo arba ne vėliau kaip iki 2024 m. gruodžio 31 d., jeigu išmaniosios apskaitos sistemos pradėtos diegti iki 2019 m. liepos 4 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+ 
 
 
 
@@ -5779,6 +5807,14 @@ Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
 
 
 11. Vartotojų prašymu per standartizuotą elektroninių ryšių sąsają arba nuotoliniu būdu jiems arba jų įgaliotiems asmenims išmaniųjų apskaitos prietaisų užfiksuoti jų į elektros tinklą persiųstos elektros energijos ir jų suvartotos elektros energijos duomenys, laikantis šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, teikiami lengvai suprantama forma ir neatlygintinai, kad būtų galima palyginti nepriklausomų tiekėjų pasiūlymus naudojant vienodus kriterijus.
+
+
+
+
+12. Šis straipsnis taikomas planuojamoms diegti išmaniosioms apskaitos sistemoms ir išmaniosioms apskaitos sistemoms, kurios įrengiamos vietoj senesnių išmaniųjų apskaitos sistemų. Išmaniosios apskaitos sistemos, kurios buvo įdiegtos arba pradėtos diegti anksčiau negu 2019 m. liepos 4 d., gali būti toliau eksploatuojamos visą jų veikimo laiką, tačiau Elektros įrenginių įrengimo bendrųjų taisyklių reikalavimų neatitinkančios išmaniosios apskaitos sistemos turi būti toliau eksploatuojamos ne ilgiau kaip iki 2031 m. liepos 5 d. Laikoma, kad išmaniosios apskaitos sistemos yra pradėtos diegti anksčiau negu 2019 m. liepos 4 d., kai iki 2019 m. liepos 4 d. skirstomųjų tinklų operatorius investuoja į išmaniosios apskaitos sistemos diegimą ir (ar) įsipareigoja užsakyti įrangą, ir (ar) atlieka kitus veiksmus, reikalingus išmaniajai apskaitos sistemai diegti, dėl kurių atliktos investicijos į išmaniosios apskaitos sistemos diegimą negali būti atšaukiamos, išskyrus atvejus, kai investuojama į leidimų išmaniosios apskaitos sistemos diegimui gavimą ir (ar) preliminarios galimybių studijos parengimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+ 
 
 
 Straipsnio pakeitimai:
@@ -6562,6 +6598,14 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+ 
+
+
+
+
+13. Dėl teisės aktų projektų, kuriais siūloma keisti šio straipsnio 7 dalyje nustatytus sąskaitų turinio reikalavimus, yra konsultuojamasi su vartotojų asociacijomis Teisėkūros pagrindų įstatymo nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
  
 
 
@@ -7366,7 +7410,10 @@ Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 611 straipsnis. Vartotojo ir paklausos telkėjo sutartis
 
 
-1. Vartotojas, nusprendęs dalyvauti telkiant elektros energijos paklausą, turintis tam tinkamą elektros apskaitos prietaisą, sudaro sutartį su paklausos telkėju dėl paklausos telkimo paslaugų. Vartotojas turi teisę sudaryti tokią sutartį su nepriklausomu paklausos telkėju arba su tiekėju, kuris vartotojui tiekia elektros energiją, kaip nurodyta šio įstatymo 41 straipsnio 4 dalyje. Sutartį su nepriklausomu paklausos telkėju vartotojas gali sudaryti be tiekėjo, kuris vartotojui tiekia elektros energiją, sutikimo.
+1. Vartotojas, nepriklausomai nuo pasirinkto elektros energijos rinkos dalyvio, turi teisę iš jo pirkti ir (ar) jam parduoti elektros energijos paslaugas, įskaitant dalyvavimą telkiant elektros energijos paklausą, kai tai nėra susiję su vartotojui pagal su nepriklausomu tiekėju sudarytą elektros energijos tiekimo sutartį teikiama elektros energijos tiekimo paslauga. Vartotojas, nusprendęs dalyvauti telkiant elektros energijos paklausą, turintis tam tinkamą elektros apskaitos prietaisą, sudaro sutartį su paklausos telkėju dėl paklausos telkimo paslaugų. Vartotojas turi teisę sudaryti tokią sutartį su nepriklausomu paklausos telkėju arba su tiekėju, kuris vartotojui tiekia elektros energiją, kaip nurodyta šio įstatymo 41 straipsnio 4 dalyje. Sutartį su nepriklausomu paklausos telkėju vartotojas gali sudaryti be tiekėjo, kuris vartotojui tiekia elektros energiją, sutikimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+ 
 
 
 
@@ -10616,3 +10663,13 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 16, 21-1, 22, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1914, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08618
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 46, 47 ir 51 straipsnių pakeitimo įstatymas
+ 
+55.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1668, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26106
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymo Nr. XIV-627 31 straipsnio pakeitimo įstatymas
+ 
+56.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 19, 22-1, 22-2, 33, 48, 51 ir 61-1 straipsnių pakeitimo įstatymas
