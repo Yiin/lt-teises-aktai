@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-12-04
+Suvestinė redakcija nuo 2023-12-05 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -304,7 +304,6 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 
 
 192. Elektros energijos iš atsinaujinančių išteklių pirkimo–pardavimo sandorio kaina (toliau – sandorio kaina) – šiame įstatyme nustatyta tvarka ir sąlygomis elektros energijos gamintojo, elektrinę eksploatuojančio jūrinėje teritorijoje, konkurse laimėta kaina, už kurią gamintojas sutinka parduoti pagamintą elektros energiją. 
-TAR pastaba. 2 straipsnis papildomas nauja 192 dalimi, buvusi 192 dalis laikoma 193 dalimi praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 Papildyta straipsnio dalimi:
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
  
@@ -312,11 +311,13 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 
 
-192. Elektros energijos gamybos iš atsinaujinančių išteklių skatinimo kvotų paskirstymo tvarkaraštis (toliau – tvarkaraštis) – Lietuvos Respublikos Vyriausybės priimamas teisės aktas, kuriame nustatomos penkerių metų informacijos apie planuojamus organizuoti elektros energijos gamybos iš atsinaujinančių išteklių skatinimo kvotų paskirstymo aukcionus (toliau – aukcionas) paskelbimo datos, aukcionuose planuojamo paskirstyti metinio elektros energijos gamybos kiekio apimtis ir elektros energijos iš atsinaujinančių išteklių kainos priedo mokėjimo laikotarpiu gamintojams planuojamos skirti viešuosius interesus atitinkančių paslaugų lėšos už pagamintą ir į elektros tinklus patiektą elektros energiją iš atsinaujinančių išteklių. 
+193. Elektros energijos gamybos iš atsinaujinančių išteklių skatinimo kvotų paskirstymo tvarkaraštis (toliau – tvarkaraštis) – Lietuvos Respublikos Vyriausybės priimamas teisės aktas, kuriame nustatomos penkerių metų informacijos apie planuojamus organizuoti elektros energijos gamybos iš atsinaujinančių išteklių skatinimo kvotų paskirstymo aukcionus (toliau – aukcionas) paskelbimo datos, aukcionuose planuojamo paskirstyti metinio elektros energijos gamybos kiekio apimtis ir elektros energijos iš atsinaujinančių išteklių kainos priedo mokėjimo laikotarpiu gamintojams planuojamos skirti viešuosius interesus atitinkančių paslaugų lėšos už pagamintą ir į elektros tinklus patiektą elektros energiją iš atsinaujinančių išteklių. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Straipsnio dalies pakeitimai:
 Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
  
 
 
@@ -640,7 +641,6 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 
 
 2) sandorio kaina; 
-TAR pastaba. 2 dalis papildoma nauju 2 punktu, 2 dalies 2–7 punktai laikomi atitinkamai 3–8 punktais praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 Papildyta straipsnio punktu:
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
  
@@ -648,41 +648,57 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 
 
-2) energijos iš atsinaujinančių išteklių persiuntimas pirmumo teise;
+3) energijos iš atsinaujinančių išteklių persiuntimas pirmumo teise;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
+ 
 
 
 
 
-3) elektros energijos gamintojų atleidimas nuo atsakomybės už pagamintos elektros energijos sukeltą disbalansą skatinimo laikotarpiu šio straipsnio 4 dalyje nustatytomis sąlygomis;
+4) elektros energijos gamintojų atleidimas nuo atsakomybės už pagamintos elektros energijos sukeltą disbalansą skatinimo laikotarpiu šio straipsnio 4 dalyje nustatytomis sąlygomis;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
+ 
 
 
 
 
-4) parama žemės ūkio produkcijos – biokuro, biodegalų, biotepalų ir bioalyvų gamybos žaliavos – gamybai ir perdirbimui;
+5) parama žemės ūkio produkcijos – biokuro, biodegalų, biotepalų ir bioalyvų gamybos žaliavos – gamybai ir perdirbimui;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
+ 
 
 
 
 
-5) privalomo atsinaujinančių energijos išteklių naudojimo energijai gaminti ir (ar) privalomo energijos iš atsinaujinančių išteklių vartojimo, taip pat biodegalų naudojimo reikalavimai;
+6) privalomo atsinaujinančių energijos išteklių naudojimo energijai gaminti ir (ar) privalomo energijos iš atsinaujinančių išteklių vartojimo, taip pat biodegalų naudojimo reikalavimai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
+ 
 
 
 
 
-6) parama investicijoms į atsinaujinančius energijos išteklius naudojančias technologijas;
+7) parama investicijoms į atsinaujinančius energijos išteklius naudojančias technologijas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
+ 
 
 
 
 
-7) kitos įstatymų nustatytos lengvatos.
+8) kitos įstatymų nustatytos lengvatos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
+ 
 
 
 
 
 
 
-3. Šio straipsnio 2 dalies 2 punkte nurodyta skatinimo priemonė asmenims, išskyrus atsinaujinančių išteklių energijos bendrijas, taikoma tik tuo atveju, kai jie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka įgyja ir turi teisę į šio straipsnio 2 dalies 1 punkte numatytą skatinimo priemonę. Šio straipsnio 2 dalies 2 punkte nurodyta skatinimo priemonė atsinaujinančių išteklių energijos bendrijoms taikoma Elektros energetikos įstatymo 31 straipsnio 2 dalyje ir 39 straipsnio 2 dalyje nustatyta tvarka.
-3 dalies redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas:
-3. Šio straipsnio 2 dalies 3 punkte nurodyta skatinimo priemonė asmenims, išskyrus atsinaujinančių išteklių energijos bendrijas, taikoma tik tuo atveju, kai jie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka įgyja ir turi teisę į šio straipsnio 2 dalies 1 ar 2 punkte nurodytas skatinimo priemones. Šio straipsnio 2 dalies 3 punkte nurodyta skatinimo priemonė atsinaujinančių išteklių energijos bendrijoms taikoma Elektros energetikos įstatymo 31 straipsnio 2 dalyje ir 39 straipsnio 2 dalyje nustatyta tvarka.
+3. Šio straipsnio 2 dalies 3 punkte nurodyta skatinimo priemonė asmenims, išskyrus atsinaujinančių išteklių energijos bendrijas, taikoma tik tuo atveju, kai jie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka įgyja ir turi teisę į šio straipsnio 2 dalies 1 ar 2 punkte nurodytas skatinimo priemones. Šio straipsnio 2 dalies 3 punkte nurodyta skatinimo priemonė atsinaujinančių išteklių energijos bendrijoms taikoma Elektros energetikos įstatymo 31 straipsnio 2 dalyje ir 39 straipsnio 2 dalyje nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
  
@@ -690,10 +706,9 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 
 
-4. Šio straipsnio 2 dalies 3 punkte nurodyta skatinimo priemonė taikoma elektros energijos gamintojams, kurie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka įgyja ir turi teisę į šio straipsnio 2 dalies 1 punkte numatytą skatinimo priemonę ir kurių eksploatuojamos elektrinės įrengtoji galia yra mažesnė kaip:
-4 dalies pirmosios pastraipos redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas:
-4. Šio straipsnio 2 dalies 4 punkte nurodyta skatinimo priemonė taikoma elektros energijos gamintojams, kurie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka įgyja ir turi teisę į šio straipsnio 2 dalies 1 punkte nurodytą skatinimo priemonę ir kurių eksploatuojamos elektrinės įrengtoji galia yra mažesnė kaip:
- 
+4. Šio straipsnio 2 dalies 4 punkte nurodyta skatinimo priemonė taikoma elektros energijos gamintojams, kurie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka įgyja ir turi teisę į šio straipsnio 2 dalies 1 punkte nurodytą skatinimo priemonę ir kurių eksploatuojamos elektrinės įrengtoji galia yra mažesnė kaip: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 
 1) 400 kW;
@@ -1332,96 +1347,6 @@ Valstybinė energetikos reguliavimo taryba:
 
 
 
-3) nustato elektros energijos, suvartojamos šilumos siurblių (turinčių į kompresorių patenkančios elektros energijos apskaitos prietaisus) darbui, lengvatinius tarifus;
-
-
-
-
-4) tvirtina energetikos tinklų optimizavimo, plėtros ir rekonstravimo sąnaudas bei papildomas energetikos tinklų operatoriaus sąnaudas, susijusias su atsinaujinančių išteklių naudojimo plėtra;
-
-
-
-
-5) neteko galios nuo 2022-01-01;
-
-
-
-
-6) nagrinėja šio įstatymo 64 straipsnio 1 dalyje nurodytus skundus;
-
-
-
-
-7) neteko galios nuo 2022-07-08;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-8) nustato šilumos supirkimo iš nepriklausomų šilumos gamintojų tvarką ir sąlygas;
-
-
-
-
-10) prižiūri ir kontroliuoja, kaip biodujų gamintojams suteikiama teisė prijungti savo įrenginius prie gamtinių dujų sistemos, kaip taikomos prijungimo įmokos ir biodujų supirkimo skaidrumą;
-
-
-
-
-11) rengia ir tvirtina skatinimo kvotų paskirstymo aukcionų nuostatus;
-
-
-
-
-12) skelbia ir organizuoja skatinimo kvotų paskirstymo aukcionus;
-
-
-
-
-13) nustato įrengtos saulės šviesos energijos elektrinės technologinį tipą;
-
-
-
-
-14) prižiūri ir kontroliuoja, ar energijos tiekėjas savo galutiniams vartotojams teikia informaciją apie tai, kokią energijos tiekėjo tiekiamos energijos dalį ar kokį kiekį sudaro atsinaujinančių išteklių energija; 
-
-
-
-
-15) atlieka kitas šio įstatymo nustatytas funkcijas. 
-TAR pastaba. 11 straipsnio redakcija, galiojanti iki naujos 11 straipsnio redakcijos, įsgaliosiančios praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
-
-
-Straipsnio pakeitimai:
-Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
-Nr. XIV-1171, 2022-06-23, paskelbta TAR 2022-06-28, i. k. 2022-13888
- 
-
-
-
-
-11 straipsnis. Valstybinės energetikos reguliavimo tarybos kompetencija
-
-
-Valstybinė energetikos reguliavimo taryba:
-
-
-1) tvirtina didžiausiosios kainos ir atskaitinės kainos nustatymo metodiką;
-
-
-
-
-2) tvirtina didžiausiąją kainą ir atskaitinę kainą, kontroliuoja, kaip jos taikomos;
-
-
-
-
 3) tvirtina didžiausios galimos sandorio kainos nustatymo metodiką;
 
 
@@ -1493,8 +1418,6 @@ Valstybinė energetikos reguliavimo taryba:
 
 
 17) atlieka kitas šio įstatymo nustatytas funkcijas.
-TAR pastaba. 11 straipsnio redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
- 
 
 
 
@@ -1880,8 +1803,6 @@ Nr. XIV-628, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24220
 
 
 5. Asmuo, planuojantis statyti ar įrengti elektrinę, turi teisę, išskyrus atvejus, kai elektrinė statoma ar įrengiama jūrinėje teritorijoje, pasirinkti kitą technologiniu ir ekonominiu požiūriu tinkamą elektrinės prijungimo tašką, atsižvelgdamas į elektros tinklų operatoriaus nurodytą elektros tinklų pajėgumo lygį, elektrinės įrengtąją galią ir leistiną generuoti galią. Pasirinkto prijungimo taško atitiktį nustatytiems technologiniams ir ekonominiams kriterijams kiekvienu konkrečiu atveju įvertina elektros tinklų operatorius.
-5 dalies redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas: 
-5. Asmuo, planuojantis statyti ar įrengti elektrinę, turi teisę, išskyrus atvejus, kai elektrinė statoma ar įrengiama jūrinėje teritorijoje, pasirinkti kitą technologiniu ir ekonominiu požiūriu tinkamą elektrinės prijungimo tašką, atsižvelgdamas į elektros tinklų operatoriaus nurodytą elektros tinklų pajėgumo lygį, elektrinės įrengtąją galią ir leistiną generuoti galią. Pasirinkto prijungimo taško atitiktį nustatytiems technologiniams ir ekonominiams kriterijams kiekvienu konkrečiu atveju įvertina elektros tinklų operatorius.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Nr. XIV-1171, 2022-06-23, paskelbta TAR 2022-06-28, i. k. 2022-13888
@@ -2091,26 +2012,6 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 
 
-18 straipsnis. Elektros tinklų pajėgumo padidinimas
-
-
-1. Kai elektrinę statantis ar įrengiantis asmuo ir elektros tinklų operatorius sudaro elektrinės prijungimo prie elektros tinklų paslaugos sutartį, elektros tinklų operatorius nedelsdamas, atsižvelgdamas į esamą elektros tinklų techninę būklę, imasi visų pagrįstai reikalingų priemonių elektros tinklų operatoriaus valdomiems tinklams, įskaitant tinklams eksploatuoti reikalingus elektros įrenginius ir objektus, optimizuoti, išplėsti ir (ar) rekonstruoti ir didinti elektros tinklų pajėgumą tam, kad būtų galima užtikrinti saugų ir patikimą elektros energijos, pagamintos iš atsinaujinančių energijos išteklių, priėmimą, perdavimą ir paskirstymą.
-
-
-
-
-2. Jeigu yra duomenų, pagrindžiančių prielaidą, kad elektros tinklų operatorius nevykdo savo įsipareigojimų pagal šio skirsnio nuostatas, elektrinę statantis ar įrengiantis asmuo turi teisę reikalauti, kad elektros tinklų operatorius pateiktų informaciją apie tai, dėl kokių priežasčių ir kokiu mastu elektros tinklų operatorius nevykdė savo įsipareigojimo optimizuoti ir plėsti savo elektros tinklų sistemą bei didinti elektros tinklų pajėgumą.
-TAR pastaba. 18 straipsnio redakcija galiojanti iki praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, jeigu šis pritarimas gaunamas po 2022 m. liepos 1 d.
-
-
-Straipsnio pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
-Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
- 
-
-
-
-
 18 straipsnis. Elektros tinklų pajėgumo padidinimas ir elektros tinklų plėtra elektrinėms ir energijos gamybos įrenginiams prijungti
 
 
@@ -2120,7 +2021,6 @@ Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 
 
 2. Jeigu yra duomenų, pagrindžiančių prielaidą, kad elektros tinklų operatorius nevykdo savo įsipareigojimų pagal šio skirsnio nuostatas, elektrinę statantis ar įrengiantis asmuo turi teisę reikalauti, kad elektros tinklų operatorius pateiktų informaciją apie tai, dėl kokių priežasčių ir kokiu mastu elektros tinklų operatorius nevykdė savo įsipareigojimo optimizuoti ir plėsti savo elektros tinklų sistemą bei didinti elektros tinklų pajėgumą.
-TAR pastaba. 18 straipsnio redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, jeigu šis pritarimas gaunamas po 2022 m. liepos 1 d.
 
 
 Straipsnio pakeitimai:
@@ -2641,8 +2541,7 @@ Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 
 
 
-4) prilygintą pasirinktam elektros energijos persiuntimo paslaugos tarifui.
-TAR pastaba. 201 straipsnio 5 dalies nuostatos dėl buitinių gaminančių vartotojų naudojimosi elektros tinklais paslaugos kainos prilyginimo pasirinktam elektros energijos persiuntimo paslaugos tarifui įsigalioja nuo 2023-01-01.
+4) prilygintą pasirinktam elektros energijos persiuntimo paslaugos tarifui. 
 
 
 Straipsnio dalies pakeitimai:
@@ -2662,7 +2561,6 @@ Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 
 
 7. Elektros energija gali būti gaminama gaminančio vartotojo elektrinėje, kuri yra geografiškai nutolusi Lietuvos Respublikos teritorijoje nuo gaminančio vartotojo elektros energijos vartojimo vietos. Elektrinėje, kurios prijungimo prie elektros tinklų taškas nesutampa su elektros energijos vartojimo vietos prijungimo tašku, visas pagamintas elektros energijos kiekis ar atskiram gaminančiam vartotojui priskirta jo dalis laikomi patiektais į elektros tinklus, nepaisant gaminančio vartotojo ar jų grupės elektros energijos vartojimo kiekio. Tokiu atveju su gaminančio vartotojo viena elektros energijos vartojimo vieta gali būti susietos tik to paties gaminančio vartotojo nuosavybės teise ar kitais teisėtais pagrindais valdomos elektrinės arba jų dalys. Vienai elektros energijos vartojimo vietai gaminantis vartotojas gali priskirti kelias elektrines ar elektrinių dalis, nepaisant jų buvimo vietos.
-TAR pastaba. 201 straipsnio 7 dalies nuostatos dėl gaminančių vartotojų kelių elektrinių susiejimo su viena elektros energijos vartojimo vieta įsigalioja 2023-01-01.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
@@ -2672,7 +2570,6 @@ Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
 
 
 71. Kai gaminančiam vartotojui nuosavybės teise ar kitais teisėtais pagrindais priklauso daugiau negu viena elektros energijos vartojimo vieta, kuriose jis yra sudaręs elektros energijos tiekimo sutartis su tuo pačiu nepriklausomu elektros energijos tiekėju, šis nepriklausomas elektros energijos tiekėjas užtikrina suminį atsiskaitymą už pagamintą ir į elektros energijos tinklus patiektą bei visose jo vartojimo vietose suvartotą elektros energijos kiekį. 
-TAR pastaba. 201 straipsnio 71 dalies nuostatos dėl gaminančių vartotojų suminio atsiskaitymo už elektros energiją skirtinguose vartojimo objektuose įsigalioja 2023-09-01.
 Papildyta straipsnio dalimi:
 Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
  
@@ -2960,267 +2857,6 @@ Nr. XII-169, 2013-01-17, Žin., 2013, Nr. 12-560 (2013-02-01)
 
 Straipsnio pakeitimai:
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
- 
-
-
-
-
-22 straipsnis. Atsinaujinančių energijos išteklių naudojimas elektros energijos gamybai Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje 
-
-
-1. Vyriausybės įgaliota institucija, atsižvelgdama į šio įstatymo 5 straipsnio 2 dalies 17 punkte nurodytą tvarkos aprašą, atlieka Lietuvos Respublikos teritorinės jūros, Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje tyrimus ir kitus veiksmus, kurie reikalingi Vyriausybės nutarimui dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir dėl šių elektrinių įrengtųjų galių nustatymo priimti: 
-
-
-1) organizuoja specialiojo plano parengimą;
-
-
-
-
-2) organizuoja specialiojo plano strateginį pasekmių aplinkai vertinimą;
-
-
-
-
-3) organizuoja poveikio aplinkai ir visuomenės sveikatai vertinimą;
-
-
-
-
-4) organizuoja prisijungimo prie elektros perdavimo tinklų sausumos teritorijoje galimybių vertinimą;
-
-
-
-
-5) organizuoja balansavimo galimybių vertinimą; 
-
-
-
-
-6) organizuoja šios dalies 4 ir 5 punktuose nurodytų veiksmų sąnaudų vertinimą;
-
-
-
-
-7) atlieka kitus veiksmus, būtinus elektros energijos gamybos iš atsinaujinančių išteklių leistinumui ir galimybėms įvertinti. 
-
-
-
-
-
-
-11. Elektros tinklų galia ir pralaidumai rezervuojami 1,4 GW leistinos generuoti galios atsinaujinančius išteklius naudojančioms elektrinėms, numatomoms plėtoti Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje, iki leidimo naudoti Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalį (dalis) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai išdavimo šiame straipsnyje nurodyto konkurso laimėtojui. 
-Papildyta straipsnio dalimi:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-11. Neteko galios nuo 2020-05-31. 
-
-
-
-
-2. Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalis (dalys) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai naudojama (naudojamos) tik turint Vyriausybės įgaliotos institucijos išduotą leidimą. Šis leidimas išduodamas 35 metams be pratęsimo galimybės. 
-
-
-
-
-3. Leidimai naudoti Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalį (dalis) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai (toliau – leidimas plėtrai ir eksploatacijai) išduodami konkurso būdu. 
-
-
-
-
-4. Vyriausybės nutarimas dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir dėl šių elektrinių įrengtųjų galių nustatymo rengiamas atsižvelgiant į šio straipsnio 1 dalyje nurodytų atliktų tyrimų ir kitų veiksmų duomenis ir Nacionaliniame pažangos plane nustatytus atsinaujinančių energijos išteklių strateginius tikslus ir (arba) pažangos uždavinius. Išankstinės prijungimo sąlygos išduodamos, konkursas (konkursai) organizuojamas (organizuojami) ir leidimas (leidimai) plėtrai ir eksploatacijai šioje dalyje numatytais atvejais išduodamas (išduodami) ne anksčiau, negu yra priimtas Vyriausybės nutarimas dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir dėl šių elektrinių įrengtųjų galių nustatymo. Konkursą gali inicijuoti bet kuris asmuo, atitinkantis šio straipsnio 11 dalies 2 ir 3 punktuose nustatytus reikalavimus, pateikdamas paraišką Vyriausybės įgaliotai institucijai. Konkursą privalo organizuoti Vyriausybės įgaliota institucija per 6 mėnesius nuo paraiškos organizuoti konkursą gavimo dienos šio įstatymo 5 straipsnio 1 dalies 9 punkte numatytame Vyriausybės nutarime nustatytoms dalims ir įrengtosioms galioms nustatyti. 
-
-
-
-
-5. Konkurso laimėtojas nustatomas Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, vadovaujantis objektyviais, skaidriais ir nediskriminaciniais principais. 
-
-
-
-
-6. Išlaidos, patirtos šio straipsnio 1 dalyje numatytiems tyrimams ir kitiems veiksmams atlikti, yra kompensuojamos konkursą laimėjusių dalyvių mokesčiais. Konkurso dalyvio mokesčio dydis nustatomas atsižvelgiant į šio įstatymo 5 straipsnio 1 dalies 9 punkte numatytame Vyriausybės nutarime nustatytas elektrinių įrengtąsias galias ir paskirstant jas proporcingai konkurse numatomai paskirstyti elektrinių įrengtajai galiai. Konkurso dalyvio mokestis mokamas Vyriausybės įgaliotai institucijai. Jo sumokėjimo, grąžinimo bei panaudojimo, nustačius konkurso laimėtoją, tvarka ir terminai nustatomi šio įstatymo 5 straipsnio 1 dalies 8 punkte numatytame tvarkos apraše.
-
-
-
-
-7. Konkurso dalyviai, vadovaudamiesi Konkursų organizavimo ir leidimų išdavimo tvarkos aprašu, pateikia elektros tinklų operatoriui konkurso dalyvio prievolių įvykdymo užtikrinimą, garantuojantį elektros tinklų operatoriui konkurso dalyvio įsipareigojimą laimėjus konkursą plėtoti atsinaujinančius energijos išteklius naudojančių elektrinių projektą. Elektros tinklų operatorius atsisako savo teisių ir grąžina visą prievolių įvykdymo užtikrinimą asmeniui ar jo prievolių įvykdymo užtikrinimą išdavusiam asmeniui, jeigu:
-
-
-1) asmuo nelaimi šioje dalyje nurodyto konkurso;
-
-
-
-
-2) asmuo raštu atsisako dalyvauti konkurse iki organizuojamo konkurso sąlygose numatyto termino pabaigos;
-
-
-
-
-3) asmeniui išduodamas leidimas gaminti elektros energiją elektrinėje, kurios įrengtoji galia sutampa su galia, numatyta leidime plėtrai ir eksploatacijai.
-
-
-
-
-
-
-8. Jeigu leidimas plėtrai ir eksploatacijai panaikinamas šio straipsnio 17 dalyje numatytais pagrindais, elektros tinklų operatorius turi teisę pasinaudoti visu šio asmens pateiktu prievolių įvykdymo užtikrinimu. Jeigu šio straipsnio 5 dalyje nurodyto konkurso laimėtojas per leidimo plėtrai ir eksploatacijai galiojimo laikotarpį įrengia mažesnės galios elektrinę, negu buvo numatyta leidime plėtrai ir eksploatacijai, elektros tinklų operatorius turi teisę pasinaudoti pateikto prievolių įvykdymo užtikrinimo dalimi proporcingai neįrengtai galiai.
-
-
-
-
-9. Pagal šio straipsnio 7 dalyje numatytą prievolių įvykdymo užtikrinimą elektros tinklų operatoriaus gautos lėšos gali būti naudojamos tik elektros tinklų plėtrai, reikalingai atsinaujinančių išteklių energijos gamybos įrenginiams prijungti.
-
-
-
-
-10. Pasiekus šio įstatymo 5 straipsnio 1 dalies 9 punkte nurodytame Vyriausybės nutarime nustatytas elektrinių įrengtąsias galias ir (ar) atsiradus papildomų elektros energijos gamybos pajėgumų plėtros poreikiui, Vyriausybės įgaliota institucija įvertina jų įrengimo tikslingumą ir prireikus peržiūri ar atnaujina šio straipsnio 1 dalyje numatytų tyrimų ir kitų veiksmų rezultatus ir pateikia pasiūlymus Vyriausybei dėl šio įstatymo 5 straipsnio 1 dalies 9 punkte nurodyto Vyriausybės nutarimo pakeitimo. 
-
-
-
-
-11. Leidimai plėtrai ir eksploatacijai šio įstatymo nustatyta tvarka ir sąlygomis išduodami fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje:
-
-
-1) kurie šio straipsnio 5 dalyje nustatyta tvarka pripažinti konkurso laimėtojais;
-
-
-
-
-2) kurie yra įvykdę įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu. Asmuo laikomas įvykdžiusiu įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, jeigu jo neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų;
-
-
-
-
-3) kuriems nėra pradėta bankroto, reorganizavimo ir (ar) likvidavimo procedūra;
-
-
-
-
-4) kurie prisijungimo prie elektros perdavimo tinklų sausumos teritorijoje sąnaudas įsipareigoja padengti savo lėšomis ir prisiima atsakomybę už pagamintos elektros energijos sukeltą disbalansą.
-
-
-
-
-
-
-12. Šio straipsnio 11 dalies 1, 2 ir 3 punktuose nurodytų reikalavimų įvertinimo tvarka nustatoma Konkursų organizavimo ir leidimų išdavimo tvarkos apraše.
-
-
-
-
-13. Asmuo, gavęs leidimą plėtrai ir eksploatacijai, neturi teisės įgalioti kitų asmenų verstis šiame leidime nurodyta veikla arba perduoti jiems šios teisės pagal sutartį ar kitais pagrindais ir privalo laikytis šių veiklos sąlygų:
-
-
-1) per 3 metus nuo leidimo plėtrai ir eksploatacijai gavimo dienos gauti statybą leidžiantį dokumentą;
-
-
-
-
-2) per 6 metus nuo leidimo plėtrai ir eksploatacijai gavimo dienos gauti leidimą gaminti elektros energiją;
-
-
-
-
-3) šio įstatymo 5 straipsnio 1 dalies 8 punkte nurodytame tvarkos apraše nustatyta tvarka teikti Vyriausybės įgaliotai institucijai informaciją apie leidime plėtrai ir eksploatacijai nurodytą vykdomą reguliuojamą veiklą;
-
-
-
-
-4) nedidinti (neplėsti) leidime plėtrai ir eksploatacijai numatytos elektrinės įrengtosios ir leistinos generuoti galios ir teritorijos;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1169, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14906
- 
-
-
-
-
-
-
-14. Už leidimų plėtrai ir eksploatacijai reguliuojamos veiklos sąlygų pažeidimus Vyriausybės įgaliota institucija įspėja šio leidimo turėtoją apie galimą leidimo galiojimo sustabdymą šio straipsnio 15 dalyje nustatytais pagrindais arba informuoja apie šio leidimo galiojimo panaikinimą šio straipsnio 17 dalyje nustatytais pagrindais. Leidimo turėtojui, kuris yra įspėtas apie leidimo galiojimo sustabdymą ar kurio leidimo galiojimas yra sustabdytas, nustatomas 30 kalendorinių dienų laikotarpis, per kurį turi būti pašalinti reguliuojamos veiklos pažeidimai. Pažeidimams pašalinti gali būti nustatomas ilgesnis laikotarpis, jeigu tai reikalinga dėl objektyvių priežasčių: dėl nuo leidimo turėtojo nepriklausančių priežasčių leidimo turėtojas šio straipsnio 13 dalyje nustatytais terminais negauna statybą leidžiančio dokumento. Laikotarpis pažeidimams pašalinti nustatomas atsižvelgiant į jiems pašalinti reikalingą laikotarpį ir negali būti ilgesnis kaip 90 kalendorinių dienų.
-
-
-
-
-15. Leidimo plėtrai ir eksploatacijai galiojimą Vyriausybės įgaliota institucija sustabdo, jeigu: 
-
-
-1) išdavus leidimą plėtrai ir eksploatacijai leidimo galiojimo laikotarpiu paaiškėja, kad konkursui pateiktuose dokumentuose pateikti netikslūs duomenys arba duomenys turi trūkumų;
-
-
-
-
-2) leidimo plėtrai ir eksploatacijai turėtojas pažeidė šio straipsnio 13 dalyje nustatytas reguliuojamos veiklos sąlygas;
-
-
-
-
-3) leidimo plėtrai ir eksploatacijai turėtojas ilgiau negu vienus metus nevykdo įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, išskyrus atvejus, kai neįvykdytų įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, suma yra mažesnė kaip 50 eurų. 
-
-
-
-
-
-
-16. Kai leidimo plėtrai ir eksploatacijai turėtojas per Vyriausybės įgaliotos institucijos nustatytą laikotarpį pateikia dokumentus, įrodančius, kad šio straipsnio 13 dalyje nurodyti pažeidimai pašalinti, Vyriausybės įgaliota institucija ne vėliau kaip per 10 kalendorinių dienų nuo šių dokumentų gavimo dienos panaikina šio leidimo galiojimo sustabdymą.
-
-
-
-
-17. Leidimo plėtrai ir eksploatacijai galiojimą Vyriausybės įgaliota institucija panaikina, jeigu:
-
-
-1) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas jau buvo sustabdytas, pakartotinai per 12 mėnesių nuo šio leidimo galiojimo sustabdymo datos pažeidžia šio straipsnio 13 dalyje nustatytas reguliuojamos veiklos sąlygas;
-
-
-
-
-2) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas sustabdytas šio straipsnio 15 dalies 1 punkte nurodytu pagrindu, per pažeidimams pašalinti nustatytą laikotarpį nepateikia patikslintų duomenų, nepašalina netikslumų arba Vyriausybės įgaliota institucija nustato, kad pateikti duomenys neatitinka reikalavimų, galiojusių leidimo plėtrai ir eksploatacijai išdavimo dieną;
-
-
-
-
-3) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas sustabdytas šio straipsnio 15 dalies 2 ir (ar) 3 punkte nurodytais pagrindais, per pažeidimams pašalinti nustatytą laikotarpį jų nepašalino;
-
-
-
-
-4) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas sustabdytas, vykdo leidime nurodytą veiklą;
-
-
-
-
-5) leidimą plėtrai ir eksploatacijai turintis juridinis asmuo pasibaigė jį likvidavus ar reorganizavus;
-
-
-
-
-6) fizinis asmuo, turėjęs leidimą plėtrai ir eksploatacijai, miršta;
-
-
-
-
-7) leidimo plėtrai ir eksploatacijai turėtojas Vyriausybės įgaliotai institucijai pateikia prašymą panaikinti leidimo plėtrai ir eksploatacijai galiojimą.
-
-
-
-
-
-
-18. Vyriausybės įgaliota institucija prižiūri, kaip laikomasi leidime plėtrai ir eksploatacijai nustatytų reguliuojamos veiklos sąlygų.
-
-
-
-
-19. Teritorijų, reikalingų prijungti atsinaujinančius energijos išteklius naudojančias elektrines, planuojamas plėtoti Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalyje (dalyse), prie elektros perdavimo tinklų, parengimo inžinerinės infrastruktūros plėtrai projektas yra pripažįstamas ypatingos valstybinės svarbos projektu, kurio įgyvendinimui taikomas Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas, išskyrus reikalavimą pateikti projekto galimybių studiją. Projektą įgyvendinanti institucija yra Energetikos ministerija.
-TAR pastaba. 22 straipsnio redakcija, galiojanti iki naujos 22 straipsnio redakcijos, įsgaliosiančios praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
-
-
-Straipsnio pakeitimai:
-Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
-Nr. XIV-1171, 2022-06-23, paskelbta TAR 2022-06-28, i. k. 2022-13888
  
 
 
@@ -3740,7 +3376,6 @@ d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės
 
 
 37. Teritorijų, reikalingų prijungti atsinaujinančius energijos išteklius naudojančias elektrines, planuojamas plėtoti jūrinės teritorijos dalyje (dalyse), prie elektros perdavimo tinklų, parengimo inžinerinės infrastruktūros plėtrai projektas yra pripažįstamas ypatingos valstybinės svarbos projektu, kurio įgyvendinimui taikomas Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas, išskyrus reikalavimą pateikti projekto galimybių studiją. Projektą įgyvendinanti institucija yra Energetikos ministerija.
-TAR pastaba. 22 straipsnio redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 
 
 Straipsnio pakeitimai:
@@ -3750,60 +3385,20 @@ Nr. XIV-1697, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27270
 
 
 
-221 straipsnis. Atsinaujinančių energijos išteklių naudojimas elektros energijos gamybai jūrinėje teritorijoje netaikant skatinimo priemonių
+221 straipsnis. Atsinaujinančių energijos išteklių naudojimas elektros energijos gamybai jūrinėje teritorijoje
 
 
-1. Vyriausybės įgaliota institucija, atsižvelgdama į šio įstatymo 5 straipsnio 2 dalies 17 punkte nurodytą tvarkos aprašą, organizuoja veiksmus, kurie reikalingi Vyriausybės nutarimui dėl elektrinių plėtros jūrinėje teritorijoje priimti ir (ar) įgyvendinti:
-
-
-1) organizuoja specialiojo teritorijų planavimo dokumento parengimą ir jo strateginį pasekmių aplinkai vertinimą;
+1. Kai konkursas naudoti jūrinę teritoriją organizuojamas šiame straipsnyje nustatyta tvarka, šiam konkursui ir atsinaujinančių energijos išteklių naudojimui elektros energijos gamybai jūrinėje teritorijoje yra taikomos šio straipsnio nuostatos ir šio įstatymo 22 straipsnio 1 dalies 1, 2 punktai ir 2–6, 8, 11–13, 18–30, 32–37 dalys.
 
 
 
 
-2) organizuoja atsinaujinančius išteklius naudojančių elektrinių prijungimo prie perdavimo tinklų sausumos teritorijoje specialiojo teritorijų planavimo dokumentų rengimą ir jo strateginį pasekmių aplinkai vertinimą. 
+2. Kai Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatyta, kad konkursas atsinaujinančius išteklius naudojančių elektrinių plėtrai ir eksploatacijai organizuojamas pagal šį straipsnį, konkurso laimėtojas neįgyja teisės į šio įstatymo 3 straipsnio 2 dalyje nurodytas skatinimo priemones.
 
 
 
 
-
-
-2. Visi šio straipsnio 1 dalyje numatyti veiksmai gali būti finansuojami iš Vyriausybės įgaliotai institucijai skirtų valstybės biudžeto asignavimų ir (ar) lėšų, gautų iš kitų finansavimo šaltinių.
-
-
-
-
-3. Elektros tinklų galia ir pralaidumai, nurodyti šio įstatymo 22 straipsnio 11 dalyje, rezervuojami ir šiame straipsnyje nurodyto konkurso laimėtojui (laimėtojams).
-
-
-
-
-4. Jūrinės teritorijos dalis (dalys) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai naudojama (naudojamos) tik turint Valstybinės energetikos reguliavimo tarybos išduotą leidimą plėtrai ir eksploatacijai. Leidimas plėtrai ir eksploatacijai išduodamas 41 metams. Leidime plėtrai ir eksploatacijai nurodoma atsinaujinančius energijos išteklius naudojančių elektrinių leistina generuoti ir įrengtoji galia, numatytos Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje. Šio leidimo galiojimo terminą pratęsia Valstybinė energetikos reguliavimo taryba neribotą kartų skaičių valstybės, kitų asmenų veiksmų ar neveikimo arba nenugalimos jėgos aplinkybių buvimo laikotarpiui, jeigu leidimo plėtrai ir eksploatacijai turėtojas, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, kad šio straipsnio 25 dalies 1 ir 2 punktuose numatytas sąlygas įvykdyti buvo vėluojama ar leidimo pratęsimo atveju suplanuotus darbus atlikti vėluojama dėl valstybės, kitų asmenų veiksmų ar neveikimo arba nenugalimos jėgos aplinkybių.
-
-
-
-
-5. Leidimus plėtrai ir eksploatacijai Valstybinė energetikos reguliavimo taryba išduoda konkurso būdu.
-
-
-
-
-6. Vyriausybės nutarimai dėl elektrinių plėtros jūrinėje teritorijoje rengiami kiekvienai jūrinės teritorijos daliai, kurioje tikslinga organizuoti konkursą (konkursus) atsinaujinančius išteklius naudojančių elektrinių plėtrai ir eksploatacijai, atsižvelgiant į Nacionaliniame pažangos plane nustatytus atsinaujinančių energijos išteklių strateginius tikslus ir (ar) pažangos uždavinius. Išankstinės prijungimo sąlygos išduodamos, konkursas (konkursai) organizuojamas (organizuojami) ir leidimas (leidimai) plėtrai ir eksploatacijai šioje dalyje numatytais atvejais išduodamas (išduodami) įsigaliojus Vyriausybės nutarimui dėl elektrinių plėtros jūrinėje teritorijoje.
-
-
-
-
-7. Kai Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatoma, kad konkursas atsinaujinančius išteklius naudojančių elektrinių plėtrai ir eksploatacijai organizuojamas pagal šį straipsnį, konkurso laimėtojas neįgyja teisės į šio įstatymo 3 straipsnio 2 dalyje nurodytas skatinimo priemones.
-
-
-
-
-8. Elektrinių jūrinės teritorijos dalyje (dalyse) statyba ir elektros energijos gamyba gali būti vykdoma bendrai su kitomis valstybėmis narėmis, kaip tai numatyta šio įstatymo 59 straipsnyje.
-
-
-
-
-9. Konkursas naudoti jūrinę teritoriją Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatytose dalyse plėtojant elektrines organizuojamas Valstybinės energetikos reguliavimo tarybos tvirtinamame konkursų organizavimo ir leidimų išdavimo tvarkos apraše (toliau – Konkursų organizavimo ir leidimų išdavimo tvarkos aprašas) nustatyta tvarka. Konkursą sudaro šie etapai:
+3. Konkursas naudoti jūrinę teritoriją Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatytose dalyse plėtojant elektrines organizuojamas Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka. Konkursą sudaro šie etapai:
 
 
 1) asmenų, siekiančių dalyvauti konkurse, registracijos ir dokumentų teikimo etapas, kuris pradedamas informacijos apie planuojamą organizuoti konkursą paskelbimo Valstybinės energetikos reguliavimo tarybos interneto svetainėje dieną ir trunka 60 kalendorinių dienų. Šiame etape asmenys, siekiantys dalyvauti konkurse, teikia Valstybinei energetikos reguliavimo tarybai Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatytus dokumentus bei informaciją;
@@ -3811,178 +3406,37 @@ Nr. XIV-1697, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27270
 
 
 
-2) asmenų, siekiančių dalyvauti konkurse, kvalifikacijos tikrinimo etapas, kuris trunka ne ilgiau kaip 30 kalendorinių dienų nuo registracijos ir dokumentų teikimo etapo pabaigos. Šis terminas gali būti pratęstas 7 kalendorinėms dienoms Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka. Šiame etape yra vertinama asmenų, užsiregistravusių dalyvauti konkurse, atitiktis šio straipsnio 10 dalyje nustatytoms sąlygoms. Kvalifikacijos tikrinimo etapas yra užbaigiamas, kai Valstybinė energetikos reguliavimo taryba patvirtina šio straipsnio 10 dalyje nustatytas sąlygas atitinkančius asmenis konkurso dalyviais, kurie turi teisę dalyvauti pasiūlymų teikimo etape;
+2) asmenų, siekiančių dalyvauti konkurse, kvalifikacijos tikrinimo etapas, kuris trunka ne ilgiau kaip 30 kalendorinių dienų nuo registracijos ir dokumentų teikimo etapo pabaigos. Šis terminas gali būti pratęstas 7 kalendorinėms dienoms Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka. Šiame etape yra vertinama asmenų, užsiregistravusių dalyvauti konkurse, atitiktis šio įstatymo 22 straipsnio 11 dalyje nustatytoms sąlygoms. Kvalifikacijos tikrinimo etapas yra užbaigiamas, kai Valstybinė energetikos reguliavimo taryba patvirtina šio įstatymo 22 straipsnio 11 dalyje nustatytas sąlygas atitinkančius asmenis konkurso dalyviais, kurie turi teisę dalyvauti pasiūlymų teikimo etape;
 
 
 
 
-3) pasiūlymų dėl elektrinių plėtros jūrinėje teritorijoje vystymo mokesčio, kurį konkurso laimėtojas įsipareigoja sumokėti į valstybės iždo sąskaitą per šio straipsnio 31 dalyje nustatytą terminą (toliau – vystymo mokestis), teikimo etapas (toliau – pasiūlymų teikimo etapas), kuris trunka ne ilgiau kaip 7 kalendorines dienas nuo kvalifikacijos tikrinimo etapo pabaigos. Šiame etape konkurso dalyviai Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka varžosi tarpusavyje realiu laiku siūlydami kuo didesnį vystymo mokestį, atitinkantį šio straipsnio 13 dalyje nustatytas sąlygas. Pasiūlymų teikimo etapas užbaigiamas Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, laikantis principo, kad konkurso laimėtoju būtų paskelbtas dalyvis, pasiūlęs didžiausią vystymo mokestį.
+3) pasiūlymų dėl vystymo mokesčio, kurį konkurso laimėtojas įsipareigoja sumokėti į valstybės iždo sąskaitą per šio įstatymo 22 straipsnio 32 dalyje nustatytą terminą, teikimo etapas (toliau – pasiūlymų teikimo etapas), kuris trunka ne ilgiau kaip 7 kalendorines dienas nuo kvalifikacijos tikrinimo etapo pabaigos. Šiame etape konkurso dalyviai Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka varžosi tarpusavyje realiu laiku siūlydami kuo didesnį vystymo mokestį, atitinkantį šio straipsnio 4 dalyje nustatytas sąlygas. Pasiūlymų teikimo etapas užbaigiamas Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, laikantis principo, kad konkurso laimėtoju būtų paskelbtas dalyvis, pasiūlęs didžiausią vystymo mokestį.
 
 
 
 
 
 
-10. Konkurse turi teisę dalyvauti Lietuvos Respublikos ir užsienio fiziniai ir (ar) juridiniai asmenys ir (ar) kitos organizacijos ar jų padaliniai, ar jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės, atitinkantys šias sąlygas:
+4. Pirmasis konkurso dalyvio realiu laiku siūlomas vystymo mokestis turi būti ne mažesnis kaip 5 milijonai eurų. Kiekvieno konkurso dalyvio realiu laiku siūlomas vystymo mokestis turi būti ne mažesne kaip 5 milijonų eurų suma didesnis už prieš tai pasiūlytą vystymo mokestį. 
 
 
-1) Valstybinei energetikos reguliavimo tarybai pateikę dokumentus, įrodančius, kad:
- 
 
 
-a) konkurso dalyvis atitinka europinės ir transatlantinės integracijos kriterijus, numatytus Lietuvos Respublikos Konstitucijos 47 straipsnio 3 dalies įgyvendinimo konstitucinio įstatymo 4 straipsnyje (toliau – europinės ir transatlantinės integracijos kriterijai);
+5. Valstybinė energetikos reguliavimo taryba ne vėliau kaip kitą darbo dieną po pasiūlymų teikimo etapo pabaigos, nepažeisdama duomenų apsaugos reikalavimų, paskelbia potencialių konkurso laimėtojų sąrašą, rikiuodama konkurso dalyvius pagal konkurso dalyvių nurodytą didžiausią vystymo mokestį, ir potencialiu konkurso laimėtoju paskelbia konkurso dalyvį, pasiūliusį didžiausią vystymo mokestį. Sutapus konkurso dalyvių pasiūlytiems vystymo mokesčiams, potencialus konkurso laimėtojas nustatomas Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka. 
 
 
 
 
-b) nuosavybės teise įsigiję konkurso dalyvio akcijų, teisių, pajų ar kapitalo dalių (toliau – akcijos) fiziniai ar juridiniai asmenys arba kiti ūkio subjektai (toliau – tiesioginiai akcininkai), fiziniai ar juridiniai asmenys arba kiti ūkio subjektai, nuosavybės teise tiesiogiai neturintys konkurso dalyvio akcijų, bet galintys daryti įtaką konkurso dalyviui per savo turimas konkurso dalyvio tiesioginio akcininko akcijas ar kitų netiesioginių akcininkų (kai yra akcininkų eilė) akcijas (toliau – netiesioginiai akcininkai), ir fiziniai asmenys, kurie nuosavybės teise yra tiesiogiai arba netiesiogiai įsigiję konkurso dalyvio akcijų (toliau – galutiniai naudos gavėjai), atitinka europinės ir transatlantinės integracijos kriterijus arba, nors ir neatitinka šių kriterijų, tačiau jų kiekvieno atskirai ar visų kartu turimų konkurso dalyvio akcijų ar balsavimo teisių dalių procentinė išraiška, vertinant pagal šio straipsnio 11 dalyje numatytus principus, nesudaro ir neviršija Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 2 straipsnio 14 dalyje nurodyto dydžio (toliau – kvalifikuotoji akcijų paketo dalis);
+6. Jeigu per šio įstatymo 22 straipsnio 32 dalyje nurodytą terminą konkurso laimėtojas nesumoka vystymo mokesčio, Valstybinė energetikos reguliavimo taryba panaikina sprendimą, kuriuo konkurso dalyvis buvo paskelbtas konkurso laimėtoju. Tokiu atveju konkurso laimėtoju pripažįstamas kitas potencialių konkurso laimėtojų sąraše esantis potencialus konkurso laimėtojas, atitinkantis nacionalinio saugumo interesus. 
 
 
 
 
-c) asmenys, kurie nėra konkurso dalyvio tiesioginiai akcininkai, netiesioginiai akcininkai ir (ar) galutiniai naudos gavėjai ir kuriems yra perleistos balsavimo teisės šio straipsnio 11 dalies 3 punkte numatytais atvejais (toliau – tretieji asmenys), atitinka europinės ir transatlantinės integracijos kriterijus arba, nors ir neatitinka šių kriterijų, tačiau jų kiekvieno atskirai ar visų kartu turimų balsavimo teisių dalių procentinė išraiška, vertinant pagal šio straipsnio 11 dalyje numatytus principus, nesudaro ir neviršija kvalifikuotosios akcijų paketo dalies;
+7. Konkursas laikomas neįvykusiu ir naują konkurso paskelbimo datą nustato Vyriausybė šiais atvejais:
 
 
-
-
-d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės asmuo atitinka šio punkto a, b ir c papunkčių nuostatas;
-
-
-
-
-
-
-2) Valstybinei energetikos reguliavimo tarybai pateikę patvirtinimą, kad, konkurso dalyvį pripažinus konkurso laimėtoju, laimėtojas, įgyvendindamas elektrinių plėtros jūrinėje teritorijoje projektą, įsipareigoja laikytis Vyriausybės nustatytų reikalavimų, kurie susiję su šiltnamio efektą sukeliančių dujų išmetimo mažinimo tikslais, investicijomis į aplinkos apsaugą, parama, kurios dydis apskaičiuojamas dauginant praėjusiais kalendoriniais metais pagamintą ir į elektros tinklus patiektą elektros energijos kiekį iš 1 euro už 1 MWh ir kuri Vyriausybės nustatyta tvarka skiriama vietos bendruomenėms, taip pat kurie susiję su mažų ir vidutinių įmonių įtraukimu į projekto įgyvendinimą;
-
-
-
-
-3) Valstybinei energetikos reguliavimo tarybai pateikę Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nurodytus dokumentus, patvirtinančius dalyvio atitiktį Vyriausybės nustatytiems reikalavimams dėl finansinio pajėgumo ir turimos patirties įgyvendinant elektrinių plėtros jūrinėje teritorijoje projektus;
-
-
-
-
-4) Valstybinei energetikos reguliavimo tarybai pateikę patvirtinimą, kad įsipareigoja prisiimti atsakomybę už prisijungimą prie elektros perdavimo tinklų sausumos teritorijoje ir atsakomybę už pagamintos elektros energijos sukeltą disbalansą;
-
-
-
-
-5) pasirašę Elektros energetikos įstatymo 22 straipsnio 8 dalyje nurodytą ketinimų protokolą ir pateikę Elektros energetikos įstatymo 211 straipsnio 1 dalyje nurodytą asmens prievolių įvykdymo užtikrinimą;
-
-
-
-
-6) Valstybinei energetikos reguliavimo tarybai pateikę patvirtinimą, kad statys naujas elektrines ar įrengs anksčiau neeksploatuotas elektrines, kurių statybai ar įrengimui bus naudojama anksčiau neeksploatuota elektrotechninė įranga ir kurių įrengtoji galia bus ne mažesnė negu Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje nustatyta mažiausia elektrinių įrengtoji galia, o leistina generuoti galia bus ne didesnė negu šiame punkte nurodytame nutarime nustatyta elektrinių leistina generuoti galia;
-
-
-
-
-7) Valstybinei energetikos reguliavimo tarybai sumokėję konkurso dalyvio mokestį, kuris Valstybinės energetikos reguliavimo tarybos nustatomas įvertinus konkurso organizavimo sąnaudas;
-
-
-
-
-8) nėra iškelta bankroto byla arba kreditoriai nevykdo bankroto procedūrų ne teismo tvarka;
-
-
-
-
-9) nėra iškelta restruktūrizavimo byla;
-
-
-
-
-10) nėra priimtas teismo, kreditorių ar juridinio asmens dalyvių sprendimas likviduoti juridinį asmenį;
-
-
-
-
-11) yra vykdomi įsipareigojimai, susiję su mokesčių mokėjimu. Asmuo laikomas įvykdžiusiu įsipareigojimus, susijusius su mokesčių mokėjimu, jeigu jo neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų;
-
-
-
-
-12) yra įvykdyti įsipareigojimai, susiję su viešuosius interesus atitinkančių paslaugų lėšų mokėjimu, arba suderintas šių įsipareigojimų įvykdymo grafikas;
-
-
-
-
-13) yra vykdomi įsipareigojimai, susiję su socialinio draudimo įmokų mokėjimu. Asmuo laikomas įvykdžiusiu įsipareigojimus, susijusius su socialinio draudimo įmokų mokėjimu, jeigu jo neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų;
-
-
-
-
-14) per pastaruosius 5 metus nėra įsiteisėjęs apkaltinamasis teismo nuosprendis už nusikalstamas veikas nuosavybei, turtinėms teisėms ir turtiniams interesams, intelektinei ir pramoninei nuosavybei, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams;
-
-
-
-
-15) juridinio asmens vadovas ar valdymo organo narys (nariai), ūkinės bendrijos tikrasis narys (nariai) ar fizinis asmuo neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens vadovo ar valdymo organo nario (narių), ūkinės bendrijos tikrojo nario (narių) ar fizinio asmens per pastaruosius 5 metus nėra įsiteisėjęs apkaltinamasis teismo nuosprendis už dalyvavimą nusikalstamame susivienijime, jo organizavimą ar vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kredito, paskolos, tikslinės paramos, subsidijos ar dotacijos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, nusikalstamu būdu gauto turto legalizavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą;
-
-
-
-
-16) pateikę informaciją apie pagrindinius planuojamo įgyvendinti elektrinių plėtros jūrinėje teritorijoje projekto etapus, planuojamus statybų ir kitų susijusių darbų įgyvendinimo tvarkaraščius, kuriuose įtvirtinti terminai negali būti ilgesni negu šio straipsnio 25 dalyje nustatyti terminai, planuojamus finansavimo šaltinius bei kitą Vyriausybės nustatytą su elektrinių plėtros jūrinėje teritorijoje projektu susijusią informaciją ir įsipareigojimą laiku ir tinkamai laikytis pateiktų elektrinių plėtros jūrinėje teritorijoje projekto įgyvendinimo terminų bei kitų teisės aktuose nustatytų įsipareigojimų;
-
-
-
-
-17) Valstybinei energetikos reguliavimo tarybai pateikę patvirtinimą, kad, laimėję konkursą, įsipareigoja per ne ilgesnį kaip 3 mėnesių laikotarpį, kai konkurso laimėtojas yra juridinis asmuo, kitos valstybės narės juridinis asmuo ar kitos organizacijos padalinys, įsisteigti Lietuvos Respublikoje. 
-
-
-
-
-
-
-11. Vertinant tiesioginių akcininkų, netiesioginių akcininkų, galutinių naudos gavėjų ir trečiųjų asmenų akcijų ir balsavimo teisių procentinę išraišką, taikomi šie principai:
-
-
-1) jeigu netiesioginis akcininkas ir (ar) galutinis naudos gavėjas neatitinka europinės ir transatlantinės integracijos kriterijų, jų turima akcijų paketo dalis nustatoma pagal sandaugos taisyklę, pagal kurią padauginamos konkurso dalyvio akcininkų eilėje esančios akcijų paketo dalys, pradedant nuo netiesioginio akcininko ar galutinio naudos gavėjo turimos akcijų paketo dalies, kuri padauginama iš akcijų paketo dalies, valdomos aukštesniame lygyje, ir taip tęsiama akcininkų eilėje iki tiesioginių akcininkų turimos akcijų paketo dalies;
-
-
-
-
-2) jeigu du ar daugiau tiesioginių akcininkų, netiesioginių akcininkų ir (ar) galutinių naudos gavėjų neatitinka europinės ir transatlantinės integracijos kriterijų, o jų kiekvieno atskirai turima akcijų paketo dalis nesudaro ir neviršija kvalifikuotosios akcijų paketo dalies, atliekant vertinimą sudedamos tokių tiesioginių akcininkų, netiesioginių akcininkų ir (ar) galutinių naudos gavėjų turimos konkurso dalyvio akcijų paketo dalys, apskaičiuotos pagal šios dalies 1 punkte nustatytą sandaugos taisyklę;
-
-
-
-
-3) jeigu tiesioginiams akcininkams, netiesioginiams akcininkams, galutiniams naudos gavėjams ir (ar) tretiesiems asmenims yra perleistos kitų tiesioginių akcininkų, netiesioginių akcininkų ir (ar) galutinių naudos gavėjų balsavimo teisės, įvertinama, ar tiesioginių akcininkų, netiesioginių akcininkų, galutinių naudos gavėjų ir (ar) trečiųjų asmenų, neatitinkančių europinės ir transatlantinės integracijos kriterijų, kiekvieno atskirai ar visų kartu turima balsavimo teisių suma nesudaro arba neviršija kvalifikuotosios akcijų paketo dalies. Netiesioginių akcininkų, galutinių naudos gavėjų ir (ar) trečiųjų asmenų turima bendra balsavimo teisių suma apskaičiuojama šios dalies 1 ir 2 punktuose nustatyta tvarka. Balsavimo teisių dalis ir akcijų paketo dalis nėra sumuojamos;
-
-
-
-
-4) jeigu konkurso dalyvis, jo tiesioginiai akcininkai ir (ar) jo netiesioginiai akcininkai yra bendrovės, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, vertybinių popierių dalis, kuria prekiaujama reguliuojamoje rinkoje, šios dalies 1–3 punktuose nustatyta tvarka vertinama tik tuo atveju, jeigu ji sudaro arba viršija kvalifikuotąją akcijų paketo dalį.
-
-
-
-
-
-
-12. Šio straipsnio 10 dalies 1, 8–15 punktuose numatytus reikalavimus privalo atitikti kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės dalyvis.
-
-
-
-
-13. Pirmasis konkurso dalyvio realiu laiku siūlomas vystymo mokestis turi būti ne mažesnis kaip 5 milijonai eurų. Kiekvieno konkurso dalyvio realiu laiku siūlomas vystymo mokestis turi būti ne mažesne kaip 5 milijonų eurų suma didesnis už prieš tai pasiūlytą vystymo mokestį.
-
-
-
-
-14. Valstybinė energetikos reguliavimo taryba ne vėliau kaip kitą darbo dieną po pasiūlymų teikimo etapo pabaigos, laikydamasi duomenų apsaugos reikalavimų, paskelbia potencialių konkurso laimėtojų sąrašą, rikiuodama konkurso dalyvius pagal konkurso dalyvių nurodytą didžiausią vystymo mokestį, ir potencialiu konkurso laimėtoju paskelbia konkurso dalyvį, pasiūliusį didžiausią vystymo mokestį. Sutapus konkurso dalyvių pasiūlytiems vystymo mokesčiams, potencialus konkurso laimėtojas nustatomas Konkursų organizavimo ir leidimų išdavimo tvarkos apraše nustatyta tvarka, vadovaujantis pirmumo principu.
-
-
-
-
-15. Jeigu per šio straipsnio 31 dalyje nurodytą laikotarpį konkurso laimėtojas nesumoka vystymo mokesčio, Valstybinė energetikos reguliavimo taryba panaikina sprendimą, kuriuo konkurso dalyvis buvo paskelbtas konkurso laimėtoju. Tokiu atveju konkurso laimėtoju pripažįstamas kitas potencialių konkurso laimėtojų sąraše esantis potencialus konkurso laimėtojas, atitinkantis šio straipsnio 17 dalyje numatytus nacionalinio saugumo interesus.
-
-
-
-
-16. Konkursas laikomas neįvykusiu ir naują konkurso paskelbimo datą nustato Vyriausybė šiais atvejais:
-
-
-1) jeigu per asmenų, siekiančių dalyvauti konkurse, registracijos ir dokumentų teikimo etapo laikotarpį užregistruojama mažiau kaip du asmenys, siekiantys dalyvauti konkurse;
+1) jeigu per asmenų, siekiančių dalyvauti konkurse, registracijos ir dokumentų teikimo etapo laikotarpį užregistruojama mažiau negu du asmenys, siekiantys dalyvauti konkurse;
 
 
 
@@ -3992,217 +3446,17 @@ d) kiekvienas jungtinės veiklos sutarties pagrindu veikiančios asmenų grupės
 
 
 
-3) potencialiu konkurso laimėtoju laikomas konkurso dalyvis, kuris, vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu, nustatomas kaip neatitinkantis nacionalinio saugumo interesų arba atsisako būti konkurso laimėtoju ir daugiau potencialių konkurso laimėtojų sąraše nėra įrašyta konkurso dalyvių.
+3) potencialiu konkurso laimėtoju laikomas konkurso dalyvis, vadovaujantis Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymu, nustatomas kaip neatitinkantis nacionalinio saugumo interesų arba atsisako būti konkurso laimėtoju ir daugiau potencialių konkurso laimėtojų sąraše nėra įrašyta konkurso dalyvių.
 
 
 
 
 
 
-17. Valstybinė energetikos reguliavimo taryba ne vėliau kaip per 5 darbo dienas nuo potencialaus konkurso laimėtojo nustatymo inicijuoja jo patikrą dėl atitikties nacionalinio saugumo interesams ir potencialų konkurso laimėtoją pripažįsta konkurso laimėtoju tik įsitikinusi, kad jis nekelia rizikos ar grėsmės nacionalinio saugumo interesams. Vadovaujantis Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 12 straipsniu, Vyriausybei priėmus sprendimą, kad potencialiu konkurso laimėtoju pripažintas konkurso dalyvis neatitinka nacionalinio saugumo interesų, konkurso laimėtoju pripažįstamas kitas potencialių konkurso laimėtojų sąraše iš eilės einantis potencialus konkurso laimėtojas, atitinkantis nacionalinio saugumo interesus.
+8. Konkurso laimėtojas, gavęs leidimą plėtrai ir eksploatacijai, turi atlikti jūrinės teritorijos tyrimus ir kitus veiksmus, kurie yra reikalingi elektrinių jūrinėje teritorijoje ir šio įstatymo 22 straipsnio 18 dalyje nurodytos infrastruktūros plėtrai ir statybai tinkamai įgyvendinti.
 
 
-
-
-18. Konkurso laimėtojas įrengia, eksploatuoja, nuosavybės teise valdo infrastruktūrą, reikalingą atsinaujinančius išteklius naudojančioms elektrinėms prijungti prie elektros perdavimo tinklų, nuo šių elektrinių iki elektros tinklų operatoriaus nurodyto prijungimo taško ir atsakomybės ribų transformatorių pastotėje sausumos teritorijoje. Konkurso laimėtojas elektros tinklų operatoriaus nustatyta tvarka padengia elektros tinklų operatoriaus patirtas transformatorių pastotės sausumos teritorijoje plėtros, reikalingos šioms elektrinėms prijungti, sąnaudas. Kai į transformatorių pastotę yra prijungiama daugiau negu viena elektrinė, transformatorių pastotės sausumos teritorijoje plėtros sąnaudos tarp elektrinių vystytojų padalijamos proporcingai jungiamų elektrinių leistinai generuoti galiai.
-
-
-
-
-19. Konkurso laimėtojas, gavęs leidimą plėtrai ir eksploatacijai, įgyja teisę naudoti jūrinės teritorijos dalį (dalis), nustatytą (nustatytas) Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje, atsinaujinančius išteklius naudojančių elektrinių plėtrai, statybai ir eksploatacijai. Leidimas plėtrai ir eksploatacijai taip pat suteikia teisę naudoti jūrinę teritoriją šioms elektrinėms reikalingai infrastruktūrai įrengti. Konkrečias jūrinės teritorijos naudojimo sąlygas nustato Vyriausybė arba Vyriausybės įgaliota (įgaliotos) institucija (institucijos). Valstybinės žemės patikėtinio sutikimas dėl valstybinės žemės naudojimo atsinaujinančius išteklius naudojančių elektrinių plėtrai, statybai, eksploatacijai jūrinės teritorijos dalyje (dalyse), nustatytoje (nustatytose) Vyriausybės nutarime dėl elektrinių plėtros jūrinėje teritorijoje, ir su jomis susijusios šio straipsnio 18 dalyje nurodytos infrastruktūros plėtros ir statybos nereikalingas.
-
-
-
-
-20. Konkurso laimėtojas, gavęs leidimą plėtrai ir eksploatacijai, turi atlikti jūrinės teritorijos tyrimus ir kitus veiksmus, kurie yra reikalingi elektrinių jūrinėje teritorijoje ir šio straipsnio 18 dalyje nurodytos infrastruktūros plėtrai ir statybai tinkamai įgyvendinti.
-
-
-
-
-21. Vyriausybės įgaliota institucija savo interneto svetainėje šio straipsnio 1 dalyje numatytų veiksmų atlikimo išlaidas viešai skelbia per 5 kalendorines dienas nuo šių veiksmų atlikimo dienos. Šios išlaidos yra kompensuojamos šio įstatymo šiame ir (ar) 22 straipsniuose numatytus konkursus laimėjusio (laimėjusių) dalyvio (dalyvių), taikant proporcingumo principą. Kompensacija mokama Vyriausybės įgaliotai institucijai. Kompensacijos mokėjimo ir naudojimo tvarką ir terminus nustato Vyriausybė.
-
-
-
-
-22. Atsiradus papildomų elektros energijos gamybos pajėgumų plėtros poreikiui, Vyriausybės įgaliota institucija įvertina jų įrengimo tikslingumą ir prireikus peržiūri ar atnaujina šio straipsnio 1 dalyje numatytų veiksmų rezultatus ir pateikia Vyriausybei pasiūlymus dėl naujo Vyriausybės nutarimo, nurodyto šio įstatymo 5 straipsnio 1 dalies 9 punkte, priėmimo, tolesnės elektrinių plėtros jūrinėje teritorijoje koncepcijos ir konkurso organizavimo modelio.
-
-
-
-
-23. Leidimai plėtrai ir eksploatacijai šio įstatymo nustatyta tvarka ir sąlygomis išduodami fiziniams asmenims arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje, kurie šio straipsnio 17 dalyje nustatyta tvarka pripažinti konkurso laimėtojais ir kurie pateikia įsipareigojimą visą leidimo plėtrai ir eksploatacijai galiojimo laikotarpį atitikti europinės ir transatlantinės integracijos kriterijus, vadovaudamiesi šio straipsnio 10 dalies 1 punkte ir 11 dalyje nustatytais principais. Kai konkurso laimėtojas, siekdamas gauti leidimą plėtrai ir eksploatacijai, įsteigia juridinį asmenį ar kitos organizacijos padalinį Lietuvos Respublikoje, leidimas plėtrai ir eksploatacijai išduodamas konkurso laimėtojo įsteigtam juridiniam asmeniui, kitų valstybių narių juridinio asmens ar kitos organizacijos padaliniui. Šiuo atveju konkurso laimėtojas turi laiduoti Valstybinei energetikos reguliavimo tarybai jos nustatyta tvarka, kad jo įsteigtas juridinis asmuo ar kitos organizacijos padalinys vykdys šio straipsnio 10 dalyje nurodytas prievoles ir tinkamai įgyvendins šiame įstatyme nustatytus reikalavimus, taikomus atsinaujinančius išteklius naudojančių elektrinių plėtrai ir eksploatacijai jūrinėje teritorijoje. Šiam juridiniam asmeniui ar kitos organizacijos padaliniui mutatis mutandis taikomos šioje dalyje ir šio straipsnio 10 dalyje nustatytos sąlygos.
-
-
-
-
-24. Konkurso laimėtojo atitikties šio straipsnio 23 dalyje nurodytiems reikalavimams įvertinimo tvarka ir įspėjimo apie leidimo plėtrai ir eksploatacijai galiojimo sustabdymą, galiojimo sustabdymo panaikinimo, informavimo apie galiojimo panaikinimą, galiojimo sustabdymo ir galiojimo panaikinimo pagrindų taikymo tvarka nustatoma Konkursų organizavimo ir leidimų išdavimo tvarkos apraše.
-
-
-
-
-25. Asmuo, gavęs leidimą plėtrai ir eksploatacijai, neturi teisės įgalioti kitų asmenų verstis šiame leidime nurodyta veikla arba perduoti jiems šios teisės pagal sutartį ar kitais pagrindais ir privalo laikytis šių veiklos sąlygų:
-
-
-1) per 3 metus nuo leidimo plėtrai ir eksploatacijai gavimo dienos gauti statybą leidžiantį dokumentą;
-
-
-
-
-2) per 6 metus nuo leidimo plėtrai ir eksploatacijai gavimo dienos gauti leidimą gaminti elektros energiją ketinimų protokole nurodytai elektrinės leistinai generuoti galiai;
-
-
-
-
-3) nedidinti leidime plėtrai ir eksploatacijai numatytos leistinos generuoti galios, nemažinti leidime plėtrai ir eksploatacijai numatytos įrengtosios galios bei neplėsti teritorijos;
-
-
-
-
-4) laiku ir tinkamai vykdyti pagal šio straipsnio 10 dalies 2 ir 17 punktus prisiimtus įsipareigojimus;
-
-
-
-
-5) Vyriausybės nustatyta tvarka ir terminais Lietuvos energetikos agentūrai teikti ataskaitas apie elektrinių plėtros jūrinėje teritorijoje projekto įgyvendinimo eigą ir apie šio straipsnio 10 dalies 2 ir 17 punktuose nurodytų prisiimtų reikalavimų vykdymą.
-
-
-
-
-
-
-26. Už leidimų plėtrai ir eksploatacijai reguliuojamos veiklos sąlygų pažeidimus Valstybinė energetikos reguliavimo taryba įspėja šio leidimo turėtoją apie galimą leidimo galiojimo sustabdymą šio straipsnio 27 dalyje nustatytais pagrindais ir, šioje dalyje nustatytais terminais nepašalinus reguliuojamos veiklos pažeidimų, sustabdo jų galiojimą arba informuoja apie šio leidimo galiojimo panaikinimą šio straipsnio 29 dalyje nustatytais pagrindais. Leidimo plėtrai ir eksploatacijai turėtojui, kuris yra įspėtas apie leidimo galiojimo sustabdymą ar kurio leidimo galiojimas yra sustabdytas, nustatomas 30 kalendorinių dienų laikotarpis, per kurį turi būti pašalinti reguliuojamos veiklos pažeidimai. Pažeidimams pašalinti gali būti nustatomas ilgesnis laikotarpis, jeigu tai reikalinga dėl objektyvių priežasčių: dėl nuo leidimo turėtojo nepriklausančių priežasčių – valstybės, kitų asmenų veiksmų ar neveikimo arba nenugalimos jėgos aplinkybių – leidimo turėtojas šio straipsnio 25 dalyje nustatytais terminais negauna statybą leidžiančio dokumento ar leidimo gaminti elektros energiją. Laikotarpis pažeidimams pašalinti nustatomas atsižvelgiant į jiems pašalinti reikalingą laikotarpį ir negali būti ilgesnis kaip 90 kalendorinių dienų, išskyrus atvejus, kai pažeidimams, įvykusiems dėl valstybės, kitų asmenų veiksmų ar neveikimo arba nenugalimos jėgos aplinkybių, pašalinti reikalingas ilgesnis laikotarpis.
-
-
-
-
-27. Leidimo plėtrai ir eksploatacijai galiojimą Valstybinė energetikos reguliavimo taryba sustabdo, jeigu:
-
-
-1) išdavus leidimą plėtrai ir eksploatacijai leidimo galiojimo laikotarpiu paaiškėja, kad konkursui pateiktuose dokumentuose pateikti netikslūs duomenys arba duomenys turi trūkumų;
-
-
-
-
-2) leidimo plėtrai ir eksploatacijai turėtojas pažeidė šio straipsnio 25 dalies 2 ir 3 punktuose nustatytas reguliuojamos veiklos sąlygas, išskyrus atvejus, kai pastatoma mažesnės, negu nurodyta ketinimų protokole, leistinos generuoti galios ir (ar) įrengtosios galios elektrinė;
-
-
-
-
-3) leidimo plėtrai ir eksploatacijai turėtojas ilgiau negu vienus metus nevykdo įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, išskyrus atvejus, kai neįvykdytų įsipareigojimų, susijusių su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, suma yra mažesnė kaip 50 eurų;
-
-
-
-
-4) leidimo plėtrai ir eksploatacijai turėtojas leidimo galiojimo laikotarpiu neatitinka šio straipsnio 23 dalyje nurodyto reikalavimo dėl atitikties europinės ir transatlantinės integracijos kriterijams.
-
-
-
-
-
-
-28. Kai leidimo plėtrai ir eksploatacijai turėtojas per Valstybinės energetikos reguliavimo tarybos nustatytą laikotarpį pateikia dokumentus, įrodančius, kad šio straipsnio 27 dalyje nurodyti pažeidimai pašalinti, Valstybinė energetikos reguliavimo taryba ne vėliau kaip per 10 kalendorinių dienų nuo šių dokumentų gavimo dienos panaikina šio leidimo galiojimo sustabdymą.
-
-
-
-
-29. Leidimo plėtrai ir eksploatacijai galiojimą Valstybinė energetikos reguliavimo taryba panaikina, jeigu:
-
-
-1) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas jau buvo sustabdytas, pakartotinai per 12 mėnesių nuo šio leidimo galiojimo sustabdymo dienos pažeidžia šio straipsnio 25 dalies 3 punkte nustatytas reguliuojamos veiklos sąlygas;
-
-
-
-
-2) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas sustabdytas šio straipsnio 27 dalies 1 punkte nurodytu pagrindu, per pažeidimams pašalinti nustatytą laikotarpį nepateikia patikslintų duomenų, nepašalina netikslumų arba Valstybinė energetikos reguliavimo taryba nustato, kad pateikti duomenys neatitinka reikalavimų, galiojusių leidimo plėtrai ir eksploatacijai išdavimo dieną;
-
-
-
-
-3) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas sustabdytas šio straipsnio 27 dalies 2, 3 ar 4 punkte nurodytais pagrindais, per pažeidimams pašalinti nustatytą laikotarpį jų nepašalino;
-
-
-
-
-4) leidimo plėtrai ir eksploatacijai turėtojas, kurio leidimo galiojimas sustabdytas, vykdo leidime nurodytą veiklą;
-
-
-
-
-5) leidimą plėtrai ir eksploatacijai turintis juridinis asmuo pasibaigė jį likvidavus ar reorganizavus;
-
-
-
-
-6) fizinis asmuo, turėjęs leidimą plėtrai ir eksploatacijai, miršta;
-
-
-
-
-7) leidimo plėtrai ir eksploatacijai turėtojas Valstybinei energetikos reguliavimo tarybai pateikia prašymą panaikinti leidimo plėtrai ir eksploatacijai galiojimą.
-
-
-
-
-
-
-30. Valstybinė energetikos reguliavimo taryba prižiūri, kaip laikomasi leidime plėtrai ir eksploatacijai nustatytų reguliuojamos veiklos sąlygų. 
-
-
-
-
-31. Šiame straipsnyje nurodytas konkurso dalyvis, pagal šio straipsnio 17 dalį pripažintas konkurso laimėtoju, per 60 kalendorinių dienų nuo paskelbimo konkurso laimėtoju dienos Vyriausybės nustatyta tvarka sumoka vystymo mokestį į atskirą valstybės iždo sąskaitą.
-
-
-
-
-32. Kai perdavimo sistemos operatorius Elektros energetikos įstatymo 211 straipsnyje nustatyta tvarka ir sąlygomis pasinaudoja konkurso dalyvio pateiktu prievolių įvykdymo užtikrinimu, jis gautas lėšas Vyriausybės nustatyta tvarka perveda į šio straipsnio 34 dalyje nurodytą sąskaitą.
-
-
-
-
-33. Leidimo plėtrai ir eksploatacijai turėtojas Vyriausybės nustatyta tvarka į atskirą valstybės iždo sąskaitą lėšas perveda šiais atvejais:
-
-
-1) kai nesilaiko pagal šio straipsnio 10 dalies 2 punktą prisiimtų veiklos sąlygų ir įsipareigojimų, išskyrus atvejus, kai prisiimtas veiklos sąlygas ir įsipareigojimus įvykdyti vėluoja dėl valstybės, kitų asmenų veiksmų ar neveikimo arba nenugalimos jėgos aplinkybių. Šiuo atveju leidimo plėtrai ir eksploatacijai turėtojas sumoka baudą, lygią prisiimtiems įsipareigojimams;
-
-
-
-
-2) kai nesilaiko pagal šio straipsnio 10 dalies 17 punktą prisiimtų veiklos sąlygų ir įsipareigojimų, išskyrus atvejus, kai prisiimtas veiklos sąlygas ir įsipareigojimus įvykdyti vėluoja dėl valstybės, kitų asmenų veiksmų ar neveikimo arba nenugalimos jėgos aplinkybių. Šiuo atveju leidimo plėtrai ir eksploatacijai turėtojas už kiekvieną pradelstą dieną sumoka baudą, apskaičiuojamą 0,0342 Eur/kW dauginant iš laikotarpio nuo dienos, kai leidimo plėtrai ir eksploatacijai turėtojas turėjo įvykdyti įsipareigojimus, iki dienos, kai juos faktiškai įvykdė;
-
-
-
-
-3) kai nesilaiko šio straipsnio 25 dalies 1 punkte nustatytų veiklos sąlygų ir per 3 metus nuo leidimo plėtrai ir eksploatacijai gavimo dienos nėra gavęs statybą leidžiančio dokumento, išskyrus atvejus, kai prisiimtas veiklos sąlygas ir įsipareigojimus įvykdyti vėluoja dėl valstybės, kitų asmenų veiksmų ar neveikimo arba nenugalimos jėgos aplinkybių. Šiuo atveju leidimo plėtrai ir eksploatacijai turėtojas už kiekvieną pradelstą dieną sumoka baudą, apskaičiuojamą 0,0342 Eur/kW dauginant iš laikotarpio nuo dienos, kai leidimo plėtrai ir eksploatacijai turėtojas turėjo gauti statybą leidžiantį dokumentą, iki dienos, kai šis dokumentas gaunamas arba leidimas plėtrai ir eksploatacijai panaikinamas šio straipsnio 29 dalyje numatytais pagrindais;
-
-
-
-
-4) kai nesilaiko šio straipsnio 25 dalies 5 punkte nustatytų veiklos sąlygų ir neteikia ataskaitų apie elektrinių plėtros jūrinėje teritorijoje projekto įgyvendinimo eigą ir kitus įsipareigojimus. Šiuo atveju leidimo plėtrai ir eksploatacijai turėtojas už kiekvieną pradelstą dieną sumoka baudą, apskaičiuojamą 0,0342 Eur/kW dauginant iš laikotarpio nuo dienos, kai leidimo plėtrai ir eksploatacijai turėtojas turėjo pateikti ataskaitą, iki dienos, kai ją pateikė;
-
-
-
-
-5) kai vykdant šio straipsnio 10 dalies 2 punkte nustatytus reikalavimus konkurso laimėtojas yra įpareigojamas pervesti lėšas į valstybės iždo sąskaitą.
-
-
-
-
-
-
-34. Pagal šio straipsnio 31, 32 ir 33 dalis gautos lėšos yra kaupiamos atskiroje valstybės iždo sąskaitoje, kuri skelbiama Energetikos ministerijos interneto svetainėje. Šias lėšas Vyriausybės nustatyta tvarka administruoja Vyriausybės įgaliota institucija. Pagal šio straipsnio 31, 32 ir 33 dalis gautos lėšos Vyriausybės nustatyta tvarka naudojamos tikslais, susijusiais su atsinaujinančių energijos išteklių plėtra, energijos efektyvumo didinimu, taip pat moksliniams tyrimams ir inovacijoms atsinaujinančių išteklių energetikos sektoriuje. Šias lėšas Vyriausybės nustatyta tvarka administruoja Vyriausybės įgaliota institucija. Pagal šio straipsnio 31 dalį gautos lėšos Vyriausybės sprendimu taip pat gali būti naudojamos galutiniams elektros energijos vartotojams remti skirtoms priemonėms, kuriomis švelninamas didelių elektros energijos kainų poveikis tiems vartotojams, finansuoti, įskaitant priemones, finansuojamas iš valstybės biudžeto lėšų, pagal Energetikos įstatymo 192 straipsnį vykdomoms priemonėms padengti ar valstybės biudžeto skolai, atsiradusiai dėl šių priemonių, sumažinti.
-
-
-
-
-35. Elektros energija, pagaminta iš atsinaujinančių išteklių, taip pat elektros energija, pagaminta elektrinėse jų technologinių bandymų metu, kai elektrinė yra prijungta prie elektros perdavimo tinklų, prekiaujama pagal atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartis ir (ar) energetikos ministro tvirtinamose elektros energijos rinkos taisyklėse nustatyta tvarka ir būdais.
-
-
-
-
-36. Teritorijų, reikalingų prijungti atsinaujinančius energijos išteklius naudojančias elektrines, planuojamas plėtoti jūrinės teritorijos dalyje (dalyse), prie elektros perdavimo tinklų, parengimo inžinerinės infrastruktūros plėtrai projektas yra pripažįstamas ypatingos valstybinės svarbos projektu, kurį įgyvendinant taikomas Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas, išskyrus reikalavimą pateikti projekto galimybių studiją. Projektą įgyvendinanti institucija yra Energetikos ministerija.
-
-
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 Nr. XIV-1698, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27271
  
 
@@ -4321,8 +3575,6 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 
 
-2. Pasinaudojus šiais paramos šaltiniais, netenkama galimybės naudotis skatinimo priemone, nurodyta šio įstatymo 11 straipsnio 3 punkte. 
-2 dalies redakcija, įsigaliojanti praėjus 2 mėnesiams po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas:
 2. Pasinaudojus šiais paramos šaltiniais, netenkama galimybės naudotis skatinimo priemone, nurodyta šio įstatymo 11 straipsnio 7 punkte.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1001, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07250
