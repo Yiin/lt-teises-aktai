@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-12-14
+Suvestinė redakcija nuo 2023-12-15 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -366,7 +366,7 @@ Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
 
 
 
-6) atlieka valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų, kurie finansuojami valstybės biudžeto lėšomis ar iš kitų finansavimo šaltinių, kokybės vertinimą, kokybės kontrolinius patikrinimus ir techninę, ekonominę ir aplinkos apsaugos stebėseną.
+6) atlieka valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų, kurie finansuojami valstybės biudžeto lėšomis ar iš kitų finansavimo šaltinių, kokybės vertinimą, kokybės kontrolinius patikrinimus ir techninę, ekonominę ir aplinkos apsaugos stebėseną;
 
 
 Straipsnio dalies pakeitimai:
@@ -1323,3 +1323,28 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1890, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08611
 Lietuvos Respublikos kelių įstatymo Nr. I-891 11 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2132, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14324
+Lietuvos Respublikos kelių įstatymo Nr. I-891 10 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2201, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21641
+Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 5 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2225, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22371
+Lietuvos Respublikos kelių įstatymo Nr. I-891 5 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2226, 2023-11-09, paskelbta TAR 2023-11-23, i. k. 2023-22588
+Lietuvos Respublikos kelių įstatymo Nr. I-891 11 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2313, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24181
+Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas
