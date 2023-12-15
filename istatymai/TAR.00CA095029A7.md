@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/00ca095029a711eb932eb1ed7f923910"
 
 # Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-14
+Suvestinė redakcija nuo 2023-12-15 iki 2024-12-12
  
 Įstatymas paskelbtas: TAR 2020-11-18, i. k. 2020-24273
  
@@ -41,10 +41,11 @@ Pakeisti 17 straipsnio 4 dalį ir ją išdėstyti taip:
 
 2 straipsnis. Įstatymo įsigaliojimas
 
-Šis įstatymas įsigalioja 2024 m. liepos 1 d.
+Šis įstatymas įsigalioja 2025 m. liepos 1 d.
 
 Straipsnio pakeitimai:
 Nr. XIV-1703, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27292
+Nr. XIV-2313, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24181
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -60,5 +61,10 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1703, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27292
+Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2313, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24181
 Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas
 
