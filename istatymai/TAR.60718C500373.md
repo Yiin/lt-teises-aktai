@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60718c50037311edb32c9f9d8ba206f8"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2023-12-01 iki 2023-12-14
+Suvestinė redakcija nuo 2023-12-15 iki 2024-05-03
  
 Įstatymas paskelbtas: TAR 2022-07-14, i. k. 2022-15485
  
@@ -845,17 +845,17 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Profesoriaus pareigas gali eiti mokslininkas arba meno daktaras, esantis pirmaujantysis tyrėjas arba pripažintas menininkas. Profesoriaus pareigas einantis pirmaujantysis tyrėjas arba pripažintas menininkas turi rengti mokslininkus, dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą ir jiems vadovauti, skelbti tyrimų rezultatus. Profesoriaus pareigas einantis pripažintas menininkas, meno daktaras turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje ir (arba) formuoti meno projektų tematiką ir jiems vadovauti, skelbti tyrimų rezultatus.
+2. Profesoriaus pareigas gali eiti mokslininkas arba meno daktaras, esantis pirmaujantysis tyrėjas, arba pripažintas menininkas. Profesoriaus pareigas einantis pirmaujantysis tyrėjas turi rengti mokslininkus, dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą ir jiems vadovauti, skelbti tyrimų rezultatus. Profesoriaus pareigas einantis pripažintas menininkas turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje ir (arba) formuoti meno projektų tematiką ir jiems vadovauti.
 
 
 
 
-3. Docento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip pripažintas tyrėjas arba pripažintas menininkas. Docento pareigas einantis pripažintas tyrėjas arba pripažintas menininkas turi dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą, skelbti šios veiklos rezultatus. Docento pareigas einantis pripažintas menininkas, meno daktaras turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje.
+3. Docento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip pripažintas tyrėjas, arba pripažintas menininkas. Docento pareigas einantis ne žemesnės pakopos kaip pripažintas tyrėjas asmuo turi dėstyti studentams, vykdyti mokslinius tyrimus ir eksperimentinę plėtrą, skelbti šios veiklos rezultatus. Docento pareigas einantis pripažintas menininkas turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje.
 
 
 
 
-4. Asistento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip patvirtintas tyrėjas arba pripažintas menininkas. Asistentas turi vadovauti studentų praktiniams užsiėmimams (praktiniams darbams, pratyboms, studentų praktikai ir kt.), padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. Pastarasis reikalavimas gali būti netaikomas universiteto meno studijų asistentams.
+4. Asistento pareigas gali eiti mokslininkas arba meno daktaras, esantis ne žemesnės pakopos kaip patvirtintas tyrėjas, arba pripažintas menininkas. Asistentas turi vadovauti studentų praktiniams užsiėmimams (praktiniams darbams, pratyboms, studentų praktikai ir kt.), padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. Pastarasis reikalavimas gali būti netaikomas universiteto meno studijų asistentams.
 
 
 
@@ -870,12 +870,12 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 
 
-7. Į lektoriaus pareigas gali pretenduoti asmuo, turintis ne žemesnį kaip magistro kvalifikacinį laipsnį ar jam lygiavertę aukštojo mokslo kvalifikaciją. Lektorius turi dėstyti studentams, dirbti metodinį darbą.
+7. Į lektoriaus pareigas gali pretenduoti asmuo, turintis ne žemesnį kaip magistro kvalifikacinį laipsnį ar jam lygiavertę aukštojo mokslo kvalifikaciją. Lektorius turi dėstyti studentams, dirbti metodinį darbą.
 
 
 
 
-8. Aukštosios mokyklos gali nustatyti įvairias dėstytojų praktikų pareigybes. Tokie dėstytojai dėsto, veda praktinius užsiėmimus, vadovauja studentų praktiniams darbams, supažindina studentus su mokslinių tyrimų taikymu praktikoje, padeda jiems atlikti taikomosios mokslinės veiklos darbus, perteikia jiems praktinio darbo žinias. Į šias pareigas aukštosios mokyklos nustatyta tvarka priimami asmenys, turintys ne trumpesnę kaip 3 metų praktinio darbo patirtį dėstymo srityje ir profesinių pasiekimų. Atlikdami pareigas tokie dėstytojai privalo dirbti praktinį darbą dėstymo srityje ir turėti aukštosios mokyklos nustatyta tvarka numatytas dėstymo kompetencijas.
+8. Aukštosios mokyklos gali nustatyti įvairias dėstytojų praktikų pareigybes. Tokie dėstytojai dėsto, veda praktinius užsiėmimus, vadovauja studentų praktiniams darbams, supažindina studentus su mokslinių tyrimų taikymu praktikoje, padeda jiems atlikti taikomosios mokslinės veiklos darbus, perteikia jiems praktinio darbo žinias. Su į šias pareigas aukštosios mokyklos nustatyta tvarka priimamais asmenimis gali būti sudaryta terminuota darbo sutartis ne ilgesniam kaip 2 metų laikotarpiui. Atlikdami pareigas tokie dėstytojai privalo dirbti praktinį darbą ne mokslo ir studijų institucijose, turėti ne mažesnę kaip 3 metų tokio praktinio darbo, susijusio su dėstymo sritimi, patirtį, profesinių pasiekimų ir atitikti aukštosios mokyklos numatytas dėstymo kompetencijas. Aukštosioms mokykloms, į kurias dėstyti atvyksta dėstytojai praktikai iš užsienio valstybių, šiai akademinei veiklai švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti skiriama lėšų iš valstybės biudžeto.
 
 
 
@@ -891,6 +891,7 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 
 Straipsnio pakeitimai:
 Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
+Nr. XIV-2308, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24175
  
 
 
@@ -1643,3 +1644,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 24, 29 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2308, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24175
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 18 straipsnio pakeitimo įstatymas
