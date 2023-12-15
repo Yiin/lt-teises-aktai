@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f56dfdd0537811ec862fdcbc8b3e3e05"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymas
 
-Suvestinė redakcija nuo 2023-07-06 iki 2023-12-14
+Suvestinė redakcija nuo 2023-12-15
  
 Įstatymas paskelbtas: TAR 2021-12-02, i. k. 2021-25020
  
@@ -475,7 +475,7 @@ Pakeisti 753 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Pagal ekspertinio vertinimo suminius įverčius universitetams ir mokslinių tyrimų institutams paskirstoma 70 procentų visoms mokslo sritims tenkančių lėšų moksliniams tyrimams ir eksperimentinei plėtrai ir meno veiklai. Lėšos kiekvienos mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai skiriamos universitetams ir mokslinių tyrimų institutams proporcingai jų vertinamųjų vienetų mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo suminių įverčių ir šių vertinamųjų vienetų dydžių, išreikštų jų mokslininkų ir menininkų visos darbo dienos atitikmenimis, sandaugoms.
+2. Pagal mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo ir meno veiklos ekspertinio vertinimo suminius įverčius universitetams ir mokslinių tyrimų institutams paskirstoma 70 procentų visoms mokslo, meno sritims tenkančių lėšų moksliniams tyrimams ir eksperimentinei plėtrai ir meno veiklai. Lėšos kiekvienos mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai skiriamos universitetams ir mokslinių tyrimų institutams proporcingai jų vertinamųjų vienetų mokslinių tyrimų ir eksperimentinės plėtros ekspertinio vertinimo suminių įverčių ir šių vertinamųjų vienetų dydžių, išreikštų jų mokslininkų visos darbo dienos atitikmenimis, sandaugoms. Mokslininkų visos darbo dienos atitikmuo skaičiuojamas kaip tam tikros mokslo srities ar krypties visų institucijos dėstytojų, turinčių mokslo daktaro laipsnį, visos darbo dienos atitikmens, padalyto iš 2, ir visų šios mokslo srities ar krypties mokslo darbuotojų, turinčių mokslo daktaro laipsnį, visos darbo dienos atitikmens suma. Lėšos meno veiklai skiriamos universitetams proporcingai jų vertinamųjų vienetų meno veiklos ekspertinio vertinimo suminių įverčių ir šių vertinamųjų vienetų dydžių, išreikštų jų menininkų visos darbo dienos atitikmenimis, sandaugoms. Menininkų visos darbo dienos atitikmuo skaičiuojamas kaip tam tikros meno srities ar krypties visų institucijos dėstytojų menininkų visos darbo dienos atitikmens, padalyto iš 2, ir visų tyrėjų menininkų visos darbo dienos atitikmens suma.
 
 
 
@@ -500,16 +500,18 @@ Pakeisti 753 straipsnį ir jį išdėstyti taip:
 
 
 
-7. Universitetų ir mokslinių tyrimų institutų, įsteigtų įsigaliojus šiam įstatymui, ekspertinis vertinimas atliekamas ne anksčiau kaip po penkerių metų, o formalusis vertinimas atliekamas ne anksčiau kaip po metų nuo jų veiklos pradžios. Valstybės biudžeto bazinio finansavimo lėšas moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti institucijoms pirmiems metams skiria Vyriausybė ar jos įgaliota institucija, atsižvelgdama į universitetų ir mokslinių tyrimų institutų ekspertinio vertinimo rezultatų vidurkį, o vėlesniais metais skiria skatinamojo finansavimo lėšas pagal formaliojo vertinimo rezultatus, atsižvelgdama į Lietuvos mokslo tarybos siūlymą.“
+7. Universitetų ir mokslinių tyrimų institutų, įsteigtų po 2021 m. liepos 1 d., ekspertinis vertinimas atliekamas ne anksčiau kaip po penkerių metų, o formalusis vertinimas atliekamas ne anksčiau kaip po metų nuo jų veiklos pradžios. Valstybės biudžeto bazinio finansavimo lėšas moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti institucijoms pirmiems metams skiria Vyriausybė ar jos įgaliota institucija, atsižvelgdama į universitetų ir mokslinių tyrimų institutų ekspertinio vertinimo rezultatų vidurkį, o vėlesniais metais skiria skatinamojo finansavimo lėšas pagal formaliojo vertinimo rezultatus, atsižvelgdama į Lietuvos mokslo tarybos siūlymą.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2309, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24176
  
-
-
-
-
-
-
-
-
 
 
 
@@ -1034,9 +1036,19 @@ Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
 
 
 
-41. Šio įstatymo 11 straipsnyje išdėstytame Mokslo ir studijų įstatymo 762 straipsnyje numatytas valstybės biudžeto skatinamasis finansavimas mokslo ir studijų institucijoms už studijų veiklos pasiekimus pirmą kartą skiriamas 2024 metams pagal 2022–2023 studijų metų rezultatus.
+41. Šio įstatymo 8 straipsnyje išdėstyto Mokslo ir studijų įstatymo 753 straipsnio 2 dalyje nurodytas mokslininkų ir menininkų visos darbo dienos atitikmens skaičiavimas pirmą kartą taikomas 2028 metais atliekant ekspertinį universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros ir meno veiklos vertinimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2309, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24176
+ 
+
+
+
+
+42. Šio įstatymo 11 straipsnyje išdėstytame Mokslo ir studijų įstatymo 762 straipsnyje numatytas valstybės biudžeto skatinamasis finansavimas mokslo ir studijų institucijoms už studijų veiklos pasiekimus pirmą kartą skiriamas 2024 metams pagal 2022–2023 studijų metų rezultatus.
 Papildyta straipsnio dalimi:
 Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2309, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24176
  
 
 
@@ -1085,3 +1097,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2094, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13991
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 3 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2309, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24176
+Lietuvos Respublikos dėl Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, 83 straipsnių pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymo Nr. XIV-654 8 ir 16 straipsnių pakeitimo įstatymas
