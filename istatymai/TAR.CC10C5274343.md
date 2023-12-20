@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2023-09-01 iki 2023-12-19
+Suvestinė redakcija nuo 2023-12-20 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -1827,6 +1827,10 @@ V skyrius
 
 
 9. Negali būti sujungiami, padalijami, atidalijami ar perdalijimo būdu pertvarkomi areštuoti žemės sklypai arba teisminio ginčo objektu esantys žemės sklypai.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos žemės įstatymo (2022 m. birželio 30 d. redakcija; TAR, 2022-07-15, Nr. 15638) 29 straipsnio 9 dalis tiek, kiek pagal ją negali būti atidalijami areštuoti žemės sklypai arba teisminio ginčo objektu esantys žemės sklypai, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr.  KT109-N12/2023, 2023-12-20, paskelbta TAR 2023-12-20, i. k. 2023-24710
+ 
 
 
 
@@ -4152,3 +4156,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 10 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2114, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14307
 Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas
+ 
+32.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr.  KT109-N12/2023, 2023-12-20, paskelbta TAR 2023-12-20, i. k. 2023-24710
+Dėl Lietuvos Respublikos žemės įstatymo 30 straipsnio 9 dalies (2010 m. birželio 18 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
