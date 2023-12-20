@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/33d53292042311edb32c9f9d8ba206f8"
 
 # Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-12-19
+Suvestinė redakcija nuo 2023-12-20 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2022-07-15, i. k. 2022-15638
  
@@ -1797,6 +1797,10 @@ V skyrius
 
 
 9. Negali būti sujungiami, padalijami, atidalijami ar perdalijimo būdu pertvarkomi areštuoti žemės sklypai arba teisminio ginčo objektu esantys žemės sklypai.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos žemės įstatymo (2022 m. birželio 30 d. redakcija; TAR, 2022-07-15, Nr. 15638) 29 straipsnio 9 dalis tiek, kiek pagal ją negali būti atidalijami areštuoti žemės sklypai arba teisminio ginčo objektu esantys žemės sklypai, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr.  KT109-N12/2023, 2023-12-20, paskelbta TAR 2023-12-20, i. k. 2023-24710
+ 
 
 
 
@@ -5165,8 +5169,6 @@ SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
 27. Nuo 2024 m. sausio 1 d. savivaldybės perima valstybinės žemės patikėtinio – Nacionalinės žemės tarnybos – teises ir pareigas pagal sutartis, sudarytas dėl valstybinės žemės nuomos ar perdavimo neatlygintinai naudotis (panaudos) miestuose ir miesteliuose.
  
  
- 
- 
 
 
 
@@ -5199,3 +5201,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
+Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr.  KT109-N12/2023, 2023-12-20, paskelbta TAR 2023-12-20, i. k. 2023-24710
+Dėl Lietuvos Respublikos žemės įstatymo 30 straipsnio 9 dalies (2010 m. birželio 18 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
