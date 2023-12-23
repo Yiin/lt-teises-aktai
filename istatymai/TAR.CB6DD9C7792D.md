@@ -21,7 +21,7 @@ PAGALBOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-03-01 iki 2023-12-22
+Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 57-2850, i. k. 1131010ISTA0XII-311
  
@@ -574,6 +574,14 @@ Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 
 
+21. Akcinės bendrovės ir uždarosios akcinės bendrovės, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 1/2 balsų, jų patronuojamosios akcinės bendrovės ir uždarosios akcinės bendrovės, kaip jos suprantamos Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, bei visos kitos su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per patronuojamąsias bendroves susijusios paskesnių eilių patronuojamosios bendrovės, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje, gavusios Vyriausybės įgaliotos institucijos ir (ar) savivaldybės vykdomosios institucijos, kuri įgyvendina valstybės ir (ar) savivaldybės valdomos bendrovės ar atitinkamos įmonių grupę patronuojančios valstybės ir (ar) savivaldybės valdomos bendrovės dalyvio teises ir pareigas, pritarimą dėl humanitarinės pagalbos teikimo tikslingumo, priimtą atsižvelgus į Užsienio reikalų ministerijos rekomendaciją dėl humanitarinės pagalbos teikimo atitikties Lietuvos užsienio politikos prioritetams ir tarptautiniams įsipareigojimams, gali teikti humanitarinę pagalbą neatlygintinai perduodamos savo turimas lėšas ar kitą sau nuosavybės teise priklausantį turtą (daiktus) tarptautinių organizacijų, užsienio valstybių valstybinių ar savivaldybių institucijų, užsienio valstybių viešųjų juridinių asmenų ar užsienio valstybių valstybinių institucijų prašymu kitų juridinių asmenų, kuriuos užsienio valstybė įgaliojo ar kuriems pavedė imtis priemonių ir veiksmų siekiant šio įstatymo 2 straipsnio 5 dalyje nurodytų tikslų, nuosavybėn ar suteikdamos tokį turtą naudotis panaudos teise bei kitais šio įstatymo 10 straipsnio 4 dalyje nurodytais būdais. Apie sprendimą suteikti humanitarinę pagalbą Užsienio reikalų ministerija informuojama per 3 darbo dienas nuo sprendimo priėmimo dienos.
+Papildyta straipsnio dalimi:
+Nr. XIV-2330, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25083
+ 
+
+
+
+
 3. Pilietinė visuomenė, įskaitant nevyriausybines organizacijas, kiti šiame straipsnyje neįvardyti fiziniai ir juridiniai asmenys gali dalyvauti teikiant humanitarinę pagalbą ir prisidėti prie visuomenės informavimo ir švietimo apie humanitarinės pagalbos teikimą, šios pagalbos tikslus, principus, priemones ir rezultatus.
 
 
@@ -671,3 +679,13 @@ Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatymo Nr. XII-311 6, 7, 8, 12 straipsnių pakeitimo ir Įstatymo papildymo 13 straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2235, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22964
+Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatymo Nr. XII-311 7 ir 13 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2330, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25083
+Lietuvos Respublikos vystomojo bendradarbiavimo ir humanitarinės pagalbos įstatymo Nr. XII-311 11 straipsnio pakeitimo įstatymas
