@@ -21,7 +21,7 @@ Projektas XXXX XX XX Nr
  
 
 
-Suvestinė redakcija nuo 2023-09-30 iki 2023-12-22
+Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -467,7 +467,10 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-2) yra registruota bet kurios rūšies transporto priemonė, dėl kurios sudaryta draudimo sutartis. Teikiant transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo paslaugas, pagal šį punktą Europos ekonominės erdvės valstybe, kurioje yra draudimo rizika, taip pat laikoma ta Europos ekonominės erdvės valstybė, į kurią įvežama transporto priemonė, kurios įprastinė buvimo vieta yra kitoje Europos ekonominės erdvės valstybėje, per 30 dienų nuo pirkėjo patvirtinimo, kad transporto priemonė pristatyta;
+2) yra registruota bet kurios rūšies transporto priemonė, dėl kurios sudaryta draudimo sutartis. Teikiant transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo paslaugas, pagal šį punktą Europos ekonominės erdvės valstybe, kurioje yra draudimo rizika, priklausomai nuo draudėjo pasirinkimo, laikoma arba Europos ekonominės erdvės valstybė, kurioje transporto priemonė yra registruota, arba Europos ekonominės erdvės valstybė, į kurią įvežama transporto priemonė, kurios įprastinė buvimo vieta yra kitoje Europos ekonominės erdvės valstybėje, per 30 dienų nuo pirkėjo patvirtinimo, kad transporto priemonė pristatyta; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
+ 
 
 
 
