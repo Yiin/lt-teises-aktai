@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.03.17)
 
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-22
+Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
  
@@ -946,7 +946,10 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
 
 
-5) pranešti aukštesniajam prokurorui apie neteisėtus prašymus ar pavedimus, kilusius ar galimus viešųjų ir privačių interesų konfliktus;
+5) pranešti aukštesniajam prokurorui apie neteisėtus prašymus ar pavedimus, kilusius ar galimus interesų konfliktus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2321, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25078
+ 
 
 
 
@@ -1283,7 +1286,10 @@ Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 
 
 
-2) jo tarnyba prokuratūroje sukeltų viešųjų ir privačių interesų konfliktą;
+2) jo tarnyba prokuratūroje sukeltų interesų konfliktą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2321, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25078
+ 
 
 
 
@@ -2447,7 +2453,10 @@ Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 
 
 
-3) Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimą;
+3) Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo nuostatų pažeidimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2321, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25078
+ 
 
 
 
@@ -3897,3 +3906,13 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 37-5 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 49, 50, 52 straipsnių pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1605, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25184
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 26 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2321, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25078
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1, 20, 25, 27, 39, 40, 49, 50-1, 60 straipsnių ir 1 priedo pakeitimo įstatymas
