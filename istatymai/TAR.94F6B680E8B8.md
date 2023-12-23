@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-12-22
+Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -52,7 +52,10 @@ Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
 
 
 
-2. Šis Įstatymas netaikomas asmenims, kuriems, nors jie ir atitinka šio Įstatymo 6 straipsnio 1 dalies 1–4 punktų nuostatas, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, taikoma kitos Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos teisė.
+2. Šis Įstatymas netaikomas asmenims, kuriems, nors jie ir atitinka šio Įstatymo 6 straipsnio 1 dalies 1–4 ir 6, 7 punktų nuostatas, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, taikoma kitos Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos teisė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
+ 
 
 
 
@@ -700,7 +703,6 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 II SKYRIUS
 PRIVALOMOJO SVEIKATOS DRAUDIMO PASLAUGOS IR JŲ IŠLAIDŲ KOMPENSAVIMAS
- 
 
 
 9 straipsnis. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokamos asmens 
@@ -748,16 +750,6 @@ sveikatos priežiūros paslaugos
 4) ortopedijos techninių priemonių įsigijimo išlaidų kompensacijos; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
- 
-
-
-
-
-5) medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų kompensacijos. 
-Papildyta straipsnio punktu:
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-Straipsnio punkto pakeitimai:
-Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
  
 
 
@@ -1346,18 +1338,6 @@ d) šio straipsnio 2 ir 3 dalyse nurodytais atvejais;
 
 
 
-e) paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus šio įstatymo 10 straipsnio 6 dalyje nurodytiems asmenims, padengti;
-3 punkto e) papunkčio redakcija, įsigaliojanti 2023-07-01:
-e) paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus šio įstatymo 10 straipsnio 6 ir 7 dalyse nurodytiems asmenims, padengti;
-Papildyta papunkčiu:
-Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
-Papunkčio pakeitimai:
-Nr. XIV-1688, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26108
- 
-
-
-
-
 
 
 4) institucijų, vykdančių privalomąjį sveikatos draudimą, veiklos pajamos;
@@ -1389,16 +1369,6 @@ Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
 c) iš fizinių ir juridinių asmenų išieškotos lėšos už apdraustojo privalomuoju sveikatos draudimu sveikatai padarytą žalą, kai už jam suteiktas sveikatos priežiūros paslaugas sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ir už kitą Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą. Žala Privalomojo sveikatos draudimo fondo biudžetui gali būti pripažinta mažareikšme žala ir neišieškoma, jeigu ši žala Privalomojo sveikatos draudimo fondo biudžetui yra nedidelė ir jos išieškojimo išlaidos didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką, mažareikšmės žalos dydį nustato sveikatos apsaugos ministras ar jo įgaliota institucija;
 Straipsnio punkto pakeitimai:
 Nr. XII-2003, 2015-11-10, paskelbta TAR 2015-11-17, i. k. 2015-18263
- 
-
-
-
-
-d) iš ūkio subjektų, su kuriais sudarytos medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų apmokėjimo sutartys, išieškotos ar jų grąžintos lėšos;
-Papildyta papunkčiu:
-Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-Papunkčio pakeitimai:
-Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
  
 
 
@@ -1797,7 +1767,7 @@ Nr. XII-655, 2013-12-10, Žin., 2013, Nr. 132-6734 (2013-12-21)
 
 
 
-3) praėjusių biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų dalis, metų pabaigoje viršijanti tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintas apyvartos lėšas.
+3) praėjusių biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto apyvartos lėšų dalis, metų pabaigoje viršijanti tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu patvirtintas apyvartos lėšas;
 
 
 
@@ -3674,3 +3644,23 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 10 ir 15 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 5, 6, 8, 9, 9-1, 10, 12, 12-1, 15, 17, 21, 22, 23, 26, 30, 43 straipsnių ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
+ 
+54.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2194, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20774
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 43 straipsnio pakeitimo įstatymas
+ 
+55.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 5, 6, 8, 9, 9-1, 10, 12, 12-1, 15, 17, 21, 22, 23, 26, 30, 43 straipsnių ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymo Nr. XIV-1942 1, 13, 15, 16, 17 ir 19 straipsnių pakeitimo įstatymas
+ 
+56.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 14 ir 17 straipsnių pakeitimo įstatymas
+ 
+57.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 1 ir 6 straipsnių pakeitimo įstatymas
