@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2023-12-22
+Suvestinė redakcija nuo 2023-12-23 iki 2024-02-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
- 
-TAR pastaba. Įsigaliojus (2019-07-01) įstatymui Nr. XIII-2140, statutinių institucijų veiklą reglamentuojančiuose teisės aktuose vartojama sąvoka „štandartas“ atitinka šiame įstatyme vartojamą sąvoką „statutinės institucijos vėliava“.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
-Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 1, 2, 4, 13 straipsnių ir penktojo skirsnio pavadinimo pakeitimo įstatymas
  
 Nauja redakcija nuo 2004-09-01:
 Nr. IX-2331, 2004-07-08, Žin. 2004, Nr. 115-4274 (2004-07-24), i. k. 1041010ISTA0IX-2331
@@ -408,10 +403,11 @@ Nr. XIII-1020, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00964
 
 
 
-2. Valstybės švenčių dienomis Lietuvos valstybės vėliava keliama prie, virš ar ant šių pastatų: prie kitų valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų, nesvarbu, kokia jų nuosavybės forma, taip pat gyvenamųjų namų. 
+2. Valstybės švenčių dienomis Lietuvos valstybės vėliava keliama prie, virš ar ant šių pastatų: prie kitų valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų, nesvarbu, kokia jų nuosavybės forma, taip pat gyvenamųjų namų, išskyrus gyvenamuosius namus, kuriuose nėra nuolat gyvenama.
 Straipsnio dalies pakeitimai:
 Nr. X-604, 2006-05-11, Žin., 2006, Nr. 60-2119 (2006-05-27), i. k. 1061010ISTA000X-604
 Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
+Nr. XIV-2320, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25074
  
 
 
@@ -1212,3 +1208,8 @@ Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-149
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2140, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09399
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 1, 2, 4, 13 straipsnių ir penktojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2320, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25074
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo Nr. I-1497 5 straipsnio pakeitimo įstatymas
