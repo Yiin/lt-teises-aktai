@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/7c10862000e211ed8fa7d02a65c371ad"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2023-05-05 iki 2023-12-28
+Suvestinė redakcija nuo 2023-12-29
  
 Įstatymas paskelbtas: TAR 2022-07-11, i. k. 2022-15164
  
@@ -891,11 +891,14 @@ Pakeisti 59 straipsnio 16 dalį ir ją išdėstyti taip:
 
 
 
-„7. Karių savanorių ir kitų savanoriškos nenuolatinės karo tarnybos karių, taip pat aktyviojo kariuomenės personalo rezervo karių, pašauktų į pratybas, mokymus ar vykdyti tarnybos užduočių, tarnybinį atlyginimą, mokamą už tarnybos dienas, sudaro šio įstatymo 1 priede atitinkamam profesinės karo tarnybos kario laipsniui pirmaisiais tarnybos metais taikomas tarnybinio atlyginimo koeficientas, padaugintas iš bazinio dydžio, ir priedas už tarnybą kareivinių režimu, kurio koeficientas 2 baziniai dydžiai. Priedas apskaičiuojamas proporcingai nustatytam koeficientui, mėnesio kalendorinių dienų skaičiui ir dienų skaičiui, kai buvo atliekama tarnyba kareivinių režimu. Jeigu kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario, pašaukto į pratybas, mokymus ar vykdyti tarnybos užduočių, gaunamas vidutinis darbo užmokestis yra didesnis negu kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, taip pat aktyviojo kariuomenės personalo rezervo kariams apskaičiuotas tarnybinis atlyginimas, jam išmokamas jo vidutinio darbo užmokesčio dydžio atlyginimas, neviršijantis 2 Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžių.“
+„7. Karių savanorių ir kitų savanoriškos nenuolatinės karo tarnybos karių, taip pat aktyviojo kariuomenės personalo rezervo karių, pašauktų į pratybas, mokymus ar vykdyti tarnybos užduočių, tarnybinį atlyginimą, mokamą už tarnybos dienas, sudaro šio įstatymo 1 priede atitinkamam profesinės karo tarnybos kario laipsniui pirmaisiais tarnybos metais taikomas tarnybinio atlyginimo koeficientas, padaugintas iš bazinio dydžio, ir priedas už tarnybą kareivinių režimu, kurio koeficientas 0,21 bazinio dydžio. Priedas apskaičiuojamas proporcingai nustatytam koeficientui, mėnesio kalendorinių dienų skaičiui ir dienų skaičiui, kai buvo atliekama tarnyba kareivinių režimu. Jeigu kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario, taip pat aktyviojo kariuomenės personalo rezervo kario, pašaukto į pratybas, mokymus ar vykdyti tarnybos užduočių, gaunamas vidutinis darbo užmokestis yra didesnis negu kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, taip pat aktyviojo kariuomenės personalo rezervo kariams apskaičiuotas tarnybinis atlyginimas, jam išmokamas jo vidutinio darbo užmokesčio dydžio atlyginimas, neviršijantis 2 Valstybės duomenų agentūros paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio dydžių.“
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
+ 
 
 
 
@@ -1457,9 +1460,9 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
+
+
  
-
-
 
 
 „Lietuvos Respublikos
@@ -1467,203 +1470,353 @@ krašto apsaugos sistemos organizavimo
 ir karo tarnybos įstatymo
 1 priedas
  
-profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI 
+profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
+ 
 (baziniais dydžiais)
 
 
 
- Eil. Nr. 
- Karių laipsniai 
+ Eil.  Nr. 
+
+
+Karių laipsniai
+ 
  Koeficientas 
 
 
- tarnybos metai pagal laipsnį 
 
 
- 1-ieji 
- 2-ieji 
- 3-ieji 
- 4-ieji 
- 5-ieji ir tolesni 
+tarnybos metai pagal laipsnį
+ 
+
+
+
+
+1-ieji
+ 
+
+
+2-ieji
+ 
+
+
+3-ieji
+ 
+
+
+4-ieji
+ 
+
+
+5-ieji ir tolesni
+ 
 
 
 
 
  1. 
- Generolas, admirolas 
- 31,7 
- 31,7 
- 31,7 
- 31,7 
- 31,7 
+
+
+Generolas, admirolas
+ 
+
+
+3,31
+ 
+
+
+3,31
+ 
+
+
+3,31
+ 
+
+
+3,31
+ 
+
+
+3,31
+ 
 
 
  2. 
- Generolas leitenantas, viceadmirolas 
- 29,5 
- 29,8 
- 29,8 
- 29,8 
- 29,8 
+
+
+Generolas leitenantas, viceadmirolas
+ 
+
+
+3,08
+ 
+
+
+3,11
+ 
+
+
+3,11
+ 
+
+
+3,11
+ 
+
+
+3,11
+ 
 
 
  3. 
- Generolas majoras, kontradmirolas 
- 26,8 
- 27,1 
- 27,1 
- 27,1 
- 27,1 
+
+
+Generolas majoras, kontradmirolas
+ 
+
+
+2,80
+ 
+
+
+2,83
+ 
+
+
+2,83
+ 
+
+
+2,83
+ 
+
+
+2,83
+ 
 
 
  4. 
- Brigados generolas, flotilės admirolas 
- 24,3 
- 24,6 
- 24,6 
- 24,6 
- 24,6 
+
+
+Brigados generolas, flotilės admirolas
+ 
+
+
+2,54
+ 
+
+
+2,57
+ 
+
+
+2,57
+ 
+
+
+2,57
+ 
+
+
+2,57
+ 
 
 
  5. 
- Pulkininkas, jūrų kapitonas 
- 21,1 
- 21,4 
- 21,7 
- 22 
- 22 
+
+
+Pulkininkas, jūrų kapitonas
+ 
+
+
+2,21
+ 
+
+
+2,24
+ 
+
+
+2,27
+ 
+
+
+2,30
+ 
+
+
+2,30
+ 
 
 
  6. 
- Pulkininkas leitenantas, komandoras 
- 18 
- 18,3 
- 18,6 
- 18,9 
- 19,2 
+
+
+Pulkininkas leitenantas, komandoras
+ 
+
+
+1,89
+ 
+
+
+1,92
+ 
+
+
+1,95
+ 
+
+
+1,98
+ 
+
+
+2,01
+ 
 
 
  7. 
- Majoras, komandoras leitenantas 
- 15,8 
- 16,1 
- 16,4 
- 16,7 
- 17 
+
+
+Majoras, komandoras leitenantas
+ 
+
+
+1,66
+ 
+
+
+1,69
+ 
+
+
+1,72
+ 
+
+
+1,75
+ 
+
+
+1,78
+ 
 
 
  8. 
  Kapitonas, kapitonas leitenantas 
- 13,7 
- 13,9 
- 14,1 
- 14,3 
- 14,3 
+ 1,43 
+ 1,45 
+ 1,47 
+ 1,49 
+ 1,49 
 
 
  9. 
  Vyresnysis leitenantas 
- 12,3 
- 12,5 
- 12,7 
- 12,7 
- 12,7 
+ 1,29 
+ 1,31 
+ 1,33 
+ 1,33 
+ 1,33 
 
 
  10. 
  Leitenantas 
- 10,3 
- 10,5 
- 10,5 
- 10,5 
- 10,5 
+ 1,08 
+ 1,10 
+ 1,10 
+ 1,10 
+ 1,10 
 
 
  11. 
  Seržantas majoras, vyresnysis laivūnas 
- 15,2 
- 15,5 
- 15,8 
- 15,8 
- 15,8 
+ 1,60 
+ 1,63 
+ 1,66 
+ 1,66 
+ 1,66 
 
 
  12. 
  Viršila, laivūnas 
- 12,9 
- 13,1 
- 13,3 
- 13,3 
- 13,3 
+ 1,35 
+ 1,37 
+ 1,39 
+ 1,39 
+ 1,39 
 
 
  13. 
  Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas 
- 11,5 
- 11,7 
- 11,9 
- 11,9 
- 11,9 
+ 1,20 
+ 1,22 
+ 1,24 
+ 1,24 
+ 1,24 
 
 
  14. 
  Vyresnysis seržantas, vyresnysis seržantas specialistas 
- 10,6 
- 10,8 
- 11 
- 11 
- 11 
+ 1,11 
+ 1,13 
+ 1,15 
+ 1,15 
+ 1,15 
 
 
  15. 
  Seržantas, seržantas specialistas 
- 9,5 
- 9,7 
- 9,7 
- 9,7 
- 9,7 
+ 1,00 
+ 1,02 
+ 1,02 
+ 1,02 
+ 1,02 
 
 
  16. 
  Grandinis 
- 8,9 
- 9,1 
- 9,1 
- 9,1 
- 9,1 
+ 0,93 
+ 0,95 
+ 0,95 
+ 0,95 
+ 0,95 
 
 
  17. 
  Vyresnysis eilinis, vyresnysis jūreivis 
- 8,2 
- 8,2 
- 8,2 
- 8,2 
- 8,2 
+ 0,86 
+ 0,86 
+ 0,86 
+ 0,86 
+ 0,86 
 
 
  18. 
  Eilinis, jūreivis 
- 7,5 
- 7,5 
- 7,5 
- 7,5 
- 7,5 
+ 0,79 
+ 0,79 
+ 0,79 
+ 0,79 
+ 0,79 
 
 
  19. 
  Jaunesnysis eilinis, jaunesnysis jūreivis 
- 7,3 
- 7,3 
- 7,3 
- 7,3 
- 7,3 
+ 0,77 
+ 0,77 
+ 0,77 
+ 0,77 
+ 0,77 
 
 
 
- 
-_________________”
- 
+
+
+_______________________“.
+
+
 
 
 
@@ -1672,6 +1825,7 @@ _________________”
 
 Straipsnio pakeitimai:
 Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
+Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
  
 
 
@@ -1681,7 +1835,6 @@ Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
 
 
 Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
- 
 
 
 
@@ -1692,6 +1845,7 @@ ir karo tarnybos įstatymo
 1 priedas
  
 profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
+ 
 (baziniais dydžiais)
 
 
@@ -1715,179 +1869,181 @@ profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI
 
  1. 
  Generolas, admirolas 
- 33,4 
- 33,4 
- 33,4 
- 33,4 
- 33,4 
+ 3,48 
+ 3,48 
+ 3,48 
+ 3,48 
+ 3,48 
 
 
  2. 
  Generolas leitenantas, viceadmirolas 
- 31,1 
- 31,4 
- 31,4 
- 31,4 
- 31,4 
+ 3,25 
+ 3,28 
+ 3,28 
+ 3,28 
+ 3,28 
 
 
  3. 
  Generolas majoras, kontradmirolas 
- 28,3 
- 28,6 
- 28,6 
- 28,6 
- 28,6 
+ 2,95 
+ 2,98 
+ 2,98 
+ 2,98 
+ 2,98 
 
 
  4. 
  Brigados generolas, flotilės admirolas 
- 25,6 
- 25,9 
- 25,9 
- 25,9 
- 25,9 
+ 2,67 
+ 2,70 
+ 2,70 
+ 2,70 
+ 2,70 
 
 
  5. 
  Pulkininkas, jūrų kapitonas 
- 22,3 
- 22,6 
- 22,9 
- 23,2 
- 23,2 
+ 2,33 
+ 2,36 
+ 2,39 
+ 2,42 
+ 2,42 
 
 
  6. 
  Pulkininkas leitenantas, komandoras 
- 19 
- 19,3 
- 19,6 
- 19,9 
- 20,2 
+ 1,99 
+ 2,02 
+ 2,05 
+ 2,08 
+ 2,11 
 
 
  7. 
  Majoras, komandoras leitenantas 
- 16,7 
- 17 
- 17,3 
- 17,6 
- 17,9 
+ 1,75 
+ 1,78 
+ 1,81 
+ 1,84 
+ 1,87 
 
 
  8. 
  Kapitonas, kapitonas leitenantas 
- 14,5 
- 14,7 
- 14,9 
- 15,1 
- 15,1 
+ 1,52 
+ 1,54 
+ 1,56 
+ 1,58 
+ 1,58 
 
 
  9. 
  Vyresnysis leitenantas 
- 13 
- 13,2 
- 13,4 
- 13,4 
- 13,4 
+ 1,36 
+ 1,38 
+ 1,40 
+ 1,40 
+ 1,40 
 
 
  10. 
  Leitenantas 
- 10,9 
- 11,1 
- 11,1 
- 11,1 
- 11,1 
+ 1,14 
+ 1,16 
+ 1,16 
+ 1,16 
+ 1,16 
 
 
  11. 
  Seržantas majoras, vyresnysis laivūnas 
- 16,1 
- 16,4 
- 16,7 
- 16,7 
- 16,7 
+ 1,69 
+ 1,72 
+ 1,75 
+ 1,75 
+ 1,75 
 
 
  12. 
  Viršila, laivūnas 
- 13,6 
- 13,8 
- 14 
- 14 
- 14 
+ 1,42 
+ 1,44 
+ 1,46 
+ 1,46 
+ 1,46 
 
 
  13. 
  Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas 
- 12,1 
- 12,3 
- 12,5 
- 12,5 
- 12,5 
+ 1,27 
+ 1,29 
+ 1,31 
+ 1,31 
+ 1,31 
 
 
  14. 
  Vyresnysis seržantas, vyresnysis seržantas specialistas 
- 11,2 
- 11,4 
- 11,6 
- 11,6 
- 11,6 
+ 1,17 
+ 1,19 
+ 1,21 
+ 1,21 
+ 1,21 
 
 
  15. 
  Seržantas, seržantas specialistas 
- 10 
- 10,2 
- 10,2 
- 10,2 
- 10,2 
+ 1,05 
+ 1,07 
+ 1,07 
+ 1,07 
+ 1,07 
 
 
  16. 
  Grandinis 
- 9,4 
- 9,6 
- 9,6 
- 9,6 
- 9,6 
+ 0,99 
+ 1,01 
+ 1,01 
+ 1,01 
+ 1,01 
 
 
  17. 
  Vyresnysis eilinis, vyresnysis jūreivis 
- 8,7 
- 8,7 
- 8,7 
- 8,7 
- 8,7 
+ 0,91 
+ 0,91 
+ 0,91 
+ 0,91 
+ 0,91 
 
 
  18. 
  Eilinis, jūreivis 
- 7,9 
- 7,9 
- 7,9 
- 7,9 
- 7,9 
+ 0,83 
+ 0,83 
+ 0,83 
+ 0,83 
+ 0,83 
 
 
  19. 
  Jaunesnysis eilinis, jaunesnysis jūreivis 
- 7,7 
- 7,7 
- 7,7 
- 7,7 
- 7,7 
+ 0,81 
+ 0,81 
+ 0,81 
+ 0,81 
+ 0,81 
 
 
 
- 
-_________________”
- 
+
+
+_______________________“.
+
+
 
 
 
@@ -1896,6 +2052,7 @@ _________________”
 
 Straipsnio pakeitimai:
 Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
+Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
  
 
 
@@ -1975,7 +2132,6 @@ profesinės karo tarnybos karių tiesiogiai vykdomos Pareigos, susijusios su ypa
 
 
 Papildyti Įstatymą 3 priedu:
- 
 
 
 
@@ -1985,14 +2141,15 @@ krašto apsaugos sistemos organizavimo
 ir karo tarnybos įstatymo
 3 priedas
  
-Profesinės karo tarnybos karių, karių savanorIų ar kitų savanoriškos nenuolatinės karo tarnybos karIų kiekvienų 5 metų tarnybos išmokų dydžiai
+PROFESINĖS KARO TARNYBOS KARIŲ, KARIŲ SAVANORIŲ AR KITŲ SAVANORIŠKOS NENUOLATINĖS KARO TARNYBOS KARIŲ KIEKVIENŲ
+5 METŲ TARNYBOS IŠMOKŲ DYDŽIAI
  
 
 
 
  Eil. Nr. 
  Ištarnauta metų pagal profesinės karo tarnybos arba kario savanorio ir kitą savanoriškos nenuolatinės karo tarnybos sutartį 
- Paskutinių 5 metų profesinės karo tarnybos karių, karių savanorių ar kitų savanoriškos nenuolatinės karo tarnybos karių išmokos koeficientai (baziniais dydžiais), priklausantys nuo tarnybos vertinimo vidurkio 
+ Paskutinių 5 metų profesinės karo tarnybos karių, karių savanorių ar kitų savanoriškos nenuolatinės karo tarnybos karių išmokų koeficientai (baziniais dydžiais), priklausantys nuo tarnybos vertinimo vidurkio 
 
 
  profesinės karo tarnybos karių išmokų dydžiai 
@@ -2011,92 +2168,99 @@ Profesinės karo tarnybos karių, karių savanorIų ar kitų savanoriškos nenuo
 
  1. 
  5 metai 
- 30 
- 20 
- 10 
- 6 
- 4 
- 2 
+ 3,13 
+ 2,09 
+ 1,05 
+ 0,63 
+ 0,42 
+ 0,21 
 
 
  2. 
  10 metų 
- 32 
- 22 
- 12 
- 8 
- 6 
- 4 
+ 3,34 
+ 2,30 
+ 1,26 
+ 0,84 
+ 0,63 
+ 0,42 
 
 
  3. 
  15 metų 
- 34 
- 24 
- 14 
- 10 
- 8 
- 6 
+ 3,55 
+ 2,51 
+ 1,46 
+ 1,05 
+ 0,84 
+ 0,63 
 
 
  4. 
  20 metų 
- 36 
- 26 
- 16 
- 12 
- 10 
- 8 
+ 3,76 
+ 2,71 
+ 1,67 
+ 1,26 
+ 1,05 
+ 0,84 
 
 
  5. 
  25 metai 
- 38 
- 28 
- 18 
- 14 
- 12 
- 10 
+ 3,96 
+ 2,92 
+ 1,88 
+ 1,46 
+ 1,26 
+ 1,05 
 
 
  6. 
  30 metų 
- 40 
- 30 
- 20 
- 16 
- 14 
- 12 
+ 4,17 
+ 3,13 
+ 2,09 
+ 1,67 
+ 1,46 
+ 1,26 
 
 
  7. 
  35 metai 
- 42 
- 32 
- 22 
- 18 
- 16 
- 14 
+ 4,38 
+ 3,34 
+ 2,30 
+ 1,88 
+ 1,67 
+ 1,46 
 
 
  8. 
  40 metų 
- 44  
- 34 
- 24 
- 20 
- 18 
- 16“ 
+ 4,59 
+ 3,55 
+ 2,51 
+ 2,09 
+ 1,88 
+ 1,67 
 
 
 
+
+
+____________________“.
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
  
-
-
-
-
-
-
 
 
 
@@ -2149,6 +2313,14 @@ Profesinės karo tarnybos karių, karių savanorIų ar kitų savanoriškos nenuo
 
 
 
+91. Mokant šio straipsnio 9 dalyje nurodytas vienkartines išmokas profesinės karo tarnybos kariams taikomi šie dydžiai: 4,69 bazinio dydžio – tarnybą įvertinus 5 balais, 3,65 bazinio dydžio – tarnybą įvertinus 4 balais, 2,09 bazinio dydžio – tarnybą įvertinus 3 balais, o kariams savanoriams ar kitiems savanoriškos nenuolatinės karo tarnybos kariams taikomi šie dydžiai: 0,94 bazinio dydžio – tarnybą įvertinus 5 balais, 0,73 bazinio dydžio – tarnybą įvertinus 4 balais, 0,42 bazinio dydžio – tarnybą įvertinus 3 balais.
+Papildyta straipsnio dalimi:
+Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
+ 
+
+
+
+
 10. Šio įstatymo 19 straipsnio 3 dalimi pildomoje Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnio 81 dalyje nustatyta išmoka mokama kariams tada, kai jie po šio įstatymo 19 straipsnio įsigaliojimo dienos ištarnauja Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 3 priede nustatytą laikotarpį išmokai gauti (į šį laikotarpį įskaitomas visas kario tarnybos laikotarpis, tačiau išmoka mokama tik suėjus būsimam Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 3 priede nustatytam laikotarpiui). Kariams, kuriems buvo skirta išmoka, nustatyta iki šio įstatymo 17 straipsnio 5 ir 6 dalių įsigaliojimo dienos galiojusiose Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnio 9 ir 11 dalyse, išmoka už pirmus 5 tarnybos metus nemokama ir pirma išmoka jiems skiriama ištarnavus 10 metų.
 
 
@@ -2187,3 +2359,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymo Nr. XIV-1179 28 ir 29 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo įstatymo Nr. XIV-1179 19, 28, 29, 31 ir 32 straipsnių pakeitimo įstatymas
