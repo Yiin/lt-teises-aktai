@@ -20,14 +20,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-07-02 iki 2023-12-28
+Suvestinė redakcija nuo 2023-12-29 iki 2023-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
- 
-TAR pastaba. Įstatymas  Nr. XIV-1967 taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. Valstybinio socialinio draudimo fondo 2023 metų biudžetas vykdomas pagal įstatymų nuostatas, galiojusias iki  įstatymo Nr. XIV-1967 įsigaliojimo dienos )2023-07-02).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 6, 8, 10, 12, 19, 22, 23 ir 34 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2508, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20645
@@ -2802,7 +2797,10 @@ FONDO ADMINISTRAVIMO ĮSTAIGŲ TEISĖS, SPRENDIMŲ IR VEIKSMŲ APSKUNDIMAS
 
 
 
-7) pareikalauti iš draudėjo sutvarkyti buhalterinę apskaitą;
+7) pareikalauti iš draudėjo sutvarkyti finansinę apskaitą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
+ 
 
 
 
@@ -3771,3 +3769,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 11 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 6, 8, 10, 12, 19, 22, 23 ir 34 straipsnių pakeitimo įstatymas
+ 
+51.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 6, 10, 11, 14, 32, 34, 34-1 ir 40 straipsnių pakeitimo įstatymas
