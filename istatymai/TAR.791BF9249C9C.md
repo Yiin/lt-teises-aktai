@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2023-02-01 iki 2023-12-28
+Suvestinė redakcija nuo 2023-12-29 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -124,7 +124,10 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-13. Fizinio aktyvumo projektas – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant unikalių ir konkrečių, su fiziniu aktyvumu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+13. Fizinio aktyvumo projektas – dokumentas, kuriame aprašoma laikina, ne nuolatinio pobūdžio juridinio asmens veikla, siekiant konkrečių, su fiziniu aktyvumu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2429, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25651
+ 
 
 
 
@@ -174,7 +177,10 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-23. Sporto bazių pagerinimo projektas – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant unikalių ir konkrečių, su sporto bazių pagerinimu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+23. Sporto bazių pagerinimo projektas – dokumentas, kuriame aprašoma laikina, ne nuolatinio pobūdžio juridinio asmens veikla, siekiant konkrečių, su sporto bazių pagerinimu susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2429, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25651
+ 
 
 
 
@@ -214,7 +220,10 @@ Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
 
 
 
-31. Tarptautinių aukšto meistriškumo sporto varžybų projektas (toliau – tarptautinių sporto varžybų projektas) – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant unikalių ir konkrečių, su tarptautinių aukšto meistriškumo sporto varžybų organizavimu Lietuvoje susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+31. Tarptautinių aukšto meistriškumo sporto varžybų projektas (toliau – tarptautinių sporto varžybų projektas) – dokumentas, kuriame aprašoma laikina juridinio asmens veikla, siekiant konkrečių, su tarptautinių aukšto meistriškumo sporto varžybų organizavimu Lietuvoje susijusių kiekybinių ir (ar) kokybinių rezultatų, nurodomi šios veiklos tikslai, uždaviniai ir priemonės, jų įgyvendinimo terminai, laukiami rezultatai ir jiems pasiekti reikalingos lėšos ir jų šaltiniai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2429, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25651
+ 
 
 
 
@@ -1816,3 +1825,8 @@ Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1757, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00155
 Lietuvos Respublikos sporto įstatymo Nr. I-1151 17 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2429, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25651
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 2 straipsnio pakeitimo įstatymas
