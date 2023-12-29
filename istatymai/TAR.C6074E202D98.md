@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2023-12-28
+Suvestinė redakcija nuo 2023-12-29 iki 2026-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
  
@@ -113,7 +113,10 @@ Nr. XI-738, 2010-04-13, Žin. 2010, Nr. 48-2288 (2010-04-27), i. k. 1101010ISTA0
 
 
 
-2. Zonos valdymo bendrovės valdymo organai yra visuotinis akcininkų susirinkimas, valdyba ir administracija.
+2. Zonos valdymo bendrovės valdymo organai yra visuotinis akcininkų susirinkimas, valdyba ir bendrovės vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
+ 
 
 
 
@@ -156,7 +159,10 @@ Nr. XI-738, 2010-04-13, Žin., 2010, Nr. 48-2288 (2010-04-27), i. k. 1101010ISTA
 
 
 
-6. Zonos valdymo bendrovės valdybos pirmininkas gali būti ir administracijos vadovu.
+6. Zonos valdymo bendrovės valdybos pirmininkas gali būti ir bendrovės vadovu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
+ 
 
 
 
@@ -217,7 +223,10 @@ Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA0
 
 
 
-11) suderinusi su Muitinės departamentu prie Finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas. 
+11) suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -227,12 +236,17 @@ Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010IST
 
 
 
-8. Zonos valdymo bendrovės administracija organizuoja ir vykdo zonos veiklą pagal bendrovės valdybos patvirtintą darbo reglamentą.
+8. Zonos valdymo bendrovės vadovas organizuoja ir vykdo zonos veiklą pagal bendrovės valdybos patvirtintą darbo reglamentą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
+ 
 
 
 
 
-9. Zonos valdymo bendrovės administracija:
+9. Zonos valdymo bendrovės vadovas: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
 
 
 1) atstovauja zonos valdymo bendrovei;
@@ -296,7 +310,9 @@ Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010IST
 
 
 
-10. Zonos valdymo bendrovė, jos valdymo organai ir vadovai atsako įstatymų nustatyta tvarka.
+10) dirba kitą valdybos jam pavestą darbą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
  
 
 
@@ -312,10 +328,11 @@ Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010IST
 
 
 
-2. Atsiradus įstatymo nustatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei sudaryti Vyriausybė priima sprendimą skelbti tarptautinį konkursą steigėjų grupei parinkti. Šį konkursą organizuoja Lietuvos Respublikos ūkio ministerija, o naują konkurso komisiją ir nuostatus tvirtina Vyriausybė. 
+2. Atsiradus įstatymo nustatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei sudaryti Vyriausybė priima sprendimą skelbti tarptautinį konkursą steigėjų grupei parinkti. Šį konkursą organizuoja Lietuvos Respublikos ekonomikos ir inovacijų ministerija, o naują konkurso komisiją sudaro ir nuostatus tvirtina Vyriausybė.
 Straipsnio dalies pakeitimai:
 Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
 Nr. XI-738, 2010-04-13, Žin., 2010, Nr. 48-2288 (2010-04-27), i. k. 1101010ISTA00XI-738
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
  
 
 
@@ -439,3 +456,8 @@ Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 3 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-518, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11227
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 7 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 3, 7 ir 8 straipsnių pakeitimo įstatymas
