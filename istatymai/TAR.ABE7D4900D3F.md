@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/abe7d4900d3f11ebb74de75171d26d52"
 
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-28
+Suvestinė redakcija nuo 2023-12-29
  
 Įstatymas paskelbtas: TAR 2020-10-13, i. k. 2020-21245
  
@@ -1529,13 +1529,16 @@ METINIŲ ATASKAITŲ RINKINIŲ PARENGIMO, TEIKIMO IR VALSTYBINIO AUDITO ATLIKIMO 
 
 
 
-4. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 1 straipsnio 4 dalies redakcija: 
+4. 2026 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 1 straipsnio 4 dalies redakcija: 
 „4. Šio įstatymo 4 straipsnio 5 dalis ir 17 straipsnio 2 dalis taikomos valstybės valdomoms įmonėms, savivaldybių valdomoms įmonėms ir kitiems juridiniams asmenims, kurių dalyviai yra viešojo sektoriaus subjektai. Šio įstatymo 17 straipsnio 5 dalies 3 punktas taikomas valstybės kontroliuojamiems pelno siekiantiems subjektams ir savivaldybės kontroliuojamiems pelno siekiantiems subjektams.“
+Straipsnio dalies pakeitimai:
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+ 
 
 
 
 
-5. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 29 dalies redakcija:
+5. 2026 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 29 dalies redakcija:
 
 
 
@@ -1545,11 +1548,14 @@ METINIŲ ATASKAITŲ RINKINIŲ PARENGIMO, TEIKIMO IR VALSTYBINIO AUDITO ATLIKIMO 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+ 
 
 
 
 
-6. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 5 straipsnio redakcija:
+6. 2026 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 5 straipsnio redakcija:
 
 
 
@@ -1604,16 +1610,22 @@ METINIŲ ATASKAITŲ RINKINIŲ PARENGIMO, TEIKIMO IR VALSTYBINIO AUDITO ATLIKIMO 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+ 
 
 
 
 
-7. Šio straipsnio 6 dalyje išdėstytas Viešojo sektoriaus atskaitomybės įstatymo 5 straipsnis taikomas 2024 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams.
+7. Šio straipsnio 6 dalyje išdėstytas Viešojo sektoriaus atskaitomybės įstatymo 5 straipsnis taikomas 2026 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+ 
 
 
 
 
-8. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 17 straipsnio 5 dalies 3 punkto redakcija:
+8. 2026 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 17 straipsnio 5 dalies 3 punkto redakcija:
 
 
 
@@ -1623,11 +1635,17 @@ METINIŲ ATASKAITŲ RINKINIŲ PARENGIMO, TEIKIMO IR VALSTYBINIO AUDITO ATLIKIMO 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+ 
 
 
 
 
-9. Šio straipsnio 8 dalyje išdėstytas Viešojo sektoriaus atskaitomybės įstatymo 17 straipsnio 5 dalies 3 punktas taikomas 2024 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams.
+9. Šio straipsnio 8 dalyje išdėstytas Viešojo sektoriaus atskaitomybės įstatymo 17 straipsnio 5 dalies 3 punktas taikomas 2026 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+ 
 
 
 
@@ -1659,7 +1677,10 @@ METINIŲ ATASKAITŲ RINKINIŲ PARENGIMO, TEIKIMO IR VALSTYBINIO AUDITO ATLIKIMO 
 
 
 
-13. Iki 2023 m. gruodžio 31 d. finansų ministras priima šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 17 straipsnio 6 dalies įgyvendinamuosius teisės aktus, kad būtų įgyvendinta šio straipsnio 8 dalis, o Finansų ministerija pritaiko VSAKI sistemą, kad į ją duomenis galėtų teikti visi valstybės kontroliuojami pelno siekiantys subjektai ir savivaldybės kontroliuojami pelno siekiantys subjektai.
+13. Iki 2025 m. gruodžio 31 d. finansų ministras priima šio įstatymo 1 straipsnyje išdėstyto Viešojo sektoriaus atskaitomybės įstatymo 17 straipsnio 6 dalies įgyvendinamuosius teisės aktus, kad būtų įgyvendinta šio straipsnio 8 dalis, o Finansų ministerija pritaiko VSAKI sistemą, kad į ją duomenis galėtų teikti visi valstybės kontroliuojami pelno siekiantys subjektai ir savivaldybės kontroliuojami pelno siekiantys subjektai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+ 
 
 
 
@@ -1704,3 +1725,8 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1612, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25037
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 15 straipsnio pakeitimo įstatymo Nr. XIV-1274 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2385, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25631
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo įstatymo Nr. XIII-3308 2 straipsnio pakeitimo įstatymas
