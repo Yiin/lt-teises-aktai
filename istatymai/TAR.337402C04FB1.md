@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/337402c04fb111edbc04912defe897d1"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 3, 10, 13, 15, 17, 19, 20, 22, 24, 25, 27-1, 29, 30 ir 33 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2023-12-30
+ 
+Įstatymas paskelbtas: TAR 2022-10-19, i. k. 2022-21161
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO NR. VIII-2043 2, 3, 10, 13, 15, 17, 19, 20, 22, 24, 25, 271, 29, 30 IR 33 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -784,7 +791,10 @@ Pakeisti 33 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-4. Šio įstatymo 9 straipsnio 1 dalis įsigalioja 2024 m. sausio 1 d.
+4. Šio įstatymo 9 straipsnio 1 dalis įsigalioja 2025 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2451, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26031
+ 
 
 
 
@@ -802,3 +812,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2451, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26031
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 3, 10, 13, 15, 17, 19, 20, 22, 24, 25, 27-1, 29, 30 ir 33 straipsnių pakeitimo įstatymo Nr. XIV-1445 17 straipsnio pakeitimo įstatymas
