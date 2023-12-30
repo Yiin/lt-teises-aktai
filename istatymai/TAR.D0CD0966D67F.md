@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2023-09-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -786,7 +786,10 @@ SAVIVALDYBĖS TARYBOS NARIAI
 
 
 4. Nustatomas toks išrinkto savivaldybės tarybos nario priesaikos tekstas:
-„Aš, (vardas, pavardė), prisiekiu gerbti ir vykdyti Konstituciją ir įstatymus, sąžiningai ir garbingai atlikti savo pareigas ir susilaikyti nuo veiksmų, pažeidžiančių savivaldybės gyventojų teises ir viešuosius interesus. Tepadeda man Dievas!“.
+„Aš, (vardas, pavardė), prisiekiu gerbti ir vykdyti Lietuvos Respublikos Konstituciją ir įstatymus, sąžiningai ir garbingai atlikti savo pareigas ir susilaikyti nuo veiksmų, pažeidžiančių savivaldybės gyventojų teises ir viešuosius interesus. Tepadeda man Dievas!“.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
+ 
 
 
 
@@ -2042,15 +2045,10 @@ Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
 
 
 1. Nustatomas toks išrinkto mero priesaikos tekstas:
-
-
-
-
-„Aš, (vardas, pavardė), prisiekiu gerbti ir vykdyti Konstituciją ir įstatymus, sąžiningai ir garbingai atlikti savo pareigas ir susilaikyti nuo veiksmų, pažeidžiančių savivaldybės gyventojų teises ir viešuosius interesus. Tepadeda man Dievas!“.
-
-
-
-
+„Aš, (vardas, pavardė), prisiekiu gerbti ir vykdyti Lietuvos Respublikos Konstituciją ir įstatymus, sąžiningai ir garbingai atlikti savo pareigas ir susilaikyti nuo veiksmų, pažeidžiančių savivaldybės gyventojų teises ir viešuosius interesus. Tepadeda man Dievas!“.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
+ 
 
 
 
@@ -2219,7 +2217,7 @@ Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
 
 
 
-27) organizuoja savivaldybės tarybos narių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos tobulinimą.
+27) organizuoja savivaldybės tarybos narių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos tobulinimą;
 
 
 
@@ -2227,7 +2225,6 @@ Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
 
 
 3. Meras turi nuolat bendrauti su savivaldybės nuolatiniais gyventojais. Meras reglamento nustatyta tvarka atsiskaito savivaldybės bendruomenei už savo veiklą. Ši informacija apie mero veiklos rezultatus įtraukiama į šio įstatymo 62 straipsnyje nurodytą savivaldybės metinių ataskaitų rinkinį.
- 
 
 
 
@@ -3434,11 +3431,6 @@ Apklausos rezultatus ne vėliau kaip per 5 darbo dienas po apklausos pabaigos ap
 
 
 2. Savivaldybės tarybos sprendime dėl apklausai pateikto klausimo turi būti nurodyti apklausos rezultatai ir savivaldybės tarybos sprendimo motyvai. Savivaldybės tarybos sprendimas dėl apklausai pateikto klausimo turi būti paskelbtas laikantis šio įstatymo 43 straipsnyje nustatytų reikalavimų.
- 
- 
- 
- 
- 
  
 
 
@@ -5279,3 +5271,28 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 55 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+75.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 20, 35, 67 ir 68 straipsnių pakeitimo įstatymas
+ 
+76.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6, 15, 18, 21, 25, 27, 29, 33, 34, 38, 39, 43, 55, 60 ir 68 straipsnių pakeitimo įstatymas
+ 
+77.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15, 27, 30 ir 34 straipsnių pakeitimo įstatymas
+ 
+78.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15, 35 ir 66 straipsnių pakeitimo įstatymas
+ 
+79.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 8 ir 26 straipsnių pakeitimo įstatymas
