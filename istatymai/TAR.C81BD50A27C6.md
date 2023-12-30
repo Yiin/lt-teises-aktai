@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2023-11-30 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -2372,7 +2372,10 @@ Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
 
 
 
-9. Valstybės ir savivaldybių viešosios įstaigos Vyriausybės nustatyta tvarka, kai yra valstybės ar savivaldybės institucijos, perdavusios turtą patikėjimo teise pagal patikėjimo sutartį, rašytinis sutikimas, priima sprendimus dėl valstybės ar savivaldybių nekilnojamųjų daiktų, kurie joms perduoti patikėjimo teise pagal patikėjimo sutartis, pripažinimo nereikalingais arba netinkamais (negalimais) naudoti. 
+9. Valstybės ir savivaldybių viešosios įstaigos Vyriausybės nustatyta tvarka, kai yra valstybės ar savivaldybės institucijos, perdavusios turtą patikėjimo teise pagal patikėjimo sutartį, rašytinis sutikimas, priima sprendimus dėl turto, kuris joms perduotas patikėjimo teise pagal patikėjimo sutartis, pripažinimo nereikalingu arba netinkamu (negalimu) naudoti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
+ 
 
 
 Straipsnio pakeitimai:
@@ -4101,3 +4104,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 36 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2247, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22977
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10 ir 15-2 straipsnių pakeitimo įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir 45 straipsnių pakeitimo įstatymas
