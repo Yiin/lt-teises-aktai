@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
  
@@ -2806,7 +2806,94 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-4. Nustatydama šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytus apribojimus, Vyriausybė turi nustatyti jų taikymo terminą, ne ilgesnį už valstybės lygio ekstremaliosios situacijos trukmę, laikydamasi proporcingumo principo, nepažeisdama sąžiningos konkurencijos ir ūkio subjektų lygiateisiškumo. Paskelbus valstybės lygio ekstremaliąją situaciją gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms, ūkio subjektams ir veiklos vykdytojams nustatytus apribojimus Vyriausybė turi nedelsdama atšaukti, kai išnyksta priežastys, dėl kurių šie apribojimai buvo nustatyti.
+4. Nustatydama šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytus apribojimus, Vyriausybė privalo:
+
+
+1) laikytis proporcingumo principo – turi būti nustatomi tik tokie apribojimai ir tik tokio masto, būtini valstybės lygio ekstremaliajai situacijai likviduoti ir jos padariniams šalinti;
+
+
+
+
+2) nepažeisti sąžiningos konkurencijos ir ūkio subjektų lygiateisiškumo;
+
+
+
+
+3) nustatyti apribojimų taikymo terminą, kuris negali būti ilgesnis kaip 6 mėnesiai;
+
+
+
+
+4) kreiptis į Seimą, jeigu yra būtinybė nustatytus apribojimus taikyti ilgiau kaip 6 mėnesius. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2387, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-26022
+ 
+
+
+
+
+5. Vyriausybė turi nedelsdama atšaukti nustatytus šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytus apribojimus išnykus priežastims, dėl kurių šie apribojimai buvo nustatyti.
+Papildyta straipsnio dalimi:
+Nr. XIV-2387, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-26022
+ 
+
+
+
+
+6. Vyriausybės nustatyti šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodyti apribojimai ilgiau kaip 6 mėnesius gali būti taikomi tik tuo atveju, kai jų taikymo terminas pratęsiamas Seimo nutarimu. Šis reikalavimas netaikomas, o Vyriausybės nustatyti šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodyti apribojimai gali būti taikomi ilgiau kaip 6 mėnesius be Seimo nutarimo apribojimų terminą pratęsti:
+
+
+1) kai Nacionalinio saugumo komisija, įvertinusi žvalgybos ir kitų institucijų pateiktą informaciją, konstatuoja, kad valstybės lygio ekstremalioji situacija paskelbta siekiant suvaldyti trečiųjų valstybių priešiškos veiklos sukeltas ir (arba) nekonvencines grėsmes ir pašalinti jų padarinius;
+
+
+
+
+2) kai nustatytų šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytų apribojimų taikymo terminas baigiasi tarp Seimo sesijų. Šiuo atveju Vyriausybės nustatyti apribojimai gali būti taikomi tol, kol Seimas, susirinkęs į Seimo sesiją, priima sprendimą dėl Vyriausybės pateikto Seimo nutarimo projekto.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2387, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-26022
+ 
+
+
+
+
+7. Vyriausybė, siekdama, kad jos nustatyti šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodyti apribojimai būtų taikomi ilgiau kaip 6 mėnesius nuo jų nustatymo pradžios, ne vėliau kaip likus 14 kalendorinių dienų iki 6 mėnesių termino pabaigos, motyvuotu siūlymu privalo kreiptis į Seimą pateikdama Seimo nutarimo projektą, kuriame turi būti nurodyti:
+
+
+1) nustatytų šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytų apribojimų taikymo pratęsimo pagrindai ir tikslai;
+
+
+
+
+2) konkretūs šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodyti apribojimai, kurių taikymo terminą siūloma pratęsti;
+
+
+
+
+3) terminas, kuriam siūloma pratęsti šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytų apribojimų taikymą.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2387, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-26022
+ 
+
+
+
+
+8. Terminas, kuriam Seimas gali pratęsti nustatytų šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytų apribojimų taikymą, negali būti ilgesnis kaip 6 mėnesiai. Apribojimų taikymo termino pratęsimų skaičius neribojamas. Dėl kiekvieno nustatyto šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodyto apribojimo taikymo pratęsimo Vyriausybė privalo kreiptis į Seimą šio straipsnio 7 dalyje nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2387, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-26022
+ 
+
+
+
+
+9. Pasibaigus nustatytų šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodytų apribojimų taikymo terminui, kai dėl apribojimų taikymo termino pratęsimo į Seimą nebuvo kreiptasi šio straipsnio 7 dalyje nustatyta tvarka arba kai Seimas nepriima nutarimo pratęsti apribojimų taikymo terminą, laikoma, kad Vyriausybės nustatyti šio įstatymo 34 straipsnio 5 dalies 2 punkte nurodyti apribojimai yra atšaukiami be atskiro Vyriausybės sprendimo juos atšaukti.
+Papildyta straipsnio dalimi:
+Nr. XIV-2387, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-26022
  
 
 
@@ -3309,3 +3396,8 @@ Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 9, 13, 15, 17, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2387, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-26022
+Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 40 straipsnio pakeitimo įstatymas
