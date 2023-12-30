@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d1e6be90747611e3b675ad30753d4b1b"
 
 # Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS
 
-Suvestinė redakcija nuo 2022-05-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30
  
 Įstatymas paskelbtas: TAR 2014-01-03, i. k. 2014-00018
  
@@ -481,7 +481,10 @@ Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
 
 
 
-5) siekia išmatuojamo teigiamo socialinio poveikio visuomenei ar jos daliai, steigimo dokumente arba steigėjų patvirtintame dokumente yra nurodžiusi siekiamo socialinio poveikio tikslą (sprendžiamą socialinę problemą), išmatuojamo socialinio poveikio rodiklius, šių rodiklių vertinimo metodiką ir vieną kartą per kalendorinius metus vertina praėjusių kalendorinių metų veiklos socialinį poveikį, ir veiklą siekiant socialinio poveikio organizuoja konsultuodamasi (suteikdama galimybę teikti nuomonę ir pasiūlymus) su asmenimis, kuriems daromas socialinis poveikis organizacijos vykdoma veikla, ir su visuomene. Socialinio poveikio rezultatai turi būti patvirtinti nevyriausybinės organizacijos steigėjų ir skelbiami viešai. Socialinio poveikio matavimas taikomas tik toms nevyriausybinėms organizacijoms, kurių pagrindinis tikslas – teikti viešąsias paslaugas.
+5) siekia išmatuojamo teigiamo socialinio poveikio visuomenei ar jos daliai, steigimo dokumente arba steigėjų ar dalyvių patvirtintame dokumente yra nurodžiusi siekiamo socialinio poveikio tikslą (sprendžiamą socialinę problemą), išmatuojamo socialinio poveikio rodiklius, šių rodiklių vertinimo metodiką ir vieną kartą per kalendorinius metus vertina praėjusių kalendorinių metų veiklos socialinį poveikį, ir veiklą siekiant socialinio poveikio organizuoja konsultuodamasi (suteikdama galimybę teikti nuomonę ir pasiūlymus) su asmenimis, kuriems daromas socialinis poveikis organizacijos vykdoma veikla, ir su visuomene. Socialinio poveikio rezultatai turi būti patvirtinti nevyriausybinės organizacijos steigėjų ar dalyvių ir skelbiami viešai. Socialinio poveikio matavimas taikomas tik toms nevyriausybinėms organizacijoms, kurių pagrindinis tikslas – teikti viešąsias paslaugas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2461, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25956
+ 
 
 
 
@@ -648,7 +651,7 @@ INFORMACIJOS APIE NEVYRIAUSYBINES ORGANIZACIJAS KAUPIMAS
 
 
 
-4. Asignavimų valdytojas, turėdamas duomenų, kad juridinis asmuo neatitinka šio įstatymo 2 straipsnio 3 dalyje nustatytos nevyriausybinės organizacijos sąvokos, kreipiasi į Juridinių asmenų registro tvarkytoją dėl žymos, kad juridinis asmuo yra  nevyriausybinė organizacija, panaikinimo.
+4. Asignavimų valdytojas, turėdamas duomenų, kad juridinis asmuo neatitinka šio įstatymo 2 straipsnio 3 dalyje nustatytos nevyriausybinės organizacijos sąvokos, kreipiasi į Juridinių asmenų registro tvarkytoją dėl žymos, kad juridinis asmuo yra  nevyriausybinė organizacija, panaikinimo.
 
 
 
@@ -700,3 +703,8 @@ Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-7
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-916, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01289
 Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 2, 5, 6, 7, 8 ir 9 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2461, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25956
+Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 8 straipsnio pakeitimo įstatymas
