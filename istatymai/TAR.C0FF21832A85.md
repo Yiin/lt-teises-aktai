@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2024-12-23
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -149,7 +149,10 @@ Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 
 
 
-2) kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, teikiamos paramos dalykas yra piniginės lėšos, suteiktos paslaugos ir bet koks kitas turtas, įskaitant pagamintas ar įsigytas prekes. 
+2) Neteko galios nuo 2023-12-30
+Straipsnio punkto naikinimas:
+Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -337,7 +340,9 @@ Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 
 
 
-21. Paramos dalyko, nurodyto šio įstatymo 4 straipsnio 3 dalies 2 punkte, gavėjais gali būti fiziniai asmenys, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius. Fiziniai asmenys, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, turi paramos gavėjo statusą ir jiems netaikomos šio įstatymo 13 straipsnio nuostatos. 
+21. Neteko galios nuo 2023-12-30
+Straipsnio dalies naikinimas:
+Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
 Papildyta straipsnio dalimi:
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
  
@@ -345,9 +350,10 @@ Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą. Šio straipsnio 21 dalyje nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą, kai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius.
+3. Šio straipsnio 1 ir 2 dalyse nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
  
 
 
@@ -412,9 +418,10 @@ Nr. XIV-944, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05123
 
 
 
-6. Šio straipsnio nuostatos netaikomos fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, ir šio įstatymo 7 straipsnio 21 dalyje nurodytiems fiziniams asmenims.
+6. Šio straipsnio nuostatos netaikomos fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
  
 
 
@@ -467,7 +474,10 @@ Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 
 
 
-2) kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, parama teikiama šio straipsnio 1 dalies 1, 3, 4 ir 5 punktuose nurodytais būdais.
+2) Neteko galios nuo 2023-12-30
+Straipsnio punkto naikinimas:
+Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -827,7 +837,9 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
-31. Fiziniai asmenys, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, turi teisę netvarkyti pagal šį įstatymą gaunamos ir panaudojamos paramos apskaitos, neprivalo atsiskaityti už gaunamą paramą ir (ar) jos panaudojimą ir jiems netaikomos šio straipsnio nuostatos.
+31. Neteko galios nuo 2023-12-30
+Straipsnio dalies naikinimas:
+Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
 Papildyta straipsnio dalimi:
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
  
@@ -1221,3 +1233,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 7 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 7, 9-1 ir 10 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4, 7, 8, 9 ir 11 straipsnių pakeitimo įstatymas
