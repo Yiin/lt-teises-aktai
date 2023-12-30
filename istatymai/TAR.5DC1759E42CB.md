@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -1715,7 +1715,7 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 
 
-2) nustato taktinių ir logistinių transporto priemonių ir jų priekabų, kurios yra priskirtinos traktorių, savaeigių mašinų ar jų priekabų kategorijoms, techninės apžiūros tvarką ir techninius reikalavimus. 
+2) nustato taktinių ir logistinių transporto priemonių ir jų priekabų, kurios yra priskirtinos traktorių, savaeigių mašinų ar jų priekabų kategorijoms, techninės apžiūros tvarką ir techninius reikalavimus;
 
 
 Papildyta straipsnio dalimi:
@@ -1901,7 +1901,7 @@ Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 
 
-4) suteikia arba panaikina įgaliojimą atlikti Lietuvoje registruotų transporto priemonių privalomąją techninę apžiūrą Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje subjektams, kuriuos atlikti privalomąją techninę apžiūrą įgaliojo valstybė, kurioje jie yra. 
+4) suteikia arba panaikina įgaliojimą atlikti Lietuvoje registruotų transporto priemonių privalomąją techninę apžiūrą Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje subjektams, kuriuos atlikti privalomąją techninę apžiūrą įgaliojo valstybė, kurioje jie yra; 
 
 
 Papildyta straipsnio dalimi:
@@ -3656,25 +3656,6 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 9. Pradedantiesiems vairuotojams draudžiama vairuoti motorines transporto priemones, kurios pritaikytos eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje. 
 
 
-
-
-10. Jeigu savivaldžio automobilio gamintojas numatė galimybę asmeniui tiesiogiai ar nuotoliniu būdu valdyti savivaldį automobilį, savivaldžio automobilio įranga privalo būti tokia, kad būtų sudaryta galimybė patikrinti, ar savivaldis automobilis yra valdomas savivaldžio automobilio įrangos veiksmais, ar jį tiesiogiai arba nuotoliniu būdu valdo asmuo. 
-Papildyta straipsnio dalimi:
-Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
- 
-
-
-
-
-11. Savivaldis automobilis privalo būti toks, kad galėtų tinkamai ir saugiai važiuoti nekeldamas pavojaus kitiems eismo dalyviams, kitų asmenų ar jų turto saugumui ir aplinkai, nesudarytų kliūčių eismui, pasirinktų saugų važiavimo greitį, įvertintų važiavimo sąlygas, vietovės reljefą, kelio būklę, savo būklę ir krovinį, meteorologines sąlygas, taip pat eismo intensyvumą, kad galėtų saugiai sustoti iki bet kurios kliūties, taip pat automobilį stabdant tikrinantiems pareigūnams. Savivaldis automobilis privalo būti toks, kad galėtų sulėtinti greitį ir prireikus saugiai sustoti, jeigu to reikia dėl atsiradusių aplinkybių. 
-Straipsnio pakeitimai:
-Nr. XI-760, 2010-04-15, Žin., 2010, Nr. 48-2308 (2010-04-27)
-Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
-Papildyta straipsnio dalimi:
-Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
- 
-
-
 Straipsnio pakeitimai:
 Nr. XIII-107, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29786
  
@@ -4804,6 +4785,26 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1858, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05789
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10, 11-1 ir 33 straipsnių pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10 ir 25 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10 ir 25 straipsnių pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 6-1, 10, 13, 22 ir 24 straipsnių pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2451, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26031
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 3, 10, 13, 15, 17, 19, 20, 22, 24, 25, 27-1, 29, 30 ir 33 straipsnių pakeitimo įstatymo Nr. XIV-1445 17 straipsnio pakeitimo įstatymas
  
  
 
