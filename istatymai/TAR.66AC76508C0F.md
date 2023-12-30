@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/66ac76508c0f11ed8df094f359a60216"
 
 # Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
 
+Suvestinė redakcija nuo 2023-12-30
+ 
+Įstatymas paskelbtas: TAR 2023-01-04, i. k. 2023-00147
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 STRAIPSNIŲ PAKEITIMO IR 11 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 ĮSTATYMAS
@@ -609,7 +616,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 
 
-„1. Preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų, skirtų asmenims priimti mokytis pagal formaliojo profesinio mokymo programas profesinio mokymo įstaigose ir kitose valstybinėse ar savivaldybių švietimo įstaigose, skaičių 2 metams nustato Vyriausybė pagal Lietuvos švietimo klasifikatoriuje nustatytas švietimo sritis iki atitinkamų metų sausio 20 dienos. Šis skaičius nustatomas atsižvelgus į valstybės ir savivaldybės ūkinės ir socialinės plėtros poreikius, įvertinus nacionalinės žmogiškųjų išteklių stebėsenos informaciją, profesinio mokymo kvalifikacijų poreikio prognozes, pagrindinio ugdymo pasiekimų patikrinimų rezultatų informaciją, regionų plėtros tarybų siūlymus ir valstybės finansines galimybes. Į preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų skaičių neįskaičiuojamos bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo vietos bei profesinio mokymo, vykdomo Užimtumo įstatymo ir Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo nustatyta tvarka, vietos.“
+„1. Preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų, skirtų asmenims priimti mokytis pagal formaliojo profesinio mokymo programas profesinio mokymo įstaigose ir kitose valstybinėse ar savivaldybių švietimo įstaigose, skaičių 2 metams nustato Vyriausybė pagal Lietuvos švietimo klasifikatoriuje nustatytas švietimo sritis iki atitinkamų metų sausio 20 dienos. Šis skaičius nustatomas atsižvelgus į valstybės ir savivaldybės ūkinės ir socialinės plėtros poreikius, įvertinus nacionalinės žmogiškųjų išteklių stebėsenos informaciją, profesinio mokymo kvalifikacijų poreikio prognozes, pagrindinio ugdymo pasiekimų patikrinimų rezultatų informaciją, regionų plėtros tarybų siūlymus ir valstybės finansines galimybes. Į preliminarų valstybės finansuojamų formaliojo profesinio mokymo vietų skaičių neįskaičiuojamos bausmių vykdymo sistemos profesinio mokymo, muitinės pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo vietos bei profesinio mokymo, vykdomo Užimtumo įstatymo ir Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo nustatyta tvarka, vietos.“
 
 
 
@@ -623,14 +630,16 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 
 
-„3. Priėmimą mokytis pagal formaliojo profesinio mokymo programas į profesinio mokymo įstaigų ir kitų valstybinių ar savivaldybių švietimo įstaigų valstybės finansuojamas formaliojo profesinio mokymo vietas centralizuotai vykdo švietimo, mokslo ir sporto ministro įgaliota institucija. Ši nuostata netaikoma bausmių vykdymo sistemos profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjams, profesinio mokymo teikėjams, vykdantiems asmenų, kuriems taikomas Užimtumo įstatymas ir Asmens su negalia teisių apsaugos pagrindų įstatymas, profesinį mokymą.“
+„3. Priėmimą mokytis pagal formaliojo profesinio mokymo programas į profesinio mokymo įstaigų ir kitų valstybinių ar savivaldybių švietimo įstaigų valstybės finansuojamas formaliojo profesinio mokymo vietas centralizuotai vykdo švietimo, mokslo ir sporto ministro įgaliota institucija. Ši nuostata netaikoma bausmių vykdymo sistemos profesinio mokymo, muitinės pareigūnų profesinio mokymo ir vidaus reikalų profesinio mokymo teikėjams, profesinio mokymo teikėjams, vykdantiems asmenų, kuriems taikomas Užimtumo įstatymas ir Asmens su negalia teisių apsaugos pagrindų įstatymas, profesinį mokymą.
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
  
-
-
-
-
-
-
 
 
 
@@ -1032,7 +1041,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 
 
-2) teisės aktų nustatyta tvarka jam  nustatytas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis;
+2) teisės aktų nustatyta tvarka jam nustatytas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis);
 
 
 
@@ -1049,7 +1058,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 
 
-5. Mokymo lėšos profesiniam mokymui pagal formaliojo profesinio mokymo programas ar jų modulius valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka, valstybiniams, savivaldybių ir nevalstybiniams profesinio mokymo teikėjams apskaičiuojamos ir skiriamos iš Švietimo, mokslo ir sporto ministerijai patvirtintų valstybės biudžeto asignavimų, taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos bausmių vykdymo sistemos profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų vykdomam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą bausmių vykdymo sistemos profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.
+5. Mokymo lėšos profesiniam mokymui pagal formaliojo profesinio mokymo programas ar jų modulius valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka, valstybiniams, savivaldybių ir nevalstybiniams profesinio mokymo teikėjams apskaičiuojamos ir skiriamos iš Švietimo, mokslo ir sporto ministerijai patvirtintų valstybės biudžeto asignavimų, taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos bausmių vykdymo sistemos profesinio mokymo įstaigų, muitinės pareigūnų profesinio mokymo įstaigos ir vidaus reikalų profesinio mokymo įstaigų vykdomam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą bausmių vykdymo sistemos profesinio mokymo įstaigų, muitinės pareigūnų profesinio mokymo įstaigos ir vidaus reikalų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.
 
 
 
@@ -1069,7 +1078,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 
 
-9. Kai asmenys mokosi valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka, valstybės biudžeto lėšos asmens kompetencijoms vertinti apskaičiuojamos taikant Vyriausybės patvirtintą kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką, išskyrus bausmių vykdymo sistemos pareigūnų ir vidaus reikalų profesinio mokymo įstaigų mokinių kompetencijų vertinimą. Lėšos asmens kompetencijoms vertinti skirstomos vadovaujantis švietimo, mokslo ir sporto ministro tvirtinamu lėšų kompetencijoms vertinti paskirstymo tvarkos aprašu. Bausmių vykdymo sistemos profesinio mokymo įstaigų mokinių kompetencijų vertinimas finansuojamas teisingumo ministro nustatyta tvarka. Vidaus reikalų profesinio mokymo įstaigų mokinių kompetencijų vertinimas finansuojamas vidaus reikalų ministro nustatyta tvarka.
+9. Kai asmenys mokosi valstybės finansuojamose profesinio mokymo vietose, kurių skaičius nustatomas šio įstatymo 18 straipsnio 2 dalyje nustatyta tvarka, valstybės biudžeto lėšos asmens kompetencijoms vertinti apskaičiuojamos taikant Vyriausybės patvirtintą kompetencijų vertinimo lėšų skaičiavimo vienam asmeniui metodiką, išskyrus bausmių vykdymo sistemos profesinio mokymo įstaigų, muitinės pareigūnų profesinio mokymo įstaigos ir vidaus reikalų profesinio mokymo įstaigų mokinių kompetencijų vertinimą. Lėšos asmens kompetencijoms vertinti skirstomos vadovaujantis švietimo, mokslo ir sporto ministro tvirtinamu lėšų kompetencijoms vertinti paskirstymo tvarkos aprašu. Bausmių vykdymo sistemos profesinio mokymo įstaigų mokinių kompetencijų vertinimas finansuojamas teisingumo ministro nustatyta tvarka. Muitinės pareigūnų profesinio mokymo įstaigos mokinių kompetencijų vertinimas finansuojamas finansų ministro nustatyta tvarka. Vidaus reikalų profesinio mokymo įstaigų mokinių kompetencijų vertinimas finansuojamas vidaus reikalų ministro nustatyta tvarka.
 
 
 
@@ -1108,17 +1117,19 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 
 3) lėšas asmens kompetencijoms vertinti, kurios apskaičiuojamos taikant šio straipsnio 9 dalyje nurodytą metodiką (šio punkto nuostata taikoma tik tais atvejais, kai atliekamas asmens kompetencijų vertinimas).“
+
+
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
  
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1134,7 +1145,7 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 „38 straipsnis. Materialinė parama
 
 
-1. Mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas ar jų modulius, siekdami įgyti pirmąją kvalifikaciją, bausmių vykdymo sistemos profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokama mokymosi stipendija, socialinė stipendija ir teikiama kita materialinė parama. Mokymosi stipendija nemokama mokiniams, neturintiems teisės į valstybės finansuojamą vietą, o mokiniams, kuriems laikinai atimta ar apribota laisvė, nemokama socialinė stipendija ir neteikiama kita materialinė parama.
+1. Mokiniams, kurie mokosi pagal formaliojo profesinio mokymo programas ar jų modulius, siekdami įgyti pirmąją kvalifikaciją, bausmių vykdymo sistemos profesinio mokymo įstaigų, muitinės pareigūnų profesinio mokymo įstaigos ir vidaus reikalų profesinio mokymo įstaigų mokiniams Vyriausybės nustatyta tvarka gali būti mokama mokymosi stipendija, socialinė stipendija ir teikiama kita materialinė parama. Mokymosi stipendija nemokama mokiniams, neturintiems teisės į valstybės finansuojamą vietą, o mokiniams, kuriems laikinai atimta ar apribota laisvė, nemokama socialinė stipendija ir neteikiama kita materialinė parama.
 
 
 
@@ -1144,16 +1155,18 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Mokiniams, kurių mokymas vykdomas pagal Užimtumo įstatymą, stipendija skiriama Užimtumo įstatymo ir jo įgyvendinamųjų teisės aktų nustatytomis sąlygomis ir tvarka. Mokiniams, dalyvaujantiems profesinės reabilitacijos programoje pagal Asmens su negalia teisių apsaugos pagrindų įstatymą, profesinės reabilitacijos išmoka skiriama Asmens su negalia teisių apsaugos pagrindų įstatymo ir Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo ir šių įstatymų  įgyvendinamųjų teisės aktų nustatytomis sąlygomis ir tvarka.“
+3. Mokiniams, kurių mokymas vykdomas pagal Užimtumo įstatymą, stipendija skiriama Užimtumo įstatymo ir jo įgyvendinamųjų teisės aktų nustatytomis sąlygomis ir tvarka. Mokiniams, dalyvaujantiems profesinės reabilitacijos programoje pagal Asmens su negalia teisių apsaugos pagrindų įstatymą, profesinės reabilitacijos išmoka skiriama Asmens su negalia teisių apsaugos pagrindų įstatymo ir Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo ir šių įstatymų įgyvendinamųjų teisės aktų nustatytomis sąlygomis ir tvarka.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
  
-
-
-
-
-
-
-
-
 
 
 
@@ -1284,3 +1297,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, 39 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-1732 9, 18 ir 19 straipsnių pakeitimo įstatymas
