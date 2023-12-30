@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
  
@@ -152,35 +152,34 @@ Asmens mirties faktą nustato:
 
 
 
-2) gydytojas patologas;
+2) gydytojų konsiliumas;
 
 
 
 
-3) gydytojas teismo medicinos ekspertas;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
+3) skubiosios nestacionarinės medicinos pagalbos įstaigų slaugos specialistai;
+
+
+
+
+4) slaugos specialistas, tiesiogiai atlikęs mirusio asmens sveikatos priežiūrą nesant gydytojo;
+
+
+
+
+5) paramedikai;
+
+
+
+
+6) skubiosios medicinos pagalbos paramedikai.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2432, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25933
  
-
-
-
-
-4) gydytojų konsiliumas;
-
-
-
-
-5) skubios nestacionarinės medicinos pagalbos įstaigų slaugos specialistai;
-
-
-
-
-6) slaugos specialistas, tiesiogiai atlikęs mirusio asmens sveikatos priežiūrą nesant gydytojo.
- 
-
-
-
-
 
 
 
@@ -770,3 +769,8 @@ Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
 Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 4, 13, 14 ir 15 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2432, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25933
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 4 straipsnio pakeitimo įstatymas
