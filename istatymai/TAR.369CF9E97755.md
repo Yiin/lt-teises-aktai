@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2023-12-29
+Suvestinė redakcija nuo 2023-12-30 iki 2024-01-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
  
@@ -157,7 +157,10 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 3 straipsnis. Bendrosios praktikos slaugytojų, išplėstinės praktikos slaugytojų ir akušerių profesinės kvalifikacijos ir slaugos specializacijos įgijimas ir kompetencijos nustatymas
 
 
-1. Bendrosios praktikos slaugytojo ar akušerio profesinė kvalifikacija įgyjama aukštojoje mokykloje baigus slaugos ar akušerijos studijų programas. Išplėstinės praktikos slaugytojo profesinė kvalifikacija įgyjama baigus medicinos gydytojus rengiančiame universitete slaugos magistrantūros studijų programą ir išlaikius kvalifikacinį egzaminą.
+1. Bendrosios praktikos slaugytojo ar akušerio profesinė kvalifikacija įgyjama aukštojoje mokykloje baigus slaugos ar akušerijos studijų programas. Išplėstinės praktikos slaugytojo profesinė kvalifikacija įgyjama universitete baigus slaugos magistrantūros studijų programą ir išlaikius kvalifikacinį egzaminą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2452, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25943
+ 
 
 
 
@@ -752,7 +755,7 @@ Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA
 
 
 
-6) pagal kompetenciją teikti medikamentinę pagalbą būtinosios medicinos pagalbos atvejais. 
+6) pagal kompetenciją teikti medikamentinę pagalbą būtinosios medicinos pagalbos atvejais; 
 Papildyta straipsnio punktu:
 Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
  
@@ -842,7 +845,7 @@ Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 
 
-6) sveikatos apsaugos ministro nustatyta tvarka teikti gimdyvei gimdymo priežiūros paslaugas namuose, kai nėra didelės rizikos nėštumo veiksnių, kurių sąrašą nustato sveikatos apsaugos ministras. 
+6) sveikatos apsaugos ministro nustatyta tvarka teikti gimdyvei gimdymo priežiūros paslaugas namuose, kai nėra didelės rizikos nėštumo veiksnių, kurių sąrašą nustato sveikatos apsaugos ministras; 
 Papildyta straipsnio punktu:
 Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
  
@@ -1158,3 +1161,13 @@ Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
 Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 2, 5, 7, 8, 9, 13 ir 14 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 11, 11-1 ir 12 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2452, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25943
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 3 straipsnio pakeitimo įstatymas
