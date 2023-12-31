@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-30
+Suvestinė redakcija nuo 2023-12-31 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
  
@@ -1392,7 +1392,7 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 
 
-11) apie kurį Valstybės saugumo departamentas turi duomenų, kad jis gali kelti arba kelia grėsmę valstybės saugumui. Šiuos duomenis Valstybės saugumo departamentas perduoda policijos įstaigai.
+11) apie kurį Valstybės saugumo departamentas turi duomenų, kad jis gali kelti arba kelia grėsmę valstybės saugumui. Šiuos duomenis Valstybės saugumo departamentas perduoda policijos įstaigai;
 
 
 Straipsnio dalies pakeitimai:
@@ -1439,6 +1439,10 @@ Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 
 
 1) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 6 metus laisvės atėmimo;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies (2021 m. balandžio 29 d. redakcija, TAR, 2021-05-04, Nr. 9685, identifikacinis kodas 2021-09685) 1 punktas tiek, kiek jame nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies (2022 m. kovo 24 d. redakcija) 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 2, 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui. 
+Straipsnio punkto pakeitimai:
+Nr. KT30-N3/2023, 2023-03-15, paskelbta TAR 2023-12-31, i. k. 2023-26122
+ 
 
 
 
@@ -4095,3 +4099,13 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 3, 13
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 1, 2, 3, 9, 12, 16, 19, 21, 22, 23, 24, 25, 26, 27, 28, 30, 34, 36, 37, 38, 39, 40, 41, 42, 43, 45-1, 46 straipsnių ir priedo pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 13, 17 ir 30 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT30-N3/2023, 2023-03-15, paskelbta TAR 2023-12-31, i. k. 2023-26122
+Dėl Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies 1 punkto atitikties Lietuvos Respublikos Konstitucijai
