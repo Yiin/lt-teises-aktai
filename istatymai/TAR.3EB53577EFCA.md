@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.03.17)
 
 
 
-Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
  
@@ -1392,7 +1392,10 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
 
 
-9. Atrankoje dalyvavęs pretendentas į prokurorus turi teisę per septynias dienas po Atrankos komisijos išvadų paskelbimo pateikti Vilniaus apygardos administraciniam teismui skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui. Vilniaus apygardos administracinis teismas, priėmęs skundą, turi teisę sustabdyti prokuroro skyrimo procedūrą. Skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui, Vilniaus apygardos administracinis teismas turi išnagrinėti ne vėliau kaip per trisdešimt dienų nuo skundo gavimo dienos. Vilniaus apygardos administracinis teismas, pripažinęs, kad atrankos metu buvo padaryta esminių procedūrinių pažeidimų, turėjusių įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui, gali įpareigoti Atrankos komisiją iš naujo įvertinti atrankoje dalyvavusį ir skundą pateikusį pretendentą į prokurorus arba Atrankos komisijos išvadą panaikinti. Šiuo atveju atranka atliekama iš naujo. Šis Vilniaus apygardos administracinio teismo sprendimas yra galutinis ir neskundžiamas.
+9. Atrankoje dalyvavęs pretendentas į prokurorus turi teisę per septynias dienas po Atrankos komisijos išvadų paskelbimo pateikti pirmosios instancijos administraciniam teismui skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui. Teismas, priėmęs skundą, turi teisę sustabdyti prokuroro skyrimo procedūrą. Skundą dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui, teismas turi išnagrinėti ne vėliau kaip per trisdešimt dienų nuo skundo gavimo dienos. Teismas, pripažinęs, kad atrankos metu buvo padaryta esminių procedūrinių pažeidimų, turėjusių įtakos objektyviam atrankoje dalyvavusių pretendentų į prokurorus įvertinimui, gali įpareigoti Atrankos komisiją iš naujo įvertinti atrankoje dalyvavusį ir skundą pateikusį pretendentą į prokurorus arba Atrankos komisijos išvadą panaikinti. Šiuo atveju atranka atliekama iš naujo. Šis pirmosios instancijos administracinio teismo sprendimas yra galutinis ir neskundžiamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1605, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25184
+ 
 
 
 
@@ -2937,12 +2940,7 @@ PROKURORŲ SOCIALINĖS GARANTIJOS
 49 straipsnis. Prokurorų darbo užmokestis
 
 
-1. Prokurorų darbo užmokesčiui apskaičiuoti taikomas pareiginės algos bazinis dydis (toliau – bazinis dydis), kurį vadovaudamasis Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatomis tvirtina Seimas.
-
-
-
-
-2. Prokurorų darbo užmokestis susideda iš:
+1. Prokurorų darbo užmokestis susideda iš:
 
 
 1) pareiginės algos;
@@ -2950,62 +2948,44 @@ PROKURORŲ SOCIALINĖS GARANTIJOS
 
 
 
-2) priedo už tarnybos Lietuvos valstybei stažą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
- 
+2) priemokos pagal šio Įstatymo 161 straipsnį;
 
 
 
 
-3) priemokos pagal šio Įstatymo 161 straipsnį;
-
-
-
-
-4) mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą.
-Papildyta straipsnio punktu:
-Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
- 
+3) mokėjimo už darbą ir budėjimą poilsio ir švenčių dienomis, pavadavimą, nakties ir viršvalandinį darbą.
 
 
 
 
 
 
-3. Prokurorų darbo užmokestis apskaičiuojamas atitinkamą pareiginės algos koeficientą, nustatytą šio Įstatymo 1 priede, dauginant iš bazinio dydžio. Prokurorų pareiginė alga apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis skaitmuo būtų 0 arba 5.
+2. Generaliniam prokurorui ir jo pavaduotojams šio straipsnio 1 dalies 2 punkte nustatyta priemoka ir šio Įstatymo 39 straipsnio 1 dalies 3 punkte numatyta išmoka netaikoma.
 
 
 
 
-4. Prokurorams mokamas priedas už tarnybos Lietuvos valstybei stažą, nurodytą Valstybės tarnybos įstatymo 47 straipsnio 1 ir 2 dalyse. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
- 
+3. Prokurorų pareiginė alga apskaičiuojama šio Įstatymo 1 priede nustatytą atitinkamos pareiginės algos koeficientą padauginus iš Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto bazinio dydžio.
 
 
 
 
-5. Priedą už tarnybos Lietuvos valstybei stažą sudaro 1 procentas prokuroro pareiginės algos už kiekvienus metus. Šio priedo dydis negali viršyti 30 procentų prokuroro pareiginės algos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
- 
+4. Prokurorų pareiginė alga indeksuojama Pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo nustatyta tvarka.
 
 
 
 
-6. Priemokos, jeigu ji skiriama pagal šio Įstatymo 161 straipsnį, suma gali siekti iki 30 procentų pareiginės algos.
+5. Priemokos, jeigu ji skiriama pagal šio Įstatymo 161 straipsnį, dydis gali siekti iki 30 procentų pareiginės algos.
 
 
 
 
-7. Duomenys apie prokurorų darbo užmokestį yra vieši. Šie duomenys teikiami Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nustatyta tvarka. 
-Straipsnio pakeitimai:
-Nr. X-1785, 2008-11-06, Žin., 2008, Nr. 131-5035 (2008-11-15)
+6. Duomenys apie prokurorų darbo užmokestį yra vieši. Šie duomenys teikiami Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
+Nr. XIV-2321, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25078
  
 
 
@@ -3110,39 +3090,64 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
 
 
-501 straipsnis. Darbas poilsio ir švenčių dienomis, nakties ir viršvalandinis darbas
+501 straipsnis. Darbas ir budėjimas poilsio ir švenčių dienomis, pavadavimas, nakties ir viršvalandinis darbas
 
 
-1. Prokurorui, kuris, atlikdamas generalinio prokuroro ar jo pavaduotojo įsakymu pavestas funkcijas, nurodytas Baudžiamojo proceso kodekse ir kituose įstatymuose, dirba poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą pasibaigus darbo dienai, mokamas darbo užmokestis arba prie prokuroro kasmetinių atostogų pridedamas darbo poilsio ir švenčių dienomis laikas, nakties ir viršvalandinio darbo laikas.
-
-
-
-
-2. Prokurorui už darbą poilsio ir švenčių dienomis mokamas dvigubas prokuroro darbo užmokestis.
+1. Prokurorui už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą pasibaigus darbo dienai mokama, kai prokuroras atlieka generalinio prokuroro ar jo pavaduotojo įsakymu pavestas funkcijas, nurodytas Baudžiamojo proceso kodekse ir kituose įstatymuose.
 
 
 
 
-3. Prokurorui už darbą naktį mokamas pusantro prokuroro darbo užmokesčio dydžio užmokestis.
+2. Prokurorui už budėjimą poilsio ir švenčių dienomis mokama, kai pagal generalinio prokuroro ar teritorinės prokuratūros vyriausiojo prokuroro patvirtintą budėjimo grafiką prokuroras turi būti nurodytoje vietoje (darbo vietoje arba namuose) poilsio ir švenčių dienomis, kad prireikus galėtų atlikti neatidėliotinus veiksmus.
 
 
 
 
-4. Prokurorui už viršvalandinį darbą mokamas pusantro prokuroro darbo užmokesčio dydžio užmokestis. Už viršvalandinį darbą poilsio dienomis ar viršvalandinį darbą naktį mokamas dvigubas prokuroro darbo užmokestis, o už viršvalandinį darbą švenčių dienomis – dviejų su puse prokuroro darbo užmokesčio dydžio užmokestis.
+3. Prokurorui už darbą ir budėjimą darbo vietoje poilsio ir švenčių dienomis mokamas dvigubas prokuroro darbo užmokestis.
 
 
 
 
-5. Prokuroro prašymu darbo poilsio ir švenčių dienomis laikas, nakties ir viršvalandinio darbo laikas, padaugintas iš šio straipsnio 2, 3, 4 dalyse nustatyto atitinkamo darbo užmokesčio dydžio, gali būti pridedamas prie prokuroro kasmetinių atostogų laiko.
+4. Prokurorui už darbą naktį mokamas pusantro prokuroro darbo užmokesčio dydžio užmokestis.
 
 
 
 
-6. Šiame straipsnyje numatyto mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą ir poilsio laiko už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą suteikimo tvarką nustato generalinis prokuroras.
+5. Prokurorui už viršvalandinį darbą mokamas pusantro prokuroro darbo užmokesčio dydžio užmokestis. Už viršvalandinį darbą poilsio dienomis ar viršvalandinį darbą naktį mokamas dvigubas prokuroro darbo užmokestis, o už viršvalandinį darbą švenčių dienomis – dviejų su puse prokuroro darbo užmokesčio dydžio užmokestis.
 
 
-Papildyta straipsniu:
-Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
+
+
+6. Prokurorui už budėjimą poilsio ir švenčių dienomis namuose mokamas 50 procentų jo darbo užmokesčio dydžio užmokestis proporcingai budėtam laikui. Už darbą atvykus į darbo vietą atlikti neatidėliotinų veiksmų poilsio ir švenčių dienomis mokama šio straipsnio 3 dalyje nustatyta tvarka.
+
+
+
+
+7. Prokuroro prašymu už darbą ar budėjimą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą mokama šio straipsnio 3, 4, 5, 6 dalyse nustatyta tvarka arba jam artimiausią mėnesį suteikiamas poilsio laikas, padaugintas iš šio straipsnio 3, 4, 5, 6 dalyse nustatyto atitinkamo darbo užmokesčio dydžio, arba šis poilsio laikas pridedamas prie kasmetinių atostogų. Už suteiktą poilsio laiką prokurorui mokamas jo darbo užmokesčio dydžio užmokestis.
+
+
+
+
+8. Kai prokuroras laikinai pavaduoja aukštesnįjį prokurorą (neturintį pavaduotojo), jam mokama aukštesniojo prokuroro pareiginė alga.
+
+
+
+
+9. Prokurorui už šiame straipsnyje nurodytą darbą taikomas darbo užmokestis, susidedantis iš prokurorui mokamų šio įstatymo 49 straipsnio 1 dalies 1 ir 2 punktuose nurodytų darbo užmokesčio dalių.
+
+
+
+
+10. Šiame straipsnyje numatyto mokėjimo už darbą ir budėjimą poilsio ir švenčių dienomis, pavadavimą, nakties ir viršvalandinį darbą ir poilsio laiko už darbą ir budėjimą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą suteikimo tvarką nustato generalinis prokuroras.
+
+
+
+
+11. Prokurorui už darbą ir budėjimą poilsio ir švenčių dienomis mokama pagal darbo laiko apskaitos žiniaraščiuose žymimą laiką. Budėjimo namuose laikas į darbo laiką neįskaičiuojamas, išskyrus laiką, per kurį, atvykus į darbo vietą, faktiškai atliekami neatidėliotini veiksmai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2321, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25078
  
 
 
@@ -3527,11 +3532,11 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
-Lietuvos Respublikos 
+Lietuvos Respublikos
 prokuratūros įstatymo
 1 priedas
  
-Prokurorų PAREIGINĖS ALGOS
+PROKURORŲ PAREIGINĖS ALGOS
  
 (Baziniais dydžiais)
 
@@ -3539,130 +3544,133 @@ Prokurorų PAREIGINĖS ALGOS
 
  Eil. Nr. 
  Pareigų pavadinimas 
- Pareiginės algos koeficientas 
+ Pareiginės algos koeficientas  
 
 
 
 
  1. 
  Generalinė prokuratūra 
-   
+
 
 
  1.1. 
  Generalinis prokuroras 
- 22,9 
+ 4,41 
 
 
  1.2. 
  Generalinio prokuroro pavaduotojas 
- 21,2 
+ 4,21 
 
 
  1.3. 
  Departamento vyriausiasis prokuroras, Lietuvos nacionalinis narys Eurojuste 
- 20,2 
+ 3,68 
 
 
  1.4. 
  Skyriaus vyriausiasis prokuroras 
- 19,2 
+ 3,58 
 
 
  1.5. 
  Departamento vyriausiojo prokuroro pavaduotojas, departamento skyriaus vyriausiasis prokuroras, Lietuvos nacionalinio nario Eurojuste pavaduotojas, kurio darbo vieta yra Eurojusto buveinės vietoje 
- 19,0 
+ 3,48 
 
 
  1.6. 
  Skyriaus vyriausiojo prokuroro pavaduotojas 
- 18,6 
+ 3,38 
 
 
  1.7. 
  Departamento skyriaus vyriausiojo prokuroro pavaduotojas 
- 18,6 
+ 3,28 
 
 
  1.8. 
  ONKT departamento prokuroras 
- 18,5 
+ 3,18 
 
 
  1.9. 
  Departamento prokuroras, departamento skyriaus prokuroras, skyriaus prokuroras, prokuroras, Lietuvos nacionalinio nario Eurojuste padėjėjas, kurio darbo vieta yra Eurojusto buveinės vietoje 
- 17,7 
+ 3,08 
 
 
  2. 
  Apygardų prokuratūros 
-   
+
 
 
  2.1. 
  Vyriausiasis prokuroras 
- 19,2 
+ 3,15 
 
 
  2.2. 
  Vyriausiojo prokuroro pavaduotojas 
- 18,5 
+ 3,10 
 
 
  2.3. 
  Specializuoto skyriaus vyriausiasis prokuroras 
- 17,7 
+ 3,08 
 
 
  2.4. 
  Specializuoto skyriaus vyriausiojo prokuroro pavaduotojas 
- 17,3 
+ 3,06 
 
 
  2.5. 
  ONKT skyriaus prokuroras 
- 17,0 
+ 2,80 
 
 
  2.6. 
  Specializuoto skyriaus prokuroras 
- 16,5 
+ 2,70 
 
 
  3. 
  Apygardų prokuratūrų apylinkių prokuratūros 
-   
+
 
 
  3.1. 
  Vyriausiasis prokuroras 
- 17,7 
+ 3,08 
 
 
  3.2. 
  Vyriausiojo prokuroro pavaduotojas 
- 16,0 
+ 3,06 
 
 
  3.3. 
  Skyriaus vyriausiasis prokuroras 
- 15,7 
+ 2,83 
 
 
  3.4. 
  Skyriaus vyriausiojo prokuroro pavaduotojas 
- 15,2 
+ 2,73 
 
 
  3.5. 
  Prokuroras 
- 13,9 
+ 2,63 
 
 
 
-Pastaba. ONKT – organizuotų nusikaltimų ir korupcijos tyrimas. 
+Pastaba. ONKT – organizuotų nusikaltimų ir korupcijos tyrimas.
+______________________
 Papildyta priedu:
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
+Priedo pakeitimai:
+Nr. XIV-2321, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25078
  
 
 
