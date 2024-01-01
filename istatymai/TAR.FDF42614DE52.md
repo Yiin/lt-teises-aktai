@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-07-02 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-05-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
- 
-TAR pastaba. Įstatymas Nr. XIV-1970 taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. 2023 metų Valstybinio socialinio draudimo fondo biudžetas nedarbo socialinio draudimo srityje vykdomas pagal Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nuostatas, galiojusias iki įstatymo Nr. XIV-170 įsigaliojimo dienos (2023-07-02).
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1970, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10363
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 19 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-07-01:
 Nr. XII-2471, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18826
@@ -236,7 +231,10 @@ Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
 
 
 
-4. Pratęsiant nedarbo draudimo išmokos mokėjimą šio įstatymo 12 straipsnio 1, 2, 3 ir 5 dalyse numatytais atvejais, mokama nedarbo draudimo išmoka, kurios dydis yra lygus mokėjimo termino pabaigos dieną galiojusiam nedarbo draudimo išmokos dydžiui. 
+4. Pratęsiant nedarbo draudimo išmokos mokėjimą šio įstatymo 12 straipsnio 1, 2 ir 5 dalyse numatytais atvejais, mokama nedarbo draudimo išmoka, kurios dydis lygus mokėjimo termino pabaigos dieną galiojusiam nedarbo draudimo išmokos dydžiui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
+ 
 
 
 
@@ -344,12 +342,17 @@ Nr. XIV-376, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13641
 
 
 
-2. Bedarbiams, nedarbo draudimo išmokos mokėjimo metu tapusiems laikinai nedarbingiems dėl ligos arba traumos, mokama jiems paskirta nedarbo draudimo išmoka. Pasibaigus paskirtos nedarbo draudimo išmokos mokėjimo trukmei, nedarbo draudimo išmokos mokėjimo trukmė pratęsiama tiek kalendorinių dienų, kiek asmuo sirgo, bet ne ilgiau kaip 30 kalendorinių dienų.
+2. Bedarbiams, nedarbo draudimo išmokos mokėjimo metu tapusiems laikinai nedarbingiems dėl ligos arba traumos, ir bedarbiams, kurie asmens sveikatos priežiūros įstaigose, teikiančiose dienos stacionaro ar stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, abstinencijos būklę dėl psichoaktyviųjų medžiagų vartojimo ir (ar) priklausomybės nuo psichoaktyviųjų medžiagų vartojimo sindromą, mokama jiems paskirta nedarbo draudimo išmoka. Pasibaigus paskirtos nedarbo draudimo išmokos mokėjimo trukmei, jos mokėjimo trukmė pratęsiama tiek kalendorinių dienų, kiek asmuo buvo laikinai nedarbingas, bet ne ilgiau kaip 30 kalendorinių dienų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
+ 
 
 
 
 
-3. Bedarbiams, kurie asmens sveikatos priežiūros įstaigose, teikiančiose stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, priklausomybės sindromą vartojant psichoaktyviąsias medžiagas, nedarbo draudimo išmokos mokėjimo trukmė pratęsiama ne ilgiau kaip 28 kalendorines dienas vieną kartą per kalendorinius metus. Nedarbo draudimo išmokos mokėjimo pratęsimo dėl laikinojo nedarbingumo trukmė negali būti ilgesnė už šio straipsnio 2 dalyje nustatytą laikotarpį. 
+3. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
 Straipsnio dalies pakeitimai:
 Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
  
@@ -357,7 +360,7 @@ Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
 
 
 
-4. Nedarbo draudimo išmokos mokėjimas šio straipsnio 2 ir 3 dalyse nurodytais atvejais nepratęsiamas, jeigu atitinkamos institucijos nustato, kad asmuo:
+4. Nedarbo draudimo išmokos mokėjimas šio straipsnio 2 dalyje nurodytais atvejais nepratęsiamas, jeigu atitinkamos institucijos nustato, kad bedarbis:
 
 
 1) tapo laikinai nedarbingas dėl traumos, kurią gavo darydamas nusikalstamą veiką;
@@ -365,17 +368,17 @@ Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
 
 
 
-2) sužalojo savo sveikatą arba sutrikdė savo sveikatą, simuliavo ligą ar sveikatos sutrikimą;
+2) žalojo arba sutrikdė savo sveikatą, simuliavo ligą ar sveikatos sutrikimą;
 
 
 
 
-3) tapo laikinai nedarbingas dėl neblaivumo (girtumo) ar dėl piktnaudžiavimo psichiką veikiančiomis medžiagomis, išskyrus bedarbius, kurie asmens sveikatos priežiūros įstaigose, teikiančiose stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, priklausomybės sindromą vartojant psichoaktyviąsias medžiagas. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
+3) tapo laikinai nedarbingas dėl neblaivumo (girtumo) ar dėl piktnaudžiavimo psichiką veikiančiomis medžiagomis, išskyrus bedarbius, kurie asmens sveikatos priežiūros įstaigose, teikiančiose dienos stacionaro ar stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, abstinencijos būklę dėl psichoaktyviųjų medžiagų vartojimo ir (ar) priklausomybės nuo psichoaktyviųjų medžiagų vartojimo sindromą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
  
-
-
 
 
 
@@ -385,7 +388,10 @@ Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
 
 
 
-6. Pagrindas šio straipsnio 2, 3 ir 5 dalyse nurodytiems bedarbiams mokėti nedarbo draudimo išmoką ir (arba) pratęsti jos mokėjimo trukmę yra nedarbingumo pažymėjimas arba nėštumo ir gimdymo atostogų pažymėjimas, išduotas bedarbiui pagal sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro patvirtintas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles.
+6. Pagrindas šio straipsnio 2 ir 5 dalyse nurodytiems bedarbiams mokėti nedarbo draudimo išmoką ir (arba) pratęsti jos mokėjimo trukmę yra nedarbingumo pažymėjimas arba nėštumo ir gimdymo atostogų pažymėjimas, išduotas bedarbiui pagal sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro patvirtintas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
+ 
 
 
 
