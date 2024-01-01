@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinasis įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1656, i. k. 0971010ISTAVIII-366
  
@@ -32,10 +32,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga tvarką, dydį bei asmenis, turinčius teisę į šį atlyginimą.
+Šis įstatymas nustato žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga, kai žala atsirado dėl nelaimingo atsitikimo darbe, įvykusio iki 1999 m. gruodžio 31 d. įskaitytinai, ar profesinės ligos, nustatytos iki 1999 m. gruodžio 31 d. įskaitytinai, bei profesinės ligos, nustatytos po šios datos, bet ne vėliau kaip iki 2023 m. gruodžio 31 d. įskaitytinai, asmenims, kurie nebuvo draudžiami nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, tvarką, dydį bei asmenis, turinčius teisę į šį atlyginimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
-
-
 
 
 
@@ -78,12 +80,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Darbingumo netekimas – darbingumo netekimas dėl nelaimingo atsitikimo darbe arba dėl susirgimo profesine liga. Netektas darbingumas išreiškiamas procentais. Jeigu nukentėjusysis miršta dėl nelaimingo atsitikimo darbe ar dėl profesinės ligos, laikoma, kad netekta 100 procentų darbingumo. Darbingumo netekimo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga procentą nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – NDNT). Nukentėjusiajam dėl kelių įvykių nustatomas darbingumo netekimo procentas dėl kiekvieno įvykio atskirai.
+8. Netektas dalyvumas – procentais išreiškiamas sumažėjęs asmens pajėgumas veiksmingai dalyvauti visuomenės gyvenime dėl nelaimingo atsitikimo darbe arba dėl susirgimo profesine liga. Jeigu nukentėjusysis miršta dėl nelaimingo atsitikimo darbe ar dėl profesinės ligos, laikoma, kad netekta 100 procentų dalyvumo. Dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga netekto dalyvumo procentą nustato Asmens su negalia teisių apsaugos agentūra prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos. Nukentėjusiajam dėl kelių įvykių nustatomas netekto dalyvumo procentas dėl kiekvieno įvykio atskirai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
+ 
 
 
 
 
-9. Darbingumo netekimo koeficientas (d) - vieneto dalimis išreikštas dydis, apskaičiuojamas netekto darbingumo procentą dalijant iš šimto.
+9. Netekto dalyvumo koeficientas (d) – vieneto dalimis išreiškiamas dydis, apskaičiuojamas netekto dalyvumo procentą dalijant iš 100.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
+ 
 
 
 
@@ -215,52 +223,48 @@ Teisę į žalos atlyginimą turi nukentėjusieji, kurių sveikata dėl nelaimin
 
 
 
-7 straipsnis. Žalos atlyginimas netekus maitintojo 
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
- 
+7 straipsnis. Žalos atlyginimas netekus maitintojo
 
 
-1. Jeigu nukentėjusysis dėl nelaimingo atsitikimo darbe ar profesinės ligos miršta, teisę į žalos atlyginimą turi nedarbingi asmenys, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą, taip pat mirusiojo vaikas (vaikai), gimęs (gimę) po jo mirties. Žala atlyginama:
+1. Jeigu nukentėjusysis dėl nelaimingo atsitikimo darbe ar profesinės ligos miršta, teisę į žalos atlyginimą turi asmenys, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą, taip pat mirusiojo vaikas (vaikai), gimęs (gimę) po jo mirties. Žala atlyginama:
 
 
-1) nepilnamečiams – iki jiems sukanka 18 metų, o jeigu jie mokosi ar studijuoja pagal nustatyta tvarka įregistruotas švietimo įstaigų bendrojo ugdymo programas, formaliojo profesinio mokymo programas ir pagal nuolatinės studijų formos programas, – iki mokymosi ar studijų pagal šias programas baigimo, bet ne ilgiau, iki jiems sukanka 24 metai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
- 
+1) nepilnamečiams – iki jiems sukanka 18 metų, o jeigu jie mokosi pagal bendrojo ugdymo programas ar formaliojo profesinio mokymo programas ir studijuoja pagal nuolatinės studijų formos programas, – iki mokymosi ar studijų pagal šias programas baigimo, bet ne ilgiau, iki jiems sukanka 24 metai;
 
 
 
 
-2) asmenims, sulaukusiems senatvės pensijos amžiaus, – iki gyvos galvos;
+2) asmenims, sukakusiems Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą socialinio draudimo senatvės pensijos amžių, – iki gyvos galvos;
 
 
 
 
-3) asmenims, kurie pripažinti neįgaliaisiais, – jų neįgalumo laikotarpiu;
+3) asmenims su negalia (iki 2023 m. gruodžio 31 d. – neįgaliesiems asmenims, iki 2005 m. liepos 1 d. – invalidams) – laikotarpiu, kuriuo jiems nustatyta negalia;
 
 
 
 
-4) mirusiojo sutuoktiniui ar tėvui (motinai), įtėviui, nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir prižiūri mirusiojo vaikus, vaikaičius, įvaikius, brolius ar seseris, – iki šiems sukanka 8 metai.
+4) mirusiojo sutuoktiniui ar tėvui (motinai), įtėviui (įmotei), nepaisant amžiaus ir dalyvumo, jeigu jis nedirba ir prižiūri mirusiojo vaikus (įvaikius), vaikaičius, brolius ar seseris, – iki šiems sukanka 8 metai.
 
 
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytiems asmenims žalos atlyginimas, kuris lygus periodinei netekto darbingumo kompensacijai (šio įstatymo 13 straipsnis), padalintai iš vienetu padidinto šio straipsnio 1 dalyje nustatytų asmenų skaičiaus, mokamas kas mėnesį.
+2. Šio straipsnio 1 dalyje nurodytiems asmenims žalos atlyginimas, kuris lygus periodinei netekto dalyvumo kompensacijai (šio įstatymo 13 straipsnis), padalytai iš vienetu padidinto šio straipsnio 1 dalyje nustatytų asmenų skaičiaus, mokamas kas mėnesį.
 
 
 
 
 3. Šiame straipsnyje nurodyta žala atlyginama nepaisant žalos atlyginimo gavėjų gaunamų kitų pajamų.
-
-
 Straipsnio pakeitimai:
 Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 Nr. XI-1645, 2011-11-10, Žin., 2011, Nr. 144-6754 (2011-11-29)
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
@@ -382,83 +386,72 @@ Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
 
 
 
-12 straipsnis. Vienkartinė netekto darbingumo kompensacija
+12 straipsnis. Vienkartinė netekto dalyvumo kompensacija
 
 
-1. Jeigu nukentėjusysis neteko iki 20 procentų (imtinai) darbingumo, jam išmokama 10 procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė kompensacija; jei nukentėjusysis neteko daugiau negu 20, bet mažiau negu 30 procentų darbingumo, jam išmokama 20 procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė kompensacija.
-
-
-
-
-2. Kompensuojamasis uždarbis apskaičiuojamas dauginant nukentėjusiojo kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš 50,43 procento vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojusio teisės į vienkartinę netekto darbingumo kompensaciją atsiradimo mėnesį, t. y. pagal formulę k x 0,5043 x D. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
-Nr. XIII-1723, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20977
- 
+1. Jeigu nukentėjusysis neteko iki 20 procentų (imtinai) dalyvumo, jam išmokama 10 procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė netekto dalyvumo kompensacija; jeigu nukentėjusysis neteko daugiau negu 20, bet mažiau negu 30 procentų dalyvumo, jam išmokama 20 procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė netekto dalyvumo kompensacija.
 
 
 
 
-3. Jeigu nukentėjusiajam nustatytas pastovus nedarbingumas, išmokama trigubai didesnė vienkartinė kompensacija, negu nurodyta šio straipsnio 1 ir 2 dalyse.
+2. Kompensuojamasis uždarbis apskaičiuojamas dauginant nukentėjusiojo kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš 50,43 procento vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojusio teisės į vienkartinę netekto dalyvumo kompensaciją atsiradimo mėnesį, t. y. pagal formulę k × 0,5043 × D.
 
 
 
 
-4. Vienkartinė kompensacija gali būti mokama lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir mokami delspinigiai Lietuvos Respublikos darbo kodekso nustatyta tvarka ir dydžiais. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
- 
+3. Jeigu nukentėjusiajam netektas dalyvumas nustatytas neterminuotai, jam išmokama trigubai didesnė vienkartinė netekto dalyvumo kompensacija, negu nurodyta šio straipsnio 1 ir 2 dalyse.
 
 
 
 
-5. Jeigu nukentėjusiajam, kuriam jau buvo išmokėta vienkartinė netekto darbingumo kompensacija, netekto darbingumo procentai pasikeičia, bet neviršija šiame straipsnyje nustatytų dydžių, o naujai apskaičiuota vienkartinė netekto darbingumo kompensacija yra didesnė už gautąją, išmokamas iš naujo apskaičiuotos ir jau išmokėtos netekto darbingumo kompensacijos skirtumas.
+4. Vienkartinė netekto dalyvumo kompensacija gali būti išmokama lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per vienkartinės netekto dalyvumo kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir mokami delspinigiai Lietuvos Respublikos darbo kodekso nustatyta tvarka ir dydžiais.
 
 
 
 
-6. Šiame straipsnyje nurodyta vienkartinė kompensacija mokama nepaisant nukentėjusiojo gaunamų kitų pajamų.
+5. Jeigu nukentėjusiajam, kuriam jau buvo išmokėta vienkartinė netekto dalyvumo kompensacija (iki 2023 m. gruodžio 31 d. – vienkartinė netekto darbingumo kompensacija) (toliau kartu – vienkartinė netekto dalyvumo (darbingumo) kompensacija), netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) procentai pasikeičia, bet neviršija šiame straipsnyje nustatytų dydžių, o naujai apskaičiuota vienkartinė netekto dalyvumo kompensacija yra didesnė už gautąją, išmokamas iš naujo apskaičiuotos ir jau išmokėtos netekto dalyvumo (darbingumo) kompensacijos skirtumas.
 
 
 
 
-7. Vienkartinė netekto darbingumo kompensacija skiriama pasibaigus NDNT sprendimo dėl darbingumo lygio nustatymo apskundimo terminui, o tuo atveju, kai NDNT sprendimas dėl darbingumo lygio nustatymo skundžiamas Ginčų komisijai prie Socialinės apsaugos ir darbo ministerijos (toliau – Ginčų komisija), – pasibaigus Ginčų komisijos sprendimo apskundimo terminui. NDNT, gavusi skundą dėl darbingumo lygio nustatymo, kai darbingumo netekimo priežastis yra nelaimingas atsitikimas darbe arba profesinė liga, per 5 darbo dienas raštu praneša Valstybinio socialinio draudimo fondo valdybai (toliau – Fondo valdyba). Jeigu NDNT sprendimas dėl darbingumo lygio nustatymo skundžiamas Ginčų komisijai, Ginčų komisija apie gautą skundą ne vėliau kaip per 5 darbo dienas raštu praneša Fondo valdybai. 
-Papildyta straipsnio dalimi:
-Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
- 
+6. Šiame straipsnyje nurodyta vienkartinė netekto dalyvumo kompensacija mokama nepaisant nukentėjusiojo gaunamų kitų pajamų.
+
+
+
+
+7. Vienkartinė netekto dalyvumo kompensacija skiriama pasibaigus Asmens su negalia teisių apsaugos agentūros prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Agentūra) sprendimo dėl dalyvumo lygio (iki 2023 m. gruodžio 31 d. – Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimo dėl darbingumo lygio) dėl nelaimingo atsitikimo darbe arba profesinės ligos nustatymo apskundimo terminui. Jeigu šis sprendimas yra apskundžiamas Agentūrai Asmens su negalia teisių apsaugos pagrindų įstatyme nustatyta tvarka, Agentūra ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos apie tai raštu praneša (arba šie duomenys teikiami elektroniniu būdu pagal asmens duomenų teikimo sutartį) Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos (toliau – Fondo valdyba).
+Straipsnio pakeitimai:
+Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr. 102-2918 (1999 12 01
+Nr. IX-1121, 2002-10-08, Žin., 2002, Nr. 102-4546 (2002-10-25)
+Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 
 Straipsnio pakeitimai:
-Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr. 102-2918 (1999 12 01)
-Nr. IX-1121, 2002-10-08, Žin., 2002, Nr. 102-4546 (2002-10-25)
-Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
 
 
-13 straipsnis. Periodinė netekto darbingumo kompensacija
+13 straipsnis. Periodinė netekto dalyvumo kompensacija
 
 
-1. Jeigu nustatoma, kad nukentėjusysis neteko 30 ir daugiau procentų darbingumo, jam mokama periodinė netekto darbingumo kompensacija. 
-
-
-
-
-2. Periodinė netekto darbingumo kompensacija nukentėjusiajam mokama kas mėnesį žalos atlyginimo mokėtojo nustatytomis dienomis, ne vėliau kaip mėnesio paskutinę darbo dieną. Periodinė netekto darbingumo kompensacija apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 2 straipsnio 9 dalis), kompensavimo koeficiento (k) (šio įstatymo 2 straipsnio 11 dalis) ir 50,43 procento vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojančio šios kompensacijos mokėjimo mėnesį, sandaugos pusė, t. y. pagal formulę 0,5 x d x k x 0,5043 x D. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1723, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20977
- 
+1. Jeigu nustatoma, kad nukentėjusysis neteko 30 ar daugiau procentų  dalyvumo, jam mokama periodinė netekto dalyvumo kompensacija.
 
 
 
 
-3. Laiku neišmokėjus periodinės netekto darbingumo kompensacijos, skaičiuojami ir mokami delspinigiai Lietuvos Respublikos darbo kodekso nustatyta tvarka ir dydžiais.
+2. Periodinė netekto dalyvumo kompensacija nukentėjusiajam mokama kas mėnesį žalos atlyginimo mokėtojo nustatytomis dienomis, ne vėliau kaip mėnesio paskutinę darbo dieną. Periodinė netekto dalyvumo kompensacija apskaičiuojama kaip netekto dalyvumo koeficiento (d) (šio įstatymo 2 straipsnio 9 dalis), kompensavimo koeficiento (k) (šio įstatymo 2 straipsnio 11 dalis) ir 50,43 procento vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojančio šios kompensacijos mokėjimo mėnesį, sandaugos pusė, t. y. pagal formulę 0,5 × d × k × 0,5043 × D.
 
 
 
 
-4. Šiame straipsnyje nurodyta netekto darbingumo kompensacija nukentėjusiajam mokama nepaisant jo gaunamų kitų pajamų. 
+3. Laiku neišmokėjus periodinės netekto dalyvumo kompensacijos, skaičiuojami ir mokami delspinigiai Darbo kodekso nustatyta tvarka ir dydžiais.
+
+
+
+
+4. Šiame straipsnyje nurodyta periodinė netekto dalyvumo kompensacija nukentėjusiajam mokama nepaisant jo gaunamų kitų pajamų.
 Straipsnio pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr. 102-2918 (1999 12 01)
 Nr. IX-1247, 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
@@ -466,74 +459,83 @@ Nr. IX-1247, 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
 
 Straipsnio pakeitimai:
 Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
 
 
-14 straipsnis. Žalos atlyginimas pasikeitus nedarbingumui
+14 straipsnis. Žalos atlyginimas pasikeitus netekto dalyvumo procentams
 
 
-1. Jeigu nukentėjusiajam, turėjusiam teisę gauti vienkartinę netekto darbingumo kompensaciją, NDNT iš naujo nustato, kad jis neteko 30 ir daugiau procentų darbingumo, periodinė netekto darbingumo kompensacija mokama šio įstatymo 13 straipsnyje nustatyta tvarka nuo netekto darbingumo pasikeitimo dienos, o vienkartinės netekto darbingumo kompensacijos (šio įstatymo 12 straipsnis) mokėjimas nutraukiamas, išskyrus šios kompensacijos įsiskolinimą, kuris susidarė dėl jos neišmokėjimo laiku.
-
-
-
-
-2. Jeigu nukentėjusiajam, turėjusiam teisę gauti periodinę netekto darbingumo kompensaciją (šio įstatymo 13 straipsnis), NDNT iš naujo nustato, kad jis neteko mažiau negu 30 procentų darbingumo ir atitinka šio įstatymo 12 straipsnio 1 dalyje nustatytus dydžius, jam išmokama šio įstatymo 12 straipsnyje nustatyta vienkartinė netekto darbingumo kompensacija, o periodinės netekto darbingumo kompensacijos mokėjimas nutraukiamas.
+1. Jeigu nukentėjusiajam, turėjusiam teisę gauti vienkartinę netekto dalyvumo (darbingumo) kompensaciją, Agentūra iš naujo nustato, kad jis neteko 30 ar daugiau procentų dalyvumo, periodinė netekto dalyvumo kompensacija mokama šio įstatymo 13 straipsnyje nustatyta tvarka nuo netekto dalyvumo pasikeitimo dienos, o vienkartinės netekto dalyvumo (darbingumo) kompensacijos (šio įstatymo 12 straipsnis) mokėjimas nutraukiamas, išskyrus šios kompensacijos įsiskolinimą, kuris susidarė dėl jos neišmokėjimo laiku.
 
 
 
 
-3. Jeigu nukentėjusiajam, gaunančiam periodinę netekto darbingumo kompensaciją, netekto darbingumo procentai pakartotinai sumažėja iki šio įstatymo 12 straipsnio 1 dalyje nustatyto dydžio, vienkartinė netekto darbingumo kompensacija mokama šio įstatymo 12 straipsnio 5 dalyje nustatyta tvarka.
+2. Jeigu nukentėjusiajam, turėjusiam teisę gauti periodinę netekto dalyvumo kompensaciją (iki 2023 m. gruodžio 31 d. – periodinę netekto darbingumo kompensaciją) (toliau kartu – periodinė netekto dalyvumo (darbingumo) kompensacija) (šio įstatymo 13 straipsnis), Agentūra iš naujo nustato, kad jis neteko mažiau negu 30 procentų dalyvumo ir jo netektas dalyvumas atitinka šio įstatymo 12 straipsnio 1 dalyje nustatytus dydžius, jam išmokama šio įstatymo 12 straipsnyje nustatyta vienkartinė netekto dalyvumo kompensacija, o periodinės netekto dalyvumo (darbingumo) kompensacijos mokėjimas nutraukiamas.
 
 
 
 
-4. Jeigu nukentėjusiojo, gavusio periodinę ir vienkartinę netekto darbingumo kompensacijas (ar iš naujo apskaičiuotos ir jau išmokėtos vienkartinės netekto darbingumo kompensacijos skirtumą), netektas darbingumas, nepraėjus 24 mėnesiams nuo teisės į vienkartinę kompensaciją atsiradimo dienos, pakartotinai padidėja iki 30 ir daugiau procentų, iš apskaičiuotos periodinės netekto darbingumo kompensacijos sumos išskaičiuojama išmokėtos vienkartinės netekto darbingumo kompensacijos (ar jos skirtumo) dalis už likusį iki 24 mėnesių laikotarpį.
+3. Jeigu nukentėjusiajam, gaunančiam periodinę netekto dalyvumo (darbingumo) kompensaciją, netekto dalyvumo procentai pakartotinai sumažėja iki šio įstatymo 12 straipsnio 1 dalyje nustatyto dydžio, vienkartinė netekto dalyvumo kompensacija išmokama šio įstatymo 12 straipsnio 5 dalyje nustatyta tvarka.
 
 
+
+
+4. Jeigu nukentėjusiojo, gavusio periodinę ir vienkartinę netekto dalyvumo (darbingumo) kompensacijas (ar iš naujo apskaičiuotos ir jau išmokėtos vienkartinės netekto dalyvumo (darbingumo) kompensacijos skirtumą), netektas dalyvumas, nepraėjus 24 mėnesiams nuo teisės į vienkartinę netekto dalyvumo kompensaciją atsiradimo dienos, pakartotinai padidėja iki 30 ar daugiau procentų, iš apskaičiuotos periodinės netekto dalyvumo kompensacijos sumos išskaičiuojama išmokėtos vienkartinės netekto dalyvumo (darbingumo) kompensacijos (ar jos skirtumo) dalis už likusį iki 24 mėnesių laikotarpį.
 Straipsnio pakeitimai:
 Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
 
 
-15 straipsnis. Periodinės netekto darbingumo kompensacijos mokėjimo trukmė
+15 straipsnis. Periodinės netekto dalyvumo kompensacijos mokėjimo trukmė
 
 
-Periodinė netekto darbingumo kompensacija mokama iki NDNT nustatyto darbingumo netekimo termino pabaigos.
+Periodinė netekto dalyvumo kompensacija mokama iki Agentūros nustatytų netekto dalyvumo procentų (iki 2023 m. gruodžio 31 d. – Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos nustatyto netekto darbingumo procentų) termino pabaigos.
+Straipsnio pakeitimai:
+Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 
 Straipsnio pakeitimai:
-Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
 
 
-16 straipsnis. Žalos atlyginimo dydžio pakeitimas žalos atlyginimo mokėtojo reikalavimu
+16 straipsnis. Žalos atlyginimo dydžio pakeitimas žalos atlyginimo mokėtojo  reikalavimu
 
 
-Žalos atlyginimo mokėtojas turi teisę atitinkamai sumažinti nukentėjusiajam žalos atlyginimą dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga, jeigu NDNT iš naujo nustato, kad nukentėjusiojo netekto darbingumo procentai sumažėjo. Jeigu žalos atlyginimas buvo nustatytas teismo sprendimu, jis šiame straipsnyje nustatytu atveju gali būti atitinkamai sumažintas tik teismine tvarka.
+Žalos atlyginimo mokėtojas turi teisę atitinkamai sumažinti nukentėjusiajam žalos atlyginimą dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga, jeigu Agentūra iš naujo nustato, kad nukentėjusiojo netekto dalyvumo procentai sumažėjo. Jeigu žalos atlyginimas buvo nustatytas teismo sprendimu, jis šiame straipsnyje nustatytu atveju gali būti atitinkamai sumažintas tik teismine tvarka.
+Straipsnio pakeitimai:
+Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 
 Straipsnio pakeitimai:
-Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
 
 
-17 straipsnis. Žalos atlyginimo dydžio pakeitimas nukentėjusiojo reikalavimu, jei pasikeičia nedarbingumas
+17 straipsnis. Žalos atlyginimo dydžio pakeitimas nukentėjusiojo reikalavimu, pasikeitus netekto dalyvumo procentams
 
 
-Iš dalies netekęs darbingumo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga asmuo turi teisę bet kada reikalauti, kad žalos atlyginimo mokėtojas atitinkamai padidintų žalos atlyginimą, jeigu NDNT iš naujo nustato, kad jo netekto darbingumo procentai padidėjo.
+Iš dalies netekęs dalyvumo dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga asmuo turi teisę bet kada reikalauti, kad žalos atlyginimo mokėtojas atitinkamai padidintų žalos atlyginimą, jeigu Agentūra iš naujo nustato, kad jo netekto dalyvumo procentai padidėjo.
+Straipsnio pakeitimai:
+Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 
 Straipsnio pakeitimai:
-Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
@@ -579,7 +581,10 @@ Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
 
 
 
-3) kai nukentėjusieji susirgo profesine liga arba buvo sužaloti dėl nelaimingo atsitikimo darbe, dirbdami buvusiose valstybinėse įmonėse ir buvusiose žemės ūkio įmonėse (kolūkiuose, valstybiniuose ūkiuose) iki jų privatizavimo (valstybinių, valstybinių akcinių įmonių ir buvusių žemės ūkio įmonių, reorganizuotų į akcines bendroves, uždarąsias akcines bendroves ar žemės ūkio bendroves, – įregistravimo įmonių rejestre datos). Nustačius profesinę ligą po įmonės privatizavimo, nukentėjusiesiems, dirbantiems toje pačioje ar kitoje įmonėje, kurioje darbo aplinka dėl jos kenksmingo veiksnio (veiksnių) poveikio taip pat turėjo įtakos darbuotojo sveikatos sutrikimui, valstybė atlygina tą darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, atsižvelgdama į darbo sąlygas ir toje įmonėj dirbtą laiką. Kitą darbingumo netekimo dalį atlygina įmonė, kurioje darbas po įmonės privatizavimo turėjo įtakos susirgimui profesine liga. Darbingumo netekimo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, nustato NDNT. Kilus ginčui, darbingumo netekimo ir žalos atlyginimo dalis kiekvienu atveju nustato teismas;
+3) kai nukentėjusieji susirgo profesine liga arba buvo sužaloti dėl nelaimingo atsitikimo darbe, dirbdami buvusiose valstybinėse įmonėse ir buvusiose žemės ūkio įmonėse (kolūkiuose, valstybiniuose ūkiuose) iki jų privatizavimo (valstybinių, valstybinių akcinių įmonių ir buvusių žemės ūkio įmonių, reorganizuotų į akcines bendroves, uždarąsias akcines bendroves ar žemės ūkio bendroves, – įregistravimo įmonių rejestre datos). Nustačius profesinę ligą po įmonės privatizavimo, nukentėjusiesiems, dirbantiems toje pačioje ar kitoje įmonėje, kurioje darbo aplinka dėl jos kenksmingo veiksnio (veiksnių) poveikio taip pat turėjo įtakos darbuotojo sveikatos sutrikimui, valstybė atlygina tą netekto dalyvumo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, atsižvelgdama į darbo sąlygas ir toje  įmonėje dirbtą laiką. Kitą netekto dalyvumo dalį atlygina įmonė, kurioje darbas po įmonės privatizavimo turėjo įtakos susirgimui profesine liga. Netekto dalyvumo dalį, kurios nukentėjusysis neteko dirbdamas buvusioje valstybinėje įmonėje iki jos privatizavimo, nustato Agentūra. Kilus ginčui, netekto dalyvumo ir žalos atlyginimo dalis kiekvienu atveju nustato teismas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
+ 
 
 
 
@@ -591,7 +596,10 @@ Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
 
 
 
-2. Šiame straipsnyje nurodytą žalos atlyginimo mokėjimo prievolės perėjimo valstybei tvarką nustato Vyriausybė. Valstybė, atlyginusi žalą šio straipsnio 1 dalies 1 punkte nustatytais atvejais, turi atgręžtinio reikalavimo teisę į žalos atlyginimo mokėtoją.
+2. Šiame straipsnyje nurodytą žalos atlyginimo mokėjimo prievolės perėjimo valstybei tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
+ 
 
 
 
@@ -617,12 +625,14 @@ Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 19 straipsnis. Laidojimo išlaidų atlyginimas
 
 
-Jeigu dėl nelaimingo atsitikimo darbe arba profesinės ligos nukentėjusysis miršta, įmonė, ūkininkas, atsakingi už su nukentėjusiojo mirtimi susijusią žalą, jo laidojimo išlaidas atlygina mirusiojo šeimos nariams arba kitiems jį laidojusiems asmenims tiek, kiek jos viršija laidojimo pašalpas, gautas pagal kitus teisės aktus, tačiau ne daugiau kaip dvigubas Lietuvos statistikos departamento paskelbtas šalies ūkio vidutinis darbo užmokestis.
-
-
+Jeigu dėl nelaimingo atsitikimo darbe arba profesinės ligos nukentėjusysis miršta, įmonė, ūkininkas, atsakingi už su nukentėjusiojo mirtimi susijusią žalą, jo laidojimo išlaidas atlygina mirusiojo šeimos nariams arba kitiems jį laidojusiems asmenims tiek, kiek jos viršija laidojimo pašalpas, gautas pagal kitus teisės aktus, tačiau bendra laidojimo išlaidų atlyginimo suma negali būti didesnė kaip dvigubas vidutinis šalies darbo užmokestis (D) (šio įstatymo 2 straipsnio 10 dalis), galiojęs nukentėjusiojo mirties mėnesį.
 Straipsnio pakeitimai:
 Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 Nr. XI-1096, 2010-11-04, Žin., 2010, Nr. 137-6997 (2010-11-23)
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
@@ -684,30 +694,26 @@ Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
 
 
 
-22 straipsnis. Žalos atlyginimo mokėjimo ypatumai ir mokėjimo terminai 
-Pakeistas straipsnio pavadinimas:
-Nr. XIV-755, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26587
- 
+22 straipsnis. Žalos atlyginimo mokėjimo ypatumai ir mokėjimo terminai
 
 
-1. Žalos atlyginimas nukentėjusiajam mokamas nuo darbingumo netekimo (dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga) nustatymo dienos, jeigu dėl netekto darbingumo kompensacijos skyrimo kreipiamasi per 3 metus nuo teisės į kompensaciją atsiradimo dienos.
+1. Žalos atlyginimas nukentėjusiajam mokamas nuo netekto dalyvumo procentų (dėl nelaimingo atsitikimo darbe ar susirgimo profesine liga) nustatymo dienos, jeigu dėl netekto dalyvumo kompensacijos skyrimo kreipiamasi per 3 metus nuo teisės į šią kompensaciją atsiradimo dienos.
 
 
 
 
-2. Jeigu nukentėjusysis dėl žalos atlyginimo kreipėsi praėjus trejiems metams nuo teisės į žalos atlyginimą atsiradimo dienos, žalos atlyginimas mokamas nuo kreipimosi dienos.
+2. Jeigu nukentėjusysis dėl žalos atlyginimo kreipėsi praėjus 3 metams nuo teisės į žalos atlyginimą atsiradimo dienos, žalos atlyginimas mokamas nuo kreipimosi dienos.
 
 
 
 
-3. Periodinės netekto darbingumo kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas išmokos mokėtojo sprendimu stabdomas, kai šių išmokų gavėjas įsiteisėjusiu teismo sprendimu yra pripažintas nežinia kur esančiu arba gauti duomenys apie aplinkybes, sudarančias pagrindą nuspręsti, kad asmuo prarado teisę gauti išmoką. Kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas sustabdomas nuo mėnesio, einančio po to mėnesio, kurį atsirado šioje dalyje nurodytos aplinkybės, pirmos dienos. Išnykus šioje dalyje nustatytoms aplinkybėms, kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas išmokos mokėtojo sprendimu pratęsiamas nuo mokėjimo sustabdymo dienos, jeigu teisė gauti šias išmokas asmeniui buvo išlikusi. Jeigu paaiškėja, kad asmuo, kuriam kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas buvo sustabdytas, yra miręs (paskelbtas mirusiu), jo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio (paskelbto mirusiu) asmens turtas, pateikusiems paveldėjimo teisės liudijimą, o mirusį (paskelbtą mirusiu) kompensacijos gavėją pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą, išmokama mirusiam (paskelbtam mirusiu) asmeniui priklausiusi kompensacijos ar žalos atlyginimo netekus maitintojo suma nuo mokėjimo sustabdymo dienos iki jo mirties (paskelbimo mirusiu) dienos, bet ne daugiau kaip už 3 metus.
-Papildyta straipsnio dalimi:
-Nr. XIV-755, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26587
- 
+3. Periodinės netekto dalyvumo (darbingumo) kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas išmokos mokėtojo sprendimu stabdomas, kai šių išmokų gavėjas įsiteisėjusiu teismo sprendimu yra pripažintas nežinia kur esančiu arba gauti duomenys apie aplinkybes, sudarančias pagrindą nuspręsti, kad asmuo prarado teisę gauti išmoką. Periodinės netekto dalyvumo (darbingumo) kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas sustabdomas nuo mėnesio, einančio po to mėnesio, kurį atsirado šioje dalyje nurodytos aplinkybės, pirmos dienos. Išnykus šioje dalyje nustatytoms aplinkybėms, periodinės netekto dalyvumo (darbingumo) kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas išmokos mokėtojo sprendimu pratęsiamas nuo mokėjimo sustabdymo dienos, jeigu teisė gauti šias išmokas asmeniui buvo išlikusi. Jeigu paaiškėja, kad asmuo, kuriam periodinės netekto dalyvumo (darbingumo) kompensacijos ar žalos atlyginimo netekus maitintojo mokėjimas buvo sustabdytas, yra miręs (paskelbtas mirusiu), jo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio (paskelbto mirusiu) asmens turtas, pateikusiems paveldėjimo teisės liudijimą, o mirusį (paskelbtą mirusiu) kompensacijos gavėją pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą, išmokama mirusiam (paskelbtam mirusiu) asmeniui priklausiusi periodinės netekto dalyvumo (darbingumo) kompensacijos ar žalos atlyginimo netekus maitintojo suma nuo mokėjimo sustabdymo dienos iki jo mirties (paskelbimo mirusiu) dienos, bet ne daugiau kaip už 3 metus.
+Straipsnio pakeitimai:
+Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 
 Straipsnio pakeitimai:
-Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
  
 
 
@@ -764,7 +770,10 @@ Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 
 
-2) dėl susirgimų profesine liga, nustatyta tvarka pripažintų profesinėmis ligomis po 2000 m. sausio 1 d. tiems nukentėjusiesiems, kurie po 2000 m. sausio 1 d. nebuvo drausti pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatas.
+2) dėl susirgimų profesine liga, nustatyta tvarka pripažintų profesinėmis ligomis po 2000 m. sausio 1 d., bet ne vėliau kaip iki 2023 m. gruodžio 31 d. įskaitytinai, tiems nukentėjusiesiems, kurie po 2000 m. sausio 1 d. nebuvo drausti pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nuostatas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
+ 
 
 
 
@@ -889,3 +898,8 @@ Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar sus
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-755, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26587
 Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 22 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 1, 2, 7, 12, 13, 14, 15, 16, 17, 18-1, 19, 22 ir 23 straipsnių pakeitimo įstatymas
