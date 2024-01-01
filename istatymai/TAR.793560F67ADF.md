@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
  
@@ -111,7 +111,10 @@ Nr. XIII-2484, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17360
 5 straipsnis. Mokesčio mokėtojai
 
 
-1. Mokesčio už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, mokėtojai yra fiziniai ir juridiniai asmenys, išgaunantys šiuo įstatymu apmokestinamus valstybinius gamtos išteklius, kuriems išgauti reikalingas Lietuvos Respublikos aplinkos apsaugos įstatymo, kitų teisės aktų nustatyta tvarka išduotas leidimas.
+1. Mokesčio už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, mokėtojai yra fiziniai ir juridiniai asmenys, išgaunantys šiuo įstatymu apmokestinamus valstybinius gamtos išteklius, kuriems išgauti reikalingas Lietuvos Respublikos aplinkos apsaugos įstatymo, kitų teisės aktų nustatyta tvarka išduotas leidimas, arba privalantys būti įregistruoti paviršinį vandenį naudojančių asmenų registracijos sąraše Lietuvos Respublikos vandens įstatymo nustatyta tvarka ir išgaunantys 100 m3 ar daugiau vandens per parą iš vieno paviršinio vandens telkinio ar praleidžiantys tokį kiekį paviršinio vandens per hidrotechninius statinius ir naudojantys jį hidroenergijai išgauti hidroelektrinėse.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1281, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14925
+ 
 
 
 
