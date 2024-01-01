@@ -20,9 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
+ 
+TAR pastaba. Iki  įstatymo Nr. XIV-2122 įsigaliojimo dienos (2024-01-01) pradėtos teritorijų planavimo dokumentų viešinimo, derinimo, tikrinimo ar tvirtinimo procedūros baigiamos vadovaujantis  įstatyme Nr. XIV-2122 nustatytu teisiniu reguliavimu, išskyrus 11 straipsnio 3 dalyje nustatytus atvejus.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 9, 20, 23, 25, 26, 30, 34, 37, 45 ir 47 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2014-01-01:
 Nr. XII-407, 2013-06-27, Žin., 2013, Nr. 76-3824 (2013-07-16)
@@ -820,13 +825,15 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 
 
-9 straipsnis. Teritorijų planavimo valstybinė priežiūra ir skundų ar pranešimų nagrinėjimas
+9 straipsnis. Teritorijų planavimo valstybinė priežiūra ir skundų nagrinėjimas
 
 
-Teritorijų planavimo valstybinės priežiūros ir asmenų, kurių interesai galimai pažeisti, skundų, ginčų tarp teritorijų planavimo proceso dalyvių ar asmenų pranešimų dėl galimų šio įstatymo pažeidimų nagrinėjimo tvarką nustato Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymas.
+Teritorijų planavimo valstybinės priežiūros ir asmenų, kurių interesai galimai pažeisti, skundų ir ginčų tarp teritorijų planavimo proceso dalyvių ar asmenų skundų dėl galimų šio įstatymo pažeidimų nagrinėjimo tvarką nustato Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
  
-
-
 
 
 
@@ -1555,7 +1562,10 @@ Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
 
 
 
-20 straipsnis. Teisė statyti. Žemės sklypų formavimo ir pertvarkymo projektai 
+20 straipsnis. Teisė statyti 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+ 
 
 
 1. Žemės sklype, esančiame urbanizuotoje ir urbanizuojamoje teritorijoje, kuriai neparengti ir (ar) nepradėti rengti detalieji planai arba vietovės lygmens bendrieji planai, kuriuose nustatomas detaliųjų planų teritorijos naudojimo reglamentas, galima statyba, atitinkanti savivaldybės lygmens bendrojo plano ir (ar) vietovės lygmens bendrojo plano, jeigu jis parengtas, sprendinius, vadovaujantis Statybos įstatymo nuostatomis, išskyrus šio įstatymo 17 straipsnio 1 dalyje nurodytus atvejus, kai teritorijai turi būti parengtas detalusis planas arba vietovės lygmens bendrasis planas, kuriame nustatomas detaliųjų planų teritorijos naudojimo reglamentas. Žemės sklype, esančiame neurbanizuotoje ir neurbanizuojamoje teritorijoje, kuriai nėra parengto galiojančio detaliojo plano, galima statyba, atitinkanti savivaldybės lygmens bendrojo plano ir (ar) vietovės lygmens bendrojo plano, jeigu jis parengtas, sprendinius, žemės sklypo pagrindinę žemės naudojimo paskirtį ir būdą, vadovaujantis Statybos įstatymo nuostatomis.
@@ -1596,45 +1606,18 @@ Nr. XIV-1246, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14912
 
 
 
-5. Mero patvirtintais žemės sklypų formavimo ir pertvarkymo projektais: 
-TAR pastaba. 5 dalies nuostatos iki dvitaškio pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
-
-
-1) įgyvendinami šio įstatymo 16 straipsnio 1 dalies 1 punkte ir 19 straipsnio 2 dalies 1 punkte nustatytais atvejais kompleksinio teritorijų planavimo dokumentų sprendiniai;
+5. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+ 
 
 
 
 
-2) formuojami žemės sklypai esamiems statiniams eksploatuoti pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį;
-
-
-
-
-3) žemės sklypai padalijami, atidalijami, sujungiami ar perdalijami (išskyrus atvejus, kai tai draudžia įstatymai), jeigu keitimai nesiejami su žemės sklypų ribų ir ploto pakeitimu laisvoje valstybinėje žemėje ir (ar) nepažeidžiamas teisės aktuose ir (ar) teritorijų planavimo dokumentuose nustatytas leidžiamasis užstatymo intensyvumas ir (ar) tankis (išskyrus atvejus, kai faktinį užstatymo intensyvumą ir (ar) tankį numatoma mažinti planuojant padidinti žemės sklypo plotą). Pertvarkant sodybų, vieno ar dviejų butų gyvenamosios paskirties pastatams su pagalbinio ūkio paskirties pastatais skirtus žemės sklypus, taikomas teisės aktų leidžiamas užstatymo tankis, išskyrus atvejus, kai teritorijų planavimo dokumentuose šis teritorijos naudojimo reglamentas nustatytas mažesnis;
-
-
-
-
-4) formuojami valstybinės žemės sklypai esamoms susisiekimo komunikacijoms, aikštėms ir kitoms viešosioms erdvėms, kapinėms, paplūdimiams, parkams, skverams ir kitiems želdynams eksploatuoti, kultūros paveldo objektų užimtoms teritorijoms;
-
-
-
-
-5) įsiterpęs valstybinės žemės plotas Vyriausybės nustatyta tvarka ir atvejais sujungiamas su besiribojančiu žemės sklypu, jeigu laisvoje valstybinėje žemėje negalima suformuoti racionalaus dydžio ir ribų žemės sklypo;
-
-
-
-
-6) suformuojami nauji valstybinės žemės sklypai, išskyrus atvejus, kai sklypai formuojami Lietuvos Respublikos žemės reformos įstatymo nustatyta tvarka.
-
-
-
-
-
-
-6. Žemės sklypų formavimo ir pertvarkymo projektai nerengiami teritorijoms (išskyrus laisvųjų ekonominių zonų ar pramonės parkų teritorijas), kurios patenka į detaliaisiais planais (arba vietovės lygmens bendraisiais planais, kuriuose nustatytas detaliųjų planų teritorijos naudojimo reglamentas) suplanuotas teritorijas arba į teritorijas, kurioms šie planai pradėti rengti ir (ar) pagal savivaldybės lygmens bendrąjį planą numatomi rengti, išskyrus atvejus, kai pagal šiuose planuose, numatančiuose tik žemės sklypų formavimo ir (ar) pertvarkymo principus, nustatytus teritorijos naudojimo reglamentus, vadovaujantis šiuose planuose numatytais principais, suformuojami nauji žemės sklypai ar pertvarkomos esamų žemės sklypų ribos ir nustatoma ar keičiama pagrindinė žemės naudojimo paskirtis, žemės sklypo naudojimo būdas.
+6. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+ 
 
 
 
@@ -1786,7 +1769,10 @@ VALSTYBEI SVARBIŲ PROJEKTŲ TERITORIJŲ PLANAVIMAS
 
 
 
-3. Prieš pradėdamas rengti valstybei svarbaus projekto teritorijų planavimo dokumentą, planavimo organizatorius raštu kreipiasi į aplinkos ministro patvirtintame tvarkos apraše nurodytas institucijas dėl teritorijos planavimo sąlygų valstybei svarbaus projekto teritorijų planavimo dokumentui rengti išdavimo. Šios institucijos privalo išduoti valstybei svarbaus projekto teritorijų planavimo dokumentui rengti reikalingas teritorijos planavimo sąlygas per 15 darbo dienų nuo planavimo organizatoriaus prašymo gavimo institucijoje dienos. Išduotos teritorijos planavimo sąlygos galioja viso teritorijų planavimo proceso metu, bet ne ilgiau kaip 5 metus. Teritorijos planavimo sąlygos išduodamos, keičiamos ir jų galiojimo terminai pratęsiami aplinkos ministro nustatyta tvarka. Teritorijos planavimo sąlygos keičiamos ir jų galiojimo terminai pratęsiami laikantis šio įstatymo 25 straipsnio 4 dalyje nustatytų reikalavimų.
+3. Prieš pradėdamas rengti valstybei svarbaus projekto teritorijų planavimo dokumentą, planavimo organizatorius raštu kreipiasi į aplinkos ministro patvirtintame tvarkos apraše nurodytas institucijas dėl teritorijos planavimo sąlygų valstybei svarbaus projekto teritorijų planavimo dokumentui rengti išdavimo. Šios institucijos privalo išduoti valstybei svarbaus projekto teritorijų planavimo dokumentui rengti reikalingas teritorijos planavimo sąlygas per 15 darbo dienų nuo planavimo organizatoriaus prašymo gavimo institucijoje dienos. Teritorijos planavimo sąlygos galioja viso teritorijų planavimo proceso metu, bet ne ilgiau kaip 5 metus. Teritorijos planavimo sąlygos išduodamos, keičiamos ir jų galiojimo terminai pratęsiami aplinkos ministro nustatyta tvarka, laikantis šio įstatymo 25 straipsnio 4 dalyje nustatytų reikalavimų. Kai teritorijos planavimo sąlygų galiojimo terminas pasibaigia teritorijų planavimo proceso baigiamojo etapo tvirtinimo stadijoje, pratęsti teritorijos planavimo sąlygų galiojimo termino ar išduoti naujų teritorijos planavimo sąlygų nereikia – tvirtinanti institucija turi teisę patvirtinti teritorijų planavimo dokumentą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+ 
 
 
 
@@ -1928,7 +1914,9 @@ Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
 
 
 
-4. Prieš pradėdamas rengti kompleksinio teritorijų planavimo dokumentą, planavimo organizatorius ar jo įgaliotas asmuo aplinkos ministro nustatyta tvarka kreipiasi į Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse nurodytas institucijas, kad šios per 15 darbo dienų (dėl savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų – per 10 darbo dienų) nuo prašymo gavimo dienos išduotų teritorijos planavimo sąlygas. Jeigu teritorijos planavimo sąlygos per nustatytą terminą nebuvo išduotos ir planavimo organizatoriui apie neišdavimo priežastis nepranešta, planavimo organizatorius turi teisę pradėti rengti kompleksinio teritorijų planavimo dokumentą. Išduotos teritorijos planavimo sąlygos galioja viso teritorijų planavimo proceso metu, bet ne ilgiau kaip 5 metus (kai rengiami bendrieji planai) arba ne ilgiau kaip 3 metus (kai rengiami detalieji planai). Teritorijos planavimo sąlygos išduodamos, keičiamos ir jų galiojimo terminai pratęsiami aplinkos ministro nustatyta tvarka. Teritorijos planavimo sąlygos keičiamos ir jų galiojimo terminai pratęsiami laikantis šių reikalavimų:
+4. Prieš pradėdamas rengti kompleksinio teritorijų planavimo dokumentą, planavimo organizatorius ar jo įgaliotas asmuo aplinkos ministro nustatyta tvarka kreipiasi į Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse nurodytas institucijas, kad šios per 15 darbo dienų (dėl savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų – per 10 darbo dienų) nuo prašymo gavimo dienos išduotų teritorijos planavimo sąlygas. Jeigu teritorijos planavimo sąlygos per nustatytą terminą neišduodamos ir planavimo organizatoriui nepranešama apie neišdavimo priežastis, planavimo organizatorius turi teisę pradėti rengti kompleksinio teritorijų planavimo dokumentą. Išduotos teritorijos planavimo sąlygos galioja viso teritorijų planavimo proceso metu, bet ne ilgiau kaip 5 metus (kai rengiami bendrieji planai) arba ne ilgiau kaip 3 metus (kai rengiami detalieji planai). Teritorijos planavimo sąlygos išduodamos, keičiamos ir jų galiojimo terminai pratęsiami aplinkos ministro nustatyta tvarka. Kai teritorijos planavimo sąlygų galiojimo terminas pasibaigia teritorijų planavimo proceso baigiamojo etapo tvirtinimo stadijoje, pratęsti teritorijos planavimo sąlygų galiojimo termino ar išduoti naujų teritorijos planavimo sąlygų nereikia – tvirtinanti institucija turi teisę patvirtinti teritorijų planavimo dokumentą. Pakeitus teritorijos planavimo sąlygas, kartojamos teritorijų planavimo dokumentų viešinimo, derinimo ir tikrinimo procedūros. Šių procedūrų kartoti nereikia, kai teritorijos planavimo sąlygų galiojimo terminas pasibaigia teritorijų planavimo proceso baigiamojo etapo tvirtinimo stadijoje arba kai dėl naujų teritorijos planavimo sąlygų reikalavimų nesikeičia teritorijų planavimo dokumento sprendiniai ir teritorijų planavimo proceso baigiamajame etape pradėtos viešinimo, derinimo ar tikrinimo procedūros gali būti tęsiamos. Teritorijos planavimo sąlygos keičiamos ir jų galiojimo terminai pratęsiami (išskyrus šioje dalyje nurodytą atvejį, kai išduotų teritorijos planavimo sąlygų galiojimo terminas pasibaigia teritorijų planavimo proceso baigiamojo etapo tvirtinimo stadijoje) laikantis šių reikalavimų: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
 
 
 1) teritorijos planavimo sąlygos turi būti keičiamos naujomis šias sąlygas išdavusios institucijos iniciatyva, kai po teritorijos planavimo sąlygų išdavimo įsigalioja nauji teisės aktai ir (ar) planuojamoje teritorijoje – nauji teritorijų planavimo dokumentai, kurių reikalavimai turi įtakos rengiamo teritorijų planavimo dokumento sprendiniams (ši nuostata netaikoma patvirtintiems teritorijų planavimo dokumentams);
@@ -1941,7 +1929,15 @@ Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
 
 
 
-3) teritorijos planavimo sąlygų galiojimo terminas teritorijų planavimo metu gali būti pratęsiamas, kai to motyvuotai prašo planavimo organizatorius, kad teritorijų planavimo procesas būtų baigtas, jeigu baigti teritorijų planavimo nepavyko dėl objektyvių, nuo planavimo organizatoriaus nepriklausančių, aplinkybių. Šiuo pagrindu teritorijos planavimo sąlygų galiojimo terminas gali būti pratęstas ne daugiau kaip du kartus ir kiekvieną kartą ne ilgesniam kaip 2 metų terminui.
+3) teritorijos planavimo sąlygų galiojimo terminas teritorijų planavimo metu gali būti pratęsiamas, kai to motyvuotai prašo planavimo organizatorius, kad teritorijų planavimo procesas būtų baigtas, jeigu baigti teritorijų planavimo nepavyko dėl objektyvių, nuo planavimo organizatoriaus nepriklausančių, aplinkybių. Šiuo pagrindu teritorijos planavimo sąlygų galiojimo terminas gali būti pratęstas ne daugiau kaip du kartus ir kiekvieną kartą ne ilgesniam kaip 2 metų terminui;
+
+
+
+
+4) teritorijos planavimo sąlygos keičiamos ir išduodamos ne ilgesniam kaip 2 metų terminui, jeigu jų galiojimo terminas nebuvo pratęstas ir baigėsi teritorijų planavimo proceso baigiamajame etape (išskyrus atvejį, kai teritorijos planavimo sąlygų galiojimo terminas pasibaigia teritorijų planavimo proceso baigiamojo etapo tvirtinimo stadijoje ir jų keisti ar pratęsti galiojimo termino nereikia).
+Papildyta straipsnio punktu:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+ 
 
 
 
@@ -2137,9 +2133,10 @@ Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
 
 
 
-8. Savivaldybės lygmens kompleksinio teritorijų planavimo dokumento derinimas atliekamas ne vėliau kaip per 15 darbo dienų, vietovės lygmens kompleksinio teritorijų planavimo dokumento – ne vėliau kaip per 10 darbo dienų nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos. Visos derinimo procedūros atliekamos ir sprendimai derinti teritorijų planavimo dokumentą ar jo nederinti paskelbiami Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. Kompleksinio teritorijų planavimo dokumentas yra suderintas, jeigu jam pritaria Teritorijų planavimo komisijos nariai. Jeigu Teritorijų planavimo komisijos narys pagal kompetenciją nepritaria pateikto derinti kompleksinio teritorijų planavimo dokumento sprendiniams, jis nepritarimo motyvus raštu per 5 darbo dienas nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos pateikia Teritorijų planavimo komisijos pirmininkui. Jeigu Teritorijų planavimo komisijos pirmininkas mano, kad Teritorijų planavimo komisijos nario nepritarimas nėra tinkamai motyvuotas, jis kreipiasi į instituciją, delegavusią šį Teritorijų planavimo komisijos narį, prašydamas patvirtinti arba pripažinti nepagrįstais Teritorijų planavimo komisijos nario nepritarimo motyvus. Institucija, į kurią kreipiasi Teritorijų planavimo komisijos pirmininkas, privalo per 5 darbo dienas nuo tokio kreipimosi gavimo dienos pateikti savo išvadas. Teritorijų planavimo komisijos pirmininkas, atsižvelgdamas į motyvuotus rašytinius Teritorijų planavimo komisijos narių pasiūlymus, gali pratęsti teritorijų planavimo dokumento derinimo terminus, bet ne ilgiau kaip 5 darbo dienoms, apie tai pranešdamas planavimo organizatoriui ir Teritorijų planavimo komisijos nariams Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. 
+8. Savivaldybės lygmens kompleksinio teritorijų planavimo dokumentas derinamas ne vėliau kaip per 15 darbo dienų, vietovės lygmens kompleksinio teritorijų planavimo dokumentas – ne vėliau kaip per 10 darbo dienų nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos. Visos derinimo procedūros atliekamos ir sprendimai derinti teritorijų planavimo dokumentą ar jo nederinti skelbiami Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. Kompleksinio teritorijų planavimo dokumentas yra suderintas, jeigu jam pritaria Teritorijų planavimo komisijos nariai. Jeigu Teritorijų planavimo komisijos narys pagal kompetenciją nepritaria pateikto derinti kompleksinio teritorijų planavimo dokumento sprendiniams, nepritarimo motyvus jis raštu per 5 darbo dienas nuo planavimo organizatoriaus prašymo derinti kompleksinio teritorijų planavimo dokumentą pateikimo dienos pateikia Teritorijų planavimo komisijos pirmininkui. Jeigu Teritorijų planavimo komisijos pirmininkas mano (arba gauna skundą ar prašymą), kad Teritorijų planavimo komisijos nario nepritarimas netinkamai motyvuotas, jis kreipiasi į instituciją, delegavusią šį Teritorijų planavimo komisijos narį, prašydamas patvirtinti arba pripažinti nepagrįstais Teritorijų planavimo komisijos nario nepritarimo motyvus. Institucija, į kurią kreipiasi Teritorijų planavimo komisijos pirmininkas, privalo per 5 darbo dienas nuo tokio kreipimosi gavimo dienos pateikti išvadas. Teritorijų planavimo komisijos pirmininkas, atsižvelgdamas į motyvuotus rašytinius Teritorijų planavimo komisijos narių pasiūlymus, gali pratęsti teritorijų planavimo dokumento derinimo terminus, bet ne ilgiau kaip 5 darbo dienoms, apie tai pranešdamas planavimo organizatoriui ir Teritorijų planavimo komisijos nariams Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
  
 
 
@@ -2464,9 +2461,10 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
 
 
-5. Prieš pradėdamas rengti specialiojo teritorijų planavimo dokumentus, planavimo organizatorius ar jo įgaliotas asmuo Vyriausybės įgaliotos institucijos nustatyta tvarka raštu kreipiasi į specialiojo teritorijų planavimo dokumentų rengimo taisyklėse nurodytas institucijas, kad šios išduotų teritorijos planavimo sąlygas. Teritorijos planavimo sąlygos išduodamos arba motyvuotas atsakymas apie jų neišdavimo priežastis pateikiamas per 15 darbo dienų (dėl savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų – per 10 darbo dienų) nuo prašymo gavimo dienos. Jeigu teritorijos planavimo sąlygos per nustatytą terminą nebuvo išduotos ir planavimo organizatoriui nepranešta apie neišdavimo priežastis, planavimo organizatorius turi teisę pradėti rengti specialiojo teritorijų planavimo dokumentus. Išduotos teritorijos planavimo sąlygos galioja viso teritorijų planavimo proceso metu, bet ne ilgiau kaip 5 metus. Teritorijos planavimo sąlygos išduodamos, keičiamos ir jų galiojimo terminai pratęsiami aplinkos ministro nustatyta tvarka. Teritorijos planavimo sąlygos keičiamos ir jų galiojimo terminai pratęsiami laikantis šio įstatymo 25 straipsnio 4 dalyje nustatytų reikalavimų. 
+5. Prieš pradėdamas rengti specialiojo teritorijų planavimo dokumentus, planavimo organizatorius ar jo įgaliotas asmuo Vyriausybės įgaliotos institucijos nustatyta tvarka raštu kreipiasi į specialiojo teritorijų planavimo dokumentų rengimo taisyklėse nurodytas institucijas, kad šios išduotų teritorijos planavimo sąlygas. Teritorijos planavimo sąlygos išduodamos arba motyvuotas atsakymas apie jų neišdavimo priežastis pateikiamas per 15 darbo dienų (dėl savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų – per 10 darbo dienų) nuo prašymo gavimo dienos. Jeigu teritorijos planavimo sąlygos per nustatytą terminą neišduodamos ir planavimo organizatoriui nepranešama apie neišdavimo priežastis, planavimo organizatorius turi teisę pradėti rengti specialiojo teritorijų planavimo dokumentus. Išduotos teritorijos planavimo sąlygos galioja viso teritorijų planavimo proceso metu, bet ne ilgiau kaip 5 metus. Teritorijos planavimo sąlygos išduodamos, keičiamos ir jų galiojimo terminai pratęsiami aplinkos ministro nustatyta tvarka, laikantis šio įstatymo 25 straipsnio 4 dalyje nustatytų reikalavimų. Kai teritorijos planavimo sąlygų galiojimo terminas pasibaigia teritorijų planavimo proceso baigiamojo etapo tvirtinimo stadijoje, pratęsti teritorijos planavimo sąlygų galiojimo termino ar išduoti naujų teritorijos planavimo sąlygų nereikia – tvirtinanti institucija turi teisę patvirtinti teritorijų planavimo dokumentą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
  
 
 
@@ -2665,7 +2663,10 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 34 straipsnis. Informavimas apie teritorijų planavimo pradžią
 
 
-1. Valstybės institucijų sprendimai dėl valstybės lygmens teritorijų planavimo dokumentų (išskyrus specialiojo teritorijų planavimo žemėtvarkos dokumentus) rengimo pradžios ir planavimo tikslų, planavimo darbų programa ir informacija apie numatomą SPAV rengimą skelbiama šių institucijų interneto svetainėse ir Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. 
+1. Valstybės institucijų sprendimai dėl valstybės lygmens teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų, planavimo darbų programa ir informacija apie numatomą SPAV rengimą skelbiama šių institucijų interneto svetainėse ir Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+ 
 
 
 
@@ -2752,7 +2753,10 @@ Konsultavimosi metu, vadovaudamiesi Vyriausybės tvirtinamais Visuomenės inform
 37 straipsnis. Pasiūlymų teikimas ir nagrinėjimas
 
 
-1. Pasiūlymai dėl teritorijų planavimo dokumentų, išskyrus specialiojo teritorijų planavimo žemėtvarkos dokumentus, planavimo organizatoriui teikiami raštu ar Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje per visą teritorijų planavimo dokumentų rengimo laikotarpį iki viešo svarstymo ar susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais pabaigos (viešo svarstymo ar susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais metu pasiūlymai teikiami ir žodžiu), išskyrus šio straipsnio 3 dalyje nurodytą pakartotinį viešą svarstymą ar pakartotinį susipažinimą su parengtais valstybės lygmens teritorijų planavimo dokumentais. 
+1. Pasiūlymai dėl teritorijų planavimo dokumentų planavimo organizatoriui teikiami raštu ar Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje per visą teritorijų planavimo dokumentų rengimo laikotarpį iki viešo svarstymo ar susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais pabaigos (pasiūlymus galima teikti ir žodžiu), išskyrus šio straipsnio 3 dalyje nurodytą pakartotinį viešą svarstymą ar pakartotinį susipažinimą su parengtais valstybės lygmens teritorijų planavimo dokumentais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+ 
 
 
 
@@ -2762,7 +2766,10 @@ Konsultavimosi metu, vadovaudamiesi Vyriausybės tvirtinamais Visuomenės inform
 
 
 
-3. Planavimo organizatoriaus atsakyme pasiūlymus pateikusiam asmeniui nurodoma, ar planavimo organizatorius pritaria pasiūlymams, ar motyvuotai juos atmeta. Kai pasiūlymai dėl teritorijų planavimo dokumento priimami, teritorijų planavimo dokumentas atitinkamai pakoreguojamas ir planavimo organizatoriaus sprendimu teikiamas pakartotinai viešai svarstyti ar pakartotinai susipažinti su parengtais valstybės lygmens teritorijų planavimo dokumentais, jeigu pagal priimtus pasiūlymus keičiami teritorijų planavimo dokumento sprendiniai, apie kuriuos nebuvo informuota visuomenė. Kai teritorijų planavimo dokumento sprendiniai keičiami atsižvelgus į priimtus pasiūlymus, apie kuriuos buvo viešai informuota, ar į teritorijų planavimo dokumentą derinančių institucijų pastabas teritorijų planavimo proceso baigiamojo etapo teritorijų planavimo dokumento derinimo stadijoje, visuomenė su pakeistais teritorijų planavimo dokumento sprendiniais supažindinama Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos (institucijų) ar savivaldybės interneto svetainėje. Planavimo organizatorius apie parengtą ir pagal pasiūlymus, į kuriuos atsižvelgta, pataisytą teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir laiką turi paskelbti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos ar savivaldybės interneto svetainėje. Pasiūlymai dėl specialiojo teritorijų planavimo žemėtvarkos dokumentų ir atsakymai į šiuos pasiūlymus teikiami per Žemėtvarkos planavimo dokumentų rengimo informacinę sistemą.
+3. Planavimo organizatoriaus atsakyme pasiūlymus pateikusiam asmeniui nurodoma, ar planavimo organizatorius pritaria pasiūlymams, ar motyvuotai juos atmeta. Kai pasiūlymai dėl teritorijų planavimo dokumento priimami, teritorijų planavimo dokumentas atitinkamai pakoreguojamas ir planavimo organizatoriaus sprendimu teikiamas pakartotinai viešai svarstyti ar pakartotinai susipažinti, jeigu pagal priimtus pasiūlymus keičiami teritorijų planavimo dokumento sprendiniai, apie kuriuos nebuvo informuota visuomenė. Kai teritorijų planavimo dokumento sprendiniai keičiami atsižvelgus į priimtus pasiūlymus, apie kuriuos buvo viešai informuota, ar į teritorijų planavimo dokumentą derinančių institucijų pastabas teritorijų planavimo proceso baigiamojo etapo teritorijų planavimo dokumento derinimo stadijoje, visuomenė su pakeistais teritorijų planavimo dokumento sprendiniais supažindinama Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos ar savivaldybės interneto svetainėje. Planavimo organizatorius apie parengtą ir pagal pasiūlymus, į kuriuos atsižvelgta, pataisytą teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir laiką turi paskelbti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos ar savivaldybės interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+ 
 
 
 
@@ -3098,26 +3105,22 @@ Nr. XII-1197, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14126
 
 
 
-2. Dėl šio įstatymo 42, 43 ir 44 straipsniuose nurodytų pažeidimų protokolus surašo šio straipsnio 5 dalyje nurodyti pareigūnai.
+2. Dėl šio įstatymo 42, 43 ir 44 straipsniuose nurodytų pažeidimų protokolus surašo šio straipsnio 4 dalyje nurodyti pareigūnai.
 
 
 
 
-3. Šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus, susijusius su specialiojo teritorijų planavimo žemėtvarkos dokumentais, nagrinėja Nacionalinė žemės tarnyba prie Aplinkos ministerijos.
+3. Šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus nagrinėja Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Inspekcija).
 
 
 
 
-4. Šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus, išskyrus pažeidimus, kuriuos nagrinėja šio straipsnio 3 dalyje nurodyta institucija, nagrinėja Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos.
-
-
-
-
-5. Nacionalinės žemės tarnybos prie Aplinkos ministerijos ir Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos vardu nagrinėti šiame įstatyme nurodytus pažeidimus ir skirti nuobaudas turi teisę nurodytų įstaigų vadovai, vadovo pavaduotojas ar vadovo įgalioti kiti institucijos pareigūnai.
+4. Inspekcijos vardu nagrinėti šiame įstatyme nurodytus pažeidimus ir skirti nuobaudas turi teisę Inspekcijos vadovas, vadovo pavaduotojas ar vadovo įgalioti kiti šios institucijos pareigūnai.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-1316, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15644
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
  
 
 
@@ -3144,9 +3147,10 @@ BAIGIAMOSIOS NUOSTATOS
 47 straipsnis. Naudojimasis informacinėmis sistemomis
 
 
-1. Teritorijų planavimo procedūras, išskyrus specialiojo teritorijų planavimo žemėtvarkos dokumentams taikomas teritorijų planavimo procedūras, planavimo organizatoriai, teritorijų planavimo dokumentų rengėjai, viešojo administravimo subjektai ir kiti teritorijų planavimo proceso dalyviai atlieka naudodamiesi Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacine sistema šios sistemos nuostatuose nustatyta tvarka, išskyrus atvejus, jeigu teritorijų planavimo dokumentai buvo pradėti rengti iki šios sistemos sukūrimo. Specialiojo teritorijų planavimo žemėtvarkos dokumentams taikomas teritorijų planavimo procedūras planavimo organizatoriai, teritorijų planavimo dokumentų rengėjai, viešojo administravimo subjektai ir kiti teritorijų planavimo proceso dalyviai atlieka naudodamiesi Žemėtvarkos planavimo dokumentų rengimo informacine sistema šios sistemos nuostatuose nustatyta tvarka, išskyrus atvejus, jeigu specialiojo teritorijų planavimo žemėtvarkos dokumentai buvo pradėti rengti iki šios sistemos sukūrimo. Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinės sistemos nuostatus ir Žemėtvarkos planavimo dokumentų rengimo informacinės sistemos nuostatus tvirtina aplinkos ministras.
+1. Teritorijų planavimo procedūras planavimo organizatoriai, teritorijų planavimo dokumentų rengėjai, viešojo administravimo subjektai ir kiti teritorijų planavimo proceso dalyviai atlieka naudodamiesi Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacine sistema šios sistemos nuostatuose nustatyta tvarka, išskyrus atvejus, kai teritorijų planavimo dokumentai pradėti rengti iki šios sistemos sukūrimo. Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinės sistemos nuostatus tvirtina aplinkos ministras.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1316, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15644
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
  
 
 
@@ -3578,3 +3582,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 45 ir 47 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 18, 20, 24 ir 27 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 9, 20, 23, 25, 26, 30, 34, 37, 45 ir 47 straipsnių pakeitimo įstatymas
