@@ -19,10 +19,9 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
  
@@ -2202,7 +2201,6 @@ INVESTICINĖS BENDROVĖS YPATUMAI
 
 12. Investicinių bendrovių, kurių kapitalas nekintamas, įstatų turiniui šio įstatymo 29 straipsnio 2 ir 5 dalyse nustatyti reikalavimai taikomi mutatis mutandis.
  
- 
 
 
 
@@ -3262,13 +3260,15 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 
 
-4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba valdymo įmonės ar investicinės bendrovės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės ar investicinės bendrovės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) dalyvių interesams, turi teisę mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, prašyti teismo (teisėjo) nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas.
+4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba valdymo įmonės ar investicinės bendrovės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės ar investicinės bendrovės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) dalyvių interesams, turi teisę mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, prašyti teismo (teisėjo) nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja pirmosios instancijos administracinis teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1591, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25163
+ 
 
 
 
 
 5. Valdymo įmonės ir investicinės bendrovės privalo vykdyti šio straipsnio 3 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
- 
  
 
 
@@ -3493,7 +3493,6 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
  
 
- 
 Lietuvos Respublikos
 informuotiesiems investuotojams 
 skirtų kolektyvinio investavimo 
@@ -3594,6 +3593,11 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1035, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08781
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 47 straipsnio ir priedo pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1591, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25163
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 63 straipsnio pakeitimo įstatymas
  
  
 part_e9808fcc2c6541b895a07a5482358210_end
