@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2023-06-29 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -529,7 +529,10 @@ ANTRASIS SKIRSNIS
 
 
 
-5. Šio straipsnio 1 dalyje nurodytas valstybinės žemės patikėtinio sutikimas duodamas Vyriausybės nustatyta tvarka, savivaldybės žemės patikėtinio – savivaldybės tarybos nustatyta tvarka. Kai dėl teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymo buvo gautas valstybinės žemės patikėtinio sutikimas, jo patiriamų nuostolių dydis apskaičiuojamas ir šie nuostoliai atlyginami šio įstatymo 13 straipsnio 1 dalyje nurodyta tvarka vadovaujantis šio įstatymo 13 straipsnio 4 dalimi. Kai dėl teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymo buvo gautas savivaldybės žemės patikėtinio sutikimas, jo patiriamų nuostolių dydis apskaičiuojamas ir šie nuostoliai atlyginami savivaldybės tarybos nustatyta tvarka vadovaujantis šio įstatymo 13 straipsnio 4 dalimi. Kai šio straipsnio 4 dalies 2 punkte nurodyti nuostoliai mokėtini iš valstybės valdomų juridinių asmenų lėšų, šių nuostolių dydis apskaičiuojamas pagal kituose (pagal atitinkamas reguliavimo sritis) įstatymuose nurodytas Vyriausybės patvirtintas kompensacijų nuostoliams atlyginti apskaičiavimo metodikas. Kai šio straipsnio 4 dalies 2 punkte nurodyti nuostoliai mokėtini iš savivaldybės valdomų juridinių asmenų lėšų, šių nuostolių dydis apskaičiuojamas pagal savivaldybės tarybos patvirtintas kompensacijų nuostoliams atlyginti apskaičiavimo metodikas.
+5. Šio straipsnio 1 dalyje nurodytas valstybinės žemės patikėtinio sutikimas duodamas šio valstybinės žemės patikėtinio nustatyta tvarka, savivaldybės žemės patikėtinio sutikimas – tos savivaldybės tarybos nustatyta tvarka. Kai dėl teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymo buvo gautas valstybinės žemės patikėtinio sutikimas, jo patiriamų nuostolių dydis apskaičiuojamas ir šie nuostoliai atlyginami šio įstatymo 13 straipsnio 1 dalyje nurodyta tvarka vadovaujantis šio įstatymo 13 straipsnio 4 dalimi. Kai dėl teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymo buvo gautas savivaldybės žemės patikėtinio sutikimas, jo patiriamų nuostolių dydis apskaičiuojamas ir šie nuostoliai atlyginami savivaldybės tarybos nustatyta tvarka vadovaujantis šio įstatymo 13 straipsnio 4 dalimi. Kai šio straipsnio 4 dalies 2 punkte nurodyti nuostoliai mokėtini iš valstybės valdomų juridinių asmenų lėšų, šių nuostolių dydis apskaičiuojamas pagal kituose (pagal atitinkamas reguliavimo sritis) įstatymuose nurodytas Vyriausybės patvirtintas kompensacijų nuostoliams atlyginti apskaičiavimo metodikas. Kai šio straipsnio 4 dalies 2 punkte nurodyti nuostoliai mokėtini iš savivaldybės valdomų juridinių asmenų lėšų, šių nuostolių dydis apskaičiuojamas pagal savivaldybės tarybos patvirtintas kompensacijų nuostoliams atlyginti apskaičiavimo metodikas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
+ 
 
 
 
@@ -631,6 +634,13 @@ ANTRASIS SKIRSNIS
 
 
 3. Šiame įstatyme nurodytų teritorijų erdvinių duomenų paieškos ir peržiūros paslaugos per Lietuvos erdvinės informacijos portalą Geodezijos ir kartografijos įstatymo nustatyta tvarka naudotojams teikiamos neatlygintinai.
+
+
+
+
+4. Nekilnojamojo turto registre įregistruoto žemės sklypo registro įraše įrašoma informacija apie Nekilnojamojo turto registre įregistruotą šiame įstatyme nurodytą teritoriją, kai žemės sklypo plotas, patenkantis į šią teritoriją, yra 1 kvadratinis metras arba didesnis. Kai žemės sklypo plotas, patenkantis į šią teritoriją, yra mažesnis negu 1 kvadratinis metras, šioje teritorijoje nustatytos specialiosios žemės naudojimo sąlygos šiam žemės sklypui netaikomos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
  
 
 
@@ -2687,15 +2697,19 @@ Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
 
 
 
-3. Nustatant sanitarinės apsaugos zonas, ūkinės veiklos išmetamų (išleidžiamų, paskleidžiamų) aplinkos oro teršalų, kvapų, triukšmo ir kitų fizikinių veiksnių sukeliama žmogaus sveikatai kenksminga aplinkos tarša už sanitarinės apsaugos zonų ribų, taip pat tose sanitarinės apsaugos zonose (jų dalyse), kuriose yra objektai, nurodyti šio įstatymo 53 straipsnio 1 dalies  1–4 punktuose, neturi viršyti ribinių užterštumo (ar kitokių) verčių, nustatytų gyvenamosios paskirties pastatų (namų), viešbučių, mokslo, poilsio, gydymo paskirties pastatų, su apgyvendinimu susijusių specialiosios paskirties pastatų, rekreacijai skirtų objektų aplinkai.
+3. Nustatant sanitarinės apsaugos zonos dydį, vadovaujamasi šiuo kriterijumi – ūkinės veiklos išmetamų (išleidžiamų, paskleidžiamų) aplinkos oro teršalų, kvapų, triukšmo ir kitų fizikinių veiksnių sukeliama žmogaus sveikatai kenksminga aplinkos tarša už sanitarinės apsaugos zonų ribų, taip pat tose sanitarinės apsaugos zonose (jų dalyse), kuriose yra šio įstatymo 53 straipsnio 1 dalies 1–4 punktuose nurodyti objektai, neturi viršyti aplinkos ministro ir sveikatos apsaugos ministro nustatyto aplinkos oro teršalų ir sveikatos apsaugos ministro nustatytų kvapų, triukšmo ir kitų fizikinių veiksnių ribinių užterštumo (ar kitokių) verčių, nustatytų gyvenamosios paskirties pastatų (namų), viešbučių, mokslo, poilsio, gydymo paskirties pastatų, su apgyvendinimu susijusių specialiosios paskirties pastatų, rekreacijai skirtų objektų aplinkai. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
  
 
 
 
 
-4. Sanitarinės apsaugos zonos negali būti nustatomos ir įrašomos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą ar registruojamos Nekilnojamojo turto registre tose teritorijose, kuriose objektai, kuriuos draudžiama statyti, planuoti ar įrengti sanitarinės apsaugos zonoje, yra pastatyti ar įrengti, jų statyba pradėta ar statybą leidžiantys dokumentai išduoti ir (ar) šiuos objektus galima planuoti pagal teritorijų planavimo dokumentus. Šios dalies nuostatos dėl sanitarinės apsaugos zonų nustatymo netaikomos šio įstatymo 9 straipsnio 3 dalyje nurodytais atvejais.
+4. Sanitarinės apsaugos zonos negali būti nustatomos ir registruojamos Nekilnojamojo turto registre tose teritorijose, kuriose objektai, kuriuos draudžiama statyti, planuoti ar įrengti sanitarinės apsaugos zonoje, yra pastatyti ar įrengti, jų statyba pradėta ar statybą leidžiantys dokumentai išduoti ir (ar) šiuos objektus galima planuoti pagal teritorijų planavimo dokumentus. Šios dalies nuostatos dėl sanitarinės apsaugos zonų nustatymo netaikomos, kai sanitarinės apsaugos zona nustatoma dėl ūkinės veiklos, kuri pradėta vykdyti iki žemės sklypų, patenkančių į dėl šios ūkinės veiklos nustatomą sanitarinės apsaugos zoną, suformavimo (teritorijose, kuriose iki teritorijų planavimo dokumentų ar žemės valdos projektų patvirtinimo nebuvo suformuoti žemės sklypai). Taikant šią išimtį, sanitarinės apsaugos zonose (jų dalyse), kuriose yra šio įstatymo 53 straipsnio 1 dalies 1–4 punktuose nurodyti objektai, ūkinės veiklos išmetamų (išleidžiamų, paskleidžiamų) aplinkos oro teršalų, kvapų, triukšmo ir kitų fizikinių veiksnių sukeliama žmogaus sveikatai kenksminga aplinkos tarša neturi viršyti aplinkos ministro ir sveikatos apsaugos ministro nustatyto aplinkos oro teršalų ir sveikatos apsaugos ministro nustatytų kvapų, triukšmo ir kitų fizikinių veiksnių ribinių užterštumo (ar kitokių) verčių, nustatytų gyvenamosios paskirties pastatų (namų), viešbučių, mokslo, poilsio, gydymo paskirties pastatų, su apgyvendinimu susijusių specialiosios paskirties pastatų, rekreacijai skirtų objektų aplinkai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
+ 
 
 
 
@@ -2772,9 +2786,11 @@ Nr. XIV-1229, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15595
 
 
 
-11. Šio įstatymo 50 straipsnio 1, 2 ir 4 punktuose nurodytose sanitarinės apsaugos zonose, į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą įrašytose šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos), išskyrus sanitarinės apsaugos zoną (jos dalį), patenkančią į likviduotos sodininkų bendrijos teritoriją, draudžiama keisti pagrindinę žemės naudojimo paskirtį į kitą žemės paskirtį, pagal kurią galima šio straipsnio 1 dalies 1 punkte nurodytų objektų statyba. Šioje dalyje nurodytose sanitarinės apsaugos zonose netaikomos šio straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos.
+11. Šio įstatymo 50 straipsnio 1, 2 ir 4 punktuose nurodytose sanitarinės apsaugos zonose, nustatytose dėl ūkinės veiklos, kuri pradėta vykdyti iki žemės sklypų, patenkančių į dėl šios ūkinės veiklos nustatomą sanitarinės apsaugos zoną, suformavimo (teritorijose, kuriose iki teritorijų planavimo dokumentų ar žemės valdos projektų patvirtinimo nebuvo suformuoti žemės sklypai), išskyrus sanitarinės apsaugos zoną (jos dalį), patenkančią į likviduotos sodininkų bendrijos teritoriją, draudžiama keisti pagrindinę žemės naudojimo paskirtį į kitą žemės paskirtį, pagal kurią galima šio straipsnio 1 dalies 1 punkte nurodytų objektų statyba. Šioje dalyje nurodytose sanitarinės apsaugos zonose netaikomos šio straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
+Straipsnio dalies pakeitimai:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
  
 
 
@@ -5794,7 +5810,10 @@ MIŠKO ŽEMĖJE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 Miško žemėje draudžiama: 
 
 
-1) statyti statinius ir (ar) įrenginius, tiesti inžinerinius tinklus, išskyrus miško infrastruktūrai priskiriamus inžinerinius statinius ir (ar) įrenginius;
+1) statyti statinius ir (ar) įrenginius, tiesti inžinerinius tinklus, išskyrus inžinerinius tinklus (įskaitant laikomus kilnojamaisiais daiktais), dviračių ir pėsčiųjų takus siaurose – iki 10 metrų pločio (įskaitant inžinerinių tinklų apsaugos zonų plotį) – žemės juostose ir miško infrastruktūrai priskiriamus inžinerinius statinius ir (ar) įrenginius;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2380, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25331
+ 
 
 
 
@@ -6820,7 +6839,10 @@ DVYLIKTASIS SKIRSNIS
 
 
 
-3) statyti statinius be nustatyta tvarka atliktų ir įregistruotų inžinerinių geologinių ir geotechninių tyrimų rezultatų. Ši nuostata netaikoma nesudėtingiems statiniams, išskyrus gyvenamosios paskirties pastatus;
+3) statyti naujus statinius be nustatyta tvarka atliktų ir įregistruotų inžinerinių geologinių ir geotechninių tyrimų rezultatų. Ši nuostata neprivaloma, kai statomi nauji nesudėtingieji statiniai, neypatingieji statiniai: gyvenamosios paskirties (vieno, dviejų butų) pastatai ir jų priklausiniai, kitos (fermų, ūkio, šiltnamių ir sodų) paskirties pastatai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2380, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25331
+ 
 
 
 
@@ -8053,12 +8075,17 @@ BAIGIAMOSIOS NUOSTATOS
 140 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šis įstatymas, išskyrus III skyriaus septintąjį skirsnį, 142 ir 143 straipsnius ir šio straipsnio 4 dalį, įsigalioja 2020 m. sausio 1 d.
+1. Šis įstatymas, išskyrus III skyriaus septintąjį skirsnį, 143 straipsnį ir šio straipsnio 4 dalį, įsigalioja 2020 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
+ 
 
 
 
 
-2. Šio įstatymo 142 straipsnis įsigalioja 2023 m. sausio 1 d.
+2. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
 Straipsnio dalies pakeitimai:
 Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
  
@@ -8095,53 +8122,32 @@ Nr. XIV-1625, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25402
 141 straipsnis. Įstatymo taikymas
 
 
-1. Jeigu iki šio įstatymo įsigaliojimo dienos Nekilnojamojo turto registre įregistruotam žemės sklypui (jo daliai), patenkančiam į šio įstatymo V skyriuje nurodytas saugomas teritorijas, pajūrio juostą, paviršinio vandens telkinių apsaugos zonas ir juostas, Šiaurės Lietuvos karstinį regioną (ar į pagal iki šio įstatymo įsigaliojimo dienos galiojusį teisinį reguliavimą tas pačias teritorijas), šios teritorijos buvo neįrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, specialiosios žemės naudojimo sąlygos, nustatytos šiose teritorijose, šiame žemės sklype (jo dalyje) taikomos nuo šio įstatymo įsigaliojimo dienos. Atitinkamą žymą apie nustatytas ir (ar) pasikeitusias šioje dalyje nurodytas teritorijas šio įstatymo 8 straipsnio 1 dalyje nurodyto pranešimo pagrindu Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojas žemės sklypo registro įraše padaro iki 2022 m. gruodžio 31 d. Pranešimą pateikia teritorijų planavimo dokumento ar žemės valdos projekto organizatorius arba, kai tenkinant viešąjį interesą šioje dalyje nurodytų teritorijų planus, žemėlapius ir (ar) schemas tvirtina Vyriausybė, įstatymų ar Vyriausybės įgaliota institucija, – įstatymų ar atitinkamos srities ministro (pagal jam pavestas valdymo sritis) įgaliota institucija.
+1. Jeigu iki šio įstatymo įsigaliojimo dienos Nekilnojamojo turto registre įregistruotam žemės sklypui (jo daliai), patenkančiam (-iai) į šio įstatymo V skyriuje nurodytas saugomas teritorijas, pajūrio juostą, paviršinio vandens telkinių apsaugos zonas ir juostas, Šiaurės Lietuvos karstinį regioną (ar į pagal iki šio įstatymo įsigaliojimo dienos galiojusį teisinį reguliavimą tas pačias teritorijas), šios teritorijos buvo neįrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, specialiosios žemės naudojimo sąlygos, nustatytos šiose teritorijose, šiame žemės sklype (jo dalyje) taikomos nuo šio įstatymo įsigaliojimo dienos. 
 
 
 
 
-2. Iki šio įstatymo įsigaliojimo dienos pradėti rengti teritorijų planavimo dokumentai, žemės valdos projektai, statinių ar kitos veiklos projektai turi atitikti šio įstatymo reikalavimus.
+2. Iki šio įstatymo įsigaliojimo dienos pradėti rengti teritorijų planavimo dokumentai, žemės valdos projektai, statinių ir kitos veiklos projektai turi atitikti šio įstatymo reikalavimus.
 
 
 
 
-3. Jeigu iki šio įstatymo įsigaliojimo dienos ūkinei ir (ar) kitokiai veiklai, dėl kurios turėjo būti nustatytos šiame įstatyme nurodytos teritorijos, statybą leidžiantys dokumentai išduoti, projektai, kuriems įstatymų nustatytais atvejais tokie dokumentai neišduodami, suderinti ir ši veikla vykdoma, bet šiame įstatyme nurodytos teritorijos nenustatytos ir neįrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, jas nustato Vyriausybė ar Vyriausybės įgaliota institucija Vyriausybės ar Vyriausybės įgaliotos institucijos nustatyta tvarka tvirtinamuose planuose, žemėlapiuose ir (ar) schemose. Šioms teritorijoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas. Šioje dalyje nurodytos teritorijos nustatomos ir šio įstatymo 8 straipsnio 1 dalyje ir 9 straipsnio 2 dalyje nurodyti pranešimai ir prašymai pateikiami iki 2022 m. gruodžio 31 d. šio įstatymo 8 straipsnio 3 dalies 6 punkte ir šio straipsnio 13 dalyje nustatyta tvarka arba, pateikus šio įstatymo 8 straipsnio 1 dalyje nurodytą pranešimą iki 2022 m. gruodžio 31 d., gali būti pateikiami šio įstatymo 142 straipsnyje išdėstyto 9 straipsnio 1 dalyje nurodyti prašymai. Jeigu šioje dalyje nurodytos teritorijos buvo nustatytos, bet nebuvo įrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą iki 2022 m. gruodžio 31 d. ir (ar) nustatomos po 2022 m. gruodžio 31 d., šio įstatymo 142 straipsnyje išdėstyto 9 straipsnio 1 dalyje nurodyti prašymai pateikiami arba šioms teritorijoms įregistruoti reikalingi duomenys perduodami iki 2024 m. gruodžio 31 d., nustatomos po 2022 m. gruodžio 31 d., šio įstatymo 142 straipsnyje išdėstyto Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnio 1 dalyje nurodyti prašymai pateikiami arba šioms teritorijoms įregistruoti reikalingi duomenys perduodami iki 2024 m. gruodžio 31 d. Pranešimus ir prašymus Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pateikia asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, – įstatymų ar atitinkamos srities ministro (pagal jam pavestas valdymo sritis) įgaliota institucija. Žemės savininkas, valstybinės ar savivaldybės žemės patikėtinis, taip pat fizinis ar juridinis asmuo arba kita organizacija ar jų padaliniai, naudojantys žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) nustatytoje šiame įstatyme nurodytoje teritorijoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkai ar patikėtiniai apie nustatytas šioje dalyje nurodytas teritorijas ir jose taikomas specialiąsias žemės naudojimo sąlygas, o asmenys, turintys teisę į kompensacijas, – apie teisę kreiptis į konkretų subjektą dėl šios kompensacijos sumokėjimo informuojami šio įstatymo 11 straipsnyje nustatyta tvarka. Šioje dalyje nurodytais atvejais žemės sklypo savininkui, valstybinės ar savivaldybės žemės sklypo patikėtiniui išmokamos kompensacijos, kurių dydis apskaičiuojamas pagal žemės sklypo vidutinę rinkos vertę, nustatytą Vyriausybės nustatyta tvarka taikant masinį turto vertinimą, išskyrus atvejus, kai šioje dalyje nurodytai veiklai statybą leidžiantys dokumentai buvo išduoti, projektai, kuriems įstatymų nustatytais atvejais tokie dokumentai neišduodami, buvo suderinti ir (ar) ši veikla buvo pradėta vykdyti iki 1992 m. gegužės 11 d. Šios kompensacijos nemokamos, kai dėl tų pačių ar skirtingų apribojimų taikymo buvo atlyginta, jeigu teritorija (jos dalis), dėl kurios nustatymo atsiradusių apribojimų taikymo buvo atlyginta, sutampa su naujai nustatyta šiame įstatyme nurodyta teritorija (jos dalimi), kai šiame įstatyme nurodyta teritorija nustatoma tik dėl šio žemės savininko naudai vykdomos veiklos, kitais įstatymų numatytais atvejais. Šios dalies nuostatos netaikomos nustatant sanitarinės apsaugos zonas.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 141 straipsnio 3 dalis (2022 m. gruodžio 6 d. redakcija, TAR, 2022-12-13, Nr. 25402) tiek, kiek pagal ją kompensacija dėl specialiųjų žemės naudojimo sąlygų taikymo nemokama, kai specialiosios žemės naudojimo sąlygos žemės sklypui taikomos dėl ūkinės ir (ar) kitokios veiklos, kuriai statybą leidžiantys dokumentai išduoti, projektai, kuriems įstatymų nustatytais atvejais tokie dokumentai neišduodami, suderinti ir (ar) ši veikla pradėta vykdyti iki 1992 m. gegužės 11 d., prieštarauja Lietuvos Respublikos Konstitucijos 23, 29 straipsniams.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1625, 2022-12-06, paskelbta TAR 2022-12-13, i. k. 2022-25402
-Nr.  KT60-N7/2023, 2023-06-29, paskelbta TAR 2023-06-29, i. k. 2023-13152
- 
+3. Jeigu iki šio įstatymo įsigaliojimo dienos ūkinei ir (ar) kitokiai veiklai, dėl kurios turėjo būti nustatytos šiame įstatyme nurodytos teritorijos, statybą leidžiantys dokumentai išduoti, projektai, kuriems įstatymų nustatytais atvejais tokie dokumentai neišduodami, suderinti ir ši veikla vykdoma, bet šiame įstatyme nurodytos teritorijos nenustatytos ir neįrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, jas nustato Vyriausybė ar Vyriausybės įgaliota institucija Vyriausybės ar Vyriausybės įgaliotos institucijos nustatyta tvarka tvirtinamuose planuose, žemėlapiuose ir (ar) schemose. Šioms teritorijoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas. Šioje dalyje nurodytos teritorijos nustatomos ir šio įstatymo (įstatymo redakcija iki 2022 m. gruodžio 31 d.) 8 straipsnio 1 dalyje ir 9 straipsnio 2 dalyje nurodyti pranešimai ir prašymai pateikiami iki 2022 m. gruodžio 31 d. šio įstatymo (įstatymo redakcija iki 2022 m. gruodžio 31 d.) 8 straipsnio 3 dalies 6 punkte nustatyta tvarka arba, pateikus šio įstatymo (įstatymo redakcija iki 2022 m. gruodžio 31 d.) 8 straipsnio 1 dalyje nurodytą pranešimą iki 2022 m. gruodžio 31 d., gali būti pateikiami šio įstatymo 9 straipsnio 1 dalyje nurodyti prašymai. Jeigu šioje dalyje nurodytos teritorijos buvo nustatytos, bet nebuvo įrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą iki 2022 m. gruodžio 31 d. ir (ar) nustatomos po 2022 m. gruodžio 31 d., šio įstatymo 9 straipsnio 1 dalyje nurodyti prašymai pateikiami arba šioms teritorijoms įregistruoti reikalingi duomenys perduodami iki 2026 m. gruodžio 31 d. Pranešimus ir prašymus Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pateikia asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, – įstatymų ar atitinkamos srities ministro (pagal jam pavestas valdymo sritis) įgaliota institucija. Žemės savininkas, valstybinės ar savivaldybės žemės patikėtinis, taip pat fizinis ar juridinis asmuo arba kita organizacija ar jų padaliniai, naudojantys žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) nustatytoje šiame įstatyme nurodytoje teritorijoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkai ar patikėtiniai apie nustatytas šioje dalyje nurodytas teritorijas ir jose taikomas specialiąsias žemės naudojimo sąlygas, o asmenys, turintys teisę į kompensacijas, apie teisę kreiptis į konkretų subjektą dėl šios kompensacijos sumokėjimo informuojami šio įstatymo 11 straipsnyje nustatyta tvarka. Šioje dalyje nurodytais atvejais žemės sklypo savininkui, valstybinės ar savivaldybės žemės sklypo patikėtiniui išmokamos kompensacijos, kurių dydis apskaičiuojamas pagal žemės sklypo vidutinę rinkos vertę, nustatytą Vyriausybės nustatyta tvarka taikant masinį turto vertinimą. Šios kompensacijos nemokamos, kai dėl tų pačių ar skirtingų apribojimų taikymo buvo atlyginta, jeigu teritorija (jos dalis), dėl kurios nustatymo atsiradusių apribojimų taikymo buvo atlyginta, sutampa su naujai nustatyta šiame įstatyme nurodyta teritorija (jos dalimi), kai šiame įstatyme nurodyta teritorija nustatoma tik dėl šio žemės savininko naudai vykdomos veiklos, kitais įstatymų numatytais atvejais. Šios dalies nuostatos netaikomos nustatant sanitarinės apsaugos zonas.
 
 
 
 
-4. Jeigu iki šio įstatymo įsigaliojimo dienos ūkinei ir (ar) kitokiai veiklai, dėl kurios turėjo būti nustatytos šiame įstatyme nurodytos sanitarinės apsaugos zonos, šios zonos pagal iki šio įstatymo įsigaliojimo dienos galiojusį teisinį reguliavimą nustatytos, bet, į jas patekus Nekilnojamojo turto registre įregistruotiems žemės sklypams (jų dalims), neįrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą (išskyrus šio įstatymo 9 straipsnio 3 dalyje nurodytus atvejus), asmuo, suinteresuotas šios ūkinės ir (ar) kitokios veiklos vykdymu, šio įstatymo 8 straipsnio 1 dalyje ir 9 straipsnio 2 dalyje nurodytus pranešimus ir prašymus Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pateikia per dvejus kalendorinius metus nuo šio įstatymo įsigaliojimo dienos (bet ne vėliau kaip iki 2022 m. gruodžio 31 d.) gavęs žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimus, jeigu jie nebuvo gauti, išskyrus atvejus, kai šiame įstatyme nurodytos teritorijos nustatytos tenkinant viešąjį interesą, kai žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas. 
+4. Kai sanitarinės apsaugos zona į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą buvo įrašyta šio įstatymo (įstatymo redakcija iki 2022 m. gruodžio 31 d.) 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos), bet šio įstatymo 9 straipsnio 1 dalyje nurodytas prašymas arba šiai teritorijai įregistruoti reikalingi duomenys nepateikti Nekilnojamojo turto registro tvarkytojui, asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatyta sanitarinės apsaugos zona, vykdymu, šioje dalyje nurodytu atveju nustato šią sanitarinės apsaugos zoną poveikio visuomenės sveikatai vertinimo dokumente ir Nekilnojamojo turto registro tvarkytojui pateikia šioje dalyje nurodytus prašymus arba sanitarinės apsaugos zonai įregistruoti reikalingus duomenis. Jeigu poveikio visuomenės sveikatai vertinimo dokumente nustatyta sanitarinės apsaugos zona, palyginti su įrašytąja į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, sumažėja, asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatyta sanitarinės apsaugos zona, vykdymu, per 3 darbo dienas nuo įgaliotos institucijos sprendimo pritarti šioje dalyje nurodytam poveikio visuomenės sveikatai vertinimo dokumentui priėmimo dienos apie nustatytą sumažėjusią sanitarinės apsaugos zoną šio įstatymo 11 straipsnio 2–4 dalyse nustatyta tvarka informuoja į šią teritoriją nebepatenkančios žemės savininkus, valstybinės ar savivaldybės žemės patikėtinius, taip pat fizinius ar juridinius asmenis arba kitas organizacijas ar jų padalinius, naudojančius žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) nustatytoje sanitarinės apsaugos zonoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkus ar patikėtinius. Prašymas įgaliotai institucijai priimti sprendimą dėl šioje dalyje nurodyto poveikio visuomenės sveikatai vertinimo dokumento pateikiamas iki 2024 m. gruodžio 31 d., o šio įstatymo 9 straipsnio 1 dalyje nurodyti prašymai arba šioms teritorijoms įregistruoti reikalingi duomenys Nekilnojamojo turto registro tvarkytojui pateikiami iki 2025 m. gruodžio 1 d. Šioje dalyje nurodytoms sanitarinės apsaugos zonoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas ir kompensacijos dėl specialiųjų žemės naudojimo sąlygų taikymo šiose teritorijose nemokamos, išskyrus atvejus, kai žemės sklypo ar valstybinės žemės dalis, patenkanti į poveikio visuomenės sveikatai vertinimo dokumentuose nustatytą sanitarinės apsaugos zoną, padidėja (šiais atvejais padidėjusioje, palyginti su įrašytąja į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, sanitarinės apsaugos zonos dalyje taikomos šio įstatymo 53 straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos).
 
 
 
 
-41. Kai sanitarinės apsaugos zona į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą buvo įrašyta šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos), bet šio įstatymo 142 straipsnyje išdėstyto Specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnio 1 dalyje nurodytas prašymas arba šiai teritorijai įregistruoti reikalingi duomenys nepateikti Nekilnojamojo turto registro tvarkytojui, asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatyta sanitarinės apsaugos zona, vykdymu, šioje dalyje nurodytu atveju nustato šią sanitarinės apsaugos zoną poveikio visuomenės sveikatai vertinimo dokumente ir Nekilnojamojo turto registro tvarkytojui pateikia šioje dalyje nurodytus prašymus arba sanitarinės apsaugos zonai įregistruoti reikalingus duomenis. Šioje dalyje nurodytas poveikio visuomenės sveikatai vertinimo dokumentas rengiamas, kai į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą įrašyta sanitarinės apsaugos zona nenurodyta (nepažymėta grafiškai) šio įstatymo 6 straipsnio 1 dalyje ir šio įstatymo 142 straipsnyje išdėstyto Specialiųjų žemės naudojimo sąlygų įstatymo 6 straipsnio 1 dalyje nurodytuose dokumentuose (ar kituose dokumentuose pagal iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos galiojusį teisinį reguliavimą). Prašymas įgaliotai institucijai priimti sprendimą dėl šioje dalyje nurodyto poveikio visuomenės sveikatai vertinimo dokumento pateikiamas iki 2024 m. gruodžio 31 d., o šio įstatymo 142 straipsnyje išdėstyto Specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnio 1 dalyje nurodyti prašymai arba šioms teritorijoms įregistruoti reikalingi duomenys Nekilnojamojo turto registro tvarkytojui pateikiami iki 2025 m. gruodžio 1 d. Šioje dalyje nurodytoms sanitarinės apsaugos zonoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas, išskyrus atvejus, kai žemės sklypo ar valstybinės žemės dalis, patenkanti į poveikio visuomenės sveikatai vertinimo dokumentuose nustatytą sanitarinės apsaugos zoną, padidėja (šiais atvejais padidėjusioje, palyginti su įrašytąja į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, sanitarinės apsaugos zonos dalyje taikomos šio įstatymo 53 straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos). 
-Papildyta straipsnio dalimi:
-Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
- 
+5. Kai sanitarinės apsaugos zona turėjo būti įrašyta į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą šio įstatymo (įstatymo redakcija iki 2022 m. gruodžio 31 d.) 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos), bet nebuvo įrašyta iki 2022 m. gruodžio 31 d., asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatyta sanitarinės apsaugos zona, vykdymu, nustato šią sanitarinės apsaugos zoną poveikio visuomenės sveikatai vertinimo dokumente, Nekilnojamojo turto registro tvarkytojui pateikia šio įstatymo 9 straipsnio 1 dalyje nurodytus prašymus arba sanitarinės apsaugos zonai įregistruoti reikalingus duomenis ir per 3 darbo dienas nuo įgaliotos institucijos sprendimo pritarti šioje dalyje nurodytam poveikio visuomenės sveikatai vertinimo dokumentui priėmimo dienos apie nustatytą sanitarinės apsaugos zoną ir joje taikomas specialiąsias žemės naudojimo sąlygas šio įstatymo 11 straipsnio 2–4 dalyse nustatyta tvarka informuoja į šią teritoriją patenkančios žemės savininkus, valstybinės ar savivaldybės žemės patikėtinius, taip pat fizinius ar juridinius asmenis arba kitas organizacijas ar jų padalinius, naudojančius žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) nustatytoje sanitarinės apsaugos zonoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkus ar patikėtinius. Prašymas įgaliotai institucijai priimti sprendimą dėl šioje dalyje nurodyto poveikio visuomenės sveikatai vertinimo dokumento pateikiamas iki 2024 m. gruodžio 31 d. Šio straipsnio 4 dalyje nustatytais terminais šioje dalyje nurodyti prašymai įgaliotai institucijai teikiami kartu su Nacionalinės žemės tarnybos prie Aplinkos ministerijos direktoriaus nustatyta tvarka parengta Nacionalinės žemės tarnybos prie Aplinkos ministerijos išvada dėl galimybės nustatyti sanitarinės apsaugos zoną šio įstatymo (įstatymo redakcija iki 2022 m. gruodžio 31 d.) 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos). Šioje dalyje nurodytoms sanitarinės apsaugos zonoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas ir kompensacijos dėl specialiųjų žemės naudojimo sąlygų taikymo šiose teritorijose nemokamos, išskyrus atvejus, kai žemės sklypo ar valstybinės žemės dalis, patenkanti į poveikio visuomenės sveikatai vertinimo dokumentuose nustatytą sanitarinės apsaugos zoną, padidėja (šiais atvejais padidėjusioje, palyginti su galėjusia būti įrašyta į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą šio įstatymo (įstatymo redakcija iki 2022 m. gruodžio 31 d.) 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos) sanitarinės apsaugos zonos dalyje taikomos šio įstatymo 53 straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos).
 
 
 
 
-42. Kai sanitarinės apsaugos zona turėjo būti įrašyta į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos), bet nebuvo įrašyta iki 2022 m. gruodžio 31 d., asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatyta sanitarinės apsaugos zona, vykdymu, nustato šią sanitarinės apsaugos zoną poveikio visuomenės sveikatai vertinimo dokumente ir Nekilnojamojo turto registro tvarkytojui pateikia šio įstatymo 142 straipsnyje išdėstyto Specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnio 1 dalyje nurodytus prašymus arba sanitarinės apsaugos zonai įregistruoti reikalingus duomenis. Prašymas įgaliotai institucijai priimti sprendimą dėl šioje dalyje nurodyto poveikio visuomenės sveikatai vertinimo dokumento pateikiamas iki 2024 m. gruodžio 31 d. Šio straipsnio 41 dalyje nustatytais terminais šioje dalyje nurodyti prašymai arba sanitarinės apsaugos zonoms įregistruoti reikalingi duomenys teikiami kartu su Nacionalinės žemės tarnybos prie Aplinkos ministerijos direktoriaus nustatyta tvarka parengta Nacionalinės žemės tarnybos prie Aplinkos ministerijos išvada dėl galimybės nustatyti sanitarinės apsaugos zoną šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos). Šioje dalyje nurodytoms sanitarinės apsaugos zonoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas, išskyrus atvejus, kai žemės sklypo ar valstybinės žemės dalis, patenkanti į poveikio visuomenės sveikatai vertinimo dokumentuose nustatytą sanitarinės apsaugos zoną, padidėja (šiais atvejais padidėjusioje, palyginti su galėjusia būti įrašyta į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą šio įstatymo 9 straipsnio 3 dalyje nustatytais pagrindais (ar tais pačiais pagrindais pagal teisinį reguliavimą, galiojusį iki Specialiųjų žemės naudojimo sąlygų įstatymo įsigaliojimo dienos) sanitarinės apsaugos zonos dalyje taikomos šio įstatymo 53 straipsnio 1 dalyje nustatytos specialiosios žemės naudojimo sąlygos).
-Papildyta straipsnio dalimi:
-Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
- 
-
-
-
-
-5. Jeigu šiame įstatyme nurodytos teritorijos turi būti nustatytos dėl ūkinės ir (ar) kitokios veiklos, kuriai vykdyti iki šio įstatymo įsigaliojimo dienos šių teritorijų nustatyti nereikėjo, kai ši veikla vykdoma ar jai vykdyti statybą leidžiantys dokumentai išduoti, jas nustato Vyriausybė ar Vyriausybės įgaliota institucija Vyriausybės ar Vyriausybės įgaliotos institucijos nustatyta tvarka tvirtinamais planais, žemėlapiais ir (ar) schemomis. Šioms teritorijoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas. Asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, – įstatymų ar atitinkamos srities ministro (pagal jam pavestas valdymo sritis) įgaliota institucija pranešimą žymai apie šioje dalyje nurodytas nustatytas teritorijas padaryti, prašymą šias teritorijas įrašyti į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą arba įregistruoti į Nekilnojamojo turto registrą pateikia šio įstatymo 8 straipsnio 3 dalies 6 punkte, šio straipsnio 13 dalyje nustatyta tvarka. Žemės savininkas, valstybinės ar savivaldybės žemės patikėtinis, taip pat fizinis ar juridinis asmuo arba kita organizacija ar jų padalinai, naudojantys žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) nustatytoje šiame įstatyme nurodytoje teritorijoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkai ar patikėtiniai apie nustatytas šioje dalyje nurodytas teritorijas ir jose taikomas specialiąsias žemės naudojimo sąlygas, o asmenys, turintys teisę į kompensacijas, – apie teisę kreiptis į konkretų subjektą dėl šios kompensacijos sumokėjimo informuojami šio įstatymo 11 straipsnyje nustatyta tvarka. Šioje dalyje nurodytais atvejais išmokamos kompensacijos vadovaujantis šio įstatymo 13 straipsnio nuostatomis, išskyrus atvejus, kai, tenkinant viešąjį interesą, šioje dalyje nurodytos teritorijos nustatomos šioje dalyje nurodytai veiklai, dėl kurios iki šio įstatymo įsigaliojimo dienos ūkinės ir (ar) kitokios veiklos apribojimai teisės aktuose ir (ar) teritorijų planavimo dokumentuose buvo nustatyti, bet nebuvo numatyta galimybė mokėti kompensacijas dėl šių apribojimų taikymo (magistralinių dujotiekių vietovės klasių teritorijos, potvynių grėsmės teritorijos, branduolinės energetikos objektų sanitarinės apsaugos zonos, pajūrio juosta).
-
-
-
-
-6. Jeigu iki šio įstatymo įsigaliojimo dienos žymos apie šiame įstatyme nurodytas teritorijas žemės sklypo registro įraše padarytos, bet šios teritorijos neįrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, šio straipsnio 13 dalyje nurodytas dvejų kalendorinių metų terminas skaičiuojamas nuo šio įstatymo įsigaliojimo dienos. Šioje dalyje nurodytu atveju šio įstatymo 9 straipsnio 2 dalyje nurodyti prašymai Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pateikiami kartu su nustatytų teritorijų erdviniais duomenimis gavus žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimus, jeigu jie nebuvo gauti (išskyrus atvejus, kai šiame įstatyme nurodytos teritorijos nustatytos tenkinant viešąjį interesą, kai žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas).
+6. Jeigu šiame įstatyme nurodytos teritorijos turi būti nustatytos dėl ūkinės ir (ar) kitokios veiklos, kuriai vykdyti iki šio įstatymo įsigaliojimo dienos šių teritorijų nustatyti nereikėjo, kai ši veikla vykdoma ar jai vykdyti statybą leidžiantys dokumentai išduoti, jas nustato Vyriausybė ar Vyriausybės įgaliota institucija Vyriausybės ar Vyriausybės įgaliotos institucijos nustatyta tvarka tvirtinamais planais, žemėlapiais ir (ar) schemomis. Šioms teritorijoms nustatyti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas. Asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, įstatymų ar atitinkamos srities ministro (pagal jam pavestas valdymo sritis) įgaliota institucija pranešimą žymai apie šioje dalyje nurodytas nustatytas teritorijas padaryti, prašymą šias teritorijas įrašyti į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą arba įregistruoti į Nekilnojamojo turto registrą pateikia šio įstatymo (įstatymo redakcija iki 2022 m. gruodžio 31 d.) 8 straipsnio 3 dalies 6 punkte, šio įstatymo 9 straipsnio 4 dalies 6 punkte nustatyta tvarka. Žemės savininkas, valstybinės ar savivaldybės žemės patikėtinis, taip pat fizinis ar juridinis asmuo arba kita organizacija ar jų padaliniai, naudojantys žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) nustatytoje šiame įstatyme nurodytoje teritorijoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkai ar patikėtiniai apie nustatytas šioje dalyje nurodytas teritorijas ir jose taikomas specialiąsias žemės naudojimo sąlygas, o asmenys, turintys teisę į kompensacijas, apie teisę kreiptis į konkretų subjektą dėl šios kompensacijos sumokėjimo informuojami šio įstatymo 11 straipsnyje nustatyta tvarka. Šioje dalyje nurodytais atvejais išmokamos kompensacijos vadovaujantis šio įstatymo 13 straipsnio nuostatomis, išskyrus atvejus, kai, tenkinant viešąjį interesą, šioje dalyje nurodytos teritorijos nustatomos šioje dalyje nurodytai veiklai, dėl kurios iki šio įstatymo įsigaliojimo dienos ūkinės ir (ar) kitokios veiklos apribojimai teisės aktuose ir (ar) teritorijų planavimo dokumentuose buvo nustatyti, bet nebuvo numatyta galimybė mokėti kompensacijas dėl šių apribojimų taikymo (magistralinių dujotiekių vietovės klasių teritorijos, potvynių grėsmės teritorijos, branduolinės energetikos objektų sanitarinės apsaugos zonos, pajūrio juosta).
 
 
 
@@ -8156,12 +8162,12 @@ Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
 
 
 
-9. Kai iki šio įstatymo įsigaliojimo dienos buvo gautas žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas, kuriame nebuvo aptarta informavimo apie pradedamas taikyti specialiąsias žemės naudojimo sąlygas, jų taikymo pabaigą tvarka, asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, ar šio asmens teisių ir pareigų perėmėjas, o kai tokio nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatorius, teikdamas Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pranešimą apie žymos žemės sklypo registro įraše padarymą, tą pačią dieną kitu, paštu siunčiamu, dokumentu pateikia rašytinę informaciją žemės sklypo, kuriame numatoma taikyti šias specialiąsias žemės naudojimo sąlygas ir (ar) jų nebetaikyti, savininkui, valstybinės ar savivaldybės žemės patikėtiniui jo deklaruotos gyvenamosios vietos ar buveinės adresu apie pradedamas taikyti specialiąsias žemės naudojimo sąlygas ar jų taikymo pabaigą (jeigu žemės sklypo savininko gyvenamoji vieta nežinoma, informacija apie pradedamas taikyti ir (ar) nebetaikyti specialiąsias žemės naudojimo sąlygas žemės sklypui (jo daliai) viešai paskelbiama Vyriausybės, įstatymų ar Vyriausybės įgaliotos institucijos interneto svetainėje, viename iš nacionalinių ir viename iš vietinių laikraščių, jeigu toks leidžiamas numatomos nustatyti teritorijos vietoje). Kai atitinkamų fizinių asmenų gyvenamoji vieta nežinoma, informacija apie teritorijas, nustatytas tenkinant viešąjį interesą, ir jose taikytinas specialiąsias sąlygas siunčiama į paskutinę žinomą tokio asmens gyvenamąją vietą. 
+9. Kai iki šio įstatymo įsigaliojimo dienos buvo gautas žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas, kuriame nebuvo aptarta informavimo apie pradedamas taikyti specialiąsias žemės naudojimo sąlygas, jų taikymo pabaigą tvarka, asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, ar šio asmens teisių ir pareigų perėmėjas, o kai tokio nėra, teritorijų planavimo dokumento ar žemės valdos projekto organizatorius, teikdamas Nekilnojamojo turto registro tvarkytojui šio įstatymo 9 straipsnio 1 dalyje nurodytą prašymą arba šiai teritorijai įregistruoti reikalingus duomenis, tą pačią dieną kitu, paštu siunčiamu, dokumentu pateikia rašytinę informaciją žemės sklypo, kuriame numatoma taikyti šias specialiąsias žemės naudojimo sąlygas ir (ar) jų nebetaikyti, savininkui, valstybinės ar savivaldybės žemės patikėtiniui jo deklaruotos gyvenamosios vietos ar buveinės adresu apie pradedamas taikyti specialiąsias žemės naudojimo sąlygas ar jų taikymo pabaigą (jeigu žemės sklypo savininko gyvenamoji vieta nežinoma, informacija apie pradedamas taikyti ir (ar) nebetaikyti specialiąsias žemės naudojimo sąlygas žemės sklypui (jo daliai) viešai paskelbiama Vyriausybės, įstatymų ar Vyriausybės įgaliotos institucijos interneto svetainėje, viename iš nacionalinių ir viename iš vietinių laikraščių, jeigu toks leidžiamas numatomos nustatyti teritorijos vietoje). Kai atitinkamo fizinio asmens gyvenamoji vieta nežinoma, informacija apie teritorijas, nustatytas tenkinant viešąjį interesą, ir jose taikytinas specialiąsias sąlygas siunčiama į paskutinę žinomą tokio fizinio asmens gyvenamąją vietą. 
 
 
 
 
-10. Kai iki šio įstatymo įsigaliojimo dienos buvo gautas žemės savininko sutikimas, kuriame nebuvo aptartas nuostolių atlyginimas, žemės savininkas dėl nuostolių, patiriamų dėl specialiųjų žemės naudojimo sąlygų taikymo nustatytose šiame įstatyme nurodytose teritorijose, atlyginimo turi teisę kreiptis į asmenį, suinteresuotą ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, ar į šio asmens teisių ir pareigų perėmėją, o kai tokio nėra, – į teritorijų planavimo dokumento ar žemės valdos projekto organizatorių arba, jeigu nepavyksta susitarti, į teismą dėl nuostolių atlyginimo teismo tvarka ne vėliau kaip per vienus kalendorinius metus nuo pranešimo apie taikomas specialiąsias žemės naudojimo sąlygas išsiuntimo (jeigu nežinoma žemės sklypo savininko deklaruota gyvenamoji vieta, – nuo šio įstatymo 11 straipsnio 3 dalyje nurodyto skelbimo išspausdinimo viename iš nacionalinių laikraščių) dienos, jeigu kituose įstatymuose nenustatyta kitaip. Asmenims, praleidusiems šioje dalyje nustatytą terminą dėl priežasčių, kurias teismas pripažįsta svarbiomis, praleistas terminas gali būti atnaujinamas. Šioje dalyje nurodytų žemės savininko patiriamų nuostolių dydis ir atlyginimo terminai nustatomi asmens, suinteresuoto ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, ar šio asmens teisių ir pareigų perėmėjo, o kai tokio nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatoriaus ir žemės savininko rašytiniu susitarimu. Nuostoliai nekompensuojami, kai dėl tų pačių ar skirtingų apribojimų taikymo atsiradę tokie patys nuostoliai buvo atlyginti, jeigu šiame įstatyme nurodyta teritorija (jos dalis), dėl kurios nustatymo buvo gautas žemės savininko sutikimas, kuriame nebuvo aptartas nuostolių atlyginimas, ir teritorija (jos dalis), dėl kurios nustatymo atsiradę šie nuostoliai buvo atlyginti, sutampa. Šalims nesusitarus, ginčus dėl nuostolių atlyginimo nagrinėja teismas.
+10. Kai iki šio įstatymo įsigaliojimo dienos buvo gautas žemės savininko sutikimas, kuriame nebuvo aptartas nuostolių atlyginimas, žemės savininkas dėl nuostolių, patiriamų dėl specialiųjų žemės naudojimo sąlygų taikymo nustatytose šiame įstatyme nurodytose teritorijose, atlyginimo turi teisę kreiptis į asmenį, suinteresuotą ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, ar į šio asmens teisių ir pareigų perėmėją, o kai tokio nėra, – į teritorijų planavimo dokumento ar žemės valdos projekto organizatorių arba, jeigu nepavyksta susitarti, į teismą dėl nuostolių atlyginimo teismo tvarka ne vėliau kaip per vienus kalendorinius metus nuo pranešimo apie taikomas specialiąsias žemės naudojimo sąlygas išsiuntimo (jeigu nežinoma žemės sklypo savininko deklaruota gyvenamoji vieta, – nuo šio įstatymo 11 straipsnio 3 dalyje nurodyto skelbimo išspausdinimo viename iš nacionalinių laikraščių) dienos, jeigu kituose įstatymuose nenustatyta kitaip. Asmenims, praleidusiems šioje dalyje nustatytą terminą dėl priežasčių, kurias teismas pripažįsta svarbiomis, praleistas terminas gali būti atnaujinamas. Šioje dalyje nurodytų žemės savininko patiriamų nuostolių dydis ir atlyginimo terminai nustatomi asmens, suinteresuoto ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, ar šio asmens teisių ir pareigų perėmėjo, o kai tokio nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatoriaus ir žemės savininko rašytiniu susitarimu. Nuostoliai nekompensuojami, kai dėl tų pačių ar skirtingų apribojimų taikymo atsiradę tokie patys nuostoliai buvo atlyginti, jeigu šiame įstatyme nurodyta teritorija (jos dalis), dėl kurios nustatymo buvo gautas žemės savininko sutikimas, kuriame nebuvo aptartas nuostolių atlyginimas, ir teritorija (jos dalis), dėl kurios nustatymo atsiradę šie nuostoliai buvo atlyginti, sutampa. Šalims nesusitarus, ginčus dėl nuostolių atlyginimo nagrinėja teismas.
 
 
 
@@ -8171,478 +8177,35 @@ Nr. XIV-1777, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27591
 
 
 
-12. Prašymą (išskyrus šio įstatymo 9 straipsnio 3 dalyje ir šio straipsnio 13 dalyje nurodytus atvejus) kartu su Nekilnojamojo turto kadastro nuostatuose nurodytais dokumentais per dvejus kalendorinius metus nuo šio įstatymo 8 straipsnio 1 dalyje nurodytos žymos padarymo dienos (bet ne vėliau kaip iki 2022 m. gruodžio 31 d.) Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pateikia asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatorius (kai tokio nėra, – žemės sklypo savininkas ar valstybinės ar savivaldybės žemės patikėtinis).
+12. Iki 2023 m. sausio 1 d. žemės sklypui taikomos specialiosios žemės naudojimo sąlygos taikomos ir po 2023 m. sausio 1 d., iki šiame įstatyme nurodytos teritorijos, kuriose taikomos šios specialiosios žemės naudojimo sąlygos, bus įregistruotos Nekilnojamojo turto registre.
 
 
 
 
-13. Šio įstatymo 7 straipsnio 3 dalyje nurodytais atvejais, kai šiame įstatyme nurodytos teritorijos nustatytos tenkinant viešąjį interesą, prašymą kartu su Nekilnojamojo turto kadastro nuostatuose nurodytais dokumentais per dvejus kalendorinius metus nuo šio įstatymo 8 straipsnio 1 dalyje nurodytos žymos padarymo dienos (bet ne vėliau kaip iki 2022 m. gruodžio 31 d.) Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pateikia asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatorius arba, kai šiame įstatyme nurodytų teritorijų planus, žemėlapius ir (ar) schemas tvirtina Vyriausybė, įstatymų ar Vyriausybės įgaliota institucija, – įstatymų ar ministro (pagal pavestas valdymo sritis) įgaliota institucija.
+13. Iki šio įstatymo įsigaliojimo dienos patvirtintuose teritorijų planavimo dokumentuose, žemės valdos projektuose ir (ar) statinių, kuriems išduoti statybą leidžiantys dokumentai, projektuose teritorijos, kuriose turi būti taikomos specialiosios žemės naudojimo sąlygos (ar tos pačios teritorijos pagal teisinį reguliavimą, galiojusį iki šio įstatymo įsigaliojimo dienos) nurodytose teritorijose, kuriose nesuformuoti žemės sklypai, specialiosios žemės naudojimo sąlygos šiose teritorijose taikomos nuo šio įstatymo įsigaliojimo dienos, iki šiame įstatyme nurodytos teritorijos, kuriose taikomos šios specialiosios žemės naudojimo sąlygos, bus įregistruotos Nekilnojamojo turto registre.
 
 
 
 
-14. Iki 2023 m. sausio 1 d. žemės sklypui taikomos specialiosios žemės naudojimo sąlygos taikomos ir po 2023 m. sausio 1 d., iki šiame įstatyme nurodytos teritorijos bus pakeistos ir (ar) Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka patikslinti jų duomenys.
+14. Valstybės registruose, kadastruose ir (ar) valstybės informacinėse sistemose kaupiami duomenys apie teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, Vyriausybės įgaliotos institucijos nustatyta tvarka ir sąlygomis pateikiami Nekilnojamojo turto registro tvarkytojui iki 2022 m. birželio 30 d. Šios teritorijos nuo 2023 m. sausio 1 d. laikytinos Nekilnojamojo turto registro objektais.
 
 
 
 
-15. Iki šio įstatymo įsigaliojimo dienos patvirtintuose teritorijų planavimo dokumentuose, žemės valdos projektuose ir (ar) statinių, kuriems išduoti statybą leidžiantys dokumentai, projektuose teritorijos, kuriose turi būti taikomos specialiosios žemės naudojimo sąlygos (ar tos pačios teritorijos pagal teisinį reguliavimą, galiojusį iki šio įstatymo įsigaliojimo dienos) nurodytos teritorijose, kuriose nesuformuoti žemės sklypai, specialiosios žemės naudojimo sąlygos šiose teritorijose taikomos nuo šio įstatymo įsigaliojimo dienos, iki šiame įstatyme nurodytos teritorijos bus pakeistos ir (ar) Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka patikslinti jų duomenys.
+15. Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojas, vadovaudamasis šiuo įstatymu, kitą dieną po jo įsigaliojimo dienos Vyriausybės įgaliotos institucijos nustatyta tvarka Nekilnojamojo turto kadastre ir Nekilnojamojo turto registre pakeičia įrašus apie žemės sklypams taikomas specialiąsias žemės naudojimo sąlygas. 
 
 
-
-
-16. Valstybės registruose, kadastruose ir (ar) valstybės informacinėse sistemose kaupiami duomenys apie teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, Vyriausybės įgaliotos institucijos nustatyta tvarka ir sąlygomis pateikiami Nekilnojamojo turto registro tvarkytojui iki 2022 m. birželio 30 d. Šios teritorijos nuo 2023 m. sausio 1 d. laikytinos Nekilnojamojo turto registro objektais.
-
-
-
-
-17. Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojas, vadovaudamasis šiuo įstatymu, kitą dieną po jo įsigaliojimo dienos Vyriausybės įgaliotos institucijos nustatyta tvarka Nekilnojamojo turto kadastre ir Nekilnojamojo turto registre pakeičia įrašus apie žemės sklypams taikomas specialiąsias žemės naudojimo sąlygas.
+Straipsnio pakeitimai:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
  
 
 
 
 
-
-
-142 straipsnis. Šio įstatymo II skyriaus antrojo skirsnio nauja redakcija 
-
-
-Pakeisti šio įstatymo II skyriaus antrąjį skirsnį ir jį išdėstyti taip:
+142 straipsnis. Neteko galios nuo 2024-01-01
+Straipsnio naikinimas:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
  
-
-
-
-
-„ANTRASIS SKIRSNIS
-ŠIAME ĮSTATYME NURODYTŲ TERITORIJŲ NUSTATYMAS, JŲ REGISTRAVIMAS IR IŠREGISTRAVIMAS, INFORMAVIMAS APIE ŠIAS TERITORIJAS, SPECIALIŲJŲ ŽEMĖS NAUDOJIMO SĄLYGŲ PAKEITIMAS, JŲ TAIKYMO PRADŽIA IR PABAIGA, KOMPENSACIJOS DĖL ŠIŲ SĄLYGŲ TAIKYMO
- 
-
-
-6 straipsnis. Šiame įstatyme nurodytų teritorijų nustatymo dokumentai
-
-
-1. Šiame įstatyme nurodytos teritorijos nustatomos viename iš šių dokumentų:
-
-
-1) patvirtintuose teritorijų planavimo dokumentuose ir (ar) žemės valdos projektuose;
-
-
-
-
-2) statinių projektuose, kai išduotas statybą leidžiantis dokumentas;
-
-
-
-
-3) poveikio visuomenės sveikatai vertinimo dokumentuose (atlikus poveikio visuomenės sveikatai vertinimo procedūras, kai poveikio aplinkai vertinimas neatliekamas);
-
-
-
-
-4) atitinkamos srities ministrų pagal jiems pavestas valdymo sritis nustatyta tvarka parengtuose ir suderintuose kilnojamųjų elektros energetikos objektų ir įrenginių, mažo ir vidutinio slėgio dujotiekių įrengimo projektuose, kilnojamųjų elektroninių ryšių tinklų įrengimo projektuose ir (ar) kituose suderintuose projektuose, kuriems įstatymų nustatytais atvejais statybą leidžiantys dokumentai neišduodami;
-
-
-
-
-5) poveikio aplinkai vertinimo dokumentuose;
-
-
-
-
-6) įstatymų, Lietuvos Respublikos Vyriausybės ar Vyriausybės įgaliotos institucijos nustatyta tvarka Vyriausybės, įstatymų ar Vyriausybės įgaliotos institucijos patvirtintuose planuose, žemėlapiuose ir (ar) schemose nerengiant teritorijų planavimo dokumento ar žemės valdos projekto, kai šiame įstatyme nurodytos teritorijos nustatomos tenkinant viešąjį interesą.
-
-
-
-
-
-
-2. Šiame įstatyme nurodytos teritorijos nustatomos šio straipsnio 1 dalies 4 ir 5 punktuose nurodytuose dokumentuose, kai įstatymų nustatytais atvejais ūkinei ir (ar) kitokiai veiklai vykdyti šio straipsnio 1 dalies 1, 2 ir 6 punktuose nurodyti dokumentai nerengiami ir poveikio visuomenės sveikatai vertinimo procedūros atliekamos poveikio aplinkai vertinimo metu.
- 
-
-
-
-
-
-
-7 straipsnis. Žemės savininko, valstybinės ar savivaldybės žemės patikėtinio rašytinis sutikimas dėl šiame įstatyme nurodytos teritorijos (teritorijų) nustatymo
-
-
-1. Šiame įstatyme nurodytos teritorijos nustatomos gavus į šias teritorijas patenkančio Nekilnojamojo turto registre įregistruoto žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio, o kai žemės sklypas nesuformuotas, – valstybinės žemės patikėtinio rašytinį sutikimą dėl šiame įstatyme nurodytos teritorijos (teritorijų) nustatymo (toliau – žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas), išskyrus šio straipsnio 3 dalyje nurodytus atvejus, kai šis sutikimas neprivalomas. Žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimą gauna asmuo (fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai) (toliau – asmuo), suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios turi būti nustatytos šiame įstatyme nurodytos teritorijos, vykdymu.
-
-
-
-
-2. Žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas laikytinas jo sutikimu dėl šiame įstatyme nurodytos teritorijos registravimo Nekilnojamojo turto registre. Jeigu šiame įstatyme nurodytai teritorijai nustatyti buvo gautas žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas ir šiame įstatyme nurodyta teritorija buvo nustatyta, šio įstatymo 6 straipsnio 1 dalyje nurodytuose dokumentuose naujai nustatomai šiame įstatyme nurodytai teritorijai, kurioje taikomos tos pačios specialiosios žemės naudojimo sąlygos, nustatyti naujas sutikimas nereikalingas, kai žemės sklypo ar valstybinės žemės dalis, patenkanti į nustatomą šiame įstatyme nurodytą teritoriją, sumažėja.
-
-
-
-
-3. Žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas, kai, tenkinant viešąjį interesą, šiame įstatyme nurodytos teritorijos nustatomos teritorijų planavimo dokumentuose ar žemės valdos projektuose arba šių teritorijų planus, žemėlapius ir (ar) schemas įstatymų, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka patvirtina Vyriausybė, įstatymų ar Vyriausybės įgaliota institucija nerengiant teritorijų planavimo dokumento ar žemės valdos projekto šiais atvejais:
-
-
-1) valstybei svarbiems projektams įgyvendinti;
-
-
-
-
-2) krašto apsaugai ir Lietuvos Respublikos valstybės sienos apsaugai;
-
-
-
-
-3) Lietuvos Respublikos valstybės saugumo departamento ir Lietuvos Respublikos vadovybės apsaugos tarnybos saugomiems objektams; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2921, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10923
- 
-
-
-
-
-4) valstybinių aerodromų apsaugos zonoms ir triukšmo apsauginėms zonoms;
-
-
-
-
-5) Klaipėdos valstybinio jūrų uosto rezervinėms teritorijoms;
-
-
-
-
-6) branduolinės energetikos objektams, magistraliniams dujotiekiams ir naftotiekiams (produktotiekiams), elektros energijos perdavimo tinklams, viešajai geležinkelių infrastruktūrai, valstybei ar savivaldybei priklausantiems keliams; savivaldybėms ir (ar) viešojo geriamojo vandens tiekėjui ir nuotekų tvarkytojui nuosavybės teise priklausančiai ar kitaip valdomai arba naudojamai geriamojo vandens tiekimo ir nuotekų tvarkymo infrastruktūrai ir požeminio vandens vandenvietėms;
-
-
-
-
-7) natūralių pievų ir ganyklų, pajūrio juostos, paviršinių vandens telkinių ir jų apsaugos zonų bei juostų, pelkių ir šaltinynų apsaugai;
-
-
-
-
-8) potvynių grėsmės teritorijoms, Šiaurės Lietuvos karstiniam regionui;
-
-
-
-
-9) kapinėms įrengti ir (ar) praplėsti;
-
-
-
-
-10) saugomų teritorijų, gamtos ir kultūros paveldo objektų ir jų teritorijų, kultūros paveldo vietovių apsaugai;
-
-
-
-
-11) meteorologijos stočių, vandens matavimo stočių, meteorologinių radiolokatorių apsaugai;
-
-
-
-
-12) nuolatinių užkrečiamųjų ligų židinių apsaugai.
-
-
-
-
-
-
-4. Žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikime dėl šiame įstatyme nurodytos teritorijos (teritorijų) nustatymo turi būti aptarta:
-
-
-1) šios teritorijos (teritorijų) dydis;
-
-
-
-
-2) nuostolių, patiriamų dėl specialiųjų žemės naudojimo sąlygų taikymo nustatytose šiame įstatyme nurodytose teritorijose, atlyginimas. Nuostolių dydis nustatomas šalių susitarimu, išskyrus šio straipsnio 5 dalyje nurodytus atvejus. Šio straipsnio 3 dalyje nurodytais atvejais, kai žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas, nors ir nėra privalomas, tačiau yra gaunamas, jame nurodoma, kad nuostolių dydis apskaičiuojamas ir šie nuostoliai atlyginami šio įstatymo 13 straipsnio 1 dalyje nurodyta tvarka vadovaujantis šio įstatymo 13 straipsnio 4 dalimi;
-
-
-
-
-3) informavimo apie pradedamas taikyti šias specialiąsias žemės naudojimo sąlygas, jų taikymo pabaigą tvarka.
-
-
-
-
-
-
-5. Šio straipsnio 1 dalyje nurodytas valstybinės žemės patikėtinio sutikimas duodamas Vyriausybės nustatyta tvarka, savivaldybės žemės patikėtinio – savivaldybės tarybos nustatyta tvarka. Kai dėl teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymo buvo gautas valstybinės žemės patikėtinio sutikimas, jo patiriamų nuostolių dydis apskaičiuojamas ir šie nuostoliai atlyginami šio įstatymo 13 straipsnio 1 dalyje nurodyta tvarka vadovaujantis šio įstatymo 13 straipsnio 4 dalimi. Kai dėl teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymo buvo gautas savivaldybės žemės patikėtinio sutikimas, jo patiriamų nuostolių dydis apskaičiuojamas ir šie nuostoliai atlyginami savivaldybės tarybos nustatyta tvarka vadovaujantis šio įstatymo 13 straipsnio 4 dalimi. Kai šio straipsnio 4 dalies 2 punkte nurodyti nuostoliai mokėtini iš valstybės valdomų juridinių asmenų lėšų, šių nuostolių dydis apskaičiuojamas pagal kituose (pagal atitinkamas reguliavimo sritis) įstatymuose nurodytas Vyriausybės patvirtintas kompensacijų nuostoliams atlyginti apskaičiavimo metodikas. Kai šio straipsnio 4 dalies 2 punkte nurodyti nuostoliai mokėtini iš savivaldybės valdomų juridinių asmenų lėšų, šių nuostolių dydis apskaičiuojamas pagal savivaldybės tarybos patvirtintas kompensacijų nuostoliams atlyginti apskaičiavimo metodikas.
-
-
-
-
-6. Šio straipsnio 4 dalies 2 punkte nurodyti nuostoliai, patiriami dėl specialiųjų žemės naudojimo sąlygų taikymo naujai nustatytoje šiame įstatyme nurodytoje teritorijoje (jos dalyje), žemės savininkui neatlyginami, kai:
-
-
-1) šiame įstatyme nurodyta teritorija nustatoma tik dėl šio žemės savininko naudai vykdomos veiklos;
-
-
-
-
-2) dėl tų pačių ar skirtingų apribojimų taikymo atsiradę tokie patys nuostoliai buvo atlyginti, jeigu naujai nustatyta šiame įstatyme nurodyta teritorija (jos dalis) ir teritorija (jos dalis), dėl kurios nustatymo atsiradę šie nuostoliai buvo atlyginti, sutampa.
-
-
-
-
-
-
-7. Žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas (išskyrus šio straipsnio 3 dalyje nurodytus atvejus) turi būti gautas:
-
-
-1) iki teritorijų planavimo dokumento ar žemės valdos projekto patvirtinimo;
-
-
-
-
-2) iki statybą leidžiančio dokumento išdavimo;
-
-
-
-
-3) iki sveikatos apsaugos ministro įgaliotos institucijos sprendimo pritarti planuojamai ūkinei veiklai priėmimo (kai atliekamos poveikio visuomenės sveikatai vertinimo procedūros neatliekant poveikio aplinkai vertinimo);
-
-
-
-
-4) iki kilnojamųjų elektros energetikos objektų ir įrenginių, mažo ir vidutinio slėgio dujotiekių įrengimo projektų, kilnojamųjų elektroninių ryšių tinklų įrengimo projektų ir (ar) kitų projektų, kuriems įstatymų nustatytais atvejais statybą leidžiantys dokumentai neišduodami, suderinimo su suinteresuotomis institucijomis ir (ar) asmenimis dienos;
-
-
-
-
-5) per 30 darbo dienų po sprendimo pritarti planuojamai ūkinei veiklai priėmimo (kai atliekamos poveikio aplinkai vertinimo procedūros).
-
-
-
-
-
-
-8. Jeigu ūkinei ir (ar) kitokiai veiklai vykdyti rengiami keli šio straipsnio 7 dalies 1–4 punktuose nurodyti dokumentai, žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas turi būti gautas iki pirmojo dokumento, kuriame nustatomos šiame įstatyme nurodytos teritorijos, patvirtinimo (išdavimo) ar šio straipsnio 7 dalies 3 punkte nurodyto sprendimo priėmimo.
- 
-
-
-
-
-
-
-8 straipsnis. Nustatytų šiame įstatyme nurodytų teritorijų registravimas Nekilnojamojo turto registre
-
-
-1. Šiame įstatyme nurodytų teritorijų įregistravimo Nekilnojamojo turto registre teisiniai pagrindai – dokumentai, įrodantys šio įstatymo 6 straipsnio 1 dalyje nurodytų dokumentų, kuriais šios teritorijos nustatomos, patvirtinimą:
-
-
-1) teritorijų planavimo dokumento ar žemės valdos projekto patvirtinimo dokumentas;
-
-
-
-
-2) statybą leidžiantis dokumentas;
-
-
-
-
-3) sveikatos apsaugos ministro įgaliotų institucijų sprendimas pritarti planuojamai ūkinei veiklai (atlikus poveikio visuomenės sveikatai vertinimo procedūras, kai poveikio aplinkai vertinimas neatliekamas);
-
-
-
-
-4) suderintas kilnojamųjų elektros energetikos objektų ir įrenginių, mažo ir vidutinio slėgio dujotiekių įrengimo projektas, kilnojamųjų elektroninių ryšių tinklų įrengimo projektas ir (ar) kitas projektas, kuriam įstatymų nustatytais atvejais statybą leidžiantys dokumentai neišduodami;
-
-
-
-
-5) į šiame įstatyme nurodytas teritorijas patenkančios žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas, kai poveikio visuomenės sveikatai vertinimo procedūros atliekamos poveikio aplinkai vertinimo metu;
-
-
-
-
-6) dokumentas, kuriuo Vyriausybė, įstatymų ar Vyriausybės įgaliotos institucijos nustatyta tvarka patvirtina planus, žemėlapius ir (ar) schemas.
-
-
-
-
-
-
-2. Duomenys apie šiame įstatyme nurodytas teritorijas privalo būti naudojami rengiant teritorijų planavimo dokumentus, žemės valdos projektus, statybų ir (ar) kitokios veiklos projektus ar vykdant bet kokią kitą veiklą.
-
-
-
-
-3. Šiame įstatyme nurodytų teritorijų erdvinių duomenų paieškos ir peržiūros paslaugos per Lietuvos erdvinės informacijos portalą Geodezijos ir kartografijos įstatymo nustatyta tvarka naudotojams teikiamos neatlygintinai.
- 
-
-
-
-
-
-
-9 straipsnis. Prašymas įregistruoti nustatytas šiame įstatyme nurodytas teritorijas
-
-
-1. Prašymas įregistruoti nustatytas šiame įstatyme nurodytas teritorijas (toliau – prašymas) pateikiamas Nekilnojamojo turto registro tvarkytojui  arba įregistruoti reikalingi duomenys apie šias teritorijas perduodami automatiniu būdu elektroninėmis priemonėmis Nekilnojamojo turto registro nuostatuose nustatyta tvarka ir sąlygomis.
-
-
-
-
-2. Prašymą (išskyrus šio straipsnio 3 dalyje nurodytus atvejus) pateikia asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatorius (kai tokio nėra, – žemės sklypo savininkas ar valstybinės ar savivaldybės žemės patikėtinis).
-
-
-
-
-3. Šio įstatymo 7 straipsnio 3 dalyje nurodytais atvejais, kai šiame įstatyme nurodytos teritorijos nustatytos tenkinant viešąjį interesą, prašymą pateikia asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, o kai tokio nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatorius arba, kai šiame įstatyme nurodytų teritorijų planus, žemėlapius ir (ar) schemas tvirtina Vyriausybė, įstatymų ar Vyriausybės įgaliota institucija, – įstatymų ar ministro (pagal pavestas valdymo sritis) įgaliota institucija.
-
-
-
-
-4. Prašymas pateikiamas, kai šiame įstatyme nurodytos teritorijos nustatomos:
-
-
-1) teritorijų planavimo dokumente ar žemės valdos projekte, – per 5 darbo dienas nuo teritorijų planavimo dokumento įsigaliojimo dienos ar žemės valdos projekto patvirtinimo dienos;
-
-
-
-
-2) statinių projektuose, – per 5 darbo dienas nuo statybą leidžiančio dokumento išdavimo dienos;
-
-
-
-
-3) šio įstatymo 6 straipsnio 1 dalies 3 punkte nurodytuose dokumentuose, – per 5 darbo dienas nuo sprendimo pritarti planuojamai ūkinei veiklai priėmimo dienos;
-
-
-
-
-4) šio įstatymo 6 straipsnio 1 dalies 4 punkte nurodytuose dokumentuose, – per 5 darbo dienas nuo šių dokumentų suderinimo su suinteresuotomis institucijomis ir (ar) asmenimis dienos;
-
-
-
-
-5) poveikio aplinkai vertinimo dokumentuose, – per 35 darbo dienas nuo sprendimo pritarti planuojamai ūkinei veiklai priėmimo dienos;
-
-
-
-
-6) šio įstatymo 7 straipsnio 3 dalyje nurodytais atvejais, kai šių teritorijų planus, žemėlapius ir (ar) schemas tvirtina Vyriausybė, įstatymų ar Vyriausybės įgaliota institucija nerengiant teritorijų planavimo dokumento ar žemės valdos projekto, – per 5 darbo dienas nuo šių planų, žemėlapių ir (ar) schemų patvirtinimo dienos.
- 
-
-
-
-
-
-
-
-
-10 straipsnis. Specialiųjų žemės naudojimo sąlygų taikymas
-
-
-Specialiosios žemės naudojimo sąlygos taikomos nuo nustatytų šiame įstatyme nurodytų teritorijų įregistravimo Nekilnojamojo turto registre dienos.
- 
-
-
-
-
-
-
-11 straipsnis. Informavimas apie šiame įstatyme nurodytas teritorijas, nustatomas ir (ar) nustatytas tenkinant viešąjį interesą
-
-
-1. Kai šiame įstatyme nurodytų teritorijų planus, žemėlapius ir (ar) schemas tenkinant viešąjį interesą tvirtina Vyriausybė, įstatymų ar Vyriausybės įgaliota institucija nerengiant teritorijų planavimo dokumento ar žemės valdos projekto, informacija apie priimtą sprendimą nustatyti šiame įstatyme nurodytas teritorijas, likus ne mažiau kaip 20 darbo dienų iki planuojamo sprendimo ar kito dokumento dėl šių teritorijų planų, žemėlapių ir (ar) schemų patvirtinimo priėmimo dienos, turi būti paskelbta savivaldybės ir Vyriausybės, įstatymų ar Vyriausybės įgaliotos institucijos interneto svetainėje. Sprendimo ar kito dokumento dėl šių teritorijų planų, žemėlapių ir (ar) schemų patvirtinimo projektas ar nuoroda, kur galima susipažinti su šiuo projektu, likus ne mažiau kaip 10 darbo dienų iki sprendimo ar kito dokumento priėmimo dienos, turi būti paskelbtas viename iš nacionalinių ir viename iš vietinių laikraščių, jeigu toks leidžiamas numatomos nustatyti teritorijos vietoje, savivaldybės ir Vyriausybės, įstatymų ar Vyriausybės įgaliotos institucijos interneto svetainėje nurodant nustatomas teritorijas ir jose taikytinas specialiąsias žemės naudojimo sąlygas (išskyrus atvejus, kai šio sprendimo ar kito dokumento negalima skelbti dėl valstybės ar tarnybos paslaptį sudarančios informacijos).
-
-
-
-
-2. Kai šiame įstatyme nurodytos teritorijos nustatytos tenkinant viešąjį interesą, asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šios teritorijos, vykdymu, o kai tokio nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatorius arba įstatymų ar ministro (pagal pavestas valdymo sritis) įgaliota institucija per 15 darbo dienų nuo teritorijų planavimo dokumento ar žemės valdos projekto įsigaliojimo dienos raštu (siunčiant paštu, kai šiame įstatyme nurodytos teritorijos nustatomos teritorijų planavimo dokumentu ar žemės valdos projektu) arba per 15 darbo dienų nuo planų, žemėlapių ir (ar) schemų patvirtinimo dienos registruotu laišku, įteikiamu pasirašytinai (kai šių teritorijų planus, žemėlapius ir (ar) schemas tvirtina Vyriausybė, įstatymų ar Vyriausybės įgaliota institucija), praneša žemės sklypo, kuriame numatoma taikyti specialiąsias žemės naudojimo sąlygas, savininkui, valstybinės ar savivaldybės žemės patikėtiniui, taip pat fiziniam ar juridiniam asmeniui arba kitai organizacijai ar jų padaliniams, naudojantiems žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) šioje nustatytoje teritorijoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkams ar patikėtiniams jų deklaruotos gyvenamosios vietos ar buveinės adresu, nurodydamas konkrečias nustatytas šiame įstatyme nurodytas teritorijas ir jose taikytinas specialiąsias žemės naudojimo sąlygas (arba pateikia nuorodą, kur su jomis galima susipažinti) ir sprendimą, kuriuo buvo patvirtintas teritorijų planavimo dokumentas ar žemės valdos projektas, arba sprendimą ar kitą dokumentą, kuriuo buvo patvirtintas atitinkamos teritorijos planas, žemėlapis ir (ar) schema. Tuo pačiu raštu informuojama apie teisę kreiptis į konkretų subjektą (nurodant jo pavadinimą, juridinio asmens arba kitos organizacijos ar jų padalinių kodą, buveinę, kontaktinius duomenis arba fizinio asmens vardą, pavardę, deklaruotą gyvenamąją vietą, kontaktinius duomenis) dėl šio įstatymo 13 straipsnio 1 dalyje nurodytos kompensacijos sumokėjimo. Jeigu į šioje dalyje nurodytas teritorijas patenka gyvenamosios paskirties daugiabutis pastatas, apie šias nustatytas teritorijas ir jose taikytinas specialiąsias žemės naudojimo sąlygas atitinkamai raštu ar registruotu laišku, įteikiamu pasirašytinai, informuojama šio pastato savininkų bendrija ar kitas bendrojo naudojimo objektų valdytojas, kuris apie tai per 15 darbo dienų nuo šio raštu ar registruotu laišku gauto pranešimo gavimo dienos raštu praneša butų ir kitų patalpų savininkams. Šioje dalyje nenurodytus valstybinės arba savivaldybės žemės naudotojus apie konkrečias šiame įstatyme nurodytas teritorijas, nustatytas tenkinant viešąjį interesą, jose taikytinas specialiąsias žemės naudojimo sąlygas ir teisę kreiptis į konkretų subjektą dėl kompensacijos sumokėjimo atitinkamai šiame straipsnyje nurodyta tvarka informuoja valstybinės ar savivaldybės žemės patikėtinis per 20 darbo dienų nuo pranešimo gavimo dienos.
-
-
-
-
-3. Jeigu registruoto laiško (kai šiame įstatyme nurodytų teritorijų planus, žemėlapius ir (ar) schemas tvirtina Vyriausybė, įstatymų ar Vyriausybės įgaliota institucija) nepavyksta įteikti, per 15 darbo dienų nuo šio laiško grąžinimo dienos informacija apie nustatytas šiame įstatyme nurodytas teritorijas, jose taikytinas specialiąsias žemės naudojimo sąlygas ir konkretų subjektą, į kurį galėtų būti kreipiamasi dėl šio įstatymo 13 straipsnio 1 dalyje nurodytų kompensacijų sumokėjimo, viešai paskelbiama Vyriausybės, įstatymų ar Vyriausybės įgaliotos institucijos interneto svetainėje, viename iš nacionalinių ir viename iš vietinių laikraščių, jeigu toks leidžiamas šios nustatytos teritorijos vietoje. Skelbiamoje informacijoje nurodoma: sprendimas ar kitas dokumentas, kuriuo buvo patvirtintas atitinkamos teritorijos planas, žemėlapis ir (ar) schema; žemės sklypo, kuriame numatoma taikyti šias specialiąsias žemės naudojimo sąlygas, unikalus numeris; adresas (savivaldybė, gyvenamoji vietovė, gatvė, numeris); specialiosios žemės naudojimo sąlygos, taikytinos nustatytoje šiame įstatyme nurodytoje teritorijoje, arba nuoroda, kur su jomis galima susipažinti; konkretaus subjekto, į kurį galėtų būti kreipiamasi dėl šio įstatymo 13 straipsnio 1 dalyje nurodytų kompensacijų sumokėjimo, pavadinimas, juridinio asmens arba kitos organizacijos ar jų padalinių kodas, buveinė, kontaktiniai duomenys arba fizinio asmens vardas, pavardė, deklaruota gyvenamoji vieta, kontaktiniai duomenys. Kai ši informacija viešai paskelbiama viename iš nacionalinių ir viename iš vietinių laikraščių, kai toks leidžiamas nustatytos šiame įstatyme nurodytos teritorijos vietoje, yra laikoma, kad žemės savininkui, valstybinės ar savivaldybės žemės patikėtiniui, taip pat fiziniam ar juridiniam asmeniui arba kitai organizacijai ar jų padaliniams, naudojantiems žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) Nekilnojamojo turto registre įregistruoto nekilnojamojo daikto savininkui ar patikėtiniui apie šiame įstatyme nurodytas teritorijas, nustatytas tenkinant viešąjį interesą, ir jose taikytinas specialiąsias žemės naudojimo sąlygas, o šio įstatymo 13 straipsnio 2 dalyje nurodytiems fiziniams ar juridiniams asmenims arba kitoms organizacijoms ar jų padaliniams – apie teisę gauti šio įstatymo 13 straipsnio 1 dalyje nurodytas kompensacijas pranešta skelbimo išspausdinimo viename iš nacionalinių laikraščių dieną.
-
-
-
-
-4. Jeigu nežinoma žemės sklypo savininko, fizinio asmens, naudojančio žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) nustatytoje šiame įstatyme nurodytoje teritorijoje esančio Nekilnojamojo turto registre įregistruoto nekilnojamojo daikto savininko ar patikėtinio gyvenamoji vieta, informacija apie šiame įstatyme nurodytas teritorijas, nustatytas tenkinant viešąjį interesą, ir jose taikytinas specialiąsias žemės naudojimo sąlygas žemės sklypui (jo daliai) paskelbiama šio straipsnio 3 dalyje nustatyta tvarka. Kai atitinkamų fizinių asmenų gyvenamoji vieta nežinoma, informacija apie teritorijas, nustatytas tenkinant viešąjį interesą, ir jose taikytinas specialiąsias sąlygas siunčiama į paskutinę žinomą tokio asmens gyvenamąją vietą.
-
-
-
-
-5. Kai šiame įstatyme nurodyta teritorija buvo nustatyta tenkinant viešąjį interesą, informacija apie šio įstatymo 6 straipsnio 1 dalyje nurodytuose dokumentuose nustatomą mažesnio, negu anksčiau nustatyta, dydžio tą pačią šiame įstatyme nurodytą teritoriją viešai paskelbiama šio straipsnio 3 dalyje nustatyta tvarka. Jeigu žemės sklypai nebepatenka į nustatytą sumažėjusią tą pačią šiame įstatyme nurodytą teritoriją (arba jų dalis, patenkanti į šią teritoriją, pasikeičia), šių žemės sklypų savininkai, valstybinės ar savivaldybės žemės patikėtiniai, taip pat fiziniai ar juridiniai asmenys arba kitos organizacijos ar jų padaliniai, naudojantys žemę pagal Nekilnojamojo turto registre įregistruotą sutartį, ir (ar) šioje nustatytoje teritorijoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkai ar patikėtiniai apie tai informuojami šio straipsnio 2, 3 ir 4 dalyse nustatyta tvarka. Kai atitinkamų fizinių asmenų gyvenamoji vieta nežinoma, informacija apie teritorijas, nustatytas tenkinant viešąjį interesą, ir jose taikytinas specialiąsias sąlygas siunčiama į paskutinę žinomą tokio asmens gyvenamąją vietą.
- 
-
-
-
-
-
-
-12 straipsnis. Šiame įstatyme nurodytų teritorijų išregistravimas iš Nekilnojamojo turto registro. Specialiųjų žemės naudojimo sąlygų, taikomų nustatytoje šiame įstatyme nurodytoje teritorijoje, pakeitimas, šių sąlygų taikymo pabaiga
-
-
-1. Kai pripažįstamos netekusiomis galios visos šiame įstatyme nurodytoje teritorijoje nustatytos specialiosios žemės naudojimo sąlygos, Nekilnojamojo turto registro tvarkytojas šio įstatymo pakeitimo įstatymo, kuriuo pripažįstamos netekusiomis galios visos šiame įstatyme nurodytoje teritorijoje nustatytos specialiosios žemės naudojimo sąlygos, įsigaliojimo dieną išregistruoja šiame įstatyme nurodytą teritoriją, kurioje nustatytos visos specialiosios žemės naudojimo sąlygos buvo pripažintos netekusiomis galios. Specialiosios žemės naudojimo sąlygos netaikomos nuo šio įstatymo pakeitimo įstatymo, kurio pagrindu pripažįstamos netekusiomis galios visos šiame įstatyme nurodytoje teritorijoje nustatytos šios specialiosios žemės naudojimo sąlygos, įsigaliojimo dienos.
-
-
-
-
-2. Kai pripažįstamos netekusiomis galios dalis šiame įstatyme nurodytoje teritorijoje nustatytų specialiųjų žemės naudojimo sąlygų arba jos pakeičiamos, Nekilnojamojo turto registro tvarkytojas šio įstatymo pakeitimo įstatymo, kuriuo pripažįstamos netekusiomis galios dalis šiame įstatyme nurodytoje teritorijoje nustatytų specialiųjų žemės naudojimo sąlygų arba jos pakeičiamos, įsigaliojimo dieną atitinkamai patikslina informaciją Nekilnojamojo turto registre apie šiame įstatyme nurodytoje teritorijoje taikomas specialiąsias žemės naudojimo sąlygas. Pripažintos netekusiomis galios specialiosios žemės naudojimo sąlygos netaikomos nuo šio įstatymo pakeitimo įstatymo, kurio pagrindu jos pripažįstamos netekusiomis galios šiame įstatyme nurodytoje teritorijoje, įsigaliojimo dienos. Pakeistos specialiosios žemės naudojimo sąlygos galioja nuo šio įstatymo pakeitimo įstatymo, kurio pagrindu jos pakeičiamos šiame įstatyme nurodytoje teritorijoje, įsigaliojimo dienos.
-
-
-
-
-3. Kai nelieka objekto (objekto, kuriame vykdoma ir (ar) planuojama vykdyti ūkinė ir (ar) kitokia veikla, statinio ir (ar) įrenginio, arba kito šiame įstatyme nurodyto objekto ar veiklos), dėl kurio buvo nustatyta šiame įstatyme nurodyta teritorija, Nekilnojamojo turto registro tvarkytojas šio objekto savininko ar valdytojo arba žemės sklypo, patenkančio į nustatytą pasikeitusią ir (ar) panaikintą teritoriją, savininko, valstybinės ar savivaldybės žemės patikėtinio (pateikus šio objekto savininko ar valdytojo, jeigu toks yra, rašytinį sutikimą) prašymu kartu su Nekilnojamojo turto registro nuostatuose nurodytais dokumentais šiuose nuostatuose nustatyta tvarka ir sąlygomis išregistruoja šią teritoriją; tokiu atveju specialiosios žemės naudojimo sąlygos netaikomos nuo jų išregistravimo dienos.
-
-
-
-
-4. Kai nustatyta šiame įstatyme nurodyta teritorija panaikinama teismo sprendimu, šio sprendimo pagrindu Nekilnojamojo turto registro tvarkytojas per 5 darbo dienas nuo įsiteisėjusio teismo sprendimo gavimo dienos išregistruoja panaikintą šiame įstatyme nurodytą teritoriją.
- 
-
-
-
-
-
-
-13 straipsnis. Kompensacijos dėl specialiųjų žemės naudojimo sąlygų taikymo nustatytose šiame įstatyme nurodytose teritorijose
-
-
-1. Kompensacijos dėl specialiųjų žemės naudojimo sąlygų taikymo šiame įstatyme nurodytose teritorijose, nustatytose tenkinant viešąjį interesą, kai žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas neprivalomas (toliau – kompensacijos), apskaičiuojamos ir išmokamos Vyriausybės nustatyta tvarka vadovaujantis šio straipsnio 4 dalimi. Kompensacijos išmokamos vieną kartą arba mokamos kiekvienais metais ne ilgiau kaip 3 metus, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip.
-
-
-
-
-2. Kompensacijas turi teisę gauti žemės sklypo ar teritorijos, kurioje nesuformuoti žemės sklypai, patenkančių į nustatytas šiame įstatyme nurodytas teritorijas, savininkas, valstybinės ar savivaldybės žemės patikėtinis, taip pat asmuo, kurio teisė į žemės sklypą įregistruota Nekilnojamojo turto registre ir (ar) nustatytoje šiame įstatyme nurodytoje teritorijoje esančių Nekilnojamojo turto registre įregistruotų nekilnojamųjų daiktų savininkai pagal kiekvieno jų atskirai patiriamų nuostolių dydį.
-
-
-
-
-3. Asmuo, turintis teisę į kompensaciją (ar šio asmens teisių ir pareigų perėmėjas), Vyriausybės nustatyta tvarka dėl jos kreipiasi į asmenį, suinteresuotą ūkinės ir (ar) kitokios veiklos, dėl kurios tenkinant viešąjį interesą nustatyta šiame įstatyme nurodyta teritorija, vykdymu, ar į šio asmens teisių ir pareigų perėmėją, o kai tokio nėra, – į instituciją, nustačiusią šią teritoriją.
-
-
-
-
-4. Kompensacijos dydis apskaičiuojamas Vyriausybės nustatyta tvarka įvertinus žemės sklype ar teritorijoje, kurioje nesuformuoti žemės sklypai, patenkančiuose į nustatytas šiame įstatyme nurodytas teritorijas, taikomų specialiųjų žemės naudojimo sąlygų visumą: nuostolius, patiriamus dėl vykdomos veiklos, suplanuotos veiklos (kai buvo pradėtos vykdyti procedūros, reikalingos šiai veiklai) ir (ar) galimybės valdyti, naudoti ir (ar) disponuoti Nekilnojamojo turto registre įregistruotu nekilnojamuoju daiktu sumažėjimo, galimybės naudoti žemės sklypą pagal pagrindinę žemės naudojimo paskirtį, žemės sklypo naudojimo būdą (būdus) praradimo, kitus nuostolius. Kai viena ar abi šalys nesutinka su apskaičiuotu kompensacijos dydžiu ir (ar) kai dėl specialiųjų žemės naudojimo sąlygų taikymo turi būti kompensuojama valstybinės žemės patikėtiniui teritorijose, kuriose nesuformuoti žemės sklypai, nuostolių dydis apskaičiuojamas taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto ir (ar) verslo vertinimą (turto vertinimo metodas parenkamas atsižvelgiant į Vyriausybės nustatytus kriterijus), kurį užsako ir už vertinimo darbus sumoka šiuo vertinimu suinteresuota šalis. Tais atvejais, kai kompensacijos apskaičiuojamos teritorijose, kuriose nesuformuoti žemės sklypai, individualų turto ir (ar) verslo vertinimą užsako ir už vertinimo darbus sumoka asmuo, suinteresuotas ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos šiame įstatyme nurodytos teritorijos, vykdymu, ar šio asmens teisių ir pareigų perėmėjas, o kai tokio nėra, – institucija, nustačiusi šią teritoriją.
-
-
-
-
-5. Kompensacijos nemokamos, kai:
-
-
-1) dėl tų pačių ar skirtingų apribojimų taikymo buvo atlyginta, jeigu teritorija (jos dalis), dėl kurios nustatymo atsiradusių apribojimų taikymo buvo atlyginta, sutampa su naujai nustatyta šiame įstatyme nurodyta teritorija (jos dalimi);
-
-
-
-
-2) kitais įstatymų nustatytais atvejais.“
- 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -8976,25 +8539,49 @@ Gamybinių objektų sanitarinės apsaugos zonų dydIS
  1. 
  Žalios naftos gavyba 
  06.10 
- 1 000 
+ 1 000 
 
 
  2. 
  Gamtinių dujų gavyba 
  06.20 
- 1 000 
+ 1 000 
 
 
  3. 
  Mėsos perdirbimas, konservavimas ir mėsos produktų gamyba:  
- 10.1   
-     
+ 10.1 
+   
 
 
- 3.1.     3.2.       3.3.     3.4.     3.5. 
- objektai, turintys skerdyklas, skerdyklos, kurių gamybos pajėgumas – 5 ir daugiau tonų šviežios mėsos ir (ar) mėsos produktų per parą; objektai, turintys skerdyklas, skerdyklos, kurių gamybos pajėgumas – iki 5 tonų šviežios mėsos ir (ar) mėsos produktų per parą, išskyrus šios lentelės 3.3 papunktyje nurodytus objektus; objektai, turintys skerdyklas, skerdyklos, kurių gamybos pajėgumas – iki 3 tonų šviežios mėsos ir (ar) 0,7 tonos mėsos produktų per savaitę; objektai, neturintys skerdyklų, kurių gamybos pajėgumas – 5 ir daugiau tonų mėsos ir (ar) mėsos produktų per parą; objektai, neturintys skerdyklų, kurių gamybos pajėgumas – iki 5 tonų mėsos ir (ar) mėsos produktų per parą 
-                     
- 200     100       50     100     50 
+ 3.1. 
+ objektai, turintys skerdyklas, skerdyklos, kurių gamybos pajėgumas – 5 ir daugiau tonų šviežios mėsos ir (ar) mėsos produktų per parą; 
+   
+ 200 
+
+
+ 3.2. 
+ objektai, turintys skerdyklas, skerdyklos, kurių gamybos pajėgumas – iki 5 tonų šviežios mėsos ir (ar) mėsos produktų per parą, išskyrus šios lentelės 3.3 papunktyje nurodytus objektus;  
+   
+ 100 
+
+
+ 3.3. 
+ objektai, turintys skerdyklas, skerdyklos, kurių gamybos pajėgumas – iki 3 tonų šviežios mėsos ir (ar) 0,7 tonos mėsos produktų per savaitę; 
+   
+ 50 
+
+
+ 3.4. 
+ objektai, neturintys skerdyklų, kurių gamybos pajėgumas – 5 ir daugiau tonų mėsos ir (ar) mėsos produktų per parą; 
+   
+ 100 
+
+
+ 3.5. 
+ objektai, neturintys skerdyklų, kurių gamybos pajėgumas – iki 5 tonų mėsos ir (ar) mėsos produktų per parą 
+   
+ 50 
 
 
  4. 
@@ -9003,28 +8590,40 @@ Gamybinių objektų sanitarinės apsaugos zonų dydIS
    
 
 
- 4.1.   4.2.     4.3. 
- objektai, kurių gamybos pajėgumas – 5 ir daugiau tonų žuvies per parą; objektai, kurių gamybos pajėgumas – iki 5 tonų žuvies per parą, išskyrus šios lentelės 4.3 papunktyje nurodytus atvejus; objektai, kurių pajėgumas – 50 ir mažiau kilogramų žuvies per parą, kai gamyba vykdoma savivaldybės tarybos nustatyta tvarka 
+ 4.1.  
+ objektai, kurių gamybos pajėgumas – 5 ir daugiau tonų žuvų per parą; 
    
- 100   50     0 
+ 100 
+
+
+ 4.2. 
+ objektai, kurių gamybos pajėgumas – iki 5 tonų žuvų per parą, išskyrus šios lentelės 4.3 papunktyje nurodytus atvejus; 
+   
+ 50 
+
+
+ 4.3. 
+ objektai, kurių pajėgumas – 50 ir mažiau kilogramų žuvų per parą, kai gamyba vykdoma savivaldybės tarybos nustatyta tvarka 
+   
+ 0 
 
 
  5. 
  Gyvūninių ir augalinių riebalų bei aliejaus gamyba, kai gamybos pajėgumas – 5 ir daugiau tonų per parą 
- 10.4   
- 100   
+ 10.4 
+ 100 
 
 
  6. 
  Grūdų malimo produktų gamyba, kai gamybos  pajėgumas – 5 ir daugiau tonų per parą 
- 10.61   
- 100   
+ 10.61 
+ 100 
 
 
  7. 
  Krakmolo ir krakmolo produktų gamyba, kai gamybos pajėgumas – 5 ir daugiau tonų per parą 
- 10.62   
- 100   
+ 10.62 
+ 100 
 
 
  8. 
@@ -9042,452 +8641,238 @@ Gamybinių objektų sanitarinės apsaugos zonų dydIS
  9.1. 
  paruoštų pašarų gyvuliams gamyba, išskyrus šios lentelės 9.2 papunktyje nurodytus objektus; 
    
- 100   
+ 100 
 
 
  9.2. 
- skerdyklų atliekų perdirbimas gyvūnų pašarui gaminti   
+ skerdyklų atliekų perdirbimas gyvūnų pašarui gaminti 
    
  500 
 
 
  10. 
- Tekstilės pluoštų paruošimas ir verpimas: 
- 13.10 
-   
-
-
- 10.1. 
- tekstilės pluoštų paruošimas ir verpimas, išskyrus šios lentelės 10.2 papunktyje nurodytus objektus; 
-   
- 100   
-
-
- 10.2. 
- linų pirminio apdirbimo įmonės, kuriose mirkomi linai 
-   
+ Odų rauginimas ir išdirbimas, kailių išdirbimas ir dažymas, kai gamybos pajėgumas – 500 m2 ir daugiau per parą  
+ 15.11 
  300 
 
 
  11. 
- Tekstilės apdaila, kai gamybos pajėgumas – 200 000 m2 ir daugiau per metus 
- 13.30   
- 100   
+ Medienos pjaustymas ir obliavimas, kai gamybos pajėgumas – 5 000 m2 (ar 50 m3) ir daugiau per parą 
+ 16.1 
+ 100 
 
 
  12. 
- Virvių, lynų, virvelių ir tinklų gamyba (tik guma ir (ar) plastikais įmirkytų, dengtų, apvilktų, aptrauktų virvių, lynų, virvelių ir tinklų gamyba) 
- 13.94     
- 100     
-
-
- 13. 
- Kitų techninės ir pramoninės tekstilės gaminių ir dirbinių gamyba (tik guma ir (ar) plastikais įmirkytų, dengtų, apvilktų, aptrauktų, laminuotų gaminių gamyba) 
- 13.96       
- 100       
-
-
- 14. 
- Odų rauginimas ir išdirbimas, kailių išdirbimas ir dažymas, kai gamybos pajėgumas – 500 m2 ir daugiau per parą  
- 15.11     
- 300     
-
-
- 15. 
- Avalynės gamyba, kai gamybos pajėgumas – 100 ir daugiau batų porų per parą 
- 15.20   
- 50   
-
-
- 16. 
- Medienos pjaustymas ir obliavimas, kai gamybos pajėgumas – 5 000 m2 (ar 50 m3) ir daugiau per parą 
-   16.1 
-   100 
-
-
- 17. 
  Faneravimo dangos ir medienos plokščių gamyba: 
  16.21 
    
 
 
- 17.1. 
+ 12.1. 
  faneravimo dangos ir medienos plokščių gamyba, išskyrus medienos plaušo plokščių, medienos drožlių plokščių, faneros gamybą; 
-     
- 200     
-
-
- 17.2. 
- medienos plaušo plokščių gamyba, kai gamybos pajėgumas 5 000 m2 ir daugiau per parą; 
    
- 200   
-
-
- 17.3. 
- medienos drožlių plokščių gamyba, kai gamybos pajėgumas 100 m3 ir daugiau per parą; 
-   
- 200   
-
-
- 17.4. 
- faneros gamyba, kai gamybos pajėgumas – 50 m3 ir daugiau per parą 
-   
- 200   
-
-
- 18. 
- Sumontuotų parketo grindų gamyba, kai gamybos pajėgumas – 5 000 m2 ir daugiau per parą 
- 16.22   
- 100   
-
-
- 19. 
- Kitų statybinių dailidžių ir stalių dirbinių gamyba, kai gamybos pajėgumas – 5 000 m2 (ar 50 m3) ir daugiau per parą 
- 16.23     
- 100     
-
-
- 20. 
- Kuro granulių iš presuotos medienos ar pakaitalų, aglomeruotos kamštienos gamyba, dirbinių gamyba iš natūralios ar aglomeruotos kamštienos 
- 16.29 
- 100 
-
-
- 21. 
- Popieriaus ir popieriaus gaminių gamyba, kai gamybos pajėgumas – 20 ir daugiau tonų per parą 
- 17   
- 100   
-
-
- 22. 
- Kokso ir rafinuotų naftos produktų gamyba, išskyrus biokuro maišymą (etanolio maišymą su naftos produktais), durpių briketų gamybą 
- 19     
- 1 000     
-
-
- 23. 
- Biokuro maišymas (etanolio maišymas su naftos produktais) 
- 19.20   
- 300   
-
-
- 24. 
- Durpių briketų gamyba 
- 19.20  
  200 
 
 
- 25. 
+ 12.2. 
+ medienos plaušo plokščių gamyba, kai gamybos pajėgumas 5 000 m2 ir daugiau per parą; 
+   
+ 200 
+
+
+ 12.3. 
+ medienos drožlių plokščių gamyba, kai gamybos pajėgumas 100 m3 ir daugiau per parą; 
+   
+ 200 
+
+
+ 12.4. 
+ faneros gamyba, kai gamybos pajėgumas – 50 m3 ir daugiau per parą 
+   
+ 200 
+
+
+ 13. 
+ Popieriaus ir popieriaus gaminių gamyba, kai gamybos pajėgumas – 20 ir daugiau tonų per parą 
+ 17 
+ 100 
+
+
+ 14. 
+ Kokso ir rafinuotų naftos produktų gamyba, išskyrus biokuro maišymą (etanolio maišymą su naftos produktais), durpių briketų gamybą 
+ 19 
+ 1 000 
+
+
+ 15. 
+ Biokuro maišymas (etanolio maišymas su naftos produktais) 
+ 19.20 
+ 300 
+
+
+ 16. 
+ Durpių briketų gamyba 
+ 19.20 
+ 200 
+
+
+ 17. 
  Pagrindinių chemikalų, trąšų ir azoto junginių, pirminių plastikų ir pirminio sintetinio kaučiuko gamyba 
- 20.1     
- 500     
+ 20.1 
+ 500 
 
 
- 26. 
+ 18. 
  Augalų apsaugos produktų ir kitų agrocheminių medžiagų gamyba 
  20.2 
  500 
 
 
- 27. 
- Dažų, lakų ir panašių dangų medžiagų, spaustuvinių dažų ir mastikų gamyba: 
- 20.3   
-     
-
-
- 27.1. 
- kai gamybos pajėgumas – 10 ir daugiau tonų per parą; 
+ 19. 
+ Dažų, lakų ir panašių dangų medžiagų, spaustuvinių dažų ir mastikų gamyba 
+ 20.3 
    
- 300 
 
 
- 27.2. 
- kai gamybos pajėgumas – nuo 0,5 iki 10 tonų per parą 
-   
+ 20. 
+ Muilo ir ploviklių, valiklių ir blizgiklių gamyba, kai gamybos pajėgumas – 10 ir daugiau tonų per parą 
+ 20.41 
  100 
 
 
- 28. 
- Muilo ir ploviklių, valiklių ir blizgiklių gamyba, kai gamybos pajėgumas – 0,5 tonos ir daugiau per parą 
- 20.41   
- 100   
-
-
- 29. 
- Kvepalų ir tualeto priemonių gamyba: 
+ 21. 
+ Kvepalų ir tualeto priemonių gamyba, kai gamybos pajėgumas – 5 ir daugiau tonų per parą 
  20.42 
-   
-
-
- 29.1. 
- kai gamybos pajėgumas – 5 ir daugiau tonų per parą; 
-   
  100 
 
 
- 29.2. 
- kai gamybos pajėgumas – nuo 0,5 iki 5 tonų per parą 
-   
- 50 
-
-
- 30. 
- Kitų cheminių medžiagų gamyba 
- 20.5 
+ 22. 
+ Sprogiųjų medžiagų gamyba 
+ 20.51 
  300 
 
 
- 31. 
- Cheminių pluoštų gamyba 
- 20.6 
- 500 
-
-
- 32. 
- Pagrindinių vaistų pramonės gaminių ir farmacinių preparatų (farmacijos produktų) gamyba, kai gamybos pajėgumas – 0,5 tonos ir daugiau per parą 
- 21 
- 100   
-
-
- 33. 
+ 23. 
  Guminių gaminių gamyba ir perdirbimas (atgavimas): 
    
    
 
 
- 33.1. 
+ 23.1. 
  guminių padangų ir kamerų gamyba, guminių padangų restauravimas ir atnaujinimas, kitų guminių gaminių gamyba, kai gamybos pajėgumas – 15 ir daugiau tonų per parą; 
- 22.11, 22.19       
- 300       
+ 22.11, 22.19 
+ 300 
 
 
- 33.2. 
+ 23.2. 
  guminių padangų ir kamerų gamyba, guminių padangų restauravimas ir atnaujinimas, kitų guminių gaminių gamyba, kai gamybos pajėgumas – nuo vienos iki 15 tonų per parą; 
- 22.11, 22.19       
- 100       
+ 22.11, 22.19 
+ 100 
 
 
- 33.3. 
+ 23.3. 
  guminių gaminių perdirbimas (atgavimas) 
  38.32 
  300 
 
 
- 34. 
+ 24. 
  Plastikinių gaminių gamyba ir perdirbimas (atgavimas): 
    
    
 
 
- 34.1. 
+ 24.1. 
  plastikinių gaminių gamyba, plastikinių žaislų gamyba, plastikinių triračių ir kitų žaislų su ratukais gamyba, kur naudojama sintezė, kai gamybos pajėgumas – viena ir daugiau tonų per parą; 
- 22.2, 32.40.20, 32.40.60     
- 300       
+ 22.2, 32.40.20, 32.40.60 
+ 300 
 
 
- 34.2. 
+ 24.2. 
  plastikinių gaminių gamyba, plastikinių žaislų gamyba, plastikinių triračių ir kitų žaislų su ratukais gamyba, kur nenaudojama sintezė, kai gamybos pajėgumas – viena ir daugiau tonų per parą; 
- 22.2, 32.40.20, 32.40.60   
- 150       
+ 22.2, 32.40.20, 32.40.60 
+ 150 
 
 
- 34.3. 
+ 24.3. 
  plastikinių gaminių perdirbimas (atgavimas) 
  38.32 
  300 
 
 
- 35. 
- Stiklo ir stiklo gaminių bei dirbinių gamyba ir perdirbimas (atgavimas): 
-   
-   
-
-
- 35.1. 
- stiklo ir stiklo gaminių bei dirbinių gamyba; 
- 23.1 
+ 25. 
+ Ugniai atsparių gaminių gamyba, kai gamybos  pajėgumas – 10 ir daugiau tonų per parą 
+ 23.20 
  100 
 
 
- 35.2. 
- stiklo gaminių perdirbimas (atgavimas) 
- 38.32 
+ 26. 
+ Statybinių medžiagų iš molio gamyba, kai gamybos pajėgumas – 10 ir daugiau tonų per parą 
+ 23.3 
  100 
 
 
- 36. 
- Ugniai atsparių gaminių gamyba, kai gamybos  pajėgumas – viena ir daugiau tonų per parą 
- 23.20   
- 100   
-
-
- 37. 
- Statybinių medžiagų iš molio gamyba, kai gamybos pajėgumas – viena ir daugiau tonų per parą 
- 23.3   
- 100   
-
-
- 38. 
- Kitų porcelianinių ir keraminių gaminių bei dirbinių gamyba, kai gamybos pajėgumas – viena ir daugiau tonų per parą 
- 23.4     
- 100     
-
-
- 39. 
- Cemento, kalkių ir gipso gamyba 
+ 27. 
+ Cemento, kalkių ir gipso gamyba, kai gamybos pajėgumas – 10 ir daugiau tonų per parą 
  23.5 
  1 000 
 
 
- 40. 
+ 28. 
  Betono, cemento ir gipso gaminių bei dirbinių gamyba: 
    
    
 
 
- 40.1. 
- betono, cemento ir gipso gaminių bei dirbinių gamyba, kai gamybos pajėgumas – daugiau kaip 5 000 m3 per metus, išskyrus šios lentelės 40.2 papunktyje nurodytus objektus; 
- 23.6     
- 100     
-
-
- 40.2. 
- fibrolito gamyba, kitų betono, gipso ir cemento gaminių bei dirbinių gamyba, kai gamybos pajėgumas – viena ir daugiau tonų per parą 
- 23.65, 23.69     
- 100     
-
-
- 41. 
- Abrazyvinių gaminių ir niekur kitur nepriskirtų nemetalo mineralinių produktų gamyba, kai gamybos pajėgumas – viena ir daugiau tonų per parą 
- 23.9     
- 100     
-
-
- 42. 
- Elektros įrangos gamyba: 
-   
-   
-
-
- 42.1. 
- elektros variklių, generatorių ir transformatorių gamyba; 
- 27.11   
- 100   
-
-
- 42.2. 
- elektros skirstomosios ir valdymo įrangos gamyba; 
- 27.12 
- 50 
-
-
- 42.3. 
- baterijų ir akumuliatorių gamyba; 
- 27.20 
+ 28.1. 
+ betono, cemento ir gipso gaminių bei dirbinių gamyba, kai gamybos pajėgumas – daugiau kaip 5 000 m3 per metus, išskyrus šios lentelės 28.2 papunktyje nurodytus objektus; 
+ 23.6 
  100 
 
 
- 42.4. 
- laidų ir instaliacijos įtaisų gamyba; 
- 27.3 
- 50 
+ 28.2. 
+ fibrolito gamyba, kitų betono, gipso ir cemento gaminių bei dirbinių gamyba, kai gamybos pajėgumas – viena ir daugiau tonų per parą 
+ 23.65, 23.69 
+ 100 
 
 
- 42.5. 
- elektros apšvietimo įrangos gamyba 
- 27.4 
- 50 
-
-
- 43. 
- Variklinių transporto priemonių, priekabų ir puspriekabių gamyba, kai gamybinių patalpų plotas didesnis kaip  1 000 m2 
- 29     
- 100     
-
-
- 44. 
+ 29. 
  Laivų ir plūdriųjų konstrukcijų statyba ir remontas 
  30.11, 33.15 
  100 
 
 
- 45. 
- Geležinkelio lokomotyvų ir riedmenų gamyba, kai gamybinių patalpų plotas didesnis kaip 1 000 m2 
- 30.20   
- 100   
-
-
- 46. 
- Niekur kitur nepriskirtų transporto priemonių gamyba, kai gamybinių patalpų plotas didesnis kaip 1 000 m2 
- 30.9   
- 50   
-
-
- 47. 
- Baldų gamyba, čiužinių gamyba 
- 31.0, 31.03 
- 100 
-
-
- 48. 
- Elektros gamyba, garo tiekimas ir oro kondicionavimas: katilinių, šiluminių elektrinių, kogeneracinių elektrinių, kurių suminė vardinė (nominali) įrenginių šiluminė galia yra 50 MW ir didesnė 
- 35.11, 35.3 
- 100 
-
-
- 49. 
+ 30. 
  Dujų gamyba: 
  35.21 
    
 
 
- 49.1. 
+ 30.1. 
  dujų, išskyrus biodujas, gamyba; 
    
  500 
 
 
- 49.2. 
- biodujų gamyba  
+ 30.2. 
+ biodujų gamyba 
    
- 200  
+ 200 
 
 
- 50. 
+ 31. 
  Užkrėstų gyvų ar kritusių gyvūnų, taip pat gyvūninės kilmės atliekų apdorojimas ir šalinimas  
- 38.22   
- 500   
-
-
- 51. 
- Transporto priemonių, elektros ir elektroninės įrangos atliekų apdorojimas: 
-     
-     
-
-
- 51.1. 
- transporto priemonių, elektros ir elektroninės įrangos atliekų apdorojimas; 
- 38.21, 38.22, 38.31, 38.32 
- 50   
-
-
- 51.2. 
- mašinų duženų išmontavimas 
- 38.31 
- 50 
-
-
- 52. 
- Juodųjų ir spalvotųjų metalų atliekų laužo perdirbimas (atgavimas) 
- 38.31, 38.32   
- 100   
+ 38.22 
+ 500 
 
 
 
+______________________
  
 Priedo pakeitimai:
 Nr. XIII-3264, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15776
 Nr. XIV-1245, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14929
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
  
 
 
@@ -9640,13 +9025,13 @@ Komunalinių objektų sanitarinės apsaugos zonų dydIS
  
 * Reikalavimas taikomas Lietuvos Respublikos aplinkos ministerijos ar jos įgaliotos institucijos nustatytu laikotarpiu, kurio metu sąvartynas gali kelti pavojų aplinkai ir žmonių sveikatai.
  
+
+
+
+
+
+
  
-
-
-
-
-
-
 Lietuvos Respublikos specialiųjų
 žemės naudojimo sąlygų įstatymo
 4 priedas
@@ -9676,7 +9061,7 @@ Pastatams, kuriuose laikomi ūkiniai gyvūnai (iki 300 sutartinių gyvulių), su
 
 
  Kiaulių (nuo 500) 
- 1 500 
+ 1 000 
 
 
  Broilerių, vištų (nuo 300) 
@@ -9697,13 +9082,15 @@ Pastatams, kuriuose laikomi ūkiniai gyvūnai (iki 300 sutartinių gyvulių), su
 
 
 * Sutartinių gyvulių skaičius nustatomas perskaičiuojant gyvūnų skaičių Lietuvos Respublikos aplinkos ministro ir Lietuvos Respublikos žemės ūkio ministro nustatyta tvarka.
- 
 
 
  
 ____________________________
 
 
+Priedo pakeitimai:
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
+ 
  
  
 Pakeitimai:
@@ -9762,3 +9149,13 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr.  KT60-N7/2023, 2023-06-29, paskelbta TAR 2023-06-29, i. k. 2023-13152
 Dėl Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo 141 straipsnio 3 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2323, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25082
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 7, 8, 51, 53, 140, 141 straipsnių, 2 ir 4 priedų pakeitimo ir 142 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2380, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25331
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 95 ir 108 straipsnių pakeitimo įstatymas
