@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2025-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
  
@@ -589,7 +589,10 @@ Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 
 
 
-14. Seimui patvirtinus Tarybą, ne vėliau kaip per 10 darbo dienų pradedami Tarybos pirmininko rinkimai. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, renka iš Tarybos narių kandidatą pirmininko pareigoms, už kurį turi balsuoti ne mažiau kaip pusė visų Tarybos narių. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, rinkimai kartojami dalyvaujant dviem daugiausia balsų surinkusiems kandidatams ir išrenkamas tas, kuris surenka balsų daugumą. Seimo Pirmininkas teikia Seimui tvirtinti Tarybos siūlomą kandidatą Tarybos pirmininko pareigoms 4 metų kadencijai. Jeigu Seimas nepaskiria į Tarybos pirmininko pareigas Tarybos išrinkto kandidato, Taryba renka kitą kandidatą. Detalesnė kandidato į Tarybos pirmininkus rinkimų tvarka nustatoma Tarybos nuostatuose. Tarybos pirmininko įgaliojimai tęsiasi iki naujos kadencijos Tarybos pirmininko paskyrimo. Tas pats asmuo Tarybos pirmininku gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai valstybės tarnyboje dirbtam laikui.
+14. Seimui patvirtinus Tarybą, ne vėliau kaip per 10 darbo dienų pradedami Tarybos pirmininko rinkimai. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, renka iš Tarybos narių kandidatą pirmininko pareigoms, už kurį turi balsuoti ne mažiau kaip pusė visų Tarybos narių. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, rinkimai kartojami dalyvaujant dviem daugiausia balsų surinkusiems kandidatams ir išrenkamas tas, kuris surenka balsų daugumą. Seimo Pirmininkas teikia Seimui tvirtinti Tarybos siūlomą kandidatą Tarybos pirmininko pareigoms 4 metų kadencijai. Jeigu Seimas nepaskiria į Tarybos pirmininko pareigas Tarybos išrinkto kandidato, Taryba renka kitą kandidatą. Detalesnė kandidato į Tarybos pirmininkus rinkimų tvarka nustatoma Tarybos nuostatuose. Tarybos pirmininko įgaliojimai tęsiasi iki naujos kadencijos Tarybos pirmininko paskyrimo. Tas pats asmuo Tarybos pirmininku gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai Taryboje dirbtam laikui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
+ 
 
 
 
@@ -664,12 +667,18 @@ Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 
 
 
-19. Tarybai pavestus uždavinius įgyvendinti padeda Tarybos administracija, atliekanti Tarybos ir regioninių tarybų organizacinį, informacinį ir parengiamąjį darbą. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, Tarybos administracijos etatų skaičių tvirtina Seimo valdyba. Administracijos struktūrą ir etatų sąrašą tvirtina Taryba.
+19. Tarybai pavestus uždavinius įgyvendinti padeda Tarybos administracija, atliekanti Tarybos ir regioninių tarybų organizacinį, informacinį ir parengiamąjį darbą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
+ 
 
 
 
 
-20. Tarybos pirmininko pavaduotojo ir Tarybos narių darbas apmokamas proporcingai dirbtam laikui pagal pareiginės algos dydį, apskaičiuojamą vadovaujantis Lietuvos Respublikos politikų ir valstybės pareigūnų darbo apmokėjimo įstatymu. 
+20. Tarybos pirmininko pavaduotojo ir Tarybos narių darbas apmokamas proporcingai dirbtam laikui pagal darbo užmokesčio dydį, apskaičiuojamą vadovaujantis Valstybės pareigūnų darbo užmokesčio įstatymu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
+ 
 
 
 
@@ -1071,3 +1080,8 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1905, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08053
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 10 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1988, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11559
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas
