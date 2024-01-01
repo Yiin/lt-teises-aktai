@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e944ee00600111e4bad5c03f56793630"
 
 # Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas
 
-Suvestinė redakcija nuo 2022-03-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
  
 Įstatymas paskelbtas: TAR 2014-10-30, i. k. 2014-15180
  
@@ -304,7 +304,10 @@ UŽ PARAMĄ BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ATSAKINGOS INSTITUCIJOS. PARAMOS B�
 
 
 
-2. Būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacija finansuojama iš valstybės biudžeto.
+2. Būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacija finansuojama iš valstybės biudžeto, išskyrus šio įstatymo 10 straipsnio 2 dalyje nustatytus atvejus, kai būsto nuoma finansuojama iš savivaldybės biudžeto.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
+ 
 
 
 
@@ -489,7 +492,7 @@ Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
 10 straipsnis. Teisė į būsto nuomos mokesčio dalies kompensaciją
 
 
-Teisę į būsto nuomos mokesčio dalies kompensaciją turi asmenys ir šeimos, kurie atitinka visus šiame straipsnyje nurodytus reikalavimus: 
+1. Teisę į fiziniams ar juridiniams asmenims priklausančio būsto nuomos mokesčio dalies kompensaciją turi asmenys ir šeimos, kurie atitinka visus šioje dalyje nurodytus reikalavimus: 
 
 
 1) Gyventojų turto deklaravimo įstatyme nustatyta tvarka deklaravo turtą ir gautas pajamas; deklaruoto turto vertė ir pajamos, kurios, vadovaujantis Piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsniu, įskaitomos į asmens ar šeimos gaunamas pajamas, neviršija šio įstatymo 11 straipsnio 2 dalyje nustatytų pajamų ir turto dydžių;
@@ -497,22 +500,39 @@ Teisę į būsto nuomos mokesčio dalies kompensaciją turi asmenys ir šeimos, 
 
 
 
-2) neturi Lietuvos Respublikos teritorijoje nuosavybės teise būsto arba nuosavybės teise turimas būstas, Nekilnojamojo turto kadastro duomenimis, yra fiziškai nusidėvėjęs daugiau kaip 60 procentų, arba nuosavybės teise turimo būsto naudingasis plotas (visų Lietuvos Respublikoje nuosavybės teise turimų būstų naudingųjų plotų suma), tenkantis (tenkanti) vienam asmeniui ar šeimos nariui, yra mažesnis (mažesnė) kaip 10 arba 14 kvadratinių metrų, jeigu šeimoje yra neįgalusis arba asmuo, sergantis sunkia lėtinės ligos, įrašytos į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, forma; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
- 
+2) neturi Lietuvos Respublikos teritorijoje nuosavybės teise būsto arba nuosavybės teise turimas būstas, Nekilnojamojo turto kadastro duomenimis, yra fiziškai nusidėvėjęs daugiau kaip 60 procentų, arba nuosavybės teise turimo būsto naudingasis plotas (visų Lietuvos Respublikoje nuosavybės teise turimų būstų naudingųjų plotų suma), tenkantis (tenkanti) vienam asmeniui ar šeimos nariui, yra mažesnis (mažesnė) kaip 10 arba 14 kvadratinių metrų, jeigu šeimoje yra neįgalusis arba asmuo, sergantis sunkia lėtinės ligos, įrašytos į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, forma;
 
 
 
 
 3) šio įstatymo 17 straipsnio 1 dalyje nustatyta tvarka išsinuomojo fiziniams ar juridiniams asmenims (išskyrus savivaldybes) priklausantį būstą. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
+
+
+
+
+
+
+2. Be šio straipsnio 1 dalyje nurodytų asmenų ir šeimų, teisę į fiziniams ar juridiniams asmenims priklausančio būsto faktinio nuomos mokesčio dalies kompensaciją turi asmenys ir šeimos, įrašyti į Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašą, kuriems nesuteiktas socialinis būstas pasibaigus šio įstatymo 16 straipsnio 9 dalyje nustatytam laikotarpiui.
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodyti asmenys ir šeimos teisės į fiziniams ar juridiniams asmenims priklausančio būsto faktinio nuomos mokesčio dalies kompensaciją neturi, kai jie:
+
+
+1) prašyme suteikti paramą būstui įsigyti ar išsinuomoti išreiškė reikalavimus, susijusius su vietove, kurioje turėtų būti siūlomas nuomotis socialinis būstas, ar gyvenamojo namo aukštu, kuriame turėtų būti siūlomas nuomotis socialinis būstas;
+
+
+
+
+2) yra socialinio būsto nuomininkai, turintys teisę į socialinio būsto nuomos sąlygų pagerinimą.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-810, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27388
  
-
-
-
-
 
 
 
@@ -1151,7 +1171,6 @@ Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
 
 
 1) Lietuvos Respublikos socialinių paslaugų įstatymo nustatyta tvarka planuoja ir organizuoja socialines paslaugas, siekdama skatinti šių asmenų ir šeimų socialinį ir ekonominį aktyvumą ir savarankiškumą pagal jų poreikius ir galimybes;
-TAR pastaba. 1 punktas įsigalioja 2023-01-01.
 
 
 
@@ -1170,7 +1189,6 @@ Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
 
 
 1) asmenims ir šeimoms, kuriems išnuomotas socialinis būstas, planuoja ir organizuoja socialines paslaugas, kaip nurodyta šio straipsnio 11 dalies 1 punkte;
-TAR pastaba. 1 punktas įsigalioja 2023-01-01.
 
 
 
@@ -1180,6 +1198,14 @@ TAR pastaba. 1 punktas įsigalioja 2023-01-01.
 
 Papildyta straipsnio dalimi:
 Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
+ 
+
+
+
+
+13. Asmenų ir šeimų, įrašytų į Asmenų ir šeimų, turinčių teisę į socialinio būsto nuomą, sąrašą, socialinio būsto nuomos laukimo (buvimo šiame sąraše) laikotarpis negali būti ilgesnis nei 5 metai.
+Papildyta straipsnio dalimi:
+Nr. XIV-810, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27388
  
 
 
@@ -1224,24 +1250,27 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 18 straipsnis. Būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis
 
 
-1. Asmenims ir šeimoms, turintiems teisę į būsto nuomos mokesčio dalies kompensaciją pagal šio įstatymo 10 straipsnį ar į išperkamosios būsto nuomos mokesčio dalies kompensaciją pagal šio įstatymo 8 straipsnį, būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis nustatomas pagal bazinį būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydį, kurį nustato socialinės apsaugos ir darbo ministras, vadovaudamasis Vyriausybės patvirtinta metodika, ir kuris negali būti mažesnis negu Vyriausybės nustatytas minimalus bazinis būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-809, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27387
- 
+1. Asmenims ir šeimoms, turintiems teisę į būsto nuomos mokesčio dalies kompensaciją pagal šio įstatymo 10 straipsnio 1 dalį ar į išperkamosios būsto nuomos mokesčio dalies kompensaciją pagal šio įstatymo 8 straipsnį, būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis nustatomas pagal bazinį būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydį, kurį nustato socialinės apsaugos ir darbo ministras, vadovaudamasis Vyriausybės patvirtinta metodika, ir kuris negali būti mažesnis negu Vyriausybės nustatytas minimalus bazinis būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis. 
 
 
 
 
-2. Būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis perskaičiuojamas pagal Vyriausybės patvirtintą bazinio būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydžio perskaičiavimo koeficientą, nustatomą pagal vidutines būsto nuomos rinkos kainas, šeimos narių skaičių, ir atsižvelgiant į valstybės biudžeto galimybes gali būti perskaičiuojamas įvertinus vartotojų kainų indekso, kainų ir gyventojų pajamų pokyčius, kai šie pokyčiai didesni kaip 3 procentai. 
+2. Būsto nuomos mokesčio dalies kompensacijos, mokamos šio įstatymo 10 straipsnio 1 dalyje nurodytiems asmenims ir šeimoms, dydis ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis perskaičiuojamas pagal Vyriausybės patvirtintą bazinio būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydžio perskaičiavimo koeficientą, nustatomą pagal vidutines būsto nuomos rinkos kainas, šeimos narių skaičių, taip pat atsižvelgiant į valstybės biudžeto galimybes gali būti perskaičiuojamas įvertinus vartotojų kainų indekso, kainų ir gyventojų pajamų pokyčius, kai šie pokyčiai didesni kaip 3 procentai. 
 
 
 
 
-3. Vyriausybė, tvirtindama šio straipsnio 2 dalyje nurodytą koeficientą, turi užtikrinti, kad būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis būtų ne mažesnis kaip 50 procentų rinkos vidutinio nuomos mokesčio, apskaičiuoto asmeniui pagal tinkamo būsto naudingojo ploto normatyvą. Būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacija negali viršyti būsto nuomos ar išperkamosios būsto nuomos mokesčio dydžio. 
+3. Vyriausybė, tvirtindama šio straipsnio 2 dalyje nurodytą koeficientą, turi užtikrinti, kad būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacijos dydis būtų ne mažesnis kaip 50 procentų rinkos vidutinio nuomos mokesčio, apskaičiuoto asmeniui pagal tinkamo būsto naudingojo ploto normatyvą. Šio straipsnio 2 dalyje nurodyta būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensacija negali viršyti būsto nuomos ar išperkamosios būsto nuomos mokesčio dydžio.
+
+
+
+
+4. Asmenims ir šeimoms, turintiems teisę į fiziniams ar juridiniams asmenims priklausančio būsto faktinio nuomos mokesčio dalies kompensaciją pagal šio įstatymo 10 straipsnio 2 dalį, mokama tinkamo būsto faktinio nuomos mokesčio dalies kompensacija šio įstatymo 17 straipsnyje nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
+Nr. XIV-810, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27388
  
 
 
@@ -1709,10 +1738,17 @@ Nr. XIII-3147, 2020-06-25, paskelbta TAR 2020-07-01, i. k. 2020-14789
 29 straipsnis. Lėšų, gautų pardavus savivaldybės būstus ir pagalbinio ūkio paskirties pastatus, panaudojimas
 
 
-Lėšos, gautos pardavus savivaldybės būstus ir pagalbinio ūkio paskirties pastatus pagal šiame įstatyme nurodytas sąlygas, pervedamos į savivaldybės biudžetą ir naudojamos socialinio būsto fondo plėtrai, atskaičius su savivaldybės būsto ir pagalbinio ūkio paskirties pastatų vertės nustatymu susijusias išlaidas. 
+1. Lėšos, gautos pardavus savivaldybės būstus ir pagalbinio ūkio paskirties pastatus pagal šiame įstatyme nurodytas sąlygas, pervedamos į savivaldybės biudžetą ir naudojamos socialinio būsto fondo plėtrai, atskaičius su savivaldybės būsto ir pagalbinio ūkio paskirties pastatų vertės nustatymu susijusias išlaidas.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytos lėšos negali būti naudojamos fiziniams ar juridiniams asmenims (išskyrus savivaldybes) priklausančio būsto faktinio nuomos mokesčio dalies kompensacijai mokėti šio įstatymo 10 straipsnio 2 dalyje nustatytais atvejais.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
  
-
-
 
 
 
@@ -1860,3 +1896,8 @@ Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-949, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05127
 Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 1 straipsnio pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-810, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27388
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 2, 5, 10, 12, 14, 16, 17, 18 ir 29 straipsnių pakeitimo įstatymo Nr. XIII-2885 3, 6 ir 8 straipsnių pakeitimo įstatymas
