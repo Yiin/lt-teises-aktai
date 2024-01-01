@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2023-05-03 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
  
@@ -2557,7 +2557,10 @@ RĖMĖJŲ VEIKLOS TEISINIAI PAGRINDAI
 
 
 
-2) asmenims, kuriems nustatytas neįgalumo lygis, 0–25 procentų darbingumo lygis arba senatvės pensijos amžių sukakusiems asmenims, kuriems nustatytas didelių specialiųjų poreikių lygis, jeigu jie buvo rėmėjo, kuris žuvo atlikdamas jam pavestas funkcijas, išlaikomi ar jo žuvimo dieną turėjo teisę gauti jo išlaikymą.
+2) asmenims, kuriems nustatytas neįgalumo lygis, 0–25 procentų dalyvumo lygis arba senatvės pensijos amžių sukakusiems asmenims, kuriems nustatytas 15 procentų dalyvumo lygis, jeigu jie buvo rėmėjo, kuris žuvo atlikdamas jam pavestas funkcijas, išlaikomi ar jo žuvimo dieną turėjo teisę gauti jo išlaikymą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
+ 
 
 
 
@@ -2745,8 +2748,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 valstybės sienos ir jos 
@@ -2818,6 +2819,3 @@ Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 1, 2, 4, 10, 11, 14, 15, 16, 18, 23, 26 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas
- 
- 
-part_539af0e88ec84c39905a779705a600a3_end
