@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/c64b8c90f96011ed9978886e85107ab2"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso 12, 21-1, 373, 374, 375, 376, 377, 378, 380, 381, 382, 421, 484, 576, 577, 579, 581, 584, 587, 588, 589, 594, 608, 609, 616, 617, 619, 620, 621, 627, 644, 666, 671, 673, 675, 676, 678 straipsnių ir priedo pakeitimo, Kodekso papildymo 422-1, 565-1, 574-1 straipsniais ir 591, 677 straipsnių pripažinimo netekusiais galios įstatymas
 
+Suvestinė redakcija nuo 2024-01-01
+ 
+Įstatymas paskelbtas: TAR 2023-05-23, i. k. 2023-09688
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO 12, 211, 373, 374, 375, 376, 377, 378, 380, 381, 382, 421, 484, 576, 577, 579, 581, 584, 587, 588, 589, 594, 608, 609, 616, 617, 619, 620, 621, 627, 644, 666, 671, 673, 675, 676, 678 STRAIPSNIŲ IR PRIEDO PAKEITIMO, KODEKSO PAPILDYMO 4221, 5651, 5741 STRAIPSNIAIS IR 591, 677 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 ĮSTATYMAS
@@ -813,6 +820,8 @@ Pakeisti 608 straipsnį ir jį išdėstyti taip:
 
 
 
+
+
 „608 straipsnis. Administracinio nusižengimo protokolo surašymas
 
 
@@ -834,7 +843,7 @@ Pakeisti 608 straipsnį ir jį išdėstyti taip:
 
 
 
-3) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 2361 straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 2431 straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 2481 straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 2 dalyse, 252 straipsnio 2 ir 9 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 2 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijoms periodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais.
+3) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 2361 straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 2431 straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 2481 straipsnio 2 ir 4 dalyse, 2482 straipsnio 2 ir 4 dalyse, 2483 straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 2 dalyse, 252 straipsnio 2 ir 9 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 2 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijoms periodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais.
 
 
 
@@ -861,16 +870,16 @@ Pakeisti 608 straipsnį ir jį išdėstyti taip:
 
 
 
-7. Prieš priimant šio straipsnio 6 dalyje nurodytą nutarimą, turi būti įvertinta, ar yra fizinis asmuo, nurodęs, kad jam padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, nurodęs, kad jam padaryta turtinė ar neturtinė žala. Sprendimas pripažinti arba atsisakyti pripažinti šioje dalyje nurodytą asmenį nukentėjusiuoju įrašomas į nutarimą. Šio straipsnio nuostatos netaikomos, jeigu administracinio nusižengimo bylos teisena nutraukiama šio kodekso 5651 straipsnio 6 ir 8 punktuose nustatytais pagrindais.“
+7. Prieš priimant šio straipsnio 6 dalyje nurodytą nutarimą, turi būti įvertinta, ar yra fizinis asmuo, nurodęs, kad jam padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, nurodęs, kad jam padaryta turtinė ar neturtinė žala. Sprendimas pripažinti arba atsisakyti pripažinti šioje dalyje nurodytą asmenį nukentėjusiuoju įrašomas į nutarimą. Šio straipsnio nuostatos netaikomos, jeigu administracinio nusižengimo bylos teisena nutraukiama šio kodekso 5651 straipsnio 6 ir 8 punktuose nustatytais pagrindais.“.
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2306, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24173
  
-
-
-
-
-
-
-
-
 
 
 
@@ -1379,3 +1388,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2306, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24173
+Lietuvos Respublikos administracinių nusižengimų kodekso 12, 21-1, 373, 374, 375, 376, 377, 378, 380, 381, 382, 421, 484, 576, 577, 579, 581, 584, 587, 588, 589, 594, 608, 609, 616, 617, 619, 620, 621, 627, 644, 666, 671, 673, 675, 676, 678 straipsnių ir priedo pakeitimo, Kodekso papildymo 422-1, 565-1, 574-1 straipsniais ir 591, 677 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIV-1947 27 straipsnio pakeitimo įstatymas
