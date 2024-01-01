@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F95269B43A0"
 
 # Lietuvos Respublikos pajūrio juostos įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3091, i. k. 1021010ISTA0IX-1016
  
@@ -311,7 +311,7 @@ PAJŪRIO JUOSTOS NAUDOJIMO KONTROLĖ IR ATSAKOMYBĖ UŽ PAŽEIDIMUS
 
 
 
-2. Žemės naudojimo ir šio Įstatymo nustatytų veiklos apribojimų valstybinę kontrolę pagal kompetenciją atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių miškų apsaugos pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, kultūros vertybių apsaugos pareigūnai.
+2. Žemės naudojimo ir šio Įstatymo nustatytų veiklos apribojimų valstybinę kontrolę pagal kompetenciją atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių miškų apsaugos pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, kultūros vertybių apsaugos pareigūnai.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
  
