@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2023-06-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-24
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -7734,7 +7734,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-6. Šio straipsnio 4 dalies 1 ir 3 punktuose nurodytais atvejais priežiūros institucija, mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje teismo leidimams nustatyta tvarka, turi teisę prašyti teismo nutartimi laikinai areštuoti šio straipsnio 3 dalyje nurodytų asmenų turtą. Priežiūros institucijos prašymus dėl turto areštavimo nagrinėja Vilniaus apygardos administracinis teismas.
+6. Šio straipsnio 4 dalies 1 ir 3 punktuose nurodytais atvejais priežiūros institucija, mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje teismo leidimams nustatyta tvarka, turi teisę prašyti teismo nutartimi laikinai areštuoti šio straipsnio 3 dalyje nurodytų asmenų turtą. Priežiūros institucijos prašymus dėl turto areštavimo nagrinėja pirmosios instancijos administracinis teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1589, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25156
+ 
 
 
 
@@ -8764,15 +8767,11 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
-
- 
-
  
  
-part_1eb057449b0d431da5f2c45b97b1b78d_end
 
 
- 
+
 
  
 Lietuvos Respublikos 
@@ -8942,7 +8941,8 @@ Priedo pakeitimai:
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
  
-part_bf33953dffa345219473b730b17d2024_end
+
+
 
 
  
