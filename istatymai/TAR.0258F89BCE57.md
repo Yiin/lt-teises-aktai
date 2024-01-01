@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0258F89BCE57"
 
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 85-3140, i. k. 1051010ISTA000X-296
  
@@ -75,7 +75,10 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 
 
-4. Smurtinis nusikaltimas – Lietuvos Respublikos baudžiamajame kodekse nurodyto nusikaltimo sudėties požymių turinti veika, kuria buvo tyčia atimta žmogaus gyvybė arba sunkiai ar nesunkiai sutrikdyta jo sveikata, arba apysunkio, sunkaus ar labai sunkaus nusikaltimo žmogaus laisvei, seksualinio apsisprendimo laisvei ar neliečiamumui sudėties požymių turinti veika. Smurtinių nusikaltimų sąrašą tvirtina Fondo programos vykdytojas.
+4. Smurtinis nusikaltimas – Lietuvos Respublikos baudžiamajame kodekse nurodyto nusikaltimo sudėties požymių turinti veika, kuria buvo tyčia atimta žmogaus gyvybė, sutrikdyta jo sveikata ar sukeltas fizinis skausmas, arba kita nusikaltimo žmogaus laisvei, seksualinio apsisprendimo laisvei ar neliečiamumui sudėties požymių turinti veika. Smurtinių nusikaltimų sąrašą tvirtina Fondo programos vykdytojas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
+ 
 
 
 
@@ -229,7 +232,9 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 
 
-6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo gali būti skundžiami Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo gali būti skundžiami pirmosios instancijos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
  
 
 
@@ -253,14 +258,27 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 
 
-2) 80 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
+2) 80 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 ar 4 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
 
 
 
 
-3) 60 BSI, kai padarytas kitas, negu nurodyta šios dalies 1 ir 2 punktuose, smurtinis nusikaltimas. 
+3) 60 BSI, kai padarytas kitas, negu nurodyta šios dalies 1, 2 ar 5 punkte, smurtinis nusikaltimas;
 
 
+
+
+4) 40 BSI, kai smurtiniu nusikaltimu nežymiai sutrikdyta nepilnamečio sveikata ar jam sukeltas fizinis skausmas;
+
+
+
+
+5) 30 BSI, kai smurtiniu nusikaltimu nežymiai sutrikdyta žmogaus sveikata ar jam sukeltas fizinis skausmas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
+ 
 
 
 
@@ -273,14 +291,27 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 
 
-2) 100 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui; 
+2) 100 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 ar 4 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
 
 
 
 
-3) 80 BSI, kai padarytas kitas, negu nurodyta šios dalies 1 ir 2 punktuose, smurtinis nusikaltimas.
+3) 80 BSI, kai padarytas kitas, negu nurodyta šios dalies 1, 2 ar 5 punkte, smurtinis nusikaltimas; 
 
 
+
+
+4) 50 BSI, kai smurtiniu nusikaltimu nežymiai sutrikdyta nepilnamečio sveikata ar jam sukeltas fizinis skausmas; 
+
+
+
+
+5) 40 BSI, kai smurtiniu nusikaltimu nežymiai sutrikdyta žmogaus sveikata ar jam sukeltas fizinis skausmas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
+ 
 
 
 
@@ -408,7 +439,9 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 
 
-6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu gali būti skundžiami Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu gali būti skundžiami pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
  
 
 
@@ -573,7 +606,9 @@ Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 
 
 
-5. Šio straipsnio 3 dalyje nurodyti sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+5. Šio straipsnio 3 dalyje nurodyti sprendimai gali būti skundžiami pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
  
 
 
@@ -779,8 +814,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 smurtiniais nusikaltimais padarytos
@@ -823,5 +856,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1713, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27302
 Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 2, 6, 7, 8, 10, 11 ir 14 straipsnių pakeitimo įstatymas
  
- 
-part_019830e38fe84de5b1b4ba79b8592116_end
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1606, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25186
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 6, 10 ir 14 straipsnių pakeitimo įstatymas
