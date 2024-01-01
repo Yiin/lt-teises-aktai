@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6b9d94401d4c11e9875cdc20105dd260"
 
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2024-01-01
+ 
+Įstatymas paskelbtas: TAR 2019-01-21, i. k. 2019-00858
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMO ĮSTATYMO NR. X-296 PAKEITIMO
 ĮSTATYMAS
@@ -784,12 +791,18 @@ priedas
 
 
 
-2. Šio įstatymo nuostatos taikomos kompensuojant žalą, atsiradusią dėl po šio įstatymo įsigaliojimo padarytų smurtinių nusikaltimų. 
+2. Šio įstatymo nuostatos taikomos kompensuojant žalą, atsiradusią dėl po šio įstatymo įsigaliojimo padarytų smurtinių nusikaltimų, išskyrus šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo 3 straipsnio 2 ir 3 dalių nuostatas, kurios taikomos kompensuojant žalą ir dėl iki šio įstatymo įsigaliojimo padarytų smurtinių nusikaltimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2087, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13988
+ 
 
 
 
 
-3. Prašymai kompensuoti dėl iki šio įstatymo įsigaliojimo padarytų smurtinių nusikaltimų atsiradusią žalą nagrinėjami ir sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo priimami pagal iki šio įstatymo įsigaliojimo nustatytą tvarką. 
+2. Šio įstatymo nuostatos taikomos kompensuojant žalą, atsiradusią dėl po šio įstatymo įsigaliojimo padarytų smurtinių nusikaltimų, išskyrus šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo 3 straipsnio 2 ir 3 dalių nuostatas, kurios taikomos kompensuojant žalą ir dėl iki šio įstatymo įsigaliojimo padarytų smurtinių nusikaltimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2087, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13988
+ 
 
 
 
@@ -809,4 +822,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
 
-part_4036d34edaca4080af3232cbb18f63c8_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2087, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13988
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymo Nr. XIII-1928 2 straipsnio pakeitimo įstatymas
+ 
+ 
+part_82dd3e147b7a49d38f688bbdad5490d3_end
