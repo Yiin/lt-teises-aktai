@@ -21,7 +21,7 @@ DRAUDIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 1-31, i. k. 1091010ISTA00XI-626
  
@@ -961,14 +961,15 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-15 straipsnis. Metinių ataskaitų teikimas
+15 straipsnis. Metinių ataskaitų teikimas 
 
 
-Konkurencijos taryba iki kiekvienų metų vasario 1 dienos pateikia viešajai įstaigai Kaimo verslo ir rinkų plėtros agentūrai, kuri koordinuoja 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyvos (ES) 2019/633 dėl įmonių vienų kitoms taikomos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje teisinio reguliavimo stebėseną, informaciją apie Konkurencijos tarybos veiklą, susijusią su šio įstatymo priežiūra, ir nurodo per praėjusius metus gautų skundų skaičių ir pradėtų arba užbaigtų tyrimų skaičių. Pateikiama kiekvieno užbaigto tyrimo dalyko santrauka, tyrimo rezultatai ir, kai taikytina, nurodomas priimtas sprendimas, laikantis šio įstatymo 5 straipsnyje nustatytų konfidencialumo reikalavimų, taip pat pateikiami galimi pasiūlymai dėl teisinio reguliavimo tobulinimo tikslingumo.
+Konkurencijos taryba iki kiekvienų metų vasario 1 dienos pateikia žemės ūkio ministro įgaliotai institucijai, kuri koordinuoja 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyvos (ES) 2019/633 dėl įmonių vienų kitoms taikomos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje teisinio reguliavimo stebėseną, informaciją apie savo veiklą, apimančią šio įstatymo įgyvendinimo ir laikymosi priežiūrą, ir nurodo per praėjusius kalendorinius metus gautų skundų skaičių, pradėtų ir baigtų tyrimų skaičių. Pateikiamas kiekvieno baigto tyrimo dalykas, tyrimo rezultatai ir, kai taikytina, nurodomas priimtas sprendimas, laikantis šio įstatymo 5 straipsnyje nustatytų konfidencialumo reikalavimų, taip pat pateikiami galimi pasiūlymai dėl teisinio reguliavimo tobulinimo tikslingumo.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+Nr. XIV-2067, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12750
  
 
 
