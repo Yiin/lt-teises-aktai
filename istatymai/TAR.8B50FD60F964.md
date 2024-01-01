@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/8b50fd60f96411ed9978886e85107ab2"
 
 # Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 5, 6, 8, 9, 9-1, 10, 12, 12-1, 15, 17, 21, 22, 23, 26, 30, 43 straipsnių ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2024-01-01
+ 
+Įstatymas paskelbtas: TAR 2023-05-23, i. k. 2023-09693
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SVEIKATOS DRAUDIMO ĮSTATYMO NR. I-1343 2, 5, 6, 8, 9, 91, 10, 12, 121, 15, 17, 21, 22, 23, 26, 30, 43 STRAIPSNIŲ IR II SKYRIAUS PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO 31 STRAIPSNIU
 ĮSTATYMAS
@@ -28,12 +35,12 @@ Vilnius
 1 straipsnis. 2 straipsnio pakeitimas
 
 
-1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: 
+1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
 
-„5. Privalomasis sveikatos draudimas – valstybės nustatyta asmens sveikatos priežiūros ir ekonominių priemonių sistema, šio Įstatymo nustatytais pagrindais ir sąlygomis garantuojanti privalomuoju sveikatos draudimu apdraustiems asmenims sveikatos priežiūrą ir jos išlaidų kompensavimą Privalomojo sveikatos draudimo fondo biudžeto lėšomis. Privalomasis sveikatos draudimas yra valstybinio socialinio draudimo rūšis.“
+„5. Privalomasis sveikatos draudimas – valstybės nustatyta asmens sveikatos priežiūros ir ekonominių priemonių sistema, šio Įstatymo nustatytais pagrindais ir sąlygomis garantuojanti privalomuoju sveikatos draudimu apdraustiems asmenims sveikatos priežiūrą ir jos išlaidų kompensavimą Privalomojo sveikatos draudimo fondo biudžeto lėšomis. Privalomasis sveikatos draudimas yra valstybinio socialinio draudimo rūšis.“
 
 
 
@@ -47,7 +54,7 @@ Vilnius
 
 
 
-„16. Gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis – sveikatos apsaugos ministro nustatyta tvarka Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir vaistinio preparato registruotojo (jo atstovo) arba juridinio asmens, turinčio didmeninio platinimo licenciją, sudaroma sutartis dėl gydymo tam tikru vaistiniu preparatu prieinamumo pacientams gerinimo ir Privalomojo sveikatos draudimo fondo biudžeto stabilumo užtikrinimo nustatant numatomą gydymo efektyvumo ir (ar) finansinį rezultatą ir susitariant pasidalyti finansinę riziką ar prisiimti kitus įsipareigojimus pagal pasiektus gydymo efektyvumo ir (ar) finansinius rezultatus.“
+„16. Gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis – sveikatos apsaugos ministro nustatyta tvarka Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir vaistinio preparato registruotojo (jo atstovo) arba juridinio asmens, turinčio didmeninio platinimo licenciją, arba medicinos pagalbos priemonės, arba specialiosios medicininės paskirties maisto produkto gamintojo ar jų atstovo, arba medicinos pagalbos priemonės platintojo, arba specialiosios medicininės paskirties maisto produkto tiekėjo sudaroma sutartis dėl gydymo tam tikru vaistiniu preparatu, medicinos pagalbos priemone arba specialiosios medicininės paskirties maisto produktu prieinamumo pacientams gerinimo ir Privalomojo sveikatos draudimo fondo biudžeto stabilumo užtikrinimo nustatant numatomą gydymo efektyvumo ir (ar) finansinį rezultatą ir susitariant pasidalyti finansinę riziką ar prisiimti kitus įsipareigojimus pagal pasiektus gydymo efektyvumo ir (ar) finansinius rezultatus.“
 
 
 
@@ -68,6 +75,9 @@ Vilnius
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
 
 
 
@@ -484,7 +494,7 @@ Pakeisti 121 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-13 straipsnis. 15 straipsnio pakeitimas 
+13 straipsnis. 15 straipsnio pakeitimas
 
 
 Pakeisti 15 straipsnį ir jį išdėstyti taip:
@@ -495,7 +505,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto pajamos ir valstybės biudžeto asignavimai Valstybinei ligonių kasai
 
 
-1. Privalomojo sveikatos draudimo fondo biudžeto pajamas sudaro: 
+1. Privalomojo sveikatos draudimo fondo biudžeto pajamas sudaro:
 
 
 1) privalomojo sveikatos draudimo įmokos:
@@ -513,7 +523,7 @@ b) Lietuvos Respublikos valstybės biudžeto įmokos, mokamos už draudžiamuosi
 
 
 
-2) valstybės biudžeto asignavimai, skiriami: 
+2) valstybės biudžeto asignavimai, skiriami:
 
 
 a) valstybės deleguotoms funkcijoms, nurodytoms šio straipsnio 5 dalyje, atlikti;
@@ -521,7 +531,7 @@ a) valstybės deleguotoms funkcijoms, nurodytoms šio straipsnio 5 dalyje, atlik
 
 
 
-b) šio straipsnio 2 dalyje nurodytais atvejais; 
+b) šio straipsnio 2 dalyje nurodytais atvejais;
 
 
 
@@ -583,7 +593,7 @@ b) šio straipsnio 2 dalyje nurodytais atvejais;
 
 
 
-5) padengia išlaidas paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus šio Įstatymo 10 straipsnio 6 dalyje nurodytiems asmenims;
+5) padengia išlaidas paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, ir medicinos pagalbos priemones bei specialiosios medicininės paskirties maisto produktus, įrašytus į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus šio Įstatymo 10 straipsnio 6 dalyje nurodytiems asmenims, ir išlaidas paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, skiriamus šio Įstatymo 10 straipsnio 7 dalyje nurodytiems asmenims;
 
 
 
@@ -595,7 +605,7 @@ b) šio straipsnio 2 dalyje nurodytais atvejais;
 
 
 
-6. Valstybės biudžeto asignavimų šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms atlikti valdytoja yra Sveikatos apsaugos ministerija. 
+6. Valstybės biudžeto asignavimų šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms atlikti valdytoja yra Sveikatos apsaugos ministerija.
 
 
 
@@ -605,12 +615,12 @@ b) šio straipsnio 2 dalyje nurodytais atvejais;
 
 
 
-8. Valstybės biudžeto lėšomis apmokamos faktinės išlaidos, patirtos atliekant šio straipsnio 5 dalyje nurodytas valstybės deleguotas funkcijas. Pasibaigus biudžetiniams metams, nepanaudoti valstybės biudžeto asignavimai, skirti šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms atlikti, grąžinami į valstybės biudžetą. 
+8. Valstybės biudžeto lėšomis apmokamos faktinės išlaidos, patirtos atliekant šio straipsnio 5 dalyje nurodytas valstybės deleguotas funkcijas. Pasibaigus biudžetiniams metams, nepanaudoti valstybės biudžeto asignavimai, skirti šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms atlikti, grąžinami į valstybės biudžetą.
 
 
 
 
-9. Jeigu einamaisiais metais valstybės biudžeto asignavimų, skirtų šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms finansuoti, neužtenka, siekiant užtikrinti jų nenutrūkstamą atlikimą iki einamųjų metų pabaigos, laikinai gali būti skiriamos Privalomojo sveikatos draudimo fondo biudžeto einamųjų metų viršplaninės pajamos šio straipsnio 4 dalyje nustatyta tvarka arba Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos šio Įstatymo 23 straipsnyje nustatyta tvarka. Ne vėliau kaip per 2 metus (pasibaigus biudžetiniams metams, kuriais buvo panaudotos Privalomojo sveikatos draudimo fondo biudžeto lėšos) šiuo tikslu panaudotos Privalomojo sveikatos draudimo fondo biudžeto lėšos atkuriamos valstybės biudžeto lėšomis. 
+9. Jeigu einamaisiais metais valstybės biudžeto asignavimų, skirtų šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms finansuoti, neužtenka, siekiant užtikrinti jų nenutrūkstamą atlikimą iki einamųjų metų pabaigos, laikinai gali būti skiriamos Privalomojo sveikatos draudimo fondo biudžeto einamųjų metų viršplaninės pajamos šio straipsnio 4 dalyje nustatyta tvarka arba Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos šio Įstatymo 23 straipsnyje nustatyta tvarka. Ne vėliau kaip per 2 metus (pasibaigus biudžetiniams metams, kuriais buvo panaudotos Privalomojo sveikatos draudimo fondo biudžeto lėšos) šiuo tikslu panaudotos Privalomojo sveikatos draudimo fondo biudžeto lėšos atkuriamos valstybės biudžeto lėšomis.
 
 
 
@@ -629,6 +639,9 @@ b) šio straipsnio 2 dalyje nurodytais atvejais;
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
 
 
 
@@ -652,7 +665,7 @@ Papildyti 17 straipsnį 14 dalimi:
 
 
 
-15 straipsnis. 21 straipsnio pakeitimas 
+15 straipsnis. 21 straipsnio pakeitimas
 
 
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
@@ -663,7 +676,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 „21 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto išlaidos
 
 
-1. Privalomojo sveikatos draudimo fondo biudžeto išlaidas sudaro: 
+1. Privalomojo sveikatos draudimo fondo biudžeto išlaidas sudaro:
 
 
 1) išlaidos asmens sveikatos priežiūros paslaugoms;
@@ -671,7 +684,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 
 
-2) išlaidos vaistams, medicinos pagalbos priemonėms (tarp jų ortopedijos techninėms priemonėms) ir medicinos priemonių nuomai;
+2) išlaidos vaistams, medicinos pagalbos priemonėms (tarp jų ortopedijos techninėms priemonėms), specialiosios medicininės paskirties maisto produktams ir medicinos priemonių nuomai;
 
 
 
@@ -702,6 +715,9 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
 
 
 
@@ -714,18 +730,21 @@ Papildyti 22 straipsnio 1 dalį 4 punktu:
 
 
 
-„4) lėšos, skiriamos šiam rezervui atkurti šio Įstatymo 15 straipsnio 9 dalyje nurodytu atveju.“
+„4) lėšos, skiriamos šiam rezervui atkurti šio Įstatymo 15 straipsnio 2 dalies 2 punkte ir 9 dalyje nurodytais atvejais.“
 
 
 
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
 
 
 
 
-17 straipsnis. 23 straipsnio pakeitimas 
+17 straipsnis. 23 straipsnio pakeitimas
 
 
 Pakeisti 23 straipsnį ir jį išdėstyti taip:
@@ -744,7 +763,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 2. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos:
 
 
-1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui padengti, kai nevykdomas einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytas einamųjų metų pajamų planas ir neužtenka apyvartos lėšų šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti;
+1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui padengti, kai nevykdomas einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytas einamųjų metų pajamų planas ir neužtenka apyvartos lėšų šio Įstatymo II skyriuje nurodytai Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamai sveikatos priežiūrai apmokėti;
 
 
 
@@ -754,7 +773,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 
 
-3) šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti;
+3) šio Įstatymo II skyriuje nurodytai Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamai sveikatos priežiūrai apmokėti;
 
 
 
@@ -771,7 +790,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos naudojamos: 
+3. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos naudojamos:
 
 
 1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui kompensuoti, kai nesurenkama 1/12 ar daugiau einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytų einamųjų metų planuotų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir neužtenka šio biudžeto apyvartos lėšų;
@@ -800,6 +819,9 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
 
 
 
@@ -831,7 +853,7 @@ Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-„7) šio Įstatymo nustatytais pagrindais ir sąlygomis kompensuoja apdraustųjų sveikatos priežiūrą;“.
+„7) šio Įstatymo nustatytais pagrindais ir sąlygomis kompensuoja apdraustųjų sveikatos priežiūrą;“.
 
 
 
@@ -859,13 +881,16 @@ Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
-„9) sudaro su vaistinio preparato registruotojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją, gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis, kuriose numatoma, kad jie į Privalomojo sveikatos draudimo fondą grąžina šiose sutartyse nurodyto dydžio lėšas, gautas už kompensuojamuosius vaistinius preparatus;“.
+„9) sudaro su vaistinio preparato registruotojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją, medicinos pagalbos priemonės arba specialiosios medicininės paskirties maisto produkto gamintojais ar jų atstovais, arba medicinos pagalbos priemonės platintojais, arba specialiosios medicininės paskirties maisto produkto tiekėjais gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis, kuriose numatoma, kad jie į Privalomojo sveikatos draudimo fondą grąžina šiose sutartyse nurodyto dydžio lėšas, gautas už kompensuojamuosius vaistinius preparatus, medicinos pagalbos priemones arba specialiosios medicininės paskirties maisto produktus;“
 
 
 
 
 
 
+Straipsnio pakeitimai:
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
 
 
 
@@ -920,3 +945,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 5, 6, 8, 9, 9-1, 10, 12, 12-1, 15, 17, 21, 22, 23, 26, 30, 43 straipsnių ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymo Nr. XIV-1942 1, 13, 15, 16, 17 ir 19 straipsnių pakeitimo įstatymas
