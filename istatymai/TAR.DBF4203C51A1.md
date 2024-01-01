@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
  
@@ -126,7 +126,10 @@ Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010IST
 
 
 
-11) tvarko teisėjų, pageidaujančių būti perkeltais į kitą tos pačios pakopos teismą arba į kitos jurisdikcijos tos pačios pakopos teismą, ir teisėjų, siekiančių karjeros tos pačios pakopos teismuose, duomenų bazes; 
+11) Neteko galios nuo 2024-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1995, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11567
+ 
 
 
 
@@ -334,9 +337,10 @@ Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010IST
 
 
 
-2. Nacionalinės teismų administracijos nuostatus, aprobavus Teisėjų tarybai, tvirtina valstybės kaip įstaigos savininkės teises ir pareigas įgyvendinanti institucija. Nacionalinės teismų administracijos struktūrą, didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, vadovaudamasis įstatymų nustatyta tvarka ir suderinęs su valstybės kaip įstaigos savininkės teises ir pareigas įgyvendinančia institucija, tvirtina Nacionalinės teismų administracijos direktorius.
+2. Nacionalinės teismų administracijos nuostatus, aprobavus Teisėjų tarybai, tvirtina valstybės kaip įstaigos savininkės teises ir pareigas įgyvendinanti institucija. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
+Nr. XIV-1995, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11567
  
 
 
@@ -351,7 +355,9 @@ Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
 
 
 
-4. Nacionalinės teismų administracijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį socialinių mokslų studijų srities išsilavinimą ir ne mažesnį kaip 5 metų teisinio ar vadovaujamo darbo stažą.
+4. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-1995, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11567
 Straipsnio dalies pakeitimai:
 Nr. XII-631, 2013-12-03, Žin., 2013, Nr. 127-6447 (2013-12-12), i. k. 1131010ISTA0XII-631
  
@@ -364,7 +370,9 @@ Nr. XII-631, 2013-12-03, Žin., 2013, Nr. 127-6447 (2013-12-12), i. k. 1131010IS
 
 
 
-6. Nacionalinės teismų administracijos darbuotojai yra valstybės tarnautojai ir asmenys, dirbantys pagal darbo sutartis.
+6. Nacionalinę teismų administraciją sudaro valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1995, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11567
  
 
 
@@ -425,3 +433,8 @@ Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3134, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15379
 Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1995, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11567
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 2 ir 4 straipsnių pakeitimo įstatymas
