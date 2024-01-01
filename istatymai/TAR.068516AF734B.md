@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-11-22 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -56,10 +56,11 @@ Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
 1. Iš ligos socialinio draudimo lėšų:
 
 
-1) įstatymų nustatytais atvejais kompensuojamos šios rūšies draudimu apdraustiems asmenims dėl jų pačių ar jų šeimos narių arba budinčio globotojo, globėjo, rūpintojo arba vaiką ar neįgalų asmenį, besimokantį pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, laikinai prižiūrinčio asmens, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, prižiūrimų vaikų ar neįgalių asmenų ligos ar dėl dalyvavimo profesinės reabilitacijos programoje negautos pajamos arba jų dalis;
+1) įstatymų nustatytais atvejais kompensuojamos šios rūšies draudimu apdraustiems asmenims dėl jų pačių ar jų šeimos narių arba budinčio globotojo, globėjo, rūpintojo arba vaiką ar pagal formaliojo švietimo programą besimokantį asmenį su negalia iki 24 metų laikinai prižiūrinčio asmens, kai vaikui ar asmeniui su negalia nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, prižiūrimų vaikų ar asmenų su negalia ligos ar dėl dalyvavimo profesinės reabilitacijos programoje negautos pajamos arba jų dalis;
 Straipsnio punkto pakeitimai:
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -258,17 +259,21 @@ Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
 
 
 
-5) šio įstatymo 11 straipsnio 4 dalyje ir 111 straipsnio 8 dalyje nurodytų vaikų ir neįgalių asmenų priežiūrai, jeigu švietimo įstaigoje (įstaigose) nustatytas infekcijų plitimą ribojantis režimas, bei šio įstatymo 111 straipsnio 3 ir 7 dalyse nurodytų vaikų ir neįgalių asmenų priežiūrai; 
+5) šio įstatymo 11 straipsnio 4 dalyje ir 111 straipsnio 8 dalyje nurodytų vaikų ir asmenų su negalia priežiūrai, jeigu švietimo įstaigoje (įstaigose) nustatytas infekcijų plitimą ribojantis režimas, bei šio įstatymo 111 straipsnio 3 ir 7 dalyse nurodytų vaikų ir asmenų su negalia priežiūrai; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 Nr. XIII-3305, 2020-09-29, paskelbta TAR 2020-10-09, i. k. 2020-21152
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
 
 
-6) vaiko priežiūrai, jeigu asmuo, kuriam suteiktos nėštumo ir gimdymo atostogos ar atostogos vaikui prižiūrėti (toliau – vaiko priežiūros atostogos), dėl savo ar kito vaiko iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti; 
+6) vaiko priežiūrai, jeigu asmuo, kuriam suteiktos nėštumo ir gimdymo atostogos ar atostogos vaikui prižiūrėti (toliau – vaiko priežiūros atostogos), dėl savo ar kito vaiko, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+ 
 
 
 
@@ -324,7 +329,9 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 
 
-5. Profesinės reabilitacijos išmokos skiriamos ir mokamos turintiems teisę jas gauti apdraustiesiems asmenims, kuriems Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgalumo ir darbingumo nustatymo tarnyba) nustatė profesinės reabilitacijos paslaugų poreikį, jeigu šie asmenys dalyvauja profesinės reabilitacijos programoje.
+5. Profesinės reabilitacijos išmokos skiriamos ir mokamos turintiems teisę jas gauti apdraustiesiems asmenims, kuriems Asmens su negalia teisių apsaugos agentūra prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Asmens su negalia teisių apsaugos agentūra) nustatė profesinės reabilitacijos paslaugų poreikį, jeigu šie asmenys dalyvauja profesinės reabilitacijos programoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -371,6 +378,14 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 5. Maksimalus kompensuojamasis uždarbis ligos, profesinės reabilitacijos, tėvystės ir vaiko priežiūros išmokoms apskaičiuoti negali viršyti dviejų šalies vidutinių mėnesinių darbo užmokesčių, galiojusių užpraeitą ketvirtį iki nedarbingumo atsiradimo mėnesio, profesinės reabilitacijos programos pradžios mėnesio ar teisės gauti tėvystės ar vaiko priežiūros išmoką atsiradimo dienos, dydžio. Kompensuojamasis uždarbis motinystės išmokoms apskaičiuoti negali viršyti atitinkamų kalendorinių metų socialinio draudimo įmokų bazės, galiojančios laikotarpiu, už kurį skaičiuojamas kompensuojamasis uždarbis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1827, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21847
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+ 
+
+
+
+
+51. Minimalus kompensuojamasis uždarbis, taikomas šio įstatymo 24 straipsnio 7 dalyje nustatytu atveju, negali būti mažesnis negu minimalioji mėnesinė alga, galiojusi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, arba pajamų, gautų iš vaiko priežiūros išmokos gavimo metu vykdytos darbinės veiklos, kurios pagal šį įstatymą nėra laikomos draudžiamosiomis pajamomis, arba šio įstatymo nustatytų ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokų, ligos dėl nelaimingo atsitikimo darbe ar profesinės ligos išmokų, mokamų vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu (toliau kartu šioje dalyje – pajamos ir (ar) išmokos), gavimo mėnesį. Maksimalus kompensuojamasis uždarbis, taikomas šio įstatymo 24 straipsnio 7 dalyje nustatytu atveju, negali viršyti penkių šalies vidutinių mėnesinių darbo užmokesčių, galiojusių užpraeitą ketvirtį, buvusį iki pajamų ir (ar) išmokų gavimo dienos, dydžio.
+Papildyta straipsnio dalimi:
 Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
@@ -507,7 +522,9 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3. Ligos išmoką turi teisę gauti ir apdraustieji asmenys iki 26 metų, kurie iki laikinojo nedarbingumo pradžios dienos neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei studijavo aukštosiose mokyklose pagal nuolatinės formos studijų programą, jeigu laikinasis nedarbingumas prasideda per 6 mėnesius nuo bendrojo ugdymo programos, profesinio mokymo programos arba aukštojo mokslo studijų programos baigimo ir atitinkamo išsilavinimo įgijimo (pagal mokymosi ir (ar) kvalifikacijos pasiekimus įteisinantį dokumentą).
+3. Ligos išmoką turi teisę gauti ir apdraustieji asmenys iki 26 metų, kurie iki laikinojo nedarbingumo pradžios dienos neįgijo šio straipsnio 1 dalies 3 punkte nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą arba studijavo aukštosiose mokyklose pagal studijų programą, jeigu laikinasis nedarbingumas prasideda per 6 mėnesius nuo bendrojo ugdymo programos, profesinio mokymo programos arba aukštojo mokslo studijų programos baigimo ir atitinkamo išsilavinimo ar kvalifikacijos įgijimo (pagal mokymosi ir (ar) kvalifikacijos pasiekimus įteisinantį dokumentą) dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
  
@@ -554,37 +571,33 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 9 straipsnis. Ligos išmokos dėl apdraustojo asmens ligos arba traumos mokėjimo trukmė
 
 
-1. Turintiems darbo ar tarnybos santykius apdraustiesiems asmenims, tapusiems laikinai nedarbingiems šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais, ligos išmoką dvi pirmąsias kalendorines nedarbingumo dienas, sutampančias su darbuotojo darbo ar tarnybos grafiku, moka kiekvienas darbdavys, neatsižvelgiant į apdraustojo asmens turimą ligos socialinio draudimo stažą. Ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų šio įstatymo 8 straipsnyje nustatytas sąlygas atitinkantiems asmenims pradedama mokėti trečiąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos ar darbingumo lygio nustatymo dienos. Tuo atveju, kai asmenims Neįgalumo ir darbingumo nustatymo tarnyba nustato profesinės reabilitacijos paslaugų poreikį, ligos išmoka mokama iki pirmosios dalyvavimo profesinės reabilitacijos programoje dienos. Šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais ligos išmoka po atleidimo iš darbo ar tarnybos dėl tos ligos ar traumos, dėl kurių asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos.
-Straipsnio dalies pakeitimai:
-Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
- 
+1. Turintiems darbo ar tarnybos santykius apdraustiesiems asmenims, tapusiems laikinai nedarbingiems šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais, ligos išmoką dvi pirmąsias kalendorines nedarbingumo dienas, sutampančias su darbuotojo darbo ar tarnybos grafiku, moka kiekvienas darbdavys, neatsižvelgdamas į apdraustojo asmens turimą ligos socialinio draudimo stažą. Ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų šio įstatymo 8 straipsnyje nustatytas sąlygas atitinkantiems asmenims pradedama mokėti trečiąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos ar dalyvumo lygio nustatymo dienos. Kai Asmens su negalia teisių apsaugos agentūra asmenims nustato profesinės reabilitacijos paslaugų poreikį, ligos išmoka jiems mokama iki pirmosios dalyvavimo profesinės reabilitacijos programoje dienos. Šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais ligos išmoka po atleidimo iš darbo ar tarnybos dėl tos ligos ar traumos, dėl kurios asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos.
 
 
 
 
-2. Apdraustiesiems asmenims, gaunantiems valstybinę socialinio draudimo netekto darbingumo (invalidumo) pensiją, ligos išmoka šio įstatymo 5 straipsnio 2 dalies 1 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 90 kalendorinių dienų per kalendorinius metus.
+2. Apdraustiesiems asmenims, gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, ligos išmoka šio įstatymo 5 straipsnio 2 dalies 1 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 90 kalendorinių dienų per kalendorinius metus.
 
 
 
 
-3. Apdraustiesiems asmenims, kurie asmens sveikatos priežiūros įstaigose, teikiančiose stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, priklausomybės sindromą vartojant psichoaktyviąsias medžiagas, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 28 kalendorines dienas vieną kartą per kalendorinius metus. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
- 
+3. Apdraustiesiems asmenims, kurie asmens sveikatos priežiūros įstaigose, teikiančiose dienos stacionaro ar stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, abstinencijos būklę dėl psichoaktyviųjų medžiagų vartojimo ir (ar) priklausomybės nuo psichoaktyviųjų medžiagų vartojimo sindromą, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne daugiau kaip 2 kartus per kalendorinius metus, o bendra ligos išmokos mokėjimo trukmė negali būti ilgesnė kaip 40 kalendorinių dienų per kalendorinius metus.
 
 
 
 
-4. Apdraustiesiems asmenims, tapusiems laikinai nedarbingiems dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti pirmąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos, iki pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar darbingumo lygio nustatymo dienos. Ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, kai dėl to asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos, mokama, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos.
+4. Apdraustiesiems asmenims, tapusiems laikinai nedarbingiems dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti pirmąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, kai dėl to asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos, mokama, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos.
 
 
 
 
-5. Neturintiems darbo ar tarnybos santykių apdraustiesiems asmenims, įgijusiems teisę gauti ligos išmoką šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais, ligos išmoka mokama nuo trečiosios laikinojo nedarbingumo dienos iš Valstybinio socialinio draudimo fondo lėšų ir mokama iki darbingumo atgavimo dienos, iki pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar darbingumo lygio nustatymo dienos. Šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais ligos išmoka pasibaigus draudimo laikotarpiui dėl ligos ar traumos, dėl kurių asmuo tapo nedarbingas iki draudimo laikotarpio pabaigos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, einančias po laikotarpio, kurį šie asmenys laikomi apdraustaisiais asmenimis, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po draudimo laikotarpio pabaigos.
+5. Neturintiems darbo ar tarnybos santykių apdraustiesiems asmenims, įgijusiems teisę gauti ligos išmoką šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų mokama nuo trečiosios laikinojo nedarbingumo dienos iki darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Šio įstatymo 5 straipsnio 2 dalies 1, 3 ir 4 punktuose nurodytais atvejais ligos išmoka pasibaigus draudimo laikotarpiui dėl ligos ar traumos, dėl kurių asmuo tapo nedarbingas iki draudimo laikotarpio pabaigos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, einančias po laikotarpio, kurį šie asmenys buvo laikomi apdraustaisiais asmenimis, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po draudimo laikotarpio pabaigos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+Nr. XIV-2367, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25620
  
 
 
@@ -593,36 +606,42 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 10 straipsnis. Ligos išmokos sergančiam šeimos nariui slaugyti arba vaikui prižiūrėti mokėjimo trukmė
 
 
-1. Kai apdraustasis asmuo slaugo sergantį šeimos narį, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama ne ilgiau kaip 7 kalendorines dienas. 
+1. Kai apdraustasis asmuo slaugo sergantį šeimos narį, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. 
 
 
 
 
-2. Turinčiam teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, slaugančiam sergantį iki 14 metų vaiką, kurio priežiūrai nėra suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui), išskyrus atvejus, kai kitas asmuo (motina (tėvas), įmotė (įtėvis) ar globėjas, ar senelė (senelis), kuriam suteiktos šio vaiko nėštumo ir gimdymo ar vaiko priežiūros atostogos, dėl savo ar kito vaiko (globojamo vaiko) iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko slaugyti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko slaugymo dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Budinčiam globotojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, slaugančiam sergantį iki 14 metų vaiką, ligos išmoka mokama neatsižvelgiant į tai, ar jo priežiūrai kitam asmeniui yra suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos.
+2. Turinčiai (-iam) teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, slaugančiam (-iai) sergantį vaiką iki 14 metų, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko slaugymo dienos ir mokama ne ilgiau kaip 21 kalendorinę dieną. 
 
 
 
 
-3. Turinčiam teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui), prižiūrinčiam vaiką, kurio priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui), kuris dėl savo ar kito vaiko (globojamo vaiko) iki 3 metų, kurio priežiūrai jam suteiktos vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Bendras ligos išmokos mokėjimo terminas negali būti ilgesnis kaip 90 kalendorinių dienų per kalendorinius metus. 
+3. Turinčiai (-iam) teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui), prižiūrinčiai (-iam) vaiką, kurio priežiūrai nėštumo ir gimdymo ar vaiko priežiūros atostogos suteiktos kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui)), kuris dėl savo ar kito vaiko (globojamo vaiko), kurio priežiūrai jam suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko prižiūrėti, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Bendras ligos išmokos mokėjimo terminas negali būti ilgesnis kaip 90 kalendorinių dienų per kalendorinius metus. 
 
 
 
 
-4. Turinčiam teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui, rūpintojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, slaugančiam stacionare ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje sergantį iki 7 metų vaiką ar vaiką iki 18 metų, sergantį ligomis, dėl kurių nustatytas sunkus neįgalumo lygis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 120 dienų per kalendorinius metus.
+4. Turinčiai (-iam) teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui, rūpintojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, slaugančiam (-iai) stacionare ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje sergantį vaiką iki 7 metų ar slaugančiam (-iai) stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį ligomis, dėl kurių nustatytas sunkus neįgalumo lygis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 120 dienų per kalendorinius metus.
 
 
 
 
-5. Turinčiam teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui, rūpintojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, slaugančiam stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį ypač sunkiomis ligomis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 364 kalendorines dienas, skaičiuojant nuo pirmosios slaugymo dienos. Turinčiam teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui, rūpintojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, slaugančiam stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį sunkiomis ligomis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 180 kalendorinių dienų, skaičiuojant nuo pirmosios slaugymo dienos. Ypač sunkių ir sunkių ligų sąrašus tvirtina sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras. Pasibaigus šioje dalyje nurodytiems ligos išmokos mokėjimo terminams, toliau išmoka už to paties vaiko, sergančio ypač sunkia ar sunkia liga, slaugymą gali būti mokama ne daugiau kaip 120 dienų per kalendorinius metus.
+5. Turinčiai (-iam) teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui, rūpintojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, slaugančiam (-iai) stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį ypač sunkiomis ligomis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 364 kalendorines dienas, skaičiuojant nuo pirmosios slaugymo dienos. Turinčiai (-iam) teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui, rūpintojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, slaugančiam (-iai) stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį sunkiomis ligomis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 180 kalendorinių dienų, skaičiuojant nuo pirmosios slaugymo dienos. Ypač sunkių ir sunkių ligų sąrašus tvirtina sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras. Pasibaigus šioje dalyje nurodytiems ligos išmokos mokėjimo terminams, toliau išmoka už to paties vaiko, sergančio ypač sunkia ar sunkia liga, slaugymą gali būti mokama ne daugiau kaip 120 dienų per kalendorinius metus.
 
 
 
 
-6. Šiame straipsnyje nurodytais atvejais, kai apdraustojo asmens laikinasis nedarbingumas dėl šeimos nario slaugos ar vaiko priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui, ligos išmoka mokama tik dėl tos ligos ar traumos, dėl kurių yra slaugomas jo šeimos narys ar prižiūrimas vaikas, iki apdraustojo asmens atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos ir ne ilgiau, negu šiame straipsnyje nurodytą laikotarpį.
+6. Šiame straipsnyje nurodytais atvejais, kai apdraustojo asmens laikinasis nedarbingumas dėl šeimos nario slaugos ar vaiko priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui, ligos išmoka mokama tik dėl tos ligos ar traumos, dėl kurių slaugomas jo šeimos narys ar prižiūrimas vaikas, iki apdraustojo asmens atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos ir ne ilgiau negu šiame straipsnyje nurodytą laikotarpį.
+
+
+
+
+7. Šio straipsnio 2, 4 ir 5 dalyse nustatytais atvejais ligos išmoka mokama, jeigu slaugomas vaikas, kurio priežiūrai kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui)) nesuteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, išskyrus atvejus, kai kitas asmuo (motina (tėvas), įmotė (įtėvis) ar globėjas, ar senelė (senelis)), kuriam šio vaiko priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, dėl savo ar kito vaiko (globojamo vaiko), kurio priežiūrai jam suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko slaugyti. Šio straipsnio 2, 4 ir 5 dalyse nustatytais atvejais budinčiam globotojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, slaugančiam sergantį vaiką, ligos išmoka mokama neatsižvelgiant į tai, ar jo priežiūrai kitam asmeniui suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -639,7 +658,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-2. Apdraustiesiems asmenims, gaunantiems valstybinę socialinio draudimo netekto darbingumo (invalidumo) pensiją, ligos išmoka šio įstatymo 5 straipsnio 2 dalies 3 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų mokama šio įstatymo 9 straipsnio 2 dalyje nustatyta tvarka.
+2. Apdraustiesiems asmenims, gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, ligos išmoka šio įstatymo 5 straipsnio 2 dalies 3 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų mokama šio įstatymo 9 straipsnio 2 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2366, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25619
+ 
 
 
 
@@ -652,12 +674,13 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-4. Jeigu vaiko iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomo vaiko, ar neįgalaus asmens, besimokančio pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, lankomoje švietimo įstaigoje nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsiranda būtinybė jį prižiūrėti, ligos išmoka vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar neįgalų asmenį laikinai prižiūrinčiam asmeniui, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų vaiko ar neįgalaus asmens lankomoje švietimo įstaigoje nustatyto infekcijų plitimą ribojančio režimo laikotarpiu pradedama mokėti nuo pirmosios vaiko ar neįgalaus asmens priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Šiame straipsnyje nurodytu atveju, kai apdraustojo asmens laikinasis nedarbingumas dėl vaiko ar neįgalaus asmens priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui, ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama ne ilgiau negu šioje dalyje nurodytą laikotarpį.
+4. Jeigu vaiko iki 8 metų, kol jis nepradėtas ugdyti pagal pradinio ugdymo programą, ar pagal pradinio ugdymo programą ugdomo vaiko, ar pagal formaliojo švietimo programą besimokančio asmens su negalia iki 24 metų lankomoje švietimo įstaigoje nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsiranda būtinybė jį prižiūrėti, ligos išmoka vaiko ar asmens su negalia motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar asmenį su negalia laikinai prižiūrinčiam asmeniui, kai vaikui ar asmeniui su negalia nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų vaiko ar asmens su negalia lankomoje švietimo įstaigoje nustatyto infekcijų plitimą ribojančio režimo laikotarpiu pradedama mokėti nuo pirmosios vaiko ar asmens su negalia priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Šiame straipsnyje nurodytu atveju, kai apdraustojo asmens laikinasis nedarbingumas dėl vaiko ar asmens su negalia priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui, ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama ne ilgiau negu šioje dalyje nurodytą laikotarpį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
  
 
 
@@ -669,9 +692,6 @@ Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
 
 
 1. Ligos išmoka asmeniui, kuris Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vykdydamas savo profesinės veiklos sveikatos, visuomenės saugumo, viešosios tvarkos palaikymo ir (ar) švietimo srityje (srityse) funkcijas, kurias vykdant neišvengiamas (būtinas) kontaktas su pavojinga užkrečiamąja liga sergančiu asmeniu, susirgo liga, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, mokama iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios jo laikinojo nedarbingumo dienos, yra lygi 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodytų aplinkybių buvimas patvirtinamas vadovaujantis Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka Fondo valdybos teritoriniam skyriui darbdavio pateiktu patvirtinimu, kurio formą tvirtina Fondo valdybos direktorius (toliau – Patvirtinimo forma). Jeigu darbdavys Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka Fondo valdybos teritoriniam skyriui nepateikia užpildytos Patvirtinimo formos, šioje dalyje nustatytu atveju, iki Fondo valdybos teritoriniam skyriui darbdavys pateikia užpildytą Patvirtinimo formą, asmeniui skiriama ir mokama šio įstatymo 14 straipsnio 2 dalyje nustatyto dydžio ligos išmoka, o gavus Patvirtinimo formą, paskirta ligos išmoka perskaičiuojama ir jos nepriemoka išmokama Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
- 
 
 
 
@@ -681,62 +701,55 @@ Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
 
 
 
-3. Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu atsiradus būtinybei prižiūrėti vaiką iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomą vaiką, ar neįgalų asmenį, besimokantį pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, ligos išmoka vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar neįgalų asmenį laikinai prižiūrinčiam asmeniui, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko ar neįgalaus asmens priežiūros dienos. Šioje dalyje nustatytos ligos išmokos dydis yra lygus 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodyta ligos išmoka turinčiai (turinčiam) teisę ją gauti motinai (tėvui), įmotei (įtėviui), senelei (seneliui), globėjui, prižiūrinčiam vaiką, kurio priežiūrai kitam asmeniui (motinai (tėvui), įmotei (įtėviui), senelei (seneliui) ar globėjui) suteiktos vaiko priežiūros atostogos, nemokama, išskyrus šio įstatymo 10 straipsnio 3 dalyje nurodytus atvejus.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
- 
+3. Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu atsiradus būtinybei prižiūrėti vaiką iki 8 metų, kol jis nepradėtas ugdyti pagal pradinio ugdymo programą, ar pagal pradinio ugdymo programą ugdomą vaiką, ar pagal formaliojo švietimo programą besimokantį asmenį su negalia iki 24 metų, ligos išmoka vaiko ar asmens su negalia motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar asmenį su negalia laikinai prižiūrinčiam asmeniui, kai vaikui ar asmeniui su negalia nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko ar asmens su negalia priežiūros dienos. Šioje dalyje nustatytos ligos išmokos dydis yra lygus 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodyta ligos išmoka turinčiai (-iam) teisę ją gauti motinai (tėvui), įmotei (įtėviui), senelei (seneliui), globėjui, prižiūrinčiam (-iai) vaiką, kurio priežiūrai kitam asmeniui (motinai (tėvui), įmotei (įtėviui), senelei (seneliui) ar globėjui) suteiktos vaiko priežiūros atostogos, nemokama, išskyrus šio įstatymo 10 straipsnio 3 dalyje nurodytus atvejus.
 
 
 
 
-4. Jeigu dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino sustabdoma nestacionarių socialinių paslaugų įstaigos (dienos centro) veikla, asmeniui su negalia, kuriam toje įstaigoje buvo teikiama dienos ar trumpalaikė socialinė globa, jo motinai (tėvui), įmotei (įtėviui), globėjui (rūpintojui), prižiūrinčiam šioje dalyje nurodytą asmenį su negalia, iš Valstybinio socialinio draudimo fondo lėšų nuo pirmosios asmens su negalia priežiūros dienos mokama 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio ligos išmoka.
+4. Jeigu dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino sustabdoma nestacionarių socialinių paslaugų įstaigos (dienos centro) veikla, asmeniui su negalia, kuriam toje įstaigoje buvo teikiama dienos ar trumpalaikė socialinė globa, jo motinai (tėvui), įmotei (įtėviui), globėjui (rūpintojui), prižiūrinčiam (-iai) šioje dalyje nurodytą asmenį su negalia, iš Valstybinio socialinio draudimo fondo lėšų nuo pirmosios asmens su negalia priežiūros dienos mokama 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio ligos išmoka.
 
 
 
 
-5. Jeigu dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino sustabdoma nestacionarių socialinių paslaugų įstaigos (dienos centro) veikla, Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių (toliau – pensinis amžius) sukakusiam asmeniui, kuriam toje įstaigoje buvo teikiama dienos ar trumpalaikė socialinė globa, jo sutuoktiniui, dukrai (sūnui), įdukrai (įsūniui), globėjui (rūpintojui), prižiūrinčiam šioje dalyje nurodytą pensinį amžių sukakusį asmenį, iš Valstybinio socialinio draudimo fondo lėšų nuo pirmosios pensinį amžių sukakusio asmens priežiūros dienos mokama 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio ligos išmoka.
+5. Jeigu dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino sustabdoma nestacionarių socialinių paslaugų įstaigos (dienos centro) veikla, Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių (toliau – pensinis amžius) sukakusiam asmeniui, kuriam toje įstaigoje buvo teikiama dienos ar trumpalaikė socialinė globa, jo sutuoktiniui, dukrai (sūnui), įdukrai (įsūniui), globėjui (rūpintojui), prižiūrinčiam (-iai) šioje dalyje nurodytą pensinį amžių sukakusį asmenį, iš Valstybinio socialinio draudimo fondo lėšų nuo pirmosios pensinį amžių sukakusio asmens priežiūros dienos mokama 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio ligos išmoka.
 
 
 
 
-6. Ligos išmoka asmeniui, kuris Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu lankėsi užsienio šalyje (šalyse) ir dėl jo lankymosi užsienio šalyje (šalyse) jam taikoma privaloma izoliacija arba jis turėjo sąlytį su pavojinga užkrečiamąja liga sergančiu asmeniu ir jam dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu ar darbdavys jam nepaskelbė prastovos Darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju, mokama iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios jo laikinojo nedarbingumo dienos, yra lygi 62,06 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nustatytais atvejais ligos išmoka mokama asmeniui taikomos privalomos izoliacijos laikotarpiu, bet ne ilgiau kaip 14 kalendorinių dienų, skaičiuojant nuo jo atvykimo iš užsienio šalies į Lietuvos Respubliką dienos arba nuo turėto sąlyčio su pavojinga užkrečiamąja liga sergančiu asmeniu dienos. Ligos išmoka šioje dalyje nustatytais atvejais nemokama, jeigu asmuo į užsienio šalį, kuri jo išvykimo iš Lietuvos Respublikos dieną įtraukta į sveikatos apsaugos ministro patvirtintą užsienio šalių, iš kurių grįžus į Lietuvos Respubliką privaloma izoliacija, sąrašą, išvyko ir joje lankėsi kitais negu profesiniais, tarnybos ir (ar) darbo tikslais.
+6. Ligos išmoka asmeniui, kuris Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu lankėsi užsienio šalyje (šalyse) ir dėl jo lankymosi užsienio šalyje (šalyse) jam taikoma privaloma izoliacija arba kuris turėjo sąlytį su pavojinga užkrečiamąja liga sergančiu asmeniu ir jam dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu ar darbdavys jam nepaskelbė prastovos Darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju, mokama iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios jo laikinojo nedarbingumo dienos, yra lygi 62,06 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nustatytais atvejais ligos išmoka mokama asmeniui taikomos privalomos izoliacijos laikotarpiu, bet ne ilgiau kaip 14 kalendorinių dienų, skaičiuojant nuo jo atvykimo iš užsienio šalies į Lietuvos Respubliką dienos arba nuo turėto sąlyčio su pavojinga užkrečiamąja liga sergančiu asmeniu dienos. Ligos išmoka šioje dalyje nustatytais atvejais nemokama, jeigu asmuo į užsienio šalį, kuri jo išvykimo iš Lietuvos Respublikos dieną įtraukta į sveikatos apsaugos ministro patvirtintą užsienio šalių, iš kurių grįžus į Lietuvos Respubliką privaloma izoliacija, sąrašą, išvyko ir joje lankėsi kitais negu profesiniais, tarnybos ir (ar) darbo tikslais.
 
 
 
 
-7. Jeigu Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vaikas iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomas vaikas, ar neįgalus asmuo, besimokantis pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, lankėsi užsienio šalyje (šalyse) be motinos (įmotės), tėvo (įtėvio), budinčio globotojo, globėjo arba vaiką ar neįgalų asmenį laikinai prižiūrinčio asmens, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, ir dėl jo lankymosi užsienio šalyje (šalyse) jam taikoma privaloma izoliacija arba jis turėjo sąlytį su pavojinga užkrečiamąja liga sergančiu asmeniu, ligos išmoka, vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar neįgalų asmenį laikinai prižiūrinčiam asmeniui, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų vaiko ar neįgalaus asmens privalomos izoliacijos laikotarpiu mokama nuo pirmosios vaiko ar neįgalaus asmens priežiūros dienos, bet ne ilgiau kaip 14 kalendorinių dienų, skaičiuojant atitinkamai nuo vaiko ar neįgalaus asmens atvykimo iš užsienio šalies į Lietuvos Respubliką dienos arba nuo jo turėto sąlyčio su pavojinga užkrečiamąja liga sergančiu asmeniu dienos, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nustatytais atvejais ligos išmoka nemokama, jeigu vaikas iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomas vaikas, ar neįgalus asmuo, besimokantis pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, išvyko į užsienio šalį, kuri jo išvykimo iš Lietuvos Respublikos dieną įtraukta į sveikatos apsaugos ministro patvirtintą užsienio šalių, iš kurių grįžus į Lietuvos Respubliką privaloma izoliacija, sąrašą.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
- 
+7. Jeigu Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vaikas iki 8 metų, kol jis nepradėtas ugdyti pagal pradinio ugdymo programą, ar pagal pradinio ugdymo programą ugdomas vaikas, ar pagal formaliojo švietimo programą besimokantis asmuo su negalia iki 24 metų lankėsi užsienio šalyje (šalyse) be motinos (įmotės), tėvo (įtėvio), budinčio globotojo, globėjo arba vaiką ar asmenį su negalia laikinai prižiūrinčio asmens, kai vaikui ar asmeniui su negalia nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, ir dėl jo lankymosi užsienio šalyje (šalyse) jam taikoma privaloma izoliacija arba jis turėjo sąlytį su pavojinga užkrečiamąja liga sergančiu asmeniu, ligos išmoka, vaiko ar asmens su negalia motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar asmenį su negalia laikinai prižiūrinčiam asmeniui, kai vaikui ar asmeniui su negalia nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų vaiko ar asmens su negalia privalomos izoliacijos laikotarpiu mokama nuo pirmosios jo priežiūros dienos, bet ne ilgiau kaip 14 kalendorinių dienų, skaičiuojant atitinkamai nuo vaiko ar asmens su negalia atvykimo iš užsienio šalies į Lietuvos Respubliką dienos arba nuo jo turėto sąlyčio su pavojinga užkrečiamąja liga sergančiu asmeniu dienos, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nustatytais atvejais ligos išmoka nemokama, jeigu vaikas iki 8 metų, kol jis nepradėtas ugdyti pagal pradinio ugdymo programą, ar pagal pradinio ugdymo programą ugdomas vaikas, ar pagal formaliojo švietimo programą besimokantis asmuo su negalia iki 24 metų išvyko į užsienio šalį, kuri jo išvykimo iš Lietuvos Respublikos dieną įtraukta į sveikatos apsaugos ministro patvirtintą užsienio šalių, iš kurių grįžus į Lietuvos Respubliką privaloma izoliacija, sąrašą.
 
 
 
 
-8. Jeigu Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vaiko iki 8 metų, bet ne ilgiau kaip iki jo ugdymo pagal pradinio ugdymo programą pradžios, ar pagal pradinio ugdymo programą ugdomo vaiko, ar neįgalaus asmens, besimokančio pagal bendrojo ugdymo programą arba jo specialiesiems ugdymosi poreikiams pritaikytą bendrojo ugdymo programą, lankomoje švietimo įstaigoje dėl užkrečiamosios ligos, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsiranda būtinybė jį prižiūrėti, ligos išmoka, vaiko ar neįgalaus asmens motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar neįgalų asmenį laikinai prižiūrinčiam asmeniui, kai vaikui ar neįgaliam asmeniui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis yra laikinai apgyvendinamas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų mokama infekcijų plitimą ribojančio režimo laikotarpiu nuo tokio režimo nustatymo vaiko ar neįgalaus asmens lankomoje švietimo įstaigoje dienos, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
- 
+8. Jeigu Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vaiko iki 8 metų, kol jis nepradėtas ugdyti pagal pradinio ugdymo programą, ar pagal pradinio ugdymo programą ugdomo vaiko, ar pagal formaliojo švietimo programą besimokančio asmens su negalia iki 24 metų lankomoje švietimo įstaigoje dėl užkrečiamosios ligos, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsiranda būtinybė jį prižiūrėti, ligos išmoka, vaiko ar asmens su negalia motinai (tėvui), įmotei (įtėviui), senelei (seneliui), budinčiam globotojui, globėjui arba vaiką ar asmenį su negalia laikinai prižiūrinčiam asmeniui, kai vaikui ar asmeniui su negalia nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, iš Valstybinio socialinio draudimo fondo lėšų mokama infekcijų plitimą ribojančio režimo laikotarpiu nuo tokio režimo nustatymo vaiko ar asmens su negalia lankomoje švietimo įstaigoje dienos, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio.
 
 
 
 
-9. Šio straipsnio 1 dalyje nustatytu atveju asmeniui, turinčiam teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį, ligos išmoka skiriama ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos ir mokama iki jo darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar darbingumo lygio nustatymo dienos. Ligos išmokos šio straipsnio 2 ir 3 dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo 8 straipsnį, skiriamos ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbimo dienos ir mokamos už laikotarpį, ne ilgesnį kaip iki Vyriausybė atšaukia ekstremaliąją situaciją ar karantiną arba sueina bent vieno iš jų paskelbimo terminas. Ligos išmokos šio straipsnio 4–8 dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo 8 straipsnį, skiriamos ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos ir mokamos už laikotarpį, ne ilgesnį kaip iki Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną.
+9. Šio straipsnio 1 dalyje nustatytu atveju asmeniui, turinčiam teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį, ligos išmoka skiriama ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos ir mokama iki jo darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Ligos išmokos šio straipsnio 2 ir 3 dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo 8 straipsnį, skiriamos ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbimo dienos ir mokamos ne ilgiau kaip iki dienos, kurią Vyriausybė atšaukia ekstremaliąją situaciją ar karantiną arba sueina bent vieno iš jų paskelbimo terminas. Ligos išmokos šio straipsnio 4–8 dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo 8 straipsnį, skiriamos ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos ir mokamos ne ilgiau kaip iki dienos, kurią Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną.
 
 
 
 
-10. Šio straipsnio 1 dalyje nustatytu atveju ligos išmoka po asmens, turinčio teisę ją gauti pagal šio įstatymo 8 straipsnį, atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama iki jo darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar darbingumo lygio nustatymo dienos. Ligos išmokos šio straipsnio 2–8 dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo 8 straipsnį, po asmens atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokamos ne ilgiau kaip 5 kalendorines dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po jo atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos.
+10. Šio straipsnio 1 dalyje nustatytu atveju ligos išmoka po asmens, turinčio teisę ją gauti pagal šio įstatymo 8 straipsnį, atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama iki jo darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Ligos išmokos šio straipsnio 2–8 dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo 8 straipsnį, po jų atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokamos ne ilgiau kaip 5 kalendorines dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po jo atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos.
 
 
 
 
-11. Asmenims, turintiems teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį ir gaunantiems valstybinę socialinio draudimo netekto darbingumo (invalidumo) pensiją, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu ligos išmoka šio įstatymo 5 straipsnio 2 dalies 1 punkte ir 111 straipsnio 2 dalyje nustatytais atvejais mokama netaikant šio įstatymo 9 straipsnio 2 dalyje nustatytų apribojimų. Asmenims, turintiems teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį ir gaunantiems valstybinę socialinio draudimo netekto darbingumo (invalidumo) pensiją, Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino laikotarpiu ligos išmoka šio įstatymo 111 straipsnio 1 ir 6 dalyse nustatytais atvejais mokama netaikant šio įstatymo 9 straipsnio 2 dalyje nustatytų apribojimų.
+11. Asmenims, turintiems teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį ir gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu ligos išmoka šio įstatymo 5 straipsnio 2 dalies 1 punkte ir 111 straipsnio 2 dalyje nustatytais atvejais mokama netaikant šio įstatymo 9 straipsnio 2 dalyje nustatytų apribojimų. Asmenims, turintiems teisę gauti ligos išmoką pagal šio įstatymo 8 straipsnį ir gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino laikotarpiu ligos išmoka šio įstatymo 111 straipsnio 1 ir 6 dalyse nustatytais atvejais mokama netaikant šio įstatymo 9 straipsnio 2 dalyje nustatytų apribojimų.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3006, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13045
 Nr. XIII-3305, 2020-09-29, paskelbta TAR 2020-10-09, i. k. 2020-21152
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+Nr. XIV-2367, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25620
  
 
 
@@ -753,7 +766,9 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-2. Apdraustiesiems asmenims, gaunantiems valstybinę socialinio draudimo netekto darbingumo (invalidumo) pensiją, ligos išmoka šio įstatymo 5 straipsnio 2 dalies 4 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų mokama šio įstatymo 9 straipsnio 2 dalyje nustatyta tvarka.
+2. Apdraustiesiems asmenims, gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, ligos išmoka šio įstatymo 5 straipsnio 2 dalies 4 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų mokama šio įstatymo 9 straipsnio 2 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2366, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25619
  
 
 
@@ -1397,7 +1412,10 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 
 
-7. Jeigu apdraustasis asmuo, kuriam paskirta vaiko priežiūros išmoka, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio įstatymo 22 straipsnio 2 ir 4 dalimis, vaiko priežiūros išmokos gavimo metu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo metu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra laikomos draudžiamosiomis pajamomis, arba gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu (toliau kartu šiame straipsnyje – pajamos ir (ar) išmokos), ir jam paskirtos vaiko priežiūros išmokos (bendros šių išmokų sumos) ir atitinkamą mėnesį apskaičiuotų pajamų ir (ar) išmokų suma neviršija arba yra lygi jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, pagal kurį buvo nustatytas vaiko priežiūros išmokos dydis, dydžiui, jam mokama viso dydžio paskirta vaiko priežiūros išmoka. Jeigu apdraustajam asmeniui paskirtos vaiko priežiūros išmokos (bendros šių išmokų sumos) ir atitinkamą mėnesį apskaičiuotų pajamų ir (ar) išmokų suma viršija vidutinio mėnesinio kompensuojamojo uždarbio, pagal kurį buvo nustatytas vaiko priežiūros išmokos dydis, dydį, jam mokamas jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, pagal kurį buvo nustatytas vaiko priežiūros išmokos dydis, ir apskaičiuotų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. 
+7. Jeigu apdraustasis asmuo, kuriam paskirta vaiko priežiūros išmoka, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio įstatymo 22 straipsnio 2 ir 4 dalimis, vaiko priežiūros išmokos gavimo metu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo metu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra laikomos draudžiamosiomis pajamomis, arba gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu (toliau kartu šiame straipsnyje – pajamos ir (ar) išmokos), ir jam paskirtos vaiko priežiūros išmokos (bendros šių išmokų sumos) ir atitinkamą mėnesį apskaičiuotų pajamų ir (ar) išmokų suma neviršija jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo 6 straipsnio 51 dalyje nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, dydžio arba yra jam lygi, jam mokama viso dydžio paskirta vaiko priežiūros išmoka. Jeigu apdraustajam asmeniui paskirtos vaiko priežiūros išmokos (bendros šių išmokų sumos) ir atitinkamą mėnesį apskaičiuotų pajamų ir (ar) išmokų suma viršija jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo 6 straipsnio 51 dalyje nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, dydį, jam mokamas jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo 6 straipsnio 51 dalyje nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, ir apskaičiuotų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
+ 
 
 
 
@@ -1501,7 +1519,9 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-4. Pagrindas skirti profesinės reabilitacijos išmoką yra Neįgalumo ir darbingumo nustatymo tarnybos sprendimas dėl profesinės reabilitacijos paslaugų poreikio nustatymo ir profesinės reabilitacijos pažymėjimas, išduotas vadovaujantis socialinės apsaugos ir darbo ministro tvirtinamomis Profesinės reabilitacijos pažymėjimų išdavimo taisyklėmis.
+4. Pagrindas skirti profesinės reabilitacijos išmoką yra Asmens su negalia teisių apsaugos agentūros sprendimas dėl profesinės reabilitacijos paslaugų poreikio nustatymo ir profesinės reabilitacijos pažymėjimas, išduotas vadovaujantis socialinės apsaugos ir darbo ministro tvirtinamomis Profesinės reabilitacijos pažymėjimų išdavimo taisyklėmis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
  
@@ -1669,7 +1689,10 @@ Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
 
 
 
-5. Permokėtos išmokų sumos, įskaitant atvejus, kai apdraustajam asmeniui ligos išmoka permokama dėl to, kad jam darbingumo lygis, pagal kurį paskiriama ir (ar) mokama socialinio draudimo netekto darbingumo pensija, nustatomas atgaline data, išieškomos Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+5. Permokėtos išmokų sumos, įskaitant atvejus, kai apdraustajam asmeniui ligos išmoka permokama dėl to, kad jam dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygis, pagal kurį paskiriama ir (ar) mokama socialinio draudimo negalios ar netekto darbingumo pensija, nustatomas atgaline data, išieškomos Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2366, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25619
+ 
 
 
 Straipsnio pakeitimai:
@@ -2120,3 +2143,18 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 16 ir 22 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2229, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22374
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5, 16 ir 17 straipsnių pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2366, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25619
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 11, 12 ir 33 straipsnių pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2367, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25620
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 5, 6, 8, 9, 10, 11, 11-1, 16, 18, 19, 21, 24 ir 25 straipsnių pakeitimo įstatymo Nr. XIV-2054 6 ir 9 straipsnių pakeitimo įstatymas
