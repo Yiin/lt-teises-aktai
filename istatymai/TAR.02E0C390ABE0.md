@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/02e0c390abe011eab9d9cd0c85e0b745"
 
 # Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-23
  
 Įstatymas paskelbtas: TAR 2020-06-11, i. k. 2020-12819
  
@@ -28,9 +28,7 @@ VIEŠOJO ADMINISTRAVIMO ĮSTATYMO NR. VIII-1234 PAKEITIMO
 Vilnius
  
  
-
- 
-
+ 
  
 
 
@@ -1999,7 +1997,10 @@ Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
 
 
 
-11. Valstybės ir savivaldybių institucijose ir įstaigose sudaromos valstybės tarnautojų pareigybių vertinimo komisijos, į kurias taip pat įtraukiami toje valstybės ir savivaldybės institucijoje ar įstaigoje veikiančios profesinės sąjungos atstovai ar darbo tarybos atstovai. Šios komisijos ne rečiau kaip kas ketvirtį peržiūri laisvas (neužimtas) atitinkamos valstybės ar savivaldybės institucijos ar įstaigos valstybės tarnautojų pareigybių sąraše esančias pareigybes ir įvertina šioms pareigybėms priskirtas funkcijas ir nustačiusios, kad konkrečiai pareigybei priskirtos funkcijos po šio įstatymo įsigaliojimo nėra laikomos viešuoju administravimu ir nepatenka į kitų Lietuvos Respublikos valstybės tarnybos įstatymo 2 straipsnio 11 dalyje išvardytų funkcijų apimtį, sudaro tokių pareigybių sąrašus ir pateikia juos atitinkamų institucijų ar įstaigų vadovams. Tokios pareigybės turi būti panaikintos ir prireikus funkcijoms atlikti steigiamos darbuotojų, dirbančių pagal darbo sutartis, pareigybės.
+11. Viešojo administravimo subjekte, kurio teisinė forma – biudžetinė įstaiga, sudaroma valstybės tarnautojų pareigybių vertinimo komisija, į kurią įtraukiamas (-i) ir toje biudžetinėje įstaigoje veikiančios profesinės sąjungos ar darbo tarybos atstovas (-ai). Ši komisija, atsižvelgdama į Lietuvos Respublikos vidaus reikalų ministro įsakymu tvirtinamas rekomendacijas, peržiūri biudžetinės įstaigos pareigybių sąraše esančias valstybės tarnautojų pareigybes ir, įvertinusi šioms pareigybėms priskirtas funkcijas, sudaro pareigybių, kurių funkcijos yra priskirtinos vidaus administravimo funkcijoms, sąrašą, ir jį pateikia biudžetinės įstaigos vadovui. Šiame sąraše esančios valstybės tarnautojų pareigybės iki 2025 m. sausio 1 d. turi būti panaikintos arba vietoj jų įsteigtos darbuotojų, dirbančių pagal darbo sutartis, pareigybės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2008, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11586
+ 
 
 
 
@@ -2028,5 +2029,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 1 ir 2 straipsnių pakeitimo įstatymas
  
- 
-part_22217a400afd414db9dc7e08370b0d48_end
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2008, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11586
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 2 straipsnio pakeitimo įstatymas
