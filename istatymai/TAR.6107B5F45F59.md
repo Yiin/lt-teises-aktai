@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6107B5F45F59"
 
 # Lietuvos Respublikos tautinio paveldo produktų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3043, i. k. 1071010ISTA00X-1207
  
@@ -224,9 +224,10 @@ Tautinio paveldo produktų valstybinę apsaugą užtikrina šios institucijos:
 
 
 
-2) Lietuvos Respublikos žemės ūkio ministerija (toliau – Žemės ūkio ministerija) ir viešoji įstaiga Kaimo verslo ir rinkų plėtros agentūra (toliau – Agentūra); 
+2) Lietuvos Respublikos žemės ūkio ministerija ir Žemės ūkio agentūra prie Žemės ūkio ministerijos (toliau – Agentūra);
 Straipsnio punkto pakeitimai:
 Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
+Nr. XIV-2062, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12743
  
 
 
@@ -966,3 +967,8 @@ Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 11 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
 Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 4, 6, 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2062, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12743
+Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 5 straipsnio pakeitimo įstatymas
