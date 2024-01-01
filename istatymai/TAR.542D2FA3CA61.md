@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.542D2FA3CA61"
 
 # Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1728, i. k. 0981010ISTAVIII-792
  
@@ -170,9 +170,10 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 8 straipsnis. Atlyginimo už valstybės išperkamą išlikusį nekilnojamąjį turtą pinigais tvarka
 
 
-1. Piniginės kompensacijos už valstybės išperkamą išlikusį nekilnojamąjį turtą išmokamos ir piliečių sąrašai kompensacijoms mokėti sudaromi Vyriausybės nustatyta tvarka. Piliečių sąrašus kompensacijoms už išperkamą žemę, mišką ir vandens telkinius tvirtina Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovas arba jo įgaliotas teritorinio padalinio vadovas. Piliečių sąrašus kompensacijoms už išperkamus ūkinės komercinės paskirties pastatus, gyvenamuosius namus, jų dalis, butus tvirtina savivaldybių administracijų direktoriai.
+1. Piniginės kompensacijos už valstybės išperkamą išlikusį nekilnojamąjį turtą išmokamos ir piliečių sąrašai kompensacijoms mokėti sudaromi Vyriausybės nustatyta tvarka. Piliečių sąrašus kompensacijoms už išperkamą žemę, mišką ir vandens telkinius tvirtina Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovas arba jo įgaliotas administracijos padalinio vadovas. Piliečių sąrašus kompensacijoms už išperkamus ūkinės komercinės paskirties pastatus, gyvenamuosius namus, jų dalis, butus tvirtina savivaldybių merai ar jų įgalioti savivaldybių administracijų direktoriai.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1324, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15652
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
  
 
 
@@ -198,7 +199,10 @@ Nr. XI-2409, 2012-11-13, Žin., 2012, Nr. 136-6963 (2012-11-24)
 9 straipsnis. Valstybės garantijos sugrąžintų natūra gyvenamųjų namų, jų dalių, butų nuomininkams ir savininkams, šių garantijų įvykdymo tvarka ir sąlygos, garantijų turėtojų teisės ir pareigos
 
 
-1. Savivaldybės administracijos direktorius savininkams ir nuomininkams, gyvenantiems savininkui (piliečiui, religinei bendruomenei ar bendrijai) grąžintame gyvenamajame name, jo dalyje, bute, privalo išduoti valstybės garantinį dokumentą (toliau – valstybės garantija).
+1. Savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius savininkams ir nuomininkams, gyvenantiems savininkui (piliečiui, religinei bendruomenei ar bendrijai) grąžintame gyvenamajame name, jo dalyje, bute, privalo išduoti valstybės garantinį dokumentą (toliau – valstybės garantija). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+ 
 
 
 
@@ -238,17 +242,26 @@ Nr. XI-2409, 2012-11-13, Žin., 2012, Nr. 136-6963 (2012-11-24)
 
 
 
-3. Piliečiui, religinei bendruomenei ar bendrijai natūra grąžinto gyvenamojo namo, jo dalies ar buto nuomininkai turi teisę tik į vieną iš šio straipsnio 2 dalyje nurodytų garantijų. Savo valią dėl valstybės garantijos pasirinkimo nuomininkai pareiškia raštu per mėnesį nuo savivaldybės administracijos direktoriaus pranešimo gavimo dienos. Jeigu nuomininkai per šį laiką nepareiškia savo valios dėl valstybės garantijos pasirinkimo, išduodama šio straipsnio 2 dalies 5 punkte nurodyta garantija.
+3. Piliečiui, religinei bendruomenei ar bendrijai natūra grąžinto gyvenamojo namo, jo dalies ar buto nuomininkai turi teisę tik į vieną iš šio straipsnio 2 dalyje nurodytų garantijų. Savo valią dėl valstybės garantijos pasirinkimo nuomininkai pareiškia raštu per mėnesį nuo savivaldybės mero ar jo įgalioto savivaldybės administracijos direktoriaus pranešimo gavimo dienos. Jeigu nuomininkai per šį laiką nepareiškia savo valios dėl valstybės garantijos pasirinkimo, išduodama šio straipsnio 2 dalies 5 punkte nurodyta garantija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+ 
 
 
 
 
-4. Savivaldybės administracijos direktorius kartu privalo išduoti valstybės garantiją ir sugrąžinto gyvenamojo namo, jo dalies, buto savininkui.
+4. Savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius privalo išduoti valstybės garantiją ir sugrąžinto gyvenamojo namo, jo dalies, buto savininkui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+ 
 
 
 
 
-5. Valstybės garantija nuomininkui – tai Vyriausybės nustatytos formos dokumentas, kuriuo valstybė (garantas) įsipareigoja grąžinto namo, jo dalies, buto nuomininkui ir jo šeimos nariams (toliau – garantijos turėtojai) įvykdyti garantiją, nurodytą šio straipsnio 2 dalyje, o garantijos turėtojai įsipareigoja, kai bus įvykdyta garantija, patuštinti turėtas gyvenamąsias ir kitas patalpas per šio straipsnio 12 dalyje nustatytą laiką. Valstybės garantijoje nuomininkui ir jo šeimos nariams turi būti nurodyta: valstybės garantijos išdavimo vieta, data, numeris, ją išdavusios savivaldybės administracijos pavadinimas, sprendimą atkurti nuosavybės teises priėmusi institucija, sprendimo data ir numeris, nuomojamų gyvenamųjų patalpų adresas ir jų rinkos vertė, garantas, garantijos turėtojas (turėtojai) ir jo asmens kodas (kodai), viena iš šio straipsnio 2 dalyje nurodytų garantijų ir šio straipsnio 11 dalyje nurodyta įvykdymo data, garantijos turėtojų įsipareigojimas, kai bus įvykdyta garantija, patuštinti turimas gyvenamąsias ir kitas patalpas, taip pat nurodoma, kad valstybės garantija pasibaigia perleidus iš jos atsirandančią reikalavimo teisę, ją pasirašiusio asmens vardas, pavardė, pareigos, savivaldybės administracijos antspaudas. Šią garantiją pasirašo garantijos turėtojai – nuomininkas ir jo šeimos nariai. Jeigu nuomininkas ir jo šeimos nariai nepasirašo arba atsisako pasirašyti valstybės garantiją, savivaldybės administracijos direktorius arba jo įgaliotas asmuo valstybės garantijos dokumente įrašo ir savo parašu patvirtina atitinkamą žymą.
+5. Valstybės garantija nuomininkui – Vyriausybės nustatytos formos dokumentas, kuriuo valstybė (garantas) įsipareigoja grąžinto namo, jo dalies, buto nuomininkui ir jo šeimos nariams (toliau – garantijos turėtojai) įvykdyti garantiją, nurodytą šio straipsnio 2 dalyje, o garantijos turėtojai įsipareigoja, kai bus įvykdyta garantija, patuštinti turėtas gyvenamąsias ir kitas patalpas per šio straipsnio 12 dalyje nustatytą laiką. Valstybės garantijoje nuomininkui ir jo šeimos nariams turi būti nurodyta: valstybės garantijos išdavimo vieta, data, numeris, sprendimą atkurti nuosavybės teises priėmusi institucija, sprendimo data ir numeris, nuomojamų gyvenamųjų patalpų adresas ir jų rinkos vertė, garantas, garantijos turėtojas (turėtojai) ir jo (jų) asmens kodas (kodai), viena iš šio straipsnio 2 dalyje nurodytų garantijų ir šio straipsnio 11 dalyje nurodyta įvykdymo data, garantijos turėtojų įsipareigojimas, kai bus įvykdyta garantija, patuštinti turimas gyvenamąsias ir kitas patalpas, taip pat nurodoma, kad valstybės garantija pasibaigia perleidus iš jos atsirandančią reikalavimo teisę, ją pasirašiusio asmens vardas, pavardė, pareigos. Šią garantiją pasirašo garantijos turėtojai – nuomininkas ir jo šeimos nariai. Jeigu nuomininkas ir jo šeimos nariai nepasirašo valstybės garantijos arba atsisako ją pasirašyti, savivaldybės meras arba jo įgaliotas savivaldybės administracijos direktorius valstybės garantijos dokumente įrašo reikiamą žymą ir pasirašo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+ 
 
 
 
@@ -258,9 +271,10 @@ Nr. XI-2409, 2012-11-13, Žin., 2012, Nr. 136-6963 (2012-11-24)
 
 
 
-7. Valstybės garantijos turėtojui mirus, kol garantija neįvykdyta, reikalavimo teisė, atsirandanti iš valstybės garantijos, paveldima Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Paveldėjus iš valstybės garantijos atsirandančią reikalavimo teisę, valstybės garantijoje numatytas valstybės įsipareigojimas, kuris buvo suteiktas mirusiam garantijos turėtojui, įgyvendinamas įpėdiniams, kai valstybės garantiją išdavusiai savivaldybės vykdomajai institucijai įpėdinis (garantijos įgijėjas) pateikia paveldėjimo teisės į garantijos turėtojo reikalavimo teisę, atsirandančią iš valstybės garantijos, notaro patvirtintą liudijimo nuorašą. Savivaldybės vykdomoji institucija, išdavusi valstybės garantiją, paveldėjimo teisės liudijimo nuorašo pagrindu patikslina valstybės garantiją, nurodydama naujo garantijos turėtojo (asmens, paveldėjusio reikalavimo teisę, atsirandančią iš valstybės garantijos) duomenis.
+7. Valstybės garantijos turėtojui mirus, kol garantija neįvykdyta, reikalavimo teisė, atsirandanti iš valstybės garantijos, paveldima Lietuvos Respublikos civilinio kodekso nustatyta tvarka. Paveldėjus iš valstybės garantijos atsirandančią reikalavimo teisę, valstybės garantijoje numatytas valstybės įsipareigojimas, kuris buvo suteiktas mirusiam garantijos turėtojui, įgyvendinamas įpėdiniams, kai valstybės garantiją išdavusiam savivaldybės merui ar jo įgaliotam savivaldybės administracijos direktoriui įpėdinis (garantijos įgijėjas) pateikia paveldėjimo teisės į garantijos turėtojo reikalavimo teisę, atsirandančią iš valstybės garantijos, notaro patvirtintą liudijimo nuorašą. Savivaldybės meras ar jo įgaliotas administracijos direktorius, išdavęs valstybės garantiją, paveldėjimo teisės liudijimo nuorašo pagrindu patikslina valstybės garantiją, nurodydamas naujo garantijos turėtojo (asmens, paveldėjusio reikalavimo teisę, atsirandančią iš valstybės garantijos) duomenis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1188, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09344
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
  
 
 
@@ -275,7 +289,10 @@ Nr. XIII-1188, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09344
 
 
 
-8. Garantijos turėtojai turi teisę reikalavimo teisę, atsirandančią iš valstybės garantijos, perleisti kitiems asmenims. Garantijos turėtojai kartu su reikalavimo teisės, atsirandančios iš valstybės garantijos, perleidimo sutartimi perduoda ir dokumentus, patvirtinančius reikalavimo teisę. Teisė į valstybės garantijoje numatytus valstybės įsipareigojimus, kurie buvo suteikti garantijos turėtojui, gyvenančiam savininkams grąžintuose gyvenamuosiuose namuose, jų dalyse, butuose, asmeniui, įgijusiam reikalavimo teisę, atsirandančią iš valstybės garantijos, yra įgyvendinama pagal šio įstatymo 9 straipsnio 11 dalį, kai valstybės garantiją išdavusiai savivaldybei asmuo, įgijęs reikalavimo teisę, atsirandančią iš valstybės garantijos, pateikia nuomininko reikalavimo teisės, atsirandančios iš valstybės garantijos, perleidimo sutarties kopiją. Savivaldybės administracijos direktorius, išdavęs valstybės garantiją, valstybės garantijos perleidimo sutarties kopijos pagrindu patikslina valstybės garantiją, nurodydamas naujo garantijos turėtojo (asmens, įgijusio reikalavimo teisę, atsirandančią iš valstybės garantijos) duomenis. Valstybės garantija garantijos turėtojui, perleidusiam reikalavimo teisę, atsirandančią iš valstybės garantijos, laikoma pasibaigusia nuo reikalavimo teisės, atsirandančios iš valstybės garantijos, perleidimo. Nuomininkas, perleidęs reikalavimo teisę, atsirandančią iš valstybės garantijos, privalo per 2 mėnesius išsikelti iš turėtų gyvenamųjų ir kitų patalpų. Neišsikėlusieji iš jų iškeldinami teismo tvarka ir kita gyvenamoji patalpa jiems nesuteikiama.
+8. Garantijos turėtojai turi teisę reikalavimo teisę, atsirandančią iš valstybės garantijos, perleisti kitiems asmenims. Garantijos turėtojai kartu su reikalavimo teisės, atsirandančios iš valstybės garantijos, perleidimo sutartimi perduoda ir dokumentus, patvirtinančius reikalavimo teisę. Teisė į valstybės garantijoje numatytus valstybės įsipareigojimus, kurie buvo suteikti garantijos turėtojui, gyvenančiam savininkams grąžintuose gyvenamuosiuose namuose, jų dalyse, butuose, asmeniui, įgijusiam reikalavimo teisę, atsirandančią iš valstybės garantijos, yra įgyvendinama pagal šio įstatymo 9 straipsnio 11 dalį, kai valstybės garantiją išdavusiai savivaldybei asmuo, įgijęs reikalavimo teisę, atsirandančią iš valstybės garantijos, pateikia nuomininko reikalavimo teisės, atsirandančios iš valstybės garantijos, perleidimo sutarties kopiją. Savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius, išdavę valstybės garantiją, valstybės garantijos perleidimo sutarties kopijos pagrindu patikslina valstybės garantiją įrašydami naujo garantijos turėtojo (asmens, įgijusio reikalavimo teisę, atsirandančią iš valstybės garantijos) duomenis. Valstybės garantija garantijos turėtojui, perleidusiam reikalavimo teisę, atsirandančią iš valstybės garantijos, laikoma pasibaigusia nuo reikalavimo teisės, atsirandančios iš valstybės garantijos, perleidimo. Nuomininkas, perleidęs reikalavimo teisę, atsirandančią iš valstybės garantijos, privalo per 2 mėnesius išsikelti iš turėtų gyvenamųjų ir kitų patalpų. Neišsikėlusieji iš jų iškeldinami teismo tvarka ir kita gyvenamoji patalpa jiems nesuteikiama. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+ 
 
 
 
@@ -295,12 +312,18 @@ Nr. XIII-1188, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09344
 
 
 
-12. Valstybės garantijos galiojimo laikas pasibaigia, kai ji įvykdoma. Pasibaigus valstybės garantijai, šio straipsnio 2 dalies 1, 2, 3, 5, 6 punktuose nurodytų garantijų turėtojai per 4 mėnesius, o šio straipsnio 2 dalies 1 punkte nurodytos garantijos turėtojas, įsigyjantis gyvenamąsias patalpas statomame name, – per 6 mėnesius privalo patuštinti turėtas gyvenamąsias ir kitas patalpas. Šio straipsnio 2 dalies 4 punkte nurodytos garantijos turėtojai per 2 metus privalo patuštinti turėtas gyvenamąsias ir kitas patalpas. Nuomininkai, neįvykdę šios sąlygos, iškeldinami iš turėtų gyvenamųjų patalpų vadovaujantis Civilinio kodekso 6.613 straipsniu. Kai sugrąžinto gyvenamojo namo, jo dalies ar buto nuomininkai patuština turėtas gyvenamąsias ir kitas patalpas ar nuomininkai iškeldinami iš jų, savivaldybės administracijos direktorius privalo šias patalpas per vieną mėnesį Vyriausybės nustatyta tvarka perduoti šio gyvenamojo namo, jo dalies ar buto savininkui (savininkams).
+12. Įvykdžius valstybės garantiją, jos galiojimas baigiasi. Pasibaigus valstybės garantijai, šio straipsnio 2 dalies 1, 2, 3, 5, 6 punktuose nurodytų garantijų turėtojai per 4 mėnesius, o šio straipsnio 2 dalies 1 punkte nurodytos garantijos turėtojas, įsigyjantis gyvenamąsias patalpas statomame name, per 6 mėnesius privalo patuštinti turėtas gyvenamąsias ir kitas patalpas. Šio straipsnio 2 dalies 4 punkte nurodytos garantijos turėtojai per 2 metus privalo patuštinti turėtas gyvenamąsias ir kitas patalpas. Nuomininkai, neįvykdę šios sąlygos, iškeldinami iš turėtų gyvenamųjų patalpų vadovaujantis Civilinio kodekso 6.613 straipsniu. Kai sugrąžinto gyvenamojo namo, jo dalies ar buto nuomininkai patuština turėtas gyvenamąsias ir kitas patalpas arba nuomininkai iškeldinami iš jų, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius privalo šias patalpas per vieną mėnesį Vyriausybės nustatyta tvarka perduoti šio gyvenamojo namo, jo dalies ar buto savininkui (savininkams). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+ 
 
 
 
 
-13. Valstybės garantija savininkui laikoma įvykdyta nuo gyvenamojo namo, jo dalies, buto perdavimo savininkui ir perdavimo–priėmimo akto pasirašymo. Perdavimo–priėmimo aktą pasirašo savininkas (savininkai) ir garantiją išdavęs savivaldybės administracijos direktorius.
+13. Valstybės garantija savininkui laikoma įvykdyta nuo gyvenamojo namo, jo dalies, buto perdavimo savininkui ir perdavimo–priėmimo akto pasirašymo. Perdavimo–priėmimo aktą pasirašo savininkas (savininkai) ir garantiją išdavęs savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+ 
 
 
 
@@ -330,14 +353,18 @@ Nr. XI-913, 2010-06-18, Žin., 2010, Nr. 72-3617 (2010-06-22)
 10 straipsnis. Atlyginimo už žemę, mišką padidinimo tvarka
 
 
-1. Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą įstatymo 4 straipsnio 8 dalyje nurodytiems piliečiams siūlomo lygiaverčio turėtajam žemės sklypo plotas gali būti iki 30 arba iki 100 procentų padidintas Vyriausybės nustatyta tvarka Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu.
+1. Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą įstatymo 4 straipsnio 8 dalyje nurodytiems piliečiams siūlomo lygiaverčio turėtajam žemės sklypo plotas gali būti iki 30 arba iki 100 procentų padidintas Vyriausybės nustatyta tvarka Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovo arba jo įgalioto administracijos padalinio vadovo sprendimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+ 
 
 
 
 
-2. Lietuvos Respublikos piliečiams 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), kuriems atkurtos arba atkuriamos nuosavybės teisės į žemę, priskirtą valstybės išperkamai žemei ir naudojamą asmeniniam arba valstiečių ūkiui, tarnybinėms daloms, Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovo arba jo įgalioto teritorinio padalinio vadovo sprendimu atlyginimo dydis pinigais padidinamas 15 procentų.
+2. Lietuvos Respublikos piliečiams 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ir Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), kuriems atkurtos arba atkuriamos nuosavybės teisės į žemę, priskirtą valstybės išperkamai žemei ir naudojamą asmeniniam arba valstiečių ūkiui, tarnybinėms daloms, Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovo arba jo įgalioto administracijos padalinio vadovo sprendimu atlyginimo dydis pinigais padidinamas 15 procentų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1324, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15652
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
  
 
 
@@ -470,3 +497,8 @@ Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį tu
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1324, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15652
 Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo Nr. VIII-792 8 ir 10 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2131, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14322
+Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo Nr. VIII-792 8, 9 ir 10 straipsnių pakeitimo įstatymas
