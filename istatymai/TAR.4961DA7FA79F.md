@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-09
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
  
@@ -43,7 +43,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo nuostatos taikomos transporto priemonėms – kiekvienai privalomai registruoti važiuoti žeme skirtai motorinei transporto priemonei, traktoriui ir savaeigei mašinai, kurių didžiausias projektinis greitis yra daugiau kaip 25 km/h arba kurių didžiausias grynasis svoris – daugiau kaip 25 kg, o didžiausias projektinis greitis – daugiau kaip 14 km/h, taip pat priekaboms ir puspriekabėms, išskyrus bėgines transporto priemones. Šis įstatymas taip pat taikomas ir pirmiau nurodytus kriterijus atitinkančioms neregistruotinoms transporto priemonėms – motorinėms transporto priemonėms, traktoriams ir savaeigėms mašinoms, kurių privaloma registracija pagal Lietuvos Respublikos teisės aktus, reglamentuojančius transporto priemonių registravimą, nėra numatyta. Neįgaliojo vežimėlis pagal šio įstatymo nuostatas nelaikomas transporto priemone.
+2. Šio įstatymo nuostatos taikomos transporto priemonėms – kiekvienai privalomai registruoti važiuoti žeme skirtai motorinei transporto priemonei, traktoriui ir savaeigei mašinai, kurios didžiausias projektinis greitis yra daugiau kaip 25 km/h arba kurios didžiausias grynasis svoris – daugiau kaip 25 kg, o didžiausias projektinis greitis – daugiau kaip 14 km/h, taip pat priekaboms ir puspriekabėms, išskyrus bėgines transporto priemones. Šis įstatymas taip pat taikomas ir pirmiau nurodytus kriterijus atitinkančioms neregistruotinoms transporto priemonėms – motorinėms transporto priemonėms, traktoriams ir savaeigėms mašinoms, kurių privaloma registracija pagal Lietuvos Respublikos teisės aktus, reglamentuojančius transporto priemonių registravimą, nėra numatyta. Vežimėlis, skirtas asmeniui su negalia, pagal šio įstatymo nuostatas nelaikomas transporto priemone. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
+ 
 
 
 
@@ -798,7 +801,10 @@ III SKYRIUS
 
 
 
-7. Nukentėjęs trečiasis asmuo turi teisę pateikti pretenzijas dėl padarytos žalos atsakingam draudikui arba šio įstatymo 17 straipsnyje nurodytais atvejais – Biurui dėl patirtos neturtinės žalos. Teisę į neturtinės žalos atlyginimą turi ir asmenys, nurodyti šio straipsnio 5 dalyje. Atsakingas draudikas ar Biuras, nustatydamas atlygintinos neturtinės žalos dydį, vadovaujasi kompetentingų subjektų išduotais dokumentais, kuriais įrodoma laikinojo nedarbingumo trukmė, darbingumo ar neįgalumo lygis, sužalojimo pasekmės, mirties faktas ir priežastys, kitais įrodymais. Atlygintinos neturtinės žalos dydis nustatomas atsižvelgiant į sveikatos sutrikdymo mastą ir kitus neturtinės žalos dydžiui nustatyti reikšmingus kriterijus. Jeigu atsakingas draudikas ar Biuras ir nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, nesutaria dėl neturtinės žalos atlyginimo dydžio, nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, turi teisę kreiptis į teismą.
+7. Nukentėjęs trečiasis asmuo turi teisę pateikti pretenzijas dėl padarytos žalos atsakingam draudikui arba šio įstatymo 17 straipsnyje nurodytais atvejais – Biurui dėl patirtos neturtinės žalos. Teisę į neturtinės žalos atlyginimą turi ir asmenys, nurodyti šio straipsnio 5 dalyje. Atsakingas draudikas ar Biuras, nustatydamas atlygintinos neturtinės žalos dydį, vadovaujasi kompetentingų subjektų išduotais dokumentais, kuriais įrodoma laikinojo nedarbingumo trukmė, dalyvumo ar neįgalumo lygis, sužalojimo pasekmės, mirties faktas ir priežastys, kitais įrodymais. Atlygintinos neturtinės žalos dydis nustatomas atsižvelgiant į sveikatos sutrikdymo mastą ir kitus neturtinės žalos dydžiui nustatyti reikšmingus kriterijus. Jeigu atsakingas draudikas ar Biuras ir nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, nesutaria dėl neturtinės žalos atlyginimo dydžio, nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, turi teisę kreiptis į teismą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2388, 2023-12-19, paskelbta TAR 2023-12-21, i. k. 2023-24949
+ 
 
 
 
