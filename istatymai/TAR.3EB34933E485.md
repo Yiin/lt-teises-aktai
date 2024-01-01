@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2023-05-24 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -248,26 +248,27 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 33. Pagal šį Įstatymą Europos Sąjungos muitų teisės aktais laikomi:
 
 
-1) 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2016 m. birželio 28 d. Komisijos įgyvendinimo reglamentu (ES) 2016/1047 (OL 2016 L 170, p. 36);
+1) 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei dėl Bendrojo muitų tarifo su visais pakeitimais;
 
 
 
 
-2) 2009 m. lapkričio 16 d. Tarybos reglamentas (EB) Nr. 1186/2009, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2009 L 324, p. 23), ir jo taikymą reglamentuojantys Europos Sąjungos teisės aktai;
+2) 2009 m. lapkričio 16 d. Tarybos reglamentas (EB) Nr. 1186/2009, nustatantis Bendrijos atleidimo nuo muitų sistemą, ir jo taikymą reglamentuojantys Europos Sąjungos teisės aktai;
 
 
 
 
-3) 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1) (toliau – Sąjungos muitinės kodeksas), ir jį papildantys bei įgyvendinantys Europos Sąjungos teisės aktai;
+3) 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, su visais pakeitimais ir jį papildantys bei įgyvendinantys Europos Sąjungos teisės aktai;
 
 
 
 
-4) tarptautiniai susitarimai, kuriuos yra sudariusi arba prie jų prisijungusi Europos Sąjunga, reglamentuojantys prekių įvežimo į Europos Sąjungos muitų teritoriją ir (arba) išvežimo iš jos tvarką bei importo ir (arba) eksporto muitų taikymo tvarką.
+4) tarptautiniai susitarimai, kuriuos yra sudariusi arba prie kurių yra prisijungusi Europos Sąjunga, reglamentuojantys prekių įvežimo į Europos Sąjungos muitų teritoriją ir (arba) išvežimo iš jos tvarką bei importo ir (arba) eksporto muitų taikymo tvarką. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
+Nr. XIV-761, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26591
  
 
 
@@ -907,18 +908,10 @@ Valstybinę mokesčių inspekciją sudaro:
 
 
 
-22 straipsnis. Valstybinės mokesčių inspekcijos valstybės tarnautojai
-
-
-1. Valstybinės mokesčių inspekcijos valstybės tarnautojus Valstybės tarnybos įstatymo nustatyta tvarka į pareigas priima ir iš jų atleidžia tos mokesčių inspekcijos, į kurią jie priimami, viršininkas. 
-
-
-
-
-2. Valstybinės mokesčių inspekcijos valstybės tarnautojų darbo ir apmokėjimo sąlygas, socialines garantijas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir įstatymų lydimieji teisės aktai.
+22 straipsnis. Neteko galios nuo 2024-01-01
+Straipsnio naikinimas:
+Nr. XIV-2005, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11582
  
-
-
 
 
 
@@ -2095,7 +2088,10 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju 1
 
 
 
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso 961, 99, 127, 132, 134, 137, 143, 150, 151, 158, 159, 160, 162, 163, 164, 165, 166, 167, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 1883, 190, 192, 193, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505 straipsniuose. 
+4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso 961, 99, 127, 132, 134, 137, 143, 150, 151, 158, 159, 160, 162, 163, 164, 165, 166, 167, 170, 171, 172, 173, 174, 176, 187, 188, 1881, 1883, 1884, 190, 192, 193, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505 straipsniuose.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1950, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09694
+ 
 
 
 
@@ -2834,6 +2830,59 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
 
 
+614 straipsnis. Duomenų apie tarptautines mokėjimo operacijas kaupimas, saugojimas ir teikimas
+
+
+1. Lietuvos Respublikoje mokėjimo paslaugas teikiantys mokėjimo paslaugų teikėjai privalo kaupti ir saugoti per juos vykdytų tarptautinių mokėjimo operacijų įrašus (toliau šiame straipsnyje – mokėjimo įrašas) ir mokėjimo įrašų duomenis pateikti Valstybinei mokesčių inspekcijai. Reikalavimas mokėtojo mokėjimo paslaugų teikėjui kaupti ir saugoti mokėjimo įrašus netaikomas, kai atliekant tarptautinę mokėjimo operaciją vienareikšmiškai identifikuojamas gavėjo mokėjimo paslaugų teikėjas ir jo vieta ir nustatoma, kad bent vieno gavėjo mokėjimo paslaugų teikėjo vieta yra kitoje valstybėje narėje. Šiuo atveju pareiga kaupti ir saugoti mokėjimo įrašus tenka gavėjo mokėjimo paslaugų teikėjui, kurio vieta yra kitoje valstybėje narėje. Kai mokėjimo paslaugų teikėjas, kurio buveinė yra Lietuvos Respublikoje, tarptautines mokėjimo operacijas vykdo kitose valstybėse narėse, jo kaupiami ir saugomi mokėjimo įrašų duomenys turi būti prieinami tos valstybės narės mokesčių administratoriui.
+
+
+
+
+2. Šiame straipsnyje:
+
+
+1) mokėjimo paslaugų teikėjais laikomos Mokėjimų įstatymo 6 straipsnio 1–4 punktuose nurodytos įstaigos, teikiančios bent vieną iš Mokėjimų įstatymo 5 straipsnio 3–6 punktuose nurodytų mokėjimo paslaugų ir vykdančios tarptautines mokėjimo operacijas;
+
+
+
+
+2) gavėjas ir mokėtojas suprantami taip, kaip jie apibrėžti Mokėjimų įstatyme;
+
+
+
+
+3) mokėjimo operacija suprantama kaip mokėjimo operacija ir pinigų perlaidos, kaip jos apibrėžtos Mokėjimų įstatyme, išskyrus Mokėjimų įstatymo 3 straipsnio 5 dalyje nustatytas išimtis;
+
+
+
+
+4) tarptautine mokėjimo operacija laikoma mokėjimo operacija, kai mokėtojas yra vienoje valstybėje narėje, o gavėjas – kitoje valstybėje narėje, trečiojoje teritorijoje ar trečiojoje valstybėje, kaip jos apibrėžtos Pridėtinės vertės mokesčio įstatyme.
+
+
+
+
+
+
+3. Pareiga kaupti ir saugoti mokėjimo įrašus ir teikti duomenis atsiranda, kai mokėjimo paslaugų teikėjas per kalendorinį ketvirtį tam pačiam gavėjui vykdo daugiau negu 25 tarptautines mokėjimo operacijas.
+
+
+
+
+4. Mokėjimo įrašus privaloma saugoti 3 kalendorinius metus nuo kalendorinių metų, kuriais įvykdyta tarptautinė mokėjimo operacija, pabaigos.
+
+
+
+
+5. Centrinis mokesčių administratorius detalizuoja šiame straipsnyje nustatytus reikalavimus: nustato pateikiamų duomenų turinį, duomenų saugojimo ir pateikimo formą, terminus ir tvarką; mokėjimo operacijos priskyrimo tarptautinei mokėjimo operacijai požymius; mokėtojo ir gavėjo vietos nustatymo taisykles; pateiktų duomenų kaupimo ir saugojimo Valstybinėje mokesčių inspekcijoje tvarką ir terminus; duomenų įkėlimo į centrinę elektroninę mokėjimo informacinę sistemą, kaip tai nurodyta 2020 m. vasario 18 d. Tarybos reglamente (ES) 2020/283, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 904/2010, kiek tai susiję su priemonėmis, kuriomis stiprinamas administracinis bendradarbiavimas kovojant su sukčiavimu PVM, tvarką.
+
+
+Papildyta straipsniu:
+Nr. XIV-1659, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26363
+ 
+
+
+
+
 62 straipsnis. Nurodymo pašalinti aplinkybes ir sąlygas, trukdančias mokesčių administratoriui tinkamai atlikti funkcijas, vykdymas
 
 
@@ -3309,9 +3358,10 @@ MOKESTINĖ PRIEVOLĖ
 
 
 
-4. Muitinės administruojamus papildomai apskaičiuotus mokesčius ir su jais susijusias sumas mokesčių mokėtojas privalo sumokėti Sąjungos muitinės kodekse nustatytais muitų mokėjimo terminais. Muitinės administruojamų mokesčių (įskaitant papildomai apskaičiuotus mokesčius) ir su jais susijusių sumų mokėjimo tvarką nustato Vyriausybė, jeigu įstatymai nenustato kitaip.
+4. Muitinės administruojamus papildomai apskaičiuotus mokesčius ir su jais susijusias sumas mokesčių mokėtojas privalo sumokėti Reglamente (ES) Nr. 952/2013 nustatytais muitų mokėjimo terminais. Muitinės administruojamų mokesčių (įskaitant papildomai apskaičiuotus mokesčius) ir su jais susijusių sumų mokėjimo tvarką nustato Vyriausybė, jeigu įstatymai nenustato kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
+Nr. XIV-761, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26591
  
 
 
@@ -5841,7 +5891,10 @@ Nr. XIII-1156, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08528
 
 
 
-6. Komisijos narių darbas Komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Komisijos narys pareigas gali eiti tik Komisijoje, taip pat dirbti mokslinį arba pedagoginį darbą.
+6. Komisijos narys pareigas gali eiti tik Komisijoje, taip pat dirbti mokslinį arba pedagoginį darbą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2005, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11582
+ 
 
 
 
@@ -5851,7 +5904,10 @@ Nr. XIII-1156, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08528
 
 
 
-8. Komisijos funkcijoms atlikti sudaroma valstybės tarnautojų ir darbuotojų administracija. Jos struktūrą ir pareigybių sąrašą, neviršydamas lėšų, patvirtintų darbo užmokesčiui, tvirtina Komisijos pirmininkas. Komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, Darbo kodeksas, kiti įstatymai ir teisės aktai.
+8. Komisijos veiklą aptarnauja administracija, kurią sudaro valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2005, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11582
+ 
 
 
 
@@ -6222,7 +6278,10 @@ Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 
 
 
-4. Skundai dėl centrinio mokesčių administratoriaus arba Mokestinių ginčų komisijos sprendimo dėl mokestinio ginčo nagrinėjami Vilniaus apygardos administraciniame teisme.
+4. Skundai dėl centrinio mokesčių administratoriaus arba Mokestinių ginčų komisijos sprendimo dėl mokestinio ginčo nagrinėjami pirmosios instancijos administraciniame teisme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1598, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25172
+ 
 
 
 
@@ -6857,44 +6916,46 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
  
 Lietuvos Respublikos
-mokesčių administravimo įstatymo 
+mokesčių administravimo įstatymo
 priedas
+ 
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2008 m. gegužės 26 d. Tarybos direktyva 2008/55/EB dėl tarpusavio pagalbos vykdant reikalavimus, susijusius su tam tikromis rinkliavomis, muitais, mokesčiais ir kitomis priemonėmis (OL 2008 L 150, p. 28).
+1. 2010 m. kovo 16 d. Tarybos direktyva 2010/24/ES dėl savitarpio pagalbos vykdant reikalavimus, susijusius su mokesčiais, muitais ir kitomis priemonėmis.
 
 
 
 
 2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB su paskutiniais pakeitimais, padarytais 2021 m. kovo 22 d. Tarybos direktyva (ES) 2021/514. 
-Punkto pakeitimai:
-Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
-Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
- 
 
 
 
 
-3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015 L 141, p. 73), su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843 (OL 2018 L 156, p. 43).
-Punkto pakeitimai:
-Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
- 
+3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843.
 
 
 
 
-4. 2017 m. spalio 10 d. Tarybos direktyva (ES) 2017/1852 dėl mokestinių ginčų sprendimo mechanizmų Europos Sąjungoje (OL 2017 L 265, p. 1). 
-Papildyta punktu:
-Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
- 
+4. 2017 m. spalio 10 d. Tarybos direktyva (ES) 2017/1852 dėl mokestinių ginčų sprendimo mechanizmų Europos Sąjungoje.
+
+
+
+
+5. 2020 m. vasario 18 d. Tarybos direktyva (ES) 2020/284, kuria dėl tam tikrų reikalavimų mokėjimo paslaugų teikėjams nustatymo iš dalies keičiama Direktyva 2006/112/EB.
+
+
+
+
+_______________
 
 
 Priedo pakeitimai:
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
+Nr. XIV-1659, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26363
  
 
 
@@ -7215,3 +7276,13 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 40-1, 81
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1948, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09689
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14 straipsnio pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1950, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09694
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straipsnio pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2005, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11582
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 148 straipsnio pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
