@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
- 
-TAR pastaba. Pripažinimas kooperatinėms bendrovėms (kooperatyvams), kurių prašymai pripažinti žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pateikti iki Nr. XIV-1300 įstatymo įsigaliojimo (2023-01-03), suteikiamas pagal iki įstatymo XIV-1300 įsigaliojimo (2023-01-03) galiojusias nuostatas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1300, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15627
-Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 3-1 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2003-01-01:
 Nr. IX-903, 2002-05-28, Žin. 2002, Nr. 57-2296 (2002-06-12), i. k. 1021010ISTA00IX-903
@@ -203,9 +198,10 @@ Nr. XIV-1300, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15627
 
 
 
-3. Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarką nustato Vyriausybės įgaliota institucija. Kooperatinė bendrovė (kooperatyvas), siekianti būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu), pateikia valstybės įmonei Žemės ūkio duomenų centrui prašymą pripažinti žemės ūkio kooperatine bendrove (kooperatyvu) ir Vyriausybės įgaliotos institucijos priimtame Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarkos apraše nurodytus dokumentus.
+3. Kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarką nustato Vyriausybės įgaliota institucija. Kooperatinė bendrovė (kooperatyvas), siekianti būti pripažinta žemės ūkio kooperatine bendrove (kooperatyvu), pateikia žemės ūkio ministro įgaliotai institucijai prašymą pripažinti žemės ūkio kooperatine bendrove (kooperatyvu) ir Vyriausybės įgaliotos institucijos tvirtinamame kooperatinių bendrovių (kooperatyvų) pripažinimo žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) tvarkos apraše nurodytus dokumentus. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1300, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15627
+Nr. XIV-2068, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12751
  
 
 
@@ -226,18 +222,20 @@ Nr. XIV-1300, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15627
 
 
 
-5. Kooperatines bendroves (kooperatyvus) žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažįsta Vyriausybės įgaliota institucija pagal valstybės įmonės Žemės ūkio duomenų centro teikime pateiktą išvadą dėl pripažinimo ir įgalioja valstybės įmonę Žemės ūkio duomenų centrą išduoti pažymėjimą. Teritorinė valstybinė mokesčių inspekcija ir Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius valstybės įmonės Žemės ūkio duomenų centro prašymu teikia šio straipsnio 1 dalies 3 punkte nurodytą informaciją. Pripažinimas suteikiamas ir pažymėjimas išduodamas dvejiems metams nuo pažymėjimo išdavimo dienos. Kooperatinė bendrovė (kooperatyvas) gali iš naujo siekti pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) kitam dvejų metų pripažinimo laikotarpiui.
+5. Kooperatines bendroves (kooperatyvus) žemės ūkio kooperatinėmis bendrovėmis (kooperatyvais) pripažįsta žemės ūkio ministro įgaliota institucija ir išduoda pažymėjimą. Teritorinė valstybinė mokesčių inspekcija ir Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritorinis skyrius žemės ūkio ministro įgaliotos institucijos prašymu teikia šio straipsnio 1 dalies 3 punkte nurodytą informaciją. Pripažinimas žemės ūkio kooperatine bendrove (kooperatyvu) suteikiamas ir pažymėjimas išduodamas dvejiems metams nuo šio pažymėjimo išdavimo dienos. Kooperatinė bendrovė (kooperatyvas) gali iš naujo siekti pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) kitam dvejų metų laikotarpiui. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 Nr. XIV-1300, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15627
+Nr. XIV-2068, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12751
  
 
 
 
 
-6. Kooperatinė bendrovė (kooperatyvas) visą pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) laikotarpį privalo atitikti šiame straipsnyje nurodytus reikalavimus, pagal kuriuos ji yra pripažinta. Valstybės įmonė Žemės ūkio duomenų centras pripažinimą atliekančios Vyriausybės įgaliotos institucijos nustatyta tvarka inicijuoja kooperatinių bendrovių (kooperatyvų) atitikties šiame straipsnyje nurodytiems reikalavimams patikras. Pripažinimą atliekanti Vyriausybės įgaliota institucija, gavusi valstybės įmonės Žemės ūkio duomenų centro išvadą ir nustačiusi, kad kooperatinė bendrovė (kooperatyvas) yra pripažinta pagal pateiktus neteisingus duomenis arba neatitinka šiame straipsnyje nurodytų reikalavimų, priima sprendimą dėl suteikto pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) panaikinimo.
+6. Kooperatinė bendrovė (kooperatyvas) visą pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) laikotarpį privalo atitikti šiame straipsnyje nurodytus reikalavimus, pagal kuriuos ji yra pripažinta žemės ūkio kooperatine bendrove (kooperatyvu). Žemės ūkio ministro įgaliota institucija, vadovaudamasi Vyriausybės įgaliotos institucijos nustatyta tvarka, inicijuoja ir atlieka kooperatinių bendrovių (kooperatyvų) atitikties šiame straipsnyje nurodytiems reikalavimams patikras. Žemės ūkio ministro įgaliota institucija, nustačiusi, kad kooperatinė bendrovė (kooperatyvas) yra pripažinta pagal pateiktus neteisingus duomenis arba neatitinka šiame straipsnyje nurodytų reikalavimų, priima sprendimą dėl suteikto pripažinimo žemės ūkio kooperatine bendrove (kooperatyvu) panaikinimo.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1300, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15627
+Nr. XIV-2068, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12751
  
 
 
@@ -2064,4 +2062,9 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1300, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15627
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 3-1 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2068, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12751
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 3-1 straipsnio pakeitimo įstatymas
