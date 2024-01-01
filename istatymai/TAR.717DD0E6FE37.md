@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
  
@@ -448,7 +448,9 @@ Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 
 
-3. Sprendimas neskirti konkrečių saugotino asmens pageidaujamų apsaugos nuo nusikalstamo poveikio priemonių per 5 darbo dienas nuo supažindinimo su juo dienos gali būti skundžiamas Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+3. Sprendimas neskirti konkrečių saugotino asmens pageidaujamų apsaugos nuo nusikalstamo poveikio priemonių per 5 darbo dienas nuo supažindinimo su juo dienos gali būti skundžiamas pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1581, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25131
  
 
 
@@ -506,9 +508,10 @@ Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 
 
 
-3) apskųsti Policijos departamentui pavaldžių įstaigų ar bausmių vykdymo sistemos pareigūnų, atliekančių apsaugą nuo nusikalstamo poveikio, veiksmus (ar neveikimą) atitinkamai Lietuvos policijos generaliniam komisarui arba Lietuvos kalėjimų tarnybos direktoriui, o šių vadovų veiksmus (ar neveikimą) – Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
+3) apskųsti Policijos departamentui pavaldžių įstaigų ar bausmių vykdymo sistemos pareigūnų, atliekančių apsaugą nuo nusikalstamo poveikio, veiksmus (ar neveikimą) atitinkamai Lietuvos policijos generaliniam komisarui arba Lietuvos kalėjimų tarnybos direktoriui, o šių vadovų veiksmus (ar neveikimą) – pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
+Nr. XIV-1581, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25131
  
 
 
@@ -552,10 +555,12 @@ Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 19 straipsnis. Sprendimo paskirti apsaugos nuo nusikalstamo poveikio priemones panaikinimas
 
 
-Kai išnyksta šio įstatymo 5 straipsnyje nurodyti pagrindai arba yra šio įstatymo 6 straipsnyje nurodytų aplinkybių, apsaugą nuo nusikalstamo poveikio paskyręs pareigūnas (pareigūnai) panaikina savo ankstesnį sprendimą paskirti apsaugos nuo nusikalstamo poveikio priemones. Šis sprendimas per 5 darbo dienas nuo supažindinimo gali būti skundžiamas Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Apsaugos nuo nusikalstamo poveikio priemonės taikomos tol, kol bus priimtas galutinis sprendimas dėl apsaugos nuo nusikalstamo poveikio priemonių panaikinimo ar jų tolesnio taikymo.
+Kai išnyksta šio įstatymo 5 straipsnyje nurodyti pagrindai arba yra šio įstatymo 6 straipsnyje nurodytų aplinkybių, apsaugą nuo nusikalstamo poveikio paskyręs pareigūnas (pareigūnai) panaikina savo ankstesnį sprendimą paskirti apsaugos nuo nusikalstamo poveikio priemones. Šis sprendimas per 5 darbo dienas nuo supažindinimo gali būti skundžiamas pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Apsaugos nuo nusikalstamo poveikio priemonės taikomos tol, kol bus priimtas galutinis sprendimas dėl apsaugos nuo nusikalstamo poveikio priemonių panaikinimo ar jų tolesnio taikymo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1581, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25131
  
-
-
 
 
 
@@ -657,3 +662,8 @@ Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1206, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15570
 Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 2, 10, 15, 16, 17 ir 18 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1581, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25131
+Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 16, 18 ir 19 straipsnių pakeitimo įstatymas
