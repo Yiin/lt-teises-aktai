@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2023-12-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -662,9 +662,10 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-111. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos įmonių konsoliduotosios finansinės atskaitomybės įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Reglamente (ES) 2019/943 ir šio reglamento VII skyriuje nurodytų sričių tinklo kodeksuose ir gairėse (toliau – tinklo kodeksai ir gairės).
+111. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos įmonių konsoliduotosios finansinės atskaitomybės įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos metrologijos įstatyme, Lietuvos Respublikos pelno mokesčio įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Reglamente (ES) 2019/943 ir šio reglamento VII skyriuje nurodytų sričių tinklo kodeksuose ir gairėse (toliau – tinklo kodeksai ir gairės).
 Straipsnio dalies pakeitimai:
 Nr. XIV-1667, 2022-12-13, paskelbta TAR 2022-12-21, i. k. 2022-26105
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -1827,6 +1828,14 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 
 
 
+11. Elektros tinklų galia ir pralaidumai rezervuojami atsinaujinančius energijos išteklius naudojančių elektrinių, įskaitant hibridinę elektrinę ir (ar) energijos kaupimo įrenginį, projektams, kuriems Vyriausybės įgaliotos institucijos pradėti inicijavimo dėl valstybei svarbaus projekto statuso suteikimo veiksmai arba kuriems yra suteiktas valstybei svarbaus projekto statusas. Vyriausybės įgaliota institucija informuoja tinklų operatorius apie planuojamą suteikti valstybei svarbaus projekto statusą, o tinklų operatorius nuo atitinkamo pranešimo gavimo dienos laikinai rezervuoja elektros tinklų pralaidumus ne ilgesniam negu 6 mėnesių laikotarpiui, jeigu pranešimo gavimo metu toks pralaidumų rezervavimas yra objektyviai galimas, atsižvelgiant į esamus laisvus tinklo pralaidumus.
+Papildyta straipsnio dalimi:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
+
+
+
+
 2. Atsinaujinančių energijos išteklių naudojimas elektros energijai gaminti gali būti skatinamas šiame įstatyme ir Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme (toliau – Atsinaujinančių išteklių energetikos įstatymas) nustatyta tvarka, sąlygomis ir apimtimi. Atsinaujinančių energijos išteklių naudojimo skatinimo priemonių taikymo tvarką ir sąlygas, vadovaudamasi šio įstatymo ir Atsinaujinančių išteklių energetikos įstatymo reikalavimais, nustato Vyriausybė. Atsinaujinančių energijos išteklių naudojimo skatinimo priemonės turi būti taikomos laikantis nediskriminavimo ir skaidrumo principų, atsižvelgiant į ekonominio pagrįstumo, mažiausių sąnaudų ir poveikio elektros energijos kainai galutiniams vartotojams kriterijus.
  
 
@@ -2119,11 +2128,22 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-41. Leidimai plėtoti elektros energijos gamybos ar energijos kaupimo pajėgumus, išskyrus leidimus plėtoti elektros energijos gamybos pajėgumus statant ar įrengiant saulės šviesos energijos elektrines, kurių leistina generuoti galia yra mažesnė negu 6 MW, ir leidimai tiesti tiesioginę liniją išduodami 36 mėnesių laikotarpiui. Leidimai plėtoti elektros energijos gamybos pajėgumus statant ar įrengiant saulės šviesos energijos elektrines, kurių leistina generuoti galia yra mažesnė negu 6 MW, išduodami 24 mėnesių laikotarpiui. Leidimai modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį išduodami 36 mėnesių laikotarpiui. 
+41. Leidimai plėtoti elektros energijos gamybos ar energijos kaupimo pajėgumus išduodami:
+
+
+1) 24 mėnesių laikotarpiui statant ar įrengiant saulės šviesos energijos elektrines, kurių leistina generuoti galia yra mažesnė negu 6 MW;
+
+
+
+
+2) 48 mėnesių laikotarpiui statant ar įrengiant elektros energijos gamybos įrenginius ir energijos kaupimo įrenginius, išskyrus šios dalies 1 punkte nurodytas saulės šviesos energijos elektrines ir šio straipsnio 43 punkte nurodytus energijos kaupimo įrenginius. 
+
+
 Papildyta straipsnio dalimi:
 Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
 Straipsnio dalies pakeitimai:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -2134,6 +2154,14 @@ Papildyta straipsnio dalimi:
 Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
 Straipsnio dalies pakeitimai:
 Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
+ 
+
+
+
+
+43. Leidimai tiesti tiesioginę liniją, leidimai modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginį ir energijos kaupimo įrenginį, kurio leistina generuoti galia yra mažesnė negu 6 MW, išduodami 36 mėnesių laikotarpiui.
+Papildyta straipsnio dalimi:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -2374,7 +2402,10 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-5) atitiks energijos vartojimo efektyvumo reikalavimus;
+5) Neteko galios nuo 2024-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -2384,7 +2415,10 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-7) atitiks naudojamo kuro parinkimo reikalavimus;
+7) Neteko galios nuo 2024-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -2557,7 +2591,6 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 
 
 24. Atsisakymai išduoti leidimus, nurodytus šio straipsnio 1 dalyje, ir pratęsti šio straipsnio 1 dalies 2, 3 ir 8 punktuose nurodytų leidimų galiojimo terminą: 
- 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
 
@@ -2804,17 +2837,21 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-54. Leidimuose plėtoti energijos kaupimo pajėgumus ir leidime generuoti elektros energiją iš energijos kaupimo įrenginių yra nurodoma energijos kaupimo įrenginio įrengtoji galia ir leistina generuoti galia, taip pat leistina naudoti galia
+54. Leidimuose plėtoti energijos kaupimo pajėgumus ir leidime generuoti elektros energiją iš energijos kaupimo įrenginių yra nurodoma energijos kaupimo įrenginio įrengtoji galia, leistina generuoti galia, taip pat leistina naudoti galia ir didžiausias pajėgumas. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Straipsnio dalies pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
 
 
-55. Tinklų naudotojas, siekdamas pakeisti elektrinės, įskaitant hibridinę elektrinę, ir energijos kaupimo įrenginio įrengtąją galią arba leistiną generuoti galią, privalo kreiptis į tinklų operatorių dėl prijungimo sąlygų išdavimo Energetikos ministerijos nustatyta tinklų naudotojų elektros įrenginių prijungimo prie elektros tinklų tvarka ir (ar) tinklų operatoriaus Pasinaudojimo elektros tinklais tvarkos apraše nustatyta tvarka, o leidimo gaminti elektros energiją, leidimo plėtoti elektros energijos gamybos pajėgumus, leidimo plėtoti energijos kaupimo pajėgumus ir leidimo generuoti elektros energiją iš energijos kaupimo įrenginių turėtojas taip pat privalo pateikti Tarybai prašymą išduoti pakeistą leidimą. 
+55. Tinklų naudotojas, siekdamas pakeisti elektrinės, įskaitant hibridinę elektrinę, ir energijos kaupimo įrenginio įrengtąją galią arba didžiausią pajėgumą, arba leistiną generuoti galią, privalo kreiptis į tinklų operatorių dėl prijungimo sąlygų išdavimo Energetikos ministerijos nustatyta tinklų naudotojų elektros įrenginių prijungimo prie elektros tinklų tvarka ir (ar) tinklų operatoriaus Pasinaudojimo elektros tinklais tvarkos apraše nustatyta tvarka, o leidimo gaminti elektros energiją, leidimo plėtoti elektros energijos gamybos pajėgumus, leidimo plėtoti energijos kaupimo pajėgumus ir leidimo generuoti elektros energiją iš energijos kaupimo įrenginių turėtojas taip pat privalo pateikti Tarybai prašymą išduoti pakeistą leidimą.
 Papildyta straipsnio dalimi:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Straipsnio dalies pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -3058,7 +3095,10 @@ Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 
 
-2. Elektrinės, įskaitant hibridinę elektrinę, ar energijos kaupimo įrenginio įrengtoji galia gali būti didesnė už leistiną generuoti galią, nustatytą prijungimo taške, tačiau leistina generuoti galia negali viršyti elektrinės, įskaitant hibridinę elektrinę, ar energijos kaupimo įrenginio įrengtosios galios. 
+2. Elektrinės, įskaitant hibridinę elektrinę, ar energijos kaupimo įrenginio įrengtoji galia ir didžiausias pajėgumas gali būti didesni už leistiną generuoti galią, nustatytą prijungimo taške, tačiau leistina generuoti galia negali viršyti elektrinės, įskaitant hibridinę elektrinę, ar energijos kaupimo įrenginio įrengtosios galios ir didžiausio pajėgumo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -3085,43 +3125,124 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 211 straipsnis. Gamintojų įsipareigojimai
 
 
-1. Gamintojas, pasirašęs šio įstatymo 22 straipsnio 8 dalyje nurodytą ketinimų protokolą, tinklų operatoriui privalo pateikti savo prievolių įvykdymo užtikrinimą, garantuojantį tinklų operatoriui gamintojo įsipareigojimo įvykdymą, ne vėliau kaip per 10 darbo dienų nuo ketinimų protokolo pasirašymo dienos. Nuo ketinimų protokolo pasirašymo momento tinklų operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustatyta tvarka rezervuoja elektros tinklų pralaidumus, reikalingus sutartam elektros energijos gamybos įrenginiuose pagamintam elektros energijos kiekiui persiųsti ir (ar) sutartai elektros energijos galiai patiekti į elektros tinklus, įskaitant atvejus, kai sutariama dėl prijungimo pajėgumų arba eksploatavimo apribojimų. Jeigu gamintojas pasirašo ketinimų protokolą, bet per nustatytą laiką nepateikia savo prievolių įvykdymo užtikrinimo, ketinimų protokolas tinklų operatoriaus nutraukiamas, o gamintojas 6 mėnesius praranda teisę teikti naują prašymą dėl ketinimų protokolo pasirašymo. Gamintojo prievolių įvykdymo užtikrinimas privalo galioti 30 kalendorinių dienų ilgiau negu ketinimų protokolas. Prievolių įvykdymo užtikrinimo dydis, išskyrus dydį, skirtą gamintojo įsipareigojimo įvykdymui pagal Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsnius užtikrinti, apskaičiuojamas dauginant numatytą leistinos generuoti galios dydį (kW) iš 50 eurų už 1 kW. Prievolių įvykdymo užtikrinimo dydis, skirtas gamintojo įsipareigojimo įvykdymui pagal Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsnius užtikrinti, apskaičiuojamas dauginant Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje planuojamos įrengti elektrinės numatomą leistinos generuoti galios dydį (kW) iš 75 eurų už 1 kW. Gamintojas, laimėjęs skatinimo kvotų paskirstymo aukcioną arba jo nelaimėjęs, tačiau Vyriausybės nustatyta tvarka ketinantis toliau tęsti veiklą, ir pratęsęs ketinimų protokolo galiojimo terminą, ne vėliau kaip per 10 darbo dienų nuo šio pratęsimo dienos privalo pateikti pratęstą prievolių įvykdymo užtikrinimą, kuris privalo galioti 30 kalendorinių dienų ilgiau negu ketinimų protokolas. Norint pratęsti leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo terminą, kaip tai nustatyta šio įstatymo 16 straipsnio 6 dalies 2 punkte, prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomą leistinos generuoti galios dydį (kW) iš 50 eurų už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimo terminą, trukmės, išreikštos metais.
+1. Gamintojas, pasirašęs šio įstatymo 22 straipsnio 8 dalyje nurodytą ketinimų protokolą, tinklų operatoriui privalo pateikti savo prievolių įvykdymo užtikrinimą, garantuojantį tinklų operatoriui gamintojo įsipareigojimo įvykdymą, ne vėliau kaip per 10 darbo dienų nuo ketinimų protokolo pasirašymo dienos. Nuo ketinimų protokolo pasirašymo momento tinklų operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustatyta tvarka rezervuoja elektros tinklų pralaidumus, reikalingus sutartam elektros energijos gamybos įrenginiuose pagamintam elektros energijos kiekiui persiųsti ir (ar) sutartai elektros energijos galiai patiekti į elektros tinklus, įskaitant atvejus, kai sutariama dėl prijungimo pajėgumų arba eksploatavimo apribojimų. Jeigu gamintojas savo iniciatyva nutraukia pasirašytą ketinimų protokolą arba pasirašo ketinimų protokolą, bet per nustatytą laiką nepateikia savo prievolių įvykdymo užtikrinimo, ketinimų protokolas tinklų operatoriaus nutraukiamas, o gamintojas 6 mėnesiams praranda teisę teikti naują prašymą dėl ketinimų protokolo pasirašymo. Gamintojo prievolių įvykdymo užtikrinimas privalo galioti 30 kalendorinių dienų ilgiau negu ketinimų protokolas. Prievolių įvykdymo užtikrinimo dydis, išskyrus dydį, skirtą gamintojo įsipareigojimo įvykdymui pagal Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsnius užtikrinti, apskaičiuojamas dauginant numatytą leistinos generuoti galios dydį (kW) iš 50 eurų už 1 kW. Kai prie veikiančios atsinaujinančius išteklius naudojančios elektrinės papildomai numatoma įrengti kitą atsinaujinančius išteklius naudojančią elektrinę ir (ar) kaupimo įrenginį, įrengiant hibridinę elektrinę, prievolių įvykdymo užtikrinimo dydis apskaičiuojamas dauginant numatomos įrengti kitos atsinaujinančius išteklius naudojančios elektrinės ir (ar) kaupimo įrenginio numatytą įrengtosios galios dydį (kW) iš 50 eurų už 1 kW. Prievolių įvykdymo užtikrinimo dydis, skirtas gamintojo įsipareigojimo įvykdymui pagal Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsnius užtikrinti, apskaičiuojamas dauginant Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje planuojamos įrengti elektrinės numatomą leistinos generuoti galios dydį (kW) iš 75 eurų už 1 kW. Gamintojas, laimėjęs skatinimo kvotų paskirstymo aukcioną arba jo nelaimėjęs, tačiau Vyriausybės nustatyta tvarka ketinantis toliau tęsti veiklą, ir pratęsęs ketinimų protokolo galiojimo terminą, ne vėliau kaip per 10 darbo dienų nuo šio pratęsimo dienos privalo pateikti pratęstą prievolių įvykdymo užtikrinimą, kuris privalo galioti 30 kalendorinių dienų ilgiau negu ketinimų protokolas. Norint pratęsti leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo terminą, kaip tai nustatyta šio įstatymo 16 straipsnio 6 dalyje, prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomą leistinos generuoti galios dydį (kW) iš 50 eurų už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimo terminą, trukmės, išreikštos metais. Įpareigojimas padidinti prievolių įvykdymo užtikrinimo dydį netaikomas, kai leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo terminą siekiama pratęsti valstybės veiksmų ar nenugalimos jėgos aplinkybių buvimo laikotarpiui.
 
 
 
 
-11. Šio straipsnio 1 dalyje nurodytas gamintojo prievolių įvykdymo užtikrinimo dydis gali būti sumažintas Vyriausybės įgaliotos institucijos nustatyta tvarka ir sąlygomis, atsižvelgiant į gamintojo patirtas faktines jo įsipareigojimų įvykdymo išlaidas.
+2. Šio straipsnio 1 dalyje nurodytas gamintojo prievolių įvykdymo užtikrinimo dydis gali būti sumažintas Vyriausybės įgaliotos institucijos nustatyta tvarka ir sąlygomis, atsižvelgiant į gamintojo patirtas faktines jo įsipareigojimų įvykdymo išlaidas.
 
 
 
 
-2. Jeigu gamintojas užbaigia ketinimų protokole numatytos įrengtosios galios elektrinės statybą Statybos įstatyme nustatyta tvarka ir gamintojui šiame įstatyme nustatyta tvarka yra išduotas leidimas gaminti elektros energiją arba jeigu gamintojas, dalyvaujantis Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 4 dalyje nurodytame skatinimo kvotų paskirstymo aukcione ar Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose nurodytuose konkursuose, nelaimi šio skatinimo kvotų paskirstymo aukciono ar konkurso arba atsisako juose dalyvauti, tinklų operatorius, gavęs gamintojo prašymą, atsisako savo teisių pagal gamintojo prievolių įvykdymo užtikrinimą ir grąžina jį šiam gamintojui ar jo prievolių įvykdymo užtikrinimą išdavusiam asmeniui, o šalių teisės ir pareigos pagal ketinimų protokolą pasibaigia.
+3. Tinklų operatorius, gavęs gamintojo prašymą, atsisako savo teisių pagal gamintojo prievolių įvykdymo užtikrinimą ir grąžina jį šiam gamintojui ar jo prievolių įvykdymo užtikrinimą išdavusiam asmeniui, o šalių teisės ir pareigos pagal ketinimų protokolą pasibaigia, jeigu:
+
+
+1) gamintojas užbaigia ketinimų protokole numatytos įrengtosios galios elektrinės arba hibridinės elektrinės statybą Statybos įstatyme nustatyta tvarka ir gamintojui šiame įstatyme nustatyta tvarka yra išduotas leidimas gaminti elektros energiją;
 
 
 
 
-3. Jeigu gamintojas per leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, arba per 6 metus nuo leidimo plėtrai ir eksploatacijai gavimo dienos, įskaitant galimus jo pratęsimus, neįvykdo ketinimų protokole nustatyto įsipareigojimo pastatyti ar įrengti ketinimų protokole nurodytos leistinos generuoti galios elektrinę arba jeigu leidimas plėtrai ir eksploatacijai panaikinamas Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose numatytais pagrindais arba gamintojas nutraukia ketinimų protokolą, skirtą gamintojo įsipareigojimo įvykdymui pagal Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsnius užtikrinti, arba atsisako leidimo plėtrai ir eksploatacijai, arba ketinimų protokolas tinklų operatoriaus nutraukiamas, kai gamintojas neįvykdo šio įstatymo 22 straipsnio 9 dalies 3, 5 ir 6 punktuose ir (ar) 221 straipsnio 1 dalyje nustatytų esminių ketinimų protokolo vykdymo sąlygų arba Valstybinė energetikos reguliavimo taryba Atsinaujinančių išteklių energetikos įstatymo 221 straipsnyje nustatyta tvarka panaikina sprendimą, kuriuo konkurso dalyvis buvo paskelbtas konkurso laimėtoju, tinklų operatorius pasinaudoja visu šio gamintojo pateiktu prievolių įvykdymo užtikrinimu, išskyrus atvejus, kai tokie įsipareigojimai neįvykdomi dėl aplinkybių, kurių šis gamintojas negalėjo kontroliuoti ir protingai numatyti ketinimų protokolo ir (ar) elektrinės prijungimo prie elektros tinklų paslaugos sutarties sudarymo metu ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti, taip pat dėl įstatymų nustatytų kitų aplinkybių, kai nėra šio gamintojo kaltės. Tais atvejais, kai yra šioje dalyje nurodytos aplinkybės, gamintojas pateikia tinklų operatoriui dokumentus, įrodančius, kad yra šioje dalyje nurodytos aplinkybės, o tinklų operatorius įvertina pateiktus dokumentus ir priima sprendimą dėl pateikto prievolių įvykdymo užtikrinimo grąžinimo.
+2) gamintojas, dalyvaujantis Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 4 dalyje nurodytame skatinimo kvotų paskirstymo aukcione ar Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose nurodytuose konkursuose, nelaimi šio skatinimo kvotų paskirstymo aukciono ar konkurso arba atsisako juose dalyvauti.
 
 
 
 
-4. Jeigu gamintojas nutraukia ketinimų protokolą, atsisako leidimo plėtoti elektros energijos gamybos pajėgumus Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 10 dalyje nustatyta tvarka, tinklų operatorius pasinaudoja gamintojo pateikto prievolių įvykdymo užtikrinimo dalimi, kuri yra lygi sumai, apskaičiuojamai 0,041 Eur/kW dauginant iš dienomis išreikšto laikotarpio nuo prievolių įvykdymo užtikrinimo pateikimo dienos iki dienos, kai gamintojas nutraukia ketinimų protokolą arba atsisako leidimo plėtoti elektros energijos gamybos pajėgumus. Šios nuostatos netaikomos, kai ketinimų protokolas pasirašomas siekiant užtikrinti gamintojo įsipareigojimo įvykdymą pagal Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsnius.
+
+
+4. Tinklų operatorius pasinaudoja visu gamintojo pateiktu prievolių įvykdymo užtikrinimu, išskyrus atvejus, kai tokie įsipareigojimai neįvykdomi dėl aplinkybių, kurių gamintojas negalėjo kontroliuoti ir numatyti ketinimų protokolo ir (ar) elektrinės prijungimo prie elektros tinklų paslaugos sutarties sudarymo metu ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti, taip pat dėl įstatymų nustatytų kitų aplinkybių, kai nėra šio gamintojo kaltės, jeigu:
+
+
+1) gamintojas per leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, arba per Atsinaujinančių išteklių energetikos įstatyme numatytą terminą nuo leidimo plėtrai ir eksploatacijai gavimo dienos, įskaitant galimus jo pratęsimus, neįvykdo ketinimų protokole nustatyto įsipareigojimo pastatyti ar įrengti ketinimų protokole nurodytos leistinos generuoti galios elektrinę ar hibridinę elektrinę arba hibridinę elektrinę ir energijos kaupimo įrenginį ar įrenginius;
 
 
 
 
-5. Jeigu gamintojas per leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, arba per 6 metus nuo leidimo plėtrai ir eksploatacijai gavimo dienos, įskaitant galimus jo pratęsimus, pastato ar įrengia elektrinę, kurios leistina generuoti galia turi būti sumažinta, kad atitiktų šio įstatymo 201 straipsnio 2 dalyje nustatytą sąlygą, ir sumažinta leistina generuoti galia yra mažesnė, negu nurodyta ketinimų protokole, tinklų operatorius pasinaudoja pateikto prievolių įvykdymo užtikrinimo dalimi proporcingai leistinos generuoti galios sumažinimo dydžiui.
+2) gamintojas neįvykdo ketinimų protokole nustatyto įsipareigojimo pastatyti ar įrengti visas hibridinę elektrinę sudarančias elektrines arba visas hibridinę elektrinę sudarančias elektrines ir kaupimo įrenginius, kai gamintojo planuojamiems įrenginiams prijungti buvo suteiktas aukštesnis negu šio įstatymo 31 straipsnio 21 dalyje arba šio įstatymo 39 straipsnio 21 dalyje nurodytas elektros tinklo pralaidumų prioritetas;
 
 
 
 
-6. Pagal gamintojo pateiktą prievolių įvykdymo užtikrinimą tinklų operatoriaus gautos lėšos, išskyrus atvejus, kai prievolių įvykdymo užtikrinimas pateikiamas siekiant dalyvauti Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose nurodytuose konkursuose, įvertinamos nustatant skirstymo ir perdavimo tiekimo paslaugų kainų viršutines ribas.
+3) gamintojas per leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo laikotarpį, įskaitant visus galimus jo pratęsimus, pastato ar įrengia hibridinę elektrinę, kuriai, vadovaujantis tinklų operatoriaus Pasinaudojimo elektros tinklais tvarkos aprašu, suteikiamas žemesnis negu šio įstatymo 31 straipsnio 21 dalyje arba šio įstatymo 39 straipsnio 21 dalyje nurodytas elektros tinklo pralaidumų prioritetas;
+
+
+
+
+4) leidimas plėtrai ir eksploatacijai panaikinamas Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose numatytais pagrindais;
+
+
+
+
+5) gamintojas nutraukia ketinimų protokolą, skirtą gamintojo įsipareigojimo įvykdymui pagal Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsnius užtikrinti;
+
+
+
+
+6) gamintojas atsisako leidimo plėtrai ir eksploatacijai;
+
+
+
+
+7) ketinimų protokolas tinklų operatoriaus nutraukiamas, kai gamintojas neįvykdo šio įstatymo 22 straipsnio 9 dalies 3, 5 ir 6 punktuose nustatytų esminių ketinimų protokolo vykdymo sąlygų;
+
+
+
+
+8) Taryba Atsinaujinančių išteklių energetikos įstatymo 22 straipsnyje nustatyta tvarka panaikina sprendimą, kuriuo konkurso dalyvis buvo paskelbtas konkurso laimėtoju;
+
+
+
+
+9) gamintojas energetikos sritį reglamentuojančių teisės aktų nustatyta tvarka negauna leidimo plėtoti elektros energijos gamybos pajėgumus.
+
+
+
+
+
+
+5. Tinklų operatorius pasinaudoja gamintojo pateikta prievolių įvykdymo užtikrinimo dalimi, kuri yra lygi sumai, apskaičiuojamai 0,041 Eur/kW dauginant iš dienomis išreikšto laikotarpio nuo prievolių įvykdymo užtikrinimo pateikimo dienos iki dienos, kai gamintojas nutraukia ketinimų protokolą arba atsisako leidimo plėtoti elektros energijos gamybos pajėgumus, jeigu gamintojas nutraukia ketinimų protokolą, atsisako leidimo plėtoti elektros energijos gamybos pajėgumus Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 10 dalyje nustatyta tvarka. Šios nuostatos netaikomos, kai ketinimų protokolas pasirašomas siekiant užtikrinti gamintojo įsipareigojimo įvykdymą pagal Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsnius.
+
+
+
+
+6. Tinklų operatorius pasinaudoja gamintojo pateikta prievolių įvykdymo užtikrinimo dalimi proporcingai leistinos generuoti galios sumažinimo dydžiui, išskyrus atvejus, kai tokie įsipareigojimai neįvykdomi dėl aplinkybių, kurių šis gamintojas negalėjo kontroliuoti ir numatyti ketinimų protokolo ir (ar) elektrinės prijungimo prie elektros tinklų paslaugos sutarties sudarymo metu ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti, taip pat dėl įstatymų nustatytų kitų aplinkybių, kai nėra šio gamintojo kaltės, jeigu gamintojas per leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, arba per Atsinaujinančių išteklių energetikos įstatyme numatytą terminą nuo leidimo plėtrai ir eksploatacijai gavimo dienos, įskaitant galimus jo pratęsimus, pastato ar įrengia elektrinę, kurios leistina generuoti galia yra mažesnė arba turi būti sumažinta, kad atitiktų šio įstatymo 201 straipsnio 2 dalyje nustatytą sąlygą, ir sumažinta leistina generuoti galia yra mažesnė, negu nurodyta ketinimų protokole.
+
+
+
+
+7. Tinklų operatorius pasinaudoja gamintojo pateiktu prievolių įvykdymo užtikrinimu, proporcingai nepastatytai ar neįrengtai hibridinės elektrinės įrengtajai galiai, išskyrus atvejus, kai tokie įsipareigojimai neįvykdomi dėl aplinkybių, kurių šis gamintojas negalėjo kontroliuoti ir numatyti ketinimų protokolo ir (ar) elektrinės prijungimo prie elektros tinklų paslaugos sutarties sudarymo metu ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti, taip pat dėl įstatymų nustatytų kitų aplinkybių, kai nėra šio gamintojo kaltės, jeigu:
+
+
+1) gamintojas pastato ne visas hibridinę elektrinę sudarančias elektrines arba ne visas hibridinę elektrinę sudarančias elektrines ir ne visus energijos kaupimo įrenginius ir gamintojo planuojamiems įrenginiams prijungti nebuvo suteiktas aukštesnis negu šio įstatymo 31 straipsnio 21 dalyje arba šio įstatymo 39 straipsnio 21 dalyje nurodytas elektros tinklo pralaidumų prioritetas;
+
+
+
+
+2) gamintojas pastato ar įrengia hibridinę elektrinę arba hibridinę elektrinę ir energijos kaupimo įrenginį ar įrenginius, kurių leistina generuoti galia yra mažesnė arba turi būti sumažinta, kad atitiktų šio įstatymo 201 straipsnio 2 dalyje nustatytą sąlygą, ir sumažinta leistina generuoti galia yra mažesnė, negu nurodyta ketinimų protokole;
+
+
+
+
+3) gamintojas pastato ar įrengia mažesnės įrengtosios galios, negu nurodyta ketinimų protokole, hibridinę elektrinę sudarančią elektrinę ir (ar) energijos kaupimo įrenginį, kai ketinimų protokole nurodyta hibridinės elektrinės leistina generuoti galia nesikeičia, išskyrus šio straipsnio 4 dalies 3 punkte nurodytą atvejį.
+
+
+
+
+
+
+8. Kai yra šio straipsnio 4, 6 ir 7 dalyse nurodytos aplinkybės, dėl kurių tinklų operatorius nepasinaudoja visu prievolių įvykdymo užtikrinimu ar jo dalimi, gamintojas pateikia tinklų operatoriui tai įrodančius dokumentus, o tinklų operatorius įvertina pateiktus dokumentus ir priima sprendimą dėl pateikto prievolių įvykdymo užtikrinimo grąžinimo.
+
+
+
+
+9. Pagal gamintojo pateiktą prievolių įvykdymo užtikrinimą tinklų operatoriaus gautos lėšos, išskyrus atvejus, kai prievolių įvykdymo užtikrinimas pateikiamas siekiant dalyvauti Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose nurodytuose konkursuose, įvertinamos nustatant skirstymo ir perdavimo tiekimo paslaugų kainų viršutines ribas.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-1002, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07251
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -3150,9 +3271,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-3. Tinklų operatorius neturi teisės atsisakyti prijungti gamintojų elektros energijos gamybos įrenginius prie elektros tinklų dėl ateityje galimo elektros tinklų pajėgumo apribojimo. Tinklų operatorius privalo prijungti gamintojo elektros energijos gamybos įrenginius prie elektros tinklų, atsižvelgdamas į leistiną naudoti galią, leistiną generuoti galią ir elektros energijos gamybos įrenginių įrengtąją galią, atitinkamų techninių norminių dokumentų reikalavimus, keliamus tokių įrenginių prijungimui, taip pat elektros tinklų įrengimui ir (ar) atnaujinimui gamintojo ir tinklų operatoriaus tinklų dalyje. 
+3. Tinklų operatorius neturi teisės atsisakyti prijungti gamintojų elektros energijos gamybos įrenginius prie elektros tinklų dėl ateityje galimo elektros tinklų pajėgumo apribojimo. Tinklų operatorius privalo prijungti gamintojo elektros energijos gamybos įrenginius prie elektros tinklų, atsižvelgdamas į leistiną naudoti galią, leistiną generuoti galią, elektros energijos gamybos įrenginių įrengtąją galią ir didžiausią pajėgumą, atitinkamų techninių norminių dokumentų reikalavimus, keliamus tokių įrenginių prijungimui, taip pat elektros tinklų įrengimui ir (ar) atnaujinimui gamintojo ir tinklų operatoriaus tinklų dalyje. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -3182,7 +3304,9 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-6. Gamintojų, gaminančių elektros energiją iš atsinaujinančių energijos išteklių, elektros energijos gamybos įrenginių prijungimą prie elektros tinklų reglamentuoja Atsinaujinančių išteklių energetikos įstatymas. 
+6. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
 Straipsnio dalies pakeitimai:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
  
@@ -3211,7 +3335,10 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 8. Parengti ir pateikti elektros tinklų operatoriui prašymą pasirašyti ketinimų protokolą privalo:
 
 
-1) gamintojas, gavęs išankstines prijungimo sąlygas, išskyrus gaminantį vartotoją, gamintoją, planuojantį gaminti elektros energiją savo reikmėms ir ūkio poreikiams ir planuojantį į elektros tinklus patiekti elektros energiją, likusią nuo savo reikmėms ir ūkio poreikiams nesuvartotos elektros energijos, kai elektrinės įrengtoji galia yra ne didesnė kaip 1 MW ir ne didesnė negu gamintojo objektui suteikta leistina naudoti galia ir kai šis gamintojas neketina dalyvauti skatinimo kvotų paskirstymo aukcione, gamintoją, kurio elektros energijos gamybos įrenginių leistina generuoti galia lygi nuliui, gamintoją, keičiantį elektros energijos gamybos įrenginių įrengtąją galią, kai leistina generuoti galia nekeičiama, gamintoją, planuojantį pagamintą elektros energiją persiųsti tiesiogine linija prijungtiems vartotojo objektams šio įstatymo 70 straipsnio 1 dalies 4 punkte nurodytu atveju, nepatiekiant elektros energijos į elektros tinklus, atsinaujinančių išteklių energijos bendriją, neketinančią dalyvauti skatinimo kvotų paskirstymo aukcione, piliečių energetikos bendriją, planuojančią įrengti ar statyti atsinaujinančius energijos išteklius naudojančius elektros energijos gamybos įrenginius, gamintoją, kurio elektros energijos gamybos įrenginių įrengtoji galia ne didesnė kaip 100 kW, o leistina generuoti galia didesnė už nulį (netaikoma Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio 8 dalyje nurodytu atveju), ir gamintoją, ketinantį modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginius;
+1) gamintojas, gavęs išankstines prijungimo sąlygas, išskyrus gaminantį vartotoją, gamintoją, planuojantį gaminti elektros energiją savo reikmėms ir ūkio poreikiams ir planuojantį į elektros tinklus patiekti elektros energiją, likusią nuo savo reikmėms ir ūkio poreikiams nesuvartotos elektros energijos, kai elektrinės įrengtoji galia yra ne didesnė kaip 1 MW ir ne didesnė negu gamintojo objektui suteikta leistina naudoti galia ir kai šis gamintojas neketina dalyvauti skatinimo kvotų paskirstymo aukcione, gamintoją, kurio elektros energijos gamybos įrenginių leistina generuoti galia lygi nuliui, gamintoją, keičiantį elektros energijos gamybos įrenginių įrengtąją galią, kai leistina generuoti galia nekeičiama, išskyrus atvejus, kai statoma hibridinė elektrinė, gamintoją, planuojantį pagamintą elektros energiją persiųsti tiesiogine linija prijungtiems vartotojo objektams šio įstatymo 70 straipsnio 1 dalies 4 punkte nurodytu atveju, nepatiekiant elektros energijos į elektros tinklus, atsinaujinančių išteklių energijos bendriją, neketinančią dalyvauti skatinimo kvotų paskirstymo aukcione, piliečių energetikos bendriją, planuojančią įrengti ar statyti atsinaujinančius energijos išteklius naudojančius elektros energijos gamybos įrenginius, gamintoją, kurio elektros energijos gamybos įrenginių įrengtoji galia ne didesnė kaip 100 kW, o leistina generuoti galia didesnė už nulį (netaikoma Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio 8 dalyje nurodytu atveju), ir gamintoją, ketinantį modernizuoti iš atsinaujinančių išteklių elektros energiją gaminančią elektrinę ar elektros energijos gamybos įrenginius; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -3229,12 +3356,16 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-9. Tinklų operatorius privalo per 25 kalendorines dienas nuo šio straipsnio 8 dalyje nurodyto prašymo pateikimo dienos su gamintoju pasirašyti ketinimų protokolą, išskyrus atvejį, kai prašymas pasirašyti ketinimų protokolą pateikiamas siekiant dalyvauti Atsinaujinančių išteklių energetikos įstatymo 221 straipsnyje nurodytame konkurse, ir šio įstatymo 732 straipsnyje nurodytą atvejį. Kai šio įstatymo 732 straipsnyje nustatytu atveju turi būti įsitikinta, kad ketinimų protokolo pasirašymas ir (ar) ketinimų protokolą siekiantis pasirašyti asmuo nekelia rizikos nacionalinio saugumo interesams ar atitinka nacionalinio saugumo interesus, ketinimų protokolo pasirašymo terminas pratęsiamas tiek, kiek buvo vykdomos patikros procedūros. Ketinimų protokole, išskyrus ketinimų protokolą, kurį pasirašo gamintojai, siekiantys dalyvauti Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose nurodytuose konkursuose, privalo būti nurodyta: 
+9. Tinklų operatorius privalo per 25 kalendorines dienas nuo šio straipsnio 8 dalyje nurodyto prašymo kartu su visais tinkamai pateiktais dokumentais, įskaitant ir kito tinklų operatoriaus išduotas išankstines prijungimo sąlygas, kai jos reikalingos ketinimų protokolui sudaryti, pateikimo dienos su gamintoju pasirašyti ketinimų protokolą, išskyrus atvejį, kai prašymas pasirašyti ketinimų protokolą pateikiamas siekiant dalyvauti Atsinaujinančių išteklių energetikos įstatymo 22 straipsnyje nurodytame konkurse, ir šio įstatymo 732 straipsnyje nurodytą atvejį. Kai šio įstatymo 732 straipsnyje nustatytu atveju turi būti įsitikinta, kad ketinimų protokolo pasirašymas ir (ar) ketinimų protokolą siekiantis pasirašyti asmuo nekelia rizikos nacionalinio saugumo interesams ar atitinka nacionalinio saugumo interesus, ketinimų protokolo pasirašymo terminas pratęsiamas tiek, kiek buvo vykdomos patikros procedūros. Ketinimų protokole, išskyrus ketinimų protokolą, kurį pasirašo gamintojai, siekiantys dalyvauti Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose nurodytuose konkursuose, privalo būti nurodyta:  
 Straipsnio dalies pakeitimai:
 Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
 
 
-1) planuojamos statyti elektrinės įrengtoji galia, leistina generuoti galia ir naudojama energijos rūšis;
+1) planuojamos statyti elektrinės įrengtoji galia, leistina generuoti galia, didžiausias pajėgumas ir naudojama energijos rūšis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -3257,12 +3388,18 @@ Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
 
 
 
-5) gamintojo įsipareigojimas per 9 mėnesius nuo prijungimo sąlygų išdavimo tinklų operatoriui pateikti techninį projektą, kai toks projektas yra privalomas. Tinklų operatorius visas savo pastabas dėl gamintojo pateikto techninio projekto pateikia per ne ilgesnį kaip vieno mėnesio laikotarpį. Gamintojas per ne ilgesnį kaip vieno mėnesio laikotarpį įvertina pateiktas pastabas ir pateikia tinklų operatoriui patikslintą techninį projektą. Patikslintą techninį projektą tinklų operatorius turi suderinti per ne ilgesnį kaip 15 kalendorinių dienų laikotarpį;
+5) gamintojo įsipareigojimas per 9 mėnesius nuo prijungimo sąlygų išdavimo tinklų operatoriui pateikti techninį projektą, kai toks projektas yra privalomas. Tinklų operatorius visas savo pastabas dėl gamintojo pateikto techninio projekto pateikia per ne ilgesnį kaip vieno mėnesio laikotarpį. Gamintojas per ne ilgesnį kaip vieno mėnesio laikotarpį įvertina pateiktas pastabas ir pateikia tinklų operatoriui patikslintą techninį projektą. Patikslintą techninį projektą tinklų operatorius turi suderinti per ne ilgesnį kaip 15 kalendorinių dienų laikotarpį. Šiame punkte nustatytas reikalavimas pateikti techninį projektą tinklų operatoriui per 9 mėnesius nuo prijungimo sąlygų išdavimo netaikomas, kai šio įsipareigojimo gamintojas negali įvykdyti dėl valstybės, kitų asmenų veiksmų ir (ar) neveikimo ar nenugalimos jėgos aplinkybių. Kai yra šiame punkte nurodytos aplinkybės, gamintojas pateikia tinklų operatoriui tai įrodančius dokumentus, o tinklų operatorius įvertina pateiktus dokumentus ir priima sprendimą dėl termino pratęsimo laikotarpiui, kuris negali būti ilgesnis negu nurodytų aplinkybių buvimo laikotarpis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
 
-6) gamintojo įsipareigojimas turėti statybą leidžiantį dokumentą, jeigu toks dokumentas yra reikalingas, ne vėliau kaip likus 12 mėnesių iki leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo pabaigos, įskaitant atvejus, kai leidimo galiojimas yra pratęstas;
+6) gamintojo įsipareigojimas turėti statybą leidžiantį dokumentą, jeigu toks dokumentas yra reikalingas, ne vėliau kaip likus 12 mėnesių iki leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo pabaigos, įskaitant atvejus, kai leidimo galiojimas yra pratęstas, kai statomi ar įrengiami elektros energijos gamybos įrenginiai, kuriems išduotas šio įstatymo 16 straipsnio 41 dalies 1 punkte nurodytas leidimas plėtoti elektros energijos gamybos pajėgumus, arba ne vėliau kaip likus 24 mėnesiams iki leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo pabaigos, įskaitant atvejus, kai leidimo galiojimas yra pratęstas, kai statomi ar įrengiami elektros energijos gamybos įrenginiai, kuriems išduotas šio įstatymo 16 straipsnio 41 dalies 2 punkte nurodytas leidimas plėtoti elektros energijos gamybos pajėgumus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -4225,9 +4362,10 @@ Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
 21. Tarybos nustatytais principais ir kriterijais Pasinaudojimo elektros tinklais tvarkos apraše nustatoma elektros tinklų pralaidumų rezervavimo tvarka. Prijungimo pajėgumų arba eksploatavimo apribojimų nustatymo principai ir (ar) kriterijai turi užtikrinti efektyvaus tinklo panaudojimo principų laikymąsi. Pasinaudojimo elektros tinklais tvarkos apraše turi būti užtikrinamos sąlygos įgyvendinti Atsinaujinančių išteklių energetikos įstatyme nustatytus tikslus ir uždavinius, taip pat Nacionaliniame pažangos plane ir kituose strateginio lygmens planavimo dokumentuose nustatytus energetikos politikos strateginius tikslus ir (ar) pažangos uždavinius ir (ar) Nacionaliniame energetikos ir klimato srities veiksmų plane numatytas įgyvendinimo priemones. Prie perdavimo elektros tinklų pralaidumai rezervuojami prioriteto tvarka:
 
 
-1) teisės aktuose ir (ar) programavimo lygmens planavimo dokumentuose (atitinkamų metų nacionalinėje energetikos plėtros programoje, Vyriausybės programoje ir (ar) Vyriausybės programos nuostatų įgyvendinimo plane) nustatytiems atsinaujinančius išteklius naudojantiems objektams Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje, įskaitant Atsinaujinančių išteklių energetikos įstatymo 22 ir 221 straipsniuose nurodytus objektus, prijungti numatytu laiku, taip pat šiuose dokumentuose nurodytiems energetikos objektams, prisidedantiems prie elektros energetikos sistemos darbo stabilumo, patikimumo ir (ar) saugumo, prijungti numatytu laiku;
+1) teisės aktuose ir (ar) programavimo lygmens planavimo dokumentuose (atitinkamų metų nacionalinėje energetikos plėtros programoje, Vyriausybės programoje ir (ar) Vyriausybės programos nuostatų įgyvendinimo plane) nustatytiems atsinaujinančius išteklius naudojantiems objektams Lietuvos Respublikos teritorinėje jūroje ir (ar) Lietuvos Respublikos išskirtinėje ekonominėje zonoje Baltijos jūroje, įskaitant Atsinaujinančių išteklių energetikos įstatymo 22 ir (ar) 221 straipsniuose nurodytus objektus, prijungti numatytu laiku, taip pat šiuose dokumentuose nurodytiems energetikos objektams, prisidedantiems prie elektros energetikos sistemos darbo stabilumo, patikimumo ir (ar) saugumo, prijungti numatytu laiku ir atsinaujinančius energijos išteklius naudojančių elektrinių projektams, kuriems suteiktas valstybei svarbaus projekto statusas, prijungti numatytu laiku; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -4260,7 +4398,10 @@ Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
 
 
 
-22. Pralaidumų rezervavimo tvarka, atsižvelgiant į Tarybos nustatytus pagrįstus principus ir (ar) kriterijus, gali būti diferencijuojama pagal asmenų ir (ar) įrenginių grupes, elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių įrengtosios galios ar prijungimo taške suteikiamos leistinos generuoti galios dydį, taip pat pagal esamų laisvų elektros tinklų pralaidumų dalį, kai, įvertinus prie tinklo prijungtų elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių patiekiamos į elektros tinklą galios nevienalaikiškumą, gali būti nustatyti šio įstatymo 22 straipsnio 31 dalyje ir 482 straipsnio 3 dalyje numatyti prijungimo pajėgumų arba eksploatavimo apribojimai. Taryba užtikrina, kad Pasinaudojimo elektros tinklais tvarkos apraše nustatomi prijungimo pajėgumų arba eksploatavimo apribojimai būtų nustatomi remiantis skaidriomis ir nediskriminacinėmis procedūromis, taip pat kad būtų užtikrintas tinklų naudotojų naujai prijungiamų įrenginių (elektrinių ir kaupimo įrenginių) ekonominis efektyvumas ir kad nebūtų sukurta nepagrįstų kliūčių patekti į elektros energijos rinką. Vadovaudamasis Reglamento (ES) 2019/943 12 ir 13 straipsnių ir šio įstatymo nuostatomis, perdavimo sistemos operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos priėmimo, persiuntimo ir perskirstymo tvarką. Be to, perdavimo sistemos operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos persiuntimo nutraukimo sąlygas, kai tinklų naudotojo elektros įrenginių patiekiama į elektros tinklus aktyvioji galia viršija leistiną generuoti galią.
+22. Pralaidumų rezervavimo tvarka, atsižvelgiant į Tarybos nustatytus pagrįstus principus ir (ar) kriterijus, gali būti diferencijuojama pagal asmenų ir (ar) įrenginių grupes, elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių įrengtosios galios ar prijungimo taške suteikiamos leistinos generuoti galios dydį, taip pat pagal esamų laisvų elektros tinklų pralaidumų dalį, kai, įvertinus prie tinklo prijungtų elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių patiekiamos į elektros tinklą galios nevienalaikiškumą, gali būti nustatyti šio įstatymo 22 straipsnio 31 dalyje ir 482 straipsnio 3 dalyje numatyti prijungimo pajėgumų arba eksploatavimo apribojimai. Leidžiama nustatyti ir taikyti prijungimo prie elektros tinklų pajėgumų arba eksploatavimo apribojimus, nulemtus perkrovų elektros tinkle ir (arba) energetikos sistemos balanso (elektros energijos gamybos ir suvartojimo santykio) galimybių, ir (arba) saulės ir vėjo energijos generacijos sutapties, taip pat mažinti apribojimų apimtis, esant tinklų naudotojo įsipareigojimui kartu su elektros gamybos įrenginiais įrengti energijos kaupimo įrenginius. Konkrečios šių apribojimų apimtys, jų taikymo atvejai, etapai ir principai, taip pat reikalavimai energijos kaupimo įrenginių, kurių įrengimas leidžia sumažinti ribojimus, techniniams parametrams, detalizuojami Pasinaudojimo elektros tinklais tvarkos apraše. Taikant minėtus prijungimo prie elektros tinklų pajėgumų arba eksploatavimo apribojimus, tinklų naudotojų už elektros biržoje parduotą elektros energiją gautos pajamos nėra mažinamos. Tinklų naudotojams, kuriems taikomi Pasinaudojimo elektros tinklais tvarkos apraše nustatyti realaus laiko ribojimai, nėra skaičiuojamos disbalanso išlaidos tuo atveju, kai tinklų operatorius generaciją riboja iki lygio, žemesnio nei saugi generavimo riba, nustatyta atsižvelgiant į saulės ir vėjo elektrinėse pagamintos elektros energijos generacijos sutaptį, energetikos sistemos balansą bei elektros sistemos eksploatavimo saugias ribas. Taryba užtikrina, kad Pasinaudojimo elektros tinklais tvarkos apraše nustatomi prijungimo pajėgumų arba eksploatavimo apribojimai būtų nustatomi remiantis skaidriomis ir nediskriminacinėmis procedūromis, taip pat kad būtų užtikrintas tinklų naudotojų naujai prijungiamų įrenginių (elektrinių ir kaupimo įrenginių) ekonominis efektyvumas ir kad nebūtų sukurta nepagrįstų kliūčių patekti į elektros energijos rinką. Vadovaudamasis Reglamento (ES) 2019/943 12 ir 13 straipsnių ir šio įstatymo nuostatomis, perdavimo sistemos operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos priėmimo, persiuntimo ir perskirstymo tvarką. Be to, perdavimo sistemos operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos persiuntimo nutraukimo sąlygas, kai tinklų naudotojo elektros įrenginių patiekiama į elektros tinklus aktyvioji galia viršija leistiną generuoti galią. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -4276,6 +4417,14 @@ Nr. XIV-1700, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27273
 
 
 25. Perdavimo sistemos operatorius stebi, ar gamintojas ir energijos kaupimo įrenginių savininkas vykdo leidime plėtoti elektros energijos gamybos pajėgumus ar leidime plėtoti energijos kaupimo pajėgumus leistą vykdyti veiklą (toliau šiame straipsnyje – leidime nurodyta veikla), atsako už ketinimų protokole numatytų įsipareigojimų įgyvendinimo laiku priežiūrą ir kontrolę. Vykdydamas šias pareigas, perdavimo sistemos operatorius numato ir vykdo veiksmus, kad įsitikintų, kad ketinimų protokolą pasirašęs asmuo leidime nurodytą veiklą vykdo nuolat. Asmuo, pasirašęs ketinimų protokolą, privalo teikti perdavimo sistemos operatoriaus nurodytais terminais nustatytą informaciją ir (ar) dokumentus, kuriais pagrįstai įrodoma, kad leidime nurodyta veikla yra vykdoma.
+
+
+
+
+26. Vadovaujantis Reglamento (ES) 2019/943 13 straipsnio 5 dalies nuostatomis, taikant tinklo patikimumo ir saugumo išlaikymo reikalavimus, grindžiamus skaidriais ir nediskriminaciniais kriterijais, kuriuos nustato Valstybinė energetikos reguliavimo taryba, tinklų operatoriai ir skirstymo sistemos operatoriai, be kita ko, užtikrina perdavimo tinklų ir skirstymo tinklų gebėjimą perduoti iš atsinaujinančių energijos išteklių arba didelio naudingumo kogeneracijos įrenginiuose pagamintą elektros energiją, kuo mažiau taikant perskirstymą, neatimant iš tinklo operatorių galimybės atsižvelgti į ribotą perskirstymą, kai perdavimo sistemos operatorius arba skirstymo sistemos operatorius gali skaidriai įrodyti, kad toks būdas yra ekonomiškai efektyvus ir neviršijama 5 procentų įrenginių, naudojančių atsinaujinančius energijos išteklius ir tiesiogiai prijungtų prie jų atitinkamo tinklo, per metus pagamintos elektros energijos kiekio. Kai elektros energijos gamybos objektų, naudojančių atsinaujinančius energijos išteklius arba didelio naudingumo kogeneraciją, pagaminamos elektros energijos dalis sudaro daugiau negu 50 procentų metinio bendro galutinio energijos suvartojimo, ši nuostata netenka galios.
+Papildyta straipsnio dalimi:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -4752,12 +4901,18 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 21. Tarybos nustatytais principais ir kriterijais Pasinaudojimo elektros tinklais tvarkos apraše nustatoma elektros tinklų pralaidumų rezervavimo tvarka. Prijungimo pajėgumų arba eksploatavimo apribojimų nustatymo principai ir (ar) kriterijai turi užtikrinti efektyvaus tinklo išnaudojimo principų laikymąsi. Pasinaudojimo elektros tinklais tvarkos apraše turi būti užtikrinamos sąlygos įgyvendinti Atsinaujinančių išteklių energetikos įstatyme nustatytus tikslus ir uždavinius, taip pat Nacionaliniame pažangos plane ir kituose strateginio lygmens planavimo dokumentuose nustatytus energetikos politikos strateginius tikslus ir (ar) pažangos uždavinius ir (ar) Nacionaliniame energetikos ir klimato srities veiksmų plane numatytas įgyvendinimo priemones. Prie skirstomųjų elektros tinklų pralaidumai rezervuojami prioriteto tvarka:
 
 
-1) atsinaujinančių išteklių energijos bendrijų ar piliečių energetikos bendrijų, kai jų narių, dalininkų ar dalyvių susirinkime savivaldybėms, savivaldybių įmonėms ir (ar) savivaldybių įstaigoms priklauso daugiau negu 51 procento balsų dauguma, o šių bendrijų pagrindinė paskirtis – mažinti energijos nepriteklių ir (ar) teikti naudą pažeidžiamiems vartotojams, atsinaujinančius energijos išteklius naudojantiems elektros energijos gamybos įrenginiams prijungti; 
+1) atsinaujinančių išteklių energijos bendrijų ar piliečių energetikos bendrijų, kai jų narių, dalininkų ar dalyvių susirinkime savivaldybėms, savivaldybių įstaigoms priklauso daugiau negu 51 procento balsų dauguma ir ne mažiau kaip 40 procentų šių bendrijų eksploatuojamų atsinaujinančius energijos išteklius naudojančių elektrinių įrengtosios galios ne vėliau kaip per 6 mėnesius nuo leidimo gaminti elektros energiją gavimo dienos bus skirta mažinti energijos nepriteklių ir (ar) teikti naudą pažeidžiamiems vartotojams, atsinaujinančius energijos išteklius naudojantiems elektros energijos gamybos įrenginiams prijungti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
 
-2) fizinių asmenų, kurie yra gaminantys vartotojai ar siekia jais tapti, asmenų, vykdančių veiklą Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio 8 dalyje nustatyta tvarka ir sąlygomis, ir fizinių ar juridinių asmenų ant pastatų stogų planuojamiems įrengti atsinaujinančius energijos išteklius naudojantiems elektros energijos gamybos įrenginiams prijungti;
+2) fizinių asmenų, kurie yra gaminantys vartotojai ar siekia jais tapti, asmenų, vykdančių veiklą Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio 8 dalyje nustatyta tvarka ir sąlygomis, ir juridinių asmenų, kurių pagamintai elektros energijai taikomas grynasis atsiskaitymas, ant pastatų stogų planuojamiems įrengti atsinaujinančius energijos išteklius naudojantiems elektros energijos gamybos įrenginiams prijungti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -4787,9 +4942,11 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-22. Pralaidumų rezervavimo tvarka, atsižvelgiant į Tarybos nustatytus pagrįstus principus ir (ar) kriterijus, gali būti diferencijuojama pagal asmenų ir (ar) įrenginių grupes, elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių įrengtosios galios ar prijungimo taške suteikiamos leistinos generuoti galios dydį, taip pat pagal esamų laisvų elektros tinklų pralaidumų dalį, kai, įvertinus prie tinklo prijungtų elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių patiekiamos į elektros tinklą galios nevienalaikiškumą, gali būti nustatyti šio įstatymo 22 straipsnio 31 dalyje ir 482 straipsnio 3 dalyje numatyti prijungimo pajėgumų arba eksploatavimo apribojimai. Taryba užtikrina, kad Pasinaudojimo elektros tinklais tvarkos apraše nustatomi prijungimo pajėgumų arba eksploatavimo apribojimai būtų nustatomi remiantis skaidriomis ir nediskriminacinėmis procedūromis, taip pat kad būtų užtikrintas tinklų naudotojų naujai prijungiamų įrenginių (elektrinių ir kaupimo įrenginių) ekonominis efektyvumas ir kad nebūtų sukurta nepagrįstų kliūčių patekti į elektros energijos rinką. Vadovaudamasis Reglamento (ES) 2019/943 12 ir 13 straipsnių ir šio įstatymo nuostatomis, skirstomųjų tinklų operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos priėmimo, persiuntimo ir perskirstymo tvarką. Be to, skirstomųjų tinklų operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos persiuntimo nutraukimo sąlygas, kai tinklų naudotojo elektros įrenginių patiekiama į elektros tinklus aktyvioji galia viršija leistiną generuoti galią
+22. Šio straipsnio 21 dalyje nurodyti pralaidumų prioritetai rezervuojami Vyriausybės sprendimu nustatytoms prioritetų grupėms vadovaujantis kreipimosi dėl pralaidumų rezervavimo pirmumo principu ir atsižvelgiant į Vyriausybės nustatytas pralaidumų paskirstymo proporcijas. Pralaidumų rezervavimo tvarka, atsižvelgiant į Tarybos nustatytus pagrįstus principus ir (ar) kriterijus, gali būti diferencijuojama pagal asmenų ir (ar) įrenginių grupes, elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių įrengtosios galios ar prijungimo taške suteikiamos leistinos generuoti galios dydį, taip pat pagal esamų laisvų elektros tinklų pralaidumų dalį, kai, įvertinus prie tinklo prijungtų elektrinių, elektros energijos gamybos ir energijos kaupimo įrenginių patiekiamos į elektros tinklą galios nevienalaikiškumą, gali būti nustatyti šio įstatymo 22 straipsnio 31 dalyje ir 482 straipsnio 3 dalyje numatyti prijungimo pajėgumų arba eksploatavimo apribojimai. Leidžiama nustatyti ir taikyti prijungimo prie elektros tinklų pajėgumų arba eksploatavimo apribojimus, nulemtus perkrovų elektros tinkle, energetikos sistemos balanso (elektros energijos gamybos ir suvartojimo santykio) galimybių ir (arba) saulės ir vėjo energijos generacijos sutapties, taip pat mažinti apribojimų apimtis, esant tinklų naudotojo įsipareigojimui kartu su elektros gamybos įrenginiais įrengti energijos kaupimo įrenginius. Konkrečios šių apribojimų apimtys, jų taikymo atvejai, etapai ir principai, taip pat reikalavimai energijos kaupimo įrenginių, kurių įrengimas leidžia sumažinti ribojimus, techniniams parametrams, detalizuojami Pasinaudojimo elektros tinklais tvarkos apraše. Tinklų naudotojai privalo įdiegti Pasinaudojimo elektros tinklais tvarkos apraše nurodytas priemones elektrinių ir energijos kaupimo įrenginių nuotoliniam valdymui, reikalingas šioje dalyje nurodytų apribojimų taikymui. Ne didesnės nei 10 kW leistinos generuoti galios buitinių gaminančių vartotojų elektrinės gali būti prijungiamos taikant Pasinaudojimo elektros tinklais tvarkos apraše nurodytus reikalavimus pagal elektros tinklų įtampą ir (ar) elektros tinklų galios perkrovą. Taryba užtikrina, kad Pasinaudojimo elektros tinklais tvarkos apraše nustatomi prijungimo pajėgumų arba eksploatavimo apribojimai būtų nustatomi remiantis skaidriomis ir nediskriminacinėmis procedūromis, taip pat kad būtų užtikrintas tinklų naudotojų naujai prijungiamų įrenginių (elektrinių ir kaupimo įrenginių) ekonominis efektyvumas ir kad nebūtų sukurta nepagrįstų kliūčių patekti į elektros energijos rinką. Vadovaudamasis Reglamento (ES) 2019/943 12 ir 13 straipsnių ir šio įstatymo nuostatomis, skirstomųjų tinklų operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos priėmimo, persiuntimo ir perskirstymo tvarką. Be to, skirstomųjų tinklų operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustato elektros energijos persiuntimo nutraukimo sąlygas, kai tinklų naudotojo elektros įrenginių patiekiama į elektros tinklus aktyvioji galia viršija leistiną generuoti galią.
 Papildyta straipsnio dalimi:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Straipsnio dalies pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -5930,15 +6087,19 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-10. Statyti ar įrengti energijos kaupimo įrenginį planuojantis asmuo, gavęs išankstines energijos kaupimo įrenginio prijungimo sąlygas, parengia ir teikia tinklų operatoriui prašymą pasirašyti ketinimų protokolą. Nuo ketinimų protokolo pasirašymo momento tinklų operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustatyta tvarka rezervuoja elektros tinklų pralaidumus, reikalingus sutartam į elektros tinklą generuojamos elektros energijos kiekiui persiųsti ir (ar) sutartai elektros energijos galiai patiekti, įskaitant atvejus, kai sutariama dėl prijungimo pajėgumų arba eksploatavimo apribojimų. Ketinimų protokolą pasirašęs statyti ar įrengti energijos kaupimo įrenginį planuojantis asmuo ne vėliau kaip per 10 darbo dienų tinklų operatoriui pateikia šio įstatymo 211 straipsnio 1 dalyje nurodytą prievolių įvykdymo užtikrinimą, kuris privalo galioti 30 kalendorinių dienų ilgiau negu ketinimų protokolas ir kurio dydis apskaičiuojamas atsižvelgiant į energijos kaupimo įrenginio leistiną generuoti galios dydį (kW) dauginant iš 50 eurų už 1 kW. Jeigu statyti ar įrengti energijos kaupimo įrenginį planuojantis asmuo pasirašo ketinimų protokolą, bet per nustatytą laiką nepateikia savo prievolių įvykdymo užtikrinimo, tinklų operatorius nutraukia ketinimų protokolą ir šis asmuo 6 mėnesius praranda teisę teikti naują prašymą dėl ketinimų protokolo pasirašymo. Norint pratęsti leidimo plėtoti energijos kaupimo pajėgumus galiojimo terminą, kaip tai nustatyta šio įstatymo 16 straipsnio 6 dalies 2 punkte, prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomų įrengti energijos kaupimo įrenginių leistinos generuoti galios dydį (kW) iš 50 eurų už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimo terminą, trukmės, išreikštos metais
+10. Statyti ar įrengti energijos kaupimo įrenginį planuojantis asmuo, gavęs išankstines energijos kaupimo įrenginio prijungimo sąlygas, parengia ir teikia tinklų operatoriui prašymą pasirašyti ketinimų protokolą. Nuo ketinimų protokolo pasirašymo momento tinklų operatorius Pasinaudojimo elektros tinklais tvarkos apraše nustatyta tvarka rezervuoja elektros tinklų pralaidumus, reikalingus sutartam į elektros tinklą generuojamos elektros energijos kiekiui persiųsti ir (ar) sutartai elektros energijos galiai patiekti, įskaitant atvejus, kai sutariama dėl prijungimo pajėgumų arba eksploatavimo apribojimų. Ketinimų protokolą pasirašęs statyti ar įrengti energijos kaupimo įrenginį planuojantis asmuo ne vėliau kaip per 10 darbo dienų tinklų operatoriui pateikia šio įstatymo 211 straipsnio 1 dalyje nurodytą prievolių įvykdymo užtikrinimą, kuris privalo galioti 30 kalendorinių dienų ilgiau negu ketinimų protokolas ir kurio dydis apskaičiuojamas atsižvelgiant į energijos kaupimo įrenginio leistiną generuoti galios dydį (kW) dauginant iš 50 eurų už 1 kW. Jeigu statyti ar įrengti energijos kaupimo įrenginį planuojantis asmuo savo iniciatyva nutraukia pasirašytą ketinimų protokolą arba pasirašo ketinimų protokolą, bet per nustatytą laiką nepateikia savo prievolių įvykdymo užtikrinimo, tinklų operatorius nutraukia ketinimų protokolą ir šis asmuo 6 mėnesius praranda teisę teikti naują prašymą dėl ketinimų protokolo pasirašymo. Norint pratęsti leidimo plėtoti energijos kaupimo pajėgumus galiojimo terminą, kaip tai nustatyta šio įstatymo 16 straipsnio 6 dalyje, prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomų įrengti energijos kaupimo įrenginių leistinos generuoti galios dydį (kW) iš 50 eurų už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimo terminą, trukmės, išreikštos metais. Įpareigojimas padidinti prievolių įvykdymo užtikrinimo dydį netaikomas, kai leidimo plėtoti energijos kaupimo pajėgumus galiojimo terminą siekiama pratęsti valstybės veiksmų ar nenugalimos jėgos aplinkybių buvimo laikotarpiui. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Straipsnio dalies pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
 
 
-11. Tinklų operatorius ne vėliau kaip per 25 kalendorines dienas nuo šio straipsnio 10 dalyje nurodyto prašymo pateikimo dienos su energijos kaupimo įrenginį planuojančiu statyti ar įrengti asmeniu pasirašo ketinimų protokolą, išskyrus šio įstatymo 732 straipsnyje nurodytus atvejus. Kai šio įstatymo 732 straipsnyje nustatytu atveju turi būti įsitikinta, kad ketinimų protokolo pasirašymas ir (ar) ketinimų protokolą siekiantis pasirašyti asmuo nekelia rizikos nacionalinio saugumo interesams ar atitinka nacionalinio saugumo interesus, ketinimų protokolo pasirašymo terminas pratęsiamas tiek, kiek buvo vykdomos patikros procedūros. Ketinimų protokole privalo būti nurodyta:
+11. Tinklų operatorius ne vėliau kaip per 25 kalendorines dienas nuo šio straipsnio 10 dalyje nurodyto prašymo kartu su visais tinkamai pateiktais dokumentais, įskaitant ir kito tinklų operatoriaus išduotas išankstines prijungimo sąlygas, kai jos reikalingos ketinimų protokolui sudaryti, pateikimo dienos su energijos kaupimo įrenginį planuojančiu statyti ar įrengti asmeniu pasirašo ketinimų protokolą, išskyrus šio įstatymo 732 straipsnyje nurodytus atvejus. Kai šio įstatymo 732 straipsnyje nustatytu atveju turi būti įsitikinta, kad ketinimų protokolo pasirašymas ir (ar) ketinimų protokolą siekiantis pasirašyti asmuo nekelia rizikos nacionalinio saugumo interesams ar atitinka nacionalinio saugumo interesus, ketinimų protokolo pasirašymo terminas pratęsiamas tiek, kiek buvo vykdomos patikros procedūros. Ketinimų protokole privalo būti nurodyta: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
 
 
 1) planuojamos statyti kaupimo įrenginio įrengtoji galia, prijungimo taške leistina generuoti galia ir leistina naudoti galia;
@@ -5961,12 +6122,18 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-5) asmens įsipareigojimas per 9 mėnesius nuo prijungimo sąlygų išdavimo tinklų operatoriui pateikti techninį projektą, kai toks projektas yra privalomas. Tinklų operatorius visas savo pastabas dėl asmens pateikto techninio projekto pateikia per ne ilgesnį kaip vieno mėnesio laikotarpį. Asmuo per ne ilgesnį kaip vieno mėnesio laikotarpį įvertina pateiktas pastabas ir pateikia tinklų operatoriui patikslintą techninį projektą. Patikslintą techninį projektą tinklų operatorius turi suderinti per ne ilgesnį kaip 15 kalendorinių dienų laikotarpį;
+5) asmens įsipareigojimas per 9 mėnesius nuo prijungimo sąlygų išdavimo tinklų operatoriui pateikti techninį projektą, kai toks projektas yra privalomas. Tinklų operatorius visas savo pastabas dėl asmens pateikto techninio projekto pateikia per ne ilgesnį kaip vieno mėnesio laikotarpį. Asmuo per ne ilgesnį kaip vieno mėnesio laikotarpį įvertina pateiktas pastabas ir pateikia tinklų operatoriui patikslintą techninį projektą. Patikslintą techninį projektą tinklų operatorius turi suderinti per ne ilgesnį kaip 15 kalendorinių dienų laikotarpį. Šiame punkte nustatytas reikalavimas pateikti techninį projektą tinklų operatoriui per 9 mėnesius nuo prijungimo sąlygų išdavimo netaikomas, kai šio įsipareigojimo asmuo negali įvykdyti dėl valstybės, kitų asmenų veiksmų ir (ar) neveikimo ar nenugalimos jėgos aplinkybių. Kai yra šiame punkte nurodytos aplinkybės, kaupimo įrenginius plėtojantis asmuo pateikia tinklų operatoriui tai įrodančius dokumentus, o tinklų operatorius įvertina pateiktus dokumentus ir priima sprendimą dėl termino pratęsimo laikotarpiui, kuris negali būti ilgesnis negu nurodytų aplinkybių buvimo laikotarpis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
 
-6) asmens įsipareigojimas turėti statybą leidžiantį dokumentą, jeigu toks dokumentas yra reikalingas, ne vėliau kaip likus 12 mėnesių iki leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo pabaigos, įskaitant atvejus, kai leidimo galiojimas yra pratęstas;
+6) asmens įsipareigojimas turėti statybą leidžiantį dokumentą, jeigu toks dokumentas yra reikalingas, ne vėliau kaip likus 12 mėnesių iki leidimo plėtoti energijos kaupimo pajėgumus galiojimo pabaigos, įskaitant atvejus, kai leidimo galiojimas yra pratęstas, kai statomi ar įrengiami energijos kaupimo įrenginiai, kuriems išduotas šio įstatymo 16 straipsnio 41 dalies 1 punkte nurodytas leidimas plėtoti energijos kaupimo pajėgumus, arba ne vėliau kaip likus 24 mėnesiams iki leidimo plėtoti energijos kaupimo pajėgumus galiojimo pabaigos, įskaitant atvejus, kai leidimo galiojimas yra pratęstas, kai statomi ar įrengiami energijos kaupimo įrenginiai, kuriems išduotas šio įstatymo 16 straipsnio 41 dalies 2 punkte nurodytas leidimas plėtoti energijos kaupimo pajėgumus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
 
 
 
@@ -6041,6 +6208,29 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
+161. Tinklų operatorius pasinaudoja visu statyti ar įrengti energijos kaupimo įrenginį planuojančio asmens pateiktu prievolių įvykdymo užtikrinimu, išskyrus atvejus, kai tokie įsipareigojimai neįvykdomi dėl aplinkybių, kurių šis asmuo negalėjo kontroliuoti ir numatyti ketinimų protokolo ir (ar) energijos kaupimo įrenginio prijungimo prie elektros tinklų paslaugos sutarties sudarymo metu ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti, taip pat dėl įstatymų nustatytų kitų aplinkybių, kai nėra šio asmens kaltės, jeigu:
+
+
+1) šis asmuo energetikos sritį reglamentuojančių teisės aktų nustatyta tvarka negauna leidimo plėtoti energijos kaupimo pajėgumus;
+
+
+
+
+2) šis asmuo per leidimo plėtoti energijos kaupimo pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, neįvykdo ketinimų protokole nustatyto įsipareigojimo pastatyti ar įrengti ketinimų protokole nurodytos leistinos generuoti galios energijos kaupimo įrenginį;
+
+
+
+
+3) ketinimų protokolas tinklų operatoriaus nutraukiamas, kai asmuo neįvykdo šio įstatymo 482 straipsnio 11 dalies 3, 5 ir 6 punktuose nustatytų esminių ketinimų protokolo vykdymo sąlygų. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+ 
+
+
+
+
 17. Jeigu energijos kaupimo įrenginį planuojantis įrengti ar statyti asmuo nutraukia ketinimų protokolą, tinklų operatorius pasinaudoja pateikto prievolių įvykdymo užtikrinimo dalimi, kuri apskaičiuojama 0,041 euro už 1 kW dauginant iš laikotarpio nuo prievolių įvykdymo užtikrinimo pateikimo dienos iki dienos, kai asmuo nutraukia ketinimų protokolą, išreikšto dienomis
 Papildyta straipsnio dalimi:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
@@ -6049,9 +6239,11 @@ Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
 
 
 
-18. Jeigu energijos kaupimo įrenginį planuojantis įrengti ar statyti asmuo per leidimo plėtoti elektros energijos kaupimo pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, pastato ar įrengia mažesnės generuojančios galios kaupimo įrenginį, negu buvo įsipareigojęs pagal ketinimų protokolą, tinklų operatorius pasinaudoja pateikto prievolių įvykdymo užtikrinimo dalimi proporcingai neįvykdytiems įsipareigojimams. Faktinė leistina generuoti galia nustatoma pagal leidime generuoti elektros energiją iš kaupimo įrenginių nurodytą leistiną generuoti galią, kuri turi atitikti šio įstatymo 201 straipsnio 2 dalyje nurodytą sąlygą
+18. Jeigu energijos kaupimo įrenginį planuojantis įrengti ar statyti asmuo per leidimo plėtoti energijos kaupimo pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, pastato ar įrengia mažesnės generuojančios galios kaupimo įrenginį, negu buvo įsipareigojęs pagal ketinimų protokolą, tinklų operatorius pasinaudoja pateikto prievolių įvykdymo užtikrinimo dalimi proporcingai neįvykdytiems įsipareigojimams, išskyrus atvejus, kai tokie įsipareigojimai neįvykdomi dėl aplinkybių, kurių šis asmuo negalėjo kontroliuoti ir numatyti ketinimų protokolo ir (ar) elektrinės prijungimo prie elektros tinklų paslaugos sutarties sudarymo metu ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti, taip pat dėl įstatymų nustatytų kitų aplinkybių, kai nėra šio asmens kaltės. Faktinė leistina generuoti galia nustatoma pagal leidime generuoti elektros energiją iš kaupimo įrenginių nurodytą leistiną generuoti galią, kuri turi atitikti šio įstatymo 201 straipsnio 2 dalyje nurodytą sąlygą.
 Papildyta straipsnio dalimi:
 Nr. XIV-1170, 2022-06-23, paskelbta TAR 2022-07-07, i. k. 2022-14907
+Straipsnio dalies pakeitimai:
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -7909,9 +8101,10 @@ Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 
 
-8. Vartotojai, kurių prijungiamų elektros įrenginių leistina naudoti galia ar didinama elektros įrenginių leistina naudoti galia yra ne mažesnė kaip 10 MW, ar energijos kaupimo įrenginių savininkai, kurių elektros įrenginiams prijungti prie elektros tinklų reikia pastatyti naujus elektros perdavimo tinklus ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su perdavimo sistemos operatoriumi, pastatyti šiuos elektros tinklus ir organizuoti jų statybos darbus, apmoka 100 procentų perdavimo tinklų statybos sąnaudų. Atlikti perdavimo tinklų statybos darbai laikomi vartotojo ar energijos kaupimo įrenginių savininko elektros įrenginių prijungimo prie perdavimo tinklo paslaugos dalimi ir šie vartotojų ar energijos kaupimo įrenginių savininkų lėšomis pastatyti perdavimo tinklai yra perdavimo sistemos operatoriaus nuosavybė. Prie šių perdavimo tinklų prijungiant kitų tinklų naudotojų įrenginius, už jų statybą ir (ar) naudojimą šiuos perdavimo tinklus pastačiusiems vartotojams ar energijos kaupimo įrenginių savininkams neatlyginama. 
+8. Vartotojai, kurių prijungiamų elektros įrenginių leistina naudoti galia ar didinama elektros įrenginių leistina naudoti galia yra ne mažesnė kaip 10 MW, tinklų naudotojai ar energijos kaupimo įrenginių savininkai, kurių elektros įrenginiams prijungti prie elektros tinklų reikia pastatyti naujus ir (ar) rekonstruoti esamus elektros perdavimo tinklus ir kurie pageidauja Lietuvos Respublikos energetikos ministerijos nustatyta tvarka, suderinę su perdavimo sistemos operatoriumi, pastatyti ir (ar) rekonstruoti šiuos elektros tinklus ir organizuoti jų statybos ir (ar) rekonstrukcijos darbus, apmoka 100 procentų perdavimo tinklų statybos sąnaudų. Atlikti perdavimo tinklų statybos darbai laikomi vartotojo, tinklų naudotojo ar energijos kaupimo įrenginių savininko elektros įrenginių prijungimo prie perdavimo tinklo paslaugos dalimi ir šie vartotojų, tinklų naudotojų ar energijos kaupimo įrenginių savininkų lėšomis pastatyti perdavimo tinklai yra perdavimo sistemos operatoriaus nuosavybė. Prie šių perdavimo tinklų prijungiant kitų tinklų naudotojų įrenginius, už jų statybą ir (ar) rekonstravimą, ir (ar) naudojimą šiuos perdavimo tinklus pastačiusiems ir (ar) rekonstravusiems vartotojams, tinklų naudotojams ar energijos kaupimo įrenginių savininkams neatlyginama.
 Straipsnio dalies pakeitimai:
 Nr. XIV-627, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24219
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
  
 
 
@@ -10673,3 +10866,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2282, 2023-11-23, paskelbta TAR 2023-11-29, i. k. 2023-23024
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 19, 22-1, 22-2, 33, 48, 51 ir 61-1 straipsnių pakeitimo įstatymas
+ 
+57.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2397, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25913
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 14, 16, 17, 20-1, 21-1, 22, 31, 39, 48-2 ir 67 straipsnių pakeitimo įstatymas
