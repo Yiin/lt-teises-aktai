@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-05-05
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -349,7 +349,10 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-4. Šio straipsnio 2 dalies 1–5 punktuose nurodytą galiojančią licenciją turinčiam vežėjui išduodamos licencijos kopijos, kurios turi būti naudojamos vykdant profesinę vežimo kelių transportu veiklą. Laikoma, kad licencijos kopija yra naudojama, kai Lietuvos vežėjų informacinėje sistemoje ji yra susieta su konkrečia vežėjo kelių transporto priemone. Šio straipsnio 2 dalies 1–5 punktuose nurodytą licenciją turintys vežėjai neturi teisės perleisti suteiktos teisės vykdyti licencijuojamą veiklą ir licencijų kopijų kitiems asmenims. Priekaboms ir puspriekabėms licencijų kopijų nereikia.
+4. Šio straipsnio 2 dalies 1–5 punktuose nurodytą galiojančią licenciją turinčiam vežėjui, išskyrus šio straipsnio 7 dalyje numatytus atvejus, išduodamos licencijos kopijos, kurios turi būti naudojamos vykdant profesinę vežimo kelių transportu veiklą. Laikoma, kad licencijos kopija yra naudojama, kai Lietuvos vežėjų informacinėje sistemoje ji yra susieta su konkrečia vežėjo kelių transporto priemone. Šio straipsnio 2 dalies 1–5 punktuose nurodytą licenciją turintys vežėjai neturi teisės perleisti suteiktos teisės vykdyti licencijuojamą veiklą ir licencijų kopijų kitiems asmenims. Priekaboms ir puspriekabėms licencijų kopijų nereikia. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2200, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21640
+ 
 
 
 
@@ -360,6 +363,47 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 6. Šio straipsnio 2 dalies 2 ir 3 punktuose nurodytą galiojančią licenciją turintis vežėjas gali turėti ne daugiau kaip 5 vairuotojus kiekvienai kelių transporto priemonei, turinčiai galiojančią licencijos kopiją.
+
+
+
+
+7. Šio straipsnio 2 dalies 2 ir 3 punktuose nurodytą galiojančią licenciją turintis vežėjas gali naudoti krovinines transporto priemones, kurias jis išsinuomoja iš kitų Europos Sąjungos valstybių narių teritorijose įsisteigusių įmonių, su sąlyga, kad:
+
+
+1) jos yra įregistruotos arba pradėtos naudoti pagal bet kurios Europos Sąjungos valstybės narės teisės aktų nuostatas ir turi galiojančią licencijos kopiją;
+
+
+
+
+2) jos nuomojamos be vairuotojo;
+
+
+
+
+3) per visą nuomos laikotarpį jomis naudosis tik vežėjas;
+
+
+
+
+4) jos bus vairuojamos vežėjo darbuotojų;
+
+
+
+
+5) jos sudarys ne daugiau kaip 25 procentus vežėjo naudojamų krovininių transporto priemonių, kurios turi galiojančią licencijos kopiją, parko tą dieną, kai vežėjas išsinuomotą transporto priemonę pradeda naudoti profesinei krovinių vežimo veiklai; tuo atveju, kai visą vežėjo naudojamų krovininių transporto priemonių, kurios turi galiojančią licencijos kopiją, parką sudaro daugiau kaip viena transporto priemonė ir mažiau kaip keturios transporto priemonės, vežėjas gali naudoti bent vieną tokią transporto priemonę
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2200, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21640
+ 
+
+
+
+
+8. Šio straipsnio 2 dalies 2 ir 3 punktuose nurodytą galiojančią licenciją turintis vežėjas gali savo nuosavybės teise ar kitais teisėtais pagrindais valdomas ar naudojamas krovinines transporto priemones išnuomoti kitų Europos Sąjungos valstybių narių teritorijose įsisteigusioms įmonėms. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2200, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21640
+ 
 
 
 Straipsnio pakeitimai:
@@ -440,9 +484,10 @@ Nr. XIV-1827, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05727
 
 
 
-7. Paaiškėjus, kad vežėjas nebeatitinka bent vieno iš Reglamento (EB) Nr. 1071/2009 3 straipsnyje nustatytų reikalavimų (kai vežėjas turi šio kodekso 8 straipsnio 2 dalies 4 ir 5 punktuose nurodytas licencijas, Reglamento (EB) Nr. 1071/2009 3 straipsnio 1 dalies c punkte nustatyto reikalavimo atitikti nereikia) ar netenkina bent vienos iš Reglamento (EB) Nr. 1071/2009 5 straipsnyje, 6 straipsnio 1 dalyje, 7 straipsnio 1 dalyje (kai vežėjas turi šio kodekso 8 straipsnio 2 dalies 4 ir 5 punktuose nurodytas licencijas, Reglamento (EB) Nr. 1071/2009 3 straipsnio 1 dalies c punkte nustatyto reikalavimo atitikti nereikia) ir 8 straipsnio 1 dalyje nurodytų sąlygų ar šio kodekso 8 straipsnio 6 dalyje nurodytos sąlygos, vežėjas ne vėliau kaip per 3 darbo dienas įspėjamas apie galimą licencijos galiojimo sustabdymą ir jam suteikiamas Vyriausybės tvirtinamose kelių transporto veiklos licencijavimo taisyklėse nustatytas terminas trūkumams pašalinti. Paaiškėjus, kad vežėjas tik iš dalies netenkina Reglamento (EB) Nr. 1071/2009 7 straipsnio 1 dalyje nurodytų sąlygų (kai vežėjas turi šio kodekso 8 straipsnio 2 dalies 4 ir 5 punktuose nurodytas licencijas, Reglamento (EB) Nr. 1071/2009 3 straipsnio 1 dalies c punkte nustatyto reikalavimo atitikti nereikia), jis ne vėliau kaip per 3 darbo dienas įspėjamas apie galimą dalies licencijos kopijų, kurių skaičius priklauso nuo to, kiek vežėjas neatitinka nurodytos sąlygos, galiojimo sustabdymą ir jam suteikiamas Vyriausybės tvirtinamose kelių transporto veiklos licencijavimo taisyklėse nustatytas terminas trūkumams pašalinti.
+7. Paaiškėjus, kad vežėjas nebeatitinka bent vieno iš Reglamento (EB) Nr. 1071/2009 3 straipsnyje nustatytų reikalavimų (kai vežėjas turi šio kodekso 8 straipsnio 4 dalies 4 ir 5 punktuose nurodytas licencijas, Reglamento (EB) Nr. 1071/2009 3 straipsnio 1 dalies c punkte nustatyto reikalavimo atitikti nereikia) ar netenkina bent vienos iš Reglamento (EB) Nr. 1071/2009 5 straipsnyje, 6 straipsnio 1 dalyje, 7 straipsnio 1 dalyje (kai vežėjas turi šio kodekso 8 straipsnio 4 dalies 4 ir 5 punktuose nurodytas licencijas, Reglamento (EB) Nr. 1071/2009 3 straipsnio 1 dalies c punkte nustatyto reikalavimo atitikti nereikia) ir 8 straipsnio 1 dalyje nurodytų sąlygų ar šio kodekso 8 straipsnio 6 dalyje nurodytos sąlygos, ar bent vienos iš šio kodekso 8 straipsnio 7 dalyje nurodytų sąlygų, vežėjas ne vėliau kaip per 3 darbo dienas įspėjamas apie galimą licencijos galiojimo sustabdymą ir jam suteikiamas Vyriausybės tvirtinamose kelių transporto veiklos licencijavimo taisyklėse nustatytas terminas trūkumams pašalinti. Paaiškėjus, kad vežėjas tik iš dalies netenkina Reglamento (EB) Nr. 1071/2009 7 straipsnio 1 dalyje nurodytų sąlygų (kai vežėjas turi šio kodekso 8 straipsnio 4 dalies 4 ir 5 punktuose nurodytas licencijas, Reglamento (EB) Nr. 1071/2009 3 straipsnio 1 dalies c punkte nustatyto reikalavimo atitikti nereikia), jis ne vėliau kaip per 3 darbo dienas įspėjamas apie galimą dalies licencijos kopijų, kurių skaičius priklauso nuo to, kiek vežėjas neatitinka nurodytos sąlygos, galiojimo sustabdymą ir jam suteikiamas Vyriausybės tvirtinamose kelių transporto veiklos licencijavimo taisyklėse nustatytas terminas trūkumams pašalinti.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1827, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05727
+Nr. XIV-2200, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21640
  
 
 
@@ -823,9 +868,10 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-2. Už Lietuvos vežėjų informacinėje sistemoje kaupiamų duomenų tvarkymą, keitimąsi informacija apie teistumus ir sankcijas už visus padarytus sunkius pažeidimus, nurodytus Reglamento (EB) Nr. 1071/2009 6 straipsnio 2 dalyje, su kitomis Europos Sąjungos valstybėmis narėmis ir ataskaitų, nurodytų Reglamento (EB) Nr. 1071/2009 26 straipsnyje, Reglamento (EB) Nr. 1072/2009 17 straipsnyje ir Reglamento (EB) Nr. 1073/2009 28 straipsnyje, teikimą Europos Komisijai atsakinga Transporto saugos administracija. 
+2. Už Lietuvos vežėjų informacinėje sistemoje kaupiamų duomenų tvarkymą, keitimąsi informacija apie teistumus ir sankcijas už visus padarytus sunkius pažeidimus, nurodytus Reglamento (EB) Nr. 1071/2009 6 straipsnio 2 dalyje, taip pat už keitimąsi informacija, nurodyta šio kodekso 7 ir 8 dalyse, su kitomis Europos Sąjungos valstybėmis narėmis ir ataskaitų, nurodytų Reglamento (EB) Nr. 1071/2009 26 straipsnyje, Reglamento (EB) Nr. 1072/2009 17 straipsnyje ir Reglamento (EB) Nr. 1073/2009 28 straipsnyje, teikimą Europos Komisijai atsakinga Transporto saugos administracija.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
+Nr. XIV-2200, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21640
  
 
 
@@ -3644,77 +3690,73 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-Lietuvos Respublikos kelių 
-transporto kodekso
+„Lietuvos Respublikos 
+kelių transporto kodekso
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Tarybos reglamentą (EEB) Nr. 3820/85. 
+1. 2006 m. sausio 18 d. Europos Parlamento ir Tarybos direktyva 2006/1/EB dėl transporto priemonių, išnuomotų be vairuotojų, naudojimo kroviniams vežti keliais su pakeitimais, padarytais 2022 m. balandžio 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/738.
 
 
 
 
-2. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70.
+2. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Tarybos reglamentą (EEB) Nr. 3820/85 su paskutiniais pakeitimais, padarytais 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1054.
 
 
 
 
-3. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1071/2009, nustatantis bendrąsias profesinės vežimo kelių transportu veiklos sąlygų taisykles ir panaikinantis Tarybos direktyvą 96/26/EB.
+3. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/2338.
 
 
 
 
-4. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1072/2009 dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių.
+4. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1071/2009, nustatantis bendrąsias profesinės vežimo kelių transportu veiklos sąlygų taisykles ir panaikinantis Tarybos direktyvą 96/26/EB, su paskutiniais pakeitimais, padarytais 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1055.
 
 
 
 
-5. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1073/2009 dėl bendrųjų patekimo į tarptautinę keleivių vežimo tolimojo susisiekimo ir miesto autobusais rinką taisyklių ir iš dalies keičiantis Reglamentą (EB) Nr. 561/2006.
+5. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1072/2009 dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių su paskutiniais pakeitimais, padarytais 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1055.
 
 
 
 
-6. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004.
+6. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1073/2009 dėl bendrųjų patekimo į tarptautinę keleivių vežimo tolimojo susisiekimo ir miesto autobusais rinką taisyklių ir iš dalies keičiantis Reglamentą (EB) Nr. 561/2006 su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos reglamentu (ES) Nr. 517/2013.
 
 
 
 
-7. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo.
+7. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004.
 
 
 
 
-8. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/719, kuria iš dalies keičiama Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę.
+8. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 dėl kelių transporto priemonėse naudojamų tachografų, kuriuo panaikinamas Tarybos reglamentas (EEB) Nr. 3821/85 dėl kelių transporto priemonėse naudojamų tachografų ir iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo, su paskutiniais pakeitimais, padarytais 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1054.
 
 
 
 
-9. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1054, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 561/2006, kiek tai susiję su būtiniausiais reikalavimais dėl maksimalios kasdienio bei kassavaitinio vairavimo trukmės, minimalių pertraukų ir kasdienio bei kassavaitinio poilsio laikotarpių, ir Reglamentas (ES) Nr. 165/2014, kiek tai susiję su vietos nustatymu tachografais.
+9. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/719, kuria iš dalies keičiama Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę.
 
 
 
 
-10. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1055, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1071/2009, (EB) Nr. 1072/2009 ir (ES) Nr. 1024/2012, siekiant juos suderinti su pokyčiais kelių transporto sektoriuje.
+10. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1056 dėl elektroninės krovinių vežimo informacijos.
 
 
 
 
-11. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1056 dėl elektroninės krovinių vežimo informacijos.
-
-
-
-
-12. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1057, kuria nustatomos konkrečios su Direktyva 96/71/EB ir Direktyva 2014/67/ES susijusios kelių transporto vairuotojų komandiravimo taisyklės ir iš dalies keičiami Direktyva 2006/22/EB, kiek tai susiję su vykdymo užtikrinimo reikalavimais, ir Reglamentas (ES) Nr. 1024/2012.
+11. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1057, kuria nustatomos konkrečios su Direktyva 96/71/EB ir Direktyva 2014/67/ES susijusios kelių transporto vairuotojų komandiravimo taisyklės ir iš dalies keičiami Direktyva 2006/22/EB, kiek tai susiję su vykdymo užtikrinimo reikalavimais, ir Reglamentas (ES) Nr. 1024/2012.
+__________________
 
 
 Priedo pakeitimai:
 Nr. XI-573, 2009-12-17, Žin., 2009, Nr. 154-6952 (2009-12-28), i. k. 1091010ISTA00XI-573
 Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
 Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
+Nr. XIV-2200, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21640
  
  
  
@@ -3829,3 +3871,8 @@ Lietuvos Respublikos kelių transporto kodekso 18-1 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1827, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05727
 Lietuvos Respublikos kelių transporto kodekso 8-1, 11, 16, 17-1, 18, 18-2 straipsnių pakeitimo ir Kodekso papildymo 18-2 straipsniu įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2200, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21640
+Lietuvos Respublikos kelių transporto kodekso 8, 8-1, 8-3 straipsnių ir priedo pakeitimo įstatymas
