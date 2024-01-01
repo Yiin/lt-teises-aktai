@@ -21,7 +21,7 @@ PAGALBOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2033-12-31
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 57-2850, i. k. 1131010ISTA0XII-311
  
@@ -370,9 +370,10 @@ Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 
 
-5. Vyriausybės nustatyta tvarka šio straipsnio 3 dalyje nurodytus vystomojo bendradarbiavimo Programos lėšomis finansuojamus projektus atrenka Užsienio reikalų ministerija, šio straipsnio 4 dalyje nurodytus vystomojo bendradarbiavimo projektus – valstybės ir savivaldybių institucijos, o šio įstatymo 13 straipsnio 3 dalyje nurodytus dvišalės paramos vystymuisi projektus, finansuojamus Fondo lėšomis, – Fondo taryba. 
+5. Vyriausybės nustatyta tvarka šio straipsnio 3 dalyje nurodytus vystomojo bendradarbiavimo Programos lėšomis finansuojamus projektus atrenka Užsienio reikalų ministerija, šio straipsnio 4 dalyje nurodytus vystomojo bendradarbiavimo projektus – valstybės ir savivaldybių institucijos, o šio įstatymo 13 straipsnio 3 ir 4 dalyse nurodytus dvišalės paramos vystymuisi projektus, finansuojamus Fondo lėšomis, – Fondo taryba.
 Straipsnio dalies pakeitimai:
 Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
+Nr. XIV-2235, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22964
  
 
 
@@ -637,17 +638,34 @@ Nr. XIV-75, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28361
 
 
 
-4. Fondas administruojamas pagal šį įstatymą ir kitus teisės aktus, nustatančius valstybės biudžeto lėšų naudojimo principus ir tvarką, ir Vyriausybės patvirtintus Fondo nuostatus. Fondą administruoja CPVA. Fondo lėšos laikomos atskiroje CPVA sąskaitoje banke. Fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti. Per biudžetinius metus nepaskirstytos, taip pat nuo įgyvendinamų projektų likusios nepanaudotos Fondo lėšos lieka Fondo sąskaitoje ir naudojamos kitais biudžetiniais metais.
+4. Fondo lėšos taip pat sudaromos iš už Lietuvos Respublikos tarptautinių sankcijų įstatyme nustatytų tarptautinių sankcijų pažeidimus ir už Lietuvos Respublikos įstatymuose nustatytų ribojamųjų priemonių pažeidimus sumokėtų baudų, už Lietuvos Respublikos baudžiamojo kodekso 1231 straipsnyje nurodytos nusikalstamos veikos ar už Lietuvos Respublikos administracinių nusižengimų kodekso 515 straipsnyje nurodyto administracinio nusižengimo padarymą sumokėtų baudų, taip pat iš pajamų iš konfiskuoto turto realizavimo, jeigu tokia poveikio priemonė paskirta už šioje dalyje nurodytus pažeidimus. Šios lėšos naudojamos dvišalei paramai vystymuisi, išskirtinai susijusiai su Ukrainos atstatymu ir atkūrimu, reikalingais dėl Rusijos Federacijos agresijos prieš Ukrainą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2235, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22964
+ 
 
 
 
 
-5. Sprendimus dėl Fondo lėšų skyrimo Fondo nuostatuose nustatyta tvarka priima Fondo taryba. Fondo tarybą sudaro septyni nariai: keturi valstybės institucijų atstovai, po vieną Lietuvos savivaldybių asociacijos, verslo asocijuotų struktūrų ir nevyriausybinių organizacijų atstovą. Fondo tarybai vadovauja pirmininkas, kurį iš narių skiria užsienio reikalų ministras. Fondo tarybos nariu gali būti skiriamas Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus atitinkantis asmuo. Fondo tarybos institucinę sudėtį užsienio reikalų ministro teikimu trejiems metams tvirtina Vyriausybė. Personalinę Fondo tarybos sudėtį tvirtina užsienio reikalų ministras. Fondo tarybos darbą organizuoja Užsienio reikalų ministerija. Fondo tarybos sudarymo tvarka, Fondo tarybos narių kompetencijos reikalavimai nustatomi Fondo nuostatuose. Fondo tarybos nariams, kurie nėra valstybės institucijų ir įstaigų atstovai, už darbą apmokama Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+5. Fondas administruojamas pagal šį įstatymą ir kitus teisės aktus, nustatančius valstybės biudžeto lėšų naudojimo principus ir tvarką, ir Vyriausybės patvirtintus Fondo nuostatus. Fondą administruoja CPVA. Fondo lėšos laikomos atskiroje CPVA sąskaitoje banke. Fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti. Per biudžetinius metus nepaskirstytos, taip pat nuo įgyvendinamų projektų likusios nepanaudotos Fondo lėšos lieka Fondo sąskaitoje ir naudojamos kitais biudžetiniais metais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2235, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22964
+ 
 
 
 
 
-6. Fondo veikla nutraukiama įstatymų nustatyta tvarka. Nutraukus Fondo veiklą, jo lėšos, atsižvelgiant į jų šaltinį, pervedamos į valstybės biudžetą arba atitinkamam subjektui, nurodytam šio straipsnio 3 dalyje. 
+6. Sprendimus dėl Fondo lėšų skyrimo Fondo nuostatuose nustatyta tvarka priima Fondo taryba. Fondo tarybą sudaro septyni nariai: keturi valstybės institucijų atstovai, po vieną Lietuvos savivaldybių asociacijos, verslo asocijuotų struktūrų ir nevyriausybinių organizacijų atstovą. Fondo tarybai vadovauja pirmininkas, kurį iš narių skiria užsienio reikalų ministras. Fondo tarybos nariu gali būti skiriamas Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus atitinkantis asmuo. Fondo tarybos institucinę sudėtį užsienio reikalų ministro teikimu trejiems metams tvirtina Vyriausybė. Personalinę Fondo tarybos sudėtį tvirtina užsienio reikalų ministras. Fondo tarybos darbą organizuoja Užsienio reikalų ministerija. Fondo tarybos sudarymo tvarka, Fondo tarybos narių kompetencijos reikalavimai nustatomi Fondo nuostatuose. Fondo tarybos nariams, kurie nėra valstybės institucijų ir įstaigų atstovai, už darbą apmokama Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2235, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22964
+ 
+
+
+
+
+7. Fondo veikla nutraukiama įstatymų nustatyta tvarka. Nutraukus Fondo veiklą, jo lėšos, atsižvelgiant į jų šaltinį, pervedamos į valstybės biudžetą arba atitinkamam subjektui, nurodytam šio straipsnio 3 dalyje. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2235, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22964
+ 
 
 
 Papildyta straipsniu:
