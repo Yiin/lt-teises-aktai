@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS
  
 
 
-Suvestinė redakcija nuo 2023-06-25 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -3675,17 +3675,26 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 
 
 
-2. Valstybinė vartotojų teisių apsaugos tarnyba, siekdama įgyvendinti šio įstatymo 12 straipsnio 2 dalies 6 punkte nurodytą teisę, privalo pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jei jie žinomi), interneto svetainę identifikuojantis domeno vardas, įstatymų pažeidimų esmė ir numatomi atlikti veiksmai (privalomi nurodymai).
+2. Valstybinė vartotojų teisių apsaugos tarnyba, siekdama įgyvendinti šio įstatymo 12 straipsnio 2 dalies 6 punkte nurodytą teisę, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Prašyme turi būti nurodyta pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jei jie žinomi), interneto svetainę identifikuojantis domeno vardas, įstatymų pažeidimų esmė ir numatomi atlikti veiksmai (privalomi nurodymai).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
+ 
 
 
 
 
-3. Vilniaus apygardos administracinis teismas Valstybinės vartotojų teisių apsaugos tarnybos prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 5 dienas nuo prašymo gavimo dienos. 
+3. Teismas Valstybinės vartotojų teisių apsaugos tarnybos prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 5 dienas nuo prašymo gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
+ 
 
 
 
 
-4. Jeigu Valstybinė vartotojų teisių apsaugos tarnyba nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7  dienas nuo skundo gavimo dienos.
+4. Jeigu Valstybinė vartotojų teisių apsaugos tarnyba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo skundo gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
+ 
 
 
 
@@ -4100,3 +4109,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 13-1, 30, 32, 33, 34 straipsnių ir priedo pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 49-1 straipsnio pakeitimo įstatymas
