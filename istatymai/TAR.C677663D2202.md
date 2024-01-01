@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-05-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -1998,19 +1998,19 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 20 straipsnis. Neapmokestinamasis pajamų dydis 
 
 
-1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, taikomas tokia tvarka:
+1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, taikomas tokia tvarka:
 
 
-1) MNPD negali būti didesnis negu 7 500 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos;
-
-
-
-
-2) kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, tačiau neviršija 23 112 eurų per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+1) MNPD negali būti didesnis negu 8 964 eurai, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos;
 
 
 
- Gyventojui taikytinas MNPD = 7 500 – 0,42 × (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių); 
+
+2) kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, tačiau neviršija 26 004 eurų per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+
+
+
+ Gyventojui taikytinas MNPD = 8 964 – 0,5 × (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių); 
 
 
 
@@ -2019,20 +2019,21 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 
 
-3) kai GMP viršija 23 112 eurų per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+3) kai GMP viršija 26 004 eurus per metus, MNPD negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 
 
- Gyventojui taikytinas MNPD = 4 800 – 0,18 × (GMP – 12 × 642). 
+ Gyventojui taikytinas MNPD = 4 800 – 0,18 × (GMP – 12 × 642) 
 
 
 
-TAR pastaba. 1 dalis taikoma apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
+TAR pastaba. 1 dalis taikoma apskaičiuojant ir deklaruojant 2024 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1098, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10748
 Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
+Nr. XIV-2383, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25334
  
 
 
@@ -2041,16 +2042,16 @@ Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
 2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 625 eurai;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 747 eurai;
 
 
 
 
-2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, tačiau neviršija 1 926 eurų, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
+2) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieną dydį, tačiau neviršija 2 167 eurų, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
 
 
- Gyventojui taikytinas mėnesio NPD = 625 – 0,42 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis); 
+ Gyventojui taikytinas mėnesio NPD = 747 – 0,5 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis); 
 
 
 
@@ -2059,15 +2060,15 @@ Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
 
 
 
-3) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija 1 926 eurus, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
+3) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį viršija 2 167 eurus, taikytinas mėnesio NPD apskaičiuojamas pagal šią formulę:
 
 
 
- Gyventojui taikytinas mėnesio NPD = 400 – 0,18 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – 642). 
+ Gyventojui taikytinas mėnesio NPD = 400 – 0,18 × (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – 642) 
 
 
 
-TAR pastaba. 2 dalis taikoma apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas
+TAR pastaba. 2 dalis taikoma apskaičiuojant ir deklaruojant 2024 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 
 Straipsnio dalies pakeitimai:
@@ -2077,6 +2078,7 @@ Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 Nr. XIV-713, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25140
 Nr. XIV-1098, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10748
 Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
+Nr. XIV-2383, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25334
  
 
 
@@ -2097,14 +2099,15 @@ Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
 
 
 
-6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 1 005 eurai. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 935 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.
-TAR pastaba. 6 dalis taikoma apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
+6. Asmenims, kuriems yra nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 1 127 eurai. Asmenims, kuriems yra nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 1 057 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.
+TAR pastaba. 6 dalis taikoma apskaičiuojant ir deklaruojant 2024 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 Nr. XIV-713, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25140
 Nr. XIV-1098, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10748
 Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
+Nr. XIV-2383, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25334
  
 
 
@@ -3594,4 +3597,9 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 strai
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1550, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24638
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 straipsnio pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2383, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25334
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 straipsnio pakeitimo įstatymas
