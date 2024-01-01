@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -801,7 +801,10 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
 
 
 
-5) investuojama į laisvąsias ekonomines zonas, mokslo ir technologijų parkus, pramonės parkus;
+5) investuojama į laisvąsias ekonomines zonas, mokslo ir technologijų parkus, pramonės parkus, Žemės įstatymo nustatyta tvarka rezervuotus investicinius valstybinės žemės sklypus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
+ 
 
 
 
@@ -874,7 +877,10 @@ Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
 
 
 
-9) infrastruktūra iki investicinio žemės sklypo, atitinkančio Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus, ribos ir (ar) jo ribose įrengiama ir (ar) sutvarkoma ir (ar) investicinis žemės sklypas vystomas valstybės ir (ar) savivaldybės Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Investuotojo pageidavimu, gavus laisvosios ekonominės zonos valdymo bendrovės, pramonės parko operatoriaus sutikimą, kuris duodamas, jeigu investuotojo pageidavimas atitinka Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 9 straipsnyje nustatytus valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo principus, infrastruktūra laisvojoje ekonominėje zonoje, pramonės parke įrengiama ir (ar) sutvarkoma investuotojo lėšomis teisės aktų nustatyta tvarka;
+9) infrastruktūra iki investicinio žemės sklypo, įskaitant Žemės įstatymo nustatyta tvarka rezervuotą investicinį valstybinės žemės sklypą, atitinkančio Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus, ribos ir (ar) jo ribose įrengiama ir (ar) sutvarkoma ir (ar) investicinis žemės sklypas vystomas valstybės ir (ar) savivaldybės Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Investuotojo pageidavimu, gavus laisvosios ekonominės zonos valdymo bendrovės, pramonės parko operatoriaus sutikimą, kuris duodamas, jeigu investuotojo pageidavimas atitinka Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 9 straipsnyje nustatytus valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo principus, infrastruktūra laisvojoje ekonominėje zonoje, pramonės parke įrengiama ir (ar) sutvarkoma investuotojo lėšomis teisės aktų nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
+ 
 
 
 
@@ -894,7 +900,15 @@ Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
 
 
 
-13) laisvųjų ekonominių zonų įmonėms taikomos šio įstatymo 155 straipsnio 3 dalyje numatytos specialios investavimo ir verslo sąlygos.
+13) laisvųjų ekonominių zonų įmonėms taikomos šio įstatymo 155 straipsnio 3 dalyje numatytos specialios investavimo ir verslo sąlygos;
+
+
+
+
+14) Žemės įstatymo nustatyta tvarka valstybė rezervuoja investicinius valstybinės žemės sklypus apdirbamosios gamybos ir (ar) mokslinių tyrimų ar taikomosios veiklos privačių investicijų projektams, dėl kurių šio įstatymo nustatyta tvarka tarp privataus subjekto ir Vyriausybės, jos įgaliotos institucijos ar savivaldybės yra sudaromos investicijų sutartys ir kuriuos įgyvendinant bus pasiekti ne mažesni negu šio straipsnio 1 dalies 6 punkte nustatyti privačių investicijų, kuriamų darbo vietų, jų išlaikymo ir mokamo darbo užmokesčio kriterijai. Lietuvos Respublikos ekonomikos ir inovacijų ministerija Lietuvos Respublikos Vyriausybės arba jos įgaliotų institucijų nustatyta tvarka, įvertinusi privačių investicijų projektu sukuriamų naujų darbo vietų skaičių, privačių kapitalo investicijų dydį, aukštos profesinės kvalifikacijos darbuotojų dalį, naujų darbo vietų darbo užmokesčio vidurkį, lyginamą su Valstybės duomenų agentūros skelbiamu savivaldybės, kurioje įgyvendinamas privačių investicijų projektas, darbo užmokesčio vidurkiu, privačių investicijų projekto įgyvendinimo vietą, privačių investicijų projekto atitiktį reikšmingos žalos nedarymo principui, apskaičiuoja privačių investicijų projekto kvalifikacinį balą ir priima sprendimą dėl privačių investicijų projekto naudingumo, kuriuo remiantis teikia siūlymą Nacionalinei žemės tarnybai prie Aplinkos ministerijos dėl tikslingumo konkrečiam privačių investicijų projektui įgyvendinti išnuomoti rezervuotą investicinį valstybinės žemės sklypą.
+Papildyta straipsnio punktu:
+Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
+ 
 
 
 
@@ -1477,7 +1491,10 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 
 
 
-2. Sudarius stambaus projekto investicijų sutartį, stambus projektas įtraukiamas į stambių projektų sąrašą ir nuo įtraukimo į šį sąrašą dienos yra laikomas valstybei svarbiu projektu. Stambus projektas netenka valstybei svarbaus projekto statuso jį išbraukus iš stambių projektų sąrašo. Stambūs projektai išbraukiami iš stambių projektų sąrašo pasibaigus stambaus projekto įgyvendinimo terminui, jeigu nėra nustatytas stambaus projekto tęstinumo laikotarpis, pasibaigus stambaus projekto tęstinumo laikotarpiui arba nutraukus stambaus projekto investicijų sutartį, jeigu ji nutraukiama anksčiau, negu pasibaigia stambaus projekto įgyvendinimo terminas arba stambaus projekto tęstinumo laikotarpis. Stambių projektų įtraukimo į stambių projektų sąrašą ir išbraukimo iš šio sąrašo tvarką nustato Lietuvos Respublikos Vyriausybė.
+2. Sudarius stambaus projekto investicijų sutartį, stambus projektas įtraukiamas į stambių projektų sąrašą ir nuo įtraukimo į šį sąrašą dienos yra laikomas valstybei svarbiu projektu. Šio valstybei svarbaus projekto teritorijų planavimo dokumento planavimo organizatorė yra Ekonomikos ir inovacijų ministerija, kai tokiam teritorijų planavimo dokumentui taikoma Teritorijų planavimo įstatyme nustatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Stambus projektas netenka valstybei svarbaus projekto statuso jį išbraukus iš stambių projektų sąrašo. Stambūs projektai išbraukiami iš stambių projektų sąrašo pasibaigus stambaus projekto įgyvendinimo terminui, jeigu nėra nustatytas stambaus projekto tęstinumo laikotarpis, pasibaigus stambaus projekto tęstinumo laikotarpiui arba nutraukus stambaus projekto investicijų sutartį, jeigu ji nutraukiama anksčiau, negu pasibaigia stambaus projekto įgyvendinimo terminas arba stambaus projekto tęstinumo laikotarpis. Stambių projektų įtraukimo į stambių projektų sąrašą ir išbraukimo iš šio sąrašo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
+ 
 
 
 
@@ -1847,3 +1864,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13-1 ir 15-5 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12, 13 ir 15-5 straipsnių pakeitimo įstatymas
