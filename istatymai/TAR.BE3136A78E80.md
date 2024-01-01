@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-10-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
  
@@ -255,7 +254,10 @@ Notarų atestacijos komisija uždarame posėdyje priima vieną iš šių nutarim
 
 
 
-Notarų atestacijos komisijos nutarimas gali būti skundžiamas Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka. 
+Notarų atestacijos komisijos nutarimas gali būti skundžiamas pirmosios instancijos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1600, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25178
+ 
 
 
 Straipsnio pakeitimai:
@@ -3242,3 +3244,8 @@ Lietuvos Respublikos notariato įstatymo Nr. I-2882 7 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1714, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27559
 Lietuvos Respublikos notariato įstatymo Nr. I-2882 3, 4, 6, 6-2, 8, 10-1, 10-3, 10-4, 19, 20, 22, 22-1, 24, 27-1, 28, 34, 46, 60, 62 straipsnių pakeitimo, Įstatymo papildymo 28-2 straipsniu ir VII skyriumi ir 9, 10, 10-2 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1600, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25178
+Lietuvos Respublikos notariato įstatymo Nr. I-2882 4 straipsnio pakeitimo įstatymas
