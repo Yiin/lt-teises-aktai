@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/33d53292042311edb32c9f9d8ba206f8"
 
 # Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2023-12-20 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: TAR 2022-07-15, i. k. 2022-15638
  
@@ -3960,18 +3960,19 @@ Jeigu Lietuvos Respublikos tarptautinės sutartys numato kitokias nuostatas, neg
 
 
 
-13. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Žemės įstatymo 2 straipsnio 11 dalies redakcija:
+13. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Žemės įstatymo 2 straipsnio 16 dalies redakcija:
 
 
 
 
-„11. Žemės naudojimo valstybinė kontrolė – Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos organizuojama ir vykdoma žemės savininkų ar naudotojų veiklos kontrolė, kuria siekiama užtikrinti tinkamą žemės naudojimą ir teisinę apsaugą, taip pat identifikuoti teisės aktų pažeidimus ir pagal kompetenciją taikyti pažeidėjams įstatymų nustatytas sankcijas.“ 
+„16. Žemės naudojimo valstybinė priežiūra – Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos organizuojama ir vykdoma žemės savininkų ar naudotojų veiklos priežiūra, kuria siekiama užtikrinti tinkamą žemės naudojimą ir teisinę apsaugą, taip pat identifikuoti teisės aktų pažeidimus ir pagal kompetenciją taikyti pažeidėjams įstatymų nustatytas sankcijas.“. 
 
 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
  
 
 
@@ -3993,17 +3994,17 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-2) savivaldybės – savivaldybės teritorijoje esančių miestų ir miestelių valstybinės žemės, perduotos Vyriausybės nutarimu, išskyrus žemę, kuri šio ir kitų įstatymų nustatyta tvarka patikėjimo teise perduota kitiems subjektams, ir valstybinės žemės, perduotos savivaldybėms patikėjimo teise Vyriausybės nustatyta tvarka šio straipsnio 2 dalyje nurodytoms reikmėms ar kitų įstatymų nustatytais atvejais ir sąlygomis šio straipsnio 3 dalyje nurodytoms reikmėms, taip pat valstybinės miško žemės sklypų, perduotų savivaldybėms patikėjimo teise Vyriausybės nutarimais šio straipsnio 5 dalyje nustatyta tvarka ir sąlygomis;
+2) savivaldybės – savivaldybės teritorijoje esančių miestų ir miestelių teritorijų ribose valstybinės žemės, perduotos Vyriausybės nutarimu, išskyrus žemę, kuri šio ir kitų įstatymų nustatyta tvarka patikėjimo teise perduota kitiems subjektams, ir valstybinės žemės, perduotos savivaldybėms patikėjimo teise Vyriausybės nustatyta tvarka šio straipsnio 2 dalyje nurodytoms reikmėms ar kitų įstatymų nustatytais atvejais ir sąlygomis šio straipsnio 3 dalyje nurodytoms reikmėms, taip pat valstybinės miško žemės sklypų, perduotų savivaldybėms patikėjimo teise Vyriausybės nutarimais šio straipsnio 5 dalyje nustatyta tvarka ir sąlygomis;
 
 
 
 
-3) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui arba kai valstybinė žemė, kuri gali būti parduodama, priskirta parduodamam valstybės arba savivaldybės nekilnojamajam turtui, arba kai valstybinė žemė reikalinga administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektams įgyvendinti;
+3) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui arba kai valstybinė žemė, kuri, pritarus Nacionalinei žemės tarnybai Vyriausybės nustatyta tvarka, gali būti parduodama, priskirta parduodamam valstybės arba savivaldybės nekilnojamajam turtui ir viešųjų įstaigų, kurių savininkė ar dalininkė, turinti pusę ar daugiau balsų visuotiniame dalininkų susirinkime, yra valstybė, nuosavybės teise priklausantiems statiniams, patalpoms ar jų dalims ir kitų viešųjų įstaigų nuosavybės teise priklausantiems statiniams, patalpoms ar jų dalims, kurių pardavimui centralizuotai valdomo valstybės turto valdytojas konkurencingos procedūros būdu buvo atrinktas kaip atitinkamų paslaugų teikėjas, arba kai valstybinė žemė reikalinga administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektams įgyvendinti;
 
 
 
 
-4) valstybės įmonė Žemės ūkio duomenų centras (toliau – Žemės ūkio duomenų centras) – valstybinės žemės ūkio paskirties žemės sklypų, šio įstatymo nustatyta tvarka priskirtų žemės konsolidacijos projekto teritorijai, išskyrus šiai teritorijai priskirtus valstybinės žemės sklypus, perduotus kitiems valstybinės žemės patikėtiniams, taip pat įstatymų nustatyta tvarka iš privačių asmenų įsigytų valstybės nuosavybėn žemės sklypų, reikalingų Žemės ūkio duomenų centro administruojamoms valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti;
+4) valstybės įmonė Žemės ūkio duomenų centras (toliau – Žemės ūkio duomenų centras) – valstybinės žemės ūkio paskirties žemės sklypų, šio įstatymo nustatyta tvarka priskirtų žemės konsolidacijos projekto teritorijai, išskyrus šiai teritorijai priskirtus valstybinės žemės sklypus, perduotus kitiems valstybinės žemės patikėtiniams, taip pat įstatymų nustatyta tvarka iš privačių asmenų įsigytų valstybės nuosavybėn žemės sklypų ir valstybinės žemės sklypų, reikalingų Žemės ūkio duomenų centro administruojamoms valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti;
 
 
 
@@ -4020,45 +4021,45 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-2. Valstybinė žemė perduodama savivaldybėms patikėjimo teise Vyriausybės nustatyta tvarka Nacionalinės žemės tarnybos vadovo sprendimu, suderintu su Aplinkos ministerija, šioms reikmėms: 
+2. Valstybinė žemė perduodama savivaldybėms patikėjimo teise Vyriausybės nustatyta tvarka Nacionalinės žemės tarnybos vadovo sprendimu šioms reikmėms:
 
 
-a) viešosios paskirties rekreacijai ir poilsiui;
-
-
-
-
-b) viešojo naudojimo poilsio objektams;
+1) viešosios paskirties rekreacijai ir poilsiui;
 
 
 
 
-c) gatvėms ir vietiniams keliams;
+2) viešojo naudojimo poilsio objektams;
 
 
 
 
-d) komunaliniams inžineriniams tinklams tiesti ir (ar) eksploatuoti;
+3) gatvėms ir vietiniams keliams;
 
 
 
 
-e) gyvenamiesiems namams statyti ir (ar) eksploatuoti;
+4) komunaliniams inžineriniams tinklams tiesti ir (ar) eksploatuoti;
 
 
 
 
-f) ūkinei komercinei veiklai;
+5) gyvenamiesiems namams statyti ir (ar) eksploatuoti;
 
 
 
 
-g) kapinių priežiūrai;
+6) ūkinei komercinei veiklai;
 
 
 
 
-h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaugai.
+7) kapinių priežiūrai;
+
+
+
+
+8) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaugai.
 
 
 
@@ -4070,7 +4071,7 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-4. Valstybinę žemę miestų ir miestelių administracinėse ribose patikėjimo teise perduodant šio straipsnio 1 dalies 2 punkte nurodytam subjektui, parengiamas Vyriausybės nutarimas, kuriame nurodomos visos savivaldybės su joms perduodama valstybine žeme, esančia tų savivaldybių miestų ir miestelių teritorijų administracinėse ribose, kartu su Vyriausybės nutarimu kiekvienai savivaldybei yra parengiami ir valstybinės žemės sklypų, perduodamų patikėjimo teise šio straipsnio 1 dalies 2 punkte nurodytam subjektui, priėmimo–perdavimo aktai. Priėmimo–perdavimo aktuose nurodomi perduodami savivaldybių miestų ir miestelių administracinėse ribose esantys valstybinės žemės sklypai, o perduodamos nesuformuotos valstybinės žemės teritorijos nurodomos priėmimo–perdavimo aktų prieduose. Valstybės poreikiams reikalinga valstybinė žemė, kuri neperduodama patikėjimo teise naudoti šio straipsnio 1 dalies 2 punkte nurodytam subjektui, identifikuojama ir valstybinės žemės perdavimo patikėjimo teise naudoti procesas nustatomas Vyriausybės tvirtinamose taisyklėse. Vyriausybės nutarimą ir priėmimo–perdavimo aktus rengia Aplinkos ministerija, juos suderindama su Nacionaline žemės tarnyba ir savivaldybėmis. 
+4. Valstybinę žemę miestų ir miestelių teritorijų ribose patikėjimo teise perduodant šio straipsnio 1 dalies 2 punkte nurodytam subjektui, parengiamas Vyriausybės nutarimas, kuriame nurodomos visos savivaldybės su joms perduodama valstybine žeme, esančia tų savivaldybių miestų ir miestelių teritorijų ribose. Kartu su Vyriausybės nutarimu kiekvienai savivaldybei yra parengiami ir valstybinės žemės sklypų, perduodamų patikėjimo teise šio straipsnio 1 dalies 2 punkte nurodytam subjektui, priėmimo–perdavimo aktai. Priėmimo–perdavimo aktuose nurodomi perduodami savivaldybių miestų ir miestelių teritorijų ribose esantys valstybinės žemės sklypai ir nesuformuotų sklypais teritorijų plotus detalizuojantys duomenys ar dokumentai, kurie pateikiami Žemės informacinėje sistemoje. Valstybės poreikiams reikalinga valstybinė žemė, kuri neperduodama patikėjimo teise naudoti šio straipsnio 1 dalies 2 punkte nurodytam subjektui, identifikuojama ir valstybinės žemės perdavimo patikėjimo teise naudoti procesas nustatomas Vyriausybės tvirtinamose taisyklėse. Vyriausybės nutarimą ir priėmimo–perdavimo aktus rengia Aplinkos ministerija, juos derindama su Nacionaline žemės tarnyba ir savivaldybėmis.
 
 
 
@@ -4080,73 +4081,102 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-6. Valstybinės žemės sklypai, reikalingi viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytoms valstybinėms funkcijoms atlikti, perduodami patikėjimo teise viešosios transporto infrastruktūros valdytojui Vyriausybės nustatyta tvarka Nacionalinės žemės tarnybos vadovo sprendimu, suderintu su Aplinkos ministerija, jeigu tai nustatyta viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose.
+6. Valstybinės žemės sklypai, reikalingi viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytoms valstybinėms funkcijoms atlikti, perduodami patikėjimo teise viešosios transporto infrastruktūros valdytojui Vyriausybės nustatyta tvarka Nacionalinės žemės tarnybos vadovo sprendimu, jeigu tai nustatyta viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose.
 
 
 
 
-7. Nacionalinė žemės tarnyba privalo prižiūrėti, kad Nacionalinės žemės tarnybos vadovo sprendimas ar Vyriausybės nutarimas, kuriuo buvo perduoti valstybinės žemės sklypai, valstybinės žemės teritorija, kurioje nesuformuoti žemės sklypai, patikėjimo teise šio straipsnio 1 dalies 2 punkte bei 5 ir 6 dalyse nurodytiems subjektams, būtų tinkamai vykdomi. Jeigu savivaldybė nebenaudoja Nacionalinės žemės tarnybos vadovo sprendime nurodytoms reikmėms jai patikėjimo teise perduoto valstybinės žemės sklypo, Nacionalinės žemės tarnybos vadovas priima sprendimą, suderintą su Aplinkos ministerija, dėl šios savivaldybės patikėjimo teisės pasibaigimo. Jeigu viešosios transporto infrastruktūros valdytojas nebenaudoja Nacionalinės žemės tarnybos vadovo sprendimu jam patikėjimo teise perduoto valstybinės žemės sklypo viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytoms valstybinėms funkcijoms atlikti ir viešosios transporto infrastruktūros valdytojo veiklą reglamentuojantys įstatymai nenumato galimybės tokį valstybinės žemės sklypą išnuomoti ar perduoti laikinai neatlygintinai naudotis, Nacionalinės žemės tarnybos vadovas priima sprendimą, suderintą su Aplinkos ministerija, dėl šio viešosios transporto infrastruktūros valdytojo patikėjimo teisės pasibaigimo. Jeigu savivaldybė nebenaudoja Vyriausybės nutarimu jai patikėjimo teise perduoto valstybinės žemės sklypo šio straipsnio 3 dalyje nurodytoms reikmėms ar šio straipsnio 5 dalyje nurodyti subjektai nebeatlieka Vyriausybės nutarime nurodytų funkcijų, kurioms įgyvendinti jiems patikėjimo teise buvo perduoti valstybinės žemės sklypai, Nacionalinė žemės tarnyba raštu apie tai informuoja Aplinkos ministeriją. Aplinkos ministerija teikia Vyriausybės nutarimo dėl patikėjimo teisės pasibaigimo projektą. Nuo Nacionalinės žemės tarnybos vadovo sprendimo arba Vyriausybės nutarimo įsigaliojimo dienos šių valstybinės žemės sklypų ar valstybinės žemės ploto, kuriame nesuformuoti žemės sklypai, patikėtiniu laikoma Nacionalinė žemės tarnyba.
+7. Nacionalinė žemės tarnyba privalo prižiūrėti, kad Nacionalinės žemės tarnybos vadovo sprendimas ar Vyriausybės nutarimas, kuriuo buvo perduoti valstybinės žemės sklypai, valstybinės žemės teritorija, kurioje nesuformuoti žemės sklypai, patikėjimo teise šio straipsnio 1 dalies 2 punkte bei 5 ir 6 dalyse nurodytiems subjektams, būtų tinkamai vykdomi. Jeigu savivaldybė nebenaudoja Nacionalinės žemės tarnybos vadovo sprendime nurodytoms reikmėms jai patikėjimo teise perduoto valstybinės žemės sklypo, Nacionalinės žemės tarnybos vadovas priima sprendimą dėl šios savivaldybės patikėjimo teisės pasibaigimo. Jeigu viešosios transporto infrastruktūros valdytojas nebenaudoja Nacionalinės žemės tarnybos vadovo sprendimu jam patikėjimo teise perduoto valstybinės žemės sklypo viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytoms valstybinėms funkcijoms atlikti, Nacionalinės žemės tarnybos vadovas priima sprendimą dėl šio viešosios transporto infrastruktūros valdytojo patikėjimo teisės pasibaigimo. Jeigu savivaldybė nebenaudoja Vyriausybės nutarimu jai patikėjimo teise perduoto valstybinės žemės sklypo šio straipsnio 3 dalyje nurodytoms reikmėms ar šio straipsnio 5 dalyje nurodyti subjektai nebeatlieka Vyriausybės nutarime nurodytų funkcijų, kurioms įgyvendinti jiems patikėjimo teise buvo perduoti valstybinės žemės sklypai, Nacionalinė žemės tarnyba raštu apie tai informuoja Aplinkos ministeriją. Aplinkos ministerija teikia Vyriausybės nutarimo dėl patikėjimo teisės pasibaigimo projektą. Nuo Nacionalinės žemės tarnybos vadovo sprendimo arba Vyriausybės nutarimo įsigaliojimo dienos šių valstybinės žemės sklypų ar valstybinės žemės ploto, kuriame nesuformuoti žemės sklypai, patikėtiniu laikoma Nacionalinė žemės tarnyba.
 
 
 
 
-8. Šio straipsnio 5 dalyje nurodyti patikėtiniai negali perduotų miško žemės sklypų ar kitų valstybinės žemės sklypų parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti jų naudotis kitu būdu, jų įkeisti ar kitaip suvaržyti daiktinių teisių į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymo. Vyriausybės nutarime gali būti nustatyta ir kitų apribojimų valdyti bei naudoti perduotus miško žemės ar kitus žemės sklypus.
+8. Šio straipsnio 5 dalyje nurodyti patikėtiniai negali perduotų miško žemės sklypų ar kitų valstybinės žemės sklypų parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti jų naudotis kitu būdu, jų įkeisti ar kitaip suvaržyti daiktinių teisių į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymo, išskyrus įstatymuose nustatytus atvejus dėl žemės servitutų nustatymo sandoriais. Vyriausybės nutarime gali būti nustatyta ir kitų apribojimų valdyti bei naudoti perduotus miško žemės ar kitus žemės sklypus. Šioje dalyje numatyti apribojimai neriboja valstybinės žemės, valdomos patikėjimo teise, valdytojų teisės sudaryti Saugomų teritorijų įstatyme numatytas apsaugos sutartis.
 
 
 
 
-9. Viešosios transporto infrastruktūros valdytojas negali jam perduotų patikėjimo teise valstybinės žemės sklypų parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti jų naudotis kitu būdu, jų įkeisti ar kitaip suvaržyti daiktinių teisių į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymo. Viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose gali būti nustatyta, kad viešosios transporto infrastruktūros valdytojas turi teisę jam perduotus patikėjimo teise valstybinės žemės sklypus išnuomoti ar perduoti laikinai neatlygintinai naudotis.
+9. Viešosios transporto infrastruktūros valdytojas negali jam perduotų patikėjimo teise valstybinės žemės sklypų parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti jų naudotis kitu būdu, jų įkeisti ar kitaip suvaržyti daiktinių teisių į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymo.
 
 
 
 
-10. Valstybinės žemės sklypo, perduodamo patikėjimo teise šio straipsnio 2 ir 6 dalyse nurodytiems subjektams, priėmimo–perdavimo aktą parengia ir pasirašo Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas. Kai valstybinės žemės sklypas perduodamas šio straipsnio 1 dalies 2 punkte, 3 ir 5 dalyse nurodytiems subjektams, priėmimo–perdavimo aktą parengia Vyriausybė ir jį pasirašo Vyriausybės įgaliotas asmuo. Jeigu valstybinės žemės patikėtinis per 3 mėnesius nuo priėmimo–perdavimo akto pasirašymo dienos neįregistruoja patikėjimo teisės į valstybinės žemės sklypus Nekilnojamojo turto registre, Nacionalinės žemės tarnybos vadovas, suderinęs su Aplinkos ministerija, priima sprendimą arba Vyriausybė priima nutarimą dėl šio patikėtinio patikėjimo teisės pasibaigimo dėl konkretaus žemės sklypo ir nuo šio Nacionalinės žemės tarnybos vadovo sprendimo arba Vyriausybės nutarimo įsigaliojimo dienos valstybinės žemės sklypo patikėtiniu laikoma Nacionalinė žemės tarnyba.
+10. Valstybinės žemės sklypo, perduodamo patikėjimo teise šio straipsnio 2 ir 6 dalyse nurodytiems subjektams, priėmimo–perdavimo aktą parengia ir pasirašo Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas. Kai valstybinės žemės sklypas perduodamas šio straipsnio 1 dalies 2 punkte, 3 ir 5 dalyse nurodytiems subjektams, priėmimo–perdavimo aktą parengia Vyriausybė ir jį pasirašo Vyriausybės įgaliotas asmuo. Jeigu valstybinės žemės patikėtinis per 3 mėnesius nuo priėmimo–perdavimo akto pasirašymo dienos neįregistruoja patikėjimo teisės į valstybinės žemės sklypus Nekilnojamojo turto registre, Nacionalinės žemės tarnybos vadovas priima sprendimą arba Vyriausybė priima nutarimą dėl šio patikėtinio patikėjimo teisės pasibaigimo dėl konkretaus žemės sklypo ir nuo šio Nacionalinės žemės tarnybos vadovo sprendimo arba Vyriausybės nutarimo įsigaliojimo dienos valstybinės žemės sklypo patikėtiniu laikoma Nacionalinė žemės tarnyba.
 
 
 
 
-11. Patikėjimo teise savivaldybėms perduodama valstybinės žemės teritorija, esanti miestuose ir miesteliuose, kurioje nesuformuoti žemės sklypai, yra identifikuojama priėmimo–perdavimo akte, nurodytame šio straipsnio 4 ir 10 dalyse, ir nurodoma priėmimo–perdavimo akto priede. Suformavus naujus valstybinės žemės sklypus, kurie patenka į priėmimo–perdavimo akto priede nurodytą valstybinės žemės teritoriją, savivaldybės apie šiuos valstybinės žemės sklypus turi paskelbti savo interneto svetainėse ir nurodyti patikslintą nesuformuotos valstybinės žemės plotą. Valstybinės žemės sklypo patikėtinis per 3 mėnesius nuo naujo valstybinės žemės sklypo suformavimo mieste ar miestelyje turi įregistruoti patikėjimo teises į valstybinės žemės sklypą Nekilnojamojo turto registre.
+11. Patikėjimo teise savivaldybėms perduodama valstybinės žemės teritorija, esanti miestų ir miestelių teritorijų ribose, kuriose nesuformuoti žemės sklypai, yra identifikuojama priėmimo–perdavimo akte, nurodytame šio straipsnio 4 ir 10 dalyse, ir Žemės informacinėje sistemoje. Suformavus naujus valstybinės žemės sklypus, kurie patenka į priėmimo–perdavimo akto priede nurodytą valstybinės žemės teritoriją, savivaldybės apie šiuos valstybinės žemės sklypus turi paskelbti savo interneto svetainėse ir nurodyti patikslintą nesuformuotos valstybinės žemės plotą. Valstybinės žemės sklypo patikėtinis per 3 mėnesius nuo naujo valstybinės žemės sklypo suformavimo miestų ir miestelių teritorijų ribose turi įregistruoti patikėjimo teises į valstybinės žemės sklypą Nekilnojamojo turto registre.
 
 
 
 
-12. Aplinkos ministerija gali atsisakyti derinti Nacionalinės žemės tarnybos vadovo sprendimą perduoti savivaldybei patikėjimo teise valstybinės žemės sklypą, jeigu toks perdavimas neatitinka šio straipsnio 2 dalies 1 punkte nustatytų reikalavimų, ar viešosios transporto infrastruktūros valdytojui patikėjimo teise valstybinės žemės sklypą, jeigu toks perdavimas neatitinka viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytų reikalavimų.
+12. Kai valstybinė žemė reikalinga Vyriausybės nutarimu valstybei svarbiais pripažintiems projektams ar kitiems teisės aktų nustatyta tvarka valstybei svarbiais pripažintiems projektams, regioninės svarbos projektams, kuriuos tokiais projektais pripažįsta regiono plėtros taryba, vadovaudamasi Lietuvos Respublikos regioninės plėtros įstatymu, taip pat Lietuvos Respublikos investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti arba šio įstatymo 45 straipsnio 1 dalies 1–9 punktuose nurodytoms reikmėms ar kitoms valstybės reikmėms, savivaldybei patikėjimo teise perduota valstybinė žemė patikėjimo teise valdyti perduodama Nacionalinei žemės tarnybai. Tokiais atvejais priimant Vyriausybės nutarimą ar kitą atitinkamą sprendimą dėl žemės paėmimo visuomenės poreikiams ir (ar) Nacionalinės žemės tarnybos sprendimą dėl valstybinės žemės suteikimo regioninės svarbos ar stambiems projektams įgyvendinti, kai žemės paimti visuomenės poreikiams nereikia, Vyriausybės nutarime ar kitame atitinkamame sprendime turi būti nurodoma, kad savivaldybės kaip atitinkamos valstybinės žemės patikėtinio teisės pasibaigia, ir nurodomas naujas subjektas, kuris tokią žemę valdys patikėjimo teise. Nacionalinė žemės tarnyba per 10 darbo dienų nuo Vyriausybės nutarimo ar kito atitinkamo sprendimo priėmimo apie tai raštu informuoja savivaldybę. Valstybinės žemės patikėjimo teisės perdavimo tvarką nustato Vyriausybė.
 
 
 
 
-13. Aplinkos ministerija gali atsisakyti derinti Nacionalinės žemės tarnybos vadovo sprendimą dėl savivaldybės ar viešosios transporto infrastruktūros valdytojo patikėjimo teisės pasibaigimo, jeigu toks patikėjimo teisės pasibaigimas neatitinka šio straipsnio 7 ir 10 dalyse nustatytų reikalavimų.
+13. Kai valstybinė žemė patikėjimo teise perduota valdyti savivaldybėms, tačiau yra reikalinga viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytoms valstybinėms funkcijoms atlikti viešosios transporto infrastruktūros valdytojui, savivaldybei patikėjimo teise perduota valstybinė žemė perduodama Nacionalinei žemės tarnybai. Tokiais atvejais viešosios transporto infrastruktūros valdytojas kreipiasi į Nacionalinę žemės tarnybą, nurodydamas valstybinės žemės, perduotos savivaldybei valdyti patikėjimo teise, poreikį viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytoms valstybinėms funkcijoms atlikti, o Nacionalinė žemės tarnyba per 10 darbo dienų nuo Vyriausybės nutarimo ar kito atitinkamo sprendimo priėmimo apie tai raštu informuoja savivaldybę ir teikia Vyriausybei nutarimo dėl savivaldybės patikėjimo teisės pasibaigimo projektą. Vyriausybei priėmus nutarimą dėl savivaldybės patikėjimo teisės pasibaigimo, nuo šio nutarimo įsigaliojimo dienos valstybinės žemės patikėtiniu tampa Nacionalinė žemės tarnyba ir valstybinės žemės sklypai perduodami patikėjimo teise viešosios transporto infrastruktūros valdytojui šio straipsnio 6 dalyje nustatyta tvarka.
 
 
 
 
-14. Kai valstybinė žemė reikalinga Vyriausybės nutarimu valstybei svarbiais pripažintiems projektams ar kitiems teisės aktų nustatyta tvarka valstybei svarbiais pripažintiems projektams, regioninės svarbos projektams, kuriuos tokiais projektais pripažįsta regiono plėtros taryba, vadovaudamasi Lietuvos Respublikos regioninės plėtros įstatymu, taip pat Lietuvos Respublikos investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti arba šio įstatymo 45 straipsnio 1 dalies 1–10 punktuose nurodytoms reikmėms ar kitoms valstybės reikmėms, savivaldybei patikėjimo teise perduota valstybinė žemė perduodama Nacionalinei žemės tarnybai. Tokiais atvejais Nacionalinė žemės tarnyba per 10 darbo dienų nuo Vyriausybės nutarimo ar kito atitinkamo sprendimo priėmimo apie tai raštu informuoja savivaldybę ir teikia Vyriausybei nutarimo dėl savivaldybės patikėjimo teisės pasibaigimo projektą. Vyriausybei priėmus nutarimą dėl savivaldybės patikėjimo teisės pasibaigimo, nuo šio nutarimo įsigaliojimo dienos valstybinės žemės patikėtiniu tampa Nacionalinė žemės tarnyba. Valstybinės žemės patikėjimo teisės perdavimo tvarką nustato Vyriausybė.
+14. Valstybinės žemės patikėtiniai valdo, naudoja jiems patikėjimo teise perduotą žemę ir ja disponuoja šio ir kitų įstatymų nustatyta tvarka ir sąlygomis visuomeninei naudai.
 
 
 
 
-15. Jeigu Aplinkos ministerija atsisako derinti Nacionalinės žemės tarnybos vadovo sprendimą perduoti savivaldybei ar viešosios transporto infrastruktūros valdytojui patikėjimo teise valstybinės žemės sklypą arba Nacionalinės žemės tarnybos vadovo sprendimą dėl savivaldybės ar viešosios transporto infrastruktūros valdytojo patikėjimo teisės pasibaigimo, Nacionalinės žemės tarnybos vadovas gali priimti šiuos sprendimus pakartotinai jų nesuderinęs su Aplinkos ministerija tik tuo atveju, kai pašalinamos Aplinkos ministerijos atsisakymo derinti šiuos sprendimus priežastys.
+15. Savivaldybėms miestų ir miestelių teritorijų ribose patikėjimo teise valdyti neperduodama valstybinė žemė, kuri:
+
+
+1) suteikta kitiems patikėtiniams;
 
 
 
 
-16. Kai valstybinė žemė patikėjimo teise perduota valdyti savivaldybėms, tačiau yra reikalinga viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytoms valstybinėms funkcijoms atlikti viešosios transporto infrastruktūros valdytojui, savivaldybei patikėjimo teise perduota valstybinė žemė perduodama Nacionalinei žemės tarnybai. Tokiais atvejais viešosios transporto infrastruktūros valdytojas kreipiasi į Nacionalinę žemės tarnybą, nurodydamas valstybinės žemės, perduotos savivaldybei valdyti patikėjimo teise, poreikį viešosios transporto infrastruktūros valdytojo veiklą reglamentuojančiuose įstatymuose nustatytoms valstybinėms funkcijoms atlikti, o Nacionalinė žemės tarnyba per 10 darbo dienų nuo Vyriausybės nutarimo ar kito atitinkamo sprendimo priėmimo apie tai raštu informuoja savivaldybę ir teikia Vyriausybei nutarimo dėl savivaldybės patikėjimo teisės pasibaigimo projektą. Vyriausybei priėmus nutarimą dėl savivaldybės patikėjimo teisės pasibaigimo, nuo šio nutarimo įsigaliojimo dienos valstybinės žemės patikėtiniu tampa Nacionalinė žemės tarnyba ir valstybinės žemės sklypai perduodami patikėjimo teise viešosios transporto infrastruktūros valdytojui šio straipsnio 6 dalyje nustatyta tvarka.
+2) skirta šio įstatymo 45 straipsnio 1 dalyje nurodytoms reikmėms ar kitoms valstybės reikmėms;
 
 
 
 
-17. Valstybinės žemės patikėtiniai valdo, naudoja jiems patikėjimo teise perduotą žemę ir ja disponuoja šio ir kitų įstatymų nustatyta tvarka ir sąlygomis visuomeninei naudai.“
+3) skirta valstybei svarbiais pripažintiems projektams ar kitiems teisės aktų nustatyta tvarka valstybei svarbiais pripažintiems projektams įgyvendinti;
+
+
+
+
+4) skirta regioninės svarbos projektams, kuriuos tokiais projektais pripažįsta regiono plėtros taryba, vadovaudamasi Regioninės plėtros įstatymu, įgyvendinti;
+
+
+
+
+5) Investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti;
+
+
+
+
+6) skirta valstybės funkcijoms atlikti ir kitiems atvejams, kai to reikia valstybinės žemės valdymui ir naudojimui įgyvendinti.
 
 
 
 
 
 
+16. Nekilnojamojo turto registre įregistruotiems statiniams ir (ar) įrenginiams, kurie vadovaujantis teritorijų planavimo dokumentų sprendiniais turi būti griaunami, eksploatuoti valstybinės žemės sklypai neformuojami. Šie statiniai ir (ar) įrenginiai išperkami iš teisėtų jų savininkų Vyriausybės nustatyta tvarka, atlyginant jų rinkos vertę, apskaičiuotą taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, atsižvelgiant tik į esamą statinių ir įrenginių būklę.“.“ 
 
 
 
 
-15. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Žemės įstatymo 8 straipsnio redakcija:
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
+Nr. XIV-2338, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25258
+ 
+
+
+
+
+15. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Žemės įstatymo 8 straipsnio redakcija:
 
 
 
@@ -4154,12 +4184,12 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 „8 straipsnis. Valstybinės žemės perdavimas neatlygintinai ja naudotis (panauda)
 
 
-1. Sudarant valstybinės žemės panaudos sutartis, valstybinė žemė perduodama laikinai neatlygintinai naudotis valstybės institucijoms, savivaldybėms, miškų urėdijai, valstybinių rezervatų direkcijoms, valstybinių parkų direkcijoms, kitoms iš valstybės ar savivaldybių biudžetų išlaikomoms įstaigoms, tradicinėms religinėms bendruomenėms ir bendrijoms, viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais. Kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje nurodytiems asmenims, kuriems valstybės turtas (statiniai ar įrenginiai) perduotas panaudos pagrindais neatlygintinai naudotis, perduodami laikinai neatlygintinai naudotis valstybinės žemės sklypai, reikalingi šiems statiniams ar įrenginiams eksploatuoti. Kai panaudos pagrindais perduodamas žemės sklypas reikalingas panaudos pagrindais perduotiems statiniams ar įrenginiams eksploatuoti, žemės panaudos sutarties terminas negali būti ilgesnis už statinių ar įrenginių panaudos sutarties terminą. Valstybinė žemė perduodama neatlygintinai naudotis Vyriausybės nustatyta tvarka. 
+1. Sudarant valstybinės žemės panaudos sutartis, valstybinė žemė perduodama laikinai neatlygintinai naudotis valstybės institucijoms, savivaldybėms, miškų urėdijai, valstybinių rezervatų direkcijoms, valstybinių parkų direkcijoms, kitoms iš valstybės ar savivaldybių biudžetų išlaikomoms įstaigoms, tradicinėms religinėms bendruomenėms ir bendrijoms, viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais. Savivaldybėms, sudarant valstybinės žemės panaudos sutartis, taip pat gali būti perduoti laikinai, iki rezervuoto investicinio valstybinės žemės sklypo nuomos sutarties sudarymo, bet ne ilgiau negu iki rezervuoto investicinio valstybinės žemės sklypo rezervacijos termino pabaigos, neatlygintinai naudotis rezervuoti investiciniai valstybinės žemės sklypai inžinerinei savivaldybės infrastruktūrai įrengti, sutvarkyti ir (ar) investiciniam valstybinės žemės sklypui vystyti Lietuvos Respublikos vietos savivaldos įstatymo 6 straipsnio 38 punkto pagrindu. Kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje nurodytiems asmenims, kuriems valstybės turtas (statiniai ar įrenginiai) perduotas panaudos pagrindais neatlygintinai naudotis, perduodami laikinai neatlygintinai naudotis valstybinės žemės sklypai, reikalingi šiems statiniams ar įrenginiams eksploatuoti. Kai panaudos pagrindais perduodamas žemės sklypas reikalingas panaudos pagrindais perduotiems statiniams ar įrenginiams eksploatuoti, žemės panaudos sutarties terminas negali būti ilgesnis už statinių ar įrenginių panaudos sutarties terminą. Valstybinė žemė perduodama neatlygintinai naudotis Vyriausybės nustatyta tvarka.
 
 
 
 
-2. Valstybinės žemės perdavimo neatlygintinai naudotis Lietuvos Respublikos krašto apsaugos ministerijos ir Lietuvos Respublikos vidaus reikalų ministerijos nustatytiems objektams eksploatuoti tvarką nustato įstatymai ir Vyriausybės nutarimai. 
+2. Valstybinės žemės perdavimo neatlygintinai naudotis Lietuvos Respublikos krašto apsaugos ministerijos ir Lietuvos Respublikos vidaus reikalų ministerijos nustatytiems objektams eksploatuoti tvarką nustato įstatymai ir Vyriausybės nutarimai.
 
 
 
@@ -4167,7 +4197,7 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 3. Valstybinės žemės sklypus neatlygintinai naudotis įstatymų ir kitų teisės aktų nustatyta tvarka perduoda:
 
 
-1) savivaldybė – kai valstybinės žemės sklypai perduoti patikėjimo teise savivaldybėms. Sprendimą perduoti neatlygintinai naudotis valstybinės žemės sklypą priima savivaldybės taryba, o valstybinės žemės panaudos sutartį sudaro savivaldybės meras (toliau – meras) arba jo įgaliotas kitas savivaldybės administracijos valstybės tarnautojas;
+1) savivaldybių tarybos – kai valstybinės žemės sklypai perduoti patikėjimo teise savivaldybėms. Sprendimą perduoti neatlygintinai naudotis valstybinės žemės sklypą priima savivaldybės taryba, o valstybinės žemės panaudos sutartį sudaro savivaldybės meras (toliau – meras) arba jo įgaliotas savivaldybės administracijos direktorius;
 
 
 
@@ -4182,14 +4212,14 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-4) Nacionalinė žemės tarnyba – visais kitais atvejais. Sprendimą perduoti neatlygintinai naudotis valstybinės žemės sklypą priima ir valstybinės žemės panaudos sutartį sudaro Nacionalinės žemės tarnybos vadovas arba jo įgaliotas teritorinio padalinio vadovas.
+4) Nacionalinė žemės tarnyba – visais kitais atvejais. Sprendimą perduoti neatlygintinai naudotis valstybinės žemės sklypą priima ir valstybinės žemės panaudos sutartį sudaro Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas.
 
 
 
 
 
 
-4. Valstybinės žemės panaudos sutartyje turi būti numatoma, kad ši sutartis Lietuvos Respublikos nekilnojamojo turto registro įstatymo nustatyta tvarka per 3 mėnesius nuo jos sudarymo dienos turi būti panaudos gavėjo lėšomis įregistruota Nekilnojamojo turto registre. Panaudos gavėjui neįvykdžius šios sąlygos, panaudos davėjas turi reikalauti pašalinti sutarties sąlygų pažeidimus arba nutraukti panaudos sutartį prieš terminą. 
+4. Valstybinės žemės panaudos sutartyje turi būti numatoma, kad ši sutartis Nekilnojamojo turto registro nuostatuose nustatyta tvarka per 3 mėnesius nuo jos sudarymo dienos turi būti panaudos gavėjo lėšomis įregistruota Nekilnojamojo turto registre. Panaudos gavėjui neįvykdžius šios sąlygos, panaudos davėjas turi reikalauti pašalinti sutarties sąlygų pažeidimus arba nutraukti panaudos sutartį prieš terminą.
 
 
 
@@ -4204,7 +4234,7 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-7. Savivaldybės joms patikėjimo teise perduotus valstybinės žemės sklypus, kurie atitinka Vyriausybės nustatytus žemės sklypo ploto ir (ar) vertės kriterijus, gali suteikti neatlygintinai naudotis tik gavusios Nacionalinės žemės tarnybos pritarimą. Kriterijus, taikomus valstybinės žemės sklypų, patikėjimo teise perduotų valdyti savivaldybėms, panaudai, nustato Vyriausybė valstybinės žemės nuomos ir perdavimo neatlygintinai naudotis (panaudos) taisyklėse.
+7. Savivaldybės, sudariusios panaudos sandorį, dėl joms patikėjimo teise perduotų valstybinės žemės sklypų, kurie atitinka šio įstatymo 362 straipsnio 9 dalyje nustatytus kriterijus, šio įstatymo 362 straipsnio 8 dalyje nustatyta tvarka ir terminais kreipiasi į Nacionalinę žemės tarnybą dėl šios sutarties teisėtumo patikrinimo ir išvados pateikimo. Sandoriai Nekilnojamojo turto registre registruojami tik gavus Nacionalinės žemės tarnybos išvadą apie sandorio atitiktį teisės aktų reikalavimams (nesant trūkumų) ir galimybę jį registruoti. 
 
 
 
@@ -4214,13 +4244,18 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-9. Savivaldybėms perdavus neatlygintinai naudotis (suteikus panaudai) joms patikėjimo teise perduotus valstybinės žemės sklypus, valstybinės žemės sklypų panaudos sutarčių sąlygų vykdymą prižiūri ir kontroliuoja savivaldybės. Savivaldybės, nustačiusios, kad panaudos gavėjas nevykdo sutarties sąlygų, inicijuoja panaudos sutarties nutraukimą įstatymų nustatyta tvarka arba taiko kitus įstatymų nustatytus šalių teisių ir interesų gynimo būdus.“
+9. Savivaldybėms perdavus neatlygintinai naudotis (suteikus panaudai) joms patikėjimo teise perduotus valstybinės žemės sklypus, valstybinės žemės sklypų panaudos sutarčių sąlygų vykdymą prižiūri ir kontroliuoja savivaldybės. Savivaldybės, nustačiusios, kad panaudos gavėjas nevykdo sutarties sąlygų, inicijuoja panaudos sutarties nutraukimą įstatymų nustatyta tvarka arba taiko kitus įstatymų nustatytus šalių teisių ir interesų gynimo būdus.“.“ 
 
 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
+Nr. XIV-2338, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25258
+Nr. XIV-2445, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25938
+ 
 
 
 
@@ -4236,7 +4271,7 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 1. Valstybinės žemės sklypus įstatymų ir kitų teisės aktų nustatyta tvarka išnuomoja:
 
 
-1) savivaldybė – valstybinės žemės sklypus, perduotus patikėjimo teise savivaldybėms. Sprendimą išnuomoti valstybinės žemės sklypą priima savivaldybės taryba, o valstybinės žemės nuomos sutartį sudaro meras arba jo įgaliotas kitas savivaldybės administracijos valstybės tarnautojas;
+1) savivaldybių tarybos – valstybinės žemės sklypus, perduotus patikėjimo teise savivaldybėms. Sprendimą išnuomoti valstybinės žemės sklypą priima savivaldybės taryba, o valstybinės žemės nuomos sutartį sudaro meras arba jo įgaliotas savivaldybės administracijos direktorius;
 
 
 
@@ -4251,14 +4286,14 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-4) Nacionalinė žemės tarnyba – visais kitais atvejais. Sprendimą išnuomoti valstybinės žemės sklypą priima ir valstybinės žemės nuomos sutartį sudaro Nacionalinės žemės tarnybos vadovas arba jo įgaliotas teritorinio padalinio vadovas.
+4) Nacionalinė žemės tarnyba – visais kitais atvejais. Sprendimą išnuomoti valstybinės žemės sklypą priima ir valstybinės žemės nuomos sutartį sudaro Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas.
 
 
 
 
 
 
-2. Valstybinės žemės nuomos sutartyje turi būti numatoma, kad ši sutartis Nekilnojamojo turto registro įstatymo nustatyta tvarka per 3 mėnesius nuo jos sudarymo dienos turi būti žemės sklypo nuomininko lėšomis įregistruota Nekilnojamojo turto registre. Nuomininkui neįvykdžius šios sąlygos, nuomotojas turi reikalauti pašalinti sutarties sąlygų pažeidimus arba nutraukti valstybinės žemės nuomos sutartį prieš terminą. 
+2. Valstybinės žemės nuomos sutartyje turi būti numatoma, kad ši sutartis Nekilnojamojo turto registro įstatymo nustatyta tvarka per 3 mėnesius nuo jos sudarymo dienos turi būti valstybinės žemės nuomininko lėšomis įregistruota Nekilnojamojo turto registre. Valstybinės žemės nuomininkui neįvykdžius šios sąlygos, valstybinės žemės nuomotojas turi reikalauti pašalinti sutarties sąlygų pažeidimus arba nutraukti valstybinės žemės nuomos sutartį prieš terminą.
 
 
 
@@ -4268,12 +4303,12 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-4. Valstybinės žemės nuomos sutarties terminas pratęsiamas Vyriausybės nustatyta tvarka.
+4. Valstybinės žemės nuomos sutarties terminas pratęsiamas Vyriausybės nustatyta tvarka. Jeigu valstybinės žemės sklypas šio įstatymo 131 straipsnio 3 dalyje nustatyta tvarka yra siūlomas įtraukti į rezervuotų investicinių valstybinės žemės sklypų sąrašą ir patenka į Nacionalinės žemės tarnybos su Lietuvos Respublikos ekonomikos ir inovacijų ministerija suderintas teritorijas, tokio valstybinės žemės sklypo nuomos terminas gali būti pratęsiamas arba nauja valstybinės žemės nuomos sutartis sudaroma Vyriausybės arba jos įgaliotų institucijų nustatyta tvarka, gavus Ekonomikos ir inovacijų ministerijos sutikimą.
 
 
 
 
-5. Valstybinė žemė, išskyrus šio straipsnio 6–9 dalyse nustatytus atvejus, išnuomojama aukciono būdu asmeniui, kuris pasiūlo didžiausią nuomos mokestį. Valstybinės žemės išnuomojimo aukciono būdu ir be aukciono tvarką nustato Vyriausybė.
+5. Valstybinė žemė, išskyrus šio straipsnio 6–9 ir 28 dalyse nustatytus atvejus, išnuomojama aukciono būdu asmeniui, kuris pasiūlo didžiausią nuomos mokestį. Valstybinė žemė aukciono būdu ir be aukciono išnuomojama Vyriausybės nustatyta tvarka.
 
 
 
@@ -4281,7 +4316,7 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 6. Valstybinė žemė išnuomojama be aukciono, jeigu:
 
 
-1) ji užstatyta fiziniams ir juridiniams asmenims nuosavybės teise priklausančiais ar jų nuomojamais statiniais ar įrenginiais (išskyrus laikinuosius statinius, inžinerinius tinklus bei neturinčius aiškios funkcinės priklausomybės ar apibrėžto naudojimo arba ūkinės veiklos pobūdžio statinius, kurie tarnauja pagrindiniam statiniui ar įrenginiui arba jo priklausiniui). Žemės sklypai, užstatyti fizinių ar juridinių asmenų nuomojamais statiniais ar įrenginiais, išnuomojami tik šių statinių ar įrenginių nuomos terminui. Žemės sklypai išnuomojami teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatyto dydžio, kuris būtinas statiniams ar įrenginiams eksploatuoti pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį;
+1) ji užstatyta fiziniams ir juridiniams asmenims nuosavybės teise priklausančiais ar jų nuomojamais statiniais ar įrenginiais (išskyrus laikinuosius statinius, inžinerinius tinklus bei neturinčius aiškios funkcinės priklausomybės ar apibrėžto naudojimo arba ūkinės veiklos pobūdžio statinius, kurie tarnauja pagrindiniam statiniui ar įrenginiui arba jo priklausiniui) ir naudojama šiems statiniams ar įrenginiams eksploatuoti, išskyrus šio straipsnio 24 ir 25 dalyse nustatytus atvejus. Žemės sklypai, užstatyti fizinių ar juridinių asmenų nuomojamais statiniais ar įrenginiais, išnuomojami tik šių statinių ar įrenginių nuomos terminui. Žemės sklypai išnuomojami teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatyto dydžio, kuris būtinas statiniams ar įrenginiams eksploatuoti pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį;
 
 
 
@@ -4291,12 +4326,12 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-3) jos reikia įgyvendinti Vyriausybės nutarimu valstybei svarbiais pripažintiems projektams ar kitiems teisės aktų nustatyta tvarka valstybei svarbiais pripažintiems projektams, regioninės svarbos projektams, kuriuos tokiais projektais pripažįsta regiono plėtros taryba, vadovaudamasi Regioninės plėtros įstatymu, taip pat Investicijų įstatymo nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti;
+3) jos reikia įgyvendinti Vyriausybės nutarimu valstybei svarbiais pripažintiems projektams ar kitiems teisės aktų nustatyta tvarka valstybei svarbiais pripažintiems projektams, regioninės svarbos projektams, kuriuos tokiais projektais pripažįsta regiono plėtros taryba, vadovaudamasi Regioninės plėtros įstatymu, taip pat Investicijų įstatyme nustatytais atvejais, kai jos reikia stambiems projektams įgyvendinti;
 
 
 
 
-4) šio straipsnio 7 dalyje nustatyto dydžio neviršijantys žemės sklypai yra įsiterpę tarp išnuomotų valstybinės žemės sklypų – šių sklypų valstybinės žemės nuomininkams;
+4) šio straipsnio 7 dalyje nustatyto dydžio neviršijantys žemės plotai yra įsiterpę tarp išnuomotų valstybinės žemės sklypų – šių sklypų valstybinės žemės nuomininkams;
 
 
 
@@ -4306,24 +4341,39 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-6) ji reikalinga valdžios ir privataus subjektų partnerystės sutarčiai įgyvendinti – Investicijų įstatymo nustatytais atvejais; 
+6) ji reikalinga valdžios ir privataus subjektų partnerystės sutarčiai įgyvendinti – Investicijų įstatymo nustatytais atvejais;
 
 
 
 
-7) ji yra su įrengtais akvakultūros tvenkiniais (įskaitant užtvankos įrenginių užimtą žemę) – šioje žemėje esančių akvakultūrai naudojamų statinių ar įrenginių savininkams.
+7) ji yra su įrengtais akvakultūros tvenkiniais (įskaitant užtvankos įrenginių užimtą žemę) – šioje žemėje esančių akvakultūrai naudojamų statinių ar įrenginių savininkams;
+
+
+
+
+8) ji yra reikalinga Atsinaujinančių išteklių energijos bendrijai, kai dalyvių susirinkime savivaldybėms ir (ar) savivaldybių valdomoms įmonėms ir įstaigoms priklauso daugiau kaip 51 procento balsų dauguma, o šios bendrijos pagrindinė paskirtis – plėtoti energijos iš atsinaujinančių energijos išteklių gamybos įrenginius, mažinant energijos nepriteklių ir (ar) teikti naudą pažeidžiamiems vartotojams;
+
+
+
+
+9) ji šio įstatymo 131 straipsnyje nustatyta tvarka yra reikalinga Investicijų įstatymo 13 straipsnio 1 dalies 14 punkte numatytiems privačių investicijų projektams įgyvendinti;
+
+
+
+
+10) valstybinė žemė be aukciono gali būti nuomojama ir kitais šiame įstatyme nustatytais atvejais.
 
 
 
 
 
 
-7. Laisvos valstybinės žemės plotai, įsiterpę tarp privačių žemės sklypų ar (ir) išnuomotų valstybinės žemės sklypų, taip pat privačių arba išnuomotų valstybinės žemės sklypų ir kelių (gatvių) ar miškų sklypų (plotų), jeigu šiuose plotuose negalima suformuoti racionalaus dydžio ir ribų žemės sklypų, Nacionalinės žemės tarnybos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu gali būti išnuomojami besiribojančių valstybinės žemės sklypų nuomininkams. Įsiterpusiu nelaikomas žemės sklypas, kuris ribojasi su laisvos valstybinės žemės plotu, nesuformuotu kaip atskiras žemės sklypas, išskyrus atvejus, kai tarp privačių žemės sklypų ar (ir) išnuomotų valstybinės žemės sklypų, taip pat privačių arba išnuomotų valstybinės žemės sklypų ir kelių (gatvių) ar miškų sklypų (plotų) įsiterpusį žemės sklypą sudaro siaura juosta, šlaitai ar grioviai. Teritorijose, kuriose pagal teritorijų planavimo dokumentus ar žemės valdos projektus numatoma formuoti vienbučių ir dvibučių gyvenamųjų pastatų bei daugiabučių gyvenamųjų pastatų ir bendrabučių teritorijų naudojimo būdo žemės sklypus, įsiterpę žemės sklypai negali būti didesni kaip 0,04 ha, išskyrus atvejus, kai žemės sklypą sudaro siaura juosta, šlaitai ar grioviai. Tokiais atvejais Nacionalinės žemės tarnybos vadovo ar jo įgalioto teritorinio padalinio vadovo sprendimu išnuomojamas įsiterpusio žemės sklypo plotas gali būti didinamas. Jeigu žemės sklypo, įsiterpusio tarp privačių žemės sklypų ar (ir) išnuomotų valstybinės žemės sklypų, taip pat privačių arba išnuomotų valstybinės žemės sklypų ir kelių (gatvių) ar miškų sklypų (plotų), plotis neviršija 10 metrų, laikoma, kad įsiterpusį žemės sklypą sudaro siaura juosta. Jeigu žemės sklypo nuo viršutinės šlaito briaunos iki jo papėdės nuolydis yra ne mažesnis kaip 20 laipsnių, laikoma, kad įsiterpusį žemės sklypą sudaro šlaitas. Jeigu žemės sklypo nuo vienos iki kitos griovio viršutinės briaunos plotis neviršija 15 metrų, laikoma, kad įsiterpusį žemės sklypą sudaro griovys. Kitose teritorijose įsiterpę žemės sklypai negali būti didesni kaip 0,5 ha.
+7. Įsiterpęs žemės plotas, esantis teritorijose, kuriose pagal teritorijų planavimo dokumentus ar žemės valdos projektus numatoma formuoti vienbučių ir dvibučių gyvenamųjų pastatų bei daugiabučių gyvenamųjų pastatų ir bendrabučių teritorijų naudojimo būdo valstybinės žemės sklypus, neviršijantis 0,04 ha, kitose kitos paskirties žemės teritorijose – 0,5 ha, gali būti išnuomojamas be aukciono besiribojančių valstybinės žemės sklypų nuomininkams. Išnuomojamas be aukciono įsiterpęs žemės plotas gali būti didinamas nuomotojo sprendimu, jeigu tokį įsiterpusį žemės plotą sudaro siaura juosta, šlaitas arba griovys. Laikoma, kad įsiterpusį žemės plotą sudaro siaura juosta, jeigu šio žemės ploto plotis bet kuriame taške neviršija 10 metrų. Jeigu žemės sklypo nuo viršutinės šlaito briaunos iki jo papėdės nuolydis yra ne mažesnis kaip 20 laipsnių, laikoma, kad įsiterpusį valstybinės žemės sklypą sudaro šlaitas. Jeigu žemės sklypo nuo vienos iki kitos griovio viršutinės briaunos plotis neviršija 15 metrų, laikoma, kad įsiterpusį valstybinės žemės sklypą sudaro griovys. Įsiterpusiame žemės plote suformuojamas žemės sklypas (-ai), kuris (-ie) išnuomojamas (-i) besiribojančio žemės sklypo nuomininkui ir privalomai sujungiamas su pagrindiniu besiribojančiu žemės sklypu. Įsiterpusio žemės sklypo plotas negali būti didesnis už besiribojančio žemės sklypo, su kuriuo bus jungiamas įsiterpęs žemės sklypas, plotą. Įsiterpusio žemės sklypo suformavimo ir išnuomojimo tvarką nustato Vyriausybė.
 
 
 
 
-8. Vykdant žemės reformą, valstybinės žemės ūkio paskirties žemės sklypai kaimo vietovėje, formuojami pagal žemės reformos žemėtvarkos projektus, Vyriausybės nustatyta tvarka išnuomojami be aukciono. Pirmumo teisę išsinuomoti tokią žemę turi:
+8. Vykdant žemės reformą, valstybinės žemės ūkio paskirties žemės sklypai kaimo gyvenamojoje vietovėje, formuojami pagal žemės reformos žemėtvarkos projektus, Vyriausybės nustatyta tvarka išnuomojami be aukciono. Pirmumo teisę išsinuomoti tokią žemę turi:
 
 
 1) fiziniai asmenys, įregistravę ūkininko ūkį Ūkininko ūkio įstatymo nustatyta tvarka arba turintys Vyriausybės įgaliotos institucijos nustatytą pasirengimą ūkininkauti;
@@ -4338,7 +4388,7 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-9. Jeigu keli vienodą pirmumo teisę turintys asmenys pageidauja išsinuomoti tą patį valstybinės žemės ūkio paskirties žemės sklypą, jis išnuomojamas tam asmeniui, kuris teisėtai juo naudojasi. Jeigu tokių asmenų nėra, žemės sklypas išnuomojamas asmeniui, kurio nuosavybės teise turimas ar iš valstybės nuomojamas žemės ūkio paskirties žemės sklypas ribojasi su pageidaujamu išsinuomoti žemės ūkio paskirties žemės sklypu. Jeigu tokių asmenų nėra arba jų yra keli, valstybinės žemės ūkio paskirties žemės sklypas išnuomojamas asmeniui, anksčiau pateikusiam prašymą išsinuomoti valstybinės žemės ūkio paskirties žemės sklypą. Kai yra keli asmenys, nenurodyti šio straipsnio 8 dalies 1 ir 2 punktuose, pageidaujantys išsinuomoti tą patį valstybinės žemės ūkio paskirties žemės sklypą, šis žemės sklypas jiems išnuomojamas aukciono būdu.
+9. Jeigu keli vienodą pirmumo teisę turintys asmenys pageidauja išsinuomoti tą patį valstybinės žemės ūkio paskirties žemės sklypą, jis išnuomojamas tam asmeniui, kuris teisėtai juo naudojasi. Jeigu tokių asmenų nėra, žemės sklypas išnuomojamas asmeniui, kurio nuosavybės teise turimas ar iš valstybės nuomojamas žemės ūkio paskirties žemės sklypas ribojasi su pageidaujamu išsinuomoti žemės ūkio paskirties žemės sklypu. Jeigu tokių asmenų nėra arba jų yra keli, valstybinės žemės ūkio paskirties žemės sklypas išnuomojamas asmeniui, anksčiau pateikusiam prašymą išsinuomoti valstybinės žemės ūkio paskirties žemės sklypą. Kai yra keli išsinuomoti tą patį valstybinės žemės ūkio paskirties žemės sklypą pageidaujantys asmenys, nenurodyti šio straipsnio 8 dalies 1 ir 2 punktuose, šis žemės sklypas jiems išnuomojamas aukciono būdu.
 
 
 
@@ -4348,12 +4398,12 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-11. Savivaldybės joms patikėjimo teise perduotus valstybinės žemės sklypus, kurie atitinka Vyriausybės nustatytus žemės sklypo ploto ir (ar) vertės kriterijus, gali išnuomoti tik gavusios Nacionalinės žemės tarnybos pritarimą. Kriterijus, taikomus valstybinės žemės sklypų, patikėjimo teise perduotų valdyti savivaldybėms, nuomai, nustato Vyriausybė valstybinės žemės nuomos ir perdavimo neatlygintinai naudotis (panaudos) taisyklėse.
+11. Savivaldybės, sudariusios valstybinės žemės nuomos sutartį dėl joms patikėjimo teise perduotų valstybinės žemės sklypų, kurie atitinka šio įstatymo 362 straipsnio 9 dalyje nustatytus kriterijus, šio įstatymo 362 straipsnio 8 dalyje nustatyta tvarka ir terminais kreipiasi į Nacionalinę žemės tarnybą dėl šios sutarties teisėtumo patikrinimo ir išvados pateikimo. Sandoriai Nekilnojamojo turto registre registruojami tik gavus Nacionalinės žemės tarnybos išvadą apie sandorio atitiktį teisės aktų reikalavimams (nesant trūkumų) ir galimybę jį registruoti. 
 
 
 
 
-12. Savivaldybėms išnuomojus joms patikėjimo teise perduotus valstybinės žemės sklypus, valstybinės žemės sklypų nuomos sutarčių sąlygų vykdymą prižiūri ir kontroliuoja savivaldybės. Savivaldybės, nustačiusios, kad valstybinės žemės nuomininkas nevykdo sutarties sąlygų, inicijuoja nuomos sutarties nutraukimą įstatymų nustatyta tvarka arba taiko kitus įstatymų nustatytus šalių teisių ir interesų gynimo būdus.
+12. Savivaldybėms išnuomojus joms patikėjimo teise perduotus valstybinės žemės sklypus, valstybinės žemės nuomos sutarčių sąlygų vykdymą prižiūri savivaldybės. Savivaldybės, nustačiusios, kad valstybinės žemės nuomininkas nevykdo sutarties sąlygų, inicijuoja nuomos sutarties nutraukimą įstatymų nustatyta tvarka arba taiko kitus įstatymų nustatytus šalių teisių ir interesų gynimo būdus.
 
 
 
@@ -4363,47 +4413,167 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 
 
-14. Be aukciono išnuomotos valstybinės žemės nuomos sutartis nutraukiama prieš terminą nuomotojo reikalavimu, kai į šią žemę atkuriamos nuosavybės teisės, išskyrus įstatymų, reglamentuojančių piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimą, nustatytus atvejus.
+14. Be aukciono išnuomotos valstybinės žemės nuomos sutartis nutraukiama prieš terminą valstybinės žemės nuomotojo reikalavimu, kai į šią žemę atkuriamos nuosavybės teisės, išskyrus įstatymų, reglamentuojančių piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimą, nustatytus atvejus.
 
 
 
 
-15. Vyriausybė nustato be aukciono išnuomotos valstybinės žemės nuomos mokesčio dydžio nustatymo ir mokėjimo tvarką. Žemės sklypo, išnuomoto be aukciono, nuomos sutartyje turi būti numatyta nuomotojo teisė kas 3 metus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perskaičiuoti žemės sklypo vertę, nuo kurios skaičiuojamas žemės nuomos mokestis.
+15. Vyriausybė nustato be aukciono išnuomotos valstybinės žemės nuomos mokesčio dydžio nustatymo ir mokėjimo tvarką. Nuomininkas valstybinės žemės, išnuomotos be aukciono, nuomos mokestį moka pagal savivaldybės, kurios teritorijoje yra nuomojama valstybinė žemė, tarybos patvirtintą tarifą, nustatytą Vyriausybės nustatyta tvarka. Žemės sklypo, išnuomoto be aukciono, nuomos sutartyje turi būti numatyta valstybinės žemės nuomotojo teisė kas 3 metus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka perskaičiuoti žemės sklypo vertę, nuo kurios skaičiuojamas žemės nuomos mokestis.
 
 
 
 
-16. Valstybinės žemės nuomininkai turi teisę naudoti išnuomotą valstybinės žemės sklypą savo veiklai vykdyti, nepažeisdami nustatytos pagrindinės žemės naudojimo paskirties, naudojimo būdo, laikydamiesi specialiųjų žemės naudojimo sąlygų, kitų veiklos apribojimų ir nustatytų servitutų, Žemės gelmių įstatymo nustatyta tvarka naudoti žemės sklype esančius žemės gelmių išteklius ir ertmes, disponuoti žemės sklype išauginta produkcija ir iš šio žemės sklypo gautomis pajamomis. Kitas sąlygas, kurios turi būti numatomos valstybinės žemės nuomos sutartyse, nustato Vyriausybė.
+16. Valstybinės žemės nuomininkai turi teisę naudoti išnuomotą valstybinės žemės sklypą savo veiklai vykdyti nepažeisdami nustatytos pagrindinės žemės naudojimo paskirties, naudojimo būdo, laikydamiesi specialiųjų žemės naudojimo sąlygų, kitų veiklos apribojimų ir nustatytų servitutų, Žemės gelmių įstatymo nustatyta tvarka naudoti žemės sklype esančius žemės gelmių išteklius ir ertmes, disponuoti žemės sklype išauginta produkcija ir iš šio žemės sklypo gautomis pajamomis. Jeigu išnuomojamas valstybinės žemės sklypas yra saugomoje teritorijoje ar Europos ekologinio tinklo „Natura 2000“ teritorijoje, ar potencialioje buveinių apsaugai svarbioje teritorijoje, valstybinės žemės nuomininkas, vykdydamas veiklą šiame sklype, įsipareigoja vadovautis Saugomų teritorijų įstatymo nuostatomis dėl saugomų rūšių bei Europos bendrijos svarbos rūšių ir buveinių apsaugos, taip pat kartu su saugomų teritorijų politiką įgyvendinančia ar už saugomos teritorijos apsaugą atsakinga institucija apsaugos sutartimi suderinti šių gamtos vertybių apsaugos ir tvarkymo režimą. Kitas sąlygas, kurios turi būti numatomos valstybinės žemės nuomos sutartyse, nustato Vyriausybė.
 
 
 
 
-17. Valstybinės žemės nuomos sutartis turi būti nutraukiama prieš terminą nuomotojo reikalavimu, jeigu žemės nuomininkas naudoja žemę ne pagal sutartyje numatytą pagrindinę žemės naudojimo paskirtį ir (ar) būdą arba yra keičiama pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas, išskyrus šio įstatymo 23 straipsnio 8 dalyje nurodytą atvejį. Galimybė keisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą, nurodant pagrindinę žemės naudojimo paskirtį ir (ar) būdą, į kuriuos keičiami pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas, Vyriausybės nustatyta tvarka šio įstatymo 23 straipsnio 8 dalyje nurodytu atveju turi būti numatyta valstybinės žemės nuomos sutartyje arba jos pakeitime.
+17. Valstybinės žemės nuomos sutartis turi būti nutraukiama prieš terminą valstybinės žemės nuomotojo reikalavimu, jeigu:
+
+
+1) valstybinės žemės nuomininkas naudoja žemę ne pagal sutartyje ir ne pagal Nekilnojamojo turto kadastre įrašytą pagrindinę žemės naudojimo paskirtį ir (ar) būdą ir valstybinės žemės nuomininkas, gavęs valstybinės žemės patikėtinio įspėjimą, šio pažeidimo nepašalina per 2 metus arba 5 metus, kai vadovaujantis Teritorijų planavimo įstatymu turi būti rengiamas vietovės lygmens teritorijų planavimo dokumentas, nuo įspėjimo gavimo dienos;
 
 
 
 
-18. Sprendimas nutraukti valstybinės žemės nuomos sutartį prieš terminą dėl statinių ar įrenginių nenaudojimo pagal Nekilnojamojo turto registre įregistruotą jų tiesioginę paskirtį priimamas, jeigu per nustatytą 2 metų laikotarpį valstybinės žemės nuomininkas nepašalina nustatytų žemės nuomos sutarties pažeidimų. Apie sprendimą dėl statinių ar įrenginių nenaudojimo pagal Nekilnojamojo turto registre įregistruotą jų tiesioginę paskirtį turi būti informuojama savivaldybė. Priėmus sprendimą nutraukti valstybinės žemės nuomos sutartį arba jos nesudaryti dėl statinių ar įrenginių nenaudojimo pagal Nekilnojamojo turto registre įregistruotą jų tiesioginę paskirtį, kai tai neatitinka valstybinės žemės nuomos sutarties sudarymo sąlygų, Vyriausybės įgaliotos institucijos nustatyta tvarka valstybė išperka teisėtai pastatytus statinius ir įrenginius, atlygindama jų rinkos vertę, apskaičiuotą taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, atsižvelgiant į esamą statinių ir įrenginių būklę.
+2) valstybinės žemės nuomininko iniciatyva keičiama pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas, išskyrus šio straipsnio 26 dalyje ir šio įstatymo 23 straipsnio 8 dalyje nustatytus atvejus, ir valstybinės žemės nuomininkas, gavęs valstybinės žemės patikėtinio įspėjimą, šio pažeidimo nepašalina per 2 metus arba 5 metus, kai vadovaujantis Teritorijų planavimo įstatymu turi būti rengiamas vietovės lygmens teritorijų planavimo dokumentas, nuo įspėjimo gavimo dienos. Galimybė keisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą, nurodant pagrindinę žemės naudojimo paskirtį ir (ar) būdą, į kuriuos keičiami pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas, Vyriausybės nustatyta tvarka šio įstatymo 23 straipsnio 8 dalyje nustatytu atveju turi būti numatyta valstybinės žemės nuomos sutartyje arba jos pakeitime;
 
 
 
 
-19. Laikoma, kad pagal pakeistus pagrindinę žemės naudojimo paskirtį ir (ar) būdą vykdomai veiklai eksploatuojami tie patys žemės sklype esantys statiniai ar įrenginiai, jeigu jiems eksploatuoti pagal pakeistus pagrindinę žemės naudojimo paskirtį ir (ar) būdą pritaikyti neatliekami statybos darbai, išskyrus paprastąjį ar kapitalinį remontą, nekeičiant statinio matmenų (ilgio, pločio, aukščio ir pan.), taip pat keičiama statinio ar įrenginio paskirtis, tačiau statinys ar įrenginys nerekonstruojami, nestatomi nauji statiniai ar įrenginiai. Kai pagal pakeistus pagrindinę žemės naudojimo paskirtį ir (ar) būdą vykdomai veiklai pagal šio straipsnio 6 dalies 1 punktą be aukciono išnuomotame valstybinės žemės sklype numatoma statyti naujus ar rekonstruoti esamus statinius ar įrenginius, papildomai už teisę statyti naujus ar rekonstruoti esamus statinius ar įrenginius valstybinės žemės sklypo nuomininkas turi sumokėti į valstybės biudžetą ir savivaldybės, kurios teritorijoje yra žemės sklypas, biudžetą šio įstatymo 10 straipsnio 3 ir 4 dalyse nurodytą pinigų sumą. 
+3) valstybinės žemės nuomininkas naudoja statinius ir (ar) įrenginius ne pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį ir gavęs valstybinės žemės patikėtinio įspėjimą šio pažeidimo nepašalina per 2 metus arba 5 metus, kai vadovaujantis Teritorijų planavimo įstatymu turi būti rengiamas vietovės lygmens teritorijų planavimo dokumentas, ar nepateikia valstybinės žemės patikėtiniui dokumento, patvirtinančio statybos užbaigimą, ar nesutinka mokėti šio straipsnio 26 dalies 1 punkte nurodyto valstybinės žemės nuomos mokesčio. Apie valstybinės žemės patikėtinio sprendimą įspėti valstybinės žemės nuomininką dėl statinių ir (ar) įrenginių naudojimo ne pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį kaimo gyvenamojoje vietovėje informuojama savivaldybė. Priėmus sprendimą nutraukti valstybinės žemės nuomos sutartį dėl statinių ar įrenginių naudojimo ne pagal Nekilnojamojo turto kadastre įrašytą jų tiesioginę paskirtį, kai tai neatitinka valstybinės žemės nuomos sutarties sudarymo sąlygų, Vyriausybės nustatyta tvarka valstybė išperka teisėtai pastatytus statinius ir įrenginius, atlygindama jų rinkos vertę, apskaičiuotą taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, atsižvelgiant į statinių ir įrenginių būklę, buvusią įspėjimo dėl valstybinės žemės nuomos sutarties nutraukimo metu;
 
 
 
 
-20. Per 2 metus nuo sprendimo pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą priėmimo valstybinės žemės sklypo nuomininkui nepradėjus naujų statinių ar įrenginių statybos ir (ar) esamų statinių ir įrenginių rekonstravimo ir valstybinės žemės sklypo nuomotojui nustačius, kad valstybinės žemės sklype yra eksploatuojami esami statiniai ar įrenginiai ir vykdoma veikla pagal iki sprendimo pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą priėmimo nustatytus pagrindinę žemės naudojimo paskirtį ir (ar) būdą, valstybinės žemės sklypo nuomininkas privalo sumokėti žemės nuomos mokesčio priedą, lygų 5 procentams valstybinės žemės sklypo ar jo dalies, kurių pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas yra pakeisti, vidutinės rinkos vertės, apskaičiuotos po pagrindinės žemės naudojimo paskirties ir (ar) būdo pakeitimo atliekant valstybinės žemės sklypo vertinimą masiniu būdu Vyriausybės nustatyta tvarka. Žemės nuomos mokesčio priedas į savivaldybės biudžetą mokamas Vyriausybės nustatyta tvarka kiekvienais metais iki pranešimo apie naujų statinių ar įrenginių statybos ir (ar) esamų statinių ar įrenginių rekonstravimo pradžią pateikimo dienos. 
+4) valstybinės žemės nuomotojui nustačius, kad išnuomoto valstybinės žemės sklypo plotas turi būti sumažintas, nes buvo sunaikinti statiniai ar jų dalis, kuriems eksploatuoti valstybinės žemės sklypas buvo išnuomotas, išskyrus atvejus, kai statiniai sunyko dėl gaisro ar ekstremaliojo įvykio, ar valstybinės žemės nuomininkui atsisakius pakeisti valstybinės žemės nuomos sutartį, jeigu joje nebuvo numatyta galimybė statyti, ar valstybinės žemės nuomininkas nėra sumokėjęs atlyginimo už statinių statybos galimybę ir (ar) nėra gautas statybą leidžiantis dokumentas naujų statinių statybai. Šiuo atveju valstybinės žemės nuomotojo iniciatyva ir lėšomis suformuojamas naujas žemės sklypas likusiems nesunaikintiems statiniams ir (ar) įrenginiams eksploatuoti ir kreipiamasi į teismą dėl valstybinės žemės nuomos sutarties pakeitimo, jeigu per 3 mėnesius nuo šio žemės sklypo suformavimo dienos šalys nesusitaria dėl sutarties pakeitimo. Valstybinės žemės nuomotojui nustačius, kad išnuomotame valstybinės žemės sklype sunaikinti visi statiniai, Nekilnojamojo turto registre įregistruoti kaip pagrindiniai daiktai, išskyrus atvejus, kai statiniai sunyko dėl gaisro ar ekstremaliojo įvykio, ar valstybinės žemės nuomininkas nėra sumokėjęs atlyginimo už statinių statybos galimybę ir (ar) nėra gautas statybą leidžiantis dokumentas naujų statinių statybai, valstybinės žemės sklypo nuomos sutartis nuomotojo reikalavimu nutraukiama prieš terminą.
 
 
 
 
-21. Valstybinės žemės nuomos sutartis nutraukiama šio straipsnio 17 dalyje nustatyta tvarka, kai per 2 metus valstybinės žemės sklypas ne tik nepradedamas naudoti pagal pakeistus pagrindinę žemės naudojimo paskirtį ir (ar) būdą, bet nenaudojamas ir pagal iki sprendimo pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą priėmimo nustatytus pagrindinę žemės naudojimo paskirtį ir (ar) būdą.
+
+
+18. Rezervuoto investicinio valstybinės žemės sklypo nuomos sutartis galioja tol, kol galioja Investicijų įstatymo nustatyta tvarka sudaryta investicijų sutartis. Dėl investuotojo kaltės nutraukus Investicijų įstatymo nustatyta tvarka sudarytą investicijų sutartį, rezervuoto investicinio valstybinės žemės sklypo nuomos sutartis laikoma nutrūkusia. Šiuo atveju žemės sklype esantys investuotojo nebaigti statiniai, išskyrus inžinerinę savivaldybės infrastruktūrą, turi būti nugriauti investuotojo lėšomis ir valstybinės žemės patikėtiniui grąžintas sutvarkytas valstybinės žemės sklypas. Šis reikalavimas netaikomas, kai rezervuotas investicinis valstybinės žemės sklypas su nebaigtais statiniais, išskyrus inžinerinę savivaldybės infrastruktūrą, gali būti išnuomojamas kitam investuotojui ir Investicijų įstatymo nustatyta tvarka sudarytoje ir nutrauktoje investicijų sutartyje buvo išreikštas investuotojo sutikimas dėl statinių perdavimo ar perleidimo kitam investuotojui. Apie investicijų sutarties nutraukimą investicijų sutartį su investuotoju sudariusi institucija investicijų sutartyje nustatyta tvarka per 10 darbo dienų nuo investicijų sutarties nutraukimo dienos privalo pranešti Nacionalinei žemės tarnybai ir investuotojui.
 
 
 
 
-22. Jeigu išnuomota valstybinė žemė paimama naudoti visuomenės poreikiams, valstybinės žemės nuomos sutartis nutraukiama prieš terminą, žemės sklype esančių statinių bei želdinių vertė ir dėl sutarties nutraukimo patirti nuostoliai valstybinės žemės nuomininkams atlyginami pagal šio įstatymo 47 straipsnį arba pagal Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymą. Valstybinės žemės nuomos sutartis nutraukiama šio įstatymo 47 straipsnyje arba Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme nustatyta tvarka atsiskaičius su nuomininkais.“ 
+19. Laikoma, kad pagal pakeistus pagrindinę žemės naudojimo paskirtį ir (ar) būdą vykdomai veiklai eksploatuojamų žemės sklype esančių statinių ar įrenginių matmenys nepakito, jeigu jiems eksploatuoti pagal pakeistus pagrindinę žemės naudojimo paskirtį ir (ar) būdą neatliekami statybos darbai, išskyrus paprastąjį ar kapitalinį remontą, arba keičiama statinio paskirtis. Kai pagal pakeistus pagrindinę žemės naudojimo paskirtį ir (ar) būdą vykdomai veiklai pagal šio straipsnio 6 dalies 1 punktą be aukciono išnuomotame valstybinės žemės sklype numatoma statyti naujus ar rekonstruoti esamus statinius, papildomai už galimybę statyti naujus ar rekonstruoti esamus statinius valstybinės žemės nuomininkas turi sumokėti į valstybės biudžetą ir savivaldybės, kurios teritorijoje yra žemės sklypas, biudžetą šio įstatymo 10 straipsnio 3 ir 4 dalyse nurodytą pinigų sumą.
+
+
+
+
+20. Per 2 metus arba 5 metus, kai vadovaujantis Teritorijų planavimo įstatymu turi būti rengiamas vietovės lygmens teritorijų planavimo dokumentas, nuo sprendimo pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą priėmimo valstybinės žemės nuomininkui nepradėjus naujų statinių ar įrenginių statybos ir (ar) esamų statinių ir įrenginių rekonstravimo ir valstybinės žemės nuomotojui nustačius, kad valstybinės žemės sklype yra eksploatuojami esami statiniai ar įrenginiai ir vykdoma veikla pagal iki sprendimo pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą priėmimo nustatytus pagrindinę žemės naudojimo paskirtį ir (ar) būdą, valstybinės žemės nuomininkas privalo sumokėti žemės nuomos mokesčio priedą, lygų 5 procentams valstybinės žemės sklypo ar jo dalies, kurių pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas yra pakeisti, vidutinės rinkos vertės, apskaičiuotos po pagrindinės žemės naudojimo paskirties ir (ar) būdo pakeitimo atliekant valstybinės žemės sklypo vertinimą masiniu būdu Vyriausybės nustatyta tvarka. Žemės nuomos mokesčio priedas į savivaldybės biudžetą mokamas Vyriausybės nustatyta tvarka kiekvienais metais iki pranešimo apie naujų statinių ar įrenginių statybos ir (ar) esamų statinių ar įrenginių rekonstravimo pradžią pateikimo dienos. 
+
+
+
+
+21. Valstybinės žemės nuomos sutartis nutraukiama šio straipsnio 17 dalyje nustatyta tvarka, kai per 2 metus arba 5 metus, kai vadovaujantis Teritorijų planavimo įstatymu turi būti rengiamas vietovės lygmens teritorijų planavimo dokumentas, nuo sprendimo pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą priėmimo dienos valstybinės žemės sklypas nepradedamas naudoti pagal pakeistus pagrindinę žemės naudojimo paskirtį ir (ar) būdą.
+
+
+
+
+22. Jeigu išnuomota valstybinė žemė paimama naudoti visuomenės poreikiams, valstybinės žemės nuomos sutartis nutraukiama prieš terminą, žemės sklype esančių statinių bei želdinių vertė ir dėl sutarties nutraukimo patirti nuostoliai valstybinės žemės nuomininkams atlyginami pagal šio įstatymo 47 straipsnį arba pagal Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymą. Valstybinės žemės nuomos sutartis nutraukiama šio įstatymo 47 straipsnyje arba Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme nustatyta tvarka atsiskaičius su nuomininkais.
+
+
+
+
+23. Valstybinės žemės nuomotojas išnuomoja be aukciono valstybinės žemės sklypą ar jo dalį, kuriame yra tik apleisti statiniai, išskyrus šio straipsnio 25 dalyje nustatytus atvejus. Valstybinės žemės nuomos sutartyje turi būti nurodyta:
+
+
+1) valstybinės žemės nuomos mokestis, kuris apskaičiuojamas pagal žemės sklypo vertę, nustatytą taikant individualų turto vertinimą Turto ir verslo vertinimo pagrindų įstatyme nustatyta tvarka, ir didinamas 10 procentų. Individualus valstybinės žemės sklypo vertinimas atliekamas suinteresuoto asmens lėšomis;
+
+
+
+
+2) 2 metų arba 5 metų, kai vadovaujantis Teritorijų planavimo įstatymu turi būti rengiamas vietovės lygmens teritorijų planavimo dokumentas, terminas statybos darbams atlikti;
+
+
+
+
+3) įpareigojimas valstybinės žemės nuomininkui iki sutartyje nustatyto termino pabaigos užbaigti statinių statybą ir pateikti tai patvirtinantį dokumentą. Nepateikus statybos užbaigimą patvirtinančio dokumento, valstybinės žemės nuomininkas moka dvigubo dydžio valstybinės žemės nuomos mokestį iki bus pateiktas šis dokumentas arba pateikia prašymą valstybinės žemės nuomotojui dėl valstybinės žemės nuomos sutarties nutraukimo.
+
+
+
+
+
+
+24. Valstybinės žemės nuomotojas be aukciono išnuomoja valstybinės žemės sklypą ar jo dalį, kuriame yra tik sunykę statiniai, jeigu statiniai sunyko dėl ne nuo statinių savininko ar naudotojo priklausančios valios (dėl gaisro, ekstremaliojo įvykio), šiuo atveju nuomojamo valstybinės žemės sklypo ar jo dalies dydis nustatomas pagal statinių duomenis, įregistruotus Nekilnojamojo turto registre. Valstybinės žemės nuomos sutartyje turi būti nurodyta:
+
+
+1) valstybinės žemės nuomos mokestis, kuris apskaičiuojamas pagal žemės sklypo vertę, nustatytą taikant masinį turto vertinimą Turto ir verslo vertinimo pagrindų įstatyme nustatyta tvarka;
+
+
+
+
+2) 2 metų arba 5 metų, kai vadovaujantis Teritorijų planavimo įstatymu turi būti rengiamas vietovės lygmens teritorijų planavimo dokumentas, terminas statybos darbams atlikti;
+
+
+
+
+3) įpareigojimas valstybinės žemės nuomininkui iki sutartyje nustatyto termino pabaigos užbaigti statinių statybą ir pateikti tai patvirtinantį dokumentą. Nepateikus statybos užbaigimą patvirtinančio dokumento, valstybinės žemės nuomininkas moka dvigubo dydžio valstybinės žemės nuomos mokestį, iki bus pateiktas šis dokumentas, arba pateikia prašymą valstybinės žemės nuomotojui dėl valstybinės žemės nuomos sutarties nutraukimo.
+
+
+
+
+
+
+25. Žemės sklypai neformuojami:
+
+
+1) Nekilnojamojo turto registre įregistruotiems statiniams ir (ar) įrenginiams, kurie vadovaujantis teritorijų planavimo dokumentų sprendiniais turi būti griaunami, eksploatuoti;
+
+
+
+
+2) Nekilnojamojo turto registre įregistruotiems apleistiems ir (ar) neprižiūrimiems (išskyrus atvejus, kai siekiant naudoti apleistą ir (ar) neprižiūrimą statinį pagal paskirtį reikalinga atlikti tik paprastąjį remontą) statiniams ir (ar) įrenginiams eksploatuoti. Šioje dalyje nurodyti statiniai ir (ar) įrenginiai išperkami Vyriausybės nustatyta tvarka, atlyginant jų rinkos vertę, apskaičiuotą taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, atsižvelgiant tik į esamą statinių ir įrenginių būklę.
+
+
+
+
+
+
+26. Valstybinės žemės nuomotojas išnuomoja valstybinės žemės sklypą statiniams ir (ar) įrenginiams eksploatuoti, kurių paskirtis neatitinka valstybinės žemės sklypo pagrindinės žemės naudojimo paskirties ir (ar) naudojimo būdo. Valstybinės žemės nuomos sutartyje turi būti nurodyta:
+
+
+1) valstybinės žemės nuomos mokestis, kuris apskaičiuojamas pagal nekilnojamojo turto vertę, nustatytą taikant individualų turto vertinimą Turto ir verslo vertinimo pagrindų įstatyme nustatyta tvarka, ir didinamas 10 procentų. Individualus valstybinės žemės sklypo vertinimas atliekamas suinteresuoto asmens lėšomis;
+
+
+
+
+2) 2 metų arba 5 metų, kai vadovaujantis Teritorijų planavimo įstatymu turi būti rengiamas vietovės lygmens teritorijų planavimo dokumentas, terminas, per kurį statinių savininkas turėtų pakeisti išsinuomoto valstybinės žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) naudojimo būdą arba statinio paskirtį;
+
+
+
+
+3) įpareigojimas valstybinės žemės nuomininkui iki sutartyje nustatyto termino pabaigos pateikti dokumentą apie statinio paskirties atitiktį valstybinės žemės sklypo pagrindinei žemės naudojimo paskirčiai ir (ar) naudojimo būdui. Nepateikus šio dokumento, valstybinės žemės nuomininkas moka dvigubo dydžio valstybinės žemės nuomos mokestį iki šio dokumento arba prašymo valstybinės žemės nuomotojui dėl valstybinės žemės nuomos sutarties nutraukimo pateikimo dienos.
+
+
+
+
+
+
+27. Valstybinė ne miško žemė, apaugusi medžių savaiminukais, žemės ūkio veiklai nenuomojama.
+
+
+
+
+28. Žemės ūkio paskirties rezervuotas investicinis valstybinės žemės sklypas ar jo dalis iki jo perdavimo neatlygintinai naudotis savivaldybėms šio įstatymo 8 straipsnio 1 dalyje numatyta tvarka arba iki statybą leidžiančio dokumento išdavimo Nacionalinės žemės tarnybos vadovo arba jo įgalioto viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einančio valstybės tarnautojo sprendimu Nacionalinės žemės tarnybos nustatyta tvarka suderinus su Ekonomikos ir inovacijų ministerija gali būti suteiktas laikinai atlygintinai naudotis žemės ūkio veiklai žemės naudotojui, su kuriuo iki valstybinės žemės ūkio paskirties žemės sklypo rezervavimo buvo sudaryta žemės nuomos, panaudos ar kitą naudojimosi teisę suteikianti sutartis (dokumentas), kurios (-io) terminas nebuvo pratęstas. Jeigu valstybinės žemės ūkio paskirties žemės sklypas iki jo įtraukimo į rezervuotų investicinių valstybinės žemės sklypų sąrašą nebuvo naudojamas, jis gali būti suteikiamas laikinai atlygintinai naudotis žemės ūkio veiklai vykdyti Nacionalinės žemės tarnybos vadovo arba jo įgalioto viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einančio valstybės tarnautojo sprendimu Nacionalinės žemės tarnybos nustatyta tvarka suderinus su Ekonomikos ir inovacijų ministerija pagal šio straipsnio 8 ir 9 dalyse nustatytą eiliškumą.
+
+
+
+
+29. Nacionalinės žemės tarnybos vadovas arba jo įgaliotas viešojo administravimo funkcijas vykdančiame Nacionalinės žemės tarnybos padalinyje vadovaujamas pareigas einantis valstybės tarnautojas rezervuoto investicinio valstybinės žemės sklypo valstybinės žemės nuomos sutartį su investuotoju sudaro po to, kai yra sudaryta privataus subjekto ir Vyriausybės, jos įgaliotos institucijos ar savivaldybės investicijų sutartis ir yra gautas Ekonomikos ir inovacijų ministerijos siūlymas išnuomoti rezervuotą investicinį valstybinės žemės sklypą vadovaujantis Investicijų įstatymo 13 straipsnio 1 dalies 14 punkte nustatyta tvarka. Išsinuomoti rezervuotą investicinį valstybinės žemės sklypą Investicijų įstatymo 13 straipsnio 1 dalies 14 punkte numatytiems privačių investicijų projektams įgyvendinti šia eilės tvarka pirmumo teisę turi:
+
+
+1) stambų projektą įgyvendinsiantis investuotojas. Jeigu rezervuotą investicinį valstybinės žemės sklypą pageidauja išsinuomoti keli stambius projektus įgyvendinsiantys investuotojai, žemės sklypas išnuomojamas stambiam projektui, kurio kvalifikacinis balas pagal Investicijų įstatymo 154 straipsnio 3 dalies 4 punktą yra aukštesnis, įgyvendinti. Ekonomikos ir inovacijų ministerija, vadovaudamasi Investicijų įstatymo 154 straipsnio 1 dalyje nustatyta tvarka, apskaičiuoja stambaus projekto kvalifikacinį balą ir teikia siūlymą Nacionalinei žemės tarnybai dėl tikslingumo konkrečiam privačių investicijų projekto įgyvendinimui išnuomoti rezervuotą investicinį valstybinės žemės sklypą;
+
+
+
+
+2) investuotojas, įgyvendinsiantis naudingesnį apdirbamosios gamybos ir (ar) mokslinių tyrimų ar taikomosios veiklos privačių investicijų projektą. Ekonomikos ir inovacijų ministerija, vadovaudamasi Investicijų įstatymo 13 straipsnio 1 dalies 14 punkte nustatyta tvarka, apskaičiuoja privačių investicijų projekto kvalifikacinį balą, priima sprendimą dėl projektų naudingumo ir teikia siūlymą Nacionalinei žemės tarnybai dėl tikslingumo konkrečiam privačių investicijų projekto įgyvendinimui išnuomoti rezervuotą investicinį valstybinės žemės sklypą.“.“
+
+
 
 
 
@@ -4412,6 +4582,9 @@ h) piliakalnių ir kitų nekilnojamųjų kultūros vertybių tvarkymui ir apsaug
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
+Nr. XIV-2338, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25258
+Nr. XIV-2445, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25938
  
 
 
@@ -4422,16 +4595,19 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-„3) Nacionalinė žemės tarnyba – visais kitais atvejais, kai kitiems valstybinės žemės sklypų patikėtiniams įstatymai tokios teisės nesuteikia. Sprendimą parduoti valstybinės žemės sklypą priima ir valstybinės žemės pirkimo–pardavimo sutartį sudaro Nacionalinės žemės tarnybos vadovas arba jo įgaliotas teritorinio padalinio vadovas.“
+„3) Nacionalinė žemės tarnyba – visais kitais atvejais. Sprendimą parduoti valstybinės žemės sklypą priima ir valstybinės žemės pirkimo–pardavimo sutartį sudaro Nacionalinės žemės tarnybos vadovas arba jo įgaliotas administracijos padalinio vadovas.“.
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
+ 
 
 
 
 
-18. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Žemės įstatymo 23 straipsnio redakcija:
+18. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Žemės įstatymo 23 straipsnio redakcija:
 
 
 
@@ -4439,12 +4615,12 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 „23 straipsnis. Pagrindinės žemės naudojimo paskirties ir būdo nustatymo ir keitimo tvarka 
 
 
-1. Pagrindinė žemės sklypo naudojimo paskirtis ir būdas (-ai) Vyriausybės nustatyta tvarka nustatomi formuojant naujus žemės sklypus. Šiems žemės sklypams nustatyta pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas (-ai) keičiami žemės savininkų, valstybinės žemės patikėtinių ar įstatymų nustatytais atvejais kitų subjektų prašymu pagal detaliuosius planus, specialiojo teritorijų planavimo dokumentus ar žemės valdos projektus, o urbanizuotoje ir urbanizuojamoje teritorijoje, kuriai detalieji planai neparengti, – pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, o valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, – pagal karinės infrastruktūros projektą.
+1. Pagrindinė žemės sklypo naudojimo paskirtis ir būdas (-ai) Vyriausybės nustatyta tvarka nustatomi formuojant naujus žemės sklypus. Šiems žemės sklypams nustatyta pagrindinė žemės sklypo naudojimo paskirtis ir (ar) būdas (-ai) keičiami žemės savininkų, valstybinės žemės patikėtinių ar įstatymų nustatytais atvejais kitų subjektų prašymu pagal detaliuosius planus, specialiojo teritorijų planavimo dokumentus ar žemės valdos projektus, o teritorijoje, kuriai detalieji planai ar žemės valdos projektai neparengti, – pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, o valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, – pagal karinės infrastruktūros projektą.
 
 
 
 
-2. Sprendimą pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą tvirtinanti institucija kartu su sprendimu patvirtinti detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą, o urbanizuotoje ir urbanizuojamoje teritorijoje, kuriai detalieji planai neparengti, sprendimą pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, priima meras. Pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo tvarką ir sąlygas nustato Vyriausybė.
+2. Sprendimą pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą (-us) priima detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą tvirtinanti institucija kartu su sprendimu patvirtinti detalųjį planą, specialiojo teritorijų planavimo dokumentą ar žemės valdos projektą, o teritorijoje, kuriai detalieji planai ar žemės valdos projektai neparengti, sprendimą pakeisti žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą pagal savivaldybės lygmens bendrąjį planą ir (ar) vietovės lygmens bendrąjį planą, jeigu šis parengtas, priima meras. Pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo tvarką ir sąlygas nustato Vyriausybė.
 
 
 
@@ -4459,7 +4635,7 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-5. Pagal sprendimą pakeisti pagrindinę žemės naudojimo paskirtį, taip pat kai nekeičiant pagrindinės žemės naudojimo paskirties pagal teritorijų planavimo dokumentus ar žemės valdos projektus keičiamas žemės sklypo naudojimo būdas, tokį sprendimą priėmusi institucija perskaičiuoja žemės sklypo vertę ir žemės savininko ar valstybinės žemės patikėtinių prašymu patikslinami Nekilnojamojo turto kadastro duomenys ir įrašai Nekilnojamojo turto registre.
+5. Institucija, priėmusi sprendimą pakeisti pagrindinę žemės naudojimo paskirtį, taip pat kai nekeičiant pagrindinės žemės naudojimo paskirties pagal teritorijų planavimo dokumentus ar žemės valdos projektus keičiamas žemės sklypo naudojimo būdas, perskaičiuoja žemės sklypo vertę ir žemės savininko ar valstybinės žemės patikėtinių prašymu patikslina Nekilnojamojo turto kadastro duomenis ir įrašus Nekilnojamojo turto registre.
 
 
 
@@ -4469,22 +4645,22 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-7. Žemės sklypo naudojimo būdas nustatomas ir keičiamas pagal teritorijų planavimo dokumentus ar žemės valdos projektus. Žemės sklypams nustatomi šio įstatymo  24–28 straipsniuose nurodyti žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos įgaliotos institucijos.
+7. Žemės sklypo naudojimo būdas nustatomas ir keičiamas pagal teritorijų planavimo dokumentus ar žemės valdos projektus. Valstybinės žemės sklypo, reikalingo karinei infrastruktūrai, naudojimo būdas nustatomas pagal karinės infrastruktūros projektą. Žemės sklypams nustatomi šio įstatymo 24–28 straipsniuose nurodyti žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos įgaliotos institucijos.
 
 
 
 
-8. Galimybė keisti nuomojamo valstybinės žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą valstybinės žemės nuomos sutartyje, kai valstybinė žemė išnuomojama pagal šio įstatymo 9 straipsnio 6 dalies 1 punktą, arba jos pakeitime gali būti nurodoma, kai pagal galiojančius teritorijų planavimo dokumentus numatyta galimybė išnuomotame valstybinės žemės sklype pakeisti pagrindinę žemės naudojimo paskirtį ir (ar) būdą kita paskirtimi ir (ar) būdu.
+8. Galimybė keisti nuomojamo valstybinės žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą valstybinės žemės nuomos sutartyje, kai valstybinė žemė išnuomojama pagal šio įstatymo 9 straipsnio 6 dalies 1 punktą, arba jos pakeitime gali būti nurodoma, kai pagal detalųjį planą ar specialiojo teritorijų planavimo dokumentą arba savivaldybės lygmens bendrąjį planą ar vietovės lygmens bendrąjį planą numatyta galimybė pakeisti išnuomoto valstybinės žemės sklypo pagrindinę žemės naudojimo paskirtį ir (ar) būdą kita paskirtimi ir (ar) būdu.
 
 
 
 
-9. Savivaldybės joms patikėjimo teise perduotų, miestų ir miestelių teritorijų administracinėse ribose esančių miškų pertvarkymą (keičiant žemės sklypo ribas, pagrindinę žemės naudojimo paskirtį, naudojimo būdą, paverčiant miško žemę kitomis naudmenomis) gali vykdyti tik gavusios Vyriausybės pritarimą.
+9. Savivaldybės joms patikėjimo teise perduotų, miestų ir miestelių teritorijų ribose esančių miškų pertvarkymą (keičiant žemės sklypo ribas, pagrindinę žemės naudojimo paskirtį, naudojimo būdą, paverčiant miško žemę kitomis naudmenomis) gali vykdyti tik gavusios Vyriausybės pritarimą.
 
 
 
 
-10. Žemės ūkio paskirties žemės paskirties keitimas (išskyrus miestuose, miesteliuose ir kitose urbanizuotose ar planuojamose urbanizuoti teritorijose esančią žemę) per vienus kalendorinius metus negali viršyti vieno procento bendrojo konkrečios savivaldybės teritorijoje esančio žemės ūkio paskirties žemės ploto, išskyrus šiuos atvejus:
+10. Žemės ūkio paskirties žemės paskirties keitimas (išskyrus miestuose, miesteliuose ir kitose urbanizuotose ar planuojamose urbanizuoti teritorijose esančią žemę) per vienus kalendorinius metus negali viršyti vieno procento bendrojo konkrečios savivaldybės teritorijoje esančio žemės ūkio paskirties žemės ploto, išskyrus šiuos paskirties keitimo atvejus:
 
 
 1) valstybei svarbiems projektams įgyvendinti; 
@@ -4534,7 +4710,7 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-12. Kai žemės ūkio paskirties žemės paskirties keitimas per vienus kalendorinius metus viršija vieną procentą bendrojo konkrečios savivaldybės teritorijos kaimo gyvenamojoje vietovėje (išskyrus miestelius) esančios žemės ūkio paskirties žemės plotą, asmenys, inicijuojantys žemės ūkio paskirties žemės paskirties keitimą, privalo į valstybės biudžetą ir savivaldybės biudžetą sumokėti piniginę kompensaciją, kurios dydis lygus keičiamos žemės ūkio paskirties žemės sklypo vidutinei rinkos vertei, apskaičiuotai atliekant žemės sklypo vertinimą masiniu būdu Vyriausybės nustatyta tvarka ir (ar) individualiu vertinimo būdu. Kai žemės ūkio paskirties žemės sklypo, kurio pagrindinę žemės naudojimo paskirtį norima pakeisti, dirvožemio našumas didesnis už vidutinį šalies dirvožemio našumą, mokamos piniginės kompensacijos dydis yra du kartus didesnis.
+12. Kai žemės ūkio paskirties žemės paskirties keitimas per vienus kalendorinius metus viršija vieną procentą bendrojo konkrečios savivaldybės teritorijos kaimo gyvenamojoje vietovėje (išskyrus miestelius) esančios žemės ūkio paskirties žemės plotą, asmenys, inicijuojantys žemės ūkio paskirties žemės keitimą, privalo į valstybės biudžetą ir savivaldybės biudžetą sumokėti piniginę kompensaciją, kurios dydis lygus keičiamos žemės ūkio paskirties žemės sklypo vidutinei rinkos vertei, apskaičiuotai atliekant žemės sklypo vertinimą masiniu būdu Vyriausybės nustatyta tvarka ir (arba) individualiu vertinimo būdu. Kai žemės ūkio paskirties žemės sklypo, kurio pagrindinę žemės naudojimo paskirtį norima pakeisti, dirvožemio našumas didesnis už vidutinį šalies dirvožemio našumą, mokamos piniginės kompensacijos dydis yra du kartus didesnis.
 
 
 
@@ -4563,6 +4739,7 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
  
 
 
@@ -4629,7 +4806,7 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-4) koordinuoja žemės naudojimo valstybinę kontrolę;
+4) koordinuoja žemės naudojimo valstybinę priežiūrą;
 
 
 
@@ -4649,17 +4826,17 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 3. Nacionalinė žemės tarnyba:
 
 
-1) įgyvendina valstybės politiką žemės tvarkymo ir administravimo, žemės reformos, žemėtvarkos planavimo srityje; 
+1) atlieka žemės reformos darbų užsakovo funkcijas, administruoja valstybės biudžeto lėšas, skirtas žemės reformai, žemės tvarkymo ir administravimo darbams vykdyti, duomenims apie šalies žemės fondo būklę rengti;
 
 
 
 
-2) atlieka žemės reformos darbų užsakovo funkcijas, administruoja valstybės biudžeto lėšas, skirtas žemės reformai, žemės tvarkymo ir administravimo darbams vykdyti, duomenims apie šalies žemės fondo būklę rengti;
+2) parduoda valstybinės žemės sklypus, išskyrus valstybinės žemės sklypus, priskirtus įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui, ir žemės sklypus, perduodamus neatlygintinai savivaldybių nuosavybėn;
 
 
 
 
-3) parduoda valstybinės žemės sklypus, išskyrus valstybinės žemės sklypus, priskirtus įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui, ir žemės sklypus, perduodamus neatlygintinai savivaldybių nuosavybėn;
+3) Vyriausybės nustatyta tvarka rengia valstybinės žemės valdymo, naudojimo ir disponavimo ja ataskaitą;
 
 
 
@@ -4689,7 +4866,7 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-9) atlieka valstybinę žemėtvarkos planavimo dokumentų ir jų rengimo procesų priežiūrą;
+9) atlieka valstybinę žemės valdos projektų ir jų rengimo procesų priežiūrą;
 
 
 
@@ -4709,22 +4886,22 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-13) organizuoja žemės išteklių naudojimo stebėseną;
+13) kai yra pagrindas manyti, kad viešasis interesas pažeistas valstybinės žemės naudojimo, valdymo ir disponavimo ja srityje, taip pat atliekant valstybinės žemės patikėtinių veiklos kontrolę, kreipiasi į teismą dėl viešojo intereso gynimo, išskyrus atvejus, kai viešasis interesas pažeistas dėl Nacionalinės žemės tarnybos arba institucijų, kurių funkcijas ji perėmė, veiksmų ar neveikimo, dėl viešojo intereso gynimo – į prokuratūrą;
 
 
 
 
-14) kai yra pagrindas manyti, kad viešasis interesas pažeistas valstybinės žemės naudojimo, valdymo ir disponavimo ja srityje, kreipiasi į teismą dėl viešojo intereso gynimo, išskyrus atvejus, kai viešasis interesas pažeistas dėl Vyriausybės įgaliotos institucijos arba institucijų, kurių funkcijas ji perėmė, veiksmų ar neveikimo. Kai viešasis interesas pažeistas dėl Nacionalinės žemės tarnybos arba institucijų, kurių funkcijas ji perėmė, veiksmų ar neveikimo, Nacionalinė žemės tarnyba dėl viešojo intereso gynimo kreipiasi į prokuratūrą; 
+14) kontroliuoja, kaip kiti valstybinės žemės patikėtiniai įgyvendina teises ir vykdo pareigas;
 
 
 
 
-15) prižiūri ir kontroliuoja, kaip kiti valstybinės žemės patikėtiniai įgyvendina teises ir vykdo pareigas;
+15) vykdo valstybinės žemės sklypų pardavimo ir nuomos aukcionus;
 
 
 
 
-16) vykdo valstybinės žemės sklypų pardavimo ir nuomos aukcionus;
+16) koordinuoja žemėtvarkos planavimo dokumentus rengiančių, nekilnojamojo turto objektų kadastrinius matavimus atliekančių, geodezijos ir kartografijos darbus atliekančių specialistų mokymą;
 
 
 
@@ -4736,12 +4913,42 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-4. Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Valstybinė teritorijų planavimo ir statybos inspekcija) organizuoja ir vykdo žemės naudojimo valstybinę kontrolę.
+4. Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Valstybinė teritorijų planavimo ir statybos inspekcija):
+
+
+1) organizuoja ir vykdo žemės naudojimo valstybinę priežiūrą;
 
 
 
 
-5. Savivaldybės institucijos savivaldybės teritorijoje: 
+2) atlieka kitas Teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatyme nustatytas funkcijas.
+
+
+
+
+
+
+5. Savivaldybės taryba savivaldybės teritorijoje: 
+
+
+1) šio įstatymo nustatytais atvejais ir tvarka išnuomoja ir perduoda neatlygintinai naudotis valstybinės žemės sklypus, perduotus patikėjimo teise savivaldybei;
+
+
+
+
+2) šio įstatymo nustatytais atvejais ir tvarka nustato servitutus;
+
+
+
+
+3) atlieka kitų įstatymų joms nustatytas funkcijas.
+
+
+
+
+
+
+6. Savivaldybės meras savivaldybės teritorijoje:
 
 
 1) tvirtina žemės sklypų formavimo ir pertvarkymo projektus;
@@ -4754,42 +4961,57 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-3) šio įstatymo nustatytais atvejais ir tvarka išnuomoja ir perduoda neatlygintinai naudotis valstybinės žemės sklypus, perduotus patikėjimo teise savivaldybei;
+3) šio ir kitų įstatymų nustatytais atvejais ir tvarka išduoda sutikimus dėl valstybinės žemės miestuose ir miesteliuose naudojimo klausimų;
 
 
 
 
-4) šio įstatymo nustatytais atvejais ir tvarka teikia Nacionalinei žemės tarnybai prašymus dėl visuomenės poreikiams reikalingų privačios žemės sklypų paėmimo;
+4) sprendžia žemės sklypų pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo klausimus;
 
 
 
 
-5) sprendžia žemės sklypų pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo klausimus;
-
-
-
-
-6) teikia institucijai, administruojančiai valstybės biudžeto ir Europos Sąjungos paramos žemės ūkiui ir kaimo plėtrai skirtas lėšas, pasiūlymus dėl šių lėšų skyrimo žemėtvarkos planavimo dokumentuose nurodytoms priemonėms įgyvendinti;
-
-
-
-
-7) organizuoja patikėjimo teise valdomuose žemės sklypuose žemėtvarkos darbus, gerinančius žemės naudojimą;
-
-
-
-
-8) atlieka kitų įstatymų joms nustatytas funkcijas.
+5) atlieka kitų įstatymų jam nustatytas funkcijas.
 
 
 
 
 
 
-6. Žemės ūkio duomenų centras:
+7. Savivaldybės administracija savivaldybės teritorijoje:
 
 
-1) rengia duomenis apie šalies žemės fondo būklę, atlieka žemės išteklių naudojimo stebėseną;
+1) šio įstatymo nustatytais atvejais ir tvarka teikia Nacionalinei žemės tarnybai prašymus dėl visuomenės poreikiams reikalingų privačios žemės sklypų paėmimo;
+
+
+
+
+2) organizuoja patikėjimo teise valdomuose valstybinės žemės sklypuose žemėtvarkos darbus, gerinančius žemės naudojimą;
+
+
+
+
+3) apskaičiuoja atlyginimą už galimybę statyti ir (ar) rekonstruoti statinius išnuomotoje valstybinėje žemėje, kai valstybinė žemė išnuomota šio įstatymo 9 straipsnio 6 dalies 1 punkte nustatytu atveju;
+
+
+
+
+4) teikia institucijai, administruojančiai valstybės biudžeto ir Europos Sąjungos paramos žemės ūkiui ir kaimo plėtrai skirtas lėšas, pasiūlymus dėl šių lėšų skyrimo žemėtvarkos planavimo dokumentuose nurodytoms priemonėms įgyvendinti;
+
+
+
+
+5) atlieka kitų įstatymų jai nustatytas funkcijas.
+
+
+
+
+
+
+8. Žemės ūkio duomenų centras:
+
+
+1) organizuoja ir atlieka žemės išteklių naudojimo stebėseną;
 
 
 
@@ -4804,12 +5026,12 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 
 
-4) veikia valstybės vardu jai paveldint žemės ūkio paskirties žemės sklypus (išskyrus sklypus miestų administracinėse ribose) ir įsigyjant valstybės nuosavybėn privačios žemės ūkio paskirties žemės sklypus, priskirtus žemės konsolidacijos projekto teritorijai, taip pat įsigyjant valstybės nuosavybėn privačios žemės ūkio paskirties žemės sklypus, reikalingus valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti;
+4) veikia valstybės vardu valstybei paveldint žemės ūkio paskirties žemės sklypus (išskyrus sklypus miestų ir miestelių teritorijų ribose) ir įsigyjant valstybės nuosavybėn privačios žemės ūkio paskirties žemės sklypus, priskirtus žemės konsolidacijos projekto teritorijai, taip pat įsigyjant valstybės nuosavybėn privačios žemės ūkio paskirties žemės sklypus, reikalingus valstybės biudžeto ir Europos Sąjungos lėšomis finansuojamoms žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonėms įgyvendinti, vykdo žemės valdų struktūrų gerinimo ir apleistų žemės plotų mažinimo priemonių įgyvendinimą žemės ūkio ministro nustatyta tvarka;
 
 
 
 
-5) atlieka kitų įstatymų jam nustatytas funkcijas, susijusias su žemės ūkio veikla.“
+5) atlieka kitų įstatymų jam nustatytas funkcijas, susijusias su žemės ūkio veikla.“. 
 
 
 
@@ -4820,26 +5042,26 @@ Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1538, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24188
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
  
 
 
 
 
 20. 2024 m. sausio 1 d. įsigalioja toks šio įstatymo 1 straipsnyje išdėstyto Žemės įstatymo papildymas VI1 skyriumi:
- 
 
 
 
 
 „VI1 SKYRIUS
-SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
+VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ VEIKLOS KONTROLĖ
  
 
 
-361 straipsnis. Savivaldybių, kaip valstybinės žemės patikėtinių, valstybinę priežiūrą atliekančios institucijos ir jų kompetencija
+361 straipsnis. Valstybinės žemės patikėtinių veiklos valstybinę kontrolę atliekančios institucijos ir jų kompetencija
 
 
-1. Savivaldybių, kaip valstybinės žemės patikėtinių, turinčių teisę sudaryti šiame įstatyme nustatytus valstybinės žemės sandorius, priežiūrą ir kontrolę vykdo Nacionalinė žemės tarnyba pagal aplinkos ministro tvirtinamas taisykles.
+1. Valstybinės žemės patikėtinių, turinčių teisę sudaryti šiame įstatyme nustatytus valstybinės žemės sandorius, veiklos kontrolę vykdo Nacionalinė žemės tarnyba pagal aplinkos ministro tvirtinamas taisykles.
 
 
 
@@ -4847,7 +5069,7 @@ SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
 2. Vyriausybė:
 
 
-1) nustato savivaldybių, kaip valstybinės žemės patikėtinių, veiklos, išorinio vertinimo taisykles;
+1) nustato valstybinės žemės patikėtinių veiklos, išorinio vertinimo taisykles;
 
 
 
@@ -4862,27 +5084,22 @@ SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
 3. Nacionalinė žemės tarnyba:
 
 
-1) tikrina, ar savivaldybių administravimo subjektų sudaryti sandoriai ar patvirtinti administraciniai sprendimai, susiję su suteiktos patikėjimo teisės įgyvendinimu, neprieštarauja įstatymams, Vyriausybės nutarimams ir kitiems teisės aktams;
+1) tikrina, ar valstybinės žemės patikėtinių sudaryti sandoriai ar patvirtinti administraciniai sprendimai, susiję su suteiktos patikėjimo teisės įgyvendinimu, neprieštarauja įstatymams, Vyriausybės nutarimams ir kitiems teisės aktams;
 
 
 
 
-2) derina arba atsisako derinti savivaldybių administravimo subjektų sudaromus valstybinės žemės, perduotos naudoti patikėjimo teise, sandorius, kurių žemės ploto ir (ar) vertės kriterijai atitinka Vyriausybės nustatytuosius;
+2) šio įstatymo 8 straipsnio 7 dalyje ir 9 straipsnio 11 dalyje nurodytais atvejais teikia išvadą dėl sandorio atitikties teisės aktų reikalavimams ir galimybės jį registruoti Nekilnojamojo turto registre arba dėl nustatytų trūkumų ir galimybės juos pašalinti sandorio šalių susitarimu;
 
 
 
 
-3) šio įstatymo 362 straipsnio 1 dalyje nustatyta tvarka siūlo panaikinti arba pakeisti neteisėtus savivaldybių administravimo subjektų sudarytus sandorius ar patvirtintus administracinius sprendimus, susijusius su suteiktos patikėjimo teisės įgyvendinimu;
+3) šio įstatymo 362 straipsnio 1 dalyje nustatyta tvarka siūlo panaikinti arba pakeisti neteisėtus valstybinės žemės patikėtinių sudarytus sandorius ar patvirtintus administracinius sprendimus, susijusius su suteiktos patikėjimo teisės įgyvendinimu;
 
 
 
 
-4) kreipiasi į teismą, kai savivaldybių administravimo subjektai nesutinka panaikinti ar pakeisti neteisėtai sudarytų sandorių ar patvirtintų administracinių sprendimų, susijusių su suteiktos patikėjimo teisės įgyvendinimu, taip pat kai nevykdo privalomojo nurodymo reikalavimo;
-
-
-
-
-5) ne dažniau kaip tris kartus, bet ne rečiau kaip vieną kartą per metus prašo pateikti savivaldybių administravimo subjektų ataskaitas, duomenis apie sandorius, susijusius su patikėjimo teise naudojamais valstybinės žemės sklypais, išorinei priežiūrai atlikti.
+4) kreipiasi į teismą, kai valstybinės žemės patikėtiniai nesutinka panaikinti ar pakeisti neteisėtai sudarytų sandorių ar patvirtintų administracinių sprendimų, susijusių su suteiktos patikėjimo teisės įgyvendinimu, taip pat kai nevykdo privalomojo nurodymo reikalavimo.
 
 
 
@@ -4892,49 +5109,49 @@ SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
 4. Nacionalinė žemės tarnyba turi teisę:
 
 
-1) susipažinti su savivaldybės administravimo subjektų priimtais administraciniais sprendimais, susijusiais su suteiktos patikėjimo teisės įgyvendinimu;
+1) susipažinti su valstybinės žemės patikėtinių priimtais administraciniais sprendimais, susijusiais su suteiktos patikėjimo teisės įgyvendinimu;
 
 
 
 
-2) privalomuoju nurodymu pareikalauti iš savivaldybės administravimo subjektų priimtų administracinių sprendimų ar sandorių, kurie susiję su suteiktos patikėjimo teisės įgyvendinimu ir kurie nėra viešinami, kopijų, taip pat savivaldybės kolegialių administravimo subjektų posėdžių protokolų kopijų. Šis pareikalavimas turi būti įvykdytas ne vėliau kaip per 5 darbo dienas nuo jo gavimo dienos;
+2) privalomuoju nurodymu pareikalauti iš valstybinės žemės patikėtinių priimtų administracinių sprendimų ar sandorių, taip pat visos su jų sudarymu susijusios informacijos ir medžiagos, kurie susiję su suteiktos patikėjimo teisės įgyvendinimu ir kurie nėra viešinami, kopijų, taip pat valstybinės žemės patikėtinių kolegialių valdymo organų posėdžių protokolų kopijų. Šis pareikalavimas turi būti įvykdytas ne vėliau kaip per 5 darbo dienas nuo jo gavimo dienos;
 
 
 
 
-3) kreiptis į savivaldybės administravimo subjektus dėl informacijos, susijusios su suteiktos patikėjimo teisės įgyvendinimu, pateikimo;
+3) kreiptis į valstybinės žemės patikėtinius dėl informacijos, susijusios su suteiktos patikėjimo teisės įgyvendinimu, pateikimo;
 
 
 
 
-4) išnykus aplinkybėms, kurios buvo pagrindas sustabdyti, teikti pasiūlymą pakeisti ar panaikinti administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, arba reikalauti, kad būtų neatidėliojant įgyvendinamas įstatymas, vykdomas Vyriausybės nutarimas, motyvuotu nurodymu tokį pasiūlymą ar reikalavimą atšaukti, jeigu jie dar neįvykdyti;
+4) išnykus aplinkybėms, kurios buvo pagrindas sustabdyti administracinį sprendimą, teikti pasiūlymą pakeisti ar panaikinti administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, arba reikalauti, kad būtų neatidėliojant įgyvendinamas įstatymas, vykdomas Vyriausybės nutarimas, motyvuotu nurodymu tokį pasiūlymą ar reikalavimą atšaukti, jeigu jie dar neįvykdyti;
 
 
 
 
-5) kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją dėl žemės naudojimo valstybinės kontrolės patikrinimų atlikimo ir (ar) rezultatų apie atliktus patikrinimus pateikimo.
+5) kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją dėl žemės naudojimo valstybinės priežiūros patikrinimų atlikimo ir (ar) rezultatų apie atliktus patikrinimus pateikimo.
 
 
 
 
 
 
-5. Be šio straipsnio 3 dalyje nurodytų įgaliojimų, Nacionalinė žemės tarnyba šio įstatymo 362 straipsnio 3 dalyje nustatyta tvarka atlieka išankstinę savivaldybės administravimo subjektų rengiamų administracinių sprendimų ar sandorių, susijusių su perduotos patikėjimo teise valstybinės žemės naudojimu, projektų priežiūrą.
+5. Nacionalinė žemės tarnyba, nustačiusi, kad, remiantis valstybinės žemės patikėtinių administraciniu sprendimu, susijusiu su suteiktos patikėjimo teisės įgyvendinimu, neatitinkančiu šio ar kitų įstatymų ir teisės aktų, yra sudarytas sandoris valstybinės žemės patikėjimo teises įgyvendinančio subjekto vardu ir tas sandoris pažeidžia viešąjį interesą, taip pat kai yra kitų įstatymų nustatytų sandorių negaliojimo pagrindų, bendrosios kompetencijos teismui pareiškia ieškinį dėl viešojo intereso gynimo Civilinio proceso kodekso nustatyta tvarka.
 
 
 
 
-6. Nacionalinė žemės tarnyba, nustačiusi, kad, remiantis valstybinės žemės patikėtinių administraciniu sprendimu, susijusiu su suteiktos patikėjimo teisės įgyvendinimu, neatitinkančiu šio ar kitų įstatymų ir teisės aktų, yra sudarytas sandoris valstybinės žemės patikėjimo teises įgyvendinančio subjekto vardu ir tas sandoris pažeidžia viešąjį interesą, taip pat kai yra kitų įstatymų numatytų sandorių negaliojimo pagrindų, bendrosios kompetencijos teismui pareiškia ieškinį dėl viešojo intereso gynimo Civilinio proceso kodekso nustatyta tvarka.
+6. Nacionalinė žemės tarnyba, nustačiusi, kad valstybinės žemės patikėtinių priimti administraciniai sprendimai ar veiksmai (neveikimas), susiję su suteiktos patikėjimo teisės įgyvendinimu, pažeidžia viešąjį interesą, dėl tokių administracinių sprendimų ar veiksmų (neveikimo) Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka kreipiasi į administracinį teismą su pareiškimu, kad būtų apgintas viešasis interesas.
 
 
 
 
-7. Nacionalinė žemės tarnyba, nustačiusi, kad valstybinės žemės patikėtinių priimti administraciniai sprendimai ar veiksmai (neveikimas), susiję su suteiktos patikėjimo teisės įgyvendinimu, pažeidžia viešąjį interesą, dėl tokių administracinių sprendimų ar veiksmų (neveikimo) Administracinių bylų teisenos įstatymo nustatyta tvarka kreipiasi į administracinį teismą su pareiškimu, kad būtų apgintas viešasis interesas.
+7. Jeigu valstybinės žemės patikėtiniai priėmė administracinius sprendimus, susijusius su suteiktos patikėjimo teisės įgyvendinimu, kuriais remiantis sudaromi viešąjį interesą pažeidžiantys sandoriai, arba jeigu valstybinės žemės patikėtiniai priėmė administracinius sprendimus, susijusius su suteiktos patikėjimo teisės įgyvendinimu, kurie gali pažeisti viešąjį interesą, Nacionalinė žemės tarnyba šio įstatymo 362 straipsnio 34 dalyje nustatyta tvarka savo nurodymu sustabdo tokių savivaldybių administravimo subjektų sprendimų vykdymą ir sandorių pasirašymą.
 
 
 
 
-8. Jeigu savivaldybių administravimo subjektai priėmė administracinius sprendimus, susijusius su suteiktos patikėjimo teisės įgyvendinimu, kuriais remiantis sudaromi viešąjį interesą pažeidžiantys sandoriai, arba jeigu savivaldybių administravimo subjektai priėmė administracinius sprendimus, susijusius su suteiktos patikėjimo teisės įgyvendinimu, kurie gali pažeisti viešąjį interesą, Nacionalinė žemės tarnyba šio įstatymo 362 straipsnio 4 dalyje nustatyta tvarka savo nurodymu sustabdo tokių savivaldybių administravimo subjektų sprendimų vykdymą ir sandorių pasirašymą.
+8. Įgyvendindama funkcijas, numatytas šiame skyriuje, dėl savivaldybių kaip valstybinės žemės patikėtinių veiksmų, Nacionalinė žemės tarnyba informuoja Vyriausybės atstovo įstaigą, o Vyriausybės atstovo įstaiga dėl savivaldybių veiksmų, susijusių su valstybinės žemės patikėtinio funkcijų įgyvendinimu, priežiūros neatlieka, jeigu procedūros Vyriausybės atstovo įstaigoje jau pradėtos, jos nutraukiamos įstaigos iniciatyva.
  
 
 
@@ -4942,55 +5159,40 @@ SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
 
 
 
-362 straipsnis. Nacionalinės žemės tarnybos funkcijų įgyvendinimo tvarka
+362 straipsnis. Nacionalinės žemės tarnybos funkcijų atlikimo tvarka
 
 
-1. Nustačiusi, kad valstybinės žemės patikėjimo teises įgyvendinančio subjekto priimtas administracinis sprendimas, susijęs su suteiktos patikėjimo teisės įgyvendinimu, neatitinka šio ar kitų įstatymų arba Vyriausybės nutarimų ir kitų teisės aktų, Nacionalinė žemės tarnyba:
+1. Nustačiusi, kad valstybinės žemės patikėtinio priimtas administracinis sprendimas, susijęs su suteiktos patikėjimo teisės įgyvendinimu, neatitinka šio ar kitų įstatymų arba Vyriausybės nutarimų ir kitų teisės aktų, Nacionalinė žemės tarnyba:
 
 
-1) teikia motyvuotą pasiūlymą atitinkamam savivaldybės administravimo subjektui pakeisti ar panaikinti administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu. Nacionalinės žemės tarnybos pasiūlymą kolegialus savivaldybės administravimo subjektas turi apsvarstyti artimiausiame posėdyje, bet ne vėliau kaip per vieną mėnesį, o kiti savivaldybės administravimo subjektai – per 5 darbo dienas nuo pasiūlymo gavimo dienos ir apie priimtą sprendimą informuoti Nacionalinę žemės tarnybą per 5 darbo dienas nuo sprendimo priėmimo dienos;
-
-
-
-
-2) jeigu savivaldybės administravimo subjektas, apsvarstęs Nacionalinės žemės tarnybos pasiūlymą, atsisako ginčijamą administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, pakeisti ar panaikinti, per 10 darbo dienų nuo pranešimo apie atsisakymą patenkinti pasiūlymą gavimo dienos, įvertinusi atsisakymo motyvus, šį administracinį sprendimą skundžia administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+1) teikia atitinkamam valstybinės žemės patikėtiniui motyvuotą pasiūlymą pakeisti ar panaikinti administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu. Nacionalinės žemės tarnybos pasiūlymą valstybinės žemės patikėtinis turi apsvarstyti ir apie priimtą sprendimą informuoti ją per 5 darbo dienas nuo sprendimo priėmimo dienos;
 
 
 
 
-
-
-2. Nustačiusi, kad savivaldybės administravimo subjektas neįgyvendina įstatymų, nevykdo Vyriausybės nutarimų, susijusių su suteiktos patikėjimo teisės įgyvendinimu, Nacionalinė žemės tarnyba:
-
-
-1) pateikia atitinkamam savivaldybės administravimo subjektui privalomąjį nurodymą neatidėliojant įgyvendinti įstatymą, vykdyti Vyriausybės nutarimą, susijusius su suteiktos patikėjimo teisės įgyvendinimu. Nacionalinės žemės tarnybos privalomąjį nurodymą savivaldybės kolegialus administravimo subjektas ar valstybės įmonės turi apsvarstyti artimiausiame posėdyje, bet ne vėliau kaip per vieną mėnesį, o kiti savivaldybės administravimo subjektai – per 5 darbo dienas nuo privalomojo nurodymo gavimo dienos ir apie priimtą sprendimą pranešti Nacionalinei žemės tarnybai per 5 darbo dienas nuo sprendimo priėmimo dienos;
-
-
-
-
-2) jeigu savivaldybės administravimo subjektas, apsvarstęs šios dalies 1 punkte nurodytą Nacionalinės žemės tarnybos privalomąjį nurodymą, atsisako jį vykdyti, per 10 darbo dienų nuo pranešimo apie atsisakymą įvykdyti privalomąjį nurodymą gavimo dienos, įvertinusi atsisakymo motyvus, Administracinių bylų teisenos įstatymo nustatyta tvarka kreipiasi į teismą dėl šio savivaldybės administravimo subjekto neveikimo.
+2) jeigu valstybinės žemės patikėtinis, apsvarstęs Nacionalinės žemės tarnybos pasiūlymą, atsisako ginčijamą administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, pakeisti ar panaikinti, per 10 darbo dienų nuo pranešimo apie atsisakymą patenkinti pasiūlymą gavimo dienos, įvertinusi atsisakymo motyvus, šį administracinį sprendimą skundžia administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
 
 
-3. Atlikdama išankstinę savivaldybės administravimo subjektų administracinių sprendimų ar sandorių, susijusių su suteiktos patikėjimo teisės įgyvendinimu, projektų priežiūrą, Nacionalinė žemės tarnyba turi teisę:
+2. Nustačiusi, kad valstybinės žemės patikėtinis neįgyvendina įstatymų, nevykdo Vyriausybės nutarimų, susijusių su suteiktos patikėjimo teisės įgyvendinimu, išskyrus šio straipsnio 1 dalyje nurodytą atvejį, Nacionalinė žemės tarnyba:
 
 
-1) tikrinti savivaldybės administravimo subjektams priimti pateiktus administracinių sprendimų ar sandorių, susijusių su suteiktos patikėjimo teisės įgyvendinimu, projektus. Administracinių sprendimų ar sandorių projektus savivaldybės administracija privalo Nacionalinei žemės tarnybai pateikti tokia pačia tvarka, kaip pagal savivaldybės tarybos veiklos reglamentą savivaldybės tarybos nariams pateikiami savivaldybės tarybos sprendimų projektai;
-
-
-
-
-2) dalyvauti savivaldybės kolegialių administravimo subjektų valdymo organų posėdžiuose, kai svarstomi teikiami priimti projektai, susiję su suteiktos patikėjimo teisės įgyvendinimu, ir kai yra pagrindas pranešti savivaldybės tarybos nariams, kad svarstomi projektai neatitinka šio ar kitų įstatymų arba Vyriausybės nutarimų ir kitų teisės aktų.
+1) pateikia atitinkamam valstybinės žemės patikėtiniui privalomąjį nurodymą neatidėliojant įgyvendinti įstatymą, vykdyti Vyriausybės nutarimą, susijusius su suteiktos patikėjimo teisės įgyvendinimu. Nacionalinės žemės tarnybos privalomąjį nurodymą valstybinės žemės patikėtinis turi apsvarstyti ne vėliau kaip per vieną mėnesį ir apie priimtą sprendimą pranešti Nacionalinei žemės tarnybai per 5 darbo dienas nuo sprendimo priėmimo dienos;
 
 
 
 
+2) jeigu valstybinės žemės patikėtinis, apsvarstęs šios dalies 1 punkte nurodytą Nacionalinės žemės tarnybos privalomąjį nurodymą, atsisako jį vykdyti, per 10 darbo dienų nuo pranešimo apie atsisakymą įvykdyti privalomąjį nurodymą gavimo dienos, įvertinusi atsisakymo motyvus, Administracinių bylų teisenos įstatymo nustatyta tvarka kreipiasi į teismą dėl šio valstybinės žemės patikėtinio neveikimo.
 
 
-4. Nacionalinė žemės tarnyba, nustačiusi, kad savivaldybės administravimo subjektas priėmė neteisėtą administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, kuriuo remiantis gali būti sudarytas viešąjį interesą pažeidžiantis sandoris, arba kad subjekto priimtas administracinis sprendimas pažeidžia viešąjį interesą:
+
+
+
+
+3. Nacionalinė žemės tarnyba, nustačiusi, kad valstybinės žemės patikėtinis priėmė neteisėtą administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, kuriuo remiantis gali būti sudarytas viešąjį interesą pažeidžiantis sandoris, arba kad subjekto priimtas administracinis sprendimas pažeidžia viešąjį interesą, išskyrus šio straipsnio 1 ar 2 dalyje numatytus atvejus:
 
 
 1) ne vėliau kaip per 3 darbo dienas po neteisėto administracinio sprendimo, susijusio su suteiktos patikėjimo teisės įgyvendinimu, priėmimo savo nurodymu stabdo jo vykdymą;
@@ -4998,37 +5200,85 @@ SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
 
 
 
-2) ne vėliau kaip per 3 darbo dienas nuo nurodymo priėmimo dienos atitinkamam savivaldybės administravimo subjektui motyvuotu pasiūlymu nurodo administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, pakeisti ar panaikinti;
+2) ne vėliau kaip per 3 darbo dienas nuo nurodymo priėmimo dienos atitinkamam valstybinės žemės patikėtiniui motyvuotu pasiūlymu nurodo administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, pakeisti ar panaikinti;
 
 
 
 
-3) per 5 darbo dienas nuo pranešimo apie atsisakymą tenkinti motyvuotą pasiūlymą gavimo dienos, jeigu savivaldybės administravimo subjektas, apsvarstęs Nacionalinės žemės tarnybos pasiūlymą, atsisako pakeisti ar panaikinti administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, įvertinusi atsisakymo motyvus, kreipiasi į teismą su pareiškimu arba ieškiniu prašydama teismo imtis pareiškimo arba ieškinio užtikrinimo priemonių.
-
-
-
-
-
-
-5. Nacionalinė žemės tarnyba, nustačiusi, kad savivaldybės administravimo subjekto priimti administraciniai sprendimai ar veiksmai (neveikimas), susiję su suteiktos patikėjimo teisės įgyvendinimu, pažeidžia viešąjį interesą, nepasinaudojusi administracinio sprendimo vykdymo sustabdymo teise, tokius administracinius sprendimus ar veiksmus (neveikimą) skundžia teismui Administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo savivaldybės atsisakymo ar neveikimo per nustatytą terminą pateikti savo sprendimą dienos.
-
-
-
-
-6. Visais atvejais apie savivaldybės administravimo subjektui pateiktą motyvuotą pasiūlymą ar privalomąjį nurodymą Nacionalinė žemės tarnyba informuoja merą. Meras artimiausiame savivaldybės tarybos posėdyje privalo su šia informacija supažindinti savivaldybės tarybos narius. 
-
-
-
-
-7. Nacionalinė žemės tarnyba, nustačiusi, kad savivaldybės administravimo subjekto administracinio sprendimo ar sandorio, susijusio su suteiktos patikėjimo teisės įgyvendinimu, projektas prieštarauja šiam įstatymui, kitiems įstatymams ar Vyriausybės nutarimams, apie pažeidimus praneša kitai valstybės institucijai, jeigu ji įgaliota vykdyti atitinkamo įstatymo ar Vyriausybės nutarimo įgyvendinimo kontrolę ir priežiūrą.“
+3) per 5 darbo dienas nuo pranešimo apie atsisakymą tenkinti motyvuotą pasiūlymą gavimo dienos, jeigu valstybinės žemės patikėtinis, apsvarstęs Nacionalinės žemės tarnybos pasiūlymą, atsisako pakeisti ar panaikinti administracinį sprendimą, susijusį su suteiktos patikėjimo teisės įgyvendinimu, įvertinusi atsisakymo motyvus, kreipiasi į teismą su pareiškimu arba ieškiniu prašydama teismo imtis pareiškimo arba ieškinio užtikrinimo priemonių.
 
 
 
 
 
 
+4. Nacionalinė žemės tarnyba, nustačiusi, kad valstybinės žemės patikėtinio priimti administraciniai sprendimai ar veiksmai (neveikimas), susiję su suteiktos patikėjimo teisės įgyvendinimu, pažeidžia viešąjį interesą, nepasinaudojusi administracinio sprendimo vykdymo sustabdymo teise, tokius administracinius sprendimus ar veiksmus (neveikimą) skundžia teismui Administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo patikėtinio atsisakymo ar neveikimo per nustatytą terminą pateikti savo sprendimą dienos.
 
 
+
+
+5. Visais atvejais apie savivaldybės administravimo subjektui pateiktą motyvuotą pasiūlymą ar privalomąjį nurodymą Nacionalinė žemės tarnyba informuoja merą. Meras artimiausiame savivaldybės tarybos posėdyje privalo su šia informacija supažindinti savivaldybės tarybos narius. 
+
+
+
+
+6. Nacionalinė žemės tarnyba informaciją apie pradėtus kontrolės veiksmus teikia per Žemės informacinę sistemą. 
+
+
+
+
+7. Valstybinės žemės patikėtiniai neturi teisės sudaryti sandorių, jeigu Nacionalinė žemės tarnyba nustatė pažeidimą arba pradėjo pažeidimo procedūrą ir ši informacija buvo pateikta Žemės informacinėje sistemoje. Sandoriai, sudaromi Nacionalinei žemės tarnybai pradėjus pažeidimo procedūrą ar nustačius pažeidimą, laikytini negaliojančiais (niekiniais) ir dėl jų vykdymo sustabdymo ir pripažinimo negaliojančiais Nacionalinė žemės tarnyba privalo kreiptis į teismą.
+
+
+
+
+8. Nacionalinė žemės tarnyba teikia išvadą dėl šio įstatymo 8 straipsnio 7 dalyje ir 9 straipsnio 11 dalyje nurodytų sandorių, atitinkančių šio straipsnio 9 dalyje nustatytus kriterijus, atitikties jų sudarymą reglamentuojančių teisės aktų reikalavimams ir galimybės juos registruoti Nekilnojamojo turto registre. Savivaldybė per 10 darbo dienų nuo šių sandorių sudarymo dienos, bet visais atvejais iki jų įregistravimo Nekilnojamojo turto registre, per Žemės informacinę sistemą teikia juos patikrinti Nacionalinei žemės tarnybai. Nacionalinė žemės tarnyba ne vėliau kaip per 10 darbo dienų nuo sandorio pateikimo tikrinti dienos, parengia išvadą dėl jo atitikties teisės aktų reikalavimams ir galimybės sandorį registruoti Nekilnojamojo turto registre arba informuoja apie nustatytus trūkumus ir galimybę sandorio šalių susitarimu juos pašalinti per 20 darbo dienų nuo išvados pateikimo sandorio šalims dienos. Nacionalinės žemės tarnybos išvada teikiama per Žemės informacinę sistemą. Savivaldybė per nustatytą terminą pateikia Nacionalinei žemės tarnybai patikslintą sandorį ir informaciją apie išvadoje nurodytų trūkumų pašalinimą. Sandorio šalims nesusitarus dėl trūkumų pašalinimo ir savivaldybei nepateikus Nacionalinei žemės tarnybai patikslinto sandorio ir nurodytos informacijos, Nacionalinė žemės tarnyba kreipiasi į teismą dėl sandorio vykdymo sustabdymo ir pripažinimo negaliojančiu. Nekilnojamojo turto registro tvarkytojas neregistruoja šio įstatymo 8 straipsnio 7 dalyje ir 9 straipsnio 11 dalyje nurodytų sandorių, atitinkančių šio straipsnio 9 dalyje nustatytus kriterijus, jeigu su sandorio dokumentais nepateikiama Nacionalinės žemės tarnybos išvada, kad sandoris atitinka teisės aktų reikalavimus ir galima jį registruoti.
+
+
+
+
+9. Nacionalinės žemės tarnybos išvada teikiama dėl sandorių, atitinkančių bent vieną iš šių kriterijų:
+
+
+1) sandoris (nuoma / panauda) sudaromas dėl valstybinės žemės sklypo, esančio saugomoje teritorijoje;
+
+
+
+
+2) sandoris sudaromas dėl įsiterpusio valstybinės žemės sklypo;
+
+
+
+
+3) sandoris sudaromas dėl valstybinės žemės sklypo, kuriame yra apleisti statiniai;
+
+
+
+
+4) sandoris sudaromas dėl valstybinės žemės sklypo, kurio vidutinė rinkos vertė ne mažesnė kaip trys šimtai tūkstančių eurų;
+
+
+
+
+5) sandoris sudaromas dėl valstybinės žemės ūkio paskirties žemės sklypo, ne mažesnio kaip 2 ha ploto;
+
+
+
+
+6) sandoris sudaromas dėl valstybinės kitos paskirties žemės sklypo, ne mažesnio kaip 0,3 ha ploto.“. 
+
+
+
+
+
+
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
+ 
 
 
 
@@ -5038,91 +5288,20 @@ SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
 
 
 
-„36 straipsnis. Žemės naudojimo valstybinė kontrolė
+„36 straipsnis. Žemės naudojimo valstybinė priežiūra
+Žemės naudojimo valstybinę priežiūrą Teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo nustatyta tvarka organizuoja ir vykdo Valstybinė teritorijų planavimo ir statybos inspekcija, koordinuoja Aplinkos ministerija.“. 
 
 
-1. Žemės naudojimo valstybinę kontrolę pagal Vyriausybės tvirtinamus nuostatus organizuoja ir vykdo Valstybinė teritorijų planavimo ir statybų inspekcija, koordinuoja Aplinkos ministerija.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
+ 
 
 
-2. Žemės naudojimo valstybinės kontrolės metu tikrinama, ar žemę naudojantys asmenys savo veikla nepažeidžia žemės naudojimo tvarkos, kurią nustato įstatymai ir Vyriausybės nutarimai. 
 
 
-
-
-3. Valstybinės teritorijų planavimo ir statybų inspekcijos valstybės tarnautojai, vykdydami žemės naudojimo valstybinę kontrolę, atlieka planinius ir neplaninius žemės naudojimo patikrinimus. Žemės naudojimo valstybinės kontrolės metu tikrinama, ar:
-
-
-1) žemės sklypai naudojami pagal pagrindinę žemės naudojimo paskirtį ir naudojimo būdą;
-
-
-
-
-2) žemės ūkio paskirties žemės sklypai, kuriuose yra žemės ūkio naudmenos, prižiūrimi ir tvarkomi taip, kad žemės ūkio naudmenos neapaugtų medžių, krūmų savaiminukų želdiniais ar kitais daugiamečiais sumedėjusiais augalais ir šie žemės sklypai būtų tinkami naudoti pagal pagrindinę žemės naudojimo paskirtį;
-
-
-
-
-3) laikomasi žemės sklypui nustatytų žemės servitutų;
-
-
-
-
-4) eksploatuojant naudingąsias iškasenas, laikomasi įstatymų ir Vyriausybės nutarimų, žemės darbų vykdymo aprašų ir schemų, žemės gelmių naudojimo planų, kad būtų išsaugotas derlingasis dirvožemio sluoksnis ir rekultivuota pažeista žemė;
-
-
-
-
-5) įgyvendinamos įstatymų ir Vyriausybės nutarimų nustatytos dirvožemio apsaugos nuo erozijos ir nualinimo priemonės;
-
-
-
-
-6) žemės sklypuose vykdant ūkinę ir kitą veiklą nepažeidžiamos teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytos žemės sklypų ribos, savavališkai neužimama ir (ar) nenaudojama žemė, vandens telkiniai;
-
-
-
-
-7) nenaikinami (negadinami) geodeziniai punktai;
-
-
-
-
-8) žemės savininkai ir kiti naudotojai ėmėsi būtinų priemonių, skirtų sunaikintiems ar sugadintiems riboženkliams atkurti, po to, kai jie raštu buvo įspėti tai padaryti;
-
-
-
-
-9) pagal Žemės ūkio paskirties žemės įsigijimo įstatymą įsigijus žemės ūkio paskirties žemės, užtikrinamas jos naudojimas žemės ūkio veiklai;
-
-
-
-
-10) valstybinė žemė naudojama laikantis dokumentuose, kurių pagrindu suteikta teisė valstybine žeme naudotis, nustatytų sąlygų.
-
-
-
-
-
-
-4. Žemės naudojimo patikrinimai atliekami pagal visus tikrinamam objektui taikytinus šio straipsnio 3 dalies 1–10 punktus.
-
-
-
-
-5. Kai yra pagrindas manyti, kad viešasis interesas pažeistas valstybinės žemės naudojimo, valdymo ir disponavimo ja srityje, Valstybinė teritorijų planavimo ir statybų inspekcija kreipiasi į teismą dėl viešojo intereso gynimo.“
-
-
-
-
-
-
-
-
-
-
-22. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos žemės įstatymo 64 straipsnio redakcija:
+22. 2024 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Žemės įstatymo 64 straipsnio redakcija:
 
 
 
@@ -5130,18 +5309,21 @@ SAVIVALDYBIŲ, KAIP VALSTYBINĖS ŽEMĖS PATIKĖTINIŲ, PRIEŽIŪRA IR KONTROLĖ
 „64 straipsnis. Atsakomybės už šio įstatymo 54, 55, 56, 57, 58, 59, 60, 61, 62 ir 63 straipsniuose nurodytus pažeidimus taikymas, šių pažeidimų nagrinėjimo tvarka
 
 
-1. Atsakomybė už šio įstatymo 54, 55, 56, 57, 58, 59, 60, 61 ir 62 straipsniuose nurodytus pažeidimus taikoma ir juridinių asmenų padaliniams, taip pat kitoms užsienio organizacijoms ir jų padaliniams; nurodyti pažeidimai nagrinėjami, priimti spendimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose Lietuvos Respublikos administracinių nusižengimų kodekso straipsniuose nurodyti administraciniai nusižengimai. Valstybinės teritorijų planavimo ir statybos inspekcijos pareigūnai pradeda nurodytų nusižengimų teiseną, atlieka tyrimą ir teisės aktų nustatyta tvarka surašo protokolus, nutarimus ir kitus bylos dokumentus, kurių formą tvirtina Valstybinės teritorijų planavimo ir statybos inspekcijos viršininkas.
+1. Atsakomybė už šio įstatymo 54, 55, 56, 57, 58, 59, 60, 61 ir 62 straipsniuose nurodytus pažeidimus taikoma ir juridinių asmenų padaliniams, kitoms užsienio organizacijoms ir jų padaliniams; nurodyti pažeidimai nagrinėjami, priimti spendimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose Lietuvos Respublikos administracinių nusižengimų kodekso straipsniuose nurodyti administraciniai nusižengimai. Valstybinės teritorijų planavimo ir statybos inspekcijos pareigūnai pradeda nurodytų nusižengimų teiseną, atlieka tyrimą ir teisės aktų nustatyta tvarka surašo protokolus, nutarimus ir kitus bylos dokumentus, kurių formą tvirtina Valstybinės teritorijų planavimo ir statybos inspekcijos vadovas.
 
 
 
 
-2. Atsakomybė už šio įstatymo 63 straipsnyje nurodytus pažeidimus taikoma ir juridinių asmenų padaliniams, taip pat kitoms užsienio organizacijoms ir jų padaliniams; nurodyti pažeidimai nagrinėjami, priimti spendimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose Administracinių nusižengimų kodekso straipsniuose nurodyti administraciniai nusižengimai. Nacionalinės žemės tarnybos valstybės tarnautojai pradeda nurodytų nusižengimų teiseną, atlieka tyrimą ir teisės aktų nustatyta tvarka surašo protokolus, nutarimus ir kitus bylos dokumentus, kurių formą tvirtina Nacionalinės žemės tarnybos direktorius.“
+2. Atsakomybė už šio įstatymo 63 straipsnyje nurodytus pažeidimus taikoma ir juridinių asmenų padaliniams, kitoms užsienio organizacijoms ir jų padaliniams; nurodyti pažeidimai nagrinėjami, priimti spendimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose Administracinių nusižengimų kodekso straipsniuose nurodyti administraciniai nusižengimai. Nacionalinės žemės tarnybos darbuotojai pradeda nurodytų nusižengimų teiseną, atlieka tyrimą ir teisės aktų nustatyta tvarka surašo protokolus, nutarimus ir kitus bylos dokumentus, kurių formą tvirtina Nacionalinės žemės tarnybos vadovas.“.
 
 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2115, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14308
+ 
 
 
 
@@ -5211,3 +5393,13 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-131
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr.  KT109-N12/2023, 2023-12-20, paskelbta TAR 2023-12-20, i. k. 2023-24710
 Dėl Lietuvos Respublikos žemės įstatymo 30 straipsnio 9 dalies (2010 m. birželio 18 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2338, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25258
+Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2445, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25938
+Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas
