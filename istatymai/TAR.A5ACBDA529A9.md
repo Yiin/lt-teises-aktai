@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-06-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -1715,7 +1715,10 @@ Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 172 straipsnis. Apmokestinamųjų pajamų mažinimas dėl filmo arba jo dalies gamybai neatlygintinai suteiktų lėšų 
 
 
-1. Apskaičiuojant pelno mokestį, šio straipsnio nustatyta tvarka iš apmokestinamųjų pajamų gali būti atimamos neatlygintinai Lietuvos filmo gamintojui laikotarpiu nuo 2019 m. sausio 1 d. iki 2023 m. gruodžio 31 d. suteiktos lėšos filmo ar jo dalies gamybai Lietuvos Respublikoje, kai:
+1. Apskaičiuojant pelno mokestį, šiame straipsnyje nustatyta tvarka iš apmokestinamųjų pajamų gali būti atimamos neatlygintinai Lietuvos filmo gamintojui laikotarpiu nuo 2019 m. sausio 1 d. iki 2028 m. gruodžio 31 d. suteiktos lėšos filmo ar jo dalies gamybai Lietuvos Respublikoje, kai:
+TAR pastaba: 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2024 metų ir vėlesnių mokestinių laikotarpių pelno mokestį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2296, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24166
 
 
 1) filmas atitinka Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kultūrinio turinio ir gamybos vertinimo kriterijus ir
@@ -3673,10 +3676,11 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 
 
-4. Šiame straipsnyje nustatyta tvarka apmokestinamasis pelnas gali būti sumažintas tik per 2009–2023 metų mokestinius laikotarpius patirtomis išlaidomis. 
-TAR pastaba. 4 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+4. Šiame straipsnyje nustatyta tvarka apmokestinamasis pelnas gali būti sumažintas tik per 2009–2028 metų mokestinius laikotarpius patirtomis išlaidomis.
+TAR pastaba: 4 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2024 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+Nr. XIV-2296, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24166
  
 
 
@@ -5414,3 +5418,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 31 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2038, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12400
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2296, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24166
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 17-2 ir 46-1 straipsnių pakeitimo įstatymas
