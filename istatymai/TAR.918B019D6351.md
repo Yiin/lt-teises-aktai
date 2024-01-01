@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS LIETUVOS KULTŪROS TARYBOS ĮSTATYMAS
  
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 111-5631, i. k. 1121010ISTA0XI-2218
  
@@ -208,7 +208,10 @@ TARYBOS STRUKTŪRA IR DARBO ORGANIZAVIMAS
 
 
 
-2. Tarybos pirmininkas yra valstybės pareigūnas, atsakingas ir atskaitingas kultūros ministrui. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme.
+2. Tarybos pirmininkas yra valstybės pareigūnas, atsakingas ir atskaitingas kultūros ministrui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
+ 
 
 
 
@@ -274,7 +277,10 @@ TARYBOS STRUKTŪRA IR DARBO ORGANIZAVIMAS
 
 
 
-2. Tarybos narių susirinkimo narių (išskyrus Tarybos pirmininką) darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatyme nustatyta tvarka. Tarybos narių susirinkimo nariai turi teisę dirbti kitą darbą.
+2. Tarybos narių susirinkimo narių (išskyrus Tarybos pirmininką) darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka. Tarybos narių susirinkimo nariai turi teisę dirbti kitą darbą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
+ 
 
 
 
@@ -499,7 +505,9 @@ TAR pastaba. 10 straipsnio 4 dalis netaikoma Lietuvos kultūros tarybos ekspert
 
 
 
-7. Ekspertų darbas apmokamas Valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatyme nustatyta tvarka.
+7. Ekspertų darbas apmokamas Valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
  
 
 
@@ -510,7 +518,10 @@ TAR pastaba. 10 straipsnio 4 dalis netaikoma Lietuvos kultūros tarybos ekspert
 11 straipsnis. Tarybos administracija
 
 
-1. Tarybos administracija padeda Tarybai įgyvendinti jos funkcijas ir užtikrinti Tarybos veiklą. Tarybos administraciją sudaro valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis. Didžiausią leidžiamą valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių nustato kultūros ministras. Tarybos administracijos struktūrą, pareigybių sąrašą, pareigybių aprašymus, veiklos nuostatus tvirtina Tarybos pirmininkas. Tarybos administracijai vadovauja Tarybos pirmininkui pavaldus Tarybos administracijos vadovas. Tarybos administracijos vadovas yra valstybės tarnautojas. Tarybos administracijos vadovas eina Tarybos pirmininko pareigas, kai Tarybos pirmininkas nėra paskirtas šio įstatymo 6 straipsnio 1 dalyje nustatyta tvarka ar laikinai negali eiti pareigų. Tarybos administracijos vadovas, eidamas Tarybos pirmininko pareigas, neturi sprendžiamojo balso teisės Tarybos narių susirinkime.
+1. Tarybos administracija padeda Tarybai įgyvendinti jos funkcijas ir užtikrinti Tarybos veiklą. Tarybos administraciją sudaro valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis. Tarybos administracijai vadovauja Tarybos pirmininkui pavaldus Tarybos administracijos vadovas. Tarybos administracijos vadovas yra valstybės tarnautojas. Tarybos administracijos vadovas eina Tarybos pirmininko pareigas, kai Tarybos pirmininkas nėra paskirtas šio įstatymo 6 straipsnio 1 dalyje nustatyta tvarka ar laikinai negali eiti pareigų. Tarybos administracijos vadovas, eidamas Tarybos pirmininko pareigas, neturi sprendžiamojo balso teisės Tarybos narių susirinkime.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
+ 
 
 
 
@@ -650,3 +661,8 @@ Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo Nr. XI-2218 7, 10 ir 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-697, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25125
 Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo Nr. XI-2218 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1996, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11569
+Lietuvos Respublikos Lietuvos kultūros tarybos įstatymo Nr. XI-2218 6, 7, 10 ir 11 straipsnių pakeitimo įstatymas
