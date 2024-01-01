@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -2164,7 +2164,10 @@ Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
 
 
 
-2. Priežiūros tarnyba, siekdama atlikti šio straipsnio 1 dalyje nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 dienas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Priežiūros tarnyba nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 dienas nuo Priežiūros tarnybos skundo priėmimo dienos. Priežiūros tarnybos atstovas turi teisę dalyvauti, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. 
+2. Priežiūros tarnyba, siekdama atlikti šio straipsnio 1 dalyje nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 dienas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Priežiūros tarnyba nesutinka su teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 dienas nuo Priežiūros tarnybos skundo priėmimo dienos. Priežiūros tarnybos atstovas turi teisę dalyvauti, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1580, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25130
+ 
 
 
 
@@ -3516,3 +3519,8 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 5, 8, 8-1, 9, 13, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-800, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27378
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 trečiojo skirsnio pavadinimo pakeitimo ir 21-1 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1580, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25130
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 20-7 straipsnio pakeitimo įstatymas
