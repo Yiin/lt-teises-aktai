@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/13ecbb50c1be11ea9815f635b9c0dcef"
 
 # Lietuvos Respublikos strateginio valdymo įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: TAR 2020-07-09, i. k. 2020-15358
  
@@ -193,7 +193,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-10) viešoji įstaiga Vyriausybės strateginės analizės centras (toliau – Vyriausybės strateginės analizės centras);
+10) Vyriausybės strateginės analizės centras; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2255, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22986
+ 
 
 
 
@@ -268,7 +271,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) aplinka, miškai ir klimato kaita;
+2) aplinka, miškai, klimato kaita ir žemės tvarkymas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2255, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22986
+ 
 
 
 
@@ -333,7 +339,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-15) žemės ir maisto ūkis, kaimo plėtra, žuvininkystė, veterinarija ir žemės tvarkymas.
+15) žemės ir maisto ūkis, kaimo plėtra, žuvininkystė ir veterinarija.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2255, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22986
+ 
 
 
 
@@ -1187,3 +1196,8 @@ Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1273, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15620
 Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 22 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2255, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22986
+Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 3 straipsnio pakeitimo įstatymas
