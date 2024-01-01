@@ -18,10 +18,9 @@ Redaguota : 1995 07 21
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-01-04 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
  
@@ -2582,7 +2581,7 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ
 30 straipsnis. Valstybinės saugomų teritorijų kontrolės organizavimas
 
 
-1. Žemės naudojimo ir žemės savininkų, valdytojų bei naudotojų, gamtos išteklių naudotojų ir lankytojų veiklos, reglamentuojamos pagal šio Įstatymo 5 straipsnyje nurodytus veiklos saugomose teritorijose reglamentavimo dokumentus, valstybinę kontrolę saugomose teritorijose pagal kompetenciją vykdo aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, nekilnojamojo kultūros paveldo apsaugos pareigūnai.
+1. Žemės naudojimo ir žemės savininkų, valdytojų bei naudotojų, gamtos išteklių naudotojų ir lankytojų veiklos, reglamentuojamos pagal šio Įstatymo 5 straipsnyje nurodytus veiklos saugomose teritorijose reglamentavimo dokumentus, valstybinę kontrolę saugomose teritorijose pagal kompetenciją vykdo aplinkos apsaugos valstybinės kontrolės pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų pareigūnai, statybos valstybinės priežiūros pareigūnai, nekilnojamojo kultūros paveldo apsaugos pareigūnai.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1317, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15645
  
@@ -2650,10 +2649,10 @@ DEVINTASIS SKIRSNIS
 
 
 
-7. Valstybinių draustinių, valstybinių parkų ir biosferos stebėsenos (monitoringo) teritorijų draustinių, taip pat rekreacinių zonų valstybinė žemė, miškai, vandenys, krūmai, pelkės, akmenynai ir kita nenaudojama žemė neparduodama, išskyrus pagal Lietuvos Respublikos žemės reformos įstatymą parduodamą namų valdų, asmeninio ūkio, taip pat mėgėjų sodo ir sodininkų bendrijų bendrojo naudojimo žemę bei iki 1 hektaro žemės ūkio veiklai tinkamus naudoti žemės plotus, įsiterpusius tarp privačios žemės sklypų.
+7. Valstybinių draustinių, valstybinių parkų ir biosferos stebėsenos teritorijose esančių draustinių, rekreacinių zonų teritorijose esanti valstybinė žemė neparduodama, išskyrus Lietuvos Respublikos žemės reformos įstatyme nustatytus atvejus.
 Straipsnio dalies pakeitimai:
-TAR pastaba. Iki įstatymo Nr. XII-1305 įsigaliojimo žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane, ar kitame žemės valdos projekte, ar teritorijų planavimo dokumente suprojektuoti žemės sklypai parduodami pagal iki šio įstatymo įsigaliojimo galiojusias įstatymų nuostatas. Jeigu asmuo iki šio įstatymo įsigaliojimo teisės aktų, reglamentuojančių žemės reformos žemėtvarkos projektų ir jiems prilyginamų žemės sklypų planų rengimą ir įgyvendinimą, nustatyta tvarka pretendentų gauti (įsigyti) žemės susirinkimo metu pasirinko žemės sklypą tai patvirtindamas parašu žemėtvarkos projekto svarstymo su pretendentais gauti (įsigyti) žemės žiniaraštyje arba pretendentų gauti (įsigyti) žemės susirinkimo protokole (kai rengiamas žemės reformos žemėtvarkos projektui prilyginamas žemės sklypo planas), laikoma, kad toks žemės sklypas suprojektuotas žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane. Jeigu iki šio įstatymo įsigaliojimo nustatyta tvarka žemės sklypui yra nustatytos planavimo sąlygos, laikoma, kad toks žemės sklypas suprojektuotas teritorijų planavimo dokumente. Jeigu iki šio įstatymo įsigaliojimo nustatyta tvarka žemės sklypui nustatyti žemės valdos projekto (išskyrus žemės reformos žemėtvarkos projektą) rengimo reikalavimai, laikoma, kad toks žemės sklypas suprojektuotas žemės valdos projekte.
 Nr. XII-1305, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16784
+Nr. XIV-2129, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14320
  
 
 
@@ -3237,3 +3236,8 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 28-1 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1317, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15645
 Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 30 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2129, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14320
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 31 straipsnio pakeitimo įstatymas
