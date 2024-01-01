@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 
 # Lietuvos Respublikos regioninės plėtros įstatymas
 
-Suvestinė redakcija nuo 2023-07-06 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2025-01-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1987, i. k. 1001010ISTAIII-1889
  
@@ -1694,7 +1694,10 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 
-4. Administracijos direktorius priimamas į pareigas konkurso, organizuojamo ir vykdomo Vyriausybės nustatyta tvarka, būdu. Administracijos direktoriaus kadencija prasideda nuo jo priėmimo į pareigas dienos ir baigiasi, kai kolegija, sudaryta po savivaldybių tarybų ir merų rinkimų iš naujai kadencijai išrinktų savivaldybių tarybų narių ir merų, susirenka į pirmąjį kolegijos posėdį. Kai steigiama regiono plėtros taryba, administracijos direktoriaus kadencija prasideda nuo regiono plėtros tarybos įregistravimo Juridinių asmenų registre. Tas pats asmuo tos pačios regiono plėtros tarybos administracijos direktoriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. 
+4. Administracijos direktorius priimamas į pareigas konkurso, organizuojamo ir vykdomo Vyriausybės nustatyta tvarka, būdu arba šio įstatymo nustatytu atveju be konkurso. Administracijos direktoriaus kadencija prasideda nuo jo priėmimo į pareigas dienos ir baigiasi, kai kolegija, sudaryta po savivaldybių tarybų ir merų rinkimų iš naujai kadencijai išrinktų savivaldybių tarybų narių ir merų, susirenka į pirmąjį kolegijos posėdį. Kai steigiama regiono plėtros taryba, administracijos direktoriaus kadencija prasideda nuo regiono plėtros tarybos įregistravimo Juridinių asmenų registre. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
+ 
 
 
 
@@ -1704,7 +1707,10 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 
-6. Pasibaigus administracijos direktoriaus pirmai kadencijai, kolegija pirmajame posėdyje priima sprendimą atleisti administracijos direktorių iš pareigų arba sprendimą skirti administracijos direktorių antrai kadencijai. Pasibaigus antrai kadencijai, administracijos direktorius yra atleidžiamas iš pareigų. Jeigu kolegija priima sprendimą atleisti administracijos direktorių iš pareigų, su juo sudaryta darbo sutartis pasibaigia Darbo kodekso nustatyta tvarka. Tol, kol administracijos direktorius nėra paskirtas, administracijos direktoriaus pareigas eina kolegijos pirmininko arba laikinai kolegijos pirmininko pareigas einančio kolegijos nario siūlymu kolegijos paskirtas administracijos darbuotojas. Konkursas į administracijos direktoriaus pareigas turi būti paskelbtas per vieną mėnesį nuo ankstesnio administracijos direktoriaus atleidimo iš pareigų dienos.
+6. Pasibaigus administracijos direktoriaus kadencijai, kolegija pirmajame posėdyje priima sprendimą atleisti administracijos direktorių iš pareigų arba sprendimą be konkurso skirti administracijos direktorių naujai kadencijai. Jeigu kolegija priima sprendimą atleisti administracijos direktorių iš pareigų, su juo sudaryta darbo sutartis pasibaigia Darbo kodekso nustatyta tvarka. Tol, kol administracijos direktorius nėra paskirtas, administracijos direktoriaus pareigas eina kolegijos pirmininko arba laikinai kolegijos pirmininko pareigas einančio kolegijos nario siūlymu kolegijos paskirtas administracijos darbuotojas. Konkursas į administracijos direktoriaus pareigas turi būti paskelbtas per vieną mėnesį nuo ankstesnio administracijos direktoriaus atleidimo iš pareigų dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
+ 
 
 
 
@@ -1833,12 +1839,18 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 
-3. Administracijos direktoriaus ir administracijos darbuotojų pareiginė alga nustatoma pareiginės algos koeficientais. Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų, darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). Pareiginė alga apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš bazinio dydžio.
+3. Administracijos direktoriaus ir administracijos darbuotojų pareiginė alga apskaičiuojama šio įstatymo priede nustatytą atitinkamos pareiginės algos koeficientą padauginus iš Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto pareiginės algos (atlyginimo) bazinio dydžio. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
+ 
 
 
 
 
-4. Administracijos direktoriaus pareiginės algos koeficientą nustato kolegija iš šio įstatymo priede šiai pareigybei nustatyto pareiginės algos koeficientų intervalo, atsižvelgdama į darbo apmokėjimo sistemoje nustatytus pareiginės algos nustatymo kriterijus ir pareiginės algos koeficientų dydžius. Administracijos darbuotojo pareiginės algos koeficientą pagal darbo apmokėjimo tvarkos apraše nustatytus pareiginės algos nustatymo kriterijus ir koeficientų dydžius nustato administracijos direktorius. Administracijos direktoriaus ir administracijos darbuotojo pareiginė alga sulygstama darbo sutartyje. 
+4. Administracijos direktoriaus pareiginės algos koeficientą nustato kolegija iš šio įstatymo priede šiai pareigybei nustatyto pareiginės algos koeficientų intervalo, atsižvelgdama į darbo apmokėjimo sistemoje nustatytus pareiginės algos nustatymo kriterijus ir pareiginės algos koeficientų dydžius. Administracijos darbuotojo pareiginės algos koeficientą pagal darbo apmokėjimo sistemoje nustatytus pareiginės algos nustatymo kriterijus ir iš šio įstatymo priede atitinkamai pareigybei nustatyto pareiginės algos koeficientų intervalo nustato administracijos direktorius. Administracijos direktoriaus ir administracijos darbuotojo pareiginė alga sulygstama darbo sutartyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
+ 
 
 
 
@@ -1858,7 +1870,10 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 
-6. Administracijos direktoriui ar administracijos darbuotojui skiriama priemoka negali būti didesnė kaip 40 procentų pareiginės algos dydžio. 
+6. Administracijos direktoriui ar administracijos darbuotojui skiriama priemoka negali būti mažesnė kaip 10 procentų ir ne didesnė kaip 80 procentų pareiginės algos dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
+ 
 
 
 
@@ -2068,40 +2083,49 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
+ 
 Lietuvos Respublikos 
 regioninės plėtros įstatymo
 priedas
  
-REGIONŲ PLĖTROS TARYBŲ ADMINISTRACIJŲ DIREKTORIŲ IR ADMINISTRACIJŲ DARBUOTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFICIENTAI 
+REGIONŲ PLĖTROS TARYBŲ ADMINISTRACIJŲ DIREKTORIŲ IR ADMINISTRACIJŲ DARBUOTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
  
 
 
 
- Pareigybės pavadinimas  
+ Eil. Nr. 
+ Pareigybės pavadinimas 
  Pareiginės algos koeficientai (baziniais dydžiais) 
 
 
+ 1. 
  Administracijos direktorius 
- 13,3–16,3 
+ 1,39–1,70 
 
 
+ 2. 
  Ekspertas 
- 11,4–14,4 
+ 1,19–1,50 
 
 
+ 3. 
  Vyriausiasis specialistas 
- 8,2–12 
+ 0,86–1,25 
 
 
+ 4. 
  Vyresnysis specialistas 
- 7,7–10,5 
+ 0,81–1,10 
 
 
 
+________________
  
-part_09c5d5f32de14ec4a863fc589c4bef58_end
+Priedo pakeitimai:
+Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
+ 
+
+
 
 
  
@@ -2175,3 +2199,8 @@ Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2107, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14029
 Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 12 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
+Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas
