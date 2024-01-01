@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2023-12-15 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-05-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -143,7 +143,9 @@ Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
 
 
-13. Kelio statinys – kelio elementas, turintis laikančiąsias konstrukcijas (tiltas, viadukas, estakada, tunelis, pralaida, triukšmo užtvara, atraminė sienelė, rėminė ar gembinė konstrukcija, pylimas ir kt.).
+13. Kelio statinys – kelio elementas, turintis laikančiąsias konstrukcijas (tiltas, viadukas, estakada, tunelis, pralaida, triukšmo užtvara, atraminė sienelė, rėminė ar gembinė konstrukcija, pylimas, ryšių bokštas ir kt.). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2201, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21641
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
  
@@ -217,7 +219,9 @@ Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
 
 
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos žemės įstatyme.
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir Lietuvos Respublikos žemės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2201, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21641
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
@@ -361,12 +365,23 @@ Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
 
 
 
-5) atlieka planuojamų valstybinės reikšmės kelių tiesimo, statybos ir rekonstrukcijos projektų analizę;
+5) atlieka planuojamų valstybinės reikšmės kelių tiesimo, statybos ir rekonstrukcijos projektų analizę, Lietuvos Respublikos Vyriausybės nustatytais atvejais ir jos nustatyta tvarka atlieka šių projektų sąnaudų ir naudos analizę ir pasirenka geriausią projekto įgyvendinimo galimybę, ir šio pasirinkimo rezultatus paskelbia savo interneto svetainėje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2225, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22371
+ 
 
 
 
 
 6) atlieka valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų, kurie finansuojami valstybės biudžeto lėšomis ar iš kitų finansavimo šaltinių, kokybės vertinimą, kokybės kontrolinius patikrinimus ir techninę, ekonominę ir aplinkos apsaugos stebėseną;
+
+
+
+
+7) skaidriomis ir nediskriminacinėmis sąlygomis, vadovaudamasi Elektroninių ryšių įstatymo 45 straipsniu (išskyrus 45 straipsnio 5 dalies nuostatą, kad Lietuvos Respublikos ryšių reguliavimo tarnyba, nagrinėdama tarp infrastruktūros naudotojo ir infrastruktūros valdytojo kilusį ginčą, turi teisę nustatyti užmokesčio už naudojimąsi elektroninių ryšių infrastruktūra ir (arba) tinkamos paskirties fizine infrastruktūra dydį), suteikia operatoriams, siekiantiems užtikrinti ryšį, reikalingą eismo dalyvių įrenginiams, transporto sistemoms ir transporto priemonėms veikti, bendrai naudotis akcinės bendrovės Lietuvos automobilių kelių direkcijos patikėjimo teise valdomais, naudojamais ir disponuojamais ryšių bokštais, esančiais valstybinės reikšmės keliuose (toliau – ryšių bokštų bendras naudojimas). Sutartyje dėl ryšių bokštų bendro naudojimo turi būti numatytas ne ilgesnis kaip 10 metų sutarties galiojimo terminas, kuris gali būti pratęsiamas tam pačiam laikotarpiui neribotą kartų skaičių, užmokesčio dydis, jo mokėjimo ir peržiūros tvarka, 0,05 procento dydžio delspinigiai nuo laiku operatoriaus nesumokėtos sumos už kiekvieną uždelstą kalendorinę dieną, operatoriaus atsakomybė už netinkamą sutarties įsipareigojimų vykdymą, sutarties nutraukimo atvejai ir tvarka. Užmokestis, kurį moka operatoriai už ryšių bokštų bendrą naudojimą, yra apskaičiuojamas susisiekimo ministro nustatyta tvarka ir turi būti pagrįstas patirtomis ryšių bokštų įrengimo, eksploatavimo sąnaudomis ir protingumo kriterijų atitinkančia investicijų grąža. Lėšos, gautos už ryšių bokštų bendrą naudojimą, yra akcinės bendrovės Lietuvos automobilių kelių direkcijos pajamos. Šios lėšos naudojamos ryšių bokštams statyti ir jiems funkcionuoti reikalingiems elektros, ryšių linijų įvadams įrengti skirtai paskolai grąžinti ir palūkanoms mokėti, taip pat ryšių bokštų ir jiems funkcionuoti reikalingų elektros, ryšių linijų įvadų eksploatavimo sąnaudoms ir kitoms su šio turto eksploatavimu, naudojimu ir priežiūra susijusioms sąnaudoms padengti.
+Papildyta straipsnio punktu:
+Nr. XIV-2201, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21641
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -518,12 +533,14 @@ Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
 
 
 
-2. Valstybinės reikšmės keliams priskirta žemė priklauso valstybei išimtine nuosavybės teise. Ją patikėjimo teise valdo, naudoja ir ja disponuoja akcinė bendrovė Lietuvos automobilių kelių direkcija. Valstybinės žemės sklypai, reikalingi valstybinės reikšmės keliams projektuoti, tiesti, statyti, rekonstruoti, taisyti (remontuoti) ar priskirti valstybinės reikšmės keliams, perduodami patikėjimo teise akcinei bendrovei Lietuvos automobilių kelių direkcijai Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) vadovo sprendimu, suderintu su Lietuvos Respublikos aplinkos ministerija, Žemės įstatymo ir Vyriausybės nustatyta tvarka. Valstybinės žemės sklypo, perduodamo patikėjimo teise akcinei bendrovei Lietuvos automobilių kelių direkcijai, perdavimo–priėmimo aktą pasirašo Nacionalinės žemės tarnybos vadovas arba jo įgaliotas teritorinio padalinio vadovas. Valstybinės reikšmės kelią ar jo ruožą išbraukus iš valstybinės reikšmės kelių sąrašo, Nacionalinės žemės tarnybos vadovas Žemės įstatymo ir Vyriausybės nustatyta tvarka priima sprendimą, suderintą su Aplinkos ministerija, dėl patikėjimo teisės į šio kelio ar jo ruožo užimamą valstybinės žemės sklypą pasibaigimo ir tokį žemės sklypą akcinė bendrovė Lietuvos automobilių kelių direkcija perdavimo–priėmimo aktu grąžina Nacionalinei žemės tarnybai.
+2. Valstybinės reikšmės keliams priskirta žemė priklauso valstybei išimtine nuosavybės teise. Ją patikėjimo teise valdo, naudoja ir ja disponuoja akcinė bendrovė Lietuvos automobilių kelių direkcija. Valstybinės žemės sklypai, reikalingi valstybinės reikšmės keliams projektuoti, tiesti, statyti, rekonstruoti, taisyti (remontuoti) ar priskirti valstybinės reikšmės keliams, perduodami patikėjimo teise akcinei bendrovei Lietuvos automobilių kelių direkcijai Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) vadovo sprendimu Žemės įstatyme ir Vyriausybės nustatyta tvarka. Valstybinės žemės sklypo, perduodamo patikėjimo teise akcinei bendrovei Lietuvos automobilių kelių direkcijai, perdavimo–priėmimo aktą pasirašo Nacionalinės žemės tarnybos vadovas. Valstybinės reikšmės kelią ar jo ruožą išbraukus iš valstybinės reikšmės kelių sąrašo, Nacionalinės žemės tarnybos vadovas Žemės įstatyme ir Vyriausybės nustatyta tvarka priima sprendimą dėl patikėjimo teisės į šio kelio ar jo ruožo užimamą valstybinės žemės sklypą pasibaigimo ir tokį žemės sklypą akcinė bendrovė Lietuvos automobilių kelių direkcija perdavimo–priėmimo aktu grąžina Nacionalinei žemės tarnybai. \
+ 
 Straipsnio dalies pakeitimai:
 Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
 Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
 Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
 Nr. XIV-1327, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15655
+Nr. XIV-2132, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14324
  
 
 
@@ -610,9 +627,11 @@ Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
 
 
 
-4. Jeigu urbanizuotose teritorijose esančių kelių, įrašytų į valstybinės reikšmės kelių sąrašą ar vietinės reikšmės kelių sąrašą, ar jų ruožų kelio juostos dėl užstatymo ar kitų priežasčių neatitinka šio straipsnio 1 ir 2 dalyse nurodyto minimalaus pločio ir nėra galimybės jų paplatinti, šios kelio juostos susisiekimo ministro ar jo įgaliotos institucijos nustatyta tvarka nustatomos siauresnės (faktiškai esamo pločio) su visais tame kelyje ar jo ruože esančiais kelio elementais.
+4. Jeigu urbanizuotose teritorijose ir (ar) miestų ir kaimų gyvenamosiose vietovėse esančių kelių, įrašytų į valstybinės reikšmės kelių sąrašą ar vietinės reikšmės kelių sąrašą, ar jų ruožų kelio juostos dėl užstatymo ar kitų priežasčių neatitinka šio straipsnio 1 ir 2 dalyse nurodyto minimalaus pločio ir nėra galimybės jų paplatinti, šios kelio juostos susisiekimo ministro ar jo įgaliotos institucijos nustatyta tvarka nustatomos siauresnės (faktiškai esamo pločio) su visais tame kelyje ar jo ruože esančiais kelio elementais. Ši nuostata taikoma tik tiems kelių ruožams, kurių užimamos žemės daiktinės teisės nėra užregistruotos Nekilnojamojo turto registre.
 Papildyta straipsnio dalimi:
 Nr. XIV-1890, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08611
+Straipsnio dalies pakeitimai:
+Nr. XIV-2226, 2023-11-09, paskelbta TAR 2023-11-23, i. k. 2023-22588
  
 
 
