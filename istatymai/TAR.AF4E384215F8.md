@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2022-09-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -125,7 +125,10 @@ Nr. XIII-3439, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24616
 
 
 
-15. Tarnybos pakopa – atsižvelgiant į pareigūno tarnybinės veiklos vertinimą, pagal jo kvalifikaciją, tarnybos patirtį ir tarnybinės veiklos rezultatus nustatoma pareigūno kvalifikacijos pakopa, kuriai priskiriamas tam tikras pareiginės algos koeficientas, nurodytas šio įstatymo priede.
+15. Tarnybos pakopa – atsižvelgiant į pareigūno tarnybinės veiklos vertinimą, pagal jo kvalifikaciją, tarnybos patirtį ir tarnybinės veiklos rezultatus nustatoma pareigūno kvalifikacijos pakopa, kuriai priskiriamas konkretus pareiginės algos koeficientas iš atitinkamai pareigybei taikomo pareiginės algos koeficientų intervalo, nustatyto Vadovybės apsaugos tarnybos direktoriaus tvirtinamoje Vadovybės apsaugos tarnybos pareigūnų darbo apmokėjimo sistemoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -140,12 +143,25 @@ Nr. XIII-3439, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24616
 
 
 
-18. Vadovybės diskreditavimas – vadovybės reputacijos menkinimas.
+18. Vadovybės apsaugos tarnybos rezervas – rezervas, savanoriškais pagrindais šio įstatymo nustatyta tvarka sudaromas iš buvusių Vadovybės apsaugos tarnybos pareigūnų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
+ 
 
 
 
 
-19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos administracinių nusižengimų kodekse, Lietuvos Respublikos baudžiamajame kodekse, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme ir Lietuvos Respublikos diplomatinės tarnybos įstatyme.
+19. Vadovybės diskreditavimas – vadovybės reputacijos menkinimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
+ 
+
+
+
+
+20. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos administracinių nusižengimų kodekse, Lietuvos Respublikos baudžiamajame kodekse, Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme, Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme ir Lietuvos Respublikos diplomatinės tarnybos įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
  
 
 
@@ -763,15 +779,17 @@ Vadovybės apsaugos tarnyba turi teisę:
 17 straipsnis. Vadovybės apsaugos tarnybos struktūra ir personalas
 
 
-1. Vadovybės apsaugos tarnybos administracijos struktūrą tvirtina Vadovybės apsaugos tarnybos direktorius.
+1. Vadovybės apsaugos tarnybos struktūrą tvirtina Vadovybės apsaugos tarnybos direktorius.
 
 
 
 
-2. Vadovybės apsaugos tarnybos personalą sudaro pareigūnai, karjeros valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis. Didžiausią leistiną Vadovybės apsaugos tarnybos pareigūnų, karjeros valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių nustato Vyriausybė. 
+2. Vadovybės apsaugos tarnybos personalą sudaro pareigūnai, karjeros valstybės tarnautojai, laikinieji valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis. Vadovybės apsaugos tarnybos pareigybių sąrašą tvirtina ir pareigybių skaičių nustato Vadovybės apsaugos tarnybos direktorius.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
-
-
 
 
 
@@ -809,7 +827,10 @@ Vadovybės apsaugos tarnyba turi teisę:
 
 
 
-7. Asmenys, kurie iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas ėjo pareigūno pareigas, pasibaigus Vadovybės apsaugos tarnybos direktoriaus kadencijai ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojų tarnybos einant šias pareigas laikotarpiui, jų rašytiniu sutikimu be atrankos gali būti paskirti į laisvas pareigūno pareigas, kurias ėjo iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas ir kurioms netaikoma kadencija, o kai šių pareigų nėra, – į kitas lygiavertes ar žemesnes pareigūno pareigas Vadovybės apsaugos tarnyboje, kurioms netaikoma kadencija. Pareigūnui, paskirtam į laisvas pareigas, kurias jis ėjo iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas, o kai tokių pareigų nėra, paskirtam į kitas lygiavertes ar žemesnes pareigas, nustatoma pareiginė alga pagal šio įstatymo priede šiai pareigybei nustatytą aukščiausios pakopos pareiginės algos koeficientą. Jeigu šioje dalyje nurodyti asmenys nesutinka būti paskirti į kitas pareigūno pareigas, jie atleidžiami iš tarnybos vadovaujantis šio įstatymo 60 straipsnio 17 punktu.
+7. Asmenys, kurie iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas ėjo pareigūno pareigas, pasibaigus Vadovybės apsaugos tarnybos direktoriaus kadencijai ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojų tarnybos einant šias pareigas laikotarpiui, jų rašytiniu sutikimu be atrankos gali būti paskirti į laisvas pareigūno pareigas, kurias ėjo iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas ir kurioms netaikoma kadencija, o kai šių pareigų nėra, – į kitas lygiavertes ar žemesnes pareigūno pareigas Vadovybės apsaugos tarnyboje, kurioms netaikoma kadencija. Pareigūnui, paskirtam į laisvas pareigūno pareigas, kurias jis ėjo iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas, o kai tokių pareigų nėra, paskirtam į kitas lygiavertes ar žemesnes pareigūno pareigas, nustatoma pareiginė alga pagal Vadovybės apsaugos tarnybos direktoriaus tvirtinamoje Vadovybės apsaugos tarnybos pareigūnų darbo apmokėjimo sistemoje (toliau – pareigūnų darbo apmokėjimo sistema) šiai pareigybei nustatytą aukščiausios tarnybos pakopos pareiginės algos koeficientą. Jeigu šioje dalyje nurodyti asmenys nesutinka būti paskirti į kitas pareigūno pareigas, jie atleidžiami iš tarnybos vadovaujantis šio įstatymo 60 straipsnio 17 punktu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -928,7 +949,10 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-4. Siekiant nustatyti, ar nėra šio straipsnio 3 dalyje nurodytų aplinkybių, pretendentas į pareigūno pareigas tikrinamas valstybės informacinėse sistemose ir registruose (prireikus – ir kriminalinės žvalgybos subjektų informacinėse sistemose).
+4. Siekiant nustatyti, ar nėra šio straipsnio 3 dalyje nurodytų aplinkybių, pretendentas į pareigūno pareigas arba Vadovybės apsaugos tarnybos rezervą tikrinamas valstybės informacinėse sistemose ir registruose (prireikus – ir kriminalinės žvalgybos subjektų informacinėse sistemose).
+Straipsnio dalies pakeitimai:
+Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
+ 
 
 
 
@@ -983,7 +1007,10 @@ TAR pastaba. Pareigūnai, kurie neturi einamoms pareigoms būtino išsilavinimo,
 
 
 
-3) kurie yra politinių partijų nariai;
+3) kurie yra politinių organizacijų nariai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -1115,9 +1142,10 @@ Tepadeda man Dievas.“
 
 
 
-6. Karjeros valstybės tarnautojai į pareigas Vadovybės apsaugos tarnyboje skiriami Valstybės tarnybos įstatymo nustatyta tvarka. Karjeros valstybės tarnautojams, siekiantiems tarnauti ir tarnaujantiems Vadovybės apsaugos tarnyboje, taikomos šio įstatymo 19 straipsnio 3 dalies 5 punkto ir 4 dalies ir 20 straipsnio 1 dalies 5 punkto nuostatos. 
+6. Karjeros valstybės tarnautojai ir laikinieji valstybės tarnautojai į pareigas Vadovybės apsaugos tarnyboje skiriami Valstybės tarnybos įstatymo nustatyta tvarka. Karjeros valstybės tarnautojams ir laikiniesiems valstybės tarnautojams, siekiantiems tarnauti ir tarnaujantiems Vadovybės apsaugos tarnyboje, taikomos šio įstatymo 19 straipsnio 3 dalies 5 punkto ir 4 dalies ir 20 straipsnio 1 dalies 5 punkto nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
 
 
@@ -1461,7 +1489,10 @@ PAREIGŪNŲ TEISĖS IR PAREIGOS
 1. Pareigūnams draudžiama:
 
 
-1) būti politinių partijų ar politinių organizacijų nariais, dalyvauti jų veikloje;
+1) būti politinių organizacijų nariais, dalyvauti jų veikloje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -1471,7 +1502,10 @@ PAREIGŪNŲ TEISĖS IR PAREIGOS
 
 
 
-3) dalyvauti politinių partijų ir politinių organizacijų susirinkimuose, išskyrus atvejus, kai tai būtina atlikti tarnybines pareigas;
+3) dalyvauti politinių organizacijų susirinkimuose, išskyrus atvejus, kai tai būtina atliekant tarnybines pareigas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -1508,7 +1542,9 @@ PAREIGŪNŲ TEISĖS IR PAREIGOS
 
 
 
-2. Pareigūnai, ne tarnybos tikslais vykdami ne į Europos Sąjungos ar ne Šiaurės Atlanto Sutarties Organizacijos valstybes, turi apie tai pranešti Vadovybės apsaugos tarnybai. Pareigūnų vykimo ne tarnybos tikslais į užsienio valstybes tvarką nustato ir užsienio valstybių ar teritorijų, į kurias pareigūnai negali vykti, sąrašus tvirtina Vadovybės apsaugos tarnybos direktorius. 
+2. Pareigūnams ne tarnybos tikslais draudžiama vykti į užsienio valstybes ar teritorijas, kurių sąrašą, įvertinusi Nacionalinio saugumo strategijoje ir kituose planavimo dokumentuose numatytus rizikos veiksnius, pavojus ir grėsmes nacionaliniam saugumui, taip pat kitų nacionalinio saugumo užtikrinimo subjektų šiuo tikslu priimtus sprendimus ar suteiktą informaciją, tvirtina Vyriausybė. Atsižvelgdama į rizikos veiksnių, pavojų ir grėsmių nacionaliniam saugumui raidą ir pokyčius Vyriausybė turi teisę nustatyti atvejus (įskaitant išimtinius atvejus dėl asmeninių aplinkybių) ir tvarką, pagal kurią pareigūnų vykimas į minėtame sąraše esančias užsienio valstybes ar teritorijas būtų galimas tik turint leidimą arba deklaravus informaciją apie išvykimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
 
 
@@ -1748,7 +1784,10 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-3. Nuosekliai aukštesnė tarnybos pakopa nustatoma tarnybinės veiklos vertinimo metu pareigūno tarnybinę veiklą įvertinus labai gerai. Nuosekliai aukštesnė tarnybos pakopa taip pat gali būti nustatoma pareigūno tarnybinę veiklą 3 kartus iš eilės įvertinus gerai. Nuosekliai žemesnė tarnybos pakopa nustatoma pareigūno tarnybinę veiklą įvertinus nepatenkinamai.
+3. Nuosekliai aukštesnė tarnybos pakopa nustatoma tarnybinės veiklos vertinimo metu pareigūno tarnybinę veiklą įvertinus kaip viršijančią lūkesčius. Nuosekliai aukštesnė tarnybos pakopa taip pat gali būti nustatoma pareigūno tarnybinę veiklą 3 kartus iš eilės įvertinus kaip atitinkančią lūkesčius. Nuosekliai žemesnė tarnybos pakopa nustatoma pareigūno tarnybinę veiklą įvertinus kaip neatitinkančią lūkesčių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -1763,7 +1802,10 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-6. Perkeltam į žemesnes pareigas šio įstatymo 39 straipsnio 4 dalies 4 arba 5 punkte nustatytais pagrindais pareigūnui nustatoma tokio pat eiliškumo tarnybos pakopa kaip iki perkėlimo nustatytoji. Perkeltam į žemesnes pareigas kitais pagrindais pareigūnui nustatoma tokia tarnybos pakopa, kad jo pareiginė alga būtų artimiausia iki perkėlimo į žemesnes pareigas buvusiai pareiginei algai, bet už ją ne mažesnė, o jeigu ši pareiginė alga būtų didesnė už didžiausią einant naujas pareigas galimą pareiginę algą, – šeštoji tarnybos pakopa.
+6. Perkeltam į žemesnes pareigas šio įstatymo 39 straipsnio 4 dalies 1, 2, 3, 4, 5, 7 arba 8 punkte nustatytais pagrindais pareigūnui nustatoma tokia tarnybos pakopa, kad jo pareiginė alga būtų artimiausia iki perkeliant į žemesnes pareigas buvusiai pareiginei algai, bet už ją ne didesnė. Perkeltam į žemesnes pareigas šio įstatymo 39 straipsnio 4 dalies 6 punkte nustatytu pagrindu pareigūnui suteikiama aukščiausioji tarnybos pakopa.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -1799,17 +1841,25 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-4. Pareigūnų tarnybinė veikla gali būti įvertinta labai gerai, gerai arba nepatenkinamai.
+4. Pareigūnų tarnybinė veikla gali būti įvertinta kaip viršijanti lūkesčius, atitinkanti lūkesčius arba neatitinkanti lūkesčių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
 
-5. Jeigu pareigūno tarnybinę veiklą tiesioginis vadovas įvertina labai gerai ar nepatenkinamai arba jeigu pareigūno tarnybinė veikla gerai įvertinama 3 kartus iš eilės, pareigūno tarnybinę veiklą vertina Vadovybės apsaugos tarnybos direktoriaus sudaryta tarnybinės veiklos vertinimo komisija (toliau – veiklos vertinimo komisija). Veiklos vertinimo komisija pareigūno tarnybinę veiklą taip pat vertina tais atvejais, kai pareigūnas nesutinka su tiesioginio vadovo vertinimu.
+5. Jeigu pareigūno tarnybinę veiklą tiesioginis vadovas įvertina kaip viršijančią lūkesčius ar neatitinkančią lūkesčių arba jeigu pareigūno tarnybinė veikla įvertinama kaip atitinkanti lūkesčius 3 kartus iš eilės, pareigūno tarnybinę veiklą vertina Vadovybės apsaugos tarnybos direktoriaus sudaryta tarnybinės veiklos vertinimo komisija (toliau – veiklos vertinimo komisija). Veiklos vertinimo komisija pareigūno tarnybinę veiklą taip pat vertina tais atvejais, kai pareigūnas nesutinka su tiesioginio vadovo vertinimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
 
-6. Veiklos vertinimo komisija, įvertinusi pareigūno tarnybinę veiklą labai gerai, Vadovybės apsaugos tarnybos direktoriui siūlo:
+6. Veiklos vertinimo komisija, įvertinusi pareigūno tarnybinę veiklą kaip viršijančią lūkesčius, Vadovybės apsaugos tarnybos direktoriui siūlo: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 
 
 1) nustatyti pareigūnui nuosekliai aukštesnę tarnybos pakopą;
@@ -1834,12 +1884,17 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-7. Pareigūno tiesioginis vadovas ar veiklos vertinimo komisija, įvertinę pareigūno tarnybinę veiklą gerai, Vadovybės apsaugos tarnybos direktoriui pasiūlymų neteikia ir pareigūno iki tarnybinės veiklos vertinimo buvusi teisinė padėtis nesikeičia. Kai pareigūno tarnybinė veikla įvertinama gerai 3 kartus iš eilės, veiklos vertinimo komisija gali pasiūlyti Vadovybės apsaugos tarnybos direktoriui nustatyti šiam pareigūnui nuosekliai aukštesnę tarnybos pakopą.
+7. Pareigūno tiesioginis vadovas ar veiklos vertinimo komisija, įvertinę pareigūno tarnybinę veiklą kaip atitinkančią lūkesčius, Vadovybės apsaugos tarnybos direktoriui pasiūlymų neteikia ir pareigūno iki tarnybinės veiklos vertinimo buvusi teisinė padėtis nesikeičia. Kai pareigūno tarnybinė veikla įvertinama kaip atitinkanti lūkesčius 3 kartus iš eilės, veiklos vertinimo komisija gali pasiūlyti Vadovybės apsaugos tarnybos direktoriui nustatyti šiam pareigūnui nuosekliai aukštesnę tarnybos pakopą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
 
-8. Veiklos vertinimo komisija, įvertinusi pareigūno tarnybinę veiklą nepatenkinamai, Vadovybės apsaugos tarnybos direktoriui siūlo:
+8. Veiklos vertinimo komisija, įvertinusi pareigūno tarnybinę veiklą kaip neatitinkančią lūkesčių, Vadovybės apsaugos tarnybos direktoriui siūlo: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 
 
 1) tobulinti pareigūno kvalifikaciją;
@@ -1915,7 +1970,9 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-5. Pareigūnas, nutraukęs tarnybos sutartį prieš įsipareigotą tarnauti terminą arba atleidžiamas iš tarnybos šio įstatymo 60 straipsnio 1–6 ir 8–12 punktuose nustatytais pagrindais, privalo atlyginti su jo mokymu ar kvalifikacijos tobulinimu susijusias 2 paskutinių tarnybos metų išlaidas, jeigu jos nebuvo atlygintos pagal šio straipsnio 4 dalyje nurodytas sutartis. Nuo šių išlaidų atlyginimo atleidžiamas pareigūnas, kuris negali tęsti tarnybos dėl ligos, netekto darbingumo arba dėl svarbių ir nuo jo valios nepriklausančių, ir nepašalinamų priežasčių.
+5. Pareigūnas, nutraukęs tarnybos sutartį prieš įsipareigotą tarnauti terminą arba atleidžiamas iš tarnybos šio įstatymo 60 straipsnio 1–6 ir 8–12 punktuose nustatytais pagrindais, privalo atlyginti su jo mokymu ar kvalifikacijos tobulinimu susijusias 2 paskutinių tarnybos metų išlaidas, jeigu jos nebuvo atlygintos pagal šio straipsnio 4 dalyje nurodytas sutartis. Nuo šių išlaidų atlyginimo atleidžiamas pareigūnas, kuris negali tęsti tarnybos dėl ligos, netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) arba dėl svarbių ir nuo jo valios nepriklausančių bei nepašalinamų priežasčių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
 
 
@@ -1939,7 +1996,10 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-2) veiklos vertinimo komisijai įvertinus pareigūno tarnybinę veiklą labai gerai;
+2) veiklos vertinimo komisijai įvertinus pareigūno tarnybinę veiklą kaip viršijančią lūkesčius; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -2009,7 +2069,10 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-5) veiklos vertinimo komisijai įvertinus pareigūno tarnybinę veiklą nepatenkinamai;
+5) veiklos vertinimo komisijai įvertinus pareigūno tarnybinę veiklą kaip neatitinkančią lūkesčių;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -2187,7 +2250,9 @@ PAREIGŪNŲ DARBO LAIKAS
 
 
 
-3. Nėščioms, neseniai pagimdžiusioms ir krūtimi maitinančioms pareigūnėms, pareigūnams, auginantiems vaiką (įvaikį) iki 3 metų, pareigūnams, vieniems auginantiems vaiką (įvaikį) iki 14 metų arba neįgalų vaiką (įvaikį) iki 18 metų, ir neįgalųjį slaugantiems pareigūnams galima pavesti dirbti ne pagal darbo grafiką tik jų rašytiniu sutikimu.
+3. Nėščioms, neseniai pagimdžiusioms ir krūtimi maitinančioms pareigūnėms, pareigūnams, auginantiems vaiką (įvaikį) iki 3 metų, pareigūnams, vieniems auginantiems vaiką (įvaikį) iki 14 metų arba vaiką (įvaikį) su negalia iki 18 metų, asmenį su negalia slaugantiems pareigūnams galima pavesti dirbti ne pagal darbo grafiką tik jų rašytiniu sutikimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
 
 
@@ -2213,22 +2278,17 @@ PAREIGŪNŲ DARBO UŽMOKESTIS IR SOCIALINĖS GARANTIJOS
 
 
 
-2) priedas už tarnybinį rangą;
+2) priedas už tarnybos Lietuvos valstybei metus (Vadovybės apsaugos tarnybos direktoriui šis priedas neskiriamas);
 
 
 
 
-3) priedas už tarnybos Lietuvos valstybei metus;
+3) mokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą;
 
 
 
 
-4) mokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą;
-
-
-
-
-5) priemokos. 
+4) priemokos.
 
 
 
@@ -2236,9 +2296,16 @@ PAREIGŪNŲ DARBO UŽMOKESTIS IR SOCIALINĖS GARANTIJOS
 
 
 2. Pareigūnams už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Vadovybės apsaugos tarnybos tikslais ir funkcijomis susijusi veikla (toliau – paramos teikimo projektai), iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas ir įkainius gali būti mokamos vienkartinės ar periodinės išmokos. Už laiką, kurį pareigūnas dalyvauja šioje dalyje nurodytuose paramos teikimo projektuose ir kurį gauna išmokas iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų, skirtų šiems paramos teikimo projektams įgyvendinti, šio straipsnio 1 dalyje nustatytas darbo užmokestis pareigūnui nemokamas.
+
+
+
+
+3. Pareigūnams darbo užmokestis nustatomas pagal pareigūnų darbo apmokėjimo sistemą. Pareigūnų darbo apmokėjimo sistemoje detalizuojami Vadovybės apsaugos tarnybos pareigybių sąraše esančių pareigybių pareiginės algos koeficientų, viršijančių šio įstatymo priede nustatytuosius minimalius pareiginės algos koeficientus, dydžių nustatymo kriterijai (pareigūnui suteiktas tarnybinis rangas, pareigūno išsilavinimas, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir kita), pareiginės algos koeficientų intervalai, priemokų dydžiai, priemokų skyrimo kriterijai ir tvarka. Prieš nustatant ar keičiant pareigūnų darbo apmokėjimo sistemą, turi būti Darbo kodekso nustatyta tvarka atliktos informavimo ir konsultavimosi procedūros.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
-
-
 
 
 
@@ -2246,66 +2313,40 @@ PAREIGŪNŲ DARBO UŽMOKESTIS IR SOCIALINĖS GARANTIJOS
 45 straipsnis. Pareiginė alga
 
 
-1. Pareigūno pareiginė alga nustatoma pagal šio įstatymo priede pareigūno pareigybei nustatytą pareiginės algos koeficientą.
+1. Pareigūno pareiginė alga nustatoma pagal pareigūno pareigybei nustatytą pareiginės algos koeficientą, nustatomą atsižvelgiant į šio įstatymo priedą ir pareigūnų darbo apmokėjimo sistemą.
 
 
 
 
-2. Pareigūno darbo užmokesčiui apskaičiuoti taikomas Seimo patvirtintas atitinkamų metų Lietuvos Respublikos valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). 
+2. Pareigūno pareiginės algos koeficiento vienetas yra Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatytas pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis).
 
 
 
 
-3. Pareigūno pareiginė alga apskaičiuojama atitinkamą šio įstatymo priede nustatytą pareiginės algos koeficientą dauginant iš bazinio dydžio. Pareiginė alga apvalinama vadovaujantis bendrosiomis skaičių apvalinimo taisyklėmis taip, kad paskutinis skaitmuo būtų 0 arba 5.
+3. Pareigūno pareiginė alga apskaičiuojama pareigūno pareiginės algos koeficientą padauginus iš bazinio dydžio. Pareigūno pareiginės algos didžiausias koeficientas negali viršyti Vadovybės apsaugos tarnybos direktoriaus pareiginės algos koeficiento, nustatyto šio įstatymo priede. 
 
 
 
 
-4. Pareigūnų, dirbusių ne visas mėnesio darbo dienas ar dirbančių ne visą darbo dieną, pareiginė alga apskaičiuojama taip: pareiginės algos dydis padalijamas iš nustatytų to mėnesio darbo valandų ar dienų skaičiaus, gautas darbo valandos ar darbo dienos atlygis padauginamas iš pareigūno dirbtų valandų ar dienų skaičiaus.
+4. Pareigūnų, dirbusių ne visas mėnesio darbo dienas ar dirbančių ne visą darbo dieną, pareiginė alga apskaičiuojama taip: pareiginės algos dydis padalijamas iš nustatytų to mėnesio darbo valandų ar dienų skaičiaus ir gautas darbo valandos ar darbo dienos atlygis padauginamas iš pareigūno dirbtų valandų ar dienų skaičiaus.
 
 
 
 
 5. Kasmetinių atostogų laikotarpiu pareigūnams mokamas vidutinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
 
 
 
 
-
-
-46 straipsnis. Priedas už tarnybinį rangą
-
-
-Pareigūnams priedas už tarnybinį rangą skaičiuojamas procentais nuo pareiginės algos ir yra tokio dydžio:
-
-
-1) devintojo, aštuntojo, septintojo ir šeštojo tarnybinių rangų pareigūnams – 10 procentų pareiginės algos;
-
-
-
-
-2) penktojo tarnybinio rango pareigūnams – 15 procentų pareiginės algos;
-
-
-
-
-3) ketvirtojo ir trečiojo tarnybinių rangų pareigūnams – 20 procentų pareiginės algos;
-
-
-
-
-4) antrojo tarnybinio rango pareigūnams – 25 procentų pareiginės algos;
-
-
-
-
-5) pirmojo tarnybinio rango pareigūnams – 30 procentų pareiginės algos.
+46 straipsnis. Neteko galios nuo 2024-01-01
+Straipsnio naikinimas:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
-
-
-
-
 
 
 
@@ -2316,7 +2357,10 @@ Pareigūnams priedas už tarnybinį rangą skaičiuojamas procentais nuo pareigi
 1. Pareigūno tarnybos stažas skaičiuojamas tarnybos pradžia laikant jo priėmimo į tarnybą Vadovybės apsaugos tarnyboje datą ir į tarnybos stažą papildomai įskaitant (tarp jų ir laikotarpius, buvusius iki 1990 m. kovo 11 d.):
 
 
-1) faktinį tarnybos vidaus reikalų, krašto apsaugos, valstybės saugumo, prokuratūros sistemose, Lietuvos Respublikos specialiųjų tyrimų tarnyboje, Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas), jam pavaldžiose įstaigose ir valstybės įmonėse, Lietuvos Respublikos muitinėje laiką nuo paskyrimo į pareigūno pareigas ar kario statuso įgijimo dienos;
+1) faktinį tarnybos vidaus reikalų, vidaus tarnybos, krašto apsaugos, valstybės saugumo, prokuratūros sistemose, Lietuvos Respublikos specialiųjų tyrimų tarnyboje, Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas), jam pavaldžiose įstaigose ir valstybės įmonėse, Lietuvos Respublikos muitinėje laiką nuo paskyrimo į pareigūno pareigas ar kario statuso įgijimo dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -2373,7 +2417,9 @@ Pareigūnams priedas už tarnybinį rangą skaičiuojamas procentais nuo pareigi
 
 
 
-2. Priedo už tarnybos Lietuvos valstybei metus dydis yra 1 procentas pareiginės algos už kiekvienus metus, įskaičiuojamus į pagal šio straipsnio 1 dalyje nustatytą tarnybos stažą, į jį papildomai įskaitant Valstybės tarnybos įstatyme nustatytą valstybės tarnautojo tarnybos stažą. Priedas už tarnybos Lietuvos valstybei metus negali viršyti 30 procentų pareiginės algos. 
+2. Priedo už tarnybos Lietuvos valstybei metus dydis yra 1 procentas pareiginės algos už kiekvienus metus, įskaičiuojamus į pagal šio straipsnio 1 dalyje nustatytą tarnybos stažą, į jį papildomai įskaitant Valstybės tarnybos įstatyme nustatytą valstybės tarnautojo tarnybos stažą. Priedas už tarnybos Lietuvos valstybei metus negali viršyti 20 procentų pareiginės algos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
 
 
@@ -2414,7 +2460,9 @@ Pareigūnams priedas už tarnybinį rangą skaičiuojamas procentais nuo pareigi
 
 
 
-7. Mokant pareigūnui už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, taikomas darbo užmokestis, kurį sudaro pareigūno pareiginė alga, priedas už tarnybinį rangą ir priedas už tarnybos Lietuvos valstybei metus. 
+7. Mokant pareigūnui už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, taikomas darbo užmokestis, kurį sudaro pareigūno pareiginė alga ir priedas už tarnybos Lietuvos valstybei metus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
 
 
@@ -2433,52 +2481,39 @@ Pareigūnams priedas už tarnybinį rangą skaičiuojamas procentais nuo pareigi
 
 
 
-2) už darbą, kai raštu pavedama laikinai atlikti ir kito pareigūno funkcijas;
+2) už pavadavimą, kai raštu pavedama laikinai atlikti ir kito pareigūno funkcijas;
 
 
 
 
-3) už tarnybinių gyvūnų priežiūrą ir rengimą;
-
-
-
-
-4) už tarnybinės veiklos specifiką.
+3) už tarnybinės veiklos specifiką (tarnybinių gyvūnų priežiūrą ir rengimą ir kita).
 
 
 
 
 
 
-2. Priemokos už įprastą darbo krūvį viršijančią veiklą, kai yra padidėjęs darbų mastas atliekant pareigybės aprašyme nustatytas funkcijas neviršijant nustatytos darbo laiko trukmės, dydį nustato Vadovybės apsaugos tarnybos direktorius. Šis dydis negali būti mažesnis kaip 5 procentai ir didesnis kaip 50 procentų pareiginės algos. 
+2. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytos priemokos negali būti mažesnės kaip 10 procentų pareigūno pareiginės algos. 
 
 
 
 
-3. Priemokos už darbą, kai raštu pavedama laikinai atlikti ir kito pareigūno funkcijas, dydį nustato Vadovybės apsaugos tarnybos direktorius. Šis dydis negali būti mažesnis kaip 5 procentai ir didesnis kaip 50 procentų pareiginės algos. 
+3. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų priemokų suma negali viršyti 80 procentų pareigūno pareiginės algos.
 
 
 
 
-4. Šio straipsnio 2 ir 3 dalyse nurodytų priemokų suma negali viršyti 50 procentų pareiginės algos. 
+4. Priemoka pareigūnui skiriama Vadovybės apsaugos tarnybos direktoriaus įsakymu.
 
 
 
 
-5. Priemokos už tarnybinių gyvūnų priežiūrą ir rengimą dydį, neviršijantį 20 procentų pareiginės algos, nustato Vadovybės apsaugos tarnybos direktorius.
+5. Pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kurių laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai pareigūnas tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į tarnybą (iš tarnybos)), iš Vadovybės apsaugos tarnybai skirtų valstybės biudžeto lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos išmokos skirtumas. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų pakeliui į tarnybą ar iš tarnybos tyrimo ir apskaitos tvarką nustato Vadovybės apsaugos tarnybos direktorius.
 
 
-
-
-6. Priemokos už tarnybinės veiklos specifiką visiems pareigūnams yra vienodo dydžio ir mokamos kiekvieną mėnesį. Priemoka už tarnybinės veiklos specifiką yra iki 1 bazinio dydžio. Šios priemokos dydį nustato Vadovybės apsaugos tarnybos direktorius.
-
-
-
-
-7. Pareigūnams, kurie tapo laikinai nedarbingi dėl tarnybinių pareigų atlikimo arba kurių laikinasis nedarbingumas susijęs su tarnybinių pareigų atlikimu (kai pareigūnas tampa laikinai nedarbingas ne dėl nelaimingo atsitikimo tarnyboje ar pakeliui į tarnybą (iš tarnybos), iš Vadovybės apsaugos tarnybai skirtų valstybės biudžeto lėšų Vyriausybės nustatyta tvarka kompensuojamas vidutinio jų darbo užmokesčio ir gautos ligos išmokos skirtumas. Nelaimingų atsitikimų tarnyboje, nelaimingų atsitikimų pakeliui į tarnybą ar iš tarnybos tyrimo ir apskaitos tvarką nustato Vadovybės apsaugos tarnybos direktorius. 
+Straipsnio pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
-
-
 
 
 
@@ -2516,7 +2551,10 @@ Pareigūnams priedas už tarnybinį rangą skaičiuojamas procentais nuo pareigi
 
 
 
-2. Pareigūnui, vienam auginančiam vaiką (įvaikį) iki 14 metų arba neįgalų vaiką (įvaikį) iki 18 metų, suteikiamos papildomos 5 darbo dienų kasmetinės atostogos. 
+2. Pareigūnui, vienam auginančiam vaiką (įvaikį) iki 14 metų arba vaiką (įvaikį) su negalia iki 18 metų, suteikiamos papildomos 5 darbo dienų kasmetinės atostogos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -2652,6 +2690,39 @@ TAR pastaba. Iki įstatymo Nr. XIII-2901 įsigaliojimo (2020-07-01) visos pareig
 
 
 
+521 straipsnis. Pareigūnų medicininės reabilitacijos, sveikatos grąžinamojo ir antirecidyvinio gydymo, prevencinės medicininės ir psichologinės reabilitacijos išlaidų apmokėjimas
+
+
+1. Iš Vidaus reikalų ministerijai ir (ar) Vadovybės apsaugos tarnybai skirtų valstybės biudžeto lėšų apmokama:
+
+
+1) pareigūnų, kurie atlikdami tarnybines pareigas buvo sužaloti, medicininė reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas, kai šis gydymas neapmokamas iš Privalomojo sveikatos draudimo fondo biudžeto;
+
+
+
+
+2) pareigūnų medicininė reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas, prevencinė medicininė ir psichologinė reabilitacija įstaigose, kurių savininko teises ir pareigas įgyvendina Vidaus reikalų ministerija, ir kitose asmens ir visuomenės sveikatos priežiūros įstaigose.
+
+
+
+
+
+
+2. Iš Vadovybės apsaugos tarnybai skirtų valstybės biudžeto lėšų apmokamos šio straipsnio 1 dalyje nurodytų paslaugų išlaidos įstaigose, kurių savininko teises ir pareigas įgyvendina Vidaus reikalų ministerija, ir kitose asmens ir visuomenės sveikatos priežiūros įstaigose, kai šių paslaugų poreikiui finansuoti nepakanka Vidaus reikalų ministerijai skirtų valstybės biudžeto lėšų.
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytų paslaugų išlaidų apmokėjimo iš Vadovybės apsaugos tarnybai skirtų valstybės biudžeto lėšų tvarką nustato Vadovybės apsaugos tarnybos direktorius.
+
+
+Papildyta straipsniu:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
+
+
+
+
 53 straipsnis. Pareigūnams garantuojama teisinė pagalba
 
 
@@ -2699,25 +2770,25 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-3. Pareigūnui, kuris buvo sužalotas, susižalojo arba kurio sveikata buvo sutrikdyta atliekant tarnybines pareigas, jeigu tarnybinių pareigų atlikimas buvo susijęs su didesniu pavojumi ar didesne rizika pareigūno gyvybei ar sveikatai, arba kurio sužalojimas, susižalojimas ar sveikatos sutrikdymas yra susijęs su jo tarnybinių pareigų atlikimu, jeigu tarnybinių pareigų atlikimas buvo susijęs su didesniu pavojumi ar didesne rizika pareigūno gyvybei ar sveikatai, arba kurio sveikata sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno statuso, Vyriausybės nustatyta tvarka išmokama kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu, atsižvelgiant į netekto darbingumo lygį ir sveikatos sutrikdymo mastą. Šioje dalyje nurodytiems pareigūnams nustatomos šios kompensacijos:
+3. Pareigūnui, kuris buvo sužalotas, susižalojo arba kurio sveikata buvo sutrikdyta atliekant tarnybines pareigas, jeigu tarnybinių pareigų atlikimas buvo susijęs su didesniu pavojumi ar didesne rizika pareigūno gyvybei ar sveikatai, arba kurio sužalojimas, susižalojimas ar sveikatos sutrikdymas yra susijęs su jo tarnybinių pareigų atlikimu, jeigu tarnybinių pareigų atlikimas buvo susijęs su didesniu pavojumi ar didesne rizika pareigūno gyvybei ar sveikatai, arba kurio sveikata sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno statuso, Vyriausybės nustatyta tvarka išmokama kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) vienkartinės kompensacijos ar netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) periodinės kompensacijos, mokėtinos ne ilgiau kaip 12 mėnesių, dydžiu, atsižvelgiant į netekto dalyvumo lygį (iki 2023 m. gruodžio 31 d. – darbingumo lygį) ir sveikatos sutrikdymo mastą. Šioje dalyje nurodytiems pareigūnams nustatomos šios kompensacijos:
 
 
-1) netekusiems 75–100 procentų darbingumo dėl sužalojimo ar susižalojimo, – 46,55 mėnesio pareigūno vidutinio darbo užmokesčio dydžio;
-
-
-
-
-2) netekusiems 60–70 procentų darbingumo dėl sužalojimo ar susižalojimo, – 37,24 mėnesio pareigūno vidutinio darbo užmokesčio dydžio;
+1) netekusiems 75–100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) dėl sužalojimo ar susižalojimo – 46,55 mėnesio pareigūno vidutinio darbo užmokesčio dydžio;
 
 
 
 
-3) netekusiems 45–55 procentų darbingumo dėl sužalojimo ar susižalojimo, – 27,93 mėnesio pareigūno vidutinio darbo užmokesčio dydžio;
+2) netekusiems 60–70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) dėl sužalojimo ar susižalojimo – 37,24 mėnesio pareigūno vidutinio darbo užmokesčio dydžio;
 
 
 
 
-4) netekusiems iki 40 procentų darbingumo dėl sužalojimo ar susižalojimo ir dėl to pripažintiems netinkamais tarnybai, – 23,28 mėnesio pareigūno vidutinio darbo užmokesčio dydžio;
+3) netekusiems 45–55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) dėl sužalojimo ar susižalojimo – 27,93 mėnesio pareigūno vidutinio darbo užmokesčio dydžio;
+
+
+
+
+4) netekusiems iki 40 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) dėl sužalojimo ar susižalojimo ir dėl to pripažintiems netinkamais tarnybai – 23,28 mėnesio pareigūno vidutinio darbo užmokesčio dydžio;
 
 
 
@@ -2732,10 +2803,12 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-7) lengvo sveikatos sutrikdymo atveju – nuo 0,78 iki 9,31 mėnesio pareigūno vidutinio darbo užmokesčio dydžio.
-TAR pastaba. 55 straipsnio 3 dalyje nustatytos kompensacijos mokamos pagal sveikatos sutrikdymo metu galiojusius teisės aktus.
+7) lengvo sveikatos sutrikdymo atveju – nuo 0,78 iki 9,31 mėnesio pareigūno vidutinio darbo užmokesčio dydžio. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -2785,7 +2858,10 @@ TAR pastaba. 55 straipsnio 3 dalyje nustatytos kompensacijos mokamos pagal sveik
 
 
 
-7. Pareigūnui, kuriam buvo išmokėta kompensacija pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą ir kuriam vėliau dėl to paties sveikatos sutrikdymo nustatomas ir darbingumo lygis, papildomai išmokamas pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą išmokėtos kompensacijos ir šio straipsnio 3 dalies 1, 2, 3 arba 4 punkte nurodytos kompensacijos, atsižvelgiant į nustatytą darbingumo lygį, skirtumas.
+7. Pareigūnui, kuriam buvo išmokėta kompensacija pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą ir kuriam vėliau dėl to paties sveikatos sutrikdymo nustatomas ir dalyvumo lygis (iki 2023 m. gruodžio 31 d. – darbingumo lygis), papildomai išmokamas pagal šio straipsnio 3 dalies 5, 6 arba 7 punktą išmokėtos kompensacijos ir šio straipsnio 3 dalies 1, 2, 3 arba 4 punkte nurodytos kompensacijos, atsižvelgiant į nustatytą dalyvumo lygį (iki 2023 m. gruodžio 31 d. – darbingumo lygį), skirtumas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -2963,7 +3039,10 @@ PAREIGŪNŲ NUŠALINIMAS NUO PAREIGŲ IR ATLEIDIMAS IŠ TARNYBOS
 
 
 
-4. Pareigūnui nušalinimo nuo pareigų laikotarpiu darbo užmokestis nemokamas. Pareigūnas, nuo tarnybos nušalintas nepagrįstai ar nepasitvirtinus aplinkybėms, lėmusioms nušalinimą, grąžinamas į eitas pareigas, per 10 darbo dienų jam išmokamas darbo užmokestis už laikotarpį, kurį jis buvo nušalintas nuo tarnybos, ir delspinigiai, kurių dydį tvirtina Lietuvos Respublikos socialinės apsaugos ir darbo ministras. Delspinigiai nemokami, jeigu pareigūnui žala atlyginta kituose įstatymuose nustatyta tvarka. Delspinigių dydį socialinės apsaugos ir darbo ministras tvirtina kiekvienais metais iki vasario 1 dienos, atsižvelgdamas į Lietuvos statistikos departamento paskelbtą vartotojų kainų indeksą per praėjusius kalendorinius metus. 
+4. Pareigūnui nušalinimo nuo pareigų laikotarpiu darbo užmokestis nemokamas. Pareigūnas, nuo tarnybos nušalintas nepagrįstai ar nepasitvirtinus aplinkybėms, lėmusioms nušalinimą, grąžinamas į eitas pareigas, per 10 darbo dienų jam išmokamas darbo užmokestis už laikotarpį, kurį jis buvo nušalintas nuo tarnybos, ir delspinigiai, kurių dydį tvirtina Lietuvos Respublikos socialinės apsaugos ir darbo ministras. Delspinigiai nemokami, jeigu pareigūnui žala atlyginta kituose įstatymuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -3082,7 +3161,14 @@ Pareigūnas iš tarnybos atleidžiamas ir su juo sudaryta tarnybos sutartis nutr
 
 
 
-19) kai jis nesutinka eiti jam pasiūlytų kitų pareigų, teismo sprendimu į jo einamas pareigas grąžinus anksčiau šias pareigas ėjusį pareigūną.
+19) kai jis nesutinka eiti jam pasiūlytų kitų pareigų, teismo sprendimu į jo einamas pareigas grąžinus anksčiau šias pareigas ėjusį pareigūną;
+
+
+
+
+20) pasibaigus šio įstatymo 74 straipsnio 2 dalyje nurodytam laikinam paskyrimo į pareigas laikotarpiui.
+Papildyta straipsnio punktu:
+Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
  
 
 
@@ -3113,7 +3199,10 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
 
 
-4. Pareigūnas šio įstatymo 60 straipsnio 14 punkte nustatytu pagrindu iš tarnybos atleidžiamas ir su juo sudaryta tarnybos sutartis nutraukiama, apie tai įspėjus ne vėliau kaip prieš 2 mėnesius iki atleidimo. Nėščiai pareigūnei (kai Vadovybės apsaugos tarnyba likviduojama), pareigūnui, vienam auginančiam vaiką (vaikus) iki 14 metų ar auginančiam neįgalų vaiką (įvaikį) iki 18 metų, pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius iki atleidimo. 
+4. Pareigūnas šio įstatymo 60 straipsnio 14 punkte nustatytu pagrindu iš tarnybos atleidžiamas ir su juo sudaryta tarnybos sutartis nutraukiama, apie tai įspėjus ne vėliau kaip prieš 2 mėnesius iki atleidimo. Nėščiai pareigūnei (kai Vadovybės apsaugos tarnyba likviduojama), pareigūnui, vienam auginančiam vaiką (vaikus) iki 14 metų ar auginančiam vaiką (įvaikį) su negalia iki 18 metų, pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius iki atleidimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -3274,7 +3363,10 @@ PAREIGŪNŲ SKATINIMAS IR ATSAKOMYBĖ
 
 
 
-5) perkėlimas į žemesnes pareigas, suteikiant pareigoms, į kurias perkeliama, priskirtą pakopą, atitinkančią jo turėtos pakopos eiliškumą;
+5) perkėlimas į žemesnes pareigas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -3743,7 +3835,10 @@ VII SKYRIUS
 7. Kai nėra neišvengiamo pavojaus pareigūnų ar kitų asmenų gyvybei ar sveikatai, specialiąsias priemones (išskyrus antrankius, asmenų sulaikymo, surišimo ar tramdymo priemones ar įrankius) naudoti draudžiama:
 
 
-1) prieš asmenis, jei akivaizdu arba pareigūnui žinoma, kad jie neįgalūs;
+1) prieš asmenis, jei akivaizdu arba pareigūnui žinoma, kad jie yra su negalia;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+ 
 
 
 
@@ -3881,6 +3976,104 @@ VII SKYRIUS
 
 
 
+VIII SKYRIUS
+VADOVYBĖS APSAUGOS TARNYBOS REZERVAS
+ 
+
+
+72 straipsnis. Vadovybės apsaugos tarnybos rezervo formavimas
+
+
+1. Vadovybės apsaugos tarnybos rezervas formuojamas ir asmenys į šį rezervą įtraukiami Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka.
+
+
+
+
+2. Vadovybės apsaugos tarnybos rezervo nariais gali būti buvę Vadovybės apsaugos tarnybos pareigūnai, atitinkantys šio įstatymo 19 straipsnio 2 dalies 1, 2, 8 punktuose, 3 dalyje, 20 straipsnio 1 dalies 1, 2, 4, 6 punktuose nustatytus reikalavimus, ne vyresni kaip 65 metų amžiaus, savanoriškais pagrindais jų rašytiniu prašymu Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka įtraukti į Vadovybės apsaugos tarnybos rezervą.
+ 
+
+
+
+
+
+
+73 straipsnis. Buvimo Vadovybės apsaugos tarnybos rezerve ypatumai
+
+
+1. Vadovybės apsaugos tarnybos rezervo nariai Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka dalyvauja kvalifikacijos palaikymo ir tobulinimo pratybose ir mokymuose, kurių metu gali būti aprūpinami specialia apranga. Vadovybės apsaugos tarnybos rezervo narių pratybos ir mokymai finansuojami iš tam tikslui Vadovybės apsaugos tarnybai patvirtintų valstybės biudžeto asignavimų.
+
+
+
+
+2. Vadovybės apsaugos tarnybos rezervo nario žūties (mirties), sužalojimo, susižalojimo arba sveikatos sutrikdymo Vadovybės apsaugos tarnybos organizuojamų kvalifikacijos palaikymo ir tobulinimo pratybų ar mokymų metu atvejais kompensacijos mokamos šio įstatymo 55 straipsnio 1 ir 3 dalyse nustatytomis sąlygomis ir tvarka, išskyrus tai, kad kompensacijų dydis apskaičiuojamas pagal įvykio metu buvusią Vyriausybės nustatytą minimaliąją mėnesinę algą.
+
+
+
+
+3. Buvusį Vadovybės apsaugos tarnybos pareigūną įtraukus į Vadovybės apsaugos tarnybos rezervą, jo atleidimo iš Vadovybės apsaugos tarnybos dieną turėtas tarnybinis rangas tampa garbės atsargos tarnybiniu rangu nuo šio asmens įtraukimo į Vadovybės apsaugos tarnybos rezervą dienos.
+ 
+
+
+
+
+
+
+74 straipsnis. Vadovybės apsaugos tarnybos rezervo narių pasitelkimas 
+
+
+1. Vadovybės apsaugos tarnybos rezervo nariai Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka gali būti laikinai pasitelkiami Vadovybės apsaugos tarnybos funkcijoms atlikti, atsižvelgiant į Vadovybės apsaugos tarnybos rezervo narių kvalifikaciją ir Vadovybės apsaugos tarnybos direktoriaus nustatytų reikalavimų atitiktį.
+
+
+
+
+2. Vadovybės apsaugos tarnybos rezervo nariai, pasitelkiami Vadovybės apsaugos tarnybos funkcijoms atlikti, Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka gali būti laikinai skiriami į pareigūno pareigas, sudarant su jais terminuotas pareigūnų tarnybos sutartis, arba su jais gali būti sudaromos terminuotos darbo sutartys.
+
+
+
+
+3. Vadovybės apsaugos tarnybos rezervo nariai, laikinai skiriami į pareigūno pareigas, turi atitikti šio įstatymo 19 straipsnio 2 dalies 6 ir 7 punktuose, 21 straipsnio 4 dalyje nustatytus reikalavimus. Jų sveikatos būklė tikrinama atliekant specializuotą medicininę ekspertizę. Jiems taip pat yra taikomi šio įstatymo 31 straipsnyje numatyti apribojimai.
+ 
+
+
+
+
+
+
+75 straipsnis. Išbraukimas iš Vadovybės apsaugos tarnybos rezervo
+
+
+Vadovybės apsaugos tarnybos rezervo nariai iš šio rezervo išbraukiami Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka:
+
+
+1) pačių prašymu;
+
+
+
+
+2) jeigu netenka Lietuvos Respublikos pilietybės;
+
+
+
+
+3) jiems sukakus 65 metus;
+
+
+
+
+4) kai neatitinka šio įstatymo 72 straipsnio 2 dalyje nustatytų reikalavimų.
+
+
+
+
+
+
+Papildyta skyriumi:
+Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
+ 
+
+
+
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -3894,117 +4087,80 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
- 
 Lietuvos Respublikos
 vadovybės apsaugos įstatymo
 priedas
  
-LIETUVOS RESPUBLIKOS VADOVYBĖS APSAUGOS TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
-(Baziniais dydžiais)
+LIETUVOS RESPUBLIKOS VADOVYBĖS APSAUGOS TARNYBOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
+ 
 
 
 
- Eil. 
+ Eil. Nr. 
+ Tarnybinis rangas 
  Pareigybės pavadinimas 
  Pareiginės algos koeficientas 
 
 
- Nr. 
- I 
- II pakopa 
- III pakopa 
- IV pakopa 
- V pakopa 
- VI pakopa 
-
-
-
- pakopa 
-
-
  1. 
+ Pirmasis tarnybinis rangas 
  Direktorius 
- 18,35 
+ 3,8 
 
 
  2. 
+ Antrasis tarnybinis rangas 
  Direktoriaus pirmasis pavaduotojas, direktoriaus pavaduotojas 
- 17,61 
+ nuo 2,29  
 
 
  3. 
+ Trečiasis tarnybinis rangas 
  Valdybos viršininkas 
- 14,42 
- 14,85 
- 15,30 
- 15,76 
- 16,23 
- 16,72 
+ nuo 1,80 
 
 
  4. 
+ Ketvirtasis tarnybinis rangas 
  Valdybos viršininko pavaduotojas; skyriaus, kuris nėra kito struktūrinio padalinio sudedamoji dalis, viršininkas 
- 13,72 
- 14,13 
- 14,56 
- 14,99 
- 15,44 
- 15,87 
+ nuo 1,72 
 
 
  5. 
+ Penktasis tarnybinis rangas 
  Skyriaus, kuris yra kito struktūrinio padalinio sudedamoji dalis, viršininkas 
- 11,76 
- 12,47 
- 13,21 
- 14,01 
- 14,85 
- 15,47 
+ nuo 1,41 
 
 
  6. 
+ Šeštasis tarnybinis rangas 
  Vyriausiasis agentas 
- 9,80 
- 10,78 
- 11,86 
- 13,04 
- 14,35 
- 15,20 
+ nuo 1,12 
 
 
  7. 
+ Septintasis tarnybinis rangas 
  Vyresnysis agentas 
- 8,50 
- 9,44 
- 10,57 
- 11,84 
- 13,26 
- 14,20 
+ nuo 0,97 
 
 
  8. 
+ Aštuntasis tarnybinis rangas 
  Agentas 
- 8,20 
- 9,10 
- 10,10 
- 11,21 
- 12,45 
- 13,70 
+ nuo 0,94 
 
 
  9. 
+ Devintasis tarnybinis rangas 
  Jaunesnysis agentas 
- 6,70 
- 7,57 
- 8,56 
- 9,67 
- 10,92 
- 12,00 
+ nuo 0,77 
 
 
 
+ 
+–––––––––––––––––––
+Priedo pakeitimai:
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
  
  
  
@@ -4090,5 +4246,12 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1181, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14911
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 7 ir 9 straipsnių pakeitimo įstatymas
  
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 19 ir 60 straipsnių pakeitimo ir Įstatymo papildymo VIII skyriumi įstatymas
  
-part_d454bbd77a3e44fbbce90b5c56254185_end
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 17, 18, 20, 23, 31, 36, 37, 38, 39, 43, 44, 45, 47, 48, 49, 50, 55, 59, 61, 65, 70 straipsnių, priedo pakeitimo, Įstatymo papildymo 52-1 straipsniu ir 46 straipsnio pripažinimo netekusiu galios įstatymas
