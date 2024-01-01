@@ -21,7 +21,7 @@ Neoficialus ?statymo tekstas
  
 
 
-Suvestinė redakcija nuo 2023-11-10 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1613,7 +1613,10 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 
 
 
-8. Lietuvos bankas, siekdamas atlikti šio straipsnio 7 dalyje nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu jie žinomi), įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdis ir numatomi veiksmai. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Lietuvos bankas, nesutinkantis su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, turi teisę per 7 dienas apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas. Lietuvos banko atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+8. Lietuvos bankas, siekdamas atlikti šio straipsnio 7 dalyje nurodytus veiksmus, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Prašyme turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu jie žinomi), įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdis ir numatomi veiksmai. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Lietuvos bankas, nesutinkantis su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą, turi teisę per 7 dienas apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 dienas. Lietuvos banko atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
+ 
 
 
 
@@ -1791,7 +1794,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-8. Jeigu Lietuvos bankas priima sprendimą dėl veiksmų, kuriems atlikti reikalingas teismo leidimas, prašymas leisti atlikti šiuos veiksmus pateikiamas Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas juridinio asmens pavadinimas, įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdis ir numatomi patikrinimo veiksmai. Prie prašymo turi būti pridėti įrodymai, kuriais patvirtinami įtariami pažeidimai, finansų rinkos dalyvių veiklos trūkumai arba grėsmė finansų sistemos stabilumui ar kitiems viešiesiems interesams. Prašymą išduoti teismo leidimą rašytinio proceso tvarka nagrinėja Vilniaus apygardos administracinis teismas. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Lietuvos bankas, nesutinkantis su Vilniaus apygardos administracinio teismo teisėjo sprendimu atmesti prašymą, turi teisę per 7 dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Lietuvos banko atstovai turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+8. Jeigu Lietuvos bankas priima sprendimą dėl veiksmų, kuriems atlikti reikalingas teismo leidimas, prašymas leisti atlikti šiuos veiksmus pateikiamas pirmosios instancijos administraciniam teismui. Prašyme turi būti nurodyta juridinio asmens pavadinimas, įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdis ir numatomi patikrinimo veiksmai. Prie prašymo turi būti pridėti įrodymai, kuriais patvirtinami įtariami pažeidimai, finansų rinkos dalyvių veiklos trūkumai arba grėsmė finansų sistemos stabilumui ar kitiems viešiesiems interesams. Prašymą išduoti teismo leidimą rašytinio proceso tvarka nagrinėja pirmosios instancijos administracinis teismas. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Lietuvos bankas, nesutinkantis su pirmosios instancijos administracinio teismo teisėjo sprendimu atmesti prašymą, turi teisę per 7 dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas. Lietuvos banko atstovai turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
+ 
 
 
 
@@ -3375,7 +3381,7 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
-part_db9506ffb4944e529e06793c55835cdd_end
+part_68defafc5aed4dba84a3cc907d88df65_end
 
 
  
@@ -3972,3 +3978,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1461, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22572
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 43-3, 43-7 straipsnių ir 1, 3 priedų pakeitimo įstatymo Nr. XIV-822 2 straipsnio pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 42-1 straipsnių pakeitimo įstatymas
