@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11BAD851321B"
 
 # Lietuvos Respublikos mėgėjų žvejybos įstatymas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 118-4395, i. k. 1041010ISTA0IX-2389
  
@@ -181,7 +181,10 @@ MĖGĖJŲ ŽVEJYBOS REGULIAVIMAS IR PLĖTRA
 
 
 
-4. Žuvų išteklių tyrimai Baltijos jūroje ir Kuršių mariose atliekami kiekvienais metais, kituose didesniuose kaip 500 ha žuvininkystės vandens telkiniuose, kuriuose leidžiama užsiimti versline žvejyba, – ne rečiau kaip kas 2 metai. Likusiuose didesniuose kaip 100 ha žuvininkystės vandens telkiniuose žuvų išteklių tyrimai atliekami ne rečiau kaip kas 5 metai. Žuvų išteklių tyrimai vidaus vandenyse atliekami Aplinkos ministerijos nustatyta tvarka, o jūrų vandenyse – Žemės ūkio ministerijos nustatyta tvarka. Žuvų išteklių tyrimus atliekantys fiziniai ar juridiniai asmenys šių tyrimų duomenis nustatyta tvarka privalo pateikti Aplinkos ministerijai ir Žemės ūkio ministerijai.
+4. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2276, 2023-11-21, paskelbta TAR 2023-11-29, i. k. 2023-22998
+ 
 
 
 
@@ -231,7 +234,9 @@ MĖGĖJŲ ŽVEJYBOS REGULIAVIMAS IR PLĖTRA
 
 
 
-6. Mėgėjų žvejybai privačiuose žuvininkystės vandens telkiniuose Aplinkos ministerija ar jos įgaliota institucija nustato tik šio straipsnio 5 dalies 1, 2 ir 5 punktuose nurodytas mėgėjų žvejybos reguliavimo priemones.
+6. Mėgėjų žvejybai privačiuose žuvininkystės vandens telkiniuose aplinkos ministras ar jo įgaliota institucija nustato tik šio straipsnio 5 dalies 1, 2 ir 5 punktuose nurodytas mėgėjų žvejybos reguliavimo priemones. Šio straipsnio 5 dalies 3, 4, 6, 7 ir 8 punktuose nurodytos mėgėjų žvejybos reguliavimo priemonės nustatomos visų vandens telkinio savininkų bendru sutarimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2276, 2023-11-21, paskelbta TAR 2023-11-29, i. k. 2023-22998
  
 
 
@@ -379,7 +384,10 @@ LEIDIMAI NAUDOTI ŽVEJYBOS PLOTĄ
 
 
 
-5. Sprendimas suteikti teisę naudoti žvejybos plotą didesniame kaip 100 ha valstybiniame žuvininkystės vandens telkinyje negali būti priimamas tol, kol tame žuvininkystės vandens telkinyje Aplinkos ministerijos nustatyta tvarka neatlikti žuvų išteklių tyrimai. Žuvų išteklių tyrimai atliekami ne anksčiau kaip prieš 2 metus iki sprendimo išduoti leidimą naudoti žvejybos plotą priėmimo ir paskutiniais leidimo naudoti žvejybos plotą galiojimo metais.
+5. Sprendimas suteikti teisę naudoti žvejybos plotą aukciono būdu didesniame kaip 100 ha valstybiniame žuvininkystės vandens telkinyje gali būti priimamas, tik jeigu tame žuvininkystės vandens telkinyje aplinkos ministro nustatyta tvarka ne anksčiau kaip 2 metai iki sprendimo priėmimo atlikti žuvų išteklių tyrimai. Vandens telkiniuose, į kuriuos išduoti leidimai naudoti žvejybos plotą, žuvų išteklių tyrimai atliekami ne rečiau kaip kartą per leidimo naudoti žvejybos plotą galiojimo laikotarpį. Žuvų išteklių tyrimus atliekantys ūkio subjektai šių tyrimų duomenis privalo teikti Aplinkos ministerijai arba jos įgaliotai institucijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2276, 2023-11-21, paskelbta TAR 2023-11-29, i. k. 2023-22998
+ 
 
 
 
@@ -556,22 +564,17 @@ LEIDIMAI NAUDOTI ŽVEJYBOS PLOTĄ
 1. Žvejybos ploto naudotojas žuvininkystės vandens telkinyje, kuriame turi leidimą naudoti žvejybos plotą, turi teisę:
 
 
-1) Aplinkos ministerijos nustatyta tvarka organizuoti mėgėjų ar limituotą žvejybą;
+1) aplinkos ministro nustatyta tvarka organizuoti mėgėjų ar limituotą žvejybą;
 
 
 
 
-2) Aplinkos ministerijos nustatyta tvarka žvejoti verslinės žvejybos įrankiais;
+2) Vyriausybės nustatyta tvarka gauti valstybės paramą žuvų ištekliams atkurti ir apsaugoti;
 
 
 
 
-3) Vyriausybės nustatyta tvarka gauti valstybės paramą, skirtą žuvų ištekliams atkurti ir apsaugoti;
-
-
-
-
-4) naudotis kitomis teisės aktų nustatytomis teisėmis.
+3) naudotis kitomis teisės aktų nustatytomis teisėmis.
 
 
 
@@ -586,27 +589,34 @@ LEIDIMAI NAUDOTI ŽVEJYBOS PLOTĄ
 
 
 
-2) Aplinkos ministerijos ar jos įgaliotos institucijos nustatyta tvarka organizuoti žuvų išteklių apsaugą;
+2) aplinkos ministro ar jo įgaliotos institucijos nustatyta tvarka organizuoti žuvų išteklių apsaugą;
 
 
 
 
-3) Aplinkos ministerijos nustatyta tvarka išduoti mėgėjų žvejybos leidimus;
+3) aplinkos ministro nustatyta tvarka išduoti mėgėjų žvejybos leidimus;
 
 
 
 
-4) Aplinkos ministerijos ar jos įgaliotos institucijos nustatyta tvarka teikti informaciją apie žuvų išteklių naudojimą, atkūrimą ir apsaugą žvejybos plote;
+4) aplinkos ministro ar jo įgaliotos institucijos nustatyta tvarka teikti informaciją apie žuvų išteklių naudojimą, atkūrimą ir apsaugą žvejybos plote;
 
 
 
 
-5) laikytis nustatytų specialiųjų vandens telkinių naudojimo sąlygų, žvejybos taisyklių, kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų, leidimo naudoti žvejybos plotą sąlygų ir reikalavimų.
+5) laikytis nustatytų specialiųjų vandens telkinių naudojimo sąlygų, žvejybos taisyklių, kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų, leidimo naudoti žvejybos plotą sąlygų ir reikalavimų;
+
+
+
+
+6) aplinkos ministro nustatyta tvarka organizuoti žuvų išteklių tyrimus.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2276, 2023-11-21, paskelbta TAR 2023-11-29, i. k. 2023-22998
  
-
-
-
-
 
 
 
@@ -621,89 +631,82 @@ TEISĖS Į MĖGĖJŲ ŽVEJYBĄ SUTEIKIMAS. ŽUVŲ IŠTEKLIŲ APSAUGA. ASMENŲ, U
 11 straipsnis. Teisės į mėgėjų žvejybą suteikimas
 
 
-1. Teisę į mėgėjų žvejybą suteikia mėgėjų žvejybos leidimas, išskyrus šio straipsnio 7 dalyje numatytus atvejus.
+1. Teisę į mėgėjų žvejybą suteikia mėgėjų žvejybos leidimas, išskyrus šio straipsnio 9 dalyje numatytus atvejus.
 
 
 
 
-2. Už mėgėjų žvejybos leidimą žvejoti valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą, mokama:
+2. Už mėgėjų žvejybos leidimą žvejoti valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą ir kuriuose neorganizuota limituota žvejyba, arba valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą ir kuriame neorganizuota limituota žvejyba, mokama:
 
 
-1) dviem paroms – 1 euras 40 euro centų;
-
-
-
-
-2) mėnesiui – 5 eurai; 
+1) dviem paroms – 3 eurai;
 
 
 
 
-3) metams – 14 eurų. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
- 
+2) mėnesiui – 10 eurų;
 
 
 
 
-3. Už mėgėjų žvejybos leidimą žvejoti privačiame žuvininkystės vandens telkinyje arba valstybiniame žuvininkystės vandens telkinyje, į kurį neišduotas leidimas naudoti žvejybos plotą ir organizuota limituota žvejyba, mokama:
-
-
-1) parai – 2 eurai 50 euro centų;
+3) metams – 30 eurų.
 
 
 
 
-2) savaitei – 8 eurai;
+
+
+3. Už mėgėjų žvejybos leidimą žvejoti paleidžiant žuvis valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą ir kuriuose neorganizuota limituota žvejyba, arba valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą ir kuriame neorganizuota limituota žvejyba, mokama:
+
+
+1) mėnesiui – 10 eurų;
 
 
 
 
-3) mėnesiui – 14 eurų. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
- 
+2) metams – 25 eurai.
 
 
 
 
-4. Už mėgėjų žvejybos leidimą žvejoti valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą, mokama:
 
 
-1) dviem paroms – 1 euras 40 euro centų;
+4. Už mėgėjų žvejybos leidimą žvejoti valstybiniame žuvininkystės vandens telkinyje, į kurį neišduotas leidimas naudoti žvejybos plotą ir kuriame organizuota limituota žvejyba, išskyrus šio straipsnio 5 dalyje numatytą lašišų ir šlakių limituotą žvejybą, mokama:
 
 
-
-
-2) mėnesiui – 5 eurai;
+1) parai – 5 eurai;
 
 
 
 
-3) metams – 14 eurų. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
- 
+2) savaitei – 15 eurų;
 
 
 
 
-5. Už mėgėjų žvejybos leidimą žvejoti vieną parą privačiame žuvininkystės vandens telkinyje, kuriame organizuota limituota žvejyba, arba valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą ir organizuota limituota žvejyba, mokama 14 eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
- 
+3) mėnesiui – 30 eurų.
 
 
 
 
-6. Už mėgėjų žvejybos leidimą mokama:
+
+
+5. Už vienos paros mėgėjų žvejybos leidimą lašišų ir šlakių limituotai žvejybai mokama 15 eurų, jeigu žvejojama paleidžiant visas sugautas lašišas ir šlakius, – 5 eurai.
+
+
+
+
+6. Už mėgėjų žvejybos leidimą žvejoti vieną parą valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą ir kuriame organizuota limituota žvejyba, mokama 15 eurų.
+
+
+
+
+7. Privačių žuvininkystės vandens telkinių savininkai nustato mėgėjų žvejybos leidimų kainas jiems nuosavybės teise priklausančiuose žuvininkystės vandens telkiniuose.
+
+
+
+
+8. Už mėgėjų žvejybos leidimą mokama:
 
 
 1) vandens telkinio savininkui, kai žvejojama jam nuosavybės teise priklausančiame žuvininkystės vandens telkinyje;
@@ -711,28 +714,34 @@ Nr. XII-1198, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14125
 
 
 
-2) žvejybos ploto naudotojui, kai žvejojama žuvininkystės vandens telkinyje, kuriame jam išduotas leidimas naudoti žvejybos plotą;
+2) žvejybos ploto naudotojui, kai žvejojama žuvininkystės vandens telkinyje, į kurį jam išduotas leidimas naudoti žvejybos plotą;
 
 
 
 
-3) į valstybės biudžetą teisės aktų nustatyta tvarka Aplinkos apsaugos rėmimo programai finansuoti, kai žvejojama valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą. 
+3) į valstybės biudžetą teisės aktų nustatyta tvarka Aplinkos apsaugos rėmimo programai finansuoti, kai žvejojama valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą.
 
 
 
 
 
 
-7. Žvejoti nemokamai, be mėgėjų žvejybos leidimų, turi teisę fiziniai asmenys iki 16 metų, valstybinio socialinio draudimo pensininkai ir neįgalieji, o Nemuno deltos regioninio parko vandens telkiniuose – ir fiziniai asmenys, deklaravę gyvenamąją vietą Rusnės seniūnijoje.
+9. Žvejoti nemokamai, be mėgėjų žvejybos leidimų, turi teisę fiziniai asmenys iki 18 metų, valstybinio socialinio draudimo pensininkai ir asmenys su negalia, jeigu turi tokią teisę patvirtinantį dokumentą.
 
 
 
 
-8. Žvejybos plotų naudotojai ir privačių žuvininkystės vandens telkinių savininkai turi teisę sumažinti mokestį už mėgėjų žvejybos leidimą arba suteikti nemokamą teisę žvejoti, taip pat suteikti teisę į limituotą žvejybą ilgesniam, negu šiame įstatyme nustatyta, laikotarpiui, neviršydami nustatyto mokesčio už mėgėjų žvejybos leidimą dydžio už vieną parą.
+10. Žvejybos plotų naudotojai turi teisę sumažinti mokestį už mėgėjų žvejybos leidimą, išduoti mėgėjų žvejybos leidimą nemokamai, suteikti teisę įsigijus vieną mėgėjų žvejybos leidimą žvejoti daugiau negu viename žuvininkystės vandens telkinyje ir suteikti teisę į limituotą žvejybą ilgesniam, negu nustatyta šiame įstatyme, laikotarpiui, neviršydami šiame straipsnyje nustatyto mokesčio už mėgėjų žvejybos leidimą dydžio už vieną parą. 
+
+
+
+
+11. Mėgėjų žvejybos leidimų išdavimo tvarką nustato aplinkos ministras.
 
 
 Straipsnio pakeitimai:
 Nr. XII-28, 2012-12-04, Žin., 2012, Nr. 143-7379 (2012-12-11), i. k. 1121010ISTA00XII-28
+Nr. XIV-2276, 2023-11-21, paskelbta TAR 2023-11-29, i. k. 2023-22998
  
 
 
@@ -882,3 +891,8 @@ Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 11 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1993, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04588
 Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 5 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2276, 2023-11-21, paskelbta TAR 2023-11-29, i. k. 2023-22998
+Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 3, 6, 10 ir 11 straipsnių pakeitimo įstatymas
