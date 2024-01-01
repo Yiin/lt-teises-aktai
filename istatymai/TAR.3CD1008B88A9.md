@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
- 
-TAR pastaba. Įstatymo 6 straipsnio 10 punkto ir 7 straipsnio 1 dalies 5 punkto nuostatos netaikomos iki įstatymo Nr. XIV-1931 įsigaliojimo (2023-06-01) patvirtintam karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašui, išskyrus atvejus, kai, įsigaliojusius šiam įstatymui, šis sąrašas yra keičiamas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1931, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09519
-Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 6 ir 7 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2021-01-01:
 Nr. XIII-3228, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15862
@@ -471,7 +466,10 @@ Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
 
 
 
-7) dalyvauja konkurso ir atrankos komisijose priimant į pareigas civilinių mobilizacijos institucijų valstybės tarnautojus ir pakaitinius valstybės tarnautojus, kurie pagal institucijos kompetenciją organizuotų, koordinuotų, kontroliuotų šio įstatymo 10 straipsnio 1 dalyje nustatytų funkcijų atlikimą;
+7) dalyvauja konkurso komisijos darbe priimant į pareigas civilinių mobilizacijos institucijų valstybės tarnautojus, kurie pagal institucijos kompetenciją organizuotų, koordinuotų, kontroliuotų šio įstatymo 10 straipsnio 1 dalyje nustatytų funkcijų atlikimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2010, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11588
+ 
 
 
 
@@ -1539,3 +1537,8 @@ Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1931, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09519
 Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2010, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11588
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 8 straipsnio pakeitimo įstatymas
