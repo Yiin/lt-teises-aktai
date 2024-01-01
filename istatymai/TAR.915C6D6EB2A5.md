@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
  
@@ -213,7 +213,10 @@ Socialinė parama mokiniams
 
 
 
-2. Mokiniai turi teisę į nemokamus pietus, maitinimą mokyklų organizuojamose vasaros poilsio stovyklose ir paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2 valstybės remiamų pajamų dydžiai, atsižvelgiant į bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas šiais atvejais: ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra neįgalus. 
+2. Mokiniai turi teisę į nemokamus pietus, maitinimą mokyklų organizuojamose vasaros poilsio stovyklose ir paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2 valstybės remiamų pajamų dydžiai, atsižvelgiant į bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas šiais atvejais: ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra asmuo su negalia.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
+ 
 
 
 
@@ -722,7 +725,10 @@ Nr. XIV-130, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28987
 
 
 
-4) turi teisę savivaldybės tarybos nustatyta tvarka, patikrinus bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, mokiniams skirti nemokamą maitinimą ir (ar) paramą mokinio reikmenims įsigyti išimties atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra neįgalus, kai mokinys patiria socialinę riziką arba mokinį augina bendrai gyvenantys asmenys, patiriantys socialinę riziką), jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2,5 valstybės remiamų pajamų dydžio. Tam tikslui gali būti panaudota iki 6 procentų šio įstatymo 4 straipsnio 2 dalies 1, 2 ir 4 punktuose numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų dydžio suma.
+.4) turi teisę savivaldybės tarybos nustatyta tvarka, patikrinus bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, mokiniams skirti nemokamą maitinimą ir (ar) paramą mokinio reikmenims įsigyti išimties atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra asmuo su negalia, kai mokinys patiria socialinę riziką arba mokinį augina bendrai gyvenantys asmenys, patiriantys socialinę riziką), jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2,5 valstybės remiamų pajamų dydžio. Tam tikslui gali būti panaudota iki 6 procentų šio įstatymo 4 straipsnio 2 dalies 1, 2 ir 4 punktuose numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų dydžio suma.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1843, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05740
+ 
 
 
 
