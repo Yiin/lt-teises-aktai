@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2023-12-31 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
  
@@ -1219,6 +1219,14 @@ Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 
 
 
+15. Šio straipsnio 2, 3, 4 ir 5 dalyse nurodyti fiziniai asmenys, turintys Lietuvos Respublikos pilietybę, prieš kreipdamiesi į policijos įstaigą dėl nurodyto leidimo B kategorijos ginklui išdavimo ar galiojimo termino pratęsimo šio įstatymo nustatytais atvejais, taip pat šio straipsnio 6, 12 ir 14 dalyse nurodyti fiziniai asmenys, turintys Lietuvos Respublikos pilietybę, prieš kreipdamiesi į policijos įstaigą dėl nurodyto leidimo A ir B kategorijų ginklams išdavimo ar galiojimo termino pratęsimo šio įstatymo nustatytais atvejais, privalo išklausyti pilietinio pasipriešinimo kursą krašto apsaugos ministro arba jo įgaliotos institucijos nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
+ 
+
+
+
+
 
 
 14 straipsnis. Tam tikrų asmenų teisė įsigyti ir turėti ginklus, šaudmenis
@@ -1395,6 +1403,14 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 11) apie kurį Valstybės saugumo departamentas turi duomenų, kad jis gali kelti arba kelia grėsmę valstybės saugumui. Šiuos duomenis Valstybės saugumo departamentas perduoda policijos įstaigai;
 
 
+
+
+12) neišklausęs pilietinio pasipriešinimo kurso šio įstatymo nustatytais atvejais. 
+Papildyta straipsnio punktu:
+Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
+ 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
  
@@ -1417,9 +1433,10 @@ Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
 
 
 
-5. Šio straipsnio 1 dalies 3 punkto nuostatos netaikomos specialiojo statuso subjektų pareigūnams, profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, turintiems teisę tarnybos metu nešiotis šaunamąjį ginklą (pateikiama šio įstatymo 13 straipsnio 9 dalyje nustatyta pažyma) ir norintiems gauti leidimą laikyti ginklus ar leidimą nešiotis ginklus. Šio straipsnio 1 dalies 6 punkto nuostatos netaikomos esamiems (pateikiama šio įstatymo 13 straipsnio 9 dalyje nustatyta pažyma) ir buvusiems specialiojo statuso subjektų pareigūnams, profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, norintiems gauti leidimą laikyti ginklus ar leidimą nešiotis ginklus savigynai ir pateikusiems specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turėjo teisę tarnybos metu nešiotis šaunamąjį ginklą. 
+5. Šio straipsnio 1 dalies 3 punkto nuostatos netaikomos specialiojo statuso subjektų pareigūnams, profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, turintiems teisę tarnybos metu nešiotis šaunamąjį ginklą (pateikiama šio įstatymo 13 straipsnio 9 dalyje nustatyta pažyma) ir norintiems gauti leidimą laikyti ginklus ar leidimą nešiotis ginklus. Šio straipsnio 1 dalies 6 punkto nuostatos netaikomos esamiems (pateikiama šio įstatymo 13 straipsnio 9 dalyje nustatyta pažyma) ir buvusiems specialiojo statuso subjektų pareigūnams, profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, norintiems gauti leidimą laikyti ginklus ar leidimą nešiotis ginklus savigynai ir pateikusiems specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turėjo teisę tarnybos metu nešiotis šaunamąjį ginklą. Šio straipsnio 1 dalies 12 punkto nuostata netaikoma šauliams, esamiems ir buvusiems specialiojo statuso subjektų pareigūnams, profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, norintiems gauti leidimą laikyti ginklus ar leidimą nešiotis ginklus.
 Straipsnio dalies pakeitimai:
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
  
 
 
@@ -2708,17 +2725,34 @@ Ginklininkas privalo:
 
 
 
-9) pasibaigus leidimo nešiotis ginklus ar leidimo laikyti ginklus galiojimo terminui, ginklą ir šaudmenis kartu su turimu ginklo pažymėjimu pristatyti laikinai saugoti į policijos įstaigą;
+9) ne vėliau kaip prieš 6 mėnesius iki pasibaigiant leidimo nešiotis ginklus ar leidimo laikyti ginklus galiojimo terminui ir prieš kreipiantis į policijos įstaigą dėl nurodyto leidimo galiojimo termino pratęsimo šio įstatymo nustatytais atvejais išklausyti pilietinio pasipriešinimo kursą krašto apsaugos ministro arba jo įgaliotos institucijos nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
+ 
 
 
 
 
-10) ne vėliau kaip per 10 darbo dienų nuo ginklo laikymo vietos pasikeitimo ar vyresnių kaip 14 metų asmenų apsigyvenimo gyvenamojoje vietoje, kurioje laikomas ginklas, informuoti apie tai policijos įstaigą;
+10) pasibaigus leidimo nešiotis ginklus ar leidimo laikyti ginklus galiojimo terminui, ginklą ir šaudmenis kartu su turimu ginklo pažymėjimu pristatyti laikinai saugoti į policijos įstaigą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
+ 
 
 
 
 
-11) ne vėliau kaip per 10 darbo dienų nuo ginklo naudotojo gyvenamosios vietos pasikeitimo informuoti apie tai policijos įstaigą.
+11) ne vėliau kaip per 10 darbo dienų nuo ginklo laikymo vietos pasikeitimo ar vyresnių kaip 14 metų asmenų apsigyvenimo gyvenamojoje vietoje, kurioje laikomas ginklas, informuoti apie tai policijos įstaigą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
+ 
+
+
+
+
+12) ne vėliau kaip per 10 darbo dienų nuo ginklo naudotojo gyvenamosios vietos pasikeitimo informuoti apie tai policijos įstaigą.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
+ 
 
 
 
