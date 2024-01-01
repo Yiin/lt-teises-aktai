@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
  
@@ -1147,7 +1147,10 @@ Specialiųjų tyrimų tarnyba surenka ir į pareigas asmenį skiriančiam, teiki
 
 
 
-11. Į pareigas asmenį skiriantis, teikiantis ar paskyręs subjektas prašymą Specialiųjų tyrimų tarnybai pateikti informaciją gali teikti tik dėl vieno konkursą, atranką laimėjusio, vertinimo, atestacijos, tarnybinio kaitumo ar kitas analogiškas procedūras perėjusio arba savo pasirinkto asmens, išskyrus atvejus, kai Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalyje nurodytais atvejais į pareigas skiriančiam asmeniui pateikiami du geriausiai centralizuotame konkurse įvertinti pretendentai, – tokiais atvejais į pareigas asmenį skiriantis subjektas prašymą Specialiųjų tyrimų tarnybai pateikti informaciją gali teikti dėl abiejų pretendentų. 
+11. Į pareigas asmenį skiriantis, teikiantis ar paskyręs subjektas prašymą Specialiųjų tyrimų tarnybai pateikti informaciją gali teikti tik dėl vieno konkursą, atranką laimėjusio, vertinimo, atestacijos, tarnybinio kaitumo ar kitas analogiškas procedūras perėjusio arba savo pasirinkto asmens.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1993, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11563
+ 
 
 
 
@@ -1934,3 +1937,8 @@ Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 7, 13, 14 ir 15
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-471, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15850
 Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1993, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11563
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 17 straipsnio pakeitimo įstatymas
