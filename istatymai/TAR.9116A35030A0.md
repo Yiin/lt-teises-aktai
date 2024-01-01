@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -4184,7 +4184,10 @@ b) informaciją apie derybų ir dialogo su dalyviais eigą ir pažangą;
 
 
 
-10. Susipažinti su visa su pirkimais susijusia informacija gali tik Komisijos nariai, Komisijos posėdžiuose dalyvaujantys stebėtojai ir perkančiojo subjekto ar jo įgaliotojo subjekto pakviesti ekspertai, Viešųjų pirkimų tarnybos atstovai, perkančiojo subjekto vadovas, jo įgalioti asmenys, kiti asmenys ir institucijos, turinčios tokią teisę pagal jų veiklą reglamentuojančius Lietuvos Respublikos įstatymus, taip pat Lietuvos Respublikos Vyriausybės nutarimu įgalioti Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys. Kiti asmenys gali susipažinti tik su ta su pirkimais susijusia informacija, kurią atskleisti leidžia šis įstatymas.
+10. Susipažinti su visa su pirkimais susijusia informacija gali tik Komisijos nariai, Komisijos posėdžiuose dalyvaujantys stebėtojai ir perkančiojo subjekto ar jo įgaliotojo subjekto pakviesti ekspertai, Viešųjų pirkimų tarnybos atstovai, perkančiojo subjekto vadovas, jo įgalioti asmenys, kiti asmenys ir institucijos, turinčios tokią teisę pagal jų veiklą reglamentuojančius Lietuvos Respublikos įstatymus, taip pat Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys ir (ar) audituojantys viešieji juridiniai asmenys, kuriems šie įgaliojimai suteikti Viešojo administravimo įstatymo nustatyta tvarka. Kiti asmenys gali susipažinti tik su ta su pirkimais susijusia informacija, kurią atskleisti leidžia šis įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2252, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22983
+ 
 
 
 Straipsnio pakeitimai:
@@ -6868,7 +6871,9 @@ Nr. XIV-1672, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27262
 
 
 
-4. Viešųjų pirkimų tarnybos prašymu šio įstatymo 100 straipsnio 3 dalyje nurodytos pirkimų priežiūrą atliekančios institucijos ir Lietuvos Respublikos Vyriausybės nutarimu įgalioti Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys Viešųjų pirkimų tarnybai pateikia informaciją apie nustatytus šio įstatymo pažeidimus, sukčiavimo, korupcijos atliekant pirkimus atvejus ir kitą turimą informaciją, reikalingą Europos Komisijai teikiamai stebėsenos ataskaitai parengti.
+4. Viešųjų pirkimų tarnybos prašymu šio įstatymo 100 straipsnio 3 dalyje nurodytos pirkimų priežiūrą atliekančios institucijos ir Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys ir (ar) audituojantys viešieji juridiniai asmenys, kuriems šie įgaliojimai suteikti Viešojo administravimo įstatymo nustatyta tvarka, Viešųjų pirkimų tarnybai pateikia informaciją apie nustatytus šio įstatymo pažeidimus, sukčiavimo, korupcijos atliekant pirkimus atvejus ir kitą turimą informaciją, reikalingą Europos Komisijai teikiamai stebėsenos ataskaitai parengti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2252, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22983
  
 
 
@@ -8139,3 +8144,8 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1673, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27264
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 2, 29, 31, 34, 37, 39, 48, 49, 63, 66, 68, 90, 94, 99, 101, 102, 114 straipsnių pakeitimo ir Įstatymo papildymo 90-1 straipsniu įstatymo Nr. XIV-546 2, 3, 12, 13, 19 straipsnių pakeitimo, Įstatymo papildymo 13-1 straipsniu ir 11, 18 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2252, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22983
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 68 ir 104 straipsnių pakeitimo įstatymas
