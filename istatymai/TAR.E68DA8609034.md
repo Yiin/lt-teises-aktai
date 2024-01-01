@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2022-01-02 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-24
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -4372,7 +4372,10 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 
 
-4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba valdymo įmonės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) dalyvių interesams, turi teisę mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas.
+4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba valdymo įmonės veiklos trūkumus, taip pat jeigu kyla grėsmė valdymo įmonės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) dalyvių interesams, turi teisę mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja pirmosios instancijos administracinis teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1576, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25126
+ 
 
 
 
@@ -4709,8 +4712,6 @@ Respublikos Prezidentė                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 alternatyviųjų kolektyvinio investavimo
@@ -4837,5 +4838,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-826, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27718
 Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 10, 24 straipsnių ir priedo pakeitimo įstatymas
  
- 
-part_adf21b1cf14f4c3ebb540f4f48676ee4_end
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1576, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25126
+Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 58 straipsnio pakeitimo įstatymas
