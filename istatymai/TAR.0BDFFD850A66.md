@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -53,12 +53,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Šio įstatymo 8 straipsnio nuostatos taikomos viešojo administravimo subjektams, kurių teisinė forma – biudžetinė įstaiga.
+4. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
 
-5. Šio įstatymo 8 straipsnio nuostatos viešojo administravimo subjektams netaikomos, jeigu jų veiklą reglamentuojantys statutai ar kiti įstatymai nustato kitokią šių subjektų administracijos padalinių sudėtį, kitokius šių padalinių pavadinimus ar jų dydžio reikalavimus.
+5. Šio įstatymo 8 straipsnio nuostatos taikomos tik viešojo administravimo subjektams, kurių teisinė forma yra biudžetinė įstaiga, jeigu konkrečių viešojo administravimo subjektų veiklą ar tam tikroje srityje veikiančių viešojo administravimo subjektų veiklą reglamentuojantys įstatymai ar statutai nenustato kitokios šių subjektų struktūros tvirtinimo tvarkos, struktūrinių padalinių sudėties ar kitokių šių padalinių pavadinimų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -169,7 +175,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-17. Vidaus administravimas − veikla, kuria užtikrinamas viešojo administravimo subjekto, turinčio viešojo juridinio asmens statusą, savarankiškas funkcionavimas (struktūros tvarkymas, dokumentų, personalo, turimų materialinių ir finansinių išteklių valdymas), kad jis galėtų atlikti viešąjį administravimą.
+17. Vidaus administravimas – veikla, kuria užtikrinamas viešojo administravimo subjekto, turinčio viešojo juridinio asmens statusą, savarankiškas funkcionavimas (personalo administravimas, finansinė apskaita, dokumentų tvarkymas, apskaita ir saugojimas, viešųjų pirkimų vykdymas, vidaus auditas, projektų valdymas, viešųjų ryšių palaikymas, vidaus tyrimai, informacinių ir ryšių technologijų administravimas, turto administravimas, kita ūkinio ar techninio pobūdžio veikla), kad jis galėtų atlikti viešąjį administravimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2007, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11585
+ 
 
 
 
@@ -184,7 +193,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-20. Viešojo administravimo subjektas – viešasis juridinis asmuo, kolegiali ar vienasmenė institucija, neturinti juridinio asmens statuso, įstatymų nustatytą specialų statusą turintis fizinis asmuo, šio įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą.
+20. Viešojo administravimo subjektas – viešasis juridinis asmuo, valstybės ar savivaldybės valdoma įmonė, kolegiali ar vienasmenė institucija, neturinti juridinio asmens statuso, įstatymų nustatytą specialų statusą turintis fizinis asmuo, šio įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -195,6 +207,13 @@ BENDROSIOS NUOSTATOS
 
 
 22. Viešųjų paslaugų teikimo administravimas – įstatymų nustatyta tvarka atliekama viešojo administravimo subjektų veikla nustatant viešųjų paslaugų teikimo taisykles ir tvarką, išduodant leidimus teikti viešąsias paslaugas, steigiant atitinkamos formos juridinius asmenis arba parenkant kitus asmenis, teiksiančius viešąsias paslaugas, taip pat viešųjų paslaugų teikimo priežiūra.
+
+
+
+
+23. Šiame įstatyme vartojamos sąvokos „valstybės valdoma įmonė“ ir „savivaldybės valdoma įmonė“ suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
  
 
 
@@ -268,7 +287,9 @@ Viešojo administravimo subjektai savo veikloje vadovaujasi šiais principais:
 
 
 
-13) vieno langelio. Šis principas reiškia, kad asmeniui informacija suteikiama, prašymas ar skundas priimamas ir atsakymas į juos pateikiamas vienoje darbo vietoje. Prašymą ar skundą nagrinėja ir informaciją iš savo administracijos padalinių, pavaldžių subjektų, prireikus – ir iš kitų viešojo administravimo subjektų gauna pats prašymą ar skundą nagrinėjantis ir administracinį sprendimą priimantis viešojo administravimo subjektas, neįpareigodamas tai atlikti prašymą ar skundą padavusio asmens. 
+13) vieno langelio. Šis principas reiškia, kad asmeniui informacija suteikiama, prašymas ar skundas priimamas ir atsakymas į juos pateikiamas vienoje darbo vietoje. Prašymą ar skundą nagrinėja ir informaciją iš savo struktūrinių padalinių, pavaldžių subjektų, prireikus ir iš kitų viešojo administravimo subjektų gauna pats prašymą ar skundą nagrinėjantis ir administracinį sprendimą priimantis viešojo administravimo subjektas, neįpareigodamas tai atlikti prašymą ar skundą padavusio asmens.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
  
 
 
@@ -293,7 +314,10 @@ VIEŠOJO ADMINISTRAVIMO PAGRINDAI
 
 
 
-2. Valstybinio administravimo subjektai yra kolegialios ar vienasmenės valstybės institucijos, biudžetinės įstaigos, išlaikomos iš valstybės biudžeto asignavimų ir kitų valstybės pinigų fondų lėšų, Lietuvos bankas, Lietuvos kariuomenė, įstatymų nustatytą specialų statusą turintys fiziniai asmenys, asociacijos, valstybės įmonės, viešosios įstaigos, kurių savininkė arba dalininkė yra valstybė, šio įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą.
+2. Valstybinio administravimo subjektai yra kolegialios ar vienasmenės valstybės institucijos, biudžetinės įstaigos, išlaikomos iš valstybės biudžeto asignavimų ir kitų valstybės pinigų fondų lėšų, Lietuvos bankas, Lietuvos kariuomenė, įstatymų nustatytą specialų statusą turintys fiziniai asmenys, asociacijos, valstybės valdomos įmonės, viešosios įstaigos, kurių savininkė arba dalininkė yra valstybė, šio įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -318,7 +342,9 @@ VIEŠOJO ADMINISTRAVIMO PAGRINDAI
 
 
 
-5. Savivaldybių administravimo subjektai yra kolegialios ar vienasmenės savivaldybių institucijos, biudžetinės įstaigos, išlaikomos iš savivaldybės biudžeto asignavimų, valstybės politikai, savivaldybės įmonės, viešosios įstaigos, kurių savininkė ar dalininkė yra savivaldybė, įgalioti atlikti viešąjį administravimą. 
+5. Savivaldybių administravimo subjektai yra kolegialios ar vienasmenės savivaldybės institucijos, biudžetinės įstaigos, išlaikomos iš savivaldybės biudžeto asignavimų, valstybės politikai, savivaldybių valdomos įmonės, viešosios įstaigos, kurių savininkės ar dalininkės yra savivaldybės, šio įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
  
 
 
@@ -335,12 +361,12 @@ VIEŠOJO ADMINISTRAVIMO PAGRINDAI
 1) kolegialioms ar vienasmenėms valstybės ar savivaldybių institucijoms, biudžetinėms įstaigoms, regionų plėtros taryboms, Lietuvos bankui, Lietuvos kariuomenei viešojo administravimo įgaliojimai gali būti suteikti:
 
 
-a) įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas konkretus veikiantis ar numatomas steigti viešojo administravimo subjektas (jo pavadinimas ir teisinė forma) ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai;
+a) įstatymu, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas veikiančio ar numatomo steigti viešojo administravimo subjekto pavadinimas arba pavadinimas ir teisinė forma, arba paskirtis ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai;
 
 
 
 
-b) įstatymų įgaliotos valstybės institucijos ar savivaldybės tarybos priimtu teisės aktu, kai tame teisės akte, vadovaujantis įstatymu, reglamentuojančiu bendrą tam tikros visuomenės gyvenimo srities viešojo administravimo subjektų sudarymo ir veiklos tvarką, nurodomas veikiantis ar numatomas steigti viešojo administravimo subjektas (jo pavadinimas ir teisinė forma) ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai;
+b) įstatymu įgaliotos valstybės institucijos ar savivaldybės tarybos priimtu teisės aktu, kai tame teisės akte, vadovaujantis įstatymu, reglamentuojančiu bendrą tam tikros visuomenės gyvenimo srities viešojo administravimo subjektų sudarymo ir veiklos tvarką, nurodomas veikiančio ar numatomo steigti viešojo administravimo subjekto pavadinimas arba pavadinimas ir teisinė forma, arba paskirtis ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai;
 
 
 
@@ -362,30 +388,27 @@ b) Vyriausybės nutarimu, priimamu įgyvendinant įstatymų, tiesiogiai taikomų
 
 
 
-3) viešosioms įstaigoms, kurių savininkė ar dalininkė yra savivaldybė, viešojo administravimo įgaliojimai gali būti suteikti įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai juose nurodomi šioms įstaigoms nustatomi konkretūs viešojo administravimo įgaliojimai. Sprendimą dėl konkrečios viešosios įstaigos, kuriai suteikiami viešojo administravimo įgaliojimai, priima savivaldybės taryba;
+3) viešosioms įstaigoms, kurių savininkė ar dalininkė yra savivaldybė, viešojo administravimo įgaliojimai gali būti suteikti įstatymu, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomi šioms įstaigoms nustatomi konkretūs viešojo administravimo įgaliojimai. Sprendimą dėl konkrečios viešosios įstaigos, kuriai suteikiami viešojo administravimo įgaliojimai, priima savivaldybės taryba;
 
 
 
 
-4) įstatymų nustatytą specialų statusą turintiems fiziniams asmenims, asociacijoms, valstybės ar savivaldybės įmonėms viešojo administravimo įgaliojimai gali būti suteikti įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas konkretus veikiantis ar numatomas steigti viešojo administravimo subjektas (jo pavadinimas ir teisinė forma) ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai.
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIV-923, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01364
- 
+4) įstatymų nustatytą specialų statusą turintiems fiziniams asmenims, asociacijoms, valstybės ar savivaldybių valdomoms įmonėms viešojo administravimo įgaliojimai gali būti suteikti įstatymu, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas veikiančio ar numatomo steigti viešojo administravimo subjekto pavadinimas arba pavadinimas ir teisinė forma, arba paskirtis ir šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai.
 
 
 
 
-2. Viešojo administravimo įgaliojimų suteikimo mastas: 
 
 
-1) kolegialioms ar vienasmenėms valstybės ar savivaldybių institucijoms, biudžetinėms įstaigoms, turinčioms ministerijų, Vyriausybės įstaigų, kitų Vyriausybei atskaitingų biudžetinių įstaigų, įstaigų prie ministerijų, Seimui atskaitingų biudžetinių įstaigų organizacinę formą, Lietuvos bankui, Lietuvos kariuomenei ir savivaldybių administracijoms gali būti suteikiami įgaliojimai atlikti funkcijas visose šio įstatymo 6 straipsnyje nustatytose viešojo administravimo srityse;
+2. Viešojo administravimo įgaliojimų suteikimo mastas:
+
+
+1) kolegialioms ar vienasmenėms valstybės ar savivaldybių institucijoms, biudžetinėms įstaigoms, turinčioms ministerijų, Vyriausybės įstaigų, kitų Vyriausybei atskaitingų biudžetinių įstaigų, įstaigų prie ministerijų, Lietuvos Respublikos Seimui atskaitingų biudžetinių įstaigų organizacinę formą, Lietuvos bankui, Lietuvos kariuomenei ir savivaldybių biudžetinėms įstaigoms gali būti suteikiami įgaliojimai atlikti funkcijas visose šio įstatymo 6 straipsnyje nustatytose viešojo administravimo srityse;
 
 
 
 
-2) viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, ir asociacijoms, išskyrus nurodytas šios dalies 3 punkte, gali būti suteikiami įgaliojimai atlikti funkcijas tik šio įstatymo 6 straipsnio 2, 3 ir 4 punktuose nustatytose viešojo administravimo srityse, kai tokie įgaliojimai yra tiesiogiai susiję su viešosios įstaigos ar asociacijos veiklos tikslais ir kai nėra valstybės ar savivaldybių institucijų ar įstaigų, kurioms šie įgaliojimai gali būti suteikti;
+2) viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, ir asociacijoms, išskyrus šios dalies 3 punkte nurodytas asociacijas, gali būti suteikiami įgaliojimai atlikti funkcijas tik šio įstatymo 6 straipsnio 2, 3 ir 4 punktuose nustatytose viešojo administravimo srityse, kai tokie įgaliojimai yra tiesiogiai susiję su viešosios įstaigos ar asociacijos veiklos tikslais ir kai nėra valstybės ar savivaldybių institucijų ar įstaigų, kurioms šie įgaliojimai gali būti suteikti;
 
 
 
@@ -395,7 +418,7 @@ Nr. XIV-923, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01364
 
 
 
-4) valstybės ir savivaldybių įmonėms gali būti suteikiami įgaliojimai atlikti funkcijas šio įstatymo 6 straipsnio 2 ir 3 punktuose nustatytose viešojo administravimo srityse ir tik tais atvejais, kai objektyviai pagrindžiama, kad nėra valstybės ar savivaldybių institucijų ar įstaigų, kurioms šie įgaliojimai gali būti suteikti, ir kai tokie įgaliojimai yra tiesiogiai susiję su tos valstybės ar savivaldybės įmonės veiklos tikslais;
+4) valstybės ar savivaldybių valdomoms įmonėms gali būti suteikiami įgaliojimai atlikti funkcijas šio įstatymo 6 straipsnio 2 ir 3 punktuose nustatytose viešojo administravimo srityse ir tik tais atvejais, kai pagrindžiama, kad nėra valstybės ar savivaldybių institucijų ar įstaigų, kurioms šie įgaliojimai gali būti suteikti, ir kai tokie įgaliojimai yra tiesiogiai susiję su tų valstybės ar savivaldybių valdomų įmonių veiklos tikslais, išskyrus atvejus, kai registrų (kadastrų), įskaitant valstybės registrus ir žinybinius registrus, valstybės ir kitų informacinių sistemų valdytojais ir (ar) tvarkytojais yra valstybės valdomos įmonės, – joms gali būti suteikiami įgaliojimai atlikti funkcijas šio įstatymo 6 straipsnio 1, 2 ir 3 punktuose nustatytose viešojo administravimo srityse;
 
 
 
@@ -412,35 +435,37 @@ Nr. XIV-923, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01364
 
 
 
-3. Viešojo administravimo įgaliojimų įgyvendinimo reglamentavimas viešojo administravimo subjektų, turinčių viešojo juridinio asmens statusą, vidaus administravimo dokumentuose:
+3. Viešojo administravimo įgaliojimų įgyvendinimo reglamentavimas viešojo administravimo subjektų, turinčių juridinio asmens statusą, vidaus administravimo dokumentuose:
 
 
-1) viešojo administravimo subjektams suteiktų viešojo administravimo įgaliojimų įgyvendinimas reglamentuojamas šių subjektų vidaus administravimo dokumentuose taip, kad būtų galima aiškiai nustatyti, kurie subjektų administracijos padaliniai, šiems padaliniams priskirti ar nepriskirti valstybės tarnautojai, kiti įstatymų nustatytą specialų statusą turintys fiziniai asmenys atlieka viešojo administravimo funkcijas:
+1) viešojo administravimo subjektams, kurių teisinė forma yra biudžetinė įstaiga, suteiktų viešojo administravimo įgaliojimų įgyvendinimas reglamentuojamas šių subjektų vidaus administravimo dokumentuose taip, kad būtų galima aiškiai nustatyti, kurie subjektų struktūriniai padaliniai, šiems padaliniams priskirti ar nepriskirti valstybės tarnautojai atlieka viešojo administravimo funkcijas:
 
 
-a) jeigu viešojo administravimo subjekto administracijos struktūrą sudaro padaliniai, jiems suteiktų viešojo administravimo įgaliojimų įgyvendinimas turi būti numatytas viešojo administravimo subjekto vadovo patvirtintuose šių padalinių nuostatuose;
-
-
-
-
-b) viešojo administravimo subjekto valstybės tarnautojų, kitų įstatymų nustatytą specialų statusą turinčių fizinių asmenų pareigybės, kurių funkcijoms bus priskirtas viešojo administravimo įgaliojimų įgyvendinimas, privalo turėti viešojo administravimo subjekto vadovo patvirtintą pareigybės aprašymą (pareiginę instrukciją ar pareiginius nuostatus), kuriame būtų nurodytos šiai pareigybei pavedamos viešojo administravimo subjektui suteiktus viešojo administravimo įgaliojimus įgyvendinančios funkcijos;
+a) jeigu viešojo administravimo subjekto struktūrą sudaro struktūriniai padaliniai, jiems suteiktų viešojo administravimo įgaliojimų įgyvendinimas turi būti numatytas viešojo administravimo subjekto vadovo patvirtintuose šių padalinių nuostatuose;
 
 
 
 
-
-
-2) viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valstybės ar savivaldybės įmonėms, regionų plėtros taryboms suteiktų viešojo administravimo įgaliojimų įgyvendinimas reglamentuojamas vidaus administravimo dokumentuose taip, kad būtų galima nustatyti, kurioms darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), pareigybėms yra priskirta atlikti funkcijas, tiesiogiai susijusias su šioms įstaigoms suteiktų viešojo administravimo įgaliojimų įgyvendinimu.
+b) viešojo administravimo subjekto valstybės tarnautojų, kurių funkcijoms bus priskirtas viešojo administravimo įgaliojimų įgyvendinimas, pareigybės privalo turėti pareigybės aprašymą (pareiginę instrukciją ar pareiginius nuostatus), kuriame būtų nurodytos šiai pareigybei priskirtos viešojo administravimo subjektui suteiktų viešojo administravimo įgaliojimų įgyvendinimo funkcijos;
 
 
 
 
 
 
-4. Viešojo administravimo subjektų darbuotojams, kuriems yra pavesta atlikti funkcijas, tiesiogiai susijusias su šiems subjektams suteiktų viešojo administravimo įgaliojimų įgyvendinimu, arba asmenims, pretenduojantiems tokias pareigas eiti, taikomi Lietuvos Respublikos valstybės tarnybos įstatyme nustatyti nepriekaištingos reputacijos ir įstaigos vadovo nustatyti kvalifikaciniai reikalavimai, kurie užtikrintų tinkamą jiems pavestų funkcijų atlikimą.
+2) viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, valstybės ar savivaldybių valdomoms įmonėms, regionų plėtros taryboms, asociacijoms suteiktų viešojo administravimo įgaliojimų įgyvendinimas reglamentuojamas vidaus administravimo dokumentuose taip, kad būtų galima nustatyti, kurioms darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), pareigybėms yra priskirta atlikti funkcijas, tiesiogiai susijusias su šiems juridiniams asmenims suteiktų viešojo administravimo įgaliojimų įgyvendinimu.
+
+
+
+
+
+
+4. Viešojo administravimo subjektų vadovams, valdymo organų nariams, priežiūros organų nariams ir į šias pareigas pretenduojantiems asmenims taikomi Lietuvos Respublikos valstybės tarnybos įstatyme įstaigų vadovams nustatyti nepriekaištingos reputacijos reikalavimai, taip pat kiti kvalifikaciniai reikalavimai, kurie užtikrintų tinkamą viešojo administravimo subjektui suteiktų viešojo administravimo įgaliojimų įgyvendinimą. Jeigu konkrečių viešojo administravimo subjektų veiklą ar tam tikroje srityje veikiančių viešojo administravimo subjektų veiklą reglamentuojantys įstatymai nustato kitokius nepriekaištingos reputacijos reikalavimus viešojo administravimo subjektų vadovams, valdymo organų nariams, priežiūros organų nariams ir į šias pareigas pretenduojantiems asmenims, taikomi šiuose įstatymuose nustatyti nepriekaištingos reputacijos reikalavimai. Viešojo administravimo subjektų, nurodytų šio straipsnio 3 dalies 2 punkte, darbuotojams, kurių pareigybėms yra priskirta atlikti funkcijas, tiesiogiai susijusias su viešojo administravimo subjektams suteiktų viešojo administravimo įgaliojimų įgyvendinimu, ir į šias pareigas pretenduojantiems asmenims taikomi Valstybės tarnybos įstatyme valstybės tarnautojams nustatyti nepriekaištingos reputacijos reikalavimai, taip pat kiti kvalifikaciniai reikalavimai, kurie užtikrintų tinkamą jiems pavestų funkcijų, tiesiogiai susijusių su viešojo administravimo įgaliojimų įgyvendinimu, atlikimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
  
-
-
 
 
 
@@ -502,24 +527,36 @@ Viešojo administravimo sritys:
 
 
 
-4) atlieka viešojo administravimo subjekto vidaus administravimą (kai viešojo administravimo subjektas yra viešasis juridinis asmuo).
+4) atlieka viešojo administravimo subjekto vidaus administravimą (tiek, kiek viešojo administravimo subjekto vidaus administravimas nėra atliekamas centralizuotai). 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytas funkcijas pavedama atlikti darbuotojams arba valstybės tarnautojams taip, kad šios funkcijos nesudarytų daugiau negu pusės valstybės tarnautojui jo pareigybės aprašyme nustatytų funkcijų šio įstatymo 6 straipsnyje nustatytose viešojo administravimo srityse ir ne daugiau kaip pusės valstybės tarnautojo darbo laiko atliekant jo pareigybės aprašyme nustatytas funkcijas šio įstatymo 6 straipsnyje nustatytose viešojo administravimo srityse. 
+2. Viešojo administravimo subjektuose, kurių teisinė forma yra biudžetinė įstaiga, šio straipsnio 1 dalyje nurodytas funkcijas pavedama atlikti valstybės tarnautojams ar darbuotojams taip, kad šios funkcijos nesudarytų daugiau negu pusės valstybės tarnautojui jo pareigybės aprašyme nustatytų funkcijų šio įstatymo 6 straipsnyje nustatytose viešojo administravimo srityse ir nesudarytų daugiau kaip pusės valstybės tarnautojo darbo laiko atliekant jo pareigybės aprašyme nustatytas funkcijas šio įstatymo 6 straipsnyje nustatytose viešojo administravimo srityse. Šių funkcijų atlikimas vidaus administravimo dokumentuose reglamentuojamas taip, kad būtų galima aiškiai nustatyti, kurioms valstybės tarnautojų ar darbuotojų pareigybėms šias funkcijas priskirta atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodytų funkcijų atlikimas reglamentuojamas vidaus administravimo dokumentuose taip, kad būtų galima aiškiai nustatyti, kurioms valstybės tarnautojų ar darbuotojų pareigybėms šias funkcijas priskirta atlikti. 
+3. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
 
-4. Viešojo administravimo subjektų darbuotojams, kuriems yra pavesta atlikti šio straipsnio 1 dalyje nustatytas funkcijas, arba asmenims, pretenduojantiems tokias pareigas eiti, taikomi Lietuvos Respublikos valstybės tarnybos įstatyme nustatyti nepriekaištingos reputacijos ir įstaigos vadovo nustatyti kvalifikaciniai reikalavimai, kurie užtikrintų tinkamą jiems pavestų funkcijų įgyvendinimą.
+4. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -532,43 +569,50 @@ Viešojo administravimo sritys:
 
 
 
-8 straipsnis. Viešojo administravimo subjektų administracijos struktūra 
+8 straipsnis. Viešojo administravimo subjekto struktūra
 
 
-1. Viešojo administravimo subjekto administracijos struktūrą nustato viešojo administravimo subjekto vadovas, vadovaudamasis įstatymais ar jų pagrindu priimtais teisės aktais ir atsižvelgdamas į nustatytus viešojo administravimo subjekto tikslus ir uždavinius, strateginius ar metinius veiklos planus ir patvirtintą valstybės tarnautojų ir darbuotojų pareigybių skaičių, jeigu kiti įstatymai nenustato kitaip.
-
-
-
-
-2. Viešojo administravimo subjekto administracijos padaliniais gali būti grupė, departamentas (valdyba), skyrius (biuras, tarnyba), o savivaldybės viešojo administravimo subjekto – ir poskyris.
+1. Viešojo administravimo subjekto struktūrą sudaro viešojo administravimo subjekto valdymo organai, priežiūros organai (jeigu jie yra sudaromi) ir struktūriniai padaliniai. Viešojo administravimo subjekto struktūroje gali būti nuolatinių kolegialių struktūrinių darinių, įsteigtų (sudarytų) patariamojo pobūdžio sprendimams priimti (kolegija, taryba, komisija). Šie kolegialūs struktūriniai dariniai nėra laikomi viešojo administravimo subjekto valdymo organais, priežiūros organais ar struktūriniais padaliniais.
 
 
 
 
-3. Grupė steigiama sudėtingiems, kompleksiniams, su politikos formavimu susijusiems viešojo administravimo subjekto uždaviniams spręsti. Grupei vadovauja grupės vadovas. Grupės veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus) tvirtina viešojo administravimo subjekto vadovas.
+2. Viešojo administravimo subjekto struktūrą nustato viešojo administravimo subjekto valdymo organai pagal jiems nustatytą kompetenciją, vadovaudamiesi įstatymais ar jų pagrindu priimtais teisės aktais ir atsižvelgdami į nustatytus viešojo administravimo subjekto tikslus ir uždavinius, strateginius ar metinius veiklos planus. Viešojo administravimo subjekto struktūrinių padalinių veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus) tvirtina viešojo administravimo subjekto vadovas arba įstatymų nustatytais atvejais – jo įgaliotas asmuo.
 
 
 
 
-4. Departamentas (valdyba) steigiamas viešojo administravimo subjekto funkcijoms atlikti, kai dėl didelės veiklos atliekant šias funkcijas apimties ir šios veiklos sudėtingumo ir kompleksiškumo yra reikalinga organizuoti, koordinuoti ir kontroliuoti šių funkcijų atlikimą. Departamentą (valdybą) sudaro ne mažiau kaip du skyriai (biurai, tarnybos). Departamentui vadovauja direktorius (valdybai – viršininkas). Departamento (valdybos) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus) tvirtina viešojo administravimo subjekto vadovas.
+3. Viešojo administravimo subjekto struktūriniais padaliniais gali būti grupė, departamentas (valdyba), skyrius (biuras, tarnyba), o savivaldybės viešojo administravimo subjekto – ir poskyris.
 
 
 
 
-5. Skyrius (biuras, tarnyba) steigiamas viešojo administravimo subjekto funkcijai, pasirinktai funkcijos apimčiai ar keletui funkcijų atlikti. Skyrius (biuras, tarnyba) gali būti savarankiškas padalinys arba departamento (valdybos) struktūrinė dalis. Skyrių (biurą, tarnybą) sudaro ne mažiau kaip 4 pareigybės, išskyrus vidaus audito tarnybas ir centralizuotas vidaus audito tarnybas, kurias sudaro ne mažiau kaip 2 pareigybės. Skyriui (biurui, tarnybai) vadovauja vedėjas (viršininkas). Skyriaus (biuro, tarnybos) vedėjas (viršininkas) savivaldybių viešojo administravimo subjektuose gali turėti pavaduotojų. Skyriaus (biuro, tarnybos) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus) tvirtina viešojo administravimo subjekto vadovas.
+4. Grupė steigiama sudėtingiems, kompleksiniams, su valstybės politikos formavimu susijusiems viešojo administravimo subjekto uždaviniams spręsti. Grupė yra savarankiškas struktūrinis padalinys. Grupei vadovauja grupės vadovas.
 
 
 
 
-6. Savivaldybių viešojo administravimo subjektuose skyrių (biurą, tarnybą) gali sudaryti poskyriai. Poskyris sudaromas iš ne mažiau kaip 3 pareigybių. Poskyriui vadovauja vedėjas. Poskyrio veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus) tvirtina viešojo administravimo subjekto vadovas.
+5. Departamentas (valdyba) steigiamas viešojo administravimo subjekto funkcijoms atlikti, kai dėl didelės veiklos atliekant šias funkcijas apimties ir šios veiklos sudėtingumo ir kompleksiškumo yra reikalinga organizuoti, koordinuoti ir kontroliuoti šių funkcijų atlikimą. Departamentą (valdybą) sudaro ne mažiau kaip du skyriai (biurai, tarnybos). Departamentui vadovauja direktorius (valdybai – viršininkas).
 
 
 
 
-7. Uždaviniams ir funkcijoms, kurie nepriskirti atskiriems viešojo administravimo subjekto administracijos padaliniams, įgyvendinti gali būti steigiamos pareigybės, nepriklausančios skyriui (biurui, tarnybai), departamentui (valdybai) ar grupei. Tokių pareigybių aprašymus tvirtina ir pavedamas atlikti funkcijas nustato viešojo administravimo subjekto vadovas.
+6. Skyrius (biuras, tarnyba) steigiamas viešojo administravimo subjekto funkcijai, pasirinktai funkcijos apimčiai ar keletui funkcijų atlikti. Skyrius (biuras, tarnyba) gali būti savarankiškas struktūrinis padalinys arba departamento (valdybos) struktūrinė dalis. Skyriui (biurui, tarnybai) vadovauja vedėjas (viršininkas). Skyriaus (biuro, tarnybos) vedėjas (viršininkas) savivaldybių viešojo administravimo subjektuose gali turėti pavaduotojų.
+
+
+
+
+7. Savivaldybių viešojo administravimo subjektuose skyrių (biurą, tarnybą) gali sudaryti poskyriai. Poskyriui vadovauja vedėjas.
+
+
+
+
+8. Uždaviniams ir funkcijoms, kurie nepriskirti atskiriems viešojo administravimo subjekto struktūriniams padaliniams, įgyvendinti gali būti steigiamos pareigybės, nepriklausančios skyriui (biurui, tarnybai), departamentui (valdybai) ar grupei. Tokių pareigybių aprašymus tvirtina ir priskirtas atlikti funkcijas nustato viešojo administravimo subjekto vadovas arba įstatymų nustatytais atvejais – jo įgaliotas asmuo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
  
-
-
 
 
 
@@ -591,7 +635,10 @@ Viešojo administravimo sritys:
 
 
 
-4. Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia viešojo administravimo subjektams, teikiamos neatlygintinai. Visais kitais atvejais, išskyrus įstatymuose nustatytas išimtis, elektroninio pristatymo paslaugos E. pristatymo sistemos priemonėmis teikiamos apmokant pagal Vyriausybės nustatytus tarifus. 
+4. Elektroninio pristatymo paslaugos fiziniams asmenims, kai jie elektronines siuntas per E. pristatymo sistemą siunčia viešojo administravimo subjektams, turintiems juridinio asmens statusą, teikiamos neatlygintinai. Visais kitais atvejais, išskyrus įstatymuose nustatytas išimtis, elektroninio pristatymo paslaugos E. pristatymo sistemos priemonėmis teikiamos apmokant pagal Vyriausybės nustatytus tarifus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -988,12 +1035,18 @@ Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
 
 
 
-2. Administracines paslaugas teikia tik viešojo administravimo subjektai. Viešojo administravimo subjektas turi sudaryti savo teikiamų administracinių paslaugų sąrašą ir, vadovaudamasis Lietuvos Respublikos vidaus reikalų ministro nustatyta tvarka ir kitais teisės aktais, reglamentuojančiais šių paslaugų teikimą, patvirtinti administracinių paslaugų teikimo aprašymus. Administracinių paslaugų teikimo aprašymai, atsižvelgiant į viešojo administravimo subjekto veiklos ir teisės aktų, reglamentuojančių šių paslaugų teikimą, pakeitimus, turi būti peržiūrimi ir prireikus atnaujinami ne vėliau kaip per 20 darbo dienų nuo tokių pasikeitimų įsigaliojimo dienos. 
+2. Administracines paslaugas teikia tik viešojo administravimo subjektai. Viešojo administravimo subjektas turi sudaryti savo teikiamų administracinių paslaugų sąrašą ir, vadovaudamasis vidaus reikalų ministro nustatyta tvarka parengti, patvirtinti ir paskelbti teikiamų administracinių paslaugų aprašymus. Administracinių paslaugų aprašymai, atsižvelgiant į viešojo administravimo subjekto veiklos ir teisės aktų, reglamentuojančių šių paslaugų teikimą, pakeitimus, turi būti peržiūrimi ir prireikus atnaujinami ne vėliau kaip per 20 darbo dienų nuo tokių pasikeitimų įsigaliojimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
 
-3. Viešojo administravimo subjektas turi patvirtintus administracinių paslaugų teikimo aprašymus paskelbti Viešųjų ir administracinių paslaugų stebėsenos ir analizės informacinėje sistemoje, taip pat savo interneto svetainėje pateikti nuorodą į šioje sistemoje paskelbtą administracinės paslaugos teikimo aprašymą. 
+3. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -1003,7 +1056,10 @@ Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
 
 
 
-5. Tais atvejais, kai administracines paslaugas teikia Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos, šio straipsnio 2 ir 3 dalių nuostatas dėl teikiamų administracinių paslaugų sąrašo sudarymo, administracinių paslaugų teikimo aprašymų patvirtinimo, jų atnaujinimo ir paskelbimo įgyvendina Lietuvos Respublikos užsienio reikalų ministerija. 
+5. Tais atvejais, kai administracines paslaugas teikia Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos, šio straipsnio 2 dalies nuostatas dėl teikiamų administracinių paslaugų sąrašo sudarymo, administracinių paslaugų aprašymų patvirtinimo, jų atnaujinimo ir paskelbimo įgyvendina Lietuvos Respublikos užsienio reikalų ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -1072,14 +1128,20 @@ Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
 
 
 
-8) vadovaudamiesi vidaus reikalų ministro nustatyta tvarka ir kitais teisės aktais, reglamentuojančiais viešųjų paslaugų teikimą, patvirtinti ir paskelbti administruojamų viešųjų paslaugų teikimo aprašymus arba įpareigoti šių viešųjų paslaugų teikėjus patvirtinti ir paskelbti jų teikiamų viešųjų paslaugų aprašymus.
+8) vadovaudamiesi vidaus reikalų ministro nustatyta tvarka, parengti, patvirtinti ir paskelbti administruojamų viešųjų paslaugų aprašymus arba įpareigoti šių viešųjų paslaugų teikėjus parengti, patvirtinti ir paskelbti jų teikiamų viešųjų paslaugų aprašymus. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
 
 
 
-5. Viešojo administravimo subjektas, kuris administruoja tam tikros viešosios paslaugos teikimą, negali pats teikti šios paslaugos, išskyrus atvejus, kai Lietuvos Respublikos vietos savivaldos įstatymo nustatytomis sąlygomis ir tvarka viešąsias paslaugas teikia savivaldybės administracijos padalinys.
+5. Viešojo administravimo subjektas, kuris administruoja tam tikros viešosios paslaugos teikimą, negali pats teikti šios paslaugos, išskyrus atvejus, kai Lietuvos Respublikos vietos savivaldos įstatymo nustatytomis sąlygomis ir tvarka viešąsias paslaugas teikia savivaldybės administracijos struktūrinis padalinys. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -1089,7 +1151,9 @@ Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
 
 
 
-7. Viešųjų paslaugų teikimo aprašymai, kai yra viešąsias paslaugas administruojančių viešojo administravimo subjektų ar viešosios paslaugos teikėjų veiklos ir teisės aktų, reglamentuojančių šių paslaugų teikimą, pasikeitimų, turi būti peržiūrimi ir prireikus atnaujinami ne vėliau kaip per 20 darbo dienų nuo tokių pasikeitimų įsigaliojimo dienos.
+7. Viešųjų paslaugų aprašymai, kai yra viešąsias paslaugas administruojančių viešojo administravimo subjektų ar viešosios paslaugos teikėjų veiklos ir teisės aktų, reglamentuojančių šių paslaugų teikimą, pasikeitimų, turi būti peržiūrimi ir prireikus atnaujinami ne vėliau kaip per 20 darbo dienų nuo tokių pasikeitimų įsigaliojimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
  
 
 
@@ -1184,7 +1248,10 @@ Asmuo, dėl kurio galimai pažeistų teisių ar teisėtų interesų yra pradėta
 
 
 
-2. Draudžiama persiųsti (perduoti) skundą nagrinėti pareigūnui, valstybės tarnautojui, kitam įstatymų nustatytą specialų statusą turinčiam fiziniam asmeniui ar darbuotojui, o kai skundas dėl viešojo administravimo subjekto veiksmų ar neveikimo paduodamas aukštesniam pagal pavaldumą viešojo administravimo subjektui, – viešojo administravimo subjektui ar jo administracijos padaliniui, kurių veiksmai yra skundžiami.
+2. Draudžiama persiųsti (perduoti) skundą nagrinėti pareigūnui, valstybės tarnautojui, kitam įstatymų nustatytą specialų statusą turinčiam fiziniam asmeniui ar darbuotojui, o kai skundas dėl viešojo administravimo subjekto veiksmų ar neveikimo paduodamas aukštesniam pagal pavaldumą viešojo administravimo subjektui, – viešojo administravimo subjektui ar jo struktūriniam padaliniui, kurių veiksmai yra skundžiami.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
@@ -1401,7 +1468,10 @@ LICENCIJAVIMAS IR ŪKIO SUBJEKTŲ VEIKLOS PRIEŽIŪRA
 
 
 
-6) funkcijų atskyrimo. Šis principas reiškia, kad šio įstatymo 31 straipsnio 1 dalies ir 3 dalies 4 punkte nurodytus veiksmus atlieka skirtingi ūkio subjektų veiklos priežiūrą atliekančio subjekto pareigūnai ar priežiūrą atliekančio subjekto padaliniai arba kad nurodytos funkcijos yra priskirtos skirtingiems viešojo administravimo subjektams. Šis principas netaikomas, jeigu kituose ūkio subjektų veiklos priežiūrą reglamentuojančiuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose patikrinimo ir poveikio priemonių taikymo funkcijos yra priskirtos vienam pareigūnui (padaliniui);
+6) funkcijų atskyrimo. Šis principas reiškia, kad šio įstatymo 31 straipsnio 1 dalyje ir 3 dalies 4 punkte nurodytus veiksmus atlieka skirtingi ūkio subjektų veiklos priežiūrą atliekančio subjekto pareigūnai ar priežiūrą atliekančio subjekto struktūriniai padaliniai arba kad nurodytos funkcijos yra priskirtos skirtingiems viešojo administravimo subjektams. Šis principas netaikomas, jeigu kituose ūkio subjektų veiklos priežiūrą reglamentuojančiuose įstatymuose ir jų įgyvendinamuosiuose teisės aktuose patikrinimo ir poveikio priemonių taikymo funkcijos yra priskirtos vienam pareigūnui (struktūriniam padaliniui);
+Straipsnio punkto pakeitimai:
+Nr. XIV-2243, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22972
+ 
 
 
 
