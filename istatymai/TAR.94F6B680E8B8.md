@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -96,10 +96,12 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-5. Privalomasis sveikatos draudimas – valstybės nustatyta asmens sveikatos priežiūros ir ekonominių priemonių sistema, šio Įstatymo nustatytais pagrindais ir sąlygomis garantuojanti privalomuoju sveikatos draudimu draudžiamiems asmenims, įvykus draudiminiam įvykiui, sveikatos priežiūros paslaugų teikimą ir šių paslaugų išlaidų apmokėjimą, taip pat vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų bei medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidų kompensavimą. 
+5. Privalomasis sveikatos draudimas – valstybės nustatyta asmens sveikatos priežiūros ir ekonominių priemonių sistema, šio Įstatymo nustatytais pagrindais ir sąlygomis garantuojanti privalomuoju sveikatos draudimu apdraustiems asmenims sveikatos priežiūrą ir jos išlaidų kompensavimą Privalomojo sveikatos draudimo fondo biudžeto lėšomis. Privalomasis sveikatos draudimas yra valstybinio socialinio draudimo rūšis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
  
 
 
@@ -177,9 +179,22 @@ Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 
 
-16. Gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis – sveikatos apsaugos ministro nustatyta tvarka Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir vaistinio preparato rinkodaros teisės turėtojo (jo atstovo) arba juridinio asmens, turinčio didmeninio platinimo licenciją, sudaroma sutartis dėl gydymo tam tikru vaistiniu preparatu prieinamumo pacientams gerinimo ir Privalomojo sveikatos draudimo fondo biudžeto stabilumo užtikrinimo nustatant numatomą gydymo efektyvumo ir (ar) finansinį rezultatą ir susitariant pasidalyti finansinę riziką ar prisiimti kitus įsipareigojimus pagal pasiektus gydymo efektyvumo ir (ar) finansinius rezultatus. 
+16. Gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis – sveikatos apsaugos ministro nustatyta tvarka Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos ir vaistinio preparato registruotojo (jo atstovo) arba juridinio asmens, turinčio didmeninio platinimo licenciją, arba medicinos pagalbos priemonės, arba specialiosios medicininės paskirties maisto produkto gamintojo ar jų atstovo, arba medicinos pagalbos priemonės platintojo, arba specialiosios medicininės paskirties maisto produkto tiekėjo sudaroma sutartis dėl gydymo tam tikru vaistiniu preparatu, medicinos pagalbos priemone arba specialiosios medicininės paskirties maisto produktu prieinamumo pacientams gerinimo ir Privalomojo sveikatos draudimo fondo biudžeto stabilumo užtikrinimo nustatant numatomą gydymo efektyvumo ir (ar) finansinį rezultatą ir susitariant pasidalyti finansinę riziką ar prisiimti kitus įsipareigojimus pagal pasiektus gydymo efektyvumo ir (ar) finansinius rezultatus. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1688, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26108
+Straipsnio dalies pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
+
+
+
+
+17. Specialiosios medicininės paskirties maisto produktai – kaip ši sąvoka apibrėžta 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 609/2013 dėl kūdikiams ir mažiems vaikams skirtų maisto produktų, specialiosios medicininės paskirties maisto produktų ir viso paros raciono pakaitalų svoriui kontroliuoti ir kuriuo panaikinami Tarybos direktyva 92/52/EEB, Komisijos direktyvos 96/8/EB, 1999/21/EB, 2006/125/EB ir 2006/141/EB, Europos Parlamento ir Tarybos direktyva 2009/39/EB ir Komisijos reglamentai (EB) Nr. 41/2009 ir (EB) Nr. 953/2009 su visais pakeitimais.
+Papildyta straipsnio dalimi:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Straipsnio dalies pakeitimai:
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
  
 
 
@@ -209,6 +224,34 @@ Sveikatos draudimas yra:
 
 
 
+
+
+
+
+31 straipsnis. Privalomojo sveikatos draudimo principai
+
+
+Privalomojo sveikatos draudimo principai yra šie:
+
+
+1) visuotinumo principas, reiškiantis, kad visi šio Įstatymo 6 straipsnio 1 dalyje nurodyti draudžiamieji privalomuoju sveikatos draudimu (toliau – draudžiamieji) privalo mokėti sveikatos draudimo įmokas (arba už juos turi būti mokamos šios įmokos), o šio įstatymo nustatytais atvejais ir tvarka turi teisę gauti Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamą sveikatos priežiūrą;
+
+
+
+
+2) solidarumo principas, reiškiantis, kad visų pagal šį Įstatymą privalančių mokėti privalomojo sveikatos draudimo įmokas asmenų įmokos, taip pat valstybės biudžeto lėšos prisideda prie privalomojo sveikatos draudimo lėšų kaupimo. Taip sudaromos prielaidos kompensuoti apdraustųjų privalomuoju sveikatos draudimu sveikatos priežiūros išlaidas; 
+
+
+
+
+3) teisumo principas, reiškiantis, kad apdraustasis privalomuoju sveikatos draudimu prisideda prie sveikatos sektoriaus finansavimo pagal savo galimybes, tačiau visiems apdraustiesiems vienodai užtikrinama tos pačios kokybės sveikatos priežiūra, nediskriminuojant asmenų lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+ 
 
 
 
@@ -244,13 +287,15 @@ Sveikatos draudimas yra:
 
 
 
-5 straipsnis. Privalomojo sveikatos draudimo draudiminiai įvykiai 
+5 straipsnis. Privalomojo sveikatos draudimo draudiminiai įvykiai
 
 
-Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti privalomuoju sveikatos draudimu draudžiamų asmenų sveikatos sutrikimai ar sveikatos būklė, kurie yra pagrindas privalomuoju sveikatos draudimu draudžiamiems asmenims teikti šio Įstatymo ir kitų teisės aktų nustatytas asmens sveikatos priežiūros paslaugas ir apmokėti iš Privalomojo sveikatos draudimo fondo biudžeto. 
+Privalomojo sveikatos draudimo draudiminiai įvykiai yra asmens sveikatos priežiūros specialisto, kuriam teisės aktais, reguliuojančiais jo profesines teises, suteikta teisė nustatyti sveikatos būklę ir diagnozuoti ligas bei sveikatos sutrikimus, diagnozuotos privalomuoju sveikatos draudimu apdraustų asmenų ligos, sveikatos sutrikimai ar sveikatos būklės, kurie yra pagrindas privalomuoju sveikatos draudimu apdraustiems asmenims teikti šio Įstatymo 9 straipsnio 2 dalyje nurodytą sveikatos priežiūrą ir kompensuoti jos išlaidas iš Privalomojo sveikatos draudimo fondo biudžeto. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
-
-
 
 
 
@@ -316,9 +361,11 @@ Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
 
 
 
-7) užsieniečiai, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje ir kurie yra asmenys iki 18 metų arba asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą senatvės pensiją, netekto darbingumo pensiją ar šalpos neįgalumo pensiją, arba asmenys, gaunantys šalpos kompensaciją, jiems sukakus Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių ar juos pripažinus netekusiais 60 procentų ir daugiau darbingumo, arba senatvės ar neįgalumo pensiją pagal šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktus, arba Lietuvos Respublikos arba šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktų nustatyta tvarka yra pripažinti neįgaliaisiais. 
+7) užsieniečiai, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje ir kurie yra asmenys iki 18 metų arba asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą senatvės pensiją, netekto darbingumo pensiją ar šalpos neįgalumo pensiją, arba asmenys, gaunantys šalpos kompensaciją, jiems sukakus Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių ar juos pripažinus netekusiais 60 procentų ar daugiau dalyvumo (iki 2023 m. gruodžio 31 d. netekusiais 60 procentų ar daugiau darbingumo), arba senatvės ar negalios pensiją pagal šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktus, arba Lietuvos Respublikos arba šalies, iš kurios pasitraukusiems asmenims suteikta laikinoji apsauga, teisės aktų nustatyta tvarka yra pripažinti asmenimis su negalia. 
 Papildyta straipsnio punktu:
 Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
+Straipsnio punkto pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
 
 
@@ -630,10 +677,21 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-2. Tais atvejais, kai už šio Įstatymo 17 straipsnio 4, 5, 6, 8 ir 11 dalyse nurodytus asmenis privalomojo sveikatos draudimo įmokos nesumokamos, jų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią jie ar jų draudėjai sumoka visas nesumokėtas šio Įstatymo 17 straipsnyje nustatyto dydžio privalomojo sveikatos draudimo įmokas, bet ne daugiau kaip už 5 metus. Nuostata, kad šioje dalyje nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie tuo pačiu metu yra apdrausti privalomuoju sveikatos draudimu kaip kitos kategorijos asmenys ir jų privalomasis sveikatos draudimas galioja.
+2.  Kai už šio Įstatymo 17 straipsnio 4, 5, 6, 8 ir 11 dalyse nurodytus asmenis privalomojo sveikatos draudimo įmokos nesumokamos, jų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią jie ar jų draudėjai sumoka visas nesumokėtas šio Įstatymo 17 straipsnyje nustatyto dydžio privalomojo sveikatos draudimo įmokas, bet ne daugiau kaip už 5 metus. Nuostata, kad šioje dalyje nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie:
+
+
+1) tuo pačiu metu yra apdrausti privalomuoju sveikatos draudimu kaip kitos kategorijos asmenys ir jų privalomasis sveikatos draudimas galioja;
+
+
+
+
+2) buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų užsienio valstybių institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad išvykimo laikotarpiu jie buvo apdrausti valstybiniu socialiniu draudimu kitoje šalyje arba buvo suimti ir (arba) nuteisti užsienyje, arba atliko arešto ar terminuoto laisvės atėmimo bausmę užsienyje, o teritorinė ligonių kasa patvirtina, kad išvykimo laikotarpiu jie negavo asmens sveikatos priežiūros paslaugų, kompensuojamų Privalomojo sveikatos draudimo fondo biudžeto lėšomis. 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
 
 
@@ -702,132 +760,100 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 
 
 II SKYRIUS
-PRIVALOMOJO SVEIKATOS DRAUDIMO PASLAUGOS IR JŲ IŠLAIDŲ KOMPENSAVIMAS
-
-
-9 straipsnis. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokamos asmens 
-sveikatos priežiūros paslaugos 
-
-
-1. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokamos šios asmens sveikatos priežiūros paslaugos: prevencinė medicinos pagalba, medicinos pagalba, medicininė reabilitacija, slauga, socialinės paslaugos bei patarnavimai, priskirti asmens sveikatos priežiūrai, ir asmens sveikatos ekspertizė. 
-
-
-
-
-2. Iš Privalomojo sveikatos draudimo fondo apmokama ši prevencinė medicinos pagalba:
-
-
-1) informacinės paslaugos ligų profilaktikos klausimais; 
-
-
-
-
-2) Sveikatos apsaugos ministerijos nustatyti draudžiamųjų sveikatos profilaktiniai patikrinimai.
-
-
-
-
-
-
-3. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokama: 
-
-
-1) pirminės, antrinės ir tretinės asmens sveikatos priežiūros paslaugos; 
-
-
-
-
-2) galūnių, sąnarių ir organų protezavimo bei protezų įsigijimo išlaidų kompensacijos; 
-
-
-
-
-3) šio Įstatymo nustatytos draudžiamųjų išlaidų vaistams ir medicinos pagalbos priemonėms kompensacijos;
-
-
-
-
-4) ortopedijos techninių priemonių įsigijimo išlaidų kompensacijos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
+PRIVALOMOJO SVEIKATOS DRAUDIMO FONDO BIUDŽETO LĖŠOMIS KOMPENSUOJAMA SVEIKATOS PRIEŽIŪRA IR TARPVALSTYBINĖS SVEIKATOS PRIEŽIŪROS IŠLAIDŲ KOMPENSAVIMAS 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
 
 
+9 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojama sveikatos priežiūra
+
+
+1. Apdraustiesiems Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojama:
+
+
+1) šio straipsnio 2 dalyje nurodyta sveikatos priežiūra, teikiama įvykus draudiminiam įvykiui; 
 
 
 
 
-4. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokama medicininė reabilitacija, slauga, socialinės paslaugos bei patarnavimai, priskirti asmens sveikatos priežiūrai, apima: 
-
-
-1) slaugos ir socialines paslaugas bei patarnavimus, palaikomojo gydymo paslaugas slaugos ir palaikomojo gydymo ligoninėse sveikatos apsaugos ministro nustatyta tvarka ir terminais, bet ne ilgiau kaip 120 dienų per kalendorinius metus. Į 120 dienų per kalendorinius metus terminą neįskaičiuojamas Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpis;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2940, 2020-05-19, paskelbta TAR 2020-05-22, i. k. 2020-10980
- 
+2) šio straipsnio 3 dalyje nurodyta sveikatos priežiūra, kurią teikiant padedama asmeniui išvengti draudiminio įvykio;
 
 
 
 
-2) šio Įstatymo 11 straipsnyje numatytą medicininę reabilitaciją ir sanatorinį (antirecidyvinį) gydymą (toliau – sanatorinis gydymas).
-Straipsnio punkto pakeitimai:
-Nr. XIV-285, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09686
- 
-
-
-
-
-
-
-5. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokamos šios asmens sveikatos ekspertizės paslaugos: 
-
-
-1) draudžiamojo laikinojo nedarbingumo ekspertizė; 
-
-
-
-
-2) (neteko galios); 
-
-
-
-
-3) patologinis anatominis tyrimas asmeniui mirus. 
+3) šio straipsnio 4 dalyje nurodytas dantų protezavimas.
 
 
 
 
 
 
-6. Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamos asmens sveikatos priežiūros paslaugos išvardijamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąraše. Šį sąrašą tvirtina sveikatos apsaugos ministras. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
- 
+2. Įvykus draudiminiam įvykiui, apdraustieji turi teisę gauti Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamą sveikatos priežiūrą:
+
+
+1) asmens sveikatos priežiūros paslaugas; 
 
 
 
 
-7. Neteko galios 2019-07-01. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
- 
+2) vaistus, medicinos pagalbos priemones (tarp jų ortopedijos technines priemones), specialiosios medicininės paskirties maisto produktus ir nuomojamas medicinos priemones.
 
 
 
 
-8. Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros įstaigoms apmokamos asmens sveikatos priežiūros paslaugos, kurios atitinka Vyriausybės nustatytas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų teikimo sąlygas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
- 
+
+
+3. Apdraustiesiems Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojama ši sveikatos priežiūra, kurią teikiant asmeniui padedama išvengti draudiminio įvykio:
+
+
+1) vakcinos, kurių kompensavimas numatytas Nacionalinėje imunoprofilaktikos programoje. Vakcinos į Nacionalinę imunoprofilaktikos programą įtraukiamos pagal šiuos kriterijus: ligos, kuriai skirta vakcina, pavojingumą gyvybei ir keliamą negalios grėsmę,  jos paplitimą ir užkrečiamumą, atsižvelgiant į asmenų amžių, sveikatos būklę ir (ar) kitus veiksnius bei Privalomojo sveikatos draudimo fondo biudžeto galimybes kompensuoti vakcinas;
 
 
 
 
-9. Naujo profilio stacionarinės paslaugos, apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto, gali būti teikiamos tik gavus leidimą sveikatos apsaugos ministro nustatyta tvarka.
+2) asmens sveikatos priežiūros specialistų pagal sveikatos apsaugos ministro patvirtintas ligų ir sveikatos sutrikimų prevencines programas teikiamos asmens sveikatos priežiūros paslaugos. Ligos ir sveikatos sutrikimai, dėl kurių vykdomos prevencinės programos, ir apdraustieji, kuriems teikiamos prevencinėse programose nurodytos asmens sveikatos priežiūros paslaugos, parenkami pagal šiuos kriterijus: sergamumo liga ar sveikatos sutrikimu ir (ar) mirtingumo nuo jų mastą Lietuvos Respublikoje, galimybes anksti diagnozuoti ligą ar sveikatos sutrikimą ir juos nustačius taikyti efektyvų gydymą, atsižvelgiant į asmenų amžių, sveikatos būklę ir (ar) kitus veiksnius bei Privalomojo sveikatos draudimo fondo biudžeto galimybes kompensuoti pagal prevencines programas teikiamas asmens sveikatos priežiūros paslaugas;
+
+
+
+
+3) profilaktiniai sveikatos patikrinimai, atliekami sveikatos apsaugos ministro patvirtintoms apdraustųjų grupėms, kurios nustatomos atsižvelgiant į apdraustųjų amžių, sveikatos būklę ir (ar) jų veiklos rizikos sveikatai mastą;
+
+
+
+
+4) dantų dengimas dantų ėduonies profilaktikai skirtomis medžiagomis sveikatos apsaugos ministro patvirtintoms apdraustųjų grupėms, kurios nustatomos atsižvelgiant į dantų ėduonies paplitimo mastą, dantų ėduonies atsiradimo riziką bei Privalomojo sveikatos draudimo fondo biudžeto galimybes kompensuoti dantų dengimą dantų ėduonies profilaktikai skirtomis medžiagomis.
+
+
+
+
+
+
+4. Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamas dantų protezavimas, kai asmenų kramtymo funkcija atitinka sveikatos apsaugos ministro nustatytus kriterijus, atliekamas šiems apdraustiesiems: vaikams, asmenims, kuriems sukako senatvės pensijos amžius, asmenims, kuriems nustatytas 55 procentų ar mažesnis dalyvumo lygis (iki 2023 m. gruodžio 31 d. nustatytas 55 procentų ar mažesnis darbingumo lygis), bei asmenims, kuriems buvo taikytas gydymas dėl burnos, veido ir žandikaulių onkologinės ligos.
+
+
+
+
+5. Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamos asmens sveikatos priežiūros paslaugos nurodomos Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašuose. Šiuos sąrašus tvirtina sveikatos apsaugos ministras.
+
+
+
+
+6. Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros įstaigoms apmokamos asmens sveikatos priežiūros paslaugos, atitinkančios Vyriausybės nustatytas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų teikimo sąlygas.
+
+
+
+
+7. Šio straipsnio 2, 3 ir 4 dalyse nurodytos sveikatos priežiūros teikimo ir kompensavimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarką nustato sveikatos apsaugos ministras.
+
+
+
+
+8. Naujo profilio stacionarinės asmens sveikatos priežiūros paslaugos, apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis, teikiamos tik gavus leidimą sveikatos apsaugos ministro nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
-Nr. X-317, 2005-07-05, Žin., 2005, Nr. 86-3209 (2005-07-16)
-Nr. XI-1149, 2010-11-18, Žin., 2010, Nr. 142-7263 (2010-12-04)
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
 
 
@@ -844,7 +870,10 @@ Nr. XI-1149, 2010-11-18, Žin., 2010, Nr. 142-7263 (2010-12-04)
 2. Privalomojo sveikatos draudimo fondo biudžeto lėšomis apdraustiesiems kompensuojamos tik tų ortopedijos techninių priemonių įsigijimo, o suinteresuotiesiems asmenims apmokamos tik tų ortopedijos techninių priemonių gamybos ir (ar) pritaikymo išlaidos, kurios įrašytos į Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamųjų ortopedijos techninių priemonių ir jų bazinių kainų sąrašą. Ortopedijos techninės priemonės į kompensuojamųjų ortopedijos techninių priemonių ir jų bazinių kainų sąrašą įrašomos sveikatos apsaugos ministro nustatyta tvarka, jeigu jos atitinka šiuos kriterijus:
 
 
-1) sveikatos apsaugos ministro nustatyta tvarka apskaičiuota ortopedijos techninės priemonės funkcinė vertė turi išreikšti šios priemonės teikiamą naudą apdraustajam: ortopedijos techninė priemonė padeda palengvinti ligos, sužeidimo padarinius ar sumažina jo neįgalumą, neleidžia neįgalumui didėti;
+1) sveikatos apsaugos ministro nustatyta tvarka apskaičiuota ortopedijos techninės priemonės funkcinė vertė turi išreikšti šios priemonės teikiamą naudą apdraustajam: ortopedijos techninė priemonė padeda palengvinti ligos, sužeidimo padarinius ar sumažina jo negalią, neleidžia negaliai didėti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+ 
 
 
 
@@ -992,20 +1021,15 @@ Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
 
 
 
-10 straipsnis. Vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų 
-kompensavimas apdraustiesiems 
+10 straipsnis. Vaistų, medicinos pagalbos priemonių ir specialiosios medicininės paskirties maisto produktų įsigijimo išlaidų kompensavimas apdraustiesiems
 
 
-1. Apdraustiesiems yra kompensuojamos išlaidos kompensuojamiesiems vaistams ir medicinos pagalbos priemonėms, išrašytiems ambulatoriniam gydymui sveikatos apsaugos ministro nustatyta tvarka. Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, Kompensuojamųjų vaistų sąrašą bei Kompensuojamųjų medicinos pagalbos priemonių sąrašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos nuomonę. Kompensuojamųjų vaistų ir kompensuojamųjų medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo tvarką nustato sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Išlaidos vaistams ir medicinos pagalbos priemonėms kompensuojamos pagal bazines kainas, apskaičiuotas Farmacijos įstatymo 57 straipsnyje nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
-Nr. XIV-1688, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26108
- 
+1. Apdraustiesiems yra kompensuojamos išlaidos kompensuojamiesiems vaistams, medicinos pagalbos priemonėms ir specialiosios medicininės paskirties maisto produktams, išrašytiems ambulatoriniam gydymui sveikatos apsaugos ministro nustatyta tvarka. Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą ir Kompensuojamųjų medicinos pagalbos priemonių sąrašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos nuomonę. Kompensuojamųjų vaistų ir kompensuojamųjų medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo tvarką nustato sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Išlaidos vaistams, medicinos pagalbos priemonėms ir specialiosios medicininės paskirties maisto produktams kompensuojamos pagal bazines kainas, apskaičiuotas Farmacijos įstatymo 57 straipsnyje nustatyta tvarka.
 
 
 
 
-2. 100 procentų bazinės kompensuojamųjų vaistų, įrašytų į Ligų ir kompensuojamųjų vaistų joms gydyti bei į Kompensuojamųjų vaistų sąrašus, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, ambulatoriniam gydymui kainos kompensuojama šiems apdraustiesiems:
+2. 100 procentų bazinės kompensuojamųjų vaistų, įrašytų į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, ambulatoriniam gydymui kainos kompensuojama šiems apdraustiesiems:
 
 
 1) vaikams iki 18 metų;
@@ -1013,32 +1037,29 @@ Nr. XIV-1688, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26108
 
 
 
-2) asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis (iki 2005 m. liepos 1 d. pripažintiems I grupės invalidais);
+2) asmenims, kuriems nustatytas 0–25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. nustatytas 0–25 procentų darbingumo lygis ar iki 2005 m. liepos 1 d. pripažintiems I grupės invalidais);
 
 
 
 
-3) asmenims, sukakusiems Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius), kuriems yra nustatytas didelių specialiųjų poreikių lygis;
+3) Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius) sukakusiems asmenims, kuriems yra nustatytas 15 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – didelių specialiųjų poreikių lygis);
 
 
 
 
-4) 75 metų ir vyresniems asmenims. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
- 
+4) 75 metų ir vyresniems asmenims.
 
 
 
 
-3. 100, 90, 80 arba 50 procentų bazinės kompensuojamųjų vaistų ir medicinos pagalbos priemonių ambulatoriniam gydymui kainos kompensuojama apdraustiesiems, nepaminėtiems šio straipsnio 2 dalyje, kuriems diagnozuotos ligos, sindromai ir būklės, įrašyti į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą arba Kompensuojamųjų medicinos pagalbos priemonių sąrašą pagal kompensavimo lygius.
+
+
+3. 100, 90, 80 arba 50 procentų bazinės ambulatoriniam gydymui skirtų kompensuojamųjų vaistų, įrašytų į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos kompensuojama šio straipsnio 2 dalyje nenurodytiems apdraustiesiems, kuriems diagnozuotos ligos, sindromai ir būklės, įrašyti į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą arba Kompensuojamųjų medicinos pagalbos priemonių sąrašą pagal kompensavimo lygius. 100, 90, 80 arba 50 procentų bazinės ambulatoriniam gydymui skirtų specialiosios medicininės paskirties maisto produktų, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos kompensuojama apdraustiesiems, kuriems diagnozuotos ligos, sindromai ir būklės, įrašyti į Kompensuojamųjų medicinos pagalbos priemonių sąrašą pagal kompensavimo lygius.
 
 
 
 
-4. 50 procentų bazinės kompensuojamųjų vaistų, įrašytų į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos gydant ambulatoriškai kompensuojama šiems šio straipsnio 2 ir 3 dalyse nepaminėtiems apdraustiesiems:
+4. 50 procentų bazinės ambulatoriniam gydymui skirtų medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos kompensuojama šiems šio straipsnio 2 ir 3 dalyse nenurodytiems apdraustiesiems:
 
 
 1) gaunantiems socialinio draudimo senatvės pensiją;
@@ -1051,12 +1072,9 @@ Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 
 
-3) asmenims, kuriems nustatytas 30–40 procentų darbingumo lygis (iki 2005 m. liepos 1 d. pripažintiems II grupės invalidais). 
+3) asmenims, kuriems nustatytas 30–40 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. nustatytas 30–40 procentų darbingumo lygis ar iki 2005 m. liepos 1 d. pripažintiems II grupės invalidais).
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
- 
 
 
 
@@ -1066,28 +1084,21 @@ Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 
 
-6. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus senatvės pensijos amžių sukakusiems arba Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nurodytiems neįgaliesiems asmenims, kurių užpraeitą mėnesį gautų socialinio draudimo pensijų, išskyrus socialinio draudimo našlių pensiją (kartu su socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokomis), šalpos išmokų, valstybinių pensijų, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacijų už ypatingas darbo sąlygas ir (ar) draudžiamųjų pajamų, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, suma sudaro mažiau kaip 100 procentų einamųjų metų minimalių vartojimo poreikių dydžio, apskaičiuoto Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka, arba 75 metų ir vyresniems asmenims, padengiamos Vyriausybės nustatyta tvarka. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
-Straipsnio dalies pakeitimai:
-Nr. XIV-165, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00840
-Nr. XIV-402, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14505
-Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
- 
+6. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, ir medicinos pagalbos priemones bei specialiosios medicininės paskirties maisto produktus, įrašytus į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus senatvės pensijos amžių sukakusiems arba Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme nurodytiems asmenims su negalia, kurių užpraeitą mėnesį gautų socialinio draudimo pensijų, išskyrus socialinio draudimo našlių pensiją (kartu su socialinio draudimo senatvės arba netekto dalyvumo (darbingumo (invalidumo) pensijų priemokomis), šalpos išmokų, valstybinių pensijų, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacijų už ypatingas darbo sąlygas ir (ar) draudžiamųjų pajamų, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, suma sudaro mažiau kaip 100 procentų einamųjų metų minimalių vartojimo poreikių dydžio, apskaičiuoto Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka, arba 75 metų ir vyresniems asmenims, padengiamos Vyriausybės nustatyta tvarka.
 
 
 
 
-7. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, asmenims, išskyrus šio straipsnio 6 dalyje nurodytus asmenis, padengiamos Vyriausybės nustatyta tvarka, jeigu per kalendorinius metus  asmens sumokėtų paciento priemokų už vaistus suma  yra didesnė negu trijų vidutinių metinių priemokų, apskaičiuotų pagal praėjusių kalendorinių metų duomenis, dydžių suma, tenkanti vienam asmeniui. Apskaičiuojant, ar asmens sumokėtų paciento priemokų už vaistus suma yra didesnė, negu nustatyta šioje dalyje, įtraukiamos ir dengiamos paciento priemokos tik už tuos vaistus, už kurių to paties bendrinio pavadinimo, stiprumo ir tos pačios farmacinės formos vaistinių preparatų dozuotę Kompensuojamųjų vaistinių preparatų kainyno grupėje bazinei kainai apskaičiuoti nustatyta paciento priemoka yra mažiausia. Vaistais, už kuriuos paciento priemoka yra mažiausia, taip pat laikomi Vyriausybės nustatytoje tvarkoje nurodyti vaistai. 
-TAR pastaba. Straipsnio papildymas 7 dalimi įsigalioja 2023-07-01.
-Papildyta straipsnio dalimi:
-Nr. XIV-1688, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26108
- 
+7. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, asmenims, išskyrus šio straipsnio 6 dalyje nurodytus asmenis, padengiamos Vyriausybės nustatyta tvarka, jeigu per kalendorinius metus asmens sumokėtų paciento priemokų už vaistus suma yra didesnė negu trijų vidutinių metinių priemokų, apskaičiuotų pagal praėjusių kalendorinių metų duomenis, dydžių suma, tenkanti vienam asmeniui. Apskaičiuojant, ar asmens sumokėtų paciento priemokų už vaistus suma yra didesnė, negu nustatyta šioje dalyje, įtraukiamos ir dengiamos paciento priemokos tik už tuos vaistus, už kurių to paties bendrinio pavadinimo, stiprumo ir tos pačios farmacinės formos vaistinių preparatų dozuotę Kompensuojamųjų vaistinių preparatų kainyno grupėje bazinei kainai apskaičiuoti nustatyta paciento priemoka yra mažiausia. Vaistais, už kuriuos paciento priemoka yra mažiausia, taip pat laikomi Vyriausybės nustatytoje tvarkoje nurodyti vaistai.
+
+
+
+
+8. Į Kompensuojamųjų medicinos pagalbos priemonių sąrašą įrašomi tik Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka Lietuvos Respublikos rinkoje notifikuoti specialiosios medicininės paskirties maisto produktai. Specialiosios medicininės paskirties maisto produktai apdraustiesiems kompensuojami pagal šio straipsnio 1, 3 ir 6 dalių nuostatas, taikant mutatis mutandis Farmacijos įstatyme nustatytą medicinos pagalbos priemonių kompensavimo tvarką. 
 
 
 Straipsnio pakeitimai:
-Nr. X-194, 2005-05-12, Žin., 2005, Nr. 67-2402 (2005-05-28)
-Nr. X-317, 2005-07-05, Žin., 2005, Nr. 86-3209 (2005-07-16)
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
 
 
@@ -1129,15 +1140,15 @@ Nr. XIV-285, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09686
 
 
 
-12 straipsnis. Galūnių, sąnarių ir organų protezavimo, protezų įsigijimo ir 
-centralizuotai apmokamų vaistų bei medicinos pagalbos priemonių 
-išlaidų kompensavimas 
+12 straipsnis. Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių išlaidų kompensavimas iš Privalomojo sveikatos draudimo fondo biudžeto
 
 
-Galūnių, sąnarių ir organų protezavimo, protezų įsigijimo ir centralizuotai apmokamų vaistų bei medicinos pagalbos priemonių išlaidų kompensavimo tvarką ir sąrašą nustato Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. 
+Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių sąrašą tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos nuomonę. Centralizuotai apmokamų vaistų ir medicinos pagalbos priemonių išlaidų kompensavimo tvarką nustato sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
-
-
 
 
 
@@ -1150,10 +1161,11 @@ Galūnių, sąnarių ir organų protezavimo, protezų įsigijimo ir centralizuot
 
 
 
-2. Iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamos tarpvalstybinės sveikatos priežiūros, atitinkančios Lietuvos Respublikos sveikatos sistemos įstatymo 49 straipsnio 2 dalyje nustatytas sąlygas ir apimančios šio Įstatymo 9 straipsnyje (išskyrus 9 straipsnio 5 dalį) nurodytas asmens sveikatos priežiūros paslaugas, vaistus, medicinos pagalbos priemones ir medicinos priemones, išlaidos. Šios išlaidos kompensuojamos pagal sveikatos apsaugos ministro nustatytas kompensuojamųjų vaistų, medicinos pagalbos priemonių, medicinos priemonių ir sveikatos priežiūros paslaugų bazines kainas, neviršijant faktinių apdraustojo išlaidų. Apdraustojo išlaidas tarpvalstybinei sveikatos priežiūrai kompensuoja Valstybinė ligonių kasa ir teritorinės ligonių kasos, jeigu apdraustasis arba jo atstovas, siekiantis gauti tarpvalstybinės sveikatos priežiūros išlaidų kompensaciją, sveikatos apsaugos ministro nustatyta tvarka kreipiasi į teritorinę ligonių kasą ne vėliau kaip per vienus metus nuo asmens sveikatos priežiūros paslaugų suteikimo ir (arba) vaistų, ir (arba) medicinos pagalbos priemonių, ir (arba) medicinos priemonių išdavimo. 
+2. Iš Privalomojo sveikatos draudimo fondo biudžeto lėšų kompensuojamos tarpvalstybinės sveikatos priežiūros, atitinkančios Lietuvos Respublikos sveikatos sistemos įstatymo 49 straipsnio 2 dalyje nustatytas sąlygas ir apimančios šio Įstatymo 9 straipsnyje nurodytą sveikatos priežiūrą, išlaidos. Šios išlaidos kompensuojamos pagal sveikatos apsaugos ministro nustatytas kompensuojamųjų vaistų, medicinos pagalbos priemonių (tarp jų ortopedijos techninių priemonių), specialiosios medicininės paskirties maisto produktų, medicinos priemonių nuomos ir sveikatos priežiūros paslaugų bazines kainas, neviršijant faktinių apdraustojo išlaidų. Apdraustojo išlaidas tarpvalstybinei sveikatos priežiūrai kompensuoja Valstybinė ligonių kasa ir teritorinės ligonių kasos, jeigu apdraustasis arba jo atstovas, siekiantis gauti tarpvalstybinės sveikatos priežiūros išlaidų kompensaciją, sveikatos apsaugos ministro nustatyta tvarka kreipiasi į teritorinę ligonių kasą ne vėliau kaip per vienus metus nuo asmens sveikatos priežiūros paslaugų suteikimo ir (arba) vaistų, ir (arba) medicinos pagalbos priemonių, ir (arba) medicinos priemonių išdavimo. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
  
 
 
@@ -1296,102 +1308,50 @@ Nr. XIII-2646, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20987
 
 
 
-15 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto pajamos 
+15 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto pajamos ir valstybės biudžeto asignavimai Valstybinei ligonių kasai
 
 
-1. Privalomojo sveikatos draudimo fondo biudžeto pajamas sudaro: 
+1. Privalomojo sveikatos draudimo fondo biudžeto pajamas sudaro:
 
 
-1) apdraustųjų privalomojo sveikatos draudimo įmokos ir už juos mokamos įmokos; 
+1) privalomojo sveikatos draudimo įmokos:
 
 
+a) Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos administruojamos privalomojo sveikatos draudimo įmokos ir su jomis susijusios lėšos;
 
 
-2) valstybės biudžeto įmokos, mokamos už apdraustuosius, draudžiamus valstybės lėšomis; 
 
 
+b) Lietuvos Respublikos valstybės biudžeto įmokos, mokamos už draudžiamuosius, draudžiamus valstybės lėšomis;
 
 
-3) valstybės biudžeto asignavimai, skiriami:
 
 
-a) Privalomojo sveikatos draudimo fondui priskirtoms valstybės funkcijoms atlikti (ortopedijos techninių priemonių įsigijimo išlaidoms kompensuoti, paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidoms apmokėti, kompensacijoms kraujo donorams neatlygintinai kraujo donorystei propaguoti bei Nacionalinės imunoprofilaktikos programos priemonėms finansuoti); 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
- 
 
 
+2) valstybės biudžeto asignavimai, skiriami:
 
 
-b) šio Įstatymo 6 straipsnio 5 dalyje nurodytų asmenų sveikatos priežiūros išlaidoms apmokėti;
+a) valstybės deleguotoms funkcijoms, nurodytoms šio straipsnio 5 dalyje, atlikti;
 
 
 
 
-c) šio Įstatymo 8 straipsnio 5 dalyje nurodytoms sveikatos priežiūros išlaidoms apmokėti;
+b) šio straipsnio 2 dalyje nurodytais atvejais;
 
 
 
 
-d) šio straipsnio 2 ir 3 dalyse nurodytais atvejais; 
 
 
+3) kitos teisėtai gautos pajamos.
 
 
 
 
-4) institucijų, vykdančių privalomąjį sveikatos draudimą, veiklos pajamos;
 
 
-
-
-5) savanoriškos juridinių ir fizinių asmenų įmokos; 
-
-
-
-
-6) išieškotos ar grąžintos lėšos už Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą:
-
-
-a) iš sveikatos priežiūros įstaigų išieškotos ar jų grąžintos lėšos už neteisėtai suteiktas asmens sveikatos priežiūros paslaugas, už šias paslaugas neteisėtai pateiktas apmokėti sąskaitas, už neteisėtai išrašytus ir išduotus vaistus bei medicinos pagalbos priemones; 
-
-
-
-
-b) iš vaistinių išieškotos ar jų grąžintos lėšos už neteisėtai išduotus vaistus bei medicinos pagalbos priemones ar neteisėtai už juos pateiktas apmokėti sąskaitas, taip pat iš šio Įstatymo 262  straipsnyje nurodytų ūkio subjektų išieškotos ar jų grąžintos lėšos už neteisėtai išduotas medicinos pagalbos priemones ar neteisėtai už jas pateiktas apmokėti sąskaitas; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
- 
-
-
-
-
-c) iš fizinių ir juridinių asmenų išieškotos lėšos už apdraustojo privalomuoju sveikatos draudimu sveikatai padarytą žalą, kai už jam suteiktas sveikatos priežiūros paslaugas sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, ir už kitą Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą. Žala Privalomojo sveikatos draudimo fondo biudžetui gali būti pripažinta mažareikšme žala ir neišieškoma, jeigu ši žala Privalomojo sveikatos draudimo fondo biudžetui yra nedidelė ir jos išieškojimo išlaidos didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką, mažareikšmės žalos dydį nustato sveikatos apsaugos ministras ar jo įgaliota institucija;
-Straipsnio punkto pakeitimai:
-Nr. XII-2003, 2015-11-10, paskelbta TAR 2015-11-17, i. k. 2015-18263
- 
-
-
-
-
-
-
-7) vaistinio preparato rinkodaros teisės turėtojų (jų atstovų) arba juridinių asmenų, turinčių didmeninio platinimo licenciją, pervestos lėšos pagal gydymo prieinamumo gerinimo ir rizikos pasidalijimo sutartis, sudarytas su Valstybine ligonių kasa;
-
-
-
-
-8) kitos teisėtai gautos pajamos. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
- 
-
-
-
-
-2. Seimas gali įstatymu patvirtinti Privalomojo sveikatos draudimo fondo biudžetui skiriamus papildomus valstybės biudžeto asignavimus, jeigu:
+2. Lietuvos Respublikos Seimas gali įstatymu patvirtinti Privalomojo sveikatos draudimo fondo biudžetui skiriamus papildomus valstybės biudžeto asignavimus, jeigu:
 
 
 1) padidėja Privalomojo sveikatos draudimo fondo biudžeto išlaidos arba sumažėja šio fondo biudžeto pajamos ir dėl to Privalomojo sveikatos draudimo fondo biudžetas negali įvykdyti visų šio Įstatymo nustatytų įpareigojimų;
@@ -1399,33 +1359,89 @@ Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
 
 
 
-2) einamaisiais metais panaudojama pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir ją numatoma atkurti iš papildomų valstybės biudžeto asignavimų. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
-Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
- 
+2) einamaisiais metais panaudojamas Privalomojo sveikatos draudimo fondo biudžeto rezervas ir jį numatoma atkurti iš papildomų valstybės biudžeto asignavimų.
 
 
 
 
-3. Seimas įstatymu gali skirti valstybės biudžeto lėšų visoms ūkininkų privalomojo sveikatos draudimo įmokoms, numatytoms šio Įstatymo 17 straipsnio 5 dalyje, ar jų daliai sumokėti. 
+
+
+3. Valstybinė ligonių kasa disponuoja šio straipsnio 1 dalies 2 punkte nurodytais valstybės biudžeto asignavimais.
 
 
 
 
-4. Jeigu vykdant Privalomojo sveikatos draudimo fondo biudžetą gaunama viršplaninių pajamų ir einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rezervas sudaro ne mažiau kaip 5 procentus praėjusiais metais Valstybinio socialinio draudimo fondo administravimo įstaigų į Privalomojo sveikatos draudimo fondo biudžetą pervestų pajamų, gautos viršplaninės pajamos einamaisiais metais gali būti naudojamos šio Įstatymo II skyriuje nurodytoms išlaidoms, viršijančioms Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme šioms išlaidoms numatytas einamųjų metų lėšų sumas, kompensuoti sveikatos apsaugos ministro sprendimu.
-Papildyta straipsnio dalimi:
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
-Straipsnio dalies pakeitimai:
-Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
- 
+4. Jeigu vykdant Privalomojo sveikatos draudimo fondo biudžetą gaunama viršplaninių pajamų (biudžeto pajamų vykdymas faktiškai viršija Lietuvos Respublikos Seimo patvirtintą metinį pajamų planą) ir einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rezervas sudaro ne mažiau kaip 5 procentus praėjusiais metais Valstybinio socialinio draudimo fondo administravimo įstaigų į Privalomojo sveikatos draudimo fondo biudžetą pervestų pajamų, gautos viršplaninės pajamos einamaisiais metais gali būti naudojamos šio Įstatymo II skyriuje nurodytoms išlaidoms, viršijančioms Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme šioms išlaidoms numatytas einamųjų metų lėšų sumas, kompensuoti ir šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms finansuoti šio straipsnio 9 dalyje nurodytais atvejais sveikatos apsaugos ministro sprendimu. Skiriant viršplanines lėšas turi būti nepažeista Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 dalis.
+
+
+
+
+5. Valstybinė ligonių kasa atlieka šias valstybės deleguotas funkcijas, finansuojamas valstybės biudžeto lėšomis:
+
+
+1) apmoka paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidas;
+
+
+
+
+2) apmoka išlaidas kompensacijoms kraujo donorams mokėti ir neatlygintinai kraujo donorystei propaguoti;
+
+
+
+
+3) apmoka šio Įstatymo 6 straipsnio 5 dalyje nurodytos sveikatos priežiūros išlaidas;
+
+
+
+
+4) apmoka šio Įstatymo 8 straipsnio 5 dalyje nurodytos sveikatos priežiūros išlaidas;
+
+
+
+
+5) padengia išlaidas paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, ir medicinos pagalbos priemones bei specialiosios medicininės paskirties maisto produktus, įrašytus į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus šio Įstatymo 10 straipsnio 6 dalyje nurodytiems asmenims, ir išlaidas paciento priemokoms už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, skiriamus šio Įstatymo 10 straipsnio 7 dalyje nurodytiems asmenims;
+
+
+
+
+6) Seimui įvedus tiesioginį valdymą, karo, nepaprastąją padėtį, paskelbus mobilizaciją ar priėmus sprendimą panaudoti ginkluotąsias pajėgas, Vyriausybei paskelbus valstybės lygio ekstremaliąją situaciją ir (ar) karantiną visoje Lietuvos Respublikos teritorijoje, pagal atitinkamoje situacijoje įgalioto priimti sprendimus asmens sprendimus apmoka Privalomojo sveikatos draudimo fondo biudžeto lėšomis nekompensuotinas išlaidas.
+
+
+
+
+
+
+6. Valstybės biudžeto asignavimų šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms atlikti valdytoja yra Sveikatos apsaugos ministerija.
+
+
+
+
+7. Šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms atlikti skirtos valstybės biudžeto lėšos (pajamos ir išlaidos) Privalomojo sveikatos draudimo fondo biudžete administruojamos atskirai.
+
+
+
+
+8. Valstybės biudžeto lėšomis apmokamos faktinės išlaidos, patirtos atliekant šio straipsnio 5 dalyje nurodytas valstybės deleguotas funkcijas. Pasibaigus biudžetiniams metams, nepanaudoti valstybės biudžeto asignavimai, skirti šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms atlikti, grąžinami į valstybės biudžetą.
+
+
+
+
+9. Jeigu einamaisiais metais valstybės biudžeto asignavimų, skirtų šio straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms finansuoti, neužtenka, siekiant užtikrinti jų nenutrūkstamą atlikimą iki einamųjų metų pabaigos, laikinai gali būti skiriamos Privalomojo sveikatos draudimo fondo biudžeto einamųjų metų viršplaninės pajamos šio straipsnio 4 dalyje nustatyta tvarka arba Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos šio Įstatymo 23 straipsnyje nustatyta tvarka. Ne vėliau kaip per 2 metus (pasibaigus biudžetiniams metams, kuriais buvo panaudotos Privalomojo sveikatos draudimo fondo biudžeto lėšos) šiuo tikslu panaudotos Privalomojo sveikatos draudimo fondo biudžeto lėšos atkuriamos valstybės biudžeto lėšomis.
+
+
+
+
+10. Valstybinei ligonių kasai iš šio straipsnio 6 dalyje nurodytų valstybės biudžeto lėšų mokamos Valstybinės ligonių kasos veiklos sąnaudų, susidarančių atliekant šio straipsnio 5 dalyje nurodytas valstybės deleguotas funkcijas, kompensacijos. Šių kompensacijų dydžio apskaičiavimo ir kompensacijų mokėjimo tvarką nustato sveikatos apsaugos ministras, suderinęs su finansų ministru. Šioje dalyje nurodytos kompensacijos laikomos šio straipsnio 1 dalies 3 punkte nurodytomis pajamomis ir naudojamos šio Įstatymo 21 straipsnio 1 dalies 4 punkte nurodytoms išlaidoms apmokėti.
+
+
+
+
+11. Privalomojo sveikatos draudimo fondo biudžetui padaryta žala pripažįstama mažareikšme ir neišieškoma, jeigu jos išieškojimo išlaidos yra didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką ir mažareikšmės žalos dydį nustato sveikatos apsaugos ministras ar jo įgaliota institucija.
 
 
 Straipsnio pakeitimai:
-Nr. X-911, 2006-11-16, Žin., 2006, Nr. 132-4988 (2006-12-05)
-Nr. XI-98, 2008-12-22, Žin., 2008, Nr. 149-6022 (2008-12-30)
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
  
 
 
@@ -1546,19 +1562,14 @@ Nr. XIV-1303, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15630
 
 
 13. Asmenų, nurodytų šio straipsnio 4 dalyje, metinė privalomojo sveikatos draudimo įmoka skaičiuojama nuo individualios veiklos pajamų sumos, ne didesnės negu numatyta Valstybinio socialinio draudimo įstatymo 10 straipsnio 5 dalyje.
-Straipsnio pakeitimai:
-Nr. X-15, 2004-11-23, Žin., 2004, Nr. 171-6325 (2004-11-26)
-Nr. XI-98, 2008-12-22, Žin., 2008, Nr. 149-6022 (2008-12-30)
-Nr. XI-183, 2009-02-19, Žin., 2009, Nr. 25-985 (2009-03-05)
-Nr. XI-391, 2009-07-22, Žin., 2009, Nr. 93-3983 (2009-08-04)
-Nr. XI-960, 2010-06-30, Žin., 2010, Nr. 86-4518 (2010-07-20)
-Nr. XI-1097, 2010-11-09, Žin., 2010, Nr. 137-6998 (2010-11-23)
-Nr. XI-1103, 2010-11-09, Žin., 2010, Nr. 137-7004 (2010-11-23)
-Nr. XI-1165, 2010-11-23, Žin., 2010, Nr. 145-7422 (2010-12-11)
-Nr. XI-1795, 2011-12-13, Žin., 2011, Nr. 160-7564 (2011-12-28)
-Nr. XI-2172, 2012-06-29, Žin., 2012, Nr. 83-4346 (2012-07-14)
-Nr. XI-2260, 2012-10-02, Žin., 2012, Nr. 122-6119 (2012-10-20)
-Nr. XI-2413, 2012-11-13, Žin., 2012, Nr. 136-6967 (2012-11-24)
+
+
+
+
+14. Jeigu šio straipsnio 2 dalyje nurodytiems asmenims nėra apskaičiuota per kalendorinį mėnesį gautų pajamų, nuo kurių skaičiuojamos privalomojo sveikatos draudimo įmokos, ir šie asmenys nepriskiriami šio straipsnio 3–10 dalyse ir šio Įstatymo 6 straipsnio 4 dalyje išvardytiems asmenims, iki kitų metų gegužės 1 d. už tą kalendorinį mėnesį, kurį pajamų neturėjo, jie privalo sumokėti 6,98 procento Vyriausybės patvirtintos minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+ 
 
 
 Straipsnio pakeitimai:
@@ -1672,10 +1683,10 @@ Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
 
 
 
-21 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto išlaidos 
+21 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto išlaidos
 
 
-1. Privalomojo sveikatos draudimo fondo biudžeto išlaidas sudaro: 
+1. Privalomojo sveikatos draudimo fondo biudžeto išlaidas sudaro:
 
 
 1) išlaidos asmens sveikatos priežiūros paslaugoms;
@@ -1683,69 +1694,34 @@ Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
 
 
 
-2) išlaidos vaistams, medicinos pagalbos priemonėms ir medicinos priemonių nuomai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
- 
+2) išlaidos vaistams, medicinos pagalbos priemonėms (tarp jų ortopedijos techninėms priemonėms), specialiosios medicininės paskirties maisto produktams ir medicinos priemonių nuomai;
 
 
 
 
-3) išlaidos medicininei reabilitacijai ir sanatoriniam gydymui;
+3) išlaidos sveikatos programoms vykdyti ir kitoms sveikatos draudimo išlaidoms apmokėti;
 
 
 
 
-4) išlaidos ortopedijos techninėms priemonėms; 
+4) išlaidos privalomojo sveikatos draudimo sistemos funkcionavimui užtikrinti ir šį draudimą vykdančių institucijų veiklos išlaidoms apmokėti;
 
 
 
 
-5) išlaidos sveikatos programoms vykdyti ir kitoms sveikatos draudimo išlaidoms apmokėti;
+5) išlaidos Valstybinio socialinio draudimo fondo veiklos sąnaudoms, susidarančioms dėl privalomojo sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, kompensuoti.
 
 
 
 
-6) išlaidos privalomojo sveikatos draudimo sistemos funkcionavimui užtikrinti ir šį draudimą vykdančių institucijų veiklos išlaidoms apmokėti;
 
 
-
-
-7) išlaidos Valstybinio socialinio draudimo fondo veiklos sąnaudoms, susidarančioms dėl privalomojo sveikatos draudimo įmokų surinkimo ir pervedimo į Privalomojo sveikatos draudimo fondą, kompensuoti;
-
-
-
-
-8) Neteko galios nuo 2021-07-03
-Straipsnio punkto naikinimas:
-Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
- 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
- 
-
-
-
-
-2. Neteko galios nuo 2023-01-01. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1554, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24641
- 
-
-
-
-
-3. Šio straipsnio 1 dalies 6 punkte numatytoms išlaidoms gali būti skiriama iki 2 procentų Privalomojo sveikatos draudimo fondo biudžeto lėšų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
- 
+2. Šio straipsnio 1 dalies 4 punkte numatytoms išlaidoms skiriama iki 2 procentų Privalomojo sveikatos draudimo fondo biudžeto lėšų, nurodytų šio Įstatymo 15 straipsnio 1 dalyje.
 
 
 Straipsnio pakeitimai:
-Nr. XII-526, 2013-10-01, Žin., 2013, Nr. 107-5274 (2013-10-12)
-Nr. XII-655, 2013-12-10, Žin., 2013, Nr. 132-6734 (2013-12-21)
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
  
 
 
@@ -1772,6 +1748,16 @@ Nr. XII-655, 2013-12-10, Žin., 2013, Nr. 132-6734 (2013-12-21)
 
 
 
+4) lėšos, skiriamos šiam rezervui atkurti šio Įstatymo 15 straipsnio 2 dalies 2 punkte ir 9 dalyje nurodytais atvejais.
+Papildyta straipsnio punktu:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Straipsnio punkto pakeitimai:
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
+
+
+
+
 
 
 2. Privalomojo sveikatos draudimo fondo biudžeto rezervą sudaro pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis ir Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalis. Pagrindinę Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalį sudaro 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Einamaisiais metais panaudota pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis gali būti atkuriama iš pagal šio Įstatymo 15 straipsnio 2 dalies 2 punktą skirtų papildomų valstybės biudžeto asignavimų ir gali sudaryti daugiau kaip 1,5 procento einamųjų biudžetinių metų Privalomojo sveikatos draudimo fondo biudžeto pajamų sumos, patvirtintos tų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo lėšų dalį sudaro likusios Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos. 
@@ -1787,36 +1773,18 @@ Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 
 
 
-23 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšų naudojimas ir investavimas 
-Pakeistas straipsnio pavadinimas:
-Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
- 
+23 straipsnis. Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšų naudojimas ir investavimas
 
 
-1. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos skirstomos Vyriausybės nutarimu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos sveikatos apsaugos ministro sprendimu, įvertinus Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė.
+1. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos skirstomos Vyriausybės nutarimu. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos sveikatos apsaugos ministro sprendimu, įvertinus Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų skyrimo ir naudojimo tvarką nustato Vyriausybė. Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšos skiriamos ir naudojamos nepažeidžiant Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 4 straipsnio 2 dalies nuostatų.
 
 
 
 
-2. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos naudojamos: 
+2. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos:
 
 
-1) Privalomojo sveikatos draudimo fondo biudžeto išlaidoms, susidariusioms dėl ekstremaliosios situacijos (įvykio) (didelio masto gyventojų sveikatos sutrikimai dėl stichinių nelaimių, didelio masto gaisrų, epidemijų, teroro aktų, karo veiksmų), apmokėti, kai šiam tikslui neužtenka einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto lėšų;
-
-
-
-
-2) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui kompensuoti, kai nesurenkama 1/12 ir daugiau einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytų einamųjų metų planuotų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir neužtenka kasos apyvartos lėšų.
-
-
-
-
-
-
-3. Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšos naudojamos:
-
-
-1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui padengti, kai nevykdomas einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytas einamųjų metų pajamų planas ir neužtenka apyvartos lėšų šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti;
+1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui padengti, kai nevykdomas einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytas einamųjų metų pajamų planas ir neužtenka apyvartos lėšų šio Įstatymo II skyriuje nurodytai Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamai sveikatos priežiūrai apmokėti;
 
 
 
@@ -1826,40 +1794,50 @@ Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
 
 
 
-3) šio Įstatymo II skyriuje nustatytoms privalomojo sveikatos draudimo paslaugų išlaidoms kompensuoti;
+3) šio Įstatymo II skyriuje nurodytai Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamai sveikatos priežiūrai apmokėti;
 
 
 
 
-4) Vyriausybės nutarimu šio straipsnio 2 dalyje nurodytiems pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalies naudojimo tikslams, kai pagrindinė Privalomojo sveikatos draudimo fondo biudžeto rezervo lėšų dalis einamaisiais biudžetiniais metais jau panaudota ar jos neužtenka šio straipsnio 2 dalyje nurodytoms išlaidoms padengti. 
-Papildyta straipsnio punktu:
-Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
- 
+4) Privalomojo sveikatos draudimo fondo biudžeto išlaidoms, susidariusioms dėl ekstremaliosios situacijos ar ekstremaliojo įvykio, apmokėti, kai šiam tikslui neužtenka einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto lėšų;
+
+
+
+
+5) šio Įstatymo 15 straipsnio 5 dalyje nurodytoms valstybės deleguotoms funkcijoms finansuoti, kai tam neužtenka skirtų valstybės biudžeto asignavimų.
 
 
 
 
 
 
-4. Valstybinė ligonių kasa ir teritorinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšas laiko, kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, įstaigos tvarkomoje sąskaitoje valstybės ižde ir (arba) konkurso būdu pasirinktoje finansų įstaigoje arba investuoja šio straipsnio 5 dalyje nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
-Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
- 
+3. Pagrindinės Privalomojo sveikatos draudimo fondo biudžeto rezervo dalies lėšos naudojamos:
+
+
+1) Privalomojo sveikatos draudimo fondo biudžeto pajamų trūkumui kompensuoti, kai nesurenkama 1/12 ar daugiau einamųjų metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatytų einamųjų metų planuotų Privalomojo sveikatos draudimo fondo biudžeto pajamų ir neužtenka šio biudžeto apyvartos lėšų;
 
 
 
 
-5. Valstybinei ligonių kasai priėmus su Finansų ministerija suderintą sprendimą investuoti laikinai laisvas (šio Įstatymo nustatyta tvarka nepaskirstytas ir mokėjimams atlikti nenaudojamas) Privalomojo sveikatos draudimo fondo lėšas, jos pervedamos į Finansų ministerijos nurodytą valstybės iždo sąskaitą. Šias lėšas neatlygintinai valdo ir sprendimus dėl jų investavimo finansų ministro nustatyta tvarka priima Finansų ministerija, garantuodama, kad investuotos lėšos ir investavimo metu gautos pajamos Valstybinės ligonių kasos pageidavimu būtų grąžinamos į Privalomojo sveikatos draudimo fondo sąskaitą. Pajamos, gautos investuojant, naudojamos tik šiame Įstatyme nustatytoms Privalomojo sveikatos draudimo fondo biudžeto išlaidoms apmokėti. Valstybinė ligonių kasa Finansų ministerijai investavimo išlaidas kompensuoja šio Įstatymo 21 straipsnio 1 dalies 6 punkte numatytomis lėšomis. 
-Papildyta straipsnio dalimi:
-Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
-Straipsnio dalies pakeitimai:
-Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
- 
+2) šio straipsnio 2 dalies 4 ir 5 punktuose nurodytiems tikslams, kai Privalomojo sveikatos draudimo fondo biudžeto rezervo rizikos valdymo dalies lėšų einamaisiais biudžetiniais metais neužtenka šiems tikslams įgyvendinti.
+
+
+
+
+
+
+4. Valstybinė ligonių kasa ir teritorinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto ir jo rezervo lėšas laiko, kaip nustatyta Lietuvos Respublikos valstybės iždo įstatyme, įstaigos tvarkomoje sąskaitoje valstybės ižde ir (arba) konkurso būdu pasirinktoje finansų įstaigoje arba investuoja šio straipsnio 5 dalyje nustatyta tvarka.
+
+
+
+
+5. Valstybinei ligonių kasai priėmus su Finansų ministerija suderintą sprendimą investuoti laikinai laisvas (šio Įstatymo nustatyta tvarka nepaskirstytas ir mokėjimams atlikti nenaudojamas) Privalomojo sveikatos draudimo fondo lėšas, jos pervedamos į Finansų ministerijos nurodytą valstybės iždo sąskaitą. Šias lėšas neatlygintinai valdo ir sprendimus dėl jų investavimo finansų ministro nustatyta tvarka priima Finansų ministerija, garantuodama, kad investuotos lėšos ir investavimo metu gautos pajamos Valstybinės ligonių kasos pageidavimu būtų grąžinamos į Privalomojo sveikatos draudimo fondo sąskaitą. Pajamos, gautos investuojant, naudojamos tik šiame Įstatyme nustatytoms Privalomojo sveikatos draudimo fondo biudžeto išlaidoms apmokėti. Valstybinė ligonių kasa Finansų ministerijai investavimo išlaidas kompensuoja šio Įstatymo 21 straipsnio 1 dalies 4 punkte numatytomis lėšomis.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
  
 
 
@@ -1908,7 +1886,10 @@ ligonių kasų ir vaistinių sutartys
 
 
 
-2. Sutartys tarp teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigų, tarp teritorinių ligonių kasų ir vaistinių, vadovaujantis Civiliniu kodeksu, šiuo ir kitais įstatymais, sudaromos Sveikatos apsaugos ministerijos nustatyta tvarka, atsižvelgiant į Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones.
+2. Sutartys tarp teritorinių ligonių kasų ir asmens sveikatos priežiūros įstaigų bei tarp teritorinių ligonių kasų ir vaistinių sudaromos vadovaujantis Lietuvos Respublikos civiliniu kodeksu, šiuo ir kitais įstatymais. Sutarčių sudarymo tvarką nustato sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+ 
 
 
 
@@ -2326,22 +2307,32 @@ Nr. XIII-3315, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21253
 
 
 
-7) šio Įstatymo nustatytais pagrindais ir sąlygomis užtikrina prevencinės medicinos pagalbos, medicinos pagalbos, medicininės reabilitacijos, slaugos, socialinių paslaugų ir patarnavimų, priskirtų asmens sveikatos priežiūrai, bei asmens sveikatos ekspertizės paslaugų teikimo išlaidų apmokėjimą Privalomojo sveikatos draudimo fondo biudžeto lėšomis per teritorines ligonių kasas;
-
-
-
-
-8) šio Įstatymo nustatytais pagrindais ir sąlygomis užtikrina paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidų apmokėjimą per teritorines ligonių kasas; 
-Papildyta straipsnio punktu:
-Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+7) šio Įstatymo nustatytais pagrindais ir sąlygomis kompensuoja apdraustųjų sveikatos priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
  
 
 
 
 
-9) sudaro gydymo prieinamumo gerinimo ir rizikos pasidalijimo sutartis su vaistinio preparato rinkodaros teisės turėtojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją; 
+8) atlieka šio Įstatymo 15 straipsnio 5 dalyje nurodytas valstybės deleguotas funkcijas; 
 Papildyta straipsnio punktu:
 Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+Straipsnio punkto pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
+ 
+
+
+
+
+9) sudaro su vaistinio preparato registruotojais (jų atstovais) arba juridiniais asmenimis, turinčiais didmeninio platinimo licenciją, medicinos pagalbos priemonės arba specialiosios medicininės paskirties maisto produkto gamintojais ar jų atstovais, arba medicinos pagalbos priemonės platintojais, arba specialiosios medicininės paskirties maisto produkto tiekėjais gydymo prieinamumo gerinimo ir finansinės rizikos pasidalijimo sutartis, kuriose numatoma, kad jie į Privalomojo sveikatos draudimo fondą grąžina šiose sutartyse nurodyto dydžio lėšas, gautas už kompensuojamuosius vaistinius preparatus, medicinos pagalbos priemones arba specialiosios medicininės paskirties maisto produktus;
+Papildyta straipsnio punktu:
+Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
+Straipsnio punkto pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
  
 
 
@@ -2958,7 +2949,10 @@ Papildomojo (savanoriškojo) sveikatos draudimo institucijos yra draudimo įmon�
 43 straipsnis. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai
 
 
-1. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai yra apdraustojo kreipimasis į sveikatos priežiūros įstaigą dėl papildomojo (savanoriškojo) sveikatos draudimo sutartyse numatytų ir gydytojo diagnozuotų sveikatos sutrikimų ir (ar) sveikatos būklių, sudarančių pagrindą teikti apdraustiesiems šiose sutartyse numatytų rūšių ir masto asmens sveikatos priežiūros paslaugas bei patarnavimus. Šių paslaugų ir patarnavimų išlaidas papildomojo (savanoriškojo) sveikatos draudimo sutartyse nustatytomis sąlygomis apmoka draudikas.
+1. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai yra apdraustojo kreipimasis į sveikatos priežiūros įstaigą dėl papildomojo (savanoriškojo) sveikatos draudimo sutartyse numatytų ir asmens sveikatos priežiūros specialisto, kuriam teisės aktais, reguliuojančiais jo profesines teises, suteikta teisė nustatyti sveikatos būklę ir diagnozuoti ligas bei sveikatos sutrikimus, diagnozuotų sveikatos sutrikimų ir (ar) sveikatos būklių, sudarančių pagrindą teikti apdraustiesiems šiose sutartyse numatytų rūšių ir masto asmens sveikatos priežiūros paslaugas bei patarnavimus. Šių paslaugų ir patarnavimų išlaidas papildomojo (savanoriškojo) sveikatos draudimo sutartyse nustatytomis sąlygomis apmoka draudikas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+ 
 
 
 
