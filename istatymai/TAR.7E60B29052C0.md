@@ -13,29 +13,30 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
  
-LIETUVOS RESPUBLIKOS
-VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO 
-ĮSTATYMAS
-Įstatymo pavadinimas keistas:
-Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
+Nauja redakcija nuo 2024-01-01:
+Nr. XIV-2012, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11591
  
-2000 m. rugpjūčio 29 d. Nr. VIII-1904 Vilnius 
+LIETUVOS RESPUBLIKOS
+VALSTYBĖS PAREIGŪNŲ DARBO UŽMOKESČIO
+ĮSTATYMAS
+ 
+2000 m. rugpjūčio 29 d. Nr. VIII-1904
+Vilnius
+ 
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų, kuriems netaikomas Lietuvos Respublikos valstybės tarnybos įstatymas, darbo užmokesčio dydžius ir apmokėjimo sąlygas.
-
-
-Straipsnio pakeitimai:
-Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
+Šis įstatymas nustato Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio dydžius.
  
+
+
 
 
 
@@ -43,236 +44,100 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 2 straipsnis. Įstatymo taikymas
 
 
-1. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taikomi valstybės politikams: 
+Šiuo įstatymu nustatyti darbo užmokesčio dydžiai taikomi šiems valstybės pareigūnams:
 
 
-1) Seimo Pirmininkui; 
-
-
-
-
-2) Seimo pareigūnams; 
+1) Lietuvos Respublikos valstybės kontrolieriui ir kontrolieriaus pavaduotojams;
 
 
 
 
-3) Seimo nariams; 
+2) Lietuvos Respublikos konkurencijos tarybos pirmininkui, pirmininko pavaduotojams, nariams;
 
 
 
 
-4) Ministrui Pirmininkui; 
+3) Viešųjų pirkimų tarnybos direktoriui;
 
 
 
 
-5) ministrams; 
+4) Lietuvos Respublikos žvalgybos kontrolierių įstaigos vadovui, žvalgybos kontrolieriui;
 
 
 
 
-6) savivaldybių merams (toliau – meras);
+5) Lietuvos Respublikos Seimo kontrolierių įstaigos vadovui, Seimo kontrolieriams;
+
+
+
+
+6) Lietuvos Respublikos Vyriausybės atstovų įstaigos vadovui, Vyriausybės atstovams;
+
+
+
+
+7) Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės pirmininkui, nariams;
+
+
+
+
+8) Lietuvos administracinių ginčų komisijos pirmininkui, pirmininko pavaduotojui, nariams, pirmininko pavaduotojui teritoriniame padalinyje, nariams teritoriniame padalinyje;
+
+
+
+
+9) Lietuvos Respublikos vaiko teisių apsaugos kontrolieriui;
+
+
+
+
+10) žurnalistų etikos inspektoriui;
+
+
+
+
+11) Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriui;
+
+
+
+
+12) Lietuvos Respublikos lygių galimybių kontrolieriui;
+
+
+
+
+13) Vyriausiosios tarnybinės etikos komisijos pirmininkui, pirmininko pavaduotojui, nariams;
+
+
+
+
+14) Lietuvos Respublikos vyriausiosios rinkimų komisijos pirmininkui, pirmininko pavaduotojams, nariams;
+
+
+
+
+15) Lietuvos radijo ir televizijos komisijos pirmininkui, pirmininko pavaduotojui, nariams;
+
+
+
+
+16) Lietuvos mokslo tarybos pirmininkui;
 Straipsnio punkto pakeitimai:
-Nr. XIV-1269, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15615
+Nr. XIV-2345, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25600
  
 
 
 
 
-7) savivaldybių tarybų nariams.
+17) Lietuvos kultūros tarybos pirmininkui;
 
 
 
 
-
-
-2. Neteko galios 2008-11-15.
-
-
-
-
-3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės tarnybos įstatymas (toliau – valstybės pareigūnai):
-
-
-1) netenka galios 2018-07-01;
+18) kitiems Lietuvos Respublikos Seimo, Lietuvos Respublikos Prezidento, Lietuvos Respublikos Vyriausybės paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams, jų pavaduotojams (išskyrus centrinių statutinių įstaigų vadovus, Lietuvos Respublikos vadovybės apsaugos tarnybos direktorių ir jo pavaduotojus, Lietuvos Respublikos valstybės saugumo departamento direktorių ir jo pavaduotojus ir Lietuvos Respublikos specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) ir Seimo, Respublikos Prezidento, kitiems pagal specialius įstatymus paskirtiems valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams, nariams (išskyrus Valstybinės energetikos reguliavimo tarybos pirmininką, jo pavaduotoją ir narius, Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos pirmininką, jo pavaduotoją ir narius).
 Straipsnio punkto pakeitimai:
-Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
- 
-
-
-
-
-2) valstybės kontrolieriui ir jo pavaduotojams;
-
-
-
-
-3) Seimo kontrolieriams;
-
-
-
-
-4) neteko galios nuo 2009-02-01;
-
-
-
-
-5) lygių galimybių kontrolieriui;
-
-
-
-
-6) vaiko teisių apsaugos kontrolieriui;
-
-
-
-
-7) žurnalistų etikos inspektoriui; 
-
-
-
-
-8) Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus policijos generalinį komisarą bei specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
-Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
- 
-
-
-
-
-9) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams (išskyrus Valstybinės energetikos reguliavimo tarybos pirmininką ir narius, Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos pirmininką ir narius);
-Straipsnio punkto pakeitimai:
-Nr. XIII-1972, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03170
-Nr. XIV-639, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24250
- 
-
-
-
-
-11) žvalgybos pareigūnams;
-
-
-
-
-12) netenka galios 2018-01-01;
-Papildyta straipsnio punktu:
-Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
-Straipsnio punkto pakeitimai:
-Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
- 
-
-
-
-
-13) Vyriausybės atstovams;
-Papildyta straipsnio punktu:
-Nr. XIII-1481, 2018-09-18, paskelbta TAR 2018-09-24, i. k. 2018-14925
- 
-
-
-
-
-14) žvalgybos kontrolieriams.
-Papildyta straipsnio punktu:
-Nr. XIV-873, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26910
- 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
-Nr. IX-312, 2001 05 08, Žin., 2001, Nr. 43-1492 (2001 05 23)
-Nr. IX-349, 2001 05 24, Žin., 2001, Nr. 48-1661 (2001 06 06) (atitaisymas skelbtas: Žin., 2001, Nr. 49)
-Nr. IX-841, 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
-Nr. IX-1012, 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
-Nr. IX-1045, 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
-Nr. IX-1326, 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
-Nr. IX-1390, 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
-Nr. IX-1520, 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
-Nr. IX-1594, 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
-Nr. IX-1918, 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
-Nr. X-789, 2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
-Nr. X-1688, 2008-07-03, Žin., 2008, Nr. 81-3188 (2008-07-17)
-Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
-Nr. XI-865, 2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
-Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
- 
-
-
-
-
-3 straipsnis. Valstybės politikų ir valstybės pareigūnų darbo užmokestis
-
-
-1. Valstybės politikų darbo užmokestis susideda iš:
-
-
-1) pareiginės algos;
-
-
-
-
-2) priedo už ištarnautus Lietuvos valstybei metus.
-
-
-
-
-
-
-2. Valstybės pareigūnų darbo užmokestis susideda iš:
-
-
-1) pareiginės algos;
-
-
-
-
-2) priedo už ištarnautus Lietuvos valstybei metus;
-
-
-
-
-3) vienkartinės priemokos. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
- 
-
-
-
-
-3. Neteko galios nuo 2018-07-01
-Straipsnio dalies naikinimas:
-Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
- 
-
-
-
-
-4. Žvalgybos pareigūnų darbo užmokestis susideda iš:
-
-
-1) pareiginės algos;
-
-
-
-
-2) priedo už tarnybinį rangą ar kario laipsnį;
-
-
-
-
-3) priedo už tarnybos stažą;
-
-
-
-
-4)  priemokos už su ypatinga specifika susijusių funkcijų atlikimą. 
-Papildyta straipsnio punktu:
-Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
+Nr. XIV-2411, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25929
  
 
 
@@ -280,175 +145,24 @@ Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
 
 
 
-5. Žvalgybos pareigūnų priedų už tarnybinį rangą ar kario laipsnį, priedo už tarnybos stažą ir priemokos už su ypatinga specifika susijusių funkcijų atlikimą dydžius nustato Lietuvos Respublikos žvalgybos įstatymas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
+
+
+3 straipsnis. Valstybės pareigūnų darbo užmokestis
+
+
+1. Valstybės pareigūnų, nurodytų šio įstatymo priede, darbo užmokestis (pareiginė alga) apskaičiuojamas šio įstatymo priede atitinkamą valstybės pareigūnui nustatytą pareiginės algos koeficientą padauginus iš Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto pareiginės algos (atlyginimo) bazinio dydžio.
+
+
+
+
+2. Duomenys apie valstybės pareigūnų darbo užmokestį yra vieši. Šie duomenys teikiami vadovaujantis Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo nustatyta tvarka.
+
+
+
+
+
+
  
-
-
-
-
-6. Neteko galios nuo 2018-01-01
-Straipsnio dalies naikinimas:
-Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
- 
-
-
-
-
-7. Neteko galios nuo 2018-01-01
-Straipsnio dalies naikinimas:
-Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
-Papildyta straipsnio dalimi:
-Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
- 
-
-
-
-
-8. Duomenys apie valstybės politikų ir valstybės pareigūnų darbo užmokestį yra vieši. Šie duomenys teikiami vadovaujantis Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo nustatyta tvarka.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
- 
-
-
-
-
-9. Valstybės pareigūnų, nurodytų šio įstatymo priedėlio IV skirsnyje, einančių pareigas įstaigose, kuriose pagal šiame įstatyme nustatytą tvarką apskaičiuotas darbo užmokestis yra mažesnis negu 115 procentų toje įstaigoje dirbančio ir didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, o kai tokiu didžiausią darbo užmokestį gaunančiu tarnautoju ar darbuotoju, dirbančiu pagal darbo sutartį, yra vadovo pavaduotojas, – mažesnė negu 110 procentų, darbo užmokesčio vidurkis, įvertinus per praėjusius kalendorinius metus apskaičiuotą darbo užmokestį, darbo užmokesčio dydis apskaičiuojamas šiame straipsnyje nustatyta tvarka. Valstybės pareigūnų, einančių institucijos vadovo pareigas, darbo užmokestis šiame straipsnyje apibrėžtais atvejais yra 15 procentų didesnis negu toje įstaigoje didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, darbo užmokesčio per praėjusius kalendorinius metus vidurkis, o kai tokiu didžiausią darbo užmokestį gaunančiu tarnautoju ar darbuotoju, dirbančiu pagal darbo sutartį, yra vadovo pavaduotojas, – 10 procentų didesnis. Valstybės pareigūnų, einančių įstaigos vadovo pavaduotojo pareigas, darbo užmokestis yra 5 procentais didesnis negu toje įstaigoje didžiausią darbo užmokestį gaunančio valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, darbo užmokesčio per praėjusius kalendorinius metus vidurkis. Kitų valstybės pareigūnų, dirbančių toje įstaigoje, darbo užmokestis yra 10 procentų mažesnis negu įstaigos vadovo darbo užmokestis, apskaičiuotas šioje dalyje nustatyta tvarka. Šioje dalyje nustatytas darbo užmokesčio skaičiavimas atliekamas vieną kartą per metus.
-Papildyta straipsnio dalimi:
-Nr. XII-1807, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10146
-Straipsnio dalies pakeitimai:
-Nr. XIII-819, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20023
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
- 
-
-
-Straipsnio pakeitimai:
-Nr. IX-811, 2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
-Nr. IX-1045, 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
-Nr. IX-1520, 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
-Nr. X-1254, 2007-07-03, Žin., 2007, Nr. 81-3318 (2007-07-21)
-Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
-Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
- 
-
-
-
-
-4 straipsnis. Valstybės politikų ir valstybės pareigūnų pareiginės algos
-
-
-1. Valstybės politikų ir valstybės pareigūnų pareiginės algos skaičiuojamos taikant pareiginės algos bazinį dydį (toliau – bazinis dydis), kurį Vyriausybės teikimu, įvertinus valstybės politikams ir valstybės pareigūnams atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė.
-
-
-
-
-2. Pareiginė alga apskaičiuojama šio įstatymo priedėlyje nustatytą atitinkamą pareiginės algos koeficientą ar iš koeficientų intervalo įstatymų nustatyta tvarka pareigūnui nustatytą koeficientą padauginus iš bazinio dydžio. Pareiginė alga apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis skaitmuo būtų 0 arba 5. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
- 
-
-
-
-
-3. Savivaldybių tarybų narių pagrindinėje darbovietėje negautas atlyginimas už laiką, praleistą tarybos, komitetų, komisijų, kolegijos posėdžiuose, taip pat už laiką, praleistą vykdant kitas savivaldybės tarybos nario pareigas, mokamas Vietos savivaldos įstatymo nustatytais pagrindais.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1594, 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
-Nr. X-789, 2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
-Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
-Nr. XI-82, 2008-12-19, Žin., 2008, Nr. 149-6008 (2008-12-30)
- 
-
-
-
-
-5 straipsnis. Priedas už tarnybos Lietuvos valstybei stažą 
-
-
-1. Valstybės politikams ir valstybės pareigūnams mokamas priedas už tarnybos Lietuvos valstybei stažą, nurodytą Lietuvos Respublikos valstybės tarnybos įstatymo 47 straipsnio 1 ir 2 dalyse, apskaičiuojamą Vyriausybės nustatyta tvarka.
-
-
-
-
-2. Priedą už tarnybos Lietuvos valstybei stažą sudaro 1 procentas valstybės politiko ar valstybės pareigūno pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus, tačiau šio priedo dydis neturi viršyti 30 procentų pareiginės algos.
-
-
- Straipsnio pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
-Nr. X-1254, 2007-07-03, Žin., 2007, Nr. 81-3318 (2007-07-21)
-Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
-Straipsnio pakeitimai:
-Nr. XIII-2751, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21567
- 
-
-
-
-
-51 straipsnis. Neteko galios nuo 2018-07-01
-Straipsnio naikinimas:
-Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
- 
-
-
-
-
-6 straipsnis. Vienkartinė priemoka
-
-
-1. Valstybės pareigūnams metų pabaigoje už viršvalandinį darbą, darbą poilsio ir švenčių dienomis išmokama ne didesnė kaip pareiginės algos dydžio vienkartinė priemoka. Ji mokama neviršijant valstybės pareigūnų darbo užmokesčiui teisės aktų nustatyta tvarka skirtų lėšų. Jeigu šių lėšų nepakanka, taip pat jei valstybės pareigūnas institucijoje nėra išdirbęs visų metų, priemokos dydis perskaičiuojamas proporcingai esamoms darbo užmokesčio lėšoms ir dirbtam laikui tais metais.
-
-
-
-
-2. Institucijų teisės aktuose (statutuose, nuostatuose), reglamentuojančiuose valstybės pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas sukonkretinamos šio straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo sąlygos bei tvarka.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1045, 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
- 
-
-
-
-
-7 straipsnis. Neteko galios 2008-11-15.
-Straipsnio pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
-Nr. IX-231, 2001 03 27, Žin., 2001, Nr. 29-918 (2001 04 04)
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2001-07-12, Žin., 2001, Nr. 62-2276 (2001-07-18)
-Nr. IX-667, 2001-12-18, Žin., 2001, Nr. 111-4026 (2001-12-30)
-Nr. IX-841, 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
-Nr. IX-1012, 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
-Nr. IX-1240, 2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
-Nr. IX-1326, 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
-Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
- 
-
-
-
-
-8 straipsnis. Neteko galios 2000-10-31.
-Straipsnio pakeitimai:
-Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
- 
-
-
-
-
-9 straipsnis. Pasiūlymai Vyriausybei
-
-
-Lietuvos Respublikos Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės žiniose“ parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu, pakeitimų ir papildymų įstatymų projektus.
- 
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
@@ -458,518 +172,234 @@ RESPUBLIKOS PREZIDENTAS                             
  
 
 
+ 
 
 
 
 
- 
-
+ 
 Lietuvos Respublikos 
-valstybės politikų ir valstybės
-pareigūnų darbo apmokėjimo
+valstybės pareigūnų darbo užmokesčio
 įstatymo
-priedėlis 
+priedas 
  
-I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
-(Baziniais dydžiais)
+VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS KOEFICIENTAI
+ 
 
 
 
  Eil. Nr. 
- Pareigų pavadinimas 
+ Pareigybės pavadinimas 
  Pareiginės algos koeficientas 
 
 
- 1. 
- Seimo Pirmininkas  
- 25,8 
-
-
- 2. 
- Seimo pareigūnai: 
-   
-
-
- 2.1. 
- Pirmininko pirmasis pavaduotojas  
- 23,2 
-
-
- 2.2. 
- Pirmininko pavaduotojai, Seimo opozicijos lyderis  
- 22,4 
-
-
- 2.3. 
- Komitetų pirmininkai  
- 21,7 
-
-
- 2.4. 
- Komitetų pirmininkų pavaduotojai  
- 20,5 
-
-
- 2.5. 
- Pakomitečių pirmininkai, nuolatinių komisijų pirmininkai  
- 20,2 
-
-
- 2.6. 
- Nuolatinių komisijų pirmininkų pavaduotojai  
- 19,6 
-
-
- 2.7. 
- Frakcijų vadovai, kai frakcijos dydis: 
- Seniūnai 
- Seniūnų pavaduotojai 
-
-
- 2.7.1. 
- nuo 7 iki 10 narių  
- 20,0 
- 19,6 
-
-
- 2.7.2. 
- nuo 11 iki 20 narių  
- 20,2 
- 19,9 
-
-
- 2.7.3. 
- nuo 21 iki 30 narių  
- 20,7 
- 20,1 
-
-
- 2.7.4. 
- nuo 31 iki 40 narių  
- 21,4 
- 20,7 
-
-
- 2.7.5. 
- daugiau kaip 40 narių  
- 21,9 
- 21,2 
-
-
- 3. 
- Seimo nariai  
- 19,4 
-
-
- 4. 
- Vyriausybė: 
-   
-
-
- 4.1. 
- Ministras Pirmininkas 
- 25,8 
-
-
- 4.2. 
- Ministrai 
- 23,8 
-
-
- 5. 
- Merai, kai savivaldybės teritorijoje gyvena: 
-   
-
-
- 5.1. 
- per 500 tūkst. gyventojų 
- 19,1 
-
-
- 5.2. 
- nuo 100 tūkst. gyventojų iki 500 tūkst. gyventojų 
- 19 
-
-
- 5.3. 
- nuo 50 tūkst. gyventojų iki 100 tūkst. gyventojų 
- 18,6 
-
-
- 5.4. 
- nuo 15 tūkst. gyventojų iki 50 tūkst. gyventojų 
- 18,3 
-
-
- 5.5. 
- iki 15 tūkst. gyventojų 
- 18 
-
-
-
-
-
-
-
-
-
-
-
-Pastabos. 
-1. Mero pareiginei algai taikytinas koeficientas nustatomas atsižvelgiant į savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų ir merų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje Lietuvos Respublikos gyventojų registro tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatytas koeficientas galioja iki pirmojo išrinktos naujos savivaldybės tarybos posėdžio.
-2. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, merui šio įstatymo priedėlio I skyriaus 5 punkte nustatytas pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, merui šio įstatymo priedėlio I skyriaus 5 punkte nustatytas pareiginės algos koeficientas didinamas 5 procentais.
- 
-III. Prokurorų pareiginės algos
-III skyrius neteko galios 2018-07-01
- 
- 
-IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
- 
-(Baziniais dydžiais)
-
-
-
- Eil. Nr. 
- Pareigų pavadinimas 
- Pareiginės algos koeficientas 
 
 
  1. 
- Valstybės kontrolė:  
-
+ Lietuvos Respublikos valstybės kontrolierius 
+ 4,0 
 
 
  1.1. 
- valstybės kontrolierius  
- 15,5 
-
-
- 1.2. 
- valstybės kontrolieriaus pavaduotojai  
- 13,8 
+ Lietuvos Respublikos valstybės kontrolieriaus pavaduotojas 
+ 3,8 
 
 
  2. 
- Seimo kontrolieriai:  
-
+ Lietuvos Respublikos konkurencijos tarybos pirmininkas 
+ 4,0 
 
 
  2.1. 
- įstaigos vadovas  
- 15,5 
+ Lietuvos Respublikos konkurencijos tarybos pirmininko pavaduotojas 
+ 3,8 
 
 
  2.2. 
- Seimo kontrolieriai  
- 14,5 
+ Lietuvos Respublikos konkurencijos tarybos narys 
+ 3,6 
 
 
  3. 
- Lygių galimybių kontrolierius  
- 13 
+ Viešųjų pirkimų tarnybos direktorius 
+ 4,0 
 
 
  4. 
- Vaiko teisių apsaugos kontrolierius  
- 13 
+ Lietuvos Respublikos žvalgybos kontrolierių įstaigos vadovas 
+ 3,5 
 
 
  5. 
- Žurnalistų etikos inspektorius, akademinės etikos ir procedūrų kontrolierius 
- 12 
+ Lietuvos Respublikos žvalgybos kontrolierius 
+ 3,4 
 
 
  6. 
- Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Vyriausiosios tarnybinės etikos komisijos, Valstybinės lietuvių kalbos komisijos: 
-
-
-
- 6.1. 
- pirmininkai ar direktoriai 
- 12,3 
-
-
- 6.2. 
- pavaduotojai 
- 11 
-
-
- 6.3. 
- nariai 
- 9,5 
+ Lietuvos Respublikos Seimo kontrolierių įstaigos vadovas 
+ 3,5 
 
 
  7. 
- Vyriausiosios rinkimų komisijos: 
-   
-
-
- 7.1. 
- pirmininkas 
- 15,5 
-
-
- 7.2. 
- pavaduotojai 
- 14 
-
-
- 7.3. 
- nariai 
- 12,3 
+ Lietuvos Respublikos Seimo kontrolierius 
+ 3,4 
 
 
  8. 
- Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų:  
-
-
-
- 8.1. 
- pirmininkai  
- 9 
-
-
- 8.2. 
- pavaduotojai  
- 7,3 
-
-
- 8.3. 
- nariai  
- 7 
+ Lietuvos Respublikos Vyriausybės atstovų įstaigos vadovas 
+ 3,5 
 
 
  9. 
- Kiti Seimo ar Respublikos Prezidento paskirti institucijų ir įstaigų:  
-
-
-
- 9.1. 
- vadovai  
- 8 
-
-
- 9.2. 
- pareigūnai  
- 7 
+ Lietuvos Respublikos Vyriausybės atstovas 
+ 3,4 
 
 
  10. 
- Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės:  
-
+ Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės pirmininkas  
+ 3,1 
 
 
  10.1. 
- pirmininkas  
- 18 
-
-
- 10.2. 
- nariai  
- 17 
+ Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narys 
+ 2,8 
 
 
  11. 
- Lietuvos administracinių ginčų komisijos: 
-   
+ Lietuvos administracinių ginčų komisijos pirmininkas 
+ 3,1 
 
 
  11.1. 
- pirmininkas 
- 18 
+ Lietuvos administracinių ginčų komisijos pirmininko pavaduotojas 
+ 2,9 
 
 
  11.2. 
- pirmininko pavaduotojas  
- 17 
+ Lietuvos administracinių ginčų komisijos pirmininko pavaduotojas teritoriniame padalinyje 
+ 2,8 
 
 
  11.3. 
- nariai 
- 16 
+ Lietuvos administracinių ginčų komisijos narys 
+ 2,8 
 
 
  11.4. 
- pirmininko pavaduotojai teritoriniuose padaliniuose 
- 10,5 
-
-
- 11.5. 
- teritorinių padalinių nariai 
- 9,5 
+ Lietuvos administracinių ginčų komisijos narys teritoriniame padalinyje 
+ 2,6 
 
 
  12. 
- Lietuvos gyventojų genocido ir rezistencijos tyrimo centro generalinis direktorius  
- 12 
+ Lietuvos Respublikos vaiko teisių apsaugos kontrolierius 
+ 3,5 
 
 
  13. 
- neteko galios 2019-01-01 
-
+ Žurnalistų etikos inspektorius 
+ 3,4 
 
 
  14. 
- Vyriausybės atstovai: 
-   
-
-
- 14.1. 
- įstaigos vadovas 
- 14,3 
-
-
- 14.2. 
- Vyriausybės atstovas 
- 13 
+ Lietuvos Respublikos akademinės etikos ir procedūrų kontrolierius 
+ 3,4 
 
 
  15. 
- Žvalgybos kontrolierių įstaiga: 
+ Lietuvos Respublikos lygių galimybių kontrolierius 
+ 3,5 
+
+
+ 16. 
+ Vyriausiosios tarnybinės etikos komisijos pirmininkas 
+ 3,1 
+
+
+ 16.1. 
+ Vyriausiosios tarnybinės etikos komisijos pirmininko pavaduotojas 
+ 2,9 
+
+
+ 16.2. 
+ Vyriausiosios tarnybinės etikos komisijos narys 
+ 2,8 
+
+
+ 17. 
+ Lietuvos Respublikos vyriausiosios rinkimų komisijos pirmininkas 
+ 3,1 
+
+
+ 17.1. 
+ Lietuvos Respublikos vyriausiosios rinkimų komisijos pirmininko pavaduotojas 
+ 2,9 
+
+
+ 17.2. 
+ Lietuvos Respublikos vyriausiosios rinkimų komisijos narys 
+ 2,8 
+
+
+ 18. 
+ Lietuvos radijo ir televizijos komisijos pirmininkas 
+ 3,4 
+
+
+ 18.1. 
+ Lietuvos radijo ir televizijos komisijos pirmininko pavaduotojas 
+ 3,2 
+
+
+ 18.2. 
+ Lietuvos radijo ir televizijos komisijos narys 
+ 3,1 
+
+
+ 19. 
+ Lietuvos mokslo tarybos pirmininkas 
+ 3,4 
+
+
+ 19.1. 
+ Neteko galios 
    
 
 
- 15.1. 
- įstaigos vadovas 
- 15,5 
+ 20. 
+ Lietuvos kultūros tarybos pirmininkas 
+ 2,4 
 
 
- 15.2. 
- žvalgybos kontrolieriai 
- 14,5 
+ 21. 
+ Kiti Lietuvos Respublikos Seimo, Lietuvos Respublikos Prezidento, Lietuvos Respublikos Vyriausybės paskirti institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovai (išskyrus centrinių statutinių įstaigų vadovus, Lietuvos Respublikos vadovybės apsaugos tarnybos direktorių, Lietuvos Respublikos valstybės saugumo departamento direktorių ir Lietuvos Respublikos specialiųjų tyrimų tarnybos direktorių) ir Seimo, Respublikos Prezidento, kiti pagal specialius įstatymus paskirti valstybinių (nuolatinių) komisijų ir tarybų pirmininkai (išskyrus Valstybinės energetikos reguliavimo tarybos pirmininką, Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos pirmininką) 
+ 2,0 
+
+
+ 21.1. 
+ Kiti Lietuvos Respublikos Seimo, Lietuvos Respublikos Prezidento, Lietuvos Respublikos Vyriausybės paskirti institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovų pavaduotojai (išskyrus Lietuvos Respublikos vadovybės apsaugos tarnybos direktoriaus pavaduotojus, Lietuvos Respublikos valstybės saugumo departamento direktoriaus pavaduotojus ir Lietuvos Respublikos specialiųjų tyrimų tarnybos direktoriaus pavaduotojus) ir Seimo, Respublikos Prezidento, kiti pagal specialius įstatymus paskirti valstybinių (nuolatinių) komisijų ir tarybų pirmininkų pavaduotojai (išskyrus Valstybinės energetikos reguliavimo tarybos pirmininko pavaduotojus, Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos pirmininko pavaduotojus) 
+ 1,9 
+
+
+ 21.2. 
+ Kiti Lietuvos Respublikos Seimo, Lietuvos Respublikos Prezidento, Lietuvos Respublikos Vyriausybės paskirti institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, nariai (valstybės pareigūnai) ir Seimo, Respublikos Prezidento, kiti pagal specialius įstatymus paskirti valstybinių (nuolatinių) komisijų ir tarybų nariai (išskyrus Valstybinės energetikos reguliavimo tarybos narius, Lietuvos Respublikos ryšių reguliavimo tarnybos tarybos narius) 
+ 1,8 
 
 
 
-Pastaba. Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis apskaičiuojamas proporcingai dirbtam laikui.
+
+
+
+
+
+
+______________________
  
-V. ŽVALGYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
- 
-(Baziniais dydžiais)
- 
-
-
-
- Pareigų pavadinimas 
- Pareiginės algos koeficientas 
-
-
- Direktorius 
- 19 
-
-
- Direktoriaus pavaduotojas 
- 18 
-
-
- Valdybos viršininkas 
- 17 
-
-
- Valdybos viršininko pavaduotojas 
- 16 
-
-
- Skyriaus viršininkas 
- 13,5–15,5 
-
-
- Skyriaus viršininko pavaduotojas 
- 13–14,5 
-
-
- Poskyrio viršininkas 
- 12,5–14,5 
-
-
- Vyriausiasis specialistas 
- 12–14 
-
-
- Vyresnysis specialistas 
- 11–13 
-
-
- Specialistas 
- 10–11,5 
-
-
- Jaunesnysis specialistas 
- 8–10 
-
-
-
- 
- 
-VI. SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
-VI skyrius neteko galios 2018-01-01
- 
- 
-Priedėlio pakeitimai:
-Nr. VIII-2057, 2000 10 17, Žin., 2000, Nr. 92-2887 (2000 10 31)
-Nr. IX-312, 2001 05 08, Žin., 2001, Nr. 43-1492 (2001 05 23)
-Nr. IX-349, 2001 05 24, Žin., 2001, Nr. 48-1661 (2001 06 06)
-Nr. IX-841, 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
-Nr. IX-1012, 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
-Nr. IX-1045, 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
-Nr. IX-1326, 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
-Nr. IX-1390, 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
-Nr. IX-1520, 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
-Nr. IX-1594, 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
-Nr. IX-1738, 2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
-Nr. IX-1918, 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
-Nr. X-128, 2005-02-15, Žin., 2005, Nr. 28-877 (2005-02-26)
-Nr. X-789, 2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
-Nr. X-1253, 2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
-Nr. X-1385, 2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
-Nr. X-1688, 2008-07-03, Žin., 2008, Nr. 81-3188 (2008-07-17)
-Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
-Nr. X-1816, 2008-11-13, Žin., 2008, Nr. 135-5245 (2008-11-25)
-Nr. XI-157, 2009-01-20, Žin., 2009, Nr. 11-398 (2009-01-29)\
-Nr. XI-224, 2009-04-23, Žin., 2009, Nr. 49-1935 (2009-04-30)
-Nr. XI-866, 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
-Nr. XI-951, 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
-Nr. XI-1582, 2011-09-15, Žin., 2011, Nr. 119-5615 (2011-10-01)
-Nr. XI-1727, 2011-11-22, Žin., 2011, Nr. 150-7042 (2011-12-08)
-Nr. XI-1789, 2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
-Nr. XI-1839, 2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
-Nr. XI-2181, 2012-06-29, Žin., 2012, Nr. 82-4267 (2012-07-13)
-Nr. XII-109, 2012-12-20, Žin., 2012, Nr. 155-7987 (2012-12-31)
-Nr. XII-443, 2013-07-02, Žin., 2013, Nr. 79-3978 (2013-07-23)
-Nr. XI-361, 2009-07-17, Žin., 2009, Nr. 91-3916 (2009-07-31)
-Nr. XI-980, 2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
-Nr. XI-1726, 2011-11-22, Žin., 2011, Nr. 150-7041 (2011-12-08)
-Nr. XI-1840, 2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
-Nr. XII-110, 2012-12-20, Žin., 2012, Nr. 155-7988 (2012-12-31)
-Nr. XI-865, 2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
-Nr. XI-1581, 2011-09-15, Žin., 2011, Nr. 119-5614 (2011-10-01)
-Nr. XI-1790, 2011-12-09, Žin., 2011, Nr. 156-7387 (2011-12-22)
-Nr. XI-1788, 2011-12-09, Žin., 2011, Nr. 156-7385 (2011-12-22)
-Nr. XI-1834, 2011-12-21, Žin., 2011, Nr. 163-7747 (2011-12-31)
-Nr. XII-111, 2012-12-20, Žin., 2012, Nr. 155-7989 (2012-12-31)
-Nr. XI-2180, 2012-06-29, Žin., 2012, Nr. 82-4266 (2012-07-13)
-Nr. XI-2296, 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
-Nr. XII-122, 2012-12-20, Žin., 2012, Nr. 155-8000 (2012-12-31)
-Nr. XII-443, 2013-07-02, Žin., 2013, Nr. 79-3978 (2013-07-23)
-Nr. XII-688, 2013-12-17, Žin., 2013, Nr. 140-7065 (2013-12-30)
 Priedo pakeitimai:
-Nr. XII-1630, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06452
-Nr. XII-1764, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09300
-Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
-Nr. XIII-768, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18820
-Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
-Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
-Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
-Nr. XIII-1376, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11331
-Nr. XIII-1828, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21848
-Nr. XIII-1481, 2018-09-18, paskelbta TAR 2018-09-24, i. k. 2018-14925
-Nr. XIII-1972, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03170
-Nr. XIII-2431, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16069
-Nr. XIII-2751, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21567
-Nr. XIV-873, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26910
-Nr. XIV-639, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24250
-Nr. XIV-1269, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15615
+Nr. XIV-2345, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25600
+Nr. XIV-2411, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25929
  
-part_d396ab3ca29343ec8aa35b511dd2b4bc_end
+
+
 
 
  
@@ -1366,3 +796,18 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1269, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15615
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2 straipsnio ir priedėlio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2012, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11591
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2345, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25600
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 pakeitimo įstatymo Nr. XIV-2012 1 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2411, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25929
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 pakeitimo įstatymo Nr. XIV-2012 1 straipsnio pakeitimo įstatymas
