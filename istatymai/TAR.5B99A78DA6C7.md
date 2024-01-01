@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 
 # Lietuvos Respublikos maisto įstatymas
 
-Suvestinė redakcija nuo 2019-12-14 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
  
@@ -70,226 +70,174 @@ Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Maistas – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002, nustatančio maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiančio Europos maisto saugos tarnybą ir nustatančio su maisto saugos klausimais susijusias procedūras (toliau – Reglamentas (EB) Nr. 178/2002), 2 straipsnyje. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
-Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
+1. Energinis gėrimas – nealkoholinis gėrimas, kuriame yra daugiau kaip 150 mg/l kofeino, nesvarbu, iš kokio šaltinio, arba kuriame yra daugiau kaip 150 mg/l kofeino ir vienos ar kelių kitų centrinę nervų sistemą stimuliuojančių medžiagų (gliukurono laktono, inozitolio, guaranino, ginsenozidų, ginkmedžių ekstrakto, taurino ar kt.). Energiniame gėrime gali būti ir angliavandenių, vitaminų, mineralinių medžiagų, amino rūgščių, maisto priedų, vaisių sulčių ar augalų ekstraktų.
 
 
 
 
-2. Maistinės medžiagos – žmogaus organizmui būtinos maisto sudėtinės dalys (maiste esantys baltymai, riebalai, angliavandeniai, vitaminai, mineralinės ir kitos medžiagos bei specialūs maisto papildai – vitaminai, mineralinės ir kitos medžiagos).
+2. Galutinis vartotojas (toliau – vartotojas) – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 18 dalyje.
 
 
 
 
-3. Su maistu besiliečiantys gaminiai ir medžiagos – su maistu skirti liestis gaminiai ir medžiagos, kuriems taikomas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1935/2004 dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinantis direktyvas 80/590/EEB ir 89/109/EEB (OL 2004 L 338, p. 4), su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 596/2009 (OL 2009 L 188, p. 14) (toliau – Reglamentas (EB) Nr. 1935/2004). 
-Straipsnio dalies pakeitimai:
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
+3. Gyvūninio maisto tvarkymo subjektas – maisto tvarkymo subjektas, kuris tvarko gyvūninius produktus, apibrėžtus 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 853/2004, nustatančio konkrečius gyvūninės kilmės maisto produktų higienos reikalavimus, 1 priedo 8.1 papunktyje.
 
 
 
 
-4. Maisto higiena – sąlygos ir priemonės, užtikrinančios maisto saugą bei tvarkant maistą padedančios išsaugoti jo tinkamumą žmonių mitybai.
+4. Kūdikiams skirti maisto produktai – kaip apibrėžta 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 609/2013 dėl kūdikiams ir mažiems vaikams skirtų maisto produktų, specialiosios medicininės paskirties maisto produktų ir viso paros raciono pakaitalų svoriui kontroliuoti ir kuriuo panaikinami Tarybos direktyva 92/52/EEB, Komisijos direktyvos 96/8/EB, 1999/21/EB, 2006/125/EB ir 2006/141/EB, Europos Parlamento ir Tarybos direktyva 2009/39/EB ir Komisijos reglamentai (EB) Nr. 41/2009 ir (EB) Nr. 953/2009 su visais pakeitimais 2 straipsnio 2 dalies f punkte.
 
 
 
 
-5. Maisto tvarkymas – bet koks poveikis maistui arba veiksmai su juo ar atskiromis jo sudėtinėmis dalimis (įskaitant maisto gaminimą, ruošimą, perdirbimą, pakavimą, laikymą, saugojimą, gabenimą, paskirstymą, tiekimą, pateikimą parduoti, pardavimą), galintys turėti įtakos maisto saugai, kokybei ir mitybos vertei. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
- 
+5. Maistas – kaip apibrėžta Reglamento (EB) Nr. 178/2002 2 straipsnyje.
 
 
 
 
-6. Maisto tvarkymo vieta – viešųjų ar privačių juridinių asmenų vieta (įskaitant teritoriją, statinius ir transporto priemones), kurioje tvarkomas maistas. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
- 
+6. Maistinės medžiagos – maiste esantys baltymai, angliavandeniai, riebalai, skaidulinės medžiagos, vitaminai, mineralinės medžiagos ir medžiagos, kurios priklauso vienai iš tų kategorijų ar yra jų komponentai, taip pat kitos maiste esančios medžiagos, turinčios mitybinį ir fiziologinį poveikį.
 
 
 
 
-7. Maisto priedai – medžiagos, kurios, paprastai nebūdamos maistu ar jo sudėtinėmis dalimis, dedamos į maistą technologiniais tikslais jo tvarkymo metu ir kurios pačios arba jų dalys tvarkymo proceso pabaigoje tampa arba tikėtina, kad tampa, sudėtine maisto dalimi.
+7. Maisto higiena – sąlygos ir priemonės, užtikrinančios maisto saugą bei tvarkant maistą padedančios išsaugoti jo tinkamumą žmonių mitybai.
 
 
 
 
-8. Maisto tvarkymo subjektas – ši sąvoka atitinka sąvoką „maisto verslo operatorius“ ir vartojama ta pačia reikšme, kaip ši apibrėžta Reglamente (EB) Nr. 178/2002. 
-Straipsnio dalies pakeitimai:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
+8. Maisto klastojimas – tyčiniai vartotoją ar ūkio subjektą klaidinantys veiksmai, atliekami siekiant ekonominės ar kitokios naudos, kai maisto sudėtyje natūraliai esanti arba įprastai naudojama sudedamoji (sudedamosios) dalis (dalys) pakeičiama (pakeičiamos) kita sudedamąja dalimi ar dalimis to nenurodant ant pakuotės ir (ar) fasuotės, etiketėse ir (ar) lydimuosiuose dokumentuose ir (arba) maistą apibūdinanti informacija pašalinama arba klaidingai ar užmaskuotai pateikiama ar pakeičiama ant bet kokios rūšies pakuotės ir (ar) fasuotės, etiketėse ir (ar) lydimuosiuose dokumentuose, ir (arba) atliekami kitokie klaidinantys veiksmai, susiję su kitos maistui identifikuoti skirtos informacijos pateikimu.
 
 
 
 
-9. Su maistu besiliečiančių gaminių ir medžiagų gamintojas – fizinis ar juridinis asmuo, Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs veiklą, gaminantis su maistu besiliečiančius gaminius ir medžiagas, kuriems taikomas Reglamentas (EB) Nr. 1935/2004. 
-Straipsnio dalies pakeitimai:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
+9. Maisto kokybė (toliau – kokybė) – maisto savybių visuma, tenkinanti pagrįstus vartotojo poreikius ir atitinkanti maisto saugos ir kitus teisės aktų nustatytus reikalavimus.
 
 
 
 
-10. Su maistu besiliečiančių gaminių ir medžiagų tiekėjas – fizinis ar juridinis asmuo, Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs veiklą, pateikiantis į rinką su maistu besiliečiančius gaminius ir medžiagas, kuriems taikomas Reglamentas (EB) Nr. 1935/2004. 
-Straipsnio dalies pakeitimai:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
+10. Maisto pardavėjas (toliau – pardavėjas) – maisto tvarkymo subjektas, pagal vartojimo pirkimo–pardavimo sutartį parduodantis maistą galutiniam vartotojui.
 
 
 
 
-11. Sauga – šio įstatymo bei kitų teisės aktų nustatytų maisto ir jo tvarkymo reikalavimų visuma, užtikrinanti, kad vartojant maistą įprastomis, gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti vartojimo sąlygomis, įskaitant ir ilgalaikį vartojimą, nebus jokios rizikos vartotojų sveikatai ar gyvybei arba ji bus ne didesnė negu ta, kuri teisės aktuose nustatyta kaip leidžiama bei laikoma atitinkančia aukštą vartotojų apsaugos lygį.
+11. Maisto priedai – kaip apibrėžta 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1333/2008 dėl maisto priedų 3 straipsnio 2 dalies a punkte.
 
 
 
 
-12. Galutinis vartotojas (toliau – vartotojas) – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 18 dalyje. 
-Papildyta straipsnio dalimi:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
-Straipsnio dalies pakeitimai:
-Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
-Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
+12. Maisto sauga (toliau – sauga) – visuma Lietuvos Respublikos maisto įstatymo bei kitų teisės aktų nustatytų maisto ir jo tvarkymo reikalavimų, kuriais užtikrinama, kad vartojant maistą įprastomis, gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti vartojimo sąlygomis, įskaitant ir ilgalaikį vartojimą, nebus jokios rizikos vartotojų sveikatai ar gyvybei arba ji bus ne didesnė, negu teisės aktuose nustatyta kaip leidžiama ir laikoma atitinkančia aukštą vartotojų apsaugos lygį.
 
 
 
 
-13. Kokybė – maisto savybių visuma, tenkinanti konkrečius vartotojo poreikius, kurių protingai galima tikėtis, bei atitinkanti saugos ir kitus privalomuosius teisės aktų nustatytus reikalavimus. 
-Straipsnio dalies pakeitimai:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
- 
+13. Maisto srities teisės aktai – kaip apibrėžta Reglamento (ES) 2017/625 3 straipsnio 1 punkte.
 
 
 
 
-14. Specialios mitybos maistas – maistas, kuris dėl savo ypatingos sudėties ar tvarkymo skiriasi nuo įprastinio maisto, skiriamas dėl ypatingos fizinės ar fiziologinės būklės kylantiems mitybos poreikiams tenkinti ir atitinka deklaruojamą specialią paskirtį. Jis ženklinamas ir pateikiamas į rinką tokiu būdu, iš kurio matyti, kokiai vartotojų grupei jis skirtas. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
- 
+14. Maisto teršalas (toliau – teršalas) – atsitiktinai į maistą patekusi ar įdėta bet kokia cheminė ar biologinė ne maisto medžiaga ar kitoks objektas, išskyrus maisto priedus, atsiradę tvarkymo metu arba dėl aplinkos užterštumo, galintys pakenkti maisto saugai ar padaryti maistą netinkamą vartoti.
 
 
 
 
-15. Rizikos veiksnių analizės ir valdymo sistema – biologinių, cheminių ar fizinių veiksnių, galinčių turėti reikšmės maisto saugai, nustatymo, įvertinimo ir valdymo sistema, taikoma maisto tvarkymo vietose savikontrolės tikslais.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
- 
+15. Maisto tvarkymas – bet koks poveikis maistui arba veiksmai su juo ar atskiromis jo sudedamosiomis dalimis (įskaitant maisto gaminimą, ruošimą, perdirbimą, pakavimą, laikymą, saugojimą, gabenimą, paskirstymą, tiekimą, pateikimą parduoti, pardavimą), galintys turėti įtakos maisto saugai, kokybei ir mitybos vertei.
 
 
 
 
-16. Teršalas – atsitiktinai į maistą patekusi ar įdėta bet kokia cheminės ar biologinės kilmės ne maisto medžiaga ar kitoks objektas, išskyrus maisto priedus, atsiradusi tvarkymo metu arba dėl aplinkos užterštumo, galinti pakenkti maisto saugai ar padaryti maistą netinkamą vartoti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
- 
+16. Maisto tvarkymo subjektas – ši sąvoka atitinka sąvoką „maisto verslo operatorius“, apibrėžtą Reglamento (EB) Nr. 178/2002 3 straipsnio 3 dalyje.
 
 
 
 
-17. Pateikimas į rinką – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 8 dalyje. 
-Straipsnio dalies pakeitimai:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
-Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
-Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
- 
+17. Maisto tvarkymo vieta – viešųjų ar privačių juridinių asmenų vieta (įskaitant teritoriją, statinius ir transporto priemones), kurioje tvarkomas maistas.
 
 
 
 
+18. Minimalus maisto produkto tinkamumo vartoti terminas – kaip apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1169/2011 dėl informacijos apie maistą teikimo vartotojams, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 1924/2006 ir (EB) Nr. 1925/2006 bei kuriuo panaikinami Komisijos direktyva 87/250/EEB, Tarybos direktyva 90/496/EEB, Komisijos direktyva 1999/10/EB, Europos Parlamento ir Tarybos direktyva 2000/13/EB, Komisijos direktyvos 2002/67/EB ir 2008/5/EB bei Komisijos reglamentas (EB) Nr. 608/2004, su visais pakeitimais 2 straipsnio 2 dalies r punkte.
 
 
-18. Pirminė gamyba – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 17 dalyje. 
-Papildyta straipsnio dalimi:
-Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
-Straipsnio dalies pakeitimai:
-Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
 
 
+19. Pašalinimas iš rinkos – priemonės, kurias taikydamas maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas išima iš rinkos pateiktą (pateiktus) nesaugų (nesaugius) ir nekontroliuojamą (nekontroliuojamus) maistą ar su maistu besiliečiančius gaminius ir medžiagas, išskyrus maistą ar su maistu besiliečiantį (besiliečiančius) gaminį (gaminius) ar medžiagą (medžiagas), kurį (kuriuos) jau turi vartotojai.
 
 
-19. Šiame įstatyme sąvoka „valstybinė maisto kontrolė“ atitinka sąvoką „oficiali kontrolė“ ir vartojama ta pačia reikšme, kaip ši apibrėžta 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB, (Oficialios kontrolės reglamento) (toliau – Reglamentas (ES) 2017/625) (OL 2017 L 95, p. 1) 2 straipsnio 1 punkte. 
-Papildyta straipsnio dalimi:
-Nr. IX-1733, 2003-09-16, Žin., 2003, Nr. 92-4139 (2003-10-01), i. k. 1031010ISTA0IX-1733
-Straipsnio dalies pakeitimai:
-Nr. XII-531, 2013-10-03, Žin., 2013, Nr. 107-5276 (2013-10-12), i. k. 1131010ISTA0XII-531
-Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
- 
 
 
+20. Pateikimas į rinką – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 8 dalyje.
 
 
-20. Energinis gėrimas – nealkoholinis gėrimas, kuriame yra daugiau kaip 150 mg/l kofeino, nesvarbu, iš kokio šaltinio, arba kuriame yra daugiau kaip 150 mg/l kofeino ir vienos ar kelių kitų centrinę nervų sistemą stimuliuojančių medžiagų (gliukurono laktono, inozitolio, guaranino, ginsenozidų, ginkmedžių ekstrakto, taurino ar kt.). Energiniame gėrime gali būti ir angliavandenių, vitaminų, mineralinių medžiagų, amino rūgščių, maisto priedų, vaisių sulčių ar augalų ekstraktų.
-Papildyta straipsnio dalimi:
-Nr. XII-885, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05574
- 
 
 
+21. Pirminė gamyba – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 17 dalyje.
 
 
-21. Susigrąžinimas – priemonės, kurias taikant siekiama užtikrinti, kad būtų susigrąžintas nesaugus maistas ar su maistu besiliečiantis gaminys ar medžiaga, kurį maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas pateikė vartotojui arba kurį vartotojas jau gali vartoti ar naudoti. 
-Papildyta straipsnio dalimi:
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
 
 
+22. Perdirbti grūdiniai maisto produktai – kaip apibrėžta Reglamento (ES) Nr. 609/2013 2 straipsnio 2 dalies e punkte.
 
 
-22. Pašalinimas iš rinkos – taikomos priemonės, kuriomis maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas išima iš rinkos pateiktą (pateiktus) nesaugų (nesaugius) ir nekontroliuojamą (nekontroliuojamus) maistą ar su maistu besiliečiančius gaminius ir medžiagas, išskyrus maistą ar su maistu besiliečiantį (besiliečiančius) gaminį (gaminius) ar medžiagą (medžiagas), kurį (kuriuos) jau turi vartotojai.
-Papildyta straipsnio dalimi:
-Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
- 
 
 
+23. Pradinio maitinimo kūdikių mišiniai – kaip apibrėžta Reglamento (ES) Nr. 609/2013 2 straipsnio 2 dalies c punkte.
 
 
-23. Maisto klastojimas – tyčiniai klaidinantys vartotoją ar kitą ūkio subjektą veiksmai, atlikti siekiant ekonominės ar kitokios naudos, kai maisto sudėtyje natūraliai esanti arba įprastai naudojama sudedamoji (sudedamosios) dalis (dalys) pakeičiama kita sudedamąja dalimi ar dalimis to nenurodant ant pakuotės ir (ar) fasuotės, etiketėse ir (ar) lydimuosiuose dokumentuose ir (arba) maistą apibūdinanti informacija pašalinama ar klaidingai arba užmaskuotai pateikiama ar pakeičiama ant maisto bet kokios rūšies pakuotės ir (ar) fasuotės, etiketėse ir (ar) lydimuosiuose dokumentuose, ir (arba) atliekami kitokie veiksmai, klaidinantys dėl kitos maistui identifikuoti skirtos informacijos. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
- 
 
 
+24. Rizikos veiksnių analizės ir svarbiųjų valdymo taškų sistema (toliau – rizikos veiksnių analizės ir valdymo sistema) – biologinių, cheminių ar fizinių veiksnių, galinčių turėti reikšmės maisto saugai, nustatymo, įvertinimo ir valdymo sistema, taikoma maisto tvarkymo vietose savikontrolės tikslais.
 
 
-24. Suklastotas maistas – maistas, ant kurio bet kokios rūšies pakuotės ir (ar) fasuotės, etiketėse ir (ar) lydimuosiuose dokumentuose siekiant ekonominės ar kitokios naudos tyčia klaidingai arba užmaskuotai pateikta, pakeista, pašalinta jį apibūdinanti informacija ir (ar) kurio sudėtyje natūraliai esanti (esančios) arba įprastai naudojama (naudojamos) sudedamoji (sudedamosios) dalis (dalys) siekiant ekonominės ar kitokios naudos tyčia pakeista (pakeistos) kita (kitomis) sudedamąja (sudedamosiomis) dalimi (dalimis) nenurodant to ant pakuotės ir (ar) fasuotės, etiketėse ir (ar) lydimuosiuose dokumentuose, taip klaidinant vartotoją ar kitą ūkio subjektą dėl tikrosios maisto sudėties. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
- 
 
 
+25. Specialiosios medicininės paskirties maisto produktai – kaip apibrėžta Reglamento (ES) Nr. 609/2013 2 straipsnio 2 dalies g punkte.
 
 
-25. Maisto srities teisės aktai – kaip apibrėžta Reglamento (ES) 2017/625 3 straipsnio 1 punkte. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
- 
 
 
+26. Suklastotas maistas – maistas, ant kurio bet kokios rūšies pakuotės ir (ar) fasuotės, etiketėse ir (ar) lydimuosiuose dokumentuose siekiant ekonominės ar kitokios naudos tyčia klaidingai arba užmaskuotai pateikta, pakeista, pašalinta jį apibūdinanti informacija ir (ar) kurio sudėtyje natūraliai esanti (esančios) arba įprastai naudojama (naudojamos) sudedamoji (sudedamosios) dalis (dalys) siekiant ekonominės ar kitokios naudos tyčia pakeista (pakeistos) kita (kitomis) sudedamąja (sudedamosiomis) dalimi (dalimis) nenurodant to ant pakuotės ir (ar) fasuotės, etiketėse ir (ar) lydimuosiuose dokumentuose, taip klaidinant vartotoją ar kitą ūkio subjektą dėl tikrosios maisto sudėties.
 
 
-26. Gyvūninio maisto tvarkymo subjektai – maisto tvarkymo subjektai, kurie tvarko gyvūninius produktus, kaip šie produktai apibrėžti 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 853/2004, nustatančio konkrečius gyvūninės kilmės maisto produktų higienos reikalavimus (OL 2004 L 139, p. 55), 1 priedo 8.1 papunktyje. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
+
+
+27. Su maistu besiliečiančių gaminių ir medžiagų gamintojas – Lietuvos Respublikos teisės aktų nustatyta tvarka veiklą įregistravęs fizinis ar juridinis asmuo, gaminantis su maistu besiliečiančius gaminius ir medžiagas.
+
+
+
+
+28. Su maistu besiliečiančių gaminių ir medžiagų tiekėjas – Lietuvos Respublikos teisės aktų nustatyta tvarka veiklą įregistravęs fizinis ar juridinis asmuo, pateikiantis į rinką su maistu besiliečiančius gaminius ir medžiagas.
+
+
+
+
+29. Su maistu besiliečiantys gaminiai ir medžiagos – su maistu skirti liestis gaminiai ir medžiagos, kuriems taikomas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1935/2004 dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinantis direktyvas 80/590/EEB ir 89/109/EEB, su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 596/2009.
+
+
+
+
+30. Susigrąžinimas – priemonės, kurias taikant siekiama užtikrinti, kad būtų atsiimtas nesaugus maistas ar su maistu besiliečiantis gaminys ar medžiaga, kuriuos maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas pateikė vartotojui arba kuriuos vartotojas jau gali vartoti ar naudoti.
+
+
+
+
+31. Tolesnio maitinimo kūdikių mišiniai – kaip apibrėžta Reglamento (ES) Nr. 609/2013 2 straipsnio 2 dalies d punkte.
+
+
+
+
+32. Viso paros raciono pakaitalas svoriui kontroliuoti – kaip apibrėžta Reglamento (ES) Nr.  609/2013 2 straipsnio 2 dalies h punkte.
+
+
+
+
+33. Šiame įstatyme sąvoka „valstybinė maisto kontrolė“ atitinka sąvoką „oficiali kontrolė“ ir vartojama ta pačia reikšme, kaip ji apibrėžta Reglamento (ES) 2017/625 2 straipsnio 1 punkte.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2288, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23078
  
 
 
@@ -425,6 +373,14 @@ Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 4. Maistas, kuris neatitinka maisto srities ir kitų teisės aktų reikalavimų, tačiau yra saugus ir tinkamas vartoti, gali būti perduotas labdarai ir (ar) paramai Valstybinės maisto ir veterinarijos tarnybos direktoriaus nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
+ 
+
+
+
+
+5. Maistas, kuris pasibaigus minimaliam maisto produkto tinkamumo vartoti terminui, nurodytam žymoje „Geriausias iki...“ (toliau – pasibaigusio minimalaus maisto produkto tinkamumo vartoti termino maistas) yra saugus ir tinkamas vartoti, gali būti parduotas galutiniam vartotojui Lietuvos Respublikos Vyriausybės patvirtintose mažmeninės prekybos taisyklėse nustatyta tvarka ir atsižvelgiant į Vyriausybės įgaliotos institucijos patvirtintas rekomendacijas, išskyrus šio įstatymo 62 straipsnyje nurodytus atvejus. Už tokio maisto saugą ir kokybę šio įstatymo nustatyta tvarka atsako pardavėjas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2288, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23078
  
 
 
@@ -745,6 +701,34 @@ Draudžiama parduoti, nupirkti ar kitaip perduoti energinius gėrimus jaunesniem
 
 Papildyta straipsniu:
 Nr. XII-885, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05574
+ 
+
+
+
+
+62 straipsnis. Pasibaigusio minimalaus maisto produkto tinkamumo vartoti termino maisto pardavimo ribojimas 
+
+
+1. Pardavėjui draudžiama pasibaigus minimaliam maisto produkto tinkamumo vartoti terminui parduoti galutiniam vartotojui šiuos maisto produktus:
+
+
+1) maisto papildus;
+
+
+
+
+2) pradinio maitinimo kūdikių mišinius ir tolesnio maitinimo kūdikių mišinius, perdirbtus grūdinius maisto produktus ir kūdikiams skirtus maisto produktus, specialiosios medicininės paskirties maisto produktus, viso paros raciono pakaitalus svoriui kontroliuoti.
+
+
+
+
+
+
+2. Draudžiama parduoti ar kitaip perduoti pasibaigusio minimalaus maisto produkto tinkamumo vartoti termino maistą maisto tvarkymo subjektams, kurie vykdo veiklą viešojo maitinimo ir gamybos srityje, išskyrus šio įstatymo 4 straipsnio 4 dalyje numatytus atvejus.
+
+
+Papildyta straipsniu:
+Nr. XIV-2288, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23078
  
 
 
@@ -1608,3 +1592,8 @@ Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 1, 2, 3, 4, 5, 7, 9, 10, 11 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 2, 4, 6, 7, 9, 11, 12, 12-1, 12-2, 12-3, 12-4, 12-7 straipsnių, ketvirtojo-1 skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 4-1, 4-2, 4-3 straipsniais įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2288, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23078
+Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 2 ir 4 straipsnių pakeitimo ir Įstatymo papildymo 6-2 straipsniu įstatymas
