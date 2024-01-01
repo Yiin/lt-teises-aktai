@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F43F5ED5C4BB"
 
 # Lietuvos Respublikos karių materialinės atsakomybės įstatymas
 
-Suvestinė redakcija nuo 2023-01-05 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1928, i. k. 1001010ISTAIII-1857
- 
-TAR pastaba. Įstatymo Nr. XIV-1737 nuostatos, susijusios su kariūnų materialine atsakomybe, taikomos, kai žala yra padaryta po įstatymo Nr. XIV-1737 įsigaliojimo (2023-01-05)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1737, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00150
-Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 2, 4, 5, 10, 19, 21, 23, 25 ir 26 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS KARIŲ MATERIALINĖS ATSAKOMYBĖS ĮSTATYMAS
  
@@ -200,7 +195,10 @@ KARIŲ MATERIALINĖ ATSAKOMYBĖ
 
 
 
-2. Privalomosios pradinės karo tarnybos kariai už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos žalos dydžio suma, bet ne didesne kaip du Lietuvos Respublikos Seimo patvirtinti atitinkamų metų pareiginės algos (atlyginimo) baziniai dydžiai, kurie taikomi apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų ir valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (atlyginimus) (toliau – pareiginės algos bazinis dydis).
+2. Privalomosios pradinės karo tarnybos kariai už tarnybos turto, piniginių lėšų ar kitų materialinių vertybių praradimą, sugadinimą ar sunaikinimą, padarytą dėl neatsargumo einant tarnybines pareigas, atsako pusės jų padarytos žalos dydžio suma, bet ne didesne kaip 0,2 Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto pareiginės algos (atlyginimo) bazinio dydžio (toliau – pareiginės algos bazinis dydis).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2370, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25624
+ 
 
 
 
@@ -1295,3 +1293,8 @@ Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1737, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00150
 Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 2, 4, 5, 10, 19, 21, 23, 25 ir 26 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2370, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25624
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 4 straipsnio pakeitimo įstatymas
