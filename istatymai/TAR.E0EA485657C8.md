@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
- 
-TAR pastaba. Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 12 straipsnio 1 dalis ir 30 straipsnio 1–12 dalys, 13 dalies 1–5, 7–15 punktai ir 14–17 dalys įsigalioja 2022 m. gruodžio 1 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1506, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23364
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas
  
 Nauja redakcija nuo 2023-01-01:
 Nr. XIV-1506, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23364
@@ -1139,12 +1134,18 @@ LŠS STRUKTŪRA, CENTRINĖS INSTITUCIJOS IR MOKYMŲ CENTRAS
 
 
 
-10. LŠS vadui mokamos pareiginės algos dydis yra lygus Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnio 3 dalyje nustatyta tvarka apskaičiuotam tarnybiniam atlyginimui, pridėjus 3,5 Seimo patvirtinto atitinkamų metų pareiginės algos bazinio dydžio, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų ir valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (atlyginimus), priedą už atsakomybę per mėnesį.
+10. LŠS vadui mokamos pareiginės algos dydis yra lygus Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnio 3 dalyje nustatyta tvarka apskaičiuotam tarnybiniam atlyginimui, pridėjus 0,37 Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto pareiginės algos (atlyginimo) bazinio dydžio priedą už atsakomybę per mėnesį. Priedo už atsakomybę dydis perskaičiuojamas taikant Pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo nustatyta tvarka nacionalinėje kolektyvinėje sutartyje sutartą, Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytą asignavimų darbo užmokesčiui indeksavimo dydį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+ 
 
 
 
 
-11. Vyriausybė gali skirti LŠS vadui piniginę premiją už labai gerą tarnybos įvertinimą. Ši premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti LŠS vadui nustatytos pareiginės algos dydžio. LŠS vado tarnybos vertinimo tvarką nustato Vyriausybė.
+11. Vyriausybė gali skirti LŠS vadui piniginę premiją už labai gerą tarnybos įvertinimą. LŠS vadui, kuris yra profesinės karo tarnybos karys, piniginė premija gali būti skiriama už labai gerą ir puikų tarnybos įvertinimą. Ši premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti LŠS vadui nustatytos pareiginės algos dydžio. LŠS vado tarnybos vertinimo tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+ 
 
 
 
@@ -1743,7 +1744,10 @@ PENKTASIS SKIRSNIS
 
 
 
-3. Šaulio prašymu šaulį į LŠS priėmusio LŠS vado ar jo įgalioto rinktinės vado sprendimu narystė LŠS sustabdoma dėl objektyvių priežasčių (ligos, nėštumo ir gimdymo atostogų, kai augina vaiką (įvaikį) iki 3 metų ar neįgalų vaiką iki 18 metų, prižiūri kitus šeimos narius, kuriems nustatytas mažesnis negu 55 procentų darbingumo lygis, arba šeimos narius, sukakusius senatvės pensijos amžių, kuriems nustatytas didelių ar vidutinių specialiųjų poreikių lygis).
+3. Šaulio prašymu šaulį į LŠS priėmusio LŠS vado ar jo įgalioto rinktinės vado sprendimu narystė LŠS sustabdoma dėl objektyvių priežasčių (ligos, nėštumo ir gimdymo atostogų, kai augina vaiką (įvaikį) iki 3 metų ar vaiką su negalia iki 18 metų, prižiūri kitus šeimos narius, kuriems nustatytas mažesnis negu 55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygis, arba šeimos narius, sukakusius senatvės pensijos amžių, kuriems nustatytas 15 ar 40 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – atitinkamai didelių ar vidutinių specialiųjų poreikių) lygis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+ 
 
 
 
@@ -2599,20 +2603,20 @@ SEPTINTASIS SKIRSNIS
 
 
 
-3. Šauliui, kuris buvo sužalotas, susižalojo ar jo sveikata buvo kitaip sutrikdyta atliekant šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika šaulio gyvybei ar sveikatai, taip pat šauliui, kuris buvo sužalotas ar jo sveikata kitaip sutrikdyta dėl šaulio tarnybos atlikimo ar šaulio statuso, atsižvelgiant į netekto darbingumo ir sveikatos sutrikdymo lygį, išmokama ši kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu:
+3. Šauliui, kuris buvo sužalotas, susižalojo ar jo sveikata buvo kitaip sutrikdyta atliekant šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika šaulio gyvybei ar sveikatai, taip pat šauliui, kuris buvo sužalotas ar jo sveikata kitaip sutrikdyta dėl šaulio tarnybos atlikimo ar šaulio statuso, atsižvelgiant į netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) ir sveikatos sutrikdymo lygį, išmokama ši kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) vienkartinės kompensacijos ar netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu:
 
 
-1) netekusiam 75–100 procentų darbingumo šauliui – 46,55 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
-
-
-
-
-2) netekusiam 60–70 procentų darbingumo šauliui – 37,24 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
+1) netekusiam 75–100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) šauliui – 46,55 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
 
 
 
 
-3) netekusiam 45–55 procentų darbingumo šauliui – 27,93 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
+2) netekusiam 60–70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) šauliui – 37,24 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
+
+
+
+
+3) netekusiam 45–55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) šauliui – 27,93 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
 
 
 
@@ -2627,27 +2631,30 @@ SEPTINTASIS SKIRSNIS
 
 
 
-6) nežymaus sveikatos sutrikdymo atveju – 9,31 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio.
+6) nežymaus sveikatos sutrikdymo atveju – 9,31 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+ 
 
 
 
 
+4. Šauliui, kuris buvo sužalotas, susižalojo ar jo sveikata buvo kitaip sutrikdyta atliekant šaulio tarnybą kitais, negu nurodyta šio straipsnio 3 dalyje, atvejais, atsižvelgiant į netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) ir sveikatos sutrikdymo lygį, išmokama ši kompensacija:
 
 
-4. Šauliui, kuris buvo sužalotas, susižalojo ar jo sveikata buvo kitaip sutrikdyta atliekant šaulio tarnybą kitais, negu nurodyta šio straipsnio 3 dalyje, atvejais, atsižvelgiant į netekto darbingumo ir sveikatos sutrikdymo lygį, išmokama ši kompensacija:
-
-
-1) netekusiam 75–100 procentų darbingumo šauliui – 23,28 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
-
-
-
-
-2) netekusiam 60–70 procentų darbingumo šauliui – 18,62 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
+1) netekusiam 75–100 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) šauliui – 23,28 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
 
 
 
 
-3) netekusiam 45–55 procentų darbingumo šauliui – 13,97 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
+2) netekusiam 60–70 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) šauliui – 18,62 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
+
+
+
+
+3) netekusiam 45–55 procentų dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) šauliui – 13,97 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio;
 
 
 
@@ -2662,9 +2669,12 @@ SEPTINTASIS SKIRSNIS
 
 
 
-6) nežymaus sveikatos sutrikdymo atveju – 4,66 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio. 
+6) nežymaus sveikatos sutrikdymo atveju – 4,66 Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+ 
 
 
 
@@ -2833,7 +2843,10 @@ AŠTUNTASIS SKIRSNIS
 
 
 
-8. Vyriausybė LŠS vado teikimu gali apdovanoti piniginėmis premijomis už labai gerą tarnybos įvertinimą LŠS vado pavaduotojus, LŠS vadas – rinktinių vadus, jų pavaduotojus ir mokymų centro viršininką. Premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti apdovanojamam asmeniui nustatytos pareiginės algos dydžio. LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų ir mokymų centro viršininko tarnybos vertinimo tvarką nustato Vyriausybė.
+8. Vyriausybė LŠS vado teikimu gali apdovanoti piniginėmis premijomis už labai gerą tarnybos įvertinimą LŠS vado pavaduotojus, LŠS vadas – rinktinių vadus, jų pavaduotojus ir mokymų centro viršininką. LŠS vado pavaduotojams, rinktinių vadams, jų pavaduotojams ir mokymų centro viršininkui, kurie yra profesinės karo tarnybos kariai, piniginė premija gali būti skiriama už labai gerą ir puikų tarnybos įvertinimą. Premija gali būti skiriama ne daugiau kaip kartą per metus ir negali viršyti apdovanojamam asmeniui nustatytos pareiginės algos dydžio. LŠS vado pavaduotojų, rinktinių vadų, rinktinių vadų pavaduotojų ir mokymų centro viršininko tarnybos vertinimo tvarką nustato Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+ 
 
 
 
@@ -2843,12 +2856,18 @@ AŠTUNTASIS SKIRSNIS
 
 
 
-10. Eiti kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas šauliai gali būti skiriami LŠS vado įsakymu, LŠS su jais sudaro darbo sutartis. Kitų, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, sąrašą LŠS Centro valdybos pritarimu LŠS vado teikimu tvirtina Vyriausybė, o šias pareigas einančių šaulių pareigybių aprašymus tvirtina, darbo apmokėjimo sistemą ir pareiginės algos pastoviosios dalies dydžius nustato LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, mutatis mutandis vadovaudamasis Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nuostatomis, taikomomis biudžetinių įstaigų darbuotojų pareigybių aprašymams, darbo apmokėjimo sistemai ir pareiginės algos pastoviosios dalies dydžiui nustatyti. Kitų nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą LŠS Centro valdybos pritarimu nustato LŠS vadas.
+10. Eiti kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas šauliai gali būti skiriami LŠS vado įsakymu, LŠS su jais sudaro darbo sutartis. Kitų, ne LŠS vado pavaduotojo, rinktinės vado ar rinktinės vado pavaduotojo, nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, sąrašą LŠS Centro valdybos pritarimu LŠS vado teikimu tvirtina Vyriausybė, o šias pareigas einančių šaulių pareigybių aprašymus tvirtina, darbo apmokėjimo sistemą nustato LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, mutatis mutandis vadovaudamasis Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nuostatomis, taikomomis biudžetinių įstaigų darbuotojų pareigybių aprašymams ir darbo apmokėjimo sistemai nustatyti. Kitų nuolatinės šaulio tarnybos pareigų, kurias einantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą LŠS Centro valdybos pritarimu nustato LŠS vadas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+ 
 
 
 
 
-11. Kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas einančių šaulių, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, kasmetinės veiklos vertinimas atliekamas mutatis mutandis vadovaujantis Vyriausybės ar jos įgaliotos institucijos nustatyta biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, veiklos vertinimo tvarka. LŠS vadas LŠS Centro valdybos pritarimu, suderinęs su krašto apsaugos ministru, nustato pareiginės algos kintamąją dalį, skiria priemokas ir premijas kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas einantiems šauliams, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti. Pareiginės algos kintamosios dalies nustatymo, priemokų ir premijų skyrimo atvejai ir dydžiai nustatomi mutatis mutandis taikant Valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nuostatas, taikomas biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, pareiginės algos kintamosios dalies dydžiui nustatyti, priemokoms ir premijoms skirti.
+11. Kitas, ne LŠS vado pavaduotojo, rinktinės vado, rinktinės vado pavaduotojo ar mokymų centro viršininko, nuolatinės šaulio tarnybos pareigas einančių šaulių, kuriems darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti, kasmetinės veiklos vertinimas atliekamas mutatis mutandis vadovaujantis Vyriausybės ar jos įgaliotos institucijos nustatyta biudžetinių įstaigų darbuotojų, dirbančių pagal darbo sutartis, veiklos vertinimo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+ 
 
 
 
@@ -3253,3 +3272,8 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 16, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1506, 2022-11-08, paskelbta TAR 2022-11-21, i. k. 2022-23364
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 30, 37, 48 ir 50 straipsnių pakeitimo įstatymas
