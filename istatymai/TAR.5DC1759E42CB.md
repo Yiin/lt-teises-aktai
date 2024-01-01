@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -137,7 +137,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-8. Didelis transporto priemonės trūkumas (toliau – didelis trūkumas) – techninio patikrinimo kelyje arba privalomosios transporto priemonių techninės apžiūros metu nustatytas transporto priemonės trūkumas, dėl kurio gali pablogėti jos sauga, kuris gali daryti poveikį aplinkai arba dėl kurio gali kilti pavojus kitiems eismo dalyviams, taip pat kiti motorinių transporto priemonių ir jų priekabų trūkumų, aptinkamų privalomosios techninės apžiūros ir techninio patikrinimo metu, sąraše nustatyti neatitikimai. Techninio patikrinimo kelyje arba privalomosios transporto priemonių techninės apžiūros metu nustatyti keli nedideli transporto priemonės trūkumai Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais laikomi dideliu trūkumu.
+8. Didelis transporto priemonės trūkumas (toliau – didelis trūkumas) – transporto priemonės neatitiktis techniniams transporto priemonių reikalavimams, dėl kurios gali pablogėti šios transporto priemonės sauga arba kuri gali daryti neigiamą (kenksmingą) poveikį aplinkai, arba dėl kurios gali kilti pavojus kitiems eismo dalyviams, arba transporto priemonės neatitiktis kitiems reikalavimams, susijusiems su leidimu motorinei transporto priemonei ir (ar) jos priekabai dalyvauti viešajame eisme. Keli nedideli transporto priemonės trūkumai, nustatyti Susisiekimo ministerijos ar jos įgaliotos institucijos nustatytais atvejais atliekant privalomąją transporto priemonių techninę apžiūrą arba Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais atliekant techninį patikrinimą kelyje, laikomi dideliu transporto priemonės trūkumu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -153,7 +155,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-10. Dviračių juosta – dviračių eismui skirta važiuojamosios kelio dalies juosta, atskirta horizontaliojo ženklinimo linija ir pažymėta dviračio simboliu.
+10. Dviračių juosta – dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismui skirta važiuojamosios kelio dalies juosta, atskirta horizontaliojo ženklinimo linija ir pažymėta dviračio simboliu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -161,7 +165,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-11. Dviračių takas – dviračių eismui skirtas kelias arba kelio dalis, pažymėti tam skirtais kelio ženklais. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio inžinerinėmis priemonėmis.
+11. Dviračių takas – dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismui skirtas kelias arba kelio dalis, pažymėti tam skirtais kelio ženklais. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio inžinerinėmis priemonėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -397,6 +403,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
+311. Elektrinė mikrojudumo priemonė – vienam asmeniui važiuoti skirta elektra varoma transporto priemonė (elektrinis paspirtukas, elektrinė riedlentė, elektrinis balansinis vienratis, riedis ir pan.), kurios didžiausioji naudingoji galia ne didesnė kaip 1 kW, didžiausiasis projektinis greitis ne didesnis kaip 25 km/h, o sėdimosios vietos, jeigu ji įrengta, atskaitos taško aukštis ne didesnis kaip 540 mm. Neįgaliųjų vežimėliai prie elektrinių mikrojudumo priemonių nepriskiriami. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
+ 
+
+
+
+
 32. Mokinys – asmuo, kuris nustatyta tvarka mokosi vairuoti transporto priemonę. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
@@ -405,7 +419,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-33. Mopedas – dviratė motorinė transporto priemonė, kurios didžiausiasis projektinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant vidaus degimo varikliui), o didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant elektros varikliui), ar triratė motorinė transporto priemonė, kurios didžiausiasis projektinis greitis ne mažesnis kaip 25 km/h ir ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), o didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant elektros varikliui).
+33. Mopedas – dviratė motorinė transporto priemonė, kurios didžiausiasis projektinis greitis didesnis kaip 25 km/h, bet ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant vidaus degimo varikliui), o didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant elektros varikliui), ar triratė motorinė transporto priemonė, kurios didžiausiasis projektinis greitis didesnis kaip 25 km/h, bet ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), o didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant elektros varikliui). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -461,7 +477,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-40. Motorinis dviratis – transporto priemonė, kuri turi ne mažiau kaip du ratus ir vidaus degimo variklį ar elektros variklį, kurių didžiausioji naudingoji galia ne didesnė kaip 1 kW, ir kurios didžiausiasis projektinis greitis ne didesnis kaip 25 km/h.
+40. Motorinis dviratis – ne mažiau kaip du ratus turinti transporto priemonė, kuri varoma ja važiuojančio asmens raumenų jėga, naudojant pedalus ar rankenas, ir turi pagalbinį vidaus degimo variklį ar elektros variklį, kurių didžiausioji naudingoji galia ne didesnė kaip 1 kW, ir kurios didžiausiasis projektinis greitis ne didesnis kaip 25 km/h. Pagalbinis variklis nustoja veikti transporto priemonei pasiekus 25 km/h greitį. Neįgaliųjų vežimėliai prie motorinių dviračių nepriskiriami. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -495,7 +513,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-44. Nedidelis transporto priemonės trūkumas (toliau – nedidelis trūkumas) – techninio patikrinimo kelyje arba privalomosios transporto priemonių techninės apžiūros metu nustatytas transporto priemonės trūkumas, nedarantis poveikio jos saugai arba aplinkai, taip pat kiti motorinių transporto priemonių ir jų priekabų trūkumų, aptinkamų privalomosios techninės apžiūros ir techninio patikrinimo metu, sąraše nustatyti neatitikimai.
+44. Nedidelis transporto priemonės trūkumas – transporto priemonės neatitiktis techniniams transporto priemonių reikalavimams, nedaranti reikšmingo neigiamo poveikio šios transporto priemonės saugai arba kenksmingo (neigiamo) poveikio aplinkai, arba nežymi transporto priemonės neatitiktis kitiems reikalavimams, susijusiems su motorinės transporto priemonės ir (ar) jos priekabos dalyvavimu viešajame eisme. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -506,6 +526,14 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 441. Oficiali delegacija – Lietuvos Respublikos oficialus svečias, jo sutuoktinis ar kitas lydintis šeimos narys, vizito metu atliekantys valstybinio ir diplomatinio protokolo nustatytas funkcijas, taip pat Lietuvos Respublikos oficialų svečią lydintys kiti oficialūs asmenys, kurių pareigos atitinka vizito tikslus ir poreikį dalyvauti oficialiojoje vizito programos dalyje. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+ 
+
+
+
+
+44². Neįgaliojo vežimėlis – rankomis arba elektros varikliu varoma neįgaliojo judumo priemonė su ratais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
  
 
 
@@ -543,7 +571,9 @@ Nr. XIII-1966, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02746
 
 
 
-47. Pavojingas transporto priemonės trūkumas (toliau – pavojingas trūkumas) – techninio patikrinimo kelyje arba privalomosios transporto priemonių techninės apžiūros metu nustatytas transporto priemonės trūkumas, keliantis tiesioginį ir neišvengiamą pavojų eismo saugumui arba darantis poveikį aplinkai. Techninio patikrinimo kelyje arba privalomosios transporto priemonių techninės apžiūros metu nustatyti keli dideli transporto priemonės trūkumai Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais laikomi pavojingu trūkumu.
+47. Pavojingas transporto priemonės trūkumas (toliau – pavojingas trūkumas) – transporto priemonės neatitiktis techniniams transporto priemonių reikalavimams, kelianti tiesioginį ir neišvengiamą pavojų eismo saugumui arba daranti kenksmingą (neigiamą) poveikį aplinkai. Keli dideli transporto priemonės trūkumai, nustatyti Susisiekimo ministerijos ar jos įgaliotos institucijos nustatytais atvejais atliekant privalomąją transporto priemonių techninę apžiūrą arba Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais atliekant techninį patikrinimą kelyje, laikomi pavojingu trūkumu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -551,9 +581,11 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-471. Pažeidžiamas eismo dalyvis – pėsčiasis, dviračio, motorinio dviračio vairuotojas ar keleivis, kitas eismo dalyvis – mopedo, motociklo, triračio, lengvojo keturračio, keturračio ar galingojo keturračio vairuotojas ar keleivis, kurie eisme dalyvauja nebūdami motorinėje transporto priemonėje (kabinoje (salone) arba kėbule). 
+471. Pažeidžiamas eismo dalyvis – pėsčiasis, dviračio, motorinio dviračio vairuotojas ar keleivis, elektrinės mikrojudumo priemonės vairuotojas, kitas eismo dalyvis – mopedo, motociklo, triračio, lengvojo keturračio, keturračio ar galingojo keturračio vairuotojas ar keleivis, kurie eisme dalyvauja nebūdami motorinėje transporto priemonėje (kabinoje (salone) arba kėbule). 
 Papildyta straipsnio dalimi:
 Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+Straipsnio dalies pakeitimai:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
  
 
 
@@ -567,9 +599,10 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-49. Pėsčiasis – asmuo, esantis kelyje ne transporto priemonėje, taip pat važiuojantis neįgaliųjų vežimėliu, riedučiais, riedlente, paspirtuku be variklio, vedantis dviratį, mopedą, motociklą, traukiantis (stumiantis) rogutes, vaikišką ar kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo.
+49. Pėsčiasis – asmuo, esantis kelyje ne transporto priemonėje, taip pat važiuojantis neįgaliųjų vežimėliu, riedučiais, riedlente be variklio, paspirtuku be variklio, vedantis dviratį, motorinį dviratį, mopedą, motociklą, ridenantis ar besinešantis elektrinę mikrojudumo priemonę, traukiantis (stumiantis) rogutes, vaikišką ar kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -577,7 +610,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-50. Pėsčiųjų perėja – perėjimo per važiuojamąją kelio dalį vieta, pažymėta kelio ženklais „Pėsčiųjų perėja“ ir ženklinimo linijomis arba tik kelio ženklais „Pėsčiųjų perėja“. Pėsčiųjų perėjos ribas žymi ženklinimo linijos, o jeigu jų nėra, – įsivaizduojamos tiesės, einančios nuo kelio ženklų statmenai per kelią.
+50. Pėsčiųjų perėja – pėsčiųjų perėjimo per kelią vieta, pažymėta nurodomaisiais kelio ženklais „Pėsčiųjų perėja“ ir ženklinimo linijomis arba tik kelio ženklais „Pėsčiųjų perėja“. Pėsčiųjų perėja gali būti žymima vien ženklinimo linijomis KET nustatytais atvejais. Pėsčiųjų perėjos ribas žymi ženklinimo linijos, o jeigu jų nėra, – įsivaizduojamos tiesės, einančios nuo kelio ženklų statmenai per kelią. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -726,7 +761,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-67. Šaligatvis – kelio dalis pėstiesiems prie važiuojamosios kelio dalies, atskirta arba neatskirta nuo jos. Šaligatvis gali būti naudojamas dviračių eismui KET nustatytais atvejais.
+67. Šaligatvis – kelio dalis pėstiesiems prie važiuojamosios kelio dalies, atskirta arba neatskirta nuo jos. Šaligatvis gali būti naudojamas dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismui, išskyrus savivaldybės tarybos ar jos įgalioto asmens nustatytas vietas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -1018,9 +1055,11 @@ Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 
 
 
-99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kelių įstatyme ir Lietuvos Respublikos vadovybės apsaugos įstatyme.
+99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
+Straipsnio dalies pakeitimai:
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
  
 
 
@@ -1312,10 +1351,11 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 1. Užtikrindama eismo saugumą, Susisiekimo ministerija arba jos įgaliotos institucijos:
 
 
-1) tvirtina techninius motorinių transporto priemonių ir jų priekabų reikalavimus, nustato motorinių transporto priemonių ir jų priekabų trūkumų, aptinkamų privalomosios techninės apžiūros ir techninio patikrinimo metu, sąrašą ir jų klasifikaciją, tvirtina motorinių transporto priemonių ir jų priekabų gamybos ir perdirbimo reikalavimus, normatyvinius statybos techninius dokumentus, nustatančius kelių projektavimo, tiesimo, rekonstravimo, remonto, priežiūros reikalavimus ir tvarką, taip pat dokumentus, nustatančius eismo organizavimo, juodųjų dėmių nustatymo, tyrimo ir šalinimo, kelių saugumo audito atlikimo, poveikio kelių saugumui vertinimo, kelių saugumo auditorių mokymo, egzaminavimo, pažymėjimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo reikalavimus ir tvarką; 
+1) tvirtina techninius motorinių transporto priemonių ir jų priekabų reikalavimus, nustato motorinių transporto priemonių ir jų priekabų trūkumų sąrašą ir jų klasifikaciją, tvirtina motorinių transporto priemonių ir jų priekabų gamybos ir perdirbimo reikalavimus, normatyvinius statybos techninius dokumentus, nustatančius kelių projektavimo, tiesimo, rekonstravimo, remonto, priežiūros reikalavimus ir tvarką, taip pat dokumentus, nustatančius eismo organizavimo, juodųjų dėmių nustatymo, tyrimo ir šalinimo, kelių saugumo audito atlikimo, poveikio kelių saugumui vertinimo, kelių saugumo auditorių mokymo, egzaminavimo reikalavimus ir tvarką, pažymėjimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
  
 
 
@@ -1453,9 +1493,10 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 
 
-24) nustato motorinių transporto priemonių ir jų priekabų, kurios neatitinka techninių reikalavimų ir kelia grėsmę eismo saugumui, privalomosios techninės apžiūros dokumentų galiojimo panaikinimo tvarką ir tvirtina techninių reikalavimų neatitikimų, kuriuos nustačius panaikinamas grėsmę eismo saugumui keliančių motorinių transporto priemonių ir (ar) priekabų privalomosios techninės apžiūros dokumentų galiojimas, sąrašą; 
+24) nustato motorinių transporto priemonių ir jų priekabų, kurios neatitinka techninių motorinių transporto priemonių ir jų priekabų reikalavimų ir gali kelti arba kelia grėsmę eismo saugumui, gali daryti arba daro kenksmingą (neigiamą) poveikį aplinkai, privalomosios techninės apžiūros dokumentų galiojimo panaikinimo tvarką, tvirtina motorinių transporto priemonių ir jų priekabų trūkumų, kuriuos nustačius panaikinamas grėsmę eismo saugumui galinčių kelti arba keliančių ar kenksmingą (neigiamą) poveikį aplinkai galinčių daryti arba darančių motorinių transporto priemonių ir (ar) priekabų privalomosios techninės apžiūros dokumentų galiojimas, sąrašą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-107, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29786
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
  
 
 
@@ -1581,7 +1622,10 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 
 
-2) organizuoja mokinių (vaikų) mokymą, per kurį įgyjama saugaus važiavimo dviračiais įgūdžių;
+2) organizuoja mokinių (vaikų) mokymą, per kurį įgyjama saugaus važiavimo dviračiais, motoriniais dviračiais ir elektrinėmis mikrojudumo priemonėmis žinių ir įgūdžių;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
+ 
 
 
 
@@ -1904,6 +1948,14 @@ Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 4) suteikia arba panaikina įgaliojimą atlikti Lietuvoje registruotų transporto priemonių privalomąją techninę apžiūrą Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje subjektams, kuriuos atlikti privalomąją techninę apžiūrą įgaliojo valstybė, kurioje jie yra; 
 
 
+
+
+5) turi teisę stabdyti M1 ir N1 klasių transporto priemones ir tikrinti jų į aplinką išmetamų teršalų atitiktį techniniams motorinių transporto priemonių ir jų priekabų reikalavimams. 
+Papildyta straipsnio punktu:
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
+ 
+
+
 Papildyta straipsnio dalimi:
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
  
@@ -2025,6 +2077,14 @@ Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
+ 
+
+
+
+
+121. Užtikrindama eismo saugumą ir siekdama mažinti kenksmingą (neigiamą) poveikį aplinkai, aplinkos apsaugos valstybinės kontrolės institucija turi teisę stabdyti M1, M2, M3, N1, N2, N3 klasių transporto priemones ir tikrinti jų į aplinką išmetamų teršalų atitiktį techniniams motorinių transporto priemonių ir jų priekabų reikalavimams.
+Papildyta straipsnio dalimi:
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
  
 
 
@@ -2833,6 +2893,109 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
+171 straipsnis. Elektrinių mikrojudumo priemonių vairuotojams taikomi reikalavimai ir draudimai
+
+
+1. Elektrine mikrojudumo priemone leidžiama važiuoti važiuojamąja kelio dalimi, dviračių juostomis, dviračių takais, kelkraščiu, gyvenamojoje zonoje ne jaunesniems kaip 16 metų asmenims, o ne jaunesniems kaip 14 metų asmenims – tik išklausiusiems Švietimo, mokslo ir sporto ministerijos nustatytą mokymo kursą ir turintiems mokyklos išduotą pažymėjimą. Gyvenamojo namo kieme elektrine mikrojudumo priemone važiuojančių asmenų amžius neribojamas, tačiau jaunesnius kaip 10 metų asmenis privalo prižiūrėti suaugęs asmuo.
+
+
+
+
+2. Važiuoti leidžiama tik su tvarkingą stabdį ir garso signalą, baltą šviesos žibintą priekyje ir raudoną šviesos žibintą gale, taip pat iš abiejų šonų oranžinius šviesą atspindinčius elementus turinčia elektrine mikrojudumo priemone. Važiuodamas važiuojamąja kelio dalimi, elektrinės mikrojudumo priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais arba šios priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas. Važiuojant keliu tamsiuoju paros metu arba kai blogas matomumas, elektrinės mikrojudumo priemonės priekyje turi degti baltas šviesos žibintas, o gale – raudonas šviesos žibintas, šios priemonės vairuotojas privalo dėvėti ryškiaspalvę liemenę su šviesą atspindinčiais elementais. Jaunesni kaip 18 metų elektrinių mikrojudumo priemonių vairuotojai, važiuodami keliu, privalo būti užsidėję ir užsisegę dviratininko, riedlentininko ar motociklininko šalmą. Vyresni kaip 18 metų elektrinių mikrojudumo priemonių vairuotojai, važiuodami važiuojamąja kelio dalimi, privalo būti užsidėję ir užsisegę dviratininko, riedlentininko ar motociklininko šalmą. Vyresniems kaip 18 metų elektrinių mikrojudumo priemonių vairuotojams, važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus dviratininko, riedlentininko ar motociklininko šalmą. Elektrinių mikrojudumo priemonių vairuotojams taip pat rekomenduojama naudoti kūno apsaugos priemones (pavyzdžiui, alkūnių, kelių apsaugas ir kt.).
+
+
+
+
+3. Važiuodami dviračių taku, elektrinių mikrojudumo priemonių vairuotojai privalo važiuoti kuo arčiau šio tako (jiems skirtos tako dalies) dešiniojo krašto. Jeigu važiuojant pėsčiųjų ir dviračių eismui skirtu taku ar šaligatviu ženklinimo linijomis (baltu dviračio simboliu) yra paženklinta dviračių eismui skirta šio tako ar šaligatvio dalis, elektrinių mikrojudumo priemonių vairuotojai privalo važiuoti tik ja ir kuo arčiau jos dešiniojo krašto. Elektrinių mikrojudumo priemonių vairuotojai privalo nekelti pavojaus pėstiesiems.
+
+
+
+
+4. Elektrinių mikrojudumo priemonių vairuotojams draudžiama:
+
+
+1) važiuoti šaligatviais, išskyrus 2 straipsnio 67 dalyje nurodytą atvejį;
+
+
+
+
+2) važiuoti pėsčiųjų takais;
+
+
+
+
+3) važiuoti važiuojamąja kelio dalimi, išskyrus KET nustatytus atvejus;
+
+
+
+
+4) važiuoti automagistralėmis ir greitkeliais;
+
+
+
+
+5) važiuoti per pėsčiųjų perėjas;
+
+
+
+
+6) vežti keleivius;
+
+
+
+
+7) kirsti kelią tam nepritaikytose vietose;
+
+
+
+
+8) važiuoti nelaikant bent viena ranka vairo, jeigu jis įrengtas;
+
+
+
+
+9) vežti, vilkti ar stumti krovinius, kurie trukdo vairuoti arba kelia pavojų kitiems eismo dalyviams;
+
+
+
+
+10) kad jų elektrinė mikrojudumo priemonė būtų velkama kitos transporto priemonės;
+
+
+
+
+11) savo elektrine mikrojudumo priemone vilkti kitą transporto priemonę;
+
+
+
+
+12) važiuoti įsikibus į kitą transporto priemonę;
+
+
+
+
+13) važiuoti didesniu kaip 20 km/h greičiu, o važiuojant pėsčiųjų ir dviračių eismui skirtu taku, kelkraščiu arba šaligatviu pro pat pėsčiąjį – didesniu kaip 7 km/h greičiu.
+
+
+
+
+
+
+5. Su į elektrinę mikrojudumo priemonę arba į motorinį dviratį savo konstrukcija panašia transporto priemone, kuri viršija šiame įstatyme nustatytas galios ir greičio technines charakteristikas ir negali būti klasifikuojama kaip elektrinė mikrojudumo priemonė arba motorinis dviratis, leidžiama dalyvauti viešajame eisme, jeigu yra atliktos šios transporto priemonės motorinėms transporto priemonėms privalomos procedūros (atitikties įvertinimas, registracija, privalomoji techninė apžiūra, galioja transporto priemonių valdytojų civilinės atsakomybės privalomasis draudimas), o šios transporto priemonės vairuotojas vykdo šiame įstatyme motorinės transporto priemonės vairuotojui nustatytus reikalavimus.
+
+
+
+
+6. Elektrinių mikrojudumo priemonių statymas yra draudžiamas savivaldybės tarybos nustatytose vietose.
+
+
+Papildyta straipsniu:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
+ 
+
+
+
+
 18 straipsnis. Reikalavimai vadeliotojams, gyvulių ar paukščių varovams, raiteliams
 
 
@@ -3569,7 +3732,10 @@ TRANSPORTO PRIEMONĖS
  
 
 
-25 straipsnis. Bendrieji reikalavimai motorinėms transporto priemonėms ir priekaboms
+25 straipsnis. Bendrieji reikalavimai transporto priemonėms ir priekaboms 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
+ 
 
 
 1. Lietuvos Respublikoje viešajame eisme leidžiama dalyvauti tik techniškai tvarkingoms motorinėms transporto priemonėms ir (ar) priekaboms, išskyrus KET numatytus atvejus. Vieną parą dalyvauti viešajame eisme nustatyta tvarka ir tik Lietuvos Respublikos teritorijoje leidžiama laikinaisiais valstybinio registracijos numerio ženklais paženklintoms motorinėms transporto priemonėms ir (ar) priekaboms, kurių savininkai (valdytojai) yra apsidraudę transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu ir sumokėję valstybės nustatytus su transporto priemone ar su jos dalyvavimu viešajame eisme susijusius mokesčius.
@@ -3622,25 +3788,30 @@ TRANSPORTO PRIEMONĖS
 
 
 
-7. Panaikinti motorinių transporto priemonių ir (ar) priekabų privalomosios techninės apžiūros dokumentų galiojimą turi teisę:
+7. Susisiekimo ministerijos ar jos įgaliotos institucijos nustatyta tvarka panaikinti motorinių transporto priemonių ir (ar) priekabų privalomosios techninės apžiūros dokumentų galiojimą turi teisę:
 
 
-1) policijos pareigūnai;
+1) policijos pareigūnai – visų motorinių transporto priemonių ir (ar) priekabų;
 
 
 
 
-2) Lietuvos transporto saugos administracijos pareigūnai – motorinių transporto priemonių ir (ar) priekabų, kurių didžiausioji leidžiamoji masė didesnė kaip 3 500 kg, arba motorinių transporto priemonių, kurios skirtos ir suprojektuotos vežti daugiau kaip aštuonis keleivius, neįskaitant vairuotojo; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1139, 2018-05-10, paskelbta TAR 2018-05-15, i. k. 2018-07790
+2) Lietuvos transporto saugos administracijos pareigūnai – motorinių transporto priemonių ir (ar) priekabų, kurių didžiausioji leidžiamoji masė didesnė kaip 3 500 kg, arba motorinių transporto priemonių, kurios skirtos ir suprojektuotos vežti daugiau kaip aštuonis keleivius, neįskaitant vairuotojo, M1 ir N1 klasių transporto priemonių, kurių į aplinką išmetami teršalai neatitinka techninių motorinių transporto priemonių ir jų priekabų reikalavimų; 
+
+
+
+
+3) muitinės įstaigų pareigūnai – motorinių transporto priemonių ir (ar) priekabų, kurios pritaikytos neteisėtam prekių (daiktų) gabenimui;
+
+
+
+
+4) aplinkos apsaugos valstybinės kontrolės pareigūnai – M1, M2, M3, N1, N2, N3 klasių transporto priemonių, kurių į aplinką išmetami teršalai neatitinka techninių motorinių transporto priemonių ir jų priekabų reikalavimų.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
  
-
-
-
-
-3) muitinės įstaigų pareigūnai – motorinių transporto priemonių ir (ar) priekabų, kurios pritaikytos neteisėtam prekių (daiktų) gabenimui.
-
-
 
 
 
@@ -3654,6 +3825,33 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 
 9. Pradedantiesiems vairuotojams draudžiama vairuoti motorines transporto priemones, kurios pritaikytos eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje. 
+
+
+
+
+10. Jeigu savivaldžio automobilio gamintojas numatė galimybę asmeniui tiesiogiai ar nuotoliniu būdu valdyti savivaldį automobilį, savivaldžio automobilio įranga privalo būti tokia, kad būtų sudaryta galimybė patikrinti, ar savivaldis automobilis yra valdomas savivaldžio automobilio įrangos veiksmais, ar jį tiesiogiai arba nuotoliniu būdu valdo asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
+ 
+
+
+
+
+11. Savivaldis automobilis privalo būti toks, kad galėtų tinkamai ir saugiai važiuoti nekeldamas pavojaus kitiems eismo dalyviams, kitų asmenų ar jų turto saugumui ir aplinkai, nesudarytų kliūčių eismui, pasirinktų saugų važiavimo greitį, įvertintų važiavimo sąlygas, vietovės reljefą, kelio būklę, savo būklę ir krovinį, meteorologines sąlygas, taip pat eismo intensyvumą, kad galėtų saugiai sustoti iki bet kurios kliūties, taip pat automobilį stabdant tikrinantiems pareigūnams. Savivaldis automobilis privalo būti toks, kad galėtų sulėtinti greitį ir prireikus saugiai sustoti, jeigu to reikia dėl atsiradusių aplinkybių. 
+Straipsnio pakeitimai:
+Nr. XI-760, 2010-04-15, Žin., 2010, Nr. 48-2308 (2010-04-27)
+Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
+Papildyta straipsnio dalimi:
+Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
+ 
+
+
+
+
+12. Elektrinės mikrojudumo priemonės, motorinio dviračio arba savo konstrukcija į juos panašios transporto priemonės, kuri viršija šiame įstatyme nustatytas galios ir greičio technines charakteristikas ir negali būti klasifikuojama kaip elektrinė mikrojudumo priemonė arba motorinis dviratis, pardavėjas privalo informuoti pirkėją raštu, ar su parduodama transporto priemone pagal šio įstatymo nuostatas jis galės teisėtai dalyvauti viešajame eisme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
+ 
 
 
 Straipsnio pakeitimai:
