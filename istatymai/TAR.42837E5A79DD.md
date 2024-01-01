@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-07
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -9402,26 +9402,22 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 1401 straipsnis. Skundų dėl užsieniečiui išduoto leidimo gyventi ar teisės gyventi Lietuvos Respublikoje, pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo dėl užsieniečio keliamos grėsmės valstybės saugumui, viešajai tvarkai ar visuomenei nagrinėjimas
 
 
-1. Užsienietis, gavęs šio Įstatymo 4 straipsnio 6, 7 ar 8 dalyje nurodytą sprendimą panaikinti jam išduotą leidimą gyventi ar jo teisę gyventi Lietuvos Respublikoje arba panaikinti jam suteiktą pabėgėlio statusą, papildomą arba laikinąją apsaugą, turi teisę jį skųsti Vilniaus apygardos administraciniam teismui per 14 kalendorinių dienų nuo sprendimo įteikimo dienos.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
+1. Užsienietis, gavęs šio Įstatymo 4 straipsnio 6, 7 arba 8 dalyje nurodytą sprendimą panaikinti jam išduotą leidimą gyventi ar jo teisę gyventi Lietuvos Respublikoje arba panaikinti jam suteiktą pabėgėlio statusą, papildomą arba laikinąją apsaugą, turi teisę jį skųsti pirmosios instancijos administraciniam teismui per 14 kalendorinių dienų nuo sprendimo įteikimo dienos. 
 
 
 
 
-2. Bylos dėl leidimo gyventi ar teisės gyventi Lietuvos Respublikoje, pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo nagrinėjimas Vilniaus apygardos administraciniame teisme turi būti užbaigtas ir sprendimas turi būti priimtas ne vėliau kaip per 2 mėnesius nuo skundo priėmimo dienos.
+2. Bylos dėl leidimo gyventi ar teisės gyventi Lietuvos Respublikoje, pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo nagrinėjimas pirmosios instancijos administraciniame teisme turi būti užbaigtas ir sprendimas turi būti priimtas ne vėliau kaip per 2 mėnesius nuo skundo priėmimo dienos.
 
 
 
 
-3. Šio straipsnio 2 dalyje nurodytas Vilniaus apygardos administracinio teismo sprendimas gali būti skundžiamas apeliacine tvarka Lietuvos vyriausiajam administraciniam teismui per 14 kalendorinių dienų nuo sprendimo paskelbimo.
+3. Šio straipsnio 2 dalyje nurodytas teismo sprendimas gali būti skundžiamas apeliacine tvarka Lietuvos vyriausiajam administraciniam teismui per 14 kalendorinių dienų nuo sprendimo paskelbimo.
 
 
 
 
-4. Bylos dėl šio straipsnio 2 dalyje nurodyto Vilniaus apygardos administracinio teismo sprendimo nagrinėjimas Lietuvos vyriausiajame administraciniame teisme turi būti užbaigtas ir sprendimas (nutartis) turi būti priimtas (priimta) ne vėliau kaip per 2 mėnesius nuo apeliacinio skundo priėmimo dienos.
+4. Bylos dėl šio straipsnio 2 dalyje nurodyto teismo sprendimo nagrinėjimas Lietuvos vyriausiajame administraciniame teisme turi būti užbaigtas ir sprendimas (nutartis) turi būti priimtas (priimta) ne vėliau kaip per 2 mėnesius nuo apeliacinio skundo priėmimo dienos.
 
 
 
@@ -9429,13 +9425,9 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 5. Skundas dėl sprendimo panaikinimo turi atitikti Administracinių bylų teisenos įstatymo reikalavimus.
 
 
-Įstatymas papildytas straipsniu:
-Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
-Straipsnio pakeitimai:
-Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
-Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 Straipsnio pakeitimai:
 Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
+Nr. XIV-1593, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25166
  
 
 
