@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -432,7 +432,7 @@ Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA0
 3. Užkrečiamųjų ligų epidemiologinę analizę ir prognozę atlieka Nacionalinis visuomenės sveikatos centras. Šios analizės duomenis ir užkrečiamosiomis ligomis sergančiųjų sveikatos priežiūros vertinimą ne rečiau kaip kartą per metus pateikia:
 
 
-1) savivaldybėse savivaldybės gydytojas – savivaldybės merui; 
+1) savivaldybėse sveikatinimo veiklos koordinatorius – savivaldybės merui;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
@@ -588,7 +588,10 @@ Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
 1. Ligonių, asmenų, įtariamų, kad serga, turėjusių sąlytį, ar sukėlėjų nešiotojų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas: 
 
 
-1) jei ligoniai ir asmenys, turėję sąlytį ar įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, šių ligų, įrašytų į šio Įstatymo 8 straipsnio 2 dalyje nurodytą sąrašą, sukėlėjų nešiotojai (kai šie asmenys yra nepilnamečiai arba neveiksnūs tam tikroje srityje, – vienas iš jų atstovų pagal įstatymą) atsisako arba vengia hospitalizavimo ir (ar) izoliavimo, pažeidžia nustatytą asmens sveikatos priežiūros įstaigos vidaus tvarką, užkrečiamųjų ligų profilaktikos taisykles ir tuo sukelia pavojų aplinkinių sveikatai. Atsisakymo būtinai gultis į ligoninę arba būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo vengimo faktas, taip pat šiame punkte nurodyti pažeidimai turi būti įrašyti asmens medicinos dokumentuose, o šeimos gydytojai, infekcinių ligų gydytojai ar kiti gydytojai specialistai, nustatę šiuos asmenis, turi apie juos nedelsdami informuoti Nacionalinį visuomenės sveikatos centrą ir atitinkamos savivaldybės gydytoją. Asmenys, vengiantys būtinojo hospitalizavimo, būtinojo izoliavimo, atsako pagal įstatymus;
+1) jeigu ligoniai ir asmenys, turėję sąlytį ar įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, šių ligų, įrašytų į šio Įstatymo 8 straipsnio 2 dalyje nurodytą sąrašą, sukėlėjų nešiotojai (kai šie asmenys yra nepilnamečiai arba neveiksnūs tam tikroje srityje, – vienas iš jų atstovų pagal įstatymą) atsisako arba vengia hospitalizavimo ir (ar) izoliavimo, pažeidžia nustatytą asmens sveikatos priežiūros įstaigos vidaus tvarką, užkrečiamųjų ligų profilaktikos taisykles ir tuo sukelia pavojų aplinkinių sveikatai. Atsisakymo būtinai gultis į ligoninę arba būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo vengimo faktas, taip pat šiame punkte nurodyti pažeidimai turi būti įrašyti asmens medicinos dokumentuose, o šeimos gydytojai, infekcinių ligų gydytojai ar kiti gydytojai specialistai, nustatę šiuos asmenis, turi apie juos nedelsdami informuoti Nacionalinį visuomenės sveikatos centrą ir atitinkamos savivaldybės sveikatinimo veiklos koordinatorių. Asmenys, vengiantys būtinojo hospitalizavimo, būtinojo izoliavimo, atsako pagal įstatymus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
+ 
 
 
 
@@ -605,7 +608,10 @@ Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
 
 
 
-2. Motyvuotą sprendimą dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo ir jo trukmės priima komisija, sudaryta iš ne mažiau kaip trijų gydytojų, iš kurių vienas turi būti šeimos gydytojas, o antras – infekcinių ligų gydytojas arba gydytojas dermatovenerologas, arba gydytojas pulmonologas, arba vidaus ligų gydytojas. Šį sprendimą tvirtina savivaldybės gydytojas. Jis privalo informuoti apie tai asmenį, dėl kurio priimtas toks sprendimas, o jei šis asmuo yra neveiksnus tam tikroje srityje arba nepilnametis, – vieną iš jo atstovų pagal įstatymą. Apie šį sprendimą asmuo, kuriam taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, turi būti pasirašytinai supažindintas. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą dėl būtinojo hospitalizavimo, būtinojo izoliavimo turi patvirtinti du liudytojai. Apie būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo paskyrimą turi būti įrašoma į paciento medicinos dokumentus. Asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas tol, kol pacientas tampa nebepavojingas kitiems asmenims, tai yra nuo jo nebegali užsikrėsti kiti asmenys (toliau – nebepavojingas kitiems asmenims), bet be teismo sprendimo ne ilgiau kaip 7 kalendorines dienas, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną. Ši dalis netaikoma šio straipsnio 21 dalyje nurodytais atvejais.
+2. Motyvuotą sprendimą dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo ir jo trukmės priima komisija, sudaryta iš ne mažiau kaip trijų gydytojų, iš kurių vienas turi būti šeimos gydytojas, o antras – infekcinių ligų gydytojas arba gydytojas dermatovenerologas, arba gydytojas pulmonologas, arba vidaus ligų gydytojas. Šį sprendimą tvirtina savivaldybės sveikatinimo veiklos koordinatorius. Jis privalo informuoti apie tai asmenį, dėl kurio priimtas toks sprendimas, o jeigu šis asmuo yra neveiksnus tam tikroje srityje arba nepilnametis, – vieną iš jo atstovų pagal įstatymą. Apie šį sprendimą asmuo, kuriam taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, turi būti pasirašytinai supažindintas. Jeigu asmuo atsisako arba nesugeba pasirašyti, jo informavimą dėl būtinojo hospitalizavimo, būtinojo izoliavimo turi patvirtinti du liudytojai. Apie būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo paskyrimą turi būti įrašoma į paciento medicinos dokumentus. Asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas tol, kol pacientas tampa nebepavojingas kitiems asmenims, tai yra nuo jo nebegali užsikrėsti kiti asmenys (toliau – nebepavojingas kitiems asmenims), bet be teismo sprendimo ne ilgiau kaip 7 kalendorines dienas, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną. Ši dalis netaikoma šio straipsnio 21 dalyje nurodytais atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
+ 
 
 
 
@@ -615,12 +621,18 @@ Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
 
 
 
-3. Jei šio straipsnio 2 dalyje nurodyta komisija, o šio straipsnio 21 dalyje nurodytu atveju – gydantis gydytojas, priima sprendimą, kad pacientas dėl sveikatos būklės tebėra pavojingas kitiems asmenims, maksimalius būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminus, nurodytus šio straipsnio 2 ir 21 dalyse, gali pratęsti tik teismas savivaldybės gydytojo, o šio straipsnio 21 dalyje nurodytu atveju – asmens sveikatos priežiūros įstaigos vadovo arba jo įgalioto asmens motyvuotu prašymu. Tokie prašymai išnagrinėjami Civilinio proceso kodekso 579–582 straipsniuose nustatyta tvarka per 3 dienas nuo prašymo gavimo dienos. Būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą pratęsti galima ne ilgiau kaip 6 mėnesiams. Jei pacientas dėl sveikatos būklės išlieka pavojingas kitiems asmenims, būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą šioje dalyje nustatyta tvarka galima pratęsti pakartotinai iki 6 mėnesių, tačiau bendras asmens būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminas negali būti ilgesnis kaip 24 mėnesiai. Teismo sprendimas būtinai hospitalizuoti ir (ar) būtinai izoliuoti pacientą vykdomas skubiai.
+3. Jeigu šio straipsnio 2 dalyje nurodyta komisija, o šio straipsnio 21 dalyje nurodytu atveju – gydantis gydytojas priima sprendimą, kad pacientas dėl sveikatos būklės tebėra pavojingas kitiems asmenims, maksimalius būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminus, nurodytus šio straipsnio 2 ir 21 dalyse, gali pratęsti tik teismas savivaldybės sveikatinimo veiklos koordinatoriaus, o šio straipsnio 21 dalyje nurodytu atveju – asmens sveikatos priežiūros įstaigos vadovo arba jo įgalioto asmens motyvuotu prašymu. Tokie prašymai išnagrinėjami Civilinio proceso kodekso 579–582 straipsniuose nustatyta tvarka per 3 dienas nuo prašymo gavimo dienos. Būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą pratęsti galima ne ilgiau kaip 6 mėnesiams. Jeigu pacientas dėl sveikatos būklės išlieka pavojingas kitiems asmenims, būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą šioje dalyje nustatyta tvarka galima pratęsti pakartotinai iki 6 mėnesių, tačiau bendras asmens būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminas negali būti ilgesnis kaip 24 mėnesiai. Teismo sprendimas būtinai hospitalizuoti ir (ar) būtinai izoliuoti pacientą vykdomas skubiai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
+ 
 
 
 
 
-4. Asmenų būtinąjį hospitalizavimą ir būtinąjį izoliavimą organizuoja savivaldybės gydytojas, o šio straipsnio 21 dalyje nurodytu atveju – asmens sveikatos priežiūros įstaiga, prireikus dalyvaujant policijai. Dėl policijos dalyvavimo organizuojant asmenų būtinąjį hospitalizavimą ar būtinąjį izoliavimą į teritorinę policijos įstaigą kreipiasi savivaldybės gydytojas, o šio straipsnio 21 dalyje nurodytu atveju – asmens sveikatos priežiūros įstaigos vadovas arba jo įgaliotas asmuo.
+4. Asmenų būtinąjį hospitalizavimą ir būtinąjį izoliavimą organizuoja savivaldybės sveikatinimo veiklos koordinatorius, o šio straipsnio 21 dalyje nurodytu atveju – asmens sveikatos priežiūros įstaiga, prireikus dalyvaujant policijai. Dėl policijos dalyvavimo organizuojant asmenų būtinąjį hospitalizavimą ar būtinąjį izoliavimą į teritorinę policijos įstaigą kreipiasi savivaldybės sveikatinimo veiklos koordinatorius, o šio straipsnio 21 dalyje nurodytu atveju – asmens sveikatos priežiūros įstaigos vadovas arba jo įgaliotas asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
+ 
 
 
 
@@ -1179,9 +1191,10 @@ Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
 
 
 
-11. Riboto karantino režimo priemonių naudojimą šio straipsnio 8 dalies 1 punkte išvardytiems objektams organizuoja Muitinės departamentas prie Finansų ministerijos. Riboto karantino režimo priemonių naudojimą šio straipsnio 8 dalies 2 ir 3 punktuose išvardytiems objektams organizuoja atitinkamos savivaldybės gydytojas ir Nacionalinis visuomenės sveikatos centras. 
+11. Riboto karantino režimo priemonių naudojimą šio straipsnio 8 dalies 1 punkte išvardytiems objektams organizuoja Muitinės departamentas prie Finansų ministerijos. Riboto karantino režimo priemonių naudojimą šio straipsnio 8 dalies 2 ir 3 punktuose išvardytiems objektams organizuoja atitinkamos savivaldybės sveikatinimo veiklos koordinatorius ir Nacionalinis visuomenės sveikatos centras.
 Straipsnio dalies pakeitimai:
 Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
 
 
@@ -1293,17 +1306,19 @@ Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
 
 
 
-4. Lietuvos Respublikoje užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimo valstybinę priežiūrą koordinuoja Sveikatos apsaugos ministerija, o pagal savo kompetenciją vykdo Sveikatos apsaugos ministerijos įstaigos, Valstybinė maisto ir veterinarijos tarnyba, Lietuvos Respublikos vyriausiasis epidemiologas, apskričių vyriausieji epidemiologai, savivaldybių gydytojai. 
+4. Lietuvos Respublikoje užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimo valstybinę priežiūrą koordinuoja Sveikatos apsaugos ministerija, o pagal savo kompetenciją vykdo Sveikatos apsaugos ministerijos įstaigos, Valstybinė maisto ir veterinarijos tarnyba, Lietuvos Respublikos vyriausiasis epidemiologas, apskričių vyriausieji epidemiologai, savivaldybių sveikatinimo veiklos koordinatoriai. 
 Straipsnio dalies pakeitimai:
 Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
 
 
 
 
-5. Valstybinių tarnybų, vyriausiųjų epidemiologų, savivaldybių gydytojų funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės priemonių valdymo bei šių priemonių įgyvendinimo priežiūros srityje reglamentuoja šis Įstatymas ir kiti teisės aktai. 
+5. Valstybinių tarnybų, vyriausiųjų epidemiologų, savivaldybių sveikatinimo veiklos koordinatorių funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės priemonių valdymo bei šių priemonių įgyvendinimo priežiūros srityje reglamentuoja šis Įstatymas ir kiti teisės aktai.
 Straipsnio dalies pakeitimai:
 Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
 
 
@@ -1594,65 +1609,45 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-29 straipsnis. Savivaldybės gydytojo teisės užkrečiamųjų ligų profilaktikos ir kontrolės srityje
+29 straipsnis. Savivaldybės sveikatinimo veiklos koordinatoriaus teisės užkrečiamųjų ligų profilaktikos ir kontrolės srityje
 
 
-1. Savivaldybės gydytojas turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje:
+1. Savivaldybės sveikatinimo veiklos koordinatorius turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje:
 
 
-1) Neteko galios nuo 2008-01-01
-Straipsnio punkto naikinimas:
-Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+1) lankydamasis teritorijos asmens sveikatos priežiūros, švietimo ir socialinės rūpybos įstaigose susipažinti su jų darbo organizavimu, apklausti sveikatos priežiūros įstaigų darbuotojus bei pacientus ir gauti kitą informaciją, kurios reikia vykdant priešepidemines priemones ir vertinant užkrečiamųjų ligų diagnostikos kokybę;
+
+
+
+
+2) gauti iš įmonių, įstaigų ir organizacijų, kitų juridinių bei fizinių asmenų dokumentų kopijas ir informaciją apie jų veiklos srityje galimus užkrečiamųjų ligų sukėlėjų plitimo veiksnius, užkrečiamųjų ligų atsiradimo ir jų paplitimo priežastis, teritorijų karantino ir riboto karantino objektus;
+
+
+
+
+3) Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities vyriausiojo epidemiologo sprendimu, padedamas policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą;
+
+
+
+
+4) organizuoti užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimą savivaldybėje, nagrinėti šių priemonių įgyvendinimo eigą;
+
+
+
+
+5) koordinuoti savivaldybėje veikiančių sveikatos priežiūros įstaigų pasirengimą ir veiksmus užkrečiamųjų ligų ekstremaliosiose situacijose.
+
+
+
+
+
+
+2. Savivaldybės sveikatinimo veiklos koordinatorius gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose teisės aktuose.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
  
-
-
-
-
-2) lankydamasis teritorijos asmens sveikatos priežiūros, švietimo ir socialinės rūpybos įstaigose susipažinti su jų darbo organizavimu, apklausti sveikatos priežiūros įstaigų darbuotojus bei pacientus ir gauti kitą informaciją, kurios reikia vykdant priešepidemines priemones ir vertinant užkrečiamųjų ligų diagnostikos kokybę;
-Straipsnio punkto pakeitimai:
-Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
- 
-
-
-
-
-3) gauti iš įmonių, įstaigų ir organizacijų, kitų juridinių bei fizinių asmenų dokumentų kopijas ir informaciją apie jų veiklos srityje galimus užkrečiamųjų ligų sukėlėjų plitimo veiksnius, užkrečiamųjų ligų atsiradimo ir jų paplitimo priežastis, teritorijų karantino ir riboto karantino objektus; 
-
-
-
-
-4) Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities vyriausiojo epidemiologo sprendimu, padedamas policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą;
-Straipsnio punkto pakeitimai:
-Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
- 
-
-
-
-
-5) organizuoti užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimą savivaldybėje, nagrinėti šių priemonių įgyvendinimo eigą;
-Papildyta straipsnio punktu:
-Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
-Straipsnio punkto pakeitimai:
-Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
- 
-
-
-
-
-6) koordinuoti savivaldybėje veikiančių sveikatos priežiūros įstaigų pasirengimą ir veiksmus užkrečiamųjų ligų ekstremaliosiose situacijose.
-Papildyta straipsnio punktu:
-Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
- 
-
-
-
-
-
-
-2. Savivaldybės gydytojas gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose teisės aktuose.
- 
-
-
 
 
 
