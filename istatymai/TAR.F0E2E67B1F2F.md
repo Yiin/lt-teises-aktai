@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-05-05
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
  
@@ -1792,7 +1792,7 @@ APGYVENDINIMO PASLAUGOS
 32 straipsnis. Apgyvendinimo paslaugų teikimo bendrieji reikalavimai
 
 
-1. Apgyvendinimo paslaugų teikėjas privalo:
+Apgyvendinimo paslaugų teikėjas privalo:
 
 
 1) teikti apgyvendinamiems asmenims tikslią ir teisingą informaciją apie apgyvendinimo paslaugų teikimo vietą, žvaigždučių skaičių (išskyrus neklasifikuojamųjų apgyvendinimo paslaugų teikėjus), teikiamas paslaugas ir apgyvendinimo paslaugų kainą; 
@@ -1805,37 +1805,29 @@ APGYVENDINIMO PASLAUGOS
 
 
 
-3) užtikrinti, kad apgyvendinami asmenys, išskyrus kartu su jais atvykusius jų sutuoktinius ar nepilnamečius vaikus, asmeniškai užpildytų ir pasirašytų registracijos korteles ir patvirtintų savo tapatybę – pateiktų galiojantį asmens tapatybę patvirtinantį dokumentą. Asmens duomenys tvarkomi 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodytais tikslais;
+3) užtikrinti, kad apgyvendinami asmenys, išskyrus kartu su jais atvykusius nepilnamečius vaikus, patvirtintų savo tapatybę – pateiktų apgyvendinimo paslaugos teikėjui galiojantį asmens tapatybę patvirtinantį dokumentą. Apgyvendinimo paslaugų teikėjas ne vėliau kaip per 24 valandas nuo asmens apgyvendinimo dienos informuoja apie apgyvendintus asmenis, išskyrus kartu su jais atvykusius nepilnamečius vaikus, – elektroniniu būdu pateikia reikiamus asmens tapatybę patvirtinančiuose dokumentuose esančius duomenis ekonomikos ir inovacijų ministro nustatyta tvarka ir priemonėmis. Asmens duomenys tvarkomi keliautojų ir turistų apskaitos ir 1990 m. birželio 19 d. Konvencijos dėl Šengeno susitarimo, 1985 m. birželio 14 d. sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo 45 straipsnio 1 dalies b punkte nurodytais tikslais;
 
 
 
 
-4) saugoti šios dalies 3 punkte nurodytose registracijos kortelėse pateiktus duomenis 5 metus;
+4) pasikeitus šio įstatymo 33 straipsnio 1 dalyje ar 34 straipsnio 1 dalyje nurodytuose dokumentuose pateiktiems duomenims, per 10 darbo dienų nuo to momento, kai ši informacija tapo ar turėjo tapti jam žinoma, pateikti Vyriausybės įgaliotai institucijai patikslintą informaciją;
 
 
 
 
-5) pasikeitus šio įstatymo 33 straipsnio 1 dalyje ar 34 straipsnio 1 dalyje nurodytuose dokumentuose pateiktiems duomenims, per 10 darbo dienų nuo to momento, kai ši informacija tapo ar turėjo tapti jam žinoma, pateikti Vyriausybės įgaliotai institucijai patikslintą informaciją;
+5) nutraukęs apgyvendinimo paslaugų teikimą, per 10 darbo dienų nuo apgyvendinimo paslaugų teikimo nutraukimo dienos apie tai informuoti Vyriausybės įgaliotą instituciją; 
 
 
 
 
-6) nutraukęs apgyvendinimo paslaugų teikimą, per 10 darbo dienų nuo apgyvendinimo paslaugų teikimo nutraukimo dienos apie tai informuoti Vyriausybės įgaliotą instituciją; 
+6) užtikrinti sveikatos apsaugos ministro patvirtintų apgyvendinimo paslaugų sveikatos saugos reikalavimų vykdymą.
 
 
 
 
-7) užtikrinti sveikatos apsaugos ministro patvirtintų apgyvendinimo paslaugų sveikatos saugos reikalavimų vykdymą.
-
-
-
-
-
-
-2. Ekonomikos ir inovacijų ministras tvirtina apgyvendinamų asmenų registravimo tvarkos aprašą. 
+Straipsnio pakeitimai:
+Nr. XIV-1464, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22574
  
-
-
 
 
 
@@ -2245,7 +2237,6 @@ c) informuodamas ir konsultuodamas gyventojus ir verslo subjektus apie turizmo p
 
 
 8) renka, kaupia, saugo, sistemina, analizuoja, vertina ir kitaip tvarko šio įstatymo 32 straipsnio 1 dalies 3 punkte ir kituose turizmo srities teisės aktuose nustatytus duomenis apie turizmo išteklius, keliautojų ir turistų asmens duomenis;
-TAR pastaba. 40 straipsnio 1 dalies 8 punktas įsigalioja 2024-01-01.
 
 
 
@@ -2346,7 +2337,6 @@ Savivaldybės:
 
 
 3. Institucijos ir įstaigos, kiti juridiniai ir (ar) fiziniai asmenys ekonomikos ir inovacijų ministro patvirtintuose Nacionalinės turizmo informacinės sistemos nuostatuose nustatyta tvarka privalo teikti į Nacionalinę turizmo informacinę sistemą duomenis (įskaitant asmens duomenis), būtinus šio įstatymo nustatytiems tikslams pasiekti.
-TAR pastaba. 43 straipsnis įsigalioja 2024-01-01.
 
 
 
@@ -2370,8 +2360,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-
- 
 
  
 Lietuvos Respublikos 
@@ -2463,6 +2451,3 @@ Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 36, 37, 38, 39, 40 ir 41 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1464, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22574
 Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas
- 
- 
-part_317859ab8d4846cf895a08a3ea1546d0_end
