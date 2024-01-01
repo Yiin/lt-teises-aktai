@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2023-01-03 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -118,6 +118,14 @@ Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 
 
 
+111. Nepriklausomas žemės ūkio konsultantas – žemės ūkio ministro nustatytus kriterijus atitinkantis asmuo, kuris teikia ūkių konsultavimo paslaugas neturėdamas komercinio intereso, darančio poveikį konsultavimo turiniui, ir yra įtrauktas į nepriklausomų žemės ūkio konsultantų sąrašą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
+
+
+
+
 12. Paslaugos žemės ūkiui – Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše išvardytos su žemės ūkiu susijusios paslaugos.
 
 
@@ -151,6 +159,14 @@ Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 171. Ūkio subjektas – kaip ši sąvoka apibrėžta Lietuvos Respublikos konkurencijos įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
+ 
+
+
+
+
+172. Ūkių konsultavimo paslaugos – žemės ūkio veiklos subjektams teikiamos konsultavimo dėl žemės ūkio ir (ar) alternatyviosios veiklos vykdymo paslaugos, atsižvelgiant į esamas ūkininkavimo praktikas, naujausią technologinę ir mokslinę informaciją. Konsultacijos apima ekonominius, aplinkos bei socialinius aspektus, įskaitant skaitmenizaciją.
+Papildyta straipsnio dalimi:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
  
 
 
@@ -334,15 +350,23 @@ Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 
 
 
-3. Žemės ūkio ministerija ar jos įgaliota institucija yra kompetentinga institucija dėl žemės ar miškų ūkio transporto priemonių atitikties įvertinimo ir tipo patvirtinimo bei apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros. Vykdydama apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros darbus, Žemės ūkio ministerija ar jos įgaliota institucija žemės ūkio ministro nustatyta tvarka įvertina technines apžiūras vykdančių ūkio subjektų pasirengimą užsiimti šia veikla, koordinuoja šią veiklą ir atlieka jos priežiūrą.
+3. Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija yra kompetentinga institucija dėl žemės ar miškų ūkio transporto priemonių atitikties įvertinimo ir tipo patvirtinimo bei apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros. Vykdydama apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros darbus, Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija žemės ūkio ministro nustatyta tvarka įvertina technines apžiūras vykdančių ūkio subjektų pasirengimą užsiimti šia veikla, koordinuoja šią veiklą ir atlieka jos priežiūrą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
 
-4. Viešoji įstaiga Kaimo verslo ir rinkų plėtros agentūra: 
+4. Žemės ūkio ministro įgaliota institucija: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 
 
-1) organizuoja ir administruoja žemės ūkio ir maisto produktų eksporto skatinimo priemones; 
+1) Neteko galios nuo 2024-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
@@ -355,7 +379,10 @@ Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 
 
 
-3) administruoja Reglamente (ES) Nr. 1308/2013 nustatytas bendrosios žemės ūkio politikos intervencines priemones ir programas; 
+3) administruoja pagalbos programas, kurios nustatytos Reglamente (ES) Nr. 1308/2013 ir kuriomis siekiama skatinti žemės ūkio produktų ir maisto produktų vartojimą, ir kitas Reglamente (ES) Nr. 1308/2013 nustatytais atvejais priimtas programas ar priemones, kurios apima žemės ūkio produktų pašalinimą iš rinkos arba nemokamą paskirstymą ir kuriomis siekiama stabilizuoti reikiamą žemės ūkio ir maisto sektorių; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
@@ -368,7 +395,10 @@ Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 
 
 
-5) atlieka užsienio valstybių taikomų prekybos priemonių žemės ūkio ir maisto produktams analizę; 
+5) Neteko galios nuo 2024-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
@@ -383,16 +413,43 @@ Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 
 
 
-8) organizuoja ir vykdo žemės ūkio veiklos subjektų ir ūkio subjektų, veikiančių kaimo plėtros srityje, kvalifikacijos tobulinimą. 
+8) organizuoja ir vykdo žemės ūkio veiklos subjektų ir ūkio subjektų, veikiančių kaimo plėtros srityje, kvalifikacijos tobulinimą;
+
+
+
+
+41. Vyriausybės įgaliota įstaiga:
+
+
+1) organizuoja ir administruoja žemės ūkio ir maisto produktų eksporto skatinimo priemones ir programas;
+
+
+
+
+2) administruoja Reglamento (ES) Nr. 1308/2013 8–21 straipsniuose nustatytas valstybės intervencijos ir paramos privačiajam sandėliavimui priemones. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
+
+
+
+
+9) vykdo asmenų, siekiančių tapti nepriklausomais žemės ūkio konsultantais, atitikties žemės ūkio ministro nustatytiems kriterijams vertinimą, sudaro nepriklausomų žemės ūkio konsultantų sąrašą ir priima sprendimą dėl šių konsultantų šalinimo iš šio sąrašo žemės ūkio ministro nustatyta tvarka. 
+Papildyta straipsnio punktu:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
 
 
 
-5. Viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros savininkė yra valstybė. Viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros veikla atliekant šio straipsnio 4 dalyje ir 8 straipsnio 1 dalyje, Lietuvos Respublikos tautinio paveldo produktų įstatyme ir Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatyme nurodytas funkcijas, viešosios įstaigos Lietuvos žemės ūkio konsultavimo tarnybos veikla atliekant šio įstatymo 13 straipsnio 2 dalyje, Lietuvos Respublikos augalų apsaugos įstatyme nurodytas funkcijas ir valstybės įmonės Žemės ūkio duomenų centro veikla atliekant šio įstatymo 8 straipsnio 1 dalyje, 10 straipsnyje, Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo 2 straipsnio 1 dalyje ir Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatyme nurodytas funkcijas finansuojama iš Žemės ūkio ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+5. Įstatymais ar Vyriausybės įgaliotų įstaigų veikla atliekant šio straipsnio 41 dalyje, 13 straipsnio 2 dalyje, Lietuvos Respublikos augalų apsaugos įstatyme nurodytas funkcijas ir valstybės įmonės Žemės ūkio duomenų centro veikla atliekant šio įstatymo 8 straipsnio 1 dalyje, 10 straipsnyje ir 13 straipsnio 2 dalyje, Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo 2 straipsnio 1 dalyje nurodytas funkcijas finansuojama iš Žemės ūkio ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
  
 
 
@@ -542,7 +599,10 @@ Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010IS
 
 
 
-7) žemės ūkio veiklos subjektams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų, taikomos įstatymų nustatytos mokesčių lengvatos;
+7) Neteko galios nuo 2024-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
@@ -574,11 +634,12 @@ Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 8 straipsnis. Paramos žemės ūkiui, maisto ūkiui ir kaimo plėtrai administravimas
 
 
-1. Valstybės ir Europos Sąjungos paramos priemones administruoja Žemės ūkio ministerija, valstybės įmonė Žemės ūkio duomenų centras, viešoji įstaiga Kaimo verslo ir rinkų plėtros agentūra, Vyriausybės įgaliotos institucijos ir savivaldybių institucijos pagal įstatymų nustatytą kompetenciją. 
+1. Valstybės ir Europos Sąjungos paramos priemones administruoja Žemės ūkio ministerija, valstybės įmonė Žemės ūkio duomenų centras, žemės ūkio ministro įgaliota institucija, Vyriausybės įgaliotos institucijos, įstaigos ir savivaldybių institucijos pagal įstatymų nustatytą kompetenciją.
 Straipsnio dalies pakeitimai:
 Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
 Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
 Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
  
 
 
@@ -774,25 +835,35 @@ Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
 13 straipsnis. Duomenų teikimas ir naudojimas
 
 
-1. Žemės ūkio ministerija ar jos įgaliota institucija, įstatymų ir kitų teisės aktų įgaliotos valstybės institucijos ir įstaigos, įstatymų įgaliotos valstybės įmonės ir viešosios įstaigos, taip pat savivaldybių institucijos įstatymų ir kitų teisės aktų nustatyta tvarka pagal kompetenciją turi teisę gauti iš žemės ūkio veiklos subjektų, alternatyviosios veiklos subjektų, kitų asmenų, gavusių valstybės ar Europos Sąjungos paramą, duomenis ir informaciją apie lėšų naudojimą, o iš valstybės registrų bei duomenų bazių – neatlygintinai duomenis ir informaciją, kurių reikia žemės ūkio, maisto ūkio ir kaimo plėtros valstybės informacinių išteklių funkcionavimui užtikrinti. 
+1. Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija, įstatymų ir kitų teisės aktų įgaliotos valstybės institucijos ir įstaigos, įstatymų įgaliotos valstybės įmonės ir viešosios įstaigos, taip pat savivaldybių institucijos įstatymų ir kitų teisės aktų nustatyta tvarka pagal kompetenciją turi teisę gauti iš žemės ūkio veiklos subjektų, alternatyviosios veiklos subjektų, kitų asmenų, gavusių valstybės ar Europos Sąjungos paramą, duomenis ir informaciją apie lėšų naudojimą, o iš valstybės registrų bei duomenų bazių – neatlygintinai duomenis ir informaciją, kurių reikia žemės ūkio, maisto ūkio ir kaimo plėtros valstybės informacinių išteklių funkcionavimui užtikrinti. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
  
 
 
 
 
-2. Viešoji įstaiga Lietuvos žemės ūkio konsultavimo tarnyba Žemės ūkio ministerijos nustatyta tvarka renka, kaupia ir apdoroja duomenis, apibūdinančius žemės ūkio produkcijos gamintojų ūkinę finansinę veiklą ir jos rezultatus. Vadovaujantis Europos Sąjungos ir Lietuvos Respublikos teisės aktais, apibendrinti duomenys teikiami Europos Komisijai, kuri juos naudoja rengdama ataskaitas dėl padėties žemės ūkyje ir žemės ūkio rinkų bei ūkių pajamų Bendrijoje.
+2. Vyriausybės įgaliota įstaiga ir valstybės įmonė Žemės ūkio duomenų centras žemės ūkio ministro nustatyta tvarka renka, kaupia ir apdoroja žemės ūkio produkcijos gamintojų ūkinės finansinės veiklos ir jos rezultatų duomenis. Vadovaujantis Europos Sąjungos ir Lietuvos Respublikos teisės aktais, duomenys teikiami Europos Komisijai ir Žemės ūkio ministerijai žemės ūkio ir kaimo plėtros politikos formavimo tikslais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
 
-3. Žemės ūkio subjektai, alternatyviosios veiklos subjektai ir kiti asmenys, gavę valstybės ir Europos Sąjungos paramą, privalo teikti duomenis ir informaciją apie lėšų naudojimą šio straipsnio 1 dalyje nurodytoms institucijoms, įstaigoms ir juridiniams asmenims Žemės ūkio ministerijos ar jos įgaliotos institucijos nustatyta tvarka.
+3. Žemės ūkio subjektai, alternatyviosios veiklos subjektai ir kiti asmenys, gavę valstybės ir Europos Sąjungos paramą, privalo teikti duomenis ir informaciją apie lėšų naudojimą šio straipsnio 1 dalyje nurodytoms institucijoms, įstaigoms ir juridiniams asmenims Žemės ūkio ministerijos ar žemės ūkio ministro įgaliotos institucijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
 
-4. Siekdamos viešai ir skaidriai naudoti valstybės ir Europos Sąjungos paramą, Vyriausybės ar Žemės ūkio ministerijos įgaliotos institucijos ir įstaigos turi teisę skelbti paramos prašančių pareiškėjų ir paramos gavėjų sąrašus ir pinigų sumas, skirtas iš Lietuvos Respublikos valstybės biudžeto, Europos Sąjungos fondų ir (ar) kitų lėšų. 
+4. Siekdamos viešai ir skaidriai naudoti valstybės ir Europos Sąjungos paramą, Vyriausybės ar žemės ūkio ministro įgaliotos institucijos ir įstaigos turi teisę skelbti paramos prašančių pareiškėjų ir paramos gavėjų sąrašus ir pinigų sumas, skirtas iš Lietuvos Respublikos valstybės biudžeto, Europos Sąjungos fondų ir (ar) kitų lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+ 
 
 
 
@@ -844,8 +915,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-
- 
 
  
 Lietuvos Respublikos 
@@ -945,5 +1014,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 7, 9 straipsnių ir priedo pakeitimo įstatymas
  
- 
-part_1b388c9c8b6f43ed929be4212e8e976b_end
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 4, 7, 8 ir 13 straipsnių pakeitimo įstatymas
