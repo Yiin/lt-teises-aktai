@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74D8B260CB90"
 
 # Lietuvos Respublikos Šventosios jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-25
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 132-4987, i. k. 1061010ISTA000X-910
  
@@ -117,7 +117,9 @@ Uosto žemės ir akvatorijos teritorijų ribas Palangos miesto savivaldybės tar
 
 
 
-2. Uosto paslaugomis besinaudojančios įmonės, sudariusios sutartį su savivaldybės įmone dėl veiklos uoste (toliau – uosto naudotojai), ir uosto žemės naudotojai, tai yra uosto naudotojai, sudarę sutartį su Palangos miesto savivaldybės administracijos direktoriumi (arba jo įgaliotu kitu Palangos miesto savivaldybės administracijos valstybės tarnautoju) dėl uosto žemės nuomos (toliau – uosto žemės naudotojai), uosto teritorijoje gali vykdyti tik tokią veiklą, kuri atitinka uosto paskirtį.
+2. Uosto naudotojai ir uosto žemės naudotojai, sudarę sutartį su šio įstatymo 7 straipsnio 1 dalyje nurodyta savivaldybės įmone atitinkamai dėl veiklos uoste arba dėl uosto žemės nuomos, uosto teritorijoje gali vykdyti tik tokią veiklą, kuri atitinka uosto paskirtį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
  
 
 
@@ -128,10 +130,22 @@ Uosto žemės ir akvatorijos teritorijų ribas Palangos miesto savivaldybės tar
 5 straipsnis. Uosto žemė, akvatorija ir uosto infrastruktūra
 
 
-Uosto žemė, akvatorija ir uosto infrastruktūra yra Lietuvos valstybės turtas, kuris Vyriausybės nutarimu perduodamas valdyti, naudoti ir disponuoti juo patikėjimo teise Palangos miesto savivaldybei reikmėms, nurodytoms šio įstatymo 4 straipsnio 1 dalyje ir 7 straipsnio 1 dalyje. Uosto akvatoriją ir uosto infrastruktūrą Palangos miesto savivaldybės taryba perduoda šio įstatymo 7 straipsnio 2 dalyje nurodytai savivaldybės įmonei pagal turto patikėjimo sutartį.
+1. Uosto žemė, akvatorija ir uosto infrastruktūra yra Lietuvos valstybės turtas, kuris Vyriausybės nutarimu perduodamas valdyti, naudoti ir disponuoti juo patikėjimo teise šio įstatymo 7 straipsnio 1 dalyje nurodytai savivaldybės įmonei šio įstatymo 4 straipsnio 1 dalyje ir 7 straipsnio 2 dalyje nurodytoms reikmėms.
+
+
+
+
+2. Uosto žemė, akvatorija ir uosto infrastruktūra neprivatizuojamos.
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytas Lietuvos valstybės turtas negali būti perduotas nuosavybės teise kitiems asmenims, įkeistas ar negali būti kitaip suvaržytos daiktinės teisės į jį, negalima juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
  
-
-
 
 
 
@@ -184,10 +198,15 @@ UOSTO VALDYMAS
  
 
 
-7 straipsnis. Palangos miesto savivaldybės, kaip uosto valdytojos, funkcijos
+7 straipsnis. Uosto valdymas
 
 
-1. Palangos miesto savivaldybės, kaip uosto valdytojos, funkcijos:
+1. Uosto žemę, akvatoriją ir uosto infrastruktūrą patikėjimo teise valdo, naudoja ir jomis disponuoja Šventosios jūrų uosto direkcija šiame įstatyme, Šventosios jūrų uosto direkcijos įstatuose, jos veiklą reglamentuojančiuose teisės aktuose nustatyta tvarka ir sąlygomis. Šventosios jūrų uosto direkcija yra Palangos miesto savivaldybės tarybos sprendimu įsteigta savivaldybės įmonė (toliau – savivaldybės įmonė). Jos savininko teises ir pareigas įgyvendina Palangos miesto savivaldybės vykdomoji institucija.
+
+
+
+
+2. Pagrindinės savivaldybės įmonės funkcijos:
 
 
 1) koordinuoti uosto žemės naudotojų vykdomą uosto teritorijos apsaugą;
@@ -200,7 +219,7 @@ UOSTO VALDYMAS
 
 
 
-3) nuomoti uosto žemę ir perduoti ją laikinai neatlygintinai naudotis šio įstatymo 10 straipsnio 3 dalyje nustatytais atvejais;
+3) nuomoti uosto žemę;
 
 
 
@@ -240,17 +259,19 @@ UOSTO VALDYMAS
 
 
 
-11) užtikrinti neišnuomotos uosto žemės (teritorijos) priežiūrą.
+11) užtikrinti neišnuomotos uosto žemės (teritorijos) priežiūrą;
 
 
 
 
+12) vykdyti kitą jos įstatuose nustatytą veiklą.
 
 
-2. Palangos miesto savivaldybė šio straipsnio 1 dalyje nustatytoms funkcijoms, išskyrus šio straipsnio 1 dalies 3 punkte nurodytą funkciją, įgyvendinti įsteigia savivaldybės įmonę. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
  
-
-
 
 
 
@@ -304,20 +325,27 @@ Uosto plėtra planuojama Lietuvos Respublikos teritorijų planavimo įstatymo nu
 10 straipsnis. Uosto žemės nuoma
 
 
-1. Palangos miesto savivaldybės taryba uosto žemę gali išnuomoti tik konkurso tvarka. Šios tvarkos aprašą Palangos miesto savivaldybės tarybos teikimu tvirtina Vyriausybė.
+1. Savivaldybės įmonė turi teisę išnuomoti uosto žemę tik su uosto paskirtimi susijusiai veiklai, nurodytai šio įstatymo 4 straipsnio 1 dalyje, vykdyti. 
 
 
 
 
-2. Uosto žemės nuomos sutarties formą ir uosto žemės nuomos mokesčio apskaičiavimo tvarkos aprašą Palangos miesto savivaldybės tarybos teikimu tvirtina Vyriausybė.
+2. Savivaldybės įmonė uosto žemę gali išnuomoti tik konkurso tvarka. Šios tvarkos aprašą Palangos miesto savivaldybės tarybos teikimu tvirtina Vyriausybė.
 
 
 
 
-3. Uosto žemė gali būti perduota laikinai neatlygintinai naudotis valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus. Sprendimą perduoti uosto žemę neatlygintinai naudotis priima Palangos miesto savivaldybės taryba. Uosto žemė perduodama laikinai neatlygintinai naudotis Vyriausybės nustatyta tvarka.
+3. Uosto žemės nuomos sutarties formą ir uosto žemės nuomos mokesčio apskaičiavimo tvarkos aprašą Palangos miesto savivaldybės tarybos teikimu tvirtina Vyriausybė.
+
+
+
+
+4. Uosto žemė gali būti perduodama laikinai neatlygintinai naudotis valstybės institucijoms, kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus. Sprendimą perduoti uosto žemę neatlygintinai naudotis priima Palangos miesto savivaldybės taryba. Uosto žemė perduodama laikinai neatlygintinai naudotis Vyriausybės nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
  
-
-
 
 
 
@@ -701,3 +729,8 @@ Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 10
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1265, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10493
 Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
+Lietuvos Respublikos Šventosios jūrų uosto įstatymo Nr. X-910 4, 5, 7 ir 10 straipsnių pakeitimo įstatymas
