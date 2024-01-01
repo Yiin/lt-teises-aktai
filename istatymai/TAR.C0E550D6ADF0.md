@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-11 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1659, i. k. 0971010ISTAVIII-371
  
@@ -229,37 +229,66 @@ PRIVAČIŲ INTERESŲ DEKLARAVIMAS
 
 
 
-5) akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei (savivaldybėms), šių bendrovių patronuojamųjų (dukterinių) akcinių bendrovių ar uždarųjų akcinių bendrovių stebėtojų tarybų, valdybų nariams, struktūrinių padalinių vadovams ir jų pavaduotojams;
+5) biudžetinių įstaigų stebėtojų tarybų nariams; 
+Papildyta straipsnio punktu:
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
+ 
 
 
 
 
-6) valstybės ar savivaldybių įmonių valdybų nariams;
+6) akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei (savivaldybėms), šių bendrovių patronuojamųjų (dukterinių) akcinių bendrovių ar uždarųjų akcinių bendrovių stebėtojų tarybų, valdybų nariams, struktūrinių padalinių vadovams ir jų pavaduotojams;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
+ 
 
 
 
 
-7) Privalomojo sveikatos draudimo tarybos nariams, Privalomojo sveikatos draudimo tarybos visuomeniniams patarėjams, Nacionalinės sveikatos tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, dirbantiems asmens sveikatos priežiūros ar vaistinės veiklos licenciją turinčiose biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse ir įmonėse, kurių valstybei ar savivaldybei nuosavybės teise priklausančių akcijų suteikiami balsai visuotiniame akcininkų susirinkime ar turimos juridinio asmens dalyvio teisės kitų teisinių formų juridiniuose asmenyse leidžia daryti lemiamą įtaką šių juridinių asmenų veiklai;
+7) valstybės ar savivaldybių įmonių valdybų nariams;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
+ 
 
 
 
 
-8) perkančiosios organizacijos ar perkančiojo subjekto (toliau kartu – perkantysis subjektas) vadovams, perkančiojo subjekto pirkimų komisijų nariams, perkančiojo subjekto vadovo paskirtiems atlikti supaprastintus pirkimus asmenims, perkančiojo subjekto atliekamų pirkimų procedūrose dalyvaujantiems ekspertams, viešojo pirkimo, pirkimo, atliekamo vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiojo subjekto, koncesijos iniciatoriams (toliau – pirkimo iniciatorius);
+8) Privalomojo sveikatos draudimo tarybos nariams, Privalomojo sveikatos draudimo tarybos visuomeniniams patarėjams, Nacionalinės sveikatos tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, dirbantiems asmens sveikatos priežiūros ar vaistinės veiklos licenciją turinčiose biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse ir įmonėse, kurių valstybei ar savivaldybei nuosavybės teise priklausančių akcijų suteikiami balsai visuotiniame akcininkų susirinkime ar turimos juridinio asmens dalyvio teisės kitų teisinių formų juridiniuose asmenyse leidžia daryti lemiamą įtaką šių juridinių asmenų veiklai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
+ 
 
 
 
 
-9) institucijos ar įstaigos sprendimu sudarytų ar valstybės pareigūnų paskirtų nuolatinių komisijų ir tarybų, turinčių viešojo administravimo įgaliojimus ir priimančių privalomo pobūdžio sprendimus nepavaldiems asmenims, nariams; 
+9) perkančiosios organizacijos ar perkančiojo subjekto (toliau kartu – perkantysis subjektas) vadovams, perkančiojo subjekto pirkimų komisijų nariams, perkančiojo subjekto vadovo paskirtiems atlikti supaprastintus pirkimus asmenims, perkančiojo subjekto atliekamų pirkimų procedūrose dalyvaujantiems ekspertams, viešojo pirkimo, pirkimo, atliekamo vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiojo subjekto, koncesijos iniciatoriams (toliau – pirkimo iniciatorius);
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
+ 
 
 
 
 
-10) aukštųjų mokyklų, kurių bent vienas iš steigėjų yra valstybė ar savivaldybė, valdymo organų nariams;
+10) institucijos ar įstaigos sprendimu sudarytų ar valstybės pareigūnų paskirtų nuolatinių komisijų ir tarybų, turinčių viešojo administravimo įgaliojimus ir priimančių privalomo pobūdžio sprendimus nepavaldiems asmenims, nariams; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
+ 
 
 
 
 
-11) kitiems viešojo sektoriaus subjektų darbuotojams, kurių pareigų sąrašą tvirtina  institucijos ar įstaigos vadovas, suderinęs su VTEK. Į šį sąrašą gali būti įtraukiamos pareigos, kurioms priskirtos funkcijos yra susijusios su valstybės ar savivaldybių biudžetų ir valstybės pinigų fondų lėšų valdymu, valstybės ir savivaldybių turto valdymu, naudojimu ir disponavimu juo, administracinių sprendimų rengimu bei priėmimu ar viešųjų paslaugų teikimu.  
+11) aukštųjų mokyklų, kurių bent vienas iš steigėjų yra valstybė ar savivaldybė, valdymo organų nariams;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
+ 
+
+
+
+
+12) kitiems viešojo sektoriaus subjektų darbuotojams, kurių pareigų sąrašą tvirtina  institucijos ar įstaigos vadovas, suderinęs su VTEK. Į šį sąrašą gali būti įtraukiamos pareigos, kurioms priskirtos funkcijos yra susijusios su valstybės ar savivaldybių biudžetų ir valstybės pinigų fondų lėšų valdymu, valstybės ir savivaldybių turto valdymu, naudojimu ir disponavimu juo, administracinių sprendimų rengimu bei priėmimu ar viešųjų paslaugų teikimu.  
+ 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
  
 
 
@@ -1057,3 +1086,8 @@ Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje t
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
 Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo Nr. VIII-371 5, 10, 11, 13, 15, 18 ir 23 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2259, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22991
+Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo Nr. VIII-371 4 straipsnio pakeitimo įstatymas
