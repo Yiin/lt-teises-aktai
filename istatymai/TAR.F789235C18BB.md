@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
  
@@ -78,7 +78,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Vidaus auditorius – vidaus audito tarnybos valstybės tarnautojas arba pagal darbo sutartį dirbantis darbuotojas, arba kitą įstatymuose nustatytą statusą turintis asmuo, atliekantys vidaus auditą.
+5. Vidaus auditorius – vidaus audito tarnybos darbuotojas, dirbantis pagal darbo sutartį, arba kitą įstatymuose nustatytą statusą turintis asmuo, atliekantys vidaus auditą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2009, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11587
+ 
 
 
 
@@ -113,7 +116,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos buhalterinės apskaitos įstatyme ir Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme.
+12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos finansinės apskaitos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2009, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11587
  
 
 
@@ -442,7 +447,10 @@ Nr. XIII-2924, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10932
 
 
 
-4. Kitų viešųjų juridinių asmenų, kurių savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditą atlieka juose įsteigta vidaus audito tarnyba arba atitinkamai Seimo arba Vyriausybės paskirta kito viešojo juridinio asmens centralizuoto vidaus audito tarnyba ar vidaus audito tarnyba, išskyrus šio straipsnio 7 dalyje numatytą atvejį. 
+4. Kitų viešųjų juridinių asmenų, kurių savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditą atlieka juose įsteigta vidaus audito tarnyba arba atitinkamai Seimo arba Vyriausybės paskirta kito viešojo juridinio asmens centralizuoto vidaus audito tarnyba ar vidaus audito tarnyba, išskyrus šio straipsnio 7 dalyje numatytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2048, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12411
+ 
 
 
 
@@ -457,7 +465,24 @@ Nr. XIII-2924, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10932
 
 
 
-7. Jeigu viešajame juridiniame asmenyje vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba neturi būti įsteigta pagal šio straipsnio 1, 2, 3 ir 5 dalis ir jo vidaus auditui atlikti nėra paskirta kito viešojo juridinio asmens vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba, tačiau dėl šio viešojo juridinio asmens atliekamų funkcijų turi būti užtikrintas viešojo juridinio asmens nepriklausomumas ir (arba) jame steigti vidaus audito tarnybą yra ekonomiškai neefektyvu, tokio viešojo juridinio asmens vidaus auditui atlikti gali būti įsigyjamos vidaus audito paslaugos Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka.
+7. Viešojo juridinio asmens vidaus auditui atlikti gali būti įsigyjamos vidaus audito paslaugos Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka, jeigu:
+
+
+1) viešajame juridiniame asmenyje, kurio savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditui atlikti pagal šio straipsnio 4 dalį nėra paskirta kito viešojo juridinio asmens vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba;
+
+
+
+
+2) viešajame juridiniame asmenyje, kurio savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditui atlikti pagal šio straipsnio 4 dalį yra paskirta kito viešojo juridinio asmens vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba ir Seimo valdyba arba Vyriausybės įgaliotas subjektas vidaus audito paslaugų įsigijimui pritaria;
+
+
+
+
+3) viešajame juridiniame asmenyje vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba neturi būti įsteigta pagal šio straipsnio 1, 2, 3 ir 5 dalis.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2048, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12411
  
 
 
@@ -795,4 +820,14 @@ Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 pa
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2924, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10932
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 9 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2009, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11587
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 2 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2048, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12411
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo Nr. IX-1253 9 straipsnio pakeitimo įstatymas
