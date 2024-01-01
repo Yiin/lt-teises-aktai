@@ -13,15 +13,21 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EF7A143D3228"
 
 # Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymas
 
-Suvestinė redakcija nuo 2018-12-29 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1992, Nr. 10-240, i. k. 0921010ISTA00I-2375
  
-Nauja redakcija nuo 2018-01-01:
-Nr. XII-2476, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17973
+TAR pastaba. Įstatymo Nr. XIV-2136 nuostatos neturi įtakos iki 2023 m. gruodžio 31 d. paskirtų apylinkių teismų, kurių struktūra keičiama  įstatymo Nr. XIV-2136 1 straipsniu, teisėjų įgaliojimų vykdymui. Iki 2023 m. gruodžio 31 d. paskirti apylinkių teismų, kurių struktūra keičiama  įstatymo Nr. XIV-2136 1 straipsniu, teisėjai toliau dirba po  įstatymo Nr. XIV-2136 įsigaliojimo veikiančiame atitinkamame apylinkės teisme ir yra laikomi paskirtais į tą apylinkės teismą ar tuos teismo rūmus, kurių veiklos teritorijoje veikė teismo rūmai, į kuriuos jie buvo paskirti.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2136, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14328
+Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymo Nr. I-2375 pakeitimo įstatymas
  
-LIETUVOS RESPUBLIKOS  APYLINKIŲ TEISMŲ ĮSTEIGIMO ir jų veiklos teritorijų nustatymo ĮSTATYMAS
+Nauja redakcija nuo 2024-01-01:
+Nr. XIV-2136, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14328
  
+LIETUVOS RESPUBLIKOS 
+APYLINKIŲ TEISMŲ ĮSTEIGIMO ir jų veiklos teritorijų nustatymo
+ĮSTATYMAS
  
 
 
@@ -31,7 +37,7 @@ LIETUVOS RESPUBLIKOS  APYLINKIŲ TEISMŲ ĮSTEIGIMO ir jų veiklos teritorijų n
 Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
-1) Alytaus apylinkės teismas. Šį teismą sudaro Alytaus apylinkės teismo Alytaus rūmai, Alytaus apylinkės teismo Druskininkų rūmai, Alytaus apylinkės teismo Lazdijų rūmai, Alytaus apylinkės teismo Prienų rūmai ir Alytaus apylinkės teismo Varėnos rūmai; šio teismo buveinė yra Alytaus apylinkės teismo Alytaus rūmuose;
+1) Alytaus apylinkės teismas. Šį teismą sudaro Alytaus apylinkės teismo Alytaus rūmai, Alytaus apylinkės teismo Druskininkų rūmai, Alytaus apylinkės teismo Prienų rūmai ir Alytaus apylinkės teismo Varėnos rūmai; šio teismo buveinė yra Alytaus apylinkės teismo Alytaus rūmuose;
 
 
 
@@ -51,17 +57,17 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-5) Panevėžio apylinkės teismas. Šį teismą sudaro Panevėžio apylinkės teismo Biržų rūmai, Panevėžio apylinkės teismo Kupiškio rūmai, Panevėžio apylinkės teismo Panevėžio rūmai, Panevėžio apylinkės teismo Pasvalio rūmai ir Panevėžio apylinkės teismo Rokiškio rūmai; šio teismo buveinė yra Panevėžio apylinkės teismo Panevėžio rūmuose;
+5) Panevėžio apylinkės teismas. Šį teismą sudaro Panevėžio apylinkės teismo Biržų rūmai, Panevėžio apylinkės teismo Kupiškio rūmai, Panevėžio apylinkės teismo Panevėžio rūmai ir Panevėžio apylinkės teismo Rokiškio rūmai; šio teismo buveinė yra Panevėžio apylinkės teismo Panevėžio rūmuose;
 
 
 
 
-6) Plungės apylinkės teismas. Šį teismą sudaro Plungės apylinkės teismo Kretingos rūmai, Plungės apylinkės teismo Palangos rūmai, Plungės apylinkės teismo Plungės rūmai ir Plungės apylinkės teismo Skuodo rūmai; šio teismo buveinė yra Plungės apylinkės teismo Plungės rūmuose;
+6) Plungės apylinkės teismas. Šį teismą sudaro Plungės apylinkės teismo Kretingos rūmai, Plungės apylinkės teismo Palangos rūmai ir Plungės apylinkės teismo Plungės rūmai; šio teismo buveinė yra Plungės apylinkės teismo Plungės rūmuose;
 
 
 
 
-7) Šiaulių apylinkės teismas. Šį teismą sudaro Šiaulių apylinkės teismo Joniškio rūmai, Šiaulių apylinkės teismo Kelmės rūmai, Šiaulių apylinkės teismo Pakruojo rūmai, Šiaulių apylinkės teismo Radviliškio rūmai, Šiaulių apylinkės teismo Raseinių rūmai ir Šiaulių apylinkės teismo Šiaulių rūmai; šio teismo buveinė yra Šiaulių apylinkės teismo Šiaulių rūmuose;
+7) Šiaulių apylinkės teismas. Šį teismą sudaro Šiaulių apylinkės teismo Joniškio rūmai, Šiaulių apylinkės teismo Kelmės rūmai, Šiaulių apylinkės teismo Radviliškio rūmai, Šiaulių apylinkės teismo Raseinių rūmai ir Šiaulių apylinkės teismo Šiaulių rūmai; šio teismo buveinė yra Šiaulių apylinkės teismo Šiaulių rūmuose;
 
 
 
@@ -71,7 +77,7 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-9) Telšių apylinkės teismas. Šį teismą sudaro Telšių apylinkės teismo Akmenės rūmai, Telšių apylinkės teismo Mažeikių rūmai ir Telšių apylinkės teismo Telšių rūmai; šio teismo buveinė yra Telšių apylinkės teismo Telšių rūmuose;
+9) Telšių apylinkės teismas. Šį teismą sudaro Telšių apylinkės teismo Mažeikių rūmai ir Telšių apylinkės teismo Telšių rūmai; šio teismo buveinė yra Telšių apylinkės teismo Telšių rūmuose;
 
 
 
@@ -81,10 +87,7 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-11) Vilniaus regiono apylinkės teismas. Šį teismą sudaro Vilniaus regiono apylinkės teismo Šalčininkų rūmai, Vilniaus regiono apylinkės teismo Širvintų rūmai, Vilniaus regiono apylinkės teismo Švenčionių rūmai, Vilniaus regiono apylinkės teismo Trakų rūmai, Vilniaus regiono apylinkės teismo Ukmergės rūmai ir Vilniaus regiono apylinkės teismo Vilniaus rajono rūmai; šio teismo buveinė yra Vilniaus regiono apylinkės teismo Vilniaus rajono rūmuose; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
- 
+11) Vilniaus regiono apylinkės teismas. Šį teismą sudaro Vilniaus regiono apylinkės teismo Šalčininkų rūmai, Vilniaus regiono apylinkės teismo Širvintų rūmai, Vilniaus regiono apylinkės teismo Švenčionių rūmai, Vilniaus regiono apylinkės teismo Trakų rūmai, Vilniaus regiono apylinkės teismo Ukmergės rūmai ir Vilniaus regiono apylinkės teismo Vilniaus rajono rūmai; šio teismo buveinė yra Vilniaus regiono apylinkės teismo Vilniaus rajono rūmuose;
 
 
 
@@ -105,27 +108,22 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 1. Alytaus apylinkės teismo veiklos teritorija apima Alytaus miesto savivaldybės teritoriją, Alytaus rajono savivaldybės teritoriją, Birštono savivaldybės teritoriją, Druskininkų savivaldybės teritoriją, Lazdijų rajono savivaldybės teritoriją, Prienų rajono savivaldybės teritoriją ir Varėnos rajono savivaldybės teritoriją. Alytaus apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
-1) Alytaus rūmų veiklos teritorija – Alytaus miesto savivaldybės teritoriją ir Alytaus rajono savivaldybės teritoriją;
+1) Alytaus rūmų veiklos teritorija – Alytaus miesto savivaldybės teritoriją, Alytaus rajono savivaldybės teritoriją ir Lazdijų rajono savivaldybės teritoriją;
 
 
 
 
-2) Druskininkų rūmų veiklos teritorija – Druskininkų savivaldybės teritoriją; 
+2) Druskininkų rūmų veiklos teritorija – Druskininkų savivaldybės teritoriją;
 
 
 
 
-3) Lazdijų rūmų veiklos teritorija – Lazdijų rajono savivaldybės teritoriją; 
+3) Prienų rūmų veiklos teritorija – Birštono savivaldybės teritoriją ir Prienų rajono savivaldybės teritoriją;
 
 
 
 
-4) Prienų rūmų veiklos teritorija – Birštono savivaldybės teritoriją ir Prienų rajono savivaldybės teritoriją;
-
-
-
-
-5) Varėnos rūmų veiklos teritorija – Varėnos rajono savivaldybės teritoriją.
+4) Varėnos rūmų veiklos teritorija – Varėnos rajono savivaldybės teritoriją.
 
 
 
@@ -200,7 +198,7 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 5. Panevėžio apylinkės teismo veiklos teritorija apima Biržų rajono savivaldybės teritoriją, Kupiškio rajono savivaldybės teritoriją, Panevėžio miesto savivaldybės teritoriją, Panevėžio rajono savivaldybės teritoriją, Pasvalio rajono savivaldybės teritoriją ir Rokiškio rajono savivaldybės teritoriją. Panevėžio apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
-1) Biržų rūmų veiklos teritorija – Biržų rajono savivaldybės teritoriją;
+1) Biržų rūmų veiklos teritorija – Biržų rajono savivaldybės teritoriją ir Pasvalio rajono savivaldybės teritoriją;
 
 
 
@@ -215,12 +213,7 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 
 
 
-4) Pasvalio rūmų veiklos teritorija – Pasvalio rajono savivaldybės teritoriją;
-
-
-
-
-5) Rokiškio rūmų veiklos teritorija – Rokiškio rajono savivaldybės teritoriją.
+4) Rokiškio rūmų veiklos teritorija – Rokiškio rajono savivaldybės teritoriją.
 
 
 
@@ -240,12 +233,7 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 
 
 
-3) Plungės rūmų veiklos teritorija – Plungės rajono savivaldybės teritoriją ir Rietavo savivaldybės teritoriją;
-
-
-
-
-4) Skuodo rūmų veiklos teritorija – Skuodo rajono savivaldybės teritoriją.
+3) Plungės rūmų veiklos teritorija – Plungės rajono savivaldybės teritoriją, Rietavo savivaldybės teritoriją ir Skuodo rajono savivaldybės teritoriją.
 
 
 
@@ -255,7 +243,7 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 7. Šiaulių apylinkės teismo veiklos teritorija apima Joniškio rajono savivaldybės teritoriją, Kelmės rajono savivaldybės teritoriją, Pakruojo rajono savivaldybės teritoriją, Radviliškio rajono savivaldybės teritoriją, Raseinių rajono savivaldybės teritoriją, Šiaulių miesto savivaldybės teritoriją ir Šiaulių rajono savivaldybės teritoriją. Šiaulių apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
-1) Joniškio rūmų veiklos teritorija – Joniškio rajono savivaldybės teritoriją;
+1) Joniškio rūmų veiklos teritorija – Joniškio rajono savivaldybės teritoriją ir Pakruojo rajono savivaldybės teritoriją;
 
 
 
@@ -265,22 +253,17 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 
 
 
-3) Pakruojo rūmų veiklos teritorija – Pakruojo rajono savivaldybės teritoriją;
+3) Radviliškio rūmų veiklos teritorija – Radviliškio rajono savivaldybės teritoriją;
 
 
 
 
-4) Radviliškio rūmų veiklos teritorija – Radviliškio rajono savivaldybės teritoriją;
+4) Raseinių rūmų veiklos teritorija – Raseinių rajono savivaldybės teritoriją;
 
 
 
 
-5) Raseinių rūmų veiklos teritorija – Raseinių rajono savivaldybės teritoriją;
-
-
-
-
-6) Šiaulių rūmų veiklos teritorija – Šiaulių miesto savivaldybės teritoriją ir Šiaulių rajono savivaldybės teritoriją.
+5) Šiaulių rūmų veiklos teritorija – Šiaulių miesto savivaldybės teritoriją ir Šiaulių rajono savivaldybės teritoriją.
 
 
 
@@ -310,17 +293,12 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 9. Telšių apylinkės teismo veiklos teritorija apima Akmenės rajono savivaldybės teritoriją, Mažeikių rajono savivaldybės teritoriją ir Telšių rajono savivaldybės teritoriją. Telšių apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
-1) Akmenės rūmų veiklos teritorija – Akmenės rajono savivaldybės teritoriją;
+1) Mažeikių rūmų veiklos teritorija – Akmenės rajono savivaldybės teritoriją ir Mažeikių rajono savivaldybės teritoriją;
 
 
 
 
-2) Mažeikių rūmų veiklos teritorija – Mažeikių rajono savivaldybės teritoriją;
-
-
-
-
-3) Telšių rūmų veiklos teritorija – Telšių rajono savivaldybės teritoriją.
+2) Telšių rūmų veiklos teritorija – Telšių rajono savivaldybės teritoriją.
 
 
 
@@ -366,49 +344,31 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 
 
 1) Šalčininkų rūmų veiklos teritorija – Šalčininkų rajono savivaldybės teritoriją;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
- 
 
 
 
 
 2) Širvintų rūmų veiklos teritorija – Širvintų rajono savivaldybės teritoriją;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
- 
 
 
 
 
 3) Švenčionių rūmų veiklos teritorija – Švenčionių rajono savivaldybės teritoriją;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
- 
 
 
 
 
-4) Trakų rūmų veiklos teritorija – Elektrėnų savivaldybės teritoriją ir Trakų rajono savivaldybės teritoriją; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
- 
+4) Trakų rūmų veiklos teritorija – Elektrėnų savivaldybės teritoriją ir Trakų rajono savivaldybės teritoriją;
 
 
 
 
 5) Ukmergės rūmų veiklos teritorija – Ukmergės rajono savivaldybės teritoriją;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
- 
 
 
 
 
 6) Vilniaus rajono rūmų veiklos teritorija – Vilniaus rajono savivaldybės teritoriją.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
- 
 
 
 
@@ -416,6 +376,7 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 
 
 12. Vilniaus miesto apylinkės teismo veiklos teritorija apima Vilniaus miesto savivaldybės teritoriją.
+ 
 
 
 
@@ -474,3 +435,8 @@ Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo Nr. I-2375 pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1832, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21852
 Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo Nr. I-2375 pakeitimo įstatymo Nr. XII-2476 2 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2136, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14328
+Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymo Nr. I-2375 pakeitimo įstatymas
