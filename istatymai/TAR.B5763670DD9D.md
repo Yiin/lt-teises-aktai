@@ -13,14 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b5763670dd9d11ec8d9390588bf2de65"
 
 # Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 3, 4, 5, 6, 18, 22, 30, 39, 43-2, 43-3 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
 
+Suvestinė redakcija nuo 2024-01-01
+ 
+Įstatymas paskelbtas: TAR 2022-05-27, i. k. 2022-11312
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMO NR. XI-1807 1, 3, 4, 5, 6, 18, 22, 30, 39, 432, 433 STRAIPSNIŲ PAKEITIMO IR 7 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 ĮSTATYMAS
  
 2022 m. gegužės 12 d. Nr. XIV-1077
 Vilnius
- 
- 
  
  
 
@@ -34,6 +39,7 @@ Pakeisti 1 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 
 
 „3) duomenų valdymo įgaliotinių veiklą;“.
+ 
 
 
 
@@ -74,6 +80,7 @@ Valstybės informaciniai ištekliai pagal duomenų svarbą yra šių rūšių:
 
 
 4) mažos svarbos valstybės informaciniai ištekliai. Prie jų priskiriami duomenys, kuriuos valdo institucija, atlikdama vidaus administravimo funkcijas, ir (ar) informacinės sistemos, kuriose šie duomenys tvarkomi. Šiame punkte minimų informacinių sistemų steigimo, kūrimo, modernizavimo ir likvidavimo tvarką nustato Lietuvos Respublikos Vyriausybės įgaliotos institucijos.“
+ 
 
 
 
@@ -97,6 +104,7 @@ Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip:
 
 
 „4) nustato valstybės informacinių išteklių svarbos vertinimo tvarką;“.
+ 
 
 
 
@@ -202,6 +210,7 @@ Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip:
 
 
 „2. Ekonomikos ir inovacijų ministro įgaliota institucija atsako už valstybės informacinių išteklių funkcinį suderinamumą, kūrimą, tvarkymą ir plėtrą ir pagal kompetenciją:“.
+ 
 
 
 
@@ -232,6 +241,7 @@ Pakeisti 18 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 „3. Registro nuostatuose nurodomi registro paskirtis, jo objektas (objektai), registro valdytojas, registro tvarkytojas (tvarkytojai), teikėjai, jų teisės ir pareigos, reglamentuojamas registro objekto (objektų) registravimas, registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas, jų pakartotinio naudojimo tvarka, registro sąveika su kitais registrais ir (arba) valstybės informacinėmis sistemomis, registro duomenų ir registro informacijos sauga, registro finansavimas ir kita Vyriausybės nustatyta informacija. Registro nuostatų projektas rengiamas ir derinamas Vyriausybės nustatyta tvarka. Registro saugos nuostatuose nurodoma registro kategorija, nustatyta remiantis Vyriausybės patvirtintu valstybės informacinių išteklių svarbos vertinimo tvarkos aprašu, informacijos saugos tikslai, užtikrinimo prioritetinės kryptys ir kita Vyriausybės nustatyta informacija. Registro saugos nuostatų projektas rengiamas, derinamas ir tvirtinamas Vyriausybės nustatyta tvarka.“
+ 
 
 
 
@@ -251,6 +261,7 @@ Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 „4. Registrų ir valstybės informacinių sistemų registro valdytoja yra Ekonomikos ir inovacijų ministerija. Registrų ir valstybės informacinių sistemų registro tvarkytoją skiria Vyriausybė.“
+ 
 
 
 
@@ -270,6 +281,7 @@ Pakeisti 30 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 „3. Valstybės informacinės sistemos nuostatuose nurodomi valstybės informacinės sistemos tikslai, uždaviniai, funkcijos, valstybės informacinės sistemos valdytojas ir tvarkytojas (tvarkytojai), teikėjai, kaupiami duomenys, reglamentuojama funkcinė struktūra, sąveika su kitomis valstybės informacinėmis sistemomis ir registrais, iš jų numatomi gauti duomenys, valstybės informacinės sistemos duomenų tvarkymas, valstybės informacinės sistemos duomenų pakartotinio naudojimo tvarka, sauga, valstybės informacinės sistemos finansavimas ir kita Vyriausybės nustatyta informacija. Valstybės informacinės sistemos saugos nuostatuose nurodoma valstybės informacinės sistemos kategorija, nustatyta vadovaujantis Vyriausybės patvirtintu valstybės informacinių išteklių svarbos vertinimo tvarkos aprašu, informacijos saugos tikslai, užtikrinimo prioritetinės kryptys ir kita Vyriausybės nustatyta informacija.“
+ 
 
 
 
@@ -289,6 +301,7 @@ Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 „1. Valstybės informacinių išteklių sąveikumo platforma yra valstybės informacinė sistema, kurios paskirtis – užtikrinti galimybę asmenims vieno langelio principu gauti institucijų teikiamas viešąsias ir administracines elektronines paslaugas ir institucijoms teikti šio įstatymo 40 straipsnio 1 dalyje nurodytas paslaugas. Valstybės informacinių išteklių sąveikumo platformą steigia, valdo ir jos tvarkytoją skiria Ekonomikos ir inovacijų ministerija.“
+ 
 
 
 
@@ -401,6 +414,7 @@ Pakeisti 432 straipsnį ir jį išdėstyti taip:
 
 
 9. Institucijų prisijungimo prie Saugiojo tinklo ir atsijungimo nuo jo sąlygas, planą ir terminus nustato Vyriausybė ar jos įgaliota institucija.“
+ 
 
 
 
@@ -450,6 +464,7 @@ Pakeisti 433 straipsnį ir jį išdėstyti taip:
 
 
 6. Techninius ir organizacinius reikalavimus, taikomus valstybiniams duomenų centrams ir Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esantiems duomenų centrams, kuriuose laikomi valstybės informaciniai ištekliai, tvirtina ekonomikos ir inovacijų ministras.“
+ 
 
 
 
@@ -462,61 +477,10 @@ Pakeisti 433 straipsnį ir jį išdėstyti taip:
 
 
 
-13 straipsnis. 433 straipsnio pakeitimas
-
-
-Pakeisti 433 straipsnį ir jį išdėstyti taip: 
-
-
-
-
-„433 straipsnis. Duomenų centrai
-
-
-1. Institucijos, įrašytos į Saugiojo tinklo naudotojų sąrašą, privalo laikyti savo valdomus ypatingos svarbos ir svarbius valstybės informacinius išteklius valstybiniuose duomenų centruose, išskyrus šio straipsnio 3 dalyje nustatytas išimtis. Valstybinių duomenų centrų sąrašą tvirtina ekonomikos ir inovacijų ministras.
-
-
-
-
-2. Institucijos, įrašytos į Saugiojo tinklo naudotojų sąrašą, savo valdomus vidutinės svarbos ir mažos svarbos valstybės informacinius išteklius laiko valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose. Kai vidutinės svarbos ir mažos svarbos valstybės informaciniai ištekliai laikomi Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose, šių valstybės informacinių išteklių kopijos Vyriausybės nustatyta tvarka laikomos valstybiniuose duomenų centruose.
-
-
-
-
-3. Institucijoms, įrašytoms į Saugiojo tinklo naudotojų sąrašą, Vyriausybės nutarimu gali būti suteikta teisė laikyti jų valdomus svarbius valstybės informacinius išteklius Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose. Šiais atvejais institucijų valdomų svarbių valstybės informacinių išteklių kopijos Vyriausybės nustatyta tvarka privalo būti laikomos valstybiniuose duomenų centruose.
-
-
-
-
-4. Institucijos, nepriklausomai nuo to, ar taikoma šio straipsnio 3 dalis, privalo Vyriausybės nutarimu patvirtintų valstybės informacinių išteklių, kurie turi būti prieinami karo, nepaprastosios padėties, ekstremaliųjų situacijų ar kitais krizių atvejais, kopijas Vyriausybės nustatyta tvarka laikyti ne Lietuvos Respublikoje esančiuose duomenų centruose, bet kituose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose. Karo, nepaprastosios padėties, ekstremaliųjų situacijų ar kitais krizių atvejais Lietuvos Respublikos teritorijoje praradus prieigą prie šioje dalyje nurodytų Vyriausybės nutarimu patvirtintų valstybės informacinių išteklių ar sutrikus jų veiklai, Vyriausybės nustatyta tvarka turi pradėti veikti šių valstybės informacinių išteklių kopijos, laikomos šioje dalyje nurodytuose kitose valstybėse esančiuose duomenų centruose.
-
-
-
-
-5. Sutartis dėl valstybės institucijų ir valstybės įstaigų, finansuojamų iš valstybės biudžeto, valdomų valstybės informacinių išteklių laikymo Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose centralizuotai sudaro Vyriausybės įgaliota institucija.
-
-
-
-
-6. Asmens duomenų, laikomų valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose, saugumui užtikrinti turi būti laikomasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme nustatytų reikalavimų.
-
-
-
-
-7. Institucijų išlaidos, patirtos dėl jų valdomų valstybės informacinių išteklių ir (ar) jų kopijų laikymo valstybiniuose duomenų centruose arba Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose, finansuojamos iš valstybės biudžeto lėšų ir (arba) kitų teisės aktuose nustatytų finansavimo šaltinių.
-
-
-
-
-8. Techninius ir organizacinius reikalavimus, taikomus valstybiniams duomenų centrams ir Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (arba) Šiaurės Atlanto Sutarties Organizacijos (NATO) valstybėse narėse esantiems duomenų centrams, kuriuose laikomi valstybės informaciniai ištekliai, tvirtina ekonomikos ir inovacijų ministras.“
-
-
-
-
-
-
-
-
+13 straipsnis. Neteko galios nuo 2024-01-01
+Straipsnio naikinimas:
+Nr. XIV-2440, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26030
+ 
 
 
 
@@ -524,7 +488,10 @@ Pakeisti 433 straipsnį ir jį išdėstyti taip:
 14 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šis įstatymas, išskyrus šio įstatymo 12 ir 13 straipsnius ir šio straipsnio 4 ir 5 dalis, įsigalioja 2023 m. sausio 1 d.
+1. Šis įstatymas, išskyrus šio įstatymo 12 straipsnį ir šio straipsnio 4 ir 5 dalis, įsigalioja 2023 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2440, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26030
+ 
 
 
 
@@ -534,7 +501,10 @@ Pakeisti 433 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Šio įstatymo 13 straipsnis įsigalioja 2024 m. sausio 1 d. 
+3. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2440, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26030
+ 
 
 
 
@@ -557,3 +527,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2440, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26030
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 3, 4, 5, 6, 18, 22, 30, 39, 43-2, 43-3 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-1077 14 straipsnio pakeitimo ir 13 straipsnio pripažinimo netekusiu galios įstatymas
