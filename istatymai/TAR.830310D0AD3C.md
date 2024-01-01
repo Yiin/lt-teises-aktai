@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/830310d0ad3c11e98451fa7b5933515d"
 
 # Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatymas
 
+Suvestinė redakcija nuo 2024-01-01
+ 
+Įstatymas paskelbtas: TAR 2019-07-23, i. k. 2019-12109
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 DVIGUBO APMOKESTINIMO GINČŲ SPRENDIMO
 ĮSTATYMAS
@@ -335,12 +342,18 @@ Suinteresuotas asmuo, pageidaujantis atsiimti skundą dėl ginčo, rašytinį pr
 
 
 
-3. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos, kai nepriklausomus ekspertus į patariamąją komisiją paskiria Vilniaus apygardos administracinis teismas arba šio įstatymo 11 straipsnio 1 dalyje numatyta susijusios valstybės narės skyrimo įstaiga.
+3. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos, kai nepriklausomus ekspertus į patariamąją komisiją paskiria pirmosios instancijos administracinis teismas arba šio įstatymo 11 straipsnio 1 dalyje numatyta susijusios valstybės narės skyrimo įstaiga.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1584, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25139
+ 
 
 
 
 
-4. Valstybinė mokesčių inspekcija turi teisę prašyti, kad nepriklausomas ekspertas arba jį pavaduojantis ekspertas atskleistų, kokie interesai, santykiai ar kitos aplinkybės galėtų daryti poveikį jo nepriklausomumui ar nešališkumui, išskyrus atvejus, kai nepriklausomą ekspertą arba jį pavaduojantį ekspertą skiria Vilniaus apygardos administracinis teismas.
+4. Valstybinė mokesčių inspekcija turi teisę prašyti, kad nepriklausomas ekspertas arba jį pavaduojantis ekspertas atskleistų, kokie interesai, santykiai ar kitos aplinkybės galėtų daryti poveikį jo nepriklausomumui ar nešališkumui, išskyrus atvejus, kai nepriklausomą ekspertą arba jį pavaduojantį ekspertą skiria pirmosios instancijos administracinis teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1584, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25139
+ 
 
 
 
@@ -356,12 +369,12 @@ Suinteresuotas asmuo, pageidaujantis atsiimti skundą dėl ginčo, rašytinį pr
 11 straipsnis. Kreipimasis į skyrimo įstaigą dėl nepriklausomų ekspertų skyrimo
 
 
-1. Jeigu patariamoji komisija per nustatytą terminą nesudaroma, suinteresuotas asmuo dėl nepriklausomų ekspertų ir juos pavaduojančių ekspertų paskyrimo iš Nepriklausomų ekspertų sąrašo turi teisę kreiptis į nepriklausomų ekspertų skyrimo įstaigą (toliau – skyrimo įstaiga) – kompetentingą teismą arba kitą tokias funkcijas atlikti paskirtą įstaigą. Lietuvos Respublikoje nepriklausomų ekspertų ir juos pavaduojančių ekspertų paskyrimo funkcijas atlieka Vilniaus apygardos administracinis teismas. Prašymai paskirti nepriklausomus ekspertus ir juos pavaduojančius ekspertus pagal šio straipsnio nuostatas skyrimo įstaigai paduodami per 30 kalendorinių dienų nuo šio įstatymo 9 straipsnio 1 dalyje nustatyto 120 kalendorinių dienų termino pabaigos.
+1. Jeigu patariamoji komisija per nustatytą terminą nesudaroma, suinteresuotas asmuo dėl nepriklausomų ekspertų ir juos pavaduojančių ekspertų paskyrimo iš Nepriklausomų ekspertų sąrašo turi teisę kreiptis į nepriklausomų ekspertų skyrimo įstaigą (toliau – skyrimo įstaiga) – kompetentingą teismą arba kitą tokias funkcijas atlikti paskirtą įstaigą. Lietuvos Respublikoje nepriklausomų ekspertų ir juos pavaduojančių ekspertų paskyrimo funkcijas atlieka pirmosios instancijos administracinis teismas. Prašymai paskirti nepriklausomus ekspertus ir juos pavaduojančius ekspertus pagal šio straipsnio nuostatas skyrimo įstaigai paduodami per 30 kalendorinių dienų nuo šio įstatymo 9 straipsnio 1 dalyje nustatyto 120 kalendorinių dienų termino pabaigos.
 
 
 
 
-2. Suinteresuotas asmuo turi teisę prašyti Vilniaus apygardos administracinį teismą paskirti nepriklausomą ekspertą ir jį pavaduojantį ekspertą, jeigu jų nepaskyrė Valstybinė mokesčių inspekcija.
+2. Suinteresuotas asmuo turi teisę prašyti pirmosios instancijos administracinį teismą paskirti nepriklausomą ekspertą ir jį pavaduojantį ekspertą, jeigu jų nepaskyrė Valstybinė mokesčių inspekcija.
 
 
 
@@ -371,7 +384,7 @@ Suinteresuotas asmuo, pageidaujantis atsiimti skundą dėl ginčo, rašytinį pr
 
 
 
-4. Jeigu visos kompetentingos institucijos nepaskiria bent po vieną nepriklausomą ekspertą ir jį pavaduojantį ekspertą, suinteresuotas asmuo turi teisę prašyti Vilniaus apygardos administracinį teismą ir kitų susijusių valstybių narių skyrimo įstaigas paskirti po nepriklausomą ekspertą ir jį pavaduojantį ekspertą. Paskirti nepriklausomi ekspertai burtais iš Nepriklausomų ekspertų sąrašo paskiria patariamosios komisijos pirmininką.
+4. Jeigu visos kompetentingos institucijos nepaskiria bent po vieną nepriklausomą ekspertą ir jį pavaduojantį ekspertą, suinteresuotas asmuo turi teisę prašyti pirmosios instancijos administracinį teismą ir kitų susijusių valstybių narių skyrimo įstaigas paskirti po nepriklausomą ekspertą ir jį pavaduojantį ekspertą. Paskirti nepriklausomi ekspertai burtais iš Nepriklausomų ekspertų sąrašo paskiria patariamosios komisijos pirmininką.
 
 
 
@@ -381,15 +394,17 @@ Suinteresuotas asmuo, pageidaujantis atsiimti skundą dėl ginčo, rašytinį pr
 
 
 
-6. Vilniaus apygardos administracinis teismas paskiria nepriklausomus ekspertus ir juos pavaduojančius ekspertus per 60 darbo dienų nuo suinteresuoto asmens kreipimosi pagal šį straipsnį gavimo dienos. Vilniaus apygardos administracinis teismas, skirdamas nepriklausomus ekspertus, mutatis mutandis taiko arbitrų skyrimo pagal Lietuvos Respublikos komercinio arbitražo įstatymą taisykles.
+6. Pirmosios instancijos administracinis teismas paskiria nepriklausomus ekspertus ir juos pavaduojančius ekspertus per 60 darbo dienų nuo suinteresuoto asmens kreipimosi pagal šį straipsnį gavimo dienos. Teismas, skirdamas nepriklausomus ekspertus, mutatis mutandis taiko arbitrų skyrimo pagal Lietuvos Respublikos komercinio arbitražo įstatymą taisykles.
 
 
 
 
-7. Apie priimtą sprendimą dėl nepriklausomų ekspertų ir juos pavaduojančių ekspertų paskyrimo Vilniaus apygardos administracinis teismas per 3 darbo dienas nuo sprendimo priėmimo dienos praneša suinteresuotam asmeniui ir Valstybinei mokesčių inspekcijai, o ši nedelsdama, ne vėliau kaip per 5 darbo dienas nuo teismo pranešimo gavimo, – kitų valstybių narių kompetentingoms institucijoms.
+7. Apie priimtą sprendimą dėl nepriklausomų ekspertų ir juos pavaduojančių ekspertų paskyrimo pirmosios instancijos administracinis teismas per 3 darbo dienas nuo sprendimo priėmimo dienos praneša suinteresuotam asmeniui ir Valstybinei mokesčių inspekcijai, o ši nedelsdama, ne vėliau kaip per 5 darbo dienas nuo teismo pranešimo gavimo dienos, – kitų valstybių narių kompetentingoms institucijoms.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1584, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25139
  
-
-
 
 
 
@@ -919,4 +934,14 @@ priedas
 1. 2017 m. spalio 10 d. Tarybos direktyva (ES) 2017/1852 dėl mokestinių ginčų sprendimo mechanizmų Europos Sąjungoje (OL 2017 L 265, p. 1).
 
 
-part_df73199a40d4434f80c4a2774ff131cc_end
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1584, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25139
+Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatymo Nr. XIII-2310 10 ir 11 straipsnių pakeitimo įstatymas
+ 
+ 
+part_9725ca69de1c45a0af3b696c4d70f7d7_end
