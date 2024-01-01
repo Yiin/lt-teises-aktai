@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2021-09-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2025-03-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
  
@@ -446,60 +446,9 @@ Nr. XII-512, 2013-07-02, Žin., 2013, Nr. 75-3782 (2013-07-13)
 
 
 
-7 straipsnis. Teisė į lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją
-
-
-1. Asmenys, kuriems nustatytas specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis, turi teisę vieną kartą per 6 metus gauti iki 64 bazinių socialinių išmokų (toliau – BSI) dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus, jei šie asmenys turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2984, 2020-05-28, paskelbta TAR 2020-06-04, i. k. 2020-12208
- 
-
-
-
-
-2. Laikotarpis, kai asmenys, kuriems nustatytas specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis, atlieka laisvės atėmimo bausmę, neįskaitomas į šio straipsnio 1 dalyje nustatytą 6 metų laikotarpį.
-
-
-
-
-3. Šeima (artimieji giminaičiai, įtėviai, vaiko, kuriam nustatyta nuolatinė globa (rūpyba), globėjai (rūpintojai), neįregistravę santuokos ir bendrą ūkį tvarkantys asmenys) (toliau – šeima) turi teisę vieną kartą per 6 metus gauti iki 64 BSI dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus, jei bent vienas iš šeimos narių turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį ir jei šeima atitinka vieną iš šių kriterijų:
-
-
-1) augina neįgalų vaiką (įvaikį, globotinį, rūpintinį) iki 18 metų, kuriam iki 2005 m. birželio 30 d. nustatyta visiška negalia;
-
-
-
-
-2) augina neįgalų vaiką (įvaikį, globotinį, rūpintinį) iki 18 metų, kuriam nustatytas specialusis nuolatinės slaugos poreikis. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2984, 2020-05-28, paskelbta TAR 2020-06-04, i. k. 2020-12208
- 
-
-
-
-
-31. Teisę vieną kartą per 6 metus gauti iki 64 BSI dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus šeima, jei bent vienas iš šeimos narių turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį, turi ir tuo atveju, kai šio įstatymo 7 straipsnio 3 dalyje nurodytam neįgaliam vaikui (įvaikiui, globotiniui, rūpintiniui), kuriam sukako 18 metų, nepertraukiamai nustatyta visiška negalia ir (ar) specialusis nuolatinės slaugos poreikis. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2984, 2020-05-28, paskelbta TAR 2020-06-04, i. k. 2020-12208
- 
-
-
-
-
-4. Lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacija mokama iš valstybės biudžeto lėšų.
-
-
-
-
-5. Lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos mokėjimo tvarką nustato socialinės apsaugos ir darbo ministras. 
-Straipsnio pakeitimai:
-Nr. IX-919, 2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
-Nr. X-189, 2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
-Nr. X-1612, 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
-
-
+7 straipsnis. Neteko galios nuo 2024-01-01
+Straipsnio naikinimas:
+Nr. XIV-1739, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00151
 Straipsnio pakeitimai:
 Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
  
@@ -507,19 +456,9 @@ Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
 
 
 
-71 straipsnis. Teisės gauti transporto išlaidų kompensaciją išsaugojimas
-
-
-1. Asmenys, kuriems yra nustatytas specialusis transporto išlaidų kompensacijos poreikis, turi teisę kiekvieną mėnesį gauti 0,25 BSI dydžio transporto išlaidų kompensaciją iki nustatyto specialiojo transporto išlaidų kompensacijos poreikio termino pabaigos.
-
-
-
-
-2. Laikotarpiu, kai asmenys, kuriems nustatytas specialusis transporto išlaidų kompensacijos poreikis, atlieka laisvės atėmimo bausmę, transporto išlaidų kompensacija nemokama. 
-
-
-Papildyta straipsniu:
-Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
+71 straipsnis. Neteko galios nuo 2024-01-01
+Straipsnio naikinimas:
+Nr. XIV-1739, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00151
  
 
 
@@ -789,3 +728,8 @@ Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 5 ir 7 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3333, 2020-10-15, paskelbta TAR 2020-10-21, i. k. 2020-21839
 Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 5 ir 8 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1739, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00151
+Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 7 ir 7-1 straipsnių pripažinimo netekusiais galios įstatymas
