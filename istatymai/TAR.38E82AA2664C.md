@@ -13,14 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
  
 Nauja redakcija nuo 2001-07-01:
 Nr. IX-391, 2001-06-21, Žin. 2001, Nr. 55-1948 (2001-06-27), i. k. 1011010ISTA00IX-391
  
-LIETUVOS RESPUBLIKOS  NEKILNOJAMOJO TURTO REGISTRO  ĮSTATYMAS
+LIETUVOS RESPUBLIKOS
+NEKILNOJAMOJO TURTO REGISTRO
+ĮSTATYMAS
  
 1996 m. rugsėjo 24 d. Nr. I-1539
 Vilnius
@@ -31,46 +33,8 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas reglamentuoja žemės, statinių ir kitų nekilnojamųjų daiktų (toliau – nekilnojamieji daiktai), daiktinių teisių į nekilnojamuosius daiktus, šių teisių suvaržymų, įstatymų nustatytų juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimą Lietuvos Respublikos nekilnojamojo turto registre (toliau – nekilnojamojo turto registras), nekilnojamojo turto registro statusą, šio registro steigimą, tvarkymą, reorganizavimą ir likvidavimą, Nekilnojamojo turto registro tvarkytojo teises, pareigas bei atsakomybę. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
+Šis įstatymas nustato Nekilnojamojo turto registro (toliau – Registras) statusą, steigimo tvarką, Registro valdytoją, Registro tvarkytojo skyrimo tvarką, Registro objektus, jų registravimo ir sprendimų dėl šių objektų registravimo priėmimo pagrindus, Registro duomenų teikėjus, ginčų dėl Registro tvarkytojo priimtų sprendimų nagrinėjimo išankstinio ginčų nagrinėjimo ne teismo tvarka tvarkos pagrindus, Registro duomenų, Registrui pateiktų dokumentų ir (arba) jų kopijų ir Registro informacijos tvarkymo pagrindus, dėl Registro tvarkytojo kaltės atsiradusios žalos atlyginimo pagrindus, Registro finansavimo šaltinius, Registro reorganizavimo ir likvidavimo pagrindus.
  
-
-
-
-
-2 straipsnis. Nekilnojamojo turto registro paskirtis
-
-
-Nekilnojamojo turto registras steigiamas nekilnojamiesiems daiktams, nuosavybės bei kitoms daiktinėms teisėms į šiuos daiktus, šių teisių suvaržymams, įstatymų nustatytiems juridiniams faktams, teritorijoms, kuriose taikomos specialiosios žemės naudojimo sąlygos, registruoti, oficialiai informacijai apie registre sukauptus duomenis teikti. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-3 straipsnis. Nekilnojamųjų daiktų, daiktinių teisių į juos, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimo momentas 
-
-
-Nekilnojamieji daiktai, daiktinės teisės į juos, šių teisių suvaržymai, juridiniai faktai, teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos, laikomi įregistruotais, kai atitinkami duomenys įrašomi į Nekilnojamojo turto registro duomenų bazę. Duomenų įrašymo į Nekilnojamojo turto registro duomenų bazę tvarką nustato Nekilnojamojo turto registro nuostatai. Juos tvirtina Lietuvos Respublikos Vyriausybė. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-4 straipsnis. Nekilnojamojo turto registro duomenų teisinis statusas 
-
-
-Visi nekilnojamojo turto registre esantys duomenys nuo jų įrašymo laikomi teisingais ir išsamiais, kol jie nenuginčyti įstatymų nustatyta tvarka.
  
 
 
@@ -78,45 +42,20 @@ Visi nekilnojamojo turto registre esantys duomenys nuo jų įrašymo laikomi tei
 
 
 
-5 straipsnis. Nekilnojamojo turto registro tvarkymas
+2 straipsnis. Registro statusas, steigimas ir tvarkymas
 
 
-1. Nekilnojamojo turto registro valdytoja – Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoją skiria Lietuvos Respublikos Vyriausybė. Nekilnojamojo turto registro tvarkytojas turi teisę savo antspaude ir dokumentų, patvirtinančių nekilnojamųjų daiktų, daiktinių teisių į juos, šių teisių suvaržymų, juridinių faktų įregistravimą, blankuose naudoti valstybės herbą. 
-Straipsnio dalies pakeitimai:
-Nr. X-1239, 2007-06-28, Žin., 2007, Nr. 81-3314 (2007-07-21), i. k. 1071010ISTA00X-1239
-Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
- 
+1. Registras yra pagrindinis valstybės registras.
 
 
 
 
-2. Nekilnojamojo turto registro tvarkytojas įstatymų nustatyta tvarka atsako už duomenų, kaupiamų nekilnojamojo turto registre, teisingumą ir apsaugą. Nekilnojamojo turto registro tvarkytojas atsako tik už tai, kad nekilnojamojo turto registre įrašyti duomenys atitinka dokumentus, kurių pagrindu šie duomenys buvo įrašyti.
- 
+2. Registrą steigia ir Registro nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
 
 
 
 
-
-
-6 straipsnis. Nekilnojamojo turto registro tvarkytojo struktūra
-
-
-1. Nekilnojamojo turto registro tvarkytoją sudaro:
-
-
-1) centrinis padalinys – Centrinis registratorius;
-
-
-
-
-2) teritoriniai padaliniai – teritoriniai registratoriai.
-
-
-
-
-
-
-2. Visi teritoriniai registratoriai pavaldūs ir atskaitingi Centriniam registratoriui.
+3. Registro ir jo duomenų tvarkymą reglamentuoja šis įstatymas, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas, Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas, Registro nuostatai, Nekilnojamojo turto kadastro nuostatai (toliau – Kadastro nuostatai) ir kiti teisės aktai, nustatantys Registro tvarkymą.
  
 
 
@@ -124,10 +63,15 @@ Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
 
 
 
-7 straipsnis. Centrinis registratorius 
+3 straipsnis. Registro valdytojas ir Registro tvarkytojo skyrimo tvarka
 
 
-Centrinio registratoriaus funkcijos yra administruoti nekilnojamojo turto registrą, projektuoti, diegti ir naudoti nekilnojamojo turto registro informacinę sistemą, vadovauti teritoriniams registratoriams, kontroliuoti jų veiklą bei atlikti kitas šiame įstatyme bei Nekilnojamojo turto registro nuostatuose numatytas funkcijas.
+1. Registro valdytoja ir asmens duomenų valdytoja yra Lietuvos Respublikos teisingumo ministerija. 
+
+
+
+
+2. Registro tvarkytojas skiriamas Vyriausybės nutarimu, kuriuo tvirtinami Registro nuostatai. Registro tvarkytojas yra ir asmens duomenų tvarkytojas.
  
 
 
@@ -135,17 +79,10 @@ Centrinio registratoriaus funkcijos yra administruoti nekilnojamojo turto regist
 
 
 
-8 straipsnis. Teritoriniai registratoriai
+4 straipsnis. Registro tvarkytojo atsakomybės ribos
 
 
-1. Teritorinis registratorius yra Centrinio registratoriaus įsteigtas Nekilnojamojo turto registro tvarkytojo padalinys, veikiantis Centrinio registratoriaus nustatytoje teritorijoje.
-
-
-
-
-2. Teritoriniai registratoriai tvarko nekilnojamojo turto registrą, įregistruoja nekilnojamuosius daiktus, daiktines teises į juos, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos. Tai atlieka teritorinių registratorių darbuotojai, turintys Nekilnojamojo turto registro nuostatuose nustatyta tvarka suteiktą kvalifikaciją. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
+Registro tvarkytojas atsako tik už tai, kad Registre įrašyti duomenys atitiktų dokumentus ir duomenis, kurių pagrindu šie duomenys buvo įrašyti.
  
 
 
@@ -153,43 +90,191 @@ Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
 
 
 
-9 straipsnis. Nekilnojamojo turto registre registruojami nekilnojamieji daiktai
+5 straipsnis. Registro objektai
 
 
-1. Nekilnojamojo turto registre registruojami šie nekilnojamieji daiktai, jeigu jie Nekilnojamojo turto kadastro įstatymo nustatyta tvarka yra suformuoti kaip atskiri nekilnojamojo turto objektai ir jiems suteiktas unikalus numeris:
+1. Registro objektai yra:
 
 
-1) žemės sklypai;
+1) Nekilnojamojo turto kadastro įstatyme nurodytais būdais suformuoti nekilnojamieji daiktai:
 
 
-
-
-2) statiniai;
-
-
-
-
-3) butai daugiabučiuose namuose;
+a) žemės sklypai;
 
 
 
 
-4) patalpos.
+b) statiniai (pastatai ar inžineriniai statiniai), išskyrus laikinus statinius;
+
+
+
+
+c) patalpos;
 
 
 
 
 
 
-2. Nekilnojamojo daikto įregistravimu nekilnojamojo turto registre yra laikomas Nekilnojamojo turto kadastro įstatymo nustatyta tvarka to daikto duomenų įrašymas į nekilnojamojo turto kadastrą. Registruojant nekilnojamąjį daiktą į nekilnojamojo turto registrą, padaromas nekilnojamojo daikto registro įrašas. Nekilnojamojo daikto kadastro duomenys kaupiami Nekilnojamojo turto registro duomenų bazėje. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
+2) Specialiųjų žemės naudojimo sąlygų įstatyme nurodytos teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos;
+
+
+
+
+3) daiktinės teisės į nekilnojamuosius daiktus, išskyrus įstatymų nustatytas daiktines teises:
+
+
+a) valdymas;
+
+
+
+
+b) nuosavybės teisė;
+
+
+
+
+c) turto patikėjimo teisė;
+
+
+
+
+d) servitutas;
+
+
+
+
+e) uzufruktas;
+
+
+
+
+f) užstatymo teisė (superficies);
+
+
+
+
+g) ilgalaikė nuoma (emphyteusis);
+
+
+
+
+h) hipoteka (išskyrus Lietuvos Respublikos civilinio kodekso 1.98 straipsnio 3 dalyje ir 4.177 straipsnyje nurodyto turto hipoteką, taip pat Civilinio kodekso 4.184 straipsnyje nurodytą sąlyginę hipoteką);
+
+
+
+
+i) turtinės teisės į nekilnojamąjį daiktą įkeitimas;
+
+
+
+
+
+
+4) įmonių pirkimo–pardavimo, dovanojimo ir nuomos sutartys;
+
+
+
+
+5) Civilinio kodekso 4.254 straipsnyje ir kituose įstatymuose nurodyti juridiniai faktai.
+
+
+
+
+
+
+2. Detalus juridinių faktų, registruojamų nekilnojamųjų daiktų registro įrašais, sąrašas nustatomas Registro nuostatuose.
  
 
 
 
 
-3. Nekilnojamojo daikto registro įrašo sudarymo tvarką ir turinį nustato Nekilnojamojo turto registro nuostatai.
+
+
+6 straipsnis. Registro objektų registravimas 
+
+
+1. Registro objektai Registre registruojami pagal prašymus arba pranešimus (toliau – prašymas) ir su jais pateiktus dokumentus ir duomenis, taip pat pagal iš kitų registrų (kadastrų) ar valstybės informacinių sistemų gautus duomenis Registro nuostatuose nustatytais atvejais ir tvarka sumokėjus Vyriausybės nustatyto dydžio atlyginimą.
+
+
+
+
+2. Registro objektai registruojami už atlyginimą, išskyrus Valstybės informacinių išteklių valdymo įstatymo 25 straipsnio 3 dalyje numatytas išimtis.
+
+
+
+
+3. Prašymų, dokumentų ir duomenų teikimo Registrui tvarka, atvejai, kuriais prašymai teikiami per notarą arba Registro tvarkytojo nustatytomis elektroninių ryšių priemonėmis, ir Registro objektų registravimo tvarka nustatomi Registro nuostatuose. 
+
+
+
+
+4. Prašymą dėl Registro objekto registravimo turi teisę pateikti šie Registro duomenų teikėjai:
+
+
+1) dėl nekilnojamojo daikto – šios dalies 2 punkte nurodyti asmenys arba bet kuris nekilnojamojo daikto bendraturtis;
+
+
+
+
+2) dėl nuosavybės teisės:
+
+
+a) nuosavybės teisę įgiję asmenys;
+
+
+
+
+b) teismo proceso, kurio metu buvo priimtas teismo sprendimas dėl nekilnojamojo daikto ar nuosavybės teisės į jį, dalyviai;
+
+
+
+
+c) valstybei nuosavybės teise priklausančio turto patikėtiniai;
+
+
+
+
+d) valstybės ar savivaldybės institucijos, įmonės, įstaigos ir organizacijos, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka įgijusios nekilnojamąjį daiktą valstybės ar savivaldybės nuosavybėn;
+
+
+
+
+e) valstybės institucijos, įstatymų nustatytais atvejais ginančios viešąjį interesą;
+
+
+
+
+f) kiti asmenys, kuriems pagal įstatymus suteikiama ši teisė;
+
+
+
+
+
+
+3) dėl hipotekos ir įkeitimo – notarai, teismas, įstatymų įgalioti pareigūnai ar institucijos, antstoliai, hipotekos ir įkeitimo sandorio šalys, teikiančios prašymą išregistruoti pasibaigusią hipoteką ar įkeitimą;
+
+
+
+
+4) dėl kitų daiktinių teisių ir juridinių faktų – šių daiktinių teisių turėtojai, suinteresuoti asmenys ir įgaliotos institucijos;
+
+
+
+
+5) dėl teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, – asmenys, suinteresuoti ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos tos teritorijos, vykdymu, o jei tokių asmenų nėra, – teritorijų planavimo dokumento ar žemės valdos projekto organizatoriai arba kai, tenkinant viešąjį interesą, šiame punkte nurodytų teritorijų planus, žemėlapius ir (ar) schemas tvirtina Vyriausybė ar Vyriausybės įgaliota institucija, – įstatymų ar ministro (pagal pavestas valdymo sritis) įgaliota institucija;
+
+
+
+
+6) dėl įmonių pirkimo–pardavimo, dovanojimo ir nuomos sutarčių – suinteresuoti asmenys.
+
+
+
+
+
+
+5. Registro objektas laikomas įregistruotu, kai Registro objekto duomenys įrašomi į Registrą. Registro objektai, kuriems suteikiami registro objekto identifikavimo kodai, nustatomi Registro nuostatuose.
  
 
 
@@ -197,161 +282,108 @@ Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
 
 
 
-10 straipsnis. Nekilnojamųjų daiktų kaip priklausinių registravimas
+7 straipsnis. Registro tvarkytojo sprendimų priėmimas
 
 
-1. Nekilnojamojo turto registre nekilnojamieji daiktai registruojami kaip nekilnojamojo daikto priklausiniai įstatymų nustatytais atvejais arba tų daiktų savininko prašymu priklausinių duomenis įrašant į pagrindinio nekilnojamojo daikto registro įrašą. Nekilnojamojo daikto priklausinių įrašymo į nekilnojamojo turto registrą tvarką ir duomenų turinį nustato Nekilnojamojo turto registro nuostatai. 
+1. Išnagrinėjęs prašymą, Registro tvarkytojas gali priimti vieną iš šių sprendimų:
 
 
-
-
-2. Kaip buto ar patalpos priklausinys nekilnojamojo turto registre gali būti įregistruotas tik kitas tame pačiame statinyje esantis nekilnojamasis daiktas.
-
-
-
-
-3. Žemės sklypas negali būti registruojamas kaip priklausinys. Žemės sklypo priklausiniu gali būti tik statinys. Statinys gali būti įregistruotas tik kaip žemės sklypo, kuriame jis yra, priklausinys. 
+1) prašymą tenkinti – Registro objektą registruoti Registre;
 
 
 
 
-4. Nekilnojamojo turto registre kaip priklausiniai gali būti registruojami ir nekilnojamieji daiktai arba tų daiktų dalys, kurie Nekilnojamojo turto kadastro įstatymo nustatyta tvarka nėra suformuoti kaip atskiri nekilnojamojo turto objektai ir jiems nėra suteiktas unikalus numeris. Tokie nekilnojamieji daiktai nekilnojamojo turto registre įregistruojami kaip priklausiniai pagrindinio nekilnojamojo daikto registro įraše padarant šio įstatymo 15 straipsnio 2 dalyje numatytą žymą. Registruojant tokius priklausinius, netaikomos šio straipsnio 5 dalies nuostatos. 
+2) prašymą atmesti – atsisakyti Registro objektą registruoti Registre;
 
 
 
 
-5. Jeigu asmuo, perleisdamas nuosavybės teisę į pagrindinį daiktą, pasilieka nuosavybės teisę į priklausinį, registruojant nuosavybės teisę į pagrindinį daiktą, priklausinys perregistruojamas kaip atskiras nekilnojamojo turto objektas jo duomenis perkeliant į nekilnojamojo daikto registro įrašą arba perregistruojamas kaip kito pagrindinio daikto priklausinys.
-
-
-
-
-6. Jeigu kaip žemės sklypo priklausinys registruojamas statinys, nekilnojamieji daiktai, kurie nekilnojamojo turto registre buvo įregistruoti kaip to statinio priklausiniai, perregistruojami kaip žemės sklypo priklausiniai. 
- 
+3) sprendimo priėmimą atidėti dėl aplinkybių, trukdančių Registro objektą registruoti Registre. Šiame sprendime Registro tvarkytojas nustato vieno mėnesio terminą šioms aplinkybėms pašalinti.
 
 
 
 
 
 
-11 straipsnis. Nekilnojamojo turto registre registruojamos daiktinės teisės į nekilnojamąjį daiktą
+2. Registro tvarkytojas atsisako Registro objektą registruoti Registre, jeigu prašymo nagrinėjimo metu nustatoma nors viena iš šių aplinkybių:
 
 
-1. Nekilnojamojo turto registre registruojamos šios daiktinės teisės į nekilnojamąjį daiktą:
-
-
-1) nuosavybės teisė;
+1) asmenys, padavę prašymą, neturėjo teisės jo paduoti;
 
 
 
 
-2) turto patikėjimo teisė; 
+2) prašymas neatitinka Registro nuostatuose nustatytų reikalavimų;
 
 
 
 
-3) valdymas kaip savarankiška daiktinė teisė;
+3) dokumente, kurio pagrindu prašoma Registro objektą registruoti Registre, nėra Registro nuostatuose numatytų duomenų, būtinų nekilnojamajam daiktui, daiktinių teisių į jį įgijėjams ar asmenims, susijusiems su juridiniais faktais, identifikuoti; 
 
 
 
 
-4) servitutas;
+4) dokumento forma neatitinka įstatymų ar sandorio šalių nustatytos formos; 
 
 
 
 
-5) uzufruktas; 
+5) dokumentas yra panaikintas, pripažintas neteisėtu ar kitokiu būdu pripažintas netekusiu galios; 
 
 
 
 
-6) užstatymo teisė (superficies);
+6) dokumentas arba duomenys, kurių pagrindu prašoma Registro objektą registruoti Registre, neatitinka kitų Registro nuostatuose ar kituose teisės aktuose nustatytų reikalavimų;
 
 
 
 
-7) ilgalaikė nuoma (emphyteusis); 
+7) nesumokėtas Vyriausybės nustatyto dydžio atlyginimas;
 
 
 
 
-8) hipoteka (išskyrus Sutarčių ir teisių suvaržymų registre registruojamą Lietuvos Respublikos civilinio kodekso 1.98 straipsnio 3 dalyje ir 4.177 straipsnyje nurodyto turto hipoteką, taip pat 4.184 straipsnyje nurodytą sąlyginę hipoteką); 
+71) Lietuvos Respublikos žemės įstatymo 362 straipsnio 8 dalyje nustatyta tvarka Žemės informacinėje sistemoje nepateikta Nacionalinės žemės tarnybos prie Aplinkos ministerijos išvada, kad sandoris atitinka teisės aktų reikalavimus (nėra trūkumų) ir jį galima registruoti.
 Papildyta straipsnio punktu:
-Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
+Nr. XIV-2150, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14336
  
 
 
 
 
-9) turtinės teisės į nekilnojamąjį daiktą įkeitimas. 
-Papildyta straipsnio punktu:
-Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
- 
+8) prašomas registruoti objektas nėra Registro objektas;
+
+
+
+
+9) Registro tvarkytojui pateikto dokumento duomenys apie nekilnojamąjį daiktą nesutampa su į Nekilnojamojo turto kadastrą įrašytais duomenimis apie tą nekilnojamąjį daiktą;
+
+
+
+
+10) jau yra priimtas Registro tvarkytojo sprendimas atsisakyti (sprendimo priėmimą atidėti) registruoti tą patį Registro objektą tų pačių dokumentų pagrindu;
+
+
+
+
+11) pateikti duomenys ir dokumentai neatitinka vieni kitų, yra neaiškūs arba klaidinantys;
+
+
+
+
+12) per nustatytą terminą asmenys nepašalino aplinkybių, trukdančių objektą įregistruoti Registre, arba jas pašalino praėjus Registro tvarkytojo nustatytam terminui.
 
 
 
 
 
 
-2. Nekilnojamojo turto registre neregistruojamos įstatymų nustatytos daiktinės teisės.
+3. Sprendimas prašymą tenkinti priimamas įrašant duomenis į Registrą.
 
 
 
 
-3. Kai statinys yra padalytas į patalpas ar butus, kurie įregistruoti kaip atskiri nekilnojamojo turto objektai, nekilnojamojo turto registre registruojamos daiktinės teisės tik į butus ir patalpas, o ne į statinį. 
- 
-
-
-
-
-
-
-12 straipsnis. Nekilnojamojo turto registre registruojami su nekilnojamaisiais daiktais, daiktinėmis teisėmis į juos ir šių teisių suvaržymais susiję juridiniai faktai 
-
-
-Nekilnojamojo turto registre registruojami šie su nekilnojamaisiais daiktais, daiktinėmis teisėmis į juos ir šių teisių suvaržymais susiję juridiniai faktai:
-
-
-1) sandoriai ir sprendimai, kurie keičia registruojamo nekilnojamojo daikto teisinį statusą ar iš esmės keičia jo valdymo, naudojimo ir disponavimo juo galimybes;
-
-
-
-
-2) registruojamo nekilnojamojo daikto bendraturčių sutartys dėl bendro daikto;
-
-
-
-
-3) registruoto nekilnojamojo daikto paveldėjimas;
-
-
-
-
-4) registruoto nekilnojamojo daikto areštas;
-
-
-
-
-5) registruoto nekilnojamojo daikto (dydžio, paskirties ir pan.) pakitimai, taip pat daiktines teises į jį turinčių fizinių asmenų vardo, pavardės, juridinių asmenų pavadinimo pasikeitimai;
-
-
-
-
-6) civilinės bylos dėl registruojamo nekilnojamojo daikto teisinio statuso iškėlimas;
-
-
-
-
-7) įsiteisėję teismo sprendimai ir teismo nutartys, turintys įtakos registruojamo nekilnojamojo daikto teisiniam statusui;
-
-
-
-
-8) turto administravimas;
-
-
-
-
-9) naujo nekilnojamojo daikto suformavimas ar buvusio nekilnojamojo daikto išnykimas.
+4. Kai priimamas sprendimas prašymą atmesti arba sprendimo priėmimą atidėti dėl aplinkybių, trukdančių registruoti Registro objektą, Registro tvarkytojas Registro nuostatuose nustatyta tvarka ne vėliau kaip per šio įstatymo 8 straipsnyje nustatytus terminus apie tai informuoja prašymą pateikusį asmenį arba notarą, kai prašymas pateiktas per notarą, nurodydamas prašymo atmetimo arba sprendimo atidėjimo motyvus. 
  
 
 
@@ -359,19 +391,20 @@ Nekilnojamojo turto registre registruojami šie su nekilnojamaisiais daiktais, d
 
 
 
+8 straipsnis. Sprendimų dėl Registro objektų registravimo priėmimo terminai
 
 
-13 straipsnis. Daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų įregistravimo sąlygos 
-
-
-1. Nekilnojamojo turto registre daiktinės teisės į nekilnojamąjį daiktą, šių teisių suvaržymai, juridiniai faktai gali būti registruojami tik tuo atveju, kai nekilnojamojo turto registre įregistruotas pats nekilnojamasis daiktas. 
+1. Sprendimas dėl Registro objekto, išskyrus nekilnojamąjį daiktą, registravimo turi būti priimtas ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos, išskyrus šio straipsnio 2 ir 3 dalyse nustatytas išimtis. Kai kartu prašoma įregistruoti ar išregistruoti ir nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis, – ne vėliau kaip per 5 darbo dienas nuo tos dienos, kurią baigiasi Kadastro nuostatuose nustatytas prašymų įregistruoti ar išregistruoti nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis nagrinėjimo terminas.
 
 
 
 
-2. Tik įregistravus nuosavybės teisę į nekilnojamąjį daiktą, gali būti registruojamos kitos daiktinės teisės į tą daiktą, tų teisių suvaržymai, juridiniai faktai. Ši nuostata netaikoma registruojant administraciniu aktu ar teismo sprendimu nustatytą servitutą, valdymą kaip savarankišką daiktinę teisę ir nekilnojamojo daikto, nuosavybės teisės į jį arba atskirų šios teisės sudedamųjų dalių – valdymo, naudojimo ar disponavimo areštą kaip juridinį faktą.
-Straipsnio dalies pakeitimai:
-Nr. XII-869, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05358
+2. Asmens, pateikusio prašymą, pageidavimu sprendimas dėl Registro objekto registravimo gali būti priimtas skubos tvarka – per vieną arba 3 darbo dienas.
+
+
+
+
+3. Sprendimas dėl hipotekos ar įkeitimo registravimo turi būti priimtas ne vėliau kaip per vieną darbo dieną nuo prašymo gavimo dienos.
  
 
 
@@ -379,10 +412,130 @@ Nr. XII-869, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05358
 
 
 
-14 straipsnis. Daiktinių teisių į nekilnojamąjį daiktą registravimas nekilnojamojo turto registre 
+9 straipsnis. Registro tvarkytojo sprendimų apskundimas
 
 
-Daiktinės teisės į nekilnojamąjį daiktą nekilnojamojo turto registre registruojamos nekilnojamojo daikto registro įrašu, kuriame nurodomi duomenys apie daiktinės teisės turėtoją bei dokumentas, kurio pagrindu atsirado registruojama teisė. 
+1. Registro tvarkytojo sprendimai dėl Registro objektų registravimo ir (ar) Registro duomenų taisymo skundžiami išankstinio ginčų nagrinėjimo ne teismo tvarka Registro tvarkytojo sudarytai ginčų nagrinėjimo komisijai (toliau – Komisija). Šią komisiją sudaro ir jos darbo reglamentą tvirtina Registro tvarkytojas.
+
+
+
+
+2. Skundas Komisijai paduodamas ne vėliau kaip per vieną mėnesį nuo skundžiamo Registro tvarkytojo sprendimo priėmimo dienos. Jeigu asmuo praleido šio įstatymo nustatytą skundo padavimo terminą dėl priežasčių, kurias Komisija pripažįsta svarbiomis, šis terminas Komisijos sprendimu gali būti atnaujintas. Komisijos sprendimas atmesti prašymą dėl skundo padavimo termino atnaujinimo gali būti skundžiamas teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+3. Komisijai paduoto skundo forma ir turinys turi atitikti Administracinių bylų teisenos įstatymo nustatytus reikalavimus.
+
+
+
+
+4. Komisijai paduotas skundas turi būti išnagrinėtas ne vėliau kaip per 30 darbo dienų nuo skundo gavimo dienos.
+
+
+
+
+5. Dėl skundo Komisija priima vieną iš šių sprendimų:
+
+
+1) palikti galioti Registro tvarkytojo priimtą sprendimą;
+
+
+
+
+2) panaikinti (visą ar iš dalies) Registro tvarkytojo sprendimą ir priimti naują sprendimą;
+
+
+
+
+3) pakeisti Registro tvarkytojo sprendimą;
+
+
+
+
+4) atsisakyti priimti skundą;
+
+
+
+
+5) nutraukti skundo nagrinėjimo procedūrą.
+
+
+
+
+
+
+6. Komisija gali priimti sprendimą atsisakyti priimti skundą, jeigu:
+
+
+1) asmuo, padavęs skundą, neturėjo teisės jo paduoti;
+
+
+
+
+2) skundą paduoda asmuo, pripažintas neveiksniu tam tikroje srityje;
+
+
+
+
+3) skundą suinteresuoto asmens vardu paduoda neįgaliotas asmuo;
+
+
+
+
+4) pagal Komisijos (ir (ar) Registro tvarkytojo) kompetenciją negali spręsti skunde pateiktų klausimų ar priimti sprendimo dėl skunde pateikto reikalavimo;
+
+
+
+
+5) jau yra priimtas Komisijos sprendimas dėl analogiško skundo arba Komisijos sprendimas priimti skundą padavusio asmens skundo atsisakymą;
+
+
+
+
+6) yra įsiteisėjęs teismo sprendimas, priimtas dėl ginčo tarp tų pačių ginčo šalių dėl to paties dalyko ir tuo pačiu pagrindu, arba teismo nutartis priimti pareiškėjo skundo (prašymo, pareiškimo) atsisakymą ar patvirtinti ginčo šalių taikos sutartį;
+
+
+
+
+7) skundo forma ir (ar) turinys neatitinka Administracinių bylų teisenos įstatymo nustatytų skundo formos ir (ar) turinio reikalavimų ir pareiškėjas per 10 darbo dienų nuo Komisijos pirmininko sprendimo dėl trūkumų pašalinimo išsiuntimo pareiškėjui dienos nepašalino skundo trūkumų. Pareiškėjui pašalinus skundo trūkumus, šio straipsnio 4 dalyje nustatytas terminas skaičiuojamas iš naujo;
+
+
+
+
+8) praleistas skundo padavimo terminas ir kartu su skundu nėra pateiktas prašymas dėl skundo padavimo termino atnaujinimo arba pagal pateiktą prašymą dėl skundo padavimo termino atnaujinimo Komisija nepriima sprendimo šį terminą atnaujinti;
+
+
+
+
+9) yra priimtas Registro tvarkytojo sprendimas, kuriuo išspręstas ginčas tarp tų pačių ginčo šalių dėl to paties dalyko ir tuo pačiu pagrindu.
+
+
+
+
+
+
+7. Komisija, nagrinėdama skundą, gali priimti sprendimą nutraukti skundo nagrinėjimo procedūrą, jeigu:
+
+
+1) skundą padavęs asmuo skundo atsisako; 
+
+
+
+
+2) išnyko skundo dalykas;
+
+
+
+
+3) paaiškėja, kad ginčas tarp tų pačių šalių dėl to paties dalyko ir tuo pačiu pagrindu yra nagrinėjamas teisme.
+
+
+
+
+
+
+8. Komisijos sprendimai skundžiami teismui Administracinių bylų teisenos įstatymo nustatyta tvarka ir terminais.
  
 
 
@@ -390,913 +543,40 @@ Daiktinės teisės į nekilnojamąjį daiktą nekilnojamojo turto registre regis
 
 
 
-15 straipsnis. Su nekilnojamaisiais daiktais, daiktinėmis teisėmis į juos ir šių teisių suvaržymais susijusių juridinių faktų registravimas 
+10 straipsnis. Registro duomenų, Registrui pateiktų dokumentų kopijų ir Registro informacijos teikimas
 
 
-1. Juridiniai faktai, susiję su nekilnojamaisiais daiktais, daiktinėmis teisėmis į juos ir šių teisių suvaržymais, registruojami padarant šio straipsnio 2 dalyje numatytą žymą atitinkamo nekilnojamojo daikto registro įraše. 
+1. Registro duomenys, Registrui pateiktų dokumentų kopijos, informacija apie Registro objektus ir su šiais Registro objektais susijusių asmenų duomenys teikiami šiame įstatyme nustatytomis sąlygomis ir Registro nuostatuose nustatyta tvarka.
 
 
 
 
-2. Atitinkamo nekilnojamojo daikto registro įraše gali būti daromos žymos apie šiuos juridinius faktus:
+2. Registre tvarkomi asmens duomenys, Registrui pateiktų dokumentų kopijos ir Registro informacija teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Asmens duomenų teisinės apsaugos įstatymu.
 
 
-1) pirkimo–pardavimo sutartis;
 
 
+3. Registro duomenys, Registrui pateiktų dokumentų kopijos ir Registro informacija teikiami asmenims, turintiems teisinį duomenų gavimo pagrindą ir nurodžiusiems apibrėžtą ir teisėtą duomenų naudojimo tikslą, išskyrus atvejus:
 
 
-2) mainų sutartis;
+1) kai asmuo, kurio duomenys įrašyti Registre, susipažįsta su Registre tvarkomais savo duomenimis;
 
 
 
 
-3) dovanojimo sutartis;
+2) kai asmuo susipažįsta su Registre tvarkomais savo nepilnamečių vaikų, įvaikių duomenimis, taip pat kai globėjai ar rūpintojai susipažįsta su Registre tvarkomais savo globotinių ar rūpintinių duomenimis;
 
 
 
 
-4) nuomos sutartis;
+3) kai asmuo, Registro tvarkytojo interneto svetainėje nurodęs nekilnojamojo daikto adresą, įgyvendina teisę neatlygintinai sužinoti tą nekilnojamąjį daiktą identifikuojančius duomenis, nurodytus Registro nuostatuose.
 
 
 
 
-5) panaudos sutartis;
 
 
-
-
-6) rentos sutartis;
-
-
-
-
-7) bendrąją jungtinę nuosavybę;
-
-
-
-
-8) nekilnojamojo daikto priskyrimą šeimos turtui;
-
-
-
-
-9) sugyventinių turto bendrą naudojimą;
-
-
-
-
-10) nekilnojamojo daikto bendraturčių susitarimą dėl naudojimosi nekilnojamuoju daiktu;
-
-
-
-
-11) įsiteisėjusius teismo sprendimus ir teismo nutartis, turinčius įtakos įregistruoto nekilnojamojo daikto teisiniam statusui;
-
-
-
-
-12) civilinių bylų dėl įregistruoto nekilnojamojo daikto teisinio statuso iškėlimą;
-
-
-
-
-13) notaro vykdomojo įrašo atlikimą;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
- 
-
-
-
-
-14) sandoriuose numatytus daiktinių teisių į nekilnojamuosius daiktus suvaržymus;
-
-
-
-
-15) išlaikymo iki gyvos galvos sutartis;
-
-
-
-
-16) įregistruoto nekilnojamojo daikto, nuosavybės teisės į jį arba atskirų šios teisės sudedamųjų dalių – valdymo, naudojimo ar disponavimo areštą; 
-
-
-
-
-17) nekilnojamojo daikto įrašymą į nekilnojamųjų kultūros vertybių registrą;
-
-
-
-
-18) nekilnojamojo daikto buvimą nekilnojamųjų kultūros vertybių teritorijoje arba jų apsaugos zonoje;
-
-
-
-
-19) neteko galios 2020-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-20) kitus juridinius faktus, jei jų registravimą nekilnojamojo turto registre numato įstatymai.
- 
-
-
-
-
-
-
-
-
-151 straipsnis. Teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimas
-
-
-1. Nekilnojamojo turto registre registruojamos pagal Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymą nustatytos teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos. 
-
-
-
-
-2. Teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registro įrašų sudarymo tvarką ir turinį nustato Nekilnojamojo turto registro nuostatai.     
-
-
-Papildyta straipsniu:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-16 straipsnis. Nekilnojamojo turto registre įregistruotų daiktinių teisių į nekilnojamąjį daiktą, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, išregistravimas 
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-1. Nekilnojamojo turto registre įregistruota daiktinė teisė į nekilnojamąjį daiktą išregistruojama, jeigu pateikiami įstatymų nustatyti dokumentai, patvirtinantys, kad ta daiktinė teisė pasibaigė arba pasikeitė daiktinės teisės turėtojas.
-
-
-
-
-2. Nekilnojamojo turto registre įregistruotas juridinis faktas išregistruojamas, jeigu pateikiami įstatymų nustatyti dokumentai, patvirtinantys, kad juridinis faktas pasibaigė. Įregistruoti juridiniai faktai, susiję su nekilnojamaisiais daiktais, daiktinėmis teisėmis į juos ir šių teisių suvaržymais, išregistruojami atitinkamo nekilnojamojo daikto registro įraše panaikinant žymą. 
-
-
-
-
-3. Žyma apie sudarytą sandorį ar priimtą sprendimą, kurio pagrindu keičiasi nuosavybės teisės į nekilnojamąjį daiktą turėtojas, panaikinama, kai nekilnojamojo turto registre įregistruojama asmens nuosavybės teisė, atsiradusi tuo pačiu teisiniu pagrindu kaip ir žyma.
-
-
-
-
-31. Nekilnojamojo turto registre įregistruota teritorija, kurioje taikomos specialiosios žemės naudojimo sąlygos, išregistruojama Specialiųjų žemės naudojimo sąlygų įstatyme nustatytais atvejais ir jeigu pateikiami įstatymų nustatyti dokumentai, patvirtinantys teritorijos, kurioje taikomos specialiosios žemės naudojimo sąlygos, panaikinimą. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-4. Nekilnojamojo turto registre įregistruotų daiktinių teisių į nekilnojamąjį daiktą, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, išregistravimo tvarką nustato Nekilnojamojo turto registro nuostatai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-
-
-17 straipsnis. Informacija apie sudarytus ir patvirtintus daiktinių teisių į nekilnojamąjį daiktą sandorius 
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
- 
-
-
-1. Notaras, patvirtinęs nuosavybės teisės į nekilnojamąjį daiktą perleidimo sandorį ar išdavęs paveldėjimo teisės liudijimą ir (ar) nuosavybės teisės liudijimą, nedelsdamas, bet ne vėliau kaip per vieną darbo dieną nuo sandorio patvirtinimo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo privalo perduoti Nekilnojamojo turto registro tvarkytojui šio sandorio pagrindinius duomenis, būtinus šio įstatymo 15 straipsnio 2 dalyje numatytai žymai. Perduodamų duomenų turinį ir perdavimo tvarką nustato Centrinio registratoriaus ir Lietuvos notarų rūmų sudaryta sutartis.
-
-
-
-
-2. Jeigu daiktinė teisė į nekilnojamąjį daiktą, šios teisės suvaržymai, juridiniai faktai atsiranda nuo notarine forma patvirtinto sandorio sudarymo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo, asmens prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus notaras teritoriniam registratoriui perduoda nedelsdamas, bet ne vėliau kaip per vieną darbo dieną nuo sandorio patvirtinimo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo.
-
-
-
-
-3. Jeigu daiktinė teisė į nekilnojamąjį daiktą, šios teisės suvaržymai, juridiniai faktai atsiranda kitais negu šio straipsnio 2 dalyje nustatytais pagrindais, asmuo prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus teritoriniam registratoriui paduoda ne vėliau kaip per 30 dienų nuo daiktinės teisės, šios teisės suvaržymo, juridinio fakto atsiradimo dienos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-
-
-
-
-4. Nekilnojamojo turto registro tvarkytojas, gavęs šio straipsnio 1 ir 2 dalyse nurodytus duomenis, per vieną darbo dieną atitinkamo nekilnojamojo daikto registro įraše padaro žymą pagal notaro perduotus duomenis ir (ar) per prašyme nurodytą terminą įregistruoja daiktines teises, šių teisių suvaržymus, juridinius faktus. 
-
-
-
-
-5. Notaras šio straipsnio 1 dalyje nurodytų duomenų neperduoda, kai daiktinės teisės į nekilnojamąjį daiktą įgyjamos nuo notarinės formos sandorio sudarymo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo ir asmuo per notarą perduoda teritoriniam registratoriui prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus ne vėliau kaip per vieną darbo dieną nuo notarinės formos sandorio sudarymo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo.
-
-
-
-
-6. Jeigu notaro atsiųstų duomenų nepakanka šiame straipsnyje numatytai žymai padaryti ir (ar) daiktinėms teisėms, šių teisių suvaržymams, juridiniams faktams įregistruoti arba tokie veiksmai prieštarautų šio įstatymo nuostatoms, Nekilnojamojo turto registro tvarkytojas atsisako daryti žymą ir (ar) įregistruoti daiktines teises, šių teisių suvaržymus ir juridinius faktus. Apie atsisakymą daryti žymą pranešama duomenis atsiuntusiam notarui, o apie atsisakymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus pranešama asmeniui, pateikusiam prašymą.
-
-
-Straipsnio pakeitimai:
-Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
- 
-
-
-
-
-18 straipsnis. Informacija apie civilinės bylos dėl įregistruoto nekilnojamojo daikto teisinio statuso iškėlimą
-
-
-1. Teismas Nekilnojamojo turto registro tvarkytojui praneša apie civilinės bylos dėl įregistruoto nekilnojamojo daikto teisinio statuso iškėlimą. Apie šį juridinį faktą teismas Nekilnojamojo turto registro tvarkytojui praneša ne vėliau kaip kitą darbo dieną po bylos iškėlimo.
-
-
-
-
-2. Nekilnojamojo turto registro tvarkytojas, gavęs teismo pranešimą, nedelsdamas apie civilinės bylos dėl įregistruoto nekilnojamojo daikto iškėlimą pažymi nekilnojamojo turto registre.
- 
-
-
-
-
-
-
-19 straipsnis. Bendrosios jungtinės nuosavybės teisės į nekilnojamąjį daiktą registravimas nekilnojamojo turto registre
-
-
-1. Registruojant bendrąją jungtinę nuosavybės teisę į nekilnojamąjį daiktą, nekilnojamojo turto registre savininkais turi būti nurodomi abu sutuoktiniai.
-
-
-
-
-2. Dokumente, kurio pagrindu nekilnojamojo turto registre registruojama bendrosios jungtinės nuosavybės teisė, turi būti nurodyta, kad nekilnojamasis daiktas įgytas bendrosios jungtinės nuosavybės teise. Jeigu dokumente nenurodyta, kad nekilnojamasis daiktas įgytas bendrosios jungtinės nuosavybės teise, bendrosios jungtinės nuosavybės teisė į tą daiktą gali būti registruojama abiejų sutuoktinių rašytiniu prašymu. Ši nuostata netaikoma, kai nuosavybės teisę į nekilnojamąjį daiktą vienas iš sutuoktinių įgijo iki santuokos, o būdamas susituokęs paveldėjimo ar dovanojimo būdu, jeigu dovanojimo sutartyje ar paveldėjimo dokumente nebuvo nurodyta, jog turtas perduodamas sutuoktinių bendrojon jungtinėn nuosavybėn, arba kai dokumente, kuris yra pagrindas nuosavybės teisei įregistruoti nekilnojamojo turto registre, nurodyta, jog nekilnojamasis daiktas įgytas asmenine sutuoktinio nuosavybės teise.
- 
-
-
-
-
-
-
-20 straipsnis. Bendrosios dalinės nuosavybės teisės į nekilnojamąjį daiktą registravimas nekilnojamojo turto registre
-
-
-1. Kai registruojama bendroji dalinė nuosavybės teisė į nekilnojamąjį daiktą, nekilnojamojo turto registre nurodomi visi bendraturčiai ir jų nuosavybės teisės dalys.
-
-
-
-
-2. Dokumente, kurio pagrindu nekilnojamojo turto registre registruojama bendrosios dalinės nuosavybės teisė į nekilnojamąjį daiktą, turi būti nurodyta, kokios to daikto dalys priklauso kiekvienam iš bendraturčių. Jeigu dokumente, kurio pagrindu prašoma atlikti registraciją, kiekvieno bendraturčio bendrosios dalinės nuosavybės teisės dalies konkretus dydis nenurodytas, nekilnojamojo turto registre registruojamos lygios bendraturčių nuosavybės teisės dalys.
- 
-
-
-
-
-
-
-21 straipsnis. Nekilnojamojo daikto, daiktinių teisių į jį, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimo vieta
-
-
-1. Nekilnojamasis daiktas registruojamas Nekilnojamojo turto registro nuostatų nustatyta tvarka.
-
-
-
-
-2. Daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, registruoja bet kuris Nekilnojamojo turto registro tvarkytojo teritorinis registratorius Nekilnojamojo turto registro nuostatų nustatyta tvarka.
-
-
-Straipsnio pakeitimai:
-Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
-Nr. XIV-667, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24270
- 
-
-
-
-
-22 straipsnis. Daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimo nekilnojamojo turto registre teisiniai pagrindai
-
-
-Daiktinių teisių į nekilnojamąjį daiktą atsiradimą, juridinius faktus ir teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymą patvirtinantys dokumentai, kuriais remiantis šios teisės, jų suvaržymai bei juridiniai faktai, teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos, registruojami nekilnojamojo turto registre, yra:
-
-
-1) valstybės institucijos sprendimas;
-
-
-
-
-2) teismo sprendimas, nutartis, nutarimas, nuosprendis;
-
-
-
-
-3) įstatymų nustatytų institucijų ar pareigūnų sprendimas areštuoti turtą, o įsigaliojus Turto arešto aktų registro įstatymui, – turto arešto aktų registro dokumentai;
-
-
-
-
-4) nekilnojamojo daikto savininko santuokos, ištuokos, vardo, pavardės pakeitimo, mirties liudijimas;
-
-
-
-
-5) paveldėjimo teisės liudijimas;
-
-
-
-
-6) teismo pranešimas apie civilinės bylos dėl nekilnojamojo turto registre įregistruoto nekilnojamojo daikto teisinio statuso iškėlimą;
-
-
-
-
-7) rašytiniai sandoriai;
-
-
-
-
-8) nekilnojamojo daikto pardavimo varžytynėse, aukcione sutartis (aktas);
-
-
-
-
-9) kitų valstybės kadastrų ir registrų dokumentai;
-
-
-
-
-10) kiti įstatymų nustatyti dokumentai;
-
-
-
-
-11) įstatymų nustatyti dokumentai, patvirtinantys teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymą. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-23 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, padavimo tvarka 
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-1. Prašymą įregistruoti nuosavybės teisę į nekilnojamąjį daiktą paduoda jį įgijęs asmuo, o kai registruojamos kitos daiktinės teisės, taip pat šių teisių į nekilnojamuosius daiktus suvaržymai ar teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos, – šių teisių turėtojas arba asmuo, suinteresuotas jų įregistravimu. Prašymą įregistruoti juridinius faktus paduoda įgaliota institucija ar jų įregistravimu suinteresuotas asmuo. Prašymą Nekilnojamojo turto registro nuostatuose nustatyta tvarka asmuo paduoda pats arba per savo atstovą, turintį įstatymų nustatyta tvarka išduotą įgaliojimą. Prašymas įregistruoti ar išregistruoti nekilnojamąjį daiktą, daiktinę teisę, daiktinių teisių suvaržymus, juridinius faktus ar teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, gali būti pateikiamas asmeniškai, paštu, elektroninių ryšių priemonėmis. Elektroninių ryšių priemonėmis teikiamą prašymą asmuo turi pasirašyti saugiu elektroniniu parašu, patvirtintu kvalifikuotu sertifikatu (toliau – saugus elektroninis parašas). 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-2. Kartu su prašymu turi būti pateikiami dokumentai, patvirtinantys prašomų įregistruoti daiktinių teisių, šių teisių suvaržymų, juridinių faktų atsiradimą, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymą. Dokumento, patvirtinančio nekilnojamojo daikto įgijimą nuosavybėn, daiktinių teisių, šių teisių suvaržymų, juridinių faktų atsiradimą, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymą pateikiamas tik originalas arba įstatymų nustatyta tvarka patvirtintas jo nuorašas. Dokumentai gali būti rašytiniai ir elektroniniai. Elektroniniai dokumentai turi būti pasirašyti saugiu elektroniniu parašu arba gali būti skaitmenine forma pateikiamos rašytinių dokumentų kopijos, patvirtintos saugiu elektroniniu parašu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-3. Dokumentai, kurių pagrindu patvirtinamos, atsiranda, baigiasi, perleidžiamos ar suvaržomos daiktinės teisės į nekilnojamąjį daiktą, šių teisių suvaržymai, juridiniai faktai, turi atitikti teisės aktų reikalavimus, juose turi būti įregistravimui nekilnojamojo turto registre būtini duomenys.
-
-
-
-
-4. Dokumentai, kurių pagrindu prašoma atlikti registraciją, turi būti surašyti įskaitomai, juose turi būti pilni asmenų, susijusių su registracija, vardai, pavardės, pavadinimai, adresai, kodai bei nekilnojamojo daikto, susijusio su registracija, unikalus numeris, kuris suteikiamas Nekilnojamojo turto kadastro nuostatų nustatyta tvarka. Įregistravimo nekilnojamojo turto registre pagrindu negali būti dokumentai, kuriuose yra ištaisytų, prirašytų, užbrauktų žodžių ir kitų dokumente neaptartų taisymų, bei pieštuku surašyti dokumentai, taip pat fiziškai sugadinti dokumentai, jei dėl to negalima padaryti vienareikšmės išvados dėl jų turinio.
-
-
-
-
-5. Kai daiktinė teisė į nekilnojamąjį daiktą, šios teisės suvaržymai, juridiniai faktai atsiranda nuo notarine forma patvirtinto sandorio sudarymo arba išduodamo paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo, prašymas įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus ir dokumentus, patvirtinančius daiktinių teisių, šių teisių suvaržymų, juridinių faktų atsiradimą, teritoriniam registratoriui gali būti perduodamas tik iš notaro biuro nuotolinio ryšio priemonėmis (toliau – per notarą). Asmens prašymą įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus notaras teritoriniam registratoriui Centrinio registratoriaus nustatyta tvarka perduoda nedelsdamas, bet ne vėliau kaip per 24 valandas nuo sandorio patvirtinimo ar paveldėjimo teisės liudijimo ir (ar) nuosavybės teisės liudijimo išdavimo. 
-Papildyta straipsnio dalimi:
-Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
- 
-
-
-
-
-
-
-24 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimas
-
-
-1. Asmenų paduoti prašymai įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, registruojami prašymų registravimo knygoje. Ją pildo teritorinio registratoriaus darbuotojai.
-
-
-
-
-2. Prašymų registravimo knygoje kaupiami duomenys apie tai, kokie asmenys, kada, kokiu pagrindu prašė nekilnojamojo turto registre įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, ir koks teritorinio registratoriaus įgaliotų asmenų sprendimas buvo priimtas. Prašymų registravimo knygos formą, turinį ir pildymo tvarką nustato Nekilnojamojo turto registro nuostatai.
-
-
-
-
-3. Prašymai prašymų registravimo knygoje registruojami nedelsiant jų padavimo eilės tvarka.
-
-
-
-
-4. Jeigu prašymą padavęs asmuo pageidauja, jam išduodama pažyma, patvirtinanti prašymo įregistravimo faktą, datą ir laiką. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-25 straipsnis. Neteko galios nuo 2015-11-01
-Straipsnio naikinimas:
-Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
- 
-
-
-
-
-26 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, nagrinėjimas ir sprendimų priėmimas
-
-
-1. Prašymas įregistruoti daiktinę teisę į nekilnojamąjį daiktą, šios teisės suvaržymus, juridinius faktus turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo dienos, o kai kartu prašoma įregistruoti ir nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis, – ne vėliau kaip per penkias darbo dienas nuo dienos, kurią baigiasi Nekilnojamojo turto kadastro nuostatuose nustatytas prašymų įregistruoti nekilnojamąjį daiktą ar pakeisti jo kadastro duomenis nagrinėjimo terminas. Asmens pageidavimu prašymas gali būti išnagrinėtas ir duomenys į Nekilnojamojo turto registro duomenų bazę įrašyti skubos tvarka – per tris, dvi arba vieną darbo dieną. Daiktinės teisės – hipoteka ir turtinės teisės į nekilnojamąjį daiktą įkeitimas – turi būti įregistruotos ne vėliau kaip per vieną darbo dieną nuo pranešimo apie patvirtintą hipotekos ar įkeitimo sandorį arba nustatytą priverstinę hipoteką ar priverstinį įkeitimą gavimo dienos.
-
-
-
-
-2. Prašymus įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, nagrinėja ir sprendimus priima teritorinio registratoriaus įgalioti darbuotojai.
-
-
-
-
-3. Išnagrinėjęs prašymą, teritorinio registratoriaus įgaliotas darbuotojas gali priimti vieną iš šių sprendimų:
-
-
-1) prašymą tenkinti – daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistruoti nekilnojamojo turto registre;
-
-
-
-
-2) prašymą atmesti – atsisakyti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistruoti nekilnojamojo turto registre;
-
-
-
-
-3) sprendimo priėmimą atidėti dėl aplinkybių, kurios trukdo nekilnojamojo turto registre įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos. Šiame sprendime teritorinio registratoriaus įgaliotas darbuotojas nustato ne ilgesnį kaip vieno mėnesio terminą aplinkybėms, trukdančioms įregistruoti daiktines teises, šių teisių suvaržymus, juridinius faktus, pašalinti.
-
-
-
-
-
-
-4. Sprendimų dėl daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimo priėmimo tvarką ir jų formą nustato Nekilnojamojo turto registro nuostatai.
-
-
-
-
-5. Kai priimamas sprendimas prašymą tenkinti, ne vėliau kaip per 24 valandas po sprendimo priėmimo teritorinio registratoriaus įgalioti darbuotojai į Nekilnojamojo turto registro duomenų bazę įrašo duomenis apie įregistruotas daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos.
-
-
-
-
-6. Kai priimamas sprendimas prašymą atmesti arba sprendimo priėmimą atidėti dėl aplinkybių, kurios trukdo įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus, notarui, per kurį pateiktas asmens prašymas, arba prašymą pateikusiam asmeniui (kai prašymas pateiktas šio įstatymo 17 straipsnio 3 dalyje nustatytu atveju) teritorinis registratorius Nekilnojamojo turto registro nuostatų nustatyta tvarka ne vėliau kaip per šio straipsnio 1 dalyje nustatytus terminus įteikia arba išsiunčia sprendimą atsisakyti įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus arba sprendimą dėl sprendimo priėmimo atidėjimo. Notaras ne vėliau kaip kitą darbo dieną apie gautą sprendimą informuoja prašymą pateikusį asmenį.
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
-Nr. XIV-667, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24270
- 
-
-
-
-
-27 straipsnis. Pranešimas apie daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimą nekilnojamojo turto registre
-
-
-Nekilnojamojo turto registro tvarkytojas, įregistravęs daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, prašymą pateikusio asmens pageidavimu išduodami Nekilnojamojo turto registro nuostatuose nustatytos formos ir turinio registro išrašai. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-28 straipsnis. Registravimui pateiktų dokumentų grąžinimas
-
-
-Nekilnojamojo turto registro tvarkytojui pateiktų registravimui dokumentų grąžinimo tvarką nustato Nekilnojamojo turto registro nuostatai.
- 
-
-
-
-
-
-
-29 straipsnis. Nekilnojamojo turto registro tvarkytojo teisė atsisakyti įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos
-
-
-Nekilnojamojo turto registro tvarkytojas atsisako įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, jeigu prašymo nagrinėjimo metu nustatoma nors viena iš šių aplinkybių:
-
-
-1) asmenys, padavę prašymą, neturėjo teisės jį paduoti;
-
-
-
-
-2) dokumentas, kurio pagrindu prašoma atlikti registraciją, neatitinka šio įstatymo reikalavimų;
-
-
-
-
-3) dokumento, kurio pagrindu prašoma atlikti registraciją, forma neatitinka įstatymų ar sandorio šalių nustatytos formos;
-
-
-
-
-4) dokumentas, kurio pagrindu prašoma atlikti registraciją, yra panaikintas, pripažintas neteisėtu ar kitokiu būdu pripažintas netekusiu galios;
-
-
-
-
-5) nesumokėtas Nekilnojamojo turto registro tvarkytojo nustatytas registravimo mokesčio avansas;
-
-
-
-
-6) prašyme ar Nekilnojamojo turto registro tvarkytojui pateiktame dokumente nėra Nekilnojamojo turto registro nuostatuose numatytų duomenų, būtinų nekilnojamajam daiktui bei daiktinių teisių į jį įgijėjams identifikuoti;
-
-
-
-
-7) įstatymai nenumato galimybės prašomas įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, registruoti nekilnojamojo turto registre;
-
-
-
-
-8) Nekilnojamojo turto registro tvarkytojui pateikto dokumento duomenys apie nekilnojamąjį daiktą nesutampa su į nekilnojamojo turto kadastrą įrašytais duomenimis apie tą nekilnojamąjį daiktą;
-
-
-
-
-9) jau yra priimtas Nekilnojamojo turto registro tvarkytojo sprendimas atsisakyti (sprendimo priėmimą atidėti) įregistruoti tas pačias daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, tų pačių dokumentų pagrindu. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-30 straipsnis. Teritorinių registratorių priimtų sprendimų skundimas
-
-
-1. Teritorinio registratoriaus priimtas sprendimas skundžiamas Centriniam registratoriui išankstinio ginčų nagrinėjimo ne teismo tvarka.
-
-
-
-
-2. Centrinio registratoriaus priimtas sprendimas skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka. 
- 
-
-
-
-
-
-
-31 straipsnis. Skundo pateikimas Centriniam registratoriui
-
-
-1. Centriniam registratoriui paduoto skundo dėl teritorinio registratoriaus priimto sprendimo forma ir turinys turi atitikti Administracinių bylų teisenos įstatymo nustatytus reikalavimus. 
-
-
-
-
-2. Skundas Centriniam registratoriui paduodamas per vieną mėnesį nuo skundžiamo teritorinio registratoriaus sprendimo priėmimo dienos. Jeigu suinteresuotas asmuo praleido šio įstatymo nustatytą skundo padavimo terminą dėl priežasčių, kurias Centrinis registratorius pripažįsta svarbiomis, šis terminas Centrinio registratoriaus sprendimu gali būti atnaujintas. Kartu su pareiškimu dėl skundo padavimo termino atnaujinimo turi būti paduodamas ir skundas, kurio padavimo terminas yra praleistas. Centrinio registratoriaus sprendimas atmesti pareiškimą dėl skundo padavimo termino atnaujinimo gali būti apskųstas Administracinių bylų teisenos įstatymo nustatyta tvarka.
- 
-
-
-
-
-
-
-32 straipsnis. Centriniam registratoriui paduotų skundų nagrinėjimo tvarka
-
-
-1. Centriniam registratoriui paduoti skundai dėl teritorinių registratorių priimtų sprendimų turi būti išnagrinėti per trisdešimt dienų. 
-
-
-
-
-2. Skundus nagrinėja bei sprendimus priima Centrinio registratoriaus sudaryta komisija. Komisijos darbo reglamentą tvirtina Centrinis registratorius. 
-
-
-
-
-3. Centrinis registratorius atsisako priimti skundą, jei skundo turinys, forma neatitinka Administracinių bylų teisenos įstatyme nustatytų reikalavimų. 
-
-
-
-
-4. Centrinis registratorius, išnagrinėjęs skundą, priima vieną iš šių sprendimų:
-
-
-1) palikti galioti teritorinio registratoriaus priimtą sprendimą;
-
-
-
-
-2) panaikinti (visą ar iš dalies) teritorinio registratoriaus sprendimą ir priimti naują sprendimą;
-
-
-
-
-3) pakeisti teritorinio registratoriaus sprendimą.
- 
-
-
-
-
-
-
-
-
-33 straipsnis. Netikslių ir klaidingų nekilnojamojo turto registro duomenų taisymas
-
-
-1. Suinteresuoti asmenys, sužinoję, kad į nekilnojamojo turto registrą įrašyti duomenys neatitinka dokumentų, kurių pagrindu šie duomenys buvo įrašyti, gali pareikalauti, kad teritorinis registratorius netikslius ir klaidingus duomenis patikslintų ir ištaisytų arba neišsamius papildytų. 
-
-
-
-
-2. Techninės klaidos gali būti ištaisytos suinteresuoto asmens prašymu arba kai Nekilnojamojo turto registro tvarkytojas pastebėjo klaidą, jeigu nėra pagrindo manyti, kad toks ištaisymas pažeis teisių į tą nekilnojamąjį daiktą turėtojų ar trečiųjų asmenų teisėtus interesus. Techninės klaidos taisomos neatlygintinai ir apie klaidos ištaisymą pranešama prašymą ištaisyti duomenis padavusiam asmeniui bei asmeniui, tiesiogiai susijusiam su taisomais duomenimis apie nekilnojamojo turto registre įregistruotas daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-3. Teritorinis registratorius prašymą ištaisyti nekilnojamojo turto registre įrašytus duomenis turi išnagrinėti per penkias darbo dienas, ištaisyti ar papildyti nekilnojamojo turto registro duomenis ir raštu apie tai pranešti prašymą pateikusiam asmeniui. Teritorinis registratorius, atsisakęs tenkinti prašymą, jį padavusiam asmeniui turi raštu pranešti atsisakymo motyvus.
-
-
-
-
-4. Teritorinio registratoriaus atsisakymas tenkinti prašymą patikslinti ir ištaisyti nekilnojamojo turto registro netikslius ir klaidingus duomenis arba papildyti neišsamius duomenis skundžiamas Centriniam registratoriui šio įstatymo nustatyta tvarka. Centrinio registratoriaus sprendimas gali būti apskųstas Administracinių bylų teisenos įstatymo nustatyta tvarka. 
- 
-
-
-
-
-
-
-34 straipsnis. Dėl Nekilnojamojo turto registro tvarkytojo kaltės atsiradusios žalos atlyginimas
-
-
-1. Dėl Nekilnojamojo turto registro tvarkytojo kaltės atsiradusi žala atlyginama įstatymų nustatyta tvarka. Asmuo dėl žalos atlyginimo į Nekilnojamojo turto registro tvarkytoją turi kreiptis ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią šis sužinojo apie nuostolių atsiradimą.
-
-
-
-
-2. Nekilnojamojo turto registro tvarkytojas už asmenų patirtą žalą neatsako, jeigu yra bendri atleidimo nuo civilinės atsakomybės pagrindai, taip pat tais atvejais, kai žalos patyrę asmenys:
-
-
-1) pateikė Nekilnojamojo turto registro tvarkytojui neteisingus duomenis;
-
-
-
-
-2) per vieną mėnesį nuo tos dienos, kurią sužinojo apie netikslų ar neteisingą įrašą nekilnojamojo turto registre, nesiėmė įstatymų nustatytų priemonių pažeistoms teisėms apginti.
-
-
-
-
-
-
-3. Ginčai dėl žalos atlyginimo sprendžiami teisme įstatymų nustatyta tvarka. 
- 
-
-
-
-
-
-
-35 straipsnis. Nekilnojamojo turto registro sandara
-
-
-Nekilnojamojo turto registrą sudaro atskirų nekilnojamųjų daiktų ir teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registro įrašai. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-36 straipsnis. Nekilnojamojo turto registro duomenų turinys
-
-
-1. Nekilnojamojo turto registro pirmojoje dalyje Nekilnojamojo turto kadastro įstatymo nustatyta tvarka įrašomi tekstiniai nekilnojamojo daikto kadastro duomenys. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1583, 2003-05-27, Žin., 2003, Nr. 57-2531 (2003-06-13), i. k. 1031010ISTA0IX-1583
- 
-
-
-
-
-2. Nekilnojamojo turto registro antrojoje dalyje Nekilnojamojo turto kadastro įstatymo nustatyta tvarka įrašomi grafiniai nekilnojamojo daikto kadastro duomenys apie nekilnojamojo daikto padėtį valstybinėje koordinačių sistemoje – nekilnojamojo turto kadastro žemėlapis.
-Straipsnio dalies pakeitimai:
-Nr. IX-1583, 2003-05-27, Žin., 2003, Nr. 57-2531 (2003-06-13), i. k. 1031010ISTA0IX-1583
- 
-
-
-
-
-3. Nekilnojamojo turto registro trečiojoje dalyje įrašomos daiktinės teisės į nekilnojamąjį daiktą ir duomenys apie šių teisių turėtojus.
-
-
-
-
-4. Nekilnojamojo turto registro ketvirtojoje dalyje daromos šio įstatymo 15 straipsnyje numatytos žymos ir įrašomi kiti papildomi duomenys.
-
-
-
-
-41. Nekilnojamojo turto registro penktojoje dalyje Nekilnojamojo turto registro nuostatuose nustatyta tvarka įrašomi erdviniai duomenys apie teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-5. Nekilnojamojo turto registro duomenų detalų turinį, nekilnojamųjų daiktų ir teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registro įrašų sudarymo ir įforminimo tvarką nustato Nekilnojamojo turto registro tvarkytojas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-
-
-37 straipsnis. Nekilnojamojo turto registro duomenų bazė
-
-
-1. Nekilnojamojo turto registro duomenų ir nekilnojamojo turto kadastro duomenų originalai kaupiami ir saugomi Nekilnojamojo turto registro duomenų bazėje. Nekilnojamojo turto registro duomenų bazės duomenų struktūrą ir jų teikimo vartotojams tvarką nustato Nekilnojamojo turto registro nuostatai. 
-
-
-
-
-2. Nekilnojamojo turto registro duomenų bazės išrašai ar kiti dokumentai, parengti remiantis šios duomenų bazės duomenimis, yra vienintelė oficiali informacija, įrodanti nekilnojamojo daikto, daiktinių teisių į jį, šių teisių suvaržymų, juridinių faktų ir teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimo nekilnojamojo turto registre faktą. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-38 straipsnis. Nekilnojamojo turto registro, turto arešto aktų registro ir kitų valstybės registrų keitimasis duomenimis
-
-
-1. Nekilnojamojo turto registro ir turto arešto aktų registro keitimosi duomenimis tvarka nustatyta šių registrų nuostatuose. 
-
-
-
-
-2. Nekilnojamojo turto registro ir kitų valstybės registrų keitimosi duomenimis tvarka nustatyta įstatymuose ir šių registrų nuostatuose bei šių registrų tvarkytojų susitarimuose. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
- 
-
-
-
-
-39 straipsnis. Nekilnojamojo turto registro dokumentų bylų formavimas
-
-
-1. Įregistravus nekilnojamąjį daiktą, yra sudaroma nekilnojamojo turto registro dokumentų byla (toliau – nekilnojamojo turto registro byla). Registruojant daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, Nekilnojamojo turto registro nuostatų nustatyta tvarka nekilnojamojo turto registro bylose kaupiami su tuo susiję dokumentai. 
-
-
-
-
-2. Nekilnojamojo turto registro bylose saugomi:
-
-
-1) prašymai įregistruoti ar išregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus;
-
-
-
-
-2) prašymai atsiimti prašymus įregistruoti ar išregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus;
-
-
-
-
-3) sprendimai atsisakyti įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus arba atidėti sprendimo priėmimą;
-
-
-
-
-4) dokumentai arba įstatymų nustatyta tvarka patvirtinti jų nuorašai, kurias remiantis įregistruotos, išregistruotos daiktinės teisės į nekilnojamuosius daiktus, šių teisių suvaržymai, juridiniai faktai;
-
-
-
-
-5) kiti Centrinio registratoriaus nustatyti dokumentai, susiję su daiktinėmis teisėmis į nekilnojamąjį daiktą, šių teisių suvaržymais, juridiniais faktais. 
- 
-
-
-
-
-
-
-
-
-40 straipsnis. Nekilnojamojo turto registro bylų saugojimas
-
-
-Nekilnojamojo turto registro bylos Centrinio registratoriaus nustatyta tvarka saugomos teritorinio registratoriaus, kuriame buvo įregistruotas nekilnojamasis daiktas į nekilnojamojo turto registrą, archyve. 
- 
-
-
-
-
-
-
-41 straipsnis. Atlyginimas už daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimą (išregistravimą)
-
-
-Atlyginimo už daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimą (išregistravimą) dydį ir tvarką nustato Vyriausybė. 
-
-
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-42 straipsnis. Nekilnojamojo turto registro duomenų, Nekilnojamojo turto registrui pateiktų dokumentų kopijų ir Nekilnojamojo turto registro informacijos teikimas
-
-
-1. Nekilnojamojo turto registro duomenys, Nekilnojamojo turto registrui pateiktų dokumentų kopijos, informacija apie Nekilnojamojo turto registro objektus ir su šiais Nekilnojamojo turto registro objektais susijusių asmenų duomenys teikiami šiame įstatyme nustatytomis sąlygomis ir Nekilnojamojo turto registro nuostatuose nustatyta tvarka.
-
-
-
-
-2. Nekilnojamojo turto registro archyviniai duomenys ir Nekilnojamojo turto registro informacija teikiami tik:
-
-
-1) nekilnojamojo daikto savininkams;
-
-
-
-
-2) kitų daiktinių teisių turėtojams;
-
-
-
-
-3) teismams ir teisėtvarkos institucijoms – įstatymuose nustatytoms funkcijoms atlikti;
-
-
-
-
-4) savivaldybėms – savivaldybių funkcijoms atlikti;
-
-
-
-
-5) valstybės institucijoms ir kitiems asmenims – įstatymuose arba Vyriausybės nutarimuose nustatytoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti;
-
-
-
-
-6) žurnalistams – Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
-
-
-
-
-
-
-3. Visi aktualūs Nekilnojamojo turto registro duomenys ir Nekilnojamojo turto registro informacija apie asmeniui priklausančius Nekilnojamojo turto registro objektus (visą nekilnojamąjį turtą, daiktines teises į jį ir juridinius faktus), įregistruotus Nekilnojamojo turto registre, ir su šiais objektais susijusių asmenų duomenys teikiami tik:
+4. Visi aktualūs Registro duomenys ir Registro informacija apie asmeniui priklausančius Registro objektus (visą nekilnojamąjį turtą, daiktines teises į jį ir juridinius faktus), įregistruotus Registre, ir su šiais objektais susijusių asmenų duomenys teikiami tik:
 
 
 1) nekilnojamojo daikto savininkams;
@@ -1334,19 +614,49 @@ Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
 
 
 
-8) žurnalistams – Visuomenės informavimo įstatymo nustatytomis sąlygomis.
+8) žurnalistams – Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
 
 
 
 
 
 
-4. Nekilnojamojo turto registro duomenys, Nekilnojamojo turto registrui pateiktų dokumentų kopijos ir Nekilnojamojo turto registro informacija teikiami asmenims, turintiems teisinį duomenų gavimo pagrindą ir nurodžiusiems apibrėžtą ir teisėtą duomenų naudojimo tikslą, išskyrus atvejus, kai asmuo, kurio duomenys įrašyti Nekilnojamojo turto registre, susipažįsta su Nekilnojamojo turto registre tvarkomais savo, savo nepilnamečių vaikų ar įvaikių duomenimis, taip pat kai globėjai ar rūpintojai susipažįsta su Nekilnojamojo turto registre tvarkomais savo globotinių ar rūpintinių duomenimis arba kai asmuo, Nekilnojamojo turto registro tvarkytojo interneto svetainėje nurodęs nekilnojamojo daikto adresą, įgyvendina teisę neatlygintinai sužinoti tą nekilnojamąjį daiktą identifikuojančius duomenis, nurodytus Nekilnojamojo turto registro nuostatuose. Nekilnojamojo turto registre tvarkomi asmens duomenys, Nekilnojamojo turto registrui pateiktų dokumentų kopijos ir Nekilnojamojo turto registro informacija teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+5. Registro archyviniai duomenys ir informacija teikiami tik:
+
+
+1) nekilnojamojo daikto savininkams;
 
 
 
 
-5. Dokumentų, kurių pagrindu registruoti Nekilnojamojo turto registro objektai, kopijos teikiamos tik:
+2) kitų daiktinių teisių turėtojams;
+
+
+
+
+3) teismams ir teisėtvarkos institucijoms – įstatymuose nustatytoms funkcijoms atlikti;
+
+
+
+
+4) savivaldybėms – savivaldybių funkcijoms atlikti;
+
+
+
+
+5) valstybės institucijoms ir kitiems asmenims – įstatymuose arba Vyriausybės nutarimuose nustatytoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti;
+
+
+
+
+6) žurnalistams – Visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+
+
+
+
+
+6. Dokumentų, kurių pagrindu registruoti Registro objektai, kopijos teikiamos tik:
 
 
 1) nekilnojamojo daikto savininkams;
@@ -1391,67 +701,65 @@ Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
 
 
 
-6. Asmenims, suinteresuotiems ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos, vykdymu, teikiami šių jų veiklai nustatytų teritorijų, į jas patenkančių kitų Nekilnojamojo turto registro objektų ir su jais susijusių asmenų aktualūs ir archyviniai Nekilnojamojo turto registro duomenys su šiomis teritorijomis ir į jas patenkančiais kitais Nekilnojamojo turto registro objektais susiję Nekilnojamojo turto registro duomenys, Nekilnojamojo turto registro informacija ir dokumentų, kurių pagrindu registruoti į šias teritorijas patenkantys Nekilnojamojo turto registro objektai, kopijos.
+7. Asmenims, suinteresuotiems ūkinės ir (ar) kitokios veiklos, dėl kurios nustatytos teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos, vykdymu, teikiami šių jų veiklai nustatytų teritorijų, į jas patenkančių kitų Registro objektų ir su jais susijusių asmenų aktualūs ir archyviniai su šiomis teritorijomis ir į jas patenkančiais kitais Registro objektais susiję Registro duomenys, informacija ir dokumentų, kurių pagrindu registruoti į šias teritorijas patenkantys Registro objektai, kopijos. 
 
 
 
 
-7. Nekilnojamojo turto registro duomenys, Nekilnojamojo turto registrui pateiktų dokumentų kopijos ir Nekilnojamojo turto registro informacija teikiami už atlyginimą, išskyrus Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme numatytus atvejus.
-
-
-Straipsnio pakeitimai:
-2011-06-09, Žin., 2011, Nr. 156-7405 (2011-12-22), i. k. 1111000NUTARG117405            
-Nr. XI-1891, 2011-12-22, Žin., 2012, Nr. 6-189 (2012-01-10), i. k. 1111010ISTA0XI-1891
-Nr. XIV-1770, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27586
+8. Registro duomenys, Registrui pateiktų dokumentų kopijos ir Registro informacija teikiami už atlyginimą, išskyrus Valstybės informacinių išteklių valdymo įstatyme numatytus atvejus.
  
 
 
 
 
-43 straipsnis. Atlyginimas už naudojimąsi nekilnojamojo turto registro duomenimis
 
 
-Atlyginimo už naudojimąsi nekilnojamojo turto registro duomenimis dydį ir tvarką nustato Vyriausybė. Teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, paieškos ir peržiūros paslaugos teikiamos neatlygintinai.
+11 straipsnis. Dėl Registro tvarkytojo kaltės atsiradusios žalos atlyginimas
 
 
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
+1. Dėl Registro tvarkytojo kaltės atsiradusios žalos atlyginimo asmenys turi kreiptis į Registro tvarkytoją ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią jie sužinojo apie žalos atsiradimą.
+
+
+
+
+2. Registro tvarkytojas už asmenų patirtą žalą neatsako, jeigu yra bendri atleidimo nuo civilinės atsakomybės pagrindai, taip pat tais atvejais, kai žalos patyrę asmenys:
+
+
+1) Registro tvarkytojui pateikė neteisingus duomenis;
+
+
+
+
+2) per vieną mėnesį nuo tos dienos, kurią sužinojo apie netikslų ar neteisingą įrašą Registre, nesiėmė įstatymų nustatytų priemonių pažeistoms teisėms apginti.
+
+
+
+
+
+
+3. Ginčai dėl žalos atlyginimo sprendžiami teisme įstatymų nustatyta tvarka. 
  
 
 
 
 
-44 straipsnis. Nekilnojamojo turto registro lėšos
 
 
-Nekilnojamojo turto registras tvarkomas lėšomis, gautomis už nekilnojamojo daikto, daiktinių teisių į jį, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimą (išregistravimą) ir naudojimąsi nekilnojamojo turto registro duomenimis. Nekilnojamojo turto registrui tvarkyti gali būti skiriama valstybės biudžeto lėšų. 
+12 straipsnis. Registro finansavimas
 
 
-Straipsnio pakeitimai:
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
+Registras finansuojamas iš lėšų, gautų už Registro objektų registravimą, Registro duomenų, Registrui pateiktų dokumentų kopijų ir Registro informacijos teikimą, Lietuvos Respublikos valstybės biudžeto lėšų (įskaitant Europos Sąjungos lėšas), taip pat iš kitų Lietuvos Respublikos teisės aktuose ir Registro nuostatuose nustatytų finansavimo šaltinių.
  
 
 
 
 
-45 straipsnis. Nekilnojamojo turto registro reorganizavimas ir likvidavimas
 
 
-Nekilnojamojo turto registras reorganizuojamas ir likviduojamas įstatymu. Likvidavus nekilnojamojo turto registrą, dokumentai, pagal kuriuos buvo įregistruotas nekilnojamasis daiktas, daiktinės teisės į jį, šių teisių suvaržymai, juridiniai faktai, teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos, Archyvų įstatymo nustatyta tvarka perduodami Valstybės archyvui, o reorganizavus nekilnojamojo turto registrą – naujajam registrui. 
+13 straipsnis. Registro reorganizavimas ir likvidavimas
 
 
-Straipsnio pakeitimai:
-Nr. IX-1583, 2003-05-27, Žin., 2003, Nr. 57-2531 (2003-06-13), i. k. 1031010ISTA0IX-1583
-Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
- 
-
-
-
-
-46 straipsnis. Nekilnojamojo turto registro integravimas į Lietuvos Respublikos kadastrų ir registrų informacinę sistemą
-
-
-Nekilnojamojo turto registro integravimo į Lietuvos Respublikos kadastrų ir registrų informacinę sistemą tvarką nustato Vyriausybė.
+Registras reorganizuojamas ir likviduojamas Valstybės informacinių išteklių valdymo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
  
 
 
@@ -1556,3 +864,8 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1770, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27586
 Lietuvos Respublikos Nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2150, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14336
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymo Nr. XIV-1770 2 straipsnio pakeitimo įstatymas
