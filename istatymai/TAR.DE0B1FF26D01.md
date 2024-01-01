@@ -18,14 +18,13 @@ LIETUVOS RESPUBLIKOS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
-TAR pastaba. 23 straipsnio 6 dalies, 25 straipsnio 2 dalies ir 30 straipsnio 1 dalies  nuostatos taikomos kredito unijų stebėtojų tarybos pirmininko, stebėtojų tarybos nario, kredito unijų valdybos pirmininko, valdybos nario, paskolų komiteto pirmininko ar paskolų komiteto nario prašymams atsistatydinti iš pareigų, pateiktiems nuo 2023 m. sausio 1 d.  45 straipsnio 2 dalies, kuri   pripažįstama netekusia galios, reikalavimų panaikinimas taikomas kredito unijos sprendimams skolinti, priimtiems nuo 2023 m. sausio 1 d.
+TAR pastaba. 23 straipsnio 6 dalies, 25 straipsnio 2 dalies ir 30 straipsnio 1 dalies  nuostatos taikomos kredito unijų stebėtojų tarybos pirmininko, stebėtojų tarybos nario, kredito unijų valdybos pirmininko, valdybos nario, paskolų komiteto pirmininko ar paskolų komiteto nario prašymams atsistatydinti iš pareigų, pateiktiems nuo 2023 m. sausio 1 d. 45 straipsnio 2 dalies  reikalavimų panaikinimas taikomas kredito unijos sprendimams skolinti, priimtiems nuo 2023 m. sausio 1 d.  77 straipsnio 2 dalies nuostatos taikomos bankroto procesams, pradėtiems nuo 2024 m. sausio 1 d.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 5, 8, 10, 22, 23, 25, 27, 30, 45, 68, 74, 75, 77 straipsnių pakeitimo, Įstatymo papildymo 75-1 straipsniu ir vienuoliktuoju skirsniu ir 69 straipsnio pripažinimo netekusiu galios įstatymas
@@ -114,7 +113,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme ir Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatyme.
+11. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme ir Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
 
 
@@ -606,7 +607,7 @@ Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
 
 
 
-5. Atšaukus licenciją, kredito unija neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su kredito unijos kreditoriais arba atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį, ir šio įstatymo devintajame ir dešimtajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl kredito unijos likvidavimo ar bankroto bylos jai kėlimo. 
+5. Atšaukus licenciją, kredito unija neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su kredito unijos kreditoriais, atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį arba kredito unijos turtą, teises ir įsipareigojimus perleidžiant pagal šio įstatymo vienuoliktąjį skirsnį, kad kredito unijos turto, teisių ir įsipareigojimų įsigyjantis asmuo, turintis kredito įstaigos licenciją (toliau – įsigyjantis asmuo), galėtų teikti su perimtu turtu, teisėmis ir įsipareigojimais susijusias finansines paslaugas, ir šio įstatymo devintajame ir dešimtajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl kredito unijos likvidavimo ar bankroto bylos jai kėlimo. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
@@ -3330,7 +3331,9 @@ Kredito unija reorganizuojama ir likviduojama Lietuvos Respublikos civilinio kod
 
 
 
-4. Reorganizavime dalyvaujančios ir reorganizuojamos kredito unijos šio įstatymo nustatytais atvejais privalo gauti priežiūros institucijos sutikimą vykdyti reorganizavimą ir priežiūros institucijos leidimą jas reorganizuoti.
+4. Reorganizavime dalyvaujančios ir reorganizuojamos kredito unijos privalo gauti priežiūros institucijos leidimą jas reorganizuoti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
 
 
@@ -3338,23 +3341,10 @@ Kredito unija reorganizuojama ir likviduojama Lietuvos Respublikos civilinio kod
 
 
 
-69 straipsnis. Sutikimas vykdyti reorganizavimą
-
-
-1. Jeigu kredito unija reorganizuojama jungimo būdu, apie numatomą reorganizavimą privaloma informuoti priežiūros instituciją ir gauti jos sutikimą vykdyti reorganizavimą.
-
-
-
-
-2. Sutikimui vykdyti reorganizavimą gauti reorganizavime dalyvaujančios ir reorganizuojamos kredito unijos pateikia prašymą ir priežiūros institucijos teisės aktuose nustatytus dokumentus. Sutikimą vykdyti reorganizavimą išduoda priežiūros institucija šio įstatymo ir priežiūros institucijos teisės aktų nustatyta tvarka. Sprendimas dėl sutikimo išdavimo priimamas atsižvelgiant į priežiūros institucijos teisės aktuose nustatytus sisteminės rizikos lygio vertinimo kriterijus.
-
-
-
-
-3. Priežiūros institucija priima sprendimą dėl sutikimo išdavimo per vieną mėnesį nuo prašymo išduoti sutikimą gavimo dienos.
+69 straipsnis. Neteko galios nuo 2024-01-01
+Straipsnio naikinimas:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
-
-
 
 
 
@@ -3657,7 +3647,9 @@ Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 
 
-2. Kredito unijos bankroto bylą teismas iškelia tik tuo atveju, jeigu yra priežiūros institucijos išvada apie kredito unijos nemokumą.
+2. Kredito unijos bankroto bylą teismas iškelia tik tuo atveju, kai yra priežiūros institucijos išvada apie kredito unijos nemokumą. Kai į teismą dėl bankroto bylos iškėlimo kreipiasi kiti įstatymuose nurodyti asmenys, teismas atsisako iškelti kredito unijos bankroto bylą, jeigu priežiūros institucija informuoja teismą, kad ji ketina kredito unijai taikyti šio įstatymo vienuoliktajame skirsnyje nurodytą turto ir teisių perleidimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
 
 
@@ -3808,7 +3800,10 @@ Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 
 
-14. Jeigu kredito unijos, kuriai iškelta bankroto byla, kreditorių pagal teismo patvirtintą sąrašą yra daugiau kaip 50, visas Juridinių asmenų nemokumo įstatyme nustatytas kreditorių susirinkimo teises, išskyrus kreditorių komiteto sudarymą ir keitimą, turi tik kreditorių komitetas. Kreditorių komitetas sudaromas iš ne daugiau kaip 15 narių. Vienas iš kreditorių komiteto narių turi būti valstybės įmonė „Indėlių ir investicijų draudimas“.
+14. Jeigu kredito unijos, kuriai iškelta bankroto byla, kreditorių pagal teismo patvirtintą sąrašą yra daugiau kaip 50, visas Juridinių asmenų nemokumo įstatyme nustatytas kreditorių susirinkimo teises, išskyrus teisę sudaryti ir keisti kreditorių komitetą,  turi tik kreditorių komitetas. Kreditorių komitetas sudaromas iš ne daugiau kaip 15 narių. Vienas iš kreditorių komiteto narių turi būti Lietuvos Respublikos Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
 
 
 
@@ -3823,6 +3818,29 @@ Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 Straipsnio pakeitimai:
 Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
+ 
+
+
+
+
+751 straipsnis. Kredito unijų bankroto bylų iškėlimas ir bankroto proceso ypatumai priėmus sprendimą dėl kredito unijų turto, teisių ir įsipareigojimų perleidimo 
+
+
+1. Bankroto bylos kredito unijoms, dėl kurių buvo priimtas priežiūros institucijos sprendimas dėl turto ir teisių perleidimo, gali būti iškeltos tik priežiūros institucijos iniciatyva.
+
+
+
+
+2. Bankroto bylos kredito unijoms, dėl kurių buvo priimtas priežiūros institucijos sprendimas dėl turto ir teisių perleidimo, keliamos apygardų teismuose pagal centrinės kredito unijos, kurios narės yra šios kredito unijos, buveinės vietą. 
+
+
+
+
+3. Iškėlus bankroto bylą kredito unijai, dėl kurios buvo priimtas priežiūros institucijos sprendimas dėl turto ir teisių perleidimo, kredito unijos administratorius neturi teisės tikrinti sandorių, sudarytų dėl turto ir teisių perleidimo pagal šio įstatymo vienuoliktojo skirsnio ir Finansinio tvarumo įstatymo VIII skyriaus nuostatas, kai perleistas šiai ir kitoms kredito unijoms, kurios yra tos pačios centrinės kredito unijos narės, taip pat centrinei kredito unijai priklausantis turtas ir teisės, ir reikšti ieškinių teisme dėl tokių sandorių pripažinimo negaliojančiais. 
+
+
+Papildyta straipsniu:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
  
 
 
@@ -3867,7 +3885,10 @@ Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 
 
-2. Antrąja eile tenkinami valstybės įmonės „Indėlių ir investicijų draudimas“ reikalavimai dėl išlaidų, susijusių su draudimo išmokų kredito unijos indėlininkams, nurodytiems Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme, išmokėjimu.
+2. Antrąja eile tenkinami Vyriausybės paskirto juridinio asmens, įgyvendinančio valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, reikalavimai dėl išlaidų, susijusių su Indėlių draudimo fondo lėšų panaudojimu pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą ir (arba) šį įstatymą, taip pat valstybės reikalavimai dėl pagal šio įstatymo vienuoliktąjį skirsnį suteiktos valstybės pagalbos turto, teisių ir įsipareigojimų perleidimui finansuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
 
 
 
@@ -3906,6 +3927,359 @@ Nr. XIV-770, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26899
 
 
 
+VIENUOLIKTASIS SKIRSNIS 
+TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS 
+ 
+
+
+78 straipsnis. Turto, teisių ir įsipareigojimų perleidimas
+
+
+1. Kredito unijos turto ir teisių perleidimo šiame skirsnyje nustatyta tvarka (toliau šiame skirsnyje – turto ir teisių perleidimas) kredito įstaigos licenciją turinčiam įsigyjančiam asmeniui (toliau – įsigyjantis asmuo) taikymo galutinis tikslas – likviduoti kredito uniją taikant efektyvesnes procedūras. 
+
+
+
+
+2. Turto ir teisių perleidimą priežiūros institucija taiko, kai tenkinamos visos šios sąlygos:
+
+
+1) visos tos pačios centrinės kredito unijos narės kredito unijos tenkina bent vieną iš šio įstatymo 74 straipsnio 1 dalyje nurodytų sąlygų ir, priežiūros institucijos nuomone, nėra pagrindo tikėtis, kad kitomis šioms kredito unijoms taikomomis privataus sektoriaus priemonėmis, įskaitant sprendimą, priimamą pagal Centrinių kredito unijų įstatymo 27 straipsnio 1 dalį, arba priežiūros veiksmais per pagrįstą laikotarpį būtų išvengta kredito unijų nemokumo, o šių kredito unijų centrinė kredito unija tenkina Finansinio tvarumo įstatymo 42 straipsnio 2 dalies 1 ir 2 punktuose nurodytas sąlygas ir pertvarkymo veiksmų centrinei kredito unijai taikymas nėra būtinas vienam ar daugiau Finansinio tvarumo įstatymo 40 straipsnyje nurodytų pertvarkymo tikslų pasiekti Finansinio tvarumo įstatymo 42 straipsnio 2 dalies 3 punkte nustatytu mastu;
+
+
+
+
+2) turto ir teisių perleidimas yra būtinas siekiant išvengti didelių ekonomikos sutrikimų ar sumažinti kredito unijos turto vertės sumažėjimą, o kredito unijos likvidavimas dėl bankroto netaikant turto ir teisių perleidimo neleistų pasiekti vieno ar visų šių tikslų tokiu pačiu mastu;
+
+
+
+
+3) užtikrinama, kad nuostoliai tenka kredito unijos pajininkams ir kreditoriams, kurių reikalavimai tenkinami šio įstatymo 77 straipsnio 5 dalyje nurodyta penktąja eile;
+
+
+
+
+4) atrinktas įsigyjantis asmuo;
+
+
+
+
+5) kai kredito unijos turto ir teisių perleidimas finansuojamas iš Indėlių draudimo fondo lėšų, toks finansavimas yra finansiškai naudingas Indėlių draudimo fondui, kaip tai nustatyta šio įstatymo 84 straipsnyje.
+
+
+
+
+
+
+3. Nepažeidžiant šio straipsnio 4 dalies nuostatų, perleidžiamas gali būti visas kredito unijos turtas ar jo dalis, visos teisės (turtinės ir neturtinės) ar jų dalis, visi įsipareigojimai ar jų dalis, tačiau visais atvejais:
+
+
+1) perleidžiami kredito unijos apdraustieji indėliai;
+
+
+
+
+2) neperleidžiami kredito unijos įsipareigojimai kreditoriams, kurių reikalavimai tenkinami šio įstatymo 77 straipsnio 5 dalyje nurodyta penktąja eile.
+
+
+
+
+
+
+4. Perleidžiant kredito unijos turtą ir teises turi būti užtikrinta, kad kredito unija turės pakankamai turto kredito unijos bankroto proceso administravimo išlaidoms apmokėti.
+
+
+
+
+5. Taikant turto ir teisių perleidimą, kredito unijos pajininkai ir kreditoriai neturi patirti didesnių nuostolių negu nuostoliai, kurių būtų patirta, jeigu kredito unija būtų likviduojama dėl bankroto netaikant turto ir teisių perleidimo.
+
+
+
+
+6. Jeigu priežiūros institucija siūlo perleisti ne tik apdraustuosius indėlius, bet ir kitus kredito unijos įsipareigojimus ir šiam tikslui reikalinga valstybės pagalba, priežiūros institucija gali priimti sprendimą taikyti turto ir teisių perleidimą tik gavusi Vyriausybės sprendimą suteikti valstybės pagalbą kredito unijos turto ir teisių perleidimui finansuoti.
+
+
+
+
+7. Priežiūros institucijos pagrįstų išlaidų, faktiškai patirtų vykdant turto ir teisių perleidimą, susigrąžinimui, kredito unijos kontrolei, turto ir teisių perleidimo procedūrai, įsigyjančio asmens interesų apsaugai mutatis mutandis taikomos atitinkamai Finansinio tvarumo įstatymo 42 straipsnio 12 dalies 1 ir 2 punktų, 45 straipsnio, 61 straipsnio 2, 4, 5, 6 dalių ir 64 straipsnio nuostatos tiek, kiek šiame skirsnyje nenustatyta kitaip. 
+
+
+
+
+8. Įsigyjančio asmens atrankai mutatis mutandis taikomos Finansinio tvarumo įstatymo 63 straipsnio nuostatos. Mutatis mutandis taikant Finansinio tvarumo įstatymo 63 straipsnio 6 dalies nuostatas, vadovaujamasi turto ir teisių perleidimo tikslais, nurodytais šio straipsnio 2 dalies 2 punkte.
+
+
+
+
+9. Priežiūros institucijos įsigyjančiam asmeniui taikomam reikalavimui teikti paslaugas ir leisti naudotis infrastruktūra mutatis mutandis taikomos Finansinio tvarumo įstatymo 47 straipsnio nuostatos. Priežiūros institucija taip pat turi teisę įpareigoti centrinę kredito uniją, įskaitant atvejus, kai jai yra iškelta bankroto byla, teikti visas būtinas paslaugas ar leisti naudotis visa reikiama savo infrastruktūra, kad įsigyjantis asmuo galėtų veiksmingai valdyti jam perleistų jos narių kredito unijų turtą, teises ir įsipareigojimus.
+
+
+
+
+10. Taikant turto ir teisių perleidimą, priežiūros institucija turi teisę mutatis mutandis naudotis Finansinio tvarumo įstatymo 46 straipsnio 1 dalies 1, 2, 4, 12, 14, 17, 18, 19, 20 ir 21 punktuose, 3 dalyje, 51 ir 52 straipsniuose nurodytomis teisėmis ir turi šio įstatymo 53 straipsnyje nustatytas garantijas, o kredito unijos darbuotojams ir sutarties šalims mutatis mutandis taikomos Finansinio tvarumo įstatymo 46 straipsnio 4 dalies nuostatos.
+
+
+
+
+11. Taikant turto ir teisių perleidimą, priežiūros institucijai netaikomi šie reikalavimai:
+
+
+1) gauti kitų institucijų ar asmenų, įskaitant kredito unijos pajininkus arba kreditorius, leidimą arba sutikimą, išskyrus Bankų įstatymo 771 straipsnyje nurodytą sutikimą;
+
+
+
+
+2) pranešti kitiems asmenims, paskelbti pranešimą ar kitai institucijai pateikti dokumentą arba jį užregistruoti prieš atliekant turto ir teisių perleidimą, išskyrus šio įstatymo 82 straipsnyje nurodytą atvejį ir valstybės pagalbą reglamentuojančiuose teisės aktuose nustatytus pranešimo reikalavimus;
+
+
+
+
+3) jokie kiti teisės aktuose ar sutartyse nustatyti apribojimai arba reikalavimai gauti sutikimą, susiję su konkrečių finansinių priemonių, teisių, turto ar įsipareigojimų perleidimu.
+
+
+
+
+
+
+12. Priežiūros institucijos sprendimas dėl turto ir teisių perleidimo gali būti skundžiamas Lietuvos banko įstatymo 435 straipsnyje nustatyta tvarka. Finansinio tvarumo įstatymo 101 straipsnio 3–7 dalių nuostatos priežiūros institucijos sprendimo dėl turto ir teisių perleidimo apskundimui taikomos mutatis mutandis. Šiame skirsnyje nustatyta tvarka priimti tarpiniai sprendimai ar atlikti veiksmai (neveikimas) neskundžiami.
+
+
+
+
+13. Rengiant, planuojant ir taikant turto ir teisių perleidimą, priežiūros, pertvarkymo institucijos ir už makroprudencinės politikos įgyvendinimą atsakinga institucija, Finansų ministerija, Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, laikinasis administratorius ir Finansinio tvarumo įstatymo nustatyta tvarka paskirtas specialusis valdytojas, jei jie buvo paskirti, ir kredito unija bendradarbiauja tarpusavyje, o kredito unijų vadovai teikia visą reikalingą pagalbą, kad būtų pasiekti šio straipsnio 2 dalies 2 punkte nurodyti turto ir teisių perleidimo tikslai.
+ 
+
+
+
+
+
+
+79 straipsnis. Priežiūros institucijos sprendimas dėl turto ir teisių perleidimo
+
+
+1. Priežiūros institucija turi įvertinti, ar tenkinamos šio įstatymo 78 straipsnio 2 dalyje nurodytos sąlygos, ir priimti sprendimą dėl turto ir teisių perleidimo.
+
+
+
+
+2. Sprendime dėl turto ir teisių perleidimo turi būti nurodyta: 
+
+
+1) sprendimo taikyti turto ir teisių perleidimą arba turto ir teisių perleidimo netaikyti priėmimo priežastys, įskaitant atitikties turto ir teisių perleidimo sąlygoms, nurodytoms šio įstatymo 78 straipsnio 2 dalyje, įvertinimą;
+
+
+
+
+2) veiksmai, kurių priežiūros institucija ketina imtis, įskaitant bankroto proceso inicijavimą.
+
+
+
+
+
+
+3. Sprendimas dėl turto ir teisių perleidimo priimamas, šiame skirsnyje nurodytų veiksmų ir sprendime nurodytų veiksmų imamasi skubiai, laikantis skaidrumo principo ir mutatis mutandis taikant Finansinio tvarumo įstatymo šeštajame skirsnyje, išskyrus 89 ir 90 straipsnius, nurodytas apsaugos priemones.
+
+
+
+
+4. Priežiūros institucijos sprendimas dėl turto ir teisių perleidimo turi būti vykdomas nedelsiant.
+ 
+
+
+
+
+
+
+80 straipsnis. Turto, teisių ir įsipareigojimų, esančių kitoje valstybėje narėje, perleidimas 
+
+
+1. Kai perleidžiamas turtas, teisės ar įsipareigojimai apima turtą, esantį kitoje valstybėje narėje, arba teises ar įsipareigojimus, reglamentuojamus pagal kitos valstybės narės teisės aktus, šio turto, teisių ar įsipareigojimų perleidimas vykdomas toje kitoje valstybėje narėje arba pagal tos kitos valstybės narės teisės aktus.
+
+
+
+
+2. Pajininkai, kreditoriai ir tretieji asmenys gali teismui skųsti šio straipsnio 1 dalyje nurodytą turto, teisių ar įsipareigojimų perleidimą vadovaudamiesi šio įstatymo 78 straipsnio 12 dalies nuostatomis.
+ 
+
+
+
+
+
+
+81 straipsnis. Turto, teisių ir įsipareigojimų, esančių trečiojoje valstybėje, perleidimas
+
+
+1. Kai turto ir teisių perleidimas taikomas turtui, esančiam trečiojoje valstybėje, arba teisėms ar įsipareigojimams, kuriuos reglamentuoja trečiosios valstybės teisė, priežiūros institucija gali reikalauti, kad:
+
+
+1) kredito unijos administratorius, laikinasis administratorius arba kitas asmuo, kontroliuojantis kredito uniją, ir įsigyjantis asmuo imtųsi visų priemonių, būtinų turto, teisių ar įsipareigojimų perleidimui ar kitiems turtui, teisėms arba įsipareigojimams taikytiniems veiksmams įvykdyti;
+
+
+
+
+2) kredito unijos administratorius, laikinasis administratorius arba kitas asmuo, kontroliuojantis kredito uniją, turėtų turtą ar teises arba vykdytų įsipareigojimus įsigyjančio asmens vardu tol, kol įvykdomas perleidimas ar kiti taikytini veiksmai;
+
+
+
+
+3) pagrįstos įsigyjančio asmens išlaidos, faktiškai patirtos vykdant veiksmus, privalomus pagal šios dalies 1 ir 2 punktus, mutatis mutandis būtų apmokamos bet kuriuo iš Finansinio tvarumo įstatymo 42 straipsnio 12 dalies 1 ir 2 punktuose nurodytų būdų.
+
+
+
+
+
+
+2. Jeigu priežiūros institucija davė nurodymą vykdyti turto, teisių ar įsipareigojimų perleidimą ar kitą taikytiną veiksmą, tas nurodymas negalioja susijusiam turtui, teisėms ar įsipareigojimams.
+
+
+
+
+3. Kai priežiūros institucija nustato, kad, nepaisant visų būtinų veiksmų, kurių pagal šio straipsnio 1 dalies 1 punktą ėmėsi laikinasis administratorius, kredito unijos administratorius ar kitas asmuo, yra labai maža tikimybė, kad tam tikro turto, esančio trečiojoje valstybėje, arba tam tikrų teisių ar įsipareigojimų, reglamentuojamų pagal trečiosios valstybės teisę, perleidimas ar kitas jiems taikytinas veiksmas bus įvykdytas, priežiūros institucija turi nevykdyti to perleidimo ar kito taikytino veiksmo. 
+ 
+
+
+
+
+
+
+82 straipsnis. Informavimas apie sprendimą dėl turto ir teisių perleidimo
+
+
+1. Priežiūros institucija, priėmusi sprendimą dėl turto ir teisių perleidimo, kuriuo nusprendžiama kredito unijai taikyti turto ir teisių perleidimą, nedelsdama apie jį informuoja kredito uniją ir šiuos subjektus:
+
+
+1) pertvarkymo instituciją;
+
+
+
+
+2) centrinį banką;
+
+
+
+
+3) Vyriausybės paskirtą juridinį asmenį, įgyvendinantį valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje;
+
+
+
+
+4) Finansų ministeriją;
+
+
+
+
+5) už makroprudencinės politikos įgyvendinimą atsakingą instituciją;
+
+
+
+
+6) jeigu kredito unijos dalyvauja mokėjimų ar vertybinių popierių atsiskaitymo sistemoje, – šios sistemos operatorių.
+
+
+
+
+
+
+2. Priežiūros institucija šio straipsnio 1 dalyje nurodytoms institucijoms taip pat turi pateikti sprendimo dėl turto ir teisių perleidimo kopiją ir nurodyti, kada bus vykdomas turto ir teisių perleidimas.
+
+
+
+
+3. Priežiūros institucija sprendimą dėl turto ir teisių perleidimo arba pranešimą, kuriame nurodomas turto ir teisių perleidimo poveikis, įskaitant poveikį vartotojams, paskelbia savo interneto svetainėje.
+
+
+
+
+4. Informavimui apie sprendimą dėl turto ir teisių perleidimo taip pat mutatis mutandis taikomos Finansinio tvarumo įstatymo 98 straipsnio 4–6 dalių nuostatos tiek, kiek šiame skirsnyje nenustatyta kitaip.
+ 
+
+
+
+
+
+
+83 straipsnis. Valstybės pagalba kredito unijos turto ir teisių perleidimui finansuoti
+
+
+1. Jeigu priežiūros institucija nustato, kad šio įstatymo 78 straipsnio 2 dalies 2 punkte nurodytas vienas ar keli tikslai bus pasiekti tik tuo atveju, kai taikant turto ir teisių perleidimą bus perleidžiami ne tik apdraustieji indėliai, bet ir kiti kredito unijos įsipareigojimai, ir tam reikalinga valstybės pagalba, priežiūros institucija parengia išvadą, kurioje pagrindžia valstybės pagalbos poreikį, nurodo jos dydį, taip pat pateikia pagrindimą, kad tenkinamos visos šio įstatymo 78 straipsnio 2 dalyje nurodytos sąlygos. Vyriausybė, vadovaudamasi Finansinio tvarumo įstatymo 133 straipsnio 2 dalyje nurodytais principais, priima sprendimą dėl valstybės pagalbos suteikimo. Finansų ministerija nedelsdama apie šį Vyriausybės sprendimą raštu informuoja priežiūros instituciją. 
+
+
+
+
+2. Valstybės pagalbos dydžiui ir suteiktos valstybės pagalbos reikalavimo teisei mutatis mutandis taikomos Finansinio tvarumo įstatymo 133 straipsnio 3 ir 4 dalių nuostatos.
+ 
+
+
+
+
+
+
+84 straipsnis. Mažiausių išlaidų vertinimas
+
+
+1. Atliekant mažiausių išlaidų vertinimą, siekiama išsiaiškinti, ar kredito unijos turto ir teisių perleidimo finansavimas iš Indėlių draudimo fondo lėšų būtų finansiškai naudingas Indėlių draudimo fondui.
+
+
+
+
+2. Laikoma, kad kredito unijos turto ir teisių perleidimo finansavimas iš Indėlių draudimo fondo lėšų yra finansiškai naudingas, kai atlikto mažiausių išlaidų vertinimo rezultatai rodo, kad Indėlių draudimo fondo išlaidos, susijusios su dalyvavimu finansuojant kredito unijos turto ir teisių perleidimą, yra mažesnės už grynąją indėlių draudimo išmokų kompensacijos sumą.
+
+
+
+
+3. Atlikdama vertinimą, priežiūros institucija bendradarbiauja su Vyriausybės paskirtu juridiniu asmeniu, įgyvendinančiu valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, ir pertvarkymo institucija, konsultuojasi ir bendradarbiauja su Finansų ministerija. Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, ir kredito unija teikia priežiūros institucijai turimą informaciją, būtiną mažiausių išlaidų vertinimui atlikti.
+
+
+
+
+4. Indėlių draudimo fondo išlaidų apskaičiavimui mutatis mutandis taikomos Finansinio tvarumo įstatymo 134 straipsnio 4 dalies nuostatos.
+
+
+
+
+5. Priežiūros institucija Vyriausybės paskirtą juridinį asmenį, įgyvendinantį valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, informuoja apie mažiausių išlaidų vertinimo rezultatus.
+ 
+
+
+
+
+
+
+85 straipsnis. Turto ir teisių perleidimo organizavimas ir vykdymas 
+
+
+1. Turto ir teisių perleidimą organizuoja ir vykdo priežiūros institucija arba priežiūros institucijos paskirtas laikinasis administratorius. Laikinajam administratoriui, skiriamam turto ir teisių perleidimui organizuoti ir vykdyti, mutatis mutandis taikomos šio įstatymo 64 straipsnio nuostatos.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytu laikinuoju administratoriumi priežiūros institucijos sprendimu gali būti paskirtas pertvarkymo institucijos centrinei kredito unijai, kurios narės yra kredito unijos, paskirtas specialusis valdytojas. Tokiu atveju laikinojo administratoriaus atitiktis šio įstatymo 64 straipsnio 1 dalyje nustatytiems kvalifikacijos, patirties, nepriekaištingos reputacijos ir interesų konflikto nebuvimo reikalavimams papildomai nevertinama.
+
+
+
+
+3. Kai taikomas turto ir teisių perleidimas ir perleidžiama tik dalis kredito unijos turto, teisių ir įsipareigojimų, priežiūros institucija kreipiasi į teismą dėl bankroto bylos iškėlimo kredito unijai, kurios turtas, teisės ir įsipareigojimai vadovaujantis šio skirsnio nuostatomis buvo perleisti. Teismui priėmus nutartį likviduoti kredito uniją dėl bankroto, kredito unijos likvidavimas įvykdomas per pagrįstą laikotarpį, atsižvelgiant į tai, ar kredito unija turi teikti paslaugas arba leisti naudotis savo infrastruktūra, mutatis mutandis taikant Finansinio tvarumo įstatymo 47 straipsnio nuostatas tam, kad įsigyjantis asmuo galėtų vykdyti jam perduotą veiklą ar teikti jam perduotas paslaugas, ir į kitas priežastis, dėl kurių būtina tęsti kredito unijos veiklą po įvykdyto kredito unijos turto ir teisių perleidimo, kad būtų pasiekti šio įstatymo 78 straipsnio 2 dalies 2 punkte nurodyti turto ir teisių perleidimo tikslai.
+ 
+
+
+
+
+
+
+86 straipsnis. Vertinimas turto ir teisių perleidimo tikslais
+
+
+Vertinimui turto ir teisių perleidimo tikslais, vertinimo išlaidų padengimui, perleidžiamo turto, teisių ir įsipareigojimų vertei ir galutinio vertinimo turto ir teisių perleidimo tikslais atlikimui mutatis mutandis taikomos Finansinio tvarumo įstatymo 137 ir 138 straipsnių nuostatos. 
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
+ 
+
+
+
+
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
@@ -3921,6 +4295,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 kredito unijų įstatymo 
 priedas
