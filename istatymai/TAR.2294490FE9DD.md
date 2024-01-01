@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-11-22
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -640,7 +640,10 @@ Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
 
 
 
-2. Specialioji muitinės įstaiga – suderinus su finansų ministru Muitinės departamento generalinio direktoriaus įsteigta ir jam atskaitinga muitinės įstaiga, atliekanti specialias muitinės įgyvendinamų teisės aktų ir (ar) Muitinės departamento jai pavestas muitinės funkcijas. Specialioji muitinės įstaiga yra biudžetinė įstaiga.
+2. Specialioji muitinės įstaiga – suderinus su finansų ministru Muitinės departamento generalinio direktoriaus įsteigta ir jam atskaitinga muitinės įstaiga, atliekanti specialias muitinės įgyvendinamų teisės aktų ir (ar) Muitinės departamento jai pavestas muitinės funkcijas, pretendentų mokytis muitinės pareigūnų profesinio mokymo įstaigoje atranką ir organizuojanti jų profesinį mokymą. Specialioji muitinės įstaiga yra biudžetinė įstaiga.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2407, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25920
+ 
 
 
 
@@ -2300,3 +2303,8 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 papildymo 56-1 straipsniu �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
 Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 24 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2407, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25920
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 16 straipsnio pakeitimo įstatymas
