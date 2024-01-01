@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
@@ -65,6 +65,13 @@ Vilnius
 
 
 3. Lietuvos administracinių ginčų komisijos veiklos teritorija nagrinėjant skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat nagrinėjant skundus dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus sutampa su Vilniaus apygardos teismo veiklos teritorija, nustatyta Lietuvos Respublikos įstatyme „Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo“. Lietuvos administracinių ginčų komisijos teritorinio padalinio veiklos teritorija sutampa su atitinkamo bendrosios kompetencijos apygardos teismo veiklos teritorija, nustatyta šioje dalyje nurodytame įstatyme. Jeigu viešojo administravimo subjekto teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, veikiančio Lietuvos Respublikos teritorijos dalyje, individualaus administracinio akto ar veiksmo (neveikimo) teisėtumas buvo patikrintas (nagrinėjamas) aukštesniojo pagal pavaldumą viešojo administravimo subjekto, skundas (prašymas) paduodamas pagal viešojo administravimo subjekto teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, kurio individualaus administracinio akto ar veiksmo (neveikimo) teisėtumas buvo tikrinamas (nagrinėjamas), buveinės vietą. 
+
+
+
+
+4. Jeigu pareiškėjo dalyvavimas posėdyje užtikrinamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), tokia byla Lietuvos administracinių ginčų komisijos pirmininko nustatyta tvarka gali būti perduodama nagrinėti bet kuriam Lietuvos administracinių ginčų komisijos teritoriniam padaliniui.
+Papildyta straipsnio dalimi:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
  
 
 
@@ -131,6 +138,29 @@ Vilnius
 
 
 5. Kai Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba komisijos teritorinio padalinio narys atleidžiamas nepasibaigus įgaliojimų laikui ar jo įgaliojimai nutrūksta, teisingumo ministras vietoj jo Vyriausybei teikia naują kandidatūrą likusiam komisijos ar jos teritorinio padalinio kadencijos laikotarpiui.
+
+
+
+
+6. Kai Lietuvos administracinių ginčų komisijos arba jos teritorinio padalinio narys dėl šio įstatymo 4 straipsnio 2 dalyje nurodytų tikslinių atostogų ar dėl kitų objektyvių priežasčių daugiau kaip šimtą dvidešimt kalendorinių dienų iš eilės negali ar negalės eiti savo pareigų, tačiau nėra šio straipsnio 3 ir 4 dalyse nurodytų pagrindų, dėl kurių Lietuvos administracinių ginčų komisijos arba jos teritorinio padalinio narys atleidžiamas nepasibaigus įgaliojimų laikui arba jo įgaliojimai nutrūksta, Vyriausybės nutarimu gali būti paskiriamas Lietuvos administracinių ginčų komisijos arba jos teritorinio padalinio nario pakaitinis narys. Šioje dalyje nurodytais atvejais Vyriausybės nutarimu Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje pareigas pavedama laikinai eiti kitam Lietuvos administracinių ginčų komisijos arba jos teritorinio padalinio nariui, taip pat gali būti paskiriamas šio nario pakaitinis narys.
+Papildyta straipsnio dalimi:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+ 
+
+
+
+
+7. Šio straipsnio 6 dalyje nurodytas pakaitinis narys paskiriamas arba Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje pareigas eiti pavedama tol, kol esamas Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali eiti savo pareigų, kaip nurodyta šio straipsnio 6 dalyje, bet ne ilgiau kaip iki Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito komisijos arba jos teritorinio padalinio nario, negalinčio eiti savo pareigų, įgaliojimų pabaigos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+ 
+
+
+
+
+8. Šio straipsnio 6 dalyje nurodytam pakaitiniam nariui, taip pat Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo ar komisijos pirmininko pavaduotojo teritoriniame padalinyje pareigas laikinai einančiam asmeniui mutatis mutandis taikomos šio įstatymo nuostatos, reglamentuojančios Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito komisijos arba jos teritorinio padalinio nario veiklą ir statusą.
+Papildyta straipsnio dalimi:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
  
 
 
@@ -146,7 +176,10 @@ Vilnius
 
 
 
-2. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojų teritoriniuose padaliniuose ir kitų komisijos ir komisijos teritorinių padalinių narių darbas Lietuvos administracinių ginčų komisijoje laikytinas darbu pagrindinėje darbovietėje ir už jį mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba komisijos teritorinio padalinio narys pareigas gali eiti tik Lietuvos administracinių ginčų komisijoje, taip pat dirbti mokslinį, pedagoginį ar kūrybinį darbą. Lietuvos administracinių ginčų komisijos pirmininkui, komisijos pirmininko pavaduotojui, komisijos pirmininko pavaduotojui teritoriniame padalinyje ir kitiems komisijos arba komisijos teritorinio padalinio nariams taikomas Lietuvos Respublikos valstybės tarnybos įstatymo 42 straipsnis, jiems, vadovaujantis Darbo kodekso nuostatomis, gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, nemokamos, ir taikomos Darbo kodekse nustatytos lengvatos asmenims, auginantiems vaikus. Lietuvos administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, jų darbo užmokesčio mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
+2. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba komisijos teritorinio padalinio narys pareigas gali eiti tik Lietuvos administracinių ginčų komisijoje, taip pat dirbti mokslinį, pedagoginį ar kūrybinį darbą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1994, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11565
+ 
 
 
 
@@ -172,7 +205,10 @@ Vilnius
 5 straipsnis. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių kompetencija
 
 
-1. Lietuvos administracinių ginčų komisija nagrinėja skundus (prašymus) dėl centrinių valstybinio administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus. Lietuvos administracinių ginčų komisija taip pat nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų, esančių jos veiklos teritorijoje, priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus. 
+1. Lietuvos administracinių ginčų komisija nagrinėja skundus (prašymus) dėl centrinių valstybinio administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus. Lietuvos administracinių ginčų komisija taip pat nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų, esančių jos veiklos teritorijoje, priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus. Lietuvos administracinių ginčų komisija privaloma ikiteismine tvarka nagrinėja skundus (prašymus) dėl Asmens su negalia teisių apsaugos agentūros prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Agentūra) individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl Agentūros vilkinimo atlikti jos kompetencijai priskirtus veiksmus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+ 
 
 
 
@@ -521,6 +557,14 @@ Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 
 
+21. Kai nagrinėjamas skundas (prašymas) dėl Agentūros individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl Agentūros vilkinimo atlikti jos kompetencijai priskirtus veiksmus, administracinių ginčų komisijos nario, paskirto pranešėju byloje, ar administracinių ginčų komisijos sprendimu gali būti skiriamas ekspertas arba pavedama ekspertizės įstaigai atlikti ekspertizę. Šiuo atveju mutatis mutandis taikomos Administracinių bylų teisenos įstatymo 61 ir 62 straipsnių bei Lietuvos Respublikos teismo ekspertizės įstatymo nuostatos. Už paskirtą ekspertizę administracinių ginčų komisija apmoka iš einamiesiems metams administracinių ginčų komisijai skirtų valstybės biudžeto asignavimų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+ 
+
+
+
+
 3. Administracinių ginčų komisijos reikalaujama medžiaga ar dokumentų kopijos turi būti jai perduotos per E. pristatymo sistemą, siunčiant registruotąja pašto siunta arba tiesiogiai ne vėliau kaip per 5 darbo dienas nuo reikalavimo gavimo dienos. Prireikus administracinių ginčų komisijos narys, paskirtas pranešėju byloje, šį terminą gali pratęsti.
 Straipsnio dalies pakeitimai:
 Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
@@ -577,6 +621,13 @@ Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 
 5. Pranešėju byloje paskirtas administracinių ginčų komisijos narys, nustatęs, kad skunde (prašyme) nurodytas netinkamas atsakovas, rezoliucija į bylos nagrinėjimą įtraukia ir tinkamą atsakovą. Nagrinėjant skundą (prašymą) administracinių ginčų komisijoje, netinkamas atsakovas pakeičiamas tinkamu atsakovu pareiškėjo sutikimu. Jeigu pareiškėjas nesutinka, administracinių ginčų komisijoje byla nagrinėjama iš esmės. 
+
+
+
+
+6. Bylos šalių procesinės teisės yra lygios. Bylos šalys turi teisę pareikšti nušalinimus ir prašymus, teikti įrodymus, dalyvauti tiriant įrodymus, užduoti klausimų kitoms bylos šalims, liudytojams, specialistams, ekspertams, duoti paaiškinimus, pateikti savo argumentus ir samprotavimus, prieštarauti kitų bylos šalių prašymams, argumentams ir samprotavimams, gauti administracinių ginčų komisijos sprendimų, kurie priimami išsprendus bylą, kopijas, apskųsti administracinių ginčų komisijos sprendimus ir naudotis kitomis šio įstatymo suteiktomis teisėmis.
+Papildyta straipsnio dalimi:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
  
 
 
@@ -597,7 +648,10 @@ Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 
 
-3. Prireikus gali būti organizuojami išvažiuojamieji administracinių ginčų komisijos posėdžiai.
+3. Prireikus gali būti organizuojami išvažiuojamieji administracinių ginčų komisijos posėdžiai. Bylos šalių, jų atstovų, liudytojų, specialistų, ekspertų, vertėjų dalyvavimas administracinių ginčų komisijos posėdžiuose gali būti užtikrinamas naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip). Lietuvos administracinių ginčų komisijos pirmininko nustatyta tvarka naudojant šias technologijas turi būti užtikrinamas patikimas bylos šalių, jų atstovų, liudytojų, specialistų, ekspertų, vertėjų tapatybės nustatymas ir paaiškinimų, parodymų, klausimų bei prašymų pateikimo objektyvumas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+ 
 
 
 
@@ -622,14 +676,18 @@ Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 
 
 
-8. Administracinių ginčų komisijos posėdis pradedamas posėdžio pirmininko pranešimu apie ginčo dalyką, bylos šalis, administracinių ginčų komisijos sudėtį posėdyje, administracinių ginčų komisijos posėdžio sekretorių. Administracinių ginčų komisijos posėdžio pirmininkas supažindina bylos šalis su posėdžio tvarka, eiga ir bylos šalių procesinėmis teisėmis. Bylos šalims suteikiama galimybė pateikti papildomus prašymus, dokumentus, pareikšti nušalinimus administracinių ginčų komisijos nariams. Bylos šalių prašymai sprendžiami nedelsiant.
+8. Administracinių ginčų komisijos posėdis pradedamas posėdžio pirmininko pranešimu apie ginčo dalyką, bylos šalis, administracinių ginčų komisijos sudėtį posėdyje, administracinių ginčų komisijos posėdžio sekretorių. Administracinių ginčų komisijos posėdžio pirmininkas supažindina bylos šalis su posėdžio tvarka, eiga ir bylos šalių procesinėmis teisėmis. Bylos šalims suteikiama galimybė pateikti papildomus prašymus, dokumentus, pareikšti nušalinimus. Bylos šalių prašymai sprendžiami nedelsiant. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+ 
 
 
 
 
-9. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali dalyvauti nagrinėjant bylą, jeigu jis yra bylos šalies giminaitis; jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi; jeigu jis toje byloje vykdė neteisminę mediaciją; yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito (kitų) komisijos arba jos teritorinio padalinio nario (narių) nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant. 
+9. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys, taip pat specialistas, ekspertas, vertėjas ar posėdžio sekretorius negali dalyvauti nagrinėjant bylą ir privalo pareikšti, kad nusišalina, jeigu: jis yra bylos šalies giminaitis; jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi; jeigu yra kitokių aplinkybių, kurios gali sukelti abejonių dėl jo nešališkumo. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali dalyvauti nagrinėjant bylą ir privalo pareikšti, kad nusišalina, jeigu jis toje byloje vykdė neteisminę mediaciją. Ekspertas taip pat negali dalyvauti nagrinėjant bylą Administracinių bylų teisenos įstatymo 44 straipsnio 3 dalies 1, 2 ir 3 punktuose nustatytais atvejais. Šioje dalyje nurodytais pagrindais nušalinimą gali pareikšti ir bylos šalys. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito (kitų) komisijos arba jos teritorinio padalinio nario (narių), specialisto, eksperto, vertėjo ar posėdžio sekretoriaus nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant. Tai, kad specialistas, ekspertas, vertėjas ar posėdžio sekretorius dalyvavo anksčiau nagrinėjant tą bylą kaip specialistas, ekspertas, vertėjas ar posėdžio sekretorius, nėra pagrindas jį nušalinti.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
  
 
 
@@ -811,7 +869,7 @@ Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
 20 straipsnis. Administracinių ginčų komisijos sprendimų rūšys. Sprendimo turinys, bylos nutraukimas, skundo (prašymo) palikimas nenagrinėto
 
 
-1. Administracinių ginčų komisija, išnagrinėjusi skundą (prašymą), priima vieną iš šių sprendimų:
+1. Administracinių ginčų komisija, išnagrinėjusi skundą (prašymą), priima vieną iš šių sprendimų: 
 
 
 1) atmesti skundą (prašymą) kaip nepagrįstą;
@@ -824,9 +882,17 @@ Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
 
 
 
-3) įpareigoti viešojo administravimo subjektą pašalinti padarytą pažeidimą ar įvykdyti kitą administracinių ginčų komisijos nurodymą.
+3) panaikinti skundžiamą individualų administracinį aktą ar jo dalį ir įpareigoti viešojo administravimo subjektą per administracinių ginčų komisijos nustatytą laiką priimti naują teisės aktų reikalavimus atitinkantį sprendimą;
 
 
+
+
+4) įpareigoti viešojo administravimo subjektą pašalinti padarytą pažeidimą ar įvykdyti kitą administracinių ginčų komisijos nurodymą.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+ 
 
 
 
@@ -935,7 +1001,10 @@ Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 21 straipsnis. Bylos nagrinėjimo sustabdymas 
 
 
-1. Administracinių ginčų komisija sustabdo bylos nagrinėjimą, iki paaiškės mirusio asmens ar pasibaigusio juridinio asmens teisių perėmėjas, kai miršta bylos šalimi buvęs asmuo arba pasibaigia juridinis asmuo, jeigu ginčo teisinis santykis leidžia teisių perėmimą.
+1. Administracinių ginčų komisija sustabdo bylos nagrinėjimą, Administracinių bylų teisenos įstatymo 100 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais atvejais laikydamasi atitinkamų Administracinių bylų teisenos įstatymo 101 straipsnio 1 ir 2 punktuose nustatytų terminų, o tuo atveju, kai, vadovaujantis šio įstatymo 11 straipsnio 21 dalimi, paskiriamas ekspertas arba pavedama ekspertizės įstaigai atlikti ekspertizę, – iki ekspertas arba ekspertizės įstaiga atliks ekspertizę.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+ 
 
 
 
@@ -1062,3 +1131,13 @@ Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-418, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14575
 Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo Nr. VIII-1031 papildymo 6-1 straipsniu ir 7, 9, 10, 11, 20 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1724, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00137
+Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo Nr. VIII-1031 2, 3, 5, 11, 13, 14, 20 ir 21 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1994, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11565
+Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo Nr. VIII-1031 4 straipsnio pakeitimo įstatymas
