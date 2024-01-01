@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2023-12-15 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -99,6 +99,14 @@ Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
 
 
 
+12. Ežeras – natūralus paviršinis vandens telkinys lėtai kintančiame duburyje, neturintis tiesioginio ryšio su jūra. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
+
+
+
+
 2. Galimai teršiama teritorija – atvira teritorija, kuri dėl joje vykdomos veiklos yra arba gali būti teršiama (eksploatacijos ar avarinės taršos atvejais) pavojingosiomis medžiagomis: transporto priemonių remonto, ardymo, techninės priežiūros, dažymo teritorija (teritorija, kurioje teikiamos išvardytos paslaugos, ir didesnė kaip 0,1 ha teritorija, kurioje minėta veikla vykdoma savo reikmėms); trąšų, augalų apsaugos produktų, buitinės chemijos, naftos produktų ir kitų pavojingųjų medžiagų perpylimo, perkrovimo ar sandėliavimo vieta (išskyrus galutinius nurodytų medžiagų vartotojus); didesnė kaip 0,5 ha transporto priemonių stovėjimo aikštelė; transporto priemonių stovėjimo aikštelės, naudojamos komerciniais tikslais ir esančios arčiau kaip 100 m atstumu nuo vandens telkinių; centralizuota betono ruošimo ir išdavimo vieta; degalinės, naftos bazės ir naftos išgavimo gręžinių teritorija; degalų ir kitų naftos produktų pilstymo vieta; chemijos, naftos perdirbimo, pieno, mėsos, žuvies perdirbimo, celiuliozės ir popieriaus, odų dirbimo, cukraus pramonės objekto teritorija; atliekų tvarkymo objekto, pabėgių mirkyklos, jūrų uosto, dokų teritorija.
 
 
@@ -115,6 +123,14 @@ Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
 
 
 5. Gera požeminio vandens telkinio būklė – požeminio vandens telkinio būklė, kai jo kiekybinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai.
+
+
+
+
+51. Hidrologinis režimas – paviršinio vandens telkinio charakteristikų pokyčiai, reguliariai besikartojantys laike ir erdvėje, turintys sezonines fazes. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 
@@ -159,12 +175,23 @@ Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
 
 
 
-14. Paviršinis vandens telkinys – kiekybės rodikliais apibūdinama žemės paviršiuje esanti vandens aplinkos dalis, tai yra: jūra ar jos dalis, upė ar jos dalis, ežeras, dirbtinis vandens telkinys. 
+14. Paviršinis vandens telkinys – kiekybės rodikliais apibūdinama žemės paviršiuje esanti vandens aplinkos dalis, tai yra: jūra ar jos dalis, upė ar jos dalis, ežeras, tvenkinys ar kitas dirbtinis vandens telkinys. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 
 
 15. Plaukiojimo priemonės – laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.
+
+
+
+
+151. Plūduriuojančioji priemonė – vandens paviršiuje plūduriuojantys ir standžiųjų atramų ar laikančiųjų konstrukcijų, susietų su paviršinio vandens telkinio dugnu, neturintys, bet prie paviršinio vandens telkinio dugno arba kranto lanksčiosiomis jungtimis galintys būti pritvirtinti plūdrusis lieptas, tiltas, prieplauka (debarkaderis), plaustas, vandens batutas ar kita priemonė, įskaitant priemones, pritaikomas gyventi ir (arba) ūkinei komercinei veiklai vykdyti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 
@@ -204,7 +231,18 @@ Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
 
 
 
-23. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.
+23. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas patvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
+
+
+
+
+231. Upė – natūrali nuolatinė ar laikina vandens tėkmė, kurios didžioji dalis teka vaga sausumos paviršiuje nuolydžio kryptimi, bet tam tikra dalis gali tekėti ir po žeme.
+Papildyta straipsnio dalimi:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 
@@ -429,23 +467,25 @@ Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
 
 
 
-8 straipsnis. Vandens telkinių ir (arba) jų vandens naudojimo leidimai
+8 straipsnis. Vandens telkinių ir (arba) jų vandens naudojimo leidimai ir asmenų įregistravimas paviršinį vandenį naudojančių asmenų registracijos sąraše
 
 
-1. Šio įstatymo, Žemės gelmių įstatymo, Žuvininkystės įstatymo ir Lietuvos Respublikos mėgėjų žvejybos įstatymo nustatytais atvejais vandens telkinius ir (arba) jų vandenį naudoti galima tik turint teisės aktų nustatyta tvarka išduotus leidimus.
+1. Šio įstatymo, Aplinkos apsaugos įstatymo, Žemės gelmių įstatymo, Žuvininkystės įstatymo ir Lietuvos Respublikos mėgėjų žvejybos įstatymo nustatytais atvejais vandens telkinius ir (arba) jų vandenį naudoti galima tik turint teisės aktų nustatyta tvarka išduotus leidimus arba šio įstatymo 9 straipsnyje nustatyta tvarka įsiregistravus paviršinį vandenį naudojančių asmenų registracijos sąraše.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti leidimai neišduodami, jeigu vandens telkinių ir (arba) jų vandens naudojimo veikla trukdo pasiekti vandensaugos tikslus ir (arba) gali pabloginti paviršinių ir (arba) požeminių vandens telkinių būklę. 
+2. Šio straipsnio 1 dalyje nurodyti leidimai neišduodami, jeigu vandens telkinių ir (arba) jų vandens naudojimo veikla trukdo pasiekti vandensaugos tikslus ir (arba) gali pabloginti paviršinių ir (arba) požeminių vandens telkinių būklę.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
  
 
 
 
 
-
-
-9 straipsnis. Paviršinių ir (arba) požeminių vandens telkinių naudojimas vandeniui išgauti
+9 straipsnis. Paviršinių ir (arba) požeminių vandens telkinių naudojimas vandeniui išgauti (paimti), paviršinį vandenį naudojančių asmenų registravimas
 
 
 1. Požeminių vandens telkinių naudojimą vandeniui išgauti reglamentuoja Geriamojo vandens įstatymas, Žemės gelmių įstatymas ir kiti teisės aktai, reglamentuojantys požeminio vandens išgavimą.
@@ -453,15 +493,152 @@ Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
 
 
 
-2. Paviršinių vandens telkinių naudojimo vandeniui išgauti aplinkos apsaugos reikalavimus nustato aplinkos ministras, atsižvelgdamas į būtinybę užtikrinti, kad vandens išgavimas netrikdytų paviršinio vandens telkinio hidrologinio režimo ir neblogintų jo būklės.
+2. Paviršinių vandens telkinių naudojimas vandeniui išgauti ar paimti (toliau – išgauti) turi netrikdyti paviršinio vandens telkinio ir su juo susijusių vandens telkinių ar teritorijų hidrologinio režimo ir (ar) užtikrinti gamtosauginį debitą žemiau vandens išgavimo vietų, hidrotechninių statinių, nebloginti jo vandens kokybės ir neužkirsti kelio pasiekti gerą paviršinio vandens telkinio būklę.
 
 
 
 
-3. Asmuo, išgaunantis (planuojantis išgauti) 100 m3 ir daugiau vandens per parą iš vieno paviršinio vandens telkinio (išskyrus vandenį, naudojamą mėgėjų sodininkystės poreikiams, ir vandenį, naudojamą hidroenergijai išgauti hidroelektrinėse, kurių galia neviršija 10 MW), privalo turėti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą, kurių išdavimo tvarką reglamentuoja Aplinkos apsaugos įstatymas. Išgaunamo vandens kiekis apskaičiuojamas per metus išgaunamą ar numatomą išgauti vandens kiekį padalijus iš išgavimo dienų skaičiaus.
+3. Fizinis ar juridinis asmuo, išgaunantis vandenį iš paviršinio vandens telkinio, įskaitant paviršinio vandens paėmimą energetikai, pramonei, žemės ūkiui, suskystintų gamtinių dujų importo terminalo, žuvininkystės veiklai, per hidrotechninius statinius praleidžiantis paviršinį vandenį ir naudojantis jį hidroenergijai išgauti hidroelektrinėse ar planuojantis tai daryti (toliau – paviršinį vandenį naudojantis asmuo), privalo būti įregistruotas paviršinį vandenį naudojančių asmenų registracijos sąraše (toliau – registracijos sąrašas) šio straipsnio 6 ir 7 dalyse nustatyta tvarka, išskyrus šio straipsnio 4 dalyje nurodytas išimtis.
+
+
+
+
+4. Registracija neprivaloma šio straipsnio 3 dalyje nurodytame registracijos sąraše, jeigu paviršinį vandenį naudojantis asmuo:
+
+
+1) turi taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą su specialiąja dalimi „Vandens išgavimas iš paviršinių vandens telkinių“ įrenginiui, jo daliai, keliems įrenginiams ar jų dalims eksploatuoti arba aplinkos ministro nustatyta tvarka išduotas paviršinio vandens telkinio naudojimo vandeniui išgauti aplinkosaugines sąlygas;
+
+
+
+
+2) sunaudoja ar planuoja sunaudoti mažiau kaip 10 m3 vandens per parą iš vieno paviršinio vandens telkinio. Sunaudojamo vandens kiekis apskaičiuojamas per mėnesį išgaunamo vandens kiekį padalijus iš išgavimo dienų skaičiaus;
+
+
+
+
+3) naudoja ar planuoja naudoti vandenį iš nepratekamo dirbtinio paviršinio vandens telkinio, įrengto nuosavame žemės sklype;
+
+
+
+
+4) naudoja paviršinio vandens telkinio vandenį ekstremaliojo įvykio ar ekstremaliosios situacijos metu arba gaisrams gesinti.
+
+
+
+
+
+
+5. Paviršinį vandenį naudojančius asmenis įrašo į registracijos sąrašą, registracijos duomenis tikslina ir iš šio sąrašo išregistruoja, šį sąrašą skelbia Aplinkos apsaugos agentūra savo interneto svetainėje aplinkos ministro nustatyta tvarka. Fizinių asmenų duomenys, kuriems taikytinas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), tvarkomi ir naudojami šioje dalyje ir šio straipsnio 8, 10, 12, 14 dalyse nurodytoms funkcijoms atlikti ir viešai neskelbiami.
+
+
+
+
+6. Paviršinį vandenį naudojantis asmuo ar asmuo, planuojantis kalendoriniais metais pradėti naudoti paviršinį vandenį, privalo Aplinkos apsaugos agentūrai pateikti šiuos registracijai į paviršinį vandenį naudojančių asmenų sąrašą reikalingus dokumentus (toliau – registracijos dokumentai):
+
+
+1) aplinkos ministro nustatytos formos prašymą; prašyme asmuo nurodo vieną ar kelis paviršinius vandens telkinius, iš kurių išgauna arba planuoja išgauti paviršinį vandenį, vandens išgavimo ar praleidimo per hidrotechninius statinius vietą vandens telkinyje, išgaunamo arba planuojamo išgauti iš kiekvieno paviršinio vandens telkinio ar praleidžiamo arba planuojamo praleisti per hidrotechninius statinius vandens kiekį, vandens išgavimo būdą, įrenginį ar priemonę;
+
+
+
+
+2) privataus paviršinio vandens telkinio savininko sutikimą, jeigu planuojama naudoti šį vandens telkinį vandeniui išgauti, arba nuomininko sutikimą, jeigu planuojama naudoti išnuomotą paviršinį vandens telkinį vandeniui išgauti.
+
+
+
+
+
+
+7. Paviršinį vandenį naudojantis asmuo įregistruojamas registracijos sąraše neterminuotam laikui. Paviršinį vandenį naudojantis asmuo teisę paviršinį vandenį naudoti vykdomai veiklai įgyja kitą dieną po registracijos dokumentų pateikimo Aplinkos apsaugos agentūrai dienos arba kitos prašyme nurodytos datos, jeigu vandens naudojimo pradžios diena yra vėlesnė negu kita diena po registracijos dokumentų pateikimo dienos.
+
+
+
+
+8. Aplinkos apsaugos agentūra, išnagrinėjusi gautus registracijos dokumentus, juose pateiktą informaciją apie išgaunamą ar planuojamą išgauti vandens kiekį, pareiškėjo prašyme nurodyto paviršinio vandens telkinio, iš kurio išgaunamas ar planuojamas išgauti vanduo, charakteristikas, turimą informaciją apie kitų to vandens telkinio naudotojų sunaudojamo vandens kiekį ir padariusi išvadą, kad paviršinio vandens naudojimas neleis užtikrinti geros paviršinio vandens telkinio būklės ir (ar) išvengti jos pablogėjimo, priima sprendimą nustatyti papildomą aplinkosauginį apribojimą – iš to paviršinio vandens telkinio išgaunamą didžiausią paviršinio vandens kiekį – arba papildomas to paviršinio vandens telkinio naudojimo sąlygas.
+
+
+
+
+9. Aplinkos apsaugos agentūra sprendimą dėl papildomų aplinkosauginių apribojimų ar sąlygų nustatymo priima ne vėliau kaip per 20 darbo dienų nuo paviršinį vandenį naudojančio asmens prašymo pateikimo dienos ir informaciją apie nustatytus apribojimus ar sąlygas įrašo į registracijos sąrašą.
+
+
+
+
+10. Registracijos duomenys tikslinami, kai yra bent viena iš šių sąlygų:
+
+
+1) paviršinį vandenį naudojančio asmens prašymu;
+
+
+
+
+2) nustačius, kad paviršinį vandenį naudojančio asmens pateikti ne visi duomenys arba pateikti ar patikslinti duomenys yra netikslūs, neišsamūs.
+
+
+
+
+
+
+11. Aplinkos apsaugos agentūra patikslina registracijos duomenis registracijos sąraše per 5 darbo dienas nuo šio straipsnio 10 dalies 1 punkte nurodyto prašymo pateikimo dienos, o šio straipsnio 10 dalies 2 punkte nurodytu atveju – informuoja paviršinį vandenį naudojantį asmenį, kad jis ne vėliau kaip per 10 darbo dienų pateiktų patikslintus duomenis. Gavusi patikslintus duomenis, Aplinkos apsaugos agentūra juos patikslina registracijos sąraše per 5 darbo dienas.
+
+
+
+
+12. Aplinkos apsaugos agentūra išregistruoja paviršinį vandenį naudojantį asmenį šiais atvejais:
+
+
+1) paviršinį vandenį naudojančio asmens prašymu, jeigu šis asmuo nebeatitinka asmenims, kuriems privaloma registracija dėl sunaudojamo paviršinio vandens kiekio ir pobūdžio, taikomų kriterijų;
+
+
+
+
+2) nustačius, kad paviršinį vandenį naudojantis juridinis asmuo yra likviduotas, paviršinį vandenį naudojantis fizinis asmuo yra miręs;
+
+
+
+
+3) nustačius, kad duomenys ir (ar) informacija, kuria remiantis buvo registruotas paviršinį vandenį naudojantis asmuo, yra klaidingi, o pagal teisingus duomenis ir (ar) informaciją asmuo negalėtų būti registruotas;
+
+
+
+
+4) nustačius, kad paviršinį vandenį naudojantis asmuo neturi privataus paviršinio vandens telkinio savininko ar išnuomoto paviršinio vandens telkinio nuomininko sutikimo;
+
+
+
+
+5) per nustatytą 10 darbo dienų laikotarpį negaunami patikslinti šio straipsnio 10 dalies 2 punkte nurodyti paviršinį vandenį naudojančio asmens buvę netikslūs ar neišsamūs duomenys;
+
+
+
+
+6) nustačius, kad vandens išgauti iš paviršinio vandens telkinio negalima, nes nebus užtikrintas paviršinio vandens telkinio gamtosauginis debitas arba vandens lygio pokyčiai darys neigiamą poveikį šio vandens telkinio ir su juo susijusių vandens telkinių ar teritorijų hidrologiniam režimui ir (ar) vandens kokybei;
+
+
+
+
+7) per kalendorinius metus nustačius bent tris šio įstatymo 15 straipsnio 1 dalyje išdėstytų reikalavimų pažeidimus arba 15 straipsnio 1 dalyje 3–6 punktuose išdėstytų reikalavimų pažeidimo nepašalinus per 3 mėnesius nuo pažeidimo nustatymo.
+
+
+
+
+
+
+13. Aplinkos apsaugos agentūra sprendimą dėl išregistravimo aplinkos ministro nustatyta tvarka priima ne vėliau kaip per 10 darbo dienų nuo šio straipsnio 12 dalies 1 punkte nurodyto prašymo pateikimo dienos arba šio straipsnio 12 dalies 2–4 ir 6 punktuose nurodytų aplinkybių nustatymo dienos, arba šio straipsnio 12 dalies 5 punkte nurodyto laikotarpio, per kurį turėjo būti patikslinti duomenys, pabaigos.
+
+
+
+
+14. Aplinkos apsaugos agentūra informuoja paviršinį vandenį naudojantį asmenį apie priimtą sprendimą dėl papildomų aplinkosauginių apribojimų ar sąlygų nustatymo, registracijos duomenų patikslinimo ar išregistravimo per 5 darbo dienas nuo šio sprendimo priėmimo dienos. Aplinkos apsaugos agentūra įrašo Licencijų informacinėje sistemoje duomenis apie paviršinį vandenį naudojančio asmens įregistravimą, papildomų aplinkosauginių apribojimų ar sąlygų nustatymą, registracijos patikslinimą ar išregistravimą Lietuvos Respublikos viešojo administravimo įstatyme nustatyta tvarka ir terminais.
+
+
+
+
+15. Aplinkos apsaugos agentūros priimti sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatyme, Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatyme nustatyta tvarka Lietuvos administracinių ginčų komisijai ar apygardos administraciniam teismui. Aplinkos apsaugos agentūros priimto sprendimo apskundimas nestabdo jo vykdymo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
  
-
-
 
 
 
@@ -618,94 +795,52 @@ Paviršiniuose vandens telkiniuose gali būti statomi statiniai, reikalingi pavi
 14 straipsnis. Upių ir ežerų reguliavimas
 
 
-1. Draudžiama reguliuoti (tvenkti (patvenkti) ir kitais būdais keisti vandens lygį, gylį ir (arba) krantų liniją) upes ir (arba) ežerus, išskyrus Specialiųjų žemės naudojimo sąlygų įstatyme nustatytus atvejus. 
+1. Draudžiama reguliuoti upes ir (arba) ežerus – tvenkti (patvenkti) ir kitais būdais keisti jų vandens lygį, gylį ir (arba) krantų liniją, hidrologinį režimą, sutrikdant vandens telkinio maitinimą paviršiniais ir požeminiais vandenimis, panaikinti, tiesinti ar perkelti upės vagą, nukreipiant vandens tėkmę vamzdynu po žeme, išskyrus šio straipsnio 2 dalyje ir Specialiųjų žemės naudojimo sąlygų įstatyme nustatytus atvejus.
 
 
 
 
-2. Šio straipsnio 1 dalyje nenumatyti upių ir (arba) ežerų reguliavimo darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.
+2. Šio straipsnio 1 dalyje numatyti, taip pat kiti darbai ir (arba) priemonės, kuriuos vykdant upės ir (arba) ežerai, kuriems nustatyti vandensaugos tikslai, reguliuojami taip, kad blogėja jų būklė, gali būti vykdomi, kai tokia veikla yra labai svarbi visuomenės interesams ir (arba) nauda žmonių sveikatai, jų saugai, taip pat subalansuotai plėtrai yra didesnė už naudą, kurią aplinkai ir visuomenei duoda nesureguliuota upė ir (arba) ežeras, ir (arba) tokia veikla yra būtina, nes dėl techninių galimybių ar per didelių sąnaudų naudos, kurią duoda upių ir (arba) ežerų reguliavimas, negalima gauti kitais būdais, kurie aplinkosaugos požiūriu būtų gerokai pranašesni. Visais atvejais turi būti imamasi visų įmanomų priemonių, mažinančių neigiamą poveikį upėms ir (arba) ežerams ir užtikrinančių gerą jų būklę.
 
 
 
 
-3. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į šio straipsnio 1 dalyje numatytų darbų mastą, pobūdį, tikslus ir galimą jų poveikį upėms ir (arba) ežerams, nustato kriterijus, kada šio straipsnio 1 dalyje numatyti darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.
+3. Draudžiama statyti užtvankas Nemune ir kituose paviršiniuose vandens telkiniuose, jeigu:
+
+
+1) jie patenka į saugomas teritorijas;
 
 
 
 
-4. Šio straipsnio 1 dalyje numatyti ir kiti darbai ir (arba) priemonės, kuriuos vykdant upės ir (arba) ežerai, kuriems nustatyti vandensaugos tikslai, reguliuojami taip, kad blogina jų būklę, gali būti vykdomi, kai tokia veikla yra labai svarbi visuomenės interesams ir (arba) nauda žmonių sveikatai, žmonių saugos palaikymui ar subalansuotai plėtrai yra didesnė už naudą, kurią aplinkai ir visuomenei duoda nesureguliuota upė ir (arba) ežeras, ir (arba) tokia veikla yra būtina, nes dėl techninių galimybių ar per didelių sąnaudų, naudos, kurią duoda upių ir (arba) ežerų reguliavimas, negalima gauti kitais būdais, kurie aplinkosaugos požiūriu būtų gerokai pranašesni. Visais atvejais turi būti imamasi visų įmanomų priemonių, mažinančių neigiamą poveikį upėms ir (arba) ežerams ir užtikrinančių gerą jų būklę.
+2) juose aptinkama į Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąrašą įrašytų rūšių žuvų, Europos laukinės gamtos ir gamtinės aplinkos apsaugos konvencijos (Berno konvencijos) saugomų rūšių, 1992 m. gegužės 21 d. Tarybos direktyvos 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos saugomų rūšių;
 
 
 
 
-5. Šio straipsnio 4 dalyje nurodyta veikla laikoma labai svarbia visuomenės interesams ir yra būtina, jeigu jos vykdymas numatytas planavimo dokumentuose, kuriuos tvirtina Lietuvos Respublikos Seimas.
+3) paviršinio vandens telkinio patvenkimas pablogintų vandens telkinio būklę ir neleistų pasiekti vandensaugos tikslų, užtikrinti geros vandens telkinių būklės.
 
 
 
 
-6. Draudžiama statyti užtvankas Nemune ir kitose upėse, jeigu:
 
 
-1) upės ar jų ruožai patenka į saugomas teritorijas;
-
-
-
-
-2) upėse aptinkama į Lietuvos raudonąją knygą įrašytų žuvų rūšių, Europos laukinės gamtos ir gamtinės aplinkos apsaugos konvencijos (Berno konvencijos) saugomų rūšių, Natūralių buveinių ir laukinės faunos bei floros apsaugos direktyvos (92/43/EEB) saugomų rūšių;
-
-
-
-
-3) upių užtvenkimas neleistų užtikrinti geros vandens telkinių būklės ir Direktyvos 2000/60/EB reikalavimų įgyvendinimo.
-
-
+4. Statinių, trukdančių užtikrinti ar atkurti upių vientisumą, savininkai ir (ar) sutarčių pagrindu šiuos statinius valdantys ar naudojantys valdytojai ar naudotojai aplinkos ministro nustatyta tvarka turi pašalinti minėtus statinius iš upių, jeigu jie neteikia ekonominės, finansinės ar socialinės naudos visuomenei – neatlieka vandens paėmimo ir saugojimo, hidroenergetikos funkcijų, nenaudojami laivybai, žemės ūkiui, elektros gamybai, potvynių prevencijai ir (arba) jų rekonstrukcija nėra ekonomiškai naudinga.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
  
 
 
 
 
  
-15 straipsnis. Tvenkinių įrengimas, ežerų patvenkimas. Tokių paviršinių vandens telkinių naudojimas ir priežiūra
-
-
-1 dalies redakcija iki 2024-01-01:
-1. Tvenkiniai įrengiami ir (arba) ežerai patvenkiami ir šių paviršinių vandens telkinių priežiūra vykdoma vadovaujantis aplinkos ministro patvirtintu tvarkos aprašu, kuriame nustatomi šie pagrindiniai reikalavimai:
-
-
-1) vandens lygio svyravimas tvenkinyje ir (arba) patvenktame ežere neturi daryti neigiamo poveikio tvenkinio ir (arba) patvenkto ežero ekosistemai ir aplinkinėms teritorijoms;
-
-
-
-
-2) turi būti užtikrinta, kad užtvankos ir (arba) patvankos praleistų ne mažiau vandens už nustatytą gamtosauginį debitą;
-
-
-
-
-3) turi būti įrengtos ir tinkamai naudojamos veiksmingos žuvų apsaugos ir jų migracijos priemonės;
-
-
-
-
-4) turi būti imamasi priemonių erozijos procesams tvenkinių ir (arba) patvenktų ežerų krantuose mažinti;
-
-
-
-
-5) hidroelektrinių darbas neturi keisti natūralaus upės nuotėkio režimo, kad būtų išvengta neigiamo poveikio žemiau užtvankų esantiems upių ruožams, neblogintų jų hidromorfologinių sąlygų ir nepažeistų ekosistemų stabilumo;
-
-
-
-
-6) turi būti tvarkoma per užtvankas (patvankas) pratekančio vandens apskaita ir teikiami apskaitos duomenys.
-
-
-
-
+15 straipsnis. Tvenkinių ir (arba) patvenktų ežerų naudojimas ir priežiūra 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 1 dalies, išskyrus 8 punktą, redakcija nuo 2024-01-01:
@@ -798,6 +933,14 @@ iv) upėje žemiau užtvankos įrengtos ne daugiau kaip 3 užtvankos;
 3. Dėl nepalankių klimatinių sąlygų, netinkamai veikiančių ir (arba) neveikiančių hidrotechninių statinių sunykę tvenkiniai, kuriuos atstatyti netikslinga, ir (arba) panaikinti tvenkiniai pripažįstami ne paviršiniais vandens telkiniais aplinkos ministro nustatyta tvarka. Sprendimą dėl tvenkinio pripažinimo ne paviršiniu vandens telkiniu priima aplinkos ministras, suderinęs šį sprendimą su Nacionaline žemės tarnyba prie Žemės ūkio ministerijos ir savivaldybės, kurios teritorijoje buvo pripažįstamas ne paviršiniu vandens telkiniu tvenkinys, administracija. Pripažinti ne paviršiniais vandens telkiniais tvenkiniai, kurie Aplinkos apsaugos įstatymo nustatyta tvarka registruoti Lietuvos Respublikos upių, ežerų ir tvenkinių kadastre, šio kadastro nuostatų nustatyta tvarka iš jo išregistruojami.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1325, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15653
+ 
+
+
+
+
+4. Šio straipsnio 1 dalies 3 punkte numatytais atvejais privalomų žuvų pralaidų įrengimo kompensavimo tvarką nustato aplinkos ministras.
+Papildyta straipsnio dalimi:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
  
 
 
@@ -916,15 +1059,31 @@ Nr. XIV-999, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07163
 
 
 
-4. Draudžiama nuotekas išleisti tiesiai į ežerus ir į juos įtekančias upes mažesniu kaip 500 m atstumu iki ežero.
-TAR pastaba. 18 straipsnio 4 dalyje nustatytas reikalavimas taikomas:
-1) nuo 2025 m. sausio 1 d. asmenims, kurie iki 2019-11-01 turėjo taršos integruotos prevencijos kontrolės leidimus arba taršos leidimus išleisti nuotekas tiesiai į ežerus ir (arba) į juos įtekančias upes mažesniu kaip 500 m atstumu iki ežero;
-2) nuo 2030 m. sausio 1 d. 1 punkte nenurodytiems asmenims, kurie iki 2019-11-01, nepažeisdami teisės aktų reikalavimų, išleido nuotekas tiesiai į ežerus ir (arba) į juos įtekančias upes mažesniu kaip 500 m atstumu iki ežero.
+4. Draudžiama nuotekas, išskyrus paviršines, išleisti tiesiai į ežerus ir į juos įtekančias upes mažesniu kaip 500 m atstumu iki ežero. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 
 
 5. Nuotekos, susidarančios gamybiniuose pastatuose, kuriuose laikomi ūkiniai gyvūnai, gali būti skleidžiamos ant žemės paviršiaus tręšimo tikslais aplinkos ministro ir žemės ūkio ministro nustatyta tvarka.
+
+
+
+
+6. Atsižvelgdamas į Reglamento (ES) 2020/741 2 straipsnio 2 dalyje nustatytus kriterijus, sprendimą dėl centralizuotomis nuotekų surinkimo sistemomis surinktų nuotekų naudojimo žemės ūkyje drėkinimo tikslu priima aplinkos ministras. Priimtas sprendimas pateikiamas Europos Komisijai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
+
+
+
+
+7. Vadovaudamasi Reglamento (ES) 2020/741 8 straipsniu, su valstybių narių atsakingomis institucijomis dėl centralizuotomis nuotekų surinkimo sistemomis surinktų nuotekų naudojimo bendradarbiauja aplinkos ministro įgaliota institucija.
+Papildyta straipsnio dalimi:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 
@@ -952,10 +1111,12 @@ VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALDYMAS
 20 straipsnis. Vandens telkinių ir (arba) jų vandens naudojimo valdymo planavimas
 
 
-Vandens telkinių ir (arba) jų vandens naudojimo valdymas planuojamas rengiant vidutinės trukmės strateginius planavimo dokumentus, kuriuos aplinkos ministro teikimu tvirtina Vyriausybė.
+Vandens telkinių ir (arba) jų vandens naudojimo valdymas planuojamas rengiant strateginio lygmens planavimo dokumentus, kuriuos tvirtina Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
  
-
-
 
 
 
@@ -973,7 +1134,7 @@ Vandens telkinių ir (arba) jų vandens naudojimo valdymas planuojamas rengiant 
 
 
 
-3. Rengiant šio įstatymo 20 straipsnyje nurodytus vidutinės trukmės strateginius planavimo dokumentus, kiekviename upių baseinų rajone arba jo dalyje, esančioje Lietuvos Respublikos teritorijoje, atliekamas:
+3. Rengiant šio įstatymo 20 straipsnyje nurodytus strateginio lygmens planavimo dokumentus, kiekviename upių baseinų rajone arba jo dalyje, esančioje Lietuvos Respublikos teritorijoje, atliekama:
 
 
 1) bendras upių baseinų rajono ir jame esančių požeminių ir paviršinių vandens telkinių apibūdinimas ir išskyrimas;
@@ -991,7 +1152,7 @@ Vandens telkinių ir (arba) jų vandens naudojimo valdymas planuojamas rengiant 
 
 
 
-4) paviršinių ir požeminių vandens telkinių būklės įvertinimas;
+4) paviršinių ir požeminių vandens telkinių stebėsena ir būklės įvertinimas;
 
 
 
@@ -1011,7 +1172,7 @@ Vandens telkinių ir (arba) jų vandens naudojimo valdymas planuojamas rengiant 
 
 
 
-8) upių ir (arba) ežerų reguliavimo darbų ir (arba) priemonių, numatytų šio įstatymo 14 straipsnio 2 ir 3 dalyse, nustatymas, pagrindžiant tokių priemonių būtinumą ir nurodant neigiamą poveikį upėms ir (arba) ežerams mažinančias priemones, kurių planuojama imtis;
+8) upių ir (arba) ežerų reguliavimo darbų ir (arba) priemonių, nurodytų šio įstatymo 14 straipsnio 2 dalyje, nustatymas, pagrindžiant tokių priemonių būtinumą ir nurodant neigiamą poveikį upėms ir (arba) ežerams mažinančias priemones, kurių planuojama imtis;
 
 
 
@@ -1019,6 +1180,9 @@ Vandens telkinių ir (arba) jų vandens naudojimo valdymas planuojamas rengiant 
 9) kiti efektyviam paviršinių ir požeminių vandens telkinių valdymui reikalingi veiksmai.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 
@@ -1114,10 +1278,10 @@ Paviršinių ir (arba) požeminių vandens telkinių būklei ir pokyčiams steb�
 
 
 
-2. Iš paviršinių ir (arba) požeminių vandens telkinių išgauto vandens, jo naudojimo ir (arba) perdavimo, perduoto vandens naudojimo apskaitą privalo tvarkyti ūkio subjektai, kurie: 
+2. Iš paviršinių ir (arba) požeminių vandens telkinių išgauto vandens, jo naudojimo ir (arba) perdavimo, perduoto vandens naudojimo, per hidrotechninius statinius praleidžiamo vandens apskaitą savo lėšomis privalo tvarkyti fiziniai ar juridiniai asmenys, kurie:
 
 
-1) Aplinkos apsaugos įstatymo nustatyta tvarka privalo gauti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą ir (arba) Žemės gelmių įstatymo nustatyta tvarka privalo gauti leidimą naudoti žemės gelmių išteklius (požeminį vandenį);
+1) Aplinkos apsaugos įstatymo nustatyta tvarka privalo gauti taršos integruotos prevencijos ir kontrolės leidimą arba taršos leidimą ir (arba) Žemės gelmių įstatymo nustatyta tvarka privalo gauti leidimą naudoti žemės gelmių išteklius (požeminį vandenį) arba kurie iš gėlo požeminio vandens vandenvietės išgauna ar planuoja išgauti 10 m3 ir daugiau gėlo požeminio vandens per parą, skaičiuojant metinį vidurkį;
 
 
 
@@ -1127,9 +1291,17 @@ Paviršinių ir (arba) požeminių vandens telkinių būklei ir pokyčiams steb�
 
 
 
-3) per parą iš kitų ūkio subjektų gauna 50 m3 ir daugiau vandens, o jų pagrindinė ekonominė veiklos rūšis yra žemės ūkis, miškininkystė, žuvininkystė, kasyba, karjerų eksploatavimas, apdirbamoji gamyba, elektros energijos, dujų, garo tiekimas, oro kondicionavimas, vandens tiekimas, nuotekų valymas, atliekų tvarkymas ir regeneravimas, statyba. Vandens kiekis apskaičiuojamas per metus gaunamą ar numatomą gauti vandens kiekį padalijus iš gavimo dienų skaičiaus.
+3) per parą iš kitų ūkio subjektų gauna 50 m3 ir daugiau vandens, o jų pagrindinė ekonominė veiklos rūšis yra žemės ūkis, miškininkystė, žuvininkystė, kasyba, karjerų eksploatavimas, apdirbamoji gamyba, elektros energijos, dujų, garo tiekimas, oro kondicionavimas, vandens tiekimas, nuotekų valymas, atliekų tvarkymas ir regeneravimas, statyba. Vandens kiekis apskaičiuojamas per metus gaunamą ar planuojamą gauti vandens kiekį padalijus iš gavimo dienų skaičiaus;
 
 
+
+
+4) nurodyti šio įstatymo 9 straipsnio 3 dalyje. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
 
 
 
@@ -1154,7 +1326,9 @@ Paviršinių ir (arba) požeminių vandens telkinių būklei ir pokyčiams steb�
 
 
 
-4. Ataskaitos apie iš paviršinių ir (arba) požeminių vandens telkinių išgautą vandenį, jo naudojimą ir (arba) perdavimą, perduoto vandens naudojimą, išleidžiamas nuotekas ir teršalus, per hidrotechninius įrenginius praleidžiamą vandenį teikiamos vieną kartą per metus aplinkos ministro nustatyta tvarka.
+4. Ataskaitos apie iš paviršinių ir (arba) požeminių vandens telkinių išgautą vandenį, jo naudojimą ir (arba) perdavimą, perduoto vandens naudojimą, išleidžiamas nuotekas ir teršalus, per hidrotechninius statinius praleidžiamą vandenį teikiamos aplinkos ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
  
 
 
@@ -1250,17 +1424,25 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
-Lietuvos Respublikos
-vandens įstatymo
+Lietuvos Respublikos 
+vandens įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2000 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2000/60/EB, nustatanti Bendrijos veiksmų vandens politikos srityje pagrindus (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 275), su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
+1. 2000 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2000/60/EB, nustatanti Bendrijos veiksmų vandens politikos srityje pagrindus, su paskutiniais pakeitimais, padarytais 2014 m. spalio 30 d. Komisijos direktyva 2014/101/ES.
 
 
+
+
+2. 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/741 dėl pakartotinio vandens naudojimo minimaliųjų reikalavimų.
+
+
+Priedo pakeitimai:
+Nr. XIV-1280, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14924
+ 
  
  
 Pakeitimai:
