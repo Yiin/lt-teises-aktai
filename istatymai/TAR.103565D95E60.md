@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.103565D95E60"
 
 # Lietuvos Respublikos profesinių pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3248, i. k. 1061010ISTA000X-745
  
@@ -3453,7 +3453,10 @@ Informacijos, kurią priežiūros institucija gauna priežiūros tikslu, apsauga
 
 
 
-4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba pensijų asociacijos veiklos trūkumus, taip pat jeigu kyla grėsmė pensijų asociacijos veiklos stabilumui ir patikimumui arba visuomenės, pensijų fondo dalyvių ir (arba) išmokų gavėjų interesams, mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, turi teisę prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas. 
+4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba pensijų asociacijos veiklos trūkumus, taip pat jeigu kyla grėsmė pensijų asociacijos veiklos stabilumui ir patikimumui arba visuomenės, pensijų fondo dalyvių ir (arba) išmokų gavėjų interesams, mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, turi teisę prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja pirmosios instancijos administracinis teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1604, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25183
+ 
 
 
 
@@ -3997,7 +4000,7 @@ Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 Priedo pakeitimai:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
  
-part_4defdbc1cb4e48498f0bf06040161ed8_end
+part_b0c1f57e44e04b30bf2b6b748e01b5ee_end
 
 
  
@@ -4081,3 +4084,8 @@ Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 56, 59, 63 straipsnių ir priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1604, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25183
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 61 straipsnio pakeitimo įstatymas
