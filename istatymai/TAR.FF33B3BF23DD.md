@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2023-11-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -351,9 +351,11 @@ Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
 
 
 
-232. Kompensuojamosios medicinos pagalbos priemonės – medicinos priemonės (kaip ši sąvoka suprantama Lietuvos Respublikos sveikatos sistemos įstatyme), kurios įrašytos į Kompensuojamųjų medicinos pagalbos priemonių kainyną ir kurių įsigijimo išlaidos ar jų dalis privalomuoju sveikatos draudimu apdraustiems asmenims yra kompensuojama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų. 
+232. Kompensuojamosios medicinos pagalbos priemonės – medicinos priemonės (kaip ši sąvoka suprantama Lietuvos Respublikos sveikatos sistemos įstatyme) ir specialiosios medicininės paskirties maisto produktai, kurie įrašyti į Kompensuojamųjų medicinos pagalbos priemonių kainyną ir kurių įsigijimo išlaidos ar jų dalis privalomuoju sveikatos draudimu apdraustiems asmenims yra kompensuojama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų.
 Papildyta straipsnio dalimi:
 Nr. XIV-1639, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26102
+Straipsnio dalies pakeitimai:
+Nr. XIV-1943, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09686
  
 
 
