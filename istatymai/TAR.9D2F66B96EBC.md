@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2023-12-24 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-10-17
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -117,7 +117,10 @@ Nr. XIV-1911, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08615
 
 
 
-13. Eksperimentinės kategorijos orlaiviai – orlaiviai, išvardyti Reglamento (ES) 2018/1139 I priede.
+13. Eksperimentinės kategorijos orlaiviai – orlaiviai, išvardyti Reglamento (ES) 2018/1139 2 straipsnio 8 dalyje ir I priede.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1954, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09698
+ 
 
 
 
@@ -611,11 +614,12 @@ Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
 8 straipsnis. Atlyginimas už Agentūros teikiamas administracines paslaugas
 
 
-Už Agentūros teikiamas administracines paslaugas imamas atlyginimas. Atlyginimo dydis nustatomas (apskaičiuojamas) vadovaujantis ekonomiškai pagrįsta paslaugos savikaina. Į paslaugos savikainą negali būti įtraukiamos su konkrečios paslaugos teikimu nesusijusios sąnaudos. Paslaugos savikainos (išlaidų) dydis turi būti pagrindžiamas vadovaujantis šiais ekonominiais rodikliais: Agentūros praėjusių finansinių metų materialinių ir joms prilygintų sąnaudų (ilgalaikio materialiojo turto nusidėvėjimo ir nematerialiojo turto amortizacijos, komunalinių paslaugų, ryšio, remonto ir panašiai) ir darbo sąnaudų (darbo užmokesčio, socialinio draudimo įmokų ir darbuotojų mokymų), turėtų teikiant konkrečią paslaugą, detalizavimu ir numatomos teikti konkrečios paslaugos galimų šių sąnaudų apskaičiavimu. Atlyginimo dydžio nustatymo (apskaičiavimo) metodiką nustato Vyriausybė, o konkrečius jo dydžius, vadovaudamasis šia metodika, – susisiekimo ministras. Susisiekimo ministras, tvirtindamas konkrečius atlyginimo už Agentūros teikiamas administracines paslaugas dydžius, nustato 30 procentų nuolaidas už leidimų naudotis ne tarptautinių oro uostų aerodromais, lauko aikštelėmis, orlaiviais, kurie nenaudojami komercinei veiklai, išdavimą ir lengvojo orlaivio piloto licencijos, piloto mėgėjo licencijos, sklandytuvo piloto licencijos, oro baliono piloto licencijos, orlaivių, kurių sertifikuota kilimo masė ne didesnė kaip 5 670 kg, techninės priežiūros specialisto licencijos išdavimą, jeigu pateikiama deklaracija, kuria patvirtinama, kad turint šiuos leidimus ar licencijas nebus vykdoma komercinė veikla. Skirtumas tarp šių paslaugų sąnaudų ir nustatytų nuolaidų dengiamas iš Susisiekimo ministerijai skirtų valstybės biudžeto asignavimų. 
+Už Agentūros teikiamas administracines paslaugas imamas atlyginimas. Atlyginimo dydis nustatomas (apskaičiuojamas) vadovaujantis ekonomiškai pagrįsta paslaugos savikaina. Į paslaugos savikainą negali būti įtraukiamos su konkrečios paslaugos teikimu nesusijusios sąnaudos. Paslaugos savikainos (išlaidų) dydis turi būti pagrindžiamas vadovaujantis šiais ekonominiais rodikliais: Agentūros strateginiame veiklos plane patvirtintais sąnaudų dydžiais ir numatomos teikti konkrečios paslaugos galimų sąnaudų apskaičiavimu. Atlyginimo dydžio nustatymo (apskaičiavimo) metodiką nustato Vyriausybė, o konkrečius jo dydžius, vadovaudamasis šia metodika, – tvirtina susisiekimo ministras arba jo įgaliota institucija ar įstaiga. Susisiekimo ministras arba jo įgaliota institucija ar įstaiga, tvirtindami konkrečius atlyginimo už Agentūros teikiamas administracines paslaugas dydžius, nustato 30 procentų nuolaidas už leidimų naudotis ne tarptautinių oro uostų aerodromais, lauko aikštelėmis, orlaiviais, kurie nenaudojami komercinei veiklai, išdavimą ir lengvojo orlaivio piloto licencijos, piloto mėgėjo licencijos, sklandytuvo piloto licencijos, oro baliono piloto licencijos, orlaivių, kurių sertifikuota kilimo masė ne didesnė kaip 5 670 kg, techninės priežiūros specialisto licencijos išdavimą, jeigu pateikiama deklaracija, kuria patvirtinama, kad turint šiuos leidimus ar licencijas nebus vykdoma komercinė veikla, jeigu skirtumas tarp šių paslaugų sąnaudų ir nustatytų nuolaidų dengiamas iš Susisiekimo ministerijai skirtų valstybės biudžeto asignavimų.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+Nr. XIV-2399, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25337
  
 
 
