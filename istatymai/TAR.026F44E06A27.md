@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-05-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
  
@@ -325,7 +325,10 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 5 straipsnis. Valstybės duomenų agentūra
 
 
-1. Valstybės duomenų agentūra yra Lietuvos Respublikos Vyriausybės įstaiga, dalyvaujanti formuojant valstybės politiką finansų ministrui pavestose oficialiosios statistikos valdymo srityje ir valstybės duomenų valdysenos srityje, įgyvendinanti šią politiką ir koordinuojanti oficialiosios statistikos rengimą pagal Oficialiosios statistikos programos I dalies nuostatas, o valstybės duomenų tvarkymą – pagal Valstybės duomenų valdysenos programą. Valstybės duomenų agentūra yra Valstybės duomenų valdysenos informacinės sistemos, skirtos šio įstatymo 21 straipsnio 1 dalyje nustatytiems tikslams įgyvendinti, valdytoja ir tvarkytoja.
+1. Valstybės duomenų agentūra yra Lietuvos Respublikos Vyriausybės įstaiga, dalyvaujanti formuojant valstybės politiką finansų ministrui pavestoje oficialiosios statistikos valdymo srityje ir ekonomikos ir inovacijų ministrui pavestoje valstybės duomenų valdysenos srityje, įgyvendinanti šią politiką ir koordinuojanti oficialiosios statistikos rengimą pagal Oficialiosios statistikos programos I dalies nuostatas, o valstybės duomenų tvarkymą – pagal Valstybės duomenų valdysenos programą. Valstybės duomenų agentūra yra Valstybės duomenų valdysenos informacinės sistemos, skirtos šio įstatymo 21 straipsnio 1 dalyje nustatytiems tikslams įgyvendinti, valdytoja ir tvarkytoja. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
+ 
 
 
 
@@ -333,7 +336,10 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 2. Valstybės duomenų agentūra atlieka šias funkcijas:
 
 
-1) rengia ir teikia finansų ministrui tvirtinti Oficialiosios statistikos programos I dalį, Valstybės duomenų valdysenos programą, Oficialiosios statistikos programos I dalies vykdymo ataskaitą ir Valstybės duomenų valdysenos programos vykdymo ataskaitą;
+1) rengia ir teikia finansų ministrui tvirtinti Oficialiosios statistikos programos I dalį ir Oficialiosios statistikos programos I dalies vykdymo ataskaitą, o ekonomikos ir inovacijų ministrui - Valstybės duomenų valdysenos programą ir Valstybės duomenų valdysenos programos vykdymo ataskaitą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
+ 
 
 
 
@@ -603,7 +609,10 @@ OFICIALIOSIOS STATISTIKOS ORGANIZAVIMAS IR STATISTINĖS INFORMACIJOS SKLAIDA, ST
 
 
 
-3) kitos oficialiąją statistiką tvarkančios įstaigos – valstybės ir savivaldybių institucijos ir įstaigos, kurioms oficialiosios statistikos rengimo funkcija priskirta teisės aktų, valstybės įmonės, viešosios įstaigos, kurioms oficialiosios statistikos rengimo funkcija priskirta Lietuvos Respublikos įstatymų, o pavedimai rengti konkrečios srities statistinę informaciją nustatyti Europos Sąjungos teisės aktuose, Lietuvos Respublikos įstatymuose, Vyriausybės nutarimuose, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį (toliau – kitos oficialiąją statistiką tvarkančios įstaigos).
+3) kitos oficialiąją statistiką tvarkančios įstaigos – valstybės ir savivaldybių institucijos ir įstaigos, kurioms oficialiosios statistikos rengimo funkcija priskirta teisės aktų, valstybės valdomos įmonės, viešosios įstaigos, kurios Viešojo administravimo įstatymo nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas ir kurioms oficialiosios statistikos rengimo funkcija priskirta Lietuvos Respublikos įstatymų, o pavedimai rengti konkrečios srities statistinę informaciją nustatyti Europos Sąjungos teisės aktuose, Lietuvos Respublikos įstatymuose, Vyriausybės nutarimuose, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį (toliau – kitos oficialiąją statistiką tvarkančios įstaigos).
+Straipsnio punkto pakeitimai:
+Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
+ 
 
 
 
@@ -1155,7 +1164,10 @@ VALSTYBĖS DUOMENŲ VALDYMO IR TVARKYMO ORGANIZAVIMAS IR VALSTYBĖS DUOMENŲ NAU
 
 
 
-3. Valstybės ir savivaldybių institucijoms ir įstaigoms, taip pat valstybės ir savivaldybės įmonėms ir viešosioms įstaigoms, kurių savininkė arba dalininkė yra valstybė arba savivaldybė ir kurios Viešojo administravimo įstatymo nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinėms įstaigoms ir kitoms biudžetinėms įstaigoms, regionų plėtros taryboms skirtingų registrų ir (ar) informacinių sistemų sujungti ar kitaip apdoroti, apibendrinti duomenys, būtini šio įstatymo 21 straipsnio 1 dalyje nustatytiems tikslams pasiekti, turi būti prieinami per Valstybės duomenų valdysenos informacinę sistemą.
+3. Valstybės ir savivaldybių institucijoms ir įstaigoms, taip pat valstybės ir savivaldybių valdomoms įmonėms ir viešosioms įstaigoms, kurios Viešojo administravimo įstatymo nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinėms įstaigoms ir kitoms biudžetinėms įstaigoms, regionų plėtros taryboms skirtingų registrų ir (ar) informacinių sistemų sujungti ar kitaip apdoroti, apibendrinti duomenys, būtini šio įstatymo 21 straipsnio 1 dalyje nustatytiems tikslams pasiekti, turi būti prieinami per Valstybės duomenų valdysenos informacinę sistemą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
+ 
 
 
 
@@ -1232,7 +1244,10 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 
 
 
-6) valstybės ir savivaldybių institucijų ir įstaigų, taip pat valstybės ir savivaldybės įmonių ir viešųjų įstaigų, kurių savininkė arba dalininkė yra valstybė arba savivaldybė ir kurios Viešojo administravimo įstatymo nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinių įstaigų ir kitų biudžetinių įstaigų, regionų plėtros tarybų analitikos ir strateginių procesų valdymo, atliekant jų nuostatuose nustatytas funkcijas;
+6) valstybės ir savivaldybių institucijų ir įstaigų, taip pat valstybės ir savivaldybių valdomų įmonių ir viešųjų įstaigų, kurios Viešojo administravimo įstatymo nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinių įstaigų ir kitų biudžetinių įstaigų, regionų plėtros tarybų analitikos ir strateginių procesų valdymo, atliekant jų nuostatuose nustatytas funkcijas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
+ 
 
 
 
@@ -1420,7 +1435,9 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 
 
 
-2. Kiekvienų metų Valstybės duomenų valdysenos programą tvirtina finansų ministras.
+2. Kiekvienų metų Valstybės duomenų valdysenos programą tvirtina ekonomikos ir inovacijų ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
  
 
 
@@ -1436,7 +1453,10 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 
 
 
-2. Valstybės duomenų valdymo platforma gali būti naudojama valstybės ir savivaldybių institucijų ir įstaigų, taip pat valstybės ir savivaldybės įmonių ir viešųjų įstaigų, kurių savininkė arba dalininkė yra valstybė ar savivaldybė, statutinių įstaigų ir kitų biudžetinių įstaigų, regionų plėtros tarybų funkcijoms atlikti, įgyvendinant įstatymuose ar kituose teisės aktuose nustatytus uždavinius, taip pat kitų subjektų funkcijoms atlikti, jiems įgyvendinant visuomenės interesams svarbius uždavinius.
+2. Valstybės duomenų valdymo platforma gali būti naudojama valstybės ir savivaldybių institucijų ir įstaigų, taip pat valstybės ir savivaldybių valdomų įmonių ir viešųjų įstaigų, kurios Viešojo administravimo įstatymo nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinių įstaigų ir kitų biudžetinių įstaigų, regionų plėtros tarybų funkcijoms atlikti, įgyvendinant įstatymuose ar kituose teisės aktuose nustatytus uždavinius, taip pat kitų subjektų funkcijoms atlikti, jiems įgyvendinant visuomenės interesams svarbius uždavinius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
+ 
 
 
 
@@ -1618,3 +1638,13 @@ Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 pakeitimo įstatymo Nr. XIV-1396 1 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
+Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 9, 20, 21 ir 25 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
+Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 5 ir 24 straipsnių pakeitimo įstatymas
