@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-24
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -754,7 +754,7 @@ Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
 
 
 
-5. Atšaukus licenciją, bankas neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su banko kreditoriais, vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus arba atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį, ir šio Įstatymo vienuoliktajame ir dvyliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl banko likvidavimo ar bankroto bylos jam kėlimo.
+5. Atšaukus licenciją, bankas neturi teisės teikti finansinių paslaugų, išskyrus atsiskaitymą su banko kreditoriais, vykdant pagal Finansinio tvarumo įstatymo 47 straipsnio nuostatas duotus įpareigojimus, atliekant indėlių draudimo išmokų mokėjimus pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 161 straipsnį arba banko turtą, teises ir įsipareigojimus perleidžiant pagal Finansinio tvarumo įstatymo VIII skyrių, kiek būtina, kad banko turto, teisių ir įsipareigojimų įsigyjantis asmuo, turintis kredito įstaigos licenciją, galėtų teikti su perimtu turtu, teisėmis ir įsipareigojimais susijusias finansines paslaugas, ir šio Įstatymo vienuoliktajame ir dvyliktajame skirsniuose nustatyta tvarka turi būti sprendžiamas klausimas dėl banko likvidavimo ar bankroto bylos jam kėlimo.
 Straipsnio dalies pakeitimai:
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
@@ -4550,6 +4550,14 @@ TAR pastaba. Įstatymo Nr. XIV-292 nuostatos taikomos 771 straipsnio 2 dalyje nu
 
 
 
+51. Kai šio straipsnio 2 dalyje nurodytus sandorius siekiama sudaryti Finansinio tvarumo įstatyme nustatytais pertvarkymo ar turto, teisių ir įsipareigojimų perleidimo tikslais, atsižvelgiant į būtiną proceso skubą, gali būti nukrypstama nuo šio straipsnio 3, 4 ir 5 dalyse nustatytų reikalavimų, jei pateiktos informacijos pakanka priežiūros institucijos sprendimui dėl sutikimo priimti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+ 
+
+
+
+
 6. Sprendimą dėl sutikimo sudaryti sandorį, galintį daryti įtaką sisteminei rizikai, išdavimo priežiūros institucija priima šio Įstatymo ir priežiūros institucijos teisės aktų nustatyta tvarka, įvertinusi gautus dokumentus ir duomenis ir atsižvelgdama į sisteminės rizikos lygio vertinimo kriterijus. Šie kriterijai apima šio straipsnio 2 dalyje nurodytuose sandoriuose dalyvaujančių subjektų ir finansinės grupės, kurios nariu yra sandoryje dalyvaujantis subjektas:
 
 
@@ -4580,6 +4588,14 @@ TAR pastaba. Įstatymo Nr. XIV-292 nuostatos taikomos 771 straipsnio 2 dalyje nu
 
 
 
+61. Jeigu sandorį, galintį daryti neigiamą įtaką sisteminei rizikai, planuojama vykdyti, kai nustatoma, kad bankas atitinka sąlygas, pagal kurias gali būti pripažintas nemokiu, arba kai pagal Finansinio tvarumo įstatymo 42 straipsnio 3 dalį nustatoma, kad bankas žlunga arba gali žlugti, priežiūros institucija taip pat įvertina sandorio nevykdymo galimas pasekmes Lietuvos finansų sistemos stabilumui ir viešajam interesui. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+ 
+
+
+
+
 7. Prašymas išduoti sutikimą sudaryti sandorį, galintį daryti įtaką sisteminei rizikai, išnagrinėjamas ir sprendimas priimamas ne vėliau kaip per 3 mėnesius nuo prašymo dėl sutikimo išdavimo gavimo dienos. 
 
 
@@ -4593,7 +4609,10 @@ TAR pastaba. Įstatymo Nr. XIV-292 nuostatos taikomos 771 straipsnio 2 dalyje nu
 
 
 
-2) priežiūros institucija nustato, kad šio straipsnio 2 dalyje nurodyti sandoriai gali daryti neigiamą įtaką sisteminės rizikos lygiui Lietuvos Respublikos kredito įstaigų sistemoje.
+2) priežiūros institucija nustato, kad šio straipsnio 2 dalyje nurodyti sandoriai gali daryti neigiamą įtaką sisteminės rizikos lygiui Lietuvos Respublikos kredito įstaigų sistemoje, išskyrus atvejus, kai tai yra pateisinama Finansinio tvarumo įstatyme nustatytais pertvarkymo ar turto, teisių ir įsipareigojimų perleidimo tikslais.
+Straipsnio punkto pakeitimai:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+ 
 
 
 
@@ -4906,7 +4925,10 @@ Nr. XIV-1334, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15399
 
 
 
-2. Banko bankroto bylą teismas iškelia tik pertvarkymo institucijos iniciatyva arba jeigu į teismą kreipiasi kiti įstatymuose nurodyti asmenys ir yra įvykdytos Finansinio tvarumo įstatymo 102 straipsnyje nustatytos sąlygos. Jeigu pertvarkymo institucija Finansinio tvarumo įstatymo 102 straipsnyje nustatyta tvarka teismui nepateikia informacijos apie jos ketinimus imtis pertvarkymo veiksmų, teismas dėl bankroto bylos bankui iškėlimo sprendžia tik gavęs priežiūros institucijos išvadą dėl banko nemokumo.
+2. Banko bankroto bylą teismas iškelia tik pertvarkymo institucijos iniciatyva arba jeigu į teismą kreipiasi kiti įstatymuose nurodyti asmenys ir yra įvykdytos Finansinio tvarumo įstatymo 102 straipsnyje nustatytos sąlygos. Jeigu pertvarkymo institucija Finansinio tvarumo įstatymo 102 straipsnyje nustatyta tvarka teismui nepateikia informacijos apie ketinimus imtis pertvarkymo veiksmų, teismas dėl bankroto bylos bankui iškėlimo sprendžia tik gavęs priežiūros institucijos išvadą dėl banko nemokumo. Teismas atsisako iškelti bankui bankroto bylą, jeigu pertvarkymo institucija informuoja teismą, kad ji ketina bankui taikyti Finansinio tvarumo įstatymo VIII skyriuje nurodytą turto, teisių ir įsipareigojimų perleidimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+ 
 
 
 Straipsnio pakeitimai:
@@ -4965,9 +4987,10 @@ Nr. XIII-2228, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10342
 
 
 
-6. Jeigu banko, kuriam iškelta bankroto byla, kreditorių pagal teismo patvirtintą sąrašą yra daugiau kaip 50, visas Juridinių asmenų nemokumo įstatyme nustatytas kreditorių susirinkimo teises, išskyrus teisę sudaryti ir keisti kreditorių komitetą, turi tik kreditorių komitetas. Kreditorių komitetas sudaromas iš ne daugiau kaip 15 narių. Vienas iš kreditorių komiteto narių turi būti valstybės įmonė „Indėlių ir investicijų draudimas“. 
+6. Jeigu banko, kuriam iškelta bankroto byla, kreditorių pagal teismo patvirtintą sąrašą yra daugiau kaip 50, visas Juridinių asmenų nemokumo įstatyme nustatytas kreditorių susirinkimo teises, išskyrus teisę sudaryti ir keisti kreditorių komitetą, turi tik kreditorių komitetas. Kreditorių komitetas sudaromas iš ne daugiau kaip 15 narių. Vienas iš kreditorių komiteto narių turi būti Lietuvos Respublikos Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2228, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10342
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
  
 
 
@@ -5155,7 +5178,11 @@ Nr. XIII-2228, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10342
 
 
 
-2. Antrąja eile tenkinami reikalavimai dėl apdraustųjų indėlių, taip pat valstybės įmonės „Indėlių ir investicijų draudimas“ reikalavimai dėl išlaidų, susijusių su Indėlių draudimo fondo lėšų panaudojimu pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą ir (ar) Finansinio tvarumo įstatymą.
+2. Antrąja eile tenkinami reikalavimai dėl apdraustųjų indėlių, Vyriausybės paskirto juridinio asmens, įgyvendinančio valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, reikalavimai dėl išlaidų, susijusių su Indėlių draudimo fondo lėšų panaudojimu pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą ir (arba) Finansinio tvarumo įstatymą, taip pat valstybės reikalavimai dėl pagal Finansinio tvarumo įstatymo VIII skyrių suteiktos valstybės pagalbos turto, teisių ir įsipareigojimų perleidimui finansuoti.
+TAR pastaba. 87 straipsnio 2 dalies nuostatos taikomos bankų pertvarkymo procedūroms, vykdomoms pagal Lietuvos Respublikos finansinio tvarumo įstatymą nuo 2024-01-01, ir bankroto procesams, pradėtiems nuo 2024-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
+ 
 
 
 
@@ -5448,8 +5475,6 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
- 
-
  
 Lietuvos Respublikos
 bankų įstatymo
@@ -5508,7 +5533,8 @@ Nr. XI-1883, 2011-12-22, Žin., 2011, Nr. 163-7772 (2011-12-31)
 Priedo pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
  
-part_31b8f6b10c3949bca45cbc896acfcbe8_end
+
+
 
 
 Pakeitimai:
