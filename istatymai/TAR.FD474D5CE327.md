@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FD474D5CE327"
 
 # Lietuvos Respublikos sodininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-40, i. k. 1031010ISTA0IX-1934
  
@@ -201,59 +201,95 @@ Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010IST
 6 straipsnis. Mėgėjiško sodo teritorija ir jos tvarkymo bendrieji reikalavimai
 
 
-1. Mėgėjų sodo teritoriją sudaro sodininkų ir kitų asmenų, įsigijusių mėgėjų sodo teritorijoje sodo sklypą, naudojama nuosavybės ar kitomis teisėmis valdomų sklypų ir bendrojo naudojimo žemė, kuri teisės aktais buvo skirta mėgėjų sodininkystei plėtoti (kolektyviniams sodams steigti) arba priskirta pagal vėliau patikslintą žemės valdos projektą ar teritorijų planavimo dokumentą. Mėgėjų sodo teritorijoje esanti bendrojo naudojimo žemė žemės nuomos mokesčiu ir žemės mokesčiu neapmokestinama. Bendrojo naudojimo žemę bendrijos gali nuomoti ar išsipirkti iš valstybės. Bendrijos bendrojo naudojimo žemėje esanti vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra bendrijų iniciatyva įstatymų ir Lietuvos Respublikos Vyriausybės nustatyta tvarka iš bendrijų išperkama arba perduodama savivaldybėms ir (ar) savivaldybių kontroliuojamoms įmonėms. Bendrijos bendrojo naudojimo žemėje esantys žemės sklypai su juose esančiais keliais (gatvėmis) ir (ar) kelių juostomis bendrijų iniciatyva (bendrijos susirinkimo sprendimu) Vyriausybės patvirtintose Valstybinės žemės sklypų perdavimo valdyti, naudoti ir disponuoti jais patikėjimo teise savivaldybėms taisyklėse nustatyta tvarka ir sąlygomis perduodami savivaldybėms. Bendrijų pirmininkai su savivaldybėmis pasirašo ketinimo protokolus dėl savivaldybėms perduotinų kelių (gatvių) užimamų žemės sklypų suformavimui, perdavimui ir perėmimui reikalingų parengiamųjų darbų atlikimo sąlygų. Kelių (gatvių) kadastriniai matavimai ir įregistravimas Nekilnojamojo turto registre finansuojamas Vyriausybės nustatyta tvarka. Kelius (gatves) savivaldybės perima pagal ketinimo protokole nustatytas sąlygas, laiką ir laikydamosi šios prioritetų eilės: 
-
-
-1) keliai (gatvės), kuriais (kuriomis) naudojasi ir ne mėgėjų sodo teritorijoje esančių žemės sklypų savininkai ir naudotojai (kai keliai (gatvės) atlieka tranzitinę funkciją);  
-
-
-
-
-2) keliai (gatvės), kuriais (kuriomis) naudojasi daugiau negu vienos bendrijos teritorijoje esančių žemės sklypų savininkai;
-
-
-
-
-3) keliai (gatvės), skirti aptarnauti bendrijas, kuriose ne mažiau kaip 20 procentų žemės sklypų savininkų yra gyvenamąją vietą šioje bendrijos teritorijoje deklaravę asmenys;
-
-
-
-
-4) keliai (gatvės), nepaminėti (nepaminėtos) šios dalies 1, 2 ir 3 punktuose. 
-
-
+1. Mėgėjų sodo teritoriją sudaro sodininkų ir kitų asmenų, įsigijusių mėgėjų sodo teritorijoje sodo sklypą, naudojama nuosavybės ar kitomis teisėmis valdomų sklypų ir bendrojo naudojimo žemė, kuri teisės aktais buvo skirta mėgėjų sodininkystei plėtoti (kolektyviniams sodams steigti) arba priskirta pagal vėliau patikslintą žemės valdos projektą ar teritorijų planavimo dokumentą. Mėgėjų sodo teritorijoje esanti bendrojo naudojimo žemė žemės nuomos mokesčiu ir žemės mokesčiu neapmokestinama. Bendrojo naudojimo žemę bendrijos gali nuomoti ar išsipirkti iš valstybės. Bendrijos bendrojo naudojimo žemėje esanti vandens tiekimo ir (arba) nuotekų tvarkymo infrastruktūra bendrijų iniciatyva įstatymų ir Lietuvos Respublikos Vyriausybės nustatyta tvarka iš bendrijų išperkama arba perduodama savivaldybėms ir (ar) savivaldybių valdomoms įmonėms. Bendrijos bendrojo naudojimo žemėje esantys žemės sklypai su juose esančiais keliais (gatvėmis) ir (ar) kelių juostomis bendrijų iniciatyva (bendrijos narių susirinkimo sprendimu) Vyriausybės patvirtintose Valstybinės žemės sklypų perdavimo valdyti, naudoti ir disponuoti jais patikėjimo teise savivaldybėms taisyklėse nustatyta tvarka ir sąlygomis gali būti perduodami savivaldybėms. 
 Straipsnio dalies pakeitimai:
-Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
-Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+ 
+
+
+
+
+2. Kai bendrijų bendrojo naudojimo žemėje esančių kelių (gatvių) kadastriniai matavimai nėra atlikti ir nėra tokiam inžineriniam statiniui suformuoto žemės sklypo, bendrijų iniciatyva (bendrijos narių susirinkimo sprendimu) kelio (gatvės) nuosavybės teisė gali būti registruojama Nekilnojamojo turto registre savivaldybei, tokiu atveju įregistravimą ir kelio (gatvės) kadastrinius matavimus savivaldybės biudžeto lėšomis atlieka savivaldybės administracija pagal savivaldybės tarybos nustatytus prioritetus
+Papildyta straipsnio dalimi:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+ 
+
+
+
+
+3. Kai bendrijų bendrojo naudojimo žemėje esančių kelių (gatvių) kadastriniai matavimai yra atlikti ir keliai (gatvės) įregistruoti (įregistruotos) bendrijos nuosavybės teise Nekilnojamojo turto registre, bendrijų iniciatyva (bendrijos narių susirinkimo sprendimu) ir savivaldybės sutikimu keliai (gatvės) perleidžiami (perleidžiamos) savivaldybei nuosavybės teise sudarant sandorį. Tokių sandorių sudarymo sąlygas nustato savivaldybės taryba
+Papildyta straipsnio dalimi:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+ 
+
+
+
+
+4. Kai bendrijų bendrojo naudojimo žemėje esančių kelių (gatvių) kadastriniai matavimai nėra atlikti ir nėra tokiam inžineriniam statiniui suformuoto žemės sklypo, bendrijų bendrojo naudojimo žemėje esančių kelių (gatvių) kadastriniams matavimams ir įregistravimui skyrus tikslinį finansavimą iš valstybės biudžeto lėšų arba savivaldybės biudžeto lėšų, bendrijų iniciatyva (bendrijos narių susirinkimo sprendimu) savivaldybės privalo atlikti bendrijų bendrojo naudojimo žemėje esančių kelių (gatvių) kadastrinius matavimus ir Nekilnojamojo turto registre įregistruoti savivaldybės nuosavybės teises, jeigu keliai (gatvės) atitinka šiuos reikalavimus:
+
+
+1) kelio (gatvės) plotis yra ne mažesnis kaip 4,5 m;
+
+
+
+
+2) kelias nesibaigia akligatviu, o jeigu baigiasi akligatviu, jame yra apsisukimo aikštelė, kurios forma ir matmenys nustatyti aplinkos ministro tvirtinamuose statybos techniniuose reglamentuose;
+
+
+
+
+3) ir jeigu kelias atitinka bent vieną iš šių papildomų reikalavimų:
+
+
+a) kerta bendrijos teritoriją;
+
+
+
+
+b) jame yra vietinės ar valstybinės reikšmės kelio sankryža arba savivaldybės nuosavybės teise bendrijos teritorijoje valdomo kelio sankryža;
+
+
+
+
+c) yra pagrindinis kitų bendrijos kelių atžvilgiu. 
+
+
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+ 
+
+
+
+
+5. Vadovaujantis Žemės įstatymu, mėgėjų sodo teritorija yra priskiriama žemės ūkio paskirties žemei. Bendrijų teritorijose ir 5 km atstumu aplink jas draudžiama auginti ir dauginti genetiškai modifikuotus organizmus, augalus ir jų sėklas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+ 
+
+
+
+
+6. Mėgėjų sodo teritorijoje žemės sklypai formuojami ir pertvarkomi pagal žemės valdos projektą ar teritorijų planavimo dokumentą Žemės įstatymo ar Teritorijų planavimo įstatymo nustatyta tvarka. Ženklinant sodininkų bendrijos teritorijoje esančio žemės sklypo, kuris ribojasi su bendrojo naudojimo žeme, ribas vietovėje, teisės aktų nustatyta tvarka kviečiamas dalyvauti sodininkų bendrijos pirmininkas ar bendrijos valdybos įgaliotas atstovas. 
+Straipsnio dalies pakeitimai:
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
 Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
 Nr. XII-1425, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20442
 Nr. XIII-2647, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20988
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
  
 
 
 
 
-2. Vadovaujantis Žemės įstatymu, mėgėjų sodo teritorija yra priskiriama žemės ūkio paskirties žemei. Bendrijų teritorijose ir 5 km atstumu aplink jas draudžiama auginti ir dauginti genetiškai modifikuotus organizmus, augalus ir jų sėklas. 
-Straipsnio dalies pakeitimai:
-Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
+7. Sodo sklype statiniai statomi laikantis šių reikalavimų:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
  
-
-
-
-
-3. Mėgėjų sodo teritorijoje žemės sklypai formuojami ir pertvarkomi pagal žemės valdos projektą ar teritorijų planavimo dokumentą Žemės įstatymo ar Teritorijų planavimo įstatymo nustatyta tvarka. Ženklinant sodininkų bendrijos teritorijoje esančio žemės sklypo, kuris ribojasi su bendrojo naudojimo žeme, ribas vietovėje, teisės aktų nustatyta tvarka kviečiamas dalyvauti sodininkų bendrijos pirmininkas ar bendrijos valdybos įgaliotas atstovas. 
-Straipsnio dalies pakeitimai:
-Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
-Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
-Nr. XII-1425, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20442
-Nr. XIII-2647, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20988
- 
-
-
-
-
-4. Sodo sklype statiniai statomi laikantis šių reikalavimų:
 
 
 1) pastatai turi būti statomi ne mažesniu kaip 3 m atstumu nuo sklypo ribos, inžineriniai statiniai (išskyrus tvoras) – ne mažesniu kaip 1 m atstumu nuo sklypo ribos, tačiau visais atvejais – kad jie nedarytų žalos kaimyninio sklypo naudotojui. Mažesniu atstumu statiniai gali būti statomi turint rašytinį kaimyninio sklypo savininko ar sodininkų bendrijos (kai sklypas ribojasi su bendrojo naudojimo teritorija) valdybos ar pirmininko sutikimą; 
@@ -276,7 +312,10 @@ Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA
 
 
 
-5. Medžius ir krūmus mėgėjų sodo teritorijoje sodininkai tvarko ir prižiūri Želdynų įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. Atskirti sodo sklypą nuo kaimyninio sodo sklypo gyvatvore per šių sklypų ribą galima turint rašytinį kaimyninio sodo sklypo savininko sutikimą, o kai sodo sklypas ribojasi su bendrojo naudojimo teritorija, – rašytinį sodininkų bendrijos valdybos ar pirmininko sutikimą. Sodo sklype medžiai ir krūmai sodinami ir auginami laikantis šių reikalavimų:
+8. Medžius ir krūmus mėgėjų sodo teritorijoje sodininkai tvarko ir prižiūri Želdynų įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. Atskirti sodo sklypą nuo kaimyninio sodo sklypo gyvatvore per šių sklypų ribą galima turint rašytinį kaimyninio sodo sklypo savininko sutikimą, o kai sodo sklypas ribojasi su bendrojo naudojimo teritorija, – rašytinį sodininkų bendrijos valdybos ar pirmininko sutikimą. Sodo sklype medžiai ir krūmai sodinami ir auginami laikantis šių reikalavimų:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+ 
 
 
 1) aukštaūgiai medžiai, aukštesni kaip 3 m, sodinami ne mažesniu kaip 3 m atstumu nuo sodo sklypo ribos; šiaurinėje sodo sklypo dalyje arčiau kaip 5 m nuo kaimyninio sodo sklypo ribos tokius medžius sodinti galima tik gavus rašytinį kaimyninio sodo sklypo savininko sutikimą;
@@ -306,18 +345,23 @@ Nr. XII-1425, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20442
 
 
 
-6. Sodo sklype Statybos įstatymo nustatyta tvarka galima statyti ar rekonstruoti vieną vienbutį gyvenamąjį namą ir jo priklausinius arba vieną sodo namą ir jo priklausinius nerengiant teritorijų planavimo dokumentų ar žemės valdos projektų, nekeičiant pagrindinės žemės naudojimo paskirties ir nepažeidžiant trečiųjų asmenų teisėtų interesų. 
+9. Sodo sklype Statybos įstatymo nustatyta tvarka galima statyti ar rekonstruoti vieną vienbutį gyvenamąjį namą ir jo priklausinius arba vieną sodo namą ir jo priklausinius nerengiant teritorijų planavimo dokumentų ar žemės valdos projektų, nekeičiant pagrindinės žemės naudojimo paskirties ir nepažeidžiant trečiųjų asmenų teisėtų interesų. 
 Straipsnio dalies pakeitimai:
 Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
 Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
 Nr. XII-845, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05003
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
  
 
 
 
 
-7. Mėgėjų sodo sklype statomi statiniai turi atitikti šiuos rodiklius:
+10. Mėgėjų sodo sklype statomi statiniai turi atitikti šiuos rodiklius:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+ 
 
 
 1) maksimalus sklypo užstatymo tankis ir statinių išdėstymas sklype turi atitikti Aplinkos ministerijos nustatytus reikalavimus vienbučiams gyvenamiesiems pastatams;
@@ -340,11 +384,13 @@ Nr. XII-1425, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20442
 
 
 
-8. Mėgėjų sodo teritorija ir keliai (gatvės) turi būti tvarkomi taip, kad prireikus į mėgėjų sodo teritoriją atlikti pareigų specialiosiomis transporto priemonėmis galėtų patekti priešgaisrinės apsaugos ir gelbėjimo, policijos, greitosios medicinos pagalbos ir kitų specialiųjų tarnybų darbuotojai. Mėgėjų sodo teritorijos bendrojo naudojimo žemėje inicijuojant naujų žemės sklypų, kurie bus naudojami keliams, formavimą, vidaus kelių (gatvių) minimalus plotis negali būti mažesnis kaip 4,5 m ir gali sutapti su važiuojamosios dalies pločiu. 
+11. Mėgėjų sodo teritorija ir keliai (gatvės) turi būti tvarkomi taip, kad prireikus į mėgėjų sodo teritoriją atlikti pareigų specialiosiomis transporto priemonėmis galėtų patekti priešgaisrinės apsaugos ir gelbėjimo, policijos, greitosios medicinos pagalbos ir kitų specialiųjų tarnybų darbuotojai. Mėgėjų sodo teritorijos bendrojo naudojimo žemėje inicijuojant naujų žemės sklypų, kurie bus naudojami keliams, formavimą, vidaus kelių (gatvių) minimalus plotis negali būti mažesnis kaip 4,5 m ir gali sutapti su važiuojamosios dalies pločiu. 
 Straipsnio dalies pakeitimai:
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
 Nr. XII-1425, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20442
 Nr. XIII-2647, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20988
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
  
 
 
@@ -372,9 +418,11 @@ Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA
 
 
 
-9. Mėgėjų sodo teritorijoje ūkinė komercinė veikla gali būti vykdoma tik laikantis teisės aktų, nedarant žalos asmenų turtui ir gyvenamajai aplinkai, nepažeidžiant sodininkų ir kitų asmenų gyvenimo ir poilsio sąlygų, mėgėjų sodininkystės veiklos ir sodo bendrijos vidaus tvarkos taisyklių. 
+12. Mėgėjų sodo teritorijoje ūkinė komercinė veikla gali būti vykdoma tik laikantis teisės aktų, nedarant žalos asmenų turtui ir gyvenamajai aplinkai, nepažeidžiant sodininkų ir kitų asmenų gyvenimo ir poilsio sąlygų, mėgėjų sodininkystės veiklos ir sodo bendrijos vidaus tvarkos taisyklių. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2647, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20988
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
  
 
 
@@ -895,11 +943,12 @@ Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA
 
 
 
-3. Bendrijos narių susirinkimo šaukimo iniciatoriai valdymo organui pateikia paraišką, pasirašytą ne mažiau kaip 1/10 sodininkų bendrijos narių arba revizijos komisijos (revizoriaus). Joje turi būti nurodyta: bendrijos narių susirinkimo sušaukimo priežastys ir tikslai, iniciatorių atstovas, pateikti pasiūlymai dėl susirinkimo darbotvarkės, vietos ir datos, siūlomų sprendimų projektai. Bendrijos narių susirinkimas turi įvykti ne vėliau kaip per vieną mėnesį nuo paraiškos gavimo dienos. Apie šaukiamą bendrijos narių susirinkimą jo organizatorius turi ne vėliau kaip prieš 14 dienų iki susirinkimo dienos informuoti bendrijos narius, paskelbdamas skelbimą skelbimų lentoje arba kitose gerai matomose vietose mėgėjų sodo teritorijoje, taip pat visus bendrijos narius informuodamas elektroninių ryšių priemonėmis, nurodyti susirinkimo organizavimo vietą ir laiką ir kartu paskelbti susirinkimo darbotvarkę bei siūlomų sprendimų projektus arba nurodyti vietą, kurioje ir kokiu laiku galima susipažinti su sprendimų projektais. Jeigu susirinkimo darbotvarkėje yra numatyta svarstyti: valdymo organo rinkimas ar atšaukimas, bendrijos įstatų pakeitimas, lėšų skolinimasis, bendrijos reorganizavimas, pertvarkymas ar likvidavimas, apie tokį šaukiamą bendrijos narių susirinkimą kiekvienam bendrijos nariui turi būti pranešama raštu arba pasirašytinai, arba elektroninių ryšių priemonėmis. Be to, pranešimai skelbiami skelbimų lentose ir sodininkų bendrijos interneto svetainėje (jeigu ją bendrija turi). 
+3. Bendrijos narių susirinkimo šaukimo iniciatoriai valdymo organui pateikia paraišką, pasirašytą ne mažiau kaip 1/10 sodininkų bendrijos narių arba revizijos komisijos (revizoriaus). Joje turi būti nurodyta: bendrijos narių susirinkimo sušaukimo priežastys ir tikslai, iniciatorių atstovas, pateikti pasiūlymai dėl susirinkimo darbotvarkės, vietos ir datos, siūlomų sprendimų projektai. Bendrijos narių susirinkimas turi įvykti ne vėliau kaip per vieną mėnesį nuo paraiškos gavimo dienos. Apie šaukiamą bendrijos narių susirinkimą jo organizatorius turi ne vėliau kaip prieš 14 dienų iki susirinkimo dienos informuoti bendrijos narius, paskelbdamas pranešimą skelbimų lentoje arba kitose gerai matomose vietose mėgėjų sodo teritorijoje, taip pat išsiųsdamas pranešimą bendrijos narių pateiktais elektroninio pašto adresais ir įkeldamas jį į bendrijos elektroninę informacinę sistemą, jeigu bendrija tokia naudojasi. Pranešime susirinkimo organizatorius turi nurodyti susirinkimo organizavimo vietą ir laiką, susirinkimo darbotvarkę ir siūlomų sprendimų projektus arba nurodyti vietą, kurioje ir kokiu laiku galima susipažinti su sprendimų projektais, kokiu būdu galima pateikti pasiūlymus ir klausimus.
 Straipsnio dalies pakeitimai:
 Nr. XI-2182, 2012-06-29, Žin., 2012, Nr. 82-4268 (2012-07-13), i. k. 1121010ISTA0XI-2182
 Nr. XII-1425, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20442
 Nr. XIII-2647, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20988
+Nr. XIV-2238, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22968
  
 
 
@@ -1241,7 +1290,10 @@ Nr. XIII-2647, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20988
 
 
 
-2) neatlygintinai perduoti bendrijos turtą nuosavybėn, pagal patikėjimo ar panaudos sutartį bendrijos nariui ar kitam asmeniui;
+2) neatlygintinai perduoti bendrijos turtą nuosavybėn, pagal patikėjimo ar panaudos sutartį bendrijos nariui ar kitam asmeniui, išskyrus kelius (gatves) ir bendrojo naudojimo žemės sklypus, kuriuose yra keliai (gatvės) ir (ar) kelių juostos ir kurie numatyti perduoti nuosavybės teise savivaldybėms;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+ 
 
 
 
@@ -1949,3 +2001,13 @@ Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 2, 6, 11, 15, 16
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2647, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20988
 Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 2, 6, 7, 8, 11, 12, 14, 15, 16, 17, 18, 19, 21, 22, 24, 27 straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1956, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09700
+Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 6 ir 20 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2238, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22968
+Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 16 straipsnio pakeitimo įstatymas
