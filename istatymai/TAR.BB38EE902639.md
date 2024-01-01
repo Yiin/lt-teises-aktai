@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/bb38ee90263911e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: TAR 2015-07-09, i. k. 2015-11209
- 
-TAR pastaba. Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas (2015 m. birželio 25 d. redakcija; TAR, 2015-07-09, Nr. 11209) pagal priėmimo tvarką prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2, 3 dalims, konstituciniams teisinės valstybės, atsakingo valdymo principams.
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-Nr. KT22-N1/2020, 2020-02-06, paskelbta TAR 2020-07-01, i. k. 2020-14609
-Dėl Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo atitikties Lietuvos Respublikos Konstitucijai
  
  
 
@@ -79,9 +74,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Inspektorius – viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros (toliau – Agentūra) įgaliotas darbuotojas, atliekantis nesąžiningų veiksmų kontrolės funkciją. 
+1. Inspektorius – Žemės ūkio agentūros prie Žemės ūkio ministerijos įgaliotas valstybės tarnautojas, atliekantis nesąžiningų veiksmų kontrolės funkciją.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+Nr. XIV-2063, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12745
  
 
 
@@ -214,7 +210,10 @@ Lietuvoje veikiančiose pieno perdirbimo įmonėse pagaminti pieno gaminiai, įt
 5 straipsnis. Reikalavimas pagrįsti žalio pieno pirkimo kainos mažinimą
 
 
-1. Tuo atveju, kai žalio pieno pirkėjas mažina žalio pieno pirkimo kainą, nustatytą žalio pieno pirkimo–pardavimo sutartyje, daugiau negu 3 procentiniais punktais, jis privalo pagrįsti šios kainos mažinimą ir šį pagrindimą pateikti Agentūrai. 
+1. Kai žalio pieno pirkėjas mažina žalio pieno pirkimo kainą, nustatytą žalio pieno pirkimo–pardavimo sutartyje, daugiau negu 3 procentiniais punktais, jis privalo pagrįsti šios kainos mažinimą ir šį pagrindimą pateikti Žemės ūkio agentūrai prie Žemės ūkio ministerijos (toliau – Agentūra).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2063, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12745
+ 
 
 
 
@@ -617,3 +616,8 @@ Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pien�
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT22-N1/2020, 2020-02-06, paskelbta TAR 2020-07-01, i. k. 2020-14609
 Dėl Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo atitikties Lietuvos Respublikos Konstitucijai
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2063, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12745
+Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2 ir 5 straipsnių pakeitimo įstatymas
