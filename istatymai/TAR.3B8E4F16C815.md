@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2025-01-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
  
@@ -370,7 +370,18 @@ KRIMINALINĖS ŽVALGYBOS SUBJEKTŲ TEISĖS IR PAREIGOS
 
 
 
-2. Jeigu turima informacijos apie kriminalinės žvalgybos objektus, kriminalinės žvalgybos subjektai turi teisę:
+2. Žvalgybos institucijos, turinčios kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas, kriminalinei žvalgybai pagamintus juridinio asmens registravimo ir skiriamuosius ženklus, dokumentus, dokumentų blankus, jų rekvizitus, valstybinius transporto priemonių registravimo numerių ženklus, taip pat asmens tapatybę patvirtinančius dokumentus, dokumentų blankus ir jų rekvizitus turi teisę naudoti žvalgybai ir kontržvalgybai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
+ 
+
+
+
+
+3. Jeigu turima informacijos apie kriminalinės žvalgybos objektus, kriminalinės žvalgybos subjektai turi teisę:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
+ 
 
 
 1) naudoti kriminalinės žvalgybos informacijos rinkimo būdus, kai pagal jų naudojimo pobūdį ir (ar) trukmę nereikalinga prokuroro ar teismo sankcija;
@@ -448,7 +459,9 @@ Nr. XII-1565, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05017
 
 
 
-3. Kriminalinės žvalgybos subjektai, kai yra šio įstatymo nustatyti kriminalinės žvalgybos tyrimo pagrindai ir yra gauta prokuroro ar teismo sankcija, be teisių, nurodytų šio straipsnio 1 ir 2 dalyse, taip pat turi teisę:
+4. Kriminalinės žvalgybos subjektai, kai yra šio įstatymo nustatyti kriminalinės žvalgybos tyrimo pagrindai ir yra gauta prokuroro ar teismo sankcija, be teisių, nurodytų šio straipsnio 1 ir 3 dalyse, taip pat turi teisę: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
 
 
 1) gauti informaciją iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos banko, finansų įmonių ir kredito įstaigų, taip pat iš kitų juridinių asmenų turimą informaciją, kuriai gauti reikalinga motyvuota teismo nutartis;
@@ -473,7 +486,9 @@ Nr. XII-1565, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05017
 
 
 
-4. Kriminalinės žvalgybos pagrindinės institucijos nustato šio straipsnio 2 ir 3 dalyse išvardytų teisių įgyvendinimo tvarką.
+5. Kriminalinės žvalgybos pagrindinės institucijos nustato šio straipsnio 3 ir 4 dalyse išvardytų teisių įgyvendinimo tvarką.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
  
 
 
@@ -529,7 +544,10 @@ Nr. XII-1565, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05017
 
 
 
-2. Kriminalinės žvalgybos subjektai, vykdydami kriminalinę žvalgybą, pagal kompetenciją, galimybes ir tikslingumą bendradarbiauja, teikia paramą vieni kitiems ir keičiasi kriminalinės žvalgybos informacija.
+2. Kriminalinės žvalgybos subjektai, vykdydami kriminalinę žvalgybą, pagal kompetenciją, galimybes ir tikslingumą bendradarbiauja, teikia paramą vieni kitiems ir keičiasi kriminalinės žvalgybos informacija. Kriminalinės žvalgybos subjektai Vyriausybės nustatyta tvarka taip pat teikia pagalbą žvalgybos institucijoms joms įgyvendinant Lietuvos Respublikos žvalgybos įstatymo 9 straipsnio 1 dalies 11 punkte nurodytas teises bei gamina žvalgybai ir kontržvalgybai reikalingus asmens tapatybės ir tarnybinės priklausomybės neatskleidžiančius dokumentus, dokumentų blankus ir jų rekvizitus, kitas priemones.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
+ 
 
 
 
@@ -1678,3 +1696,8 @@ Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 2 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1928, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08478
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 6 ir 7 straipsnių pakeitimo įstatymas
