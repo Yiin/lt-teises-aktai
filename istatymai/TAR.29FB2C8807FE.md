@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2022-12-22 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -1059,7 +1059,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-4. Iš įmonei skirtų lėšų sukurtas turtas laikomas dotacija, kai lėšos skiriamos infrastruktūrai įsigyti ar sukurti, taip pat įmonės valdomos infrastruktūros vertei padidinti, jeigu infrastruktūra, kuri būtų įsigyta, sukurta ar kurios vertė būtų padidinta, priskirtina turtui, kuris pagal įstatymus gali būti tik valstybės nuosavybė.
+4. Iš įmonei skirtų lėšų sukurtas turtas laikomas dotacija, kai lėšos skiriamos infrastruktūrai, informacinėms sistemoms, informacinių technologijų platformoms ir informacinių technologijų priemonėms įsigyti ar sukurti, taip pat įmonės valdomos infrastruktūros, informacinių sistemų, informacinių technologijų platformų ir informacinių technologijų priemonių vertei padidinti, jeigu infrastruktūra, informacinės sistemos, informacinių technologijų platformos ir informacinių technologijų priemonės, kurios būtų įsigytos, sukurtos ar kurių vertė būtų padidinta, priskirtinos turtui, kuris pagal įstatymus gali būti tik valstybės nuosavybė. Šioje dalyje vartojamos sąvokos yra suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2439, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26028
+ 
 
 
 
@@ -1323,7 +1326,10 @@ Nr. XIII-1454, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11766
 
 
 
-12. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos.
+12. Įmonė pelno įmoką į valstybės ar savivaldybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo sprendimo paskirstyti pelną priėmimo dienos, išskyrus atvejus, kai pelno įmokos suma mažinamos valstybės biudžeto lėšomis finansuotinos įmonės sąnaudos, kurias įmonė patyrė dėl neatlygintino objektų registravimo registrų informacinėse sistemose, dėl jose ir (ar) valstybės informacinėse sistemose tvarkomų duomenų teikimo ir (ar) kitų su duomenų tvarkymu susijusių veiksmų, vadovaudamasi Valstybės informacinių išteklių valdymo įstatymu. Kai valstybės biudžeto lėšomis finansuotinos įmonės sąnaudos mažinamos tik pelno įmokos sumos dalimi, įmonė likusią pelno įmokos sumos dalį į valstybės biudžetą turi pervesti ne vėliau kaip per vieną mėnesį nuo informacinės sistemos valdytojo ir (ar) duomenų valdytojo arba asignavimų valdytojo (jeigu informacinės sistemos valdytojas ir duomenų valdytojas patys nevaldo asignavimų) sprendimo sumažinti mokėtiną pelno įmoką kompensuojamųjų sąnaudų suma priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2439, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26028
+ 
 
 
 Straipsnio pakeitimai:
@@ -2316,3 +2322,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 15
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1632, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26098
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 10 straipsnio pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2439, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26028
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 13 ir 15 straipsnių pakeitimo įstatymas
