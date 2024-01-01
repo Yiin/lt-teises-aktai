@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2023-11-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -8322,7 +8322,10 @@ DALYVAVIMAS JURIDINIO ASMENS VALDYME
 210 straipsnis. Darbuotojų atstovų dalyvavimas juridinio asmens valdyme
 
 
-1. Šio kodekso ir Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo nustatytais atvejais ir tvarka darbuotojų atstovai turi teisę skirti dalį juridinio asmens kolegialaus valdymo ar priežiūros organo, kuris skiriamas ar renkamas pagal šių juridinių asmenų veiklą reglamentuojančius teisės aktus ar steigimo dokumentus, narių.
+1. Šio kodekso, Lietuvos Respublikos biudžetinių įstaigų įstatymo ir Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo nustatytais atvejais ir tvarka darbuotojų atstovai turi teisę skirti dalį juridinio asmens kolegialaus valdymo ar priežiūros organo, kuris skiriamas ar renkamas pagal šių juridinių asmenų veiklą reglamentuojančius teisės aktus ar steigimo dokumentus, narių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993
+ 
 
 
 
@@ -9692,7 +9695,10 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-2. Streikai draudžiami stichinės nelaimės zonose, regionuose, kuriuose nustatyta tvarka paskelbta mobilizacija, karo, nepaprastoji padėtis, iki bus likviduojami stichinės nelaimės padariniai, paskelbta demobilizacija ar atšaukta karo, nepaprastoji padėtis.
+2. Streiko ribojimus mobilizacijos, nepaprastosios, karo padėties ar ekstremaliosios situacijos metu nustato mobilizaciją, nepaprastąją, karo padėtį ar ekstremaliąją situaciją reglamentuojantys įstatymai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2373, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25627
+ 
 
 
 
@@ -10000,10 +10006,12 @@ Lokautas – darbdavio ar darbdavių organizacijos paskelbtas vieno darbdavio ar
 258 straipsnis. Lokauto draudimas
 
 
-Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės nelaimės zonose, taip pat regionuose, kuriuose nustatyta tvarka paskelbta mobilizacija, karo, nepaprastoji padėtis, taip pat viešojo administravimo įstaigose ir kitais įstatymų nustatytais atvejais.
+Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, ekstremaliosios situacijos zonose, taip pat regionuose, kuriuose nustatyta tvarka paskelbta mobilizacija, karo, nepaprastoji padėtis, taip pat viešojo administravimo įstaigose ir kitais įstatymų nustatytais atvejais.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2373, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25627
  
-
-
 
 
 
@@ -10349,3 +10357,13 @@ Lietuvos Respublikos darbo kodekso 210 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993
 Lietuvos Respublikos darbo kodekso 33, 147 ir 210 straipsnių pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2228, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22373
+Lietuvos Respublikos darbo kodekso 132 straipsnio pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2373, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25627
+Lietuvos Respublikos darbo kodekso 248 ir 258 straipsnių pakeitimo įstatymas
