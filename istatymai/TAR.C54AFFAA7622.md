@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -460,7 +460,18 @@ Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
 
 
 
-36. Tiekėjas – ūkio subjektas – fizinis asmuo, privatusis ar viešasis juridinis asmuo, kita organizacija ir jų padalinys arba tokių asmenų grupė, įskaitant laikinas ūkio subjektų asociacijas, kurie rinkoje siūlo atlikti darbus, tiekti prekes ar teikti paslaugas.
+36. Tiekėjas – ūkio subjektas – fizinis asmuo, privatusis ar viešasis juridinis asmuo, kita organizacija ir jų struktūrinis padalinys arba tokių asmenų grupė, įskaitant laikinas ūkio subjektų asociacijas, kurie rinkoje siūlo atlikti darbus, tiekti prekes ar teikti paslaugas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
+ 
+
+
+
+
+361. Trumpoji žemės ūkio ir maisto produktų tiekimo grandinė (toliau – trumpoji maisto tiekimo grandinė) – labai mažai, mažai ir vidutinei įmonei keliamus reikalavimus, nurodytus Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, atitinkančio žemės ūkio veiklos subjekto (arba jų grupės) ar jo narių pagamintų ir (arba) perdirbtų (įskaitant pirminį perdirbimą) žemės ūkio ir (arba) maisto produktų tiekimas rinkai tiesiogiai arba jungtinės veiklos sutarties pagrindu pasitelkiant ne daugiau kaip vieną tarpininką, kuris atitinka labai mažai ar mažai įmonei keliamus reikalavimus, nurodytus Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2441, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25934
+ 
 
 
 
@@ -552,11 +563,12 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos baudžiamajame kodekse, Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatyme, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme. 
+49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos baudžiamajame kodekse, Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatyme, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos juridinių asmenų nemokumo įstatyme, Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme, Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme, Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Nr. XIV-2441, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25934
  
 
 
@@ -628,7 +640,9 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 
-2. Kai perkančioji organizacija yra sudaryta iš atskirų padalinių, skaičiuojant numatomą pirkimo vertę atsižvelgiama į visų padalinių bendrą numatomą pirkimo vertę. Tačiau jei atskiras perkančiosios organizacijos padalinys savarankiškai atsako už savo pirkimą arba tam tikras to pirkimo kategorijas, gali būti skaičiuojama atskirai to padalinio numatoma pirkimo vertė. Atskiru padaliniu, savarankiškai atsakančiu už savo pirkimą arba tam tikras to pirkimo kategorijas, laikomas perkančiosios organizacijos padalinys, tenkinantis visas šias sąlygas:
+2. Kai perkančioji organizacija yra sudaryta iš atskirų struktūrinių padalinių, skaičiuojant numatomą pirkimo vertę atsižvelgiama į visų struktūrinių padalinių bendrą numatomą pirkimo vertę. Tačiau jei atskiras perkančiosios organizacijos struktūrinis padalinys savarankiškai atsako už savo pirkimą arba tam tikras to pirkimo kategorijas, gali būti skaičiuojama atskirai to struktūrinio padalinio numatoma pirkimo vertė. Atskiru struktūriniu padaliniu, savarankiškai atsakančiu už savo pirkimą arba tam tikras to pirkimo kategorijas, laikomas perkančiosios organizacijos struktūrinis padalinys, tenkinantis visas šias sąlygas: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
 
 
 1) turi įgaliojimus savarankiškai atlikti pirkimus ir priimti sprendimus dėl pirkimų;
@@ -1606,7 +1620,6 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 2) pateikti šio įstatymo 96 straipsnio 2 dalies 1 punkte nurodytoje ataskaitoje Viešųjų ir privačių interesų derinimo įstatymo 4 straipsnio 3 dalies 8 punkte nurodytų asmenų, kurie susiję su pirkimu, už kurį teikiama ataskaita, vardus, pavardes. 
-TAR pastaba. 2 dalies 2 punktas įsigalioja 2024-01-01.
 
 
 
@@ -1898,9 +1911,10 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 25 straipsnis. Tarptautinio pirkimo, supaprastinto pirkimo ir mažos vertės pirkimo atlikimas
 
 
-1. Tarptautinį ar supaprastintą pirkimą perkančioji organizacija atlieka šiame įstatyme nustatyta tvarka, išskyrus šio straipsnio 2, 3, 4 ir 5 dalyse nurodytus atvejus. 
+1. Tarptautinį ar supaprastintą pirkimą perkančioji organizacija atlieka šiame įstatyme nustatyta tvarka, išskyrus šio straipsnio 2, 3, 4 ir 5 dalyse nurodytus atvejus. Atliekant supaprastintus pirkimus, pažymų, patvirtinančių šio įstatymo 46 straipsnyje nurodytų tiekėjo pašalinimo pagrindų nebuvimą, nereikalaujama, kai tiekėjas pateikia Europos bendrąjį viešųjų pirkimų dokumentą. Pažymų, patvirtinančių tiekėjo pašalinimo pagrindų nebuvimą, perkančioji organizacija gali reikalauti iš tiekėjų tik turėdama pagrįstų abejonių dėl šių tiekėjų patikimumo.
 Straipsnio dalies pakeitimai:
 Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
@@ -1917,9 +1931,10 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 
-3. Atliekant Lietuvos Respublikos diplomatinių atstovybių užsienio valstybėse, Lietuvos Respublikos atstovybių prie tarptautinių organizacijų, konsulinių įstaigų ir specialiųjų misijų, taip pat kitų perkančiųjų organizacijų, kurios užsienyje įsigyja prekių, paslaugų ar darbų, skirtų užsienyje esantiems jų padaliniams, kariniams atstovams ar specialiesiems atašė arba skirtų užsienyje vykdomiems vystomojo bendradarbiavimo ir kitiems projektams, supaprastintus pirkimus, taikomos šio įstatymo 1–17 straipsnių, išskyrus 17 straipsnio 6 dalį, 26 straipsnio, 86 straipsnio 7 dalies ir VI skyriaus nuostatos ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintame tokių pirkimų tvarkos apraše nustatytos taisyklės. 
+3. Atliekant Lietuvos Respublikos diplomatinių atstovybių užsienio valstybėse, Lietuvos Respublikos atstovybių prie tarptautinių organizacijų, konsulinių įstaigų ir specialiųjų misijų, taip pat kitų perkančiųjų organizacijų, kurios užsienyje įsigyja prekių, paslaugų ar darbų, skirtų užsienyje esantiems jų struktūriniams padaliniams, Lietuvos Respublikos diplomatinėms atstovybėms užsienio valstybėse, Lietuvos Respublikos atstovybėms prie tarptautinių organizacijų, konsulinėms įstaigoms ir specialiosioms misijoms, kariniams atstovams ar specialiesiems atašė arba skirtų užsienyje vykdomiems vystomojo bendradarbiavimo ir kitiems projektams, supaprastintus pirkimus, taikomos šio įstatymo 1–17 straipsnių, išskyrus 17 straipsnio 6 dalį, 26 straipsnio, 86 straipsnio 7 dalies ir VI skyriaus nuostatos ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintame tokių pirkimų tvarkos apraše nustatytos taisyklės.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
  
 
 
@@ -1960,9 +1975,10 @@ PIRKIMO PLANAVIMAS IR PASIRENGIMAS PIRKIMUI
 26 straipsnis. Pirkimų planai 
 
 
-1. Perkančioji organizacija, išskyrus Lietuvos Respublikos diplomatines atstovybes užsienio valstybėse, Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, konsulines įstaigas ir specialiąsias misijas, taip pat kitas perkančiąsias organizacijas, kurios užsienyje įsigyja prekių, paslaugų ar darbų, skirtų užsienyje esantiems jų padaliniams, kariniams atstovams ar specialiesiems atašė, turi parengti ir patvirtinti planuojamų atlikti einamaisiais kalendoriniais metais pirkimų planus ir pagal Viešųjų pirkimų tarnybos nustatytus reikalavimus ir tvarką Centrinėje viešųjų pirkimų informacinėje sistemoje paskelbti planuojamų atlikti pirkimų suvestinę. Ši suvestinė turi būti paskelbta kiekvienais metais ne vėliau kaip iki kovo 15 dienos, o patikslinus planuojamų atlikti einamaisiais kalendoriniais metais pirkimų planus, – ne vėliau kaip per 5 darbo dienas. 
+1. Perkančioji organizacija, išskyrus Lietuvos Respublikos diplomatines atstovybes užsienio valstybėse, Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, konsulines įstaigas ir specialiąsias misijas, taip pat kitas perkančiąsias organizacijas, kurios užsienyje įsigyja prekių, paslaugų ar darbų, skirtų užsienyje esantiems jų struktūriniams padaliniams, Lietuvos Respublikos diplomatinėms atstovybėms užsienio valstybėse, Lietuvos Respublikos atstovybėms prie tarptautinių organizacijų, konsulinėms įstaigoms ir specialiosioms misijoms, kariniams atstovams ar specialiesiems atašė, turi parengti ir patvirtinti planuojamų atlikti einamaisiais kalendoriniais metais pirkimų planus ir pagal Viešųjų pirkimų tarnybos nustatytus reikalavimus ir tvarką Centrinėje viešųjų pirkimų informacinėje sistemoje paskelbti planuojamų atlikti pirkimų suvestinę. Ši suvestinė turi būti paskelbta kiekvienais metais ne vėliau kaip iki kovo 15 dienos, o patikslinus planuojamų atlikti einamaisiais kalendoriniais metais pirkimų planus, – ne vėliau kaip per 5 darbo dienas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
  
 
 
@@ -3395,18 +3411,17 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 
-2) tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovo, kito valdymo ar priežiūros organo nario ar kito asmens, turinčio (turinčių) teisę atstovauti tiekėjui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti tiekėjo finansinės apskaitos dokumentus (supaprastinto pirkimo atveju – tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, vadovo ar asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti tiekėjo finansinės apskaitos dokumentus), per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis ir šis asmuo turi neišnykusį ar nepanaikintą teistumą; 
-Straipsnio punkto pakeitimai:
-Nr. XIV-687, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25114
-Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+2) tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos struktūrinis padalinys, vadovo, kito valdymo ar priežiūros organo nario ar kito asmens, turinčio (turinčių) teisę atstovauti tiekėjui ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti tiekėjo finansinės apskaitos dokumentus (supaprastinto pirkimo atveju – tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos struktūrinis padalinys, vadovo ar dėl asmens (asmenų), turinčio (turinčių) teisę surašyti ir pasirašyti tiekėjo finansinės apskaitos dokumentus), per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis ir šis asmuo turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+3) tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos struktūrinis padalinys, per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis arba šio straipsnio 3 dalies atveju – galutinis administracinis sprendimas, jeigu toks sprendimas priimamas pagal tiekėjo šalies teisės aktų reikalavimus.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
  
-
-
-
-
-3) tiekėjo, kuris yra juridinis asmuo, kita organizacija ar jos padalinys, per pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis arba šio straipsnio 3 dalies atveju – galutinis administracinis sprendimas, jeigu toks sprendimas priimamas pagal tiekėjo šalies teisės aktų reikalavimus.
-
-
 
 
 
@@ -4413,7 +4428,10 @@ b) informaciją apie derybų ir konkurencinio dialogo su dalyviais eigą ir paž
 
 
 
-7. Susipažinti su visa su pirkimais susijusia informacija gali tik Komisijos nariai, Komisijos posėdžiuose dalyvaujantys stebėtojai ir perkančiosios organizacijos pakviesti ekspertai, Viešųjų pirkimų tarnybos atstovai, perkančiosios organizacijos vadovas, jo įgalioti asmenys, kiti asmenys ir institucijos, turinčios tokią teisę pagal jų veiklą reglamentuojančius Lietuvos Respublikos įstatymus, taip pat Europos Sąjungos, atskirų valstybių ar finansinių institucijų finansinę paramą administruojantys viešieji juridiniai asmenys. Kiti asmenys gali susipažinti tik su ta su pirkimais susijusia informacija, kurią atskleisti leidžia šis įstatymas. 
+7. Susipažinti su visa su pirkimais susijusia informacija gali tik Komisijos nariai, Komisijos posėdžiuose dalyvaujantys stebėtojai ir perkančiosios organizacijos pakviesti ekspertai, Viešųjų pirkimų tarnybos atstovai, perkančiosios organizacijos vadovas, jo įgalioti asmenys, kiti asmenys ir institucijos, turinčios tokią teisę pagal jų veiklą reglamentuojančius Lietuvos Respublikos įstatymus, taip pat Europos Sąjungos, atskirų valstybių ar finansinių institucijų finansinę paramą administruojantys ir (ar) audituojantys viešieji juridiniai asmenys, kuriems šie įgaliojimai suteikti Viešojo administravimo įstatymo nustatyta tvarka. Kiti asmenys gali susipažinti tik su ta su pirkimais susijusia informacija, kurią atskleisti leidžia šis įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
+ 
 
 
 Straipsnio pakeitimai:
@@ -5249,83 +5267,116 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 
-8) prekės, gaminamos ir (ar) naudojamos tik mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais, kai norimo rezultato negalima pasiekti naudojant tokios pačios paskirties gaminius; 
+8) tiesiogiai su moksliniais tyrimais ir eksperimentine plėtra susijusios prekės, paslaugos ar darbai, kai perkančioji organizacija yra aukštoji mokykla arba mokslinių tyrimų institutas; 
+Papildyta straipsnio punktu:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
+ 
+
+
+
+
+9) prekės, gaminamos ir (ar) naudojamos tik mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais, kai norimo rezultato negalima pasiekti naudojant kitus tokios pačios paskirties gaminius ir kai šios prekės yra tiesiogiai susijusios su moksliniais tyrimais ir eksperimentine plėtra;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
 
 
-9) valstybės iždo funkcijoms atlikti reikalingos finansinės, kredito reitingo nustatymo ir finansinės informacijos teikimo paslaugos;
+10) valstybės iždo funkcijoms atlikti reikalingos finansinės, kredito reitingo nustatymo ir finansinės informacijos teikimo paslaugos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
+ 
 
 
 
 
-10) keleivių pervežimo, nakvynės ir kitos su tarnybine komandiruote susijusios paslaugos, kai jos įsigyjamos iš tiesioginio paslaugos teikėjo;
+11) keleivių pervežimo, nakvynės ir kitos su tarnybine komandiruote susijusios paslaugos, kai jos įsigyjamos iš tiesioginio paslaugos teikėjo;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
+ 
 
 
 
 
-11) dalijimosi pačių naudotojų sukurta informacija su visuomene platformos paslaugos, kai jos įsigyjamos iš tiesioginio paslaugos teikėjo pagal jo nustatytą visiems paslaugų gavėjams taikomą vienodą paslaugų kainodarą ir paslaugų organizavimo būdus ir kai paslaugos teikėjas neprisiima atsakomybės už skelbiamos informacijos turinį; 
+12) dalijimosi pačių naudotojų sukurta informacija su visuomene platformos paslaugos, kai jos įsigyjamos iš tiesioginio paslaugos teikėjo pagal jo nustatytą visiems paslaugų gavėjams taikomą vienodą paslaugų kainodarą ir paslaugų organizavimo būdus ir kai paslaugos teikėjas neprisiima atsakomybės už skelbiamos informacijos turinį; 
 Papildyta straipsnio punktu:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
 
 
-12) prekės, paslaugos ar darbai, jeigu skelbiamoms deryboms visos pateiktos paraiškos ar pasiūlymai yra netinkami, o pirminės pirkimo sąlygos iš esmės nekeičiamos. Jeigu perkančioji organizacija ketina šiuo pagrindu taikyti neskelbiamų derybų būdą, ji turi visiems skelbiamų derybų kandidatams ir dalyviams pranešti, kad jie pateikė netinkamas paraiškas ar netinkamus pirkimo pasiūlymus;
+13) prekės, paslaugos ar darbai, jeigu skelbiamoms deryboms visos pateiktos paraiškos ar pasiūlymai yra netinkami, o pirminės pirkimo sąlygos iš esmės nekeičiamos. Jeigu perkančioji organizacija ketina šiuo pagrindu taikyti neskelbiamų derybų būdą, ji turi visiems skelbiamų derybų kandidatams ir dalyviams pranešti, kad jie pateikė netinkamas paraiškas ar netinkamus pirkimo pasiūlymus;
 Papildyta straipsnio punktu:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
 
 
-13) aukšto meistriškumo sporto treniruočių stovyklų, vykstančių kitoje valstybėje narėje ar trečiojoje šalyje, paslaugos ir kitos paslaugos sportininkams, kurie atstovauja Lietuvos Respublikai aukšto meistriškumo sporto varžybose, kai paslaugų teikėją parenka renginio organizatorius;
+14) aukšto meistriškumo sporto treniruočių stovyklų, vykstančių kitoje valstybėje narėje ar trečiojoje šalyje, paslaugos ir kitos paslaugos sportininkams, kurie atstovauja Lietuvos Respublikai aukšto meistriškumo sporto varžybose, kai paslaugų teikėją parenka renginio organizatorius;
 Papildyta straipsnio punktu:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
 
 
-14) prekės ir paslaugos, kai jos skirtos perkančiosios organizacijos, teikiančios socialines paslaugas, socialinių paslaugų gavėjų savarankiškumui ugdyti ir (ar) jų individualiems poreikiams tenkinti;
+15) prekės ir paslaugos, kai jos skirtos perkančiosios organizacijos, teikiančios socialines paslaugas, socialinių paslaugų gavėjų savarankiškumui ugdyti ir (ar) jų individualiems poreikiams tenkinti;
 Papildyta straipsnio punktu:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
 
 
-15) dalyvavimo parodose paslaugos, kai jos įsigyjamos iš parodos organizatoriaus pagal visiems paslaugų gavėjams taikomą vienodą paslaugų kainodarą;
+16) dalyvavimo parodose paslaugos, kai jos įsigyjamos iš parodos organizatoriaus pagal visiems paslaugų gavėjams taikomą vienodą paslaugų kainodarą;
 Papildyta straipsnio punktu:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
 
 
-16) mokslinių straipsnių skelbimo paslaugos, kai skelbiamų mokslinių straipsnių atranką vykdo tiesioginis paslaugos teikėjas;
+17) mokslinių straipsnių skelbimo paslaugos, kai skelbiamų mokslinių straipsnių atranką vykdo tiesioginis paslaugos teikėjas;
 Papildyta straipsnio punktu:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
 
 
-17) mokslinių tyrimų ir eksperimentinės plėtros paslaugoms teikti reikalingos prekės ir (ar) paslaugos, jeigu moksliniai tyrimai ir eksperimentinė plėtra finansuojami privataus juridinio asmens lėšomis ir gauta mokslinių tyrimų ir eksperimentinės plėtros nauda naudojama privataus juridinio asmens poreikiams tenkinti;
+18) mokslinių tyrimų ir eksperimentinės plėtros paslaugoms teikti reikalingos prekės ir (ar) paslaugos, jeigu moksliniai tyrimai ir eksperimentinė plėtra finansuojami privataus juridinio asmens lėšomis ir gauta mokslinių tyrimų ir eksperimentinės plėtros nauda naudojama privataus juridinio asmens poreikiams tenkinti;
 Papildyta straipsnio punktu:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
 
 
-18) maisto produktai, kai jie įsigyjami iš trumposios maisto tiekimo grandinės. 
+19) žemės ūkio ir maisto produktai, kai jie įsigyjami iš trumposios maisto tiekimo grandinės.
 Papildyta straipsnio punktu:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Straipsnio punkto pakeitimai:
+Nr. XIV-2441, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25934
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
@@ -5647,7 +5698,10 @@ PROJEKTO KONKURSAS
 
 
 
-3. Projekto konkurse turi teisę dalyvauti fiziniai, juridiniai asmenys, kitos organizacijos, jų padaliniai ar tokių asmenų grupė. Dalyvavimo projekto konkurse negalima riboti teritoriniu pagrindu ar kitaip diskriminuoti tiekėjų. 
+3. Projekto konkurse turi teisę dalyvauti fiziniai, juridiniai asmenys, kitos organizacijos, jų struktūriniai padaliniai ar tokių asmenų grupė. Dalyvavimo projekto konkurse negalima riboti teritoriniu pagrindu ar kitaip diskriminuoti tiekėjų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
+ 
 
 
 
@@ -6471,10 +6525,11 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 
-7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 5 000 Eur (penkių tūkstančių eurų) (be pridėtinės vertės mokesčio). Šio įstatymo 25 straipsnio 3 ir 4 dalyse nurodytuose aprašuose nustatytais atvejais gali būti leidžiama žodžiu sudaryti supaprastinto pirkimo sutartis, kurių vertė ne didesnė kaip 15 000 Eur (penkiolika tūkstančių eurų) (be pridėtinės vertės mokesčio). 
+7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 10 000 Eur (dešimt tūkstančių eurų) (be pridėtinės vertės mokesčio). Šio įstatymo 25 straipsnio 3 ir 4 dalyse nurodytuose aprašuose nustatytais atvejais, taip pat prekių ir paslaugų, skirtų moksliniams tyrimams ir (ar) eksperimentinei veiklai, pirkimo atvejais pirkimo sutartis žodžiu gali būti sudaroma, kai supaprastinto pirkimo sutarties vertė neviršija 15 000 Eur (penkiolikos tūkstančių eurų) (be pridėtinės vertės mokesčio).
 Straipsnio dalies pakeitimai:
 Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
  
 
 
@@ -7074,7 +7129,10 @@ Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 
 
 
-2. Viešųjų pirkimų tarnyba yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. Viešųjų pirkimų tarnybos administracijos struktūrą tvirtina Viešųjų pirkimų tarnybos direktorius. Viešųjų pirkimų tarnybos nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+2. Viešųjų pirkimų tarnyba yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
+ 
 
 
 
@@ -7185,12 +7243,18 @@ Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
 
 
 
-7. Viešųjų pirkimų tarnybos direktorius ir jo pavaduotojai negali eiti kitų renkamų ar skiriamų pareigų, dirbti verslo ar kitose privačiose įstaigose ar įmonėse, išskyrus pedagoginę ar kūrybinę veiklą.
+7. Viešųjų pirkimų tarnybos direktorius negali eiti kitų renkamų ar skiriamų pareigų, dirbti verslo ar kitose privačiose įstaigose ar įmonėse, išskyrus pedagoginę ar kūrybinę veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2002, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11577
+ 
 
 
 
 
-8. Viešųjų pirkimų tarnybos direktoriaus darbo užmokestis nustatomas pagal Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymą, materialinė atsakomybė ir kasmetinės atostogos – pagal Valstybės tarnybos įstatymą. Kitiems Viešųjų pirkimų tarnybos direktoriaus darbo santykiams ir socialinėms garantijoms taikomos Lietuvos Respublikos darbo kodekso nuostatos.
+8. Neteko galios nuo 2024-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2002, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11577
+ 
 
 
 
@@ -7597,7 +7661,9 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 
-4. Viešųjų pirkimų tarnybos prašymu šio įstatymo 92 straipsnio 3 dalyje nurodytos pirkimų priežiūrą atliekančios institucijos ir Lietuvos Respublikos Vyriausybės nutarimu įgalioti Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys viešieji juridiniai asmenys Viešųjų pirkimų tarnybai pateikia informaciją apie nustatytus šio įstatymo pažeidimus, sukčiavimo, korupcijos atliekant pirkimus atvejus ir kitą turimą informaciją, reikalingą Europos Komisijai teikiamai stebėsenos ataskaitai parengti. 
+4. Viešųjų pirkimų tarnybos prašymu šio įstatymo 92 straipsnio 3 dalyje nurodytos pirkimų priežiūrą atliekančios institucijos ir įgalioti Europos Sąjungos ar atskirų valstybių finansinę paramą administruojantys ir (ar) audituojantys viešieji juridiniai asmenys, kuriems šie įgaliojimai suteikti Viešojo administravimo įstatymo nustatyta tvarka, Viešųjų pirkimų tarnybai pateikia informaciją apie nustatytus šio įstatymo pažeidimus, sukčiavimo, korupcijos atliekant pirkimus atvejus ir kitą turimą informaciją, reikalingą Europos Komisijai teikiamai stebėsenos ataskaitai parengti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
  
 
 
@@ -7998,11 +8064,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
  
  
-
- 
-
  
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
@@ -8243,13 +8307,12 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 7 DALYJE NURODY
 Priedo pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
-part_732652a4a4104aeba7394a00c8571d93_end
+
+
+
 
  
  
-
- 
-
  
 Lietuvos Respublikos
 viešųjų pirkimų įstatymo
@@ -8348,14 +8411,13 @@ SOCIALINĖS IR KITOS SPECIALIOSIOS PASLAUGOS
 Priedo pakeitimai:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
  
-part_becdcc0b3dee450aa1af4ae42aed746c_end
+
+
+
 
  
  
  
-
- 
-
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -8482,14 +8544,13 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-part_2b02daa354ea423d99b27bf9a7b2e963_end
+
+
+
 
  
  
  
-
- 
-
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo 
@@ -8538,13 +8599,12 @@ Pasiūlymų, paraiškų, projekto konkursų planų ir projektų elektroninės ga
 
 
 
-part_7745c5d4dad845b399637b1583efceb5_end
+
+
+
 
  
  
-
- 
-
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -8613,12 +8673,11 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 17 STRAIPSNIO 2 DALIES 2 PUN
 
 
  
-part_2050762db9474ddcac2846c790f719b0_end
+
+
+
 
  
-
- 
-
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -8901,14 +8960,13 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 4 STRAIPSNIO 1 DALIES 1 PUNK
 
 
  
-part_c6aba8096a204fe0af9261f02436ca74_end
+
+
+
 
  
  
  
-
- 
-
  
 Lietuvos Respublikos 
 viešųjų pirkimų įstatymo
@@ -8960,7 +9018,8 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
-part_327026af453e46c48d521f775f9228dc_end
+
+
 
 
  
@@ -9286,3 +9345,23 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 8, 17, 19, 22, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1671, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27256
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymo Nr. XIII-327 4 straipsnio pakeitimo ir 2 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2002, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11577
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 94 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2, 5, 25, 26, 46, 58, 76, 93 ir 98 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 25, 71 ir 86 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2441, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25934
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2 ir 71 straipsnių pakeitimo įstatymas
