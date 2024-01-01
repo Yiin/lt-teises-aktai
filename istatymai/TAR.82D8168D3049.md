@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -419,6 +419,14 @@ BENDROSIOS NUOSTATOS
 
 
 
+531. Radijo ryšio perėmimo įrenginys – radijo ryšio įrenginys, skirtas arba pritaikytas prisijungti prie mobiliojo ryšio tinklo ir (ar) šio tinklo galinio įrenginio, sudarantis galimybę be faktinio elektroninių ryšių paslaugų naudotojo sutikimo klausytis mobiliojo ryšio tinklu perduodamos informacijos turinio, įrašyti, kaupti ar kitu būdu perimti ar kontroliuoti jį ir (ar) srauto duomenis ir (ar) su jais susipažinti ir (ar) sudarantis galimybę perimti galinio įrenginio valdymą be jo naudotojo sutikimo. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
+
+
+
+
 54. Radijo ryšio reglamentas – Tarptautinės telekomunikacijų sąjungos administracinis reglamentas, kuriuo papildomi Tarptautinės telekomunikacijų sąjungos įstatai bei Tarptautinės telekomunikacijų sąjungos konvencija ir kuriuo reglamentuojama telekomunikacijų naudojimo tvarka bei radijo ryšio valdymas.
 
 
@@ -669,7 +677,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-102. Šio įstatymo IX skyriuje vartojamos sąvokos, neapibrėžtos šiame įstatyme, suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme ir Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme.
+102. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
  
 
 
@@ -2746,7 +2756,10 @@ Elektroninių ryšių tinklų, kurie naudojami skaitmeninės televizijos paslaug
 
 
 
-3. Ūkio subjektas, kuris kreipiasi į Ryšių reguliavimo tarnybą, kad ši išnagrinėtų ginčą, įskaitant ir tuos atvejus, kai prašoma atnaujinti ginčo nagrinėjimą, Ryšių reguliavimo tarnybai už ginčo nagrinėjimą moka šio įstatymo 6 straipsnio 5 dalyje nustatyta tvarka ir sąlygomis nustatytą užmokestį. Ieškovo prašymu atsakovas sprendimu, kuriuo visiškai ar iš dalies yra tenkinami prašyme išnagrinėti ginčą išdėstyti reikalavimai, gali būti įpareigojamas atlyginti ieškovui jo sumokėtą užmokestį už ginčo nagrinėjimą, proporcingą patenkintų reikalavimų dydžiui. Jeigu konkretaus ginčo nagrinėjimo sąnaudos viršijo ieškovo sumokėtą užmokestį už ginčo nagrinėjimą, Ryšių reguliavimo tarnyba, priimdama sprendimą dėl ginčo, turi teisę, atsižvelgdama į tai, ar tenkinami ir kokia apimtimi tenkinami prašyme išnagrinėti ginčą išdėstyti reikalavimai, tai yra proporcingai patenkintų ir atmestų reikalavimų dydžiui, paskirstyti šalims ginčo nagrinėjimo sąnaudas. Atsisakiusi priimti prašymą išnagrinėti ginčą, Ryšių reguliavimo tarnyba grąžina ieškovui jo sumokėtą užmokestį už ginčo nagrinėjimą, o palikusi prašymą išnagrinėti ginčą nenagrinėtą ar nutraukusi ginčo nagrinėjimą, Ryšių reguliavimo tarnyba ieškovo sumokėto užmokesčio už ginčo nagrinėjimą negrąžina.
+3. Ūkio subjektas, kuris kreipiasi į Ryšių reguliavimo tarnybą, kad ši išnagrinėtų ginčą, įskaitant ir tuos atvejus, kai prašoma atnaujinti ginčo nagrinėjimą, Ryšių reguliavimo tarnybai už ginčo nagrinėjimą moka šio įstatymo 7 straipsnio 2 dalyje nustatyta tvarka ir sąlygomis nustatytą užmokestį. Ieškovo prašymu atsakovas sprendimu, kuriuo visiškai ar iš dalies yra tenkinami prašyme išnagrinėti ginčą išdėstyti reikalavimai, gali būti įpareigojamas atlyginti ieškovui jo sumokėtą užmokestį už ginčo nagrinėjimą, proporcingą patenkintų reikalavimų dydžiui. Jeigu konkretaus ginčo nagrinėjimo sąnaudos viršijo ieškovo sumokėtą užmokestį už ginčo nagrinėjimą, Ryšių reguliavimo tarnyba, priimdama sprendimą dėl ginčo, turi teisę, atsižvelgdama į tai, ar tenkinami ir kokia apimtimi tenkinami prašyme išnagrinėti ginčą išdėstyti reikalavimai, tai yra proporcingai patenkintų ir atmestų reikalavimų dydžiui, paskirstyti šalims ginčo nagrinėjimo sąnaudas. Atsisakiusi priimti prašymą išnagrinėti ginčą, Ryšių reguliavimo tarnyba grąžina ieškovui jo sumokėtą užmokestį už ginčo nagrinėjimą, o palikusi prašymą išnagrinėti ginčą nenagrinėtą ar nutraukusi ginčo nagrinėjimą, Ryšių reguliavimo tarnyba ieškovo sumokėto užmokesčio už ginčo nagrinėjimą negrąžina.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -2987,7 +3000,9 @@ TEISĖ VERSTIS ELEKTRONINIŲ RYŠIŲ VEIKLA
 
 
 
-8. Ūkio subjektai, kurie pageidauja verstis ar verčiasi elektroninių ryšių veikla, Ryšių reguliavimo tarnybai moka šio įstatymo 6 straipsnio 5 dalyje nustatyta tvarka ir sąlygomis nustatytus užmokesčius už teikiamas paslaugas ir atliekamus darbus.
+8. Ūkio subjektai, kurie pageidauja verstis ar verčiasi elektroninių ryšių veikla, Ryšių reguliavimo tarnybai moka šio įstatymo 7 straipsnio 2 dalyje nustatyta tvarka ir sąlygomis nustatytus užmokesčius už teikiamas paslaugas ir atliekamus darbus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
  
 
 
@@ -3006,7 +3021,10 @@ TEISĖ VERSTIS ELEKTRONINIŲ RYŠIŲ VEIKLA
 2. Ryšių reguliavimo tarnybos teisės aktų, nustatančių bendrąsias vertimosi elektroninių ryšių veikla sąlygas, nuostatos gali būti susijusios tik su:
 
 
-1) šio įstatymo 6 straipsnio 5 dalyje nustatyta tvarka ir sąlygomis nustatytų užmokesčių Ryšių reguliavimo tarnybai mokėjimu;
+1) šio įstatymo 7 straipsnio 2 dalyje nustatyta tvarka ir sąlygomis nustatytų užmokesčių Ryšių reguliavimo tarnybai mokėjimu;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -3114,7 +3132,6 @@ TEISĖ VERSTIS ELEKTRONINIŲ RYŠIŲ VEIKLA
 
 
 5. Ryšių reguliavimo tarnybos teisės aktų, nustatančių bendrąsias vertimosi elektroninių ryšių veikla sąlygas, nuostatos gali būti keičiamos objektyviai pagrįstais atvejais ir proporcingu būdu. Apie numatomus pakeitimus, išskyrus atvejus, kai jie nekeičia nustatyto teisinio reglamentavimo esmės ir jiems neprieštarauja suinteresuoti ūkio subjektai, turi būti viešai paskelbta šio įstatymo 11 straipsnyje ir Ryšių reguliavimo tarnybos patvirtintų konsultavimosi taisyklių nustatyta tvarka, turi būti nurodyti pakeitimų motyvai ir suteikta galimybė suinteresuotoms šalims, įskaitant paslaugų gavėjus ir vartotojus, per terminą, kuris, išskyrus šio įstatymo 11 straipsnio 5 dalyje nurodytus atvejus, turi būti ne trumpesnis kaip 30 kalendorinių dienų, pateikti savo pastabas dėl siūlomų pakeitimų.
- 
  
 
 
@@ -3240,6 +3257,14 @@ Kai viešųjų elektroninių ryšių paslaugų teikėjas, pagal šio įstatymo 3
 
 
 
+11. Asmuo, sudarantis viešųjų mobiliojo ryšio paslaugų teikimo sutartį, pagal kurią už viešąsias mobiliojo ryšio paslaugas yra apmokama iš anksto, privalo šių paslaugų teikėjui pateikti duomenis, reikalingus jo, kaip abonento, asmens tapatybei identifikuoti. Viešųjų mobiliojo ryšio paslaugų teikėjas neturi teisės teikti viešųjų mobiliojo ryšio paslaugų pagal šioje dalyje nurodytą sutartį, jeigu nėra identifikuota asmens tapatybė.
+Papildyta straipsnio dalimi:
+Nr. XIV-2386, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25336
+ 
+
+
+
+
 2. Viešųjų elektroninių ryšių paslaugų teikėjai privalo pagal Ryšių reguliavimo tarnybos patvirtintas Elektroninių ryšių paslaugų teikimo taisykles skelbti ir teikti informaciją apie teikiamas elektroninių ryšių paslaugas ir priemones, kurių imtasi siekiant užtikrinti lygiavertes galimybes neįgaliems galutiniams paslaugų gavėjams naudotis elektroninių ryšių paslaugomis. Ryšių reguliavimo tarnyba nustato skelbtinos ir teiktinos informacijos mastą, turinį, pateikimo ir (arba) skelbimo terminus, formą ir būdus.
 
 
@@ -3331,7 +3356,8 @@ Kai viešųjų elektroninių ryšių paslaugų teikėjas, pagal šio įstatymo 3
 
 
 16. Viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai, kurie Ryšių reguliavimo tarnybos jiems skirtus Nacionaliniame ryšio numeracijos plane nurodytus mobiliojo ryšio numerius suteikia galutiniams paslaugų gavėjams, privalo užtikrinti galutinių paslaugų gavėjų teisę viešąsias elektroninių ryšių paslaugas gauti galiniais įrenginiais su integruotais abonento identifikavimo moduliais ir teisę pakeisti viešųjų elektroninių ryšių paslaugų teikėją, pagal šio straipsnio 9 dalies nuostatas išlaikant ryšio numerį (kai toks yra), tačiau nekeičiant abonento identifikavimo modulio galiniame įrenginyje ir be fizinės prieigos prie galinio įrenginio.
-TAR pastaba. 40 straipsnio 16 dalis įsigalioja 2023 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2386, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25336
  
 
 
@@ -3400,12 +3426,18 @@ ELEKTRONINIŲ RYŠIŲ TINKLŲ TIESIMAS, PRIEŽIŪRA IR APSAUGA
 
 
 
-2. Elektroninių ryšių infrastruktūros iškėlimo darbus, atliekamus statant ar rekonstruojant pastatus, tiltus ir kitus statinius, suderinę su elektroninių ryšių infrastruktūros savininkais, turi atlikti statybų užsakovai savo lėšomis pagal elektroninių ryšių infrastruktūros savininkų nurodytas technines sąlygas, jeigu statybų užsakovai ir elektroninių ryšių infrastruktūros savininkai nesusitaria kitaip.
+2. Elektroninių ryšių infrastruktūros iškėlimo darbus, atliekamus statant ar rekonstruojant pastatus, tiltus ir kitus statinius, suderinę su elektroninių ryšių infrastruktūros savininkais, turi atlikti statybų užsakovai savo lėšomis pagal elektroninių ryšių infrastruktūros savininkų nurodytas, Ryšių reguliavimo tarnybos tvirtinamų elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklių reikalavimus atitinkančias technines sąlygas, jeigu statybų užsakovai ir elektroninių ryšių infrastruktūros savininkai nesusitaria kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
 
-3. Elektroninių ryšių infrastruktūros įrengimą, apsaugą, bendrą naudojimą ir priežiūrą reglamentuoja Teritorijų planavimo įstatymas, Lietuvos Respublikos statybos įstatymas, Lietuvos Respublikos saugomų teritorijų įstatymas, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas, Lietuvos Respublikos kelių įstatymas, Ryšių reguliavimo tarnybos tvirtinamos Elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklės ir kiti teisės aktai.
+3. Elektroninių ryšių infrastruktūros įrengimą, apsaugą, bendrą naudojimą ir priežiūrą reglamentuoja šis įstatymas, Teritorijų planavimo įstatymas, Statybos įstatymas, Lietuvos Respublikos saugomų teritorijų įstatymas, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas, Kelių įstatymas, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas, Ryšių reguliavimo tarnybos tvirtinamos elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -3431,7 +3463,10 @@ ELEKTRONINIŲ RYŠIŲ TINKLŲ TIESIMAS, PRIEŽIŪRA IR APSAUGA
 43 straipsnis. Kelio elementų naudojimas viešųjų elektroninių ryšių tinklų elektroninių ryšių infrastruktūrai įrengti
 
 
-1. Asmenys, suderinę su valstybės ar savivaldybių institucijomis, valstybės įmonėmis, turi teisę viešiesiems elektroninių ryšių tinklams tiesti ir šių tinklų elektroninių ryšių infrastruktūrai įrengti nemokamai naudotis valstybės ir savivaldybių kelių elementais.
+1. Asmenys, suderinę su valstybės ar savivaldybių institucijomis, valstybės ar savivaldybės valdomomis įmonėmis, turi teisę viešiesiems elektroninių ryšių tinklams tiesti ir šių tinklų elektroninių ryšių infrastruktūrai įrengti nemokamai naudotis valstybės ir savivaldybių kelių elementais, išskyrus ryšių bokštus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -3696,7 +3731,10 @@ ELEKTRONINIŲ RYŠIŲ TINKLŲ TIESIMAS, PRIEŽIŪRA IR APSAUGA
 
 
 
-46 straipsnis. Servitutas įrengti elektroninių ryšių infrastruktūrą
+46 straipsnis. Servituto įrengti elektroninių ryšių infrastruktūrą nustatymas teismo sprendimu 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 1. Jeigu viešųjų elektroninių ryšių tinklų teikėjas negali įgyvendinti teisės įrengti elektroninių ryšių tinklus nei juos bendrai įrengdamas su kitais asmenimis, nei bendrai naudodamas infrastruktūrą, nei kitomis šiame įstatyme nustatytomis priemonėmis, taip pat kai nepavyksta viešojo elektroninių ryšių tinklo teikėjo arba neviešojo elektroninių ryšių tinklo teikėjo derybos su nuosavybės, kurią galima būtų panaudoti rengiant konkrečią elektroninių ryšių infrastruktūrą, esančią viešojo elektroninių ryšių tinklo ar neviešojo elektroninių ryšių tinklo dalimi, savininkais dėl tokios nuosavybės panaudojimo, tas viešojo elektroninių ryšių tinklo teikėjas ar neviešojo elektroninių ryšių tinklo teikėjas turi teisę kreiptis į teismą, kad šis, jeigu yra galimybė ir jeigu tai nesudaro nepagrįstų sunkumų tos nuosavybės savininkui, suteiktų teisę naudoti valstybės, savivaldybės ar privačią nuosavybę elektroninių ryšių infrastruktūrai įrengti, nustatydamas servitutą atitinkamai nuosavybei. Teismo sprendimas dėl servituto nustatymo turi būti priimtas ne vėliau kaip per 6 mėnesius nuo ieškinio ar apeliacinio skundo, jeigu toks paduodamas, priėmimo dienos. 
@@ -3713,6 +3751,105 @@ ELEKTRONINIŲ RYŠIŲ TINKLŲ TIESIMAS, PRIEŽIŪRA IR APSAUGA
  
 
 
+
+
+
+
+461 straipsnis. Servituto įrengti elektroninių ryšių infrastruktūrą nustatymas sandoriu
+
+
+1. Jeigu elektroninių ryšių infrastruktūrai, esančiai viešojo elektroninių ryšių tinklo ar neviešojo elektroninių ryšių tinklo dalimi, įrengti, ja naudotis ir (ar) jai prižiūrėti yra būtina, siekiant užtikrinti elektroninių ryšių tinklų ir (ar) elektroninių ryšių paslaugų aprėptį ir (ar) kokybę tam tikroje teritorijoje, panaudoti valstybei ar savivaldybei arba valstybės valdomoms bendrovėms, savivaldybės valdomoms bendrovėms ar šių bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kaip tai suprantama pagal Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalį, viešosioms įstaigoms, kurių savininkė arba dalininkė, turinti daugiau kaip pusę balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė, nuosavybės teise priklausančius statinius ar jų dalis (toliau šiame straipsnyje – valstybės (savivaldybės) statinys), tokių statinių patikėtiniai (savininkai), gavę atitinkamo elektroninių ryšių tinklo teikėjo (toliau šiame straipsnyje – suinteresuotas teikėjas) motyvuotą prašymą, gali ne vėliau kaip per 4 mėnesius nuo tokio prašymo gavimo dienos sudaryti sandorį dėl servituto, suteikiančio teisę ant valstybės (savivaldybės) statinio ar po juo įrengti elektroninių ryšių infrastruktūrą, ja naudotis ir (ar) ją prižiūrėti (toliau šiame straipsnyje – servitutas), nustatymo suinteresuoto teikėjo naudai; arba turi būti pateiktas raštu valstybės (savivaldybės) statinio patikėtinio (savininko) motyvuotas atsisakymas sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai per 2 mėnesius nuo suinteresuoto teikėjo prašymo gavimo dienos. Atvejai, kai sandoris dėl servituto nustatymo suinteresuoto teikėjo naudai nesudaromas, nustatyti šio straipsnio 4 dalyje. Sandorio dėl servituto nustatymo suinteresuoto teikėjo naudai sudarymo ir registravimo Lietuvos Respublikos nekilnojamojo turto registre išlaidas, kitas servituto nustatymo ir elektroninių ryšių infrastruktūros įrengimo išlaidas apmoka suinteresuotas teikėjas.
+
+
+
+
+2. Valstybės (savivaldybės) statinio patikėtinis (savininkas), gavęs šio straipsnio 1 dalyje nurodytą suinteresuoto teikėjo prašymą, siekdamas įvertinti valstybės (savivaldybės) statinio tinkamumą elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti, gali:
+
+
+1) kreiptis į kompetentingą valstybės įstaigą, kuri pagal jai priskirtą valstybės veiklos sritį turi pateikti išvadą dėl valstybės (savivaldybės) statinio tinkamumo elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti;
+
+
+
+
+2) inicijuoti valstybės (savivaldybės) statinio ekspertizę (statinio ekspertizę atliekantį asmenį parenkant bendru valstybės (savivaldybės) statinio patikėtinio (savininko) ir suinteresuoto teikėjo sutarimu), kurios išlaidas apmoka suinteresuotas teikėjas.
+
+
+
+
+
+
+3. Sandoryje dėl servituto nustatymo suinteresuoto teikėjo naudai turi būti nustatyta suinteresuoto teikėjo pareiga mokėti valstybės (savivaldybės) statinio patikėtiniui (savininkui) periodinę kompensaciją už naudojimąsi servitutu. Periodinės kompensacijos už naudojimąsi servitutu dydis apskaičiuojamas susisiekimo ministro nustatyta tvarka, vadovaujantis skaidrumo, proporcingumo ir nediskriminavimo principais, atsižvelgiant į tai, kokiai valstybės (savivaldybės) statinio daliai nustatomas servitutas ir kokio dydžio suvaržymai tenka valstybės (savivaldybės) statinio patikėtiniui (savininkui). Kai valstybei ar savivaldybei nuosavybės teise priklausantį statinį patikėjimo teise valdo valstybės ar savivaldybės institucija, valstybės ar savivaldybės įstaiga, kompensacija už naudojimąsi servitutu mokama atitinkamai į valstybės ar savivaldybės biudžetą. Kai valstybei ar savivaldybei nuosavybės teise priklausantį statinį patikėjimo teise arba patikėjimo teise pagal patikėjimo sutartį valdo kiti subjektai, kompensacija už naudojimąsi servitutu pervedama į tų subjektų sąskaitas.
+
+
+
+
+4. Sandoris dėl servituto nustatymo suinteresuoto teikėjo naudai nesudaromas, kai:
+
+
+1) valstybės (savivaldybės) statinys nėra tinkamas elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti, tai yra, įrengus elektroninių ryšių infrastruktūrą, būtų pažeisti Statybos įstatymo ir jo įgyvendinamųjų teisės aktų reikalavimai;
+
+
+
+
+2) tokį sandorį sudaryti draudžia valstybės (savivaldybės) statinio patikėtinio (savininko) veiklą reglamentuojantys specialieji įstatymai.
+
+
+
+
+
+
+5. Šio straipsnio 1 dalyje nurodytas valstybės (savivaldybės) statinio patikėtinio (savininko) motyvuotas atsisakymas sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai gali būti pateikiamas, kai:
+
+
+1) valstybės (savivaldybės) statinys yra įtrauktas į Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 4 priede nurodytą Nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto sąrašą ir (ar) nurodytas nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane;
+
+
+
+
+2) valstybės (savivaldybės) statinys yra įtrauktas į Vyriausybės arba savivaldybės tarybos tvirtinamą viešame aukcione parduodamo valstybės (savivaldybės) nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašą;
+
+
+
+
+3) valstybės (savivaldybės) statinys yra ryšių (telekomunikacijų) tinklų paskirties inžinerinis statinys;
+
+
+
+
+4) valstybės (savivaldybės) statinys yra vėjo elektrinė;
+
+
+
+
+5) valstybės (savivaldybės) statinys yra karinėje teritorijoje;
+
+
+
+
+6) yra gauta neigiama kompetentingos valstybės įstaigos išvada dėl valstybės (savivaldybės) statinio tinkamumo elektroninių ryšių infrastruktūrai įrengti ir (ar) naudoti;
+
+
+
+
+7) valstybės (savivaldybės) statinys yra kultūros paveldo objekto teritorijoje arba kultūros paveldo vietovėje.
+
+
+
+
+
+
+6. Šio straipsnio 5 dalies 1–6 punktuose nurodytais atvejais valstybės (savivaldybės) statinio patikėtinis (savininkas) turi teisę sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai savo nuožiūra, įvertinęs konkretaus atvejo aplinkybes, jeigu kiti įstatymai nenustato kitaip. Šio straipsnio 5 dalies 7 punkte nurodytu atveju valstybės (savivaldybės) statinio patikėtinis (savininkas) turi teisę sudaryti sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai, jeigu tai nepažeidžia nekilnojamojo kultūros paveldo apsaugą reglamentuojančių teisės aktų reikalavimų ir yra gautas už kultūros paveldo apsaugą atsakingos institucijos pritarimas.
+
+
+
+
+7. Kai valstybės (savivaldybės) statinys yra perduotas laikinai neatlygintinai valdyti ir naudotis pagal panaudos sutartį, sandorį dėl servituto nustatymo suinteresuoto teikėjo naudai sudaro valstybės (savivaldybės) statinio patikėtinis (savininkas) ir nedelsdamas, ne vėliau kaip per 3 darbo dienas, apie tai raštu informuoja panaudos gavėją.
+TAR pastaba: 461 straipsnio nuostatos taikomos ir tais atvejais, kai valstybei ar savivaldybei nuosavybės teise priklausantys statiniai atitinkamiems juridiniams asmenims yra perduoti patikėjimo teise valdyti, naudoti ir disponuoti jais pagal patikėjimo sutartis, sudarytas iki 2023-10-26 įstatymo  Nr. XIV-2202 įsigaliojimo dienos (2024-01-01).
+
+
+Papildyta straipsniu:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -3919,10 +4056,17 @@ Elektromagnetinio suderinamumo reikalavimų taikymo sąlygas, aparatūros ir įr
 54 straipsnis. Aparatūros ir įrenginių naudojimas
 
 
-Draudžiama naudoti ir (arba) laikyti radijo ryšio slopinimo įrenginius, išskyrus valstybės institucijoms atliekant joms įstatymų pavestas valstybės gynybos, nacionalinio saugumo, viešosios tvarkos ir visuomenės saugumo užtikrinimo, nusikalstamų veikų ir kitų teisės pažeidimų prevencijos ir tyrimo, valstybės sienos apsaugos funkcijas ir radijo ryšio slopinimo įrenginių laikymą, kai šie įrenginiai yra tiekiami šias funkcijas atliekančioms valstybės institucijoms. Naudojant radijo ryšio slopinimo įrenginius šioje dalyje nurodytais tikslais, radijo ryšys negali būti trikdomas daugiau, negu yra būtina šiems tikslams pasiekti. Stacionarūs ir nepertraukiamai veikiantys radijo ryšio slopinimo įrenginiai šioje dalyje nurodytais tikslais gali būti naudojami tik su Ryšių reguliavimo tarnyba iš anksto raštu suderinus jų naudojimo sąlygas. 
+1. Draudžiama naudoti ir (arba) laikyti radijo ryšio slopinimo įrenginius, radijo ryšio perėmimo įrenginius, išskyrus valstybės institucijoms atliekant joms įstatymų pavestas valstybės gynybos, nacionalinio saugumo, viešosios tvarkos ir visuomenės saugumo užtikrinimo, nusikalstamų veikų prevencijos ir tyrimo, valstybės sienos apsaugos funkcijas ir radijo ryšio slopinimo įrenginių, radijo ryšio perėmimo įrenginių laikymą, kai šie įrenginiai yra tiekiami šias funkcijas atliekančioms valstybės institucijoms. Naudojant radijo ryšio slopinimo įrenginius ir (ar) radijo ryšio perėmimo įrenginius šioje dalyje nurodytais tikslais, radijo ryšys negali būti trikdomas daugiau, negu yra būtina šiems tikslams pasiekti. Stacionarūs ir nepertraukiamai veikiantys radijo ryšio slopinimo įrenginiai šioje dalyje nurodytais tikslais gali būti naudojami tik su Ryšių reguliavimo tarnyba iš anksto raštu suderinus jų naudojimo sąlygas.
+
+
+
+
+2. Asmenys turi teisę laikyti radijo ryšio stotis, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas Ryšių reguliavimo tarnybos leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), tik turėdami Ryšių reguliavimo tarnybos išduotą leidimą naudoti atitinkamus radijo dažnius (kanalus). Ši dalis netaikoma šio straipsnio 1 dalyje nurodytas funkcijas atliekančioms valstybės institucijoms, asmenims, kurie verčiasi elektroninių ryšių veikla, taip pat šioje dalyje nurodytų radijo ryšio stočių gamintojams, importuotojams ir asmenims, kurie tiekia rinkai (įskaitant tiekimą rinkai pirmą kartą) šioje dalyje nurodytas radijo ryšio stotis.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
  
-
-
 
 
 
@@ -4276,7 +4420,10 @@ ELEKTRONINIŲ RYŠIŲ IŠTEKLIŲ VALDYMAS
 
 
 
-11. Asmenys, kurie prašo skirti elektroninių ryšių išteklius, ir (arba) asmenys, kuriems jie yra skiriami, taip pat asmenys, kurie turi teisę naudoti elektroninių ryšių išteklius, Ryšių reguliavimo tarnybai moka šio įstatymo 6 straipsnio 5 dalyje nustatyta tvarka ir sąlygomis nustatytus užmokesčius, įskaitant užmokesčius už elektroninių ryšių išteklių naudojimo priežiūrą. 
+11. Asmenys, kurie prašo skirti elektroninių ryšių išteklius, ir (arba) asmenys, kuriems jie yra skiriami, taip pat asmenys, kurie turi teisę naudoti elektroninių ryšių išteklius, Ryšių reguliavimo tarnybai moka šio įstatymo 7 straipsnio 2 dalyje nustatyta tvarka ir sąlygomis nustatytus užmokesčius, įskaitant užmokesčius už elektroninių ryšių išteklių naudojimo priežiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -4295,7 +4442,10 @@ ELEKTRONINIŲ RYŠIŲ IŠTEKLIŲ VALDYMAS
 1. Nustatydama ir pratęsdama radijo dažnių (kanalų) naudojimo terminą, Ryšių reguliavimo tarnyba atsižvelgia į:
 
 
-1) šio įstatymo 63 straipsnio 3 dalyje nurodytus tikslus; 
+1) šio įstatymo 62 straipsnio 4 dalyje nurodytus tikslus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -4367,7 +4517,11 @@ f) poreikį užtikrinti, kad būtų išvengta reikšmingų elektroninių ryšių
 
 
 
-4. Ryšių reguliavimo tarnyba, atlikdama šio straipsnio 2 dalyje nurodytą vertinimą, turi teisę peržiūrėti ir (arba) pakeisti pagal šio įstatymo 59 straipsnio 11 ir (arba) 12 dalis taikytinus užmokesčius, kad būtų užtikrintas veiksmingas radijo dažnių (kanalų) valdymas ir efektyvus jų naudojimas, taip pat kad užmokesčiai už Ryšių reguliavimo tarnybos teikiamas paslaugas ir atliekamus darbus atitiktų šio įstatymo 6 straipsnio 5 dalyje nurodytus kriterijus.
+4. Ryšių reguliavimo tarnyba, atlikdama šio straipsnio 2 dalyje nurodytą vertinimą, turi teisę peržiūrėti ir (arba) pakeisti pagal šio įstatymo 59 straipsnio 11 ir (ar) 12 dalis taikytinus užmokesčius, kad būtų užtikrintas veiksmingas radijo dažnių (kanalų) valdymas ir efektyvus jų naudojimas, taip pat kad užmokesčiai už Ryšių reguliavimo tarnybos teikiamas paslaugas ir atliekamus darbus atitiktų šio įstatymo 7 straipsnio 2 dalyje nurodytus kriterijus.
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -5279,7 +5433,6 @@ Viešųjų elektroninių ryšių paslaugų teikėjai privalo užtikrinti, kad ab
 
 
 8. Saugojimo laikotarpiui, nurodytam šio straipsnio 3, 4, 5 dalyse ir šio įstatymo 96 straipsnio 3 dalyje, pasibaigus, sukaupti duomenys turi būti sunaikinti.
- 
 
 
 
@@ -5642,7 +5795,9 @@ Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
 
 
 
-6. Prašymas išduoti leidimą atlikti šio straipsnio 1 dalies 2 punkte nurodytus veiksmus pateikiamas Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas teismo, kuriam šis prašymas paduodamas, pavadinimas, Ryšių reguliavimo tarnybos įgalioto pareigūno vardas, pavardė, asmens kodas, tikrinamo fizinio asmens vardas ir pavardė (jeigu žinomi), planuojamų tikrinti asmens naudojamų ir (arba) gyvenamųjų patalpų, teritorijos adresas, transporto priemonių duomenys arba juridinio asmens pavadinimas, kodas, buveinė, tikrinamo juridinio asmens vadovo ar įgalioto atstovo vardas ir pavardė (jeigu žinomi), įtariamų pažeidimų pobūdis ir numatomi veiksmai, aplinkybės, svarbios numatomiems veiksmams, tai patvirtinantys įrodymai, kitų įrodymų buvimo vieta, Ryšių reguliavimo tarnybos įgalioto pareigūno prašymas, pridedamų dokumentų sąrašas, prašymo surašymo vieta ir data. Prašymą išnagrinėja Vilniaus apygardos administracinis teismas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Ryšių reguliavimo tarnybos įgaliotas pareigūnas nesutinka su Vilniaus apygardos administracinio teismo sprendimu atmesti prašymą, jis turi teisę per 7 kalendorines dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 kalendorines dienas. Ryšių reguliavimo tarnybos įgaliotas pareigūnas ir (arba) Ryšių reguliavimo tarnybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti atitinkamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. 
+6. Prašymas išduoti leidimą atlikti šio straipsnio 1 dalies 2 punkte nurodytus veiksmus paduodamas pirmosios instancijos administraciniam teismui. Prašyme turi būti nurodytas teismo, kuriam šis prašymas paduodamas, pavadinimas, Ryšių reguliavimo tarnybos įgalioto pareigūno vardas, pavardė, asmens kodas, tikrinamo fizinio asmens vardas ir pavardė (jeigu žinomi), planuojamų tikrinti asmens naudojamų ir (arba) gyvenamųjų patalpų, teritorijos adresas, transporto priemonių duomenys arba juridinio asmens pavadinimas, kodas, buveinė, tikrinamo juridinio asmens vadovo ar įgalioto atstovo vardas ir pavardė (jeigu žinomi), įtariamų pažeidimų pobūdis ir numatomi veiksmai, aplinkybės, svarbios numatomiems veiksmams, tai patvirtinantys įrodymai, kitų įrodymų buvimo vieta, Ryšių reguliavimo tarnybos įgalioto pareigūno prašymas, pridedamų dokumentų sąrašas, prašymo surašymo vieta ir data. Teismas prašymą išnagrinėja ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo padavimo momento. Jeigu Ryšių reguliavimo tarnybos įgaliotas pareigūnas nesutinka su pirmosios instancijos administracinio teismo sprendimu atmesti prašymą, jis turi teisę per 7 dienas nuo šios nutarties priėmimo apskųsti ją Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl teismo nutarties ne vėliau kaip per 7 dienas. Ryšių reguliavimo tarnybos įgaliotas pareigūnas ir (arba) Ryšių reguliavimo tarnybos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti atitinkamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1586, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25145
  
 
 
@@ -6151,9 +6306,10 @@ ELEKTRONINIŲ RYŠIŲ SRAUTŲ PRIEŽIŪRA IR STEBĖSENA BEI SPECIALIOS RYŠIO U�
 96 straipsnis. Elektroninių ryšių srautų priežiūra ir stebėsena
 
 
-1. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, privalo įstatymų nustatyta tvarka turimą ir nusikalstamų veikų prevencijai, tyrimui, atskleidimui ar baudžiamojo persekiojimo už jas vykdymui reikalingą informaciją pateikti kriminalinės žvalgybos pagrindinėms institucijoms, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, įstatymų nustatyta tvarka teikia žvalgybos institucijoms informaciją, reikalingą prognozuoti, nustatyti ar šalinti grėsmes, galinčias turėti reikšmės valstybės suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ar ekonominei galiai. Šią informaciją ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, neatlygintinai teikia žvalgybos, kriminalinės žvalgybos pagrindinėms institucijoms, ikiteisminio tyrimo įstaigoms pagal jų paklausimus elektroniniu būdu ir nedelsdami. Visi asmenys, dalyvaujantys keičiantis duomenimis, Vyriausybės nustatyta tvarka ir sąlygomis imasi būtinų priemonių duomenų saugumui užtikrinti, o tam reikalinga papildoma įranga įsigyjama ir išlaikoma valstybės lėšomis. Ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, Vyriausybės nustatyta tvarka bei sąlygomis šiam tikslui skirtomis valstybės biudžeto lėšomis kompensuojamos išlaidos, kurios pagrįstos šios įrangos išlaikymo sąnaudomis. Jeigu atliekant ikiteisminį tyrimą reikia patvirtinti ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, informacijos tikslumą, ikiteisminio tyrimo pareigūnas tiesiogiai raštu kreipiasi į ūkio subjektą ir gauna atsakymą raštu. 
+1. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, privalo įstatymų nustatyta tvarka turimą ir nusikalstamų veikų prevencijai, tyrimui, atskleidimui ar baudžiamojo persekiojimo už jas vykdymui reikalingą informaciją pateikti kriminalinės žvalgybos pagrindinėms institucijoms, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, įstatymų nustatyta tvarka teikia žvalgybos institucijoms informaciją, reikalingą prognozuoti, nustatyti ar šalinti grėsmes, galinčias turėti reikšmės valstybės suverenitetui, teritorijos neliečiamybei ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ar ekonominei galiai. Šią informaciją ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, neatlygintinai teikia žvalgybos, kriminalinės žvalgybos pagrindinėms institucijoms, ikiteisminio tyrimo įstaigoms pagal jų paklausimus elektroniniu būdu ir nedelsdami. Visi asmenys, dalyvaujantys keičiantis duomenimis, Vyriausybės nustatyta tvarka ir sąlygomis imasi būtinų priemonių duomenų saugumui užtikrinti, o tam reikalingą įrangą įsigyja ir išlaiko Lietuvos Respublikos valstybės saugumo departamentas. Ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, Vyriausybės nustatyta tvarka bei sąlygomis šiam tikslui skirtomis valstybės biudžeto lėšomis kompensuojamos išlaidos, kurios pagrįstos šios įrangos išlaikymo sąnaudomis. Jeigu atliekant ikiteisminį tyrimą reikia patvirtinti ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, informacijos tikslumą, ikiteisminio tyrimo pareigūnas tiesiogiai raštu kreipiasi į ūkio subjektą ir gauna atsakymą raštu. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
  
 
 
@@ -6179,9 +6335,10 @@ Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
 
 
 
-4. Kai yra motyvuota teismo nutartis arba kitas įstatymuose numatytas teisinis pagrindas, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, privalo sudaryti techninę galimybę kriminalinės žvalgybos pagrindinėms institucijoms, žvalgybos institucijoms Lietuvos Respublikos kriminalinės žvalgybos įstatymo ir Lietuvos Respublikos žvalgybos įstatymo nustatyta tvarka, o ikiteisminio tyrimo įstaigoms – Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka kontroliuoti elektroninių ryšių tinklais perduodamos informacijos turinį. Tam reikalinga įranga įsigyjama ir išlaikoma valstybės biudžeto lėšomis. Ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, Vyriausybės nustatyta tvarka ir sąlygomis šiam tikslui skirtomis valstybės biudžeto lėšomis kompensuojamos išlaidos, kurios pagrįstos šios įrangos išlaikymo sąnaudomis. 
+4. Kai yra motyvuota teismo nutartis arba kitas įstatymuose numatytas teisinis pagrindas, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, privalo sudaryti techninę galimybę kriminalinės žvalgybos pagrindinėms institucijoms, žvalgybos institucijoms Lietuvos Respublikos kriminalinės žvalgybos įstatymo ir Lietuvos Respublikos žvalgybos įstatymo nustatyta tvarka, o ikiteisminio tyrimo įstaigoms – Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka kontroliuoti elektroninių ryšių tinklais perduodamos informacijos turinį. Tam reikalingą įrangą įsigyja ir išlaiko Valstybės saugumo departamentas. Ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (arba) elektroninių ryšių paslaugas, Vyriausybės nustatyta tvarka ir sąlygomis šiam tikslui skirtomis valstybės biudžeto lėšomis kompensuojamos išlaidos, kurios pagrįstos šios įrangos išlaikymo sąnaudomis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
  
 
 
@@ -6292,8 +6449,6 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
-
- 
 
  
 Lietuvos Respublikos
@@ -6518,10 +6673,9 @@ DUOMENŲ, KURIE TURI BŪTI SAUGOMI, KATEGORIJŲ SĄRAŠAS
 
 
 
-part_ff04340c68f943b285fc253b3a7a4e11_end
 
 
- 
+
 
  
 Lietuvos Respublikos
@@ -6557,7 +6711,10 @@ elektroninių ryšių įstatymo
 
 
 
-6. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 531/2012 dėl tarptinklinio ryšio per viešuosius judriojo ryšio tinklus Europos Sąjungoje su paskutiniais pakeitimais, padarytais 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/920.
+6. Neteko galios nuo 2024-01-01
+Punkto naikinimas:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+ 
 
 
 
@@ -6608,10 +6765,18 @@ elektroninių ryšių įstatymo
 
 
 16. 2020 m. liepos 20 d. Europos Komisijos įgyvendinimo reglamentas (ES) 2020/1070, kuriuo pagal Europos Parlamento ir Tarybos direktyvos (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas, 57 straipsnio 2 dalį nustatomos mažos aprėpties belaidžio ryšio prieigos taškų charakteristikos.
+
+
+
+
+17. 2022 m. balandžio 6 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/612 dėl tarptinklinio ryšio per viešuosius judriojo ryšio tinklus Europos Sąjungoje (nauja redakcija).
+Papildyta straipsnio dalimi:
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
  
 
 
-part_e67b744f90d04933a3f0cca716487efb_end
+
+
 
 
  
@@ -6775,3 +6940,23 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 68 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-635, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24230
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1586, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25145
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 84 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2139, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14033
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 papildymo 98 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2202, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21642
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 34, 35, 36, 42, 43, 46, 54, 59, 60, 96 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2386, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25336
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 40 ir 78 straipsnių pakeitimo įstatymas
