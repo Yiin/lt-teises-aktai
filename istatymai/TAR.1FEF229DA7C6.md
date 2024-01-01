@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2022-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -354,7 +354,10 @@ Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 3 straipsnis. Nacionalinis dokumentų fondas
 
 
-1. Nacionalinį dokumentų fondą sudaro valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų veiklos dokumentai, Lietuvoje įvairiais istorijos laikotarpiais veikusių valstybinių įstaigų ir įmonių veiklos dokumentai, taip pat valstybės archyvuose saugomi dokumentai.
+1. Nacionalinį dokumentų fondą sudaro valstybės ir savivaldybių institucijų, įstaigų ir įmonių, valstybės įgaliotų asmenų veiklos dokumentai, Lietuvoje įvairiais istorijos laikotarpiais veikusių valstybinių įstaigų ir įmonių veiklos dokumentai, taip pat valstybės archyvuose saugomi dokumentai ir valstybės dokumentiniam paveldui reikšmingi valstybės registrų, žinybinių registrų ir valstybės informacinių sistemų duomenys. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
+ 
 
 
 
@@ -460,7 +463,10 @@ Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 
 
 
-7) tvirtina Lietuvos vyriausiojo archyvaro tarnybos nuostatus, teisės aktų nustatyta tvarka nustato didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių;
+7) tvirtina Lietuvos vyriausiojo archyvaro tarnybos nuostatus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1987, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11558
+ 
 
 
 
@@ -478,7 +484,10 @@ Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
 
 
 
-10) tvirtina Lietuvos vyriausiojo archyvaro tarnybos administracijos struktūrą arba paveda ją tvirtinti Lietuvos vyriausiajam archyvarui;
+10) Neteko galios nuo 2024-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1987, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11558
+ 
 
 
 
@@ -596,7 +605,10 @@ Nr. XIII-3110, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15320
 
 
 
-2) kaupia, saugo, tiria ir populiarina Nacionalinio dokumentų fondo nuolat saugomus dokumentus;
+2) kaupia, saugo, tiria ir populiarina Nacionalinio dokumentų fondo nuolat saugomus dokumentus ir valstybės dokumentiniam paveldui reikšmingus valstybės registrų, žinybinių registrų ir valstybės informacinių sistemų duomenis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
+ 
 
 
 
@@ -665,7 +677,9 @@ Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 
 
-5. Archyvų taryba – ekspertinė institucija, patarianti kultūros ministro kompetencijai priskirtais šio Įstatymo įgyvendinimo klausimais. Archyvų tarybą sudaro valstybės archyvų deleguoti ir kultūros ministro paskirti asmenys. Archyvų tarybos personalinę sudėtį ir jos veiklos nuostatus tvirtina kultūros ministras. Archyvų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. Archyvų taryba kultūros ministrui pataria dėl:
+5. Archyvų taryba – ekspertinė institucija, patarianti kultūros ministro kompetencijai priskirtais šio Įstatymo įgyvendinimo klausimais. Archyvų tarybą sudaro valstybės archyvų deleguoti ir kultūros ministro paskirti asmenys. Archyvų tarybos personalinę sudėtį ir jos veiklos nuostatus tvirtina kultūros ministras. Archyvų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka. Archyvų taryba kultūros ministrui pataria dėl: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1987, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11558
 
 
 1) valstybės dokumentų ir archyvų politikos formavimo ir valstybinio administravimo;
@@ -733,9 +747,10 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 7 straipsnis. Valstybės archyvai 
 
 
-1. Valstybės archyvai yra biudžetinės įstaigos, pavaldžios ir atskaitingos Lietuvos vyriausiajam archyvarui. Valstybės archyvus įstatymų nustatyta tvarka steigia, valstybės archyvų nuostatus tvirtina Vyriausybė, administracijų struktūras ir konkretų valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių nustato Lietuvos vyriausiasis archyvaras, neviršydamas Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičiaus Lietuvos vyriausiojo archyvaro tarnybai pavaldžiose įstaigose. Valstybės archyvų direktorius į pareigas skiria ir iš jų atleidžia Lietuvos vyriausiasis archyvaras įstatymų nustatyta tvarka. 
+1. Valstybės archyvai yra biudžetinės įstaigos, pavaldžios ir atskaitingos Lietuvos vyriausiajam archyvarui. Valstybės archyvus įstatymų nustatyta tvarka steigia ir valstybės archyvų nuostatus tvirtina Vyriausybė. Valstybės archyvų direktorius į pareigas skiria ir iš jų atleidžia Lietuvos vyriausiasis archyvaras įstatymų nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+Nr. XIV-1987, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11558
  
 
 
@@ -1043,23 +1058,55 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 15 straipsnis. Dokumentų perdavimas valstybės archyvams saugoti
 
 
-1. Nuolat saugomus dokumentus valstybės archyvams perduoda Lietuvos Respublikos Seimas, Respublikos Prezidentas, jų įsteigtos institucijos ir įstaigos, Vyriausybė, teismai, Lietuvos bankas, ministerijos ir Vyriausybės įstaigos, kariuomenės, teisėsaugos institucijos ir įstaigos, kiti centriniai ir teritoriniai valstybinio administravimo ir savivaldybių administravimo subjektai, viešąsias paslaugas teikiančios įstaigos ir įmonės, kurių veikloje susidaro nuolat saugomų dokumentų. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių, perduodančių dokumentus valstybės archyvams, sąrašą tvirtina Lietuvos vyriausiasis archyvaras. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
- 
+1. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės valstybės archyvams perduoda:
+
+
+1) nuolat saugomus dokumentus;
 
 
 
 
-2. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės nuolat saugomus dokumentus gali saugoti iki 20 metų nuo jų įtraukimo į apskaitą. Per šį laikotarpį institucijos, įstaigos ar įmonės dokumentus turi perduoti nuolat saugoti valstybės archyvams.
+2) valstybės dokumentiniam paveldui reikšmingus valstybės registrų, žinybinių registrų ir valstybės informacinių sistemų duomenis.
 
 
 
 
-3. Lietuvos vyriausiasis archyvaras gali:
 
 
-1) pratęsti nuolat saugomų dokumentų saugojimo valstybės ar savivaldybės institucijoje, įstaigoje ar įmonėje laiką, kai tam yra pagrįstų motyvų, tačiau ne ilgiau kaip iki 40 metų;
+2. Lietuvos vyriausiasis archyvaras tvirtina valstybės ir savivaldybių institucijų, įstaigų ir įmonių, perduodančių nuolat saugomus dokumentus valstybės archyvams, sąrašą ir valstybės registrų, žinybinių registrų ir valstybės informacinių sistemų, kurių duomenys reikšmingi valstybės dokumentiniam paveldui, ir šiuos duomenis perduodančių valstybės registrų, žinybinių registrų ir valstybės informacinių sistemų valdytojų ar jų įgaliotų tvarkytojų sąrašą.
+
+
+
+
+3. Sprendimą dėl konkrečių valstybės dokumentiniam paveldui reikšmingų valstybės registrų, žinybinių registrų ir valstybės informacinių sistemų duomenų, kurie turi būti nuolat saugomi valstybės archyvuose, priima Lietuvos vyriausiasis archyvaras ar jo įgalioti valstybės archyvai, atsižvelgdami į šiuos kriterijus:
+
+
+1) duomenų svarbą istoriniam, politiniam, socialiniam, kultūriniam ar kitais aspektais reikšmingam laikotarpiui ar įvykiui atskleisti;
+
+
+
+
+2) duomenų reikšmę moksliniams, statistiniams ar kitiems tyrimams atlikti;
+
+
+
+
+3) duomenų unikalumą.
+
+
+
+
+
+
+4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės nuolat saugomus dokumentus gali saugoti iki 20 metų nuo jų įtraukimo į apskaitą dienos. Per šį laikotarpį jie turi būti perduoti saugoti valstybės archyvams.
+
+
+
+
+5. Lietuvos vyriausiasis archyvaras, atsižvelgdamas į objektyvias priežastis (valstybės archyvų finansinius, techninius, materialinius išteklius), turi teisę:
+
+
+1) pratęsti nuolat saugomų dokumentų saugojimo valstybės ar savivaldybės institucijoje, įstaigoje ar įmonėje laiką, tačiau ne ilgiau kaip iki 40 metų nuo jų įtraukimo į apskaitą dienos;
 
 
 
@@ -1071,20 +1118,18 @@ Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 
 
 
-4. Perduodami valstybės archyvams valstybės ir savivaldybių institucijų, įstaigų ir įmonių nuolat saugomi dokumentai turi būti tvarkomi teisės norminių aktų nustatyta tvarka. Kartu su perduodamais valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentais gali būti perduotos informacijos paieškos priemonės ir dokumentų atsarginės kopijos. Dokumentų perdavimo valstybės archyvams tvarką nustato Lietuvos vyriausiasis archyvaras. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
- 
+6. Perduodami valstybės archyvams valstybės ir savivaldybių institucijų, įstaigų ir įmonių nuolat saugomi dokumentai turi būti tvarkomi teisės norminių aktų nustatyta tvarka. Kartu su perduodamais valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentais gali būti perduotos informacijos paieškos priemonės ir dokumentų atsarginės kopijos. Nuolat saugomų dokumentų ir valstybės dokumentiniam paveldui reikšmingų valstybės registrų, žinybinių registrų ir valstybės informacinių sistemų duomenų perdavimo valstybės archyvams tvarką nustato Lietuvos vyriausiasis archyvaras.
 
 
 
 
-5. Nevalstybinių organizacijų, privačių juridinių ir fizinių asmenų veiklos dokumentai į valstybės archyvus, papildant Nacionalinį dokumentų fondą, perduodami šalių sutartimi. Sutartyje aptariamos šių dokumentų perdavimo, tvarkymo, priėjimo prie jų ir naudojimo sąlygos.
+7. Nevalstybinių organizacijų, privačių juridinių ir fizinių asmenų veiklos dokumentai į valstybės archyvus, papildant Nacionalinį dokumentų fondą, perduodami šalių sutartimi. Sutartyje aptariamos šių dokumentų perdavimo, tvarkymo, priėjimo prie jų ir naudojimo sąlygos. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
+Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
  
 
 
@@ -1627,6 +1672,11 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2 ir 10 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2, 3, 5, 8, 10, 15, 16, 20 straipsnių ir priedo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1987, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11558
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 ir 7 straipsnių pakeitimo įstatymas
  
  
 part_be9342059c53487e802b1f249fddba31_end
