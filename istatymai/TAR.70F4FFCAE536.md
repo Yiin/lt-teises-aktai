@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
  
@@ -117,10 +117,12 @@ Vaiko teisių apsaugos kontrolierius – Lietuvos Respublikos Seimo (toliau – 
 5 straipsnis. Vaiko teisių apsaugos kontrolieriui keliami reikalavimai
 
 
-Vaiko teisių apsaugos kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio arba teisinio pedagoginio darbo stažą.
+Vaiko teisių apsaugos kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio arba teisinio pedagoginio darbo stažą, taip pat ne mažesnę negu 5 metų patirtį žmogaus teisių ir laisvių apsaugos srityje.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
  
-
-
 
 
 
@@ -128,18 +130,22 @@ Vaiko teisių apsaugos kontrolieriumi gali būti skiriamas nepriekaištingos rep
 6 straipsnis. Vaiko teisių apsaugos kontrolieriaus skyrimas
 
 
-1. Seimo Pirmininko teikimu Seimas skiria vaiko teisių apsaugos kontrolierių penkerių metų kadencijai. Tas pats asmuo vaiko teisių apsaugos kontrolieriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2106, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07643
+1. Seimo Pirmininko teikimu Seimas skiria vaiko teisių apsaugos kontrolierių 5 metų kadencijai. Tas pats asmuo vaiko teisių apsaugos kontrolieriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
+
+
+
+
+2. Seimo Pirmininkas vaiko teisių apsaugos kontrolieriaus kandidatūrą Seimui pateikia ne vėliau kaip prieš 3 mėnesius iki vaiko teisių apsaugos kontrolieriaus kadencijos pabaigos. Vaiko teisių apsaugos kontrolierių atleidus iš pareigų šio įstatymo 8 straipsnio 1 dalies 2–6 punktuose nurodytais pagrindais, Seimo Pirmininkas vaiko teisių apsaugos kontrolieriaus kandidatūrą pateikia Seimui ne vėliau kaip per vieną mėnesį nuo vaiko teisių apsaugos kontrolieriaus įgaliojimų pabaigos dienos. 
+
+
+
+
+3. Vaiko teisių apsaugos kontrolieriui mirus ar atleidus jį iš pareigų šio įstatymo 8 straipsnyje nurodytais pagrindais, Seimas Seimo Pirmininko teikimu skiria kitą vaiko teisių apsaugos kontrolierių 5 metų kadencijai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
  
-
-
-
-
-2. Vaiko teisių apsaugos kontrolieriui mirus ar atleidus jį iš pareigų šio įstatymo 8 straipsnyje nurodytais pagrindais Seimas Seimo Pirmininko teikimu skiria kitą vaiko teisių apsaugos kontrolierių penkerių metų kadencijai.
- 
-
-
 
 
 
@@ -192,7 +198,10 @@ Tepadeda man Dievas.“;
 
 
 
-3) nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jei įstatymų nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką, arba kai vaiko teisių apsaugos kontrolierius pagal Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadą negali eiti pareigų;
+3) dėl sveikatos būklės nebegali eiti pareigų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
+ 
 
 
 
@@ -224,7 +233,9 @@ Tepadeda man Dievas.“;
 
 
 
-4. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais vaiko teisių apsaugos kontrolierius eina pareigas tol, kol į jo vietą paskiriamas naujas vaiko teisių apsaugos kontrolierius, bet ne ilgiau kaip 3 mėnesius.
+4. Šio straipsnio 1 dalies 1 punkte nustatytu atveju vaiko teisių apsaugos kontrolierius eina pareigas tol, kol paskiriamas naujas vaiko teisių apsaugos kontrolierius. Kitais šio straipsnio 1 dalyje nustatytais atvejais, iki bus paskirtas vaiko teisių apsaugos kontrolierius, vaiko teisių apsaugos kontrolieriaus pareigas Seimo valdyba paveda atlikti Seimo kontrolieriui arba lygių galimybių kontrolieriui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
  
 
 
@@ -235,10 +246,12 @@ Tepadeda man Dievas.“;
 9 straipsnis. Su vaiko teisių apsaugos kontrolieriaus pareigomis nesuderinama veikla
 
 
-Vaiko teisių apsaugos kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar skiriamomis pareigomis valstybės ir savivaldybių institucijose ir įstaigose, taip pat su darbu juridiniuose asmenyse. Vaiko teisių apsaugos kontrolierius negali gauti kito darbo užmokesčio, išskyrus jam nustatytą pagal einamas pareigas atlyginimą už mokslinį bei pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą ir autorinį atlyginimą už kūrybinį darbą. Vaiko teisių apsaugos kontrolierius negali dalyvauti politinių partijų veikloje.
+Vaiko teisių apsaugos kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar skiriamomis pareigomis valstybės ir savivaldybių institucijose ir įstaigose, taip pat su darbu juridiniuose asmenyse. Vaiko teisių apsaugos kontrolierius negali gauti kito darbo užmokesčio, išskyrus jam nustatytą pagal einamas pareigas atlyginimą ir užmokestį už mokslinį bei pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą ir autorinį atlyginimą už kūrybinį darbą, taip pat už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose arba Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose vykdoma su žmogaus teisių apsauga, sklaida ar ombudsmenų institucijų veiklos tobulinimu susijusi pedagoginė ar kūrybinė veikla. Vaiko teisių apsaugos kontrolierius negali dalyvauti politinių partijų veikloje.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
  
-
-
 
 
 
@@ -391,9 +404,11 @@ Vaiko teisių apsaugos kontrolierius:
 
 
 
-16) siūlyti Vyriausiajai tarnybinės etikos komisijai įvertinti, ar asmuo, dirbantis valstybės tarnyboje, nepažeidė Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo.
+16) siūlyti Vyriausiajai tarnybinės etikos komisijai atlikti tyrimą, ar valstybinėje tarnyboje dirbantis asmuo nepažeidė Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo.
 Papildyta straipsnio punktu:
 Nr. XI-2229, 2012-09-25, Žin., 2012, Nr. 115-5816 (2012-10-04), i. k. 1121010ISTA0XI-2229
+Straipsnio punkto pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
  
 
 
@@ -851,7 +866,9 @@ VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA
 
 
 
-2. Vaiko teisių apsaugos kontrolieriaus įstaigą sudaro vaiko teisių apsaugos kontrolierius, valstybės tarnautojai ir kiti įstaigos darbuotojai.
+2. Vaiko teisių apsaugos kontrolieriaus įstaigą sudaro vaiko teisių apsaugos kontrolierius, valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
  
 
 
@@ -875,27 +892,32 @@ VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA
 
 
 
-3) tvirtina Vaiko teisių apsaugos kontrolieriaus įstaigos struktūrą, etatų sąrašą, Įstaigos darbo reglamentą, kuriame nustatytos vidaus darbo tvarkos taisyklės, valstybės tarnautojų pareigybių sąrašus ir pareigybių aprašymus, kitų darbuotojų pareiginius nuostatus, priskiria Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojų pareigybes kategorijoms, nustato konkrečius darbuotojų, dirbančių pagal darbo sutartis, atlyginimų koeficientus;
+3) tvirtina Vaiko teisių apsaugos kontrolieriaus įstaigos struktūrą, darbo reglamentą, kuriame nustatytos vidaus darbo tvarkos taisyklės, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių ir pareigybių sąrašą, pareigybių aprašymus, nustato Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, darbo apmokėjimo sistemą ir konkrečius valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareiginių algų koeficientus;
 
 
 
 
-4) įstatymų nustatyta tvarka priima į pareigas ir iš jų atleidžia Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojus bei kitus darbuotojus;
+4) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš pareigų Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis;
 
 
 
 
-5) suteikia Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojams ir darbuotojams atostogas, siunčia juos į komandiruotes;
+5) suteikia Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, atostogas, siunčia juos į komandiruotes;
 
 
 
 
-6) priima sprendimus dėl Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojų ir kitų darbuotojų kvalifikacijos tobulinimo;
+6) priima sprendimus dėl Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos tobulinimo;
 
 
 
 
-7) skatina Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojus ir darbuotojus bei skiria jiems tarnybines (drausmines) nuobaudas.
+7) skatina Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, skiria valstybės tarnautojams tarnybines nuobaudas arba priima sprendimus dėl darbuotojų, dirbančių pagal darbo sutartis, darbo pareigų pažeidimo;
+
+
+
+
+8) atlieka kituose įstatymuose ir teisės aktuose jam pavestas funkcijas.
 
 
 
@@ -907,12 +929,17 @@ VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA
 
 
 
-3. Kai vaiko teisių apsaugos kontrolierius atostogauja arba dėl kitų priežasčių (ligos, komandiruotės, nėštumo, gimdymo, vaiko priežiūros ir pan.) negali eiti savo pareigų, Seimo valdybos sprendimu jį pavaduoja Seimo kontrolierius arba lygių galimybių kontrolierius, arba Seimas nustatytam terminui į šias pareigas skiria asmenį, atitinkantį vaiko teisių apsaugos kontrolieriui keliamus reikalavimus. 
-Papildyta straipsnio dalimi:
-Nr. XI-2229, 2012-09-25, Žin., 2012, Nr. 115-5816 (2012-10-04), i. k. 1121010ISTA0XI-2229
+3. Kai vaiko teisių apsaugos kontrolierius atostogauja arba dėl kitų priežasčių (ligos, komandiruotės ir pan.) negali eiti savo pareigų, Seimo valdybos sprendimu jį pavaduoja Seimo kontrolierius arba lygių galimybių kontrolierius.
+
+
+
+
+4. Kai Viešųjų ir privačių interesų derinimo įstatymo nustatyta tvarka vaiko teisių apsaugos kontrolierius nusišalina nuo tarnybinių pareigų atlikimo, Seimo valdybos sprendimu vaiko teisių apsaugos kontrolieriaus pareigas, nuo kurių atlikimo vaiko teisių apsaugos kontrolierius yra nusišalinęs, nusišalinimo laikotarpiu pavedama atlikti Seimo kontrolieriui arba lygių galimybių kontrolieriui.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
  
-
-
 
 
 
@@ -920,28 +947,26 @@ Nr. XI-2229, 2012-09-25, Žin., 2012, Nr. 115-5816 (2012-10-04), i. k. 1121010IS
 
 
 ŠEŠTASIS SKIRSNIS
-VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS VEIKLOS IR KITOS GARANTIJOS
+VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS SOCIALINĖS GARANTIJOS
  
 
 
-28 straipsnis. Vaiko teisių apsaugos kontrolieriaus darbo apmokėjimas ir socialinės garantijos
+28 straipsnis. Vaiko teisių apsaugos kontrolieriaus socialinės garantijos
 
 
-1. Vaiko teisių apsaugos kontrolieriui kasmet suteikiamos 28 kalendorinių dienų atostogos. Vaiko teisių apsaugos kontrolieriui, turinčiam didesnį kaip 5 metų tarnybos Lietuvos valstybei stažą, už kiekvienų papildomų 3 metų tarnybos stažą suteikiamos papildomos 3 kalendorinės dienos kasmetinių papildomų atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 42 kalendorinės dienos.
-
-
-
-
-2. Pasibaigus Vaiko teisių apsaugos kontrolieriaus įgaliojimų laikui, jam išmokama 2 mėnesių atlyginimo dydžio išeitinė išmoka. Vaiko teisių apsaugos kontrolieriui, atleidžiamam iš pareigų, kai jis negali eiti pareigų dėl sveikatos būklės, išmokama 3 mėnesių atlyginimo dydžio išeitinė išmoka. Vaiko teisių apsaugos kontrolieriui mirus, jo šeimai išmokama 3 mėnesių atlyginimo dydžio išmoka. Šios išmokos mokamos iš Vaiko teisių apsaugos kontrolieriaus įstaigai skirtų valstybės biudžeto lėšų. Atleidus vaiko teisių apsaugos kontrolierių paties prašymu ar kai jam įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, išeitinė išmoka nemokama.
+1. Pasibaigus vaiko teisių apsaugos kontrolieriaus įgaliojimų laikui, jam išmokama 2 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Vaiko teisių apsaugos kontrolieriui, atleidžiamam iš pareigų, kai jis nebegali eiti pareigų dėl sveikatos būklės, išmokama 3 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Vaiko teisių apsaugos kontrolieriui mirus, jo šeimai išmokama 3 mėnesių darbo užmokesčio dydžio išmoka. Šios išmokos mokamos iš Vaiko teisių apsaugos kontrolieriaus įstaigai skirtų valstybės biudžeto lėšų. Atleidus vaiko teisių apsaugos kontrolierių paties prašymu ar kai jam įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, išeitinė išmoka nemokama.
 
 
 
 
-3. Pasibaigus įgaliojimų laikui, išskyrus atvejus, kai vaiko teisių apsaugos kontrolieriui įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, vaiko teisių apsaugos kontrolierius turi teisę Valstybės tarnybos įstatymo nustatyta tvarka grįžti į ankstesnį darbą.
+2. Pasibaigus įgaliojimų laikui, išskyrus atvejus, kai vaiko teisių apsaugos kontrolieriui įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, vaiko teisių apsaugos kontrolierius turi teisę Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka atkurti valstybės tarnautojo statusą.
 
 
 
 
+Skirsnio pakeitimai:
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
+ 
 
 
 
@@ -1013,3 +1038,8 @@ Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-17
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-423, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14580
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 17 ir 22 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 5, 6, 8, 9, 12, 26, 27 straipsnių ir šeštojo skirsnio pakeitimo įstatymas
