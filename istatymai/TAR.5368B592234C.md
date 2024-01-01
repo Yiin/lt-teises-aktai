@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-12-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -580,17 +580,17 @@ BENDROSIOS NUOSTATOS
 18 straipsnis. Teismo leidimų įeiti į fizinių asmenų gyvenamąsias patalpas išdavimas
 
 
-1. Priežiūros institucija, nagrinėdama pažeidimą nusprendusi įeiti į fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais), Vilniaus apygardos administraciniam teismui pateikia prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas.
+1. Priežiūros institucija, nagrinėdama pažeidimą nusprendusi įeiti į fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais), pirmosios instancijos administraciniam teismui pateikia prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas.
 
 
 
 
-2. Prašyme išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas turi būti nurodytas fizinio asmens vardas, pavardė, gyvenamųjų patalpų adresas, įtariamo pažeidimo pobūdis ir numatomi atlikti veiksmai.
+2. Prašyme išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas turi būti nurodyta fizinio asmens vardas, pavardė, gyvenamųjų patalpų adresas, įtariamo pažeidimo pobūdis ir numatomi atlikti veiksmai.
 
 
 
 
-3. Išnagrinėjęs prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas, Vilniaus apygardos administracinis teismas priima motyvuotą nutartį prašymą patenkinti arba atmesti.
+3. Išnagrinėjęs prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas, teismas priima motyvuotą nutartį prašymą patenkinti arba atmesti.
 
 
 
@@ -600,20 +600,22 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Jeigu priežiūros institucija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo dienos šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui.
+5. Jeigu priežiūros institucija nesutinka su teismo nutartimi atmesti prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo dienos šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui.
 
 
 
 
-6. Lietuvos vyriausiasis administracinis teismas turi priežiūros institucijos skundą dėl Vilniaus apygardos administracinio teismo nutarties išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo šio skundo gavimo dienos. Priežiūros institucijos atstovas turi teisę dalyvauti nagrinėjant skundą.
+6. Lietuvos vyriausiasis administracinis teismas turi priežiūros institucijos skundą dėl teismo nutarties išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo šio skundo gavimo dienos. Priežiūros institucijos atstovas turi teisę dalyvauti nagrinėjant skundą.
 
 
 
 
-7. Lietuvos vyriausiojo administracinio teismo priimta nutartis dėl priežiūros institucijos skundo dėl Vilniaus apygardos administracinio teismo nutarties yra galutinė ir neskundžiama.
+7. Lietuvos vyriausiojo administracinio teismo priimta nutartis dėl priežiūros institucijos skundo dėl teismo nutarties yra galutinė ir neskundžiama.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1577, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25127
  
-
-
 
 
 
@@ -1232,8 +1234,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos 
 asmens duomenų teisinės apsaugos
@@ -1331,5 +1331,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-640, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24251
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 24 straipsnio pakeitimo įstatymas
  
- 
-part_d69e1e6bb6bd4b7cacc2e440c6b1444f_end
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1577, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25127
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 18 straipsnio pakeitimo įstatymas
