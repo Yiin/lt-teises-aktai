@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
 
-Suvestinė redakcija nuo 2023-11-11 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-02-16
  
 Konstitucinis įstatymas paskelbtas: TAR 2022-07-20, i. k. 2022-15851
  
@@ -2594,24 +2594,27 @@ KITOS RINKIMŲ KOMISIJOS
 1. Už darbo dieną rinkimų komisijose nustatomas atlyginimas pagal šiuos tarifus:
 
 
-1) apygardų, savivaldybių rinkimų komisijų pirmininkams – 0,62 Seimo patvirtinto tų metų pareiginės algos (atlyginimo) bazinio dydžio, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (toliau – pareiginės algos bazinis dydis);
+1) apygardų, savivaldybių rinkimų komisijų pirmininkams – 0,067 Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme nustatyto pareiginės algos (atlyginimo) bazinio dydžio (toliau – pareiginės algos bazinis dydis);
 
 
 
 
-2) apygardų, savivaldybių rinkimų komisijų pirmininkų pavaduotojams, šių komisijų sekretoriams ir komisijų nariams – 0,5 pareiginės algos bazinio dydžio;
+2) apygardų, savivaldybių rinkimų komisijų pirmininkų pavaduotojams, šių komisijų sekretoriams ir komisijų nariams – 0,054 pareiginės algos bazinio dydžio;
 
 
 
 
-3) apylinkių rinkimų komisijų pirmininkams – 0,5 pareiginės algos bazinio dydžio;
+3) apylinkių rinkimų komisijų pirmininkams – 0,054 pareiginės algos bazinio dydžio;
 
 
 
 
-4) apylinkių rinkimų komisijų pirmininkų pavaduotojams, komisijų sekretoriams ir komisijų nariams – 0,4 pareiginės algos bazinio dydžio.
+4) apylinkių rinkimų komisijų pirmininkų pavaduotojams, komisijų sekretoriams ir komisijų nariams – 0,043 pareiginės algos bazinio dydžio.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2216, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21811
+ 
 
 
 
@@ -2674,7 +2677,9 @@ BALSAVIMO KOMISIJOS
 
 
 
-6. Balsavimo komisijų pirmininkai už darbo dieną balsavimo komisijose gauna 0,62 pareiginės algos bazinio dydžio atlyginimą, balsavimo komisijų nariai – 0,5 pareiginės algos bazinio dydžio atlyginimą.
+6. Balsavimo komisijų pirmininkai už darbo dieną balsavimo komisijose gauna 0,067 pareiginės algos bazinio dydžio atlyginimą, balsavimo komisijų nariai – 0,054 pareiginės algos bazinio dydžio atlyginimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2216, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21811
  
 
 
@@ -8853,8 +8858,10 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 
 
 
-6. Vyriausiosios rinkimų komisijos sprendimai dėl šio straipsnio 2 dalyje nurodytų skundų, taip pat dėl rinkimų politinės kampanijos dalyvio statuso praradimo, rinkėjų parašų rinkimo reikalavimų pažeidimo arba šios komisijos neveikimas per 3 dienas nuo jos sprendimo įsigaliojimo dienos arba nuo tos dienos, kai sprendimas turėjo būti priimtas, gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui. Šis teismas šiuos skundus išnagrinėja per 3 dienas. Vyriausiosios rinkimų komisijos sprendimai dėl kitų šiame skirsnyje nurodytų sprendimų skundžiami Vilniaus apygardos administraciniam teismui įstatymų nustatyta tvarka. 
+6. Vyriausiosios rinkimų komisijos sprendimai dėl šio straipsnio 2 dalyje nurodytų skundų, taip pat dėl rinkimų politinės kampanijos dalyvio statuso praradimo, rinkėjų parašų rinkimo reikalavimų pažeidimo arba šios komisijos neveikimas per 3 dienas nuo jos sprendimo įsigaliojimo dienos arba nuo tos dienos, kai sprendimas turėjo būti priimtas, gali būti skundžiami Lietuvos vyriausiajam administraciniam teismui. Šis teismas šiuos skundus išnagrinėja per 3 dienas. Vyriausiosios rinkimų komisijos sprendimai dėl kitų šiame skirsnyje nurodytų sprendimų skundžiami Regionų administraciniam teismui įstatymų nustatyta tvarka.
 Papildyta straipsnio dalimi:
+Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
+Straipsnio dalies pakeitimai:
 Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
  
 
@@ -9262,3 +9269,8 @@ Lietuvos Respublikos rinkimų kodekso 32, 64, 69, 76, 78, 79, 80, 81, 85, 87, 88
 Lietuvos Respublikos Seimas, Konstitucinis įstatymas
 Nr. XIV-2217, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21812
 Lietuvos Respublikos rinkimų kodekso 57 ir 61 straipsnių pakeitimo konstitucinis įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-2216, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21811
+Lietuvos Respublikos rinkimų kodekso 51 ir 52 straipsnių pakeitimo konstitucinis įstatymas
