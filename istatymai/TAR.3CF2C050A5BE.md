@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/3cf2c050a5be11e69ad4c8713b612d0f"
 
 # Lietuvos Respublikos įstatymas dėl Sutarties dėl Bendro patentų teismo Šiaurės ir Baltijos valstybių regioninio skyriaus įsteigimo ratifikavimo
 
+Suvestinė redakcija nuo 2024-01-01
+ 
+Įstatymas paskelbtas: TAR 2016-11-08, i. k. 2016-26441
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
 DĖL SUTARTIES DĖL BENDRO PATENTŲ TEISMO ŠIAURĖS IR BALTIJOS VALSTYBIŲ REGIONINIO SKYRIAUS ĮSTEIGIMO RATIFIKAVIMO
@@ -41,10 +48,12 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 2 straipsnis. Bendro patentų teismo Šiaurės ir Baltijos valstybių regioninio skyriaus bylų nagrinėjimo Lietuvoje užtikrinimas
 
 
-Vilniaus apygardos administracinis teismas sudaro sąlygas Bendro patentų teismo Šiaurės ir Baltijos valstybių regioniniam skyriui naudotis teismo patalpomis ir kitu turtu, būtinu šiam skyriui priskirtoms byloms nagrinėti Lietuvoje. 
+Regionų administracinis teismas sudaro sąlygas Bendro patentų teismo Šiaurės ir Baltijos valstybių regioniniam skyriui naudotis teismo patalpomis Vilniuje ir kitu turtu, būtinu šiam skyriui priskirtoms byloms nagrinėti Lietuvoje.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1592, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25164
  
-
-
 
 
 
@@ -67,4 +76,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1592, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25164
+Lietuvos Respublikos įstatymo „Dėl Sutarties dėl Bendro patentų teismo Šiaurės ir Baltijos valstybių regioninio skyriaus įsteigimo ratifikavimo“ Nr. XII-2734 2 straipsnio pakeitimo įstatymas
+ 
+ 
 part_4418bec86e6e445db4ae90bc1849233e_end
