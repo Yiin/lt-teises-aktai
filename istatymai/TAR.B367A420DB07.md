@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b367a420db0711eb9f09e7df20500045"
 
 # Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas
 
-Suvestinė redakcija nuo 2023-05-05 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-07-31
  
 Įstatymas paskelbtas: TAR 2021-07-02, i. k. 2021-15163
  
@@ -498,7 +498,10 @@ NESĄŽININGOS PREKYBOS PRAKTIKOS DRAUDŽIAMŲ VEIKSMŲ PRIEŽIŪROS IR VERTINIM
 6 straipsnis. Nesąžiningos prekybos praktikos draudžiamų veiksmų priežiūros institucijos
 
 
-1. Šio įstatymo nuostatų laikymosi priežiūrą, taikytiną tiekėjams ir pirkėjams, išskyrus didelę rinkos galią turinčias mažmeninės prekybos įmones, atlieka priežiūros institucija – viešoji įstaiga Kaimo verslo ir rinkų plėtros agentūra (toliau – Agentūra).
+1. Šio įstatymo nuostatų laikymosi priežiūrą, taikytiną tiekėjams ir pirkėjams, išskyrus didelę rinkos galią turinčias mažmeninės prekybos įmones, atlieka priežiūros institucija – Žemės ūkio agentūra prie Žemės ūkio ministerijos (toliau – Agentūra).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2064, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12802
+ 
 
 
 
@@ -1508,18 +1511,18 @@ Lietuvos Respublikos žemės ūkio ministerija iki 2024 m. balandžio 1 d. atlie
 
 
 
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
-
- 
-
  
  
-part_acf647a1307f4bc980af09a9dc319445_end
-part_05dd24c2478849a1b6fb6b7ba21ba918_end
+
+
+
+
 
 
 Lietuvos Respublikos 
@@ -1549,3 +1552,8 @@ Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1898, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08464
 Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 2, 4 ir 21 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2064, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12802
+Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo Nr. XIV-409 6 straipsnio pakeitimo įstatymas
