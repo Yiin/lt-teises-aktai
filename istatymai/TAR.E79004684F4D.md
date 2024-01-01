@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 59-1462, i. k. 0951010ISTA000I-976
  
@@ -219,7 +219,10 @@ Nr. XI-1910, 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
 1. Zonoje įmonėms draudžiamos šios kapitalo investavimo ir veiklos sritys:
 
 
-1) ūkinė komercinė veikla, susijusi su valstybės saugumo ir gynybos užtikrinimu, taip pat ginklų, šaudmenų, sprogmenų gamyba, laikymu ar pardavimu;
+1) Neteko galios nuo 2024-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-1976, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10369
+ 
 
 
 
@@ -1195,4 +1198,9 @@ Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-835, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27727
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 8 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1976, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10369
 Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 8 straipsnio pakeitimo įstatymas
