@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2023-06-10 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -166,10 +166,12 @@ Seimo kontrolierius – Lietuvos Respublikos Seimo (toliau – Seimo) skiriamas 
 6 straipsnis. Seimo kontrolieriui keliami reikalavimai
 
 
-Seimo kontrolieriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba vienpakopį teisinį universitetinį išsilavinimą ir ne mažesnį kaip 10 metų teisinio ar teisinio pedagoginio darbo stažą.
+Seimo kontrolieriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio ar teisinio pedagoginio darbo stažą, taip pat ne mažesnę negu 5 metų patirtį žmogaus teisių ir laisvių apsaugos srityje.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
  
-
-
 
 
 
@@ -198,6 +200,14 @@ Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA
 
 
 3. Jei Seimo kontrolieriaus įgaliojimai nutrūksta kadencijai nepasibaigus, Seimas skiria naują Seimo kontrolierių.
+
+
+
+
+4. Seimo Pirmininkas Seimo kontrolieriaus kandidatūrą Seimui pateikia ne vėliau kaip prieš 3 mėnesius iki Seimo kontrolieriaus kadencijos pabaigos. Seimo kontrolieriaus įgaliojimams nutrūkus šio įstatymo 9 straipsnio 1 dalies 2–6 punktuose nurodytais pagrindais, Seimo Pirmininkas Seimo kontrolieriaus kandidatūrą pateikia Seimui ne vėliau kaip per vieną mėnesį nuo Seimo kontrolieriaus įgaliojimų pasibaigimo dienos.
+Papildyta straipsnio dalimi:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
+ 
 
 
 
@@ -249,7 +259,10 @@ Nr. X-442, 2005-12-13, Žin., 2005, Nr. 149-5419 (2005-12-22), i. k. 1051010ISTA
 
 
 
-4) nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jei įstatymų nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką, arba kai Seimo kontrolierius pagal medicinos ar invalidumą nustatančios komisijos išvadą negali eiti pareigų; 
+4) dėl sveikatos būklės nebegali eiti pareigų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
+ 
 
 
 
@@ -276,7 +289,9 @@ Nr. X-442, 2005-12-13, Žin., 2005, Nr. 149-5419 (2005-12-22), i. k. 1051010ISTA
 
 
 
-4. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais Seimo kontrolierius eina pareigas tol, kol į jo vietą paskiriamas naujas Seimo kontrolierius.
+4. Šio straipsnio 1 dalies 1 punkte nustatytu atveju Seimo kontrolierius eina pareigas tol, kol paskiriamas naujas Seimo kontrolierius. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
  
 
 
@@ -323,10 +338,12 @@ Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
 10 straipsnis. Su Seimo kontrolieriaus pareigomis nesuderinama veikla
 
 
-Seimo kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar skiriamomis pareigomis valstybės ir savivaldybių institucijose ir įstaigose, taip pat su darbu juridiniuose asmenyse. Seimo kontrolierius negali gauti kito atlyginimo, išskyrus jam nustatytą pagal einamas pareigas ir užmokestį už mokslinį bei pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą bei autorinį atlyginimą už kūrybinį darbą.
+Seimo kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar skiriamomis pareigomis valstybės ir savivaldybių institucijose ir įstaigose, taip pat su darbu juridiniuose asmenyse. Seimo kontrolierius negali gauti kito darbo užmokesčio, išskyrus jam nustatytą pagal einamas pareigas ir užmokestį už mokslinį bei pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą bei autorinį atlyginimą už kūrybinį darbą, taip pat už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose arba Lietuvos vystomojo bendradarbiavimo projektuose, kuriuose vykdoma su žmogaus teisių apsauga, sklaida ar ombudsmenų institucijų veiklos tobulinimu susijusi pedagoginė ar kūrybinė veikla.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
  
-
-
 
 
 
@@ -670,7 +687,10 @@ Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
 
 
 
-15) siūlyti kolegialiai institucijai, įstaigos vadovui ar aukštesniajai pagal pavaldumą institucijai ir įstaigai skirti nusižengusiems pareigūnams tarnybines (drausmines) nuobaudas;
+15) siūlyti kolegialiai institucijai, įstaigos vadovui ar aukštesniajai pagal pavaldumą institucijai ir įstaigai skirti nusižengusiems pareigūnams tarnybines nuobaudas ar priimti sprendimus dėl darbo pareigų pažeidimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
+ 
 
 
 
@@ -695,7 +715,10 @@ Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
 
 
 
-20) siūlyti Vyriausiajai tarnybinės etikos komisijai įvertinti, ar pareigūnas nepažeidė Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo; 
+20) siūlyti Vyriausiajai tarnybinės etikos komisijai atlikti tyrimą, ar pareigūnas nepažeidė Viešųjų ir privačių interesų derinimo įstatymo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
+ 
 
 
 
@@ -971,7 +994,10 @@ Nr. XIV-424, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14587
 
 
 
-2. Laikas, per kurį buvo tirtas skundas, neįskaitomas į įstatymų nustatytą senaties terminą tarnybinei (drausminei) nuobaudai skirti.
+2. Laikas, per kurį buvo tirtas skundas, neįskaitomas į įstatymų nustatytą senaties terminą tarnybinei nuobaudai skirti ar sprendimui dėl darbo pareigų pažeidimo priimti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
+ 
 
 
 
@@ -1016,7 +1042,7 @@ Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrol
 25 straipsnis. Seimo kontrolierių įstaigos struktūra
 
 
-1. Seimo kontrolierių įstaigą sudaro Seimo kontrolieriai, valstybės tarnautojai ir kiti darbuotojai.
+1. Seimo kontrolierių įstaigą sudaro Seimo kontrolieriai, valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.
 
 
 
@@ -1024,18 +1050,9 @@ Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrol
 2. Seimo kontrolierių įstaigai vadovauja Seimo kontrolierių įstaigos vadovas. Jį pavaduoja kitas Seimo kontrolierius.
 
 
-
-
-3. Seimo kontrolierių įstaigos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių tvirtina Seimo valdyba.
-
-
-
-
-4. Seimo kontrolieriai turi patarėjų. Seimo kontrolieriaus patarėjas yra valstybės tarnautojas. Seimo kontrolieriaus patarėju gali būti Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba vienpakopį teisinį universitetinį išsilavinimą.
-
-
 Straipsnio pakeitimai:
 Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
  
 
 
@@ -1070,7 +1087,7 @@ Nr. XI-667, 2010-01-21, Žin. 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00
 
 
 
-3. Seimo kontrolierių įstaigos vadovas, be tiesioginių kontrolieriaus pareigų, atlieka ir šias funkcijas:
+3. Seimo kontrolierių įstaigos vadovas, be tiesioginių Seimo kontrolieriaus pareigų, atlieka ir šias funkcijas:
 
 
 1) atstovauja Seimo kontrolierių įstaigai kaip juridiniam asmeniui ir organizuoja jos darbą;
@@ -1078,41 +1095,47 @@ Nr. XI-667, 2010-01-21, Žin. 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00
 
 
 
-2) tvirtina Seimo kontrolierių įstaigos struktūrą, nustato Seimo kontrolierių įstaigos struktūrinių padalinių ir įstaigos darbuotojų funkcijas ir tvirtina Seimo kontrolierių įstaigos reglamentą; 
+2) tvirtina Seimo kontrolierių įstaigos struktūrą, reglamentą, nustato Seimo kontrolierių įstaigos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių ir sąrašą, tvirtina Seimo kontrolierių įstaigos padalinių nuostatus ir valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių aprašymus; 
 
 
 
 
-3) įstatymų nustatyta tvarka priima į pareigas ir iš jų atleidžia Seimo kontrolierių įstaigos valstybės tarnautojus ir kitus darbuotojus;
+3) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš pareigų Seimo kontrolierių įstaigos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis;
 
 
 
 
-4) nustato konkrečius darbuotojų, dirbančių pagal darbo sutartis, atlyginimų koeficientus;
+4) nustato Seimo kontrolierių įstaigos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, darbo apmokėjimo sistemą ir konkrečius valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareiginių algų koeficientus;
 
 
 
 
-5) suteikia Seimo kontrolieriui, Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams atostogas, siunčia juos į komandiruotes, stažuotes;
+5) suteikia Seimo kontrolieriui, Seimo kontrolierių įstaigos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, atostogas, siunčia juos į komandiruotes, stažuotes;
 
 
 
 
-6) priima sprendimus dėl Seimo kontrolierių įstaigos valstybės tarnautojų ir kitų darbuotojų kvalifikacijos kėlimo;
+6) priima sprendimus dėl Seimo kontrolierių įstaigos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos kėlimo;
 
 
 
 
-7) skiria Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams tarnybines (drausmines) nuobaudas;
+7) skatina Seimo kontrolierių įstaigos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, skiria valstybės tarnautojams tarnybines nuobaudas arba priima sprendimus dėl darbuotojų, dirbančių pagal darbo sutartis, darbo pareigų pažeidimo;
 
 
 
 
-8) organizuoja Seimo kontrolierių metinės veiklos ataskaitos parengimą ir pateikimą Seimui.
+8) organizuoja Seimo kontrolierių metinės veiklos ataskaitos parengimą ir pateikimą Seimui;
+
+
+
+
+9) atlieka kituose įstatymuose ir teisės aktuose nustatytas funkcijas.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
  
 
 
@@ -1129,42 +1152,26 @@ Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA0
 
 
 V SKIRSNIS
-SEIMO KONTROLIERIŲ VEIKLOS IR KITOS GARANTIJOS
+SEIMO KONTROLIERIŲ SOCIALINĖS GARANTIJOS
  
 
 
-29 straipsnis. Seimo kontrolierių darbo apmokėjimas ir socialinės garantijos
+29 straipsnis. Seimo kontrolierių socialinės garantijos
 
 
-1. Seimo kontrolierių darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
-Straipsnio dalies pakeitimai:
-Nr. X-1781, 2008-11-06, Žin., 2008, Nr. 131-5031 (2008-11-15), i. k. 1081010ISTA00X-1781
+1. Pasibaigus Seimo kontrolieriaus įgaliojimų laikui, jam išmokama 2 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Seimo kontrolieriui, atleidžiamam iš pareigų, kai jis nebegali eiti pareigų dėl sveikatos būklės, išmokama 3 mėnesių darbo užmokesčio dydžio išeitinė išmoka. Seimo kontrolieriui mirus, jo šeimai išmokama 3 mėnesių darbo užmokesčio dydžio išmoka. Šios išmokos mokamos iš Seimo kontrolierių įstaigai skirtų valstybės biudžeto lėšų. Atleidus Seimo kontrolierių paties prašymu ar kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, išeitinė išmoka nemokama. 
+
+
+
+
+2. Pasibaigus įgaliojimų laikui, išskyrus atvejus, kai dėl Seimo kontrolieriaus įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius turi teisę Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka atkurti valstybės tarnautojo statusą.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIV-1997, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11571
  
-
-
-
-
-2. Seimo kontrolieriai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
-
-
-
-
-3. Seimo kontrolieriui kasmet suteikiamos 28 kalendorinių dienų atostogos. Seimo kontrolieriui, turinčiam didesnį kaip 5 metų tarnybos Lietuvos valstybei stažą, už kiekvienų paskesnių 3 metų tarnybos stažą suteikiamos papildomos 3 kalendorinės dienos kasmetinių atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 42 kalendorinės dienos. 
-
-
-
-
-4. Pasibaigus Seimo kontrolieriaus įgaliojimų laikui, jam išmokama 2 mėnesių atlyginimo dydžio išeitinė išmoka. Seimo kontrolieriui, atleidžiamam iš pareigų, kai jis negali eiti pareigų dėl sveikatos būklės, išmokama 3 mėnesių atlyginimo dydžio išeitinė išmoka. Seimo kontrolieriui mirus, jo šeimai išmokama 3 mėnesių atlyginimo dydžio išmoka. Šios išmokos mokamos iš Seimo kontrolierių įstaigai skirtų valstybės biudžeto lėšų. Atleidus Seimo kontrolierių paties prašymu ar kai dėl jo įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, išeitinė išmoka nemokama. 
-
-
-
-
-5. Pasibaigus įgaliojimų laikui, išskyrus atvejus, kai dėl Seimo kontrolieriaus įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, Seimo kontrolierius turi teisę Valstybės tarnybos įstatymo nustatyta tvarka grįžti į ankstesnį darbą.
- 
-
-
-
-
 
 
 
