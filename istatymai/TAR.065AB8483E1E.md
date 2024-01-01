@@ -21,7 +21,7 @@ Redagavo: Ramun? L??ait? (1996
  
 
 
-Suvestinė redakcija nuo 2023-06-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -706,10 +706,11 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-87. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos alkoholio kontrolės įstatyme, Lietuvos Respublikos azartinių lošimų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos kino įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos labdaros ir paramos įstatyme, Lietuvos Respublikos loterijų įstatyme, Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme, Lietuvos Respublikos politinių organizacijų įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme, Teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme, kituose įstatymuose ir Reglamente (ES) 2021/784.
+87. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos alkoholio kontrolės įstatyme, Lietuvos Respublikos azartinių lošimų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos kino įstatyme, Lietuvos Respublikos konkurencijos įstatyme,  Lietuvos Respublikos labdaros ir paramos įstatyme, Lietuvos Respublikos loterijų įstatyme, Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme, Lietuvos Respublikos politinių organizacijų įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos rinkimų kodekse, Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme, Teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme, kituose įstatymuose ir Reglamente (ES) 2021/784.
 Straipsnio dalies pakeitimai:
 Nr. XIV-240, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08842
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
  
 
 
@@ -1192,17 +1193,21 @@ Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 
 
-5. Asmuo, manydamas, kad viešosios informacijos rengėjas ir (ar) skleidėjas paskelbė ir (ar) paskleidė galimai neskelbtiną informaciją, turi teisę kreiptis į už neskelbtinos informacijos kontrolę atsakingą instituciją su motyvuotu prašymu atlikti tyrimą, priimti sprendimą ir taikyti objektyviai būtinas poveikio priemones neskelbtinos informacijos paskelbimo ir (ar) skleidimo atveju. Už neskelbtinos informacijos kontrolę atsakinga institucija išnagrinėja prašyme nurodytas aplinkybes ir ne vėliau kaip per 10 darbo dienų nuo prašymo gavimo dienos informuoja prašymą pateikusį asmenį apie nagrinėjimo rezultatus. Jeigu prašyme nurodytos aplinkybės pasitvirtina, apie tai informuojamas prašymą pateikęs asmuo, o už neskelbtinos informacijos kontrolę atsakinga institucija per 20 darbo dienų nuo prašymą pateikusio asmens informavimo dienos priima sprendimą, kuriuo patvirtinamas neskelbtinos informacijos paskelbimo ir (ar) paskleidimo faktas ir kuriame nurodomos objektyviai būtinos poveikio priemonės, taikytinos viešosios informacijos rengėjui ir (ar) skleidėjui. Asmuo gali skųsti priimtą sprendimą, o tais atvejais, kai už neskelbtinos informacijos kontrolę atsakinga institucija per 20 darbo dienų nuo jo informavimo apie prašyme nurodytų aplinkybių patvirtinimą dienos nepriima sprendimo, asmuo gali skųsti šios institucijos neveikimą, paduodamas motyvuotą skundą Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
+5. Asmuo, manydamas, kad viešosios informacijos rengėjas ir (ar) skleidėjas paskelbė ir (ar) paskleidė galimai neskelbtiną informaciją, turi teisę kreiptis į už neskelbtinos informacijos kontrolę atsakingą instituciją su motyvuotu prašymu atlikti tyrimą, priimti sprendimą ir taikyti objektyviai būtinas poveikio priemones neskelbtinos informacijos paskelbimo ir (ar) skleidimo atveju. Už neskelbtinos informacijos kontrolę atsakinga institucija išnagrinėja prašyme nurodytas aplinkybes ir ne vėliau kaip per 10 darbo dienų nuo prašymo gavimo dienos informuoja prašymą pateikusį asmenį apie nagrinėjimo rezultatus. Jeigu prašyme nurodytos aplinkybės pasitvirtina, apie tai informuojamas prašymą pateikęs asmuo, o už neskelbtinos informacijos kontrolę atsakinga institucija per 20 darbo dienų nuo prašymą pateikusio asmens informavimo dienos priima sprendimą, kuriuo patvirtinamas neskelbtinos informacijos paskelbimo ir (ar) paskleidimo faktas ir kuriame nurodomos objektyviai būtinos poveikio priemonės, taikytinos viešosios informacijos rengėjui ir (ar) skleidėjui. Asmuo gali skųsti priimtą sprendimą, o tais atvejais, kai už neskelbtinos informacijos kontrolę atsakinga institucija per 20 darbo dienų nuo jo informavimo apie prašyme nurodytų aplinkybių patvirtinimą dienos nepriima sprendimo, asmuo gali skųsti šios institucijos neveikimą, paduodamas motyvuotą skundą pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
  
 
 
 
 
-6. Prokuroras ir (ar) visuomenės informavimo srityje veikiančios asociacijos, turinčios pagrindą manyti, kad už neskelbtinos informacijos kontrolę atsakingos institucijos nevykdė arba netinkamai vykdė joms teisės aktuose nustatytas pareigas, susijusias su šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytos neskelbtinos informacijos kontrole, ir tokiais veiksmais buvo pažeistas viešasis interesas visuomenės informavimo srityje, kreipiasi į instituciją, kurioje buvo padarytas šis pažeidimas, su motyvuotu prašymu imtis būtinų veiksmų pažeidimui pašalinti. Tais atvejais, kai už neskelbtinos informacijos kontrolę atsakinga institucija per 20 darbo dienų nepriima sprendimo, kuriuo pašalinamas viešojo intereso pažeidimas, prokuroras ir (ar) visuomenės informavimo srityje veikiančios asociacijos Administracinių bylų teisenos įstatymo nustatyta tvarka turi teisę kreiptis į Vilniaus apygardos administracinį teismą dėl už neskelbtinos informacijos kontrolę atsakingų institucijų neveikimo su motyvuotu prašymu įpareigoti kompetentingas institucijas tinkamai vykdyti neskelbtinos informacijos kontrolės funkciją ir taikyti šiame įstatyme nurodytas poveikio priemones. 
+6. Prokuroras ir (ar) visuomenės informavimo srityje veikiančios asociacijos, turinčios pagrindą manyti, kad už neskelbtinos informacijos kontrolę atsakingos institucijos nevykdė arba netinkamai vykdė joms teisės aktuose nustatytas pareigas, susijusias su šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytos neskelbtinos informacijos kontrole, ir tokiais veiksmais buvo pažeistas viešasis interesas visuomenės informavimo srityje, kreipiasi į instituciją, kurioje buvo padarytas šis pažeidimas, su motyvuotu prašymu imtis būtinų veiksmų pažeidimui pašalinti. Tais atvejais, kai už neskelbtinos informacijos kontrolę atsakinga institucija per 20 darbo dienų nepriima sprendimo, kuriuo pašalinamas viešojo intereso pažeidimas, prokuroras ir (ar) visuomenės informavimo srityje veikiančios asociacijos Administracinių bylų teisenos įstatymo nustatyta tvarka turi teisę kreiptis į pirmosios instancijos administracinį teismą dėl už neskelbtinos informacijos kontrolę atsakingų institucijų neveikimo su motyvuotu prašymu įpareigoti kompetentingas institucijas tinkamai vykdyti neskelbtinos informacijos kontrolės funkciją ir taikyti šiame įstatyme nurodytas poveikio priemones. 
 Papildyta straipsnio dalimi:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
  
 
 
@@ -1257,11 +1262,12 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-10. Policija, įgyvendindama Reglamento (ES) 2021/784 4 straipsnio 3 ir 4 dalių nuostatas dėl įvertinimo, ar iš kitos valstybės kompetentingos institucijos gautas privalomas nurodymas nepažeidžia šio reglamento ar Europos Sąjungos pagrindinių teisių chartijos garantuojamų pagrindinių teisių ir laisvių, turi teisę kreiptis į žurnalistų etikos inspektorių. 
+10. Policija, siekdama gauti šio straipsnio 9 dalies 1 ar 2 punkte nurodytą leidimą duoti motyvuotus privalomus nurodymus pašalinti neskelbtiną informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti šiuos veiksmus. Šiame prašyme turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu žinomi), įtariamo pažeidimo pobūdis ir veiksmai, kuriuos numatoma atlikti. Teismas prašymą išduoti leidimą atlikti šiuos veiksmus išnagrinėja ir priima motyvuotą nutartį patenkinti prašymą išduoti leidimą atlikti šiuos veiksmus arba atmesti šį prašymą. Prašymas išduoti leidimą atlikti šiuos veiksmus turi būti išnagrinėtas ir teismo nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti šiuos veiksmus pateikimo momento. Jeigu policija nesutinka su teismo nutartimi atmesti prašymą išduoti leidimą atlikti šiuos veiksmus, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo apskųsti ją Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl teismo nutarties atmesti prašymą išduoti leidimą atlikti šiuos veiksmus turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo policijos skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti šiuos veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų atlikti veiksmų slaptumą.
 Papildyta straipsnio dalimi:
 Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 Straipsnio dalies pakeitimai:
 Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
  
 
 
@@ -1592,7 +1598,10 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 
 
 
-7. Komisijos sprendimas, kuriuo atsisakoma duoti sutikimą dėl transliavimo ir (ar) retransliuojamo turinio licencijos turėtojo akcijų (dalių, pajų) ir (ar) kontrolės (valdymo) perleidimo, gali būti skundžiamas Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
+7. Komisijos sprendimas, kuriuo atsisakoma duoti sutikimą dėl transliavimo ir (ar) retransliuojamo turinio licencijos turėtojo akcijų (dalių, pajų) ir (ar) kontrolės (valdymo) perleidimo, gali būti skundžiamas pirmosios instancijos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -2644,9 +2653,10 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 
-17. Komisija, priimdama sprendimą dėl licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo, nustato konkretų terminą, nuo kada sustabdomas ar panaikinamas licencijos galiojimas. Šis terminas negali būti trumpesnis, negu šio įstatymo nustatytas terminas apskųsti Komisijos sprendimus teismui. Licencijos turėtojas privalo sustabdyti (nutraukti) transliavimo licencijoje numatytą transliavimo veiklą ir (ar) sustabdyti (nutraukti) radijo ir (ar) televizijos programų retransliavimą radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nuo sprendime nurodytos dienos, išskyrus atvejus, kai, apskundus teismui šį Komisijos sprendimą, teismas laikinai sustabdo jo galiojimą. Jeigu teismas nepanaikina Komisijos sprendimo dėl transliavimo licencijos ar retransliuojamo turinio licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo, transliavimo licencijos turėtojas privalo sustabdyti (nutraukti) transliavimo veiklą, o retransliuotojas privalo sustabdyti (nutraukti) radijo ir (ar) televizijos programų retransliavimą radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nuo teismo sprendimo įsiteisėjimo dienos. Komisijos sprendimą dėl transliavimo licencijos ar retransliuojamo turinio licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo turi sankcionuoti Vilniaus apygardos administracinis teismas, išskyrus Komisijos sprendimus dėl transliavimo licencijos ar retransliuojamo turinio licencijos galiojimo panaikinimo, kai licencijos turėtojas atsisako licencijos. Prašyme sankcionuoti Komisijos sprendimą turi būti nurodytas Komisijos sprendimo priėmimo faktinis ir juridinis pagrindas ir jį patvirtinantys įrodymai. Kartu su prašymu turi būti pateiktas Komisijos sprendimas, jo faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijos ir kita būtina medžiaga. Vilniaus apygardos administracinio teismo teisėjas turi išnagrinėti Komisijos prašymą ir priimti motyvuotą nutartį patenkinti arba atmesti prašymą ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo teisėjo nutartimi atmesti prašymą, Komisijos įgaliotas atstovas turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo skundo priėmimo dienos. 
+17. Komisija, priimdama sprendimą dėl licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo, nustato konkretų terminą, nuo kada sustabdomas ar panaikinamas licencijos galiojimas. Šis terminas negali būti trumpesnis negu šio įstatymo nustatytas terminas apskųsti Komisijos sprendimus teismui. Licencijos turėtojas privalo sustabdyti (nutraukti) transliavimo licencijoje numatytą transliavimo veiklą ir (ar) sustabdyti (nutraukti) radijo ir (ar) televizijos programų retransliavimą radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nuo sprendime nurodytos dienos, išskyrus atvejus, kai, apskundus teismui šį Komisijos sprendimą, teismas laikinai sustabdo jo galiojimą. Jeigu teismas nepanaikina Komisijos sprendimo dėl transliavimo licencijos ar retransliuojamo turinio licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo, transliavimo licencijos turėtojas privalo sustabdyti (nutraukti) transliavimo veiklą, o retransliuotojas privalo sustabdyti (nutraukti) radijo ir (ar) televizijos programų retransliavimą radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nuo teismo sprendimo įsiteisėjimo dienos. Komisijos sprendimą dėl transliavimo licencijos ar retransliuojamo turinio licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo turi sankcionuoti pirmosios instancijos administracinis teismas, išskyrus Komisijos sprendimus dėl transliavimo licencijos ar retransliuojamo turinio licencijos galiojimo panaikinimo, kai licencijos turėtojas atsisako licencijos. Prašyme sankcionuoti Komisijos sprendimą turi būti nurodytas Komisijos sprendimo priėmimo faktinis ir juridinis pagrindas ir jį patvirtinantys įrodymai. Kartu su prašymu turi būti pateiktas Komisijos sprendimas, jo faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijos ir kita būtina medžiaga. Teismo teisėjas turi išnagrinėti Komisijos prašymą ir priimti motyvuotą nutartį patenkinti arba atmesti prašymą ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Komisija nesutinka su teismo teisėjo nutartimi atmesti prašymą, Komisijos įgaliotas atstovas turi teisę per 7 dienas nuo šios nutarties priėmimo apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo skundo priėmimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
  
 
 
@@ -2763,7 +2773,10 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 
-4. Šio straipsnio 3 dalyje nurodytą Komisijos sprendimą turi sankcionuoti Vilniaus apygardos administracinis teismas. Prašyme sankcionuoti Komisijos sprendimą turi būti nurodytas Komisijos sprendimo priėmimo faktinis ir juridinis pagrindas ir jį patvirtinantys įrodymai. Kartu su prašymu turi būti pateiktas Komisijos sprendimas, jo faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijos ir kita būtina medžiaga. Vilniaus apygardos administracinio teismo teisėjas turi išnagrinėti Komisijos prašymą ir priimti motyvuotą nutartį patenkinti arba atmesti prašymą ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo teisėjo nutartimi atmesti prašymą, Komisijos įgaliotas atstovas turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo skundo priėmimo dienos.
+4. Šio straipsnio 3 dalyje nurodytą Komisijos sprendimą turi sankcionuoti pirmosios instancijos administracinis teismas. Prašyme sankcionuoti Komisijos sprendimą turi būti nurodytas Komisijos sprendimo priėmimo faktinis ir juridinis pagrindas ir jį patvirtinantys įrodymai. Kartu su prašymu turi būti pateiktas Komisijos sprendimas, jo faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijos ir kita būtina medžiaga. Teismo teisėjas turi išnagrinėti Komisijos prašymą ir priimti motyvuotą nutartį patenkinti arba atmesti prašymą ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Komisija nesutinka su teismo teisėjo nutartimi atmesti prašymą, Komisijos įgaliotas atstovas turi teisę per 7 dienas nuo šios nutarties priėmimo apskųsti ją Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo skundo priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -3052,7 +3065,10 @@ d) Komisija gavo iš nacionalinį saugumą užtikrinančios ar kitos kompetentin
 
 
 
-10. Pagal šio straipsnio 9 dalį priimamas Komisijos sprendimas dėl audiovizualinės žiniasklaidos paslaugų, televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimo sustabdymo Lietuvos Respublikos teritorijoje ilgiau kaip 72 valandoms gali būti priimtas tik gavus Vilniaus apygardos administracinio teismo sankciją.
+10. Pagal šio straipsnio 9 dalį priimamas Komisijos sprendimas dėl audiovizualinės žiniasklaidos paslaugų, televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimo sustabdymo Lietuvos Respublikos teritorijoje ilgiau kaip 72 valandoms gali būti priimtas tik gavus pirmosios instancijos administracinio teismo sankciją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4164,7 +4180,10 @@ Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
 
 
 
-7. Viešosios informacijos rengėjai ar skleidėjai, nesutinkantys su Komisijos sprendimais, gali dėl jų kreiptis į Vilniaus apygardos administracinį teismą, tačiau vis tiek privalo juos paskelbti šio straipsnio 6 dalyje nustatyta tvarka. 
+7. Viešosios informacijos rengėjai ar skleidėjai, nesutinkantys su Komisijos sprendimais, gali dėl jų kreiptis į pirmosios instancijos administracinį teismą, tačiau vis tiek privalo juos paskelbti šio straipsnio 6 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4206,9 +4225,10 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 
-4. Komisiją sudaro 11 narių: du narius skiria Respublikos Prezidentas, tris narius (vieną – iš opozicinių frakcijų) – Seimas Kultūros komiteto teikimu, tris narius – Lietuvos meno kūrėjų asociacija, vieną narį – Lietuvos katalikų bažnyčios Vyskupų konferencija, vieną narį – Lietuvos žurnalistų sąjunga, vieną narį – Lietuvos žurnalistų draugija. Komisijos nariu gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip penkerių metų patirtį audiovizualinės politikos, viešosios informacijos rengėjo ar skleidėjo veiklos srityse, profesinės ar akademinės patirties visuomenės informavimo, švietimo, kultūros, mokslo ar žmogaus teisių srityse. Komisijos nariui taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos. Komisijos nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus metus ėjo pareigas reguliuojamų sektorių įmonių ar organizacijų valdymo organuose ir (ar) gali tose įmonėse ar organizacijose turėti interesų. Komisijos nariai skiriami ketverių metų kadencijai ir jais gali būti ne ilgiau kaip dvi kadencijas iš eilės. Likus ne mažiau kaip 60 dienų iki Komisijos kadencijos pabaigos, Komisija kreipiasi į Komisijos narius skiriančias institucijas ar organizacijas dėl naujų narių skyrimo. Komisijos nario darbo Komisijoje teisinis pagrindas yra jį paskyrusios institucijos (institucijų) ar organizacijos (organizacijų) priimtas sprendimas. Komisijos pirmininkui, pirmininko pavaduotojui ir nariams taikomos Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytos darbo apmokėjimo sąlygos ir Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatos. Kai Komisijos narys dirba ne visą darbo dieną, už darbą atliekant Komisijos nario pareigas jam apmokama atsižvelgiant į faktiškai dirbtą darbo laiką. 
+4. Komisiją sudaro 11 narių: du narius skiria Respublikos Prezidentas, tris narius (vieną – iš opozicinių frakcijų) – Seimas Kultūros komiteto teikimu, tris narius – Lietuvos meno kūrėjų asociacija, vieną narį – Lietuvos katalikų bažnyčios Vyskupų konferencija, vieną narį – Lietuvos žurnalistų sąjunga, vieną narį – Lietuvos žurnalistų draugija. Komisijos nariu gali būti skiriamas tik nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip penkerių metų patirtį audiovizualinės politikos, viešosios informacijos rengėjo ar skleidėjo veiklos srityse, profesinės ar akademinės patirties visuomenės informavimo, švietimo, kultūros, mokslo ar žmogaus teisių srityse. Komisijos nariui taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos. Komisijos nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus metus ėjo pareigas reguliuojamų sektorių įmonių ar organizacijų valdymo organuose ir (ar) gali tose įmonėse ar organizacijose turėti interesų. Komisijos nariai skiriami ketverių metų kadencijai ir jais gali būti ne ilgiau kaip dvi kadencijas iš eilės. Likus ne mažiau kaip 60 dienų iki Komisijos kadencijos pabaigos, Komisija kreipiasi į Komisijos narius skiriančias institucijas ar organizacijas dėl naujų narių skyrimo. Komisijos nario darbo Komisijoje teisinis pagrindas yra jį paskyrusios institucijos (institucijų) ar organizacijos (organizacijų) priimtas sprendimas. Komisijos pirmininkui, pirmininko pavaduotojui ir nariams taikomos Viešųjų ir privačių interesų derinimo įstatymo nuostatos. Kai Komisijos narys dirba ne visą darbo dieną, už darbą atliekant Komisijos nario pareigas jam apmokama atsižvelgiant į faktiškai dirbtą darbo laiką. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
+Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
  
 
 
@@ -4326,9 +4346,10 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 
-15. Komisijos veiklą užtikrina Komisijos administracija. Komisijos administracijai vadovauja Komisijos pirmininkas. Komisijos pirmininkas administracijos veiklą organizuoja pagal Komisijos nuostatus. Komisijos administracijos struktūrą tvirtina Komisijos pirmininkas. Komisijos administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių nustato Seimo valdyba. 
+15. Komisijos veiklą užtikrina Komisijos administracija. Komisijos administracijai vadovauja Komisijos pirmininkas. Komisijos pirmininkas administracijos veiklą organizuoja pagal Komisijos nuostatus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
+Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
  
 
 
@@ -4344,7 +4365,10 @@ Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
 
 
 
-17. Komisija kiekvienais metais rengia detalią metinę planuojamų pajamų ir išlaidų sąmatą. Komisijos buhalterinė apskaita organizuojama ir tvarkoma, finansinių ataskaitų rinkiniai sudaromi ir teikiami Buhalterinės apskaitos įstatyme ir Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose bei viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartuose nustatyta tvarka. Komisijos praėjusių metų finansinių ataskaitų rinkinį patikrina Komisijos parinktas auditorius ar audito įmonė ne vėliau kaip iki balandžio 1 dienos. Auditorius ar audito įmonė parenkami Viešųjų pirkimų įstatyme nustatyta tvarka. Atlikus auditą, Komisijai pateikiama nepriklausomo auditoriaus išvada ir audito ataskaita, kurias Komisija paskelbia viešai savo interneto svetainėje. Komisijos valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė.
+17. Komisija kiekvienais metais rengia detalią metinę planuojamų pajamų ir išlaidų sąmatą. Komisijos finansinė apskaita organizuojama ir tvarkoma, finansinių ataskaitų rinkiniai sudaromi ir teikiami Lietuvos Respublikos finansinės apskaitos įstatyme, Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose bei viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartuose nustatyta tvarka. Komisijos praėjusių metų finansinių ataskaitų rinkinį patikrina Komisijos parinktas auditorius ar audito įmonė ne vėliau kaip iki balandžio 1 dienos. Auditorius ar audito įmonė parenkami Viešųjų pirkimų įstatyme nustatyta tvarka. Atlikus auditą, Komisijai pateikiama nepriklausomo auditoriaus išvada ir audito ataskaita, kurias Komisija paskelbia viešai savo interneto svetainėje. Komisijos valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
+ 
 
 
 
@@ -4464,7 +4488,10 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-16) kreipiasi į Vilniaus apygardos administracinį teismą dėl neteisėtai vykdomos transliavimo, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, neteisėtai vykdomo radijo ir (ar) televizijos programų retransliavimo nutraukimo;
+16) kreipiasi į pirmosios instancijos administracinį teismą dėl neteisėtai vykdomos transliavimo, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, neteisėtai vykdomo radijo ir (ar) televizijos programų retransliavimo nutraukimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4554,7 +4581,10 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-6) šio straipsnio 4 ir 5 dalyse nustatytais atvejais kreiptis į Vilniaus apygardos administracinį teismą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete ir užsakomųjų audiovizualinės žiniasklaidos paslaugų veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos nutraukimo.
+6) šio straipsnio 4 ir 5 dalyse nustatytais atvejais kreiptis į pirmosios instancijos administracinį teismą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete ir užsakomųjų audiovizualinės žiniasklaidos paslaugų veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos nutraukimo. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4566,7 +4596,7 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-4. Komisija turi teisę kreiptis į Vilniaus apygardos administracinį teismą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos laikino sustabdymo ne ilgiau kaip 3 mėnesiams, jeigu:
+4. Komisija turi teisę kreiptis į pirmosios instancijos administracinį teismą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos laikino sustabdymo ne ilgiau kaip 3 mėnesiams, jeigu:
 
 
 1) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas per 3 mėnesius nesumoka šio straipsnio 3 dalyje nurodytos jam paskirtos baudos;
@@ -4579,14 +4609,17 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-3) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas, dalijimosi vaizdo medžiaga platformos paslaugų teikėjas laiku nesumoka metinės įmokos arba nustatytų įmokų Komisijos veiklai finansuoti ir jam per paskutinius 24 mėnesius už tokį patį pažeidimą buvo skirti du įspėjimai.
+3) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas, dalijimosi vaizdo medžiaga platformos paslaugų teikėjas laiku nesumoka metinės įmokos arba nustatytų įmokų Komisijos veiklai finansuoti ir jam per paskutinius 24 mėnesius už tokį patį pažeidimą buvo skirti du įspėjimai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
 
-
-
-5. Komisija turi teisę kreiptis į Vilniaus apygardos administracinį teismą dėl transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo ir kitokios neteisėtos veiklos nutraukimo, jeigu:
+5. Komisija turi teisę kreiptis į pirmosios instancijos administracinį teismą dėl transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo ir kitokios neteisėtos veiklos nutraukimo, jeigu:
 
 
 1) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas, dalijimosi vaizdo medžiaga platformos paslaugų teikėjas vykdo transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą po šio straipsnio 4 dalyje nurodytu pagrindu priimto teismo sprendimo įsiteisėjimo arba po transliavimo licencijos ir (ar) retransliuojamo turinio licencijos panaikinimo;
@@ -4594,9 +4627,12 @@ Nr. XIV-1904, 2023-04-25, paskelbta TAR 2023-04-27, i. k. 2023-08106
 
 
 
-2) asmenys, vykdantys nelicencijuojamą radijo ir (ar) televizijos programų transliavimo veiklą, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai, dalijimosi vaizdo medžiaga platformos paslaugų teikėjai, taip pat retransliuotojai, kurie radijo ir (ar) televizijos programoms retransliuoti nenaudoja radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytų radijo dažnių (kanalų), pradėjo vykdyti veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka.
+2) asmenys, vykdantys nelicencijuojamą radijo ir (ar) televizijos programų transliavimo veiklą, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai, dalijimosi vaizdo medžiaga platformos paslaugų teikėjai, taip pat retransliuotojai, kurie radijo ir (ar) televizijos programoms retransliuoti nenaudoja radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytų radijo dažnių (kanalų), pradėjo vykdyti veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4618,7 +4654,10 @@ Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
 
 
 
-7. Komisija, siekdama atlikti šio straipsnio 6 dalyje nurodytus veiksmus, privalo Vilniaus apygardos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Šiame prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamo pažeidimo (įtariamų pažeidimų) pobūdis ir veiksmai, kuriuos numatoma atlikti. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį patenkinti prašymą išduoti leidimą atlikti veiksmus arba atmesti šį prašymą. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir teismo nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo dienos apskųsti nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo Komisijos skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+7. Komisija, siekdama atlikti šio straipsnio 6 dalyje nurodytus veiksmus, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Šiame prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamo pažeidimo (įtariamų pažeidimų) pobūdis ir veiksmai, kuriuos numatoma atlikti. Teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį patenkinti prašymą išduoti leidimą atlikti veiksmus arba atmesti šį prašymą. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir teismo nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Komisija nesutinka su teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo dienos ją apskųsti Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo Komisijos skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4673,7 +4712,10 @@ Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
 
 
 
-14. Baigus tyrimą, šio įstatymo pažeidimu įtariamiems asmenims sudaroma galimybė susipažinti su tyrimo bylos medžiaga, išskyrus atvejus, kai Komisija motyvuotai nusprendžia neleisti susipažinti su dalimi medžiagos, sudarančios valstybės ar tarnybos paslaptį arba kito ūkio subjekto komercinę paslaptį. Komisijos sprendimas neleisti susipažinti su dalimi medžiagos, sudarančios valstybės ar tarnybos paslaptį arba kito ūkio subjekto komercinę paslaptį, per 30 dienų nuo pranešimo apie tokio sprendimo priėmimą gavimo dienos gali būti skundžiamas Vilniaus apygardos administraciniam teismui.
+14. Baigus tyrimą, šio įstatymo pažeidimu įtariamiems asmenims sudaroma galimybė susipažinti su tyrimo bylos medžiaga, išskyrus atvejus, kai Komisija motyvuotai nusprendžia neleisti susipažinti su dalimi medžiagos, sudarančios valstybės ar tarnybos paslaptį arba kito ūkio subjekto komercinę paslaptį. Komisijos sprendimas neleisti susipažinti su dalimi medžiagos, sudarančios valstybės ar tarnybos paslaptį arba kito ūkio subjekto komercinę paslaptį, per 30 dienų nuo pranešimo apie tokio sprendimo priėmimą gavimo dienos gali būti skundžiamas pirmosios instancijos administraciniam teismui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4693,7 +4735,10 @@ Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
 
 
 
-18. Komisijos sprendimai dėl baudos paskyrimo gali būti skundžiami Vilniaus apygardos administraciniam teismui. Nurodytų Komisijos sprendimų apskundimas nestabdo šių sprendimų vykdymo.
+18. Komisijos sprendimai dėl baudos paskyrimo gali būti skundžiami pirmosios instancijos administraciniam teismui. Nurodytų Komisijos sprendimų apskundimas nestabdo šių sprendimų vykdymo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4703,7 +4748,10 @@ Nr. XIV-1021, 2022-04-19, paskelbta TAR 2022-04-28, i. k. 2022-08772
 
 
 
-20. Šio straipsnio 4 ir 5 dalyse numatytais atvejais kreipdamasi į Vilniaus apygardos administracinį teismą, Komisija pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos nutraukimo ir pateikia prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Vilniaus apygardos administracinis teismas turi priimti sprendimą laikinai sustabdyti nelicencijuojamą veiklą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Vilniaus apygardos administracinio teismo sprendimas dėl Komisijos prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą per 14 dienų nuo jo paskelbimo gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos.
+20. Šio straipsnio 4 ir 5 dalyse numatytais atvejais kreipdamasi į pirmosios instancijos administracinį teismą, Komisija pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos nutraukimo ir pateikia prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Teismas turi priimti sprendimą laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Teismo sprendimas dėl Komisijos prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą per 14 dienų nuo jo paskelbimo gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+ 
 
 
 
@@ -4817,7 +4865,10 @@ Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 
 
 
-7. Inspektorius negali eiti jokių kitų renkamų ar skiriamų pareigų, taip pat gauti jokio kito atlyginimo, išskyrus nustatytą pagal Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymą ir užmokestį už pedagoginę ar kūrybinę veiklą.
+7. Inspektorius negali eiti jokių kitų renkamų ar skiriamų pareigų, taip pat gauti jokio kito atlyginimo, išskyrus inspektoriaus darbo užmokestį ir užmokestį už pedagoginę ar kūrybinę veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
+ 
 
 
 
@@ -4858,9 +4909,10 @@ Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 
 
-10. Inspektoriaus veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba. Žurnalistų etikos inspektoriaus tarnyba yra biudžetinė įstaiga, kuriai vadovauja ir tarnybos struktūrą tvirtina inspektorius. 
+10. Inspektoriaus veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba. Žurnalistų etikos inspektoriaus tarnyba yra biudžetinė įstaiga, kuriai vadovauja inspektorius.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
  
 
 
@@ -5495,7 +5547,7 @@ Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
  
  
  
-part_b86c6af2e7204f2faedc5bedab94bed7_end
+part_894ec9958bd946c6a470a0d91a4a9c0b_end
 
 
 Pakeitimai:
@@ -5852,3 +5904,13 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 6, 19, 24, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2018, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10704
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 31, 46, 46-1 ir 48 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1609, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25207
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 19, 22, 31, 33, 34-1, 46-1 ir 48 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1989, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11560
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 47 ir 49 straipsnių pakeitimo įstatymas
