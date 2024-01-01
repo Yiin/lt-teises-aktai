@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
  
@@ -2911,7 +2911,10 @@ Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 
-4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus, valdymo įmonės veiklos trūkumus, taip pat jei kyla grėsmė valdymo įmonės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) pensijų kaupimo dalyvių interesams, turi teisę prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas.
+4. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus, valdymo įmonės veiklos trūkumus, taip pat jei kyla grėsmė valdymo įmonės veiklos stabilumui ir patikimumui arba visuomenės, investuotojų ir (arba) pensijų kaupimo dalyvių interesams, turi teisę prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja pirmosios instancijos administracinis teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1601, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25179
+ 
 
 
 
@@ -3255,7 +3258,7 @@ Priedo pakeitimai:
 Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
  
-part_e9165a7dfc61446d9ebc8d9d8607637c_end
+part_cb5727597bc4432a9570fa678bef9bc5_end
 
 
 Pakeitimai:
@@ -3383,3 +3386,8 @@ Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1037, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08784
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1601, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25179
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 58 straipsnio pakeitimo įstatymas
