@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10c22fe02acf11eabe008ea93139d588"
 
 # Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymas
 
-Suvestinė redakcija nuo 2022-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: TAR 2019-12-30, i. k. 2019-21534
  
@@ -190,20 +190,22 @@ Mokestis sumokamas iki motorinės transporto priemonės registracijos Kelių tra
 7 straipsnis. Mokesčio administravimas
 
 
-1. Mokesčio apskaičiavimo ir sumokėjimo klausimais konsultacijas ir informaciją apie mokestines prievoles mokesčio mokėtojams teikia valstybės įmonė „Regitra“. 
+1. Sprendimus dėl mokesčio apskaičiavimo ir jo sumokėjimo priima, konsultacijas mokesčio apskaičiavimo ir sumokėjimo klausimais ir informaciją apie mokestines prievoles mokesčio mokėtojams teikia akcinė bendrovė „Regitra“.
 
 
 
 
-2. Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos ir Lietuvos Respublikos vidaus reikalų ministerija ar vidaus reikalų ministro įgaliota institucija keičiasi mokesčiui administruoti reikalinga informacija. Keitimosi mokesčiui administruoti reikalinga informacija tvarką nustato vidaus reikalų ministras ar jo įgaliota institucija, suderinusi su Valstybine mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos.
+2. Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos ir akcinė bendrovė „Regitra“ keičiasi mokesčiui administruoti reikalinga informacija. Keitimosi mokesčiui administruoti reikalinga informacija tvarką nustato vidaus reikalų ministras ar jo įgaliota institucija, suderinusi su Valstybine mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos.
 
 
 
 
-3. Valstybės įmonės „Regitra“ sprendimas dėl mokesčio apskaičiavimo ir jo sumokėjimo gali būti skundžiamas valstybės įmonės „Regitra“ generaliniam direktoriui išankstinio ginčų nagrinėjimo ne teismo tvarka. Skundas valstybės įmonės „Regitra“ generaliniam direktoriui paduodamas per vieną mėnesį nuo skundžiamo valstybės įmonės „Regitra“ sprendimo priėmimo dienos. Valstybės įmonės „Regitra“ generalinio direktoriaus sprendimas skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+3. Akcinės bendrovės „Regitra“ sprendimas dėl mokesčio apskaičiavimo ir jo sumokėjimo gali būti skundžiamas akcinės bendrovės „Regitra“ vadovui išankstinio ginčų nagrinėjimo ne teismo tvarka per vieną mėnesį nuo skundžiamo sprendimo priėmimo dienos. Akcinės bendrovės „Regitra“ vadovo sprendimas skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2459, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25953
  
-
-
 
 
 
@@ -501,3 +503,8 @@ Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-727, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25845
 Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymo Nr. XIII-2690 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2459, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25953
+Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymo Nr. XIII-2690 7 straipsnio pakeitimo įstatymas
