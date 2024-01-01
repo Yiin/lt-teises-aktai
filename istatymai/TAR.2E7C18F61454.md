@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -9728,10 +9728,11 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 304 straipsnis. Apeliacinės instancijos teismo sudėtis
 
 
-1. Kai apeliaciniu skundu ginčijama suma yra ne didesnė negu du tūkstančiai eurų, taip pat ypatingosios teisenos bylose apeliacine tvarka bylą nagrinėja vienas teisėjas, tačiau apeliacinės instancijos teismo pirmininkas arba Civilinių bylų skyriaus pirmininkas, atsižvelgdamas į bylos sudėtingumą, turi teisę bylai nagrinėti sudaryti trijų teisėjų kolegiją. Nutartimi perduoti bylą nagrinėti trijų teisėjų kolegijai turi teisę ir bylą apeliacine tvarka nagrinėjantis teisėjas. Kitais atvejais apeliacine tvarka bylą nagrinėja trijų teisėjų kolegija. 
+1. Kai apeliaciniu skundu ginčijama suma yra ne didesnė negu penki tūkstančiai eurų, taip pat ypatingosios teisenos bylose apeliacine tvarka bylą nagrinėja vienas teisėjas, tačiau apeliacinės instancijos teismo pirmininkas arba Civilinių bylų skyriaus pirmininkas, atsižvelgdamas į bylos sudėtingumą, turi teisę bylai nagrinėti sudaryti trijų teisėjų kolegiją. Nutartimi perduoti bylą nagrinėti trijų teisėjų kolegijai turi teisę ir bylą apeliacine tvarka nagrinėjantis teisėjas. Kitais atvejais apeliacine tvarka bylą nagrinėja trijų teisėjų kolegija.
 Straipsnio dalies pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Nr. XIV-2138, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14332
  
 
 
@@ -13894,25 +13895,21 @@ nagrinėjimo ypatumai
 441 straipsnis. Proceso ypatumai
 
 
-1. Bylos dėl pinigų sumų, neviršijančių dviejų tūkstančių eurų, priteisimo nagrinėjamos pagal bendrąsias ginčo teisenos taisykles, išskyrus šiame straipsnyje numatytas išimtis. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
-Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
- 
+1. Bylos dėl pinigų sumų, neviršijančių penkių tūkstančių eurų, priteisimo nagrinėjamos pagal bendrąsias ginčo teisenos taisykles, išskyrus šiame straipsnyje numatytas išimtis.
 
 
 
 
-2. Jeigu ieškinio suma neviršija šio straipsnio 1 dalyje nustatytos sumos, bylą nagrinėjantis teismas turi teisę pats nuspręsti, kokia forma ir tvarka nagrinėti bylą. Byla nagrinėjama žodinio proceso tvarka, jeigu dėl to yra bent vienos šalies prašymas.
+2. Jeigu ieškinio suma neviršija šio straipsnio 1 dalyje nustatytos sumos, bylą nagrinėjantis teismas turi teisę pats nuspręsti, kokiu būdu nagrinėti bylą. Byla nagrinėjama rašytinio proceso tvarka, išskyrus atvejus, kai bylą žodinio proceso tvarka prašo nagrinėti bent viena šalis arba teismas pripažįsta, kad būtinas žodinis bylos nagrinėjimas.
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodytose bylose teismas priima sprendimą, kuriame turi būti įžanginė ir rezoliucinė dalys, taip pat trumpai išdėstyti motyvai. 
+3. Šio straipsnio 1 dalyje nurodytose bylose teismas priima sprendimą, kuriame turi būti įžanginė ir rezoliucinė dalys, taip pat trumpai išdėstyti motyvai.
 
 
 Straipsnio pakeitimai:
-Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XIV-2138, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14332
  
 
 
@@ -25823,3 +25820,8 @@ Lietuvos Respublikos civilinio proceso kodekso 62-1, 111, 134, 154, 175-2, 186, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
 Lietuvos Respublikos civilinio proceso kodekso 142, 296, 297 straipsnių pakeitimo ir Kodekso papildymo 95-1 straipsniu įstatymas
+ 
+61.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2138, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14332
+Lietuvos Respublikos civilinio proceso kodekso 62-1, 304, 441 straipsnių pakeitimo ir Kodekso papildymo 62-2, 62-3 straipsniais įstatymas
