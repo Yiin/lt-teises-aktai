@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -1484,7 +1484,13 @@ Nr. XIII-1762, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21108
 
 
 
-12. Jeigu įgyvendinus įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių plane numatytas priemones bent trys įstaigos veiklos finansinių ir (ar) veiklos rezultatų rodiklių reikšmės, dėl kurių buvo sudarytas ir įgyvendinamas šio straipsnio 11 dalyje nurodytas įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių planas, ir toliau nesiekia šio straipsnio 8 dalies 1–4 punktuose nurodytos įstaigų grupės, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų siektinų reikšmių, įstaigos steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija privalo pagal kompetenciją priimti Biudžetinių įstaigų įstatymo 4 straipsnio 3 dalyje nurodytus savininko teises ir pareigas įgyvendinančiai institucijai priskirtus sprendimus ar Viešųjų įstaigų įstatymo 10 straipsnio 1 dalyje visuotiniam dalininkų susirinkimui priskirtus sprendimus. 
+12. Jeigu įgyvendinus įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių plane numatytas priemones bent trys įstaigos veiklos finansinių ir (ar) veiklos rezultatų rodiklių reikšmės, dėl kurių buvo sudarytas ir įgyvendinamas šio straipsnio 11 dalyje nurodytas įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių planas, ir toliau nesiekia šio straipsnio 8 dalies 1–4 punktuose nurodytos įstaigų grupės, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų siektinų reikšmių, įstaigos steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija privalo pagal kompetenciją priimti Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje nurodytus savininko teises ir pareigas įgyvendinančiai institucijai priskirtus sprendimus ar Viešųjų įstaigų įstatymo 10 straipsnio 1 dalyje visuotiniam dalininkų susirinkimui priskirtus sprendimus.
+ 
+TAR pastaba: 152 straipsnio 12 dalies redakcija įsigaliosianti 204-05-01:
+12. Jeigu įgyvendinus įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių plane numatytas priemones bent trys įstaigos veiklos finansinių ir (ar) veiklos rezultatų rodiklių reikšmės, dėl kurių buvo sudarytas ir įgyvendinamas šio straipsnio 11 dalyje nurodytas įstaigos veiklos finansinių ir veiklos rezultatų gerinimo priemonių planas, ir toliau nesiekia šio straipsnio 8 dalies 1–4 punktuose nurodytos įstaigų grupės, kuriai priskiriama įstaiga, sveikatos apsaugos ministro patvirtintų siektinų reikšmių, įstaigos steigėjas (dalininkas) (steigėjai (dalininkai) ar savininko teises ir pareigas įgyvendinanti institucija privalo pagal kompetenciją priimti Biudžetinių įstaigų įstatymo 5 straipsnio 3 dalyje nurodytus savininko teises ir pareigas įgyvendinančiai institucijai priskirtus sprendimus ar Viešųjų įstaigų įstatymo 12 straipsnio 1 dalyje visuotiniam dalininkų susirinkimui priskirtus sprendimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2247, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22977
+ 
 
 
 Straipsnio pakeitimai:
@@ -2328,17 +2334,21 @@ Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
 
 
 
-2. Valstybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – valstybės turtas) Vyriausybės nustatyta tvarka LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių savininkas (dalininkas) yra valstybė (toliau – valstybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo  sutartį. Sprendimą dėl valstybės turto perdavimo patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti valstybės turto patikėjimo sutartį. Valstybės viešosios įstaigos negali šio valstybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Valstybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. 
+2. Valstybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – valstybės turtas) Vyriausybės nustatyta tvarka LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių savininkas (dalininkas) yra valstybė (toliau – valstybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl valstybės turto perdavimo patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti valstybės turto patikėjimo sutartį. Valstybės viešosios įstaigos negali šio valstybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, išskyrus Lietuvos Respublikos elektroninių ryšių įstatymo 461 straipsnyje nustatytą išimtį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Valstybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. 
+TAR pastaba: 36 straipsnio 2 dalies nuostatos taikomos ir valstybės nekilnojamajam turtui, kuris LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių savininkas (dalininkas) yra valstybė, yra perduotas patikėjimo teise valdyti, naudoti ir disponuoti juo pagal patikėjimo sutartis, sudarytas iki 2023-10-26 įstatymo Nr. XIV-2205 įsigaliojimo dienos(2024-01-01).
 Straipsnio dalies pakeitimai:
 Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
+Nr. XIV-2205, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21645
  
 
 
 
 
-3. Savivaldybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – savivaldybės turtas) savivaldybės tarybos nustatyta tvarka LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių  savininkas (dalininkas) yra savivaldybė (toliau – savivaldybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl savivaldybės turto perdavimo patikėjimo teise priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės institucija ar įstaiga, įgaliota sudaryti savivaldybės turto patikėjimo sutartį. Savivaldybių viešosios įstaigos negali šio savivaldybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Savivaldybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. 
+3. Savivaldybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – savivaldybės turtas) savivaldybės tarybos nustatyta tvarka LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių  savininkas (dalininkas) yra savivaldybė (toliau – savivaldybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl savivaldybės turto perdavimo patikėjimo teise priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės institucija ar įstaiga, įgaliota sudaryti savivaldybės turto patikėjimo sutartį. Savivaldybių viešosios įstaigos negali šio savivaldybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, išskyrus Elektroninių ryšių įstatymo 461 straipsnyje nustatytą išimtį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Savivaldybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
+TAR pastaba: 36 straipsnio 3 dalies nuostatos taikomos ir savivaldybės nekilnojamajam turtui, kuris LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių savininkas (dalininkas) yra savivaldybė, yra perduotas patikėjimo teise valdyti, naudoti ir disponuoti juo pagal patikėjimo sutartis, sudarytas iki iki 2023-10-26 įstatymo Nr. XIV-2205 įsigaliojimo dienos(2024-01-01).
 Straipsnio dalies pakeitimai:
 Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
+Nr. XIV-2205, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21645
  
 
 
