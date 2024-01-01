@@ -21,7 +21,7 @@ Projektas XXXX XX XX Nr
  
 
 
-Suvestinė redakcija nuo 2023-12-23 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -10244,9 +10244,10 @@ Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
 
 
 
-2. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba draudimo ar perdraudimo įmonės ar trečiosios valstybės draudimo arba perdraudimo įmonės filialo veiklos trūkumus, taip pat jeigu kyla grėsmė draudimo ar perdraudimo įmonės ar trečiosios valstybės draudimo arba perdraudimo įmonės filialo veiklos stabilumui ir patikimumui arba visuomenės, draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesams, turi teisę mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja Vilniaus apygardos administracinis teismas. Turto arešto aktą pasirašo priežiūros institucijos vadovas. Turto arešto aktas registruojamas Lietuvos Respublikos turto arešto aktų registro įstatymo nustatyta tvarka. 
+2. Priežiūros institucija, nustačiusi arba turėdama pagrindą įtarti teisės aktų pažeidimus arba draudimo ar perdraudimo įmonės ar trečiosios valstybės draudimo arba perdraudimo įmonės filialo veiklos trūkumus, taip pat jeigu kyla grėsmė draudimo ar perdraudimo įmonės ar trečiosios valstybės draudimo arba perdraudimo įmonės filialo veiklos stabilumui ir patikimumui arba visuomenės, draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesams, turi teisę mutatis mutandis vadovaudamasi Lietuvos banko įstatymo 421 straipsnyje nustatyta tvarka, taikoma teismo leidimams, prašyti teismo nutartimi laikinai areštuoti asmenų turtą. Priežiūros institucijos prašymus areštuoti turtą nagrinėja pirmosios instancijos administracinis teismas. Turto arešto aktą pasirašo priežiūros institucijos vadovas. Turto arešto aktas registruojamas Lietuvos Respublikos turto arešto aktų registro įstatymo nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Nr. XIV-1583, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25133
  
 
 
@@ -11397,3 +11398,8 @@ Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 93, 200, 205 straipsnių ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1974, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10367
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 22, 52, 79, 90, 90-1, 93, 116, 158, 158-2, 161, 174 straipsnių ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1583, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25133
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 207 straipsnio pakeitimo įstatymas
