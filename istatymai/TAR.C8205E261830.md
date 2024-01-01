@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
- 
-TAR pastaba. Įstatymo Nr. XIV-1839 nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo nuostatos. Iki šio įstatymo taikymo dienos pradėtos vaiko laikinosios globos (rūpybos) nustatymo procedūros baigiamos pagal Vaiko teisių apsaugos pagrindų įstatymo nuostatas, galiojusias iki šio įstatymo įsigaliojimo dienos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 36-4, 41, 42, 43, 50 ir 52 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2018-07-01:
 Nr. XIII-643, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16087
@@ -169,10 +164,11 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos šeimos stiprinimo įstatyme, Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). 
+16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos šeimos stiprinimo įstatyme, Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatyme, Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
 Straipsnio dalies pakeitimai:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
+Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
  
 
 
@@ -2437,7 +2433,18 @@ Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 
 
-18) vykdo kitas šiame įstatyme ir kituose jos (jų) veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
+18) Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo nustatyta tvarka kreipiasi į Valstybės garantuojamos teisinės pagalbos tarnybą dėl antrinės valstybės garantuojamos teisinės pagalbos suteikimo vaikui; 
+Papildyta straipsnio punktu:
+Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
+ 
+
+
+
+
+19) vykdo kitas šiame įstatyme ir kituose jos (jų) veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
+ 
 
 
 
@@ -2807,3 +2814,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 14, 4
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 36-4, 41, 42, 43, 50 ir 52 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2 ir 50 straipsnių pakeitimo įstatymas
