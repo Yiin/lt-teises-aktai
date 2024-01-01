@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2022-03-24 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-10-09
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -1476,11 +1476,12 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 20 straipsnis. Sprendimų, priimtų taikant šį įstatymą, teisminė kontrolė
 
 
-Šio įstatymo pagrindu Komisijos, viešojo administravimo subjektų priimti sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Toks skundas turi būti išnagrinėtas ne vėliau kaip per 45 dienas nuo skundo priėmimo dienos, o apeliacinis skundas dėl pirmosios instancijos administracinio teismo sprendimo – ne vėliau kaip per 30 dienų nuo apeliacinio skundo priėmimo dienos.
+Šio įstatymo pagrindu Komisijos, viešojo administravimo subjektų priimti sprendimai gali būti skundžiami pirmosios instancijos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Toks skundas turi būti išnagrinėtas ne vėliau kaip per 45 dienas nuo skundo priėmimo dienos, o apeliacinis skundas dėl pirmosios instancijos administracinio teismo sprendimo – ne vėliau kaip per 30 dienų nuo apeliacinio skundo priėmimo dienos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+Nr. XIV-1599, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25173
  
 
 
@@ -1501,8 +1502,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
+ 
 Lietuvos Respublikos 
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
@@ -1591,11 +1591,11 @@ Nr. XIII-3090, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13967
  
 
 
-part_d60def054dec43c09ffe18d2645724e0_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos 
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
@@ -1760,11 +1760,11 @@ Nr. XIV-233, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07424
  
 
 
-part_3a335abf39554411a98521e454bed5f8_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
@@ -1800,11 +1800,11 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
 
 
-part_e0e079efed30447f95509d42db560b82_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos 
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
@@ -1962,11 +1962,11 @@ Nr. XIV-233, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07424
 
 
 
-part_6b366cd6de5f46f5a8a7b7fb99dff3c5_end
 
 
- 
 
+
+ 
 Lietuvos Respublikos 
 nacionaliniam saugumui užtikrinti
 svarbių objektų apsaugos įstatymo
@@ -2126,5 +2126,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-957, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05379
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 12, 13 ir 19 straipsnių pakeitimo įstatymas
  
- 
-part_7653337d23c74cb2a89010377b923ed0_end
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1599, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25173
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 20 straipsnio pakeitimo įstatymas
