@@ -18,10 +18,9 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2023-11-10 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-04-25
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -3762,7 +3761,10 @@ FINANSŲ ĮSTAIGŲ IR KITŲ ĮPAREIGOTŲJŲ SUBJEKTŲ PRIEŽIŪRA
 
 
 
-4. Priežiūros institucijai priėmus sprendimą dėl veiksmų, nustatytų šio straipsnio 1 dalies 8 punkte, Vilniaus apygardos administraciniam teismui pateikiamas prašymas leisti atlikti šiuos veiksmus. Prašyme turi būti nurodytas juridinio asmens pavadinimas arba fizinio asmens vardas ir pavardė, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai. Prie prašymo turi būti pridėti duomenys, kuriais grindžiamas įtarimas padarius šio įstatymo pažeidimus. Prašymą išduoti teismo leidimą rašytinio proceso tvarka išnagrinėja Vilniaus apygardos administracinis teismas ir priima motyvuotą nutartį patenkinti prašymą arba jį atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Priežiūros institucija, nesutinkanti su Vilniaus apygardos administracinio teismo sprendimu atmesti prašymą, turi teisę per 7 kalendorines dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 kalendorines dienas. Priežiūros institucijos atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+4. Priežiūros institucijai priėmus sprendimą dėl veiksmų, nustatytų šio straipsnio 1 dalies 8 punkte, pirmosios instancijos administraciniam teismui pateikiamas prašymas leisti atlikti šiuos veiksmus. Prašyme turi būti nurodyta juridinio asmens pavadinimas arba fizinio asmens vardas ir pavardė, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai. Prie prašymo turi būti pridėti duomenys, kuriais grindžiamas įtarimas padarius šio įstatymo pažeidimus. Prašymą išduoti teismo leidimą rašytinio proceso tvarka išnagrinėja pirmosios instancijos administracinis teismas ir priima motyvuotą nutartį patenkinti prašymą arba jį atmesti. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Priežiūros institucija, nesutinkanti su teismo sprendimu atmesti prašymą, turi teisę per 7 kalendorines dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl teismo nutarties ne vėliau kaip per 7 kalendorines dienas. Priežiūros institucijos atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1603, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25182
+ 
 
 
 
@@ -4893,3 +4895,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1497, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22685
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, 36 straipsnių pakeitimo įstatymo Nr. XIV-831 7 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1603, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25182
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 32 straipsnio pakeitimo įstatymas
