@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2023-06-10 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -376,7 +376,9 @@ Nr. XIII-1379, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12047
 
 
 
-5. Didžiausią leistiną Respublikos Prezidento politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Respublikos Prezidento kanceliarijos valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų pareigybių skaičių Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka tvirtina Respublikos Prezidentas ar jo įgaliotas asmuo.
+5. Respublikos Prezidento politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Respublikos Prezidento kanceliarijos valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų pareigybių skaičių ir pareigybių sąrašą Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka nustato Respublikos Prezidentas ar jo įgaliotas asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2014, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11593
  
 
 
