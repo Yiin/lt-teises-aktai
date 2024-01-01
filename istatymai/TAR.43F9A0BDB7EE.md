@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.43F9A0BDB7EE"
 
 # Lietuvos Respublikos kultūros centrų įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4435, i. k. 1041010ISTA0IX-2395
  
@@ -133,9 +133,16 @@ KULTŪROS CENTRŲ TINKLAS, FUNKCIJOS, VEIKLOS TEISINIO REGULIAVIMO YPATUMAI
 
 
 3. Savivaldybė, kurios teritorijoje veiklą vykdo tik vienas daugiasritis ar specializuotas savivaldybės kultūros centras, užtikrindama šio įstatymo 5 straipsnyje nurodytų savivaldybių kultūros centrų funkcijų įgyvendinimą, gali pasitelkti kitus kultūros centrus ir (ar) kultūros paslaugų teikėjus. 
+
+
+
+
+4. Kiekviena savivaldybė, pasitelkdama jos teritorijoje veiklą vykdančius daugiasričius ir (ar) specializuotus savivaldybių kultūros centrus, o šio straipsnio 3 dalyje nurodytais atvejais – kitus kultūros centrus ir (ar) kultūros paslaugų teikėjus, turi užtikrinti, kad būtų įgyvendinamos visos šio įstatymo 5 straipsnyje nurodytos savivaldybių kultūros centrų funkcijos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-1718, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27562
  
-
-
 
 
 
