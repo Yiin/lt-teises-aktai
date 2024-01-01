@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2023-12-30 iki 2023-12-31
+Suvestinė redakcija nuo 2024-01-01 iki 2024-01-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -1019,7 +1019,7 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 2342 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 8, 9 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 515 straipsnio 1, 2 dalyse, 524, 5571 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:  
+4. Už šio kodekso 47 straipsnyje, 60 straipsnio 3 dalyje, 65, 122, 125, 127 straipsniuose, 134 straipsnio 6, 7, 8, 9 dalyse, 142, 174, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 212 straipsnio 2, 3 dalyse, 213 straipsnio 1, 2, 3, 4 dalyse, 214 straipsnio 1, 2, 3 dalyse, 215 straipsnio 4 dalyje, 218 straipsnyje, 2342 straipsnio 1 dalyje, 240, 245 straipsniuose, 247 straipsnio 10, 11, 12, 13, 14, 15, 16 dalyse, 272, 273, 274 straipsniuose, 290 straipsnio 2, 3, 5, 6, 7, 8 dalyse, 291 straipsnio 1, 2, 4, 6, 7 dalyse, 293 straipsnio 3 dalyje, 299 straipsnio 2, 3, 4, 5 dalyse, 346 straipsnyje, 393 straipsnio 3, 4, 5 dalyse, 420 straipsnio 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 5, 6 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427, 464, 465, 466, 467, 468, 470 straipsniuose, 473 straipsnio 4 dalyje, 474 straipsnio 4 dalyje, 475 straipsnyje, 515 straipsnio 1, 2 dalyse, 524, 5571 straipsniuose numatytų administracinių nusižengimų padarymą gali būti konfiskuojamas ir ne pažeidėjui nuosavybės teise priklausantis šio straipsnio 2 dalyje nurodytas turtas, jeigu:  
 Straipsnio dalies pakeitimai:
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
@@ -1027,6 +1027,7 @@ Nr. XIV-1568, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25034
 Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
 Nr. XIV-1867, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06474
 Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
 
 
 1) perleisdamas turtą pažeidėjui ar kitiems asmenims, šis asmuo žinojo, kad šis turtas bus naudojamas administraciniam nusižengimui daryti;
@@ -4987,6 +4988,26 @@ Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
 
 
 
+1471 straipsnis. Europos Sąjungos ir Lietuvos Respublikos teisės aktų, reglamentuojančių kvalifikuotų elektroninės atpažinties priemonių išdavimo paslaugų teikėjų veiklą, pažeidimas
+
+
+1. Europos Sąjungos ir Lietuvos Respublikos teisės aktų, reglamentuojančių kvalifikuotų elektroninės atpažinties priemonių išdavimo paslaugų teikėjų veiklą, pažeidimas
+užtraukia baudą kvalifikuotų elektroninės atpažinties paslaugų teikėjams – asmenims arba juridinių asmenų vadovams, jų įgaliotiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, dėl kurio žalos patyrė kvalifikuotų elektroninės atpažinties paslaugų naudotojai,
+užtraukia baudą kvalifikuotų elektroninės atpažinties paslaugų teikėjams – asmenims arba juridinių asmenų vadovams, jų įgaliotiems asmenims nuo vieno tūkstančio vieno šimto iki trijų tūkstančių eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-1953, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09697
+ 
+
+
+
+
 148 straipsnis. Informacijos apie privatizavimo objektą nepateikimas arba atskleidimas
 
 
@@ -6135,6 +6156,26 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 Papildyta straipsniu:
 Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
+ 
+
+
+
+
+1884 straipsnis. Mokėjimo paslaugų teikėjams nustatytų reikalavimų nesilaikymas
+
+
+1. Mokėjimo paslaugų teikėjams Lietuvos Respublikos mokesčių administravimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų nesilaikymas
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių aštuonių šimtų eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690
  
 
 
@@ -7932,8 +7973,11 @@ Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
 
 
 
-13. Aplinkos užteršimas penkių kubinių metrų ir didesniu nepavojingų atliekų kiekiu
-užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių devynių šimtų eurų.
+13. Aplinkos užteršimas penkių kubinių metrų ir didesniu, bet mažesniu kaip penkiolika kubinių metrų nepavojingų atliekų kiekiu
+užtraukia baudą nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių devynių šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2221, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22367
+ 
 
 
 
@@ -7948,8 +7992,11 @@ Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
 
 
 
-15. Aplinkos užteršimas penkių kubinių metrų ir didesniu pavojingų atliekų kiekiu
+15. Aplinkos užteršimas penkių kubinių metrų ir didesniu, bet mažesniu kaip septyni kubiniai metrai pavojingų atliekų kiekiu
 užtraukia baudą nuo trijų tūkstančių iki keturių tūkstančių trijų šimtų eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2221, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22367
+ 
 
 
 
@@ -8381,6 +8428,94 @@ užtraukia baudą nuo dviejų šimtų trisdešimt iki keturių šimtų trisdeši
 
 
 6. Nedalyvavimas tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų ir šiukšlių išrinkimo ir tvarkymo sistemoje
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+2482 straipsnis. Drėgnųjų servetėlių ir (ar) oro balionėlių atliekų tvarkymo reikalavimų nevykdymas
+
+
+1. Drėgnųjų servetėlių ir (ar) oro balionėlių pateikimas Lietuvos Respublikos rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
+užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+
+
+
+2. Drėgnųjų servetėlių ir (ar) oro balionėlių apskaitos ataskaitų nepateikimas iki nustatytų terminų
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
+
+
+
+
+3. Klaidingų duomenų pateikimas drėgnųjų servetėlių ir (ar) oro balionėlių apskaitos ataskaitose
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+
+
+
+4. Šio straipsnio 1, 2, 3 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
+
+
+
+
+5. Drėgnųjų servetėlių ir (ar) oro balionėlių apskaitos netvarkymas ar netinkamas tvarkymas
+užtraukia baudą nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų.
+
+
+
+
+6. Nedalyvavimas drėgnųjų servetėlių ir (ar) oro balionėlių atliekų ir šiukšlių išrinkimo ir tvarkymo sistemoje
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+2483 straipsnis. Žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo reikalavimų nevykdymas
+
+
+1. Žvejybos įrankių, kurių sudėtyje yra plastiko, pateikimas Lietuvos Respublikos rinkai neįsiregistravus Gamintojų ir importuotojų registravimo sąvade
+užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+
+
+
+
+2. Žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitos ataskaitų nepateikimas iki nustatytų terminų
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto dvidešimt iki dviejų šimtų dvidešimt eurų.
+
+
+
+
+3. Klaidingų duomenų pateikimas žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitos ataskaitose
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+
+
+
+4. Šio straipsnio 1, 2, 3 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
+
+
+
+
+5. Žvejybos įrankių, kurių sudėtyje yra plastiko, apskaitos netvarkymas ar netinkamas tvarkymas
+užtraukia baudą nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų.
+
+
+
+
+6. Nedalyvavimas žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo sistemoje
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų. 
 
 
@@ -12168,6 +12303,24 @@ užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
 
 
 
+3331 straipsnis. Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatyme nustatytos informacijos nepateikimas, neteisingos ar neišsamios informacijos pateikimas siekiant įsigyti žemės ūkio paskirties žemės sklypą
+
+
+Žemės ūkio paskirties žemės įsigijimo įstatyme nustatytos informacijos nepateikimas, neteisingos ar neišsamios informacijos pateikimas siekiant įsigyti žemės ūkio paskirties žemės sklypą
+
+
+
+
+užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+
+Papildyta straipsniu:
+Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325
+ 
+
+
+
+
 334 straipsnis. Geodezijos ir kartografijos darbų atlikimą, nekilnojamųjų daiktų kadastro duomenų nustatymą ir keitimą reglamentuojančių teisės aktų pažeidimas
 
 
@@ -14750,38 +14903,36 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 
 1. Nesankcionuotas įvažiavimas arba įėjimas į oro uostą arba kitų aviacijos įmonių riboto patekimo plotus (zonas) ir buvimas juose, važiavimas arba ėjimas aerodromu pažeidžiant transporto priemonių ir mašinų judėjimo aerodrome ir darbų saugos taisykles
-užtraukia baudą nuo keturiolikos iki trisdešimt eurų.
+užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų dvidešimt eurų.
 
 
 
 
 2. Aukštų statinių ženklinimo taisyklių pažeidimas
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki dviejų šimtų trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų trisdešimt iki keturių šimtų trisdešimt eurų.
+užtraukia baudą asmenims nuo vieno tūkstančio šešių šimtų iki dviejų tūkstančių penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių penkių šimtų iki keturių tūkstančių šešių šimtų eurų.
 
 
 
 
 3. Į aerodromams atpažinti naudojamus žymėjimo ženklus panašių ženklų statymas aerodromo apsaugos zonoje
-užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų. 
+užtraukia baudą asmenims nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų tūkstančių dviejų šimtų iki keturių tūkstančių aštuonių šimtų eurų.
 
 
 
 
-4. Objektų statyba, rekonstravimas ir įrengimas aerodromų apsaugos zonose nesuderinus su Transporto kompetencijų agentūra ir (ar) su Lietuvos kariuomenės vadu (karinių aerodromų apsaugos zonose), objektų statybos, rekonstravimo ir įrengimo darbai radiolokatorių apsaugos zonoje nesuderinus su Transporto kompetencijų agentūra, Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos ir (ar) su kariuomenės vadu 
-užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480
-Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
- 
+4. Objektų statyba, rekonstravimas ir įrengimas aerodromų apsaugos zonose nesuderinus su Transporto kompetencijų agentūra ir (ar) su Lietuvos kariuomenės vadu (karinių aerodromų apsaugos zonose), objektų statybos, rekonstravimo ir įrengimo darbai radiolokatorių apsaugos zonoje nesuderinus su Transporto kompetencijų agentūra, Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos ir (ar) su kariuomenės vadu
+užtraukia baudą asmenims nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų tūkstančių dviejų šimtų iki keturių tūkstančių aštuonių šimtų eurų.
 
 
 
 
 5. Aerodromo ir oro eismo paslaugoms teikti naudojamų įrenginių, orlaivių ir kitos aviacijos įrangos gadinimas
-užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+užtraukia baudą nuo trijų tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
  
-
-
 
 
 
@@ -14790,13 +14941,19 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 
 1. Pavojingųjų medžiagų ar gaminių vežimo orlaiviais taisyklių pažeidimas
-užtraukia baudą asmenims nuo trisdešimt iki penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų.
+užtraukia baudą asmenims nuo vieno tūkstančio vieno šimto iki vieno tūkstančio aštuonių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų tūkstančių trijų šimtų iki šešių tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
+ 
 
 
 
 
 2. Draudžiamų orlaiviais vežti pavojingųjų medžiagų ar gaminių vežimas
-užtraukia baudą asmenims nuo trisdešimt iki penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų.
+užtraukia baudą asmenims nuo vieno tūkstančio vieno šimto iki vieno tūkstančio aštuonių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų tūkstančių trijų šimtų iki šešių tūkstančių eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
+ 
 
 
 
@@ -14817,10 +14974,12 @@ Laivo vado teisėtų nurodymų nevykdymas orlaivyje
 
 
 
-užtraukia įspėjimą arba baudą nuo keturiasdešimt iki devyniasdešimt eurų.
+užtraukia baudą nuo keturių šimtų iki devynių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
  
-
-
 
 
 
@@ -14912,176 +15071,177 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penk
 393 straipsnis. Orlaivių naudojimo taisyklių pažeidimas
 
 
-1. Įrašų, žinant, kad jie melagingi, įrašymas orlaivio techninės priežiūros ir skrydžio dokumentuose arba reikiamų įrašų neįrašymas, Reglamente (ES) Nr. 965/2012 nurodytų privalomų dokumentų nebuvimas orlaivyje skrydžio metu 
-užtraukia baudą nuo keturiasdešimt iki devyniasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+1. Įrašų, žinant, kad jie melagingi, įrašymas orlaivio techninės priežiūros ir skrydžio dokumentuose arba reikiamų įrašų neįrašymas, Reglamente (ES) Nr. 965/2012 nurodytų privalomų dokumentų nebuvimas orlaivyje skrydžio metu
+užtraukia baudą nuo keturių šimtų iki devynių šimtų eurų.
 
 
 
 
-2. Bepiločių orlaivių naudojimo taisyklių, nustatytų 2019 m. gegužės 24 d. Komisijos įgyvendinimo reglamente (ES) 2019/947 dėl bepiločių orlaivių naudojimo taisyklių ir tvarkos, pažeidimas, išskyrus šio straipsnio 3 dalyje nurodytus pažeidimus,
+2. Bepiločių orlaivių ir bepiločių orlaivių sistemų (toliau – UAS) naudojimo taisyklių, nustatytų 2019 m. gegužės 24 d. Komisijos įgyvendinimo reglamente (ES) 2019/947 dėl bepiločių orlaivių naudojimo taisyklių ir tvarkos, pažeidimas, išskyrus šio straipsnio 4, 6, 8 dalyse nurodytus pažeidimus,
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+
+
+3. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno tūkstančio iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
+4. Skrydžių vykdymas, naudojant UAS, virš karinių teritorijų arba nustatytu atstumu iki jų, arba draudžiamoje, ribojamoje ir pasienio zonos oro erdvėje, neturint tam teisės,
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.
+
+
+
+
+5. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+6. UAS naudotojų ir sertifikuotų UAS registracijos reikalavimų, nustatytų Reglamento (ES) 2019/947 14 straipsnyje, pažeidimas
 užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1358, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15492
- 
 
 
 
 
-3. Bepiločių orlaivių skrydžių vykdymas virš karinių teritorijų arba nustatytu atstumu iki jų, arba draudžiamoje, ribojamoje ir pasienio zonos oro erdvėje, neturint tam teisės,
-užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų.
+7. Šio straipsnio 6 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų eurų.
 
 
 
 
-4. Orlaivio įgulos nario skrydis be galiojančios reikiamos civilinės aviacijos specialisto licencijos, orlaivio techninės priežiūros ir remonto darbų atlikimas neturint galiojančios reikiamos civilinės aviacijos specialisto licencijos, orlaivio techninės priežiūros taisyklių pažeidimas arba skrydžių saugos taisyklių pažeidimas
-užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+8. UAS naudojimo sąlygų geografinėse zonose pažeidimas
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.
 
 
 
 
-5. Teisės aktuose oro vežėjams ir orlaivių naudotojams nustatytų reikalavimų apdrausti civilinę atsakomybę už keleiviams, bagažui, kroviniams ir tretiesiems asmenims padarytą žalą, antžeminių paslaugų teikėjams ir antžeminių paslaugų savateikiams nustatytų reikalavimų apdrausti savo civilinę atsakomybę už žalą, padarytą vykdant visų rūšių veiklą tarptautiniame oro uoste, nesilaikymas 
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+9. Šio straipsnio 8 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
-6. Nustatyta tvarka neįregistruoto orlaivio, orlaivio be atpažinimo ženklų arba su padirbtais atpažinimo ženklais naudojimas, galiojančio tinkamumo skraidyti pažymėjimo neturinčio orlaivio skrydžiai (išskyrus nustatyta tvarka bandomuosius skrydžius atliekančius orlaivius), orlaivio, žinant, kad jis neatitinka tinkamumo skraidyti reikalavimų, naudojimas
-užtraukia baudą nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų.
+10. Orlaivio įgulos nario skrydis be galiojančios reikiamos civilinės aviacijos specialisto licencijos, orlaivio techninės priežiūros ir remonto darbų atlikimas neturint galiojančios reikiamos civilinės aviacijos specialisto licencijos, orlaivio techninės priežiūros taisyklių pažeidimas arba skrydžių saugos taisyklių pažeidimas
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-7. Eksperimentinės kategorijos lėktuvų ir sraigtasparnių naudojimo skrydžiams reikalavimų pažeidimas
-užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+11. Teisės aktuose oro vežėjams ir orlaivių naudotojams nustatytų reikalavimų apdrausti civilinę atsakomybę už keleiviams, bagažui, kroviniams ir tretiesiems asmenims padarytą žalą, antžeminių paslaugų teikėjams ir antžeminių paslaugų savateikiams nustatytų reikalavimų apdrausti savo civilinę atsakomybę už žalą, padarytą vykdant visų rūšių veiklą tarptautiniame oro uoste, nesilaikymas
+užtraukia baudą asmenims nuo septynių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių dviejų šimtų penkiasdešimt eurų.
 
 
 
 
-8. Šio straipsnio 2 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+12. Nustatyta tvarka neįregistruoto orlaivio, orlaivio be atpažinimo ženklų arba su padirbtais atpažinimo ženklais naudojimas, galiojančio tinkamumo skraidyti pažymėjimo neturinčio orlaivio skrydžiai (išskyrus nustatyta tvarka bandomuosius skrydžius atliekančius orlaivius), orlaivio, žinant, kad jis neatitinka tinkamumo skraidyti reikalavimų, naudojimas
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių dviejų šimtų penkiasdešimt eurų.
 
 
 
 
-9. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo keturių šimtų iki šešių šimtų eurų.
+13. Eksperimentinės kategorijos lėktuvų ir sraigtasparnių naudojimo skrydžiams reikalavimų pažeidimas
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio eurų.
 
 
 
 
-10. Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340 ir Reglamente (ES) 2018/1139 nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas, arba pavojingą incidentą sukėlęs skrydžių saugos taisyklių pažeidimas
-užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+14. Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340 ir Reglamente (ES) 2018/1139 nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas, arba pavojingą incidentą sukėlęs skrydžių saugos taisyklių pažeidimas
+užtraukia baudą nuo trijų tūkstančių iki keturių tūkstančių dviejų šimtų penkiasdešimt eurų.
 
 
 
 
-11. Pakartotinis Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340 ir Reglamente (ES) 2018/1139 nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas,
-užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
+15. Pakartotinis Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340 ir Reglamente (ES) 2018/1139 nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas,
+užtraukia baudą nuo keturių tūkstančių dviejų šimtų penkiasdešimt iki šešių tūkstančių eurų.
 
 
 
 
-12. Neteko galios 2020-01-02.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
- 
-
-
-
-
-13. Už šio straipsnio 3, 8 dalyse numatytus administracinius nusižengimus gali būti skiriamas bepiločio orlaivio konfiskavimas. Už šio straipsnio 9 dalyje numatytą administracinį nusižengimą privaloma skirti bepiločio orlaivio konfiskavimą. 
+16. Už šio straipsnio 3, 4, 7, 8 dalyse numatytus administracinius nusižengimus gali būti skiriamas bepiločio orlaivio ir (ar) jo nuotolinio valdymo įrangos konfiskavimas. Už šio straipsnio 5, 9 dalyse numatytus administracinius nusižengimus privaloma skirti bepiločio orlaivio ir (ar) jo nuotolinio valdymo įrangos konfiskavimą.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-402, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09786
 Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
  
 
 
 
 
-394 straipsnis. Oro erdvės naudojimo ir skrydžių taisyklių pažeidimas 
+394 straipsnis. Oro erdvės naudojimo ir skrydžių taisyklių pažeidimas
 
 
-1. Akrobatinių skrydžių taisyklių pažeidimas 
-užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+1. Akrobatinių skrydžių taisyklių pažeidimas
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
 
 
-2. Šuolių su parašiutais taisyklių pažeidimas 
-užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų. 
+2. Šuolių su parašiutais taisyklių pažeidimas
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
 
 
 3. Oro eismo paslaugų teikimas neturint skrydžių vadovo licencijos
-užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-4. Skrydžių vadovų teisėtų nurodymų nevykdymas 
-užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų. 
+4. Skrydžių vadovų teisėtų nurodymų nevykdymas
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių dviejų šimtų penkiasdešimt eurų.
 
 
 
 
 5. Tiesioginę grėsmę skrydžio saugai sukėlęs klaidingos informacijos pateikimas orlaivio įgulai ir (ar) skrydžių vadovui
-užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių dviejų šimtų penkiasdešimt eurų.
 
 
 
 
-6. Parodomųjų renginių ir aviacijos sporto varžybų rengimo taisyklių pažeidimas 
-užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+6. Parodomųjų renginių ir aviacijos sporto varžybų rengimo taisyklių pažeidimas
+užtraukia baudą nuo septynių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-7. Skrydžių taisyklių pažeidimas
-užtraukia baudą nuo trijų šimtų iki penkių šimtų penkiasdešimt eurų.
+7. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamente (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010, nustatytų skrydžių taisyklių pažeidimas
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių septynių šimtų penkiasdešimt eurų.
 
 
 
 
 8. Orlaivio skrydis valdomoje oro erdvėje be atitinkamo leidimo, kai leidimas reikalingas,
-užtraukia baudą nuo trijų šimtų iki penkių šimtų penkiasdešimt eurų. 
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių septynių šimtų penkiasdešimt eurų.
 
 
 
 
-9. Orlaivio skrydis be specialaus leidimo draudžiamose zonose
-užtraukia baudą nuo trijų šimtų iki penkių šimtų penkiasdešimt eurų. 
+9. Orlaivio skrydis be specialaus leidimo draudžiamose arba ribojamose zonose
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių septynių šimtų penkiasdešimt eurų.
 
 
 
 
-10. Lazerio spindulio ar kito aukšto intensyvumo šviesos šaltinio tyčinis nukreipimas į skrendantį orlaivį 
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+10. Lazerio spindulio ar kito aukšto intensyvumo šviesos šaltinio tyčinis nukreipimas į skrendantį orlaivį
+užtraukia baudą nuo vieno tūkstančio penkių šimtų iki keturių tūkstančių dviejų šimtų penkiasdešimt eurų.
 
 
 
 
 11. Už šio straipsnio 10 dalyje numatytą administracinį nusižengimą privaloma skirti lazerio spindulį ar kitą aukšto intensyvumo šviesos šaltinį skleidžiančios įrangos konfiskavimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
  
-
-
 
 
 
@@ -15094,11 +15254,12 @@ Bendrųjų oro eismo srautų valdymo taisyklių pažeidimas
 
 
 
-užtraukia baudą orlaivių naudotojams – asmenims arba juridinių asmenų vadovams nuo vieno šimto keturiasdešimt iki šešių šimtų eurų ir oro navigacijos paslaugų teikėjų vadovams, oro uostus valdančių įmonių vadovams, koordinuojamų oro uostų laiko tarpsnių koordinatoriams – asmenims arba juridinių asmenų vadovams nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+užtraukia baudą orlaivių naudotojams – asmenims arba juridinių asmenų vadovams nuo devynių šimtų devyniasdešimt iki keturių tūkstančių dviejų šimtų eurų ir oro navigacijos paslaugų teikėjų vadovams, oro uostus valdančių įmonių vadovams, koordinuojamų oro uostų laiko tarpsnių koordinatoriams – asmenims arba juridinių asmenų vadovams nuo dviejų tūkstančių dviejų šimtų iki šešių tūkstančių eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
  
 
 
@@ -15107,16 +15268,17 @@ Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 396 straipsnis. Nepranešimas apie įvykusią civilinės aviacijos avariją, pavojingą incidentą ar kitą aviacijos įvykį
 
 
-Nepranešimas nustatyta tvarka kompetentingai institucijai apie įvykusią civilinės aviacijos avariją, pavojingą incidentą ar kitą aviacijos įvykį 
+Nepranešimas nustatyta tvarka kompetentingai institucijai apie įvykusią civilinės aviacijos avariją, pavojingą incidentą ar kitą aviacijos įvykį
 
 
 
 
-užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki dviejų tūkstančių penkių šimtų eurų. 
+užtraukia baudą asmenims nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki penkių tūkstančių eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
  
 
 
@@ -16806,16 +16968,18 @@ užtraukia baudą nuo trisdešimt iki penkiasdešimt eurų.
 
 
 1. Nustatytų aviacijos saugumo reikalavimų pažeidimas
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų. 
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki dviejų tūkstančių devynių šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo dviejų tūkstančių devynių šimtų iki šešių tūkstančių eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
  
-
-
 
 
 
@@ -17821,7 +17985,7 @@ ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU RYŠIŲ SISTEMA
 464 straipsnis. Aparatūros ir įrenginių naudojimo sąlygų pažeidimas 
 
 
-1. Aparatūrai ir įrenginiams taikomų reikalavimų nesilaikymas, aparatūros ir įrenginių naudojimo sąlygų pažeidimas, aparatūros, įrenginių, radijo siuntimo, radijo stebėsenos įrenginių naudojimas ir (arba) įvežimas į Lietuvos Respubliką be leidimo, kai leidimas reikalingas pagal teisės aktus, radijo ryšio slopinimo įrenginių neteisėtas naudojimas ir (arba) laikymas
+1. Aparatūrai ir įrenginiams taikomų reikalavimų nesilaikymas, aparatūros ir įrenginių naudojimo sąlygų pažeidimas, aparatūros, įrenginių, radijo bangų siuntimo, radijo stebėsenos įrenginių naudojimas ir (arba) įvežimas į Lietuvos Respubliką be leidimo, kai leidimas reikalingas pagal teisės aktus, radijo ryšio slopinimo įrenginių, radijo ryšio perėmimo įrenginių neteisėtas naudojimas ir (arba) laikymas, radijo ryšio stočių, kurios yra skirtos arba pritaikytos veikti radijo dažniais (kanalais), kuriems naudoti yra reikalingas leidimas, ir kurios yra paruoštos veikti šiais radijo dažniais (kanalais), neteisėtas laikymas
 užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba juridinių asmenų, kurie nesiverčia elektroninių ryšių veikla, vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
 
@@ -17833,14 +17997,12 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-3. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos įrenginių konfiskavimas. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
- 
+3. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo bangų siuntimo, radijo ryšio slopinimo, radijo ryšio perėmimo, radijo stebėsenos įrenginių arba radijo ryšio stočių konfiskavimas.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-699, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16808
+Nr. XIV-2206, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21646
  
 
 
@@ -20833,6 +20995,30 @@ Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
 
 
 
+5741 straipsnis. Informacinių ir elektroninių ryšių technologijų naudojimas administracinių nusižengimų teisenoje
+
+
+1. Kai neįmanoma užtikrinti administracinio nusižengimo tyrimo atlikimo ar administracinio nusižengimo bylos nagrinėjimo šiame kodekse nustatyta įprasta tvarka, taip pat siekiant, kad administracinių nusižengimų teisenos procesas būtų operatyvesnis, šio kodekso nustatytais atvejais gali būti naudojamos informacinės ir elektroninių ryšių technologijos (per vaizdo konferencijas, telekonferencijas ar kitaip). Informacinės ir elektroninių ryšių technologijos (per vaizdo konferencijas, telekonferencijas ar kitaip) naudojamos, kai yra tam tinkamos techninės galimybės ir kai pagrįstai manoma, kad taip administracinis nusižengimas bus ištirtas, o administracinio nusižengimo byla bus išnagrinėta greičiau ir ekonomiškiau. 
+
+
+
+
+2. Naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ar kitaip), administracinių nusižengimų teisenoje mutatis mutandis taikomos Lietuvos Respublikos baudžiamojo proceso kodekso nuostatos.
+
+
+
+
+3. Administracinių nusižengimų teisenos duomenys vidaus reikalų ministro nustatyta tvarka gali būti tvarkomi elektronine forma Administracinių nusižengimų registre.
+ 
+
+
+Papildyta straipsniu:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
+
+
+
+
 
 
 XXVIII SKYRIUS 
@@ -20943,7 +21129,10 @@ Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
 
 
 
-2) šaukiamas atvykti pas administracinį nusižengimą tiriantį pareigūną, į teismą ar į administracinio nusižengimo bylą ne teismo tvarka nagrinėjančią instituciją.
+2) šaukiamas atvykti pas administracinį nusižengimą tiriantį pareigūną, į teismą ar į administracinio nusižengimo bylą ne teismo tvarka nagrinėjančią instituciją arba dalyvauti administracinio nusižengimo teisenoje naudodamasis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip).
+Straipsnio punkto pakeitimai:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
@@ -21045,7 +21234,10 @@ Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
 
 
 
-2) šaukiamas atvykti pas administracinį nusižengimą tiriantį pareigūną, į teismą ar į administracinio nusižengimo bylą ne teismo tvarka nagrinėjančią instituciją.
+2) šaukiamas atvykti pas administracinį nusižengimą tiriantį pareigūną, į teismą ar į administracinio nusižengimo bylą ne teismo tvarka nagrinėjančią instituciją arba dalyvauti administracinio nusižengimo teisenoje naudodamasis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip).
+Straipsnio punkto pakeitimai:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
@@ -21091,7 +21283,10 @@ Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
 
 
 
-2. Teismo, institucijos, kurios pareigūnas tiria administracinį nusižengimą arba nagrinėja administracinio nusižengimo bylą ne teismo tvarka, šaukimu liudytojas privalo atvykti nurodytu laiku, duoti teisingus parodymus, pranešti visa, kas jam žinoma byloje, ir atsakyti į jam duodamus klausimus.
+2. Teismo, institucijos, kurios pareigūnas tiria administracinį nusižengimą arba nagrinėja administracinio nusižengimo bylą ne teismo tvarka, šaukimu liudytojas privalo atvykti nurodytu laiku arba dalyvauti administracinio nusižengimo teisenoje naudodamasis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip), duoti teisingus parodymus, pranešti visa, kas jam žinoma byloje, ir atsakyti į jam duodamus klausimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
@@ -21257,7 +21452,10 @@ Nr. XIV-391, 2021-06-15, paskelbta TAR 2021-06-17, i. k. 2021-13829
 
 
 
-3. Ekspertas ir specialistas privalo atvykti pagal šaukimą ir duoti objektyvią išvadą ar paaiškinimus pateiktais klausimais.
+3. Ekspertas ir specialistas privalo atvykti pagal šaukimą arba dalyvauti administracinio nusižengimo teisenoje naudodamiesi informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip) ir duoti objektyvią išvadą ar paaiškinimus pateiktais klausimais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
@@ -21298,7 +21496,10 @@ Nr. XIV-391, 2021-06-15, paskelbta TAR 2021-06-17, i. k. 2021-13829
 588 straipsnis. Vertėjas
 
 
-1. Vertėjas yra vertimui reikiamas kalbas mokantis arba nebylio ar kurčiojo ženklus suprantantis asmuo, administracinį nusižengimą tiriančio ar bylą nagrinėjančio pareigūno ar teismo pakviestas dalyvauti byloje šio kodekso nustatytais atvejais.
+1. Vertėjas yra vertimui reikiamas kalbas mokantis arba nebylio ar kurčiojo ženklus suprantantis asmuo, administracinį nusižengimą tiriančio ar bylą nagrinėjančio pareigūno ar teismo pakviestas dalyvauti byloje šio kodekso nustatytais atvejais. Vertėjas gali dalyvauti administracinio nusižengimo teisenoje naudodamasis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip), išskyrus atvejus, kai būtinas tiesioginis vertėjo dalyvavimas tam, kad administracinio nusižengimo teisenoje dalyvaujantis asmuo tinkamai pasinaudotų savo teisėmis arba suprastų vykstančią teiseną.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
@@ -21502,11 +21703,12 @@ Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166
 
 
 
-24) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 791, 147 straipsniuose, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476, 4761 straipsniuose, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+24) Lietuvos Respublikos ryšių reguliavimo tarnybos – dėl šio kodekso 79 straipsnio 3, 4 dalyse, 791, 147, 1471 straipsniuose, 224 straipsnio 1 dalyje, 464, 465, 466, 467, 468, 469, 470, 471, 472, 476, 4761 straipsniuose, 496 straipsnio 3 dalyje, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-637, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15113
 Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
 Nr. XIV-636, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24231
+Nr. XIV-1953, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09697
  
 
 
@@ -21564,7 +21766,7 @@ Nr. XIV-1449, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21164
 
 
 
-31) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 110, 112, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247 straipsniuose, 2471 straipsnio 3, 4 dalyse, 248, 2481, 249, 250, 251, 2511, 252, 253, 255, 256, 257, 258, 259, 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 2701 straipsniuose, 271 straipsnio 1, 2, 3, 4, 6 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 51, 52, 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+31) aplinkos apsaugos valstybinės kontrolės pareigūnai – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 92 straipsnio 1 dalyje, 110, 112, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247 straipsniuose, 2471 straipsnio 3, 4 dalyse, 248, 2481, 2482, 2483, 249, 250, 251, 2511, 252, 253, 255, 256, 257, 258, 259, 260, 261, 262, 264, 265, 266, 267, 268, 269, 270, 2701 straipsniuose, 271 straipsnio 1, 2, 3, 4, 6 dalyse, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318 straipsniuose, 346 straipsnio 1, 2, 3, 4, 5, 51, 52, 16, 17, 18, 19 dalyse, 364 straipsnyje, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2, 3, 4 dalyse, 491, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -21580,8 +21782,9 @@ Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
 Nr. XIV-897, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00754
 Nr. XIV-1399, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16125
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
-Nr. XIV-1448, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21204
 Nr. XIV-1753, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27305
+Nr. XIV-1448, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21204
+Nr. XIV-2305, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24172
  
 
 
@@ -21622,7 +21825,7 @@ Nr. XIV-1203, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15566
 
 
 
-34) Karo policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 71, 108 straipsniuose, 385 straipsnio 4, 5 dalyse, 393 straipsnio 2, 3, 8, 9 dalyse, 416, 417, 420, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 431, 481, 5052 straipsniuose, 506 straipsnio 3, 4, 41 dalyse, 508 straipsnyje, 526 straipsnio 3 dalyje, 5261, 556, 557, 5571, 562 straipsniuose numatytų administracinių nusižengimų; 
+34) Karo policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 71, 108 straipsniuose, 385 straipsnio 4, 5 dalyse, 393 straipsnio 2, 3, 4, 5, 6, 7, 8, 9 dalyse, 416, 417, 420, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 431, 481, 5052 straipsniuose, 506 straipsnio 3, 4, 41 dalyse, 508 straipsnyje, 526 straipsnio 3 dalyje, 5261, 556, 557, 5571, 562 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
@@ -21630,6 +21833,7 @@ Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
 Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621
 Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
 Nr. XIV-1641, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26582
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
  
 
 
@@ -21751,13 +21955,12 @@ Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
 
 
 
-45) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 1131, 257, 258, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
-45 punkto redakcija nuo 2024-01-01:
-45) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 364, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+45) Nacionalinės žemės tarnybos prie Aplinkos ministerijos – dėl šio kodekso 113, 1131, 3331, 334, 364, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
 Nr. XIV-1398, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16124
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
+Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325
  
 
 
@@ -21977,7 +22180,7 @@ Nr. XIV-1490, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22952
 
 
 
-66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 961, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 1871, 188, 1881, 1883, 189, 190, 191, 192, 194, 1981, 205, 207, 2071 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 3621, 431, 449, 4491 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
+66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 961, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 180, 187, 1871, 188, 1881, 1883, 1884, 189, 190, 191, 192, 194, 1981, 205, 207, 2071 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214 straipsnyje, 223 straipsnio 4, 5 dalyse, 224, 3621, 431, 449, 4491 straipsniuose, 450 straipsnio 1, 2, 17, 18 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
@@ -21991,18 +22194,19 @@ Nr. XIV-1400, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16126
 Nr. XIV-1660, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26364
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
 Nr. XIV-2021, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11835
+Nr. XIV-1949, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09690
+Nr. XIV-2239, 2023-11-16, paskelbta TAR 2023-11-27, i. k. 2023-22830
  
 
 
 
 
-67) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 350, 351, 352, 353, 354, 355, 356, 3561, 3562, 357, 3571, 358, 361, 362, 363, 364, 3641, 505, 507 straipsniuose numatytų administracinių nusižengimų;
-67 punkto redakcija nuo 2024-01-01:
-67) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 113, 1131, 257, 258, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333, 334, 350, 351, 352, 353, 354, 355, 356, 3561, 3562, 357, 3571, 358, 361, 362, 363, 364, 3641, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+67) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos – dėl šio kodekso 110, 112, 1131, 261 straipsniuose, 276 straipsnio 3, 4 dalyse, 333 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 334, 350, 351, 352, 353, 354, 355, 356, 3561, 3562, 357, 3571, 358, 361, 362, 363, 364, 3641, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2581, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20334
 Nr. XIV-1398, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16124
 Nr. XIV-1926, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08476
+Nr. XIV-2133, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14325
  
 
 
@@ -22587,27 +22791,50 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-2. Tyrimo veiksmo protokolą rašo tyrimo veiksmą atliekantis arba jam padedantis asmuo tyrimo veiksmo metu arba tuojau pat jį pabaigus. Protokole turi būti nurodyta tyrimo veiksmo atlikimo vieta ir laikas (data ir valanda), tyrimo veiksmą atliekantis asmuo, jam padedantis asmuo ir visi asmenys, kurie dalyvauja ar kurių akivaizdoje tai atliekama, apklaustų asmenų parodymai arba kitų tyrimo veiksmų aprašymas ir rezultatai, asmenų, kurie dalyvavo atliekant tyrimo veiksmą ar kurių akivaizdoje jis atliktas, pareiškimai. Kai atliekant tyrimo veiksmą buvo panaudotos techninės priemonės, protokole turi būti nurodytos jų naudojimo sąlygos ir tvarka.
+2. Administracinėn atsakomybėn traukiamo asmens, nukentėjusiojo, liudytojo apklausa gali būti atliekama naudojantis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip). Kai apklausa atliekama naudojantis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip), privaloma daryti garso ir vaizdo įrašą, kuris pridedamas prie apklausos protokolo. Apklausos protokole parodymai nefiksuojami, o nurodomi apklausos atlikimo laikas, apklausą atlikęs pareigūnas ir apklausto asmens duomenys. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
 
-3. Tyrimo veiksmo protokolą pasirašo tyrimo veiksmą atlikęs asmuo, protokolą surašęs asmuo ir visi kiti atliekant tyrimo veiksmą dalyvavę asmenys. Apie tai, kad dalyvavęs atliekant tyrimo veiksmą asmuo atsisako pasirašyti tyrimo veiksmo protokolą arba dėl fizinių trūkumų ar kitokių priežasčių negali jo pasirašyti, pažymima protokole ir tyrimo veiksmą atlikęs asmuo tai patvirtina parašu. 
+3. Tyrimo veiksmo protokolą rašo tyrimo veiksmą atliekantis arba jam padedantis asmuo tyrimo veiksmo metu arba tuojau pat jį pabaigus. Protokole turi būti nurodyta tyrimo veiksmo atlikimo vieta ir laikas (data ir valanda), tyrimo veiksmą atliekantis asmuo, jam padedantis asmuo ir visi asmenys, kurie dalyvauja ar kurių akivaizdoje tai atliekama, apklaustų asmenų parodymai arba kitų tyrimo veiksmų aprašymas ir rezultatai, asmenų, kurie dalyvavo atliekant tyrimo veiksmą ar kurių akivaizdoje jis atliktas, pareiškimai. Kai atliekant tyrimo veiksmą buvo panaudotos techninės priemonės, protokole turi būti nurodytos jų naudojimo sąlygos ir tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
 
-4. Tyrimo veiksmo protokole daromi pakeitimai, taisymai ir papildymai turi būti aptariami ir patvirtinami surašant protokolą dalyvavusių asmenų parašais.
+4. Tyrimo veiksmo protokolą pasirašo tyrimo veiksmą atlikęs asmuo, protokolą surašęs asmuo ir visi kiti atliekant tyrimo veiksmą dalyvavę asmenys. Apie tai, kad dalyvavęs atliekant tyrimo veiksmą asmuo atsisako pasirašyti tyrimo veiksmo protokolą arba dėl fizinių trūkumų ar kitokių priežasčių negali jo pasirašyti, pažymima protokole ir tyrimo veiksmą atlikęs asmuo tai patvirtina parašu. Tyrimo veiksmo, kuris atliktas šio straipsnio 2 dalyje nustatyta tvarka, protokolą pasirašo tik jį surašęs asmuo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
 
-5. Nuotraukos, negatyvai, skaitmeninės informacijos laikmenos, garso ir vaizdo įrašai ir kiti techninių priemonių panaudojimo atliekant tyrimo veiksmus rezultatai yra tyrimo veiksmo protokolo priedai, o šio straipsnio 6 dalyje numatytu atveju – administracinio nusižengimo protokolo priedai.
+5. Tyrimo veiksmo protokole daromi pakeitimai, taisymai ir papildymai turi būti aptariami ir patvirtinami surašant protokolą dalyvavusių asmenų parašais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
 
-6. Kai administracinio nusižengimo protokolas surašomas tyrimo veiksmų atlikimo metu ar tuoj pat po jų, gali būti nerašomas atskiras tyrimo veiksmų protokolas, o apie tyrimo veiksmų atlikimą įrašoma administracinio nusižengimo protokole, tačiau šis įrašas turi atitikti šio straipsnio reikalavimus.
+6. Nuotraukos, negatyvai, skaitmeninės informacijos laikmenos, garso ir vaizdo įrašai ir kiti techninių priemonių panaudojimo atliekant tyrimo veiksmus rezultatai yra tyrimo veiksmo protokolo priedai, o šio straipsnio 7 dalyje numatytu atveju – administracinio nusižengimo protokolo priedai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
+
+
+
+
+7. Kai administracinio nusižengimo protokolas surašomas tyrimo veiksmų atlikimo metu ar tuoj pat po jų, gali būti nerašomas atskiras tyrimo veiksmų protokolas, o apie tyrimo veiksmų atlikimą įrašoma administracinio nusižengimo protokole, tačiau šis įrašas turi atitikti šio straipsnio reikalavimus.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
  
 
 
@@ -23121,10 +23348,7 @@ TYRIMO PABAIGA, ADMINISTRACINIO NUSIŽENGIMO PROTOKOLAS IR ADMINISTRACINIS NUROD
 608 straipsnis. Administracinio nusižengimo protokolo surašymas
 
 
-1. Baigęs administracinio nusižengimo tyrimą, jį atlikęs pareigūnas surašo administracinio nusižengimo protokolą. Prieš rašydamas administracinio nusižengimo protokolą, pareigūnas patikrina, ar fizinis asmuo, kuriam administraciniu nusižengimu padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, kuriam administraciniu nusižengimu padaryta turtinė ar neturtinė žala, yra pripažintas nukentėjusiuoju. Nustatęs, kad šis asmuo nukentėjusiuoju nepripažintas, pareigūnas jį pripažįsta nukentėjusiuoju ir šį sprendimą įrašo į administracinio nusižengimo protokolą. Protokolas surašomas dalyvaujant administracinėn atsakomybėn traukiamam asmeniui. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
- 
+1. Baigęs administracinio nusižengimo tyrimą, jį atlikęs pareigūnas surašo administracinio nusižengimo protokolą. Prieš rašydamas administracinio nusižengimo protokolą, pareigūnas patikrina, ar fizinis asmuo, kuriam administraciniu nusižengimu padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, kuriam administraciniu nusižengimu padaryta turtinė ar neturtinė žala, yra pripažintas nukentėjusiuoju. Nustatęs, kad šis asmuo nukentėjusiuoju nepripažintas, pareigūnas jį pripažįsta nukentėjusiuoju ir šį sprendimą įrašo į administracinio nusižengimo protokolą. Protokolas surašomas dalyvaujant administracinėn atsakomybėn traukiamam asmeniui. Administracinėn atsakomybėn traukiamo asmens sutikimu jo dalyvavimas surašant administracinio nusižengimo protokolą gali būti užtikrinamas informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip).
 
 
 
@@ -23133,25 +23357,16 @@ Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
 
 
 1) kai administracinėn atsakomybėn traukiamas asmuo šaukiamas neatvyko ir nedalyvavo surašant protokolą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
- 
 
 
 
 
 2) dėl šio kodekso 431 straipsnio 1, 2, 3 ir 4 dalyse numatytų administracinių nusižengimų, taip pat šio kodekso 611 straipsnyje numatytais atvejais;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1446, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21162
- 
 
 
 
 
-3) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 2361 straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 2431 straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 2481 straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 2 dalyse, 252 straipsnio 2 ir 9 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 2 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijoms periodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais. 
-Straipsnio punkto pakeitimai:
-Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
- 
+3) dėl šio kodekso 130 straipsnio 3 ir 9 dalyse, 185 straipsnio 1 ir 2 dalyse, 187 straipsnio 1 ir 2 dalyse, 223 straipsnio 1 ir 2 dalyse, 236 straipsnio 1 ir 5 dalyse, 2361 straipsnio 2 dalyje, 241 straipsnio 1 dalyje, 243 straipsnio 2 dalyje, 2431 straipsnio 1 dalyje, 247 straipsnio 31 dalyje, 248 straipsnio 1 dalyje, 2481 straipsnio 2 ir 4 dalyse, 2482 straipsnio 2 ir 4 dalyse, 2483 straipsnio 2 ir 4 dalyse, 249 straipsnio 1 ir 11 dalyse, 250 straipsnio 1 ir 2 dalyse, 252 straipsnio 2 ir 9 dalyse, 254 straipsnio 1 ir 5 dalyse, 255 straipsnio 2 ir 4 dalyse, 293 straipsnio 2 dalyje, 435 straipsnio 1 dalyje, 545 straipsnio 2 ir 3 dalyse numatytų administracinių nusižengimų, kai asmuo traukiamas administracinėn atsakomybėn už ataskaitų, deklaracijų ar kitų dokumentų, kurių pateikimo kompetentingoms institucijoms periodiškumą nustato Lietuvos Respublikos teisės aktai, nepateikimą nustatytais terminais.
 
 
 
@@ -23163,10 +23378,7 @@ Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
 
 
 
-4. Administracinio nusižengimo protokolas surašomas dviem egzemplioriais; vienas protokolo egzempliorius nedelsiant įteikiamas, o šio straipsnio 2 dalyje numatytais atvejais nusiunčiamas administracinėn atsakomybėn traukiamam asmeniui. Administracinio nusižengimo protokolo kopija (nuorašas), laikantis asmens duomenų teisinės apsaugos reikalavimų, taip pat įteikiama arba siunčiama nukentėjusiajam. Jeigu administracinėn atsakomybėn traukiamas asmuo ar nukentėjusysis yra nepilnametis, apie administracinio nusižengimo protokolo surašymą pranešama nepilnamečio atstovui pagal įstatymą. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
- 
+4. Surašytas administracinio nusižengimo protokolas nedelsiant įteikiamas, o šio straipsnio 1 dalyje numatytu atveju, kai jis surašytas naudojantis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip), taip pat šio straipsnio 2 dalyje numatytais atvejais nusiunčiamas administracinėn atsakomybėn traukiamam asmeniui. Jeigu administracinio nusižengimo protokolas pasirašomas elektroniniu parašu, administracinėn atsakomybėn traukiamam asmeniui siunčiamas elektroninis administracinio nusižengimo protokolo nuorašas. Administracinio nusižengimo protokolo kopija (nuorašas), laikantis asmens duomenų teisinės apsaugos reikalavimų, taip pat įteikiama arba siunčiama nukentėjusiajam. Jeigu administracinėn atsakomybėn traukiamas asmuo ar nukentėjusysis yra nepilnametis, apie administracinio nusižengimo protokolo surašymą pranešama nepilnamečio atstovui pagal įstatymą.
 
 
 
@@ -23176,11 +23388,18 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
-6. Atlikus administracinio nusižengimo tyrimą, kai nustatoma šio kodekso 591 straipsnyje numatyta aplinkybė, institucija, kurios pareigūnas atliko tyrimą, priima nutarimą nutraukti administracinio nusižengimo teiseną. 
+6. Atlikus administracinio nusižengimo tyrimą, kai nustatoma šio kodekso 5651 straipsnyje numatyta aplinkybė, institucija, kurios pareigūnas atliko tyrimą, priima nutarimą nutraukti administracinio nusižengimo teiseną.
+
+
+
+
+7. Prieš priimant šio straipsnio 6 dalyje nurodytą nutarimą, turi būti įvertinta, ar yra fizinis asmuo, nurodęs, kad jam padaryta fizinė, turtinė ar neturtinė žala, arba juridinis asmuo, nurodęs, kad jam padaryta turtinė ar neturtinė žala. Sprendimas pripažinti arba atsisakyti pripažinti šioje dalyje nurodytą asmenį nukentėjusiuoju įrašomas į nutarimą. Šio straipsnio nuostatos netaikomos, jeigu administracinio nusižengimo bylos teisena nutraukiama šio kodekso 5651 straipsnio 6 ir 8 punktuose nustatytais pagrindais.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+Nr. XIV-2306, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24173
  
 
 
@@ -23189,12 +23408,13 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 609 straipsnis. Administracinio nusižengimo protokolo turinys
 
 
-1. Administracinio nusižengimo protokole nurodoma: jo surašymo data ir vieta, tyrimą atlikusio ir protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, E. pristatymo dėžutės adresas, elektroninio pašto adresas ar telefono numeris, darbo vieta ir kt., užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; sprendimas pripažinti fizinį ar juridinį asmenį nukentėjusiuoju; nukentėjusiųjų, jeigu jų yra, vardai, pavardės (kai nukentėjusysis – fizinis asmuo), pavadinimai ir atstovų duomenys (kai nukentėjusysis – juridinis asmuo), jų adresai, elektroninio pašto adresai, telefono numeriai; liudytojų, jeigu jų yra, vardai, pavardės, adresai, E. pristatymo dėžučių adresai, elektroninio pašto adresai, telefono numeriai ir kt.; administracinėn atsakomybėn traukiamo asmens paaiškinimas dėl administracinio nusižengimo, jo aplinkybių; administracinėn atsakomybėn traukiamo asmens prašymas nerašyti administracinio nurodymo, jei asmuo dėl to kreipėsi į protokolą rašantį pareigūną; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo surašymo metu; administracinėn atsakomybėn traukiamo asmens pageidavimu – jo prašymas siųsti ir gauti procesinius dokumentus elektroninių ryšių priemonėmis; administracinėn atsakomybėn traukiamo asmens reikalavimas nagrinėti bylą žodinio proceso tvarka, jei šis reikalavimas buvo pareikštas; kiti bylai išnagrinėti būtini duomenys. Protokolą pasirašo jį surašęs asmuo ir administracinėn atsakomybėn traukiamas asmuo, išskyrus šio kodekso 608 straipsnio 1 dalyje nustatytus atvejus, kai protokolas gali būti surašytas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant; kai yra liudytojų ir nukentėjusiųjų, protokolą gali pasirašyti ir šie asmenys. 
+1. Administracinio nusižengimo protokole nurodoma: jo surašymo data ir vieta, tyrimą atlikusio ir protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie administracinėn atsakomybėn traukiamą asmenį (asmens vardas, pavardė, asmens kodas, adresas, E. pristatymo dėžutės adresas, elektroninio pašto adresas ar telefono numeris, darbo vieta ir kt., užsienio valstybių piliečių gimimo metai); administracinio nusižengimo padarymo vieta (gali būti nurodomos tik vietos koordinatės), laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už šį nusižengimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo; sprendimas pripažinti fizinį ar juridinį asmenį nukentėjusiuoju; nukentėjusiųjų, jeigu jų yra, vardai, pavardės (kai nukentėjusysis – fizinis asmuo), pavadinimai ir atstovų duomenys (kai nukentėjusysis – juridinis asmuo), jų adresai, elektroninio pašto adresai, telefono numeriai; liudytojų, jeigu jų yra, vardai, pavardės, adresai, E. pristatymo dėžučių adresai, elektroninio pašto adresai, telefono numeriai ir kt.; administracinėn atsakomybėn traukiamo asmens paaiškinimas dėl administracinio nusižengimo, jo aplinkybių; administracinėn atsakomybėn traukiamo asmens prašymas nerašyti administracinio nurodymo, jei asmuo dėl to kreipėsi į protokolą rašantį pareigūną; bylos nagrinėjimo data, laikas ir vieta, jei tai žinoma administracinio nusižengimo protokolo surašymo metu; administracinėn atsakomybėn traukiamo asmens pageidavimu – jo prašymas siųsti ir gauti procesinius dokumentus elektroninių ryšių priemonėmis; administracinėn atsakomybėn traukiamo asmens reikalavimas nagrinėti bylą žodinio proceso tvarka, jei šis reikalavimas buvo pareikštas; kiti bylai išnagrinėti būtini duomenys. Kai administracinio nusižengimo protokolas surašomas naudojantis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip), privaloma daryti garso ir vaizdo įrašą, kuris yra administracinio nusižengimo protokolo priedas. Protokolą pasirašo jį surašęs asmuo ir administracinėn atsakomybėn traukiamas asmuo, išskyrus šio kodekso 608 straipsnio 1 dalyje nustatytą atvejį, kai protokolas surašytas naudojantis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip), ir šio kodekso 608 straipsnio 2 dalyje nustatytus atvejus, kai protokolas gali būti surašytas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant; kai yra liudytojų ir nukentėjusiųjų, protokolą gali pasirašyti ir šie asmenys.
 Straipsnio dalies pakeitimai:
 Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
 Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 Nr. XIV-419, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14576
 Nr. XIV-785, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27362
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
  
 
 
@@ -23514,7 +23734,18 @@ Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 
 
 
-4. Administracinių nusižengimų bylos paprastai išnagrinėjamos per dvidešimt darbo dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai surašomas administracinio nusižengimo protokolas su administraciniu nurodymu, – per dvidešimt darbo dienų nuo šio kodekso 610 straipsnio 1 dalyje nurodytų terminų pabaigos. Tais atvejais, kai asmeniui siunčiamas šio straipsnio 2 dalyje nurodytas prašymas, administracinių nusižengimų bylos paprastai išnagrinėjamos per dvidešimt darbo dienų nuo šio straipsnio 2 dalyje nurodyto termino pabaigos. 
+4. Žodinis administracinio nusižengimo bylos nagrinėjimas gali vykti naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ar kitaip). Apie tai pranešama administracinio nusižengimo teisenoje dalyvaujantiems asmenims, kurie turi teisę dalyvauti bylą nagrinėjant žodinio proceso tvarka. Kai administracinio nusižengimo byla nagrinėjama naudojantis informacinėmis ir elektroninių ryšių technologijomis (per vaizdo konferencijas, telekonferencijas ar kitaip), privaloma daryti šio nagrinėjimo garso ir vaizdo įrašą. Jeigu administracinėn atsakomybėn traukiamas asmuo ar nukentėjusysis prieštarauja, kad byla būtų nagrinėjama naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ar kitaip), byla nagrinėjama įprasta žodinio proceso tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
+
+
+
+
+5. Administracinių nusižengimų bylos paprastai išnagrinėjamos per dvidešimt darbo dienų nuo administracinio nusižengimo protokolo įteikimo dienos, o kai surašomas administracinio nusižengimo protokolas su administraciniu nurodymu, – per dvidešimt darbo dienų nuo šio kodekso 610 straipsnio 1 dalyje nurodytų terminų pabaigos. Tais atvejais, kai asmeniui siunčiamas šio straipsnio 2 dalyje nurodytas prašymas, administracinių nusižengimų bylos paprastai išnagrinėjamos per dvidešimt darbo dienų nuo šio straipsnio 2 dalyje nurodyto termino pabaigos. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 Straipsnio pakeitimai:
@@ -25563,7 +25794,10 @@ Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
 678 straipsnis. Nutarimų dėl baudos pakeitimo viešaisiais darbais vykdymas
 
 
-1. Nutarimai dėl baudos pakeitimo viešaisiais darbais išsiunčiami vykdyti ne vėliau kaip kitą darbo dieną po jų priėmimo. Nutarimus dėl baudos pakeitimo viešaisiais darbais vykdo policija ir savivaldybės vidaus reikalų ministro nustatyta tvarka.
+1. Nutarimai dėl baudos pakeitimo viešaisiais darbais išsiunčiami vykdyti ne vėliau kaip kitą darbo dieną po jų priėmimo dienos. Nutarimus dėl baudos pakeitimo viešaisiais darbais vykdo savivaldybės vidaus reikalų ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-1947, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09688
+ 
 
 
 
@@ -26346,6 +26580,22 @@ Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 
 
 92. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2177.
+
+
+
+
+921. 2015 m. rugsėjo 8 d. Europos Komisijos įgyvendinimo reglamentas (ES) 2015/1501 dėl sąveikumo sistemos pagal Europos Parlamento ir Tarybos reglamento (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje 12 straipsnio 8 dalį.
+Papildyta straipsnio dalimi:
+Nr. XIV-1953, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09697
+ 
+
+
+
+
+922. 2015 m. rugsėjo 8 d. Europos Komisijos įgyvendinimo reglamentas (ES) 2015/1502, kuriuo pagal Europos Parlamento ir Tarybos reglamento (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje 8 straipsnio 3 dalį nustatomos minimalios techninės specifikacijos ir procedūros dėl elektroninės atpažinties priemonių saugumo užtikrinimo lygių.
+Papildyta straipsnio dalimi:
+Nr. XIV-1953, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09697
+ 
 
 
 
@@ -27615,3 +27865,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 557-1 ir 589 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2463, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25957
 Lietuvos Respublikos administracinių nusižengimų kodekso 77, 170 ir 589 straipsnių pakeitimo ir Kodekso papildymo 170-1 straipsniu įstatymas
+ 
+221.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
+Lietuvos Respublikos administracinių nusižengimų kodekso 29, 385, 386, 387, 393, 394, 395, 396, 443 ir 589 straipsnių pakeitimo įstatymas
