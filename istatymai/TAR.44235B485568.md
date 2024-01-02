@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02 iki 2024-07-05
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -3628,6 +3628,14 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 7. Taryba nustatyta tvarka derina energetikos darbuotojų mokymosi programas, į kurias turi būti įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo klausimai.
 
 
+
+
+8. Energetikos inžinerinių kategorijų darbuotojai, vadovaujantys energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo darbams ir (ar) juos vykdantys, kurie neturi šio straipsnio 3 dalyje nurodyto išsilavinimo, tačiau iki 2018 m. gruodžio 31 d. buvo atestuoti šio straipsnio 3 dalyje nurodytiems darbams ir (ar) funkcijoms atlikti, gali būti periodiškai atestuojami atestavimo įstaigoje netaikant šio straipsnio 3 dalyje nustatyto reikalavimo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2401, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25633
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 Nr. XIII-3138, 2020-06-25, paskelbta TAR 2020-06-30, i. k. 2020-14375
@@ -4597,3 +4605,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 5, 6, 13 ir 33 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1587, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25148
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8 ir 24-1 straipsnių pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2401, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25633
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 28 straipsnio pakeitimo įstatymas
