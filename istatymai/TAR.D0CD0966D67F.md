@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02 iki 2024-02-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1239,7 +1239,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-20) sprendimų dėl savivaldybei priskirtos valstybinės žemės ir kito valstybės turto valdymo, naudojimo ir disponavimo juo patikėjimo teise priėmimas;
+20) sprendimų dėl savivaldybei patikėjimo teise perduotos valstybinės žemės valdymo, naudojimo ir disponavimo ja, išskyrus šio įstatymo 27 straipsnio 2 dalies 29 punkte nurodytus sutikimus ir sprendimus, ir sprendimų dėl sutikimo perimti kitą valstybės turtą savivaldybės nuosavybėn priėmimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
 
 
 
@@ -1375,7 +1378,10 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 
 
 
-8) sprendimų dėl žemės sklypų pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo priėmimas.
+8) Neteko galios nuo 2024-01-02
+Straipsnio punkto naikinimas:
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
 
 
 
@@ -2249,9 +2255,33 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
+28) priima sprendimus dėl žemės sklypų pagrindinės žemės naudojimo paskirties ir (ar) būdo keitimo;
+Papildyta straipsnio punktu:
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
+
+
+
+
+29) išduoda sutikimus dėl savivaldybės patikėjimo teise valdomos valstybinės žemės naudojimo, susijusius su statytojo teisės įgyvendinimu, susisiekimo komunikacijų, inžinerinių tinklų tiesimu, veikla vandens telkiniuose ir žemės gelmių tyrimu, ir priima sprendimus dėl sandoriu nustatomų servitutų patikėjimo teise valdomuose valstybinės žemės sklypuose nustatymo. 
+Papildyta straipsnio punktu:
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
+
+
+
+
 
 
 3. Meras turi nuolat bendrauti su savivaldybės nuolatiniais gyventojais. Meras reglamento nustatyta tvarka atsiskaito savivaldybės bendruomenei už savo veiklą. Ši informacija apie mero veiklos rezultatus įtraukiama į šio įstatymo 62 straipsnyje nurodytą savivaldybės metinių ataskaitų rinkinį.
+
+
+
+
+4. Šio straipsnio 2 dalies 12, 13, 28 ir 29 punktuose nustatytas funkcijas meras, merą pavaduojantis vicemeras arba laikinai mero pareigas einantis savivaldybės tarybos narys turi teisę įgalioti atlikti savivaldybės administracijos direktorių.
+Papildyta straipsnio dalimi:
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
 
 
 
@@ -2346,7 +2376,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-2. Merą pavaduojantis vicemeras vykdo visus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo 27 straipsnio 2 dalies 4, 5, 7, 12, 13, 15, 19, 20 ir 21 punktuose. Vicemerui pavaduojant merą, šio įstatymo 27 straipsnio 2 dalies 12, 13 ir 15 punktuose nustatytus mero įgaliojimus vykdo savivaldybės taryba, o šio įstatymo 27 straipsnio 2 dalies 4, 5 ir 7 punktuose nustatytus mero įgaliojimus – laikinai savivaldybės tarybos paskirtas tarybos narys.
+2. Merą pavaduojantis vicemeras vykdo visus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo 27 straipsnio 2 dalies 4, 5, 7, 15, 19, 20 ir 21 punktuose. Vicemerui pavaduojant merą, šio įstatymo 27 straipsnio 2 dalies 15 punkte nustatytus mero įgaliojimus vykdo savivaldybės taryba, o šio įstatymo 27 straipsnio 2 dalies 4, 5 ir 7 punktuose nustatytus mero įgaliojimus – laikinai savivaldybės tarybos paskirtas tarybos narys. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
 
 
 
@@ -2366,7 +2399,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-4. Mero pareigas laikinai einantis savivaldybės tarybos paskirtas tarybos narys vykdo visus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo 27 straipsnio 2 dalies 12, 13, 15, 20 ir 21 punktuose. Šiuo atveju mero įgaliojimus, nustatytus šio įstatymo 27 straipsnio 2 dalies 12, 13 ir 15 punktuose, vykdo savivaldybės taryba.
+4. Mero pareigas laikinai einantis savivaldybės tarybos paskirtas tarybos narys vykdo visus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo 27 straipsnio 2 dalies 15, 20 ir 21 punktuose. Šiuo atveju mero įgaliojimus, nustatytus šio įstatymo 27 straipsnio 2 dalies 15 punkte, vykdo savivaldybės taryba.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
 
 
 
@@ -2571,7 +2607,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-10) kaip įstaigos vadovas, atlieka kitus tiesioginius mero pavedimus.
+10) kaip įstaigos vadovas, pats vykdo mero suteiktus įgaliojimus ir atlieka kitus tiesioginius mero pavedimus arba įstatymų nustatytais atvejais paveda tai atlikti kitiems savivaldybės administracijos valstybės tarnautojams.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
 
 
 
