@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -943,9 +943,10 @@ Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 
 
-2. Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras neatlieka šio straipsnio 3 dalies 6, 9, 16 ir 17 punktuose nurodytų funkcijų, išskyrus atvejus, kai pavaduojamas ministras negali atlikti savo funkcijų ilgiau negu 30 dienų.
+2. Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras neatlieka šio straipsnio 3 dalies 6 ir 15 punktuose nurodytų funkcijų, išskyrus atvejus, kai pavaduojamas ministras negali atlikti savo funkcijų ilgiau negu 30 dienų arba kai ilgiau negu 30 dienų nėra paskirtas naujas ministras šio įstatymo 10 straipsnio 4 dalyje ir 11 straipsnio 4 dalyje nurodytais atvejais. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+Nr. XIV-2244, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22974
  
 
 
@@ -954,10 +955,7 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 3. Ministras:
 
 
-1) vadovauja ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir yra tiesiogiai atsakingas už Vyriausybės programos bei Vyriausybės programos nuostatų įgyvendinimo plano ir prioritetinių darbų jam pavestose valdymo srityse įgyvendinimą;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
- 
+1) vadovauja ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir yra tiesiogiai atsakingas už Vyriausybės programos bei Vyriausybės programos nuostatų įgyvendinimo plano darbų jam pavestose valdymo srityse įgyvendinimą;
 
 
 
@@ -977,12 +975,12 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 
 
-5) priima ir pasirašo įsakymus, tikrina, kaip jie įgyvendinami, prireikus keli ministrai gali priimti bendrus įsakymus;
+5) priima ir pasirašo įsakymus, tikrina, kaip jie įgyvendinami; prireikus keli ministrai gali priimti bendrus įsakymus;
 
 
 
 
-6) vadovaudamasis Vyriausybės patvirtinta Strateginio planavimo metodika rengia ir suderinęs su Ministru Pirmininku tvirtina ministrui pavestų valdymo sričių strateginius veiklos planus (strateginį veiklos planą), taip pat tvirtina ministerijos, įstaigų prie ministerijos ir kitų pavaldžių biudžetinių įstaigų metinius veiklos planus bei gali pavesti jų vadovams tvirtinti jiems pavaldžių biudžetinių įstaigų metinius veiklos planus;
+6) vadovaudamasis Vyriausybės patvirtinta Strateginio valdymo metodika tvirtina ministrui pavestų valdymo sričių strateginį veiklos planą, o prireikus jį detalizuoti – ir metinį ministerijos veiklos planą, taip pat tvirtina įstaigų prie ministerijos ir kitų ministerijai pavaldžių biudžetinių įstaigų metinius veiklos planus arba paveda juos tvirtinti įstaigų prie ministerijos ir kitų ministerijai pavaldžių biudžetinių įstaigų vadovams;
 
 
 
@@ -992,74 +990,52 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 
 
-8) teikia Vyriausybei įstaigų prie ministerijos nuostatų projektus; Vyriausybės pavedimu tvirtina įstaigų prie ministerijos nuostatus ir jų administracijos struktūrą;
+8) teikia Vyriausybei įstaigų prie ministerijos nuostatų projektus; Vyriausybės pavedimu tvirtina įstaigų prie ministerijos nuostatus;
 
 
 
 
-9) Neteko galios nuo 2024-01-01
-Straipsnio punkto naikinimas:
-Nr. XIV-2003, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11579
+9) tvirtina ministerijos struktūrinių padalinių nuostatus ir valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių aprašymus arba paveda šią funkciją atlikti ministerijos kancleriui;
+
+
+
+
+10) koordinuoja ir kontroliuoja ministerijos struktūrinių padalinių veiklą;
+
+
+
+
+11) koordinuoja ir kontroliuoja įstaigų prie ministerijos veiklą, jeigu šių funkcijų nepaveda viceministrams ir ministerijos kancleriui ir jeigu kiti įstatymai nenustato kitaip;
+
+
+
+
+12) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, juos skatina, skiria jiems pašalpas, skiria tarnybines nuobaudas valstybės tarnautojams arba priima sprendimus dėl darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, padaryto darbo pareigų pažeidimo arba šias funkcijas paveda atlikti ministerijos kancleriui;
+
+
+
+
+13) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie ministerijos vadovus ir kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministerija, vadovus, juos skatina, skiria jiems pašalpas, skiria tarnybines nuobaudas įstaigų vadovams (valstybės tarnautojams) arba priima sprendimus dėl įstaigų vadovų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, padaryto darbo pareigų pažeidimo, jeigu kiti įstatymai nenustato kitaip;
+
+
+
+
+14) teikia pasiūlymus Vyriausybei dėl Vyriausybės priimamiems valstybės tarnautojams ir pareigūnams, veikiantiems jam pavestose valdymo srityse, tarnybinių nuobaudų skyrimo ir dėl jų skatinimo. Vyriausybės pavedimu suteikia jiems atostogas, papildomas poilsio dienas, siunčia juos į komandiruotes ir priima kitus sprendimus, susijusius su jų tarnybos santykiais;
+
+
+
+
+15) nustato viceministrų veiklos, ministerijos kanclerio administravimo sritis;
+
+
+
+
+16) atlieka kitas įstatymų ir Vyriausybės nutarimų pavestas funkcijas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2244, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22974
  
-
-
-
-
-10) tvirtina ministerijos administracijos padalinių nuostatus ir valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių aprašymus;
-
-
-
-
-11) koordinuoja ir kontroliuoja ministerijos administracijos padalinių veiklą;
-
-
-
-
-12) koordinuoja ir kontroliuoja įstaigų prie ministerijos veiklą, jei šių funkcijų nepaveda viceministrams ir ministerijos kancleriui ir jei įstatymai nenustato kitaip; 
-
-
-
-
-13) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, juos skatina, skiria jiems pašalpas, skiria valstybės tarnautojams tarnybines nuobaudas arba priima sprendimus dėl darbo pareigų pažeidimo ar šias funkcijas gali pavesti vykdyti ministerijos kancleriui;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
- 
-
-
-
-
-14) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie ministerijos bei kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministerija, vadovus, juos skatina ir skiria jiems tarnybines nuobaudas ir pašalpas, jeigu įstatymai nenustato kitaip;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
- 
-
-
-
-
-15) teikia pasiūlymus Vyriausybei dėl Vyriausybės priimamiems valstybės tarnautojams ir pareigūnams, veikiantiems jam pavestose valdymo srityse, tarnybinių nuobaudų skyrimo, dėl jų skatinimo. Jeigu Vyriausybės įstaigos veikla yra susijusi su keliems ministrams pavestomis valdymo sritimis, šiuos įgaliojimus įgyvendina Vyriausybės paskirtas atitinkamos valdymo srities ministras;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
- 
-
-
-
-
-16) nustato viceministrų veiklos, ministerijos kanclerio administravimo sritis;
-
-
-
-
-17) Neteko galios nuo 2024-01-01
-Straipsnio punkto naikinimas:
-Nr. XIV-2003, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11579
- 
-
-
-
-
-18) atlieka kitas įstatymų ir Vyriausybės nutarimų pavestas funkcijas.
-
-
 
 
 
