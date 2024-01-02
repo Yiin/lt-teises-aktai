@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/88ad61b052c111e884cbc4327e55f3ca"
 
 # Lietuvos Respublikos elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02 iki 2024-10-17
  
 Įstatymas paskelbtas: TAR 2018-05-08, i. k. 2018-07474
  
@@ -822,9 +822,10 @@ Nr. XIV-1952, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09710
 
 
 
-4. Prašymas išduoti leidimą atlikti šio straipsnio 1 dalies 2 punkte nurodytus veiksmus pateikiamas pirmosios instancijos administraciniam teismui. Šiame prašyme turi būti nurodytas patikimumo užtikrinimo paslaugų teikėjo pavadinimas (asmens vardas, pavardė), įtariamų pažeidimų pobūdis ir numatomi veiksmai. Teismas prašymą išnagrinėja ir motyvuotą nutartį prašymą patenkinti arba atmesti priima ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu priežiūros įstaigos įgaliotas pareigūnas nesutinka su teismo nutartimi atmesti prašymą, jis turi teisę per 7 darbo dienas nuo šios nutarties priėmimo šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl teismo nutarties turi išnagrinėti ne vėliau kaip per 7 darbo dienas. Priežiūros įstaigos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Neatidėliotinais atvejais priežiūros įstaigos pareigūnų veiksmai gali būti atliekami priežiūros įstaigos direktoriaus sprendimu. Šiuo atveju prašymas išduoti leidimą atlikti veiksmus pateikiamas teismui šioje dalyje nurodyta tvarka per 24 valandas po priežiūros įstaigos direktoriaus sprendimo priėmimo. Jeigu teismas atsisako išduoti leidimą atlikti veiksmus, jie nutraukiami ir juos atliekant gauta informacija nedelsiant sunaikinama.
+4. Prašymas išduoti leidimą atlikti šio straipsnio 1 dalies 2 punkte nurodytus veiksmus pateikiamas pirmosios instancijos administraciniam teismui. Šiame prašyme turi būti nurodytas patikimumo užtikrinimo paslaugų teikėjo pavadinimas (asmens vardas, pavardė), įtariamų pažeidimų pobūdis ir numatomi veiksmai. Teismas prašymą išnagrinėja ir motyvuotą nutartį prašymą patenkinti arba atmesti priima ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu priežiūros įstaigos įgaliotas pareigūnas nesutinka su teismo nutartimi atmesti prašymą, jis turi teisę per 7 darbo dienas nuo šios nutarties priėmimo šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl teismo nutarties turi išnagrinėti ne vėliau kaip per 7 darbo dienas. Priežiūros įstaigos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Neatidėliotinais atvejais priežiūros įstaigos pareigūnų veiksmai gali būti atliekami priežiūros įstaigos vadovo sprendimu. Šiuo atveju prašymas išduoti leidimą atlikti veiksmus pateikiamas teismui šioje dalyje nurodyta tvarka per 24 valandas po priežiūros įstaigos vadovo sprendimo priėmimo. Jeigu teismas atsisako išduoti leidimą atlikti veiksmus, jie nutraukiami ir juos atliekant gauta informacija nedelsiant sunaikinama. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1585, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25142
+Nr. XIV-1952, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09710
  
 
 
@@ -1135,6 +1136,7 @@ Asmenys, pažeidę Reglamento (ES) Nr. 910/2014, šio įstatymo ir jų įgyvendi
 
 
 
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -1142,12 +1144,12 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
  
-
- 
-
  
-part_11b631ab05064479a1dc9b5342eb815c_end
-part_a0a54157fab54237bd7e30e3cd69e88f_end
+ 
+
+
+
+
 
 
 Lietuvos Respublikos 
