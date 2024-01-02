@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
  
@@ -1936,7 +1936,10 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 
 
 
-2) steigia, reorganizuoja, atlieka struktūrinius pertvarkymus, likviduoja ir pertvarko profesinio mokymo įstaigas, kuriose teisės aktų nustatyta tvarka įgyvendina savivaldybės kaip savininkės ar dalininkės teises ir pareigas, Švietimo įstatymo nustatyta tvarka. 
+2) steigia, reorganizuoja, atlieka struktūrinius pertvarkymus, likviduoja ir pertvarko profesinio mokymo įstaigas, kuriose teisės aktų nustatyta tvarka įgyvendina savivaldybės kaip savininkės ar dalininkės teises ir pareigas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2181, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19450
+ 
 
 
 
