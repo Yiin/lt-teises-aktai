@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02 iki 2025-03-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -234,9 +234,11 @@ Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 
 
 
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme. 
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme ir Reglamente (ES) Nr. 167/2013.
 Papildyta straipsnio dalimi:
 Nr. XIV-461, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15458
+Straipsnio dalies pakeitimai:
+Nr. XIV-2222, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22368
  
 
 
@@ -350,9 +352,18 @@ Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 
 
 
-3. Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija yra kompetentinga institucija dėl žemės ar miškų ūkio transporto priemonių atitikties įvertinimo ir tipo patvirtinimo bei apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros. Vykdydama apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros darbus, Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija žemės ūkio ministro nustatyta tvarka įvertina technines apžiūras vykdančių ūkio subjektų pasirengimą užsiimti šia veikla, koordinuoja šią veiklą ir atlieka jos priežiūrą. 
+3. Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija yra kompetentinga institucija dėl apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros. Vykdydama apdorojimo augalų apsaugos produktais įrangos techninės apžiūros sistemos plėtros darbus, Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija žemės ūkio ministro nustatyta tvarka įvertina technines apžiūras vykdančių ūkio subjektų pasirengimą užsiimti šia veikla, koordinuoja šią veiklą ir atlieka jos priežiūrą. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
+Nr. XIV-2222, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22368
+ 
+
+
+
+
+31. Reglamento (ES) Nr. 167/2013 5 straipsnio 1 dalies nuostatas įgyvendina Lietuvos transporto saugos administracija.
+Papildyta straipsnio dalimi:
+Nr. XIV-2222, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22368
  
 
 
@@ -916,8 +927,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-Lietuvos Respublikos 
+Lietuvos Respublikos
 žemės ūkio, maisto ūkio ir
 kaimo plėtros įstatymo
 priedas
@@ -926,29 +936,32 @@ priedas
  
 
 
-1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo.
+1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. liepos 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.
 
 
 
 
-2. 2013 m. vasario 5 d. Europos Tarybos ir Parlamento reglamentas (ES) Nr. 167/2013 dėl žemės ir miškų ūkio transporto priemonių patvirtinimo ir rinkos priežiūros.
+2. 2013 m. vasario 5 d. Europos Tarybos ir Parlamento reglamentas (ES) Nr. 167/2013 dėl žemės ir miškų ūkio transporto priemonių patvirtinimo ir rinkos priežiūros su paskutiniais pakeitimais, padarytais 2019 m. kovo 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/519.
 
 
 
 
-3. 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1305/2013 dėl paramos kaimo plėtrai, teikiamos Europos žemės ūkio fondo kaimo plėtrai lėšomis, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1698/2005.
+3. 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1305/2013 dėl paramos kaimo plėtrai, teikiamos Europos žemės ūkio fondo kaimo plėtrai lėšomis, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1698/2005, su paskutiniais pakeitimais, padarytais 2022 m. birželio 29 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/1033.
 
 
 
 
-4. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013.
-Papildyta punktu:
-Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
- 
+4. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013.
+
+
+
+
+–––––––––––––––––––
 
 
 Priedo pakeitimai:
 Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
+Nr. XIV-2222, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22368
  
  
  
@@ -1018,3 +1031,8 @@ Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 4, 7, 8 ir 13 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2222, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22368
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 4 straipsnių ir priedo pakeitimo įstatymas
