@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-01
+Suvestinė redakcija nuo 2024-01-02 iki 2024-01-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -1664,7 +1664,10 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 
-4. Švietimo ir mokslo ministras kartu su savivaldybėmis ir Vyriausybė užtikrina pakankamą valstybinių ir savivaldybių profesinio mokymo įstaigų ir bendrojo ugdymo mokyklų, skirtų šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, tinklą: Vyriausybė – valstybinių kolegijų tinklą, Seimas – valstybinių universitetų tinklą. 
+4. Švietimo, mokslo ir sporto ministras kartu su savivaldybių tarybomis ir Vyriausybe užtikrina pakankamą valstybinių ir savivaldybių profesinio mokymo įstaigų ir bendrojo ugdymo mokyklų, skirtų šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, tinklą, Vyriausybė – valstybinių kolegijų tinklą, Lietuvos Respublikos Seimas – valstybinių universitetų tinklą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 
@@ -1684,9 +1687,10 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 
-8. Mokyklų (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas), vykdančių formaliojo švietimo programas, tinklas kuriamas vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir mokyklų bendruomenių nutarimais, jeigu šie neprieštarauja šioms taisyklėms. Švietimo ir mokslo ministerija, savivaldybės, vadovaudamosi šiomis taisyklėmis, tvirtina ir įgyvendina mokyklų tinklo pertvarkos bendruosius planus. Profesinio mokymo įstaigų tinklas kuriamas švietimo ir mokslo ministro nustatyta tvarka. 
+8. Mokyklų (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas), vykdančių formaliojo švietimo programas, tinklas kuriamas vadovaujantis šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir mokyklų bendruomenių nutarimais, jeigu šie neprieštarauja šio įstatymo 43 straipsnio 8–14 dalyse nustatytiems kriterijams ir šioms taisyklėms. Nustatę mokyklų (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas), vykdančių formaliojo švietimo programas, tinklo pertvarkos strateginį tikslą, uždavinius, prioritetus ir pagrindinių rezultatų rodiklius, susietus su socialinės atskirties mažinimu, ugdymo kokybe ir (ar) mokinių ugdymosi pasiekimų ir pažangos gerinimu, mokyklų veiklos rezultatais, efektyvesniu lėšų panaudojimu ir kitais kriterijais, vadovaudamiesi šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, švietimo, mokslo ir sporto ministras tvirtina ir įgyvendina valstybinių mokyklų, savivaldybės taryba – savivaldybių mokyklų tinklo pertvarkos bendruosius planus. Profesinio mokymo įstaigų tinklas vystomas Profesinio mokymo įstatymo nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
 
 
@@ -2414,10 +2418,11 @@ Nr. XII-1909, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11181
 
 
 
-7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo, mokslo ir sporto ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, pagal Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus kriterijus priskirta prie miesto pakraščio mokyklų; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties programą, kuriai reikalingas ugdymo nuoseklumas, ir atitinkanti Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus kriterijus; mokykla, kurioje ne mažiau kaip 15 procentų visų mokinių yra didelių ir labai didelių specialiųjų ugdymosi poreikių ir (ar) vidutinį ir sunkų neįgalumą turintys mokiniai; savivaldybės kadetų ugdymo mokykla, skirta šalies (regiono) mokiniams) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą, vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. 
+7. Gimnazijos tipui priskiriamos mokyklos, vykdančios švietimo, mokslo ir sporto ministro nustatyta tvarka akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programos antrąją dalį. Atskiru atveju (mokykla gyvenamosiose vietovėse, kuriose nėra kitų vidurinio ugdymo programą lietuvių ar (ir) tautinės mažumos kalba vykdančių bendrojo ugdymo mokyklų, arba bendrojo ugdymo mokykla, Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytais atvejais priskirta prie miesto pakraščio mokyklų; pasienio ruože esanti bendrojo ugdymo mokykla; nevalstybinė mokykla; mokykla, skirta šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių; mokykla, vykdanti specializuoto ugdymo krypties (pradinio, pagrindinio, vidurinio ugdymo kartu su dailės, muzikiniu, meniniu, sportiniu ar kitu ugdymu) programas, kurioms reikalingas ugdymo nuoseklumas (toliau – specializuoto ugdymo krypties programos), ir atitinkanti šio įstatymo 43 straipsnio 8 ir 9 dalyse nustatytus kriterijus; mokykla, kurioje ne mažiau kaip 15 procentų visų mokinių yra didelių ir labai didelių specialiųjų ugdymosi poreikių ir (ar) vidutinį ar sunkų neįgalumą turintys mokiniai; savivaldybės kadetų ugdymo mokykla, skirta šalies (regiono) mokiniams) gimnazija gali vykdyti akredituotą vidurinio ugdymo programą ir pagrindinio ugdymo programą ar akredituotą vidurinio ugdymo programą, pagrindinio ugdymo programą ir pradinio ugdymo programą, vadovaudamasi šio įstatymo 28 straipsnio nuostatomis ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2090, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07327
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Nr. XIV-2310, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24178
  
 
 
@@ -2492,37 +2497,27 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 1. Mokyklas ir švietimo pagalbos įstaigas (toliau – pagalbos įstaigos) gali steigti:
 
 
-1) Lietuvos Respublikos Seimas (toliau – Seimas) – valstybinį universitetą Vyriausybės teikimu;
+1) Seimas – valstybinį universitetą Vyriausybės teikimu;
 
 
 
 
-2) Vyriausybė – valstybinę kolegiją Švietimo ir mokslo ministerijos teikimu, prireikus vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis – švietimo įstaigas, kurių teisinė forma – viešoji įstaiga;
+2) Vyriausybė – Švietimo, mokslo ir sporto ministerijos teikimu – valstybinę kolegiją, profesinio mokymo įstaigą, neformaliojo švietimo mokyklą, pagalbos įstaigą, prireikus, vadovaudamasi šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, – bendrojo ugdymo mokyklą, Vyriausybės įstaigų, įstaigų prie ministerijų teikimu – neformaliojo suaugusiųjų švietimo mokyklą;
 
 
 
 
-3) Švietimo ir mokslo ministerija – profesinio mokymo įstaigas, prireikus – bendrojo ugdymo mokyklas, kurių teisinė forma – biudžetinė įstaiga, vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir gavusi finansų ministro rašytinį sutikimą; neformaliojo švietimo mokyklas, pagalbos įstaigas, gavusi finansų ministro rašytinį sutikimą;
+3) savivaldybės taryba – neformaliojo švietimo mokyklas, pagalbos įstaigas – savarankiškai, bendrojo ugdymo mokyklas – vadovaudamasi Vietos savivaldos įstatymu, šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, profesinio mokymo įstaigas, kurių teisinė forma – viešoji įstaiga;
 
 
 
 
-4) kitos ministerijos, Vyriausybės įstaigos, įstaigos prie ministerijų – neformaliojo suaugusiųjų švietimo mokyklas, kurių teisinė forma – biudžetinė įstaiga, gavusios švietimo ir mokslo ministro bei finansų ministro rašytinius sutikimus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
+4) kiti Lietuvos Respublikoje įsteigti juridiniai asmenys, taip pat valstybės narės juridiniai asmenys ar kitos organizacijos, fiziniai asmenys, kitų valstybių juridiniai ir fiziniai asmenys – bendrojo ugdymo, neformaliojo švietimo mokyklas, profesinio mokymo įstaigas, aukštąsias mokyklas, pagalbos įstaigas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
-
-
-
-
-5) savivaldybės taryba – neformaliojo švietimo mokyklas – savarankiškai, pagalbos įstaigas – vadovaudamasi Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais, bendrojo ugdymo mokyklas, profesinio mokymo įstaigas – vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis;
-
-
-
-
-6) kiti Lietuvos Respublikoje įsteigti juridiniai asmenys, taip pat valstybės narės juridiniai asmenys ar kitos organizacijos, fiziniai asmenys bei kitų valstybių juridiniai ir fiziniai asmenys – bendrojo ugdymo, neformaliojo švietimo mokyklas, profesinio mokymo įstaigas, aukštąsias mokyklas, pagalbos įstaigas.
-
-
 
 
 
@@ -2532,12 +2527,26 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-3. Mokyklos steigėjais gali būti keli fiziniai ir juridiniai asmenys, sudarę mokyklos steigimo sandorį. Valstybinės ir savivaldybės mokyklos dalyviais negali būti užsienio valstybių juridiniai ir fiziniai asmenys.
+3. Profesinio mokymo įstaigos steigiamos vadovaujantis Profesinio mokymo įstatymu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 
 
-4. Užsienio mokyklų filialai ir tarptautinių organizacijų mokyklos Lietuvoje gali būti steigiamos Lietuvos Respublikos tarptautinių sutarčių ir teisės aktų nustatytomis sąlygomis ir tvarka. Šiems filialams ir mokykloms netaikomas finansavimas iš valstybės biudžeto, jeigu Lietuvos Respublikos tarptautinės sutartys ar specialūs įstatymai nenustato kitaip.
+4. Mokyklos steigėjais gali būti keli fiziniai ir juridiniai asmenys, sudarę mokyklos steigimo sandorį. Valstybinės ir savivaldybės mokyklos dalyviais negali būti užsienio valstybių juridiniai ir fiziniai asmenys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+5. Užsienio mokyklų filialai ir tarptautinių organizacijų mokyklos Lietuvoje gali būti steigiamos Lietuvos Respublikos tarptautinių sutarčių ir teisės aktų nustatytomis sąlygomis ir tvarka. Šiems filialams ir mokykloms netaikomas finansavimas iš valstybės biudžeto, jeigu Lietuvos Respublikos tarptautinės sutartys ar specialūs įstatymai nenustato kitaip.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
 
 
@@ -2595,25 +2604,204 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-7. Mokykloje gali būti vykdomos tik Studijų, mokymo programų ir kvalifikacijų registre įregistruotos formaliojo švietimo programos. Mokykla bendrojo ugdymo programas gali vykdyti, jeigu atitinka Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytus bendruosius ir specialiuosius kriterijus. Mokykla formaliojo profesinio mokymo programas gali vykdyti tik turėdama Profesinio mokymo įstatymo nustatyta tvarka išduotą licenciją, už kurios išdavimą, papildymą ar patikslinimą mokama valstybės rinkliava. 
+7. Mokykloje gali būti vykdomos tik Studijų, mokymo programų ir kvalifikacijų registre įregistruotos formaliojo švietimo programos. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
 
 
 
 
-8. Mokykla (išskyrus aukštąją mokyklą) ar kitas švietimo teikėjas mokinių priėmimą ir mokymą pradeda tik gavę licenciją ir (ar) rašytinį sutikimą, jeigu jie yra privalomi.
+8. Mokykla bendrojo ugdymo programas gali vykdyti, jeigu atitinka visus šiuos bendruosius kriterijus:
+
+
+1) jos materialieji ištekliai atitinka švietimo, mokslo ir sporto ministro patvirtintus švietimo aprūpinimo standartus; 
 
 
 
 
-9. Valstybinė ir savivaldybės formaliojo švietimo mokykla savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitos formaliojo švietimo mokyklos – savininko (dalyvių susirinkimo) sprendimu gali vykdyti neformaliojo švietimo programas.
+2) jos mokymosi aplinka ir mokinių krūvis atitinka higienos normas ir teisės aktų nustatytus mokinių saugos bei sveikatos reikalavimus, laiduoja švietimo programų vykdymą, ugdymo fizinė ir informacinė aplinka pritaikyta mokiniams, turintiems specialiųjų ugdymosi poreikių;
 
 
 
 
-10. Mokykla gali:
+3) mokinių ugdymo(si) apskaitai ir kitai informacijai tvarkyti švietimo, mokslo ir sporto ministro nustatyta tvarka dienynai sudaromi elektroninių dienynų pagrindu;
+
+
+
+
+4) jos vadovo, mokytojų ir švietimo pagalbos specialistų turimas išsilavinimas ir kvalifikacija atitinka šiame įstatyme ir švietimo, mokslo ir sporto ministro nustatytus reikalavimus, jos vadovo pavaduotojų ugdymui ir (ar) ugdymą organizuojančių skyrių vedėjų išsilavinimas atitinka Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatytus reikalavimus;
+
+
+
+
+5) joje vykdomų programų, išskyrus užsienio valstybių ir tarptautinių organizacijų bendrojo ugdymo programas, mokyklos ugdymo planas atitinka švietimo, mokslo ir sporto ministro patvirtintus bendruosius ugdymo planus;
+
+
+
+
+6) joje užtikrinamas mokymosi ir švietimo pagalbos teikimas pagal švietimo, mokslo ir sporto ministro nustatytas tvarkas;
+
+
+
+
+7) mokinių skaičius valstybinės ar savivaldybės mokyklos klasėse atitinka leidžiamą mažiausią ir (arba) didžiausią mokinių skaičių, kurį, siekdama ugdymo kokybės, valstybės ir savivaldybių biudžetų lėšų naudojimo ekonomiškumo, efektyvumo ir rezultatyvumo, nustato Vyriausybė, atsižvelgdama į bendrojo ugdymo programos lygmenį, mokinių ugdymosi poreikių tenkinimą, mokinių specialiuosius ugdymosi poreikius, mokymo kalbą, mokyklos geografinę padėtį ar regiono, kuriame yra mokykla, specifiką, Vyriausybės nustatytus klasių jungimo principus; 
+
+
+
+
+8) ji užtikrina lygiavertes ir šiuolaikiškas kokybiško ugdymo(si) galimybes, lemiančias mokinių pasiekimų pažangą, – valstybinėje ar savivaldybės mokykloje mokinių skaičius atitinka leidžiamą mažiausią mokinių skaičių, kurį nustato Vyriausybė, atsižvelgdama į mokyklos tipą ir paskirtį, mokymo kalbą, mokyklos geografinę padėtį ar regiono, kuriame yra mokykla, specifiką, sąlygų sudarymą užtikrinti užsienio kalbų, pasirenkamųjų dalykų ir neformaliojo vaikų švietimo programų pasiūlą, tenkinančią mokinių ugdymosi poreikius ekonomiškai, efektyviai ir rezultatyviai naudojant valstybės ir savivaldybių biudžetų lėšas
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+9. Specializuoto ugdymo krypties programas gali vykdyti dėl išskirtinių gabumų specialiųjų ugdymosi poreikių turintiems mokiniams skirta gimnazija, jeigu atitinka šio straipsnio 8 dalyje nustatytus bendruosius kriterijus ir šiuos specialiuosius kriterijus:
+
+
+1) atrankos būdu, vadovaujantis švietimo, mokslo ir sporto ministro patvirtintais priėmimo kriterijais ir mokyklos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) nustatyta tvarka, priimami gabūs mokyklos vykdomai specializuoto ugdymo krypties programai vaikai;
+
+
+
+
+2) visų klasių mokiniai mokomi pagal specializuoto ugdymo krypties programas
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+10. Kadetų ugdymo programą savivaldybės kadetų ugdymo gimnazija gali vykdyti, jeigu atitinka šio straipsnio 8 dalyje nustatytus bendruosius kriterijus ir šiuos specialiuosius kriterijus:
+
+
+1) visų klasių mokiniai mokomi pagal bendrojo ugdymo programas ir kadetų ugdymo programą, suderintą su krašto apsaugos ministru ir patvirtintą švietimo, mokslo ir sporto ministro;
+
+
+
+
+2) derindama su bendruoju ugdymu, organizuoja neformaliojo švietimo veiklas, susijusias su kadetų ugdymo programos vykdymu;
+
+
+
+
+3) turi bent vieną jungtinės veiklos (partnerystės) ar asociacijos sutartį su Lietuvos Respublikoje veikiančiomis įstaigomis, organizacijomis, prisidedančiomis prie nacionalinio saugumo stiprinimo ir pasirengimo šalies gynybai ir galinčiomis suteikti pagalbą įgyvendinant kadetų ugdymą
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+11. Nevalstybinė mokykla ugdymą gali grįsti švietimo, mokslo ir sporto ministro patvirtinta savitos pedagoginės sistemos samprata, kuri suprantama kaip ugdymo priemonių ir metodų visuma, aprėpianti savitą ugdymo filosofiją, ugdymo tikslus, mokymosi aplinką, ugdymo proceso organizavimo būdus (toliau – savitos pedagoginės sistemos samprata), o valstybinė ar savivaldybės mokykla įgyvendinti jos elementus gali, jeigu atitinka šio straipsnio 8 dalyje nustatytus bendruosius kriterijus ir atitinkamai šiuos specialiuosius kriterijus:
+
+
+1) savitos pedagoginės sistemos samprata grindžiamas ugdymas nevalstybinėje mokykloje dera su bendrosiomis ugdymo programomis, bendraisiais ugdymo planais ir yra gautas tėvų (globėjų, rūpintojų) sutikimas;
+
+
+
+
+2) valstybinėje ar savivaldybės mokykloje įgyvendinami savitos pedagoginės sistemos sampratos elementai dera su bendrosiomis ugdymo programomis, bendraisiais ugdymo planais ir yra gautas tėvų (globėjų, rūpintojų) sutikimas;
+
+
+
+
+3) atrankos būdu, vadovaujantis švietimo, mokslo ir sporto ministro patvirtintais priėmimo kriterijais ir mokyklos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) nustatyta tvarka, priimami mokiniai iš visos savivaldybės teritorijos
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+12. Mokykla, skirta mokiniams, dėl įgimtų ar įgytų sutrikimų turintiems specialiųjų ugdymosi poreikių, bendrojo ugdymo programas gali vykdyti, jeigu atitinka šio straipsnio 8 dalyje nustatytus bendruosius kriterijus ir šiuos specialiuosius kriterijus:
+
+
+1) visų mokinių specialieji ugdymosi poreikiai yra įvertinti pedagoginės psichologinės tarnybos;
+
+
+
+
+2) visiems mokiniams nustatyti dideli ar labai dideli specialieji ugdymosi poreikiai
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+13. Šio straipsnio 9, 10 ir 12 dalyse nurodytos mokyklos, jeigu jos yra skirtos šalies (regiono) mokiniams, turi atitikti šiuos papildomus kriterijus:
+
+
+1) priima mokinius iš šalies (regiono) teritorijos;
+
+
+
+
+2) turi mokyklos bendrabutį arba turi galimybę mokinius apgyvendinti bendrabutyje, arba užtikrina jų vežimą į mokyklą ir atgal;
+
+
+
+
+3) jos steigimo, reorganizavimo, likvidavimo, pertvarkymo ir struktūros pertvarkos plano projektas suderintas su švietimo, mokslo ir sporto ministru
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+14. Mokykla bendrojo ugdymo programas nevalstybine kalba gali vykdyti, jeigu atitinka papildomą valstybinės kalbos mokymo pagal švietimo, mokslo ir sporto ministro patvirtintas bendrąsias programas kriterijų
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+15. Šio straipsnio 8–14 dalyse nurodytų kriterijų kiekybinės ir kokybinės reikšmės nustatomos Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse. Jeigu mokykla, vykdanti bendrojo ugdymo programas, neatitinka bent vieno šio straipsnio 8 dalies 1–6 punktuose ir 9–14 dalyse nustatytų kriterijų ir per švietimo, mokslo ir sporto ministro įgaliotos institucijos nustatytą, atsižvelgiant į pažeidimų pobūdį, terminą nepašalina neatitikties nustatytiems kriterijams, Vyriausybės nustatyta tvarka stabdomas bendrojo ugdymo programos ar jos dalies vykdymas šioje mokykloje. Jeigu mokykla, vykdanti bendrojo ugdymo programas, neatitinka bent vieno šio straipsnio 8 dalies 7 ir 8 punktuose nustatytų kriterijų, mokymo lėšos iš valstybės biudžeto jai neskiriamos arba mažinamos, vadovaujantis šio įstatymo 67 straipsnio 11 ir 12 dalimis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+16. Mokykla (išskyrus aukštąją mokyklą) ar kitas švietimo teikėjas mokinių priėmimą ir mokymą pradeda tik gavę licenciją ir (ar) rašytinį sutikimą, jeigu jie yra privalomi.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+17. Valstybinė ir savivaldybės formaliojo švietimo mokykla savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitos formaliojo švietimo mokyklos – savininko (dalyvių susirinkimo) sprendimu gali vykdyti neformaliojo švietimo programas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
+
+
+
+
+18. Mokykla gali:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 1) savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) (valstybinės ir savivaldybės mokyklos), savininko (dalyvių susirinkimo) (kitų mokyklų) arba mokyklos įstatuose nustatytu mastu prisiimti įsipareigojimus, sudaryti mokymo ir kitas sutartis;
@@ -2656,7 +2844,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-11. Mokykla privalo:
+19. Mokykla privalo:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 1) užtikrinti kokybišką švietimo programų vykdymą;
@@ -2704,21 +2895,29 @@ Nr. XIV-2093, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13990
 
 
 
-12. Mokyklos Vaiko gerovės komisijos paskirtis – rūpintis mokiniui saugia ir palankia ugdymo aplinka. Mokyklos Vaiko gerovės komisijos funkcijas, sudarymo ir jos darbo organizavimo tvarką nustato švietimo, mokslo ir sporto ministras. 
+20. Mokyklos Vaiko gerovės komisijos paskirtis – rūpintis mokiniui saugia ir palankia ugdymo aplinka. Mokyklos Vaiko gerovės komisijos funkcijas, sudarymo ir jos darbo organizavimo tvarką nustato švietimo, mokslo ir sporto ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
 
 
 
 
-13. Mokykloje gali veikti mokinių ir jaunimo organizacijos, kurios skatina mokinių dorinį, tautinį, pilietinį sąmoningumą, patriotizmą, puoselėja kultūrinę ir socialinę brandą, padeda tenkinti jų saviugdos ir saviraiškos poreikius. Mokinių ir jaunimo organizacijos savo veiklą grindžia nustatyta tvarka įregistruotais įstatais, jų veikla neturi prieštarauti Lietuvos Respublikos Konstitucijai ir įstatymams.
+21. Mokykloje gali veikti mokinių ir jaunimo organizacijos, kurios skatina mokinių dorinį, tautinį, pilietinį sąmoningumą, patriotizmą, puoselėja kultūrinę ir socialinę brandą, padeda tenkinti jų saviugdos ir saviraiškos poreikius. Mokinių ir jaunimo organizacijos savo veiklą grindžia nustatyta tvarka įregistruotais įstatais, jų veikla neturi prieštarauti Lietuvos Respublikos Konstitucijai ir įstatymams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 
 
-14. Mokykloje veikiančioms mokinių ir jaunimo organizacijoms sudaromos palankios veiklos sąlygos. Šias organizacijas gali finansuoti ir kitais būdais jų veiklą skatinti valstybė, valstybinės ir savivaldybės mokyklos – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) ar kiti fiziniai bei juridiniai asmenys.
+22. Mokykloje veikiančioms mokinių ir jaunimo organizacijoms sudaromos palankios veiklos sąlygos. Šias organizacijas gali finansuoti ir kitais būdais jų veiklą skatinti valstybė, valstybinės ir savivaldybės mokyklos – savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) ar kiti fiziniai bei juridiniai asmenys.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
 
 
@@ -2729,15 +2928,19 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 44 straipsnis. Mokyklos, pagalbos įstaigos pabaiga ir pertvarkymas 
 
 
-1. Valstybinės profesinio mokymo įstaigos, bendrojo ugdymo mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą reorganizuoja, likviduoja ar pertvarko vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir gavusi mokyklos steigimui pritarusių institucijų rašytinius sutikimus. Valstybinės neformaliojo švietimo mokyklos, pagalbos įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą, įstaigą reorganizuoja, likviduoja ar pertvarko gavusi mokyklos, įstaigos steigimui pritarusių institucijų rašytinius sutikimus. 
+1. Valstybinės profesinio mokymo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą reorganizuoja, likviduoja ar pertvarko Profesinio mokymo įstatymo nustatyta tvarka, bendrojo ugdymo mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą reorganizuoja, likviduoja ar pertvarko vadovaudamasi šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Valstybines neformaliojo švietimo mokyklas, pagalbos įstaigas reorganizuoja, likviduoja, pertvarko jų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 
 
-2. Savivaldybės taryba neformaliojo švietimo mokyklas (biudžetines įstaigas) reorganizuoja, likviduoja ar pertvarko savarankiškai, bendrojo ugdymo mokyklas (biudžetines įstaigas) – vadovaudamasi Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigas (biudžetines įstaigas) – Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Savivaldybės neformaliojo švietimo mokyklos (viešosios įstaigos) reorganizuojamos, likviduojamos ar pertvarkomos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, bendrojo ugdymo mokyklos (viešosios įstaigos), profesinio mokymo įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, pagalbos įstaigos (viešosios įstaigos) – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Vyriausybės nustatytais pagalbos įstaigų steigimo, reorganizavimo, likvidavimo ir pertvarkymo kriterijais. Tais atvejais, kai savivaldybės tarybos ar dalyvių susirinkimo sprendimų projektai dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo prieštarauja mokyklos bendruomenės sprendimams, siūlymus dėl tokios mokyklos reorganizavimo, likvidavimo ir pertvarkymo pateikia švietimo, mokslo ir sporto ministro įgaliota institucija. Mokyklos bendruomenės sprendimų priėmimo tvarką nustato švietimo, mokslo ir sporto ministras. 
+2. Savivaldybės taryba neformaliojo švietimo mokyklas (biudžetines įstaigas), pagalbos įstaigas (biudžetines įstaigas) reorganizuoja, likviduoja ar pertvarko savarankiškai, bendrojo ugdymo mokyklas (biudžetines įstaigas) – vadovaudamasi šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Savivaldybės neformaliojo švietimo mokyklos (viešosios įstaigos), pagalbos įstaigos (viešosios įstaigos) reorganizuojamos, likviduojamos ar pertvarkomos jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, bendrojo ugdymo mokyklos (viešosios įstaigos) – jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, profesinio mokymo įstaigos (viešosios įstaigos) – jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis Profesinio mokymo įstatymu. Kai savivaldybės tarybos ar dalyvių susirinkimo sprendimų projektai dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo prieštarauja mokyklos bendruomenės sprendimams, siūlymus dėl tokios mokyklos reorganizavimo, likvidavimo ir pertvarkymo pateikia švietimo, mokslo ir sporto ministro įgaliota institucija. Mokyklos bendruomenės sprendimų priėmimo tvarką nustato švietimo, mokslo ir sporto ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
 
 
@@ -2748,9 +2951,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-4. Mokyklos (išskyrus aukštąsias mokyklas) struktūros pertvarka – mokyklos grupės ar tipo pakeitimas arba vykdomos organizacinės veiklos pakeitimai (klasių, grupių, skyrių, filialų steigimas ar likvidavimas, mokymo valstybine kalba ar tautinės mažumos kalba įvedimas ar pabaiga mokykloje, paskirties keitimas) – vykdoma valstybinės ir savivaldybės mokyklos – savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitų mokyklų – savininko (dalyvių susirinkimo) sprendimu, jeigu įstatymai, nustatantys konkrečias juridinių asmenų teisines formas, nenustato kitaip. Mokyklų (išskyrus aukštąsias mokyklas), vykdančių formaliojo švietimo programas, struktūros pertvarka vykdoma vadovaujantis Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Valstybinės mokyklos (išskyrus profesinio mokymo įstaigą) grupės ar tipo pakeitimas atliekamas gavus švietimo, mokslo ir sporto ministro rašytinį sutikimą. 
+4. Mokyklos (išskyrus aukštąsias mokyklas) struktūros pertvarka – mokyklos grupės ar tipo pakeitimas arba vykdomos organizacinės veiklos pakeitimai (klasių, grupių, skyrių, filialų steigimas ar likvidavimas, mokymo valstybine kalba ar tautinės mažumos kalba įvedimas ar pabaiga mokykloje, mokyklos paskirties keitimas) – vykdoma valstybinės ar savivaldybės mokyklos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitų mokyklų – jų savininko (dalyvių susirinkimo) sprendimu, jeigu įstatymai, nustatantys juridinių asmenų teisines formas, nenustato kitaip. Mokyklų (išskyrus aukštąsias mokyklas), vykdančių formaliojo švietimo programas, struktūros pertvarka vykdoma vadovaujantis šio įstatymo 43 straipsnio 8–14 dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Valstybinės mokyklos (išskyrus profesinio mokymo įstaigas) grupės ar tipo pakeitimas atliekamas gavus švietimo, mokslo ir sporto ministro rašytinį sutikimą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
  
 
 
@@ -4511,7 +4715,10 @@ SEPTINTASIS SKIRSNIS
 66 straipsnis. Investicijos į švietimo plėtotę
 
 
-1. Valstybės lygiu investicinės lėšos švietimo plėtotei (žmogiškiesiems ištekliams plėtoti ir optimizuoti, darbo sąlygoms gerinti, švietimo kokybei ir prieinamumui didinti, infrastruktūrai tobulinti ir kt.) skiriamos švietimo politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose suplanuotoms priemonėms įgyvendinti. Jos paskirstomos Švietimo, mokslo ir sporto ministerijos nustatyta tvarka.
+1. Valstybės lygmeniu investicinės lėšos švietimo plėtotei skiriamos švietimo politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose suplanuotoms pažangos priemonėms įgyvendinti. Tęstinės veiklos lėšos žmogiškiesiems ištekliams plėtoti ir optimizuoti, darbo sąlygoms gerinti, formaliojo ir neformaliojo švietimo kokybei ir prieinamumui didinti, infrastruktūrai tobulinti, švietimo įstaigų tinklo stiprinimo ir kitoms tęstinės veiklos priemonėms įgyvendinti paskirstomos švietimo, mokslo ir sporto ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 
@@ -4558,6 +4765,9 @@ Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
 3) mokyklų klasėms, kuriose ugdoma pagal bendrojo ugdymo programas ir kuriose šio įstatymo 43 straipsnio 15 dalyje nurodytais atvejais yra sustabdytas bendrojo ugdymo programos ar jos dalies vykdymas. 
 
 
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 
@@ -4578,11 +4788,17 @@ Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
 3) klasėms, kuriose ugdoma pagal bendrojo ugdymo programas (išskyrus klases specialiųjų ugdymosi poreikių turintiems mokiniams) ir kurių sudarymas neatitinka šio įstatymo 43 straipsnio 8 dalies 7 punkte nurodyto leidžiamo didžiausio mokinių skaičiaus klasėje kriterijaus. 
 
 
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 
 
 13. Sumažintas mokymo lėšas, skiriamas iš valstybės biudžeto savivaldybių mokyklų klasėms (grupėms), šio straipsnio 12 dalies 1 ir 2 punktuose nurodytais atvejais savivaldybės padengia iš savo biudžetų.
+Papildyta straipsnio dalimi:
+Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
+ 
 
 
 
@@ -4600,9 +4816,10 @@ Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
 4. Ūkio lėšos mokykloms (išskyrus aukštąsias mokyklas) skiriamos:
 
 
-1) savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, savivaldybių kadetų ugdymo mokykloms, skirtoms šalies (regiono) mokiniams, atitinkančioms Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytą paskirtį ir kriterijus, taip pat savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, ir vykdančioms ikimokyklinio ir priešmokyklinio ugdymo programas, skiriamos iš Lietuvos Respublikos atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką ir iš savivaldybių biudžetų asignavimų; 
+1) savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, savivaldybių kadetų ugdymo mokykloms, skirtoms šalies (regiono) mokiniams ir atitinkančioms Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytą paskirtį ir šio įstatymo 43 straipsnio 8, 9, 10, 12 ir 13 dalyse nustatytus kriterijus, taip pat savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, ir vykdančioms ikimokyklinio ir priešmokyklinio ugdymo programas, skiriamos iš Lietuvos Respublikos atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką ir iš savivaldybių biudžetų asignavimų;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
+Nr. XIV-2310, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24178
  
 
 
