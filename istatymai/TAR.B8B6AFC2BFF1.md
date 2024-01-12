@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-11
+Suvestinė redakcija nuo 2024-01-12 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -3620,27 +3620,27 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 VII SKYRIUS
-EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ IR REGLAMENTO (ES) 2022/1925 TAIKYMAS 
+EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ, REGLAMENTO (ES) 2022/1925 IR REGLAMENTO (ES) 2022/2560 TAIKYMAS 
  
 Pakeistas skyriaus pavadinimas:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
 
 
-54 straipsnis. Įgaliota ir (arba) kompetentinga institucija 
+54 straipsnis. Įgaliota ir (arba) kompetentinga institucija
 
 
-1. Konkurencijos taryba yra institucija, įgaliota taikyti Europos Sąjungos konkurencijos taisykles, kurių laikymosi priežiūra pagal Europos Sąjungos konkurencijos teisę pavedama nacionalinei konkurencijos institucijai. 
-
-
-
-
-2. Konkurencijos taryba laikoma kompetentinga institucija, užtikrinančia Reglamento (ES) 2022/1925 1 straipsnio 6 dalyje nurodytų taisyklių vykdymą.
+1. Konkurencijos taryba yra institucija, įgaliota taikyti Europos Sąjungos konkurencijos taisykles, kurių laikymosi priežiūra pagal Europos Sąjungos konkurencijos teisę pavedama nacionalinei konkurencijos institucijai.
 
 
 
 
-3. Konkurencijos taryba, atlikdama savo funkcijas, suteiktas pagal šio straipsnio 1 ir 2 dalis, veikia šio įstatymo nustatyta tvarka tiek, kiek jos, kaip įgaliotos ir (arba) kompetentingos institucijos, atitinkamų funkcijų nenustato Europos Sąjungos konkurencijos taisyklės ir (arba) Reglamentas (ES) 2022/1925.
+2. Konkurencijos taryba laikoma kompetentinga institucija, užtikrinančia Reglamento (ES) 2022/1925 1 straipsnio 6 dalyje nurodytų taisyklių vykdymą ir įgyvendinančia Reglamento (ES) 2022/2560 14 straipsnio 5–7 dalyse nurodytas su patikrinimais Europos Sąjungoje susijusias funkcijas. 
+
+
+
+
+3. Konkurencijos taryba, atlikdama savo funkcijas, suteiktas pagal šio straipsnio 1 ir 2 dalis, veikia šio įstatymo nustatyta tvarka tiek, kiek jos, kaip įgaliotos ir (arba) kompetentingos institucijos, atitinkamų funkcijų nenustato Europos Sąjungos konkurencijos taisyklės ir (arba) Reglamentas (ES) 2022/1925 ar Reglamentas (ES) 2022/2560.
 
 
 Straipsnio pakeitimai:
@@ -3721,36 +3721,27 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 56 straipsnis. Policijos pagalba ir teismo leidimų dėl tyrimo veiksmų išdavimas
 
 
-1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles ar Reglamento (ES) 2022/1925 nuostatas atliekantys Europos Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti ir galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
- 
+1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles, Reglamento (ES) 2022/1925 ar Reglamento (ES) 2022/2560 nuostatas atliekantys Europos Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti ir galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus.
 
 
 
 
-2. Pirmosios instancijos administracinis teismas išduoda teismo leidimus dėl galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 20 straipsnyje ar Reglamento (ES) 2022/1925 23 straipsnio 8 dalyje nurodytais atvejais.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
-Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
-Nr. XIV-2036, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12398
- 
+2. Pirmosios instancijos administracinis teismas išduoda teismo leidimus dėl galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 20 straipsnyje, Reglamento (ES) 2022/1925 23 straipsnio 8 dalyje ar Reglamento (ES) 2022/2560 14 straipsnio 6 dalyje nurodytais atvejais.
 
 
 
 
 3. Pirmosios instancijos administracinis teismas išduoda teismo leidimus dėl Europos Komisijos atliekamų patikrinimų ir galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 21 straipsnyje nurodytu atveju.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
- 
 
 
 
 
 4. Prašymus dėl teismo leidimų išdavimo pateikia Europos Komisija arba Konkurencijos taryba.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
-
-
 
 
 
@@ -3960,6 +3951,14 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 6. 2022 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/1925 dėl atvirų konkurencijai ir sąžiningų skaitmeninio sektoriaus rinkų, kuriuo iš dalies keičiamos direktyvos (ES) 2019/1937 ir (ES) 2020/1828 (Skaitmeninių rinkų aktas).
+Papildyta punktu:
+Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
+ 
+
+
+
+
+7. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2560 dėl vidaus rinką iškraipančių užsienio subsidijų.
 Papildyta punktu:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
  
