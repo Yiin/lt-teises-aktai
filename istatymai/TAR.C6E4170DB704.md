@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-01-23
+Suvestinė redakcija nuo 2024-01-24 iki 2024-07-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -501,11 +501,13 @@ Nr. XII-2037, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18597
 
 
 Pacientas ir asmuo, kuris buvo mirusio paciento išlaikomas arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą (nepilnamečiai vaikai (įvaikiai), sutuoktinis, nedarbingi tėvai (įtėviai) ar kiti faktiniai nedarbingi išlaikytiniai), taip pat mirusio paciento vaikas, gimęs po jo mirties, turi teisę į turtinės ir neturtinės žalos, atsiradusios dėl paciento sveikatai padarytos žalos (toliau – žala), atlyginimą. Teisę į neturtinės žalos atlyginimą taip pat turi mirusio paciento darbingi tėvai (įtėviai) ir pilnamečiai vaikai (įvaikiai), kuriuos su pacientu siejo ypač artimas ir glaudus ryšys. Dėl mirusio paciento ir jo tėvų bei pilnamečių vaikų ryšio artimumo ir glaudumo sprendžia Pacientų sveikatai padarytos žalos nustatymo komisija (toliau – Komisija) pagal mirusio paciento tėvų (įtėvių) ir pilnamečių vaikų (įvaikių) ar jų atstovo pateiktus duomenis, patvirtinančius paciento ir jo tėvų bei pilnamečių vaikų ypač artimą ir glaudų ryšį (atsižvelgiant į bendravimo intensyvumą ir rūpinimosi vienas kitu pobūdį). 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 13 straipsnis (2019 m. gruodžio 17 d. redakcija; TAR, 2019-12-30, Nr. 21552) tiek, kiek pagal jį ne visi asmenys, dėl paciento mirties patyrę neturtinę žalą, turi teisę į tokios žalos atlyginimą šio įstatymo nustatyta tvarka, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 2 daliai, konstituciniams teisingumo, teisinės valstybės principams.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
 Nr. XIII-2703, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21552
+Nr. KT10-N1/2024, 2024-01-24, paskelbta TAR 2024-01-24, i. k. 2024-01136
  
 
 
@@ -1371,3 +1373,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2, 24, 25, 26 ir 27 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT10-N1/2024, 2024-01-24, paskelbta TAR 2024-01-24, i. k. 2024-01136
+Dėl Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 13 straipsnio (2019 m. gruodžio 17 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
