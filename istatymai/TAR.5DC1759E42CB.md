@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-31
+Suvestinė redakcija nuo 2024-02-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -1055,11 +1055,12 @@ Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
 
 
 
-99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme.
+99. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos strateginių prekių kontrolės įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 Straipsnio dalies pakeitimai:
 Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
  
 
 
@@ -1187,6 +1188,24 @@ Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
 
 Straipsnio pakeitimai:
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
+ 
+
+
+
+
+61 straipsnis. Valstybės rinkliava
+
+
+1. Už liudijimų, patvirtinančių, kad asmuo atitinka nustatytus reikalavimus ir jam suteikiama teisė dirbti vairuotojų mokytoju ir (arba) vairavimo instruktoriumi, išskyrus atvejus, kai suteikiama teisė atlikti karinei įrangai priskiriamų taktinių ir logistinių transporto priemonių ar jų junginių su priekabomis vairuotojų mokytojų ir (arba) vairavimo instruktorių funkcijas, išdavimą vairavimo instruktoriams, vairuotojų mokytojams mokama Vyriausybės apskaičiuoto dydžio valstybės rinkliava.
+
+
+
+
+2. Už teisės vykdyti vairuotojų mokymą, išskyrus teisę vykdyti karinei įrangai priskiriamų taktinių ir logistinių transporto priemonių ar jų junginių su priekabomis vairuotojų rengimą, ar papildomą vairuotojų mokymą suteikimą mokama Vyriausybės apskaičiuoto dydžio valstybės rinkliava.
+
+
+Papildyta straipsniu:
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
  
 
 
@@ -1760,6 +1779,30 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 
 2) nustato taktinių ir logistinių transporto priemonių ir jų priekabų, kurios yra priskirtinos traktorių, savaeigių mašinų ar jų priekabų kategorijoms, techninės apžiūros tvarką ir techninius reikalavimus;
+
+
+
+
+3) nustato karinei įrangai priskiriamų taktinių ir logistinių transporto priemonių ar jų junginių su priekabomis vairuotojų rengimo, teisės vairuoti šias transporto priemones suteikimo ir panaikinimo tvarką ir asmenis, suteikiančius šią teisę ar ją panaikinančius;
+Papildyta straipsnio punktu:
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+ 
+
+
+
+
+4) kariams suteikia teisę atlikti karinei įrangai priskiriamų taktinių ir logistinių transporto priemonių ar jų junginių su priekabomis vairuotojų mokytojo ir (arba) vairavimo instruktoriaus funkcijas, nustato šios teisės suteikimo, sustabdymo, atnaujinimo ar panaikinimo tvarką, taip pat nustato reikalavimus kariams, atliekantiems karinei įrangai priskiriamų taktinių ir logistinių transporto priemonių ar jų junginių su priekabomis vairuotojų mokytojo ir (arba) vairavimo instruktoriaus funkcijas;
+Papildyta straipsnio punktu:
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+ 
+
+
+
+
+5) nustato ir tvirtina dokumento, patvirtinančio teisę vairuoti karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis, formą ir išdavimo tvarką.
+Papildyta straipsnio punktu:
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -2543,9 +2586,10 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 
 
-5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį atitinkamai vairuotojo pažymėjimą ar dokumentą, patvirtinantį teisę vairuoti traktorius ir (ar) savaeiges mašinas, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3, O4 klasių transporto priemonių ir T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 kategorijų ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio 6, 7 ir 8 dalyse nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis.
+5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį atitinkamai vairuotojo pažymėjimą ar dokumentą, patvirtinantį teisę vairuoti traktorius ir (ar) savaeiges mašinas arba karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3, O4 klasių transporto priemonių ir T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 kategorijų ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio 6, 7 ir 8 dalyse nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
  
 
 
@@ -3207,7 +3251,18 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 22 straipsnis. Teisės vairuoti motorines transporto priemones, traktorius, savaeiges mašinas suteikimas 
 
 
-1. Teisė vairuoti motorines transporto priemones ar jų junginius su priekabomis, traktorius, savaeiges mašinas suteikiama Lietuvos Respublikoje gyvenantiems, ne jaunesniems kaip šiame įstatyme nustatyto amžiaus asmenims, kurių sveikatos būklė yra tinkama vairuoti tam tikros kategorijos motorinę transporto priemonę, traktorių, savaeigę mašiną, mokantiems KET, išmanantiems kitus teisės aktus, reglamentuojančius kelių eismą, mokantiems vairuoti, nustatyta tvarka išlaikiusiems egzaminus ir turintiems vairuotojo pažymėjimą.
+1. Teisė vairuoti motorines transporto priemones ar jų junginius su priekabomis, traktorius, savaeiges mašinas, išskyrus šio straipsnio 11 dalyje nustatytą atvejį, suteikiama Lietuvos Respublikoje gyvenantiems ne jaunesniems kaip šiame įstatyme nustatyto amžiaus asmenims, kurių sveikatos būklė yra tinkama vairuoti tam tikros kategorijos motorinę transporto priemonę, traktorių, savaeigę mašiną, mokantiems KET, išmanantiems kitus teisės aktus, reglamentuojančius kelių eismą, mokantiems vairuoti, nustatyta tvarka išlaikiusiems egzaminus ir turintiems vairuotojo pažymėjimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+ 
+
+
+
+
+11. Teisė vairuoti karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis suteikiama kariams, turintiems teisę vairuoti reikiamos kategorijos transporto priemones ar jų junginius su priekabomis, arba kariams, turintiems teisę vairuoti B kategorijos motorines transporto priemones ir dokumentą, patvirtinantį teisę vairuoti karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis. Kariams, turintiems teisę vairuoti B kategorijos motorines transporto priemones ir dokumentą, patvirtinantį teisę vairuoti karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis, teisė vairuoti reikiamas karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis suteikiama neatsižvelgiant į šių transporto priemonių ar jų junginių su priekabomis kategoriją. Kiti šiame įstatyme nustatyti reikalavimai suteikti teisę vairuoti motorines transporto priemones ar jų junginius su priekabomis šioje dalyje nustatytu atveju netaikomi. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+ 
 
 
 
@@ -3233,7 +3288,10 @@ Nr. XIII-491, 2017-06-22, paskelbta TAR 2017-06-30, i. k. 2017-11221
 
 
 
-4. Vairuotojo pažymėjimai išduodami ne ilgesniam kaip 10 metų laikotarpiui, o teisė vairuoti C1, C1E, C, CE, D1, D1E, D, DE kategorijų transporto priemones galioja ne ilgiau kaip 5 metus nuo vairuotojo pažymėjimo išdavimo dienos.
+4. Vairuotojo pažymėjimai išduodami ne ilgesniam kaip 10 metų laikotarpiui, o teisė vairuoti C1, C1E, C, CE, D1, D1E, D, DE kategorijų transporto priemones galioja ne ilgiau kaip 5 metus nuo vairuotojo pažymėjimo išdavimo dienos. Dokumentas, patvirtinantis teisę vairuoti karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis, išduodamas ne ilgesniam laikotarpiui, kaip iki karys perkeliamas į dimisiją.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+ 
 
 
 
@@ -3684,6 +3742,14 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 3) paaiškėjus, kad teisė vairuoti transporto priemones buvo suteikta pateikus neteisingus asmens, sveikatos būklės duomenis ar kitą neteisingą informaciją, lėmusią teisės vairuoti transporto priemones suteikimą.
 
 
+
+
+
+
+11. Teisė vairuoti karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis panaikinama, jeigu karys neatitinka šio įstatymo 22 straipsnio 11 dalyje nurodytų reikalavimų.
+Papildyta straipsnio dalimi:
+Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
+ 
 
 
 
