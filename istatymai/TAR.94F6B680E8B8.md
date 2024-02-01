@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-01-31
+Suvestinė redakcija nuo 2024-02-01 iki 2024-02-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -2949,9 +2949,10 @@ Papildomojo (savanoriškojo) sveikatos draudimo institucijos yra draudimo įmon�
 43 straipsnis. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai
 
 
-1. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai yra apdraustojo kreipimasis į sveikatos priežiūros įstaigą dėl papildomojo (savanoriškojo) sveikatos draudimo sutartyse numatytų ir asmens sveikatos priežiūros specialisto, kuriam teisės aktais, reguliuojančiais jo profesines teises, suteikta teisė nustatyti sveikatos būklę ir diagnozuoti ligas bei sveikatos sutrikimus, diagnozuotų sveikatos sutrikimų ir (ar) sveikatos būklių, sudarančių pagrindą teikti apdraustiesiems šiose sutartyse numatytų rūšių ir masto asmens sveikatos priežiūros paslaugas bei patarnavimus. Šių paslaugų ir patarnavimų išlaidas papildomojo (savanoriškojo) sveikatos draudimo sutartyse nustatytomis sąlygomis apmoka draudikas. 
+1. Papildomojo (savanoriškojo) sveikatos draudimo draudiminiai įvykiai yra asmens sveikatos priežiūros specialisto, kuriam teisės aktais, reguliuojančiais jo profesines teises, suteikta teisė nustatyti sveikatos būklę ir diagnozuoti ligas bei sveikatos sutrikimus, diagnozuotos papildomojo (savanoriškojo) sveikatos draudimo sutartyse numatytos ligos, sveikatos sutrikimai ar sveikatos būklės, kurie yra pagrindas teikti apdraustiesiems šiose sutartyse numatytų rūšių ir masto asmens sveikatos priežiūros paslaugas bei patarnavimus. Šių paslaugų ir patarnavimų išlaidas papildomojo (savanoriškojo) sveikatos draudimo sutartyse nustatytomis sąlygomis apmoka draudikas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
+Nr. XIV-2194, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20774
  
 
 
