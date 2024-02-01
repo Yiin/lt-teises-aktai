@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-01-31
+Suvestinė redakcija nuo 2024-02-01 iki 2024-05-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -168,7 +168,9 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
 
 
-15. Mokymo lėšos – tiesiogiai švietimo procesui būtinos lėšos – darbo užmokesčiui pagal ugdymo planą, mokytojų ir kitų ugdymo procese dalyvaujančių asmenų kvalifikacijai tobulinti, vadovėliams ir kitoms mokymo priemonėms, taip pat ugdymo procesui organizuoti ir valdyti, mokyklos bibliotekai, psichologinei, specialiajai pedagoginei, specialiajai ir socialinei pedagoginei pagalbai, profesiniam orientavimui, mokyklų vykdomai sveikatos stiprinimo veiklai ir kitoms ugdymo reikmėms skiriamos lėšos.
+15. Mokymo lėšos – tiesiogiai švietimo procesui būtinos lėšos: darbo užmokesčiui pagal ugdymo planą, mokytojų ir kitų ugdymo procese dalyvaujančių asmenų kvalifikacijai tobulinti, vadovėliams ir kitoms, įskaitant virtualiąsias, mokymo priemonėms, taip pat ugdymo procesui organizuoti ir valdyti, mokyklos bibliotekai, psichologinei, specialiajai pedagoginei, specialiajai ir socialinei pedagoginei pagalbai, profesiniam orientavimui, mokyklų vykdomai sveikatos stiprinimo veiklai ir kitoms ugdymo reikmėms skiriamos lėšos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
  
@@ -179,6 +181,14 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 16. Mokymosi forma – švietimo teikėjo siūlomas ir asmens pasirinktas mokymosi organizavimo būdas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
+ 
+
+
+
+
+161. Mokymo(si) programinė įranga – programinė įranga, skirta ugdymo programose nustatytų mokomųjų dalykų mokymui(si) ir mokymo(si) tikslams pasiekti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
  
 
 
@@ -385,6 +395,22 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
 
 
+371. Virtualioji mokymo(si) priemonė – mokymo(si) programinė įranga ar kita informacinių technologijų pagrindu sukurta ne fizinė mokymo(si) priemonė. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
+ 
+
+
+
+
+372. Virtualiosios mokymo(si) priemonės interaktyvumas – virtualiosios mokymo(si) priemonės savybė palaikyti abipusę sąveiką su ugdymo proceso dalyviu ir reaguoti į jo veiksmus.
+Papildyta straipsnio dalimi:
+Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
+ 
+
+
+
+
 38. Visuotinis švietimas – visiems Lietuvos Respublikos piliečiams ir užsieniečiams, turintiems teisę nuolat ar laikinai gyventi Lietuvos Respublikoje, valstybės laiduojamas švietimas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
@@ -458,7 +484,9 @@ Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodytų reikalavimų laikomasi rengiant ikimokykliniam, priešmokykliniam ugdymui, bendrajam ugdymui, profesiniam mokymui, studijoms aukštosiose mokyklose skirtas švietimo programas ar jų modulius, ugdymo planus ar studijų krypčių reglamentus, mokymosi pasiekimų patikrinimų programas, vadovėlius, kitas mokymo priemones, papildomą ugdymo medžiagą.
+3. Šio straipsnio 1 ir 2 dalyse nurodytų reikalavimų laikomasi rengiant ikimokykliniam, priešmokykliniam ugdymui, bendrajam ugdymui, profesiniam mokymui, studijoms aukštosiose mokyklose skirtas švietimo programas ar jų modulius, ugdymo planus ar studijų krypčių reglamentus, mokymosi pasiekimų patikrinimų programas, vadovėlius, virtualiąsias mokymo(si) priemones, kitas mokymo priemones, papildomą ugdymo medžiagą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
  
 
 
@@ -2349,7 +2377,9 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-3. Švietimo ir mokslo ministras tvirtina bendrojo ugdymo dalykų vadovėlių ir mokymo priemonių atitikties teisės aktams įvertinimo ir aprūpinimo jais tvarkos aprašą, nustatyta tvarka derina sveikatos apsaugos ministro tvirtinamas mokyklų higienos normas.
+3. Švietimo, mokslo ir sporto ministras tvirtina bendrojo ugdymo dalykų spausdintų ir įvairių interaktyvumo lygių virtualiųjų vadovėlių ir mokymo(si) priemonių atitikties teisės aktams įvertinimo ir aprūpinimo jais tvarkos aprašą, nustatyta tvarka derina sveikatos apsaugos ministro tvirtinamas mokyklų higienos normas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
  
 
 
@@ -4998,7 +5028,10 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 
-3. Mokinys, kuris mokosi pagal pradinio, pagrindinio, vidurinio ugdymo programas, vadovėliais naudojasi nemokamai.
+3. Mokinys, kuris mokosi pagal pradinio, pagrindinio, vidurinio ugdymo programas, nemokamai naudojasi vadovėliais ir švietimo, mokslo ir sporto ministro patvirtintame sąraše išvardytomis elektroninėmis knygomis ir interaktyviomis virtualiosiomis mokymo(si) priemonėmis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
+ 
 
 
 
@@ -5558,3 +5591,13 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 62 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2346, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25602
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 59 straipsnio pakeitimo įstatymas
+ 
+54.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2428, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25650
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 29 straipsnio pakeitimo įstatymo Nr. XIII-2894 2 straipsnio pakeitimo įstatymas
+ 
+55.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 4, 40 ir 70 straipsnių pakeitimo įstatymas
