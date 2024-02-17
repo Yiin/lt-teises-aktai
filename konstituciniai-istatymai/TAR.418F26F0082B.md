@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-02-16
+Suvestinė redakcija nuo 2024-02-17 iki 2024-05-13
  
 Konstitucinis įstatymas paskelbtas: TAR 2022-07-20, i. k. 2022-15851
  
@@ -1423,17 +1423,22 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 
 
 
-3) sprendimą apie nustatytą rinkėjų papirkimo faktą paskelbia savo interneto svetainėje šio kodekso 101 straipsnyje nustatyta tvarka;
+3) pagal kompetenciją priima sprendimus dėl manipuliavimo internetinių socialinių tinklų paslaugų platformos paskyromis priemonių naudojimo vykdant rinkimų politinę kampaniją – remdamasi Lietuvos radijo ir televizijos komisijos ar (ir) žurnalistų etikos inspektoriaus sprendimais ar vertinimais dėl šių priemonių naudojimo; 
 
 
 
 
-4) nagrinėja skundus ir priima sprendimus dėl apygardų rinkimų komisijų sprendimų, prireikus – ir dėl apylinkių rinkimų komisijų sprendimų, panaikina šio kodekso, kitų įstatymų ar kitų teisės aktų reikalavimų neatitinkančius rinkimų komisijų sprendimus;
+4) sprendimą apie nustatytą rinkėjų papirkimo faktą paskelbia savo interneto svetainėje šio kodekso 101 straipsnyje nustatyta tvarka;
 
 
 
 
-5) šio kodekso, kitų įstatymų ar kitų teisės aktų nustatytais atvejais priima sprendimus ir taiko atsakomybę už šio kodekso, kitų įstatymų ar kitų teisės aktų pažeidimus.
+5) nagrinėja skundus ir priima sprendimus dėl apygardų rinkimų komisijų sprendimų, prireikus – ir dėl apylinkių rinkimų komisijų sprendimų, panaikina šio kodekso, kitų įstatymų ar kitų teisės aktų reikalavimų neatitinkančius rinkimų komisijų sprendimus;
+
+
+
+
+6) šio kodekso, kitų įstatymų ar kitų teisės aktų nustatytais atvejais priima sprendimus ir taiko atsakomybę už šio kodekso, kitų įstatymų ar kitų teisės aktų pažeidimus.
 
 
 
@@ -4782,7 +4787,7 @@ RINKIMŲ AGITACIJA
 
 
 
-2. Rinkimų agitacija vykdoma laikantis Konstitucijos, šio kodekso ir kitų įstatymų, moralės, teisingumo, visuomenės darnos, sąžiningų ir garbingų rinkimų principų. Draudžiama vykdyti rinkimų agitaciją, neatitinkančią šioje dalyje nurodytų reikalavimų.
+2. Rinkimų agitacija vykdoma laikantis Konstitucijos, šio kodekso ir kitų įstatymų, moralės, teisingumo, visuomenės darnos, sąžiningų ir garbingų rinkimų principų. Draudžiama vykdyti rinkimų agitaciją, neatitinkančią šioje dalyje nurodytų reikalavimų, naudoti manipuliavimo internetinių socialinių tinklų paslaugų platformos paskyromis priemones.
 
 
 
@@ -6096,7 +6101,7 @@ RINKIMŲ POLITINĖS KAMPANIJOS FINANSAVIMO KONTROLĖ
 
 
 
-6. Vyriausioji rinkimų komisija turi teisę kreiptis į Lietuvos radijo ir televizijos komisiją, Visuomenės informavimo etikos komisiją, žurnalistų etikos inspektorių dėl paskleistos informacijos turinio vertinimo politinės reklamos aspektu.
+6. Vyriausioji rinkimų komisija turi teisę kreiptis į Lietuvos radijo ir televizijos komisiją, Visuomenės informavimo etikos komisiją, žurnalistų etikos inspektorių dėl paskleistos informacijos turinio vertinimo politinės reklamos aspektu. Vyriausioji rinkimų komisija taip pat turi teisę kreiptis į Lietuvos radijo ir televizijos komisiją ir žurnalistų etikos inspektorių dėl vertinimo, ar vykdant rinkimų politinę kampaniją buvo panaudotos manipuliavimo internetinių socialinių tinklų paslaugų platformos paskyromis priemonės.
 
 
 
