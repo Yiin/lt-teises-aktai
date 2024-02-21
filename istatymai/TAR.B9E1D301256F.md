@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-02-20
+Suvestinė redakcija nuo 2024-02-21 iki 2024-02-29
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -2416,7 +2416,10 @@ Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
 
 
 
-3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai naudojamoje žemės ūkio technikoje (įskaitant traktorius), žvejybos laivų varikliuose, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 ℃ temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
+ 
 
 
 Straipsnio pakeitimai:
@@ -4140,6 +4143,11 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 35 ir 37 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 27, 35, 36, 37, 38, 39, 41, 43, 53, 58-1, 59 straipsnių, II skyriaus penktojo skirsnio pakeitimo, Įstatymo papildymo nauju 3 priedu ir 40 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 9, 37 ir 39 straipsnių pakeitimo įstatymas
  
  
 
