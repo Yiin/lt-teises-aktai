@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2024-02-01 iki 2024-02-29
+Suvestinė redakcija nuo 2024-03-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -1278,12 +1278,18 @@ Nr. XIII-3315, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21253
 14 straipsnis. Privalomojo sveikatos draudimo fondo biudžetas
 
 
-1. Privalomojo sveikatos draudimo fondo biudžetas sudaromas vieniems metams – nuo sausio 1 dienos iki gruodžio 31 dienos įskaitytinai. 
+1. Privalomojo sveikatos draudimo fondo biudžetas sudaromas vieniems biudžetiniams metams – nuo sausio 1 dienos iki gruodžio 31 dienos įskaitytinai. Rengiant Privalomojo sveikatos draudimo fondo biudžeto projektą, atsižvelgiama į Lietuvos Respublikos biudžeto sandaros įstatymu ir Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektu siūlomą patvirtinti Privalomojo sveikatos draudimo fondo biudžetui paskirstytą agreguoto asignavimų limito dalį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
+ 
 
 
 
 
-2. Privalomojo sveikatos draudimo fondo biudžeto projektą rengia Valstybinė ligonių kasa. Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius teikia Vyriausybei Sveikatos apsaugos ministerija kartu su Privalomojo sveikatos draudimo tarybos išvada. Vyriausybė apsvarsto atitinkamų metų Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius ir ne vėliau kaip likus 75 kalendorinėms dienoms iki biudžetinių metų pabaigos teikia Seimui svarstyti kartu su Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu. Privalomojo sveikatos draudimo fondo biudžetas tvirtinamas Lietuvos Respublikos įstatymu.
+2. Privalomojo sveikatos draudimo fondo biudžeto projektą rengia Valstybinė ligonių kasa. Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius teikia Vyriausybei Sveikatos apsaugos ministerija kartu su Privalomojo sveikatos draudimo tarybos išvada. Vyriausybė apsvarsto atitinkamų metų Privalomojo sveikatos draudimo fondo biudžeto projektą ir Privalomojo sveikatos draudimo fondo biudžeto ateinančių dvejų metų prognozuojamus rodiklius ir ne vėliau kaip likus 75 kalendorinėms dienoms iki biudžetinių metų pabaigos teikia Seimui svarstyti kartu su tam tikrų metų biudžeto patvirtinimo įstatymo projektu. Privalomojo sveikatos draudimo fondo biudžetas tvirtinamas Lietuvos Respublikos įstatymu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
+ 
 
 
 
@@ -1495,9 +1501,10 @@ Nr. XIV-751, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26583
 
 
 
-3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Už sportininkus, pagal Lietuvos Respublikos sporto įstatymą gaunančius valstybės stipendiją, neturinčius draudžiamųjų pajamų ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka valstybės sporto politiką įgyvendinanti institucija iš atitinkamai programai skiriamų lėšų šios programos finansavimą reglamentuojančių teisės aktų nustatyta tvarka. Šių įmokų dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną.
+3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka tam tikrų metų biudžeto patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Už sportininkus, pagal Lietuvos Respublikos sporto įstatymą gaunančius valstybės stipendiją, neturinčius draudžiamųjų pajamų ir nepriklausančius asmenims, nurodytiems šio Įstatymo 6 straipsnio 4 dalyje, šio straipsnio 2 ir 4–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka valstybės sporto politiką įgyvendinanti institucija iš atitinkamai programai skiriamų lėšų šios programos finansavimą reglamentuojančių teisės aktų nustatyta tvarka. Šių įmokų dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1174, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13890
+Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
  
 
 
