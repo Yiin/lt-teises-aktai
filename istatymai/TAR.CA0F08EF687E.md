@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E"
 
 # Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas
 
-Suvestinė redakcija nuo 2023-07-02 iki 2024-02-29
+Suvestinė redakcija nuo 2024-03-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 91-3190, i. k. 1011010ISTA00IX-547
  
-TAR pastaba. Įstatymas Nr. XIV-1966  taikomas rengiant ir tvirtinant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetų projektus, taip pat vykdant 2024 metų ir vėlesnių metų valstybės socialinių fondų biudžetus ir atsiskaitant už jų vykdymą. 2023 metų Valstybinio socialinio draudimo fondo biudžetas, 2023 metų Garantinio fondo lėšų sąmata ir 2023 metų Ilgalaikio darbo išmokų fondo lėšų sąmata vykdomi pagal įstatymų nuostatas, galiojusias iki įstatymo Nr.  XIV-1966  įsigaliojimo dienos (2023-07-02).
+TAR pastaba. 2023-12-14 įstatymas Nr. XIV-2326 taikomas rengiant 2025 ir vėlesnių metų Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymo projektus.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1966, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10359
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 pakeitimo įstatymas
+Nr. XIV-2326, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25313
+Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymo Nr. IX-547 2, 3, 4 ir 10 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2023-07-02:
 Nr. XIV-1966, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10359
@@ -124,7 +124,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-13. Valstybinio socialinio draudimo fondo biudžeto struktūrinio postūmio užduotis (toliau – VSDF biudžeto struktūrinio postūmio užduotis) – Lietuvos Respublikos valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu tvirtinama tam tikrų kalendorinių metų Valstybinio socialinio draudimo fondo biudžeto struktūrinio rezultato rodiklio postūmio, palyginti su prieš tai buvusiais kalendoriniais metais, užduotis, matuojama kaip procentas nuo bendrojo vidaus produkto to meto kainomis. 
+13. Neteko galios nuo 2024-03-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2326, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25313
+ 
 
 
 
@@ -172,7 +175,9 @@ VALSTYBĖS SOCIALINIŲ FONDŲ BIUDŽETŲ PAJAMOS IR SĄNAUDOS
 
 
 
-3. Valstybės socialinių fondų biudžetų pajamos ir sąnaudos biudžetiniams metams planuojamos atsižvelgiant į kitiems biudžetiniams metams numatomus socialinio draudimo įmokų tarifus, socialinių išmokų dydžius, planuojamas gauti lėšas iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių, Lietuvos Respublikos finansų ministerijos parengtą atitinkamų metų ekonominės raidos scenarijų (toliau – ekonominės raidos scenarijus), pajamų, sąnaudų ir kitų rodiklių kitimo per paskutinius 2 metus tendencijas. Valstybės socialinių fondų biudžetų planavimo metodiką tvirtina VSDF valdybos direktorius.
+3. Valstybės socialinių fondų biudžetų pajamos ir sąnaudos biudžetiniams metams planuojamos atsižvelgiant į Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektu siūlomas patvirtinti valstybės socialinių fondų biudžetų agreguotas pajamų sumas, valstybės socialinių fondų biudžetams paskirstytas agreguoto asignavimų limito dalis, kitiems biudžetiniams metams numatomus socialinio draudimo įmokų tarifus, socialinių išmokų dydžius, planuojamas gauti lėšas iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių, Lietuvos Respublikos finansų ministerijos parengtą atitinkamų metų ekonominės raidos scenarijų (toliau – ekonominės raidos scenarijus), pajamų, sąnaudų ir kitų rodiklių kitimo per paskutinius 2 metus tendencijas. Valstybės socialinių fondų biudžetų planavimo metodiką tvirtina VSDF valdybos direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2326, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25313
  
 
 
@@ -218,7 +223,9 @@ VALSTYBĖS SOCIALINIŲ FONDŲ BIUDŽETŲ PAJAMOS IR SĄNAUDOS
 
 
 
-3. VSDF biudžeto pajamoms priskiriamos iš valstybės biudžeto Valstybinio socialinio draudimo įstatymo 14 straipsnio 3 dalyje ir 23 straipsnio 1 dalyje nurodytais atvejais gaunamos lėšos. Lėšų VSDF biudžetui iš valstybės biudžeto skiriama atsižvelgiant ir į VSDF finansinę padėtį, kai dėl Seimo ar Lietuvos Respublikos Vyriausybės priimtų teisės aktų padidėja VSDF sąnaudos arba sumažėja jo pajamos, o atskirų socialinio draudimo rūšių įmokų tarifai nekeičiami arba keičiami nepakankamai. Sprendimą dėl šių lėšų iš valstybės biudžeto skyrimo priima Seimas, priimdamas Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą ir tvirtindamas atitinkamų biudžetinių metų VSDF biudžetą.
+3. VSDF biudžeto pajamoms priskiriamos iš valstybės biudžeto Valstybinio socialinio draudimo įstatymo 14 straipsnio 3 dalyje ir 23 straipsnio 1 dalyje nurodytais atvejais gaunamos lėšos. Lėšų VSDF biudžetui iš valstybės biudžeto skiriama atsižvelgiant ir į VSDF finansinę padėtį, kai dėl Seimo ar Lietuvos Respublikos Vyriausybės priimtų teisės aktų padidėja VSDF sąnaudos arba sumažėja jo pajamos, o atskirų socialinio draudimo rūšių įmokų tarifai nekeičiami arba keičiami nepakankamai. Sprendimą dėl šių lėšų iš valstybės biudžeto skyrimo priima Seimas, priimdamas tam tikrų metų biudžeto patvirtinimo įstatymą ir tvirtindamas atitinkamų biudžetinių metų VSDF biudžetą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2326, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25313
  
 
 
@@ -422,7 +429,10 @@ VALSTYBĖS SOCIALINIŲ FONDŲ BIUDŽETŲ PROJEKTŲ RENGIMAS IR TVIRTINIMAS
 10 straipsnis. Valstybės socialinių fondų biudžetų projektų rengimo ir teikimo Seimui tvarka
 
 
-1. Valstybės socialinių fondų biudžetų projektus kartu su Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymo projektu, vadovaudamasi šio įstatymo, Valstybinio socialinio draudimo įstatymo, Garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo nuostatomis bei socialinės apsaugos ir darbo ministro tvirtinamomis valstybės socialinių fondų biudžetų sudarymo ir vykdymo taisyklėmis, atsižvelgdama į naujausią Finansų ministerijos parengtą ir paskelbtą ekonominės raidos scenarijų, valstybės biudžeto ir savivaldybių biudžetų preliminarius pagrindinius rodiklius, rengia ir su Lietuvos Respublikos socialinės apsaugos ir darbo ministerija suderina VSDF valdyba. Kartu su Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymo projektu parengiamas valstybės socialinių fondų biudžetų projektų aiškinamasis raštas, kitų dvejų biudžetinių metų numatomų valstybės socialinių fondų biudžetų rodiklių prognozė ir kita informacija. 
+1. Valstybės socialinių fondų biudžetų projektus kartu su Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymo projektu, vadovaudamasi šio įstatymo, Valstybinio socialinio draudimo įstatymo, Garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo, Biudžeto sandaros įstatymo nuostatomis bei socialinės apsaugos ir darbo ministro tvirtinamomis valstybės socialinių fondų biudžetų sudarymo ir vykdymo taisyklėmis, atsižvelgdama į naujausią Finansų ministerijos parengtą ir paskelbtą ekonominės raidos scenarijų, valstybės biudžeto ir savivaldybių biudžetų preliminarius pagrindinius rodiklius, rengia ir su Lietuvos Respublikos socialinės apsaugos ir darbo ministerija suderina VSDF valdyba. Kartu su Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymo projektu parengiamas valstybės socialinių fondų biudžetų projektų aiškinamasis raštas, kitų dvejų biudžetinių metų numatomų valstybės socialinių fondų biudžetų rodiklių prognozė ir kita informacija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2326, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25313
+ 
 
 
 
@@ -810,3 +820,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1966, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10359
 Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2326, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25313
+Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymo Nr. IX-547 2, 3, 4 ir 10 straipsnių pakeitimo įstatymas
