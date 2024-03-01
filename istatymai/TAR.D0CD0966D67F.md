@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-02-29
+Suvestinė redakcija nuo 2024-03-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1247,9 +1247,10 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 
 
-21) sprendimų dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo), kitų įsipareigojamųjų skolos dokumentų sutartis ir garantijų teikimo už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis priėmimas, laikantis Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme numatytų ir Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytų limitų ir gavus savivaldybės kontrolės ir audito tarnybos išvadą;
+21) sprendimų dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo), kitų įsipareigojamųjų skolos dokumentų sutartis ir garantijų teikimo už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis priėmimas, laikantis Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme numatytų ir Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytų limitų (jeigu tokie limitai nustatomi) ir gavus savivaldybės kontrolės ir audito tarnybos išvadą;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1763, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27578
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
  
 
 
@@ -2643,7 +2644,10 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 
 
-2. Seniūnija – biudžetinė įstaiga – gali būti steigiama, jeigu ji aptarnaujamos teritorijos gyventojams teikia viešąsias paslaugas. 
+2. Seniūnija – biudžetinė įstaiga – gali būti steigiama, jeigu ji aptarnaujamos teritorijos gyventojams teikia viešąsias paslaugas. Seniūnija gali būti jai skirtų savivaldybės biudžeto asignavimų valdytoja, kai tai nurodyta savivaldybės tarybos patvirtintame savivaldybės biudžete. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
+ 
 
 
 
@@ -2683,7 +2687,10 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 
 
-8. Seniūnas yra seniūnijos vadovas, seniūnijai skirtų biudžeto asignavimų valdytojas. Seniūnas yra valstybės tarnautojas: seniūnijos – savivaldybės administracijos filialo – seniūnas yra karjeros valstybės tarnautojas, seniūnijos – biudžetinės įstaigos – seniūnas yra valstybės tarnautojas – įstaigos vadovas. 
+8. Seniūnas yra seniūnijos vadovas. Seniūnas yra valstybės tarnautojas: seniūnijos – savivaldybės administracijos filialo – seniūnas yra karjeros valstybės tarnautojas, seniūnijos – biudžetinės įstaigos – seniūnas yra valstybės tarnautojas – įstaigos vadovas. Seniūnas turi seniūnijos – savivaldybės asignavimų valdytojos – vadovo teises ir vykdo seniūnijos – savivaldybės asignavimų valdytojos – vadovo pareigas, kai seniūnija savivaldybės tarybos patvirtintame savivaldybės biudžete nurodyta kaip savivaldybės biudžeto asignavimų valdytoja.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
+ 
 
 
 
@@ -3963,7 +3970,10 @@ TURTAS IR FINANSAI
 66 straipsnis. Savivaldybės biudžeto rengimas ir kontrolė
 
 
-1. Kiekviena savivaldybė turi savarankišką biudžetą. Savivaldybės biudžetas sudaromas ir tvirtinamas vieniems biudžetiniams metams. Savivaldybių biudžetų rengimo, svarstymo ir tvirtinimo procedūra nustatyta Lietuvos Respublikos biudžeto sandaros įstatyme ir Vyriausybės nutarimu tvirtinamose taisyklėse. 
+1. Kiekviena savivaldybė turi savarankišką biudžetą. Savivaldybės biudžetas sudaromas ir tvirtinamas Lietuvos Respublikos biudžeto sandaros įstatyme nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
+ 
 
 
 
