@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/8253c29006c711ee9978886e85107ab2"
 
 # Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-02-29
+Suvestinė redakcija nuo 2024-03-01 iki 2024-12-31
  
 Įstatymas paskelbtas: TAR 2023-06-09, i. k. 2023-11589
  
@@ -100,7 +100,10 @@ Nr. XIV-2410, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25928
 
 
 
-4. Nacionalinėje kolektyvinėje sutartyje sutartas asignavimų darbo užmokesčiui indeksavimo dydis nurodomas Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.
+4. Nacionalinėje kolektyvinėje sutartyje sutartas asignavimų darbo užmokesčiui indeksavimo dydis nurodomas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2410, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25928
+ 
 
 
 
@@ -136,7 +139,9 @@ Nr. XIV-2410, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25928
 
 
 
-5. Taikant nacionalinėje kolektyvinėje sutartyje sutartą indeksavimo dydį asignavimai darbo užmokesčiui įstaigoms pirmą kartą perskaičiuojami 2025 metais rengiant Lietuvos Respublikos 2026 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
+5. Taikant nacionalinėje kolektyvinėje sutartyje sutartą indeksavimo dydį asignavimai darbo užmokesčiui įstaigoms pirmą kartą perskaičiuojami 2025 metais rengiant Lietuvos Respublikos 2026 metų biudžeto patvirtinimo įstatymo projektą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2410, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25928
  
 
 
