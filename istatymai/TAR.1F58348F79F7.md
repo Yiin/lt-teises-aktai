@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-03-06
+Suvestinė redakcija nuo 2024-03-07
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
@@ -203,9 +203,12 @@ Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
 
 
 4) Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo nustatyta tvarka dalyvio vardu sukauptos piniginės lėšos pervedamos į Europos Sąjungos institucijų pensijų sistemą.
+TAR pastaba. Pripažinti, Lietuvos Respublikos pensijų kaupimo įstatymo (2018 m. birželio 28 d. redakcija; TAR, 2018-07-05, Nr. 11459) 4 straipsnio 8 dalis tiek, kiek joje nenustatyta, kad pensijų kaupimas baigiasi, kai jis nutraukiamas pensijų fondo dalyvio iniciatyva dėl svarbių priežasčių, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsniui, konstituciniam teisinės valstybės principui.
+
+
+Straipsnio dalies pakeitimai:
+Nr. KT21-N3/2024, 2024-03-07, paskelbta TAR 2024-03-07, i. k. 2024-04342
  
-
-
 
 
 
@@ -249,8 +252,12 @@ Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
 
 
 7) kitas šiame ir kituose įstatymuose, standartinėse pensijų fondų taisyklėse ir pensijų kaupimo sutartyje nustatytas teises.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos pensijų kaupimo įstatymo (2018 m. birželio 28 d. redakcija; TAR, 2018-07-05, Nr. 11459) 5 straipsnio 1 dalis tiek, kiek joje nenustatyta pensijų fondo dalyvio teisė nutraukti dalyvavimą pensijų kaupime dėl svarbių priežasčių, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsniui, konstituciniam teisinės valstybės principui.
 
 
+Straipsnio dalies pakeitimai:
+Nr. KT21-N3/2024, 2024-03-07, paskelbta TAR 2024-03-07, i. k. 2024-04342
+ 
 
 
 
@@ -2650,3 +2657,8 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 33 ir 35-6 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1251, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15193
 Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 29 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT21-N3/2024, 2024-03-07, paskelbta TAR 2024-03-07, i. k. 2024-04342
+Dėl Lietuvos Respublikos pensijų kaupimo įstatymo (2018 m. birželio 28 d. redakcija) 4 straipsnio 8 dalies, 5 straipsnio, 29 straipsnio (su 2022 m. birželio 28 d. pakeitimu) atitikties Lietuvos Respublikos Konstitucijai
