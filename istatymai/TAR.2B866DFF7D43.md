@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2024-03-16 iki 2024-03-26
+Suvestinė redakcija nuo 2024-03-27 iki 2024-06-13
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -12276,33 +12276,49 @@ Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
 
 
 
-34. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR (OL 2017 L 88, p. 6). 
+34. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
+ 
+
+
+
+
+35. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR (OL 2017 L 88, p. 6). 
 Papildyta punktu:
 Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+Punkto numeracijos pakeitimas:
+Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
  
 
 
 
 
-35. 2017 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1371 dėl kovos su Sąjungos finansiniams interesams kenkiančiu sukčiavimu baudžiamosios teisės priemonėmis (OL 2017 L 198, p. 29). 
+36. 2017 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1371 dėl kovos su Sąjungos finansiniams interesams kenkiančiu sukčiavimu baudžiamosios teisės priemonėmis (OL 2017 L 198, p. 29). 
 Papildyta punktu:
 Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
+Punkto numeracijos pakeitimas:
+Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
  
 
 
 
 
-36. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1673 dėl kovos su pinigų plovimu baudžiamosios teisės priemonėmis (OL 2018 L 284, p. 22). 
+37. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1673 dėl kovos su pinigų plovimu baudžiamosios teisės priemonėmis (OL 2018 L 284, p. 22). 
 Papildyta punktu:
 Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+Punkto numeracijos pakeitimas:
+Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
  
 
 
 
 
-37. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/713 dėl kovos su sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu, kuria pakeičiamas Tarybos pamatinis sprendimas 2001/413/TVR (OL 2019 L 123, p. 18). 
+38. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/713 dėl kovos su sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu, kuria pakeičiamas Tarybos pamatinis sprendimas 2001/413/TVR (OL 2019 L 123, p. 18). 
 Papildyta punktu:
 Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
+Punkto numeracijos pakeitimas:
+Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
  
 
 
@@ -12901,3 +12917,8 @@ Lietuvos Respublikos baudžiamojo kodekso 270, 271-1, 277-1 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809
 Lietuvos Respublikos baudžiamojo kodekso 24, 25, 32, 39-1, 249-1, 250-2, 250-4, 250-6 ir 252-1 straipsnių pakeitimo įstatymas
+ 
+61.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
+Lietuvos Respublikos baudžiamojo kodekso priedo pakeitimo įstatymas
