@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-03-01 iki 2024-03-27
+Suvestinė redakcija nuo 2024-03-28 iki 2024-04-30
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -2472,9 +2472,10 @@ Nr. XIV-256, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08633
 
 
 
-66 straipsnis. Farmacijos praktikos, su vaistais (vaistiniais preparatais), veikliosiomis medžiagomis ar tiriamųjų vaistinių preparatų gamyba susijusios veiklos sąlygų pažeidimas
+66 straipsnis. Farmacijos praktikos, veiklos, susijusios su vaistais (vaistiniais preparatais), veikliosiomis medžiagomis ar tiriamųjų vaistinių preparatų gamyba, sąlygų pažeidimas 
 Pakeistas straipsnio pavadinimas:
 Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
  
 
 
@@ -2508,34 +2509,66 @@ užtraukia baudą nuo dviejų šimtų šešiasdešimt iki vieno tūkstančio pen
 
 
 
-6. Vaistų (vaistinių preparatų) pardavimo (išdavimo) gyventojams sąlygų nesilaikymas
-užtraukia baudą farmacinės veiklos vadovams nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
-
-
-
-
-7. Vaistinės veikla nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
-užtraukia baudą vaistinės veiklos ir gamybinės vaistinės veiklos licenciją turinčių juridinių asmenų vadovams nuo šešių šimtų iki dviejų tūkstančių trijų šimtų eurų.
-
-
-
-
-8. Teisės aktuose nustatytų kvalifikuoto asmens arba farmacinės veiklos vadovo pareigų nevykdymas ar netinkamas vykdymas
-užtraukia baudą kvalifikuotiems asmenims arba farmacinės veiklos vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų.
-
-
-
-
-9. Vaistų (vaistinių preparatų), tiriamųjų vaistinių preparatų gamyba, žmogaus kraujo plazmos ruošimas, didmeninis platinimas nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
-užtraukia baudą farmacinės veiklos licenciją turinčių juridinių asmenų vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
+6. Vaistinių preparatų mažmeninės prekybos įmonių veikla nesilaikant nustatytų veiklos sąlygų, išskyrus pažeidimus, dėl kurių stabdoma jų teisė parduoti Vaistinių preparatų, leidžiamų parduoti vaistinių preparatų mažmeninės prekybos įmonėse, sąraše nurodytus vaistus (vaistinius preparatus) visose ar konkrečioje (-iose) veiklos vietoje (-ose), nurodytoje (-ose) Vaistinių preparatų mažmeninės prekybos įmonių sąraše (toliau – Sąrašas), ir pažeidimus, dėl kurių vaistinių preparatų mažmeninės prekybos įmonė arba jos konkreti (-ios) veiklos vieta (-os) išbraukiama (‑os) iš Sąrašo, 
+užtraukia baudą asmenims nuo vieno šimto iki keturių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų šešiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+Papildyta straipsnio dalimi:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
  
 
 
 
 
-10. Už šio straipsnio 4, 5, 6 dalyse numatytus administracinius nusižengimus gali būti skiriamas vaistų (vaistinių preparatų) ar veikliųjų medžiagų konfiskavimas.
+7. Veiklą su vaistais (vaistiniais preparatais) asmens sveikatos priežiūros įstaigose reglamentuojančių teisės aktų reikalavimų nevykdymas ar pažeidimas
+užtraukia baudą asmens sveikatos priežiūros įstaigų darbuotojams nuo trijų šimtų iki vieno tūkstančio penkių šimtų eurų ir asmens sveikatos priežiūros įstaigų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki dviejų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
+
+
+
+
+8. Vaistų (vaistinių preparatų) pardavimo (išdavimo) gyventojams sąlygų nesilaikymas
+užtraukia baudą farmacinės veiklos vadovams nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
+
+
+
+
+9. Vaistinės veikla nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
+užtraukia baudą vaistinės veiklos ir gamybinės vaistinės veiklos licenciją turinčių juridinių asmenų vadovams nuo šešių šimtų iki dviejų tūkstančių trijų šimtų eurų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
+
+
+
+
+10. Teisės aktuose nustatytų kvalifikuoto asmens arba farmacinės veiklos vadovo pareigų nevykdymas ar netinkamas vykdymas
+užtraukia baudą kvalifikuotiems asmenims arba farmacinės veiklos vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
+
+
+
+
+11. Vaistų (vaistinių preparatų), tiriamųjų vaistinių preparatų gamyba, žmogaus kraujo plazmos ruošimas, didmeninis platinimas nesilaikant nustatytų licencijuojamos veiklos sąlygų, išskyrus pažeidimus, dėl kurių sustabdomas ar panaikinamas licencijos galiojimas,
+užtraukia baudą farmacinės veiklos licenciją turinčių juridinių asmenų vadovams nuo aštuonių šimtų iki trijų tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
+
+
+
+
+12. Už šio straipsnio 4, 5, 8 dalyse numatytus administracinius nusižengimus gali būti skiriamas vaistų (vaistinių preparatų) ar veikliųjų medžiagų konfiskavimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
 
 
 Straipsnio pakeitimai:
@@ -2568,38 +2601,83 @@ Nr. XIV-1083, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11320
 67 straipsnis. Vaistų (vaistinių preparatų) reklamos reikalavimų ir informacijos apie vaistus (vaistinius preparatus) skleidimo reikalavimų pažeidimas
 
 
-1. Informacijos apie vaistus (vaistinius preparatus) atitikties informacijai ir duomenims, kurie buvo pateikti dokumentuose registruoti vaistą (vaistinį preparatą), informacijos apie vaistų (vaistinių preparatų) savybes rengimo ir skleidimo, išskyrus atvejus, kai atlikti moksliniai tyrimai, apie kuriuos skelbta moksliniuose leidiniuose, reikalavimų pažeidimas
+1. Reklaminių renginių apie vaistus (vaistinius preparatus) sveikatos priežiūros specialistams organizavimą reglamentuojančių teisės aktų reikalavimų nevykdymas ar pažeidimas, išskyrus pažeidimus, nurodytus šio straipsnio 4 dalyje,
+užtraukia įspėjimą arba baudą vaistinio preparato registruotojams ar jų atstovams – asmenims arba juridinių asmenų vadovams nuo dvidešimt iki keturių šimtų penkiasdešimt eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą vaistinio preparato registruotojams ar jų atstovams – asmenims arba juridinių asmenų vadovams nuo keturių šimtų penkiasdešimt iki vieno tūkstančio vieno šimto eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
+
+
+
+
+3. Informacijos apie vaistus (vaistinius preparatus) atitikties informacijai ir duomenims, kurie buvo pateikti dokumentuose registruoti vaistą (vaistinį preparatą), informacijos apie vaistų (vaistinių preparatų) savybes rengimo ir skleidimo, išskyrus atvejus, kai atlikti moksliniai tyrimai, apie kuriuos skelbta moksliniuose leidiniuose, reikalavimų pažeidimas
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
 
 
 
 
-2. Nereceptinių vaistų (vaistinių preparatų) reklamos gyventojams reikalavimų pažeidimas
+4. Teisės aktų nustatyta tvarka elektroninėje reklaminių renginių registravimo formoje neįregistruoto reklaminio renginio apie vaistus (vaistinius preparatus) sveikatos priežiūros specialistams organizavimas 
+užtraukia baudą vaistinio preparato registruotojams ar jų atstovams – asmenims arba juridinių asmenų vadovams nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
+
+
+
+
+5. Nereceptinių vaistų (vaistinių preparatų) reklamos gyventojams reikalavimų pažeidimas
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo aštuonių šimtų iki vieno tūkstančio aštuonių šimtų eurų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
 
 
 
 
-3. Receptinių vaistų (vaistinių preparatų) reklama gyventojams
+6. Receptinių vaistų (vaistinių preparatų) reklama gyventojams
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių trijų šimtų eurų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
 
 
 
 
-4. Neregistruotų vaistų (vaistinių preparatų) reklama, narkotinių ir psichotropinių vaistų (vaistinių preparatų) reklama, vaistų (vaistinių preparatų) reklamos sveikatos priežiūros specialistams ir farmacijos specialistams, turintiems teisę skirti ar parduoti (išduoti) vaistus (vaistinius preparatus), reikalavimų pažeidimas
+7. Neregistruotų vaistų (vaistinių preparatų) reklama, narkotinių ir psichotropinių vaistų (vaistinių preparatų) reklama, vaistų (vaistinių preparatų) reklamos sveikatos priežiūros specialistams ir farmacijos specialistams, turintiems teisę skirti ar parduoti (išduoti) vaistus (vaistinius preparatus), reikalavimų pažeidimas
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
 
 
 
 
-5. Farmacinės informacijos apie receptinius vaistus (vaistinius preparatus) skleidimo reikalavimų pažeidimas
+8. Farmacinės informacijos apie receptinius vaistus (vaistinius preparatus) skleidimo reikalavimų pažeidimas
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+ 
 
 
 
 
-6. Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos draudimo skleisti vaistų (vaistinių preparatų) reklamą ar informaciją apie juos nesilaikymas arba įpareigojimo paneigti neatitinkančią reikalavimų reklamą nevykdymas ar netinkamas vykdymas
+9. Valstybinės vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos draudimo skleisti vaistų (vaistinių preparatų) reklamą ar informaciją apie juos nesilaikymas arba įpareigojimo paneigti neatitinkančią reikalavimų reklamą nevykdymas ar netinkamas vykdymas
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
  
 
 
@@ -13392,29 +13470,55 @@ ADMINISTRACINIAI NUSIŽENGIMAI, SUSIJĘ SU BŪSTO ŪKIU, APLINKOS TVARKYMU IR ST
 349 straipsnis. Teisės aktuose nustatytų daugiabučio gyvenamojo namo bendrojo naudojimo objektų administravimo (valdymo) pareigų neatlikimas ar netinkamas atlikimas
 
 
-1. Teisės aktuose nustatytų daugiabučio gyvenamojo namo bendrojo naudojimo objektų administravimo (valdymo) pareigų neatlikimas ar netinkamas atlikimas, išskyrus šio straipsnio 3 dalyje nurodytus pažeidimus,
-užtraukia įspėjimą arba baudą daugiabučio gyvenamojo namo savininkų bendrijos pirmininkui ar butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui, ar bendrojo naudojimo objektų administratoriui – fiziniam asmeniui arba juridinio asmens vadovui nuo vieno šimto iki trijų šimtų eurų.
+1. Teisės aktuose nustatytų daugiabučio gyvenamojo namo bendrojo naudojimo objektų administravimo (valdymo) pareigų neatlikimas ar netinkamas atlikimas, išskyrus šio straipsnio 3, 5, 7 dalyse nurodytus pažeidimus,
+užtraukia įspėjimą arba baudą daugiabučio gyvenamojo namo savininkų bendrijos pirmininkui ar butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui, ar bendrojo naudojimo objektų administratoriui – fiziniam asmeniui arba juridinio asmens vadovui nuo dviejų šimtų iki keturių šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo keturių šimtų iki aštuonių šimtų  eurų.
 
 
 
 
 3. Butų ir kitų patalpų savininkų kaupiamųjų lėšų namui atnaujinti apsaugos reikalavimų nesilaikymas, kai šios lėšos laikomos ne atskiroje kaupiamųjų lėšų sąskaitoje ar į apskaitą įtraukiamos pažeidžiant nustatytą tvarką, ar naudojamos ne pagal paskirtį, paslaugų ir rangos darbų pirkimų, išskyrus viešuosius pirkimus, vykdymas nesilaikant teisės aktuose nustatytų reikalavimų
+užtraukia baudą daugiabučio gyvenamojo namo savininkų bendrijos pirmininkui ar butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui, ar bendrojo naudojimo objektų administratoriui – fiziniam asmeniui arba juridinio asmens vadovui nuo trijų šimtų iki aštuonių šimtų eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
+5. Lietuvos Respublikos šilumos ūkio įstatyme nustatytų daugiabučio gyvenamojo namo šildymo ir karšto vandens sistemų atitikties šių sistemų privalomiesiems reikalavimams darbų neorganizavimas ar netinkamas organizavimas
 užtraukia baudą daugiabučio gyvenamojo namo savininkų bendrijos pirmininkui ar butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui, ar bendrojo naudojimo objektų administratoriui – fiziniam asmeniui arba juridinio asmens vadovui nuo vieno šimto penkiasdešimt iki šešių šimtų penkiasdešimt eurų.
 
 
 
 
-4. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo vieno šimto penkiasdešimt iki vieno tūkstančio eurų.
+6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo penkių šimtų iki aštuonių šimtų eurų.
+
+
+
+
+7. Teisės aktuose nustatytų statinio dokumentų, vykdant daugiabučio gyvenamojo namo bendrojo naudojimo objektų administravimo (valdymo) funkcijas rengtų ir saugotų dokumentų, nepanaudotų butų ir kitų patalpų savininkų kaupiamųjų lėšų neperdavimas daugiabučio gyvenamojo namo bendrojo naudojimo objektų valdymą perimančiam asmeniui teisės aktuose nustatyta tvarka
+užtraukia baudą daugiabučio gyvenamojo namo savininkų bendrijos pirmininkui ar butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotam asmeniui, ar bendrojo naudojimo objektų administratoriui – fiziniam asmeniui arba juridinio asmens vadovui nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+
+
+
+8. Šio straipsnio 7 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2502, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05466
  
-
-
 
 
 
@@ -27873,3 +27977,13 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 77, 170 ir 589 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2400, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25338
 Lietuvos Respublikos administracinių nusižengimų kodekso 29, 385, 386, 387, 393, 394, 395, 396, 443 ir 589 straipsnių pakeitimo įstatymas
+ 
+222.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2501, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05460
+Lietuvos Respublikos administracinių nusižengimų kodekso 66 ir 67 straipsnių pakeitimo įstatymas
+ 
+223.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2502, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05466
+Lietuvos Respublikos administracinių nusižengimų kodekso 349 straipsnio pakeitimo įstatymas
