@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-03-31
+Suvestinė redakcija nuo 2024-04-01 iki 2024-05-13
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -846,10 +846,11 @@ Ikiteisminio tyrimo teisėjas yra apylinkės teismo teisėjas, apylinkės teismo
 
 
 
-4. Įtariamasis turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį, žinoti, kuo jis įtariamas; nuo sulaikymo ar pirmosios apklausos momento turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; žinoti maksimalų terminą, kiek valandų (dienų) gali būti ribojama jo laisvė iki bylos nagrinėjimo teisminėje institucijoje pradžios; duoti parodymus; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; pateikti tyrimui reikšmingus dokumentus ir daiktus; pateikti prašymus; pareikšti nušalinimus; susipažinti su ikiteisminio tyrimo medžiaga; apskųsti ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo veiksmus bei sprendimus; būti lydimas atstovo pagal įstatymą teismo posėdžiuose ir atliekant kitus proceso veiksmus, taip pat teisę į privatumo apsaugą, kai įtariamasis yra nepilnametis.
+4. Įtariamasis turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį, žinoti, kuo jis įtariamas; nuo sulaikymo ar pirmosios apklausos momento turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubiąją medicinos pagalbą; žinoti maksimalų terminą, kiek valandų (dienų) gali būti ribojama jo laisvė iki bylos nagrinėjimo teisminėje institucijoje pradžios, taip pat gauti informaciją apie reguliarią suėmimo peržiūrą ir suėmimui alternatyvių kardomųjų priemonių taikymo galimybes; duoti parodymus; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; pateikti tyrimui reikšmingus dokumentus ir daiktus; pateikti prašymus; pareikšti nušalinimus; susipažinti su ikiteisminio tyrimo medžiaga; apskųsti ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo veiksmus bei sprendimus; būti lydimas atstovo pagal įstatymą teismo posėdžiuose ir atliekant kitus proceso veiksmus, taip pat teisę į privatumo apsaugą, kai įtariamasis yra nepilnametis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+Nr. XIV-2499, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05372
  
 
 
@@ -878,10 +879,11 @@ Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 
 
 
-3. Kaltinamasis turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį, žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą; susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų išrašus arba nuorašus; turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; pateikti prašymus; pareikšti nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu duoti parodymus ir užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis; būti lydimas atstovo pagal įstatymą teismo posėdžiuose ir atliekant kitus proceso veiksmus, taip pat teisę į privatumo apsaugą, kai kaltinamasis yra nepilnametis.
+3. Kaltinamasis turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį, žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą; susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų išrašus arba nuorašus; turėti gynėją; gauti vertimą žodžiu ir raštu; gauti informaciją apie reguliarią suėmimo peržiūrą ir suėmimui alternatyvių kardomųjų priemonių taikymo galimybes; informuoti konsulines įstaigas ir vieną asmenį; gauti skubiąją medicinos pagalbą; pateikti prašymus; pareikšti nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu duoti parodymus ir užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis; būti lydimas atstovo pagal įstatymą teismo posėdžiuose ir atliekant kitus proceso veiksmus, taip pat teisę į privatumo apsaugą, kai kaltinamasis yra nepilnametis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+Nr. XIV-2499, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05372
  
 
 
@@ -7161,7 +7163,10 @@ Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
 
 
 
-2. Į nepilnamečio individualaus vertinimo duomenis atsižvelgiama parenkant nepilnamečiui kardomąsias ir kitas procesines prievartos priemones, priimant sprendimus dėl ikiteisminio tyrimo nutraukimo ar bylos perdavimo teismui, organizuojant proceso veiksmus su nepilnamečiu įtariamuoju ar nepilnamečiu kaltinamuoju, priimant sprendimus dėl bausmės, baudžiamojo ar auklėjamojo poveikio priemonių skyrimo nepilnamečiui. 
+2. Į nepilnamečio individualaus vertinimo duomenis atsižvelgiama parenkant nepilnamečiui kardomąsias ir kitas procesines prievartos priemones, priimant sprendimus dėl ikiteisminio tyrimo nutraukimo ar bylos perdavimo teismui, teikiant nepilnamečiam įtariamajam ar nepilnamečiam kaltinamajam pagalbą baudžiamojo proceso metu, organizuojant proceso veiksmus su nepilnamečiu įtariamuoju ar nepilnamečiu kaltinamuoju, priimant sprendimus dėl bausmės, baudžiamojo ar auklėjamojo poveikio priemonių skyrimo nepilnamečiui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2499, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05372
+ 
 
 
 
@@ -16750,3 +16755,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 342 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2292, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23071
 Lietuvos Respublikos baudžiamojo proceso kodekso 55 straipsnio pakeitimo įstatymas
+ 
+73.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2499, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05372
+Lietuvos Respublikos baudžiamojo proceso kodekso 21, 22 ir 189-1 straipsnių pakeitimo įstatymas
