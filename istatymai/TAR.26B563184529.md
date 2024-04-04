@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-04-03
+Suvestinė redakcija nuo 2024-04-04 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -2640,7 +2640,7 @@ Teritorijų planavimo viešinimo procedūros yra:
 
 
 
-5) žodžiu ar raštu pagal suinteresuotų asmenų žodinius ir rašytinius prašymus.
+5) žodžiu ar raštu pagal suinteresuotų asmenų žodinius ir rašytinius prašymus;
 
 
 
@@ -3589,3 +3589,13 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 9, 20, 23, 25, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 18, 20, 24 ir 27 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 7, 18, 20, 29, 31, 33, 34 ir 35 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2523, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06310
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 7, 18, 20, 29, 31, 33, 34 ir 35 straipsnių pakeitimo įstatymo Nr. XIV-2420 9 straipsnio pakeitimo įstatymas
