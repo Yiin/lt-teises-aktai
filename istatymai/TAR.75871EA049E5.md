@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/75871ea049e511eb8d9fe110e148c770"
 
 # Lietuvos Respublikos Seimo apdovanojimo – Aleksandro Stulginskio žvaigždės įstatymas
 
-Suvestinė redakcija nuo 2022-05-17 iki 2024-04-24
+Suvestinė redakcija nuo 2024-04-25
  
 Įstatymas paskelbtas: TAR 2020-12-29, i. k. 2020-28975
  
@@ -73,7 +73,10 @@ priima šį įstatymą.
 
 
 
-4. Apdovanojimas negali būti skiriamas mirusiam asmeniui, taip pat likviduotam, reorganizuotam juridiniam asmeniui ar juridiniam asmeniui, kuriam yra iškelta bankroto byla.
+4. Apdovanojimas negali būti skiriamas mirusiam asmeniui, išskyrus atvejus, kai siūlomo apdovanoti asmens kandidatūra pateikta Komisijai jam esant gyvam, taip pat likviduotam, reorganizuotam juridiniam asmeniui ar juridiniam asmeniui, kuriam yra iškelta bankroto byla.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2562, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07456
+ 
 
 
 
@@ -212,7 +215,10 @@ priima šį įstatymą.
 
 
 
-3. Apdovanojimą Komisijos teikimu iki kiekvienų metų balandžio 15 dienos skiria Seimas Seimo nutarimu.
+3. Apdovanojimą Komisijos teikimu paprastai iki kiekvienų metų balandžio 15 dienos skiria Seimas Seimo nutarimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2562, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07456
+ 
 
 
 
@@ -228,6 +234,14 @@ Nr. XIV-1072, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10291
 5. Apdovanojimą ir liudijimą įteikia Seimo Pirmininkas arba vienas iš Seimo Pirmininko pavaduotojų, arba Seimo valdybos sprendimu paskirtas asmuo.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1072, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10291
+ 
+
+
+
+
+51. Jeigu apdovanojamas asmuo po mirties, apdovanojimas ir liudijimas gali būti įteikiami jo šeimos nariams ar artimiesiems giminaičiams. Jeigu nėra šeimos narių ir artimųjų giminaičių, apdovanojimas ir liudijimas gali būti įteikiami fiziniam ar juridiniam asmeniui, kuris rūpinasi apdovanojamo asmens viso gyvenimo nuopelnų ir atminimo įamžinimu. Kai nėra apdovanojamo asmens šeimos narių ir artimųjų giminaičių, sprendimą, kam bus įteikiamas apdovanojimas ir liudijimas, priima Komisija.
+Papildyta straipsnio dalimi:
+Nr. XIV-2562, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07456
  
 
 
@@ -290,3 +304,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1072, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10291
 Lietuvos Respublikos Seimo apdovanojimo – Aleksandro Stulginskio žvaigždės įstatymo Nr. XIV-117 6 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2562, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07456
+Lietuvos Respublikos Seimo apdovanojimo – Aleksandro Stulginskio žvaigždės įstatymo Nr. XIV-117 2 ir 6 straipsnių pakeitimo įstatymas
