@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Suvestinė redakcija nuo 2023-12-01 iki 2024-04-25
+Suvestinė redakcija nuo 2024-04-26 iki 2024-06-13
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1672, i. k. 0971010ISTAVIII-397
  
@@ -224,7 +224,10 @@ ATMINTINŲ DIENŲ
 
 
 
-38) gegužės 14-oji – Pilietinio pasipriešinimo diena;
+38) gegužės 14-oji – Pilietinio pasipriešinimo diena, Jaunimo darbuotojų diena; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
@@ -324,157 +327,266 @@ ATMINTINŲ DIENŲ
 
 
 
-58) rugpjūčio 12-oji – Tarptautinė jaunimo diena;
+58) rugpjūčio 10-oji – Lituanistinės mokyklos diena; 
+Papildyta straipsnio punktu:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-59) rugpjūčio 23-ioji – Europos diena stalinizmo ir nacizmo aukoms atminti, Baltijos kelio diena;
+59) rugpjūčio 12-oji – Tarptautinė jaunimo diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-60) rugpjūčio 31-oji – Laisvės diena;
+60) rugpjūčio 23-ioji – Europos diena stalinizmo ir nacizmo aukoms atminti, Baltijos kelio diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-61) rugsėjo 1-oji – Mokslo ir žinių diena;
+61) rugpjūčio 31-oji – Laisvės diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-62) rugsėjo pirmasis sekmadienis – Senelių diena; 
+62) rugsėjo 1-oji – Mokslo ir žinių diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-63) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo diena, Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
+63) rugsėjo pirmasis sekmadienis – Senelių diena; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-64) rugsėjo antrasis šeštadienis – Statybininkų diena;
+64) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo diena, Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-65) rugsėjo 22-oji – Baltų vienybės diena;
+65) rugsėjo antrasis šeštadienis – Statybininkų diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-66) rugsėjo 23-ioji – Lietuvos žydų genocido atminimo diena, Tarptautinė gestų kalbų diena; 
+66) rugsėjo 22-oji – Baltų vienybės diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-67) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;
+67) rugsėjo 23-ioji – Lietuvos žydų genocido atminimo diena, Tarptautinė gestų kalbų diena; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-68) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena;
+68) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-69) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena, Besimokančių senjorų diena;
+69) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-70) spalio 4-oji – Pasaulinė gyvūnijos diena, Šv. Pranciškaus Asyžiečio, gyvūnų globėjo, diena;
+70) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena, Besimokančių senjorų diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-71) spalio pirmasis šeštadienis – Kūno kultūros ir sporto diena;
+71) spalio 4-oji – Pasaulinė gyvūnijos diena, Šv. Pranciškaus Asyžiečio, gyvūnų globėjo, diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-72) spalio 5-oji – Tarptautinė mokytojų diena;
+72) spalio pirmasis šeštadienis – Kūno kultūros ir sporto diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-73) spalio 10-oji – Vietos savivaldos diena, Pasaulinė psichikos sveikatos diena; 
+73) spalio 5-oji – Tarptautinė mokytojų diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-74) spalio antrasis šeštadienis – Derliaus diena;
+74) spalio 10-oji – Vietos savivaldos diena, Pasaulinė psichikos sveikatos diena; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-75) spalio 15-oji – Pasaulinė baltosios lazdelės diena; 
+75) spalio antrasis šeštadienis – Derliaus diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-76) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena;
+76) spalio 15-oji – Pasaulinė baltosios lazdelės diena; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-77) spalio 20-oji – 1791 m. Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
+77) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-78) spalio 25-oji – Konstitucijos diena;
+78) spalio 20-oji – 1791 m. Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-79) spalio 29-oji – Teismo ekspertų diena; 
+79) spalio 25-oji – Konstitucijos diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-80) spalio 31-oji – Reformacijos diena; 
+80) spalio 29-oji – Teismo ekspertų diena; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-81) lapkričio 16-oji – Tarptautinė tolerancijos diena, Lietuvių polifoninių dainų – sutartinių diena; 
+81) spalio 31-oji – Reformacijos diena; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-82) lapkričio 20-oji – Pasaulinė vaiko teisių diena;
+82) lapkričio 15-oji – Mecenatystės diena; 
+Papildyta straipsnio punktu:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-83) lapkričio 23-ioji – Lietuvos kariuomenės diena;
+83) lapkričio 16-oji – Tarptautinė tolerancijos diena, Lietuvių polifoninių dainų – sutartinių diena; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-84) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
+84) lapkričio 20-oji – Pasaulinė vaiko teisių diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-85) gruodžio 3-ioji – Lietuvos advokatūros diena, Tarptautinė žmonių su negalia diena;
+85) lapkričio 23-ioji – Lietuvos kariuomenės diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-86) gruodžio 5-oji – Padėkos savanoriams diena; 
+86) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-87) gruodžio 10-oji – Tarptautinė žmogaus teisių diena;
+87) gruodžio 3-ioji – Lietuvos advokatūros diena, Tarptautinė žmonių su negalia diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 
 
-88) gruodžio 15-oji – Lietuvos teismų diena.
+88) gruodžio 5-oji – Padėkos savanoriams diena; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
+
+
+
+
+89) gruodžio 10-oji – Tarptautinė žmogaus teisių diena;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
+
+
+
+
+90) gruodžio 15-oji – Lietuvos teismų diena.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -712,4 +824,9 @@ Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakei
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2280, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23061
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2561, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07557
 Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
