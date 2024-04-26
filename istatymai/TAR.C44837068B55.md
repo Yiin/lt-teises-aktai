@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-25
+Suvestinė redakcija nuo 2024-04-26 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -175,7 +175,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-3) buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančios įmonės ir šias paslaugas savarankiškai teikiantys asmenys, taip pat asmenys, kurie, vykdydami savo pagrindinę verslo arba profesinę veiklą, įsipareigoja tiesiogiai arba per kitus asmenis, su kuriais tas kitas asmuo yra susijęs, teikti materialinę pagalbą, paramą ar patarimus mokesčių klausimais (toliau – buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančios įmonės);
+3) finansinės apskaitos ar mokesčių konsultavimo paslaugas teikiantys juridiniai asmenys ir šias paslaugas savarankiškai teikiantys asmenys, taip pat asmenys, kurie, vykdydami savo pagrindinę verslo arba profesinę veiklą, įsipareigoja tiesiogiai arba per kitus asmenis, su kuriais tas kitas asmuo yra susijęs, teikti materialinę pagalbą, paramą ar patarimus mokesčių klausimais (toliau – apskaitos ar mokesčių konsultavimo paslaugas teikiantys subjektai); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -452,7 +455,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-8) savivaldybės įmonės, akcinės bendrovės, uždarosios akcinės bendrovės, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso savivaldybei nuosavybės teise ir kurios laikomos didelėmis įmonėmis pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymą, valdymo ar priežiūros organo narys;
+8) savivaldybės įmonės, akcinės bendrovės, uždarosios akcinės bendrovės, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso savivaldybei nuosavybės teise ir kurios laikomos didelėmis įmonėmis pagal Lietuvos Respublikos įmonių atskaitomybės įstatymą, valdymo ar priežiūros organo narys;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -1458,12 +1464,18 @@ Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
 
 
 
-19. Šio straipsnio 18 dalis netaikoma notarams, notaro atstovams ir teisę atlikti notarinius veiksmus turintiems asmenims, auditoriams, antstoliams ir antstolio atstovams, buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančioms įmonėms tuo metu, kai jie vertina savo kliento teisinę padėtį, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. Šio straipsnio 18 dalis netaikoma advokatams ir advokatų padėjėjams, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo.
+19. Šio straipsnio 18 dalis netaikoma notarams, notaro atstovams ir teisę atlikti notarinius veiksmus turintiems asmenims, auditoriams, antstoliams ir antstolio atstovams, apskaitos ar mokesčių konsultavimo paslaugas teikiantiems subjektams tuo metu, kai jie vertina savo kliento teisinę padėtį, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. Šio straipsnio 18 dalis netaikoma advokatams ir advokatų padėjėjams, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
 
-20. Šio straipsnio 1 dalies 1, 2, 6 punktai, 12, 14–17 dalys netaikomi, kai finansų įstaigos ar kito įpareigotojo subjekto klientas yra kita finansų įstaiga arba finansų įstaiga, registruota kitoje Europos Sąjungos valstybėje narėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi. 
+20. Neteko galios nuo 2024-04-26
+Straipsnio dalies naikinimas:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -1757,6 +1769,13 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 5. Kliento ir naudos gavėjo tapatybės nustatymo reikalavimus, kai tapatybė nustatoma klientui fiziškai nedalyvaujant, naudojantis elektroninėmis priemonėmis, leidžiančiomis tiesioginį vaizdo perdavimą, nustato Finansinių nusikaltimų tyrimo tarnyba. 
+
+
+
+
+6. Finansų įstaigos, nustatydamos kliento ir naudos gavėjo tapatybę klientui fiziškai nedalyvaujant, vadovaujasi ir Europos bankininkystės institucijos gairėmis dėl nuotolinio kliento tapatybės nustatymo sprendimų pagal Direktyvos (ES) 2015/849 13 straipsnio 1 dalį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -2531,7 +2550,10 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
 
 
-10. Šio straipsnio 1, 2 ir 3 dalys netaikomos notarams, notaro atstovams ir teisę atlikti notarinius veiksmus turintiems asmenims, auditoriams, antstoliams ir antstolio atstovams, buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančioms įmonėms, kai jie informaciją gauna vertindami savo kliento teisinę padėtį arba atstovaudami jam baudžiamojo, administracinio ar civilinio proceso metu, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. Šio straipsnio 1, 2 ir 3 dalys netaikomos advokatams ir advokatų padėjėjams, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, neatsižvelgiant į tai, ar tokia informacija yra gauta arba įgyta prieš tokį procesą, tokio proceso metu ar jam pasibaigus.
+10. Šio straipsnio 1, 2 ir 3 dalys netaikomos notarams, notaro atstovams ir teisę atlikti notarinius veiksmus turintiems asmenims, auditoriams, antstoliams ir antstolio atstovams, apskaitos ar mokesčių konsultavimo paslaugas teikiantiems subjektams, kai jie informaciją gauna vertindami savo kliento teisinę padėtį arba atstovaudami jam baudžiamojo, administracinio ar civilinio proceso metu, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. Šio straipsnio 1, 2 ir 3 dalys netaikomos advokatams ir advokatų padėjėjams, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, neatsižvelgiant į tai, ar tokia informacija yra gauta arba įgyta prieš tokį procesą, tokio proceso metu ar jam pasibaigus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -2979,12 +3001,18 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
 
 
-2) keistis informacija tarp auditorių, buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančių įmonių, notarų, notaro atstovų ir teisę atlikti notarinius veiksmus turinčių asmenų bei advokatų ir advokatų padėjėjų, registruotų Europos Sąjungos valstybių narių teritorijoje, taip pat registruotų trečiųjų valstybių teritorijoje, kuriose galioja reikalavimai, lygiaverčiai šiame įstatyme nustatytiems reikalavimams, jeigu šie subjektai vykdo savo profesinę veiklą kaip vienas juridinis asmuo ar kaip keli asmenys, turintys bendrus savininkus ir vadovybę, arba kaip keli asmenys, kurių veiklai taikoma bendra kontrolė;
+2) keistis informacija tarp auditorių, apskaitos ar mokesčių konsultavimo paslaugas teikiančių subjektų, notarų, notaro atstovų ir teisę atlikti notarinius veiksmus turinčių asmenų bei advokatų ir advokatų padėjėjų, registruotų Europos Sąjungos valstybių narių teritorijoje, taip pat registruotų trečiųjų valstybių teritorijoje, kuriose galioja reikalavimai, lygiaverčiai šiame įstatyme nustatytiems reikalavimams, jeigu šie subjektai vykdo savo profesinę veiklą kaip vienas juridinis asmuo ar kaip keli asmenys, turintys bendrus savininkus ir vadovybę, arba kaip keli asmenys, kurių veiklai taikoma bendra kontrolė; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
 
-3) keistis informacija tarp finansų įstaigų, auditorių, buhalterinės apskaitos ar mokesčių konsultavimo paslaugas teikiančių įmonių, notarų, notaro atstovų ir teisę atlikti notarinius veiksmus turinčių asmenų bei advokatų ir advokatų padėjėjų tokiais atvejais, kurie yra susiję su tuo pačiu klientu ir tuo pačiu sandoriu, apimančiu du arba daugiau iš šiame punkte nurodytų subjektų, jeigu jie yra registruoti Europos Sąjungos valstybės narės teritorijoje ar trečiosios valstybės teritorijoje, kurioje galioja reikalavimai, lygiaverčiai šiame įstatyme nustatytiems reikalavimams, ir jeigu jie priklauso tos pačios kategorijos profesijai ir turi lygiavertes profesinės paslapties ir asmens duomenų saugojimo pareigas.
+3) keistis informacija tarp finansų įstaigų, auditorių, apskaitos ar mokesčių konsultavimo paslaugas teikiančių subjektų, notarų, notaro atstovų ir teisę atlikti notarinius veiksmus turinčių asmenų bei advokatų ir advokatų padėjėjų tokiais atvejais, kurie yra susiję su tuo pačiu klientu ir tuo pačiu sandoriu, apimančiu du arba daugiau iš šiame punkte nurodytų subjektų, jeigu jie yra registruoti Europos Sąjungos valstybės narės teritorijoje ar trečiosios valstybės teritorijoje, kurioje galioja reikalavimai, lygiaverčiai šiame įstatyme nustatytiems reikalavimams, ir jeigu jie priklauso tos pačios kategorijos profesijai ir turi lygiavertes profesinės paslapties ir asmens duomenų saugojimo pareigas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -3561,7 +3589,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-3. Šio straipsnio 1 dalyje nurodytos vidaus kontrolės procedūros turi būti parengtos atsižvelgiant į:
+3. Šio straipsnio 1 dalyje nurodytos vidaus kontrolės procedūros turi būti parengtos atsižvelgiant į: 
 
 
 1) Europos Komisijos ir nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo rezultatus, nebent nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo metu nusprendžiama nesilaikyti tam tikrų Europos Komisijos rekomendacijų;
@@ -3574,14 +3602,12 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-3) Europos priežiūros institucijų dokumentus dėl rizikos veiksnių, į kuriuos reikia atsižvelgti, ir dėl priemonių, kurių reikia imtis tais atvejais, kai leidžiama taikyti supaprastinto klientų tapatybės nustatymo priemones;
+3) Europos priežiūros institucijų išleistus dokumentus pinigų plovimo ir (ar) teroristų finansavimo prevencijos klausimais.
 
 
-
-
-4) Europos priežiūros institucijų gaires dėl rizikos veiksnių, į kuriuos reikia atsižvelgti, ir dėl priemonių, kurių reikia imtis tais atvejais, kai tikslinga taikyti sustiprinto klientų tapatybės nustatymo priemones.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -4214,7 +4240,9 @@ Priežiūros institucija, svarstydama, ar taikyti šiame įstatyme nustatytas po
 
 
 
-3. Jeigu finansų įstaiga ar užsienio finansų įstaigos filialas yra patronuojančioji įstaiga arba priklauso patronuojančiajai grupės įstaigai ir rengia konsoliduotąsias finansines ataskaitas Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.
+3. Jeigu finansų įstaiga ar užsienio finansų įstaigos filialas yra patronuojančioji įstaiga arba priklauso patronuojančiajai grupės įstaigai ir rengia konsoliduotąsias finansines ataskaitas Lietuvos Respublikos įmonių grupių konsoliduotosios atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -4260,7 +4288,9 @@ Priežiūros institucija, svarstydama, ar taikyti šiame įstatyme nustatytas po
 
 
 
-3. Jeigu kiti įpareigotieji subjektai yra patronuojančioji įmonė arba priklauso patronuojančiajai grupės įmonei ir rengia konsoliduotąsias finansines ataskaitas Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.
+3. Jeigu kiti įpareigotieji subjektai yra patronuojančioji įmonė arba priklauso patronuojančiajai grupės įmonei ir rengia konsoliduotąsias finansines ataskaitas Įmonių grupių konsoliduotosios atskaitomybės įstatymo nustatyta tvarka, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos arba atitinkamos rūšies pajamos pagal apskaitą reglamentuojančius teisės aktus, remiantis naujausiomis turimomis konsoliduotosiomis finansinėmis ataskaitomis, patvirtintomis pagrindinės patronuojančiosios įstaigos valdymo organo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -4495,7 +4525,7 @@ Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
 
 
 
-6) kitoms valstybės institucijoms, jeigu ši informacija reikalinga jų funkcijoms atlikti ir jeigu tai būtina dėl finansų įstaigų ar kitų įpareigotųjų subjektų priežiūros ar pažeidimų prevencijos, jeigu joms keliami reikalavimai saugoti informaciją yra ne mažesni, negu nustatyta šiame įstatyme. 
+6) kitoms valstybės institucijoms, jeigu ši informacija reikalinga jų funkcijoms atlikti ir jeigu tai būtina dėl finansų įstaigų ar kitų įpareigotųjų subjektų priežiūros ar pažeidimų prevencijos, jeigu joms keliami reikalavimai saugoti informaciją yra ne mažesni, negu nustatyta šiame įstatyme; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
@@ -4503,11 +4533,28 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
+7) kompetentingoms valstybės ar užsienio valstybių teisėsaugos institucijoms ar tarptautinėms organizacijoms, ar pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones įgyvendinančioms institucijoms, jeigu nustatomi finansų įstaigų ar kitų įpareigotųjų subjektų kliento galimai nusikalstamos veikos ar kitų teisės aktų pažeidimų požymiai;
+Papildyta straipsnio punktu:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
-6. Priežiūros tikslais gauti asmens duomenys teikiami vadovaujantis Reglamentu (ES) 2016/679 ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
+
+
+8) mokesčių administravimo institucijoms, jeigu tai būtina dėl finansų įstaigų ar kitų įpareigotųjų subjektų klientų priežiūros ar pažeidimų prevencijos. 
+Papildyta straipsnio punktu:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
+
+
+
+
+
+
+6. Priežiūros tikslais gauti asmens duomenys teikiami vadovaujantis Reglamentu (ES) 2016/679, Asmens duomenų teisinės apsaugos įstatymu ir Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -4523,14 +4570,15 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-49 straipsnis. Penktojo skirsnio nuostatų taikymas 
+49 straipsnis. Penktojo skirsnio nuostatų taikymas
 
 
-Grynųjų pinigų deklaravimui, muitinės įstaigų veiklai ir šio įstatymo 25, 252 straipsniuose nustatytų reikalavimų priežiūrai šio įstatymo penktojo skirsnio nuostatos netaikomos. 
+Grynųjų pinigų deklaravimui, muitinės įstaigų veiklai ir šio įstatymo 25 straipsnio 1, 11, 2, 4 ir 6 dalyse, 252 straipsniuose nustatytų reikalavimų priežiūrai šio įstatymo penktojo skirsnio nuostatos netaikomos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
@@ -4900,3 +4948,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1603, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25182
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 32 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 9, 10, 11, 15, 16, 21, 22, 23, 25, 29, 36, 39, 40, 48, 49 straipsnių pakeitimo ir Įstatymo papildymo 15-1, 15-2, 46-1 straipsniais įstatymas
