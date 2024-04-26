@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.708F524D8B62"
 
 # Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2024-04-25
+Suvestinė redakcija nuo 2024-04-26 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1528, i. k. 0951010ISTA000I-996
  
@@ -686,7 +686,10 @@ Su tauriaisiais metalais ir brangakmeniais susijusios veiklos rūšys:
 1. Ūkio subjektas savo su tauriaisiais metalais ir brangakmeniais susijusios veiklos vietose turi: 
 
 
-1) turėti tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo buhalterinės apskaitos registrus, laisvos formos su tauriaisiais metalais ir brangakmeniais susijusios veiklos dokumentų (toliau – veiklos dokumentas) apskaitos registrus, tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo apyvartos žiniaraščius (toliau – apyvartos žiniaraštis) ir (arba) ūkio subjekto naudojamo kasos aparato panaudotas kontrolines juostas arba elektronines kontrolines juostas, saugomas elektroninėse laikmenose, sudarytus po paskutinės atliktos tauriųjų metalų ir brangakmenių, jų gaminių, pusgaminių, atliekų ir laužo inventorizacijos, ir paskutinės atliktos inventorizacijos dokumentus;
+1) turėti tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo finansinės apskaitos registrus, laisvos formos su tauriaisiais metalais ir brangakmeniais susijusios veiklos dokumentų (toliau – veiklos dokumentas) apskaitos registrus, tauriųjų metalų, brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo apyvartos žiniaraščius (toliau – apyvartos žiniaraštis) ir (arba) ūkio subjekto naudojamo kasos aparato panaudotas kontrolines juostas arba elektronines kontrolines juostas, saugomas elektroninėse laikmenose, sudarytus po paskutinės atliktos tauriųjų metalų ir brangakmenių, jų gaminių, pusgaminių, atliekų ir laužo inventorizacijos, ir paskutinės atliktos inventorizacijos dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
+ 
 
 
 
@@ -736,7 +739,10 @@ Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 
 
 
-9. Ūkio subjektas priežiūros institucijai, atliekančiai jo patikrinimą, turi pateikti tauriųjų metalų ir brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo buhalterinės apskaitos dokumentus ir veiklos dokumentus (toliau kartu – apskaitos dokumentai), jų registrus, apyvartos žiniaraščius, kasos aparato kontrolines juostas ir kitus su tauriaisiais metalais, brangakmeniais ir jų gaminiais, pusgaminiais, atliekomis ir (arba) laužu susijusius dokumentus.
+9. Ūkio subjektas priežiūros institucijai, atliekančiai jo patikrinimą, turi pateikti tauriųjų metalų ir brangakmenių, jų gaminių, pusgaminių, atliekų ir (arba) laužo finansinės apskaitos dokumentus ir veiklos dokumentus (toliau kartu – apskaitos dokumentai), jų registrus, apyvartos žiniaraščius, kasos aparato kontrolines juostas ir kitus su tauriaisiais metalais, brangakmeniais ir jų gaminiais, pusgaminiais, atliekomis ir (arba) laužu susijusius dokumentus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
+ 
 
 
 
@@ -873,7 +879,10 @@ TAURIŲJŲ METALŲ IR BRANGAKMENIŲ, JŲ GAMINIŲ, PUSGAMINIŲ, ATLIEKŲ IR LAU�
 14 straipsnis. Tauriųjų metalų ir brangakmenių, jų gaminių, pusgaminių, atliekų ir laužo apskaita
 
 
-1. Visos ūkio subjekto su tauriaisiais metalais ir brangakmeniais susijusios veiklos ūkinės operacijos ir ūkiniai įvykiai įforminami ir registruojami laikantis bendrųjų buhalterinės apskaitos tvarkymo reikalavimų. 
+1. Visos ūkio subjekto su tauriaisiais metalais ir brangakmeniais susijusios veiklos ūkinės operacijos įforminamos ir registruojamos laikantis Lietuvos Respublikos finansinės apskaitos įstatymo reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
+ 
 
 
 
@@ -883,17 +892,26 @@ TAURIŲJŲ METALŲ IR BRANGAKMENIŲ, JŲ GAMINIŲ, PUSGAMINIŲ, ATLIEKŲ IR LAU�
 
 
 
-3. Surašomame buhalterinės apskaitos dokumente, be Lietuvos Respublikos buhalterinės apskaitos įstatyme nustatytų buhalterinės apskaitos dokumentų rekvizitų, taip pat turi būti nurodomi tauriųjų metalų arba brangakmenių gaminių, pusgaminių, atliekų ir laužo pavadinimai, tauriųjų metalų arba brangakmenių pavadinimai, kiekvieno tauriojo metalo standartinė praba, brangakmenių kokybės pažymėjimų (kai brangakmenis neįtvirtintas gaminyje) arba priežiūros institucijos pritvirtintų etikečių (kai brangakmenis įtvirtintas gaminyje) numeriai, tauriųjų metalų arba brangakmenių gaminių arba brangakmenių vienetai, tauriųjų metalų gaminių, pusgaminių, atliekų ir laužo masė gramais, vienarūšių brangakmenių masė karatais. 
+3. Surašomame finansinės apskaitos dokumente, be Finansinės apskaitos įstatyme nustatytos privalomos finansinės apskaitos dokumentų informacijos, taip pat turi būti nurodomi tauriųjų metalų arba brangakmenių gaminių, pusgaminių, atliekų ir laužo pavadinimai, tauriųjų metalų arba brangakmenių pavadinimai, kiekvieno tauriojo metalo standartinė praba, brangakmenių kokybės pažymėjimų (kai brangakmenis neįtvirtintas gaminyje) arba priežiūros institucijos pritvirtintų etikečių (kai brangakmenis įtvirtintas gaminyje) numeriai, tauriųjų metalų arba brangakmenių gaminių arba brangakmenių vienetai, tauriųjų metalų gaminių, pusgaminių, atliekų ir laužo masė gramais, vienarūšių brangakmenių masė karatais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
+ 
 
 
 
 
-4. Jeigu nesurašomas buhalterinės apskaitos dokumentas arba neišduodamas kasos aparato kvitas, ūkio subjektas privalo surašyti veiklos dokumentą ir šiuo veiklos dokumentu įformintą ūkinę operaciją ar ūkinį įvykį registruoti ūkio subjekto tvarkomame dokumentų apskaitos registre.
+4. Jeigu nesurašomas finansinės apskaitos dokumentas arba neišduodamas kasos aparato kvitas, ūkio subjektas privalo surašyti veiklos dokumentą ir šiuo veiklos dokumentu įformintą ūkinę operaciją registruoti ūkio subjekto tvarkomame dokumentų apskaitos registre. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
+ 
 
 
 
 
-5. Veiklos dokumente turi būti nurodomi šio straipsnio 3 dalyje nustatyti buhalterinės apskaitos dokumento rekvizitai. 
+5. Veiklos dokumente turi būti nurodoma šio straipsnio 3 dalyje nustatyta finansinės apskaitos dokumento informacija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
+ 
 
 
 
@@ -1152,3 +1170,8 @@ Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo Nr. I-996 4, 5, 6, 10, 15 ir 16 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
+Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo Nr. I-996 2, 8, 9, 10 ir 14 straipsnių pakeitimo įstatymas
