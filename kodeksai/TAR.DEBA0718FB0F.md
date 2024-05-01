@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2022-11-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -2431,7 +2431,10 @@ Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
 
 
 
-5) susisiekimo ministro nustatyta tvarka apie vidaus vandenų transporto priemonės avariją, įvykusią Lietuvos Respublikos teritorinėje jūroje, Klaipėdos valstybinio jūrų uosto ar Šventosios jūrų uosto akvatorijose ar Būtingės naftos terminalo akvatorijoje arba prieigose, nedelsdami, bet ne vėliau kaip tą pačią dieną papildomai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui ir valstybės įmonei Klaipėdos valstybinio jūrų uosto direkcijai.
+5) susisiekimo ministro nustatyta tvarka apie vidaus vandenų transporto priemonės avariją, įvykusią Lietuvos Respublikos teritorinėje jūroje, Klaipėdos valstybinio jūrų uosto ar Šventosios jūrų uosto akvatorijose ar Būtingės naftos terminalo akvatorijoje arba prieigose, nedelsdami, bet ne vėliau kaip tą pačią dieną, papildomai pranešti Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui ir akcinei bendrovei Klaipėdos valstybinio jūrų uosto direkcijai.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2224, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22370
+ 
 
 
 
@@ -2927,7 +2930,7 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-7) krovinį lydinčiuosius dokumentus;
+7) krovinio lydimuosius dokumentus;
 
 
 
@@ -2947,24 +2950,23 @@ Nr. X-224, 2005-05-26, Žin., 2005, Nr. 72-2589 (2005-06-09)
 
 
 
-11) vežant pavojingą krovinį – jo pavojingumo klasę ir identifikacinį numerį pagal Jungtinių Tautų Organizacijos sudarytą pavojingų medžiagų sąrašą.
+11) vežant pavojingąjį krovinį – jo pavojingumo klasę ir identifikacinį numerį pagal Jungtinių Tautų sudarytą pavojingųjų medžiagų sąrašą.
 
 
 
 
 
 
-2. Siuntėjas surašo važtaraštį 3 egzemplioriais. Vienas egzempliorius lieka siuntėjui, kiti du išduodami vežėjui.
+2. Jeigu pildomas popierinis važtaraštis, siuntėjas surašo važtaraštį 3 egzemplioriais. Vienas egzempliorius lieka siuntėjui, kiti du išduodami vežėjui. Jeigu pildomas elektroninis važtaraštis, prieiga prie važtaraščio duomenų suteikiama siuntėjui, vežėjui ir gavėjui, taip pat sudaroma galimybė kontroliuojančioms institucijoms elektroniniu būdu patikrinti elektroninio važtaraščio duomenis.
 
 
 
 
-3. Važtaraštyje gali būti žymos apie krovinio įvertinimą, įpakavimą (tarą) ir kitos.
+3. Važtaraštyje gali būti žymos apie krovinio įvertinimą, pakuotę (tarą) ir kitos.
 
 
 Straipsnio pakeitimai:
-Nr. VIII-1900, 00.08.29, Žin., 2000, Nr.75-2267 (00.09.07)
-Nr. VIII-1964, 00.09.26, Žin., 2000, Nr.85-2585 (00.10.11)
+Nr. XIV-2224, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22370
  
 
 
@@ -3119,7 +3121,10 @@ Apie laivo atvykimą vežėjas nedelsdamas privalo pranešti krovinio gavėjui, 
 
 
 
-3. Išduodamas krovinį gavėjui, vežėjas kartu duoda ir vieną važtaraščio egzempliorių. Krovinys laikomas perduotu gavėjui, kai gavėjas parašu važtaraštyje (vežėjo ir gavėjo egzemplioriuose) patvirtina krovinio priėmimą.
+3. Krovinys laikomas perduotu gavėjui, kai gavėjas parašu važtaraštyje (vežėjo ir gavėjo egzemplioriuose arba elektroniniu būdu) patvirtina krovinio priėmimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2224, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22370
+ 
 
 
 
@@ -3599,6 +3604,14 @@ priedas
 4. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2397 dėl vidaus vandenų laivybos srities profesinių kvalifikacijų pripažinimo, kuria panaikinamos Tarybos direktyvos 91/672/EEB ir 96/50/EB, su paskutiniais pakeitimais, padarytais 2021 m. liepos 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1233, kuria iš dalies keičiama Direktyva (ES) 2017/2397, kiek tai susiję su trečiosios šalies pažymėjimų pripažinimo pereinamojo laikotarpio priemonėmis.
 
 
+
+
+5. 2020 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1056 dėl elektroninės krovinių vežimo informacijos.
+Papildyta straipsnio dalimi:
+Nr. XIV-2224, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22370
+ 
+
+
 Priedo pakeitimai:
 Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
@@ -3728,3 +3741,8 @@ Lietuvos Respublikos vidaus vandenų transporto kodekso 18 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-913, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01357
 Lietuvos Respublikos vidaus vandenų transporto kodekso 1, 6, 13, 15, 16, 16-1, 16-2, 18, 19, 21, 22, 22-1, 24-1, 26, 27, 41 straipsnių, septintojo skirsnio ir priedo pakeitimo, Kodekso papildymo 27-1 straipsniu ir 23, 24, 25 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2224, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22370
+Lietuvos Respublikos vidaus vandenų transporto kodekso 27-1, 40, 47 straipsnių ir priedo pakeitimo įstatymas
