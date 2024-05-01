@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-03-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-19
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -2264,9 +2264,20 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 
 
-29) išduoda sutikimus dėl savivaldybės patikėjimo teise valdomos valstybinės žemės naudojimo, susijusius su statytojo teisės įgyvendinimu, susisiekimo komunikacijų, inžinerinių tinklų tiesimu, veikla vandens telkiniuose ir žemės gelmių tyrimu, ir priima sprendimus dėl sandoriu nustatomų servitutų patikėjimo teise valdomuose valstybinės žemės sklypuose nustatymo. 
+29) išduoda sutikimus dėl savivaldybės patikėjimo teise valdomos valstybinės žemės naudojimo, susijusius su statytojo teisės įgyvendinimu, susisiekimo komunikacijų, inžinerinių tinklų tiesimu, veikla vandens telkiniuose ir žemės gelmių tyrimu, ir priima sprendimus dėl sandoriu nustatomų servitutų patikėjimo teise valdomuose valstybinės žemės sklypuose nustatymo; 
 Papildyta straipsnio punktu:
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
+
+
+
+
+30) išduoda sutikimus laikinai naudotis žemės ūkio veiklai vykdyti žemės sklypais nesuformuotais laisvos valstybinės žemės fondo žemės plotais, patikėjimo teise valdomais savivaldybių. 
+ 
+Straipsnio dalies punkto redakcija nuo 2027-01-01:
+30) netenka galios.
+Papildyta straipsnio punktu:
+Nr. XIV-2557, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07455
  
 
 
@@ -2279,9 +2290,14 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 
 
+4. Šio straipsnio 2 dalies 12, 13, 28, 29 ir 30 punktuose nustatytas funkcijas meras, merą pavaduojantis vicemeras arba laikinai mero pareigas einantis savivaldybės tarybos narys turi teisę įgalioti atlikti savivaldybės administracijos direktorių. 
+ 
+Straipsnio dalies redakcija nuo 2027-01-01:
 4. Šio straipsnio 2 dalies 12, 13, 28 ir 29 punktuose nustatytas funkcijas meras, merą pavaduojantis vicemeras arba laikinai mero pareigas einantis savivaldybės tarybos narys turi teisę įgalioti atlikti savivaldybės administracijos direktorių.
 Papildyta straipsnio dalimi:
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+Straipsnio dalies pakeitimai:
+Nr. XIV-2557, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07455
  
 
 
@@ -5410,3 +5426,13 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15, 35 ir 66 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 8 ir 26 straipsnių pakeitimo įstatymas
+ 
+80.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2360, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25611
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
+ 
+81.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2557, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07455
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 27 straipsnio pakeitimo įstatymas
