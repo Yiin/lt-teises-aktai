@@ -18,10 +18,9 @@ Neoficialus ?statymo tekstas
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-07-24
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1598,22 +1597,17 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 
 
 
-7. Lietuvos bankas, turėdamas pagrindą įtarti, kad nuotoliniu būdu (naudojant ryšio priemones) Lietuvos Respublikoje nelegaliai, tai yra neturint finansų rinką reglamentuojančiuose teisės aktuose nustatyta tvarka suteiktos teisės arba kitaip pažeidžiant teisės aktų reikalavimus, yra siūloma įsigyti arba pasirašyti finansinių priemonių, siūlomos ir (arba) teikiamos draudimo arba finansinės paslaugos, turi teisę:
-
-
-1) duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, kuri naudojama siekiant nelegaliai siūlyti įsigyti arba pasirašyti finansinių priemonių, teikti draudimo ir (arba) finansines paslaugas;
-
-
-
-
-2) duoti privalomus nurodymus tinklo paslaugų teikėjui skubiai panaikinti galimybę pasiekti informaciją, kuri naudojama siekiant nelegaliai siūlyti įsigyti arba pasirašyti finansinių priemonių, teikti draudimo ir (arba) finansines paslaugas.
+7. Lietuvos bankas, turėdamas pagrindą įtarti, kad nuotoliniu būdu (naudojant ryšio priemones) Lietuvos Respublikoje nelegaliai, tai yra neturint finansų rinką reglamentuojančiuose teisės aktuose nustatyta tvarka suteiktos teisės arba kitaip pažeidžiant teisės aktų reikalavimus, yra siūloma įsigyti arba pasirašyti finansinių priemonių, siūlomos ir (arba) teikiamos draudimo arba finansinės paslaugos, turi teisę Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti informaciją, kuri naudojama siekiant nelegaliai siūlyti įsigyti arba pasirašyti finansinių priemonių, teikti draudimo ir (arba) finansines paslaugas, arba panaikinti galimybę šią informaciją pasiekti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2143, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14039
+ 
 
 
 
 
-
-
-8. Lietuvos bankas, siekdamas atlikti šio straipsnio 7 dalyje nurodytus veiksmus, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Prašyme turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu jie žinomi), įtariamų finansų rinką reglamentuojančių teisės aktų pažeidimų pobūdis ir numatomi veiksmai. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Lietuvos bankas, nesutinkantis su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą, turi teisę per 7 dienas apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 dienas. Lietuvos banko atstovai turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+8. Neteko galios nuo 2024-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2143, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14039
 Straipsnio dalies pakeitimai:
 Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
  
@@ -1626,7 +1620,10 @@ Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
 
 
 
-10. Galimybių pasiekti informaciją, kuri naudojama siekiant nelegaliai siūlyti įsigyti arba pasirašyti finansinių priemonių, teikti draudimo ir (arba) finansines paslaugas, panaikinimo užtikrinimo tvarką nustato Lietuvos bankas.
+10. Neteko galios nuo 2024-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2143, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14039
+ 
 
 
 
@@ -3108,8 +3105,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 Lietuvos banko įstatymo 
@@ -3381,10 +3376,9 @@ Nr. XIV-822, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27713
 Pakeistas priedo pavadinimas:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
  
-part_68defafc5aed4dba84a3cc907d88df65_end
 
 
- 
+
 
  
 Lietuvos Respublikos
@@ -3469,10 +3463,9 @@ Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Priedo pakeitimai:
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
-part_1036706cce1f45538785f7006b7f7bdc_end
 
 
- 
+
 
  
 Lietuvos Respublikos
@@ -3505,10 +3498,9 @@ TAR pastaba. Įstatymo papildymas 21 priedu įsigalioja kitą darbo dieną po to
 Papildyta priedu:
 Nr. XIV-1452, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22563
  
-part_1a122d5476dd4bee9533197b09ed7407_end
 
 
- 
+
 
  
 Lietuvos Respublikos
@@ -3652,7 +3644,8 @@ Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 Nr. XIV-771, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26900
  
-part_55fc40a85bc3467f821af67c3027e100_end
+
+
 
 
  
@@ -3983,3 +3976,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 11, 42, 43, 43-1, 43-2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1597, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25171
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 42-1 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2143, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14039
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio pakeitimo įstatymas
