@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2023-10-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
@@ -265,7 +265,10 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 3 straipsnis. Valstybės ir savivaldybių institucijų ir kitų juridinių asmenų kompetencija
 
 
-1. Gyvūnų gerovės ir apsaugos užtikrinimą pagal kompetenciją vykdo Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos aplinkos ministerija ar aplinkos ministro įgaliotos institucijos, Lietuvos Respublikos sveikatos apsaugos ministerija ar sveikatos apsaugos ministro įgaliotos institucijos, Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija, Lietuvos Respublikos vidaus reikalų ministerija ar vidaus reikalų ministro įgaliotos institucijos, Lietuvos Respublikos žemės ūkio ministerija ar žemės ūkio ministro įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba, savivaldybių merai, Lietuvos sveikatos mokslų universitetas.
+1. Gyvūnų gerovės ir apsaugos užtikrinimą pagal kompetenciją vykdo Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos aplinkos ministerija ar aplinkos ministro įgaliotos institucijos, Lietuvos Respublikos sveikatos apsaugos ministerija ar sveikatos apsaugos ministro įgaliotos institucijos, Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija, Lietuvos Respublikos vidaus reikalų ministerija ar vidaus reikalų ministro įgaliotos institucijos, Lietuvos Respublikos žemės ūkio ministerija ar žemės ūkio ministro įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba, savivaldybių merai, Lietuvos sveikatos mokslų universitetas, Lietuvos jūrų muziejus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2484, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04798
+ 
 
 
 
@@ -303,7 +306,10 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 
 
 
-2) tvirtina medžioklės Lietuvos Respublikos teritorijoje taisykles, kuriose nustato: medžiojamųjų gyvūnų rūšių sąrašą ir šių gyvūnų medžioklės terminus; draudžiamus ir leidžiamus medžioklės būdus ir jų taikymo terminus, draudžiamus ir leidžiamus naudoti įrankius bei kitus medžioklės reikalavimus;
+2) tvirtina Medžioklės Lietuvos Respublikos teritorijoje taisykles, kuriose nustatoma: medžiojamųjų gyvūnų rūšių sąrašas ir šių gyvūnų medžioklės terminai; draudžiami ir leidžiami medžioklės būdai ir jų taikymo terminai, leidžiamų naudoti įrankių ir priemonių naudojimo medžioklėje tvarka bei kiti medžioklės reikalavimai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2484, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04798
+ 
 
 
 
@@ -498,19 +504,58 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 11. Lietuvos sveikatos mokslų universitetas:
 
 
-1) vykdo paimtų iš aplinkos, sulaikytų, paimtų ir (ar) konfiskuotų laukinių gyvūnų sveikatos priežiūrą, globą, laukinių gyvūnų paleidimą į jiems būdingas buveines ar jų perdavimą asmenims, turintiems teisę ir sąlygas nelaisvėje laikyti perduodamus laukinius gyvūnus;
+1) vykdo paimtų iš aplinkos, sulaikytų, paimtų ir (ar) konfiskuotų laukinių gyvūnų, išskyrus jūros žinduolius ir jūros paukščius, sveikatos priežiūrą, globą, laukinių gyvūnų, išskyrus jūros žinduolius ir jūros paukščius, paleidimą į jiems būdingas buveines ar jų perdavimą asmenims, turintiems teisę ir sąlygas nelaisvėje laikyti perduodamus laukinius gyvūnus;
 
 
 
 
-2) informuoja ir konsultuoja asmenis laukinių gyvūnų gerovės, globos ir apsaugos klausimais.
+2) informuoja ir konsultuoja asmenis laukinių gyvūnų, išskyrus jūros žinduolius ir jūros paukščius, gerovės, globos ir apsaugos klausimais.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2484, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04798
+ 
 
 
 
 
 12. Lietuvos sveikatos mokslų universiteto veikla atliekant šio straipsnio 11 dalyje nurodytas funkcijas finansuojama iš Aplinkos ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+
+
+
+
+13. Lietuvos jūrų muziejus: 
+
+
+1) vykdo paimtų iš aplinkos, sulaikytų, paimtų ir (ar) konfiskuotų jūros žinduolių ir jūros paukščių sveikatos priežiūrą, globą, jūros žinduolių  ir jūros paukščių paleidimą į jiems būdingas buveines ar jų perdavimą asmenims, turintiems teisę ir sąlygas laikyti perduodamus jūros žinduolius ir jūros paukščius nelaisvėje;
+
+
+
+
+2) atlieka Lietuvos Respublikos teritorijoje rastų nugaišusių jūros žinduolių  tyrimus ir monitoringą;
+
+
+
+
+3) informuoja ir konsultuoja asmenis jūros žinduolių ir jūros paukščių gerovės, globos ir apsaugos klausimais;
+
+
+
+
+4) bendradarbiauja su valstybės ir savivaldybių institucijomis, Europos Sąjungos ir tarptautinėmis organizacijomis, kitomis valstybėmis jūros žinduolių ir jūros paukščių gerovės, globos ir apsaugos klausimais. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2484, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04798
+ 
+
+
+
+
+14. Lietuvos jūrų muziejaus veikla atliekant šio straipsnio 13 dalyje nurodytas funkcijas finansuojama iš Aplinkos ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+Papildyta straipsnio dalimi:
+Nr. XIV-2484, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04798
+ 
 
 
 Straipsnio pakeitimai:
@@ -1689,3 +1734,8 @@ Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 7 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 3 ir 21 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2484, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04798
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 3 straipsnio pakeitimo įstatymas
