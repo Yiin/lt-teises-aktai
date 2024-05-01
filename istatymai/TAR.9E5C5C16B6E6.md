@@ -18,11 +18,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
- 
- 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-05-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -1996,30 +1994,12 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 
 
 
-4. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta alkoholio reklama, turi teisę duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo ir (ar) viešojo elektroninių ryšių tinklo paslaugų teikėjo saugomą informaciją, kuri naudojama skleidžiant alkoholio reklamą, arba panaikinti galimybę pasiekti alkoholio reklamą.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1618, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25042
- 
+4. Narkotikų, tabako ir alkoholio kontrolės departamentas, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikęs tyrimą ir nustatęs, kad elektroniniais ryšiais skleidžiama Lietuvos Respublikos rinkai skirta alkoholio reklama, turi teisę Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti saugomą informaciją, kuri naudojama skleidžiant alkoholio reklamą, arba panaikinti galimybę pasiekti alkoholio reklamą.
 
 
-
-
-5. Narkotikų, tabako ir alkoholio kontrolės departamentas, siekdamas atlikti šio straipsnio 4 dalyje nurodytus veiksmus, privalo pateikti prašymą išduoti leidimą atlikti veiksmus pirmosios instancijos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodyta įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, o jeigu tokio asmens vardo, pavardės arba pavadinimo neįmanoma nustatyti ar šių duomenų nustatymas reikalauja neproporcingai daug sąnaudų, turi būti nurodyta asmens (asmenų), kurio (kurių) naudai arba interesais skleidžiama alkoholio reklama, pavadinimas (pavadinimai), įtariamų pažeidimų pobūdis ir numatomi veiksmai. Teismas išnagrinėja prašymą išduoti leidimą atlikti veiksmus ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Narkotikų, tabako ir alkoholio kontrolės departamentas nesutinka su teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, jis turi teisę per 7 darbo dienas nuo tokios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus ne vėliau kaip per 7 darbo dienas nuo Narkotikų, tabako ir alkoholio kontrolės departamento skundo priėmimo dienos. Narkotikų, tabako ir alkoholio kontrolės departamento atstovas turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1575, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25125
- 
-
-
-Straipsnio pakeitimai:
-Nr. X-1198, 2007-06-21, Žin., 2007, Nr. 77-3041 (2007-07-12)
-Nr. X-1508, 2008-04-18, Žin., 2008, Nr. 48-1771 (2008-04-26)
-Nr. X-1750, 2008-10-14, Žin., 2008, Nr. 123-4660 (2008-10-25)
-Nr. XI-1179, 2010-11-30, Žin., 2010, Nr. 145-7432 (2010-12-11)
-Nr. XI-1779, 2011-12-06, Žin., 2011, Nr. 153-7207 (2011-12-15)
-Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
-Nr. XII-934, 2014-06-12, paskelbta TAR 2014-06-19 i. k. 2014-07836
 Straipsnio pakeitimai:
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+Nr. XIV-2140, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14036
  
 
 
@@ -3163,3 +3143,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 29 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2104, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13997
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2, 16, 18-6, 20, 31, 34 ir 40 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2140, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14036
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 29 straipsnio pakeitimo įstatymas
