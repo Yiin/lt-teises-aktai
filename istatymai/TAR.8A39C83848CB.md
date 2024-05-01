@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-05-15
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
- 
-TAR pastaba. Iki 2023 m. naujai išrinktų savivaldybių tarybų pirmųjų posėdžių taikomos iki LR įstatymo Nr. XIV-1838 įsigaliojimo dienos galiojusios Lietuvos Respublikos civilinio kodekso 3.241, 3.246, 3.250, 3.262 straipsnių, 3.264 straipsnio 1 ir 2 dalių ir 3.266 straipsnio nuostatos. Iki šio įstatymo taikymo dienos pradėtos vaiko laikinosios globos (rūpybos) nustatymo procedūros baigiamos pagal Civilinio kodekso nuostatas, galiojusias iki šio įstatymo įsigaliojimo dienos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1838, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05730
-Lietuvos Respublikos civilinio kodekso 3.210, 3.241, 3.246, 3.250, 3.260, 3.262, 3.264 ir 3.266 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
  
@@ -7630,7 +7625,10 @@ Jei reorganizuojamas juridinis asmuo prijungiamas prie juridinio asmens, kuris y
 
 
 
-3. Viešasis juridinis asmuo, išskyrus valstybės ir savivaldybės įmones, negali būti pertvarkomas į privatųjį juridinį asmenį.
+3. Viešasis juridinis asmuo, išskyrus valstybės ir savivaldybės įmones, viešąsias įstaigas, negali būti pertvarkomas į privatųjį juridinį asmenį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2256, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22987
+ 
 
 
 
@@ -51813,3 +51811,8 @@ Lietuvos Respublikos civilinio kodekso 6.747, 6.748, 6.749, 6.750, 6.751, 6.752,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1838, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05730
 Lietuvos Respublikos civilinio kodekso 3.210, 3.241, 3.246, 3.250, 3.260, 3.262, 3.264 ir 3.266 straipsnių pakeitimo įstatymas
+ 
+72.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2256, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22987
+Lietuvos Respublikos civilinio kodekso 2.104 straipsnio pakeitimo įstatymas
