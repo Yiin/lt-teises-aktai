@@ -18,10 +18,9 @@ LIETUVOS RESPUBLIKOS
 
 
 
- 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-07-24
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -714,10 +713,6 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
 
 1) prižiūri, kaip verslininkai laikosi šiame įstatyme ir Civiliniame kodekse nustatytų vartotojų teisių apsaugos reikalavimų, taip pat ar rinkai tiekiami ne maisto produktai atitinka ne maisto produktų saugą, kokybę, ženklinimą nustatančių teisės aktų reikalavimus;
-Straipsnio punkto pakeitimai:
-Nr. XII-1866, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10766
-Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
- 
 
 
 
@@ -737,18 +732,12 @@ Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
 
 
 
-5) ne teismo tvarka sprendžia vartotojų ir pardavėjų, paslaugų teikėjų ginčus; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
- 
+5) ne teismo tvarka sprendžia vartotojų ir pardavėjų, paslaugų teikėjų ginčus;
 
 
 
 
 6) atlieka vartojimo sutarčių nesąžiningų sąlygų kontrolę;
-Straipsnio punkto pakeitimai:
-Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
- 
 
 
 
@@ -773,19 +762,12 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
 
 
-11) kartu su kitomis valstybės institucijomis organizuoja ir atlieka keitimąsi informacija su Europos Komisija ir valstybėmis narėmis (RAPEX sistema) Europos Sąjungos teisės aktų nustatyta tvarka, taip pat savo interneto svetainėje skelbia apie Valstybinės vartotojų teisių apsaugos tarnybos uždraustus tiekti rinkai pavojingus Lietuvos Respublikoje pagamintus ar iš Europos Sąjungos valstybių narių ar kitų valstybių tiekiamus ne maisto produktus; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1866, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10766
- 
+11) kartu su kitomis valstybės institucijomis organizuoja ir atlieka keitimąsi informacija su Europos Komisija ir valstybėmis narėmis (RAPEX sistema) Europos Sąjungos teisės aktų nustatyta tvarka, taip pat savo interneto svetainėje skelbia apie Valstybinės vartotojų teisių apsaugos tarnybos uždraustus tiekti rinkai pavojingus Lietuvos Respublikoje pagamintus ar iš Europos Sąjungos valstybių narių ar kitų valstybių tiekiamus ne maisto produktus;
 
 
 
 
-12) įgyvendina Reglamentą (ES) 2017/2394 ir Reglamentą (ES) Nr. 524/2013; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
+12) įgyvendina Reglamentą (ES) 2017/2394 ir Reglamentą (ES) Nr. 524/2013;
 
 
 
@@ -795,18 +777,12 @@ Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
 
 
 
-14) organizuoja vartotojų nuomonių, elgsenos, prekių ir paslaugų kainų bei kitus tyrimus; 
-Papildyta straipsnio punktu:
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
- 
+14) organizuoja vartotojų nuomonių, elgsenos, prekių ir paslaugų kainų bei kitus tyrimus;
 
 
 
 
 15) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
- 
 
 
 
@@ -821,78 +797,55 @@ Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
 
 
 
-2) gauti iš valstybės ir savivaldybių institucijų, taip pat iš įstaigų, finansų rinkos dalyvių, elektroninių ryšių paslaugų teikėjų, kitų juridinių ir fizinių asmenų informaciją, duomenis ir dokumentus, reikalingus įstatymų, už kurių laikymosi priežiūrą atsakinga Valstybinė vartotojų teisių apsaugos tarnyba, pažeidimams tirti, neatsižvelgiant į informacijos, duomenų ir dokumentų saugojimo laikmeną ar saugojimo vietą, įskaitant banko paslaptį ar jai prilygintą paslaptį sudarančią informaciją (kad asmuo yra banko ar kito finansų rinkos dalyvio klientas, jam teikiamos finansinės paslaugos, jo turimų sąskaitų numeriai) ir elektroninių ryšių paslaugų teikėjų turimą informaciją apie elektroninių ryšių paslaugų abonentus ar registruotus elektroninių ryšių paslaugų naudotojus, taip pat paimti dokumentus ir daiktus, kurie turi įrodomąją reikšmę; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
+2) gauti iš valstybės ir savivaldybių institucijų, taip pat iš įstaigų, finansų rinkos dalyvių, elektroninių ryšių paslaugų teikėjų, kitų juridinių ir fizinių asmenų informaciją, duomenis ir dokumentus, reikalingus įstatymų, už kurių laikymosi priežiūrą atsakinga Valstybinė vartotojų teisių apsaugos tarnyba, pažeidimams tirti, neatsižvelgiant į informacijos, duomenų ir dokumentų saugojimo laikmeną ar saugojimo vietą, įskaitant banko paslaptį ar jai prilygintą paslaptį sudarančią informaciją (kad asmuo yra banko ar kito finansų rinkos dalyvio klientas, jam teikiamos finansinės paslaugos, jo turimų sąskaitų numeriai) ir elektroninių ryšių paslaugų teikėjų turimą informaciją apie elektroninių ryšių paslaugų abonentus ar registruotus elektroninių ryšių paslaugų naudotojus, taip pat paimti dokumentus ir daiktus, kurie turi įrodomąją reikšmę;
 
 
 
 
-3) atlikti pardavėjų, paslaugų teikėjų veiklos, įskaitant elektroninių sąsajų naudojimą, patikrinimą; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
+3) atlikti pardavėjų, paslaugų teikėjų veiklos, įskaitant elektroninių sąsajų naudojimą, patikrinimą;
 
 
 
 
-4) reikalauti, kad gamintojai, importuotojai, pardavėjai ir paslaugų teikėjai ar jų atstovai atvyktų į Valstybinę vartotojų teisių apsaugos tarnybą ir duotų paaiškinimus žodžiu ar raštu; 
+4) reikalauti, kad gamintojai, importuotojai, pardavėjai ir paslaugų teikėjai ar jų atstovai atvyktų į Valstybinę vartotojų teisių apsaugos tarnybą ir duotų paaiškinimus žodžiu ar raštu;
 
 
 
 
-5) atlikti prekių ir paslaugų kontrolinius pirkimus. Juos atliekant, sprendimo atlikti neplaninį patikrinimą kopija verslininkui turi būti pateikta iš karto po atlikto kontrolinio pirkimo. Atliekant kontrolinius pirkimus gali būti daromas vaizdo ir (ar) garso įrašas. Jeigu atliekant prekių kontrolinį pirkimą pažeidimo požymių nenustatyta, kontrolinio pirkimo metu sumokėti pinigai grąžinami Valstybinei vartotojų teisių apsaugos tarnybai, o prekės – verslininkui. Kontrolinių pirkimų atlikimo tvarką nustato teisingumo ministras; 
-Papildyta straipsnio punktu:
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
- 
+5) atlikti prekių ir paslaugų kontrolinius pirkimus. Juos atliekant, sprendimo atlikti neplaninį patikrinimą kopija verslininkui turi būti pateikta iš karto po atlikto kontrolinio pirkimo. Atliekant kontrolinius pirkimus gali būti daromas vaizdo ir (ar) garso įrašas. Jeigu atliekant prekių kontrolinį pirkimą pažeidimo požymių nenustatyta, kontrolinio pirkimo metu sumokėti pinigai grąžinami Valstybinei vartotojų teisių apsaugos tarnybai, o prekės – verslininkui. Kontrolinių pirkimų atlikimo tvarką nustato teisingumo ministras;
 
 
 
 
-6) duoti šio įstatymo 491 straipsnyje nurodytus privalomus nurodymus panaikinti galimybę pasiekti informaciją, blokuojant interneto domeno vardą, identifikuojantį interneto svetainę; 
-Papildyta straipsnio punktu:
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
- 
+6) duoti šio įstatymo 491 straipsnyje nurodytus privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka;
 
 
 
 
-7) taikyti laikinąsias priemones pagal šio įstatymo 441 straipsnį; 
-Papildyta straipsnio punktu:
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
+7) taikyti laikinąsias priemones pagal šio įstatymo 441 straipsnį;
 
 
 
 
 8) sudaryti komisijas, darbo grupes teisės aktams rengti ar kitiems Valstybinės vartotojų teisių apsaugos tarnybos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
- 
 
 
 
 
 9) kitas įstatymų ir kitų teisės aktų nustatytas teises.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
+
+
+
+
+
+
+3. Valstybinė vartotojų teisių apsaugos tarnyba, atlikdama šio straipsnio 1 dalies  5–8 punktuose nustatytas funkcijas, turi teisę gauti iš registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų, kitų organizacijų ar jų padalinių šioms funkcijoms atlikti reikalingą informaciją, dokumentus ir duomenis, įskaitant asmens duomenis.
  
 
 
-
-
-
-
-3. Valstybinė vartotojų teisių apsaugos tarnyba, atlikdama šio straipsnio 1 dalies 5–8 punktuose nustatytas funkcijas, turi teisę gauti iš registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų, kitų organizacijų ar jų padalinių šioms funkcijoms atlikti reikalingą informaciją, dokumentus ir duomenis, įskaitant asmens duomenis. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+Straipsnio pakeitimai:
+Nr. XIV-2145, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14041
  
-
-
 
 
 
@@ -3670,50 +3623,11 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 491 straipsnis. Privalomi nurodymai interneto prieigos paslaugų teikėjams
 
 
-1. Valstybinė vartotojų teisių apsaugos tarnyba turi teisę duoti interneto prieigos paslaugų teikėjams, teikiantiems paslaugas pardavėjams, paslaugų teikėjams, kurie šiomis paslaugomis naudojasi vykdydami veiklą, kuria šiurkščiai ar sistemingai pažeidžiami vartotojų apsaugos reikalavimai, nustatyti šiame įstatyme, Civiliniame kodekse, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme ar Produktų saugos įstatyme, privalomus nurodymus panaikinti galimybę pasiekti informaciją, blokuojant interneto domeno vardą, identifikuojantį interneto svetainę, tol, kol nepašalinami pažeidimai. Šioje dalyje nurodytais interneto prieigos paslaugų teikėjais laikomi fiziniai arba juridiniai asmenys, įskaitant Lietuvos Respublikoje įregistruotus užsienio juridinio asmens filialus ar atstovybes, kurie teikia interneto prieigos paslaugas.
+Valstybinė vartotojų teisių apsaugos tarnyba turi teisę Elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoti privalomus nurodymus pašalinti informaciją, kuria šiurkščiai ar sistemingai pažeidžiami vartotojų apsaugos reikalavimai, nustatyti šiame įstatyme, Civiliniame kodekse, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme ar Produktų saugos įstatyme, ar panaikinti galimybę pasiekti šią informaciją.
 
 
-
-
-2. Valstybinė vartotojų teisių apsaugos tarnyba, siekdama įgyvendinti šio įstatymo 12 straipsnio 2 dalies 6 punkte nurodytą teisę, privalo pirmosios instancijos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Prašyme turi būti nurodyta pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jei jie žinomi), interneto svetainę identifikuojantis domeno vardas, įstatymų pažeidimų esmė ir numatomi atlikti veiksmai (privalomi nurodymai).
-Straipsnio dalies pakeitimai:
-Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
- 
-
-
-
-
-3. Teismas Valstybinės vartotojų teisių apsaugos tarnybos prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 5 dienas nuo prašymo gavimo dienos.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
- 
-
-
-
-
-4. Jeigu Valstybinė vartotojų teisių apsaugos tarnyba nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo skundo gavimo dienos.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
- 
-
-
-
-
-5. Pašalinus pažeidimą ir apie tai pateikus informaciją Valstybinei vartotojų teisių apsaugos tarnybai, prieiga prie užblokuoto interneto domeno vardo, identifikuojančio interneto svetainę, atnaujinama per 7 dienas nuo informacijos apie pašalintą pažeidimą gavimo dienos. 
-
-
-
-
-6. Valstybinės vartotojų teisių apsaugos tarnybos atstovas turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
-
-
-
-
-7. Privalomų nurodymų taikymo interneto prieigos paslaugų teikėjams tvarką nustato Vyriausybė ar jos įgaliota institucija. 
-
-
-Papildyta straipsniu:
-Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
+Straipsnio pakeitimai:
+Nr. XIV-2145, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14041
  
 
 
@@ -3836,8 +3750,6 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
- 
-
  
 Lietuvos Respublikos 
 vartotojų teisių apsaugos įstatymo 
@@ -3919,7 +3831,8 @@ Nr. XIII-1096, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06735
 Nr. XIII-1600, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18211
 Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
  
-part_b01a2a18d68d4bb99e045d064fa0accb_end
+
+
 
 
  
@@ -4114,3 +4027,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 13-1, 30, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1608, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25189
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 49-1 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2145, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14041
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12 ir 49-1 straipsnių pakeitimo įstatymas
