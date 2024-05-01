@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-20
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -8322,7 +8322,7 @@ DALYVAVIMAS JURIDINIO ASMENS VALDYME
 210 straipsnis. Darbuotojų atstovų dalyvavimas juridinio asmens valdyme
 
 
-1. Šio kodekso, Lietuvos Respublikos biudžetinių įstaigų įstatymo ir Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo nustatytais atvejais ir tvarka darbuotojų atstovai turi teisę skirti dalį juridinio asmens kolegialaus valdymo ar priežiūros organo, kuris skiriamas ar renkamas pagal šių juridinių asmenų veiklą reglamentuojančius teisės aktus ar steigimo dokumentus, narių.
+1. Šio kodekso, Lietuvos Respublikos biudžetinių įstaigų įstatymo, Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo ir Lietuvos Respublikos viešųjų įstaigų įstatymo nustatytais atvejais ir tvarka darbuotojų atstovai turi teisę skirti dalį juridinio asmens kolegialaus valdymo ar priežiūros organo, kuris skiriamas ar renkamas pagal šių juridinių asmenų veiklą reglamentuojančius teisės aktus ar steigimo dokumentus, narių.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2260, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22993
  
