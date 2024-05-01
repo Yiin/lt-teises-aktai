@@ -21,7 +21,7 @@ SRITYJE, ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-05-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4135, i. k. 1111010ISTA0XI-1491
  
@@ -1098,7 +1098,10 @@ Perkančioji organizacija, siekdama apsaugoti atliekant pirkimo procedūras tiek
 
 
 
-7. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą toms atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 58 000 (penkiasdešimt aštuoni tūkstančiai) eurų (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 145 000 (šimtas keturiasdešimt penki tūkstančiai) eurų (be pridėtinės vertės mokesčio).
+7. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą toms atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 70 000 (septyniasdešimt tūkstančių) eurų (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 174 000 (vienas šimtas septyniasdešimt keturi tūkstančiai) eurų (be pridėtinės vertės mokesčio).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
+ 
 
 
 
@@ -1214,7 +1217,9 @@ Perkančioji organizacija, siekdama apsaugoti atliekant pirkimo procedūras tiek
 
 
 
-3. Mažos vertės pirkimu laikomas toks pirkimas, kai numatoma prekių ar paslaugų pirkimo vertė yra mažesnė kaip 58 000 (penkiasdešimt aštuoni tūkstančiai) eurų (be pridėtinės vertės mokesčio), o numatoma darbų pirkimo vertė mažesnė kaip 145 000 (šimtas keturiasdešimt penki tūkstančiai) eurų (be pridėtinės vertės mokesčio), ir šio įstatymo 15 straipsnio 7 dalyje nurodytas pirkimas.
+3. Mažos vertės pirkimu laikomas toks pirkimas, kai numatoma prekių ar paslaugų pirkimo vertė yra mažesnė kaip 70 000 (septyniasdešimt tūkstančių) eurų (be pridėtinės vertės mokesčio), o numatoma darbų pirkimo vertė mažesnė kaip 174 000 (vienas šimtas septyniasdešimt keturi tūkstančiai) eurų (be pridėtinės vertės mokesčio), ir šio įstatymo 15 straipsnio 7 dalyje nurodytas pirkimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
  
 
 
@@ -3243,6 +3248,16 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
 
 
+15. Šio straipsnio 9 dalis gali būti netaikoma, kai įsigyjamos prekės bus skirtos naudoti mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais arba įsigyjamos paramai užsienio valstybėms teikti.
+Straipsnio dalies redakcija nuo 2025-05-01:
+15. Netenka galios nuo 2025-05-01.
+Papildyta straipsnio dalimi:
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
+ 
+
+
+
+
 
 
 41 straipsnis. Alternatyvūs pasiūlymai
@@ -4040,9 +4055,10 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
 
 
-8. Pirkimo sutartis gali būti sudaroma žodžiu, kai supaprastinto pirkimo sutarties vertė mažesnė kaip 5 000 (penki tūkstančiai) eurų (be pridėtinės vertės mokesčio). Šio įstatymo 17 straipsnio 4 dalyje nurodytame apraše nustatytais atvejais gali būti leidžiama žodžiu sudaryti supaprastinto pirkimo sutartis, kurių vertė ne didesnė kaip 15 000 (penkiolika tūkstančių) eurų (be pridėtinės vertės mokesčio). 
+8. Pirkimo sutartis gali būti sudaroma žodžiu, kai supaprastinto pirkimo sutarties vertė neviršija 15 000 (penkiolikos tūkstančių) eurų (be pridėtinės vertės mokesčio).
 Straipsnio dalies pakeitimai:
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
  
 
 
@@ -5106,3 +5122,8 @@ Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 15, 16, 40 ir 52 straipsnių pakeitimo įstatymas
