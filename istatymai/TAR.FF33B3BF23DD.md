@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -1832,28 +1832,158 @@ Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
 
 
 
-3. Sveikatos apsaugos ministro nustatyta tvarka gali būti tiekiami Lietuvos Respublikos rinkai ir vartojami sveikatos priežiūrai šie neregistruoti vaistiniai preparatai:
+3. Jeigu nėra galimybių pacientą gydyti arba gydyti efektyviai vartojant registruotus vaistinius preparatus, Lietuvos Respublikos rinkai gali būti tiekiami ir vartojami sveikatos priežiūrai neregistruoti vaistiniai preparatai, kurių tiekimo, įsigijimo, skyrimo ir (ar) išrašymo, pardavimo (išdavimo) ir apskaitos tvarką nustato sveikatos apsaugos ministras. Neregistruotų vaistinių preparatų grupės yra šios:
 
 
-1) būtinieji vaistiniai preparatai, jeigu jie registruoti bent vienoje EEE valstybėje; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+1) būtinieji vaistiniai preparatai, registruoti bent vienoje kitoje EEE valstybėje;
+
+
+
+
+2) vardiniai vaistiniai preparatai, atitinkantys vieną iš šio punkto a–d papunkčiuose nurodytų sąlygų ir, jeigu vaistinis preparatas yra homeopatinis ar augalinis vaistinis preparatas arba vaistinis preparatas, kurio sudėtyje yra narkotinių, psichotropinių medžiagų, įrašytų į sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų II sąrašą, taip pat ir šio punkto e papunktyje nurodytą sąlygą:
+
+
+a) vaistinis preparatas yra registruotas bent vienoje kitoje EEE valstybėje;
+
+
+
+
+b) vaistinis preparatas yra registruotas trečiojoje šalyje, su kuria Europos Sąjunga yra sudariusi šio įstatymo 29 straipsnio 3 dalyje nurodytą abipusio pripažinimo sutartį;
+
+
+
+
+c) vaistinis preparatas yra registruotas trečiojoje šalyje, su kuria Europos Sąjunga nėra sudariusi šio įstatymo 29 straipsnio 3 dalyje nurodytos abipusio pripažinimo sutarties, ir gaminamas šioje trečiojoje šalyje;
+
+
+
+
+d) vaistinis preparatas yra EEE valstybėje ir trečiojoje šalyje neregistruotas vaistinis preparatas, kurio klinikiniai tyrimai yra atliekami arba atlikti (toliau – EEE valstybėje ir trečiojoje šalyje neregistruotas vardinis vaistinis preparatas);
+
+
+
+
+e) homeopatinis ar augalinis vaistinis preparatas yra registruotas EEE valstybėje su patvirtintomis terapinėmis indikacijomis arba vaistinis preparatas, kurio sudėtyje yra narkotinių, psichotropinių medžiagų, įrašytų į sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų II sąrašą, yra įrašytas į Lietuvos Respublikos teisės aktus, nustatančius ligų ir sveikatos sutrikimų diagnostikos ir gydymo tvarką. 
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
 
 
-2) vardiniai vaistiniai preparatai, kai gydytojas, skirdamas juos vartoti pavieniam pacientui, prisiima tiesioginę ir asmeninę atsakomybę.
+31. Skiriant ir (ar) išrašant EEE valstybėje ir trečiojoje šalyje neregistruotą vardinį vaistinį preparatą turi būti laikomasi šių reikalavimų:
+
+
+1) šis vaistinis preparatas gali būti skiriamas tik sunkia sekinančia arba gresiančia gyvybei liga arba liga, dėl kurios gali išsivystyti ilgalaikis ar reikšmingas neįgalumas, sergantiems pacientams, kurie negali būti efektyviai gydomi registruotais vaistiniais preparatais arba vardiniais vaistiniais preparatais, kurie nėra EEE valstybėje ir trečiojoje šalyje neregistruoti vardiniai vaistiniai preparatai. EEE valstybėje ir trečiojoje šalyje neregistruoti vardiniai vaistiniai preparatai gali būti skiriami tik pacientams, kurie nedalyvauja klinikiniame šio vaistinio preparato tyrime ir negali būti į jį įtraukti;
+
+
+
+
+2) turi būti atliekami ar atlikti klinikiniai šio vaistinio preparato tyrimai, atitinkantys šiuos reikalavimus:
+
+
+a) klinikinis šio vaistinio preparato tyrimas turi būti atliekamas ar atliktas EEE valstybėje arba trečiojoje šalyje pagal Tarptautinės tarybos dėl žmonėms skirtų vaistinių preparatų registracijai taikomų techninių reikalavimų suderinimo priimtas išsamias gerosios klinikinės praktikos gaires; 
+
+
+
+
+b) atliekamas ar atliktas klinikinis EEE valstybėje ir trečiojoje šalyje neregistruoto vardinio vaistinio preparato tyrimas turi būti registruotas Europos Sąjungos klinikinių tyrimų registre arba viešai prieinamoje duomenų bazėje, kuri yra pirminis arba partnerinis Pasaulio sveikatos organizacijos tarptautinės klinikinių vaistinių preparatų tyrimų registrų platformos registras, arba kuri yra trečiosios šalies, su kuria Europos Sąjunga yra sudariusi šio įstatymo 29 straipsnio 3 dalyje nurodytą abipusio pripažinimo sutartį, klinikinių vaistinių preparatų tyrimų registras;
+
+
+
+
+c) šio punkto b papunktyje nurodytuose registruose, Europos vaistų agentūros ir (ar) valstybių kompetentingų institucijų skelbiamoje informacijoje apie klinikinius vaistinio preparato tyrimus, moksliniuose straipsniuose ir (ar) mokslinių duomenų bazėse yra pakankamai informacijos apie tai, kad atliekamo ar atlikto klinikinio EEE valstybėje ir trečiojoje šalyje neregistruoto vardinio vaistinio preparato tyrimo rezultatai pagrindžia jo saugumą ir veiksmingumą, teigiamą naudos ir rizikos santykį numatytai pacientų populiacijai bei pakanka duomenų apie rekomenduojamą EEE valstybėje ir trečiojoje šalyje neregistruoto vardinio vaistinio preparato vartojimą (indikacijas, vartojimo būdą, dozavimą, gydymo kursą, nepageidaujamas reakcijas, kontraindikacijas);
 
 
 
 
 
 
-4. Įvežti iš kitos EEE valstybės neregistruotus vaistinius preparatus arba importuoti iš trečiosios šalies vardinius vaistinius preparatus ir šio straipsnio 18 ir 21 dalyse nurodytus neregistruotus vaistinius preparatus bei pagalbinius vaistinius preparatus į Lietuvos Respubliką gali tik juridiniai asmenys, šio įstatymo nustatyta tvarka gavę didmeninio platinimo licenciją.
+3) EEE valstybėje ir trečiojoje šalyje neregistruotą vardinį vaistinį preparatą galima skirti tik asmens sveikatos priežiūros įstaigos gydytojų konsiliumo (toliau – konsiliumas) sprendimu gavus rašytinį asmens sveikatos priežiūros įstaigos medicinos etikos komisijos pritarimą ir Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka rašytinį informuoto paciento arba jo atstovo sutikimą vartoti šį EEE valstybėje ir trečiojoje šalyje neregistruotą vardinį vaistinį preparatą. Gydantis gydytojas, norėdamas gauti informuoto paciento arba jo atstovo sutikimą, turi išaiškinti pacientui arba jo atstovui, kad skiria EEE valstybėje ir trečiojoje šalyje neregistruotą vardinį vaistinį preparatą, pateikti išsamią informaciją apie EEE valstybėje ir trečiojoje šalyje neregistruoto vardinio vaistinio preparato skyrimo priežastis, laukiamą terapinę naudą, vartojimo ypatumus, atsargumo priemones, galimą nepageidaujamą poveikį, galimus alternatyvius gydymo metodus, galimus padarinius atsisakius siūlomo gydymo ir kitas aplinkybes, kurios gali turėti įtakos paciento arba jo atstovo apsisprendimui sutikti ar atsisakyti siūlomo gydymo. Pacientų teisių ir žalos sveikatai atlyginimo įstatymo 18 straipsnyje nustatytais atvejais EEE valstybėje ir trečiojoje šalyje neregistruotas vardinis vaistinis preparatas gali būti skiriamas šioje dalyje nustatyta tvarka be paciento ar jo atstovo sutikimo. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+4. Įsigyti šio straipsnio 3 dalyje nurodytus neregistruotus vaistinius preparatus turi teisę:
+
+
+1) juridiniai asmenys, šio įstatymo nustatyta tvarka gavę didmeninio platinimo licenciją:
+
+
+a) neregistruotus būtinuosius vaistinius preparatus, vardinius vaistinius preparatus, nurodytus šio straipsnio 3 dalies 2 punkto a ir d papunkčiuose, iš EEE valstybės;
+
+
+
+
+b) vardinius vaistinius preparatus, nurodytus šio straipsnio 3 dalies 2 punkto b, c ir d papunkčiuose, iš atitinkamame papunktyje nurodytos trečiosios šalies;
+
+
+
+
+c) šio straipsnio 18 dalyje nurodytus ikiklinikiniams tyrimams reikalingus neregistruotus vaistinius preparatus ir šio straipsnio 21 dalyje nurodytus klinikiniams vaistinių preparatų tyrimams reikalingus neregistruotus pagalbinius vaistinius preparatus iš EEE valstybės ir (ar) trečiosios šalies;
+
+
+
+
+
+
+2) juridiniai asmenys, turintys Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai (toliau – asmens sveikatos priežiūros įstaigos):
+
+
+a) būtinuosius vaistinius preparatus ir vardinius vaistinius preparatus, nurodytus šio straipsnio 3 dalies 2 punkto a papunktyje, iš EEE valstybių, jeigu asmens sveikatos priežiūros įstaiga turi ligoninės vaistinę ir yra prisijungusi prie Lietuvos Respublikos teritoriją aptarnaujančios kaupyklos, nurodytos Reglamento (ES) 2016/161 32 straipsnio 1 dalies b punkte (toliau – Lietuvos nacionalinė kaupykla);
+
+
+
+
+b) vardinius vaistinius preparatus, nurodytus šio straipsnio 3 dalies 2 punkto b papunktyje, iš trečiosios šalies, su kuria Europos Sąjunga yra sudariusi šio įstatymo 29 straipsnio 3 dalyje nurodytą abipusio pripažinimo sutartį, jeigu asmens sveikatos priežiūros įstaiga turi ligoninės vaistinę;
+
+
+
+
+c) EEE valstybėje ir trečiojoje šalyje neregistruotus vardinius vaistinius preparatus iš EEE valstybių ir (ar) trečiųjų šalių, jeigu asmens sveikatos priežiūros įstaiga turi ligoninės vaistinę;
+
+
+
+
+d) Vyriausybės ar sveikatos apsaugos ministro įgaliotų institucijų valstybės biudžeto, Privalomojo sveikatos draudimo fondo biudžeto ir (ar) kitomis lėšomis perkamus neregistruotus vaistinius preparatus, jeigu pirkimą vykdanti institucija asmens sveikatos priežiūros įstaigą nurodo kaip neregistruoto vaistinio preparato gavėją, iš EEE valstybių ir (ar) trečiųjų šalių;
+
+
+
+
+e) iš juridinių asmenų, šio įstatymo nustatyta tvarka įgijusių didmeninio platinimo ar gamybos licenciją. 
+
+
+
+
 Straipsnio dalies pakeitimai:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+41. Įsigyti šio straipsnio 3 dalyje nurodytus neregistruotus vaistinius preparatus, kurių sudėtyje yra narkotinių, psichotropinių medžiagų, įrašytų į sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų II sąrašą, arba psichotropinių medžiagų, įrašytų į sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų III sąrašą, iš EEE valstybių ir (ar) trečiųjų šalių turi teisę tik juridiniai asmenys, turintys didmeninio platinimo licenciją, išduotą šio įstatymo nustatyta tvarka, ir atitinkamą Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo nustatyta tvarka išduotą licenciją. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
+ 
+
+
+
+
+42. Didmeninio platinimo licencijos turėtojai ir asmens sveikatos priežiūros įstaigos, įsigyjantys neregistruotų vaistinių preparatų pagal šio straipsnio 4 dalies nuostatas, turi  įsitikinti, kad neregistruoti vaistiniai preparatai būtų įsigyjami atitinkamai iš EEE valstybių asmenų, turinčių didmeninio platinimo ar gamybos licenciją, išduotą kitos EEE valstybės įgaliotos institucijos, arba trečiosios šalies asmenų, turinčių teisę tiekti vaistinius preparatus pagal tos šalies teisės aktus. Asmens sveikatos priežiūros įstaigos apie įsigytus šio straipsnio 4 dalies 2 punkto a ir b papunkčiuose nurodytus vaistinius preparatus turi pranešti Valstybinei vaistų kontrolės tarnybai jos viršininko nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2082, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13984
  
 
 
@@ -8224,8 +8354,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-
  
 Lietuvos Respublikos
 2006 m. birželio 22 d. 
@@ -8313,7 +8441,8 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_025f1d9917f949f7a46b6942ddce5615_end
+
+
 
 
 Pakeitimai:
