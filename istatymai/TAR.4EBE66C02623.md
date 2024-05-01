@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2024-03-28 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-05-15
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -10643,8 +10643,11 @@ užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų p
 
 
 
-5. Medžiojimas draudžiamais įrankiais, priemonėmis, draudžiamais medžioklės būdais, nustatytais Medžioklės Lietuvos Respublikos teritorijoje taisyklėse, 
+5. Medžiojimas Lietuvos Respublikos medžioklės įstatyme nurodytais draudžiamais įrankiais ir priemonėmis, taip pat Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytais draudžiamais medžioklės būdais
 užtraukia baudą nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2485, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04800
+ 
 
 
 
@@ -27987,3 +27990,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 66 ir 67 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2502, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05466
 Lietuvos Respublikos administracinių nusižengimų kodekso 349 straipsnio pakeitimo įstatymas
+ 
+224.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2485, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04800
+Lietuvos Respublikos administracinių nusižengimų kodekso 290 straipsnio pakeitimo įstatymas
