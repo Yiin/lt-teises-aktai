@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5468a25089ef11e4a98a9f2247652cf4"
 
 # Lietuvos Respublikos kibernetinio saugumo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-10-17
  
 Įstatymas paskelbtas: TAR 2014-12-23, i. k. 2014-20553
  
@@ -850,7 +850,18 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-3) jeigu galimybė teikti šiuos duomenis yra nustatyta įstatymuose ar jų pagrindu priimtuose teisės aktuose. 
+3) valdant ir tiriant kibernetinius incidentus tiek, kiek tai būtina šio įstatymo 14 straipsnio 1 ir 2 dalyse nustatytoms institucijų funkcijoms atlikti; 
+Papildyta straipsnio punktu:
+Nr. XIV-1864, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06471
+ 
+
+
+
+
+4) jeigu galimybė teikti šiuos duomenis yra nustatyta įstatymuose ar jų pagrindu priimtuose teisės aktuose. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-1864, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06471
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -858,6 +869,29 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
  
 
 
+
+
+
+
+131 straipsnis. Duomenų apie privalomus nurodymus tvarkymas Kibernetinio saugumo informaciniame tinkle
+
+
+1. Kibernetinio saugumo informaciniame tinkle įstatymų nustatytais atvejais tvarkomi duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę.
+
+
+
+
+2. Šio straipsnio 1 dalyje nustatytus nurodymus duodančios institucijos ir juos įgyvendinantys kibernetinio saugumo subjektai privalo naudotis Kibernetinio saugumo informacinio tinklo dalimi, kurioje tvarkomi duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę, nepriklausomai nuo kibernetinio saugumo subjektų atitikties Kibernetinio saugumo informacinio tinklo nuostatuose nurodytiems reikalavimams.
+
+
+
+
+3. Kibernetinio saugumo informaciniame tinkle viešai skelbiami duomenys apie privalomus nurodymus blokuoti domeno vardą, identifikuojantį interneto svetainę.
+
+
+Papildyta straipsniu:
+Nr. XIV-1864, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06471
+ 
 
 
 
