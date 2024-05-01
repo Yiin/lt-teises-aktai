@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-20
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -702,7 +702,10 @@ Nr. XIV-2254, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22985
 
 
 
-9. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 58 000 Eur (penkiasdešimt aštuoni tūkstančiai eurų) (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 145 000 Eur (šimtas keturiasdešimt penki tūkstančiai eurų) (be pridėtinės vertės mokesčio). 
+9. Neatsižvelgdama į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkančioji organizacija turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 70 000 Eur (septyniasdešimt tūkstančių eurų) (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 174 000 Eur (vienas šimtas septyniasdešimt keturi tūkstančiai eurų) (be pridėtinės vertės mokesčio).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2532, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07265
+ 
 
 
 
@@ -2876,6 +2879,17 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 
+11. Šio straipsnio 9 dalis gali būti netaikoma, kai įsigyjamos prekės bus skirtos naudoti mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais arba paramai užsienio valstybėms teikti.
+ 
+Straipsnio dalies redakcija nuo 2025-05-01:
+11. Netenka galios nuo 2025-05-01.
+Papildyta straipsnio dalimi:
+Nr. XIV-2531, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07264
+ 
+
+
+
+
 
 
 38 straipsnis. Ženklinimas 
@@ -3672,6 +3686,17 @@ Papildyta straipsnio dalimi:
 Nr. XIV-954, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05371
 Straipsnio dalies pakeitimai:
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
+ 
+
+
+
+
+11. Šio straipsnio 9 dalis gali būti netaikoma, kai įsigyjamos prekės bus skirtos naudoti mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais arba paramai užsienio valstybėms teikti.
+ 
+Straipsnio dalies redakcija nuo 2025-05-01:
+11. Netenka galios nuo 2025-05-01.
+Papildyta straipsnio dalimi:
+Nr. XIV-2531, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07264
  
 
 
@@ -6525,11 +6550,12 @@ Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 
 
 
-7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 10 000 Eur (dešimt tūkstančių eurų) (be pridėtinės vertės mokesčio). Šio įstatymo 25 straipsnio 3 ir 4 dalyse nurodytuose aprašuose nustatytais atvejais, taip pat prekių ir paslaugų, skirtų moksliniams tyrimams ir (ar) eksperimentinei veiklai, pirkimo atvejais pirkimo sutartis žodžiu gali būti sudaroma, kai supaprastinto pirkimo sutarties vertė neviršija 15 000 Eur (penkiolikos tūkstančių eurų) (be pridėtinės vertės mokesčio).
+7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 15 000 Eur (penkiolikos tūkstančių eurų) (be pridėtinės vertės mokesčio).
 Straipsnio dalies pakeitimai:
 Nr. XIV-545, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21632
 Nr. XIV-1669, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27253
 Nr. XIV-2374, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25328
+Nr. XIV-2532, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07265
  
 
 
@@ -9365,3 +9391,13 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 25, 71 ir 86 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2441, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25934
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 2 ir 71 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2532, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07265
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 5 ir 86 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2531, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07264
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 37 ir 47 straipsnių pakeitimo įstatymas
