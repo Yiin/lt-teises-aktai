@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/3a7ca560a55311eea5a28c81c82193a8"
 
 # Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 7, 18, 20, 29, 31, 33, 34 ir 35 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2024-04-04 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01
  
 Įstatymas paskelbtas: TAR 2023-12-28, i. k. 2023-25641
  
