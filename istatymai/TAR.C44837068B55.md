@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2024-04-26 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-07-24
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -4020,14 +4020,41 @@ Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 
 
-7) laikinas uždraudimas finansų įstaigai teikti vieną ar kelias finansines paslaugas.
+7) laikinas uždraudimas finansų įstaigai teikti vieną ar kelias finansines paslaugas;
+
+
+
+
+8) kai kitas įpareigotasis subjektas sistemingai pažeidžia šį įstatymą arba padaro vieną šiurkštų šio įstatymo pažeidimą, arba šį įstatymą pažeidžia pakartotinai per vienus metus nuo poveikio priemonės už šio įstatymo pažeidimą paskyrimo, – laikinas uždraudimas (apribojimas) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas tol, kol tęsiamas šio įstatymo pažeidimas;
+Papildyta straipsnio punktu:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
+
+
+
+
+9) kai kitas įpareigotasis subjektas neįgyvendina priežiūros institucijos sprendimo laikinai uždrausti kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas arba kai, pasibaigus laikino uždraudimo (apribojimo) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas terminui, aplinkybės, dėl kurių kitam įpareigotajam subjektui buvo laikinai uždrausta teikti vieną ar kelias paslaugas, nėra išnykusios, – visam laikui uždraudimas kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas;
+Papildyta straipsnio punktu:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
+
+
+
+
+10) kai virtualiųjų valiutų keityklos operatorius ir (ar) depozitinių virtualiųjų valiutų piniginių operatorius priežiūros institucijai sistemingai neteikia informacijos ar teikia neteisingą informaciją, sistemingai pažeidžia šį įstatymą arba padaro šiurkštų šio įstatymo pažeidimą, arba šį įstatymą pažeidžia pakartotinai per vienus metus nuo poveikio priemonės už šio įstatymo pažeidimą paskyrimo, – laikinas ar visam laikui virtualiųjų valiutų keityklos operatoriaus ir (ar) depozitinių virtualiųjų valiutų piniginių operatoriaus veiklos uždraudimas (apribojimas). 
+Papildyta straipsnio punktu:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
 
 
 
-2. Finansinių nusikaltimų tyrimo tarnyba taiko šio straipsnio 1 dalies 1–6 punktuose nurodytas poveikio priemones.
+2. Finansinių nusikaltimų tyrimo tarnyba taiko šio straipsnio 1 dalies 1–6, 8, 9 ir 10 punktuose nurodytas poveikio priemones. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
@@ -4430,6 +4457,54 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
  
 
 
+
+
+
+
+461 straipsnis. Laikinas ar visam laikui uždraudimas (apribojimas) kitiems įpareigotiesiems subjektams teikti vieną ar kelias paslaugas
+
+
+1. Kitų įpareigotųjų subjektų paslaugų teikimo apribojimus nustato šis įstatymas ir priežiūros institucijos sprendimas dėl laikino ar visam laikui uždraudimo (apribojimo) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas.
+
+
+
+
+2. Priežiūros institucijai priėmus sprendimą laikinai uždrausti (apriboti) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas, kitas įpareigotasis subjektas neturi teisės teikti priežiūros institucijos sprendime nurodytų paslaugų tol, kol tęsiamas šio įstatymo pažeidimas. 
+
+
+
+
+3. Laikino uždraudimo (apribojimo) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas terminą nustato priežiūros institucija. Šis terminas negali būti ilgesnis kaip 4 mėnesiai. Kai nustatoma, kad laikino uždraudimo (apribojimo) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas pagrindu galinčios būti aplinkybės nėra išnykusios, šis terminas priežiūros institucijos sprendimu gali būti pratęstas ne ilgiau kaip 4 mėnesiams.
+
+
+
+
+4. Priežiūros institucijai priėmus sprendimą laikinai uždrausti (apriboti) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas, kitas įpareigotasis subjektas ne vėliau kaip per 10 darbo dienų nuo sprendimo priėmimo dienos priežiūros institucijai pateikia išorės audito ataskaitą apie priežiūros institucijos sprendime nurodytų paslaugų teikimo nutraukimą. Priežiūros institucija turi teisę reikalauti, kad kitas įpareigotasis subjektas per priežiūros institucijos nurodytą ne trumpesnį kaip 10 darbo dienų terminą pateiktų pakartotinę išorės audito ataskaitą apie priežiūros institucijos sprendime nurodytų paslaugų teikimo nutraukimą, jeigu kyla pagrįstų abejonių dėl sprendimo laikinai uždrausti kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas vykdymo. 
+
+
+
+
+5. Išnykus laikino uždraudimo (apribojimo) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas pagrindui, priežiūros institucija nedelsdama, ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad pagrindas išnyko, priima sprendimą nutraukti laikiną uždraudimą (apribojimą) kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas. 
+
+
+
+
+6. Priežiūros institucijai priėmus sprendimą visam laikui uždrausti kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas, kitas įpareigotasis subjektas neturi teisės teikti priežiūros institucijos sprendime nurodytų paslaugų ir privalo nedelsdamas nutraukti priežiūros institucijos sprendime nurodytų paslaugų teikimą. 
+
+
+
+
+7. Apie priimtą sprendimą taikyti, pratęsti ar nutraukti laikiną uždraudimą (apribojimą) kitam įpareigotajam subjektui, kuris yra juridinis asmuo arba Lietuvos Respublikoje įsteigtas Europos Sąjungos valstybės narės ar užsienio valstybės juridinio asmens filialas, teikti vieną ar kelias paslaugas arba apie priimtą sprendimą uždrausti vykdyti Juridinių asmenų registre registruojamą veiklą ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama Juridinių asmenų registro tvarkytojui. Apie priimtą sprendimą taikyti, pratęsti ar nutraukti laikiną uždraudimą (apribojimą) arba taikyti visam laikui uždraudimą kitam įpareigotajam subjektui teikti vieną ar kelias paslaugas arba vykdyti veiklą ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos paskelbiama priežiūros institucijos interneto svetainėje.
+
+
+
+
+8. Šis straipsnis netaikomas finansų įstaigoms ir kitiems įpareigotiesiems subjektams, kuriems būtina turėti licenciją ar leidimą vykdyti veiklą, ir priežiūros institucijoms, kurios išdavė licenciją ar leidimą vykdyti veiklą.
+
+
+Papildyta straipsniu:
+Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
+ 
 
 
 
