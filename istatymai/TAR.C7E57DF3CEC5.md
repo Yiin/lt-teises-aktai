@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -1486,7 +1486,10 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 155 straipsnis. Stambiems projektams taikomos specialios investavimo ir verslo sąlygos
 
 
-1. Šiame straipsnyje nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šios sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o šio straipsnio 9 dalyje nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio 3 dalyje nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo.
+1. Šiame straipsnyje, išskyrus šio straipsnio 10 dalį, nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šios sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą dienos iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o šio straipsnio 9 dalyje nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio 3 dalyje nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo dienos. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
+ 
 
 
 
@@ -1593,6 +1596,13 @@ Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
 
 
 9. Investuotojui pelno mokesčio lengvatos taikomos Lietuvos Respublikos pelno mokesčio įstatymo nustatyta tvarka. 
+
+
+
+
+10. Stambus projektas Lietuvos Respublikos Vyriausybės nutarimu gali būti pripažintas užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius. Motyvuotą siūlymą dėl stambaus projekto pripažinimo užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius Lietuvos Respublikos Vyriausybei teikia Lietuvos Respublikos ekonomikos ir inovacijų ministerija, gavusi Lietuvos Respublikos krašto apsaugos ministerijos motyvuotą pritarimą. Stambiam projektui, Lietuvos Respublikos Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, taikomos ir kitos, šiame straipsnyje nenumatytos, specialios investavimo ir verslo sąlygos, kai šios specialios sąlygos nustatytos Statybos įstatyme, Žemės įstatyme, Teritorijų planavimo įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
  
 
 
@@ -1869,3 +1879,13 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13-1 ir 15-5 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12, 13 ir 15-5 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13-1 ir 15-4 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2563, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07716
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-5 straipsnio pakeitimo įstatymas
