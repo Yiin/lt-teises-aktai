@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-11-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -310,7 +310,10 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 2. Aplinkos ministerija:
 
 
-1) tvirtina Medžioklės Lietuvos Respublikos teritorijoje taisykles, kuriose nustato: medžiojamųjų gyvūnų rūšių sąrašą ir šių gyvūnų medžioklės terminus; draudžiamus ir leidžiamus medžioklės būdus ir jų taikymo terminus, draudžiamus ir leidžiamus naudoti įrankius; medžiojamųjų gyvūnų, kurių medžiojimas yra ribojamas, sąrašą ir kasmetinio jų sumedžiojimo limitų Lietuvos Respublikoje bei atskiruose medžioklės plotų vienetuose nustatymo tvarką; saugaus elgesio medžioklėje reikalavimus bei kitus medžiojimo reikalavimus;
+1) tvirtina Medžioklės Lietuvos Respublikos teritorijoje taisykles, kuriose nustato: medžiojamųjų gyvūnų rūšių sąrašą ir šių gyvūnų medžioklės terminus; draudžiamus ir leidžiamus medžioklės būdus ir jų taikymo terminus; leidžiamų naudoti įrankių ir priemonių naudojimo medžioklėje tvarką; medžiojamųjų gyvūnų, kurių medžiojimas yra ribojamas, sąrašą ir kasmetinio jų sumedžiojimo limitų Lietuvos Respublikoje bei atskiruose medžioklės plotų vienetuose nustatymo tvarką; saugaus elgesio medžioklėje reikalavimus ir kitus medžiojimo reikalavimus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2483, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04797
+ 
 
 
 
@@ -1214,6 +1217,172 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 
 
+151 straipsnis. Draudžiami medžioklėje naudoti įrankiai ir priemonės
+
+
+Draudžiama medžioklėje naudoti šiuos įrankius ir priemones:
+
+
+1) automatinius šaunamuosius ginklus;
+
+
+
+
+2) elektros aparatus, skirtus gyvūnams apsvaiginti ar užmušti;
+
+
+
+
+3) sprogmenis, nuodus, užnuodytą ar anestezuojantį jauką arba jaukui ir masalui naudoti gyvus gyvūnus;
+
+
+
+
+4) dūmus, dujas ar ugnį gyvūnams varyti iš jų slėptuvių;
+
+
+
+
+5) naktinius taikiklius ar jų priedus, pritvirtintus prie optinių taikiklių, išskyrus šio įstatymo 152 straipsnio 12 punkte numatytas išimtis;
+
+
+
+
+6) kilpas gyvūnams gaudyti;
+
+
+
+
+7) veidrodžius ar kitas akinamąsias priemones, dirbtinius šviesos šaltinius, išskyrus prie šautuvo pritvirtintus prožektorius, kai medžiojami šernai, lapės, mangutai, paprastieji meškėnai, kanadinės audinės, nutrijos ir ondatros, medžiojama su medžiokliniais šunimis arba ieškoma sužeistų žvėrių;
+
+
+
+
+8) pusiau automatinius šaunamuosius ginklus, kurių dėtuvėse telpa daugiau kaip 2 šoviniai (pusiau automatinius šautuvus, kurių dėtuvėse telpa daugiau kaip 2 šoviniai, leidžiama naudoti medžioklėje, jeigu dėtuvėse įtaisyti ribotuvai, neleidžiantys panaudoti daugiau kaip 2 šovinių), arbaletus, lankus ir kitus templinius ginklus;
+
+
+
+
+9) elektrinius, elektroninius ar magnetinius garso atkūrimo prietaisus gyvūnams vilioti;
+
+
+
+
+10) graižtvinių ginklų kitokias nei ekspansyviąsias kulkas medžiojant kanopinius žvėris;
+
+
+
+
+11) visų dydžių šratus ir grankulkes medžiojant kanopinius žvėris;
+
+
+
+
+12) švininius arba švino junginių turinčius šratus paukščiams medžioti;
+
+
+
+
+13) šovinius, neturinčius būtinos šaudmens energijos: medžiojant stirnas – graižtvinių ginklų šovinius, kurių kulkos energija 100 m atstumu yra mažesnė kaip 1 000 J; medžiojant danielius, antramečius šernus ir jauniklius – graižtvinių ginklų šovinius, kurių kulkos energija 100 m atstumu yra mažesnė kaip 2 000 J; medžiojant briedžius, tauriuosius elnius ir suaugusius šernus – graižtvinių ginklų šovinius, kurių kulkos energija 100 m atstumu yra mažesnė kaip 2 500 J;
+
+
+
+
+14) tinklus paukščiams gaudyti, klijus, kablius ir kitus įrankius ar priemones, kurie nenurodyti kaip leistini;
+
+
+
+
+15) kovinius ir pavojingus šunis bei kovinių ir pavojingų šunų mišrūnus.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-2483, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04797
+ 
+
+
+
+
+152 straipsnis. Leidžiami medžioklėje naudoti įrankiai ir priemonės
+
+
+Leidžiama medžioklėje naudoti šiuos įrankius ir priemones: 
+
+
+1) ilguosius graižtvinius ir lygiavamzdžius ginklus su optiniais taikikliais ar be jų;
+
+
+
+
+2) B ir C kategorijų trumpuosius šaunamuosius ginklus, kai siekiant nutraukti kančias pribaigiamas sužeistas ar sužalotas arba gyvagaudžiais spąstais pagautas medžiojamasis gyvūnas;
+
+
+
+
+3) tinklus, graibštus, gaudykles, užtikrinančius gyvo ir nesužeisto gyvūno pagavimą;
+
+
+
+
+4) selektyviuosius spąstus, užtikrinančius staigią pagauto gyvūno žūtį;
+
+
+
+
+5) medžioklinius durklus, kai siekiant nutraukti kančias pribaigiamas sužeistas ar sužalotas medžiojamasis gyvūnas;
+
+
+
+
+6) iškamšas, muliažus, natūralios kilmės masalą, feromoninius ir cheminius jaukus, kitus, išskyrus  šio įstatymo 151 straipsnio 9 punkte nurodytuosius, prietaisus ir priemones gyvūnams vilioti;
+
+
+
+
+7) peilius, vėliavėles;
+
+
+
+
+8) medžioklinius šunis, plėšriuosius paukščius, žirgus;
+
+
+
+
+9) žiūronus, naktinio stebėjimo prietaisus, stacionarius ar kilnojamus tykojimo bokštelius ir dirbtines priedangas, slėptuves;
+
+
+
+
+10) sausumos ir vandens transporto priemones;
+
+
+
+
+11) prožektorius, pritvirtintus prie šautuvo, medžiojant šernus, lapes, mangutus, paprastuosius meškėnus, kanadines audines, nutrijas ir ondatras, kai medžiojama su medžiokliniais šunimis arba ieškoma sužeistų žvėrių;
+
+
+
+
+12) naktinius taikiklius ar jų priedus, pritvirtintus prie optinių taikiklių, medžiojant šernus, lapes, mangutus, paprastuosius meškėnus, kanadines audines, nutrijas ir ondatras;
+
+
+
+
+13) pusiau automatinius šaunamuosius ginklus, kurių dėtuvėse telpa daugiau kaip 2 šoviniai, jeigu dėtuvėse įtaisyti ribotuvai, neleidžiantys panaudoti daugiau kaip 2 šovinių.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-2483, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04797
+ 
+
+
+
+
 16 straipsnis. Teisės medžioti panaikinimas
 
 
@@ -1518,6 +1687,35 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+
+
+
+
+ 
+Lietuvos Respublikos
+medžioklės įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/17/ES. 
+
+
+
+
+2. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos (kodifikuota redakcija) su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010.
+
+
+
+
+____________________
+
+
+Papildyta priedu:
+Nr. XIV-2483, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04797
+ 
  
  
 Pakeitimai:
@@ -1581,3 +1779,8 @@ Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 16 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3299, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21148
 Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2483, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04797
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas
