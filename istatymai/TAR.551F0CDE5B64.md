@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -5384,27 +5384,27 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-2. Teisių subjektai, jų įgalioti asmenys ar kolektyvinio administravimo organizacijos (be atskiro kolektyviai administruojamų teisių subjektų įgaliojimo), gindami savo teises, pagal įgaliojimą atstovaujamų teisių subjektų teises ar kolektyviai administruojamas teises į kūrinius ar gretutinių teisių objektus, taip pat turi teisę kreiptis į Lietuvos radijo ir televizijos komisiją su prašymu taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams, teikiantiems paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi vykdydami veiklą, kuria kūriniai, gretutinių teisių ar sui generis teisių objektai (toliau šiame straipsnyje – autorių teisių saugomas turinys) neteisėtai viešai paskelbiami viešo naudojimo kompiuterių tinklais (internete). Šioje dalyje nurodytais interneto prieigos paslaugų teikėjais laikomi fiziniai arba juridiniai asmenys, įskaitant Lietuvos Respublikoje įregistruotus užsienio juridinio asmens filialus ar atstovybes, kurie teikia interneto prieigos paslaugas (toliau šiame straipsnyje – interneto prieigos paslaugų teikėjai).
+2. Teisių subjektai, jų įgalioti asmenys ar kolektyvinio administravimo organizacijos (be atskiro kolektyviai administruojamų teisių subjektų įgaliojimo), gindami savo teises, pagal įgaliojimą atstovaujamų teisių subjektų teises ar kolektyviai administruojamas teises į kūrinius ar gretutinių teisių objektus, taip pat turi teisę kreiptis į Lietuvos radijo ir televizijos komisiją su prašymu taikyti privalomus nurodymus pašalinti su autorių teisių, gretutinių teisių ar sui generis teisių pažeidimu susijusią informaciją ar panaikinti galimybę ją pasiekti, kai kūriniai, gretutinių teisių ar sui generis teisių objektai (toliau šiame straipsnyje – autorių teisių saugomas turinys) neteisėtai viešai paskelbiami viešo naudojimo kompiuterių tinklais (internete).
 
 
 
 
-3. Lietuvos radijo ir televizijos komisija, įgyvendindama šio straipsnio 2 dalyje numatytas nuostatas, turi teisę duoti interneto prieigos paslaugų teikėjams privalomus nurodymus panaikinti galimybę pasiekti neteisėtai viešai paskelbtą autorių teisių saugomą turinį, blokuojant interneto domeno vardą, identifikuojantį interneto svetainę, tol, kol nepašalinamas autorių teisių saugomo turinio pažeidimas. 
+3. Lietuvos radijo ir televizijos komisija, įgyvendindama šio straipsnio 2 dalyje numatytas nuostatas, turi teisę duoti privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją (neteisėtai viešai paskelbtą autorių teisių saugomą turinį) Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka.
 
 
 
 
-4. Lietuvos radijo ir televizijos komisija šio straipsnio 2 dalyje numatytiems interneto prieigos paslaugų teikėjams gali taikyti šio straipsnio 3 dalyje numatytus privalomus nurodymus tik nustačiusi, kad teisių subjektai, jų įgalioti asmenys ar kolektyvinio administravimo organizacijos prieš tai išnaudojo neteismines priemones siekdami, kad būtų nutrauktas autorių teisių saugomo turinio viešas skelbimas viešo naudojimo kompiuterių tinkluose (internete). Jeigu Lietuvos radijo ir televizijos komisija nustato, kad neteisminės priemonės neišnaudotos, ji pateikia teisių subjektams, jų įgaliotiems asmenims ar kolektyvinio administravimo organizacijoms siūlymus ir rekomendacijas dėl jų taikymo.
+4. Lietuvos radijo ir televizijos komisija šio straipsnio 3 dalyje numatytus privalomus nurodymus gali taikyti tik nustačiusi, kad teisių subjektai, jų įgalioti asmenys ar kolektyvinio administravimo organizacijos prieš tai išnaudojo neteismines priemones siekdami, kad būtų nutrauktas autorių teisių saugomo turinio viešas skelbimas viešo naudojimo kompiuterių tinkluose (internete). Jeigu Lietuvos radijo ir televizijos komisija nustato, kad neteisminės priemonės neišnaudotos, ji pateikia teisių subjektams, jų įgaliotiems asmenims ar kolektyvinio administravimo organizacijoms siūlymus ir rekomendacijas dėl jų taikymo.
 
 
 
 
-5. Teisių subjektų, jų įgaliotų asmenų ar kolektyvinio administravimo organizacijų Lietuvos radijo ir televizijos komisijai teikiami prašymai taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams turi būti pagrįsti objektyviais duomenimis (faktais) ir juos pagrindžiančiais dokumentais. Preziumuojama, kad prašymuose taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams nurodytas autorių teisių saugomas turinys viešoje interneto prieigoje (interneto svetainėje) yra viešai paskelbtas neteisėtai. Prašymo taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams formą bei turinio reikalavimus ir prašymų nagrinėjimo tvarką nustato Lietuvos radijo ir televizijos komisija.
+5. Teisių subjektų, jų įgaliotų asmenų ar kolektyvinio administravimo organizacijų Lietuvos radijo ir televizijos komisijai teikiami prašymai taikyti privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją (neteisėtai viešai paskelbtą autorių teisių saugomą turinį) turi būti pagrįsti objektyviais duomenimis (faktais) ir juos pagrindžiančiais dokumentais. Preziumuojama, kad prašymuose taikyti privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją (neteisėtai viešai paskelbtą autorių teisių saugomą turinį) nurodytas autorių teisių saugomas turinys viešoje interneto prieigoje (interneto svetainėje) yra viešai paskelbtas neteisėtai. Prašymo taikyti privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją (neteisėtai viešai paskelbtą autorių teisių saugomą turinį) formą bei turinio reikalavimus ir šių prašymų nagrinėjimo tvarką nustato Lietuvos radijo ir televizijos komisija.
 
 
 
 
-6. Lietuvos radijo ir televizijos komisija gautus prašymus nagrinėja ir sprendimus priima vadovaudamasi šio Įstatymo 6 straipsnio 2 dalyje numatyta autorystės prezumpcija, šio Įstatymo 51 straipsnio 3 dalyje numatyta gretutinių teisių turėjimo prezumpcija, taip pat atsižvelgdama į šiuos vertinimo kriterijus, kurių reikšmingumą įvertina kiekvienu konkrečiu atveju:
+6. Lietuvos radijo ir televizijos komisija gautus prašymus taikyti privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją (neteisėtai viešai paskelbtą autorių teisių saugomą turinį) nagrinėja ir sprendimus priima vadovaudamasi šio Įstatymo 6 straipsnio 2 dalyje numatyta autorystės prezumpcija, šio Įstatymo 51 straipsnio 3 dalyje numatyta gretutinių teisių turėjimo prezumpcija, taip pat atsižvelgdama į šiuos vertinimo kriterijus, kurių reikšmingumą įvertina kiekvienu konkrečiu atveju:
 
 
 1) vieša interneto prieiga (interneto svetainė) sukurta ir naudojama autorių teisių saugomo turinio neteisėtam viešam paskelbimui;
@@ -5424,10 +5424,10 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-7. Lietuvos radijo ir televizijos komisija, nagrinėdama teisių subjektų, jų įgaliotų asmenų ar kolektyvinio administravimo organizacijų pateiktus prašymus taikyti privalomus nurodymus tarpininkams, turi teisę:
+7. Lietuvos radijo ir televizijos komisija, nagrinėdama teisių subjektų, jų įgaliotų asmenų ar kolektyvinio administravimo organizacijų pateiktus prašymus taikyti privalomus nurodymus, turi teisę:
 
 
-1) reikalauti, kad pareiškėjai pateiktų papildomus paaiškinimus dėl aplinkybių, sudarančių privalomų nurodymų tarpininkams taikymo pagrindą, ir (ar) jas pagrindžiančius dokumentus;
+1) reikalauti, kad pareiškėjai pateiktų papildomus paaiškinimus dėl aplinkybių, sudarančių privalomų nurodymų taikymo pagrindą, ir (ar) jas pagrindžiančius dokumentus;
 
 
 
@@ -5449,75 +5449,37 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-8. Lietuvos radijo ir televizijos komisija, įvertinusi teisių subjekto, jo įgalioto asmens ar kolektyvinio administravimo organizacijos pateiktą prašymą, numatytą šio straipsnio 2 dalyje, ir siekdama taikyti šio straipsnio 3 dalyje numatytus privalomus nurodymus interneto prieigos paslaugų teikėjui, ne vėliau kaip per 14 kalendorinių dienų nuo visų dokumentų gavimo dienos priima sprendimą dėl privalomų nurodymų taikymo, vadovaudamasi Lietuvos Respublikos visuomenės informavimo įstatymo 47 straipsnio 12, 13 ir 14 dalimis. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
-Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
- 
+8. Lietuvos radijo ir televizijos komisija, įvertinusi teisių subjekto, jo įgalioto asmens ar kolektyvinio administravimo organizacijos pateiktą prašymą, numatytą šio straipsnio 2 dalyje, ir siekdama taikyti šio straipsnio 3 dalyje numatytus privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją (neteisėtai viešai paskelbtą autorių teisių saugomą turinį), ne vėliau kaip per 14 kalendorinių dienų nuo visų dokumentų gavimo dienos priima sprendimą dėl privalomų nurodymų taikymo, vadovaudamasi Lietuvos Respublikos visuomenės informavimo įstatymo 47 straipsnio 12, 13 ir 14 dalimis.
 
 
 
 
-9. Lietuvos radijo ir televizijos komisijos sprendimą taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams, privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete), turi sankcionuoti pirmosios instancijos administracinis teismas, išskyrus sprendimus taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams dinaminio blokavimo atveju. Šioje dalyje dinaminiu blokavimu laikomas nurodymas blokuoti interneto prieigos paslaugų teikėjams esamus ir būsimus interneto domeno vardus, identifikuojančius interneto svetaines, kurios naudojamos neteisėtai viešai paskelbti autorių teisių saugomą turinį (t. y. interneto svetainių esamas ir būsimas kopijas). Laikoma, kad teismo sankcija Lietuvos radijo ir televizijos komisijos sprendimui taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams galioja ir vėlesniems komisijos sprendimams taikyti dinaminį blokavimą. Prašymas sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą turi būti pagrįstas objektyviais duomenimis (faktais), juos pagrindžiančiais dokumentais ir teisės aktų normomis, jame turi būti nurodytas interneto svetainę identifikuojantis domeno vardas ir numatomi atlikti veiksmai (privalomi nurodymai).
-Papildyta straipsnio dalimi:
-Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
-Straipsnio dalies pakeitimai:
-Nr. XIV-1579, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25129
- 
+9. Lietuvos radijo ir televizijos komisija, taikydama privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete), privalo Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka pateikti pirmosios instancijos administraciniam teismui prašymą išduoti leidimą taikyti privalomus nurodymus. Prašymas sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą turi būti pagrįstas objektyviais duomenimis (faktais), juos pagrindžiančiais dokumentais ir teisės aktų normomis, jame turi būti nurodyti numatomi atlikti veiksmai (privalomi nurodymai).
 
 
 
 
-10. Pirmosios instancijos administracinis teismas Lietuvos radijo ir televizijos komisijos prašymą sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 3 kalendorines dienas nuo prašymo gavimo dienos. Jeigu Lietuvos radijo ir televizijos komisija nesutinka su teismo nutartimi atmesti prašymą, ji turi teisę per 7 kalendorines dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 kalendorines dienas nuo skundo priėmimo dienos.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1579, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25129
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
- 
+10. Lietuvos radijo ir televizijos komisija, įgyvendinama šio straipsnio nuostatas, turi teisę duoti privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete).
 
 
 
 
-11. Lietuvos radijo ir televizijos komisija, įgyvendinama šio straipsnio nuostatas, turi teisę duoti privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete). 
-Papildyta straipsnio dalimi:
-Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
- 
+11. Šio straipsnio 9 dalyje nurodyti privalomi nurodymai mokėjimo, kredito ar kitai finansų įstaigai gali būti taikomi kartu su šio straipsnio 3 dalyje nurodytais privalomais nurodymais arba atskirai, vadovaujantis šio straipsnio 4–8 dalių nuostatomis.
 
 
 
 
-12. Šio straipsnio 10 dalyje nurodyti privalomi nurodymai mokėjimo, kredito ar kitai finansų įstaigai gali būti taikomi kartu su šio straipsnio 3 dalyje nurodytais privalomais nurodymais arba atskirai bei vadovaujantis šio straipsnio 4–8 dalių nuostatomis. 
-Papildyta straipsnio dalimi:
-Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
- 
+12. Jeigu buvo pritaikyti šio straipsnio 9 dalyje nurodyti privalomi nurodymai ir gauta informacija, kad autorių teisių saugomo turinio pažeidimas yra pašalintas, Lietuvos radijo ir televizijos komisija kreipiasi į mokėjimo, kredito ar kitas finansų įstaigas įpareigodama jas per 5 darbo dienas nuo kreipimosi į mokėjimo, kredito ar kitas finansų įstaigas dienos atnaujinti mokėjimus ar kitas finansines operacijas.
 
 
 
 
-13. Lietuvos radijo ir televizijos komisija, gavusi informacijos, kad autorių teisių saugomo turinio pažeidimas yra pašalintas, kreipiasi į interneto prieigos paslaugų teikėjus juos įpareigodama per 5 darbo dienas nuo kreipimosi į interneto prieigos paslaugų teikėjus dienos atnaujinti prieigą prie užblokuoto interneto domeno vardo, identifikuojančio interneto svetainę. Jeigu buvo pritaikyti šio straipsnio 10 dalyje nurodyti privalomi nurodymai ir gauta informacija, kad autorių teisių saugomo turinio pažeidimas yra pašalintas, Lietuvos radijo ir televizijos komisija kreipiasi į mokėjimo, kredito ar kitas finansų įstaigas jas įpareigodama per 5 darbo dienas nuo kreipimosi į mokėjimo, kredito ar kitas finansų įstaigas dienos atnaujinti mokėjimus ar kitas finansines operacijas.
-Straipsnio dalies pakeitimai:
-Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
- 
-
-
-
-
-14. Privalomų nurodymų taikymo interneto prieigos paslaugų teikėjams tvarką ir atsiskaitymų, mokėjimų ar kitų finansinių operacijų už neteisėtai viešai paskelbtą autorių teisių saugomą turinį viešo naudojimo kompiuterių tinklais (internete) per Lietuvos Respublikoje veikiančias mokėjimo, kredito ar kitas finansų įstaigas ribojimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
- 
+13. Atsiskaitymų, mokėjimų ar kitų finansinių operacijų už neteisėtai viešai paskelbtą autorių teisių saugomą turinį viešo naudojimo kompiuterių tinklais (internete) per Lietuvos Respublikoje veikiančias mokėjimo, kredito ar kitas finansų įstaigas ribojimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
+Nr. XIV-2141, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14037
  
 
 
@@ -6574,7 +6536,7 @@ Nr. XII-2237, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21024
 Pakeistas priedo pavadinimas:
 Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
  
-part_9a0bc97443d04f5b94da01373f97971a_end
+part_db3ace27ca3949fbb0d943c65675fb71_end
 
  
  
@@ -6947,4 +6909,9 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1579, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25129
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 78 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2141, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14037
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 78 straipsnio pakeitimo įstatymas
