@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1746D2A4EFB9"
 
 # Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2727, i. k. 0971010ISTAVIII-499
- 
-TAR pastaba. Asmenims, turintiems iki įstatymo Nr. XIII-3298 įsigaliojimo (2021-05-01)  išduotus leidimus prekiauti laukiniais gyvūnais, leidžiama prekiauti šiame leidime nurodytais saugomų rūšių laukiniais gyvūnais. Šių leidimų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir galiojimas panaikinamas vadovaujantis Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų įstatymo 10-2 straipsnio nuostatomis.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
-Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas
  
 Nauja redakcija nuo 2010-01-01:
 Nr. XI-578, 2009-12-17, Žin. 2009, Nr. 159-7200 (2009-12-31), i. k. 1091010ISTA00XI-578
@@ -669,7 +664,7 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 
 
 
-2) asmuo turi leidimą įkurti zoologijos sodą, išduotą vadovaujantis Laukinės gyvūnijos įstatymu;
+2) asmuo turi leidimą įkurti zoologijos sodą, išduotą vadovaujantis Laukinės gyvūnijos įstatymu.
 
 
 
@@ -1073,7 +1068,10 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 2. Šio straipsnio 1 dalies nuostatų nepažeidžia tas, kas:
 
 
-1) laukinius paukščius medžioja laikydamasis Aplinkos ministerijos tvirtinamų Medžioklės Lietuvos Respublikos teritorijoje taisyklių, kuriose nustatytos leidžiamos medžioti laukinių paukščių rūšys, jų medžioklės terminai ir leidžiami medžioklės įrankiai, būdai ir kitos sąlygos;
+1) laukinius paukščius medžioja naudodamas Lietuvos Respublikos medžioklės įstatyme nurodytus leidžiamus įrankius ir priemones, laikydamasis aplinkos ministro tvirtinamų Medžioklės Lietuvos Respublikos teritorijoje taisyklių, kuriose nustatytos leidžiamos medžioti laukinių paukščių rūšys, jų medžioklės terminai, būdai ir kitos sąlygos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2487, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05117
+ 
 
 
 
@@ -1096,7 +1094,10 @@ Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
 
 
 
-3. Kad būtų išvengta laukinių paukščių rūšių išnykimo kuriose nors vietovėse medžiojant ar kitaip gaudant arba žudant paukščius (įskaitant atvejus, kai taikomos šio įstatymo 16 straipsnyje nustatytos išimtys), draudžiama naudoti didelio masto ar neatrankines priemones, įrankius ar būdus, taip pat paukščių medžioklėje naudoti tam tikrų rūšių transporto priemones arba jas naudoti tam tikromis sąlygomis. Didelio masto ar neatrankinės priemonės, įrankiai, būdai ir transporto priemonės, kuriuos yra draudžiama naudoti, transporto priemonių naudojimo sąlygos, kuriomis tos transporto priemonės negali būti naudojamos, nustatomos Aplinkos ministerijos tvirtinamuose Medžioklės Lietuvos Respublikos teritorijoje taisyklėse ir Saugomų rūšių naudojimo tvarkos apraše.
+3. Kad būtų išvengta laukinių paukščių rūšių išnykimo kuriose nors vietovėse medžiojant ar kitaip gaudant arba žudant paukščius (įskaitant atvejus, kai taikomos šio įstatymo 16 straipsnyje nustatytos išimtys), draudžiama naudoti didelio masto ar Medžioklės įstatyme nurodytas neatrankines priemones ir įrankius, ar aplinkos ministro tvirtinamose Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nurodytus būdus, taip pat paukščių medžioklėje naudoti tam tikrų rūšių transporto priemones arba jas naudoti tam tikromis sąlygomis. Didelio masto ar neatrankinės priemonės, įrankiai, būdai ir transporto priemonės, kuriuos draudžiama naudoti, transporto priemonių naudojimo sąlygos, kuriomis tos transporto priemonės negali būti naudojamos, nustatomi Medžioklės įstatyme, aplinkos ministro tvirtinamuose Medžioklės Lietuvos Respublikos teritorijoje taisyklėse ir Saugomų rūšių naudojimo tvarkos apraše.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2487, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05117
+ 
 
 
 
@@ -1738,3 +1739,18 @@ Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2223, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22369
+Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 10-2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
+Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 3, 5, 6, 9, 21 ir 22 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2487, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05117
+Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 15 straipsnio pakeitimo įstatymas
