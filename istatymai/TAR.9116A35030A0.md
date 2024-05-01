@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -670,7 +670,9 @@ PIRKIMO VERTĖ
 
 
 
-3. Mažos vertės pirkimu laikomas supaprastintas pirkimas, kai prekių ar paslaugų pirkimo numatoma vertė yra mažesnė kaip 58 000 Eur (penkiasdešimt aštuoni tūkstančiai eurų) (be pridėtinės vertės mokesčio), o darbų pirkimo numatoma vertė yra mažesnė kaip 145 000 Eur (šimtas keturiasdešimt penki tūkstančiai eurų) (be pridėtinės vertės mokesčio), ir šio įstatymo 13 straipsnio 9 dalyje nurodytas pirkimas. 
+3. Mažos vertės pirkimu laikomas supaprastintas pirkimas, kai prekių ar paslaugų pirkimo numatoma vertė yra mažesnė kaip 70 000 Eur (septyniasdešimt tūkstančių eurų) (be pridėtinės vertės mokesčio), o darbų pirkimo numatoma vertė yra mažesnė kaip 174 000 Eur (vienas šimtas septyniasdešimt keturi tūkstančiai eurų) (be pridėtinės vertės mokesčio), ir šio įstatymo 13 straipsnio 9 dalyje nurodytas pirkimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2533, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07266
  
 
 
@@ -749,7 +751,10 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-9. Neatsižvelgdamas į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo vertės ribai arba ją viršija, perkantysis subjektas turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą toms atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 58 000 Eur (penkiasdešimt aštuoni tūkstančiai eurų) (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 145 000 Eur (šimtas keturiasdešimt penki tūkstančiai eurų) (be pridėtinės vertės mokesčio). 
+9. Neatsižvelgdamas į tai, kad numatoma pirkimo vertė yra lygi mažos vertės pirkimo ribai arba ją viršija, perkantysis subjektas turi teisę šio įstatymo nustatyta tvarka atlikti mažos vertės pirkimą atskiroms pirkimo dalims, kurių bendra vertė yra mažesnė kaip 70 000 Eur (septyniasdešimt tūkstančių eurų) (be pridėtinės vertės mokesčio) to paties tipo prekių ar paslaugų sutarčių vertės, o perkant darbus – mažesnė kaip 174 000 Eur (vienas šimtas septyniasdešimt keturi tūkstančiai eurų) (be pridėtinės vertės mokesčio).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2533, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07266
+ 
 
 
 
@@ -5987,9 +5992,10 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 5 000 Eur (penkių tūkstančių eurų) (be pridėtinės vertės mokesčio). 
+7. Pirkimo sutartis žodžiu gali būti sudaroma tik tada, kai supaprastinto pirkimo sutarties vertė neviršija 15 000 Eur (penkiolikos tūkstančių eurų) (be pridėtinės vertės mokesčio).
 Straipsnio dalies pakeitimai:
 Nr. XIV-546, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21633
+Nr. XIV-2533, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07266
  
 
 
@@ -8149,3 +8155,8 @@ Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2252, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22983
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 68 ir 104 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2533, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07266
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 12, 13 ir 94 straipsnių pakeitimo įstatymas
