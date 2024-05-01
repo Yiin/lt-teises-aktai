@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44FA08A7226F"
 
 # Lietuvos Respublikos profesinio mokymo įstatymas
 
-Suvestinė redakcija nuo 2024-01-02 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 98-2478, i. k. 0971010ISTAVIII-450
  
@@ -1068,7 +1068,9 @@ Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 
 
 
-21. Visuotiniame dalininkų susirinkime priimant sprendimus, numatytus Viešųjų įstaigų įstatymo 10 straipsnio 1 dalies 8, 9, 10, 11 punktuose, valstybė arba savivaldybė, arba jos kartu, jeigu ir valstybė, ir savivaldybė yra tos pačios profesinio mokymo įstaigos dalininkės, turi sprendžiamojo balso teisę. Negali būti priimtas kitoks sprendimas, negu tas, už kurį balsuoja valstybė ar savivaldybė, o jeigu jų balsai pasiskirsto po lygiai, sprendžiamojo balso teisę turi valstybė.
+21. Visuotiniame dalininkų susirinkime priimant sprendimus, numatytus Viešųjų įstaigų įstatymo 12 straipsnio 1 dalies 7–10 punktuose, valstybė arba savivaldybė, arba jos kartu, jeigu ir valstybė, ir savivaldybė yra tos pačios profesinio mokymo įstaigos dalininkės, turi sprendžiamojo balso teisę. Negali būti priimtas kitoks sprendimas, negu tas, už kurį balsuoja valstybė ar savivaldybė, o jeigu jų balsai pasiskirsto po lygiai, sprendžiamojo balso teisę turi valstybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2257, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22989
  
 
 
