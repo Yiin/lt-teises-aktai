@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -256,7 +256,10 @@ Nr. XIII-2557, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19865
 
 
 
-31. Neteisėtai išduotas statybą leidžiantis dokumentas – statybą leidžiantis dokumentas, kompetentingų institucijų išduotas pažeidžiant teisės aktų reikalavimus.
+31. Neteko galios nuo 2024-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -346,7 +349,10 @@ Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 
 
-46. Savavališka statyba – statinio ar jo dalies statyba neturint galiojančio statybą leidžiančio dokumento arba jį turint, bet pažeidžiant esminius statinio projekto sprendinius.
+46. Savavališka statyba – statinio ar jo dalies statyba neturint galiojančio statybą leidžiančio dokumento arba jį turint, bet pažeidžiant esminius statinio projekto sprendinius, kai dėl jų pakeitimų privaloma iš naujo gauti statybą leidžiantį dokumentą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -397,7 +403,10 @@ Nr. XIII-426, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10248
 
 
 
-55. Statinio naudojimo priežiūra – viešojo administravimo subjekto atliekama kontrolė, kurios tikslas – nustatyti, ar statinio techninė priežiūra atitinka šio įstatymo ir kitų teisės aktų, taip pat normatyvinių statybos techninių dokumentų reikalavimus.
+55. Statinio naudojimo priežiūra – viešojo administravimo subjekto veikla, kurios tikslas – nustatyti, ar statinio techninė priežiūra atitinka šio įstatymo ir kitų teisės aktų, taip pat normatyvinių statybos techninių dokumentų reikalavimus ir ar statinys naudojamas vadovaujantis Lietuvos Respublikos įstatymų ir kitų teisės aktų nuostatomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -720,9 +729,11 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 2. Statytojo teisė įgyvendinama, kai:
 
 
-1) statytojas žemės sklypą (teritoriją), kuriame (kurioje) statomas statinys, valdo nuosavybės teise arba valdo ir naudoja kitais Lietuvos Respublikos įstatymų nustatytais pagrindais; šis reikalavimas netaikomas aplinkos ministro nustatytais atvejais, kai nėra suformuoti žemės sklypai (atnaujinant (modernizuojant) pastatus, atliekant statinio kapitalinį ar paprastąjį remontą ir pan.);
+1) statytojas žemės sklypą (teritoriją), kuriame (kurioje) naujai statomas ar rekonstruojamas statinys, valdo nuosavybės teise arba valdo ir (ar) naudoja kitais Lietuvos Respublikos įstatymų nustatytais pagrindais, išskyrus aplinkos ministro nustatytus atvejus, kai nėra suformuoti žemės sklypai, bet yra gautas valstybinės žemės patikėtinio sutikimas; atliekant kitus statybos darbus (atnaujinant (modernizuojant), remontuojant ar griaunant statinį) ar statinių pakeitimus (keičiant statinio (jo dalies) paskirtį, formuojant nekilnojamojo turto kadastro objektus) privaloma gauti žemės sklypo (teritorijos) savininko ar valstybinės žemės patikėtinio sutikimą šiame įstatyme ar kituose Lietuvos Respublikos įstatymuose nustatytais atvejais;
 Straipsnio punkto pakeitimai:
 Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
  
 
 
@@ -784,9 +795,11 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-3. Statinių klasifikavimą pagal jų naudojimo paskirtį pagal jai būdingus funkcinius, inžinerinius, socialinius, turtinių vienetų kiekio, užimamo sklypo ir kitus požymius, naujų nekilnojamojo turto kadastro objektų formavimo (kaip atskirus nekilnojamojo turto objektus suformuojant patalpas statinyje, statinius ir (ar) patalpas padalijant, atidalijant, sujungiant, perdalijant) tvarką nustato Vyriausybės įgaliota institucija.
+3. Statinių klasifikavimą pagal jų naudojimo paskirtį pagal jai būdingus funkcinius, inžinerinius, socialinius, nekilnojamojo turto kadastro objektų kiekio, užimamo sklypo ir kitus požymius, statinių paskirties grupes, atsižvelgiant į pagrindinę žemės naudojimo paskirtį ir naudojimo būdus, nekilnojamojo turto kadastro objektų formavimo (kaip atskirus nekilnojamojo turto objektus suformuojant patalpas statinyje, statinius ir (ar) patalpas padalijant, atidalijant, sujungiant, perdalijant) tvarką nustato Vyriausybės įgaliota institucija.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
  
 
 
@@ -805,7 +818,10 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 
-2) statinys derėtų prie kraštovaizdžio;
+2) atitiktų Architektūros įstatyme nurodytus architektūros kokybės kriterijus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -832,7 +848,9 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 
-2. Už esminių architektūros reikalavimų įgyvendinimą statinio projekte atsako statinio architektas.
+2. Už esminių architektūros reikalavimų įgyvendinimą statinio projekte atsako statinio architektas. Šio įstatymo, Architektūros įstatymo ir Autorių teisių ir gretutinių teisių įstatymo nustatyta tvarka statytojas (užsakovas) privalo užtikrinti statinio architekto dalyvavimą atliekant visus statinio projektavimo ir projekto įgyvendinimo darbus, kad būtų išlaikyti statinio architektūriniai sprendiniai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
@@ -1220,6 +1238,14 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
+
+
+4. Asmuo, pageidaujantis, kad Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse, Šveicarijos Konfederacijoje ar trečiosiose valstybėse įgyta statybos inžinieriaus profesinė kvalifikacija būtų pripažinta Lietuvos Respublikoje, turi sumokėti Vyriausybės įgaliotai institucijai ar įstaigai jos nustatytą įmoką, suderintą su Lietuvos Respublikos aplinkos ministerija. Nustatytas įmokos dydis turi padengti ekonomiškai pagrįstas statybos inžinieriaus profesinės kvalifikacijos pripažinimo metu patirtas sąnaudas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
+
+
 Papildyta straipsniu:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
  
@@ -1295,9 +1321,11 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-2) turėti profesinės patirties atitinkamoje veiklos srityje, kai darbo trukmė skaičiuojama pradedant nuo šio įstatymo 2 straipsnio 1 arba 92 dalyje nurodyto išsilavinimo įgijimo dienos: ypatingojo statinio projekto vadovo, ypatingojo statinio projekto vykdymo priežiūros vadovo, ypatingojo statinio statybos techninės priežiūros vadovo, statinio projekto ekspertizės vadovo, statinio projekto dalies ekspertizės vadovo, statinio ekspertizės vadovo ar statinio dalies ekspertizės vadovo – 5 metai; ypatingojo statinio projekto dalies vadovo, ypatingojo statinio projekto dalies vykdymo priežiūros vadovo, ypatingojo statinio statybos vadovo, ypatingojo statinio specialiųjų statybos darbų vadovo, ypatingojo statinio specialiųjų statybos darbų techninės priežiūros vadovo – 3 metai; neypatingojo statinio statybos techninės veiklos pagrindinių sričių vadovo – 2 metai profesinės patirties atitinkamoje statybos techninės veiklos srityje; darbo patirties valstybės ir savivaldybių institucijose vykdant veiklą architektūros, statybos ir (ar) statybos valstybinės priežiūros srityse, jeigu pagal einamas pareigas jis tiesiogiai dalyvavo išduodant, rengiant, derinant ar tvirtinant tam tikrus statinio projektavimo ar statybos sričių dokumentus (projektinius pasiūlymus, specialiuosius architektūros reikalavimus, specialiuosius reikalavimus, statybą leidžiančius dokumentus, statybos užbaigimo aktus, deklaracijas apie statybos užbaigimą), rengiant normatyvinius statybos techninius ar normatyvinius statinio saugos ir paskirties dokumentus, rengiant architektus ar statybos inžinierius studijų ir mokslo įstaigoje, turint mokslo laipsnį ar pedagoginį vardą. Kai šie asmenys siekia eiti ypatingojo ir neypatingojo statinio statybos techninės veiklos pagrindinių sričių vadovų pareigas, išskyrus statinio projekto ekspertizės, statinio projekto dalies ekspertizės, statinio ekspertizės ar statinio dalies ekspertizės vadovų pareigas, darbo patirties valstybės ir savivaldybių institucijose trukmė skaičiuojama kaip ir profesinės patirties trukmė.
+2) turėti profesinės patirties atitinkamoje veiklos srityje, kai darbo trukmė skaičiuojama pradedant nuo šio įstatymo 2 straipsnio 1 arba 92 dalyje nurodyto išsilavinimo įgijimo dienos: ypatingojo statinio projekto vadovo, ypatingojo statinio projekto vykdymo priežiūros vadovo ar ypatingojo statinio statybos techninės priežiūros vadovo – 5 metai; ypatingojo statinio projekto dalies vadovo, ypatingojo statinio projekto dalies vykdymo priežiūros vadovo, ypatingojo statinio statybos vadovo, ypatingojo statinio specialiųjų statybos darbų vadovo, ypatingojo statinio specialiųjų statybos darbų techninės priežiūros vadovo – 3 metai; neypatingojo statinio statybos techninės veiklos pagrindinių sričių vadovo – 2 metai profesinės patirties atitinkamoje statybos techninės veiklos srityje; turėti profesinės patirties atitinkamoje veiklos srityje vadovaujant statybos techninės veiklos pagrindinėms sritims, kai darbo trukmė skaičiuojama pradedant nuo kvalifikacijos atestato (bent vieno iš ypatingojo statinio projekto vadovo, ypatingojo statinio projekto dalies vadovo, ypatingojo statinio projekto vykdymo priežiūros vadovo, ypatingojo statinio projekto dalies vykdymo priežiūros vadovo, ypatingojo statinio statybos vadovo, ypatingojo statinio specialiųjų statybos darbų vadovo, ypatingojo statinio statybos techninės priežiūros vadovo, ypatingojo statinio specialiųjų statybos darbų techninės priežiūros vadovo) įgijimo dienos: statinio projekto ekspertizės vadovo, statinio projekto dalies ekspertizės vadovo, statinio ekspertizės vadovo, statinio dalies ekspertizės vadovo – 2 metai; darbo patirties valstybės ir savivaldybių institucijose vykdant veiklą architektūros, statybos ir (ar) statybos valstybinės priežiūros srityse, jeigu pagal einamas pareigas jis tiesiogiai dalyvavo išduodant, rengiant, derinant ar tvirtinant tam tikrus statinio projektavimo ar statybos sričių dokumentus (projektinius pasiūlymus, specialiuosius architektūros reikalavimus, specialiuosius reikalavimus, statybą leidžiančius dokumentus, statybos užbaigimo aktus, deklaracijas apie statybos užbaigimą), rengiant normatyvinius statybos techninius ar normatyvinius statinio saugos ir paskirties dokumentus, rengiant architektus ar statybos inžinierius studijų ir mokslo įstaigoje, turint mokslo laipsnį ar pedagoginį vardą. Kai šie asmenys siekia eiti ypatingojo ir neypatingojo statinio statybos techninės veiklos pagrindinių sričių vadovų pareigas, išskyrus statinio projekto ekspertizės, statinio projekto dalies ekspertizės, statinio ekspertizės ar statinio dalies ekspertizės vadovų pareigas, darbo patirties valstybės ir savivaldybių institucijose trukmė skaičiuojama kaip ir profesinės patirties trukmė.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
  
 
 
@@ -1335,12 +1363,18 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 
-12. Priėmus sprendimą išduoti kvalifikacijos atestatą ar teisės pripažinimo dokumentą, jis išduodamas ne vėliau kaip per 30 darbo dienų (jeigu aplinkos ministras nenustato kito termino) nuo visų dokumentų kvalifikacijos atestatui ar teisės pripažinimo dokumentui gauti gavimo atestavimą atliekančioje organizacijoje dienos. Kvalifikacijos atestatas ir teisės pripažinimo dokumentas išduodami neterminuotam laikui. Asmenys, gavę kvalifikacijos atestatą, ne rečiau kaip kas 5 metai privalo tobulintis kvalifikacijos tobulinimo kursuose išklausydami ne mažiau kaip 20 valandų paskaitų pagal aukštųjų mokyklų, asociacijų, sąjungų ar mokymo įstaigų patvirtintas mokymo programas, suderintas su Aplinkos ministerija jos nustatyta tvarka. Kvalifikacijos tobulinimą patvirtinantys dokumentai pateikiami atestavimą atliekančiai organizacijai šios organizacijos nustatyta tvarka.
+12. Priėmus sprendimą išduoti arba neišduoti kvalifikacijos atestatą ar teisės pripažinimo dokumentą, jis išduodamas arba pateikiamas motyvuotas atsisakymas jį išduoti ne vėliau kaip per 30 darbo dienų nuo visų dokumentų kvalifikacijos atestatui ar teisės pripažinimo dokumentui gauti gavimo atestavimą atliekančioje organizacijoje dienos. Kvalifikacijos atestatas ir teisės pripažinimo dokumentas išduodami neterminuotam laikui. Asmenys, gavę kvalifikacijos atestatą, ne rečiau kaip kas 5 metai privalo tobulintis kvalifikacijos tobulinimo kursuose išklausydami ne mažiau kaip 20 valandų paskaitų pagal aukštųjų mokyklų, asociacijų, sąjungų ar mokymo įstaigų patvirtintas mokymo programas, suderintas su atestavimą atliekančia organizacija. Kvalifikacijos tobulinimą patvirtinantys dokumentai pateikiami atestavimą atliekančiai organizacijai šios organizacijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
 
-13. Asmuo, pageidaujantis gauti arba pakeisti vienos ar kelių statybos techninės veiklos pagrindinių sričių vadovo kvalifikacijos atestatą ar teisės pripažinimo dokumentą, už šias paslaugas turi sumokėti atestavimą atliekančiai organizacijai aplinkos ministro nustatytą įmoką. Nustatant šios įmokos dydį, turi būti laikomasi nuostatos, kad jis turi padengti ekonomiškai pagrįstas atestavimo paslaugos teikimo sąnaudas ir užtikrinti pajamas, reikalingas šių paslaugų plėtrai ir kokybės gerinimui, atsižvelgiant į atestavimo paslaugų poreikį šalies rinkoje, infliaciją, kitus ekonominius, finansinius veiksnius. Teikiamų atestavimo paslaugų sąnaudos nustatomos pagal šių paslaugų ataskaitinius metinius duomenis ir argumentuotas normatyvines išlaidas. Įmoką už atestavimo paslaugas nustatant pirmą kartą, šios paslaugos teikimo sąnaudos nustatomos lyginant jas su panašios paslaugos sąnaudomis.
+13. Asmuo, pageidaujantis gauti, papildyti arba pakeisti vienos ar kelių statybos techninės veiklos pagrindinių sričių vadovo kvalifikacijos atestatą ar teisės pripažinimo dokumentą, turi sumokėti atestavimą atliekančiai organizacijai jos nustatytą įmoką, suderintą su Aplinkos ministerija. Nustatytas įmokos dydis turi padengti ekonomiškai pagrįstas atestavimo, teisės pripažinimo, kvalifikacijos atestato ar teisės pripažinimo dokumento papildymo ar keitimo metu patirtas sąnaudas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -1377,6 +1411,14 @@ Nr. XIV-501, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15877
 5) kai nustatoma, kad kvalifikacijos atestato ar teisės pripažinimo dokumento turėtojas nevykdo valstybinę priežiūrą atliekančių pareigūnų teisėtų nurodymų.
 
 
+
+
+
+
+141. Atestavimą atliekanti organizacija, gavusi informaciją, kad statybos valstybinės priežiūros pareigūnas Teritorijų planavimo ir statybos valstybinės priežiūros įstatymo nustatytais atvejais ir tvarka sustabdė kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimą, šią informaciją per 3 darbo dienas paskelbia viešai ir per 20 darbo dienų nuo šios informacijos gavimo dienos priima šio straipsnio 14, 15 ar 18 dalyse nustatytą sprendimą dėl kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimo. Statybos valstybinės priežiūros pareigūno priimtas sprendimas dėl kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimo sustabdymo netenka galios nuo atestavimą atliekančios organizacijos sprendimo priėmimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -1432,9 +1474,17 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 
-10) kai paaiškėja, kad jo turėtojas padarė pažeidimus, nurodytus Architektūros įstatyme.
+10) kai paaiškėja, kad jo turėtojas padarė pažeidimus, nurodytus Architektūros įstatyme;
 Papildyta straipsnio punktu:
 Nr. XIV-501, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15877
+ 
+
+
+
+
+11) kai asmenys, kurie statant statinį vadovavo statybos techninės veiklos pagrindinėms sritims ir atliko veiksmus ar priėmė sprendimus, dėl kurių statyba tapo savavališka. 
+Papildyta straipsnio punktu:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
@@ -1479,6 +1529,14 @@ Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 
 
 21. Eiti statinio projekto vadovo, statinio projekto dalies vadovo, statinio projekto vykdymo priežiūros vadovo, statinio projekto dalies vykdymo priežiūros vadovo pareigas kultūros paveldo objekte ir kultūros paveldo statinyje turi teisę šio straipsnio 20 dalyje nustatyta tvarka atestuoti architektai ir statybos inžinieriai, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme nustatyta tvarka įgiję teisę vadovauti atitinkamai kultūros paveldo objekto ir kultūros paveldo statinio tvarkybos darbų projektavimui ar tvarkybos darbų projekto vykdymo priežiūrai. Eiti kitas kultūros paveldo objekto ir kultūros paveldo statinio statybos techninės veiklos pagrindinių sričių vadovų pareigas, nurodytas šio straipsnio 2 dalyje, turi teisę šio straipsnio 20 dalyje nustatyta tvarka atestuoti architektai ir statybos inžinieriai.
+
+
+
+
+211. Architektai ar statybos inžinieriai, siekiantys būti įrašyti į teismo ekspertų sąrašą ir teikti teismo ekspertizės paslaugas Lietuvos Respublikos teismo ekspertizės įstatymo nustatyta tvarka, turi būti atestuoti architektai ar statybos inžinieriai, turinys teisę eiti statinio projekto ekspertizės vadovo, statinio projekto dalies ekspertizės vadovo, statinio ekspertizės vadovo, statinio dalies ekspertizės vadovo pareigas. Teismo ekspertai gali teikti teismo ekspertizės paslaugas tik pagal kvalifikacijos atestate įrašytą sritį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -1966,6 +2024,14 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 
+31) užregistruoti statinio projekto (jo dalies) ekspertizės aktą Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ ir pridėti dokumentą, patvirtinantį, kad statinio projekto (jo dalies) ekspertizės rangovas yra apsidraudęs šio įstatymo 45 straipsnyje nurodytu civilinės atsakomybės privalomuoju draudimu; 
+Papildyta straipsnio punktu:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
+
+
+
+
 4) patikrinti, ar pateiktas ekspertizei statinio projektas yra nustatytos sudėties, ar pridėti statinio projekto rengimo dokumentai ir dalinių statinio projekto ekspertizių aktai (kai dalines statinio projekto ekspertizes atlieka ne pats ekspertizės rangovas), specialiųjų statinio projektų ekspertizių aktai;
 
 
@@ -2019,6 +2085,14 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 3) pasirašyti statinio ekspertizės aktą (privalomi įmonės vadovo ar jo įgalioto kito įmonės darbuotojo ir statinio ekspertizės vadovo parašai), prisiimdamas atsakomybę, kad statinio ekspertizės aktas atitinka Lietuvos Respublikos įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų ir normatyvinių statinio saugos ir paskirties dokumentų nuostatas;
+
+
+
+
+31) užregistruoti statinio (jo dalies) ekspertizės aktą Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ ir pridėti dokumentą, patvirtinantį, kad statinio (jo dalies) ekspertizės rangovas yra apsidraudęs šio įstatymo 45 straipsnyje nurodytu civilinės atsakomybės privalomuoju draudimu; 
+Papildyta straipsnio punktu:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -2275,7 +2349,18 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-7) leisti Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos pareigūnams bei statytojo (užsakovo) ir statinio projektuotojo įgaliotiems asmenims, kai tai susiję su jų pareigų vykdymu, netrukdomiems patekti į statybvietes, statomus (rekonstruojamus, remontuojamus) ar griaunamus statinius (juose esančius butus) ir šių asmenų reikalavimu pateikti visus statybos dokumentus.
+7) leisti statybos valstybinės priežiūros pareigūnams bei statytojo (užsakovo) ir statinio projektuotojo įgaliotiems asmenims, kai tai susiję su jų pareigų vykdymu, netrukdomiems patekti į statybvietes, statomus (rekonstruojamus, remontuojamus) ar griaunamus statinius (juose esančius butus) ir šių asmenų reikalavimu pateikti visus statybos dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
+
+
+
+
+8) jeigu vykdant statybos darbus pasitelkiami kiti rangovai (subrangovai), pranešti apie juos Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ arba įrašant į elektroninį statybos darbų žurnalą, jeigu yra jame esančių duomenų sąsajos su Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacine sistema „Infostatyba“ (vienoje statybvietėje taikomas tik vienas pranešimo būdas). 
+Papildyta straipsnio punktu:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -2295,7 +2380,10 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-3) atlikti kitų statybos dalyvių funkcijas, išskyrus paties statomo statinio statybos techninę priežiūrą ir šio statinio projekto bei šio statinio ekspertizę.
+3) atlikti kitų statybos dalyvių funkcijas, išskyrus statytojo (užsakovo) pareigą paskirti vieną ar kelis saugos ir sveikatos koordinatorius, paties statomo statinio statybos techninę priežiūrą ir šio statinio projekto bei šio statinio ekspertizę. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -2305,6 +2393,14 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 9. Jeigu statytojas (užsakovas) vykdo statybą ūkio būdu, jis turi šio įstatymo nustatytas statytojo (užsakovo) ir rangovo pareigas, išskyrus pareigą paskirti (pasamdyti) statinio statybos vadovą, jeigu statytojas (užsakovas) yra fizinis asmuo. Kai statytojas (užsakovas) yra fizinis asmuo ir vykdo statybą ūkio būdu, jo, kaip statytojo (užsakovo), darbo jėga laikytina jo ir jo artimų asmenų, kurie suprantami taip, kaip apibrėžiami Viešųjų ir privačių interesų derinimo įstatyme, darbo jėga.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
+
+
+
+
+91. Kai statyba vykdoma rangos būdu, statytojas (užsakovas) privalo paskirti vieną už visų statinių statybą atsakingą rangovą, kuris turi atitikti šiame įstatyme nustatytus kvalifikacinius reikalavimus ir vykdyti šiame straipsnyje nustatytas rangovo pareigas. Jeigu statybos rangos sutartyje nenustatyta kitaip, rangovas (generalinis rangovas) savo prievolėms įvykdyti turi teisę pasitekti kitus rangovus (subrangovus).
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
@@ -2601,7 +2697,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-4. Juridinis asmuo ar kita užsienio organizacija, pageidaujantys gauti arba pakeisti kvalifikacijos atestatą ir (ar) teisės pripažinimo dokumentą, už atestavimo ir teisės pripažinimo paslaugas turi sumokėti atestavimą atliekančiai organizacijai aplinkos ministro nustatytą įmoką. 
+4. Juridinis asmuo ar kita užsienio organizacija, pageidaujantys gauti arba pakeisti kvalifikacijos atestatą ir (ar) teisės pripažinimo dokumentą, turi sumokėti atestavimą atliekančiai organizacijai jos nustatytą įmoką, suderintą su Aplinkos ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -2647,6 +2746,14 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 7) kai teisė, kuri buvo pripažinta išduodant teisės pripažinimo dokumentą, sustabdyta asmens, gavusio teisės pripažinimo dokumentą, kilmės valstybėje.
 
 
+
+
+
+
+51. Atestavimą atliekanti organizacija, gavusi informaciją, kad statybos valstybinės priežiūros pareigūnas, Teritorijų planavimo ir statybos valstybinės priežiūros įstatyme nustatytais atvejais ir tvarka sustabdė kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimą, šią informaciją per 3 darbo dienas paskelbia viešai ir per 20 darbo dienų nuo šios informacijos gavimo dienos priima šio straipsnio 5, 7 ar 9 dalyse nustatytą sprendimą dėl kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimo. Statybos valstybinės priežiūros pareigūno priimtas sprendimas dėl kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento galiojimo sustabdymo netenka galios nuo atestavimą atliekančios organizacijos sprendimo priėmimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -2713,6 +2820,14 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 11) kai kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento turėtojas, vykdydamas veiklą ypatingajame statinyje, samdo neatestuotus statybos rangovus.
+
+
+
+
+12) kai kvalifikacijos atestato ir (ar) teisės pripažinimo dokumento turėtojas statant statinį atliko veiksmus, dėl kurių statyba tapo savavališka. 
+Papildyta straipsnio punktu:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -2926,6 +3041,16 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 21. Jeigu rekonstruojamo pastato tūris padidėja daugiau negu 100 procentų, jam taikomi įstatymuose ir jų įgyvendinamuosiuose teisės aktuose, teritorijų planavimo dokumentuose nustatyti naujo statinio projektavimui ir statybai keliami reikalavimai. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+ 
+
+
+
+
+22. Nekilnojamojo turto registre registruotiems statiniams (jų dalims), kurie, turint statybą leidžiantį dokumentą, pradėti statyti iki 2010 m. sausio 1 d. ir neužbaigti ir kurių statybą leidžiantis dokumentas nebegalioja, leidžiama parengti statinių (jų dalių) rekonstravimo arba remonto projektus, aprašus ir pagal juos gauti statybą leidžiančius dokumentus. Statinių (jų dalių), kurie pradėti statyti iki 2010 m. sausio 1 d., statybos pradžia nustatoma vadovaujantis aplinkos ministro nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Straipsnio dalies pakeitimai:
+Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
  
 
 
@@ -3346,11 +3471,19 @@ Nr. XIV-2130, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14321
 
 
 
-16) dokumentas, patvirtinantis atlyginimo už galimybę statyti valstybinėje žemėje sumokėjimą į valstybės biudžetą, kai toks mokėjimas numatytas Žemės įstatymo 10 straipsnio 3, 4 ir 5 dalyse. 
+16) dokumentas, patvirtinantis atlyginimo už galimybę statyti valstybinėje žemėje sumokėjimą į valstybės biudžetą, kai toks mokėjimas numatytas Žemės įstatymo 10 straipsnio 3, 4 ir 5 dalyse; 
 Papildyta straipsnio punktu:
 Nr. XIV-718, 2021-11-25, paskelbta TAR 2021-12-08, i. k. 2021-25447
 Straipsnio punkto pakeitimai:
 Nr. XIV-2130, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14321
+ 
+
+
+
+
+17) Vyriausybės įgaliotos institucijos išduota pažyma dėl pajamų iš žemės ūkio veiklos, kai prašoma statybą leidžiančio dokumento ūkininko sodybos statybai pagal Ūkininko ūkio įstatymo nuostatas. 
+Papildyta straipsnio punktu:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
@@ -3507,11 +3640,12 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-151. Apie statybą leidžiančio dokumento išdavimą, siekiant sukurti galimybes visuomenei ginti teisę gyventi sveikatai ir gerovei tinkamoje aplinkoje, visuomenė informuojama Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbiant statybą leidžiančio dokumento duomenis (statybą leidžiančio dokumento tipą, nurodytą šio įstatymo 27 straipsnio 1 dalyje, registracijos numerį, registracijos datą, statinių adresus, dokumento būseną (galiojantis, negaliojantis), dokumentą išdavusios institucijos pavadinimą), statinio projekto duomenis (projekto pavadinimą, numerį, parengimo metus), statinių duomenis (statinio pavadinimą, statybos rūšį, naudojimo paskirtį, kategoriją (ypatingasis, neypatingasis, nesudėtingasis), laikinojo statinio požymį, savavališkos statybos požymį, adresą, žemės sklypo registracijos duomenis (unikalų numerį, registro numerį), statinio registracijos duomenis (unikalų numerį, registro numerį), statinio statybos metus, planuojamų statyti naujų ar rekonstruoti esamų pastatų rodiklius (pastatų skaičių, butų skaičių, bendrą plotą, naudingą plotą, tūrį), statinio projekto patikrinimo išvadas (rezultatus) ir prie jų pridėtus dokumentus, statinio, kuriam išduotas statybą leidžiantis dokumentas, bendruosius rodiklius (sklypo užstatymo intensyvumą, sklypo užstatymo tankį, pastato bendrą plotą, aukštų skaičių, pastato aukštį). Kai išduodamas leidimas statyti naują statinį, leidimas rekonstruoti statinį, leidimas atnaujinti (modernizuoti) pastatą, leidimas pakeisti statinio ar jo dalies paskirtį, be šioje dalyje nurodytų duomenų (dokumentų), Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ turi būti paskelbti šio straipsnio 5 dalies 2, 3, 8, 11, 13 punktuose nurodyti dokumentai. Draudžiama skelbti statytojo (užsakovo), kuris yra fizinis asmuo, ir kitų fizinių asmenų, išskyrus statinio projekto vadovą, statinio projekto dalių vadovus, statinio architektus, statinio projekto rengėjus, statinio projekto dalių rengėjus, statinio projekto ekspertizės vadovą, statinio projekto dalies ekspertizės vadovus, asmenis, dalyvaujančius išduodant specialiuosius reikalavimus, prisijungimo prie inžinerinių tinklų ar susisiekimo komunikacijų sąlygas, tikrinant statinio projektą, vardą ir pavardę. Draudžiama skelbti fizinių asmenų asmens kodą, gimimo datą, gyvenamąją vietą. Už duomenų pateikimą be draudžiamų skelbti asmens duomenų atsako asmenys, teikiantys skelbti duomenis (dokumentus) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“. Šioje dalyje nurodytų duomenų (dokumentų) skelbimą ir jo užbaigimą užtikrina Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos.
+151. Apie statybą leidžiančio dokumento išdavimą, išskyrus statinio, kuris skirtas Lietuvos Respublikos investicijų įstatyme nurodytiems stambiems projektams, Vyriausybės nutarimu pripažintiems užtikrinančiais neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti neurbanizuotose ir neurbanizuojamose teritorijose ir kuriame bus vykdoma ūkinė veikla, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, statybą leidžiantį dokumentą, siekiant sukurti galimybes visuomenei ginti teisę gyventi sveikatai ir gerovei tinkamoje aplinkoje, visuomenė informuojama Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbiant statybą leidžiančio dokumento duomenis (statybą leidžiančio dokumento tipą, nurodytą šio įstatymo 27 straipsnio 1 dalyje, registracijos numerį, registracijos datą, statinių adresus, dokumento būseną (galiojantis, negaliojantis), dokumentą išdavusios institucijos pavadinimą), statinio projekto duomenis (projekto pavadinimą, numerį, parengimo metus), statinių duomenis (statinio pavadinimą, statybos rūšį, naudojimo paskirtį, kategoriją (ypatingasis, neypatingasis, nesudėtingasis)), laikinojo statinio požymį, savavališkos statybos požymį, adresą, žemės sklypo registracijos duomenis (unikalų numerį, registro numerį), statinio registracijos duomenis (unikalų numerį, registro numerį), statinio statybos metus, planuojamų statyti naujų ar rekonstruoti esamų pastatų rodiklius (pastatų skaičių, butų skaičių, bendrą plotą, naudingą plotą, tūrį), statinio projekto patikrinimo išvadas (rezultatus) ir prie jų pridėtus dokumentus, statinio, kuriam išduotas statybą leidžiantis dokumentas, bendruosius rodiklius (sklypo užstatymo intensyvumą, sklypo užstatymo tankį, pastato bendrą plotą, aukštų skaičių, pastato aukštį). Kai išduodamas leidimas statyti naują statinį, leidimas rekonstruoti statinį, leidimas atnaujinti (modernizuoti) pastatą, leidimas pakeisti statinio ar jo dalies paskirtį, be šioje dalyje nurodytų duomenų (dokumentų), Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ turi būti paskelbti šio straipsnio 5 dalies 2, 3, 8, 11, 13 punktuose nurodyti dokumentai. Draudžiama skelbti statytojo (užsakovo), kuris yra fizinis asmuo, ir kitų fizinių asmenų, išskyrus statinio projekto vadovą, statinio projekto dalių vadovus, statinio architektus, statinio projekto rengėjus, statinio projekto dalių rengėjus, statinio projekto ekspertizės vadovą, statinio projekto dalies ekspertizės vadovus, asmenis, dalyvaujančius išduodant specialiuosius reikalavimus, prisijungimo prie inžinerinių tinklų ar susisiekimo komunikacijų sąlygas, tikrinant statinio projektą, vardą ir pavardę. Draudžiama skelbti fizinių asmenų asmens kodą, gimimo datą, gyvenamąją vietą. Už duomenų pateikimą be draudžiamų skelbti asmens duomenų atsako asmenys, teikiantys skelbti duomenis (dokumentus) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“. Šioje dalyje nurodytų duomenų (dokumentų) skelbimą ir jo užbaigimą užtikrina Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. Apie statinio, kuris skirtas Investicijų įstatyme nurodytiems stambiems projektams, Vyriausybės nutarimu pripažintiems užtikrinančiais neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti neurbanizuotose ir neurbanizuojamose teritorijose ir kuriame bus vykdoma ūkinė veikla, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, statybą leidžiančio dokumento išdavimą visuomenė informuojama per Topografijos, inžinerinės infrastruktūros, teritorijų planavimo ir statybos elektroninių vartų informacinę sistemą paskelbiant Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ statybą leidžiančio dokumento duomenis (statybą leidžiančio dokumento tipą, nurodytą šio straipsnio 1 dalyje, registracijos numerį, registracijos datą, statinių adresus, dokumento būseną (galiojantis, negaliojantis), dokumentą išdavusios institucijos pavadinimą), statinių duomenis (statinio pavadinimą, statybos rūšį, naudojimo paskirtį, kategoriją (ypatingasis, neypatingasis, nesudėtingasis)) ir teikiant nuorodą į sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
 Straipsnio dalies pakeitimai:
 Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
+Nr. XIV-2566, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07719
  
 
 
@@ -3716,9 +3850,21 @@ Nr. XIV-2041, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12405
 
 
 
-34. Lietuvos Respublikoje įvedus nepaprastąją padėtį, statiniai, kurie Vyriausybės sprendimu pripažįstami statiniais, tiesiogiai susijusiais su nepaprastosios padėties įvedimo tikslais ir priemonėmis, gali būti pradėti statyti neturint statybą leidžiančio dokumento.
+34. Neturint statybą leidžiančio dokumento gali būti pradėti statyti:
+
+
+1) statiniai, kurie, priėmus sprendimą Lietuvos Respublikoje įvesti nepaprastąją padėtį, Vyriausybės sprendimu pripažinti tiesiogiai susijusiais su nepaprastosios padėties įvedimo tikslų ir priemonių įgyvendinimu;
+
+
+
+
+2) statiniai, skirti Investicijų įstatyme nurodytiems stambiems projektams, Vyriausybės nutarimu pripažintiems užtikrinančiais neatidėliotinus valstybės saugumo ir gynybos poreikius, įgyvendinti neurbanizuotose ir neurbanizuojamose teritorijose. Informuoti visuomenę apie numatomą šių statinių ir statinių dalių projektavimą, taip pat apie visuomenės dalyvavimą svarstant tokių statinių ir statinių dalių projektinius pasiūlymus neprivaloma. Informacijos apie šių statinių statybos dalyvių pateiktus prašymus, viešojo administravimo subjektų ir prisijungimo sąlygas išduodančių subjektų priimtus sprendimus viešinti neprivaloma. Informacijos apie šiems statiniams išduotą statybą leidžiantį dokumentą, išskyrus informaciją apie statinio, kuriame bus vykdoma ūkinė veikla, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, statybą leidžiantį dokumentą, ir apie statybos pradžią viešinti neprivaloma. Informacija apie išduotą šiame punkte nurodyto statinio, kuriame bus vykdoma ūkinė veikla, kuriai pagal Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas, statybą leidžiantį dokumentą viešinama šio straipsnio 151 dalyje nustatyta tvarka.
+
+
 Papildyta straipsnio dalimi:
 Nr. XIV-1066, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09675
+Straipsnio dalies pakeitimai:
+Nr. XIV-2566, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07719
  
 
 
@@ -4012,14 +4158,20 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 1. Statyba laikoma užbaigta šiais atvejais:
 
 
-1) atlikus visus statybos darbus ir išdavus statybos užbaigimo aktą (kai jis privalomas). Statybos užbaigimo aktas surašomas tik tuo atveju, kai statytojas pateikia Nekilnojamojo turto kadastro tvarkytojo po išankstinės patikros suderintą statinio kadastro duomenų bylą;
+1) atlikus visus statybos darbus ir išdavus statybos užbaigimo aktą (kai jis privalomas). Statybos užbaigimo aktas surašomas tik tuo atveju, kai statytojas pateikia Nekilnojamojo turto kadastro tvarkytojo suderintą statinio kadastro duomenų bylą, taip pat atnaujintą žemės sklypo, kuriame pastatytas ar rekonstruotas statinys, kadastro duomenų bylą, suderintą Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Nr. XIV-2567, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07720
+ 
 
 
 
 
-2) atlikus visus statybos darbus, aplinkos ministro nustatyta tvarka surašius deklaraciją apie statybos užbaigimą (kai ji privaloma), statinio projekto (jo dalies) ekspertizės rangovui arba statinio (jo dalies) ekspertizės rangovui patvirtinus deklaraciją apie statybos užbaigimą ir ją įregistravus Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“. Deklaracija apie statybos užbaigimą patvirtinama tik tuo atveju, kai statytojas (užsakovas) pateikia Nekilnojamojo turto kadastro tvarkytojo po išankstinės patikros suderintą statinio kadastro duomenų bylą;
+2) atlikus visus statybos darbus, aplinkos ministro nustatyta tvarka surašius deklaraciją apie statybos užbaigimą (kai ji privaloma), statinio projekto (jo dalies) ekspertizės rangovui arba statinio (jo dalies) ekspertizės rangovui patvirtinus deklaraciją apie statybos užbaigimą ir ją įregistravus Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“. Deklaracija apie statybos užbaigimą patvirtinama tik tuo atveju, kai statytojas (užsakovas) pateikia Nekilnojamojo turto kadastro tvarkytojo suderintą statinio kadastro duomenų bylą, taip pat atnaujintą žemės sklypo, kuriame pastatytas ar rekonstruotas statinys, kadastro duomenų bylą, suderintą Nekilnojamojo turto kadastro nuostatuose nustatyta tvarka;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Nr. XIV-2567, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07720
  
 
 
@@ -4520,19 +4672,17 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 37 straipsnis. Visuomenės informavimas apie numatomą statinių projektavimą ir visuomenės dalyvavimas svarstant statinių projektinius pasiūlymus
 
 
-1. Savivaldybės meras (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo informuoti visuomenę apie numatomą visuomenei svarbių statinių ir statinių dalių projektavimą, apie numatomą statinių ir statinių dalių projektavimą, kai Lietuvos Respublikos teritorijų planavimo įstatymo 20 straipsnyje nustatytais atvejais neparengti vietovės lygmens teritorijų planavimo dokumentai ir statyba konkrečiame žemės sklype leidžiama, taip pat apie visuomenės dalyvavimą svarstant statinių ir statinių dalių projektinius pasiūlymus. Visuomenei svarbių statinių ir statinių dalių sąrašus (nurodant paskirtį), visuomenės informavimo apie numatomą statinių ir statinių dalių projektavimą ir visuomenės dalyvavimo svarstant statinių ir statinių dalių projektinius pasiūlymus tvarką nustato aplinkos ministras.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
- 
+1. Savivaldybės meras (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo informuoti visuomenę apie numatomą visuomenei svarbių statinių ir statinių dalių projektavimą, apie numatomą statinių ir statinių dalių projektavimą, kai Lietuvos Respublikos teritorijų planavimo įstatymo 20 straipsnyje nustatytais atvejais neparengti vietovės lygmens teritorijų planavimo dokumentai ir statyba konkrečiame žemės sklype leidžiama, taip pat apie visuomenės dalyvavimą svarstant statinių ir statinių dalių projektinius pasiūlymus. Visuomenei svarbių statinių ir statinių dalių sąrašus (nurodant paskirtį), visuomenės informavimo apie numatomą statinių ir statinių dalių projektavimą ir visuomenės dalyvavimo svarstant statinių ir statinių dalių projektinius pasiūlymus tvarką nustato aplinkos ministras. Draudžiama skelbti vardą ir pavardę statytojo (užsakovo), kuris yra fizinis asmuo, ir kitų fizinių asmenų, išskyrus statinio projekto vadovą, statinio projekto dalių vadovus, statinio architektus, statinio projekto rengėjus, statinio projekto dalių rengėjus, asmenis, dalyvaujančius išduodant specialiuosius reikalavimus, prisijungimo prie inžinerinių tinklų ar susisiekimo komunikacijų sąlygas, tikrinant statinio projektą. Draudžiama skelbti fizinių asmenų asmens kodą, gimimo datą, gyvenamąją vietą.
 
 
 
 
-2. Kai projektuojami statiniai ar statinių dalys krašto apsaugos tikslams skirtose teritorijose, informuoti visuomenę apie numatomą šių statinių ir statinių dalių projektavimą, taip pat apie visuomenės dalyvavimą svarstant tokių statinių ir statinių dalių projektinius pasiūlymus neprivaloma. 
+2. Kai statinio projekto dokumentai įslaptinti Valstybės ir tarnybos paslapčių įstatyme nustatyta tvarka arba projektuojami statiniai ar statinių dalys krašto apsaugos tikslams skirtose teritorijose, informuoti visuomenę apie numatomą šių statinių ir statinių dalių projektavimą, taip pat apie visuomenės dalyvavimą svarstant tokių statinių ir statinių dalių projektinius pasiūlymus neprivaloma.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
@@ -4582,15 +4732,32 @@ Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
 39 straipsnis. Nebaigto statinio registravimas ir perleidimas
 
 
-1. Nebaigtas statyti ar rekonstruoti ypatingasis ar neypatingasis statinys ir daiktinės teisės į jį, taip pat nebaigtas rekonstruoti į ypatingąjį ar neypatingąjį statinį nesudėtingasis statinys ir daiktinės teisės į jį ne vėliau kaip per 3 metus nuo statybos pradžios turi būti įregistruoti Nekilnojamojo turto registre statytojo (užsakovo) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ užpildytos pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių, aplinkos ministro nustatyta tvarka patvirtintos statinio projekto (jo dalies) ekspertizės rangovo arba statinio (jo dalies) ekspertizės rangovo, pagrindu, o išardytas Nekilnojamojo turto registre registruotas nebaigtas statyti ar rekonstruoti statinys gali būti išregistruotas iš Nekilnojamojo turto registro statytojo (užsakovo) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ užpildytos pažymos apie nebaigto statyti ar rekonstruoti statinio išardymą pagrindu. Pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių ir pažymos apie tai, kad nebaigtas statyti ar rekonstruoti statinys nugriautas, išduodamos tik pateikus Nekilnojamojo turto kadastro tvarkytojo po išankstinės patikros suderintą statinio (patalpos) kadastro duomenų bylą.
+1. Nebaigtas statyti ar rekonstruoti ypatingasis ar neypatingasis statinys ir daiktinės teisės į jį, taip pat nebaigtas rekonstruoti į ypatingąjį ar neypatingąjį statinį nesudėtingasis statinys ir daiktinės teisės į jį ne vėliau kaip per 3 metus nuo statybos pradžios turi būti įregistruoti Nekilnojamojo turto registre statytojo (užsakovo) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ užpildytos pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių, aplinkos ministro nustatyta tvarka patvirtintos statinio projekto (jo dalies) ekspertizės rangovo arba statinio (jo dalies) ekspertizės rangovo, pagrindu, o išardytas Nekilnojamojo turto registre registruotas nebaigtas statyti ar rekonstruoti statinys gali būti išregistruotas iš Nekilnojamojo turto registro statytojo (užsakovo) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ užpildytos pažymos apie nebaigto statyti ar rekonstruoti statinio išardymą pagrindu. Pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių ir pažymos apie tai, kad nebaigtas statyti ar rekonstruoti statinys nugriautas, išduodamos tik pateikus Nekilnojamojo turto kadastro tvarkytojo suderintą statinio (patalpos) kadastro duomenų bylą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+Nr. XIV-2566, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07719
  
 
 
 
 
 2. Nebaigtas statyti ar rekonstruoti nesudėtingasis statinys (išskyrus atvejį, kai jis rekonstruojamas į ypatingąjį ar neypatingąjį statinį) ir daiktinės teisės į jį statytojo (užsakovo) pageidavimu gali būti įregistruojami Nekilnojamojo turto registre Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ užpildytos pažymos apie nebaigto statyti nesudėtingojo statinio statybą pagrindu Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo ir Lietuvos Respublikos nekilnojamojo turto registro įstatymo nustatyta tvarka.
+
+
+
+
+21. Nebaigtas statyti ar rekonstruoti ypatingasis ar neypatingasis statinys ir daiktinės teisės į jį, taip pat nebaigtas rekonstruoti į ypatingąjį ar neypatingąjį statinį nesudėtingasis statinys ir daiktinės teisės į jį turi būti įregistruoti Nekilnojamojo turto registre statytojo (užsakovo) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ užpildytos pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių, aplinkos ministro nustatyta tvarka patvirtintos statinio projekto (jo dalies) ekspertizės rangovo arba statinio (jo dalies) ekspertizės rangovo, pagrindu ir tais atvejais, kai su fiziniais asmenimis sudaromi sandoriai dėl žemės sklypo, kuriame statomas statinys, nuosavybės teisės perleidimo kitiems naudotojams.
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
+
+
+
+
+22. Tais atvejais, kai su fiziniais asmenimis sudaromi sandoriai dėl žemės sklypo, kuriame numatomam statiniui statyti gautas statybą leidžiantis dokumentas, tačiau šio statinio statybos darbai dar nepradėti, nuosavybės teisės perleidimo kitiems naudotojams, žemės sklypo nuosavybės teises perleidžiantis savininkas sutartyje privalo nurodyti (deklaruoti), kad šio statinio statybos darbai dar nepradėti.
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -5000,10 +5167,7 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 
-2. Pastatytą naują ypatingąjį ar neypatingąjį statinį (jo dalį) galima naudoti ir (ar) sudaryti sandorius dėl patalpų, esančių gyvenamosios paskirties pastatuose (trijų ir daugiau butų (daugiabučiuose pastatuose), ar gyvenamosios paskirties patalpų, esančių kitų paskirčių pastatuose, nuosavybės teisės perleidimo kitiems naudotojams tik šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šių statinių (jų dalių) statybą. Šios dalies nuostatos neprivalomos statant vieno ir dviejų butų gyvenamuosius namus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis.
- 
-47 straipsnio 2 dalies redakcija nuo 2024-01-02:
-2. Pastatytą naują ypatingąjį ar neypatingąjį statinį (jo dalį) naudoti ir (ar) su fiziniais asmenimis sudaryti sandorius dėl patalpų, esančių gyvenamosios paskirties pastatuose (trijų ir daugiau butų (daugiabučiuose pastatuose), ar gyvenamosios paskirties patalpų, esančių kitų paskirčių pastatuose, nuosavybės teisės perleidimo kitiems naudotojams ir (ar) išduoti jame vykdytinos ūkinės veiklos leidimus, nurodytus Paslaugų įstatymo 2 straipsnio 6 dalyje, galima šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šių statinių (jų dalių) statybą. Šios dalies nuostatos neprivalomos statant vieno ir dviejų butų gyvenamuosius pastatus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis
+2. Pastatytą naują ypatingąjį ar neypatingąjį statinį (jo dalį) naudoti ir (ar) su fiziniais asmenimis sudaryti sandorius dėl patalpų, esančių gyvenamosios paskirties pastatuose (trijų ir daugiau butų (daugiabučiuose pastatuose), ar gyvenamosios paskirties patalpų, esančių kitų paskirčių pastatuose, nuosavybės teisės perleidimo kitiems naudotojams ir (ar) išduoti jame vykdytinos ūkinės veiklos leidimus, nurodytus Paslaugų įstatymo 2 straipsnio 6 dalyje, galima šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šių statinių (jų dalių) statybą. Šios dalies nuostatos neprivalomos statant vieno ir dviejų butų gyvenamuosius pastatus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
@@ -5013,9 +5177,6 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-3. Rekonstruoto ypatingojo ar neypatingojo statinio naujas dalis galima pradėti naudoti ir (ar) sudaryti sandorius dėl naujose dalyse esančių gyvenamųjų patalpų perleidimo kitiems naudotojams tik šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šio statinio (jo dalies) statybą. Šios dalies nuostatos neprivalomos rekonstruojant gyvenamuosius namus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis.
- 
-47 straipsnio 3 dalies redakcija nuo 2024-01-02
 3. Rekonstruoto ypatingojo ar neypatingojo statinio naujas dalis pradėti naudoti ir (ar) sudaryti sandorius dėl naujose dalyse esančių gyvenamųjų patalpų perleidimo kitiems naudotojams ir (ar) išduoti jame vykdytinos ūkinės veiklos leidimus, nurodytus Paslaugų įstatymo 2 straipsnio 6 dalyje, galima šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šio statinio (jo dalies) statybą. Šios dalies nuostatos neprivalomos rekonstruojant gyvenamuosius pastatus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
@@ -5173,7 +5334,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-4. Viešojo administravimo subjektų, atliekančių statinio naudojimo priežiūrą, pareigūnai turi teisę reikalauti, kad statinio naudotojas pateiktų privalomuosius statinio priežiūros dokumentus, nurodytus šio įstatymo 50 straipsnyje, ir leistų atlikti jiems pavestas kitas statinio naudojimo priežiūros funkcijas.
+4. Viešojo administravimo subjektų, atliekančių statinio naudojimo priežiūrą, pareigūnai turi teisę reikalauti, kad statinio naudotojas pateiktų privalomuosius statinio techninės priežiūros dokumentus, nurodytus šio įstatymo 50 straipsnyje, su statinio paskirtimi susijusius ūkinės veiklos dokumentus, įrodančius, kad statinyje vykdoma veikla atitinka statinio paskirtį, kitus su statinio naudojimu susijusius dokumentus ir leistų atlikti jiems pavestas įstatymuose ir kituose teisės aktuose nustatytas kitas statinio naudojimo priežiūros funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -5192,6 +5356,21 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 7. Viešojo administravimo subjektų, atliekančių statinių naudojimo priežiūrą, prašymai dėl teismo leidimo įeiti į butus ir (ar) kitas gyvenamąsias patalpas nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+
+
+
+
+8. Jeigu statinyje numatoma vykdyti ūkinė veikla neatitinka statinio naudojimo paskirties, išduoti leidimą, nurodytą Paslaugų įstatymo 2 straipsnio 6 dalyje, atitinkamai ūkinei veiklai vykdyti draudžiama, išskyrus Vyriausybės nustatytus atvejus.
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
+
+
+
+
+9. Jeigu statinys (jo dalis) yra pastatytas (-a) ar statomas (-a) savavališkai, naudotis tokiu statiniu (jo dalimi) draudžiama, įskaitant bet kokią ūkinę ar kitokią veiklą tokiame statinyje (jo dalyje).
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
@@ -5301,7 +5480,10 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-3) parduodant ar išnuomojant pastatus ir (ar) jų dalis (butus, kitos paskirties atskiro naudojimo patalpas). Statytojas (užsakovas) ar savininkas galimam naujam nuomininkui arba galimam pirkėjui privalo pateikti susipažinti, o pirkėjui arba naujam nuomininkui perduoti galiojantį pastato ar jo dalies energinio naudingumo sertifikatą arba jo kopiją. Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka skelbimuose apie parduodamus ar išnuomojamus pastatus ir (ar) jų dalis turi būti nurodomas pastato energinio naudingumo sertifikate nurodytas energinio naudingumo rodiklis. Pastato dalies energinio naudingumo sertifikatas gali būti išduodamas vadovaujantis viso pastato su bendra šildymo sistema energinio naudingumo sertifikatu, buto energinio naudingumo sertifikatas – tokio paties buto tame pačiame daugiabučiame pastate energinio naudingumo sertifikatu arba tipiniu Vyriausybės įgaliotos institucijos parengtu ir paskelbtu energinio naudingumo sertifikatu, priskiriant žemiausią energinio naudingumo klasę;
+3) parduodant ar išnuomojant pastatus ir (ar) jų dalis (butus, kitos paskirties atskiro naudojimo patalpas). Statytojas (užsakovas) ar savininkas galimam naujam nuomininkui arba galimam pirkėjui privalo pateikti susipažinti, o pirkėjui arba naujam nuomininkui perduoti galiojantį pastato ar jo dalies energinio naudingumo sertifikatą arba jo kopiją. Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka skelbimuose apie parduodamus ar išnuomojamus pastatus ir (ar) jų dalis turi būti nurodomas pastato energinio naudingumo sertifikate nurodytas energinio naudingumo rodiklis. Pastato dalies energinio naudingumo sertifikatas gali būti išduodamas vadovaujantis viso pastato su bendra šildymo sistema energinio naudingumo sertifikatu; daugiabučio pastato buto energinio naudingumo sertifikatas – tokio paties buto tame pačiame daugiabučiame pastate energinio naudingumo sertifikatu arba tipiniu Vyriausybės įgaliotos institucijos parengtu ir paskelbtu energinio naudingumo sertifikatu, priskiriant žemiausią energinio naudingumo klasę; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -5318,10 +5500,11 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
-5. Pastato energinio naudingumo sertifikatas galioja ne ilgiau kaip 10 metų. Minimalius privalomus pastatų energinio naudingumo reikalavimus, pastatų energinio naudingumo sertifikavimo tvarką ir sąlygas, pastatų energinio naudingumo sertifikavimo priežiūros tvarką nustato Vyriausybė arba jos įgaliota institucija. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių statomi nauji, o nuo 2021 m. sausio 1 d. – visi statomi nauji pastatai turi būti energijos beveik nevartojantys pastatai, kaip jie suprantami pagal Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymą. Reikalavimus energijos beveik nevartojantiems pastatams nustato Vyriausybė arba jos įgaliotos institucijos. Pastatų energinio naudingumo sertifikatai registruojami ir sertifikavimo priežiūra atliekama naudojantis išduotų pastatų energinio naudingumo sertifikatų informacine sistema, kurios valdytoja yra Aplinkos ministerija, o tvarkytoja – pastatų energinio naudingumo sertifikavimą prižiūrinti institucija. Pastatų energinio naudingumo sertifikavimo ekspertas turi sumokėti pastatų energinio naudingumo sertifikavimą prižiūrinčiai institucijai aplinkos ministro nustatytą įmoką už pastato energinio naudingumo sertifikato patikrinimo procedūras kiekvieną kartą, kai šis sertifikatas teikiamas registruoti, taip pat įmoką už išduotų pastatų energinio naudingumo sertifikatų informacinės sistemos tvarkymą kiekvieną kartą, kai registruojamas pastato energinio naudingumo sertifikatas. Nustatant šios įmokos dydį, turi būti laikomasi nuostatos, kad ji turi padengti ekonomiškai pagrįstas paslaugos teikimo sąnaudas. Teikiamų paslaugų sąnaudos nustatomos pagal šių paslaugų ataskaitinius metinius duomenis ir argumentuotas normatyvines išlaidas. Įmoką už paslaugą nustatant pirmą kartą, šios paslaugos teikimo sąnaudos nustatomos lyginant jas su panašios paslaugos teikimo sąnaudomis. Pastatų energinio naudingumo sertifikavimą prižiūrinčias institucijas ir jų funkcijas sertifikavimo priežiūros srityje nustato aplinkos ministras. Pastatų energinio naudingumo sertifikavimą prižiūrinčios institucijos funkcijas atlieka Vyriausybės įgaliota įstaiga.
+5. Pastato energinio naudingumo sertifikatas galioja ne ilgiau kaip 10 metų. Minimalius privalomus pastatų energinio naudingumo reikalavimus, pastatų energinio naudingumo sertifikavimo tvarką ir sąlygas, pastatų energinio naudingumo sertifikavimo priežiūros tvarką nustato Vyriausybė arba jos įgaliota institucija. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių statomi nauji, o nuo 2021 m. sausio 1 d. – visi statomi nauji pastatai turi būti energijos beveik nevartojantys pastatai, kaip jie suprantami pagal Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymą. Reikalavimus energijos beveik nevartojantiems pastatams nustato Vyriausybė arba jos įgaliotos institucijos. Pastatų energinio naudingumo sertifikatai registruojami ir sertifikavimo priežiūra atliekama naudojantis Pastatų energinio naudingumo sertifikatų ir pastatų energinio naudingumo sertifikavimo ekspertų informacine sistema. Pastatų energinio naudingumo sertifikavimo ekspertas turi sumokėti pastatų energinio naudingumo sertifikavimą prižiūrinčiai institucijai jos nustatytą įmoką, suderintą su Aplinkos ministerija, už pastato energinio naudingumo sertifikato patikrinimo procedūras kiekvieną kartą, kai šis sertifikatas teikiamas registruoti, taip pat įmoką už Pastatų energinio naudingumo sertifikatų ir pastatų energinio naudingumo sertifikavimo ekspertų informacinės sistemos tvarkymą kiekvieną kartą, kai registruojamas pastato energinio naudingumo sertifikatas. Nustatytas įmokos dydis turi padengti ekonomiškai pagrįstas paslaugos teikimo sąnaudas. Pastatų energinio naudingumo sertifikavimą prižiūrinčias institucijas ir jų funkcijas sertifikavimo priežiūros srityje nustato aplinkos ministras. Pastatų energinio naudingumo sertifikavimą prižiūrinčios institucijos funkcijas atlieka Vyriausybės įgaliota institucija ar įstaiga. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-383, 2021-06-10, paskelbta TAR 2021-06-17, i. k. 2021-13827
 Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
@@ -5387,7 +5570,10 @@ Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 
 
 
-10. Kvalifikacijos atestatai išduodami neribotam laikui. Asmenys, gavę kvalifikacijos atestatą, ne rečiau kaip kas 5 metai privalo tobulinti savo kvalifikaciją, kvalifikacijos tobulinimo kursuose išklausydami ne mažiau kaip 20 valandų paskaitų, išlaikyti egzaminus pagal Vyriausybės įgaliotos institucijos patvirtintas programas ir pateikti atestavimą atliekančiai organizacijai kvalifikacijos kėlimą įrodančius dokumentus.
+10. Kvalifikacijos atestatai išduodami neribotam laikui. Asmenys, gavę kvalifikacijos atestatą, ne rečiau kaip kas 5 metai privalo tobulinti savo kvalifikaciją, kvalifikacijos tobulinimo kursuose išklausydami ne mažiau kaip 20 valandų paskaitų, ir pateikti atestavimą atliekančiai organizacijai kvalifikacijos tobulinimą įrodančius dokumentus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
 
 
 
@@ -5585,6 +5771,14 @@ Nr. XIV-340, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12948
 
 
 
+31. Informacinėse sistemose esančių duomenų pakartotinai kelti į šias sistemas neprivaloma, jeigu informacinės sistemos tvarkytojas užtikrina informacinėse sistemose esančių duomenų sąsajas. Informacinėse sistemose esančių duomenų sąsajų kūrimo sąnaudos finansuojamos iš valstybės biudžeto lėšų Vyriausybės nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+ 
+
+
+
+
 4. Duomenys apie Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbtus statybą leidžiančius dokumentus, statybos užbaigimo ir kitus dokumentus, turinčius įtakos nekilnojamojo daikto teisiniam statusui, naudojantis informacinių sistemų sąveikos mechanizmu, perduodami žymai Nekilnojamojo turto kadastre nemokamai padaryti šio kadastro nuostatuose nustatyta tvarka.
 
 
@@ -5635,9 +5829,10 @@ Nr. XIV-1754, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27572
 
 
 
-2. Už statinio ekspertizės akto, neatitinkančio teisės aktų nustatytų reikalavimų, pateikimą statinio ekspertizės užsakovui, deklaracijos apie statybos užbaigimą ar pažymos apie statinio statybą be nukrypimų nuo esminių statinio projekto sprendinių, neatitinkančių teisės aktų nustatytų reikalavimų, patvirtinimą skiriama bauda statinio ekspertizės rangovams nuo vieno tūkstančio vieno šimto penkiasdešimt aštuonių iki keturių tūkstančių trijų šimtų keturiasdešimt keturių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų.
+2. Už statinio ekspertizės akto, neatitinkančio teisės aktų nustatytų reikalavimų, pateikimą statinio ekspertizės užsakovui skiriama bauda statinio (jo dalies) ekspertizės rangovams nuo vieno tūkstančio vieno šimto penkiasdešimt aštuonių iki keturių tūkstančių trijų šimtų keturiasdešimt keturių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
@@ -5648,184 +5843,180 @@ Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
 56 straipsnis. Juridinių asmenų atsakomybė už savavališką statybą
 
 
-1. Už naujo ypatingojo statinio savavališką statybą, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo dešimt tūkstančių iki trisdešimt tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo penkiolikos tūkstančių iki penkiasdešimt tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo šešiolikos tūkstančių iki penkiasdešimt tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo dvidešimt tūkstančių iki septyniasdešimt tūkstančių eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
+1. Už naujo ypatingojo statinio savavališką statybą, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo dešimt tūkstančių iki trisdešimt tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų –cokolinis aukštas), skiriama bauda statytojams nuo penkiolikos tūkstančių iki penkiasdešimt tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo trisdešimt dviejų tūkstančių iki vieno šimto tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo keturiasdešimt tūkstančių iki vieno šimto keturiasdešimt tūkstančių eurų.
+
+
+
+
+2. Už naujo ypatingojo statinio savavališką statybą saugomoje teritorijoje, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo šešiolikos tūkstančių iki keturiasdešimt tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo dvidešimt tūkstančių iki šešiasdešimt tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo keturiasdešimt tūkstančių iki vieno šimto dvidešimt tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo penkiasdešimt tūkstančių iki vieno šimto šešiasdešimt tūkstančių eurų.
+
+
+
+
+3. Už naujo neypatingojo statinio savavališką statybą, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo dviejų tūkstančių iki devynių tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo trijų tūkstančių iki penkiolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo devynių tūkstančių iki trisdešimt keturių tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo dvylikos tūkstančių iki keturiasdešimt penkių tūkstančių eurų.
+
+
+
+
+4. Už naujo neypatingojo statinio savavališką statybą saugomoje teritorijoje, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo keturių tūkstančių penkių šimtų iki vienuolikos tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo šešių tūkstančių iki penkiolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo keturiolikos tūkstančių iki penkiasdešimt tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo dvidešimt tūkstančių iki septyniasdešimt tūkstančių eurų.
+
+
+
+
+5. Už naujo nesudėtingojo statinio savavališką statybą, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo trijų šimtų penkiasdešimt iki septynių šimtų eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo penkių šimtų iki vieno tūkstančio eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo dviejų tūkstančių iki trijų tūkstančių eurų.
+
+
+
+
+6. Už naujo nesudėtingojo statinio savavališką statybą saugomoje teritorijoje, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo septynių šimtų iki vieno tūkstančio dviejų šimtų eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo vieno tūkstančio iki dviejų tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo dviejų tūkstančių iki keturių tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo trijų tūkstančių iki šešių tūkstančių eurų.
+
+
+
+
+7. Už ypatingojo statinio savavališką rekonstravimą skiriama bauda statytojams nuo septynių tūkstančių iki septyniolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo dvidešimt šešių tūkstančių iki penkiasdešimt tūkstančių eurų.
+
+
+
+
+8. Už ypatingojo statinio savavališką rekonstravimą saugomoje teritorijoje skiriama bauda statytojams nuo keturiolikos tūkstančių iki dvidešimt penkių tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo keturiasdešimt tūkstančių iki septyniasdešimt tūkstančių eurų.
+
+
+
+
+9. Už neypatingojo statinio savavališką rekonstravimą skiriama bauda statytojams nuo dviejų tūkstančių keturių šimtų iki šešių tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo septynių tūkstančių iki dvidešimt tūkstančių eurų.
+
+
+
+
+10. Už neypatingojo statinio savavališką rekonstravimą saugomoje teritorijoje skiriama bauda statytojams nuo keturių tūkstančių iki dešimt tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo keturiolikos tūkstančių iki trisdešimt keturių tūkstančių eurų.
+
+
+
+
+11. Už nesudėtingojo statinio savavališką rekonstravimą skiriama bauda statytojams nuo vieno šimto aštuoniasdešimt iki trijų šimtų penkiasdešimt eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo septynių šimtų iki vieno tūkstančio keturių šimtų eurų.
+
+
+
+
+12. Už nesudėtingojo statinio savavališką rekonstravimą saugomoje teritorijoje skiriama bauda statytojams nuo keturių šimtų penkiasdešimt iki aštuonių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių dviejų šimtų eurų.
+
+
+
+
+13. Už ypatingojo statinio savavališką kapitalinį remontą skiriama bauda statytojams nuo trijų tūkstančių penkių šimtų iki šešių tūkstančių penkių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo dešimt tūkstančių iki dvidešimt tūkstančių eurų.
+
+
+
+
+14. Už ypatingojo statinio savavališką kapitalinį remontą saugomoje teritorijoje skiriama bauda statytojams nuo penkių tūkstančių iki vienuolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo aštuoniolikos tūkstančių iki trisdešimt keturių tūkstančių eurų.
+
+
+
+
+15. Už neypatingojo statinio savavališką kapitalinį remontą skiriama bauda statytojams nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trijų tūkstančių keturių šimtų iki penkių tūkstančių keturių šimtų eurų.
+
+
+
+
+16. Už neypatingojo statinio savavališką kapitalinį remontą saugomoje teritorijoje skiriama bauda statytojams nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių penkių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo penkių tūkstančių šešių šimtų iki dvylikos tūkstančių eurų.
+
+
+
+
+17. Už nesudėtingojo statinio savavališką kapitalinį remontą skiriama bauda statytojams nuo vieno šimto šešiasdešimt iki trijų šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo septynių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+18. Už nesudėtingojo statinio savavališką kapitalinį remontą saugomoje teritorijoje skiriama bauda statytojams nuo trijų šimtų penkiasdešimt iki aštuonių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių keturių šimtų eurų.
+
+
+
+
+19. Už ypatingojo statinio savavališką paprastąjį remontą skiriama bauda statytojams nuo trijų šimtų iki šešių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių keturių šimtų eurų.
+
+
+
+
+20. Už ypatingojo statinio savavališką paprastąjį remontą saugomoje teritorijoje skiriama bauda statytojams nuo šešių šimtų iki vieno tūkstančio trijų šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio aštuonių šimtų iki trijų tūkstančių aštuonių šimtų eurų.
+
+
+
+
+21. Už neypatingojo statinio savavališką paprastąjį remontą skiriama bauda statytojams nuo vieno šimto šešiasdešimt iki trijų šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+22. Už neypatingojo statinio savavališką paprastąjį remontą saugomoje teritorijoje skiriama bauda statytojams nuo trijų šimtų iki septynių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+
+
+
+
+23. Už nesudėtingojo statinio savavališką paprastąjį remontą skiriama bauda statytojams nuo penkiasdešimt iki vieno šimto eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo dviejų šimtų iki trijų šimtų eurų.
+
+
+
+
+24. Už nesudėtingojo statinio savavališką paprastąjį remontą saugomoje teritorijoje skiriama bauda statytojams nuo vieno šimto iki vieno šimto penkiasdešimt eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trijų šimtų iki penkių šimtų eurų.
+
+
+
+
+25. Už ypatingojo statinio savavališką griovimą skiriama bauda statinį savavališkai griovusiems asmenims nuo šešių tūkstančių iki aštuonių tūkstančių septynių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo aštuoniolikos tūkstančių iki dvidešimt septynių tūkstančių eurų.
+
+
+
+
+26. Už ypatingojo statinio savavališką griovimą saugomoje teritorijoje skiriama bauda statinį savavališkai griovusiems asmenims nuo devynių tūkstančių iki penkiolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trisdešimt tūkstančių iki trisdešimt aštuonių tūkstančių eurų.
+
+
+
+
+27. Už neypatingojo statinio savavališką griovimą skiriama bauda statinį savavališkai griovusiems asmenims nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių devynių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo penkių tūkstančių iki aštuonių tūkstančių aštuonių šimtų eurų.
+
+
+
+
+28. Už neypatingojo statinio savavališką griovimą saugomoje teritorijoje skiriama bauda statinį savavališkai griovusiems asmenims nuo dviejų tūkstančių penkių šimtų iki keturių tūkstančių penkių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo septynių tūkstančių šešių šimtų iki dvylikos tūkstančių eurų.
+
+
+
+
+29. Už nesudėtingojo statinio savavališką griovimą skiriama bauda statinį savavališkai griovusiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+30. Už nesudėtingojo statinio savavališką griovimą saugomoje teritorijoje skiriama bauda statinį savavališkai griovusiems asmenims nuo trijų šimtų iki šešių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių keturių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
 
 
 
 
-2. Už naujo ypatingojo statinio savavališką statybą saugomoje teritorijoje, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo šešiolikos tūkstančių iki keturiasdešimt tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo dvidešimt tūkstančių iki šešiasdešimt tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo dvidešimt tūkstančių iki šešiasdešimt tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo dvidešimt penkių tūkstančių iki aštuoniasdešimt tūkstančių eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
+57 straipsnis. Juridinių asmenų atsakomybė už pranešimo apie statybos pradžią nepateikimą, informacijos apie pasamdytą subrangovą nepateikimą ar už statybos darbų atlikimą, statinio statybos techninės priežiūros ar statinio projekto vykdymo priežiūros vykdymą pažeidžiant teisės aktų reikalavimus
+
+
+1. Už informacijos apie pasamdytą subrangovą nepateikimą juridiniam asmeniui skiriama bauda nuo trijų šimtų iki septynių tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio iki penkiolikos tūkstančių eurų.
+
+
+
+
+2. Už pranešimo apie statybos pradžią, atitinkančio šiame įstatyme nustatytus reikalavimus, nepateikimą juridiniam asmeniui skiriama bauda nuo šešių šimtų iki dešimt tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio penkių šimtų iki dvidešimt tūkstančių eurų.
+
+
+
+
+3. Už juridinio asmens atliekamus statybos darbus, statinio statybos techninės priežiūros ar statinio projekto vykdymo priežiūros vykdymą pažeidžiant teisės aktų reikalavimus, išskyrus šio įstatymo 54, 56, 58, 64 straipsniuose numatytus pažeidimus, skiriama bauda nuo šešių šimtų iki keturiolikos tūkstančių eurų. Už tokius pat veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje nustatytus pažeidimus, skiriama bauda nuo keturiolikos tūkstančių iki trisdešimt tūkstančių eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
  
-
-
-
-
-3. Už naujo neypatingojo statinio savavališką statybą, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo dviejų tūkstančių iki devynių tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo trijų tūkstančių iki penkiolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo keturių tūkstančių penkių šimtų iki septyniolikos tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo šešių tūkstančių iki dešimt tūkstančių eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
- 
-
-
-
-
-4. Už naujo neypatingojo statinio savavališką statybą saugomoje teritorijoje, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo keturių tūkstančių penkių šimtų iki vienuolikos tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo šešių tūkstančių iki penkiolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo septynių tūkstančių iki dvidešimt penkių tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo dešimt tūkstančių iki trisdešimt penkių tūkstančių eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
- 
-
-
-
-
-5. Už naujo nesudėtingojo statinio savavališką statybą, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo trijų šimtų penkiasdešimt iki septynių šimtų eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo penkių šimtų iki vieno tūkstančio eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo septynių šimtų iki vieno tūkstančio eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo vieno tūkstančio iki vieno tūkstančio penkių šimtų eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
- 
-
-
-
-
-6. Už naujo nesudėtingojo statinio savavališką statybą saugomoje teritorijoje, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda statytojams nuo septynių šimtų iki vieno tūkstančio dviejų šimtų eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo vieno tūkstančio iki dviejų tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, kai pastatytas požeminis statinys ar statinio požeminė dalis (tarp jų – rūsys), skiriama bauda nuo vieno tūkstančio iki dviejų tūkstančių eurų, kai pastatytas antžeminis statinys ar statinio antžeminė dalis (tarp jų – cokolinis aukštas), skiriama bauda statytojams nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių eurų.
-Straipsnio dalies pakeitimai:
-Nr. XIV-703, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25132
- 
-
-
-
-
-7. Už ypatingojo statinio savavališką rekonstravimą skiriama bauda statytojams nuo septynių tūkstančių iki septyniolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trylikos tūkstančių iki dvidešimt penkių tūkstančių eurų.
-
-
-
-
-8. Už ypatingojo statinio savavališką rekonstravimą saugomoje teritorijoje skiriama bauda statytojams nuo keturiolikos tūkstančių iki dvidešimt penkių tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo dvidešimt tūkstančių iki trisdešimt penkių tūkstančių eurų.
-
-
-
-
-9. Už neypatingojo statinio savavališką rekonstravimą skiriama bauda statytojams nuo dviejų tūkstančių keturių šimtų iki šešių tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trijų tūkstančių penkių šimtų iki dešimt tūkstančių eurų.
-
-
-
-
-10. Už neypatingojo statinio savavališką rekonstravimą saugomoje teritorijoje skiriama bauda statytojams nuo keturių tūkstančių iki dešimt tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo septynių tūkstančių iki septyniolikos tūkstančių eurų.
-
-
-
-
-11. Už nesudėtingojo statinio savavališką rekonstravimą skiriama bauda statytojams nuo vieno šimto aštuoniasdešimt iki trijų šimtų penkiasdešimt eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trijų šimtų penkiasdešimt iki septynių šimtų eurų.
-
-
-
-
-12. Už nesudėtingojo statinio savavališką rekonstravimą saugomoje teritorijoje skiriama bauda statytojams nuo keturių šimtų penkiasdešimt iki aštuonių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo septynių šimtų iki vieno tūkstančio šešių šimtų eurų.
-
-
-
-
-13. Už ypatingojo statinio savavališką kapitalinį remontą skiriama bauda statytojams nuo trijų tūkstančių penkių šimtų iki šešių tūkstančių penkių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo penkių tūkstančių iki dešimties tūkstančių eurų.
-
-
-
-
-14. Už ypatingojo statinio savavališką kapitalinį remontą saugomoje teritorijoje skiriama bauda statytojams nuo penkių tūkstančių iki vienuolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo devynių tūkstančių iki šešiolikos tūkstančių eurų.
-
-
-
-
-15. Už neypatingojo statinio savavališką kapitalinį remontą skiriama bauda statytojams nuo devynių šimtų iki vieno tūkstančio septynių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno tūkstančio septynių šimtų iki dviejų tūkstančių septynių šimtų eurų.
-
-
-
-
-16. Už neypatingojo statinio savavališką kapitalinį remontą saugomoje teritorijoje skiriama bauda statytojams nuo vieno tūkstančio septynių šimtų iki trijų tūkstančių penkių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo dviejų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
-
-
-
-
-17. Už nesudėtingojo statinio savavališką kapitalinį remontą skiriama bauda statytojams nuo vieno šimto šešiasdešimt iki trijų šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trijų šimtų penkiasdešimt iki šešių šimtų eurų.
-
-
-
-
-18. Už nesudėtingojo statinio savavališką kapitalinį remontą saugomoje teritorijoje skiriama bauda statytojams nuo trijų šimtų penkiasdešimt iki aštuonių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo septynių šimtų iki vieno tūkstančio septynių šimtų eurų.
-
-
-
-
-19. Už ypatingojo statinio savavališką paprastąjį remontą skiriama bauda statytojams nuo trijų šimtų iki šešių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo šešių šimtų iki vieno tūkstančio  dviejų šimtų eurų.
-
-
-
-
-20. Už ypatingojo statinio savavališką paprastąjį remontą saugomoje teritorijoje skiriama bauda statytojams nuo šešių šimtų iki vieno tūkstančio trijų šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo devynių šimtų iki vieno tūkstančio devynių šimtų eurų.
-
-
-
-
-21. Už neypatingojo statinio savavališką paprastąjį remontą skiriama bauda statytojams nuo vieno šimto šešiasdešimt iki trijų šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trijų šimtų iki šešių šimtų eurų.
-
-
-
-
-22. Už neypatingojo statinio savavališką paprastąjį remontą saugomoje teritorijoje skiriama bauda statytojams nuo trijų šimtų iki septynių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo penkių šimtų iki vieno tūkstančio eurų.
-
-
-
-
-23. Už nesudėtingojo statinio savavališką paprastąjį remontą skiriama bauda statytojams nuo penkiasdešimt iki vieno šimto eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno šimto iki vieno šimto penkiasdešimt eurų.
-
-
-
-
-24. Už nesudėtingojo statinio savavališką paprastąjį remontą saugomoje teritorijoje skiriama bauda statytojams nuo vieno šimto iki vieno šimto penkiasdešimt eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo vieno šimto penkiasdešimt iki dviejų šimtų penkiasdešimt eurų.
-
-
-
-
-25. Už ypatingojo statinio savavališką griovimą skiriama bauda statinį savavališkai griovusiems asmenims nuo šešių tūkstančių iki aštuonių tūkstančių septynių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo devynių tūkstančių iki trylikos tūkstančių penkių šimtų eurų.
-
-
-
-
-26. Už ypatingojo statinio savavališką griovimą saugomoje teritorijoje skiriama bauda statinį savavališkai griovusiems asmenims nuo devynių tūkstančių iki penkiolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo penkiolikos tūkstančių iki devyniolikos tūkstančių eurų.
-
-
-
-
-27. Už neypatingojo statinio savavališką griovimą skiriama bauda statinį savavališkai griovusiems asmenims nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių devynių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo dviejų tūkstančių penkių šimtų iki keturių tūkstančių keturių šimtų eurų.
-
-
-
-
-28. Už neypatingojo statinio savavališką griovimą saugomoje teritorijoje skiriama bauda statinį savavališkai griovusiems asmenims nuo dviejų tūkstančių penkių šimtų iki keturių tūkstančių penkių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trijų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų.
-
-
-
-
-29. Už nesudėtingojo statinio savavališką griovimą skiriama bauda statinį savavališkai griovusiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo trijų šimtų iki šešių šimtų eurų.
-
-
-
-
-30. Už nesudėtingojo statinio savavališką griovimą saugomoje teritorijoje skiriama bauda statinį savavališkai griovusiems asmenims nuo trijų šimtų iki šešių šimtų eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šioje dalyje numatytus pažeidimus, skiriama bauda nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
- 
-
-
-
-
-
-
-57 straipsnis. Juridinių asmenų atsakomybė už statybos darbų atlikimą, statinio statybos techninės priežiūros ar statinio projekto vykdymo priežiūros vykdymą pažeidžiant teisės aktų reikalavimus
-
-
-Už juridinio asmens atliekamus statybos darbus, statinio statybos techninės priežiūros ar statinio projekto vykdymo priežiūros vykdymą pažeidžiant teisės aktų reikalavimus, išskyrus šio įstatymo 54, 56, 58, 64 straipsniuose numatytus pažeidimus, skiriama bauda nuo trijų šimtų iki septynių tūkstančių eurų. Už tokius pat veiksmus, padarytus juridinio asmens, bausto bauda už šiame straipsnyje nustatytus pažeidimus, skiriama bauda nuo septynių tūkstančių iki penkiolikos tūkstančių eurų.
- 
-
-
 
 
 
@@ -5844,10 +6035,13 @@ Už statinio statybą pažeidžiant statinio projekto sprendinius, išskyrus esm
 59 straipsnis. Juridinių asmenų atsakomybė už statinio (jo patalpų) naudojimą pažeidžiant nustatytus reikalavimus ir (ar) naudojimą ne pagal paskirtį
 
 
-Už statinio (jo patalpų) naudojimą pažeidžiant šiame ir kituose Lietuvos Respublikos įstatymuose nustatytus reikalavimus ir (ar) naudojimą ne pagal paskirtį, išskyrus atvejus, kai statinys (jo patalpos) Vyriausybės nustatytais atvejais ir tvarka naudojamas (naudojamos) ne pagal paskirtį, skiriama bauda nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių iki septynių tūkstančių dviejų šimtų keturiasdešimt eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šiame straipsnyje numatytą pažeidimą, skiriama bauda nuo dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų.
+Už savavališkai pastatyto ar statomo statinio (jo patalpų) naudojimą ir (ar) nebaigto statinio (jo patalpų) naudojimą, išskyrus šiame įstatyme nustatytus atvejus, ir (ar) statinio (jo patalpų) naudojimą pažeidžiant šiame įstatyme ir kituose Lietuvos Respublikos įstatymuose nustatytus reikalavimus, ir (ar) naudojimą ne pagal paskirtį, išskyrus atvejus, kai statinys (jo patalpos) naudojamas (naudojamos) ne pagal paskirtį Lietuvos Respublikos Vyriausybės nustatytais atvejais ir tvarka, skiriama bauda nuo trijų tūkstančių iki penkiolikos tūkstančių eurų. Už tokius pačius veiksmus, padarytus juridinio asmens, bausto bauda už šiame straipsnyje numatytą pažeidimą, skiriama bauda nuo penkių tūkstančių penkių šimtų iki aštuoniolikos tūkstančių eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
+Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
  
-
-
 
 
 
@@ -6488,3 +6682,18 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2413, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25634
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2522, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06309
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymo Nr. XIV-2413 3, 4, 9, 15, 18, 20, 21, 22, 27, 30, 34 ir 37 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2566, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07719
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 39 straipsnių pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2567, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07720
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymo Nr. XIV-2413 18, 22 ir 25 straipsnių pakeitimo įstatymas
