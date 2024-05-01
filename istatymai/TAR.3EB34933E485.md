@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -2785,12 +2785,18 @@ d) transporto priemonių nuoma;
 
 
 
-3. Pradėjęs užsienio platformos operatoriaus veiklą, duomenis teikiantis užsienio platformos operatorius privalo būti užsiregistravęs centrinio mokesčių administratoriaus nustatyta tvarka. Jeigu duomenis teikiantis užsienio platformos operatorius nevykdo pareigos registruotis arba jeigu jo registracija buvo panaikinta ir Europos Sąjungos valstybės narės koordinuodamos veiksmus, kuriais siekiama užtikrinti registravimosi ir informacijos teikimo reikalavimų vykdymą, be kita ko, sutaria neleisti duomenis teikiančiam užsienio platformos operatoriui veikti Europos Sąjungoje, Valstybinė mokesčių inspekcija atlieka poveikio vertinimą ir priima sprendimą, kuriuo duoda interneto prieigos paslaugų teikėjams privalomą nurodymą panaikinti galimybę pasiekti duomenis teikiančio užsienio platformos operatoriaus interneto svetainę iki tol, kol užsienio platformos operatorius įvykdo pareigą užsiregistruoti arba iš naujo užsiregistruoja, jeigu jo registracija buvo panaikinta. Priėmusi šį sprendimą Valstybinė mokesčių inspekcija kreipiasi į Vilniaus apygardos administracinį teismą su prašymu patvirtinti sprendimą. Prašyme dėl sprendimo patvirtinimo turi būti nurodytas įtariamą pažeidimą padariusio platformos operatoriaus pavadinimas, jeigu jis žinomas, įtariamo pažeidimo pobūdis, interneto svetainės, prie kurios prašoma panaikinti prieigą, tikslus adresas. Vilniaus apygardos administracinis teismas prašymą dėl sprendimo patvirtinimo išnagrinėja ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas dėl sprendimo pavirtinimo turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 15 dienų nuo prašymo pateikimo momento. Jeigu Valstybinė mokesčių inspekcija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą ne vėliau kaip per 7 dienas nuo Valstybinės mokesčių inspekcijos skundo gavimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Valstybinės mokesčių inspekcijos sprendimas vykdomas tik jį patvirtinus. Šis patvirtintas sprendimas skelbiamas Valstybinės mokesčių inspekcijos interneto svetainėje. 
+3. Pradėjęs užsienio platformos operatoriaus veiklą, duomenis teikiantis užsienio platformos operatorius privalo būti užsiregistravęs centrinio mokesčių administratoriaus nustatyta tvarka. Jeigu duomenis teikiantis užsienio platformos operatorius nevykdo pareigos registruotis arba jeigu jo registracija buvo panaikinta ir Europos Sąjungos valstybės narės koordinuodamos veiksmus, kuriais siekiama užtikrinti registravimosi ir informacijos teikimo reikalavimų vykdymą, be kita ko, sutaria neleisti duomenis teikiančiam užsienio platformos operatoriui veikti Europos Sąjungoje, Valstybinė mokesčių inspekcija atlieka poveikio vertinimą ir priima sprendimą, kuriuo Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoda privalomą nurodymą panaikinti galimybę pasiekti duomenis teikiančio užsienio platformos operatoriaus interneto svetainę iki tol, kol užsienio platformos operatorius įvykdo pareigą užsiregistruoti arba iš naujo užsiregistruoja, jeigu jo registracija buvo panaikinta. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2147, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14043
+ 
 
 
 
 
-4. Jeigu duomenis teikiantis platformos operatorius, išskyrus užsienio platformos operatorių, nevykdo pareigos teikti informaciją apie pardavėjus pagal šį straipsnį, Valstybinė mokesčių inspekcija po dviejų iš eilės platformos operatoriui pateiktų priminimų, ne vėliau kaip per 90 dienų, bet ne anksčiau kaip po 30 dienų nuo antrojo priminimo dienos, priima sprendimą, kuriuo duoda interneto prieigos paslaugų teikėjams privalomą nurodymą panaikinti galimybę pasiekti platformos operatoriaus interneto svetainę, kol platformos operatorius pašalins pažeidimą. 30 dienų laikotarpis pradedamas skaičiuoti nuo tos dienos, kai platformos operatoriui buvo pateiktas antrasis priminimas. Šis sprendimas turi būti patvirtintas Vilniaus apygardos administracinio teismo šio straipsnio 3 dalyje nurodyta tvarka. Šis sprendimas vykdomas tik jį patvirtinus. Patvirtintas sprendimas skelbiamas Valstybinės mokesčių inspekcijos interneto svetainėje. 
+4. Jeigu duomenis teikiantis platformos operatorius, išskyrus užsienio platformos operatorių, nevykdo pareigos teikti informaciją apie pardavėjus pagal šį straipsnį, Valstybinė mokesčių inspekcija po dviejų iš eilės platformos operatoriui pateiktų priminimų, ne vėliau kaip per 90 dienų, bet ne anksčiau kaip po 30 dienų nuo antrojo priminimo dienos, priima sprendimą, kuriuo Elektroninių ryšių įstatymo 98 straipsnyje nustatyta tvarka duoda privalomą nurodymą panaikinti galimybę pasiekti platformos operatoriaus interneto svetainę tol, kol platformos operatorius pašalins pažeidimą. 30 dienų laikotarpis pradedamas skaičiuoti nuo tos dienos, kai platformos operatoriui buvo pateiktas antrasis priminimas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2147, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14043
+ 
 
 
 
@@ -7286,3 +7292,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2005, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11582
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 148 straipsnio pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2147, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14043
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 61-3 straipsnio pakeitimo įstatymas
