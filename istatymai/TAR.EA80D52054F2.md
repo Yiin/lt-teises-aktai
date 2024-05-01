@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea80d52054f211e7846ef01bfffb9b64"
 
 # Lietuvos Respublikos architektūros įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2024-04-30
+Suvestinė redakcija nuo 2024-05-01
  
 Įstatymas paskelbtas: TAR 2017-06-19, i. k. 2017-10247
  
@@ -299,7 +299,10 @@ Architektai privalo:
 
 
 
-2. Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje įgyta architekto profesinė kvalifikacija pripažįstama vadovaujantis Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu ir jo įgyvendinamaisiais teisės aktais. Kitose užsienio valstybėse įgyta architekto profesinė kvalifikacija pripažįstama kitų teisės aktų nustatyta tvarka.
+2. Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių, Šveicarijos Konfederacijos piliečių, trečiųjų valstybių piliečių architekto profesinė kvalifikacija, įgyta Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse, Šveicarijos Konfederacijoje ar trečiosiose valstybėse, pripažįstama vadovaujantis Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu. Lietuvos Respublikos architektų rūmai priima sprendimus dėl šiose valstybėse įgytos architekto profesinės kvalifikacijos pripažinimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+ 
 
 
 
@@ -478,7 +481,10 @@ Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
 
 
 
-3) kai šiame įstatyme nurodytų objektų planavimo ar projektavimo atvejais rengiami architektūriniai konkursai geriausiai statinio architektūrinei ir urbanistinei idėjai atrinkti, derina konkurso sąlygas, jeigu jos neprieštarauja šio įstatymo 13 straipsnio 1 dalyje nurodytiems konkursų rengimo tikslams ir architektūros kokybės siekiui, atsižvelgdamas į šio įstatymo 11 straipsnyje nurodytus architektūros kokybės kriterijus, ir dalyvauja pasiūlytų idėjų vertinimo komisijoje;
+3) kai šiame įstatyme nurodytų objektų planavimo ar projektavimo atvejais rengiami architektūriniai konkursai geriausiai statinio architektūrinei ir urbanistinei idėjai atrinkti, derina konkurso sąlygas, jeigu jose nustatyti konkurso objektui taikomi reikalavimai neprieštarauja šio įstatymo 13 straipsnio 1 dalyje nurodytiems konkursų rengimo tikslams ir architektūros kokybės siekiui, atsižvelgdamas į šio įstatymo 11 straipsnyje nurodytus architektūros kokybės kriterijus, ir dalyvauja pasiūlytų idėjų vertinimo komisijoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+ 
 
 
 
@@ -508,60 +514,83 @@ ARCHITEKTŪROS KOKYBEI TAIKOMI REIKALAVIMAI
 11 straipsnis. Architektūros kokybės kriterijai
 
 
-Architektūros kokybės kriterijai yra šie: 
+1. Architektūros kokybės kriterijai yra šie: 
 
 
-1) urbanistinis integralumas;
-
-
-
-
-2) atitiktis darnaus vystymosi principui;
+1) atitiktis darnaus vystymosi principams – kokybiška architektūra, prisidedanti prie darnios valstybės ir žmonių aplinkos kūrimo, yra svarbi ekonomikos ir socialinių santykių raidai, atsižvelgiant į darnaus ir tvaraus vystymosi iššūkius;
 
 
 
 
-3) statybos ir kuriamos aplinkos kokybė (ergonomiškumas), ilgaamžiškumas; 
+2) urbanistinis integralumas – statinio, urbanistinio komplekso ir (ar) kraštovaizdžio objekto darna su esama urbanistine struktūra ir poveikis kultūriniam kraštovaizdžiui;
 
 
 
 
-4) inovatyvumas (naujų technologijų, medžiagų, architektūrinių, urbanistinių sprendimų panaudojimas);
+3) santykis su paveldėtomis vertėmis – kultūros paveldo objektų ir kultūros paveldo vietovių saugojimas, statinio, urbanistinio komplekso ir (ar) kraštovaizdžio objekto santykis su urbanistinės vietovės ar objekto istorine urbanistine ir (ar) architektūrine raida, kraštovaizdžio vertybėmis;
 
 
 
 
-5) nekilnojamojo kultūros paveldo išsaugojimas;
+4) aplinka visiems – aplinka be specialaus pritaikymo gali naudotis visos visuomenės grupės;
 
 
 
 
-6) aplinkos pritaikymas visiems visuomenės nariams – projektavimo visiems (universalaus dizaino) principų taikymas, užtikrinant žmonių srautų judumą ir projektuojamų objektų prieinamumą (pasiekiamumą);
+5) sprendinių ekonomiškumas – planuojamų sprendinių atitiktis ilgalaikėms investicijoms, jų racionalumas užtikrinant efektyvų statinio gyvavimo ciklą, siekiant optimalaus kokybės ir kainos santykio;
 
 
 
 
-7) vientisa architektūrinė idėja;
+6) inovatyvumas – naujos originalios architektūrinių ir urbanistinių sprendimų idėjos siekiant tvarios statybos ir statinio gyvavimo ciklo, naudojant pažangias technologijas ir medžiagas, skatinant žiedinę ekonomiką, klimatą ir energiją tausojančias priemones, kuriant kokybišką aplinką visiems;
 
 
 
 
-8) funkcionalios pastato struktūros kūrimas;
+7) funkcionali struktūra – statinio, urbanistinio komplekso ir (ar) kraštovaizdžio objekto atitiktis planuojamai funkcijai ir galimybė pritaikyti kintant funkcijoms;
 
 
 
 
-9) estetika;
+8) vientisa architektūrinė idėja ir estetika – nuosekliai suvokiama statinio, urbanistinio komplekso ir (ar) kraštovaizdžio objekto meninė išraiška.
 
 
 
 
-10) sprendimų racionalumas, įvertinus statinio projektavimo ir projekto realizavimo kainos santykio optimalumą. 
+
+
+2. Vertinant architektūros objektų kokybę, taikomi visi šio straipsnio 1 dalyje išvardyti kriterijai.
+
+
+
+
+3. Architektūros kokybės vertinimo metodiką (toliau – metodika) tvirtina aplinkos ministras. Metodikoje nustatomi architektūros kokybės vertinimo būdai ir priemonės pagal šio straipsnio 1 dalyje išvardytus architektūros kokybės kriterijus, atsižvelgus į kiekvieno kriterijaus vertinimo aspektus.
+
+
+
+
+4. Pagal aplinkos ministro patvirtintą metodiką kiekvienos savivaldybės įgaliota institucija ar įstaiga parengia metodikos taikymo gairių projektą (toliau – gairių projektas), atsižvelgdama į savivaldybės teritorijų ar jų dalių būdingus urbanistinių struktūrų ypatumus, architektūros objektų savitumus, laikydamasi teritorijų planavimo dokumentų sprendinių ir teisės aktų reikalavimų. Gairių projekto rengimo ir jo teikimo visuomenei susipažinti tvarka nustatoma metodikoje.
+
+
+
+
+5. Gairių projektas teikiamas visuomenei susipažinti ne trumpiau kaip 20 darbo dienų nuo jo paskelbimo savivaldybės interneto svetainėje dienos, informuojant, iki kada galima teikti pasiūlymus dėl gairių projekto. Gairių projektas teikiamas atitinkamai regioninei architektūros tarybai Regioninių architektūros tarybų nuostatuose nustatyta tvarka šios tarybos rekomendacijai gauti.
+
+
+
+
+6. Metodikos taikymo gairės, įvertinus visuomenės pasiūlymus, gautus metodikoje nustatyta tvarka, ir gavus atitinkamos regioninės architektūros tarybos rekomendaciją, tvirtinamos savivaldybės tarybos sprendimu. 
+TAR pastaba: 11 straipsnio 6 dalies nuostata dėl savivaldybių tarybų patvirtintų Architektūros kokybės vertinimo metodikos taikymo gairių taikoma nuo 2025 m. sausio 1 d.
+
+
+
+
+7. Savivaldybės tarybos sprendimas dėl metodikos taikymo gairių patvirtinimo skelbiamas tos savivaldybės interneto svetainėje.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
  
-
-
-
-
 
 
 
@@ -597,7 +626,10 @@ Architektūros kokybės kriterijai yra šie:
 
 
 
-13 straipsnis. Architektūrinių konkursų organizavimas 
+13 straipsnis. Architektūriniai konkursai ir teritorijų planavimo ir statinio projektavimo paslaugos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2525, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06312
+ 
 
 
 1. Architektūriniu, urbanistiniu, valstybiniu ar viešojo intereso požiūriu reikšmingų objektų planavimo ar projektavimo atvejais turi būti rengiami architektūriniai konkursai (toliau – konkursas), skirti geriausiai statinio architektūrinei idėjai, pateikiamai projektiniuose pasiūlymuose, ir (ar) urbanistinei idėjai, pateikiamai teritorijos vystymo koncepcijoje, išreikšti. Konkursai rengiami vadovaujantis šio įstatymo, Lietuvos Respublikos civilinio kodekso ir kitų įstatymų, kuriuose numatytas reikalavimas tokius konkursus rengti, nuostatomis. Konkursų tikslas – siekti šių objektų architektūros kokybės, optimalaus kokybės ir kainos santykio. 
@@ -605,7 +637,10 @@ Architektūros kokybės kriterijai yra šie:
 
 
 
-2. Šio straipsnio 1 dalyje nurodytais objektais savivaldybės tarybos sprendimu pripažįstami: 
+2. Šio straipsnio 1 dalyje nurodytais objektais, gavus regioninės architektūros tarybos rekomendaciją, savivaldybės tarybos sprendimu pripažįstami:  
+Straipsnio dalies pakeitimai:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+Nr. XIV-2525, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06312
 
 
 1) miestų teritorijų vystymo bendrosios kryptys; 
@@ -650,12 +685,46 @@ Architektūros kokybės kriterijai yra šie:
 
 
 
-5. Šio straipsnio 4 dalyje nurodyti subjektai, vykdydami konkursus, privalo pagal Lietuvos Respublikos architektų rūmų nustatytą tvarką parengti konkurso sąlygas ir iki konkurso pradžios raštu jas suderinti su Lietuvos Respublikos architektų rūmais. Lietuvos Respublikos architektų rūmai konkurso sąlygas derina, jeigu jos neprieštarauja šio straipsnio 1 dalyje nurodytiems konkursų rengimo tikslams ir architektūros kokybės siekiui, atsižvelgdami į šio įstatymo 11 straipsnyje nurodytus architektūros kokybės kriterijus. 
+5. Šio straipsnio 4 dalyje nurodyti subjektai, vykdydami konkursus, privalo pagal Lietuvos Respublikos architektų rūmų nustatytą tvarką parengti konkurso sąlygas ir iki konkurso pradžios raštu jas suderinti su Lietuvos Respublikos architektų rūmais. Lietuvos Respublikos architektų rūmai konkurso sąlygas derina, jeigu jos suderintos su savivaldybės vyriausiuoju architektu ir neprieštarauja šio straipsnio 1 dalyje nurodytiems konkursų rengimo tikslams ir architektūros kokybės siekiui, atsižvelgdami į šio įstatymo 11 straipsnyje nurodytus architektūros kokybės kriterijus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+Nr. XIV-2525, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06312
+ 
 
 
 
 
 6. Šio straipsnio 1 dalyje nurodyti konkursai negali būti rengiami kartu su statybos rangos konkursais.
+
+
+
+
+7. Šio straipsnio 3 ir 4 dalyse nurodyti subjektai, rengdami šio straipsnio 1 dalyje nurodytus konkursus, objektus turi įvertinti pagal pirkimo dokumentuose ar konkurso sąlygose nustatytus kriterijus, kurie turi remtis kainos ar sąnaudų ir kokybės santykiu, kaip tai suprantama Viešųjų pirkimų įstatyme
+Papildyta straipsnio dalimi:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+Straipsnio dalies pakeitimai:
+Nr. XIV-2525, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06312
+ 
+
+
+
+
+8. Jeigu statinio projektavimo paslaugoms pirkti rengiami šio straipsnio 1 dalyje nurodyti konkursai, numatomos lėšos šio statinio meno kūriniams sukurti ir (ar) įsigyti. Jeigu statinio statybai skiriamos valstybės biudžeto lėšos, numatoma ne mažiau kaip 1 procentas lėšų nuo statinio statybos sąmatinės vertės meno kūriniams sukurti ir (ar) įsigyti
+Papildyta straipsnio dalimi:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+Straipsnio dalies pakeitimai:
+Nr. XIV-2525, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06312
+ 
+
+
+
+
+9. Jeigu pagal statinio projektavimo paslaugų pirkimo apimtį numatoma rengti statinio projekto architektūrinę dalį, pasirenkamas statinio projektuotojas, pateikęs ekonomiškai naudingiausią pasiūlymą, kuris suprantamas taip, kaip jis apibrėžiamas Viešųjų pirkimų įstatymo 55 straipsnio 1 dalies 1 punkte.
+TAR pastaba: 13 straipsnio 7, 8 ir 9 dalių nuostatos netaikomos konkursams, pradėtiems vykdyti iki įstatymo Nr. XIV-2416 įsigaliojimo dienos (2024-05-01).
+Papildyta straipsnio dalimi:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+Straipsnio dalies pakeitimai:
+Nr. XIV-2525, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06312
  
 
 
@@ -757,7 +826,10 @@ VALSTYBĖS, SAVIVALDYBIŲ IR KITŲ INSTITUCIJŲ AR ĮSTAIGŲ KOMPETENCIJA ARCHIT
 
 
 
-4) atlieka kompetentingos institucijos funkcijas Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo nustatyta tvarka pripažįstant užsienyje įgytas architektų profesines kvalifikacijas;
+4) reglamentuoja architekto profesinės kvalifikacijos, įgytos užsienio valstybėse, pripažinimą architektūros valdymo srityje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+ 
 
 
 
@@ -825,7 +897,6 @@ VALSTYBĖS, SAVIVALDYBIŲ IR KITŲ INSTITUCIJŲ AR ĮSTAIGŲ KOMPETENCIJA ARCHIT
 
 3) reikalingą šiame įstatyme nustatytoms valstybės funkcijoms architektūros srityje įgyvendinti. 
  
- 
 
 
 
@@ -837,11 +908,12 @@ VALSTYBĖS, SAVIVALDYBIŲ IR KITŲ INSTITUCIJŲ AR ĮSTAIGŲ KOMPETENCIJA ARCHIT
 17 straipsnis. Lietuvos Respublikos architektų rūmų kompetencija
 
 
-Šiame įstatyme nustatytas funkcijas vykdo, architektų profesinę savivaldą įgyvendina ir architektų profesiniams interesams atstovauja viešasis juridinis asmuo – Lietuvos Respublikos architektų rūmai. Rūmai veikia pagal Lietuvos Respublikos architektų rūmų įstatymą, Lietuvos Respublikos asociacijų įstatymą, Civilinį kodeksą ir kitus teisės aktus. 
- 
- 
+Šiame įstatyme nustatytas funkcijas, vadovaujantis Lietuvos Respublikos architektų rūmų įstatymu, Lietuvos Respublikos asociacijų įstatymu, šiuo įstatymu, Civiliniu kodeksu ir kitais teisės aktais, vykdo, architektų profesinę savivaldą įgyvendina ir architektų profesiniams interesams atstovauja viešasis juridinis asmuo – Lietuvos Respublikos architektų rūmai. Lietuvos Respublikos architektų rūmai atlieka kompetentingos institucijos funkcijas, nustatytas Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, išskyrus architekto profesinės kvalifikacijos, įgytos užsienio valstybėje, pripažinimo reglamentavimą architektūros valdymo srityje.
 
 
+Straipsnio pakeitimai:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+ 
 
 
 
@@ -892,9 +964,10 @@ Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
 
 
 
-4. Regioninių architektūros tarybų nuostatus ir sudėtį, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, tvirtina Lietuvos Respublikos architektų rūmų taryba. Regioninių architektūros tarybų nariais asmenys gali būti renkami ar skiriami ne daugiau kaip dviem kadencijoms iš eilės. Regioninės architektūros tarybos nariai išsirenka tarybos pirmininką. Regioninių architektūros tarybų nuostatuose nustatoma tarybų darbo tvarka, tarybų posėdžiuose dalyvaujančių tarybų narių rašytinių išvadų ir (ar) rekomendacijų kokybiniai reikalavimai, tarybų posėdžių organizavimo, techninio aptarnavimo ir tarybų narių darbo apmokėjimo tvarka, tarybų narių rotacijos tarybos viduje ir tarp skirtingų regioninių architektūros tarybų tvarka, tarybų narių teisės ir pareigos, nusišalinimo ir atšaukimo tvarka. Regioninių architektūros tarybų nuostatuose nustatoma nusišalinimo nuo sprendimų priėmimo ir asmenų teisės kreiptis į Lietuvos Respublikos architektų rūmus, jeigu regioninių architektūros tarybų nariai nevykdė šioje dalyje įtvirtintos prievolės nusišalinti nuo sprendimų priėmimo, įgyvendinimo tvarka. Regioninių architektūros tarybų nariai privalo nusišalinti, kai gali kilti interesų konfliktas dėl šiose tarybose nagrinėjamų klausimų, jeigu:  
+4. Regioninių architektūros tarybų nuostatus ir sudėtį, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, tvirtina Lietuvos Respublikos architektų rūmų taryba. Regioninių architektūros tarybų nariais asmenys gali būti renkami ar skiriami ne daugiau kaip dviem kadencijoms iš eilės. Regioninės architektūros tarybos nariai išsirenka tarybos pirmininką. Regioninių architektūros tarybų nuostatuose nustatoma tarybų darbo tvarka, tarybų išvadų ir (ar) rekomendacijų kokybiniai reikalavimai, tarybų posėdžių organizavimo, techninio aptarnavimo ir tarybų narių darbo apmokėjimo tvarka, tarybų narių rotacijos tarybos viduje ir tarp skirtingų regioninių architektūros tarybų tvarka, tarybų narių teisės ir pareigos, nusišalinimo ir atšaukimo tvarka. Regioninių architektūros tarybų nuostatuose nustatoma nusišalinimo nuo sprendimų priėmimo ir asmenų teisės kreiptis į Lietuvos Respublikos architektų rūmus, jeigu regioninių architektūros tarybų nariai nevykdė šioje dalyje įtvirtintos prievolės nusišalinti nuo sprendimų priėmimo, įgyvendinimo tvarka. Regioninių architektūros tarybų nariai privalo nusišalinti, kai gali kilti interesų konfliktas dėl šiose tarybose nagrinėjamų klausimų, jeigu:  
 Straipsnio dalies pakeitimai:
 Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
 
 
 1) sprendžiami klausimai, susiję su to paties nario vykdoma architekto veikla;
@@ -1000,9 +1073,11 @@ Nr. XIV-498, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15872
 
 
 
-13. Regioninės architektūros tarybos posėdžiuose pagal šio straipsnio 3 dalies nuostatas rotacijos principu dalyvauja ir rašytines išvadas ir (ar) rekomendacijas regioninės architektūros tarybos bendrai išvadai parengti teikia ne daugiau kaip 13 tarybos narių. Tarybos nariams už darbą apmokama šio straipsnio 17 dalyje nurodyta tvarka. 
+13. Regioninės architektūros tarybos posėdžiuose pagal šio straipsnio 3 dalies nuostatas rotacijos principu dalyvauja ir pasiūlymus regioninės architektūros tarybos bendrai išvadai parengti teikia ne daugiau kaip 13 tarybos narių. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1371, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15201
+Straipsnio dalies pakeitimai:
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
  
 
 
@@ -1143,3 +1218,13 @@ Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 18 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1756, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27574
 Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 18 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2416, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25637
+Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 7, 10, 11, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2525, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06312
+Lietuvos Respublikos architektūros įstatymo Nr. XIII-425 7, 10, 11, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymo Nr. XIV-2416 4 ir 8 straipsnių pakeitimo įstatymas
