@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60718c50037311edb32c9f9d8ba206f8"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
-Suvestinė redakcija nuo 2023-12-15 iki 2024-05-03
+Suvestinė redakcija nuo 2024-05-04 iki 2025-08-31
  
 Įstatymas paskelbtas: TAR 2022-07-14, i. k. 2022-15485
  
@@ -544,7 +544,7 @@ Pakeisti 52 straipsnį ir jį išdėstyti taip:
 
 
 
-13 straipsnis. 53 straipsnio pakeitimas 
+13 straipsnis. 53 straipsnio pakeitimas
 
 
 Pakeisti 53 straipsnį ir jį išdėstyti taip:
@@ -570,7 +570,7 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 
 
-4. Įprastinė nuolatinės formos studijų vienų metų apimtis yra 60 kreditų, bet ne mažiau kaip 45 kreditai. Ištęstinės formos studijų vienų metų apimtis gali būti mažesnė kaip 45 studijų kreditai, bet bendra jų trukmė neturi būti daugiau kaip pusantro karto ilgesnė negu nuolatinės formos studijų trukmė, nuolatinėms studijoms taikant 60 studijų kreditų normą.
+4. Įprastinė nuolatinės formos studijų vienų metų apimtis yra 60 studijų kreditų, bet ne mažiau kaip 45 studijų kreditai. Ištęstinės formos studijų vienų metų apimtis gali būti mažesnė kaip 45 studijų kreditai, bet bendra jų trukmė neturi būti daugiau kaip pusantro karto ilgesnė negu nuolatinės formos studijų trukmė, nuolatinėms studijoms taikant 60 studijų kreditų normą.
 
 
 
@@ -595,12 +595,12 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 
 
-9. Profesinių studijų (išskyrus rezidentūrą) apimtis yra 60 studijų kreditų. Rezidentūros apimtį (trukmę) nustato Vyriausybė arba jos įgaliota institucija.
+9. Profesinių studijų (išskyrus rezidentūrą) apimtis yra nuo 60 iki 120 studijų kreditų. Rezidentūros apimtį (trukmę) nustato Vyriausybė arba jos įgaliota institucija.
 
 
 
 
-10. Studijos vykdomos pagal studijų programas. Studijų programos yra universitetinės ir koleginės. 
+10. Studijos vykdomos pagal studijų programas. Studijų programos yra universitetinės ir koleginės.
 
 
 
@@ -610,7 +610,7 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 
 
-12. Trumposios pakopos studijų programos turi atitikti profesinius standartus ir atitinkamos studijų krypties aprašą, jos turi būti suderintos su profesiniais standartais ir studijų krypčių aprašais ne vėliau kaip per 12 mėnesių nuo profesinio standarto ir atitinkamos studijų krypties aprašo patvirtinimo ar pakeitimo dienos.
+12. Trumposios pakopos studijų programos turi atitikti profesinius standartus ir tam tikros studijų krypties aprašą, jos turi būti suderintos su profesiniais standartais ir studijų krypčių aprašais ne vėliau kaip per 12 mėnesių nuo profesinio standarto ir tam tikros studijų krypties aprašo patvirtinimo ar pakeitimo dienos.
 
 
 
@@ -620,7 +620,7 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 
 
-14. Studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, jo keitimo tvarką, kvalifikacinių laipsnių sąrangą ir studijų programų pavadinimų sudarymo principus tvirtina švietimo, mokslo ir sporto ministras. Pirmosios ir antrosios pakopų studijų programos gali būti dviejų studijų krypčių. Šiuo atveju studijų programa turi atitikti abiejų krypčių aprašuose nustatytus reikalavimus. Kai aukštoji mokykla kartu su užsienio valstybės aukštąja mokykla vykdo jungtinę studijų programą, gali būti suteikiamas ir kitas, negu įrašytas į studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, kvalifikacinis laipsnis. Teisę teikti tokį kvalifikacinį laipsnį aukštajai mokyklai suteikia švietimo, mokslo ir sporto ministras.
+14. Studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, jo keitimo tvarką, kvalifikacinių laipsnių sąrangą ir studijų programų pavadinimų sudarymo principus nustato švietimo, mokslo ir sporto ministras. Pirmosios ir antrosios pakopų studijų programos gali būti dviejų studijų krypčių. Šiuo atveju studijų programa turi atitikti abiejų krypčių aprašuose nustatytus reikalavimus. Kai aukštoji mokykla kartu su užsienio valstybės aukštąja mokykla vykdo jungtinę studijų programą, gali būti suteikiamas ir kitas, negu įrašytas į studijų krypčių ir krypčių grupių, pagal kurias vyksta studijos aukštosiose mokyklose, sąrašą, kvalifikacinis laipsnis. Teisę teikti tokį kvalifikacinį laipsnį aukštajai mokyklai suteikia švietimo, mokslo ir sporto ministras.
 
 
 
@@ -640,21 +640,23 @@ Pakeisti 53 straipsnį ir jį išdėstyti taip:
 
 
 
-18. Universitetai ir kolegijos gali vykdyti jungtines atitinkamai universitetinių ar koleginių studijų programas kartu su Lietuvos ar užsienio valstybių aukštosiomis mokyklomis. Baigus šias programas suteikiamas (suteikiami) kvalifikacinis (kvalifikaciniai) arba jungtinis kvalifikacinis laipsnis (laipsniai). Rengiant krašto apsaugos sistemai reikalingus specialistus, jungtines studijų programas gali rengti universitetai kartu su kolegijomis, suderinę su Krašto apsaugos ministerija ir Švietimo, mokslo ir sporto ministerija. 
+18. Universitetai ir kolegijos gali vykdyti jungtines atitinkamai universitetinių ar koleginių studijų programas kartu su Lietuvos ar užsienio valstybių aukštosiomis mokyklomis. Baigus šias programas suteikiamas (suteikiami) kvalifikacinis (kvalifikaciniai) arba jungtinis kvalifikacinis laipsnis (laipsniai). Rengiant krašto apsaugos sistemai reikalingus specialistus, jungtines studijų programas gali rengti universitetai kartu su kolegijomis, suderinę su Krašto apsaugos ministerija ir Švietimo, mokslo ir sporto ministerija.
 
 
 
 
 19. Trumposios pakopos studijų programas gali vykdyti kolegijos, vykdančios tam tikros studijų krypties koleginių studijų programas.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2586, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08306
  
-
-
-
-
-
-
-
-
 
 
 
@@ -1649,3 +1651,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2308, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24175
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 18 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2586, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08306
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, 85 straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymo Nr. XIV-1257 13 straipsnio pakeitimo įstatymas
