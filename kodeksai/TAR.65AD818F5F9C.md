@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-05
+Suvestinė redakcija nuo 2024-05-06 iki 2024-12-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -588,181 +588,195 @@ Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
 
 
 
-82 straipsnis. Leidimų vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą išdavimas, galiojimo sustabdymas, panaikinimas
+82 straipsnis. Lietuvos Respublikoje išduodamų leidimų vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą ir Lietuvos Respublikoje išduodamų leidimų vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklą išdavimas, šių leidimų galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
 
 
-1. Vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą gali vežėjai, turintys leidimą. Vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklą gali tik fiziniai asmenys, naudodamiesi keleivių vežimo organizatoriaus paslaugomis. Keleivių vežimas lengvuoju automobiliu asmeniniais tikslais suplanuotu maršrutu nesiekiant finansinės naudos nėra laikomas keleivių vežimu už atlygį lengvuoju automobiliu. Draudžiama vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą neturint galiojančio leidimo arba tuo atveju, kai leidimo galiojimas sustabdytas.
+1. Vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą gali vežėjai, turintys šio kodekso 8 straipsnio 2 dalies 6 punkte nurodytą leidimą (toliau – taksi leidimas). Vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklą gali tik fiziniai asmenys, turintys šio kodekso 8 straipsnio 2 dalies 7 punkte nurodytą leidimą (toliau – pavėžėjimo leidimas), naudodamiesi keleivių vežimo organizatoriaus paslaugomis. Keleivių vežimas lengvuoju automobiliu asmeniniais tikslais suplanuotu maršrutu nesiekiant finansinės naudos nėra laikomas keleivių vežimu už atlygį lengvuoju automobiliu. Draudžiama vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą neturint galiojančio taksi leidimo ar pavėžėjimo leidimo (toliau kartu šiame straipsnyje – leidimas) arba kai leidimo galiojimas sustabdytas.
 
 
 
 
-2. Asmenims, siekiantiems įgyti šio kodekso 8 straipsnio 2 dalies 6 ir 7 punktuose nurodytus leidimus (toliau šiame straipsnyje – leidimas), leidimai išduodami, jeigu tie asmenys deklaruoja, kad atitinka visus šiuos reikalavimus: 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1167, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15210
+2. Subjektas, siekiantis gauti leidimą ir jį gavęs, privalo atitikti šiuos reikalavimus:
 
 
-1) yra įregistravę individualią veiklą ir turi ne mažesnį kaip 2 metų lengvojo automobilio vairavimo stažą, kai leidimo prašo fizinis asmuo;
+1) būti registruotas Europos Sąjungos ar Europos ekonominės erdvės valstybėje narėje, kai taksi leidimo prašo ar jį yra gavęs juridinis asmuo ar juridinio asmens statuso neturintis subjektas;
 
 
 
 
-2) neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybės biudžetui ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas);
+2) apie vykdomą individualią veiklą būti informavęs mokesčio administratorių Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko nustatyta tvarka, kai leidimo prašo ar jį yra gavęs fizinis asmuo;
 
 
 
 
-3) asmuo yra Lietuvos Respublikos transporto priemonių registre įregistruoto lengvojo automobilio, kuriuo bus vykdoma keleivių vežimo už atlygį lengvaisiais automobiliais veikla, savininkas arba šį lengvąjį automobilį valdo kitu teisėtu pagrindu;
+3) turėti galiojantį Europos Sąjungos, Europos ekonominės erdvės ar Šiaurės Atlanto sutarties organizacijos (NATO) valstybėje narėje, Šveicarijos Konfederacijoje arba Ukrainoje išduotą vairuotojo pažymėjimą, kuriuo patvirtinama asmens teisė vairuoti lengvąjį automobilį (B kategorijos motorinę transporto priemonę), ir ne mažesnį kaip 2 metų lengvojo automobilio vairavimo stažą, kai leidimo prašo ar jį yra gavęs fizinis asmuo; Ukrainoje išduotas vairuotojo pažymėjimas, kuriuo patvirtinama asmens teisė vairuoti lengvąjį automobilį (B kategorijos motorinę transporto priemonę), pripažįstamas galiojančiu tol, kol galioja 2022 m. liepos 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/1280, kuriuo, atsižvelgiant į Rusijos invaziją į Ukrainą, nustatomos konkrečios laikinosios priemonės, susijusios su Ukrainos pagal Ukrainos teisės aktus išduotais vairuotojų dokumentais;
 
 
 
 
-4) yra įvykdyti Lietuvos Respublikos rinkliavų įstatyme nustatyti reikalavimai.
+4) būti neskolingas (laikomas neskolingu) Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas;
 
 
 
 
+5) būti Lietuvos Respublikos kelių transporto priemonių registre įregistruoto lengvojo automobilio, kuriuo vykdoma keleivių vežimo už atlygį lengvaisiais automobiliais taksi ar keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veikla, savininkas arba šį lengvąjį automobilį valdyti kitu teisėtu pagrindu;
 
 
-3. Asmenims, kuriems išduoto leidimo galiojimas buvo panaikintas dėl šio straipsnio 10 dalies 5 punkte nurodytų pažeidimų, leidimai nėra išduodami vienus metus nuo leidimo galiojimo panaikinimo.
 
 
+6) būti įvykdęs Lietuvos Respublikos rinkliavų įstatyme nustatytą reikalavimą sumokėti valstybės rinkliavą už leidimo išdavimą;
 
 
-4. Leidimus išduoda, leidimų galiojimą sustabdo, leidimų galiojimo sustabdymą ar leidimų galiojimą panaikina Transporto saugos administracija susisiekimo ministro nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
- 
 
 
+7) būti nepriekaištingos reputacijos, kai leidimo prašo ar jį yra gavęs fizinis asmuo.
 
 
-5. Leidimai galioja neterminuotai. Leidimų turėtojai neturi teisės perleisti suteiktos teisės vykdyti leidime nurodytą veiklą kitiems asmenims.
 
 
 
 
-6. Laikoma, kad leidimai yra išduoti kitą dieną nuo vežėjo pranešimo apie ketinimą vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą (toliau – pranešimas) pateikimo Transporto saugos administracijai dienos. Kai pranešime yra nurodyta diena, nuo kurios ketinama pradėti vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą, ir ši diena yra vėlesnė negu kita diena nuo pranešimo pateikimo dienos, laikoma, kad leidimas yra išduotas nuo pranešime nurodytos dienos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
- 
+3. Leidimus išduoda, leidimų galiojimą sustabdo, leidimų galiojimo sustabdymą ar leidimų galiojimą panaikina Transporto saugos administracija šio kodekso ir susisiekimo ministro nustatyta tvarka. Savivaldybių institucijų arba jų įgaliotų įstaigų priežiūros tarnybos dėl šio straipsnio 10 dalies 3 punkto ir šio straipsnio 12 dalies 4 ir 5 punktų pažeidimų per 5 darbo dienas nuo pažeidimo nustatymo dienos privalo pateikti informaciją Transporto saugos administracijai.
 
 
 
 
-7. Vežėjas nedelsiant, bet ne vėliau kaip per 3 darbo dienas nuo atitinkamų teisės aktų reikalavimų pažeidimų paaiškėjimo dienos, įspėjamas apie galimą leidimų galiojimo sustabdymą, jeigu:
+4. Leidimai galioja neterminuotai.
 
 
-1) jis pažeidžia keleivių vežimo už atlygį lengvaisiais automobiliais reikalavimus, nurodytus šio straipsnio 13 ir 14 dalyse;
 
 
+5. Leidimai išduodami arba motyvuotai atsisakoma juos išduoti ne vėliau kaip per 10 darbo dienų nuo Transporto saugos administracijos nustatytos formos prašymo ir dokumentų, įrodančių subjekto, siekiančio gauti leidimą, atitiktį šio straipsnio 2 dalyje nurodytiems reikalavimams, gavimo Transporto saugos administracijoje dienos. Leidimas neišduodamas, jeigu nustatoma subjekto, siekiančio gauti leidimą, neatitiktis bent vienam iš šio straipsnio 2 dalyje nurodytų reikalavimų arba jeigu išduoto leidimo galiojimas buvo panaikintas pagal šio straipsnio 12 dalies 4, 5 ir 8 punktus ir nuo jo galiojimo panaikinimo dienos nepraėjo 12 mėnesių. Administracinis sprendimas dėl leidimo išdavimo priimamas ir išduoto leidimo duomenys skelbiami Licencijų informacinėje sistemoje (toliau – LIS). Apie priimtą sprendimą subjektas informuojamas per 3 darbo dienas.
 
 
-2) paaiškėja, kad leidimo turėtojas nevykdo leidime nurodytos veiklos ilgiau kaip vienus metus ir nesikreipė į leidimą išdavusią instituciją dėl leidimo galiojimo sustabdymo arba panaikinimo. 
 
 
+6. Transporto saugos administracija LIS įrašo leidimus išduodančios institucijos pavadinimą; leidimo išdavimo datą ir numerį; leidimo rūšį; subjekto pavadinimą, įmonės kodą arba vardą ir pavardę, jeigu subjektas fizinis asmuo, adresą, telefono numerį; gimimo datą (kai leidimas išduotas fiziniam asmeniui); transporto priemonės (-ių) markę (-es), modelį (-ius), valstybinį (-ius) registracijos ir identifikacijos (VIN) numerius; leidimo galiojimo būseną. Vežėjas privalo užtikrinti, kad leidime nurodyta informacija būtų aktuali, ir pasikeitus leidime nurodytiems duomenims per 5 darbo dienas apie tai informuoti Transporto saugos administraciją, o ši ne vėliau kaip per 2 darbo dienas pakeičia leidimą. Siekiant informacinių technologijų priemonėmis centralizuotai pateikti informaciją apie leidimų išdavimo ar jų galiojimo sustabdymo duomenis, LIS duomenys apie konkretiems vežėjams išduotus leidimus ir jiems išduotų leidimų galiojimo sustabdymą yra viešai prieinami. Informacija apie leidimo išdavimą, leidimo galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą elektroninių ryšių priemonėmis pagal keleivių vežimo organizatoriaus ir taksi dispečerinės sutartis su LIS tvarkytoju pateikiama vežėjui, keleivių vežimo organizatoriui ir taksi dispečerinei.
 
 
 
 
-8. Leidimo galiojimas sustabdomas, jeigu vežėjas:
+7. Leidime nurodytą veiklą galima vykdyti tik taksi leidime ar pavėžėjimo leidime nurodytais lengvaisiais automobiliais. Tas pats lengvasis automobilis negali būti nurodytas ir taksi, ir pavėžėjimo leidime.
 
 
-1) pateikia prašymą sustabdyti leidimo galiojimą;
 
 
+8. Transporto saugos administracija leidime nurodytą lengvąjį automobilį iš jo išbraukia ne vėliau kaip kitą darbo dieną, nustačiusi ar gavusi informacijos iš valstybinę kelių transporto priežiūrą atliekančių institucijų, kad leidime nurodyto lengvojo automobilio privalomoji techninė apžiūra nėra atlikta susisiekimo ministro tvirtinamame privalomosios transporto priemonių techninės apžiūros atlikimo tvarkos apraše (toliau – Aprašas) nustatytu periodiškumu arba kad lengvasis automobilis neturi transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimo (poliso), tinkančio vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą. Valstybinę kelių transporto priežiūrą atliekančios institucijos šioje dalyje nurodytą informaciją pateikia Transporto saugos administracijai ne vėliau kaip per 5 darbo dienas nuo pažeidimo paaiškėjimo dienos.
 
 
-2) buvo įspėtas apie galimą leidimo galiojimo sustabdymą pagal šio straipsnio 7 dalies 1 punktą ir per leidimą išdavusios institucijos nustatytą terminą nepašalino nurodytų pažeidimų ir nepranešė apie jų pašalinimą leidimą išdavusiai institucijai;
 
 
+9. Transporto saugos administracija nedelsdama, bet ne vėliau kaip per 3 darbo dienas nuo šios dalies 1–3 punktuose nurodytų pažeidimų paaiškėjimo dienos, įspėja vežėją apie galimą leidimų galiojimo sustabdymą ir suteikia jam 5 darbo dienų terminą trūkumams pašalinti, jeigu:
 
 
-3) leidimui išduoti pateikia neteisingus duomenis;
+1) vežėjas pažeidžia keleivių vežimo už atlygį lengvaisiais automobiliais reikalavimus, nurodytus šio straipsnio 15 ir 16 dalyse, kai leidime yra nurodytas vienas lengvasis automobilis;
 
 
 
 
-4) buvo įspėtas pagal šio straipsnio 7 dalies 2 punktą ir per 5 darbo dienas nuo įspėjimo pateikimo dienos nesikreipė į leidimą išdavusią instituciją dėl leidimo galiojimo sustabdymo arba panaikinimo arba nepranešė apie vykdomą leidime nurodytą veiklą.
+2) vežėjas nebeatitinka šio straipsnio 2 dalies 4 punkte nurodyto reikalavimo;
 
 
 
 
+3) atliekant valstybinę kelių transporto priežiūrą paaiškėja, kad leidime nurodyta informacija yra pasikeitusi.
 
 
-9. Leidimo galiojimo sustabdymas panaikinamas, jeigu vežėjas, kuriam išduoto leidimo galiojimas buvo sustabdytas:
 
 
-1) pateikė prašymą panaikinti leidimo galiojimo sustabdymą, jeigu leidimo galiojimas buvo sustabdytas šio straipsnio 8 dalies 1 punkte nurodytu pagrindu;
 
 
+10. Leidimo galiojimas sustabdomas, jeigu:
 
 
-2) per leidimą išdavusios institucijos nustatytą terminą pašalino nurodytus pažeidimus, dėl kurių buvo sustabdytas leidimo galiojimas pagal šio straipsnio 8 dalies 2 punktą, ir raštu pranešė apie jų pašalinimą leidimą išdavusiai institucijai;
+1) vežėjas pateikia prašymą sustabdyti leidimo galiojimą;
 
 
 
 
-3) pranešė apie vykdomą leidime nurodytą veiklą.
+2) vežėjas buvo įspėtas apie galimą leidimo galiojimo sustabdymą pagal šio straipsnio 9 dalies 1 punktą, per 5 darbo dienas nepašalino nurodytų pažeidimų ir nepranešė apie jų pašalinimą Transporto saugos administracijai;
 
 
 
 
+3) vežėjas nebeatitinka šio straipsnio 2 dalies 1–5 punktuose nurodytų reikalavimų;
 
 
-10. Leidimo galiojimas panaikinamas, jeigu:
 
 
-1) vežėjas, turintis leidimą, pateikęs šio straipsnio 6 dalyje nurodytą pranešimą leidimus išduodančiai institucijai, neatitiko šio straipsnio 2 dalyje nustatytų reikalavimų;
+4) vežėjas buvo įspėtas apie galimą leidimo galiojimo sustabdymą pagal šio straipsnio 9 dalies 3 punktą ir per 5 darbo dienas nepateikė prašymo pakeisti leidimą.
 
 
 
 
-2) vežėjas, turintis leidimą, pateikia prašymą panaikinti leidimo galiojimą;
 
 
+11. Leidimo galiojimo sustabdymas panaikinamas, jeigu vežėjas, kuriam išduoto leidimo galiojimas buvo sustabdytas:
 
 
-3) paaiškėja, kad leidimą turintis vežėjas, kuris yra fizinis asmuo, nutraukė individualią veiklą;
+1) pateikė prašymą panaikinti leidimo galiojimo sustabdymą, jeigu leidimo galiojimas buvo sustabdytas šio straipsnio 10 dalies 1 punkte nurodytu pagrindu;
 
 
 
 
-4) leidimą turintis vežėjas, kuris yra fizinis asmuo, miršta ar vežėjas, kuris nėra fizinis asmuo, likviduojamas ar reorganizuojamas ir baigia savo veiklą;
+2) per 20 darbo dienų pašalino nurodytus pažeidimus arba neatitiktį, dėl kurių buvo sustabdytas leidimo galiojimas pagal šio straipsnio 10 dalies 2, 3 arba 4 punktą, raštu pranešė apie pažeidimų pašalinimą arba apie atitiktį šio straipsnio 2 dalies 1–5 punktuose nurodytiems reikalavimams Transporto saugos administracijai ir kartu pateikė tai įrodančius dokumentus.
 
 
 
 
-5) vežėjas, kuriam išduoto leidimo galiojimas buvo sustabdytas pagal šio straipsnio 8 dalies 2 punktą, per leidimą išdavusios institucijos nustatytą terminą nepašalino nurodytų pažeidimų ir apie jų pašalinimą nepranešė leidimą išdavusiai institucijai;
 
 
+12. Leidimo galiojimas panaikinamas, jeigu:
 
 
-6) vežėjas, kuriam išduoto leidimo galiojimas buvo sustabdytas pagal šio straipsnio 8 dalies 4 punktą, per 10 darbo dienų po to, kai leidimo galiojimas buvo sustabdytas, nesikreipė į leidimą išdavusią instituciją; 
+1) vežėjas, turintis leidimą, pateikia prašymą panaikinti leidimo galiojimą;
 
 
 
 
-7) vežėjas, turintis leidimą, pažeidė šio straipsnio 12 dalyje nurodytus reikalavimus;
+2) paaiškėja, kad leidimą turintis vežėjas, kuris yra juridinis asmuo, pasibaigė (yra likviduotas arba reorganizuotas);
 
 
 
 
-8) nesilaikoma šio straipsnio 16 dalyje nurodyto reikalavimo.
+3) vežėjas, kuriam išduoto leidimo galiojimas buvo sustabdytas pagal šio straipsnio 10 dalies 2, 3 arba 4 punktą, per 20 darbo dienų nepašalino nurodytų pažeidimų arba neatitikties šio straipsnio 2 dalies 1–5 punktuose nurodytiems reikalavimams, apie pažeidimų pašalinimą arba apie atitiktį šio straipsnio 2 dalies 1–5 punktuose nurodytiems reikalavimams nepranešė Transporto saugos administracijai ir kartu nepateikė pažeidimų pašalinimą arba atitiktį šio straipsnio 2 dalies 1–5 punktuose nurodytiems reikalavimams įrodančių dokumentų;
 
 
 
 
+4) vežėjas, turintis leidimą, leido naudoti pavėžėjimo ar taksi veiklai vykdyti savo valdomą lengvąjį automobilį, kuris yra nurodytas jam išduotame leidime, leidimo neturintiems asmenims arba asmenims, kuriems išduotame leidime nėra nurodytas tas lengvasis automobilis, arba leido naudotis keleivių vežimo organizatoriaus mobiliojoje programoje susikurta paskyra leidimo neturintiems asmenims;
 
 
-11. Transporto saugos administracija sustabdo leidimo galiojimą, panaikina leidimo galiojimo sustabdymą ar leidimo galiojimą ir praneša apie leidimo galiojimo sustabdymą, leidimo galiojimo sustabdymą ar leidimo galiojimo panaikinimą vežėjui, turinčiam leidimą, ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 8, 9 ar 10 dalyse nurodytų aplinkybių paaiškėjimo dienos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
- 
 
 
+5) vežėjas, turintis leidimą, vykdo veiklą lengvuoju automobiliu, kuris nėra nurodytas leidime;
 
 
-12. Lengvųjų automobilių, kuriais teikiamos keleivių vežimo už atlygį paslaugos, vairuotojai turi turėti ne mažesnį kaip 2 metų lengvojo automobilio vairavimo stažą ir būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
+
+
+6) vežėjas, kuris yra fizinis asmuo, nebeatitinka reikalavimo būti nepriekaištingos reputacijos;
+
+
+
+
+7) vežėjas, kuris yra fizinis asmuo, nutraukia individualią veiklą;
+
+
+
+
+8) vežėjas vykdo veiklą, kai yra sustabdytas leidimo galiojimas.
+
+
+
+
+
+
+13. Transporto saugos administracija sustabdo leidimo galiojimą, panaikina leidimo galiojimo sustabdymą ar leidimo galiojimą ir praneša apie leidimo galiojimo sustabdymą, leidimo galiojimo sustabdymo panaikinimą ar leidimo galiojimo panaikinimą vežėjui, turinčiam leidimą, ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 10, 11 ar 12 dalyje nurodytų aplinkybių paaiškėjimo dienos.
+
+
+
+
+14. Lengvųjų automobilių, kuriais teikiamos keleivių vežimo už atlygį paslaugos, vairuotojai turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 
 
 1) buvo nuteistas už sunkų ar labai sunkų nusikaltimą ir teistumas nėra išnykęs ar panaikintas;
@@ -782,15 +796,15 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-13. Vežėjo, vykdančio keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą, lengvasis automobilis privalo:
+15. Taksi leidimo turėtojo lengvasis automobilis privalo:
 
 
-1) atitikti techninius motorinių transporto priemonių ir jų priekabų reikalavimus;
+1) būti perėjęs keleiviams vežti už atlygį naudojamo lengvojo automobilio privalomąją techninę apžiūrą, kuri atliekama Apraše nustatytu periodiškumu, ir turėti transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą), tinkantį vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą;
 
 
 
 
-2) naudoti vežėjo vardu įregistruotą taksometrą, įrengtą Keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatyta tvarka;
+2) turėti vežėjo vardu įregistruotą taksometrą, sujungtą su Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko nustatytus techninius reikalavimus atitinkančiu spausdintuvu, arba taksometrą ir kasos aparatą, įrengtus pagal susisiekimo ministro tvirtinamose keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatytą tvarką; draudžiama naudoti techninę ir programinę įrangą, vietoj taksometro apskaičiuojančią kelionės kainą, kurią turėtų sumokėti keleivis už suteiktą paslaugą;
 
 
 
@@ -800,58 +814,43 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-4) turėti Keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatyta tvarka pritvirtintą taksi vairuotojo kortelę;
+4) turėti pagal susisiekimo ministro tvirtinamose keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatytą tvarką pritvirtintą taksi vairuotojo kortelę;
 
 
 
 
-5) būti apipavidalintas susisiekimo ministro nustatyta tvarka;
+5) būti apipavidalintas pagal susisiekimo ministro tvirtinamose keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatytą tvarką; 
 
 
 
 
-6) turėti ženklą-plafoną, naudojamą Keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatyta tvarka;
+6) turėti atpažinimo ženklą-plafoną, naudojamą pagal susisiekimo ministro tvirtinamose keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatytą tvarką;
 
 
 
 
-7) turėti Keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatyta tvarka pritvirtintą kainoraštį.
-
-
-
-
-
-
-14. Vežėjo lengvasis automobilis, kuriuo teikiamos keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą paslaugos, privalo:
-
-
-1) atitikti techninius motorinių transporto priemonių ir jų priekabų reikalavimus;
-
-
-
-
-2) turėti Keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatyta tvarka laisvai automobilio viduje ir (ar) išorėje pritvirtinamą šiose taisyklėse aprašytą visiems vienodo turinio ir formos ženklą, aiškiai identifikuojantį, kad automobilis naudojamas keleivių vežimo už atlygį lengvaisiais automobiliais paslaugoms teikti. Vežėjo lengvasis automobilis, kuriuo teikiamos keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą paslaugos, negali turėti plafono bei kitų apipavidalinimo elementų, nustatytų vežėjų, vykdančių keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą, automobiliams.
+7) turėti pagal susisiekimo ministro tvirtinamose keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatytą tvarką pritvirtintą kainoraštį.
 
 
 
 
 
 
-15. Vežėjas, kurio lengvasis automobilis atitinka bent vieną šio straipsnio 13 dalies 2–6 punktuose nurodytą reikalavimą, laikomas vykdančiu keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą.
+16. Pavėžėjimo leidimo turėtojo lengvasis automobilis privalo:
+
+
+1) būti perėjęs keleiviams vežti už atlygį naudojamo lengvojo automobilio privalomąją techninę apžiūrą, kuri atliekama Apraše nustatytu periodiškumu, ir turėti transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą), tinkantį vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklą;
 
 
 
 
-16. Lengvuoju automobiliu gali būti vykdoma tik vienos rūšies keleivių vežimo už atlygį veikla. 
+2) turėti pagal susisiekimo ministro tvirtinamose keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse nustatytą tvarką lengvojo automobilio viduje ir (ar) išorėje pritvirtintą šiose taisyklėse aprašytą ženklą, identifikuojantį, kad automobilis naudojamas keleivių vežimo už atlygį lengvaisiais automobiliais paslaugoms teikti; vežėjo lengvasis automobilis, kuriuo teikiamos keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą paslaugos, negali turėti atpažinimo ženklo-plafono bei kitų apipavidalinimo elementų, nustatytų vežėjų, vykdančių keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą, lengviesiems automobiliams.
 
 
 
 
-17. Vežėjas, vykdantis keleivių vežimo už atlygį veiklas, privalo užtikrinti, kad skirtingų veiklų apskaita būtų atskirta viena nuo kitos, ir teikti komercinės veiklos finansinę informaciją finansinių ataskaitų rinkiniuose pagal 8-ąjį tarptautinį finansinės atskaitomybės apskaitos standartą „Veiklos segmentai“ arba 34-ąjį verslo apskaitos standartą „Segmentų atskleidimas finansinėse ataskaitose“, kad būtų užtikrinama galimybė palyginti vežėjo finansinių ataskaitų duomenis. 
-
-
-Papildyta straipsniu:
-Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
+Straipsnio pakeitimai:
+Nr. XIV-2571, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08212
  
 
 
@@ -2200,50 +2199,37 @@ Nr. XIV-1827, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05727
 
 
 
-3. Vežėjas valstybinę kelių transporto priežiūrą atliekančių institucijų reikalavimu privalo pateikti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą sutarties duomenis ir kitus Keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse priežiūros tikslais numatytus dokumentus, kurių reikia tinkamai veiklai užtikrinti ir keleivių vežimo reikalavimams vykdyti.
+3. Vežėjas valstybinę kelių transporto priežiūrą atliekančių institucijų reikalavimu privalo pateikti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą sutarties duomenis ir kitus pagal susisiekimo ministro tvirtinamose keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse valstybinės kelių transporto priežiūros tikslais numatytus dokumentus, kurių reikia tinkamai veiklai užtikrinti ir keleivių vežimo reikalavimams vykdyti.
 
 
 
 
-4. Keleivių vežimo organizatorius privalo:
+4. Vežant keleivius už atlygį lengvaisiais automobiliais pagal užsakymą, keleivių vežimo organizatorius elektroninių ryšių priemonėmis keleiviui prieš kelionę turi pateikti šią informaciją, kurią keleivių vežimo organizatorius turi išsaugoti ir kurią vėliau būtų galima panaudoti valstybinės kelių transporto priežiūros tikslais:
 
 
-1) neteko galios 2023-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XIV-1665, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26369
- 
+1) vairuotojo vardą, pavardę;
 
 
 
 
-2) užtikrinti, kad vežimo paslaugas teiktų vežėjai, turintys galiojantį leidimą vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklą. Keleivių vežimo organizatorius turi teisę elektroninio ryšio priemonėmis nuolat gauti informaciją iš leidimus išduodančios institucijos apie konkretiems vežėjams išduotus, sustabdytus ar panaikintus leidimus. 
+2) pavėžėjimo leidimo numerį;
 
 
 
 
-
-
-5. Vežant keleivius už atlygį lengvaisiais automobiliais pagal užsakymą, keleivių vežimo organizatorius keleiviui prieš kelionę turi pateikti šią informaciją, kurią keleivių vežimo organizatorius turi išsaugoti ir kurią vėliau būtų galima panaudoti valstybinės kelių transporto priežiūros tikslais:
-
-
-1) vairuotojo vardas, pavardė;
+3) lengvojo automobilio valstybinį numerį;
 
 
 
 
-2) leidimo vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklą numeris;
-
-
-
-
-3) kelionės kaina.
+4) kelionės kainą.
 
 
 
 
 
 
-6. Vežant keleivius už atlygį lengvaisiais automobiliais pagal užsakymą, keleivių vežimo organizatorius po kelionės nedelsdamas, bet ne vėliau kaip per valandą nuo kelionės pabaigos, turi elektroniniu būdu pateikti keleiviui naudojant elektroninių ryšių priemones suformuotą kelionės ir mokėjimo dokumentą su šia informacija, kurią vėliau būtų galima panaudoti valstybinės kelių transporto priežiūros tikslais:
+5. Vežant keleivius už atlygį lengvaisiais automobiliais pagal užsakymą, keleivių vežimo organizatorius po kelionės nedelsdamas, bet ne vėliau kaip per valandą nuo kelionės pabaigos, turi elektroninių ryšių priemonėmis pateikti pavėžėjimo leidimo turėtojui ir keleiviui elektroninių ryšių priemonėmis suformuotą kelionės ir mokėjimo dokumentą, kuriame būtų ši informacija ir kurią vėliau būtų galima panaudoti valstybinės kelių transporto priežiūros tikslais:
 
 
 1) vairuotojo vardas, pavardė;
@@ -2251,49 +2237,169 @@ Nr. XIV-1665, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26369
 
 
 
-2) leidimo vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą veiklą numeris;
+2) lengvojo automobilio valstybinis numeris;
 
 
 
 
-3) paslaugos suteikimo data;
+3) pavėžėjimo leidimo numeris;
 
 
 
 
-4) kelionės pradžios ir pabaigos laikas;
+4) paslaugos suteikimo data;
 
 
 
 
-5) išvykimo ir atvykimo vieta;
+5) kelionės pradžios ir pabaigos laikas;
 
 
 
 
-6) kelionės trukmė ir ilgis;
+6) išvykimo ir atvykimo vieta;
 
 
 
 
-7) paslaugos kaina ir sumokėta suma;
+7) kelionės atstumas;
 
 
 
 
-8) dokumento numeris.
+8) kelionės kaina ir sumokėta suma;
+
+
+
+
+9) kelionės ir mokėjimo dokumento numeris.
 
 
 
 
 
 
-7. Keleivių vežimo organizatorius turi saugoti informaciją, nurodytą šio straipsnio 5 ir 6 dalyse, ir su keleiviu sudarytas sutartis Bendrųjų dokumentų saugojimo terminų rodyklėje nustatytais terminais. Keleivių vežimo organizatorius privalo pateikti šią informaciją teisėsaugos, valstybinę kelių transporto priežiūrą atliekančioms institucijoms, Valstybinei mokesčių inspekcijai joms pareikalavus.
+6. Keleivių vežimo organizatorius turi:
+
+
+1) kaupti ir saugoti šio straipsnio 4 ir 5 dalyse nurodytą informaciją ir su keleiviu sudarytas sutartis pagal vyriausiojo archyvaro tvirtinamoje bendrųjų dokumentų saugojimo terminų rodyklėje nustatytus terminus; keleivių vežimo organizatorius privalo pateikti šią informaciją teisėsaugos, valstybinę kelių transporto priežiūrą atliekančioms institucijoms, Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos jų reikalavimu;
 
 
 
 
-8. Savivaldybių vykdomosios institucijos gali priimti vežėjams, vykdantiems keleivių vežimo už atlygį lengvaisiais automobiliais veiklą, privalomus veiklos vykdymo sprendimus, kuriais būtų siekiama didinti eismo ir eismo dalyvių saugumą, gerinti aplinkos apsaugą ar keleivių aptarnavimo kokybę. Šie sprendimai neturi sudaryti:
+2) naudoti technines priemones siekdamas užtikrinti, kad keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą paslaugą teiktų tik pavėžėjimo leidimų turėtojai;
+
+
+
+
+3) atlikti atsiskaitymus už keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą paslaugas savo paties sudarytomis techninėmis sąlygomis į pavėžėjimo leidimo turėtojo nurodytą asmeninę sąskaitą.
+
+
+
+
+
+
+7. Pavėžėjimo leidimo turėtojas turi:
+
+
+1) nurodyti keleivių vežimo organizatoriui savo sąskaitos numerį ir pateikti tai įrodantį dokumentą – banko išrašą;
+
+
+
+
+2) keleivį vežti keleivių vežimo organizatoriaus parinktu kelionės maršrutu, jeigu dėl eismo sąlygų tai yra įmanoma ir keleivis nenurodo kitaip;
+
+
+
+
+3) lengvojo automobilio apipavidalinimo elementuose, kitose matomose vietose nevartoti žodžio „taksi“ ar kitų jo junginių.
+
+
+
+
+
+
+8. Keleivių vežimo už atlygį lengvaisiais automobiliais taksi paslauga (toliau – taksi paslauga) gali būti užsakoma iš įmonės, turinčios taksi leidimą, (toliau – taksi įmonė) per taksi dispečerinę arba tiesiogiai iš savarankiškai keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą vykdančio asmens ar taksi įmonės darbuotojo, vairuojančio lengvąjį automobilį taksi, (toliau kartu – taksi vairuotojas).
+
+
+
+
+9. Taksi dispečerinė užsakymo metu keleiviui privalo nurodyti:
+
+
+1) atvyksiančio lengvojo automobilio taksi vairuotojo vardą ir pavardę;
+
+
+
+
+2) atvyksiančio lengvojo automobilio taksi valstybinį numerį;
+
+
+
+
+3) būsimos kelionės vienkartinį užmokestį už iškvietimą, įsėdimą ir tarifus.
+
+
+
+
+
+
+10. Keleiviui įlipus į lengvąjį automobilį taksi, prieš pradedant važiuoti įjungiamas taksometras, kuris gali rodyti taksi leidimo turėtojo nustatytą vienkartinį užmokestį už įsėdimą. Iškviesto per taksi dispečerinę lengvojo automobilio taksi taksometras gali rodyti taksi leidimo turėtojo nustatytą vienkartinį užmokestį už lengvojo automobilio taksi iškvietimą.
+
+
+
+
+11. Lengvojo automobilio taksi vairuotojas privalo naudoti navigacijos įrenginį ir vadovautis jo siūlomu kelionės maršrutu iki keleivio nurodytos paskirties vietos, jeigu keleivis nenurodo kitaip. Taksometras sustabdomas suteikus taksi paslaugą, t. y. nuvežus keleivį į jo nurodytą paskirties vietą. Keleiviui sumokėjus taksometro rodomą sumą, taksi vairuotojas privalo jam išduoti su taksometru sujungtu spausdintuvu atspausdintą pinigų priėmimo kvitą, kuriame taip pat nurodomas kelionės pradžios ir pabaigos laikas ir nuvažiuotas atstumas, arba kasos aparato kvitą.
+
+
+
+
+12. Taksi leidimo turėtojas turi:
+
+
+1) saugoti šio straipsnio 11 dalyje nurodytą informaciją pagal vyriausiojo archyvaro tvirtinamoje bendrųjų dokumentų saugojimo terminų rodyklėje nustatytus terminus ir ją pateikti teisėsaugos ar valstybinę kelių transporto priežiūrą atliekančioms institucijoms jų reikalavimu;
+
+
+
+
+2) naudoti technines priemones siekdamas užtikrinti, kad keleivių vežimo už atlygį lengvaisiais automobiliais taksi paslaugą teiktų tik taksi leidimų turėtojai;
+
+
+
+
+3) užtikrinti, kad taksi paslauga būtų teikiama naudojantis navigacijos įrenginiu ir apmokestinama remiantis taksometro rodmenimis.
+
+
+
+
+
+
+13. Jeigu lengvasis automobilis turi atpažinimo ženklą-plafoną, kuris įrengtas, kaip numatyta susisiekimo ministro tvirtinamose keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi taisyklėse, yra apipavidalintas kitais lengviesiems automobiliams taksi šiose taisyklėse nustatytais apipavidalinimo elementais, ant lengvojo automobilio ar jame bet kuria kalba pavartotas žodis „taksi“ ar kitoks jo junginys, laikoma, kad vairuotojas teikia taksi paslaugą.
+
+
+
+
+14. Taksi dispečerinė turi kaupti, saugoti ir teikti Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos jos nustatytu periodiškumu ir tvarka, o teisėsaugos ir valstybinę kelių transporto priežiūrą atliekančioms institucijoms jų reikalavimu šiuos duomenis:
+
+
+1) keleivių vežimo už atlygį lengvaisiais automobiliais taksi veiklą vykdančio fizinio asmens vardą, pavardę;
+
+
+
+
+2) taksi leidimo numerį;
+
+
+
+
+3) preliminarią kelionės kainą.
+
+
+
+
+
+
+15. Savivaldybės vykdomoji institucija gali priimti vežėjams, vykdantiems keleivių vežimo už atlygį lengvaisiais automobiliais veiklą, privalomus veiklos vykdymo sprendimus, kuriais būtų siekiama didinti eismo ir eismo dalyvių saugumą, gerinti aplinkos apsaugą ar keleivių aptarnavimo kokybę. Šie sprendimai neturi sudaryti:
 
 
 1) kliūčių keleivių vežimo už atlygį veiklai plėtoti;
@@ -2308,11 +2414,11 @@ Nr. XIV-1665, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26369
 
 
 
-9. Keleivių vežimo už atlygį lengvaisiais automobiliais veiklą galima vykdyti triratėmis ir keturratėmis transporto priemonėmis, atitinkančiomis šio straipsnio ir keleivių vežimo už atlygį lengvaisiais automobiliais pagal užsakymą ir lengvaisiais automobiliais taksi veiklą vykdančioms transporto priemonėms keliamus techninius reikalavimus. 
+16. Keleivių vežimo už atlygį lengvaisiais automobiliais veiklą galima vykdyti triratėmis ir keturratėmis transporto priemonėmis, atitinkančiomis šio kodekso 82 straipsnio 15 ir 16 dalyse nurodytus reikalavimus.
 
 
-Papildyta straipsniu:
-Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
+Straipsnio pakeitimai:
+Nr. XIV-2571, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08212
  
 
 
@@ -3876,3 +3982,8 @@ Lietuvos Respublikos kelių transporto kodekso 8-1, 11, 16, 17-1, 18, 18-2 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2200, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21640
 Lietuvos Respublikos kelių transporto kodekso 8, 8-1, 8-3 straipsnių ir priedo pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2571, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08212
+Lietuvos Respublikos kelių transporto kodekso 8-2 ir 18-1 straipsnių pakeitimo įstatymas
