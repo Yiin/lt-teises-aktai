@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-05
+Suvestinė redakcija nuo 2024-05-06 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
  
@@ -37,7 +37,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato turizmo paslaugų organizavimo principus, turizmo paslaugų teikimo, keliautojų teisių apsaugos reikalavimus, valstybės ir savivaldybių institucijų ir įstaigų kompetenciją turizmo srityje.
+1. Šis įstatymas nustato turizmo paslaugų organizavimo principus, turizmo paslaugų teikimo, keliautojų teisių apsaugos reikalavimus, valstybės ir savivaldybių institucijų ir įstaigų kompetenciją turizmo srityje, turizmo informacijos centrų vadovų darbo santykių ypatumus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2572, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08213
+ 
 
 
 
@@ -1736,6 +1739,60 @@ TURISTŲ INFORMAVIMO PASLAUGOS
 
 
 
+301 straipsnis. Turizmo informacijos centrų vadovai
+
+
+1. Turizmo informacijos centrų vadovai į pareigas priimami konkurso būdu penkerių metų kadencijai, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, kai turizmo informacijos centro vadovas be konkurso skiriamas antrajai kadencijai. Konkursai į turizmo informacijos centrų vadovų pareigas organizuojami ir vykdomi Vyriausybės nustatyta tvarka.
+
+
+
+
+2. Turizmo informacijos centrų vadovų kadencijų skaičius neribojamas.
+
+
+
+
+3. Pasibaigus turizmo informacijos centro vadovo penkerių metų kadencijai, mero sprendimu jis gali būti be konkurso skiriamas antrajai penkerių metų kadencijai: turizmo informacijos centro – biudžetinės įstaigos – vadovu – vadovas, kurio eitos penkerių metų kadencijos kiekvienų metų veikla buvo įvertinta kaip viršijanti lūkesčius arba atitinkanti lūkesčius (iki 2023 m. gruodžio 31 d. – labai gerai arba gerai), o turizmo informacijos centro – viešosios įstaigos – vadovu – vadovas, kurio pirmosios kadencijos laikotarpiu turizmo informacijos centras pasiekė visus jam iškeltus veiklos tikslus. Sprendimas dėl turizmo informacijos centro vadovo skyrimo be konkurso antrajai penkerių metų kadencijai turi būti priimtas likus ne mažiau kaip 2 mėnesiams iki šio vadovo kadencijos pabaigos.
+
+
+
+
+4. Turizmo informacijos centro vadovas, kuris be konkurso nebuvo skirtas antrajai penkerių metų kadencijai šio straipsnio 3 dalyje nurodytu atveju, turi teisę dalyvauti konkurse šio turizmo informacijos centro vadovo pareigoms eiti.
+
+
+
+
+5. Likus ne mažiau kaip 2 mėnesiams iki turizmo informacijos centro vadovo kadencijos pabaigos, meras skelbia konkursą turizmo informacijos centro vadovo pareigoms eiti, išskyrus šio straipsnio 3 dalyje nustatytą atvejį, kai turizmo informacijos centro vadovas antrajai penkerių metų kadencijai paskiriamas be konkurso.
+
+
+
+
+6. Jeigu konkurso metu pretendentas eiti turizmo informacijos centro vadovo pareigas nebuvo atrinktas, meras gali paskirti laikinai eiti šias pareigas iki kadencijos pabaigos turizmo informacijos centro vadovo pareigas ėjusį ar kitą asmenį, iki konkurso būdu bus paskirtas naujas turizmo informacijos centro vadovas, bet ne ilgesniam negu vienų metų laikotarpiui. Asmuo, paskirtas laikinai eiti turizmo informacijos centro vadovo pareigas, turi būti nepriekaištingos reputacijos, kaip nustatyta šio straipsnio 8 dalyje.
+
+
+
+
+7. Jeigu turizmo informacijos centro vadovo pareigybė atsilaisvina nepasibaigus įstaigos vadovo kadencijai, konkursas į turizmo informacijos centro vadovo pareigas paskelbiamas ne vėliau kaip per vieną mėnesį nuo pareigybės atsilaisvinimo dienos. Konkursas turi būti baigtas ir jo rezultatai paskelbti ne vėliau kaip per 2 mėnesius nuo šio konkurso paskelbimo dienos.
+
+
+
+
+8. Turizmo informacijos centrų vadovai, taip pat pretenduojantys eiti šias pareigas asmenys turi būti nepriekaištingos reputacijos. Kandidatas į turizmo informacijos centro vadovus ir (ar) Turizmo informacijos centro vadovas yra laikomas nepriekaištingos reputacijos šio įstatymo tikslais, jeigu jis atitinka Lietuvos Respublikos valstybės tarnybos įstatyme įstaigų vadovų nepriekaištingai reputacijai nustatytus reikalavimus.
+
+
+
+
+9. Paaiškėjus, kad turizmo informacijos centro vadovas neatitinka nepriekaištingos reputacijos kriterijų, nurodytų šio straipsnio 8 dalyje, meras priima sprendimą nutraukti su turizmo informacijos centro vadovu sudarytą darbo sutartį.
+TAR pastaba. 301 straipsnio 8 dalies nuostata netaikoma turizmo informacijos centrų vadovams, priimtiems į pareigas iki įstatymo Nr .XIV-2572 įsigaliojimo dienos (2024-05-06), jeigu Lietuvos Respublikos valstybės tarnybos įstatyme numatytos sąlygos, dėl kurių turizmo informacijos centro vadovas nebūtų laikomas nepriekaištingos reputacijos, atsirado iki įstatymo Nr. XIV-2572 įsigaliojimo dienos (2024-05-06), išskyrus atvejus, kai įsiteisėja teismo nuosprendis, kuriuo turizmo informacijos centro vadovas pripažįstamas kaltu dėl nusikalstamos veikos padarymo. Šiuo atveju turizmo informacijos centro vadovas, priimtas į pareigas iki įstatymo Nr. XIV-2572  įsigaliojimo dienos (2024-05-06), iš pareigų atleidžiamas pagal Turizmo įstatymo 301 straipsnio 9 dalį. 
+
+
+Papildyta straipsniu:
+Nr. XIV-2572, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08213
+ 
+
+
+
+
 
 
 ANTRASIS SKIRSNIS
@@ -2451,3 +2508,8 @@ Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 36, 37, 38, 39, 40 ir 41 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1464, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22574
 Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2572, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08213
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 1 straipsnio pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
