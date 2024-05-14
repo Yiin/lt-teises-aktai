@@ -20,7 +20,7 @@ PATVIRTINTAS
 
 
 
-Suvestinė redakcija nuo 2023-05-05 iki 2024-05-13
+Suvestinė redakcija nuo 2024-05-14 iki 2024-06-03
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -470,7 +470,25 @@ VIEŠŲJŲ DARBŲ BAUSMĖS VYKDYMO TVARKA IR SĄLYGOS
 15 straipsnis. Viešųjų darbų bausmės atlikimo sąlygos
 
 
-1. Nuteistieji, kuriems paskirta viešųjų darbų bausmė, privalo per teismo paskirtą laiką neatlygintinai dirbti teismo nustatytą valandų skaičių per mėnesį visuomenės labui.
+1. Nuteistieji, kuriems paskirta viešųjų darbų bausmė, privalo:
+
+
+1) susisiekti su Probacijos tarnyba per penkias darbo dienas nuo teismo nuosprendžio (nutarties), kuriuo paskirta viešųjų darbų bausmė, įsiteisėjimo dienos;
+
+
+
+
+2) atvykti į Probacijos tarnybą šios tarnybos šaukime nurodytą dieną;
+
+
+
+
+3) per teismo paskirtą laiką neatlygintinai dirbti teismo nustatytą valandų skaičių per mėnesį visuomenės labui. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
@@ -651,35 +669,42 @@ Nuosprendis, kuriuo paskirta laisvės apribojimo bausmė, pradedamas vykdyti nuo
 20 straipsnis. Nuteistųjų, kuriems paskirta laisvės apribojimo bausmė, pareigos ir jiems taikomi draudimai
 
 
-1. Nuteistieji, kuriems paskirta laisvės apribojimo bausmė, privalo:
+1. Nuteistieji, kuriems paskirta laisvės apribojimo bausmė, privalo: 
 
 
-1) atvykti į Probacijos tarnybą per tris darbo dienas nuo teismo nuosprendžio (nutarties), kuriuo paskirta laisvės apribojimo bausmė, įsiteisėjimo arba Probacijos tarnybos šaukimo gavimo dienos;
-
-
-
-
-2) laikytis nustatytų draudimų, vykdyti paskirtas baudžiamojo poveikio priemones arba auklėjamojo poveikio priemones ir (ar) įpareigojimus, informuoti Probacijos tarnybą apie jų vykdymą ir (ar) pateikti tai patvirtinančius dokumentus; 
+1) susisiekti su Probacijos tarnyba per penkias darbo dienas nuo teismo nuosprendžio (nutarties), kuriuo paskirta laisvės apribojimo bausmė, įsiteisėjimo dienos;
 
 
 
 
-3) pranešti Probacijos tarnybai apie savo gyvenamąją, darbo ar mokymosi vietą, išvykimą už gyvenamosios vietos miesto (rajono) ribų;
+2) atvykti į Probacijos tarnybą šios tarnybos šaukime nurodytą dieną;
 
 
 
 
-4) intensyvios priežiūros metu dėvėti elektroninio stebėjimo įtaisą ir laikytis intensyvios priežiūros sąlygų, pranešti Probacijos tarnybai apie šio įtaiso praradimą ar pastebėtą gedimą.
+3) laikytis nustatytų draudimų, intensyvios priežiūros sąlygų, vykdyti paskirtas baudžiamojo poveikio priemones arba auklėjamojo poveikio priemones ir (ar) įpareigojimus, informuoti Probacijos tarnybą apie jų vykdymą ir (ar) pateikti tai patvirtinančius dokumentus; 
+
+
+
+
+4) pranešti Probacijos tarnybai apie savo gyvenamąją, darbo ar mokymosi vietą, išvykimą už gyvenamosios vietos miesto (rajono) ribų;
+
+
+
+
+5) kai jiems taikomos elektroninio stebėjimo priemonės, dėvėti elektroninio stebėjimo įtaisą, pranešti Probacijos tarnybai apie šio įtaiso praradimą ar pastebėtą gedimą. 
 
 
 
 
 
 
-2. Nuteistiesiems, kuriems paskirta laisvės apribojimo bausmė ir vykdoma intensyvi priežiūra, draudžiama nusiimti, gadinti ar sunaikinti elektroninio stebėjimo įtaisą.
+2. Nuteistiesiems, kuriems taikomos elektroninio stebėjimo priemonės, draudžiama nusiimti, gadinti ar sunaikinti elektroninio stebėjimo įtaisą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
  
-
-
 
 
 
@@ -712,7 +737,10 @@ Nuosprendis, kuriuo paskirta laisvės apribojimo bausmė, pradedamas vykdyti nuo
 
 
 
-3. Elektroninio stebėjimo įtaisas nuteistajam nuimamas paskutinę intensyvios priežiūros vykdymo dieną.
+3. Elektroninio stebėjimo įtaisas nuteistajam nuimamas paskutinę intensyvios priežiūros vykdymo dieną. Jeigu intensyvios priežiūros vykdymo terminas sueina poilsio arba šventės dieną, elektroninio stebėjimo įtaisas nuteistajam nuimamas prieš poilsio arba šventės dieną einančią dieną. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
@@ -1075,7 +1103,10 @@ NUTEISTŲJŲ LAISVĖS ATĖMIMO BAUSMĖMIS KONVOJAVIMO Į BAUSMIŲ ATLIKIMO VIETA
 
 
 
-3) siekiant palengvinti nuteistojo resocializaciją;
+3) siekiant palengvinti nuteistojo resocializaciją, padidinti asmens sveikatos priežiūros ar kitų socialinių paslaugų prieinamumą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
@@ -1085,7 +1116,15 @@ NUTEISTŲJŲ LAISVĖS ATĖMIMO BAUSMĖMIS KONVOJAVIMO Į BAUSMIŲ ATLIKIMO VIETA
 
 
 
-5) vykdant nuteistojo perdavimo į užsienio valstybę, kurios pilietybę jis turi, toliau atlikti laisvės atėmimo bausmės procedūras arba kitais šiame kodekse nustatytais atvejais.
+5) vykdant nuteistojo perdavimo į užsienio valstybę, kurios pilietybę jis turi, toliau atlikti laisvės atėmimo bausmės procedūras arba kitais šiame kodekse nustatytais atvejais;
+
+
+
+
+6) nutraukiant ar laikinai sustabdant bausmės atlikimo vietos arba jos dalies eksploataciją. 
+Papildyta straipsnio punktu:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
@@ -1620,7 +1659,10 @@ Nuteistieji jiems paskirtą laisvės atėmimo bausmę atlieka uždaro, pusiau at
 
 
 
-7. Nuteistieji, kurie atlikdami bausmę atviro tipo bausmės atlikimo vietoje be pateisinamų priežasčių nedirba ar nesimoko arba kelia pavojų laisvės atėmimo vietų įstaigos darbuotojams ar kitiems asmenims arba kuriems bausmę atliekant atviro tipo bausmės atlikimo vietoje per vienus metus tris kartus buvo skirta drausminių ir (ar) administracinių nuobaudų, perkeliami į pusiau atviro tipo bausmės atlikimo vietos paprastąją grupę toliau atlikti bausmės. Šie nuteistieji pakartotinai perkeliami arba grąžinami į atviro tipo bausmės atlikimo vietą, kai jie laisvės atėmimo bausmę atlieka lengvojoje grupėje, atitinka šio straipsnio 5 dalies 3–7 punktuose nustatytas sąlygas ir nuo jų perkėlimo (grąžinimo) į pusiau atviro tipo bausmės atlikimo vietą dienos praėjo ne mažiau kaip vieni metai.
+7. Nuteistieji, kurie atlikdami bausmę atviro tipo bausmės atlikimo vietoje be pateisinamų priežasčių nedirba ar nesimoko arba kelia pavojų laisvės atėmimo vietų įstaigos darbuotojams ar kitiems asmenims arba kurie be pateisinamų priežasčių nustatytu laiku buvo negrįžę į atviro tipo bausmės atlikimo vietą ar iš jos buvo pabėgę, arba kuriems bausmę atliekant atviro tipo bausmės atlikimo vietoje per vienus metus tris kartus buvo skirta drausminių ir (ar) administracinių nuobaudų, perkeliami į pusiau atviro tipo bausmės atlikimo vietos paprastąją grupę toliau atlikti bausmės. Šie nuteistieji pakartotinai perkeliami arba grąžinami į atviro tipo bausmės atlikimo vietą, kai jie laisvės atėmimo bausmę atlieka lengvojoje grupėje, atitinka šio straipsnio 5 dalies  3–7 punktuose nustatytas sąlygas ir nuo jų perkėlimo (grąžinimo) į pusiau atviro tipo bausmės atlikimo vietą dienos praėjo ne mažiau kaip vieni metai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
@@ -2694,12 +2736,18 @@ LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ SAVARANKIŠKAS DARBAS NE BA
 
 
 
-2. Visas šiame straipsnyje nurodytų nuteistųjų darbo užmokestis pervedamas į laisvės atėmimo vietų įstaigos administruojamas nuteistųjų asmenines sąskaitas, iš kurių laisvės atėmimo vietų įstaiga kartą per mėnesį išskaičiuoja dešimt procentų nuteistųjų darbo užmokesčio dydžio sumas ir jas perveda į fondą. 
+2. Iš ne bausmės atlikimo vietoje savarankiškai dirbančių nuteistųjų, išskyrus šio kodekso 69 straipsnyje nustatytas sąlygas atitinkančius nuteistuosius, darbo užmokesčio darbdavys kartą per mėnesį išskaičiuoja dešimt procentų nuteistųjų darbo užmokesčio dydžio sumas ir jas perveda laisvės atėmimo vietų įstaigai, kuri šias sumas perveda į fondą, o likusį darbo užmokestį – į nuteistojo nurodytą jo mokėjimo sąskaitą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
 
-3. Į šiame straipsnyje nurodytų nuteistųjų, kuriems leidžiama su savimi turėti grynųjų pinigų, laisvės atėmimo vietų įstaigos administruojamas asmenines sąskaitas pervestas darbo užmokestis, išskaičiavus šiame straipsnyje nurodytas sumas į fondą, ne vėliau kaip kitą darbo dieną pervedamas į nuteistųjų nurodytas asmenines sąskaitas kredito įstaigose.
+3. Iš šio kodekso 69 straipsnyje nustatytas sąlygas atitinkančių nuteistųjų darbo užmokesčio, darbdavio pervesto į laisvės atėmimo vietų įstaigos administruojamas jų asmenines sąskaitas, laisvės atėmimo vietų įstaiga kartą per mėnesį išskaičiuoja dvidešimt procentų nuteistųjų darbo užmokesčio dydžio sumas, kurias, padalijusi lygiomis dalimis, perveda į fondą ir įrašo į nuteistųjų neliečiamą asmeninės sąskaitos dalį. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
@@ -2818,7 +2866,9 @@ LAIKINAS LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ IŠVYKIMAS IŠ BAU
 68 straipsnis. Terminuoto laisvės atėmimo bausmę atliekančių nuteistųjų trumpalaikės išvykos į namus
 
 
-1. Pusiau atviro tipo bausmės atlikimo vietų lengvojoje grupėje bausmę atliekantys nuteistieji, išskyrus šio straipsnio 6 dalyje nurodytus nuteistuosius, turi teisę trims paroms, o dirbantys nuteistieji savo kasmetinių atostogų metu – iki dešimt parų be palydos išvykti iš bausmės atlikimo vietos į Lietuvos Respublikos teritorijoje esančius namus ar Lietuvos Respublikos teritorijoje pasimatyti su artimaisiais, jeigu jie atitinka visas šias sąlygas:
+1. Pusiau atviro tipo bausmės atlikimo vietų lengvojoje grupėje bausmę atliekantys nuteistieji, išskyrus šio straipsnio 5 dalyje nurodytus nuteistuosius, turi teisę trims paroms, o dirbantys nuteistieji savo kasmetinių atostogų metu – iki dešimt parų be palydos išvykti iš bausmės atlikimo vietos į Lietuvos Respublikos teritorijoje esančius namus ar Lietuvos Respublikos teritorijoje pasimatyti su artimaisiais, jeigu jie atitinka visas šias sąlygas: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
 
 
 1) jų nusikalstamo elgesio rizika yra žema arba vidutinė ir yra nustatyta pažanga ją mažinant;
@@ -2871,7 +2921,10 @@ LAIKINAS LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ IŠVYKIMAS IŠ BAU
 
 
 
-2) vieną kartą per tris mėnesius – nuteistiesiems, kuriems paskirta bausmė viršija trejus metus, bet neviršija dešimt metų laisvės atėmimo, atlikusiems pusę bausmės, – vieną kartą per du mėnesius, o likus šešiems mėnesiams iki lygtinio paleidimo iš bausmės atlikimo vietos pagal šio kodekso 82 straipsnio 3 dalį arba iki bausmės pabaigos likus ne daugiau kaip vieniems metams, kai lygtinis paleidimas iš bausmės atlikimo vietos netaikomas, – du kartus per mėnesį;
+2) vieną kartą per tris mėnesius – nuteistiesiems, kuriems paskirta bausmė viršija trejus metus, bet neviršija dešimt metų laisvės atėmimo, nuteistiesiems, atlikusiems pusę bausmės, – vieną kartą per du mėnesius, o atlikusiems du trečdalius bausmės – du kartus per mėnesį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
@@ -3606,22 +3659,42 @@ TERMINUOTO LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ LYGTINIS PALEIDI
 Lygtinis paleidimas iš laisvės atėmimo vietų įstaigos netaikomas:
 
 
-1) asmenims, atliekantiems bausmę už nusikaltimus Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai;
+1) asmenims, atliekantiems bausmę už nusikaltimus žmoniškumui ir karo nusikaltimus; 
+Papildyta straipsnio punktu:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
 
-2) asmenims, atliekantiems bausmę už nusikaltimus nepilnamečio asmens seksualinio apsisprendimo laisvei ir (ar) neliečiamumui;
+2) asmenims, atliekantiems bausmę už nusikaltimus Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
 
-3) asmenims, atliekantiems bausmę už tyčinius nusikaltimus, padarytus laikino sulaikymo, suėmimo vykdymo, arešto arba laisvės atėmimo bausmės atlikimo metu;
+3) asmenims, atliekantiems bausmę už nusikaltimus nepilnamečio asmens seksualinio apsisprendimo laisvei ir (ar) neliečiamumui;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
 
-4) asmenims, atliekantiems nedelsiant atliktinos laisvės atėmimo bausmės dalį pagal Baudžiamojo kodekso 75 straipsnio 3 dalį arba 92 straipsnio 3 dalį.
+4) asmenims, atliekantiems bausmę už tyčinius nusikaltimus, padarytus laikino sulaikymo, suėmimo vykdymo, arešto arba laisvės atėmimo bausmės atlikimo metu;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
+
+
+
+
+5) asmenims, atliekantiems nedelsiant atliktinos laisvės atėmimo bausmės dalį pagal Baudžiamojo kodekso 75 straipsnio 3 dalį arba 92 straipsnio 3 dalį.
+ 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
  
 
 
@@ -3817,12 +3890,18 @@ AREŠTO IR LAISVĖS ATĖMIMO BAUSMES ATLIEKANČIŲ NUTEISTŲJŲ SVEIKATOS PRIEŽ
 
 
 
-4. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos specializuotame laisvės atėmimo vietų įstaigos asmens sveikatos priežiūros padalinyje, ir tretinio lygio asmens sveikatos priežiūros paslaugos šio straipsnio 1 dalyje nurodytiems nuteistiesiems teikiamos arčiausiai esančiose ir atitinkamas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose.
+4. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos specializuotame laisvės atėmimo vietų įstaigos asmens sveikatos priežiūros padalinyje, ir tretinio lygio asmens sveikatos priežiūros paslaugos šio straipsnio 1 dalyje nurodytiems nuteistiesiems teikiamos arčiausiai esančiose ir atitinkamas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose. Kai valstybės arba savivaldybių asmens sveikatos priežiūros įstaigos šioje dalyje nurodytų asmens sveikatos priežiūros paslaugų neteikia, šios paslaugos nuteistiesiems gali būti teikiamos arčiausiai esančioje ir atitinkamas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamas asmens sveikatos priežiūros paslaugas teikiančioje privačioje asmens sveikatos priežiūros įstaigoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
 
-5. Asmens sveikatos priežiūros paslaugos valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose teikiamos užtikrinant šio straipsnio 1 dalyje nurodytų nuteistųjų apsaugą.
+5. Asmens sveikatos priežiūros paslaugos valstybės, savivaldybių arba privačiose asmens sveikatos priežiūros įstaigose teikiamos užtikrinant šio straipsnio 1 dalyje nurodytų nuteistųjų apsaugą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
@@ -4002,12 +4081,26 @@ BAUSMĖS VYKDYMO PABAIGA
 
 
 
-4. Paleidžiamiems nuteistiesiems jų paleidimo dieną išduodami asmens dokumentai ir daiktai, asmeninėje sąskaitoje laikomi pinigai, taip pat bausmės atlikimą liudijantys dokumentai.
+4. Nustatant arešto ir laisvės atėmimo bausmės pabaigą, į atliktos bausmės laiką neįskaitomas vieną parą viršijantis laikas, per kurį nuteistasis, būdamas laikinai išleistas iš laisvės atėmimo vietų įstaigos, be svarbios priežasties nustatytu laiku į ją buvo negrįžęs ar iš jos buvo pabėgęs, taip pat atliekant šią bausmę paskirtos kardomosios priemonės – suėmimo laikas, išskyrus paskirtą suėmimo laiką, jeigu nuteistasis vėliau buvo išteisintas arba ikiteisminis tyrimas buvo nutrauktas, arba kardomoji priemonė buvo pripažinta nepagrįsta (neteisėta). 
+Papildyta straipsnio dalimi:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
 
 
 
 
-5. Paleidžiami nepilnamečiai nuteistieji perduodami artimiesiems giminaičiams arba globėjams (rūpintojams).
+5. Paleidžiamiems nuteistiesiems jų paleidimo dieną išduodami asmens dokumentai ir daiktai, asmeninėje sąskaitoje laikomi pinigai, taip pat bausmės atlikimą liudijantys dokumentai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+ 
+
+
+
+
+6. Paleidžiami nepilnamečiai nuteistieji perduodami artimiesiems giminaičiams arba globėjams (rūpintojams).
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
  
 
 
@@ -4327,3 +4420,8 @@ Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymo Nr. XIV-1196 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1902, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08468
 Lietuvos Respublikos bausmių vykdymo kodekso 96 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
+Lietuvos Respublikos bausmių vykdymo kodekso 15, 20, 21, 31, 37, 64, 68, 83, 90 ir 94 straipsnių pakeitimo įstatymas
