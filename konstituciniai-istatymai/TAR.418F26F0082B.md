@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5"
 
 # Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
 
-Suvestinė redakcija nuo 2024-02-17 iki 2024-05-13
+Suvestinė redakcija nuo 2024-05-14 iki 2024-12-31
  
 Konstitucinis įstatymas paskelbtas: TAR 2022-07-20, i. k. 2022-15851
  
@@ -7940,7 +7940,10 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 
 
 
-2) kandidatų sąrašas gali gauti mandatų, jeigu už jį balsavo ne mažiau kaip 5 procentai rinkimuose dalyvavusių rinkėjų, o jungtinis (ar jam prilygintas) kandidatų sąrašas – jeigu už jį balsavo ne mažiau kaip 7 procentai rinkimuose dalyvavusių rinkėjų.
+2) kandidatų sąrašas arba jungtinis (ar jam prilygintas) kandidatų sąrašas gali gauti mandatų, jeigu už jį balsavo ne mažiau kaip 5 procentai rinkimuose dalyvavusių rinkėjų.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2588, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08755
+ 
 
 
 
@@ -8004,7 +8007,10 @@ Nr. XIV-2185, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20808
 
 
 
-4. Pagal rinkimų kvotas nepaskirstyti mandatai skirstomi po vieną kandidatų sąrašams, gavusiems mandatų, pradedant nuo didžiausios liekanos, iki paskirstomi visi likę mandatai.
+4. Pagal rinkimų kvotas nepaskirstyti mandatai skirstomi po vieną kandidatų sąrašams, dalyvaujantiems skirstant mandatus, pradedant nuo didžiausios liekanos, iki paskirstomi visi likę mandatai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2588, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08755
+ 
 
 
 
@@ -9279,3 +9285,8 @@ Lietuvos Respublikos rinkimų kodekso 57 ir 61 straipsnių pakeitimo konstitucin
 Lietuvos Respublikos Seimas, Konstitucinis įstatymas
 Nr. XIV-2216, 2023-11-07, paskelbta TAR 2023-11-10, i. k. 2023-21811
 Lietuvos Respublikos rinkimų kodekso 51 ir 52 straipsnių pakeitimo konstitucinis įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-2588, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08755
+Lietuvos Respublikos rinkimų kodekso 168 ir 170 straipsnių pakeitimo konstitucinis įstatymas
