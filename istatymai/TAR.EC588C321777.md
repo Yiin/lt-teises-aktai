@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2024-04-01 iki 2024-05-13
+Suvestinė redakcija nuo 2024-05-14 iki 2024-07-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -12510,9 +12510,10 @@ Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
 
 
 
-5. Teismas, gavęs Lietuvos Respublikos bausmių vykdymo kodekso 89 straipsnyje arba Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą laisvės atėmimo vietų įstaigos arba probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+5. Teismas, gavęs Lietuvos Respublikos bausmių vykdymo kodekso 89 straipsnyje arba Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje nurodytą laisvės atėmimo vietų įstaigos arba probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1200, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15562
+Nr. XIV-2591, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08763
  
 
 
@@ -12610,7 +12611,10 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 
 
-7. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 2 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos.
+7. Teismas, gavęs Lietuvos Respublikos probacijos įstatymo 30 straipsnio 3 dalyje nurodytą probacijos tarnybos teikimą, sprendimą dėl jo priima ne vėliau kaip per tris darbo dienas nuo šio teikimo gavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2591, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08763
+ 
 
 
  Straipsnio pakeitimai:
@@ -16760,3 +16764,13 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 55 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2499, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05372
 Lietuvos Respublikos baudžiamojo proceso kodekso 21, 22 ir 189-1 straipsnių pakeitimo įstatymas
+ 
+74.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2574, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08215
+Lietuvos Respublikos baudžiamojo proceso kodekso 53, 217, 307, 338, 357, 389, 392, 405 straipsnių pakeitimo ir Kodekso papildymo 357-1 straipsniu įstatymas
+ 
+75.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2591, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08763
+Lietuvos Respublikos baudžiamojo proceso kodekso 358 ir 360 straipsnių pakeitimo įstatymas
