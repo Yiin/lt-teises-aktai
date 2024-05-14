@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-05-13
+Suvestinė redakcija nuo 2024-05-14
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -798,12 +798,18 @@ SUIMTŲJŲ SVEIKATOS PRIEŽIŪRA IR APRŪPINIMAS
 
 
 
-5. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos specializuotame laisvės atėmimo vietų įstaigos sveikatos priežiūros padalinyje, ir tretinio lygio asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos arčiausiai esančiose ir reikalingas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose.
+5. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos specializuotame laisvės atėmimo vietų įstaigos sveikatos priežiūros padalinyje, ir tretinio lygio asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos arčiausiai esančiose ir reikalingas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose. Kai valstybės arba savivaldybių asmens sveikatos priežiūros įstaigos šioje dalyje nurodytų asmens sveikatos priežiūros paslaugų neteikia, šios paslaugos suimtiesiems gali būti teikiamos arčiausiai esančioje ir atitinkamas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamas asmens sveikatos priežiūros paslaugas teikiančioje privačioje asmens sveikatos priežiūros įstaigoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
+ 
 
 
 
 
-6. Asmens sveikatos priežiūros paslaugos valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose suimtiesiems teikiamos užtikrinant suimtųjų apsaugą.
+6. Asmens sveikatos priežiūros paslaugos valstybės, savivaldybių arba privačiose asmens sveikatos priežiūros įstaigose suimtiesiems teikiamos užtikrinant suimtųjų apsaugą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
+ 
 
 
 
@@ -1391,3 +1397,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1772, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27589
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 pakeitimo įstatymo Nr. XIV-1198 1 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2593, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08765
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 24 straipsnio pakeitimo įstatymas
