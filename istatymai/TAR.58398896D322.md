@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2023-01-01 iki 2024-05-13
+Suvestinė redakcija nuo 2024-05-14
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
- 
-TAR pastaba. Iki bus priimti 2022-06-28 įstatymo Nr. XIV-1204 įgyvendinamieji teisės aktai, taikomi su probacijos vykdymu susiję įgyvendinamieji teisės aktai, priimti iki 2022 m. gruodžio 31 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
-Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2, 6, 8, 10, 11, 15, 17, 18, 20, 21, 25, 30 ir 31 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-07-01:
 Nr. XIII-2266, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11184
@@ -458,17 +453,33 @@ Probuojamieji turi teisę:
 Probuojamieji privalo:
 
 
-1) atvykti į probacijos tarnybą per tris darbo dienas nuo teismo nuosprendžio, kuriuo paskirta probacija, įsiteisėjimo arba probuotojo šaukimo gavimo dienos;
+1) susisiekti su probacijos tarnyba per penkias darbo dienas nuo teismo nuosprendžio, kuriuo paskirta probacija, įsiteisėjimo dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
 
 
 
 
-2) vykdyti probacijos sąlygas ir individualiame probuojamojo priežiūros plane nustatytas priemones, padedančias įvykdyti probacijos sąlygas, informuoti probuotoją apie jų vykdymą ir (ar) pateikti tai patvirtinančius dokumentus;
+2) atvykti į probacijos tarnybą šios tarnybos šaukime nurodytą dieną; 
+Papildyta straipsnio punktu:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
 
 
 
 
-3) pranešti probuotojui apie savo gyvenamąją, darbo ar mokymosi vietą, išvykimą už gyvenamosios vietos miesto (rajono) ribų.
+3) vykdyti probacijos sąlygas ir individualiame probuojamojo priežiūros plane nustatytas priemones, padedančias įvykdyti probacijos sąlygas, informuoti probuotoją apie jų vykdymą ir (ar) pateikti tai patvirtinančius dokumentus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
+
+
+
+
+4) pranešti probuotojui apie savo gyvenamąją, darbo ar mokymosi vietą, išvykimą už gyvenamosios vietos miesto (rajono) ribų.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
  
 
 
@@ -526,7 +537,18 @@ Probuojamieji privalo:
 
 
 
-3. Šio įstatymo 29 ir 30 straipsniuose nustatyta tvarka lygtinai paleistam iš laisvės atėmimo vietų įstaigos nuteistajam gali būti paskirtos ir kitos, šio straipsnio 1 dalyje nenurodytos, pareigos, auklėjamojo poveikio priemonės arba baudžiamojo poveikio priemonės, intensyvi priežiūra arba šio straipsnio 1 dalyje nurodytos pareigos gali būti pakeistos kitomis pareigomis, auklėjamojo poveikio priemonėmis arba baudžiamojo poveikio priemonėmis, intensyvia priežiūra.
+3. Šio straipsnio 1 dalies 2, 4 ir 6 punktuose nurodytos pareigos nevykdomos, kai probacijos tarnyba, įvertinusi lygtinai paleisto iš laisvės atėmimo vietų įstaigos nuteistojo rizikos lygį, kriminogeninius veiksnius, nusikaltimo, už kurį vykdoma probacija, padarymo aplinkybes, elgesį, taikytas socialinės reabilitacijos priemones ir jų įgyvendinimo rezultatus atliekant laisvės atėmimo bausmę, nenustato elgesio pataisos programų, kuriose tikslinga dalyvauti šiam nuteistajam, vietų, kuriose jam negalima lankytis, ir asmenų, su kuriais jam negalima bendrauti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
+
+
+
+
+4. Šio įstatymo 29 straipsnyje nustatyta tvarka lygtinai paleistam iš laisvės atėmimo vietų įstaigos nuteistajam gali būti paskirtos ir kitos, šio straipsnio 1 dalyje nenurodytos, pareigos, auklėjamojo poveikio priemonės arba baudžiamojo poveikio priemonės, intensyvi priežiūra arba šio straipsnio 1 dalyje nurodytos pareigos gali būti pakeistos kitomis pareigomis, auklėjamojo poveikio priemonėmis arba baudžiamojo poveikio priemonėmis, intensyvia priežiūra.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
 
 
 Straipsnio pakeitimai:
@@ -572,22 +594,41 @@ Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
 
 
 
-2) atvykti į probacijos tarnybą kartu su nepilnamečiu probuojamuoju per tris darbo dienas nuo teismo nuosprendžio, kuriuo nepilnamečiam probuojamajam paskirta probacija, įsiteisėjimo ar probuotojo šaukimo gavimo;
+2) susisiekti su probacijos tarnyba per penkias darbo dienas nuo teismo nuosprendžio, kuriuo nepilnamečiam probuojamajam paskirta probacija, įsiteisėjimo dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
 
 
 
 
-3) rūpintis, kad nepilnametis probuojamasis vykdytų probacijos sąlygas ir dalyvautų probuojamojo resocializacijoje;
+3) atvykti į probacijos tarnybą šios tarnybos šaukime nurodytą dieną; 
+Papildyta straipsnio punktu:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
 
 
 
 
-4) teikti informaciją probuotojui apie nepilnamečiam probuojamajam taikomų probacijos sąlygų vykdymą;
+4) rūpintis, kad nepilnametis probuojamasis vykdytų probacijos sąlygas ir dalyvautų probuojamojo resocializacijoje;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
 
 
 
 
-5) bendradarbiauti su probuotoju sprendžiant nepilnamečio probuojamojo resocializacijos klausimus.
+5) teikti informaciją probuotojui apie nepilnamečiam probuojamajam taikomų probacijos sąlygų vykdymą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
+
+
+
+
+6) bendradarbiauti su probuotoju sprendžiant nepilnamečio probuojamojo resocializacijos klausimus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
  
 
 
@@ -935,7 +976,6 @@ Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 Probacijos tarnybos direktoriaus ar jo įgalioto probuotojo sprendimu probuojamojo priežiūros vykdymas laikinai sustabdomas, kol probacijos vykdymo metu probuojamajam taikoma kardomoji priemonė – suėmimas. Šis laikas įskaitomas į probacijos laikotarpį, jeigu probuojamasis vėliau buvo išteisintas arba baudžiamoji byla ar ikiteisminis tyrimas jam buvo nutrauktas, arba kardomoji priemonė buvo pripažinta nepagrįsta (neteisėta).
  
- 
 
 
 
@@ -996,7 +1036,10 @@ Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
 
 
 
-3. Elektroninio stebėjimo įtaisas nuo nuteistojo nuimamas paskutinę intensyvios priežiūros vykdymo dieną.
+3. Elektroninio stebėjimo įtaisas nuo nuteistojo nuimamas paskutinę intensyvios priežiūros vykdymo dieną. Jeigu intensyvios priežiūros vykdymo terminas sueina poilsio arba šventės dieną, elektroninio stebėjimo įtaisas probuojamajam nuimamas prieš poilsio arba šventės dieną einančią dieną.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+ 
 
 
 
@@ -1102,15 +1145,17 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 29 straipsnis. Probacijos sąlygų keitimas
 
 
-1. Probacijos tarnyba gali kreiptis į teismą dėl probacijos sąlygų pakeitimo, jeigu kitos sąlygos darytų teigiamą įtaką probuojamojo elgesiui ir (ar) padėtų užtikrinti nukentėjusio asmens interesus arba jeigu probuojamasis dėl objektyvių priežasčių negali įvykdyti nustatytų probacijos sąlygų.
+1. Probacijos tarnyba gali kreiptis į teismą dėl probacijos sąlygų pakeitimo ar papildomų sąlygų nustatymo, jeigu kitos sąlygos darytų teigiamą įtaką probuojamojo elgesiui ir (ar) padėtų užtikrinti nukentėjusio asmens interesus arba jeigu probuojamasis dėl objektyvių priežasčių negali įvykdyti nustatytų probacijos sąlygų. 
 
 
 
 
-2. Probacijos tarnybos teikimu teismas gali pakeisti probuojamajam paskirtas auklėjamojo poveikio priemones, baudžiamojo poveikio priemones ir (ar) pareigas, taip pat šio įstatymo 15 straipsnyje nustatytas pareigas kitomis Baudžiamojo kodekso IX skyriuje numatytomis baudžiamojo poveikio priemonėmis ir (ar) šio kodekso 75 straipsnio 5 ar 6 dalyje numatytomis pareigomis arba šio kodekso 82 straipsnyje numatytomis auklėjamojo poveikio priemonėmis.
+2. Probacijos tarnybos teikimu teismas gali pakeisti probuojamajam paskirtas auklėjamojo poveikio priemones, baudžiamojo poveikio priemones ir (ar) pareigas, taip pat šio įstatymo  15 straipsnyje nustatytas pareigas kitomis Baudžiamojo kodekso IX skyriuje numatytomis baudžiamojo poveikio priemonėmis ir (ar) šio kodekso 75 straipsnio 5 ar 6 dalyje numatytomis pareigomis arba šio kodekso 82 straipsnyje numatytomis auklėjamojo poveikio priemonėmis arba paskirti papildomas Baudžiamojo kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio kodekso 75 straipsnio 5 ar 6 dalyje numatytas pareigas arba šio kodekso 82 straipsnyje numatytas auklėjamojo poveikio priemones.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
  
-
-
 
 
 
@@ -1118,36 +1163,28 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 30 straipsnis. Probacijos vykdymo ir vengimo vykdyti probaciją teisinės pasekmės
 
 
-1. Probuojamasis, kuris probacijos laikotarpiu įvykdė auklėjamojo ar baudžiamojo poveikio priemones ir (ar) pareigas, laikėsi intensyvios priežiūros sąlygų, nepadarė šio straipsnio 2 dalies 2 ir 3 punktuose numatytų pažeidimų, dėl kurių buvo priimtas sprendimas panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš laisvės atėmimo vietų įstaigos ir vykdyti likusią bausmės dalį, kai sueina bausmės vykdymo atidėjimo arba lygtinio paleidimo iš laisvės atėmimo vietų įstaigos terminas, laikomas atlikusiu bausmę.
+1. Probuojamasis, kuris probacijos laikotarpiu įvykdė auklėjamojo ar baudžiamojo poveikio priemones ir (ar) pareigas, laikėsi intensyvios priežiūros sąlygų ir kuriam nebuvo panaikintas bausmės vykdymo atidėjimas ar lygtinis paleidimas iš laisvės atėmimo vietų įstaigos šio straipsnio 3 dalyje nustatyta tvarka, laikomas atlikusiu bausmę.
 
 
 
 
-2. Jeigu probuojamasis probacijos vykdymo laikotarpiu:
-
-
-1) dėl pateisinamų priežasčių per teismo nustatytą laiką neįvykdo probacijos sąlygų, teismas probacijos tarnybos teikimu šį laiką gali pratęsti. Paskirtas ir pratęstas laikas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios bausmės laiką;
+2. Jeigu probuojamasis probacijos vykdymo laikotarpiu dėl pateisinamų priežasčių per teismo nustatytą laiką neįvykdo probacijos sąlygų, jis šias probacijos sąlygas privalo įvykdyti iki bausmės vykdymo atidėjimo ar likusios bausmės laiko pabaigos.
 
 
 
 
-2) vykdo probacijos sąlygas, tačiau padaro administracinių nusižengimų, už kuriuos jam taikytos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu gali jam papildomai paskirti Baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso  75 straipsnio 5 ar 6 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių, ir (ar) šio kodekso 87 straipsnio 2, 3 ir 4 dalyse numatytų įpareigojimų ar draudimų arba priimti sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę, arba panaikinti lygtinį paleidimą iš laisvės atėmimo vietų įstaigos ir vykdyti likusią bausmės dalį, kai pagrįstai manoma, kad probacijos tikslo nebus įmanoma pasiekti skirtinomis baudžiamojo poveikio priemonėmis ir (ar) pareigomis arba auklėjamojo poveikio priemonėmis;
+3. Probacijos tarnybos teikimu teismas gali priimti sprendimą panaikinti nuteistajam bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš laisvės atėmimo vietų įstaigos ir vykdyti likusią bausmės dalį, jeigu probacijos vykdymo metu probacijos tarnyba nustatė nuteistojo nusikalstamo elgesio rizikos arba žalos kitiems asmenims rizikos padidėjimą ir yra pakankamas pagrindas manyti, kad probacijos tikslas nebus pasiektas.
 
 
 
 
-3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro administracinį nusižengimą, už kurį jam taikyta administracinė nuobauda ir (ar) administracinio poveikio priemonė, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš laisvės atėmimo vietų įstaigos ir vykdyti likusią bausmės dalį.
-
-
-
-
-
-
-3. Probacijos tarnyba, nustačiusi šio straipsnio 2 dalies 2 ar 3 punkte nurodytus probuojamojo padarytus teisės pažeidimus ir (ar) probacijos sąlygų nevykdymo atvejus, teikimą teismui pateikia nedelsdama, ne vėliau kaip per vieną darbo dieną.
+4. Probacijos tarnybos teikimų teismui rengimo tvarką nustato probacijos tarnybos direktorius.
+TAR pastaba: sprendimai dėl iki įsigaliojant 2024-05-07 įstatymui Nr. XIV-2592 (2024-05-14) teisme gautų probacijos teikimų pagal Lietuvos Respublikos probacijos įstatymo 30 straipsnį priimami vadovaujantis 2024-05-07 įstatymo Nr. XIV-2592  6 straipsniu pakeistomis Probacijos įstatymo 30 straipsnio nuostatomis.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
  
 
 
@@ -1317,3 +1354,8 @@ Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 5, 6, 8, 10, 17, 18, 21, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2, 6, 8, 10, 11, 15, 17, 18, 20, 21, 25, 30 ir 31 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 14, 15, 16, 25, 29 ir 30 straipsnių pakeitimo įstatymas
