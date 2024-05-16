@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-05-15
+Suvestinė redakcija nuo 2024-05-16 iki 2024-05-19
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -19619,7 +19619,10 @@ Nr. XI-1312, 2011-04-12, Žin., 2011, Nr. 49-2367 (2011-04-28)
 4.103 straipsnis. Statybos, pažeidžiančios teisės aktų reikalavimus, civilinės teisinės pasekmės
 
 
-1. Jeigu statinys (jo dalis) yra pastatytas ar statomas savavališkai arba ne savavališkai, tačiau pažeidžiant statinio projekto sprendinius ar teisės aktų reikalavimus, tai tokiu statiniu (jo dalimi) naudotis ar juo disponuoti (parduoti, padovanoti, išnuomoti ar pan.) draudžiama. Koks statinys (jo dalis) yra pastatytas ar statomas savavališkai, nustato įstatymai.
+1. Jeigu statinys (jo dalis) yra pastatytas ar statomas savavališkai arba ne savavališkai, tačiau pažeidžiant teisės aktų reikalavimus, tai tokiu statiniu (jo dalimi) naudotis ar juo disponuoti (jį parduoti, padovanoti, išnuomoti ar pan.) draudžiama. Koks statinys (jo dalis) yra pastatytas ar statomas savavališkai, nustato įstatymai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2623, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08913
+ 
 
 
 
@@ -51816,3 +51819,8 @@ Lietuvos Respublikos civilinio kodekso 3.210, 3.241, 3.246, 3.250, 3.260, 3.262,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2256, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22987
 Lietuvos Respublikos civilinio kodekso 2.104 straipsnio pakeitimo įstatymas
+ 
+73.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2623, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08913
+Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas
