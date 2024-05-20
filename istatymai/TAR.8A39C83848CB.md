@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2024-05-16 iki 2024-05-19
+Suvestinė redakcija nuo 2024-05-20 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -17049,6 +17049,10 @@ Vaiko globėju (rūpintoju) gali būti skiriamas asmuo:
 
 
 7) iki šešiasdešimt penkerių metų, išskyrus artimąjį giminaitį, jei jis nori laikinai globoti jaunesnį kaip dešimties metų vaiką;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d. redakcija, Žin., 2000, Nr. 74-2262; 2021 m. gruodžio 23 d. redakcija, TAR, 2022-01-04, Nr. 70, identifikacinis kodas 2022-00070) 7 punktas prieštaravo (prieštarauja) Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai.
+Straipsnio punkto pakeitimai:
+Nr.  KT44-A-N6/2024, 2024-05-20, paskelbta TAR 2024-05-20, i. k. 2024-09103
+ 
 
 
 
@@ -51824,3 +51828,8 @@ Lietuvos Respublikos civilinio kodekso 2.104 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2623, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08913
 Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas
+ 
+74.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr.  KT44-A-N6/2024, 2024-05-20, paskelbta TAR 2024-05-20, i. k. 2024-09103
+Dėl Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d., 2021 m. gruodžio 23 d. redakcijos) 7 punkto atitikties Lietuvos Respublikos Konstitucijai
