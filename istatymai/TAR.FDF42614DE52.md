@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-30
+Suvestinė redakcija nuo 2024-05-31 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
  
@@ -181,9 +181,10 @@ Nr. XIII-417, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10025
 
 
 
-3. Į nedarbo draudimo išmokos mokėjimo laikotarpį neįskaitomi laikotarpiai, kai nedarbo draudimo išmokos mokėjimas buvo sustabdytas pagal šio įstatymo 9 straipsnio 1 dalį, išskyrus atvejus, kai bedarbis pagal Užimtumo įstatymą dalyvauja profesiniame mokyme ir jo pasirinkimu gauna nedarbo draudimo išmokos dydžio mokymo stipendiją arba pagal Užimtumo įstatymą yra sudaręs stažuotės sutartį ir gauna nedarbo draudimo išmokos dydžio stipendiją. Laikotarpis, už kurį bedarbis privalo grąžinti nedarbo draudimo išmoką pagal šio įstatymo 15 straipsnio 1 dalį, įskaitomas į nedarbo draudimo išmokos mokėjimo trukmę. 
+3. Į nedarbo draudimo išmokos mokėjimo laikotarpį neįskaitomi laikotarpiai, kai nedarbo draudimo išmokos mokėjimas buvo sustabdytas pagal šio įstatymo 9 straipsnio 1 dalį, išskyrus atvejus, kai bedarbis pagal Užimtumo įstatymą dalyvauja paramos mokymuisi priemonėse ir pasirinkęs gauna nedarbo draudimo išmokos dydžio mokymo stipendiją arba stipendiją. Laikotarpis, už kurį bedarbis privalo grąžinti nedarbo draudimo išmoką pagal šio įstatymo 15 straipsnio 1 dalį, įskaitomas į nedarbo draudimo išmokos mokėjimo trukmę.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
+Nr. XIV-2659, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09700
  
 
 
@@ -823,3 +824,8 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 6, 8 ir 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1970, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10363
 Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 19 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2659, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09700
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 7 ir 15 straipsnių pakeitimo įstatymas
