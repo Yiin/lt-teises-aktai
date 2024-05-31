@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b5c313d0986d11eb9fecb5ecd3bd711c"
 
 # Lietuvos Respublikos alternatyviųjų degalų įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-05-30
+Suvestinė redakcija nuo 2024-05-31 iki 2024-12-31
  
 Įstatymas paskelbtas: TAR 2021-04-08, i. k. 2021-07413
  
@@ -333,22 +333,10 @@ Alternatyviųjų degalų naudojimo transporto sektoriuje valstybinį valdymą vy
 4 straipsnis. Vyriausybės ir jos įgaliotos institucijos kompetencija
 
 
-1. Vyriausybė:
-
-
-1) nustato Aplinkos ministerijos, Energetikos ministerijos ir (ar) Susisiekimo ministerijos parengtas paramos skyrimo alternatyviaisiais degalais varomoms transporto priemonėms įsigyti ir (ar) joms reikalingai infrastruktūrai įsigyti, įrengti, modernizuoti ir (ar) plėsti skatinimo tvarką; 
-
-
-
-
-2) tvirtina paramos pažangiųjų biodegalų gamybai skyrimo tvarkos aprašą;
-
-
-
-
-3) tvirtina Darnaus judumo fondo nuostatus. 
-
-
+1. Vyriausybė tvirtina Darnaus judumo fondo nuostatus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
+ 
 
 
 
@@ -382,7 +370,10 @@ Energetikos ministerija:
 
 
 
-2) kartu su Aplinkos ministerija ir Žemės ūkio ministerija rengia ir teikia Vyriausybei tvirtinti paramos pažangiųjų biodegalų gamybai skyrimo tvarkos aprašą;
+2) Neteko galios nuo 2024-05-31
+Straipsnio punkto naikinimas:
+Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
+ 
 
 
 
@@ -2199,12 +2190,18 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-4. Nustatant, kokią bendro galutinio transporto sektoriaus energijos suvartojimo balanso dalį turi sudaryti atitinkamais kalendoriniais metais Lietuvos Respublikoje sunaudotų biodegalų ir degalų kiekiai, remiamasi Lietuvos statistikos departamento Oficialiosios statistikos portale skelbiama informacija. 
+4. Nustatant, kokią bendro galutinio transporto sektoriaus energijos suvartojimo balanso dalį turi sudaryti atitinkamais kalendoriniais metais Lietuvos Respublikoje sunaudotų biodegalų ir degalų kiekiai, remiamasi Valstybės duomenų agentūros Oficialiosios statistikos portale skelbiama informacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
+ 
 
 
 
 
-5. Šio įstatymo 20 straipsnio 8 dalies, 22 straipsnio 2 dalies ir 28 straipsnio 1 dalies nuostatos įsigalioja 2021 m. liepos 1 d., jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 114 straipsnio 6 dalies nuostatas gaunamas iki 2021 m. liepos 1 d., arba praėjus 2 mėnesiams po Europos Komisijos pritarimo, jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 114 straipsnio 6 dalies nuostatas gaunamas po 2021 m. liepos 1 d. 
+5. Šio įstatymo 20 straipsnio 8 dalies, 22 straipsnio 2 dalies ir 28 straipsnio 1 dalies nuostatos įsigalioja 2024 m. liepos 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
+ 
 
 
 
@@ -2333,3 +2330,8 @@ Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 2, 15, 18 ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1825, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05496
 Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 6, 23 ir 35 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2668, 2024-05-21, paskelbta TAR 2024-05-30, i. k. 2024-09708
+Lietuvos Respublikos alternatyviųjų degalų įstatymo Nr. XIV-196 4, 5 ir 35 straipsnių pakeitimo įstatymas
