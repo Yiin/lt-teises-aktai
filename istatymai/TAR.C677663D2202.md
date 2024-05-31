@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-30
+Suvestinė redakcija nuo 2024-05-31 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -2444,9 +2444,10 @@ Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 
 
 
-3. Gyventojas, kuris mokestiniu laikotarpiu buvo įsigijęs verslo liudijimą ar įregistravęs individualią veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją net tuo atveju, kai individualios veiklos pajamų negavo. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti piniginę socialinę paramą ar paramą būstui įsigyti ar išsinuomoti, taip pat išskyrus atskaitinę gyventojo turto deklaraciją teikiančius Gyventojų turto deklaravimo įstatymo 2 straipsnio 1 dalies 22 punkte nurodytus asmenis, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisydamas šio straipsnio 2 dalyje nustatytų išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, po kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už praėjusį mokestinį laikotarpį laikydamasis gyventojo turto deklaracijos pateikimo terminų.
+3. Gyventojas, kuris mokestiniu laikotarpiu buvo įsigijęs verslo liudijimą ar įregistravęs individualią veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją net tuo atveju, kai individualios veiklos pajamų negavo. Gyventojas, kuriam atsiranda prievolė deklaruoti pajamas Lietuvos Respublikos rinkimų kodekso 110 straipsnio 4 ir 6 dalyse nustatytais atvejais, ir gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti piniginę socialinę paramą ar paramą būstui įsigyti ar išsinuomoti, taip pat išskyrus atskaitinę gyventojo turto deklaraciją teikiančius Gyventojų turto deklaravimo įstatymo 2 straipsnio 1 dalies 26 punkte nurodytus asmenis, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisydamas šio straipsnio 2 dalyje nustatytų išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti pajamas Rinkimų kodekso 110 straipsnio 4 ir 6 dalyse nustatytais atvejais, privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už paskutinį praėjusį mokestinį laikotarpį, kai auką jis teikia po einamojo mokestinio laikotarpio gegužės 1 dienos, arba už užpraėjusį mokestinį laikotarpį, kai auką jis teikia iki einamojo mokestinio laikotarpio gegužės 1 dienos, laikydamasis Rinkimų kodekso 110 straipsnio 4 ir 6 dalyse nustatyto deklaracijos pateikimo termino, jeigu metinės pajamų mokesčio deklaracijos už minėtus mokestinius laikotarpius nebuvo pateikęs šio straipsnio 1 dalyje nustatyta tvarka. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo nustatyta tvarka, po kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už praėjusį mokestinį laikotarpį laikydamasis gyventojo turto deklaracijos pateikimo terminų.
 Straipsnio dalies pakeitimai:
 Nr. XII-1217, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15178
+Nr. XIV-2665, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09706
  
 
 
@@ -3603,3 +3604,8 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2383, 2023-12-19, paskelbta TAR 2023-12-23, i. k. 2023-25334
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 straipsnio pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2665, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09706
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 27 straipsnio pakeitimo įstatymas
