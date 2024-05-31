@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-30
+Suvestinė redakcija nuo 2024-05-31 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
  
@@ -47,7 +47,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis 
 
 
-Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, aukojant politinėms partijoms ar politinės kampanijos dalyviams, kreipiantis dėl piniginės socialinės paramos skyrimo, paramos būstui įsigyti ar išsinuomoti arba finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms gavimo. 
+Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, aukojant savo rinkimų politinei kompanijai finansuoti, kreipiantis dėl piniginės socialinės paramos skyrimo, paramos būstui įsigyti ar išsinuomoti arba finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms gavimo. 
 Straipsnio pakeitimai:
 Nr. XI-819, 2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 Nr. XI-1052, 2010-10-12, Žin., 2010, Nr. 125-6377 (2010-10-23)
@@ -56,6 +56,7 @@ Nr. XII-271, 2013-05-09, Žin., 2013, Nr. 54-2676 (2013-05-25)
 
 Straipsnio pakeitimai:
 Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
  
 
 
@@ -79,7 +80,10 @@ TURTO DEKLARAVIMAS
 
 
 
-2) kandidatai į valstybės politikus ir jų šeimos nariai;
+2) kandidatai į valstybės politikus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
+ 
 
 
 
@@ -89,7 +93,10 @@ TURTO DEKLARAVIMAS
 
 
 
-4) kandidatai į Europos Parlamento narius, renkamus nuo Lietuvos Respublikos (toliau – kandidatai į Europos Parlamento narius), ir jų šeimos nariai;
+4) kandidatai į Europos Parlamento narius, renkamus nuo Lietuvos Respublikos (toliau – kandidatai į Europos Parlamento narius); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
+ 
 
 
 
@@ -220,9 +227,10 @@ Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 
 
 
-27) asmenys, aukojantys savarankiškam politinės kampanijos dalyviui, ir jų šeimos nariai, išskyrus asmenis, kurių auka (aukų suma) vienam savarankiškam politinės kampanijos dalyviui per politinę kampaniją neviršija 12 eurų; 
+27) turtą, nurodytą šio Įstatymo 3 straipsnio 11 dalyje, – savo rinkimų politinei kampanijai finansuoti aukojantys kandidatai vienmandatėse rinkimų apygardose ir referendumo iniciatoriai; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
  
 
 
@@ -293,9 +301,10 @@ Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
 
 
 
-37) politinės partijos nariai ir jų šeimos nariai, išskyrus asmenis, kurių politinės partijos nario mokestis per kalendorinius metus neviršija 360 eurų;
+37) politinės organizacijos nariai, išskyrus asmenis, kurių politinės organizacijos nario mokestis per kalendorinius metus neviršija 360 eurų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
  
 
 
@@ -311,10 +320,11 @@ Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
 
 
 
-2. Šio straipsnio 1 dalies 1–23, 29–36 ir 38 punktuose nurodyti asmenys privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Šio straipsnio 1 dalies 1–24, 27–35, 37 ir 38 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose ar aukštosiose mokyklose pagal dieninės ir nuolatinės studijų formų programas, asmenys laikotarpiu nuo bendrojo ugdymo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).
+2. Šio straipsnio 1 dalies 1–23, 29–36 ir 38 punktuose nurodyti asmenys privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Šio straipsnio 1 dalies 1, 3, 5–24, 28–35 ir 38 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 28 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose ar aukštosiose mokyklose pagal dieninės ir nuolatinės studijų formų programas, asmenys laikotarpiu nuo bendrojo ugdymo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).
 Straipsnio dalies pakeitimai:
 Nr. XII-1587, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05702
 Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
  
 
 
@@ -401,9 +411,10 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 3 straipsnis. Deklaruojamas turtas
 
 
-1. Šio Įstatymo 2 straipsnio 1 dalies 1–24, 27–38 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą: 
+1. Šio Įstatymo 2 straipsnio 1 dalies 1–24, 28–38 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:  
 Straipsnio dalies pakeitimai:
 Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
 
 
 1) nekilnojamąjį daiktą, įskaitant nebaigtą statyti statinį;
@@ -447,6 +458,14 @@ Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
 
 
 
+11. Šio Įstatymo 2 straipsnio 1 dalies 27 punkte nurodyti gyventojai privalo deklaruoti bankuose ir kitose kredito įstaigose, taip pat ne bankuose ir kitose ne kredito įstaigose turimas lėšas (įskaitant turimas pasiskolintas lėšas). 
+Papildyta straipsnio dalimi:
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
+ 
+
+
+
+
 2. Šio Įstatymo 2 straipsnio 1 dalies 26 punkte nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:
 
 
@@ -475,7 +494,10 @@ Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
 
 
 
-3. Deklaruojamas Lietuvos Respublikoje ir užsienio valstybėse esantis šio straipsnio 1 ir 2 dalyse nurodytas turtas.
+3. Deklaruojamas Lietuvos Respublikoje ir užsienio valstybėse esantis šio straipsnio 1, 11 ir 2 dalyse nurodytas turtas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
+ 
 
 
 
@@ -485,7 +507,10 @@ Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
 
 
 
-5. Šio Įstatymo 2 straipsnio 1 dalies 24, 27, 28 ir 37 punktuose nurodyti gyventojai deklaruoja ir gautas pajamas.
+5. Šio Įstatymo 2 straipsnio 1 dalies 24, 28 ir 37 punktuose nurodyti gyventojai deklaruoja ir gautas pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
+ 
 
 
 Straipsnio pakeitimai:
@@ -572,7 +597,10 @@ Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 6 straipsnis. Kandidatų į tam tikras pareigas, išrinktų arba paskirtų į pareigas valstybės politikų ir Europos Parlamento narių, asmenų, priimtų arba paskirtų į tam tikras pareigas, nustojusių eiti pareigas valstybės politikų ir Europos Parlamento narių, iš pareigų atleistų tam tikrų asmenų ir jų šeimos narių turto deklaravimas
 
 
-1. Kandidatai į valstybės politikus bei į Europos Parlamento narius ir jų šeimos nariai privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais kandidatuojama, gruodžio 31 dieną turimą turtą. Šiems gyventojams vietos mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda Vyriausiosios rinkimų komisijos patvirtintos formos pagrindinių deklaracijos duomenų išrašus, kuriuos jie privalo pateikti Vyriausiajai rinkimų komisijai ar apygardos rinkimų komisijai.
+1. Kandidatai į valstybės politikus bei į Europos Parlamento narius privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais kandidatuojama, gruodžio 31 dieną turimą turtą. Šiems gyventojams vietos mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda Vyriausiosios rinkimų komisijos patvirtintos formos pagrindinių deklaracijos duomenų išrašus, kuriuos jie privalo pateikti Vyriausiajai rinkimų komisijai ar apygardos rinkimų komisijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
+ 
 
 
 
@@ -680,33 +708,24 @@ Nr. XI-1278, 2011-03-15, Žin., 2011, Nr. 37-1757 (2011-03-29)
 
 
 
-72 straipsnis. Asmenų, aukojančių savarankiškam politinės kampanijos dalyviui, ir jų šeimos narių turto (įskaitant gautas pajamas) deklaravimas
+72 straipsnis. Kandidatų vienmandatėse rinkimų apygardose ir referendumo iniciatorių, aukojančių savo rinkimų politinei kampanijai finansuoti, turto deklaravimas
 
 
-1. Asmenys, prieš suteikdami auką savarankiškam politinės kampanijos dalyviui, ir jų šeimos nariai deklaruoja paskutinių praėjusių kalendorinių metų, einančių prieš metus, kuriais jie aukoja savarankiškam politinės kampanijos dalyviui, gruodžio 31 dieną turėtą turtą (įskaitant gautas pajamas), kai auka teikiama po gegužės 1 dienos, arba užpraeitų kalendorinių metų gruodžio 31 dieną turėtą turtą (įskaitant gautas pajamas), kai auka teikiama iki gegužės 1 dienos, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1212, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14275
- 
+1. Kandidatai vienmandatėse rinkimų apygardose ir referendumų iniciatoriai, prieš suteikdami auką savo rinkimų politinei kampanijai finansuoti, deklaruoja paskutinių praėjusių kalendorinių metų, einančių prieš metus, kuriais jie aukoja savo rinkimų politinei kampanijai finansuoti, gruodžio 31 dieną turėtą turtą, kai auką jie teikia po gegužės 1 dienos, arba užpraeitų kalendorinių metų gruodžio 31 dieną turėtą turtą, kai auką jie teikia iki gegužės 1 dienos, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. 
 
 
 
 
-2. Deklaracija pateikiama likus ne mažiau kaip 10 darbo dienų iki aukos suteikimo. 
+2. Deklaracija pateikiama likus ne mažiau kaip 10 darbo dienų iki aukos suteikimo.
 
 
 
 
-3. Asmenys, šiame įstatyme nustatyta tvarka deklaravę šio straipsnio 1 dalyje nurodytų kalendorinių metų gruodžio 31 dieną turėtą turtą ir pajamas, prieš suteikdami auką savarankiškam politinės kampanijos dalyviui pakartotinai tų kalendorinių metų deklaracijos neteikia.
-Straipsnio dalies pakeitimai:
-Nr. XII-1212, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14275
- 
+3. Kandidatai vienmandatėse rinkimų apygardose ir referendumų iniciatoriai, šiame įstatyme nustatyta tvarka deklaravę šio straipsnio 1 dalyje nurodytų kalendorinių metų gruodžio 31 dieną turėtą turtą, prieš suteikdami auką savo rinkimų politinei kampanijai finansuoti pakartotinai tų kalendorinių metų deklaracijos neteikia.
 
 
-Įstatymas papildytas straipsniu:
-Nr. XI-819, 2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 Straipsnio pakeitimai:
-Nr. XI-1780, 2011-12-06, Žin., 2011, Nr. 153-7208 (2011-12-15)
-Nr. XI-2100, 2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
  
 
 
@@ -804,11 +823,11 @@ Nr. XII-156, 2013-01-17, Žin., 2013, Nr. 11-500 (2013-01-30)
 11 straipsnis. Deklaracijai užpildyti reikalingų pažymų parengimas
 
 
-Bankai, kitos kredito įstaigos ir kiti Lietuvos Respublikos juridiniai asmenys šio Įstatymo 2 straipsnio 1 dalyje nurodytų gyventojų prašymu išduoda pažymas apie gyventojo turimą šio Įstatymo 3 straipsnio 1 dalies 3–5 punktuose nurodytą turtą. Pažymos parengiamos ir išduodamos nemokamai per 10 darbo dienų nuo prašymo gavimo dienos.
+Bankai, kitos kredito įstaigos ir kiti Lietuvos Respublikos juridiniai asmenys šio Įstatymo 2 straipsnio 1 dalyje nurodytų gyventojų prašymu išduoda pažymas apie gyventojo turimą šio Įstatymo 3 straipsnio 1 dalies 3–5 punktuose ir 11 dalyje nurodytą turtą. Pažymos parengiamos ir išduodamos nemokamai per 10 darbo dienų nuo prašymo gavimo dienos.
 
 
-Įstatymas papildytas straipsniu:
-Nr. IX-2060, 2004-03-16, Žin., 2004, Nr. 47-1551 (2004-03-30)
+Straipsnio pakeitimai:
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
  
 
 
@@ -1080,3 +1099,8 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 3, 5, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
 Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2, 3, 6, 7-2 ir 11 straipsnių pakeitimo įstatymas
