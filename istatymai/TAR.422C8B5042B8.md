@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2023-07-01 iki 2024-05-30
+Suvestinė redakcija nuo 2024-05-31 iki 2024-06-30
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -130,9 +130,11 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Darbo asistentas – įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros darbuotojas, padedantis neįgaliam darbuotojui atlikti darbo funkcijas. 
+1. Darbo asistentas – įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros darbuotojas, padedantis darbuotojui su negalia atlikti darbo funkcijas.
 Papildyta straipsnio dalimi:
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -266,7 +268,10 @@ UŽIMTUMO FORMOS IR JŲ SISTEMA
 
 
 
-9) dėl asmenų, atlygintinai einančių narystės pagrindu renkamąsias pareigas ar paskirtų į apygardų, apylinkių rinkimų, savivaldybių rinkimų, į miestų, rajonų referendumo komisijas, tarnybos susiklostantys teisiniai santykiai, kurių ypatumus nustato Lietuvos Respublikos Seimo rinkimų įstatymas, Lietuvos Respublikos Prezidento rinkimų įstatymas, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymas, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymas ir Lietuvos Respublikos referendumo įstatymas;
+9) dėl asmenų, atlygintinai einančių narystės pagrindu renkamąsias pareigas ar paskirtų į apygardų, savivaldybių rinkimų, apylinkių rinkimų komisijas, į savivaldybių referendumo komisijas, apylinkių referendumo komisijas, tarnybos susiklostantys teisiniai santykiai, kurių ypatumus nustato Lietuvos Respublikos rinkimų kodeksas ir Lietuvos Respublikos referendumo konstitucinis įstatymas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -1101,7 +1106,10 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 
 
 
-7) organizuoja ir koordinuoja profesinės reabilitacijos paslaugų teikimą Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;
+7) organizuoja ir koordinuoja profesinės reabilitacijos paslaugų teikimą Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -1149,10 +1157,12 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 17 straipsnis. Savivaldybių institucijų ir įstaigų kompetencija
 
 
-Savivaldybių institucijos ir įstaigos dalyvauja įgyvendinant šio įstatymo 45, 46 ir 47 straipsniuose nustatytas užimtumo rėmimo priemones bei rengia ir įgyvendina šio įstatymo 48 straipsnyje nustatytas užimtumo didinimo programas.
+Savivaldybių institucijos ir įstaigos dalyvauja įgyvendinant šio įstatymo 46 ir 47 straipsniuose nustatytas užimtumo rėmimo priemones bei rengia ir įgyvendina šio įstatymo 48 straipsnyje nustatytas užimtumo didinimo programas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
-
-
 
 
 
@@ -2192,7 +2202,10 @@ Nr. XIV-1287, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15436
 5. Tarpininkavimo įdarbinant paslaugas trečiosios šalies piliečiui, ketinančiam dirbti Lietuvos Respublikoje pagal darbo sutartį, teikia pats teikėjas pagal tarp teikėjo ir trečiosios šalies piliečio sudarytą sutartį, kuria įsipareigoja teikti nemokamas tarpininkavimo įdarbinant paslaugas ir pateikti darbo ieškančiam trečiosios šalies piliečiui: 
 
 
-1) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį ne trumpesniam negu 6 mėnesių laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Lietuvos statistikos departamento paskutinio paskelbto kalendorinių metų vidutinio mėnesinio bruto darbo užmokesčio šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) (toliau – paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU) dydžio, kai trečiosios šalies pilietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, arba
+1) darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį ne trumpesniam negu 6 mėnesių laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Valstybės duomenų agentūros paskutinio paskelbto kalendorinių metų vidutinio mėnesinio bruto darbo užmokesčio šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) (toliau – paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU) dydžio, kai trečiosios šalies pilietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, arba
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -2245,17 +2258,20 @@ Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
 
 
 
-3. Pagalba atliekant įsidarbinimo procedūras teikiama, siekiant užtikrinti darbdavio ir asmens, kuriam dėl neįgalumo reikalinga pagalba įsidarbinant, komunikavimą. Pagalba atliekant įsidarbinimo procedūras teikiama pagal poreikį ne daugiau kaip 8 valandas pas vieną darbdavį. Pagalbos atliekant įsidarbinimo procedūras vienos valandos įkainis negali viršyti 0,2 bazinės socialinės išmokos dydžio už kiekvieną neįgalų asmenį, kuris Užimtumo tarnybos buvo priskirtas vidutinių ar ribotų įsidarbinimo galimybių grupei. 
+3. Pagalba atliekant įsidarbinimo procedūras teikiama, siekiant užtikrinti darbdavio ir asmens, kuriam dėl negalios reikalinga pagalba įsidarbinant, komunikavimą. Pagalba atliekant įsidarbinimo procedūras teikiama pagal poreikį ne daugiau kaip 8 valandas pas vieną darbdavį. Pagalbos atliekant įsidarbinimo procedūras vienos valandos įkainis negali viršyti 0,2 bazinės socialinės išmokos dydžio už kiekvieną asmenį su negalia, kuris Užimtumo tarnybos buvo priskirtas vidutinių ar ribotų įsidarbinimo galimybių grupei. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
 
 
-4. Lydimoji pagalba įsidarbinus teikiama darbdavio ar neįgalaus asmens prašymu, siekiant užtikrinti įdarbinimo tvarumą. Teikiant šią paslaugą, asmeniui padedama rasti būdų, kaip išspręsti darbe kylančias problemas, dėl kurių asmuo gali netekti darbo. Lydimoji pagalba teikiama pagal poreikį, tačiau ne ilgiau negu 12 kalendorinių mėnesių nuo įsidarbinimo dienos. Lydimosios pagalbos vienos valandos įkainis negali viršyti 0,2 bazinės socialinės išmokos dydžio už kiekvieną neįgalų asmenį, kuris Užimtumo tarnybos buvo priskirtas vidutinių ar ribotų įsidarbinimo galimybių grupei.
+4. Lydimoji pagalba įsidarbinus teikiama darbdavio ar asmens su negalia prašymu, siekiant užtikrinti įdarbinimo tvarumą. Teikiant šią paslaugą, asmeniui padedama rasti būdų, kaip išspręsti darbe kylančias problemas, dėl kurių asmuo gali netekti darbo. Lydimoji pagalba teikiama pagal poreikį, tačiau ne ilgiau negu 12 kalendorinių mėnesių nuo įsidarbinimo dienos. Lydimosios pagalbos vienos valandos įkainis negali viršyti 0,2 bazinės socialinės išmokos dydžio už kiekvieną asmenį su negalia, kuris Užimtumo tarnybos buvo priskirtas vidutinių ar ribotų įsidarbinimo galimybių grupei.
+ 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -2348,7 +2364,10 @@ DARBO RINKOS STEBĖSENA
 
 
 
-6) Lietuvos statistikos departamento renkamus darbo rinkos statistinius duomenis;
+6) Valstybės duomenų agentūros renkamus darbo rinkos statistinius duomenis;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -2460,7 +2479,10 @@ UŽIMTUMO RĖMIMO PRIEMONĖS
 4. Paraiškas dėl šio straipsnio 1 dalies 3 ir 4 punktuose ir šio įstatymo 36 straipsnio 1 dalies 2 punkte nurodytų priemonių įgyvendinimo gali teikti darbdaviai:
 
 
-1) kuriems nėra iškelta bankroto byla, kurie nėra likviduojami, dėl kurių nėra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka, kuriems, vadovaujantis Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymu, nėra pritaikytos tarptautinės finansinės sankcijos (toliau – tarptautinės finansinės sankcijos);
+1) kuriems nėra iškelta bankroto byla, kurie nėra likviduojami, dėl kurių nėra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka, kuriems, vadovaujantis Lietuvos Respublikos tarptautinių sankcijų įstatymu, nėra pritaikytos tarptautinės finansinės sankcijos (toliau – tarptautinės finansinės sankcijos); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3495,14 +3517,17 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 2. Šio straipsnio 1 dalies 1 punkte nurodyta parama teikiama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Užimtumo tarnybos atrinktiems darbdaviams (toliau – subsidijos gavėjai) šio įstatymo 45 straipsnyje nurodytais atvejais, mokant subsidiją: 
 
 
-1) techninės pagalbos priemonėms, reikalingoms darbo vietai pritaikyti neįgaliesiems, ar darbo procese naudojamiems specialiems įrenginiams (mašinoms, aparatams, prietaisams, įrankiams, įtaisams) ar kitiems specialiems reikmenims, kurių reikia neįgaliam darbuotojui darbo funkcijoms atlikti, projektuoti, gaminti, pirkti ir montuoti (įrengti);
+1) techninės pagalbos priemonėms, reikalingoms darbo vietai pritaikyti asmenims su negalia, ar darbo procese naudojamiems specialiems įrenginiams (mašinoms, aparatams, prietaisams, įrankiams, įtaisams), ar kitiems specialiems reikmenims, kurių reikia darbuotojui su negalia darbo funkcijoms atlikti, projektuoti, gaminti, pirkti ir montuoti (įrengti);
 
 
 
 
-2) turto valdymo teise ne mažiau kaip 36 mėnesius nuo numatomos darbo vietos pritaikymo dienos valdomam pastatui (patalpai, patalpoms) remontuoti, siekiant užtikrinti aplinkos prieinamumą neįgaliesiems (aplinkos atitiktį specialiesiems neįgaliųjų poreikiams), pritaikant darbo vietos aplinką, gamybines ir poilsio patalpas, taip pat aplinką pritaikant akliesiems, perkant, projektuojant, gaminant ir montuojant (įrengiant) specialius įrenginius ir kitą įrangą, be kurios neįgalus darbuotojas nepajėgtų patekti į darbo vietą ar pastate esančias poilsio patalpas.
+2) turto valdymo teise ne mažiau kaip 36 mėnesius nuo numatomos darbo vietos pritaikymo dienos valdomam pastatui (patalpai, patalpoms) remontuoti, siekiant užtikrinti aplinkos prieinamumą asmenims su negalia (aplinkos atitiktį asmenų su negalia poreikiams), pritaikant darbo vietos aplinką, gamybines ir poilsio patalpas, taip pat aplinką pritaikant neregiams, perkant, projektuojant, gaminant ir montuojant (įrengiant) specialius įrenginius ir kitą įrangą, be kurios darbuotojas su negalia nepajėgtų patekti į darbo vietą ar pastate esančias poilsio patalpas.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3640,12 +3665,12 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 9. Subsidijos gavėjas privalo:
 
 
-1) apmokėti ne mažiau kaip 35 procentus kiekvienos darbo vietos steigimo ar pritaikymo išlaidų, išskyrus atvejus, kai įdarbinami neįgalieji (už kiekvieną neįgalų darbuotoją, kuriam nustatytas sunkus neįgalumo lygis ar 25 procentų neviršijantis darbingumo lygis (iki 2005 m. liepos 1 d. – I grupės invalidą), – 20 procentų; už neįgalų darbuotoją, kuriam nustatytas vidutinis neįgalumo lygis ar 30–40 procentų darbingumo lygis (iki 2005 m. liepos 1 d. – II grupės invalidą), – 30 procentų), ir įsteigtą ar pritaikytą darbo vietą išlaikyti ne mažiau kaip 36 mėnesius nuo Užimtumo tarnybos siųstų asmenų įdarbinimo. Darbdavys savo sprendimu gali nustatyti didesnę, negu nurodyta šioje dalyje, nuosavų lėšų dalį, skiriamą darbo vietų steigimo ar pritaikymo išlaidoms apmokėti;
+1) apmokėti ne mažiau kaip 35 procentus kiekvienos darbo vietos steigimo ar pritaikymo išlaidų, išskyrus atvejus, kai įdarbinami asmenys su negalia (už kiekvieną darbuotoją su negalia, kuriam nustatytas sunkaus neįgalumo lygis (iki 2023 m. gruodžio 31 d. – sunkus neįgalumo lygis) ar 25 procentų neviršijantis dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–25 procentų darbingumo lygis), – 20 procentų; už darbuotoją su negalia, kuriam nustatytas vidutinio neįgalumo lygis (iki 2023 m. gruodžio 31 d. – vidutinis neįgalumo lygis) ar 30–40 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 30–40 procentų darbingumo lygis), – 30 procentų), ir įsteigtą ar pritaikytą darbo vietą išlaikyti ne mažiau kaip 36 mėnesius nuo Užimtumo tarnybos siųstų asmenų įdarbinimo. Darbdavys savo sprendimu gali nustatyti didesnę, negu nurodyta šiame punkte, nuosavų lėšų dalį, skiriamą darbo vietų steigimo ar pritaikymo išlaidoms apmokėti;
 
 
 
 
-2) iki vienos iš paramos darbo vietoms steigti priemonių įgyvendinimo ir finansavimo sutarties pasirašymo dienos Užimtumo tarnybai pateikti šios sutarties galiojimo užtikrinimą, kurio dydis – ne mažiau kaip 50 procentų numatytos skirti subsidijos sumos sutarties galiojimo laikotarpiu;
+2) iki vienos iš paramos darbo vietoms steigti priemonių įgyvendinimo ir finansavimo sutarties pasirašymo dienos Užimtumo tarnybai pateikti šios sutarties įvykdymo užtikrinimą, kurio dydis – ne mažiau kaip 50 procentų numatytos skirti subsidijos sumos sutarties galiojimo laikotarpiu;
 
 
 
@@ -3655,14 +3680,17 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 
 
 
-4) darbo vietą įsteigti ar pritaikyti ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka visiškai atsiskaityti su Užimtumo tarnyba už suteiktą subsidiją ne vėliau kaip per 10 mėnesių nuo vienos iš paramos darbo vietoms steigti priemonių įgyvendinimo sutarties pasirašymo dienos;
+4) darbo vietą įsteigti ar pritaikyti ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka visiškai atsiskaityti su Užimtumo tarnyba už suteiktą subsidiją ne vėliau kaip per 10 mėnesių nuo vienos iš paramos darbo vietoms steigti priemonių įgyvendinimo ir finansavimo sutarties pasirašymo dienos;
 
 
 
 
-5) savo lėšomis apdrausti ilgalaikį materialųjį turtą, kuriam įsigyti steigiant darbo vietą ar ją pritaikant buvo naudota subsidija, maksimaliu turto atkuriamosios vertės draudimu nuo visų galimų rizikos atvejų, nuo kurių draudžia subsidijos gavėjo pasirinkta draudimo bendrovė, ne mažiau kaip 36 mėnesiams nuo darbo vietos įsteigimo ar pritaikymo dienos, o šio straipsnio 7 dalies 4 punkte nurodytais atvejais – ne trumpiau kaip iki pratęsto įsteigtos darbo vietos išlaikymo laikotarpio pabaigos, naudos gavėju nurodydamas Užimtumo tarnybą, ir raštu ar elektroninių ryšių priemonėmis pateikti jai draudimą įrodančius dokumentus (draudimo liudijimo kopiją).
+5) savo lėšomis apdrausti ilgalaikį materialųjį turtą, kuriam įsigyti steigiant darbo vietą ar ją pritaikant buvo naudota subsidija, maksimaliu turto atkuriamosios vertės draudimu nuo visų galimų rizikos atvejų, nuo kurių draudžia subsidijos gavėjo pasirinkta draudimo bendrovė, ne mažiau kaip 36 mėnesiams nuo darbo vietos įsteigimo ar pritaikymo dienos, o šio straipsnio 7 dalies 4 punkte nurodytais atvejais – ne trumpiau kaip iki pratęsto įsteigtos darbo vietos išlaikymo laikotarpio pabaigos ir raštu ar elektroninių ryšių priemonėmis pateikti Užimtumo tarnybai draudimą įrodančius dokumentus (draudimo liudijimo kopiją). 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3680,7 +3708,10 @@ Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
 
 
 
-3) keisti įdarbinto asmens darbo vietą ar darbo funkcijas, nustatyti ne visą darbo laiką arba ne visą darbo savaitę, kaip nurodyta Lietuvos Respublikos darbo kodekse, jeigu to nebuvo numatęs paraiškoje gauti subsidiją darbo vietai (vietoms) steigti ar pritaikyti, išskyrus asmenų, kuriems nustatytas iki 25 procentų darbingumo lygis ar sunkus neįgalumo lygis arba 30–40 procentų darbingumo lygis ar vidutinis neįgalumo lygis, arba 45–55 procentų darbingumo lygis ar lengvas neįgalumo lygis ir kurie dėl sveikatos būklės gali dirbti ne visą darbo dieną ar ne visą darbo savaitę, įdarbinimo atvejus.
+3) keisti įdarbinto asmens darbo vietą ar darbo funkcijas, nustatyti ne visą darbo laiką arba ne visą darbo savaitę, kaip nurodyta Lietuvos Respublikos darbo kodekse, jeigu to nebuvo numatęs paraiškoje gauti subsidiją darbo vietai (vietoms) steigti ar pritaikyti, išskyrus asmenų, kuriems nustatytas iki 25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–25 procentų darbingumo lygis) ar sunkaus neįgalumo lygis (iki 2023 m. gruodžio 31 d. – sunkus neįgalumo lygis) arba 30–40 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 30–40 procentų darbingumo lygis) ar vidutinio neįgalumo lygis (iki 2023 m. gruodžio 31 d. – vidutinis neįgalumo lygis), arba 45–55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 45–55 procentų darbingumo lygis) ar lengvo neįgalumo lygis (iki 2023 m. gruodžio 31 d. – lengvas neįgalumo lygis) ir kurie dėl sveikatos būklės gali dirbti ne visą darbo dieną ar ne visą darbo savaitę, įdarbinimo atvejus. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3720,7 +3751,10 @@ Darbo vietų pritaikymo subsidijavimas organizuojamas:
 
 
 
-2) darbingo amžiaus užimtų asmenų, kuriems nustatytas iki 25 procentų darbingumo lygis ar sunkus neįgalumo lygis arba 30–40 procentų darbingumo lygis ar vidutinis neįgalumo lygis, išlikimui darbo rinkoje remti.
+2) darbingo amžiaus užimtų asmenų, kuriems nustatytas iki 25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–25 procentų darbingumo lygis) ar sunkaus neįgalumo lygis (iki 2023 m. gruodžio 31 d. – sunkus neįgalumo lygis) arba 30–40 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 30–40 procentų darbingumo lygis) ar vidutinio neįgalumo lygis (iki 2023 m. gruodžio 31 d. – vidutinis neįgalumo lygis), išlikimui darbo rinkoje remti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+ 
 
 
 
@@ -3779,9 +3813,10 @@ Nr. XIV-1106, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11864
 
 
 
-3. Šio straipsnio 2 dalyje nurodytiems asmenims subsidija darbo vietai (vietoms) steigti mokama šio įstatymo 44 straipsnio 3 ir 4 dalyse nurodytomis sąlygomis ir tvarka, netaikant reikalavimo apmokėti ne mažiau kaip 35 procentus darbo vietoms steigti (pritaikyti atsižvelgiant į neįgaliųjų negalią) reikalingų lėšų ir reikalavimo pateikti sutarties galiojimo užtikrinimą, jeigu darbo vieta steigiama tik sau.
+3. Šio straipsnio 2 dalyje nurodytiems asmenims subsidija darbo vietai (vietoms) steigti mokama šio įstatymo 44 straipsnio 3 ir 4 dalyse nurodytomis sąlygomis ir tvarka, netaikant reikalavimo apmokėti ne mažiau kaip 35 procentus darbo vietoms steigti (pritaikyti atsižvelgiant į asmenų negalią) reikalingų lėšų ir reikalavimo pateikti sutarties įvykdymo užtikrinimą, jeigu darbo vieta steigiama tik sau.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1390, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16117
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
  
 
 
@@ -4919,3 +4954,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 2, 16, 20, 24, 25, 30-2, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2084, 2023-06-22, paskelbta TAR 2023-06-27, i. k. 2023-12872
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 37, 39-2 ir 39-3 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2651, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09689
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 2, 4, 5-1, 16, 17, 20, 24, 25, 30-1, 30-2, 31, 32, 35, 38, 39-3, 40, 41, 42, 43, 44, 45, 47, 48, 48-1, 50 straipsnių, IV skyriaus pakeitimo ir Įstatymo papildymo 12-2 straipsniu įstatymas
