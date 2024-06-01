@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2022-03-31 iki 2024-05-31
+Suvestinė redakcija nuo 2024-06-01
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
  
@@ -64,9 +64,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatymo sąvokos
 
 
-1. Administracinės paslaugos smulkiajam ir vidutiniam verslui – informavimo, konsultavimo smulkiojo ir vidutinio verslo pradžios, plėtros, tarptautiškumo ir kitais verslui aktualiais klausimais paslaugų teikimas, verslo aplinkos ir užsienio rinkų analizė, tyrimai bei Lietuvos Respublikos ekonomikos ir inovacijų ministro (toliau – ekonomikos ir inovacijų ministras) patvirtintų smulkiojo ir vidutinio verslo ir startuolių skatinimo priemonių vykdymas arba administravimas, įgyvendinant smulkiojo ir vidutinio verslo politiką.
+1. Administracinės paslaugos smulkiajam ir vidutiniam verslui – informavimo, konsultavimo smulkiojo ir vidutinio verslo pradžios, plėtros, tarptautiškumo ir kitais verslui aktualiais klausimais paslaugų teikimas, verslo aplinkos ir užsienio rinkų analizė, tyrimai bei ekonomikos ir inovacijų ministro patvirtintų smulkiojo ir vidutinio verslo, startuolių ir socialinio verslo subjektų skatinimo priemonių vykdymas arba administravimas, įgyvendinant smulkiojo ir vidutinio verslo politiką. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
@@ -184,33 +185,46 @@ Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
 
 
-16. Startuolis – didelį ir inovacijomis grindžiamą verslo plėtros potencialą turinti labai maža ar maža įmonė, Juridinių asmenų registre registruota ne ilgiau kaip 5 metus. 
+16. Socialinis verslas – ekonominė veikla, kuria siekiama visuomenei naudingų tikslų, socialinio ar (ir) aplinkosauginio poveikio ir kurią vykdo socialinei ekonomikai priskiriami socialinio verslo subjektai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
+
+
+
+
+17. Startuolis – didelį ir inovacijomis grindžiamą verslo plėtros potencialą turinti labai maža ar maža įmonė, Juridinių asmenų registre registruota ne ilgiau kaip 5 metus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-17. Susijusios rinkos – tam tikros prekės ar paslaugos rinkos tiesioginių ryšių siejamų vartotojų ar tiekėjų rinkos.
+18. Susijusios rinkos – tam tikros prekės ar paslaugos rinkos tiesioginių ryšių siejamų vartotojų ar tiekėjų rinkos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-18. Susijusios įmonės – įmonės, atitinkančios šiame įstatyme nustatytus kriterijus.
+19. Susijusios įmonės – įmonės, atitinkančios šiame įstatyme nustatytus kriterijus.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-19. Valstybės parama:
+20. Valstybės parama:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
@@ -231,58 +245,66 @@ Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
 
 
 
-20. Verslas – ekonominės veiklos vykdymas.
+21. Verslas – ekonominės veiklos vykdymas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-21. Verslininkas – fizinis asmuo, kuris verčiasi ekonomine veikla.
+22. Verslininkas – fizinis asmuo, kuris verčiasi ekonomine veikla.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-22. Verslo informacijos centras – viešoji įstaiga, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė ir kurios tikslas – teikiant viešąsias paslaugas verslui, skatinti naujų įmonių steigimąsi, padėti jau veikiantiems smulkiojo ir vidutinio verslo subjektams plėtoti veiklą, prisitaikyti prie kintančių rinkos sąlygų, didinti jų veiklos konkurencingumą ir efektyvumą.
+23. Verslo informacijos centras – viešoji įstaiga, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė ir kurios tikslas – teikiant viešąsias paslaugas verslui, skatinti naujų įmonių steigimąsi, padėti jau veikiantiems smulkiojo ir vidutinio verslo subjektams plėtoti veiklą, prisitaikyti prie kintančių rinkos sąlygų, didinti jų veiklos konkurencingumą ir efektyvumą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-23. Verslo inkubatorius – viešoji įstaiga, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė ir kurios tikslas – teikiant viešąsias paslaugas verslui, sumažinti verslą pradedančių įmonių veiklos riziką ir padėti joms įsitvirtinti rinkoje, taip pat skatinti smulkiojo ir vidutinio verslo subjektų veiklos plėtrą. Verslo inkubatorius telkia verslą pradedančias įmones jam nuosavybės teise priklausančiose ar kitu teisiniu pagrindu valdomose ir naudojamose patalpose.
+24. Verslo inkubatorius – viešoji įstaiga, kurios savininkė arba viena iš dalininkų yra valstybė ir (arba) savivaldybė ir kurios tikslas – teikiant viešąsias paslaugas verslui, sumažinti verslą pradedančių įmonių veiklos riziką ir padėti joms įsitvirtinti rinkoje, taip pat skatinti smulkiojo ir vidutinio verslo subjektų veiklos plėtrą. Verslo inkubatorius telkia verslą pradedančias įmones jam nuosavybės teise priklausančiose ar kitu teisiniu pagrindu valdomose ir naudojamose patalpose.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-24. Verslumas – asmens kompetencija įgyvendinti pridėtinę ekonominę ar socialinę vertę kuriančias idėjas ir asmens ekonominis, socialinis ir kūrybinis aktyvumas verslo srityje. 
+25. Verslumas – asmens kompetencija įgyvendinti pridėtinę ekonominę ar socialinę vertę kuriančias idėjas ir asmens ekonominis, socialinis ir kūrybinis aktyvumas verslo srityje. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-25. Viešosios paslaugos smulkiajam ir vidutiniam verslui – informavimas, konsultavimas verslo pradžios, verslo plėtros ir kitais verslui aktualiais klausimais, mokymo, kvalifikacijos kėlimo ar perkvalifikavimo, metodinės paslaugos, teikiamos smulkiojo ir vidutinio verslo subjektams ir (arba) verslą pradėti ketinantiems fiziniams asmenims, taip pat patalpų, techninės ir biuro įrangos nuoma ir praktinė pagalba nuomojantiems šias patalpas smulkiojo ir vidutinio verslo subjektams. 
+26. Viešosios paslaugos smulkiajam ir vidutiniam verslui – informavimas, konsultavimas verslo pradžios, verslo plėtros ir kitais verslui aktualiais klausimais, mokymo, kvalifikacijos kėlimo ar perkvalifikavimo, metodinės paslaugos, teikiamos smulkiojo ir vidutinio verslo subjektams ir (arba) verslą pradėti ketinantiems fiziniams asmenims, taip pat patalpų, techninės ir biuro įrangos nuoma ir praktinė pagalba nuomojantiems šias patalpas smulkiojo ir vidutinio verslo subjektams. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
 
 
-26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme, Lietuvos Respublikos technologijų ir inovacijų įstatyme.
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme, Lietuvos Respublikos technologijų ir inovacijų įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1882, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00236
 Nr. XIII-2212, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09827
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
@@ -345,52 +367,114 @@ SMULKIOJO IR VIDUTINIO VERSLO SUBJEKTŲ SAMPRATA
 
 
 
-4. Įmonės gali deklaruoti esančios vidutinės, mažos ar labai mažos įmonės nuo jų įregistravimo Juridinių asmenų registre. 
+4. Socialinio verslo subjektas – labai maža, maža ar vidutinė įmonė, kuri vykdo ekonominę veiklą siekdama teigiamo socialinio ir (ar) aplinkosauginio poveikio ir atitinka visas šias sąlygas:
+
+
+1) Vyriausybės ar jos įgaliotos institucijos nustatyta pelno dalis naudojama socialiniam ir (ar) aplinkosauginiam poveikiui kurti;
 
 
 
 
-5. Įmonės darbuotojų skaičių atitinka vidutinis metinis darbuotojų skaičius. Vidutinis metinis darbuotojų skaičius nustatomas pagal paskutinių metų arba, jeigu įmonė veikia ilgiau kaip dvejus metus, – pagal paskutinių dvejų metų įmonės duomenis. Vidutinio metinio darbuotojų skaičiaus nustatymo tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota institucija.
+2) neatlygintinai galima susipažinti su socialinio verslo subjekto finansinės atskaitomybės dokumentais;
 
 
 
 
-6. Vidutinės, mažos ar labai mažos įmonės statuso (toliau – statusas) deklaravimo dieną (toliau – deklaravimo diena) įmonės finansiniai duomenys turi patvirtinti įmonės atitiktį šio straipsnio 1, 2 ar 3 dalyse nustatytoms sąlygoms. 
+3) atitinka šio straipsnio 13 dalyje nustatytus nepriklausomumo reikalavimus 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-7. Įmonės finansiniai duomenys nustatomi pagal paskutinių metų arba, jeigu įmonė veikia daugiau kaip dvejus metus, – pagal paskutinių dvejų metų patvirtintų įmonės metinių finansinių ataskaitų rinkinį (toliau – metinės finansinės ataskaitos) arba įmonių grupės metinių konsoliduotųjų finansinių ataskaitų rinkinį (toliau – metinės konsoliduotosios finansinės ataskaitos). Jeigu sudaryti ir tvirtinti metines finansines ataskaitas arba metines konsoliduotąsias finansines ataskaitas įmonei nėra privaloma, įmonės finansiniai duomenys nustatomi vadovaujantis kitais finansiniais dokumentais, kuriuose sukauptos informacijos pakanka šio straipsnio 1, 2 ir 3 dalyse nurodytiems finansiniams duomenims nustatyti (toliau – kiti finansiniai dokumentai).
+5. Socialinio verslo statuso įgijimo ir netekimo tvarką, nepriklausomumo reikalavimus, skatinimo formas ir socialinio ir (ar) aplinkosauginio poveikio matavimo metodiką nustato Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-8. Įmonės atitiktis šio straipsnio 1, 2 ar 3 dalyse nurodytoms sąlygoms fiksuojama nuo metinių finansinių ataskaitų, metinių konsoliduotųjų finansinių ataskaitų ar kitų finansinių dokumentų patvirtinimo dienos, išskyrus atvejus, kai įmonė turi patvirtinusi trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus arba kai nustatomas naujos įsteigtos įmonės, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nepatvirtinti, statusas. Įmonė, turinti patvirtintas trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus, ir nauja įsteigta įmonė, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nepatvirtinti, priskiriama vidutinei, mažai ar labai mažai įmonei šio straipsnio 9 dalyje nustatyta tvarka nustačius, kad ji atitinka šio straipsnio 1, 2 ir 3 dalyse nustatytas sąlygas.
+6. Įmonės gali deklaruoti esančios vidutinės, mažos ar labai mažos įmonės nuo jų įregistravimo Juridinių asmenų registre. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-9. Įmonės, turinčios patvirtintas trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus, ir naujos įsteigtos įmonės, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nėra patvirtinti, šio straipsnio 1, 2 ir 3 dalyse nustatytų sąlygų atitiktis nustatoma pagal vidutinį metinį darbuotojų skaičių, finansinius duomenis (pasirinktinai – balanse nurodyto turto vertę arba metines pajamas) nuo įmonės įregistravimo Juridinių asmenų registre ir planuojamus finansinių metų duomenis. 
+7. Įmonės darbuotojų skaičių atitinka vidutinis metinis darbuotojų skaičius. Vidutinis metinis darbuotojų skaičius nustatomas pagal paskutinių metų arba, jeigu įmonė veikia ilgiau kaip dvejus metus, – pagal paskutinių dvejų metų įmonės duomenis. Vidutinio metinio darbuotojų skaičiaus nustatymo tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-10. Deklaruodamos savo statusą, įmonės privalo nurodyti ir šio straipsnio 1, 2 ir 3 dalyse nustatytus duomenis. Už deklaracijoje pateikiamų duomenų teisingumą ir tikrumą atsako deklaraciją pasirašęs asmuo. Deklaracijos formą ir deklaravimo tvarkos aprašą tvirtina Vyriausybė ar jos įgaliota institucija. 
+8. Vidutinės, mažos ar labai mažos įmonės statuso (toliau – statusas) deklaravimo dieną (toliau – deklaravimo diena) įmonės finansiniai duomenys turi patvirtinti įmonės atitiktį šio straipsnio 1, 2 ar 3 dalyse nustatytoms sąlygoms. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-11. Įmonė nepriskiriama vidutinei, mažai ar labai mažai įmonei, jeigu 25 procentus ir daugiau įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba 25 procentus ir daugiau įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) atskirai arba kartu turi valstybė ir (ar) savivaldybė, išskyrus atvejus, kai ne mažiau kaip 25 ir ne daugiau kaip 50 procentų įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba ne mažiau kaip 25 ir ne daugiau kaip 50 procentų visų įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turi šio straipsnio 15 dalies 1–4 punktuose nurodyti investuotojai.
+9. Įmonės finansiniai duomenys nustatomi pagal paskutinių metų arba, jeigu įmonė veikia daugiau kaip dvejus metus, – pagal paskutinių dvejų metų patvirtintų įmonės metinių finansinių ataskaitų rinkinį (toliau – metinės finansinės ataskaitos) arba įmonių grupės metinių konsoliduotųjų finansinių ataskaitų rinkinį (toliau – metinės konsoliduotosios finansinės ataskaitos). Jeigu sudaryti ir tvirtinti metines finansines ataskaitas arba metines konsoliduotąsias finansines ataskaitas įmonei nėra privaloma, įmonės finansiniai duomenys nustatomi vadovaujantis kitais finansiniais dokumentais, kuriuose sukauptos informacijos pakanka šio straipsnio 1, 2 ir 3 dalyse nurodytiems finansiniams duomenims nustatyti (toliau – kiti finansiniai dokumentai).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-12. Savarankiškos įmonės darbuotojų skaičiumi laikomas tik šios įmonės darbuotojų skaičius, o įmonės finansiniai duomenys nustatomi vadovaujantis tik šios įmonės metinėmis finansinėmis ataskaitomis ar kitais finansiniais dokumentais.
+10. Įmonės atitiktis šio straipsnio 1, 2 ar 3 dalyse nurodytoms sąlygoms fiksuojama nuo metinių finansinių ataskaitų, metinių konsoliduotųjų finansinių ataskaitų ar kitų finansinių dokumentų patvirtinimo dienos, išskyrus atvejus, kai įmonė turi patvirtinusi trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus arba kai nustatomas naujos įsteigtos įmonės, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nepatvirtinti, statusas. Įmonė, turinti patvirtintas trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus, ir nauja įsteigta įmonė, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nepatvirtinti, priskiriama vidutinei, mažai ar labai mažai įmonei šio straipsnio 9 dalyje nustatyta tvarka nustačius, kad ji atitinka šio straipsnio 1, 2 ir 3 dalyse nustatytas sąlygas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-13. Įmonės, laikotarpiu, pagal kurį nustatomi įmonės finansiniai duomenys, kaip nurodyta šio straipsnio 7 dalyje, turinčios partnerinių įmonių ir (ar) susijusių įmonių, šio straipsnio 1, 2 ir 3 dalyse nurodyti duomenys (darbuotojų skaičius ir įmonės finansiniai duomenys) apskaičiuojami pagal formulę DAg = DA + ∑kn DPn + ∑DSn, čia:
+11. Įmonės, turinčios patvirtintas trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus, ir naujos įsteigtos įmonės, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nėra patvirtinti, šio straipsnio 1, 2 ir 3 dalyse nustatytų sąlygų atitiktis nustatoma pagal vidutinį metinį darbuotojų skaičių, finansinius duomenis (pasirinktinai – balanse nurodyto turto vertę arba metines pajamas) nuo įmonės įregistravimo Juridinių asmenų registre ir planuojamus finansinių metų duomenis. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
+
+
+
+
+12. Deklaruodamos savo statusą, įmonės privalo nurodyti ir šio straipsnio 1, 2 ir 3 dalyse nustatytus duomenis. Už deklaracijoje pateikiamų duomenų teisingumą ir tikrumą atsako deklaraciją pasirašęs asmuo. Deklaracijos formą ir deklaravimo tvarkos aprašą tvirtina Vyriausybė ar jos įgaliota institucija. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
+
+
+
+
+13. Įmonė nepriskiriama vidutinei, mažai ar labai mažai įmonei, jeigu 25 procentus ir daugiau įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba 25 procentus ir daugiau įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) atskirai arba kartu turi valstybė ir (ar) savivaldybė, išskyrus atvejus, kai ne mažiau kaip 25 procentus ir ne daugiau kaip 50 procentų įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba ne mažiau kaip 25 procentus ir ne daugiau kaip 50 procentų visų įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turi šio straipsnio 17 dalies 1–4 punktuose nurodyti investuotojai. 
+Straipsnio dalies numeracijos pakeitimai:
+Straipsnio dalies pakeitimai:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
+
+
+
+
+14. Savarankiškos įmonės darbuotojų skaičiumi laikomas tik šios įmonės darbuotojų skaičius, o įmonės finansiniai duomenys nustatomi vadovaujantis tik šios įmonės metinėmis finansinėmis ataskaitomis ar kitais finansiniais dokumentais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
+
+
+
+
+15. Įmonės, laikotarpiu, pagal kurį nustatomi įmonės finansiniai duomenys, kaip nurodyta šio straipsnio 9 dalyje, turinčios partnerinių įmonių ir (ar) susijusių įmonių, šio straipsnio 1, 2 ir 3 dalyse nurodyti duomenys (darbuotojų skaičius ir įmonės finansiniai duomenys) apskaičiuojami pagal formulę DAg = DA + ∑kn DPn + ∑DSn, čia: 
+Straipsnio dalies numeracijos pakeitimai:
+Straipsnio dalies pakeitimai:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
 
 
 1) DAg – šio straipsnio 1, 2 ir 3 dalyse nurodyti duomenys, skaičiuojami statusą deklaruojančiai įmonei;
@@ -420,12 +504,18 @@ SMULKIOJO IR VIDUTINIO VERSLO SUBJEKTŲ SAMPRATA
 
 
 
-14. Partnerinės įmonės duomenys (DPn) nustatomi pagal šioje įmonėje dirbančių darbuotojų skaičių, o finansiniai duomenys – vadovaujantis šios įmonės paskutinių finansinių metų patvirtintomis metinėmis finansinėmis arba konsoliduotosiomis finansinėmis ataskaitomis ar kitais finansiniais dokumentais. Prie šių duomenų pridedamas su šia partnerine įmone susijusių įmonių darbuotojų skaičius ir finansiniai duomenys, jeigu šie duomenys nebuvo įtraukti į metines konsoliduotąsias finansines ataskaitas. Taip pat prie šių duomenų pridedamas partnerinės įmonės kitų partnerinių įmonių darbuotojų skaičius ir finansiniai duomenys proporcingai pirmosios partnerinės įmonės turimų jos partnerinės įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba dalyvių balsų skaičiui, jeigu partnerinės įmonės kitos partnerinės įmonės su statusą deklaruojančia įmone (DA) yra susijusios tiekimo ir vartojimo ryšiais (yra viena kitos produkcijos vartotojos (tiekėjos).
+16. Partnerinės įmonės duomenys (DPn) nustatomi pagal šioje įmonėje dirbančių darbuotojų skaičių, o finansiniai duomenys – vadovaujantis šios įmonės paskutinių finansinių metų patvirtintomis metinėmis finansinėmis arba konsoliduotosiomis finansinėmis ataskaitomis ar kitais finansiniais dokumentais. Prie šių duomenų pridedamas su šia partnerine įmone susijusių įmonių darbuotojų skaičius ir finansiniai duomenys, jeigu šie duomenys nebuvo įtraukti į metines konsoliduotąsias finansines ataskaitas. Taip pat prie šių duomenų pridedamas partnerinės įmonės kitų partnerinių įmonių darbuotojų skaičius ir finansiniai duomenys proporcingai pirmosios partnerinės įmonės turimų jos partnerinės įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba dalyvių balsų skaičiui, jeigu partnerinės įmonės kitos partnerinės įmonės su statusą deklaruojančia įmone (DA) yra susijusios tiekimo ir vartojimo ryšiais (yra viena kitos produkcijos vartotojos (tiekėjos).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-15. Nustatant partnerinės įmonės duomenis (DPn), šio straipsnio 13 dalyje nurodytas koeficientas kn laikomas lygiu nuliui, jeigu 25 procentus ir daugiau įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba 25 procentus ir daugiau visų įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turi šie investuotojai, jeigu jie tarpusavyje nėra susiję:
+17. Nustatant partnerinės įmonės duomenis (DPn), šio straipsnio 15 dalyje nurodytas koeficientas kn laikomas lygiu nuliui, jeigu 25 procentus ir daugiau įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba 25 procentus ir daugiau visų įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turi šie investuotojai, jeigu jie tarpusavyje nėra susiję: 
+Straipsnio dalies numeracijos pakeitimai: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
 
 
 1) neformalieji investuotojai, jeigu šių investuotojų bendra investicijų į tą pačią įmonę suma ne didesnė kaip 1,25 mln. eurų;
@@ -450,7 +540,7 @@ SMULKIOJO IR VIDUTINIO VERSLO SUBJEKTŲ SAMPRATA
 
 
 
-16. Įmonės, kurios atitinka bent vieną toliau nurodytų kriterijų, yra laikomos susijusiomis:
+18. Įmonės, kurios atitinka bent vieną toliau nurodytų kriterijų, yra laikomos susijusiomis:
 
 
 1) įmonės, kurias sieja kuris nors iš šių ryšių:
@@ -483,24 +573,39 @@ d) įmonė, turinti dalyvių balsų kitoje įmonėje, kuri dėl su tos kitos įm
 
 
 
-3) kai tarp įmonių yra susiformavę bent vienas iš šios dalies 1 punkte nurodytų įmonių ryšių per vieną ar kelias įmones arba per šio straipsnio 15 dalies 1–4 punktuose nurodytus investuotojus.
+3) kai tarp įmonių yra susiformavę bent vienas iš šios dalies 1 punkte nurodytų įmonių ryšių per vieną ar kelias įmones arba per šio straipsnio 17 dalies 1–4 punktuose nurodytus investuotojus.
+3 straipsnio 18 dalies 3 punkto pakeitimai:
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-
-
-17. Susijusios įmonės duomenys (DSn) nustatomi pagal šioje įmonėje dirbančių darbuotojų skaičių, o finansiniai duomenys – vadovaujantis šios įmonės paskutinių finansinių metų patvirtintomis metinėmis finansinėmis arba konsoliduotosiomis finansinėmis ataskaitomis ar kitais finansiniais dokumentais. Prie šių duomenų pridedami susijusios įmonės visų susijusių įmonių darbuotojų skaičius ir finansiniai duomenys, jeigu jie nebuvo įtraukti į metines konsoliduotąsias finansines ataskaitas. Taip pat prie šių duomenų proporcingai pridedamas visų šios susijusios įmonės partnerinių įmonių darbuotojų skaičius ir finansiniai duomenys pagal šio straipsnio 13 dalyje apibrėžiant koeficientą kn nustatytas proporcijas. 
-
-
-
-
-18. Jeigu įmonė ir vienas iš šio straipsnio 15 dalyje išvardytų investuotojų yra laikomi susijusiomis įmonėmis, nes vienai įmonei suteikta teisė daryti lemiamą poveikį kitai įmonei dėl sutarčių, sudarytų su šia įmone, arba dėl šios įmonės steigimo dokumentų nuostatų, tačiau šie investuotojai patys tiesiogiai ar netiesiogiai statusą deklaruojančios įmonės, į kurią investavo, valdyme nedalyvauja (nėra priežiūros, administravimo ar valdymo organo nariai arba neturi teisės rinkti ar atšaukti daugumą priežiūros, administravimo ar valdymo organo narių), nustatant susijusios įmonės duomenis (DSn), šio straipsnio 13 dalyje nurodytas dydis DSn laikomas lygiu nuliui.
+19. Susijusios įmonės duomenys (DSn) nustatomi pagal šioje įmonėje dirbančių darbuotojų skaičių, o finansiniai duomenys – vadovaujantis šios įmonės paskutinių finansinių metų patvirtintomis metinėmis finansinėmis arba konsoliduotosiomis finansinėmis ataskaitomis ar kitais finansiniais dokumentais. Prie šių duomenų pridedami susijusios įmonės visų susijusių įmonių darbuotojų skaičius ir finansiniai duomenys, jeigu jie nebuvo įtraukti į metines konsoliduotąsias finansines ataskaitas. Taip pat prie šių duomenų proporcingai pridedamas visų šios susijusios įmonės partnerinių įmonių darbuotojų skaičius ir finansiniai duomenys pagal šio straipsnio 15 dalyje apibrėžiant koeficientą kn nustatytas proporcijas. 
+Straipsnio dalies numeracijos pakeitimai:
+Straipsnio dalies pakeitimai:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
 
-19. Susijusių įmonių ir partnerinių įmonių ryšiai nustatomi pagal deklaravimo dieną galiojančius įmonių tarpusavio ryšius.
+20. Jeigu įmonė ir vienas iš šio straipsnio 17 dalyje išvardytų investuotojų yra laikomi susijusiomis įmonėmis, nes vienai įmonei suteikta teisė daryti lemiamą poveikį kitai įmonei dėl sutarčių, sudarytų su šia įmone, arba dėl šios įmonės steigimo dokumentų nuostatų, tačiau šie investuotojai patys tiesiogiai ar netiesiogiai statusą deklaruojančios įmonės, į kurią investavo, valdyme nedalyvauja (nėra priežiūros, administravimo ar valdymo organo nariai arba neturi teisės rinkti ar atšaukti daugumą priežiūros, administravimo ar valdymo organo narių), nustatant susijusios įmonės duomenis (DSn), šio straipsnio 15 dalyje nurodytas dydis DSn laikomas lygiu nuliui.
+Straipsnio dalies numeracijos pakeitimai:
+Straipsnio dalies pakeitimai:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
+
+
+
+
+21. Susijusių įmonių ir partnerinių įmonių ryšiai nustatomi pagal deklaravimo dieną galiojančius įmonių tarpusavio ryšius.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
  
 
 
@@ -551,7 +656,10 @@ d) įmonė, turinti dalyvių balsų kitoje įmonėje, kuri dėl su tos kitos įm
 
 
 
-4. Šio straipsnio 3 dalies 2 ir 3 punktuose nurodyti finansiniai duomenys apskaičiuojami šio įstatymo 3 straipsnio 13–18 dalyse nustatyta tvarka, o šio straipsnio 3 dalies 1 punkte nurodytas darbuotojų skaičius apskaičiuojamas šio įstatymo 3 straipsnio 5 dalyje nustatyta tvarka.
+4. Šio straipsnio 3 dalies 2 ir 3 punktuose nurodyti finansiniai duomenys apskaičiuojami šio įstatymo 3 straipsnio 15–20 dalyse nustatyta tvarka, o šio straipsnio 3 dalies 1 punkte nurodytas darbuotojų skaičius apskaičiuojamas šio įstatymo 3 straipsnio 7 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+ 
 
 
 
@@ -935,3 +1043,8 @@ Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-9
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-739, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25852
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 8 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2375, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25329
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2, 3 ir 4 straipsnių pakeitimo įstatymas
