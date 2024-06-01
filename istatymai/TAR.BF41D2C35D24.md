@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-05-31
+Suvestinė redakcija nuo 2024-06-01 iki 2024-12-12
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -504,6 +504,13 @@ KELIŲ TIESIMAS IR PRIEŽIŪRA
 
 
 3. Reikalavimus asmenims, turintiems teisę projektuoti, tiesti, statyti, rekonstruoti, taisyti (remontuoti), prižiūrėti valstybinės reikšmės kelius, nustato Susisiekimo ministerija ar jos įgaliota institucija.
+
+
+
+
+4. Keliai projektuojami, tiesiami, statomi, rekonstruojami, taisomi (remontuojami) ir prižiūrimi  Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka taikant statinio informacinio modeliavimo metodus sudėtingiems konstrukciniams kelių elementams: viadukams, estakadoms, tiltams, dviejų lygių sankryžoms, sankirtoms ir pan. Automobilių kelių objektams, kurie erdvinių duomenų rinkinyje išreiškiami linijiniu grafiniu elementu ir kurie savyje neturi konstrukcinių elementų (nėra sudėtingų mazgų ar kitų susikirtimų), taikomi Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nustatyti minimalūs statinio informacinio modeliavimo metodų taikymo reikalavimai.
+Papildyta straipsnio dalimi:
+Nr. XIV-2663, 2024-05-16, paskelbta TAR 2024-05-29, i. k. 2024-09622
  
 
 
@@ -1367,3 +1374,8 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 11 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2313, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24181
 Lietuvos Respublikos kelių įstatymo Nr. I-891 17 straipsnio pakeitimo įstatymo Nr. XIII-3421 2 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2663, 2024-05-16, paskelbta TAR 2024-05-29, i. k. 2024-09622
+Lietuvos Respublikos kelių įstatymo Nr. I-891 8 straipsnio pakeitimo įstatymas
