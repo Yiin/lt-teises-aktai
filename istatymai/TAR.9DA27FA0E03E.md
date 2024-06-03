@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9da27fa0e03e11ed9978886e85107ab2"
 
 # Lietuvos Respublikos ribojamųjų priemonių dėl karinės agresijos prieš Ukrainą nustatymo įstatymas
 
-Suvestinė redakcija nuo 2024-05-03 iki 2024-06-02
+Suvestinė redakcija nuo 2024-06-03 iki 2025-05-02
  
 Įstatymas paskelbtas: TAR 2023-04-21, i. k. 2023-07804
  
@@ -198,6 +198,14 @@ Nr. XIV-2581, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08222
 
 
 7. Sustabdoma Rusijos Federacijos ir Baltarusijos Respublikos piliečių teisė į Lietuvos Respublikos teritoriją įvežti ar iš jos išvežti grynuosius pinigus – Ukrainos grivinas.
+
+
+
+
+8. Uždraudžiama į Lietuvos Respubliką importuoti žemės ūkio produktus ir pašarus, kurių kilmės šalis yra Rusijos Federacija ar Baltarusijos Respublika. Draudžiamų į Lietuvos Respubliką importuoti žemės ūkio produktų ir pašarų sąrašus tvirtina Lietuvos Respublikos Vyriausybė.
+Papildyta straipsnio dalimi:
+Nr. XIV-2581, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08222
+ 
 
 
 
