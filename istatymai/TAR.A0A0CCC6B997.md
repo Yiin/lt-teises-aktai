@@ -20,7 +20,7 @@ PATVIRTINTAS
 
 
 
-Suvestinė redakcija nuo 2024-05-14 iki 2024-06-03
+Suvestinė redakcija nuo 2024-06-04 iki 2024-07-17
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -2841,6 +2841,10 @@ LAIKINAS LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ IŠVYKIMAS IŠ BAU
 
 
 1. Terminuoto laisvės atėmimo bausmes atliekantiems nuteistiesiems gali būti leidžiama su palyda arba be jos išvykti iš bausmės atlikimo vietos Lietuvos Respublikos teritorijoje ne ilgiau kaip dešimt parų dėl artimojo mirties ar sunkios ligonio gyvybei gresiančios ligos, kuri patvirtinta gydytojų išvada, taip pat dėl gaivalinės nelaimės, padariusios didelę materialinę žalą nuteistajam ar jo artimiesiems, jeigu apie tai laisvės atėmimo vietų įstaigoje gauti kompetentingos institucijos dokumentai.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos bausmių vykdymo kodekso (2022 m. birželio 28 d. redakcija, TAR, 2022-07-14, Nr. 15495) 67 straipsnio 1 dalis tiek, kiek pagal ją nuteistiesiems, atliekantiems laisvės atėmimo iki gyvos galvos bausmę, nėra suteikiama teisė į trumpalaikes išvykas iš bausmės atlikimo vietos, prieštarauja Lietuvos Respublikos Konstitucijos 21 straipsnio 2, 3 dalims, 22 straipsnio 4 daliai, 29 straipsniui, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT47-N7/2024, 2024-06-04, paskelbta TAR 2024-06-04, i. k. 2024-10188
+ 
 
 
 
@@ -4425,3 +4429,8 @@ Lietuvos Respublikos bausmių vykdymo kodekso 96 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2590, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08758
 Lietuvos Respublikos bausmių vykdymo kodekso 15, 20, 21, 31, 37, 64, 68, 83, 90 ir 94 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT47-N7/2024, 2024-06-04, paskelbta TAR 2024-06-04, i. k. 2024-10188
+Dėl Lietuvos Respublikos bausmių vykdymo kodekso (2022 m. birželio 28 d. redakcija) 67 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
