@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2024-05-04 iki 2024-06-13
+Suvestinė redakcija nuo 2024-06-14 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -4609,10 +4609,11 @@ Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
 
 
 
-4. Atitinkamais metais į mokslo ir studijų institucijas priimamiems trumposios pakopos, pirmosios pakopos ir vientisųjų studijų studentams skiriamo valstybės finansavimo ir preliminaraus valstybės finansuojamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų vietų ir studijų stipendijų skaičiaus paskirstymą pagal studijų kryptis ir (arba) jų grupes (menų studijų – ir pagal studijų programas arba specializacijas, vidaus sistemos pareigūnų ir sveikatos priežiūros specialistų rengimo studijų – pagal studijų programas, pedagogų rengimo studijų – pagal studijų programas arba specializacijas ir (arba) studijų programų arba specializacijų grupes) iki kiekvienų metų balandžio 15 dienos nustato švietimo, mokslo ir sporto ministras, atsižvelgdamas į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius, valstybės finansines galimybes ir įvertinęs absolventų įsidarbinimo rodiklius. Atsižvelgdamas į priimtų į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas vietas asmenų skaičių per pastaruosius trejus metus ir studijų krypčių vertinimo rezultatus, švietimo, mokslo ir sporto ministras iki kiekvienų metų balandžio 15 dienos nustato atitinkamais metais antrajai konkursinei eilei formuoti skiriamų pirmosios pakopos ir vientisųjų studijų valstybės finansuojamų vietų ir studijų stipendijų skaičiaus paskirstymą pagal aukštąsias mokyklas, studijų kryptis ir (arba) jų grupes (menų studijų – ir pagal studijų programas arba specializacijas, pedagogų rengimo studijų – pagal studijų programas, specializacijas arba jų grupes).
+4. Atitinkamais metais į mokslo ir studijų institucijas priimamiems trumposios pakopos, pirmosios pakopos ir vientisųjų studijų studentams skiriamo valstybės finansavimo ir preliminaraus valstybės finansuojamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų vietų ir studijų stipendijų skaičiaus paskirstymą pagal studijų kryptis ir (arba) jų grupes (menų studijų – ir pagal studijų programas arba specializacijas, vidaus sistemos pareigūnų ir sveikatos priežiūros specialistų rengimo studijų – pagal studijų programas, pedagogų rengimo studijų – pagal studijų programas arba specializacijas ir (arba) studijų programų arba specializacijų grupes) iki kiekvienų metų balandžio 15 dienos nustato švietimo, mokslo ir sporto ministras, atsižvelgdamas į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius, valstybės finansines galimybes ir įvertinęs absolventų įsidarbinimo rodiklius. Atsižvelgdamas į priimtų į trumposios pakopos, pirmosios pakopos ir vientisųjų studijų valstybės finansuojamas vietas asmenų skaičių per pastaruosius trejus metus ir studijų krypčių vertinimo rezultatus, švietimo, mokslo ir sporto ministras iki kiekvienų metų balandžio 15 dienos nustato atitinkamais metais antrajai konkursinei eilei formuoti skiriamų pirmosios pakopos ir vientisųjų studijų valstybės finansuojamų vietų ir studijų stipendijų skaičiaus paskirstymą pagal studijų kryptis ir (arba) jų grupes (menų studijų – ir pagal studijų programas arba specializacijas, pedagogų rengimo studijų – pagal studijų programas, specializacijas arba jų grupes).
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
+Nr. XIV-2692, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10825
  
 
 
@@ -6027,3 +6028,8 @@ Lietuvos Respublikos dėl Lietuvos Respublikos mokslo ir studijų įstatymo Nr. 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 5, 15, 17, 22, 42, 43, 44, 51, 53, 72-1, 75-3, 76-2, 80, 81, 82-1, 90 straipsnių pakeitimo ir Įstatymo papildymo 24-2 straipsniu įstatymas
+ 
+67.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2692, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10825
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 77 straipsnio pakeitimo įstatymas
