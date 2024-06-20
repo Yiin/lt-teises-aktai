@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-19
+Suvestinė redakcija nuo 2024-06-20 iki 2024-10-09
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -87,7 +87,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Mišri savivaldybės tarybos narių grupė – savivaldybės tarybos nariai, nesusivieniję į savivaldybės tarybos narių frakciją ar savivaldybės tarybos narių grupę. 
+4. Mišri savivaldybės tarybos narių grupė – ne mažiau kaip 2 savivaldybės tarybos nariai, nesusivieniję į savivaldybės tarybos narių frakciją ar savivaldybės tarybos narių grupę. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -112,7 +115,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-9. Savivaldybės centralizuota vidaus audito tarnyba – savivaldybės administracijos direktoriui pavaldus, savivaldybės merui atskaitingas savivaldybės administracijos struktūrinis padalinys, įsteigtas savivaldybės administracijos, savivaldybės administravimo subjektų ar kitų savivaldybės viešųjų juridinių asmenų vidaus auditui atlikti.
+9. Savivaldybės centralizuoto vidaus audito tarnyba – savivaldybės administracijos direktoriui pavaldus, savivaldybės merui atskaitingas savivaldybės administracijos struktūrinis padalinys, įsteigtas savivaldybės administracijos, savivaldybės administravimo subjektų ar kitų savivaldybės viešųjų juridinių asmenų, išskyrus savivaldybės kontrolės ir audito tarnybą, vidaus auditui atlikti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -598,8 +604,6 @@ Valstybinės (valstybės perduotos savivaldybėms) funkcijos yra:
 
 
 
-6) priešmokyklinio ugdymo, bendrojo ugdymo, profesinio mokymo ir profesinio orientavimo organizavimas, savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi pagal privalomojo švietimo programas užtikrinimas, mokyklų (klasių), vykdančių bendrojo ugdymo programas ir skirtų mokiniams, turintiems išskirtinių gabumų ar specialiųjų poreikių, išlaikymas;
-6 punkto redakcija nuo 2024-01-02:
 6) priešmokyklinio ugdymo, bendrojo ugdymo, profesinio mokymo ir profesinio orientavimo organizavimas, savivaldybės teritorijoje gyvenančių vaikų iki 16 metų mokymosi pagal privalomojo švietimo programas užtikrinimas, mokyklų (klasių), vykdančių bendrojo ugdymo programas ir skirtų šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, kadetų ugdymo mokyklų, skirtų šalies (regiono) mokiniams, išlaikymas;
 Straipsnio punkto pakeitimai:
 Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
@@ -866,7 +870,10 @@ Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 
 
 
-2) savivaldybės tarybos reglamento (toliau – reglamentas) nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš mero, vicemero, savivaldybės administracijos ar kitų savivaldybės įstaigų, savivaldybės valdomų įmonių gauti visą tarybos nario veiklai reikalingą su savivaldybės taryboje nagrinėjamais ar rengiamais nagrinėti klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kitais klausimais, savivaldybės tarybos posėdžio metu užduoti klausimų pranešėjams, kalbėti dėl posėdžio vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus;
+2) savivaldybės tarybos reglamento (toliau – reglamentas) nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kitais klausimais, savivaldybės tarybos posėdžio metu užduoti klausimų pranešėjams, kalbėti dėl posėdžio vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -886,7 +893,18 @@ Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 
 
 
-6) savo įgaliojimų laikotarpiu turėti visuomeninių padėjėjų, kurie tarybos nario prašymu teikia jam konsultacijas, pasiūlymus, išvadas ir kitą informaciją. Savivaldybės tarybos nario visuomeniniu padėjėju gali būti pilnametis asmuo, kuris nėra tos savivaldybės administracijos valstybės tarnautojas ar darbuotojas, dirbantis pagal darbo sutartį. Savivaldybės tarybos nario visuomeniniu padėjėju negali būti asmuo, įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turintis neišnykusį ar nepanaikintą teistumą, taip pat įstatymų nustatyta tvarka uždraustos organizacijos narys. Savivaldybės tarybos nario visuomeninių padėjėjų skaičius negali viršyti savivaldybėje įsteigtų seniūnijų skaičiaus, o kai seniūnijos neįsteigtos, – negali viršyti trijų. Siekiant užtikrinti viešumą ir skaidrumą, informacija apie asmenį, savivaldybės tarybos nario paskirtą jo visuomeniniu padėjėju (asmens vardas, pavardė, paskyrimo data), nedelsiant paskelbiama savivaldybės interneto svetainėje ir joje skelbiama tol, kol asmuo eina savivaldybės tarybos nario visuomeninio padėjėjo pareigas.
+6) gauti iš mero, vicemero, savivaldybės administracijos direktoriaus, savivaldybės administracijos ar kitų savivaldybės įstaigų, savivaldybės valdomų įmonių informaciją, įskaitant dokumentus ir kitą medžiagą, kuri būtina tarybos nario funkcijoms atlikti. Ši informacija pateikiama susipažinti tarybos nariui laikantis įstatymų nustatytos tvarkos, taikomos susipažinimui su valstybės, tarnybos, komercinę paslaptį sudarančia, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusia informacija. Ši informacija tarybos nariui gali būti suteikiama duodant prieigą prie savivaldybės elektroninės dokumentų valdymo sistemos; 
+Papildyta straipsnio punktu:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
+
+
+
+
+7) savo įgaliojimų laikotarpiu turėti visuomeninių padėjėjų, kurie tarybos nario prašymu teikia jam konsultacijas, pasiūlymus, išvadas ir kitą informaciją. Savivaldybės tarybos nario visuomeniniu padėjėju gali būti pilnametis asmuo, kuris nėra tos savivaldybės administracijos valstybės tarnautojas ar darbuotojas, dirbantis pagal darbo sutartį. Savivaldybės tarybos nario visuomeniniu padėjėju negali būti asmuo, įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turintis neišnykusį ar nepanaikintą teistumą, taip pat įstatymų nustatyta tvarka uždraustos organizacijos narys. Savivaldybės tarybos nario visuomeninių padėjėjų skaičius negali viršyti savivaldybėje įsteigtų seniūnijų skaičiaus, o kai seniūnijos neįsteigtos, – negali viršyti trijų. Siekiant užtikrinti viešumą ir skaidrumą, informacija apie asmenį, savivaldybės tarybos nario paskirtą jo visuomeniniu padėjėju (asmens vardas, pavardė, paskyrimo data), nedelsiant paskelbiama savivaldybės interneto svetainėje ir joje skelbiama tol, kol asmuo eina savivaldybės tarybos nario visuomeninio padėjėjo pareigas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1003,12 +1021,18 @@ Savivaldybės tarybos narys privalo:
 
 
 
-2. Savivaldybės tarybos nario atlyginimas mažinamas reglamente nustatyta tvarka proporcingai savivaldybės tarybos nario praleistų to mėnesio savivaldybės tarybos, komitetų, nuolatinių komisijų ir savivaldybės kolegijos, kurių narys savivaldybės tarybos narys yra, posėdžių skaičiui.
+2. Savivaldybės tarybos nario atlyginimas mažinamas reglamente nustatyta tvarka proporcingai savivaldybės tarybos nario praleistų to mėnesio savivaldybės tarybos, komitetų, nuolatinių komisijų ir savivaldybės kolegijos, kurių narys savivaldybės tarybos narys yra, posėdžių skaičiui, išskyrus savivaldybės tarybos, komitetų, nuolatinių komisijų ir savivaldybės kolegijos posėdžius, kuriuos savivaldybės tarybos narys praleidžia dėl vykimo į komandiruotę atliekant savivaldybės tarybos nario pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
 
-3. Informacija apie savivaldybių tarybų narių atlyginimus skelbiama savivaldybių interneto svetainėse.
+3. Informacija apie savivaldybių tarybų narių savivaldybės tarybos, komitetų, nuolatinių komisijų ir savivaldybės kolegijos posėdžių lankomumą ir atlyginimus skelbiama savivaldybių interneto svetainėse kiekvieną kalendorinį mėnesį – už praeitą mėnesį iki kito mėnesio 15 dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1148,7 +1172,18 @@ SAVIVALDYBĖS TARYBA
 
 
 
-3) savivaldybės kolegijos sudarymas;
+21) savivaldybės tarybos narių siuntimo į komandiruotes tvarkos aprašo tvirtinimas. Šiame tvarkos apraše turi būti numatyta, kas turi įgaliojimus priimti sprendimus dėl savivaldybės tarybos narių komandiruočių, ataskaitų už tarnybines komandiruotes teikimo tvarka, kiti komandiruočių klausimai; 
+Papildyta straipsnio punktu:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
+
+
+
+
+3) Neteko galios nuo 2024-06-20
+Straipsnio punkto naikinimas:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1168,7 +1203,10 @@ SAVIVALDYBĖS TARYBA
 
 
 
-7) sprendimų dėl savivaldybės kontrolieriaus priėmimo į pareigas ir atleidimo iš jų priėmimas, savivaldybės kontrolės ir audito tarnybos steigimas, didžiausio valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičiaus šioje tarnyboje nustatymas, savivaldybės kontrolės ir audito tarnybos metinių ataskaitų rinkinio svarstymas ir sprendimo dėl jo priėmimas, įstatymų numatyto savivaldybės kontrolieriaus darbo užmokesčio nustatymas, savivaldybės kontrolės ir audito tarnybos nuostatų tvirtinimas; 
+7) sprendimų dėl savivaldybės kontrolieriaus priėmimo į pareigas, skatinimo ir apdovanojimo, priemokų, tarnybinių nuobaudų skyrimo, nušalinimo ir atleidimo iš pareigų priėmimas, savivaldybės kontrolės ir audito tarnybos steigimas, savivaldybės kontrolės ir audito tarnybos metinių ataskaitų rinkinio svarstymas ir sprendimo dėl jo priėmimas, įstatymų numatyto savivaldybės kontrolieriaus darbo užmokesčio nustatymas, savivaldybės kontrolės ir audito tarnybos nuostatų tvirtinimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1186,7 +1224,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-10) sprendimų dėl mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių skaičiaus nustatymo;
+10) sprendimų dėl mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigybių skaičiaus nustatymo priėmimas mero teikimu; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1234,7 +1275,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-19) sprendimų dėl disponavimo savivaldybei nuosavybės teise priklausančiu turtu priėmimas, šio turto valdymo, naudojimo ir disponavimo juo tvarkos taisyklių nustatymas, išskyrus atvejus, kai tvarka yra nustatyta įstatymuose ar jų pagrindu priimtuose kituose teisės aktuose;
+19) savivaldybei nuosavybės teise priklausančio turto savininko funkcijų įgyvendinimas įstatymų nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1334,7 +1378,15 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 
 
 
-37) siūlymų nustatyta tvarka tvirtinti savivaldybės gyvenamųjų vietovių herbus teikimas, kitų savivaldybės simbolių ir jų naudojimo tvarkos aprašo tvirtinimas, teisė nustatyta tvarka už nuopelnus suteikti savivaldybės (jos centro ar kitos gyvenamosios vietovės) garbės piliečio vardą.
+37) siūlymų nustatyta tvarka tvirtinti savivaldybės gyvenamųjų vietovių herbus teikimas, kitų savivaldybės simbolių ir jų naudojimo tvarkos aprašo tvirtinimas, teisė nustatyta tvarka už nuopelnus suteikti savivaldybės (jos centro ar kitos gyvenamosios vietovės) garbės piliečio vardą;
+
+
+
+
+38) gyvenamųjų vietovių ar jų dalių suskirstymo (sugrupavimo) į seniūnaitijas tvirtinimas.
+Papildyta straipsnio punktu:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1524,7 +1576,10 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 
 
 
-15. Savivaldybės tarybos sprendimai priimami posėdyje dalyvaujančių tarybos narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai (laikoma, kad balsai pasiskirstė po lygiai tada, kai balsų už gauta tiek pat, kiek prieš ir susilaikiusių kartu sudėjus), balsuojama dar kartą. Jeigu balsavus dar kartą balsai pasiskirsto po lygiai, balsavimas tęsiamas reglamento nustatyta tvarka. Dėl savivaldybės tarybos posėdžiuose svarstomų klausimų balsuojama atvirai, išskyrus atvejus, kai sprendžiamas savivaldybės tarybos nario, mero įgaliojimų netekimo nesuėjus terminui ar nepasitikėjimo vicemeru, savivaldybės administracijos direktoriumi klausimas. Slaptas balsavimas reglamento nustatyta tvarka galimas ir tais atvejais, kai skiriami Kontrolės komiteto pirmininkas, Kontrolės komiteto pirmininko pavaduotojas, Etikos komisijos pirmininkas, Antikorupcijos komisijos pirmininkas, sprendžiamas nepasitikėjimo Kontrolės komiteto pirmininku, Kontrolės komiteto pirmininko pavaduotoju, Etikos komisijos pirmininku, Antikorupcijos komisijos pirmininku klausimas. Duomenys apie kiekvieno tarybos nario balsavimą, išskyrus atvejus, kai balsuojama slaptai, yra vieši. Kiekvieno tarybos nario balsavimo rezultatai turi būti saugomi informacinėse laikmenose ir skelbiami savivaldybės interneto svetainėje.
+15. Savivaldybės tarybos sprendimai priimami posėdyje dalyvaujančių tarybos narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai (laikoma, kad balsai pasiskirstė po lygiai tada, kai balsų už gauta tiek pat, kiek prieš, taip pat kai balsų už gauta tiek pat, kiek prieš ir susilaikiusių kartu sudėjus), balsuojama dar kartą. Jeigu balsavus dar kartą balsai pasiskirsto po lygiai, balsavimas tęsiamas reglamento nustatyta tvarka. Dėl savivaldybės tarybos posėdžiuose svarstomų klausimų balsuojama atvirai, išskyrus atvejus, kai sprendžiamas savivaldybės tarybos nario, mero įgaliojimų netekimo nesuėjus terminui ar nepasitikėjimo vicemeru, savivaldybės administracijos direktoriumi klausimas. Slaptas balsavimas reglamento nustatyta tvarka galimas ir tais atvejais, kai skiriami Kontrolės komiteto pirmininkas, Kontrolės komiteto pirmininko pavaduotojas, Etikos komisijos pirmininkas, Antikorupcijos komisijos pirmininkas, sprendžiamas nepasitikėjimo Kontrolės komiteto pirmininku, Kontrolės komiteto pirmininko pavaduotoju, Etikos komisijos pirmininku, Antikorupcijos komisijos pirmininku klausimas. Duomenys apie kiekvieno tarybos nario balsavimą, išskyrus atvejus, kai balsuojama slaptai, yra vieši. Kiekvieno tarybos nario balsavimo rezultatai turi būti saugomi informacinėse laikmenose ir skelbiami savivaldybės interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1564,7 +1619,10 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 
 
 
-23. Ne rečiau kaip kartą per pusę metų vieno iš savivaldybės tarybos posėdžių pabaigoje yra organizuojama savivaldybės tarybos mažumos valanda. Jos metu savivaldybės tarybos mažumos atstovai turi teisę užduoti klausimų merui, vicemerui (-ams), administracijos direktoriui, komitetų pirmininkams, komisijų pirmininkams ir gauti į juos atsakymus. Jeigu posėdžio dieną nurodyti asmenys eina pareigas, jie savivaldybės tarybos mažumos valandoje privalo dalyvauti ir atsakyti į jiems užduotus klausimus. Savivaldybės tarybos mažumos valanda trunka ne trumpiau kaip vieną valandą. Pirmiausia teisę užduoti iki dviejų klausimų turi opozicijos lyderis, po to – kiti savivaldybės tarybos mažumos atstovai. Savivaldybės tarybos mažumos atstovams uždavus visus klausimus, jeigu savivaldybės taryba nenusprendžia kitaip, sudaroma galimybė savivaldybės tarybos daugumos atstovams užduoti klausimų.
+23. Ne rečiau kaip kartą per pusę metų vieno iš savivaldybės tarybos posėdžių pabaigoje yra organizuojama savivaldybės tarybos mažumos valanda. Jos metu savivaldybės tarybos mažumos atstovai turi teisę užduoti klausimų merui, vicemerui (-ams), savivaldybės administracijos direktoriui, komitetų pirmininkams, komisijų pirmininkams ir gauti į juos atsakymus. Jeigu posėdžio dieną nurodyti asmenys eina pareigas, jie savivaldybės tarybos mažumos valandoje privalo dalyvauti ir atsakyti į jiems užduotus klausimus. Savivaldybės tarybos mažumos valanda trunka ne trumpiau kaip vieną valandą. Pirmiausia teisę užduoti iki dviejų klausimų turi opozicijos lyderis, po to – kiti savivaldybės tarybos mažumos atstovai. Savivaldybės tarybos mažumos atstovams uždavus visus klausimus, jeigu savivaldybės taryba nenusprendžia kitaip, sudaroma galimybė savivaldybės tarybos daugumos atstovams užduoti klausimų. Tarybos nariams uždavus klausimų, skiriamas laikas tarybos narių pareiškimams. Pareiškimo trukmė negali būti ilgesnė kaip 5 minutės, kalbėtojų skaičius neribojamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1585,7 +1643,10 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 18 straipsnis. Savivaldybės kolegija
 
 
-1. Savivaldybės tarybos įgaliojimų laikui iš mero, vicemerų, savivaldybės administracijos direktoriaus, savivaldybės tarybos komitetų pirmininkų, Etikos komisijos pirmininko, Antikorupcijos komisijos pirmininko ir opozicijos lyderio savivaldybės tarybos sprendimu sudaroma savivaldybės kolegija (toliau – kolegija).
+1. Savivaldybės tarybos įgaliojimų laikui iš mero, vicemerų, savivaldybės administracijos direktoriaus, savivaldybės tarybos komitetų pirmininkų, Etikos komisijos pirmininko, Antikorupcijos komisijos pirmininko ir opozicijos lyderio meras sudaro savivaldybės kolegiją (toliau – kolegija).
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1687,7 +1748,10 @@ SAVIVALDYBĖS TARYBOS KOMITETAI IR KOMISIJOS
 20 straipsnis. Kontrolės komitetas
 
 
-1. Kiekvienos savivaldybės taryba privalo sudaryti Kontrolės komitetą. Kontrolės komitetas sudaromas iš vienodo visų savivaldybės tarybos narių frakcijų, grupių ir į jokią frakciją ar grupę nesusivienijusių deleguotų savivaldybės tarybos narių skaičiaus. Kontrolės komiteto sudėtis turi būti pakeista ne vėliau kaip per 2 mėnesius, pasikeitus savivaldybės tarybos narių frakcijų ar grupių skaičiui. Jeigu visi savivaldybės tarybos nariai sudaro savivaldybės tarybos daugumą, Kontrolės komitetas, sudaromas iš savivaldybės tarybos daugumos atstovų, veikia tol, kol savivaldybės taryboje susidaro savivaldybės tarybos opozicija.
+1. Kiekvienos savivaldybės taryba privalo sudaryti Kontrolės komitetą. Kontrolės komitetas sudaromas iš vienodo visų savivaldybės tarybos narių frakcijų, grupių ir mišrios grupės deleguotų savivaldybės tarybos narių skaičiaus. Kontrolės komiteto sudėtis turi būti pakeista ne vėliau kaip per 2 mėnesius, pasikeitus savivaldybės tarybos narių frakcijų ar grupių skaičiui. Jeigu visi savivaldybės tarybos nariai sudaro savivaldybės tarybos daugumą, Kontrolės komitetas, sudaromas iš savivaldybės tarybos daugumos atstovų, veikia tol, kol savivaldybės taryboje susidaro savivaldybės tarybos opozicija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1705,9 +1769,10 @@ SAVIVALDYBĖS TARYBOS KOMITETAI IR KOMISIJOS
 4. Kontrolės komitetas:
 
 
-1) vertina atrinktus kandidatus į savivaldybės kontrolieriaus pareigas ir savivaldybės tarybai teikia savivaldybės kontrolieriaus kandidatūrą, siūlo savivaldybės tarybai atleisti savivaldybės kontrolierių, kai yra įstatymuose nurodyti atleidimo iš valstybės tarnybos pagrindai; 
+1) siūlo savivaldybės tarybai Valstybės tarnybos įstatymo nustatyta tvarka skelbti konkursą į savivaldybės kontrolieriaus pareigas ar skirti savivaldybės kontrolierių antrai kadencijai be konkurso, skatinti ir apdovanoti, skirti priemoką, skirti tarnybinę nuobaudą, nušalinti nuo pareigų arba atleisti savivaldybės kontrolierių, kai yra įstatymuose nurodyti atleidimo iš valstybės tarnybos pagrindai;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -1764,9 +1829,10 @@ Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 21 straipsnis. Savivaldybės tarybos komitetų posėdžiai
 
 
-1. Savivaldybės tarybos komitetų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komiteto narių. Komitetai pagal savo kompetenciją priima rekomendacinius sprendimus. Meras, savivaldybės administracija, jos struktūriniai padaliniai, savivaldybės biudžetinės ir viešosios įstaigos, kurių dalininkė ar savininkė yra savivaldybė, ir savivaldybės valdomos įmonės su jų veikla susijusius komitetų sprendimus turi apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.
+1. Savivaldybės tarybos komitetų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komiteto narių. Komitetai pagal savo kompetenciją priima rekomendacinius sprendimus. Savivaldybės tarybos komitetų sprendimai priimami posėdyje dalyvaujančių komiteto narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai (laikoma, kad balsai pasiskirstė po lygiai tada, kai balsų už gauta tiek pat, kiek prieš, taip pat kai balsų už gauta tiek pat, kiek prieš ir susilaikiusių kartu sudėjus), lemia komiteto pirmininko balsas. Meras, savivaldybės administracija, jos struktūriniai padaliniai, savivaldybės biudžetinės ir viešosios įstaigos, kurių dalininkė ar savininkė yra savivaldybė, ir savivaldybės valdomos įmonės su jų veikla susijusius komitetų sprendimus turi apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -1823,12 +1889,18 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 22 straipsnis. Savivaldybės tarybos komisijos
 
 
-1. Savivaldybės tarybos sprendimu arba mero siūlymu, išskyrus Etikos komisiją ir Antikorupcijos komisiją, gali būti sudaromos nuolatinės (tos kadencijos laikotarpiui) bei laikinosios (atskiriems klausimams nagrinėti) komisijos.
+1. Savivaldybės taryba savo iniciatyva arba mero siūlymu, išskyrus privalomai sudaromas Etikos komisiją ir Antikorupcijos komisiją, gali sudaryti nuolatines (tos kadencijos laikotarpiui) bei laikinąsias (atskiriems klausimams nagrinėti) komisijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
 
-2. Savivaldybės tarybos komisijų sudarymo tvarka nustatoma reglamente. Komisijų nuostatus tvirtina savivaldybės taryba.
+2. Savivaldybės tarybos komisijų sudarymo tvarka nustatoma reglamente. Komisijų nuostatus tvirtina savivaldybės taryba. Deleguojant savivaldybės tarybos narius į komisijas, sudaromas iš savivaldybės tarybos narių, laikomasi proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1838,7 +1910,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-4. Savivaldybės tarybos sudaromos komisijos pirmininku tarybos sprendimu gali būti skiriamas tik nepriekaištingos reputacijos, kaip ji yra apibrėžta šio įstatymo 11 straipsnyje, tarybos narys. Komisijos pirmininkas, išskyrus Etikos komisijos pirmininką ir Antikorupcijos komisijos pirmininką, komisijos narių siūlymu komisijos sprendimu nesuėjus terminui netenka savo įgaliojimų, jeigu jis neatitinka šio įstatymo 11 straipsnyje nustatytų reikalavimų. Jeigu šiame įstatyme nustatytų komisijų pirmininkų įgaliojimai nutrūksta nesuėjus terminui, per 2 mėnesius nuo jų įgaliojimų nutrūkimo dienos šio įstatymo nustatyta tvarka turi būti paskirti nauji šiame įstatyme nustatytų komisijų pirmininkai.
+4. Savivaldybės tarybos sprendimu sudaromos komisijos, kurios pirmininku skiriamas savivaldybės tarybos narys, pirmininku skiriamas tik nepriekaištingos reputacijos, kaip ji yra apibrėžiama šio įstatymo 11 straipsnyje, savivaldybės tarybos narys. Komisijos, kurios pirmininku skiriamas savivaldybės tarybos narys, pirmininkas, išskyrus Etikos komisijos pirmininką ir Antikorupcijos komisijos pirmininką, komisijos narių siūlymu komisijos sprendimu nesuėjus terminui netenka savo įgaliojimų, jeigu jis neatitinka šio įstatymo 11 straipsnyje nustatytų reikalavimų. Jeigu šiame įstatyme nustatytų komisijų pirmininkų įgaliojimai nutrūksta nesuėjus terminui, per 2 mėnesius nuo jų įgaliojimų nutrūkimo dienos šio įstatymo nustatyta tvarka turi būti paskirti nauji šiame įstatyme nustatytų komisijų pirmininkai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1853,7 +1928,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-7. Savivaldybės tarybos komisijų, išskyrus Etikos komisijos posėdžius, posėdžių metu daromas garso ir vaizdo įrašas. Komisijų posėdžiai, išskyrus Etikos komisijos ir komisijų uždarus posėdžius, transliuojami tiesiogiai ir komisijų posėdžių garso ir vaizdo įrašai Dokumentų ir archyvų įstatymo nustatyta tvarka saugomi informacinėse laikmenose ir skelbiami viešai reglamento nustatyta tvarka savivaldybės interneto svetainėje. Antikorupcijos komisijai šios dalies nuostatos taikomos, jeigu ji nenusprendžia kitaip. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, posėdžių garso ir vaizdo įrašai neviešinami.
+7. Savivaldybės tarybos komisijų posėdžių metu daromas garso ir vaizdo įrašas. Komisijų posėdžiai, išskyrus komisijų uždarus posėdžius, transliuojami tiesiogiai ir komisijų posėdžių garso ir vaizdo įrašai Dokumentų ir archyvų įstatymo nustatyta tvarka saugomi informacinėse laikmenose ir skelbiami viešai reglamento nustatyta tvarka savivaldybės interneto svetainėje. Antikorupcijos komisijai šios dalies nuostatos taikomos, jeigu ji nenusprendžia kitaip. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, posėdžių garso ir vaizdo įrašai neviešinami. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1878,7 +1956,17 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-10. Savivaldybės tarybos sudaromų komisijų nariai, kurie nėra savivaldybės tarybos nariai, komisijų posėdžių metu atleidžiami nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje, išsaugant jiems darbo vietą ir už darbą savivaldybės tarybos sudaromose komisijose jiems apmokant Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+10. Savivaldybės tarybos komisijų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komisijos narių. Savivaldybės tarybos komisijų sprendimai priimami posėdyje dalyvaujančių komisijos narių balsų dauguma. Jeigu balsai pasiskirsto po lygiai (laikoma, kad balsai pasiskirstė po lygiai tada, kai balsų už gauta tiek pat, kiek prieš, taip pat kai balsų už gauta tiek pat, kiek prieš ir susilaikiusių kartu sudėjus), balsuojama dar kartą. Jeigu balsavus dar kartą balsai pasiskirsto po lygiai, balsavimas tęsiamas komisijos nuostatų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
+
+
+
+
+11. Savivaldybės tarybos sudaromų komisijų nariai, kurie nėra savivaldybės tarybos nariai, komisijų posėdžių metu atleidžiami nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje, išsaugant jiems darbo vietą, taip pat už darbą savivaldybės tarybos sudaromose komisijose, kurių sudarymas nustatytas kitais įstatymais, jiems apmokant Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -1889,7 +1977,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 23 straipsnis. Etikos komisija
 
 
-1. Savivaldybės taryba savo įgaliojimų laikui sudaro Etikos komisiją. Ši komisija sudaroma laikantis proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principo. Komisijos sudėtis, išlaikant proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principą, turi būti pakeista ne vėliau kaip per 2 mėnesius nuo savivaldybės tarybos daugumos ir mažumos pasikeitimo. Etikos komisijos pirmininką iš šios komisijų narių – savivaldybės tarybos narių – deleguoja savivaldybės tarybos opozicija raštu, pasirašytu daugiau kaip pusės visų savivaldybės tarybos opozicijos narių ir viešai įteiktu savivaldybės tarybos posėdžio pirmininkui. Šios komisijos pirmininko pavaduotoją komisijos narių siūlymu iš šios komisijos narių – savivaldybės tarybos narių daugumos – skiria savivaldybės taryba. Jeigu savivaldybės tarybos opozicija per 2 mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos nedeleguoja Etikos komisijos pirmininko arba deleguoja savivaldybės tarybos narį, neatitinkantį šio įstatymo 11 straipsnyje nustatytų reikalavimų, arba jeigu nėra paskelbta savivaldybės tarybos opozicija, Etikos komisijos pirmininką savivaldybės taryba komisijos narių siūlymu skiria iš šios komisijos narių – savivaldybės tarybos narių mažumos. Jeigu visi savivaldybės tarybos nariai sudaro savivaldybės tarybos daugumą, Etikos komisija, sudaryta iš savivaldybės tarybos daugumos atstovų, veikia tol, kol savivaldybės taryboje susidaro savivaldybės tarybos mažuma ar savivaldybės tarybos opozicija. Komisijos atsakingojo sekretoriaus pareigas atlieka mero paskirtas valstybės tarnautojas, ši funkcija įrašoma į jo pareigybės aprašymą.
+1. Savivaldybės taryba savo įgaliojimų laikui sudaro Etikos komisiją. Ši komisija sudaroma laikantis proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principo. Komisijos sudėtis, išlaikant proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principą, turi būti pakeista ne vėliau kaip per 2 mėnesius nuo savivaldybės tarybos daugumos ir mažumos pasikeitimo. Etikos komisijos pirmininką iš šios komisijos narių – savivaldybės tarybos narių – deleguoja savivaldybės tarybos opozicija raštu, pasirašytu daugiau kaip pusės visų savivaldybės tarybos opozicijos narių ir viešai įteiktu savivaldybės tarybos posėdžio pirmininkui. Šios komisijos pirmininko pavaduotoją komisijos narių siūlymu iš šios komisijos narių – savivaldybės tarybos narių daugumos – skiria savivaldybės taryba. Jeigu savivaldybės tarybos opozicija per 2 mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos nedeleguoja Etikos komisijos pirmininko arba deleguoja savivaldybės tarybos narį, neatitinkantį šio įstatymo 11 straipsnyje nustatytų reikalavimų, arba jeigu nėra paskelbta savivaldybės tarybos opozicija, Etikos komisijos pirmininką savivaldybės taryba komisijos narių siūlymu skiria iš šios komisijos narių – savivaldybės tarybos narių mažumos. Jeigu visi savivaldybės tarybos nariai sudaro savivaldybės tarybos daugumą, Etikos komisija, sudaryta iš savivaldybės tarybos daugumos atstovų, veikia tol, kol savivaldybės taryboje susidaro savivaldybės tarybos mažuma ar savivaldybės tarybos opozicija. Komisijos atsakingojo sekretoriaus pareigas atlieka mero paskirtas savivaldybės administracijos darbuotojas, ši funkcija įrašoma į jo pareigybės aprašymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -1951,7 +2042,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 24 straipsnis. Antikorupcijos komisija
 
 
-1. Savivaldybės taryba savo įgaliojimų laikui sudaro Antikorupcijos komisiją. Ši komisija sudaroma laikantis proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principo. Komisijos sudėtis, išlaikant proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principą, turi būti pakeista ne vėliau kaip per 2 mėnesius nuo savivaldybės tarybos daugumos ir mažumos pasikeitimo. Antikorupcijos komisijos pirmininką iš šios komisijos narių deleguoja savivaldybės tarybos opozicija raštu, pasirašytu daugiau kaip pusės visų savivaldybės tarybos opozicijos narių ir viešai įteiktu savivaldybės tarybos posėdžio pirmininkui. Šios komisijos pirmininko pavaduotoją komisijos narių siūlymu iš šios komisijos narių – savivaldybės tarybos narių daugumos – skiria savivaldybės taryba. Jeigu savivaldybės tarybos opozicija per 2 mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos nedeleguoja Antikorupcijos komisijos pirmininko arba deleguoja savivaldybės tarybos narį, neatitinkantį šio įstatymo 11 straipsnyje nustatytų reikalavimų, arba jeigu nėra paskelbta savivaldybės tarybos opozicija, Antikorupcijos komisijos pirmininką savivaldybės taryba komisijos narių siūlymu skiria iš šios komisijos narių – savivaldybės tarybos narių mažumos. Jeigu visi savivaldybės tarybos nariai sudaro savivaldybės tarybos daugumą, Antikorupcijos komisija, sudaryta iš savivaldybės tarybos daugumos atstovų, veikia tol, kol savivaldybės taryboje susidaro savivaldybės tarybos mažuma ar savivaldybės tarybos opozicija. Komisijos atsakingojo sekretoriaus pareigas atlieka mero paskirtas valstybės tarnautojas, ši funkcija įrašoma į jo pareigybės aprašymą.
+1. Savivaldybės taryba savo įgaliojimų laikui sudaro Antikorupcijos komisiją. Ši komisija sudaroma laikantis proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principo. Komisijos sudėtis, išlaikant proporcinio savivaldybės tarybos daugumos ir mažumos atstovavimo principą, turi būti pakeista ne vėliau kaip per 2 mėnesius nuo savivaldybės tarybos daugumos ir mažumos pasikeitimo. Antikorupcijos komisijos pirmininką iš šios komisijos narių deleguoja savivaldybės tarybos opozicija raštu, pasirašytu daugiau kaip pusės visų savivaldybės tarybos opozicijos narių ir viešai įteiktu savivaldybės tarybos posėdžio pirmininkui. Šios komisijos pirmininko pavaduotoją komisijos narių siūlymu iš šios komisijos narių – savivaldybės tarybos narių daugumos – skiria savivaldybės taryba. Jeigu savivaldybės tarybos opozicija per 2 mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos nedeleguoja Antikorupcijos komisijos pirmininko arba deleguoja savivaldybės tarybos narį, neatitinkantį šio įstatymo 11 straipsnyje nustatytų reikalavimų, arba jeigu nėra paskelbta savivaldybės tarybos opozicija, Antikorupcijos komisijos pirmininką savivaldybės taryba komisijos narių siūlymu skiria iš šios komisijos narių – savivaldybės tarybos narių mažumos. Jeigu visi savivaldybės tarybos nariai sudaro savivaldybės tarybos daugumą, Antikorupcijos komisija, sudaryta iš savivaldybės tarybos daugumos atstovų, veikia tol, kol savivaldybės taryboje susidaro savivaldybės tarybos mažuma ar savivaldybės tarybos opozicija. Komisijos atsakingojo sekretoriaus pareigas atlieka mero paskirtas savivaldybės administracijos darbuotojas, ši funkcija įrašoma į jo pareigybės aprašymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2052,7 +2146,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-5. Mero sprendimai įforminami potvarkiais. 
+5. Mero sprendimai įforminami potvarkiais. Mero potvarkiai skelbiami savivaldybės interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2118,17 +2215,26 @@ Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 2. Meras:
 
 
-1) sudaro ir teikia savivaldybės tarybai savivaldybės biudžeto projektą, biudžeto tikslinimą ir savivaldybės metinių ataskaitų rinkinį;
+1) organizuoja savivaldybės biudžeto sudarymą ir vykdymą, teikia savivaldybės tarybai savivaldybės biudžeto projektą, biudžeto tikslinimą ir savivaldybės metinių ataskaitų rinkinį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
 
-2) iki kiekvienų einamųjų metų birželio 15 dienos savivaldybės tarybai raštu atsiskaito, kaip įgyvendinami įstatymai, Vyriausybės nutarimai, savivaldybės tarybos sprendimai, kaip vykdomas savivaldybės biudžetas ir naudojami kiti piniginiai ištekliai;
+2) Neteko galios nuo 2024-06-20
+Straipsnio punkto naikinimas:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
 
-3) administruoja savivaldybės biudžeto asignavimus ir kitus piniginius išteklius, organizuoja savivaldybės biudžeto vykdymą, administruoja savivaldybės turtą;
+3) Neteko galios nuo 2024-06-20
+Straipsnio punkto naikinimas:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2143,9 +2249,10 @@ Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 
 
 
-6) teikia savivaldybės tarybai tvirtinti savivaldybės biudžetinių įstaigų nuostatus;
+6) teikia savivaldybės tarybai tvirtinti savivaldybės biudžetinių įstaigų, išskyrus savivaldybės kontrolės ir audito tarnybą, nuostatus; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -2186,7 +2293,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-14) tvirtina gyvenamųjų vietovių ar jų dalių suskirstymą (sugrupavimą) į seniūnaitijas (kai jos sudaromos); 
+14) teikia savivaldybės tarybai tvirtinti gyvenamųjų vietovių ar jų dalių suskirstymą (sugrupavimą) į seniūnaitijas (kai jos sudaromos); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2231,7 +2341,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-23) suteikia savivaldybės administracijos direktoriui, savivaldybės kontrolieriui, kai savivaldybės kontrolieriaus nėra, – jo pavaduotojui, vicemerui atostogas, siunčia administracijos direktorių, savivaldybės kontrolierių, kai savivaldybės kontrolieriaus nėra, – jo pavaduotoją, vicemerą į komandiruotes;
+23) suteikia savivaldybės administracijos direktoriui, vicemerui ir kitiems mero politinio (asmeninio) pasitikėjimo valstybės tarnautojams atostogas, siunčia šiuos asmenis į komandiruotes; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2264,15 +2377,17 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 
 
-29) išduoda sutikimus dėl savivaldybės patikėjimo teise valdomos valstybinės žemės naudojimo, susijusius su statytojo teisės įgyvendinimu, susisiekimo komunikacijų, inžinerinių tinklų tiesimu, veikla vandens telkiniuose ir žemės gelmių tyrimu, ir priima sprendimus dėl sandoriu nustatomų servitutų patikėjimo teise valdomuose valstybinės žemės sklypuose nustatymo; 
+29) išduoda sutikimus ir priima sprendimus dėl savivaldybės patikėjimo teise valdomos valstybinės žemės naudojimo, susijusius su statytojo teisės įgyvendinimu, susisiekimo komunikacijų, inžinerinių tinklų tiesimu, veikla vandens telkiniuose ir žemės gelmių tyrimu; valstybinės žemės nuomos teisės perleidimo ar įkeitimo; teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, nustatymo; sandoriu nustatomų servitutų patikėjimo teise valdomuose valstybinės žemės sklypuose nustatymo, bendraturčio teisių įgyvendinimo ir pasirašymo žemės sklypo ribų paženklinimo akte ir (ar) žemės sklypo plane; 
 Papildyta straipsnio punktu:
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
 
 
-30) išduoda sutikimus laikinai naudotis žemės ūkio veiklai vykdyti žemės sklypais nesuformuotais laisvos valstybinės žemės fondo žemės plotais, patikėjimo teise valdomais savivaldybių. 
+30) išduoda sutikimus laikinai naudotis žemės ūkio veiklai vykdyti žemės sklypais nesuformuotais laisvos valstybinės žemės fondo žemės plotais, patikėjimo teise valdomais savivaldybių; 
  
 Straipsnio dalies punkto redakcija nuo 2027-01-01:
 30) netenka galios.
@@ -2281,6 +2396,22 @@ Nr. XIV-2557, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07455
  
 
 
+
+
+31) vykdo kitus šiame ir kituose įstatymuose nustatytus įgaliojimus. 
+Papildyta straipsnio punktu:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
+
+
+
+
+
+
+21. Meras įgaliojimams vykdyti gali pasitelkti savivaldybės administraciją.
+Papildyta straipsnio dalimi:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2349,6 +2480,14 @@ Nr. XIV-2557, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07455
 
 
 
+31. Atostogas meras suteikia sau potvarkiu. Apie merui suteiktas atostogas reglamento nustatyta tvarka informuojama savivaldybės taryba. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
+
+
+
+
 4. Meras turi teisę į Darbo kodekse nustatytas lengvatas asmenims, auginantiems vaikus, ir į lengvatas asmenims su negalia.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
@@ -2357,7 +2496,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-5. Meras į komandiruotes vyksta reglamento nustatyta tvarka.
+5. Meras priima potvarkius dėl savo vykimo į komandiruotes. Apie mero komandiruotę reglamento nustatyta tvarka informuojama savivaldybės taryba.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2381,7 +2523,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 1. Merą pavaduoja mero paskirtas vicemeras, kai:
 
 
-1) meras dėl atostogų, laikinojo nedarbingumo ar kitų pateisinamų priežasčių laikinai neina savo pareigų;
+1) meras dėl atostogų, laikinojo nedarbingumo, nusišalinimo ar kitų pateisinamų priežasčių laikinai neina savo pareigų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2393,9 +2538,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-2. Merą pavaduojantis vicemeras vykdo visus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo 27 straipsnio 2 dalies 4, 5, 7, 15, 19, 20 ir 21 punktuose. Vicemerui pavaduojant merą, šio įstatymo 27 straipsnio 2 dalies 15 punkte nustatytus mero įgaliojimus vykdo savivaldybės taryba, o šio įstatymo 27 straipsnio 2 dalies 4, 5 ir 7 punktuose nustatytus mero įgaliojimus – laikinai savivaldybės tarybos paskirtas tarybos narys. 
+2. Merą pavaduojantis vicemeras vykdo visus šiame ir kituose įstatymuose nustatytus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo 27 straipsnio 2 dalies 4, 5, 7, 15, 19, 20 ir 21 punktuose. Vicemerui pavaduojant merą, šio įstatymo 27 straipsnio 2 dalies 15 punkte nustatytus mero įgaliojimus vykdo savivaldybės taryba, o šio įstatymo 27 straipsnio 2 dalies 4, 5 ir 7 punktuose nustatytus mero įgaliojimus – laikinai savivaldybės tarybos paskirtas tarybos narys.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -2461,7 +2607,10 @@ Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
 
 
-2. Meras savivaldybės tarybai teikia kandidatūrą į vicemero pareigas. Jeigu savivaldybės taryba du kartus iš eilės nepritaria teikiamai kandidatūrai į vicemero pareigas, meras turi teisę savo sprendimu savivaldybės tarybai teiktą kandidatą paskirti vicemeru. Jeigu meras, savivaldybės tarybai pirmą kartą nepritarus jo teiktai kandidatūrai, teikė kito asmens kandidatūrą į vicemero pareigas, meras turi teisę savo sprendimu vicemeru paskirti pasirinktinai vieną iš savivaldybės tarybai teiktų kandidatų į vicemero pareigas.
+2. Meras savivaldybės tarybai teikia kandidatūrą į vicemero pareigas. Jeigu savivaldybės taryba du kartus iš eilės nepritaria teikiamai kandidatūrai į vicemero pareigas ir (arba) šio klausimo nesvarsto, meras turi teisę savo sprendimu savivaldybės tarybai teiktą kandidatą paskirti vicemeru. Jeigu meras, savivaldybės tarybai pirmą kartą nepritarus jo teiktai kandidatūrai arba jos nesvarsčius, teikė kito asmens kandidatūrą į vicemero pareigas, meras turi teisę savo sprendimu vicemeru paskirti pasirinktinai vieną iš savivaldybės tarybai teiktų kandidatų į vicemero pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2497,7 +2646,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-2. Savivaldybės tarybos posėdžius, komitetus, merą, kiek mero veikla susijusi su savivaldybės tarybos posėdžiais, aptarnauja, taip pat savivaldybės tarybos sprendimų projektus rengia, nagrinėja ir išvadas dėl savivaldybės tarybos sprendimų projektų rengia savivaldybės tarybos posėdžių sekretorius (-iai). Padėti jam (jiems) atlikti priskirtas funkcijas jis (jie) gali pasitelkti savivaldybės administraciją.
+2. Savivaldybės tarybos posėdžius, komitetus, merą, kiek mero veikla susijusi su savivaldybės tarybos posėdžiais, aptarnauja, rengia savivaldybės tarybos sprendimų projektus ir vertina savivaldybės tarybos sprendimų projektų atitiktį šiame įstatyme ir reglamente nustatytiems reikalavimams savivaldybės tarybos posėdžių sekretorius (-iai). Padėti jam (jiems) atlikti priskirtas funkcijas jis (jie) gali pasitelkti savivaldybės administraciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2530,12 +2682,30 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-6) dėl savivaldybės tarybos sprendimo projekto, išskyrus šios dalies 5 punkte nurodytus spendimų projektus, ne vėliau kaip per 10 darbo dienų nuo registravimo dienos pateikia išvadas. Jeigu savivaldybės tarybos sprendimo projektas didelės apimties, administracijos direktoriaus įsakymu išvadų pateikimo terminas vieną kartą gali būti pratęstas iki 10 darbo dienų;
+6) reglamento nustatyta tvarka ne vėliau kaip per 10 darbo dienų nuo savivaldybės tarybos sprendimo projekto registravimo dienos pateikia išvadas dėl savivaldybės tarybos sprendimo projekto, išskyrus šios dalies 5 punkte ir šio įstatymo 17 straipsnio 12 dalyje nurodytus sprendimų projektus. Jeigu savivaldybės tarybos sprendimo projektas didelės apimties, savivaldybės administracijos direktoriaus įsakymu išvadų pateikimo terminas vieną kartą gali būti pratęstas iki 10 darbo dienų. Šio įstatymo 17 straipsnio 12 dalyje nustatytu atveju išvada pateikiama reglamento nustatyta tvarka iki savivaldybės tarybos posėdžio; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
 
-7) atlieka savivaldybės tarybos posėdžių sekretoriaus (-ių), mero, tarybos narių ir savivaldybės kontrolės ir audito tarnybos finansinį, ūkinį ir materialinį aptarnavimą.
+7) atlieka savivaldybės tarybos posėdžių sekretoriaus (-ių), mero, tarybos narių ir savivaldybės kontrolės ir audito tarnybos finansinį, ūkinį ir materialinį aptarnavimą;
+
+
+
+
+8) padeda merui vykdyti jam suteiktus įgaliojimus;
+Papildyta straipsnio punktu:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
+
+
+
+
+9) padeda savivaldybės tarybos posėdžių sekretoriui (-iams) įgyvendinti jam (jiems) pavestas funkcijas.
+Papildyta straipsnio punktu:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -2604,7 +2774,10 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-6) teikia merui tvirtinti gyvenamųjų vietovių ar jų dalių suskirstymą (sugrupavimą) į seniūnaitijas;
+6) Neteko galios nuo 2024-06-20
+Straipsnio punkto naikinimas:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2624,9 +2797,17 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 
 
 
-10) kaip įstaigos vadovas, pats vykdo mero suteiktus įgaliojimus ir atlieka kitus tiesioginius mero pavedimus arba įstatymų nustatytais atvejais paveda tai atlikti kitiems savivaldybės administracijos valstybės tarnautojams.
+10) kaip įstaigos vadovas, pats vykdo mero suteiktus įgaliojimus ir atlieka kitus tiesioginius mero pavedimus arba įstatymų nustatytais atvejais paveda tai atlikti kitiems savivaldybės administracijos valstybės tarnautojams;
 Straipsnio punkto pakeitimai:
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
+ 
+
+
+
+
+11) vykdo kitus šiame ir kituose įstatymuose nustatytus įgaliojimus. 
+Papildyta straipsnio punktu:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -2671,7 +2852,10 @@ Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
 3. Priimdama sprendimą dėl seniūnijos – biudžetinės įstaigos – steigimo, savivaldybės taryba privalo įvertinti:
 
 
-1) savivaldybės centralizuotos vidaus audito tarnybos rekomendaciją dėl seniūnijos – biudžetinės įstaigos – steigimo tikslingumo, įvertinus seniūnijos teikiamų ar numatomų teikti viešųjų paslaugų kiekį, mastą ir kokybę, kiek bus tenkinami gyvenamųjų vietovių bendruomenių viešieji interesai;
+1) savivaldybės centralizuoto vidaus audito tarnybos rekomendaciją dėl seniūnijos – biudžetinės įstaigos – steigimo tikslingumo, įvertinus seniūnijos teikiamų ar numatomų teikti viešųjų paslaugų kiekį, mastą ir kokybę, kiek bus tenkinami gyvenamųjų vietovių bendruomenių viešieji interesai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2906,11 +3090,6 @@ Seniūnas:
 
 3. Šio straipsnio 1 dalies 1 punkte nustatytą funkciją savivaldybės administracijos direktoriaus sprendimu gali būti pavesta atlikti seniūnijai ir kitam savivaldybės administracijos struktūriniam padaliniui.
  
- 
- 
- 
- 
- 
 
 
 
@@ -2932,7 +3111,10 @@ ATSTOVAVIMAS GYVENAMŲJŲ VIETOVIŲ BENDRUOMENĖMS
 
 
 
-2. Seniūnaitijos sudaromos iš gyvenamųjų vietovių ar jų dalių (vienos ar kelių bendras ribas turinčių gyvenamųjų vietovių, vienos ar kelių bendras ribas turinčių gyvenamosios vietovės dalių). Sudarant seniūnaitijas, seniūnaitijos gyventojų, susietų kaimynystės ryšiais ir poreikiais, skaičius paprastai turi būti ne didesnis kaip 500 gyventojų. Sudarant seniūnaitijas miestuose iš vienos ar kelių bendras ribas turinčių kompaktiškai užstatytų teritorijų, kuriose gyventojų tankis ne mažesnis kaip 100 gyventojų / ha, gyventojų, susietų kaimynystės ryšiais ir poreikiais, skaičius paprastai turi būti ne didesnis kaip 3 000 gyventojų. Gyvenamųjų vietovių ar jų dalių suskirstymą (sugrupavimą) į seniūnaitijas (seniūnaitijų sudarymo projektą) tvirtina meras savivaldybės administracijos direktoriaus teikimu.
+2. Seniūnaitijos sudaromos iš gyvenamųjų vietovių ar jų dalių (vienos ar kelių bendras ribas turinčių gyvenamųjų vietovių, vienos ar kelių bendras ribas turinčių gyvenamosios vietovės dalių). Sudarant seniūnaitijas, seniūnaitijos gyventojų, susietų kaimynystės ryšiais ir poreikiais, skaičius paprastai turi būti ne didesnis kaip 500 gyventojų. Sudarant seniūnaitijas miestuose iš vienos ar kelių bendras ribas turinčių kompaktiškai užstatytų teritorijų, kuriose gyventojų tankis ne mažesnis kaip 100 gyventojų / ha, gyventojų, susietų kaimynystės ryšiais ir poreikiais, skaičius paprastai turi būti ne didesnis kaip 3 000 gyventojų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -2952,7 +3134,10 @@ ATSTOVAVIMAS GYVENAMŲJŲ VIETOVIŲ BENDRUOMENĖMS
 
 
 
-6. Kandidatu į seniūnaičius gali būti pilnametis seniūnaitijos gyventojas, deklaravęs gyvenamąją vietą toje seniūnaitijoje, kurioje jo kandidatūra siūloma į seniūnaičius. 
+6. Kandidatu į seniūnaičius gali būti seniūnaitijos gyventojas, turintis teisę rinkti šios savivaldybės tarybą ir deklaravęs gyvenamąją vietą toje seniūnaitijoje, kurioje jo kandidatūra siūloma į seniūnaičius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -3840,28 +4025,15 @@ TURTAS IR FINANSAI
  
 
 
-63 straipsnis. Savivaldybių nuosavybė 
+63 straipsnis. Savivaldybių turtas
 
 
-1. Savivaldybių turto sandara ir įsigijimo būdai, šio turto valdymo, naudojimo ir disponavimo juo tvarka nustatyta Konstitucijoje, įstatymuose, Vyriausybės nutarimuose ir savivaldybių tarybų sprendimuose. 
+Savivaldybių turto sandara, įgijimo būdai, šio turto valdymo, naudojimo ir disponavimo juo tvarka nustatyti Konstitucijoje, įstatymuose, Vyriausybės nutarimuose ir savivaldybių tarybų sprendimuose.
 
 
-
-
-2. Savivaldybei nuosavybės teise priklausančio turto savininko funkcijas, susijusias su savivaldybei nuosavybės teise priklausančiu turtu, remdamasi įstatymais įgyvendina savivaldybės taryba. 
-
-
-
-
-3. Savivaldybės turtą kitos savivaldybės institucijos, įstaigos, organizacijos ir įmonės valdo, naudoja ir disponuoja juo patikėjimo teise Lietuvos Respublikos biudžetinių įstaigų įstatymo, Valstybės ir savivaldybės įmonių įstatymo, Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo ir kitų įstatymų bei savivaldybės tarybos sprendimų nustatyta tvarka.
-
-
-
-
-4. Savivaldybės joms patikėjimo teise perduotą valstybės turtą valdo, naudoja ir disponuoja juo įstatymų ir kitų teisės aktų nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
-
-
 
 
 
@@ -4035,7 +4207,10 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 1. Savivaldybės kontrolės ir audito tarnyba, prižiūrėdama, ar teisėtai, efektyviai, ekonomiškai ir rezultatyviai valdomas ir naudojamas savivaldybės turtas ir patikėjimo teise valdomas valstybės turtas, kaip vykdomas savivaldybės biudžetas ir naudojami kiti piniginiai ištekliai:
 
 
-1) atlieka išorės finansinį, atitikties ir veiklos auditą savivaldybės administracijoje, savivaldybės administravimo subjektuose ir savivaldybės valdomose įmonėse;
+1) atlieka išorės finansinį, atitikties ir veiklos auditą bei vertinimus savivaldybės administracijoje, savivaldybės administravimo subjektuose ir savivaldybės valdomose įmonėse; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -4107,9 +4282,10 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 
 
-8. Savivaldybės kontrolierius į pareigas priimamas konkurso būdu arba šio įstatymo nustatytu atveju be konkurso ir iš jų atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. Savivaldybės kontrolierius privalo turėti aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip 3 metų darbo finansų, ekonomikos, teisės, audito arba kontrolės srityse patirtį. Jeigu savivaldybės kontrolieriaus pirmosios kadencijos Savivaldybės kontrolės ir audito tarnybos veiklą Kontrolės komitetas įvertina teigiamai, savivaldybės kontrolierius gali būti skiriamas antrai kadencijai be konkurso. 
+8. Savivaldybės kontrolierius į pareigas priimamas konkurso būdu arba šio įstatymo nustatytu atveju be konkurso ir iš jų atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. Vienu iš pretendentų į savivaldybės kontrolieriaus pareigas konkurso komisijos narių skiriamas savivaldybių kontrolierius vienijančios asociacijos atstovas. Savivaldybės kontrolierius privalo turėti aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip 3 metų darbo finansų, ekonomikos, teisės, audito arba kontrolės srityse patirtį. Jeigu savivaldybės kontrolieriaus pirmosios kadencijos savivaldybės kontrolės ir audito tarnybos veiklą Kontrolės komitetas įvertina teigiamai, savivaldybės kontrolierius gali būti skiriamas antrai kadencijai be konkurso. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
 
 
@@ -4118,7 +4294,10 @@ Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 9. Savivaldybės kontrolierius:
 
 
-1) tvirtina savivaldybės kontrolės ir audito tarnybos struktūrą, pareigybių sąrašą, pareigybių aprašymus ir pareiginius nuostatus; Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir iš jų atleidžia valstybės tarnautojus ir Darbo kodekso nustatyta tvarka priima į darbą ir iš jo atleidžia darbuotojus, dirbančius pagal darbo sutartis, atlieka kitas savivaldybės kontrolės ir audito tarnybos personalo valdymo funkcijas;
+1) teikia savivaldybės tarybai tvirtinti savivaldybės kontrolės ir audito tarnybos nuostatus, nustato savivaldybės kontrolės ir audito tarnybos struktūrą, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių ir pareigybių sąrašą, tvirtina pareigybių aprašymus; Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir iš jų atleidžia valstybės tarnautojus ir Darbo kodekso nustatyta tvarka priima į darbą ir iš jo atleidžia darbuotojus, dirbančius pagal darbo sutartis, atlieka kitas savivaldybės kontrolės ir audito tarnybos personalo valdymo funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -4128,7 +4307,10 @@ Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 
 
-3) sudaro savivaldybės kontrolės ir audito tarnybos veiklos plano projektą, gavęs savivaldybės tarybos Kontrolės komiteto pritarimą, su šio plano projektu supažindina savivaldybės centralizuotą vidaus audito tarnybą; kiekvienais metais iki einamųjų metų lapkričio 15 dienos patvirtina ateinančių metų savivaldybės kontrolės ir audito tarnybos veiklos planą, organizuoja jo vykdymą ir yra už tai atsakingas; prireikus patvirtintą savivaldybės kontrolės ir audito tarnybos veiklos planą tikslina bendra plano tvirtinimo tvarka;
+3) sudaro savivaldybės kontrolės ir audito tarnybos veiklos plano projektą, jį teikia Kontrolės komitetui, su šio plano projektu supažindina savivaldybės centralizuoto vidaus audito tarnybą; kiekvienais metais iki einamųjų metų lapkričio 15 dienos patvirtina ateinančių metų savivaldybės kontrolės ir audito tarnybos veiklos planą, organizuoja jo vykdymą ir yra už tai atsakingas; prireikus patvirtintą savivaldybės kontrolės ir audito tarnybos veiklos planą tikslina bendra plano tvirtinimo tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -4163,7 +4345,10 @@ Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 
 
-10) finansinio, atitikties ir veiklos audito metu nustatęs nusikalstamos veikos požymių, apie tai praneša teisėsaugos institucijoms;
+10) finansinio, atitikties ir veiklos audito ar vertinimo metu nustatęs nusikalstamos veikos požymių, apie tai praneša teisėsaugos institucijoms; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -4218,7 +4403,10 @@ Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 
 
-2) finansinio, atitikties ir veiklos audito metu turi teisę įeiti į audituojamo subjekto patalpas, gauti visus auditui atlikti reikalingus dokumentus, gauti iš audituojamo subjekto darbuotojų reikiamus rašytinius paaiškinimus, pasitelkti ekspertų (specialistų), turinčių reikiamų žinių patikrinimo metu iškilusiems klausimams spręsti;
+2) finansinio, atitikties ir veiklos audito ar vertinimo metu turi teisę įeiti į audituojamo subjekto patalpas, gauti visus auditui atlikti reikalingus dokumentus ir duomenis, gauti iš audituojamo subjekto darbuotojų reikiamus rašytinius paaiškinimus, pasitelkti ekspertų (specialistų), turinčių reikiamų žinių patikrinimo metu iškilusiems klausimams spręsti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -4230,12 +4418,18 @@ Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 
 
-11. Atlikdama auditą, savivaldybės kontrolės ir audito tarnyba turi teisę pasinaudoti savivaldybės centralizuotos vidaus audito tarnybos atliktų auditų ataskaitomis ir darbo dokumentais, būtinais vidaus kontrolės vertinimui atlikti, jeigu audito subjektas ir tikslai sutampa, taip pat turi teisę susipažinti su atliktų kitų išorės auditų savivaldybės įstaigose ir įmonėse dokumentais.
+11. Atlikdama auditą, savivaldybės kontrolės ir audito tarnyba turi teisę pasinaudoti savivaldybės centralizuoto vidaus audito tarnybos atliktų auditų ataskaitomis ir darbo dokumentais, būtinais vidaus kontrolės vertinimui atlikti, jeigu audito subjektas ir tikslai sutampa, taip pat turi teisę susipažinti su atliktų kitų išorės auditų savivaldybės įstaigose ir įmonėse dokumentais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
 
-12. Savivaldybės kontrolės ir audito tarnyba veiklos plane numatytam išorės finansiniam, atitikties ir veiklos auditui atlikti ir (ar) atliktam auditui peržiūrėti gali bendradarbiavimo sutarčių pagrindu pasitelkti kitų savivaldybių kontrolės ir audito tarnybų valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis. 
+12. Savivaldybės kontrolės ir audito tarnyba veiklos plane numatytam išorės finansiniam, atitikties ir veiklos auditui ar vertinimui atlikti ir (ar) atliktam auditui peržiūrėti gali bendradarbiavimo sutarčių pagrindu pasitelkti kitų savivaldybių kontrolės ir audito tarnybų valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+ 
 
 
 
@@ -4248,57 +4442,55 @@ Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
 
 
-68 straipsnis. Savivaldybės centralizuota vidaus audito tarnyba
+68 straipsnis. Savivaldybės centralizuoto vidaus audito tarnyba
 
 
-1. Savivaldybės centralizuotą vidaus audito tarnybą (toliau – vidaus audito tarnyba) įsteigia savivaldybės taryba, tvirtindama savivaldybės administracijos struktūrą.
+1. Savivaldybės centralizuoto vidaus audito tarnybą (toliau – vidaus audito tarnyba) įsteigia savivaldybės administracijos direktorius, tvirtindamas savivaldybės administracijos struktūrą.
 
 
 
 
-2. Vidaus audito tarnybos vadovas ir vidaus auditoriai yra darbuotojai, dirbantys pagal darbo sutartis. Pretendentų į vidaus audito tarnybos vadovo pareigas konkurso komisijos nariu turi būti kviečiamas Lietuvos Respublikos finansų ministerijos atstovas. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
+2. Vidaus audito tarnybos vadovas ir vidaus auditoriai yra darbuotojai, dirbantys pagal darbo sutartis.
+
+
+
+
+3. Vidaus audito tarnybai vadovauja ir už jos veiklą atsako jos vadovas. Ši tarnyba yra atskaitinga merui. Meras užtikrina vidaus audito tarnybos veiklos ir organizacinį nepriklausomumą ir šios valdymo funkcijos negali perduoti kitiems viešojo juridinio asmens valstybės tarnautojams ar darbuotojams, dirbantiems pagal darbo sutartis.
+
+
+
+
+4. Vidaus audito tarnyba dirba pagal su meru suderintus ir savivaldybės administracijos direktoriaus patvirtintus ilgalaikį ir metinį vidaus audito tarnybos veiklos planus. Ilgalaikis ir metinis vidaus audito tarnybos veiklos planai gali būti keičiami, o jų pakeitimai turi būti suderinti su meru ir patvirtinti savivaldybės administracijos direktoriaus. Metiniame vidaus audito tarnybos veiklos plane nenumatytas vidaus auditas gali būti atliekamas vidaus audito tarnybos vadovo sprendimu, raštu suderinus su meru.
+
+
+
+
+5. Vidaus audito tarnyba, iki einamųjų metų lapkričio 1 dienos parengusi ateinančių metų vidaus audito tarnybos veiklos plano projektą, teikia jį savivaldybės kontrolės ir audito tarnybai tarpusavio veiklos koordinavimo tikslais. Ateinančių metų vidaus audito tarnybos veiklos planas turi būti suderintas su meru iki einamųjų metų gruodžio 31 dienos. 
+
+
+
+
+6. Vidaus audito tarnyba savo funkcijas įgyvendina atlikdama vidaus auditus ir jų rezultatų pagrindu teikdama rekomendacijas. Vidaus auditoriai atlikto vidaus audito ataskaitas pateikia merui ir audituojamų subjektų vadovams. Atliktų vidaus auditų ataskaitos gali būti teikiamos savivaldybės tarybos Kontrolės komitetui, savivaldybės kontrolės ir audito tarnybai, kai jie raštu to prašo.
+
+
+
+
+7. Meras ir audituojamų subjektų, nurodytų šio įstatymo 3 straipsnio 9 dalyje, vadovai turi priimti sprendimus dėl vidaus audito rekomendacijų įgyvendinimo. Audituojamo subjekto vadovas, gavęs vidaus audito ataskaitą, ne vėliau kaip per 15 darbo dienų priima sprendimą dėl vidaus audito rekomendacijų. Jeigu audituojamo subjekto vadovas nesutinka su vidaus audito ataskaitoje pateiktomis rekomendacijomis ir pateikia merui ir vidaus audito tarnybos vadovui pagrįstus motyvus dėl nesutikimo su vidaus audito ataskaitoje pateiktomis rekomendacijomis, meras priima sprendimą įgyvendinti vidaus audito ataskaitoje pateiktas rekomendacijas arba jų neįgyvendinti, prisiimdamas su tuo susijusią riziką, ir įpareigoja audituojamo subjekto vadovą įgyvendinti šį sprendimą.
+
+
+
+
+8. Kad būtų išsaugotas objektyvumas ir nepriklausomumas, vidaus audito tarnybos vadovas ir vidaus auditoriai negali dalyvauti valdant viešąjį juridinį asmenį ir (arba) jam pavaldžius ir (arba) atskaitingus viešuosius juridinius asmenis. Vidaus audito tarnybos vadovas, vidaus auditorius, siekdami išsaugoti objektyvumą, negali dalyvauti nustatant ir įgyvendinant viešojo juridinio asmens, jam pavaldžių ir (arba) atskaitingų viešųjų juridinių asmenų vidaus kontrolės politiką, tikrinant ir vertinant veiklą, už kurią jis buvo atsakingas mažiau kaip prieš vienus metus prieš pradėdamas eiti vidaus audito tarnybos vadovo, vidaus auditoriaus pareigas.
+
+
+
+
+9. Vidaus audito tarnyba savo veikloje vadovaujasi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais teisės aktais, reglamentuojančiais vidaus auditą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
  
-
-
-
-
-3. Vidaus audito tarnybai vadovauja ir už jos veiklą atsako jos vadovas. Ši tarnyba yra atskaitinga merui. Meras užtikrina vidaus audito tarnybos veiklos ir organizacinį nepriklausomumą ir šios valdymo funkcijos negali perduoti kitiems viešojo juridinio asmens valstybės tarnautojams ar darbuotojams, dirbantiems pagal darbo sutartis. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
- 
-
-
-
-
-4. Vidaus audito tarnyba dirba pagal su meru suderintą metinį vidaus audito tarnybos veiklos planą. Meras gali pavesti vidaus audito tarnybai atlikti metiniame vidaus audito tarnybos veiklos plane nenumatytą vidaus auditą. Metiniame vidaus audito tarnybos veiklos plane nenumatytas vidaus auditas gali būti atliekamas vidaus audito tarnybos vadovo sprendimu, raštu suderintu su meru.
-
-
-
-
-5. Vidaus audito tarnyba, iki einamųjų metų lapkričio 1 dienos parengusi ateinančių metų vidaus audito tarnybos veiklos plano projektą, teikia jį savivaldybės kontrolės ir audito tarnybai tarpusavio veiklos koordinavimo tikslais. Vidaus audito tarnybos veiklos plano projektas, kai su juo susipažįsta savivaldybės kontrolės ir audito tarnyba, iki einamųjų metų lapkričio 15 dienos teikiamas Valstybės kontrolei. Ateinančių metų vidaus audito tarnybos veiklos planas turi būti suderintas su meru iki einamųjų metų gruodžio 31 dienos. Patvirtintas vidaus audito tarnybos veiklos planas tikslinamas bendra plano tvirtinimo tvarka. 
-
-
-
-
-6. Vidaus audito tarnyba savo funkcijas įgyvendina atlikdama vidaus auditus ir jų rezultatų pagrindu formuluodama rekomendacijas. Vidaus auditoriai atlikto audito ataskaitas pateikia merui, savivaldybės tarybai ir audituotų subjektų vadovams. Meras ir audituotų subjektų vadovai turi priimti sprendimus dėl vidaus audito rekomendacijų įgyvendinimo. Be to, atliktų vidaus auditų ataskaitos gali būti teikiamos savivaldybės tarybos Kontrolės komitetui, savivaldybės kontrolės ir audito tarnybai, kai jie raštu to prašo.
-
-
-
-
-7. Kad būtų išsaugotas objektyvumas ir nepriklausomumas, vidaus audito tarnybos vadovas ir vidaus auditoriai negali dalyvauti savivaldybės administravimo subjektų, savivaldybės valdomų įmonių ir savivaldybės viešųjų juridinių asmenų valdymo organuose, negali dalyvauti rengiant vidaus kontrolės sistemos tobulinimo dokumentų projektus ar kuriant, nustatant ir įgyvendinant savivaldybės administracijos ir jos struktūrinių padalinių, savivaldybės valdomų įmonių ir viešųjų juridinių asmenų vidaus kontrolę, įskaitant finansų kontrolę, jos procedūras.
-Straipsnio dalies pakeitimai:
-Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
- 
-
-
-
-
-8. Vidaus audito tarnyba savo veikloje vadovaujasi Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu ir kitais teisės aktais, reglamentuojančiais vidaus auditą.
- 
-
-
 
 
 
@@ -5436,3 +5628,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2557, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07455
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 27 straipsnio pakeitimo įstatymas
+ 
+82.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 9, 12, 15, 17, 18, 20, 21, 22, 23, 24, 25, 27, 29, 30, 32, 33, 34, 35, 38, 63, 67 ir 68 straipsnių pakeitimo įstatymas
