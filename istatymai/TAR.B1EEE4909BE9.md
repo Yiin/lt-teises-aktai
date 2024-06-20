@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b1eee4909be911ea9515f752ff221ec9"
 
 # Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-19
+Suvestinė redakcija nuo 2024-06-20 iki 2024-10-31
  
 Įstatymas paskelbtas: TAR 2020-05-22, i. k. 2020-10869
  
@@ -546,7 +546,7 @@ Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
 
 
 
-5) rengia Programos lėšų panaudojimo planą ir Programos lėšų panaudojimo ataskaitą.
+5) rengia Programos lėšų panaudojimo planą ir Programos lėšų panaudojimo ataskaitą;
 
 
 
@@ -732,9 +732,10 @@ Nr. XIV-646, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24312
 
 
 
-10. Savivaldybės infrastruktūros plėtros organizatorius patvirtintą Programos ir jos administravimo lėšų panaudojimo ataskaitą (toliau – Programos lėšų panaudojimo ataskaita) pateikia tikrinti viešojo intereso įmonių audito įmonei ar auditoriui. Komisijai Programos lėšų panaudojimo ataskaita pateikiama kartu su auditoriaus išvada. Ne vėliau kaip per 10 darbo dienų nuo šių dokumentų pateikimo tikrinti dienos Komisija parengia išvadą dėl Programos lėšų panaudojimo pagrįstumo (atitikties priemonių planui ir Programos lėšų panaudojimo planui).
+10. Savivaldybės infrastruktūros plėtros organizatorius patvirtintą Programos ir jos administravimo lėšų panaudojimo ataskaitą (toliau – Programos lėšų panaudojimo ataskaita) pateikia tikrinti savivaldybės kontrolės ir audito tarnybai. Komisijai Programos lėšų panaudojimo ataskaita pateikiama kartu su savivaldybės kontrolės ir audito tarnybos išvada. Ne vėliau kaip per 10 darbo dienų nuo šių dokumentų pateikimo tikrinti dienos Komisija parengia išvadą dėl Programos lėšų panaudojimo pagrįstumo (atitikties priemonių planui ir Programos lėšų panaudojimo planui).
 Straipsnio dalies pakeitimai:
 Nr. XIV-2419, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25640
+Nr. XIV-2689, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11167
  
 
 
@@ -979,3 +980,8 @@ Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymo Nr. XIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2419, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25640
 Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymo Nr. XIII-2895 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 15 ir 16 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2689, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11167
+Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymo Nr. XIII-2895 12 straipsnio pakeitimo įstatymas
