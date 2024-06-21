@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-02-01 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -3072,6 +3072,14 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 
+41. Sprendimo dėl pažymėjimo, suteikiančio teisę atlikti medicinos priemonių techninės būklės tikrinimą, išdavimo ar neišdavimo nepriėmimas per šio straipsnio 4 dalyje nustatytą terminą nelaikomas pažymėjimo, suteikiančio teisę atlikti medicinos priemonių techninės būklės tikrinimą, išdavimu.
+Papildyta straipsnio dalimi:
+Nr. XIV-2745, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11248
+ 
+
+
+
+
 5. Reikalavimai medicinos priemonių techninės būklės tikrinimą siekiantiems atlikti ir jį atliekantiems asmenims:
 
 
@@ -3413,12 +3421,12 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 
-4) sužinoję, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsiant nutraukti jų pateikimą rinkai, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus bei susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
+4) sužinoję, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsdami nutraukti jų pateikimą rinkai, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus bei susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
 
 
 
 
-5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimams;
+5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimams;
 
 
 
@@ -3438,22 +3446,25 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 
-9) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie klinikinių tyrimų arba veiksmingumo tyrimų metu įvykusius nepageidaujamus įvykius, jeigu jie yra atsakingi už klinikinių tyrimų arba veiksmingumo tyrimų organizavimą ir įgyvendinimą (užsakovai); šiame punkte nustatyta tvarka apie nepageidaujamus įvykius turi pranešti ir kiti medicinos priemonės gamintojo paskirti asmenys;
+9) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie klinikinių tyrimų arba veiksmingumo tyrimų metu įvykusius nepageidaujamus įvykius, jeigu jie yra atsakingi už klinikinių tyrimų arba veiksmingumo tyrimų organizavimą ir įgyvendinimą (užsakovai); šiame punkte nustatyta tvarka apie nepageidaujamus įvykius turi pranešti ir kiti, medicinos priemonės gamintojo paskirti, asmenys;
 
 
 
 
-10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo 591 straipsnio 3, 5 ir 11 dalyse nurodytą informaciją;
+10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo 591 straipsnio 3, 4 dalyse nurodytą informaciją ir registruotis šio įstatymo 591 straipsnio 10 dalyje nustatyta tvarka;
 
 
 
 
-11) teikti sveikatos apsaugos ministro įgaliotai institucijai informaciją apie šio įstatymo 591straipsnio 3 dalyje nurodytų duomenų pasikeitimą ir šio įstatymo 591 straipsnio 3 dalyje nurodyta tvarka įregistruotų medicinos priemonių pateikimo rinkai nutraukimą;
+11) teikti sveikatos apsaugos ministro įgaliotai institucijai informaciją apie šio įstatymo 591 straipsnio 3 dalyje nurodytų duomenų pasikeitimą ir šio įstatymo 591 straipsnio 3 dalyje nurodyta tvarka įregistruotų medicinos priemonių pateikimo rinkai nutraukimą;
 
 
 
 
-12) prie pateikiamos rinkai medicinos priemonės pridėti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą ir Lietuvos Respublikos valstybine kalba parengtą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą;
+12) prie pateikiamos rinkai medicinos priemonės pridėti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą, parengtą Lietuvos Respublikos valstybine kalba, arba, jeigu informacija skirta tik sveikatos priežiūros specialistams ir sveikatos priežiūros įstaiga, kuriai tiekiama medicinos priemonė, sutinka, anglų kalba; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2745, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11248
+ 
 
 
 
@@ -3503,12 +3514,12 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 
-5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai ir tiekimą, reikalavimams;
+5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai ir tiekimą, reikalavimams;
 
 
 
 
-6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu bandymo metu buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių tiekimą, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis;
+6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu bandymo metu buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių tiekimą, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis;
 
 
 
@@ -3523,12 +3534,15 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 
-9) kartu su tiekiama ar importuojama medicinos priemone teikti visą medicinos priemonės gamintojo numatytą ir Lietuvos Respublikos valstybine kalba parengtą informaciją apie medicinos priemonės tinkamą naudojimą, priežiūrą;
+9) kartu su tiekiama ar importuojama medicinos priemone teikti visą medicinos priemonės gamintojo numatytą informaciją apie medicinos priemonės tinkamą naudojimą, priežiūrą, parengtą Lietuvos Respublikos valstybine kalba, arba, jeigu informacija skirta tik sveikatos priežiūros specialistams ir sveikatos priežiūros įstaiga, kuriai tiekiama medicinos priemonė, sutinka, anglų kalba;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2745, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11248
+ 
 
 
 
 
-10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo 591 straipsnio 11 dalyje nurodytą informaciją;
+10) registruotis šio įstatymo 591 straipsnio 10 dalyje nustatyta tvarka;
 
 
 
@@ -3553,7 +3567,7 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 
-2) sužinojusi, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsiant nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
+2) sužinojusi, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
 
 
 
@@ -3624,6 +3638,7 @@ TAR pastaba. 595 straipsnio žemiau išdėstyta redakcija pagal įstatymą Nr. X
 Straipsnio pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
+Nr. XIV-2746, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11251
  
 
 
@@ -4336,47 +4351,6 @@ klausimais nustatymas
 
 
 3. Pavyzdinius savivaldybės gydytojo nuostatus tvirtina Vyriausybė ar jos įgaliota institucija.
-
-
-
-
-4. Savivaldybės gydytojas:
-
-
-1) savivaldybės teritorijoje dalyvauja įgyvendinant nacionalinės sveikatinimo veiklos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų priemones; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
- 
-
-
-
-
-2) organizuoja ir dalyvauja įgyvendinant savivaldybės tarybos patvirtintas sveikatinimo programas;
-
-
-
-
-3) nuolat analizuoja savivaldybės gyventojų sveikatos būklę ir jos rizikos veiksnius, pagal kompetenciją teikia išvadas ir pasiūlymus savivaldybės merui, administracijos direktoriui ir kitoms institucijoms;
-
-
-
-
-4) kiekvienais metais savivaldybės tarybai teikia metinį pranešimą apie savivaldybės gyventojų sveikatos būklę ir priemones jai gerinti;
-
-
-
-
-5) koordinuoja savivaldybės teritorijoje esančių sveikatos ir sveikatinimo įstaigų veiklą ligų prevencijos ir sveikatinimo klausimais;
-
-
-
-
-6) atlieka kitas savivaldybės gydytojo nuostatuose ir kituose teisės aktuose nustatytas funkcijas. 
-
-
-Papildyta straipsnio dalimi:
-Nr. XII-1336, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17990
- 
 
 
 
@@ -5917,3 +5891,13 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 70-1 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 9, 10, 12, 26, 32, 38-1, 41, 46, 49, 62, 63, 64, 65, 68 ir 69 straipsnių pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2746, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11251
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymo Nr. XIII-2754 10 straipsnio pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2745, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11248
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 59-2 ir 59-5 straipsnių pakeitimo įstatymas
