@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2024-05-03 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21 iki 2024-06-26
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -1355,7 +1355,9 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 22 straipsnis. Įsipareigojimų pagal kredito sutartį vykdymo atidėjimas
 
 
-1. Kredito davėjas privalo kredito gavėjo prašymu, pateiktu raštu popieriuje ar kitoje patvariojoje laikmenoje, kredito sutarties galiojimo laikotarpiu kredito gavėjui atidėti kredito įmokų, išskyrus palūkanas, mokėjimą kredito gavėjo prašyme nurodytam, bet ne ilgesniam negu 3 mėnesių, laikotarpiui, kai kredito gavėjas nebetenkina pagal šio įstatymo 12 straipsnio 11 dalį priimtame priežiūros institucijos teisės akte nustatytų kreditingumo vertinimo ir atsakingojo skolinimo reikalavimų, susijusių su kredito gavėjo finansinių įsipareigojimų pagal kredito ir kitas sutartis vidutinio įmokos dydžio ir pajamų santykiu, ir yra bent viena iš šių aplinkybių:
+1. Kredito davėjas privalo kredito gavėjo prašymu, pateiktu raštu popieriuje ar kitoje patvariojoje laikmenoje, kredito sutarties galiojimo laikotarpiu kredito gavėjui atidėti kredito įmokų, išskyrus palūkanas, mokėjimą kredito gavėjo prašyme nurodytam, bet ne ilgesniam negu 3 mėnesių laikotarpiui, kai kredito gavėjas nebetenkina pagal šio įstatymo 12 straipsnio 11 dalį priimtame priežiūros institucijos teisės akte nustatytų kreditingumo vertinimo ir atsakingojo skolinimo reikalavimų, susijusių su kredito gavėjo skolinių įsipareigojimų pagal kredito ir kitas sutartis vidutinio įmokos dydžio ir pajamų santykiu, ir yra bent viena iš šių aplinkybių: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
 
 
 1) nutrūksta kredito gavėjo santuoka;
@@ -3246,3 +3248,8 @@ Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2580, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08221
 Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 6, 14, 16 ir 22 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 7, 16, 17, 18, 20 ir 22 straipsnių pakeitimo įstatymas
