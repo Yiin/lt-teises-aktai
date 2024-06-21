@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/09a371f081df11ed8df094f359a60216"
 
 # Lietuvos Respublikos draudimo propaguoti totalitarinius, autoritarinius režimus ir jų ideologijas įstatymas
 
+Suvestinė redakcija nuo 2024-06-21
+ 
+Įstatymas paskelbtas: TAR 2022-12-22, i. k. 2022-26371
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 DRAUDIMO PROPAGUOTI TOTALITARINIUS, AUTORITARINIUS REŽIMUS IR JŲ IDEOLOGIJAS
 ĮSTATYMAS
@@ -59,7 +66,10 @@ Vilnius
 
 
 
-5. Viešasis objektas – viešosios paskirties įrenginys, paminklas, skulptūra, obeliskas, memorialinė lenta, kitas atminimui įamžinti skirtas objektas ar kitoks valstybei ar savivaldybėms nuosavybės teise priklausantis ar jų valdomas arba valstybei ar savivaldybei nuosavybės teise priklausančioje žemėje esantis, bet savininko neturintis turtas, juridinių asmenų patikėjimo teise valdomas valstybės ar savivaldybės turtas, viešoji vieta – gatvė, aikštė, parkas, skveras ar kita visuomeninės paskirties erdvė, taip pat šių objektų pavadinimas, renginiai ir įvykiai – vardinės premijos, konkursai ir kiti šio įstatymo 3 straipsnyje numatytas nuostatas atitinkantys vieši veiksmai.
+5. Viešasis objektas – viešosios paskirties įrenginys, paminklas, skulptūra, obeliskas, memorialinė lenta, kitas atminimui įamžinti skirtas objektas ar kitoks valstybei ar savivaldybėms nuosavybės teise priklausantis ar jų valdomas arba valstybei ar savivaldybei nuosavybės teise priklausančioje žemėje esantis, bet savininko neturintis turtas, juridinių asmenų patikėjimo teise valdomas valstybės ar savivaldybės turtas, viešoji vieta – gatvė, aikštė, parkas, skveras, laidojimo vietos ar kita visuomeninės paskirties erdvė, taip pat šių objektų pavadinimas, renginiai ir įvykiai – vardinės premijos, konkursai ir kiti šio įstatymo 3 straipsnyje numatytas nuostatas atitinkantys vieši veiksmai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2753, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11257
+ 
 
 
 
@@ -141,7 +151,10 @@ Vilnius
 
 
 
-7. Komisija, spręsdama dėl viešųjų objektų, įrengtų kapinių arba kitų laidojimo vietų teritorijoje, atitikties šio įstatymo 3 straipsnio nuostatoms, turi gauti Lietuvos Respublikos krašto apsaugos ministerijos, Lietuvos Respublikos užsienio reikalų ministerijos ir Departamento nuomonę, o kai šioje dalyje nurodyti viešieji objektai naudojami vykdant religinių bendruomenių ir bendrijų veiklą, – Lietuvos Respublikos teisingumo ministerijos nuomonę.
+7. Komisija, spręsdama dėl kapinių, kitų laidojimo vietų arba jų teritorijoje įrengtų viešųjų objektų atitikties šio įstatymo 3 straipsnio nuostatoms, turi gauti Lietuvos Respublikos krašto apsaugos ministerijos, Lietuvos Respublikos užsienio reikalų ministerijos ir Departamento nuomonę, o kai šioje dalyje nurodyti viešieji objektai naudojami vykdant religinių bendruomenių ir bendrijų veiklą, – Lietuvos Respublikos teisingumo ministerijos nuomonę.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2753, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11257
+ 
 
 
 
@@ -313,3 +326,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2753, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11257
+Lietuvos Respublikos draudimo propaguoti totalitarinius, autoritarinius režimus ir jų ideologijas įstatymo Nr. XIV-1679 2 ir 4 straipsnių pakeitimo įstatymas
