@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/3a9a99402df111eabe008ea93139d588"
 
 # Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
-Suvestinė redakcija nuo 2022-05-07 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21
  
 Įstatymas paskelbtas: TAR 2020-01-03, i. k. 2020-00039
  
@@ -863,8 +863,6 @@ Nr. XIV-1060, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09669
 
 
 Pakeisti 593 straipsnį ir jį išdėstyti taip:
- 
- 
 
 
 
@@ -1299,7 +1297,7 @@ Pakeisti 595 straipsnį ir jį išdėstyti taip:
 
 
 
-7) sudaryti sveikatos apsaugos ministro įgaliotos institucijos darbuotojams sąlygas patikrinti medicinos priemonių projektavimo, gamybos, surinkimo, sandėliavimo, laikymo, tarnybines patalpas, paimti medicinos priemonių pavyzdžius (arba suteikti prieigą prie jų), juos tirti ir bandyti;
+7) sudaryti sveikatos apsaugos ministro įgaliotos institucijos darbuotojams sąlygas patikrinti medicinos priemonių projektavimo, gamybos, surinkimo, sandėliavimo, laikymo, tarnybines patalpas, paimti medicinos priemonių pavyzdžius (arba suteikti prieigą prie jų), juos tirti ir bandyti;
 
 
 
@@ -1324,7 +1322,7 @@ Pakeisti 595 straipsnį ir jį išdėstyti taip:
 
 
 
-12) prie pateikiamos rinkai medicinos priemonės pridėti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą ir Lietuvos Respublikos valstybine kalba parengtą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą;
+12) prie pateikiamos rinkai medicinos priemonės pridėti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą, parengtą Lietuvos Respublikos valstybine kalba, arba, jeigu informacija skirta tik sveikatos priežiūros specialistams ir sveikatos priežiūros įstaiga, kuriai tiekiama medicinos priemonė, sutinka, anglų kalba;
 
 
 
@@ -1394,7 +1392,7 @@ Pakeisti 595 straipsnį ir jį išdėstyti taip:
 
 
 
-9) kartu su tiekiama ar importuojama medicinos priemone teikti visą medicinos priemonės gamintojo numatytą ir Lietuvos Respublikos valstybine kalba parengtą informaciją apie medicinos priemonės tinkamą naudojimą, priežiūrą;
+9) kartu su tiekiama ar importuojama medicinos priemone teikti visą medicinos priemonės gamintojo numatytą informaciją apie medicinos priemonės tinkamą naudojimą, priežiūrą, parengtą Lietuvos Respublikos valstybine kalba, arba, jeigu informacija skirta tik sveikatos priežiūros specialistams ir sveikatos priežiūros įstaiga, kuriai tiekiama medicinos priemonė, sutinka, anglų kalba;
 
 
 
@@ -1469,7 +1467,7 @@ Pakeisti 595 straipsnį ir jį išdėstyti taip:
 
 
 
-4) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus pateikti rinkai tiekiamų dalių ir komponentų saugą ir veiksmingumą patvirtinančius įrodymus;
+4) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, pateikti rinkai tiekiamų dalių ir komponentų saugą ir veiksmingumą patvirtinančius įrodymus;
 
 
 
@@ -1486,7 +1484,7 @@ Pakeisti 595 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Medicinos priemonių rinkos subjektai turi teisę gauti iš sveikatos apsaugos ministro įgaliotos institucijos informaciją apie jų medicinos priemonių įregistravimą, reikalavimų neatitinkančių medicinos priemonių registracijos galiojimo sustabdymą, medicinos priemonių registracijos galiojimo sustabdymo panaikinimą ar medicinos priemonių registracijos galiojimo panaikinimą, medicinos priemonių pateikimo rinkai, tiekimo, naudojimo sustabdymą, medicinos priemonių pašalinimą iš rinkos, medicinos priemonių atšaukimą iš rinkos, jeigu tai neprieštarauja komercinės paslapties neviešinimo ir asmens duomenų apsaugos principams.“
+6. Medicinos priemonių rinkos subjektai turi teisę gauti iš sveikatos apsaugos ministro įgaliotos institucijos informaciją apie jų medicinos priemonių įregistravimą, reikalavimų neatitinkančių medicinos priemonių registracijos galiojimo sustabdymą, medicinos priemonių registracijos galiojimo sustabdymo panaikinimą ar medicinos priemonių registracijos galiojimo panaikinimą, medicinos priemonių pateikimo rinkai, tiekimo, naudojimo sustabdymą, medicinos priemonių pašalinimą iš rinkos, medicinos priemonių atšaukimą iš rinkos, jeigu tai neprieštarauja komercinės paslapties neviešinimo ir asmens duomenų apsaugos principams.“.
 
 
 
@@ -1497,6 +1495,7 @@ Pakeisti 595 straipsnį ir jį išdėstyti taip:
 
 Straipsnio pakeitimai:
 Nr. XIV-1060, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09669
+Nr. XIV-2746, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11251
  
 
 
@@ -1711,3 +1710,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1060, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09669
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymo Nr. XIII-2754 5, 10 ir 14 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2746, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11251
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymo Nr. XIII-2754 10 straipsnio pakeitimo įstatymas
