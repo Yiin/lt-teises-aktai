@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/1203e3d03f0311edbc04912defe897d1"
 
 # Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34-1 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2024-06-21
+ 
+Įstatymas paskelbtas: TAR 2022-09-28, i. k. 2022-19594
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VISUOMENĖS INFORMAVIMO ĮSTATYMO NR. I-1418 341 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -45,24 +52,18 @@ Papildyti 341 straipsnį 21 dalimi:
 
 
 
-2 straipsnis. 341 straipsnio pakeitimas
-
-
-Pripažinti netekusia galios 341 straipsnio 21 dalį.
+2 straipsnis. Neteko galios nuo 2024-06-21
+Straipsnio naikinimas:
+Nr. XIV-2726, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11247
  
 
 
 
 
-
-
-3 straipsnis. Įstatymo įsigaliojimas
-
-
-Šio įstatymo 2 straipsnis įsigalioja 2024 m. spalio 1 d.
+3 straipsnis. Neteko galios nuo 2024-06-21
+Straipsnio naikinimas:
+Nr. XIV-2726, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11247
  
-
-
 
 
 
@@ -72,3 +73,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2726, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11247
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34-1 straipsnio pakeitimo įstatymo Nr. XIV-1425 2 ir 3 straipsnių pripažinimo netekusiais galios įstatymas
