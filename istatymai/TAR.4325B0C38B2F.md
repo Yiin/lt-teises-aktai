@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2024-02-13 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
  
@@ -419,10 +419,10 @@ Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
 
 
 
-3. Draudžiamaisiais įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe arba ūmios profesinės ligos, kuriuos ištyrus nustatoma, kad nelaimingas atsitikimas darbe įvyko, ūmi profesinė liga pasireiškė esant tinkamoms, saugioms, sveikatai nekenksmingoms darbo sąlygoms ir juos lėmė apdraustojo asmens neblaivumas (girtumas) arba apsvaigimas nuo psichiką veikiančių medžiagų. Nelaimingi atsitikimai pakeliui į darbą ar iš darbo nepripažįstami draudžiamaisiais įvykiais, jeigu apdraustasis asmuo buvo neblaivus ar apsvaigęs nuo psichiką veikiančių medžiagų. Šios dalies nuostatos netaikomos, jeigu apdraustojo asmens neblaivumas (girtumas) arba apsvaigimas nuo psichiką veikiančių medžiagų buvo susijęs su jam draudėjo pavesto darbo technologijos ypatybėmis.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo (2016 m. birželio 21 d. redakcija; TAR, 2016-07-05, Nr. 18827) 7 straipsnio 3 dalies nuostata „[N]elaimingi atsitikimai pakeliui į darbą ar iš darbo nepripažįstami draudžiamaisiais įvykiais, jeigu apdraustasis asmuo buvo neblaivus ar apsvaigęs nuo psichiką veikiančių medžiagų“ tiek, kiek pagal ją draudžiamaisiais įvykiais nepripažįstami nelaimingi atsitikimai pakeliui į darbą ar iš darbo, įvykę apdraustajam asmeniui esant neblaiviam ar apsvaigusiam nuo psichiką veikiančių medžiagų, kuriuos lėmė ne jo neblaivumas arba apsvaigimas nuo psichiką veikiančių medžiagų, prieštarauja Lietuvos Respublikos Konstitucijos 52 straipsniui, konstituciniam teisinės valstybės principui.
+3. Draudžiamaisiais įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe arba ūmios profesinės ligos, kuriuos ištyrus nustatoma, kad nelaimingas atsitikimas darbe įvyko, ūmi profesinė liga pasireiškė esant tinkamoms, saugioms, sveikatai nekenksmingoms darbo sąlygoms ir juos lėmė apdraustojo asmens neblaivumas (girtumas) arba apsvaigimas nuo psichiką veikiančių medžiagų, ir nelaimingi atsitikimai pakeliui į darbą ar iš darbo, kuriuos ištyrus nustatoma, kad juos lėmė apdraustojo asmens neblaivumas (girtumas) arba apsvaigimas nuo psichiką veikiančių medžiagų. Šios dalies nuostatos netaikomos, jeigu apdraustojo asmens neblaivumas (girtumas) arba apsvaigimas nuo psichiką veikiančių medžiagų buvo susijęs su jam draudėjo pavesto darbo technologijos ypatybėmis.
 Straipsnio dalies pakeitimai:
 Nr. KT15-N2/2024, 2024-02-13, paskelbta TAR 2024-02-13, i. k. 2024-02701
+Nr. XIV-2708, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11232
  
 
 
@@ -1404,3 +1404,8 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT15-N2/2024, 2024-02-13, paskelbta TAR 2024-02-13, i. k. 2024-02701
 Dėl Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo (2016 m. birželio 21 d. redakcija) 7 straipsnio 3 dalies nuostatos atitikties Lietuvos Respublikos Konstitucijai
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2708, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11232
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 7 ir 29 straipsnių pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas
