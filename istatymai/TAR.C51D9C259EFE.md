@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-20
+Suvestinė redakcija nuo 2024-06-21 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
  
@@ -1301,7 +1301,20 @@ Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 
 
 
-7. Rezistentų ir kitų asmenų, nužudytų okupacinių režimų metu, palaikai perkeliami ir laidojimo vietos įamžinamos arba pažymimos Vyriausybės nustatyta tvarka, laidojimo vietos įamžinimo arba žymėjimo projektą suderinus su Vyriausybės įgaliotomis institucijomis.
+7. Rezistentų ir kitų asmenų, nužudytų okupacinių režimų metu, palaikai perkeliami ir laidojimo vietos įamžinamos arba pažymimos Vyriausybės nustatyta tvarka, laidojimo vietos įamžinimo arba žymėjimo projektą suderinus su Vyriausybės įgaliotomis institucijomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-834, 2014-04-17, paskelbta TAR 2014-04-24, i.k 2014-04698
+Straipsnio dalies pakeitimai:
+Nr. XIV-2754, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11258
+ 
+
+
+
+
+8. Antrojo pasaulinio karo Sovietų Sąjungos ir kitų šalių, propaguojančių totalitarinius, autoritarinius režimus ir jų ideologiją, karių palaikai perkeliami ir laidojimo vietos paženklinamos Vyriausybės nustatyta tvarka, laidojimo vietos parinkimo ir paženklinimo projektą suderinus su Vyriausybės įgaliotomis institucijomis.
+Papildyta straipsnio dalimi:
+Nr. XIV-2754, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11258
+ 
 
 
 Straipsnio pakeitimai:
@@ -1462,7 +1475,10 @@ Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
 
 
 
-4. Draudžiama panaikinti įstatymų nustatyta tvarka į Kultūros vertybių registrą įrašytus kapus ir kapines. Karių kapai ir kapinės gali būti panaikinti tik tada, kai Krašto apsaugos ministerija pritaria tokiam sprendimui.
+4. Draudžiama uždaryti ir perkelti įstatymų nustatyta tvarka į Kultūros vertybių registrą įrašytus kapus ir kapines, išskyrus Lietuvos Respublikos draudimo propaguoti totalitarinius, autoritarinius režimus ir jų ideologijas įstatymo nustatytus atvejus, kai kapai ir kapinės pripažįstami kapais ir kapinėmis, kuriais propaguojami totalitariniai, autoritariniai režimai ir jų ideologijos. Karių kapai ir kapinės gali būti uždaromi ar perkeliami tik gavus Krašto apsaugos ministerijos pritarimą tokiam sprendimui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2754, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11258
+ 
 
 
 Straipsnio pakeitimai:
@@ -1809,3 +1825,13 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 3, 5, 6
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2418, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25639
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 28 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2587, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08307
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 21 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2754, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11258
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 25 ir 29 straipsnių pakeitimo įstatymas
