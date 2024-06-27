@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-26
+Suvestinė redakcija nuo 2024-06-27 iki 2024-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -970,10 +970,11 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 12 straipsnis. Socialinio draudimo įmokų mokėjimas 
 
 
-1. Draudėjo ir apdraustojo asmens socialinio draudimo įmokas į Fondą apskaičiuoja, išskaičiuoja ir moka draudėjas nuo tos dienos, kurią apdraustasis asmuo pradeda dirbti, neatsižvelgdamas į draudėjo įregistravimo Mokesčių mokėtojų registre datą. Socialinio draudimo įmokas už asmenis, nurodytus šio įstatymo 6 straipsnio 1 dalyje, sumoka valstybės institucija, perkėlusi ar išsiuntusi valstybės tarnautoją į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiuntusi dirbti į specialiąją misiją ar paskyrusi profesinės karo tarnybos karį atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip pat asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija ar Respublikos Prezidento kanceliarija. Socialinio draudimo įmokos mokamos iš institucijoms patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų. Socialinio draudimo įmokas į Fondą už asmenis, gaunančius pajamas pagal autorines sutartis, taip pat už asmenis, gaunančius pajamas iš sporto ir (ar) atlikėjo veiklos (šio įstatymo 4 straipsnio 1 dalis ir 5 straipsnio 1 dalis), apskaičiuoja, išskaičiuoja ir sumoka draudėjas atitinkamo atlygio išmokėjimo dieną, kuri laikoma asmens socialinio draudimo pradžios data. Socialinio draudimo įmokas į Fondą už meno kūrėjo statusą turinčius asmenis, nurodytus šio įstatymo 6 straipsnio 7 dalyje, Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka ir terminais apskaičiuoja Fondo valdyba, o sumoka Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas valstybės biudžeto asignavimų valdytojas iš Meno kūrėjų socialinės apsaugos programos Vyriausybės nustatyta tvarka. Socialinio draudimo įmokas į Fondą už sportininkus, nurodytus šio įstatymo 6 straipsnio 11 dalyje, Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka ir terminais apskaičiuoja Fondo valdyba. 
+1. Draudėjo ir apdraustojo asmens socialinio draudimo įmokas į Fondą apskaičiuoja, išskaičiuoja ir moka draudėjas nuo tos dienos, kurią apdraustasis asmuo pradeda dirbti, neatsižvelgdamas į draudėjo įregistravimo Mokesčių mokėtojų registre datą. Socialinio draudimo įmokas už asmenis, nurodytus šio įstatymo 6 straipsnio 1 dalyje, sumoka valstybės institucija, perkėlusi ar išsiuntusi valstybės tarnautoją į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiuntusi dirbti į specialiąją misiją ar paskyrusi profesinės karo tarnybos karį atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip pat asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija ar Respublikos Prezidento kanceliarija. Socialinio draudimo įmokos mokamos iš institucijoms patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų. Socialinio draudimo įmokas į Fondą už asmenis, gaunančius pajamas pagal autorines sutartis, taip pat už asmenis, gaunančius pajamas iš sporto ir (ar) atlikėjo veiklos (šio įstatymo 4 straipsnio 1 dalis ir 5 straipsnio 1 dalis), apskaičiuoja, išskaičiuoja ir sumoka draudėjas atitinkamo atlygio išmokėjimo dieną, kuri laikoma asmens socialinio draudimo pradžios data. Socialinio draudimo įmokas į Fondą už meno kūrėjo statusą turinčius asmenis, nurodytus šio įstatymo 6 straipsnio 7 dalyje, Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka ir terminais apskaičiuoja Fondo valdyba, o sumoka Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nurodytas valstybės biudžeto asignavimų valdytojas iš Meno kūrėjų socialinės apsaugos programos Vyriausybės nustatyta tvarka. Socialinio draudimo įmokas į Fondą už sportininkus, nurodytus šio įstatymo 6 straipsnio 11 dalyje, Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka ir terminais apskaičiuoja Fondo valdyba.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1175, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13891
 Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
+Nr. XIV-2778, 2024-06-20, paskelbta TAR 2024-06-26, i. k. 2024-11585
  
 
 
@@ -1790,12 +1791,26 @@ Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 
 
 
-3. Valstybės biudžeto asignavimų Fondo biudžetui dydžiai nustatomi Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu ir Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu.
+3. Valstybės biudžeto asignavimų Fondo biudžetui dydžiai nustatomi Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymu ir Lietuvos Respublikos atitinkamų metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2778, 2024-06-20, paskelbta TAR 2024-06-26, i. k. 2024-11585
+ 
 
 
 
 
 4. Asignavimai iš valstybės biudžeto skiriami, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja kurios nors socialinio draudimo rūšies sąnaudos arba sumažėja pajamos, o šios rūšies socialinio draudimo įmokų tarifai nekeičiami arba keičiami nepakankamu dydžiu.
+
+
+
+
+5. Fondo įprastinės veiklos įplaukų dalis, viršijanti Fondo įprastinės veiklos išlaidas, gali būti naudojama Fondo administravimo įstaigų pagal Šalpos pensijų įstatymą mokamoms socialinio draudimo senatvės, netekto darbingumo bei invalidumo pensijų priemokoms finansuoti, jeigu šių priemokų išlaidos yra didesnės negu šiam tikslui 2024 metais numatytos valstybės biudžeto lėšos. Valstybės biudžeto lėšos 2024 metų skoliniam įsipareigojimui Fondui įvykdyti nustatomos Lietuvos Respublikos 2026 metų valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatyme.
+ 
+Straipsnio 5 dalies redakcija nuo 2027-01-01:
+5. Netenka galios.
+Papildyta straipsnio dalimi:
+Nr. XIV-2778, 2024-06-20, paskelbta TAR 2024-06-26, i. k. 2024-11585
+ 
 
 
 Straipsnio pakeitimai:
@@ -3796,3 +3811,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 6, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2409, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25926
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 straipsnio pakeitimo įstatymas
+ 
+53.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2778, 2024-06-20, paskelbta TAR 2024-06-26, i. k. 2024-11585
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 23 straipsnių pakeitimo įstatymas
