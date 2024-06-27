@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2022-12-01 iki 2024-06-26
+Suvestinė redakcija nuo 2024-06-27 iki 2024-07-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -1527,12 +1527,21 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
 
 
 
-4) vartojimo kredito gavėjas pripažįstamas nedarbingu arba iš dalies darbingu Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nustatyta tvarka;
+4) vartojimo kredito gavėjui nustatomas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2737, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11574
+ 
 
 
 
 
 5) vartojimo kredito gavėjas atlieka nuolatinę privalomąją pradinę karo tarnybą.
+ 
+TAR pastaba: straipsnio 1 dalies 5 p. redakcija nuo 2026-01-01:
+5) vartojimo kredito gavėjas atlieka privalomąją pradinę karo tarnybą, išskyrus organizuojamą dalimis, arba alternatyviąją krašto apsaugos tarnybą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2737, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11574
+ 
 
 
 
@@ -3411,3 +3420,8 @@ Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22-1 straipsnio ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 23-1 ir 25-1 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2737, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11574
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 18-1 straipsnio pakeitimo įstatymas
