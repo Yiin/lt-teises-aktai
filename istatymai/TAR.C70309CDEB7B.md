@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2024-06-26
+Suvestinė redakcija nuo 2024-06-27 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -947,7 +947,10 @@ SPECIALIOSIOS PRIEMONĖS
 
 
 
-3. Būtinieji darbai neskiriami asmenims iki 18 metų, ginkluotųjų pajėgų nariams, į civilinio mobilizacinio personalo rezervą įrašytiems asmenims, taip pat tiems asmenims, kurie atlieka funkcijas, reikalingas šio įstatymo 7 straipsnio 2 dalies pagrindu valstybinio ar savivaldybių administravimo subjektams pavestoms funkcijoms atlikti ar ūkio subjektams šio įstatymo 15 straipsnyje nustatytiems įpareigojimams vykdyti. Neįgalieji, vyresni kaip 65 metų asmenys, nėščios, neseniai pagimdžiusios, krūtimi maitinančios moterys, asmenys, auginantys vaiką iki 3 metų, asmenys, vieni auginantys vaiką iki 14 metų arba neįgalų vaiką iki 18 metų, gali būti skiriami dirbti būtinuosius darbus tik su jų sutikimu.
+3. Būtinieji darbai neskiriami asmenims iki 18 metų, ginkluotųjų pajėgų nariams, į civilinio mobilizacinio personalo rezervą įrašytiems asmenims, taip pat tiems asmenims, kurie atlieka funkcijas, reikalingas šio įstatymo 7 straipsnio 2 dalies pagrindu valstybinio ar savivaldybių administravimo subjektams pavestoms funkcijoms atlikti ar ūkio subjektams šio įstatymo 15 straipsnyje nustatytiems įpareigojimams vykdyti. Asmenys su negalia, vyresni kaip 65 metų asmenys, nėščios, neseniai pagimdžiusios, krūtimi maitinančios moterys, asmenys, auginantys vaiką iki 3 metų, asmenys, vieni auginantys vaiką iki 14 metų arba vaiką su negalia iki 18 metų, gali būti skiriami dirbti būtinuosius darbus tik su jų sutikimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+ 
 
 
 
@@ -1195,7 +1198,9 @@ SPECIALIOSIOS PRIEMONĖS
 
 
 
-2. Finansavimas valstybės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms ir šioms funkcijoms atlikti reikalingam turtui ir paslaugoms įsigyti užtikrinamas Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme ir kituose valstybės ir savivaldybių finansinių išteklių paskirstymą reglamentuojančiuose teisės aktuose.
+2. Finansavimas valstybės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms ir šioms funkcijoms atlikti reikalingam turtui ir paslaugoms įsigyti užtikrinamas Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme ir kituose valstybės ir savivaldybių finansinių išteklių paskirstymą reglamentuojančiuose teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
  
 
 
@@ -1458,12 +1463,18 @@ SPECIALIOSIOS PRIEMONĖS
 25 straipsnis. Kitos priemonės
 
 
-1. Karo padėties metu gelbėjimo, evakavimo, paieškos, įvykio, ekstremaliojo įvykio, ekstremaliosios situacijos likvidavimo, padarinių šalinimo ir kiti neatidėliotini darbai vykdomi, žuvę asmenys laidojami Civilinės saugos įstatymo nustatyta tvarka.
+1. Karo padėties metu gelbėjimo, evakavimo, paieškos, įvykio, ekstremaliojo įvykio, ekstremaliosios situacijos likvidavimo, padarinių šalinimo ir kiti neatidėliotini darbai vykdomi, žuvę asmenys laidojami Krizių valdymo ir civilinės saugos įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+ 
 
 
 
 
-2. Valstybės ir savivaldybių institucijos, įstaigos, įmonės, esant poreikiui, civilinės saugos priemonių, medicinos, žemės ūkio ir maisto produktų, geriamojo vandens, kitomis atsargomis aprūpinamos Valstybės rezervo įstatymo ir Civilinės saugos įstatymo nustatyta tvarka. 
+2. Valstybės ir savivaldybių institucijos, įstaigos, įmonės, esant poreikiui, civilinės saugos priemonių, medicinos, žemės ūkio ir maisto produktų, geriamojo vandens, kitomis atsargomis aprūpinamos Valstybės rezervo įstatymo ir Krizių valdymo ir civilinės saugos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+ 
 
 
 
@@ -1826,3 +1837,8 @@ Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3229, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15863
 Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas
