@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-06-26
+Suvestinė redakcija nuo 2024-06-27 iki 2024-07-31
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -1379,9 +1379,10 @@ Nr. XIII-2815, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05695
 
 
 
-4) kredito gavėjas pripažįstamas nedalyviu arba iš dalies dalyviu Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme nustatyta tvarka.
+4) kredito gavėjui nustatomas neįgalumo lygis arba 55 procentų ar mažesnis dalyvumo lygis Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme nustatyta tvarka. 
 Straipsnio punkto pakeitimai:
 Nr. XIV-2580, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08221
+Nr. XIV-2738, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11575
  
 
 
@@ -3253,3 +3254,8 @@ Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2719, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11242
 Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 3, 7, 16, 17, 18, 20 ir 22 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2738, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11575
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 22 straipsnio pakeitimo įstatymas
