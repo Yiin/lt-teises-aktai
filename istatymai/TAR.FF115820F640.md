@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ff115820f64011ed9978886e85107ab2"
 
 # Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 27, 35, 36, 37, 38, 39, 41, 43, 53, 58-1, 59 straipsnių, II skyriaus penktojo skirsnio pakeitimo, Įstatymo papildymo nauju 3 priedu ir 40 straipsnio pripažinimo netekusiu galios įstatymas
 
+Suvestinė redakcija nuo 2024-06-29
+ 
+Įstatymas paskelbtas: TAR 2023-05-19, i. k. 2023-09520
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 AKCIZŲ ĮSTATYMO NR. IX-569 1, 2, 3, 27, 35, 36, 37, 38, 39, 41, 43, 53, 581, 59 STRAIPSNIŲ, II SKYRIAUS PENKTOJO SKIRSNIO PAKEITIMO, ĮSTATYMO PAPILDYMO NAUJU 3 PRIEDU IR 40 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 ĮSTATYMAS
@@ -303,7 +310,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 
 
-2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede. 
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
 
 
 
@@ -325,13 +332,31 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai naudojamoje žemės ūkio technikoje (įskaitant traktorius), žvejybos laivų varikliuose, taikomas 60 eurų už 1 000 litrų produkto akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių. Šioje dalyje gazolių kiekis nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
+3. Gazoliams, skirtiems naudoti žemės ūkio veiklos, įskaitant akvakultūros ar verslinės žvejybos vidaus vandenyse veiklą, subjektams žemės ūkio produktų gamybai, kaip tai apibrėžta Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme, taikomas akcizų tarifas, per vienus metus neviršijant Vyriausybės nustatytų gazolių kiekių, esant jų 15 ℃ temperatūrai, susidedantis iš:
+
+
+1) pastoviosios dalies – 60 eurų už 1 000 litrų produkto;
+
+
+
+
+2) kintamosios dalies – saugumo dedamosios – eurais išreiškiamos akcizų tarifo dalies, taikomos šioje dalyje nurodytiems gazoliams ir nurodytos šio įstatymo 3 priede.
 
 
 
 
 
 
+4. Šio straipsnio 3 dalyje nustatytos lengvatos taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.“.
+
+
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+ 
 
 
 
@@ -381,7 +406,7 @@ Pakeisti 38 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-9 straipsnis. 39 straipsnio pakeitimas 
+9 straipsnis. 39 straipsnio pakeitimas
 
 
 Pakeisti 39 straipsnį ir jį išdėstyti taip:
@@ -392,7 +417,7 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 „39 straipsnis. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikomi akcizų tarifai
 
 
-Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikomas akcizų tarifas, susidedantis iš:
+1. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), jeigu šiame straipsnyje nenustatyta kitaip, taikomas akcizų tarifas, susidedantis iš:
 
 
 1) pastoviosios dalies – 304,10 euro už toną produkto;
@@ -400,7 +425,34 @@ Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikoma
 
 
 
-2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.“
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
+
+
+
+
+
+
+2. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), kai jie naudojami kaip šildymui skirtas kuras, išskyrus šio straipsnio 3 dalyje nurodytą atvejį, taip pat šildymui skirtoms naftos dujoms ir dujiniams angliavandeniliams, išpilstytiems į buitinius dujų balionus, taikomas 13 eurų už toną produkto akcizų tarifas.
+
+
+
+
+3. Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas), kai jie naudojami kaip šildymui skirtas kuras verslo reikmėms (šiame įstatyme naftos dujų ir dujinių angliavandenilių (išskyrus gamtines dujas) kaip šildymui skirto kuro naudojimas verslo reikmėms suprantamas kaip jų naudojimas asmens, kuris vykdo ekonominę veiklą, kaip ji apibrėžta Pridėtinės vertės mokesčio įstatyme), taikomas akcizų tarifas, susidedantis iš:
+
+
+1) pastoviosios dalies – 13 eurų už toną produkto;
+
+
+
+
+2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede.
+
+
+
+
+
+
+4. Šio straipsnio 2 ir 3 dalyse nustatytų lengvatų taikymo tvarką nustato centrinis mokesčių administratorius.“.
 
 
 
@@ -409,8 +461,9 @@ Naftos dujoms ir dujiniams angliavandeniliams (išskyrus gamtines dujas) taikoma
 
 
 
-
-
+Straipsnio pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+ 
 
 
 
@@ -502,7 +555,7 @@ Akcizų tarifas už energinius produktus, nurodytus šio įstatymo 35, 36, 37 ir
 
 
 
-2. Papildyti 43 straipsnį 11, 12 ir 13 dalimis:
+2. Papildyti 43 straipsnį 11 ir 12 dalimis:
 
 
 
@@ -530,33 +583,16 @@ Akcizų tarifas už energinius produktus, nurodytus šio įstatymo 35, 36, 37 ir
 
 
 
-2) mokėtina akcizų suma už energinius produktus ir elektros energiją, naudojamus šio straipsnio 11 dalyje nurodytais atvejais, sudaro ne mažiau kaip 0,5 procento skirtumo tarp visų pridėtinės vertės mokesčiu apmokestinamų pardavimų, įskaitant eksportą, sumų (išskyrus pridėtinės vertės mokestį) ir pridėtinės vertės mokesčiu apmokestinamų pirkimų, įskaitant importą, sumų (išskyrus atskaitomą pridėtinės vertės mokesčio sumą) per kalendorinius metus.
+2) mokėtina akcizų suma už energinius produktus ir elektros energiją, naudojamus šio straipsnio 11 dalyje nurodytais atvejais, sudaro ne mažiau kaip 0,5 procento skirtumo tarp visų pridėtinės vertės mokesčiu apmokestinamų pardavimų, įskaitant eksportą, sumų (išskyrus pridėtinės vertės mokestį) ir pridėtinės vertės mokesčiu apmokestinamų pirkimų, įskaitant importą, sumų (išskyrus atskaitomą pridėtinės vertės mokesčio sumą) per kalendorinius metus.“
 
 
 
 
 
 
-13. CO2 dedamoji netaikoma:
-
-
-1) naftos dujoms ir dujiniams angliavandeniliams, išpilstytiems į buitinius dujų balionus;
-
-
-
-
-2) neišpilstytoms naftos dujoms ir dujiniams angliavandeniliams, įsigyjamiems arba importuojamiems centrinio mokesčių administratoriaus nustatyta tvarka registruotų vartotojų, tiekiančių (naudojančių) jas (juos) buitinėms reikmėms (šildymui, maisto ruošimui ir pan.), įskaitant asmenis, kurie išpilsto naftos dujas į buitinius dujų balionus;
-
-
-
-
-3) neišpilstytoms naftos dujoms ir dujiniams angliavandeniliams, centrinio mokesčių administratoriaus nustatyta tvarka registruotų vartotojų tiekiamiems į grupinius įrenginius, per kuriuos jie gali būti tiekiami tik buitinėms reikmėms.“
-
-
-
-
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+ 
 
 
 
@@ -566,11 +602,14 @@ Akcizų tarifas už energinius produktus, nurodytus šio įstatymo 35, 36, 37 ir
 
 
 
-„2. Šio straipsnio 11, 12 ir 13 dalyse nustatytos lengvatos taikomos tiesiogiai arba grąžinant CO2 dedamąją. Šio straipsnio 1, 11, 12 ir 13 dalyse nurodytų lengvatų taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija. Apskaitos reikalavimus šio straipsnio 13 dalies 2 ir 3 punktuose nurodytiems registruotiems vartotojams nustato centrinis mokesčių administratorius.“
+„2. Šio straipsnio 11 ir 12 dalyse nustatytos lengvatos taikomos tiesiogiai arba grąžinant CO2 dedamąją. Šio straipsnio 1, 11 ir 12 dalyse nurodytų lengvatų taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija.“.
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+ 
 
 
 
@@ -872,13 +911,13 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 Papildyti Įstatymą nauju 3 priedu:
+
+
  
 
 
-
-
-„Lietuvos Respublikos 
-akcizų įstatymo 
+„Lietuvos Respublikos
+akcizų įstatymo
 3 priedas
  
 ANGLIES DIOKSIDO DEDAMOJI 2025–2030 METAIS
@@ -898,74 +937,74 @@ ANGLIES DIOKSIDO DEDAMOJI 2025–2030 METAIS
 
 
  Benzinas, Eur/1 000 l 
- 24 
- 48 
- 72 
+ 47 
  96 
  120 
+ 144 
+ 144 
  144 
 
 
  Žibalas, Eur/1 000 l 
- 27,1 
- 54,2 
- 81,3 
+ 53,6 
  108,4 
  135,5 
+ 162,6 
+ 162,6 
  162,6 
 
 
  Lietuvos Respublikos akcizų įstatymo 37 straipsnio 1 ir 2 dalyse nurodyti gazoliai, KN  2710 19 91‒2710 19 99 subpozicijose klasifikuojami energiniai produktai, Akcizų įstatymo 38 straipsnio 2 dalyje nurodytas skystasis kuras (mazutai), Eur/1 000 l 
- 26,2 
- 52,4 
- 78,6 
+ 53,6 
  104,8 
  131 
  157,2 
+ 157,2 
+ 157,2 
 
 
- Akcizų įstatymo 38 straipsnio 1 dalyje nurodytas skystasis kuras (mazutai), Eur/t 
- 31,2 
- 62,4 
- 93,6 
+ Akcizų įstatymo 38 straipsnio 1 dalyje nurodytas skystasis kuras (mazutai, orimulsija), Eur/t 
+ 68,6 
  124,8 
  156 
+ 187,2 
+ 187,2 
  187,2 
 
 
  Naftos dujos ir dujiniai angliavandeniliai (išskyrus gamtines dujas), Eur/t 
- 30,6 
- 61,2 
- 91,8 
+ 66,8 
  122,4 
  153 
+ 183,6 
+ 183,6 
  183,6 
 
 
  Akmens anglys, Eur/t 
- 21,8 
- 43,6 
- 65,4 
+ 40,4 
  87,2 
  109 
+ 130,8 
+ 130,8 
  130,8 
 
 
  Koksas ir lignitas, Eur/t 
- 32 
- 64 
- 96 
+ 71 
  128 
  160 
+ 192 
+ 192 
  192 
 
 
  Šildymui skirtos durpės, Eur/t 
- 16,6 
- 33,2 
- 49,8 
+ 24,8 
  66,4 
  83 
+ 99,6 
+ 99,6 
  99,6 
 
 
@@ -973,16 +1012,44 @@ ANGLIES DIOKSIDO DEDAMOJI 2025–2030 METAIS
  
 
 
-
-
-________________“.
+SAUGUMO DEDAMOJI 2025–2030 METAIS
  
 
 
 
+ Energiniai produktai 
+ 2025 m. 
+ 2026 m. 
+ 2027 m. 
+ 2028 m. 
+ 2029 m. 
+ 2030 m. 
 
 
 
+
+ Akcizų įstatymo 37 straipsnio 3 dalyje nurodyti gazoliai, Eur/1 000 l 
+ 25 
+ 50 
+ 50 
+ 50 
+ 50 
+ 50 
+
+
+
+_________________“.
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+ 
 
 
 
@@ -1036,7 +1103,9 @@ Buvusį Įstatymo 3 priedą laikyti 4 priedu.
 
 
 
-8. Vyriausybė ar jos įgaliota institucija iki 2024 m. rugsėjo 30 d. priima šio straipsnio 2 dalyje nurodytų šio įstatymo nuostatų įgyvendinamuosius teisės aktus.
+8. Vyriausybė ar jos įgaliota institucija ir centrinis mokesčių administratorius iki 2024 m. rugsėjo 30 d. priima šio straipsnio 2 dalyje nurodytų šio įstatymo nuostatų įgyvendinamuosius teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
  
 
 
@@ -1049,3 +1118,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                               Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 27, 35, 36, 37, 38, 39, 41, 43, 53, 58-1, 59 straipsnių, II skyriaus penktojo skirsnio pakeitimo, Įstatymo papildymo nauju 3 priedu ir 40 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIV-1933 7, 9, 12, 17 ir 19 straipsnių pakeitimo įstatymas
