@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2021-12-23 iki 2024-06-28
+Suvestinė redakcija nuo 2024-06-29
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
  
@@ -484,7 +484,10 @@ Nr. XIV-744, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26574
 1. Vyriausybė, apsvarsčiusi su Lietuvos savivaldybių asociacija, kiekvienais metais teikia Seimui tvirtinti šiuos metų rodiklius:
 
 
-1) pastoviąją gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą. Ateinančių metų pastovioji gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama einamųjų metų pastoviąją gyventojų pajamų mokesčio dalį (procentais) koreguojant atsižvelgus į einamųjų ar ateinančių biudžetinių metų Seimo ir (ar) Vyriausybės sprendimų nulemtus savivaldybių pajamų pokyčius. Dėl Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių pajamų pokyčių, kurie mažintų savivaldybių biudžetų prognozuojamas pajamas, pastovioji gyventojų pajamų mokesčio dalis (procentais) koreguojama taip:
+1) pastoviąją gyventojų pajamų mokesčio dalį (procentais), tenkančią visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, išskyrus fiksuoto dydžio gyventojų pajamų mokestį, mokamą už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą. Ateinančių metų pastovioji gyventojų pajamų mokesčio dalis (procentais) apskaičiuojama einamųjų metų pastoviąją gyventojų pajamų mokesčio dalį (procentais) koreguojant atsižvelgus į einamųjų ar ateinančių biudžetinių metų Seimo ir (ar) Vyriausybės sprendimų nulemtus savivaldybių pajamų pokyčius, išskyrus pokyčius dėl Lietuvos Respublikos Valstybės gynybos fondo įstatyme nustatytų atvejų. Dėl Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių pajamų pokyčių, kurie mažintų savivaldybių biudžetų prognozuojamas pajamas, pastovioji gyventojų pajamų mokesčio dalis (procentais) koreguojama taip: 
+TAR pastaba: 1 punkto nuostatos taikomos rengiant Lietuvos Respublikos 2025–2027 metų ir vėlesnių metų biudžeto patvirtinimo įstatymų projektus.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2772, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12075
 
 
 a) jeigu mažėja savivaldybių iš gyventojų pajamų mokesčio gaunamos savivaldybių biudžetų prognozuojamos pajamos, naudojama suma apskaičiuojama pagal formulę:
@@ -916,3 +919,8 @@ Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-744, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26574
 Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 2, 5, 9-1, 10 straipsnių ir penktojo skirsnio pakeitimo ir 10-1 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2772, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12075
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 10 straipsnio pakeitimo įstatymas
