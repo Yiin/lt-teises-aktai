@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/61b5aa40794511e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymas
 
-Suvestinė redakcija nuo 2020-06-23 iki 2024-06-29
+Suvestinė redakcija nuo 2024-06-30 iki 2024-12-31
  
 Įstatymas paskelbtas: TAR 2018-06-26, i. k. 2018-10518
  
@@ -40,7 +40,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šio įstatymo paskirtis – nustatyti finansinės paskatos jaunoms šeimoms, įsigyjančioms pirmąjį būstą Lietuvos Respublikos regionuose, (toliau – finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms) teikimo sąlygas, tvarką ir jos finansavimą.
+1. Šio įstatymo paskirtis – nustatyti finansinės paskatos jaunoms šeimoms, įsigyjančioms pirmąjį būstą šiuo įstatymu apibrėžiamose Lietuvos Respublikos teritorijose, (toliau – finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms) teikimo sąlygas, tvarką ir jos finansavimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2833, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12151
+ 
 
 
 
@@ -91,7 +94,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos regioninės plėtros įstatyme ir Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatyme.
+4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos kurortų ir kurortinių teritorijų darnaus vystymo įstatyme ir Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2833, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12151
  
 
 
@@ -173,7 +178,10 @@ Nr. XIII-2146, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09048
 
 
 
-2. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms teikiama atsižvelgiant į atitinkamų metų Lietuvos Respublikos valstybės biudžeto asignavimus finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti.
+2. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms teikiama socialinės apsaugos ir darbo ministro nustatyta tvarka, atsižvelgiant į atitinkamų metų Lietuvos Respublikos valstybės biudžeto asignavimus finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2833, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12151
+ 
 
 
 
@@ -214,9 +222,25 @@ Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
 
 
 
-3) įsigyja pirmąjį būstą Lietuvos Respublikos regione, kurio teritorijoje nekilnojamojo turto ploto vieneto normatyvinė vertė yra ne mažiau kaip 65 procentais mažesnė negu didžiausia būsto daugiabučiuose pastatuose vieno kvadratinio metro normatyvinė vertė, kurią nustato ir savo interneto svetainėje skelbia Nekilnojamojo turto registro tvarkytojas pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose, savivaldybių centruose ir kitose savivaldybių teritorijose. Lietuvos Respublikos regionai, kurių teritorijose pirmąjį būstą įsigyjančios jaunos šeimos turi teisę į finansinę paskatą, peržiūrimi tik kai pagal šiame punkte nustatytą tvarką apskaičiuota nekilnojamojo turto ploto vieneto normatyvinė vertė to regiono teritorijoje padidėjo daugiau kaip 20 procentų;
+3) įsigyja pirmąjį būstą Lietuvos Respublikos teritorijoje, išskyrus:
+
+
+a) savivaldybės, kurioje nuolatinių Lietuvos gyventojų yra daugiau kaip 150 000, teritoriją;
+
+
+
+
+b) šio punkto a papunktyje nurodytą savivaldybę supančią savivaldybės, kurioje nuolatinių Lietuvos gyventojų yra daugiau kaip 60 000, teritoriją, kurioje būsto daugiabučiuose pastatuose ploto vieneto normatyvinė vertė, kurią nustato ir savo interneto svetainėje skelbia Nekilnojamojo turto registro tvarkytojas pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes, viršija vidutinę būsto daugiabučiuose pastatuose ploto vieneto normatyvinę vertę toje savivaldybėje;
+
+
+
+
+c) kurorto teritoriją;
+
+
 Straipsnio punkto pakeitimai:
 Nr. XIII-3060, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13627
+Nr. XIV-2833, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12151
  
 
 
@@ -245,7 +269,10 @@ Nr. XIII-3060, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13627
 6 straipsnis. Kreipimasis dėl finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms 
 
 
-1. Šio įstatymo 5 straipsnio 1 dalyje nustatytus reikalavimus atitinkančios jaunos šeimos, pageidaujančios gauti finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms, dėl pažymos išdavimo socialinės apsaugos ir darbo ministro nustatyta tvarka kreipiasi į savivaldybės, kurios teritorijoje ketina įsigyti pirmąjį būstą, administraciją, pateikdamos prašymą ir socialinės apsaugos ir darbo ministro nustatytus dokumentus ir (ar) duomenis, kurių reikia nustatant jaunų šeimų teisę į finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms (toliau – papildomi dokumentai).
+1. Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai skyrus einamųjų metų Lietuvos Respublikos valstybės biudžeto asignavimų pažymoms išduoti iš atitinkamai programai vykdyti skirtų lėšų, šio įstatymo 5 straipsnio 1 dalyje nustatytus reikalavimus atitinkančios jaunos šeimos, pageidaujančios gauti finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms, dėl pažymos išdavimo socialinės apsaugos ir darbo ministro nustatyta tvarka kreipiasi į savivaldybės, kurios teritorijoje ketina įsigyti pirmąjį būstą, administraciją, pateikdamos prašymą ir socialinės apsaugos ir darbo ministro nustatytus dokumentus ir (ar) duomenis, kurių reikia nustatant jaunų šeimų teisę į finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms, (toliau – papildomi dokumentai). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2833, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12151
+ 
 
 
 
@@ -255,9 +282,10 @@ Nr. XIII-3060, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13627
 
 
 
-3. Savivaldybės administracija ne vėliau kaip per 10 darbo dienų nuo šio straipsnio 1 dalyje nurodytų dokumentų gavimo dienos jaunai šeimai išduoda pažymą, galiojančią 15 kalendorinių dienų nuo jos išdavimo dienos, bet ne ilgiau kaip iki tų metų gruodžio 31 dienos, arba pateikia motyvuotą rašytinį atsisakymą išduoti pažymą, jeigu jauna šeima neatitinka šio įstatymo 5 straipsnio 1 dalyje nustatytų reikalavimų arba jeigu yra panaudoti visi tų metų Lietuvos Respublikos valstybės biudžeto asignavimai finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti. Tais atvejais, kai savivaldybės administracija atsisako išduoti pažymą jaunai šeimai, nes yra panaudoti visi tų metų Lietuvos Respublikos valstybės biudžeto asignavimai finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti, jauna šeima pagal prašymo užregistravimo savivaldybės administracijoje datą ir laiką įrašoma į jaunų šeimų, laukiančių finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms, sąrašą. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms teikiama laikantis eiliškumo, išskyrus atvejus, kai kreipiamasi dėl papildomos subsidijos gavimo. 
+3. Savivaldybės administracija ne vėliau kaip per 10 darbo dienų nuo šio straipsnio 1 dalyje nurodytų dokumentų gavimo dienos jaunai šeimai išduoda pažymą, galiojančią 15 kalendorinių dienų nuo jos išdavimo dienos, arba pateikia motyvuotą rašytinį atsisakymą išduoti pažymą, jeigu jauna šeima neatitinka šio įstatymo 5 straipsnio 1 dalyje nustatytų reikalavimų. Jeigu yra panaudoti visi tų metų Lietuvos Respublikos valstybės biudžeto asignavimai finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti, jauna šeima pagal prašymo užregistravimo savivaldybės administracijoje datą ir laiką įrašoma į jaunų šeimų, laukiančių finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms, sąrašą. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms teikiama laikantis eiliškumo, išskyrus atvejus, kai kreipiamasi dėl papildomos subsidijos gavimo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
+Nr. XIV-2833, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12151
  
 
 
@@ -350,9 +378,10 @@ Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
 
 
 
-3. Socialinės apsaugos ir darbo ministerijos interneto svetainėje kiekvienais metais ne vėliau kaip vasario 1 dieną paskelbiama informacija apie Lietuvos Respublikos regionus, kurių teritorijose nekilnojamojo turto ploto vieneto normatyvinė vertė yra ne mažiau kaip 65 procentais mažesnė negu didžiausia būsto daugiabučiuose pastatuose vieno kvadratinio metro normatyvinė vertė, kurią nustato ir savo interneto svetainėje skelbia Nekilnojamojo turto registro tvarkytojas pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose, savivaldybių centruose ir kitose savivaldybių teritorijose, ir apie Lietuvos Respublikos regionų teritorijas, kuriose nekilnojamojo turto ploto vieneto normatyvinės vertės pokytis neviršija 20 procentų.
+3. Socialinės apsaugos ir darbo ministerijos interneto svetainėje kiekvienais metais ne vėliau kaip vasario 1 dieną paskelbiama informacija apie Lietuvos Respublikos teritorijas, kuriose teikiama finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3060, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13627
+Nr. XIV-2833, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12151
  
 
 
@@ -485,3 +514,8 @@ Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaun
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3060, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13627
 Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymo Nr. XIII-1281 5 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2833, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12151
+Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymo Nr. XIII-1281 1, 2, 4, 5, 6 ir 8 straipsnių pakeitimo ir finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymo Nr. XIII-1281 pakeitimo įstatymas
