@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2024-06-27 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -294,7 +294,10 @@ Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
 
 
-4. Krašto apsaugos sistemos profesinės karo tarnybos kariai, taip pat kariai savanoriai, kiti aktyviojo rezervo kariai, parengtojo rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių, draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+4. Krašto apsaugos sistemos profesinės karo tarnybos kariai, taip pat kariai savanoriai, kiti savanoriškos nenuolatinės karo tarnybos kariai, aktyviojo kariuomenės personalo rezervo kariai, rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių, draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2742, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11580
+ 
 
 
 
@@ -3816,3 +3819,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2778, 2024-06-20, paskelbta TAR 2024-06-26, i. k. 2024-11585
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 23 straipsnių pakeitimo įstatymas
+ 
+54.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2742, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11580
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 straipsnio pakeitimo įstatymas
