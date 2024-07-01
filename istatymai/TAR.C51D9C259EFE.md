@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
  
@@ -1107,7 +1107,10 @@ Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 
 
 
-3. Jeigu nėra šio straipsnio 1 ir 2 dalyse nurodytų ir galinčių organizuoti laidojimą asmenų arba nežinoma, kur tokie asmenys yra, laidojimą organizuoja savivaldybė, kurios teritorijoje asmuo nuolat gyveno. Jeigu asmuo neturėjo nuolatinės gyvenamosios vietos, laidojimą organizuoja savivaldybė, kurios teritorijoje buvo nustatytas mirties faktas. Šioje dalyje nurodytais atvejais laidojantis asmuo yra savivaldybės vykdomosios institucijos įgaliotas asmuo.
+3. Jeigu nėra šio straipsnio 1 ir 2 dalyse nurodytų ir galinčių organizuoti laidojimą asmenų arba nežinoma, kur tokie asmenys yra, laidojimą organizuoja savivaldybė, kurios teritorijoje asmuo nuolat gyveno. Jeigu miršta atsakingas už kapavietės ar kolumbariumo nišos priežiūrą asmuo arba asmuo, kuriam Kapinių tvarkymo taisyklių nustatyta tvarka buvo suteikta teisė prižiūrėti neprižiūrimą kapavietę, laikantis Kapinių tvarkymo taisyklėse ir Leidimo laidoti neprižiūrimose kapavietėse išdavimo tvarkos apraše nustatytos tvarkos, šie asmenys gali būti palaidoti toje kapavietėje ar kolumbariumo nišoje, jeigu jos yra laidojimą organizuojančios savivaldybės teritorijoje. Jeigu asmuo neturėjo nuolatinės gyvenamosios vietos, laidojimą organizuoja savivaldybė, kurios teritorijoje buvo nustatytas mirties faktas. Šioje dalyje nurodytais atvejais laidojantis asmuo yra savivaldybės vykdomosios institucijos įgaliotas asmuo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2587, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08307
+ 
 
 
 
