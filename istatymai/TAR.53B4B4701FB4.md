@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/53b4b4701fb411eeb233e8b04dc9bb3d"
 
 # Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymo Nr. I-2375 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2024-07-01
+ 
+Įstatymas paskelbtas: TAR 2023-07-11, i. k. 2023-14328
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 APYLINKIŲ TEISMŲ ĮSTEIGIMO IR JŲ VEIKLOS TERITORIJŲ NUSTATYMO ĮSTATYMO NR. I-2375 PAKEITIMO
 ĮSTATYMAS
@@ -408,9 +415,7 @@ Pakeisti Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos terit
 
 
 
-„LIETUVOS RESPUBLIKOS
-APYLINKIŲ TEISMŲ ĮSTEIGIMO IR JŲ VEIKLOS TERITORIJŲ NUSTATYMO 
-ĮSTATYMAS
+„LIETUVOS RESPUBLIKOS APYLINKIŲ TEISMŲ ĮSTEIGIMO IR JŲ VEIKLOS TERITORIJŲ NUSTATYMO  ĮSTATYMAS 
  
 
 
@@ -430,7 +435,7 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-3) Klaipėdos apylinkės teismas;
+3) Klaipėdos apylinkės teismas. Šį teismą sudaro Klaipėdos apylinkės teismo Klaipėdos rūmai ir Klaipėdos apylinkės teismo Plungės rūmai;
 
 
 
@@ -445,37 +450,32 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-6) Plungės apylinkės teismas. Šį teismą sudaro Plungės apylinkės teismo Kretingos rūmai, Plungės apylinkės teismo Palangos rūmai ir Plungės apylinkės teismo Plungės rūmai; šio teismo buveinė yra Plungės apylinkės teismo Plungės rūmuose;
+6) Šiaulių apylinkės teismas. Šį teismą sudaro Šiaulių apylinkės teismo Radviliškio rūmai, Šiaulių apylinkės teismo Raseinių rūmai ir Šiaulių apylinkės teismo Šiaulių rūmai; šio teismo buveinė yra Šiaulių apylinkės teismo Šiaulių rūmuose;
 
 
 
 
-7) Šiaulių apylinkės teismas. Šį teismą sudaro Šiaulių apylinkės teismo Radviliškio rūmai, Šiaulių apylinkės teismo Raseinių rūmai ir Šiaulių apylinkės teismo Šiaulių rūmai; šio teismo buveinė yra Šiaulių apylinkės teismo Šiaulių rūmuose;
+7) Tauragės apylinkės teismas. Šį teismą sudaro Tauragės apylinkės teismo Šilutės rūmai ir Tauragės apylinkės teismo Tauragės rūmai; šio teismo buveinė yra Tauragės apylinkės teismo Tauragės rūmuose;
 
 
 
 
-8) Tauragės apylinkės teismas. Šį teismą sudaro Tauragės apylinkės teismo Šilutės rūmai ir Tauragės apylinkės teismo Tauragės rūmai; šio teismo buveinė yra Tauragės apylinkės teismo Tauragės rūmuose;
+8) Telšių apylinkės teismas. Šį teismą sudaro Telšių apylinkės teismo Mažeikių rūmai ir Telšių apylinkės teismo Telšių rūmai; šio teismo buveinė yra Telšių apylinkės teismo Telšių rūmuose;
 
 
 
 
-9) Telšių apylinkės teismas. Šį teismą sudaro Telšių apylinkės teismo Mažeikių rūmai ir Telšių apylinkės teismo Telšių rūmai; šio teismo buveinė yra Telšių apylinkės teismo Telšių rūmuose;
+9) Utenos apylinkės teismas. Šį teismą sudaro Utenos apylinkės teismo Anykščių rūmai, Utenos apylinkės teismo Ignalinos rūmai, Utenos apylinkės teismo Utenos rūmai ir Utenos apylinkės teismo Zarasų rūmai; šio teismo buveinė yra Utenos apylinkės teismo Utenos rūmuose;
 
 
 
 
-10) Utenos apylinkės teismas. Šį teismą sudaro Utenos apylinkės teismo Anykščių rūmai, Utenos apylinkės teismo Ignalinos rūmai, Utenos apylinkės teismo Utenos rūmai ir Utenos apylinkės teismo Zarasų rūmai; šio teismo buveinė yra Utenos apylinkės teismo Utenos rūmuose;
+10) Vilniaus regiono apylinkės teismas. Šį teismą sudaro Vilniaus regiono apylinkės teismo Šalčininkų rūmai, Vilniaus regiono apylinkės teismo Trakų rūmai, Vilniaus regiono apylinkės teismo Ukmergės rūmai ir Vilniaus regiono apylinkės teismo Vilniaus rajono rūmai; šio teismo buveinė yra Vilniaus regiono apylinkės teismo Vilniaus rajono rūmuose;
 
 
 
 
-11) Vilniaus regiono apylinkės teismas. Šį teismą sudaro Vilniaus regiono apylinkės teismo Šalčininkų rūmai, Vilniaus regiono apylinkės teismo Trakų rūmai, Vilniaus regiono apylinkės teismo Ukmergės rūmai ir Vilniaus regiono apylinkės teismo Vilniaus rajono rūmai; šio teismo buveinė yra Vilniaus regiono apylinkės teismo Vilniaus rajono rūmuose;
-
-
-
-
-12) Vilniaus miesto apylinkės teismas.
+11) Vilniaus miesto apylinkės teismas.
  
 
 
@@ -518,7 +518,17 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-3. Klaipėdos apylinkės teismo veiklos teritorija apima Klaipėdos miesto savivaldybės teritoriją, Klaipėdos rajono savivaldybės teritoriją ir Neringos savivaldybės teritoriją. 
+3. Klaipėdos apylinkės teismo veiklos teritorija apima Klaipėdos miesto savivaldybės teritoriją, Klaipėdos rajono savivaldybės teritoriją, Kretingos rajono savivaldybės teritoriją, Neringos savivaldybės teritoriją, Plungės rajono savivaldybės teritoriją, Rietavo savivaldybės teritoriją, Skuodo rajono savivaldybės teritoriją ir Palangos miesto savivaldybės teritoriją. Klaipėdos apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
+
+
+1) Klaipėdos rūmų veiklos teritorija – Klaipėdos miesto savivaldybės teritoriją, Klaipėdos rajono savivaldybės teritoriją, Kretingos rajono savivaldybės teritoriją, Neringos savivaldybės teritoriją ir Palangos miesto savivaldybės teritoriją;
+
+
+
+
+2) Plungės rūmų veiklos teritorija – Plungės rajono savivaldybės teritoriją, Rietavo savivaldybės teritoriją ir Skuodo rajono savivaldybės teritoriją.
+
+
 
 
 
@@ -558,27 +568,7 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-6. Plungės apylinkės teismo veiklos teritorija apima Kretingos rajono savivaldybės teritoriją, Palangos miesto savivaldybės teritoriją, Plungės rajono savivaldybės teritoriją, Rietavo savivaldybės teritoriją ir Skuodo rajono savivaldybės teritoriją. Plungės apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
-
-
-1) Kretingos rūmų veiklos teritorija – Kretingos rajono savivaldybės teritoriją;
-
-
-
-
-2) Palangos rūmų veiklos teritorija – Palangos miesto savivaldybės teritoriją;
-
-
-
-
-3) Plungės rūmų veiklos teritorija – Plungės rajono savivaldybės teritoriją, Rietavo savivaldybės teritoriją ir Skuodo rajono savivaldybės teritoriją.
-
-
-
-
-
-
-7. Šiaulių apylinkės teismo veiklos teritorija apima Joniškio rajono savivaldybės teritoriją, Kelmės rajono savivaldybės teritoriją, Pakruojo rajono savivaldybės teritoriją, Radviliškio rajono savivaldybės teritoriją, Raseinių rajono savivaldybės teritoriją, Šiaulių miesto savivaldybės teritoriją ir Šiaulių rajono savivaldybės teritoriją. Šiaulių apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
+6. Šiaulių apylinkės teismo veiklos teritorija apima Joniškio rajono savivaldybės teritoriją, Kelmės rajono savivaldybės teritoriją, Pakruojo rajono savivaldybės teritoriją, Radviliškio rajono savivaldybės teritoriją, Raseinių rajono savivaldybės teritoriją, Šiaulių miesto savivaldybės teritoriją ir Šiaulių rajono savivaldybės teritoriją. Šiaulių apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
 1) Radviliškio rūmų veiklos teritorija – Joniškio rajono savivaldybės teritoriją, Pakruojo rajono savivaldybės teritoriją ir Radviliškio rajono savivaldybės teritoriją;
@@ -598,7 +588,7 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-8. Tauragės apylinkės teismo veiklos teritorija apima Jurbarko rajono savivaldybės teritoriją, Pagėgių savivaldybės teritoriją, Šilalės rajono savivaldybės teritoriją, Šilutės rajono savivaldybės teritoriją ir Tauragės rajono savivaldybės teritoriją. Tauragės apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
+7. Tauragės apylinkės teismo veiklos teritorija apima Jurbarko rajono savivaldybės teritoriją, Pagėgių savivaldybės teritoriją, Šilalės rajono savivaldybės teritoriją, Šilutės rajono savivaldybės teritoriją ir Tauragės rajono savivaldybės teritoriją. Tauragės apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
 1) Šilutės rūmų veiklos teritorija – Šilutės rajono savivaldybės teritoriją;
@@ -613,7 +603,7 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-9. Telšių apylinkės teismo veiklos teritorija apima Akmenės rajono savivaldybės teritoriją, Mažeikių rajono savivaldybės teritoriją ir Telšių rajono savivaldybės teritoriją. Telšių apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
+8. Telšių apylinkės teismo veiklos teritorija apima Akmenės rajono savivaldybės teritoriją, Mažeikių rajono savivaldybės teritoriją ir Telšių rajono savivaldybės teritoriją. Telšių apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
 1) Mažeikių rūmų veiklos teritorija – Akmenės rajono savivaldybės teritoriją ir Mažeikių rajono savivaldybės teritoriją;
@@ -628,7 +618,7 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-10. Utenos apylinkės teismo veiklos teritorija apima Anykščių rajono savivaldybės teritoriją, Ignalinos rajono savivaldybės teritoriją, Molėtų rajono savivaldybės teritoriją, Švenčionių rajono savivaldybės teritoriją, Utenos rajono savivaldybės teritoriją, Visagino savivaldybės teritoriją ir Zarasų rajono savivaldybės teritoriją. Utenos apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
+9. Utenos apylinkės teismo veiklos teritorija apima Anykščių rajono savivaldybės teritoriją, Ignalinos rajono savivaldybės teritoriją, Molėtų rajono savivaldybės teritoriją, Švenčionių rajono savivaldybės teritoriją, Utenos rajono savivaldybės teritoriją, Visagino savivaldybės teritoriją ir Zarasų rajono savivaldybės teritoriją. Utenos apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
 1) Anykščių rūmų veiklos teritorija – Anykščių rajono savivaldybės teritoriją ir Molėtų rajono savivaldybės teritoriją;
@@ -653,7 +643,7 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-11. Vilniaus regiono apylinkės teismo veiklos teritorija apima Elektrėnų savivaldybės teritoriją, Šalčininkų rajono savivaldybės teritoriją, Širvintų rajono savivaldybės teritoriją, Trakų rajono savivaldybės teritoriją, Ukmergės rajono savivaldybės teritoriją ir Vilniaus rajono savivaldybės teritoriją. Vilniaus regiono apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
+10. Vilniaus regiono apylinkės teismo veiklos teritorija apima Elektrėnų savivaldybės teritoriją, Šalčininkų rajono savivaldybės teritoriją, Širvintų rajono savivaldybės teritoriją, Trakų rajono savivaldybės teritoriją, Ukmergės rajono savivaldybės teritoriją ir Vilniaus rajono savivaldybės teritoriją. Vilniaus regiono apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
 
 
 1) Šalčininkų rūmų veiklos teritorija – Šalčininkų rajono savivaldybės teritoriją;
@@ -678,18 +668,20 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 
 
 
-12. Vilniaus miesto apylinkės teismo veiklos teritorija apima Vilniaus miesto savivaldybės teritoriją.“
+11. Vilniaus miesto apylinkės teismo veiklos teritorija apima Vilniaus miesto savivaldybės teritoriją.“
+
+
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2800, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12131
  
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -697,7 +689,10 @@ Lietuvos Respublikoje įsteigiami šie apylinkių teismai:
 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas
 
 
-1. Šis įstatymas, išskyrus 1 straipsnį ir šio straipsnio 3, 5, 7 ir 8 dalis, įsigalioja 2024 m. liepos 1 d.
+1. Šis įstatymas, išskyrus 1 straipsnį ir šio straipsnio 3, 5 ir 7 dalis, įsigalioja 2025 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2800, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12131
+ 
 
 
 
@@ -771,3 +766,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2800, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12131
+Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymo Nr. I-2375 pakeitimo įstatymo Nr. XIV-2136 2 ir 3 straipsnių pakeitimo įstatymas
