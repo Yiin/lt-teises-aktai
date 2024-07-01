@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
- 
-TAR pastaba. 23 straipsnio 6 dalies, 25 straipsnio 2 dalies ir 30 straipsnio 1 dalies  nuostatos taikomos kredito unijų stebėtojų tarybos pirmininko, stebėtojų tarybos nario, kredito unijų valdybos pirmininko, valdybos nario, paskolų komiteto pirmininko ar paskolų komiteto nario prašymams atsistatydinti iš pareigų, pateiktiems nuo 2023 m. sausio 1 d. 45 straipsnio 2 dalies  reikalavimų panaikinimas taikomas kredito unijos sprendimams skolinti, priimtiems nuo 2023 m. sausio 1 d.  77 straipsnio 2 dalies nuostatos taikomos bankroto procesams, pradėtiems nuo 2024 m. sausio 1 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 5, 8, 10, 22, 23, 25, 27, 30, 45, 68, 74, 75, 77 straipsnių pakeitimo, Įstatymo papildymo 75-1 straipsniu ir vienuoliktuoju skirsniu ir 69 straipsnio pripažinimo netekusiu galios įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2567, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20320
@@ -1036,9 +1031,10 @@ KREDITO UNIJOS VALDYMAS
 
 
 
-3) rinkti ir atšaukti stebėtojų tarybos, valdybos, paskolų komiteto narius ir iš jų atitinkamai – stebėtojų tarybos, valdybos, paskolų komiteto pirmininkus, auditorių ar audito įmonę; 
+3) rinkti ir atšaukti stebėtojų tarybos, valdybos, paskolų komiteto narius ir iš jų atitinkamai – stebėtojų tarybos, valdybos, paskolų komiteto pirmininkus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
  
 
 
@@ -1054,7 +1050,9 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-6) nustatyti lėšų, kurias galima skirti auditoriaus arba audito įmonės darbui apmokėti, limitą; 
+6) Neteko galios nuo 2024-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
 Straipsnio punkto pakeitimai:
 Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
  
@@ -1265,7 +1263,10 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 
 
 
-2) kandidatai į visuotinio narių susirinkimo renkamų kredito unijos organų narius, kitas pareigybes, įmonės kandidatės į renkamą audito įmonę. Kandidatai turi būti nurodyti taip, kad narys galėtų pažymėti, už kurį kandidatą balsuoja.
+2) kandidatai į visuotinio narių susirinkimo renkamų kredito unijos organų narius, kitas pareigybes. Kandidatai turi būti nurodyti taip, kad narys galėtų pažymėti, už kurį kandidatą balsuoja.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
+ 
 
 
 
@@ -1378,9 +1379,10 @@ Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 
 
 
-6) pateikia visuotiniam narių susirinkimui savo išvadas ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno paskirstymo ir (ar) nuostolių atlyginimo tvarkos projektų bei valdybos parengtos kredito unijos veiklos ataskaitos, taip pat dėl vidaus audito tarnybos ir auditoriaus ar audito įmonės nustatytų pažeidimų ir kitų trūkumų; 
+6) pateikia visuotiniam narių susirinkimui savo išvadas ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno paskirstymo ir (ar) nuostolių atlyginimo tvarkos projektų bei valdybos parengtos kredito unijos veiklos ataskaitos, taip pat dėl vidaus audito tarnybos nustatytų pažeidimų ir trūkumų įvertinimo; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
  
 
 
@@ -1448,9 +1450,10 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-7. Stebėtojų taryba turi teisę pasikviesti auditorių arba audito įmonę patikrinti ir įvertinti kredito unijos finansines ataskaitas ir buhalterinę apskaitą. 
+7. Stebėtojų taryba turi teisę pasikviesti auditorių arba audito įmonę patikrinti ir įvertinti kredito unijos finansines ataskaitas ir finansinę apskaitą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
  
 
 
@@ -1654,7 +1657,10 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 26 straipsnis. Kredito unijos administracija
 
 
-1. Kredito unijos administraciją sudaro kredito unijos administracijos vadovas, vyriausiasis buhalteris (buhalteris) ir kiti kredito unijos dokumentuose nurodyti kredito unijos darbuotojai. Kredito unijos administracija vykdo visuotinio narių susirinkimo, stebėtojų tarybos, valdybos nutarimus ir atlieka kitas įstatymuose, kredito unijos dokumentuose nustatytas funkcijas.
+1. Kredito unijos administraciją sudaro kredito unijos administracijos vadovas, apskaitą tvarkantis asmuo ir kiti kredito unijos dokumentuose nurodyti kredito unijos darbuotojai. Kredito unijos administracija vykdo visuotinio narių susirinkimo, stebėtojų tarybos, valdybos nutarimus ir atlieka kitas įstatymuose, kredito unijos dokumentuose nustatytas funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
+ 
 
 
 
@@ -1674,12 +1680,18 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 
 
 
-5. Kredito unijos administracijos vadovu negali būti kredito unijos stebėtojų tarybos narys, paskolų komiteto narys, vidaus audito tarnybos narys, kredito unijos vyriausiasis buhalteris (buhalteris), asmenys, esantys kitos kredito įstaigos valdybos nariais ar administracijos vadovais. Kredito unijos administracijos vadovas gali būti centrinės kredito unijos, kurios narė yra kredito unija, valdybos nariu.
+5. Kredito unijos administracijos vadovu negali būti kredito unijos stebėtojų tarybos narys, paskolų komiteto narys, vidaus audito tarnybos narys, kredito unijos apskaitą tvarkantis asmuo, asmenys, esantys kitos kredito įstaigos valdybos nariais ar administracijos vadovais. Kredito unijos administracijos vadovas gali būti centrinės kredito unijos, kurios narė yra kredito unija, valdybos nariu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
+ 
 
 
 
 
-6. Kredito unijos vyriausiuoju buhalteriu (buhalteriu) negali būti kredito unijos stebėtojų tarybos narys, valdybos narys, paskolų komiteto narys, vidaus audito tarnybos narys, kredito unijos administracijos vadovas, asmenys, esantys kitos kredito įstaigos valdybos nariais ar administracijos vadovais.
+6. Kredito unijos apskaitą tvarkančiu asmeniu negali būti kredito unijos stebėtojų tarybos narys, valdybos narys, paskolų komiteto narys, vidaus audito tarnybos narys, kredito unijos administracijos vadovas, asmenys, esantys kitos kredito įstaigos valdybos nariais ar administracijos vadovais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
+ 
 
 
 
@@ -2600,7 +2612,10 @@ KREDITO UNIJOS APSKAITA. FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 50 straipsnis. Apskaita
 
 
-1. Kredito unija privalo tvarkyti buhalterinę apskaitą vadovaudamasi Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat kredito unijos pasirinkta apskaitos politika.
+1. Kredito unija privalo tvarkyti finansinę apskaitą vadovaudamasi Lietuvos Respublikos įstatymais ir kitais teisės aktais, taip pat savo pasirinkta apskaitos politika.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
+ 
 
 
 
@@ -2704,6 +2719,13 @@ Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
 
 
 6. Premijos ir kitos kredito unijos įstatuose nustatytos išmokos kredito unijos vadovams išmokamos metams pasibaigus, jeigu tokį sprendimą priima kredito unijos visuotinis narių susirinkimas, tvirtindamas metinių finansinių ataskaitų rinkinį.
+
+
+
+
+7. Kredito unijų metinių finansinių ataskaitų duomenys įtraukiami į centrinės kredito unijos finansinės grupės, veikiančios pagal Centrinių kredito unijų įstatymą, jungtinių finansinių ataskaitų rinkinį. Jungtinių finansinių ataskaitų rinkinys sudaromas priežiūros institucijos nustatyta tvarka, jo auditas atliekamas ne rečiau kaip kartą per metus. Atskirų kredito unijų metinių finansinių ataskaitų rinkinių auditas nėra atliekamas, jeigu centrinė kredito unija, kurios narė yra atskira kredito unija, arba priežiūros institucija nenurodo kitaip.
+Papildyta straipsnio dalimi:
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
  
 
 
@@ -4487,3 +4509,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 77 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 5, 8, 10, 22, 23, 25, 27, 30, 45, 68, 74, 75, 77 straipsnių pakeitimo, Įstatymo papildymo 75-1 straipsniu ir vienuoliktuoju skirsniu ir 69 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 18, 22, 24, 26, 50 ir 51 straipsnių pakeitimo įstatymas
