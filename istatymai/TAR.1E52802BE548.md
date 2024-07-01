@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -85,7 +85,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-9. Šio įstatymo nuostatos dėl viešosios įstaigos metinių finansinių ataskaitų rinkinio (toliau – metinių finansinių ataskaitų rinkinys) ir viešosios įstaigos veiklos ataskaitos (toliau – veiklos ataskaita) parengimo, pateikimo ir paskelbimo viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą priskiriamos prie viešojo sektoriaus subjektų, taikomos tiek, kiek Viešojo sektoriaus atskaitomybės įstatymas nenustato kitaip.
+9. Šio įstatymo nuostatos dėl viešosios įstaigos metinių finansinių ataskaitų rinkinio (toliau – metinių finansinių ataskaitų rinkinys), viešosios įstaigos veiklos ataskaitos (toliau – veiklos ataskaita) ir viešosios įstaigos likvidavimo pabaigos finansinės ataskaitos parengimo, pateikimo ir paskelbimo, viešosios įstaigos reorganizavimo pabaigos finansinės ataskaitos parengimo ir paskelbimo viešosioms įstaigoms, pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą priskiriamoms prie viešojo sektoriaus subjektų, taikomos tiek, kiek Viešojo sektoriaus atskaitomybės įstatymas nenustato kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
  
 
 
@@ -743,7 +745,10 @@ VIEŠOSIOS ĮSTAIGOS VALDYSENA
 
 
 
-6) per 4 mėnesius nuo finansinių metų pabaigos tvirtina metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais pagrindais viešoji įstaiga likviduojama;
+6) per 4 mėnesius nuo finansinių metų pabaigos tvirtina metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais viešoji įstaiga likviduojama. Jeigu viešosios įstaigos metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
@@ -773,7 +778,20 @@ VIEŠOSIOS ĮSTAIGOS VALDYSENA
 
 
 
-12) priima sprendimą dėl metinių finansinių ataskaitų rinkinio audito kitais, negu nurodyti šio įstatymo 22 straipsnio 8 dalyje, atvejais;
+12) priima sprendimą dėl:
+
+
+a) viešosios įstaigos metinių finansinių ataskaitų audito kitais, negu nurodyti Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme ar numatyti viešosios įstaigos įstatuose, atvejais;
+
+
+
+
+b) auditoriaus ar audito įmonės parinkimo;
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
@@ -1166,7 +1184,10 @@ VIEŠOSIOS ĮSTAIGOS VALDYSENA
 
 
 
-4) metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimą ir pateikimą kartu su auditoriaus išvada (kai atliktas finansinių ataskaitų auditas) arba metinės ataskaitos parengimą ir pateikimą Juridinių asmenų registrui ir visuotiniam dalininkų susirinkimui;
+4) metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimą ir pateikimą kartu su auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą) arba metinės ataskaitos parengimą ir pateikimą Juridinių asmenų registro tvarkytojui ir visuotiniam dalininkų susirinkimui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
@@ -1176,12 +1197,18 @@ VIEŠOSIOS ĮSTAIGOS VALDYSENA
 
 
 
-6) metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir auditoriaus išvados (kai atliktas finansinių ataskaitų auditas) arba metinės ataskaitos paskelbimą viešosios įstaigos interneto svetainėje;
+6) metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir auditoriaus išvados (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą) arba metinės ataskaitos paskelbimą viešosios įstaigos interneto svetainėje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
 
-7) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, veiklos ataskaita ir auditoriaus išvada (kai atliktas finansinių ataskaitų auditas) arba metine ataskaita viešosios įstaigos buveinėje sudarymą;
+7) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, veiklos ataskaita ir auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą) arba metine ataskaita viešosios įstaigos buveinėje sudarymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
@@ -1320,11 +1347,17 @@ VIEŠOSIOS ĮSTAIGOS VALDYSENA
 
 
 IV SKYRIUS
-VIEŠOSIOS ĮSTAIGOS ATSKAITOMYBĖ IR AUDITAS. VIEŠOSIOS ĮSTAIGOS KAPITALAS IR KITOS LĖŠOS
+VIEŠOSIOS ĮSTAIGOS ATSKAITOMYBĖ. VIEŠOSIOS ĮSTAIGOS KAPITALAS IR KITOS LĖŠOS 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
  
 
 
-22 straipsnis. Metinių finansinių ataskaitų rinkinys, metinių finansinių ataskaitų auditas ir veiklos ataskaita. Metinė ataskaita
+22 straipsnis. Metinių finansinių ataskaitų rinkinys ir veiklos ataskaita. Metinė ataskaita 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 1. Viešosios įstaigos vadovas, pasibaigus finansiniams metams, turi parengti ir eiliniam visuotiniam dalininkų susirinkimui ir kolegialiam valdymo organui pateikti:
@@ -1397,32 +1430,25 @@ VIEŠOSIOS ĮSTAIGOS ATSKAITOMYBĖ IR AUDITAS. VIEŠOSIOS ĮSTAIGOS KAPITALAS IR
 
 
 
-8. Viešosios įstaigos metinių finansinių ataskaitų auditas atliekamas, kai tenkinamos bent dvi iš šių sąlygų:
-
-
-1) viešoji įstaiga pagal Viešojo sektoriaus atskaitomybės įstatymą priskiriama prie viešojo sektoriaus subjektų ir jos veikla ne mažiau kaip 50 procentų finansuojama iš valstybės ir (arba) savivaldybės (-ių) biudžeto (-ų);
-
-
-
-
-2) paskutinę finansinių metų dieną finansinės būklės ataskaitoje nurodyto viešosios įstaigos turto vertė viršija 1 800 000 eurų;
+8. Neteko galios nuo 2024-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
 
-3) viešosios įstaigos pajamos per ataskaitinius finansinius metus viršija 3 500 000 eurų.
+9. Neteko galios nuo 2024-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
 
-
-
-9. Viešojo sektoriaus subjektų grupės, kurios kontroliuojantysis subjektas yra viešoji įstaiga, metinių finansinių ataskaitų auditas atliekamas, jeigu tokios viešojo sektoriaus subjektų grupės rodikliai tenkina bent dvi iš šio straipsnio 8 dalyje nurodytų sąlygų.
-
-
-
-
-10. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir metinės ataskaitos parengimo tvarka nustatoma Lietuvos finansinės atskaitomybės standarte.
+10. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir metinės ataskaitos parengimo tvarka nustatoma Lietuvos finansinės atskaitomybės standarte. Finansų ministras nustato veiklos ataskaitos formą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
  
 
 
@@ -1430,29 +1456,67 @@ VIEŠOSIOS ĮSTAIGOS ATSKAITOMYBĖ IR AUDITAS. VIEŠOSIOS ĮSTAIGOS KAPITALAS IR
 
 
 
-23 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos pasirašymas, paskelbimas ir pateikimas Juridinių asmenų registrui, finansinių ataskaitų kokybės stebėsena
+23 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos paskelbimas ir pateikimas Juridinių asmenų registro tvarkytojui
 
 
-1. Metinių finansinių ataskaitų rinkinį, veiklos ataskaitą ir metinę ataskaitą pasirašo viešosios įstaigos vadovas. Šiuose dokumentuose nurodomos pasirašančio asmens pareigos, vardas ir pavardė.
-
-
-
-
-2. Metinių finansinių ataskaitų rinkinys ir veiklos ataskaita kartu su auditoriaus išvada (kai atliktas finansinių ataskaitų auditas), taip pat metinė ataskaita yra vieši dokumentai. Šie ne mažiau kaip paskutinių trejų finansinių metų dokumentai (išskyrus pagal fizinių asmenų asmens duomenų apsaugą reglamentuojančius įstatymus viešai neskelbiamus fizinių asmenų asmens duomenis) skelbiami viešosios įstaigos interneto svetainėje, kai viešosios įstaigos savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė. Tretiesiems asmenims turi būti sudarytos sąlygos susipažinti su šiais dokumentais viešosios įstaigos buveinėje.
+1. Metinių finansinių ataskaitų rinkinys ir veiklos ataskaita kartu su auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą), taip pat metinė ataskaita yra vieši dokumentai. Šie ne mažiau kaip trejų paskutinių finansinių metų dokumentai (išskyrus pagal fizinių asmenų asmens duomenų apsaugą reglamentuojančius įstatymus viešai neskelbiamus fizinių asmenų asmens duomenis) skelbiami viešosios įstaigos interneto svetainėje, kai viešosios įstaigos savininkė ar dalininkė, turinti daugiau kaip 1/2 balsų visuotiniame dalininkų susirinkime, yra valstybė ar savivaldybė. Tretiesiems asmenims turi būti sudaromos sąlygos susipažinti su šiais dokumentais viešosios įstaigos buveinėje.
 
 
 
 
-3. Veiklos ataskaita pateikiama Juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o kai atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu pateikiama ir auditoriaus išvada. Viešosios įstaigos, kuri priskiriama prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, o kai atliktas finansinių ataskaitų auditas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui pateikiami Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Viešoji įstaiga, kuri turi teisę rengti metinę ataskaitą šio įstatymo 22 straipsnio 7 dalyje nurodytu atveju, metinę ataskaitą pateikia Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+2. Veiklos ataskaita pateikiama Juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, kartu su audituotu metinių finansinių ataskaitų rinkiniu pateikiama ir auditoriaus išvada. Viešoji įstaiga, turinti teisę rengti metinę ataskaitą šio Įstatymo 22 straipsnio 7 dalyje nurodytu atveju, ją pateikia Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
 
 
 
 
-4. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija nustato Juridinių asmenų registre viešai skelbiamų viešųjų įstaigų finansinių ataskaitų kokybės stebėsenos tvarką ir paskiria instituciją, atliksiančią šią stebėseną.
+3. Viešosios įstaigos, priskiriamos prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, veiklos ataskaita, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami finansų ministro nustatyta tvarka. Viešosios įstaigos, nepriskiriamos prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, veiklos ataskaita, metinė ataskaita, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada, kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, teikiami Juridinių asmenų registro tvarkytojui Vyriausybės nustatyta tvarka.
+
+
+
+
+4. Juridinių asmenų registro tvarkytojas nepriima viešosios įstaigos pateikto metinių finansinių ataskaitų rinkinio be auditoriaus išvados, jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, išskyrus atvejus, kai prie viešojo sektoriaus subjektų priskiriama viešoji įstaiga metinių finansinių ataskaitų rinkinį teikia finansų ministro nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2242, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22970
  
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
  
 
 
+
+
+231 straipsnis. Finansinių ataskaitų ir veiklos ataskaitos kokybės stebėsena
+
+
+1. Atliekant finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, vertinama Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų ir (arba) veiklos ataskaitos atitiktis reikalavimams, nustatytiems šių ataskaitų rengimą reglamentuojančiuose teisės aktuose.
+
+
+
+
+2. Finansų ministras nustato Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenos tvarką ir paskiria instituciją šiai stebėsenai atlikti (toliau šiame straipsnyje – stebėsenos institucija).
+
+
+
+
+3. Stebėsenos institucija, atlikdama viešosios įstaigos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, turi teisę kreiptis į viešąją įstaigą dėl papildomos informacijos, reikalingos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenai atlikti, pateikimo.
+
+
+
+
+4. Viešoji įstaiga, gavusi stebėsenos institucijos kreipimąsi dėl papildomos informacijos, reikalingos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenai atlikti, pateikimo, šią informaciją turi pateikti per 10 darbo dienų.
+
+
+
+
+5. Jeigu stebėsenos institucija, atlikdama viešosios įstaigos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, nustato reikšmingų finansinių ataskaitų ir (arba) veiklos ataskaitos trūkumų, Juridinių asmenų registro tvarkytojui pateikia pranešimą apie tai. Šio pranešimo pagrindu Juridinių asmenų registre įregistruojamas faktas, kad atliekant stebėseną buvo nustatyta reikšmingų finansinių ataskaitų ir (arba) veiklos ataskaitos trūkumų. Šis faktas neturi būti išregistruotas iš Juridinių asmenų registro, kol atitinkamos ataskaitos tvarkomos šiame registre. Reikšmingų trūkumų kriterijus nustato stebėsenos institucija.
+ 
+
+
+Papildyta straipsniu:
+Nr. XIV-2242, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22970
+ 
 
 
 
@@ -1589,6 +1653,11 @@ VIEŠOSIOS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 
 
 9. Jeigu yra priimtas sprendimas dėl viešosios įstaigos reorganizavimo, viešoji įstaiga turi parengti finansinių ataskaitų rinkinį arba metinę ataskaitą ir pagal šio sprendimo priėmimo dienos duomenis, ir pagal viešosios įstaigos reorganizavimo pabaigos dienos duomenis.
+TAR pastaba: 9 dalies redakcija nuo 2025-07-01:
+9. Jeigu viešoji įstaiga reorganizuojama, ji turi parengti reorganizavimo pabaigos finansinę ataskaitą pagal paskutinės savo veiklos dienos iki reorganizavimo pabaigos dienos duomenis. Šios ataskaitos turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
@@ -1765,6 +1834,11 @@ VIEŠOSIOS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 
 
 3) parengti finansinių ataskaitų rinkinį arba metinę ataskaitą pagal sprendimo likviduoti viešąją įstaigą priėmimo dienos duomenis, o pagal likvidavimo pabaigos dienos duomenis parengti viešosios įstaigos likvidavimo ataskaitą, kurios turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte;
+TAR pastaba: 3 punkto redakcija nuo 2025-07-01:
+3) parengti likvidavimo pabaigos finansinę ataskaitą pagal paskutinės viešosios įstaigos veiklos dienos iki likvidavimo pabaigos dienos duomenis. Šios ataskaitos turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte. Jeigu nuo finansinių metų pabaigos iki paskutinės viešosios įstaigos veiklos dienos iki likvidavimo pabaigos dienos praėjo ne daugiau negu 3 mėnesiai, paskutinių iki likvidavimo pasibaigusių finansinių metų metinių finansinių ataskaitų rinkinys gali būti nerengiamas, jeigu visa reikšminga finansinių metų informacija pateikiama likvidavimo pabaigos finansinėje ataskaitoje;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
+ 
 
 
 
@@ -1795,6 +1869,10 @@ VIEŠOSIOS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 
 
 9) pateikti Juridinių asmenų registrui viešosios įstaigos likvidavimo aktą ir kitus dokumentus, kurių reikia likviduotai viešajai įstaigai išregistruoti.
+TAR pastaba: 3 punkto redakcija nuo 2025-07-01:
+9) pateikti Juridinių asmenų registro tvarkytojui iki viešosios įstaigos išregistravimo iš Juridinių asmenų registro dienos viešosios įstaigos likvidavimo aktą, likvidavimo pabaigos finansinę ataskaitą ir kitus dokumentus, kurių reikia likviduotai viešajai įstaigai išregistruoti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2817, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12140
  
 
 
