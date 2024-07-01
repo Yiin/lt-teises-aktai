@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2024-06-27 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2025-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -265,7 +265,7 @@ a) VALSTYBĖ:
 – užtikrindama gyvybiškai svarbių valstybės funkcijų, kurių neatliekant kyla grėsmė valstybės ir visuomenės saugumui ir stabilumui, vykdymą ekstremaliųjų situacijų, kitų krizių ir mobilizacijos atvejais;
 – patikimai kontroliuodama valstybės sausumos ir jūros sienas bei oro erdvę;
 – garantuodama pasirengimą besąlygiškai gynybai ir visuotiniam pilietiniam pasipriešinimui agresijos atveju;
-– stiprindama nacionalinio saugumo bei gynybos institucijas ir tobulindama jų veiklą, 
+– stiprindama nacionalinio saugumo bei gynybos institucijas ir tobulindama jų veiklą, sudarydama palankias sąlygas gynybos ir saugumo pramonės plėtrai, 
 – rengdama gynybai kariuomenę ir jos mobilizacinį rezervą pagal nacionalinius ir Šiaurės Atlanto sutarties organizacijos (NATO) kolektyvinės gynybos planus;
 – rengdama ir vykdydama ilgalaikes valstybines saugumo stiprinimo programas;
 – integruodamasi į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją bei kaip visateisė narė aktyviai dalyvaudama šiose organizacijose;
@@ -277,6 +277,7 @@ Nacionalinio saugumo institucijos veikia ir plėtojamos, saugumo stiprinimo prie
 Valstybės institucijų vykdomas nacionalinio saugumo priemones nustato šis įstatymas, Nacionalinio saugumo strategija, ilgalaikės valstybinės saugumo stiprinimo programos bei kiti teisės aktai. Šioms priemonėms finansuoti naudojamos nacionalinio biudžeto, kreditų bei paramos lėšos.
 Skirsnio pakeitimai:
 Nr. XIV-1649, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26605
+Nr. XIV-2650, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09688
  
 
 
@@ -832,7 +833,7 @@ Taikos metu kariuomenė savarankiškai ir bendradarbiaudama su NATO institucijom
 – įstatymų nustatytais atvejais ir tvarka gali būti pasitelkiama teikti pagalbą kitoms valstybės ir savivaldybių institucijoms, taip pat įstatymų nustatyta tvarka organizuoja, koordinuoja, vadovauja ir vykdo žmonių paieškos ir gelbėjimo bei teršimo incidentų likvidavimo darbus, organizuoja ir vykdo saugomų asmenų, atvykstančių krašto apsaugos ministro ar kariuomenės vado oficialiu kvietimu, apsaugą.
 Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir kario etiką. Vadai turi puoselėti karių ir civilių gyventojų tarpusavio supratimą ir pasitikėjimą.
 Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
-Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos ir aktyviojo kariuomenės personalo rezervo karių. Aktyviojo kariuomenės personalo rezervo karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
+Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos ir tarnybą rezerve atliekančių karių. Tarnybą rezerve atliekančių karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
 Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
 Principinę kariuomenės struktūrą krašto apsaugos ministro teikimu, jam gavus Valstybės gynimo tarybos pritarimą ir Vyriausybės įgaliojimą, tvirtina Seimas.
 Teisėsaugą kariuomenėje ir visoje krašto apsaugos sistemoje įstatymų ir kitų teisės aktų nustatyta tvarka vykdo Lietuvos teisėsaugos institucijų specializuoti padaliniai ir karo policija. Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami prokuratūros ir ikiteisminio tyrimo institucijose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas. Karo policijos statusą, jurisdikciją, uždavinius ir funkcijas nustato įstatymai.
@@ -853,6 +854,7 @@ Nr. XIII-545, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11942
 Nr. XIII-2672, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21315
 Nr. XIII-3239, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15876
 Nr. XIII-3440, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24617
+Nr. XIV-2732, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11569
  
 
 
