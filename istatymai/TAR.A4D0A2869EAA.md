@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A4D0A2869EAA"
 
 # Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2023-04-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 62-2496, i. k. 1021010ISTA00IX-931
  
@@ -523,12 +523,12 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ gamybos, PLATINIMO, importo, eksporto, įve�
 1. Licencijų rūšys:
 
 
-1) licencija eksportuoti, importuoti, įvežti, išvežti civilines pirotechnikos priemones; 
+1) licencija eksportuoti, importuoti, įvežti, išvežti civilines pirotechnikos priemones, išskyrus šio straipsnio 9 dalyje nurodytą atvejį;
 
 
 
 
-2) licencija platinti civilines pirotechnikos priemones, išskyrus šio straipsnio 8 dalyje nurodytą atvejį;
+2) licencija platinti civilines pirotechnikos priemones, išskyrus šio straipsnio 8 ir 9 dalyse nurodytus atvejus;
 
 
 
@@ -538,9 +538,12 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ gamybos, PLATINIMO, importo, eksporto, įve�
 
 
 
-4) licencija naudoti F4 kategorijos fejerverkus, T2 ir P2 kategorijų civilines pirotechnikos priemones.
+4) licencija naudoti F4 kategorijos fejerverkus, T2 ir P2 kategorijų civilines pirotechnikos priemones. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2503, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05514
+ 
 
 
 
@@ -599,6 +602,13 @@ Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 
 8. Nelicencijuojama ūkinė komercinė veikla yra F1 ir F2 kategorijų fejerverkų platinimas.
+
+
+
+
+9. Nelicencijuojama ūkinė komercinė veikla yra transporto priemonių P1 kategorijos civilinės pirotechnikos priemonių, įskaitant oro pagalvių ir saugos diržų įtempimo ribotuvų sistemas, importas, eksportas, įvežimas, išvežimas, platinimas, naudojimas.
+Papildyta straipsnio dalimi:
+Nr. XIV-2503, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05514
  
 
 
@@ -1157,7 +1167,10 @@ Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
 16 straipsnis. F1 ir F2 kategorijų fejerverkų platinimo sąlygos
 
 
-1. Fiziniai ar juridiniai asmenys, kitos organizacijos ar jų padaliniai kiekvienai F2 kategorijos fejerverkų platinimo vietai turi gauti leidimą platinti F2 kategorijos fejerverkus, kuris išduodamas neterminuotam laikui.
+1. Fiziniai ar juridiniai asmenys, kitos organizacijos ar jų padaliniai kiekvienai F2 kategorijos fejerverkų platinimo vietai turi gauti leidimą platinti F2 kategorijos fejerverkus, kuris išduodamas neterminuotam laikui. Galiojantį tokį leidimą turintys subjektai privalo šį leidimą išdavusiai institucijai jos nustatyta tvarka elektroninėmis priemonėmis per PEPS iki kiekvienų metų lapkričio 30 dienos pranešti, kuriose leidime nurodytose platinimo vietose bus platinami F2 kategorijos fejerverkai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2503, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05514
+ 
 
 
 
@@ -1228,52 +1241,62 @@ Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 1. Draudžiama:
 
 
-1) platinti civilines pirotechnikos priemones (išskyrus F1 kategorijos fejerverkus) arčiau kaip 30 metrų nuo mokyklų; 
+1) platinti civilines pirotechnikos priemones (išskyrus F1 kategorijos fejerverkus ir P1 kategorijos civilines pirotechnikos priemones) arčiau kaip 30 metrų nuo mokyklų;
 
 
 
 
-2) naudoti civilines pirotechnikos priemones (išskyrus F1 kategorijos fejerverkus) arčiau kaip 30 metrų nuo mokyklų, gydymo ir reabilitacijos įstaigų, kulto, šarvojimo patalpų, jeigu tai nesuderinta su pastatų (statinių) ar patalpų valdytojais, taip pat kitose savivaldybės tarybos nustatytose vietose;
+2) platinti civilines pirotechnikos priemones (išskyrus F1 kategorijos fejerverkus ir P1 kategorijos civilines pirotechnikos priemones) prekybos įmonėse įrengtose degalinėse ir arčiau kaip 30 metrų nuo jų;
 
 
 
 
-3) jeigu tai trikdo viešąją rimtį, naudoti civilines pirotechnikos priemones nuo 22.00 val. iki 8.00 val. (išskyrus švenčių dienas, taip pat per masinius renginius, kuriuos rengti savivaldybės vykdomoji institucija yra išdavusi leidimą), kitu teisės aktuose nustatytu ar savivaldybės tarybos nustatytu laiku;
+3) platinti F2 kategorijos fejerverkus nuo sausio 1 dienos iki lapkričio 30 dienos, išskyrus atvejus, kai šiuos fejerverkus platina subjektai, turintys šio įstatymo 14 straipsnio 2 dalyje nurodytą leidimą;
 
 
 
 
-4) naudoti civilines pirotechnikos priemones ne pagal paskirtį;
+4) naudoti civilines pirotechnikos priemones (išskyrus F1 kategorijos fejerverkus ir P1 kategorijos civilines pirotechnikos priemones) arčiau kaip 30 metrų nuo mokyklų, gydymo ir reabilitacijos įstaigų, kulto, šarvojimo patalpų, jeigu tai nesuderinta su pastatų (statinių) ar patalpų valdytojais, taip pat kitose savivaldybės tarybos nustatytose vietose, išskyrus atvejus, kai civilines pirotechnikos priemones naudoja subjektai, turintys šio įstatymo 14 straipsnio 2 dalyje nurodytą leidimą, ir kai jų naudojimas iš anksto suderintas su meru ar jo įgaliotu savivaldybės administracijos direktoriumi ir Priešgaisrinės apsaugos ir gelbėjimo departamentu;
 
 
 
 
-5) naudoti ir (ar) platinti civilines pirotechnikos priemones, kurių garantijos (saugojimo) laikas yra pasibaigęs;
+5) jeigu tai trikdo viešąją rimtį, naudoti civilines pirotechnikos priemones nuo 22.00 val. iki 8.00 val. (išskyrus švenčių dienas, taip pat per masinius renginius, kuriuos rengti savivaldybės vykdomoji institucija yra išdavusi leidimą), kitu teisės aktuose ar savivaldybės tarybos nustatytu laiku;
 
 
 
 
-6) naudoti ir (ar) platinti civilines pirotechnikos priemones asmenims, kurie neturi teisės jų įsigyti ir (ar) naudoti;
+6) naudoti civilines pirotechnikos priemones ne pagal paskirtį;
 
 
 
 
-7) naudoti ir (ar) platinti civilines pirotechnikos priemones neblaiviems asmenims arba asmenims, apsvaigusiems nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų;
+7) naudoti ir (ar) platinti civilines pirotechnikos priemones, kurių garantijos (saugojimo) laikas yra pasibaigęs;
 
 
 
 
-8) naudoti ir (ar) platinti civilines pirotechnikos priemones, kurios yra akivaizdžiai mechaniškai ar kitaip pažeistos, deformuotos, ant kurių yra korozijos ar skysčių dėmių pėdsakų;
+8) naudoti ir (ar) platinti civilines pirotechnikos priemones asmenims, kurie neturi teisės jų įsigyti ir (ar) naudoti;
 
 
 
 
-9) gaminti, naudoti ir (ar) platinti civilines pirotechnikos priemones, pažeidžiant šio įstatymo nustatytus reikalavimus;
+9) naudoti ir (ar) platinti civilines pirotechnikos priemones neblaiviems asmenims arba asmenims, apsvaigusiems nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų;
 
 
 
 
-10) naudoti ir (ar) platinti civilines pirotechnikos priemones, kurios neatitinka reikalavimų, numatytų derinamuosiuose Europos Sąjungos teisės aktuose bei jų įgyvendinamuosiuose Lietuvos Respublikos teisės aktuose, nustatančiuose ženklinimą atitikties ženklu CE, ir nėra tinkamai paženklintos.
+10) naudoti ir (ar) platinti civilines pirotechnikos priemones, kurios yra akivaizdžiai mechaniškai ar kitaip pažeistos, deformuotos, ant kurių yra korozijos ar skysčių dėmių pėdsakų;
+
+
+
+
+11) gaminti, naudoti ir (ar) platinti civilines pirotechnikos priemones, pažeidžiant šio įstatymo nustatytus reikalavimus;
+
+
+
+
+12) naudoti ir (ar) platinti civilines pirotechnikos priemones, kurios neatitinka reikalavimų, numatytų derinamuosiuose Europos Sąjungos teisės aktuose bei jų įgyvendinamuosiuose Lietuvos Respublikos teisės aktuose, nustatančiuose ženklinimą atitikties ženklu CE, ir nėra tinkamai paženklintos.
 
 
 
@@ -1286,9 +1309,16 @@ Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 
 3. Per 2 mėnesius po leidimo, nurodyto šio įstatymo 14 straipsnio 2 dalyje, galiojimo laiko pasibaigimo ar jo galiojimo panaikinimo, leidimo, nurodyto šio įstatymo 16 straipsnio 1 dalyje, galiojimo panaikinimo arba šio įstatymo 9 straipsnio 1 dalyje nurodytos licencijos galiojimo panaikinimo fizinis ar juridinis asmuo, kita organizacija ar jų padalinys gali perleisti turimas civilines pirotechnikos priemones reikiamą licenciją ar leidimą turinčiam subjektui.
+
+
+
+
+4. Savivaldybių tarybos nustato civilinių pirotechnikos priemonių naudojimo tvarką ir priima sprendimus dėl šiame straipsnyje nurodytų ir kitų vietų, kuriose yra draudžiama naudoti civilines pirotechnikos priemones, bei laiko, kuriuo draudžiama jas naudoti. Priimdamos sprendimus dėl šių ribojimų savivaldybių tarybos privalo atsižvelgti į gyventojų, kurių gyvenamojoje teritorijoje numatomi ribojimai, nuomonę, aplinkosaugos reikalavimus ir gyventojų saugumą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2503, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05514
  
-
-
 
 
 
@@ -1458,38 +1488,40 @@ Nr. XIV-1741, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00153
 
 
 
-21 straipsnis. Civilinių pirotechnikos priemonių įsigijimo ir naudojimo apribojimai 
+21 straipsnis. Civilinių pirotechnikos priemonių įsigijimo ir naudojimo apribojimai
 
 
-1. F1 kategorijos fejerverkus gali įsigyti ir juos naudoti ne jaunesni kaip 14 metų asmenys.
-
-
-
-
-2. F2 kategorijos fejerverkus gali įsigyti ir juos naudoti ne jaunesni kaip 16 metų asmenys.
+1. F1 kategorijos fejerverkus gali įsigyti ir naudoti ne jaunesni kaip 14 metų asmenys.
 
 
 
 
-3. F3 kategorijos fejerverkus, T1 ir P1 kategorijų civilines pirotechnikos priemones gali įsigyti ir jas naudoti ne jaunesni kaip 18 metų asmenys.
+2. F2 ir F3 kategorijos fejerverkus, T1 ir P1 kategorijų civilines pirotechnikos priemones gali įsigyti ir naudoti ne jaunesni kaip 18 metų asmenys.
 
 
 
 
-4. F4 kategorijos fejerverkus, T2 ir P2 kategorijų civilines pirotechnikos priemones gali įsigyti, jas naudoti ir tiekti rinkai tik pirotechnikai. 
+3. F4 kategorijos fejerverkus, T2 ir P2 kategorijų civilines pirotechnikos priemones gali įsigyti, naudoti ir tiekti rinkai tik pirotechnikai.
 
 
 
 
-5. Transporto priemonių P1 kategorijos civilinės pirotechnikos priemonės, įskaitant oro pagalvių ir saugos diržų įtempimo ribotuvų sistemas, neplatinamos visuomenei, išskyrus atvejus, kai šios transporto priemonių pirotechnikos priemonės integruojamos į transporto priemonę arba į nuimamą transporto priemonės dalį. 
+4. Civilinės pirotechnikos priemonės (išskyrus F1 kategorijos fejerverkus) gali būti platinamos elektroninėmis priemonėmis tik tuo atveju, kai įsigytas šias priemones pristato šio įstatymo 9 straipsnio 1 dalies 1, 2 ar 3 punkte nurodytos licencijos turėtojas. Šiuo atveju civilines pirotechnikos priemones įsigyjančio asmens tapatybė (asmens amžiaus reikalavimas), pirotechniko pažymėjimas (kai įsigyjama F4 kategorijos fejerverkų ar T2, P2 kategorijų civilinių pirotechnikos priemonių) turi būti patikrinami prieš pristatant civilines pirotechnikos priemones arba ne vėliau kaip pristatymo metu.
+
+
+
+
+5. Transporto priemonių P1 kategorijos civilinės pirotechnikos priemonės, įskaitant oro pagalvių ir saugos diržų įtempimo ribotuvų sistemas, neplatinamos visuomenei, išskyrus atvejus, kai šios transporto priemonių pirotechnikos priemonės integruojamos į transporto priemonę arba į nuimamą transporto priemonės dalį.
 
 
 
 
 6. Naudojant civilines pirotechnikos priemones, būtina laikytis šių priemonių naudojimo instrukcijų reikalavimų.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2503, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05514
  
-
-
 
 
 
@@ -1809,3 +1841,8 @@ Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1821, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05720
 Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 1, 8, 9, 11, 12, 13, 14, 16, 18, 20, 22, 23 straipsnių ir priedo pakeitimo įstatymo Nr. XIV-1741 11 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2503, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05514
+Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 9, 16, 17, 21 straipsnių pakeitimo įstatymas
