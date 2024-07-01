@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -72,7 +72,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-3. Atvejo vadybininkas – socialinis darbuotojas, koordinuojantis atvejo vadybos procesą, paskirtas savivaldybės socialinių paslaugų įstaigos ar kitos įstaigos, kuriai savivaldybė suteikė įgaliojimus teikti socialines paslaugas šeimoms savivaldybėje, vadovo ar jo įgalioto asmens. 
+3. Atvejo vadybininkas – atvejo vadybą koordinuojantis specialistas, dirbantis savivaldybės socialinių paslaugų įstaigoje ar kitoje įstaigoje, kuriai savivaldybės taryba suteikė įgaliojimus teikti socialines paslaugas ir kitokią pagalbą šeimai savivaldybėje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
+ 
 
 
 
@@ -1848,7 +1851,33 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 41 straipsnis. Atvejo vadybininkas ir jo sudaromas pagalbos planas
 
 
-1. Atvejo vadybininku skiriamas fizinis asmuo, įgijęs aukštąjį socialinio darbo (profesinio bakalauro, bakalauro, magistro) kvalifikacinį laipsnį ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro) ir socialinio darbuotojo kvalifikaciją, ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro) ir baigęs socialinio darbo studijų programą, ar įgijęs socialinės pedagogikos (bakalauro, magistro) kvalifikacinį laipsnį ir turintis ne mažesnę kaip vienų metų darbo su šeima ar vaikais ar savanorystės patirtį ir atitinkantis kituose teisės aktuose jam nustatytus reikalavimus.
+1. Atvejo vadybininku turi teisę dirbti:
+
+
+1) asmuo, turintis aukštojo mokslo kvalifikaciją, įgytą baigus socialinio darbo studijų krypties studijas, ir socialinių mokslų kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį (arba jai lygiavertę aukštojo mokslo kvalifikaciją), arba
+
+
+
+
+2) asmuo, turintis aukštojo mokslo kvalifikaciją ir iki 2014 m. gruodžio 31 d. įgytą socialinio darbuotojo kvalifikaciją ar baigęs socialinio darbo studijas, arba
+
+
+
+
+3) asmuo, turintis aukštojo universitetinio mokslo kvalifikaciją, įgytą baigus socialinės pedagogikos studijas (arba jai lygiavertę kvalifikaciją), ir ne mažesnę kaip vienų metų darbo su šeima ar vaikais (ar savanorystės šioje srityje) patirtį. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
+ 
+
+
+
+
+11. Europos Sąjungos valstybių narių piliečių, Europos ekonominės erdvės valstybių piliečių, Šveicarijos Konfederacijos piliečių, trečiųjų valstybių piliečių atvejo vadybininkų profesinės kvalifikacijos, įgytos Europos Sąjungos, Europos ekonominės erdvės valstybėse ir Šveicarijos Konfederacijoje bei trečiosiose valstybėse, pripažįstamos Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
+ 
 
 
 
@@ -2616,9 +2645,10 @@ Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
 
 
 
-2. Savivaldybės meras kiekvienais metais tvirtina savivaldybės socialinių paslaugų įstaigose ar kitose įstaigose, kurioms savivaldybės taryba suteikė įgaliojimus teikti socialines paslaugas ir kitokią pagalbą šeimai tam tikroje savivaldybės teritorijoje, socialinių darbuotojų, galinčių teikti atvejo vadybininko paslaugas konkrečioje savivaldybės teritorijoje, sąrašą. Į šį sąrašą gali būti įtraukti socialiniai darbuotojai, kurie atitinka šio įstatymo 2 straipsnio 3 dalyje ir 41 straipsnio 1 dalyje nurodytus reikalavimus.
+2. Savivaldybės meras kiekvienais metais tvirtina savivaldybės socialinių paslaugų įstaigose ar kitose įstaigose, kurioms savivaldybės taryba suteikė įgaliojimus teikti socialines paslaugas ir kitokią pagalbą šeimai tam tikroje savivaldybės teritorijoje, dirbančių specialistų, turinčių teisę dirbti atvejo vadybininkais konkrečioje savivaldybės teritorijoje, sąrašą. Į šį sąrašą įtraukiami specialistai, atitinkantys šio įstatymo 41 straipsnio 1 dalyje nurodytus reikalavimus.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
+Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
  
 
 
@@ -2687,6 +2717,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos vaiko teisių
 apsaugos pagrindų įstatymo 
 priedas
@@ -2710,7 +2741,18 @@ priedas
 
 
 
-4. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR.
+4. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. 
+Papildyta punktu:
+Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
+ 
+
+
+
+
+5. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR.
+Punkto numeracijos pakeitimas:
+Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
+ 
 
 
 Priedo pakeitimai:
@@ -2819,3 +2861,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 36-4,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2 ir 50 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 41, 52 straipsnių ir priedo pakeitimo įstatymas
