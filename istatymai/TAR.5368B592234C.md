@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -48,7 +48,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Šis įstatymas taikomas kartu su Reglamentu (ES) 2016/679 ir jo įgyvendinamaisiais teisės aktais.
+3. Šis įstatymas taikomas kartu su Reglamentu (ES) 2016/679 ir jo įgyvendinamaisiais teisės aktais bei kitais tiesiogiai taikomais Europos Sąjungos teisės aktais, kuriuose pateikiama nuoroda į Reglamentą (ES) 2016/679, (toliau – kiti tiesiogiai taikomi Europos Sąjungos teisės aktai). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
 
 
 
@@ -73,7 +76,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+5. Šis įstatymas netaikomas Lietuvos Respublikos kompetentingų institucijų, kaip jos apibrėžiamos Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme, atliekamam asmens duomenų tvarkymui, kai šie duomenys tvarkomi nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo, apsaugos nuo grėsmių visuomenės saugumui ir jų prevencijos tikslais, taip pat nacionalinio saugumo ar gynybos tikslais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
+
+
+
+
+6. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
 
 
@@ -94,7 +108,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2016/679.
+3. Šiame įstatyme vartojama sąvoka „informacinė sistema“ suprantama taip, kaip apibrėžiama Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2016/679.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
 
 
@@ -144,22 +160,72 @@ Kai asmens duomenys tvarkomi žurnalistikos arba akademinės, meninės ar litera
 5 straipsnis. Asmens duomenų tvarkymo su darbo santykiais susijusiais atvejais ypatumai
 
 
-1. Draudžiama tvarkyti kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo asmens duomenis apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas, išskyrus atvejus, kai šie asmens duomenys būtini norint patikrinti, ar asmuo atitinka įstatymuose ir įgyvendinamuosiuose teisės aktuose nustatytus reikalavimus pareigoms eiti arba darbo funkcijoms atlikti.
+1. Kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo asmens duomenų apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas tvarkymas teisėtas tik jeigu taikoma bent viena iš šių sąlygų ir tik tokiu mastu, kokiu ji taikoma: 
+
+
+1) Tvarkyti šiuos duomenis būtina, kad būtų įvykdyta duomenų valdytojui taikoma teisinė prievolė patikrinti, ar asmuo atitinka įstatymuose ir įgyvendinamuosiuose teisės aktuose nustatytus reikalavimus pareigoms eiti arba darbo funkcijoms atlikti.
 
 
 
 
-2. Duomenų valdytojas gali rinkti kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, asmens duomenis, susijusius su kvalifikacija, profesiniais gebėjimais ir dalykinėmis savybėmis, iš buvusio darbdavio prieš tai informavęs kandidatą, o iš esamo darbdavio – tik kandidato sutikimu.
+2) Tvarkyti šiuos duomenis būtina, siekiant teisėtų darbdavio interesų, išskyrus atvejus, kai kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo interesai arba pagrindinės teisės ir laisvės, dėl kurių būtina užtikrinti asmens duomenų apsaugą, yra už tuos interesus viršesni, ypač kai duomenų subjektas yra vaikas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
 
 
 
 
-3. Tvarkant vaizdo ir (ar) garso duomenis darbo vietoje ir duomenų valdytojo patalpose ar teritorijose, kuriose dirba jo darbuotojai, tvarkant asmens duomenis, susijusius su darbuotojų elgesio, buvimo vietos ar judėjimo stebėsena, šie darbuotojai apie tokį jų asmens duomenų tvarkymą turi būti informuojami pasirašytinai ar kitu informavimo faktą įrodančiu būdu pateikiant Reglamento (ES) 2016/679 13 straipsnio 1 ir 2 dalyse nurodytą informaciją.
+2. Kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo asmens duomenis apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas, remiantis šio straipsnio 1 dalies 2 punkte nurodyta sąlyga, galima tvarkyti, jeigu laikomasi Reglamente (ES) 2016/679 nurodytų reikalavimų ir taikomos šios duomenų subjektų teisių ir laisvių apsaugos priemonės:
+
+
+1) Darbdavys atlieka teisėtų savo interesų tvarkyti kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo asmens duomenis apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas vertinimą ir raštu parengia šio vertinimo ataskaitą. Atliekant šį vertinimą, atsižvelgiama į konkrečių pareigų ar darbo funkcijų ypatumus, riziką, kuri darbdaviui gali kilti asmeniui, teistam už tam tikras nusikalstamas veikas, einant pareigas ar atliekant darbo funkcijas, taip pat į reikalavimo asmeniui būti neteistam už tam tikras nusikalstamas veikas pagrįstumą ir proporcingumą, kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo pagrindines teises ir laisves bei kitas reikšmingas aplinkybes. Atliekant šį vertinimą konsultuojamasi su duomenų apsaugos pareigūnu, jeigu jis paskirtas pagal Reglamentą (ES) 2016/679.
 
 
 
 
-4. Šio straipsnio nuostatos taip pat taikomos tvarkant asmenų, dirbančių Lietuvos Respublikos užimtumo įstatyme nurodytais darbo santykiams prilygintų teisinių santykių pagrindais, ir kandidatų, pretenduojančių dirbti šiais pagrindais, asmens duomenis.
+2) Darbdavys yra patvirtinęs ir savo interneto svetainėje, jeigu ją turi, paskelbęs pareigų, kurias einančiam asmeniui keliamas reikalavimas būti neteistam už tam tikras nusikalstamas veikas, arba darbo funkcijų, kurias atliekančiam asmeniui keliamas šis reikalavimas, sąrašą. Šiame sąraše turi būti nurodomos ir nusikalstamos veikos, už kurias toks asmuo turi būti neteistas.
+
+
+
+
+3) Tvarkomi tik to kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ar darbuotojo asmens duomenys apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas, kurio ketinamos eiti pareigos arba ketinamos atlikti darbo funkcijos ar einamos pareigos arba atliekamos darbo funkcijos yra įtrauktos į šios dalies 2 punkte nurodytą sąrašą.
+
+
+
+
+4) Darbdavio nurodytos apimties duomenis apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas darbdaviui pateikia pats kandidatas, pretenduojantis eiti pareigas arba atlikti darbo funkcijas, arba darbuotojas. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
+
+
+
+
+3. Duomenų valdytojas gali rinkti kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, asmens duomenis, susijusius su kvalifikacija, profesiniais gebėjimais ir dalykinėmis savybėmis, iš buvusio darbdavio prieš tai informavęs kandidatą, o iš esamo darbdavio – tik kandidato sutikimu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
+
+
+
+
+4. Tvarkant vaizdo ir (ar) garso duomenis darbo vietoje ir duomenų valdytojo patalpose ar teritorijose, kuriose dirba jo darbuotojai, tvarkant asmens duomenis, susijusius su darbuotojų elgesio, buvimo vietos ar judėjimo stebėsena, šie darbuotojai apie tokį jų asmens duomenų tvarkymą turi būti informuojami pasirašytinai ar kitu informavimo faktą įrodančiu būdu pateikiant Reglamento (ES) 2016/679 13 straipsnio 1 ir 2 dalyse nurodytą informaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
+
+
+
+
+5. Šio straipsnio nuostatos taip pat taikomos tvarkant asmenų, dirbančių Lietuvos Respublikos užimtumo įstatyme nurodytais darbo santykiams prilygintų teisinių santykių pagrindais, ir kandidatų, pretenduojančių dirbti šiais pagrindais, asmens duomenis.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
 
 
@@ -207,6 +273,19 @@ PRIEŽIŪROS INSTITUCIJOS
  
 
 
+
+
+
+
+71 straipsnis. Kitų tiesiogiai taikomų Europos Sąjungos teisės aktų priežiūra
+
+
+Kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose minima priežiūros institucija, nurodyta Reglamente (ES) 2016/679, atsižvelgiant į šio įstatymo 7 straipsnio 1 ir 2 dalyse nurodytą kompetenciją, yra Valstybinė duomenų apsaugos inspekcija arba žurnalistų etikos inspektorius. Priežiūros institucija atlieka kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose nustatytas priežiūros institucijos užduotis ir turi juose nustatytus priežiūros institucijos įgaliojimus.
+
+
+Papildyta straipsniu:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
 
 
 
@@ -380,7 +459,7 @@ Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 
 
 
-2. Valstybinė duomenų apsaugos inspekcija taip pat turi teisę:
+2. Valstybinė duomenų apsaugos inspekcija turi teisę:
 
 
 1) neatlygintinai gauti iš duomenų valdytojų ir duomenų tvarkytojų, valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių ir fizinių asmenų visą reikalingą informaciją, dokumentų kopijas ir nuorašus, duomenų kopijas, taip pat susipažinti su visais duomenimis ir dokumentais, reikalingais atliekant priežiūros institucijos užduotis ir funkcijas;
@@ -388,7 +467,7 @@ Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 
 
 
-2) pažeidimų nagrinėjimo metu be išankstinio įspėjimo įeiti į tikrinamo asmens, skundžiamo asmens ar su jais susijusių asmenų patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) arba teritoriją, kur yra dokumentai ir (ar) įranga, susiję su asmens duomenų tvarkymu. Įeiti į juridinio asmens teritoriją, pastatus, patalpas (tarp jų ir nuomojamus ar naudojamus kitais pagrindais) galima tik juridinio asmens darbo laiku, pateikus valstybės tarnautojo pažymėjimą. Įeiti į fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais), kur yra dokumentų ir (ar) įrangos, susijusios su asmens duomenų tvarkymu, galima tik pateikus teismo nutartį dėl leidimo įeiti į fizinio asmens gyvenamąsias patalpas;
+2) pažeidimų nagrinėjimo metu be išankstinio įspėjimo įeiti į tikrinamo asmens, skundžiamo asmens ar su jais susijusių asmenų patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais) arba teritoriją, kur yra dokumentų ir (ar) įrangos, susijusios su asmens duomenų tvarkymu. Įeiti į juridinio asmens teritoriją, pastatus, patalpas (tarp jų ir nuomojamus ar naudojamus kitais pagrindais) galima tik juridinio asmens darbo laiku, pateikus valstybės tarnautojo pažymėjimą. Įeiti į fizinio asmens gyvenamąsias patalpas (tarp jų ir nuomojamas ar naudojamas kitais pagrindais), kur yra dokumentų ir (ar) įrangos, susijusios su asmens duomenų tvarkymu, galima fiziniam asmeniui iš anksto raštu sutikus leisti įeiti į šias patalpas arba, kai tokio rašytinio sutikimo nėra, pateikus teismo nutartį dėl leidimo įeiti į fizinio asmens gyvenamąsias patalpas;
 
 
 
@@ -413,7 +492,7 @@ Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 
 
 
-7) dalyvauti teisme nagrinėjant bylas dėl tarptautinės, Europos Sąjungos ir nacionalinės teisės nuostatų asmens duomenų apsaugos klausimais pažeidimų;
+7) kreiptis į teismą ar kitaip dalyvauti nagrinėjant bylą teisme siekiant užtikrinti Reglamento (ES) 2016/679, kitų Europos Sąjungos, tarptautinių ir Lietuvos Respublikos teisės aktų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, nuostatų vykdymą;
 
 
 
@@ -433,27 +512,24 @@ Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 
 
 
-11) pasitelkti policijos pareigūnus viešajai tvarkai palaikyti ir galimam prievartos panaudojimui užtikrinti;
-
-
-
-
-12) kitas įstatymų ir kitų teisės aktų nustatytas teises.
+11) pasitelkti policijos pareigūnus viešajai tvarkai palaikyti ir galimam prievartos panaudojimui užtikrinti.
 
 
 
 
 
 
-3. Jei Valstybinė duomenų apsaugos inspekcija, nagrinėdama skundą, turi pagrindą manyti, kad Europos Komisijos sprendimas dėl tinkamumo, dėl standartinių duomenų apsaugos sąlygų priėmimo ar dėl patvirtintų elgesio kodeksų visuotinio galiojimo yra neteisėtas, ir nuo šio Europos Komisijos sprendimo galiojimo priklauso Valstybinės duomenų apsaugos inspekcijos sprendimas, ji sustabdo skundo nagrinėjimą ir Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka kreipiasi į Lietuvos vyriausiąjį administracinį teismą su prašymu kreiptis į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Komisijos sprendimo dėl tinkamumo, dėl standartinių duomenų apsaugos sąlygų priėmimo ar dėl patvirtintų elgesio kodeksų visuotinio galiojimo. Jei Lietuvos vyriausiasis administracinis teismas, nagrinėdamas Valstybinės duomenų apsaugos inspekcijos prašymą, turi pagrindą manyti, kad Europos Komisijos sprendimas dėl tinkamumo, dėl standartinių duomenų apsaugos sąlygų priėmimo ar dėl patvirtintų elgesio kodeksų visuotinio galiojimo yra neteisėtas, jis priima sprendimą kreiptis į kompetentingą Europos Sąjungos teisminę instituciją su prašymu priimti prejudicinį sprendimą pagal Sutarties dėl Europos Sąjungos veikimo (OL 2016 C 202, p. 47) 267 straipsnį. 
+3. Valstybinė duomenų apsaugos inspekcija taip pat turi kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, įstatymų ir kitų teisės aktų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, nustatytų teisių. 
 
 
 
 
-4. Valstybinė duomenų apsaugos inspekcija, atlikdama tyrimus ir (ar) patikrinimus savo iniciatyva bei nagrinėdama skundus, taip pat turi Lietuvos Respublikos administracinių nusižengimų kodekse nustatytas Valstybinės duomenų apsaugos inspekcijos teises ir įgaliojimus.
+4. Jei Valstybinė duomenų apsaugos inspekcija, nagrinėdama skundą, turi pagrindą manyti, kad Europos Komisijos sprendimas dėl tinkamumo, dėl standartinių duomenų apsaugos sąlygų priėmimo ar dėl patvirtintų elgesio kodeksų visuotinio galiojimo yra neteisėtas, ir jos sprendimas priklauso nuo šio Europos Komisijos sprendimo galiojimo, ji sustabdo skundo nagrinėjimą ir Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka kreipiasi į Lietuvos vyriausiąjį administracinį teismą su prašymu kreiptis į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Komisijos sprendimo dėl tinkamumo, dėl standartinių duomenų apsaugos sąlygų priėmimo ar dėl patvirtintų elgesio kodeksų visuotinio galiojimo. Jei Lietuvos vyriausiasis administracinis teismas, nagrinėdamas Valstybinės duomenų apsaugos inspekcijos prašymą, turi pagrindą manyti, kad Europos Komisijos sprendimas dėl tinkamumo, dėl standartinių duomenų apsaugos sąlygų priėmimo ar dėl patvirtintų elgesio kodeksų visuotinio galiojimo yra neteisėtas, jis priima sprendimą kreiptis į kompetentingą Europos Sąjungos teisminę instituciją su prašymu priimti prejudicinį sprendimą pagal Sutarties dėl Europos Sąjungos veikimo 267 straipsnį.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -511,15 +587,17 @@ VALSTYBINĖS DUOMENŲ APSAUGOS INSPEKCIJOS LEIDIMŲ PERDUOTI ASMENS DUOMENIS Į 
 16 straipsnis. Sertifikavimo įstaigų akreditavimas
 
 
-1. Sertifikavimo įstaigas pagal Reglamento (ES) 2016/679 43 straipsnį akredituoja, taip pat  akreditavimo ir akreditavimo pažymėjimų išdavimo tvarką nustato Valstybinė duomenų apsaugos inspekcija. 
+1. Sertifikavimo įstaigas pagal Reglamento (ES) 2016/679 43 straipsnį akredituoja ir šio akreditavimo tvarką nustato Valstybinė duomenų apsaugos inspekcija. 
 
 
 
 
-2. Sertifikavimo įstaigos, pageidaujančios būti akredituotos, akreditavimo išlaidas apmoka pagal Vyriausybės nustatyta tvarka patvirtintus įkainius.
+2. Už sertifikavimo įstaigos, pageidaujančios būti akredituotos, akreditavimą ir jo atnaujinimą imama valstybės rinkliava.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -539,7 +617,7 @@ BENDROSIOS NUOSTATOS
 17 straipsnis. Tikrinamo asmens, pareiškėjo, skundžiamo asmens ir pažeidimo padarymu įtariamo asmens teisės ir pareigos
 
 
-1. Tikrinamas asmuo, kai Valstybinė duomenų apsaugos inspekcija savo iniciatyva atlieka tyrimą ir (ar) patikrinimą, pareiškėjas ir skundžiamas asmuo, kai priežiūros institucija nagrinėja skundą, taip pat administracinės baudos skyrimo procedūros metu pažeidimo padarymu įtariamas asmuo turi Reglamente (ES) 2016/679 ir šiame įstatyme nurodytas teises ir pareigas. 
+1. Tikrinamas asmuo, pareiškėjas, skundžiamas asmuo ir pažeidimo padarymu įtariamas asmuo turi Reglamente (ES) 2016/679 ir šiame įstatyme nurodytas teises ir pareigas.
 
 
 
@@ -562,17 +640,74 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) susipažinti su tyrimo ir (ar) patikrinimo atlikimo, skundo nagrinėjimo ir administracinės baudos skyrimo medžiaga, išskyrus valstybės, tarnybos, profesinę, komercinę ar kitą įstatymų saugomą paslaptį sudarančią informaciją.
+4) susipažinti su skundu, priežiūros institucijos turima tyrimo ir (ar) patikrinimo atlikimo, skundo nagrinėjimo ir administracinės baudos skyrimo medžiaga, išskyrus valstybės, tarnybos, profesinę, komercinę, kitą įstatymų saugomą paslaptį sudarančią ar kitą įstatymų saugomą informaciją.
 
 
 
 
 
 
-3. Laikoma, kad šio straipsnio 1 dalyje nurodyti asmenys yra tinkamai informuoti ir jiems tinkamai pranešta, jei priežiūros institucija šiame skyriuje nurodytais atvejais sprendimus, pranešimus, kitus dokumentus ir informaciją šiems asmenims siunčia Lietuvos Respublikos juridinių asmenų registre nurodytu buveinės adresu arba Lietuvos Respublikos gyventojų registre nurodytu gyvenamosios vietos adresu, išskyrus atvejus, kai asmuo nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre arba Gyventojų registre nurodytu asmens elektroninių siuntų pristatymo adresu. 
+3. Laikoma, kad šio straipsnio 1 dalyje nurodyti asmenys yra tinkamai informuoti ir jiems tinkamai pranešta, jei priežiūros institucija šiame skyriuje nurodytais atvejais sprendimus, pranešimus, kitus dokumentus ir informaciją (toliau kartu šiame straipsnyje – dokumentai) šiems asmenims:
+
+
+1) siunčia per Nacionalinę elektroninių siuntų pristatymo, naudojant pašto tinklą, informacinę sistemą (toliau – E. pristatymo sistema);
+
+
+
+
+2) siunčia registruotąja pašto siunta Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, Lietuvos Respublikos gyventojų registre nurodytu juridinio asmens vadovo gyvenamosios vietos adresu arba fizinio asmens gyvenamosios vietos adresu;
+
+
+
+
+3) įteikia jiems atvykus į priežiūros instituciją;
+
+
+
+
+4) siunčia kitais jų raštu nurodytais kontaktiniais duomenimis;
+
+
+
+
+5) siunčia informacinėse sistemose, kurios naudojamos elektroniniu būdu teikiamoms paslaugoms gauti ar prievolėms vykdyti, nurodytais elektroninio pašto arba kitų elektroninių ryšių priemonių adresais.
+
+
+
+
+
+
+4. Kai priežiūros institucijai žinomas tik tikrinamo, skundžiamo ar pažeidimo padarymu įtariamo asmens elektroninio pašto arba kitos elektroninių ryšių priemonės adresas, laikoma, kad šis asmuo yra tinkamai informuotas ir jam tinkamai pranešta, jei priežiūros institucija rašytinius reikalavimus atskleisti savo tapatybę, taip pat atlikti šio įstatymo 14 straipsnyje nurodytus veiksmus minėtam asmeniui siunčia elektroninių ryšių priemonėmis šiuo elektroninio pašto arba kitos elektroninių ryšių priemonės adresu.
+
+
+
+
+5. Dokumentų įteikimo gavėjui diena laikoma:
+
+
+1) dokumentų, siunčiamų per E. pristatymo sistemą, – kita darbo diena, einanti po priežiūros institucijos dokumentų išsiuntimo dienos; 
+
+
+
+
+2) dokumentų, siunčiamų registruotąja pašto siunta, – diena, kai jie įteikiami gavėjui. Atsisakymas priimti dokumentus, siunčiamus registruotąja pašto siunta, arba pasirašyti dėl jų gavimo prilygsta dokumentų įteikimui;
+
+
+
+
+3) dokumentus įteikiant jam atvykus į priežiūros instituciją – diena, kurią gavėjas priežiūros institucijai liekančiuose dokumentuose parašu patvirtina dokumento gavimo faktą arba kai priežiūros institucijos atstovas pažymi, kad gavėjas atsisakė priimti dokumentą ar patvirtinti jo gavimo faktą;
+
+
+
+
+4) dokumentų ir (ar) rašytinių reikalavimų, siunčiamų elektroninių ryšių priemonėmis, – kita darbo diena, einanti po priežiūros institucijos dokumentų ir (ar) rašytinių reikalavimų išsiuntimo dienos.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -600,7 +735,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Jeigu priežiūros institucija nesutinka su teismo nutartimi atmesti prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo dienos šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui.
+5. Jeigu priežiūros institucija nesutinka su teismo nutartimi atmesti prašymą išduoti teismo leidimą įeiti į fizinio asmens gyvenamąsias patalpas, ji turi teisę per 7 kalendorines dienas nuo šios nutarties įteikimo priežiūros institucijai dienos šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
 
 
 
@@ -631,6 +769,53 @@ Priežiūros institucija informacijos apie atliekamą pažeidimo nagrinėjimą v
 
 
 
+191 straipsnis. Priežiūros institucijų bendradarbiavimas atliekant pažeidimų nagrinėjimą 
+
+
+1. Nagrinėdamos pažeidimus, priežiūros institucijos, veikdamos pagal savo kompetenciją ir atlikdamos savo užduotis ir funkcijas, aktyviai bendradarbiauja, kad būtų užtikrinta veiksminga Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų ir šio įstatymo taikymo priežiūra.
+
+
+
+
+2. Priežiūros institucijos, siekdamos išnagrinėti Reglamento (ES) 2016/679 ir kitų tiesiogiai taikomų Europos Sąjungos teisės aktų pažeidimus, bendradarbiaudamos tarpusavyje turi teisę viena kitai teikti bet kurią būtiną informaciją, įskaitant valstybės, tarnybos, profesinę, komercinę, kitą įstatymų saugomą paslaptį sudarančią ar kitą įstatymų saugomą informaciją. 
+
+
+
+
+3. Jei priežiūros institucijai, atliekančiai pažeidimo nagrinėjimą, kyla abejonių, ar nagrinėti pažeidimą priklauso jos kompetencijai, ji turi teisę Viešojo administravimo įstatymo nustatyta tvarka tarnybinės pagalbos kreiptis į kitą priežiūros instituciją, prašydama pateikti nuomonę dėl pažeidimo nagrinėjimo priskyrimo jos kompetencijai. Kartu pateikiami reikalingi dokumentai ir informacija.
+
+
+
+
+4. Pažeidimo nagrinėjimo terminas sustabdomas, kol gaunama reikiamos priežiūros institucijos nuomonė.
+
+
+
+
+5. Nuomonę teikianti priežiūros institucija prireikus konsultuojasi su kita priežiūros institucija.
+TAR pastaba: Įstatymo 191 straipsnio nuostatos taikomos ir asmens duomenų ir (ar) privatumo apsaugą reglamentuojančių teisės aktų pažeidimų nagrinėjimo procedūroms, pradėtoms iki įsigaliojant 2024-05-14 įstatymui Nr. XIV-2626 (2024-07-01), jeigu įsigaliojant šiam įstatymui jos nėra baigtos ir dėl jų nėra priimtas priežiūros institucijos sprendimas.
+
+
+Papildyta straipsniu:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
+
+
+
+
+192 straipsnis. Pažeidimų nagrinėjimo terminų skaičiavimo sustabdymas
+
+
+Šio įstatymo 21 straipsnio 1, 2 dalyse ir 30 straipsnio 2 dalyje nustatytų terminų skaičiavimas sustabdomas, jeigu priežiūros institucija dėl jos nurodymų nevykdymo pradeda administracinės baudos skyrimo procedūrą arba kol gaunama ekspertų (konsultantų) ar kitos priežiūros institucijos išvada, būtina pažeidimui tinkamai įvertinti.
+
+
+Papildyta straipsniu:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
+
+
+
+
 
 
 ANTRASIS SKIRSNIS
@@ -641,25 +826,27 @@ TYRIMŲ IR (AR) PATIKRINIMŲ VALSTYBINĖS DUOMENŲ APSAUGOS INSPEKCIJOS INICIATY
 20 straipsnis. Tyrimai ir (ar) patikrinimai, atliekami Valstybinės duomenų apsaugos inspekcijos iniciatyva, ir jų atlikimo tvarka
 
 
-1. Valstybinė duomenų apsaugos inspekcija gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą bet kokiu klausimu, susijusiu su Reglamento (ES) 2016/679, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, galimu pažeidimu.
+1. Valstybinė duomenų apsaugos inspekcija gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą bet kokiu klausimu, susijusiu su Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, galimu pažeidimu.
 
 
 
 
-2. Pagrindas pradėti tyrimą ir (ar) patikrinimą Valstybinės duomenų apsaugos inspekcijos iniciatyva gali būti visuomenės, valdžios institucijų ir įstaigų, kitų valstybių asmens duomenų apsaugos priežiūros institucijų, tarptautinių organizacijų, nacionalinių ir tarptautinių nevyriausybinių organizacijų ar kitų šaltinių, taip pat visuomenės informavimo priemonėse pateikta informacija asmens duomenų ir (ar) privatumo apsaugos klausimais. Valstybinė duomenų apsaugos inspekcija gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą ir nesiremdama kitų šaltinių pateikta informacija.
+2. Valstybinė duomenų apsaugos inspekcija savo iniciatyva atlieka tyrimus ir (ar) patikrinimus dėl Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, galimo pažeidimo šių teisės aktų ir Valstybinės duomenų apsaugos inspekcijos nustatyta tvarka. 
 
 
 
 
-3. Valstybinė duomenų apsaugos inspekcija savo iniciatyva atlieka tyrimus ir (ar) patikrinimus dėl Reglamento (ES) 2016/679, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, galimo pažeidimo šių teisės aktų ir Valstybinės duomenų apsaugos inspekcijos nustatyta tvarka. 
+3. Kai Valstybinė duomenų apsaugos inspekcija veikia vadovaudamasi Reglamento (ES) 2016/679 VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo 21 straipsnyje nustatyti tyrimo ir (ar) patikrinimo Valstybinės duomenų apsaugos inspekcijos iniciatyva atlikimo terminai. 
 
 
 
 
-4. Kai atliekant tyrimus ir (ar) patikrinimus Valstybinės duomenų apsaugos inspekcijos iniciatyva vadovaujamasi Reglamento (ES) 2016/679 60 straipsniu, netaikomas šio įstatymo 21 straipsnis.
+4. Kai tyrimas ir (ar) patikrinimas atliekamas Valstybinės duomenų apsaugos inspekcijos iniciatyva, skundai, kurių dalykas sutampa su atliekamo tyrimo ir (ar) patikrinimo dalyku, nenagrinėjami. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -726,15 +913,67 @@ SKUNDŲ NAGRINĖJIMAS
 23 straipsnis. Skundų nagrinėjimo tvarka
 
 
-1. Priežiūros institucija nagrinėja skundus dėl Reglamento (ES) 2016/679, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų šių teisės aktų ir priežiūros institucijos nustatyta tvarka.
+1. Priežiūros institucija nagrinėja skundus dėl Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų šių teisės aktų ir priežiūros institucijos nustatyta tvarka.
 
 
 
 
-2. Kai nagrinėjant skundą vadovaujamasi Reglamento (ES) 2016/679 60 straipsniu, netaikoma šio įstatymo 30 straipsnio 2 dalis.
+2. Priežiūros institucija, vadovaudamasi Reglamento (ES) 2016/679 57 straipsnio 1 dalies f punktu, gali pasirinkti tinkamiausius ir efektyviausius skundų nagrinėjimo būdus ir priemones, nustatytus Reglamente (ES) 2016/679, šiame įstatyme ir priežiūros institucijos patvirtintame tvarkos apraše, kuriame reglamentuojamas skundų nagrinėjimas, atsižvelgdama į konkrečią situaciją ir:
+
+
+1) einamaisiais metais nustatytus priežiūros institucijos veiklos prioritetus;
+
+
+
+
+2) galimus sisteminius pažeidimus;
+
+
+
+
+3) duomenų subjektų, kurių teisėms ir laisvėms daromas poveikis, skaičių;
+
+
+
+
+4) galimų pažeidimo pasekmių duomenų subjektui mastą ir pobūdį;
+
+
+
+
+5) galimą esminį priežiūros institucijos sprendimo poveikį duomenų valdytojo ir (ar) duomenų tvarkytojo asmens duomenų tvarkymo operacijų tobulinimui;
+
+
+
+
+6) poreikį pateikti nuomonę esminiu Reglamento (ES) 2016/679 taikymo klausimu;
+
+
+
+
+7) nagrinėjamų aplinkybių atsiradimo datą ir tai, ar nagrinėjamas galimas pažeidimas nebekelia padarinių, padariniai buvo pašalinti arba buvo suteikta tinkama padarinių pašalinimo garantija.
+
+
+
+
+
+
+3. Kai nagrinėjant skundą vadovaujamasi Reglamento (ES) 2016/679 VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo 30 straipsnio 2 dalyje nustatyti skundo nagrinėjimo terminai.
+
+
+
+
+4. Jei priežiūros institucija nustato, kad nagrinėja pareiškėjo pateiktus 2 ar daugiau skundų dėl to paties skundžiamo asmens arba skundai pateikti skirtingų pareiškėjų, tačiau dėl tų pačių pažeidimų ir to paties skundžiamo asmens, savo sprendimu šiuos skundus iki skundo nagrinėjimo termino pabaigos gali sujungti ir nagrinėti kaip vieną skundą.
+
+
+
+
+5. Priežiūros institucija turi teisę inicijuoti veiksmus, kad skundas jos nustatyta tvarka būtų išspręstas taikiai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -750,32 +989,49 @@ SKUNDŲ NAGRINĖJIMAS
 
 
 
-2) duomenų subjektas – dėl šio ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų;
+2) duomenų subjektas – dėl kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų;
 
 
 
 
-3) fizinis ar juridinis asmuo – dėl Lietuvos Respublikos elektroninių ryšių įstatymo IX skyriaus, išskyrus 73 straipsnio 5 dalį, 76 straipsnio 7 dalį ir 80 straipsnio 2 ir 3 dalis, pažeidimų.
-Straipsnio punkto pakeitimai:
-Nr. XIV-640, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24251
- 
+3) pelno nesiekianti įstaiga, organizacija ar asociacija, atitinkanti Reglamento (ES) 2016/679 80 straipsnio 1 dalies reikalavimus, pagal Reglamento (ES) 2016/679 80 straipsnio 2 dalį – dėl Reglamento (ES) 2016/679 ir šio įstatymo pažeidimų;
+
+
+
+
+4) fizinis ar juridinis asmuo – dėl Lietuvos Respublikos elektroninių ryšių įstatymo IX skyriaus, išskyrus 73 straipsnio 5 dalį, 76 straipsnio 7 dalį ir 80 straipsnio 2 ir 3 dalis, pažeidimų.
 
 
 
 
 
 
-2. Skundą žurnalistų etikos inspektoriui turi teisę pateikti duomenų subjektas, nurodytas Reglamento (ES) 2016/679 77 straipsnio 1 dalyje, dėl Reglamento (ES) 2016/679 pažeidimų.
+2. Skundą žurnalistų etikos inspektoriui turi teisę pateikti šie pareiškėjai:
+
+
+1) duomenų subjektas, nurodytas Reglamento (ES) 2016/679 77 straipsnio 1 dalyje, – dėl Reglamento (ES) 2016/679 pažeidimų;
 
 
 
 
-3. Skundą raštu galima pateikti tiesiogiai atvykus į priežiūros instituciją, atsiunčiant paštu arba elektroninėmis priemonėmis. 
+2) duomenų subjektas – dėl kitų tiesiogiai taikomų Europos Sąjungos teisės aktų ir įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų;
 
 
 
 
-4. Prie skundo, kurį pateikia pareiškėjo atstovas, turi būti pridėtas pareiškėjo atstovo įgaliojimus patvirtinantis dokumentas. Prie skundo, kurį šio straipsnio 1 dalies 1, 2 punktuose arba 2 dalyje nurodyto pareiškėjo vardu pateikia pelno nesiekianti įstaiga, organizacija ar asociacija pagal Reglamento (ES) 2016/679 80 straipsnio 1 dalį ar įstatymus, reglamentuojančius asmens duomenų ir (ar) privatumo apsaugą, papildomai turi būti pridėti dokumentai, patvirtinantys, kad ji veikia asmens duomenų apsaugos srityje.  
+3) pelno nesiekianti įstaiga, organizacija ar asociacija, atitinkanti Reglamento (ES) 2016/679 80 straipsnio 1 dalies reikalavimus, pagal Reglamento (ES) 2016/679 80 straipsnio 2 dalį – dėl Reglamento (ES) 2016/679 pažeidimų.
+
+
+
+
+
+
+3. Prie skundo, kurį pateikia šio straipsnio 1 dalies 3 punkte arba 2 dalies 3 punkte nurodytas pareiškėjas, papildomai turi būti pateikta informacija ir (arba) pridėti dokumentai, patvirtinantys, kad šis pareiškėjas veikia asmens duomenų apsaugos srityje, jeigu šios informacijos ir (arba) dokumentų nėra informacinėse sistemose.
+
+
+
+
+4. Prie skundo, kurį pateikia pareiškėjo atstovas, turi būti pridėtas pareiškėjo atstovo įgaliojimus patvirtinantis dokumentas. Prie skundo, kurį šio straipsnio 1 dalies 1, 2 punktuose arba 2 dalies 1 punkte nurodyto pareiškėjo vardu pateikia pelno nesiekianti įstaiga, organizacija ar asociacija pagal Reglamento (ES) 2016/679 80 straipsnio 1 dalį ar įstatymus, reglamentuojančius asmens duomenų ir (ar) privatumo apsaugą, papildomai turi būti pateikta informacija ir (arba) pridėti dokumentai, patvirtinantys, kad ji veikia asmens duomenų apsaugos srityje, jeigu šios informacijos ir (arba) dokumentų nėra informacinėse sistemose.
 
 
 
@@ -828,17 +1084,29 @@ c) atstovavimo pagrindas, kai skundą pateikia pareiškėjo atstovas;
 
 
 
-7) pareiškėjo ar jo atstovo, jeigu jis yra, parašas; skundas, kuris pateikiamas elektroninėmis priemonėmis,  turi būti pasirašytas pareiškėjo ar jo atstovo, jeigu jis yra, kvalifikuotu elektroniniu parašu arba suformuotas elektroninėmis priemonėmis, kurios leidžia užtikrinti teksto vientisumą ir nepakeičiamumą.
+7) pareiškėjo ar jo atstovo, jeigu jis yra, parašas; skundas, pateikiamas elektroninėmis priemonėmis, turi būti pasirašytas pareiškėjo ar jo atstovo, jeigu jis yra, kvalifikuotu elektroniniu parašu arba suformuotas tokiu būdu, kuriuo užtikrinama elektroninė asmens atpažintis ir teksto autentiškumas.
 
 
 
 
 
 
-6. Prie skundo turi būti pridėti turimi dokumentai, reikalingi skundui nagrinėti, ar jų aprašymas.
+6. Valstybinei duomenų apsaugos inspekcijai pateikiamame skunde dėl Reglamento (ES) 2016/679 15–22 straipsnių galimo pažeidimo, be šio straipsnio 5 dalyje nurodytos informacijos, papildomai nurodoma informacija apie pareiškėjo kreipimąsi į duomenų valdytoją ir (ar) duomenų tvarkytoją pagal Reglamento (ES) 2016/679 15–22 straipsnius, kartu su skundu pateikiama duomenų valdytojo ir (ar) duomenų tvarkytojo atsakymo, jeigu jis pateiktas, pareiškėjui kopija.
+
+
+
+
+7. Prie skundo turi būti pridėti turimi dokumentai, reikalingi skundui nagrinėti, ar jų aprašymas.
+
+
+
+
+8. Prieš Valstybinei duomenų apsaugos inspekcijai pateikdamas skundą, susijusį su galimais vaizdo stebėjimo teisėtumo pažeidimais, pareiškėjas turi žodžiu arba raštu kreiptis į vaizdo stebėjimą vykdantį asmenį (jeigu pareiškėjui žinoma jo tapatybė ir (ar) kontaktiniai duomenys) dėl informacijos apie vykdomą vaizdo stebėjimą gavimo. Jeigu vaizdo stebėjimą vykdantis asmuo nepateikia pareiškėjui informacijos apie vykdomą vaizdo stebėjimą per vieną mėnesį nuo pareiškėjo kreipimosi, pateikta informacija pareiškėjo netenkina arba jis neturi galimybės kreiptis į vaizdo stebėjimą vykdantį asmenį, pareiškėjas turi teisę pateikti skundą. Kartu su skundu turi būti pateikta informacija apie pareiškėjo kreipimąsi į vaizdo stebėjimą vykdantį asmenį ir šio asmens atsakymo, jeigu jis pateiktas, pareiškėjui kopija arba nurodytos priežastys, dėl kurių nėra galimybės kreiptis į šį asmenį.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -854,13 +1122,10 @@ Anoniminiai skundai nenagrinėjami, jeigu Valstybinės duomenų apsaugos inspekc
 
 
 
-26 straipsnis. Skundo priėmimas
-
-
-Skundo ar jo dalies priėmimo faktas patvirtinamas priežiūros institucijos raštu. Šiame rašte nurodoma skundo priėmimo data, skundą ar jo dalį nagrinėjančio priežiūros institucijos atstovo vardas, pavardė, telefono ryšio numeris, skundo registracijos numeris ir galimybė pareiškėjo teises ginti teisme. Skundo ar jo dalies priėmimo faktą patvirtinantis dokumentas pareiškėjui įteikiamas, išsiunčiamas paštu ar elektroninėmis priemonėmis ne vėliau kaip per 3 darbo dienas nuo skundo gavimo priežiūros institucijoje dienos. 
+26 straipsnis. Neteko galios nuo 2024-07-01
+Straipsnio naikinimas:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -871,7 +1136,7 @@ Skundo ar jo dalies priėmimo faktas patvirtinamas priežiūros institucijos ra�
 1. Priežiūros institucija priima sprendimą atsisakyti nagrinėti skundą ar jo dalį ir apie tai ne vėliau kaip per 5 darbo dienas nuo skundo gavimo priežiūros institucijoje dienos praneša pareiškėjui, nurodydama atsisakymo nagrinėti skundą ar jo dalį pagrindą (pagrindus), jeigu:
 
 
-1) skundas ar jo dalis neatitinka šio įstatymo 24 straipsnio 5 dalyje nurodytų reikalavimų, taikomų skundo turiniui. Šio įstatymo 24 straipsnio 5 dalyje nurodytos informacijos nenurodymas skunde negali būti pagrindas atsisakyti nagrinėti skundą, jei skundas be šios informacijos gali būti nagrinėjamas;
+1) skundas ar jo dalis neatitinka šio įstatymo 24 straipsnio 5 dalyje nurodytų reikalavimų, taikomų skundo turiniui, arba jeigu prie skundo nėra pateikti dokumentai, reikalingi skundui išnagrinėti. Šio įstatymo 24 straipsnio 5 dalyje nurodytos informacijos nenurodymas skunde arba dokumentų nepateikimas negali būti pagrindas atsisakyti nagrinėti skundą, jeigu skundas be šios informacijos arba dokumentų gali būti nagrinėjamas;
 
 
 
@@ -891,7 +1156,7 @@ Skundo ar jo dalies priėmimo faktas patvirtinamas priežiūros institucijos ra�
 
 
 
-5) skundas ar jo dalis tuo pačiu klausimu buvo išnagrinėta kitos Europos Sąjungos valstybės narės priežiūros institucijoje;
+5) skundas ar jo dalis tuo pačiu klausimu buvo išnagrinėta arba yra nagrinėjama kitos Europos Sąjungos valstybės narės priežiūros institucijoje;
 
 
 
@@ -906,17 +1171,49 @@ Skundo ar jo dalies priėmimo faktas patvirtinamas priežiūros institucijos ra�
 
 
 
-8) nuo skunde ar jo dalyje nurodytų pažeidimų padarymo iki skundo padavimo praėjo daugiau kaip 2 metai. 
+8) nuo skunde ar jo dalyje nurodytų pažeidimų padarymo iki skundo pateikimo praėjo daugiau kaip 2 metai;
+
+
+
+
+9) prie skundo nėra pateikti šio įstatymo 24 straipsnio 3 ir 4 dalyse nurodyti dokumentai. 
 
 
 
 
 
 
-2. Kai skunde nurodytų aplinkybių ar dalies jų tyrimas nepriklauso priežiūros institucijos kompetencijai, priežiūros institucija per šio straipsnio 1 dalyje nurodytą terminą perduoda skundą ar jo dalį kompetentingai institucijai ir apie tai praneša pareiškėjui. Kai kompetentinga institucija yra teismas, skundas ar jo dalis grąžinamas pareiškėjui pateikiant informaciją, kur jam reikėtų kreiptis.
+2. Valstybinė duomenų apsaugos inspekcija priima sprendimą atsisakyti nagrinėti skundą ar jo dalį ir apie tai šio straipsnio 1 dalyje nustatyta tvarka praneša pareiškėjui, jeigu:
+
+
+1) skundas ar jo dalis neatitinka šio įstatymo 24 straipsnio 6 ir (ar) 8 dalyje nurodytų reikalavimų, taikomų skundo turiniui, arba jeigu prie skundo nėra pateikti dokumentai, reikalingi skundui išnagrinėti. Šio įstatymo 24 straipsnio 6 ir (ar) 8 dalyje nurodytos informacijos nenurodymas skunde arba dokumentų nepateikimas negali būti pagrindas atsisakyti nagrinėti skundą, jeigu skundas be šios informacijos arba dokumentų gali būti nagrinėjamas;
+
+
+
+
+2) dėl skundo ar jo dalies dalyko yra pradėtas tyrimas ir (ar) patikrinimas jos pačios iniciatyva;
+
+
+
+
+3) skundas ar jo dalis dėl Reglamento (ES) 2016/679 15–22 straipsnių galimo pažeidimo pateikta nepraėjus Reglamento (ES) 2016/679 12 straipsnio 3 dalyje nustatytam vieno mėnesio terminui.
+
+
+
+
+
+
+3. Kai skunde nurodytų aplinkybių ar dalies jų tyrimas nepriklauso priežiūros institucijos kompetencijai, priežiūros institucija per šio straipsnio 1 dalyje nurodytą terminą perduoda skundą ar jo dalį kompetentingai institucijai ir apie tai praneša pareiškėjui. Kai kompetentinga institucija yra teismas, skundas ar jo dalis grąžinamas pareiškėjui pateikiant informaciją, kur jam reikėtų kreiptis.
+
+
+
+
+4. Jeigu priežiūros institucija šio straipsnio 1 dalyje nustatyta tvarka neinformuoja apie atsisakymą nagrinėti skundą ar jo dalį, laikoma, kad visas skundas priimtas nagrinėti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -948,7 +1245,7 @@ Skundo ar jo dalies priėmimo faktas patvirtinamas priežiūros institucijos ra�
 
 
 
-2) paaiškėja, kad yra šio įstatymo 27 straipsnio 1 dalies 2–6, 8 punktuose nurodytas pagrindas (nurodyti pagrindai) atsisakyti nagrinėti skundą ar jo dalį;
+2) paaiškėja, kad yra šio įstatymo 27 straipsnio 1 dalies 2–6, 8, 9 punktuose nurodytas pagrindas (nurodyti pagrindai) atsisakyti nagrinėti skundą ar jo dalį;
 
 
 
@@ -963,17 +1260,29 @@ Skundo ar jo dalies priėmimo faktas patvirtinamas priežiūros institucijos ra�
 
 
 
-5) paaiškėja, kad pareiškėjas mirė.
+5) paaiškėja, kad pareiškėjas mirė;
+
+
+
+
+6) skundas išsprendžiamas taikiai;
+
+
+
+
+7) nėra galimybės įteikti skundžiamam asmeniui dokumentų ir priežiūros institucija išnaudojo visas šiame įstatyme nustatytas galimybes įteikti dokumentus.
 
 
 
 
 
 
-2. Apie skundo ar jo dalies nagrinėjimo nutraukimą ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 1 dalyje nurodyto sprendimo priėmimo dienos pranešama pareiškėjui, išskyrus šio straipsnio 1 dalies 5 punkte nurodytą atvejį.
+2. Valstybinė duomenų apsaugos inspekcija, be šio straipsnio 1 dalyje nurodytų pagrindų nutraukti skundo ar jo dalies nagrinėjimą, taip pat priima sprendimą nutraukti skundo ar jo dalies nagrinėjimą, jeigu dėl skundo ar jo dalies dalyko yra pradėtas tyrimas ir (ar) patikrinimas jos pačios iniciatyva.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
-
-
 
 
 
@@ -1048,7 +1357,9 @@ Skundo ar jo dalies priėmimo faktas patvirtinamas priežiūros institucijos ra�
 
 
 KETVIRTASIS SKIRSNIS
-ADMINISTRACINĖS BAUDOS 
+ADMINISTRACINĖS BAUDOS IR ATSAKOMYBĖ UŽ KITŲ TIESIOGIAI TAIKOMŲ EUROPOS SĄJUNGOS TEISĖS AKTŲ PAŽEIDIMUS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
 
 
@@ -1060,15 +1371,40 @@ ADMINISTRACINĖS BAUDOS
 
 
 
-2. Administracines baudas pagal kompetenciją skiria Valstybinės duomenų apsaugos inspekcijos direktorius arba žurnalistų etikos inspektorius ar jų įgaliotas asmuo.
+2. Kai administracinė bauda skiriama pagal šio įstatymo 321 straipsnį, vadovaujamasi šio straipsnio 1 dalyje nustatyta tvarka.
 
 
 
 
-3. Sprendimas dėl administracinės baudos skyrimo gali būti priimtas, jeigu praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o kai pažeidimas trunkamasis, – nuo jo paaiškėjimo dienos.
+3. Administracines baudas pagal kompetenciją skiria Valstybinės duomenų apsaugos inspekcijos direktorius arba žurnalistų etikos inspektorius ar jų įgaliotas asmuo.
+
+
+
+
+4. Sprendimas dėl administracinės baudos skyrimo gali būti priimtas, jeigu praėjo ne daugiau kaip 3 metai nuo pažeidimo padarymo dienos, o kai pažeidimas trunkamasis, – nuo jo paaiškėjimo dienos.
+
+
+
+
+5. Kai priežiūros institucija veikia vadovaudamasi Reglamento (ES) 2016/679 VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo 34 straipsnio 9 dalyje nustatyti administracinės baudos skyrimo terminai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
  
 
 
+
+
+321 straipsnis. Atsakomybė už kitų tiesiogiai taikomų Europos Sąjungos teisės aktų pažeidimus
+
+
+Jei kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar jų įgyvendinamuosiuose įstatymuose nenustatyta kitaip, už šių kitų tiesiogiai taikomų Europos Sąjungos teisės aktų pažeidimus, padarytus tvarkant asmens duomenis, mutatis mutandis taikomos Reglamento (ES) 2016/679 58 straipsnio 2 dalyje nurodytos priemonės, įskaitant administracinės baudos, nurodytos Reglamento (ES) 2016/679 83 straipsnyje ir šio įstatymo 33 straipsnyje, skyrimą.
+
+
+Papildyta straipsniu:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
 
 
 
@@ -1137,7 +1473,10 @@ ADMINISTRACINĖS BAUDOS
 
 
 
-9. Kai byla nagrinėjama rašytinės procedūros tvarka, priežiūros institucija sprendimą dėl administracinės baudos skyrimo priima per 20 darbo dienų nuo šio straipsnio 1 dalyje nurodytame dokumente priežiūros institucijos nustatyto termino pabaigos. Jei byla nagrinėjama žodinės procedūros tvarka posėdyje, priežiūros institucija sprendimą dėl administracinės baudos skyrimo priima per 20 darbo dienų nuo posėdžio dienos. Priežiūros institucija sprendimą dėl administracinės baudos skyrimo ne vėliau kaip per 3 darbo dienas nuo priėmimo dienos išsiunčia asmeniui, dėl kurio šis sprendimas priimtas, ir pareiškėjui. 
+9. Kai byla nagrinėjama rašytinės procedūros tvarka, priežiūros institucija sprendimą dėl administracinės baudos skyrimo priima per 20 darbo dienų nuo šio straipsnio 1 dalyje nurodytame dokumente priežiūros institucijos nustatyto termino pabaigos. Jei byla nagrinėjama žodinės procedūros tvarka posėdyje, priežiūros institucija sprendimą dėl administracinės baudos skyrimo priima per 20 darbo dienų nuo posėdžio dienos. Priežiūros institucija sprendimą dėl administracinės baudos skyrimo ne vėliau kaip per 3 darbo dienas nuo priėmimo dienos išsiunčia asmeniui, dėl kurio šis sprendimas priimtas, ir pareiškėjui. Sprendimas dėl administracinės baudos skyrimo pareiškėjui nesiunčiamas, kai bauda skiriama už priežiūros institucijos nurodymų nevykdymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
 
 
 
@@ -1234,7 +1573,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
 Lietuvos Respublikos 
 asmens duomenų teisinės apsaugos
 įstatymo
@@ -1244,9 +1582,17 @@ priedas
  
 
 
-1. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1).
+2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
 
 
+
+
+________________
+
+
+Priedo pakeitimai:
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+ 
  
  
 Pakeitimai:
@@ -1335,3 +1681,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 24 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1577, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25127
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 18 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 pakeitimo įstatymas
