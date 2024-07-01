@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2024-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-10-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -1463,12 +1463,18 @@ Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 
 
 
-3) turėti ne mažiau kaip keturis technines apžiūras atliekančius specialistus;
+3) turėti ne mažiau kaip du technines apžiūras atliekančius specialistus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
+ 
 
 
 
 
-4) jeigu siekia būti atestuoti atlikti vidaus vandenų transporto priemonių, išskyrus burines jachtas, techninę apžiūrą, – turi būti akredituoti kaip A tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Atitikties įvertinimas. Reikalavimai, keliami įvairių tipų kontrolės įstaigų veiklai (ISO/IEC 17020)“.
+4) jeigu siekia būti atestuoti atlikti vidaus vandenų transporto priemonių, išskyrus burines jachtas, techninę apžiūrą, – turi būti akredituoti kaip C tipo kontrolės įstaigos pagal tarptautinį standartą LST EN ISO/IEC 17020 „Atitikties įvertinimas. Reikalavimai, keliami įvairių tipų kontrolės įstaigų veiklai (ISO/IEC 17020)“. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
+ 
 
 
 
@@ -1503,7 +1509,10 @@ Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 
 
 
-2) ne mažiau kaip du specialistai privalo būti burinės jachtos laivavedžiai, turintys ne žemesnį kaip atviros jūros burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą, ir ne mažiau kaip du specialistai privalo būti burinės jachtos laivavedžiai, turintys ne žemesnį kaip vandenynų burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą.
+2) ne mažiau kaip vienas specialistas privalo būti burinės jachtos laivavedys, turintis ne žemesnį kaip atviros jūros burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą, ir ne mažiau kaip vienas specialistas privalo būti burinės jachtos laivavedys, turintis ne žemesnį kaip vandenynų burinės jachtos vado kvalifikacijos laipsnį ir ne trumpesnį kaip penkerių metų buriavimo stažą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
+ 
 
 
 
@@ -3746,3 +3755,8 @@ Lietuvos Respublikos vidaus vandenų transporto kodekso 1, 6, 13, 15, 16, 16-1, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2224, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22370
 Lietuvos Respublikos vidaus vandenų transporto kodekso 27-1, 40, 47 straipsnių ir priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2536, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07269
+Lietuvos Respublikos vidaus vandenų transporto kodekso 16-2 straipsnio pakeitimo įstatymas
