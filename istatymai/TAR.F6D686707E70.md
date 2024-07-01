@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2024-06-21 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-10-24
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -5295,7 +5295,10 @@ Nr. XIV-2704, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11228
 
 
 
-2. Darbuotojams, paskirtiems naujagimių globėjais, suteikiamos atostogos už laiką nuo globos nustatymo dienos, iki kūdikiui sukanka septyniasdešimt dienų.
+2. Darbuotojams, paskirtiems naujagimių globėjais, suteikiamos atostogos už laiką nuo globos nustatymo dienos, iki kūdikiui sukanka septyniasdešimt dienų. Įmotėms suteikiamos trisdešimties kalendorinių dienų trukmės atostogos, kurioms mutatis mutandis taikomos šio kodekso 133 straipsnio 2 dalies nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2228, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22373
+ 
 
 
 
