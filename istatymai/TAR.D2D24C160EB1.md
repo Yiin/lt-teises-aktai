@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2022-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-787, i. k. 0961010ISTA00I-1232
  
@@ -55,11 +55,11 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Šio įstatymo nuostatos dėl metinių finansinių ataskaitų rinkinio ir metinio pranešimo parengimo, pateikimo ir paskelbimo labdaros ir paramos fondams, kurie pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą priskiriami prie viešojo sektoriaus subjektų, taikomos tiek, kiek Viešojo sektoriaus atskaitomybės įstatymas nenustato kitaip.
-TAR pastaba. 1 straipsnio 3 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
-1 straipsnio 3 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+3. Šio įstatymo nuostatos dėl metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir likvidavimo pabaigos finansinės ataskaitos parengimo, pateikimo ir paskelbimo, reorganizavimo pabaigos finansinės ataskaitos parengimo ir paskelbimo labdaros ir paramos fondams, pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą priskiriamiems prie viešojo sektoriaus subjektų, taikomos tiek, kiek Viešojo sektoriaus atskaitomybės įstatymas nenustato kitaip.
 Papildyta straipsnio dalimi:
 Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+Straipsnio dalies pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
  
 
 
@@ -386,11 +386,11 @@ FONDO VALDYMAS
 
 
 
-5) per 4 mėnesius nuo finansinių metų pabaigos tvirtinti fondo metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais fondas likviduojamas;
-TAR pastaba. 8 straipsnio 2 dalies 5 punkto nuostatos rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+5) per 4 mėnesius nuo finansinių metų pabaigos tvirtinti fondo metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais fondas likviduojamas. Jeigu fondo metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
  
 
 
@@ -419,11 +419,25 @@ Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 
 
 
-10) priimti sprendimą dėl fondo finansinių ataskaitų audito kitais, negu nurodyta šio įstatymo 11 straipsnio 7 dalyje, atvejais, rinkti ir atšaukti audito įmonę ar auditorių finansinių ataskaitų auditui atlikti, nustatyti audito paslaugų apmokėjimo sąlygas;
-TAR pastaba. 8 straipsnio 2 dalies 10 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
-8 straipsnio 2 dalies 10 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+10) priimti sprendimą dėl:
+
+
+a) fondo finansinių ataskaitų audito kitais, negu nurodyta Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, šio įstatymo 11 straipsnio 7 dalyje ar numatyta fondo įstatuose, atvejais;
+
+
+
+
+b) auditoriaus ar audito įmonės parinkimo finansinių ataskaitų auditui atlikti;
+
+
+
+
+c) audito paslaugų apmokėjimo sąlygų nustatymo;
+
+
 Straipsnio punkto pakeitimai:
 Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
  
 
 
@@ -526,7 +540,9 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 
-4) metinių finansinių ataskaitų rinkinio ir metinio pranešimo parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metinės ataskaitos parengimą ir pateikimą Juridinių asmenų registro tvarkytojui ir visuotiniam dalininkų susirinkimui;
+4) metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimą ir pateikimą kartu su auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą) arba metinės ataskaitos parengimą ir pateikimą Juridinių asmenų registro tvarkytojui ir visuotiniam dalininkų susirinkimui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
  
@@ -542,7 +558,9 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 
-6) metinių finansinių ataskaitų rinkinio, metinio pranešimo ir auditoriaus išvados (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metinės ataskaitos paskelbimą fondo interneto svetainėje, jeigu fondas ją turi; 
+6) metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir auditoriaus išvados (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą) arba metinės ataskaitos paskelbimą fondo interneto svetainėje, jeigu fondas ją turi; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
  
@@ -550,7 +568,9 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 
-7) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, metiniu pranešimu ir auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metine ataskaita fondo buveinėje sudarymą;
+7) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, veiklos ataskaita ir auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą) arba metine ataskaita fondo buveinėje sudarymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
  
@@ -679,7 +699,10 @@ Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 
 
 
-11 straipsnis. Metinių finansinių ataskaitų rinkinys, jo auditas ir metinis pranešimas. Metinė ataskaita
+11 straipsnis. Metinių finansinių ataskaitų rinkinys, jo auditas ir veiklos ataskaita. Metinė ataskaita 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+ 
 
 
 1. Fondo įstatuose nurodytas valdymo organas, išskyrus šio straipsnio 8 dalyje nurodytą atvejį, pasibaigus finansiniams metams turi parengti ir visuotiniam dalininkų susirinkimui pateikti:
@@ -690,7 +713,10 @@ Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 
 
 
-2) metinį pranešimą.
+2) veiklos ataskaitą. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+ 
 
 
 
@@ -724,7 +750,10 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 3. Finansinių ataskaitų aiškinamajame rašte turi būti nurodyta:
 
 
-1) informacija apie gautą finansinę ir nefinansinę paramą (nefinansinei paramai priskiriant ir turtą, gautą naudotis panaudos teise) ir jos panaudojimą. Pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė. Jeigu paramos teikėjo per ataskaitinius finansinius metus suteiktos paramos vertė neviršija 2 vidutinių mėnesinių darbo užmokesčių ir sudaro ne daugiau kaip 10 procentų fondo per ataskaitinius finansinius metus visos gautos paramos ir (arba) visų gautų finansavimo sumų, paramą suteikęs juridinis asmuo gali būti nenurodomas;
+1) informacija apie gautą finansinę ir nefinansinę paramą (nefinansinei paramai priskiriant ir turtą, gautą naudotis panaudos teise) ir jos panaudojimą. Pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė. Jeigu paramos teikėjo per ataskaitinius finansinius metus suteiktos paramos vertė neviršija 2 vidutinių mėnesinių darbo užmokesčių ir sudaro ne daugiau kaip 10 procentų fondo per ataskaitinius finansinius metus visos gautos paramos, paramą suteikęs juridinis asmuo gali būti nenurodomas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+ 
 
 
 
@@ -736,7 +765,9 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 
-4. Metiniame pranešime turi būti nurodyta:
+4. Veiklos ataskaitoje turi būti nurodyta: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
 
 
 1) fondo veiklos tikslai, uždaviniai ir atlikti darbai, taip pat nurodomi ateinančių finansinių metų veiklos tikslai, uždaviniai ir planuojami atlikti darbai;
@@ -751,12 +782,17 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 
-5. Metiniame pranešime gali būti nurodyta ir kita informacija, kurią nusprendžia pateikti fondo valdymo organas ar visuotinis dalininkų susirinkimas.
+5. Veiklos ataskaitoje gali būti nurodyta ir kita informacija, kurią nusprendžia pateikti fondo valdymo organas ar visuotinis dalininkų susirinkimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+ 
 
 
 
 
-6. Fondo, kuris valdo neliečiamąjį kapitalą, metiniame pranešime taip pat pateikiama su neliečiamojo kapitalo valdymu susijusi paskutinių finansinių metų informacija apie:
+6. Fondo, valdančio neliečiamąjį kapitalą, veiklos ataskaitoje taip pat pateikiama su neliečiamojo kapitalo valdymu susijusi paskutinių finansinių metų informacija apie: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
 
 
 1) neliečiamajam kapitalui perduotų lėšų gavimo šaltinius;
@@ -795,7 +831,7 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 
-7. Fondo metinių finansinių ataskaitų auditas turi būti atliekamas, kai fondas tenkina bent vieną iš šių kriterijų:
+7. Be Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme nurodytų sąlygų, fondo metinių finansinių ataskaitų auditas turi būti atliekamas, kai fondas tenkina bent vieną iš šių kriterijų:
 
 
 1) fondas valdo neliečiamąjį kapitalą;
@@ -803,9 +839,12 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 
-2) fondą kontroliuoja akcinė bendrovė, uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso valstybei ir (arba) savivaldybei nuosavybės teise. 
+2) daugiau kaip 1/2 fondo dalininkų balsų visuotiniame dalininkų susirinkime turi akcinė bendrovė, uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso valstybei ir (arba) savivaldybei nuosavybės teise. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+ 
 
 
 
@@ -819,10 +858,10 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 
-9. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir metinės ataskaitos parengimo tvarka nustatoma Lietuvos finansinės atskaitomybės standarte.
-TAR pastaba. 11 straipsnio 9 dalies nuostatos taikomos rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+9. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir metinės ataskaitos parengimo tvarka nustatoma Lietuvos finansinės atskaitomybės standarte. Finansų ministras nustato veiklos ataskaitos formą.
 Straipsnio dalies pakeitimai:
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
  
 
 
@@ -833,42 +872,58 @@ Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 
 
 
-12 straipsnis. Metinių finansinių ataskaitų rinkinio, metinio pranešimo ir metinės ataskaitos pasirašymas, skelbimas ir teikimas, finansinių ataskaitų kokybės stebėsena 
-Pakeistas straipsnio pavadinimas:
-Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
- 
+12 straipsnis. Metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir metinės ataskaitos skelbimas ir teikimas
 
 
-1. Metinių finansinių ataskaitų rinkinys, metinis pranešimas ir metinė ataskaita turi būti pasirašyti fondo įstatuose nurodyto valdymo organo nario. Šiuose dokumentuose turi būti nurodytos pasirašančio asmens pareigos, vardas ir pavardė.
+1. Metinių finansinių ataskaitų rinkinys ir veiklos ataskaita kartu su auditoriaus išvada (jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą), taip pat metinė ataskaita yra vieši dokumentai. Šie dokumentai ne mažiau kaip už paskutinius 3 finansinius metus, išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus, reglamentuojančius fizinių asmenų asmens duomenų apsaugą, viešai neskelbiami, turi būti paskelbti fondo interneto svetainėje, jeigu fondas ją turi. Be to, tretiesiems asmenims turi būti sudaromos sąlygos su šiais dokumentais susipažinti fondo buveinėje.
 
 
 
 
-2. Metinių finansinių ataskaitų rinkinys ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas), taip pat metinė ataskaita yra vieši dokumentai. Šie dokumentai ne mažiau kaip už paskutinius 3 finansinius metus, išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus, reglamentuojančius fizinių asmenų asmens duomenų apsaugą, viešai neskelbiami, turi būti paskelbti fondo interneto svetainėje, jeigu fondas ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti fondo buveinėje.
-TAR pastaba. 12 straipsnio 2 dalies nuostatos taikomos rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
-Straipsnio dalies pakeitimai:
-Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
- 
+2. Fondo veiklos ataskaita, taip pat fondo metinių finansinių ataskaitų rinkinys, o jeigu auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, Juridinių asmenų registro tvarkytojui turi pateikti duomenis ir apie neliečiamojo kapitalo dydį paskutinę finansinių metų dieną. Fondas, kuris rengia metinę ataskaitą, kaip nustatyta šio įstatymo 11 straipsnio 8 dalyje, metinę ataskaitą turi pateikti Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai paskelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
 
 
 
 
-3. Fondo metinis pranešimas, taip pat fondo metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondo, kuris priskiriamas prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Fondas, valdantis neliečiamąjį kapitalą, Juridinių asmenų registro tvarkytojui turi pateikti duomenis ir apie neliečiamojo kapitalo dydį paskutinę finansinių metų dieną. Fondas, kuris rengia metinę ataskaitą, kaip nustatyta šio įstatymo 11 straipsnio 8 dalyje, metinę ataskaitą turi pateikti Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
-TAR pastaba. 12 straipsnio nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
-12 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
-
-
-
-
-4. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija nustato Juridinių asmenų registre viešai skelbiamų finansinių ataskaitų kokybės stebėsenos tvarką ir paskiria instituciją, atliksiančią šią stebėseną.
-TAR pastaba. 12 straipsnio 4 dalies nuostatos taikomos rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
-Papildyta straipsnio dalimi:
-Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
- 
+3. Fondo, priskiriamo prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, veiklos ataskaita, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami finansų ministro nustatyta tvarka. Fondo, nepriskiriamo prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, veiklos ataskaita, metinė ataskaita, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada, kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą ir šį įstatymą, teikiami Juridinių asmenų registro tvarkytojui Vyriausybės nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+ 
+
+
+
+
+121 straipsnis. Finansinių ataskaitų ir veiklos ataskaitos kokybės stebėsena
+
+
+1. Atliekant finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, vertinama Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų ir (arba) veiklos ataskaitos atitiktis reikalavimams, nustatytiems šių ataskaitų rengimą reglamentuojančiuose teisės aktuose.
+
+
+
+
+2. Finansų ministras nustato Juridinių asmenų registro tvarkytojui pateiktų finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenos tvarką ir paskiria instituciją šiai stebėsenai atlikti (toliau šiame straipsnyje – stebėsenos institucija).
+
+
+
+
+3. Stebėsenos institucija, atlikdama fondo finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, turi teisę kreiptis į fondą dėl papildomos informacijos, reikalingos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenai atlikti, pateikimo.
+
+
+
+
+4. Fondas, gavęs stebėsenos institucijos kreipimąsi dėl papildomos informacijos, reikalingos finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėsenai atlikti, pateikimo, šią informaciją turi pateikti per 10 darbo dienų.
+
+
+
+
+5. Jeigu stebėsenos institucija, atlikdama fondo finansinių ataskaitų ir (arba) veiklos ataskaitos kokybės stebėseną, nustato reikšmingų finansinių ataskaitų ir (arba) veiklos ataskaitos trūkumų, Juridinių asmenų registro tvarkytojui pateikia pranešimą apie tai. Šio pranešimo pagrindu Juridinių asmenų registre įregistruojamas faktas, kad atliekant stebėseną buvo nustatyta reikšmingų finansinių ataskaitų ir (arba) veiklos ataskaitos trūkumų. Šis faktas neturi būti išregistruotas iš Juridinių asmenų registro, kol atitinkamos ataskaitos tvarkomos šiame registre. Reikšmingų trūkumų kriterijus nustato stebėsenos institucija.
+
+
+Papildyta straipsniu:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
  
 
 
@@ -1564,9 +1619,12 @@ FONDO PERTVARKYMO IR PABAIGOS YPATUMAI
 
 
 2. Fondas gali būti reorganizuojamas Civilinio kodekso nustatytais jungimo ir skaidymo būdais ir tvarka. Jeigu yra priimtas sprendimas reorganizuoti fondą, jis turi parengti finansinių ataskaitų rinkinį arba metinę ataskaitą ir pagal šio sprendimo priėmimo dienos duomenis, ir pagal fondo reorganizavimo pabaigos dienos duomenis.
-TAR pastaba. 25 straipsnio 2 dalies nuostatos taikomos rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+ 
+TAR pastaba. 25 straipsnio 2 dalies redakcija nuo 2025-07-01:.
+2. Fondas gali būti reorganizuojamas Civilinio kodekso nustatytais jungimo ir skaidymo būdais ir tvarka. Jeigu fondas reorganizuojamas, jis turi parengti reorganizavimo pabaigos finansinę ataskaitą pagal paskutinės savo veiklos dienos iki reorganizavimo pabaigos dienos duomenis. Šios ataskaitos turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte.
 Straipsnio dalies pakeitimai:
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
  
 
 
@@ -1596,10 +1654,13 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 2) parengti finansinių ataskaitų rinkinį arba metinę ataskaitą pagal sprendimo dėl likvidavimo priėmimo dienos duomenis, o pagal likvidavimo pabaigos dienos duomenis parengti likvidavimo ataskaitą, kurios turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte;
-TAR pastaba. 25 straipsnio 6 dalies 2 punktas nuostatos taikomos rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+ 
+TAR pastaba. 25 straipsnio 6 dalies 2 punkto redakcija nuo 2025-07-01:
+2) parengti likvidavimo pabaigos finansinę ataskaitą pagal paskutinės fondo veiklos dienos iki likvidavimo pabaigos dienos duomenis. Šios ataskaitos turinys detalizuojamas Lietuvos finansinės atskaitomybės standarte. Jeigu nuo finansinių metų pabaigos iki paskutinės fondo veiklos dienos iki likvidavimo pabaigos dienos praėjo ne daugiau negu 30 dienų, paskutinių iki likvidavimo pasibaigusių finansinių metų metinių finansinių ataskaitų rinkinys gali būti nerengiamas, jeigu visa reikšminga finansinių metų informacija pateikiama likvidavimo pabaigos finansinėje ataskaitoje;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
  
 
 
@@ -1621,6 +1682,12 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 6) pateikti Juridinių asmenų registro tvarkytojui fondo likvidavimo aktą ir kitus dokumentus, reikalingus fondui išregistruoti.
+ 
+TAR pastaba: 25 straipsnio 6 dalies 6 punkto redakcija nuo 2025-07-01:
+6) pateikti Juridinių asmenų registro tvarkytojui iki fondo išregistravimo iš Juridinių asmenų registro dienos fondo likvidavimo aktą, likvidavimo pabaigos finansinę ataskaitą ir kitus dokumentus, reikalingus fondui išregistruoti.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+ 
 
 
 
@@ -1628,9 +1695,13 @@ Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 
 
 7. Likviduojamas fondas metinio pranešimo nerengia. Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais likviduojamų fondų nepatvirtinti finansinių ataskaitų rinkiniai arba metinės ataskaitos Juridinių asmenų registro tvarkytojui pateikiami per 5 mėnesius nuo finansinių metų pabaigos.
-TAR pastaba. 25 straipsnio 7 dalies nuostatos taikomos rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+ 
+TAR pastaba. 25 straipsnio 7 dalies redakcija nuo 2025-07-01:
+7. Likviduojamas fondas veiklos ataskaitos nerengia. Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais likviduojamų fondų nepatvirtinti finansinių ataskaitų rinkiniai arba metinės ataskaitos Juridinių asmenų registro tvarkytojui pateikiami per 5 mėnesius nuo finansinių metų pabaigos.
 Papildyta straipsnio dalimi:
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
+Straipsnio dalies pakeitimai:
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
  
 
 
@@ -1734,3 +1805,13 @@ Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 papildymo 6
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-685, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25111
 Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 8, 9, 11, 12, 22 ir 25 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2644, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09682
+Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 6-1 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2819, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12142
+Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 1, 8, 9, 11, 12 ir 25 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
