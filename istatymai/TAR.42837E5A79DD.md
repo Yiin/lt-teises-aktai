@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2024-06-08 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-11-14
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -834,9 +834,10 @@ Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
 
 
 
-4. Užsieniečiai, išskyrus prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo pateikusius prieglobsčio prašytojus, dėl kurių nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, turi teisę pasilikti Lietuvos Respublikoje šio Įstatymo 138 straipsnyje nustatyto skundo padavimo termino laikotarpiu, o šiuo laikotarpiu pateikus prašymą dėl reikalavimo užtikrinimo priemonių, – iki atitinkamo administracinio teismo nutarties dėl reikalavimo užtikrinimo priemonių priėmimo arba kai apskųsto sprendimo vykdymas sustabdomas pagal šio Įstatymo 139 straipsnio 1 dalį. Prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo pateikę prieglobsčio prašytojai, dėl kurių nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, turi teisę pasilikti šio straipsnio 6 dalyje nurodytose laikino apgyvendinimo vietose šio Įstatymo 138 straipsnyje nustatyto skundo padavimo termino laikotarpiu, o šiuo laikotarpiu pateikus prašymą dėl reikalavimo užtikrinimo priemonių, – iki atitinkamo administracinio teismo nutarties dėl reikalavimo užtikrinimo priemonių priėmimo arba kai apskųsto sprendimo vykdymas sustabdomas pagal šio Įstatymo 139 straipsnio 1 dalies 2 punktą. Šioje dalyje nurodytos teisės nesuteikiamos, jeigu užsienietis pateikia paskesnį prašymą suteikti prieglobstį, kuriame nėra naujų esminių motyvų, tik siekdamas atidėti ar sutrukdyti įvykdyti sprendimą išsiųsti užsienietį iš Lietuvos Respublikos, kuriuo remiantis jis būtų artimiausiu metu išsiųstas, arba jeigu užsienietis pateikia naują paskesnį prašymą suteikti prieglobstį, kai dėl ankstesnio paskesnio prašymo suteikti prieglobstį yra priimtas galutinis sprendimas, ir nėra šio Įstatymo 130 straipsnio 1 ir 2 dalyse nurodytų priežasčių, dėl kurių negalima jo išsiųsti iš Lietuvos Respublikos. 
+4. Užsieniečiai, išskyrus prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo pateikusius prieglobsčio prašytojus, dėl kurių nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, turi teisę pasilikti Lietuvos Respublikoje šio Įstatymo 138 straipsnyje nustatyto skundo padavimo termino laikotarpiu, o šiuo laikotarpiu pateikus prašymą dėl reikalavimo užtikrinimo priemonių, – iki Regionų administracinio teismo nutarties dėl reikalavimo užtikrinimo priemonių priėmimo arba kai apskųsto sprendimo vykdymas sustabdomas pagal šio Įstatymo 139 straipsnio 1 dalį. Prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo pateikę prieglobsčio prašytojai, dėl kurių nepriimtas sprendimas įleisti juos į Lietuvos Respubliką, turi teisę pasilikti šio straipsnio 6 dalyje nurodytose laikino apgyvendinimo vietose šio Įstatymo 138 straipsnyje nustatyto skundo padavimo termino laikotarpiu, o šiuo laikotarpiu pateikus prašymą dėl reikalavimo užtikrinimo priemonių, – iki Regionų administracinio teismo nutarties dėl reikalavimo užtikrinimo priemonių priėmimo arba kai apskųsto sprendimo vykdymas sustabdomas pagal šio Įstatymo 139 straipsnio 1 dalies 2 punktą. Šioje dalyje nurodytos teisės nesuteikiamos, jeigu užsienietis pateikia paskesnį prašymą suteikti prieglobstį, kuriame nėra naujų esminių motyvų, tik siekdamas atidėti ar sutrukdyti įvykdyti sprendimą išsiųsti užsienietį iš Lietuvos Respublikos, kuriuo remiantis jis būtų artimiausiu metu išsiųstas, arba jeigu užsienietis pateikia naują paskesnį prašymą, kai dėl ankstesnio paskesnio prašymo suteikti prieglobstį yra priimtas galutinis sprendimas, ir nėra šio Įstatymo 130 straipsnio 1 ir 2 dalyse nurodytų priežasčių, dėl kurių negalima jo išsiųsti iš Lietuvos Respublikos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -1834,11 +1835,12 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 
 
-2. Šio straipsnio 1 dalies 2–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam leidimas laikinai gyventi išduodamas šio Įstatymo 40 straipsnio 1 dalies 1 ar 2 punkte nustatytu pagrindu, ir šio užsieniečio šeimos nariams. Šio straipsnio 1 dalies 1–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam leidimas laikinai gyventi išduodamas šio Įstatymo 40 straipsnio 1 dalies 7 (kai užsieniečiui yra nustatyta globa (rūpyba)), 8, 10, 11 ar 12 punkte nustatytu pagrindu. 
+2. Šio straipsnio 1 dalies 2–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam leidimas laikinai gyventi išduodamas šio Įstatymo 40 straipsnio 1 dalies 1 ar 2 punkte nustatytu pagrindu, ir šio užsieniečio šeimos nariams arba užsieniečiui, kuriam išduodamas leidimas nuolat gyventi šio Įstatymo 53 straipsnio 1 dalies 1 ar 2 punkte nustatytu pagrindu. Šio straipsnio 1 dalies 1–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam leidimas laikinai gyventi išduodamas šio Įstatymo 40 straipsnio 1 dalies 7 (kai užsieniečiui yra nustatyta globa (rūpyba), 8, 10, 11 ar 12 punkte nustatytu pagrindu.
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -1951,7 +1953,10 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-5. Vidaus reikalų ministras nustato tvarką, reglamentuojančią prašymų išduoti ar pakeisti leidimą laikinai gyventi pateikimą ir leidimų laikinai gyventi užsieniečiams išdavimą, keitimą, panaikinimą, vertinimą, ar užsienietis atitinka leidimo laikinai gyventi išdavimo ar keitimo sąlygas, ar nėra atsisakymo išduoti ar pakeisti leidimą laikinai gyventi ir leidimo laikinai gyventi panaikinimo pagrindų, taip pat vertinimą, ar santuoka, registruota partnerystė, įvaikinimas ar įmonė yra fiktyvūs.
+5. Vidaus reikalų ministras nustato tvarką, reglamentuojančią prašymų išduoti ar pakeisti leidimą laikinai gyventi pateikimą ir leidimų laikinai gyventi užsieniečiams išdavimą, keitimą, panaikinimą, vertinimą, ar darbdavys atitinka šiame Įstatyme nustatytas sąlygas, vertinimą, ar užsienietis atitinka leidimo laikinai gyventi išdavimo ar keitimo sąlygas, vertinimą, ar nėra atsisakymo išduoti ar pakeisti leidimą laikinai gyventi ir leidimo laikinai gyventi panaikinimo pagrindų, taip pat vertinimą, ar santuoka, registruota partnerystė, įvaikinimas ar įmonė yra fiktyvūs.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 Straipsnio pakeitimai:
@@ -2181,6 +2186,14 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
+31. Jeigu kyla pagrįstų įtarimų dėl užsieniečio keliamos grėsmės valstybės saugumui, Migracijos departamentas, nagrinėdamas prašymą pakeisti leidimą laikinai ar nuolat gyventi arba naujai įforminti leidimą laikinai gyventi, gali kreiptis į Valstybės saugumo departamentą dėl grėsmės valstybės saugumui įvertinimo. Tokiu atveju prašymo pakeisti leidimą laikinai ar nuolat gyventi arba naujai įforminti leidimą laikinai gyventi nagrinėjimo terminas sustabdomas šio straipsnio 5 dalyje nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
+
+
+
+
 4. Jeigu nepakanka prašymą išduoti ar pakeisti leidimą gyventi pagrindžiančių duomenų ir (ar) dokumentų, taip pat jeigu kyla abejonių dėl darbdavio pateiktos informacijos apie užsieniečio turimą kvalifikaciją ir jos atitiktį darbo vietai arba darbo patirtį, Migracijos departamentas ne vėliau kaip per vieną mėnesį nuo prašymo išduoti ar pakeisti leidimą gyventi gavimo dienos šio straipsnio 1 dalyje nurodytais atvejais ir ne vėliau kaip per 10 darbo dienų nuo prašymo dėl leidimo nuolat gyventi pakeitimo gavimo dienos – šio straipsnio 2 dalyje nurodytais atvejais raštu apie tai informuoja šį prašymą pateikusį asmenį ir nustato pagrįstą terminą reikiamiems duomenims ir (ar) dokumentams pateikti. Prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimo terminas sustabdomas nuo minėto rašto išsiuntimo dienos ir atnaujinamas nuo sprendimui dėl leidimo gyventi išdavimo ar pakeitimo priimti reikiamų duomenų ir (ar) dokumentų gavimo toje institucijoje dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
@@ -2189,9 +2202,11 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-5. Jeigu nėra gauti prašymą pateikusio užsieniečio šeimos narių ar kitų asmenų paaiškinimai arba Lietuvos Respublikos valstybės ar savivaldybių institucijos ar įstaigos, užsienio valstybės institucijos atsakymas ir prašoma informacija (paaiškinimai), būtini sprendimui dėl leidimo gyventi priimti, Migracijos departamentas sustabdo prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimo terminą iki prašomos informacijos (paaiškinimų) gavimo dienos, bet ne ilgiau kaip 2 mėnesiams. Apie prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo termino sustabdymo dienos.
+5. Jeigu nėra gauti prašymą pateikusio užsieniečio šeimos narių ar kitų asmenų paaiškinimai arba Lietuvos Respublikos valstybės ar savivaldybių institucijos ar įstaigos, užsienio valstybės institucijos atsakymas ir prašoma informacija (paaiškinimai), būtini sprendimui dėl leidimo gyventi ar naujai įforminti leidimą laikinai gyventi priimti, Migracijos departamentas sustabdo prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimo terminą iki prašomos informacijos (paaiškinimų) gavimo dienos, bet ne ilgiau kaip 2 mėnesiams. Apie prašymo išduoti ar pakeisti leidimą gyventi nagrinėjimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo termino sustabdymo dienos.
 Papildyta straipsnio dalimi:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -2321,10 +2336,11 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-11) jis turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai užsieniečiui mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), nevykdo įsipareigojimų muitinei arba yra nesumokėjęs Lietuvos Respublikos įstatymų nustatyta tvarka skirtos baudos (baudų), kurios (kurių) dydis (suma) didesnis (didesnė) negu vienas bazinės socialinės išmokos dydis (išskyrus atvejus, kai baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl baudų vyksta ginčas); 
+11) jis turi didesnę negu vieno bazinės socialinės išmokos dydžio skolą Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar valstybės socialinių fondų biudžetams, nevykdo įsipareigojimų muitinei (išskyrus atvejus, kai užsieniečiui mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas) arba nėra pateikęs bent vienos iš privalomų teikti mokesčių deklaracijų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -2360,7 +2376,6 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 
 16) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo 40 straipsnio 1 dalies 4 ar 41 punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, ar priimantysis subjektas: 
- 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
@@ -2374,9 +2389,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-b) turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas); 
+b) turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar valstybės socialinių fondų biudžetams (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas); 
 Papunkčio pakeitimai:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -2410,12 +2426,20 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 
 
-18) užsienietis, priimtas studijuoti į mokslo ir studijų instituciją pagal studijų programą (programas), yra surinkęs mažiau kaip 40 studijų kreditų per pastaruosius vienerius studijų metus ir šio straipsnio 11 dalyje nustatyta tvarka nenustatyta pateisinamų priežasčių arba yra pašalintas iš mokslo ir studijų institucijos pagal jos nustatytą studijų organizavimo tvarką. 
+18) užsienietis, priimtas studijuoti į mokslo ir studijų instituciją pagal studijų programą (programas), yra surinkęs mažiau kaip 40 studijų kreditų per pastaruosius vienerius studijų metus ir šio straipsnio 11 dalyje nustatyta tvarka nenustatyta pateisinamų priežasčių arba yra pašalintas iš mokslo ir studijų institucijos pagal jos nustatytą studijų organizavimo tvarką; 
 Papildyta straipsnio punktu:
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 Straipsnio punkto pakeitimai:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+ 
+
+
+
+
+19) duomenys, kuriuos pateikė fizinis ar juridinis asmuo, kviečiantis užsienietį, neatitinka tikrovės arba buvo pateikti neteisėtai įgyti ar suklastoti dokumentai. 
+Papildyta straipsnio punktu:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -2431,11 +2455,11 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-2. Užsienietis, kuriam atsisakyta išduoti ar pakeisti leidimą gyventi, gali pateikti prašymą išduoti leidimą gyventi praėjus ne mažiau kaip vieneriems metams nuo sprendimo atsisakyti išduoti ar pakeisti leidimą gyventi priėmimo. Šis apribojimas netaikomas, kai leidimą laikinai gyventi atsisakyta išduoti ar pakeisti šio straipsnio 1 dalies 16 punkte nustatytais pagrindais arba kai dėl leidimo laikinai gyventi išdavimo kitu pagrindu kreipiasi nepilnametis užsienietis, kuriam atsisakyta išduoti leidimą laikinai gyventi, arba užsieniečio, kuriam suteiktas prieglobstis Lietuvos Respublikoje, šeimos narys, kuriam atsisakyta išduoti leidimą laikinai gyventi.
-TAR pastaba: įstatymo Nr. XIV-1277 nuostatos taikomos ir tiems užsieniečiams, kuriems leidimą laikinai gyventi buvo atsisakyta išduoti iki šio įstatymo įsigaliojimo dienos.
+2. Užsienietis, kuriam atsisakyta išduoti ar pakeisti leidimą gyventi, gali pateikti prašymą išduoti leidimą gyventi praėjus ne mažiau kaip vieniems metams nuo sprendimo atsisakyti išduoti ar pakeisti leidimą gyventi priėmimo. Šis apribojimas netaikomas, kai leidimą laikinai gyventi atsisakyta išduoti ar pakeisti šio straipsnio 1 dalies 11, 16 ar 19 punkte nustatytais pagrindais arba kai dėl leidimo laikinai gyventi išdavimo kitu pagrindu kreipiasi nepilnametis užsienietis, kuriam atsisakyta išduoti leidimą laikinai gyventi, arba užsieniečio, kuriam suteiktas prieglobstis Lietuvos Respublikoje, šeimos narys, kuriam atsisakyta išduoti leidimą laikinai gyventi. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -2844,11 +2868,27 @@ Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
 
 
 
-5) leidimas laikinai gyventi yra prarastas. 
+5) leidimas laikinai gyventi yra prarastas; 
+
+
+
+
+6) leidimas laikinai gyventi buvo panaikintas ir paskelbtas negaliojančiu, tačiau, apskundus sprendimą panaikinti leidimą laikinai gyventi, teismas pritaikė reikalavimo užtikrinimo priemones dėl apskųsto sprendimo vykdymo sustabdymo. 
+Papildyta straipsnio punktu:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
+ 
+
+
+
+
+21. Leidimas laikinai gyventi užsieniečiui šio straipsnio 2 dalies 1, 2, 4 ir 5 punktuose nurodytais atvejais naujai įforminamas užsieniečio turimo, o šio straipsnio 2 dalies 6 punkte nurodytu atveju – turėto leidimo laikinai gyventi galiojimo laikotarpiui.
+Papildyta straipsnio dalimi:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -3136,20 +3176,17 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 2) atitinka šias sąlygas:
 
 
-a) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui. Jeigu užsienietis bus įdarbinamas pagal laikinojo darbo sutartį, pateikiamas laikinojo įdarbinimo įmonės, įrašytos į Lietuvos Respublikos valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą, įsipareigojimas įdarbinti užsienietį pagal laikinojo darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir nustatyti visą darbo laiko normą bei darbo Lietuvos Respublikoje metu mokėti užsieniečiui mėnesinį darbo užmokestį, ne mažesnį negu Valstybės duomenų agentūros paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis bruto darbo užmokesčio šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) (toliau – paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU) dydis, o laikotarpiais tarp siuntimų – ne mažesnį negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga;
-Papunkčio pakeitimai:
-Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
- 
+a) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir nustatyti visą darbo laiko normą. Jeigu užsienietis bus įdarbinamas pagal laikinojo darbo sutartį, pateikiamas laikinojo įdarbinimo įmonės, įrašytos į Valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) sudaromą ir jos interneto svetainėje skelbiamą laikinojo įdarbinimo įmonių sąrašą, įsipareigojimas įdarbinti užsienietį pagal laikinojo darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui ir nustatyti visą darbo laiko normą bei darbo Lietuvos Respublikoje metu mokėti užsieniečiui mėnesinį darbo užmokestį, ne mažesnį negu Valstybės duomenų agentūros paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis bruto darbo užmokesčio šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) (toliau – paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU) dydis, o laikotarpiais tarp siuntimų – ne mažesnį negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga;
 
 
 
 
-b) pateikiama darbdavio informacija apie užsieniečio turimą kvalifikaciją, susijusią su atliktinu darbu; arba apie užsieniečio turimą ne mažesnę negu vienerių metų darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu; arba apie numatomą užsieniečiui mokėti mėnesinį darbo užmokestį, ne mažesnį negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis, išskyrus šio straipsnio 2 dalyje nurodytą atvejį. Užsieniečiui, kuris atvyksta dirbti pagal laikinojo darbo sutartį, taikomos šiame punkte nurodytos sąlygos dėl užsieniečio kvalifikacijos arba darbo patirties; 
+b) pateikiama darbdavio informacija arba apie užsieniečio turimą kvalifikaciją, susijusią su atliktinu darbu, ir jo turimą ne mažesnę negu vienų metų darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu, arba apie numatomą užsieniečiui mokėti mėnesinį darbo užmokestį, ne mažesnį negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis, išskyrus šio straipsnio 2 dalyje nurodytą atvejį. Užsieniečiui, kuris atvyksta dirbti pagal laikinojo darbo sutartį, taikomos šiame punkte nurodytos sąlygos dėl užsieniečio kvalifikacijos ir darbo patirties;
 
 
 
 
-c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ministerijos (toliau – Užimtumo tarnyba) socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
+c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.
 
 
 
@@ -3173,24 +3210,64 @@ c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ministerijos
 
 
 
-5. Kai pasibaigia užsieniečio darbo laikotarpis arba užsienietis nutraukia darbą Lietuvos Respublikoje, jis privalo išvykti iš Lietuvos Respublikos.
+5. Kai pasibaigia užsieniečio darbo santykiai, jis privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo 11 straipsnio 2–5 dalyse ir 50 straipsnio 21 dalyje nurodytus atvejus arba kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu.
 
 
 
 
-6. Jeigu užsienietis, kuriam leidimas laikinai gyventi išduotas pagal šio straipsnio 1 dalies 2 punktą, pageidauja pakeisti darbdavį arba darbo funkciją pas tą patį darbdavį, jis turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį ar darbo funkciją. Patikrinęs, ar užsienietis atitinka šio straipsnio 1 dalies 2 punkte nustatytas sąlygas, o tais atvejais, kai turi būti priimtas šio straipsnio 1 dalies 2 punkto c papunktyje nurodytas Užimtumo tarnybos sprendimas, patikrinęs, ar šis sprendimas priimtas, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį ar darbo funkciją ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo dienos. Šis sprendimas galioja vieną mėnesį nuo jo priėmimo dienos.
+6. Jeigu užsienietis, kuriam leidimas laikinai gyventi išduotas pagal šio straipsnio 1 dalies 2 punktą, pageidauja pakeisti darbdavį arba darbo funkciją pas tą patį darbdavį, jis turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį ar prašymą leisti pakeisti darbo funkciją. Patikrinęs, ar užsienietis atitinka šio straipsnio 1 dalies 2 punkte nustatytas sąlygas, o tais atvejais, kai turi būti priimtas šio straipsnio 1 dalies 2 punkto c papunktyje nurodytas Užimtumo tarnybos sprendimas, patikrinęs, ar šis sprendimas priimtas, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį ar darbo funkciją ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo dienos. Jeigu kyla pagrįstų įtarimų dėl užsieniečio keliamos grėsmės valstybės saugumui, Migracijos departamentas gali kreiptis į Valstybės saugumo departamentą dėl grėsmės valstybės saugumui įvertinimo. Tokiu atveju Migracijos departamentas sustabdo sprendimo dėl leidimo pakeisti darbdavį ar darbo funkciją priėmimo terminą, kol bus gauta Valstybės saugumo departamento išvada dėl grėsmės valstybės saugumui, bet ne ilgiau kaip 2 mėnesiams. Apie sprendimo priėmimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo termino sustabdymo dienos. Migracijos departamento sprendimas dėl leidimo pakeisti darbdavį ar darbo funkciją galioja vieną mėnesį nuo jo priėmimo dienos. Prašymą leisti pakeisti darbdavį užsienietis gali pateikti praėjus ne mažiau kaip 6 mėnesiams nuo leidimo laikinai gyventi išdavimo dienos, išskyrus šio Įstatymo 50 straipsnio 21 dalyje nurodytus atvejus. 
 
 
 
 
-7. Jeigu su užsieniečiu ketinama sudaryti darbo keliems darbdaviams sutartį, šio straipsnio 1 dalies 2 punkto a papunktyje numatytą įsipareigojimą pateikia pirmasis darbdavys, nurodydamas ir kitus darbdavius. 
-TAR pastaba: Ukrainos piliečiams, jų šeimos nariams ir asmenims be pilietybės, gyvenusiems Ukrainoje, pasitraukusiems iš Ukrainos į Lietuvos Respubliką dėl Rusijos Federacijos karinių veiksmų Ukrainoje ir pasinaudojusiems galimybe pradėti dirbti be leidimo dirbti arba be Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos priimamo sprendimo dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams, leidimas laikinai gyventi Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 44 straipsnio pagrindu išduodamas ir keičiamas netaikant Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 44 straipsnio 1 dalies 2 punkto c papunktyje nustatytos sąlygos, jeigu darbo santykiai tęsiami su tuo pačiu darbdaviu.
+7. Jeigu su užsieniečiu ketinama sudaryti darbo keliems darbdaviams sutartį, šio straipsnio 1 dalies 2 punkto a papunktyje numatytą įsipareigojimą pateikia pirmasis darbdavys, nurodydamas ir kitus darbdavius. Sudarant su užsieniečiu darbo keliems darbdaviams sutartį, sutarties sudaryme gali dalyvauti ne daugiau kaip 4 darbdaviai.
+
+
+
+
+8. Darbdavys, teikiantis įsipareigojimą įdarbinti užsienietį, arba visi užsieniečio darbdaviai tuo atveju, kai su užsieniečiu ketinama sudaryti darbo keliems darbdaviams sutartį, turi atitikti šias sąlygas:
+
+
+1) turi licencijuojamą veiklą reglamentuojančių Lietuvos Respublikos teisės aktų nustatytas licencijas ir (ar) leidimus tokiai veiklai vykdyti bei atitinka licencijuojamos veiklos vykdymo sąlygas, jeigu užsienietį ketinama įdarbinti licencijuojamai veiklai;
+
+
+
+
+2) jam nebuvo skirta administracinė nuobauda pagal Administracinių nusižengimų kodeksą už nepranešimą apie pasikeitusius užsieniečio duomenis ar melagingų duomenų pateikimą kviečiant užsienietį atvykti į Lietuvos Respubliką arba pagalbą kitu neteisėtu būdu užsieniečiui gauti teisę būti ar gyventi Lietuvos Respublikoje patvirtinantį dokumentą arba nuo dienos, kurią skirta bauda sumokėta ar įpareigojimas įvykdytas, praėjo daugiau kaip vieni metai;
+
+
+
+
+3) nenustatoma šio Įstatymo 35 straipsnio 1 dalies 16 ar 19 punkte nurodytų atsisakymo išduoti ar pakeisti leidimą laikinai gyventi pagrindų;
+
+
+
+
+4) vykdo veiklą, kuriai kviečia užsienietį, ne trumpiau negu pastaruosius 6 mėnesius;
+
+
+
+
+5) nėra rimto pagrindo manyti, kad jo įmonė yra fiktyvi arba kad gali kilti jo kviečiamų užsieniečių nelegalios migracijos grėsmė.
+
+
+
+
+
+
+9. Jeigu darbdavys arba nors vienas iš visų darbdavių, ketinančių įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, neatitinka bent vienos iš šio straipsnio 8 dalyje nustatytų sąlygų, įsipareigojimas įdarbinti užsienietį nepriimamas 6 mėnesius nuo šių aplinkybių nustatymo dienos.
+
+
+
+
+10. Šio straipsnio 8 dalies nuostatos netaikomos darbdaviui, su kuriuo sudaryta investicijų sutartis Investicijų įstatymo 131 straipsnyje nustatyta tvarka ar stambaus projekto investicijų sutartis Investicijų įstatymo 155 straipsnyje nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -3234,7 +3311,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-5. Jeigu užsienietis per pirmuosius teisėto darbo Lietuvos Respublikoje metus pageidauja pakeisti darbdavį arba, netekęs darbo ir nepraėjus 6 mėnesiams, ketina dirbti kitą aukštos profesinės kvalifikacijos reikalaujantį darbą, jis turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį. Patikrinęs, ar užsienietis atitinka šio straipsnio 1 dalyje nustatytas sąlygas dirbti šį aukštos profesinės kvalifikacijos reikalaujantį darbą, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį ne vėliau kaip per 14 kalendorinių dienų nuo prašymo pateikimo dienos. Šis sprendimas galioja vieną mėnesį nuo jo priėmimo dienos. Užsienietis, kuriam leidimas laikinai gyventi išduotas šiame straipsnyje nustatytu pagrindu, gali dirbti ir pas kitą darbdavį, jeigu nekeičiamas darbdavys, kuris įsipareigojo užsienietį įdarbinti.
+5. Jeigu nuo pirmą kartą išduoto leidimo laikinai gyventi šiame straipsnyje nurodytu pagrindu išdavimo nėra praėję 12 mėnesių ir užsienietis pageidauja pakeisti darbdavį arba jeigu nuo pirmą kartą išduoto leidimo laikinai gyventi šiame straipsnyje nurodytu pagrindu išdavimo nėra praėję 12 mėnesių ir užsienietis nutraukė darbo santykius ar neteko darbo bei nepraėjus 6 mėnesiams nuo nutrauktų darbo santykių ar darbo netekimo ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą pas kitą darbdavį, jis turi pateikti Migracijos departamentui prašymą leisti pakeisti darbdavį. Patikrinęs, ar užsienietis atitinka šio straipsnio 1 dalyje nustatytas sąlygas dirbti šį aukštos profesinės kvalifikacijos reikalaujantį darbą, Migracijos departamentas priima sprendimą dėl leidimo pakeisti darbdavį ne vėliau kaip per 14 kalendorinių dienų nuo prašymo pateikimo dienos. Jeigu kyla pagrįstų įtarimų dėl užsieniečio keliamos grėsmės valstybės saugumui, Migracijos departamentas gali kreiptis į Valstybės saugumo departamentą dėl grėsmės valstybės saugumui įvertinimo. Tokiu atveju Migracijos departamentas sustabdo sprendimo dėl leidimo pakeisti darbdavį priėmimo terminą, kol bus gauta Valstybės saugumo departamento išvada dėl grėsmės valstybės saugumui, bet ne ilgiau kaip 2 mėnesiams. Apie sprendimo priėmimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo termino sustabdymo dienos. Migracijos departamento sprendimas dėl leidimo pakeisti darbdavį galioja vieną mėnesį nuo jo priėmimo dienos. Užsienietis, kuriam leidimas laikinai gyventi išduotas šiame straipsnyje nustatytu pagrindu, gali atlikti ir kitą darbo funkciją pas jį įdarbinti įsipareigojusį darbdavį, taip pat gali dirbti ir pas kitą darbdavį, jeigu nekeičiamas darbdavys, kuris įsipareigojo užsienietį įdarbinti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -3932,8 +4012,10 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-3) užsiima kita teisėta veikla ar pateikia dokumentus, patvirtinančius, kad ketina užsiimti kita teisėta veikla, įskaitant individualią veiklą, kaip ji apibrėžiama Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme. 
-TAR pastaba. 1 dalies nuostatos taikomos nuo pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje, pabaigos.
+3) užsiima kita teisėta veikla ar pateikia dokumentus, patvirtinančius, kad ketina užsiimti kita teisėta veikla, įskaitant savarankiškos veiklos vykdymą.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -4123,9 +4205,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-b) turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas); 
+b) turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar valstybės socialinių fondų biudžetams (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas); 
 Papunkčio pakeitimai:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -4140,6 +4223,14 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 d) yra likviduojami, bankrutuojantys arba nevykdo ekonominės veiklos; 
+
+
+
+
+e) prarado licencijuojamą veiklą reglamentuojančių Lietuvos Respublikos teisės aktų nustatytas licencijas ir (ar) leidimus tokiai veiklai vykdyti arba nebeatitinka licencijuojamos veiklos vykdymo sąlygų, kai užsienietis įdarbintas licencijuojamai veiklai; 
+Papildyta papunkčiu:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 Straipsnio punkto pakeitimai:
@@ -4182,9 +4273,11 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-21. Migracijos departamentas, nustatęs, kad yra šio straipsnio 1 dalies 5 punkte nustatytas leidimo laikinai gyventi panaikinimo pagrindas, kai užsienietį įdarbinusi laikinojo įdarbinimo įmonė yra išbraukta iš Valstybinės darbo inspekcijos sudaromo ir jos interneto svetainėje skelbiamo laikinojo įdarbinimo įmonių sąrašo, taip pat šio straipsnio 1 dalies 19 punkte nustatyti leidimo laikinai gyventi panaikinimo pagrindai, informuoja užsienietį apie tai, kad jam leidimas laikinai gyventi bus panaikintas, jeigu per 3 mėnesius jis nepateiks prašymo leisti pakeisti darbdavį šio Įstatymo 44 straipsnio 7 dalyje ar 441 straipsnio 5 dalyje nustatyta tvarka arba jeigu jis nepakeis darbdavio per 6 mėnesius, kai užsienietis, turintis leidimą laikinai gyventi šio Įstatymo 441 straipsnyje nustatytu pagrindu, dirba Lietuvos Respublikoje ilgiau negu vienerius metus. Jeigu užsienietis per 3 mėnesius nuo Migracijos departamento pranešimo išsiuntimo nepateikė prašymo leisti pakeisti darbdavį arba jeigu Migracijos departamentas, išnagrinėjęs užsieniečio pateiktą prašymą, priėmė sprendimą neleisti pakeisti darbdavio, arba jeigu užsienietis per 6 mėnesius neinformavo Migracijos departamento apie darbdavio keitimą, Migracijos departamentas priima sprendimą dėl leidimo laikinai gyventi panaikinimo šio straipsnio 1 dalies 5 arba 19 punkte nustatytais pagrindais.
+21. Migracijos departamentas, nustatęs, kad yra šio straipsnio 1 dalies 2 punkte nustatytas leidimo laikinai gyventi panaikinimo pagrindas, kai fizinis ar juridinis asmuo, kviečiantis užsienietį, pateikė tikrovės neatitinkančius duomenis arba pateikė neteisėtai įgytus ar suklastotus dokumentus, arba šio straipsnio 1 dalies 5 punkte nustatytas leidimo laikinai gyventi panaikinimo pagrindas, kai užsienietį įdarbinusi laikinojo įdarbinimo įmonė yra išbraukta iš Valstybinės darbo inspekcijos sudaromo ir jos interneto svetainėje skelbiamo laikinojo įdarbinimo įmonių sąrašo, taip pat šio straipsnio 1 dalies 19 punkte nustatyti leidimo laikinai gyventi panaikinimo pagrindai, informuoja užsienietį apie tai, kad jam leidimas laikinai gyventi bus panaikintas, jeigu per 3 mėnesius jis nepateiks prašymo leisti pakeisti darbdavį šio Įstatymo 44 straipsnio 7 dalyje ar 441 straipsnio 5 dalyje nustatyta tvarka arba jeigu jis nepakeis darbdavio per 6 mėnesius, kai užsienietis, turintis leidimą laikinai gyventi šio Įstatymo 441 straipsnyje nustatytu pagrindu, dirba Lietuvos Respublikoje ilgiau negu vienus metus. Jeigu užsienietis per 3 mėnesius nuo Migracijos departamento pranešimo išsiuntimo nepateikė prašymo leisti pakeisti darbdavį arba jeigu Migracijos departamentas, išnagrinėjęs užsieniečio pateiktą prašymą, priėmė sprendimą neleisti pakeisti darbdavio, arba jeigu užsienietis per 6 mėnesius neinformavo Migracijos departamento apie darbdavio keitimą, Migracijos departamentas priima sprendimą dėl leidimo laikinai gyventi panaikinimo šio straipsnio 1 dalies 2, 5 arba 19 punkte nustatytais pagrindais. 
 Papildyta straipsnio dalimi:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -4385,7 +4478,15 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-5) leidimas nuolat gyventi yra prarastas.
+5) leidimas nuolat gyventi yra prarastas;
+
+
+
+
+6) leidimas nuolat gyventi buvo panaikintas ir paskelbtas negaliojančiu, tačiau, apskundus sprendimą panaikinti leidimą nuolat gyventi, teismas pritaikė reikalavimo užtikrinimo priemones dėl apskųsto sprendimo vykdymo sustabdymo. 
+Papildyta straipsnio punktu:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -4401,7 +4502,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-4. Leidimas nuolat gyventi užsieniečiui įforminamas 5 metams, o praėjus šiam terminui – keičiamas. 
+4. Leidimas nuolat gyventi užsieniečiui išduodamas ir keičiamas 5 metams, išskyrus šio straipsnio 2 dalies 6 punkte nurodytą atvejį – leidimas nuolat gyventi keičiamas užsieniečio turėto leidimo nuolat gyventi galiojimo laikotarpiui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -4428,10 +4532,11 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-8. Asmenims, kuriems sukako 75 metai, asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – I grupės invalidai), ir asmenims, kuriems teisės aktų nustatyta tvarka yra nustatyti specialieji poreikiai, taip pat sunkių lėtinių psichikos ir elgesio sutrikimų turintiems asmenims, vaikams ir užsieniečiams, kurių anksčiau turėtas leidimas nuolat gyventi buvo panaikintas šio Įstatymo 54 straipsnio 1 dalies 3 ar 4 punkte nustatytais pagrindais, šio Įstatymo 53 straipsnio 6 dalies reikalavimai netaikomi. 
+8. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–55 procentų darbingumo lygis), ir asmenims, kuriems Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo nustatyta tvarka yra nustatyti individualieji pagalbos poreikiai (iki 2023 m. gruodžio 31 d. – specialieji poreikiai), taip pat sunkių lėtinių psichikos ir elgesio sutrikimų turintiems asmenims, vaikams ir užsieniečiams, kurių anksčiau turėtas leidimas nuolat gyventi buvo panaikintas šio Įstatymo 54 straipsnio 1 dalies 3 ar 4 punkte nustatytais pagrindais, šio straipsnio 6 dalyje nustatyti reikalavimai netaikomi.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1921, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00854
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -4665,75 +4770,29 @@ UŽSIENIEČIŲ DARBAS LIETUVOS RESPUBLIKOJE
 1. Užsienietis, kuris ketina dirbti Lietuvos Respublikoje ir kuris pagal šio Įstatymo 58 straipsnį nėra atleidžiamas nuo pareigos įsigyti leidimą dirbti, privalo įsigyti leidimą dirbti, jeigu:
 
 
-1) užsienietis ketina pasinaudoti šio Įstatymo 62 straipsnio 2 dalyje nustatyta teise dirbti ir jo profesija neįtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis; 
+1) atvyksta į Lietuvos Respubliką dirbti sezoninio darbo;
 
 
 
 
-2) užsienietis ketina pasinaudoti šio Įstatymo 62 straipsnio 2 dalyje nustatyta teise dirbti ir jo profesija įtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis, ir yra išnaudota kvota, nustatoma pagal šio Įstatymo 571 straipsnį;
+2) yra užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, įsteigtos įmonės darbuotojas, dirbantis pagal neterminuotą darbo sutartį, šios įmonės komandiruojamas laikinai dirbti į Lietuvos Respubliką ir yra apdraustas socialiniu draudimu toje valstybėje narėje.
 
 
 
 
-3) atvyksta į Lietuvos Respubliką dirbti sezoninio darbo;
+
+
+2. Leidimo dirbti užsieniečiams išdavimo tvarką nustato socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru.
 
 
 
 
-4) yra užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, įsteigtos įmonės darbuotojas, dirbantis pagal neterminuotą darbo sutartį, šios įmonės komandiruojamas laikinai dirbti į Lietuvos Respubliką ir yra apdraustas socialiniu draudimu toje valstybėje narėje.
+3. Leidimą dirbti (prireikus jo dublikatą) užsieniečiui išduoda ir panaikina, leidimo dirbti galiojimo laiką pratęsia Užimtumo tarnyba.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
-
-
-
-
-2. Leidimas dirbti užsieniečiui gali būti išduodamas, jeigu:
-
-
-1) Lietuvos Respublikoje nėra specialisto, atitinkančio darbdavio keliamus kvalifikacinius reikalavimus ar reikalavimus darbo patirčiai arba ketinančio dirbti už numatomą mokėti darbo užmokestį;
-
-
-
-
-2) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui. Jeigu su užsieniečiu ketinama sudaryti darbo keliems darbdaviams sutartį, įsipareigojimą įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį ne trumpesniam negu 6 mėnesių laikotarpiui pateikia pirmasis darbdavys, nurodydamas ir kitus darbdavius;
-
-
-
-
-3) pateikiama darbdavio informacija apie užsieniečio turimą kvalifikaciją, susijusią su atliktinu darbu; arba apie užsieniečio turimą ne mažesnę negu vienerių metų darbo patirtį per pastaruosius 3 metus, susijusią su atliktinu darbu; arba apie numatomą užsieniečiui mokėti mėnesinį darbo užmokestį, ne mažesnį negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
-
-
-
-
-3. Leidimo dirbti išdavimas šio Įstatymo 11 straipsnio 2–5 dalyse nurodytam užsieniečiui, ketinančiam pasinaudoti šio Įstatymo 62 straipsnio 2 dalyje nustatyta teise dirbti, nesuteikia teisės užsieniečiui Lietuvos Respublikoje būti ilgiau, negu nustatyta šio Įstatymo 11 straipsnio 2–5 dalyse.
-Straipsnio dalies pakeitimai:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
- 
-
-
-
-
-4. Leidimo dirbti užsieniečiams išdavimo tvarką nustato socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru.
-
-
-
-
-5. Leidimą dirbti (prireikus jo dublikatą) užsieniečiui išduoda ir panaikina, leidimo dirbti galiojimo laiką pratęsia Užimtumo tarnyba. 
-
-
-Straipsnio pakeitimai:
-Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
-Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 Straipsnio pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -4850,9 +4909,10 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 
 
-6) jis yra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybėje narėje įsteigtos įmonės darbuotojas, šios įmonės komandiruojamas laikinai dirbti į Lietuvos Respubliką ir turintis dokumentą (A1 pažymėjimą arba E 101 formos pažymą), patvirtinantį, kad vadovaujantis 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 883/2004 dėl socialinės apsaugos sistemų koordinavimo jam taikomi siunčiančiosios valstybės narės socialinės apsaugos teisės aktai; 
+6) jis yra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybėje narėje įsteigtos įmonės darbuotojas, šios įmonės komandiruojamas laikinai dirbti į Lietuvos Respubliką ir turintis dokumentą (A1 pažymėjimą), patvirtinantį, kad vadovaujantis 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 883/2004 dėl socialinės apsaugos sistemų koordinavimo su visais pakeitimais jam taikomi siunčiančiosios valstybės narės socialinės apsaugos teisės aktai. Jeigu užsieniečiui Reglamentas (EB) Nr. 883/2004 nėra taikomas, jis turi pateikti atitinkamos Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybės narės kompetentingos įstaigos, atsakingos už taikytinos teisės nustatymą vadovaujantis Reglamentu (EB) Nr. 883/2004, išduotą pažymą, patvirtinančią, kad jis yra apdraustas socialiniu draudimu toje Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybėje narėje, kurioje yra įsteigta jį siunčianti dirbti įmonė; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -4884,7 +4944,9 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-11) atvyksta į Lietuvos Respubliką dirbti ir yra užsienietis, kurio profesija yra įtraukta į Profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis, ir nėra išnaudota kvota, nustatoma pagal šio Įstatymo 571 straipsnį;
+11) Neteko galios nuo 2024-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 Papildyta straipsnio punktu:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Straipsnio punkto pakeitimai:
@@ -4978,10 +5040,17 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 59 straipsnis. Leidimo dirbti išdavimo pagrįstumas
 
 
-Leidimas dirbti užsieniečiui išduodamas atsižvelgiant į Lietuvos Respublikos darbo rinkos poreikius.
+1. Leidimas dirbti užsieniečiui išduodamas atsižvelgiant į Lietuvos Respublikos darbo rinkos poreikius.
+
+
+
+
+2. Leidimas dirbti užsieniečiui, kuris yra komandiruojamas laikinai dirbti į Lietuvos Respubliką, išduodamas darbams ir (ar) paslaugoms atlikti pagal darbų atlikimo ir (ar) paslaugų teikimo sutartį, sudarytą tarp įmonės Lietuvos Respublikoje (ar fizinio asmens), į kurią (pas kurį) užsienietis komandiruojamas laikinai dirbti, ir įmonės, įsteigtos užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, iš kurios užsienietis siunčiamas laikinai dirbti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
-
-
 
 
 
@@ -5003,7 +5072,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 61 straipsnis. Leidimo dirbti galiojimas
 
 
-1. Leidimas dirbti užsieniečiui išduodamas iki vienerių metų, nurodant darbą (pareigas) ir įmonę, įstaigą, organizaciją arba fizinį asmenį, pas kurį užsienietis dirbs, arba įmonę, įstaigą ar organizaciją, į kurią užsienietis yra komandiruojamas.
+1. Leidimas dirbti užsieniečiui išduodamas iki vienų metų, nurodant darbą (pareigas) ir užsieniečio darbdavį arba įmonę, įstaigą ar organizaciją (fizinį asmenį), į kurią (pas kurį) užsienietis yra komandiruojamas laikinai dirbti.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -5144,7 +5216,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-2. Šio Įstatymo 11 straipsnio 2–5 dalyse nurodytas užsienietis teisėto buvimo Lietuvos Respublikoje laikotarpiu gali dirbti Lietuvos Respublikoje, jeigu jam yra išduotas leidimas dirbti arba jis atitinka šio Įstatymo 58 straipsnio 6–13 punktuose nustatytas atleidimo nuo pareigos įsigyti leidimą dirbti sąlygas.
+2. Šio Įstatymo 11 straipsnio 2–5 dalyse nurodytas užsienietis teisėto buvimo Lietuvos Respublikoje laikotarpiu gali dirbti Lietuvos Respublikoje, jeigu jis atitinka šio Įstatymo 58 straipsnio 6–10 ir 13 punktuose nustatytas atleidimo nuo pareigos įsigyti leidimą dirbti sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -5154,14 +5229,18 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-4. Užsienietis, kuriam išduota nacionalinė viza ar leidimas laikinai gyventi šio Įstatymo 44 straipsnyje nustatytu pagrindu, gali dirbti tik pas tą darbdavį, kuris įsipareigojo jį įdarbinti, ir atlikti tik tą darbo funkciją, kuriai pas tą darbdavį buvo įdarbintas, išskyrus šio Įstatymo 44 straipsnio 6 dalyje nurodytus atvejus. Užsienietis, kuriam leidimas laikinai gyventi išduotas šio Įstatymo 441 straipsnyje nustatytu pagrindu, gali pakeisti darbdavį šio Įstatymo 441 straipsnio 5 dalyje nustatyta tvarka. Jeigu darbdavys, įsipareigojęs užsienietį įdarbinti, nėra keičiamas, toks užsienietis gali dirbti pas kitą darbdavį. Reikalavimas dirbti tik pas tą darbdavį, kuris įsipareigojo užsienietį įdarbinti, ir atlikti tik tą darbo funkciją, kuriai pas tą darbdavį užsienietis buvo įdarbintas, netaikomas užsieniečiams, kuriems leidimas laikinai gyventi išduotas pagal šio Įstatymo 495 straipsnio 1 dalies 1 punktą. 
+4. Užsienietis, kuriam išduota viza kaip atvykstančiam į Lietuvos Respubliką dirbti sezoninio darbo ar leidimas laikinai gyventi šio Įstatymo 44 straipsnyje nustatytu pagrindu, gali dirbti tik pas tą darbdavį, kuris įsipareigojo jį įdarbinti, ir atlikti tik tą darbo funkciją, kuriai pas tą darbdavį buvo įdarbintas, išskyrus šio Įstatymo 44 straipsnio 6 dalyje nurodytus atvejus. Užsienietis, kuriam leidimas laikinai gyventi išduotas šio Įstatymo 441 straipsnyje nustatytu pagrindu, gali pakeisti darbdavį šio Įstatymo 441 straipsnio 5 dalyje nustatyta tvarka. Jeigu darbdavys, įsipareigojęs užsienietį įdarbinti, nėra keičiamas, užsienietis, kuriam leidimas laikinai gyventi išduotas šio Įstatymo 441 straipsnyje nustatytu pagrindu, gali dirbti ir pas kitą darbdavį. Reikalavimas dirbti tik pas tą darbdavį, kuris įsipareigojo užsienietį įdarbinti, ir atlikti tik tą darbo funkciją, kuriai pas tą darbdavį užsienietis buvo įdarbintas, netaikomas užsieniečiams, kuriems leidimas laikinai gyventi išduotas pagal šio Įstatymo 495 straipsnio 1 dalies 1 punktą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
 
-5. Užsieniečio darbo užmokestis negali būti mažesnis už tokį patį darbą pas tą patį darbdavį dirbančio Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės ar Europos laisvosios prekybos asociacijos valstybės narės piliečio arba nuolat Lietuvos Respublikoje gyvenančio kito užsieniečio, o jeigu tokio darbuotojo nėra, užsieniečio darbo užmokestis negali būti mažesnis už Valstybės duomenų agentūros paskutinį paskelbtą kalendorinių metų vidutinį mėnesinį bruto darbo užmokestį šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) pagal atitinkamą ekonominės veiklos rūšį. Jeigu Valstybės duomenų agentūros paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis bruto darbo užmokestis šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) pagal atitinkamą ekonominės veiklos rūšį yra didesnis negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis, taikomas reikalavimas mokėti darbo užmokestį, ne mažesnį negu Valstybės duomenų agentūros paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis bruto darbo užmokestis šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) pagal atitinkamą ekonominės veiklos rūšį.
+5. Užsieniečio darbo užmokestis negali būti mažesnis už tokį patį darbą pas tą patį darbdavį dirbančio Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės ar Europos laisvosios prekybos asociacijos valstybės narės piliečio ar kito nuolat Lietuvos Respublikoje gyvenančio užsieniečio, o jeigu tokio darbuotojo nėra, užsieniečio darbo užmokestis negali būti mažesnis už Valstybės duomenų agentūros paskutinį paskelbtą kalendorinių metų vidutinį mėnesinį bruto darbo užmokestį šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) pagal atitinkamą ekonominės veiklos rūšį. Jeigu Valstybės duomenų agentūros paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis bruto darbo užmokestis šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) pagal atitinkamą ekonominės veiklos rūšį yra didesnis negu paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis BDU dydis, taikomas reikalavimas mokėti darbo užmokestį, ne mažesnį negu Valstybės duomenų agentūros paskutinis paskelbtas kalendorinių metų vidutinis mėnesinis bruto darbo užmokestis šalies ūkyje (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) pagal atitinkamą ekonominės veiklos rūšį. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -5242,7 +5321,10 @@ Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
 
 
 
-4. Lietuvos Respublikos valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos prižiūri, ar užsieniečiui leidimo dirbti sezoninį darbą galiojimo laikotarpiu suteikta gyvenamoji patalpa atitinka šio straipsnio 1 dalies 4 punkte nustatytus reikalavimus.
+4. Valstybinė darbo inspekcija prižiūri, ar užsieniečiui leidimo dirbti sezoninį darbą galiojimo laikotarpiu suteikta gyvenamoji patalpa atitinka šio straipsnio 1 dalies 4 punkte nustatytus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -5269,7 +5351,10 @@ Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
 
 
 
-2) užsienietis neatitinka leidimo dirbti išdavimo sąlygų, nustatytų šio Įstatymo 57 straipsnio 2 dalyje ar 621 straipsnio 1 dalyje;
+2) užsienietis neatitinka leidimo dirbti išdavimo sąlygų, nustatytų šio Įstatymo 57 straipsnio 1 dalies 2 punkte ar 621 straipsnio 1 dalyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -5289,7 +5374,10 @@ Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
 
 
 
-6) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas); 
+6) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar valstybės socialinių fondų biudžetams (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas); 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -5343,9 +5431,10 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-5) nustatoma, kad užsienietis neatitinka leidimo dirbti išdavimo sąlygų, nustatytų šio Įstatymo 57 straipsnio 2 dalyje ar 621 straipsnio 1 dalyje; 
+5) nustatoma, kad užsienietis neatitinka leidimo dirbti išdavimo sąlygų, nustatytų šio Įstatymo 57 straipsnio 1 dalies 2 punkte ar 621 straipsnio 1 dalyje; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -5372,7 +5461,9 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-9) pasibaigus teisėto buvimo Lietuvos Respublikoje laikotarpiui, šio Įstatymo 11 straipsnio 2–5 dalyse nurodytas užsienietis negavo dokumento, patvirtinančio jo teisę būti arba gyventi Lietuvos Respublikoje; 
+9) Neteko galios nuo 2024-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 Papildyta straipsnio punktu:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
  
@@ -7014,7 +7105,10 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 95 straipsnis. Asmens dokumentų išdavimas užsieniečiams, kuriems suteikta laikinoji apsauga
 
 
-1. Užsieniečiams, kuriems suteikta laikinoji apsauga, Migracijos departamentas išduoda leidimus laikinai gyventi arba šio Įstatymo 92 straipsnio 1 dalyje nurodytame Lietuvos Respublikos Vyriausybės nutarime nustatytomis sąlygomis – skaitmeninį dokumentą, suteikiantį užsieniečiui teisę laikinai gyventi Lietuvos Respublikoje ir patvirtinantį suteiktą laikinąją apsaugą, kurio išdavimo tvarką nustato vidaus reikalų ministras.
+1. Užsieniečiams, kuriems suteikta laikinoji apsauga, Migracijos departamentas išduoda arba keičia leidimus laikinai gyventi ar šio Įstatymo 92 straipsnio 1 dalyje nurodytame Lietuvos Respublikos Vyriausybės nutarime nustatytomis sąlygomis išduoda arba keičia skaitmeninį dokumentą, suteikiantį užsieniečiui teisę laikinai gyventi Lietuvos Respublikoje ir patvirtinantį suteiktą laikinąją apsaugą, kurio išdavimo tvarką nustato vidaus reikalų ministras. Šis skaitmeninis dokumentas prilyginamas leidimui laikinai gyventi.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -7185,12 +7279,18 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 100 straipsnis. Leidimo gyventi šalyje kortelės išdavimas ir keitimas
 
 
-Prašymas išduoti ar pakeisti leidimo gyventi šalyje kortelę turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos.
+1. Prašymas išduoti ar pakeisti leidimo gyventi šalyje kortelę turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos.
+
+
+
+
+2. Jeigu kyla pagrįstų įtarimų dėl Europos Sąjungos valstybės narės piliečio šeimos nario, kuris nėra Europos Sąjungos valstybės narės pilietis, keliamos grėsmės valstybės saugumui, Migracijos departamentas, nagrinėdamas prašymą dėl leidimo gyventi šalyje kortelės išdavimo ar pakeitimo, gali kreiptis į Valstybės saugumo departamentą dėl grėsmės valstybės saugumui įvertinimo. Tokiu atveju Migracijos departamentas sustabdo sprendimo dėl leidimo gyventi šalyje kortelės išdavimo ar pakeitimo priėmimo terminą, kol bus gauta Valstybės saugumo departamento išvada dėl grėsmės valstybės saugumui, bet ne ilgiau kaip 2 mėnesiams. Apie sprendimo priėmimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo termino sustabdymo dienos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -7334,9 +7434,10 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-2. Darbdavys arba įmonė, į kurią Europos Sąjungos valstybės narės pilietis ar Europos Sąjungos valstybės narės piliečio šeimos narys komandiruojamas laikinai dirbti, arba fizinis asmuo, pas kurį Europos Sąjungos valstybės narės pilietis ar Europos Sąjungos valstybės narės piliečio šeimos narys komandiruojamas laikinai dirbti, teikia informaciją apie įdarbintą arba komandiruotą laikinai dirbti Europos Sąjungos valstybės narės pilietį ar Europos Sąjungos valstybės narės piliečio šeimos narį Valstybinei darbo inspekcijai prie Socialinės apsaugos ir darbo ministerijos ir Užimtumo tarnybai šio Įstatymo 62 straipsnio 8 dalyje nustatyta tvarka.
+2. Darbdavys arba įmonė, į kurią Europos Sąjungos valstybės narės pilietis ar Europos Sąjungos valstybės narės piliečio šeimos narys komandiruojamas laikinai dirbti, arba fizinis asmuo, pas kurį Europos Sąjungos valstybės narės pilietis ar Europos Sąjungos valstybės narės piliečio šeimos narys komandiruojamas laikinai dirbti, teikia informaciją apie įdarbintą arba komandiruotą laikinai dirbti Europos Sąjungos valstybės narės pilietį ar Europos Sąjungos valstybės narės piliečio šeimos narį Valstybinei darbo inspekcijai ir Užimtumo tarnybai šio Įstatymo 62 straipsnio 8 dalyje nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -7552,16 +7653,20 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
 
 
-1051 straipsnis. Teisės nuolat gyventi Lietuvos Respublikoje pažymėjimo išdavimas ir keitimas
+1052 straipsnis. Leidimo nuolat gyventi šalyje kortelės išdavimas ir keitimas
 
 
-Prašymas išduoti ar pakeisti teisės nuolat gyventi Lietuvos Respublikoje pažymėjimą turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos. 
-Įstatymas papildytas straipsniu:
-Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
+1. Prašymas išduoti ar pakeisti leidimo nuolat gyventi šalyje kortelę turi būti išnagrinėtas ir šis dokumentas turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti ne vėliau kaip per vieną mėnesį nuo prašymo pateikimo Migracijos departamentui dienos.
+
+
+
+
+2. Jeigu kyla pagrįstų įtarimų dėl Europos Sąjungos valstybės narės piliečio šeimos nario, kuris nėra Europos Sąjungos valstybės narės pilietis, keliamos grėsmės valstybės saugumui, Migracijos departamentas, nagrinėdamas prašymą dėl leidimo nuolat gyventi šalyje kortelės išdavimo ar pakeitimo, gali kreiptis į Valstybės saugumo departamentą dėl grėsmės valstybės saugumui įvertinimo. Tokiu atveju Migracijos departamentas sustabdo sprendimo dėl leidimo nuolat gyventi šalyje kortelės išdavimo ar pakeitimo priėmimo terminą, kol bus gauta Valstybės saugumo departamento išvada dėl grėsmės valstybės saugumui, bet ne ilgiau kaip 2 mėnesiams. Apie sprendimo priėmimo termino sustabdymą užsienietis informuojamas raštu ne vėliau kaip per 2 darbo dienas nuo sprendimo priėmimo termino sustabdymo dienos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -8895,9 +9000,10 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 2. Sprendimo dėl užsieniečio išsiuntimo iš Lietuvos Respublikos vykdymas sustabdomas, jeigu: 
 
 
-1) atitinkamam administraciniam teismui priėmus nutartį dėl reikalavimo užtikrinimo priemonių taikymo, kai sprendimas dėl užsieniečio išsiuntimo iš Lietuvos Respublikos apskundžiamas teismui, išskyrus atvejus, kai užsienietis turi būti išsiųstas dėl jo keliamos grėsmės valstybės saugumui ar viešajai tvarkai, o Europos Sąjungos valstybės narės pilietis, jo šeimos narys arba kitas asmuo, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, – dėl jo keliamos labai rimtos grėsmės valstybės saugumui;
+1) Regionų administraciniam teismui priėmus nutartį dėl reikalavimo užtikrinimo priemonių taikymo, kai sprendimas dėl užsieniečio išsiuntimo iš Lietuvos Respublikos apskundžiamas teismui, išskyrus atvejus, kai užsienietis turi būti išsiųstas dėl jo keliamos grėsmės valstybės saugumui ar viešajai tvarkai, o Europos Sąjungos valstybės narės pilietis, jo šeimos narys arba kitas asmuo, kuris pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise, – dėl jo keliamos labai rimtos grėsmės valstybės saugumui;
 Straipsnio punkto pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -9115,10 +9221,11 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 133 straipsnis. Draudimas atvykti į Lietuvos Respubliką
 
 
-1. Užsieniečiui, kuriam buvo atsisakyta išduoti kelionės leidimą ar jis buvo panaikintas ar atšauktas dėl vienos ar kelių priežasčių, nustatytų Reglamento (ES) 2018/1240 37 straipsnio 1 dalies a–e punktuose, arba kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta, ar atšaukta Šengeno viza, arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, užsieniečiui, kuris buvo neįleistas į Lietuvos Respubliką, įpareigotas išvykti iš Lietuvos Respublikos, grąžintas į užsienio valstybę, perduotas užsienio valstybei pagal Lietuvos Respublikos sudarytą tarptautinę sutartį dėl neteisėtai esančių asmenų grąžinimo (readmisijos) arba bandė neteisėtai išvykti iš Lietuvos Respublikos ar išvyko iš jos, arba užsieniečiui, kuris neturi teisės gyventi Lietuvos Respublikoje ir nevykdo įsipareigojimų muitinei ar nesumokėjo Lietuvos Respublikos įstatymų nustatyta tvarka skirtos (skirtų) baudos (baudų), gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui.
+1. Užsieniečiui, kuriam buvo atsisakyta išduoti kelionės leidimą ar jis buvo panaikintas ar atšauktas dėl vienos ar kelių priežasčių, nustatytų Reglamento (ES) 2018/1240 37 straipsnio 1 dalies a–e punktuose, arba kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta, ar atšaukta Šengeno viza, arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, užsieniečiui, kuris buvo neįleistas į Lietuvos Respubliką, įpareigotas išvykti iš Lietuvos Respublikos, grąžintas į užsienio valstybę, perduotas užsienio valstybei pagal Lietuvos Respublikos sudarytą tarptautinę sutartį dėl neteisėtai esančių asmenų grąžinimo (readmisijos) arba bandė neteisėtai išvykti iš Lietuvos Respublikos ar išvyko iš jos, arba užsieniečiui, kuris neturi teisės gyventi Lietuvos Respublikoje ir nevykdo įsipareigojimų muitinei, nesumokėjo Lietuvos Respublikos įstatymų nustatyta tvarka skirtos (skirtų) baudos (baudų) arba nepateikė bent vienos iš privalomų teikti mokesčių deklaracijų, gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -9314,7 +9421,10 @@ Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 137 straipsnis. Skundo padavimas
 
 
-1. Skundas dėl sprendimo, priimto pagal šį Įstatymą, gali būti paduotas atitinkamam administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka ir sąlygomis, išskyrus šiame Įstatyme numatytus atvejus.
+1. Skundas dėl sprendimo, priimto pagal šį Įstatymą, gali būti paduotas Regionų administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka ir sąlygomis, išskyrus šiame Įstatyme numatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -9332,22 +9442,22 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 138 straipsnis. Skundo padavimo terminas
 
 
-1. Užsienietis skundą dėl sprendimo, priimto pagal šį Įstatymą, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, gali paduoti atitinkamam apygardos administraciniam teismui per 14 dienų nuo sprendimo įteikimo dienos.
+1. Užsienietis skundą dėl sprendimo, priimto pagal šį Įstatymą, išskyrus šio straipsnio 2 dalyje nurodytus atvejus, gali paduoti Regionų administraciniam teismui per 14 dienų nuo sprendimo įteikimo dienos.
 
 
 
 
-2. Prieglobsčio prašytojas skundą dėl sprendimo nesuteikti prieglobsčio, priimto išnagrinėjus prašymą suteikti prieglobstį iš esmės skubos tvarka, ir dėl sprendimo, priimto pagal šio Įstatymo 77 straipsnio 2 dalį, gali paduoti atitinkamam apygardos administraciniam teismui per 7 dienas nuo atitinkamo sprendimo įteikimo dienos. 
-Straipsnio dalies pakeitimai:
-Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
-Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
- 
+2. Prieglobsčio prašytojas skundą dėl sprendimo nesuteikti prieglobsčio, priimto išnagrinėjus prašymą suteikti prieglobstį iš esmės skubos tvarka, ir dėl sprendimo, priimto pagal šio Įstatymo 77 straipsnio 2 dalį, gali paduoti Regionų administraciniam teismui per 7 dienas nuo atitinkamo sprendimo įteikimo dienos.
 
 
-Straipsnio pakeitimai:
-Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
+
+
+3. Kol nėra pasibaigęs sprendimo panaikinti leidimą laikinai gyventi apskundimo ir nutarties dėl reikalavimo užtikrinimo priemonių dėl apskųsto sprendimo vykdymo sustabdymo priėmimo terminas, o kai skundas paduotas, kol nėra išspręstas skundo priėmimo teisme klausimas, sprendimo vykdymas sustabdomas, išskyrus atvejus, kai sprendimas priimtas dėl užsieniečio keliamos grėsmės valstybės saugumui. 
+
+
 Straipsnio pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -9359,7 +9469,10 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 1. Apskųsto sprendimo vykdymas sustabdomas, kai:
 
 
-1) panaikinamas užsieniečio leidimas gyventi, išskyrus atvejus, kai sprendimas panaikinti leidimą laikinai gyventi priimtas šio Įstatymo 50 straipsnio 1 dalies 14 punkte nurodytu pagrindu, o leidimas nuolat gyventi – šio Įstatymo 54 straipsnio 1 dalies 2 ar 21 punkte nurodytais pagrindais;
+1) Neteko galios nuo 2024-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -9390,9 +9503,10 @@ Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 
 
 
-2. Šio straipsnio 1 dalyje nenustatytais atvejais apskųsto sprendimo vykdymas gali būti sustabdomas atitinkamo administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių. Teismas nutartį dėl reikalavimo užtikrinimo priemonių, kai skundas pateiktas šio Įstatymo 138 straipsnio 2 dalyje nustatytais atvejais, priima ne vėliau kaip per 2 dienas nuo prašymo taikyti tokias priemones gavimo dienos, o jeigu toks prašymas pateikiamas kartu su skundu, – nuo skundo gavimo dienos. 
+2. Šio straipsnio 1 dalyje nenustatytais atvejais apskųsto sprendimo vykdymas gali būti sustabdomas Regionų administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių. Teismas nutartį dėl reikalavimo užtikrinimo priemonių, kai skundas pateiktas šio Įstatymo 138 straipsnio 2 dalyje nustatytais atvejais, priima ne vėliau kaip per 2 dienas nuo prašymo taikyti tokias priemones gavimo dienos, o jeigu toks prašymas pateikiamas kartu su skundu, – nuo skundo gavimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -9470,12 +9584,18 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 1401 straipsnis. Skundų dėl užsieniečiui išduoto leidimo gyventi ar teisės gyventi Lietuvos Respublikoje, pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo dėl užsieniečio keliamos grėsmės valstybės saugumui, viešajai tvarkai ar visuomenei nagrinėjimas
 
 
-1. Užsienietis, gavęs šio Įstatymo 4 straipsnio 6, 7 arba 8 dalyje nurodytą sprendimą panaikinti jam išduotą leidimą gyventi ar jo teisę gyventi Lietuvos Respublikoje arba panaikinti jam suteiktą pabėgėlio statusą, papildomą arba laikinąją apsaugą, turi teisę jį skųsti pirmosios instancijos administraciniam teismui per 14 kalendorinių dienų nuo sprendimo įteikimo dienos. 
+1. Užsienietis, gavęs šio Įstatymo 4 straipsnio 6, 7 arba 8 dalyje nurodytą sprendimą panaikinti jam išduotą leidimą gyventi ar jo teisę gyventi Lietuvos Respublikoje arba panaikinti jam suteiktą pabėgėlio statusą, papildomą arba laikinąją apsaugą, turi teisę jį skųsti Regionų administraciniam teismui per 14 kalendorinių dienų nuo sprendimo įteikimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
 
-2. Bylos dėl leidimo gyventi ar teisės gyventi Lietuvos Respublikoje, pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo nagrinėjimas pirmosios instancijos administraciniame teisme turi būti užbaigtas ir sprendimas turi būti priimtas ne vėliau kaip per 2 mėnesius nuo skundo priėmimo dienos.
+2. Bylos dėl leidimo gyventi ar teisės gyventi Lietuvos Respublikoje, pabėgėlio statuso, papildomos arba laikinosios apsaugos panaikinimo nagrinėjimas Regionų administraciniame teisme turi būti užbaigtas ir sprendimas turi būti priimtas ne vėliau kaip per 2 mėnesius nuo skundo priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -9631,7 +9751,10 @@ Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 
 
-8) užsienietis turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai užsieniečiui mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), nevykdo įsipareigojimų muitinei arba yra nesumokėjęs Lietuvos Respublikos įstatymų nustatyta tvarka skirtos baudos (baudų), kurios (kurių) dydis (suma) didesnis (didesnė) negu vienas bazinės socialinės išmokos dydis (išskyrus atvejus, kai baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl baudų vyksta ginčas).
+8) užsienietis turi didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar valstybės socialinių fondų biudžetams (išskyrus atvejus, kai užsieniečiui mokesčių, delspinigių, baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), nevykdo įsipareigojimų muitinei arba yra nesumokėjęs Lietuvos Respublikos įstatymų nustatyta tvarka skirtos baudos (baudų), kurios (kurių) dydis (suma) didesnis (didesnė) negu vienas bazinės socialinės išmokos dydis (išskyrus atvejus, kai baudų mokėjimas išdėstytas dalimis ar atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl baudų vyksta ginčas).
+Straipsnio punkto pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -10200,7 +10323,10 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
-1. Skundas dėl sprendimų, nurodytų šio Įstatymo 77 straipsnio 1 dalyje, 86 straipsnio 3 dalyje, 87 straipsnio 3 dalyje, 125, 126 ir 133 straipsniuose, gali būti paduotas atitinkamam apygardos administraciniam teismui per 7 dienas nuo sprendimo įteikimo dienos. 
+1. Skundas dėl sprendimų, nurodytų šio Įstatymo 77 straipsnio 1 dalyje, 86 straipsnio 3 dalyje, 87 straipsnio 3 dalyje, 125, 126 ir 133 straipsniuose, gali būti paduotas Regionų administraciniam teismui per 7 dienas nuo sprendimo įteikimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
@@ -10219,12 +10345,17 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
  
 
 
-1. Apskųsto sprendimo vykdymas sustabdomas šio Įstatymo 139 straipsnio 1 dalies 1, 4 ir 5 punktuose nurodytais atvejais.
+1. Apskųsto sprendimo vykdymas sustabdomas šio Įstatymo 139 straipsnio 1 dalies 4 ir 5 punktuose nurodytais atvejais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+ 
 
 
 
 
-2. Šio straipsnio 1 dalyje nenustatytu atveju apskųsto sprendimo vykdymas gali būti sustabdomas atitinkamo administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių. Teismas nutartį dėl reikalavimo užtikrinimo priemonių priima ne vėliau kaip per 2 dienas nuo prašymo taikyti tokias priemones gavimo dienos, o jeigu toks prašymas pateikiamas kartu su skundu, – nuo skundo gavimo dienos.
+2. Šio straipsnio 1 dalyje nenustatytu atveju apskųsto sprendimo vykdymas gali būti sustabdomas Regionų administracinio teismo nutartimi dėl reikalavimo užtikrinimo priemonių. Teismas nutartį dėl reikalavimo užtikrinimo priemonių priima ne vėliau kaip per 2 dienas nuo prašymo taikyti tokias priemones gavimo dienos, o jeigu toks prašymas pateikiamas kartu su skundu, – nuo skundo gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
 
 
@@ -10233,15 +10364,14 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 14027 straipsnis. Skundų nagrinėjimas
-Straipsnio numeracijos pakeitimas:
-Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
+
+
+Regionų administracinis teismas skundą privalo išnagrinėti ir sprendimą priimti per 2 mėnesius nuo skundo priėmimo dienos, o Lietuvos vyriausiasis administracinis teismas – per vieną mėnesį nuo apeliacinio skundo priėmimo dienos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
  
-
-
-Atitinkamas apygardos administracinis teismas skundą privalo išnagrinėti ir sprendimą priimti per 2 mėnesius nuo skundo priėmimo dienos, o Lietuvos vyriausiasis administracinis teismas – per vieną mėnesį nuo apeliacinio skundo priėmimo dienos. 
- 
-
-
 
 
 
@@ -11010,3 +11140,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 3, 4, 5, 11, 21, 22-1, 26, 28, 32, 44, 58, 62, 67, 71, 79, 85, 94, 99, 100, 101, 102, 103-1, 104, 105-2, 105-3, 105-4, 106-1, 108, 113, 114, 115, 115-1, 118, 123, 125, 127, 140-2, 140-8, 140-9, 140-13, 140-18, 140-21, 140-28 straipsnių ir priedo pakeitimo, 140-16, 140-19 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 5, 21-1, 26, 28, 33, 35, 36, 40, 44, 44-1, 49-5, 50, 53, 57, 57-1, 58, 59, 61, 62, 62-1, 63, 94, 95, 100, 103, 105-2, 128, 133, 137, 138, 139, 140-1, 140-5, 140-25, 140-26, 140-27 straipsnių pakeitimo ir 61-1 straipsnio pripažinimo netekusiu galios įstatymas
