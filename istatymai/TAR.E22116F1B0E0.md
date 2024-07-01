@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2023-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -1164,10 +1164,11 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 18 straipsnis. Akcininko teisė gauti informaciją
 
 
-1. Akcininkui raštu pareikalavus, bendrovė ne vėliau kaip per 7 dienas nuo reikalavimo gavimo dienos privalo sudaryti akcininkui galimybę susipažinti ir (ar) pateikti bendrovės įstatų, metinių ir tarpinių finansinių ataskaitų rinkinių, bendrovės metinių ir tarpinių pranešimų, auditoriaus išvadų ir finansinių ataskaitų audito ataskaitų, visuotinių akcininkų susirinkimų protokolų ar kitų dokumentų, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, stebėtojų tarybos pasiūlymų ar atsiliepimų visuotiniams akcininkų susirinkimams, akcininkų sąrašų, stebėtojų tarybos ir valdybos narių sąrašų, kitų bendrovės dokumentų, kurie turi būti vieši pagal įstatymus, taip pat kitų bendrovės įstatuose nurodytų dokumentų kopijas. Bendrovė gali atsisakyti sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų, susijusių su bendrovės komercine (gamybine) paslaptimi, konfidencialia informacija, kopijas, išskyrus atvejus, kai bendrovės informacija akcininkui būtina įgyvendinti kituose teisės aktuose numatytus imperatyvius reikalavimus ir akcininkas užtikrina tokios informacijos konfidencialumą. Bendrovė privalo sudaryti akcininkui galimybę susipažinti su kita bendrovės informacija ir (ar) pateikti dokumentų kopijas, jeigu tokia informacija ir dokumentai, įskaitant informaciją ir dokumentus, susijusius su bendrovės komercine (gamybine) paslaptimi ir konfidencialia informacija, akcininkui būtini vykdant kituose teisės aktuose numatytus reikalavimus ir akcininkas užtikrina tokios informacijos ir dokumentų konfidencialumą. Bendrovė atsisako akcininkui pateikti dokumentų kopijas, jeigu negalima nustatyti dokumentų pareikalavusio akcininko tapatybės. Atsisakymą sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų kopijas bendrovė turi įforminti raštu, jeigu akcininkas to pareikalauja. Ginčus dėl akcininko teisės gauti informaciją sprendžia teismas. 
+1. Akcininkui raštu pareikalavus, bendrovė ne vėliau kaip per 7 dienas nuo reikalavimo gavimo dienos privalo sudaryti akcininkui galimybę susipažinti ir (ar) pateikti bendrovės įstatų, metinių ir tarpinių finansinių ataskaitų rinkinių, bendrovės vadovybės ataskaitos, auditoriaus išvadų ir finansinių ataskaitų audito ataskaitų, tvarumo atskaitomybės užtikrinimo išvadų, visuotinių akcininkų susirinkimų protokolų ar kitų dokumentų, kuriais įforminti visuotinio akcininkų susirinkimo sprendimai, stebėtojų tarybos pasiūlymų ar atsiliepimų visuotiniams akcininkų susirinkimams, akcininkų sąrašų, stebėtojų tarybos ir valdybos narių sąrašų, kitų bendrovės dokumentų, kurie turi būti vieši pagal įstatymus, taip pat kitų bendrovės įstatuose nurodytų dokumentų kopijas. Bendrovė gali atsisakyti sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų, susijusių su bendrovės komercine (gamybine) paslaptimi, konfidencialia informacija, kopijas, išskyrus atvejus, kai bendrovės informacija akcininkui būtina siekiant įgyvendinti kituose teisės aktuose numatytus imperatyvius reikalavimus ir akcininkas užtikrina tokios informacijos konfidencialumą. Bendrovė privalo sudaryti akcininkui galimybę susipažinti su kita bendrovės informacija ir (ar) pateikti dokumentų kopijas, jeigu tokia informacija ir dokumentai, įskaitant informaciją ir dokumentus, susijusius su bendrovės komercine (gamybine) paslaptimi ir konfidencialia informacija, akcininkui būtini vykdant kituose teisės aktuose numatytus reikalavimus ir akcininkas užtikrina tokios informacijos ir dokumentų konfidencialumą. Bendrovė atsisako akcininkui pateikti dokumentų kopijas, jeigu negalima nustatyti dokumentų pareikalavusio akcininko tapatybės. Atsisakymą sudaryti akcininkui galimybę susipažinti ir (ar) pateikti dokumentų kopijas bendrovė turi įforminti raštu, jeigu akcininkas to pareikalauja. Ginčus dėl akcininko teisės gauti informaciją sprendžia teismas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -1295,6 +1296,14 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 5) rinkti ir atšaukti auditorių ar audito įmonę metinių finansinių ataskaitų rinkinio auditui atlikti, nustatyti audito paslaugų apmokėjimo sąlygas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
+
+
+
+
+51) rinkti ir atšaukti auditorių, audito įmonę arba nepriklausomą tvarumo atskaitomybės užtikrinimo paslaugos teikėją tvarumo atskaitomybės užtikrinimo paslaugoms teikti, kai pagal Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymą į bendrovės vadovybės ataskaitą privaloma įtraukti informaciją tvarumo klausimais; 
+Papildyta straipsnio punktu:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -1483,10 +1492,18 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-26) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis.
+26) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
+
+
+
+
+27) priimti sprendimą dėl bendrovės metinių finansinių ataskaitų audito kitais, nei nurodyta Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme ar numatyta bendrovės įstatuose, atvejais.
+Papildyta straipsnio punktu:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -1520,9 +1537,10 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-2. Visuotiniame akcininkų susirinkime dalyvauti ir kalbėti turi teisę taip pat ir stebėtojų tarybos nariai, valdybos nariai, bendrovės vadovas, visuotinio akcininkų susirinkimo inspektorius, auditoriaus išvadą ir finansinių ataskaitų audito ataskaitą parengęs auditorius. 
+2. Visuotiniame akcininkų susirinkime dalyvauti ir kalbėti turi teisę taip pat ir stebėtojų tarybos nariai, valdybos nariai, bendrovės vadovas, visuotinio akcininkų susirinkimo inspektorius, auditoriaus išvadą ir finansinių ataskaitų audito ataskaitą parengęs auditorius, tvarumo atskaitomybės užtikrinimo išvadą parengęs auditorius, tvarumo atskaitomybės užtikrinimo specialistas (toliau – užtikrinimo specialistas).
 Straipsnio dalies pakeitimai:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -1757,7 +1775,10 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-4) auditorius ar audito įmonė nutraukia sutartį su bendrove ar dėl kitų priežasčių negali patikrinti bendrovės metinių finansinių ataskaitų rinkinio, jeigu auditas privalomas pagal įstatymus ar yra numatytas įstatuose;
+4) auditorius ar audito įmonė nutraukia sutartį su bendrove ar dėl kitų priežasčių negali patikrinti bendrovės metinių finansinių ataskaitų rinkinio, jeigu auditas privalomas pagal įstatymus, auditorius ar audito įmonė, nepriklausomas tvarumo atskaitomybės užtikrinimo paslaugos teikėjas (toliau – nepriklausomas užtikrinimo paslaugos teikėjas) nutraukia sutartį su bendrove ar dėl kitų priežasčių negali patikrinti bendrovės vadovybės ataskaitoje pateiktos informacijos tvarumo klausimais, jeigu pateikti informaciją tvarumo klausimais vadovybės ataskaitoje privaloma pagal įstatymus;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -1843,9 +1864,10 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-4. Stebėtojų taryba, valdyba (jeigu valdyba nesudaroma – bendrovės vadovas), taip pat akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/20 visų balsų, jeigu bendrovės įstatuose nenustatytas mažesnis balsų skaičius, bet kuriuo metu iki visuotinio akcininkų susirinkimo ar susirinkimo metu gali raštu ar elektroninių ryšių priemonėmis, jeigu užtikrinamas perduodamos informacijos saugumas ir galima nustatyti šių asmenų tapatybę, siūlyti naujus sprendimų projektus į susirinkimo darbotvarkę įtrauktais klausimais, papildomus kandidatus į bendrovės organų narius, auditorių ar audito įmonę. 
+4. Stebėtojų taryba, valdyba (jeigu valdyba nesudaroma – bendrovės vadovas), taip pat akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/20 visų balsų, jeigu bendrovės įstatuose nenustatytas mažesnis balsų skaičius, bet kuriuo metu iki visuotinio akcininkų susirinkimo ar susirinkimo metu gali raštu ar elektroninių ryšių priemonėmis, jeigu užtikrinamas perduodamos informacijos saugumas ir galima nustatyti šių asmenų tapatybę, siūlyti naujus sprendimų projektus į susirinkimo darbotvarkę įtrauktais klausimais, papildomus kandidatus į bendrovės organų narius, auditorių ar audito įmonę, nepriklausomą užtikrinimo paslaugos teikėją. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -1856,7 +1878,10 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-6. Jeigu visuotinio akcininkų susirinkimo darbotvarkėje numatyta atšaukti bendrovės organų narius, auditorių ar audito įmonę, į darbotvarkę atitinkamai turi būti įtraukti naujų narių rinkimo į šiuos bendrovės organus ar naujo auditoriaus arba naujos audito įmonės rinkimo klausimai.
+6. Jeigu visuotinio akcininkų susirinkimo darbotvarkėje numatyta atšaukti bendrovės organų narius, auditorių ar audito įmonę, nepriklausomą užtikrinimo paslaugos teikėją, į darbotvarkę atitinkamai turi būti įtraukti naujų narių rinkimo į šiuos bendrovės organus ar naujo auditoriaus, naujos audito įmonės arba naujo nepriklausomo užtikrinimo paslaugos teikėjo rinkimo klausimai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -2466,7 +2491,10 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-2) kandidatai į visuotinio akcininkų susirinkimo renkamų bendrovės organų narius, renkamą auditorių ar įmonės kandidatės į renkamą audito įmonę. Kandidatai turi būti nurodyti taip, kad akcininkas galėtų pažymėti, už kurį kandidatą balsuoja ar kiek balsų skiria kiekvienam kandidatui.
+2) kandidatai į visuotinio akcininkų susirinkimo renkamų bendrovės organų narius, renkamą auditorių, įmonės kandidatės į renkamą audito įmonę ar nepriklausomą užtikrinimo paslaugos teikėją. Kandidatai turi būti nurodyti taip, kad akcininkas galėtų pažymėti, už kurį kandidatą balsuoja ar kiek balsų skiria kiekvienam kandidatui.
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -2635,7 +2663,10 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-3) auditorius ar audito įmonės darbuotojas, dalyvaujantis ir (ar) dalyvavęs atliekant bendrovės finansinių ataskaitų rinkinio auditą, nuo kurio atlikimo nepraėjo 2 metų laikotarpis;
+3) auditorius, užtikrinimo specialistas, audito įmonės ar nepriklausomo užtikrinimo paslaugos teikėjo darbuotojas, dalyvaujantis ir (ar) dalyvavęs atliekant bendrovės finansinių ataskaitų auditą, vadovybės ataskaitoje teikiamos informacijos tvarumo klausimais patikrinimą, nuo kurių atlikimo nepraėjo 2 metų laikotarpis;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -2803,7 +2834,9 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-7) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno (nuostolių) paskirstymo projekto ir bendrovės metinio pranešimo, taip pat valdybos ir bendrovės vadovo veiklos;
+7) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, vadovybės ataskaitos, pelno (nuostolių) paskirstymo projekto, taip pat valdybos ir bendrovės vadovo veiklos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
@@ -2811,7 +2844,9 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-8) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto ir jam priimti sudaryto tarpinių finansinių ataskaitų rinkinio bei parengto tarpinio pranešimo;
+8) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto ir jam priimti parengto tarpinių finansinių ataskaitų rinkinio; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
@@ -2827,7 +2862,9 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-10) pateikia visuotiniam akcininkų susirinkimui ir valdybai atsiliepimus ir pasiūlymus dėl akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir atlygio ataskaitos projekto;
+10) pateikia visuotiniam akcininkų susirinkimui ir valdybai atsiliepimus ir pasiūlymus dėl akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir vadovybės ataskaitoje teikiamos informacijos apie atlygį (toliau – informacija apie atlygį) projekto;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
@@ -2960,7 +2997,10 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-4) auditorius ar audito įmonės darbuotojas, dalyvaujantis ir (ar) dalyvavęs atliekant bendrovės finansinių ataskaitų rinkinio auditą, nuo kurio atlikimo nepraėjo 2 metų laikotarpis, su kuriuo sudaryta sutartis dėl bendrovės finansinių ataskaitų rinkinio audito. 
+4) auditorius, audito įmonės darbuotojas, dalyvaujantis ir (ar) dalyvavęs atliekant bendrovės finansinių ataskaitų auditą, užtikrinimo specialistas, audito įmonės, nepriklausomo užtikrinimo paslaugos teikėjo darbuotojas, dalyvaujantis ir (ar) dalyvavęs atliekant bendrovės vadovybės ataskaitoje teikiamos informacijos tvarumo klausimais patikrinimą, nuo kurių atlikimo nepraėjo 2 metų laikotarpis, su kuriais sudaryta sutartis dėl bendrovės finansinių ataskaitų audito ir (arba) vadovybės ataskaitoje teikiamos informacijos tvarumo klausimais užtikrinimo. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2970,13 +3010,11 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, nariai turi atitikti šio Įstatymo 31 straipsnio 8 dalies 1, 3, 4, 5 ir 6 punktuose nurodytus reikalavimus ir ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės vadovu ar stebėtojų tarybos nariu, ar akcininku, kuriam priklausančios akcijos suteikia ne mažiau kaip 1/5 balsų visuotiniame akcininkų susirinkime. 
-TAR pastaba. 33 straipsnio 7 dalies nuostatos taikomos akcinėse bendrovėse:
-1) renkant naują stebėtojų tarybą ar valdybą, atliekančią Akcinių bendrovių įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas;
-2) renkant pavienius 1 punkte nurodytų organų narius.
+7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, nariai turi atitikti šio Įstatymo 31 straipsnio 8 dalies 1, 3, 4, 5 ir 6 punktuose nurodytus reikalavimus ir ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės vadovu ar stebėtojų tarybos nariu, ar akcininku, kuriam priklausančios akcijos suteikia ne mažiau kaip 1/5 balsų visuotiniame akcininkų susirinkime. Reikalavimas ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės stebėtojų tarybos nariu netaikomas, kai bendrovės įstatai keičiami dėl valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, sudarymo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 Nr. XIII-3183, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15506
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -3028,12 +3066,18 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-2) bendrovės metinį pranešimą;
+2) vadovybės ataskaitą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
 
-3) bendrovės tarpinį pranešimą;
+3) Neteko galios nuo 2024-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -3084,9 +3128,11 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-31. Valdybai patvirtinus bendrovės metinį pranešimą, visuotinis akcininkų susirinkimas turi teisę priimti sprendimą pritarti atlygio ataskaitai. Visuotinio akcininkų susirinkimo pritarimas nepanaikina valdybos atsakomybės už priimtą sprendimą. Jeigu visuotinis akcininkų susirinkimas priima sprendimą nepritarti atlygio ataskaitai, valdyba, tvirtindama kitų metų atlygio ataskaitą, joje nurodo, kaip buvo atsižvelgta į visuotinio akcininkų susirinkimo nepritarimo argumentus. 
+31. Valdybai patvirtinus vadovybės ataskaitą, visuotinis akcininkų susirinkimas turi teisę priimti sprendimą pritarti informacijai apie atlygį. Visuotinio akcininkų susirinkimo pritarimas nepanaikina valdybos atsakomybės už priimtą sprendimą. Jeigu visuotinis akcininkų susirinkimas priima sprendimą nepritarti informacijai apie atlygį, valdyba, tvirtindama kitų metų informaciją apie atlygį, joje nurodo, kaip buvo atsižvelgta į visuotinio akcininkų susirinkimo nepritarimo argumentus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Straipsnio dalies pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -3186,7 +3232,9 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-9. Valdyba analizuoja, vertina bendrovės metinių finansinių ataskaitų rinkinį, pelno (nuostolių) paskirstymo projektą ir kartu su atsiliepimais ir pasiūlymais dėl jų bei bendrovės metiniu pranešimu teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.
+9. Valdyba analizuoja, vertina bendrovės metinių finansinių ataskaitų rinkinį, pelno (nuostolių) paskirstymo projektą ir kartu su atsiliepimais ir pasiūlymais dėl jų bei vadovybės ataskaita teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
  
@@ -3210,7 +3258,9 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-10. Valdyba analizuoja, vertina sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektą ir jam priimti sudarytą tarpinių finansinių ataskaitų rinkinį, kuriuos kartu su atsiliepimais ir pasiūlymais dėl jų bei bendrovės tarpiniu pranešimu teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.
+10. Valdyba analizuoja, vertina sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektą ir jam priimti parengtą tarpinių finansinių ataskaitų rinkinį, kuriuos kartu su atsiliepimais ir pasiūlymais dėl jų teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
  
@@ -3467,7 +3517,10 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-2) metinių finansinių ataskaitų rinkinio sudarymą ir bendrovės metinio pranešimo parengimą;
+2) metinių finansinių ataskaitų rinkinio ir vadovybės ataskaitos parengimą ir metinių finansinių ataskaitų rinkinio arba audituoto metinių finansinių ataskaitų rinkinio, jeigu bendrovės metinių finansinių ataskaitų auditas yra privalomas pagal įstatymus, pateikimą tvirtinti visuotiniam akcininkų susirinkimui; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -3498,9 +3551,11 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-6) atlygio ataskaitos projekto parengimą; 
+6) informacijos apie atlygį projekto parengimą; 
 Papildyta straipsnio punktu:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
@@ -3508,9 +3563,11 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-7) atlygio politikos ir atlygio ataskaitos viešą paskelbimą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje; 
+7) atlygio politikos ir informacijos apie atlygį viešą paskelbimą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje; 
 Papildyta straipsnio punktu:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
  
@@ -3518,7 +3575,9 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-8) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio sudarymą ir tarpinio pranešimo parengimą, sprendimui dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo priimti. Tarpiniam pranešimui mutatis mutandis taikomos Įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą;
+8) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio parengimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
@@ -3538,7 +3597,9 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-10) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus ar bendrovės įstatus;
+10) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus, ir sutarties su auditoriumi, audito įmone ar nepriklausomu tvarumo atskaitomybės užtikrinimo paslaugos teikėju sudarymą, kai į vadovybės ataskaitą pagal Įmonių ir įmonių grupių atskaitomybės įstatymą privalo būti įtraukta informacija tvarumo klausimais; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
@@ -3653,7 +3714,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-15. Bendrovės vadovas turi užtikrinti, kad auditoriui būtų pateikti visi sutartyje su auditoriumi ar audito įmone nurodytam patikrinimui reikalingi bendrovės dokumentai. 
+15. Bendrovės vadovas turi užtikrinti, kad auditoriui, užtikrinimo specialistui būtų pateikti visi sutartyje su auditoriumi, audito įmone ar nepriklausomu užtikrinimo paslaugos teikėju nurodytam patikrinimui reikalingi bendrovės dokumentai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 Straipsnio pakeitimai:
@@ -3814,10 +3878,11 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-11. Sandoriai dėl turto investavimo, įsigijimo, perleidimo, nuomos, įkeitimo ir hipotekos, prievolių įvykdymo laidavimo ar garantavimo, kai sandorio arba bendra tokių sandorių suma per finansinius metus viršija 1/10 akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vėliausiai sudarytame balanse nurodytos turto vertės, su susijusia šalimi sudaromi įprastinėmis rinkos sąlygomis verčiantis įprasta ūkine veikla ir periodiškai vertinami dėl atitikties šioms sąlygoms, vadovaujantis stebėtojų tarybos arba valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, patvirtinta tvarka ir sąlygomis. Susijusios šalys vertinant sandorius nedalyvauja. Informacija apie tokius sandorius, sudarytus per finansinius metus su ta pačia susijusia šalimi, papildomai pateikiama šios akcinės bendrovės metiniame pranešime, kuriame nurodomos sandorio šalys (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, adresas korespondencijai) ir sandorio vertė.
+11. Sandoriai dėl turto investavimo, įsigijimo, perleidimo, nuomos, įkeitimo ir hipotekos, prievolių įvykdymo laidavimo ar garantavimo, kai sandorio arba bendra tokių sandorių suma per finansinius metus viršija 1/10 akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vėliausiai parengtame balanse nurodytos turto vertės, su susijusia šalimi sudaromi įprastinėmis rinkos sąlygomis verčiantis įprasta ūkine veikla ir periodiškai vertinami dėl atitikties šioms sąlygoms, vadovaujantis stebėtojų tarybos arba valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, patvirtinta tvarka ir sąlygomis. Susijusios šalys vertinant sandorius nedalyvauja. Informacija apie tokius sandorius, sudarytus per finansinius metus su ta pačia susijusia šalimi, papildomai pateikiama šios akcinės bendrovės vadovybės ataskaitoje, kurioje nurodomos sandorio šalys (juridinio asmens pavadinimas, teisinė forma, kodas, buveinė, registras, kuriame kaupiami ir saugomi duomenys apie šį asmenį; fizinio asmens vardas, pavardė, adresas korespondencijai) ir sandorio vertė.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -3919,7 +3984,10 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-5. Atlygio politika teikiama tvirtinti visuotiniam akcininkų susirinkimui ne rečiau kaip kas ketverius metus, taip pat jeigu esama esminių atlygio politikos pakeitimų. Keičiant atlygio politiką, visuotiniam akcininkų susirinkimui pateikiamos visos atlygio ataskaitos, patvirtintos po paskutinio visuotinio akcininkų susirinkimo balsavimo dėl atlygio politikos. 
+5. Atlygio politika teikiama tvirtinti visuotiniam akcininkų susirinkimui ne rečiau kaip kas ketverius metus, taip pat jeigu esama esminių atlygio politikos pakeitimų. Keičiant atlygio politiką, visuotiniam akcininkų susirinkimui pateikiamos visos vadovybės ataskaitos, kuriose pateikta informacija apie atlygį ir kurios patvirtintos po paskutinio visuotinio akcininkų susirinkimo balsavimo dėl atlygio politikos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -5915,7 +5983,9 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
 
-12. Viešai siūlyti obligacijas gali uždaroji akcinė bendrovė, kurios paskutinių finansinių metų, einančių prieš finansinius metus, kuriais priimtas sprendimas išleisti obligacijas, metinių finansinių ataskaitų rinkinys yra audituotas, ir tik tada, kai ji:
+12. Viešai siūlyti obligacijas gali uždaroji akcinė bendrovė, kai ji: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 
 
 1) sudarė sutartį su finansinių priemonių asmeninių sąskaitų tvarkytoju dėl viešai siūlomų vertybinių popierių (obligacijų) sąskaitų tvarkymo; 
@@ -5933,7 +6003,10 @@ Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
 
 
 
-13. Uždarosios akcinės bendrovės, kuri obligacijas siūlo viešai, metinių finansinių ataskaitų rinkinio auditas yra privalomas iki finansinių metų, kuriais įvykdyti visi įsipareigojimai obligacijų savininkams.
+13. Neteko galios nuo 2024-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -6136,43 +6209,34 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
  
 
 
-58 straipsnis. Bendrovės finansinių ataskaitų rinkinys
+58 straipsnis. Bendrovės finansinių ataskaitų rinkinys ir vadovybės ataskaita
 
 
-1. Bendrovės finansinių ataskaitų rinkinio sudarymą ir bendrovės metinio pranešimo parengimą nustato įstatymai ir kiti teisės aktai.
-
-
-
-
-2. Bendrovės metinių finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrovė likviduojama, tvirtina eilinis visuotinis akcininkų susirinkimas. Jeigu bendrovės metinių finansinių ataskaitų rinkinio auditas pagal įstatymus yra privalomas ar yra numatytas įstatuose, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys.
-Straipsnio dalies pakeitimai:
-Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
- 
+1. Bendrovės finansinių ataskaitų rinkinio ir vadovybės ataskaitos sudėties, rengimo, teikimo, skelbimo ir saugojimo reikalavimai nustatyti Įmonių ir įmonių grupių atskaitomybės įstatyme, o finansinių ataskaitų audito ir tvarumo atskaitomybės užtikrinimo reikalavimai – Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme.
 
 
 
 
-3. Bendrovės metinių finansinių ataskaitų rinkinys kartu su bendrovės metiniu pranešimu ir auditoriaus išvada (jeigu auditas privalomas pagal įstatymus ar numatytas įstatuose) per 30 dienų nuo eilinio visuotinio akcininkų susirinkimo turi būti pateiktas juridinių asmenų registro tvarkytojui. Kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrovė likviduojama, jos nepatvirtintas metinių finansinių ataskaitų rinkinys juridinių asmenų registro tvarkytojui pateikiamas per 5 mėnesius nuo finansinių metų pabaigos.
-Straipsnio dalies pakeitimai:
-Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
- 
+2. Bendrovės metinių finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrovė likviduojama, tvirtina eilinis visuotinis akcininkų susirinkimas. Jeigu bendrovės metinių finansinių ataskaitų auditas pagal įstatymus yra privalomas, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys.
 
 
 
 
-4. Jeigu pagal įstatymus bendrovė privalo sudaryti metinių konsoliduotųjų finansinių ataskaitų rinkinį ir konsoliduotąjį metinį pranešimą, tokiam finansinių ataskaitų rinkiniui ir tokiam metiniam pranešimui mutatis mutandis taikomos šio Įstatymo nuostatos dėl bendrovės metinių finansinių ataskaitų rinkinio ir bendrovės metinio pranešimo.
+3. Bendrovės metinių finansinių ataskaitų rinkinys kartu su vadovybės ataskaita ir auditoriaus išvada (jeigu auditas privalomas pagal įstatymus) bei tvarumo atskaitomybės užtikrinimo išvada, kai į vadovybės ataskaitą pagal Įmonių ir įmonių grupių atskaitomybės įstatymą privalo būti įtraukta informacija tvarumo klausimais, per 30 dienų nuo eilinio visuotinio akcininkų susirinkimo turi būti pateiktas juridinių asmenų registro tvarkytojui. Kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrovė likviduojama, jos nepatvirtintas metinių finansinių ataskaitų rinkinys juridinių asmenų registro tvarkytojui pateikiamas per 5 mėnesius nuo finansinių metų pabaigos.
 
 
 
 
-5. Jeigu šio Įstatymo 601 straipsnio 3 dalyje nustatyta tvarka bendrovė priima sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo, bendrovės tarpinių finansinių ataskaitų rinkinys, tarpinis pranešimas ir numatytais atvejais auditoriaus išvada per 30 dienų nuo visuotinio akcininkų susirinkimo, priėmusio sprendimą skirti dividendus už trumpesnį negu finansiniai metai laikotarpį, turi būti pateikti juridinių asmenų registro tvarkytojui.
+4. Jeigu pagal įstatymus bendrovė privalo parengti metinių konsoliduotųjų finansinių ataskaitų rinkinį ir konsoliduotąją vadovybės ataskaitą, tokiam finansinių ataskaitų rinkiniui ir tokiai vadovybės ataskaitai mutatis mutandis taikomos šio Įstatymo nuostatos dėl bendrovės metinių finansinių ataskaitų rinkinio ir vadovybės ataskaitos.
+
+
+
+
+5. Jeigu šio Įstatymo 601 straipsnio 3 dalyje nustatyta tvarka bendrovė priima sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo, bendrovės tarpinių finansinių ataskaitų rinkinys ir numatytais atvejais auditoriaus išvada per 30 dienų nuo visuotinio akcininkų susirinkimo, priėmusio sprendimą skirti dividendus už trumpesnį negu finansiniai metai laikotarpį, turi būti pateikti juridinių asmenų registro tvarkytojui.
 
 
 Straipsnio pakeitimai:
-Nr. X-750, 2006-07-11, Žin., 2006, Nr. 82-3252 (2006-07-27)
-Nr. X-1015, 2007-01-12, Žin., 2007, Nr. 12-489 (2007-01-30)
-Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
-Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
  
 
 
@@ -6444,7 +6508,10 @@ Nr. XI-1798, 2011-12-15, Žin., 2011, Nr. 160-7565 (2011-12-28)
 
 
 
-3. Jeigu bendrovė gauna iniciatyvos teisę turinčių akcininkų rašytinę paraišką, kurioje siūloma skirti dividendus už trumpesnį negu finansiniai metai laikotarpį, turi būti sudarytas trumpesnio negu finansiniai metai laikotarpio tarpinių finansinių ataskaitų rinkinys, parengtas tarpinis pranešimas ir sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektas. Trumpesnio negu finansiniai metai laikotarpio pradžia sutampa su bendrovės einamųjų finansinių metų pradžia. Jeigu bendrovės metinių finansinių ataskaitų rinkinio auditas pagal įstatymus yra privalomas ar numatytas bendrovės įstatuose, tarpinių finansinių ataskaitų rinkinys turi būti audituotas.
+3. Jeigu bendrovė gauna iniciatyvos teisę turinčių akcininkų rašytinę paraišką, kurioje siūloma skirti dividendus už trumpesnį negu finansiniai metai laikotarpį, turi būti parengti trumpesnio negu finansiniai metai laikotarpio tarpinių finansinių ataskaitų rinkinys ir sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projektas. Trumpesnio negu finansiniai metai laikotarpio pradžia sutampa su bendrovės einamųjų finansinių metų pradžia. Jeigu bendrovės metinių finansinių ataskaitų auditas pagal įstatymus yra privalomas, tarpinių finansinių ataskaitų rinkinys turi būti audituotas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -6752,7 +6819,10 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 
 
 
-3) reorganizuojamų ir dalyvaujančių reorganizavime bendrovių 3 paskutinių metų metinių finansinių ataskaitų rinkiniais, metiniais pranešimais, taip pat tarpinių finansinių ataskaitų rinkiniais, jeigu jie sudaromi. Tarpinių finansinių ataskaitų rinkinys turi būti sudaromas, jeigu reorganizavimo sąlygos parengtos praėjus 6 ar daugiau mėnesių po nors vienos reorganizuojamos ar dalyvaujančios reorganizavime bendrovės finansinių metų pabaigos, bet ne anksčiau kaip likus 3 mėnesiams iki reorganizavimo sąlygų parengimo. Tarpinių finansinių ataskaitų rinkinys sudaromas pagal tas pačias taisykles, kaip ir prieš tai sudarytas metinių finansinių ataskaitų rinkinys. Tarpinių finansinių ataskaitų rinkinys nesudaromas, jeigu visi kiekvienos reorganizuojamos ir dalyvaujančios reorganizavime bendrovės akcininkai su tuo sutinka, taip pat tuo atveju, kai reorganizuojama ar dalyvaujanti reorganizavime akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, tarpines finansines ataskaitas skelbia vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka ir sudaro galimybę su jomis susipažinti visiems reorganizuojamos ir dalyvaujančios reorganizavime akcinės bendrovės akcininkams. Bendrovės akcininkų sutikimas išreiškiamas šio Įstatymo 63 straipsnio 5 dalyje nurodyta forma;
+3) reorganizuojamų ir dalyvaujančių reorganizavime bendrovių 3 paskutinių metų metinių finansinių ataskaitų rinkiniais, vadovybės ataskaitomis, taip pat tarpinių finansinių ataskaitų rinkiniais, jeigu jie sudaromi. Tarpinių finansinių ataskaitų rinkinys turi būti parengtas, jeigu reorganizavimo sąlygos parengtos praėjus 6 ar daugiau mėnesių po nors vienos reorganizuojamos ar dalyvaujančios reorganizavime bendrovės finansinių metų pabaigos, bet ne anksčiau kaip likus 3 mėnesiams iki reorganizavimo sąlygų parengimo. Tarpinių finansinių ataskaitų rinkinys rengiamas pagal tas pačias taisykles, kaip ir prieš tai parengtas metinių finansinių ataskaitų rinkinys. Tarpinių finansinių ataskaitų rinkinys nerengiamas, jeigu visi kiekvienos reorganizuojamos ir dalyvaujančios reorganizavime bendrovės akcininkai su tuo sutinka, taip pat tuo atveju, kai reorganizuojama ar dalyvaujanti reorganizavime akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, tarpines finansines ataskaitas skelbia vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka ir sudaro galimybę su jomis susipažinti visiems reorganizuojamos ir dalyvaujančios reorganizavime akcinės bendrovės akcininkams. Bendrovės akcininkų sutikimas išreiškiamas šio Įstatymo 63 straipsnio 5 dalyje nurodyta forma;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -7586,7 +7656,10 @@ Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
 
 
 
-3) užsienio bendrovės metinių finansinių ataskaitų rinkinys ir metinis pranešimas (jeigu rengiamas) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), taip pat, jeigu sudaromi, metinis konsoliduotųjų finansinių ataskaitų rinkinys ir konsoliduotasis metinis pranešimas (jeigu rengiamas) kartu su auditoriaus išvada (tais atvejais, kai auditas yra atliktas arba pagal įstatymus privalo būti atliktas), kurie yra sudaryti (parengti) ir atskleisti pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę;
+3) ne vėliau kaip per 12 mėnesių nuo finansinių metų, už kuriuos parengti toliau šiame  punkte nurodyti dokumentai, paskutinės dienos užsienio bendrovės metinių finansinių ataskaitų rinkinys ir vadovybės ataskaita arba tvarumo ataskaita (jeigu rengiama pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę) kartu su auditoriaus išvada (tais atvejais, kai auditas yra privalomas pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę) bei tvarumo atskaitomybės užtikrinimo išvada, kai į vadovybės ataskaitą valstybės, kurioje įsteigta užsienio bendrovė, teisę privalo būti įtraukta informacija tvarumo klausimais arba teikiama tvarumo ataskaita, taip pat, jeigu turi būti rengiami, metinių konsoliduotųjų finansinių ataskaitų rinkinys ir konsoliduotoji vadovybės ataskaita arba konsoliduotoji tvarumo ataskaita (jeigu rengiama pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę) kartu su auditoriaus išvada (tais atvejais, kai auditas yra privalomas pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę) bei tvarumo atskaitomybės užtikrinimo išvada, kai į konsoliduotąją vadovybės ataskaitą pagal valstybės, kurioje įsteigta užsienio bendrovė, teisę privalo būti įtraukta informacija tvarumo klausimais arba teikiama konsoliduotoji tvarumo ataskaita;
+Straipsnio punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -7899,7 +7972,10 @@ priedas
 
 
 
-3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/95/ES.
+3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos Direktyva (ES) 2022/2464.
+Punkto pakeitimai:
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+ 
 
 
 
@@ -8204,3 +8280,13 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 15, 17, 21, 26, 27, 28, 29, 30, 30-1, 32, 34, 37, 37-2, 40, 42, 45, 47, 47-1, 51, 56 ir 78 straipsnių, priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 7, 12, 37-2, 45, 46-1 ir 57 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 18, 20, 21, 24, 25, 30, 31, 32, 33, 34, 37, 37-2, 37-3, 55, 58, 60-1, 65, 74, 76 straipsnių ir priedo pakeitimo įstatymas
