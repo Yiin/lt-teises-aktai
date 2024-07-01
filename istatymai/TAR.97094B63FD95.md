@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2022-05-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
@@ -606,29 +606,45 @@ Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
 
 
 
-11 straipsnis. Bendrijos finansinė apskaita ir finansinė atskaitomybė
+11 straipsnis. Bendrijos finansinė apskaita, atskaitomybė ir finansinių ataskaitų auditas
 
 
-1. Bendrija Lietuvos Respublikos įmonių atskaitomybės įstatymo nustatyta tvarka sudaro finansinių ataskaitų rinkinį, jeigu tai yra nustatyta bendrijos veiklos sutartyje.
-
-
-
-
-2. Bendrija, kurios visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo Įmonių atskaitomybės įstatymo nustatyta tvarka parengti metinį pranešimą ir sudaryti metinių finansinių ataskaitų rinkinį, neatsižvelgiant į tai, ar finansinių ataskaitų rinkinio sudarymas nustatytas bendrijos veiklos sutartyje.
+1. Bendrija Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo nustatyta tvarka parengia finansinių ataskaitų rinkinį ir (arba) vadovybės ataskaitą, jeigu tai yra nustatyta bendrijos veiklos sutartyje.
 
 
 
 
-3. Bendrijos metinių finansinių ataskaitų rinkinys, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrija likviduojama, ir metinis pranešimas ne vėliau kaip per keturis mėnesius nuo finansinių metų pabaigos turi būti bendrijos veiklos sutartyje nustatyta tvarka dalyvių patvirtinti ir Civilinio kodekso nustatytu terminu pateikti Juridinių asmenų registro tvarkytojui. Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais likviduojamos bendrijos nepatvirtintas metinių finansinių ataskaitų rinkinys Juridinių asmenų registro tvarkytojui pateikiamas per penkis mėnesius nuo finansinių metų pabaigos.
+2. Bendrija, kurios visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo Įmonių ir įmonių grupių atskaitomybės įstatymo nustatyta tvarka parengti metinių finansinių ataskaitų rinkinį ir vadovybės ataskaitą, kai juos parengti ir pateikti Juridinių asmenų registro tvarkytojui privaloma pagal Įmonių ir įmonių grupių atskaitomybės įstatymą, neatsižvelgiant į tai, ar finansinių ataskaitų rinkinio ir vadovybės ataskaitos parengimas nustatytas bendrijos veiklos sutartyje.
 
 
 
 
-4. Bendrijos trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinys ir tarpinis pranešimas ne vėliau kaip per trisdešimt dienų nuo sprendimo dėl jų patvirtinimo priėmimo dienos turi būti pateikti Juridinių asmenų registro tvarkytojui, jeigu bendrijos veiklos sutartyje nustatyta, kad bendrija sudaro finansinių ataskaitų rinkinį, arba šio straipsnio 2 dalyje nustatytu atveju.
+3. Bendrijos metinių finansinių ataskaitų rinkinys, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrija likviduojama, ir vadovybės ataskaita, kai juos privaloma parengti pagal Įmonių ir įmonių grupių atskaitomybės įstatymą, ne vėliau kaip per keturis mėnesius nuo finansinių metų pabaigos turi būti bendrijos veiklos sutartyje nustatyta tvarka dalyvių patvirtinti ir Civilinio kodekso nustatytu terminu pateikti Juridinių asmenų registro tvarkytojui.
+
+
+
+
+4. Jeigu bendrijos metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys ir Juridinių asmenų registro tvarkytojui jis pateikiamas kartu su auditoriaus išvada.
+
+
+
+
+5. Jeigu bendrijos vadovybės ataskaitoje pagal Įmonių ir įmonių grupių atskaitomybės įstatymą turi būti pateikta informacija tvarumo klausimais, Juridinių asmenų registro tvarkytojui vadovybės ataskaita turi būti pateikta kartu su tvarumo atskaitomybės užtikrinimo išvada.
+
+
+
+
+6. Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais likviduojamos bendrijos nepatvirtintas metinių finansinių ataskaitų rinkinys Juridinių asmenų registro tvarkytojui pateikiamas per penkis mėnesius nuo finansinių metų pabaigos.
+
+
+
+
+7. Bendrijos trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinys ne vėliau kaip per trisdešimt dienų nuo sprendimo dėl jų patvirtinimo priėmimo dienos turi būti pateiktas Juridinių asmenų registro tvarkytojui, jeigu bendrija sudaro finansinių ataskaitų rinkinį šio straipsnio 2 dalyje nustatytu atveju.
 
 
 Straipsnio pakeitimai:
 Nr. XIV-690, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25117
+Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
  
 
 
@@ -642,12 +658,18 @@ Nr. XIV-690, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25117
 
 
 
-2. Dalyviams skirta iš bendrijos veiklos gauto pelno dalis bendrijos veiklos sutartyje ar bendrijos dalyvių sutartyje, jeigu ji yra sudaryta, nustatyta tvarka gali būti paskirstyta ir nepasibaigus bendrijos finansiniams metams – už trumpesnį negu finansiniai metai laikotarpį, jeigu bendrija per šį laikotarpį gavo pelno, neturi neįvykdytų prievolių, kurių terminai yra suėję iki sprendimo dėl pelno dalies paskirstymo priėmimo, ir paskirsčius iš bendrijos veiklos gautą dalyviams skirtą pelno dalį būtų pajėgi įvykdyti savo prievoles už einamuosius finansinius metus. Bendrija, kurios bendrijos veiklos sutartyje nustatyta, kad ji sudaro finansinių ataskaitų rinkinį, privalo sudaryti ir patvirtinti trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinį. Bendrija, kurios visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo sudaryti ir patvirtinti trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinį ir tarpinį pranešimą. Sprendimas dėl bendrijos, kuri privalo sudaryti ir patvirtinti tarpinių finansinių ataskaitų rinkinį, dalyviams skirto pelno dalies už trumpesnį negu finansiniai metai laikotarpį paskirstymo gali būti priimtas per tris mėnesius nuo laikotarpio, už kurį siūloma paskirstyti dalyviams skirto pelno dalį, pabaigos, bet ne anksčiau, negu buvo patvirtintas metinių finansinių ataskaitų rinkinys ir paskirstytas bendrijos pelnas už ankstesnius finansinius metus, ir ne vėliau kaip iki finansinių metų pabaigos. Sprendimą paskirstyti dalyviams skirtą pelno dalį priima bendrijos tikrieji nariai vienbalsiai, jeigu bendrijos veiklos sutartyje nenustatyta kitaip.
+2. Dalyviams skirta iš bendrijos veiklos gauto pelno dalis bendrijos veiklos sutartyje ar bendrijos dalyvių sutartyje, jeigu ji yra sudaryta, nustatyta tvarka gali būti paskirstyta ir nepasibaigus bendrijos finansiniams metams – už trumpesnį negu finansiniai metai laikotarpį, jeigu bendrija per šį laikotarpį gavo pelno, neturi neįvykdytų prievolių, kurių terminai yra suėję iki sprendimo dėl pelno dalies paskirstymo priėmimo, ir paskirsčius iš bendrijos veiklos gautą dalyviams skirtą pelno dalį būtų pajėgi įvykdyti savo prievoles už einamuosius finansinius metus. Bendrija, kurios bendrijos veiklos sutartyje nustatyta, kad ji sudaro finansinių ataskaitų rinkinį, privalo sudaryti ir patvirtinti trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinį. Bendrija, kurios visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo sudaryti ir patvirtinti trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinį. Sprendimas dėl bendrijos, kuri privalo sudaryti ir patvirtinti tarpinių finansinių ataskaitų rinkinį, dalyviams skirto pelno dalies už trumpesnį negu finansiniai metai laikotarpį paskirstymo gali būti priimtas per tris mėnesius nuo laikotarpio, už kurį siūloma paskirstyti dalyviams skirto pelno dalį, pabaigos, bet ne anksčiau, negu buvo patvirtintas metinių finansinių ataskaitų rinkinys ir paskirstytas bendrijos pelnas už ankstesnius finansinius metus, ir ne vėliau kaip iki finansinių metų pabaigos. Sprendimą paskirstyti dalyviams skirtą pelno dalį priima bendrijos tikrieji nariai vienbalsiai, jeigu bendrijos veiklos sutartyje nenustatyta kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
+ 
 
 
 
 
-3. Bendrijos tarpiniam pranešimui mutatis mutandis taikomos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą.
+3. Neteko galios nuo 2024-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
+ 
 
 
 
@@ -1044,3 +1066,13 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 5 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-690, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25117
 Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 11 ir 16 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2640, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09676
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 4, 5, 7 ir 16 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 11 ir 12 straipsnių pakeitimo įstatymas
