@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2024-04-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01 iki 2024-07-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -2138,14 +2138,71 @@ Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
 
 
 
-6. Šiame straipsnyje nustatytais pagrindais pirmiausiai nagrinėti kito teismo teisėjams priskiriamos bylos, kurios šio kodekso nustatytais atvejais gali būti nagrinėjamos rašytinio proceso tvarka, taip pat bylos, kurias nagrinėja vienas teisėjas. Kitam apylinkės teismui nagrinėti gali būti priskiriamos bylos, nagrinėtinos pirmosios instancijos tvarka, o kitam apygardos teismui – pirmosios ir (arba) apeliacinės instancijos tvarka nagrinėtinos bylos.
+6. Šiame straipsnyje nustatytais pagrindais pirmiausia nagrinėti kito teismo teisėjams priskiriamos bylos, kurias nagrinėja vienas teisėjas. Kitam apylinkės teismui nagrinėti gali būti priskiriamos bylos, nagrinėtinos pirmosios instancijos tvarka, o kitam apygardos teismui – pirmosios ir (arba) apeliacinės instancijos tvarka nagrinėtinos bylos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1582, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25132
+Nr. XIV-2138, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14332
  
 
 
 Papildyta straipsniu:
 Nr. XII-2247, 2015-12-23, paskelbta TAR 2016-01-04, i. k. 2016-00049
+ 
+
+
+
+
+622 straipsnis. Bylų, kurios gali būti nagrinėjamos rašytinio proceso tvarka, priskyrimas nagrinėti
+
+
+1. Bylos, kurios šio Kodekso nustatytais atvejais apylinkės teismuose gali būti nagrinėjamos rašytinio proceso tvarka ir kurioms netaikomos išimtinio teismingumo taisyklės, paskirstomos naudojantis kompiuterine programa, sukurta vadovaujantis Teisėjų tarybos patvirtintomis bylų paskirstymo teisėjams ir teisėjų kolegijų sudarymo taisyklėmis (toliau – kompiuterinė programa), apylinkių teismams arba jų rūmams, atsižvelgiant į jų darbo krūvį ir vadovaujantis Teisėjų tarybos patvirtintomis bylų paskirstymo taisyklėmis.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytų naudojantis kompiuterine programa paskirstytų bylų teismingumas nekeičiamas – bylą nagrinėjantis teisėjas (teisėjų kolegija) veikia teismo, kuriam byla teisminga, vardu.
+
+
+
+
+3. Tais atvejais, kai šio straipsnio 1 dalyje nurodytą bylą teismas nusprendžia nagrinėti žodinio proceso tvarka, byla nagrinėjama šio Kodekso 1752 straipsnyje nustatyta tvarka naudojant informacines ir elektroninių ryšių technologijas, o jei bent viena šalis motyvuotai prašo nagrinėti bylą tiesiogiai dalyvaujant teismo posėdyje, nenaudojant informacinių ir elektroninių ryšių technologijų, ir teismas šį prašymą pripažįsta pagrįstu arba teismas savo iniciatyva pripažįsta, kad būtina bylą nagrinėti tiesiogiai dalyvaujant teismo posėdyje, nenaudojant informacinių ir elektroninių ryšių technologijų, bylos nagrinėjimas vyksta tame apylinkės teisme arba tuose teismo rūmuose, kuriems byla teisminga.
+
+
+
+
+4. Tais atvejais, kai šio straipsnio 1 dalyje nurodytą bylą teismas nusprendžia nagrinėti žodinio proceso tvarka ir byla nagrinėjama šio Kodekso 1752 straipsnyje nustatyta tvarka naudojant informacines ir elektroninių ryšių technologijas, šalis gali reikalauti užtikrinti jai ir (ar) jos atstovui galimybę pasinaudoti teismo informacinėmis ir elektroninių ryšių technologijomis (vaizdo konferencijomis, telekonferencijomis ir kita) to apylinkės teismo arba tų teismo rūmų, kuriems byla teisminga, patalpose.
+
+
+Papildyta straipsniu:
+Nr. XIV-2138, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14332
+ 
+
+
+
+
+623 straipsnis. Bylų pagal apeliacinius skundus (atskiruosius skundus) priskyrimas nagrinėti
+
+
+1. Bylos pagal apeliacinius skundus (atskiruosius skundus) dėl neįsiteisėjusio apylinkės teismo sprendimo, nutarties paskirstomos naudojantis kompiuterine programa apygardų teismams, atsižvelgiant į jų darbo krūvį ir vadovaujantis Teisėjų tarybos patvirtintomis bylų paskirstymo taisyklėmis.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytų naudojantis kompiuterine programa paskirstytų bylų teismingumas nekeičiamas – bylą nagrinėjantis teisėjas (teisėjų kolegija) veikia teismo, kuriam byla teisminga, vardu.
+
+
+
+
+3. Tais atvejais, kai šio straipsnio 1 dalyje nurodytą bylą teismas nusprendžia nagrinėti žodinio proceso tvarka, byla nagrinėjama šio Kodekso 1752 straipsnyje nustatyta tvarka naudojant informacines ir elektroninių ryšių technologijas, o jei bent viena šalis motyvuotai prašo nagrinėti bylą tiesiogiai dalyvaujant teismo posėdyje, nenaudojant informacinių ir elektroninių ryšių technologijų, ir teismas šį prašymą pripažįsta pagrįstu arba teismas savo iniciatyva pripažįsta, kad būtina bylą nagrinėti tiesiogiai dalyvaujant teismo posėdyje, nenaudojant informacinių ir elektroninių ryšių technologijų, bylos nagrinėjimas vyksta tame apygardos teisme, kuriam byla teisminga.
+
+
+
+
+4. Tais atvejais, kai šio straipsnio 1 dalyje nurodytą bylą teismas nusprendžia nagrinėti žodinio proceso tvarka ir byla nagrinėjama šio Kodekso 1752 straipsnyje nustatyta tvarka naudojant informacines ir elektroninių ryšių technologijas, šalis gali reikalauti užtikrinti jai ir (ar) jos atstovui galimybę pasinaudoti teismo informacinėmis ir elektroninių ryšių technologijomis (vaizdo konferencijomis, telekonferencijomis ir kita) to apygardos teismo, kuriam byla teisminga, patalpose.
+
+
+Papildyta straipsniu:
+Nr. XIV-2138, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14332
  
 
 
@@ -2804,7 +2861,7 @@ Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
 
-83 straipsnis. Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų  mokėjimo
+83 straipsnis. Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų  mokėjimo
 
 
 1. Bylose, kurias nagrinėja teismai, nuo žyminio mokesčio mokėjimo atleidžiami: 
@@ -21140,7 +21197,10 @@ IŠIEŠKOJIMO IŠ SKOLININKO TURTO BENDROSIOS TAISYKLĖS
 663 straipsnis. Apribojimai, taikomi išieškant iš fizinio asmens turto
 
 
-1. Pinigų išieškojimas negali būti nukreipiamas į skolininko turtą, jeigu skolininkas pateikia antstoliui įrodymus, kad išieškotiną sumą ir vykdymo išlaidas galima išieškoti per šešis mėnesius, o išieškant iš skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, – per aštuoniolika mėnesių, darant šio Kodekso 736 straipsnyje nurodyto dydžio išskaitas iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų. Šiuo atveju antstolis gali realizuoti skolininko turtą, jei paaiškėja, kad darant išskaitas iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų išieškotina suma ir vykdymo išlaidos per šioje dalyje nustatytą terminą nebus išieškotos.
+1. Pinigų išieškojimas negali būti nukreipiamas į skolininko turtą, jeigu skolininkas pateikia antstoliui įrodymus, kad išieškotiną sumą ir vykdymo išlaidas galima išieškoti per dvylika mėnesių, o išieškant iš skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, – per trisdešimt šešis mėnesius, darant šio Kodekso 736 straipsnyje nurodyto dydžio išskaitas iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų. Šiuo atveju antstolis gali realizuoti skolininko turtą, jei paaiškėja, kad darant išskaitas iš skolininko darbo užmokesčio, pensijos, stipendijos ar kitų pajamų išieškotina suma ir vykdymo išlaidos per šioje dalyje nustatytą terminą nebus išieškotos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
+ 
 
 
 
@@ -21150,7 +21210,10 @@ IŠIEŠKOJIMO IŠ SKOLININKO TURTO BENDROSIOS TAISYKLĖS
 
 
 
-3. Jeigu skolininkas nepateikia antstoliui šio straipsnio 1 dalyje nurodytų įrodymų arba paaiškėja, kad išieškotina suma ir vykdymo išlaidos nebus išieškotos per šio straipsnio 1 dalyje nustatytą terminą, išieškoti iš skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, galima tik tuo atveju, kai išieškotina suma ir vykdymo išlaidos viršija keturis tūkstančius eurų. Šioje dalyje nustatytas apribojimas netaikomas, jeigu skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, vertė yra mažesnė negu išieškotina suma ir vykdymo išlaidos.
+3. Jeigu skolininkas nepateikia antstoliui šio straipsnio 1 dalyje nurodytų įrodymų arba paaiškėja, kad išieškotina suma ir vykdymo išlaidos nebus išieškotos per šio straipsnio 1 dalyje nustatytą terminą, išieškoti iš skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, galima tik tuo atveju, kai išieškotina suma ir vykdymo išlaidos viršija 10 Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA), galiojančios paskelbiant varžytynes, dydžių. Šioje dalyje nustatytas apribojimas netaikomas, jeigu skolininkui priklausančio paskutinio būsto, kuriame jis gyvena, vertė yra mažesnė negu išieškotina suma ir vykdymo išlaidos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
+ 
 
 
 
@@ -23102,36 +23165,32 @@ Išskaitų iš skolininko darbo užmokesčio ir iš kitų jam prilygintų išmok
 736 straipsnis. Išskaitų iš skolininko darbo užmokesčio ir kitų jo pajamų dydis
 
 
-1. Iš skolininkui priklausančios darbo užmokesčio ir jam prilygintų išmokų bei davinių dalies, neviršijančių Vyriausybės nustatytos MMA, išskaitoma pagal vykdomuosius dokumentus tol, kol bus visiškai padengtos išieškomos sumos:
+1. Kol visiškai padengiamos išieškomos sumos, iš skolininkui priklausančios darbo užmokesčio ir jam prilygintų išmokų bei davinių dalies:
 
 
-1) išieškant išlaikymą periodinėmis išmokomis, žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą – trisdešimt procentų, jeigu kitaip nenustatyta pačiame vykdomajame rašte arba ko kita nenustato įstatymai ar teismas;
-
-
-
-
-2) visų kitų rūšių išieškoms, jeigu kitaip nenustatyta pačiame vykdomajame rašte arba ko kita nenustato įstatymai ar teismas, – dvidešimt procentų;
+1) neviršijančios MMA dydžio, pagal vieną ar kelis vykdomuosius dokumentus išskaitoma 10 procentų, o jeigu išieškomas išlaikymas periodinėmis išmokomis, žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimas, – 30 procentų, jeigu kitaip nenustatyta pačiame vykdomajame rašte arba ko kita nenustato įstatymai ar teismas;
 
 
 
 
-3) pagal kelis vykdomuosius dokumentus – trisdešimt procentų.
+2) viršijančios MMA dydį, tačiau neviršijančios 2 MMA dydžių, pagal vieną ar kelis vykdomuosius dokumentus išskaitoma 30 procentų, o jeigu išieškomas išlaikymas periodinėmis išmokomis, žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimas, – 50 procentų, jeigu ko kita nenustato įstatymai ar teismas;
+
+
+
+
+3) viršijančios 2 MMA dydžius, pagal vieną ar kelis vykdomuosius dokumentus išskaitoma 50 procentų, jeigu ko kita nenustato įstatymai ar teismas.
 
 
 
 
 
 
-2. Iš darbo užmokesčio ir jam prilygintų išmokų bei davinių dalies, viršijančios Vyriausybės nustatytą MMA dydį, išskaitoma penkiasdešimt procentų, jeigu ko kita nenustato įstatymai ar teismas.
-
-
-
-
-3. Jeigu skolininkas išlaiko nedarbingus šeimos narius, esant jo rašytiniam prašymui, antstolio patvarkymu šio straipsnio 2 dalyje nurodyta išskaitoma dalis gali būti mažinama po dešimt procentų kiekvienam išlaikytiniui, tačiau taip mažinant negali būti sumažinta įstatymų ar teismo nustatyta dalis. Mažinant išskaitų dydį, neatsižvelgiama į išlaikytinius, kuriems išlaikyti iš skolininko darbo užmokesčio daromos išskaitos.
+2. Jeigu skolininkas išlaiko nedarbingus šeimos narius, esant jo rašytiniam prašymui, antstolio patvarkymu šio straipsnio 1 dalies 2 ar 3 punkte nurodyta išskaitoma dalis gali būti mažinama po 10 procentų kiekvienam išlaikytiniui, tačiau taip mažinant negali būti sumažinta įstatymų ar teismo nustatyta dalis. Mažinant išskaitų dydį, neatsižvelgiama į išlaikytinius, kuriems išlaikyti iš skolininko darbo užmokesčio daromos išskaitos.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
+Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
  
 
 
@@ -25903,3 +25962,8 @@ Lietuvos Respublikos civilinio proceso kodekso 62-1, 304, 441 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596, 601, 602, 609, 610, 611, 614, 624-1, 626, 627, 631, 632, 634, 636, 648, 650, 651, 654, 656, 661, 663, 668, 685, 689, 702, 706, 710, 713, 723, 727, 731, 732, 753, 754, 755 ir 771-1 straipsnių pakeitimo įstatymas
+ 
+63.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
+Lietuvos Respublikos civilinio proceso kodekso 626, 663 ir 736 straipsnių pakeitimo įstatymas
