@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2024-01-01 iki 2024-06-30
+Suvestinė redakcija nuo 2024-07-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -1062,18 +1062,114 @@ Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
 
 
 
-2. Bendrosioms miškų ūkio reikmėms tenkinti ir gamtotvarkos priemonėms miškuose įgyvendinti Vyriausybės nustatyta tvarka miško valdytojams nustatomi privalomieji 5 procentų atskaitymai į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą mišką. Šie atskaitymai įtraukiami į valstybės biudžeto pajamas ir naudojami bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose finansuoti (miškų inventorizavimui, apskaitai, valstybinių miškų miškotvarkos projektams rengti, bendrai, nepriklausomai nuo nuosavybės formos, valstybinei miško priešgaisrinės apsaugos sistemai organizuoti ir išlaikyti, stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti, miško mokslo ir projektavimo darbams, privačių miškų savininkams konsultuoti bei mokyti, privačių miškų savininkų organizacinėms struktūroms kurtis, miško kelių ir susijusių miško žemės sausinimo sistemų įrenginių priežiūrai ir taisymui (remontui), informacijai apie miškus viešinti, Aplinkos ministerijai pavaldžių institucijų vykdomoms programoms miškų ūkio ir gamtotvarkos priemonių miškuose srityse bei kitoms bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose finansuoti). Lėšas administruoja ir jų naudojimo tvarką nustato Aplinkos ministerija. 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos miškų įstatymo 7 straipsnio 2 dalies (2019 m. gruodžio 10 d. redakcija; TAR, 2019-12-19, Nr. 20657) nuostata „Šie atskaitymai įtraukiami į valstybės biudžeto pajamas ir naudojami bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose finansuoti“ tiek, kiek pagal ją valstybės biudžeto pajamos iš privalomųjų atskaitymų nuo miškų valdytojų pajamų už jų parduotą žaliavinę medieną ir nenukirstą mišką gali būti naudojamos tik bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose, prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti. 
+2. Bendrosioms miško reikmėms ir kitoms valstybės biudžeto ar savivaldybių biudžetų reikmėms tenkinti Vyriausybės nustatyta tvarka valstybinių miškų valdytojams nustatomi privalomieji 15 procentų atskaitymai, o privačių miškų valdytojams – 5 procentų atskaitymai nuo pajamų už parduotą žaliavinę medieną ir nenukirstą mišką. Surinktos lėšos skirstomos taip: 85 procentai į valstybės biudžetą ir 15 procentų Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka paskirstoma į savivaldybių, kurių teritorijos miškingumas yra didesnis kaip 50 procentų, biudžetus vietinės reikšmės viešųjų kelių priežiūrai ir taisymui (remontui). Bendrosioms miško reikmėms tenkinti skirtas lėšas administruoja Aplinkos ministerija ar jos įgaliota institucija, jų naudojimo tvarką nustato aplinkos ministras. Bendrosioms miško reikmėms skirtos lėšos naudojamos:
+
+
+1) naujiems miškams įveisti skirtai žemei įsigyti valstybės nuosavybėn ir naujiems miškams įveisti;
+
+
+
+
+2) miškams inventorizuoti, jų apskaitai, stebėsenai, miškų tvarkymo schemoms rengti;
+
+
+
+
+3) bendrai valstybinei miško priešgaisrinės apsaugos sistemai finansuoti;
+
+
+
+
+4) stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti;
+
+
+
+
+5) bendrai kelių ir miško žemės sausinimo sistemų įrenginių priežiūrai ir jų taisymui (remontui);
+
+
+
+
+6) privačių miškų savininkams konsultuoti ir mokyti, privačių miškų savininkų organizacinėms struktūroms kurtis;
+
+
+
+
+7) taikomiesiems miško mokslo darbams finansuoti;
+
+
+
+
+8) viešosios paskirties rekreacijai ir poilsiui skirtų miško žemės sklypų, taip pat miestų miškų priežiūrai, apsaugai ir tvarkymui;
+
+
+
+
+9) žemės sklypams, kuriuose yra ekologiniu požiūriu vertingų miško buveinių, įsigyti valstybės nuosavybėn;
+
+
+
+
+10) miškų atkūrimui prioritetinėmis miško medžių rūšimis skatinti;
+
+
+
+
+11) miškų ūkio informacinėms sistemoms kurti;
+
+
+
+
+12) informacijai apie miškus viešinti, švietimui darnaus miškų ūkio klausimais finansuoti;
+
+
+
+
+13) Aplinkos ministerijai pavaldžių institucijų vykdomoms programoms miškų tvarkymo srityje finansuoti;
+
+
+
+
+14) miško genetiniams ištekliams išsaugoti ir miško medžių selekcijos plėtrai;
+
+
+
+
+15) pažangioms miško dauginamosios medžiagos išauginimo, miškų įveisimo, atkūrimo, apsaugos, tvarkymo ir miško išteklių naudojimo technologijoms diegti;
+
+
+
+
+16) atstovauti Lietuvai tarptautinėse miškų ūkio srities organizacijose;
+
+
+
+
+17) gamtotvarkos priemonėms miškuose finansuoti. 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
  
 
 
 
 
-3. Bendrosioms valstybės biudžeto reikmėms tenkinti Vyriausybės nustatyta tvarka valstybinių miškų valdytojams nustatomi privalomieji 10 procentų atskaitymai į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą mišką.
+21. Miško valdytojo, kuris yra juridinis asmuo arba užsienio valstybėje įsteigta organizacija, neturinti juridinio asmens statuso, tačiau turinti civilinį teisnumą pagal tos valstybės įstatymus, privalomųjų atskaitymų mokestinis laikotarpis yra kalendorinis mėnuo, o miško valdytojo, kuris yra fizinis asmuo, privalomųjų atskaitymų mokestinis laikotarpis yra kalendoriniai metai. Mokestiniam laikotarpiui pasibaigus, miško valdytojas, kuris yra juridinis asmuo arba užsienio valstybėje įsteigta organizacija, neturinti juridinio asmens statuso, tačiau turinti civilinį teisnumą pagal tos valstybės įstatymus, iki kito mėnesio, einančio po mokestinio laikotarpio, 15 dienos, o miško valdytojas, kuris yra fizinis asmuo, iki kalendorinių metų, einančių po mokestinio laikotarpio, gegužės 1 dienos privalo užpildyti privalomųjų atskaitymų deklaraciją ir sumokėti privalomuosius atskaitymus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
+ 
+
+
+
+
+3. Neteko galios nuo 2024-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
+ 
 
 
 
